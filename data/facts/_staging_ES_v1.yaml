@@ -1171,7 +1171,7 @@
   domain: ES
   subdomain: 食道運動障害
   assertion:
-    plain_statement_ja: 過収縮食道（いわゆるジャックハンマー食道）は、IRP中央値が正常で、20%以上の嚥下が過収縮を示すものである。過収縮の目安はDCI[30] 8,000 mmHg·s·cm超である（閾値は要確認）。
+    plain_statement_ja: 過収縮食道（いわゆるジャックハンマー食道）は、IRP中央値が正常で、20%以上の嚥下が過収縮を示すものである。過収縮の目安はDCI 8,000 mmHg·s·cm超である（閾値は要確認）。
     condition:
       region: 国際
     differential: 遠位食道痙攣
@@ -1210,6 +1210,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-011 を付与（照合方法：identifier(SRC-011:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 主張文内の脚注マーカー [30] を削除（proposals/01_inline_citation_markers.md、人間が 2026-10-12 に承認）
 - id: ES-030
   domain: ES
   subdomain: 食道運動障害
@@ -2634,7 +2637,7 @@
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
   assertion:
-    plain_statement_ja: Baveno VIIは、出血リスクの高い症例に72時間以内（可能なら24時間以内）の先制的TIPSを勧めている。対象は、Child-Pugh[68][69] Cで14点未満、内視鏡時に活動性出血のあるChild-Pugh Bで7点超、または出血時のHVPGが20 mmHg超の症例である。
+    plain_statement_ja: Baveno VIIは、出血リスクの高い症例に72時間以内（可能なら24時間以内）の先制的TIPSを勧めている。対象は、Child-Pugh Cで14点未満、内視鏡時に活動性出血のあるChild-Pugh Bで7点超、または出血時のHVPGが20 mmHg超の症例である。
     condition:
       region: 欧州
     differential: 止血できない場合などに行う救済TIPSとは別
@@ -2676,6 +2679,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-007 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 主張文内の脚注マーカー [68][69] を削除（proposals/01_inline_citation_markers.md、人間が 2026-10-12 に承認）
 - id: ES-065
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症

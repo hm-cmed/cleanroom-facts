@@ -25,7 +25,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -40,6 +40,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-001 を付与（照合方法：identifier(SRC-001:pmid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-R02
   domain: ES
   subdomain: null
@@ -67,7 +70,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -82,6 +85,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-002 を付与（照合方法：identifier(SRC-002:doi)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-R03
   domain: ES
   subdomain: null
@@ -147,7 +153,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -162,6 +168,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-004 を付与（照合方法：identifier(SRC-004:pmid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-R05
   domain: ES
   subdomain: null
@@ -189,7 +198,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -204,6 +213,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-016 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-R06
   domain: ES
   subdomain: null
@@ -390,7 +402,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -402,6 +414,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-027 を付与（照合方法：identifier(SRC-027:pmid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-R11
   domain: ES
   subdomain: null
@@ -464,7 +479,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -479,6 +494,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-010 を付与（照合方法：identifier(SRC-010:doi)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-R13
   domain: ES
   subdomain: null
@@ -506,7 +524,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -521,6 +539,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-011 を付与（照合方法：identifier(SRC-011:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-R14
   domain: ES
   subdomain: null
@@ -590,7 +611,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -605,6 +626,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-012 を付与（照合方法：identifier(SRC-012:doi)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-R16
   domain: ES
   subdomain: null
@@ -632,7 +656,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -647,6 +671,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-014 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-R17
   domain: ES
   subdomain: null
@@ -674,7 +701,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -689,6 +716,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-017 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-R18
   domain: ES
   subdomain: null
@@ -716,7 +746,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -731,6 +761,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-018 を付与（照合方法：identifier(SRC-018:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-R19
   domain: ES
   subdomain: null
@@ -758,7 +791,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -773,6 +806,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-015 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-069
   domain: ES
   subdomain: null
@@ -800,7 +836,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -815,6 +851,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-009 を付与（照合方法：identifier(SRC-009:pmid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-070
   domain: ES
   subdomain: null
@@ -842,7 +881,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -857,6 +896,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-009 を付与（照合方法：identifier(SRC-009:pmid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-071
   domain: ES
   subdomain: null
@@ -883,7 +925,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -898,6 +940,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-009 を付与（照合方法：identifier(SRC-009:pmid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-072
   domain: ES
   subdomain: null
@@ -925,7 +970,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -940,6 +985,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-009 を付与（照合方法：identifier(SRC-009:pmid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-073
   domain: ES
   subdomain: null
@@ -966,7 +1014,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -981,6 +1029,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-020 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-074
   domain: ES
   subdomain: null
@@ -1008,7 +1059,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1023,6 +1074,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-021 を付与（照合方法：identifier(SRC-021:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-075
   domain: ES
   subdomain: null
@@ -1050,7 +1104,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1065,6 +1119,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-020 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-079
   domain: ES
   subdomain: null
@@ -1092,7 +1149,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1107,6 +1164,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-023 を付与（照合方法：identifier(SRC-023:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-080
   domain: ES
   subdomain: null
@@ -1133,7 +1193,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1148,6 +1208,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-024 を付与（照合方法：identifier(SRC-024:doi)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-081
   domain: ES
   subdomain: null
@@ -1175,7 +1238,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1190,6 +1253,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-024 を付与（照合方法：identifier(SRC-024:doi)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-085
   domain: ES
   subdomain: null
@@ -1217,7 +1283,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1232,6 +1298,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-022 を付与（照合方法：identifier(SRC-022:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-086
   domain: ES
   subdomain: null
@@ -1259,7 +1328,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: verified_sources
+    status: draft
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1274,6 +1343,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-022 を付与（照合方法：identifier(SRC-022:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
 - id: ES-087
   domain: ES
   subdomain: null
