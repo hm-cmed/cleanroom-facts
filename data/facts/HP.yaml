@@ -1,0 +1,789 @@
+- id: HP-001
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: 2018〜2020年に日本国内で集めたH. pylori臨床分離株では、クラリスロマイシン耐性が35.5%、アモキシシリン耐性が2.7%、メトロニダゾール耐性が4.2%だった。
+    condition:
+      region: JP
+      period: 2018-08〜2020-12
+    differential:
+    - CAM耐性は高く、AMPC・MNZ耐性は低い
+    common_misconception: 日本ではMNZ耐性が高いので二次除菌が効きにくい（誤り：MNZ耐性は低い）
+  provenance:
+    source_ref: null
+    source: Okimoto T et al. Helicobacter 2024;29:e13028
+    doi: 10.1111/hel.13028
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: CC BY-NC-ND 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: JSGE PUD GL 2026 CQ-3（DOI 10.1007/s00535-026-02504-3, CC BY 4.0）
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [4][5][6] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「CC BY-NC-ND 4.0」：制限的な記載（NC・ND）を含む。CLAUDE.md 2-3 パイロット規則）
+- id: HP-002
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: 日本の第III相二重盲検RCTでは、一次除菌（三剤）の除菌率がボノプラザン群92.6%、ランソプラゾール群75.9%だった。
+    condition:
+      region: JP
+      regimen: VPZ/LPZ + AMPC + CAM, 7日
+    common_misconception: P-CABでもPPIでも除菌率は同じ
+  provenance:
+    source_ref: null
+    source: Murakami K et al. Gut 2016;65:1439-46
+    doi: 10.1136/gutjnl-2015-311304
+    pmid: '26935876'
+    pmcid: PMC5036253
+    url: null
+    source_license: 未確認（PMCで無料公開、CC種別は未確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: Springer Adv Ther 2021 (10.1007/s12325-021-01784-w) の記載
+  uncertainty: DOI・PMIDはPubMedのコメント記事（PMID 27210791）とClinicalTrials.gov NCT04901663の文献リストで確認。ライセンスは要確認
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [43][44] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=UNKNOWN（source_license「未確認（PMCで無料公開、CC種別は未確認）」：未確認・要確認の記載を含む。CLAUDE.md 2-3 パイロット規則）
+- id: HP-003
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: 同じRCTのCAM耐性株感染例では、除菌率がボノプラザン三剤で82.0%、ランソプラゾール三剤で40.0%だった（p<0.0001）。
+    condition:
+      region: JP
+      strain: CAM耐性（n=100 vs 115）
+    differential:
+    - CAM感受性株ではVPZ三剤97.6%、LPZ三剤97.3%と差がなかった
+  provenance:
+    source_ref: null
+    source: Murakami 2016 原著本文（PMC5036253、online supplementary table S1参照）; Frontiers Pharmacol 2018 (10.3389/fphar.2018.01560)
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+  uncertainty: 数値は原著本文で確認済み。ライセンスは要確認
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=UNKNOWN（source_license「未確認」：未確認・要確認の記載を含む。CLAUDE.md 2-3 パイロット規則）
+- id: HP-004
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: JSGE 2026は、一次除菌ではPPIよりボノプラザンを含む三剤療法を用いることを強く推奨している（エビデンスA、7件のRCTのメタ解析）。
+    condition:
+      region: JP
+      guideline: JSGE PUD 2026 CQ-2
+    differential:
+    - 欧州（Maastricht VI）は経験的一次治療に14日ビスマス4剤を推奨
+  provenance:
+    source_ref: null
+    source: JSGE PUD GL 2026
+    doi: 10.1007/s00535-026-02504-3
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [7][45] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=OPEN（source_license「CC BY 4.0」：CC BY / CC0 のみ。CLAUDE.md 2-3 パイロット規則）
+- id: HP-005
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: JSGE 2026は、可能であれば一次除菌前にCAM感受性検査を行い、最も高い除菌率が見込めるレジメンを選ぶよう強く推奨している。
+    condition:
+      region: JP
+      guideline: CQ-3
+    common_misconception: 感受性検査は除菌失敗後にだけ行う
+  provenance:
+    source_ref: null
+    source: JSGE PUD GL 2026
+    doi: 10.1007/s00535-026-02504-3
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [6][7] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=OPEN（source_license「CC BY 4.0」：CC BY / CC0 のみ。CLAUDE.md 2-3 パイロット規則）
+- id: HP-006
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: CAM感受性株にはVPZ＋AMPC＋CAMを、CAM耐性株にはPPIまたはVPZ＋AMPC＋MNZを用いることが推奨されている。
+    condition:
+      region: JP
+      guideline: CQ-4
+      strength: いずれも強い推奨
+    differential:
+    - 耐性株にCAM含有レジメンを使い続けるのは誤り
+  provenance:
+    source_ref: null
+    source: JSGE PUD GL 2026
+    doi: 10.1007/s00535-026-02504-3
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [7] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=OPEN（source_license「CC BY 4.0」：CC BY / CC0 のみ。CLAUDE.md 2-3 パイロット規則）
+- id: HP-007
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: 日本の二次除菌の推奨レジメンは、標準量PPIまたはVPZ 20 mg、AMPC 750 mg、MNZ 250 mgを1日2回・1週間投与するもので、PPIとVPZで除菌率は同等とされる。
+    condition:
+      region: JP
+      line: second
+      guideline: CQ-2（弱い推奨, B）
+    common_misconception: 二次除菌でも必ずVPZでなければならない
+  provenance:
+    source_ref: null
+    source: JSGE PUD GL 2026
+    doi: 10.1007/s00535-026-02504-3
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+  uncertainty: 用量は保険診療上の用法と照合を要確認
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [7] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=OPEN（source_license「CC BY 4.0」：CC BY / CC0 のみ。CLAUDE.md 2-3 パイロット規則）
+- id: HP-008
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: 欧州のMaastricht VI/Florenceコンセンサスは、感受性が不明な場合やCAM耐性率が15%を超える地域では、経験的一次治療として14日間のビスマス4剤療法を推奨している。
+    condition:
+      region: EU
+      guideline: Maastricht VI
+    differential:
+    - 日本：VPZベース＋感受性検査（HP-004〜006）
+  provenance:
+    source_ref: null
+    source: Malfertheiner P et al. Gut 2022;71:1724-62
+    doi: 10.1136/gutjnl-2022-327745
+    pmid: '35944925'
+    pmcid: null
+    url: null
+    source_license: No commercial re-use（CC BY-NC系、要確認）
+    legal_basis: B
+    source_class: RESTRICTED
+  uncertainty: 推奨文の詳細は二次文献（Microbiota journal 2023 review）経由。原著で要確認
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [45] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「No commercial re-use（CC BY-NC系、要確認）」：制限的な記載（NC・No commercial）を含む。CLAUDE.md 2-3 パイロット規則）
+- id: HP-009
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: 米国ACG 2024は、未治療例の選択肢として最適化ビスマス4剤療法を優先し、感受性が確認されない限りCAMやレボフロキサシンを含むレジメンは避けるよう求めている。
+    condition:
+      region: US
+      guideline: ACG 2024
+    differential:
+    - 米国のCAM耐性率は22.2〜31.5%、レボフロキサシン耐性率は37.6%と記載
+  provenance:
+    source_ref: null
+    source: Chey WD et al. Am J Gastroenterol 2024;119:1730-53（要旨はJCAG誌の解説（CC BY）経由）
+    doi: 10.14309/ajg.0000000000002968
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: © ACG（原典）／解説記事 CC BY 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [21][46][23] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「© ACG（原典）／解説記事 CC BY 4.0」：制限的な記載（©）を含む。CLAUDE.md 2-3 パイロット規則）
+- id: HP-010
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: ACG 2024は、未治療例の選択肢として、ビスマス4剤のほか、リファブチン三剤、VPZ＋AMPC二剤、VPZ三剤（いずれも14日間）を挙げている。
+    condition:
+      region: US
+    common_misconception: 米国でも日本と同じ7日間療法が標準
+  provenance:
+    source_ref: null
+    source: JCAG 2025 commentary（academic.oup.com/jcag/article/8/3/85/8125707）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [23] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=OPEN（source_license「CC BY 4.0」：CC BY / CC0 のみ。CLAUDE.md 2-3 パイロット規則）
+- id: HP-011
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: PPI服用中は尿素呼気試験、迅速ウレアーゼ試験、ペプシノゲン値の信頼性が下がるため、診断にはこれらを用いない。
+    condition:
+      region: JP
+      guideline: JSHR 2024 BQ
+    differential:
+    - 国内のモノクローナル抗体便中抗原検査は施設での検証後に使用可能
+    - 胃液の核酸増幅検査はPPIの影響を受けない
+    common_misconception: PPI内服中でも尿素呼気試験の陰性は信頼できる
+  provenance:
+    source_ref: null
+    source: JSHR GL 2024 英語版
+    doi: 10.1007/s00535-026-02379-4
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [13][13] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=OPEN（source_license「CC BY 4.0」：CC BY / CC0 のみ。CLAUDE.md 2-3 パイロット規則）
+- id: HP-012
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: 除菌判定の検査前には、PPIを2週間以上、ビスマスと抗菌薬を4週間以上中止し、治療終了から4週間以上あけて判定する。
+    condition:
+      region: US
+      guideline: ACG 2024（要旨）
+    differential:
+    - H2RAや制酸薬は判定精度に影響しないとされる
+    - 血清抗体は除菌判定に用いない
+  provenance:
+    source_ref: null
+    source: ACG 2024（Emory大学の要約資料経由）
+    doi: 10.14309/ajg.0000000000002968
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: © ACG
+    legal_basis: B
+    source_class: RESTRICTED
+  uncertainty: 日本のJSHR推奨期間との異同を要確認
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [47][48][47] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「© ACG」：制限的な記載（©）を含む。CLAUDE.md 2-3 パイロット規則）
+- id: HP-013
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: 尿素呼気試験のカットオフは除菌前で2.5〜3.5‰、除菌後で3.5〜4.0‰が適切とされ、除菌前に2.5‰を用いた場合の感度は96.2〜100%、特異度は83.3〜100%と報告されている。
+    condition:
+      region: JP
+      guideline: JSHR 2024 CQ1-1（強い推奨, B）
+  provenance:
+    source_ref: null
+    source: JSHR GL 2024 英語版
+    doi: 10.1007/s00535-026-02379-4
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [13] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=OPEN（source_license「CC BY 4.0」：CC BY / CC0 のみ。CLAUDE.md 2-3 パイロット規則）
+- id: HP-014
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: 京都分類に基づく内視鏡所見のうち、現感染を最も強く示すのはびまん性発赤（診断オッズ比26.8）で、粘膜腫脹13.3、白濁粘液10.2、皺襞腫大8.6が続く。
+    condition:
+      region: JP
+    differential:
+    - びまん性発赤の改善は除菌成功の指標
+    common_misconception: RACが観察されれば現感染を疑う（RACはむしろ未感染の所見）
+  provenance:
+    source_ref: null
+    source: Yoshii S et al. Dig Endosc 2020;32:74-83（JSHR GL 2024で引用）
+    doi: 10.1007/s00535-026-02379-4（引用元）
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 引用元 CC BY 4.0／原著は要確認
+    legal_basis: B
+    source_class: UNKNOWN
+  uncertainty: RACに関する誤解例は専門医確認を要する
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [13][13] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=UNKNOWN（source_license「引用元 CC BY 4.0／原著は要確認」：未確認・要確認の記載を含む。CLAUDE.md 2-3 パイロット規則）
+- id: HP-015
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: JSHR 2024は、H. pylori感染症はすべて除菌の適応であるという基本方針を維持している。
+    condition:
+      region: JP
+    differential:
+    - 米国ACGも『感染が判明した全例を治療』とする
+  provenance:
+    source_ref: null
+    source: JSHR GL 2024 英語版（抄録）
+    doi: 10.1007/s00535-026-02379-4
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [13][48] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=OPEN（source_license「CC BY 4.0」：CC BY / CC0 のみ。CLAUDE.md 2-3 パイロット規則）
+- id: HP-016
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: 胃癌予防の観点からは、より若い年齢での除菌が推奨され、日本では中学生の時期での検査と除菌が予防戦略として強調されている。
+    condition:
+      region: JP
+      population: 思春期
+    differential:
+    - 欧州小児ガイドラインは無症状小児へのtest-and-treatを推奨しない
+  provenance:
+    source_ref: null
+    source: JSHR GL 2024 英語版
+    doi: 10.1007/s00535-026-02379-4
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+  uncertainty: 推奨の強さとエビデンスレベルは要確認
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [13][49] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=OPEN（source_license「CC BY 4.0」：CC BY / CC0 のみ。CLAUDE.md 2-3 パイロット規則）
+- id: HP-017
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: 京都グローバルコンセンサスは、H. pylori胃炎を症状の有無にかかわらず感染症として位置づけた。
+    condition:
+      region: global
+    common_misconception: 無症状のH. pylori胃炎は治療対象ではない
+  provenance:
+    source_ref: null
+    source: Sugano K et al. Gut 2015;64:1353-67
+    doi: 10.1136/gutjnl-2015-309252
+    pmid: '26187502'
+    pmcid: null
+    url: null
+    source_license: CC BY-NC 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+  uncertainty: 『症状の有無にかかわらず』の表現は原著で要確認
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「CC BY-NC 4.0」：制限的な記載（NC）を含む。CLAUDE.md 2-3 パイロット規則）
+- id: HP-018
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: 日本の胃潰瘍患者数は2023年に年間19.4万人、十二指腸潰瘍は2.0万人まで減少し、40年前と比べるとそれぞれ約10分の1、約20分の1になった。
+    condition:
+      region: JP
+      year: 2023
+    differential:
+    - 減少の背景：除菌の保険適用拡大、VPZの導入、薬剤性潰瘍の予防
+  provenance:
+    source_ref: null
+    source: 厚労省 患者調査2023（JSGE PUD GL 2026の序論で引用）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/toukei/saikin/hw/kanja/23/index.html
+    source_license: 政府統計（利用規約は要確認）／引用元 CC BY 4.0
+    legal_basis: B
+    source_class: UNKNOWN
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [7][7] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=UNKNOWN（source_license「政府統計（利用規約は要確認）／引用元 CC BY 4.0」：未確認・要確認の記載を含む。CLAUDE.md 2-3 パイロット規則）
+- id: HP-019
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: H. pylori陰性かつNSAID非使用の消化性潰瘍（特発性潰瘍）と、非H. pyloriヘリコバクター（NHPH）感染による潰瘍の増加が注目されている。
+    condition:
+      region: JP
+    common_misconception: H. pylori陰性でNSAIDも使っていなければ潰瘍は起こらない
+  provenance:
+    source_ref: null
+    source: JSGE PUD GL 2026（抄録）
+    doi: 10.1007/s00535-026-02504-3
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [7] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=OPEN（source_license「CC BY 4.0」：CC BY / CC0 のみ。CLAUDE.md 2-3 パイロット規則）
+- id: HP-020
+  domain: HP
+  subdomain: null
+  assertion:
+    plain_statement_ja: H. pylori陽性の限局期胃MALTリンパ腫では、除菌療法が一次治療として位置づけられている。
+    condition:
+      region: JP/EU
+    differential:
+    - 除菌後も残存・進行する場合は放射線療法などを検討
+  provenance:
+    source_ref: null
+    source: JSHR GL 2024（除菌適応疾患の一覧）／Maastricht VI
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: CC BY 4.0／NC
+    legal_basis: B
+    source_class: RESTRICTED
+  uncertainty: 該当CQ番号、寛解率の数値、t(11;18)陽性例の扱いは要確認。完全寛解率の一次ソース（メタ解析PMID）は未取得
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [50][51] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「CC BY 4.0／NC」：制限的な記載（NC）を含む。CLAUDE.md 2-3 パイロット規則）

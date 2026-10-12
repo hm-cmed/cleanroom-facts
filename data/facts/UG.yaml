@@ -1,0 +1,708 @@
+- id: UG-001
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: 救急外来を受診した上部消化管出血のうち、院内での介入または死亡の見逃し率が1%以下となる超低リスク例（例：Glasgow-Blatchfordスコア0〜1）は、入院させず外来フォローで帰宅させることが提案されている。
+    condition:
+      region: US
+      guideline: ACG 2021（条件付き推奨, 非常に低い質）
+    differential:
+    - GBSは内視鏡前のリスク層別化に使う。Rockallスコア（完全版）は内視鏡所見を必要とする
+    common_misconception: GBS 0〜1でも全例を緊急内視鏡にすべき
+  provenance:
+    source_ref: null
+    source: Laine L et al. Am J Gastroenterol 2021;116:899-917
+    doi: 10.14309/ajg.0000000000001245
+    pmid: '33929377'
+    pmcid: null
+    url: null
+    source_license: © ACG
+    legal_basis: B
+    source_class: RESTRICTED
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [8][25][52][53] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「© ACG」：制限的な記載（©）を含む。CLAUDE.md 2-3 パイロット規則）
+- id: UG-002
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: GBS 0の感度の点推定値は99〜100%だが、特異度は8〜22%と低い。
+    condition:
+      region: US
+    common_misconception: GBSは特異度が高いので入院適応の判定に強い
+  provenance:
+    source_ref: null
+    source: ACG 2021
+    doi: 10.14309/ajg.0000000000001245
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: © ACG
+    legal_basis: B
+    source_class: RESTRICTED
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [54] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「© ACG」：制限的な記載（©）を含む。CLAUDE.md 2-3 パイロット規則）
+- id: UG-003
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: 上部消化管出血の入院患者では、Hb 7 g/dLを閾値とする制限輸血が提案されている。
+    condition:
+      region: US
+      guideline: ACG 2021（条件付き推奨, 低い質）
+    differential:
+    - 低血圧例や心血管疾患合併例では、より高い閾値を考慮する
+    - Villanueva 2013では、制限輸血の死亡率上の利益はChild-Pugh A/Bの肝硬変例（4% vs 12%）でみられたが、Child-Pugh C（38% vs 41%, P=0.91）ではみられなかった。急性冠症候群、脳卒中・TIA、大量出血は除外されていた（Wiki Journal Clubの要約）
+    common_misconception: Hb 10 g/dLを保つように輸血するほど予後が良い
+  provenance:
+    source_ref: null
+    source: ACG 2021
+    doi: 10.14309/ajg.0000000000001245
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: © ACG
+    legal_basis: B
+    source_class: RESTRICTED
+  uncertainty: 心血管疾患合併例の具体的な閾値（8 g/dL等）は要確認
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [25][55] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「© ACG」：制限的な記載（©）を含む。CLAUDE.md 2-3 パイロット規則）
+- id: UG-004
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: 閾値7 g/dLの根拠となった上部消化管出血のRCT（単施設、n=921：制限群461例＜7 g/dL、非制限群460例＜9 g/dL）では、輸血を受けた患者の割合が制限群49%、非制限群86%（P<0.001）で、45日死亡率は5% vs 9%（HR 0.55; 95% CI 0.33–0.92）だった。
+    condition:
+      region: EU(Spain, Hospital de Sant Pau, Barcelona)
+  provenance:
+    source_ref: null
+    source: Villanueva C et al. N Engl J Med 2013;368(1):11-21（ACG 2021が引用）
+    doi: null
+    pmid: '23281973'
+    pmcid: null
+    url: null
+    source_license: © ACG（引用元）
+    legal_basis: B
+    source_class: RESTRICTED
+  uncertainty: PMIDはPubMedの検索結果で確認。DOIは要確認｜［取り込み時］DOIは原本で「要確認」のためnull
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「© ACG（引用元）」：制限的な記載（©）を含む。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 識別子を null 化：DOIは原本で「要確認」のためnull
+- id: UG-005
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: システマティックレビューでは、制限輸血によって輸血を受ける患者数が43%減り、臨床的に重要な転帰の悪化は認められなかった。
+    condition:
+      region: global
+  provenance:
+    source_ref: null
+    source: ACG 2021
+    doi: 10.14309/ajg.0000000000001245
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: © ACG
+    legal_basis: B
+    source_class: RESTRICTED
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [54] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「© ACG」：制限的な記載（©）を含む。CLAUDE.md 2-3 パイロット規則）
+- id: UG-006
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: 非静脈瘤性上部消化管出血では、循環動態を安定させた後、24時間以内に上部内視鏡を行うことが推奨される。
+    condition:
+      region: JP/EU/US
+    differential:
+    - ESGEは12時間以内の緊急内視鏡を、転帰が改善しないとして推奨していない
+    common_misconception: 来院後できるだけ早く（蘇生前でも）内視鏡を行うべき
+  provenance:
+    source_ref: null
+    source: JGES NVUGIB GL 第2版（強い推奨）、ESGE 2021、ACG 2021
+    doi: 10.1111/den.15019; 10.1055/a-1369-5274
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: Wiley標準条件／未確認
+    legal_basis: B
+    source_class: RESTRICTED
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [9][56][57][10] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「Wiley標準条件／未確認」：制限的な記載（Wiley）を含む。CLAUDE.md 2-3 パイロット規則）
+- id: UG-007
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: 上部消化管出血が疑われる患者に、スクリーニング目的で経鼻胃管をルーチンに挿入することは推奨されない。
+    condition:
+      region: JP
+      guideline: JGES第2版（弱い推奨, エビデンスC）
+      also: ESGE 2021（強く非推奨）
+    common_misconception: 胃管吸引で血液がなければ上部出血は否定できる
+  provenance:
+    source_ref: null
+    source: JGES NVUGIB GL 第2版
+    doi: 10.1111/den.15019
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: Wiley標準条件
+    legal_basis: B
+    source_class: RESTRICTED
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [56][56] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「Wiley標準条件」：制限的な記載（Wiley）を含む。CLAUDE.md 2-3 パイロット規則）
+- id: UG-008
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: 重症または活動性出血が続く上部消化管出血では、内視鏡の30〜120分前にエリスロマイシン250 mgを単回静注することが推奨される。
+    condition:
+      region: EU
+      guideline: ESGE
+    differential:
+    - ESGE 2026は、エリスロマイシンが使えない場合にメトクロプラミドの静注を提案
+  provenance:
+    source_ref: null
+    source: ESGE 2015/2021、ESGE 2026
+    doi: 10.1055/s-0034-1393172; 10.1055/a-2863-8314
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+  uncertainty: 日本での保険適用外使用である点を要確認
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [57][58][31] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=UNKNOWN（source_license「未確認」：未確認・要確認の記載を含む。CLAUDE.md 2-3 パイロット規則）
+- id: UG-009
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: Forrest分類のIa（噴出性出血）、Ib（湧出性出血）、IIa（露出血管）は高リスク所見で内視鏡的止血の対象となる。IIc（平坦な色素斑）とIII（清浄潰瘍底）は再出血リスクが低く、止血処置を要しない。
+    condition:
+      region: global
+    differential:
+    - IIb（凝血塊付着）：ESGEは凝血塊除去を考慮、ACGは推奨なし
+    common_misconception: 黒色の平坦な色素斑（IIc）にもクリップが必要
+  provenance:
+    source_ref: null
+    source: ESGE 2015 (10.1055/s-0034-1393172)、ACG 2021
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 未確認／© ACG
+    legal_basis: B
+    source_class: RESTRICTED
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [58][59][58][60] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「未確認／© ACG」：制限的な記載（©）を含む。CLAUDE.md 2-3 パイロット規則）
+- id: UG-010
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: ESGE 2026は、高リスク所見（FIa・FIb）の消化性潰瘍出血に対し、再出血がより少ないことから、over-the-scope（OTS）クリップ単独を従来の併用療法に代わる一次治療として提案している。
+    condition:
+      region: EU
+      guideline: ESGE 2026 推奨7
+    differential:
+    - ソフト凝固を用いた止血鉗子の単独療法も選択肢（推奨10）
+    - 止血剤（パウダー等）の単独での一次使用は提案しない（推奨11）
+  provenance:
+    source_ref: null
+    source: ESGE 2026（PubMed抄録 PMID 42127996）
+    doi: 10.1055/a-2863-8314
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [32] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=UNKNOWN（source_license「未確認」：未確認・要確認の記載を含む。CLAUDE.md 2-3 パイロット規則）
+- id: UG-011
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: エピネフリン局注のみによる止血は不十分で、他の止血法と併用すべきである。
+    condition:
+      region: global
+  provenance:
+    source_ref: null
+    source: ESGE 2021／ACG 2021
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 未確認／© ACG
+    legal_basis: B
+    source_class: RESTRICTED
+  uncertainty: 今回取得した資料では文言を確認できていない。要確認
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [59] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「未確認／© ACG」：制限的な記載（©）を含む。CLAUDE.md 2-3 パイロット規則）
+- id: UG-012
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: 出血性潰瘍の内視鏡的止血後にPPIを投与すると、再出血、輸血量、入院期間、手術の必要性が減る。用量や投与経路による効果差は乏しいとされる。
+    condition:
+      region: JP
+      guideline: JSGE 2026 CQ-1（強い推奨, A）
+  provenance:
+    source_ref: null
+    source: JSGE PUD GL 2026
+    doi: 10.1007/s00535-026-02504-3
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [7] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=OPEN（source_license「CC BY 4.0」：CC BY / CC0 のみ。CLAUDE.md 2-3 パイロット規則）
+- id: UG-013
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: 止血成功後の高リスク潰瘍では、VPZ 40 mgと高用量PPI持続静注（80 mgボーラス後8 mg/時を72時間）を比べた2つのRCTで、再出血率と死亡率に差がなかった。
+    condition:
+      region: Thailand RCT
+      guideline: JSGE 2026はVPZを弱い推奨（A）
+    differential:
+    - ESGE 2026は止血後のP-CABルーチン使用について合意に至らなかった（推奨15）
+    common_misconception: 止血後のVPZはPPIより再出血を明確に減らす
+  provenance:
+    source_ref: null
+    source: Geeratragool T et al. Gastroenterology 2024;167:778-87（JSGE 2026経由）
+    doi: 10.1007/s00535-026-02504-3（引用元）
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: CC BY 4.0（引用元）
+    legal_basis: B
+    source_class: OPEN
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [7][7][34] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=OPEN（source_license「CC BY 4.0（引用元）」：CC BY / CC0 のみ。CLAUDE.md 2-3 パイロット規則）
+- id: UG-014
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: 内視鏡治療を行った高リスク潰瘍出血では、高用量PPI（1日80 mg以上）を3日間投与した後、2週間は1日2回のPPIを続けることが提案されている。
+    condition:
+      region: US
+      guideline: ACG 2021
+  provenance:
+    source_ref: null
+    source: ACG 2021（Emory大学の要約資料経由）
+    doi: 10.14309/ajg.0000000000001245
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: © ACG
+    legal_basis: B
+    source_class: RESTRICTED
+  uncertainty: 原文の推奨強度は要確認
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [59][61] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「© ACG」：制限的な記載（©）を含む。CLAUDE.md 2-3 パイロット規則）
+- id: UG-015
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: ESGE 2026は、再出血例にはOTSクリップでの再止血を考慮し、それも不成功なら経カテーテル動脈塞栓術（TAE）、TAEができない・不成功なら手術という順序を推奨している。
+    condition:
+      region: EU
+      guideline: 推奨16
+    common_misconception: 再出血したらすぐに外科手術
+  provenance:
+    source_ref: null
+    source: ESGE 2026
+    doi: 10.1055/a-2863-8314
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [59][34] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=UNKNOWN（source_license「未確認」：未確認・要確認の記載を含む。CLAUDE.md 2-3 パイロット規則）
+- id: UG-016
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: 心血管疾患の二次予防として低用量アスピリンを服用中の患者が消化性潰瘍出血を起こした場合、再出血リスクが低ければ、内視鏡直後からアスピリンを再開することが推奨される。
+    condition:
+      region: EU
+      guideline: ESGE 2015（2021/2026で表現は要確認）
+    differential:
+    - 一次予防目的のアスピリンは中止を検討
+    common_misconception: 潰瘍出血後は抗血小板薬を数週間中止するのが安全
+  provenance:
+    source_ref: null
+    source: ESGE 2015
+    doi: 10.1055/s-0034-1393172
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+  uncertainty: 最新版での再開時期（即時／3日以内等）は要確認
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [58][62] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=UNKNOWN（source_license「未確認」：未確認・要確認の記載を含む。CLAUDE.md 2-3 パイロット規則）
+- id: UG-017
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: 抗凝固療法の継続が必要な患者では、血栓塞栓リスクに応じて、臨床的に可能になった時点でできるだけ早く抗凝固薬を再開することが推奨される。
+    condition:
+      region: EU
+      guideline: ESGE 2026 推奨17
+    differential:
+    - ワルファリン服用中の重篤出血ではFFPよりPCCが優先されるとの記載あり（二次文献、要確認）
+  provenance:
+    source_ref: null
+    source: ESGE 2026
+    doi: 10.1055/a-2863-8314
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [10][34][9][59] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=UNKNOWN（source_license「未確認」：未確認・要確認の記載を含む。CLAUDE.md 2-3 パイロット規則）
+- id: UG-018
+  domain: UG
+  subdomain: null
+  assertion:
+    plain_statement_ja: 持続的な止血が得られた消化性潰瘍出血では、止血後24時間以内に経口摂取を始め、鉄欠乏や貧血があれば退院前に鉄補充を開始することが提案されている。
+    condition:
+      region: EU
+      guideline: ESGE 2026 推奨18・19
+  provenance:
+    source_ref: null
+    source: ESGE 2026
+    doi: 10.1055/a-2863-8314
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+  uncertainty: null
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/00_pilot_hp_ug.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [63] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B を legal_basis に移行。source_class=UNKNOWN（source_license「未確認」：未確認・要確認の記載を含む。CLAUDE.md 2-3 パイロット規則）

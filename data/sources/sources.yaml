@@ -1,0 +1,405 @@
+- id: SRC-001
+  legacy_id: SRC-01
+  title: Kato K, JCOG1109
+  citation: Lancet 2024;404:55-66, PMID 38876133
+  doi: null
+  pmid: '38876133'
+  pmcid: null
+  license_note: 非CC
+  legacy_basis_tag: B
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-01 から（IDを3桁に正規化、basis_tag B を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-002
+  legacy_id: SRC-02
+  title: Kelly RJ, CheckMate 577
+  citation: NEJM 2021;384:1191-1203, DOI 10.1056/NEJMoa2032125
+  doi: 10.1056/NEJMoa2032125
+  pmid: null
+  pmcid: null
+  license_note: 非CC
+  legacy_basis_tag: B
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-02 から（IDを3桁に正規化、basis_tag B を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-003
+  legacy_id: SRC-03
+  title: Doki Y, CheckMate 648
+  citation: NEJM 2022;386:449-462, DOI 10.1056/NEJMoa2111380
+  doi: 10.1056/NEJMoa2111380
+  pmid: null
+  pmcid: null
+  license_note: 非CC
+  legacy_basis_tag: B
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-03 から（IDを3桁に正規化、basis_tag B を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-004
+  legacy_id: SRC-04
+  title: Sun JM, KEYNOTE-590
+  citation: Lancet 2021;398:759-771, PMID 34454674
+  doi: null
+  pmid: '34454674'
+  pmcid: null
+  license_note: 非CC
+  legacy_basis_tag: B
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-04 から（IDを3桁に正規化、basis_tag B を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-005
+  legacy_id: SRC-05
+  title: Metges JP, KEYNOTE-590 5年
+  citation: ESMO Open 2025;10(12):105854
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Crossref）
+  legacy_basis_tag: B
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-05 から（IDを3桁に正規化、basis_tag B を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-006
+  legacy_id: SRC-06
+  title: Ishihara R, JGES食道ESD/EMR GL
+  citation: Dig Endosc 2020;32:452-493
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: Wiley規約（Crossref）
+  legacy_basis_tag: B
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-06 から（IDを3桁に正規化、basis_tag B を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-007
+  legacy_id: SRC-07
+  title: de Franchis R, Baveno VII
+  citation: J Hepatol 2022;76:959-974
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: Elsevier TDMのみ
+  legacy_basis_tag: B
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-07 から（IDを3桁に正規化、basis_tag B を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-008
+  legacy_id: SRC-08
+  title: Gralnek IM, ESGE静脈瘤GL
+  citation: Endoscopy 2022;54:1094-1120, PMID 36174643
+  doi: null
+  pmid: '36174643'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: E
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-08 から（IDを3桁に正規化、basis_tag E を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-009
+  legacy_id: SRC-09
+  title: Birk M, ESGE異物GL
+  citation: Endoscopy 2016;48:489-496, PMID 26862844
+  doi: null
+  pmid: '26862844'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: E
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-09 から（IDを3桁に正規化、basis_tag E を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-010
+  legacy_id: SRC-10
+  title: Gyawali CP, Lyon 2.0
+  citation: Gut 2024;73:361-371, DOI 10.1136/gutjnl-2023-330616
+  doi: 10.1136/gutjnl-2023-330616
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC（WUSTLの記録）
+  legacy_basis_tag: B
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-10 から（IDを3桁に正規化、basis_tag B を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-011
+  legacy_id: SRC-11
+  title: Yadlapati R, Chicago v4.0
+  citation: Neurogastroenterol Motil 2021, PMC8034247
+  doi: null
+  pmid: null
+  pmcid: PMC8034247
+  license_note: 未確認
+  legacy_basis_tag: E
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-11 から（IDを3桁に正規化、basis_tag E を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-012
+  legacy_id: SRC-12
+  title: Brooks PJ, Alcohol flushing response
+  citation: PLoS Med 2009, DOI 10.1371/journal.pmed.1000050
+  doi: 10.1371/journal.pmed.1000050
+  pmid: null
+  pmcid: null
+  license_note: CC BY
+  legacy_basis_tag: A
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-12 から（IDを3桁に正規化、basis_tag A を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-013
+  legacy_id: SRC-13
+  title: Lewis SJ, ALDH2メタ解析
+  citation: CEBP 2005;14:1967, PMID 16103445
+  doi: null
+  pmid: '16103445'
+  pmcid: null
+  license_note: 非CC
+  legacy_basis_tag: B
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-13 から（IDを3桁に正規化、basis_tag B を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-014
+  legacy_id: SRC-14
+  title: 国立がん研究センター がん統計
+  citation: ganjoho.jp 食道
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 元データは政府統計。サイトの規約は未確認
+  legacy_basis_tag: C
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-14 から（IDを3桁に正規化、basis_tag C を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-015
+  legacy_id: SRC-15
+  title: 診療報酬点数表 K653-6
+  citation: 令和4年度改定
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 告示原本は未閲覧
+  legacy_basis_tag: C
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-15 から（IDを3桁に正規化、basis_tag C を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-016
+  legacy_id: SRC-16
+  title: 小野薬品・BMS 適正使用文書
+  citation: '2021-11-26'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 企業資料
+  legacy_basis_tag: B
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-16 から（IDを3桁に正規化、basis_tag B を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-017
+  legacy_id: SRC-17
+  title: 門脈圧亢進症取扱い規約 第3版の記載基準
+  citation: 日消誌116(5):395、日内会誌103(5):1187
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 非CC
+  legacy_basis_tag: B
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-17 から（IDを3桁に正規化、basis_tag B を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-018
+  legacy_id: SRC-18
+  title: Yoshiji H, 肝硬変GL 2020
+  citation: J Gastroenterol 2021;56:593-619, PMC8280040
+  doi: null
+  pmid: null
+  pmcid: PMC8280040
+  license_note: 種別は未確認
+  legacy_basis_tag: E
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-18 から（IDを3桁に正規化、basis_tag E を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-019
+  legacy_id: SRC-19
+  title: Verhoeven RHA, CheckMate 577 実臨床
+  citation: Int J Cancer 2026, PMC12765972
+  doi: null
+  pmid: null
+  pmcid: PMC12765972
+  license_note: 未確認
+  legacy_basis_tag: E
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-19 から（IDを3桁に正規化、basis_tag E を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-020
+  legacy_id: SRC-20
+  title: Contini S, 腐食性傷害の総説
+  citation: World J Gastroenterol 2013;19(25):3918
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC
+  legacy_basis_tag: B
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-20 から（IDを3桁に正規化、basis_tag B を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-021
+  legacy_id: SRC-21
+  title: Cheng HT, 成人の腐食性物質摂取
+  citation: BMC Gastroenterol 2008, PMC2533005
+  doi: null
+  pmid: null
+  pmcid: PMC2533005
+  license_note: CC BY
+  legacy_basis_tag: A
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-21 から（IDを3桁に正規化、basis_tag A を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-022
+  legacy_id: SRC-22
+  title: Boerhaave Syndrome—Narrative Review
+  citation: Diagnostics 2025;15(19):2463, PMC12524210
+  doi: null
+  pmid: null
+  pmcid: PMC12524210
+  license_note: CC BY 4.0
+  legacy_basis_tag: A
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-22 から（IDを3桁に正規化、basis_tag A を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-023
+  legacy_id: SRC-23
+  title: HSV/CMV食道共感染の症例と文献レビュー
+  citation: IDCases 2020, PMC7519373
+  doi: null
+  pmid: null
+  pmcid: PMC7519373
+  license_note: 未確認
+  legacy_basis_tag: E
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-23 から（IDを3桁に正規化、basis_tag E を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-024
+  legacy_id: SRC-24
+  title: HSV vs CMV食道炎の内視鏡所見
+  citation: Medicine 2019, DOI 10.1097/MD.0000000000015845
+  doi: 10.1097/MD.0000000000015845
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: E
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-24 から（IDを3桁に正規化、basis_tag E を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-025
+  legacy_id: SRC-25
+  title: Werner YB, POEM vs LHM
+  citation: NEJM 2019;381:2219-2229, PMID 31800987
+  doi: null
+  pmid: '31800987'
+  pmcid: null
+  license_note: 非CC
+  legacy_basis_tag: B
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-25 から（IDを3桁に正規化、basis_tag B を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-026
+  legacy_id: SRC-26
+  title: Dellon ES, デュピルマブ EoE
+  citation: NEJM 2022;387:2317-2330, PMID 36546624
+  doi: null
+  pmid: '36546624'
+  pmcid: null
+  license_note: 非CC
+  legacy_basis_tag: B
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-26 から（IDを3桁に正規化、basis_tag B を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-027
+  legacy_id: SRC-27
+  title: Villanueva C, 輸血戦略
+  citation: NEJM 2013;368:11-21, PMID 23281973
+  doi: null
+  pmid: '23281973'
+  pmcid: null
+  license_note: 非CC
+  legacy_basis_tag: B
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-27 から（IDを3桁に正規化、basis_tag B を CLAUDE.md 2-3 第1回規則で変換）
