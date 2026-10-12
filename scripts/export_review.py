@@ -27,7 +27,8 @@ JUDGMENTS = ["OK", "修正", "削除"]
 COLUMNS = [
     ("ID", 9, False), ("status", 14, False), ("主張文", 60, False), ("条件", 26, False),
     ("鑑別・よくある誤解", 34, False), ("出典", 40, False), ("DOI", 22, False), ("PMID", 11, False),
-    ("source_class", 12, False), ("uncertainty", 30, False), ("Claude Codeによる修正", 40, False),
+    ("source_class", 12, False), ("uncertainty", 30, False), ("コアカリ", 26, False), ("出題基準", 26, False),
+    ("Claude Codeによる修正", 40, False),
     ("判定", 8, True), ("修正案", 40, True), ("コメント", 30, True),
 ]
 INPUT_FILL = PatternFill("solid", fgColor="FFF2CC")
@@ -63,7 +64,8 @@ def rows_for(prefix: str) -> list[list]:
             "\n".join(x for x in (f"鑑別：{fmt(a.get('differential'))}" if a.get("differential") else "",
                                   f"誤解：{fmt(a.get('common_misconception'))}" if a.get("common_misconception") else "") if x),
             p.get("source"), p.get("doi") or "", p.get("pmid") or "", p.get("source_class"),
-            fmt(c.get("uncertainty")), claude_edits(c), "", "", "",
+            fmt(c.get("uncertainty")), (c.get("curriculum") or {}).get("core_curriculum") or "",
+            (c.get("curriculum") or {}).get("kokushi") or "", claude_edits(c), "", "", "",
         ])
     return rows
 

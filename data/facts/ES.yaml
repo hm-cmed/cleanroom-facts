@@ -27,8 +27,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: PS-02-08-xx（要確認）
-    kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -57,6 +57,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
 - id: ES-002
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -85,8 +88,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: PS-02-08-xx（要確認）
-    kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -115,6 +118,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
 - id: ES-003
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -144,8 +150,8 @@
       notes: null
   uncertainty: low（推奨の方向と用量をGL本文で照合）
   curriculum:
-    core_curriculum: PS-02-08-xx（要確認）
-    kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: 医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -177,6 +183,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
 - id: ES-004
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -206,8 +215,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: PS-02-08-xx（要確認）
-    kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: 医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -236,6 +245,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
 - id: ES-005
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -264,8 +276,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: medium（グレードの定義はPMCでは抄録しか読めず、本文で未照合）
   curriculum:
-    core_curriculum: PS-02-08-xx（要確認）
-    kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: 医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -285,6 +297,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 内容照合による修正（人間が2026-10-12にチャットで委任）：PubMed で書誌を特定し識別子を設定。変更項目：provenance.doi, provenance.pmid, provenance.pmcid, uncertainty。根拠：PubMed・Crossref の書誌
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
 - id: ES-006
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -313,8 +328,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: PS-02-08-xx（要確認）
-    kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: 医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -343,6 +358,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
 - id: ES-007
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -372,8 +390,8 @@
       notes: null
   uncertainty: low（JSGE GERD GL 2021 の疫学の記載で照合。原典はGLの引用文献）
   curriculum:
-    core_curriculum: PS-02-08-xx（要確認）
-    kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: 医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -402,6 +420,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
 - id: ES-008
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -430,8 +451,8 @@
       notes: null
   uncertainty: low（GL本文で照合）
   curriculum:
-    core_curriculum: PS-02-08-xx（要確認）
-    kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)'
+    kokushi: 医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -451,6 +472,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
 - id: ES-009
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -478,8 +502,8 @@
       notes: null
   uncertainty: アジアでAET 4%超を確定閾値とする提案は、Wong & Chen, Gut Liver 2025（PMID 40905050）およびAliment Pharmacol Ther誌のレター（DOI 10.1111/apt.70755）による。Lyon 2.0本体のPMIDは未取得
   curriculum:
-    core_curriculum: PS-02-08-xx（要確認）
-    kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: 医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -517,6 +541,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmcid を PMC10846564 に設定（DOI 10.1136/gutjnl-2023-330616 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
 - id: ES-010
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -545,8 +572,8 @@
       notes: null
   uncertainty: low（GL本文で照合）
   curriculum:
-    core_curriculum: PS-02-08-xx（要確認）
-    kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -572,6 +599,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
 - id: ES-011
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -600,8 +630,8 @@
       notes: null
   uncertainty: low（GL本文で照合）
   curriculum:
-    core_curriculum: PS-02-08-xx（要確認）
-    kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)'
+    kokushi: 医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -627,6 +657,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
 - id: ES-012
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -655,8 +688,8 @@
       notes: null
   uncertainty: medium
   curriculum:
-    core_curriculum: 要確認
-    kokushi: Barrett食道
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -670,6 +703,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''Barrett食道''}'
 - id: ES-013
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -698,8 +734,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: medium
   curriculum:
-    core_curriculum: 要確認
-    kokushi: Barrett食道
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -728,6 +764,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：ACG Barrett GL 2022 本文（PMC10259184）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''Barrett食道''}'
 - id: ES-014
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -756,8 +795,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low（GL本文で照合。本文の表記は「0.2%–0.05%」）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: Barrett食道
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -789,6 +828,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：ACG Barrett GL 2022 本文（PMC10259184）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''Barrett食道''}'
 - id: ES-015
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -817,8 +859,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: Barrett食道
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -838,6 +880,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''Barrett食道''}'
 - id: ES-016
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -867,8 +912,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: Barrett食道
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -900,6 +945,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：ACG Barrett GL 2022 本文（PMC10259184）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''Barrett食道''}'
 - id: ES-017
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -928,8 +976,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: Barrett食道
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -964,6 +1012,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：ACG Barrett GL 2022 本文（PMC10259184）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''Barrett食道''}'
 - id: ES-018
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -992,8 +1043,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 好酸球性食道炎
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -1022,6 +1073,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：AGREE 2018（PMID 30009819）の抄録。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''好酸球性食道炎''}'
 - id: ES-019
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1050,8 +1104,8 @@
       notes: null
   uncertainty: low（抄録で照合）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 好酸球性食道炎
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -1077,6 +1131,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：AGREE 2018（PMID 30009819）の抄録。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''好酸球性食道炎''}'
 - id: ES-020
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1106,8 +1163,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 好酸球性食道炎
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: 医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -1139,6 +1196,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''好酸球性食道炎''}'
 - id: ES-021
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1167,8 +1227,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low（抄録で照合）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 好酸球性食道炎
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: 医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -1188,6 +1248,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Hirano 2013（PMID 22619364）の抄録。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''好酸球性食道炎''}'
 - id: ES-022
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1216,8 +1279,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: medium
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 好酸球性食道炎
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -1243,6 +1306,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''好酸球性食道炎''}'
 - id: ES-023
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1270,8 +1336,8 @@
       notes: null
   uncertainty: 本文未閲覧。症状スコアの数値は未確認
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 好酸球性食道炎
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -1312,6 +1378,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Dellon ES, NEJM 2022（PMID 36546624）の抄録：Part A 組織学的寛解 60%（25/42）対 5%（2/39）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''好酸球性食道炎''}'
 - id: ES-024
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1339,8 +1408,8 @@
       notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: PMDA添付文書の効能・効果欄を全文照合していない。FDA承認日は企業発表で確認したもので、米国政府資料では未照合
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 好酸球性食道炎
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -1369,6 +1438,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：本文を v2 の ES-R08（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-024 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''好酸球性食道炎''}'
 - id: ES-025
   domain: ES
   subdomain: 食道運動障害
@@ -1397,8 +1469,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道アカラシア・食道運動障害
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)'
+    kokushi: 医学各論 Ⅵ-1-A-①（食道アカラシア、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -1418,6 +1490,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-011 を付与（照合方法：identifier(SRC-011:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道アカラシア・食道運動障害''}'
 - id: ES-026
   domain: ES
   subdomain: 食道運動障害
@@ -1446,8 +1521,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道アカラシア・食道運動障害
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)'
+    kokushi: 医学各論 Ⅵ-1-A-①（食道アカラシア、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -1467,6 +1542,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-011 を付与（照合方法：identifier(SRC-011:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道アカラシア・食道運動障害''}'
 - id: ES-027
   domain: ES
   subdomain: 食道運動障害
@@ -1495,8 +1573,8 @@
       notes: null
   uncertainty: low（本文で照合）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道アカラシア・食道運動障害
+    core_curriculum: 'PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-004 (id: JlAKpjc)'
+    kokushi: 医学各論 Ⅵ-1-A-①（食道アカラシア、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -1522,6 +1600,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Chicago Classification v4.0 本文（PMC8034247、NIH著者稿）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道アカラシア・食道運動障害''}'
 - id: ES-028
   domain: ES
   subdomain: 食道運動障害
@@ -1550,8 +1631,8 @@
       notes: null
   uncertainty: low（本文で照合：DL 4.5秒未満かつDCI 450以上を早期収縮とする）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道アカラシア・食道運動障害
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)'
+    kokushi: 医学各論 Ⅵ-1-A-①（食道アカラシア、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -1577,6 +1658,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Chicago Classification v4.0 本文（PMC8034247、NIH著者稿）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道アカラシア・食道運動障害''}'
 - id: ES-029
   domain: ES
   subdomain: 食道運動障害
@@ -1604,8 +1688,8 @@
       notes: null
   uncertainty: なし（閾値は本文で確認）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道アカラシア・食道運動障害
+    core_curriculum: 'PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-004 (id: JlAKpjc)'
+    kokushi: 医学各論 Ⅵ-1-A-①（食道アカラシア、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -1658,6 +1742,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Chicago Classification v4.0 本文（PMC8034247、NIH著者稿）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道アカラシア・食道運動障害''}'
 - id: ES-030
   domain: ES
   subdomain: 食道運動障害
@@ -1686,8 +1773,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道アカラシア・食道運動障害
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)'
+    kokushi: 医学各論 Ⅵ-1-A-①（食道アカラシア、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -1710,6 +1797,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Chicago Classification v4.0 本文（PMC8034247、NIH著者稿）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道アカラシア・食道運動障害''}'
 - id: ES-031
   domain: ES
   subdomain: 食道運動障害
@@ -1737,8 +1827,8 @@
       notes: source は略記。同じ DOI を ES-025 で書誌照合済み
   uncertainty: low（本文で照合）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道アカラシア・食道運動障害
+    core_curriculum: 'PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-004 (id: JlAKpjc)'
+    kokushi: 医学各論 Ⅵ-1-A-①（食道アカラシア、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -1788,6 +1878,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Chicago Classification v4.0 本文（PMC8034247、NIH著者稿）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道アカラシア・食道運動障害''}'
 - id: ES-032
   domain: ES
   subdomain: 食道運動障害
@@ -1815,8 +1908,8 @@
       notes: null
   uncertainty: 本文未閲覧のため数値は主張文に含めない
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道アカラシア・食道運動障害
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)'
+    kokushi: 医学各論 Ⅵ-1-A-①（食道アカラシア、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -1854,6 +1947,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Werner YB, NEJM 2019（PMID 31800987）の抄録：221例、83.0%対81.7%、逆流性食道炎 57/20%・44/29%、重篤AE 2.7%対7.3%。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道アカラシア・食道運動障害''}'
 - id: ES-033
   domain: ES
   subdomain: 食道運動障害
@@ -1882,8 +1978,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道アカラシア・食道運動障害
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)'
+    kokushi: 医学各論 Ⅵ-1-A-①（食道アカラシア、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -1915,6 +2011,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Werner YB, NEJM 2019（PMID 31800987）の抄録：221例、83.0%対81.7%、逆流性食道炎 57/20%・44/29%、重篤AE 2.7%対7.3%。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道アカラシア・食道運動障害''}'
 - id: ES-034
   domain: ES
   subdomain: 食道運動障害
@@ -1943,8 +2042,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low（GL本文 Recommendation 9 で照合）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道アカラシア・食道運動障害
+    core_curriculum: 'PS-02-08-04 (id: JkxnuRU)；TBL-02-07-004 (id: JlAKpjc)'
+    kokushi: 医学各論 Ⅵ-1-A-①（食道アカラシア、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -1964,6 +2063,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：ACG アカラシアGL 2020 本文（PMC9896940）の Recommendation 9。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道アカラシア・食道運動障害''}'
 - id: ES-035
   domain: ES
   subdomain: 食道癌
@@ -1991,8 +2093,8 @@
       notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: ganjoho.jpの利用規約の確認が残る（数値の利用のみ）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -2027,6 +2129,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：本文を v2 の ES-R16（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-035 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-036
   domain: ES
   subdomain: 食道癌
@@ -2098,8 +2203,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -2119,6 +2224,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-038
   domain: ES
   subdomain: 食道癌
@@ -2147,8 +2255,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -2168,6 +2276,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-039
   domain: ES
   subdomain: 食道癌
@@ -2196,8 +2307,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -2217,6 +2328,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-040
   domain: ES
   subdomain: 食道癌
@@ -2245,8 +2359,8 @@
       notes: null
   uncertainty: low（GL本文で照合）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -2269,6 +2383,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-041
   domain: ES
   subdomain: 食道癌
@@ -2297,8 +2414,8 @@
       notes: null
   uncertainty: low（GL本文で照合）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -2321,6 +2438,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-042
   domain: ES
   subdomain: 食道癌
@@ -2389,8 +2509,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -2407,6 +2527,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-044
   domain: ES
   subdomain: 食道癌
@@ -2435,8 +2558,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -2453,6 +2576,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-045
   domain: ES
   subdomain: 食道癌
@@ -2481,8 +2607,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -2496,6 +2622,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-046
   domain: ES
   subdomain: 食道癌
@@ -2524,8 +2653,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -2554,6 +2683,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-047
   domain: ES
   subdomain: 食道癌
@@ -2582,8 +2714,8 @@
       notes: null
   uncertainty: medium
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -2603,6 +2735,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-048
   domain: ES
   subdomain: 食道癌
@@ -2631,8 +2766,8 @@
       notes: null
   uncertainty: medium
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -2649,6 +2784,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-049
   domain: ES
   subdomain: 食道癌
@@ -2676,8 +2814,8 @@
       notes: null
   uncertainty: 有害事象の割合はニュース照合のみのため主張文に含めない
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -2721,6 +2859,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Kato K, Lancet 2024（PMID 38876133）の抄録：601例、3年OS 72.1%対62.6%、HR 0.68、CF-RTは有意差なし。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-050
   domain: ES
   subdomain: 食道癌
@@ -2749,8 +2890,8 @@
       notes: null
   uncertainty: medium
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -2779,6 +2920,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-051
   domain: ES
   subdomain: 食道癌
@@ -2806,8 +2950,8 @@
       notes: null
   uncertainty: PMIDは照合不能のため削除。OSの数値はASCO抄録（Kelly RJ, JCO 2025;43(16_suppl):4000, DOI 10.1200/JCO.2025.43.16_suppl.4000）で確認：中央値51.7対35.3か月、HR 0.85（95.87%CI 0.70–1.04）。5年OS 46%対41%は未確認
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -2854,6 +2998,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Kelly RJ, NEJM 2021（PMID 33789008）の抄録：794例（532対262）、DFS 22.4対11.0か月、HR 0.69。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-052
   domain: ES
   subdomain: 食道癌
@@ -2880,8 +3027,8 @@
       notes: null
   uncertainty: low（抄録で照合）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -2925,6 +3072,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Doki Y, NEJM 2022（PMID 35108470）の抄録：970例、PD-L1≥1%と全体集団でOS延長。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-053
   domain: ES
   subdomain: 食道癌
@@ -2953,8 +3103,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -2986,6 +3136,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Sun JM, Lancet 2021（PMID 34454674）の抄録。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-054
   domain: ES
   subdomain: 食道癌
@@ -3013,8 +3166,8 @@
       notes: null
   uncertainty: low（5年生存率は5年追跡論文の抄録で照合）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -3064,6 +3217,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Metges JP, ESMO Open 2025（PMID 41259897）の抄録：5年生存率 10.6% 対 3.0%。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-055
   domain: ES
   subdomain: 食道癌
@@ -3092,8 +3248,8 @@
       notes: null
   uncertainty: medium
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -3110,6 +3266,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-056
   domain: ES
   subdomain: 食道癌
@@ -3139,8 +3298,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道癌
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -3160,6 +3319,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
 - id: ES-057
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3188,8 +3350,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道・胃静脈瘤、門脈圧亢進症
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-6-D-①（門脈圧亢進症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -3209,6 +3371,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Baveno VII 本文（PMC11090185、著者稿）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
 - id: ES-058
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3237,8 +3402,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low（Baveno VII本文で照合。AASLD 2024は本文未照合）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道・胃静脈瘤、門脈圧亢進症
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-6-D-①（門脈圧亢進症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -3261,6 +3426,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Baveno VII 本文（PMC11090185、著者稿）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
 - id: ES-059
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3289,8 +3457,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道・胃静脈瘤、門脈圧亢進症
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-6-D-①（門脈圧亢進症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -3307,6 +3475,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
 - id: ES-060
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3335,8 +3506,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道・胃静脈瘤、門脈圧亢進症
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)'
+    kokushi: 医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -3353,6 +3524,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
 - id: ES-061
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3380,8 +3554,8 @@
       notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: 取扱い規約の最新版（第4版の有無）は要確認
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道・胃静脈瘤、門脈圧亢進症
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: 医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -3413,6 +3587,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：本文を v2 の ES-R17（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-061 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
 - id: ES-062
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3441,8 +3618,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道・胃静脈瘤、門脈圧亢進症
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-019 (id: JlAKpkg)'
+    kokushi: 医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -3477,6 +3654,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Baveno VII 本文（PMC11090185、著者稿）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
 - id: ES-063
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3504,8 +3684,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: 本文未閲覧。転帰の数値は主張文に含めない
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道・胃静脈瘤、門脈圧亢進症
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-019 (id: JlAKpkg)'
+    kokushi: 医学総論 Ⅸ-3-B-①（輸血の適応と一般的注意、-）；医学総論 Ⅵ-5-F-①（吐血、-）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -3546,6 +3726,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Villanueva C, NEJM 2013（PMID 23281973）の抄録：921例、Hb 7 対 9 g/dL。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
 - id: ES-064
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3574,8 +3757,8 @@
       notes: null
   uncertainty: low
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道・胃静脈瘤、門脈圧亢進症
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-034 (id: JlAKplU)'
+    kokushi: 医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -3610,6 +3793,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Baveno VII 本文（PMC11090185、著者稿）。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
 - id: ES-065
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3636,8 +3822,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: PMIDは依頼者提示の値で、本セッションでは独立に照合していない
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道・胃静脈瘤、門脈圧亢進症
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-019 (id: JlAKpkg)'
+    kokushi: 医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -3669,6 +3855,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：García-Pagán JC, NEJM 2010（PMID 20573925）の抄録：63例、1年生存 86%対61%。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
 - id: ES-066
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3696,8 +3885,8 @@
       notes: null
   uncertainty: 2025年版の推奨は未確認
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 食道・胃静脈瘤、門脈圧亢進症
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)'
+    kokushi: 医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -3735,6 +3924,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
 - id: ES-067
   domain: ES
   subdomain: その他（一次出典未取得：骨子のみ）
@@ -3848,8 +4040,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: 小児はESPGHANなど別のGLの対象
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: 該当なし
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -3875,6 +4067,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
 - id: ES-070
   domain: ES
   subdomain: その他の食道疾患
@@ -3902,8 +4097,8 @@
       notes: source は略記。同じ DOI を ES-069 で書誌照合済み／Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: なし
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 該当なし
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -3929,6 +4124,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
 - id: ES-071
   domain: ES
   subdomain: その他の食道疾患
@@ -3955,8 +4153,8 @@
       notes: source は略記。同じ DOI を ES-069 で書誌照合済み／Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: なし
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: 該当なし
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -3982,6 +4180,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
 - id: ES-072
   domain: ES
   subdomain: その他の食道疾患
@@ -4009,8 +4210,8 @@
       notes: source は略記。同じ DOI を ES-069 で書誌照合済み／Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: 75%超の数値は同GL本文の記載で、原著は未確認
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: 医学総論 Ⅵ-5-B（嚥下障害（嚥下痛・通過障害・誤嚥）、-）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -4036,6 +4237,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
 - id: ES-073
   domain: ES
   subdomain: その他の食道疾患
@@ -4062,8 +4266,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: medium（DOI・PMIDはAPIで確定。PMCでは抄録しか読めず、本文の記述は未照合）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 該当なし
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -4101,6 +4305,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 内容照合による修正（人間が2026-10-12にチャットで委任）：識別子の確定を反映し、未照合の範囲を明記。変更項目：uncertainty。根拠：PubMed・Crossref の書誌
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
 - id: ES-074
   domain: ES
   subdomain: その他の食道疾患
@@ -4128,8 +4335,8 @@
       notes: null
   uncertainty: Zargar原著（Gastrointest Endosc 1991）は未閲覧
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 該当なし
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -4167,6 +4374,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Cheng HT, BMC Gastroenterol 2008（PMC2533005）の本文：Zargar の6段階分類。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
 - id: ES-075
   domain: ES
   subdomain: その他の食道疾患
@@ -4194,8 +4404,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: medium（報告によって2bは40〜60%とする記載もあり幅がある。PMCでは抄録しか読めず本文は未照合）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 該当なし
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -4233,6 +4443,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 内容照合による修正（人間が2026-10-12にチャットで委任）：識別子の確定を反映し、未照合の範囲を明記。変更項目：uncertainty。根拠：PubMed・Crossref の書誌
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
 - id: ES-076
   domain: ES
   subdomain: その他の食道疾患
@@ -4259,8 +4472,8 @@
       notes: null
   uncertainty: low（抄録で照合）。II〜IV型の定義は未収載
   curriculum:
-    core_curriculum: null
-    kokushi: null
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)'
+    kokushi: 医学各論 Ⅵ-9-A-①（食道裂孔ヘルニア、a）
   publication_info:
     created: '2026-10-12'
     verifier: null
@@ -4274,6 +4487,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：起票時に照合した一次資料。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': None, ''kokushi'': None}'
 - id: ES-077
   domain: ES
   subdomain: その他の食道疾患
@@ -4300,8 +4516,8 @@
       notes: Crossref で DOI 10.22037/ghfbb.v15i3.2591 が見つからない
   uncertainty: low（PMC本文で照合）。ライセンスは Phase 3 の照合で確定
   curriculum:
-    core_curriculum: null
-    kokushi: null
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)'
+    kokushi: 医学総論 Ⅵ-5-B（嚥下障害（嚥下痛・通過障害・誤嚥）、-）
   publication_info:
     created: '2026-10-12'
     verifier: null
@@ -4312,6 +4528,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 起票：欠番補完（人間が2026-10-12にチャットで委任）。出典を再調査し、自作文で作成。根拠：Abdi 2022（PMC9589134）の本文
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': None, ''kokushi'': None}'
 - id: ES-078
   domain: ES
   subdomain: その他の食道疾患
@@ -4338,8 +4557,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low（抄録で照合）。単施設の健診データ
   curriculum:
-    core_curriculum: null
-    kokushi: null
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 該当なし
   publication_info:
     created: '2026-10-12'
     verifier: null
@@ -4353,6 +4572,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：起票時に照合した一次資料。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': None, ''kokushi'': None}'
 - id: ES-079
   domain: ES
   subdomain: その他の食道疾患
@@ -4380,8 +4602,8 @@
       notes: null
   uncertainty: なし（2資料で一致）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-03-03-03 (id: JkxnuUo)'
+    kokushi: 医学各論 Ⅻ-1-A-⑩（単純ヘルペスウイルス感染症、a）；医学各論 Ⅻ-1-A-⑭（サイトメガロウイルス感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -4416,6 +4638,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_class UNKNOWN → RESTRICTED（Crossref の license：http://creativecommons.org/licenses/by-nc-nd/4.0/）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
 - id: ES-080
   domain: ES
   subdomain: その他の食道疾患
@@ -4442,8 +4667,8 @@
       notes: null
   uncertainty: 単一の後ろ向き研究
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: 医学各論 Ⅻ-1-A-⑩（単純ヘルペスウイルス感染症、a）；医学各論 Ⅻ-1-A-⑭（サイトメガロウイルス感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -4481,6 +4706,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Medicine 2019（PMC6571398）の本文：HSV と CMV の潰瘍形態、治療薬。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
 - id: ES-081
   domain: ES
   subdomain: その他の食道疾患
@@ -4508,8 +4736,8 @@
       notes: null
   uncertainty: 投与期間は未確認
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅻ-1-A-⑩（単純ヘルペスウイルス感染症、a）；医学各論 Ⅻ-1-A-⑭（サイトメガロウイルス感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -4547,6 +4775,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Medicine 2019（PMC6571398）の本文：HSV と CMV の潰瘍形態、治療薬。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
 - id: ES-082
   domain: ES
   subdomain: その他の食道疾患
@@ -4573,8 +4804,8 @@
       notes: null
   uncertainty: low（抄録で照合）
   curriculum:
-    core_curriculum: null
-    kokushi: null
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）；医学総論 Ⅵ-5-B（嚥下障害（嚥下痛・通過障害・誤嚥）、-）
   publication_info:
     created: '2026-10-12'
     verifier: null
@@ -4591,6 +4822,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：起票時に照合した一次資料。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': None, ''kokushi'': None}'
 - id: ES-083
   domain: ES
   subdomain: その他の食道疾患
@@ -4617,8 +4851,8 @@
       notes: null
   uncertainty: low（PMC本文で照合）
   curriculum:
-    core_curriculum: null
-    kokushi: null
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学総論 Ⅵ-5-B（嚥下障害（嚥下痛・通過障害・誤嚥）、-）
   publication_info:
     created: '2026-10-12'
     verifier: null
@@ -4632,6 +4866,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：起票時に照合した一次資料。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': None, ''kokushi'': None}'
 - id: ES-084
   domain: ES
   subdomain: その他の食道疾患
@@ -4658,8 +4895,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low（抄録で照合）
   curriculum:
-    core_curriculum: null
-    kokushi: null
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)'
+    kokushi: 医学各論 Ⅵ-1-E-①（Mallory-Weiss症候群、a）
   publication_info:
     created: '2026-10-12'
     verifier: null
@@ -4673,6 +4910,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：起票時に照合した一次資料。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': None, ''kokushi'': None}'
 - id: ES-085
   domain: ES
   subdomain: その他の食道疾患
@@ -4700,8 +4940,8 @@
       notes: null
   uncertainty: 感度は総説が引用した値で、原著は未確認
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-1-E-②（食道穿孔・破裂（備考：Boerhaave症候群）、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -4733,6 +4973,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: doi を 10.3390/diagnostics15192463 に設定（PMCID PMC12524210 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
 - id: ES-086
   domain: ES
   subdomain: その他の食道疾患
@@ -4760,8 +5003,8 @@
       notes: null
   uncertainty: なし
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-1-E-②（食道穿孔・破裂（備考：Boerhaave症候群）、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -4796,6 +5039,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Boerhaave Syndrome—Narrative Review, Diagnostics 2025（PMC12524210、CC BY）の本文：水溶性造影剤で22〜50%の穿孔を見逃す。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
 - id: ES-087
   domain: ES
   subdomain: その他の食道疾患
@@ -4822,8 +5068,8 @@
       notes: null
   uncertainty: 治療の選択基準と死亡率の数値は未確認
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)'
+    kokushi: 医学各論 Ⅵ-1-E-②（食道穿孔・破裂（備考：Boerhaave症候群）、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -4852,6 +5098,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: doi を 10.3390/diagnostics15192463 に設定（PMCID PMC12524210 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
 - id: ES-088
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -4878,8 +5127,8 @@
       notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low（抄録で照合）
   curriculum:
-    core_curriculum: null
-    kokushi: null
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: 医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）
   publication_info:
     created: '2026-10-12'
     verifier: null
@@ -4893,6 +5142,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：起票時に照合した一次資料。人間が2026-10-12にチャットで委任）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': None, ''kokushi'': None}'
 - id: ES-089
   domain: ES
   subdomain: その他の食道疾患
@@ -4919,8 +5171,8 @@
       notes: source は略記。同じ DOI を ES-046 で書誌照合済み
   uncertainty: 該当箇所の照合が未了
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -4943,6 +5195,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 32072683 に設定（DOI 10.1111/den.13654 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
 - id: ES-090
   domain: ES
   subdomain: 食道癌
@@ -4970,8 +5225,8 @@
       notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: PMDA添付文書の改訂履歴での確認は未実施
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -4997,6 +5252,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の ES-R05（raw/01b_esophagus_v2.md）に新規ID ES-090 を付与（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
 - id: ES-091
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -5024,8 +5282,8 @@
       notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: low〜medium（2026年10月時点の検索でも国内のEoE承認の記録なし。PMDAの承認一覧での直接照合は未了）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: 医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -5048,6 +5306,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 内容照合による修正（人間が2026-10-12にチャットで委任）：2026年時点の国内承認状況を再調査。変更項目：uncertainty。根拠：サノフィ デュピクセント IF（2026年3月改訂 第20版）と国内報道の検索（2026-10-12）。国内のEoE承認の記録なし
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
 - id: ES-092
   domain: ES
   subdomain: 食道癌
@@ -5075,8 +5336,8 @@
       notes: null
   uncertainty: 53%は試算値（仮定に基づく推計）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
+    kokushi: 医学各論 Ⅵ-1-C-①（食道癌、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -5108,6 +5369,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmcid を PMC2659709 に設定（DOI 10.1371/journal.pmed.1000050 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
 - id: ES-093
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -5135,8 +5399,8 @@
       notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: low（令和8年版点数表でも12,000点）
   curriculum:
-    core_curriculum: 要確認
-    kokushi: 要確認
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)'
+    kokushi: 医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -5165,3 +5429,6 @@
   - date: '2026-10-12'
     by: claude-code
     change: 内容照合による修正（人間が2026-10-12にチャットで委任）：令和8年度改定後も点数が変わらないことを確認。変更項目：uncertainty。根拠：診療報酬点数表（令和8年版）K653-6 12,000点（clinicalsup.jp の点数表ページ、2026-10-12 閲覧）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
