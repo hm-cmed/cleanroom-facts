@@ -165,6 +165,31 @@ FIXES = {
                "why": "2026年時点の国内承認状況を再調査", "ev": ["DUPI_JP"]},
 }
 
+# 2回目（1回目の昇格判定で、照合済みなのに補助欄の「要確認」が残っていたもの等）
+EVIDENCE.update({
+    "CHENG": "Cheng HT, BMC Gastroenterol 2008（PMC2533005）の本文：Zargar の6段階分類",
+    "MED2019": "Medicine 2019（PMC6571398）の本文：HSV と CMV の潰瘍形態、治療薬",
+    "BOERHAAVE": "Boerhaave Syndrome—Narrative Review, Diagnostics 2025（PMC12524210、CC BY）の本文：水溶性造影剤で22〜50%の穿孔を見逃す",
+})
+FIXES2 = {
+    "ES-003": {"set": {"assertion.differential": "軽症RE（LA分類A・B）の初期治療はPPIまたはボノプラザン（ES-004）"},
+               "why": "根拠のない欧米との比較（要確認）を、同じGLで確認できる軽症REとの対比に差し替え", "ev": ["GERD_GL"]},
+    "ES-017": {"set": {"assertion.differential": "NBIによる狙撃生検（ACG 2022はSeattle protocolの継続を推奨）"},
+               "why": "「日本では狙撃生検が中心（要確認）」は出典がないため、GL本文で確認できる対比に差し替え", "ev": ["ACG_BE"]},
+    "ES-052": {"set": {"uncertainty": "low（抄録で照合）"}, "why": "一次資料（抄録）で主張文を照合したため uncertainty を更新", "ev": ["PM35108470"]},
+    "ES-058": {"set": {"uncertainty": "low（Baveno VII本文で照合。AASLD 2024は本文未照合）", "provenance.corroboration": "Baveno VII 5.14・5.15"},
+               "why": "Baveno VII 本文で推奨を確認。日本の扱いはこのカードの対象外のため「要確認」を削除", "ev": ["BAVENO"]},
+    "ES-062": {"set": {"assertion.differential": "非静脈瘤性の上部消化管出血の初期対応（UG領域）"},
+               "why": "「日本の保険適用は要確認」はこのカードの対象外のため、鑑別の記載に差し替え", "ev": ["BAVENO"]},
+    "ES-073": {"set": {"uncertainty": "medium（DOI・PMIDはAPIで確定。PMCでは抄録しか読めず、本文の記述は未照合）"},
+               "why": "識別子の確定を反映し、未照合の範囲を明記", "ev": []},
+    "ES-075": {"set": {"uncertainty": "medium（報告によって2bは40〜60%とする記載もあり幅がある。PMCでは抄録しか読めず本文は未照合）"},
+               "why": "識別子の確定を反映し、未照合の範囲を明記", "ev": []},
+}
+CONTENT_VERIFIED2 = {"ES-001": "GERD_GL", "ES-037": "JES_GL", "ES-074": "CHENG", "ES-080": "MED2019",
+                     "ES-081": "MED2019", "ES-086": "BOERHAAVE", "ES-003": "GERD_GL", "ES-017": "ACG_BE",
+                     "ES-052": "PM35108470", "ES-058": "BAVENO", "ES-062": "BAVENO"}
+
 # ---------------------------------------------------------------- 欠番の起票
 NEW_CARDS = [
     {"id": "ES-076", "subdomain": "その他の食道疾患",
@@ -260,6 +285,7 @@ CONTENT_VERIFIED = {
     "ES-054": "PM41259897", "ES-055": "JES_GL", "ES-056": "JES_GL", "ES-057": "BAVENO", "ES-058": "BAVENO",
     "ES-062": "BAVENO", "ES-063": "PM23281973", "ES-064": "BAVENO", "ES-065": "PM20573925",
 }
+CONTENT_VERIFIED.update(CONTENT_VERIFIED2)
 NEW_VERIFIED = {"ES-076", "ES-077", "ES-078", "ES-082", "ES-083", "ES-084", "ES-088"}
 
 IMPORT_NOTE_RE = re.compile(r"｜?［取り込み時］[^｜]*")
@@ -292,6 +318,20 @@ def main(stage: str) -> None:
     log = []
     if stage == "promote":
         return promote(cards)
+    if stage == "apply2":
+        log = json.loads((ROOT / ".cache" / "es_content_log.json").read_text(encoding="utf-8"))
+        for cid, fx in FIXES2.items():
+            c = by_id[cid]
+            changes = [p for p, v in fx["set"].items() if set_path(c, p, v) != v]
+            if not changes:
+                continue
+            ev = "；".join(EVIDENCE[k] for k in fx["ev"]) or "PubMed・Crossref の書誌"
+            c["history"].append(h(f"内容照合による修正（{DELEGATION}）：{fx['why']}。変更項目：{', '.join(changes)}。根拠：{ev}"))
+            log.append((cid, "修正", fx["why"], ev))
+        ES.write_text(yaml.safe_dump(cards, allow_unicode=True, sort_keys=False, width=10_000), encoding="utf-8", newline="\n")
+        (ROOT / ".cache" / "es_content_log.json").write_text(json.dumps(log, ensure_ascii=False), encoding="utf-8")
+        print(f"applied round 2: {len(FIXES2)}")
+        return
 
     for cid, fx in FIXES.items():
         c = by_id[cid]
@@ -338,8 +378,7 @@ def main(stage: str) -> None:
                     c["history"].append(h("uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）"))
 
     cards.sort(key=lambda c: c["id"])
-    ES.write_text(yaml.safe_dump(cards, allow_unicode=True, sort_keys=False, width=10_000), encoding="utf-8", newline="
-")
+    ES.write_text(yaml.safe_dump(cards, allow_unicode=True, sort_keys=False, width=10_000), encoding="utf-8", newline="\n")
     (ROOT / ".cache" / "es_content_log.json").write_text(json.dumps(log, ensure_ascii=False), encoding="utf-8")
     print(f"applied: fixes={len(FIXES)} new={len(NEW_CARDS)} retired={len(RETIRE)}")
 
@@ -367,7 +406,8 @@ def promote(cards) -> None:
     validator = Draft202012Validator(json.loads(SCHEMA.read_text(encoding="utf-8")))
     errors = [(c["id"], "/".join(map(str, e.path)), e.message) for c in cards for e in validator.iter_errors(c)]
     ES.write_text(yaml.safe_dump(cards, allow_unicode=True, sort_keys=False, width=10_000), encoding="utf-8", newline="\n")
-    write_report(cards, log, promoted, kept, errors)
+    all_promoted = [c["id"] for c in cards if c["publication_info"]["status"] == "verified_sources"]
+    write_report(cards, log, all_promoted, kept, errors)
     print(f"promoted={len(promoted)} kept={len(kept)} schema_errors={len(errors)}")
 
 

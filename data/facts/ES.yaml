@@ -25,7 +25,7 @@
       pmid_matched: true
       license_from_crossref: https://creativecommons.org/licenses/by/4.0
       notes: null
-  uncertainty: low｜［取り込み時］PMIDは原本で「要確認」のためnull
+  uncertainty: low
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
     kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
@@ -33,7 +33,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -51,6 +51,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 35226174 に設定（DOI 10.1007/s00535-022-01861-z から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-002
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -77,7 +83,7 @@
       pmid_matched: true
       license_from_crossref: https://creativecommons.org/licenses/by/4.0
       notes: null
-  uncertainty: low｜［取り込み時］PMIDは原本で「要確認」のためnull
+  uncertainty: low
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
     kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
@@ -85,7 +91,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -103,6 +109,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 35226174 に設定（DOI 10.1007/s00535-022-01861-z から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-003
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -111,7 +123,7 @@
     condition:
       region: 日本
       population: LA C/D
-    differential: 欧米の多くは初期治療の第一選択をPPIとしている（要確認）
+    differential: 軽症RE（LA分類A・B）の初期治療はPPIまたはボノプラザン（ES-004）
     common_misconception: 重症でも維持療法は不要と考える
   provenance:
     source_ref: null
@@ -123,14 +135,14 @@
     source_license: CC BY 4.0（Crossref確認済）
     legal_basis: B
     source_class: OPEN
-    corroboration: 抄録。初期治療はボノプラザン20 mgを4週（用量は本文で要確認）
+    corroboration: GL本文：重症REの初期治療はボノプラザン20 mgを4週、維持は10 mg
     id_check:
       checked_at: '2026-10-12'
       doi_resolved: true
       pmid_matched: true
       license_from_crossref: https://creativecommons.org/licenses/by/4.0
       notes: null
-  uncertainty: low（推奨の方向）／medium（用量）｜［取り込み時］PMIDは原本で「要確認」のためnull
+  uncertainty: low（推奨の方向と用量をGL本文で照合）
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
     kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
@@ -138,7 +150,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -156,6 +168,15 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 35226174 に設定（DOI 10.1007/s00535-022-01861-z から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：用量をGL本文で確認。変更項目：provenance.corroboration, uncertainty。根拠：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：根拠のない欧米との比較（要確認）を、同じGLで確認できる軽症REとの対比に差し替え。変更項目：assertion.differential。根拠：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-004
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -183,7 +204,7 @@
       pmid_matched: true
       license_from_crossref: https://creativecommons.org/licenses/by/4.0
       notes: null
-  uncertainty: low｜［取り込み時］PMIDは原本で「要確認」のためnull
+  uncertainty: low
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
     kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
@@ -191,7 +212,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -209,6 +230,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 35226174 に設定（DOI 10.1007/s00535-022-01861-z から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-005
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -221,9 +248,9 @@
   provenance:
     source_ref: null
     source: Lundell LR, et al. Gut 1999
-    doi: null
-    pmid: null
-    pmcid: null
+    doi: 10.1136/gut.45.2.172
+    pmid: '10403727'
+    pmcid: PMC1727604
     url: null
     source_license: 未確認（BMJ、非CC推定）
     legal_basis: B
@@ -231,11 +258,11 @@
     corroboration: W01でもC・Dを重症としている
     id_check:
       checked_at: '2026-10-12'
-      doi_resolved: false
-      pmid_matched: null
+      doi_resolved: true
+      pmid_matched: true
       license_from_crossref: null
-      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
-  uncertainty: medium｜［取り込み時］DOIは原本で「要確認」のためnull／PMIDは原本で「要確認」のためnull
+      notes: Crossrefに license の記載なし（source_class は現状維持）
+  uncertainty: medium（グレードの定義はPMCでは抄録しか読めず、本文で未照合）
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
     kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
@@ -255,6 +282,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：DOIは原本で「要確認」のためnull／PMIDは原本で「要確認」のためnull
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：PubMed で書誌を特定し識別子を設定。変更項目：provenance.doi, provenance.pmid, provenance.pmcid, uncertainty。根拠：PubMed・Crossref の書誌
 - id: ES-006
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -281,7 +311,7 @@
       pmid_matched: true
       license_from_crossref: https://creativecommons.org/licenses/by/4.0
       notes: null
-  uncertainty: low｜［取り込み時］PMIDは原本で「要確認」のためnull
+  uncertainty: low
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
     kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
@@ -289,7 +319,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -307,11 +337,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 35226174 に設定（DOI 10.1007/s00535-022-01861-z から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-007
   domain: ES
   subdomain: GERD・NERD・Barrett食道
   assertion:
-    plain_statement_ja: 日本の成人における逆流性食道炎の有病率は約10%と推定されている（引用元の原典と数値は要確認）。
+    plain_statement_ja: 日本の成人における逆流性食道炎の有病率は約10%と推定されている。
     condition:
       region: 日本
       population: 成人
@@ -334,7 +370,7 @@
       pmid_matched: true
       license_from_crossref: https://creativecommons.org/licenses/by/4.0
       notes: null
-  uncertainty: high｜［取り込み時］PMIDは原本で「要確認」のためnull
+  uncertainty: low（JSGE GERD GL 2021 の疫学の記載で照合。原典はGLの引用文献）
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
     kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
@@ -342,7 +378,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -360,6 +396,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 35226174 に設定（DOI 10.1007/s00535-022-01861-z から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：GL本文に同じ推定値の記載があることを確認したため、主張文の括弧書き「（引用元の原典と数値は要確認）」を削除。変更項目：assertion.plain_statement_ja, uncertainty。根拠：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-008
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -371,22 +413,22 @@
     common_misconception: pH検査だけで非酸逆流も評価できると考える
   provenance:
     source_ref: null
-    source: 一次出典未取得（要補完）
-    doi: null
-    pmid: null
-    pmcid: null
-    url: null
-    source_license: 未確認
+    source: Iwakiri K, et al. Evidence-based clinical practice guidelines for gastroesophageal reflux disease 2021. J Gastroenterol 2022;57:267-285
+    doi: 10.1007/s00535-022-01861-z
+    pmid: '35226174'
+    pmcid: PMC8938399
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8938399/
+    source_license: CC BY 4.0（Crossref）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: W01の該当章で要確認
+    source_class: OPEN
+    corroboration: GL本文：多チャンネルインピーダンス・pHモニタリングで酸・非酸逆流を検出でき、治療抵抗例の病態評価に推奨
     id_check:
       checked_at: '2026-10-12'
-      doi_resolved: false
-      pmid_matched: null
-      license_from_crossref: null
-      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
-  uncertainty: medium
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
+  uncertainty: low（GL本文で照合）
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
     kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
@@ -394,7 +436,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -403,6 +445,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag 保留 → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：出典未取得だったカードに JSGE GERD GL 2021 を出典として設定。変更項目：provenance.source, provenance.doi, provenance.pmid, provenance.pmcid, provenance.url, provenance.source_license, provenance.source_class, provenance.corroboration, uncertainty。根拠：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-009
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -473,10 +521,10 @@
   domain: ES
   subdomain: GERD・NERD・Barrett食道
   assertion:
-    plain_statement_ja: PPIテスト（PPIを試しに投与し、症状が改善するかで診断する方法）は簡便だが、感度・特異度が限られる。陰性でもGERDを否定できない。
+    plain_statement_ja: PPIテスト（PPIを試験的に投与し、症状が改善するかで判断する方法）は低侵襲・低コストで実地診療に用いられるが、24時間pH検査を基準とした統合解析では感度0.78、特異度0.54と診断精度に限界がある。
     condition:
       region: 国際
-    differential: P-CABを使った診断的投与（要確認）
+    differential: P-CABテスト（JSGE 2021はPPIテストより有用な可能性があるとしている）
     common_misconception: PPIテスト陽性＝GERD確定と考える
   provenance:
     source_ref: null
@@ -495,7 +543,7 @@
       pmid_matched: true
       license_from_crossref: https://creativecommons.org/licenses/by/4.0
       notes: null
-  uncertainty: medium｜［取り込み時］PMIDは原本で「要確認」のためnull
+  uncertainty: low（GL本文で照合）
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
     kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
@@ -503,7 +551,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -518,14 +566,20 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 35226174 に設定（DOI 10.1007/s00535-022-01861-z から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：GL本文に「陰性でも否定できない」旨の記載は確認できず、代わりに感度・特異度の数値を確認したため主張文を差し替え。P-CABテストの位置づけ（FRQ）も確認。変更項目：assertion.plain_statement_ja, assertion.differential, uncertainty。根拠：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-011
   domain: ES
   subdomain: GERD・NERD・Barrett食道
   assertion:
-    plain_statement_ja: GERDの外科治療（腹腔鏡下噴門形成術）と内視鏡的逆流防止術（ARMS等）は、PPI・P-CABが効かない症例や、長期の薬物依存を避けたい症例で選択肢になる。適応を決める前に、pH・インピーダンス検査や内圧検査で評価しておく必要がある。
+    plain_statement_ja: JSGE 2021は、薬物治療に抵抗するGERDで逆流と症状の関連が確認できた場合に、逆流防止手術を選択肢としている。PPI抵抗性NERDでは、多チャンネルインピーダンス・pHモニタリングで症状と逆流の因果関係が示された場合に手術を提案している（弱い推奨）。
     condition:
       region: 日本
-    differential: 術前にアカラシアなどの運動障害を除外する
+    differential: 内視鏡的逆流防止術（ARMS）の保険収載は ES-093
     common_misconception: 裂孔ヘルニアがあれば全例手術と考える
   provenance:
     source_ref: null
@@ -537,14 +591,14 @@
     source_license: CC BY 4.0（Crossref確認済）
     legal_basis: B
     source_class: OPEN
-    corroboration: 本文、およびARMSの保険収載状況は要確認
+    corroboration: GL本文に ARMS の記載はない
     id_check:
       checked_at: '2026-10-12'
       doi_resolved: true
       pmid_matched: true
       license_from_crossref: https://creativecommons.org/licenses/by/4.0
       notes: null
-  uncertainty: medium｜［取り込み時］PMIDは原本で「要確認」のためnull
+  uncertainty: low（GL本文で照合）
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
     kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
@@ -552,7 +606,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -567,6 +621,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 35226174 に設定（DOI 10.1007/s00535-022-01861-z から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：GL本文に ARMS と「長期の薬物依存を避けたい症例」の記載がないため、GLで確認できた手術適応の記述に差し替え。変更項目：assertion.plain_statement_ja, assertion.differential, provenance.corroboration, uncertainty。根拠：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：JSGE GERD GL 2021 英語版本文（PMC8938399、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-012
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -636,7 +696,7 @@
       pmid_matched: true
       license_from_crossref: null
       notes: Crossrefに license の記載なし（source_class は現状維持）
-  uncertainty: medium｜［取り込み時］PMIDは原本で「要確認」のためnull
+  uncertainty: medium
   curriculum:
     core_curriculum: 要確認
     kokushi: Barrett食道
@@ -644,7 +704,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -662,11 +722,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmcid を PMC10259184 に設定（DOI 10.14309/ajg.0000000000001680 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：ACG Barrett GL 2022 本文（PMC10259184）。人間が2026-10-12にチャットで委任）
 - id: ES-014
   domain: ES
   subdomain: GERD・NERD・Barrett食道
   assertion:
-    plain_statement_ja: 欧米の推計では、Barrett食道の癌化率は、異形成なし（NDBE）で年0.2〜0.5%程度、低異型度異形成（LGD）で年約0.7%、高異型度異形成（HGD）で年約7%である。
+    plain_statement_ja: ACG 2022は、Barrett食道の癌への進展率を、異形成なし（NDBE）で年0.05〜0.2%程度、低異型度異形成（LGD）で年約0.7%と見積もっている。
     condition:
       region: 欧米
     differential: 日本のSSBEの発癌率はわかっていない（ES-015）
@@ -681,14 +747,14 @@
     source_license: 非CC（license欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: ACG 2015（10.1038/ajg.2015.322、非CC）。2022年版との数値の表記揺れを要確認
+    corroboration: 同GLの多施設コホートでは、NDBEの癌化率は3 cm未満で年0.07%、3 cm以上で年0.25%
     id_check:
       checked_at: '2026-10-12'
       doi_resolved: true
       pmid_matched: true
       license_from_crossref: null
       notes: Crossrefに license の記載なし（source_class は現状維持）
-  uncertainty: medium｜［取り込み時］PMIDは原本で「要確認」のためnull
+  uncertainty: low（GL本文で照合。本文の表記は「0.2%–0.05%」）
   curriculum:
     core_curriculum: 要確認
     kokushi: Barrett食道
@@ -696,7 +762,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -717,6 +783,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmcid を PMC10259184 に設定（DOI 10.14309/ajg.0000000000001680 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：2022年版の本文で確認できた数値に訂正。HGDの年約7%は2022年版本文に記載がないため削除。変更項目：assertion.plain_statement_ja, provenance.corroboration, uncertainty。根拠：ACG Barrett GL 2022 本文（PMC10259184）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：ACG Barrett GL 2022 本文（PMC10259184）。人間が2026-10-12にチャットで委任）
 - id: ES-015
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -751,7 +823,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -763,6 +835,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-016
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -790,7 +865,7 @@
       pmid_matched: true
       license_from_crossref: null
       notes: Crossrefに license の記載なし（source_class は現状維持）
-  uncertainty: low｜［取り込み時］PMIDは原本で「要確認」のためnull
+  uncertainty: low
   curriculum:
     core_curriculum: 要確認
     kokushi: Barrett食道
@@ -798,7 +873,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -819,6 +894,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmcid を PMC10259184 に設定（DOI 10.14309/ajg.0000000000001680 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：ACG Barrett GL 2022 本文（PMC10259184）。人間が2026-10-12にチャットで委任）
 - id: ES-017
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -826,7 +907,7 @@
     plain_statement_ja: ACGは、Barrett食道の生検について、炎症を制御してから2 cm間隔で4方向から系統的に行う方法（Seattle protocol）を標準としている。
     condition:
       region: 米国
-    differential: 日本ではNBIなどを使った狙撃生検が中心の施設が多い（要確認）
+    differential: NBIによる狙撃生検（ACG 2022はSeattle protocolの継続を推奨）
     common_misconception: 炎症が強い時期の生検で異形成を判定する
   provenance:
     source_ref: null
@@ -845,7 +926,7 @@
       pmid_matched: true
       license_from_crossref: null
       notes: Crossrefに license の記載なし（source_class は現状維持）
-  uncertainty: low｜［取り込み時］PMIDは原本で「要確認」のためnull
+  uncertainty: low
   curriculum:
     core_curriculum: 要確認
     kokushi: Barrett食道
@@ -853,7 +934,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -874,6 +955,15 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmcid を PMC10259184 に設定（DOI 10.14309/ajg.0000000000001680 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：「日本では狙撃生検が中心（要確認）」は出典がないため、GL本文で確認できる対比に差し替え。変更項目：assertion.differential。根拠：ACG Barrett GL 2022 本文（PMC10259184）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：ACG Barrett GL 2022 本文（PMC10259184）。人間が2026-10-12にチャットで委任）
 - id: ES-018
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -900,7 +990,7 @@
       pmid_matched: true
       license_from_crossref: null
       notes: Crossrefに license の記載なし（source_class は現状維持）
-  uncertainty: low｜［取り込み時］PMIDは原本で「要確認」のためnull
+  uncertainty: low
   curriculum:
     core_curriculum: 要確認
     kokushi: 好酸球性食道炎
@@ -908,7 +998,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -926,6 +1016,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 39745304 に設定（DOI 10.14309/ajg.0000000000003194 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：AGREE 2018（PMID 30009819）の抄録。人間が2026-10-12にチャットで委任）
 - id: ES-019
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -937,22 +1033,22 @@
     common_misconception: PPIが効いたらEoEではないと考える
   provenance:
     source_ref: null
-    source: Dellon ES, et al. AGREE conference. Gastroenterology 2018
-    doi: null
-    pmid: null
-    pmcid: null
+    source: 'Dellon ES, et al. Updated international consensus diagnostic criteria for eosinophilic esophagitis: proceedings of the AGREE conference. Gastroenterology 2018;155:1022-1033'
+    doi: 10.1053/j.gastro.2018.07.009
+    pmid: '30009819'
+    pmcid: PMC6174113
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: ACG 2025
     id_check:
       checked_at: '2026-10-12'
-      doi_resolved: false
-      pmid_matched: null
-      license_from_crossref: null
-      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
-  uncertainty: low｜［取り込み時］DOIは原本で「要確認」のためnull／PMIDは原本で「要確認」のためnull
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://www.elsevier.com/tdm/userlicense/1.0/
+      notes: null
+  uncertainty: low（抄録で照合）
   curriculum:
     core_curriculum: 要確認
     kokushi: 好酸球性食道炎
@@ -960,7 +1056,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -972,6 +1068,15 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：DOIは原本で「要確認」のためnull／PMIDは原本で「要確認」のためnull
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：PubMed で書誌を特定し識別子を設定。変更項目：provenance.source, provenance.doi, provenance.pmid, provenance.pmcid, uncertainty。根拠：AGREE 2018（PMID 30009819）の抄録
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_class UNKNOWN → RESTRICTED（Crossref の license：https://www.elsevier.com/tdm/userlicense/1.0/）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：AGREE 2018（PMID 30009819）の抄録。人間が2026-10-12にチャットで委任）
 - id: ES-020
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -999,7 +1104,7 @@
       pmid_matched: true
       license_from_crossref: https://creativecommons.org/licenses/by-nc/4.0/
       notes: null
-  uncertainty: low｜［取り込み時］DOIは原本で「要確認」のためnull／PMCIDは原本で「要確認」のためnull
+  uncertainty: low
   curriculum:
     core_curriculum: 要確認
     kokushi: 好酸球性食道炎
@@ -1031,33 +1136,36 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmcid を PMC7203441 に設定（DOI 10.5415/apallergy.2020.10.e16 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
 - id: ES-021
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
   assertion:
-    plain_statement_ja: EoEの典型的な内視鏡所見は、縦走溝、輪状溝、白斑、浮腫、狭窄である。これらはEREFSで点数化する。
+    plain_statement_ja: EoEの典型的な内視鏡所見は、輪状溝、縦走溝、白斑（滲出物）、浮腫で、狭窄を伴うこともある。これらはEREFSで点数化する。
     condition:
       region: 国際
     differential: カンジダ食道炎の白苔
     common_misconception: 内視鏡所見が正常ならEoEを否定できると考える
   provenance:
     source_ref: null
-    source: 一次出典未取得（要補完）
-    doi: null
-    pmid: null
+    source: 'Hirano I, et al. Endoscopic assessment of the oesophageal features of eosinophilic oesophagitis: validation of a novel classification and grading system. Gut 2013;62:489-495'
+    doi: 10.1136/gutjnl-2011-301817
+    pmid: '22619364'
     pmcid: null
     url: null
-    source_license: 未確認
+    source_license: BMJ（CC表示は未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: ACG 2025で要確認
     id_check:
       checked_at: '2026-10-12'
-      doi_resolved: false
-      pmid_matched: null
+      doi_resolved: true
+      pmid_matched: true
       license_from_crossref: null
-      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
-  uncertainty: medium
+      notes: Crossrefに license の記載なし（source_class は現状維持）
+  uncertainty: low（抄録で照合）
   curriculum:
     core_curriculum: 要確認
     kokushi: 好酸球性食道炎
@@ -1065,7 +1173,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1074,6 +1182,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag 保留 → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：出典未取得だったカードに Hirano 2013 を設定。所見の列挙を出典に合わせて整理（主要4所見と追加所見の狭窄）。変更項目：provenance.source, provenance.doi, provenance.pmid, provenance.source_license, provenance.source_class, assertion.plain_statement_ja, uncertainty。根拠：Hirano 2013（PMID 22619364）の抄録
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Hirano 2013（PMID 22619364）の抄録。人間が2026-10-12にチャットで委任）
 - id: ES-022
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1100,7 +1214,7 @@
       pmid_matched: true
       license_from_crossref: null
       notes: Crossrefに license の記載なし（source_class は現状維持）
-  uncertainty: medium｜［取り込み時］PMIDは原本で「要確認」のためnull
+  uncertainty: medium
   curriculum:
     core_curriculum: 要確認
     kokushi: 好酸球性食道炎
@@ -1126,6 +1240,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 39745304 に設定（DOI 10.14309/ajg.0000000000003194 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
 - id: ES-023
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1159,7 +1276,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1192,6 +1309,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：本文を v2 の ES-R07（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-023 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Dellon ES, NEJM 2022（PMID 36546624）の抄録：Part A 組織学的寛解 60%（25/42）対 5%（2/39）。人間が2026-10-12にチャットで委任）
 - id: ES-024
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1351,10 +1471,10 @@
   domain: ES
   subdomain: 食道運動障害
   assertion:
-    plain_statement_ja: Chicago分類v4.0では、正常値データベースを健常者75人から469人に拡大した。また、判定保留例には補助検査（時限バリウム食道造影、FLIP）を併用するよう勧めている。
+    plain_statement_ja: Chicago分類v4.0は、HRMで判定が確定しない例（判定保留）では、錠剤を併用した時限バリウム食道造影（TBE）やFLIPを補助検査として用いるよう勧めている。
     condition:
       region: 国際
-    differential: v3.0との違い
+    differential: v3.0との違い（補助検査の位置づけの明確化）
     common_misconception: HRMだけですべての症例を確定できると考える
   provenance:
     source_ref: SRC-011
@@ -1373,7 +1493,7 @@
       pmid_matched: true
       license_from_crossref: http://onlinelibrary.wiley.com/termsAndConditions#vor
       notes: null
-  uncertainty: medium
+  uncertainty: low（本文で照合）
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道アカラシア・食道運動障害
@@ -1381,7 +1501,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1396,6 +1516,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-011 を付与（照合方法：identifier(SRC-011:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：「正常値データベースを75人から469人に拡大」は本文に記載がなく出典を確認できないため削除。補助検査の記述は本文で確認。変更項目：assertion.plain_statement_ja, assertion.differential, uncertainty。根拠：Chicago Classification v4.0 本文（PMC8034247、NIH著者稿）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Chicago Classification v4.0 本文（PMC8034247、NIH著者稿）。人間が2026-10-12にチャットで委任）
 - id: ES-028
   domain: ES
   subdomain: 食道運動障害
@@ -1422,7 +1548,7 @@
       pmid_matched: true
       license_from_crossref: http://onlinelibrary.wiley.com/termsAndConditions#vor
       notes: null
-  uncertainty: medium
+  uncertainty: low（本文で照合：DL 4.5秒未満かつDCI 450以上を早期収縮とする）
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道アカラシア・食道運動障害
@@ -1430,7 +1556,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1445,6 +1571,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-011 を付与（照合方法：identifier(SRC-011:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：DLの閾値を本文で確認。変更項目：uncertainty。根拠：Chicago Classification v4.0 本文（PMC8034247、NIH著者稿）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Chicago Classification v4.0 本文（PMC8034247、NIH著者稿）。人間が2026-10-12にチャットで委任）
 - id: ES-029
   domain: ES
   subdomain: 食道運動障害
@@ -1478,7 +1610,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1523,6 +1655,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_class UNKNOWN → RESTRICTED（Crossref の license：http://onlinelibrary.wiley.com/termsAndConditions#vor）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Chicago Classification v4.0 本文（PMC8034247、NIH著者稿）。人間が2026-10-12にチャットで委任）
 - id: ES-030
   domain: ES
   subdomain: 食道運動障害
@@ -1557,7 +1692,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1572,11 +1707,14 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-011 を付与（照合方法：identifier(SRC-011:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Chicago Classification v4.0 本文（PMC8034247、NIH著者稿）。人間が2026-10-12にチャットで委任）
 - id: ES-031
   domain: ES
   subdomain: 食道運動障害
   assertion:
-    plain_statement_ja: オピオイドの使用は、IRPの上昇やDLの短縮を介して、EGJ流出路障害、遠位食道攣縮、III型アカラシアに似た内圧所見を生じうる。Chicago分類v4.0はオピオイド誘発性食道機能障害に注意を促している。
+    plain_statement_ja: Chicago分類v4.0は、オピオイドがIII型アカラシアと関連するとし、可能であればオピオイドを中止した状態でHRMを行うよう勧めている。EGJ流出路障害（EGJOO）の一部もオピオイド使用に関連する。
     condition: オピオイド使用中のHRM
     differential: 原発性アカラシア
     common_misconception: 内圧所見だけで原発性アカラシアと断定しない
@@ -1596,8 +1734,8 @@
       doi_resolved: true
       pmid_matched: true
       license_from_crossref: http://onlinelibrary.wiley.com/termsAndConditions#vor
-      notes: source は略記。同じ文献（DOI 10.1111/nmo.14058）を ES-025 で書誌照合済み／source は略記。同じ DOI を ES-025 で書誌照合済み
-  uncertainty: 割合の原著と正常値データベースの人数は未確認
+      notes: source は略記。同じ DOI を ES-025 で書誌照合済み
+  uncertainty: low（本文で照合）
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道アカラシア・食道運動障害
@@ -1605,7 +1743,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1644,6 +1782,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_class UNKNOWN → RESTRICTED（Crossref の license：http://onlinelibrary.wiley.com/termsAndConditions#vor）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：v2 の主張文のうち、機序（IRP上昇・DL短縮）は本文に記載がないため、本文で確認できた内容に差し替え。変更項目：assertion.plain_statement_ja, uncertainty。根拠：Chicago Classification v4.0 本文（PMC8034247、NIH著者稿）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Chicago Classification v4.0 本文（PMC8034247、NIH著者稿）。人間が2026-10-12にチャットで委任）
 - id: ES-032
   domain: ES
   subdomain: 食道運動障害
@@ -1677,7 +1821,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1707,6 +1851,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：本文を v2 の ES-R06（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-032 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Werner YB, NEJM 2019（PMID 31800987）の抄録：221例、83.0%対81.7%、逆流性食道炎 57/20%・44/29%、重篤AE 2.7%対7.3%。人間が2026-10-12にチャットで委任）
 - id: ES-033
   domain: ES
   subdomain: 食道運動障害
@@ -1733,7 +1880,7 @@
       pmid_matched: true
       license_from_crossref: http://www.nejmgroup.org/legal/terms-of-use.htm
       notes: null
-  uncertainty: low｜［取り込み時］PMIDは未照合のためnull（原本の記憶由来の候補値は CLAUDE.md 1-3 により削除）
+  uncertainty: low
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道アカラシア・食道運動障害
@@ -1741,7 +1888,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1762,33 +1909,39 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 31800987 に設定（DOI 10.1056/NEJMoa1905380 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Werner YB, NEJM 2019（PMID 31800987）の抄録：221例、83.0%対81.7%、逆流性食道炎 57/20%・44/29%、重篤AE 2.7%対7.3%。人間が2026-10-12にチャットで委任）
 - id: ES-034
   domain: ES
   subdomain: 食道運動障害
   assertion:
-    plain_statement_ja: III型アカラシアでは、口側まで長く筋切開できるPOEMが有利とされる（ガイドライン上の根拠は要確認）。
+    plain_statement_ja: ACG 2020は、III型アカラシアには空気圧拡張術（PD）より有効な治療として、筋切開長を病変に合わせて延ばしたPOEM（tailored POEM）またはLHMを推奨している。III型はLESに限った治療では成績が劣り、長い筋切開が重要と考えられている。
     condition:
       region: 国際
     differential: I・II型では空気圧拡張術、LHM、POEMのいずれも選択肢
     common_misconception: 病型によらず治療成績は同じと考える
   provenance:
     source_ref: null
-    source: 一次出典未取得（要補完）
-    doi: null
-    pmid: null
-    pmcid: null
-    url: null
-    source_license: 未確認
+    source: 'Vaezi MF, et al. ACG clinical guidelines: diagnosis and management of achalasia. Am J Gastroenterol 2020;115:1393-1411'
+    doi: 10.14309/ajg.0000000000000731
+    pmid: '32773454'
+    pmcid: PMC9896940
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9896940/
+    source_license: © ACG（PMC 著者稿、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: ACG・ASGE 2020で要確認
     id_check:
       checked_at: '2026-10-12'
-      doi_resolved: false
-      pmid_matched: null
+      doi_resolved: true
+      pmid_matched: true
       license_from_crossref: null
-      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
-  uncertainty: high
+      notes: Crossrefに license の記載なし（source_class は現状維持）
+  uncertainty: low（GL本文 Recommendation 9 で照合）
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道アカラシア・食道運動障害
@@ -1796,7 +1949,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1805,6 +1958,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag 保留 → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：出典未取得で主張文に「要確認」が残っていたカード。ACG 2020 本文で推奨を確認し、出典を設定して主張文を確定。変更項目：provenance.source, provenance.doi, provenance.pmid, provenance.pmcid, provenance.url, provenance.source_license, provenance.source_class, assertion.plain_statement_ja, uncertainty。根拠：ACG アカラシアGL 2020 本文（PMC9896940）の Recommendation 9
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：ACG アカラシアGL 2020 本文（PMC9896940）の Recommendation 9。人間が2026-10-12にチャットで委任）
 - id: ES-035
   domain: ES
   subdomain: 食道癌
@@ -1945,7 +2104,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -1957,6 +2116,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-038
   domain: ES
   subdomain: 食道癌
@@ -1991,7 +2153,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -2003,6 +2165,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-039
   domain: ES
   subdomain: 食道癌
@@ -2037,7 +2202,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -2049,6 +2214,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-040
   domain: ES
   subdomain: 食道癌
@@ -2056,7 +2224,7 @@
     plain_statement_ja: 飲酒で生じるアセトアルデヒドは、2009年にWHOの作業部会でGroup 1の発がん物質とされた。アルコールやアセトアルデヒドを代謝する能力に関わる遺伝要因（ALDH2の不活性型など）は、飲酒による発癌リスクを左右する。
     condition:
       region: 東アジア／日本
-    differential: ADH1Bの低活性型（要確認）
+    differential: ALDH2ヘテロ型の飲酒者のオッズ比は ES-092
     common_misconception: 少量の飲酒で顔が赤くなる人（フラッシャー）は安全と考える（実際は高リスク）
   provenance:
     source_ref: null
@@ -2075,7 +2243,7 @@
       pmid_matched: true
       license_from_crossref: https://creativecommons.org/licenses/by/4.0
       notes: null
-  uncertainty: low（方向性）／high（数値）
+  uncertainty: low（GL本文で照合）
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道癌
@@ -2083,7 +2251,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -2095,14 +2263,20 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：アセトアルデヒドの Group 1 指定（2009年10月）と遺伝要因の記載をGL本文で確認。数値は ES-092 が担う。変更項目：assertion.differential, uncertainty。根拠：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-041
   domain: ES
   subdomain: 食道癌
   assertion:
-    plain_statement_ja: 食道癌には同時性・異時性の多重癌が多く、特に頭頸部癌と胃癌の合併に注意が必要である（頭頸部癌の診療で食道を調べることの推奨は要確認）。
+    plain_statement_ja: 食道癌は、同時性・異時性の多重癌を伴うことが多い。
     condition:
       region: 日本
-    differential: field cancerization（領域発癌）
+    differential: 頭頸部癌・胃癌の合併（この出典には具体的な記載がない）
     common_misconception: 食道癌の治療後は頭頸部を観察しなくてよいと考える
   provenance:
     source_ref: null
@@ -2121,7 +2295,7 @@
       pmid_matched: true
       license_from_crossref: https://creativecommons.org/licenses/by/4.0
       notes: null
-  uncertainty: medium
+  uncertainty: low（GL本文で照合）
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道癌
@@ -2129,7 +2303,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -2141,6 +2315,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：GL本文で確認できたのは多重癌が多いことまで。頭頸部癌・胃癌の具体名と「要確認」の括弧書きを主張文から外した。変更項目：assertion.plain_statement_ja, assertion.differential, uncertainty。根拠：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-042
   domain: ES
   subdomain: 食道癌
@@ -2342,7 +2522,7 @@
       pmid_matched: true
       license_from_crossref: http://onlinelibrary.wiley.com/termsAndConditions#vor
       notes: null
-  uncertainty: low｜［取り込み時］PMIDは未照合のためnull（原本の記憶由来の候補値は CLAUDE.md 1-3 により削除）
+  uncertainty: low
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道癌
@@ -2371,6 +2551,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 32072683 に設定（DOI 10.1111/den.13654 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
 - id: ES-047
   domain: ES
   subdomain: 食道癌
@@ -2405,7 +2588,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -2417,6 +2600,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-048
   domain: ES
   subdomain: 食道癌
@@ -2496,7 +2682,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -2532,6 +2718,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：本文を v2 の ES-R01（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-049 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Kato K, Lancet 2024（PMID 38876133）の抄録：601例、3年OS 72.1%対62.6%、HR 0.68、CF-RTは有意差なし。人間が2026-10-12にチャットで委任）
 - id: ES-050
   domain: ES
   subdomain: 食道癌
@@ -2558,7 +2747,7 @@
       pmid_matched: true
       license_from_crossref: https://www.elsevier.com/tdm/userlicense/1.0/
       notes: null
-  uncertainty: medium｜［取り込み時］PMIDは未照合のためnull（原本の記憶由来の候補値は CLAUDE.md 1-3 により削除）
+  uncertainty: medium
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道癌
@@ -2587,6 +2776,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 38876133 に設定（DOI 10.1016/S0140-6736(24)00745-1 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
 - id: ES-051
   domain: ES
   subdomain: 食道癌
@@ -2620,7 +2812,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -2659,6 +2851,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 33789008 に設定（DOI 10.1056/NEJMoa2032125 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Kelly RJ, NEJM 2021（PMID 33789008）の抄録：794例（532対262）、DFS 22.4対11.0か月、HR 0.69。人間が2026-10-12にチャットで委任）
 - id: ES-052
   domain: ES
   subdomain: 食道癌
@@ -2683,7 +2878,7 @@
       pmid_matched: true
       license_from_crossref: http://www.nejmgroup.org/legal/terms-of-use.htm
       notes: null
-  uncertainty: 一次資料を閲覧できず、主張文全体が要確認。PMIDは削除
+  uncertainty: low（抄録で照合）
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道癌
@@ -2691,7 +2886,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -2724,6 +2919,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 35108470 に設定（DOI 10.1056/NEJMoa2111380 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：一次資料（抄録）で主張文を照合したため uncertainty を更新。変更項目：uncertainty。根拠：Doki Y, NEJM 2022（PMID 35108470）の抄録：970例、PD-L1≥1%と全体集団でOS延長
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Doki Y, NEJM 2022（PMID 35108470）の抄録：970例、PD-L1≥1%と全体集団でOS延長。人間が2026-10-12にチャットで委任）
 - id: ES-053
   domain: ES
   subdomain: 食道癌
@@ -2750,7 +2951,7 @@
       pmid_matched: true
       license_from_crossref: https://www.elsevier.com/tdm/userlicense/1.0/
       notes: null
-  uncertainty: low｜［取り込み時］PMIDは未照合のためnull（原本の記憶由来の候補値は CLAUDE.md 1-3 により削除）
+  uncertainty: low
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道癌
@@ -2758,7 +2959,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -2779,19 +2980,25 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmid を 34454674 に設定（DOI 10.1016/S0140-6736(21)01234-4 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Sun JM, Lancet 2021（PMID 34454674）の抄録。人間が2026-10-12にチャットで委任）
 - id: ES-054
   domain: ES
   subdomain: 食道癌
   assertion:
-    plain_statement_ja: 進行食道癌の一次治療で、ペムブロリズマブ＋化学療法はプラセボ＋化学療法より全生存を改善した。追跡中央値58.8か月での5年全生存率は10.9%対3.1%だった。
+    plain_statement_ja: 進行食道癌の一次治療で、ペムブロリズマブ＋化学療法はプラセボ＋化学療法より全生存を改善した。追跡中央値58.8か月での5年全生存率は10.6%対3.0%だった。
     condition: 未治療の進行・転移性食道癌（扁平上皮癌、腺癌、Siewert I型の食道胃接合部腺癌）
     differential: CheckMate 648
     common_misconception: 5年時点でも生存者は少数であり、長期生存の確率が上がったという意味にとどまる
   provenance:
     source_ref: SRC-004
-    source: Sun JM, Lancet 2021;398:759-771。Metges JP, ESMO Open 2025;10(12):105854
+    source: Metges JP, et al. KEYNOTE-590 5-year extended follow-up. ESMO Open 2025;10(12):105854（原著：Sun JM, Lancet 2021;398:759-771, PMID 34454674）
     doi: 10.1016/j.esmoop.2025.105854
-    pmid: '34454674'
+    pmid: '41259897'
     pmcid: PMC12670541
     url: https://www.esmoopen.com/article/S2059-7029(25)01723-5/fulltext
     source_license: 原著は非CC。5年追跡はCC BY-NC-ND 4.0（Crossref）
@@ -2801,10 +3008,10 @@
     id_check:
       checked_at: '2026-10-12'
       doi_resolved: true
-      pmid_matched: false
+      pmid_matched: true
       license_from_crossref: http://creativecommons.org/licenses/by-nc-nd/4.0/
-      notes: pmid 食い違い：既存 34454674／API 41259897
-  uncertainty: 5年追跡論文のPMIDは未取得（pmid欄は原著のもの）
+      notes: null
+  uncertainty: low（5年生存率は5年追跡論文の抄録で照合）
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道癌
@@ -2812,7 +3019,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -2851,6 +3058,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmcid を PMC12670541 に設定（DOI 10.1016/j.esmoop.2025.105854 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：5年生存率を v2 の 10.9%対3.1% から、一次資料の 10.6%対3.0% に訂正。pmid は原著のものだったため、DOI と同じ5年追跡論文の PMID に置き換え（原著の PMID は source に記載）。変更項目：assertion.plain_statement_ja, provenance.source, provenance.pmid, uncertainty。根拠：Metges JP, ESMO Open 2025（PMID 41259897）の抄録：5年生存率 10.6% 対 3.0%；Sun JM, Lancet 2021（PMID 34454674）の抄録
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Metges JP, ESMO Open 2025（PMID 41259897）の抄録：5年生存率 10.6% 対 3.0%。人間が2026-10-12にチャットで委任）
 - id: ES-055
   domain: ES
   subdomain: 食道癌
@@ -2885,7 +3098,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -2894,6 +3107,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-056
   domain: ES
   subdomain: 食道癌
@@ -2929,7 +3145,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -2941,6 +3157,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：日本食道学会 食道癌診療GL 2022 Part 1 本文（PMC10024303、CC BY）。人間が2026-10-12にチャットで委任）
 - id: ES-057
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -2975,7 +3194,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -2987,6 +3206,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Baveno VII 本文（PMC11090185、著者稿）。人間が2026-10-12にチャットで委任）
 - id: ES-058
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3006,14 +3228,14 @@
     source_license: 非CC（license欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: 日本での扱いは要確認
+    corroboration: Baveno VII 5.14・5.15
     id_check:
       checked_at: '2026-10-12'
       doi_resolved: true
       pmid_matched: true
       license_from_crossref: null
       notes: Crossrefに license の記載なし（source_class は現状維持）
-  uncertainty: low（欧米）／要確認（日本）
+  uncertainty: low（Baveno VII本文で照合。AASLD 2024は本文未照合）
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道・胃静脈瘤、門脈圧亢進症
@@ -3021,7 +3243,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -3033,6 +3255,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：Baveno VII 本文で推奨を確認。日本の扱いはこのカードの対象外のため「要確認」を削除。変更項目：uncertainty, provenance.corroboration。根拠：Baveno VII 本文（PMC11090185、著者稿）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Baveno VII 本文（PMC11090185、著者稿）。人間が2026-10-12にチャットで委任）
 - id: ES-059
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3192,7 +3420,7 @@
     plain_statement_ja: 肝硬変の急性静脈瘤出血では、血管作動薬を内視鏡の前から早期に開始して2〜5日続ける。あわせて予防的抗菌薬を投与し、12時間以内に内視鏡を行って、食道静脈瘤にはEVLを施行する。
     condition:
       region: 欧米
-    differential: 日本で使える血管作動薬の保険適用は要確認
+    differential: 非静脈瘤性の上部消化管出血の初期対応（UG領域）
     common_misconception: 抗菌薬は感染徴候があるときだけ使うと考える
   provenance:
     source_ref: SRC-007
@@ -3211,7 +3439,7 @@
       pmid_matched: true
       license_from_crossref: https://www.elsevier.com/tdm/userlicense/1.0/
       notes: null
-  uncertainty: low｜［取り込み時］PMCIDは原本で「要確認」のためnull
+  uncertainty: low
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道・胃静脈瘤、門脈圧亢進症
@@ -3219,7 +3447,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -3240,6 +3468,15 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmcid を PMC11090185 に設定（DOI 10.1016/j.jhep.2021.12.022 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：「日本の保険適用は要確認」はこのカードの対象外のため、鑑別の記載に差し替え。変更項目：assertion.differential。根拠：Baveno VII 本文（PMC11090185、著者稿）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Baveno VII 本文（PMC11090185、著者稿）。人間が2026-10-12にチャットで委任）
 - id: ES-063
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3273,7 +3510,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -3306,6 +3543,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：本文を v2 の ES-R10（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-063 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Villanueva C, NEJM 2013（PMID 23281973）の抄録：921例、Hb 7 対 9 g/dL。人間が2026-10-12にチャットで委任）
 - id: ES-064
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3332,7 +3572,7 @@
       pmid_matched: true
       license_from_crossref: https://www.elsevier.com/tdm/userlicense/1.0/
       notes: null
-  uncertainty: low｜［取り込み時］PMCIDは原本で「要確認」のためnull
+  uncertainty: low
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道・胃静脈瘤、門脈圧亢進症
@@ -3340,7 +3580,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -3364,6 +3604,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmcid を PMC11090185 に設定（DOI 10.1016/j.jhep.2021.12.022 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: uncertainty から取り込み時の識別子の注記を削除（Phase 3 で API により識別子を確定したため）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Baveno VII 本文（PMC11090185、著者稿）。人間が2026-10-12にチャットで委任）
 - id: ES-065
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3396,7 +3642,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -3420,6 +3666,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: doi を 10.1056/NEJMoa0910102 に設定（PMID 20573925 の esummary から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：García-Pagán JC, NEJM 2010（PMID 20573925）の抄録：63例、1年生存 86%対61%。人間が2026-10-12にチャットで委任）
 - id: ES-066
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3520,8 +3769,8 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: ES-084, ES-085
   history:
   - date: '2026-10-12'
     by: claude-code
@@ -3529,6 +3778,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag 保留 → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 廃止：ES-084, ES-085 に統合（出典未取得のカードを、出典のある新カードで置き換え。人間が2026-10-12にチャットで委任）
 - id: ES-068
   domain: ES
   subdomain: その他（一次出典未取得：骨子のみ）
@@ -3795,20 +4047,20 @@
   provenance:
     source_ref: SRC-020
     source: 'Contini S, Scarpignato C. Caustic injury of the upper GI tract: a comprehensive review. World J Gastroenterol 2013;19(25):3918'
-    doi: null
-    pmid: null
-    pmcid: null
+    doi: 10.3748/wjg.v19.i25.3918
+    pmid: '23840136'
+    pmcid: PMC3703178
     url: https://www.wjgnet.com/1007-9327/full/v19/i25/3918.htm
     source_license: CC BY-NC
     legal_basis: B
     source_class: RESTRICTED
     id_check:
       checked_at: '2026-10-12'
-      doi_resolved: false
-      pmid_matched: null
+      doi_resolved: true
+      pmid_matched: true
       license_from_crossref: null
-      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
-  uncertainty: DOIとPMIDは未照合
+      notes: Crossrefに license の記載なし（source_class は現状維持）
+  uncertainty: medium（DOI・PMIDはAPIで確定。PMCでは抄録しか読めず、本文の記述は未照合）
   curriculum:
     core_curriculum: 要確認
     kokushi: 要確認
@@ -3837,6 +4089,18 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：Crossref の候補（著者・誌名・年・巻が一致）から DOI を設定。変更項目：provenance.doi。根拠：PubMed・Crossref の書誌
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 23840136 に設定（DOI 10.3748/wjg.v19.i25.3918 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmcid を PMC3703178 に設定（DOI 10.3748/wjg.v19.i25.3918 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：識別子の確定を反映し、未照合の範囲を明記。変更項目：uncertainty。根拠：PubMed・Crossref の書誌
 - id: ES-074
   domain: ES
   subdomain: その他の食道疾患
@@ -3870,7 +4134,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -3900,6 +4164,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_class OPEN → RESTRICTED（Crossref の license：http://www.springer.com/tdm）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Cheng HT, BMC Gastroenterol 2008（PMC2533005）の本文：Zargar の6段階分類。人間が2026-10-12にチャットで委任）
 - id: ES-075
   domain: ES
   subdomain: その他の食道疾患
@@ -3911,9 +4178,9 @@
   provenance:
     source_ref: SRC-020
     source: Contini 2013 WJG
-    doi: null
-    pmid: null
-    pmcid: null
+    doi: 10.3748/wjg.v19.i25.3918
+    pmid: '23840136'
+    pmcid: PMC3703178
     url: https://www.wjgnet.com/1007-9327/full/v19/i25/3918.htm
     source_license: CC BY-NC
     legal_basis: B
@@ -3921,11 +4188,11 @@
     corroboration: Chang CM ほか（PMC4137736）：2bと3で70〜100%
     id_check:
       checked_at: '2026-10-12'
-      doi_resolved: false
-      pmid_matched: null
+      doi_resolved: true
+      pmid_matched: true
       license_from_crossref: null
-      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
-  uncertainty: 報告によって2bは40〜60%とする記載もあり、幅がある
+      notes: Crossrefに license の記載なし（source_class は現状維持）
+  uncertainty: medium（報告によって2bは40〜60%とする記載もあり幅がある。PMCでは抄録しか読めず本文は未照合）
   curriculum:
     core_curriculum: 要確認
     kokushi: 要確認
@@ -3954,6 +4221,138 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：Crossref の候補（著者・誌名・年・巻が一致）から DOI を設定。変更項目：provenance.doi。根拠：PubMed・Crossref の書誌
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 23840136 に設定（DOI 10.3748/wjg.v19.i25.3918 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmcid を PMC3703178 に設定（DOI 10.3748/wjg.v19.i25.3918 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：識別子の確定を反映し、未照合の範囲を明記。変更項目：uncertainty。根拠：PubMed・Crossref の書誌
+- id: ES-076
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: 食道裂孔ヘルニアで最も多いのはI型（滑脱型）で、横隔食道膜の弛緩により胃噴門部が縦隔へ脱出する。軸方向のずれが2 cmを超えれば、バリウム造影、内視鏡、内圧検査で診断できる。
+    condition: 成人の食道裂孔ヘルニア
+    differential: 傍食道型（II型）・混合型（III型）・他臓器を含むIV型（本出典の抄録には記載なし）
+    common_misconception: 小さな滑脱型ヘルニアも内視鏡や造影で常に確実に診断できると考える
+  provenance:
+    source_ref: null
+    url: null
+    pmcid: PMC2548324
+    source: Kahrilas PJ, et al. Approaches to the diagnosis and grading of hiatal hernia. Best Pract Res Clin Gastroenterol 2008;22:601-616
+    doi: 10.1016/j.bpg.2007.12.007
+    pmid: '18656819'
+    source_license: Elsevier（PMC 著者稿）
+    legal_basis: B
+    source_class: RESTRICTED
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://www.elsevier.com/tdm/userlicense/1.0/
+      notes: null
+  uncertainty: low（抄録で照合）。II〜IV型の定義は未収載
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-12'
+    verifier: null
+    verified_at: null
+    status: verified_sources
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 起票：欠番補完（人間が2026-10-12にチャットで委任）。出典を再調査し、自作文で作成。根拠：Kahrilas 2008（PMID 18656819）の抄録
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：起票時に照合した一次資料。人間が2026-10-12にチャットで委任）
+- id: ES-077
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: 薬剤性食道炎の原因薬には、抗菌薬（テトラサイクリン系、特にドキシサイクリン）、ビスホスホネート、NSAIDs、塩化カリウム、鉄剤などがある。症状は胸骨後部痛、胸やけ、嚥下痛、嚥下障害で、多くは原因薬の中止と支持療法で改善する。
+    condition: 内服薬による直接的な食道粘膜傷害
+    differential: 逆流性食道炎、感染性食道炎
+    common_misconception: 少量の水で服用してすぐ横になっても問題ないと考える
+  provenance:
+    source_ref: null
+    url: null
+    pmcid: PMC9589134
+    source: Abdi S, et al. Drug-induced esophagitis and helpful management for healthcare providers. Gastroenterol Hepatol Bed Bench 2022;15:219-224
+    doi: 10.22037/ghfbb.v15i3.2591
+    pmid: '36311965'
+    source_license: null
+    legal_basis: B
+    source_class: UNKNOWN
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: Crossref で DOI 10.22037/ghfbb.v15i3.2591 が見つからない
+  uncertainty: low（PMC本文で照合）。ライセンスは Phase 3 の照合で確定
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-12'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 起票：欠番補完（人間が2026-10-12にチャットで委任）。出典を再調査し、自作文で作成。根拠：Abdi 2022（PMC9589134）の本文
+- id: ES-078
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: 台湾の健診受診者（HIV陰性）11,802例では、生検で確認したカンジダ食道炎は0.4%だった。多変量解析での独立した危険因子は、高齢、慢性腎臓病、飲酒、ステロイド使用だった。
+    condition: HIV陰性の成人（健診の上部消化管内視鏡）
+    differential: HIV感染者などの免疫不全者では頻度が高い。EoEの白斑との鑑別
+    common_misconception: カンジダ食道炎は免疫不全者にしか起こらないと考える
+  provenance:
+    source_ref: null
+    url: null
+    pmcid: PMC9631128
+    source: Chen YH, et al. Prevalence and risk factors for Candida esophagitis among human immunodeficiency virus-negative individuals. World J Clin Cases 2022;10:10896-10905
+    doi: 10.12998/wjcc.v10.i30.10896
+    pmid: '36338217'
+    source_license: null
+    legal_basis: B
+    source_class: UNKNOWN
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
+  uncertainty: low（抄録で照合）。単施設の健診データ
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-12'
+    verifier: null
+    verified_at: null
+    status: verified_sources
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 起票：欠番補完（人間が2026-10-12にチャットで委任）。出典を再調査し、自作文で作成。根拠：Chen 2022（PMID 36338217）の抄録
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：起票時に照合した一次資料。人間が2026-10-12にチャットで委任）
 - id: ES-079
   domain: ES
   subdomain: その他の食道疾患
@@ -4049,7 +4448,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -4079,6 +4478,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmcid を PMC6571398 に設定（DOI 10.1097/MD.0000000000015845 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Medicine 2019（PMC6571398）の本文：HSV と CMV の潰瘍形態、治療薬。人間が2026-10-12にチャットで委任）
 - id: ES-081
   domain: ES
   subdomain: その他の食道疾患
@@ -4112,7 +4514,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -4142,6 +4544,135 @@
   - date: '2026-10-12'
     by: claude-code
     change: pmcid を PMC6571398 に設定（DOI 10.1097/MD.0000000000015845 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Medicine 2019（PMC6571398）の本文：HSV と CMV の潰瘍形態、治療薬。人間が2026-10-12にチャットで委任）
+- id: ES-082
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: Plummer-Vinson症候群は、嚥下障害、鉄欠乏性貧血、食道web（膜様狭窄）の三徴を示すまれな疾患で、中年の女性に多い。治療は鉄補充と、必要に応じたwebの拡張である。咽頭・食道の扁平上皮癌のリスクが高いため経過観察が必要である。
+    condition: 鉄欠乏を伴う頸部食道のweb
+    differential: 食道癌、好酸球性食道炎による狭窄
+    common_misconception: 鉄欠乏を補正すれば発癌リスクの経過観察は不要と考える
+  provenance:
+    source_ref: null
+    url: null
+    pmcid: PMC1586011
+    source: Novacek G. Plummer-Vinson syndrome. Orphanet J Rare Dis 2006;1:36
+    doi: 10.1186/1750-1172-1-36
+    pmid: '16978405'
+    source_license: null
+    legal_basis: B
+    source_class: OPEN
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://creativecommons.org/licenses/by/2.0
+      notes: null
+  uncertainty: low（抄録で照合）
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-12'
+    verifier: null
+    verified_at: null
+    status: verified_sources
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 起票：欠番補完（人間が2026-10-12にチャットで委任）。出典を再調査し、自作文で作成。根拠：Novacek 2006（PMID 16978405）の抄録
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：http://creativecommons.org/licenses/by/2.0）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：起票時に照合した一次資料。人間が2026-10-12にチャットで委任）
+- id: ES-083
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: Zenker憩室は、下咽頭収縮筋の斜走部と輪状咽頭筋の間の脆弱部（Killian三角）から粘膜・粘膜下層が後方へ突出する圧出性憩室で、下咽頭憩室で最も多い。70〜80歳代の男性に多く、嚥下障害が80〜90%にみられる。治療の要点は輪状咽頭筋の切開である。
+    condition: 高齢者の嚥下障害・未消化物の逆流
+    differential: 食道中部の牽引性憩室、横隔膜上憩室
+    common_misconception: 憩室を切除するだけで輪状咽頭筋を処理しなくてよいと考える
+  provenance:
+    source_ref: null
+    url: null
+    pmcid: PMC11475965
+    source: 'Dell''Anna G, et al. The endoscopic management of Zenker''s diverticulum: a comprehensive review. Diagnostics (Basel) 2024;14:2155'
+    doi: 10.3390/diagnostics14192155
+    pmid: '39410559'
+    source_license: CC BY 4.0（論文表示）
+    legal_basis: B
+    source_class: OPEN
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0/
+      notes: null
+  uncertainty: low（PMC本文で照合）
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-12'
+    verifier: null
+    verified_at: null
+    status: verified_sources
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 起票：欠番補完（人間が2026-10-12にチャットで委任）。出典を再調査し、自作文で作成。根拠：Dell'Anna 2024（PMC11475965、CC BY）の本文
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：起票時に照合した一次資料。人間が2026-10-12にチャットで委任）
+- id: ES-084
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: Mallory-Weiss症候群（嘔吐などによる食道胃接合部の粘膜裂創）は多くが自然に止血し、緊急の内視鏡治療を要しないことが多い。ドイツの全国入院データ（2010〜2019年、59,291例）では、内視鏡的止血は局注13.7%、クリップ12.8%、外科治療は0.1%で、院内死亡率は2.7%だった。
+    condition: 嘔吐・えずきの後の吐血
+    differential: Boerhaave症候群（全層性破裂、ES-085〜087）、静脈瘤出血
+    common_misconception: Mallory-Weiss症候群は全例で内視鏡的止血が必要と考える
+  provenance:
+    source_ref: null
+    url: null
+    pmcid: null
+    source: Mertens A, et al. A systematic analysis of incidence, therapeutic strategies, and in-hospital mortality of Mallory-Weiss syndrome in Germany. J Clin Gastroenterol 2024;58:640-649
+    doi: 10.1097/MCG.0000000000001918
+    pmid: '37668412'
+    source_license: null
+    legal_basis: B
+    source_class: UNKNOWN
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
+  uncertainty: low（抄録で照合）
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-12'
+    verifier: null
+    verified_at: null
+    status: verified_sources
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 起票：欠番補完（人間が2026-10-12にチャットで委任）。出典を再調査し、自作文で作成。根拠：Mertens 2024（PMID 37668412）の抄録
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：起票時に照合した一次資料。人間が2026-10-12にチャットで委任）
 - id: ES-085
   domain: ES
   subdomain: その他の食道疾患
@@ -4235,7 +4766,7 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-12'
@@ -4262,6 +4793,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: doi を 10.3390/diagnostics15192463 に設定（PMCID PMC12524210 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：Boerhaave Syndrome—Narrative Review, Diagnostics 2025（PMC12524210、CC BY）の本文：水溶性造影剤で22〜50%の穿孔を見逃す。人間が2026-10-12にチャットで委任）
 - id: ES-087
   domain: ES
   subdomain: その他の食道疾患
@@ -4318,6 +4852,47 @@
   - date: '2026-10-12'
     by: claude-code
     change: doi を 10.3390/diagnostics15192463 に設定（PMCID PMC12524210 から API で一意に確定）
+- id: ES-088
+  domain: ES
+  subdomain: 好酸球性食道炎（EoE）
+  assertion:
+    plain_statement_ja: EREFSは、EoEの4つの主要な内視鏡所見（浮腫、輪状溝、白斑、縦走溝）と追加所見（狭窄、crepe paper esophagus）を等級化する分類である。修正版では、主要4所見の観察者間一致はκ 0.40〜0.54と良好だった。
+    condition: EoEの内視鏡評価・治療効果判定
+    differential: カンジダ食道炎の白苔（白斑との鑑別）
+    common_misconception: 内視鏡所見が乏しければEoEは否定できると考える
+  provenance:
+    source_ref: null
+    url: null
+    pmcid: null
+    source: 'Hirano I, et al. Endoscopic assessment of the oesophageal features of eosinophilic oesophagitis: validation of a novel classification and grading system. Gut 2013;62:489-495'
+    doi: 10.1136/gutjnl-2011-301817
+    pmid: '22619364'
+    source_license: BMJ（CC表示は未確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
+  uncertainty: low（抄録で照合）
+  curriculum:
+    core_curriculum: null
+    kokushi: null
+  publication_info:
+    created: '2026-10-12'
+    verifier: null
+    verified_at: null
+    status: verified_sources
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 起票：欠番補完（人間が2026-10-12にチャットで委任）。出典を再調査し、自作文で作成。根拠：Hirano 2013（PMID 22619364）の抄録
+  - date: '2026-10-12'
+    by: claude-code
+    change: status draft → verified_sources（識別子・ライセンスを API で照合済み、主張文の数値・推奨を一次資料と照合：起票時に照合した一次資料。人間が2026-10-12にチャットで委任）
 - id: ES-089
   domain: ES
   subdomain: その他の食道疾患
@@ -4447,7 +5022,7 @@
       pmid_matched: null
       license_from_crossref: null
       notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
-  uncertainty: 2026年時点の状況は要確認
+  uncertainty: low〜medium（2026年10月時点の検索でも国内のEoE承認の記録なし。PMDAの承認一覧での直接照合は未了）
   curriculum:
     core_curriculum: 要確認
     kokushi: 要確認
@@ -4470,6 +5045,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の ES-R09（raw/01b_esophagus_v2.md）に新規ID ES-091 を付与（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：2026年時点の国内承認状況を再調査。変更項目：uncertainty。根拠：サノフィ デュピクセント IF（2026年3月改訂 第20版）と国内報道の検索（2026-10-12）。国内のEoE承認の記録なし
 - id: ES-092
   domain: ES
   subdomain: 食道癌
@@ -4555,7 +5133,7 @@
       pmid_matched: null
       license_from_crossref: null
       notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
-  uncertainty: 告示の原本は未閲覧（二次資料3件で一致）
+  uncertainty: low（令和8年版点数表でも12,000点）
   curriculum:
     core_curriculum: 要確認
     kokushi: 要確認
@@ -4584,3 +5162,6 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の ES-R19（raw/01b_esophagus_v2.md）に新規ID ES-093 を付与（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-12にチャットで委任）：令和8年度改定後も点数が変わらないことを確認。変更項目：uncertainty。根拠：診療報酬点数表（令和8年版）K653-6 12,000点（clinicalsup.jp の点数表ページ、2026-10-12 閲覧）
