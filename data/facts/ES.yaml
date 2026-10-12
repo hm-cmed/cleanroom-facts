@@ -12,13 +12,19 @@
     source_ref: null
     source: Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285
     doi: 10.1007/s00535-022-01861-z
-    pmid: null
+    pmid: '35226174'
     pmcid: PMC8938399
     url: https://link.springer.com/article/10.1007/s00535-022-01861-z
     source_license: CC BY 4.0（Crossref確認済）
     legal_basis: B
     source_class: OPEN
     corroboration: 抄録
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: low｜［取り込み時］PMIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
@@ -42,6 +48,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：PMIDは原本で「要確認」のためnull
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 35226174 に設定（DOI 10.1007/s00535-022-01861-z から API で一意に確定）
 - id: ES-002
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -55,13 +64,19 @@
     source_ref: null
     source: Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285
     doi: 10.1007/s00535-022-01861-z
-    pmid: null
+    pmid: '35226174'
     pmcid: PMC8938399
     url: https://link.springer.com/article/10.1007/s00535-022-01861-z
     source_license: CC BY 4.0（Crossref確認済）
     legal_basis: B
     source_class: OPEN
     corroboration: 序論
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: low｜［取り込み時］PMIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
@@ -85,6 +100,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：PMIDは原本で「要確認」のためnull
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 35226174 に設定（DOI 10.1007/s00535-022-01861-z から API で一意に確定）
 - id: ES-003
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -99,13 +117,19 @@
     source_ref: null
     source: Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285
     doi: 10.1007/s00535-022-01861-z
-    pmid: null
+    pmid: '35226174'
     pmcid: PMC8938399
     url: https://link.springer.com/article/10.1007/s00535-022-01861-z
     source_license: CC BY 4.0（Crossref確認済）
     legal_basis: B
     source_class: OPEN
     corroboration: 抄録。初期治療はボノプラザン20 mgを4週（用量は本文で要確認）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: low（推奨の方向）／medium（用量）｜［取り込み時］PMIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
@@ -129,6 +153,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：PMIDは原本で「要確認」のためnull
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 35226174 に設定（DOI 10.1007/s00535-022-01861-z から API で一意に確定）
 - id: ES-004
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -143,13 +170,19 @@
     source_ref: null
     source: Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285
     doi: 10.1007/s00535-022-01861-z
-    pmid: null
+    pmid: '35226174'
     pmcid: PMC8938399
     url: https://link.springer.com/article/10.1007/s00535-022-01861-z
     source_license: CC BY 4.0（Crossref確認済）
     legal_basis: B
     source_class: OPEN
     corroboration: 抄録
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: low｜［取り込み時］PMIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
@@ -173,6 +206,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：PMIDは原本で「要確認」のためnull
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 35226174 に設定（DOI 10.1007/s00535-022-01861-z から API で一意に確定）
 - id: ES-005
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -193,6 +229,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: W01でもC・Dを重症としている
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: medium｜［取り込み時］DOIは原本で「要確認」のためnull／PMIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
@@ -226,13 +268,19 @@
     source_ref: null
     source: Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285
     doi: 10.1007/s00535-022-01861-z
-    pmid: null
+    pmid: '35226174'
     pmcid: PMC8938399
     url: https://link.springer.com/article/10.1007/s00535-022-01861-z
     source_license: CC BY 4.0（Crossref確認済）
     legal_basis: B
     source_class: OPEN
     corroboration: Expert Opin Drug Saf 2026
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: low｜［取り込み時］PMIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
@@ -256,6 +304,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：PMIDは原本で「要確認」のためnull
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 35226174 に設定（DOI 10.1007/s00535-022-01861-z から API で一意に確定）
 - id: ES-007
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -270,13 +321,19 @@
     source_ref: null
     source: Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285
     doi: 10.1007/s00535-022-01861-z
-    pmid: null
+    pmid: '35226174'
     pmcid: PMC8938399
     url: https://link.springer.com/article/10.1007/s00535-022-01861-z
     source_license: CC BY 4.0（Crossref確認済）
     legal_basis: B
     source_class: OPEN
     corroboration: 二次資料（Manabe 2026）がW01を引用している
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: high｜［取り込み時］PMIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
@@ -300,6 +357,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：PMIDは原本で「要確認」のためnull
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 35226174 に設定（DOI 10.1007/s00535-022-01861-z から API で一意に確定）
 - id: ES-008
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -320,6 +380,12 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: W01の該当章で要確認
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: medium
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
@@ -349,13 +415,19 @@
     source_ref: SRC-010
     source: 'Gyawali CP, et al. Updates to the modern diagnosis of GERD: Lyon consensus 2.0. Gut 2024;73(2):361-371'
     doi: 10.1136/gutjnl-2023-330616
-    pmid: null
-    pmcid: null
+    pmid: '37734911'
+    pmcid: PMC10846564
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13425011/
     source_license: CC BY-NC（WUSTL Digital Commonsの記録「Re-use permitted under CC BY-NC」）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: PMC12470591、PMID 39694203（ワイヤレスpHの検証）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://creativecommons.org/licenses/by-nc/4.0/
+      notes: null
   uncertainty: アジアでAET 4%超を確定閾値とする提案は、Wong & Chen, Gut Liver 2025（PMID 40905050）およびAliment Pharmacol Ther誌のレター（DOI 10.1111/apt.70755）による。Lyon 2.0本体のPMIDは未取得
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
@@ -391,6 +463,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：本文を v2 の ES-R12（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-009 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 37734911 に設定（DOI 10.1136/gutjnl-2023-330616 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmcid を PMC10846564 に設定（DOI 10.1136/gutjnl-2023-330616 から API で一意に確定）
 - id: ES-010
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -404,13 +482,19 @@
     source_ref: null
     source: Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285
     doi: 10.1007/s00535-022-01861-z
-    pmid: null
+    pmid: '35226174'
     pmcid: PMC8938399
     url: https://link.springer.com/article/10.1007/s00535-022-01861-z
     source_license: CC BY 4.0（Crossref確認済）
     legal_basis: B
     source_class: OPEN
     corroboration: 診断に関するCQ（本文で要確認）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: medium｜［取り込み時］PMIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
@@ -431,6 +515,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：PMIDは原本で「要確認」のためnull
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 35226174 に設定（DOI 10.1007/s00535-022-01861-z から API で一意に確定）
 - id: ES-011
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -444,13 +531,19 @@
     source_ref: null
     source: Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285
     doi: 10.1007/s00535-022-01861-z
-    pmid: null
+    pmid: '35226174'
     pmcid: PMC8938399
     url: https://link.springer.com/article/10.1007/s00535-022-01861-z
     source_license: CC BY 4.0（Crossref確認済）
     legal_basis: B
     source_class: OPEN
     corroboration: 本文、およびARMSの保険収載状況は要確認
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: medium｜［取り込み時］PMIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
@@ -471,6 +564,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：PMIDは原本で「要確認」のためnull
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 35226174 に設定（DOI 10.1007/s00535-022-01861-z から API で一意に確定）
 - id: ES-012
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -491,6 +587,12 @@
     legal_basis: B
     source_class: OPEN
     corroboration: 規約本文で文言を要確認
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: medium
   curriculum:
     core_curriculum: 要確認
@@ -521,13 +623,19 @@
     source_ref: null
     source: Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587
     doi: 10.14309/ajg.0000000000001680
-    pmid: null
-    pmcid: null
+    pmid: '35354777'
+    pmcid: PMC10259184
     url: null
     source_license: 非CC（license欄なし）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: 定義の節で要確認
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: medium｜［取り込み時］PMIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: 要確認
@@ -548,6 +656,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：PMIDは原本で「要確認」のためnull
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 35354777 に設定（DOI 10.14309/ajg.0000000000001680 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmcid を PMC10259184 に設定（DOI 10.14309/ajg.0000000000001680 から API で一意に確定）
 - id: ES-014
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -561,13 +675,19 @@
     source_ref: null
     source: Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587
     doi: 10.14309/ajg.0000000000001680
-    pmid: null
-    pmcid: null
+    pmid: '35354777'
+    pmcid: PMC10259184
     url: null
     source_license: 非CC（license欄なし）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: ACG 2015（10.1038/ajg.2015.322、非CC）。2022年版との数値の表記揺れを要確認
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: medium｜［取り込み時］PMIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: 要確認
@@ -591,6 +711,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：PMIDは原本で「要確認」のためnull
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 35354777 に設定（DOI 10.14309/ajg.0000000000001680 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmcid を PMC10259184 に設定（DOI 10.14309/ajg.0000000000001680 から API で一意に確定）
 - id: ES-015
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -611,6 +737,12 @@
     legal_basis: B
     source_class: OPEN
     corroboration: 本文のSummaryで確認済み
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: low
   curriculum:
     core_curriculum: 要確認
@@ -645,13 +777,19 @@
     source_ref: null
     source: Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587
     doi: 10.14309/ajg.0000000000001680
-    pmid: null
-    pmcid: null
+    pmid: '35354777'
+    pmcid: PMC10259184
     url: null
     source_license: 非CC（license欄なし）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: AGA Clinical Practice Update（CGH 2022）と一致
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low｜［取り込み時］PMIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: 要確認
@@ -675,6 +813,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：PMIDは原本で「要確認」のためnull
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 35354777 に設定（DOI 10.14309/ajg.0000000000001680 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmcid を PMC10259184 に設定（DOI 10.14309/ajg.0000000000001680 から API で一意に確定）
 - id: ES-017
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -688,13 +832,19 @@
     source_ref: null
     source: Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587
     doi: 10.14309/ajg.0000000000001680
-    pmid: null
-    pmcid: null
+    pmid: '35354777'
+    pmcid: PMC10259184
     url: null
     source_license: 非CC（license欄なし）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: ACG 2015
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low｜［取り込み時］PMIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: 要確認
@@ -718,6 +868,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：PMIDは原本で「要確認」のためnull
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 35354777 に設定（DOI 10.14309/ajg.0000000000001680 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmcid を PMC10259184 に設定（DOI 10.14309/ajg.0000000000001680 から API で一意に確定）
 - id: ES-018
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -731,13 +887,19 @@
     source_ref: null
     source: 'ACG Clinical Guideline: EoE. Am J Gastroenterol 2025'
     doi: 10.14309/ajg.0000000000003194
-    pmid: null
+    pmid: '39745304'
     pmcid: null
     url: null
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
     corroboration: AGREEも同じ閾値
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low｜［取り込み時］PMIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: 要確認
@@ -761,6 +923,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：PMIDは原本で「要確認」のためnull
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 39745304 に設定（DOI 10.14309/ajg.0000000000003194 から API で一意に確定）
 - id: ES-019
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -781,6 +946,12 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: ACG 2025
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: low｜［取り込み時］DOIは原本で「要確認」のためnull／PMIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: 要確認
@@ -814,14 +985,20 @@
   provenance:
     source_ref: null
     source: 'Clinical and endoscopic characteristics of EoE in Japan: a case-control study'
-    doi: null
+    doi: 10.5415/apallergy.2020.10.e16
     pmid: '32411581'
-    pmcid: null
+    pmcid: PMC7203441
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: PubMedの抄録
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc/4.0/
+      notes: null
   uncertainty: low｜［取り込み時］DOIは原本で「要確認」のためnull／PMCIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: 要確認
@@ -845,6 +1022,15 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：DOIは原本で「要確認」のためnull／PMCIDは原本で「要確認」のためnull
+  - date: '2026-10-12'
+    by: claude-code
+    change: doi を 10.5415/apallergy.2020.10.e16 に設定（PMID 32411581 の esummary から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_class UNKNOWN → RESTRICTED（Crossref の license：https://creativecommons.org/licenses/by-nc/4.0/）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmcid を PMC7203441 に設定（DOI 10.5415/apallergy.2020.10.e16 から API で一意に確定）
 - id: ES-021
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -865,6 +1051,12 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: ACG 2025で要確認
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: medium
   curriculum:
     core_curriculum: 要確認
@@ -895,13 +1087,19 @@
     source_ref: null
     source: 'ACG Clinical Guideline: EoE. Am J Gastroenterol 2025'
     doi: 10.14309/ajg.0000000000003194
-    pmid: null
+    pmid: '39745304'
     pmcid: null
     url: null
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
     corroboration: 15個/HPF未満を目標とする記載は確認済み
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: medium｜［取り込み時］PMIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: 要確認
@@ -925,6 +1123,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：PMIDは原本で「要確認」のためnull
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 39745304 に設定（DOI 10.14309/ajg.0000000000003194 から API で一意に確定）
 - id: ES-023
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -944,6 +1145,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: PubMed、ClinicalTrials.gov NCT03633617：パートAの組織学的寛解60%（25/42）対5%（2/39）。パートBの隔週投与群は60%（49/81）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://www.nejmgroup.org/legal/terms-of-use.htm
+      notes: null
   uncertainty: 本文未閲覧。症状スコアの数値は未確認
   curriculum:
     core_curriculum: 要確認
@@ -1004,6 +1211,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: 慶應義塾大学病院 KOMPAS（2024年5月）、サノフィプレスリリース（2022-05-20）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: PMDA添付文書の効能・効果欄を全文照合していない。FDA承認日は企業発表で確認したもので、米国政府資料では未照合
   curriculum:
     core_curriculum: 要確認
@@ -1056,6 +1269,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: PMC8034247の表
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://onlinelibrary.wiley.com/termsAndConditions#vor
+      notes: null
   uncertainty: low
   curriculum:
     core_curriculum: 要確認
@@ -1099,6 +1318,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: PubMed 35232920
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://onlinelibrary.wiley.com/termsAndConditions#vor
+      notes: null
   uncertainty: low
   curriculum:
     core_curriculum: 要確認
@@ -1142,6 +1367,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: 二次レビュー。原典で要確認
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://onlinelibrary.wiley.com/termsAndConditions#vor
+      notes: null
   uncertainty: medium
   curriculum:
     core_curriculum: 要確認
@@ -1185,6 +1416,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: DLの閾値は要確認
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://onlinelibrary.wiley.com/termsAndConditions#vor
+      notes: null
   uncertainty: medium
   curriculum:
     core_curriculum: 要確認
@@ -1219,14 +1456,20 @@
   provenance:
     source_ref: SRC-011
     source: Yadlapati R, et al. Chicago Classification v4.0. Neurogastroenterol Motil 2021
-    doi: null
-    pmid: null
+    doi: 10.1111/nmo.14058
+    pmid: '33373111'
     pmcid: PMC8034247
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8034247/
     source_license: PMC著者稿、CC表示は未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: Myers, Annals of Esophagus（III型アカラシアの定義：早期収縮が20%以上）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://onlinelibrary.wiley.com/termsAndConditions#vor
+      notes: null
   uncertainty: なし（閾値は本文で確認）
   curriculum:
     core_curriculum: 要確認
@@ -1271,6 +1514,15 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：本文を v2 の ES-R13（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-029 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 33373111 に設定（PMCID PMC8034247 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: doi を 10.1111/nmo.14058 に設定（PMCID PMC8034247 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_class UNKNOWN → RESTRICTED（Crossref の license：http://onlinelibrary.wiley.com/termsAndConditions#vor）
 - id: ES-030
   domain: ES
   subdomain: 食道運動障害
@@ -1291,6 +1543,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: PMC8034247の表
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://onlinelibrary.wiley.com/termsAndConditions#vor
+      notes: null
   uncertainty: low
   curriculum:
     core_curriculum: 要確認
@@ -1325,14 +1583,20 @@
   provenance:
     source_ref: SRC-011
     source: Chicago Classification v4.0（PMC8034247）
-    doi: null
-    pmid: null
+    doi: 10.1111/nmo.14058
+    pmid: '33373111'
     pmcid: PMC8034247
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 総説の二次引用：オピオイド使用66例中83%に異常（遠位食道攣縮45%、EGJOO 27%、III型11%）。原著は未特定
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://onlinelibrary.wiley.com/termsAndConditions#vor
+      notes: source は略記。同じ文献（DOI 10.1111/nmo.14058）を ES-025 で書誌照合済み／source は略記。同じ DOI を ES-025 で書誌照合済み
   uncertainty: 割合の原著と正常値データベースの人数は未確認
   curriculum:
     core_curriculum: 要確認
@@ -1371,6 +1635,15 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：本文を v2 の ES-R14（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-031 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 33373111 に設定（PMCID PMC8034247 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: doi を 10.1111/nmo.14058 に設定（PMCID PMC8034247 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_class UNKNOWN → RESTRICTED（Crossref の license：http://onlinelibrary.wiley.com/termsAndConditions#vor）
 - id: ES-032
   domain: ES
   subdomain: 食道運動障害
@@ -1390,6 +1663,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: PubMedの論評 PMID 32242371 の「Comment on」欄で書誌とPMIDを照合
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://www.nejmgroup.org/legal/terms-of-use.htm
+      notes: null
   uncertainty: 本文未閲覧のため数値は主張文に含めない
   curriculum:
     core_curriculum: 要確認
@@ -1441,13 +1720,19 @@
     source_ref: SRC-025
     source: Werner YB, et al. POEM vs LHM. N Engl J Med 2019;381:2219-2229
     doi: 10.1056/NEJMoa1905380
-    pmid: null
+    pmid: '31800987'
     pmcid: null
     url: null
     source_license: 未確認（非CC推定）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: NEJMのレター
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://www.nejmgroup.org/legal/terms-of-use.htm
+      notes: null
   uncertainty: low｜［取り込み時］PMIDは未照合のためnull（原本の記憶由来の候補値は CLAUDE.md 1-3 により削除）
   curriculum:
     core_curriculum: 要確認
@@ -1474,6 +1759,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-025 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 31800987 に設定（DOI 10.1056/NEJMoa1905380 から API で一意に確定）
 - id: ES-034
   domain: ES
   subdomain: 食道運動障害
@@ -1494,6 +1782,12 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: ACG・ASGE 2020で要確認
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: high
   curriculum:
     core_curriculum: 要確認
@@ -1530,6 +1824,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: 日本対がん協会（2024年の全がん死亡384,111人が一致）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: ganjoho.jpの利用規約の確認が残る（数値の利用のみ）
   curriculum:
     core_curriculum: 要確認
@@ -1631,6 +1931,12 @@
     legal_basis: B
     source_class: OPEN
     corroboration: 60〜70歳代が約7割。部位は胸部下部28%、胸部上部12%、腹部8%、頸部5%
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: low
   curriculum:
     core_curriculum: 要確認
@@ -1671,6 +1977,12 @@
     legal_basis: B
     source_class: OPEN
     corroboration: 本文
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: low
   curriculum:
     core_curriculum: 要確認
@@ -1711,6 +2023,12 @@
     legal_basis: B
     source_class: OPEN
     corroboration: 本文
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: low
   curriculum:
     core_curriculum: 要確認
@@ -1751,6 +2069,12 @@
     legal_basis: B
     source_class: OPEN
     corroboration: ALDH2ヘテロ型でのオッズ比は要確認
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: low（方向性）／high（数値）
   curriculum:
     core_curriculum: 要確認
@@ -1791,6 +2115,12 @@
     legal_basis: B
     source_class: OPEN
     corroboration: 多重癌が多いことは確認済み
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: medium
   curriculum:
     core_curriculum: 要確認
@@ -1871,6 +2201,12 @@
     legal_basis: B
     source_class: OPEN
     corroboration: W06（PMID 28386209）、PMID 28706424
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: low
   curriculum:
     core_curriculum: 要確認
@@ -1911,6 +2247,12 @@
     legal_basis: B
     source_class: OPEN
     corroboration: 陽性的中率はB1 92.4%、B3 90.7%（BMC Gastroenterol 2024）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: low
   curriculum:
     core_curriculum: 要確認
@@ -1951,6 +2293,12 @@
     legal_basis: B
     source_class: OPEN
     corroboration: W15、PMC6510875
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: low
   curriculum:
     core_curriculum: 要確認
@@ -1981,13 +2329,19 @@
     source_ref: SRC-006
     source: Ishihara R, et al. JGES ESD/EMR guidelines for esophageal cancer. Dig Endosc 2020;32:452-493
     doi: 10.1111/den.13654
-    pmid: null
+    pmid: '32072683'
     pmcid: null
     url: null
     source_license: 非CC（Wiley; Crossref）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: Clin Endosc 2022
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://onlinelibrary.wiley.com/termsAndConditions#vor
+      notes: null
   uncertainty: low｜［取り込み時］PMIDは未照合のためnull（原本の記憶由来の候補値は CLAUDE.md 1-3 により削除）
   curriculum:
     core_curriculum: 要確認
@@ -2014,6 +2368,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-006 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 32072683 に設定（DOI 10.1111/den.13654 から API で一意に確定）
 - id: ES-047
   domain: ES
   subdomain: 食道癌
@@ -2034,6 +2391,12 @@
     legal_basis: B
     source_class: OPEN
     corroboration: 二次資料経由。本文で要確認
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: medium
   curriculum:
     core_curriculum: 要確認
@@ -2074,6 +2437,12 @@
     legal_basis: B
     source_class: OPEN
     corroboration: 具体的な相違点は要確認
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: medium
   curriculum:
     core_curriculum: 要確認
@@ -2113,6 +2482,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: Matsuda S, Ann Surg Oncol（JCOG1109探索的解析）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://www.elsevier.com/tdm/userlicense/1.0/
+      notes: null
   uncertainty: 有害事象の割合はニュース照合のみのため主張文に含めない
   curriculum:
     core_curriculum: 要確認
@@ -2170,13 +2545,19 @@
     source_ref: SRC-001
     source: Kato K, et al. JCOG1109 NExT. Lancet 2024;404:55-66
     doi: 10.1016/S0140-6736(24)00745-1
-    pmid: null
+    pmid: '38876133'
     pmcid: null
     url: null
     source_license: 未確認（非CC推定）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: 二次資料（PMC12321551）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://www.elsevier.com/tdm/userlicense/1.0/
+      notes: null
   uncertainty: medium｜［取り込み時］PMIDは未照合のためnull（原本の記憶由来の候補値は CLAUDE.md 1-3 により削除）
   curriculum:
     core_curriculum: 要確認
@@ -2203,6 +2584,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-001 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 38876133 に設定（DOI 10.1016/S0140-6736(24)00745-1 から API で一意に確定）
 - id: ES-051
   domain: ES
   subdomain: 食道癌
@@ -2215,13 +2599,19 @@
     source_ref: SRC-002
     source: 'Kelly RJ, et al. CheckMate 577. NEJM 2021;384:1191-1203。OS: JCO 2025;43(16_suppl):4000'
     doi: 10.1056/NEJMoa2032125
-    pmid: null
+    pmid: '33789008'
     pmcid: null
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12765972
     source_license: 非CC
     legal_basis: B
     source_class: RESTRICTED
     corroboration: Verhoeven RHA, Int J Cancer 2026
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://www.nejmgroup.org/legal/terms-of-use.htm
+      notes: null
   uncertainty: PMIDは照合不能のため削除。OSの数値はASCO抄録（Kelly RJ, JCO 2025;43(16_suppl):4000, DOI 10.1200/JCO.2025.43.16_suppl.4000）で確認：中央値51.7対35.3か月、HR 0.85（95.87%CI 0.70–1.04）。5年OS 46%対41%は未確認
   curriculum:
     core_curriculum: 要確認
@@ -2266,6 +2656,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：本文を v2 の ES-R02（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-051 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 33789008 に設定（DOI 10.1056/NEJMoa2032125 から API で一意に確定）
 - id: ES-052
   domain: ES
   subdomain: 食道癌
@@ -2278,12 +2671,18 @@
     source_ref: SRC-003
     source: Doki Y, et al. CheckMate 648. NEJM 2022;386:449-462
     doi: 10.1056/NEJMoa2111380
-    pmid: null
+    pmid: '35108470'
     pmcid: null
     url: null
     source_license: 非CC
     legal_basis: B
     source_class: RESTRICTED
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://www.nejmgroup.org/legal/terms-of-use.htm
+      notes: null
   uncertainty: 一次資料を閲覧できず、主張文全体が要確認。PMIDは削除
   curriculum:
     core_curriculum: 要確認
@@ -2322,6 +2721,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：本文を v2 の ES-R03（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-052 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 35108470 に設定（DOI 10.1056/NEJMoa2111380 から API で一意に確定）
 - id: ES-053
   domain: ES
   subdomain: 食道癌
@@ -2335,13 +2737,19 @@
     source_ref: SRC-004
     source: Sun JM, et al. KEYNOTE-590. Lancet 2021;398:759-771
     doi: 10.1016/S0140-6736(21)01234-4
-    pmid: null
+    pmid: '34454674'
     pmcid: null
     url: null
     source_license: 未確認（非CC推定）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: 日本人サブグループ解析はPMC9436840
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://www.elsevier.com/tdm/userlicense/1.0/
+      notes: null
   uncertainty: low｜［取り込み時］PMIDは未照合のためnull（原本の記憶由来の候補値は CLAUDE.md 1-3 により削除）
   curriculum:
     core_curriculum: 要確認
@@ -2368,6 +2776,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-004 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 34454674 に設定（DOI 10.1016/S0140-6736(21)01234-4 から API で一意に確定）
 - id: ES-054
   domain: ES
   subdomain: 食道癌
@@ -2381,12 +2792,18 @@
     source: Sun JM, Lancet 2021;398:759-771。Metges JP, ESMO Open 2025;10(12):105854
     doi: 10.1016/j.esmoop.2025.105854
     pmid: '34454674'
-    pmcid: null
+    pmcid: PMC12670541
     url: https://www.esmoopen.com/article/S2059-7029(25)01723-5/fulltext
     source_license: 原著は非CC。5年追跡はCC BY-NC-ND 4.0（Crossref）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: Kato K, Esophagus 2026（日本人5年、PMID 42047965）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: false
+      license_from_crossref: http://creativecommons.org/licenses/by-nc-nd/4.0/
+      notes: pmid 食い違い：既存 34454674／API 41259897
   uncertainty: 5年追跡論文のPMIDは未取得（pmid欄は原著のもの）
   curriculum:
     core_curriculum: 要確認
@@ -2431,6 +2848,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：本文を v2 の ES-R04（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-054 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmcid を PMC12670541 に設定（DOI 10.1016/j.esmoop.2025.105854 から API で一意に確定）
 - id: ES-055
   domain: ES
   subdomain: 食道癌
@@ -2451,6 +2871,12 @@
     legal_basis: B
     source_class: OPEN
     corroboration: 治療アルゴリズム（要確認）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: medium
   curriculum:
     core_curriculum: 要確認
@@ -2489,6 +2915,12 @@
     legal_basis: B
     source_class: OPEN
     corroboration: 本文で確認済み
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: low
   curriculum:
     core_curriculum: 要確認
@@ -2529,6 +2961,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: Baveno VII
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low
   curriculum:
     core_curriculum: 要確認
@@ -2569,6 +3007,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: 日本での扱いは要確認
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low（欧米）／要確認（日本）
   curriculum:
     core_curriculum: 要確認
@@ -2609,6 +3053,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: ガイダンスの推奨文
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low
   curriculum:
     core_curriculum: 要確認
@@ -2649,6 +3099,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: ガイダンス本文
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: low
   curriculum:
     core_curriculum: 要確認
@@ -2688,6 +3144,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: 日内会誌103(5):1187（出血所見と粘膜所見E・Ul・S）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: 取扱い規約の最新版（第4版の有無）は要確認
   curriculum:
     core_curriculum: 要確認
@@ -2737,12 +3199,18 @@
     source: de Franchis R, et al. Baveno VII. J Hepatol 2022;76:959-974
     doi: 10.1016/j.jhep.2021.12.022
     pmid: '35120736'
-    pmcid: null
+    pmcid: PMC11090185
     url: null
     source_license: 未確認（CrossrefはElsevier TDM規約のみ）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: ESGE 2022、AASLD
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://www.elsevier.com/tdm/userlicense/1.0/
+      notes: null
   uncertainty: low｜［取り込み時］PMCIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: 要確認
@@ -2769,6 +3237,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-007 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmcid を PMC11090185 に設定（DOI 10.1016/j.jhep.2021.12.022 から API で一意に確定）
 - id: ES-063
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -2788,6 +3259,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: ClinicalTrials.gov NCT00414713：921例（制限群461、自由群460）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: 本文未閲覧。転帰の数値は主張文に含めない
   curriculum:
     core_curriculum: 要確認
@@ -2843,12 +3320,18 @@
     source: de Franchis R, et al. Baveno VII. J Hepatol 2022;76:959-974
     doi: 10.1016/j.jhep.2021.12.022
     pmid: '35120736'
-    pmcid: null
+    pmcid: PMC11090185
     url: null
     source_license: 未確認（CrossrefはElsevier TDM規約のみ）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: ESGE 2022、PMC12296215
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://www.elsevier.com/tdm/userlicense/1.0/
+      notes: null
   uncertainty: low｜［取り込み時］PMCIDは原本で「要確認」のためnull
   curriculum:
     core_curriculum: 要確認
@@ -2878,6 +3361,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 主張文内の脚注マーカー [68][69] を削除（proposals/01_inline_citation_markers.md、人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmcid を PMC11090185 に設定（DOI 10.1016/j.jhep.2021.12.022 から API で一意に確定）
 - id: ES-065
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -2889,13 +3375,19 @@
   provenance:
     source_ref: null
     source: García-Pagán JC, et al. NEJM 2010
-    doi: null
+    doi: 10.1056/NEJMoa0910102
     pmid: '20573925'
     pmcid: null
     url: null
     source_license: 非CC
     legal_basis: B
     source_class: RESTRICTED
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: PMIDは依頼者提示の値で、本セッションでは独立に照合していない
   curriculum:
     core_curriculum: 要確認
@@ -2925,6 +3417,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：本文を v2 の ES-R11（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-065 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: doi を 10.1056/NEJMoa0910102 に設定（PMID 20573925 の esummary から API で一意に確定）
 - id: ES-066
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -2937,13 +3432,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: Hepatol Res 2021版（DOI 10.1111/hepr.13678）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 2025年版の推奨は未確認
   curriculum:
     core_curriculum: 要確認
@@ -2979,6 +3480,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：本文を v2 の ES-R18（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-066 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: ES-067
   domain: ES
   subdomain: その他（一次出典未取得：骨子のみ）
@@ -2999,6 +3506,12 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: CC資料での裏付けが必要
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: medium
   curriculum:
     core_curriculum: 要確認
@@ -3075,6 +3588,12 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: Thieme誌ページ（表3）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: 小児はESPGHANなど別のGLの対象
   curriculum:
     core_curriculum: 要確認
@@ -3123,6 +3642,12 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: Thieme誌ページ
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: source は略記。同じ DOI を ES-069 で書誌照合済み／Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: なし
   curriculum:
     core_curriculum: 要確認
@@ -3170,6 +3695,12 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: source は略記。同じ DOI を ES-069 で書誌照合済み／Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: なし
   curriculum:
     core_curriculum: 要確認
@@ -3218,6 +3749,12 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: 同GL本文（基礎疾患の頻度は75%超）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: source は略記。同じ DOI を ES-069 で書誌照合済み／Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: 75%超の数値は同GL本文の記載で、原著は未確認
   curriculum:
     core_curriculum: 要確認
@@ -3265,6 +3802,12 @@
     source_license: CC BY-NC
     legal_basis: B
     source_class: RESTRICTED
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: DOIとPMIDは未照合
   curriculum:
     core_curriculum: 要確認
@@ -3305,14 +3848,20 @@
   provenance:
     source_ref: SRC-021
     source: Cheng HT, et al. Caustic ingestion in adults. BMC Gastroenterol 2008（表1）
-    doi: null
-    pmid: null
+    doi: 10.1186/1471-230X-8-31
+    pmid: '18655708'
     pmcid: PMC2533005
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2533005/
     source_license: CC BY（BMC）
     legal_basis: B
-    source_class: OPEN
+    source_class: RESTRICTED
     corroboration: Contini 2013 WJG（表3）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://www.springer.com/tdm
+      notes: null
   uncertainty: Zargar原著（Gastrointest Endosc 1991）は未閲覧
   curriculum:
     core_curriculum: 要確認
@@ -3342,6 +3891,15 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 18655708 に設定（PMCID PMC2533005 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: doi を 10.1186/1471-230X-8-31 に設定（PMCID PMC2533005 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_class OPEN → RESTRICTED（Crossref の license：http://www.springer.com/tdm）
 - id: ES-075
   domain: ES
   subdomain: その他の食道疾患
@@ -3361,6 +3919,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: Chang CM ほか（PMC4137736）：2bと3で70〜100%
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: 報告によって2bは40〜60%とする記載もあり、幅がある
   curriculum:
     core_curriculum: 要確認
@@ -3401,14 +3965,20 @@
   provenance:
     source_ref: SRC-023
     source: 'Esophageal CMV and HSV co-infection: case report and review. IDCases 2020'
-    doi: null
-    pmid: null
+    doi: 10.1016/j.idcr.2020.e00925
+    pmid: '33005566'
     pmcid: PMC7519373
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7519373
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: Medicine 2019（DOI 10.1097/MD.0000000000015845）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://creativecommons.org/licenses/by-nc-nd/4.0/
+      notes: null
   uncertainty: なし（2資料で一致）
   curriculum:
     core_curriculum: 要確認
@@ -3438,6 +4008,15 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 33005566 に設定（PMCID PMC7519373 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: doi を 10.1016/j.idcr.2020.e00925 に設定（PMCID PMC7519373 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_class UNKNOWN → RESTRICTED（Crossref の license：http://creativecommons.org/licenses/by-nc-nd/4.0/）
 - id: ES-080
   domain: ES
   subdomain: その他の食道疾患
@@ -3450,12 +4029,18 @@
     source_ref: SRC-024
     source: Can endoscopists differentiate CMV esophagitis from HSV esophagitis? Medicine 2019
     doi: 10.1097/MD.0000000000015845
-    pmid: null
-    pmcid: null
+    pmid: '31169688'
+    pmcid: PMC6571398
     url: https://doi.org/10.1097/MD.0000000000015845
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://creativecommons.org/licenses/by-nc/4.0
+      notes: null
   uncertainty: 単一の後ろ向き研究
   curriculum:
     core_curriculum: 要確認
@@ -3485,6 +4070,15 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_class UNKNOWN → RESTRICTED（Crossref の license：http://creativecommons.org/licenses/by-nc/4.0）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 31169688 に設定（DOI 10.1097/MD.0000000000015845 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmcid を PMC6571398 に設定（DOI 10.1097/MD.0000000000015845 から API で一意に確定）
 - id: ES-081
   domain: ES
   subdomain: その他の食道疾患
@@ -3497,13 +4091,19 @@
     source_ref: SRC-024
     source: Medicine 2019（確定診断後の治療薬）
     doi: 10.1097/MD.0000000000015845
-    pmid: null
-    pmcid: null
+    pmid: '31169688'
+    pmcid: PMC6571398
     url: https://doi.org/10.1097/MD.0000000000015845
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: IDCases 2020（PMC7519373）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://creativecommons.org/licenses/by-nc/4.0
+      notes: null
   uncertainty: 投与期間は未確認
   curriculum:
     core_curriculum: 要確認
@@ -3533,6 +4133,15 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_class UNKNOWN → RESTRICTED（Crossref の license：http://creativecommons.org/licenses/by-nc/4.0）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 31169688 に設定（DOI 10.1097/MD.0000000000015845 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmcid を PMC6571398 に設定（DOI 10.1097/MD.0000000000015845 から API で一意に確定）
 - id: ES-085
   domain: ES
   subdomain: その他の食道疾患
@@ -3544,14 +4153,20 @@
   provenance:
     source_ref: SRC-022
     source: Boerhaave Syndrome—Narrative Review. Diagnostics 2025;15(19):2463
-    doi: null
-    pmid: null
+    doi: 10.3390/diagnostics15192463
+    pmid: '41095682'
     pmcid: PMC12524210
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12524210/
     source_license: CC BY 4.0（MDPI）
     legal_basis: B
     source_class: OPEN
     corroboration: J Med Case Rep 2026：CTで90%超に縦隔外の空気を検出
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0/
+      notes: null
   uncertainty: 感度は総説が引用した値で、原著は未確認
   curriculum:
     core_curriculum: 要確認
@@ -3581,6 +4196,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 41095682 に設定（PMCID PMC12524210 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: doi を 10.3390/diagnostics15192463 に設定（PMCID PMC12524210 から API で一意に確定）
 - id: ES-086
   domain: ES
   subdomain: その他の食道疾患
@@ -3592,14 +4213,20 @@
   provenance:
     source_ref: SRC-022
     source: Diagnostics 2025;15(19):2463
-    doi: null
-    pmid: null
+    doi: 10.3390/diagnostics15192463
+    pmid: '41095682'
     pmcid: PMC12524210
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12524210/
     source_license: CC BY 4.0（MDPI）
     legal_basis: B
     source_class: OPEN
     corroboration: PMC13256309（修復後の水溶性造影で偽陰性になった症例）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0/
+      notes: null
   uncertainty: なし
   curriculum:
     core_curriculum: 要確認
@@ -3629,6 +4256,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 41095682 に設定（PMCID PMC12524210 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: doi を 10.3390/diagnostics15192463 に設定（PMCID PMC12524210 から API で一意に確定）
 - id: ES-087
   domain: ES
   subdomain: その他の食道疾患
@@ -3640,13 +4273,19 @@
   provenance:
     source_ref: SRC-022
     source: Diagnostics 2025;15(19):2463
-    doi: null
-    pmid: null
+    doi: 10.3390/diagnostics15192463
+    pmid: '41095682'
     pmcid: PMC12524210
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12524210/
     source_license: CC BY 4.0（MDPI）
     legal_basis: B
     source_class: OPEN
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0/
+      notes: null
   uncertainty: 治療の選択基準と死亡率の数値は未確認
   curriculum:
     core_curriculum: 要確認
@@ -3673,6 +4312,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 41095682 に設定（PMCID PMC12524210 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: doi を 10.3390/diagnostics15192463 に設定（PMCID PMC12524210 から API で一意に確定）
 - id: ES-089
   domain: ES
   subdomain: その他の食道疾患
@@ -3685,12 +4330,18 @@
     source_ref: SRC-006
     source: 要確認（JGES食道ESD/EMR GL 2020＝B、本文の該当CQを未照合）
     doi: 10.1111/den.13654
-    pmid: null
+    pmid: '32072683'
     pmcid: null
     url: null
     source_license: Wiley規約（非CC）
     legal_basis: B
     source_class: RESTRICTED
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://onlinelibrary.wiley.com/termsAndConditions#vor
+      notes: source は略記。同じ DOI を ES-046 で書誌照合済み
   uncertainty: 該当箇所の照合が未了
   curriculum:
     core_curriculum: 要確認
@@ -3714,6 +4365,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 32072683 に設定（DOI 10.1111/den.13654 から API で一意に確定）
 - id: ES-090
   domain: ES
   subdomain: 食道癌
@@ -3733,6 +4387,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: BMS・小野薬品プレスリリース 2021-11-25
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: PMDA添付文書の改訂履歴での確認は未実施
   curriculum:
     core_curriculum: 要確認
@@ -3781,6 +4441,12 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: 厚労科研 好酸球性消化管疾患 総括研究報告書（2019）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: 2026年時点の状況は要確認
   curriculum:
     core_curriculum: 要確認
@@ -3816,13 +4482,19 @@
     source_ref: SRC-012
     source: Brooks PJ, et al. The alcohol flushing response. PLoS Med 2009;6(3):e1000050
     doi: 10.1371/journal.pmed.1000050
-    pmid: null
-    pmcid: null
+    pmid: '19320537'
+    pmcid: PMC2659709
     url: https://journals.plos.org/plosmedicine/article?id=10.1371%2Fjournal.pmed.1000050
     source_license: CC BY（PLoS）
     legal_basis: B
     source_class: OPEN
     corroboration: Lewis SJ, CEBP 2005（PMID 16103445）：ヘテロ型OR 3.19、*2/*2型OR 0.36（95%CI 0.16–0.80）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/publicdomain/zero/1.0/
+      notes: null
   uncertainty: 53%は試算値（仮定に基づく推計）
   curriculum:
     core_curriculum: 要確認
@@ -3852,6 +4524,12 @@
   - date: '2026-10-12'
     by: claude-code
     change: 統合：v2 の ES-R15（raw/01b_esophagus_v2.md）に新規ID ES-092 を付与（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmid を 19320537 に設定（DOI 10.1371/journal.pmed.1000050 から API で一意に確定）
+  - date: '2026-10-12'
+    by: claude-code
+    change: pmcid を PMC2659709 に設定（DOI 10.1371/journal.pmed.1000050 から API で一意に確定）
 - id: ES-093
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -3871,6 +4549,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: 外保連ニュース（2022年3月）、JGES附置研究会抄録（2024年）
+    id_check:
+      checked_at: '2026-10-12'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: 告示の原本は未閲覧（二次資料3件で一致）
   curriculum:
     core_curriculum: 要確認
