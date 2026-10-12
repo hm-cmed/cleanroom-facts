@@ -392,6 +392,12 @@ def main() -> None:
                 src_matches.append((origin, norm["id"], ref, method, others, norm["provenance"]["source"]))
                 outputs["_staging_ES_v1.yaml" if origin == ES_V1 else "_staging_ES_v2.yaml"].append(norm)
 
+    if (FACTS / "ES.yaml").exists():
+        # 統合済み（Phase 2）。staging を作り直すと ES.yaml と二重になるため出力しない
+        for fname in ("_staging_ES_v1.yaml", "_staging_ES_v2.yaml"):
+            outputs.pop(fname)
+        print("ES.yaml があるため、食道の staging は出力しない")
+
     violations: dict[str, list[tuple[str, str]]] = {}
     for fname, cards in outputs.items():
         dump_yaml(FACTS / fname, cards)

@@ -341,23 +341,22 @@
   domain: ES
   subdomain: GERD・NERD・Barrett食道
   assertion:
-    plain_statement_ja: Lyon consensusでは、酸曝露時間（AET）6%超を病的逆流の確定的な所見、4%未満を正常範囲とする（Lyon 2.0での数値とライセンスは要確認）。
-    condition:
-      region: 国際
-    differential: 4〜6%は判定保留域
-    common_misconception: AET 4%を病的閾値とする
+    plain_statement_ja: Lyon consensus 2.0では、酸分泌抑制薬を中止して行う逆流モニタリングで、酸曝露時間（AET）が6%を超えればGERDの確定的根拠、4%未満なら生理的範囲、4〜6%は判定保留とする。内視鏡ではLA分類B以上の逆流性食道炎も確定的根拠とされた。
+    condition: 24時間pH（・インピーダンス）検査、または延長ワイヤレスpH検査（2日以上で基準を満たす）
+    differential: 逆流過敏性食道、機能性胸やけ
+    common_misconception: LA分類Aは単独ではGERDの確定根拠にならない
   provenance:
-    source_ref: null
-    source: 一次出典未取得（要補完）
-    doi: null
+    source_ref: SRC-010
+    source: 'Gyawali CP, et al. Updates to the modern diagnosis of GERD: Lyon consensus 2.0. Gut 2024;73(2):361-371'
+    doi: 10.1136/gutjnl-2023-330616
     pmid: null
     pmcid: null
-    url: null
-    source_license: 未確認
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13425011/
+    source_license: CC BY-NC（WUSTL Digital Commonsの記録「Re-use permitted under CC BY-NC」）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: 一次資料で要確認
-  uncertainty: high
+    source_class: RESTRICTED
+    corroboration: PMC12470591、PMID 39694203（ワイヤレスpHの検証）
+  uncertainty: アジアでAET 4%超を確定閾値とする提案は、Wong & Chen, Gut Liver 2025（PMID 40905050）およびAliment Pharmacol Ther誌のレター（DOI 10.1111/apt.70755）による。Lyon 2.0本体のPMIDは未取得
   curriculum:
     core_curriculum: PS-02-08-xx（要確認）
     kokushi: 胃食道逆流症・逆流性食道炎（番号要確認）
@@ -374,6 +373,24 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag 保留 → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [5][7][24][5][25][7] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-010 を付与（照合方法：identifier(SRC-010:doi)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：本文を v2 の ES-R12（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-009 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
 - id: ES-010
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -912,24 +929,22 @@
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
   assertion:
-    plain_statement_ja: デュピルマブ300 mg週1回投与の第3相試験Part Aでは、24週時の組織学的寛解（好酸球6個/HPF以下）が60%で、プラセボは5%だった。
-    condition:
-      region: 国際
-      population: 12歳以上
-    differential: Part Bの2週ごと投与では症状は改善しなかった
-    common_misconception: 寛解の閾値を15個/HPFと取り違える
+    plain_statement_ja: 12歳以上の好酸球性食道炎で、デュピルマブ300mgの週1回皮下投与は、プラセボに比べ24週時の組織学的寛解率を高め、嚥下障害の症状スコアを改善した。
+    condition: 生検で確定したEoE（好酸球15/HPF以上）
+    differential: PPI、局所ステロイド、食物除去
+    common_misconception: 隔週投与でも同等の症状改善が示されたわけではない
   provenance:
     source_ref: SRC-026
-    source: Dellon ES, et al. Dupilumab in EoE. N Engl J Med 2022;387:2317-2330
+    source: Dellon ES, et al. NEJM 2022;387:2317-2330
     doi: 10.1056/NEJMoa2205982
-    pmid: null
+    pmid: '36546624'
     pmcid: null
     url: null
-    source_license: 未確認（非CC推定）
+    source_license: 非CC
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: Part A 25/42 vs 2/39、Part B（週1回）47/80 vs 5/79
-  uncertainty: low｜［取り込み時］PMIDは未照合のためnull（原本の記憶由来の候補値は CLAUDE.md 1-3 により削除）
+    corroboration: PubMed、ClinicalTrials.gov NCT03633617：パートAの組織学的寛解60%（25/42）対5%（2/39）。パートBの隔週投与群は60%（49/81）
+  uncertainty: 本文未閲覧。症状スコアの数値は未確認
   curriculum:
     core_curriculum: 要確認
     kokushi: 好酸球性食道炎
@@ -955,27 +970,41 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-026 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [22][22] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-026 を付与（照合方法：identifier(SRC-026:pmid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：本文を v2 の ES-R07（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-023 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
 - id: ES-024
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
   assertion:
-    plain_statement_ja: 米国FDAは2022年5月、12歳以上のEoEにデュピルマブを承認した。日本での承認状況は要確認である。
-    condition:
-      region: 米国／日本（要確認）
-    differential: 日本ですでに承認されている適応
-    common_misconception: 国内でもEoEに保険適用があると前提する
+    plain_statement_ja: デュピルマブは米国FDAで2022年5月20日に12歳以上（体重40kg以上）のEoEに承認され、2024年1月に1〜11歳（体重15kg以上）へ適応が拡大された。日本では今回の調査でEoEへの承認の記録を確認できなかった。
+    condition: 国内の薬事承認状況
+    differential: 国内で既承認のアトピー性皮膚炎、喘息、COPDなど
+    common_misconception: 海外で承認されていても国内で保険適用されるとは限らない
   provenance:
     source_ref: null
-    source: 一次出典未取得（要補完）
+    source: デュピクセント 医薬品インタビューフォーム（2026年3月改訂 第20版）、サノフィ国内申請報道
     doi: null
     pmid: null
     pmcid: null
-    url: null
-    source_license: 未確認
+    url: https://pro.campus.sanofi/dam/jcr:59fc0e22-fb30-4a68-84c8-25bae10089cf/dupixent_if.pdf
+    source_license: 企業資料（非CC）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: ClinicalTrials.govのNCT05247866文書に記載。FDA一次資料で要確認
-  uncertainty: high
+    source_class: RESTRICTED
+    corroboration: 慶應義塾大学病院 KOMPAS（2024年5月）、サノフィプレスリリース（2022-05-20）
+  uncertainty: PMDA添付文書の効能・効果欄を全文照合していない。FDA承認日は企業発表で確認したもので、米国政府資料では未照合
   curriculum:
     core_curriculum: 要確認
     kokushi: 好酸球性食道炎
@@ -995,6 +1024,18 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag 保留 → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [23] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：本文を v2 の ES-R08（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-024 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
 - id: ES-025
   domain: ES
   subdomain: 食道運動障害
@@ -1171,23 +1212,22 @@
   domain: ES
   subdomain: 食道運動障害
   assertion:
-    plain_statement_ja: 過収縮食道（いわゆるジャックハンマー食道）は、IRP中央値が正常で、20%以上の嚥下が過収縮を示すものである。過収縮の目安はDCI 8,000 mmHg·s·cm超である（閾値は要確認）。
-    condition:
-      region: 国際
-    differential: 遠位食道痙攣
-    common_misconception: 1回の過収縮だけで診断する
+    plain_statement_ja: Chicago分類v4.0では、DCIが450〜8,000 mmHg·s·cmを正常収縮、100以上450未満を弱収縮、100未満を失敗収縮、8,000超を過収縮とする。遠位潜時（DL）が4.5秒未満でDCIが450以上の収縮を早期（攣縮性）収縮とする。
+    condition: 高解像度食道内圧検査（HRM）
+    differential: 遠位食道攣縮、III型アカラシア
+    common_misconception: DL 4.5秒未満でもDCIが450未満なら早期収縮ではなく無効収縮に分類される
   provenance:
     source_ref: SRC-011
-    source: Yadlapati R, et al. Chicago Classification v4.0. Neurogastroenterol Motil 2021;33:e14058
-    doi: 10.1111/nmo.14058
-    pmid: '33373111'
+    source: Yadlapati R, et al. Chicago Classification v4.0. Neurogastroenterol Motil 2021
+    doi: null
+    pmid: null
     pmcid: PMC8034247
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8034247/
-    source_license: 非CC（Wiley; Crossref）
+    source_license: PMC著者稿、CC表示は未確認
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: DCIの閾値は要確認
-  uncertainty: medium
+    source_class: UNKNOWN
+    corroboration: Myers, Annals of Esophagus（III型アカラシアの定義：早期収縮が20%以上）
+  uncertainty: なし（閾値は本文で確認）
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道アカラシア・食道運動障害
@@ -1213,6 +1253,24 @@
   - date: '2026-10-12'
     by: claude-code
     change: 主張文内の脚注マーカー [30] を削除（proposals/01_inline_citation_markers.md、人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [26][27][28][29] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag E → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-011 を付与（照合方法：identifier(SRC-011:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：本文を v2 の ES-R13（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-029 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
 - id: ES-030
   domain: ES
   subdomain: 食道運動障害
@@ -1260,23 +1318,22 @@
   domain: ES
   subdomain: 食道運動障害
   assertion:
-    plain_statement_ja: III型アカラシアやEGJOOでは、オピオイドの使用との関連が報告されている。そのため、診断の前に薬剤歴を確認する必要がある。
-    condition:
-      region: 国際
-    differential: オピオイド誘発性の食道機能障害
-    common_misconception: 薬剤歴を聞かずに治療を始める
+    plain_statement_ja: オピオイドの使用は、IRPの上昇やDLの短縮を介して、EGJ流出路障害、遠位食道攣縮、III型アカラシアに似た内圧所見を生じうる。Chicago分類v4.0はオピオイド誘発性食道機能障害に注意を促している。
+    condition: オピオイド使用中のHRM
+    differential: 原発性アカラシア
+    common_misconception: 内圧所見だけで原発性アカラシアと断定しない
   provenance:
     source_ref: SRC-011
-    source: Yadlapati R, et al. Chicago Classification v4.0. Neurogastroenterol Motil 2021;33:e14058
-    doi: 10.1111/nmo.14058
-    pmid: '33373111'
+    source: Chicago Classification v4.0（PMC8034247）
+    doi: null
+    pmid: null
     pmcid: PMC8034247
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8034247/
-    source_license: 非CC（Wiley; Crossref）
+    url: null
+    source_license: 未確認
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: 二次レビュー（III型の11〜13%、EGJOOの13〜37%）。要確認
-  uncertainty: medium
+    source_class: UNKNOWN
+    corroboration: 総説の二次引用：オピオイド使用66例中83%に異常（遠位食道攣縮45%、EGJOO 27%、III型11%）。原著は未特定
+  uncertainty: 割合の原著と正常値データベースの人数は未確認
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道アカラシア・食道運動障害
@@ -1299,27 +1356,41 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-011 を付与（照合方法：identifier(SRC-011:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [30][31][29] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag E → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-011 を付与（照合方法：identifier(SRC-011:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：本文を v2 の ES-R14（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-031 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
 - id: ES-032
   domain: ES
   subdomain: 食道運動障害
   assertion:
-    plain_statement_ja: 特発性アカラシア221例のRCTでは、2年時の臨床的成功率はPOEM 83.0%、LHM＋Dor噴門形成術81.7%で、POEMはLHMに対して非劣性だった。
-    condition:
-      region: 欧州
-    differential: 空気圧拡張術との比較は別のRCT
-    common_misconception: POEMがLHMより優れると考える（示されたのは非劣性）
+    plain_statement_ja: アカラシアでは、POEMは腹腔鏡下Heller筋層切開＋Dor噴門形成術に対して2年時の治療成功で非劣性を示した。逆流性食道炎はPOEM群で多かった。
+    condition: 症候性アカラシア
+    differential: 空気圧拡張術
+    common_misconception: POEMは逆流を起こさない手技ではない
   provenance:
     source_ref: SRC-025
-    source: Werner YB, et al. POEM vs LHM. N Engl J Med 2019;381:2219-2229
+    source: Werner YB, et al. NEJM 2019;381:2219-2229
     doi: 10.1056/NEJMoa1905380
-    pmid: null
+    pmid: '31800987'
     pmcid: null
     url: null
-    source_license: 未確認（非CC推定）
+    source_license: 非CC
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: NEJMのレター（10.1056/NEJMc2000065）
-  uncertainty: low｜［取り込み時］PMIDは未照合のためnull（原本の記憶由来の候補値は CLAUDE.md 1-3 により削除）
+    corroboration: PubMedの論評 PMID 32242371 の「Comment on」欄で書誌とPMIDを照合
+  uncertainty: 本文未閲覧のため数値は主張文に含めない
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道アカラシア・食道運動障害
@@ -1345,6 +1416,18 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-025 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-025 を付与（照合方法：identifier(SRC-025:pmid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：本文を v2 の ES-R06（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-032 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
 - id: ES-033
   domain: ES
   subdomain: 食道運動障害
@@ -1432,23 +1515,22 @@
   domain: ES
   subdomain: 食道癌
   assertion:
-    plain_statement_ja: 日本の食道癌の罹患率（粗率）は、2015年で男性が人口10万人あたり31.2人、女性が5.9人と推計されている。年齢調整罹患率は、男性で横ばいか減少、女性で横ばいかごく緩やかな増加である。
-    condition:
-      region: 日本
-    differential: 粗率と年齢調整率の違い
-    common_misconception: 男女比が1:1に近いと考える
+    plain_statement_ja: 日本の食道癌は、2023年に25,889例（男性20,977例、女性4,912例）が診断され、2024年に10,638人（男性8,572人、女性2,066人）が死亡した。罹患・死亡とも男性が約4倍多い。
+    condition: 全国がん登録（罹患）、人口動態統計（死亡）
+    differential: 胃癌（2023年罹患104,864例）
+    common_misconception: 予測値（2025年の罹患予測26,900例）と実測値を混同しない
   provenance:
-    source_ref: null
-    source: Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372
-    doi: 10.1007/s10388-023-00993-2
-    pmid: '36933136'
-    pmcid: PMC10024303
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10024303/
-    source_license: CC BY 4.0（PMC表示確認済）
+    source_ref: SRC-014
+    source: 国立がん研究センター がん情報サービス 食道（罹患2026年3月23日更新、死亡2026年1月7日更新）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://ganjoho.jp/reg_stat/statistics/stat/cancer/4_esophagus.html
+    source_license: 元データは政府統計。サイトの利用規約は未確認
     legal_basis: B
-    source_class: OPEN
-    corroboration: 国立がん研究センターのデータを引用。最新値への更新が必要
-  uncertainty: low
+    source_class: GOV_JP
+    corroboration: 日本対がん協会（2024年の全がん死亡384,111人が一致）
+  uncertainty: ganjoho.jpの利用規約の確認が残る（数値の利用のみ）
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道癌
@@ -1468,6 +1550,24 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [13][36][37][13][38] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag C → legal_basis B／source_class GOV_JP（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-014 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：本文を v2 の ES-R16（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-035 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
 - id: ES-036
   domain: ES
   subdomain: 食道癌
@@ -1496,8 +1596,8 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: ES-035
   history:
   - date: '2026-10-12'
     by: claude-code
@@ -1508,6 +1608,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 廃止：ES-035 に統合（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
 - id: ES-037
   domain: ES
   subdomain: 食道癌
@@ -1736,8 +1839,8 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: ES-089
   history:
   - date: '2026-10-12'
     by: claude-code
@@ -1745,6 +1848,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag 保留 → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 廃止：ES-089 に統合（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
 - id: ES-043
   domain: ES
   subdomain: 食道癌
@@ -1992,24 +2098,22 @@
   domain: ES
   subdomain: 食道癌
   assertion:
-    plain_statement_ja: JCOG1109 NExT試験（局所進行食道扁平上皮癌601例）では、術前DCF療法がCF療法より全生存を改善した。3年全生存率はDCF 72.1%、CF 62.6%、ハザード比は0.68だった。
-    condition:
-      region: 日本
-      population: cStage IB/II/III（T4を除く、UICC第7版）
-    differential: 術前CF＋放射線療法は、CFに比べ全生存を有意には改善しなかった（3年全生存率68.3%）
-    common_misconception: pCR率が最も高い術前CRTが最も生存を改善すると考える
+    plain_statement_ja: 切除可能な局所進行食道扁平上皮癌の術前療法として、ドセタキセルを加えた3剤併用（DCF）はシスプラチン＋5-FU（CF）より全生存を改善した。CFに放射線を加えた群（CF-RT）はCFに対する生存上の優越性を示さなかった。登録は601例（2012年12月〜2018年7月、1:1:1割付）。
+    condition: cStage IB〜III（UICC第7版）の切除可能な食道扁平上皮癌
+    differential: 術前化学放射線療法（欧米の標準）
+    common_misconception: 放射線を加えれば必ず生存が延びるわけではない
   provenance:
     source_ref: SRC-001
-    source: Kato K, et al. JCOG1109 NExT. Lancet 2024;404:55-66
+    source: Kato K, et al. JCOG1109 NExT. Lancet 2024;404(10447):55-66
     doi: 10.1016/S0140-6736(24)00745-1
-    pmid: null
+    pmid: '38876133'
     pmcid: null
-    url: null
-    source_license: 未確認（非CC推定）
+    url: https://pubmed.ncbi.nlm.nih.gov/38876135/
+    source_license: 非CC（Elsevier）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: 二次資料（PMC12321551）。本文で要確認
-  uncertainty: low（結論）／medium（数値）｜［取り込み時］PMIDは未照合のためnull（原本の記憶由来の候補値は CLAUDE.md 1-3 により削除）
+    corroboration: Matsuda S, Ann Surg Oncol（JCOG1109探索的解析）
+  uncertainty: 有害事象の割合はニュース照合のみのため主張文に含めない
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道癌
@@ -2035,6 +2139,24 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-001 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [2][14][15] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-001 を付与（照合方法：identifier(SRC-001:pmid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：本文を v2 の ES-R01（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-049 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
 - id: ES-050
   domain: ES
   subdomain: 食道癌
@@ -2085,24 +2207,22 @@
   domain: ES
   subdomain: 食道癌
   assertion:
-    plain_statement_ja: CheckMate 577試験（794例）の対象は、術前化学放射線療法とR0切除の後に病理学的な残存病変がある症例である。術後ニボルマブは、無病生存期間の中央値をプラセボの11.0か月から22.4か月に延長した（ハザード比0.69）。
-    condition:
-      region: 国際
-      population: 術前CRT後にR0切除され、pCRに至らなかった症例
-    differential: 日本の標準である術前化学療法後の症例は対象外
-    common_misconception: 全生存の改善を示した試験と考える（要確認）
+    plain_statement_ja: 術前化学放射線療法と切除の後に病理学的残存病変がある食道癌・食道胃接合部癌で、術後ニボルマブはプラセボに比べて無病生存期間を延長した（中央値22.4か月対11.0か月）。最終解析の全生存は統計学的有意差に達しなかった。
+    condition: 術前CRT後に病理学的完全奏効が得られなかった切除例
+    differential: 日本の標準である術前化学療法（DCF）後の症例は対象外
+    common_misconception: DFSの改善がそのまま全生存の有意な延長を意味するわけではない
   provenance:
     source_ref: SRC-002
-    source: Kelly RJ, et al. CheckMate 577. N Engl J Med 2021;384:1191-1203
+    source: 'Kelly RJ, et al. CheckMate 577. NEJM 2021;384:1191-1203。OS: JCO 2025;43(16_suppl):4000'
     doi: 10.1056/NEJMoa2032125
     pmid: null
     pmcid: null
-    url: null
-    source_license: 非CC（NEJM規約; Crossref）
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12765972
+    source_license: 非CC
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: NEJMの抄録。全生存の結果はPMC12765972
-  uncertainty: low（無病生存）／medium（全生存）｜［取り込み時］PMIDは未照合のためnull（原本の記憶由来の候補値は CLAUDE.md 1-3 により削除）
+    corroboration: Verhoeven RHA, Int J Cancer 2026
+  uncertainty: PMIDは照合不能のため削除。OSの数値はASCO抄録（Kelly RJ, JCO 2025;43(16_suppl):4000, DOI 10.1200/JCO.2025.43.16_suppl.4000）で確認：中央値51.7対35.3か月、HR 0.85（95.87%CI 0.70–1.04）。5年OS 46%対41%は未確認
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道癌
@@ -2128,27 +2248,43 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-002 を付与（照合方法：identifier(SRC-002:doi)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [16][17] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-002 を付与（照合方法：identifier(SRC-002:doi)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：本文を v2 の ES-R02（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-051 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
 - id: ES-052
   domain: ES
   subdomain: 食道癌
   assertion:
-    plain_statement_ja: CheckMate 648試験（未治療の進行食道扁平上皮癌970例）では、ニボルマブ＋化学療法とニボルマブ＋イピリムマブのいずれも、化学療法単独より全生存を延長した。延長は、腫瘍細胞PD-L1 1%以上の集団と全体集団の両方で有意だった。
-    condition:
-      region: 国際
-    differential: 無増悪生存で優越性を示したのは、ニボルマブ＋化学療法（PD-L1 1%以上）のみ
-    common_misconception: PD-L1陰性でも同じ程度の効果があると考える
+    plain_statement_ja: 切除不能な進行・再発食道扁平上皮癌の一次治療で、ニボルマブ＋化学療法とニボルマブ＋イピリムマブは、化学療法単独に比べて全生存を延長した。
+    condition: 未治療の進行食道扁平上皮癌
+    differential: KEYNOTE-590（ペムブロリズマブ＋化学療法）
+    common_misconception: 腫瘍PD-L1の発現にかかわらず効果が同じというわけではない
   provenance:
     source_ref: SRC-003
-    source: Doki Y, et al. CheckMate 648. N Engl J Med 2022;386:449-462
+    source: Doki Y, et al. CheckMate 648. NEJM 2022;386:449-462
     doi: 10.1056/NEJMoa2111380
     pmid: null
     pmcid: null
     url: null
-    source_license: 未確認（非CC推定）
+    source_license: 非CC
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: PMC11077338
-  uncertainty: low｜［取り込み時］PMIDは未照合のためnull（原本の記憶由来の候補値は CLAUDE.md 1-3 により削除）
+  uncertainty: 一次資料を閲覧できず、主張文全体が要確認。PMIDは削除
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道癌
@@ -2174,6 +2310,18 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-003 を付与（照合方法：identifier(SRC-003:doi)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-003 を付与（照合方法：identifier(SRC-003:doi)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：本文を v2 の ES-R03（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-052 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
 - id: ES-053
   domain: ES
   subdomain: 食道癌
@@ -2224,23 +2372,22 @@
   domain: ES
   subdomain: 食道癌
   assertion:
-    plain_statement_ja: KEYNOTE-590の5年追跡では、全体集団の5年生存率がペムブロリズマブ＋化学療法10.6%、化学療法単独3.0%だった。
-    condition:
-      region: 国際
-    differential: 長期生存例は扁平上皮癌かつCPS 10以上に多い
-    common_misconception: 多くの患者が治癒すると過大に評価する
+    plain_statement_ja: 進行食道癌の一次治療で、ペムブロリズマブ＋化学療法はプラセボ＋化学療法より全生存を改善した。追跡中央値58.8か月での5年全生存率は10.9%対3.1%だった。
+    condition: 未治療の進行・転移性食道癌（扁平上皮癌、腺癌、Siewert I型の食道胃接合部腺癌）
+    differential: CheckMate 648
+    common_misconception: 5年時点でも生存者は少数であり、長期生存の確率が上がったという意味にとどまる
   provenance:
-    source_ref: SRC-005
-    source: KEYNOTE-590 5-year follow-up. ESMO Open 2025
-    doi: null
-    pmid: null
+    source_ref: SRC-004
+    source: Sun JM, Lancet 2021;398:759-771。Metges JP, ESMO Open 2025;10(12):105854
+    doi: 10.1016/j.esmoop.2025.105854
+    pmid: '34454674'
     pmcid: null
-    url: null
-    source_license: 未確認
+    url: https://www.esmoopen.com/article/S2059-7029(25)01723-5/fulltext
+    source_license: 原著は非CC。5年追跡はCC BY-NC-ND 4.0（Crossref）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: ASCO Post（二次資料）
-  uncertainty: medium｜［取り込み時］DOIは原本で「要確認」のためnull／PMIDは原本で「要確認」のためnull
+    source_class: RESTRICTED
+    corroboration: Kato K, Esophagus 2026（日本人5年、PMID 42047965）
+  uncertainty: 5年追跡論文のPMIDは未取得（pmid欄は原著のもの）
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道癌
@@ -2266,6 +2413,24 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-005 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [18] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-004 を付与（照合方法：identifier(SRC-004:pmid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：本文を v2 の ES-R04（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-054 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
 - id: ES-055
   domain: ES
   subdomain: 食道癌
@@ -2508,23 +2673,22 @@
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
   assertion:
-    plain_statement_ja: 日本の食道静脈瘤の内視鏡所見記載基準では、占居部位（L）、形態（F）、基本色調（C）、発赤所見（RC sign）、出血所見、粘膜所見を記載する。
-    condition:
-      region: 日本
-    differential: 欧米は大きさ5 mmを境にしたsmall/largeの2分類が中心
-    common_misconception: F1でRC陽性でも出血リスクは低いと考える
+    plain_statement_ja: 日本の食道・胃静脈瘤内視鏡所見記載基準は、占居部位（L）、形態（F）、色調（C）、発赤所見（RC）、出血所見（BS）、粘膜所見（MF）の6項目で記載する。食道ではLs・Lm・Li、F0〜F3、Cw・Cb、RC0〜3（ミミズ腫れ・チェリーレッドスポット・血マメ）を用いる。
+    condition: 門脈圧亢進症取扱い規約 第3版（2013年）
+    differential: 胃静脈瘤の部位分類（Lg-c、Lg-cf、Lg-f）
+    common_misconception: F0でも発赤所見があればRC1〜3で記載する
   provenance:
-    source_ref: null
-    source: 一次出典未取得（要補完）
+    source_ref: SRC-017
+    source: 日本門脈圧亢進症学会 門脈圧亢進症取扱い規約 第3版（記載基準表を日消誌116(5):395、日内会誌103(5):1187で確認）
     doi: null
     pmid: null
     pmcid: null
-    url: null
-    source_license: 未確認
+    url: https://www.jstage.jst.go.jp/article/nisshoshi/116/5/116_395/_pdf
+    source_license: 非CC
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: 学会資料（©）の原典は未入手。項目名のみ使用
-  uncertainty: medium
+    source_class: RESTRICTED
+    corroboration: 日内会誌103(5):1187（出血所見と粘膜所見E・Ul・S）
+  uncertainty: 取扱い規約の最新版（第4版の有無）は要確認
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道・胃静脈瘤、門脈圧亢進症
@@ -2541,6 +2705,24 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag 保留 → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [9][10][39][39][9][10][39] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-017 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：本文を v2 の ES-R17（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-061 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
 - id: ES-062
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -2591,23 +2773,22 @@
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
   assertion:
-    plain_statement_ja: 急性上部消化管出血921例のRCTでは、Hb 7 g/dL未満で輸血する制限輸血が、9 g/dL未満で輸血する非制限輸血より、45日死亡（5% vs 9%）と再出血（10% vs 16%）を減らした。
-    condition:
-      region: スペイン（単施設）
-    differential: 非制限輸血群では門脈圧較差が上昇した
-    common_misconception: Hb 10 g/dL以上を目標に輸血すると考える
+    plain_statement_ja: 急性上部消化管出血では、Hb 7 g/dL未満で輸血する制限的輸血戦略が、9 g/dL未満で輸血する自由輸血戦略より転帰が良かった。
+    condition: 急性上部消化管出血（静脈瘤出血を含む）
+    differential: 虚血性心疾患合併例
+    common_misconception: 出血例では高いHbを目標にすべきとは限らない
   provenance:
     source_ref: SRC-027
-    source: Villanueva C, et al. N Engl J Med 2013;368:11-21
+    source: Villanueva C, et al. NEJM 2013;368(1):11-21
     doi: 10.1056/NEJMoa1211801
-    pmid: null
+    pmid: '23281973'
     pmcid: null
     url: null
-    source_license: 未確認（非CC推定）
+    source_license: 非CC
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: NEJMの抄録
-  uncertainty: low｜［取り込み時］PMIDは未照合のためnull（原本の記憶由来の候補値は CLAUDE.md 1-3 により削除）
+    corroboration: ClinicalTrials.gov NCT00414713：921例（制限群461、自由群460）
+  uncertainty: 本文未閲覧。転帰の数値は主張文に含めない
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道・胃静脈瘤、門脈圧亢進症
@@ -2633,6 +2814,21 @@
   - date: '2026-10-12'
     by: claude-code
     change: source_ref=SRC-027 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-027 を付与（照合方法：identifier(SRC-027:pmid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：本文を v2 の ES-R10（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-063 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
 - id: ES-064
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -2686,24 +2882,21 @@
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
   assertion:
-    plain_statement_ja: 高リスク静脈瘤出血63例のRCTでは、72時間以内の早期TIPSが、薬物療法＋EVLに比べて1年生存率を改善した（86% vs 61%）。6週生存率も97% vs 67%だった。
-    condition:
-      region: 欧州
-      population: Child-Pugh C 10〜13点、または活動性出血を伴うChild-Pugh B
-    differential: 追試では結果が一定しない（要確認）
-    common_misconception: 早期TIPSで肝性脳症が大きく増えると考える
+    plain_statement_ja: 急性静脈瘤出血を起こした高リスクの肝硬変（Child-Pugh C 10〜13点、またはBで活動性出血）では、72時間以内の早期TIPSが標準治療に比べ生存を改善した。
+    condition: 高リスクの急性静脈瘤出血
+    differential: 救済（rescue）TIPS
+    common_misconception: 全例に早期TIPSが適応になるわけではない
   provenance:
     source_ref: null
-    source: García-Pagán JC, et al. N Engl J Med 2010;362:2370-2379
-    doi: 10.1056/NEJMoa0910102
+    source: García-Pagán JC, et al. NEJM 2010
+    doi: null
     pmid: '20573925'
     pmcid: null
-    url: https://pubmed.ncbi.nlm.nih.gov/20573925/
-    source_license: 未確認（非CC推定）
+    url: null
+    source_license: 非CC
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: PubMedの抄録
-  uncertainty: low
+  uncertainty: PMIDは依頼者提示の値で、本セッションでは独立に照合していない
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道・胃静脈瘤、門脈圧亢進症
@@ -2723,27 +2916,35 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：本文を v2 の ES-R11（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-065 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
 - id: ES-066
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
   assertion:
-    plain_statement_ja: 日本では食道静脈瘤の内視鏡治療として、EVLに加え内視鏡的硬化療法（EIS）も使われる。胃静脈瘤にはB-RTOが広く行われる。一方、欧米のガイドラインはEVLを標準としている。
-    condition:
-      region: 日本 vs 欧米
-    differential: 胃静脈瘤にはシアノアクリレートやB-RTO
-    common_misconception: 日本でもEVLだけが標準と考える
+    plain_statement_ja: 日本の肝硬変診療ガイドライン2020では、食道静脈瘤の初回出血予防にEVLとNSBBがともに有用とされる。再発予防ではEVLとEISの両方が提案されている。胃静脈瘤にはB-RTOが有用とされ、国内研究ではNBCAによるEISより再出血の予防に優れていた。
+    condition: 肝硬変に伴う食道・胃静脈瘤
+    differential: Baveno VII（カルベジロールを優先する国際コンセンサス）
+    common_misconception: 日本ではEISが今も選択肢であり、EVLに一本化されているわけではない
   provenance:
-    source_ref: null
-    source: 一次出典未取得（要補完）
-    doi: null
+    source_ref: SRC-018
+    source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
+    doi: 10.1007/s00535-021-01788-x
     pmid: null
-    pmcid: null
-    url: null
-    source_license: 未確認
+    pmcid: PMC8280040
+    url: https://link.springer.com/article/10.1007/s00535-021-01788-x
+    source_license: Springer OA（CC種別は未確認）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: JSGE肝硬変診療GL 2020英語版で要確認
-  uncertainty: medium
+    corroboration: Hepatol Res 2021版（DOI 10.1111/hepr.13678）
+  uncertainty: 2025年版の推奨は未確認
   curriculum:
     core_curriculum: 要確認
     kokushi: 食道・胃静脈瘤、門脈圧亢進症
@@ -2760,6 +2961,24 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag 保留 → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [11][40][41] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag E → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-018 を付与（照合方法：identifier(SRC-018:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：本文を v2 の ES-R18（raw/01b_esophagus_v2.md）で全文置換。ID は v1 の ES-066 を引き継ぐ。置換前の v1 本文は git 履歴の data/facts/_staging_ES_v1.yaml にある（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
 - id: ES-067
   domain: ES
   subdomain: その他（一次出典未取得：骨子のみ）
@@ -2825,8 +3044,8 @@
     created: '2026-10-10'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: ES-069, ES-070, ES-071, ES-072, ES-073, ES-074, ES-075, ES-079, ES-080, ES-081, ES-085, ES-086, ES-087, ES-089
   history:
   - date: '2026-10-12'
     by: claude-code
@@ -2834,3 +3053,850 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag 保留 → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 廃止：v2 で ES-069〜089 に分割（欠番 ES-076〜078、082〜084、088 は作成保留）。superseded_by=ES-069, ES-070, ES-071, ES-072, ES-073, ES-074, ES-075, ES-079, ES-080, ES-081, ES-085, ES-086, ES-087, ES-089
+- id: ES-069
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: 食道を完全に閉塞した異物、食道内の鋭的異物、食道内の電池は、緊急（できれば2時間以内、遅くとも6時間以内）に内視鏡で摘出する。
+    condition: 成人の上部消化管異物
+    differential: 胃内にある異物（24時間以内の準緊急）
+    common_misconception: 症状が軽いボタン電池でも待機してはならない
+  provenance:
+    source_ref: SRC-009
+    source: Birk M, et al. ESGE Clinical Guideline. Endoscopy 2016;48:489-496（推奨7）
+    doi: 10.1055/s-0042-100456
+    pmid: '26862844'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/26862844/
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: Thieme誌ページ（表3）
+  uncertainty: 小児はESPGHANなど別のGLの対象
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [48][49][50] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag E → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-009 を付与（照合方法：identifier(SRC-009:pmid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+- id: ES-070
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: 完全閉塞のない食道異物は24時間以内に摘出する。胃内の鋭的異物、磁石、電池、大きい・長い異物も24時間以内の内視鏡摘出が推奨される。
+    condition: 成人の上部消化管異物
+    differential: 小さく鈍的な無症状の異物（経過観察）
+    common_misconception: 磁石は1個だけに見えても準緊急で摘出する
+  provenance:
+    source_ref: SRC-009
+    source: ESGE異物GL 2016（推奨7・10）
+    doi: 10.1055/s-0042-100456
+    pmid: '26862844'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/26862844/
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: Thieme誌ページ
+  uncertainty: なし
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [49][50][48] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag E → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-009 を付与（照合方法：identifier(SRC-009:pmid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+- id: ES-071
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: 鋭的異物を内視鏡で摘出するときは、食道・胃・咽頭の損傷と誤嚥を防ぐため保護具（オーバーチューブやフード）を使う。
+    condition: 鋭的異物の摘出
+    differential: 鈍的異物
+    common_misconception: 把持して引き抜くだけで安全なわけではない
+  provenance:
+    source_ref: SRC-009
+    source: ESGE異物GL 2016（推奨11）
+    doi: 10.1055/s-0042-100456
+    pmid: '26862844'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/26862844/
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+  uncertainty: なし
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [50] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag E → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-009 を付与（照合方法：identifier(SRC-009:pmid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+- id: ES-072
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: 食道の食物塊嵌頓は、内視鏡で胃内へ静かに押し込む方法が提案されている。食物塊嵌頓の背景には食道の基礎疾患（EoE、狭窄など）があることが多い。
+    condition: 食物塊嵌頓
+    differential: EoE、ペプチック狭窄、食道癌
+    common_misconception: 摘出して終わりにせず、基礎疾患の検索（生検を含む）が必要
+  provenance:
+    source_ref: SRC-009
+    source: ESGE異物GL 2016（推奨8）
+    doi: 10.1055/s-0042-100456
+    pmid: '26862844'
+    pmcid: null
+    url: https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0042-100456
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: 同GL本文（基礎疾患の頻度は75%超）
+  uncertainty: 75%超の数値は同GL本文の記載で、原著は未確認
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [50][51][51] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag E → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-009 を付与（照合方法：identifier(SRC-009:pmid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+- id: ES-073
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: 腐食性物質を飲み込んだときは、嘔吐を誘発しない。胃洗浄もしない（再曝露で食道傷害が増える）。弱酸・弱アルカリによる中和は発熱反応で傷害を悪化させるおそれがあり推奨されない。
+    condition: 酸・アルカリの誤飲・自殺企図
+    differential: 非腐食性の中毒（活性炭の適応を検討）
+    common_misconception: 牛乳や活性炭は後の内視鏡の観察を妨げるため使わない
+  provenance:
+    source_ref: SRC-020
+    source: 'Contini S, Scarpignato C. Caustic injury of the upper GI tract: a comprehensive review. World J Gastroenterol 2013;19(25):3918'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.wjgnet.com/1007-9327/full/v19/i25/3918.htm
+    source_license: CC BY-NC
+    legal_basis: B
+    source_class: RESTRICTED
+  uncertainty: DOIとPMIDは未照合
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [52][52] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-020 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+- id: ES-074
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: 腐食性食道傷害の重症度はZargar分類で評価する。0（正常）、1（浮腫・発赤）、2a（表在性潰瘍・びらん・滲出物）、2b（2aに加え深い限局性または全周性の潰瘍）、3a（限局性壊死）、3b（広範な壊死）に分ける。
+    condition: 受傷後早期の上部内視鏡
+    differential: CTによる重症度評価
+    common_misconception: grade 4（穿孔）を加えた改変版もある
+  provenance:
+    source_ref: SRC-021
+    source: Cheng HT, et al. Caustic ingestion in adults. BMC Gastroenterol 2008（表1）
+    doi: null
+    pmid: null
+    pmcid: PMC2533005
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2533005/
+    source_license: CC BY（BMC）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: Contini 2013 WJG（表3）
+  uncertainty: Zargar原著（Gastrointest Endosc 1991）は未閲覧
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [52][53][54][52] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-021 を付与（照合方法：identifier(SRC-021:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+- id: ES-075
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: 腐食性食道傷害後の狭窄は、Zargar 2bで約71%、3でほぼ100%と報告されている。重症度が高いほど狭窄のリスクが高い。
+    condition: 腐食性食道傷害の晩期合併症
+    differential: 腐食性傷害後の食道癌（長期の合併症）
+    common_misconception: 急性期を乗り切っても狭窄の経過観察が必要
+  provenance:
+    source_ref: SRC-020
+    source: Contini 2013 WJG
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.wjgnet.com/1007-9327/full/v19/i25/3918.htm
+    source_license: CC BY-NC
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: Chang CM ほか（PMC4137736）：2bと3で70〜100%
+  uncertainty: 報告によって2bは40〜60%とする記載もあり、幅がある
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [52][54][55][56][57] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-020 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+- id: ES-079
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: ヘルペス（HSV）食道炎では、ウイルス性の細胞変化（多核化、核の圧排、すりガラス状の核、Cowdry A型封入体）は潰瘍辺縁の扁平上皮に見られるため、辺縁から生検する。CMV食道炎の変化は潰瘍底の内皮細胞・間質細胞に見られるため、底部から生検する。
+    condition: 免疫不全者の食道潰瘍
+    differential: カンジダ食道炎、薬剤性食道炎
+    common_misconception: 潰瘍の同じ部位を生検すれば両方が診断できるわけではない
+  provenance:
+    source_ref: SRC-023
+    source: 'Esophageal CMV and HSV co-infection: case report and review. IDCases 2020'
+    doi: null
+    pmid: null
+    pmcid: PMC7519373
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7519373
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: Medicine 2019（DOI 10.1097/MD.0000000000015845）
+  uncertainty: なし（2資料で一致）
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [58][59] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag E → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-023 を付与（照合方法：identifier(SRC-023:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+- id: ES-080
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: 内視鏡所見では、HSV食道炎は孤立性の潰瘍、小水疱、辺縁の隆起した（shouldered）潰瘍が多い。CMV食道炎は深い打ち抜き様の潰瘍、蛇行状の潰瘍、全周性の分布が多い。
+    condition: ウイルス性食道炎
+    differential: カンジダ（白苔）
+    common_misconception: 肉眼所見だけで確定せず、病理・免疫染色で確認する
+  provenance:
+    source_ref: SRC-024
+    source: Can endoscopists differentiate CMV esophagitis from HSV esophagitis? Medicine 2019
+    doi: 10.1097/MD.0000000000015845
+    pmid: null
+    pmcid: null
+    url: https://doi.org/10.1097/MD.0000000000015845
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+  uncertainty: 単一の後ろ向き研究
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [60] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag E → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-024 を付与（照合方法：identifier(SRC-024:doi)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+- id: ES-081
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: HSV食道炎の治療薬はアシクロビル、CMV食道炎の治療薬はガンシクロビル（または経口のバルガンシクロビル）である。
+    condition: ウイルス性食道炎
+    differential: アシクロビル耐性HSV（ホスカルネット）
+    common_misconception: アシクロビルはCMVに十分な効果がない
+  provenance:
+    source_ref: SRC-024
+    source: Medicine 2019（確定診断後の治療薬）
+    doi: 10.1097/MD.0000000000015845
+    pmid: null
+    pmcid: null
+    url: https://doi.org/10.1097/MD.0000000000015845
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: IDCases 2020（PMC7519373）
+  uncertainty: 投与期間は未確認
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [58][60][61][62] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag E → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-024 を付与（照合方法：identifier(SRC-024:doi)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+- id: ES-085
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: Boerhaave症候群（特発性食道破裂）が疑われるとき、経口造影剤を併用した造影CTが優先される検査であり、感度は92〜100%と報告されている。CTでは縦隔気腫、縦隔の液体貯留、胸水、縦隔炎の評価もできる。
+    condition: 激しい嘔吐の後の胸痛・縦隔気腫
+    differential: 急性冠症候群、大動脈解離、特発性縦隔気腫
+    common_misconception: 胸部単純X線で異常がなくても否定できない
+  provenance:
+    source_ref: SRC-022
+    source: Boerhaave Syndrome—Narrative Review. Diagnostics 2025;15(19):2463
+    doi: null
+    pmid: null
+    pmcid: PMC12524210
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12524210/
+    source_license: CC BY 4.0（MDPI）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: J Med Case Rep 2026：CTで90%超に縦隔外の空気を検出
+  uncertainty: 感度は総説が引用した値で、原著は未確認
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [63][64][65][66] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-022 を付与（照合方法：identifier(SRC-022:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+- id: ES-086
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: 食道破裂を疑って食道造影を行う場合は、バリウムが縦隔に漏れると重い縦隔炎を起こすため、水溶性造影剤を使う。水溶性造影剤では22〜50%の穿孔を見逃すことがあるため、陰性でも否定はできない。
+    condition: 食道穿孔の疑い
+    differential: 誤嚥の危険がある例
+    common_misconception: 造影が陰性でも穿孔は否定できない
+  provenance:
+    source_ref: SRC-022
+    source: Diagnostics 2025;15(19):2463
+    doi: null
+    pmid: null
+    pmcid: PMC12524210
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12524210/
+    source_license: CC BY 4.0（MDPI）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: PMC13256309（修復後の水溶性造影で偽陰性になった症例）
+  uncertainty: なし
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [64][67][68][68] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-022 を付与（照合方法：identifier(SRC-022:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+- id: ES-087
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: Boerhaave症候群の治療は、穿孔の早期の閉鎖・制御と感染（縦隔・胸腔）のドレナージが原則である。現在は、外科的修復に加え、ステントや内視鏡的陰圧閉鎖療法などの低侵襲治療を組み合わせる。
+    condition: 特発性食道破裂
+    differential: 医原性穿孔
+    common_misconception: 治療の遅れは死亡率を大きく高める
+  provenance:
+    source_ref: SRC-022
+    source: Diagnostics 2025;15(19):2463
+    doi: null
+    pmid: null
+    pmcid: PMC12524210
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12524210/
+    source_license: CC BY 4.0（MDPI）
+    legal_basis: B
+    source_class: OPEN
+  uncertainty: 治療の選択基準と死亡率の数値は未確認
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [66][69][70] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-022 を付与（照合方法：identifier(SRC-022:pmcid)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+- id: ES-089
+  domain: ES
+  subdomain: その他の食道疾患
+  assertion:
+    plain_statement_ja: ヨード（ルゴール）染色では、グリコーゲンを含む正常な扁平上皮が褐色に染まり、扁平上皮癌や異形成は不染帯となる。多発する不染帯（まだら食道）は食道癌の高リスクの指標となる。
+    condition: 食道扁平上皮癌のスクリーニング・範囲診断
+    differential: NBI拡大観察（JES分類）
+    common_misconception: 不染帯がすべて癌というわけではない
+  provenance:
+    source_ref: SRC-006
+    source: 要確認（JGES食道ESD/EMR GL 2020＝B、本文の該当CQを未照合）
+    doi: 10.1111/den.13654
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: Wiley規約（非CC）
+    legal_basis: B
+    source_class: RESTRICTED
+  uncertainty: 該当箇所の照合が未了
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-006 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の新規カード（ES-068 の分割）として ID をそのまま採用
+- id: ES-090
+  domain: ES
+  subdomain: 食道癌
+  assertion:
+    plain_statement_ja: 日本では、ニボルマブの「食道癌における術後補助療法」の効能・効果が2021年11月25日に承認された。
+    condition: 国内の薬事承認
+    differential: 根治切除不能な進行・再発食道癌への適応（2020年2月）
+    common_misconception: 術前化学療法（DCF）後の症例への有効性は、CheckMate 577では直接検証されていない
+  provenance:
+    source_ref: SRC-016
+    source: 小野薬品工業・BMS 食道癌適正使用委員会 文書（2021-11-26）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.esophagus.jp/files/opdivo_20211201.pdf
+    source_license: 企業資料（非CC）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: BMS・小野薬品プレスリリース 2021-11-25
+  uncertainty: PMDA添付文書の改訂履歴での確認は未実施
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [19][20][21] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag B → legal_basis B／source_class RESTRICTED（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-016 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の ES-R05（raw/01b_esophagus_v2.md）に新規ID ES-090 を付与（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+- id: ES-091
+  domain: ES
+  subdomain: 好酸球性食道炎（EoE）
+  assertion:
+    plain_statement_ja: 日本では、局所ステロイド（嚥下するブデソニドやフルチカゾン）を含め、EoEを効能とする保険適用薬は2024年時点で存在しない。
+    condition: 国内の保険診療
+    differential: PPI（EoEの初期治療として用いられる）
+    common_misconception: 吸入ステロイドの嚥下による使用は適応外使用である
+  provenance:
+    source_ref: null
+    source: 慶應義塾大学病院 KOMPAS 好酸球性消化管疾患（2024年5月）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://kompas.hosp.keio.ac.jp/presentation/202405/
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: 厚労科研 好酸球性消化管疾患 総括研究報告書（2019）
+  uncertainty: 2026年時点の状況は要確認
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [8][8] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag E → legal_basis B／source_class UNKNOWN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の ES-R09（raw/01b_esophagus_v2.md）に新規ID ES-091 を付与（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+- id: ES-092
+  domain: ES
+  subdomain: 食道癌
+  assertion:
+    plain_statement_ja: ALDH2の低活性ヘテロ型の人が飲酒すると、食道扁平上皮癌のリスクが大きく上がる。日本と台湾の症例対照研究では、飲酒量で調整したオッズ比は3.7〜18.1だった。日本人男性で中等量以上飲酒するヘテロ型の人がすべて少量飲酒にとどまれば、食道扁平上皮癌の53%を予防できる可能性があると試算されている。
+    condition: 東アジア人の飲酒者
+    differential: ALDH2*2ホモ型（飲酒量が少なく、リスクはむしろ低い）
+    common_misconception: フラッシング（顔面紅潮）がある人ほど安全なわけではない。ヘテロ型の目印になる
+  provenance:
+    source_ref: SRC-012
+    source: Brooks PJ, et al. The alcohol flushing response. PLoS Med 2009;6(3):e1000050
+    doi: 10.1371/journal.pmed.1000050
+    pmid: null
+    pmcid: null
+    url: https://journals.plos.org/plosmedicine/article?id=10.1371%2Fjournal.pmed.1000050
+    source_license: CC BY（PLoS）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: Lewis SJ, CEBP 2005（PMID 16103445）：ヘテロ型OR 3.19、*2/*2型OR 0.36（95%CI 0.16–0.80）
+  uncertainty: 53%は試算値（仮定に基づく推計）
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [32][33][34][35] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag A → legal_basis B／source_class OPEN（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-012 を付与（照合方法：identifier(SRC-012:doi)）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の ES-R15（raw/01b_esophagus_v2.md）に新規ID ES-092 を付与（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
+- id: ES-093
+  domain: ES
+  subdomain: GERD・NERD・Barrett食道
+  assertion:
+    plain_statement_ja: 薬物抵抗性GERDに対するARMSとESD-Gは、2022年4月の診療報酬改定で「内視鏡的逆流防止粘膜切除術」（K653-6、12,000点）として保険収載された。
+    condition: 国内の保険診療
+    differential: 腹腔鏡下噴門形成術（Nissen法・Toupet法）、ARMA（APC焼灼）
+    common_misconception: ARMAが同じ点数で収載されているかは別途確認が必要
+  provenance:
+    source_ref: SRC-015
+    source: 診療報酬点数表 K653-6（令和4年新設）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.jstage.jst.go.jp/article/gee/65/6/65_1085/_html/-char/ja
+    source_license: 告示は政府標準利用規約。照合したJ-STAGE論文は非CC
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: 外保連ニュース（2022年3月）、JGES附置研究会抄録（2024年）
+  uncertainty: 告示の原本は未閲覧（二次資料3件で一致）
+  curriculum:
+    core_curriculum: 要確認
+    kokushi: 要確認
+  publication_info:
+    created: '2026-10-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-12'
+    by: claude-code
+    change: 取り込み：raw/01b_esophagus_v2.md から
+  - date: '2026-10-12'
+    by: claude-code
+    change: 原本の文字列外の脚注マーカー [42][43][44][45][46][47] を除去（YAMLとして読めないため。文字列の値は不変）
+  - date: '2026-10-12'
+    by: claude-code
+    change: basis_tag C → legal_basis B／source_class GOV_JP（CLAUDE.md 2-3 第1回規則）
+  - date: '2026-10-12'
+    by: claude-code
+    change: source_ref=SRC-015 を付与（照合方法：keyword）
+  - date: '2026-10-12'
+    by: claude-code
+    change: status verified_sources → draft（原本の値は claude.ai 調査ラウンドの判定で、本リポジトリのAPI照合が未実施のため。Phase 3 で再判定。人間が 2026-10-12 に承認）
+  - date: '2026-10-12'
+    by: claude-code
+    change: 統合：v2 の ES-R19（raw/01b_esophagus_v2.md）に新規ID ES-093 を付与（proposals/es_merge_map.csv、claude-code（人間が2026-10-12にチャットで委任））
