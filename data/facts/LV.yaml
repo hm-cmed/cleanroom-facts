@@ -12,13 +12,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)'
@@ -33,6 +39,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-002
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -46,13 +58,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)；TBL-02-07-032 (id: JlAKplM)'
@@ -67,6 +85,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-003
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -80,13 +104,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)'
@@ -101,6 +131,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-004
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -114,13 +150,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)；TBL-02-07-032 (id: JlAKplM)'
@@ -135,6 +177,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-005
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -148,13 +196,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)'
@@ -169,6 +223,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-006
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -182,13 +242,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)；TBL-02-07-024 (id: JlAKpko)'
@@ -203,6 +269,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-007
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -216,13 +288,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)'
@@ -237,6 +315,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-008
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -251,13 +335,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)'
@@ -272,6 +362,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-009
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -285,13 +381,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)；TBL-02-07-024 (id: JlAKpko)'
@@ -306,6 +408,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-010
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -319,13 +427,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)；TBL-02-07-024 (id: JlAKpko)'
@@ -340,6 +454,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-011
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -354,13 +474,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)'
@@ -375,6 +501,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-012
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -388,13 +520,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)'
@@ -409,6 +547,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-013
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -423,13 +567,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)'
@@ -444,6 +594,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-014
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -457,13 +613,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 死亡リスクの倍率はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)'
@@ -478,6 +640,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-015
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -491,13 +659,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-297 (id: Jlvnl6s)'
@@ -512,6 +686,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-016
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -525,13 +705,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-297 (id: Jlvnl6s)'
@@ -546,6 +732,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-017
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -559,13 +751,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-297 (id: Jlvnl6s)'
@@ -580,6 +778,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-018
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -594,13 +798,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 第3相試験では門脈血栓症を含む有害事象が報告されている
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)'
@@ -615,6 +825,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-019
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -628,13 +844,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 頻度はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-296 (id: Jlvnl6k)；TBL-01-00-295 (id: Juyv1iM)'
@@ -649,6 +871,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-020
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -662,13 +890,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)'
@@ -683,6 +917,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-021
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -696,13 +936,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 発生率はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)；TBL-01-00-284 (id: Jlvnl6A)'
@@ -717,6 +963,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-022
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -730,13 +982,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 肝性脳症悪化の報告はGLが引用した研究（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)；TBL-01-00-297 (id: Jlvnl6s)'
@@ -751,6 +1009,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: LV-023
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -765,13 +1029,19 @@
     source_ref: SRC-065
     source: Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963
     doi: 10.1007/s00535-021-01796-x
-    pmid: null
+    pmid: '34533632'
     pmcid: PMC8531062
     url: https://link.springer.com/article/10.1007/s00535-021-01796-x
     source_license: CC BY 4.0（記事ページの表示）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 推定値はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)'
@@ -786,6 +1056,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
 - id: LV-024
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -799,13 +1072,19 @@
     source_ref: SRC-065
     source: Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963
     doi: 10.1007/s00535-021-01796-x
-    pmid: null
+    pmid: '34533632'
     pmcid: PMC8531062
     url: https://link.springer.com/article/10.1007/s00535-021-01796-x
     source_license: CC BY 4.0（記事ページの表示）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)'
@@ -820,6 +1099,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
 - id: LV-025
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -833,13 +1115,19 @@
     source_ref: SRC-065
     source: Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963
     doi: 10.1007/s00535-021-01796-x
-    pmid: null
+    pmid: '34533632'
     pmcid: PMC8531062
     url: https://link.springer.com/article/10.1007/s00535-021-01796-x
     source_license: CC BY 4.0（記事ページの表示）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)'
@@ -854,6 +1142,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
 - id: LV-026
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -867,13 +1158,19 @@
     source_ref: SRC-065
     source: Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963
     doi: 10.1007/s00535-021-01796-x
-    pmid: null
+    pmid: '34533632'
     pmcid: PMC8531062
     url: https://link.springer.com/article/10.1007/s00535-021-01796-x
     source_license: CC BY 4.0（記事ページの表示）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 同GLの二次の流れ図では高度線維化の目安を2.67以上としており、閾値が流れ図によって異なる
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)'
@@ -888,6 +1185,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
 - id: LV-027
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -901,13 +1201,19 @@
     source_ref: SRC-065
     source: Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963
     doi: 10.1007/s00535-021-01796-x
-    pmid: null
+    pmid: '34533632'
     pmcid: PMC8531062
     url: https://link.springer.com/article/10.1007/s00535-021-01796-x
     source_license: CC BY 4.0（記事ページの表示）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: GLが引用した研究の値（二次資料経由）で、原著は未照合
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)'
@@ -922,6 +1228,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
 - id: LV-028
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -935,13 +1244,19 @@
     source_ref: SRC-065
     source: Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963
     doi: 10.1007/s00535-021-01796-x
-    pmid: null
+    pmid: '34533632'
     pmcid: PMC8531062
     url: https://link.springer.com/article/10.1007/s00535-021-01796-x
     source_license: CC BY 4.0（記事ページの表示）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 日本ではいずれもNASHの保険適用はない点を本文で確認する
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)'
@@ -956,6 +1271,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
 - id: LV-029
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -970,13 +1288,19 @@
     source_ref: SRC-065
     source: Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963
     doi: 10.1007/s00535-021-01796-x
-    pmid: null
+    pmid: '34533632'
     pmcid: PMC8531062
     url: https://link.springer.com/article/10.1007/s00535-021-01796-x
     source_license: CC BY 4.0（記事ページの表示）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)'
@@ -991,6 +1315,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
 - id: LV-030
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1004,13 +1331,19 @@
     source_ref: SRC-065
     source: Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963
     doi: 10.1007/s00535-021-01796-x
-    pmid: null
+    pmid: '34533632'
     pmcid: PMC8531062
     url: https://link.springer.com/article/10.1007/s00535-021-01796-x
     source_license: CC BY 4.0（記事ページの表示）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)'
@@ -1025,6 +1358,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
 - id: LV-031
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1038,13 +1374,19 @@
     source_ref: SRC-065
     source: Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963
     doi: 10.1007/s00535-021-01796-x
-    pmid: null
+    pmid: '34533632'
     pmcid: PMC8531062
     url: https://link.springer.com/article/10.1007/s00535-021-01796-x
     source_license: CC BY 4.0（記事ページの表示）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: GLが引用したメタ解析の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-288 (id: Jlvnl7c)；TBL-01-00-298 (id: Jlvnl6w)'
@@ -1059,6 +1401,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
 - id: LV-032
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1072,13 +1417,19 @@
     source_ref: SRC-065
     source: Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963
     doi: 10.1007/s00535-021-01796-x
-    pmid: null
+    pmid: '34533632'
     pmcid: PMC8531062
     url: https://link.springer.com/article/10.1007/s00535-021-01796-x
     source_license: CC BY 4.0（記事ページの表示）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-288 (id: Jlvnl7c)；TBL-01-00-298 (id: Jlvnl6w)；TBL-02-07-029 (id: JlAKplA)'
@@ -1093,6 +1444,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
 - id: LV-033
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1106,13 +1460,19 @@
     source_ref: SRC-065
     source: Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963
     doi: 10.1007/s00535-021-01796-x
-    pmid: null
+    pmid: '34533632'
     pmcid: PMC8531062
     url: https://link.springer.com/article/10.1007/s00535-021-01796-x
     source_license: CC BY 4.0（記事ページの表示）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)'
@@ -1127,6 +1487,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
 - id: LV-034
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1140,13 +1503,19 @@
     source_ref: SRC-065
     source: Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963
     doi: 10.1007/s00535-021-01796-x
-    pmid: null
+    pmid: '34533632'
     pmcid: PMC8531062
     url: https://link.springer.com/article/10.1007/s00535-021-01796-x
     source_license: CC BY 4.0（記事ページの表示）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: GLが引用した研究の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)'
@@ -1161,6 +1530,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
 - id: LV-035
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1174,13 +1546,19 @@
     source_ref: SRC-066
     source: Rinella ME, et al. A multisociety Delphi consensus statement on new fatty liver disease nomenclature. J Hepatol 2023;79:1542-1556
     doi: 10.1016/j.jhep.2023.06.003
-    pmid: null
+    pmid: '37364790'
     pmcid: null
     url: https://research.birmingham.ac.uk/files/213541943/1-s2.0-S016882782300418X-main.pdf
     source_license: CC BY-NC-ND 4.0（論文PDFの表示）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://creativecommons.org/licenses/by-nc-nd/4.0/
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)'
@@ -1195,6 +1573,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 37364790 に設定（DOI 10.1016/j.jhep.2023.06.003 から API で一意に確定）
 - id: LV-036
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1208,13 +1589,19 @@
     source_ref: SRC-066
     source: Rinella ME, et al. A multisociety Delphi consensus statement on new fatty liver disease nomenclature. J Hepatol 2023;79:1542-1556
     doi: 10.1016/j.jhep.2023.06.003
-    pmid: null
+    pmid: '37364790'
     pmcid: null
     url: https://research.birmingham.ac.uk/files/213541943/1-s2.0-S016882782300418X-main.pdf
     source_license: CC BY-NC-ND 4.0（論文PDFの表示）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://creativecommons.org/licenses/by-nc-nd/4.0/
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)'
@@ -1229,6 +1616,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 37364790 に設定（DOI 10.1016/j.jhep.2023.06.003 から API で一意に確定）
 - id: LV-037
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1242,13 +1632,19 @@
     source_ref: SRC-066
     source: Rinella ME, et al. A multisociety Delphi consensus statement on new fatty liver disease nomenclature. J Hepatol 2023;79:1542-1556
     doi: 10.1016/j.jhep.2023.06.003
-    pmid: null
+    pmid: '37364790'
     pmcid: null
     url: https://research.birmingham.ac.uk/files/213541943/1-s2.0-S016882782300418X-main.pdf
     source_license: CC BY-NC-ND 4.0（論文PDFの表示）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://creativecommons.org/licenses/by-nc-nd/4.0/
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)'
@@ -1263,6 +1659,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 37364790 に設定（DOI 10.1016/j.jhep.2023.06.003 から API で一意に確定）
 - id: LV-038
   domain: LV
   subdomain: 肝細胞癌
@@ -1284,6 +1683,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)'
@@ -1319,6 +1724,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)；TBL-02-07-028 (id: JlAKpk8)；TBL-02-07-029 (id: JlAKplA)'
@@ -1354,6 +1765,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)；TBL-02-07-028 (id: JlAKpk8)；TBL-02-07-029 (id: JlAKplA)'
@@ -1388,6 +1805,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)；TBL-02-07-029 (id: JlAKplA)'
@@ -1423,6 +1846,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)'
@@ -1458,6 +1887,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)'
@@ -1493,6 +1928,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)；TBL-02-07-034 (id: JlAKplU)'
@@ -1528,6 +1969,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)'
@@ -1562,6 +2009,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)；TBL-02-07-034 (id: JlAKplU)'
@@ -1596,6 +2049,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: ガイドラインの改訂状況は確認が必要
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)'
@@ -1630,6 +2089,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)；TBL-02-07-028 (id: JlAKpk8)'
@@ -1665,6 +2130,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)'
@@ -1700,6 +2171,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: ganjoho.jp の利用規約は人間が確認する
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)'
@@ -1735,6 +2212,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: ganjoho.jp の利用規約は人間が確認する
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)'
@@ -1769,6 +2252,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-282 (id: Jlvnl50)；TBL-01-00-285 (id: Jlvnl6Q)'
@@ -1803,6 +2292,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-282 (id: Jlvnl50)；TBL-01-00-285 (id: Jlvnl6Q)；TBL-02-07-023 (id: JlAKpks)'
@@ -1838,6 +2333,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-282 (id: Jlvnl50)；TBL-01-00-287 (id: Jlvnl6g)'
@@ -1872,6 +2373,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-285 (id: Jlvnl6Q)'
@@ -1906,6 +2413,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-285 (id: Jlvnl6Q)'
@@ -1940,6 +2453,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-286 (id: Jlvnl6Y)'
@@ -1974,6 +2493,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: 日本の免疫抑制・化学療法時の再活性化対策ガイドラインは今回は未取得
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-02-07-027 (id: JlAKpk4)'
@@ -2008,6 +2533,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-01-00-285 (id: Jlvnl6Q)'
@@ -2042,6 +2573,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-01-00-286 (id: Jlvnl6Y)；TBL-01-00-295 (id: Juyv1iM)'
@@ -2076,6 +2613,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-02-07-027 (id: JlAKpk4)'
@@ -2111,6 +2654,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-01-00-286 (id: Jlvnl6Y)'
@@ -2145,6 +2694,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-285 (id: Jlvnl6Q)'
@@ -2179,6 +2734,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: Q&Aは慢性化しないと記載しているが、免疫抑制状態での慢性化については記載がない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-285 (id: Jlvnl6Q)；TBL-02-07-023 (id: JlAKpks)'
@@ -2214,6 +2775,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-285 (id: Jlvnl6Q)'
@@ -2248,6 +2815,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: 出典の最終更新は2012年。日本人の頻度は未確認
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)'
@@ -2282,6 +2855,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)'
@@ -2310,13 +2889,19 @@
     source_ref: SRC-074
     source: 'Sugawara K, Nakayama N, Mochida S. Acute liver failure in Japan: definition, classification, and prediction of the outcome. J Gastroenterol 2012;47:849-861'
     doi: 10.1007/s00535-012-0624-x
-    pmid: null
+    pmid: '22825549'
     pmcid: PMC3423565
     url: https://link.springer.com/doi/10.1007/s00535-012-0624-x
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: 診断基準の表そのものは総説の本文で確認できず、本文の記述から再構成した
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-287 (id: Jlvnl6g)'
@@ -2331,6 +2916,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 22825549 に設定（DOI 10.1007/s00535-012-0624-x から API で一意に確定）
 - id: LV-069
   domain: LV
   subdomain: 急性肝不全
@@ -2345,13 +2933,19 @@
     source_ref: SRC-074
     source: 'Sugawara K, Nakayama N, Mochida S. Acute liver failure in Japan: definition, classification, and prediction of the outcome. J Gastroenterol 2012;47:849-861'
     doi: 10.1007/s00535-012-0624-x
-    pmid: null
+    pmid: '22825549'
     pmcid: PMC3423565
     url: https://link.springer.com/doi/10.1007/s00535-012-0624-x
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: 急性型・亜急性型を分ける日数（10日）は従来の劇症肝炎の基準として記載されており、2011年基準での日数は総説本文で確認できなかった
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-287 (id: Jlvnl6g)；TBL-01-00-297 (id: Jlvnl6s)'
@@ -2366,6 +2960,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 22825549 に設定（DOI 10.1007/s00535-012-0624-x から API で一意に確定）
 - id: LV-070
   domain: LV
   subdomain: 急性肝不全
@@ -2380,13 +2977,19 @@
     source_ref: SRC-074
     source: 'Sugawara K, Nakayama N, Mochida S. Acute liver failure in Japan: definition, classification, and prediction of the outcome. J Gastroenterol 2012;47:849-861'
     doi: 10.1007/s00535-012-0624-x
-    pmid: null
+    pmid: '22825549'
     pmcid: PMC3423565
     url: https://link.springer.com/doi/10.1007/s00535-012-0624-x
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: 総説が引用した全国調査の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-287 (id: Jlvnl6g)；TBL-01-00-283 (id: Jlvnl54)'
@@ -2401,6 +3004,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 22825549 に設定（DOI 10.1007/s00535-012-0624-x から API で一意に確定）
 - id: LV-071
   domain: LV
   subdomain: 急性肝不全
@@ -2415,13 +3021,19 @@
     source_ref: SRC-074
     source: 'Sugawara K, Nakayama N, Mochida S. Acute liver failure in Japan: definition, classification, and prediction of the outcome. J Gastroenterol 2012;47:849-861'
     doi: 10.1007/s00535-012-0624-x
-    pmid: null
+    pmid: '22825549'
     pmcid: PMC3423565
     url: https://link.springer.com/doi/10.1007/s00535-012-0624-x
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: 総説が引用した全国調査の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-287 (id: Jlvnl6g)'
@@ -2436,6 +3048,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 22825549 に設定（DOI 10.1007/s00535-012-0624-x から API で一意に確定）
 - id: LV-072
   domain: LV
   subdomain: 寄生虫性肝疾患
@@ -2456,6 +3071,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2490,6 +3111,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: 出典は2014年の事務連絡。最新の届出数は感染症発生動向調査で確認が必要
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2525,6 +3152,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: 旧称は原発性胆汁性肝硬変
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-292 (id: Jlvnl7I)'
@@ -2559,6 +3192,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-292 (id: Jlvnl7I)；TBL-02-07-023 (id: JlAKpks)'
@@ -2594,6 +3233,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-292 (id: Jlvnl7I)'
@@ -2628,6 +3273,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: ベザフィブラートの保険適用は確認が必要
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-292 (id: Jlvnl7I)'
@@ -2662,6 +3313,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: 生存率は出典が引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-292 (id: Jlvnl7I)；TBL-02-07-023 (id: JlAKpks)'
@@ -2697,6 +3354,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-294 (id: Jlvnl7Y)'
@@ -2732,6 +3395,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-294 (id: Jlvnl7Y)'
@@ -2766,6 +3435,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-294 (id: Jlvnl7Y)；TBL-02-07-023 (id: JlAKpks)'
@@ -2800,6 +3475,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-294 (id: Jlvnl7Y)'
@@ -2834,6 +3515,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-294 (id: Jlvnl7Y)；TBL-01-00-287 (id: Jlvnl6g)'
@@ -2868,6 +3555,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2903,6 +3596,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: 各項目の1点の区分（セルロプラスミン10〜20 mg/dL未満など）も出典にある
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2937,6 +3636,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2972,6 +3677,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: 日本人での頻度は今回は未確認
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -3006,6 +3717,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -3041,6 +3758,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: 日本の肝部下大静脈膜様閉塞の割合（85%）は出典が引用した報告の値（二次資料経由）のため主張文に入れていない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-296 (id: Jlvnl6k)'
@@ -3075,6 +3798,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-296 (id: Jlvnl6k)；TBL-02-07-034 (id: JlAKplU)'
@@ -3110,6 +3839,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: 出典には男女比「約7:3」とあるが、どちらが7かが本文の記載から読み取りにくいため主張文に入れていない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-296 (id: Jlvnl6k)'
@@ -3144,6 +3879,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-296 (id: Jlvnl6k)'
@@ -3178,6 +3919,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: 抱合型ビリルビン優位であることは出典本文に明記されていない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)'
@@ -3212,6 +3959,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)'
@@ -3239,13 +3992,19 @@
     source_ref: SRC-084
     source: Tajiri K, Shimizu Y. Practical guidelines for diagnosis and early management of drug-induced liver injury. World J Gastroenterol 2008;14:6774-6785
     doi: 10.3748/wjg.14.6774
-    pmid: null
-    pmcid: null
+    pmid: '19058303'
+    pmcid: PMC2773872
     url: https://wjgnet.com/1007-9327/full/v14/i44/6774.htm
     source_license: CC BY-NC 4.0（記事ページの表示）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-290 (id: Jlvnl68)'
@@ -3260,6 +4019,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 19058303 に設定（DOI 10.3748/wjg.14.6774 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC2773872 に設定（DOI 10.3748/wjg.14.6774 から API で一意に確定）
 - id: LV-096
   domain: LV
   subdomain: 薬物性肝障害
@@ -3273,13 +4038,19 @@
     source_ref: SRC-084
     source: Tajiri K, Shimizu Y. Practical guidelines for diagnosis and early management of drug-induced liver injury. World J Gastroenterol 2008;14:6774-6785
     doi: 10.3748/wjg.14.6774
-    pmid: null
-    pmcid: null
+    pmid: '19058303'
+    pmcid: PMC2773872
     url: https://wjgnet.com/1007-9327/full/v14/i44/6774.htm
     source_license: CC BY-NC 4.0（記事ページの表示）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: 感度は総説が引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-290 (id: Jlvnl68)'
@@ -3294,6 +4065,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 19058303 に設定（DOI 10.3748/wjg.14.6774 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC2773872 に設定（DOI 10.3748/wjg.14.6774 から API で一意に確定）
 - id: LV-097
   domain: LV
   subdomain: 薬物性肝障害
@@ -3307,13 +4084,19 @@
     source_ref: SRC-084
     source: Tajiri K, Shimizu Y. Practical guidelines for diagnosis and early management of drug-induced liver injury. World J Gastroenterol 2008;14:6774-6785
     doi: 10.3748/wjg.14.6774
-    pmid: null
-    pmcid: null
+    pmid: '19058303'
+    pmcid: PMC2773872
     url: https://wjgnet.com/1007-9327/full/v14/i44/6774.htm
     source_license: CC BY-NC 4.0（記事ページの表示）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: 総説が引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-290 (id: Jlvnl68)'
@@ -3328,6 +4111,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 19058303 に設定（DOI 10.3748/wjg.14.6774 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC2773872 に設定（DOI 10.3748/wjg.14.6774 から API で一意に確定）
 - id: LV-098
   domain: LV
   subdomain: ウイルス性肝炎
@@ -3349,6 +4138,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-286 (id: Jlvnl6Y)'
@@ -3384,6 +4179,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-286 (id: Jlvnl6Y)'
@@ -3419,6 +4220,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-286 (id: Jlvnl6Y)'
@@ -3454,6 +4261,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-02-07-027 (id: JlAKpk4)'
@@ -3489,6 +4302,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-02-07-027 (id: JlAKpk4)'
@@ -3524,6 +4343,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-291 (id: Jlvnl7E)'
@@ -3558,6 +4383,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-291 (id: Jlvnl7E)'

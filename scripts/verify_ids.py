@@ -34,7 +34,7 @@ REPORTS = ROOT / "reports"
 PROPOSALS = ROOT / "proposals"
 TODAY = dt.date.today().isoformat()
 BY = "claude-code"
-APPLY_LICENSE_CLASS = {"ES", "GD", "IN"}  # source_class の判定値を反映する領域（人間の委任：ES 2026-10-12、GD・IN 2026-10-13）
+APPLY_LICENSE_CLASS = {"ES", "GD", "IN", "LV"}  # source_class の判定値を反映する領域（人間の委任：ES 2026-10-12、GD・IN・LV 2026-10-13）
 
 
 def h(change: str) -> dict:
@@ -341,7 +341,7 @@ def write_outputs(ck: Checker, domains: list[str]) -> None:
     L += [f"| {a} | {b} | {c} | {d} | {e} |" for a, b, c, d, e in ck.conflicts] or ["| — | | | | なし |"]
     L += ["\n## 3. source_class の判定差\n", "| ID | 既存 | Crossref の判定 | license URL |", "|---|---|---|---|"]
     L += [f"| {a} | {b} | {c} | {d} |" for a, b, c, d in ck.class_diffs] or ["| — | | | なし |"]
-    L.append("\nES・GD・IN は人間の委任により判定値を反映済み。HP・UG はレポートのみ。\n")
+    L.append("\nES・GD・IN・LV は人間の委任により判定値を反映済み。HP・UG はレポートのみ。\n")
     L += ["## 4. API で補完した識別子\n", "| ID | 項目 | 値 | 経路 |", "|---|---|---|---|"]
     L += [f"| {a} | {b} | {c} | {d} |" for a, b, c, d in ck.filled] or ["| — | | | なし |"]
     L += ["\n## 5. unresolved\n"]
