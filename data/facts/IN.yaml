@@ -12,13 +12,19 @@
     source_ref: SRC-048
     source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
     doi: 10.1007/s00535-021-01784-1
-    pmid: null
-    pmcid: null
+    pmid: '33885977'
+    pmcid: PMC8137635
     url: https://link.springer.com/article/10.1007/s00535-021-01784-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 受給者証所持者数（令和5年度：UC 146,702人、CD 52,108人）との差は、集計の基準と年度の違いによると考えられるが、GL本文に定義の詳細はない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-273 (id: Jlvnl3w)'
@@ -33,6 +39,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33885977 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC8137635 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
 - id: IN-002
   domain: IN
   subdomain: 炎症性腸疾患
@@ -46,13 +61,19 @@
     source_ref: SRC-048
     source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
     doi: 10.1007/s00535-021-01784-1
-    pmid: null
-    pmcid: null
+    pmid: '33885977'
+    pmcid: PMC8137635
     url: https://link.springer.com/article/10.1007/s00535-021-01784-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-273 (id: Jlvnl3w)'
@@ -67,6 +88,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33885977 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC8137635 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
 - id: IN-003
   domain: IN
   subdomain: 炎症性腸疾患
@@ -79,13 +109,19 @@
     source_ref: SRC-048
     source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
     doi: 10.1007/s00535-021-01784-1
-    pmid: null
-    pmcid: null
+    pmid: '33885977'
+    pmcid: PMC8137635
     url: https://link.springer.com/article/10.1007/s00535-021-01784-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-02-07-030 (id: JlAKplE)'
@@ -100,6 +136,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33885977 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC8137635 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
 - id: IN-004
   domain: IN
   subdomain: 炎症性腸疾患
@@ -113,13 +158,19 @@
     source_ref: SRC-048
     source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
     doi: 10.1007/s00535-021-01784-1
-    pmid: null
-    pmcid: null
+    pmid: '33885977'
+    pmcid: PMC8137635
     url: https://link.springer.com/article/10.1007/s00535-021-01784-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 部分Mayoスコアは内視鏡所見を除いた3項目（排便回数、直腸出血、医師の全般評価）で構成されるが、構成項目はGL本文の該当箇所では確認していない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)'
@@ -134,6 +185,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33885977 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC8137635 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
 - id: IN-005
   domain: IN
   subdomain: 炎症性腸疾患
@@ -146,13 +206,19 @@
     source_ref: SRC-048
     source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
     doi: 10.1007/s00535-021-01784-1
-    pmid: null
-    pmcid: null
+    pmid: '33885977'
+    pmcid: PMC8137635
     url: https://link.springer.com/article/10.1007/s00535-021-01784-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)'
@@ -167,6 +233,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33885977 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC8137635 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
 - id: IN-006
   domain: IN
   subdomain: 炎症性腸疾患
@@ -180,13 +255,19 @@
     source_ref: SRC-048
     source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
     doi: 10.1007/s00535-021-01784-1
-    pmid: null
-    pmcid: null
+    pmid: '33885977'
+    pmcid: PMC8137635
     url: https://link.springer.com/article/10.1007/s00535-021-01784-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-273 (id: Jlvnl3w)'
@@ -201,6 +282,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33885977 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC8137635 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
 - id: IN-007
   domain: IN
   subdomain: 炎症性腸疾患
@@ -214,13 +304,19 @@
     source_ref: SRC-048
     source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
     doi: 10.1007/s00535-021-01784-1
-    pmid: null
-    pmcid: null
+    pmid: '33885977'
+    pmcid: PMC8137635
     url: https://link.springer.com/article/10.1007/s00535-021-01784-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 製剤によって高用量の上乗せ効果の報告は一致していない（GL本文の解説）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)'
@@ -235,6 +331,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33885977 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC8137635 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
 - id: IN-008
   domain: IN
   subdomain: 炎症性腸疾患
@@ -248,13 +353,19 @@
     source_ref: SRC-048
     source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
     doi: 10.1007/s00535-021-01784-1
-    pmid: null
-    pmcid: null
+    pmid: '33885977'
+    pmcid: PMC8137635
     url: https://link.springer.com/article/10.1007/s00535-021-01784-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-650 (id: Jlvnmc0)'
@@ -269,6 +380,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33885977 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC8137635 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
 - id: IN-009
   domain: IN
   subdomain: 炎症性腸疾患
@@ -282,13 +402,19 @@
     source_ref: SRC-048
     source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
     doi: 10.1007/s00535-021-01784-1
-    pmid: null
-    pmcid: null
+    pmid: '33885977'
+    pmcid: PMC8137635
     url: https://link.springer.com/article/10.1007/s00535-021-01784-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 診断率と滞留率はGLが引用した値（二次資料経由）で、原著は未照合
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)；TBL-02-07-030 (id: JlAKplE)'
@@ -303,6 +429,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33885977 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC8137635 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
 - id: IN-010
   domain: IN
   subdomain: 炎症性腸疾患
@@ -316,13 +451,19 @@
     source_ref: SRC-048
     source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
     doi: 10.1007/s00535-021-01784-1
-    pmid: null
-    pmcid: null
+    pmid: '33885977'
+    pmcid: PMC8137635
     url: https://link.springer.com/article/10.1007/s00535-021-01784-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)；TBL-02-07-029 (id: JlAKplA)'
@@ -337,6 +478,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33885977 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC8137635 に設定（DOI 10.1007/s00535-021-01784-1 から API で一意に確定）
 - id: IN-011
   domain: IN
   subdomain: 炎症性腸疾患
@@ -358,6 +508,12 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: '出典の利用規約が未確認（source_class: UNKNOWN）'
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)'
@@ -391,6 +547,12 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-030 (id: JlAKplE)'
@@ -424,6 +586,12 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)'
@@ -459,6 +627,12 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: '出典の利用規約が未確認（source_class: UNKNOWN）'
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)'
@@ -492,6 +666,12 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)'
@@ -526,6 +706,12 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)；TBL-02-07-032 (id: JlAKplM)'
@@ -553,13 +739,19 @@
     source_ref: SRC-049
     source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
     doi: 10.1007/s00535-020-01746-z
-    pmid: null
-    pmcid: null
+    pmid: '33538894'
+    pmcid: PMC7932982
     url: https://link.springer.com/article/10.1007/s00535-020-01746-z
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: GLが引用した国際調査の値（二次資料経由）で、原著は未照合
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
@@ -574,6 +766,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33538894 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC7932982 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
 - id: IN-018
   domain: IN
   subdomain: 過敏性腸症候群
@@ -586,13 +787,19 @@
     source_ref: SRC-049
     source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
     doi: 10.1007/s00535-020-01746-z
-    pmid: null
-    pmcid: null
+    pmid: '33538894'
+    pmcid: PMC7932982
     url: https://link.springer.com/article/10.1007/s00535-020-01746-z
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 数値はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
@@ -607,6 +814,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33538894 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC7932982 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
 - id: IN-019
   domain: IN
   subdomain: 過敏性腸症候群
@@ -619,13 +835,19 @@
     source_ref: SRC-049
     source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
     doi: 10.1007/s00535-020-01746-z
-    pmid: null
-    pmcid: null
+    pmid: '33538894'
+    pmcid: PMC7932982
     url: https://link.springer.com/article/10.1007/s00535-020-01746-z
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 数値はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-270 (id: Jlvnl4s)'
@@ -640,6 +862,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33538894 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC7932982 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
 - id: IN-020
   domain: IN
   subdomain: 過敏性腸症候群
@@ -652,13 +883,19 @@
     source_ref: SRC-049
     source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
     doi: 10.1007/s00535-020-01746-z
-    pmid: null
-    pmcid: null
+    pmid: '33538894'
+    pmcid: PMC7932982
     url: https://link.springer.com/article/10.1007/s00535-020-01746-z
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 追跡研究の数値はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-021 (id: JlAKpkY)；TBL-02-07-022 (id: JlAKpkc)'
@@ -673,6 +910,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33538894 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC7932982 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
 - id: IN-021
   domain: IN
   subdomain: 過敏性腸症候群
@@ -686,13 +932,19 @@
     source_ref: SRC-049
     source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
     doi: 10.1007/s00535-020-01746-z
-    pmid: null
-    pmcid: null
+    pmid: '33538894'
+    pmcid: PMC7932982
     url: https://link.springer.com/article/10.1007/s00535-020-01746-z
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: GL解説が引用する器質的病変の頻度（30.3%）は、対象と定義を原著で確認していないため主張文に入れていない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-030 (id: JlAKplE)'
@@ -707,6 +959,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33538894 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC7932982 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
 - id: IN-022
   domain: IN
   subdomain: 過敏性腸症候群
@@ -720,13 +981,19 @@
     source_ref: SRC-049
     source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
     doi: 10.1007/s00535-020-01746-z
-    pmid: null
-    pmcid: null
+    pmid: '33538894'
+    pmcid: PMC7932982
     url: https://link.springer.com/article/10.1007/s00535-020-01746-z
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 頻度はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
@@ -741,6 +1008,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33538894 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC7932982 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
 - id: IN-023
   domain: IN
   subdomain: 過敏性腸症候群
@@ -755,13 +1031,19 @@
     source_ref: SRC-049
     source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
     doi: 10.1007/s00535-020-01746-z
-    pmid: null
-    pmcid: null
+    pmid: '33538894'
+    pmcid: PMC7932982
     url: https://link.springer.com/article/10.1007/s00535-020-01746-z
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
@@ -776,6 +1058,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33538894 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC7932982 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
 - id: IN-024
   domain: IN
   subdomain: 過敏性腸症候群
@@ -789,13 +1080,19 @@
     source_ref: SRC-049
     source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
     doi: 10.1007/s00535-020-01746-z
-    pmid: null
-    pmcid: null
+    pmid: '33538894'
+    pmcid: PMC7932982
     url: https://link.springer.com/article/10.1007/s00535-020-01746-z
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
@@ -810,6 +1107,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33538894 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC7932982 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
 - id: IN-025
   domain: IN
   subdomain: 過敏性腸症候群
@@ -823,13 +1129,19 @@
     source_ref: SRC-049
     source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
     doi: 10.1007/s00535-020-01746-z
-    pmid: null
-    pmcid: null
+    pmid: '33538894'
+    pmcid: PMC7932982
     url: https://link.springer.com/article/10.1007/s00535-020-01746-z
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 水溶性と不溶性の区別についての記載は、GL本文で一文ずつは照合していない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
@@ -844,6 +1156,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33538894 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC7932982 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
 - id: IN-026
   domain: IN
   subdomain: 過敏性腸症候群
@@ -857,13 +1178,19 @@
     source_ref: SRC-049
     source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
     doi: 10.1007/s00535-020-01746-z
-    pmid: null
-    pmcid: null
+    pmid: '33538894'
+    pmcid: PMC7932982
     url: https://link.springer.com/article/10.1007/s00535-020-01746-z
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
@@ -878,6 +1205,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33538894 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC7932982 に設定（DOI 10.1007/s00535-020-01746-z から API で一意に確定）
 - id: IN-027
   domain: IN
   subdomain: 慢性便秘症
@@ -893,12 +1229,18 @@
     source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
     doi: 10.1159/000540912
     pmid: '39159626'
-    pmcid: null
+    pmcid: PMC11825134
     url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
     source_license: CC BY-NC（記事ページの許諾リンクの表示による）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc/4.0/
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)'
@@ -913,6 +1255,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC11825134 に設定（DOI 10.1159/000540912 から API で一意に確定）
 - id: IN-028
   domain: IN
   subdomain: 慢性便秘症
@@ -927,12 +1272,18 @@
     source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
     doi: 10.1159/000540912
     pmid: '39159626'
-    pmcid: null
+    pmcid: PMC11825134
     url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
     source_license: CC BY-NC（記事ページの許諾リンクの表示による）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc/4.0/
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)'
@@ -947,6 +1298,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC11825134 に設定（DOI 10.1159/000540912 から API で一意に確定）
 - id: IN-029
   domain: IN
   subdomain: 慢性便秘症
@@ -961,12 +1315,18 @@
     source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
     doi: 10.1159/000540912
     pmid: '39159626'
-    pmcid: null
+    pmcid: PMC11825134
     url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
     source_license: CC BY-NC（記事ページの許諾リンクの表示による）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc/4.0/
+      notes: null
   uncertainty: 数値はGLが引用した調査の値（二次資料経由）で、原著は未照合
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
@@ -981,6 +1341,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC11825134 に設定（DOI 10.1159/000540912 から API で一意に確定）
 - id: IN-030
   domain: IN
   subdomain: 慢性便秘症
@@ -995,12 +1358,18 @@
     source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
     doi: 10.1159/000540912
     pmid: '39159626'
-    pmcid: null
+    pmcid: PMC11825134
     url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
     source_license: CC BY-NC（記事ページの許諾リンクの表示による）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc/4.0/
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)'
@@ -1015,6 +1384,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC11825134 に設定（DOI 10.1159/000540912 から API で一意に確定）
 - id: IN-031
   domain: IN
   subdomain: 慢性便秘症
@@ -1029,12 +1401,18 @@
     source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
     doi: 10.1159/000540912
     pmid: '39159626'
-    pmcid: null
+    pmcid: PMC11825134
     url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
     source_license: CC BY-NC（記事ページの許諾リンクの表示による）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc/4.0/
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)'
@@ -1049,6 +1427,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC11825134 に設定（DOI 10.1159/000540912 から API で一意に確定）
 - id: IN-032
   domain: IN
   subdomain: 慢性便秘症
@@ -1063,12 +1444,18 @@
     source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
     doi: 10.1159/000540912
     pmid: '39159626'
-    pmcid: null
+    pmcid: PMC11825134
     url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
     source_license: CC BY-NC（記事ページの許諾リンクの表示による）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc/4.0/
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)'
@@ -1083,6 +1470,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC11825134 に設定（DOI 10.1159/000540912 から API で一意に確定）
 - id: IN-033
   domain: IN
   subdomain: 慢性便秘症
@@ -1097,12 +1487,18 @@
     source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
     doi: 10.1159/000540912
     pmid: '39159626'
-    pmcid: null
+    pmcid: PMC11825134
     url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
     source_license: CC BY-NC（記事ページの許諾リンクの表示による）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc/4.0/
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
@@ -1117,6 +1513,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC11825134 に設定（DOI 10.1159/000540912 から API で一意に確定）
 - id: IN-034
   domain: IN
   subdomain: 慢性便秘症
@@ -1132,12 +1531,18 @@
     source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
     doi: 10.1159/000540912
     pmid: '39159626'
-    pmcid: null
+    pmcid: PMC11825134
     url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
     source_license: CC BY-NC（記事ページの許諾リンクの表示による）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc/4.0/
+      notes: null
   uncertainty: 各薬剤の推奨の強さとエビデンスレベルは今回は取得できていない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
@@ -1152,6 +1557,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC11825134 に設定（DOI 10.1159/000540912 から API で一意に確定）
 - id: IN-035
   domain: IN
   subdomain: 慢性便秘症
@@ -1167,12 +1575,18 @@
     source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
     doi: 10.1159/000540912
     pmid: '39159626'
-    pmcid: null
+    pmcid: PMC11825134
     url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
     source_license: CC BY-NC（記事ページの許諾リンクの表示による）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc/4.0/
+      notes: null
   uncertainty: 承認状況はGL作成時点。最新の添付文書で確認が必要
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
@@ -1187,6 +1601,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC11825134 に設定（DOI 10.1159/000540912 から API で一意に確定）
 - id: IN-036
   domain: IN
   subdomain: 大腸ポリープ
@@ -1200,13 +1617,19 @@
     source_ref: SRC-051
     source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
     doi: 10.1007/s00535-021-01776-1
-    pmid: null
+    pmid: '33710392'
     pmcid: PMC8005396
     url: https://link.springer.com/article/10.1007/s00535-021-01776-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)；TBL-02-07-033 (id: JlAKplQ)'
@@ -1221,6 +1644,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33710392 に設定（DOI 10.1007/s00535-021-01776-1 から API で一意に確定）
 - id: IN-037
   domain: IN
   subdomain: 大腸ポリープ
@@ -1234,13 +1663,19 @@
     source_ref: SRC-051
     source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
     doi: 10.1007/s00535-021-01776-1
-    pmid: null
+    pmid: '33710392'
     pmcid: PMC8005396
     url: https://link.springer.com/article/10.1007/s00535-021-01776-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)；TBL-02-07-033 (id: JlAKplQ)'
@@ -1255,6 +1690,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33710392 に設定（DOI 10.1007/s00535-021-01776-1 から API で一意に確定）
 - id: IN-038
   domain: IN
   subdomain: 大腸ポリープ
@@ -1268,13 +1709,19 @@
     source_ref: SRC-051
     source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
     doi: 10.1007/s00535-021-01776-1
-    pmid: null
+    pmid: '33710392'
     pmcid: PMC8005396
     url: https://link.springer.com/article/10.1007/s00535-021-01776-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)'
@@ -1289,6 +1736,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33710392 に設定（DOI 10.1007/s00535-021-01776-1 から API で一意に確定）
 - id: IN-039
   domain: IN
   subdomain: 大腸ポリープ
@@ -1302,13 +1755,19 @@
     source_ref: SRC-051
     source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
     doi: 10.1007/s00535-021-01776-1
-    pmid: null
+    pmid: '33710392'
     pmcid: PMC8005396
     url: https://link.springer.com/article/10.1007/s00535-021-01776-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: SSA/Pの癌化率（1.5〜20%）はGLが引用した幅の広い値（二次資料経由）のため主張文に入れていない。WHO分類第5版の名称（SSL）との対応も確認が必要
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)'
@@ -1323,6 +1782,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33710392 に設定（DOI 10.1007/s00535-021-01776-1 から API で一意に確定）
 - id: IN-040
   domain: IN
   subdomain: 大腸ポリープ
@@ -1336,13 +1801,19 @@
     source_ref: SRC-051
     source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
     doi: 10.1007/s00535-021-01776-1
-    pmid: null
+    pmid: '33710392'
     pmcid: PMC8005396
     url: https://link.springer.com/article/10.1007/s00535-021-01776-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)；TBL-02-07-033 (id: JlAKplQ)'
@@ -1357,6 +1828,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33710392 に設定（DOI 10.1007/s00535-021-01776-1 から API で一意に確定）
 - id: IN-041
   domain: IN
   subdomain: 大腸ポリープ
@@ -1371,13 +1848,19 @@
     source_ref: SRC-051
     source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
     doi: 10.1007/s00535-021-01776-1
-    pmid: null
+    pmid: '33710392'
     pmcid: PMC8005396
     url: https://link.springer.com/article/10.1007/s00535-021-01776-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)；TBL-02-07-030 (id: JlAKplE)'
@@ -1392,6 +1875,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33710392 に設定（DOI 10.1007/s00535-021-01776-1 から API で一意に確定）
 - id: IN-042
   domain: IN
   subdomain: 大腸ポリープ
@@ -1405,13 +1894,19 @@
     source_ref: SRC-051
     source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
     doi: 10.1007/s00535-021-01776-1
-    pmid: null
+    pmid: '33710392'
     pmcid: PMC8005396
     url: https://link.springer.com/article/10.1007/s00535-021-01776-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 再発率はGLが引用した値（二次資料経由）で、原著は未照合
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-033 (id: JlAKplQ)'
@@ -1426,6 +1921,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33710392 に設定（DOI 10.1007/s00535-021-01776-1 から API で一意に確定）
 - id: IN-043
   domain: IN
   subdomain: 大腸ポリープ
@@ -1439,13 +1940,19 @@
     source_ref: SRC-051
     source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
     doi: 10.1007/s00535-021-01776-1
-    pmid: null
+    pmid: '33710392'
     pmcid: PMC8005396
     url: https://link.springer.com/article/10.1007/s00535-021-01776-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: リンパ節転移率はGLが引用した値（二次資料経由）。GL本文中でG2のKi-67の閾値の記載に不整合がある
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-02-07-030 (id: JlAKplE)'
@@ -1460,6 +1967,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33710392 に設定（DOI 10.1007/s00535-021-01776-1 から API で一意に確定）
 - id: IN-044
   domain: IN
   subdomain: 大腸ポリープ
@@ -1473,13 +1986,19 @@
     source_ref: SRC-051
     source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
     doi: 10.1007/s00535-021-01776-1
-    pmid: null
+    pmid: '33710392'
     pmcid: PMC8005396
     url: https://link.springer.com/article/10.1007/s00535-021-01776-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)'
@@ -1494,6 +2013,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33710392 に設定（DOI 10.1007/s00535-021-01776-1 から API で一意に確定）
 - id: IN-045
   domain: IN
   subdomain: 大腸ポリープ
@@ -1507,13 +2032,19 @@
     source_ref: SRC-051
     source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
     doi: 10.1007/s00535-021-01776-1
-    pmid: null
+    pmid: '33710392'
     pmcid: PMC8005396
     url: https://link.springer.com/article/10.1007/s00535-021-01776-1
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: AFAPに対する予防的大腸切除についての記載は、要約の段階で意味が取りにくかったため主張文に入れていない
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-279 (id: Jlvnl4Q)；TBL-01-00-684 (id: Jlvnmf8)'
@@ -1528,6 +2059,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 33710392 に設定（DOI 10.1007/s00535-021-01776-1 から API で一意に確定）
 - id: IN-046
   domain: IN
   subdomain: 大腸癌
@@ -1542,13 +2079,19 @@
     source_ref: SRC-052
     source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
     doi: 10.1007/s10147-025-02899-8
-    pmid: null
+    pmid: '41186794'
     pmcid: PMC12644182
     url: https://link.springer.com/article/10.1007/s10147-025-02899-8
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-033 (id: JlAKplQ)'
@@ -1563,6 +2106,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41186794 に設定（DOI 10.1007/s10147-025-02899-8 から API で一意に確定）
 - id: IN-047
   domain: IN
   subdomain: 大腸癌
@@ -1576,13 +2125,19 @@
     source_ref: SRC-052
     source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
     doi: 10.1007/s10147-025-02899-8
-    pmid: null
+    pmid: '41186794'
     pmcid: PMC12644182
     url: https://link.springer.com/article/10.1007/s10147-025-02899-8
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-033 (id: JlAKplQ)'
@@ -1597,6 +2152,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41186794 に設定（DOI 10.1007/s10147-025-02899-8 から API で一意に確定）
 - id: IN-048
   domain: IN
   subdomain: 大腸癌
@@ -1610,13 +2171,19 @@
     source_ref: SRC-052
     source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
     doi: 10.1007/s10147-025-02899-8
-    pmid: null
+    pmid: '41186794'
     pmcid: PMC12644182
     url: https://link.springer.com/article/10.1007/s10147-025-02899-8
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
@@ -1631,6 +2198,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41186794 に設定（DOI 10.1007/s10147-025-02899-8 から API で一意に確定）
 - id: IN-049
   domain: IN
   subdomain: 大腸癌
@@ -1645,13 +2218,19 @@
     source_ref: SRC-052
     source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
     doi: 10.1007/s10147-025-02899-8
-    pmid: null
+    pmid: '41186794'
     pmcid: PMC12644182
     url: https://link.springer.com/article/10.1007/s10147-025-02899-8
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
@@ -1666,6 +2245,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41186794 に設定（DOI 10.1007/s10147-025-02899-8 から API で一意に確定）
 - id: IN-050
   domain: IN
   subdomain: 大腸癌
@@ -1679,13 +2264,19 @@
     source_ref: SRC-052
     source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
     doi: 10.1007/s10147-025-02899-8
-    pmid: null
+    pmid: '41186794'
     pmcid: PMC12644182
     url: https://link.springer.com/article/10.1007/s10147-025-02899-8
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
@@ -1700,6 +2291,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41186794 に設定（DOI 10.1007/s10147-025-02899-8 から API で一意に確定）
 - id: IN-051
   domain: IN
   subdomain: 大腸癌
@@ -1714,13 +2311,19 @@
     source_ref: SRC-052
     source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
     doi: 10.1007/s10147-025-02899-8
-    pmid: null
+    pmid: '41186794'
     pmcid: PMC12644182
     url: https://link.springer.com/article/10.1007/s10147-025-02899-8
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 保険適用の範囲は改定で変わりうる
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
@@ -1735,6 +2338,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41186794 に設定（DOI 10.1007/s10147-025-02899-8 から API で一意に確定）
 - id: IN-052
   domain: IN
   subdomain: 大腸癌
@@ -1748,13 +2357,19 @@
     source_ref: SRC-052
     source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
     doi: 10.1007/s10147-025-02899-8
-    pmid: null
+    pmid: '41186794'
     pmcid: PMC12644182
     url: https://link.springer.com/article/10.1007/s10147-025-02899-8
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: GLが引用した値（二次資料経由）で、原著は未照合
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
@@ -1769,6 +2384,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41186794 に設定（DOI 10.1007/s10147-025-02899-8 から API で一意に確定）
 - id: IN-053
   domain: IN
   subdomain: 大腸癌
@@ -1783,13 +2404,19 @@
     source_ref: SRC-052
     source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
     doi: 10.1007/s10147-025-02899-8
-    pmid: null
+    pmid: '41186794'
     pmcid: PMC12644182
     url: https://link.springer.com/article/10.1007/s10147-025-02899-8
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: GLが引用した大腸癌研究会の全国登録の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
@@ -1804,6 +2431,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41186794 に設定（DOI 10.1007/s10147-025-02899-8 から API で一意に確定）
 - id: IN-054
   domain: IN
   subdomain: 大腸癌
@@ -1825,6 +2458,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: ganjoho.jp の利用規約は人間が確認する
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
@@ -1860,6 +2499,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: ganjoho.jp の利用規約は人間が確認する
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
@@ -1895,6 +2540,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-020 (id: JlAKpkk)'
@@ -1929,6 +2580,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-686 (id: JlvnmgI)；TBL-01-00-684 (id: Jlvnmf8)'
@@ -1964,6 +2621,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: 日本での運用（保険適用の範囲など）は別途確認が必要
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-686 (id: JlvnmgI)；TBL-01-00-650 (id: Jlvnmc0)'
@@ -1998,6 +2661,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-684 (id: Jlvnmf8)；TBL-01-00-279 (id: Jlvnl4Q)'
@@ -2025,13 +2694,19 @@
     source_ref: SRC-057
     source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
     doi: 10.1159/000495282
-    pmid: null
+    pmid: '30625484'
     pmcid: null
     url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
     source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc-nd/4.0/
+      notes: null
   uncertainty: 数値はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-262 (id: Jlvnl38)；TBL-01-00-263 (id: Jlvnl4E)'
@@ -2046,6 +2721,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 30625484 に設定（DOI 10.1159/000495282 から API で一意に確定）
 - id: IN-061
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -2059,13 +2737,19 @@
     source_ref: SRC-057
     source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
     doi: 10.1159/000495282
-    pmid: null
+    pmid: '30625484'
     pmcid: null
     url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
     source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc-nd/4.0/
+      notes: null
   uncertainty: 数値はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-262 (id: Jlvnl38)；TBL-01-00-263 (id: Jlvnl4E)'
@@ -2080,6 +2764,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 30625484 に設定（DOI 10.1159/000495282 から API で一意に確定）
 - id: IN-062
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -2093,13 +2780,19 @@
     source_ref: SRC-057
     source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
     doi: 10.1159/000495282
-    pmid: null
+    pmid: '30625484'
     pmcid: null
     url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
     source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc-nd/4.0/
+      notes: null
   uncertainty: 再出血率はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)；TBL-02-07-020 (id: JlAKpkk)'
@@ -2114,6 +2807,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 30625484 に設定（DOI 10.1159/000495282 から API で一意に確定）
 - id: IN-063
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -2128,13 +2824,19 @@
     source_ref: SRC-057
     source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
     doi: 10.1159/000495282
-    pmid: null
+    pmid: '30625484'
     pmcid: null
     url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
     source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc-nd/4.0/
+      notes: null
   uncertainty: 数値はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)'
@@ -2149,6 +2851,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 30625484 に設定（DOI 10.1159/000495282 から API で一意に確定）
 - id: IN-064
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -2162,13 +2867,19 @@
     source_ref: SRC-057
     source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
     doi: 10.1159/000495282
-    pmid: null
+    pmid: '30625484'
     pmcid: null
     url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
     source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc-nd/4.0/
+      notes: null
   uncertainty: CT血管造影の感度・特異度はGLが引用したメタ解析の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)；TBL-02-07-030 (id: JlAKplE)；TBL-02-07-029 (id: JlAKplA)'
@@ -2183,6 +2894,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 30625484 に設定（DOI 10.1159/000495282 から API で一意に確定）
 - id: IN-065
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -2196,13 +2910,19 @@
     source_ref: SRC-057
     source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
     doi: 10.1159/000495282
-    pmid: null
+    pmid: '30625484'
     pmcid: null
     url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
     source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc-nd/4.0/
+      notes: null
   uncertainty: 再出血率はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)；TBL-02-07-033 (id: JlAKplQ)'
@@ -2217,6 +2937,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 30625484 に設定（DOI 10.1159/000495282 から API で一意に確定）
 - id: IN-066
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -2230,13 +2953,19 @@
     source_ref: SRC-057
     source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
     doi: 10.1159/000495282
-    pmid: null
+    pmid: '30625484'
     pmcid: null
     url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
     source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc-nd/4.0/
+      notes: null
   uncertainty: 数値はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)；TBL-02-07-034 (id: JlAKplU)'
@@ -2251,6 +2980,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 30625484 に設定（DOI 10.1159/000495282 から API で一意に確定）
 - id: IN-067
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -2264,13 +2996,19 @@
     source_ref: SRC-057
     source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
     doi: 10.1159/000495282
-    pmid: null
+    pmid: '30625484'
     pmcid: null
     url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
     source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc-nd/4.0/
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)'
@@ -2285,6 +3023,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 30625484 に設定（DOI 10.1159/000495282 から API で一意に確定）
 - id: IN-068
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -2298,13 +3039,19 @@
     source_ref: SRC-057
     source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
     doi: 10.1159/000495282
-    pmid: null
+    pmid: '30625484'
     pmcid: null
     url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
     source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc-nd/4.0/
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-262 (id: Jlvnl38)；TBL-02-07-029 (id: JlAKplA)'
@@ -2319,6 +3066,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 30625484 に設定（DOI 10.1159/000495282 から API で一意に確定）
 - id: IN-069
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -2332,13 +3082,19 @@
     source_ref: SRC-057
     source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
     doi: 10.1159/000495282
-    pmid: null
+    pmid: '30625484'
     pmcid: null
     url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
     source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by-nc-nd/4.0/
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-262 (id: Jlvnl38)'
@@ -2353,6 +3109,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 30625484 に設定（DOI 10.1159/000495282 から API で一意に確定）
 - id: IN-070
   domain: IN
   subdomain: 感染性腸炎
@@ -2372,6 +3131,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-020 (id: JlAKpkk)；TBL-02-07-022 (id: JlAKpkc)'
@@ -2405,6 +3170,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
@@ -2440,6 +3211,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
@@ -2473,6 +3250,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-022 (id: JlAKpkc)'
@@ -2508,6 +3291,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-022 (id: JlAKpkc)'
@@ -2541,6 +3330,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
@@ -2574,6 +3369,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-280 (id: Jlvnl28)；TBL-02-07-022 (id: JlAKpkc)'
@@ -2607,6 +3408,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-280 (id: Jlvnl28)'
@@ -2640,6 +3447,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-280 (id: Jlvnl28)'
@@ -2674,6 +3487,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-280 (id: Jlvnl28)'
@@ -2708,6 +3527,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-022 (id: JlAKpkc)'
@@ -2742,6 +3567,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-022 (id: JlAKpkc)'
@@ -2776,6 +3607,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
@@ -2811,6 +3648,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: 日本のガイドラインでの位置づけは別途確認が必要
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
@@ -2839,13 +3682,19 @@
     source_ref: SRC-062
     source: Johnson S, et al. IDSA/SHEA 2021 Focused Update Guidelines on Management of Clostridioides difficile Infection in Adults. Clin Infect Dis 2021;73:e1029-e1044
     doi: 10.1093/cid/ciab549
-    pmid: null
+    pmid: '34164674'
     pmcid: null
     url: https://www.idsociety.org/practice-guideline/clostridioides-difficile-2021-focused-update/
     source_license: © IDSA, All rights reserved（複製・翻案は事前許諾が必要と明記）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
@@ -2860,6 +3709,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34164674 に設定（DOI 10.1093/cid/ciab549 から API で一意に確定）
 - id: IN-085
   domain: IN
   subdomain: セリアック病
@@ -2881,6 +3733,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: 日本での有病率は欧米より低いとされるが、今回は日本の一次資料を確認していない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-022 (id: JlAKpkc)'
@@ -2915,6 +3773,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2949,6 +3813,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2984,6 +3854,12 @@
     legal_basis: B
     source_class: GOV_US
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: 出典の最終レビューは2016年で古い。日本の有病率は未確認
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-267 (id: Jlvnl30)；TBL-02-07-020 (id: JlAKpkk)'
