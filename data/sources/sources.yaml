@@ -958,3 +958,333 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md の出典マスター表から
+- id: SRC-065
+  legacy_id: null
+  title: Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963
+  citation: Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963
+  doi: 10.1007/s00535-021-01796-x
+  pmid: null
+  pmcid: null
+  license_note: CC BY 4.0（記事ページの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-066
+  legacy_id: null
+  title: Rinella ME, et al. A multisociety Delphi consensus statement on new fatty liver disease nomenclature. J Hepatol 2023;79:1542-1556
+  citation: Rinella ME, et al. A multisociety Delphi consensus statement on new fatty liver disease nomenclature. J Hepatol 2023;79:1542-1556
+  doi: 10.1016/j.jhep.2023.06.003
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（論文PDFの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-067
+  legacy_id: null
+  title: 日本肝臓学会 Clinical Practice Guidelines for Hepatocellular Carcinoma 2021（英語版PDF、第1・2・3分冊）
+  citation: 日本肝臓学会 Clinical Practice Guidelines for Hepatocellular Carcinoma 2021（英語版PDF、第1・2・3分冊）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © The Japan Society of Hepatology. All Rights Reserved
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-068
+  legacy_id: null
+  title: 国立がん研究センター がん情報サービス 肝臓（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）
+  citation: 国立がん研究センター がん情報サービス 肝臓（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 元データは政府統計。サイト利用規約は人間が確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-069
+  legacy_id: null
+  title: CDC. Clinical Overview of Hepatitis A（2025-08-29更新）
+  citation: CDC. Clinical Overview of Hepatitis A（2025-08-29更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府著作物（第三者素材を除く）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-070
+  legacy_id: null
+  title: CDC. Clinical Overview of Hepatitis B（2025-08-29更新）
+  citation: CDC. Clinical Overview of Hepatitis B（2025-08-29更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府著作物（第三者素材を除く）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-071
+  legacy_id: null
+  title: CDC. Clinical Overview of Hepatitis C（2025-08-29更新）
+  citation: CDC. Clinical Overview of Hepatitis C（2025-08-29更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府著作物（第三者素材を除く）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-072
+  legacy_id: null
+  title: 厚生労働省『E型肝炎に関するQ&A』
+  citation: 厚生労働省『E型肝炎に関するQ&A』
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-073
+  legacy_id: null
+  title: MedlinePlus Genetics. Gilbert syndrome（最終更新 2012-02-01）
+  citation: MedlinePlus Genetics. Gilbert syndrome（最終更新 2012-02-01）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府著作物（NLM。第三者素材を除く）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-074
+  legacy_id: null
+  title: 'Sugawara K, Nakayama N, Mochida S. Acute liver failure in Japan: definition, classification, and prediction of the outcome. J Gastroenterol 2012;47:849-861'
+  citation: 'Sugawara K, Nakayama N, Mochida S. Acute liver failure in Japan: definition, classification, and prediction of the outcome. J Gastroenterol 2012;47:849-861'
+  doi: 10.1007/s00535-012-0624-x
+  pmid: null
+  pmcid: null
+  license_note: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-075
+  legacy_id: null
+  title: 厚生労働省健康局結核感染症課 事務連絡『愛知県における犬のエキノコックス症感染事例について（情報提供）』（平成26年4月8日）
+  citation: 厚生労働省健康局結核感染症課 事務連絡『愛知県における犬のエキノコックス症感染事例について（情報提供）』（平成26年4月8日）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-076
+  legacy_id: null
+  title: 厚生労働省 指定難病93『原発性胆汁性胆管炎』概要・診断基準等
+  citation: 厚生労働省 指定難病93『原発性胆汁性胆管炎』概要・診断基準等
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 厚労省 指定難病の概要・診断基準等（政府標準利用規約準拠と想定、原文は人間が確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-077
+  legacy_id: null
+  title: 厚生労働省 指定難病95『自己免疫性肝炎』概要・診断基準等
+  citation: 厚生労働省 指定難病95『自己免疫性肝炎』概要・診断基準等
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 厚労省 指定難病の概要・診断基準等（政府標準利用規約準拠と想定、原文は人間が確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-078
+  legacy_id: null
+  title: 厚生労働省 指定難病171『ウィルソン病』概要・診断基準等
+  citation: 厚生労働省 指定難病171『ウィルソン病』概要・診断基準等
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 厚労省 指定難病の概要・診断基準等（政府標準利用規約準拠と想定、原文は人間が確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-079
+  legacy_id: null
+  title: 厚生労働省 指定難病91『バッド・キアリ症候群』概要・診断基準等
+  citation: 厚生労働省 指定難病91『バッド・キアリ症候群』概要・診断基準等
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 厚労省 指定難病の概要・診断基準等（政府標準利用規約準拠と想定、原文は人間が確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-080
+  legacy_id: null
+  title: 厚生労働省 指定難病92『特発性門脈圧亢進症』概要・診断基準等
+  citation: 厚生労働省 指定難病92『特発性門脈圧亢進症』概要・診断基準等
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 厚労省 指定難病の概要・診断基準等（政府標準利用規約準拠と想定、原文は人間が確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-081
+  legacy_id: null
+  title: MedlinePlus Genetics. Hereditary hemochromatosis（最終更新 2019-02-01）
+  citation: MedlinePlus Genetics. Hereditary hemochromatosis（最終更新 2019-02-01）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府著作物（NLM。第三者素材を除く）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-082
+  legacy_id: null
+  title: MedlinePlus Genetics. Dubin-Johnson syndrome（最終更新 2018-08-01）
+  citation: MedlinePlus Genetics. Dubin-Johnson syndrome（最終更新 2018-08-01）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府著作物（NLM。第三者素材を除く）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-083
+  legacy_id: null
+  title: MedlinePlus Genetics. Rotor syndrome（最終更新 2013-03-01）
+  citation: MedlinePlus Genetics. Rotor syndrome（最終更新 2013-03-01）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府著作物（NLM。第三者素材を除く）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-084
+  legacy_id: null
+  title: Tajiri K, Shimizu Y. Practical guidelines for diagnosis and early management of drug-induced liver injury. World J Gastroenterol 2008;14:6774-6785
+  citation: Tajiri K, Shimizu Y. Practical guidelines for diagnosis and early management of drug-induced liver injury. World J Gastroenterol 2008;14:6774-6785
+  doi: 10.3748/wjg.14.6774
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC 4.0（記事ページの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-085
+  legacy_id: null
+  title: 日本肝臓学会 肝炎診療ガイドライン作成委員会編『B型肝炎治療ガイドライン（第4版）簡易版』2022年6月
+  citation: 日本肝臓学会 肝炎診療ガイドライン作成委員会編『B型肝炎治療ガイドライン（第4版）簡易版』2022年6月
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © 日本肝臓学会（非CC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-086
+  legacy_id: null
+  title: 厚生労働省 感染症法に基づく医師の届出基準『五類感染症 アメーバ赤痢』と発生届様式
+  citation: 厚生労働省 感染症法に基づく医師の届出基準『五類感染症 アメーバ赤痢』と発生届様式
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/04_liver.md の出典マスター表から
