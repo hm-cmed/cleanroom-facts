@@ -33,7 +33,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -45,6 +45,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-002
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -79,7 +85,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -91,6 +97,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-003
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -125,7 +137,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -137,6 +149,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-004
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -171,7 +189,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -183,6 +201,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-005
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -217,7 +241,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -229,6 +253,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-006
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -263,7 +293,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -275,6 +305,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-007
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -309,7 +345,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -321,6 +357,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-008
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -356,7 +398,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -368,6 +410,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-009
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -403,7 +451,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -415,6 +463,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-010
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -449,7 +503,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -461,6 +515,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-011
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -496,7 +556,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -508,6 +568,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-012
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -543,7 +609,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -555,6 +621,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-013
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -590,7 +662,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -602,6 +674,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-014
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -637,7 +715,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -649,6 +727,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-015
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -683,7 +767,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -695,6 +779,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-016
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -729,7 +819,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -741,6 +831,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-017
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -775,7 +871,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -787,6 +883,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-018
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -821,7 +923,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -833,6 +935,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-019
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -868,7 +976,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -880,6 +988,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-020
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -915,7 +1029,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -927,6 +1041,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-021
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -962,7 +1082,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -974,6 +1094,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-022
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -1009,7 +1135,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1021,6 +1147,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-023
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -1056,7 +1188,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1068,6 +1200,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-024
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -1103,7 +1241,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1115,6 +1253,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-025
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -1150,7 +1294,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1162,6 +1306,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-026
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -1197,7 +1347,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1209,6 +1359,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-027
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -1244,7 +1400,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1256,6 +1412,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-028
   domain: GD
   subdomain: 酸分泌抑制薬の長期使用
@@ -1291,7 +1453,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1303,6 +1465,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-029
   domain: GD
   subdomain: 消化性潰瘍
@@ -1338,7 +1506,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1350,6 +1518,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-030
   domain: GD
   subdomain: 消化性潰瘍
@@ -1385,7 +1559,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1397,6 +1571,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-031
   domain: GD
   subdomain: 消化性潰瘍
@@ -1432,7 +1612,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1444,6 +1624,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-032
   domain: GD
   subdomain: 慢性胃炎
@@ -1479,7 +1665,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1491,6 +1677,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-033
   domain: GD
   subdomain: 胃癌
@@ -1526,12 +1718,18 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・企業資料・和文資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-034
   domain: GD
   subdomain: 胃癌
@@ -1567,12 +1765,18 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・企業資料・和文資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-035
   domain: GD
   subdomain: 胃癌
@@ -1607,7 +1811,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1622,6 +1826,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-036
   domain: GD
   subdomain: 胃癌
@@ -1656,7 +1866,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1671,6 +1881,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-037
   domain: GD
   subdomain: 胃癌
@@ -1705,7 +1921,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1720,6 +1936,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-038
   domain: GD
   subdomain: 胃癌
@@ -1754,7 +1976,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1769,6 +1991,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-039
   domain: GD
   subdomain: 胃癌
@@ -1803,7 +2031,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1818,6 +2046,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-040
   domain: GD
   subdomain: 胃癌
@@ -1852,7 +2086,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1867,6 +2101,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-041
   domain: GD
   subdomain: 胃癌
@@ -1901,7 +2141,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1916,6 +2156,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-042
   domain: GD
   subdomain: 胃癌
@@ -1950,7 +2196,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1965,6 +2211,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-043
   domain: GD
   subdomain: 胃癌
@@ -1999,7 +2251,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2014,6 +2266,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-044
   domain: GD
   subdomain: 胃癌
@@ -2048,7 +2306,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2060,6 +2318,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 36342574 に設定（DOI 10.1007/s10120-022-01331-8 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-045
   domain: GD
   subdomain: 胃癌
@@ -2094,7 +2358,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2109,6 +2373,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-046
   domain: GD
   subdomain: 胃癌
@@ -2143,7 +2413,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2158,6 +2428,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-047
   domain: GD
   subdomain: 胃癌
@@ -2192,7 +2468,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2207,6 +2483,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-048
   domain: GD
   subdomain: 胃癌
@@ -2241,7 +2523,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2253,6 +2535,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 36342574 に設定（DOI 10.1007/s10120-022-01331-8 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-049
   domain: GD
   subdomain: 胃癌
@@ -2287,7 +2575,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2302,6 +2590,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-050
   domain: GD
   subdomain: 胃癌
@@ -2336,7 +2630,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2351,6 +2645,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-051
   domain: GD
   subdomain: 胃癌
@@ -2386,7 +2686,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2401,6 +2701,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-052
   domain: GD
   subdomain: 胃癌
@@ -2435,7 +2741,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2450,6 +2756,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-053
   domain: GD
   subdomain: 胃癌
@@ -2484,7 +2796,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2499,6 +2811,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-054
   domain: GD
   subdomain: 胃癌
@@ -2533,7 +2851,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2548,6 +2866,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-055
   domain: GD
   subdomain: 胃癌
@@ -2582,7 +2906,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2591,6 +2915,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC8436782 に設定（DOI 10.1016/S0140-6736(21)00797-2 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-056
   domain: GD
   subdomain: 胃癌
@@ -2625,12 +2955,18 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-057
   domain: GD
   subdomain: 胃癌
@@ -2658,7 +2994,7 @@
       pmid_matched: null
       license_from_crossref: null
       notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
-  uncertainty: PMDA添付文書の改訂履歴では未照合
+  uncertainty: 承認日と効能・効果は企業発表で確認。「世界初」は企業発表・報道による位置づけ。PMDA 添付文書の改訂履歴では未照合
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
     kokushi: 医学各論 Ⅵ-2-D-②（胃癌、a）
@@ -2666,12 +3002,21 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：承認日と効能・効果を企業発表で確認。変更項目：uncertainty。根拠：アステラス製薬の発表（2024-03-26 承認取得）を検索で確認。適時開示 PDF は取得不可（403）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・企業資料・和文資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-058
   domain: GD
   subdomain: 胃癌
@@ -2706,7 +3051,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2721,6 +3066,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-059
   domain: GD
   subdomain: 胃癌
@@ -2755,7 +3106,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2770,6 +3121,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-060
   domain: GD
   subdomain: 胃癌
@@ -2804,7 +3161,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2819,6 +3176,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-061
   domain: GD
   subdomain: 胃癌
@@ -2853,7 +3216,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2868,6 +3231,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-062
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -2903,7 +3272,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2912,6 +3281,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-063
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -2946,7 +3321,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2955,6 +3330,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-064
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -2989,7 +3370,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2998,6 +3379,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-065
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -3032,7 +3419,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -3041,6 +3428,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-066
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -3075,7 +3468,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -3084,6 +3477,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-067
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -3118,7 +3517,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -3127,6 +3526,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-068
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -3161,7 +3566,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -3170,6 +3575,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-069
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -3204,12 +3615,18 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-070
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -3236,7 +3653,7 @@
       pmid_matched: true
       license_from_crossref: https://creativecommons.org/licenses/by/4.0
       notes: null
-  uncertainty: null
+  uncertainty: GL本文は基準名（Choi基準）を明記せず、腫瘍径10%以上の縮小または CT 値15%以上の低下と記載
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
     kokushi: 医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）
@@ -3244,7 +3661,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -3253,6 +3670,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：GL本文の記載に合わせて基準名の扱いを補足。変更項目：uncertainty。根拠：GIST GL 2022 英語版本文（PMC11130037）：腫瘍径10%以上の縮小または CT 値15%以上の低下
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-071
   domain: GD
   subdomain: 胃神経内分泌腫瘍
@@ -3299,6 +3725,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 37401795 に設定（DOI 10.1111/jne.13306 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-072
   domain: GD
   subdomain: 胃静脈瘤
@@ -3326,7 +3755,7 @@
       pmid_matched: null
       license_from_crossref: null
       notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
-  uncertainty: ES-R17（ES側）から胃静脈瘤の部位分類を移管。部位名の和文表記は原典で要確認
+  uncertainty: low（記載基準表で照合。ES-061 と対応：ES 側は食道静脈瘤、GD 側は胃静脈瘤の記述として両方を残す）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
     kokushi: 医学各論 Ⅵ-1-D-①（食道静脈瘤、a）
@@ -3334,12 +3763,21 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：部位名の和文表記を記載基準表で確認したため「要確認」を解消。変更項目：uncertainty。根拠：日消誌116(5):395 掲載の記載基準表（門脈圧亢進症取扱い規約 第3版）：Lg-c 噴門部に限局、Lg-cf 噴門部から穹窿部に連なる、Lg-f 穹窿部に限局
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・企業資料・和文資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-073
   domain: GD
   subdomain: 胃静脈瘤
@@ -3367,7 +3805,7 @@
       pmid_matched: true
       license_from_crossref: https://creativecommons.org/licenses/by/4.0
       notes: null
-  uncertainty: ES-R18（ES側）からB-RTOの記載を移管。2025年版の推奨は未確認
+  uncertainty: 肝硬変GL 2025年版の推奨は未確認。ES-066 と対応（両方を残す）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-034 (id: JlAKplU)'
     kokushi: 医学各論 Ⅵ-1-D-①（食道静脈瘤、a）
@@ -3375,7 +3813,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -3387,6 +3825,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：ES-R17/R18 は統合後 ES-061/ES-066 になったため、参照先を更新。両方を残す（人間が2026-10-13に決定）。変更項目：uncertainty。根拠：PubMed・idconv
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-074
   domain: GD
   subdomain: 胃切除後症候群
@@ -3421,7 +3868,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -3430,6 +3877,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 32457534 に設定（DOI 10.1038/s41574-020-0357-5 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-075
   domain: GD
   subdomain: 胃切除後症候群
@@ -3464,7 +3917,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -3473,6 +3926,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 32457534 に設定（DOI 10.1038/s41574-020-0357-5 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-076
   domain: GD
   subdomain: 胃切除後症候群
@@ -3507,7 +3966,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -3516,6 +3975,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 32457534 に設定（DOI 10.1038/s41574-020-0357-5 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-077
   domain: GD
   subdomain: 胃切除後症候群
@@ -3550,7 +4015,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -3559,6 +4024,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 32457534 に設定（DOI 10.1038/s41574-020-0357-5 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-078
   domain: GD
   subdomain: 胃切除後症候群
@@ -3593,7 +4064,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -3602,6 +4073,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 32457534 に設定（DOI 10.1038/s41574-020-0357-5 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-079
   domain: GD
   subdomain: 胃切除後症候群
@@ -3636,7 +4113,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -3645,6 +4122,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 32457534 に設定（DOI 10.1038/s41574-020-0357-5 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-080
   domain: GD
   subdomain: 胃切除後症候群
@@ -3679,7 +4162,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -3694,6 +4177,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-081
   domain: GD
   subdomain: 胃アニサキス症
@@ -3728,12 +4217,18 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・企業資料・和文資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-082
   domain: GD
   subdomain: 胃アニサキス症
@@ -3768,12 +4263,18 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・企業資料・和文資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-083
   domain: GD
   subdomain: 胃アニサキス症
@@ -3800,7 +4301,7 @@
       pmid_matched: null
       license_from_crossref: null
       notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
-  uncertainty: null
+  uncertainty: 冷凍・加熱の条件は、厚労省ページでは事業者向けの記載として示されている
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
     kokushi: 医学各論 Ⅵ-2-C-⑤（胃アニサキス症、a）
@@ -3808,12 +4309,21 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：予防条件が事業者向けの記載であることを補足。変更項目：uncertainty。根拠：厚生労働省「アニサキスによる食中毒を予防しましょう」ページ本文（2026-10-13 閲覧）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・企業資料・和文資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-084
   domain: GD
   subdomain: 胃アニサキス症
@@ -3831,9 +4341,9 @@
     pmid: '36148963'
     pmcid: PMC9514333
     url: https://wwwnc.cdc.gov/eid/article/28/10/22-0627_article
-    source_license: CDC刊行誌。記事ページにパブリックドメインの明示はなく未確認
+    source_license: U.S. Government の刊行物で public domain（記事本文に明記）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: GOV_US
     corroboration: null
     id_check:
       checked_at: '2026-10-13'
@@ -3841,7 +4351,7 @@
       pmid_matched: true
       license_from_crossref: null
       notes: Crossrefに license の記載なし（source_class は現状維持）
-  uncertainty: ライセンス（EIDはパブリックドメインとされることが多い）は記事ページで未確認
+  uncertainty: low（本文で照合）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
     kokushi: 医学各論 Ⅵ-2-C-⑤（胃アニサキス症、a）
@@ -3849,7 +4359,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -3858,6 +4368,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 36148963 に設定（DOI 10.3201/eid2810.220627 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：Emerging Infectious Diseases は米国政府の刊行物で public domain と本文に明記されているため source_class を GOV_US に変更。変更項目：provenance.source_class, provenance.source_license, uncertainty。根拠：Emerging Infectious Diseases 2022（PMC9514333）本文：「U.S. Government の刊行物で public domain」と明記。本文の表で 168/189＝88.9%
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-085
   domain: GD
   subdomain: 胃アニサキス症
@@ -3884,7 +4403,7 @@
       pmid_matched: true
       license_from_crossref: null
       notes: Crossrefに license の記載なし（source_class は現状維持）
-  uncertainty: 本文と抄録で割合の記載が異なる（88.9%と88.4%）
+  uncertainty: low（本文の表 168/189＝88.9% を採用。抄録の 88.4% は本文の件数と合わない）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
     kokushi: 医学各論 Ⅵ-2-C-⑤（胃アニサキス症、a）
@@ -3892,7 +4411,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -3901,6 +4420,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 36148963 に設定（DOI 10.3201/eid2810.220627 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：本文と抄録で割合が異なる点を、本文の件数（168/189）に合う 88.9% で確定（調査レポート第7節5）。変更項目：uncertainty。根拠：Emerging Infectious Diseases 2022（PMC9514333）本文：「U.S. Government の刊行物で public domain」と明記。本文の表で 168/189＝88.9%
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-086
   domain: GD
   subdomain: 胃ポリープ
@@ -3914,8 +4442,8 @@
     source_ref: SRC-043
     source: 'Islam RS, et al. Gastric polyps: a review on clinical, endoscopic, histopathologic features and management decisions. Gastroenterol Hepatol (N Y) 2013 Oct'
     doi: null
-    pmid: null
-    pmcid: null
+    pmid: '24764778'
+    pmcid: PMC3992058
     url: https://www.gastroenterologyandhepatology.net/?p=1952
     source_license: © Millennium Medical Publishing（非CC）
     legal_basis: B
@@ -3924,9 +4452,9 @@
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: false
-      pmid_matched: null
+      pmid_matched: true
       license_from_crossref: null
-      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
+      notes: null
   uncertainty: 数値は総説が引用した値（二次資料経由）で、原著は未照合。GD-028（PPI長期使用と胃底腺ポリープ）と関連
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -3935,12 +4463,21 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：PubMed で書誌を特定し、idconv で PMCID を確認して識別子を設定。変更項目：provenance.pmid, provenance.pmcid。根拠：Islam RS, Gastroenterol Hepatol (N Y) 2013;9:640-651（PMID 24764778、PMC3992058）の本文
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-087
   domain: GD
   subdomain: 胃ポリープ
@@ -3954,8 +4491,8 @@
     source_ref: SRC-043
     source: 'Islam RS, et al. Gastric polyps: a review on clinical, endoscopic, histopathologic features and management decisions. Gastroenterol Hepatol (N Y) 2013 Oct'
     doi: null
-    pmid: null
-    pmcid: null
+    pmid: '24764778'
+    pmcid: PMC3992058
     url: https://www.gastroenterologyandhepatology.net/?p=1952
     source_license: © Millennium Medical Publishing（非CC）
     legal_basis: B
@@ -3964,9 +4501,9 @@
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: false
-      pmid_matched: null
+      pmid_matched: true
       license_from_crossref: null
-      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
+      notes: null
   uncertainty: 数値は総説が引用した値（二次資料経由）で、原著は未照合。日本のH. pylori GLでの位置づけは未確認
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -3975,12 +4512,21 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：PubMed で書誌を特定し、idconv で PMCID を確認して識別子を設定。変更項目：provenance.pmid, provenance.pmcid。根拠：Islam RS, Gastroenterol Hepatol (N Y) 2013;9:640-651（PMID 24764778、PMC3992058）の本文
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-088
   domain: GD
   subdomain: 胃ポリープ
@@ -3994,8 +4540,8 @@
     source_ref: SRC-043
     source: 'Islam RS, et al. Gastric polyps: a review on clinical, endoscopic, histopathologic features and management decisions. Gastroenterol Hepatol (N Y) 2013 Oct'
     doi: null
-    pmid: null
-    pmcid: null
+    pmid: '24764778'
+    pmcid: PMC3992058
     url: https://www.gastroenterologyandhepatology.net/?p=1952
     source_license: © Millennium Medical Publishing（非CC）
     legal_basis: B
@@ -4004,10 +4550,10 @@
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: false
-      pmid_matched: null
+      pmid_matched: true
       license_from_crossref: null
-      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
-  uncertainty: 日本の胃腺腫の扱い（Ⅵ-2-D-③）は別途確認が必要
+      notes: null
+  uncertainty: 日本の胃腺腫の扱い（出題基準 Ⅵ-2-D-③）は別のカードで扱う
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
     kokushi: 医学各論 Ⅵ-2-D-①（胃ポリープ、a）
@@ -4015,12 +4561,21 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：PubMed で書誌を特定し、idconv で PMCID を確認して識別子を設定。変更項目：provenance.pmid, provenance.pmcid, uncertainty。根拠：Islam RS, Gastroenterol Hepatol (N Y) 2013;9:640-651（PMID 24764778、PMC3992058）の本文
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-089
   domain: GD
   subdomain: 胃ポリープ
@@ -4056,12 +4611,18 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-090
   domain: GD
   subdomain: 急性胃粘膜病変
@@ -4097,12 +4658,18 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-091
   domain: GD
   subdomain: 急性胃粘膜病変
@@ -4138,17 +4705,23 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-092
   domain: GD
   subdomain: 急性胃粘膜病変
   assertion:
-    plain_statement_ja: 人工呼吸管理中の重症患者を対象としたRCT（REVISE）で、パントプラゾール40 mg静注の予防投与は、プラセボに比べて臨床的に重要な上部消化管出血を減らしたが、90日死亡率には差がなかった。
+    plain_statement_ja: 人工呼吸管理中の重症患者4,821例を対象としたRCT（REVISE）で、パントプラゾール40 mg静注の予防投与は、プラセボに比べて臨床的に重要な上部消化管出血を減らした（1.0%対3.5%、HR 0.30）が、90日死亡率には差がなかった（29.1%対30.9%、HR 0.94）。
     condition:
       population: 侵襲的人工呼吸管理中の成人ICU患者
       region: 国際
@@ -4156,7 +4729,7 @@
     common_misconception: 重症患者へのPPI予防投与で死亡率が下がる
   provenance:
     source_ref: SRC-045
-    source: Cook D, et al. Stress ulcer prophylaxis during invasive mechanical ventilation (REVISE). N Engl J Med 2024
+    source: Cook D, et al. Stress ulcer prophylaxis during invasive mechanical ventilation (REVISE). N Engl J Med 2024;391:9-20
     doi: 10.1056/NEJMoa2404245
     pmid: '38875111'
     pmcid: null
@@ -4171,7 +4744,7 @@
       pmid_matched: true
       license_from_crossref: http://www.nejmgroup.org/legal/terms-of-use.htm
       notes: null
-  uncertainty: 数値（出血1.0%対3.5%、HR 0.30；90日死亡29.1%対30.9%、HR 0.94、解析4,821例）は二次資料（ACP Journal Club、The Bottom Line）経由のため主張文に含めない。巻・頁とPMIDは未確認
+  uncertainty: low（数値は抄録で照合）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
     kokushi: 医学各論 Ⅵ-2-C-①（急性胃炎、急性胃粘膜病変、a）
@@ -4179,7 +4752,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -4188,6 +4761,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 38875111 に設定（DOI 10.1056/NEJMoa2404245 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：調査側が二次資料経由として uncertainty に置いていた数値を、NEJM の抄録で確認できたため主張文に移した（調査レポート第7節4の依頼）。巻・頁を補った。変更項目：assertion.plain_statement_ja, provenance.source, uncertainty。根拠：Cook D, NEJM 2024;391:9-20（PMID 38875111）の抄録：4,821例、出血 1.0%対3.5%（HR 0.30）、90日死亡 29.1%対30.9%（HR 0.94、P=0.25）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-093
   domain: GD
   subdomain: 胃・十二指腸憩室
@@ -4222,7 +4804,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -4231,6 +4813,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC3066647 に設定（DOI 10.4253/wjge.v3.i3.62 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-094
   domain: GD
   subdomain: 胃・十二指腸憩室
@@ -4265,7 +4853,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -4274,6 +4862,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC3066647 に設定（DOI 10.4253/wjge.v3.i3.62 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
 - id: GD-095
   domain: GD
   subdomain: 胃・十二指腸憩室
@@ -4308,7 +4902,7 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -4320,3 +4914,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC13237573 に設定（DOI 10.47717/turkjsurg.2026.2025-11-25 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
