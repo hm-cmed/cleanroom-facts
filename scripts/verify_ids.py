@@ -25,7 +25,7 @@ from pathlib import Path
 import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from ncbi_crossref import (Unresolved, crossref_search, crossref_work, esearch_doi,  # noqa: E402
+from ncbi_crossref import (Unresolved, crossref_search, crossref_work, doi_agency, esearch_doi,  # noqa: E402
                            esummary, idconv)
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -34,7 +34,7 @@ REPORTS = ROOT / "reports"
 PROPOSALS = ROOT / "proposals"
 TODAY = dt.date.today().isoformat()
 BY = "claude-code"
-APPLY_LICENSE_CLASS = {"ES"}  # source_class の判定値を反映する領域
+APPLY_LICENSE_CLASS = {"ES", "GD"}  # source_class の判定値を反映する領域（人間の委任：ES 2026-10-12、GD 2026-10-13）
 
 
 def h(change: str) -> dict:
@@ -169,7 +169,16 @@ class Checker:
         p, cid = card["provenance"], card["id"]
         w = crossref_work(doi)
         if w is None:
-            notes.append(f"Crossref で DOI {doi} が見つからない")
+            ag = doi_agency(doi)
+            if ag["agency"] and ag["agency"] != "Crossref" and ag["resolves"]:
+                # JaLC・DataCite などに登録された DOI。実在は doi.org で確認、ライセンスは Crossref からは取れない
+                idc["doi_resolved"] = True
+                notes.append(f"DOI は {ag['agency']} 登録（Crossref の対象外）。doi.org で解決を確認（{ag['location']}）。license は未確認（source_class は現状維持）")
+                rec = idconv(doi)
+                self._reconcile(card, "pmid", rec.get("pmid") if rec else None, idc, notes, via=f"DOI {doi}")
+                self._reconcile(card, "pmcid", rec.get("pmcid") if rec else None, idc, notes, via=f"DOI {doi}")
+                return
+            notes.append(f"Crossref で DOI {doi} が見つからない（登録機関：{ag['agency']}、doi.org での解決：{ag['resolves']}）")
             self.conflicts.append((cid, "doi", doi, "Crossref 404", "DOI が実在しない可能性"))
             return
         idc["doi_resolved"] = True
@@ -332,7 +341,7 @@ def write_outputs(ck: Checker, domains: list[str]) -> None:
     L += [f"| {a} | {b} | {c} | {d} | {e} |" for a, b, c, d, e in ck.conflicts] or ["| — | | | | なし |"]
     L += ["\n## 3. source_class の判定差\n", "| ID | 既存 | Crossref の判定 | license URL |", "|---|---|---|---|"]
     L += [f"| {a} | {b} | {c} | {d} |" for a, b, c, d in ck.class_diffs] or ["| — | | | なし |"]
-    L.append("\nES は人間の委任により判定値を反映済み。HP・UG はレポートのみ。\n")
+    L.append("\nES・GD は人間の委任により判定値を反映済み。HP・UG はレポートのみ。\n")
     L += ["## 4. API で補完した識別子\n", "| ID | 項目 | 値 | 経路 |", "|---|---|---|---|"]
     L += [f"| {a} | {b} | {c} | {d} |" for a, b, c, d in ck.filled] or ["| — | | | なし |"]
     L += ["\n## 5. unresolved\n"]

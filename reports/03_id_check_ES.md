@@ -1,13 +1,13 @@
-# Phase 3：識別子とライセンスの照合（2026-10-12、対象 ES）
+# Phase 3：識別子とライセンスの照合（2026-10-13、対象 ES）
 
 生成：`scripts/verify_ids.py`。API 応答は `.cache/`（git 管理外）。
 
 ## 1. 概要
 
 - 照合したカード：89 件（retired を除く）
-- DOI を Crossref で解決：82 件
+- DOI を Crossref で解決：83 件
 - 識別子を API で補完：0 件
-- 食い違い：1 件
+- 食い違い：0 件
 - source_class の判定差：0 件
 - unresolved（API 失敗）：0 件
 - 識別子なしで候補を出したもの：2 件
@@ -16,7 +16,7 @@
 
 | ID | 項目 | 既存値 | API の値 | 内容 |
 |---|---|---|---|---|
-| ES-077 | doi | 10.22037/ghfbb.v15i3.2591 | Crossref 404 | DOI が実在しない可能性 |
+| — | | | | なし |
 
 ## 3. source_class の判定差
 
@@ -24,7 +24,7 @@
 |---|---|---|---|
 | — | | | なし |
 
-ES は人間の委任により判定値を反映済み。HP・UG はレポートのみ。
+ES・GD は人間の委任により判定値を反映済み。HP・UG はレポートのみ。
 
 ## 4. API で補完した識別子
 
@@ -112,7 +112,7 @@ ES は人間の委任により判定値を反映済み。HP・UG はレポート
 | ES-074 | True | True | http://www.springer.com/tdm |  |
 | ES-075 | True | True | — | Crossrefに license の記載なし（source_class は現状維持） |
 | ES-076 | True | True | https://www.elsevier.com/tdm/userlicense/1.0/ |  |
-| ES-077 | False | None | — | Crossref で DOI 10.22037/ghfbb.v15i3.2591 が見つからない |
+| ES-077 | True | True | — | DOI は mEDRA 登録（Crossref の対象外）。doi.org で解決を確認（https://journals.sbmu.ac.ir/ghfbb/index.php/ghfbb/article/view/2591）。license は未確認（source_class は現状維持） |
 | ES-078 | True | True | — | Crossrefに license の記載なし（source_class は現状維持） |
 | ES-079 | True | True | http://creativecommons.org/licenses/by-nc-nd/4.0/ |  |
 | ES-080 | True | True | http://creativecommons.org/licenses/by-nc/4.0 |  |

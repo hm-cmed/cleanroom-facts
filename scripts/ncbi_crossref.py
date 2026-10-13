@@ -20,7 +20,7 @@ EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 IDCONV = "https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/"
 
 _last_call: dict[str, float] = {}
-_INTERVAL = {"ncbi": 0.11 if NCBI_KEY else 0.34, "crossref": 0.1}
+_INTERVAL = {"ncbi": 0.11 if NCBI_KEY else 0.34, "crossref": 0.1, "doi": 0.2}
 
 
 class Unresolved(Exception):
@@ -71,6 +71,25 @@ def crossref_work(doi: str) -> dict | None:
     if data.get("_status") == 404:
         return None
     return data.get("message")
+
+
+def doi_agency(doi: str) -> dict:
+    """Crossref にない DOI の登録機関（JaLC・DataCite など）と、doi.org で解決できるかを返す。"""
+    prefix = doi.split("/")[0]
+    ra = _cached_get("doi", f"https://doi.org/ra/{prefix}", {})
+    agency = ra[0].get("RA") if isinstance(ra, list) and ra else (ra.get("RA") if isinstance(ra, dict) else None)
+    path = CACHE / "doi" / (hashlib.sha1(f"resolve:{doi}".encode()).hexdigest() + ".json")
+    if path.exists():
+        res = json.loads(path.read_text(encoding="utf-8"))
+    else:
+        try:
+            r = requests.head(f"https://doi.org/{doi}", allow_redirects=False, timeout=30)
+            res = {"status": r.status_code, "location": r.headers.get("Location")}
+        except requests.RequestException as e:
+            raise Unresolved(f"doi.org {doi}: {e}") from e
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(json.dumps(res), encoding="utf-8")
+    return {"agency": agency, "resolves": res["status"] in (301, 302, 303, 307, 308), "location": res.get("location")}
 
 
 def crossref_search(bibliographic: str, rows: int = 3) -> list[dict]:

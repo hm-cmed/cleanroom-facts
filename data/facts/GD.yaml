@@ -12,13 +12,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -33,6 +39,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-002
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -46,13 +58,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -67,6 +85,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-003
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -80,13 +104,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -101,6 +131,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-004
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -114,13 +150,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: HP-015〜017（除菌の適応・京都コンセンサス）と内容が近いが、本カードはFDとの鑑別の観点に限定
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -135,6 +177,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-005
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -148,13 +196,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 日本のデータはいずれも単施設の横断研究（GL本文の記載）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -169,6 +223,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-006
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -182,13 +242,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -203,6 +269,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-007
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -216,13 +288,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -237,6 +315,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-008
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -251,13 +335,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)'
@@ -272,6 +362,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-009
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -286,13 +382,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -307,6 +409,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-010
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -320,13 +428,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 数値はGL本文の引用値。原著（Cochrane CD011194）は未照合
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -341,6 +455,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-011
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -355,13 +475,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -376,6 +502,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-012
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -390,13 +522,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -411,6 +549,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-013
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -425,13 +569,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -446,6 +596,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-014
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -460,13 +616,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -481,6 +643,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-015
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -494,13 +662,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -515,6 +689,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-016
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -528,13 +708,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -549,6 +735,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-017
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -562,13 +754,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -583,6 +781,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-018
   domain: GD
   subdomain: 機能性ディスペプシア
@@ -596,13 +800,19 @@
     source_ref: SRC-028
     source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
     doi: 10.1007/s00535-021-01843-7
-    pmid: null
+    pmid: '35061057'
     pmcid: PMC8831363
     url: https://link.springer.com/article/10.1007/s00535-021-01843-7
     source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -617,6 +827,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 35061057 に設定（DOI 10.1007/s00535-021-01843-7 から API で一意に確定）
 - id: GD-019
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -631,13 +847,19 @@
     source_ref: SRC-031
     source: Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381
     doi: 10.1007/s00535-026-02504-3
-    pmid: null
-    pmcid: null
+    pmid: '42635735'
+    pmcid: PMC13615929
     url: https://link.springer.com/article/10.1007/s00535-026-02504-3
     source_license: CC BY 4.0（パイロット時にCrossrefで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -652,6 +874,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 42635735 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
 - id: GD-020
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -666,13 +894,19 @@
     source_ref: SRC-031
     source: Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381
     doi: 10.1007/s00535-026-02504-3
-    pmid: null
-    pmcid: null
+    pmid: '42635735'
+    pmcid: PMC13615929
     url: https://link.springer.com/article/10.1007/s00535-026-02504-3
     source_license: CC BY 4.0（パイロット時にCrossrefで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -687,6 +921,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 42635735 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
 - id: GD-021
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -701,13 +941,19 @@
     source_ref: SRC-031
     source: Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381
     doi: 10.1007/s00535-026-02504-3
-    pmid: null
-    pmcid: null
+    pmid: '42635735'
+    pmcid: PMC13615929
     url: https://link.springer.com/article/10.1007/s00535-026-02504-3
     source_license: CC BY 4.0（パイロット時にCrossrefで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -722,6 +968,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 42635735 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
 - id: GD-022
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -736,13 +988,19 @@
     source_ref: SRC-031
     source: Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381
     doi: 10.1007/s00535-026-02504-3
-    pmid: null
-    pmcid: null
+    pmid: '42635735'
+    pmcid: PMC13615929
     url: https://link.springer.com/article/10.1007/s00535-026-02504-3
     source_license: CC BY 4.0（パイロット時にCrossrefで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -757,6 +1015,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 42635735 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
 - id: GD-023
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -771,13 +1035,19 @@
     source_ref: SRC-031
     source: Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381
     doi: 10.1007/s00535-026-02504-3
-    pmid: null
-    pmcid: null
+    pmid: '42635735'
+    pmcid: PMC13615929
     url: https://link.springer.com/article/10.1007/s00535-026-02504-3
     source_license: CC BY 4.0（パイロット時にCrossrefで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -792,6 +1062,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 42635735 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
 - id: GD-024
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -806,13 +1082,19 @@
     source_ref: SRC-031
     source: Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381
     doi: 10.1007/s00535-026-02504-3
-    pmid: null
-    pmcid: null
+    pmid: '42635735'
+    pmcid: PMC13615929
     url: https://link.springer.com/article/10.1007/s00535-026-02504-3
     source_license: CC BY 4.0（パイロット時にCrossrefで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -827,6 +1109,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 42635735 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
 - id: GD-025
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -841,13 +1129,19 @@
     source_ref: SRC-031
     source: Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381
     doi: 10.1007/s00535-026-02504-3
-    pmid: null
-    pmcid: null
+    pmid: '42635735'
+    pmcid: PMC13615929
     url: https://link.springer.com/article/10.1007/s00535-026-02504-3
     source_license: CC BY 4.0（パイロット時にCrossrefで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -862,6 +1156,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 42635735 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
 - id: GD-026
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -876,13 +1176,19 @@
     source_ref: SRC-031
     source: Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381
     doi: 10.1007/s00535-026-02504-3
-    pmid: null
-    pmcid: null
+    pmid: '42635735'
+    pmcid: PMC13615929
     url: https://link.springer.com/article/10.1007/s00535-026-02504-3
     source_license: CC BY 4.0（パイロット時にCrossrefで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -897,6 +1203,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 42635735 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
 - id: GD-027
   domain: GD
   subdomain: NSAID・LDA潰瘍の予防
@@ -911,13 +1223,19 @@
     source_ref: SRC-031
     source: Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381
     doi: 10.1007/s00535-026-02504-3
-    pmid: null
-    pmcid: null
+    pmid: '42635735'
+    pmcid: PMC13615929
     url: https://link.springer.com/article/10.1007/s00535-026-02504-3
     source_license: CC BY 4.0（パイロット時にCrossrefで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -932,6 +1250,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 42635735 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
 - id: GD-028
   domain: GD
   subdomain: 酸分泌抑制薬の長期使用
@@ -946,13 +1270,19 @@
     source_ref: SRC-031
     source: Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381
     doi: 10.1007/s00535-026-02504-3
-    pmid: null
-    pmcid: null
+    pmid: '42635735'
+    pmcid: PMC13615929
     url: https://link.springer.com/article/10.1007/s00535-026-02504-3
     source_license: CC BY 4.0（パイロット時にCrossrefで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -967,6 +1297,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 42635735 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
 - id: GD-029
   domain: GD
   subdomain: 消化性潰瘍
@@ -981,13 +1317,19 @@
     source_ref: SRC-031
     source: Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381
     doi: 10.1007/s00535-026-02504-3
-    pmid: null
-    pmcid: null
+    pmid: '42635735'
+    pmcid: PMC13615929
     url: https://link.springer.com/article/10.1007/s00535-026-02504-3
     source_license: CC BY 4.0（パイロット時にCrossrefで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -1002,6 +1344,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 42635735 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
 - id: GD-030
   domain: GD
   subdomain: 消化性潰瘍
@@ -1016,13 +1364,19 @@
     source_ref: SRC-031
     source: Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381
     doi: 10.1007/s00535-026-02504-3
-    pmid: null
-    pmcid: null
+    pmid: '42635735'
+    pmcid: PMC13615929
     url: https://link.springer.com/article/10.1007/s00535-026-02504-3
     source_license: CC BY 4.0（パイロット時にCrossrefで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -1037,6 +1391,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 42635735 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
 - id: GD-031
   domain: GD
   subdomain: 消化性潰瘍
@@ -1051,13 +1411,19 @@
     source_ref: SRC-031
     source: Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381
     doi: 10.1007/s00535-026-02504-3
-    pmid: null
-    pmcid: null
+    pmid: '42635735'
+    pmcid: PMC13615929
     url: https://link.springer.com/article/10.1007/s00535-026-02504-3
     source_license: CC BY 4.0（パイロット時にCrossrefで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -1072,6 +1438,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 42635735 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
 - id: GD-032
   domain: GD
   subdomain: 慢性胃炎
@@ -1086,13 +1458,19 @@
     source_ref: SRC-031
     source: Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381
     doi: 10.1007/s00535-026-02504-3
-    pmid: null
-    pmcid: null
+    pmid: '42635735'
+    pmcid: PMC13615929
     url: https://link.springer.com/article/10.1007/s00535-026-02504-3
     source_license: CC BY 4.0（パイロット時にCrossrefで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -1107,6 +1485,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 42635735 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC13615929 に設定（DOI 10.1007/s00535-026-02504-3 から API で一意に確定）
 - id: GD-033
   domain: GD
   subdomain: 胃癌
@@ -1128,6 +1512,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1163,6 +1553,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1190,13 +1586,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1211,6 +1613,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-036
   domain: GD
   subdomain: 胃癌
@@ -1224,13 +1635,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)'
@@ -1245,6 +1662,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-037
   domain: GD
   subdomain: 胃癌
@@ -1258,13 +1684,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)'
@@ -1279,6 +1711,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-038
   domain: GD
   subdomain: 胃癌
@@ -1292,13 +1733,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)'
@@ -1313,6 +1760,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-039
   domain: GD
   subdomain: 胃癌
@@ -1326,13 +1782,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 第6版からの分類変更点。第7版本文で確認済みだが、教材では版を明記すること
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)'
@@ -1347,6 +1809,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-040
   domain: GD
   subdomain: 胃癌
@@ -1360,13 +1831,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)'
@@ -1381,6 +1858,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-041
   domain: GD
   subdomain: 胃癌
@@ -1394,13 +1880,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)'
@@ -1415,6 +1907,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-042
   domain: GD
   subdomain: 胃癌
@@ -1428,13 +1929,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1449,6 +1956,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-043
   domain: GD
   subdomain: 胃癌
@@ -1462,13 +1978,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1483,6 +2005,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-044
   domain: GD
   subdomain: 胃癌
@@ -1496,13 +2027,19 @@
     source_ref: SRC-029
     source: Japanese Gastric Cancer Association. Japanese Gastric Cancer Treatment Guidelines 2021 (6th edition). Gastric Cancer 2023;26:1-25
     doi: 10.1007/s10120-022-01331-8
-    pmid: null
+    pmid: '36342574'
     pmcid: PMC9813208
     url: https://link.springer.com/article/10.1007/s10120-022-01331-8
     source_license: Open access, © 2022 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1517,6 +2054,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 36342574 に設定（DOI 10.1007/s10120-022-01331-8 から API で一意に確定）
 - id: GD-045
   domain: GD
   subdomain: 胃癌
@@ -1530,13 +2073,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1551,6 +2100,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-046
   domain: GD
   subdomain: 胃癌
@@ -1564,13 +2122,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1585,6 +2149,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-047
   domain: GD
   subdomain: 胃癌
@@ -1598,13 +2171,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1619,6 +2198,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-048
   domain: GD
   subdomain: 胃癌
@@ -1632,13 +2220,19 @@
     source_ref: SRC-029
     source: Japanese Gastric Cancer Association. Japanese Gastric Cancer Treatment Guidelines 2021 (6th edition). Gastric Cancer 2023;26:1-25
     doi: 10.1007/s10120-022-01331-8
-    pmid: null
+    pmid: '36342574'
     pmcid: PMC9813208
     url: https://link.springer.com/article/10.1007/s10120-022-01331-8
     source_license: Open access, © 2022 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1653,6 +2247,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 36342574 に設定（DOI 10.1007/s10120-022-01331-8 から API で一意に確定）
 - id: GD-049
   domain: GD
   subdomain: 胃癌
@@ -1666,13 +2266,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 数値はGL本文の引用値。JCOG1104原著は未照合
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1687,6 +2293,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-050
   domain: GD
   subdomain: 胃癌
@@ -1700,13 +2315,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1721,6 +2342,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-051
   domain: GD
   subdomain: 胃癌
@@ -1735,13 +2365,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1756,6 +2392,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-052
   domain: GD
   subdomain: 胃癌
@@ -1769,13 +2414,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-02-07-030 (id: JlAKplE)；TBL-02-07-031 (id: JlAKplI)'
@@ -1790,6 +2441,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-053
   domain: GD
   subdomain: 胃癌
@@ -1803,13 +2463,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-02-07-030 (id: JlAKplE)；TBL-02-07-031 (id: JlAKplI)'
@@ -1824,6 +2490,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-054
   domain: GD
   subdomain: 胃癌
@@ -1837,13 +2512,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1858,6 +2539,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-055
   domain: GD
   subdomain: 胃癌
@@ -1872,12 +2562,18 @@
     source: Janjigian YY, et al. CheckMate 649. Lancet 2021;398:27-40
     doi: 10.1016/S0140-6736(21)00797-2
     pmid: '34102137'
-    pmcid: null
+    pmcid: PMC8436782
     url: https://pubmed.ncbi.nlm.nih.gov/34102137/
     source_license: 非CC（Elsevier）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://www.elsevier.com/tdm/userlicense/1.0/
+      notes: null
   uncertainty: 生存期間の数値は抄録全文を未照合のため主張文に含めない
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1892,6 +2588,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC8436782 に設定（DOI 10.1016/S0140-6736(21)00797-2 から API で一意に確定）
 - id: GD-056
   domain: GD
   subdomain: 胃癌
@@ -1912,6 +2611,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://www.elsevier.com/tdm/userlicense/1.0/
+      notes: null
   uncertainty: 全生存（18.23か月対15.54か月）は企業発表など二次資料経由のため主張文に含めない
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1947,6 +2652,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: PMDA添付文書の改訂履歴では未照合
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1974,13 +2685,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -1995,6 +2712,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-059
   domain: GD
   subdomain: 胃癌
@@ -2008,13 +2734,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -2029,6 +2761,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-060
   domain: GD
   subdomain: 胃癌
@@ -2042,13 +2783,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -2063,6 +2810,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-061
   domain: GD
   subdomain: 胃癌
@@ -2076,13 +2832,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -2097,6 +2859,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-062
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -2116,8 +2887,14 @@
     url: https://link.springer.com/article/10.1007/s10147-024-02488-1
     source_license: Open access, © 2024 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -2132,6 +2909,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
 - id: GD-063
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -2150,8 +2930,14 @@
     url: https://link.springer.com/article/10.1007/s10147-024-02488-1
     source_license: Open access, © 2024 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -2166,6 +2952,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
 - id: GD-064
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -2184,8 +2973,14 @@
     url: https://link.springer.com/article/10.1007/s10147-024-02488-1
     source_license: Open access, © 2024 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -2200,6 +2995,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
 - id: GD-065
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -2218,8 +3016,14 @@
     url: https://link.springer.com/article/10.1007/s10147-024-02488-1
     source_license: Open access, © 2024 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -2234,6 +3038,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
 - id: GD-066
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -2252,8 +3059,14 @@
     url: https://link.springer.com/article/10.1007/s10147-024-02488-1
     source_license: Open access, © 2024 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -2268,6 +3081,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
 - id: GD-067
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -2286,8 +3102,14 @@
     url: https://link.springer.com/article/10.1007/s10147-024-02488-1
     source_license: Open access, © 2024 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -2302,6 +3124,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
 - id: GD-068
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -2320,8 +3145,14 @@
     url: https://link.springer.com/article/10.1007/s10147-024-02488-1
     source_license: Open access, © 2024 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -2336,6 +3167,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
 - id: GD-069
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -2356,6 +3190,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -2388,8 +3228,14 @@
     url: https://link.springer.com/article/10.1007/s10147-024-02488-1
     source_license: Open access, © 2024 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -2404,6 +3250,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
 - id: GD-071
   domain: GD
   subdomain: 胃神経内分泌腫瘍
@@ -2417,13 +3266,19 @@
     source_ref: SRC-039
     source: Panzuto F, et al. ENETS 2023 guidance paper for gastroduodenal neuroendocrine tumours (NETs) G1-G3. J Neuroendocrinol 2023;35:e13306
     doi: 10.1111/jne.13306
-    pmid: null
+    pmid: '37401795'
     pmcid: null
     url: https://doi.org/10.1111/jne.13306
     source_license: Open access, © 2023 The Authors（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://creativecommons.org/licenses/by-nc-nd/4.0/
+      notes: null
   uncertainty: 本文未閲覧。抄録とPDF断片で確認した型の定義のみを記載。III型の記述は本文で要確認
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -2438,6 +3293,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → RESTRICTED（Crossref の license：http://creativecommons.org/licenses/by-nc-nd/4.0/）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 37401795 に設定（DOI 10.1111/jne.13306 から API で一意に確定）
 - id: GD-072
   domain: GD
   subdomain: 胃静脈瘤
@@ -2459,6 +3320,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: ES-R17（ES側）から胃静脈瘤の部位分類を移管。部位名の和文表記は原典で要確認
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2487,13 +3354,19 @@
     source_ref: SRC-018
     source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
     doi: 10.1007/s00535-021-01788-x
-    pmid: null
+    pmid: '34231046'
     pmcid: PMC8280040
     url: https://link.springer.com/article/10.1007/s00535-021-01788-x
     source_license: Springer OA（CC種別は未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: ES-R18（ES側）からB-RTOの記載を移管。2025年版の推奨は未確認
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-034 (id: JlAKplU)'
@@ -2508,6 +3381,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
 - id: GD-074
   domain: GD
   subdomain: 胃切除後症候群
@@ -2521,13 +3400,19 @@
     source_ref: SRC-040
     source: Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466
     doi: 10.1038/s41574-020-0357-5
-    pmid: null
+    pmid: '32457534'
     pmcid: PMC7351708
     url: https://www.nature.com/articles/s41574-020-0357-5
     source_license: CC BY 4.0（出版社ページで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2542,6 +3427,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 32457534 に設定（DOI 10.1038/s41574-020-0357-5 から API で一意に確定）
 - id: GD-075
   domain: GD
   subdomain: 胃切除後症候群
@@ -2555,13 +3443,19 @@
     source_ref: SRC-040
     source: Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466
     doi: 10.1038/s41574-020-0357-5
-    pmid: null
+    pmid: '32457534'
     pmcid: PMC7351708
     url: https://www.nature.com/articles/s41574-020-0357-5
     source_license: CC BY 4.0（出版社ページで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2576,6 +3470,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 32457534 に設定（DOI 10.1038/s41574-020-0357-5 から API で一意に確定）
 - id: GD-076
   domain: GD
   subdomain: 胃切除後症候群
@@ -2589,13 +3486,19 @@
     source_ref: SRC-040
     source: Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466
     doi: 10.1038/s41574-020-0357-5
-    pmid: null
+    pmid: '32457534'
     pmcid: PMC7351708
     url: https://www.nature.com/articles/s41574-020-0357-5
     source_license: CC BY 4.0（出版社ページで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: 頻度はコンセンサス論文が引用した値（二次資料経由）で、原著は未照合
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2610,6 +3513,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 32457534 に設定（DOI 10.1038/s41574-020-0357-5 から API で一意に確定）
 - id: GD-077
   domain: GD
   subdomain: 胃切除後症候群
@@ -2623,13 +3529,19 @@
     source_ref: SRC-040
     source: Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466
     doi: 10.1038/s41574-020-0357-5
-    pmid: null
+    pmid: '32457534'
     pmcid: PMC7351708
     url: https://www.nature.com/articles/s41574-020-0357-5
     source_license: CC BY 4.0（出版社ページで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2644,6 +3556,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 32457534 に設定（DOI 10.1038/s41574-020-0357-5 から API で一意に確定）
 - id: GD-078
   domain: GD
   subdomain: 胃切除後症候群
@@ -2657,13 +3572,19 @@
     source_ref: SRC-040
     source: Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466
     doi: 10.1038/s41574-020-0357-5
-    pmid: null
+    pmid: '32457534'
     pmcid: PMC7351708
     url: https://www.nature.com/articles/s41574-020-0357-5
     source_license: CC BY 4.0（出版社ページで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2678,6 +3599,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 32457534 に設定（DOI 10.1038/s41574-020-0357-5 から API で一意に確定）
 - id: GD-079
   domain: GD
   subdomain: 胃切除後症候群
@@ -2691,13 +3615,19 @@
     source_ref: SRC-040
     source: Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466
     doi: 10.1038/s41574-020-0357-5
-    pmid: null
+    pmid: '32457534'
     pmcid: PMC7351708
     url: https://www.nature.com/articles/s41574-020-0357-5
     source_license: CC BY 4.0（出版社ページで確認）
     legal_basis: B
     source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: アカルボースの用量は海外の記載。国内の保険適用は未確認
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2712,6 +3642,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 32457534 に設定（DOI 10.1038/s41574-020-0357-5 から API で一意に確定）
 - id: GD-080
   domain: GD
   subdomain: 胃切除後症候群
@@ -2725,13 +3658,19 @@
     source_ref: SRC-030
     source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
     doi: 10.1007/s10120-025-01698-4
-    pmid: null
-    pmcid: null
+    pmid: '41569370'
+    pmcid: PMC12956939
     url: https://link.springer.com/article/10.1007/s10120-025-01698-4
     source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: https://creativecommons.org/licenses/by/4.0
+      notes: null
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -2746,6 +3685,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: source_class UNKNOWN → OPEN（Crossref の license：https://creativecommons.org/licenses/by/4.0）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 41569370 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC12956939 に設定（DOI 10.1007/s10120-025-01698-4 から API で一意に確定）
 - id: GD-081
   domain: GD
   subdomain: 胃アニサキス症
@@ -2766,6 +3714,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2800,6 +3754,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2834,6 +3794,12 @@
     legal_basis: B
     source_class: GOV_JP
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2862,13 +3828,19 @@
     source_ref: SRC-042
     source: Sugiyama H, et al. Anisakiasis annual incidence and causative species, Japan, 2018-2019. Emerg Infect Dis 2022;28(10)
     doi: 10.3201/eid2810.220627
-    pmid: null
+    pmid: '36148963'
     pmcid: PMC9514333
     url: https://wwwnc.cdc.gov/eid/article/28/10/22-0627_article
     source_license: CDC刊行誌。記事ページにパブリックドメインの明示はなく未確認
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: ライセンス（EIDはパブリックドメインとされることが多い）は記事ページで未確認
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2883,6 +3855,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 36148963 に設定（DOI 10.3201/eid2810.220627 から API で一意に確定）
 - id: GD-085
   domain: GD
   subdomain: 胃アニサキス症
@@ -2896,13 +3871,19 @@
     source_ref: SRC-042
     source: Sugiyama H, et al. Anisakiasis annual incidence and causative species, Japan, 2018-2019. Emerg Infect Dis 2022;28(10)
     doi: 10.3201/eid2810.220627
-    pmid: null
+    pmid: '36148963'
     pmcid: PMC9514333
     url: https://wwwnc.cdc.gov/eid/article/28/10/22-0627_article
     source_license: CDC刊行誌。記事ページにパブリックドメインの明示はなく未確認
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: 本文と抄録で割合の記載が異なる（88.9%と88.4%）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2917,6 +3898,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 36148963 に設定（DOI 10.3201/eid2810.220627 から API で一意に確定）
 - id: GD-086
   domain: GD
   subdomain: 胃ポリープ
@@ -2937,6 +3921,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: 数値は総説が引用した値（二次資料経由）で、原著は未照合。GD-028（PPI長期使用と胃底腺ポリープ）と関連
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -2971,6 +3961,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: 数値は総説が引用した値（二次資料経由）で、原著は未照合。日本のH. pylori GLでの位置づけは未確認
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -3005,6 +4001,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: false
+      pmid_matched: null
+      license_from_crossref: null
+      notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
   uncertainty: 日本の胃腺腫の扱い（Ⅵ-2-D-③）は別途確認が必要
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -3040,6 +4042,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: null
+      license_from_crossref: null
+      notes: DOI は JaLC 登録（Crossref の対象外）。doi.org で解決を確認（https://www.jstage.jst.go.jp/article/gee/67/4/67_281/_article/-char/ja/）。license は未確認（source_class は現状維持）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -3075,6 +4083,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: null
+      license_from_crossref: null
+      notes: DOI は JaLC 登録（Crossref の対象外）。doi.org で解決を確認（https://www.jstage.jst.go.jp/article/gee/67/4/67_281/_article/-char/ja/）。license は未確認（source_class は現状維持）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -3110,6 +4124,12 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: null
+      license_from_crossref: null
+      notes: DOI は JaLC 登録（Crossref の対象外）。doi.org で解決を確認（https://www.jstage.jst.go.jp/article/gee/67/4/67_281/_article/-char/ja/）。license は未確認（source_class は現状維持）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -3138,13 +4158,19 @@
     source_ref: SRC-045
     source: Cook D, et al. Stress ulcer prophylaxis during invasive mechanical ventilation (REVISE). N Engl J Med 2024
     doi: 10.1056/NEJMoa2404245
-    pmid: null
+    pmid: '38875111'
     pmcid: null
     url: https://www.nejm.org/doi/full/10.1056/NEJMoa2404245
     source_license: 非CC（NEJM）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: http://www.nejmgroup.org/legal/terms-of-use.htm
+      notes: null
   uncertainty: 数値（出血1.0%対3.5%、HR 0.30；90日死亡29.1%対30.9%、HR 0.94、解析4,821例）は二次資料（ACP Journal Club、The Bottom Line）経由のため主張文に含めない。巻・頁とPMIDは未確認
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -3159,6 +4185,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 38875111 に設定（DOI 10.1056/NEJMoa2404245 から API で一意に確定）
 - id: GD-093
   domain: GD
   subdomain: 胃・十二指腸憩室
@@ -3173,12 +4202,18 @@
     source: 'Rizwan MM, et al. Duodenal diverticulum and associated pancreatitis: case report with brief review of literature. World J Gastrointest Endosc 2011;3(3):62-63'
     doi: 10.4253/wjge.v3.i3.62
     pmid: '21455344'
-    pmcid: null
+    pmcid: PMC3066647
     url: https://www.wjgnet.com/1948-5190/full/v3/i3/62.htm
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: 数値はレビューが引用した値（二次資料経由）で、原著は未照合
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -3193,6 +4228,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC3066647 に設定（DOI 10.4253/wjge.v3.i3.62 から API で一意に確定）
 - id: GD-094
   domain: GD
   subdomain: 胃・十二指腸憩室
@@ -3207,12 +4245,18 @@
     source: 'Rizwan MM, et al. Duodenal diverticulum and associated pancreatitis: case report with brief review of literature. World J Gastrointest Endosc 2011;3(3):62-63'
     doi: 10.4253/wjge.v3.i3.62
     pmid: '21455344'
-    pmcid: null
+    pmcid: PMC3066647
     url: https://www.wjgnet.com/1948-5190/full/v3/i3/62.htm
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: 死亡率は引用された症例集積の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -3227,6 +4271,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC3066647 に設定（DOI 10.4253/wjge.v3.i3.62 から API で一意に確定）
 - id: GD-095
   domain: GD
   subdomain: 胃・十二指腸憩室
@@ -3240,13 +4287,19 @@
     source_ref: SRC-047
     source: 'Ergüder E, et al. Lemmel syndrome: a single-center cohort and diagnostic considerations. Turk J Surg 2026;42(2):214-219'
     doi: 10.47717/turkjsurg.2026.2025-11-25
-    pmid: null
-    pmcid: null
+    pmid: '42100946'
+    pmcid: PMC13237573
     url: https://turkjsurg.com/articles/doi/turkjsurg.2026.2025-11-25
     source_license: © Galenos Publishing House（ライセンス種別は未確認）
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
+    id_check:
+      checked_at: '2026-10-13'
+      doi_resolved: true
+      pmid_matched: true
+      license_from_crossref: null
+      notes: Crossrefに license の記載なし（source_class は現状維持）
   uncertainty: ライセンス種別は未確認。同論文の有病率の引用には不整合があるため数値は採用しない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
@@ -3261,3 +4314,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmid を 42100946 に設定（DOI 10.47717/turkjsurg.2026.2025-11-25 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: pmcid を PMC13237573 に設定（DOI 10.47717/turkjsurg.2026.2025-11-25 から API で一意に確定）
