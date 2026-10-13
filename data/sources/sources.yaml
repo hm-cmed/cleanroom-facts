@@ -703,3 +703,258 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-048
+  legacy_id: null
+  title: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
+  citation: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
+  doi: 10.1007/s00535-021-01784-1
+  pmid: null
+  pmcid: null
+  license_note: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/03_intestine.md の出典マスター表から
+- id: SRC-049
+  legacy_id: null
+  title: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+  citation: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+  doi: 10.1007/s00535-020-01746-z
+  pmid: null
+  pmcid: null
+  license_note: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/03_intestine.md の出典マスター表から
+- id: SRC-050
+  legacy_id: null
+  title: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
+  citation: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
+  doi: 10.1159/000540912
+  pmid: '39159626'
+  pmcid: null
+  license_note: CC BY-NC（記事ページの許諾リンクの表示による）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/03_intestine.md の出典マスター表から
+- id: SRC-051
+  legacy_id: null
+  title: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
+  citation: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
+  doi: 10.1007/s00535-021-01776-1
+  pmid: null
+  pmcid: null
+  license_note: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/03_intestine.md の出典マスター表から
+- id: SRC-052
+  legacy_id: null
+  title: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
+  citation: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
+  doi: 10.1007/s10147-025-02899-8
+  pmid: null
+  pmcid: null
+  license_note: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/03_intestine.md の出典マスター表から
+- id: SRC-053
+  legacy_id: null
+  title: 国立がん研究センター がん情報サービス 大腸（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）
+  citation: 国立がん研究センター がん情報サービス 大腸（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 元データは政府統計。サイト利用規約は人間が確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/03_intestine.md の出典マスター表から
+- id: SRC-054
+  legacy_id: null
+  title: National Cancer Institute. Genetics of Colorectal Cancer (PDQ)–Health Professional Version（最終更新 2025-03-21）
+  citation: National Cancer Institute. Genetics of Colorectal Cancer (PDQ)–Health Professional Version（最終更新 2025-03-21）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府著作物（PDQは原則パブリックドメイン。第三者の図表は除く）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/03_intestine.md の出典マスター表から
+- id: SRC-055
+  legacy_id: null
+  title: 難病情報センター『潰瘍性大腸炎（指定難病97）』（情報更新 令和7年11月）
+  citation: 難病情報センター『潰瘍性大腸炎（指定難病97）』（情報更新 令和7年11月）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © 公益財団法人 難病医学研究財団（利用規約は未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/03_intestine.md の出典マスター表から
+- id: SRC-056
+  legacy_id: null
+  title: 難病情報センター『クローン病（指定難病96）』（情報更新 令和7年11月）
+  citation: 難病情報センター『クローン病（指定難病96）』（情報更新 令和7年11月）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © 公益財団法人 難病医学研究財団（利用規約は未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/03_intestine.md の出典マスター表から
+- id: SRC-057
+  legacy_id: null
+  title: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
+  citation: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
+  doi: 10.1159/000495282
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/03_intestine.md の出典マスター表から
+- id: SRC-058
+  legacy_id: null
+  title: 厚生労働省『腸管出血性大腸菌Q&A』（最終改訂 令和3年12月17日）
+  citation: 厚生労働省『腸管出血性大腸菌Q&A』（最終改訂 令和3年12月17日）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/03_intestine.md の出典マスター表から
+- id: SRC-059
+  legacy_id: null
+  title: 厚生労働省『カンピロバクター食中毒予防について（Q&A）』（最終改訂 令和8年5月27日）
+  citation: 厚生労働省『カンピロバクター食中毒予防について（Q&A）』（最終改訂 令和8年5月27日）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/03_intestine.md の出典マスター表から
+- id: SRC-060
+  legacy_id: null
+  title: 厚生労働省『ノロウイルスに関するQ&A』（最終改定 令和3年11月19日）
+  citation: 厚生労働省『ノロウイルスに関するQ&A』（最終改定 令和3年11月19日）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/03_intestine.md の出典マスター表から
+- id: SRC-061
+  legacy_id: null
+  title: 'CDC. C. diff: Facts for Clinicians（2026-04-13更新）'
+  citation: 'CDC. C. diff: Facts for Clinicians（2026-04-13更新）'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府著作物（第三者素材を除く）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/03_intestine.md の出典マスター表から
+- id: SRC-062
+  legacy_id: null
+  title: Johnson S, et al. IDSA/SHEA 2021 Focused Update Guidelines on Management of Clostridioides difficile Infection in Adults. Clin Infect Dis 2021;73:e1029-e1044
+  citation: Johnson S, et al. IDSA/SHEA 2021 Focused Update Guidelines on Management of Clostridioides difficile Infection in Adults. Clin Infect Dis 2021;73:e1029-e1044
+  doi: 10.1093/cid/ciab549
+  pmid: null
+  pmcid: null
+  license_note: © IDSA, All rights reserved（複製・翻案は事前許諾が必要と明記）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/03_intestine.md の出典マスター表から
+- id: SRC-063
+  legacy_id: null
+  title: NIDDK. Definition & Facts for Celiac Disease（最終レビュー 2020年10月）
+  citation: NIDDK. Definition & Facts for Celiac Disease（最終レビュー 2020年10月）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府著作物（第三者素材を除く）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/03_intestine.md の出典マスター表から
+- id: SRC-064
+  legacy_id: null
+  title: NIDDK. Definition & Facts of Hemorrhoids（最終レビュー 2016年10月）
+  citation: NIDDK. Definition & Facts of Hemorrhoids（最終レビュー 2016年10月）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府著作物（第三者素材を除く）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/03_intestine.md の出典マスター表から
