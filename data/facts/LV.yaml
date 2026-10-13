@@ -33,7 +33,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -45,6 +45,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-002
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -79,7 +85,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -91,6 +97,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-003
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -125,7 +137,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -137,6 +149,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-004
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -171,7 +189,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -183,6 +201,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-005
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -217,7 +241,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -229,6 +253,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-006
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -263,7 +293,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -275,6 +305,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-007
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -309,7 +345,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -321,6 +357,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-008
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -356,7 +398,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -368,6 +410,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-009
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -402,7 +450,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -414,6 +462,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-010
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -448,7 +502,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -460,6 +514,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-011
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -495,7 +555,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -507,6 +567,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-012
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -541,7 +607,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -553,6 +619,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-013
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -588,7 +660,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -600,6 +672,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-014
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -634,7 +712,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -646,6 +724,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-015
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -680,7 +764,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -692,6 +776,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-016
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -726,7 +816,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -738,6 +828,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-017
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -772,7 +868,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -784,6 +880,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-018
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -819,7 +921,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -831,6 +933,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-019
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -865,7 +973,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -877,6 +985,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-020
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -911,7 +1025,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -923,6 +1037,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-021
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -957,7 +1077,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -969,6 +1089,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-022
   domain: LV
   subdomain: 肝硬変とその合併症
@@ -1003,7 +1129,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1015,6 +1141,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34231046 に設定（DOI 10.1007/s00535-021-01788-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-023
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1050,7 +1182,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1059,6 +1191,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-024
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1093,7 +1231,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1102,6 +1240,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-025
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1136,7 +1280,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1145,11 +1289,17 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-026
   domain: LV
   subdomain: NAFLD/NASH・MASLD
   assertion:
-    plain_statement_ja: 日本のNAFLD/NASH診療ガイドライン2020の一次スクリーニングの流れ図では、FIB-4 indexが1.3未満を低リスク、1.3〜3.25を中間リスク、3.25を超えるものを高リスクとしている。
+    plain_statement_ja: 日本のNAFLD/NASH診療ガイドライン2020は、FIB-4 indexによる線維化評価の流れ図を2つ示している。一般医による一次スクリーニングでは1.3未満を低リスク、1.3〜3.25を中間リスク、3.25を超えるものを高リスクとし、消化器専門医による二次スクリーニングでは1.3未満を低リスク、1.3〜2.66を中等度線維化の疑い、2.67以上を高度線維化の疑いとする。
     condition:
       guideline: JSGE/JSH NAFLD/NASH GL 2020
     differential: 高齢者ではFIB-4が高く出やすい
@@ -1171,7 +1321,7 @@
       pmid_matched: true
       license_from_crossref: https://creativecommons.org/licenses/by/4.0
       notes: null
-  uncertainty: 同GLの二次の流れ図では高度線維化の目安を2.67以上としており、閾値が流れ図によって異なる
+  uncertainty: low（GL本文で照合）。NAFLD/MASLD では高度線維化の目安として 2.67 が広く用いられ、1.45・3.25 は C 型肝炎で用いられる閾値である。65歳以上で低リスクの閾値を 2.0 とする年齢調整は、このGL本文では確認していない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)'
     kokushi: 医学各論 Ⅵ-6-E-②（脂肪肝、a）
@@ -1179,7 +1329,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1188,6 +1338,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：調査レポート第7節4の依頼。GL本文に2つの流れ図があり閾値が異なることを確認し、一方だけを記していた主張文を両方を示す文に差し替えた。人間の指摘（NAFLD の高リスクは 2.67）とも一致。変更項目：assertion.plain_statement_ja, uncertainty。根拠：JSGE NAFLD/NASH GL 2020 本文（PMC8531062）：Fig. 1（一般医による一次スクリーニング、Castera らに準拠）は FIB-4 <1.3／1.3–3.25／>3.25、Fig. 2（消化器専門医による二次スクリーニング）は <1.3／1.3–2.66／≥2.67；人間（消化器内科医）のチャットでの指摘（2026-10-13）：NAFLD/MASLD の高リスクは >2.67、低リスクは <1.30（年齢調整 <2.00）、HCV では 1.45／3.25
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-027
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1222,7 +1381,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1231,6 +1390,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-028
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1265,7 +1430,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1274,6 +1439,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-029
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1309,7 +1480,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1318,6 +1489,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-030
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1352,7 +1529,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1361,6 +1538,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-031
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1395,7 +1578,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1404,6 +1587,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-032
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1438,7 +1627,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1447,6 +1636,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-033
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1481,7 +1676,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1490,6 +1685,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-034
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1524,7 +1725,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1533,6 +1734,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 34533632 に設定（DOI 10.1007/s00535-021-01796-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-035
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1567,7 +1774,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1576,6 +1783,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 37364790 に設定（DOI 10.1016/j.jhep.2023.06.003 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-036
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1602,7 +1815,7 @@
       pmid_matched: true
       license_from_crossref: http://creativecommons.org/licenses/by-nc-nd/4.0/
       notes: null
-  uncertainty: null
+  uncertainty: low（論文の図で照合）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)'
     kokushi: 医学各論 Ⅵ-6-E-②（脂肪肝、a）
@@ -1610,7 +1823,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1619,6 +1832,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 37364790 に設定（DOI 10.1016/j.jhep.2023.06.003 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：心代謝系基準の数値を論文の図で確認し、uncertainty を更新。変更項目：uncertainty。根拠：Rinella ME, Hepatology 2023;78:1966-1986（PMC10653297）Figure 6 の成人の心代謝系基準（J Hepatol 版と同一内容）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-037
   domain: LV
   subdomain: NAFLD/NASH・MASLD
@@ -1653,7 +1875,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -1662,6 +1884,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 37364790 に設定（DOI 10.1016/j.jhep.2023.06.003 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-038
   domain: LV
   subdomain: 肝細胞癌
@@ -1682,7 +1910,7 @@
     source_license: © The Japan Society of Hepatology. All Rights Reserved
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 雑誌掲載版（要約）：Hasegawa K, et al. Hepatol Res 2023;53:383-390（PMID 36826411、DOI 10.1111/hepr.13892）
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: false
@@ -1697,12 +1925,21 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：JSH 肝癌診療GL 2021 の雑誌掲載版を PubMed で特定し、関連文献として記録（調査レポート第7節2）。カードの出典は全文の PDF のまま。変更項目：provenance.corroboration。根拠：JSH 肝癌診療GL 2021 英語版 PDF（第1〜3分冊）本文
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-039
   domain: LV
   subdomain: 肝細胞癌
@@ -1738,12 +1975,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-040
   domain: LV
   subdomain: 肝細胞癌
@@ -1779,12 +2022,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-041
   domain: LV
   subdomain: 肝細胞癌
@@ -1819,12 +2068,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-042
   domain: LV
   subdomain: 肝細胞癌
@@ -1852,7 +2107,7 @@
       pmid_matched: null
       license_from_crossref: null
       notes: 識別子なし。Crossref の候補 3 件を proposals/id_candidates.csv に出力
-  uncertainty: null
+  uncertainty: GL の序文は非B非C型が約50%に達しつつあるとし、別の章は2015年以降の新規発症で30〜40%としており、GL内で記載に幅がある
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)'
     kokushi: 医学各論 Ⅵ-6-C-①（肝細胞癌、a）
@@ -1860,12 +2115,21 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：GL本文の別の箇所との記載の幅を明記。変更項目：uncertainty。根拠：JSH 肝癌診療GL 2021 英語版 PDF（第1〜3分冊）本文
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-043
   domain: LV
   subdomain: 肝細胞癌
@@ -1901,12 +2165,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-044
   domain: LV
   subdomain: 肝細胞癌
@@ -1942,12 +2212,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-045
   domain: LV
   subdomain: 肝細胞癌
@@ -1983,12 +2259,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-046
   domain: LV
   subdomain: 肝細胞癌
@@ -2023,12 +2305,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-047
   domain: LV
   subdomain: 肝細胞癌
@@ -2063,12 +2351,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-048
   domain: LV
   subdomain: 肝細胞癌
@@ -2103,12 +2397,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-049
   domain: LV
   subdomain: 肝細胞癌
@@ -2144,12 +2444,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-050
   domain: LV
   subdomain: 肝細胞癌
@@ -2185,12 +2491,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-051
   domain: LV
   subdomain: 肝細胞癌
@@ -2226,12 +2538,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-052
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2266,12 +2584,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-053
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2306,12 +2630,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-054
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2347,12 +2677,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-055
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2387,12 +2723,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-056
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2427,12 +2769,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-057
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2467,12 +2815,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-058
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2507,12 +2861,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-059
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2547,12 +2907,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-060
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2587,12 +2953,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-061
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2627,12 +2999,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-062
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2668,12 +3046,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-063
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2708,12 +3092,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-064
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2748,12 +3138,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-065
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2789,12 +3185,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-066
   domain: LV
   subdomain: 体質性黄疸
@@ -2829,12 +3231,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-067
   domain: LV
   subdomain: 体質性黄疸
@@ -2869,12 +3277,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-068
   domain: LV
   subdomain: 急性肝不全
@@ -2895,14 +3309,14 @@
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: Mochida S, Hepatol Res 2011;41:805-812（PMID 21884340）
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
       pmid_matched: true
       license_from_crossref: null
       notes: Crossrefに license の記載なし（source_class は現状維持）
-  uncertainty: 診断基準の表そのものは総説の本文で確認できず、本文の記述から再構成した
+  uncertainty: low（2011年基準の原典の抄録で照合）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-287 (id: Jlvnl6g)'
     kokushi: 医学各論 Ⅵ-6-B-②（劇症肝炎、a）
@@ -2910,7 +3324,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2919,11 +3333,20 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 22825549 に設定（DOI 10.1007/s00535-012-0624-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：診断基準の原典を PubMed で特定し、抄録で定義（PT 40%以下または INR 1.5以上、8週以内、アルコール性などの acute-on-chronic は除外）を確認。変更項目：uncertainty, provenance.corroboration。根拠：Mochida S, Hepatol Res 2011;41:805-812（PMID 21884340）の抄録：昏睡型は発症から昏睡Ⅱ度以上まで10日以内が急性型、11〜56日が亜急性型
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-069
   domain: LV
   subdomain: 急性肝不全
   assertion:
-    plain_statement_ja: 日本の急性肝不全は、肝性脳症のない非昏睡型と、昏睡型に分けられ、昏睡型は症状出現から脳症までの期間で急性型と亜急性型に分けられる。症状出現から8〜24週で、PT 40%以下またはINR 1.5以上かつ昏睡Ⅱ度以上の脳症を生じるものは遅発性肝不全（LOHF）とする。
+    plain_statement_ja: 日本の急性肝不全は、肝性脳症のない非昏睡型と昏睡型に分けられ、昏睡型は症状出現から昏睡Ⅱ度以上の脳症までが10日以内の急性型と、11〜56日の亜急性型に分けられる。症状出現から8〜24週で、PT 40%以下またはINR 1.5以上かつ昏睡Ⅱ度以上の脳症を生じるものは遅発性肝不全（LOHF）とする。
     condition:
       region: 日本
       criteria: 厚労省研究班 2011
@@ -2939,14 +3362,14 @@
     source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 急性型・亜急性型の日数は Mochida S, Hepatol Res 2011;41:805-812（PMID 21884340）
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
       pmid_matched: true
       license_from_crossref: null
       notes: Crossrefに license の記載なし（source_class は現状維持）
-  uncertainty: 急性型・亜急性型を分ける日数（10日）は従来の劇症肝炎の基準として記載されており、2011年基準での日数は総説本文で確認できなかった
+  uncertainty: low（日数は2011年基準の原典の抄録で照合）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-287 (id: Jlvnl6g)；TBL-01-00-297 (id: Jlvnl6s)'
     kokushi: 医学各論 Ⅵ-6-B-②（劇症肝炎、a）
@@ -2954,7 +3377,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -2963,6 +3386,15 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 22825549 に設定（DOI 10.1007/s00535-012-0624-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：調査レポート第7節5の依頼。2011年基準の原典の抄録で、急性型と亜急性型を分ける日数（10日以内／11〜56日）を確認し、主張文に加えた。変更項目：assertion.plain_statement_ja, provenance.corroboration, uncertainty。根拠：Mochida S, Hepatol Res 2011;41:805-812（PMID 21884340）の抄録：昏睡型は発症から昏睡Ⅱ度以上まで10日以内が急性型、11〜56日が亜急性型
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-070
   domain: LV
   subdomain: 急性肝不全
@@ -2998,7 +3430,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -3007,6 +3439,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 22825549 に設定（DOI 10.1007/s00535-012-0624-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-071
   domain: LV
   subdomain: 急性肝不全
@@ -3042,7 +3480,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -3051,6 +3489,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmid を 22825549 に設定（DOI 10.1007/s00535-012-0624-x から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-072
   domain: LV
   subdomain: 寄生虫性肝疾患
@@ -3085,12 +3529,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-073
   domain: LV
   subdomain: 寄生虫性肝疾患
@@ -3125,12 +3575,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-074
   domain: LV
   subdomain: 自己免疫性肝疾患
@@ -3166,12 +3622,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-075
   domain: LV
   subdomain: 自己免疫性肝疾患
@@ -3206,12 +3668,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-076
   domain: LV
   subdomain: 自己免疫性肝疾患
@@ -3247,12 +3715,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-077
   domain: LV
   subdomain: 自己免疫性肝疾患
@@ -3287,12 +3761,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-078
   domain: LV
   subdomain: 自己免疫性肝疾患
@@ -3327,12 +3807,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-079
   domain: LV
   subdomain: 自己免疫性肝疾患
@@ -3368,12 +3854,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-080
   domain: LV
   subdomain: 自己免疫性肝疾患
@@ -3409,12 +3901,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-081
   domain: LV
   subdomain: 自己免疫性肝疾患
@@ -3449,12 +3947,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-082
   domain: LV
   subdomain: 自己免疫性肝疾患
@@ -3489,12 +3993,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-083
   domain: LV
   subdomain: 自己免疫性肝疾患
@@ -3529,12 +4039,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-084
   domain: LV
   subdomain: 代謝性肝疾患
@@ -3569,12 +4085,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-085
   domain: LV
   subdomain: 代謝性肝疾患
@@ -3610,12 +4132,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-086
   domain: LV
   subdomain: 代謝性肝疾患
@@ -3650,12 +4178,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-087
   domain: LV
   subdomain: 代謝性肝疾患
@@ -3691,12 +4225,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-088
   domain: LV
   subdomain: 代謝性肝疾患
@@ -3731,12 +4271,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-089
   domain: LV
   subdomain: 肝の血管性疾患
@@ -3772,12 +4318,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-090
   domain: LV
   subdomain: 肝の血管性疾患
@@ -3812,12 +4364,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-091
   domain: LV
   subdomain: 肝の血管性疾患
@@ -3845,7 +4403,7 @@
       pmid_matched: null
       license_from_crossref: null
       notes: 識別子なし（公的資料・企業資料・和文資料、または出典未取得）。Crossref 検索の対象外
-  uncertainty: 出典には男女比「約7:3」とあるが、どちらが7かが本文の記載から読み取りにくいため主張文に入れていない
+  uncertainty: 出典PDFは「男女比は約7:3」と「中年女性に多発」の両方を記しており、比の向きが本文内で整合しないため、比は主張文に入れていない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-296 (id: Jlvnl6k)'
     kokushi: 医学各論 Ⅵ-6-D-①（門脈圧亢進症、a）
@@ -3853,12 +4411,21 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: 内容照合による修正（人間が2026-10-13にチャットで委任）：調査レポート第7節10の依頼。原文を確認したが、比の向きは本文内で整合しなかったため主張文は変えず、その旨を明記。変更項目：uncertainty。根拠：厚労省 指定難病92 特発性門脈圧亢進症 概要 PDF
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-092
   domain: LV
   subdomain: 肝の血管性疾患
@@ -3893,12 +4460,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-093
   domain: LV
   subdomain: 体質性黄疸
@@ -3933,12 +4506,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-094
   domain: LV
   subdomain: 体質性黄疸
@@ -3973,12 +4552,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-095
   domain: LV
   subdomain: 薬物性肝障害
@@ -4013,7 +4598,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -4025,6 +4610,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC2773872 に設定（DOI 10.3748/wjg.14.6774 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-096
   domain: LV
   subdomain: 薬物性肝障害
@@ -4059,7 +4650,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -4071,6 +4662,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC2773872 に設定（DOI 10.3748/wjg.14.6774 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-097
   domain: LV
   subdomain: 薬物性肝障害
@@ -4105,7 +4702,7 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
@@ -4117,6 +4714,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: pmcid を PMC2773872 に設定（DOI 10.3748/wjg.14.6774 から API で一意に確定）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-098
   domain: LV
   subdomain: ウイルス性肝炎
@@ -4152,12 +4755,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-099
   domain: LV
   subdomain: ウイルス性肝炎
@@ -4193,12 +4802,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-100
   domain: LV
   subdomain: ウイルス性肝炎
@@ -4234,12 +4849,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-101
   domain: LV
   subdomain: ウイルス性肝炎
@@ -4275,12 +4896,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-102
   domain: LV
   subdomain: ウイルス性肝炎
@@ -4316,12 +4943,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-103
   domain: LV
   subdomain: 肝膿瘍
@@ -4357,12 +4990,18 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
 - id: LV-104
   domain: LV
   subdomain: 肝膿瘍
@@ -4397,9 +5036,15 @@
     created: '2026-10-13'
     verifier: null
     verified_at: null
-    status: draft
+    status: verified_sources
     superseded_by: null
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-13'
+    by: claude-code
+    change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・学会資料は、ページ・PDF本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
