@@ -28,7 +28,7 @@
   uncertainty: GLの「22万人以上・7万人以上」は医療受給者証の交付数にもとづく値。難病情報センターの令和5年度の受給者証所持者数（IN-011：146,702人、IN-014：52,108人）とは集計の時点・基準が異なる
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-273 (id: Jlvnl3w)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）；医学各論 Ⅵ-3-B-④（Crohn病、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -54,6 +54,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-002
   domain: IN
   subdomain: 炎症性腸疾患
@@ -83,7 +86,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-273 (id: Jlvnl3w)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）；医学各論 Ⅵ-3-B-④（Crohn病、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -106,6 +109,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-003
   domain: IN
   subdomain: 炎症性腸疾患
@@ -134,7 +140,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-02-07-030 (id: JlAKplE)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -157,6 +163,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-004
   domain: IN
   subdomain: 炎症性腸疾患
@@ -186,7 +195,7 @@
   uncertainty: low（部分Mayoスコアの構成項目と区分をGL本文で照合）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -212,6 +221,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-005
   domain: IN
   subdomain: 炎症性腸疾患
@@ -240,7 +252,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-④（Crohn病、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -263,6 +275,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-006
   domain: IN
   subdomain: 炎症性腸疾患
@@ -292,7 +307,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-273 (id: Jlvnl3w)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）；医学各論 Ⅵ-3-B-④（Crohn病、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -315,6 +330,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-007
   domain: IN
   subdomain: 炎症性腸疾患
@@ -344,7 +362,7 @@
   uncertainty: 製剤によって高用量の上乗せ効果の報告は一致していない（GL本文の解説）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -367,6 +385,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-008
   domain: IN
   subdomain: 炎症性腸疾患
@@ -396,7 +417,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-650 (id: Jlvnmc0)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -419,6 +440,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-009
   domain: IN
   subdomain: 炎症性腸疾患
@@ -448,7 +472,7 @@
   uncertainty: 診断率と滞留率はGLが引用した値（二次資料経由）で、原著は未照合
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)；TBL-02-07-030 (id: JlAKplE)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-④（Crohn病、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -471,6 +495,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-010
   domain: IN
   subdomain: 炎症性腸疾患
@@ -500,7 +527,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)；TBL-02-07-029 (id: JlAKplA)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-④（Crohn病、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -523,6 +550,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-011
   domain: IN
   subdomain: 炎症性腸疾患
@@ -553,7 +583,7 @@
   uncertainty: '出典の利用規約が未確認（source_class: UNKNOWN）'
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -567,6 +597,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-012
   domain: IN
   subdomain: 炎症性腸疾患
@@ -595,7 +628,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-030 (id: JlAKplE)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -609,6 +642,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-013
   domain: IN
   subdomain: 炎症性腸疾患
@@ -637,7 +673,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -651,6 +687,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-014
   domain: IN
   subdomain: 炎症性腸疾患
@@ -681,7 +720,7 @@
   uncertainty: '出典の利用規約が未確認（source_class: UNKNOWN）'
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-④（Crohn病、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -695,6 +734,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-015
   domain: IN
   subdomain: 炎症性腸疾患
@@ -723,7 +765,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-④（Crohn病、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -737,6 +779,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-016
   domain: IN
   subdomain: 炎症性腸疾患
@@ -766,7 +811,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)；TBL-02-07-032 (id: JlAKplM)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-④（Crohn病、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -780,6 +825,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-017
   domain: IN
   subdomain: 過敏性腸症候群
@@ -809,7 +857,7 @@
   uncertainty: GLが引用した国際調査の値（二次資料経由）で、原著は未照合
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -832,6 +880,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-018
   domain: IN
   subdomain: 過敏性腸症候群
@@ -860,7 +911,7 @@
   uncertainty: 数値はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -883,6 +934,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-019
   domain: IN
   subdomain: 過敏性腸症候群
@@ -911,7 +965,7 @@
   uncertainty: 数値はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-270 (id: Jlvnl4s)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -934,6 +988,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-020
   domain: IN
   subdomain: 過敏性腸症候群
@@ -962,7 +1019,7 @@
   uncertainty: 追跡研究の数値はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-021 (id: JlAKpkY)；TBL-02-07-022 (id: JlAKpkc)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -985,6 +1042,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-021
   domain: IN
   subdomain: 過敏性腸症候群
@@ -1014,7 +1074,7 @@
   uncertainty: GL解説が引用する器質的病変の頻度（30.3%）は、対象と定義を原著で確認していないため主張文に入れていない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-030 (id: JlAKplE)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1037,6 +1097,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-022
   domain: IN
   subdomain: 過敏性腸症候群
@@ -1066,7 +1129,7 @@
   uncertainty: 頻度はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1089,6 +1152,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-023
   domain: IN
   subdomain: 過敏性腸症候群
@@ -1119,7 +1185,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1142,6 +1208,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-024
   domain: IN
   subdomain: 過敏性腸症候群
@@ -1171,7 +1240,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1194,6 +1263,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-025
   domain: IN
   subdomain: 過敏性腸症候群
@@ -1223,7 +1295,7 @@
   uncertainty: 水溶性と不溶性の区別についての記載は、GL本文で一文ずつは照合していない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1246,6 +1318,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-026
   domain: IN
   subdomain: 過敏性腸症候群
@@ -1275,7 +1350,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1298,6 +1373,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-027
   domain: IN
   subdomain: 慢性便秘症
@@ -1328,7 +1406,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1345,6 +1423,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-028
   domain: IN
   subdomain: 慢性便秘症
@@ -1374,7 +1455,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1391,6 +1472,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-029
   domain: IN
   subdomain: 慢性便秘症
@@ -1420,7 +1504,7 @@
   uncertainty: 数値はGLが引用した調査の値（二次資料経由）で、原著は未照合
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1437,6 +1521,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-030
   domain: IN
   subdomain: 慢性便秘症
@@ -1466,7 +1553,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1483,6 +1570,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-031
   domain: IN
   subdomain: 慢性便秘症
@@ -1512,7 +1602,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1529,6 +1619,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-032
   domain: IN
   subdomain: 慢性便秘症
@@ -1558,7 +1651,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1575,6 +1668,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-033
   domain: IN
   subdomain: 慢性便秘症
@@ -1604,7 +1700,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1621,6 +1717,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-034
   domain: IN
   subdomain: 慢性便秘症
@@ -1651,7 +1750,7 @@
   uncertainty: 各薬剤の推奨の強さとエビデンスレベルは今回は取得できていない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1668,6 +1767,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-035
   domain: IN
   subdomain: 慢性便秘症
@@ -1698,7 +1800,7 @@
   uncertainty: 承認状況はGL作成時点。最新の添付文書で確認が必要
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1715,6 +1817,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-036
   domain: IN
   subdomain: 大腸ポリープ
@@ -1744,7 +1849,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)；TBL-02-07-033 (id: JlAKplQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-C-①（大腸ポリープ、大腸腺腫、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1764,6 +1869,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-037
   domain: IN
   subdomain: 大腸ポリープ
@@ -1793,7 +1901,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)；TBL-02-07-033 (id: JlAKplQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-C-①（大腸ポリープ、大腸腺腫、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1813,6 +1921,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-038
   domain: IN
   subdomain: 大腸ポリープ
@@ -1842,7 +1953,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-C-①（大腸ポリープ、大腸腺腫、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1862,6 +1973,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-039
   domain: IN
   subdomain: 大腸ポリープ
@@ -1891,7 +2005,7 @@
   uncertainty: SSA/Pの癌化率（1.5〜20%）はGLが引用した幅の広い値（二次資料経由）のため主張文に入れていない。WHO分類第5版の名称（SSL）との対応も確認が必要
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-C-①（大腸ポリープ、大腸腺腫、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1911,6 +2025,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-040
   domain: IN
   subdomain: 大腸ポリープ
@@ -1940,7 +2057,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)；TBL-02-07-033 (id: JlAKplQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-C-①（大腸ポリープ、大腸腺腫、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -1960,6 +2077,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-041
   domain: IN
   subdomain: 大腸ポリープ
@@ -1990,7 +2110,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)；TBL-02-07-030 (id: JlAKplE)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-C-①（大腸ポリープ、大腸腺腫、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2010,6 +2130,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-042
   domain: IN
   subdomain: 大腸ポリープ
@@ -2039,7 +2162,7 @@
   uncertainty: 再発率はGLが引用した値（二次資料経由）で、原著は未照合
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-033 (id: JlAKplQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2059,6 +2182,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-043
   domain: IN
   subdomain: 大腸ポリープ
@@ -2137,7 +2263,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-C-①（大腸ポリープ、大腸腺腫、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2157,6 +2283,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-045
   domain: IN
   subdomain: 大腸ポリープ
@@ -2239,7 +2368,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-033 (id: JlAKplQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2259,6 +2388,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-047
   domain: IN
   subdomain: 大腸癌
@@ -2288,7 +2420,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-033 (id: JlAKplQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2308,6 +2440,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-048
   domain: IN
   subdomain: 大腸癌
@@ -2337,7 +2472,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2357,6 +2492,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-049
   domain: IN
   subdomain: 大腸癌
@@ -2387,7 +2525,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-4-C-①（直腸癌、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2407,6 +2545,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-050
   domain: IN
   subdomain: 大腸癌
@@ -2436,7 +2577,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-4-C-①（直腸癌、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2456,6 +2597,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-051
   domain: IN
   subdomain: 大腸癌
@@ -2486,7 +2630,7 @@
   uncertainty: 保険適用の範囲は改定で変わりうる
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2506,6 +2650,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-052
   domain: IN
   subdomain: 大腸癌
@@ -2535,7 +2682,7 @@
   uncertainty: GLが引用した値（二次資料経由）で、原著は未照合
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-4-C-①（直腸癌、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2555,6 +2702,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-053
   domain: IN
   subdomain: 大腸癌
@@ -2585,7 +2735,7 @@
   uncertainty: GLが引用した大腸癌研究会の全国登録の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2605,6 +2755,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-054
   domain: IN
   subdomain: 大腸癌
@@ -2635,7 +2788,7 @@
   uncertainty: ganjoho.jp の利用規約は人間が確認する
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2649,6 +2802,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-055
   domain: IN
   subdomain: 大腸癌
@@ -2679,7 +2835,7 @@
   uncertainty: ganjoho.jp の利用規約は人間が確認する
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2693,6 +2849,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-056
   domain: IN
   subdomain: 大腸癌
@@ -2723,7 +2882,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-020 (id: JlAKpkk)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2737,6 +2896,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-057
   domain: IN
   subdomain: 大腸癌
@@ -2766,7 +2928,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-686 (id: JlvnmgI)；TBL-01-00-684 (id: Jlvnmf8)'
-    kokushi: 医学各論 Ⅵ-5-B-③（消化管ポリポーシス、b）
+    kokushi: 医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-5-B-③（消化管ポリポーシス、b）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2780,6 +2942,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：医学各論 Ⅵ-5-B-③（消化管ポリポーシス、b）
 - id: IN-058
   domain: IN
   subdomain: 大腸癌
@@ -2810,7 +2975,7 @@
   uncertainty: 日本での運用（保険適用の範囲など）は別途確認が必要
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-686 (id: JlvnmgI)；TBL-01-00-650 (id: Jlvnmc0)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-C-②（結腸癌、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2824,6 +2989,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-059
   domain: IN
   subdomain: 大腸癌
@@ -2896,7 +3064,7 @@
   uncertainty: 数値はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-262 (id: Jlvnl38)；TBL-01-00-263 (id: Jlvnl4E)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2913,6 +3081,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-061
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -2942,7 +3113,7 @@
   uncertainty: 数値はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-262 (id: Jlvnl38)；TBL-01-00-263 (id: Jlvnl4E)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2959,6 +3130,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-062
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -2988,7 +3162,7 @@
   uncertainty: 再出血率はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)；TBL-02-07-020 (id: JlAKpkk)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3005,6 +3179,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-063
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -3035,7 +3212,7 @@
   uncertainty: 数値はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3052,6 +3229,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-064
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -3081,7 +3261,7 @@
   uncertainty: CT血管造影の感度・特異度は急性消化管出血全般のメタ解析の値（憩室出血に限らない）。24時間以内の大腸内視鏡は、GLが主要評価項目の改善は不明としつつ提案している
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)；TBL-02-07-030 (id: JlAKplE)；TBL-02-07-029 (id: JlAKplA)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3101,6 +3281,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-065
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -3130,7 +3313,7 @@
   uncertainty: 再出血率はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)；TBL-02-07-033 (id: JlAKplQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3147,6 +3330,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-066
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -3176,7 +3362,7 @@
   uncertainty: 数値はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)；TBL-02-07-034 (id: JlAKplU)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3193,6 +3379,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-067
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -3222,7 +3411,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3239,6 +3428,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-068
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -3268,7 +3460,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-262 (id: Jlvnl38)；TBL-02-07-029 (id: JlAKplA)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3285,6 +3477,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-069
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -3314,7 +3509,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-262 (id: Jlvnl38)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3331,6 +3526,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-070
   domain: IN
   subdomain: 感染性腸炎
@@ -3359,7 +3557,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-020 (id: JlAKpkk)；TBL-02-07-022 (id: JlAKpkc)'
-    kokushi: null
+    kokushi: 医学各論 Ⅻ-2-B-⑬（大腸菌感染症（備考：腸管出血性大腸菌感染症）、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3373,6 +3571,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-071
   domain: IN
   subdomain: 感染性腸炎
@@ -3401,7 +3602,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
-    kokushi: null
+    kokushi: 医学各論 Ⅻ-2-B-⑬（大腸菌感染症（備考：腸管出血性大腸菌感染症）、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3415,6 +3616,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-072
   domain: IN
   subdomain: 感染性腸炎
@@ -3445,7 +3649,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
-    kokushi: null
+    kokushi: 医学各論 Ⅻ-2-B-⑬（大腸菌感染症（備考：腸管出血性大腸菌感染症）、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3459,6 +3663,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-073
   domain: IN
   subdomain: 感染性腸炎
@@ -3487,7 +3694,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-022 (id: JlAKpkc)'
-    kokushi: null
+    kokushi: 医学各論 Ⅻ-2-B-⑬（大腸菌感染症（備考：腸管出血性大腸菌感染症）、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3501,6 +3708,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-074
   domain: IN
   subdomain: 感染性腸炎
@@ -3531,7 +3741,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-022 (id: JlAKpkc)'
-    kokushi: null
+    kokushi: 医学各論 ⅩⅢ-1-A-①（細菌性食中毒、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3545,6 +3755,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-075
   domain: IN
   subdomain: 感染性腸炎
@@ -3573,7 +3786,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
-    kokushi: null
+    kokushi: 医学各論 ⅩⅢ-1-A-①（細菌性食中毒、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3587,6 +3800,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-076
   domain: IN
   subdomain: 感染性腸炎
@@ -3615,7 +3831,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-280 (id: Jlvnl28)；TBL-02-07-022 (id: JlAKpkc)'
-    kokushi: null
+    kokushi: 医学各論 Ⅻ-1-A-⑲（ノロウイルス感染症、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3629,6 +3845,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-077
   domain: IN
   subdomain: 感染性腸炎
@@ -3657,7 +3876,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-280 (id: Jlvnl28)'
-    kokushi: null
+    kokushi: 医学各論 Ⅻ-1-A-⑲（ノロウイルス感染症、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3671,6 +3890,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-078
   domain: IN
   subdomain: 感染性腸炎
@@ -3699,7 +3921,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-280 (id: Jlvnl28)'
-    kokushi: null
+    kokushi: 医学各論 Ⅻ-1-A-⑲（ノロウイルス感染症、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3713,6 +3935,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-079
   domain: IN
   subdomain: 感染性腸炎
@@ -3742,7 +3967,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-280 (id: Jlvnl28)'
-    kokushi: null
+    kokushi: 医学各論 ⅩⅢ-1-A-②（ウイルス性食中毒、a）；医学各論 Ⅻ-1-A-⑲（ノロウイルス感染症、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3756,6 +3981,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-080
   domain: IN
   subdomain: Clostridioides difficile感染症
@@ -3785,7 +4013,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-022 (id: JlAKpkc)'
-    kokushi: null
+    kokushi: 医学各論 Ⅻ-2-B-㉑（クロストリジウム・ディフィシル腸炎、a）；医学各論 Ⅵ-3-B-③（薬物性腸炎（備考：偽膜性腸炎）、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3799,6 +4027,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-081
   domain: IN
   subdomain: Clostridioides difficile感染症
@@ -3828,7 +4059,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-022 (id: JlAKpkc)'
-    kokushi: null
+    kokushi: 医学各論 Ⅻ-2-B-㉑（クロストリジウム・ディフィシル腸炎、a）；医学各論 Ⅵ-3-B-③（薬物性腸炎（備考：偽膜性腸炎）、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3842,6 +4073,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-082
   domain: IN
   subdomain: Clostridioides difficile感染症
@@ -3871,7 +4105,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
-    kokushi: null
+    kokushi: 医学各論 Ⅻ-2-B-㉑（クロストリジウム・ディフィシル腸炎、a）；医学各論 Ⅵ-3-B-③（薬物性腸炎（備考：偽膜性腸炎）、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3885,6 +4119,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-083
   domain: IN
   subdomain: Clostridioides difficile感染症
@@ -3915,7 +4152,7 @@
   uncertainty: 日本のガイドラインでの位置づけは別途確認が必要
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
-    kokushi: null
+    kokushi: 医学各論 Ⅻ-2-B-㉑（クロストリジウム・ディフィシル腸炎、a）；医学各論 Ⅵ-3-B-③（薬物性腸炎（備考：偽膜性腸炎）、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3929,6 +4166,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-084
   domain: IN
   subdomain: Clostridioides difficile感染症
@@ -3959,7 +4199,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
-    kokushi: null
+    kokushi: 医学各論 Ⅻ-2-B-㉑（クロストリジウム・ディフィシル腸炎、a）；医学各論 Ⅵ-3-B-③（薬物性腸炎（備考：偽膜性腸炎）、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3976,6 +4216,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-085
   domain: IN
   subdomain: セリアック病
@@ -4006,7 +4249,7 @@
   uncertainty: 日本での有病率は欧米より低いとされるが、今回は日本の一次資料を確認していない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-022 (id: JlAKpkc)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-③（吸収不良症候群、b）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -4020,6 +4263,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-086
   domain: IN
   subdomain: セリアック病
@@ -4049,7 +4295,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-③（吸収不良症候群、b）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -4063,6 +4309,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-087
   domain: IN
   subdomain: セリアック病
@@ -4092,7 +4341,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-③（吸収不良症候群、b）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -4106,6 +4355,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（数値を含まない命題。識別子・ライセンスの照合と、出典の該当箇所の確認に基づく（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-088
   domain: IN
   subdomain: 痔核
@@ -4136,7 +4388,7 @@
   uncertainty: NIDDK のページは2016年10月の最終レビュー。日本の資料への差し替えは次回の補完で検討
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-267 (id: Jlvnl30)；TBL-02-07-020 (id: JlAKpkk)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-4-D-①（痔核、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -4153,6 +4405,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: status draft → verified_sources（主張文の数値を出典本文で文脈とともに照合（識別子のない公的資料・団体資料は、ページ本文で確認）。人間が2026-10-13にチャットで委任）
+  - date: '2026-10-13'
+    by: claude-code
+    change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
 - id: IN-089
   domain: IN
   subdomain: 大腸ポリープ

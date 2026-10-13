@@ -8,7 +8,7 @@
 | 出典 | GitHub `core-curriculum/data`（https://github.com/core-curriculum/data） |
 | 取得したコミット | `f05bebcd709ec712ae9c200ead4bd1f0b0fa58d1`（main） |
 | 取得日 | 2026-10-12 |
-| 取得したファイル | `2022/ja/outcomes/layer1〜4.csv`、`2022/ja/tables/index.csv`、`2022/ja/tables/TBL0207.csv`、`README.md`、`LICENSE` |
+| 取得したファイル | `2022/ja/outcomes/layer1〜4.csv`、`2022/ja/tables/index.csv`、`2022/ja/tables/TBL0207.csv`、`README.md`、`LICENSE`（2026-10-12）、`2022/ja/tables/TBL0100.csv`（別表1 疾患表、2026-10-13 追加、同じコミット） |
 | 著作権・利用条件 | 著作権は文部科学省に帰属。「文部科学省ウェブサイト利用規約」（https://www.mext.go.jp/b_menu/1351168.htm）に従って利用する |
 
 - 事実票の `curriculum.core_curriculum` には、表示用の `index` と不変の `id` を併記する（例：`PS-02-08-05 (id: JkxnuRY)`）。原データの README は、分析・システムでは `id` を使うよう推奨している。
