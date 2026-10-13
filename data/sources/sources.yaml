@@ -1288,3 +1288,198 @@
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md の出典マスター表から
+- id: SRC-087
+  legacy_id: null
+  title: 急性膵炎診療ガイドライン改訂出版委員会（改訂出版責任者 高田忠敬）『急性膵炎診療ガイドライン2021（第5版）』2021年12月（日本肝胆膵外科学会サイト掲載PDF）
+  citation: 急性膵炎診療ガイドライン改訂出版委員会（改訂出版責任者 高田忠敬）『急性膵炎診療ガイドライン2021（第5版）』2021年12月（日本肝胆膵外科学会サイト掲載PDF）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 学会・出版社の著作物（非CC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-14'
+    by: claude-code
+    change: 取り込み：raw/05_biliary_pancreas.md の出典マスター表から
+- id: SRC-088
+  legacy_id: null
+  title: 日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）
+  citation: 日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）
+  doi: 10.1007/s00535-022-01911-6
+  pmid: null
+  pmcid: null
+  license_note: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-14'
+    by: claude-code
+    change: 取り込み：raw/05_biliary_pancreas.md の出典マスター表から
+- id: SRC-089
+  legacy_id: null
+  title: 'Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511'
+  citation: 'Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511'
+  doi: 10.1007/s10147-023-02317-x
+  pmid: null
+  pmcid: null
+  license_note: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-14'
+    by: claude-code
+    change: 取り込み：raw/05_biliary_pancreas.md の出典マスター表から
+- id: SRC-090
+  legacy_id: null
+  title: 国立がん研究センター がん情報サービス 膵臓（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）
+  citation: 国立がん研究センター がん情報サービス 膵臓（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 元データは政府統計。サイト利用規約は人間が確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-14'
+    by: claude-code
+    change: 取り込み：raw/05_biliary_pancreas.md の出典マスター表から
+- id: SRC-091
+  legacy_id: null
+  title: 国立がん研究センター がん情報サービス 胆のう・胆管（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）
+  citation: 国立がん研究センター がん情報サービス 胆のう・胆管（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 元データは政府統計。サイト利用規約は人間が確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-14'
+    by: claude-code
+    change: 取り込み：raw/05_biliary_pancreas.md の出典マスター表から
+- id: SRC-092
+  legacy_id: null
+  title: 厚生労働省 指定難病94『原発性硬化性胆管炎』概要・診断基準等
+  citation: 厚生労働省 指定難病94『原発性硬化性胆管炎』概要・診断基準等
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 厚労省 指定難病の概要・診断基準等（政府標準利用規約準拠と想定、原文は人間が確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-14'
+    by: claude-code
+    change: 取り込み：raw/05_biliary_pancreas.md の出典マスター表から
+- id: SRC-093
+  legacy_id: null
+  title: 厚生労働省 指定難病300『IgG4関連疾患』概要・診断基準等
+  citation: 厚生労働省 指定難病300『IgG4関連疾患』概要・診断基準等
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 厚労省 指定難病の概要・診断基準等（政府標準利用規約準拠と想定、原文は人間が確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-14'
+    by: claude-code
+    change: 取り込み：raw/05_biliary_pancreas.md の出典マスター表から
+- id: SRC-094
+  legacy_id: null
+  title: 日本肝胆膵外科学会ほか編『TG18新基準掲載 急性胆管炎・胆嚢炎診療ガイドライン2018（第3版）』医学図書出版、2018（Minds掲載本文PDF）
+  citation: 日本肝胆膵外科学会ほか編『TG18新基準掲載 急性胆管炎・胆嚢炎診療ガイドライン2018（第3版）』医学図書出版、2018（Minds掲載本文PDF）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 著作権は著者・出版社に帰属（Mindsは私的利用の範囲に限ると明記）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-14'
+    by: claude-code
+    change: 取り込み：raw/05_biliary_pancreas.md の出典マスター表から
+- id: SRC-095
+  legacy_id: null
+  title: National Cancer Institute. Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ)–Health Professional Version（最終更新 2025-05-09）
+  citation: National Cancer Institute. Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ)–Health Professional Version（最終更新 2025-05-09）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府著作物（PDQは原則パブリックドメイン。第三者の図表は除く）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-14'
+    by: claude-code
+    change: 取り込み：raw/05_biliary_pancreas.md の出典マスター表から
+- id: SRC-096
+  legacy_id: null
+  title: Ohtsuka T, et al. International evidence-based Kyoto guidelines for the management of intraductal papillary mucinous neoplasm of the pancreas. Pancreatology 2024;24:255-270
+  citation: Ohtsuka T, et al. International evidence-based Kyoto guidelines for the management of intraductal papillary mucinous neoplasm of the pancreas. Pancreatology 2024;24:255-270
+  doi: 10.1016/j.pan.2023.12.009
+  pmid: '38182527'
+  pmcid: null
+  license_note: 未確認（抄録のみ参照）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-14'
+    by: claude-code
+    change: 取り込み：raw/05_biliary_pancreas.md の出典マスター表から
+- id: SRC-097
+  legacy_id: null
+  title: Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833
+  citation: Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833
+  doi: 10.1007/s00535-023-02014-6
+  pmid: null
+  pmcid: null
+  license_note: Springer OA（記事ページでライセンス表示を確認できず。Crossrefで確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-14'
+    by: claude-code
+    change: 取り込み：raw/05_biliary_pancreas.md の出典マスター表から
+- id: SRC-098
+  legacy_id: null
+  title: National Cancer Institute. Gallbladder Cancer Treatment (PDQ)–Health Professional Version
+  citation: National Cancer Institute. Gallbladder Cancer Treatment (PDQ)–Health Professional Version
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府著作物（PDQは原則パブリックドメイン。第三者の図表は除く）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-14'
+    by: claude-code
+    change: 取り込み：raw/05_biliary_pancreas.md の出典マスター表から
+- id: SRC-099
+  legacy_id: null
+  title: National Cancer Institute. Bile Duct Cancer (Cholangiocarcinoma) Treatment (PDQ)–Health Professional Version（最終更新 2025-03-28）
+  citation: National Cancer Institute. Bile Duct Cancer (Cholangiocarcinoma) Treatment (PDQ)–Health Professional Version（最終更新 2025-03-28）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府著作物（PDQは原則パブリックドメイン。第三者の図表は除く）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-14'
+    by: claude-code
+    change: 取り込み：raw/05_biliary_pancreas.md の出典マスター表から
