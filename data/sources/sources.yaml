@@ -403,3 +403,303 @@
   - date: '2026-10-12'
     by: claude-code
     change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-27 から（IDを3桁に正規化、basis_tag B を CLAUDE.md 2-3 第1回規則で変換）
+- id: SRC-028
+  legacy_id: null
+  title: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
+  citation: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
+  doi: 10.1007/s00535-021-01843-7
+  pmid: null
+  pmcid: null
+  license_note: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-029
+  legacy_id: null
+  title: Japanese Gastric Cancer Association. Japanese Gastric Cancer Treatment Guidelines 2021 (6th edition). Gastric Cancer 2023;26:1-25
+  citation: Japanese Gastric Cancer Association. Japanese Gastric Cancer Treatment Guidelines 2021 (6th edition). Gastric Cancer 2023;26:1-25
+  doi: 10.1007/s10120-022-01331-8
+  pmid: null
+  pmcid: null
+  license_note: Open access, © 2022 The Author(s)（CC種別はCrossrefで要確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-030
+  legacy_id: null
+  title: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
+  citation: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
+  doi: 10.1007/s10120-025-01698-4
+  pmid: null
+  pmcid: null
+  license_note: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-031
+  legacy_id: null
+  title: Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381
+  citation: Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381
+  doi: 10.1007/s00535-026-02504-3
+  pmid: null
+  pmcid: null
+  license_note: CC BY 4.0（パイロット時にCrossrefで確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-032
+  legacy_id: null
+  title: Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680
+  citation: Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680
+  doi: 10.1007/s10147-024-02488-1
+  pmid: '38609732'
+  pmcid: null
+  license_note: Open access, © 2024 The Author(s)（CC種別はCrossrefで要確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-033
+  legacy_id: null
+  title: 'Joensuu H, et al. Adjuvant imatinib for high-risk GI stromal tumor: analysis of a randomized trial. J Clin Oncol 2016;34:244-250'
+  citation: 'Joensuu H, et al. Adjuvant imatinib for high-risk GI stromal tumor: analysis of a randomized trial. J Clin Oncol 2016;34:244-250'
+  doi: 10.1200/JCO.2015.62.9170
+  pmid: '26527782'
+  pmcid: null
+  license_note: 非CC（ASCO）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-034
+  legacy_id: null
+  title: Janjigian YY, et al. CheckMate 649. Lancet 2021;398:27-40
+  citation: Janjigian YY, et al. CheckMate 649. Lancet 2021;398:27-40
+  doi: 10.1016/S0140-6736(21)00797-2
+  pmid: '34102137'
+  pmcid: null
+  license_note: 非CC（Elsevier）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-035
+  legacy_id: null
+  title: Shitara K, et al. SPOTLIGHT. Lancet 2023;401:1655-1668
+  citation: Shitara K, et al. SPOTLIGHT. Lancet 2023;401:1655-1668
+  doi: 10.1016/S0140-6736(23)00620-7
+  pmid: '37068504'
+  pmcid: null
+  license_note: 非CC（Elsevier）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-036
+  legacy_id: null
+  title: 国立がん研究センター がん情報サービス 胃（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）
+  citation: 国立がん研究センター がん情報サービス 胃（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 元データは政府統計。サイト利用規約は要確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-037
+  legacy_id: null
+  title: 厚生労働省『がん予防重点健康教育及びがん検診実施のための指針』（平成28年2月改正）／厚労省がん検診ページ
+  citation: 厚生労働省『がん予防重点健康教育及びがん検診実施のための指針』（平成28年2月改正）／厚労省がん検診ページ
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（原文は要確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-038
+  legacy_id: null
+  title: アステラス製薬 適時開示（2024-07-29）：ゾルベツキシマブ 欧州CHMP販売承認勧告（国内承認日の記載あり）
+  citation: アステラス製薬 適時開示（2024-07-29）：ゾルベツキシマブ 欧州CHMP販売承認勧告（国内承認日の記載あり）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 企業資料（非CC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-039
+  legacy_id: null
+  title: Panzuto F, et al. ENETS 2023 guidance paper for gastroduodenal neuroendocrine tumours (NETs) G1-G3. J Neuroendocrinol 2023;35:e13306
+  citation: Panzuto F, et al. ENETS 2023 guidance paper for gastroduodenal neuroendocrine tumours (NETs) G1-G3. J Neuroendocrinol 2023;35:e13306
+  doi: 10.1111/jne.13306
+  pmid: null
+  pmcid: null
+  license_note: Open access, © 2023 The Authors（CC種別はCrossrefで要確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-040
+  legacy_id: null
+  title: Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466
+  citation: Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466
+  doi: 10.1038/s41574-020-0357-5
+  pmid: null
+  pmcid: null
+  license_note: CC BY 4.0（出版社ページで確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-041
+  legacy_id: null
+  title: 厚生労働省『アニサキスによる食中毒を予防しましょう』
+  citation: 厚生労働省『アニサキスによる食中毒を予防しましょう』
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は要確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-042
+  legacy_id: null
+  title: Sugiyama H, et al. Anisakiasis annual incidence and causative species, Japan, 2018-2019. Emerg Infect Dis 2022;28(10)
+  citation: Sugiyama H, et al. Anisakiasis annual incidence and causative species, Japan, 2018-2019. Emerg Infect Dis 2022;28(10)
+  doi: 10.3201/eid2810.220627
+  pmid: null
+  pmcid: null
+  license_note: CDC刊行誌。記事ページにパブリックドメインの明示はなく未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-043
+  legacy_id: null
+  title: 'Islam RS, et al. Gastric polyps: a review on clinical, endoscopic, histopathologic features and management decisions. Gastroenterol Hepatol (N Y) 2013 Oct'
+  citation: 'Islam RS, et al. Gastric polyps: a review on clinical, endoscopic, histopathologic features and management decisions. Gastroenterol Hepatol (N Y) 2013 Oct'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © Millennium Medical Publishing（非CC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-044
+  legacy_id: null
+  title: 岩室雅也. 薬剤起因性胃粘膜病変の内視鏡診断. 日本消化器内視鏡学会雑誌 2025;67(4):281-288
+  citation: 岩室雅也. 薬剤起因性胃粘膜病変の内視鏡診断. 日本消化器内視鏡学会雑誌 2025;67(4):281-288
+  doi: 10.11280/gee.67.281
+  pmid: null
+  pmcid: null
+  license_note: © 日本消化器内視鏡学会（J-STAGE無料公開、非CC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-045
+  legacy_id: null
+  title: Cook D, et al. Stress ulcer prophylaxis during invasive mechanical ventilation (REVISE). N Engl J Med 2024
+  citation: Cook D, et al. Stress ulcer prophylaxis during invasive mechanical ventilation (REVISE). N Engl J Med 2024
+  doi: 10.1056/NEJMoa2404245
+  pmid: null
+  pmcid: null
+  license_note: 非CC（NEJM）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-046
+  legacy_id: null
+  title: 'Rizwan MM, et al. Duodenal diverticulum and associated pancreatitis: case report with brief review of literature. World J Gastrointest Endosc 2011;3(3):62-63'
+  citation: 'Rizwan MM, et al. Duodenal diverticulum and associated pancreatitis: case report with brief review of literature. World J Gastrointest Endosc 2011;3(3):62-63'
+  doi: 10.4253/wjge.v3.i3.62
+  pmid: '21455344'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+- id: SRC-047
+  legacy_id: null
+  title: 'Ergüder E, et al. Lemmel syndrome: a single-center cohort and diagnostic considerations. Turk J Surg 2026;42(2):214-219'
+  citation: 'Ergüder E, et al. Lemmel syndrome: a single-center cohort and diagnostic considerations. Turk J Surg 2026;42(2):214-219'
+  doi: 10.47717/turkjsurg.2026.2025-11-25
+  pmid: null
+  pmcid: null
+  license_note: © Galenos Publishing House（ライセンス種別は未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-13'
+    by: claude-code
+    change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
