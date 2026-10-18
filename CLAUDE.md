@@ -103,6 +103,7 @@ Claude Code はこのリポジトリで、取り込み・照合・検証・レ�
 | BP | 胆・膵 | 第5回 |
 | AB | 腹膜・腹壁・急性腹症 | 第6回 |
 | XS | 症候・検査・栄養の横断項目 | 第7回 |
+| NG | 神経消化器病（腸脳相関病・機能性消化管疾患）、Rome V 対応 | 特別回（日本神経消化器病学会の広報用） |
 
 - 形式は `接頭辞-3桁連番`（例：`ES-012`）。
 - 欠番は欠番のまま残し、詰めない。
@@ -127,6 +128,8 @@ cleanroom-gi-facts/
   scripts/                   ← Pythonスクリプト
   docs/handover/             ← 各回の引き継ぎメモ
   docs/tasks/                ← Claude Code向け作業指示書
+  docs/video/                ← ショート動画の監修用資料
+  video/                     ← 事実カードからナレーション入りショート動画を作る仕組み（video/README.md）
   .cache/                    ← API応答キャッシュ（git管理外）
   .env                       ← NCBI_API_KEY, CONTACT_EMAIL（git管理外）
 ```
@@ -151,7 +154,17 @@ cleanroom-gi-facts/
 
 - 具体的な手順は `docs/tasks/claude_code_tasks.md` に従う。
 - 着手時は、まず最新の `docs/handover/*.md` を読む。
+- 作業の最後に `python scripts/validate.py` を実行し、エラー0件を確認する。
 - 1つのフェーズが終わるたびに次のことを行い、次のフェーズに進む前に人間の確認を求める。
   - `reports/` に結果を出す。
   - 変更内容を要約する。
   - gitでコミットする（メッセージは日本語可）。
+
+---
+
+## 8. ショート動画（video/）での注意
+
+- 動画の原稿（`video/scripts/*.json`）の各場面は、必ず `data/facts/` のカードIDを根拠に持つ。根拠のない文・カードにない数字は `video/check.py` が不合格にする。
+- 一般向けの動画では薬剤名を出さない。実在の人物のアバターは使わない。AIで作成したことを表示する。
+- CC BY-NC-ND の出典の図表は動画に使わない。収益化もしない。
+- 公開は、監修者が承認したものに限る。生成した動画（`video/out/`）はリポジトリに入れない。

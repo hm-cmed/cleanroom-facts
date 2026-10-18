@@ -8,11 +8,11 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^(HP|UG|ES|GD|IN|LV|BP|AB|XS)-[0-9]{3}$"
+      "pattern": "^(HP|UG|ES|GD|IN|LV|BP|AB|XS|NG)-[0-9]{3}$"
     },
     "domain": {
       "type": "string",
-      "enum": ["HP", "UG", "ES", "GD", "IN", "LV", "BP", "AB", "XS"]
+      "enum": ["HP", "UG", "ES", "GD", "IN", "LV", "BP", "AB", "XS", "NG"]
     },
     "subdomain": { "type": ["string", "null"] },
     "assertion": {

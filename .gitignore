@@ -2,3 +2,6 @@
 .cache/
 .env
 __pycache__/
+video/out/
+*.mp4
+*.wav
