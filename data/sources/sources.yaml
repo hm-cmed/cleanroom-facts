@@ -2325,3 +2325,18 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md の出典マスター表から
+- id: SRC-162
+  legacy_id: null
+  title: 'De Simone B, Birindelli A, Ansaloni L, et al. Emergency repair of complicated abdominal wall hernias: WSES guidelines. Hernia 2020;24:359-368（2017年改訂版 WSES GL の要約版）'
+  citation: 'De Simone B, Birindelli A, Ansaloni L, et al. Emergency repair of complicated abdominal wall hernias: WSES guidelines. Hernia 2020;24:359-368（2017年改訂版 WSES GL の要約版）'
+  doi: 10.1007/s10029-019-02021-8
+  pmid: null
+  pmcid: null
+  license_note: © Springer-Verlag France SAS, part of Springer Nature 2019（非CC）。ユーザー提供の刊行版PDFで確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/06_abdomen.md の出典マスター表から

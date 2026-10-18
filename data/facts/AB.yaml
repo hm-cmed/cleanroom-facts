@@ -2967,3 +2967,241 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+- id: AB-087
+  domain: AB
+  subdomain: 嵌頓・絞扼ヘルニアの緊急手術
+  assertion:
+    plain_statement_ja: 嵌頓ヘルニアは脱出した内容が還納できなくなった状態で、腸閉塞を伴うことがある。絞扼ヘルニアは、脱出した大網や腸管への血流が障害された状態をいう。腹壁ヘルニアは、鼠径部ヘルニア（鼠径ヘルニア、大腿ヘルニア）と腹壁瘢痕ヘルニア・臍ヘルニアなどの腹側ヘルニアに分けられる。
+    condition:
+      guideline: WSES 腹壁ヘルニア緊急修復 GL（Hernia 2020 要約版）
+    differential: null
+    common_misconception: 還納できないヘルニアはすべて絞扼している
+  provenance:
+    source_ref: SRC-162
+    source: 'De Simone B, Birindelli A, Ansaloni L, et al. Emergency repair of complicated abdominal wall hernias: WSES guidelines. Hernia 2020;24:359-368（2017年改訂版 WSES GL の要約版）'
+    doi: 10.1007/s10029-019-02021-8
+    pmid: null
+    pmcid: null
+    url: https://doi.org/10.1007/s10029-019-02021-8
+    source_license: © Springer-Verlag France SAS, part of Springer Nature 2019（非CC）。ユーザー提供の刊行版PDFで確認
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-18'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+- id: AB-088
+  domain: AB
+  subdomain: 嵌頓・絞扼ヘルニアの緊急手術
+  assertion:
+    plain_statement_ja: 腸管の絞扼が疑われるヘルニアは直ちに緊急手術を行うことが推奨されている（推奨度 1C）。全身性炎症反応症候群（SIRS）、造影 CT の所見、乳酸、CPK、D ダイマーは腸管の絞扼の予測に役立つ（1C）。腹壁の硬さや SIRS などの臨床所見だけでは、嵌頓から絞扼への進行を見つけるには不十分である。
+    condition:
+      guideline: WSES 腹壁ヘルニア緊急修復 GL（Hernia 2020 要約版）
+    differential: null
+    common_misconception: 嵌頓ヘルニアは痛みが強くなるまで様子をみてよい
+  provenance:
+    source_ref: SRC-162
+    source: 'De Simone B, Birindelli A, Ansaloni L, et al. Emergency repair of complicated abdominal wall hernias: WSES guidelines. Hernia 2020;24:359-368（2017年改訂版 WSES GL の要約版）'
+    doi: 10.1007/s10029-019-02021-8
+    pmid: null
+    pmcid: null
+    url: https://doi.org/10.1007/s10029-019-02021-8
+    source_license: © Springer-Verlag France SAS, part of Springer Nature 2019（非CC）。ユーザー提供の刊行版PDFで確認
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-18'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+- id: AB-089
+  domain: AB
+  subdomain: 嵌頓・絞扼ヘルニアの緊急手術
+  assertion:
+    plain_statement_ja: 自然に還納した絞扼性の鼠径部ヘルニアでは、腸管の生存性を確かめるために診断的腹腔鏡が役立つことがある（推奨度 2B）。絞扼がなく腸切除の必要も疑われない嵌頓ヘルニアは、腹側・鼠径部とも腹腔鏡で修復してよいが、腸切除が疑われる場合は開腹の腹膜前到達法がよいとされる（2C）。
+    condition:
+      guideline: WSES 腹壁ヘルニア緊急修復 GL（Hernia 2020 要約版）
+    differential: null
+    common_misconception: 嵌頓ヘルニアが自然に戻れば腸管の評価は不要である
+  provenance:
+    source_ref: SRC-162
+    source: 'De Simone B, Birindelli A, Ansaloni L, et al. Emergency repair of complicated abdominal wall hernias: WSES guidelines. Hernia 2020;24:359-368（2017年改訂版 WSES GL の要約版）'
+    doi: 10.1007/s10029-019-02021-8
+    pmid: null
+    pmcid: null
+    url: https://doi.org/10.1007/s10029-019-02021-8
+    source_license: © Springer-Verlag France SAS, part of Springer Nature 2019（非CC）。ユーザー提供の刊行版PDFで確認
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-18'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+- id: AB-090
+  domain: AB
+  subdomain: 嵌頓・絞扼ヘルニアの緊急手術
+  assertion:
+    plain_statement_ja: 汚染のない術野（米国 CDC の創分類 I）で、絞扼や腸切除を伴わない嵌頓ヘルニアには、合成メッシュによる修復が推奨されている（推奨度 1A）。腸管の絞扼や腸切除があっても腸内容の大量の漏れがなければ（創分類 II）、合成メッシュで修復でき、30日以内の創合併症を増やさずに再発を減らせる（1A）。
+    condition:
+      guideline: WSES 腹壁ヘルニア緊急修復 GL（Hernia 2020 要約版）
+    differential: null
+    common_misconception: 腸切除を伴うヘルニア手術ではメッシュを使ってはいけない
+  provenance:
+    source_ref: SRC-162
+    source: 'De Simone B, Birindelli A, Ansaloni L, et al. Emergency repair of complicated abdominal wall hernias: WSES guidelines. Hernia 2020;24:359-368（2017年改訂版 WSES GL の要約版）'
+    doi: 10.1007/s10029-019-02021-8
+    pmid: null
+    pmcid: null
+    url: https://doi.org/10.1007/s10029-019-02021-8
+    source_license: © Springer-Verlag France SAS, part of Springer Nature 2019（非CC）。ユーザー提供の刊行版PDFで確認
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-18'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+- id: AB-091
+  domain: AB
+  subdomain: 嵌頓・絞扼ヘルニアの緊急手術
+  assertion:
+    plain_statement_ja: 腸管壊死や腸内容の大量の漏れ（創分類 III）、腸穿孔による腹膜炎（創分類 IV）を伴う絞扼ヘルニアでは、循環が安定していれば、ヘルニア門が3 cm 未満なら直接縫合による修復が推奨される（推奨度 2C）。直接縫合ができなければ生体由来メッシュを使ってよく、手に入らない場合は吸収性メッシュか、創を開放して後日修復する方法がある（2C）。
+    condition:
+      guideline: WSES 腹壁ヘルニア緊急修復 GL（Hernia 2020 要約版）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-162
+    source: 'De Simone B, Birindelli A, Ansaloni L, et al. Emergency repair of complicated abdominal wall hernias: WSES guidelines. Hernia 2020;24:359-368（2017年改訂版 WSES GL の要約版）'
+    doi: 10.1007/s10029-019-02021-8
+    pmid: null
+    pmcid: null
+    url: https://doi.org/10.1007/s10029-019-02021-8
+    source_license: © Springer-Verlag France SAS, part of Springer Nature 2019（非CC）。ユーザー提供の刊行版PDFで確認
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-308 (id: Jlvnl70)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-18'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+- id: AB-092
+  domain: AB
+  subdomain: 嵌頓・絞扼ヘルニアの緊急手術
+  assertion:
+    plain_statement_ja: 重症敗血症や敗血症性ショックで循環が不安定な患者では、腹部コンパートメント症候群を防ぐため開腹管理（open abdomen）が推奨され、術中に腹腔内圧を測ってもよい（推奨度 2C）。安定したら早期の閉腹を目指し、筋膜を閉じられなければ皮膚だけを閉じて、後日合成メッシュで修復する方法がある（1C）。
+    condition:
+      guideline: WSES 腹壁ヘルニア緊急修復 GL（Hernia 2020 要約版）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-162
+    source: 'De Simone B, Birindelli A, Ansaloni L, et al. Emergency repair of complicated abdominal wall hernias: WSES guidelines. Hernia 2020;24:359-368（2017年改訂版 WSES GL の要約版）'
+    doi: 10.1007/s10029-019-02021-8
+    pmid: null
+    pmcid: null
+    url: https://doi.org/10.1007/s10029-019-02021-8
+    source_license: © Springer-Verlag France SAS, part of Springer Nature 2019（非CC）。ユーザー提供の刊行版PDFで確認
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: 腹部コンパートメント症候群の定義は WSACS 2013（SRC-160）
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-308 (id: Jlvnl70)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-18'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+- id: AB-093
+  domain: AB
+  subdomain: 嵌頓・絞扼ヘルニアの緊急手術
+  assertion:
+    plain_statement_ja: 嵌頓ヘルニアの手術の抗菌薬は、虚血も腸切除もない場合（創分類 I）は短期間の予防投与、絞扼や腸切除を伴う場合（創分類 II・III）は48時間の予防投与、腹膜炎（創分類 IV）では治療としての投与が推奨されている（推奨度 2C）。腸の壊死がない鼠径ヘルニアの緊急手術では局所麻酔も使え、術後の合併症が少ない（1C）。
+    condition:
+      guideline: WSES 腹壁ヘルニア緊急修復 GL（Hernia 2020 要約版）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-162
+    source: 'De Simone B, Birindelli A, Ansaloni L, et al. Emergency repair of complicated abdominal wall hernias: WSES guidelines. Hernia 2020;24:359-368（2017年改訂版 WSES GL の要約版）'
+    doi: 10.1007/s10029-019-02021-8
+    pmid: null
+    pmcid: null
+    url: https://doi.org/10.1007/s10029-019-02021-8
+    source_license: © Springer-Verlag France SAS, part of Springer Nature 2019（非CC）。ユーザー提供の刊行版PDFで確認
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)'
+    kokushi: 医学各論 Ⅵ-9-A-②（鼠径ヘルニア、a）
+  publication_info:
+    created: '2026-10-18'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
