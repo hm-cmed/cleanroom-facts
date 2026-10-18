@@ -2205,3 +2205,123 @@
   - date: '2026-10-18'
     by: claude-code
     change: GitHub 版（2026-10-18 整理）の出典マスターから統合
+- id: SRC-154
+  legacy_id: null
+  title: 急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）
+  citation: 急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © 医学書院・作成学会（非CC。Minds 掲載は個人利用の範囲）。ユーザー提供の刊行版PDF（第Ⅰ〜Ⅹ章）で確認。利益相反：本リポジトリの管理者（三原弘）は本ガイドラインの作成委員
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/06_abdomen.md の出典マスター表から
+- id: SRC-155
+  legacy_id: null
+  title: 'Di Saverio S, Podda M, De Simone B, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg 2020;15:27'
+  citation: 'Di Saverio S, Podda M, De Simone B, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg 2020;15:27'
+  doi: 10.1186/s13017-020-00306-3
+  pmid: null
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/06_abdomen.md の出典マスター表から
+- id: SRC-156
+  legacy_id: null
+  title: 'Ten Broek RPG, Krielen P, Di Saverio S, et al. Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (ASBO): 2017 update. World J Emerg Surg 2018;13:24'
+  citation: 'Ten Broek RPG, Krielen P, Di Saverio S, et al. Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (ASBO): 2017 update. World J Emerg Surg 2018;13:24'
+  doi: 10.1186/s13017-018-0185-2
+  pmid: null
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/06_abdomen.md の出典マスター表から
+- id: SRC-157
+  legacy_id: null
+  title: 'Sartelli M, Chichom-Mefire A, Labricciosa FM, et al. The management of intra-abdominal infections from a global perspective: 2017 WSES guidelines for management of intra-abdominal infections. World J Emerg Surg 2017;12:29'
+  citation: 'Sartelli M, Chichom-Mefire A, Labricciosa FM, et al. The management of intra-abdominal infections from a global perspective: 2017 WSES guidelines for management of intra-abdominal infections. World J Emerg Surg 2017;12:29'
+  doi: 10.1186/s13017-017-0141-6
+  pmid: null
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/06_abdomen.md の出典マスター表から
+- id: SRC-158
+  legacy_id: null
+  title: HerniaSurge Group. International guidelines for groin hernia management. Hernia 2018;22:1-165
+  citation: HerniaSurge Group. International guidelines for groin hernia management. Hernia 2018;22:1-165
+  doi: 10.1007/s10029-017-1668-x
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/06_abdomen.md の出典マスター表から
+- id: SRC-159
+  legacy_id: null
+  title: 'Bala M, Catena F, Kashuk J, et al. Acute mesenteric ischemia: updated guidelines of the World Society of Emergency Surgery. World J Emerg Surg 2022;17:54'
+  citation: 'Bala M, Catena F, Kashuk J, et al. Acute mesenteric ischemia: updated guidelines of the World Society of Emergency Surgery. World J Emerg Surg 2022;17:54'
+  doi: 10.1186/s13017-022-00443-x
+  pmid: null
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/06_abdomen.md の出典マスター表から
+- id: SRC-160
+  legacy_id: null
+  title: 'Kirkpatrick AW, Roberts DJ, De Waele J, et al. Intra-abdominal hypertension and the abdominal compartment syndrome: updated consensus definitions and clinical practice guidelines from the World Society of the Abdominal Compartment Syndrome. Intensive Care Med 2013;39:1190-1206'
+  citation: 'Kirkpatrick AW, Roberts DJ, De Waele J, et al. Intra-abdominal hypertension and the abdominal compartment syndrome: updated consensus definitions and clinical practice guidelines from the World Society of the Abdominal Compartment Syndrome. Intensive Care Med 2013;39:1190-1206'
+  doi: 10.1007/s00134-013-2906-z
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC（Creative Commons Attribution Noncommercial License）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/06_abdomen.md の出典マスター表から
+- id: SRC-161
+  legacy_id: null
+  title: 'Coccolini F, Montori G, Catena F, et al. Splenic trauma: WSES classification and guidelines for adult and pediatric patients. World J Emerg Surg 2017;12:40'
+  citation: 'Coccolini F, Montori G, Catena F, et al. Splenic trauma: WSES classification and guidelines for adult and pediatric patients. World J Emerg Surg 2017;12:40'
+  doi: 10.1186/s13017-017-0151-4
+  pmid: null
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/06_abdomen.md の出典マスター表から

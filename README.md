@@ -15,12 +15,13 @@
 | IN | 第3回 小腸・大腸 | 89 | raw/03_intestine.md | verified_sources 89（IN-089 は照合時に起票） |
 | LV | 第4回 肝 | 104 | raw/04_liver.md | verified_sources 104 |
 | BP | 第5回 胆・膵 | 68 | raw/05_biliary_pancreas.md | draft（取り込み済み、照合は保留） |
-| AB・XS | 第6・7回 | — | — | 未着手 |
+| AB | 第6回 腹膜・腹壁・急性腹症 | 86 | raw/06_abdomen.md | draft（取り込み済み、照合前） |
+| XS | 第7回 横断項目 | — | — | 未着手 |
 | NG | 特別回 神経消化器病（Rome V 対応） | 240 | raw/N1_neurogastroenterology.md | draft（照合前） |
 
-- 合計727件。`python scripts/validate.py` の結果はエラー0件（reports/validate_20261018.md）。
+- 合計813件。`python scripts/validate.py` の結果はエラー0件（reports/validate_20261018.md）。
 - 専門医の検証（`verified_expert`）はまだ0件です。専門医レビュー用シートは `review/`。
-- 出典マスターは data/sources/sources.yaml（153件、SRC-001〜153）。
+- 出典マスターは data/sources/sources.yaml（161件、SRC-001〜161）。
 - 照合の経過は `reports/`（取り込み・識別子照合・内容照合・カリキュラム番号）と各カードの `history` に記録しています。
 - コアカリ（令和4年度版）の CSV は `data/curriculum/`、番号の参照表は `docs/tasks/curriculum_reference.md`。
 
