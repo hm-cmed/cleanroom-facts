@@ -1,0 +1,1026 @@
+# 出典マスター（SRC-xxx）。書誌メタデータのみ。本文・PDFは置かない（CLAUDE.md 1-1）
+# SRC-001〜016・019〜027 は第1回 食道（raw/01b）由来で、取り込み前のため未収録
+- id: SRC-017
+  source: 日本門脈圧亢進症学会 門脈圧亢進症取扱い規約 第3版の内視鏡所見記載基準（日消誌116(5):395で確認）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.jstage.jst.go.jp/article/nisshoshi/116/5/116_395/_pdf
+  source_license: 非CC
+  source_class: RESTRICTED
+- id: SRC-018
+  source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
+  doi: 10.1007/s00535-021-01788-x
+  pmid: null
+  pmcid: PMC8280040
+  url: https://link.springer.com/article/10.1007/s00535-021-01788-x
+  source_license: Springer OA（CC種別は未確認。リポジトリ側の照合結果を優先）
+  source_class: UNKNOWN
+- id: SRC-028
+  source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
+  doi: 10.1007/s00535-021-01843-7
+  pmid: null
+  pmcid: PMC8831363
+  url: https://link.springer.com/article/10.1007/s00535-021-01843-7
+  source_license: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
+  source_class: UNKNOWN
+- id: SRC-029
+  source: Japanese Gastric Cancer Association. Japanese Gastric Cancer Treatment Guidelines 2021 (6th edition). Gastric Cancer 2023;26:1-25
+  doi: 10.1007/s10120-022-01331-8
+  pmid: null
+  pmcid: PMC9813208
+  url: https://link.springer.com/article/10.1007/s10120-022-01331-8
+  source_license: Open access, © 2022 The Author(s)（CC種別はCrossrefで要確認）
+  source_class: UNKNOWN
+- id: SRC-030
+  source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
+  doi: 10.1007/s10120-025-01698-4
+  pmid: null
+  pmcid: null
+  url: https://link.springer.com/article/10.1007/s10120-025-01698-4
+  source_license: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
+  source_class: UNKNOWN
+- id: SRC-031
+  source: Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381
+  doi: 10.1007/s00535-026-02504-3
+  pmid: null
+  pmcid: null
+  url: https://link.springer.com/article/10.1007/s00535-026-02504-3
+  source_license: CC BY 4.0（パイロット時にCrossrefで確認）
+  source_class: OPEN
+- id: SRC-032
+  source: Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680
+  doi: 10.1007/s10147-024-02488-1
+  pmid: '38609732'
+  pmcid: PMC11130037
+  url: https://link.springer.com/article/10.1007/s10147-024-02488-1
+  source_license: Open access, © 2024 The Author(s)（CC種別はCrossrefで要確認）
+  source_class: UNKNOWN
+- id: SRC-033
+  source: 'Joensuu H, et al. Adjuvant imatinib for high-risk GI stromal tumor: analysis of a randomized trial. J Clin Oncol 2016;34:244-250'
+  doi: 10.1200/JCO.2015.62.9170
+  pmid: '26527782'
+  pmcid: null
+  url: https://pubmed.ncbi.nlm.nih.gov/26527782/
+  source_license: 非CC（ASCO）
+  source_class: RESTRICTED
+- id: SRC-034
+  source: Janjigian YY, et al. CheckMate 649. Lancet 2021;398:27-40
+  doi: 10.1016/S0140-6736(21)00797-2
+  pmid: '34102137'
+  pmcid: null
+  url: https://pubmed.ncbi.nlm.nih.gov/34102137/
+  source_license: 非CC（Elsevier）
+  source_class: RESTRICTED
+- id: SRC-035
+  source: Shitara K, et al. SPOTLIGHT. Lancet 2023;401:1655-1668
+  doi: 10.1016/S0140-6736(23)00620-7
+  pmid: '37068504'
+  pmcid: null
+  url: https://clinicaltrials.gov/study/NCT03504397
+  source_license: 非CC（Elsevier）
+  source_class: RESTRICTED
+- id: SRC-036
+  source: 国立がん研究センター がん情報サービス 胃（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://ganjoho.jp/reg_stat/statistics/stat/cancer/5_stomach.html
+  source_license: 元データは政府統計。サイト利用規約は要確認
+  source_class: GOV_JP
+- id: SRC-037
+  source: 厚生労働省『がん予防重点健康教育及びがん検診実施のための指針』（平成28年2月改正）／厚労省がん検診ページ
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.gankenshin50.mhlw.go.jp/campaign_2023/screening/index.html
+  source_license: 政府標準利用規約（原文は人間が確認）
+  source_class: GOV_JP
+- id: SRC-038
+  source: アステラス製薬 適時開示（2024-07-29）：ゾルベツキシマブ 欧州CHMP販売承認勧告（国内承認日の記載あり）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www2.jpx.co.jp/disc/45030/140120240729556149.pdf
+  source_license: 企業資料（非CC）
+  source_class: RESTRICTED
+- id: SRC-039
+  source: Panzuto F, et al. ENETS 2023 guidance paper for gastroduodenal neuroendocrine tumours (NETs) G1-G3. J Neuroendocrinol 2023;35:e13306
+  doi: 10.1111/jne.13306
+  pmid: null
+  pmcid: null
+  url: https://doi.org/10.1111/jne.13306
+  source_license: Open access, © 2023 The Authors（CC種別はCrossrefで要確認）
+  source_class: UNKNOWN
+- id: SRC-040
+  source: Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466
+  doi: 10.1038/s41574-020-0357-5
+  pmid: null
+  pmcid: PMC7351708
+  url: https://www.nature.com/articles/s41574-020-0357-5
+  source_license: CC BY 4.0（出版社ページで確認）
+  source_class: OPEN
+- id: SRC-041
+  source: 厚生労働省『アニサキスによる食中毒を予防しましょう』
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000042953.html
+  source_license: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は要確認）
+  source_class: GOV_JP
+- id: SRC-042
+  source: Sugiyama H, et al. Anisakiasis annual incidence and causative species, Japan, 2018-2019. Emerg Infect Dis 2022;28(10)
+  doi: 10.3201/eid2810.220627
+  pmid: null
+  pmcid: PMC9514333
+  url: https://wwwnc.cdc.gov/eid/article/28/10/22-0627_article
+  source_license: CDC刊行誌。記事ページにパブリックドメインの明示はなく未確認
+  source_class: UNKNOWN
+- id: SRC-043
+  source: 'Islam RS, et al. Gastric polyps: a review on clinical, endoscopic, histopathologic features and management decisions. Gastroenterol Hepatol (N Y) 2013 Oct'
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.gastroenterologyandhepatology.net/?p=1952
+  source_license: © Millennium Medical Publishing（非CC）
+  source_class: RESTRICTED
+- id: SRC-044
+  source: 岩室雅也. 薬剤起因性胃粘膜病変の内視鏡診断. 日本消化器内視鏡学会雑誌 2025;67(4):281-288
+  doi: 10.11280/gee.67.281
+  pmid: null
+  pmcid: null
+  url: https://www.jstage.jst.go.jp/article/gee/67/4/67_281/_html/-char/ja
+  source_license: © 日本消化器内視鏡学会（J-STAGE無料公開、非CC）
+  source_class: RESTRICTED
+- id: SRC-045
+  source: Cook D, et al. Stress ulcer prophylaxis during invasive mechanical ventilation (REVISE). N Engl J Med 2024
+  doi: 10.1056/NEJMoa2404245
+  pmid: null
+  pmcid: null
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa2404245
+  source_license: 非CC（NEJM）
+  source_class: RESTRICTED
+- id: SRC-046
+  source: 'Rizwan MM, et al. Duodenal diverticulum and associated pancreatitis: case report with brief review of literature. World J Gastrointest Endosc 2011;3(3):62-63'
+  doi: 10.4253/wjge.v3.i3.62
+  pmid: '21455344'
+  pmcid: null
+  url: https://www.wjgnet.com/1948-5190/full/v3/i3/62.htm
+  source_license: CC BY-NC 4.0
+  source_class: RESTRICTED
+- id: SRC-047
+  source: 'Ergüder E, et al. Lemmel syndrome: a single-center cohort and diagnostic considerations. Turk J Surg 2026;42(2):214-219'
+  doi: 10.47717/turkjsurg.2026.2025-11-25
+  pmid: null
+  pmcid: null
+  url: https://turkjsurg.com/articles/doi/turkjsurg.2026.2025-11-25
+  source_license: © Galenos Publishing House（ライセンス種別は未確認）
+  source_class: UNKNOWN
+- id: SRC-048
+  source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
+  doi: 10.1007/s00535-021-01784-1
+  pmid: null
+  pmcid: null
+  url: https://link.springer.com/article/10.1007/s00535-021-01784-1
+  source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  source_class: UNKNOWN
+- id: SRC-049
+  source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+  doi: 10.1007/s00535-020-01746-z
+  pmid: null
+  pmcid: null
+  url: https://link.springer.com/article/10.1007/s00535-020-01746-z
+  source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  source_class: UNKNOWN
+- id: SRC-050
+  source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
+  doi: 10.1159/000540912
+  pmid: '39159626'
+  pmcid: null
+  url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
+  source_license: CC BY-NC（記事ページの許諾リンクの表示による）
+  source_class: RESTRICTED
+- id: SRC-051
+  source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
+  doi: 10.1007/s00535-021-01776-1
+  pmid: null
+  pmcid: PMC8005396
+  url: https://link.springer.com/article/10.1007/s00535-021-01776-1
+  source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  source_class: UNKNOWN
+- id: SRC-052
+  source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
+  doi: 10.1007/s10147-025-02899-8
+  pmid: null
+  pmcid: PMC12644182
+  url: https://link.springer.com/article/10.1007/s10147-025-02899-8
+  source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  source_class: UNKNOWN
+- id: SRC-053
+  source: 国立がん研究センター がん情報サービス 大腸（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://ganjoho.jp/reg_stat/statistics/stat/cancer/67_colorectal.html
+  source_license: 元データは政府統計。サイト利用規約は人間が確認
+  source_class: GOV_JP
+- id: SRC-054
+  source: National Cancer Institute. Genetics of Colorectal Cancer (PDQ)–Health Professional Version（最終更新 2025-03-21）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.cancer.gov/types/colorectal/hp/colorectal-genetics-pdq
+  source_license: 米国連邦政府著作物（PDQは原則パブリックドメイン。第三者の図表は除く）
+  source_class: GOV_US
+- id: SRC-055
+  source: 難病情報センター『潰瘍性大腸炎（指定難病97）』（情報更新 令和7年11月）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.nanbyou.or.jp/entry/62
+  source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
+  source_class: UNKNOWN
+- id: SRC-056
+  source: 難病情報センター『クローン病（指定難病96）』（情報更新 令和7年11月）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.nanbyou.or.jp/entry/81
+  source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
+  source_class: UNKNOWN
+- id: SRC-057
+  source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
+  doi: 10.1159/000495282
+  pmid: null
+  pmcid: null
+  url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
+  source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
+  source_class: RESTRICTED
+- id: SRC-058
+  source: 厚生労働省『腸管出血性大腸菌Q&A』（最終改訂 令和3年12月17日）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177609.html
+  source_license: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+  source_class: GOV_JP
+- id: SRC-059
+  source: 厚生労働省『カンピロバクター食中毒予防について（Q&A）』（最終改訂 令和8年5月27日）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/campylobacterqa.html
+  source_license: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+  source_class: GOV_JP
+- id: SRC-060
+  source: 厚生労働省『ノロウイルスに関するQ&A』（最終改定 令和3年11月19日）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/kanren/yobou/040204-1.html
+  source_license: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+  source_class: GOV_JP
+- id: SRC-061
+  source: 'CDC. C. diff: Facts for Clinicians（2026-04-13更新）'
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.cdc.gov/c-diff/hcp/clinical-overview/index.html
+  source_license: 米国連邦政府著作物（第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-062
+  source: Johnson S, et al. IDSA/SHEA 2021 Focused Update Guidelines on Management of Clostridioides difficile Infection in Adults. Clin Infect Dis 2021;73:e1029-e1044
+  doi: 10.1093/cid/ciab549
+  pmid: null
+  pmcid: null
+  url: https://www.idsociety.org/practice-guideline/clostridioides-difficile-2021-focused-update/
+  source_license: © IDSA, All rights reserved（複製・翻案は事前許諾が必要と明記）
+  source_class: RESTRICTED
+- id: SRC-063
+  source: NIDDK. Definition & Facts for Celiac Disease（最終レビュー 2020年10月）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease/definition-facts
+  source_license: 米国連邦政府著作物（第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-064
+  source: NIDDK. Definition & Facts of Hemorrhoids（最終レビュー 2016年10月）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.niddk.nih.gov/health-information/digestive-diseases/hemorrhoids/definition-facts
+  source_license: 米国連邦政府著作物（第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-065
+  source: Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963
+  doi: 10.1007/s00535-021-01796-x
+  pmid: null
+  pmcid: PMC8531062
+  url: https://link.springer.com/article/10.1007/s00535-021-01796-x
+  source_license: CC BY 4.0（記事ページの表示）
+  source_class: OPEN
+- id: SRC-066
+  source: Rinella ME, et al. A multisociety Delphi consensus statement on new fatty liver disease nomenclature. J Hepatol 2023;79:1542-1556
+  doi: 10.1016/j.jhep.2023.06.003
+  pmid: null
+  pmcid: null
+  url: https://research.birmingham.ac.uk/files/213541943/1-s2.0-S016882782300418X-main.pdf
+  source_license: CC BY-NC-ND 4.0（論文PDFの表示）
+  source_class: RESTRICTED
+- id: SRC-067
+  source: 日本肝臓学会 Clinical Practice Guidelines for Hepatocellular Carcinoma 2021（英語版PDF、第1・2・3分冊）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.jsh.or.jp/English/examination_en
+  source_license: © The Japan Society of Hepatology. All Rights Reserved
+  source_class: RESTRICTED
+- id: SRC-068
+  source: 国立がん研究センター がん情報サービス 肝臓（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://ganjoho.jp/reg_stat/statistics/stat/cancer/8_liver.html
+  source_license: 元データは政府統計。サイト利用規約は人間が確認
+  source_class: GOV_JP
+- id: SRC-069
+  source: CDC. Clinical Overview of Hepatitis A（2025-08-29更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.cdc.gov/hepatitis-a/hcp/clinical-overview/index.html
+  source_license: 米国連邦政府著作物（第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-070
+  source: CDC. Clinical Overview of Hepatitis B（2025-08-29更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.cdc.gov/hepatitis-b/hcp/clinical-overview/index.html
+  source_license: 米国連邦政府著作物（第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-071
+  source: CDC. Clinical Overview of Hepatitis C（2025-08-29更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.cdc.gov/hepatitis-c/hcp/clinical-overview/index.html
+  source_license: 米国連邦政府著作物（第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-072
+  source: 厚生労働省『E型肝炎に関するQ&A』
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/hepatitis-e-virus_qa.html
+  source_license: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+  source_class: GOV_JP
+- id: SRC-073
+  source: MedlinePlus Genetics. Gilbert syndrome（最終更新 2012-02-01）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://medlineplus.gov/genetics/condition/gilbert-syndrome
+  source_license: 米国連邦政府著作物（NLM。第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-074
+  source: 'Sugawara K, Nakayama N, Mochida S. Acute liver failure in Japan: definition, classification, and prediction of the outcome. J Gastroenterol 2012;47:849-861'
+  doi: 10.1007/s00535-012-0624-x
+  pmid: null
+  pmcid: PMC3423565
+  url: https://link.springer.com/doi/10.1007/s00535-012-0624-x
+  source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  source_class: UNKNOWN
+- id: SRC-075
+  source: 厚生労働省健康局結核感染症課 事務連絡『愛知県における犬のエキノコックス症感染事例について（情報提供）』（平成26年4月8日）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou18/pdf/140409_01.pdf
+  source_license: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+  source_class: GOV_JP
+- id: SRC-076
+  source: 厚生労働省 指定難病93『原発性胆汁性胆管炎』概要・診断基準等
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.mhlw.go.jp/content/10905000/001173514.pdf
+  source_license: 厚労省 指定難病の概要・診断基準等（政府標準利用規約準拠と想定、原文は人間が確認）
+  source_class: GOV_JP
+- id: SRC-077
+  source: 厚生労働省 指定難病95『自己免疫性肝炎』概要・診断基準等
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.mhlw.go.jp/content/10905000/001173516.pdf
+  source_license: 厚労省 指定難病の概要・診断基準等（政府標準利用規約準拠と想定、原文は人間が確認）
+  source_class: GOV_JP
+- id: SRC-078
+  source: 厚生労働省 指定難病171『ウィルソン病』概要・診断基準等
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.mhlw.go.jp/content/10905000/001174379.pdf
+  source_license: 厚労省 指定難病の概要・診断基準等（政府標準利用規約準拠と想定、原文は人間が確認）
+  source_class: GOV_JP
+- id: SRC-079
+  source: 厚生労働省 指定難病91『バッド・キアリ症候群』概要・診断基準等
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.mhlw.go.jp/content/10905000/001173512.pdf
+  source_license: 厚労省 指定難病の概要・診断基準等（政府標準利用規約準拠と想定、原文は人間が確認）
+  source_class: GOV_JP
+- id: SRC-080
+  source: 厚生労働省 指定難病92『特発性門脈圧亢進症』概要・診断基準等
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.mhlw.go.jp/content/10905000/001173513.pdf
+  source_license: 厚労省 指定難病の概要・診断基準等（政府標準利用規約準拠と想定、原文は人間が確認）
+  source_class: GOV_JP
+- id: SRC-081
+  source: MedlinePlus Genetics. Hereditary hemochromatosis（最終更新 2019-02-01）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://medlineplus.gov/genetics/condition/hereditary-hemochromatosis/
+  source_license: 米国連邦政府著作物（NLM。第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-082
+  source: MedlinePlus Genetics. Dubin-Johnson syndrome（最終更新 2018-08-01）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://medlineplus.gov/genetics/condition/dubin-johnson-syndrome
+  source_license: 米国連邦政府著作物（NLM。第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-083
+  source: MedlinePlus Genetics. Rotor syndrome（最終更新 2013-03-01）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://medlineplus.gov/genetics/condition/rotor-syndrome
+  source_license: 米国連邦政府著作物（NLM。第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-084
+  source: Tajiri K, Shimizu Y. Practical guidelines for diagnosis and early management of drug-induced liver injury. World J Gastroenterol 2008;14:6774-6785
+  doi: 10.3748/wjg.14.6774
+  pmid: null
+  pmcid: null
+  url: https://wjgnet.com/1007-9327/full/v14/i44/6774.htm
+  source_license: CC BY-NC 4.0（記事ページの表示）
+  source_class: RESTRICTED
+- id: SRC-085
+  source: 日本肝臓学会 肝炎診療ガイドライン作成委員会編『B型肝炎治療ガイドライン（第4版）簡易版』2022年6月
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.jsh.or.jp/lib/files/medical/guidelines/jsh_guidlines/B_v4_20220817.pdf
+  source_license: © 日本肝臓学会（非CC）
+  source_class: RESTRICTED
+- id: SRC-086
+  source: 厚生労働省 感染症法に基づく医師の届出基準『五類感染症 アメーバ赤痢』と発生届様式
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.mhlw.go.jp/content/10906000/000788517.pdf
+  source_license: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+  source_class: GOV_JP
+- id: SRC-087
+  source: 急性膵炎診療ガイドライン改訂出版委員会（改訂出版責任者 高田忠敬）『急性膵炎診療ガイドライン2021（第5版）』2021年12月（日本肝胆膵外科学会サイト掲載PDF）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.jshbps.jp/huge/gl2021.pdf
+  source_license: 学会・出版社の著作物（非CC）
+  source_class: RESTRICTED
+- id: SRC-088
+  source: 日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）
+  doi: 10.1007/s00535-022-01911-6
+  pmid: null
+  pmcid: PMC9522716
+  url: https://link.springer.com/article/10.1007/s00535-022-01911-6
+  source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  source_class: UNKNOWN
+- id: SRC-089
+  source: 'Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511'
+  doi: 10.1007/s10147-023-02317-x
+  pmid: null
+  pmcid: PMC10066137
+  url: https://link.springer.com/10.1007/s10147-023-02317-x
+  source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  source_class: UNKNOWN
+- id: SRC-090
+  source: 国立がん研究センター がん情報サービス 膵臓（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://ganjoho.jp/reg_stat/statistics/stat/cancer/10_pancreas.html
+  source_license: 元データは政府統計。サイト利用規約は人間が確認
+  source_class: GOV_JP
+- id: SRC-091
+  source: 国立がん研究センター がん情報サービス 胆のう・胆管（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://ganjoho.jp/reg_stat/statistics/stat/cancer/9_gallbladder.html
+  source_license: 元データは政府統計。サイト利用規約は人間が確認
+  source_class: GOV_JP
+- id: SRC-092
+  source: 厚生労働省 指定難病94『原発性硬化性胆管炎』概要・診断基準等
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.mhlw.go.jp/content/10905000/001173515.pdf
+  source_license: 厚労省 指定難病の概要・診断基準等（政府標準利用規約準拠と想定、原文は人間が確認）
+  source_class: GOV_JP
+- id: SRC-093
+  source: 厚生労働省 指定難病300『IgG4関連疾患』概要・診断基準等
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.mhlw.go.jp/content/10905000/001175041.pdf
+  source_license: 厚労省 指定難病の概要・診断基準等（政府標準利用規約準拠と想定、原文は人間が確認）
+  source_class: GOV_JP
+- id: SRC-094
+  source: 日本肝胆膵外科学会ほか編『TG18新基準掲載 急性胆管炎・胆嚢炎診療ガイドライン2018（第3版）』医学図書出版、2018（Minds掲載本文PDF）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://minds.jcqhc.or.jp/summary/c00467/
+  source_license: 著作権は著者・出版社に帰属（Mindsは私的利用の範囲に限ると明記）
+  source_class: RESTRICTED
+- id: SRC-095
+  source: National Cancer Institute. Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ)–Health Professional Version（最終更新 2025-05-09）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.cancer.gov/types/pancreatic/hp/pnet-treatment-pdq
+  source_license: 米国連邦政府著作物（PDQは原則パブリックドメイン。第三者の図表は除く）
+  source_class: GOV_US
+- id: SRC-096
+  source: Ohtsuka T, et al. International evidence-based Kyoto guidelines for the management of intraductal papillary mucinous neoplasm of the pancreas. Pancreatology 2024;24:255-270
+  doi: 10.1016/j.pan.2023.12.009
+  pmid: '38182527'
+  pmcid: null
+  url: https://pure.fujita-hu.ac.jp/en/publications/international-evidence-based-kyoto-guidelines-for-the-management-/
+  source_license: 未確認（抄録のみ参照）
+  source_class: UNKNOWN
+- id: SRC-097
+  source: Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833
+  doi: 10.1007/s00535-023-02014-6
+  pmid: null
+  pmcid: PMC10423145
+  url: https://link.springer.com/article/10.1007/s00535-023-02014-6
+  source_license: Springer OA（記事ページでライセンス表示を確認できず。Crossrefで確認）
+  source_class: UNKNOWN
+- id: SRC-098
+  source: National Cancer Institute. Gallbladder Cancer Treatment (PDQ)–Health Professional Version
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.cancer.gov/types/gallbladder/hp/gallbladder-treatment-pdq
+  source_license: 米国連邦政府著作物（PDQは原則パブリックドメイン。第三者の図表は除く）
+  source_class: GOV_US
+- id: SRC-099
+  source: National Cancer Institute. Bile Duct Cancer (Cholangiocarcinoma) Treatment (PDQ)–Health Professional Version（最終更新 2025-03-28）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.cancer.gov/types/liver/hp/bile-duct-treatment-pdq
+  source_license: 米国連邦政府著作物（PDQは原則パブリックドメイン。第三者の図表は除く）
+  source_class: GOV_US
+- id: SRC-100
+  source: 'Drossman DA, Hasler WL. Rome IV—Functional GI Disorders: Disorders of Gut-Brain Interaction. Gastroenterology 2016;150:1257-1261'
+  doi: 10.1053/j.gastro.2016.03.035
+  pmid: null
+  pmcid: null
+  url: https://old.theromefoundation.org/wp-content/uploads/gastroenterology-rome-iv-introduction.pdf
+  source_license: © 2016 AGA Institute（非CC）
+  source_class: RESTRICTED
+- id: SRC-101
+  source: 日本神経消化器病学会ウェブサイト『沿革』
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://plaza.umin.ac.jp/neuro-g/history.html
+  source_license: 学会ウェブサイト（利用規約は未確認）
+  source_class: UNKNOWN
+- id: SRC-102
+  source: Sperber AD, et al. Worldwide Prevalence and Burden of Functional Gastrointestinal Disorders, Results of Rome Foundation Global Study. Gastroenterology 2021;160:99-114
+  doi: 10.1053/j.gastro.2020.04.014
+  pmid: null
+  pmcid: null
+  url: https://theromefoundation.org/wp-content/uploads/Worldwide-Prevalence-and-Burden-of-FGlD-Results-of-RF-Global-Study.pdf
+  source_license: CC BY-NC-ND（論文中の表示）
+  source_class: RESTRICTED
+- id: SRC-103
+  source: NIDDK. Definition & Facts for Gastroparesis（最終レビュー 2018年1月）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.niddk.nih.gov/health-information/digestive-diseases/gastroparesis/definition-facts
+  source_license: 米国連邦政府著作物（NIDDK。第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-104
+  source: NIDDK. Diagnosis of Gastroparesis（最終レビュー 2018年1月）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.niddk.nih.gov/health-information/digestive-diseases/gastroparesis/diagnosis
+  source_license: 米国連邦政府著作物（NIDDK。第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-105
+  source: NIDDK. Treatment for Gastroparesis（最終レビュー 2018年1月）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.niddk.nih.gov/health-information/digestive-diseases/gastroparesis/treatment
+  source_license: 米国連邦政府著作物（NIDDK。第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-106
+  source: NIDDK. Definition & Facts for Cyclic Vomiting Syndrome（最終レビュー 2017年12月）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.niddk.nih.gov/health-information/digestive-diseases/cyclic-vomiting-syndrome/definition-facts
+  source_license: 米国連邦政府著作物（NIDDK。第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-107
+  source: NIDDK. Treatment for Cyclic Vomiting Syndrome（最終レビュー 2017年12月）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.niddk.nih.gov/health-information/digestive-diseases/cyclic-vomiting-syndrome/treatment
+  source_license: 米国連邦政府著作物（NIDDK。第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-108
+  source: NIDDK. Definition & Facts for Bowel Control Problems (Fecal Incontinence)（最終レビュー 2017年7月）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.niddk.nih.gov/health-information/digestive-diseases/bowel-control-problems-fecal-incontinence/definition-facts
+  source_license: 米国連邦政府著作物（NIDDK。第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-109
+  source: NIDDK. Treatment for Bowel Control Problems (Fecal Incontinence)（最終レビュー 2017年7月）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.niddk.nih.gov/health-information/digestive-diseases/bowel-control-problems-fecal-incontinence/treatment
+  source_license: 米国連邦政府著作物（NIDDK。第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-110
+  source: 厚生労働省 指定難病99『慢性特発性偽性腸閉塞症』概要・診断基準等
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.mhlw.go.jp/content/10905000/001173520.pdf
+  source_license: 厚労省 指定難病の概要・診断基準等（政府標準利用規約準拠と想定、原文は人間が確認）
+  source_class: GOV_JP
+- id: SRC-111
+  source: 厚生労働省 指定難病291『ヒルシュスプルング病（全結腸型又は小腸型）』概要・診断基準等
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.mhlw.go.jp/content/10905000/001212061.pdf
+  source_license: 厚労省 指定難病の概要・診断基準等（政府標準利用規約準拠と想定、原文は人間が確認）
+  source_class: GOV_JP
+- id: SRC-112
+  source: NIDDK. Symptoms & Causes of Irritable Bowel Syndrome（最終レビュー 2017年11月）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/symptoms-causes
+  source_license: 米国連邦政府著作物（NIDDK。第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-113
+  source: NIDDK. Treatment for Irritable Bowel Syndrome（最終レビュー 2017年11月）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/treatment
+  source_license: 米国連邦政府著作物（NIDDK。第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-114
+  source: 'NCCIH. Probiotics: Usefulness and Safety（最終更新 2019年8月）'
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety
+  source_license: 米国連邦政府著作物（NCCIH。第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-115
+  source: アコファイド錠100mg（アコチアミド塩酸塩水和物）添付文書 2023年8月改訂（第3版）、ゼリア新薬工業
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.pmda.go.jp/PmdaSearch/iyakuDetail/380077_2399015F1020_1_09
+  source_license: 医療用医薬品の添付文書（PMDA掲載。著作権は製造販売業者。事実のみ使用）
+  source_class: UNKNOWN
+- id: SRC-116
+  source: イリボー錠2.5μg・5μg（ラモセトロン塩酸塩）添付文書 2021年3月改訂（第2版）、アステラス製薬
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/800126_2399014F1026_1_15
+  source_license: 医療用医薬品の添付文書（PMDA掲載。著作権は製造販売業者。事実のみ使用）
+  source_class: UNKNOWN
+- id: SRC-117
+  source: リンゼス錠0.25mg（リナクロチド）添付文書 2026年8月改訂（第3版）、アステラス製薬
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.pmda.go.jp/PmdaSearch/iyakuDetail/800126_2399017F1020_1_07
+  source_license: 医療用医薬品の添付文書（PMDA掲載。著作権は製造販売業者。事実のみ使用）
+  source_class: UNKNOWN
+- id: SRC-118
+  source: グーフィス錠5mg（エロビキシバット水和物）添付文書 2022年4月改訂（第2版）、EAファーマ
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.pmda.go.jp/PmdaSearch/iyakuDetail/111890_2359008F1025_1_06
+  source_license: 医療用医薬品の添付文書（PMDA掲載。著作権は製造販売業者。事実のみ使用）
+  source_class: UNKNOWN
+- id: SRC-119
+  source: スインプロイク錠0.2mg（ナルデメジントシル酸塩）添付文書 2026年9月改訂（第3版）、塩野義製薬
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.pmda.go.jp/PmdaSearch/iyakuDetail/340018_2359007F1020_1_07
+  source_license: 医療用医薬品の添付文書（PMDA掲載。著作権は製造販売業者。事実のみ使用）
+  source_class: UNKNOWN
+- id: SRC-120
+  source: リフキシマ錠200mg（リファキシミン）添付文書 2024年3月改訂（第3版）、あすか製薬
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.pmda.go.jp/PmdaSearch/iyakuDetail/470007_6199001F1026_1_07
+  source_license: 医療用医薬品の添付文書（PMDA掲載。著作権は製造販売業者。事実のみ使用）
+  source_class: UNKNOWN
+- id: SRC-121
+  source: 'Carrington EV, et al. The international anorectal physiology working group (IAPWG) recommendations: Standardized testing protocol and the London classification for disorders of anorectal function. Neurogastroenterol Motil 2020;32:e13679'
+  doi: 10.1111/nmo.13679
+  pmid: null
+  pmcid: PMC7497505
+  url: https://discovery-pp.ucl.ac.uk/id/eprint/10080132/1/Carrington_et_al-2019-Neurogastroenterology_%26_Motility.pdf
+  source_license: CC BY 4.0（論文中の表示）
+  source_class: OPEN
+- id: SRC-122
+  source: 'Sawada A, Fujiwara Y. Belching Disorders and Rumination Syndrome: A Literature Review. Digestion 2024;105:18-25'
+  doi: 10.1159/000534092
+  pmid: null
+  pmcid: null
+  url: https://karger.com/dig/article/105/1/18/864318/Belching-Disorders-and-Rumination-Syndrome-A
+  source_license: © 2023 S. Karger AG, All rights reserved
+  source_class: RESTRICTED
+- id: SRC-123
+  source: 'FDA. Fecal Microbiota for Transplantation: Safety Communication – Risk of Serious Adverse Reactions Due to Transmission of Multi-Drug Resistant Organisms（2019-06-13、06-18更新）'
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/fecal-microbiota-transplantation-safety-communication-risk-serious-adverse-reactions-due
+  source_license: 米国連邦政府著作物（第三者素材を除く）
+  source_class: GOV_US
+- id: SRC-124
+  source: 'Frazzitta G, et al. Severe Constipation in Parkinson''s Disease and in Parkinsonisms: Prevalence and Affecting Factors. Front Neurol 2019;10:621'
+  doi: 10.3389/fneur.2019.00621
+  pmid: null
+  pmcid: PMC6591373
+  url: https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2019.00621/full
+  source_license: CC BY（記事ページの表示）
+  source_class: OPEN
+- id: SRC-125
+  source: Iyengar P, Chang L. The multidimensional clinical profile for disorders of gut-brain interaction. 2024（Permanyer、ISSN 2462-7011）
+  doi: 10.24875/NGL.23000008
+  pmid: null
+  pmcid: null
+  url: https://oalib-perpustakaan.upi.edu/Record/doaj_e9fbd8ef8e2342c1b1d89f204986f193/Description
+  source_license: 未確認（DOAJ収載のOA誌。抄録のみ参照）
+  source_class: UNKNOWN
+- id: SRC-126
+  source: Rome Foundation『Special issue of Gastroenterology, May 2016』（Rome IV 特集号の章構成）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://theromefoundation.org/?p=565
+  source_license: Rome Foundation ウェブサイト（利用規約は未確認）
+  source_class: UNKNOWN
+- id: SRC-127
+  source: Aziz Q, et al. Functional Esophageal Disorders. Gastroenterology 2016;150:1368-1379
+  doi: 10.1053/j.gastro.2016.02.012
+  pmid: null
+  pmcid: null
+  url: https://www.spg.pt/wp-content/uploads/2023/03/10-Esophageal-Disorders.pdf
+  source_license: © 2016 AGA Institute（非CC。Rome IV の基準文の転載はせず、事実のみ使用）
+  source_class: RESTRICTED
+- id: SRC-128
+  source: Stanghellini V, et al. Gastroduodenal Disorders. Gastroenterology 2016;150:1380-1392
+  doi: 10.1053/j.gastro.2016.02.011
+  pmid: null
+  pmcid: null
+  url: https://www.spg.pt/wp-content/uploads/2023/03/11-Gastroduodenal-Disorders.pdf
+  source_license: © 2016 AGA Institute（非CC。Rome IV の基準文の転載はせず、事実のみ使用）
+  source_class: RESTRICTED
+- id: SRC-129
+  source: Lacy BE, et al. Bowel Disorders. Gastroenterology 2016;150:1393-1407
+  doi: 10.1053/j.gastro.2016.02.031
+  pmid: null
+  pmcid: null
+  url: https://www.spg.pt/wp-content/uploads/2023/03/12-Bowel-Disorders.pdf
+  source_license: © 2016 AGA Institute（非CC。Rome IV の基準文の転載はせず、事実のみ使用）
+  source_class: RESTRICTED
+- id: SRC-130
+  source: Keefer L, et al. Centrally Mediated Disorders of Gastrointestinal Pain. Gastroenterology 2016;150:1408-1419
+  doi: 10.1053/j.gastro.2016.02.034
+  pmid: null
+  pmcid: null
+  url: https://www.spg.pt/wp-content/uploads/2023/03/13-Centrally-Mediated-Disorders-of-Gastrointestinal-Pain.pdf
+  source_license: © 2016 AGA Institute（非CC。Rome IV の基準文の転載はせず、事実のみ使用）
+  source_class: RESTRICTED
+- id: SRC-131
+  source: Rao SSC, et al. Anorectal Disorders. Gastroenterology 2016;150:1430-1442
+  doi: 10.1053/j.gastro.2016.02.009
+  pmid: null
+  pmcid: null
+  url: https://www.spg.pt/wp-content/uploads/2023/03/15-Anorectal-Disorders.pdf
+  source_license: © 2016 AGA Institute（非CC。Rome IV の基準文の転載はせず、事実のみ使用）
+  source_class: RESTRICTED
+- id: SRC-132
+  source: 'Benninga MA, et al. Childhood Functional Gastrointestinal Disorders: Neonate/Toddler. Gastroenterology 2016;150:1443-1455'
+  doi: 10.1053/j.gastro.2016.02.016
+  pmid: null
+  pmcid: null
+  url: https://www.spg.pt/wp-content/uploads/2023/03/16-Childhood-Functional-Gastrointestinal-Disorders-Neonate-Toddler.pdf
+  source_license: © 2016 AGA Institute（非CC。Rome IV の基準文の転載はせず、事実のみ使用）
+  source_class: RESTRICTED
+- id: SRC-133
+  source: 'Hyams JS, et al. Childhood Functional Gastrointestinal Disorders: Child/Adolescent. Gastroenterology 2016;150:1456-1468'
+  doi: 10.1053/j.gastro.2016.02.015
+  pmid: null
+  pmcid: null
+  url: https://www.spg.pt/wp-content/uploads/2023/03/17-Childhood-Functional-Gastrointestinal-Disorders-Child-Adolescent.pdf
+  source_license: © 2016 AGA Institute（非CC。Rome IV の基準文の転載はせず、事実のみ使用）
+  source_class: RESTRICTED
+- id: SRC-134
+  source: 日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020
+  doi: null
+  pmid: null
+  pmcid: null
+  url: null
+  source_license: © 日本消化器病学会（非CC）。ユーザー提供のPDFで確認
+  source_class: RESTRICTED
+- id: SRC-135
+  source: 日本消化管学会編『便通異常症診療ガイドライン2023—慢性便秘症』南江堂、2023（第1刷 2023年7月13日、第4刷 2024年8月25日）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: null
+  source_license: © 日本消化管学会（非CC）。ユーザー提供の刊行版PDF（第4刷、ISBN 978-4-524-21005-3）で照合
+  source_class: RESTRICTED
+- id: SRC-136
+  source: Chen JW, Rubenstein JH. Esophagogastric junction distensibility assessed using the functional lumen imaging probe. World J Gastroenterol 2017;23:1289-1297
+  doi: 10.3748/wjg.v23.i7.1289
+  pmid: '28275309'
+  pmcid: null
+  url: https://wjgnet.com/1007-9327/full/v23/i7/1289.htm
+  source_license: CC BY-NC 4.0（記事ページの表示）
+  source_class: RESTRICTED
+- id: SRC-137
+  source: 'Rome Foundation『Rome V: A Global Framework for Disorders of Gut–Brain Interaction』（製品・概要ページ）'
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://theromefoundation.org/rome-v-a-global-framework-for-disorders-of-gut-brain-interaction/
+  source_license: © 2026 Rome Foundation. All rights reserved
+  source_class: RESTRICTED
+- id: SRC-138
+  source: Rome Foundation『Rome V, Disorders of Gut-Brain Interaction 5th Edition』（編集体制のページ）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://theromefoundation.org/rome-iv/rome-v-disorders-of-gut-brain-interaction-5th-edition/
+  source_license: © 2026 Rome Foundation. All rights reserved
+  source_class: RESTRICTED
+- id: SRC-139
+  source: Rome Foundation『Rome V Journal Articles』（Gastroenterology 2026;170 掲載論文の一覧）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: https://theromefoundation.org/rome-v-a-global-framework-for-disorders-of-gut-brain-interaction/rome-v-journal-articles/
+  source_license: © 2026 Rome Foundation. All rights reserved
+  source_class: RESTRICTED
+- id: SRC-140
+  source: Rosen R, et al. Rome V Pediatric Upper Gastrointestinal Disorders of Gut–Brain Interaction. Gastroenterology 2026;170:1347-1366
+  doi: 10.1053/j.gastro.2026.01.039
+  pmid: null
+  pmcid: null
+  url: https://theromefoundation.org/wp-content/uploads/2026/09/Rome-V-Pediatric-Upper-Gastrointestinal-Disorders-.pdf
+  source_license: CC BY-NC-ND 4.0（© 2026 The Author(s)、AGA Institute）。ユーザー提供の原本で確認
+  source_class: RESTRICTED
+- id: SRC-141
+  source: Staller K, et al. Clin Gastroenterol Hepatol 2026（ContactME-IBS 登録データによる Rome III・IV・V の比較）
+  doi: 10.1016/j.cgh.2026.07.022
+  pmid: null
+  pmcid: null
+  url: https://news.gastro.org/issues/2026/august-2026/rome-v-criteria-capture-more-people-with-ibs-but-a-milder-group/
+  source_license: 原著は未取得。AGA の GI & Hepatology News（2026-08-20）の記事で内容を確認
+  source_class: UNKNOWN
+- id: SRC-142
+  source: 'Maev IV, et al. Rome V Criteria (2026): Continuity, innovations and major updates. Meditsinskiy sovet 2026;(8):8-21'
+  doi: 10.21518/ms2026-232
+  pmid: null
+  pmcid: null
+  url: https://www.med-sovet.pro/jour/article/view/10201?locale=en_US
+  source_license: CC（記事ページの表示が BY-NC-ND と BY 4.0 で不一致。抄録のみ参照）
+  source_class: UNKNOWN
+- id: SRC-143
+  source: Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）
+  doi: 10.1053/j.gastro.2026.02.003
+  pmid: null
+  pmcid: null
+  url: https://doi.org/10.1053/j.gastro.2026.02.003
+  source_license: CC BY 4.0（© 2026 The Author(s)、AGA Institute）
+  source_class: OPEN
+- id: SRC-144
+  source: Fukudo S, Aziz Q, Drossman DA, et al. Centrally Mediated Disorders of Gastrointestinal Pain. Gastroenterology 2026;170:1283-1302（Rome V）
+  doi: 10.1053/j.gastro.2025.12.038
+  pmid: null
+  pmcid: null
+  url: https://doi.org/10.1053/j.gastro.2025.12.038
+  source_license: CC BY-NC-ND 4.0（© 2026 The Author(s)、AGA Institute）
+  source_class: RESTRICTED
+- id: SRC-145
+  source: Rao SSC, Bharucha AE, Carrington EV, et al. Anorectal Disorders. Gastroenterology 2026;170:1318-1346（Rome V）
+  doi: 10.1053/j.gastro.2026.01.037
+  pmid: null
+  pmcid: null
+  url: https://doi.org/10.1053/j.gastro.2026.01.037
+  source_license: CC BY-NC-ND 4.0（© 2026 The Author(s)、AGA Institute）
+  source_class: RESTRICTED
+- id: SRC-146
+  source: Elsenbruch S, Ballou S, Keefer L, et al. Biopsychosocial Aspects of Adult and Pediatric Disorders of Gut–Brain Interaction. Gastroenterology 2026;170:1205-1223（Rome V）
+  doi: 10.1053/j.gastro.2026.02.009
+  pmid: null
+  pmcid: null
+  url: https://doi.org/10.1053/j.gastro.2026.02.009
+  source_license: CC BY-NC-ND 4.0（© 2026 The Author(s)、AGA Institute）
+  source_class: RESTRICTED
+- id: SRC-147
+  source: Palsson OS, Lacy BE, Benninga MA, et al. Development of the Rome V Diagnostic Questionnaires. Gastroenterology 2026;170:1408-1416
+  doi: 10.1053/j.gastro.2026.01.041
+  pmid: null
+  pmcid: null
+  url: https://doi.org/10.1053/j.gastro.2026.01.041
+  source_license: CC BY-NC-ND 4.0（© 2026 The Author(s)、AGA Institute）
+  source_class: RESTRICTED
+- id: SRC-148
+  source: 日本消化管学会編『便通異常症診療ガイドライン2023—慢性下痢症』南江堂、2023（第1刷 2023年7月13日、ISBN 978-4-524-21006-0）
+  doi: null
+  pmid: null
+  pmcid: null
+  url: null
+  source_license: © 日本消化管学会（非CC）。ユーザー提供の刊行版PDFで確認
+  source_class: RESTRICTED
+- id: SRC-149
+  source: Gyawali CP, Roman S, Zerbib F, et al. Functional Esophageal Disorders. Gastroenterology 2026;170:1224-1239（Rome V）
+  doi: 10.1053/j.gastro.2026.02.005
+  pmid: null
+  pmcid: null
+  url: https://doi.org/10.1053/j.gastro.2026.02.005
+  source_license: CC BY-NC-ND 4.0（© 2026 The Author(s)、AGA Institute）
+  source_class: RESTRICTED
+- id: SRC-150
+  source: Törnblom H, Carbone F, Hasler WL, et al. Gastroduodenal Disorders. Gastroenterology 2026;170:1240-1260（Rome V）
+  doi: 10.1053/j.gastro.2026.01.038
+  pmid: null
+  pmcid: null
+  url: https://doi.org/10.1053/j.gastro.2026.01.038
+  source_license: CC BY 4.0（© 2026 The Author(s)、AGA Institute）
+  source_class: OPEN
+- id: SRC-151
+  source: 'Greenwood-Van Meerveld B, Mawe GM, Beyder A, et al. Fundamentals of Neurogastroenterology: Basic Science. Gastroenterology 2026;170:1099-1113（Rome V）'
+  doi: 10.1053/j.gastro.2026.01.040
+  pmid: null
+  pmcid: null
+  url: https://doi.org/10.1053/j.gastro.2026.01.040
+  source_license: CC BY-NC-ND 4.0（© 2026 The Author(s)、AGA Institute）
+  source_class: RESTRICTED
+- id: SRC-152
+  source: 'Di Lorenzo C, Saps M, Chumpitazi BP, et al. Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent. Gastroenterology 2026;170:1367-1387（Rome V）'
+  doi: 10.1053/j.gastro.2026.01.036
+  pmid: null
+  pmcid: null
+  url: https://doi.org/10.1053/j.gastro.2026.01.036
+  source_license: CC BY-NC-ND 4.0（© 2026 The Author(s)、AGA Institute）
+  source_class: RESTRICTED
+- id: SRC-153
+  source: Drossman DA, Chang L, Tack J. Disorders of Gut–Brain Interaction and the Rome V Process. Gastroenterology 2026;170:1083-1098
+  doi: 10.1053/j.gastro.2026.02.014
+  pmid: null
+  pmcid: null
+  url: https://doi.org/10.1053/j.gastro.2026.02.014
+  source_license: CC BY-NC-ND 4.0（© 2026 The Author(s)、AGA Institute）
+  source_class: RESTRICTED

@@ -1,0 +1,2739 @@
+# 第3回 小腸・大腸（IN-001〜IN-088）
+
+- 作成日：2026-10-13
+- 事実票：88件（IN-001〜IN-088、欠番なし）。全件 `status: draft`、`verifier: null`
+- 取り込み時の注意：YAMLブロックは1つだけで、アンカー・マージキー・脚注番号は使っていません。`fact.schema.json` での検証を通過済みです。
+- 形式は第2回（`docs/tasks/round2_GD_supplement.md` 第1節）と同じです。
+
+## 1. 出典マスター（新規 SRC-048〜064、既存 SRC-037 を再利用）
+
+| SRC | 出典 | DOI | PMID | ライセンス表示 | source_class | 使用カード数 |
+|---|---|---|---|---|---|---|
+| SRC-037 | 厚生労働省『がん予防重点健康教育及びがん検診実施のための指針』（平成28年2月改正）／厚労省がん検診ページ | — | — | 政府標準利用規約（原文は人間が確認） | GOV_JP | 1 |
+| SRC-048 | Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526 | 10.1007/s00535-021-01784-1 | — | Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認） | UNKNOWN | 10 |
+| SRC-049 | Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217 | 10.1007/s00535-020-01746-z | — | Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認） | UNKNOWN | 10 |
+| SRC-050 | Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89 | 10.1159/000540912 | 39159626 | CC BY-NC（記事ページの許諾リンクの表示による） | RESTRICTED | 9 |
+| SRC-051 | Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335 | 10.1007/s00535-021-01776-1 | — | Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認） | UNKNOWN | 10 |
+| SRC-052 | Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463 | 10.1007/s10147-025-02899-8 | — | Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認） | UNKNOWN | 8 |
+| SRC-053 | 国立がん研究センター がん情報サービス 大腸（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新） | — | — | 元データは政府統計。サイト利用規約は人間が確認 | GOV_JP | 2 |
+| SRC-054 | National Cancer Institute. Genetics of Colorectal Cancer (PDQ)–Health Professional Version（最終更新 2025-03-21） | — | — | 米国連邦政府著作物（PDQは原則パブリックドメイン。第三者の図表は除く） | GOV_US | 3 |
+| SRC-055 | 難病情報センター『潰瘍性大腸炎（指定難病97）』（情報更新 令和7年11月） | — | — | © 公益財団法人 難病医学研究財団（利用規約は未確認） | UNKNOWN | 3 |
+| SRC-056 | 難病情報センター『クローン病（指定難病96）』（情報更新 令和7年11月） | — | — | © 公益財団法人 難病医学研究財団（利用規約は未確認） | UNKNOWN | 3 |
+| SRC-057 | Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26 | 10.1159/000495282 | — | CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA | RESTRICTED | 10 |
+| SRC-058 | 厚生労働省『腸管出血性大腸菌Q&A』（最終改訂 令和3年12月17日） | — | — | 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認） | GOV_JP | 4 |
+| SRC-059 | 厚生労働省『カンピロバクター食中毒予防について（Q&A）』（最終改訂 令和8年5月27日） | — | — | 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認） | GOV_JP | 2 |
+| SRC-060 | 厚生労働省『ノロウイルスに関するQ&A』（最終改定 令和3年11月19日） | — | — | 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認） | GOV_JP | 4 |
+| SRC-061 | CDC. C. diff: Facts for Clinicians（2026-04-13更新） | — | — | 米国連邦政府著作物（第三者素材を除く） | GOV_US | 4 |
+| SRC-062 | Johnson S, et al. IDSA/SHEA 2021 Focused Update Guidelines on Management of Clostridioides difficile Infection in Adults. Clin Infect Dis 2021;73:e1029-e1044 | 10.1093/cid/ciab549 | — | © IDSA, All rights reserved（複製・翻案は事前許諾が必要と明記） | RESTRICTED | 1 |
+| SRC-063 | NIDDK. Definition & Facts for Celiac Disease（最終レビュー 2020年10月） | — | — | 米国連邦政府著作物（第三者素材を除く） | GOV_US | 3 |
+| SRC-064 | NIDDK. Definition & Facts of Hemorrhoids（最終レビュー 2016年10月） | — | — | 米国連邦政府著作物（第三者素材を除く） | GOV_US | 1 |
+
+- Springer の日本の学会ガイドライン（IBD、IBS、大腸ポリープ、JSCCR 2024）は、記事ページで「Open access、© The Author(s)」とだけ表示され、CC の種別は出ていませんでした。そのため `UNKNOWN` としています。第2回では同じ系統の GL が Crossref で CC BY 4.0 だったので、照合で OPEN になる見込みです。
+- Karger の2つの GL は、記事ページの許諾リンクの表示から、慢性便秘症 GL を CC BY-NC、大腸憩室 GL を CC BY-NC-ND と判断し、`RESTRICTED` としています。
+- 難病情報センターは公益財団法人のサイトで府省の資料ではないため、`UNKNOWN` としています。
+- IDSA の CDI ガイドラインはページ上で「複製・翻案には事前許諾が必要」と明記されているため `RESTRICTED` とし、推奨の向きと強さだけを自作文で記述しています。
+- 全カードの `legal_basis` は B（自作文による事実の記述）です。
+- PMCID のうち SRC-051（PMC8005396）と SRC-052（PMC12644182）は、検索結果に表示された PMC の記事名と一致したものです。API での照合は済んでいません。
+
+## 2. 事実票 YAML
+
+```yaml
+- id: IN-001
+  domain: IN
+  subdomain: 炎症性腸疾患
+  assertion:
+    plain_statement_ja: 日本のIBD診療ガイドライン2020は、医療受給者証にもとづく国内の患者数を、潰瘍性大腸炎で22万人以上、クローン病で7万人以上としている。
+    condition:
+      region: 日本
+      guideline: JSGE IBD GL 2020
+    differential: 指定難病の受給者証所持者数（IN-011、IN-014）とは集計の基準が異なる
+    common_misconception: IBDは日本ではまれな疾患である
+  provenance:
+    source_ref: SRC-048
+    source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
+    doi: 10.1007/s00535-021-01784-1
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-021-01784-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 受給者証所持者数（令和5年度：UC 146,702人、CD 52,108人）との差は、集計の基準と年度の違いによると考えられるが、GL本文に定義の詳細はない
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-273 (id: Jlvnl3w)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-002
+  domain: IN
+  subdomain: 炎症性腸疾患
+  assertion:
+    plain_statement_ja: 潰瘍性大腸炎とクローン病はいずれも若年で発症することが多く、10歳代後半から30歳代前半に発症が多い。
+    condition:
+      region: 日本
+    differential: 高齢発症例もある
+    common_misconception: IBDは中高年の病気である
+  provenance:
+    source_ref: SRC-048
+    source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
+    doi: 10.1007/s00535-021-01784-1
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-021-01784-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-273 (id: Jlvnl3w)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-003
+  domain: IN
+  subdomain: 炎症性腸疾患
+  assertion:
+    plain_statement_ja: 潰瘍性大腸炎の病変範囲は、直腸炎型、左側大腸炎型（脾弯曲部まで）、全大腸炎型に分けられる。
+    condition: null
+    differential: クローン病は病変が非連続性で、小腸にも及ぶ
+    common_misconception: 左側大腸炎型は下行結腸より口側まで及ぶものを含む
+  provenance:
+    source_ref: SRC-048
+    source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
+    doi: 10.1007/s00535-021-01784-1
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-021-01784-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-004
+  domain: IN
+  subdomain: 炎症性腸疾患
+  assertion:
+    plain_statement_ja: 潰瘍性大腸炎の活動性評価に用いる部分Mayoスコアでは、0〜1点を寛解、2〜4点を軽症、5〜7点を中等症、8点以上を重症とする。
+    condition:
+      guideline: JSGE IBD GL 2020
+    differential: 日本の厚労省研究班の重症度分類は別の基準である
+    common_misconception: 部分Mayoスコアは内視鏡所見を必須とする
+  provenance:
+    source_ref: SRC-048
+    source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
+    doi: 10.1007/s00535-021-01784-1
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-021-01784-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 部分Mayoスコアは内視鏡所見を除いた3項目（排便回数、直腸出血、医師の全般評価）で構成されるが、構成項目はGL本文の該当箇所では確認していない
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-005
+  domain: IN
+  subdomain: 炎症性腸疾患
+  assertion:
+    plain_statement_ja: クローン病の好発部位は小腸と大腸（とくに回腸）および肛門周囲であり、病型（疾患挙動）はモントリオール分類で非狭窄非穿通型、穿通型、狭窄型に分けられる。
+    condition: null
+    differential: 潰瘍性大腸炎は直腸から連続する大腸の病変で、肛門周囲病変は典型的ではない
+    common_misconception: クローン病は大腸だけに起こる
+  provenance:
+    source_ref: SRC-048
+    source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
+    doi: 10.1007/s00535-021-01784-1
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-021-01784-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-006
+  domain: IN
+  subdomain: 炎症性腸疾患
+  assertion:
+    plain_statement_ja: 喫煙と虫垂切除は潰瘍性大腸炎の発症に予防的に働くと報告されている。一方、喫煙はクローン病の発症の危険因子と報告されている。経口避妊薬とNSAIDはIBDの発症との関連が報告されている。
+    condition:
+      guideline: JSGE IBD GL 2020 BQ3
+    differential: 喫煙の影響はUCとCDで逆向き
+    common_misconception: 喫煙はUCとCDの両方を悪化させる
+  provenance:
+    source_ref: SRC-048
+    source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
+    doi: 10.1007/s00535-021-01784-1
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-021-01784-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-273 (id: Jlvnl3w)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-007
+  domain: IN
+  subdomain: 炎症性腸疾患
+  assertion:
+    plain_statement_ja: 潰瘍性大腸炎の寛解維持療法では、5-ASA製剤を1日2 g以上で用いることが推奨されている（強い推奨、エビデンスの質：高）。
+    condition:
+      guideline: JSGE IBD GL 2020 CQ3
+    differential: 寛解導入時の用量とは別の推奨
+    common_misconception: 寛解後は5-ASAを減量・中止してよい
+  provenance:
+    source_ref: SRC-048
+    source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
+    doi: 10.1007/s00535-021-01784-1
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-021-01784-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 製剤によって高用量の上乗せ効果の報告は一致していない（GL本文の解説）
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-008
+  domain: IN
+  subdomain: 炎症性腸疾患
+  assertion:
+    plain_statement_ja: 日本のIBD診療ガイドライン2020は、5-ASA製剤による治療が潰瘍性大腸炎関連大腸癌のリスクを下げるとして、その使用を推奨している（強い推奨、エビデンスの質：低）。
+    condition:
+      guideline: JSGE IBD GL 2020 CQ4
+    differential: サーベイランス内視鏡の代わりにはならない
+    common_misconception: 5-ASAには発癌予防効果がない
+  provenance:
+    source_ref: SRC-048
+    source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
+    doi: 10.1007/s00535-021-01784-1
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-021-01784-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-650 (id: Jlvnmc0)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-009
+  domain: IN
+  subdomain: 炎症性腸疾患
+  assertion:
+    plain_statement_ja: クローン病の小腸カプセル内視鏡の診断率は、疑い例で20〜86%と報告されている。カプセルの滞留は、確定例で5〜13%、疑い例で4〜13%と報告されており、使用前に消化管の開通性を確認する。開通性が確認された例では、小腸の活動性評価にCTやMRによる小腸造影と同等に有用とされる（強い推奨、エビデンスの質：中）。
+    condition:
+      guideline: JSGE IBD GL 2020 CQ1
+    differential: 狭窄型クローン病では滞留の危険が高い
+    common_misconception: カプセル内視鏡は狭窄があっても安全に使える
+  provenance:
+    source_ref: SRC-048
+    source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
+    doi: 10.1007/s00535-021-01784-1
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-021-01784-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 診断率と滞留率はGLが引用した値（二次資料経由）で、原著は未照合
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-010
+  domain: IN
+  subdomain: 炎症性腸疾患
+  assertion:
+    plain_statement_ja: クローン病の活動性のモニタリングと治療効果の判定には、MRエンテログラフィ（MRE）やMRエンテロコロノグラフィ（MREC）が推奨される（強い推奨、エビデンスの質：中）。放射線被曝を避けるため、繰り返し検査する35歳未満の患者ではとくに望ましいとされる。
+    condition:
+      guideline: JSGE IBD GL 2020 CQ2
+    differential: CTエンテログラフィは被曝を伴う
+    common_misconception: 小腸病変の評価は小腸造影X線だけで十分
+  provenance:
+    source_ref: SRC-048
+    source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
+    doi: 10.1007/s00535-021-01784-1
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-021-01784-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)；TBL-02-07-029 (id: JlAKplA)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-011
+  domain: IN
+  subdomain: 炎症性腸疾患
+  assertion:
+    plain_statement_ja: 潰瘍性大腸炎は指定難病（番号97）で、令和5年度の特定医療費（指定難病）受給者証所持者数は146,702人である。発症年齢のピークは男性で20〜24歳、女性で25〜29歳で、男女比は1:1である。
+    condition:
+      region: 日本
+      year: 令和5年度
+    differential: クローン病は男性に多い（約2:1）
+    common_misconception: 潰瘍性大腸炎は女性に多い
+  provenance:
+    source_ref: SRC-055
+    source: 難病情報センター『潰瘍性大腸炎（指定難病97）』（情報更新 令和7年11月）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.nanbyou.or.jp/entry/62
+    source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: '出典の利用規約が未確認（source_class: UNKNOWN）'
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-012
+  domain: IN
+  subdomain: 炎症性腸疾患
+  assertion:
+    plain_statement_ja: 潰瘍性大腸炎では、発症から7〜8年を過ぎると大腸癌を合併するリスクが高くなるため、症状がなくても定期的な内視鏡検査が勧められる。
+    condition: null
+    differential: 散発性大腸癌の検診とは目的と間隔が異なる
+    common_misconception: 寛解していればサーベイランス内視鏡は不要
+  provenance:
+    source_ref: SRC-055
+    source: 難病情報センター『潰瘍性大腸炎（指定難病97）』（情報更新 令和7年11月）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.nanbyou.or.jp/entry/62
+    source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-013
+  domain: IN
+  subdomain: 炎症性腸疾患
+  assertion:
+    plain_statement_ja: 潰瘍性大腸炎の手術適応は、内科治療が無効な場合（とくに重症例）、副作用で内科治療が続けられない場合、大量出血、穿孔、癌またはその疑いがある場合である。術式は大腸全摘術で、回腸で便をためる袋（回腸嚢）を作って肛門につなぐ方法が主流である。
+    condition: null
+    differential: クローン病の手術は病変部の最小限の切除が原則
+    common_misconception: 潰瘍性大腸炎の手術は人工肛門が必須である
+  provenance:
+    source_ref: SRC-055
+    source: 難病情報センター『潰瘍性大腸炎（指定難病97）』（情報更新 令和7年11月）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.nanbyou.or.jp/entry/62
+    source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-014
+  domain: IN
+  subdomain: 炎症性腸疾患
+  assertion:
+    plain_statement_ja: クローン病は指定難病（番号96）で、2023年度（令和5年度）の特定医療費（指定難病）受給者証保持者数は52,108人である。男女比は約2:1で男性に多く、発症年齢のピークは男性で20〜24歳、女性で15〜19歳である。
+    condition:
+      region: 日本
+      year: 令和5年度
+    differential: 潰瘍性大腸炎は男女差がない
+    common_misconception: クローン病の患者数は潰瘍性大腸炎より多い
+  provenance:
+    source_ref: SRC-056
+    source: 難病情報センター『クローン病（指定難病96）』（情報更新 令和7年11月）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.nanbyou.or.jp/entry/81
+    source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: '出典の利用規約が未確認（source_class: UNKNOWN）'
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-015
+  domain: IN
+  subdomain: 炎症性腸疾患
+  assertion:
+    plain_statement_ja: クローン病の腸管合併症には瘻孔、狭窄、膿瘍があり、腸管外合併症には関節炎、虹彩炎、結節性紅斑、肛門部病変などがある。
+    condition: null
+    differential: 潰瘍性大腸炎でも腸管外合併症はみられるが、瘻孔はまれ
+    common_misconception: クローン病の合併症は腸管内に限られる
+  provenance:
+    source_ref: SRC-056
+    source: 難病情報センター『クローン病（指定難病96）』（情報更新 令和7年11月）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.nanbyou.or.jp/entry/81
+    source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-016
+  domain: IN
+  subdomain: 炎症性腸疾患
+  assertion:
+    plain_statement_ja: クローン病の治療には、経腸栄養や完全中心静脈栄養による栄養療法と、5-ASA製剤、副腎皮質ステロイド、免疫調節薬などの薬物療法があり、これらが効きにくい場合には抗TNFα抗体製剤などが使われる。難治性痔瘻などの肛門病変には、切開排膿やドレナージ術が行われる。
+    condition:
+      region: 日本
+    differential: 潰瘍性大腸炎では栄養療法に寛解導入効果は期待されない
+    common_misconception: 栄養療法は補助的で治療効果はない
+  provenance:
+    source_ref: SRC-056
+    source: 難病情報センター『クローン病（指定難病96）』（情報更新 令和7年11月）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.nanbyou.or.jp/entry/81
+    source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)；TBL-02-07-032 (id: JlAKplM)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-017
+  domain: IN
+  subdomain: 過敏性腸症候群
+  assertion:
+    plain_statement_ja: Rome IV基準による過敏性腸症候群（IBS）の有病率は世界全体で4.1%、日本で2.2%と報告されている。一方、機能性腸疾患全体の有病率は日本で25.2%とされる。
+    condition:
+      criteria: Rome IV
+    differential: Rome III基準では有病率がより高く出る
+    common_misconception: IBSの有病率はどの基準でも同じ
+  provenance:
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-020-01746-z
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: GLが引用した国際調査の値（二次資料経由）で、原著は未照合
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-018
+  domain: IN
+  subdomain: 過敏性腸症候群
+  assertion:
+    plain_statement_ja: IBSは女性に多く、男性の約1.6倍とされる。世界のIBS有病率は1981〜2010年の各10年で10〜12%とほぼ一定で、増加しているとは言えないとされる。
+    condition: null
+    differential: 性差は地域によって異なる
+    common_misconception: IBSは近年急増している
+  provenance:
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-020-01746-z
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値はGLが引用した値（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-019
+  domain: IN
+  subdomain: 過敏性腸症候群
+  assertion:
+    plain_statement_ja: 感染性腸炎にかかった人の約10%が感染後IBSを発症し、感染歴のない人に比べて6〜7倍多い。感染後IBSはIBS全体の5〜25%を占めるとされる。
+    condition: null
+    differential: 感染後FD
+    common_misconception: IBSは心理的要因だけで起こる
+  provenance:
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-020-01746-z
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値はGLが引用した値（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-270 (id: Jlvnl4s)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-020
+  domain: IN
+  subdomain: 過敏性腸症候群
+  assertion:
+    plain_statement_ja: IBSは便形状によって便秘型（IBS-C）、下痢型（IBS-D）、混合型（IBS-M）、分類不能型（IBS-U）に分けられる。病型は経過中に変わりやすく、女性患者を15か月追跡した研究では、12か月を超えて同じ病型にとどまったのは約25%だった。
+    condition: null
+    differential: 機能性便秘、機能性下痢
+    common_misconception: IBSの病型は一度決まれば変わらない
+  provenance:
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-020-01746-z
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 追跡研究の数値はGLが引用した値（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-021 (id: JlAKpkY)；TBL-02-07-022 (id: JlAKpkc)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-021
+  domain: IN
+  subdomain: 過敏性腸症候群
+  assertion:
+    plain_statement_ja: 日本のIBS診療ガイドライン2020は、IBSが疑われる患者に大腸内視鏡検査を行うことを弱く推奨している（エビデンスレベルB）。警告徴候のない例でも大腸の器質的病変が見つかったという報告がある。
+    condition:
+      guideline: JSGE IBS GL 2020 CQ2-1
+    differential: 警告徴候（体重減少、血便、発熱など）がある場合は器質的疾患の除外が必須
+    common_misconception: IBSは症状だけで診断し、検査は一切不要である
+  provenance:
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-020-01746-z
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: GL解説が引用する器質的病変の頻度（30.3%）は、対象と定義を原著で確認していないため主張文に入れていない
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-022
+  domain: IN
+  subdomain: 過敏性腸症候群
+  assertion:
+    plain_statement_ja: IBSと診断した後も、経過中に器質的消化管疾患が2〜5%で見つかると報告されており、とくに診断後3年間は定期的な検査が勧められる（強い推奨、エビデンスレベルA）。
+    condition:
+      guideline: JSGE IBS GL 2020 CQ2-4
+    differential: null
+    common_misconception: IBSと診断すれば再評価は不要
+  provenance:
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-020-01746-z
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 頻度はGLが引用した値（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-023
+  domain: IN
+  subdomain: 過敏性腸症候群
+  assertion:
+    plain_statement_ja: IBSの食事療法では、高脂肪食、カフェイン、香辛料、乳製品など症状を起こす食品を除くことが有効とされる（弱い推奨、エビデンスレベルB）。低FODMAP食は、日本では明らかな優位性が示されていないとされる。
+    condition:
+      guideline: JSGE IBS GL 2020 CQ3-1
+      region: 日本
+    differential: 海外のGLでは低FODMAP食の位置づけがより高い
+    common_misconception: 低FODMAP食は日本でも第一選択として確立している
+  provenance:
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-020-01746-z
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-024
+  domain: IN
+  subdomain: 過敏性腸症候群
+  assertion:
+    plain_statement_ja: IBSでは、適切な指導のもとでの運動療法が症状を改善するとされる（弱い推奨、エビデンスレベルB）。飲酒や喫煙をやめること、睡眠の改善については明確な根拠がない。
+    condition:
+      guideline: JSGE IBS GL 2020 CQ3-2
+    differential: null
+    common_misconception: 禁酒・禁煙でIBSは改善することが示されている
+  provenance:
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-020-01746-z
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-025
+  domain: IN
+  subdomain: 過敏性腸症候群
+  assertion:
+    plain_statement_ja: IBSには、ポリカルボフィルカルシウムなどの高分子重合体や水溶性食物繊維の摂取が有効とされる（強い推奨、エビデンスレベルA）。
+    condition:
+      guideline: JSGE IBS GL 2020 CQ3-3
+    differential: 不溶性食物繊維は症状を悪化させることがある
+    common_misconception: 食物繊維はIBSに無効
+  provenance:
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-020-01746-z
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 水溶性と不溶性の区別についての記載は、GL本文で一文ずつは照合していない
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-026
+  domain: IN
+  subdomain: 過敏性腸症候群
+  assertion:
+    plain_statement_ja: IBSには、トリメブチンマレイン酸塩に代表される消化管運動調節薬の使用が推奨される（弱い推奨、エビデンスレベルB）。
+    condition:
+      guideline: JSGE IBS GL 2020 CQ3-4
+    differential: null
+    common_misconception: 消化管運動調節薬はIBSの第一選択として強く推奨されている
+  provenance:
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
+    pmid: null
+    pmcid: null
+    url: https://link.springer.com/article/10.1007/s00535-020-01746-z
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-027
+  domain: IN
+  subdomain: 慢性便秘症
+  assertion:
+    plain_statement_ja: 日本の慢性便秘症診療ガイドライン2023は、便秘を、便の滞留や排便回数の減少、または排便困難を伴う状態とし、慢性便秘症を、便秘が続くことで日常生活に支障をきたし、さまざまな疾患の原因にもなりうる病態と定義している。
+    condition:
+      guideline: JSGE 慢性便秘症GL 2023 CQ1-1
+      region: 日本
+    differential: 一時的な便秘
+    common_misconception: 排便回数が少なければそれだけで便秘症である
+  provenance:
+    source_ref: SRC-050
+    source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
+    doi: 10.1159/000540912
+    pmid: '39159626'
+    pmcid: null
+    url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
+    source_license: CC BY-NC（記事ページの許諾リンクの表示による）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-028
+  domain: IN
+  subdomain: 慢性便秘症
+  assertion:
+    plain_statement_ja: 慢性便秘症の診断にはRome IV基準を用い、6項目のうち2項目以上を満たすものとする。日本の診断基準では、6か月以上前から症状があり、最近3か月間は基準を満たすことを求めるが、一般診療では3か月の適用を担当医の判断に委ねている。
+    condition:
+      guideline: JSGE 慢性便秘症GL 2023 BQ1-2
+    differential: IBS-Cは腹痛が主体
+    common_misconception: 慢性便秘症の診断には大腸通過時間検査が必須
+  provenance:
+    source_ref: SRC-050
+    source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
+    doi: 10.1159/000540912
+    pmid: '39159626'
+    pmcid: null
+    url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
+    source_license: CC BY-NC（記事ページの許諾リンクの表示による）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-029
+  domain: IN
+  subdomain: 慢性便秘症
+  assertion:
+    plain_statement_ja: 日本の慢性便秘症の有病率は約10〜15%と推定されている。20〜69歳の成人1万人を対象としたインターネット調査ではRome IV基準で4.4%、33か国の調査では日本の機能性便秘は16.6%（全体11.7%）と報告されている。
+    condition:
+      region: 日本
+    differential: 調査方法と診断基準によって有病率は大きく変わる
+    common_misconception: 日本の便秘の有病率は1%未満
+  provenance:
+    source_ref: SRC-050
+    source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
+    doi: 10.1159/000540912
+    pmid: '39159626'
+    pmcid: null
+    url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
+    source_license: CC BY-NC（記事ページの許諾リンクの表示による）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値はGLが引用した調査の値（二次資料経由）で、原著は未照合
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-030
+  domain: IN
+  subdomain: 慢性便秘症
+  assertion:
+    plain_statement_ja: 慢性便秘症は、一次性（機能性便秘、便秘型IBS、腸管運動の障害）と二次性（薬剤性、全身疾患に伴うもの、器質的疾患に伴うもの）に分けられる。症状からは排便回数減少型と排便困難型に分けられ、機能性便秘と便秘型IBSは大腸通過時間が正常なものと遅延するものに分けられる。
+    condition:
+      guideline: JSGE 慢性便秘症GL 2023 BQ1-1
+    differential: 器質性便秘（大腸癌など）
+    common_misconception: 便秘はすべて大腸の動きが悪いことが原因
+  provenance:
+    source_ref: SRC-050
+    source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
+    doi: 10.1159/000540912
+    pmid: '39159626'
+    pmcid: null
+    url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
+    source_license: CC BY-NC（記事ページの許諾リンクの表示による）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-031
+  domain: IN
+  subdomain: 慢性便秘症
+  assertion:
+    plain_statement_ja: 慢性便秘症を起こす薬剤には、抗コリン薬、向精神薬、オピオイド、抗癌剤、カルシウム拮抗薬、利尿薬、アルミニウムを含む制酸薬などがある。
+    condition:
+      guideline: JSGE 慢性便秘症GL 2023 BQ3-5
+    differential: オピオイド誘発性便秘
+    common_misconception: 便秘の原因に薬剤は少ない
+  provenance:
+    source_ref: SRC-050
+    source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
+    doi: 10.1159/000540912
+    pmid: '39159626'
+    pmcid: null
+    url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
+    source_license: CC BY-NC（記事ページの許諾リンクの表示による）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-032
+  domain: IN
+  subdomain: 慢性便秘症
+  assertion:
+    plain_statement_ja: 慢性便秘症の原因となる全身疾患には、糖尿病、甲状腺機能低下症、うつ病、統合失調症、パーキンソン病、全身性強皮症、透析などがある。
+    condition:
+      guideline: JSGE 慢性便秘症GL 2023 BQ3-3
+    differential: 甲状腺機能亢進症では下痢が多い
+    common_misconception: 便秘は消化管の病気だけで起こる
+  provenance:
+    source_ref: SRC-050
+    source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
+    doi: 10.1159/000540912
+    pmid: '39159626'
+    pmcid: null
+    url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
+    source_license: CC BY-NC（記事ページの許諾リンクの表示による）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-033
+  domain: IN
+  subdomain: 慢性便秘症
+  assertion:
+    plain_statement_ja: 直腸の感覚閾値の上昇（便意の消失）は、慢性便秘症の病態に関与するとされる（エビデンスレベルA）。
+    condition:
+      guideline: JSGE 慢性便秘症GL 2023 CQ3-2
+    differential: 骨盤底筋の協調障害（排便困難型）
+    common_misconception: 便秘の病態は大腸の運動低下に限られる
+  provenance:
+    source_ref: SRC-050
+    source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
+    doi: 10.1159/000540912
+    pmid: '39159626'
+    pmcid: null
+    url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
+    source_license: CC BY-NC（記事ページの許諾リンクの表示による）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-034
+  domain: IN
+  subdomain: 慢性便秘症
+  assertion:
+    plain_statement_ja: 慢性便秘症の治療は生活習慣と食事の改善から始め、内服薬では浸透圧性下剤をまず考慮する。効果が不十分な場合は上皮機能変容薬や胆汁酸トランスポーター阻害薬を用い、刺激性下剤は頓用にとどめる。プロバイオティクス、膨張性下剤、消化管運動賦活薬、漢方薬は根拠が十分でない代替・補完的な選択肢とされる。
+    condition:
+      guideline: JSGE 慢性便秘症GL 2023
+      region: 日本
+    differential: オピオイド誘発性便秘には別の選択肢がある
+    common_misconception: 刺激性下剤を毎日の第一選択として使う
+  provenance:
+    source_ref: SRC-050
+    source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
+    doi: 10.1159/000540912
+    pmid: '39159626'
+    pmcid: null
+    url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
+    source_license: CC BY-NC（記事ページの許諾リンクの表示による）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 各薬剤の推奨の強さとエビデンスレベルは今回は取得できていない
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-035
+  domain: IN
+  subdomain: 慢性便秘症
+  assertion:
+    plain_statement_ja: 日本で慢性便秘症に承認されている比較的新しい薬剤には、上皮機能変容薬のルビプロストンとリナクロチド、胆汁酸トランスポーター阻害薬のエロビキシバット、浸透圧性下剤のマクロゴール4000とラクツロース製剤がある。
+    condition:
+      region: 日本
+      guideline: JSGE 慢性便秘症GL 2023
+    differential: 酸化マグネシウムは従来から使われる浸透圧性下剤
+    common_misconception: 慢性便秘症の治療薬は刺激性下剤しかない
+  provenance:
+    source_ref: SRC-050
+    source: Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89
+    doi: 10.1159/000540912
+    pmid: '39159626'
+    pmcid: null
+    url: https://karger.com/dig/article/106/1/62/912065/Evidence-Based-Clinical-Guidelines-for-Chronic
+    source_license: CC BY-NC（記事ページの許諾リンクの表示による）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 承認状況はGL作成時点。最新の添付文書で確認が必要
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-036
+  domain: IN
+  subdomain: 大腸ポリープ
+  assertion:
+    plain_statement_ja: 大腸の腺腫性病変は6 mm以上であれば内視鏡的切除が強く推奨される。5 mm以下の隆起型腺腫は原則として切除を弱く推奨するが、経過観察も許容される。平坦型・陥凹型の腫瘍性病変は5 mm以下でも切除が推奨される。
+    condition:
+      guideline: JSGE 大腸ポリープGL 2020
+    differential: 5 mm以下の直腸・S状結腸の過形成性ポリープは経過観察
+    common_misconception: 5 mm以下の病変はすべて放置してよい
+  provenance:
+    source_ref: SRC-051
+    source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
+    doi: 10.1007/s00535-021-01776-1
+    pmid: null
+    pmcid: PMC8005396
+    url: https://link.springer.com/article/10.1007/s00535-021-01776-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)；TBL-02-07-033 (id: JlAKplQ)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-037
+  domain: IN
+  subdomain: 大腸ポリープ
+  assertion:
+    plain_statement_ja: コールドスネアポリペクトミーは、10 mm未満の有茎性でない良性腺腫に適応とされ、とくに5 mm以下では強く推奨され、6〜9 mmでも許容される。平坦・陥凹型病変や癌が疑われる病変には、5 mm以下でも避けるべきとされる。
+    condition:
+      guideline: JSGE 大腸ポリープGL 2020
+    differential: 通電を伴うEMR
+    common_misconception: コールドスネアは癌が疑われる病変にも使える
+  provenance:
+    source_ref: SRC-051
+    source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
+    doi: 10.1007/s00535-021-01776-1
+    pmid: null
+    pmcid: PMC8005396
+    url: https://link.springer.com/article/10.1007/s00535-021-01776-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)；TBL-02-07-033 (id: JlAKplQ)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-038
+  domain: IN
+  subdomain: 大腸ポリープ
+  assertion:
+    plain_statement_ja: 直腸からS状結腸にある5 mm以下の過形成性ポリープは、経過観察が弱く推奨される（エビデンスレベルB）。
+    condition:
+      guideline: JSGE 大腸ポリープGL 2020
+    differential: 右側結腸の大きな鋸歯状病変はSSLの可能性
+    common_misconception: 過形成性ポリープはすべて切除が必要
+  provenance:
+    source_ref: SRC-051
+    source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
+    doi: 10.1007/s00535-021-01776-1
+    pmid: null
+    pmcid: PMC8005396
+    url: https://link.springer.com/article/10.1007/s00535-021-01776-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-039
+  domain: IN
+  subdomain: 大腸ポリープ
+  assertion:
+    plain_statement_ja: 広基性鋸歯状腺腫・ポリープ（SSA/P）と鋸歯状腺腫（TSA）は癌化しうるため、治療の対象とされる（弱い推奨、エビデンスレベルC）。TSAは5 mmを超えるもの、SSA/Pは10 mmを超えるものの切除を勧める研究が多く、異形成や癌が疑われる場合は大きさにかかわらず切除する。
+    condition:
+      guideline: JSGE 大腸ポリープGL 2020
+    differential: 過形成性ポリープ
+    common_misconception: 鋸歯状病変は癌化しない
+  provenance:
+    source_ref: SRC-051
+    source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
+    doi: 10.1007/s00535-021-01776-1
+    pmid: null
+    pmcid: PMC8005396
+    url: https://link.springer.com/article/10.1007/s00535-021-01776-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: SSA/Pの癌化率（1.5〜20%）はGLが引用した幅の広い値（二次資料経由）のため主張文に入れていない。WHO分類第5版の名称（SSL）との対応も確認が必要
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-040
+  domain: IN
+  subdomain: 大腸ポリープ
+  assertion:
+    plain_statement_ja: 側方発育型腫瘍（LST）の治療では、拡大内視鏡や超音波内視鏡を必要に応じて用い、亜分類にもとづいてESDか分割EMRかを選ぶことが強く推奨される（エビデンスレベルC）。分割EMRは、術前診断で腺腫または粘膜内癌と確実に判断できる病変で許容される。
+    condition:
+      guideline: JSGE 大腸ポリープGL 2020
+    differential: 一括切除と比べ、分割切除は局所再発が多い
+    common_misconception: LSTはすべてESDで切除しなければならない
+  provenance:
+    source_ref: SRC-051
+    source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
+    doi: 10.1007/s00535-021-01776-1
+    pmid: null
+    pmcid: PMC8005396
+    url: https://link.springer.com/article/10.1007/s00535-021-01776-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)；TBL-02-07-033 (id: JlAKplQ)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-041
+  domain: IN
+  subdomain: 大腸ポリープ
+  assertion:
+    plain_statement_ja: 大腸ポリープ切除後のサーベイランス大腸内視鏡は、3年以内に行うことが弱く推奨される（エビデンスレベルB）。
+    condition:
+      guideline: JSGE 大腸ポリープGL 2020
+      region: 日本
+    differential: 欧米のGLは低リスク例でより長い間隔を認める
+    common_misconception: ポリープを切除すれば以後の内視鏡は不要
+  provenance:
+    source_ref: SRC-051
+    source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
+    doi: 10.1007/s00535-021-01776-1
+    pmid: null
+    pmcid: PMC8005396
+    url: https://link.springer.com/article/10.1007/s00535-021-01776-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-042
+  domain: IN
+  subdomain: 大腸ポリープ
+  assertion:
+    plain_statement_ja: 内視鏡的に切除したT1（SM）大腸癌では、少なくとも3年、可能であれば5年の経過観察が弱く推奨される。626例の研究では、高リスク群を内視鏡切除のみで経過観察した場合の再発は7.1%、低リスク群では1.9%だった。
+    condition:
+      guideline: JSGE 大腸ポリープGL 2020
+    differential: 追加外科切除を行った例
+    common_misconception: 内視鏡で取り切れたT1癌は経過観察不要
+  provenance:
+    source_ref: SRC-051
+    source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
+    doi: 10.1007/s00535-021-01776-1
+    pmid: null
+    pmcid: PMC8005396
+    url: https://link.springer.com/article/10.1007/s00535-021-01776-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 再発率はGLが引用した値（二次資料経由）で、原著は未照合
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-033 (id: JlAKplQ)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-043
+  domain: IN
+  subdomain: 大腸ポリープ
+  assertion:
+    plain_statement_ja: 直腸、とくに下部直腸の粘膜下腫瘍は神経内分泌腫瘍（NET）の可能性が高く、色素散布で表面の粘膜が正常であることを確認する（強い推奨、エビデンスレベルB）。10 mm以上の病変ではリンパ節転移のリスクが高まり（18.7〜30.4%と報告）、原則としてリンパ節郭清を伴う外科切除の適応となる。
+    condition:
+      guideline: JSGE 大腸ポリープGL 2020
+    differential: 直腸の粘膜下腫瘍にはGIST、脂肪腫なども含まれる
+    common_misconception: 直腸NETは大きさにかかわらず内視鏡切除で十分
+  provenance:
+    source_ref: SRC-051
+    source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
+    doi: 10.1007/s00535-021-01776-1
+    pmid: null
+    pmcid: PMC8005396
+    url: https://link.springer.com/article/10.1007/s00535-021-01776-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: リンパ節転移率はGLが引用した値（二次資料経由）。GL本文中でG2のKi-67の閾値の記載に不整合がある
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-02-07-030 (id: JlAKplE)'
+    kokushi: 医学各論 Ⅵ-5-B-④（消化管神経内分泌腫瘍、c）
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-044
+  domain: IN
+  subdomain: 大腸ポリープ
+  assertion:
+    plain_statement_ja: 大腸の非腫瘍性ポリープは過誤腫性、炎症性、過形成性に分類し、出血や腸重積などの症状がある場合か癌が疑われる場合にだけ切除する（強い推奨、エビデンスレベルD）。
+    condition:
+      guideline: JSGE 大腸ポリープGL 2020
+    differential: 腫瘍性ポリープ（腺腫）
+    common_misconception: 非腫瘍性ポリープもすべて切除すべき
+  provenance:
+    source_ref: SRC-051
+    source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
+    doi: 10.1007/s00535-021-01776-1
+    pmid: null
+    pmcid: PMC8005396
+    url: https://link.springer.com/article/10.1007/s00535-021-01776-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-045
+  domain: IN
+  subdomain: 大腸ポリープ
+  assertion:
+    plain_statement_ja: 家族性大腸腺腫症（FAP）と軽症型FAP（AFAP）では、いずれも思春期からサーベイランス大腸内視鏡を始めることが強く推奨される（エビデンスレベルC）。
+    condition:
+      guideline: JSGE 大腸ポリープGL 2020
+    differential: Lynch症候群はポリポーシスを示さない
+    common_misconception: FAPの内視鏡検査は成人になってから始める
+  provenance:
+    source_ref: SRC-051
+    source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
+    doi: 10.1007/s00535-021-01776-1
+    pmid: null
+    pmcid: PMC8005396
+    url: https://link.springer.com/article/10.1007/s00535-021-01776-1
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: AFAPに対する予防的大腸切除についての記載は、要約の段階で意味が取りにくかったため主張文に入れていない
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-279 (id: Jlvnl4Q)；TBL-01-00-684 (id: Jlvnmf8)'
+    kokushi: 医学各論 Ⅵ-5-B-③（消化管ポリポーシス、b）
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-046
+  domain: IN
+  subdomain: 大腸癌
+  assertion:
+    plain_statement_ja: 大腸のスネアによるEMRで一括切除できる大きさの目安は径20 mmまでである。日本では2018年4月に、大腸ESDの保険適用が20 mm以上の腫瘍に拡大され、線維化を伴う20 mm以下の早期癌も対象となった。
+    condition:
+      guideline: JSCCR GL 2024
+      region: 日本
+    differential: 胃のESD適応
+    common_misconception: 大腸ESDは保険適用外の治療である
+  provenance:
+    source_ref: SRC-052
+    source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
+    doi: 10.1007/s10147-025-02899-8
+    pmid: null
+    pmcid: PMC12644182
+    url: https://link.springer.com/article/10.1007/s10147-025-02899-8
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-033 (id: JlAKplQ)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-047
+  domain: IN
+  subdomain: 大腸癌
+  assertion:
+    plain_statement_ja: 分割切除した粘膜内癌（pTis）で水平断端が陽性の場合、約6か月後の大腸内視鏡検査が勧められる。内視鏡治療したpT1癌の再発は多くが3年以内に起こるが、それ以降の再発もある。
+    condition:
+      guideline: JSCCR GL 2024
+    differential: null
+    common_misconception: 内視鏡治療後の再発は1年以内に限られる
+  provenance:
+    source_ref: SRC-052
+    source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
+    doi: 10.1007/s10147-025-02899-8
+    pmid: null
+    pmcid: PMC12644182
+    url: https://link.springer.com/article/10.1007/s10147-025-02899-8
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-033 (id: JlAKplQ)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-048
+  domain: IN
+  subdomain: 大腸癌
+  assertion:
+    plain_statement_ja: pT1大腸癌の約10%にリンパ節転移があり、約2%に中間リンパ節への転移があるため、D2郭清が必要とされる。cT2（固有筋層）癌では約1%に主リンパ節転移があるため、D3郭清を行ってもよいとされる。
+    condition:
+      guideline: JSCCR GL 2024
+    differential: 内視鏡治療の適応はTisと一部のT1
+    common_misconception: T1大腸癌はリンパ節転移を起こさない
+  provenance:
+    source_ref: SRC-052
+    source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
+    doi: 10.1007/s10147-025-02899-8
+    pmid: null
+    pmcid: PMC12644182
+    url: https://link.springer.com/article/10.1007/s10147-025-02899-8
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-049
+  domain: IN
+  subdomain: 大腸癌
+  assertion:
+    plain_statement_ja: 直腸癌の側方リンパ節郭清は、腫瘍の下縁が腹膜反転部より肛門側にあり、かつcT3またはcT4の場合に適応とされる。
+    condition:
+      guideline: JSCCR GL 2024
+      region: 日本
+    differential: 欧米では術前化学放射線療法が主体で、側方郭清は一般的でない
+    common_misconception: 側方郭清はすべての直腸癌に行う
+  provenance:
+    source_ref: SRC-052
+    source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
+    doi: 10.1007/s10147-025-02899-8
+    pmid: null
+    pmcid: PMC12644182
+    url: https://link.springer.com/article/10.1007/s10147-025-02899-8
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-050
+  domain: IN
+  subdomain: 大腸癌
+  assertion:
+    plain_statement_ja: cStage 0〜Ⅲの直腸癌で、腸管壁内の肛門側への進展が直腸S状部と上部直腸（RS、Ra）で3 cm以上、下部直腸（Rb）で2 cm以上に及ぶことはまれとされる。
+    condition:
+      guideline: JSCCR GL 2024
+    differential: null
+    common_misconception: 直腸癌では常に5 cm以上の肛門側切除断端が必要
+  provenance:
+    source_ref: SRC-052
+    source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
+    doi: 10.1007/s10147-025-02899-8
+    pmid: null
+    pmcid: PMC12644182
+    url: https://link.springer.com/article/10.1007/s10147-025-02899-8
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-051
+  domain: IN
+  subdomain: 大腸癌
+  assertion:
+    plain_statement_ja: 日本でロボット支援手術は、直腸癌に対して2018年4月から、結腸癌に対して2022年4月から保険適用されている。
+    condition:
+      region: 日本
+      guideline: JSCCR GL 2024
+    differential: null
+    common_misconception: 大腸癌のロボット支援手術は保険適用外
+  provenance:
+    source_ref: SRC-052
+    source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
+    doi: 10.1007/s10147-025-02899-8
+    pmid: null
+    pmcid: PMC12644182
+    url: https://link.springer.com/article/10.1007/s10147-025-02899-8
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 保険適用の範囲は改定で変わりうる
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-052
+  domain: IN
+  subdomain: 大腸癌
+  assertion:
+    plain_statement_ja: 括約筋間直腸切除術（ISR）後の5年局所再発率は全体で11.5%であり、T1の4.2%からT4の36.0%まで、深達度が進むほど高くなると報告されている。
+    condition:
+      guideline: JSCCR GL 2024
+    differential: null
+    common_misconception: ISRの局所再発率は深達度によらず低い
+  provenance:
+    source_ref: SRC-052
+    source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
+    doi: 10.1007/s10147-025-02899-8
+    pmid: null
+    pmcid: PMC12644182
+    url: https://link.springer.com/article/10.1007/s10147-025-02899-8
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: GLが引用した値（二次資料経由）で、原著は未照合
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-053
+  domain: IN
+  subdomain: 大腸癌
+  assertion:
+    plain_statement_ja: 日本で2008〜2013年に治癒切除されたpStage 0〜Ⅲの大腸癌の5年生存率は全体で86.0%（結腸86.1%、直腸S状部86.4%、直腸85.9%）だった。
+    condition:
+      region: 日本
+      guideline: JSCCR GL 2024
+    differential: 全病期を含むがん登録の5年相対生存率（IN-055）とは対象が異なる
+    common_misconception: 直腸癌の治癒切除後の予後は結腸癌より著しく悪い
+  provenance:
+    source_ref: SRC-052
+    source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
+    doi: 10.1007/s10147-025-02899-8
+    pmid: null
+    pmcid: PMC12644182
+    url: https://link.springer.com/article/10.1007/s10147-025-02899-8
+    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: GLが引用した大腸癌研究会の全国登録の値（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-054
+  domain: IN
+  subdomain: 大腸癌
+  assertion:
+    plain_statement_ja: 日本で2023年に大腸癌と診断されたのは154,039例（男性85,208例、女性68,830例）で、2024年の大腸癌による死亡数は54,416人（男性28,826人、女性25,590人）だった。
+    condition:
+      region: 日本
+      year: 罹患2023年、死亡2024年
+    differential: 結腸癌と直腸癌を合わせた数
+    common_misconception: 大腸癌の死亡数は減り続けて年間1万人台になった
+  provenance:
+    source_ref: SRC-053
+    source: 国立がん研究センター がん情報サービス 大腸（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://ganjoho.jp/reg_stat/statistics/stat/cancer/67_colorectal.html
+    source_license: 元データは政府統計。サイト利用規約は人間が確認
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: ganjoho.jp の利用規約は人間が確認する
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-055
+  domain: IN
+  subdomain: 大腸癌
+  assertion:
+    plain_statement_ja: 日本で2018年に大腸癌と診断された人の5年相対生存率は69.9%（男性71.0%、女性68.4%）である。
+    condition:
+      region: 日本
+      year: 2018年診断例
+    differential: 治癒切除例の生存率（IN-053）とは対象が異なる
+    common_misconception: 大腸癌の5年生存率は50%未満
+  provenance:
+    source_ref: SRC-053
+    source: 国立がん研究センター がん情報サービス 大腸（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://ganjoho.jp/reg_stat/statistics/stat/cancer/67_colorectal.html
+    source_license: 元データは政府統計。サイト利用規約は人間が確認
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: ganjoho.jp の利用規約は人間が確認する
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-056
+  domain: IN
+  subdomain: 大腸癌
+  assertion:
+    plain_statement_ja: 日本の市町村が行う大腸がん検診は、40歳以上を対象に年1回、問診と便潜血検査を行う。
+    condition:
+      region: 日本
+      guideline: 厚労省がん検診指針
+    differential: 胃がん検診（50歳以上、2年に1回）
+    common_misconception: 大腸がん検診の基本は全例の大腸内視鏡である
+  provenance:
+    source_ref: SRC-037
+    source: 厚生労働省『がん予防重点健康教育及びがん検診実施のための指針』（平成28年2月改正）／厚労省がん検診ページ
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.gankenshin50.mhlw.go.jp/campaign_2023/screening/index.html
+    source_license: 政府標準利用規約（原文は人間が確認）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-020 (id: JlAKpkk)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-057
+  domain: IN
+  subdomain: 大腸癌
+  assertion:
+    plain_statement_ja: Lynch症候群はDNAミスマッチ修復遺伝子（MLH1、MSH2、MSH6、PMS2）またはEPCAMの病的バリアントによる遺伝性腫瘍で、大腸癌の2〜3%を占める。家族性大腸腺腫症（FAP）はAPC遺伝子の病的バリアントによるもので、大腸癌の1%未満を占める。
+    condition:
+      source: NCI PDQ
+    differential: 家族歴のみで遺伝子異常の特定できない家族性大腸癌
+    common_misconception: 遺伝性大腸癌は大腸癌の半数を占める
+  provenance:
+    source_ref: SRC-054
+    source: National Cancer Institute. Genetics of Colorectal Cancer (PDQ)–Health Professional Version（最終更新 2025-03-21）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cancer.gov/types/colorectal/hp/colorectal-genetics-pdq
+    source_license: 米国連邦政府著作物（PDQは原則パブリックドメイン。第三者の図表は除く）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-686 (id: JlvnmgI)；TBL-01-00-684 (id: Jlvnmf8)'
+    kokushi: 医学各論 Ⅵ-5-B-③（消化管ポリポーシス、b）
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-058
+  domain: IN
+  subdomain: 大腸癌
+  assertion:
+    plain_statement_ja: Lynch症候群の拾い上げでは、診断時の年齢にかかわらず全ての大腸癌を評価するユニバーサルスクリーニングが支持されており、腫瘍の評価は免疫組織化学検査かマイクロサテライト不安定性（MSI）検査から始めることが多い。
+    condition:
+      source: NCI PDQ
+      region: 米国
+    differential: 改訂ベセスダ基準による拾い上げ
+    common_misconception: Lynch症候群の拾い上げは若年発症例だけでよい
+  provenance:
+    source_ref: SRC-054
+    source: National Cancer Institute. Genetics of Colorectal Cancer (PDQ)–Health Professional Version（最終更新 2025-03-21）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cancer.gov/types/colorectal/hp/colorectal-genetics-pdq
+    source_license: 米国連邦政府著作物（PDQは原則パブリックドメイン。第三者の図表は除く）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 日本での運用（保険適用の範囲など）は別途確認が必要
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-686 (id: JlvnmgI)；TBL-01-00-650 (id: Jlvnmc0)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-059
+  domain: IN
+  subdomain: 大腸癌
+  assertion:
+    plain_statement_ja: 家族性大腸腺腫症（FAP）では予防的大腸切除によって生存が改善する。手術の時期は、ポリープの数、大きさ、組織型、症状によって決める。
+    condition:
+      source: NCI PDQ
+    differential: AFAPではポリープ数が少ない
+    common_misconception: FAPの大腸切除は癌が見つかってから行う
+  provenance:
+    source_ref: SRC-054
+    source: National Cancer Institute. Genetics of Colorectal Cancer (PDQ)–Health Professional Version（最終更新 2025-03-21）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cancer.gov/types/colorectal/hp/colorectal-genetics-pdq
+    source_license: 米国連邦政府著作物（PDQは原則パブリックドメイン。第三者の図表は除く）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-684 (id: Jlvnmf8)；TBL-01-00-279 (id: Jlvnl4Q)'
+    kokushi: 医学各論 Ⅵ-5-B-③（消化管ポリポーシス、b）
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-060
+  domain: IN
+  subdomain: 大腸憩室出血・憩室炎
+  assertion:
+    plain_statement_ja: 日本の大腸憩室の有病率は欧米より低く、2001〜2010年の日本のデータでは23.9%（平均年齢52歳）、米国の研究では60%と報告されている。
+    condition:
+      guideline: JGA 大腸憩室GL 2019 CQ1
+    differential: 憩室症（無症状）と憩室炎・憩室出血は区別する
+    common_misconception: 日本人の大腸憩室は欧米と同じくらい多い
+  provenance:
+    source_ref: SRC-057
+    source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
+    doi: 10.1159/000495282
+    pmid: null
+    pmcid: null
+    url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
+    source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値はGLが引用した値（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-262 (id: Jlvnl38)；TBL-01-00-263 (id: Jlvnl4E)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-061
+  domain: IN
+  subdomain: 大腸憩室出血・憩室炎
+  assertion:
+    plain_statement_ja: 日本人では50歳未満の大腸憩室の75%が右側結腸にあるが、70歳以上では60%が左側結腸にも憩室をもつ。米国では80%が左側（70%がS状結腸）にある。
+    condition:
+      guideline: JGA 大腸憩室GL 2019 CQ2
+    differential: 右側憩室炎は虫垂炎との鑑別が問題になる
+    common_misconception: 大腸憩室は人種を問わずS状結腸に多い
+  provenance:
+    source_ref: SRC-057
+    source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
+    doi: 10.1159/000495282
+    pmid: null
+    pmcid: null
+    url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
+    source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値はGLが引用した値（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-262 (id: Jlvnl38)；TBL-01-00-263 (id: Jlvnl4E)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-062
+  domain: IN
+  subdomain: 大腸憩室出血・憩室炎
+  assertion:
+    plain_statement_ja: 大腸憩室出血は急性下部消化管出血の主要な原因である。非アスピリンNSAIDは再出血の危険因子で、日本のコホートでは12か月の再出血率が中止例で9.4%、継続例で77%だった。
+    condition:
+      guideline: JGA 大腸憩室GL 2019 CQ12、CQ23
+    differential: 虚血性大腸炎、大腸癌、痔核からの出血
+    common_misconception: 憩室出血は抗血栓薬やNSAIDと無関係
+  provenance:
+    source_ref: SRC-057
+    source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
+    doi: 10.1159/000495282
+    pmid: null
+    pmcid: null
+    url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
+    source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 再出血率はGLが引用した値（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)；TBL-02-07-020 (id: JlAKpkk)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-063
+  domain: IN
+  subdomain: 大腸憩室出血・憩室炎
+  assertion:
+    plain_statement_ja: 日本の大腸憩室出血の再出血率は、1年で20〜35%、2年で33〜42%と報告されている。
+    condition:
+      guideline: JGA 大腸憩室GL 2019 CQ3
+      region: 日本
+    differential: 海外の報告では値の幅が大きい
+    common_misconception: 憩室出血はいったん止まれば再出血しない
+  provenance:
+    source_ref: SRC-057
+    source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
+    doi: 10.1159/000495282
+    pmid: null
+    pmcid: null
+    url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
+    source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値はGLが引用した値（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-064
+  domain: IN
+  subdomain: 大腸憩室出血・憩室炎
+  assertion:
+    plain_statement_ja: 大腸憩室出血が疑われる場合、最初に行う検査は大腸内視鏡で、腸管洗浄液による前処置を行い、24時間以内に施行することが提案されている。大腸内視鏡が行えないときはCT血管造影が選択肢になり、その感度は85.2%、特異度は92.1%と報告されている。
+    condition:
+      guideline: JGA 大腸憩室GL 2019 CQ8、CQ10、CQ11
+    differential: 上部消化管出血の除外
+    common_misconception: 憩室出血では前処置なしの緊急内視鏡が原則
+  provenance:
+    source_ref: SRC-057
+    source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
+    doi: 10.1159/000495282
+    pmid: null
+    pmcid: null
+    url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
+    source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: CT血管造影の感度・特異度はGLが引用したメタ解析の値（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)；TBL-02-07-030 (id: JlAKplE)；TBL-02-07-029 (id: JlAKplA)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-065
+  domain: IN
+  subdomain: 大腸憩室出血・憩室炎
+  assertion:
+    plain_statement_ja: 大腸憩室出血では、活動性出血、露出血管、付着凝血塊といった最近の出血の徴候（SRH）が内視鏡的止血の適応になる。止血法には局注、凝固、クリップ、結紮（EBLなど）があり、早期再出血はクリップで38%、EBLで14%と報告されている。
+    condition:
+      guideline: JGA 大腸憩室GL 2019 CQ13、CQ15、CQ26
+    differential: 結紮法では穿孔や憩室炎の有害事象が報告されている
+    common_misconception: 憩室出血の止血法はクリップだけである
+  provenance:
+    source_ref: SRC-057
+    source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
+    doi: 10.1159/000495282
+    pmid: null
+    pmcid: null
+    url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
+    source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 再出血率はGLが引用した値（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)；TBL-02-07-033 (id: JlAKplQ)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-066
+  domain: IN
+  subdomain: 大腸憩室出血・憩室炎
+  assertion:
+    plain_statement_ja: 内視鏡で止血できない大腸憩室出血には、まず低侵襲な動脈塞栓術を行い、その適応がない場合や不成功の場合に大腸切除を行う。血管造影で出血部位を同定できるのは24〜48%で、塞栓術後の腸管虚血は0〜10%と報告されている。
+    condition:
+      guideline: JGA 大腸憩室GL 2019 CQ17、CQ19、CQ20
+    differential: 出血部位が判明していれば部分切除が望ましい
+    common_misconception: 内視鏡止血が不成功なら直ちに大腸全摘を行う
+  provenance:
+    source_ref: SRC-057
+    source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
+    doi: 10.1159/000495282
+    pmid: null
+    pmcid: null
+    url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
+    source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値はGLが引用した値（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)；TBL-02-07-034 (id: JlAKplU)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-067
+  domain: IN
+  subdomain: 大腸憩室出血・憩室炎
+  assertion:
+    plain_statement_ja: 大腸憩室出血後、一次予防目的の低用量アスピリンは中止する。抗凝固薬は止血を確認したうえで再開し、抗血小板薬も止血後に再開する（一次予防目的の低用量アスピリンは再開しなくてもよい）。
+    condition:
+      guideline: JGA 大腸憩室GL 2019 CQ7、CQ24、CQ25
+    differential: 二次予防目的の抗血栓薬は原則として再開する
+    common_misconception: 憩室出血を起こしたら抗血栓薬は永久に中止する
+  provenance:
+    source_ref: SRC-057
+    source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
+    doi: 10.1159/000495282
+    pmid: null
+    pmcid: null
+    url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
+    source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-068
+  domain: IN
+  subdomain: 大腸憩室出血・憩室炎
+  assertion:
+    plain_statement_ja: 大腸憩室炎では、3 cm以下の膿瘍は抗菌薬と腸管安静で治療し、5 cm以上の膿瘍では超音波またはCTガイド下ドレナージを行う。汎発性腹膜炎は緊急手術の適応である。
+    condition:
+      guideline: JGA 大腸憩室GL 2019 CQ35、CQ36
+    differential: 3〜5 cmの膿瘍は個別に判断する
+    common_misconception: 憩室炎の膿瘍はすべて手術が必要
+  provenance:
+    source_ref: SRC-057
+    source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
+    doi: 10.1159/000495282
+    pmid: null
+    pmcid: null
+    url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
+    source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-262 (id: Jlvnl38)；TBL-02-07-029 (id: JlAKplA)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-069
+  domain: IN
+  subdomain: 大腸憩室出血・憩室炎
+  assertion:
+    plain_statement_ja: 大腸憩室炎は再発したことだけでは大腸切除の適応にならない。複数回の再発、狭窄、膀胱などへの瘻孔がある場合に切除を考慮する。
+    condition:
+      guideline: JGA 大腸憩室GL 2019 CQ34、CQ37〜39
+    differential: 以前は2回の再発で手術を勧める考え方があった
+    common_misconception: 2回再発したら必ず予防的切除を行う
+  provenance:
+    source_ref: SRC-057
+    source: 'Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26'
+    doi: 10.1159/000495282
+    pmid: null
+    pmcid: null
+    url: https://karger.com/dig/article/99/Suppl.%201/1/105772/Guidelines-for-Colonic-Diverticular-Bleeding-and
+    source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-262 (id: Jlvnl38)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-070
+  domain: IN
+  subdomain: 感染性腸炎
+  assertion:
+    plain_statement_ja: 腸管出血性大腸菌感染症は、3〜8日程度の潜伏期の後に頻回の水様便で発症し、激しい腹痛と著しい血便を伴う出血性大腸炎となる。発熱は一過性のことが多い。
+    condition: null
+    differential: カンピロバクター腸炎（潜伏期1〜7日）
+    common_misconception: 腸管出血性大腸菌感染症では高熱が続くのが典型
+  provenance:
+    source_ref: SRC-058
+    source: 厚生労働省『腸管出血性大腸菌Q&A』（最終改訂 令和3年12月17日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177609.html
+    source_license: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-020 (id: JlAKpkk)；TBL-02-07-022 (id: JlAKpkc)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-071
+  domain: IN
+  subdomain: 感染性腸炎
+  assertion:
+    plain_statement_ja: 腸管出血性大腸菌感染症で症状のある人の6〜7%が、初発症状から数日〜2週間以内（多くは5〜7日後）に溶血性尿毒症症候群（HUS）や脳症などの重い合併症を起こす。
+    condition: null
+    differential: 血栓性血小板減少性紫斑病
+    common_misconception: HUSは下痢の発症と同時に起こる
+  provenance:
+    source_ref: SRC-058
+    source: 厚生労働省『腸管出血性大腸菌Q&A』（最終改訂 令和3年12月17日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177609.html
+    source_license: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-072
+  domain: IN
+  subdomain: 感染性腸炎
+  assertion:
+    plain_statement_ja: 腸管出血性大腸菌は100個程度の菌数でも感染するとされ、感染症法では三類感染症に分類される。代表的な血清型はO157で、ほかにO26、O111などがある。
+    condition:
+      region: 日本
+      law: 感染症法
+    differential: 一般の食中毒菌は発症に多くの菌数を要する
+    common_misconception: 腸管出血性大腸菌はO157だけである
+  provenance:
+    source_ref: SRC-058
+    source: 厚生労働省『腸管出血性大腸菌Q&A』（最終改訂 令和3年12月17日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177609.html
+    source_license: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-073
+  domain: IN
+  subdomain: 感染性腸炎
+  assertion:
+    plain_statement_ja: 腸管出血性大腸菌は食品の中心部を75℃で1分間以上加熱すると死滅する。止痢薬や鎮痛薬の中にはベロ毒素の排出を妨げるものがあるため、自己判断で服用しないよう勧められている。
+    condition: null
+    differential: 抗菌薬の使用は医師が判断する
+    common_misconception: 血便を伴う下痢には止痢薬を使うべき
+  provenance:
+    source_ref: SRC-058
+    source: 厚生労働省『腸管出血性大腸菌Q&A』（最終改訂 令和3年12月17日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177609.html
+    source_license: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-022 (id: JlAKpkc)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-074
+  domain: IN
+  subdomain: 感染性腸炎
+  assertion:
+    plain_statement_ja: カンピロバクターは近年、発生件数が最も多い細菌性食中毒で、令和7年には220件、患者1,226人が報告された。潜伏期は一般に1〜7日とやや長い。
+    condition:
+      region: 日本
+      year: 令和7年
+    differential: 腸管出血性大腸菌（潜伏期3〜8日）
+    common_misconception: 細菌性食中毒で最も多いのはサルモネラである
+  provenance:
+    source_ref: SRC-059
+    source: 厚生労働省『カンピロバクター食中毒予防について（Q&A）』（最終改訂 令和8年5月27日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/campylobacterqa.html
+    source_license: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-022 (id: JlAKpkc)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-075
+  domain: IN
+  subdomain: 感染性腸炎
+  assertion:
+    plain_statement_ja: カンピロバクター食中毒の主な原因は、生や加熱不十分な鶏肉（鶏レバー、砂肝、鶏刺しなど）と調理時の二次汚染である。感染の数週間後にギラン・バレー症候群を起こすことがあると指摘されている。予防には中心部を75℃以上で1分間以上加熱する。
+    condition: null
+    differential: サルモネラ（鶏卵）
+    common_misconception: 新鮮な鶏肉なら生で食べても安全
+  provenance:
+    source_ref: SRC-059
+    source: 厚生労働省『カンピロバクター食中毒予防について（Q&A）』（最終改訂 令和8年5月27日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/campylobacterqa.html
+    source_license: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-076
+  domain: IN
+  subdomain: 感染性腸炎
+  assertion:
+    plain_statement_ja: ノロウイルス感染症の潜伏期は24〜48時間で、悪心、嘔吐、下痢、腹痛が主症状であり、発熱は軽度である。症状は1〜2日続いて治まり、後遺症はない。
+    condition: null
+    differential: 細菌性食中毒
+    common_misconception: ノロウイルスでは高熱が続く
+  provenance:
+    source_ref: SRC-060
+    source: 厚生労働省『ノロウイルスに関するQ&A』（最終改定 令和3年11月19日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/kanren/yobou/040204-1.html
+    source_license: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-280 (id: Jlvnl28)；TBL-02-07-022 (id: JlAKpkc)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-077
+  domain: IN
+  subdomain: 感染性腸炎
+  assertion:
+    plain_statement_ja: ノロウイルスは症状が消えた後も、通常1週間程度、長い場合は1か月程度、便に排泄されることがある。
+    condition: null
+    differential: null
+    common_misconception: 症状が治まれば感染力はなくなる
+  provenance:
+    source_ref: SRC-060
+    source: 厚生労働省『ノロウイルスに関するQ&A』（最終改定 令和3年11月19日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/kanren/yobou/040204-1.html
+    source_license: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-280 (id: Jlvnl28)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-078
+  domain: IN
+  subdomain: 感染性腸炎
+  assertion:
+    plain_statement_ja: ノロウイルスの消毒には次亜塩素酸ナトリウムを用い、調理器具や床には塩素濃度約200 ppm、吐物や便の処理には約1,000 ppmが勧められる。消毒用アルコールは石けんと流水による手洗いの代わりにはならない。二枚貝などは中心部が85〜90℃で90秒以上になるよう加熱する。
+    condition: null
+    differential: 細菌にはアルコール消毒が有効なものが多い
+    common_misconception: アルコールで手指消毒すればノロウイルスは防げる
+  provenance:
+    source_ref: SRC-060
+    source: 厚生労働省『ノロウイルスに関するQ&A』（最終改定 令和3年11月19日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/kanren/yobou/040204-1.html
+    source_license: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-280 (id: Jlvnl28)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-079
+  domain: IN
+  subdomain: 感染性腸炎
+  assertion:
+    plain_statement_ja: ノロウイルスによる食中毒は11月頃から増え始め、12月から翌年1月にピークとなる傾向がある。
+    condition:
+      region: 日本
+    differential: null
+    common_misconception: ノロウイルスは夏に多い
+  provenance:
+    source_ref: SRC-060
+    source: 厚生労働省『ノロウイルスに関するQ&A』（最終改定 令和3年11月19日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/kanren/yobou/040204-1.html
+    source_license: 厚労省ウェブサイト利用規約（政府標準利用規約準拠と想定、原文は人間が確認）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-280 (id: Jlvnl28)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-080
+  domain: IN
+  subdomain: Clostridioides difficile感染症
+  assertion:
+    plain_statement_ja: Clostridioides difficileは抗菌薬関連下痢症の15〜25%の原因となる。危険因子は、抗菌薬（とくにフルオロキノロン、第3・第4世代セファロスポリン、クリンダマイシン、カルバペネム）の使用、65歳以上、約3か月以内の病院や介護施設の入所歴、CDIの既往、重い基礎疾患や免疫不全である。
+    condition:
+      source: CDC
+    differential: 抗菌薬による浸透圧性の下痢
+    common_misconception: CDIは院内でしか起こらない
+  provenance:
+    source_ref: SRC-061
+    source: 'CDC. C. diff: Facts for Clinicians（2026-04-13更新）'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cdc.gov/c-diff/hcp/clinical-overview/index.html
+    source_license: 米国連邦政府著作物（第三者素材を除く）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-022 (id: JlAKpkc)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-081
+  domain: IN
+  subdomain: Clostridioides difficile感染症
+  assertion:
+    plain_statement_ja: CDIを疑って検査するのは、24時間に3回以上の下痢があり、便軟化薬や下剤が原因と考えにくい場合である。保菌は感染より多いため無症状でも陽性になることがあり、症状が消えた後の陰性確認の検査は勧められない。
+    condition:
+      source: CDC
+    differential: null
+    common_misconception: 治療後は便検査で陰性を確認する必要がある
+  provenance:
+    source_ref: SRC-061
+    source: 'CDC. C. diff: Facts for Clinicians（2026-04-13更新）'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cdc.gov/c-diff/hcp/clinical-overview/index.html
+    source_license: 米国連邦政府著作物（第三者素材を除く）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-022 (id: JlAKpkc)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-082
+  domain: IN
+  subdomain: Clostridioides difficile感染症
+  assertion:
+    plain_statement_ja: C. difficileの芽胞は手指消毒剤では死滅しない。CDIと確定したら接触予防策を続け、病室の表面は芽胞に有効な消毒薬で毎日清掃する。
+    condition:
+      source: CDC
+    differential: null
+    common_misconception: アルコール手指消毒でC. difficileの伝播は防げる
+  provenance:
+    source_ref: SRC-061
+    source: 'CDC. C. diff: Facts for Clinicians（2026-04-13更新）'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cdc.gov/c-diff/hcp/clinical-overview/index.html
+    source_license: 米国連邦政府著作物（第三者素材を除く）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-083
+  domain: IN
+  subdomain: Clostridioides difficile感染症
+  assertion:
+    plain_statement_ja: CDIの治療は経口バンコマイシンまたはフィダキソマイシンを約10日間投与し、併用中の抗菌薬は可能なら中止または変更する。合併症には中毒性巨大結腸症、大腸穿孔、敗血症がある。
+    condition:
+      source: CDC
+      region: 米国
+    differential: メトロニダゾールは米国GLでは第一選択から外れた
+    common_misconception: CDIの治療は静注バンコマイシンで行う
+  provenance:
+    source_ref: SRC-061
+    source: 'CDC. C. diff: Facts for Clinicians（2026-04-13更新）'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cdc.gov/c-diff/hcp/clinical-overview/index.html
+    source_license: 米国連邦政府著作物（第三者素材を除く）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 日本のガイドラインでの位置づけは別途確認が必要
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-084
+  domain: IN
+  subdomain: Clostridioides difficile感染症
+  assertion:
+    plain_statement_ja: IDSA/SHEAの2021年改訂は、成人の初回CDIに標準的なバンコマイシンよりフィダキソマイシンを使うことを提案している（条件付き推奨、エビデンスの確実性：中）。再発例にもフィダキソマイシンを提案し、過去6か月以内に再発した例には標準治療にベズロトクスマブを併用することを提案している（条件付き推奨、確実性：非常に低）。
+    condition:
+      guideline: IDSA/SHEA 2021
+      region: 米国
+    differential: 費用や入手性によって選択は変わる
+    common_misconception: 初回CDIにはメトロニダゾールが第一選択である
+  provenance:
+    source_ref: SRC-062
+    source: Johnson S, et al. IDSA/SHEA 2021 Focused Update Guidelines on Management of Clostridioides difficile Infection in Adults. Clin Infect Dis 2021;73:e1029-e1044
+    doi: 10.1093/cid/ciab549
+    pmid: null
+    pmcid: null
+    url: https://www.idsociety.org/practice-guideline/clostridioides-difficile-2021-focused-update/
+    source_license: © IDSA, All rights reserved（複製・翻案は事前許諾が必要と明記）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-085
+  domain: IN
+  subdomain: セリアック病
+  assertion:
+    plain_statement_ja: セリアック病は、小麦、大麦、ライ麦に含まれるグルテンの摂取によって小腸が傷害される慢性の消化・免疫疾患で、特定の遺伝子をもつ人にだけ起こる。有病率は世界で約1%と推定されている。
+    condition:
+      source: NIDDK
+      region: 米国・世界
+    differential: 小麦アレルギー、非セリアック・グルテン過敏症
+    common_misconception: セリアック病は誰にでも起こるアレルギーである
+  provenance:
+    source_ref: SRC-063
+    source: NIDDK. Definition & Facts for Celiac Disease（最終レビュー 2020年10月）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease/definition-facts
+    source_license: 米国連邦政府著作物（第三者素材を除く）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 日本での有病率は欧米より低いとされるが、今回は日本の一次資料を確認していない
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-022 (id: JlAKpkc)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-086
+  domain: IN
+  subdomain: セリアック病
+  assertion:
+    plain_statement_ja: セリアック病は、1型糖尿病、橋本病やBasedow病などの甲状腺疾患、選択的IgA欠損症、Sjögren症候群、自己免疫性肝炎などに合併しやすく、Down症候群、Turner症候群、Williams症候群でも多い。
+    condition:
+      source: NIDDK
+    differential: null
+    common_misconception: セリアック病は消化管だけの病気である
+  provenance:
+    source_ref: SRC-063
+    source: NIDDK. Definition & Facts for Celiac Disease（最終レビュー 2020年10月）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease/definition-facts
+    source_license: 米国連邦政府著作物（第三者素材を除く）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-087
+  domain: IN
+  subdomain: セリアック病
+  assertion:
+    plain_statement_ja: セリアック病の長期的な合併症には、骨粗鬆症や骨軟化症、貧血、栄養障害、神経系や生殖系の問題がある。まれに小腸腺癌や非Hodgkinリンパ腫を合併する。厳格なグルテン除去食を続けても小腸が回復しない難治性セリアック病もある。
+    condition:
+      source: NIDDK
+    differential: null
+    common_misconception: セリアック病は悪性腫瘍と無関係
+  provenance:
+    source_ref: SRC-063
+    source: NIDDK. Definition & Facts for Celiac Disease（最終レビュー 2020年10月）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease/definition-facts
+    source_license: 米国連邦政府著作物（第三者素材を除く）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: IN-088
+  domain: IN
+  subdomain: 痔核
+  assertion:
+    plain_statement_ja: 痔核は肛門や下部直腸の周囲の静脈が腫れて炎症を起こしたもので、肛門近くの皮膚の下にできる外痔核と、肛門と下部直腸の粘膜側にできる内痔核に分けられる。米国では約20人に1人にみられ、50歳を超える成人の約半数にある。
+    condition:
+      source: NIDDK
+      region: 米国
+    differential: 直腸癌などによる出血を見逃さない
+    common_misconception: 痔核はまれな病気である
+  provenance:
+    source_ref: SRC-064
+    source: NIDDK. Definition & Facts of Hemorrhoids（最終レビュー 2016年10月）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.niddk.nih.gov/health-information/digestive-diseases/hemorrhoids/definition-facts
+    source_license: 米国連邦政府著作物（第三者素材を除く）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 出典の最終レビューは2016年で古い。日本の有病率は未確認
+  curriculum:
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-267 (id: Jlvnl30)；TBL-02-07-020 (id: JlAKpkk)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-13'
+    verifier: null
+    verified_at: null
+    status: draft
+```
+
+## 3. カード一覧（ID・出典・国試出題基準）
+
+| ID | サブ領域 | SRC | 国試出題基準 |
+|---|---|---|---|
+| IN-001 | 炎症性腸疾患 | SRC-048 | — |
+| IN-002 | 炎症性腸疾患 | SRC-048 | — |
+| IN-003 | 炎症性腸疾患 | SRC-048 | — |
+| IN-004 | 炎症性腸疾患 | SRC-048 | — |
+| IN-005 | 炎症性腸疾患 | SRC-048 | — |
+| IN-006 | 炎症性腸疾患 | SRC-048 | — |
+| IN-007 | 炎症性腸疾患 | SRC-048 | — |
+| IN-008 | 炎症性腸疾患 | SRC-048 | — |
+| IN-009 | 炎症性腸疾患 | SRC-048 | — |
+| IN-010 | 炎症性腸疾患 | SRC-048 | — |
+| IN-011 | 炎症性腸疾患 | SRC-055 | — |
+| IN-012 | 炎症性腸疾患 | SRC-055 | — |
+| IN-013 | 炎症性腸疾患 | SRC-055 | — |
+| IN-014 | 炎症性腸疾患 | SRC-056 | — |
+| IN-015 | 炎症性腸疾患 | SRC-056 | — |
+| IN-016 | 炎症性腸疾患 | SRC-056 | — |
+| IN-017 | 過敏性腸症候群 | SRC-049 | — |
+| IN-018 | 過敏性腸症候群 | SRC-049 | — |
+| IN-019 | 過敏性腸症候群 | SRC-049 | — |
+| IN-020 | 過敏性腸症候群 | SRC-049 | — |
+| IN-021 | 過敏性腸症候群 | SRC-049 | — |
+| IN-022 | 過敏性腸症候群 | SRC-049 | — |
+| IN-023 | 過敏性腸症候群 | SRC-049 | — |
+| IN-024 | 過敏性腸症候群 | SRC-049 | — |
+| IN-025 | 過敏性腸症候群 | SRC-049 | — |
+| IN-026 | 過敏性腸症候群 | SRC-049 | — |
+| IN-027 | 慢性便秘症 | SRC-050 | — |
+| IN-028 | 慢性便秘症 | SRC-050 | — |
+| IN-029 | 慢性便秘症 | SRC-050 | — |
+| IN-030 | 慢性便秘症 | SRC-050 | — |
+| IN-031 | 慢性便秘症 | SRC-050 | — |
+| IN-032 | 慢性便秘症 | SRC-050 | — |
+| IN-033 | 慢性便秘症 | SRC-050 | — |
+| IN-034 | 慢性便秘症 | SRC-050 | — |
+| IN-035 | 慢性便秘症 | SRC-050 | — |
+| IN-036 | 大腸ポリープ | SRC-051 | — |
+| IN-037 | 大腸ポリープ | SRC-051 | — |
+| IN-038 | 大腸ポリープ | SRC-051 | — |
+| IN-039 | 大腸ポリープ | SRC-051 | — |
+| IN-040 | 大腸ポリープ | SRC-051 | — |
+| IN-041 | 大腸ポリープ | SRC-051 | — |
+| IN-042 | 大腸ポリープ | SRC-051 | — |
+| IN-043 | 大腸ポリープ | SRC-051 | 医学各論 Ⅵ-5-B-④（消化管神経内分泌腫瘍、c） |
+| IN-044 | 大腸ポリープ | SRC-051 | — |
+| IN-045 | 大腸ポリープ | SRC-051 | 医学各論 Ⅵ-5-B-③（消化管ポリポーシス、b） |
+| IN-046 | 大腸癌 | SRC-052 | — |
+| IN-047 | 大腸癌 | SRC-052 | — |
+| IN-048 | 大腸癌 | SRC-052 | — |
+| IN-049 | 大腸癌 | SRC-052 | — |
+| IN-050 | 大腸癌 | SRC-052 | — |
+| IN-051 | 大腸癌 | SRC-052 | — |
+| IN-052 | 大腸癌 | SRC-052 | — |
+| IN-053 | 大腸癌 | SRC-052 | — |
+| IN-054 | 大腸癌 | SRC-053 | — |
+| IN-055 | 大腸癌 | SRC-053 | — |
+| IN-056 | 大腸癌 | SRC-037 | — |
+| IN-057 | 大腸癌 | SRC-054 | 医学各論 Ⅵ-5-B-③（消化管ポリポーシス、b） |
+| IN-058 | 大腸癌 | SRC-054 | — |
+| IN-059 | 大腸癌 | SRC-054 | 医学各論 Ⅵ-5-B-③（消化管ポリポーシス、b） |
+| IN-060 | 大腸憩室出血・憩室炎 | SRC-057 | — |
+| IN-061 | 大腸憩室出血・憩室炎 | SRC-057 | — |
+| IN-062 | 大腸憩室出血・憩室炎 | SRC-057 | — |
+| IN-063 | 大腸憩室出血・憩室炎 | SRC-057 | — |
+| IN-064 | 大腸憩室出血・憩室炎 | SRC-057 | — |
+| IN-065 | 大腸憩室出血・憩室炎 | SRC-057 | — |
+| IN-066 | 大腸憩室出血・憩室炎 | SRC-057 | — |
+| IN-067 | 大腸憩室出血・憩室炎 | SRC-057 | — |
+| IN-068 | 大腸憩室出血・憩室炎 | SRC-057 | — |
+| IN-069 | 大腸憩室出血・憩室炎 | SRC-057 | — |
+| IN-070 | 感染性腸炎 | SRC-058 | — |
+| IN-071 | 感染性腸炎 | SRC-058 | — |
+| IN-072 | 感染性腸炎 | SRC-058 | — |
+| IN-073 | 感染性腸炎 | SRC-058 | — |
+| IN-074 | 感染性腸炎 | SRC-059 | — |
+| IN-075 | 感染性腸炎 | SRC-059 | — |
+| IN-076 | 感染性腸炎 | SRC-060 | — |
+| IN-077 | 感染性腸炎 | SRC-060 | — |
+| IN-078 | 感染性腸炎 | SRC-060 | — |
+| IN-079 | 感染性腸炎 | SRC-060 | — |
+| IN-080 | Clostridioides difficile感染症 | SRC-061 | — |
+| IN-081 | Clostridioides difficile感染症 | SRC-061 | — |
+| IN-082 | Clostridioides difficile感染症 | SRC-061 | — |
+| IN-083 | Clostridioides difficile感染症 | SRC-061 | — |
+| IN-084 | Clostridioides difficile感染症 | SRC-062 | — |
+| IN-085 | セリアック病 | SRC-063 | — |
+| IN-086 | セリアック病 | SRC-063 | — |
+| IN-087 | セリアック病 | SRC-063 | — |
+| IN-088 | 痔核 | SRC-064 | — |
+
+## 4. カリキュラム番号の扱い
+
+- **コアカリ**：GitHub の `core-curriculum/data`（2022 版）の CSV で id を確認したものだけを書いています。
+  - 学修目標：PS-02-08-05（消化器系の疾患・病態）、腫瘍は PS-03-04-14（主な消化器腫瘍）。
+  - 別表2-7（TBL-02-07）：下血・便秘・下痢・腹痛などの症候、内視鏡・画像・内視鏡治療・血管内治療・経腸栄養。
+  - 別表1の疾患表（TBL-01-00）：潰瘍性大腸炎、Crohn病、IBS、便秘症、感染性腸炎、急性胃腸炎、大腸憩室炎・憩室出血、痔核・痔瘻、大腸ポリープ、大腸癌、消化管ポリポーシス、FAP、Lynch症候群。第2回までは付けていなかった表なので、使い続けるかどうかは人間が判断してください。
+- **国試出題基準**：医学各論 Ⅵ-3（小腸・結腸疾患）と Ⅵ-4（直腸・肛門疾患）の番号表は、今回は取得できませんでした。厚労省と大学の掲載 PDF は、取得できた範囲が医学総論の途中までで、各論の表が含まれていませんでした。そのため Ⅵ-3・Ⅵ-4 に当たるカードは `kokushi: null` にしています。第2回の番号表にある Ⅵ-5 の項目（消化管ポリポーシス Ⅵ-5-B-③、消化管 NET Ⅵ-5-B-④）だけを付けました。大腸憩室は、Ⅵ-5-D-① と Ⅵ-3 のどちらに当たるかが分からないため null です。Phase 4 で PDF から対応づけてください。
+
+## 5. 重複回避と境界の確認
+
+- HP・UG・ES・GD と同じ命題は作っていません。
+- 消化管共通疾患：胃の GIST・NET・憩室は GD で扱い済みです。今回は直腸 NET（IN-043）と大腸憩室（IN-060〜069）だけを扱いました。
+- 腸閉塞、急性虫垂炎、腸重積、上腸間膜動脈閉塞症は、急性腹症として第6回（AB）に回しました。
+- 下部消化管出血の総論（初期対応、出血源の頻度）は、症候の横断項目として第7回（XS）に回しました。今回は大腸憩室出血に限っています。
+
+## 6. 未作成のトピック（出典を取得できなかったもの。欠番補完ラウンドで扱う）
+
+- 虚血性大腸炎（ACG 2015 GL の本文を取得できなかった）
+- IBD の薬物療法の詳細：ステロイド依存・抵抗の定義、チオプリンと NUDT15 遺伝子検査、生物学的製剤・JAK 阻害薬、CMV 再活性化、colitis-associated cancer のサーベイランス間隔。Springer の記事ページでは CQ4 までしか取得できなかった
+- IBS の薬物療法：ラモセトロン、リナクロチド、抗うつ薬、心理療法（同じ理由で CQ3-4 までしか取得できなかった）
+- 慢性便秘症の各薬剤の推奨度、酸化マグネシウムと高マグネシウム血症、オピオイド誘発性便秘
+- 大腸癌：T1 癌の追加外科切除の基準（SM 1000 µm、脈管侵襲、簇出）、Stage Ⅲ の術後補助化学療法、RAS・BRAF・MSI 検査、切除不能例の化学療法、大規模 RCT（NordICC など）。JSCCR 2024 の記事ページでは途中までしか取得できなかった
+- 薬剤性腸炎、急性出血性直腸潰瘍、腸管ベーチェット、腸結核、小腸腫瘍、蛋白漏出性胃腸症
+- 肛門疾患：痔瘻、裂肛、日本の肛門疾患診療ガイドライン
+- 日本の CDI 診療ガイドライン、サルモネラ、腸炎ビブリオ、アメーバ赤痢
+
+これらには ID を割り当てていないため、欠番は生じていません。
+
+## 7. Claude Code での照合時に重点的に確認する点
+
+1. **CC 種別の確定**：SRC-048・049・051・052 について、Crossref の license 欄で CC 種別を確定する。SRC-050・057 は、Karger の CC BY-NC／BY-NC-ND の判断が正しいかを Crossref で確認する。
+2. **識別子の取得**：SRC-048・049・052・057・062 は DOI から PMID・PMCID を取得する。SRC-051・052 の PMCID は API で照合する。SRC-050 の PMID 39159626 も照合する。
+3. **GL・総説からの孫引き数値**（uncertainty に「二次資料経由」と記載）：IN-009・IN-017・IN-018・IN-019・IN-020・IN-022・IN-029・IN-039・IN-042・IN-043・IN-052・IN-053・IN-060・IN-061・IN-062・IN-063・IN-064・IN-065・IN-066。原著抄録と照合し、合わなければ `proposals/` に修正案を出す。
+4. **IN-001 と IN-011・014 の患者数**：GL の「22万人以上・7万人以上」と受給者証の「146,702人・52,108人」の関係（集計基準）を人間が確認する。
+5. **IN-004（部分 Mayo スコア）**：構成項目を GL 本文で確認する。
+6. **IN-045（FAP・AFAP）**：AFAP の予防的大腸切除の記載を GL 本文で確認し、必要なら別カードを提案する。
+7. **国内の承認・保険**：IN-035（便秘薬）、IN-046・051（大腸 ESD、ロボット支援手術の保険適用）、IN-083・084（CDI の治療薬）を、添付文書と点数表で確認する。
+8. **出典が古いもの**：IN-088 の NIDDK 痔核ページは 2016 年レビュー。日本の資料に差し替えられるかを次回の補完で検討する。
+
+## 8. 第4回（肝、接頭辞 LV）への引き継ぎ
+
+- SRC 番号は SRC-065 から。
+- 肝硬変 GL 2020（SRC-018）は、ES・GD で静脈瘤の部分だけを使用済み。第4回では静脈瘤以外（腹水、肝性脳症、栄養など）に使ってよい。
+- 国試出題基準の番号表（Ⅵ-6 以降）は、第2回の表にある Ⅵ-6-D-①（門脈圧亢進症）以外は手元にない。調査依頼の際に番号表を添付するか、Phase 4 で対応づける。

@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/cleanroom-gi-facts/fact.schema.json",
+  "title": "Clean Room Fact Card",
+  "type": "object",
+  "required": ["id", "domain", "assertion", "provenance", "curriculum", "publication_info"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^(HP|UG|ES|GD|IN|LV|BP|AB|XS|NG)-[0-9]{3}$"
+    },
+    "domain": {
+      "type": "string",
+      "enum": ["HP", "UG", "ES", "GD", "IN", "LV", "BP", "AB", "XS", "NG"]
+    },
+    "subdomain": { "type": ["string", "null"] },
+    "assertion": {
+      "type": "object",
+      "required": ["plain_statement_ja"],
+      "additionalProperties": false,
+      "properties": {
+        "plain_statement_ja": { "type": "string", "minLength": 10 },
+        "condition": {},
+        "differential": {},
+        "common_misconception": {}
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["source", "legal_basis", "source_class"],
+      "additionalProperties": false,
+      "properties": {
+        "source_ref": { "type": ["string", "null"], "pattern": "^SRC-[0-9]{3}$" },
+        "source": { "type": "string" },
+        "doi": { "type": ["string", "null"] },
+        "pmid": { "type": ["string", "null"], "pattern": "^[0-9]+$" },
+        "pmcid": { "type": ["string", "null"], "pattern": "^PMC[0-9]+$" },
+        "url": { "type": ["string", "null"] },
+        "source_license": { "type": ["string", "null"] },
+        "legal_basis": { "type": "string", "enum": ["A", "B", "C", "D", "F", "G"] },
+        "source_class": { "type": "string", "enum": ["OPEN", "RESTRICTED", "GOV_JP", "GOV_US", "UNKNOWN"] },
+        "corroboration": {},
+        "id_check": {
+          "type": "object",
+          "description": "照合スクリプトが記録する。手で書かない。",
+          "properties": {
+            "checked_at": { "type": "string" },
+            "doi_resolved": { "type": "boolean" },
+            "pmid_matched": { "type": ["boolean", "null"] },
+            "license_from_crossref": { "type": ["string", "null"] },
+            "notes": { "type": ["string", "null"] }
+          }
+        }
+      }
+    },
+    "uncertainty": {},
+    "curriculum": {
+      "type": "object",
+      "properties": {
+        "core_curriculum": { "type": ["string", "null"] },
+        "kokushi": { "type": ["string", "null"] }
+      }
+    },
+    "publication_info": {
+      "type": "object",
+      "required": ["created", "status"],
+      "additionalProperties": false,
+      "properties": {
+        "created": { "type": "string" },
+        "verifier": { "type": ["string", "null"] },
+        "verified_at": { "type": ["string", "null"] },
+        "status": { "type": "string", "enum": ["draft", "verified_sources", "verified_expert", "retired"] },
+        "superseded_by": { "type": ["string", "null"] }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "status": { "const": "retired" } } },
+          "then": { "required": ["superseded_by"] }
+        },
+        {
+          "if": { "properties": { "status": { "const": "verified_expert" } } },
+          "then": { "required": ["verifier", "verified_at"] }
+        }
+      ]
+    },
+    "history": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["date", "change", "by"],
+        "properties": {
+          "date": { "type": "string" },
+          "change": { "type": "string" },
+          "by": { "type": "string", "description": "human:<名前> または claude-code" }
+        }
+      }
+    }
+  }
+}
