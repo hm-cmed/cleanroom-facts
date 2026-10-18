@@ -2340,3 +2340,108 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md の出典マスター表から
+- id: SRC-163
+  legacy_id: null
+  title: 'Oakland K, Chadwick G, East JE, et al. Diagnosis and management of acute lower gastrointestinal bleeding: guidelines from the British Society of Gastroenterology. Gut 2019;68:776-789'
+  citation: 'Oakland K, Chadwick G, East JE, et al. Diagnosis and management of acute lower gastrointestinal bleeding: guidelines from the British Society of Gastroenterology. Gut 2019;68:776-789'
+  doi: 10.1136/gutjnl-2018-317807
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC 4.0（No commercial re-use）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/07_cross_sectional.md の出典マスター表から
+- id: SRC-164
+  legacy_id: null
+  title: Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051
+  citation: Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051
+  doi: 10.1136/gutjnl-2021-325210
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC 4.0（No commercial re-use）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/07_cross_sectional.md の出典マスター表から
+- id: SRC-165
+  legacy_id: null
+  title: 'Veitch AM, Radaelli F, Alikhan R, et al. Endoscopy in patients on antiplatelet or anticoagulant therapy: British Society of Gastroenterology (BSG) and European Society of Gastrointestinal Endoscopy (ESGE) guideline update. Gut 2021;70:1611-1628'
+  citation: 'Veitch AM, Radaelli F, Alikhan R, et al. Endoscopy in patients on antiplatelet or anticoagulant therapy: British Society of Gastroenterology (BSG) and European Society of Gastrointestinal Endoscopy (ESGE) guideline update. Gut 2021;70:1611-1628'
+  doi: 10.1136/gutjnl-2021-325184
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC 4.0（No commercial re-use）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/07_cross_sectional.md の出典マスター表から
+- id: SRC-166
+  legacy_id: null
+  title: Newsome PN, Cramb R, Davison SM, et al. Guidelines on the management of abnormal liver blood tests. Gut 2018;67:6-19
+  citation: Newsome PN, Cramb R, Davison SM, et al. Guidelines on the management of abnormal liver blood tests. Gut 2018;67:6-19
+  doi: 10.1136/gutjnl-2017-314924
+  pmid: null
+  pmcid: null
+  license_note: CC BY 4.0。ユーザー提供の刊行版PDFで確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/07_cross_sectional.md の出典マスター表から
+- id: SRC-167
+  legacy_id: null
+  title: 'Kaminski MF, Thomas-Gibson S, Bugajski M, et al. Performance measures for lower gastrointestinal endoscopy: a European Society of Gastrointestinal Endoscopy (ESGE) quality improvement initiative. United European Gastroenterol J 2017;5:309-334（Endoscopy 誌と同時掲載）'
+  citation: 'Kaminski MF, Thomas-Gibson S, Bugajski M, et al. Performance measures for lower gastrointestinal endoscopy: a European Society of Gastrointestinal Endoscopy (ESGE) quality improvement initiative. United European Gastroenterol J 2017;5:309-334（Endoscopy 誌と同時掲載）'
+  doi: 10.1177/2050640617700014
+  pmid: null
+  pmcid: null
+  license_note: 未確認（リポジトリの表示は Taverne）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/07_cross_sectional.md の出典マスター表から
+- id: SRC-168
+  legacy_id: null
+  title: Cederholm T, Jensen GL, Correia MITD, et al. GLIM criteria for the diagnosis of malnutrition - A consensus report from the global clinical nutrition community. Clin Nutr 2019;38:1-9
+  citation: Cederholm T, Jensen GL, Correia MITD, et al. GLIM criteria for the diagnosis of malnutrition - A consensus report from the global clinical nutrition community. Clin Nutr 2019;38:1-9
+  doi: 10.1016/j.clnu.2018.08.002
+  pmid: null
+  pmcid: null
+  license_note: 出版社の著作物（Elsevier。著者最終稿で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/07_cross_sectional.md の出典マスター表から
+- id: SRC-169
+  legacy_id: null
+  title: 'Weimann A, Braga M, Carli F, et al. ESPEN practical guideline: Clinical nutrition in surgery. Clin Nutr 2021'
+  citation: 'Weimann A, Braga M, Carli F, et al. ESPEN practical guideline: Clinical nutrition in surgery. Clin Nutr 2021'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 未確認（著者最終稿で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-18'
+    by: claude-code
+    change: 取り込み：raw/07_cross_sectional.md の出典マスター表から

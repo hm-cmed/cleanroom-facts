@@ -16,12 +16,12 @@
 | LV | 第4回 肝 | 104 | raw/04_liver.md | verified_sources 104 |
 | BP | 第5回 胆・膵 | 68 | raw/05_biliary_pancreas.md | draft（取り込み済み、照合は保留） |
 | AB | 第6回 腹膜・腹壁・急性腹症 | 93 | raw/06_abdomen.md | draft（取り込み済み、照合前） |
-| XS | 第7回 横断項目 | — | — | 未着手 |
+| XS | 第7回 横断項目 | 37 | raw/07_cross_sectional.md | draft（取り込み済み、照合前） |
 | NG | 特別回 神経消化器病（Rome V 対応） | 240 | raw/N1_neurogastroenterology.md | draft（照合前） |
 
-- 合計820件。`python scripts/validate.py` の結果はエラー0件（reports/validate_20261018.md）。
+- 合計857件。`python scripts/validate.py` の結果はエラー0件（reports/validate_20261018.md）。
 - 専門医の検証（`verified_expert`）はまだ0件です。専門医レビュー用シートは `review/`。
-- 出典マスターは data/sources/sources.yaml（162件、SRC-001〜162）。
+- 出典マスターは data/sources/sources.yaml（169件、SRC-001〜169）。
 - 照合の経過は `reports/`（取り込み・識別子照合・内容照合・カリキュラム番号）と各カードの `history` に記録しています。
 - コアカリ（令和4年度版）の CSV は `data/curriculum/`、番号の参照表は `docs/tasks/curriculum_reference.md`。
 
