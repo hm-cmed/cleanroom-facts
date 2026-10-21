@@ -1,0 +1,182 @@
+# 医師国家試験出題基準（令和6年版）医学各論の小項目（番号・名称・レベル）
+# 出典：厚生労働省 医学各論 PDF https://www.mhlw.go.jp/content/10803000/001079484.pdf
+# 備考欄は転記していない。項目の構成（番号・名称・レベル）だけを、問題の分類と配分の計算に使う。
+# checked: 原本 PDF と人が照合したら true にする（2026-10-21 は Claude Code の読み取り結果からの転記で、未照合）。
+# 新しい分野を始めるときは、その章（Ⅳ 呼吸器 など）を同じ形で足す。
+checked: false
+transcribed: 2026-10-21
+source: https://www.mhlw.go.jp/content/10803000/001079484.pdf
+chapters:
+  - id: Ⅵ
+    name: 消化器・腹壁・腹膜疾患
+    groups:
+      - id: "1"
+        name: 食道疾患
+        items:
+          - {code: Ⅵ-1-A-①, name: "食道アカラシア", level: b}
+          - {code: Ⅵ-1-B-①, name: "胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>", level: a}
+          - {code: Ⅵ-1-B-②, name: "逆流性食道炎", level: a}
+          - {code: Ⅵ-1-C-①, name: "食道癌", level: a}
+          - {code: Ⅵ-1-D-①, name: "食道静脈瘤", level: a}
+          - {code: Ⅵ-1-E-①, name: "Mallory-Weiss症候群", level: a}
+          - {code: Ⅵ-1-E-②, name: "食道穿孔・破裂", level: b}
+      - id: "2"
+        name: 胃・十二指腸疾患
+        items:
+          - {code: Ⅵ-2-A-①, name: "上腸間膜動脈性十二指腸閉塞症<上腸間膜動脈症候群>", level: b}
+          - {code: Ⅵ-2-B-①, name: "機能性ディスペプシア<FD>", level: a}
+          - {code: Ⅵ-2-B-②, name: "胃切除後症候群", level: a}
+          - {code: Ⅵ-2-C-①, name: "急性胃炎、急性胃粘膜病変", level: a}
+          - {code: Ⅵ-2-C-②, name: "慢性胃炎", level: a}
+          - {code: Ⅵ-2-C-③, name: "消化性潰瘍（胃潰瘍、十二指腸潰瘍）", level: a}
+          - {code: Ⅵ-2-C-④, name: "ヘリコバクター・ピロリ感染症", level: a}
+          - {code: Ⅵ-2-C-⑤, name: "胃アニサキス症", level: a}
+          - {code: Ⅵ-2-D-①, name: "胃ポリープ", level: a}
+          - {code: Ⅵ-2-D-②, name: "胃癌", level: a}
+          - {code: Ⅵ-2-D-③, name: "胃腺腫", level: b}
+          - {code: Ⅵ-2-D-④, name: "十二指腸腫瘍", level: b}
+      - id: "3"
+        name: 小腸・結腸疾患
+        items:
+          - {code: Ⅵ-3-A-①, name: "便秘症", level: a}
+          - {code: Ⅵ-3-A-②, name: "過敏性腸症候群", level: a}
+          - {code: Ⅵ-3-A-③, name: "吸収不良症候群", level: b}
+          - {code: Ⅵ-3-B-①, name: "感染性腸炎", level: a}
+          - {code: Ⅵ-3-B-②, name: "虫垂炎", level: a}
+          - {code: Ⅵ-3-B-③, name: "薬物性腸炎", level: a}
+          - {code: Ⅵ-3-B-④, name: "Crohn病", level: a}
+          - {code: Ⅵ-3-B-⑤, name: "潰瘍性大腸炎", level: a}
+          - {code: Ⅵ-3-B-⑥, name: "放射線性腸炎", level: c}
+          - {code: Ⅵ-3-B-⑦, name: "腸結核", level: c}
+          - {code: Ⅵ-3-C-①, name: "大腸ポリープ、大腸腺腫", level: a}
+          - {code: Ⅵ-3-C-②, name: "結腸癌", level: a}
+          - {code: Ⅵ-3-C-③, name: "小腸癌", level: c}
+      - id: "4"
+        name: 直腸・肛門疾患
+        items:
+          - {code: Ⅵ-4-A-①, name: "直腸脱", level: b}
+          - {code: Ⅵ-4-B-①, name: "肛門周囲膿瘍、痔瘻", level: a}
+          - {code: Ⅵ-4-C-①, name: "直腸癌", level: a}
+          - {code: Ⅵ-4-C-②, name: "肛門癌、肛門管癌", level: b}
+          - {code: Ⅵ-4-D-①, name: "痔核", level: a}
+          - {code: Ⅵ-4-E-①, name: "裂肛", level: b}
+      - id: "5"
+        name: 消化管共通疾患
+        items:
+          - {code: Ⅵ-5-A-①, name: "抗血小板薬による粘膜障害", level: b}
+          - {code: Ⅵ-5-A-②, name: "消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎", level: b}
+          - {code: Ⅵ-5-A-③, name: "消化管Behçet", level: c}
+          - {code: Ⅵ-5-B-①, name: "悪性リンパ腫", level: b}
+          - {code: Ⅵ-5-B-②, name: "消化管粘膜下腫瘍<SMT>", level: b}
+          - {code: Ⅵ-5-B-③, name: "消化管ポリポーシス", level: b}
+          - {code: Ⅵ-5-B-④, name: "消化管神経内分泌腫瘍", level: c}
+          - {code: Ⅵ-5-C-①, name: "消化管アミロイドーシス", level: c}
+          - {code: Ⅵ-5-D-①, name: "食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室", level: a}
+          - {code: Ⅵ-5-E-①, name: "虚血性腸炎", level: a}
+          - {code: Ⅵ-5-E-②, name: "毛細血管拡張症<angioectasia>", level: c}
+      - id: "6"
+        name: 肝疾患
+        items:
+          - {code: Ⅵ-6-A-①, name: "肝囊胞", level: c}
+          - {code: Ⅵ-6-B-①, name: "急性肝炎", level: a}
+          - {code: Ⅵ-6-B-②, name: "劇症肝炎", level: a}
+          - {code: Ⅵ-6-B-③, name: "慢性肝炎", level: a}
+          - {code: Ⅵ-6-B-④, name: "肝硬変", level: a}
+          - {code: Ⅵ-6-B-⑤, name: "原発性胆汁性胆管炎<原発性胆汁性肝硬変>", level: a}
+          - {code: Ⅵ-6-B-⑥, name: "薬物性肝障害", level: a}
+          - {code: Ⅵ-6-B-⑦, name: "自己免疫性肝炎", level: b}
+          - {code: Ⅵ-6-B-⑧, name: "肝膿瘍", level: b}
+          - {code: Ⅵ-6-B-⑨, name: "寄生虫性肝疾患", level: c}
+          - {code: Ⅵ-6-C-①, name: "肝細胞癌", level: a}
+          - {code: Ⅵ-6-C-②, name: "肝内胆管癌", level: a}
+          - {code: Ⅵ-6-C-③, name: "転移性肝癌", level: a}
+          - {code: Ⅵ-6-C-④, name: "肝血管腫", level: b}
+          - {code: Ⅵ-6-D-①, name: "門脈圧亢進症", level: a}
+          - {code: Ⅵ-6-D-②, name: "Budd-Chiari症候群", level: b}
+          - {code: Ⅵ-6-E-①, name: "ビリルビン代謝の異常", level: a}
+          - {code: Ⅵ-6-E-②, name: "脂肪肝", level: a}
+          - {code: Ⅵ-6-E-③, name: "アルコール性肝障害", level: a}
+          - {code: Ⅵ-6-E-④, name: "ヘモクロマトーシス", level: c}
+          - {code: Ⅵ-6-E-⑤, name: "Wilson病", level: c}
+      - id: "7"
+        name: 胆道疾患
+        items:
+          - {code: Ⅵ-7-A-①, name: "膵・胆管合流異常症", level: c}
+          - {code: Ⅵ-7-B-①, name: "胆囊炎", level: a}
+          - {code: Ⅵ-7-B-②, name: "胆管炎", level: a}
+          - {code: Ⅵ-7-B-③, name: "原発性硬化性胆管炎", level: c}
+          - {code: Ⅵ-7-C-①, name: "胆囊ポリープ", level: a}
+          - {code: Ⅵ-7-C-②, name: "胆囊癌、胆管癌", level: a}
+          - {code: Ⅵ-7-C-③, name: "胆囊腺筋腫症", level: b}
+          - {code: Ⅵ-7-D-①, name: "胆石症", level: a}
+      - id: "8"
+        name: 膵疾患
+        items:
+          - {code: Ⅵ-8-A-①, name: "急性膵炎", level: a}
+          - {code: Ⅵ-8-A-②, name: "慢性膵炎・膵石症", level: a}
+          - {code: Ⅵ-8-A-③, name: "自己免疫性膵炎", level: b}
+          - {code: Ⅵ-8-B-①, name: "膵癌", level: a}
+          - {code: Ⅵ-8-B-②, name: "膵囊胞性腫瘍", level: b}
+          - {code: Ⅵ-8-B-③, name: "膵神経内分泌腫瘍", level: b}
+      - id: "9"
+        name: 横隔膜・腹膜・腹壁疾患
+        items:
+          - {code: Ⅵ-9-A-①, name: "食道裂孔ヘルニア", level: a}
+          - {code: Ⅵ-9-A-②, name: "鼠径ヘルニア", level: a}
+          - {code: Ⅵ-9-A-③, name: "大腿ヘルニア", level: a}
+          - {code: Ⅵ-9-A-④, name: "閉鎖孔ヘルニア", level: b}
+          - {code: Ⅵ-9-A-⑤, name: "腹壁瘢痕ヘルニア", level: b}
+          - {code: Ⅵ-9-B-①, name: "細菌性腹膜炎", level: a}
+          - {code: Ⅵ-9-B-②, name: "横隔膜下・Douglas窩膿瘍", level: c}
+          - {code: Ⅵ-9-C-①, name: "癌性腹膜炎", level: a}
+          - {code: Ⅵ-9-C-②, name: "腹膜中皮腫", level: c}
+          - {code: Ⅵ-9-C-③, name: "腹膜偽粘液腫", level: c}
+          - {code: Ⅵ-9-C-④, name: "後腹膜腫瘍", level: c}
+      - id: "10"
+        name: 急性腹症
+        items:
+          - {code: Ⅵ-10-A-①, name: "単純性腸閉塞", level: a}
+          - {code: Ⅵ-10-A-②, name: "腸管軸捻転症", level: a}
+          - {code: Ⅵ-10-B-①, name: "麻痺性イレウス", level: a}
+          - {code: Ⅵ-10-C-①, name: "急性腹膜炎", level: a}
+          - {code: Ⅵ-10-D-①, name: "嵌頓ヘルニア", level: a}
+          - {code: Ⅵ-10-D-②, name: "絞扼性腸閉塞", level: a}
+          - {code: Ⅵ-10-D-③, name: "腸間膜動脈閉塞症、非閉塞性腸管虚血症<NOMI>", level: b}
+          - {code: Ⅵ-10-D-④, name: "腸間膜静脈血栓症", level: c}
+          - {code: Ⅵ-10-E-①, name: "消化管穿孔", level: a}
+      - id: "11"
+        name: 損傷、異物
+        items:
+          - {code: Ⅵ-11-A-①, name: "腹部外傷", level: a}
+          - {code: Ⅵ-11-B-①, name: "消化管損傷", level: a}
+          - {code: Ⅵ-11-B-②, name: "肝損傷", level: a}
+          - {code: Ⅵ-11-B-③, name: "胆道損傷", level: b}
+          - {code: Ⅵ-11-B-④, name: "膵損傷", level: b}
+          - {code: Ⅵ-11-B-⑤, name: "脾損傷", level: b}
+          - {code: Ⅵ-11-B-⑥, name: "横隔膜損傷", level: c}
+          - {code: Ⅵ-11-C-①, name: "消化管異物", level: a}
+      - id: "12"
+        name: その他の重要な小児領域の疾患
+        items:
+          - {code: Ⅵ-12-A-①, name: "先天性食道閉鎖症", level: b}
+          - {code: Ⅵ-12-B-①, name: "肥厚性幽門狭窄症", level: b}
+          - {code: Ⅵ-12-B-②, name: "先天性十二指腸閉鎖・狭窄症", level: c}
+          - {code: Ⅵ-12-C-①, name: "乳児下痢症", level: b}
+          - {code: Ⅵ-12-C-②, name: "新生児壊死性腸炎", level: b}
+          - {code: Ⅵ-12-C-③, name: "腸重積症", level: b}
+          - {code: Ⅵ-12-C-④, name: "先天性小腸狭窄・閉鎖症", level: c}
+          - {code: Ⅵ-12-C-⑤, name: "胎便性腹膜炎", level: c}
+          - {code: Ⅵ-12-C-⑥, name: "腸回転異常症", level: c}
+          - {code: Ⅵ-12-C-⑦, name: "Hirschsprung病<先天性巨大結腸症、腸管無神経節症>", level: c}
+          - {code: Ⅵ-12-D-①, name: "鎖肛", level: c}
+          - {code: Ⅵ-12-E-①, name: "新生児肝炎", level: b}
+          - {code: Ⅵ-12-E-②, name: "体質性黄疸", level: b}
+          - {code: Ⅵ-12-E-③, name: "肝芽腫", level: c}
+          - {code: Ⅵ-12-F-①, name: "胆道閉鎖症", level: b}
+          - {code: Ⅵ-12-G-①, name: "鼠径ヘルニア", level: a}
+          - {code: Ⅵ-12-G-②, name: "尿膜管遺残", level: b}
+          - {code: Ⅵ-12-G-③, name: "横隔膜ヘルニア", level: b}
+          - {code: Ⅵ-12-G-④, name: "臍ヘルニア", level: b}
+          - {code: Ⅵ-12-G-⑤, name: "精巣水瘤", level: b}
+          - {code: Ⅵ-12-G-⑥, name: "臍帯ヘルニア", level: c}
+          - {code: Ⅵ-12-G-⑦, name: "腹壁破裂", level: c}
