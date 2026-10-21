@@ -16,7 +16,7 @@
 - 不確実性：low
 - 出典：Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285　[DOI 10.1007/s00535-022-01861-z](https://doi.org/10.1007/s00535-022-01861-z)　[PMID 35226174](https://pubmed.ncbi.nlm.nih.gov/35226174/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-001&card_id=ES-001&version=702f2b2548)　（版 `702f2b2548`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-001&card_id=ES-001&version=702f2b2548)　（版 `702f2b2548`）
 
 ### ES-002　出典照合済み・監修待ち
 
@@ -28,7 +28,7 @@
 - 不確実性：low
 - 出典：Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285　[DOI 10.1007/s00535-022-01861-z](https://doi.org/10.1007/s00535-022-01861-z)　[PMID 35226174](https://pubmed.ncbi.nlm.nih.gov/35226174/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-002&card_id=ES-002&version=217db10c7a)　（版 `217db10c7a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-002&card_id=ES-002&version=217db10c7a)　（版 `217db10c7a`）
 
 ### ES-003　出典照合済み・監修待ち
 
@@ -40,7 +40,7 @@
 - 不確実性：low（推奨の方向と用量をGL本文で照合）
 - 出典：Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285　[DOI 10.1007/s00535-022-01861-z](https://doi.org/10.1007/s00535-022-01861-z)　[PMID 35226174](https://pubmed.ncbi.nlm.nih.gov/35226174/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-003&card_id=ES-003&version=c1d0538a48)　（版 `c1d0538a48`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-003&card_id=ES-003&version=c1d0538a48)　（版 `c1d0538a48`）
 
 ### ES-004　出典照合済み・監修待ち
 
@@ -52,7 +52,7 @@
 - 不確実性：low
 - 出典：Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285　[DOI 10.1007/s00535-022-01861-z](https://doi.org/10.1007/s00535-022-01861-z)　[PMID 35226174](https://pubmed.ncbi.nlm.nih.gov/35226174/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-004&card_id=ES-004&version=c6c7411190)　（版 `c6c7411190`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-004&card_id=ES-004&version=c6c7411190)　（版 `c6c7411190`）
 
 ### ES-005　下書き（出典の照合前）
 
@@ -64,7 +64,7 @@
 - 不確実性：medium（グレードの定義はPMCでは抄録しか読めず、本文で未照合）
 - 出典：Lundell LR, et al. Gut 1999　[DOI 10.1136/gut.45.2.172](https://doi.org/10.1136/gut.45.2.172)　[PMID 10403727](https://pubmed.ncbi.nlm.nih.gov/10403727/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-005&card_id=ES-005&version=49fdf8c169)　（版 `49fdf8c169`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-005&card_id=ES-005&version=49fdf8c169)　（版 `49fdf8c169`）
 
 ### ES-006　出典照合済み・監修待ち
 
@@ -76,7 +76,7 @@
 - 不確実性：low
 - 出典：Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285　[DOI 10.1007/s00535-022-01861-z](https://doi.org/10.1007/s00535-022-01861-z)　[PMID 35226174](https://pubmed.ncbi.nlm.nih.gov/35226174/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-006&card_id=ES-006&version=6f6609c429)　（版 `6f6609c429`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-006&card_id=ES-006&version=6f6609c429)　（版 `6f6609c429`）
 
 ### ES-007　出典照合済み・監修待ち
 
@@ -88,7 +88,7 @@
 - 不確実性：low（JSGE GERD GL 2021 の疫学の記載で照合。原典はGLの引用文献）
 - 出典：Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285　[DOI 10.1007/s00535-022-01861-z](https://doi.org/10.1007/s00535-022-01861-z)　[PMID 35226174](https://pubmed.ncbi.nlm.nih.gov/35226174/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-007&card_id=ES-007&version=ac7444426f)　（版 `ac7444426f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-007&card_id=ES-007&version=ac7444426f)　（版 `ac7444426f`）
 
 ### ES-008　出典照合済み・監修待ち
 
@@ -100,7 +100,7 @@
 - 不確実性：low（GL本文で照合）
 - 出典：Iwakiri K, et al. Evidence-based clinical practice guidelines for gastroesophageal reflux disease 2021. J Gastroenterol 2022;57:267-285　[DOI 10.1007/s00535-022-01861-z](https://doi.org/10.1007/s00535-022-01861-z)　[PMID 35226174](https://pubmed.ncbi.nlm.nih.gov/35226174/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-008&card_id=ES-008&version=6af43e3303)　（版 `6af43e3303`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-008&card_id=ES-008&version=6af43e3303)　（版 `6af43e3303`）
 
 ### ES-009　下書き（出典の照合前）
 
@@ -112,7 +112,7 @@
 - 不確実性：アジアでAET 4%超を確定閾値とする提案は、Wong & Chen, Gut Liver 2025（PMID 40905050）およびAliment Pharmacol Ther誌のレター（DOI 10.1111/apt.70755）による。Lyon 2.0本体のPMIDは未取得
 - 出典：Gyawali CP, et al. Updates to the modern diagnosis of GERD: Lyon consensus 2.0. Gut 2024;73(2):361-371　[DOI 10.1136/gutjnl-2023-330616](https://doi.org/10.1136/gutjnl-2023-330616)　[PMID 37734911](https://pubmed.ncbi.nlm.nih.gov/37734911/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-009&card_id=ES-009&version=afcb5d3154)　（版 `afcb5d3154`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-009&card_id=ES-009&version=afcb5d3154)　（版 `afcb5d3154`）
 
 ### ES-010　出典照合済み・監修待ち
 
@@ -124,9 +124,9 @@
 - 不確実性：low（GL本文で照合）
 - 出典：Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285　[DOI 10.1007/s00535-022-01861-z](https://doi.org/10.1007/s00535-022-01861-z)　[PMID 35226174](https://pubmed.ncbi.nlm.nih.gov/35226174/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-010&card_id=ES-010&version=ab6bb937d7)　（版 `ab6bb937d7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-010&card_id=ES-010&version=ab6bb937d7)　（版 `ab6bb937d7`）
 
-**[ここまでの 10 件（ES-001〜ES-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-001%E3%80%9CES-010&cards=ES-001%20702f2b2548%0AES-002%20217db10c7a%0AES-003%20c1d0538a48%0AES-004%20c6c7411190%0AES-005%2049fdf8c169%0AES-006%206f6609c429%0AES-007%20ac7444426f%0AES-008%206af43e3303%0AES-009%20afcb5d3154%0AES-010%20ab6bb937d7)**
+**[ここまでの 10 件（ES-001〜ES-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-001%E3%80%9CES-010&cards=ES-001%20702f2b2548%0AES-002%20217db10c7a%0AES-003%20c1d0538a48%0AES-004%20c6c7411190%0AES-005%2049fdf8c169%0AES-006%206f6609c429%0AES-007%20ac7444426f%0AES-008%206af43e3303%0AES-009%20afcb5d3154%0AES-010%20ab6bb937d7)**
 
 ---
 
@@ -140,7 +140,7 @@
 - 不確実性：low（GL本文で照合）
 - 出典：Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285　[DOI 10.1007/s00535-022-01861-z](https://doi.org/10.1007/s00535-022-01861-z)　[PMID 35226174](https://pubmed.ncbi.nlm.nih.gov/35226174/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-011&card_id=ES-011&version=64e32ef016)　（版 `64e32ef016`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-011&card_id=ES-011&version=64e32ef016)　（版 `64e32ef016`）
 
 ### ES-012　下書き（出典の照合前）
 
@@ -152,7 +152,7 @@
 - 不確実性：medium
 - 出典：Japanese Classification of Esophageal Cancer 12th ed. Part I. Esophagus 2024;21:179-215　[DOI 10.1007/s10388-024-01054-y](https://doi.org/10.1007/s10388-024-01054-y)　[PMID 38568243](https://pubmed.ncbi.nlm.nih.gov/38568243/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-012&card_id=ES-012&version=45ee4b913b)　（版 `45ee4b913b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-012&card_id=ES-012&version=45ee4b913b)　（版 `45ee4b913b`）
 
 ### ES-013　出典照合済み・監修待ち
 
@@ -164,7 +164,7 @@
 - 不確実性：medium
 - 出典：Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587　[DOI 10.14309/ajg.0000000000001680](https://doi.org/10.14309/ajg.0000000000001680)　[PMID 35354777](https://pubmed.ncbi.nlm.nih.gov/35354777/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-013&card_id=ES-013&version=73df396574)　（版 `73df396574`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-013&card_id=ES-013&version=73df396574)　（版 `73df396574`）
 
 ### ES-014　出典照合済み・監修待ち
 
@@ -176,7 +176,7 @@
 - 不確実性：low（GL本文で照合。本文の表記は「0.2%–0.05%」）
 - 出典：Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587　[DOI 10.14309/ajg.0000000000001680](https://doi.org/10.14309/ajg.0000000000001680)　[PMID 35354777](https://pubmed.ncbi.nlm.nih.gov/35354777/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-014&card_id=ES-014&version=b4c661ff19)　（版 `b4c661ff19`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-014&card_id=ES-014&version=b4c661ff19)　（版 `b4c661ff19`）
 
 ### ES-015　出典照合済み・監修待ち
 
@@ -188,7 +188,7 @@
 - 不確実性：low
 - 出典：Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372　[DOI 10.1007/s10388-023-00993-2](https://doi.org/10.1007/s10388-023-00993-2)　[PMID 36933136](https://pubmed.ncbi.nlm.nih.gov/36933136/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-015&card_id=ES-015&version=b80b5517d5)　（版 `b80b5517d5`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-015&card_id=ES-015&version=b80b5517d5)　（版 `b80b5517d5`）
 
 ### ES-016　出典照合済み・監修待ち
 
@@ -200,7 +200,7 @@
 - 不確実性：low
 - 出典：Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587　[DOI 10.14309/ajg.0000000000001680](https://doi.org/10.14309/ajg.0000000000001680)　[PMID 35354777](https://pubmed.ncbi.nlm.nih.gov/35354777/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-016&card_id=ES-016&version=c1480ee0ef)　（版 `c1480ee0ef`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-016&card_id=ES-016&version=c1480ee0ef)　（版 `c1480ee0ef`）
 
 ### ES-017　出典照合済み・監修待ち
 
@@ -212,7 +212,7 @@
 - 不確実性：low
 - 出典：Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587　[DOI 10.14309/ajg.0000000000001680](https://doi.org/10.14309/ajg.0000000000001680)　[PMID 35354777](https://pubmed.ncbi.nlm.nih.gov/35354777/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-017&card_id=ES-017&version=d96ac087ab)　（版 `d96ac087ab`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-017&card_id=ES-017&version=d96ac087ab)　（版 `d96ac087ab`）
 
 ### ES-093　下書き（出典の照合前）
 
@@ -224,9 +224,9 @@
 - 不確実性：low（令和8年版点数表でも12,000点）
 - 出典：診療報酬点数表 K653-6（令和4年新設）　[リンク](https://www.jstage.jst.go.jp/article/gee/65/6/65_1085/_html/-char/ja)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-093&card_id=ES-093&version=060583fa34)　（版 `060583fa34`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-093&card_id=ES-093&version=060583fa34)　（版 `060583fa34`）
 
-**[ここまでの 8 件（ES-011〜ES-093）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-011%E3%80%9CES-093&cards=ES-011%2064e32ef016%0AES-012%2045ee4b913b%0AES-013%2073df396574%0AES-014%20b4c661ff19%0AES-015%20b80b5517d5%0AES-016%20c1480ee0ef%0AES-017%20d96ac087ab%0AES-093%20060583fa34)**
+**[ここまでの 8 件（ES-011〜ES-093）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-011%E3%80%9CES-093&cards=ES-011%2064e32ef016%0AES-012%2045ee4b913b%0AES-013%2073df396574%0AES-014%20b4c661ff19%0AES-015%20b80b5517d5%0AES-016%20c1480ee0ef%0AES-017%20d96ac087ab%0AES-093%20060583fa34)**
 
 ---
 
@@ -242,7 +242,7 @@
 - 不確実性：low
 - 出典：ACG Clinical Guideline: EoE. Am J Gastroenterol 2025　[DOI 10.14309/ajg.0000000000003194](https://doi.org/10.14309/ajg.0000000000003194)　[PMID 39745304](https://pubmed.ncbi.nlm.nih.gov/39745304/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-018&card_id=ES-018&version=53ecca8685)　（版 `53ecca8685`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-018&card_id=ES-018&version=53ecca8685)　（版 `53ecca8685`）
 
 ### ES-019　出典照合済み・監修待ち
 
@@ -254,7 +254,7 @@
 - 不確実性：low（抄録で照合）
 - 出典：Dellon ES, et al. Updated international consensus diagnostic criteria for eosinophilic esophagitis: proceedings of the AGREE conference. Gastroenterology 2018;155:1022-1033　[DOI 10.1053/j.gastro.2018.07.009](https://doi.org/10.1053/j.gastro.2018.07.009)　[PMID 30009819](https://pubmed.ncbi.nlm.nih.gov/30009819/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-019&card_id=ES-019&version=63e644243d)　（版 `63e644243d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-019&card_id=ES-019&version=63e644243d)　（版 `63e644243d`）
 
 ### ES-020　下書き（出典の照合前）
 
@@ -266,7 +266,7 @@
 - 不確実性：low
 - 出典：Clinical and endoscopic characteristics of EoE in Japan: a case-control study　[DOI 10.5415/apallergy.2020.10.e16](https://doi.org/10.5415/apallergy.2020.10.e16)　[PMID 32411581](https://pubmed.ncbi.nlm.nih.gov/32411581/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-020&card_id=ES-020&version=3f82d7b35d)　（版 `3f82d7b35d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-020&card_id=ES-020&version=3f82d7b35d)　（版 `3f82d7b35d`）
 
 ### ES-021　出典照合済み・監修待ち
 
@@ -278,7 +278,7 @@
 - 不確実性：low（抄録で照合）
 - 出典：Hirano I, et al. Endoscopic assessment of the oesophageal features of eosinophilic oesophagitis: validation of a novel classification and grading system. Gut 2013;62:489-495　[DOI 10.1136/gutjnl-2011-301817](https://doi.org/10.1136/gutjnl-2011-301817)　[PMID 22619364](https://pubmed.ncbi.nlm.nih.gov/22619364/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-021&card_id=ES-021&version=4e184286a7)　（版 `4e184286a7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-021&card_id=ES-021&version=4e184286a7)　（版 `4e184286a7`）
 
 ### ES-022　下書き（出典の照合前）
 
@@ -290,7 +290,7 @@
 - 不確実性：medium
 - 出典：ACG Clinical Guideline: EoE. Am J Gastroenterol 2025　[DOI 10.14309/ajg.0000000000003194](https://doi.org/10.14309/ajg.0000000000003194)　[PMID 39745304](https://pubmed.ncbi.nlm.nih.gov/39745304/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-022&card_id=ES-022&version=6d7c7ef645)　（版 `6d7c7ef645`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-022&card_id=ES-022&version=6d7c7ef645)　（版 `6d7c7ef645`）
 
 ### ES-023　出典照合済み・監修待ち
 
@@ -302,7 +302,7 @@
 - 不確実性：本文未閲覧。症状スコアの数値は未確認
 - 出典：Dellon ES, et al. NEJM 2022;387:2317-2330　[DOI 10.1056/NEJMoa2205982](https://doi.org/10.1056/NEJMoa2205982)　[PMID 36546624](https://pubmed.ncbi.nlm.nih.gov/36546624/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-023&card_id=ES-023&version=9b111fa990)　（版 `9b111fa990`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-023&card_id=ES-023&version=9b111fa990)　（版 `9b111fa990`）
 
 ### ES-024　下書き（出典の照合前）
 
@@ -314,7 +314,7 @@
 - 不確実性：PMDA添付文書の効能・効果欄を全文照合していない。FDA承認日は企業発表で確認したもので、米国政府資料では未照合
 - 出典：デュピクセント 医薬品インタビューフォーム（2026年3月改訂 第20版）、サノフィ国内申請報道　[リンク](https://pro.campus.sanofi/dam/jcr:59fc0e22-fb30-4a68-84c8-25bae10089cf/dupixent_if.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-024&card_id=ES-024&version=ce133ebc63)　（版 `ce133ebc63`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-024&card_id=ES-024&version=ce133ebc63)　（版 `ce133ebc63`）
 
 ### ES-088　出典照合済み・監修待ち
 
@@ -326,7 +326,7 @@
 - 不確実性：low（抄録で照合）
 - 出典：Hirano I, et al. Endoscopic assessment of the oesophageal features of eosinophilic oesophagitis: validation of a novel classification and grading system. Gut 2013;62:489-495　[DOI 10.1136/gutjnl-2011-301817](https://doi.org/10.1136/gutjnl-2011-301817)　[PMID 22619364](https://pubmed.ncbi.nlm.nih.gov/22619364/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-088&card_id=ES-088&version=083c78b2df)　（版 `083c78b2df`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-088&card_id=ES-088&version=083c78b2df)　（版 `083c78b2df`）
 
 ### ES-091　下書き（出典の照合前）
 
@@ -338,9 +338,9 @@
 - 不確実性：low〜medium（2026年10月時点の検索でも国内のEoE承認の記録なし。PMDAの承認一覧での直接照合は未了）
 - 出典：慶應義塾大学病院 KOMPAS 好酸球性消化管疾患（2024年5月）　[リンク](https://kompas.hosp.keio.ac.jp/presentation/202405/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-091&card_id=ES-091&version=33cd780d6d)　（版 `33cd780d6d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-091&card_id=ES-091&version=33cd780d6d)　（版 `33cd780d6d`）
 
-**[ここまでの 9 件（ES-018〜ES-091）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-018%E3%80%9CES-091&cards=ES-018%2053ecca8685%0AES-019%2063e644243d%0AES-020%203f82d7b35d%0AES-021%204e184286a7%0AES-022%206d7c7ef645%0AES-023%209b111fa990%0AES-024%20ce133ebc63%0AES-088%20083c78b2df%0AES-091%2033cd780d6d)**
+**[ここまでの 9 件（ES-018〜ES-091）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-018%E3%80%9CES-091&cards=ES-018%2053ecca8685%0AES-019%2063e644243d%0AES-020%203f82d7b35d%0AES-021%204e184286a7%0AES-022%206d7c7ef645%0AES-023%209b111fa990%0AES-024%20ce133ebc63%0AES-088%20083c78b2df%0AES-091%2033cd780d6d)**
 
 ---
 
@@ -356,7 +356,7 @@
 - 不確実性：low
 - 出典：Yadlapati R, et al. Chicago Classification v4.0. Neurogastroenterol Motil 2021;33:e14058　[DOI 10.1111/nmo.14058](https://doi.org/10.1111/nmo.14058)　[PMID 33373111](https://pubmed.ncbi.nlm.nih.gov/33373111/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-A-①（食道アカラシア、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-025&card_id=ES-025&version=7e97360406)　（版 `7e97360406`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-025&card_id=ES-025&version=7e97360406)　（版 `7e97360406`）
 
 ### ES-026　下書き（出典の照合前）
 
@@ -368,7 +368,7 @@
 - 不確実性：low
 - 出典：Yadlapati R, et al. Chicago Classification v4.0. Neurogastroenterol Motil 2021;33:e14058　[DOI 10.1111/nmo.14058](https://doi.org/10.1111/nmo.14058)　[PMID 33373111](https://pubmed.ncbi.nlm.nih.gov/33373111/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-A-①（食道アカラシア、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-026&card_id=ES-026&version=50f64fb932)　（版 `50f64fb932`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-026&card_id=ES-026&version=50f64fb932)　（版 `50f64fb932`）
 
 ### ES-027　出典照合済み・監修待ち
 
@@ -380,7 +380,7 @@
 - 不確実性：low（本文で照合）
 - 出典：Yadlapati R, et al. Chicago Classification v4.0. Neurogastroenterol Motil 2021;33:e14058　[DOI 10.1111/nmo.14058](https://doi.org/10.1111/nmo.14058)　[PMID 33373111](https://pubmed.ncbi.nlm.nih.gov/33373111/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-A-①（食道アカラシア、b）　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-027&card_id=ES-027&version=af13ccd8e4)　（版 `af13ccd8e4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-027&card_id=ES-027&version=af13ccd8e4)　（版 `af13ccd8e4`）
 
 ### ES-028　出典照合済み・監修待ち
 
@@ -392,7 +392,7 @@
 - 不確実性：low（本文で照合：DL 4.5秒未満かつDCI 450以上を早期収縮とする）
 - 出典：Yadlapati R, et al. Chicago Classification v4.0. Neurogastroenterol Motil 2021;33:e14058　[DOI 10.1111/nmo.14058](https://doi.org/10.1111/nmo.14058)　[PMID 33373111](https://pubmed.ncbi.nlm.nih.gov/33373111/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-A-①（食道アカラシア、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-028&card_id=ES-028&version=c7ecbc677b)　（版 `c7ecbc677b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-028&card_id=ES-028&version=c7ecbc677b)　（版 `c7ecbc677b`）
 
 ### ES-029　出典照合済み・監修待ち
 
@@ -404,7 +404,7 @@
 - 不確実性：なし（閾値は本文で確認）
 - 出典：Yadlapati R, et al. Chicago Classification v4.0. Neurogastroenterol Motil 2021　[DOI 10.1111/nmo.14058](https://doi.org/10.1111/nmo.14058)　[PMID 33373111](https://pubmed.ncbi.nlm.nih.gov/33373111/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-A-①（食道アカラシア、b）　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-029&card_id=ES-029&version=bca4c3d4d6)　（版 `bca4c3d4d6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-029&card_id=ES-029&version=bca4c3d4d6)　（版 `bca4c3d4d6`）
 
 ### ES-030　出典照合済み・監修待ち
 
@@ -416,7 +416,7 @@
 - 不確実性：low
 - 出典：Yadlapati R, et al. Chicago Classification v4.0. Neurogastroenterol Motil 2021;33:e14058　[DOI 10.1111/nmo.14058](https://doi.org/10.1111/nmo.14058)　[PMID 33373111](https://pubmed.ncbi.nlm.nih.gov/33373111/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-A-①（食道アカラシア、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-030&card_id=ES-030&version=52ce989043)　（版 `52ce989043`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-030&card_id=ES-030&version=52ce989043)　（版 `52ce989043`）
 
 ### ES-031　出典照合済み・監修待ち
 
@@ -428,7 +428,7 @@
 - 不確実性：low（本文で照合）
 - 出典：Chicago Classification v4.0（PMC8034247）　[DOI 10.1111/nmo.14058](https://doi.org/10.1111/nmo.14058)　[PMID 33373111](https://pubmed.ncbi.nlm.nih.gov/33373111/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-A-①（食道アカラシア、b）　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-031&card_id=ES-031&version=550171b3d4)　（版 `550171b3d4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-031&card_id=ES-031&version=550171b3d4)　（版 `550171b3d4`）
 
 ### ES-032　出典照合済み・監修待ち
 
@@ -440,7 +440,7 @@
 - 不確実性：本文未閲覧のため数値は主張文に含めない
 - 出典：Werner YB, et al. NEJM 2019;381:2219-2229　[DOI 10.1056/NEJMoa1905380](https://doi.org/10.1056/NEJMoa1905380)　[PMID 31800987](https://pubmed.ncbi.nlm.nih.gov/31800987/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-A-①（食道アカラシア、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-032&card_id=ES-032&version=6ea4a11d01)　（版 `6ea4a11d01`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-032&card_id=ES-032&version=6ea4a11d01)　（版 `6ea4a11d01`）
 
 ### ES-033　出典照合済み・監修待ち
 
@@ -452,7 +452,7 @@
 - 不確実性：low
 - 出典：Werner YB, et al. POEM vs LHM. N Engl J Med 2019;381:2219-2229　[DOI 10.1056/NEJMoa1905380](https://doi.org/10.1056/NEJMoa1905380)　[PMID 31800987](https://pubmed.ncbi.nlm.nih.gov/31800987/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-A-①（食道アカラシア、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-033&card_id=ES-033&version=d0fb6469b2)　（版 `d0fb6469b2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-033&card_id=ES-033&version=d0fb6469b2)　（版 `d0fb6469b2`）
 
 ### ES-034　出典照合済み・監修待ち
 
@@ -464,9 +464,9 @@
 - 不確実性：low（GL本文 Recommendation 9 で照合）
 - 出典：Vaezi MF, et al. ACG clinical guidelines: diagnosis and management of achalasia. Am J Gastroenterol 2020;115:1393-1411　[DOI 10.14309/ajg.0000000000000731](https://doi.org/10.14309/ajg.0000000000000731)　[PMID 32773454](https://pubmed.ncbi.nlm.nih.gov/32773454/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-A-①（食道アカラシア、b）　コアカリ：PS-02-08-04 (id: JkxnuRU)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-034&card_id=ES-034&version=ddd1071bf1)　（版 `ddd1071bf1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-034&card_id=ES-034&version=ddd1071bf1)　（版 `ddd1071bf1`）
 
-**[ここまでの 10 件（ES-025〜ES-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-025%E3%80%9CES-034&cards=ES-025%207e97360406%0AES-026%2050f64fb932%0AES-027%20af13ccd8e4%0AES-028%20c7ecbc677b%0AES-029%20bca4c3d4d6%0AES-030%2052ce989043%0AES-031%20550171b3d4%0AES-032%206ea4a11d01%0AES-033%20d0fb6469b2%0AES-034%20ddd1071bf1)**
+**[ここまでの 10 件（ES-025〜ES-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-025%E3%80%9CES-034&cards=ES-025%207e97360406%0AES-026%2050f64fb932%0AES-027%20af13ccd8e4%0AES-028%20c7ecbc677b%0AES-029%20bca4c3d4d6%0AES-030%2052ce989043%0AES-031%20550171b3d4%0AES-032%206ea4a11d01%0AES-033%20d0fb6469b2%0AES-034%20ddd1071bf1)**
 
 ---
 
@@ -482,7 +482,7 @@
 - 不確実性：ganjoho.jpの利用規約の確認が残る（数値の利用のみ）
 - 出典：国立がん研究センター がん情報サービス 食道（罹患2026年3月23日更新、死亡2026年1月7日更新）　[リンク](https://ganjoho.jp/reg_stat/statistics/stat/cancer/4_esophagus.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-035&card_id=ES-035&version=df022f8fe2)　（版 `df022f8fe2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-035&card_id=ES-035&version=df022f8fe2)　（版 `df022f8fe2`）
 
 ### ES-037　出典照合済み・監修待ち
 
@@ -494,7 +494,7 @@
 - 不確実性：low
 - 出典：Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372　[DOI 10.1007/s10388-023-00993-2](https://doi.org/10.1007/s10388-023-00993-2)　[PMID 36933136](https://pubmed.ncbi.nlm.nih.gov/36933136/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-037&card_id=ES-037&version=bec48ad562)　（版 `bec48ad562`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-037&card_id=ES-037&version=bec48ad562)　（版 `bec48ad562`）
 
 ### ES-038　出典照合済み・監修待ち
 
@@ -506,7 +506,7 @@
 - 不確実性：low
 - 出典：Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372　[DOI 10.1007/s10388-023-00993-2](https://doi.org/10.1007/s10388-023-00993-2)　[PMID 36933136](https://pubmed.ncbi.nlm.nih.gov/36933136/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-038&card_id=ES-038&version=b83c5b10a2)　（版 `b83c5b10a2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-038&card_id=ES-038&version=b83c5b10a2)　（版 `b83c5b10a2`）
 
 ### ES-039　出典照合済み・監修待ち
 
@@ -518,7 +518,7 @@
 - 不確実性：low
 - 出典：Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372　[DOI 10.1007/s10388-023-00993-2](https://doi.org/10.1007/s10388-023-00993-2)　[PMID 36933136](https://pubmed.ncbi.nlm.nih.gov/36933136/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-039&card_id=ES-039&version=4dd5626244)　（版 `4dd5626244`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-039&card_id=ES-039&version=4dd5626244)　（版 `4dd5626244`）
 
 ### ES-040　出典照合済み・監修待ち
 
@@ -530,7 +530,7 @@
 - 不確実性：low（GL本文で照合）
 - 出典：Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372　[DOI 10.1007/s10388-023-00993-2](https://doi.org/10.1007/s10388-023-00993-2)　[PMID 36933136](https://pubmed.ncbi.nlm.nih.gov/36933136/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-040&card_id=ES-040&version=537b8edece)　（版 `537b8edece`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-040&card_id=ES-040&version=537b8edece)　（版 `537b8edece`）
 
 ### ES-041　出典照合済み・監修待ち
 
@@ -542,7 +542,7 @@
 - 不確実性：low（GL本文で照合）
 - 出典：Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372　[DOI 10.1007/s10388-023-00993-2](https://doi.org/10.1007/s10388-023-00993-2)　[PMID 36933136](https://pubmed.ncbi.nlm.nih.gov/36933136/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-041&card_id=ES-041&version=8d5fa6e857)　（版 `8d5fa6e857`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-041&card_id=ES-041&version=8d5fa6e857)　（版 `8d5fa6e857`）
 
 ### ES-043　下書き（出典の照合前）
 
@@ -554,7 +554,7 @@
 - 不確実性：low
 - 出典：Japanese Classification of Esophageal Cancer 12th ed. Part I. Esophagus 2024;21:179-215　[DOI 10.1007/s10388-024-01054-y](https://doi.org/10.1007/s10388-024-01054-y)　[PMID 38568243](https://pubmed.ncbi.nlm.nih.gov/38568243/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-043&card_id=ES-043&version=7c29248ee6)　（版 `7c29248ee6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-043&card_id=ES-043&version=7c29248ee6)　（版 `7c29248ee6`）
 
 ### ES-044　下書き（出典の照合前）
 
@@ -566,7 +566,7 @@
 - 不確実性：low
 - 出典：Japanese Classification of Esophageal Cancer 12th ed. Part I. Esophagus 2024;21:179-215　[DOI 10.1007/s10388-024-01054-y](https://doi.org/10.1007/s10388-024-01054-y)　[PMID 38568243](https://pubmed.ncbi.nlm.nih.gov/38568243/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-044&card_id=ES-044&version=c124023fe4)　（版 `c124023fe4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-044&card_id=ES-044&version=c124023fe4)　（版 `c124023fe4`）
 
 ### ES-045　下書き（出典の照合前）
 
@@ -578,7 +578,7 @@
 - 不確実性：low
 - 出典：Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372　[DOI 10.1007/s10388-023-00993-2](https://doi.org/10.1007/s10388-023-00993-2)　[PMID 36933136](https://pubmed.ncbi.nlm.nih.gov/36933136/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-045&card_id=ES-045&version=4a45eea6d7)　（版 `4a45eea6d7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-045&card_id=ES-045&version=4a45eea6d7)　（版 `4a45eea6d7`）
 
 ### ES-046　下書き（出典の照合前）
 
@@ -590,9 +590,9 @@
 - 不確実性：low
 - 出典：Ishihara R, et al. JGES ESD/EMR guidelines for esophageal cancer. Dig Endosc 2020;32:452-493　[DOI 10.1111/den.13654](https://doi.org/10.1111/den.13654)　[PMID 32072683](https://pubmed.ncbi.nlm.nih.gov/32072683/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-046&card_id=ES-046&version=9abe8479c7)　（版 `9abe8479c7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-046&card_id=ES-046&version=9abe8479c7)　（版 `9abe8479c7`）
 
-**[ここまでの 10 件（ES-035〜ES-046）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-035%E3%80%9CES-046&cards=ES-035%20df022f8fe2%0AES-037%20bec48ad562%0AES-038%20b83c5b10a2%0AES-039%204dd5626244%0AES-040%20537b8edece%0AES-041%208d5fa6e857%0AES-043%207c29248ee6%0AES-044%20c124023fe4%0AES-045%204a45eea6d7%0AES-046%209abe8479c7)**
+**[ここまでの 10 件（ES-035〜ES-046）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-035%E3%80%9CES-046&cards=ES-035%20df022f8fe2%0AES-037%20bec48ad562%0AES-038%20b83c5b10a2%0AES-039%204dd5626244%0AES-040%20537b8edece%0AES-041%208d5fa6e857%0AES-043%207c29248ee6%0AES-044%20c124023fe4%0AES-045%204a45eea6d7%0AES-046%209abe8479c7)**
 
 ---
 
@@ -606,7 +606,7 @@
 - 不確実性：medium
 - 出典：Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372　[DOI 10.1007/s10388-023-00993-2](https://doi.org/10.1007/s10388-023-00993-2)　[PMID 36933136](https://pubmed.ncbi.nlm.nih.gov/36933136/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-047&card_id=ES-047&version=f48ffcda9e)　（版 `f48ffcda9e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-047&card_id=ES-047&version=f48ffcda9e)　（版 `f48ffcda9e`）
 
 ### ES-048　下書き（出典の照合前）
 
@@ -618,7 +618,7 @@
 - 不確実性：medium
 - 出典：Japanese Classification of Esophageal Cancer 12th ed. Part I. Esophagus 2024;21:179-215　[DOI 10.1007/s10388-024-01054-y](https://doi.org/10.1007/s10388-024-01054-y)　[PMID 38568243](https://pubmed.ncbi.nlm.nih.gov/38568243/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-048&card_id=ES-048&version=92cf044ee1)　（版 `92cf044ee1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-048&card_id=ES-048&version=92cf044ee1)　（版 `92cf044ee1`）
 
 ### ES-049　出典照合済み・監修待ち
 
@@ -630,7 +630,7 @@
 - 不確実性：有害事象の割合はニュース照合のみのため主張文に含めない
 - 出典：Kato K, et al. JCOG1109 NExT. Lancet 2024;404(10447):55-66　[DOI 10.1016/S0140-6736(24)00745-1](https://doi.org/10.1016/S0140-6736(24)00745-1)　[PMID 38876133](https://pubmed.ncbi.nlm.nih.gov/38876133/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-049&card_id=ES-049&version=e7556ccf63)　（版 `e7556ccf63`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-049&card_id=ES-049&version=e7556ccf63)　（版 `e7556ccf63`）
 
 ### ES-050　下書き（出典の照合前）
 
@@ -642,7 +642,7 @@
 - 不確実性：medium
 - 出典：Kato K, et al. JCOG1109 NExT. Lancet 2024;404:55-66　[DOI 10.1016/S0140-6736(24)00745-1](https://doi.org/10.1016/S0140-6736(24)00745-1)　[PMID 38876133](https://pubmed.ncbi.nlm.nih.gov/38876133/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-050&card_id=ES-050&version=b4abffb1d6)　（版 `b4abffb1d6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-050&card_id=ES-050&version=b4abffb1d6)　（版 `b4abffb1d6`）
 
 ### ES-051　出典照合済み・監修待ち
 
@@ -654,7 +654,7 @@
 - 不確実性：PMIDは照合不能のため削除。OSの数値はASCO抄録（Kelly RJ, JCO 2025;43(16_suppl):4000, DOI 10.1200/JCO.2025.43.16_suppl.4000）で確認：中央値51.7対35.3か月、HR 0.85（95.87%CI 0.70–1.04）。5年OS 46%対41%は未確認
 - 出典：Kelly RJ, et al. CheckMate 577. NEJM 2021;384:1191-1203。OS: JCO 2025;43(16_suppl):4000　[DOI 10.1056/NEJMoa2032125](https://doi.org/10.1056/NEJMoa2032125)　[PMID 33789008](https://pubmed.ncbi.nlm.nih.gov/33789008/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-051&card_id=ES-051&version=dbf7d2c428)　（版 `dbf7d2c428`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-051&card_id=ES-051&version=dbf7d2c428)　（版 `dbf7d2c428`）
 
 ### ES-052　出典照合済み・監修待ち
 
@@ -666,7 +666,7 @@
 - 不確実性：low（抄録で照合）
 - 出典：Doki Y, et al. CheckMate 648. NEJM 2022;386:449-462　[DOI 10.1056/NEJMoa2111380](https://doi.org/10.1056/NEJMoa2111380)　[PMID 35108470](https://pubmed.ncbi.nlm.nih.gov/35108470/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-052&card_id=ES-052&version=d9456bca1d)　（版 `d9456bca1d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-052&card_id=ES-052&version=d9456bca1d)　（版 `d9456bca1d`）
 
 ### ES-053　出典照合済み・監修待ち
 
@@ -678,7 +678,7 @@
 - 不確実性：low
 - 出典：Sun JM, et al. KEYNOTE-590. Lancet 2021;398:759-771　[DOI 10.1016/S0140-6736(21)01234-4](https://doi.org/10.1016/S0140-6736(21)01234-4)　[PMID 34454674](https://pubmed.ncbi.nlm.nih.gov/34454674/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-053&card_id=ES-053&version=9aec9e957b)　（版 `9aec9e957b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-053&card_id=ES-053&version=9aec9e957b)　（版 `9aec9e957b`）
 
 ### ES-054　出典照合済み・監修待ち
 
@@ -690,7 +690,7 @@
 - 不確実性：low（5年生存率は5年追跡論文の抄録で照合）
 - 出典：Metges JP, et al. KEYNOTE-590 5-year extended follow-up. ESMO Open 2025;10(12):105854（原著：Sun JM, Lancet 2021;398:759-771, PMID 34454674）　[DOI 10.1016/j.esmoop.2025.105854](https://doi.org/10.1016/j.esmoop.2025.105854)　[PMID 41259897](https://pubmed.ncbi.nlm.nih.gov/41259897/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-054&card_id=ES-054&version=bfd1f6e0a0)　（版 `bfd1f6e0a0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-054&card_id=ES-054&version=bfd1f6e0a0)　（版 `bfd1f6e0a0`）
 
 ### ES-055　出典照合済み・監修待ち
 
@@ -702,7 +702,7 @@
 - 不確実性：medium
 - 出典：Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372　[DOI 10.1007/s10388-023-00993-2](https://doi.org/10.1007/s10388-023-00993-2)　[PMID 36933136](https://pubmed.ncbi.nlm.nih.gov/36933136/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-055&card_id=ES-055&version=d2b95687a6)　（版 `d2b95687a6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-055&card_id=ES-055&version=d2b95687a6)　（版 `d2b95687a6`）
 
 ### ES-056　出典照合済み・監修待ち
 
@@ -714,9 +714,9 @@
 - 不確実性：low
 - 出典：Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372　[DOI 10.1007/s10388-023-00993-2](https://doi.org/10.1007/s10388-023-00993-2)　[PMID 36933136](https://pubmed.ncbi.nlm.nih.gov/36933136/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-056&card_id=ES-056&version=ad4ff592c3)　（版 `ad4ff592c3`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-056&card_id=ES-056&version=ad4ff592c3)　（版 `ad4ff592c3`）
 
-**[ここまでの 10 件（ES-047〜ES-056）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-047%E3%80%9CES-056&cards=ES-047%20f48ffcda9e%0AES-048%2092cf044ee1%0AES-049%20e7556ccf63%0AES-050%20b4abffb1d6%0AES-051%20dbf7d2c428%0AES-052%20d9456bca1d%0AES-053%209aec9e957b%0AES-054%20bfd1f6e0a0%0AES-055%20d2b95687a6%0AES-056%20ad4ff592c3)**
+**[ここまでの 10 件（ES-047〜ES-056）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-047%E3%80%9CES-056&cards=ES-047%20f48ffcda9e%0AES-048%2092cf044ee1%0AES-049%20e7556ccf63%0AES-050%20b4abffb1d6%0AES-051%20dbf7d2c428%0AES-052%20d9456bca1d%0AES-053%209aec9e957b%0AES-054%20bfd1f6e0a0%0AES-055%20d2b95687a6%0AES-056%20ad4ff592c3)**
 
 ---
 
@@ -730,7 +730,7 @@
 - 不確実性：PMDA添付文書の改訂履歴での確認は未実施
 - 出典：小野薬品工業・BMS 食道癌適正使用委員会 文書（2021-11-26）　[リンク](https://www.esophagus.jp/files/opdivo_20211201.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-090&card_id=ES-090&version=19f1c8981d)　（版 `19f1c8981d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-090&card_id=ES-090&version=19f1c8981d)　（版 `19f1c8981d`）
 
 ### ES-092　下書き（出典の照合前）
 
@@ -742,9 +742,9 @@
 - 不確実性：53%は試算値（仮定に基づく推計）
 - 出典：Brooks PJ, et al. The alcohol flushing response. PLoS Med 2009;6(3):e1000050　[DOI 10.1371/journal.pmed.1000050](https://doi.org/10.1371/journal.pmed.1000050)　[PMID 19320537](https://pubmed.ncbi.nlm.nih.gov/19320537/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-092&card_id=ES-092&version=b52fa3a854)　（版 `b52fa3a854`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-092&card_id=ES-092&version=b52fa3a854)　（版 `b52fa3a854`）
 
-**[ここまでの 2 件（ES-090〜ES-092）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-090%E3%80%9CES-092&cards=ES-090%2019f1c8981d%0AES-092%20b52fa3a854)**
+**[ここまでの 2 件（ES-090〜ES-092）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-090%E3%80%9CES-092&cards=ES-090%2019f1c8981d%0AES-092%20b52fa3a854)**
 
 ---
 
@@ -760,7 +760,7 @@
 - 不確実性：low
 - 出典：Kaplan DE, et al. AASLD Practice Guidance, portal hypertension and varices. Hepatology 2024;79:1180-1211　[DOI 10.1097/HEP.0000000000000647](https://doi.org/10.1097/HEP.0000000000000647)　[PMID 37870298](https://pubmed.ncbi.nlm.nih.gov/37870298/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-6-D-①（門脈圧亢進症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-057&card_id=ES-057&version=a33f5a6767)　（版 `a33f5a6767`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-057&card_id=ES-057&version=a33f5a6767)　（版 `a33f5a6767`）
 
 ### ES-058　出典照合済み・監修待ち
 
@@ -772,7 +772,7 @@
 - 不確実性：low（Baveno VII本文で照合。AASLD 2024は本文未照合）
 - 出典：Kaplan DE, et al. AASLD Practice Guidance, portal hypertension and varices. Hepatology 2024;79:1180-1211　[DOI 10.1097/HEP.0000000000000647](https://doi.org/10.1097/HEP.0000000000000647)　[PMID 37870298](https://pubmed.ncbi.nlm.nih.gov/37870298/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-6-D-①（門脈圧亢進症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-058&card_id=ES-058&version=c93094ee02)　（版 `c93094ee02`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-058&card_id=ES-058&version=c93094ee02)　（版 `c93094ee02`）
 
 ### ES-059　下書き（出典の照合前）
 
@@ -784,7 +784,7 @@
 - 不確実性：low
 - 出典：Kaplan DE, et al. AASLD Practice Guidance, portal hypertension and varices. Hepatology 2024;79:1180-1211　[DOI 10.1097/HEP.0000000000000647](https://doi.org/10.1097/HEP.0000000000000647)　[PMID 37870298](https://pubmed.ncbi.nlm.nih.gov/37870298/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-6-D-①（門脈圧亢進症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-059&card_id=ES-059&version=860bdad822)　（版 `860bdad822`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-059&card_id=ES-059&version=860bdad822)　（版 `860bdad822`）
 
 ### ES-060　下書き（出典の照合前）
 
@@ -796,7 +796,7 @@
 - 不確実性：low
 - 出典：Kaplan DE, et al. AASLD Practice Guidance, portal hypertension and varices. Hepatology 2024;79:1180-1211　[DOI 10.1097/HEP.0000000000000647](https://doi.org/10.1097/HEP.0000000000000647)　[PMID 37870298](https://pubmed.ncbi.nlm.nih.gov/37870298/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-060&card_id=ES-060&version=e74f30fcb7)　（版 `e74f30fcb7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-060&card_id=ES-060&version=e74f30fcb7)　（版 `e74f30fcb7`）
 
 ### ES-061　下書き（出典の照合前）
 
@@ -808,7 +808,7 @@
 - 不確実性：取扱い規約の最新版（第4版の有無）は要確認
 - 出典：日本門脈圧亢進症学会 門脈圧亢進症取扱い規約 第3版（記載基準表を日消誌116(5):395、日内会誌103(5):1187で確認）　[リンク](https://www.jstage.jst.go.jp/article/nisshoshi/116/5/116_395/_pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-061&card_id=ES-061&version=7c2c33fe11)　（版 `7c2c33fe11`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-061&card_id=ES-061&version=7c2c33fe11)　（版 `7c2c33fe11`）
 
 ### ES-062　出典照合済み・監修待ち
 
@@ -820,7 +820,7 @@
 - 不確実性：low
 - 出典：de Franchis R, et al. Baveno VII. J Hepatol 2022;76:959-974　[DOI 10.1016/j.jhep.2021.12.022](https://doi.org/10.1016/j.jhep.2021.12.022)　[PMID 35120736](https://pubmed.ncbi.nlm.nih.gov/35120736/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-019 (id: JlAKpkg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-062&card_id=ES-062&version=d4112acf97)　（版 `d4112acf97`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-062&card_id=ES-062&version=d4112acf97)　（版 `d4112acf97`）
 
 ### ES-063　出典照合済み・監修待ち
 
@@ -832,7 +832,7 @@
 - 不確実性：本文未閲覧。転帰の数値は主張文に含めない
 - 出典：Villanueva C, et al. NEJM 2013;368(1):11-21　[DOI 10.1056/NEJMoa1211801](https://doi.org/10.1056/NEJMoa1211801)　[PMID 23281973](https://pubmed.ncbi.nlm.nih.gov/23281973/)（区分 RESTRICTED）
 - 出題基準：医学総論 Ⅸ-3-B-①（輸血の適応と一般的注意、-）；医学総論 Ⅵ-5-F-①（吐血、-）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-019 (id: JlAKpkg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-063&card_id=ES-063&version=71afc8dbaa)　（版 `71afc8dbaa`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-063&card_id=ES-063&version=71afc8dbaa)　（版 `71afc8dbaa`）
 
 ### ES-064　出典照合済み・監修待ち
 
@@ -844,7 +844,7 @@
 - 不確実性：low
 - 出典：de Franchis R, et al. Baveno VII. J Hepatol 2022;76:959-974　[DOI 10.1016/j.jhep.2021.12.022](https://doi.org/10.1016/j.jhep.2021.12.022)　[PMID 35120736](https://pubmed.ncbi.nlm.nih.gov/35120736/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-034 (id: JlAKplU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-064&card_id=ES-064&version=38cd8206c9)　（版 `38cd8206c9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-064&card_id=ES-064&version=38cd8206c9)　（版 `38cd8206c9`）
 
 ### ES-065　出典照合済み・監修待ち
 
@@ -856,7 +856,7 @@
 - 不確実性：PMIDは依頼者提示の値で、本セッションでは独立に照合していない
 - 出典：García-Pagán JC, et al. NEJM 2010　[DOI 10.1056/NEJMoa0910102](https://doi.org/10.1056/NEJMoa0910102)　[PMID 20573925](https://pubmed.ncbi.nlm.nih.gov/20573925/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-019 (id: JlAKpkg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-065&card_id=ES-065&version=b8f2d963ef)　（版 `b8f2d963ef`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-065&card_id=ES-065&version=b8f2d963ef)　（版 `b8f2d963ef`）
 
 ### ES-066　下書き（出典の照合前）
 
@@ -868,9 +868,9 @@
 - 不確実性：2025年版の推奨は未確認
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-066&card_id=ES-066&version=5a9bf98e72)　（版 `5a9bf98e72`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-066&card_id=ES-066&version=5a9bf98e72)　（版 `5a9bf98e72`）
 
-**[ここまでの 10 件（ES-057〜ES-066）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-057%E3%80%9CES-066&cards=ES-057%20a33f5a6767%0AES-058%20c93094ee02%0AES-059%20860bdad822%0AES-060%20e74f30fcb7%0AES-061%207c2c33fe11%0AES-062%20d4112acf97%0AES-063%2071afc8dbaa%0AES-064%2038cd8206c9%0AES-065%20b8f2d963ef%0AES-066%205a9bf98e72)**
+**[ここまでの 10 件（ES-057〜ES-066）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-057%E3%80%9CES-066&cards=ES-057%20a33f5a6767%0AES-058%20c93094ee02%0AES-059%20860bdad822%0AES-060%20e74f30fcb7%0AES-061%207c2c33fe11%0AES-062%20d4112acf97%0AES-063%2071afc8dbaa%0AES-064%2038cd8206c9%0AES-065%20b8f2d963ef%0AES-066%205a9bf98e72)**
 
 ---
 
@@ -886,7 +886,7 @@
 - 不確実性：小児はESPGHANなど別のGLの対象
 - 出典：Birk M, et al. ESGE Clinical Guideline. Endoscopy 2016;48:489-496（推奨7）　[DOI 10.1055/s-0042-100456](https://doi.org/10.1055/s-0042-100456)　[PMID 26862844](https://pubmed.ncbi.nlm.nih.gov/26862844/)（区分 UNKNOWN）
 - 出題基準：該当なし　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-069&card_id=ES-069&version=4807f4c732)　（版 `4807f4c732`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-069&card_id=ES-069&version=4807f4c732)　（版 `4807f4c732`）
 
 ### ES-070　下書き（出典の照合前）
 
@@ -898,7 +898,7 @@
 - 不確実性：なし
 - 出典：ESGE異物GL 2016（推奨7・10）　[DOI 10.1055/s-0042-100456](https://doi.org/10.1055/s-0042-100456)　[PMID 26862844](https://pubmed.ncbi.nlm.nih.gov/26862844/)（区分 UNKNOWN）
 - 出題基準：該当なし　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-070&card_id=ES-070&version=6dfdf700c6)　（版 `6dfdf700c6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-070&card_id=ES-070&version=6dfdf700c6)　（版 `6dfdf700c6`）
 
 ### ES-071　下書き（出典の照合前）
 
@@ -910,7 +910,7 @@
 - 不確実性：なし
 - 出典：ESGE異物GL 2016（推奨11）　[DOI 10.1055/s-0042-100456](https://doi.org/10.1055/s-0042-100456)　[PMID 26862844](https://pubmed.ncbi.nlm.nih.gov/26862844/)（区分 UNKNOWN）
 - 出題基準：該当なし　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-071&card_id=ES-071&version=232b993928)　（版 `232b993928`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-071&card_id=ES-071&version=232b993928)　（版 `232b993928`）
 
 ### ES-072　下書き（出典の照合前）
 
@@ -922,7 +922,7 @@
 - 不確実性：75%超の数値は同GL本文の記載で、原著は未確認
 - 出典：ESGE異物GL 2016（推奨8）　[DOI 10.1055/s-0042-100456](https://doi.org/10.1055/s-0042-100456)　[PMID 26862844](https://pubmed.ncbi.nlm.nih.gov/26862844/)（区分 UNKNOWN）
 - 出題基準：医学総論 Ⅵ-5-B（嚥下障害（嚥下痛・通過障害・誤嚥）、-）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-072&card_id=ES-072&version=92be8a9d1b)　（版 `92be8a9d1b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-072&card_id=ES-072&version=92be8a9d1b)　（版 `92be8a9d1b`）
 
 ### ES-073　下書き（出典の照合前）
 
@@ -934,7 +934,7 @@
 - 不確実性：medium（DOI・PMIDはAPIで確定。PMCでは抄録しか読めず、本文の記述は未照合）
 - 出典：Contini S, Scarpignato C. Caustic injury of the upper GI tract: a comprehensive review. World J Gastroenterol 2013;19(25):3918　[DOI 10.3748/wjg.v19.i25.3918](https://doi.org/10.3748/wjg.v19.i25.3918)　[PMID 23840136](https://pubmed.ncbi.nlm.nih.gov/23840136/)（区分 RESTRICTED）
 - 出題基準：該当なし　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-073&card_id=ES-073&version=e0b304f032)　（版 `e0b304f032`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-073&card_id=ES-073&version=e0b304f032)　（版 `e0b304f032`）
 
 ### ES-074　出典照合済み・監修待ち
 
@@ -946,7 +946,7 @@
 - 不確実性：Zargar原著（Gastrointest Endosc 1991）は未閲覧
 - 出典：Cheng HT, et al. Caustic ingestion in adults. BMC Gastroenterol 2008（表1）　[DOI 10.1186/1471-230X-8-31](https://doi.org/10.1186/1471-230X-8-31)　[PMID 18655708](https://pubmed.ncbi.nlm.nih.gov/18655708/)（区分 RESTRICTED）
 - 出題基準：該当なし　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-074&card_id=ES-074&version=2de9f25cd6)　（版 `2de9f25cd6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-074&card_id=ES-074&version=2de9f25cd6)　（版 `2de9f25cd6`）
 
 ### ES-075　下書き（出典の照合前）
 
@@ -958,7 +958,7 @@
 - 不確実性：medium（報告によって2bは40〜60%とする記載もあり幅がある。PMCでは抄録しか読めず本文は未照合）
 - 出典：Contini 2013 WJG　[DOI 10.3748/wjg.v19.i25.3918](https://doi.org/10.3748/wjg.v19.i25.3918)　[PMID 23840136](https://pubmed.ncbi.nlm.nih.gov/23840136/)（区分 RESTRICTED）
 - 出題基準：該当なし　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-075&card_id=ES-075&version=a15f677508)　（版 `a15f677508`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-075&card_id=ES-075&version=a15f677508)　（版 `a15f677508`）
 
 ### ES-076　出典照合済み・監修待ち
 
@@ -970,7 +970,7 @@
 - 不確実性：low（抄録で照合）。II〜IV型の定義は未収載
 - 出典：Kahrilas PJ, et al. Approaches to the diagnosis and grading of hiatal hernia. Best Pract Res Clin Gastroenterol 2008;22:601-616　[DOI 10.1016/j.bpg.2007.12.007](https://doi.org/10.1016/j.bpg.2007.12.007)　[PMID 18656819](https://pubmed.ncbi.nlm.nih.gov/18656819/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-9-A-①（食道裂孔ヘルニア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-076&card_id=ES-076&version=6ec46a7132)　（版 `6ec46a7132`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-076&card_id=ES-076&version=6ec46a7132)　（版 `6ec46a7132`）
 
 ### ES-077　下書き（出典の照合前）
 
@@ -982,7 +982,7 @@
 - 不確実性：low（PMC本文で照合）。ライセンスは Phase 3 の照合で確定
 - 出典：Abdi S, et al. Drug-induced esophagitis and helpful management for healthcare providers. Gastroenterol Hepatol Bed Bench 2022;15:219-224　[DOI 10.22037/ghfbb.v15i3.2591](https://doi.org/10.22037/ghfbb.v15i3.2591)　[PMID 36311965](https://pubmed.ncbi.nlm.nih.gov/36311965/)（区分 UNKNOWN）
 - 出題基準：医学総論 Ⅵ-5-B（嚥下障害（嚥下痛・通過障害・誤嚥）、-）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-077&card_id=ES-077&version=7b6309d537)　（版 `7b6309d537`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-077&card_id=ES-077&version=7b6309d537)　（版 `7b6309d537`）
 
 ### ES-078　出典照合済み・監修待ち
 
@@ -994,9 +994,9 @@
 - 不確実性：low（抄録で照合）。単施設の健診データ
 - 出典：Chen YH, et al. Prevalence and risk factors for Candida esophagitis among human immunodeficiency virus-negative individuals. World J Clin Cases 2022;10:10896-10905　[DOI 10.12998/wjcc.v10.i30.10896](https://doi.org/10.12998/wjcc.v10.i30.10896)　[PMID 36338217](https://pubmed.ncbi.nlm.nih.gov/36338217/)（区分 UNKNOWN）
 - 出題基準：該当なし　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-078&card_id=ES-078&version=6dce7a8acf)　（版 `6dce7a8acf`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-078&card_id=ES-078&version=6dce7a8acf)　（版 `6dce7a8acf`）
 
-**[ここまでの 10 件（ES-069〜ES-078）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-069%E3%80%9CES-078&cards=ES-069%204807f4c732%0AES-070%206dfdf700c6%0AES-071%20232b993928%0AES-072%2092be8a9d1b%0AES-073%20e0b304f032%0AES-074%202de9f25cd6%0AES-075%20a15f677508%0AES-076%206ec46a7132%0AES-077%207b6309d537%0AES-078%206dce7a8acf)**
+**[ここまでの 10 件（ES-069〜ES-078）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-069%E3%80%9CES-078&cards=ES-069%204807f4c732%0AES-070%206dfdf700c6%0AES-071%20232b993928%0AES-072%2092be8a9d1b%0AES-073%20e0b304f032%0AES-074%202de9f25cd6%0AES-075%20a15f677508%0AES-076%206ec46a7132%0AES-077%207b6309d537%0AES-078%206dce7a8acf)**
 
 ---
 
@@ -1010,7 +1010,7 @@
 - 不確実性：なし（2資料で一致）
 - 出典：Esophageal CMV and HSV co-infection: case report and review. IDCases 2020　[DOI 10.1016/j.idcr.2020.e00925](https://doi.org/10.1016/j.idcr.2020.e00925)　[PMID 33005566](https://pubmed.ncbi.nlm.nih.gov/33005566/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅻ-1-A-⑩（単純ヘルペスウイルス感染症、a）；医学各論 Ⅻ-1-A-⑭（サイトメガロウイルス感染症、a）　コアカリ：PS-03-03-03 (id: JkxnuUo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-079&card_id=ES-079&version=5382539c95)　（版 `5382539c95`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-079&card_id=ES-079&version=5382539c95)　（版 `5382539c95`）
 
 ### ES-080　出典照合済み・監修待ち
 
@@ -1022,7 +1022,7 @@
 - 不確実性：単一の後ろ向き研究
 - 出典：Can endoscopists differentiate CMV esophagitis from HSV esophagitis? Medicine 2019　[DOI 10.1097/MD.0000000000015845](https://doi.org/10.1097/MD.0000000000015845)　[PMID 31169688](https://pubmed.ncbi.nlm.nih.gov/31169688/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅻ-1-A-⑩（単純ヘルペスウイルス感染症、a）；医学各論 Ⅻ-1-A-⑭（サイトメガロウイルス感染症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-080&card_id=ES-080&version=59c9ce069f)　（版 `59c9ce069f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-080&card_id=ES-080&version=59c9ce069f)　（版 `59c9ce069f`）
 
 ### ES-081　出典照合済み・監修待ち
 
@@ -1034,7 +1034,7 @@
 - 不確実性：投与期間は未確認
 - 出典：Medicine 2019（確定診断後の治療薬）　[DOI 10.1097/MD.0000000000015845](https://doi.org/10.1097/MD.0000000000015845)　[PMID 31169688](https://pubmed.ncbi.nlm.nih.gov/31169688/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅻ-1-A-⑩（単純ヘルペスウイルス感染症、a）；医学各論 Ⅻ-1-A-⑭（サイトメガロウイルス感染症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-081&card_id=ES-081&version=fa41e024d9)　（版 `fa41e024d9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-081&card_id=ES-081&version=fa41e024d9)　（版 `fa41e024d9`）
 
 ### ES-082　出典照合済み・監修待ち
 
@@ -1046,7 +1046,7 @@
 - 不確実性：low（抄録で照合）
 - 出典：Novacek G. Plummer-Vinson syndrome. Orphanet J Rare Dis 2006;1:36　[DOI 10.1186/1750-1172-1-36](https://doi.org/10.1186/1750-1172-1-36)　[PMID 16978405](https://pubmed.ncbi.nlm.nih.gov/16978405/)（区分 OPEN）
 - 出題基準：医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）；医学総論 Ⅵ-5-B（嚥下障害（嚥下痛・通過障害・誤嚥）、-）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-082&card_id=ES-082&version=e6495e99b9)　（版 `e6495e99b9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-082&card_id=ES-082&version=e6495e99b9)　（版 `e6495e99b9`）
 
 ### ES-083　出典照合済み・監修待ち
 
@@ -1058,7 +1058,7 @@
 - 不確実性：low（PMC本文で照合）
 - 出典：Dell'Anna G, et al. The endoscopic management of Zenker's diverticulum: a comprehensive review. Diagnostics (Basel) 2024;14:2155　[DOI 10.3390/diagnostics14192155](https://doi.org/10.3390/diagnostics14192155)　[PMID 39410559](https://pubmed.ncbi.nlm.nih.gov/39410559/)（区分 OPEN）
 - 出題基準：医学総論 Ⅵ-5-B（嚥下障害（嚥下痛・通過障害・誤嚥）、-）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-083&card_id=ES-083&version=7c57d9b11f)　（版 `7c57d9b11f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-083&card_id=ES-083&version=7c57d9b11f)　（版 `7c57d9b11f`）
 
 ### ES-084　出典照合済み・監修待ち
 
@@ -1070,7 +1070,7 @@
 - 不確実性：low（抄録で照合）
 - 出典：Mertens A, et al. A systematic analysis of incidence, therapeutic strategies, and in-hospital mortality of Mallory-Weiss syndrome in Germany. J Clin Gastroenterol 2024;58:640-649　[DOI 10.1097/MCG.0000000000001918](https://doi.org/10.1097/MCG.0000000000001918)　[PMID 37668412](https://pubmed.ncbi.nlm.nih.gov/37668412/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-1-E-①（Mallory-Weiss症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-084&card_id=ES-084&version=c369e61d76)　（版 `c369e61d76`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-084&card_id=ES-084&version=c369e61d76)　（版 `c369e61d76`）
 
 ### ES-085　下書き（出典の照合前）
 
@@ -1082,7 +1082,7 @@
 - 不確実性：感度は総説が引用した値で、原著は未確認
 - 出典：Boerhaave Syndrome—Narrative Review. Diagnostics 2025;15(19):2463　[DOI 10.3390/diagnostics15192463](https://doi.org/10.3390/diagnostics15192463)　[PMID 41095682](https://pubmed.ncbi.nlm.nih.gov/41095682/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-E-②（食道穿孔・破裂（備考：Boerhaave症候群）、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-085&card_id=ES-085&version=2871f36b1e)　（版 `2871f36b1e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-085&card_id=ES-085&version=2871f36b1e)　（版 `2871f36b1e`）
 
 ### ES-086　出典照合済み・監修待ち
 
@@ -1094,7 +1094,7 @@
 - 不確実性：なし
 - 出典：Diagnostics 2025;15(19):2463　[DOI 10.3390/diagnostics15192463](https://doi.org/10.3390/diagnostics15192463)　[PMID 41095682](https://pubmed.ncbi.nlm.nih.gov/41095682/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-E-②（食道穿孔・破裂（備考：Boerhaave症候群）、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-086&card_id=ES-086&version=04ca11ae26)　（版 `04ca11ae26`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-086&card_id=ES-086&version=04ca11ae26)　（版 `04ca11ae26`）
 
 ### ES-087　下書き（出典の照合前）
 
@@ -1106,7 +1106,7 @@
 - 不確実性：治療の選択基準と死亡率の数値は未確認
 - 出典：Diagnostics 2025;15(19):2463　[DOI 10.3390/diagnostics15192463](https://doi.org/10.3390/diagnostics15192463)　[PMID 41095682](https://pubmed.ncbi.nlm.nih.gov/41095682/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-E-②（食道穿孔・破裂（備考：Boerhaave症候群）、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-087&card_id=ES-087&version=251c5092ea)　（版 `251c5092ea`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-087&card_id=ES-087&version=251c5092ea)　（版 `251c5092ea`）
 
 ### ES-089　下書き（出典の照合前）
 
@@ -1118,9 +1118,9 @@
 - 不確実性：該当箇所の照合が未了
 - 出典：要確認（JGES食道ESD/EMR GL 2020＝B、本文の該当CQを未照合）　[DOI 10.1111/den.13654](https://doi.org/10.1111/den.13654)　[PMID 32072683](https://pubmed.ncbi.nlm.nih.gov/32072683/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-089&card_id=ES-089&version=1cf80507e1)　（版 `1cf80507e1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-089&card_id=ES-089&version=1cf80507e1)　（版 `1cf80507e1`）
 
-**[ここまでの 10 件（ES-079〜ES-089）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-079%E3%80%9CES-089&cards=ES-079%205382539c95%0AES-080%2059c9ce069f%0AES-081%20fa41e024d9%0AES-082%20e6495e99b9%0AES-083%207c57d9b11f%0AES-084%20c369e61d76%0AES-085%202871f36b1e%0AES-086%2004ca11ae26%0AES-087%20251c5092ea%0AES-089%201cf80507e1)**
+**[ここまでの 10 件（ES-079〜ES-089）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-079%E3%80%9CES-089&cards=ES-079%205382539c95%0AES-080%2059c9ce069f%0AES-081%20fa41e024d9%0AES-082%20e6495e99b9%0AES-083%207c57d9b11f%0AES-084%20c369e61d76%0AES-085%202871f36b1e%0AES-086%2004ca11ae26%0AES-087%20251c5092ea%0AES-089%201cf80507e1)**
 
 ---
 

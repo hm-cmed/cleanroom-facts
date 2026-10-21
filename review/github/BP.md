@@ -16,7 +16,7 @@
 - 不確実性：GLが引用した研究の値（二次資料経由）。日本の報告では有症状化率に15.5〜51%と幅がある。同GLは急性胆管炎0.3〜1.6%、急性胆嚢炎3.8〜12%という値も挙げるが、分母（全胆石保有者か有症状化例か）が本文から読み取れないため主張文に入れていない。胆石症GL 2021の値（10年で10〜20%）と食い違うため、人間が原典で確認する
 - 出典：日本肝胆膵外科学会ほか編『TG18新基準掲載 急性胆管炎・胆嚢炎診療ガイドライン2018（第3版）』医学図書出版、2018（Minds掲載本文PDF）　[リンク](https://minds.jcqhc.or.jp/summary/c00467/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-7-D-①（胆石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)；TBL-01-00-300 (id: Jlvnl5U)；TBL-01-00-301 (id: Jlvnl5Y)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-001&card_id=BP-001&version=b34bc92aec)　（版 `b34bc92aec`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-001&card_id=BP-001&version=b34bc92aec)　（版 `b34bc92aec`）
 
 ### BP-002　下書き（出典の照合前）
 
@@ -27,7 +27,7 @@
 - 不確実性：GLが引用した研究の値（二次資料経由）
 - 出典：日本肝胆膵外科学会ほか編『TG18新基準掲載 急性胆管炎・胆嚢炎診療ガイドライン2018（第3版）』医学図書出版、2018（Minds掲載本文PDF）　[リンク](https://minds.jcqhc.or.jp/summary/c00467/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-7-B-②（胆管炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-301 (id: Jlvnl5Y)；TBL-01-00-300 (id: Jlvnl5U)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-002&card_id=BP-002&version=ab5c35f0f5)　（版 `ab5c35f0f5`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-002&card_id=BP-002&version=ab5c35f0f5)　（版 `ab5c35f0f5`）
 
 ### BP-003　下書き（出典の照合前）
 
@@ -38,7 +38,7 @@
 - よくある誤解：胆管炎は胆管閉塞がなくても起こる
 - 出典：日本肝胆膵外科学会ほか編『TG18新基準掲載 急性胆管炎・胆嚢炎診療ガイドライン2018（第3版）』医学図書出版、2018（Minds掲載本文PDF）　[リンク](https://minds.jcqhc.or.jp/summary/c00467/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-7-B-②（胆管炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-301 (id: Jlvnl5Y)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-003&card_id=BP-003&version=5b26c602a6)　（版 `5b26c602a6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-003&card_id=BP-003&version=5b26c602a6)　（版 `5b26c602a6`）
 
 ### BP-004　下書き（出典の照合前）
 
@@ -50,7 +50,7 @@
 - 不確実性：GLが引用した研究の値（二次資料経由）
 - 出典：日本肝胆膵外科学会ほか編『TG18新基準掲載 急性胆管炎・胆嚢炎診療ガイドライン2018（第3版）』医学図書出版、2018（Minds掲載本文PDF）　[リンク](https://minds.jcqhc.or.jp/summary/c00467/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-7-B-②（胆管炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-301 (id: Jlvnl5Y)；TBL-01-00-300 (id: Jlvnl5U)；TBL-02-07-017 (id: JlAKpkM)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-004&card_id=BP-004&version=77c2ad2980)　（版 `77c2ad2980`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-004&card_id=BP-004&version=77c2ad2980)　（版 `77c2ad2980`）
 
 ### BP-005　下書き（出典の照合前）
 
@@ -61,7 +61,7 @@
 - 不確実性：各重症度の具体的な判定項目と閾値（TG18の表）は今回の取得範囲になく未確認
 - 出典：日本肝胆膵外科学会ほか編『TG18新基準掲載 急性胆管炎・胆嚢炎診療ガイドライン2018（第3版）』医学図書出版、2018（Minds掲載本文PDF）　[リンク](https://minds.jcqhc.or.jp/summary/c00467/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-7-B-②（胆管炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-301 (id: Jlvnl5Y)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-005&card_id=BP-005&version=b2e8e458df)　（版 `b2e8e458df`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-005&card_id=BP-005&version=b2e8e458df)　（版 `b2e8e458df`）
 
 ### BP-006　下書き（出典の照合前）
 
@@ -72,9 +72,9 @@
 - 不確実性：重症度の判定項目の閾値（TG18の表）は今回未確認
 - 出典：日本肝胆膵外科学会ほか編『TG18新基準掲載 急性胆管炎・胆嚢炎診療ガイドライン2018（第3版）』医学図書出版、2018（Minds掲載本文PDF）　[リンク](https://minds.jcqhc.or.jp/summary/c00467/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-7-B-①（胆囊炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-300 (id: Jlvnl5U)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-006&card_id=BP-006&version=85fc804987)　（版 `85fc804987`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-006&card_id=BP-006&version=85fc804987)　（版 `85fc804987`）
 
-**[ここまでの 6 件（BP-001〜BP-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-001%E3%80%9CBP-006&cards=BP-001%20b34bc92aec%0ABP-002%20ab5c35f0f5%0ABP-003%205b26c602a6%0ABP-004%2077c2ad2980%0ABP-005%20b2e8e458df%0ABP-006%2085fc804987)**
+**[ここまでの 6 件（BP-001〜BP-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-001%E3%80%9CBP-006&cards=BP-001%20b34bc92aec%0ABP-002%20ab5c35f0f5%0ABP-003%205b26c602a6%0ABP-004%2077c2ad2980%0ABP-005%20b2e8e458df%0ABP-006%2085fc804987)**
 
 ---
 
@@ -89,7 +89,7 @@
 - よくある誤解：PSCは高齢女性に多い自己免疫疾患である
 - 出典：厚生労働省 指定難病94『原発性硬化性胆管炎』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001173515.pdf)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-7-B-③（原発性硬化性胆管炎、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-293 (id: Jlvnl7Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-007&card_id=BP-007&version=9ed0e0209f)　（版 `9ed0e0209f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-007&card_id=BP-007&version=9ed0e0209f)　（版 `9ed0e0209f`）
 
 ### BP-008　下書き（出典の照合前）
 
@@ -100,7 +100,7 @@
 - よくある誤解：PSCは必ず症状を伴って見つかる
 - 出典：厚生労働省 指定難病94『原発性硬化性胆管炎』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001173515.pdf)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-7-B-③（原発性硬化性胆管炎、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-293 (id: Jlvnl7Q)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-008&card_id=BP-008&version=e6f667cc09)　（版 `e6f667cc09`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-008&card_id=BP-008&version=e6f667cc09)　（版 `e6f667cc09`）
 
 ### BP-009　下書き（出典の照合前）
 
@@ -110,7 +110,7 @@
 - よくある誤解：PSCとIgG4関連硬化性胆管炎は治療反応性が同じ
 - 出典：厚生労働省 指定難病94『原発性硬化性胆管炎』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001173515.pdf)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-7-B-③（原発性硬化性胆管炎、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-293 (id: Jlvnl7Q)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-009&card_id=BP-009&version=3b3d5d3c74)　（版 `3b3d5d3c74`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-009&card_id=BP-009&version=3b3d5d3c74)　（版 `3b3d5d3c74`）
 
 ### BP-010　下書き（出典の照合前）
 
@@ -120,9 +120,9 @@
 - よくある誤解：PSCはウルソデオキシコール酸で治癒する
 - 出典：厚生労働省 指定難病94『原発性硬化性胆管炎』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001173515.pdf)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-7-B-③（原発性硬化性胆管炎、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-293 (id: Jlvnl7Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-010&card_id=BP-010&version=eeb209cf06)　（版 `eeb209cf06`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-010&card_id=BP-010&version=eeb209cf06)　（版 `eeb209cf06`）
 
-**[ここまでの 4 件（BP-007〜BP-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-007%E3%80%9CBP-010&cards=BP-007%209ed0e0209f%0ABP-008%20e6f667cc09%0ABP-009%203b3d5d3c74%0ABP-010%20eeb209cf06)**
+**[ここまでの 4 件（BP-007〜BP-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-007%E3%80%9CBP-010&cards=BP-007%209ed0e0209f%0ABP-008%20e6f667cc09%0ABP-009%203b3d5d3c74%0ABP-010%20eeb209cf06)**
 
 ---
 
@@ -137,7 +137,7 @@
 - 不確実性：ganjoho.jp の利用規約は人間が確認する
 - 出典：国立がん研究センター がん情報サービス 胆のう・胆管（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）　[リンク](https://ganjoho.jp/reg_stat/statistics/stat/cancer/9_gallbladder.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-011&card_id=BP-011&version=d2fd7a40de)　（版 `d2fd7a40de`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-011&card_id=BP-011&version=d2fd7a40de)　（版 `d2fd7a40de`）
 
 ### BP-012　下書き（出典の照合前）
 
@@ -148,7 +148,7 @@
 - 不確実性：ganjoho.jp の利用規約は人間が確認する
 - 出典：国立がん研究センター がん情報サービス 胆のう・胆管（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）　[リンク](https://ganjoho.jp/reg_stat/statistics/stat/cancer/9_gallbladder.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-012&card_id=BP-012&version=cbab024af2)　（版 `cbab024af2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-012&card_id=BP-012&version=cbab024af2)　（版 `cbab024af2`）
 
 ### BP-062　下書き（出典の照合前）
 
@@ -159,7 +159,7 @@
 - 不確実性：出典ページの最終更新日は今回確認できなかった
 - 出典：National Cancer Institute. Gallbladder Cancer Treatment (PDQ)–Health Professional Version　[リンク](https://www.cancer.gov/types/gallbladder/hp/gallbladder-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)；TBL-01-00-299 (id: Jlvnl5M)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-062&card_id=BP-062&version=2f271d3a90)　（版 `2f271d3a90`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-062&card_id=BP-062&version=2f271d3a90)　（版 `2f271d3a90`）
 
 ### BP-063　下書き（出典の照合前）
 
@@ -170,7 +170,7 @@
 - 不確実性：PDQが引用した研究の値（二次資料経由）
 - 出典：National Cancer Institute. Gallbladder Cancer Treatment (PDQ)–Health Professional Version　[リンク](https://www.cancer.gov/types/gallbladder/hp/gallbladder-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-063&card_id=BP-063&version=5db7d8e45c)　（版 `5db7d8e45c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-063&card_id=BP-063&version=5db7d8e45c)　（版 `5db7d8e45c`）
 
 ### BP-064　下書き（出典の照合前）
 
@@ -181,7 +181,7 @@
 - 不確実性：数値はPDQが引用したRCTの値（二次資料経由）。TOPAZ-1とKEYNOTE-966の生存期間の値は原著で照合してから別カードにする。日本での承認状況は添付文書で確認する
 - 出典：National Cancer Institute. Gallbladder Cancer Treatment (PDQ)–Health Professional Version　[リンク](https://www.cancer.gov/types/gallbladder/hp/gallbladder-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-064&card_id=BP-064&version=6aa087a917)　（版 `6aa087a917`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-064&card_id=BP-064&version=6aa087a917)　（版 `6aa087a917`）
 
 ### BP-065　下書き（出典の照合前）
 
@@ -192,7 +192,7 @@
 - よくある誤解：胆管癌の多くは肝内に発生する
 - 出典：National Cancer Institute. Bile Duct Cancer (Cholangiocarcinoma) Treatment (PDQ)–Health Professional Version（最終更新 2025-03-28）　[リンク](https://www.cancer.gov/types/liver/hp/bile-duct-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)；TBL-01-00-293 (id: Jlvnl7Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-065&card_id=BP-065&version=e92ebae024)　（版 `e92ebae024`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-065&card_id=BP-065&version=e92ebae024)　（版 `e92ebae024`）
 
 ### BP-066　下書き（出典の照合前）
 
@@ -203,7 +203,7 @@
 - 不確実性：PDQが引用した研究の値（二次資料経由）
 - 出典：National Cancer Institute. Bile Duct Cancer (Cholangiocarcinoma) Treatment (PDQ)–Health Professional Version（最終更新 2025-03-28）　[リンク](https://www.cancer.gov/types/liver/hp/bile-duct-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-066&card_id=BP-066&version=953dd81017)　（版 `953dd81017`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-066&card_id=BP-066&version=953dd81017)　（版 `953dd81017`）
 
 ### BP-067　下書き（出典の照合前）
 
@@ -214,7 +214,7 @@
 - 不確実性：数値はPDQが引用した値（二次資料経由）。日本の標準は胆道癌診療GLで確認する
 - 出典：National Cancer Institute. Bile Duct Cancer (Cholangiocarcinoma) Treatment (PDQ)–Health Professional Version（最終更新 2025-03-28）　[リンク](https://www.cancer.gov/types/liver/hp/bile-duct-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-067&card_id=BP-067&version=d925fefae6)　（版 `d925fefae6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-067&card_id=BP-067&version=d925fefae6)　（版 `d925fefae6`）
 
 ### BP-068　下書き（出典の照合前）
 
@@ -224,9 +224,9 @@
 - よくある誤解：胆管癌のT分類は腫瘍径だけで決まる
 - 出典：National Cancer Institute. Bile Duct Cancer (Cholangiocarcinoma) Treatment (PDQ)–Health Professional Version（最終更新 2025-03-28）　[リンク](https://www.cancer.gov/types/liver/hp/bile-duct-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-068&card_id=BP-068&version=a60ca733ef)　（版 `a60ca733ef`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-068&card_id=BP-068&version=a60ca733ef)　（版 `a60ca733ef`）
 
-**[ここまでの 9 件（BP-011〜BP-068）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-011%E3%80%9CBP-068&cards=BP-011%20d2fd7a40de%0ABP-012%20cbab024af2%0ABP-062%202f271d3a90%0ABP-063%205db7d8e45c%0ABP-064%206aa087a917%0ABP-065%20e92ebae024%0ABP-066%20953dd81017%0ABP-067%20d925fefae6%0ABP-068%20a60ca733ef)**
+**[ここまでの 9 件（BP-011〜BP-068）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-011%E3%80%9CBP-068&cards=BP-011%20d2fd7a40de%0ABP-012%20cbab024af2%0ABP-062%202f271d3a90%0ABP-063%205db7d8e45c%0ABP-064%206aa087a917%0ABP-065%20e92ebae024%0ABP-066%20953dd81017%0ABP-067%20d925fefae6%0ABP-068%20a60ca733ef)**
 
 ---
 
@@ -241,7 +241,7 @@
 - よくある誤解：急性膵炎の診断には画像所見が必須
 - 出典：急性膵炎診療ガイドライン改訂出版委員会（改訂出版責任者 高田忠敬）『急性膵炎診療ガイドライン2021（第5版）』2021年12月（日本肝胆膵外科学会サイト掲載PDF）　[リンク](https://www.jshbps.jp/huge/gl2021.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-8-A-①（急性膵炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-013&card_id=BP-013&version=ef6a3d7509)　（版 `ef6a3d7509`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-013&card_id=BP-013&version=ef6a3d7509)　（版 `ef6a3d7509`）
 
 ### BP-014　下書き（出典の照合前）
 
@@ -251,7 +251,7 @@
 - よくある誤解：膵酵素の値が高いほど急性膵炎は重症である
 - 出典：急性膵炎診療ガイドライン改訂出版委員会（改訂出版責任者 高田忠敬）『急性膵炎診療ガイドライン2021（第5版）』2021年12月（日本肝胆膵外科学会サイト掲載PDF）　[リンク](https://www.jshbps.jp/huge/gl2021.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-8-A-①（急性膵炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-014&card_id=BP-014&version=2e6e89a4cd)　（版 `2e6e89a4cd`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-014&card_id=BP-014&version=2e6e89a4cd)　（版 `2e6e89a4cd`）
 
 ### BP-015　下書き（出典の照合前）
 
@@ -262,7 +262,7 @@
 - よくある誤解：アミラーゼ値で重症度を判定する
 - 出典：急性膵炎診療ガイドライン改訂出版委員会（改訂出版責任者 高田忠敬）『急性膵炎診療ガイドライン2021（第5版）』2021年12月（日本肝胆膵外科学会サイト掲載PDF）　[リンク](https://www.jshbps.jp/huge/gl2021.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-8-A-①（急性膵炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-015&card_id=BP-015&version=fd5bf79956)　（版 `fd5bf79956`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-015&card_id=BP-015&version=fd5bf79956)　（版 `fd5bf79956`）
 
 ### BP-016　下書き（出典の照合前）
 
@@ -272,7 +272,7 @@
 - よくある誤解：重症度は入院時に1回判定すれば十分
 - 出典：急性膵炎診療ガイドライン改訂出版委員会（改訂出版責任者 高田忠敬）『急性膵炎診療ガイドライン2021（第5版）』2021年12月（日本肝胆膵外科学会サイト掲載PDF）　[リンク](https://www.jshbps.jp/huge/gl2021.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-8-A-①（急性膵炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-016&card_id=BP-016&version=0d534f3361)　（版 `0d534f3361`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-016&card_id=BP-016&version=0d534f3361)　（版 `0d534f3361`）
 
 ### BP-017　下書き（出典の照合前）
 
@@ -283,7 +283,7 @@
 - よくある誤解：急性膵炎の輸液は少なめが安全
 - 出典：急性膵炎診療ガイドライン改訂出版委員会（改訂出版責任者 高田忠敬）『急性膵炎診療ガイドライン2021（第5版）』2021年12月（日本肝胆膵外科学会サイト掲載PDF）　[リンク](https://www.jshbps.jp/huge/gl2021.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-8-A-①（急性膵炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-017&card_id=BP-017&version=37bce6a8df)　（版 `37bce6a8df`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-017&card_id=BP-017&version=37bce6a8df)　（版 `37bce6a8df`）
 
 ### BP-018　下書き（出典の照合前）
 
@@ -293,7 +293,7 @@
 - よくある誤解：急性膵炎には全例に予防的抗菌薬を投与する
 - 出典：急性膵炎診療ガイドライン改訂出版委員会（改訂出版責任者 高田忠敬）『急性膵炎診療ガイドライン2021（第5版）』2021年12月（日本肝胆膵外科学会サイト掲載PDF）　[リンク](https://www.jshbps.jp/huge/gl2021.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-8-A-①（急性膵炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-018&card_id=BP-018&version=741bfb767e)　（版 `741bfb767e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-018&card_id=BP-018&version=741bfb767e)　（版 `741bfb767e`）
 
 ### BP-019　下書き（出典の照合前）
 
@@ -303,7 +303,7 @@
 - よくある誤解：急性膵炎では長期の絶食と中心静脈栄養が原則
 - 出典：急性膵炎診療ガイドライン改訂出版委員会（改訂出版責任者 高田忠敬）『急性膵炎診療ガイドライン2021（第5版）』2021年12月（日本肝胆膵外科学会サイト掲載PDF）　[リンク](https://www.jshbps.jp/huge/gl2021.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-8-A-①（急性膵炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)；TBL-02-07-032 (id: JlAKplM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-019&card_id=BP-019&version=11f31a8b20)　（版 `11f31a8b20`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-019&card_id=BP-019&version=11f31a8b20)　（版 `11f31a8b20`）
 
 ### BP-020　下書き（出典の照合前）
 
@@ -313,7 +313,7 @@
 - よくある誤解：胆石性膵炎は全例で緊急ERCPを行う
 - 出典：急性膵炎診療ガイドライン改訂出版委員会（改訂出版責任者 高田忠敬）『急性膵炎診療ガイドライン2021（第5版）』2021年12月（日本肝胆膵外科学会サイト掲載PDF）　[リンク](https://www.jshbps.jp/huge/gl2021.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-8-A-①（急性膵炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)；TBL-01-00-299 (id: Jlvnl5M)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-020&card_id=BP-020&version=9f2e0fc9de)　（版 `9f2e0fc9de`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-020&card_id=BP-020&version=9f2e0fc9de)　（版 `9f2e0fc9de`）
 
 ### BP-021　下書き（出典の照合前）
 
@@ -323,7 +323,7 @@
 - よくある誤解：胆石性膵炎の胆嚢摘出は数か月後でよい
 - 出典：急性膵炎診療ガイドライン改訂出版委員会（改訂出版責任者 高田忠敬）『急性膵炎診療ガイドライン2021（第5版）』2021年12月（日本肝胆膵外科学会サイト掲載PDF）　[リンク](https://www.jshbps.jp/huge/gl2021.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-8-A-①（急性膵炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)；TBL-01-00-299 (id: Jlvnl5M)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-021&card_id=BP-021&version=5ebf6ad683)　（版 `5ebf6ad683`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-021&card_id=BP-021&version=5ebf6ad683)　（版 `5ebf6ad683`）
 
 ### BP-022　下書き（出典の照合前）
 
@@ -334,9 +334,9 @@
 - よくある誤解：感染性膵壊死には早期の開腹ネクロセクトミーが標準
 - 出典：急性膵炎診療ガイドライン改訂出版委員会（改訂出版責任者 高田忠敬）『急性膵炎診療ガイドライン2021（第5版）』2021年12月（日本肝胆膵外科学会サイト掲載PDF）　[リンク](https://www.jshbps.jp/huge/gl2021.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-8-A-①（急性膵炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-022&card_id=BP-022&version=a95527b1bf)　（版 `a95527b1bf`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-022&card_id=BP-022&version=a95527b1bf)　（版 `a95527b1bf`）
 
-**[ここまでの 10 件（BP-013〜BP-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-013%E3%80%9CBP-022&cards=BP-013%20ef6a3d7509%0ABP-014%202e6e89a4cd%0ABP-015%20fd5bf79956%0ABP-016%200d534f3361%0ABP-017%2037bce6a8df%0ABP-018%20741bfb767e%0ABP-019%2011f31a8b20%0ABP-020%209f2e0fc9de%0ABP-021%205ebf6ad683%0ABP-022%20a95527b1bf)**
+**[ここまでの 10 件（BP-013〜BP-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-013%E3%80%9CBP-022&cards=BP-013%20ef6a3d7509%0ABP-014%202e6e89a4cd%0ABP-015%20fd5bf79956%0ABP-016%200d534f3361%0ABP-017%2037bce6a8df%0ABP-018%20741bfb767e%0ABP-019%2011f31a8b20%0ABP-020%209f2e0fc9de%0ABP-021%205ebf6ad683%0ABP-022%20a95527b1bf)**
 
 ---
 
@@ -349,7 +349,7 @@
 - 不確実性：GLが引用した全国調査の値（二次資料経由）
 - 出典：急性膵炎診療ガイドライン改訂出版委員会（改訂出版責任者 高田忠敬）『急性膵炎診療ガイドライン2021（第5版）』2021年12月（日本肝胆膵外科学会サイト掲載PDF）　[リンク](https://www.jshbps.jp/huge/gl2021.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-8-A-①（急性膵炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-023&card_id=BP-023&version=f3edf01097)　（版 `f3edf01097`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-023&card_id=BP-023&version=f3edf01097)　（版 `f3edf01097`）
 
 ### BP-024　下書き（出典の照合前）
 
@@ -360,9 +360,9 @@
 - 不確実性：バンドル遵守で致命率が下がったという全国調査の値は二次資料経由
 - 出典：急性膵炎診療ガイドライン改訂出版委員会（改訂出版責任者 高田忠敬）『急性膵炎診療ガイドライン2021（第5版）』2021年12月（日本肝胆膵外科学会サイト掲載PDF）　[リンク](https://www.jshbps.jp/huge/gl2021.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-8-A-①（急性膵炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-024&card_id=BP-024&version=66179cd98b)　（版 `66179cd98b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-024&card_id=BP-024&version=66179cd98b)　（版 `66179cd98b`）
 
-**[ここまでの 2 件（BP-023〜BP-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-023%E3%80%9CBP-024&cards=BP-023%20f3edf01097%0ABP-024%2066179cd98b)**
+**[ここまでの 2 件（BP-023〜BP-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-023%E3%80%9CBP-024&cards=BP-023%20f3edf01097%0ABP-024%2066179cd98b)**
 
 ---
 
@@ -377,7 +377,7 @@
 - 不確実性：感度・特異度はGLが引用したメタ解析の値（二次資料経由）
 - 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-025&card_id=BP-025&version=99d65ea2c7)　（版 `99d65ea2c7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-025&card_id=BP-025&version=99d65ea2c7)　（版 `99d65ea2c7`）
 
 ### BP-026　下書き（出典の照合前）
 
@@ -388,7 +388,7 @@
 - 不確実性：早期慢性膵炎の診断項目の詳細はGL本文で確認が必要
 - 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-026&card_id=BP-026&version=d5652cc10b)　（版 `d5652cc10b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-026&card_id=BP-026&version=d5652cc10b)　（版 `d5652cc10b`）
 
 ### BP-027　下書き（出典の照合前）
 
@@ -399,7 +399,7 @@
 - 不確実性：GLが引用した研究の値（二次資料経由）
 - 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-027&card_id=BP-027&version=b0c82e1ad2)　（版 `b0c82e1ad2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-027&card_id=BP-027&version=b0c82e1ad2)　（版 `b0c82e1ad2`）
 
 ### BP-028　下書き（出典の照合前）
 
@@ -409,7 +409,7 @@
 - よくある誤解：禁煙は慢性膵炎の経過に影響しない
 - 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-028&card_id=BP-028&version=a340ecb42a)　（版 `a340ecb42a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-028&card_id=BP-028&version=a340ecb42a)　（版 `a340ecb42a`）
 
 ### BP-029　下書き（出典の照合前）
 
@@ -419,7 +419,7 @@
 - よくある誤解：慢性膵炎の疼痛には最初から強オピオイドを使う
 - 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-029&card_id=BP-029&version=24cfb352ab)　（版 `24cfb352ab`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-029&card_id=BP-029&version=24cfb352ab)　（版 `24cfb352ab`）
 
 ### BP-030　下書き（出典の照合前）
 
@@ -429,7 +429,7 @@
 - よくある誤解：消化酵素薬は慢性膵炎の痛みに有効
 - 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)；TBL-02-07-009 (id: JlAKpjw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-030&card_id=BP-030&version=409420d6d2)　（版 `409420d6d2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-030&card_id=BP-030&version=409420d6d2)　（版 `409420d6d2`）
 
 ### BP-031　下書き（出典の照合前）
 
@@ -439,7 +439,7 @@
 - よくある誤解：慢性膵炎では脂肪を厳しく制限すべき
 - 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-031&card_id=BP-031&version=9fc51d1bad)　（版 `9fc51d1bad`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-031&card_id=BP-031&version=9fc51d1bad)　（版 `9fc51d1bad`）
 
 ### BP-032　下書き（出典の照合前）
 
@@ -451,7 +451,7 @@
 - 不確実性：使用率はGLが引用した調査の値（二次資料経由）
 - 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-032&card_id=BP-032&version=d1252be0aa)　（版 `d1252be0aa`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-032&card_id=BP-032&version=d1252be0aa)　（版 `d1252be0aa`）
 
 ### BP-033　下書き（出典の照合前）
 
@@ -461,7 +461,7 @@
 - よくある誤解：膵石があれば無症状でも内視鏡治療を行う
 - 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-033&card_id=BP-033&version=820877bbee)　（版 `820877bbee`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-033&card_id=BP-033&version=820877bbee)　（版 `820877bbee`）
 
 ### BP-034　下書き（出典の照合前）
 
@@ -472,9 +472,9 @@
 - 不確実性：GLが引用した研究の値（二次資料経由）
 - 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-306 (id: Jlvnl7o)；TBL-01-00-655 (id: JlvnmdQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-034&card_id=BP-034&version=30ac807a32)　（版 `30ac807a32`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-034&card_id=BP-034&version=30ac807a32)　（版 `30ac807a32`）
 
-**[ここまでの 10 件（BP-025〜BP-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-025%E3%80%9CBP-034&cards=BP-025%2099d65ea2c7%0ABP-026%20d5652cc10b%0ABP-027%20b0c82e1ad2%0ABP-028%20a340ecb42a%0ABP-029%2024cfb352ab%0ABP-030%20409420d6d2%0ABP-031%209fc51d1bad%0ABP-032%20d1252be0aa%0ABP-033%20820877bbee%0ABP-034%2030ac807a32)**
+**[ここまでの 10 件（BP-025〜BP-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-025%E3%80%9CBP-034&cards=BP-025%2099d65ea2c7%0ABP-026%20d5652cc10b%0ABP-027%20b0c82e1ad2%0ABP-028%20a340ecb42a%0ABP-029%2024cfb352ab%0ABP-030%20409420d6d2%0ABP-031%209fc51d1bad%0ABP-032%20d1252be0aa%0ABP-033%20820877bbee%0ABP-034%2030ac807a32)**
 
 ---
 
@@ -489,7 +489,7 @@
 - よくある誤解：IgG4関連疾患は膵臓だけの病気である
 - 出典：厚生労働省 指定難病300『IgG4関連疾患』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001175041.pdf)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-8-A-③（自己免疫性膵炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-307 (id: Jlvnl7w)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-035&card_id=BP-035&version=1bfb43d0b9)　（版 `1bfb43d0b9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-035&card_id=BP-035&version=1bfb43d0b9)　（版 `1bfb43d0b9`）
 
 ### BP-036　下書き（出典の照合前）
 
@@ -499,7 +499,7 @@
 - よくある誤解：血清IgG4高値だけでIgG4関連疾患と確定できる
 - 出典：厚生労働省 指定難病300『IgG4関連疾患』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001175041.pdf)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-8-A-③（自己免疫性膵炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-307 (id: Jlvnl7w)；TBL-02-07-031 (id: JlAKplI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-036&card_id=BP-036&version=8750fae885)　（版 `8750fae885`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-036&card_id=BP-036&version=8750fae885)　（版 `8750fae885`）
 
 ### BP-037　下書き（出典の照合前）
 
@@ -509,7 +509,7 @@
 - よくある誤解：ステロイドが効けば膵癌は否定できる
 - 出典：厚生労働省 指定難病300『IgG4関連疾患』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001175041.pdf)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-8-A-③（自己免疫性膵炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-307 (id: Jlvnl7w)；TBL-02-07-031 (id: JlAKplI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-037&card_id=BP-037&version=fb3fb35012)　（版 `fb3fb35012`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-037&card_id=BP-037&version=fb3fb35012)　（版 `fb3fb35012`）
 
 ### BP-038　下書き（出典の照合前）
 
@@ -519,9 +519,9 @@
 - よくある誤解：IgG4関連疾患はステロイドで完治し再発しない
 - 出典：厚生労働省 指定難病300『IgG4関連疾患』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001175041.pdf)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-8-A-③（自己免疫性膵炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-307 (id: Jlvnl7w)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-038&card_id=BP-038&version=14cb7a9640)　（版 `14cb7a9640`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-038&card_id=BP-038&version=14cb7a9640)　（版 `14cb7a9640`）
 
-**[ここまでの 4 件（BP-035〜BP-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-035%E3%80%9CBP-038&cards=BP-035%201bfb43d0b9%0ABP-036%208750fae885%0ABP-037%20fb3fb35012%0ABP-038%2014cb7a9640)**
+**[ここまでの 4 件（BP-035〜BP-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-035%E3%80%9CBP-038&cards=BP-035%201bfb43d0b9%0ABP-036%208750fae885%0ABP-037%20fb3fb35012%0ABP-038%2014cb7a9640)**
 
 ---
 
@@ -535,7 +535,7 @@
 - よくある誤解：糖尿病の悪化は膵癌と無関係
 - 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-B-①（膵癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-655 (id: JlvnmdQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-039&card_id=BP-039&version=a54f0079ac)　（版 `a54f0079ac`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-039&card_id=BP-039&version=a54f0079ac)　（版 `a54f0079ac`）
 
 ### BP-040　下書き（出典の照合前）
 
@@ -545,7 +545,7 @@
 - よくある誤解：膵癌の診断にはPETが最も有用
 - 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-B-①（膵癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-655 (id: JlvnmdQ)；TBL-02-07-029 (id: JlAKplA)；TBL-02-07-031 (id: JlAKplI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-040&card_id=BP-040&version=bf3b573c43)　（版 `bf3b573c43`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-040&card_id=BP-040&version=bf3b573c43)　（版 `bf3b573c43`）
 
 ### BP-041　下書き（出典の照合前）
 
@@ -555,7 +555,7 @@
 - よくある誤解：切除できれば術後化学療法は不要
 - 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-B-①（膵癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-655 (id: JlvnmdQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-041&card_id=BP-041&version=66bf8f9d02)　（版 `66bf8f9d02`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-041&card_id=BP-041&version=66bf8f9d02)　（版 `66bf8f9d02`）
 
 ### BP-042　下書き（出典の照合前）
 
@@ -565,7 +565,7 @@
 - よくある誤解：転移性膵癌に有効な化学療法はない
 - 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-B-①（膵癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-655 (id: JlvnmdQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-042&card_id=BP-042&version=ce6160bf7d)　（版 `ce6160bf7d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-042&card_id=BP-042&version=ce6160bf7d)　（版 `ce6160bf7d`）
 
 ### BP-043　下書き（出典の照合前）
 
@@ -575,7 +575,7 @@
 - よくある誤解：膵癌では遺伝子検査は治療選択に関係しない
 - 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-B-①（膵癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-655 (id: JlvnmdQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-043&card_id=BP-043&version=38e0ddbbe0)　（版 `38e0ddbbe0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-043&card_id=BP-043&version=38e0ddbbe0)　（版 `38e0ddbbe0`）
 
 ### BP-044　下書き（出典の照合前）
 
@@ -585,7 +585,7 @@
 - よくある誤解：拡大郭清ほど予後がよくなる
 - 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-B-①（膵癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-655 (id: JlvnmdQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-044&card_id=BP-044&version=925f774642)　（版 `925f774642`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-044&card_id=BP-044&version=925f774642)　（版 `925f774642`）
 
 ### BP-045　下書き（出典の照合前）
 
@@ -596,7 +596,7 @@
 - 不確実性：ganjoho.jp の利用規約は人間が確認する
 - 出典：国立がん研究センター がん情報サービス 膵臓（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）　[リンク](https://ganjoho.jp/reg_stat/statistics/stat/cancer/10_pancreas.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-8-B-①（膵癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-655 (id: JlvnmdQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-045&card_id=BP-045&version=9e4e708186)　（版 `9e4e708186`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-045&card_id=BP-045&version=9e4e708186)　（版 `9e4e708186`）
 
 ### BP-046　下書き（出典の照合前）
 
@@ -608,9 +608,9 @@
 - 不確実性：ganjoho.jp の利用規約は人間が確認する
 - 出典：国立がん研究センター がん情報サービス 膵臓（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）　[リンク](https://ganjoho.jp/reg_stat/statistics/stat/cancer/10_pancreas.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-8-B-①（膵癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-655 (id: JlvnmdQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-046&card_id=BP-046&version=3315501a62)　（版 `3315501a62`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-046&card_id=BP-046&version=3315501a62)　（版 `3315501a62`）
 
-**[ここまでの 8 件（BP-039〜BP-046）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-039%E3%80%9CBP-046&cards=BP-039%20a54f0079ac%0ABP-040%20bf3b573c43%0ABP-041%2066bf8f9d02%0ABP-042%20ce6160bf7d%0ABP-043%2038e0ddbbe0%0ABP-044%20925f774642%0ABP-045%209e4e708186%0ABP-046%203315501a62)**
+**[ここまでの 8 件（BP-039〜BP-046）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-039%E3%80%9CBP-046&cards=BP-039%20a54f0079ac%0ABP-040%20bf3b573c43%0ABP-041%2066bf8f9d02%0ABP-042%20ce6160bf7d%0ABP-043%2038e0ddbbe0%0ABP-044%20925f774642%0ABP-045%209e4e708186%0ABP-046%203315501a62)**
 
 ---
 
@@ -626,9 +626,9 @@
 - 不確実性：抄録のみ参照。high-risk stigmata・worrisome featuresの具体的な項目は未取得
 - 出典：Ohtsuka T, et al. International evidence-based Kyoto guidelines for the management of intraductal papillary mucinous neoplasm of the pancreas. Pancreatology 2024;24:255-270　[DOI 10.1016/j.pan.2023.12.009](https://doi.org/10.1016/j.pan.2023.12.009)　[PMID 38182527](https://pubmed.ncbi.nlm.nih.gov/38182527/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-B-②（膵囊胞性腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-654 (id: JlvnmdM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-047&card_id=BP-047&version=26993db4d4)　（版 `26993db4d4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-047&card_id=BP-047&version=26993db4d4)　（版 `26993db4d4`）
 
-**[ここまでの 1 件（BP-047）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-047&cards=BP-047%2026993db4d4)**
+**[ここまでの 1 件（BP-047）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-047&cards=BP-047%2026993db4d4)**
 
 ---
 
@@ -643,7 +643,7 @@
 - 不確実性：米国のデータ。日本の頻度や機能性・非機能性の割合は今回は確認していない
 - 出典：National Cancer Institute. Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ)–Health Professional Version（最終更新 2025-05-09）　[リンク](https://www.cancer.gov/types/pancreatic/hp/pnet-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-8-B-③（膵神経内分泌腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-653 (id: JlvnmdE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-048&card_id=BP-048&version=c6caf40c0f)　（版 `c6caf40c0f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-048&card_id=BP-048&version=c6caf40c0f)　（版 `c6caf40c0f`）
 
 ### BP-049　下書き（出典の照合前）
 
@@ -654,7 +654,7 @@
 - よくある誤解：インスリノーマの多くは悪性である
 - 出典：National Cancer Institute. Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ)–Health Professional Version（最終更新 2025-05-09）　[リンク](https://www.cancer.gov/types/pancreatic/hp/pnet-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-8-B-③（膵神経内分泌腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-653 (id: JlvnmdE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-049&card_id=BP-049&version=d258dee896)　（版 `d258dee896`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-049&card_id=BP-049&version=d258dee896)　（版 `d258dee896`）
 
 ### BP-050　下書き（出典の照合前）
 
@@ -665,7 +665,7 @@
 - よくある誤解：ガストリノーマは膵実質内に発生することが多い
 - 出典：National Cancer Institute. Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ)–Health Professional Version（最終更新 2025-05-09）　[リンク](https://www.cancer.gov/types/pancreatic/hp/pnet-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-8-B-③（膵神経内分泌腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-653 (id: JlvnmdE)；TBL-01-00-672 (id: Jlvnme4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-050&card_id=BP-050&version=8e376552cf)　（版 `8e376552cf`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-050&card_id=BP-050&version=8e376552cf)　（版 `8e376552cf`）
 
 ### BP-051　下書き（出典の照合前）
 
@@ -675,7 +675,7 @@
 - よくある誤解：VIPomaは便秘を起こす
 - 出典：National Cancer Institute. Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ)–Health Professional Version（最終更新 2025-05-09）　[リンク](https://www.cancer.gov/types/pancreatic/hp/pnet-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-8-B-③（膵神経内分泌腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-653 (id: JlvnmdE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-051&card_id=BP-051&version=bc5e0399c0)　（版 `bc5e0399c0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-051&card_id=BP-051&version=bc5e0399c0)　（版 `bc5e0399c0`）
 
 ### BP-052　下書き（出典の照合前）
 
@@ -685,9 +685,9 @@
 - よくある誤解：MEN1の膵腫瘍は散発例と同様に切除で治癒しやすい
 - 出典：National Cancer Institute. Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ)–Health Professional Version（最終更新 2025-05-09）　[リンク](https://www.cancer.gov/types/pancreatic/hp/pnet-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-8-B-③（膵神経内分泌腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-653 (id: JlvnmdE)；TBL-01-00-672 (id: Jlvnme4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-052&card_id=BP-052&version=66a19e53a5)　（版 `66a19e53a5`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-052&card_id=BP-052&version=66a19e53a5)　（版 `66a19e53a5`）
 
-**[ここまでの 5 件（BP-048〜BP-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-048%E3%80%9CBP-052&cards=BP-048%20c6caf40c0f%0ABP-049%20d258dee896%0ABP-050%208e376552cf%0ABP-051%20bc5e0399c0%0ABP-052%2066a19e53a5)**
+**[ここまでの 5 件（BP-048〜BP-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-048%E3%80%9CBP-052&cards=BP-048%20c6caf40c0f%0ABP-049%20d258dee896%0ABP-050%208e376552cf%0ABP-051%20bc5e0399c0%0ABP-052%2066a19e53a5)**
 
 ---
 
@@ -703,7 +703,7 @@
 - 不確実性：GL本文のBQ1-2の要旨。石の種類別の頻度は今回未取得
 - 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-7-D-①（胆石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-053&card_id=BP-053&version=27404cc711)　（版 `27404cc711`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-053&card_id=BP-053&version=27404cc711)　（版 `27404cc711`）
 
 ### BP-054　下書き（出典の照合前）
 
@@ -715,7 +715,7 @@
 - 不確実性：GLが引用した研究の値（二次資料経由）。BP-001の値と食い違うため、人間が原典で確認する
 - 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-7-D-①（胆石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-054&card_id=BP-054&version=00f0571a4b)　（版 `00f0571a4b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-054&card_id=BP-054&version=00f0571a4b)　（版 `00f0571a4b`）
 
 ### BP-055　下書き（出典の照合前）
 
@@ -726,7 +726,7 @@
 - 不確実性：GLが引用した研究の値（二次資料経由）。観察期間はGL本文で確認する
 - 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-7-D-①（胆石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)；TBL-01-00-300 (id: Jlvnl5U)；TBL-01-00-305 (id: Jlvnl7k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-055&card_id=BP-055&version=c9d65b8085)　（版 `c9d65b8085`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-055&card_id=BP-055&version=c9d65b8085)　（版 `c9d65b8085`）
 
 ### BP-056　下書き（出典の照合前）
 
@@ -736,7 +736,7 @@
 - よくある誤解：胆石があれば全例に胆嚢摘出術を行う
 - 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-7-D-①（胆石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)；TBL-01-00-651 (id: Jlvnmc4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-056&card_id=BP-056&version=d06fd43e01)　（版 `d06fd43e01`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-056&card_id=BP-056&version=d06fd43e01)　（版 `d06fd43e01`）
 
 ### BP-057　下書き（出典の照合前）
 
@@ -748,7 +748,7 @@
 - 不確実性：胆嚢癌患者の胆石保有率はGL本文の中で69〜96%と40〜70%の2つの値が示されており不整合があるため主張文に入れていない
 - 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-299 (id: Jlvnl5M)；TBL-01-00-651 (id: Jlvnmc4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-057&card_id=BP-057&version=dea1e2b89f)　（版 `dea1e2b89f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-057&card_id=BP-057&version=dea1e2b89f)　（版 `dea1e2b89f`）
 
 ### BP-058　下書き（出典の照合前）
 
@@ -759,7 +759,7 @@
 - 不確実性：感度・特異度はGLが引用したメタ解析の値（二次資料経由）
 - 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-7-D-①（胆石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)；TBL-01-00-301 (id: Jlvnl5Y)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-058&card_id=BP-058&version=71164adadb)　（版 `71164adadb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-058&card_id=BP-058&version=71164adadb)　（版 `71164adadb`）
 
 ### BP-059　下書き（出典の照合前）
 
@@ -769,7 +769,7 @@
 - よくある誤解：肝内結石は良性疾患で癌との関係はない
 - 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-7-D-①（胆石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)；TBL-01-00-651 (id: Jlvnmc4)；TBL-02-07-028 (id: JlAKpk8)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-059&card_id=BP-059&version=06088340b4)　（版 `06088340b4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-059&card_id=BP-059&version=06088340b4)　（版 `06088340b4`）
 
 ### BP-060　下書き（出典の照合前）
 
@@ -779,7 +779,7 @@
 - よくある誤解：胆嚢結石の標準治療は経口溶解療法である
 - 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-7-D-①（胆石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-060&card_id=BP-060&version=ef2b848cfd)　（版 `ef2b848cfd`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-060&card_id=BP-060&version=ef2b848cfd)　（版 `ef2b848cfd`）
 
 ### BP-061　下書き（出典の照合前）
 
@@ -790,9 +790,9 @@
 - 不確実性：GLのコラムの記述で、推奨文ではない
 - 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-7-D-①（胆石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-061&card_id=BP-061&version=ecccff2a48)　（版 `ecccff2a48`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-061&card_id=BP-061&version=ecccff2a48)　（版 `ecccff2a48`）
 
-**[ここまでの 9 件（BP-053〜BP-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-053%E3%80%9CBP-061&cards=BP-053%2027404cc711%0ABP-054%2000f0571a4b%0ABP-055%20c9d65b8085%0ABP-056%20d06fd43e01%0ABP-057%20dea1e2b89f%0ABP-058%2071164adadb%0ABP-059%2006088340b4%0ABP-060%20ef2b848cfd%0ABP-061%20ecccff2a48)**
+**[ここまでの 9 件（BP-053〜BP-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-053%E3%80%9CBP-061&cards=BP-053%2027404cc711%0ABP-054%2000f0571a4b%0ABP-055%20c9d65b8085%0ABP-056%20d06fd43e01%0ABP-057%20dea1e2b89f%0ABP-058%2071164adadb%0ABP-059%2006088340b4%0ABP-060%20ef2b848cfd%0ABP-061%20ecccff2a48)**
 
 ---
 

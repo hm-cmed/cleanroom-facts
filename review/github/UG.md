@@ -14,7 +14,7 @@
 - 鑑別・補足：GBSは内視鏡前のリスク層別化に使う。Rockallスコア（完全版）は内視鏡所見を必要とする
 - よくある誤解：GBS 0〜1でも全例を緊急内視鏡にすべき
 - 出典：Laine L et al. Am J Gastroenterol 2021;116:899-917　[DOI 10.14309/ajg.0000000000001245](https://doi.org/10.14309/ajg.0000000000001245)　[PMID 33929377](https://pubmed.ncbi.nlm.nih.gov/33929377/)（区分 RESTRICTED）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-001&card_id=UG-001&version=8c87f27d59)　（版 `8c87f27d59`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-001&card_id=UG-001&version=8c87f27d59)　（版 `8c87f27d59`）
 
 ### UG-002　下書き（出典の照合前）
 
@@ -23,7 +23,7 @@
 - 条件：region: US
 - よくある誤解：GBSは特異度が高いので入院適応の判定に強い
 - 出典：ACG 2021　[DOI 10.14309/ajg.0000000000001245](https://doi.org/10.14309/ajg.0000000000001245)（区分 RESTRICTED）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-002&card_id=UG-002&version=120d843c46)　（版 `120d843c46`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-002&card_id=UG-002&version=120d843c46)　（版 `120d843c46`）
 
 ### UG-003　下書き（出典の照合前）
 
@@ -34,7 +34,7 @@
 - よくある誤解：Hb 10 g/dLを保つように輸血するほど予後が良い
 - 不確実性：心血管疾患合併例の具体的な閾値（8 g/dL等）は要確認
 - 出典：ACG 2021　[DOI 10.14309/ajg.0000000000001245](https://doi.org/10.14309/ajg.0000000000001245)（区分 RESTRICTED）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-003&card_id=UG-003&version=bffa9671c8)　（版 `bffa9671c8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-003&card_id=UG-003&version=bffa9671c8)　（版 `bffa9671c8`）
 
 ### UG-004　下書き（出典の照合前）
 
@@ -43,7 +43,7 @@
 - 条件：region: EU(Spain, Hospital de Sant Pau, Barcelona)
 - 不確実性：PMIDはPubMedの検索結果で確認。DOIは要確認｜［取り込み時］DOIは原本で「要確認」のためnull
 - 出典：Villanueva C et al. N Engl J Med 2013;368(1):11-21（ACG 2021が引用）　[PMID 23281973](https://pubmed.ncbi.nlm.nih.gov/23281973/)（区分 RESTRICTED）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-004&card_id=UG-004&version=4c0d56583a)　（版 `4c0d56583a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-004&card_id=UG-004&version=4c0d56583a)　（版 `4c0d56583a`）
 
 ### UG-005　下書き（出典の照合前）
 
@@ -51,7 +51,7 @@
 
 - 条件：region: global
 - 出典：ACG 2021　[DOI 10.14309/ajg.0000000000001245](https://doi.org/10.14309/ajg.0000000000001245)（区分 RESTRICTED）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-005&card_id=UG-005&version=fcae53f697)　（版 `fcae53f697`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-005&card_id=UG-005&version=fcae53f697)　（版 `fcae53f697`）
 
 ### UG-006　下書き（出典の照合前）
 
@@ -61,7 +61,7 @@
 - 鑑別・補足：ESGEは12時間以内の緊急内視鏡を、転帰が改善しないとして推奨していない
 - よくある誤解：来院後できるだけ早く（蘇生前でも）内視鏡を行うべき
 - 出典：JGES NVUGIB GL 第2版（強い推奨）、ESGE 2021、ACG 2021　[DOI 10.1111/den.15019; 10.1055/a-1369-5274](https://doi.org/10.1111/den.15019; 10.1055/a-1369-5274)（区分 RESTRICTED）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-006&card_id=UG-006&version=5ca1c8ee1a)　（版 `5ca1c8ee1a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-006&card_id=UG-006&version=5ca1c8ee1a)　（版 `5ca1c8ee1a`）
 
 ### UG-007　下書き（出典の照合前）
 
@@ -70,7 +70,7 @@
 - 条件：region: JP／guideline: JGES第2版（弱い推奨, エビデンスC）／also: ESGE 2021（強く非推奨）
 - よくある誤解：胃管吸引で血液がなければ上部出血は否定できる
 - 出典：JGES NVUGIB GL 第2版　[DOI 10.1111/den.15019](https://doi.org/10.1111/den.15019)（区分 RESTRICTED）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-007&card_id=UG-007&version=9b9d02c5e6)　（版 `9b9d02c5e6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-007&card_id=UG-007&version=9b9d02c5e6)　（版 `9b9d02c5e6`）
 
 ### UG-008　下書き（出典の照合前）
 
@@ -80,7 +80,7 @@
 - 鑑別・補足：ESGE 2026は、エリスロマイシンが使えない場合にメトクロプラミドの静注を提案
 - 不確実性：日本での保険適用外使用である点を要確認
 - 出典：ESGE 2015/2021、ESGE 2026　[DOI 10.1055/s-0034-1393172; 10.1055/a-2863-8314](https://doi.org/10.1055/s-0034-1393172; 10.1055/a-2863-8314)（区分 UNKNOWN）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-008&card_id=UG-008&version=a64e63cc56)　（版 `a64e63cc56`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-008&card_id=UG-008&version=a64e63cc56)　（版 `a64e63cc56`）
 
 ### UG-009　下書き（出典の照合前）
 
@@ -90,7 +90,7 @@
 - 鑑別・補足：IIb（凝血塊付着）：ESGEは凝血塊除去を考慮、ACGは推奨なし
 - よくある誤解：黒色の平坦な色素斑（IIc）にもクリップが必要
 - 出典：ESGE 2015 (10.1055/s-0034-1393172)、ACG 2021（区分 RESTRICTED）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-009&card_id=UG-009&version=42ebc5558e)　（版 `42ebc5558e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-009&card_id=UG-009&version=42ebc5558e)　（版 `42ebc5558e`）
 
 ### UG-010　下書き（出典の照合前）
 
@@ -99,9 +99,9 @@
 - 条件：region: EU／guideline: ESGE 2026 推奨7
 - 鑑別・補足：ソフト凝固を用いた止血鉗子の単独療法も選択肢（推奨10）／止血剤（パウダー等）の単独での一次使用は提案しない（推奨11）
 - 出典：ESGE 2026（PubMed抄録 PMID 42127996）　[DOI 10.1055/a-2863-8314](https://doi.org/10.1055/a-2863-8314)（区分 UNKNOWN）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-010&card_id=UG-010&version=d7ba353271)　（版 `d7ba353271`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-010&card_id=UG-010&version=d7ba353271)　（版 `d7ba353271`）
 
-**[ここまでの 10 件（UG-001〜UG-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UG-001%E3%80%9CUG-010&cards=UG-001%208c87f27d59%0AUG-002%20120d843c46%0AUG-003%20bffa9671c8%0AUG-004%204c0d56583a%0AUG-005%20fcae53f697%0AUG-006%205ca1c8ee1a%0AUG-007%209b9d02c5e6%0AUG-008%20a64e63cc56%0AUG-009%2042ebc5558e%0AUG-010%20d7ba353271)**
+**[ここまでの 10 件（UG-001〜UG-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UG-001%E3%80%9CUG-010&cards=UG-001%208c87f27d59%0AUG-002%20120d843c46%0AUG-003%20bffa9671c8%0AUG-004%204c0d56583a%0AUG-005%20fcae53f697%0AUG-006%205ca1c8ee1a%0AUG-007%209b9d02c5e6%0AUG-008%20a64e63cc56%0AUG-009%2042ebc5558e%0AUG-010%20d7ba353271)**
 
 ---
 
@@ -112,7 +112,7 @@
 - 条件：region: global
 - 不確実性：今回取得した資料では文言を確認できていない。要確認
 - 出典：ESGE 2021／ACG 2021（区分 RESTRICTED）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-011&card_id=UG-011&version=4bc44783c6)　（版 `4bc44783c6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-011&card_id=UG-011&version=4bc44783c6)　（版 `4bc44783c6`）
 
 ### UG-012　下書き（出典の照合前）
 
@@ -120,7 +120,7 @@
 
 - 条件：region: JP／guideline: JSGE 2026 CQ-1（強い推奨, A）
 - 出典：JSGE PUD GL 2026　[DOI 10.1007/s00535-026-02504-3](https://doi.org/10.1007/s00535-026-02504-3)（区分 OPEN）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-012&card_id=UG-012&version=a23e10b36d)　（版 `a23e10b36d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-012&card_id=UG-012&version=a23e10b36d)　（版 `a23e10b36d`）
 
 ### UG-013　下書き（出典の照合前）
 
@@ -130,7 +130,7 @@
 - 鑑別・補足：ESGE 2026は止血後のP-CABルーチン使用について合意に至らなかった（推奨15）
 - よくある誤解：止血後のVPZはPPIより再出血を明確に減らす
 - 出典：Geeratragool T et al. Gastroenterology 2024;167:778-87（JSGE 2026経由）　[DOI 10.1007/s00535-026-02504-3（引用元）](https://doi.org/10.1007/s00535-026-02504-3（引用元）)（区分 OPEN）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-013&card_id=UG-013&version=fee224bffd)　（版 `fee224bffd`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-013&card_id=UG-013&version=fee224bffd)　（版 `fee224bffd`）
 
 ### UG-014　下書き（出典の照合前）
 
@@ -139,7 +139,7 @@
 - 条件：region: US／guideline: ACG 2021
 - 不確実性：原文の推奨強度は要確認
 - 出典：ACG 2021（Emory大学の要約資料経由）　[DOI 10.14309/ajg.0000000000001245](https://doi.org/10.14309/ajg.0000000000001245)（区分 RESTRICTED）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-014&card_id=UG-014&version=c57eebf4db)　（版 `c57eebf4db`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-014&card_id=UG-014&version=c57eebf4db)　（版 `c57eebf4db`）
 
 ### UG-015　下書き（出典の照合前）
 
@@ -148,7 +148,7 @@
 - 条件：region: EU／guideline: 推奨16
 - よくある誤解：再出血したらすぐに外科手術
 - 出典：ESGE 2026　[DOI 10.1055/a-2863-8314](https://doi.org/10.1055/a-2863-8314)（区分 UNKNOWN）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-015&card_id=UG-015&version=289dadb7ae)　（版 `289dadb7ae`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-015&card_id=UG-015&version=289dadb7ae)　（版 `289dadb7ae`）
 
 ### UG-016　下書き（出典の照合前）
 
@@ -159,7 +159,7 @@
 - よくある誤解：潰瘍出血後は抗血小板薬を数週間中止するのが安全
 - 不確実性：最新版での再開時期（即時／3日以内等）は要確認
 - 出典：ESGE 2015　[DOI 10.1055/s-0034-1393172](https://doi.org/10.1055/s-0034-1393172)（区分 UNKNOWN）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-016&card_id=UG-016&version=665edd90a0)　（版 `665edd90a0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-016&card_id=UG-016&version=665edd90a0)　（版 `665edd90a0`）
 
 ### UG-017　下書き（出典の照合前）
 
@@ -168,7 +168,7 @@
 - 条件：region: EU／guideline: ESGE 2026 推奨17
 - 鑑別・補足：ワルファリン服用中の重篤出血ではFFPよりPCCが優先されるとの記載あり（二次文献、要確認）
 - 出典：ESGE 2026　[DOI 10.1055/a-2863-8314](https://doi.org/10.1055/a-2863-8314)（区分 UNKNOWN）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-017&card_id=UG-017&version=e839345def)　（版 `e839345def`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-017&card_id=UG-017&version=e839345def)　（版 `e839345def`）
 
 ### UG-018　下書き（出典の照合前）
 
@@ -176,9 +176,9 @@
 
 - 条件：region: EU／guideline: ESGE 2026 推奨18・19
 - 出典：ESGE 2026　[DOI 10.1055/a-2863-8314](https://doi.org/10.1055/a-2863-8314)（区分 UNKNOWN）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-018&card_id=UG-018&version=48e96effb0)　（版 `48e96effb0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-018&card_id=UG-018&version=48e96effb0)　（版 `48e96effb0`）
 
-**[ここまでの 8 件（UG-011〜UG-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UG-011%E3%80%9CUG-018&cards=UG-011%204bc44783c6%0AUG-012%20a23e10b36d%0AUG-013%20fee224bffd%0AUG-014%20c57eebf4db%0AUG-015%20289dadb7ae%0AUG-016%20665edd90a0%0AUG-017%20e839345def%0AUG-018%2048e96effb0)**
+**[ここまでの 8 件（UG-011〜UG-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UG-011%E3%80%9CUG-018&cards=UG-011%204bc44783c6%0AUG-012%20a23e10b36d%0AUG-013%20fee224bffd%0AUG-014%20c57eebf4db%0AUG-015%20289dadb7ae%0AUG-016%20665edd90a0%0AUG-017%20e839345def%0AUG-018%2048e96effb0)**
 
 ---
 

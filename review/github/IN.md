@@ -16,7 +16,7 @@
 - 不確実性：GLの「22万人以上・7万人以上」は医療受給者証の交付数にもとづく値。難病情報センターの令和5年度の受給者証所持者数（IN-011：146,702人、IN-014：52,108人）とは集計の時点・基準が異なる
 - 出典：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526　[DOI 10.1007/s00535-021-01784-1](https://doi.org/10.1007/s00535-021-01784-1)　[PMID 33885977](https://pubmed.ncbi.nlm.nih.gov/33885977/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）；医学各論 Ⅵ-3-B-④（Crohn病、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-273 (id: Jlvnl3w)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-001&card_id=IN-001&version=4df3399cff)　（版 `4df3399cff`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-001&card_id=IN-001&version=4df3399cff)　（版 `4df3399cff`）
 
 ### IN-002　出典照合済み・監修待ち
 
@@ -27,7 +27,7 @@
 - よくある誤解：IBDは中高年の病気である
 - 出典：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526　[DOI 10.1007/s00535-021-01784-1](https://doi.org/10.1007/s00535-021-01784-1)　[PMID 33885977](https://pubmed.ncbi.nlm.nih.gov/33885977/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）；医学各論 Ⅵ-3-B-④（Crohn病、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-273 (id: Jlvnl3w)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-002&card_id=IN-002&version=2892a3c807)　（版 `2892a3c807`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-002&card_id=IN-002&version=2892a3c807)　（版 `2892a3c807`）
 
 ### IN-003　出典照合済み・監修待ち
 
@@ -37,7 +37,7 @@
 - よくある誤解：左側大腸炎型は下行結腸より口側まで及ぶものを含む
 - 出典：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526　[DOI 10.1007/s00535-021-01784-1](https://doi.org/10.1007/s00535-021-01784-1)　[PMID 33885977](https://pubmed.ncbi.nlm.nih.gov/33885977/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-003&card_id=IN-003&version=573ff6f289)　（版 `573ff6f289`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-003&card_id=IN-003&version=573ff6f289)　（版 `573ff6f289`）
 
 ### IN-004　出典照合済み・監修待ち
 
@@ -49,7 +49,7 @@
 - 不確実性：low（部分Mayoスコアの構成項目と区分をGL本文で照合）
 - 出典：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526　[DOI 10.1007/s00535-021-01784-1](https://doi.org/10.1007/s00535-021-01784-1)　[PMID 33885977](https://pubmed.ncbi.nlm.nih.gov/33885977/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-004&card_id=IN-004&version=4a9ee5f48e)　（版 `4a9ee5f48e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-004&card_id=IN-004&version=4a9ee5f48e)　（版 `4a9ee5f48e`）
 
 ### IN-005　出典照合済み・監修待ち
 
@@ -59,7 +59,7 @@
 - よくある誤解：クローン病は大腸だけに起こる
 - 出典：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526　[DOI 10.1007/s00535-021-01784-1](https://doi.org/10.1007/s00535-021-01784-1)　[PMID 33885977](https://pubmed.ncbi.nlm.nih.gov/33885977/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-B-④（Crohn病、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-005&card_id=IN-005&version=9f557c798b)　（版 `9f557c798b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-005&card_id=IN-005&version=9f557c798b)　（版 `9f557c798b`）
 
 ### IN-006　出典照合済み・監修待ち
 
@@ -70,7 +70,7 @@
 - よくある誤解：喫煙はUCとCDの両方を悪化させる
 - 出典：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526　[DOI 10.1007/s00535-021-01784-1](https://doi.org/10.1007/s00535-021-01784-1)　[PMID 33885977](https://pubmed.ncbi.nlm.nih.gov/33885977/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）；医学各論 Ⅵ-3-B-④（Crohn病、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-273 (id: Jlvnl3w)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-006&card_id=IN-006&version=9d080c97d5)　（版 `9d080c97d5`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-006&card_id=IN-006&version=9d080c97d5)　（版 `9d080c97d5`）
 
 ### IN-007　出典照合済み・監修待ち
 
@@ -82,7 +82,7 @@
 - 不確実性：製剤によって高用量の上乗せ効果の報告は一致していない（GL本文の解説）
 - 出典：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526　[DOI 10.1007/s00535-021-01784-1](https://doi.org/10.1007/s00535-021-01784-1)　[PMID 33885977](https://pubmed.ncbi.nlm.nih.gov/33885977/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-007&card_id=IN-007&version=2cf5247687)　（版 `2cf5247687`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-007&card_id=IN-007&version=2cf5247687)　（版 `2cf5247687`）
 
 ### IN-008　出典照合済み・監修待ち
 
@@ -93,7 +93,7 @@
 - よくある誤解：5-ASAには発癌予防効果がない
 - 出典：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526　[DOI 10.1007/s00535-021-01784-1](https://doi.org/10.1007/s00535-021-01784-1)　[PMID 33885977](https://pubmed.ncbi.nlm.nih.gov/33885977/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-650 (id: Jlvnmc0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-008&card_id=IN-008&version=239b059d34)　（版 `239b059d34`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-008&card_id=IN-008&version=239b059d34)　（版 `239b059d34`）
 
 ### IN-009　出典照合済み・監修待ち
 
@@ -105,7 +105,7 @@
 - 不確実性：診断率と滞留率はGLが引用した値（二次資料経由）で、原著は未照合
 - 出典：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526　[DOI 10.1007/s00535-021-01784-1](https://doi.org/10.1007/s00535-021-01784-1)　[PMID 33885977](https://pubmed.ncbi.nlm.nih.gov/33885977/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-B-④（Crohn病、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-009&card_id=IN-009&version=15d46a355c)　（版 `15d46a355c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-009&card_id=IN-009&version=15d46a355c)　（版 `15d46a355c`）
 
 ### IN-010　出典照合済み・監修待ち
 
@@ -116,9 +116,9 @@
 - よくある誤解：小腸病変の評価は小腸造影X線だけで十分
 - 出典：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526　[DOI 10.1007/s00535-021-01784-1](https://doi.org/10.1007/s00535-021-01784-1)　[PMID 33885977](https://pubmed.ncbi.nlm.nih.gov/33885977/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-B-④（Crohn病、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-010&card_id=IN-010&version=f51fba55f5)　（版 `f51fba55f5`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-010&card_id=IN-010&version=f51fba55f5)　（版 `f51fba55f5`）
 
-**[ここまでの 10 件（IN-001〜IN-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-001%E3%80%9CIN-010&cards=IN-001%204df3399cff%0AIN-002%202892a3c807%0AIN-003%20573ff6f289%0AIN-004%204a9ee5f48e%0AIN-005%209f557c798b%0AIN-006%209d080c97d5%0AIN-007%202cf5247687%0AIN-008%20239b059d34%0AIN-009%2015d46a355c%0AIN-010%20f51fba55f5)**
+**[ここまでの 10 件（IN-001〜IN-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-001%E3%80%9CIN-010&cards=IN-001%204df3399cff%0AIN-002%202892a3c807%0AIN-003%20573ff6f289%0AIN-004%204a9ee5f48e%0AIN-005%209f557c798b%0AIN-006%209d080c97d5%0AIN-007%202cf5247687%0AIN-008%20239b059d34%0AIN-009%2015d46a355c%0AIN-010%20f51fba55f5)**
 
 ---
 
@@ -132,7 +132,7 @@
 - 不確実性：出典の利用規約が未確認（source_class: UNKNOWN）
 - 出典：難病情報センター『潰瘍性大腸炎（指定難病97）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/62)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-011&card_id=IN-011&version=c1e3d21c43)　（版 `c1e3d21c43`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-011&card_id=IN-011&version=c1e3d21c43)　（版 `c1e3d21c43`）
 
 ### IN-012　出典照合済み・監修待ち
 
@@ -142,7 +142,7 @@
 - よくある誤解：寛解していればサーベイランス内視鏡は不要
 - 出典：難病情報センター『潰瘍性大腸炎（指定難病97）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/62)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-012&card_id=IN-012&version=1b56620327)　（版 `1b56620327`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-012&card_id=IN-012&version=1b56620327)　（版 `1b56620327`）
 
 ### IN-013　出典照合済み・監修待ち
 
@@ -152,7 +152,7 @@
 - よくある誤解：潰瘍性大腸炎の手術は人工肛門が必須である
 - 出典：難病情報センター『潰瘍性大腸炎（指定難病97）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/62)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-013&card_id=IN-013&version=56f19fe9ec)　（版 `56f19fe9ec`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-013&card_id=IN-013&version=56f19fe9ec)　（版 `56f19fe9ec`）
 
 ### IN-014　出典照合済み・監修待ち
 
@@ -164,7 +164,7 @@
 - 不確実性：出典の利用規約が未確認（source_class: UNKNOWN）
 - 出典：難病情報センター『クローン病（指定難病96）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/81)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-3-B-④（Crohn病、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-014&card_id=IN-014&version=94f5a56ab4)　（版 `94f5a56ab4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-014&card_id=IN-014&version=94f5a56ab4)　（版 `94f5a56ab4`）
 
 ### IN-015　出典照合済み・監修待ち
 
@@ -174,7 +174,7 @@
 - よくある誤解：クローン病の合併症は腸管内に限られる
 - 出典：難病情報センター『クローン病（指定難病96）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/81)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-3-B-④（Crohn病、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-015&card_id=IN-015&version=a502daed59)　（版 `a502daed59`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-015&card_id=IN-015&version=a502daed59)　（版 `a502daed59`）
 
 ### IN-016　出典照合済み・監修待ち
 
@@ -185,9 +185,9 @@
 - よくある誤解：栄養療法は補助的で治療効果はない
 - 出典：難病情報センター『クローン病（指定難病96）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/81)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-3-B-④（Crohn病、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)；TBL-02-07-032 (id: JlAKplM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-016&card_id=IN-016&version=58a01589bd)　（版 `58a01589bd`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-016&card_id=IN-016&version=58a01589bd)　（版 `58a01589bd`）
 
-**[ここまでの 6 件（IN-011〜IN-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-011%E3%80%9CIN-016&cards=IN-011%20c1e3d21c43%0AIN-012%201b56620327%0AIN-013%2056f19fe9ec%0AIN-014%2094f5a56ab4%0AIN-015%20a502daed59%0AIN-016%2058a01589bd)**
+**[ここまでの 6 件（IN-011〜IN-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-011%E3%80%9CIN-016&cards=IN-011%20c1e3d21c43%0AIN-012%201b56620327%0AIN-013%2056f19fe9ec%0AIN-014%2094f5a56ab4%0AIN-015%20a502daed59%0AIN-016%2058a01589bd)**
 
 ---
 
@@ -203,7 +203,7 @@
 - 不確実性：GLが引用した国際調査の値（二次資料経由）で、原著は未照合
 - 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)　[PMID 33538894](https://pubmed.ncbi.nlm.nih.gov/33538894/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-017&card_id=IN-017&version=91ffe62d8d)　（版 `91ffe62d8d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-017&card_id=IN-017&version=91ffe62d8d)　（版 `91ffe62d8d`）
 
 ### IN-018　出典照合済み・監修待ち
 
@@ -214,7 +214,7 @@
 - 不確実性：数値はGLが引用した値（二次資料経由）
 - 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)　[PMID 33538894](https://pubmed.ncbi.nlm.nih.gov/33538894/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-018&card_id=IN-018&version=f428454861)　（版 `f428454861`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-018&card_id=IN-018&version=f428454861)　（版 `f428454861`）
 
 ### IN-019　出典照合済み・監修待ち
 
@@ -225,7 +225,7 @@
 - 不確実性：数値はGLが引用した値（二次資料経由）
 - 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)　[PMID 33538894](https://pubmed.ncbi.nlm.nih.gov/33538894/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-270 (id: Jlvnl4s)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-019&card_id=IN-019&version=d9ce403bbd)　（版 `d9ce403bbd`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-019&card_id=IN-019&version=d9ce403bbd)　（版 `d9ce403bbd`）
 
 ### IN-020　出典照合済み・監修待ち
 
@@ -236,7 +236,7 @@
 - 不確実性：追跡研究の数値はGLが引用した値（二次資料経由）
 - 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)　[PMID 33538894](https://pubmed.ncbi.nlm.nih.gov/33538894/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-021 (id: JlAKpkY)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-020&card_id=IN-020&version=3977a681ae)　（版 `3977a681ae`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-020&card_id=IN-020&version=3977a681ae)　（版 `3977a681ae`）
 
 ### IN-021　出典照合済み・監修待ち
 
@@ -248,7 +248,7 @@
 - 不確実性：GL解説が引用する器質的病変の頻度（30.3%）は、対象と定義を原著で確認していないため主張文に入れていない
 - 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)　[PMID 33538894](https://pubmed.ncbi.nlm.nih.gov/33538894/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-021&card_id=IN-021&version=33ef51ce1f)　（版 `33ef51ce1f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-021&card_id=IN-021&version=33ef51ce1f)　（版 `33ef51ce1f`）
 
 ### IN-022　出典照合済み・監修待ち
 
@@ -259,7 +259,7 @@
 - 不確実性：頻度はGLが引用した値（二次資料経由）
 - 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)　[PMID 33538894](https://pubmed.ncbi.nlm.nih.gov/33538894/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-022&card_id=IN-022&version=aeb895f440)　（版 `aeb895f440`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-022&card_id=IN-022&version=aeb895f440)　（版 `aeb895f440`）
 
 ### IN-023　出典照合済み・監修待ち
 
@@ -270,7 +270,7 @@
 - よくある誤解：低FODMAP食は日本でも第一選択として確立している
 - 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)　[PMID 33538894](https://pubmed.ncbi.nlm.nih.gov/33538894/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-023&card_id=IN-023&version=96c222a656)　（版 `96c222a656`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-023&card_id=IN-023&version=96c222a656)　（版 `96c222a656`）
 
 ### IN-024　出典照合済み・監修待ち
 
@@ -280,7 +280,7 @@
 - よくある誤解：禁酒・禁煙でIBSは改善することが示されている
 - 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)　[PMID 33538894](https://pubmed.ncbi.nlm.nih.gov/33538894/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-024&card_id=IN-024&version=b56473267c)　（版 `b56473267c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-024&card_id=IN-024&version=b56473267c)　（版 `b56473267c`）
 
 ### IN-025　出典照合済み・監修待ち
 
@@ -292,7 +292,7 @@
 - 不確実性：水溶性と不溶性の区別についての記載は、GL本文で一文ずつは照合していない
 - 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)　[PMID 33538894](https://pubmed.ncbi.nlm.nih.gov/33538894/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-025&card_id=IN-025&version=25e26e2d78)　（版 `25e26e2d78`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-025&card_id=IN-025&version=25e26e2d78)　（版 `25e26e2d78`）
 
 ### IN-026　出典照合済み・監修待ち
 
@@ -302,9 +302,9 @@
 - よくある誤解：消化管運動調節薬はIBSの第一選択として強く推奨されている
 - 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)　[PMID 33538894](https://pubmed.ncbi.nlm.nih.gov/33538894/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-026&card_id=IN-026&version=5a42fa34ff)　（版 `5a42fa34ff`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-026&card_id=IN-026&version=5a42fa34ff)　（版 `5a42fa34ff`）
 
-**[ここまでの 10 件（IN-017〜IN-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-017%E3%80%9CIN-026&cards=IN-017%2091ffe62d8d%0AIN-018%20f428454861%0AIN-019%20d9ce403bbd%0AIN-020%203977a681ae%0AIN-021%2033ef51ce1f%0AIN-022%20aeb895f440%0AIN-023%2096c222a656%0AIN-024%20b56473267c%0AIN-025%2025e26e2d78%0AIN-026%205a42fa34ff)**
+**[ここまでの 10 件（IN-017〜IN-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-017%E3%80%9CIN-026&cards=IN-017%2091ffe62d8d%0AIN-018%20f428454861%0AIN-019%20d9ce403bbd%0AIN-020%203977a681ae%0AIN-021%2033ef51ce1f%0AIN-022%20aeb895f440%0AIN-023%2096c222a656%0AIN-024%20b56473267c%0AIN-025%2025e26e2d78%0AIN-026%205a42fa34ff)**
 
 ---
 
@@ -319,7 +319,7 @@
 - よくある誤解：排便回数が少なければそれだけで便秘症である
 - 出典：Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89　[DOI 10.1159/000540912](https://doi.org/10.1159/000540912)　[PMID 39159626](https://pubmed.ncbi.nlm.nih.gov/39159626/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-3-A-①（便秘症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-027&card_id=IN-027&version=d70d29d992)　（版 `d70d29d992`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-027&card_id=IN-027&version=d70d29d992)　（版 `d70d29d992`）
 
 ### IN-028　出典照合済み・監修待ち
 
@@ -330,7 +330,7 @@
 - よくある誤解：慢性便秘症の診断には大腸通過時間検査が必須
 - 出典：Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89　[DOI 10.1159/000540912](https://doi.org/10.1159/000540912)　[PMID 39159626](https://pubmed.ncbi.nlm.nih.gov/39159626/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-3-A-①（便秘症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-028&card_id=IN-028&version=85919a060c)　（版 `85919a060c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-028&card_id=IN-028&version=85919a060c)　（版 `85919a060c`）
 
 ### IN-029　出典照合済み・監修待ち
 
@@ -342,7 +342,7 @@
 - 不確実性：数値はGLが引用した調査の値（二次資料経由）で、原著は未照合
 - 出典：Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89　[DOI 10.1159/000540912](https://doi.org/10.1159/000540912)　[PMID 39159626](https://pubmed.ncbi.nlm.nih.gov/39159626/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-3-A-①（便秘症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-029&card_id=IN-029&version=48082b1584)　（版 `48082b1584`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-029&card_id=IN-029&version=48082b1584)　（版 `48082b1584`）
 
 ### IN-030　出典照合済み・監修待ち
 
@@ -353,7 +353,7 @@
 - よくある誤解：便秘はすべて大腸の動きが悪いことが原因
 - 出典：Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89　[DOI 10.1159/000540912](https://doi.org/10.1159/000540912)　[PMID 39159626](https://pubmed.ncbi.nlm.nih.gov/39159626/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-3-A-①（便秘症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-030&card_id=IN-030&version=82ab18e89f)　（版 `82ab18e89f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-030&card_id=IN-030&version=82ab18e89f)　（版 `82ab18e89f`）
 
 ### IN-031　出典照合済み・監修待ち
 
@@ -364,7 +364,7 @@
 - よくある誤解：便秘の原因に薬剤は少ない
 - 出典：Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89　[DOI 10.1159/000540912](https://doi.org/10.1159/000540912)　[PMID 39159626](https://pubmed.ncbi.nlm.nih.gov/39159626/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-3-A-①（便秘症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-031&card_id=IN-031&version=75f291d4b6)　（版 `75f291d4b6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-031&card_id=IN-031&version=75f291d4b6)　（版 `75f291d4b6`）
 
 ### IN-032　出典照合済み・監修待ち
 
@@ -375,7 +375,7 @@
 - よくある誤解：便秘は消化管の病気だけで起こる
 - 出典：Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89　[DOI 10.1159/000540912](https://doi.org/10.1159/000540912)　[PMID 39159626](https://pubmed.ncbi.nlm.nih.gov/39159626/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-3-A-①（便秘症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-032&card_id=IN-032&version=bad9d122e9)　（版 `bad9d122e9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-032&card_id=IN-032&version=bad9d122e9)　（版 `bad9d122e9`）
 
 ### IN-033　出典照合済み・監修待ち
 
@@ -386,7 +386,7 @@
 - よくある誤解：便秘の病態は大腸の運動低下に限られる
 - 出典：Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89　[DOI 10.1159/000540912](https://doi.org/10.1159/000540912)　[PMID 39159626](https://pubmed.ncbi.nlm.nih.gov/39159626/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-3-A-①（便秘症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-033&card_id=IN-033&version=a2a2b834ac)　（版 `a2a2b834ac`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-033&card_id=IN-033&version=a2a2b834ac)　（版 `a2a2b834ac`）
 
 ### IN-034　出典照合済み・監修待ち
 
@@ -398,7 +398,7 @@
 - 不確実性：各薬剤の推奨の強さとエビデンスレベルは今回は取得できていない
 - 出典：Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89　[DOI 10.1159/000540912](https://doi.org/10.1159/000540912)　[PMID 39159626](https://pubmed.ncbi.nlm.nih.gov/39159626/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-3-A-①（便秘症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-034&card_id=IN-034&version=ae26036ed4)　（版 `ae26036ed4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-034&card_id=IN-034&version=ae26036ed4)　（版 `ae26036ed4`）
 
 ### IN-035　出典照合済み・監修待ち
 
@@ -410,9 +410,9 @@
 - 不確実性：承認状況はGL作成時点。最新の添付文書で確認が必要
 - 出典：Ihara E, et al. Evidence-Based Clinical Guidelines for Chronic Constipation 2023. Digestion 2025;106:62-89　[DOI 10.1159/000540912](https://doi.org/10.1159/000540912)　[PMID 39159626](https://pubmed.ncbi.nlm.nih.gov/39159626/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-3-A-①（便秘症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-035&card_id=IN-035&version=7d465626b2)　（版 `7d465626b2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-035&card_id=IN-035&version=7d465626b2)　（版 `7d465626b2`）
 
-**[ここまでの 9 件（IN-027〜IN-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-027%E3%80%9CIN-035&cards=IN-027%20d70d29d992%0AIN-028%2085919a060c%0AIN-029%2048082b1584%0AIN-030%2082ab18e89f%0AIN-031%2075f291d4b6%0AIN-032%20bad9d122e9%0AIN-033%20a2a2b834ac%0AIN-034%20ae26036ed4%0AIN-035%207d465626b2)**
+**[ここまでの 9 件（IN-027〜IN-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-027%E3%80%9CIN-035&cards=IN-027%20d70d29d992%0AIN-028%2085919a060c%0AIN-029%2048082b1584%0AIN-030%2082ab18e89f%0AIN-031%2075f291d4b6%0AIN-032%20bad9d122e9%0AIN-033%20a2a2b834ac%0AIN-034%20ae26036ed4%0AIN-035%207d465626b2)**
 
 ---
 
@@ -427,7 +427,7 @@
 - よくある誤解：5 mm以下の病変はすべて放置してよい
 - 出典：Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335　[DOI 10.1007/s00535-021-01776-1](https://doi.org/10.1007/s00535-021-01776-1)　[PMID 33710392](https://pubmed.ncbi.nlm.nih.gov/33710392/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-C-①（大腸ポリープ、大腸腺腫、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-036&card_id=IN-036&version=1a2e94a87d)　（版 `1a2e94a87d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-036&card_id=IN-036&version=1a2e94a87d)　（版 `1a2e94a87d`）
 
 ### IN-037　出典照合済み・監修待ち
 
@@ -438,7 +438,7 @@
 - よくある誤解：コールドスネアは癌が疑われる病変にも使える
 - 出典：Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335　[DOI 10.1007/s00535-021-01776-1](https://doi.org/10.1007/s00535-021-01776-1)　[PMID 33710392](https://pubmed.ncbi.nlm.nih.gov/33710392/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-C-①（大腸ポリープ、大腸腺腫、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-037&card_id=IN-037&version=7494443f42)　（版 `7494443f42`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-037&card_id=IN-037&version=7494443f42)　（版 `7494443f42`）
 
 ### IN-038　出典照合済み・監修待ち
 
@@ -449,7 +449,7 @@
 - よくある誤解：過形成性ポリープはすべて切除が必要
 - 出典：Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335　[DOI 10.1007/s00535-021-01776-1](https://doi.org/10.1007/s00535-021-01776-1)　[PMID 33710392](https://pubmed.ncbi.nlm.nih.gov/33710392/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-C-①（大腸ポリープ、大腸腺腫、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-038&card_id=IN-038&version=51ec6ddd67)　（版 `51ec6ddd67`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-038&card_id=IN-038&version=51ec6ddd67)　（版 `51ec6ddd67`）
 
 ### IN-039　出典照合済み・監修待ち
 
@@ -461,7 +461,7 @@
 - 不確実性：SSA/Pの癌化率（1.5〜20%）はGLが引用した幅の広い値（二次資料経由）のため主張文に入れていない。WHO分類第5版の名称（SSL）との対応も確認が必要
 - 出典：Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335　[DOI 10.1007/s00535-021-01776-1](https://doi.org/10.1007/s00535-021-01776-1)　[PMID 33710392](https://pubmed.ncbi.nlm.nih.gov/33710392/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-C-①（大腸ポリープ、大腸腺腫、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-039&card_id=IN-039&version=54e3235cf1)　（版 `54e3235cf1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-039&card_id=IN-039&version=54e3235cf1)　（版 `54e3235cf1`）
 
 ### IN-040　出典照合済み・監修待ち
 
@@ -472,7 +472,7 @@
 - よくある誤解：LSTはすべてESDで切除しなければならない
 - 出典：Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335　[DOI 10.1007/s00535-021-01776-1](https://doi.org/10.1007/s00535-021-01776-1)　[PMID 33710392](https://pubmed.ncbi.nlm.nih.gov/33710392/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-C-①（大腸ポリープ、大腸腺腫、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-040&card_id=IN-040&version=2aba7fe69a)　（版 `2aba7fe69a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-040&card_id=IN-040&version=2aba7fe69a)　（版 `2aba7fe69a`）
 
 ### IN-041　出典照合済み・監修待ち
 
@@ -483,7 +483,7 @@
 - よくある誤解：ポリープを切除すれば以後の内視鏡は不要
 - 出典：Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335　[DOI 10.1007/s00535-021-01776-1](https://doi.org/10.1007/s00535-021-01776-1)　[PMID 33710392](https://pubmed.ncbi.nlm.nih.gov/33710392/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-C-①（大腸ポリープ、大腸腺腫、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-041&card_id=IN-041&version=a05012814e)　（版 `a05012814e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-041&card_id=IN-041&version=a05012814e)　（版 `a05012814e`）
 
 ### IN-042　出典照合済み・監修待ち
 
@@ -495,7 +495,7 @@
 - 不確実性：再発率はGLが引用した値（二次資料経由）で、原著は未照合
 - 出典：Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335　[DOI 10.1007/s00535-021-01776-1](https://doi.org/10.1007/s00535-021-01776-1)　[PMID 33710392](https://pubmed.ncbi.nlm.nih.gov/33710392/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-042&card_id=IN-042&version=7033ee2dc0)　（版 `7033ee2dc0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-042&card_id=IN-042&version=7033ee2dc0)　（版 `7033ee2dc0`）
 
 ### IN-043　出典照合済み・監修待ち
 
@@ -507,7 +507,7 @@
 - 不確実性：リンパ節転移率はGLが引用した値（二次資料経由）。GL本文中でG2のKi-67の閾値の記載に不整合がある
 - 出典：Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335　[DOI 10.1007/s00535-021-01776-1](https://doi.org/10.1007/s00535-021-01776-1)　[PMID 33710392](https://pubmed.ncbi.nlm.nih.gov/33710392/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-④（消化管神経内分泌腫瘍、c）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-043&card_id=IN-043&version=59e52cee5c)　（版 `59e52cee5c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-043&card_id=IN-043&version=59e52cee5c)　（版 `59e52cee5c`）
 
 ### IN-044　出典照合済み・監修待ち
 
@@ -518,7 +518,7 @@
 - よくある誤解：非腫瘍性ポリープもすべて切除すべき
 - 出典：Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335　[DOI 10.1007/s00535-021-01776-1](https://doi.org/10.1007/s00535-021-01776-1)　[PMID 33710392](https://pubmed.ncbi.nlm.nih.gov/33710392/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-C-①（大腸ポリープ、大腸腺腫、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-649 (id: Jlvnmcs)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-044&card_id=IN-044&version=676be84db2)　（版 `676be84db2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-044&card_id=IN-044&version=676be84db2)　（版 `676be84db2`）
 
 ### IN-045　出典照合済み・監修待ち
 
@@ -530,9 +530,9 @@
 - 不確実性：AFAP の予防的大腸切除は IN-089 で扱う
 - 出典：Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335　[DOI 10.1007/s00535-021-01776-1](https://doi.org/10.1007/s00535-021-01776-1)　[PMID 33710392](https://pubmed.ncbi.nlm.nih.gov/33710392/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-③（消化管ポリポーシス、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-279 (id: Jlvnl4Q)；TBL-01-00-684 (id: Jlvnmf8)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-045&card_id=IN-045&version=aa07b86c22)　（版 `aa07b86c22`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-045&card_id=IN-045&version=aa07b86c22)　（版 `aa07b86c22`）
 
-**[ここまでの 10 件（IN-036〜IN-045）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-036%E3%80%9CIN-045&cards=IN-036%201a2e94a87d%0AIN-037%207494443f42%0AIN-038%2051ec6ddd67%0AIN-039%2054e3235cf1%0AIN-040%202aba7fe69a%0AIN-041%20a05012814e%0AIN-042%207033ee2dc0%0AIN-043%2059e52cee5c%0AIN-044%20676be84db2%0AIN-045%20aa07b86c22)**
+**[ここまでの 10 件（IN-036〜IN-045）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-036%E3%80%9CIN-045&cards=IN-036%201a2e94a87d%0AIN-037%207494443f42%0AIN-038%2051ec6ddd67%0AIN-039%2054e3235cf1%0AIN-040%202aba7fe69a%0AIN-041%20a05012814e%0AIN-042%207033ee2dc0%0AIN-043%2059e52cee5c%0AIN-044%20676be84db2%0AIN-045%20aa07b86c22)**
 
 ---
 
@@ -546,9 +546,9 @@
 - 不確実性：low（GL本文で照合）
 - 出典：Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335　[DOI 10.1007/s00535-021-01776-1](https://doi.org/10.1007/s00535-021-01776-1)　[PMID 33710392](https://pubmed.ncbi.nlm.nih.gov/33710392/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-③（消化管ポリポーシス、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-279 (id: Jlvnl4Q)；TBL-01-00-684 (id: Jlvnmf8)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-089&card_id=IN-089&version=81cf597018)　（版 `81cf597018`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-089&card_id=IN-089&version=81cf597018)　（版 `81cf597018`）
 
-**[ここまでの 1 件（IN-089）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-089&cards=IN-089%2081cf597018)**
+**[ここまでの 1 件（IN-089）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-089&cards=IN-089%2081cf597018)**
 
 ---
 
@@ -563,7 +563,7 @@
 - よくある誤解：大腸ESDは保険適用外の治療である
 - 出典：Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463　[DOI 10.1007/s10147-025-02899-8](https://doi.org/10.1007/s10147-025-02899-8)　[PMID 41186794](https://pubmed.ncbi.nlm.nih.gov/41186794/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-046&card_id=IN-046&version=a8b9e5a841)　（版 `a8b9e5a841`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-046&card_id=IN-046&version=a8b9e5a841)　（版 `a8b9e5a841`）
 
 ### IN-047　出典照合済み・監修待ち
 
@@ -573,7 +573,7 @@
 - よくある誤解：内視鏡治療後の再発は1年以内に限られる
 - 出典：Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463　[DOI 10.1007/s10147-025-02899-8](https://doi.org/10.1007/s10147-025-02899-8)　[PMID 41186794](https://pubmed.ncbi.nlm.nih.gov/41186794/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-047&card_id=IN-047&version=d36de259b4)　（版 `d36de259b4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-047&card_id=IN-047&version=d36de259b4)　（版 `d36de259b4`）
 
 ### IN-048　出典照合済み・監修待ち
 
@@ -584,7 +584,7 @@
 - よくある誤解：T1大腸癌はリンパ節転移を起こさない
 - 出典：Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463　[DOI 10.1007/s10147-025-02899-8](https://doi.org/10.1007/s10147-025-02899-8)　[PMID 41186794](https://pubmed.ncbi.nlm.nih.gov/41186794/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-048&card_id=IN-048&version=730d9b697a)　（版 `730d9b697a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-048&card_id=IN-048&version=730d9b697a)　（版 `730d9b697a`）
 
 ### IN-049　出典照合済み・監修待ち
 
@@ -595,7 +595,7 @@
 - よくある誤解：側方郭清はすべての直腸癌に行う
 - 出典：Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463　[DOI 10.1007/s10147-025-02899-8](https://doi.org/10.1007/s10147-025-02899-8)　[PMID 41186794](https://pubmed.ncbi.nlm.nih.gov/41186794/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-4-C-①（直腸癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-049&card_id=IN-049&version=a029176bc8)　（版 `a029176bc8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-049&card_id=IN-049&version=a029176bc8)　（版 `a029176bc8`）
 
 ### IN-050　出典照合済み・監修待ち
 
@@ -605,7 +605,7 @@
 - よくある誤解：直腸癌では常に5 cm以上の肛門側切除断端が必要
 - 出典：Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463　[DOI 10.1007/s10147-025-02899-8](https://doi.org/10.1007/s10147-025-02899-8)　[PMID 41186794](https://pubmed.ncbi.nlm.nih.gov/41186794/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-4-C-①（直腸癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-050&card_id=IN-050&version=a980b35d6c)　（版 `a980b35d6c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-050&card_id=IN-050&version=a980b35d6c)　（版 `a980b35d6c`）
 
 ### IN-051　出典照合済み・監修待ち
 
@@ -616,7 +616,7 @@
 - 不確実性：保険適用の範囲は改定で変わりうる
 - 出典：Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463　[DOI 10.1007/s10147-025-02899-8](https://doi.org/10.1007/s10147-025-02899-8)　[PMID 41186794](https://pubmed.ncbi.nlm.nih.gov/41186794/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-051&card_id=IN-051&version=f00e47910d)　（版 `f00e47910d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-051&card_id=IN-051&version=f00e47910d)　（版 `f00e47910d`）
 
 ### IN-052　出典照合済み・監修待ち
 
@@ -627,7 +627,7 @@
 - 不確実性：GLが引用した値（二次資料経由）で、原著は未照合
 - 出典：Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463　[DOI 10.1007/s10147-025-02899-8](https://doi.org/10.1007/s10147-025-02899-8)　[PMID 41186794](https://pubmed.ncbi.nlm.nih.gov/41186794/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-4-C-①（直腸癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-052&card_id=IN-052&version=175a71ff6f)　（版 `175a71ff6f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-052&card_id=IN-052&version=175a71ff6f)　（版 `175a71ff6f`）
 
 ### IN-053　出典照合済み・監修待ち
 
@@ -639,7 +639,7 @@
 - 不確実性：GLが引用した大腸癌研究会の全国登録の値（二次資料経由）
 - 出典：Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463　[DOI 10.1007/s10147-025-02899-8](https://doi.org/10.1007/s10147-025-02899-8)　[PMID 41186794](https://pubmed.ncbi.nlm.nih.gov/41186794/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-053&card_id=IN-053&version=cd11c478da)　（版 `cd11c478da`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-053&card_id=IN-053&version=cd11c478da)　（版 `cd11c478da`）
 
 ### IN-054　出典照合済み・監修待ち
 
@@ -651,7 +651,7 @@
 - 不確実性：ganjoho.jp の利用規約は人間が確認する
 - 出典：国立がん研究センター がん情報サービス 大腸（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）　[リンク](https://ganjoho.jp/reg_stat/statistics/stat/cancer/67_colorectal.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-054&card_id=IN-054&version=30154f48ae)　（版 `30154f48ae`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-054&card_id=IN-054&version=30154f48ae)　（版 `30154f48ae`）
 
 ### IN-055　出典照合済み・監修待ち
 
@@ -663,9 +663,9 @@
 - 不確実性：ganjoho.jp の利用規約は人間が確認する
 - 出典：国立がん研究センター がん情報サービス 大腸（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）　[リンク](https://ganjoho.jp/reg_stat/statistics/stat/cancer/67_colorectal.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-055&card_id=IN-055&version=1257daee42)　（版 `1257daee42`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-055&card_id=IN-055&version=1257daee42)　（版 `1257daee42`）
 
-**[ここまでの 10 件（IN-046〜IN-055）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-046%E3%80%9CIN-055&cards=IN-046%20a8b9e5a841%0AIN-047%20d36de259b4%0AIN-048%20730d9b697a%0AIN-049%20a029176bc8%0AIN-050%20a980b35d6c%0AIN-051%20f00e47910d%0AIN-052%20175a71ff6f%0AIN-053%20cd11c478da%0AIN-054%2030154f48ae%0AIN-055%201257daee42)**
+**[ここまでの 10 件（IN-046〜IN-055）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-046%E3%80%9CIN-055&cards=IN-046%20a8b9e5a841%0AIN-047%20d36de259b4%0AIN-048%20730d9b697a%0AIN-049%20a029176bc8%0AIN-050%20a980b35d6c%0AIN-051%20f00e47910d%0AIN-052%20175a71ff6f%0AIN-053%20cd11c478da%0AIN-054%2030154f48ae%0AIN-055%201257daee42)**
 
 ---
 
@@ -678,7 +678,7 @@
 - よくある誤解：大腸がん検診の基本は全例の大腸内視鏡である
 - 出典：厚生労働省『がん予防重点健康教育及びがん検診実施のための指針』（平成28年2月改正）／厚労省がん検診ページ　[リンク](https://www.gankenshin50.mhlw.go.jp/campaign_2023/screening/index.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-4-C-①（直腸癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-020 (id: JlAKpkk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-056&card_id=IN-056&version=2142efa6bc)　（版 `2142efa6bc`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-056&card_id=IN-056&version=2142efa6bc)　（版 `2142efa6bc`）
 
 ### IN-057　出典照合済み・監修待ち
 
@@ -689,7 +689,7 @@
 - よくある誤解：遺伝性大腸癌は大腸癌の半数を占める
 - 出典：National Cancer Institute. Genetics of Colorectal Cancer (PDQ)–Health Professional Version（最終更新 2025-03-21）　[リンク](https://www.cancer.gov/types/colorectal/hp/colorectal-genetics-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-3-C-②（結腸癌、a）；医学各論 Ⅵ-5-B-③（消化管ポリポーシス、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-686 (id: JlvnmgI)；TBL-01-00-684 (id: Jlvnmf8)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-057&card_id=IN-057&version=a23a808136)　（版 `a23a808136`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-057&card_id=IN-057&version=a23a808136)　（版 `a23a808136`）
 
 ### IN-058　出典照合済み・監修待ち
 
@@ -701,7 +701,7 @@
 - 不確実性：日本での運用（保険適用の範囲など）は別途確認が必要
 - 出典：National Cancer Institute. Genetics of Colorectal Cancer (PDQ)–Health Professional Version（最終更新 2025-03-21）　[リンク](https://www.cancer.gov/types/colorectal/hp/colorectal-genetics-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-3-C-②（結腸癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-686 (id: JlvnmgI)；TBL-01-00-650 (id: Jlvnmc0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-058&card_id=IN-058&version=91bc4c4828)　（版 `91bc4c4828`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-058&card_id=IN-058&version=91bc4c4828)　（版 `91bc4c4828`）
 
 ### IN-059　出典照合済み・監修待ち
 
@@ -712,9 +712,9 @@
 - よくある誤解：FAPの大腸切除は癌が見つかってから行う
 - 出典：National Cancer Institute. Genetics of Colorectal Cancer (PDQ)–Health Professional Version（最終更新 2025-03-21）　[リンク](https://www.cancer.gov/types/colorectal/hp/colorectal-genetics-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-5-B-③（消化管ポリポーシス、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-684 (id: Jlvnmf8)；TBL-01-00-279 (id: Jlvnl4Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-059&card_id=IN-059&version=e371224196)　（版 `e371224196`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-059&card_id=IN-059&version=e371224196)　（版 `e371224196`）
 
-**[ここまでの 4 件（IN-056〜IN-059）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-056%E3%80%9CIN-059&cards=IN-056%202142efa6bc%0AIN-057%20a23a808136%0AIN-058%2091bc4c4828%0AIN-059%20e371224196)**
+**[ここまでの 4 件（IN-056〜IN-059）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-056%E3%80%9CIN-059&cards=IN-056%202142efa6bc%0AIN-057%20a23a808136%0AIN-058%2091bc4c4828%0AIN-059%20e371224196)**
 
 ---
 
@@ -730,7 +730,7 @@
 - 不確実性：数値はGLが引用した値（二次資料経由）
 - 出典：Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26　[DOI 10.1159/000495282](https://doi.org/10.1159/000495282)　[PMID 30625484](https://pubmed.ncbi.nlm.nih.gov/30625484/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-262 (id: Jlvnl38)；TBL-01-00-263 (id: Jlvnl4E)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-060&card_id=IN-060&version=707024aea7)　（版 `707024aea7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-060&card_id=IN-060&version=707024aea7)　（版 `707024aea7`）
 
 ### IN-061　出典照合済み・監修待ち
 
@@ -742,7 +742,7 @@
 - 不確実性：数値はGLが引用した値（二次資料経由）
 - 出典：Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26　[DOI 10.1159/000495282](https://doi.org/10.1159/000495282)　[PMID 30625484](https://pubmed.ncbi.nlm.nih.gov/30625484/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-262 (id: Jlvnl38)；TBL-01-00-263 (id: Jlvnl4E)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-061&card_id=IN-061&version=63ce512e77)　（版 `63ce512e77`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-061&card_id=IN-061&version=63ce512e77)　（版 `63ce512e77`）
 
 ### IN-062　出典照合済み・監修待ち
 
@@ -754,7 +754,7 @@
 - 不確実性：再出血率はGLが引用した値（二次資料経由）
 - 出典：Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26　[DOI 10.1159/000495282](https://doi.org/10.1159/000495282)　[PMID 30625484](https://pubmed.ncbi.nlm.nih.gov/30625484/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)；TBL-02-07-020 (id: JlAKpkk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-062&card_id=IN-062&version=f8e42740db)　（版 `f8e42740db`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-062&card_id=IN-062&version=f8e42740db)　（版 `f8e42740db`）
 
 ### IN-063　出典照合済み・監修待ち
 
@@ -766,7 +766,7 @@
 - 不確実性：数値はGLが引用した値（二次資料経由）
 - 出典：Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26　[DOI 10.1159/000495282](https://doi.org/10.1159/000495282)　[PMID 30625484](https://pubmed.ncbi.nlm.nih.gov/30625484/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-063&card_id=IN-063&version=b83e1634ea)　（版 `b83e1634ea`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-063&card_id=IN-063&version=b83e1634ea)　（版 `b83e1634ea`）
 
 ### IN-064　出典照合済み・監修待ち
 
@@ -778,7 +778,7 @@
 - 不確実性：CT血管造影の感度・特異度は急性消化管出血全般のメタ解析の値（憩室出血に限らない）。24時間以内の大腸内視鏡は、GLが主要評価項目の改善は不明としつつ提案している
 - 出典：Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26　[DOI 10.1159/000495282](https://doi.org/10.1159/000495282)　[PMID 30625484](https://pubmed.ncbi.nlm.nih.gov/30625484/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)；TBL-02-07-030 (id: JlAKplE)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-064&card_id=IN-064&version=97132fd7da)　（版 `97132fd7da`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-064&card_id=IN-064&version=97132fd7da)　（版 `97132fd7da`）
 
 ### IN-065　出典照合済み・監修待ち
 
@@ -790,7 +790,7 @@
 - 不確実性：再出血率はGLが引用した値（二次資料経由）
 - 出典：Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26　[DOI 10.1159/000495282](https://doi.org/10.1159/000495282)　[PMID 30625484](https://pubmed.ncbi.nlm.nih.gov/30625484/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-065&card_id=IN-065&version=2843a5c2eb)　（版 `2843a5c2eb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-065&card_id=IN-065&version=2843a5c2eb)　（版 `2843a5c2eb`）
 
 ### IN-066　出典照合済み・監修待ち
 
@@ -802,7 +802,7 @@
 - 不確実性：数値はGLが引用した値（二次資料経由）
 - 出典：Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26　[DOI 10.1159/000495282](https://doi.org/10.1159/000495282)　[PMID 30625484](https://pubmed.ncbi.nlm.nih.gov/30625484/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)；TBL-02-07-034 (id: JlAKplU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-066&card_id=IN-066&version=dab6a54135)　（版 `dab6a54135`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-066&card_id=IN-066&version=dab6a54135)　（版 `dab6a54135`）
 
 ### IN-067　出典照合済み・監修待ち
 
@@ -813,7 +813,7 @@
 - よくある誤解：憩室出血を起こしたら抗血栓薬は永久に中止する
 - 出典：Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26　[DOI 10.1159/000495282](https://doi.org/10.1159/000495282)　[PMID 30625484](https://pubmed.ncbi.nlm.nih.gov/30625484/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-263 (id: Jlvnl4E)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-067&card_id=IN-067&version=74cab94d35)　（版 `74cab94d35`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-067&card_id=IN-067&version=74cab94d35)　（版 `74cab94d35`）
 
 ### IN-068　出典照合済み・監修待ち
 
@@ -824,7 +824,7 @@
 - よくある誤解：憩室炎の膿瘍はすべて手術が必要
 - 出典：Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26　[DOI 10.1159/000495282](https://doi.org/10.1159/000495282)　[PMID 30625484](https://pubmed.ncbi.nlm.nih.gov/30625484/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-262 (id: Jlvnl38)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-068&card_id=IN-068&version=5944b3f53a)　（版 `5944b3f53a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-068&card_id=IN-068&version=5944b3f53a)　（版 `5944b3f53a`）
 
 ### IN-069　出典照合済み・監修待ち
 
@@ -835,9 +835,9 @@
 - よくある誤解：2回再発したら必ず予防的切除を行う
 - 出典：Nagata N, et al. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion 2019;99(Suppl 1):1-26　[DOI 10.1159/000495282](https://doi.org/10.1159/000495282)　[PMID 30625484](https://pubmed.ncbi.nlm.nih.gov/30625484/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室、Meckel憩室、大腸憩室（備考：憩室炎、憩室出血）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-262 (id: Jlvnl38)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-069&card_id=IN-069&version=2388778e06)　（版 `2388778e06`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-069&card_id=IN-069&version=2388778e06)　（版 `2388778e06`）
 
-**[ここまでの 10 件（IN-060〜IN-069）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-060%E3%80%9CIN-069&cards=IN-060%20707024aea7%0AIN-061%2063ce512e77%0AIN-062%20f8e42740db%0AIN-063%20b83e1634ea%0AIN-064%2097132fd7da%0AIN-065%202843a5c2eb%0AIN-066%20dab6a54135%0AIN-067%2074cab94d35%0AIN-068%205944b3f53a%0AIN-069%202388778e06)**
+**[ここまでの 10 件（IN-060〜IN-069）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-060%E3%80%9CIN-069&cards=IN-060%20707024aea7%0AIN-061%2063ce512e77%0AIN-062%20f8e42740db%0AIN-063%20b83e1634ea%0AIN-064%2097132fd7da%0AIN-065%202843a5c2eb%0AIN-066%20dab6a54135%0AIN-067%2074cab94d35%0AIN-068%205944b3f53a%0AIN-069%202388778e06)**
 
 ---
 
@@ -851,7 +851,7 @@
 - よくある誤解：腸管出血性大腸菌感染症では高熱が続くのが典型
 - 出典：厚生労働省『腸管出血性大腸菌Q&A』（最終改訂 令和3年12月17日）　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177609.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅻ-2-B-⑬（大腸菌感染症（備考：腸管出血性大腸菌感染症）、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-020 (id: JlAKpkk)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-070&card_id=IN-070&version=fa4e06e83d)　（版 `fa4e06e83d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-070&card_id=IN-070&version=fa4e06e83d)　（版 `fa4e06e83d`）
 
 ### IN-071　出典照合済み・監修待ち
 
@@ -861,7 +861,7 @@
 - よくある誤解：HUSは下痢の発症と同時に起こる
 - 出典：厚生労働省『腸管出血性大腸菌Q&A』（最終改訂 令和3年12月17日）　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177609.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅻ-2-B-⑬（大腸菌感染症（備考：腸管出血性大腸菌感染症）、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-071&card_id=IN-071&version=e8d81fe98e)　（版 `e8d81fe98e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-071&card_id=IN-071&version=e8d81fe98e)　（版 `e8d81fe98e`）
 
 ### IN-072　出典照合済み・監修待ち
 
@@ -872,7 +872,7 @@
 - よくある誤解：腸管出血性大腸菌はO157だけである
 - 出典：厚生労働省『腸管出血性大腸菌Q&A』（最終改訂 令和3年12月17日）　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177609.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅻ-2-B-⑬（大腸菌感染症（備考：腸管出血性大腸菌感染症）、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-072&card_id=IN-072&version=e6b503253e)　（版 `e6b503253e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-072&card_id=IN-072&version=e6b503253e)　（版 `e6b503253e`）
 
 ### IN-073　出典照合済み・監修待ち
 
@@ -882,7 +882,7 @@
 - よくある誤解：血便を伴う下痢には止痢薬を使うべき
 - 出典：厚生労働省『腸管出血性大腸菌Q&A』（最終改訂 令和3年12月17日）　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177609.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅻ-2-B-⑬（大腸菌感染症（備考：腸管出血性大腸菌感染症）、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-073&card_id=IN-073&version=78292f1192)　（版 `78292f1192`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-073&card_id=IN-073&version=78292f1192)　（版 `78292f1192`）
 
 ### IN-074　出典照合済み・監修待ち
 
@@ -893,7 +893,7 @@
 - よくある誤解：細菌性食中毒で最も多いのはサルモネラである
 - 出典：厚生労働省『カンピロバクター食中毒予防について（Q&A）』（最終改訂 令和8年5月27日）　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/campylobacterqa.html)（区分 GOV_JP）
 - 出題基準：医学各論 ⅩⅢ-1-A-①（細菌性食中毒、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-074&card_id=IN-074&version=8cfc8adaa3)　（版 `8cfc8adaa3`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-074&card_id=IN-074&version=8cfc8adaa3)　（版 `8cfc8adaa3`）
 
 ### IN-075　出典照合済み・監修待ち
 
@@ -903,7 +903,7 @@
 - よくある誤解：新鮮な鶏肉なら生で食べても安全
 - 出典：厚生労働省『カンピロバクター食中毒予防について（Q&A）』（最終改訂 令和8年5月27日）　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/campylobacterqa.html)（区分 GOV_JP）
 - 出題基準：医学各論 ⅩⅢ-1-A-①（細菌性食中毒、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-075&card_id=IN-075&version=9f63d0ab9b)　（版 `9f63d0ab9b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-075&card_id=IN-075&version=9f63d0ab9b)　（版 `9f63d0ab9b`）
 
 ### IN-076　出典照合済み・監修待ち
 
@@ -913,7 +913,7 @@
 - よくある誤解：ノロウイルスでは高熱が続く
 - 出典：厚生労働省『ノロウイルスに関するQ&A』（最終改定 令和3年11月19日）　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/kanren/yobou/040204-1.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅻ-1-A-⑲（ノロウイルス感染症、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-280 (id: Jlvnl28)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-076&card_id=IN-076&version=d8dee1516d)　（版 `d8dee1516d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-076&card_id=IN-076&version=d8dee1516d)　（版 `d8dee1516d`）
 
 ### IN-077　出典照合済み・監修待ち
 
@@ -922,7 +922,7 @@
 - よくある誤解：症状が治まれば感染力はなくなる
 - 出典：厚生労働省『ノロウイルスに関するQ&A』（最終改定 令和3年11月19日）　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/kanren/yobou/040204-1.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅻ-1-A-⑲（ノロウイルス感染症、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-280 (id: Jlvnl28)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-077&card_id=IN-077&version=ad09aaae0f)　（版 `ad09aaae0f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-077&card_id=IN-077&version=ad09aaae0f)　（版 `ad09aaae0f`）
 
 ### IN-078　出典照合済み・監修待ち
 
@@ -932,7 +932,7 @@
 - よくある誤解：アルコールで手指消毒すればノロウイルスは防げる
 - 出典：厚生労働省『ノロウイルスに関するQ&A』（最終改定 令和3年11月19日）　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/kanren/yobou/040204-1.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅻ-1-A-⑲（ノロウイルス感染症、a）；医学各論 Ⅵ-3-B-①（感染性腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-280 (id: Jlvnl28)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-078&card_id=IN-078&version=d699ee9fce)　（版 `d699ee9fce`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-078&card_id=IN-078&version=d699ee9fce)　（版 `d699ee9fce`）
 
 ### IN-079　出典照合済み・監修待ち
 
@@ -942,9 +942,9 @@
 - よくある誤解：ノロウイルスは夏に多い
 - 出典：厚生労働省『ノロウイルスに関するQ&A』（最終改定 令和3年11月19日）　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/kanren/yobou/040204-1.html)（区分 GOV_JP）
 - 出題基準：医学各論 ⅩⅢ-1-A-②（ウイルス性食中毒、a）；医学各論 Ⅻ-1-A-⑲（ノロウイルス感染症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-280 (id: Jlvnl28)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-079&card_id=IN-079&version=57f8bb3597)　（版 `57f8bb3597`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-079&card_id=IN-079&version=57f8bb3597)　（版 `57f8bb3597`）
 
-**[ここまでの 10 件（IN-070〜IN-079）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-070%E3%80%9CIN-079&cards=IN-070%20fa4e06e83d%0AIN-071%20e8d81fe98e%0AIN-072%20e6b503253e%0AIN-073%2078292f1192%0AIN-074%208cfc8adaa3%0AIN-075%209f63d0ab9b%0AIN-076%20d8dee1516d%0AIN-077%20ad09aaae0f%0AIN-078%20d699ee9fce%0AIN-079%2057f8bb3597)**
+**[ここまでの 10 件（IN-070〜IN-079）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-070%E3%80%9CIN-079&cards=IN-070%20fa4e06e83d%0AIN-071%20e8d81fe98e%0AIN-072%20e6b503253e%0AIN-073%2078292f1192%0AIN-074%208cfc8adaa3%0AIN-075%209f63d0ab9b%0AIN-076%20d8dee1516d%0AIN-077%20ad09aaae0f%0AIN-078%20d699ee9fce%0AIN-079%2057f8bb3597)**
 
 ---
 
@@ -959,7 +959,7 @@
 - よくある誤解：CDIは院内でしか起こらない
 - 出典：CDC. C. diff: Facts for Clinicians（2026-04-13更新）　[リンク](https://www.cdc.gov/c-diff/hcp/clinical-overview/index.html)（区分 GOV_US）
 - 出題基準：医学各論 Ⅻ-2-B-㉑（クロストリジウム・ディフィシル腸炎、a）；医学各論 Ⅵ-3-B-③（薬物性腸炎（備考：偽膜性腸炎）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-080&card_id=IN-080&version=de6ac65f25)　（版 `de6ac65f25`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-080&card_id=IN-080&version=de6ac65f25)　（版 `de6ac65f25`）
 
 ### IN-081　出典照合済み・監修待ち
 
@@ -969,7 +969,7 @@
 - よくある誤解：治療後は便検査で陰性を確認する必要がある
 - 出典：CDC. C. diff: Facts for Clinicians（2026-04-13更新）　[リンク](https://www.cdc.gov/c-diff/hcp/clinical-overview/index.html)（区分 GOV_US）
 - 出題基準：医学各論 Ⅻ-2-B-㉑（クロストリジウム・ディフィシル腸炎、a）；医学各論 Ⅵ-3-B-③（薬物性腸炎（備考：偽膜性腸炎）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-081&card_id=IN-081&version=0c6f872f5e)　（版 `0c6f872f5e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-081&card_id=IN-081&version=0c6f872f5e)　（版 `0c6f872f5e`）
 
 ### IN-082　出典照合済み・監修待ち
 
@@ -979,7 +979,7 @@
 - よくある誤解：アルコール手指消毒でC. difficileの伝播は防げる
 - 出典：CDC. C. diff: Facts for Clinicians（2026-04-13更新）　[リンク](https://www.cdc.gov/c-diff/hcp/clinical-overview/index.html)（区分 GOV_US）
 - 出題基準：医学各論 Ⅻ-2-B-㉑（クロストリジウム・ディフィシル腸炎、a）；医学各論 Ⅵ-3-B-③（薬物性腸炎（備考：偽膜性腸炎）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-082&card_id=IN-082&version=f430e12deb)　（版 `f430e12deb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-082&card_id=IN-082&version=f430e12deb)　（版 `f430e12deb`）
 
 ### IN-083　出典照合済み・監修待ち
 
@@ -991,7 +991,7 @@
 - 不確実性：日本のガイドラインでの位置づけは別途確認が必要
 - 出典：CDC. C. diff: Facts for Clinicians（2026-04-13更新）　[リンク](https://www.cdc.gov/c-diff/hcp/clinical-overview/index.html)（区分 GOV_US）
 - 出題基準：医学各論 Ⅻ-2-B-㉑（クロストリジウム・ディフィシル腸炎、a）；医学各論 Ⅵ-3-B-③（薬物性腸炎（備考：偽膜性腸炎）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-083&card_id=IN-083&version=7bc8d9ff57)　（版 `7bc8d9ff57`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-083&card_id=IN-083&version=7bc8d9ff57)　（版 `7bc8d9ff57`）
 
 ### IN-084　出典照合済み・監修待ち
 
@@ -1002,9 +1002,9 @@
 - よくある誤解：初回CDIにはメトロニダゾールが第一選択である
 - 出典：Johnson S, et al. IDSA/SHEA 2021 Focused Update Guidelines on Management of Clostridioides difficile Infection in Adults. Clin Infect Dis 2021;73:e1029-e1044　[DOI 10.1093/cid/ciab549](https://doi.org/10.1093/cid/ciab549)　[PMID 34164674](https://pubmed.ncbi.nlm.nih.gov/34164674/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅻ-2-B-㉑（クロストリジウム・ディフィシル腸炎、a）；医学各論 Ⅵ-3-B-③（薬物性腸炎（備考：偽膜性腸炎）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-270 (id: Jlvnl4s)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-084&card_id=IN-084&version=e075201641)　（版 `e075201641`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-084&card_id=IN-084&version=e075201641)　（版 `e075201641`）
 
-**[ここまでの 5 件（IN-080〜IN-084）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-080%E3%80%9CIN-084&cards=IN-080%20de6ac65f25%0AIN-081%200c6f872f5e%0AIN-082%20f430e12deb%0AIN-083%207bc8d9ff57%0AIN-084%20e075201641)**
+**[ここまでの 5 件（IN-080〜IN-084）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-080%E3%80%9CIN-084&cards=IN-080%20de6ac65f25%0AIN-081%200c6f872f5e%0AIN-082%20f430e12deb%0AIN-083%207bc8d9ff57%0AIN-084%20e075201641)**
 
 ---
 
@@ -1020,7 +1020,7 @@
 - 不確実性：日本での有病率は欧米より低いとされるが、今回は日本の一次資料を確認していない
 - 出典：NIDDK. Definition & Facts for Celiac Disease（最終レビュー 2020年10月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease/definition-facts)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-3-A-③（吸収不良症候群、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-085&card_id=IN-085&version=9e0cc1ce2f)　（版 `9e0cc1ce2f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-085&card_id=IN-085&version=9e0cc1ce2f)　（版 `9e0cc1ce2f`）
 
 ### IN-086　出典照合済み・監修待ち
 
@@ -1030,7 +1030,7 @@
 - よくある誤解：セリアック病は消化管だけの病気である
 - 出典：NIDDK. Definition & Facts for Celiac Disease（最終レビュー 2020年10月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease/definition-facts)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-3-A-③（吸収不良症候群、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-086&card_id=IN-086&version=724168843a)　（版 `724168843a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-086&card_id=IN-086&version=724168843a)　（版 `724168843a`）
 
 ### IN-087　出典照合済み・監修待ち
 
@@ -1040,9 +1040,9 @@
 - よくある誤解：セリアック病は悪性腫瘍と無関係
 - 出典：NIDDK. Definition & Facts for Celiac Disease（最終レビュー 2020年10月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease/definition-facts)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-3-A-③（吸収不良症候群、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-087&card_id=IN-087&version=6cabe96c7b)　（版 `6cabe96c7b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-087&card_id=IN-087&version=6cabe96c7b)　（版 `6cabe96c7b`）
 
-**[ここまでの 3 件（IN-085〜IN-087）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-085%E3%80%9CIN-087&cards=IN-085%209e0cc1ce2f%0AIN-086%20724168843a%0AIN-087%206cabe96c7b)**
+**[ここまでの 3 件（IN-085〜IN-087）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-085%E3%80%9CIN-087&cards=IN-085%209e0cc1ce2f%0AIN-086%20724168843a%0AIN-087%206cabe96c7b)**
 
 ---
 
@@ -1058,9 +1058,9 @@
 - 不確実性：NIDDK のページは2016年10月の最終レビュー。日本の資料への差し替えは次回の補完で検討
 - 出典：NIDDK. Definition & Facts of Hemorrhoids（最終レビュー 2016年10月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/hemorrhoids/definition-facts)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-4-D-①（痔核、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-267 (id: Jlvnl30)；TBL-02-07-020 (id: JlAKpkk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-088&card_id=IN-088&version=ebcf896bc0)　（版 `ebcf896bc0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-088&card_id=IN-088&version=ebcf896bc0)　（版 `ebcf896bc0`）
 
-**[ここまでの 1 件（IN-088）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-088&cards=IN-088%20ebcf896bc0)**
+**[ここまでの 1 件（IN-088）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-088&cards=IN-088%20ebcf896bc0)**
 
 ---
 

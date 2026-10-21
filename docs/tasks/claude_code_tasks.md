@@ -9,7 +9,7 @@
 ### 0-1. リポジトリとPython環境（PowerShell）
 
 ```powershell
-cd cleanroom-gi-facts
+cd cleanroom-facts
 git init
 py -3.11 -m venv .venv
 .\.venv\Scripts\Activate.ps1

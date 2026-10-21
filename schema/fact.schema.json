@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.org/cleanroom-gi-facts/fact.schema.json",
+  "$id": "https://example.org/cleanroom-facts/fact.schema.json",
   "title": "Clean Room Fact Card",
   "type": "object",
   "required": ["id", "domain", "assertion", "provenance", "curriculum", "publication_info"],

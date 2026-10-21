@@ -1,4 +1,6 @@
-# cleanroom-gi-facts — 消化器 事実票（クリーンルーム方式）
+# cleanroom-facts — 医学の事実票（クリーンルーム方式）
+
+消化器から始め、ほかの分野も同じレポジトリに追加していく（分野と領域の一覧は `data/domains.yaml`）。旧名 cleanroom-gi-facts。
 
 医学教育コンテンツと評価問題を「クリーンルーム方式」で作るための、著作権で保護される表現を含まない事実票（fact card）と、その出典の記録です。
 事実票を材料にして、日本神経消化器病学会の広報用ショート動画を作る仕組み（`video/`）も入っています。
@@ -43,8 +45,8 @@
 ## 使い方（PowerShell）
 
 ```powershell
-git clone https://github.com/hm-cmed/cleanroom-gi-facts
-cd cleanroom-gi-facts
+git clone https://github.com/hm-cmed/cleanroom-facts
+cd cleanroom-facts
 pip install -r requirements.txt
 python scripts/validate.py
 ```

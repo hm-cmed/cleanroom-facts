@@ -15,7 +15,7 @@
 - よくある誤解：機能性消化管疾患は気のせいで、身体的な異常はない
 - 出典：Drossman DA, Hasler WL. Rome IV—Functional GI Disorders: Disorders of Gut-Brain Interaction. Gastroenterology 2016;150:1257-1261　[DOI 10.1053/j.gastro.2016.03.035](https://doi.org/10.1053/j.gastro.2016.03.035)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)；TBL-02-07-005 (id: JlAKpjg)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-001&card_id=NG-001&version=122651819b)　（版 `122651819b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-001&card_id=NG-001&version=122651819b)　（版 `122651819b`）
 
 ### NG-002　下書き（出典の照合前）
 
@@ -25,7 +25,7 @@
 - よくある誤解：機能性消化管疾患はIBSと機能性ディスペプシアの2つだけである
 - 出典：Drossman DA, Hasler WL. Rome IV—Functional GI Disorders: Disorders of Gut-Brain Interaction. Gastroenterology 2016;150:1257-1261　[DOI 10.1053/j.gastro.2016.03.035](https://doi.org/10.1053/j.gastro.2016.03.035)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-002&card_id=NG-002&version=5aa39c56d9)　（版 `5aa39c56d9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-002&card_id=NG-002&version=5aa39c56d9)　（版 `5aa39c56d9`）
 
 ### NG-003　下書き（出典の照合前）
 
@@ -35,7 +35,7 @@
 - よくある誤解：Rome IVはRome IIIの診断名をそのまま引き継いだ
 - 出典：Drossman DA, Hasler WL. Rome IV—Functional GI Disorders: Disorders of Gut-Brain Interaction. Gastroenterology 2016;150:1257-1261　[DOI 10.1053/j.gastro.2016.03.035](https://doi.org/10.1053/j.gastro.2016.03.035)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-003&card_id=NG-003&version=2b8c8516a8)　（版 `2b8c8516a8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-003&card_id=NG-003&version=2b8c8516a8)　（版 `2b8c8516a8`）
 
 ### NG-037　下書き（出典の照合前）
 
@@ -45,7 +45,7 @@
 - よくある誤解：Rome IVは診断基準の一覧表だけである
 - 出典：Rome Foundation『Special issue of Gastroenterology, May 2016』（Rome IV 特集号の章構成）　[リンク](https://theromefoundation.org/?p=565)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-037&card_id=NG-037&version=5c933b1ab6)　（版 `5c933b1ab6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-037&card_id=NG-037&version=5c933b1ab6)　（版 `5c933b1ab6`）
 
 ### NG-038　下書き（出典の照合前）
 
@@ -56,9 +56,9 @@
 - 不確実性：抄録のみ参照。各次元の評価項目は原典で確認する
 - 出典：Iyengar P, Chang L. The multidimensional clinical profile for disorders of gut-brain interaction. 2024（Permanyer、ISSN 2462-7011）　[DOI 10.24875/NGL.23000008](https://doi.org/10.24875/NGL.23000008)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-038&card_id=NG-038&version=b6329414e1)　（版 `b6329414e1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-038&card_id=NG-038&version=b6329414e1)　（版 `b6329414e1`）
 
-**[ここまでの 5 件（NG-001〜NG-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-001%E3%80%9CNG-038&cards=NG-001%20122651819b%0ANG-002%205aa39c56d9%0ANG-003%202b8c8516a8%0ANG-037%205c933b1ab6%0ANG-038%20b6329414e1)**
+**[ここまでの 5 件（NG-001〜NG-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-001%E3%80%9CNG-038&cards=NG-001%20122651819b%0ANG-002%205aa39c56d9%0ANG-003%202b8c8516a8%0ANG-037%205c933b1ab6%0ANG-038%20b6329414e1)**
 
 ---
 
@@ -73,7 +73,7 @@
 - 不確実性：学会サイトの記載。利用規約は人間が確認する。広報で使う場合は学会事務局の確認を受ける
 - 出典：日本神経消化器病学会ウェブサイト『沿革』　[リンク](https://plaza.umin.ac.jp/neuro-g/history.html)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-004&card_id=NG-004&version=de7d472c4d)　（版 `de7d472c4d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-004&card_id=NG-004&version=de7d472c4d)　（版 `de7d472c4d`）
 
 ### NG-005　下書き（出典の照合前）
 
@@ -83,9 +83,9 @@
 - 不確実性：学会サイトのメニュー表記にもとづく。制度の要件は認定医制度のページで確認する
 - 出典：日本神経消化器病学会ウェブサイト『沿革』　[リンク](https://plaza.umin.ac.jp/neuro-g/history.html)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-005&card_id=NG-005&version=1e8fdd8b0e)　（版 `1e8fdd8b0e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-005&card_id=NG-005&version=1e8fdd8b0e)　（版 `1e8fdd8b0e`）
 
-**[ここまでの 2 件（NG-004〜NG-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-004%E3%80%9CNG-005&cards=NG-004%20de7d472c4d%0ANG-005%201e8fdd8b0e)**
+**[ここまでの 2 件（NG-004〜NG-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-004%E3%80%9CNG-005&cards=NG-004%20de7d472c4d%0ANG-005%201e8fdd8b0e)**
 
 ---
 
@@ -100,7 +100,7 @@
 - よくある誤解：機能性消化管疾患はまれな病気である
 - 出典：Sperber AD, et al. Worldwide Prevalence and Burden of Functional Gastrointestinal Disorders, Results of Rome Foundation Global Study. Gastroenterology 2021;160:99-114　[DOI 10.1053/j.gastro.2020.04.014](https://doi.org/10.1053/j.gastro.2020.04.014)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-006&card_id=NG-006&version=d4c914daf5)　（版 `d4c914daf5`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-006&card_id=NG-006&version=d4c914daf5)　（版 `d4c914daf5`）
 
 ### NG-007　下書き（出典の照合前）
 
@@ -110,7 +110,7 @@
 - よくある誤解：機能性消化管疾患で最も多いのはIBSである
 - 出典：Sperber AD, et al. Worldwide Prevalence and Burden of Functional Gastrointestinal Disorders, Results of Rome Foundation Global Study. Gastroenterology 2021;160:99-114　[DOI 10.1053/j.gastro.2020.04.014](https://doi.org/10.1053/j.gastro.2020.04.014)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-007&card_id=NG-007&version=a4c1ec97f3)　（版 `a4c1ec97f3`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-007&card_id=NG-007&version=a4c1ec97f3)　（版 `a4c1ec97f3`）
 
 ### NG-008　下書き（出典の照合前）
 
@@ -120,7 +120,7 @@
 - よくある誤解：機能性消化管疾患に性差はない
 - 出典：Sperber AD, et al. Worldwide Prevalence and Burden of Functional Gastrointestinal Disorders, Results of Rome Foundation Global Study. Gastroenterology 2021;160:99-114　[DOI 10.1053/j.gastro.2020.04.014](https://doi.org/10.1053/j.gastro.2020.04.014)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-008&card_id=NG-008&version=3cc663db79)　（版 `3cc663db79`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-008&card_id=NG-008&version=3cc663db79)　（版 `3cc663db79`）
 
 ### NG-009　下書き（出典の照合前）
 
@@ -130,7 +130,7 @@
 - よくある誤解：機能性消化管疾患は生活の質や受診行動に影響しない
 - 出典：Sperber AD, et al. Worldwide Prevalence and Burden of Functional Gastrointestinal Disorders, Results of Rome Foundation Global Study. Gastroenterology 2021;160:99-114　[DOI 10.1053/j.gastro.2020.04.014](https://doi.org/10.1053/j.gastro.2020.04.014)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-009&card_id=NG-009&version=7cd0859c2f)　（版 `7cd0859c2f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-009&card_id=NG-009&version=7cd0859c2f)　（版 `7cd0859c2f`）
 
 ### NG-010　下書き（出典の照合前）
 
@@ -142,9 +142,9 @@
 - 不確実性：機能性ディスペプシアは本文で2.2%、表で2.4%と不整合があり、表の値を採った
 - 出典：Sperber AD, et al. Worldwide Prevalence and Burden of Functional Gastrointestinal Disorders, Results of Rome Foundation Global Study. Gastroenterology 2021;160:99-114　[DOI 10.1053/j.gastro.2020.04.014](https://doi.org/10.1053/j.gastro.2020.04.014)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-010&card_id=NG-010&version=5acb965b26)　（版 `5acb965b26`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-010&card_id=NG-010&version=5acb965b26)　（版 `5acb965b26`）
 
-**[ここまでの 5 件（NG-006〜NG-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-006%E3%80%9CNG-010&cards=NG-006%20d4c914daf5%0ANG-007%20a4c1ec97f3%0ANG-008%203cc663db79%0ANG-009%207cd0859c2f%0ANG-010%205acb965b26)**
+**[ここまでの 5 件（NG-006〜NG-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-006%E3%80%9CNG-010&cards=NG-006%20d4c914daf5%0ANG-007%20a4c1ec97f3%0ANG-008%203cc663db79%0ANG-009%207cd0859c2f%0ANG-010%205acb965b26)**
 
 ---
 
@@ -160,7 +160,7 @@
 - 不確実性：出典の最終レビューは2018年。日本の有病率は未確認
 - 出典：NIDDK. Definition & Facts for Gastroparesis（最終レビュー 2018年1月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/gastroparesis/definition-facts)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-011&card_id=NG-011&version=c7b7253592)　（版 `c7b7253592`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-011&card_id=NG-011&version=c7b7253592)　（版 `c7b7253592`）
 
 ### NG-012　下書き（出典の照合前）
 
@@ -170,7 +170,7 @@
 - よくある誤解：胃不全麻痺の原因は糖尿病だけである
 - 出典：NIDDK. Definition & Facts for Gastroparesis（最終レビュー 2018年1月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/gastroparesis/definition-facts)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)；TBL-02-07-005 (id: JlAKpjg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-012&card_id=NG-012&version=a796de7972)　（版 `a796de7972`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-012&card_id=NG-012&version=a796de7972)　（版 `a796de7972`）
 
 ### NG-013　下書き（出典の照合前）
 
@@ -181,7 +181,7 @@
 - 不確実性：シンチグラフィの判定基準（残留率の閾値）は出典に記載がない
 - 出典：NIDDK. Diagnosis of Gastroparesis（最終レビュー 2018年1月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/gastroparesis/diagnosis)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-013&card_id=NG-013&version=a175a26e51)　（版 `a175a26e51`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-013&card_id=NG-013&version=a175a26e51)　（版 `a175a26e51`）
 
 ### NG-014　下書き（出典の照合前）
 
@@ -191,7 +191,7 @@
 - よくある誤解：胃不全麻痺では食物繊維を多くとるべきである
 - 出典：NIDDK. Treatment for Gastroparesis（最終レビュー 2018年1月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/gastroparesis/treatment)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-014&card_id=NG-014&version=054b2c3559)　（版 `054b2c3559`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-014&card_id=NG-014&version=054b2c3559)　（版 `054b2c3559`）
 
 ### NG-015　下書き（出典の照合前）
 
@@ -203,9 +203,9 @@
 - 不確実性：米国の情報。日本の承認・保険適用は添付文書で確認する
 - 出典：NIDDK. Treatment for Gastroparesis（最終レビュー 2018年1月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/gastroparesis/treatment)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-015&card_id=NG-015&version=9f2cf7fbe9)　（版 `9f2cf7fbe9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-015&card_id=NG-015&version=9f2cf7fbe9)　（版 `9f2cf7fbe9`）
 
-**[ここまでの 5 件（NG-011〜NG-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-011%E3%80%9CNG-015&cards=NG-011%20c7b7253592%0ANG-012%20a796de7972%0ANG-013%20a175a26e51%0ANG-014%20054b2c3559%0ANG-015%209f2cf7fbe9)**
+**[ここまでの 5 件（NG-011〜NG-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-011%E3%80%9CNG-015&cards=NG-011%20c7b7253592%0ANG-012%20a796de7972%0ANG-013%20a175a26e51%0ANG-014%20054b2c3559%0ANG-015%209f2cf7fbe9)**
 
 ---
 
@@ -221,7 +221,7 @@
 - 不確実性：成人の頻度は不明とされる。出典の最終レビューは2017年
 - 出典：NIDDK. Definition & Facts for Cyclic Vomiting Syndrome（最終レビュー 2017年12月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/cyclic-vomiting-syndrome/definition-facts)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-016&card_id=NG-016&version=ef7e586d7a)　（版 `ef7e586d7a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-016&card_id=NG-016&version=ef7e586d7a)　（版 `ef7e586d7a`）
 
 ### NG-017　下書き（出典の照合前）
 
@@ -231,7 +231,7 @@
 - よくある誤解：周期性嘔吐症候群は心因性の嘔吐と同じである
 - 出典：NIDDK. Definition & Facts for Cyclic Vomiting Syndrome（最終レビュー 2017年12月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/cyclic-vomiting-syndrome/definition-facts)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-017&card_id=NG-017&version=c35d0d2644)　（版 `c35d0d2644`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-017&card_id=NG-017&version=c35d0d2644)　（版 `c35d0d2644`）
 
 ### NG-018　下書き（出典の照合前）
 
@@ -242,7 +242,7 @@
 - 不確実性：日本での保険適用は添付文書で確認する
 - 出典：NIDDK. Treatment for Cyclic Vomiting Syndrome（最終レビュー 2017年12月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/cyclic-vomiting-syndrome/treatment)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-018&card_id=NG-018&version=5b1512f81f)　（版 `5b1512f81f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-018&card_id=NG-018&version=5b1512f81f)　（版 `5b1512f81f`）
 
 ### NG-066　下書き（出典の照合前）
 
@@ -253,7 +253,7 @@
 - 不確実性：数値はRome IVの章が引用した研究の値（二次資料経由）
 - 出典：Stanghellini V, et al. Gastroduodenal Disorders. Gastroenterology 2016;150:1380-1392　[DOI 10.1053/j.gastro.2016.02.011](https://doi.org/10.1053/j.gastro.2016.02.011)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-066&card_id=NG-066&version=0144463cbf)　（版 `0144463cbf`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-066&card_id=NG-066&version=0144463cbf)　（版 `0144463cbf`）
 
 ### NG-067　下書き（出典の照合前）
 
@@ -264,9 +264,9 @@
 - 不確実性：Rome IVの章が引用した研究の値（二次資料経由）
 - 出典：Stanghellini V, et al. Gastroduodenal Disorders. Gastroenterology 2016;150:1380-1392　[DOI 10.1053/j.gastro.2016.02.011](https://doi.org/10.1053/j.gastro.2016.02.011)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-067&card_id=NG-067&version=b2884f8257)　（版 `b2884f8257`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-067&card_id=NG-067&version=b2884f8257)　（版 `b2884f8257`）
 
-**[ここまでの 5 件（NG-016〜NG-067）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-016%E3%80%9CNG-067&cards=NG-016%20ef7e586d7a%0ANG-017%20c35d0d2644%0ANG-018%205b1512f81f%0ANG-066%200144463cbf%0ANG-067%20b2884f8257)**
+**[ここまでの 5 件（NG-016〜NG-067）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-016%E3%80%9CNG-067&cards=NG-016%20ef7e586d7a%0ANG-017%20c35d0d2644%0ANG-018%205b1512f81f%0ANG-066%200144463cbf%0ANG-067%20b2884f8257)**
 
 ---
 
@@ -280,7 +280,7 @@
 - よくある誤解：便失禁は高齢者の避けられない老化現象である
 - 出典：NIDDK. Definition & Facts for Bowel Control Problems (Fecal Incontinence)（最終レビュー 2017年7月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/bowel-control-problems-fecal-incontinence/definition-facts)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-019&card_id=NG-019&version=ee8037a76d)　（版 `ee8037a76d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-019&card_id=NG-019&version=ee8037a76d)　（版 `ee8037a76d`）
 
 ### NG-020　下書き（出典の照合前）
 
@@ -291,7 +291,7 @@
 - 不確実性：出典の最終レビューは2017年。日本の有病率は未確認
 - 出典：NIDDK. Definition & Facts for Bowel Control Problems (Fecal Incontinence)（最終レビュー 2017年7月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/bowel-control-problems-fecal-incontinence/definition-facts)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-020&card_id=NG-020&version=8cf5715460)　（版 `8cf5715460`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-020&card_id=NG-020&version=8cf5715460)　（版 `8cf5715460`）
 
 ### NG-021　下書き（出典の照合前）
 
@@ -301,9 +301,9 @@
 - よくある誤解：便失禁の治療は手術しかない
 - 出典：NIDDK. Treatment for Bowel Control Problems (Fecal Incontinence)（最終レビュー 2017年7月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/bowel-control-problems-fecal-incontinence/treatment)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-021&card_id=NG-021&version=40a04d3948)　（版 `40a04d3948`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-021&card_id=NG-021&version=40a04d3948)　（版 `40a04d3948`）
 
-**[ここまでの 3 件（NG-019〜NG-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-019%E3%80%9CNG-021&cards=NG-019%20ee8037a76d%0ANG-020%208cf5715460%0ANG-021%2040a04d3948)**
+**[ここまでの 3 件（NG-019〜NG-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-019%E3%80%9CNG-021&cards=NG-019%20ee8037a76d%0ANG-020%208cf5715460%0ANG-021%2040a04d3948)**
 
 ---
 
@@ -318,7 +318,7 @@
 - よくある誤解：鏡面像があれば機械的腸閉塞である
 - 出典：厚生労働省 指定難病99『慢性特発性偽性腸閉塞症』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001173520.pdf)（区分 GOV_JP）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-024 (id: JlAKpko)；TBL-02-07-018 (id: JlAKpkQ)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-022&card_id=NG-022&version=9a6f992817)　（版 `9a6f992817`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-022&card_id=NG-022&version=9a6f992817)　（版 `9a6f992817`）
 
 ### NG-023　下書き（出典の照合前）
 
@@ -329,7 +329,7 @@
 - 不確実性：罹患部位の割合は出典が引用した全国調査の値（二次資料経由）
 - 出典：厚生労働省 指定難病99『慢性特発性偽性腸閉塞症』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001173520.pdf)（区分 GOV_JP）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-023&card_id=NG-023&version=b8873c3671)　（版 `b8873c3671`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-023&card_id=NG-023&version=b8873c3671)　（版 `b8873c3671`）
 
 ### NG-024　下書き（出典の照合前）
 
@@ -339,7 +339,7 @@
 - よくある誤解：CIPOは腹部X線だけで診断できる
 - 出典：厚生労働省 指定難病99『慢性特発性偽性腸閉塞症』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001173520.pdf)（区分 GOV_JP）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-024 (id: JlAKpko)；TBL-02-07-031 (id: JlAKplI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-024&card_id=NG-024&version=e13e7ef0d1)　（版 `e13e7ef0d1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-024&card_id=NG-024&version=e13e7ef0d1)　（版 `e13e7ef0d1`）
 
 ### NG-025　下書き（出典の照合前）
 
@@ -350,7 +350,7 @@
 - 不確実性：出典が引用した全国調査の値（二次資料経由）
 - 出典：厚生労働省 指定難病99『慢性特発性偽性腸閉塞症』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001173520.pdf)（区分 GOV_JP）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-032 (id: JlAKplM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-025&card_id=NG-025&version=a5f9a636d2)　（版 `a5f9a636d2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-025&card_id=NG-025&version=a5f9a636d2)　（版 `a5f9a636d2`）
 
 ### NG-026　下書き（出典の照合前）
 
@@ -360,9 +360,9 @@
 - よくある誤解：CIPOは命にかかわらない
 - 出典：厚生労働省 指定難病99『慢性特発性偽性腸閉塞症』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001173520.pdf)（区分 GOV_JP）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-032 (id: JlAKplM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-026&card_id=NG-026&version=0591c9f3c4)　（版 `0591c9f3c4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-026&card_id=NG-026&version=0591c9f3c4)　（版 `0591c9f3c4`）
 
-**[ここまでの 5 件（NG-022〜NG-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-022%E3%80%9CNG-026&cards=NG-022%209a6f992817%0ANG-023%20b8873c3671%0ANG-024%20e13e7ef0d1%0ANG-025%20a5f9a636d2%0ANG-026%200591c9f3c4)**
+**[ここまでの 5 件（NG-022〜NG-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-022%E3%80%9CNG-026&cards=NG-022%209a6f992817%0ANG-023%20b8873c3671%0ANG-024%20e13e7ef0d1%0ANG-025%20a5f9a636d2%0ANG-026%200591c9f3c4)**
 
 ---
 
@@ -377,7 +377,7 @@
 - よくある誤解：ヒルシュスプルング病では神経節細胞が過剰になる
 - 出典：厚生労働省 指定難病291『ヒルシュスプルング病（全結腸型又は小腸型）』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001212061.pdf)（区分 GOV_JP）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-276 (id: Jlvnl4c)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-027&card_id=NG-027&version=45a405c57e)　（版 `45a405c57e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-027&card_id=NG-027&version=45a405c57e)　（版 `45a405c57e`）
 
 ### NG-028　下書き（出典の照合前）
 
@@ -387,7 +387,7 @@
 - よくある誤解：ヒルシュスプルング病は成人の便秘では考えなくてよい
 - 出典：厚生労働省 指定難病291『ヒルシュスプルング病（全結腸型又は小腸型）』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001212061.pdf)（区分 GOV_JP）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-276 (id: Jlvnl4c)；TBL-02-07-021 (id: JlAKpkY)；TBL-02-07-024 (id: JlAKpko)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-028&card_id=NG-028&version=2ba0561fce)　（版 `2ba0561fce`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-028&card_id=NG-028&version=2ba0561fce)　（版 `2ba0561fce`）
 
 ### NG-029　下書き（出典の照合前）
 
@@ -397,7 +397,7 @@
 - よくある誤解：ヒルシュスプルング病は注腸造影だけで確定できる
 - 出典：厚生労働省 指定難病291『ヒルシュスプルング病（全結腸型又は小腸型）』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001212061.pdf)（区分 GOV_JP）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-276 (id: Jlvnl4c)；TBL-02-07-031 (id: JlAKplI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-029&card_id=NG-029&version=0982284069)　（版 `0982284069`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-029&card_id=NG-029&version=0982284069)　（版 `0982284069`）
 
 ### NG-030　下書き（出典の照合前）
 
@@ -408,9 +408,9 @@
 - 不確実性：出典が引用した全国調査の値（二次資料経由）
 - 出典：厚生労働省 指定難病291『ヒルシュスプルング病（全結腸型又は小腸型）』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001212061.pdf)（区分 GOV_JP）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-276 (id: Jlvnl4c)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-030&card_id=NG-030&version=63f87fcb67)　（版 `63f87fcb67`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-030&card_id=NG-030&version=63f87fcb67)　（版 `63f87fcb67`）
 
-**[ここまでの 4 件（NG-027〜NG-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-027%E3%80%9CNG-030&cards=NG-027%2045a405c57e%0ANG-028%202ba0561fce%0ANG-029%200982284069%0ANG-030%2063f87fcb67)**
+**[ここまでの 4 件（NG-027〜NG-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-027%E3%80%9CNG-030&cards=NG-027%2045a405c57e%0ANG-028%202ba0561fce%0ANG-029%200982284069%0ANG-030%2063f87fcb67)**
 
 ---
 
@@ -426,7 +426,7 @@
 - 不確実性：出典の最終レビューは2017年
 - 出典：NIDDK. Symptoms & Causes of Irritable Bowel Syndrome（最終レビュー 2017年11月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/symptoms-causes)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-005 (id: JlAKpjg)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-031&card_id=NG-031&version=2b14b385e4)　（版 `2b14b385e4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-031&card_id=NG-031&version=2b14b385e4)　（版 `2b14b385e4`）
 
 ### NG-032　下書き（出典の照合前）
 
@@ -438,7 +438,7 @@
 - 不確実性：出典の最終レビューは2017年
 - 出典：NIDDK. Treatment for Irritable Bowel Syndrome（最終レビュー 2017年11月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/treatment)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-032&card_id=NG-032&version=b457f57feb)　（版 `b457f57feb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-032&card_id=NG-032&version=b457f57feb)　（版 `b457f57feb`）
 
 ### NG-033　下書き（出典の照合前）
 
@@ -450,9 +450,9 @@
 - 不確実性：米国の情報（2017年時点）。日本の承認・保険適用は添付文書で確認する
 - 出典：NIDDK. Treatment for Irritable Bowel Syndrome（最終レビュー 2017年11月）　[リンク](https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/treatment)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-022 (id: JlAKpkc)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-033&card_id=NG-033&version=d2bdf54cc9)　（版 `d2bdf54cc9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-033&card_id=NG-033&version=d2bdf54cc9)　（版 `d2bdf54cc9`）
 
-**[ここまでの 3 件（NG-031〜NG-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-031%E3%80%9CNG-033&cards=NG-031%202b14b385e4%0ANG-032%20b457f57feb%0ANG-033%20d2bdf54cc9)**
+**[ここまでの 3 件（NG-031〜NG-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-031%E3%80%9CNG-033&cards=NG-031%202b14b385e4%0ANG-032%20b457f57feb%0ANG-033%20d2bdf54cc9)**
 
 ---
 
@@ -466,7 +466,7 @@
 - よくある誤解：プロバイオティクスとプレバイオティクスは同じものである
 - 出典：NCCIH. Probiotics: Usefulness and Safety（最終更新 2019年8月）　[リンク](https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-034&card_id=NG-034&version=99651aa90e)　（版 `99651aa90e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-034&card_id=NG-034&version=99651aa90e)　（版 `99651aa90e`）
 
 ### NG-035　下書き（出典の照合前）
 
@@ -477,7 +477,7 @@
 - 不確実性：出典の最終更新は2019年。有効な菌株・用量・期間は不明とされる
 - 出典：NCCIH. Probiotics: Usefulness and Safety（最終更新 2019年8月）　[リンク](https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-015 (id: JlAKpkI)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-035&card_id=NG-035&version=1340be52e3)　（版 `1340be52e3`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-035&card_id=NG-035&version=1340be52e3)　（版 `1340be52e3`）
 
 ### NG-036　下書き（出典の照合前）
 
@@ -487,7 +487,7 @@
 - よくある誤解：プロバイオティクスは誰にとっても無害である
 - 出典：NCCIH. Probiotics: Usefulness and Safety（最終更新 2019年8月）　[リンク](https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-036&card_id=NG-036&version=9207564073)　（版 `9207564073`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-036&card_id=NG-036&version=9207564073)　（版 `9207564073`）
 
 ### NG-054　下書き（出典の照合前）
 
@@ -497,7 +497,7 @@
 - よくある誤解：便移植は健康な人の便なので感染の危険はない
 - 出典：FDA. Fecal Microbiota for Transplantation: Safety Communication – Risk of Serious Adverse Reactions Due to Transmission of Multi-Drug Resistant Organisms（2019-06-13、06-18更新）　[リンク](https://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/fecal-microbiota-transplantation-safety-communication-risk-serious-adverse-reactions-due)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-054&card_id=NG-054&version=55b748ec74)　（版 `55b748ec74`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-054&card_id=NG-054&version=55b748ec74)　（版 `55b748ec74`）
 
 ### NG-055　下書き（出典の照合前）
 
@@ -507,9 +507,9 @@
 - よくある誤解：FMTは確立した標準治療として自由に行える
 - 出典：FDA. Fecal Microbiota for Transplantation: Safety Communication – Risk of Serious Adverse Reactions Due to Transmission of Multi-Drug Resistant Organisms（2019-06-13、06-18更新）　[リンク](https://www.fda.gov/safety/medwatch-safety-alerts-human-medical-products/fecal-microbiota-transplantation-safety-communication-risk-serious-adverse-reactions-due)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-055&card_id=NG-055&version=6b586b89f7)　（版 `6b586b89f7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-055&card_id=NG-055&version=6b586b89f7)　（版 `6b586b89f7`）
 
-**[ここまでの 5 件（NG-034〜NG-055）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-034%E3%80%9CNG-055&cards=NG-034%2099651aa90e%0ANG-035%201340be52e3%0ANG-036%209207564073%0ANG-054%2055b748ec74%0ANG-055%206b586b89f7)**
+**[ここまでの 5 件（NG-034〜NG-055）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-034%E3%80%9CNG-055&cards=NG-034%2099651aa90e%0ANG-035%201340be52e3%0ANG-036%209207564073%0ANG-054%2055b748ec74%0ANG-055%206b586b89f7)**
 
 ---
 
@@ -524,7 +524,7 @@
 - よくある誤解：アコチアミドは機能性ディスペプシアのすべての症状に効く
 - 出典：アコファイド錠100mg（アコチアミド塩酸塩水和物）添付文書 2023年8月改訂（第3版）、ゼリア新薬工業　[リンク](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/380077_2399015F1020_1_09)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-257 (id: Jlvnl3Q)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-039&card_id=NG-039&version=339c7a6f6c)　（版 `339c7a6f6c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-039&card_id=NG-039&version=339c7a6f6c)　（版 `339c7a6f6c`）
 
 ### NG-040　下書き（出典の照合前）
 
@@ -534,7 +534,7 @@
 - よくある誤解：機能性ディスペプシアの診断に器質的疾患の除外は不要
 - 出典：アコファイド錠100mg（アコチアミド塩酸塩水和物）添付文書 2023年8月改訂（第3版）、ゼリア新薬工業　[リンク](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/380077_2399015F1020_1_09)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-040&card_id=NG-040&version=860817a143)　（版 `860817a143`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-040&card_id=NG-040&version=860817a143)　（版 `860817a143`）
 
 ### NG-041　下書き（出典の照合前）
 
@@ -545,7 +545,7 @@
 - 不確実性：添付文書の臨床成績の記載。原著論文と照合する
 - 出典：アコファイド錠100mg（アコチアミド塩酸塩水和物）添付文書 2023年8月改訂（第3版）、ゼリア新薬工業　[リンク](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/380077_2399015F1020_1_09)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-041&card_id=NG-041&version=65c55ef0b9)　（版 `65c55ef0b9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-041&card_id=NG-041&version=65c55ef0b9)　（版 `65c55ef0b9`）
 
 ### NG-042　下書き（出典の照合前）
 
@@ -556,7 +556,7 @@
 - よくある誤解：ラモセトロンは男女とも同じ用量で使う
 - 出典：イリボー錠2.5μg・5μg（ラモセトロン塩酸塩）添付文書 2021年3月改訂（第2版）、アステラス製薬　[リンク](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/800126_2399014F1026_1_15)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-042&card_id=NG-042&version=7cf26d11f4)　（版 `7cf26d11f4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-042&card_id=NG-042&version=7cf26d11f4)　（版 `7cf26d11f4`）
 
 ### NG-043　下書き（出典の照合前）
 
@@ -566,7 +566,7 @@
 - よくある誤解：下痢型IBS治療薬で便秘が起きても問題ない
 - 出典：イリボー錠2.5μg・5μg（ラモセトロン塩酸塩）添付文書 2021年3月改訂（第2版）、アステラス製薬　[リンク](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/800126_2399014F1026_1_15)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-043&card_id=NG-043&version=ad178f2209)　（版 `ad178f2209`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-043&card_id=NG-043&version=ad178f2209)　（版 `ad178f2209`）
 
 ### NG-044　下書き（出典の照合前）
 
@@ -576,7 +576,7 @@
 - よくある誤解：リナクロチドは食後に服用する
 - 出典：リンゼス錠0.25mg（リナクロチド）添付文書 2026年8月改訂（第3版）、アステラス製薬　[リンク](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/800126_2399017F1020_1_07)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-044&card_id=NG-044&version=b181971a9d)　（版 `b181971a9d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-044&card_id=NG-044&version=b181971a9d)　（版 `b181971a9d`）
 
 ### NG-045　下書き（出典の照合前）
 
@@ -586,7 +586,7 @@
 - よくある誤解：エロビキシバットは刺激性下剤である
 - 出典：グーフィス錠5mg（エロビキシバット水和物）添付文書 2022年4月改訂（第2版）、EAファーマ　[リンク](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/111890_2359008F1025_1_06)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-045&card_id=NG-045&version=9ae85d939f)　（版 `9ae85d939f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-045&card_id=NG-045&version=9ae85d939f)　（版 `9ae85d939f`）
 
 ### NG-046　下書き（出典の照合前）
 
@@ -597,7 +597,7 @@
 - よくある誤解：ナルデメジンはオピオイドの鎮痛効果も打ち消す
 - 出典：スインプロイク錠0.2mg（ナルデメジントシル酸塩）添付文書 2026年9月改訂（第3版）、塩野義製薬　[リンク](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/340018_2359007F1020_1_07)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-046&card_id=NG-046&version=4cb4ab529b)　（版 `4cb4ab529b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-046&card_id=NG-046&version=4cb4ab529b)　（版 `4cb4ab529b`）
 
 ### NG-047　下書き（出典の照合前）
 
@@ -608,9 +608,9 @@
 - よくある誤解：日本でもリファキシミンはIBSの保険適用がある
 - 出典：リフキシマ錠200mg（リファキシミン）添付文書 2024年3月改訂（第3版）、あすか製薬　[リンク](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/470007_6199001F1026_1_07)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-047&card_id=NG-047&version=045de0f4cc)　（版 `045de0f4cc`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-047&card_id=NG-047&version=045de0f4cc)　（版 `045de0f4cc`）
 
-**[ここまでの 9 件（NG-039〜NG-047）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-039%E3%80%9CNG-047&cards=NG-039%20339c7a6f6c%0ANG-040%20860817a143%0ANG-041%2065c55ef0b9%0ANG-042%207cf26d11f4%0ANG-043%20ad178f2209%0ANG-044%20b181971a9d%0ANG-045%209ae85d939f%0ANG-046%204cb4ab529b%0ANG-047%20045de0f4cc)**
+**[ここまでの 9 件（NG-039〜NG-047）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-039%E3%80%9CNG-047&cards=NG-039%20339c7a6f6c%0ANG-040%20860817a143%0ANG-041%2065c55ef0b9%0ANG-042%207cf26d11f4%0ANG-043%20ad178f2209%0ANG-044%20b181971a9d%0ANG-045%209ae85d939f%0ANG-046%204cb4ab529b%0ANG-047%20045de0f4cc)**
 
 ---
 
@@ -626,7 +626,7 @@
 - 不確実性：閾値は総説が引用した研究の値（二次資料経由）
 - 出典：Sawada A, Fujiwara Y. Belching Disorders and Rumination Syndrome: A Literature Review. Digestion 2024;105:18-25　[DOI 10.1159/000534092](https://doi.org/10.1159/000534092)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-048&card_id=NG-048&version=38519cecfc)　（版 `38519cecfc`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-048&card_id=NG-048&version=38519cecfc)　（版 `38519cecfc`）
 
 ### NG-049　下書き（出典の照合前）
 
@@ -637,7 +637,7 @@
 - 不確実性：総説が引用した研究の値（二次資料経由）
 - 出典：Sawada A, Fujiwara Y. Belching Disorders and Rumination Syndrome: A Literature Review. Digestion 2024;105:18-25　[DOI 10.1159/000534092](https://doi.org/10.1159/000534092)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-049&card_id=NG-049&version=c4c128df44)　（版 `c4c128df44`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-049&card_id=NG-049&version=c4c128df44)　（版 `c4c128df44`）
 
 ### NG-050　下書き（出典の照合前）
 
@@ -649,7 +649,7 @@
 - 不確実性：閾値は総説が引用した研究の値（二次資料経由）
 - 出典：Sawada A, Fujiwara Y. Belching Disorders and Rumination Syndrome: A Literature Review. Digestion 2024;105:18-25　[DOI 10.1159/000534092](https://doi.org/10.1159/000534092)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-050&card_id=NG-050&version=b9bfe6ab27)　（版 `b9bfe6ab27`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-050&card_id=NG-050&version=b9bfe6ab27)　（版 `b9bfe6ab27`）
 
 ### NG-051　下書き（出典の照合前）
 
@@ -660,7 +660,7 @@
 - 不確実性：数値は総説が引用した研究の値（二次資料経由）
 - 出典：Sawada A, Fujiwara Y. Belching Disorders and Rumination Syndrome: A Literature Review. Digestion 2024;105:18-25　[DOI 10.1159/000534092](https://doi.org/10.1159/000534092)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-051&card_id=NG-051&version=f3ec35f524)　（版 `f3ec35f524`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-051&card_id=NG-051&version=f3ec35f524)　（版 `f3ec35f524`）
 
 ### NG-068　下書き（出典の照合前）
 
@@ -671,9 +671,9 @@
 - よくある誤解：反芻症候群にはPPIが有効である
 - 出典：Stanghellini V, et al. Gastroduodenal Disorders. Gastroenterology 2016;150:1380-1392　[DOI 10.1053/j.gastro.2016.02.011](https://doi.org/10.1053/j.gastro.2016.02.011)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-068&card_id=NG-068&version=b248696b53)　（版 `b248696b53`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-068&card_id=NG-068&version=b248696b53)　（版 `b248696b53`）
 
-**[ここまでの 5 件（NG-048〜NG-068）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-048%E3%80%9CNG-068&cards=NG-048%2038519cecfc%0ANG-049%20c4c128df44%0ANG-050%20b9bfe6ab27%0ANG-051%20f3ec35f524%0ANG-068%20b248696b53)**
+**[ここまでの 5 件（NG-048〜NG-068）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-048%E3%80%9CNG-068&cards=NG-048%2038519cecfc%0ANG-049%20c4c128df44%0ANG-050%20b9bfe6ab27%0ANG-051%20f3ec35f524%0ANG-068%20b248696b53)**
 
 ---
 
@@ -687,7 +687,7 @@
 - よくある誤解：直腸肛門機能は直腸診だけで評価できる
 - 出典：Carrington EV, et al. The international anorectal physiology working group (IAPWG) recommendations: Standardized testing protocol and the London classification for disorders of anorectal function. Neurogastroenterol Motil 2020;32:e13679　[DOI 10.1111/nmo.13679](https://doi.org/10.1111/nmo.13679)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-011 (id: JlAKpj4)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-052&card_id=NG-052&version=438860739a)　（版 `438860739a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-052&card_id=NG-052&version=438860739a)　（版 `438860739a`）
 
 ### NG-053　下書き（出典の照合前）
 
@@ -697,9 +697,9 @@
 - よくある誤解：直腸肛門の機能障害は1つの病名にまとめられる
 - 出典：Carrington EV, et al. The international anorectal physiology working group (IAPWG) recommendations: Standardized testing protocol and the London classification for disorders of anorectal function. Neurogastroenterol Motil 2020;32:e13679　[DOI 10.1111/nmo.13679](https://doi.org/10.1111/nmo.13679)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-011 (id: JlAKpj4)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-053&card_id=NG-053&version=6ac4833bbc)　（版 `6ac4833bbc`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-053&card_id=NG-053&version=6ac4833bbc)　（版 `6ac4833bbc`）
 
-**[ここまでの 2 件（NG-052〜NG-053）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-052%E3%80%9CNG-053&cards=NG-052%20438860739a%0ANG-053%206ac4833bbc)**
+**[ここまでの 2 件（NG-052〜NG-053）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-052%E3%80%9CNG-053&cards=NG-052%20438860739a%0ANG-053%206ac4833bbc)**
 
 ---
 
@@ -714,7 +714,7 @@
 - 不確実性：単施設の研究。便秘は運動症状に先行しうるとする記載は他研究の引用
 - 出典：Frazzitta G, et al. Severe Constipation in Parkinson's Disease and in Parkinsonisms: Prevalence and Affecting Factors. Front Neurol 2019;10:621　[DOI 10.3389/fneur.2019.00621](https://doi.org/10.3389/fneur.2019.00621)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-02-07-005 (id: JlAKpjg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-056&card_id=NG-056&version=d6533b2c20)　（版 `d6533b2c20`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-056&card_id=NG-056&version=d6533b2c20)　（版 `d6533b2c20`）
 
 ### NG-057　下書き（出典の照合前）
 
@@ -724,9 +724,9 @@
 - よくある誤解：パーキンソン病の便秘は抗パーキンソン病薬だけが原因である
 - 出典：Frazzitta G, et al. Severe Constipation in Parkinson's Disease and in Parkinsonisms: Prevalence and Affecting Factors. Front Neurol 2019;10:621　[DOI 10.3389/fneur.2019.00621](https://doi.org/10.3389/fneur.2019.00621)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-057&card_id=NG-057&version=7e59df53cb)　（版 `7e59df53cb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-057&card_id=NG-057&version=7e59df53cb)　（版 `7e59df53cb`）
 
-**[ここまでの 2 件（NG-056〜NG-057）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-056%E3%80%9CNG-057&cards=NG-056%20d6533b2c20%0ANG-057%207e59df53cb)**
+**[ここまでの 2 件（NG-056〜NG-057）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-056%E3%80%9CNG-057&cards=NG-056%20d6533b2c20%0ANG-057%207e59df53cb)**
 
 ---
 
@@ -741,7 +741,7 @@
 - よくある誤解：内視鏡で異常がなければ食道の症状は気のせいである
 - 出典：Aziz Q, et al. Functional Esophageal Disorders. Gastroenterology 2016;150:1368-1379　[DOI 10.1053/j.gastro.2016.02.012](https://doi.org/10.1053/j.gastro.2016.02.012)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-058&card_id=NG-058&version=72070977fa)　（版 `72070977fa`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-058&card_id=NG-058&version=72070977fa)　（版 `72070977fa`）
 
 ### NG-059　下書き（出典の照合前）
 
@@ -753,7 +753,7 @@
 - 不確実性：数値はRome IVの章が引用した研究の値（二次資料経由）
 - 出典：Aziz Q, et al. Functional Esophageal Disorders. Gastroenterology 2016;150:1368-1379　[DOI 10.1053/j.gastro.2016.02.012](https://doi.org/10.1053/j.gastro.2016.02.012)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-059&card_id=NG-059&version=5931b4e2fe)　（版 `5931b4e2fe`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-059&card_id=NG-059&version=5931b4e2fe)　（版 `5931b4e2fe`）
 
 ### NG-060　下書き（出典の照合前）
 
@@ -765,7 +765,7 @@
 - 不確実性：割合はRome IVの章が引用した研究の値（二次資料経由）
 - 出典：Aziz Q, et al. Functional Esophageal Disorders. Gastroenterology 2016;150:1368-1379　[DOI 10.1053/j.gastro.2016.02.012](https://doi.org/10.1053/j.gastro.2016.02.012)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-060&card_id=NG-060&version=4972303292)　（版 `4972303292`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-060&card_id=NG-060&version=4972303292)　（版 `4972303292`）
 
 ### NG-061　下書き（出典の照合前）
 
@@ -777,7 +777,7 @@
 - 不確実性：内訳はRome IVの章が引用した研究の値（二次資料経由）。逆流過敏症をGERDの一部とみなす意見もある
 - 出典：Aziz Q, et al. Functional Esophageal Disorders. Gastroenterology 2016;150:1368-1379　[DOI 10.1053/j.gastro.2016.02.012](https://doi.org/10.1053/j.gastro.2016.02.012)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-061&card_id=NG-061&version=21a2f2f5d9)　（版 `21a2f2f5d9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-061&card_id=NG-061&version=21a2f2f5d9)　（版 `21a2f2f5d9`）
 
 ### NG-062　下書き（出典の照合前）
 
@@ -789,7 +789,7 @@
 - 不確実性：数値はRome IVの章が引用した研究の値（二次資料経由）
 - 出典：Aziz Q, et al. Functional Esophageal Disorders. Gastroenterology 2016;150:1368-1379　[DOI 10.1053/j.gastro.2016.02.012](https://doi.org/10.1053/j.gastro.2016.02.012)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-062&card_id=NG-062&version=15bae60313)　（版 `15bae60313`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-062&card_id=NG-062&version=15bae60313)　（版 `15bae60313`）
 
 ### NG-063　下書き（出典の照合前）
 
@@ -801,9 +801,9 @@
 - 不確実性：Rome IVの章が引用した研究の値（二次資料経由）
 - 出典：Aziz Q, et al. Functional Esophageal Disorders. Gastroenterology 2016;150:1368-1379　[DOI 10.1053/j.gastro.2016.02.012](https://doi.org/10.1053/j.gastro.2016.02.012)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-063&card_id=NG-063&version=19b7fe220e)　（版 `19b7fe220e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-063&card_id=NG-063&version=19b7fe220e)　（版 `19b7fe220e`）
 
-**[ここまでの 6 件（NG-058〜NG-063）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-058%E3%80%9CNG-063&cards=NG-058%2072070977fa%0ANG-059%205931b4e2fe%0ANG-060%204972303292%0ANG-061%2021a2f2f5d9%0ANG-062%2015bae60313%0ANG-063%2019b7fe220e)**
+**[ここまでの 6 件（NG-058〜NG-063）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-058%E3%80%9CNG-063&cards=NG-058%2072070977fa%0ANG-059%205931b4e2fe%0ANG-060%204972303292%0ANG-061%2021a2f2f5d9%0ANG-062%2015bae60313%0ANG-063%2019b7fe220e)**
 
 ---
 
@@ -819,9 +819,9 @@
 - 不確実性：数値はRome IVの章が引用した研究の値（二次資料経由）
 - 出典：Stanghellini V, et al. Gastroduodenal Disorders. Gastroenterology 2016;150:1380-1392　[DOI 10.1053/j.gastro.2016.02.011](https://doi.org/10.1053/j.gastro.2016.02.011)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-064&card_id=NG-064&version=61d5adc98c)　（版 `61d5adc98c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-064&card_id=NG-064&version=61d5adc98c)　（版 `61d5adc98c`）
 
-**[ここまでの 1 件（NG-064）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-064&cards=NG-064%2061d5adc98c)**
+**[ここまでの 1 件（NG-064）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-064&cards=NG-064%2061d5adc98c)**
 
 ---
 
@@ -837,9 +837,9 @@
 - 不確実性：頻度はRome IVの章が引用した研究の値（二次資料経由）
 - 出典：Stanghellini V, et al. Gastroduodenal Disorders. Gastroenterology 2016;150:1380-1392　[DOI 10.1053/j.gastro.2016.02.011](https://doi.org/10.1053/j.gastro.2016.02.011)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-065&card_id=NG-065&version=584d2c856d)　（版 `584d2c856d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-065&card_id=NG-065&version=584d2c856d)　（版 `584d2c856d`）
 
-**[ここまでの 1 件（NG-065）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-065&cards=NG-065%20584d2c856d)**
+**[ここまでの 1 件（NG-065）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-065&cards=NG-065%20584d2c856d)**
 
 ---
 
@@ -853,7 +853,7 @@
 - よくある誤解：機能性腸疾患の病名は互いに独立して重ならない
 - 出典：Lacy BE, et al. Bowel Disorders. Gastroenterology 2016;150:1393-1407　[DOI 10.1053/j.gastro.2016.02.031](https://doi.org/10.1053/j.gastro.2016.02.031)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-069&card_id=NG-069&version=a810ebdee6)　（版 `a810ebdee6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-069&card_id=NG-069&version=a810ebdee6)　（版 `a810ebdee6`）
 
 ### NG-070　下書き（出典の照合前）
 
@@ -863,7 +863,7 @@
 - よくある誤解：IBSの診断には大腸内視鏡で異常がないことだけで十分
 - 出典：Lacy BE, et al. Bowel Disorders. Gastroenterology 2016;150:1393-1407　[DOI 10.1053/j.gastro.2016.02.031](https://doi.org/10.1053/j.gastro.2016.02.031)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-070&card_id=NG-070&version=933a5d9bef)　（版 `933a5d9bef`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-070&card_id=NG-070&version=933a5d9bef)　（版 `933a5d9bef`）
 
 ### NG-071　下書き（出典の照合前）
 
@@ -875,7 +875,7 @@
 - 不確実性：有病率はRome IVの章が引用した値（二次資料経由）
 - 出典：Lacy BE, et al. Bowel Disorders. Gastroenterology 2016;150:1393-1407　[DOI 10.1053/j.gastro.2016.02.031](https://doi.org/10.1053/j.gastro.2016.02.031)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-071&card_id=NG-071&version=a0564477d3)　（版 `a0564477d3`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-071&card_id=NG-071&version=a0564477d3)　（版 `a0564477d3`）
 
 ### NG-072　下書き（出典の照合前）
 
@@ -886,7 +886,7 @@
 - 不確実性：数値はRome IVの章が引用した研究の値（二次資料経由）
 - 出典：Lacy BE, et al. Bowel Disorders. Gastroenterology 2016;150:1393-1407　[DOI 10.1053/j.gastro.2016.02.031](https://doi.org/10.1053/j.gastro.2016.02.031)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-024 (id: JlAKpko)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-072&card_id=NG-072&version=9cf811ca37)　（版 `9cf811ca37`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-072&card_id=NG-072&version=9cf811ca37)　（版 `9cf811ca37`）
 
 ### NG-073　下書き（出典の照合前）
 
@@ -898,9 +898,9 @@
 - 不確実性：頻度はRome IVの章が引用したシステマティックレビューの値（二次資料経由）
 - 出典：Lacy BE, et al. Bowel Disorders. Gastroenterology 2016;150:1393-1407　[DOI 10.1053/j.gastro.2016.02.031](https://doi.org/10.1053/j.gastro.2016.02.031)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-073&card_id=NG-073&version=483bd9ab40)　（版 `483bd9ab40`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-073&card_id=NG-073&version=483bd9ab40)　（版 `483bd9ab40`）
 
-**[ここまでの 5 件（NG-069〜NG-073）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-069%E3%80%9CNG-073&cards=NG-069%20a810ebdee6%0ANG-070%20933a5d9bef%0ANG-071%20a0564477d3%0ANG-072%209cf811ca37%0ANG-073%20483bd9ab40)**
+**[ここまでの 5 件（NG-069〜NG-073）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-069%E3%80%9CNG-073&cards=NG-069%20a810ebdee6%0ANG-070%20933a5d9bef%0ANG-071%20a0564477d3%0ANG-072%209cf811ca37%0ANG-073%20483bd9ab40)**
 
 ---
 
@@ -916,7 +916,7 @@
 - 不確実性：有病率はRome IVの章が引用した値（二次資料経由）
 - 出典：Keefer L, et al. Centrally Mediated Disorders of Gastrointestinal Pain. Gastroenterology 2016;150:1408-1419　[DOI 10.1053/j.gastro.2016.02.034](https://doi.org/10.1053/j.gastro.2016.02.034)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-074&card_id=NG-074&version=f07ca458ee)　（版 `f07ca458ee`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-074&card_id=NG-074&version=f07ca458ee)　（版 `f07ca458ee`）
 
 ### NG-075　下書き（出典の照合前）
 
@@ -927,7 +927,7 @@
 - よくある誤解：オピオイドで改善しない腹痛にはさらに増量すべき
 - 出典：Keefer L, et al. Centrally Mediated Disorders of Gastrointestinal Pain. Gastroenterology 2016;150:1408-1419　[DOI 10.1053/j.gastro.2016.02.034](https://doi.org/10.1053/j.gastro.2016.02.034)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-075&card_id=NG-075&version=99d57dfb5c)　（版 `99d57dfb5c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-075&card_id=NG-075&version=99d57dfb5c)　（版 `99d57dfb5c`）
 
 ### NG-076　下書き（出典の照合前）
 
@@ -938,9 +938,9 @@
 - 不確実性：数値はRome IVの章が引用した研究の値（二次資料経由）
 - 出典：Keefer L, et al. Centrally Mediated Disorders of Gastrointestinal Pain. Gastroenterology 2016;150:1408-1419　[DOI 10.1053/j.gastro.2016.02.034](https://doi.org/10.1053/j.gastro.2016.02.034)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-076&card_id=NG-076&version=26d7dbe061)　（版 `26d7dbe061`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-076&card_id=NG-076&version=26d7dbe061)　（版 `26d7dbe061`）
 
-**[ここまでの 3 件（NG-074〜NG-076）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-074%E3%80%9CNG-076&cards=NG-074%20f07ca458ee%0ANG-075%2099d57dfb5c%0ANG-076%2026d7dbe061)**
+**[ここまでの 3 件（NG-074〜NG-076）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-074%E3%80%9CNG-076&cards=NG-074%20f07ca458ee%0ANG-075%2099d57dfb5c%0ANG-076%2026d7dbe061)**
 
 ---
 
@@ -956,7 +956,7 @@
 - 不確実性：有病率はRome IVの章が引用した研究の値（二次資料経由）
 - 出典：Rao SSC, et al. Anorectal Disorders. Gastroenterology 2016;150:1430-1442　[DOI 10.1053/j.gastro.2016.02.009](https://doi.org/10.1053/j.gastro.2016.02.009)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-077&card_id=NG-077&version=a6961d3e13)　（版 `a6961d3e13`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-077&card_id=NG-077&version=a6961d3e13)　（版 `a6961d3e13`）
 
 ### NG-078　下書き（出典の照合前）
 
@@ -967,7 +967,7 @@
 - よくある誤解：排便困難は下剤を増やせば解決する
 - 出典：Rao SSC, et al. Anorectal Disorders. Gastroenterology 2016;150:1430-1442　[DOI 10.1053/j.gastro.2016.02.009](https://doi.org/10.1053/j.gastro.2016.02.009)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-011 (id: JlAKpj4)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-078&card_id=NG-078&version=263912af40)　（版 `263912af40`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-078&card_id=NG-078&version=263912af40)　（版 `263912af40`）
 
 ### NG-079　下書き（出典の照合前）
 
@@ -978,9 +978,9 @@
 - 不確実性：Rome IVの章が引用したRCTの値（二次資料経由）
 - 出典：Rao SSC, et al. Anorectal Disorders. Gastroenterology 2016;150:1430-1442　[DOI 10.1053/j.gastro.2016.02.009](https://doi.org/10.1053/j.gastro.2016.02.009)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-079&card_id=NG-079&version=3d75750d93)　（版 `3d75750d93`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-079&card_id=NG-079&version=3d75750d93)　（版 `3d75750d93`）
 
-**[ここまでの 3 件（NG-077〜NG-079）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-077%E3%80%9CNG-079&cards=NG-077%20a6961d3e13%0ANG-078%20263912af40%0ANG-079%203d75750d93)**
+**[ここまでの 3 件（NG-077〜NG-079）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-077%E3%80%9CNG-079&cards=NG-077%20a6961d3e13%0ANG-078%20263912af40%0ANG-079%203d75750d93)**
 
 ---
 
@@ -996,7 +996,7 @@
 - 不確実性：数値はRome IVの章が引用した研究の値（二次資料経由）
 - 出典：Benninga MA, et al. Childhood Functional Gastrointestinal Disorders: Neonate/Toddler. Gastroenterology 2016;150:1443-1455　[DOI 10.1053/j.gastro.2016.02.016](https://doi.org/10.1053/j.gastro.2016.02.016)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-080&card_id=NG-080&version=d853e9bf8b)　（版 `d853e9bf8b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-080&card_id=NG-080&version=d853e9bf8b)　（版 `d853e9bf8b`）
 
 ### NG-081　下書き（出典の照合前）
 
@@ -1007,7 +1007,7 @@
 - 不確実性：頻度はRome IVの章が引用した値（二次資料経由）
 - 出典：Benninga MA, et al. Childhood Functional Gastrointestinal Disorders: Neonate/Toddler. Gastroenterology 2016;150:1443-1455　[DOI 10.1053/j.gastro.2016.02.016](https://doi.org/10.1053/j.gastro.2016.02.016)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-081&card_id=NG-081&version=7c1fb7ad89)　（版 `7c1fb7ad89`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-081&card_id=NG-081&version=7c1fb7ad89)　（版 `7c1fb7ad89`）
 
 ### NG-082　下書き（出典の照合前）
 
@@ -1018,7 +1018,7 @@
 - 不確実性：有病率はRome IVの章が引用した値（二次資料経由）。日本の小児慢性機能性便秘症診療GLは今回未参照
 - 出典：Benninga MA, et al. Childhood Functional Gastrointestinal Disorders: Neonate/Toddler. Gastroenterology 2016;150:1443-1455　[DOI 10.1053/j.gastro.2016.02.016](https://doi.org/10.1053/j.gastro.2016.02.016)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-082&card_id=NG-082&version=f1061452a8)　（版 `f1061452a8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-082&card_id=NG-082&version=f1061452a8)　（版 `f1061452a8`）
 
 ### NG-083　下書き（出典の照合前）
 
@@ -1030,7 +1030,7 @@
 - 不確実性：有病率はRome IVの章が引用した値（二次資料経由）
 - 出典：Hyams JS, et al. Childhood Functional Gastrointestinal Disorders: Child/Adolescent. Gastroenterology 2016;150:1456-1468　[DOI 10.1053/j.gastro.2016.02.015](https://doi.org/10.1053/j.gastro.2016.02.015)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-083&card_id=NG-083&version=bf44aee9cb)　（版 `bf44aee9cb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-083&card_id=NG-083&version=bf44aee9cb)　（版 `bf44aee9cb`）
 
 ### NG-084　下書き（出典の照合前）
 
@@ -1041,7 +1041,7 @@
 - 不確実性：有病率はRome IVの章が引用した値（二次資料経由）
 - 出典：Hyams JS, et al. Childhood Functional Gastrointestinal Disorders: Child/Adolescent. Gastroenterology 2016;150:1456-1468　[DOI 10.1053/j.gastro.2016.02.015](https://doi.org/10.1053/j.gastro.2016.02.015)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-084&card_id=NG-084&version=f71ab0b63b)　（版 `f71ab0b63b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-084&card_id=NG-084&version=f71ab0b63b)　（版 `f71ab0b63b`）
 
 ### NG-085　下書き（出典の照合前）
 
@@ -1052,9 +1052,9 @@
 - 不確実性：数値はRome IVの章が引用した研究の値（二次資料経由）
 - 出典：Hyams JS, et al. Childhood Functional Gastrointestinal Disorders: Child/Adolescent. Gastroenterology 2016;150:1456-1468　[DOI 10.1053/j.gastro.2016.02.015](https://doi.org/10.1053/j.gastro.2016.02.015)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-085&card_id=NG-085&version=7337829d01)　（版 `7337829d01`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-085&card_id=NG-085&version=7337829d01)　（版 `7337829d01`）
 
-**[ここまでの 6 件（NG-080〜NG-085）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-080%E3%80%9CNG-085&cards=NG-080%20d853e9bf8b%0ANG-081%207c1fb7ad89%0ANG-082%20f1061452a8%0ANG-083%20bf44aee9cb%0ANG-084%20f71ab0b63b%0ANG-085%207337829d01)**
+**[ここまでの 6 件（NG-080〜NG-085）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-080%E3%80%9CNG-085&cards=NG-080%20d853e9bf8b%0ANG-081%207c1fb7ad89%0ANG-082%20f1061452a8%0ANG-083%20bf44aee9cb%0ANG-084%20f71ab0b63b%0ANG-085%207337829d01)**
 
 ---
 
@@ -1068,7 +1068,7 @@
 - よくある誤解：ストレスと腸の症状は無関係である
 - 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-005 (id: JlAKpjg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-086&card_id=NG-086&version=309d8662a4)　（版 `309d8662a4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-086&card_id=NG-086&version=309d8662a4)　（版 `309d8662a4`）
 
 ### NG-087　下書き（出典の照合前）
 
@@ -1079,7 +1079,7 @@
 - よくある誤解：IBSの腸粘膜は完全に正常である
 - 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-087&card_id=NG-087&version=20f113d6a9)　（版 `20f113d6a9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-087&card_id=NG-087&version=20f113d6a9)　（版 `20f113d6a9`）
 
 ### NG-088　下書き（出典の照合前）
 
@@ -1090,7 +1090,7 @@
 - 不確実性：GLが引用したメタ解析の所見（二次資料経由）
 - 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-005 (id: JlAKpjg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-088&card_id=NG-088&version=edcc185b70)　（版 `edcc185b70`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-088&card_id=NG-088&version=edcc185b70)　（版 `edcc185b70`）
 
 ### NG-089　下書き（出典の照合前）
 
@@ -1101,9 +1101,9 @@
 - 不確実性：GLが引用した研究の値（二次資料経由）
 - 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-089&card_id=NG-089&version=19e3213bc7)　（版 `19e3213bc7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-089&card_id=NG-089&version=19e3213bc7)　（版 `19e3213bc7`）
 
-**[ここまでの 4 件（NG-086〜NG-089）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-086%E3%80%9CNG-089&cards=NG-086%20309d8662a4%0ANG-087%2020f113d6a9%0ANG-088%20edcc185b70%0ANG-089%2019e3213bc7)**
+**[ここまでの 4 件（NG-086〜NG-089）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-086%E3%80%9CNG-089&cards=NG-086%20309d8662a4%0ANG-087%2020f113d6a9%0ANG-088%20edcc185b70%0ANG-089%2019e3213bc7)**
 
 ---
 
@@ -1118,7 +1118,7 @@
 - よくある誤解：プロバイオティクスはIBSに無効とされている
 - 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-090&card_id=NG-090&version=44f259fa1f)　（版 `44f259fa1f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-090&card_id=NG-090&version=44f259fa1f)　（版 `44f259fa1f`）
 
 ### NG-091　下書き（出典の照合前）
 
@@ -1129,7 +1129,7 @@
 - よくある誤解：下痢型IBSの治療は止痢薬が第一選択である
 - 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-091&card_id=NG-091&version=361b619bd9)　（版 `361b619bd9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-091&card_id=NG-091&version=361b619bd9)　（版 `361b619bd9`）
 
 ### NG-092　下書き（出典の照合前）
 
@@ -1139,7 +1139,7 @@
 - よくある誤解：便秘型IBSには刺激性下剤を毎日使う
 - 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-092&card_id=NG-092&version=456711b25d)　（版 `456711b25d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-092&card_id=NG-092&version=456711b25d)　（版 `456711b25d`）
 
 ### NG-093　下書き（出典の照合前）
 
@@ -1149,7 +1149,7 @@
 - よくある誤解：IBSに抗うつ薬を使うのはうつ病を合併した場合だけ
 - 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-093&card_id=NG-093&version=a72cf6a971)　（版 `a72cf6a971`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-093&card_id=NG-093&version=a72cf6a971)　（版 `a72cf6a971`）
 
 ### NG-094　下書き（出典の照合前）
 
@@ -1160,7 +1160,7 @@
 - 不確実性：NNTはGLが引用したメタ解析の値（二次資料経由）
 - 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-094&card_id=NG-094&version=d5df8da5c0)　（版 `d5df8da5c0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-094&card_id=NG-094&version=d5df8da5c0)　（版 `d5df8da5c0`）
 
 ### NG-095　下書き（出典の照合前）
 
@@ -1171,7 +1171,7 @@
 - 不確実性：RCTの数値はGLが引用した値（二次資料経由）
 - 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-095&card_id=NG-095&version=3bd25bc0ec)　（版 `3bd25bc0ec`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-095&card_id=NG-095&version=3bd25bc0ec)　（版 `3bd25bc0ec`）
 
 ### NG-096　下書き（出典の照合前）
 
@@ -1182,7 +1182,7 @@
 - よくある誤解：ガイドラインで提案されていれば保険診療で使える
 - 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-096&card_id=NG-096&version=0badde0553)　（版 `0badde0553`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-096&card_id=NG-096&version=0badde0553)　（版 `0badde0553`）
 
 ### NG-097　下書き（出典の照合前）
 
@@ -1194,7 +1194,7 @@
 - 不確実性：抗アレルギー薬の具体的な薬剤名と保険適用は本文で確認する
 - 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-097&card_id=NG-097&version=67b4641d4f)　（版 `67b4641d4f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-097&card_id=NG-097&version=67b4641d4f)　（版 `67b4641d4f`）
 
 ### NG-098　下書き（出典の照合前）
 
@@ -1204,9 +1204,9 @@
 - よくある誤解：IBSは命にかかわらないので放置してよい
 - 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-098&card_id=NG-098&version=53194a8329)　（版 `53194a8329`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-098&card_id=NG-098&version=53194a8329)　（版 `53194a8329`）
 
-**[ここまでの 9 件（NG-090〜NG-098）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-090%E3%80%9CNG-098&cards=NG-090%2044f259fa1f%0ANG-091%20361b619bd9%0ANG-092%20456711b25d%0ANG-093%20a72cf6a971%0ANG-094%20d5df8da5c0%0ANG-095%203bd25bc0ec%0ANG-096%200badde0553%0ANG-097%2067b4641d4f%0ANG-098%2053194a8329)**
+**[ここまでの 9 件（NG-090〜NG-098）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-090%E3%80%9CNG-098&cards=NG-090%2044f259fa1f%0ANG-091%20361b619bd9%0ANG-092%20456711b25d%0ANG-093%20a72cf6a971%0ANG-094%20d5df8da5c0%0ANG-095%203bd25bc0ec%0ANG-096%200badde0553%0ANG-097%2067b4641d4f%0ANG-098%2053194a8329)**
 
 ---
 
@@ -1221,7 +1221,7 @@
 - 不確実性：刊行版（第4刷）のBQ2-2（16頁）、BQ3-4（34頁）で文言・推奨度を照合済み（2026-10-18）
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性便秘症』南江堂、2023（第1刷 2023年7月13日、第4刷 2024年8月25日）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-099&card_id=NG-099&version=1f113f91d3)　（版 `1f113f91d3`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-099&card_id=NG-099&version=1f113f91d3)　（版 `1f113f91d3`）
 
 ### NG-100　下書き（出典の照合前）
 
@@ -1232,7 +1232,7 @@
 - 不確実性：刊行版（第4刷）のBQ2-3（18頁）、BQ2-4（20頁）で文言・推奨度を照合済み（2026-10-18）
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性便秘症』南江堂、2023（第1刷 2023年7月13日、第4刷 2024年8月25日）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-100&card_id=NG-100&version=9d0375a98c)　（版 `9d0375a98c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-100&card_id=NG-100&version=9d0375a98c)　（版 `9d0375a98c`）
 
 ### NG-101　下書き（出典の照合前）
 
@@ -1244,7 +1244,7 @@
 - 不確実性：刊行版（第4刷）のCQ4-1（55頁）、BQ4-3（53頁）で文言・推奨度を照合済み（2026-10-18）
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性便秘症』南江堂、2023（第1刷 2023年7月13日、第4刷 2024年8月25日）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-101&card_id=NG-101&version=a84cc887fe)　（版 `a84cc887fe`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-101&card_id=NG-101&version=a84cc887fe)　（版 `a84cc887fe`）
 
 ### NG-102　下書き（出典の照合前）
 
@@ -1256,7 +1256,7 @@
 - 不確実性：刊行版（第4刷）のCQ4-2（56頁）、CQ4-3（58頁、強い推奨・合意率74%・B）、CQ4-4（60頁）、BQ4-4（62頁）、BQ4-5（65頁）で文言・推奨度を照合済み（2026-10-18）。Rome V の腸疾患の章は、大腸通過時間検査を排便障害を除外した後の治療抵抗例で考慮するとしている（NG-141）
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性便秘症』南江堂、2023（第1刷 2023年7月13日、第4刷 2024年8月25日）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-102&card_id=NG-102&version=2a2639fa3b)　（版 `2a2639fa3b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-102&card_id=NG-102&version=2a2639fa3b)　（版 `2a2639fa3b`）
 
 ### NG-103　下書き（出典の照合前）
 
@@ -1267,7 +1267,7 @@
 - 不確実性：刊行版（第4刷）のCQ5-1（77頁、強い推奨・合意率100%・A）、BQ5-5（81頁）で文言・推奨度を照合済み（2026-10-18）
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性便秘症』南江堂、2023（第1刷 2023年7月13日、第4刷 2024年8月25日）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-103&card_id=NG-103&version=a5eab63388)　（版 `a5eab63388`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-103&card_id=NG-103&version=a5eab63388)　（版 `a5eab63388`）
 
 ### NG-104　下書き（出典の照合前）
 
@@ -1278,7 +1278,7 @@
 - 不確実性：刊行版（第4刷）のBQ5-7（95頁）で文言・推奨度を照合済み（2026-10-18）
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性便秘症』南江堂、2023（第1刷 2023年7月13日、第4刷 2024年8月25日）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-104&card_id=NG-104&version=2b78050fe1)　（版 `2b78050fe1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-104&card_id=NG-104&version=2b78050fe1)　（版 `2b78050fe1`）
 
 ### NG-105　下書き（出典の照合前）
 
@@ -1290,7 +1290,7 @@
 - 不確実性：刊行版（第4刷）のCQ5-4（101頁、推奨なし・C）で文言・推奨度を照合済み（2026-10-18）
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性便秘症』南江堂、2023（第1刷 2023年7月13日、第4刷 2024年8月25日）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-105&card_id=NG-105&version=ae060655aa)　（版 `ae060655aa`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-105&card_id=NG-105&version=ae060655aa)　（版 `ae060655aa`）
 
 ### NG-106　下書き（出典の照合前）
 
@@ -1301,7 +1301,7 @@
 - 不確実性：刊行版（第4刷）のBQ5-10（105頁）、BQ5-12（108頁）、CQ5-5（112頁、強い推奨・合意率73%・B）で文言・推奨度を照合済み（2026-10-18）
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性便秘症』南江堂、2023（第1刷 2023年7月13日、第4刷 2024年8月25日）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-106&card_id=NG-106&version=7bdf4e5b44)　（版 `7bdf4e5b44`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-106&card_id=NG-106&version=7bdf4e5b44)　（版 `7bdf4e5b44`）
 
 ### NG-107　下書き（出典の照合前）
 
@@ -1312,7 +1312,7 @@
 - 不確実性：刊行版（第4刷）のFRQ1-1（10頁）、CQ5-6（114頁、強い推奨・合意率73%・B）で文言・推奨度を照合済み（2026-10-18）
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性便秘症』南江堂、2023（第1刷 2023年7月13日、第4刷 2024年8月25日）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-107&card_id=NG-107&version=11494ab2a6)　（版 `11494ab2a6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-107&card_id=NG-107&version=11494ab2a6)　（版 `11494ab2a6`）
 
 ### NG-108　下書き（出典の照合前）
 
@@ -1323,9 +1323,9 @@
 - 不確実性：刊行版（第4刷）のBQ3-6（39頁）、CQ3-3（41頁）、CQ3-4（46頁）で文言・推奨度を照合済み（2026-10-18）
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性便秘症』南江堂、2023（第1刷 2023年7月13日、第4刷 2024年8月25日）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-108&card_id=NG-108&version=0578d63765)　（版 `0578d63765`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-108&card_id=NG-108&version=0578d63765)　（版 `0578d63765`）
 
-**[ここまでの 10 件（NG-099〜NG-108）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-099%E3%80%9CNG-108&cards=NG-099%201f113f91d3%0ANG-100%209d0375a98c%0ANG-101%20a84cc887fe%0ANG-102%202a2639fa3b%0ANG-103%20a5eab63388%0ANG-104%202b78050fe1%0ANG-105%20ae060655aa%0ANG-106%207bdf4e5b44%0ANG-107%2011494ab2a6%0ANG-108%200578d63765)**
+**[ここまでの 10 件（NG-099〜NG-108）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-099%E3%80%9CNG-108&cards=NG-099%201f113f91d3%0ANG-100%209d0375a98c%0ANG-101%20a84cc887fe%0ANG-102%202a2639fa3b%0ANG-103%20a5eab63388%0ANG-104%202b78050fe1%0ANG-105%20ae060655aa%0ANG-106%207bdf4e5b44%0ANG-107%2011494ab2a6%0ANG-108%200578d63765)**
 
 ---
 
@@ -1341,9 +1341,9 @@
 - 不確実性：総説が引用した値（二次資料経由）。総説自身が、検証された診断閾値ではないとしている
 - 出典：Chen JW, Rubenstein JH. Esophagogastric junction distensibility assessed using the functional lumen imaging probe. World J Gastroenterol 2017;23:1289-1297　[DOI 10.3748/wjg.v23.i7.1289](https://doi.org/10.3748/wjg.v23.i7.1289)　[PMID 28275309](https://pubmed.ncbi.nlm.nih.gov/28275309/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-109&card_id=NG-109&version=d5a3ecdbf0)　（版 `d5a3ecdbf0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-109&card_id=NG-109&version=d5a3ecdbf0)　（版 `d5a3ecdbf0`）
 
-**[ここまでの 1 件（NG-109）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-109&cards=NG-109%20d5a3ecdbf0)**
+**[ここまでの 1 件（NG-109）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-109&cards=NG-109%20d5a3ecdbf0)**
 
 ---
 
@@ -1359,7 +1359,7 @@
 - 不確実性：出版日（2026年6月1日の出荷）は Rome Foundation の製品ページの記載
 - 出典：Rome Foundation『Rome V: A Global Framework for Disorders of Gut–Brain Interaction』（製品・概要ページ）　[リンク](https://theromefoundation.org/rome-v-a-global-framework-for-disorders-of-gut-brain-interaction/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-110&card_id=NG-110&version=54f469007f)　（版 `54f469007f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-110&card_id=NG-110&version=54f469007f)　（版 `54f469007f`）
 
 ### NG-111　下書き（出典の照合前）
 
@@ -1369,7 +1369,7 @@
 - よくある誤解：Rome基準は診断基準の表だけで構成される
 - 出典：Rome Foundation『Rome V, Disorders of Gut-Brain Interaction 5th Edition』（編集体制のページ）　[リンク](https://theromefoundation.org/rome-iv/rome-v-disorders-of-gut-brain-interaction-5th-edition/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-111&card_id=NG-111&version=6d0854e60d)　（版 `6d0854e60d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-111&card_id=NG-111&version=6d0854e60d)　（版 `6d0854e60d`）
 
 ### NG-112　下書き（出典の照合前）
 
@@ -1380,7 +1380,7 @@
 - よくある誤解：Rome Vは診断基準の変更だけを扱う
 - 出典：Rome Foundation『Rome V Journal Articles』（Gastroenterology 2026;170 掲載論文の一覧）　[リンク](https://theromefoundation.org/rome-v-a-global-framework-for-disorders-of-gut-brain-interaction/rome-v-journal-articles/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-112&card_id=NG-112&version=2ff8f687aa)　（版 `2ff8f687aa`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-112&card_id=NG-112&version=2ff8f687aa)　（版 `2ff8f687aa`）
 
 ### NG-113　下書き（出典の照合前）
 
@@ -1391,7 +1391,7 @@
 - 不確実性：腸疾患の章では機能性腹部膨満の名称も残っている（NG-126）。
 - 出典：Rome Foundation『Rome V: A Global Framework for Disorders of Gut–Brain Interaction』（製品・概要ページ）　[リンク](https://theromefoundation.org/rome-v-a-global-framework-for-disorders-of-gut-brain-interaction/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-113&card_id=NG-113&version=9f2be1ae16)　（版 `9f2be1ae16`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-113&card_id=NG-113&version=9f2be1ae16)　（版 `9f2be1ae16`）
 
 ### NG-114　下書き（出典の照合前）
 
@@ -1403,7 +1403,7 @@
 - 不確実性：臨床用基準の具体的な要件（6か月は不要、他疾患の除外のため8週間の経過を推奨、頻度は低くてよい）は序論（NG-234）で確認
 - 出典：Rome Foundation『Rome V: A Global Framework for Disorders of Gut–Brain Interaction』（製品・概要ページ）　[リンク](https://theromefoundation.org/rome-v-a-global-framework-for-disorders-of-gut-brain-interaction/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-114&card_id=NG-114&version=824a620e1a)　（版 `824a620e1a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-114&card_id=NG-114&version=824a620e1a)　（版 `824a620e1a`）
 
 ### NG-115　下書き（出典の照合前）
 
@@ -1415,7 +1415,7 @@
 - 不確実性：腸疾患の章（NG-127）で、持続痛の除外と、月経だけに限らないという補助基準を確認した
 - 出典：Rome Foundation『Rome V: A Global Framework for Disorders of Gut–Brain Interaction』（製品・概要ページ）　[リンク](https://theromefoundation.org/rome-v-a-global-framework-for-disorders-of-gut-brain-interaction/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-115&card_id=NG-115&version=681865b1fd)　（版 `681865b1fd`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-115&card_id=NG-115&version=681865b1fd)　（版 `681865b1fd`）
 
 ### NG-116　下書き（出典の照合前）
 
@@ -1427,7 +1427,7 @@
 - 不確実性：麻薬性腸症候群はRome IVですでに取り上げられており（NG-003、NG-075）、Rome Vの新規疾患ではない。腹部片頭痛（NG-154）と直腸肛門の感覚機能障害（NG-164）は原典で確認。げっぷができない症候群は胃十二指腸の章（NG-209）で新設の疾患として確認
 - 出典：Rome Foundation『Rome V: A Global Framework for Disorders of Gut–Brain Interaction』（製品・概要ページ）　[リンク](https://theromefoundation.org/rome-v-a-global-framework-for-disorders-of-gut-brain-interaction/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-116&card_id=NG-116&version=d68dc5612d)　（版 `d68dc5612d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-116&card_id=NG-116&version=d68dc5612d)　（版 `d68dc5612d`）
 
 ### NG-117　下書き（出典の照合前）
 
@@ -1438,7 +1438,7 @@
 - よくある誤解：Rome Vでも小児は年齢で分類される
 - 出典：Rome Foundation『Rome V: A Global Framework for Disorders of Gut–Brain Interaction』（製品・概要ページ）　[リンク](https://theromefoundation.org/rome-v-a-global-framework-for-disorders-of-gut-brain-interaction/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-117&card_id=NG-117&version=d7c8a3d9aa)　（版 `d7c8a3d9aa`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-117&card_id=NG-117&version=d7c8a3d9aa)　（版 `d7c8a3d9aa`）
 
 ### NG-123　下書き（出典の照合前）
 
@@ -1449,7 +1449,7 @@
 - 不確実性：原著は未取得で、AGAのニュース記事（二次資料経由）で確認。Rome Vは持続痛の除外を明記したとされる。Rome V の基準そのものは腸疾患の章（NG-127）で確認済み
 - 出典：Staller K, et al. Clin Gastroenterol Hepatol 2026（ContactME-IBS 登録データによる Rome III・IV・V の比較）　[DOI 10.1016/j.cgh.2026.07.022](https://doi.org/10.1016/j.cgh.2026.07.022)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-123&card_id=NG-123&version=9d3d738eed)　（版 `9d3d738eed`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-123&card_id=NG-123&version=9d3d738eed)　（版 `9d3d738eed`）
 
 ### NG-124　下書き（出典の照合前）
 
@@ -1461,9 +1461,9 @@
 - 不確実性：総説の抄録による（二次資料経由）。内容は食道の章（NG-186）で確認済み。本カードは corroboration として扱う
 - 出典：Maev IV, et al. Rome V Criteria (2026): Continuity, innovations and major updates. Meditsinskiy sovet 2026;(8):8-21　[DOI 10.21518/ms2026-232](https://doi.org/10.21518/ms2026-232)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-124&card_id=NG-124&version=ced4bcd9f2)　（版 `ced4bcd9f2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-124&card_id=NG-124&version=ced4bcd9f2)　（版 `ced4bcd9f2`）
 
-**[ここまでの 10 件（NG-110〜NG-124）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-110%E3%80%9CNG-124&cards=NG-110%2054f469007f%0ANG-111%206d0854e60d%0ANG-112%202ff8f687aa%0ANG-113%209f2be1ae16%0ANG-114%20824a620e1a%0ANG-115%20681865b1fd%0ANG-116%20d68dc5612d%0ANG-117%20d7c8a3d9aa%0ANG-123%209d3d738eed%0ANG-124%20ced4bcd9f2)**
+**[ここまでの 10 件（NG-110〜NG-124）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-110%E3%80%9CNG-124&cards=NG-110%2054f469007f%0ANG-111%206d0854e60d%0ANG-112%202ff8f687aa%0ANG-113%209f2be1ae16%0ANG-114%20824a620e1a%0ANG-115%20681865b1fd%0ANG-116%20d68dc5612d%0ANG-117%20d7c8a3d9aa%0ANG-123%209d3d738eed%0ANG-124%20ced4bcd9f2)**
 
 ---
 
@@ -1476,7 +1476,7 @@
 - 不確実性：総説の抄録による（二次資料経由）。内容は腸疾患の章（NG-127）で確認済み。本カードは corroboration として扱う
 - 出典：Maev IV, et al. Rome V Criteria (2026): Continuity, innovations and major updates. Meditsinskiy sovet 2026;(8):8-21　[DOI 10.21518/ms2026-232](https://doi.org/10.21518/ms2026-232)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-125&card_id=NG-125&version=43a8fdc9db)　（版 `43a8fdc9db`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-125&card_id=NG-125&version=43a8fdc9db)　（版 `43a8fdc9db`）
 
 ### NG-232　下書き（出典の照合前）
 
@@ -1487,7 +1487,7 @@
 - よくある誤解：腸脳相関障害は心の問題であって、体の異常はない
 - 出典：Drossman DA, Chang L, Tack J. Disorders of Gut–Brain Interaction and the Rome V Process. Gastroenterology 2026;170:1083-1098　[DOI 10.1053/j.gastro.2026.02.014](https://doi.org/10.1053/j.gastro.2026.02.014)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)；TBL-02-07-005 (id: JlAKpjg)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-232&card_id=NG-232&version=ee9f860daf)　（版 `ee9f860daf`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-232&card_id=NG-232&version=ee9f860daf)　（版 `ee9f860daf`）
 
 ### NG-233　下書き（出典の照合前）
 
@@ -1498,7 +1498,7 @@
 - よくある誤解：Rome Vの疾患数はRome IVと同じである
 - 出典：Drossman DA, Chang L, Tack J. Disorders of Gut–Brain Interaction and the Rome V Process. Gastroenterology 2026;170:1083-1098　[DOI 10.1053/j.gastro.2026.02.014](https://doi.org/10.1053/j.gastro.2026.02.014)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-233&card_id=NG-233&version=15e0a5801c)　（版 `15e0a5801c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-233&card_id=NG-233&version=15e0a5801c)　（版 `15e0a5801c`）
 
 ### NG-234　下書き（出典の照合前）
 
@@ -1509,7 +1509,7 @@
 - よくある誤解：Rome基準を満たすまで6か月待たないと腸脳相関障害と診断できない
 - 出典：Drossman DA, Chang L, Tack J. Disorders of Gut–Brain Interaction and the Rome V Process. Gastroenterology 2026;170:1083-1098　[DOI 10.1053/j.gastro.2026.02.014](https://doi.org/10.1053/j.gastro.2026.02.014)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-234&card_id=NG-234&version=373e238f9f)　（版 `373e238f9f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-234&card_id=NG-234&version=373e238f9f)　（版 `373e238f9f`）
 
 ### NG-235　下書き（出典の照合前）
 
@@ -1520,7 +1520,7 @@
 - 不確実性：数値は序論が引用した調査による（二次資料経由）
 - 出典：Drossman DA, Chang L, Tack J. Disorders of Gut–Brain Interaction and the Rome V Process. Gastroenterology 2026;170:1083-1098　[DOI 10.1053/j.gastro.2026.02.014](https://doi.org/10.1053/j.gastro.2026.02.014)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-235&card_id=NG-235&version=d9cfd56f47)　（版 `d9cfd56f47`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-235&card_id=NG-235&version=d9cfd56f47)　（版 `d9cfd56f47`）
 
 ### NG-236　下書き（出典の照合前）
 
@@ -1531,7 +1531,7 @@
 - 不確実性：数値は序論が引用した調査による（二次資料経由）
 - 出典：Drossman DA, Chang L, Tack J. Disorders of Gut–Brain Interaction and the Rome V Process. Gastroenterology 2026;170:1083-1098　[DOI 10.1053/j.gastro.2026.02.014](https://doi.org/10.1053/j.gastro.2026.02.014)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-236&card_id=NG-236&version=4f90963b15)　（版 `4f90963b15`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-236&card_id=NG-236&version=4f90963b15)　（版 `4f90963b15`）
 
 ### NG-237　下書き（出典の照合前）
 
@@ -1543,7 +1543,7 @@
 - 不確実性：成人の胆嚢・Oddi括約筋の章そのものは未入手で、序論の要約による
 - 出典：Drossman DA, Chang L, Tack J. Disorders of Gut–Brain Interaction and the Rome V Process. Gastroenterology 2026;170:1083-1098　[DOI 10.1053/j.gastro.2026.02.014](https://doi.org/10.1053/j.gastro.2026.02.014)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-237&card_id=NG-237&version=c4bda2567f)　（版 `c4bda2567f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-237&card_id=NG-237&version=c4bda2567f)　（版 `c4bda2567f`）
 
 ### NG-238　下書き（出典の照合前）
 
@@ -1554,7 +1554,7 @@
 - よくある誤解：IBSの治療は重症度にかかわらず同じである
 - 出典：Drossman DA, Chang L, Tack J. Disorders of Gut–Brain Interaction and the Rome V Process. Gastroenterology 2026;170:1083-1098　[DOI 10.1053/j.gastro.2026.02.014](https://doi.org/10.1053/j.gastro.2026.02.014)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-238&card_id=NG-238&version=0617a3ca7c)　（版 `0617a3ca7c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-238&card_id=NG-238&version=0617a3ca7c)　（版 `0617a3ca7c`）
 
 ### NG-239　下書き（出典の照合前）
 
@@ -1564,7 +1564,7 @@
 - よくある誤解：腸脳相関障害の診療では検査を繰り返すことが患者の安心につながる
 - 出典：Drossman DA, Chang L, Tack J. Disorders of Gut–Brain Interaction and the Rome V Process. Gastroenterology 2026;170:1083-1098　[DOI 10.1053/j.gastro.2026.02.014](https://doi.org/10.1053/j.gastro.2026.02.014)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-239&card_id=NG-239&version=aed0a0830d)　（版 `aed0a0830d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-239&card_id=NG-239&version=aed0a0830d)　（版 `aed0a0830d`）
 
 ### NG-240　下書き（出典の照合前）
 
@@ -1575,9 +1575,9 @@
 - よくある誤解：腸の痛みの強さは腸の異常の程度だけで決まる
 - 出典：Drossman DA, Chang L, Tack J. Disorders of Gut–Brain Interaction and the Rome V Process. Gastroenterology 2026;170:1083-1098　[DOI 10.1053/j.gastro.2026.02.014](https://doi.org/10.1053/j.gastro.2026.02.014)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-005 (id: JlAKpjg)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-240&card_id=NG-240&version=cf66cedf54)　（版 `cf66cedf54`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-240&card_id=NG-240&version=cf66cedf54)　（版 `cf66cedf54`）
 
-**[ここまでの 10 件（NG-125〜NG-240）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-125%E3%80%9CNG-240&cards=NG-125%2043a8fdc9db%0ANG-232%20ee9f860daf%0ANG-233%2015e0a5801c%0ANG-234%20373e238f9f%0ANG-235%20d9cfd56f47%0ANG-236%204f90963b15%0ANG-237%20c4bda2567f%0ANG-238%200617a3ca7c%0ANG-239%20aed0a0830d%0ANG-240%20cf66cedf54)**
+**[ここまでの 10 件（NG-125〜NG-240）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-125%E3%80%9CNG-240&cards=NG-125%2043a8fdc9db%0ANG-232%20ee9f860daf%0ANG-233%2015e0a5801c%0ANG-234%20373e238f9f%0ANG-235%20d9cfd56f47%0ANG-236%204f90963b15%0ANG-237%20c4bda2567f%0ANG-238%200617a3ca7c%0ANG-239%20aed0a0830d%0ANG-240%20cf66cedf54)**
 
 ---
 
@@ -1591,7 +1591,7 @@
 - よくある誤解：小児の上部消化管症状は乳児逆流症と機能性ディスペプシアだけで分類できる
 - 出典：Rosen R, et al. Rome V Pediatric Upper Gastrointestinal Disorders of Gut–Brain Interaction. Gastroenterology 2026;170:1347-1366　[DOI 10.1053/j.gastro.2026.01.039](https://doi.org/10.1053/j.gastro.2026.01.039)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)；TBL-02-07-025 (id: JlAKpkw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-118&card_id=NG-118&version=77a166414c)　（版 `77a166414c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-118&card_id=NG-118&version=77a166414c)　（版 `77a166414c`）
 
 ### NG-119　下書き（出典の照合前）
 
@@ -1602,7 +1602,7 @@
 - よくある誤解：小児の悪心は嘔吐を伴わなければ診断名がつかない
 - 出典：Rosen R, et al. Rome V Pediatric Upper Gastrointestinal Disorders of Gut–Brain Interaction. Gastroenterology 2026;170:1347-1366　[DOI 10.1053/j.gastro.2026.01.039](https://doi.org/10.1053/j.gastro.2026.01.039)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)；TBL-02-07-025 (id: JlAKpkw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-119&card_id=NG-119&version=ff53038672)　（版 `ff53038672`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-119&card_id=NG-119&version=ff53038672)　（版 `ff53038672`）
 
 ### NG-120　下書き（出典の照合前）
 
@@ -1613,7 +1613,7 @@
 - 不確実性：ARFIDの廃止は小児消化器の立場からの提案であり、精神医学の診断分類（DSM-5）との関係は原典で確認する
 - 出典：Rosen R, et al. Rome V Pediatric Upper Gastrointestinal Disorders of Gut–Brain Interaction. Gastroenterology 2026;170:1347-1366　[DOI 10.1053/j.gastro.2026.01.039](https://doi.org/10.1053/j.gastro.2026.01.039)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-120&card_id=NG-120&version=bf4471f840)　（版 `bf4471f840`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-120&card_id=NG-120&version=bf4471f840)　（版 `bf4471f840`）
 
 ### NG-121　下書き（出典の照合前）
 
@@ -1625,7 +1625,7 @@
 - 不確実性：成人の機能性ディスペプシアの変更（PDSは週2日以上、食後は2時間以内、食事関連の心窩部痛はPDSに含める）は胃十二指腸の章（NG-199）で確認
 - 出典：Rosen R, et al. Rome V Pediatric Upper Gastrointestinal Disorders of Gut–Brain Interaction. Gastroenterology 2026;170:1347-1366　[DOI 10.1053/j.gastro.2026.01.039](https://doi.org/10.1053/j.gastro.2026.01.039)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-121&card_id=NG-121&version=d3d4e1a7a9)　（版 `d3d4e1a7a9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-121&card_id=NG-121&version=d3d4e1a7a9)　（版 `d3d4e1a7a9`）
 
 ### NG-122　下書き（出典の照合前）
 
@@ -1636,7 +1636,7 @@
 - よくある誤解：大麻の中止後すぐに嘔吐が消えなければカンナビノイド悪阻は否定できる
 - 出典：Rosen R, et al. Rome V Pediatric Upper Gastrointestinal Disorders of Gut–Brain Interaction. Gastroenterology 2026;170:1347-1366　[DOI 10.1053/j.gastro.2026.01.039](https://doi.org/10.1053/j.gastro.2026.01.039)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-122&card_id=NG-122&version=de542cd485)　（版 `de542cd485`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-122&card_id=NG-122&version=de542cd485)　（版 `de542cd485`）
 
 ### NG-177　下書き（出典の照合前）
 
@@ -1647,9 +1647,9 @@
 - 不確実性：ミルタザピンの値は章が引用した後ろ向きの報告による（二次資料経由）。成人の機能性胸やけ・逆流過敏症では8週間以上の最適化した酸分泌抑制療法が要件（NG-191）
 - 出典：Rosen R, et al. Rome V Pediatric Upper Gastrointestinal Disorders of Gut–Brain Interaction. Gastroenterology 2026;170:1347-1366　[DOI 10.1053/j.gastro.2026.01.039](https://doi.org/10.1053/j.gastro.2026.01.039)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)；TBL-02-07-025 (id: JlAKpkw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-177&card_id=NG-177&version=6212e7b8a4)　（版 `6212e7b8a4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-177&card_id=NG-177&version=6212e7b8a4)　（版 `6212e7b8a4`）
 
-**[ここまでの 6 件（NG-118〜NG-177）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-118%E3%80%9CNG-177&cards=NG-118%2077a166414c%0ANG-119%20ff53038672%0ANG-120%20bf4471f840%0ANG-121%20d3d4e1a7a9%0ANG-122%20de542cd485%0ANG-177%206212e7b8a4)**
+**[ここまでの 6 件（NG-118〜NG-177）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-118%E3%80%9CNG-177&cards=NG-118%2077a166414c%0ANG-119%20ff53038672%0ANG-120%20bf4471f840%0ANG-121%20d3d4e1a7a9%0ANG-122%20de542cd485%0ANG-177%206212e7b8a4)**
 
 ---
 
@@ -1664,7 +1664,7 @@
 - よくある誤解：Rome Vでも機能性便秘という診断名が使われる
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-126&card_id=NG-126&version=807ed1c922)　（版 `807ed1c922`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-126&card_id=NG-126&version=807ed1c922)　（版 `807ed1c922`）
 
 ### NG-127　下書き（出典の照合前）
 
@@ -1675,7 +1675,7 @@
 - よくある誤解：Rome VのIBSも週1日以上の腹痛を必要とする
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-127&card_id=NG-127&version=d2223203bc)　（版 `d2223203bc`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-127&card_id=NG-127&version=d2223203bc)　（版 `d2223203bc`）
 
 ### NG-128　下書き（出典の照合前）
 
@@ -1686,7 +1686,7 @@
 - 不確実性：有病率低下の理由はRome Foundation Global Studyの解析による（二次資料経由）
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-128&card_id=NG-128&version=40cbb1fc79)　（版 `40cbb1fc79`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-128&card_id=NG-128&version=40cbb1fc79)　（版 `40cbb1fc79`）
 
 ### NG-129　下書き（出典の照合前）
 
@@ -1696,7 +1696,7 @@
 - よくある誤解：IBSの病型は下剤を飲んでいる間の便の状態で決めてよい
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-129&card_id=NG-129&version=ed41af3dbe)　（版 `ed41af3dbe`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-129&card_id=NG-129&version=ed41af3dbe)　（版 `ed41af3dbe`）
 
 ### NG-130　下書き（出典の照合前）
 
@@ -1706,7 +1706,7 @@
 - よくある誤解：IBSはあらゆる器質的疾患を検査で否定してから診断する
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-130&card_id=NG-130&version=a8068821e8)　（版 `a8068821e8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-130&card_id=NG-130&version=a8068821e8)　（版 `a8068821e8`）
 
 ### NG-131　下書き（出典の照合前）
 
@@ -1717,7 +1717,7 @@
 - 不確実性：数値は章が引用したメタ解析による（二次資料経由）。添付のまとめにあった「<100・100〜250・≥250」の区分は、腸疾患の章には記載がない
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-131&card_id=NG-131&version=4baaa5c3ed)　（版 `4baaa5c3ed`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-131&card_id=NG-131&version=4baaa5c3ed)　（版 `4baaa5c3ed`）
 
 ### NG-132　下書き（出典の照合前）
 
@@ -1728,7 +1728,7 @@
 - 不確実性：セリアック病の頻度は章が引用したメタ解析による（二次資料経由）。日本での頻度は別に確認する
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-132&card_id=NG-132&version=964aeb2a87)　（版 `964aeb2a87`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-132&card_id=NG-132&version=964aeb2a87)　（版 `964aeb2a87`）
 
 ### NG-133　下書き（出典の照合前）
 
@@ -1739,7 +1739,7 @@
 - 不確実性：章が引用した単一研究の値（二次資料経由）
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-022 (id: JlAKpkc)；TBL-02-07-031 (id: JlAKplI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-133&card_id=NG-133&version=014a04f0fd)　（版 `014a04f0fd`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-133&card_id=NG-133&version=014a04f0fd)　（版 `014a04f0fd`）
 
 ### NG-134　下書き（出典の照合前）
 
@@ -1750,7 +1750,7 @@
 - 不確実性：数値は章が引用した研究による（二次資料経由）
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-134&card_id=NG-134&version=7e925b68ff)　（版 `7e925b68ff`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-134&card_id=NG-134&version=7e925b68ff)　（版 `7e925b68ff`）
 
 ### NG-135　下書き（出典の照合前）
 
@@ -1761,9 +1761,9 @@
 - 不確実性：章が引用したメタ解析の値（二次資料経由）。低FODMAP食の3段階は小児の章に記載がある（NG-219）
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-135&card_id=NG-135&version=a0e39358df)　（版 `a0e39358df`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-135&card_id=NG-135&version=a0e39358df)　（版 `a0e39358df`）
 
-**[ここまでの 10 件（NG-126〜NG-135）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-126%E3%80%9CNG-135&cards=NG-126%20807ed1c922%0ANG-127%20d2223203bc%0ANG-128%2040cbb1fc79%0ANG-129%20ed41af3dbe%0ANG-130%20a8068821e8%0ANG-131%204baaa5c3ed%0ANG-132%20964aeb2a87%0ANG-133%20014a04f0fd%0ANG-134%207e925b68ff%0ANG-135%20a0e39358df)**
+**[ここまでの 10 件（NG-126〜NG-135）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-126%E3%80%9CNG-135&cards=NG-126%20807ed1c922%0ANG-127%20d2223203bc%0ANG-128%2040cbb1fc79%0ANG-129%20ed41af3dbe%0ANG-130%20a8068821e8%0ANG-131%204baaa5c3ed%0ANG-132%20964aeb2a87%0ANG-133%20014a04f0fd%0ANG-134%207e925b68ff%0ANG-135%20a0e39358df)**
 
 ---
 
@@ -1776,7 +1776,7 @@
 - よくある誤解：SSRIはIBSの腹痛に三環系抗うつ薬と同じように効く
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-136&card_id=NG-136&version=323c5bcfca)　（版 `323c5bcfca`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-136&card_id=NG-136&version=323c5bcfca)　（版 `323c5bcfca`）
 
 ### NG-137　下書き（出典の照合前）
 
@@ -1787,7 +1787,7 @@
 - よくある誤解：IBSにはFMTが確立した治療である
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-137&card_id=NG-137&version=d543c34ead)　（版 `d543c34ead`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-137&card_id=NG-137&version=d543c34ead)　（版 `d543c34ead`）
 
 ### NG-138　下書き（出典の照合前）
 
@@ -1798,7 +1798,7 @@
 - よくある誤解：IBSの心理療法には根拠がない
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-138&card_id=NG-138&version=f687c6ef53)　（版 `f687c6ef53`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-138&card_id=NG-138&version=f687c6ef53)　（版 `f687c6ef53`）
 
 ### NG-139　下書き（出典の照合前）
 
@@ -1809,7 +1809,7 @@
 - よくある誤解：慢性便秘症の患者には腹痛がまったくない
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-139&card_id=NG-139&version=89bcb0dc01)　（版 `89bcb0dc01`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-139&card_id=NG-139&version=89bcb0dc01)　（版 `89bcb0dc01`）
 
 ### NG-140　下書き（出典の照合前）
 
@@ -1820,7 +1820,7 @@
 - 不確実性：章が引用した調査の値（二次資料経由）
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-140&card_id=NG-140&version=f5bd64a0b5)　（版 `f5bd64a0b5`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-140&card_id=NG-140&version=f5bd64a0b5)　（版 `f5bd64a0b5`）
 
 ### NG-141　下書き（出典の照合前）
 
@@ -1831,7 +1831,7 @@
 - よくある誤解：慢性便秘症では最初に大腸通過時間検査を行う
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-141&card_id=NG-141&version=74240a8254)　（版 `74240a8254`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-141&card_id=NG-141&version=74240a8254)　（版 `74240a8254`）
 
 ### NG-142　下書き（出典の照合前）
 
@@ -1842,7 +1842,7 @@
 - よくある誤解：刺激性下剤は必ず大腸を傷める
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-142&card_id=NG-142&version=125f6f9c83)　（版 `125f6f9c83`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-142&card_id=NG-142&version=125f6f9c83)　（版 `125f6f9c83`）
 
 ### NG-143　下書き（出典の照合前）
 
@@ -1853,7 +1853,7 @@
 - よくある誤解：機能性下痢と下痢型IBSは腹痛の有無に関係なく同じ診断である
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-143&card_id=NG-143&version=538d81c5a3)　（版 `538d81c5a3`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-143&card_id=NG-143&version=538d81c5a3)　（版 `538d81c5a3`）
 
 ### NG-144　下書き（出典の照合前）
 
@@ -1863,7 +1863,7 @@
 - よくある誤解：機能性下痢の第一選択は抗うつ薬である
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-144&card_id=NG-144&version=0103ef3940)　（版 `0103ef3940`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-144&card_id=NG-144&version=0103ef3940)　（版 `0103ef3940`）
 
 ### NG-145　下書き（出典の照合前）
 
@@ -1874,9 +1874,9 @@
 - よくある誤解：腹部膨満は必ずガスがたまって起こる
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-024 (id: JlAKpko)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-145&card_id=NG-145&version=fde27542fb)　（版 `fde27542fb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-145&card_id=NG-145&version=fde27542fb)　（版 `fde27542fb`）
 
-**[ここまでの 10 件（NG-136〜NG-145）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-136%E3%80%9CNG-145&cards=NG-136%20323c5bcfca%0ANG-137%20d543c34ead%0ANG-138%20f687c6ef53%0ANG-139%2089bcb0dc01%0ANG-140%20f5bd64a0b5%0ANG-141%2074240a8254%0ANG-142%20125f6f9c83%0ANG-143%20538d81c5a3%0ANG-144%200103ef3940%0ANG-145%20fde27542fb)**
+**[ここまでの 10 件（NG-136〜NG-145）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-136%E3%80%9CNG-145&cards=NG-136%20323c5bcfca%0ANG-137%20d543c34ead%0ANG-138%20f687c6ef53%0ANG-139%2089bcb0dc01%0ANG-140%20f5bd64a0b5%0ANG-141%2074240a8254%0ANG-142%20125f6f9c83%0ANG-143%20538d81c5a3%0ANG-144%200103ef3940%0ANG-145%20fde27542fb)**
 
 ---
 
@@ -1889,7 +1889,7 @@
 - 不確実性：無作為化試験の値は章が引用した研究による（二次資料経由）
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-024 (id: JlAKpko)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-146&card_id=NG-146&version=2beb745f37)　（版 `2beb745f37`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-146&card_id=NG-146&version=2beb745f37)　（版 `2beb745f37`）
 
 ### NG-147　下書き（出典の照合前）
 
@@ -1900,7 +1900,7 @@
 - 不確実性：頻度は章が引用した単一施設の研究による（二次資料経由）
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-147&card_id=NG-147&version=547fa75f90)　（版 `547fa75f90`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-147&card_id=NG-147&version=547fa75f90)　（版 `547fa75f90`）
 
 ### NG-148　下書き（出典の照合前）
 
@@ -1911,9 +1911,9 @@
 - よくある誤解：オピオイド誘発性便秘症とオピオイドによる腹痛の増悪は同じ病態である
 - 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology 2026;170:1261-1282（Rome V）　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-148&card_id=NG-148&version=c4f1a58ec9)　（版 `c4f1a58ec9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-148&card_id=NG-148&version=c4f1a58ec9)　（版 `c4f1a58ec9`）
 
-**[ここまでの 3 件（NG-146〜NG-148）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-146%E3%80%9CNG-148&cards=NG-146%202beb745f37%0ANG-147%20547fa75f90%0ANG-148%20c4f1a58ec9)**
+**[ここまでの 3 件（NG-146〜NG-148）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-146%E3%80%9CNG-148&cards=NG-146%202beb745f37%0ANG-147%20547fa75f90%0ANG-148%20c4f1a58ec9)**
 
 ---
 
@@ -1928,7 +1928,7 @@
 - よくある誤解：腹部片頭痛は小児にしかない
 - 出典：Fukudo S, Aziz Q, Drossman DA, et al. Centrally Mediated Disorders of Gastrointestinal Pain. Gastroenterology 2026;170:1283-1302（Rome V）　[DOI 10.1053/j.gastro.2025.12.038](https://doi.org/10.1053/j.gastro.2025.12.038)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-149&card_id=NG-149&version=0b77a771d0)　（版 `0b77a771d0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-149&card_id=NG-149&version=0b77a771d0)　（版 `0b77a771d0`）
 
 ### NG-150　下書き（出典の照合前）
 
@@ -1939,7 +1939,7 @@
 - よくある誤解：食事や排便で痛みが変わればCAPSではない
 - 出典：Fukudo S, Aziz Q, Drossman DA, et al. Centrally Mediated Disorders of Gastrointestinal Pain. Gastroenterology 2026;170:1283-1302（Rome V）　[DOI 10.1053/j.gastro.2025.12.038](https://doi.org/10.1053/j.gastro.2025.12.038)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-150&card_id=NG-150&version=2219228356)　（版 `2219228356`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-150&card_id=NG-150&version=2219228356)　（版 `2219228356`）
 
 ### NG-151　下書き（出典の照合前）
 
@@ -1950,7 +1950,7 @@
 - 不確実性：専門外来の割合は章が引用した報告による（二次資料経由）
 - 出典：Fukudo S, Aziz Q, Drossman DA, et al. Centrally Mediated Disorders of Gastrointestinal Pain. Gastroenterology 2026;170:1283-1302（Rome V）　[DOI 10.1053/j.gastro.2025.12.038](https://doi.org/10.1053/j.gastro.2025.12.038)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-151&card_id=NG-151&version=916277ffb2)　（版 `916277ffb2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-151&card_id=NG-151&version=916277ffb2)　（版 `916277ffb2`）
 
 ### NG-152　下書き（出典の照合前）
 
@@ -1962,7 +1962,7 @@
 - 不確実性：これらの所見は診断基準には含まれない
 - 出典：Fukudo S, Aziz Q, Drossman DA, et al. Centrally Mediated Disorders of Gastrointestinal Pain. Gastroenterology 2026;170:1283-1302（Rome V）　[DOI 10.1053/j.gastro.2025.12.038](https://doi.org/10.1053/j.gastro.2025.12.038)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-152&card_id=NG-152&version=cc6c9419cb)　（版 `cc6c9419cb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-152&card_id=NG-152&version=cc6c9419cb)　（版 `cc6c9419cb`）
 
 ### NG-153　下書き（出典の照合前）
 
@@ -1973,7 +1973,7 @@
 - よくある誤解：CAPSの強い腹痛にはオピオイドを使う
 - 出典：Fukudo S, Aziz Q, Drossman DA, et al. Centrally Mediated Disorders of Gastrointestinal Pain. Gastroenterology 2026;170:1283-1302（Rome V）　[DOI 10.1053/j.gastro.2025.12.038](https://doi.org/10.1053/j.gastro.2025.12.038)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-153&card_id=NG-153&version=ebd59767e6)　（版 `ebd59767e6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-153&card_id=NG-153&version=ebd59767e6)　（版 `ebd59767e6`）
 
 ### NG-154　下書き（出典の照合前）
 
@@ -1984,7 +1984,7 @@
 - よくある誤解：腹部片頭痛は小児だけの病気で、成人では診断しない
 - 出典：Fukudo S, Aziz Q, Drossman DA, et al. Centrally Mediated Disorders of Gastrointestinal Pain. Gastroenterology 2026;170:1283-1302（Rome V）　[DOI 10.1053/j.gastro.2025.12.038](https://doi.org/10.1053/j.gastro.2025.12.038)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-154&card_id=NG-154&version=a51a52e207)　（版 `a51a52e207`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-154&card_id=NG-154&version=a51a52e207)　（版 `a51a52e207`）
 
 ### NG-155　下書き（出典の照合前）
 
@@ -1995,7 +1995,7 @@
 - 不確実性：成人での治療の根拠は主に片頭痛や小児の知見からの外挿
 - 出典：Fukudo S, Aziz Q, Drossman DA, et al. Centrally Mediated Disorders of Gastrointestinal Pain. Gastroenterology 2026;170:1283-1302（Rome V）　[DOI 10.1053/j.gastro.2025.12.038](https://doi.org/10.1053/j.gastro.2025.12.038)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-155&card_id=NG-155&version=9aa93dab0a)　（版 `9aa93dab0a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-155&card_id=NG-155&version=9aa93dab0a)　（版 `9aa93dab0a`）
 
 ### NG-156　下書き（出典の照合前）
 
@@ -2007,7 +2007,7 @@
 - 不確実性：有病率は章が引用した研究による（二次資料経由）
 - 出典：Fukudo S, Aziz Q, Drossman DA, et al. Centrally Mediated Disorders of Gastrointestinal Pain. Gastroenterology 2026;170:1283-1302（Rome V）　[DOI 10.1053/j.gastro.2025.12.038](https://doi.org/10.1053/j.gastro.2025.12.038)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-156&card_id=NG-156&version=024c33032d)　（版 `024c33032d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-156&card_id=NG-156&version=024c33032d)　（版 `024c33032d`）
 
 ### NG-157　下書き（出典の照合前）
 
@@ -2018,9 +2018,9 @@
 - 不確実性：単一研究の値（二次資料経由）
 - 出典：Fukudo S, Aziz Q, Drossman DA, et al. Centrally Mediated Disorders of Gastrointestinal Pain. Gastroenterology 2026;170:1283-1302（Rome V）　[DOI 10.1053/j.gastro.2025.12.038](https://doi.org/10.1053/j.gastro.2025.12.038)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-157&card_id=NG-157&version=ef9a831ff6)　（版 `ef9a831ff6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-157&card_id=NG-157&version=ef9a831ff6)　（版 `ef9a831ff6`）
 
-**[ここまでの 9 件（NG-149〜NG-157）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-149%E3%80%9CNG-157&cards=NG-149%200b77a771d0%0ANG-150%202219228356%0ANG-151%20916277ffb2%0ANG-152%20cc6c9419cb%0ANG-153%20ebd59767e6%0ANG-154%20a51a52e207%0ANG-155%209aa93dab0a%0ANG-156%20024c33032d%0ANG-157%20ef9a831ff6)**
+**[ここまでの 9 件（NG-149〜NG-157）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-149%E3%80%9CNG-157&cards=NG-149%200b77a771d0%0ANG-150%202219228356%0ANG-151%20916277ffb2%0ANG-152%20cc6c9419cb%0ANG-153%20ebd59767e6%0ANG-154%20a51a52e207%0ANG-155%209aa93dab0a%0ANG-156%20024c33032d%0ANG-157%20ef9a831ff6)**
 
 ---
 
@@ -2035,7 +2035,7 @@
 - よくある誤解：肛門直腸疾患はすべて症状だけで診断できる
 - 出典：Rao SSC, Bharucha AE, Carrington EV, et al. Anorectal Disorders. Gastroenterology 2026;170:1318-1346（Rome V）　[DOI 10.1053/j.gastro.2026.01.037](https://doi.org/10.1053/j.gastro.2026.01.037)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-158&card_id=NG-158&version=acecd6f3f7)　（版 `acecd6f3f7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-158&card_id=NG-158&version=acecd6f3f7)　（版 `acecd6f3f7`）
 
 ### NG-159　下書き（出典の照合前）
 
@@ -2046,7 +2046,7 @@
 - よくある誤解：便失禁は週に何度もなければ治療の対象にならない
 - 出典：Rao SSC, Bharucha AE, Carrington EV, et al. Anorectal Disorders. Gastroenterology 2026;170:1318-1346（Rome V）　[DOI 10.1053/j.gastro.2026.01.037](https://doi.org/10.1053/j.gastro.2026.01.037)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-159&card_id=NG-159&version=67eaaf6150)　（版 `67eaaf6150`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-159&card_id=NG-159&version=67eaaf6150)　（版 `67eaaf6150`）
 
 ### NG-160　下書き（出典の照合前）
 
@@ -2057,7 +2057,7 @@
 - 不確実性：有病率は章が引用したレビューの値（二次資料経由）
 - 出典：Rao SSC, Bharucha AE, Carrington EV, et al. Anorectal Disorders. Gastroenterology 2026;170:1318-1346（Rome V）　[DOI 10.1053/j.gastro.2026.01.037](https://doi.org/10.1053/j.gastro.2026.01.037)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-160&card_id=NG-160&version=ccb90b6628)　（版 `ccb90b6628`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-160&card_id=NG-160&version=ccb90b6628)　（版 `ccb90b6628`）
 
 ### NG-161　下書き（出典の照合前）
 
@@ -2068,7 +2068,7 @@
 - よくある誤解：排便協調障害の診断には3種類の検査すべてが必要である
 - 出典：Rao SSC, Bharucha AE, Carrington EV, et al. Anorectal Disorders. Gastroenterology 2026;170:1318-1346（Rome V）　[DOI 10.1053/j.gastro.2026.01.037](https://doi.org/10.1053/j.gastro.2026.01.037)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-161&card_id=NG-161&version=d5a75c850d)　（版 `d5a75c850d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-161&card_id=NG-161&version=d5a75c850d)　（版 `d5a75c850d`）
 
 ### NG-162　下書き（出典の照合前）
 
@@ -2080,7 +2080,7 @@
 - 不確実性：数値は章が引用した研究による（二次資料経由）
 - 出典：Rao SSC, Bharucha AE, Carrington EV, et al. Anorectal Disorders. Gastroenterology 2026;170:1318-1346（Rome V）　[DOI 10.1053/j.gastro.2026.01.037](https://doi.org/10.1053/j.gastro.2026.01.037)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-162&card_id=NG-162&version=79af99576c)　（版 `79af99576c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-162&card_id=NG-162&version=79af99576c)　（版 `79af99576c`）
 
 ### NG-163　下書き（出典の照合前）
 
@@ -2091,7 +2091,7 @@
 - よくある誤解：肛門挙筋症候群には坐浴や筋弛緩薬が有効である
 - 出典：Rao SSC, Bharucha AE, Carrington EV, et al. Anorectal Disorders. Gastroenterology 2026;170:1318-1346（Rome V）　[DOI 10.1053/j.gastro.2026.01.037](https://doi.org/10.1053/j.gastro.2026.01.037)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-163&card_id=NG-163&version=969b27ec5c)　（版 `969b27ec5c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-163&card_id=NG-163&version=969b27ec5c)　（版 `969b27ec5c`）
 
 ### NG-164　下書き（出典の照合前）
 
@@ -2101,7 +2101,7 @@
 - よくある誤解：便意を感じないのは便秘の結果にすぎず治療できない
 - 出典：Rao SSC, Bharucha AE, Carrington EV, et al. Anorectal Disorders. Gastroenterology 2026;170:1318-1346（Rome V）　[DOI 10.1053/j.gastro.2026.01.037](https://doi.org/10.1053/j.gastro.2026.01.037)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-164&card_id=NG-164&version=0b221add15)　（版 `0b221add15`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-164&card_id=NG-164&version=0b221add15)　（版 `0b221add15`）
 
 ### NG-165　下書き（出典の照合前）
 
@@ -2112,9 +2112,9 @@
 - よくある誤解：直腸感覚過敏は検査をしなくても症状だけで診断できる
 - 出典：Rao SSC, Bharucha AE, Carrington EV, et al. Anorectal Disorders. Gastroenterology 2026;170:1318-1346（Rome V）　[DOI 10.1053/j.gastro.2026.01.037](https://doi.org/10.1053/j.gastro.2026.01.037)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-165&card_id=NG-165&version=5067bb3b53)　（版 `5067bb3b53`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-165&card_id=NG-165&version=5067bb3b53)　（版 `5067bb3b53`）
 
-**[ここまでの 8 件（NG-158〜NG-165）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-158%E3%80%9CNG-165&cards=NG-158%20acecd6f3f7%0ANG-159%2067eaaf6150%0ANG-160%20ccb90b6628%0ANG-161%20d5a75c850d%0ANG-162%2079af99576c%0ANG-163%20969b27ec5c%0ANG-164%200b221add15%0ANG-165%205067bb3b53)**
+**[ここまでの 8 件（NG-158〜NG-165）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-158%E3%80%9CNG-165&cards=NG-158%20acecd6f3f7%0ANG-159%2067eaaf6150%0ANG-160%20ccb90b6628%0ANG-161%20d5a75c850d%0ANG-162%2079af99576c%0ANG-163%20969b27ec5c%0ANG-164%200b221add15%0ANG-165%205067bb3b53)**
 
 ---
 
@@ -2128,7 +2128,7 @@
 - よくある誤解：心理的なケアは精神科に紹介してから始めればよい
 - 出典：Elsenbruch S, Ballou S, Keefer L, et al. Biopsychosocial Aspects of Adult and Pediatric Disorders of Gut–Brain Interaction. Gastroenterology 2026;170:1205-1223（Rome V）　[DOI 10.1053/j.gastro.2026.02.009](https://doi.org/10.1053/j.gastro.2026.02.009)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-005 (id: JlAKpjg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-166&card_id=NG-166&version=0355f30c03)　（版 `0355f30c03`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-166&card_id=NG-166&version=0355f30c03)　（版 `0355f30c03`）
 
 ### NG-167　下書き（出典の照合前）
 
@@ -2139,7 +2139,7 @@
 - よくある誤解：心理療法は心の病気がある患者にだけ有効である
 - 出典：Elsenbruch S, Ballou S, Keefer L, et al. Biopsychosocial Aspects of Adult and Pediatric Disorders of Gut–Brain Interaction. Gastroenterology 2026;170:1205-1223（Rome V）　[DOI 10.1053/j.gastro.2026.02.009](https://doi.org/10.1053/j.gastro.2026.02.009)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-167&card_id=NG-167&version=b7e6b67d63)　（版 `b7e6b67d63`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-167&card_id=NG-167&version=b7e6b67d63)　（版 `b7e6b67d63`）
 
 ### NG-168　下書き（出典の照合前）
 
@@ -2149,7 +2149,7 @@
 - よくある誤解：抗うつ薬を勧めるのは症状が気のせいだと考えているからである
 - 出典：Elsenbruch S, Ballou S, Keefer L, et al. Biopsychosocial Aspects of Adult and Pediatric Disorders of Gut–Brain Interaction. Gastroenterology 2026;170:1205-1223（Rome V）　[DOI 10.1053/j.gastro.2026.02.009](https://doi.org/10.1053/j.gastro.2026.02.009)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-168&card_id=NG-168&version=8e9f3bbe3a)　（版 `8e9f3bbe3a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-168&card_id=NG-168&version=8e9f3bbe3a)　（版 `8e9f3bbe3a`）
 
 ### NG-169　下書き（出典の照合前）
 
@@ -2159,9 +2159,9 @@
 - よくある誤解：抗うつ薬という名前のままでも患者の受け止め方は変わらない
 - 出典：Elsenbruch S, Ballou S, Keefer L, et al. Biopsychosocial Aspects of Adult and Pediatric Disorders of Gut–Brain Interaction. Gastroenterology 2026;170:1205-1223（Rome V）　[DOI 10.1053/j.gastro.2026.02.009](https://doi.org/10.1053/j.gastro.2026.02.009)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-169&card_id=NG-169&version=940f4092c8)　（版 `940f4092c8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-169&card_id=NG-169&version=940f4092c8)　（版 `940f4092c8`）
 
-**[ここまでの 4 件（NG-166〜NG-169）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-166%E3%80%9CNG-169&cards=NG-166%200355f30c03%0ANG-167%20b7e6b67d63%0ANG-168%208e9f3bbe3a%0ANG-169%20940f4092c8)**
+**[ここまでの 4 件（NG-166〜NG-169）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-166%E3%80%9CNG-169&cards=NG-166%200355f30c03%0ANG-167%20b7e6b67d63%0ANG-168%208e9f3bbe3a%0ANG-169%20940f4092c8)**
 
 ---
 
@@ -2175,7 +2175,7 @@
 - よくある誤解：Rome Vで新たに加わった成人の疾患には麻薬性腸症候群が含まれる
 - 出典：Palsson OS, Lacy BE, Benninga MA, et al. Development of the Rome V Diagnostic Questionnaires. Gastroenterology 2026;170:1408-1416　[DOI 10.1053/j.gastro.2026.01.041](https://doi.org/10.1053/j.gastro.2026.01.041)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-170&card_id=NG-170&version=825fe0a6ac)　（版 `825fe0a6ac`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-170&card_id=NG-170&version=825fe0a6ac)　（版 `825fe0a6ac`）
 
 ### NG-171　下書き（出典の照合前）
 
@@ -2185,7 +2185,7 @@
 - よくある誤解：回答を1日単位にするほど症状の頻度は正確にわかる
 - 出典：Palsson OS, Lacy BE, Benninga MA, et al. Development of the Rome V Diagnostic Questionnaires. Gastroenterology 2026;170:1408-1416　[DOI 10.1053/j.gastro.2026.01.041](https://doi.org/10.1053/j.gastro.2026.01.041)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-171&card_id=NG-171&version=15163e1c5b)　（版 `15163e1c5b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-171&card_id=NG-171&version=15163e1c5b)　（版 `15163e1c5b`）
 
 ### NG-172　下書き（出典の照合前）
 
@@ -2197,7 +2197,7 @@
 - 不確実性：Rome IVの調査とは対象国が一部異なり、厳密な比較ではない
 - 出典：Palsson OS, Lacy BE, Benninga MA, et al. Development of the Rome V Diagnostic Questionnaires. Gastroenterology 2026;170:1408-1416　[DOI 10.1053/j.gastro.2026.01.041](https://doi.org/10.1053/j.gastro.2026.01.041)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-172&card_id=NG-172&version=1dea84bd35)　（版 `1dea84bd35`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-172&card_id=NG-172&version=1dea84bd35)　（版 `1dea84bd35`）
 
 ### NG-173　下書き（出典の照合前）
 
@@ -2207,7 +2207,7 @@
 - よくある誤解：Rome Vの便失禁の基準はRome IVより厳しくなった
 - 出典：Palsson OS, Lacy BE, Benninga MA, et al. Development of the Rome V Diagnostic Questionnaires. Gastroenterology 2026;170:1408-1416　[DOI 10.1053/j.gastro.2026.01.041](https://doi.org/10.1053/j.gastro.2026.01.041)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-173&card_id=NG-173&version=2a70e54441)　（版 `2a70e54441`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-173&card_id=NG-173&version=2a70e54441)　（版 `2a70e54441`）
 
 ### NG-174　下書き（出典の照合前）
 
@@ -2219,7 +2219,7 @@
 - 不確実性：乳児苦痛症候群の診断基準は小児下部消化管・胆道の章（NG-230）で確認
 - 出典：Palsson OS, Lacy BE, Benninga MA, et al. Development of the Rome V Diagnostic Questionnaires. Gastroenterology 2026;170:1408-1416　[DOI 10.1053/j.gastro.2026.01.041](https://doi.org/10.1053/j.gastro.2026.01.041)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-174&card_id=NG-174&version=deda2f996f)　（版 `deda2f996f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-174&card_id=NG-174&version=deda2f996f)　（版 `deda2f996f`）
 
 ### NG-175　下書き（出典の照合前）
 
@@ -2230,7 +2230,7 @@
 - 不確実性：FICAIはデルファイ法による提案で、まだ検証されていない
 - 出典：Palsson OS, Lacy BE, Benninga MA, et al. Development of the Rome V Diagnostic Questionnaires. Gastroenterology 2026;170:1408-1416　[DOI 10.1053/j.gastro.2026.01.041](https://doi.org/10.1053/j.gastro.2026.01.041)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-175&card_id=NG-175&version=d3991ce99b)　（版 `d3991ce99b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-175&card_id=NG-175&version=d3991ce99b)　（版 `d3991ce99b`）
 
 ### NG-176　下書き（出典の照合前）
 
@@ -2242,9 +2242,9 @@
 - 不確実性：母親の回答による調査で、偏りの可能性がある
 - 出典：Palsson OS, Lacy BE, Benninga MA, et al. Development of the Rome V Diagnostic Questionnaires. Gastroenterology 2026;170:1408-1416　[DOI 10.1053/j.gastro.2026.01.041](https://doi.org/10.1053/j.gastro.2026.01.041)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-268 (id: Jlvnl4o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-176&card_id=NG-176&version=fe95165c2a)　（版 `fe95165c2a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-176&card_id=NG-176&version=fe95165c2a)　（版 `fe95165c2a`）
 
-**[ここまでの 7 件（NG-170〜NG-176）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-170%E3%80%9CNG-176&cards=NG-170%20825fe0a6ac%0ANG-171%2015163e1c5b%0ANG-172%201dea84bd35%0ANG-173%202a70e54441%0ANG-174%20deda2f996f%0ANG-175%20d3991ce99b%0ANG-176%20fe95165c2a)**
+**[ここまでの 7 件（NG-170〜NG-176）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-170%E3%80%9CNG-176&cards=NG-170%20825fe0a6ac%0ANG-171%2015163e1c5b%0ANG-172%201dea84bd35%0ANG-173%202a70e54441%0ANG-174%20deda2f996f%0ANG-175%20d3991ce99b%0ANG-176%20fe95165c2a)**
 
 ---
 
@@ -2259,7 +2259,7 @@
 - よくある誤解：1日の排便回数が多ければ下痢である
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性下痢症』南江堂、2023（第1刷 2023年7月13日、ISBN 978-4-524-21006-0）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-178&card_id=NG-178&version=956bc4c71b)　（版 `956bc4c71b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-178&card_id=NG-178&version=956bc4c71b)　（版 `956bc4c71b`）
 
 ### NG-179　下書き（出典の照合前）
 
@@ -2269,7 +2269,7 @@
 - よくある誤解：慢性下痢の大半はIBSである
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性下痢症』南江堂、2023（第1刷 2023年7月13日、ISBN 978-4-524-21006-0）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-179&card_id=NG-179&version=ff44364ef9)　（版 `ff44364ef9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-179&card_id=NG-179&version=ff44364ef9)　（版 `ff44364ef9`）
 
 ### NG-180　下書き（出典の照合前）
 
@@ -2280,7 +2280,7 @@
 - よくある誤解：日本の慢性下痢症（狭義）はRome基準の機能性下痢と同じ定義である
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性下痢症』南江堂、2023（第1刷 2023年7月13日、ISBN 978-4-524-21006-0）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-022 (id: JlAKpkc)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-180&card_id=NG-180&version=962c6b49fe)　（版 `962c6b49fe`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-180&card_id=NG-180&version=962c6b49fe)　（版 `962c6b49fe`）
 
 ### NG-181　下書き（出典の照合前）
 
@@ -2291,7 +2291,7 @@
 - よくある誤解：警告症状がなければ器質的疾患は否定できる
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性下痢症』南江堂、2023（第1刷 2023年7月13日、ISBN 978-4-524-21006-0）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-181&card_id=NG-181&version=e7c9b54aea)　（版 `e7c9b54aea`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-181&card_id=NG-181&version=e7c9b54aea)　（版 `e7c9b54aea`）
 
 ### NG-182　下書き（出典の照合前）
 
@@ -2301,7 +2301,7 @@
 - よくある誤解：内視鏡で異常がなければ生検は不要である
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性下痢症』南江堂、2023（第1刷 2023年7月13日、ISBN 978-4-524-21006-0）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-022 (id: JlAKpkc)；TBL-02-07-031 (id: JlAKplI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-182&card_id=NG-182&version=d42d908262)　（版 `d42d908262`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-182&card_id=NG-182&version=d42d908262)　（版 `d42d908262`）
 
 ### NG-183　下書き（出典の照合前）
 
@@ -2311,7 +2311,7 @@
 - よくある誤解：慢性下痢は女性に多い
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性下痢症』南江堂、2023（第1刷 2023年7月13日、ISBN 978-4-524-21006-0）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-183&card_id=NG-183&version=2fd7a33566)　（版 `2fd7a33566`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-183&card_id=NG-183&version=2fd7a33566)　（版 `2fd7a33566`）
 
 ### NG-184　下書き（出典の照合前）
 
@@ -2321,7 +2321,7 @@
 - よくある誤解：慢性下痢症はストレスが原因である
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性下痢症』南江堂、2023（第1刷 2023年7月13日、ISBN 978-4-524-21006-0）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-022 (id: JlAKpkc)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-184&card_id=NG-184&version=69182a0d8c)　（版 `69182a0d8c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-184&card_id=NG-184&version=69182a0d8c)　（版 `69182a0d8c`）
 
 ### NG-185　下書き（出典の照合前）
 
@@ -2332,9 +2332,9 @@
 - よくある誤解：慢性下痢症にはIBSと同じ薬がすべて効く
 - 出典：日本消化管学会編『便通異常症診療ガイドライン2023—慢性下痢症』南江堂、2023（第1刷 2023年7月13日、ISBN 978-4-524-21006-0）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-185&card_id=NG-185&version=88bc5e614d)　（版 `88bc5e614d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-185&card_id=NG-185&version=88bc5e614d)　（版 `88bc5e614d`）
 
-**[ここまでの 8 件（NG-178〜NG-185）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-178%E3%80%9CNG-185&cards=NG-178%20956bc4c71b%0ANG-179%20ff44364ef9%0ANG-180%20962c6b49fe%0ANG-181%20e7c9b54aea%0ANG-182%20d42d908262%0ANG-183%202fd7a33566%0ANG-184%2069182a0d8c%0ANG-185%2088bc5e614d)**
+**[ここまでの 8 件（NG-178〜NG-185）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-178%E3%80%9CNG-185&cards=NG-178%20956bc4c71b%0ANG-179%20ff44364ef9%0ANG-180%20962c6b49fe%0ANG-181%20e7c9b54aea%0ANG-182%20d42d908262%0ANG-183%202fd7a33566%0ANG-184%2069182a0d8c%0ANG-185%2088bc5e614d)**
 
 ---
 
@@ -2349,7 +2349,7 @@
 - よくある誤解：機能性食道疾患は症状だけで診断できる
 - 出典：Gyawali CP, Roman S, Zerbib F, et al. Functional Esophageal Disorders. Gastroenterology 2026;170:1224-1239（Rome V）　[DOI 10.1053/j.gastro.2026.02.005](https://doi.org/10.1053/j.gastro.2026.02.005)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-186&card_id=NG-186&version=162207e49e)　（版 `162207e49e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-186&card_id=NG-186&version=162207e49e)　（版 `162207e49e`）
 
 ### NG-187　下書き（出典の照合前）
 
@@ -2359,7 +2359,7 @@
 - よくある誤解：機能性胸痛では全例で食道生検が必要である
 - 出典：Gyawali CP, Roman S, Zerbib F, et al. Functional Esophageal Disorders. Gastroenterology 2026;170:1224-1239（Rome V）　[DOI 10.1053/j.gastro.2026.02.005](https://doi.org/10.1053/j.gastro.2026.02.005)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)；TBL-02-07-031 (id: JlAKplI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-187&card_id=NG-187&version=426ca98c41)　（版 `426ca98c41`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-187&card_id=NG-187&version=426ca98c41)　（版 `426ca98c41`）
 
 ### NG-188　下書き（出典の照合前）
 
@@ -2370,7 +2370,7 @@
 - よくある誤解：胸痛の原因は問診で心臓か食道かを区別できる
 - 出典：Gyawali CP, Roman S, Zerbib F, et al. Functional Esophageal Disorders. Gastroenterology 2026;170:1224-1239（Rome V）　[DOI 10.1053/j.gastro.2026.02.005](https://doi.org/10.1053/j.gastro.2026.02.005)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-188&card_id=NG-188&version=693bdcf8a0)　（版 `693bdcf8a0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-188&card_id=NG-188&version=693bdcf8a0)　（版 `693bdcf8a0`）
 
 ### NG-189　下書き（出典の照合前）
 
@@ -2381,7 +2381,7 @@
 - 不確実性：章が引用した研究の値（二次資料経由）
 - 出典：Gyawali CP, Roman S, Zerbib F, et al. Functional Esophageal Disorders. Gastroenterology 2026;170:1224-1239（Rome V）　[DOI 10.1053/j.gastro.2026.02.005](https://doi.org/10.1053/j.gastro.2026.02.005)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-189&card_id=NG-189&version=80ccafe17a)　（版 `80ccafe17a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-189&card_id=NG-189&version=80ccafe17a)　（版 `80ccafe17a`）
 
 ### NG-190　下書き（出典の照合前）
 
@@ -2392,7 +2392,7 @@
 - 不確実性：相対リスクはコクランレビューの値（二次資料経由）
 - 出典：Gyawali CP, Roman S, Zerbib F, et al. Functional Esophageal Disorders. Gastroenterology 2026;170:1224-1239（Rome V）　[DOI 10.1053/j.gastro.2026.02.005](https://doi.org/10.1053/j.gastro.2026.02.005)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-190&card_id=NG-190&version=008a71fefa)　（版 `008a71fefa`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-190&card_id=NG-190&version=008a71fefa)　（版 `008a71fefa`）
 
 ### NG-191　下書き（出典の照合前）
 
@@ -2404,7 +2404,7 @@
 - 不確実性：頻度の要件は、診断基準の脚注と本文では「週1回以上」、臨床評価の節では「週2日以上」と記載が分かれている
 - 出典：Gyawali CP, Roman S, Zerbib F, et al. Functional Esophageal Disorders. Gastroenterology 2026;170:1224-1239（Rome V）　[DOI 10.1053/j.gastro.2026.02.005](https://doi.org/10.1053/j.gastro.2026.02.005)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-191&card_id=NG-191&version=0508d123cc)　（版 `0508d123cc`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-191&card_id=NG-191&version=0508d123cc)　（版 `0508d123cc`）
 
 ### NG-192　下書き（出典の照合前）
 
@@ -2414,7 +2414,7 @@
 - よくある誤解：PPIを飲んだまま内視鏡をすればGERDを否定できる
 - 出典：Gyawali CP, Roman S, Zerbib F, et al. Functional Esophageal Disorders. Gastroenterology 2026;170:1224-1239（Rome V）　[DOI 10.1053/j.gastro.2026.02.005](https://doi.org/10.1053/j.gastro.2026.02.005)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-192&card_id=NG-192&version=f6ee7e78d9)　（版 `f6ee7e78d9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-192&card_id=NG-192&version=f6ee7e78d9)　（版 `f6ee7e78d9`）
 
 ### NG-193　下書き（出典の照合前）
 
@@ -2425,7 +2425,7 @@
 - 不確実性：数値は章が引用した研究の値（二次資料経由）
 - 出典：Gyawali CP, Roman S, Zerbib F, et al. Functional Esophageal Disorders. Gastroenterology 2026;170:1224-1239（Rome V）　[DOI 10.1053/j.gastro.2026.02.005](https://doi.org/10.1053/j.gastro.2026.02.005)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-193&card_id=NG-193&version=77bac3fac0)　（版 `77bac3fac0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-193&card_id=NG-193&version=77bac3fac0)　（版 `77bac3fac0`）
 
 ### NG-194　下書き（出典の照合前）
 
@@ -2437,7 +2437,7 @@
 - 不確実性：シタロプラムの値は章が引用した試験による（二次資料経由）
 - 出典：Gyawali CP, Roman S, Zerbib F, et al. Functional Esophageal Disorders. Gastroenterology 2026;170:1224-1239（Rome V）　[DOI 10.1053/j.gastro.2026.02.005](https://doi.org/10.1053/j.gastro.2026.02.005)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-194&card_id=NG-194&version=31426b4238)　（版 `31426b4238`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-194&card_id=NG-194&version=31426b4238)　（版 `31426b4238`）
 
 ### NG-195　下書き（出典の照合前）
 
@@ -2449,9 +2449,9 @@
 - 不確実性：経過の値は章が引用した研究による（二次資料経由）
 - 出典：Gyawali CP, Roman S, Zerbib F, et al. Functional Esophageal Disorders. Gastroenterology 2026;170:1224-1239（Rome V）　[DOI 10.1053/j.gastro.2026.02.005](https://doi.org/10.1053/j.gastro.2026.02.005)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-195&card_id=NG-195&version=2233ae6f82)　（版 `2233ae6f82`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-195&card_id=NG-195&version=2233ae6f82)　（版 `2233ae6f82`）
 
-**[ここまでの 10 件（NG-186〜NG-195）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-186%E3%80%9CNG-195&cards=NG-186%20162207e49e%0ANG-187%20426ca98c41%0ANG-188%20693bdcf8a0%0ANG-189%2080ccafe17a%0ANG-190%20008a71fefa%0ANG-191%200508d123cc%0ANG-192%20f6ee7e78d9%0ANG-193%2077bac3fac0%0ANG-194%2031426b4238%0ANG-195%202233ae6f82)**
+**[ここまでの 10 件（NG-186〜NG-195）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-186%E3%80%9CNG-195&cards=NG-186%20162207e49e%0ANG-187%20426ca98c41%0ANG-188%20693bdcf8a0%0ANG-189%2080ccafe17a%0ANG-190%20008a71fefa%0ANG-191%200508d123cc%0ANG-192%20f6ee7e78d9%0ANG-193%2077bac3fac0%0ANG-194%2031426b4238%0ANG-195%202233ae6f82)**
 
 ---
 
@@ -2465,9 +2465,9 @@
 - 不確実性：FLIPの値は章が引用した研究による（二次資料経由）
 - 出典：Gyawali CP, Roman S, Zerbib F, et al. Functional Esophageal Disorders. Gastroenterology 2026;170:1224-1239（Rome V）　[DOI 10.1053/j.gastro.2026.02.005](https://doi.org/10.1053/j.gastro.2026.02.005)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-196&card_id=NG-196&version=f7de8e7099)　（版 `f7de8e7099`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-196&card_id=NG-196&version=f7de8e7099)　（版 `f7de8e7099`）
 
-**[ここまでの 1 件（NG-196）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-196&cards=NG-196%20f7de8e7099)**
+**[ここまでの 1 件（NG-196）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-196&cards=NG-196%20f7de8e7099)**
 
 ---
 
@@ -2482,7 +2482,7 @@
 - よくある誤解：胃十二指腸の腸脳相関障害は機能性ディスペプシアだけである
 - 出典：Törnblom H, Carbone F, Hasler WL, et al. Gastroduodenal Disorders. Gastroenterology 2026;170:1240-1260（Rome V）　[DOI 10.1053/j.gastro.2026.01.038](https://doi.org/10.1053/j.gastro.2026.01.038)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-257 (id: Jlvnl3Q)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-197&card_id=NG-197&version=df522a1a5c)　（版 `df522a1a5c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-197&card_id=NG-197&version=df522a1a5c)　（版 `df522a1a5c`）
 
 ### NG-198　下書き（出典の照合前）
 
@@ -2493,7 +2493,7 @@
 - よくある誤解：機能性ディスペプシアは除外診断でしか付けられない病名である
 - 出典：Törnblom H, Carbone F, Hasler WL, et al. Gastroduodenal Disorders. Gastroenterology 2026;170:1240-1260（Rome V）　[DOI 10.1053/j.gastro.2026.01.038](https://doi.org/10.1053/j.gastro.2026.01.038)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-198&card_id=NG-198&version=e254e99a10)　（版 `e254e99a10`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-198&card_id=NG-198&version=e254e99a10)　（版 `e254e99a10`）
 
 ### NG-199　下書き（出典の照合前）
 
@@ -2505,7 +2505,7 @@
 - 不確実性：週2日の閾値は患者のフォーカスグループで症状を煩わしいと感じる頻度にもとづく
 - 出典：Törnblom H, Carbone F, Hasler WL, et al. Gastroduodenal Disorders. Gastroenterology 2026;170:1240-1260（Rome V）　[DOI 10.1053/j.gastro.2026.01.038](https://doi.org/10.1053/j.gastro.2026.01.038)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-199&card_id=NG-199&version=91fe8cfb75)　（版 `91fe8cfb75`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-199&card_id=NG-199&version=91fe8cfb75)　（版 `91fe8cfb75`）
 
 ### NG-200　下書き（出典の照合前）
 
@@ -2516,7 +2516,7 @@
 - 不確実性：食事関連・非関連の区分は暫定基準で、さらに研究が必要とされている
 - 出典：Törnblom H, Carbone F, Hasler WL, et al. Gastroduodenal Disorders. Gastroenterology 2026;170:1240-1260（Rome V）　[DOI 10.1053/j.gastro.2026.01.038](https://doi.org/10.1053/j.gastro.2026.01.038)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-257 (id: Jlvnl3Q)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-200&card_id=NG-200&version=0ed5663bde)　（版 `0ed5663bde`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-200&card_id=NG-200&version=0ed5663bde)　（版 `0ed5663bde`）
 
 ### NG-201　下書き（出典の照合前）
 
@@ -2527,7 +2527,7 @@
 - よくある誤解：機能性ディスペプシアの診断には全例で内視鏡が必要である
 - 出典：Törnblom H, Carbone F, Hasler WL, et al. Gastroduodenal Disorders. Gastroenterology 2026;170:1240-1260（Rome V）　[DOI 10.1053/j.gastro.2026.01.038](https://doi.org/10.1053/j.gastro.2026.01.038)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-257 (id: Jlvnl3Q)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-201&card_id=NG-201&version=1ebe6a31bc)　（版 `1ebe6a31bc`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-201&card_id=NG-201&version=1ebe6a31bc)　（版 `1ebe6a31bc`）
 
 ### NG-202　下書き（出典の照合前）
 
@@ -2538,7 +2538,7 @@
 - 不確実性：割合は章が引用した研究による（二次資料経由）
 - 出典：Törnblom H, Carbone F, Hasler WL, et al. Gastroduodenal Disorders. Gastroenterology 2026;170:1240-1260（Rome V）　[DOI 10.1053/j.gastro.2026.01.038](https://doi.org/10.1053/j.gastro.2026.01.038)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-257 (id: Jlvnl3Q)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-202&card_id=NG-202&version=970c16d7f8)　（版 `970c16d7f8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-202&card_id=NG-202&version=970c16d7f8)　（版 `970c16d7f8`）
 
 ### NG-203　下書き（出典の照合前）
 
@@ -2550,7 +2550,7 @@
 - 不確実性：治療必要数は章が引用したメタ解析の値（二次資料経由）
 - 出典：Törnblom H, Carbone F, Hasler WL, et al. Gastroduodenal Disorders. Gastroenterology 2026;170:1240-1260（Rome V）　[DOI 10.1053/j.gastro.2026.01.038](https://doi.org/10.1053/j.gastro.2026.01.038)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-257 (id: Jlvnl3Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-203&card_id=NG-203&version=51f80597a9)　（版 `51f80597a9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-203&card_id=NG-203&version=51f80597a9)　（版 `51f80597a9`）
 
 ### NG-204　下書き（出典の照合前）
 
@@ -2561,7 +2561,7 @@
 - よくある誤解：胃排出が遅ければ胃不全麻痺と診断する
 - 出典：Törnblom H, Carbone F, Hasler WL, et al. Gastroduodenal Disorders. Gastroenterology 2026;170:1240-1260（Rome V）　[DOI 10.1053/j.gastro.2026.01.038](https://doi.org/10.1053/j.gastro.2026.01.038)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-257 (id: Jlvnl3Q)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-204&card_id=NG-204&version=085af4d90b)　（版 `085af4d90b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-204&card_id=NG-204&version=085af4d90b)　（版 `085af4d90b`）
 
 ### NG-205　下書き（出典の照合前）
 
@@ -2572,7 +2572,7 @@
 - よくある誤解：嘔吐がなければ慢性悪心嘔吐症候群とは診断しない
 - 出典：Törnblom H, Carbone F, Hasler WL, et al. Gastroduodenal Disorders. Gastroenterology 2026;170:1240-1260（Rome V）　[DOI 10.1053/j.gastro.2026.01.038](https://doi.org/10.1053/j.gastro.2026.01.038)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-205&card_id=NG-205&version=6a7e8de1e5)　（版 `6a7e8de1e5`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-205&card_id=NG-205&version=6a7e8de1e5)　（版 `6a7e8de1e5`）
 
 ### NG-206　下書き（出典の照合前）
 
@@ -2584,9 +2584,9 @@
 - 不確実性：治療効果と日本の有病率は章が引用した研究による（二次資料経由）
 - 出典：Törnblom H, Carbone F, Hasler WL, et al. Gastroduodenal Disorders. Gastroenterology 2026;170:1240-1260（Rome V）　[DOI 10.1053/j.gastro.2026.01.038](https://doi.org/10.1053/j.gastro.2026.01.038)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-206&card_id=NG-206&version=dcbe2fb1ac)　（版 `dcbe2fb1ac`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-206&card_id=NG-206&version=dcbe2fb1ac)　（版 `dcbe2fb1ac`）
 
-**[ここまでの 10 件（NG-197〜NG-206）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-197%E3%80%9CNG-206&cards=NG-197%20df522a1a5c%0ANG-198%20e254e99a10%0ANG-199%2091fe8cfb75%0ANG-200%200ed5663bde%0ANG-201%201ebe6a31bc%0ANG-202%20970c16d7f8%0ANG-203%2051f80597a9%0ANG-204%20085af4d90b%0ANG-205%206a7e8de1e5%0ANG-206%20dcbe2fb1ac)**
+**[ここまでの 10 件（NG-197〜NG-206）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-197%E3%80%9CNG-206&cards=NG-197%20df522a1a5c%0ANG-198%20e254e99a10%0ANG-199%2091fe8cfb75%0ANG-200%200ed5663bde%0ANG-201%201ebe6a31bc%0ANG-202%20970c16d7f8%0ANG-203%2051f80597a9%0ANG-204%20085af4d90b%0ANG-205%206a7e8de1e5%0ANG-206%20dcbe2fb1ac)**
 
 ---
 
@@ -2599,7 +2599,7 @@
 - よくある誤解：大麻を数日やめて嘔吐が続けばカンナビノイド悪阻症候群は否定できる
 - 出典：Törnblom H, Carbone F, Hasler WL, et al. Gastroduodenal Disorders. Gastroenterology 2026;170:1240-1260（Rome V）　[DOI 10.1053/j.gastro.2026.01.038](https://doi.org/10.1053/j.gastro.2026.01.038)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-207&card_id=NG-207&version=74f36c112e)　（版 `74f36c112e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-207&card_id=NG-207&version=74f36c112e)　（版 `74f36c112e`）
 
 ### NG-208　下書き（出典の照合前）
 
@@ -2610,7 +2610,7 @@
 - よくある誤解：げっぷが多いのは空気を多く飲み込んでいるからで、消泡剤で治る
 - 出典：Törnblom H, Carbone F, Hasler WL, et al. Gastroduodenal Disorders. Gastroenterology 2026;170:1240-1260（Rome V）　[DOI 10.1053/j.gastro.2026.01.038](https://doi.org/10.1053/j.gastro.2026.01.038)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-208&card_id=NG-208&version=679af6b16e)　（版 `679af6b16e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-208&card_id=NG-208&version=679af6b16e)　（版 `679af6b16e`）
 
 ### NG-209　下書き（出典の照合前）
 
@@ -2622,7 +2622,7 @@
 - 不確実性：疫学は調べられておらず、過小診断と過剰診断の両方の可能性がある。食道の章は、この病態（abelchia）を定義が不十分な新しい症候群として扱っている。分類番号は胃十二指腸の章ではB4、序論の一覧ではB3c（げっぷ障害の下位）と章によって異なる
 - 出典：Törnblom H, Carbone F, Hasler WL, et al. Gastroduodenal Disorders. Gastroenterology 2026;170:1240-1260（Rome V）　[DOI 10.1053/j.gastro.2026.01.038](https://doi.org/10.1053/j.gastro.2026.01.038)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-209&card_id=NG-209&version=18b09af644)　（版 `18b09af644`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-209&card_id=NG-209&version=18b09af644)　（版 `18b09af644`）
 
 ### NG-210　下書き（出典の照合前）
 
@@ -2634,9 +2634,9 @@
 - 不確実性：行動療法の効果は章が引用した症例集積の値（二次資料経由）
 - 出典：Törnblom H, Carbone F, Hasler WL, et al. Gastroduodenal Disorders. Gastroenterology 2026;170:1240-1260（Rome V）　[DOI 10.1053/j.gastro.2026.01.038](https://doi.org/10.1053/j.gastro.2026.01.038)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-210&card_id=NG-210&version=d993af22d5)　（版 `d993af22d5`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-210&card_id=NG-210&version=d993af22d5)　（版 `d993af22d5`）
 
-**[ここまでの 4 件（NG-207〜NG-210）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-207%E3%80%9CNG-210&cards=NG-207%2074f36c112e%0ANG-208%20679af6b16e%0ANG-209%2018b09af644%0ANG-210%20d993af22d5)**
+**[ここまでの 4 件（NG-207〜NG-210）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-207%E3%80%9CNG-210&cards=NG-207%2074f36c112e%0ANG-208%20679af6b16e%0ANG-209%2018b09af644%0ANG-210%20d993af22d5)**
 
 ---
 
@@ -2650,7 +2650,7 @@
 - よくある誤解：消化管の痛みはすべて迷走神経が伝える
 - 出典：Greenwood-Van Meerveld B, Mawe GM, Beyder A, et al. Fundamentals of Neurogastroenterology: Basic Science. Gastroenterology 2026;170:1099-1113（Rome V）　[DOI 10.1053/j.gastro.2026.01.040](https://doi.org/10.1053/j.gastro.2026.01.040)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-005 (id: JlAKpjg)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-211&card_id=NG-211&version=d8eedecd82)　（版 `d8eedecd82`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-211&card_id=NG-211&version=d8eedecd82)　（版 `d8eedecd82`）
 
 ### NG-212　下書き（出典の照合前）
 
@@ -2660,7 +2660,7 @@
 - よくある誤解：腸の運動は平滑筋だけで決まる
 - 出典：Greenwood-Van Meerveld B, Mawe GM, Beyder A, et al. Fundamentals of Neurogastroenterology: Basic Science. Gastroenterology 2026;170:1099-1113（Rome V）　[DOI 10.1053/j.gastro.2026.01.040](https://doi.org/10.1053/j.gastro.2026.01.040)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-212&card_id=NG-212&version=a28d937426)　（版 `a28d937426`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-212&card_id=NG-212&version=a28d937426)　（版 `a28d937426`）
 
 ### NG-213　下書き（出典の照合前）
 
@@ -2672,7 +2672,7 @@
 - 不確実性：数値は章が引用した研究による（二次資料経由）
 - 出典：Greenwood-Van Meerveld B, Mawe GM, Beyder A, et al. Fundamentals of Neurogastroenterology: Basic Science. Gastroenterology 2026;170:1099-1113（Rome V）　[DOI 10.1053/j.gastro.2026.01.040](https://doi.org/10.1053/j.gastro.2026.01.040)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-005 (id: JlAKpjg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-213&card_id=NG-213&version=ea85118ac3)　（版 `ea85118ac3`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-213&card_id=NG-213&version=ea85118ac3)　（版 `ea85118ac3`）
 
 ### NG-214　下書き（出典の照合前）
 
@@ -2683,7 +2683,7 @@
 - よくある誤解：体内のセロトニンの大部分は脳で作られる
 - 出典：Greenwood-Van Meerveld B, Mawe GM, Beyder A, et al. Fundamentals of Neurogastroenterology: Basic Science. Gastroenterology 2026;170:1099-1113（Rome V）　[DOI 10.1053/j.gastro.2026.01.040](https://doi.org/10.1053/j.gastro.2026.01.040)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-214&card_id=NG-214&version=e1982a62ef)　（版 `e1982a62ef`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-214&card_id=NG-214&version=e1982a62ef)　（版 `e1982a62ef`）
 
 ### NG-215　下書き（出典の照合前）
 
@@ -2694,9 +2694,9 @@
 - よくある誤解：腸内細菌は消化にしか関わらない
 - 出典：Greenwood-Van Meerveld B, Mawe GM, Beyder A, et al. Fundamentals of Neurogastroenterology: Basic Science. Gastroenterology 2026;170:1099-1113（Rome V）　[DOI 10.1053/j.gastro.2026.01.040](https://doi.org/10.1053/j.gastro.2026.01.040)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-215&card_id=NG-215&version=6cfc2d89d8)　（版 `6cfc2d89d8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-215&card_id=NG-215&version=6cfc2d89d8)　（版 `6cfc2d89d8`）
 
-**[ここまでの 5 件（NG-211〜NG-215）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-211%E3%80%9CNG-215&cards=NG-211%20d8eedecd82%0ANG-212%20a28d937426%0ANG-213%20ea85118ac3%0ANG-214%20e1982a62ef%0ANG-215%206cfc2d89d8)**
+**[ここまでの 5 件（NG-211〜NG-215）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-211%E3%80%9CNG-215&cards=NG-211%20d8eedecd82%0ANG-212%20a28d937426%0ANG-213%20ea85118ac3%0ANG-214%20e1982a62ef%0ANG-215%206cfc2d89d8)**
 
 ---
 
@@ -2711,7 +2711,7 @@
 - よくある誤解：Rome Vでも小児の腸脳相関障害は新生児・乳幼児と小児・思春期に分けて分類する
 - 出典：Di Lorenzo C, Saps M, Chumpitazi BP, et al. Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent. Gastroenterology 2026;170:1367-1387（Rome V）　[DOI 10.1053/j.gastro.2026.01.036](https://doi.org/10.1053/j.gastro.2026.01.036)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-216&card_id=NG-216&version=d009b99f8b)　（版 `d009b99f8b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-216&card_id=NG-216&version=d009b99f8b)　（版 `d009b99f8b`）
 
 ### NG-217　下書き（出典の照合前）
 
@@ -2722,7 +2722,7 @@
 - よくある誤解：小児のIBSは便秘を治療して腹痛が残るかどうかで診断する
 - 出典：Di Lorenzo C, Saps M, Chumpitazi BP, et al. Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent. Gastroenterology 2026;170:1367-1387（Rome V）　[DOI 10.1053/j.gastro.2026.01.036](https://doi.org/10.1053/j.gastro.2026.01.036)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-217&card_id=NG-217&version=d6013c732c)　（版 `d6013c732c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-217&card_id=NG-217&version=d6013c732c)　（版 `d6013c732c`）
 
 ### NG-218　下書き（出典の照合前）
 
@@ -2733,7 +2733,7 @@
 - よくある誤解：小児のIBSには抗菌薬がよく効く
 - 出典：Di Lorenzo C, Saps M, Chumpitazi BP, et al. Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent. Gastroenterology 2026;170:1367-1387（Rome V）　[DOI 10.1053/j.gastro.2026.01.036](https://doi.org/10.1053/j.gastro.2026.01.036)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-218&card_id=NG-218&version=e1881bae34)　（版 `e1881bae34`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-218&card_id=NG-218&version=e1881bae34)　（版 `e1881bae34`）
 
 ### NG-219　下書き（出典の照合前）
 
@@ -2745,7 +2745,7 @@
 - 不確実性：再導入期と個別化期の期間は章に記載がない
 - 出典：Di Lorenzo C, Saps M, Chumpitazi BP, et al. Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent. Gastroenterology 2026;170:1367-1387（Rome V）　[DOI 10.1053/j.gastro.2026.01.036](https://doi.org/10.1053/j.gastro.2026.01.036)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-219&card_id=NG-219&version=6e48a4dd15)　（版 `6e48a4dd15`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-219&card_id=NG-219&version=6e48a4dd15)　（版 `6e48a4dd15`）
 
 ### NG-220　下書き（出典の照合前）
 
@@ -2756,7 +2756,7 @@
 - よくある誤解：小児の腹痛は持続か間欠かを区別しなくてよい
 - 出典：Di Lorenzo C, Saps M, Chumpitazi BP, et al. Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent. Gastroenterology 2026;170:1367-1387（Rome V）　[DOI 10.1053/j.gastro.2026.01.036](https://doi.org/10.1053/j.gastro.2026.01.036)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-220&card_id=NG-220&version=9a221b9d5f)　（版 `9a221b9d5f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-220&card_id=NG-220&version=9a221b9d5f)　（版 `9a221b9d5f`）
 
 ### NG-221　下書き（出典の照合前）
 
@@ -2767,7 +2767,7 @@
 - 不確実性：手術成功率は章が引用したレビューの値（二次資料経由）
 - 出典：Di Lorenzo C, Saps M, Chumpitazi BP, et al. Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent. Gastroenterology 2026;170:1367-1387（Rome V）　[DOI 10.1053/j.gastro.2026.01.036](https://doi.org/10.1053/j.gastro.2026.01.036)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-221&card_id=NG-221&version=cbcc904e2a)　（版 `cbcc904e2a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-221&card_id=NG-221&version=cbcc904e2a)　（版 `cbcc904e2a`）
 
 ### NG-222　下書き（出典の照合前）
 
@@ -2779,7 +2779,7 @@
 - 不確実性：小児の腹部片頭痛に米国FDAが承認した薬はない
 - 出典：Di Lorenzo C, Saps M, Chumpitazi BP, et al. Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent. Gastroenterology 2026;170:1367-1387（Rome V）　[DOI 10.1053/j.gastro.2026.01.036](https://doi.org/10.1053/j.gastro.2026.01.036)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-222&card_id=NG-222&version=e0e3b122f4)　（版 `e0e3b122f4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-222&card_id=NG-222&version=e0e3b122f4)　（版 `e0e3b122f4`）
 
 ### NG-223　下書き（出典の照合前）
 
@@ -2790,7 +2790,7 @@
 - よくある誤解：CAPSは成人だけの病気である
 - 出典：Di Lorenzo C, Saps M, Chumpitazi BP, et al. Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent. Gastroenterology 2026;170:1367-1387（Rome V）　[DOI 10.1053/j.gastro.2026.01.036](https://doi.org/10.1053/j.gastro.2026.01.036)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-223&card_id=NG-223&version=6902f4d56a)　（版 `6902f4d56a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-223&card_id=NG-223&version=6902f4d56a)　（版 `6902f4d56a`）
 
 ### NG-224　下書き（出典の照合前）
 
@@ -2801,7 +2801,7 @@
 - よくある誤解：小児の便秘の多くは器質的な病気が原因である
 - 出典：Di Lorenzo C, Saps M, Chumpitazi BP, et al. Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent. Gastroenterology 2026;170:1367-1387（Rome V）　[DOI 10.1053/j.gastro.2026.01.036](https://doi.org/10.1053/j.gastro.2026.01.036)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-224&card_id=NG-224&version=77330c7934)　（版 `77330c7934`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-224&card_id=NG-224&version=77330c7934)　（版 `77330c7934`）
 
 ### NG-225　下書き（出典の照合前）
 
@@ -2812,9 +2812,9 @@
 - よくある誤解：小児の便秘には成人の新しい便秘薬がどれも使える
 - 出典：Di Lorenzo C, Saps M, Chumpitazi BP, et al. Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent. Gastroenterology 2026;170:1367-1387（Rome V）　[DOI 10.1053/j.gastro.2026.01.036](https://doi.org/10.1053/j.gastro.2026.01.036)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-225&card_id=NG-225&version=b0968feb09)　（版 `b0968feb09`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-225&card_id=NG-225&version=b0968feb09)　（版 `b0968feb09`）
 
-**[ここまでの 10 件（NG-216〜NG-225）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-216%E3%80%9CNG-225&cards=NG-216%20d009b99f8b%0ANG-217%20d6013c732c%0ANG-218%20e1881bae34%0ANG-219%206e48a4dd15%0ANG-220%209a221b9d5f%0ANG-221%20cbcc904e2a%0ANG-222%20e0e3b122f4%0ANG-223%206902f4d56a%0ANG-224%2077330c7934%0ANG-225%20b0968feb09)**
+**[ここまでの 10 件（NG-216〜NG-225）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-216%E3%80%9CNG-225&cards=NG-216%20d009b99f8b%0ANG-217%20d6013c732c%0ANG-218%20e1881bae34%0ANG-219%206e48a4dd15%0ANG-220%209a221b9d5f%0ANG-221%20cbcc904e2a%0ANG-222%20e0e3b122f4%0ANG-223%206902f4d56a%0ANG-224%2077330c7934%0ANG-225%20b0968feb09)**
 
 ---
 
@@ -2826,7 +2826,7 @@
 - よくある誤解：便を漏らす子どもにはまず下剤を使う
 - 出典：Di Lorenzo C, Saps M, Chumpitazi BP, et al. Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent. Gastroenterology 2026;170:1367-1387（Rome V）　[DOI 10.1053/j.gastro.2026.01.036](https://doi.org/10.1053/j.gastro.2026.01.036)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-226&card_id=NG-226&version=f35bcf5856)　（版 `f35bcf5856`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-226&card_id=NG-226&version=f35bcf5856)　（版 `f35bcf5856`）
 
 ### NG-227　下書き（出典の照合前）
 
@@ -2836,7 +2836,7 @@
 - よくある誤解：乳児がいきんで泣くのは便秘なので浣腸が必要である
 - 出典：Di Lorenzo C, Saps M, Chumpitazi BP, et al. Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent. Gastroenterology 2026;170:1367-1387（Rome V）　[DOI 10.1053/j.gastro.2026.01.036](https://doi.org/10.1053/j.gastro.2026.01.036)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-011 (id: JlAKpj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-227&card_id=NG-227&version=b71949fe42)　（版 `b71949fe42`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-227&card_id=NG-227&version=b71949fe42)　（版 `b71949fe42`）
 
 ### NG-228　下書き（出典の照合前）
 
@@ -2847,7 +2847,7 @@
 - よくある誤解：小児の機能性下痢は乳幼児だけの病気である
 - 出典：Di Lorenzo C, Saps M, Chumpitazi BP, et al. Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent. Gastroenterology 2026;170:1367-1387（Rome V）　[DOI 10.1053/j.gastro.2026.01.036](https://doi.org/10.1053/j.gastro.2026.01.036)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-228&card_id=NG-228&version=4a84d47d35)　（版 `4a84d47d35`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-228&card_id=NG-228&version=4a84d47d35)　（版 `4a84d47d35`）
 
 ### NG-229　下書き（出典の照合前）
 
@@ -2858,7 +2858,7 @@
 - よくある誤解：腹部膨満や直腸痛の腸脳相関障害は成人にしかない
 - 出典：Di Lorenzo C, Saps M, Chumpitazi BP, et al. Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent. Gastroenterology 2026;170:1367-1387（Rome V）　[DOI 10.1053/j.gastro.2026.01.036](https://doi.org/10.1053/j.gastro.2026.01.036)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-024 (id: JlAKpko)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-229&card_id=NG-229&version=a8ac1c99b9)　（版 `a8ac1c99b9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-229&card_id=NG-229&version=a8ac1c99b9)　（版 `a8ac1c99b9`）
 
 ### NG-230　下書き（出典の照合前）
 
@@ -2870,7 +2870,7 @@
 - 不確実性：Rome IVの「生後5か月までに症状が止まる」という条件は改められた
 - 出典：Di Lorenzo C, Saps M, Chumpitazi BP, et al. Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent. Gastroenterology 2026;170:1367-1387（Rome V）　[DOI 10.1053/j.gastro.2026.01.036](https://doi.org/10.1053/j.gastro.2026.01.036)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-230&card_id=NG-230&version=0e2e963631)　（版 `0e2e963631`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-230&card_id=NG-230&version=0e2e963631)　（版 `0e2e963631`）
 
 ### NG-231　下書き（出典の照合前）
 
@@ -2881,9 +2881,9 @@
 - 不確実性：プロバイオティクスの値は章が引用した研究による（二次資料経由）
 - 出典：Di Lorenzo C, Saps M, Chumpitazi BP, et al. Lower and Biliary Disorders of Gut–Brain Interaction: Child and Adolescent. Gastroenterology 2026;170:1367-1387（Rome V）　[DOI 10.1053/j.gastro.2026.01.036](https://doi.org/10.1053/j.gastro.2026.01.036)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-231&card_id=NG-231&version=7d3a7e5312)　（版 `7d3a7e5312`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-231&card_id=NG-231&version=7d3a7e5312)　（版 `7d3a7e5312`）
 
-**[ここまでの 6 件（NG-226〜NG-231）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-226%E3%80%9CNG-231&cards=NG-226%20f35bcf5856%0ANG-227%20b71949fe42%0ANG-228%204a84d47d35%0ANG-229%20a8ac1c99b9%0ANG-230%200e2e963631%0ANG-231%207d3a7e5312)**
+**[ここまでの 6 件（NG-226〜NG-231）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-226%E3%80%9CNG-231&cards=NG-226%20f35bcf5856%0ANG-227%20b71949fe42%0ANG-228%204a84d47d35%0ANG-229%20a8ac1c99b9%0ANG-230%200e2e963631%0ANG-231%207d3a7e5312)**
 
 ---
 

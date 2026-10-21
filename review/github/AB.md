@@ -15,7 +15,7 @@
 - よくある誤解：急性腹症は手術が必要な腹部の病気だけを指す
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-001&card_id=AB-001&version=63b4c61598)　（版 `63b4c61598`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-001&card_id=AB-001&version=63b4c61598)　（版 `63b4c61598`）
 
 ### AB-002　下書き（出典の照合前）
 
@@ -26,7 +26,7 @@
 - 不確実性：4分類はガイドラインが引用した総説による
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-002&card_id=AB-002&version=7054773e9b)　（版 `7054773e9b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-002&card_id=AB-002&version=7054773e9b)　（版 `7054773e9b`）
 
 ### AB-003　下書き（出典の照合前）
 
@@ -37,7 +37,7 @@
 - よくある誤解：イレウスと腸閉塞は同じ意味である
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-003&card_id=AB-003&version=662ae34197)　（版 `662ae34197`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-003&card_id=AB-003&version=662ae34197)　（版 `662ae34197`）
 
 ### AB-004　下書き（出典の照合前）
 
@@ -48,7 +48,7 @@
 - よくある誤解：手術が必要なのは機械的腸閉塞だけである
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-004&card_id=AB-004&version=01d2f2e658)　（版 `01d2f2e658`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-004&card_id=AB-004&version=01d2f2e658)　（版 `01d2f2e658`）
 
 ### AB-005　下書き（出典の照合前）
 
@@ -58,9 +58,9 @@
 - よくある誤解：画像検査で術前に虫垂炎の病期を正確に判定できる
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-005&card_id=AB-005&version=718471c36a)　（版 `718471c36a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-005&card_id=AB-005&version=718471c36a)　（版 `718471c36a`）
 
-**[ここまでの 5 件（AB-001〜AB-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-001%E3%80%9CAB-005&cards=AB-001%2063b4c61598%0AAB-002%207054773e9b%0AAB-003%20662ae34197%0AAB-004%2001d2f2e658%0AAB-005%20718471c36a)**
+**[ここまでの 5 件（AB-001〜AB-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-001%E3%80%9CAB-005&cards=AB-001%2063b4c61598%0AAB-002%207054773e9b%0AAB-003%20662ae34197%0AAB-004%2001d2f2e658%0AAB-005%20718471c36a)**
 
 ---
 
@@ -74,7 +74,7 @@
 - よくある誤解：急性腹症の原因は年齢や性別によらずほぼ同じである
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-006&card_id=AB-006&version=9007333ea7)　（版 `9007333ea7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-006&card_id=AB-006&version=9007333ea7)　（版 `9007333ea7`）
 
 ### AB-007　下書き（出典の照合前）
 
@@ -84,7 +84,7 @@
 - 不確実性：数値はガイドラインが引用した研究による（二次資料経由）
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-264 (id: Jlvnl3k)；TBL-01-00-265 (id: Jlvnl3o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-007&card_id=AB-007&version=ba5d358558)　（版 `ba5d358558`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-007&card_id=AB-007&version=ba5d358558)　（版 `ba5d358558`）
 
 ### AB-008　下書き（出典の照合前）
 
@@ -95,7 +95,7 @@
 - 不確実性：数値はガイドラインが引用した研究による（二次資料経由）
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-264 (id: Jlvnl3k)；TBL-01-00-265 (id: Jlvnl3o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-008&card_id=AB-008&version=9b99bbbc0c)　（版 `9b99bbbc0c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-008&card_id=AB-008&version=9b99bbbc0c)　（版 `9b99bbbc0c`）
 
 ### AB-009　下書き（出典の照合前）
 
@@ -105,7 +105,7 @@
 - よくある誤解：救急外来の腹痛の大半は手術が必要である
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-009&card_id=AB-009&version=7fec97a2ec)　（版 `7fec97a2ec`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-009&card_id=AB-009&version=7fec97a2ec)　（版 `7fec97a2ec`）
 
 ### AB-010　下書き（出典の照合前）
 
@@ -115,7 +115,7 @@
 - よくある誤解：初診で診断がつかない腹痛は心配いらない
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-010&card_id=AB-010&version=c2fe2df4a4)　（版 `c2fe2df4a4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-010&card_id=AB-010&version=c2fe2df4a4)　（版 `c2fe2df4a4`）
 
 ### AB-011　下書き（出典の照合前）
 
@@ -124,7 +124,7 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ6・BQ7／evidence_certainty: C
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-011&card_id=AB-011&version=e461e2d3d4)　（版 `e461e2d3d4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-011&card_id=AB-011&version=e461e2d3d4)　（版 `e461e2d3d4`）
 
 ### AB-012　下書き（出典の照合前）
 
@@ -135,7 +135,7 @@
 - よくある誤解：消化管穿孔の予後は穿孔部位によらない
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-308 (id: Jlvnl70)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-012&card_id=AB-012&version=93afe25db9)　（版 `93afe25db9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-012&card_id=AB-012&version=93afe25db9)　（版 `93afe25db9`）
 
 ### AB-013　下書き（出典の照合前）
 
@@ -144,7 +144,7 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ14／evidence_certainty: C（症例数）、D（読影）
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-013&card_id=AB-013&version=144fe26300)　（版 `144fe26300`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-013&card_id=AB-013&version=144fe26300)　（版 `144fe26300`）
 
 ### AB-014　下書き（出典の照合前）
 
@@ -154,9 +154,9 @@
 - よくある誤解：医療訴訟になりやすいのは手術の合併症だけである
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-265 (id: Jlvnl3o)；TBL-01-00-308 (id: Jlvnl70)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-014&card_id=AB-014&version=7fc0c6e0c5)　（版 `7fc0c6e0c5`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-014&card_id=AB-014&version=7fc0c6e0c5)　（版 `7fc0c6e0c5`）
 
-**[ここまでの 9 件（AB-006〜AB-014）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-006%E3%80%9CAB-014&cards=AB-006%209007333ea7%0AAB-007%20ba5d358558%0AAB-008%209b99bbbc0c%0AAB-009%207fec97a2ec%0AAB-010%20c2fe2df4a4%0AAB-011%20e461e2d3d4%0AAB-012%2093afe25db9%0AAB-013%20144fe26300%0AAB-014%207fc0c6e0c5)**
+**[ここまでの 9 件（AB-006〜AB-014）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-006%E3%80%9CAB-014&cards=AB-006%209007333ea7%0AAB-007%20ba5d358558%0AAB-008%209b99bbbc0c%0AAB-009%207fec97a2ec%0AAB-010%20c2fe2df4a4%0AAB-011%20e461e2d3d4%0AAB-012%2093afe25db9%0AAB-013%20144fe26300%0AAB-014%207fc0c6e0c5)**
 
 ---
 
@@ -169,7 +169,7 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ12
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-308 (id: Jlvnl70)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-015&card_id=AB-015&version=423de5245e)　（版 `423de5245e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-015&card_id=AB-015&version=423de5245e)　（版 `423de5245e`）
 
 ### AB-016　下書き（出典の照合前）
 
@@ -179,7 +179,7 @@
 - よくある誤解：腹痛でショックがあれば消化管穿孔である
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-016&card_id=AB-016&version=a6a005d50d)　（版 `a6a005d50d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-016&card_id=AB-016&version=a6a005d50d)　（版 `a6a005d50d`）
 
 ### AB-017　下書き（出典の照合前）
 
@@ -188,7 +188,7 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ16・BQ17
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-017&card_id=AB-017&version=32bf1d9b13)　（版 `32bf1d9b13`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-017&card_id=AB-017&version=32bf1d9b13)　（版 `32bf1d9b13`）
 
 ### AB-018　下書き（出典の照合前）
 
@@ -197,7 +197,7 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ75／evidence_certainty: C
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-018&card_id=AB-018&version=04294b6c10)　（版 `04294b6c10`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-018&card_id=AB-018&version=04294b6c10)　（版 `04294b6c10`）
 
 ### AB-019　下書き（出典の照合前）
 
@@ -207,7 +207,7 @@
 - よくある誤解：昇圧薬は中心静脈路を確保してからでなければ始められない
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-308 (id: Jlvnl70)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-019&card_id=AB-019&version=45894bc14a)　（版 `45894bc14a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-019&card_id=AB-019&version=45894bc14a)　（版 `45894bc14a`）
 
 ### AB-020　下書き（出典の照合前）
 
@@ -216,9 +216,9 @@
 - 条件：guideline: 急性腹症診療GL2025 CQ13・BQ43／recommendation: 強い推奨（CQ13）／evidence_certainty: C
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-308 (id: Jlvnl70)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-020&card_id=AB-020&version=5f5855cf3f)　（版 `5f5855cf3f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-020&card_id=AB-020&version=5f5855cf3f)　（版 `5f5855cf3f`）
 
-**[ここまでの 6 件（AB-015〜AB-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-015%E3%80%9CAB-020&cards=AB-015%20423de5245e%0AAB-016%20a6a005d50d%0AAB-017%2032bf1d9b13%0AAB-018%2004294b6c10%0AAB-019%2045894bc14a%0AAB-020%205f5855cf3f)**
+**[ここまでの 6 件（AB-015〜AB-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-015%E3%80%9CAB-020&cards=AB-015%20423de5245e%0AAB-016%20a6a005d50d%0AAB-017%2032bf1d9b13%0AAB-018%2004294b6c10%0AAB-019%2045894bc14a%0AAB-020%205f5855cf3f)**
 
 ---
 
@@ -231,7 +231,7 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ18・BQ19・BQ20
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-02-07-018 (id: JlAKpkQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-021&card_id=AB-021&version=a4896cd94b)　（版 `a4896cd94b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-021&card_id=AB-021&version=a4896cd94b)　（版 `a4896cd94b`）
 
 ### AB-022　下書き（出典の照合前）
 
@@ -240,7 +240,7 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ21・BQ22・BQ23／evidence_certainty: D
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-022&card_id=AB-022&version=6e24826513)　（版 `6e24826513`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-022&card_id=AB-022&version=6e24826513)　（版 `6e24826513`）
 
 ### AB-023　下書き（出典の照合前）
 
@@ -249,7 +249,7 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ24／evidence_certainty: B・C
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-023&card_id=AB-023&version=3cbed022c0)　（版 `3cbed022c0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-023&card_id=AB-023&version=3cbed022c0)　（版 `3cbed022c0`）
 
 ### AB-024　下書き（出典の照合前）
 
@@ -258,7 +258,7 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ25
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-265 (id: Jlvnl3o)；TBL-02-07-024 (id: JlAKpko)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-024&card_id=AB-024&version=6fae57ae38)　（版 `6fae57ae38`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-024&card_id=AB-024&version=6fae57ae38)　（版 `6fae57ae38`）
 
 ### AB-025　下書き（出典の照合前）
 
@@ -268,7 +268,7 @@
 - よくある誤解：腸蠕動音の消失を確認するには4か所で数分ずつ聴く必要がある
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-265 (id: Jlvnl3o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-025&card_id=AB-025&version=f896e9b5c7)　（版 `f896e9b5c7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-025&card_id=AB-025&version=f896e9b5c7)　（版 `f896e9b5c7`）
 
 ### AB-026　下書き（出典の照合前）
 
@@ -279,7 +279,7 @@
 - 不確実性：数値はガイドラインが引用した研究による（二次資料経由）
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-026&card_id=AB-026&version=a7eab629b4)　（版 `a7eab629b4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-026&card_id=AB-026&version=a7eab629b4)　（版 `a7eab629b4`）
 
 ### AB-027　下書き（出典の照合前）
 
@@ -289,7 +289,7 @@
 - よくある誤解：腹膜炎の確認には反跳痛を必ず誘発する
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-308 (id: Jlvnl70)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-027&card_id=AB-027&version=0e0286f2d8)　（版 `0e0286f2d8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-027&card_id=AB-027&version=0e0286f2d8)　（版 `0e0286f2d8`）
 
 ### AB-028　下書き（出典の照合前）
 
@@ -300,7 +300,7 @@
 - 不確実性：34%はガイドラインが引用した研究による（二次資料経由）
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-308 (id: Jlvnl70)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-028&card_id=AB-028&version=de371158c0)　（版 `de371158c0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-028&card_id=AB-028&version=de371158c0)　（版 `de371158c0`）
 
 ### AB-029　下書き（出典の照合前）
 
@@ -309,7 +309,7 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ30／evidence_certainty: C・D
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-9-A-④（閉鎖孔ヘルニア、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-264 (id: Jlvnl3k)；TBL-01-00-309 (id: Jlvnl78)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-029&card_id=AB-029&version=d5c9d1bcdf)　（版 `d5c9d1bcdf`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-029&card_id=AB-029&version=d5c9d1bcdf)　（版 `d5c9d1bcdf`）
 
 ### AB-030　下書き（出典の照合前）
 
@@ -320,9 +320,9 @@
 - よくある誤解：腹壁を緊張させると腹腔内の病変の圧痛も強まる
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-030&card_id=AB-030&version=166f4a25cc)　（版 `166f4a25cc`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-030&card_id=AB-030&version=166f4a25cc)　（版 `166f4a25cc`）
 
-**[ここまでの 10 件（AB-021〜AB-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-021%E3%80%9CAB-030&cards=AB-021%20a4896cd94b%0AAB-022%206e24826513%0AAB-023%203cbed022c0%0AAB-024%206fae57ae38%0AAB-025%20f896e9b5c7%0AAB-026%20a7eab629b4%0AAB-027%200e0286f2d8%0AAB-028%20de371158c0%0AAB-029%20d5c9d1bcdf%0AAB-030%20166f4a25cc)**
+**[ここまでの 10 件（AB-021〜AB-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-021%E3%80%9CAB-030&cards=AB-021%20a4896cd94b%0AAB-022%206e24826513%0AAB-023%203cbed022c0%0AAB-024%206fae57ae38%0AAB-025%20f896e9b5c7%0AAB-026%20a7eab629b4%0AAB-027%200e0286f2d8%0AAB-028%20de371158c0%0AAB-029%20d5c9d1bcdf%0AAB-030%20166f4a25cc)**
 
 ---
 
@@ -334,7 +334,7 @@
 - よくある誤解：急性腹症では全例に直腸診を行うべきである
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-031&card_id=AB-031&version=e431e2a81d)　（版 `e431e2a81d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-031&card_id=AB-031&version=e431e2a81d)　（版 `e431e2a81d`）
 
 ### AB-032　下書き（出典の照合前）
 
@@ -344,7 +344,7 @@
 - よくある誤解：鎮痛薬を使うと所見が隠れて診断を誤るので、診断がつくまで使わない
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-032&card_id=AB-032&version=8da4b4311b)　（版 `8da4b4311b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-032&card_id=AB-032&version=8da4b4311b)　（版 `8da4b4311b`）
 
 ### AB-033　下書き（出典の照合前）
 
@@ -354,7 +354,7 @@
 - 不確実性：アセトアミノフェンの用量（1回1,000 mg、50 kg 未満は15 mg/kg）と日本の保険適応量はガイドラインの注に記載がある
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-033&card_id=AB-033&version=d38492b677)　（版 `d38492b677`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-033&card_id=AB-033&version=d38492b677)　（版 `d38492b677`）
 
 ### AB-034　下書き（出典の照合前）
 
@@ -364,9 +364,9 @@
 - よくある誤解：血液検査と CT が正常なら急性腹症は否定できる
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-034&card_id=AB-034&version=211c656124)　（版 `211c656124`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-034&card_id=AB-034&version=211c656124)　（版 `211c656124`）
 
-**[ここまでの 4 件（AB-031〜AB-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-031%E3%80%9CAB-034&cards=AB-031%20e431e2a81d%0AAB-032%208da4b4311b%0AAB-033%20d38492b677%0AAB-034%20211c656124)**
+**[ここまでの 4 件（AB-031〜AB-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-031%E3%80%9CAB-034&cards=AB-031%20e431e2a81d%0AAB-032%208da4b4311b%0AAB-033%20d38492b677%0AAB-034%20211c656124)**
 
 ---
 
@@ -380,7 +380,7 @@
 - よくある誤解：乳酸値が正常なら腸管虚血は否定できる
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-265 (id: Jlvnl3o)；TBL-01-00-264 (id: Jlvnl3k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-035&card_id=AB-035&version=cba367b5ed)　（版 `cba367b5ed`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-035&card_id=AB-035&version=cba367b5ed)　（版 `cba367b5ed`）
 
 ### AB-036　下書き（出典の照合前）
 
@@ -390,7 +390,7 @@
 - よくある誤解：白血球数と CRP が正常なら虫垂炎は否定できる
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-036&card_id=AB-036&version=fc968ec62f)　（版 `fc968ec62f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-036&card_id=AB-036&version=fc968ec62f)　（版 `fc968ec62f`）
 
 ### AB-037　下書き（出典の照合前）
 
@@ -401,7 +401,7 @@
 - よくある誤解：急性腹症ではアミラーゼを測れば多くの疾患を鑑別できる
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-037&card_id=AB-037&version=4bb150048c)　（版 `4bb150048c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-037&card_id=AB-037&version=4bb150048c)　（版 `4bb150048c`）
 
 ### AB-038　下書き（出典の照合前）
 
@@ -411,7 +411,7 @@
 - よくある誤解：腹痛の患者に心電図は不要である
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-038&card_id=AB-038&version=cc1615005c)　（版 `cc1615005c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-038&card_id=AB-038&version=cc1615005c)　（版 `cc1615005c`）
 
 ### AB-039　下書き（出典の照合前）
 
@@ -420,7 +420,7 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ40・BQ41
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-039&card_id=AB-039&version=85e8a58b0b)　（版 `85e8a58b0b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-039&card_id=AB-039&version=85e8a58b0b)　（版 `85e8a58b0b`）
 
 ### AB-040　下書き（出典の照合前）
 
@@ -429,7 +429,7 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ44・CQ7／recommendation: 弱い推奨（CQ7）／evidence_certainty: C
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-040&card_id=AB-040&version=41cf2f2f8b)　（版 `41cf2f2f8b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-040&card_id=AB-040&version=41cf2f2f8b)　（版 `41cf2f2f8b`）
 
 ### AB-041　下書き（出典の照合前）
 
@@ -438,7 +438,7 @@
 - 条件：guideline: 急性腹症診療GL2025 CQ14／recommendation: 弱い推奨／evidence_certainty: C
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-041&card_id=AB-041&version=08c5c8d0c8)　（版 `08c5c8d0c8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-041&card_id=AB-041&version=08c5c8d0c8)　（版 `08c5c8d0c8`）
 
 ### AB-042　下書き（出典の照合前）
 
@@ -448,7 +448,7 @@
 - よくある誤解：急性腹症ではまず腹部単純 X 線を撮る
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-029 (id: JlAKplA)；TBL-01-00-265 (id: Jlvnl3o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-042&card_id=AB-042&version=e84ad1c92d)　（版 `e84ad1c92d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-042&card_id=AB-042&version=e84ad1c92d)　（版 `e84ad1c92d`）
 
 ### AB-043　下書き（出典の照合前）
 
@@ -457,7 +457,7 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ46・CQ8／recommendation: 強い推奨（CQ8）／evidence_certainty: B
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-029 (id: JlAKplA)；TBL-01-00-265 (id: Jlvnl3o)；TBL-01-00-264 (id: Jlvnl3k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-043&card_id=AB-043&version=8737d788b0)　（版 `8737d788b0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-043&card_id=AB-043&version=8737d788b0)　（版 `8737d788b0`）
 
 ### AB-044　下書き（出典の照合前）
 
@@ -466,9 +466,9 @@
 - 条件：guideline: 急性腹症診療GL2025 CQ9・CQ10／recommendation: 弱い推奨／evidence_certainty: B
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-044&card_id=AB-044&version=53173ec6fc)　（版 `53173ec6fc`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-044&card_id=AB-044&version=53173ec6fc)　（版 `53173ec6fc`）
 
-**[ここまでの 10 件（AB-035〜AB-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-035%E3%80%9CAB-044&cards=AB-035%20cba367b5ed%0AAB-036%20fc968ec62f%0AAB-037%204bb150048c%0AAB-038%20cc1615005c%0AAB-039%2085e8a58b0b%0AAB-040%2041cf2f2f8b%0AAB-041%2008c5c8d0c8%0AAB-042%20e84ad1c92d%0AAB-043%208737d788b0%0AAB-044%2053173ec6fc)**
+**[ここまでの 10 件（AB-035〜AB-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-035%E3%80%9CAB-044&cards=AB-035%20cba367b5ed%0AAB-036%20fc968ec62f%0AAB-037%204bb150048c%0AAB-038%20cc1615005c%0AAB-039%2085e8a58b0b%0AAB-040%2041cf2f2f8b%0AAB-041%2008c5c8d0c8%0AAB-042%20e84ad1c92d%0AAB-043%208737d788b0%0AAB-044%2053173ec6fc)**
 
 ---
 
@@ -480,9 +480,9 @@
 - よくある誤解：妊婦には CT を一切撮ってはいけない
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-045&card_id=AB-045&version=093b14b13f)　（版 `093b14b13f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-045&card_id=AB-045&version=093b14b13f)　（版 `093b14b13f`）
 
-**[ここまでの 1 件（AB-045）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-045&cards=AB-045%20093b14b13f)**
+**[ここまでの 1 件（AB-045）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-045&cards=AB-045%20093b14b13f)**
 
 ---
 
@@ -496,7 +496,7 @@
 - よくある誤解：右下腹部痛はほぼ虫垂炎である
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-046&card_id=AB-046&version=f5a98cd045)　（版 `f5a98cd045`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-046&card_id=AB-046&version=f5a98cd045)　（版 `f5a98cd045`）
 
 ### AB-047　下書き（出典の照合前）
 
@@ -505,7 +505,7 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ48／evidence_certainty: C
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-047&card_id=AB-047&version=8a6c297167)　（版 `8a6c297167`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-047&card_id=AB-047&version=8a6c297167)　（版 `8a6c297167`）
 
 ### AB-048　下書き（出典の照合前）
 
@@ -515,7 +515,7 @@
 - よくある誤解：高齢者は所見が軽ければ重症ではない
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-048&card_id=AB-048&version=380637706d)　（版 `380637706d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-048&card_id=AB-048&version=380637706d)　（版 `380637706d`）
 
 ### AB-049　下書き（出典の照合前）
 
@@ -525,7 +525,7 @@
 - よくある誤解：発熱がなければ腹膜炎は考えにくい
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-308 (id: Jlvnl70)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-049&card_id=AB-049&version=579c21f83e)　（版 `579c21f83e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-049&card_id=AB-049&version=579c21f83e)　（版 `579c21f83e`）
 
 ### AB-050　下書き（出典の照合前）
 
@@ -534,7 +534,7 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ65・BQ74／evidence_certainty: C（BQ74）
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-265 (id: Jlvnl3o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-050&card_id=AB-050&version=d7d12dac94)　（版 `d7d12dac94`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-050&card_id=AB-050&version=d7d12dac94)　（版 `d7d12dac94`）
 
 ### AB-051　下書き（出典の照合前）
 
@@ -543,7 +543,7 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ60／evidence_certainty: C
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-051&card_id=AB-051&version=c0821824a5)　（版 `c0821824a5`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-051&card_id=AB-051&version=c0821824a5)　（版 `c0821824a5`）
 
 ### AB-052　下書き（出典の照合前）
 
@@ -553,7 +553,7 @@
 - よくある誤解：妊娠反応が陽性で腹痛があれば正常妊娠の症状である
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-052&card_id=AB-052&version=f6ab9cfc7d)　（版 `f6ab9cfc7d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-052&card_id=AB-052&version=f6ab9cfc7d)　（版 `f6ab9cfc7d`）
 
 ### AB-053　下書き（出典の照合前）
 
@@ -562,7 +562,7 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ59／evidence_certainty: C・D
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-264 (id: Jlvnl3k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-053&card_id=AB-053&version=7fe0553295)　（版 `7fe0553295`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-053&card_id=AB-053&version=7fe0553295)　（版 `7fe0553295`）
 
 ### AB-054　下書き（出典の照合前）
 
@@ -571,9 +571,9 @@
 - 条件：guideline: 急性腹症診療GL2025 BQ71・CQ6／recommendation: 弱い推奨（CQ6）／evidence_certainty: C
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-054&card_id=AB-054&version=10bafc6b65)　（版 `10bafc6b65`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-054&card_id=AB-054&version=10bafc6b65)　（版 `10bafc6b65`）
 
-**[ここまでの 9 件（AB-046〜AB-054）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-046%E3%80%9CAB-054&cards=AB-046%20f5a98cd045%0AAB-047%208a6c297167%0AAB-048%20380637706d%0AAB-049%20579c21f83e%0AAB-050%20d7d12dac94%0AAB-051%20c0821824a5%0AAB-052%20f6ab9cfc7d%0AAB-053%207fe0553295%0AAB-054%2010bafc6b65)**
+**[ここまでの 9 件（AB-046〜AB-054）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-046%E3%80%9CAB-054&cards=AB-046%20f5a98cd045%0AAB-047%208a6c297167%0AAB-048%20380637706d%0AAB-049%20579c21f83e%0AAB-050%20d7d12dac94%0AAB-051%20c0821824a5%0AAB-052%20f6ab9cfc7d%0AAB-053%207fe0553295%0AAB-054%2010bafc6b65)**
 
 ---
 
@@ -587,7 +587,7 @@
 - 不確実性：数値はWSES ガイドラインが引用した研究による（二次資料経由）
 - 出典：Di Saverio S, Podda M, De Simone B, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg 2020;15:27　[DOI 10.1186/s13017-020-00306-3](https://doi.org/10.1186/s13017-020-00306-3)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-055&card_id=AB-055&version=ba34442424)　（版 `ba34442424`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-055&card_id=AB-055&version=ba34442424)　（版 `ba34442424`）
 
 ### AB-056　下書き（出典の照合前）
 
@@ -597,7 +597,7 @@
 - よくある誤解：Alvarado スコアが高ければ虫垂炎と確定できる
 - 出典：Di Saverio S, Podda M, De Simone B, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg 2020;15:27　[DOI 10.1186/s13017-020-00306-3](https://doi.org/10.1186/s13017-020-00306-3)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-056&card_id=AB-056&version=b39aa02161)　（版 `b39aa02161`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-056&card_id=AB-056&version=b39aa02161)　（版 `b39aa02161`）
 
 ### AB-057　下書き（出典の照合前）
 
@@ -606,7 +606,7 @@
 - 条件：guideline: WSES Jerusalem GL 2020
 - 出典：Di Saverio S, Podda M, De Simone B, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg 2020;15:27　[DOI 10.1186/s13017-020-00306-3](https://doi.org/10.1186/s13017-020-00306-3)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-057&card_id=AB-057&version=349bd5e7ff)　（版 `349bd5e7ff`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-057&card_id=AB-057&version=349bd5e7ff)　（版 `349bd5e7ff`）
 
 ### AB-058　下書き（出典の照合前）
 
@@ -616,7 +616,7 @@
 - よくある誤解：妊娠中の虫垂炎はまず抗菌薬で治療する
 - 出典：Di Saverio S, Podda M, De Simone B, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg 2020;15:27　[DOI 10.1186/s13017-020-00306-3](https://doi.org/10.1186/s13017-020-00306-3)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-058&card_id=AB-058&version=af93f3e5b4)　（版 `af93f3e5b4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-058&card_id=AB-058&version=af93f3e5b4)　（版 `af93f3e5b4`）
 
 ### AB-059　下書き（出典の照合前）
 
@@ -627,7 +627,7 @@
 - 不確実性：再発率はガイドラインが引用した研究による（二次資料経由）
 - 出典：Di Saverio S, Podda M, De Simone B, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg 2020;15:27　[DOI 10.1186/s13017-020-00306-3](https://doi.org/10.1186/s13017-020-00306-3)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-059&card_id=AB-059&version=ad09ccc10d)　（版 `ad09ccc10d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-059&card_id=AB-059&version=ad09ccc10d)　（版 `ad09ccc10d`）
 
 ### AB-060　下書き（出典の照合前）
 
@@ -637,7 +637,7 @@
 - よくある誤解：虫垂炎は診断したら夜間でも直ちに手術しなければならない
 - 出典：Di Saverio S, Podda M, De Simone B, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg 2020;15:27　[DOI 10.1186/s13017-020-00306-3](https://doi.org/10.1186/s13017-020-00306-3)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-060&card_id=AB-060&version=74415c8206)　（版 `74415c8206`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-060&card_id=AB-060&version=74415c8206)　（版 `74415c8206`）
 
 ### AB-061　下書き（出典の照合前）
 
@@ -647,7 +647,7 @@
 - よくある誤解：虫垂切除後は全例に抗菌薬を数日続ける
 - 出典：Di Saverio S, Podda M, De Simone B, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg 2020;15:27　[DOI 10.1186/s13017-020-00306-3](https://doi.org/10.1186/s13017-020-00306-3)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-061&card_id=AB-061&version=88ebeb65da)　（版 `88ebeb65da`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-061&card_id=AB-061&version=88ebeb65da)　（版 `88ebeb65da`）
 
 ### AB-062　下書き（出典の照合前）
 
@@ -657,9 +657,9 @@
 - よくある誤解：膿瘍形成性虫垂炎は治癒後に全例で待機的虫垂切除術を行う
 - 出典：Di Saverio S, Podda M, De Simone B, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg 2020;15:27　[DOI 10.1186/s13017-020-00306-3](https://doi.org/10.1186/s13017-020-00306-3)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-062&card_id=AB-062&version=5df7b429e9)　（版 `5df7b429e9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-062&card_id=AB-062&version=5df7b429e9)　（版 `5df7b429e9`）
 
-**[ここまでの 8 件（AB-055〜AB-062）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-055%E3%80%9CAB-062&cards=AB-055%20ba34442424%0AAB-056%20b39aa02161%0AAB-057%20349bd5e7ff%0AAB-058%20af93f3e5b4%0AAB-059%20ad09ccc10d%0AAB-060%2074415c8206%0AAB-061%2088ebeb65da%0AAB-062%205df7b429e9)**
+**[ここまでの 8 件（AB-055〜AB-062）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-055%E3%80%9CAB-062&cards=AB-055%20ba34442424%0AAB-056%20b39aa02161%0AAB-057%20349bd5e7ff%0AAB-058%20af93f3e5b4%0AAB-059%20ad09ccc10d%0AAB-060%2074415c8206%0AAB-061%2088ebeb65da%0AAB-062%205df7b429e9)**
 
 ---
 
@@ -673,7 +673,7 @@
 - 不確実性：数値はガイドラインが引用した研究による（二次資料経由）
 - 出典：Ten Broek RPG, Krielen P, Di Saverio S, et al. Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (ASBO): 2017 update. World J Emerg Surg 2018;13:24　[DOI 10.1186/s13017-018-0185-2](https://doi.org/10.1186/s13017-018-0185-2)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-063&card_id=AB-063&version=2f78b5182b)　（版 `2f78b5182b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-063&card_id=AB-063&version=2f78b5182b)　（版 `2f78b5182b`）
 
 ### AB-064　下書き（出典の照合前）
 
@@ -683,7 +683,7 @@
 - よくある誤解：腸閉塞の手術適応は腹部単純 X 線で判断する
 - 出典：Ten Broek RPG, Krielen P, Di Saverio S, et al. Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (ASBO): 2017 update. World J Emerg Surg 2018;13:24　[DOI 10.1186/s13017-018-0185-2](https://doi.org/10.1186/s13017-018-0185-2)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-064&card_id=AB-064&version=02f3bc703f)　（版 `02f3bc703f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-064&card_id=AB-064&version=02f3bc703f)　（版 `02f3bc703f`）
 
 ### AB-065　下書き（出典の照合前）
 
@@ -693,7 +693,7 @@
 - よくある誤解：癒着性腸閉塞は改善するまで何日でも保存的治療を続けてよい
 - 出典：Ten Broek RPG, Krielen P, Di Saverio S, et al. Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (ASBO): 2017 update. World J Emerg Surg 2018;13:24　[DOI 10.1186/s13017-018-0185-2](https://doi.org/10.1186/s13017-018-0185-2)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-065&card_id=AB-065&version=e38f912c08)　（版 `e38f912c08`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-065&card_id=AB-065&version=e38f912c08)　（版 `e38f912c08`）
 
 ### AB-066　下書き（出典の照合前）
 
@@ -703,7 +703,7 @@
 - 不確実性：造影剤の量は本文に記載がない
 - 出典：Ten Broek RPG, Krielen P, Di Saverio S, et al. Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (ASBO): 2017 update. World J Emerg Surg 2018;13:24　[DOI 10.1186/s13017-018-0185-2](https://doi.org/10.1186/s13017-018-0185-2)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-066&card_id=AB-066&version=d29cfc7850)　（版 `d29cfc7850`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-066&card_id=AB-066&version=d29cfc7850)　（版 `d29cfc7850`）
 
 ### AB-067　下書き（出典の照合前）
 
@@ -714,7 +714,7 @@
 - 不確実性：数値はガイドラインが引用した研究による（二次資料経由）
 - 出典：Ten Broek RPG, Krielen P, Di Saverio S, et al. Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (ASBO): 2017 update. World J Emerg Surg 2018;13:24　[DOI 10.1186/s13017-018-0185-2](https://doi.org/10.1186/s13017-018-0185-2)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-067&card_id=AB-067&version=a5ad279fdc)　（版 `a5ad279fdc`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-067&card_id=AB-067&version=a5ad279fdc)　（版 `a5ad279fdc`）
 
 ### AB-068　下書き（出典の照合前）
 
@@ -724,9 +724,9 @@
 - 不確実性：腸管損傷の頻度はガイドラインが引用した研究による（二次資料経由）
 - 出典：Ten Broek RPG, Krielen P, Di Saverio S, et al. Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (ASBO): 2017 update. World J Emerg Surg 2018;13:24　[DOI 10.1186/s13017-018-0185-2](https://doi.org/10.1186/s13017-018-0185-2)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-068&card_id=AB-068&version=baf3741263)　（版 `baf3741263`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-068&card_id=AB-068&version=baf3741263)　（版 `baf3741263`）
 
-**[ここまでの 6 件（AB-063〜AB-068）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-063%E3%80%9CAB-068&cards=AB-063%202f78b5182b%0AAB-064%2002f3bc703f%0AAB-065%20e38f912c08%0AAB-066%20d29cfc7850%0AAB-067%20a5ad279fdc%0AAB-068%20baf3741263)**
+**[ここまでの 6 件（AB-063〜AB-068）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-063%E3%80%9CAB-068&cards=AB-063%202f78b5182b%0AAB-064%2002f3bc703f%0AAB-065%20e38f912c08%0AAB-066%20d29cfc7850%0AAB-067%20a5ad279fdc%0AAB-068%20baf3741263)**
 
 ---
 
@@ -740,7 +740,7 @@
 - 不確実性：数値はHerniaSurge ガイドラインが引用した研究による（二次資料経由）
 - 出典：HerniaSurge Group. International guidelines for groin hernia management. Hernia 2018;22:1-165　[DOI 10.1007/s10029-017-1668-x](https://doi.org/10.1007/s10029-017-1668-x)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-9-A-②（鼠径ヘルニア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-069&card_id=AB-069&version=468df93eb0)　（版 `468df93eb0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-069&card_id=AB-069&version=468df93eb0)　（版 `468df93eb0`）
 
 ### AB-070　下書き（出典の照合前）
 
@@ -749,7 +749,7 @@
 - 条件：guideline: HerniaSurge 国際GL 2018
 - 出典：HerniaSurge Group. International guidelines for groin hernia management. Hernia 2018;22:1-165　[DOI 10.1007/s10029-017-1668-x](https://doi.org/10.1007/s10029-017-1668-x)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-9-A-②（鼠径ヘルニア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-070&card_id=AB-070&version=0099126d1a)　（版 `0099126d1a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-070&card_id=AB-070&version=0099126d1a)　（版 `0099126d1a`）
 
 ### AB-071　下書き（出典の照合前）
 
@@ -760,7 +760,7 @@
 - 不確実性：移行率はガイドラインが引用した研究による（二次資料経由）
 - 出典：HerniaSurge Group. International guidelines for groin hernia management. Hernia 2018;22:1-165　[DOI 10.1007/s10029-017-1668-x](https://doi.org/10.1007/s10029-017-1668-x)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-9-A-②（鼠径ヘルニア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-071&card_id=AB-071&version=d4fd74f934)　（版 `d4fd74f934`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-071&card_id=AB-071&version=d4fd74f934)　（版 `d4fd74f934`）
 
 ### AB-072　下書き（出典の照合前）
 
@@ -769,7 +769,7 @@
 - 条件：guideline: HerniaSurge 国際GL 2018
 - 出典：HerniaSurge Group. International guidelines for groin hernia management. Hernia 2018;22:1-165　[DOI 10.1007/s10029-017-1668-x](https://doi.org/10.1007/s10029-017-1668-x)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-9-A-②（鼠径ヘルニア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-072&card_id=AB-072&version=b209b78a4f)　（版 `b209b78a4f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-072&card_id=AB-072&version=b209b78a4f)　（版 `b209b78a4f`）
 
 ### AB-073　下書き（出典の照合前）
 
@@ -779,7 +779,7 @@
 - よくある誤解：大腿ヘルニアも症状がなければ経過観察でよい
 - 出典：HerniaSurge Group. International guidelines for groin hernia management. Hernia 2018;22:1-165　[DOI 10.1007/s10029-017-1668-x](https://doi.org/10.1007/s10029-017-1668-x)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-9-A-③（大腿ヘルニア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-073&card_id=AB-073&version=c33dd5ebe1)　（版 `c33dd5ebe1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-073&card_id=AB-073&version=c33dd5ebe1)　（版 `c33dd5ebe1`）
 
 ### AB-074　下書き（出典の照合前）
 
@@ -789,9 +789,9 @@
 - 不確実性：数値はガイドラインが引用した研究による（二次資料経由）
 - 出典：HerniaSurge Group. International guidelines for groin hernia management. Hernia 2018;22:1-165　[DOI 10.1007/s10029-017-1668-x](https://doi.org/10.1007/s10029-017-1668-x)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-9-A-②（鼠径ヘルニア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-074&card_id=AB-074&version=496dc8c188)　（版 `496dc8c188`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-074&card_id=AB-074&version=496dc8c188)　（版 `496dc8c188`）
 
-**[ここまでの 6 件（AB-069〜AB-074）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-069%E3%80%9CAB-074&cards=AB-069%20468df93eb0%0AAB-070%200099126d1a%0AAB-071%20d4fd74f934%0AAB-072%20b209b78a4f%0AAB-073%20c33dd5ebe1%0AAB-074%20496dc8c188)**
+**[ここまでの 6 件（AB-069〜AB-074）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-069%E3%80%9CAB-074&cards=AB-069%20468df93eb0%0AAB-070%200099126d1a%0AAB-071%20d4fd74f934%0AAB-072%20b209b78a4f%0AAB-073%20c33dd5ebe1%0AAB-074%20496dc8c188)**
 
 ---
 
@@ -804,7 +804,7 @@
 - 条件：guideline: WSES 腹腔内感染症 GL 2017
 - 出典：Sartelli M, Chichom-Mefire A, Labricciosa FM, et al. The management of intra-abdominal infections from a global perspective: 2017 WSES guidelines for management of intra-abdominal infections. World J Emerg Surg 2017;12:29　[DOI 10.1186/s13017-017-0141-6](https://doi.org/10.1186/s13017-017-0141-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-308 (id: Jlvnl70)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-075&card_id=AB-075&version=7237624268)　（版 `7237624268`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-075&card_id=AB-075&version=7237624268)　（版 `7237624268`）
 
 ### AB-076　下書き（出典の照合前）
 
@@ -815,7 +815,7 @@
 - よくある誤解：腹膜炎の多くは特発性細菌性腹膜炎である
 - 出典：Sartelli M, Chichom-Mefire A, Labricciosa FM, et al. The management of intra-abdominal infections from a global perspective: 2017 WSES guidelines for management of intra-abdominal infections. World J Emerg Surg 2017;12:29　[DOI 10.1186/s13017-017-0141-6](https://doi.org/10.1186/s13017-017-0141-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-308 (id: Jlvnl70)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-076&card_id=AB-076&version=fbe38c773d)　（版 `fbe38c773d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-076&card_id=AB-076&version=fbe38c773d)　（版 `fbe38c773d`）
 
 ### AB-077　下書き（出典の照合前）
 
@@ -826,9 +826,9 @@
 - 不確実性：死亡率はガイドラインが引用した研究による（二次資料経由）
 - 出典：Sartelli M, Chichom-Mefire A, Labricciosa FM, et al. The management of intra-abdominal infections from a global perspective: 2017 WSES guidelines for management of intra-abdominal infections. World J Emerg Surg 2017;12:29　[DOI 10.1186/s13017-017-0141-6](https://doi.org/10.1186/s13017-017-0141-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-308 (id: Jlvnl70)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-077&card_id=AB-077&version=79e904bd50)　（版 `79e904bd50`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-077&card_id=AB-077&version=79e904bd50)　（版 `79e904bd50`）
 
-**[ここまでの 3 件（AB-075〜AB-077）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-075%E3%80%9CAB-077&cards=AB-075%207237624268%0AAB-076%20fbe38c773d%0AAB-077%2079e904bd50)**
+**[ここまでの 3 件（AB-075〜AB-077）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-075%E3%80%9CAB-077&cards=AB-075%207237624268%0AAB-076%20fbe38c773d%0AAB-077%2079e904bd50)**
 
 ---
 
@@ -843,7 +843,7 @@
 - 不確実性：NOMI の割合は本文で約20%と25%の2通りに書かれている。数値はガイドラインが引用した研究による（二次資料経由）
 - 出典：Bala M, Catena F, Kashuk J, et al. Acute mesenteric ischemia: updated guidelines of the World Society of Emergency Surgery. World J Emerg Surg 2022;17:54　[DOI 10.1186/s13017-022-00443-x](https://doi.org/10.1186/s13017-022-00443-x)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-078&card_id=AB-078&version=5170be239d)　（版 `5170be239d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-078&card_id=AB-078&version=5170be239d)　（版 `5170be239d`）
 
 ### AB-079　下書き（出典の照合前）
 
@@ -853,7 +853,7 @@
 - よくある誤解：乳酸値が正常なら腸間膜虚血は否定できる
 - 出典：Bala M, Catena F, Kashuk J, et al. Acute mesenteric ischemia: updated guidelines of the World Society of Emergency Surgery. World J Emerg Surg 2022;17:54　[DOI 10.1186/s13017-022-00443-x](https://doi.org/10.1186/s13017-022-00443-x)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-079&card_id=AB-079&version=a4da2575fe)　（版 `a4da2575fe`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-079&card_id=AB-079&version=a4da2575fe)　（版 `a4da2575fe`）
 
 ### AB-080　下書き（出典の照合前）
 
@@ -863,7 +863,7 @@
 - 不確実性：死亡率の倍増はガイドラインの記述による
 - 出典：Bala M, Catena F, Kashuk J, et al. Acute mesenteric ischemia: updated guidelines of the World Society of Emergency Surgery. World J Emerg Surg 2022;17:54　[DOI 10.1186/s13017-022-00443-x](https://doi.org/10.1186/s13017-022-00443-x)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-080&card_id=AB-080&version=4b4e29632f)　（版 `4b4e29632f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-080&card_id=AB-080&version=4b4e29632f)　（版 `4b4e29632f`）
 
 ### AB-081　下書き（出典の照合前）
 
@@ -872,9 +872,9 @@
 - 条件：guideline: WSES 急性腸間膜虚血 GL 2022
 - 出典：Bala M, Catena F, Kashuk J, et al. Acute mesenteric ischemia: updated guidelines of the World Society of Emergency Surgery. World J Emerg Surg 2022;17:54　[DOI 10.1186/s13017-022-00443-x](https://doi.org/10.1186/s13017-022-00443-x)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-081&card_id=AB-081&version=334dd2984b)　（版 `334dd2984b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-081&card_id=AB-081&version=334dd2984b)　（版 `334dd2984b`）
 
-**[ここまでの 4 件（AB-078〜AB-081）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-078%E3%80%9CAB-081&cards=AB-078%205170be239d%0AAB-079%20a4da2575fe%0AAB-080%204b4e29632f%0AAB-081%20334dd2984b)**
+**[ここまでの 4 件（AB-078〜AB-081）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-078%E3%80%9CAB-081&cards=AB-078%205170be239d%0AAB-079%20a4da2575fe%0AAB-080%204b4e29632f%0AAB-081%20334dd2984b)**
 
 ---
 
@@ -886,7 +886,7 @@
 
 - 条件：guideline: WSACS 合意定義 2013
 - 出典：Kirkpatrick AW, Roberts DJ, De Waele J, et al. Intra-abdominal hypertension and the abdominal compartment syndrome: updated consensus definitions and clinical practice guidelines from the World Society of the Abdominal Compartment Syndrome. Intensive Care Med 2013;39:1190-1206　[DOI 10.1007/s00134-013-2906-z](https://doi.org/10.1007/s00134-013-2906-z)（区分 RESTRICTED）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-082&card_id=AB-082&version=a4d1e8b64b)　（版 `a4d1e8b64b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-082&card_id=AB-082&version=a4d1e8b64b)　（版 `a4d1e8b64b`）
 
 ### AB-083　下書き（出典の照合前）
 
@@ -894,9 +894,9 @@
 
 - 条件：guideline: WSACS 合意定義 2013
 - 出典：Kirkpatrick AW, Roberts DJ, De Waele J, et al. Intra-abdominal hypertension and the abdominal compartment syndrome: updated consensus definitions and clinical practice guidelines from the World Society of the Abdominal Compartment Syndrome. Intensive Care Med 2013;39:1190-1206　[DOI 10.1007/s00134-013-2906-z](https://doi.org/10.1007/s00134-013-2906-z)（区分 RESTRICTED）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-083&card_id=AB-083&version=15dc6c3f9b)　（版 `15dc6c3f9b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-083&card_id=AB-083&version=15dc6c3f9b)　（版 `15dc6c3f9b`）
 
-**[ここまでの 2 件（AB-082〜AB-083）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-082%E3%80%9CAB-083&cards=AB-082%20a4d1e8b64b%0AAB-083%2015dc6c3f9b)**
+**[ここまでの 2 件（AB-082〜AB-083）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-082%E3%80%9CAB-083&cards=AB-082%20a4d1e8b64b%0AAB-083%2015dc6c3f9b)**
 
 ---
 
@@ -909,7 +909,7 @@
 - 条件：guideline: WSES 脾損傷 GL 2017
 - よくある誤解：腹部外傷では循環が不安定でもまず CT を撮る
 - 出典：Coccolini F, Montori G, Catena F, et al. Splenic trauma: WSES classification and guidelines for adult and pediatric patients. World J Emerg Surg 2017;12:40　[DOI 10.1186/s13017-017-0151-4](https://doi.org/10.1186/s13017-017-0151-4)（区分 OPEN）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-084&card_id=AB-084&version=26729725c2)　（版 `26729725c2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-084&card_id=AB-084&version=26729725c2)　（版 `26729725c2`）
 
 ### AB-085　下書き（出典の照合前）
 
@@ -918,7 +918,7 @@
 - 条件：guideline: WSES 脾損傷 GL 2017
 - よくある誤解：脾損傷は重症度が高ければ全例で脾摘出術を行う
 - 出典：Coccolini F, Montori G, Catena F, et al. Splenic trauma: WSES classification and guidelines for adult and pediatric patients. World J Emerg Surg 2017;12:40　[DOI 10.1186/s13017-017-0151-4](https://doi.org/10.1186/s13017-017-0151-4)（区分 OPEN）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-085&card_id=AB-085&version=c9aa164e96)　（版 `c9aa164e96`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-085&card_id=AB-085&version=c9aa164e96)　（版 `c9aa164e96`）
 
 ### AB-086　下書き（出典の照合前）
 
@@ -926,9 +926,9 @@
 
 - 条件：guideline: WSES 脾損傷 GL 2017
 - 出典：Coccolini F, Montori G, Catena F, et al. Splenic trauma: WSES classification and guidelines for adult and pediatric patients. World J Emerg Surg 2017;12:40　[DOI 10.1186/s13017-017-0151-4](https://doi.org/10.1186/s13017-017-0151-4)（区分 OPEN）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-086&card_id=AB-086&version=e3dbeb352b)　（版 `e3dbeb352b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-086&card_id=AB-086&version=e3dbeb352b)　（版 `e3dbeb352b`）
 
-**[ここまでの 3 件（AB-084〜AB-086）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-084%E3%80%9CAB-086&cards=AB-084%2026729725c2%0AAB-085%20c9aa164e96%0AAB-086%20e3dbeb352b)**
+**[ここまでの 3 件（AB-084〜AB-086）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-084%E3%80%9CAB-086&cards=AB-084%2026729725c2%0AAB-085%20c9aa164e96%0AAB-086%20e3dbeb352b)**
 
 ---
 
@@ -942,7 +942,7 @@
 - よくある誤解：還納できないヘルニアはすべて絞扼している
 - 出典：De Simone B, Birindelli A, Ansaloni L, et al. Emergency repair of complicated abdominal wall hernias: WSES guidelines. Hernia 2020;24:359-368（2017年改訂版 WSES GL の要約版）　[DOI 10.1007/s10029-019-02021-8](https://doi.org/10.1007/s10029-019-02021-8)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-087&card_id=AB-087&version=624d489074)　（版 `624d489074`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-087&card_id=AB-087&version=624d489074)　（版 `624d489074`）
 
 ### AB-088　下書き（出典の照合前）
 
@@ -952,7 +952,7 @@
 - よくある誤解：嵌頓ヘルニアは痛みが強くなるまで様子をみてよい
 - 出典：De Simone B, Birindelli A, Ansaloni L, et al. Emergency repair of complicated abdominal wall hernias: WSES guidelines. Hernia 2020;24:359-368（2017年改訂版 WSES GL の要約版）　[DOI 10.1007/s10029-019-02021-8](https://doi.org/10.1007/s10029-019-02021-8)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-088&card_id=AB-088&version=307ab37f9e)　（版 `307ab37f9e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-088&card_id=AB-088&version=307ab37f9e)　（版 `307ab37f9e`）
 
 ### AB-089　下書き（出典の照合前）
 
@@ -962,7 +962,7 @@
 - よくある誤解：嵌頓ヘルニアが自然に戻れば腸管の評価は不要である
 - 出典：De Simone B, Birindelli A, Ansaloni L, et al. Emergency repair of complicated abdominal wall hernias: WSES guidelines. Hernia 2020;24:359-368（2017年改訂版 WSES GL の要約版）　[DOI 10.1007/s10029-019-02021-8](https://doi.org/10.1007/s10029-019-02021-8)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-089&card_id=AB-089&version=e18028c020)　（版 `e18028c020`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-089&card_id=AB-089&version=e18028c020)　（版 `e18028c020`）
 
 ### AB-090　下書き（出典の照合前）
 
@@ -972,7 +972,7 @@
 - よくある誤解：腸切除を伴うヘルニア手術ではメッシュを使ってはいけない
 - 出典：De Simone B, Birindelli A, Ansaloni L, et al. Emergency repair of complicated abdominal wall hernias: WSES guidelines. Hernia 2020;24:359-368（2017年改訂版 WSES GL の要約版）　[DOI 10.1007/s10029-019-02021-8](https://doi.org/10.1007/s10029-019-02021-8)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-090&card_id=AB-090&version=cc75ad0b88)　（版 `cc75ad0b88`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-090&card_id=AB-090&version=cc75ad0b88)　（版 `cc75ad0b88`）
 
 ### AB-091　下書き（出典の照合前）
 
@@ -981,7 +981,7 @@
 - 条件：guideline: WSES 腹壁ヘルニア緊急修復 GL（Hernia 2020 要約版）
 - 出典：De Simone B, Birindelli A, Ansaloni L, et al. Emergency repair of complicated abdominal wall hernias: WSES guidelines. Hernia 2020;24:359-368（2017年改訂版 WSES GL の要約版）　[DOI 10.1007/s10029-019-02021-8](https://doi.org/10.1007/s10029-019-02021-8)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-308 (id: Jlvnl70)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-091&card_id=AB-091&version=5309c1e2ea)　（版 `5309c1e2ea`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-091&card_id=AB-091&version=5309c1e2ea)　（版 `5309c1e2ea`）
 
 ### AB-092　下書き（出典の照合前）
 
@@ -990,7 +990,7 @@
 - 条件：guideline: WSES 腹壁ヘルニア緊急修復 GL（Hernia 2020 要約版）
 - 出典：De Simone B, Birindelli A, Ansaloni L, et al. Emergency repair of complicated abdominal wall hernias: WSES guidelines. Hernia 2020;24:359-368（2017年改訂版 WSES GL の要約版）　[DOI 10.1007/s10029-019-02021-8](https://doi.org/10.1007/s10029-019-02021-8)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-308 (id: Jlvnl70)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-092&card_id=AB-092&version=ff1782bd5d)　（版 `ff1782bd5d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-092&card_id=AB-092&version=ff1782bd5d)　（版 `ff1782bd5d`）
 
 ### AB-093　下書き（出典の照合前）
 
@@ -999,9 +999,9 @@
 - 条件：guideline: WSES 腹壁ヘルニア緊急修復 GL（Hernia 2020 要約版）
 - 出典：De Simone B, Birindelli A, Ansaloni L, et al. Emergency repair of complicated abdominal wall hernias: WSES guidelines. Hernia 2020;24:359-368（2017年改訂版 WSES GL の要約版）　[DOI 10.1007/s10029-019-02021-8](https://doi.org/10.1007/s10029-019-02021-8)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-9-A-②（鼠径ヘルニア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-093&card_id=AB-093&version=8011163125)　（版 `8011163125`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-093&card_id=AB-093&version=8011163125)　（版 `8011163125`）
 
-**[ここまでの 7 件（AB-087〜AB-093）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-087%E3%80%9CAB-093&cards=AB-087%20624d489074%0AAB-088%20307ab37f9e%0AAB-089%20e18028c020%0AAB-090%20cc75ad0b88%0AAB-091%205309c1e2ea%0AAB-092%20ff1782bd5d%0AAB-093%208011163125)**
+**[ここまでの 7 件（AB-087〜AB-093）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-087%E3%80%9CAB-093&cards=AB-087%20624d489074%0AAB-088%20307ab37f9e%0AAB-089%20e18028c020%0AAB-090%20cc75ad0b88%0AAB-091%205309c1e2ea%0AAB-092%20ff1782bd5d%0AAB-093%208011163125)**
 
 ---
 

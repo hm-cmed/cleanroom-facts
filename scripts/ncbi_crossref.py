@@ -15,7 +15,7 @@ CACHE = ROOT / ".cache"
 load_dotenv(ROOT / ".env")
 EMAIL = os.environ.get("CONTACT_EMAIL", "")
 NCBI_KEY = os.environ.get("NCBI_API_KEY", "")
-TOOL = "cleanroom-gi-facts"
+TOOL = "cleanroom-facts"
 EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 IDCONV = "https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/"
 

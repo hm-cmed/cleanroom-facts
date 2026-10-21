@@ -11,7 +11,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 FACTS = ROOT / "data" / "facts"
-REPO = os.environ.get("GITHUB_REPOSITORY") or "hm-cmed/cleanroom-gi-facts"
+REPO = os.environ.get("GITHUB_REPOSITORY") or "hm-cmed/cleanroom-facts"
 NO_RESPONSE = "_No response_"
 
 

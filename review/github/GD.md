@@ -15,7 +15,7 @@
 - よくある誤解：Rome IVの4症状以外の訴えがあればFDではないと考える
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-001&card_id=GD-001&version=824b91e885)　（版 `824b91e885`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-001&card_id=GD-001&version=824b91e885)　（版 `824b91e885`）
 
 ### GD-002　出典照合済み・監修待ち
 
@@ -26,7 +26,7 @@
 - よくある誤解：日本でもRome IVの期間要件を満たさなければFDと診断できないと考える
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-002&card_id=GD-002&version=e92e742846)　（版 `e92e742846`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-002&card_id=GD-002&version=e92e742846)　（版 `e92e742846`）
 
 ### GD-003　出典照合済み・監修待ち
 
@@ -37,7 +37,7 @@
 - よくある誤解：上腹部症状がある患者はすべて慢性胃炎として扱えばよい
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-003&card_id=GD-003&version=b75468c3e0)　（版 `b75468c3e0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-003&card_id=GD-003&version=b75468c3e0)　（版 `b75468c3e0`）
 
 ### GD-004　出典照合済み・監修待ち
 
@@ -49,7 +49,7 @@
 - 不確実性：HP-015〜017（除菌の適応・京都コンセンサス）と内容が近いが、本カードはFDとの鑑別の観点に限定
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-004&card_id=GD-004&version=34edd799f9)　（版 `34edd799f9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-004&card_id=GD-004&version=34edd799f9)　（版 `34edd799f9`）
 
 ### GD-005　出典照合済み・監修待ち
 
@@ -61,7 +61,7 @@
 - 不確実性：日本のデータはいずれも単施設の横断研究（GL本文の記載）
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-005&card_id=GD-005&version=642299ebb5)　（版 `642299ebb5`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-005&card_id=GD-005&version=642299ebb5)　（版 `642299ebb5`）
 
 ### GD-006　出典照合済み・監修待ち
 
@@ -72,7 +72,7 @@
 - よくある誤解：FDは心理的要因だけで起こる
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-006&card_id=GD-006&version=38f57e2b72)　（版 `38f57e2b72`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-006&card_id=GD-006&version=38f57e2b72)　（版 `38f57e2b72`）
 
 ### GD-007　出典照合済み・監修待ち
 
@@ -83,7 +83,7 @@
 - よくある誤解：FDと胃不全麻痺は同一疾患である
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-007&card_id=GD-007&version=5e585fe5fb)　（版 `5e585fe5fb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-007&card_id=GD-007&version=5e585fe5fb)　（版 `5e585fe5fb`）
 
 ### GD-008　出典照合済み・監修待ち
 
@@ -94,7 +94,7 @@
 - よくある誤解：FDと診断するには全例で内視鏡が必要
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-008&card_id=GD-008&version=503727456a)　（版 `503727456a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-008&card_id=GD-008&version=503727456a)　（版 `503727456a`）
 
 ### GD-009　出典照合済み・監修待ち
 
@@ -105,7 +105,7 @@
 - よくある誤解：FDにもP-CABがPPIより優れることが示されている
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-009&card_id=GD-009&version=0c8014e25b)　（版 `0c8014e25b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-009&card_id=GD-009&version=0c8014e25b)　（版 `0c8014e25b`）
 
 ### GD-010　出典照合済み・監修待ち
 
@@ -117,9 +117,9 @@
 - 不確実性：数値はGL本文の引用値。原著（Cochrane CD011194）は未照合
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-010&card_id=GD-010&version=176899e39e)　（版 `176899e39e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-010&card_id=GD-010&version=176899e39e)　（版 `176899e39e`）
 
-**[ここまでの 10 件（GD-001〜GD-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-001%E3%80%9CGD-010&cards=GD-001%20824b91e885%0AGD-002%20e92e742846%0AGD-003%20b75468c3e0%0AGD-004%2034edd799f9%0AGD-005%20642299ebb5%0AGD-006%2038f57e2b72%0AGD-007%205e585fe5fb%0AGD-008%20503727456a%0AGD-009%200c8014e25b%0AGD-010%20176899e39e)**
+**[ここまでの 10 件（GD-001〜GD-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-001%E3%80%9CGD-010&cards=GD-001%20824b91e885%0AGD-002%20e92e742846%0AGD-003%20b75468c3e0%0AGD-004%2034edd799f9%0AGD-005%20642299ebb5%0AGD-006%2038f57e2b72%0AGD-007%205e585fe5fb%0AGD-008%20503727456a%0AGD-009%200c8014e25b%0AGD-010%20176899e39e)**
 
 ---
 
@@ -132,7 +132,7 @@
 - よくある誤解：消化管運動機能改善薬はすべて同じ推奨度である
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-011&card_id=GD-011&version=7cc55c1c90)　（版 `7cc55c1c90`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-011&card_id=GD-011&version=7cc55c1c90)　（版 `7cc55c1c90`）
 
 ### GD-012　出典照合済み・監修待ち
 
@@ -143,7 +143,7 @@
 - よくある誤解：漢方薬はすべて一次治療である
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-012&card_id=GD-012&version=6bbb97f255)　（版 `6bbb97f255`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-012&card_id=GD-012&version=6bbb97f255)　（版 `6bbb97f255`）
 
 ### GD-013　出典照合済み・監修待ち
 
@@ -154,7 +154,7 @@
 - よくある誤解：モサプリドはFDの一次治療として強く推奨されている
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-013&card_id=GD-013&version=2906f130d8)　（版 `2906f130d8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-013&card_id=GD-013&version=2906f130d8)　（版 `2906f130d8`）
 
 ### GD-014　出典照合済み・監修待ち
 
@@ -165,7 +165,7 @@
 - よくある誤解：向精神薬はFDの一次治療である
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-014&card_id=GD-014&version=484cabd30d)　（版 `484cabd30d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-014&card_id=GD-014&version=484cabd30d)　（版 `484cabd30d`）
 
 ### GD-015　出典照合済み・監修待ち
 
@@ -176,7 +176,7 @@
 - よくある誤解：粘膜保護薬はFDの標準治療である
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-015&card_id=GD-015&version=d910c5d3fa)　（版 `d910c5d3fa`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-015&card_id=GD-015&version=d910c5d3fa)　（版 `d910c5d3fa`）
 
 ### GD-016　出典照合済み・監修待ち
 
@@ -187,7 +187,7 @@
 - よくある誤解：プラセボで改善する症状は詐病である
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-016&card_id=GD-016&version=78ed15b68f)　（版 `78ed15b68f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-016&card_id=GD-016&version=78ed15b68f)　（版 `78ed15b68f`）
 
 ### GD-017　出典照合済み・監修待ち
 
@@ -198,7 +198,7 @@
 - よくある誤解：FDは生命予後を悪化させる
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-017&card_id=GD-017&version=80b45ebb94)　（版 `80b45ebb94`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-017&card_id=GD-017&version=80b45ebb94)　（版 `80b45ebb94`）
 
 ### GD-018　出典照合済み・監修待ち
 
@@ -209,9 +209,9 @@
 - よくある誤解：PDSには必ず運動機能改善薬、EPSには必ず酸分泌抑制薬を使う
 - 出典：Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61　[DOI 10.1007/s00535-021-01843-7](https://doi.org/10.1007/s00535-021-01843-7)　[PMID 35061057](https://pubmed.ncbi.nlm.nih.gov/35061057/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-①（機能性ディスペプシア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-018&card_id=GD-018&version=0dae1203df)　（版 `0dae1203df`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-018&card_id=GD-018&version=0dae1203df)　（版 `0dae1203df`）
 
-**[ここまでの 8 件（GD-011〜GD-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-011%E3%80%9CGD-018&cards=GD-011%207cc55c1c90%0AGD-012%206bbb97f255%0AGD-013%202906f130d8%0AGD-014%20484cabd30d%0AGD-015%20d910c5d3fa%0AGD-016%2078ed15b68f%0AGD-017%2080b45ebb94%0AGD-018%200dae1203df)**
+**[ここまでの 8 件（GD-011〜GD-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-011%E3%80%9CGD-018&cards=GD-011%207cc55c1c90%0AGD-012%206bbb97f255%0AGD-013%202906f130d8%0AGD-014%20484cabd30d%0AGD-015%20d910c5d3fa%0AGD-016%2078ed15b68f%0AGD-017%2080b45ebb94%0AGD-018%200dae1203df)**
 
 ---
 
@@ -226,7 +226,7 @@
 - よくある誤解：潰瘍の既往がなければ予防は不要
 - 出典：Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381　[DOI 10.1007/s00535-026-02504-3](https://doi.org/10.1007/s00535-026-02504-3)　[PMID 42635735](https://pubmed.ncbi.nlm.nih.gov/42635735/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-019&card_id=GD-019&version=37929a8c83)　（版 `37929a8c83`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-019&card_id=GD-019&version=37929a8c83)　（版 `37929a8c83`）
 
 ### GD-020　出典照合済み・監修待ち
 
@@ -237,7 +237,7 @@
 - よくある誤解：COX-2阻害薬に切り替えれば酸分泌抑制薬は不要
 - 出典：Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381　[DOI 10.1007/s00535-026-02504-3](https://doi.org/10.1007/s00535-026-02504-3)　[PMID 42635735](https://pubmed.ncbi.nlm.nih.gov/42635735/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-020&card_id=GD-020&version=e14b15f84c)　（版 `e14b15f84c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-020&card_id=GD-020&version=e14b15f84c)　（版 `e14b15f84c`）
 
 ### GD-021　出典照合済み・監修待ち
 
@@ -248,7 +248,7 @@
 - よくある誤解：ステロイド単独と同じ扱いでよい
 - 出典：Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381　[DOI 10.1007/s00535-026-02504-3](https://doi.org/10.1007/s00535-026-02504-3)　[PMID 42635735](https://pubmed.ncbi.nlm.nih.gov/42635735/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-021&card_id=GD-021&version=ddf31c717f)　（版 `ddf31c717f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-021&card_id=GD-021&version=ddf31c717f)　（版 `ddf31c717f`）
 
 ### GD-022　出典照合済み・監修待ち
 
@@ -259,7 +259,7 @@
 - よくある誤解：NSAIDを続けたままでは潰瘍は治らない
 - 出典：Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381　[DOI 10.1007/s00535-026-02504-3](https://doi.org/10.1007/s00535-026-02504-3)　[PMID 42635735](https://pubmed.ncbi.nlm.nih.gov/42635735/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-022&card_id=GD-022&version=55bd177ab6)　（版 `55bd177ab6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-022&card_id=GD-022&version=55bd177ab6)　（版 `55bd177ab6`）
 
 ### GD-023　出典照合済み・監修待ち
 
@@ -270,7 +270,7 @@
 - よくある誤解：LDA潰瘍の治療中は必ずLDAを中止する
 - 出典：Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381　[DOI 10.1007/s00535-026-02504-3](https://doi.org/10.1007/s00535-026-02504-3)　[PMID 42635735](https://pubmed.ncbi.nlm.nih.gov/42635735/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-A-①（抗血小板薬による粘膜障害、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-023&card_id=GD-023&version=e80220a736)　（版 `e80220a736`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-023&card_id=GD-023&version=e80220a736)　（版 `e80220a736`）
 
 ### GD-024　出典照合済み・監修待ち
 
@@ -281,7 +281,7 @@
 - よくある誤解：LDA単剤なら予防は不要
 - 出典：Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381　[DOI 10.1007/s00535-026-02504-3](https://doi.org/10.1007/s00535-026-02504-3)　[PMID 42635735](https://pubmed.ncbi.nlm.nih.gov/42635735/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-A-①（抗血小板薬による粘膜障害、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-024&card_id=GD-024&version=bb1fce3265)　（版 `bb1fce3265`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-024&card_id=GD-024&version=bb1fce3265)　（版 `bb1fce3265`）
 
 ### GD-025　出典照合済み・監修待ち
 
@@ -292,7 +292,7 @@
 - よくある誤解：H2RAとPPIの予防効果は同等である
 - 出典：Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381　[DOI 10.1007/s00535-026-02504-3](https://doi.org/10.1007/s00535-026-02504-3)　[PMID 42635735](https://pubmed.ncbi.nlm.nih.gov/42635735/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-A-①（抗血小板薬による粘膜障害、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-025&card_id=GD-025&version=897ffd65d0)　（版 `897ffd65d0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-025&card_id=GD-025&version=897ffd65d0)　（版 `897ffd65d0`）
 
 ### GD-026　出典照合済み・監修待ち
 
@@ -303,7 +303,7 @@
 - よくある誤解：LDA併用時はNSAIDの種類を問わない
 - 出典：Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381　[DOI 10.1007/s00535-026-02504-3](https://doi.org/10.1007/s00535-026-02504-3)　[PMID 42635735](https://pubmed.ncbi.nlm.nih.gov/42635735/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-A-①（抗血小板薬による粘膜障害、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-026&card_id=GD-026&version=37ba047768)　（版 `37ba047768`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-026&card_id=GD-026&version=37ba047768)　（版 `37ba047768`）
 
 ### GD-027　出典照合済み・監修待ち
 
@@ -314,9 +314,9 @@
 - よくある誤解：抗凝固薬は抗血小板薬と違い上部消化管出血の原因にならない
 - 出典：Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381　[DOI 10.1007/s00535-026-02504-3](https://doi.org/10.1007/s00535-026-02504-3)　[PMID 42635735](https://pubmed.ncbi.nlm.nih.gov/42635735/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-027&card_id=GD-027&version=f9ad67ea25)　（版 `f9ad67ea25`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-027&card_id=GD-027&version=f9ad67ea25)　（版 `f9ad67ea25`）
 
-**[ここまでの 9 件（GD-019〜GD-027）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-019%E3%80%9CGD-027&cards=GD-019%2037929a8c83%0AGD-020%20e14b15f84c%0AGD-021%20ddf31c717f%0AGD-022%2055bd177ab6%0AGD-023%20e80220a736%0AGD-024%20bb1fce3265%0AGD-025%20897ffd65d0%0AGD-026%2037ba047768%0AGD-027%20f9ad67ea25)**
+**[ここまでの 9 件（GD-019〜GD-027）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-019%E3%80%9CGD-027&cards=GD-019%2037929a8c83%0AGD-020%20e14b15f84c%0AGD-021%20ddf31c717f%0AGD-022%2055bd177ab6%0AGD-023%20e80220a736%0AGD-024%20bb1fce3265%0AGD-025%20897ffd65d0%0AGD-026%2037ba047768%0AGD-027%20f9ad67ea25)**
 
 ---
 
@@ -331,9 +331,9 @@
 - よくある誤解：PPIの長期使用は胃癌の原因であることが証明されている
 - 出典：Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381　[DOI 10.1007/s00535-026-02504-3](https://doi.org/10.1007/s00535-026-02504-3)　[PMID 42635735](https://pubmed.ncbi.nlm.nih.gov/42635735/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-①（胃ポリープ、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-028&card_id=GD-028&version=2d515db839)　（版 `2d515db839`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-028&card_id=GD-028&version=2d515db839)　（版 `2d515db839`）
 
-**[ここまでの 1 件（GD-028）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-028&cards=GD-028%202d515db839)**
+**[ここまでの 1 件（GD-028）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-028&cards=GD-028%202d515db839)**
 
 ---
 
@@ -348,7 +348,7 @@
 - よくある誤解：球後部潰瘍も球部潰瘍と同様にH. pyloriが主因である
 - 出典：Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381　[DOI 10.1007/s00535-026-02504-3](https://doi.org/10.1007/s00535-026-02504-3)　[PMID 42635735](https://pubmed.ncbi.nlm.nih.gov/42635735/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-029&card_id=GD-029&version=a1c32eabea)　（版 `a1c32eabea`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-029&card_id=GD-029&version=a1c32eabea)　（版 `a1c32eabea`）
 
 ### GD-030　出典照合済み・監修待ち
 
@@ -359,7 +359,7 @@
 - よくある誤解：残胃潰瘍は全例で除菌すれば治る
 - 出典：Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381　[DOI 10.1007/s00535-026-02504-3](https://doi.org/10.1007/s00535-026-02504-3)　[PMID 42635735](https://pubmed.ncbi.nlm.nih.gov/42635735/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-030&card_id=GD-030&version=3a384572a0)　（版 `3a384572a0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-030&card_id=GD-030&version=3a384572a0)　（版 `3a384572a0`）
 
 ### GD-031　出典照合済み・監修待ち
 
@@ -370,9 +370,9 @@
 - よくある誤解：H. pylori陰性なら細菌性の胃炎は否定できる
 - 出典：Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381　[DOI 10.1007/s00535-026-02504-3](https://doi.org/10.1007/s00535-026-02504-3)　[PMID 42635735](https://pubmed.ncbi.nlm.nih.gov/42635735/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-C-②（慢性胃炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-031&card_id=GD-031&version=962a5a7a1c)　（版 `962a5a7a1c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-031&card_id=GD-031&version=962a5a7a1c)　（版 `962a5a7a1c`）
 
-**[ここまでの 3 件（GD-029〜GD-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-029%E3%80%9CGD-031&cards=GD-029%20a1c32eabea%0AGD-030%203a384572a0%0AGD-031%20962a5a7a1c)**
+**[ここまでの 3 件（GD-029〜GD-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-029%E3%80%9CGD-031&cards=GD-029%20a1c32eabea%0AGD-030%203a384572a0%0AGD-031%20962a5a7a1c)**
 
 ---
 
@@ -387,9 +387,9 @@
 - よくある誤解：尿素呼気試験が陽性なら必ずH. pyloriが残っている
 - 出典：Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026;61:1361-1381　[DOI 10.1007/s00535-026-02504-3](https://doi.org/10.1007/s00535-026-02504-3)　[PMID 42635735](https://pubmed.ncbi.nlm.nih.gov/42635735/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-C-②（慢性胃炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-032&card_id=GD-032&version=382720cf4b)　（版 `382720cf4b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-032&card_id=GD-032&version=382720cf4b)　（版 `382720cf4b`）
 
-**[ここまでの 1 件（GD-032）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-032&cards=GD-032%20382720cf4b)**
+**[ここまでの 1 件（GD-032）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-032&cards=GD-032%20382720cf4b)**
 
 ---
 
@@ -404,7 +404,7 @@
 - よくある誤解：胃癌の罹患数は日本で増え続けている
 - 出典：国立がん研究センター がん情報サービス 胃（罹患2026-03-23更新、死亡2026-01-07更新、生存率2026-07-22更新）　[リンク](https://ganjoho.jp/reg_stat/statistics/stat/cancer/5_stomach.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-033&card_id=GD-033&version=0855801c79)　（版 `0855801c79`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-033&card_id=GD-033&version=0855801c79)　（版 `0855801c79`）
 
 ### GD-034　出典照合済み・監修待ち
 
@@ -415,7 +415,7 @@
 - よくある誤解：対策型胃がん検診の内視鏡検査は40歳以上・毎年である
 - 出典：厚生労働省『がん予防重点健康教育及びがん検診実施のための指針』（平成28年2月改正）／厚労省がん検診ページ　[リンク](https://www.gankenshin50.mhlw.go.jp/campaign_2023/screening/index.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-034&card_id=GD-034&version=cf6b240633)　（版 `cf6b240633`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-034&card_id=GD-034&version=cf6b240633)　（版 `cf6b240633`）
 
 ### GD-035　出典照合済み・監修待ち
 
@@ -426,7 +426,7 @@
 - よくある誤解：N分類は転移したリンパ節の部位で決まる
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-035&card_id=GD-035&version=12fdf39536)　（版 `12fdf39536`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-035&card_id=GD-035&version=12fdf39536)　（版 `12fdf39536`）
 
 ### GD-036　出典照合済み・監修待ち
 
@@ -437,7 +437,7 @@
 - よくある誤解：印環細胞癌は分化型に含まれる
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-036&card_id=GD-036&version=c4e56edc23)　（版 `c4e56edc23`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-036&card_id=GD-036&version=c4e56edc23)　（版 `c4e56edc23`）
 
 ### GD-037　出典照合済み・監修待ち
 
@@ -448,7 +448,7 @@
 - よくある誤解：未分化型は大きさにかかわらず内視鏡切除の適応外
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-037&card_id=GD-037&version=e21f1eed98)　（版 `e21f1eed98`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-037&card_id=GD-037&version=e21f1eed98)　（版 `e21f1eed98`）
 
 ### GD-038　出典照合済み・監修待ち
 
@@ -459,7 +459,7 @@
 - よくある誤解：高齢者には絶対適応外の病変でも常に内視鏡切除が標準
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-038&card_id=GD-038&version=8c0eb5fef3)　（版 `8c0eb5fef3`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-038&card_id=GD-038&version=8c0eb5fef3)　（版 `8c0eb5fef3`）
 
 ### GD-039　出典照合済み・監修待ち
 
@@ -471,7 +471,7 @@
 - 不確実性：第6版からの分類変更点。第7版本文で確認済みだが、教材では版を明記すること
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-039&card_id=GD-039&version=5d8dfea094)　（版 `5d8dfea094`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-039&card_id=GD-039&version=5d8dfea094)　（版 `5d8dfea094`）
 
 ### GD-040　出典照合済み・監修待ち
 
@@ -482,7 +482,7 @@
 - よくある誤解：eCuraC-1は全例で追加外科切除が必要
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-040&card_id=GD-040&version=c59a2fdcb4)　（版 `c59a2fdcb4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-040&card_id=GD-040&version=c59a2fdcb4)　（版 `c59a2fdcb4`）
 
 ### GD-041　出典照合済み・監修待ち
 
@@ -493,7 +493,7 @@
 - よくある誤解：除菌すれば内視鏡の経過観察は不要
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-041&card_id=GD-041&version=ac8155d3e8)　（版 `ac8155d3e8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-041&card_id=GD-041&version=ac8155d3e8)　（版 `ac8155d3e8`）
 
 ### GD-042　出典照合済み・監修待ち
 
@@ -504,9 +504,9 @@
 - よくある誤解：早期胃癌でも全例D2郭清が必要
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-042&card_id=GD-042&version=16d1b5ecf9)　（版 `16d1b5ecf9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-042&card_id=GD-042&version=16d1b5ecf9)　（版 `16d1b5ecf9`）
 
-**[ここまでの 10 件（GD-033〜GD-042）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-033%E3%80%9CGD-042&cards=GD-033%200855801c79%0AGD-034%20cf6b240633%0AGD-035%2012fdf39536%0AGD-036%20c4e56edc23%0AGD-037%20e21f1eed98%0AGD-038%208c0eb5fef3%0AGD-039%205d8dfea094%0AGD-040%20c59a2fdcb4%0AGD-041%20ac8155d3e8%0AGD-042%2016d1b5ecf9)**
+**[ここまでの 10 件（GD-033〜GD-042）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-033%E3%80%9CGD-042&cards=GD-033%200855801c79%0AGD-034%20cf6b240633%0AGD-035%2012fdf39536%0AGD-036%20c4e56edc23%0AGD-037%20e21f1eed98%0AGD-038%208c0eb5fef3%0AGD-039%205d8dfea094%0AGD-040%20c59a2fdcb4%0AGD-041%20ac8155d3e8%0AGD-042%2016d1b5ecf9)**
 
 ---
 
@@ -519,7 +519,7 @@
 - よくある誤解：断端距離は肉眼型に関係なく一律
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-043&card_id=GD-043&version=37eff9a400)　（版 `37eff9a400`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-043&card_id=GD-043&version=37eff9a400)　（版 `37eff9a400`）
 
 ### GD-044　出典照合済み・監修待ち
 
@@ -530,7 +530,7 @@
 - よくある誤解：胃上部の進行癌では脾摘を標準とする
 - 出典：Japanese Gastric Cancer Association. Japanese Gastric Cancer Treatment Guidelines 2021 (6th edition). Gastric Cancer 2023;26:1-25　[DOI 10.1007/s10120-022-01331-8](https://doi.org/10.1007/s10120-022-01331-8)　[PMID 36342574](https://pubmed.ncbi.nlm.nih.gov/36342574/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-044&card_id=GD-044&version=659a7e9186)　（版 `659a7e9186`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-044&card_id=GD-044&version=659a7e9186)　（版 `659a7e9186`）
 
 ### GD-045　出典照合済み・監修待ち
 
@@ -541,7 +541,7 @@
 - よくある誤解：切除できる非治癒胃癌は原発巣を切除した方が生存が延びる
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-045&card_id=GD-045&version=dbbce8a7bc)　（版 `dbbce8a7bc`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-045&card_id=GD-045&version=dbbce8a7bc)　（版 `dbbce8a7bc`）
 
 ### GD-046　出典照合済み・監修待ち
 
@@ -552,7 +552,7 @@
 - よくある誤解：腹腔鏡手術は早期胃癌に限られる
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-046&card_id=GD-046&version=56231f7a23)　（版 `56231f7a23`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-046&card_id=GD-046&version=56231f7a23)　（版 `56231f7a23`）
 
 ### GD-047　出典照合済み・監修待ち
 
@@ -563,7 +563,7 @@
 - よくある誤解：幽門保存胃切除は進行癌にも適応
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-047&card_id=GD-047&version=95012f8ead)　（版 `95012f8ead`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-047&card_id=GD-047&version=95012f8ead)　（版 `95012f8ead`）
 
 ### GD-048　出典照合済み・監修待ち
 
@@ -574,7 +574,7 @@
 - よくある誤解：食道胃接合部癌は常に開胸手術が必要
 - 出典：Japanese Gastric Cancer Association. Japanese Gastric Cancer Treatment Guidelines 2021 (6th edition). Gastric Cancer 2023;26:1-25　[DOI 10.1007/s10120-022-01331-8](https://doi.org/10.1007/s10120-022-01331-8)　[PMID 36342574](https://pubmed.ncbi.nlm.nih.gov/36342574/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-048&card_id=GD-048&version=8828777c1d)　（版 `8828777c1d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-048&card_id=GD-048&version=8828777c1d)　（版 `8828777c1d`）
 
 ### GD-049　出典照合済み・監修待ち
 
@@ -586,7 +586,7 @@
 - 不確実性：数値はGL本文の引用値。JCOG1104原著は未照合
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-049&card_id=GD-049&version=4cec2e6573)　（版 `4cec2e6573`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-049&card_id=GD-049&version=4cec2e6573)　（版 `4cec2e6573`）
 
 ### GD-050　出典照合済み・監修待ち
 
@@ -597,7 +597,7 @@
 - よくある誤解：胃癌の術後補助療法にも免疫チェックポイント阻害薬が標準
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-050&card_id=GD-050&version=b6f597dc03)　（版 `b6f597dc03`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-050&card_id=GD-050&version=b6f597dc03)　（版 `b6f597dc03`）
 
 ### GD-051　出典照合済み・監修待ち
 
@@ -608,7 +608,7 @@
 - よくある誤解：日本でも切除可能進行胃癌の全例に術前化学療法を行う
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-051&card_id=GD-051&version=c3812051f1)　（版 `c3812051f1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-051&card_id=GD-051&version=c3812051f1)　（版 `c3812051f1`）
 
 ### GD-052　出典照合済み・監修待ち
 
@@ -619,9 +619,9 @@
 - よくある誤解：一次治療前に調べればよいのはHER2だけである
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-030 (id: JlAKplE)；TBL-02-07-031 (id: JlAKplI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-052&card_id=GD-052&version=73e30f128e)　（版 `73e30f128e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-052&card_id=GD-052&version=73e30f128e)　（版 `73e30f128e`）
 
-**[ここまでの 10 件（GD-043〜GD-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-043%E3%80%9CGD-052&cards=GD-043%2037eff9a400%0AGD-044%20659a7e9186%0AGD-045%20dbbce8a7bc%0AGD-046%2056231f7a23%0AGD-047%2095012f8ead%0AGD-048%208828777c1d%0AGD-049%204cec2e6573%0AGD-050%20b6f597dc03%0AGD-051%20c3812051f1%0AGD-052%2073e30f128e)**
+**[ここまでの 10 件（GD-043〜GD-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-043%E3%80%9CGD-052&cards=GD-043%2037eff9a400%0AGD-044%20659a7e9186%0AGD-045%20dbbce8a7bc%0AGD-046%2056231f7a23%0AGD-047%2095012f8ead%0AGD-048%208828777c1d%0AGD-049%204cec2e6573%0AGD-050%20b6f597dc03%0AGD-051%20c3812051f1%0AGD-052%2073e30f128e)**
 
 ---
 
@@ -634,7 +634,7 @@
 - よくある誤解：免疫染色1+でもトラスツズマブの適応になる
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-030 (id: JlAKplE)；TBL-02-07-031 (id: JlAKplI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-053&card_id=GD-053&version=9d88d40f16)　（版 `9d88d40f16`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-053&card_id=GD-053&version=9d88d40f16)　（版 `9d88d40f16`）
 
 ### GD-054　出典照合済み・監修待ち
 
@@ -645,7 +645,7 @@
 - よくある誤解：CPSが低くても免疫チェックポイント阻害薬の上乗せ効果は高CPSと同じ
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-054&card_id=GD-054&version=42e39894fe)　（版 `42e39894fe`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-054&card_id=GD-054&version=42e39894fe)　（版 `42e39894fe`）
 
 ### GD-055　出典照合済み・監修待ち
 
@@ -657,7 +657,7 @@
 - 不確実性：生存期間の数値は抄録全文を未照合のため主張文に含めない
 - 出典：Janjigian YY, et al. CheckMate 649. Lancet 2021;398:27-40　[DOI 10.1016/S0140-6736(21)00797-2](https://doi.org/10.1016/S0140-6736(21)00797-2)　[PMID 34102137](https://pubmed.ncbi.nlm.nih.gov/34102137/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-055&card_id=GD-055&version=e8c3785b92)　（版 `e8c3785b92`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-055&card_id=GD-055&version=e8c3785b92)　（版 `e8c3785b92`）
 
 ### GD-056　出典照合済み・監修待ち
 
@@ -669,7 +669,7 @@
 - 不確実性：全生存（18.23か月対15.54か月）は企業発表など二次資料経由のため主張文に含めない
 - 出典：Shitara K, et al. SPOTLIGHT. Lancet 2023;401:1655-1668　[DOI 10.1016/S0140-6736(23)00620-7](https://doi.org/10.1016/S0140-6736(23)00620-7)　[PMID 37068504](https://pubmed.ncbi.nlm.nih.gov/37068504/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-056&card_id=GD-056&version=ed34f21516)　（版 `ed34f21516`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-056&card_id=GD-056&version=ed34f21516)　（版 `ed34f21516`）
 
 ### GD-057　出典照合済み・監修待ち
 
@@ -681,7 +681,7 @@
 - 不確実性：承認日と効能・効果は企業発表で確認。「世界初」は企業発表・報道による位置づけ。PMDA 添付文書の改訂履歴では未照合
 - 出典：アステラス製薬 適時開示（2024-07-29）：ゾルベツキシマブ 欧州CHMP販売承認勧告（国内承認日の記載あり）　[リンク](https://www2.jpx.co.jp/disc/45030/140120240729556149.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-057&card_id=GD-057&version=57c63ebd9c)　（版 `57c63ebd9c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-057&card_id=GD-057&version=57c63ebd9c)　（版 `57c63ebd9c`）
 
 ### GD-058　出典照合済み・監修待ち
 
@@ -692,7 +692,7 @@
 - よくある誤解：一次治療でニボルマブを使っていても二次治療でペムブロリズマブを使える
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-058&card_id=GD-058&version=6d6fbe00ea)　（版 `6d6fbe00ea`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-058&card_id=GD-058&version=6d6fbe00ea)　（版 `6d6fbe00ea`）
 
 ### GD-059　出典照合済み・監修待ち
 
@@ -703,7 +703,7 @@
 - よくある誤解：HER2陽性例では進行後もトラスツズマブを継続する
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-059&card_id=GD-059&version=b1056bedd1)　（版 `b1056bedd1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-059&card_id=GD-059&version=b1056bedd1)　（版 `b1056bedd1`）
 
 ### GD-060　出典照合済み・監修待ち
 
@@ -714,7 +714,7 @@
 - よくある誤解：化学療法で多くの切除不能胃癌が治癒する
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-060&card_id=GD-060&version=86d87d6433)　（版 `86d87d6433`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-060&card_id=GD-060&version=86d87d6433)　（版 `86d87d6433`）
 
 ### GD-061　出典照合済み・監修待ち
 
@@ -725,9 +725,9 @@
 - よくある誤解：定期フォローで生存率が改善することが証明されている
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-061&card_id=GD-061&version=06f1990bf3)　（版 `06f1990bf3`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-061&card_id=GD-061&version=06f1990bf3)　（版 `06f1990bf3`）
 
-**[ここまでの 9 件（GD-053〜GD-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-053%E3%80%9CGD-061&cards=GD-053%209d88d40f16%0AGD-054%2042e39894fe%0AGD-055%20e8c3785b92%0AGD-056%20ed34f21516%0AGD-057%2057c63ebd9c%0AGD-058%206d6fbe00ea%0AGD-059%20b1056bedd1%0AGD-060%2086d87d6433%0AGD-061%2006f1990bf3)**
+**[ここまでの 9 件（GD-053〜GD-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-053%E3%80%9CGD-061&cards=GD-053%209d88d40f16%0AGD-054%2042e39894fe%0AGD-055%20e8c3785b92%0AGD-056%20ed34f21516%0AGD-057%2057c63ebd9c%0AGD-058%206d6fbe00ea%0AGD-059%20b1056bedd1%0AGD-060%2086d87d6433%0AGD-061%2006f1990bf3)**
 
 ---
 
@@ -742,7 +742,7 @@
 - よくある誤解：2 cm未満の粘膜下腫瘍は全例切除する
 - 出典：Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680　[DOI 10.1007/s10147-024-02488-1](https://doi.org/10.1007/s10147-024-02488-1)　[PMID 38609732](https://pubmed.ncbi.nlm.nih.gov/38609732/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-062&card_id=GD-062&version=a6c9a4c487)　（版 `a6c9a4c487`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-062&card_id=GD-062&version=a6c9a4c487)　（版 `a6c9a4c487`）
 
 ### GD-063　出典照合済み・監修待ち
 
@@ -753,7 +753,7 @@
 - よくある誤解：KIT陰性ならGISTは否定できる
 - 出典：Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680　[DOI 10.1007/s10147-024-02488-1](https://doi.org/10.1007/s10147-024-02488-1)　[PMID 38609732](https://pubmed.ncbi.nlm.nih.gov/38609732/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-063&card_id=GD-063&version=3ccbc46a1e)　（版 `3ccbc46a1e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-063&card_id=GD-063&version=3ccbc46a1e)　（版 `3ccbc46a1e`）
 
 ### GD-064　出典照合済み・監修待ち
 
@@ -764,7 +764,7 @@
 - よくある誤解：すべてのGISTにイマチニブが効く
 - 出典：Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680　[DOI 10.1007/s10147-024-02488-1](https://doi.org/10.1007/s10147-024-02488-1)　[PMID 38609732](https://pubmed.ncbi.nlm.nih.gov/38609732/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-064&card_id=GD-064&version=5b5238047c)　（版 `5b5238047c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-064&card_id=GD-064&version=5b5238047c)　（版 `5b5238047c`）
 
 ### GD-065　出典照合済み・監修待ち
 
@@ -775,7 +775,7 @@
 - よくある誤解：GISTは小腸に最も多い
 - 出典：Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680　[DOI 10.1007/s10147-024-02488-1](https://doi.org/10.1007/s10147-024-02488-1)　[PMID 38609732](https://pubmed.ncbi.nlm.nih.gov/38609732/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-065&card_id=GD-065&version=9dd1cb7383)　（版 `9dd1cb7383`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-065&card_id=GD-065&version=9dd1cb7383)　（版 `9dd1cb7383`）
 
 ### GD-066　出典照合済み・監修待ち
 
@@ -786,7 +786,7 @@
 - よくある誤解：GISTは良性か悪性かに二分できる
 - 出典：Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680　[DOI 10.1007/s10147-024-02488-1](https://doi.org/10.1007/s10147-024-02488-1)　[PMID 38609732](https://pubmed.ncbi.nlm.nih.gov/38609732/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-066&card_id=GD-066&version=311bfdb11c)　（版 `311bfdb11c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-066&card_id=GD-066&version=311bfdb11c)　（版 `311bfdb11c`）
 
 ### GD-067　出典照合済み・監修待ち
 
@@ -797,7 +797,7 @@
 - よくある誤解：GISTの手術では胃癌と同様にリンパ節郭清が必要
 - 出典：Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680　[DOI 10.1007/s10147-024-02488-1](https://doi.org/10.1007/s10147-024-02488-1)　[PMID 38609732](https://pubmed.ncbi.nlm.nih.gov/38609732/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-067&card_id=GD-067&version=d5dac4d42e)　（版 `d5dac4d42e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-067&card_id=GD-067&version=d5dac4d42e)　（版 `d5dac4d42e`）
 
 ### GD-068　出典照合済み・監修待ち
 
@@ -808,7 +808,7 @@
 - よくある誤解：大きさにかかわらず腹腔鏡手術が標準
 - 出典：Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680　[DOI 10.1007/s10147-024-02488-1](https://doi.org/10.1007/s10147-024-02488-1)　[PMID 38609732](https://pubmed.ncbi.nlm.nih.gov/38609732/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-068&card_id=GD-068&version=8a8b41cd86)　（版 `8a8b41cd86`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-068&card_id=GD-068&version=8a8b41cd86)　（版 `8a8b41cd86`）
 
 ### GD-069　出典照合済み・監修待ち
 
@@ -819,7 +819,7 @@
 - よくある誤解：補助イマチニブは1年で十分
 - 出典：Joensuu H, et al. Adjuvant imatinib for high-risk GI stromal tumor: analysis of a randomized trial. J Clin Oncol 2016;34:244-250　[DOI 10.1200/JCO.2015.62.9170](https://doi.org/10.1200/JCO.2015.62.9170)　[PMID 26527782](https://pubmed.ncbi.nlm.nih.gov/26527782/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-069&card_id=GD-069&version=12a46f3920)　（版 `12a46f3920`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-069&card_id=GD-069&version=12a46f3920)　（版 `12a46f3920`）
 
 ### GD-070　出典照合済み・監修待ち
 
@@ -831,9 +831,9 @@
 - 不確実性：GL本文は基準名（Choi基準）を明記せず、腫瘍径10%以上の縮小または CT 値15%以上の低下と記載
 - 出典：Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680　[DOI 10.1007/s10147-024-02488-1](https://doi.org/10.1007/s10147-024-02488-1)　[PMID 38609732](https://pubmed.ncbi.nlm.nih.gov/38609732/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-070&card_id=GD-070&version=5f71e69e95)　（版 `5f71e69e95`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-070&card_id=GD-070&version=5f71e69e95)　（版 `5f71e69e95`）
 
-**[ここまでの 9 件（GD-062〜GD-070）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-062%E3%80%9CGD-070&cards=GD-062%20a6c9a4c487%0AGD-063%203ccbc46a1e%0AGD-064%205b5238047c%0AGD-065%209dd1cb7383%0AGD-066%20311bfdb11c%0AGD-067%20d5dac4d42e%0AGD-068%208a8b41cd86%0AGD-069%2012a46f3920%0AGD-070%205f71e69e95)**
+**[ここまでの 9 件（GD-062〜GD-070）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-062%E3%80%9CGD-070&cards=GD-062%20a6c9a4c487%0AGD-063%203ccbc46a1e%0AGD-064%205b5238047c%0AGD-065%209dd1cb7383%0AGD-066%20311bfdb11c%0AGD-067%20d5dac4d42e%0AGD-068%208a8b41cd86%0AGD-069%2012a46f3920%0AGD-070%205f71e69e95)**
 
 ---
 
@@ -849,9 +849,9 @@
 - 不確実性：本文未閲覧。抄録とPDF断片で確認した型の定義のみを記載。III型の記述は本文で要確認
 - 出典：Panzuto F, et al. ENETS 2023 guidance paper for gastroduodenal neuroendocrine tumours (NETs) G1-G3. J Neuroendocrinol 2023;35:e13306　[DOI 10.1111/jne.13306](https://doi.org/10.1111/jne.13306)　[PMID 37401795](https://pubmed.ncbi.nlm.nih.gov/37401795/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-B-④（消化管神経内分泌腫瘍、c）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-071&card_id=GD-071&version=2229d160c6)　（版 `2229d160c6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-071&card_id=GD-071&version=2229d160c6)　（版 `2229d160c6`）
 
-**[ここまでの 1 件（GD-071）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-071&cards=GD-071%202229d160c6)**
+**[ここまでの 1 件（GD-071）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-071&cards=GD-071%202229d160c6)**
 
 ---
 
@@ -867,7 +867,7 @@
 - 不確実性：low（記載基準表で照合。ES-061 と対応：ES 側は食道静脈瘤、GD 側は胃静脈瘤の記述として両方を残す）
 - 出典：日本門脈圧亢進症学会 門脈圧亢進症取扱い規約 第3版の内視鏡所見記載基準（日消誌116(5):395で確認）　[リンク](https://www.jstage.jst.go.jp/article/nisshoshi/116/5/116_395/_pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-D-①（食道静脈瘤、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-072&card_id=GD-072&version=ea6755b147)　（版 `ea6755b147`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-072&card_id=GD-072&version=ea6755b147)　（版 `ea6755b147`）
 
 ### GD-073　出典照合済み・監修待ち
 
@@ -879,9 +879,9 @@
 - 不確実性：肝硬変GL 2025年版の推奨は未確認。ES-066 と対応（両方を残す）
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-D-①（食道静脈瘤、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-034 (id: JlAKplU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-073&card_id=GD-073&version=2613ed0e8e)　（版 `2613ed0e8e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-073&card_id=GD-073&version=2613ed0e8e)　（版 `2613ed0e8e`）
 
-**[ここまでの 2 件（GD-072〜GD-073）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-072%E3%80%9CGD-073&cards=GD-072%20ea6755b147%0AGD-073%202613ed0e8e)**
+**[ここまでの 2 件（GD-072〜GD-073）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-072%E3%80%9CGD-073&cards=GD-072%20ea6755b147%0AGD-073%202613ed0e8e)**
 
 ---
 
@@ -896,7 +896,7 @@
 - よくある誤解：早期ダンピングの主因は低血糖である
 - 出典：Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466　[DOI 10.1038/s41574-020-0357-5](https://doi.org/10.1038/s41574-020-0357-5)　[PMID 32457534](https://pubmed.ncbi.nlm.nih.gov/32457534/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-②（胃切除後症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-074&card_id=GD-074&version=edadf35c34)　（版 `edadf35c34`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-074&card_id=GD-074&version=edadf35c34)　（版 `edadf35c34`）
 
 ### GD-075　出典照合済み・監修待ち
 
@@ -907,7 +907,7 @@
 - よくある誤解：後期ダンピングは高血糖で起こる
 - 出典：Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466　[DOI 10.1038/s41574-020-0357-5](https://doi.org/10.1038/s41574-020-0357-5)　[PMID 32457534](https://pubmed.ncbi.nlm.nih.gov/32457534/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-②（胃切除後症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-075&card_id=GD-075&version=450763fa95)　（版 `450763fa95`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-075&card_id=GD-075&version=450763fa95)　（版 `450763fa95`）
 
 ### GD-076　出典照合済み・監修待ち
 
@@ -919,7 +919,7 @@
 - 不確実性：頻度はコンセンサス論文が引用した値（二次資料経由）で、原著は未照合
 - 出典：Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466　[DOI 10.1038/s41574-020-0357-5](https://doi.org/10.1038/s41574-020-0357-5)　[PMID 32457534](https://pubmed.ncbi.nlm.nih.gov/32457534/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-②（胃切除後症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-076&card_id=GD-076&version=3443fd1726)　（版 `3443fd1726`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-076&card_id=GD-076&version=3443fd1726)　（版 `3443fd1726`）
 
 ### GD-077　出典照合済み・監修待ち
 
@@ -930,7 +930,7 @@
 - よくある誤解：胃排出シンチグラフィで診断が確定する
 - 出典：Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466　[DOI 10.1038/s41574-020-0357-5](https://doi.org/10.1038/s41574-020-0357-5)　[PMID 32457534](https://pubmed.ncbi.nlm.nih.gov/32457534/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-②（胃切除後症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-077&card_id=GD-077&version=f32d5d080e)　（版 `f32d5d080e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-077&card_id=GD-077&version=f32d5d080e)　（版 `f32d5d080e`）
 
 ### GD-078　出典照合済み・監修待ち
 
@@ -941,7 +941,7 @@
 - よくある誤解：食事中に水分を多く摂ると症状が和らぐ
 - 出典：Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466　[DOI 10.1038/s41574-020-0357-5](https://doi.org/10.1038/s41574-020-0357-5)　[PMID 32457534](https://pubmed.ncbi.nlm.nih.gov/32457534/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-②（胃切除後症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-078&card_id=GD-078&version=315d0f8ead)　（版 `315d0f8ead`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-078&card_id=GD-078&version=315d0f8ead)　（版 `315d0f8ead`）
 
 ### GD-079　出典照合済み・監修待ち
 
@@ -953,7 +953,7 @@
 - 不確実性：アカルボースの用量は海外の記載。国内の保険適用は未確認
 - 出典：Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466　[DOI 10.1038/s41574-020-0357-5](https://doi.org/10.1038/s41574-020-0357-5)　[PMID 32457534](https://pubmed.ncbi.nlm.nih.gov/32457534/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-②（胃切除後症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-079&card_id=GD-079&version=2f19f9fef6)　（版 `2f19f9fef6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-079&card_id=GD-079&version=2f19f9fef6)　（版 `2f19f9fef6`）
 
 ### GD-080　出典照合済み・監修待ち
 
@@ -964,9 +964,9 @@
 - よくある誤解：胃切除後の胆石は迷走神経と無関係である
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-②（胃切除後症候群、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-080&card_id=GD-080&version=d20bcfb543)　（版 `d20bcfb543`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-080&card_id=GD-080&version=d20bcfb543)　（版 `d20bcfb543`）
 
-**[ここまでの 7 件（GD-074〜GD-080）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-074%E3%80%9CGD-080&cards=GD-074%20edadf35c34%0AGD-075%20450763fa95%0AGD-076%203443fd1726%0AGD-077%20f32d5d080e%0AGD-078%20315d0f8ead%0AGD-079%202f19f9fef6%0AGD-080%20d20bcfb543)**
+**[ここまでの 7 件（GD-074〜GD-080）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-074%E3%80%9CGD-080&cards=GD-074%20edadf35c34%0AGD-075%20450763fa95%0AGD-076%203443fd1726%0AGD-077%20f32d5d080e%0AGD-078%20315d0f8ead%0AGD-079%202f19f9fef6%0AGD-080%20d20bcfb543)**
 
 ---
 
@@ -981,7 +981,7 @@
 - よくある誤解：新鮮な魚の刺身なら寄生虫の心配はない
 - 出典：厚生労働省『アニサキスによる食中毒を予防しましょう』　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000042953.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-2-C-⑤（胃アニサキス症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-081&card_id=GD-081&version=dda01dcfe8)　（版 `dda01dcfe8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-081&card_id=GD-081&version=dda01dcfe8)　（版 `dda01dcfe8`）
 
 ### GD-082　出典照合済み・監修待ち
 
@@ -992,7 +992,7 @@
 - よくある誤解：アニサキス症は下痢が主症状である
 - 出典：厚生労働省『アニサキスによる食中毒を予防しましょう』　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000042953.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-2-C-⑤（胃アニサキス症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-082&card_id=GD-082&version=ff23504f06)　（版 `ff23504f06`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-082&card_id=GD-082&version=ff23504f06)　（版 `ff23504f06`）
 
 ### GD-083　出典照合済み・監修待ち
 
@@ -1004,7 +1004,7 @@
 - 不確実性：冷凍・加熱の条件は、厚労省ページでは事業者向けの記載として示されている
 - 出典：厚生労働省『アニサキスによる食中毒を予防しましょう』　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000042953.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-2-C-⑤（胃アニサキス症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-083&card_id=GD-083&version=653b2b8b83)　（版 `653b2b8b83`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-083&card_id=GD-083&version=653b2b8b83)　（版 `653b2b8b83`）
 
 ### GD-084　出典照合済み・監修待ち
 
@@ -1016,7 +1016,7 @@
 - 不確実性：low（本文で照合）
 - 出典：Sugiyama H, et al. Anisakiasis annual incidence and causative species, Japan, 2018-2019. Emerg Infect Dis 2022;28(10)　[DOI 10.3201/eid2810.220627](https://doi.org/10.3201/eid2810.220627)　[PMID 36148963](https://pubmed.ncbi.nlm.nih.gov/36148963/)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-2-C-⑤（胃アニサキス症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-084&card_id=GD-084&version=318fe49ba0)　（版 `318fe49ba0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-084&card_id=GD-084&version=318fe49ba0)　（版 `318fe49ba0`）
 
 ### GD-085　出典照合済み・監修待ち
 
@@ -1028,9 +1028,9 @@
 - 不確実性：low（本文の表 168/189＝88.9% を採用。抄録の 88.4% は本文の件数と合わない）
 - 出典：Sugiyama H, et al. Anisakiasis annual incidence and causative species, Japan, 2018-2019. Emerg Infect Dis 2022;28(10)　[DOI 10.3201/eid2810.220627](https://doi.org/10.3201/eid2810.220627)　[PMID 36148963](https://pubmed.ncbi.nlm.nih.gov/36148963/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-2-C-⑤（胃アニサキス症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-085&card_id=GD-085&version=426f3d8ca1)　（版 `426f3d8ca1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-085&card_id=GD-085&version=426f3d8ca1)　（版 `426f3d8ca1`）
 
-**[ここまでの 5 件（GD-081〜GD-085）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-081%E3%80%9CGD-085&cards=GD-081%20dda01dcfe8%0AGD-082%20ff23504f06%0AGD-083%20653b2b8b83%0AGD-084%20318fe49ba0%0AGD-085%20426f3d8ca1)**
+**[ここまでの 5 件（GD-081〜GD-085）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-081%E3%80%9CGD-085&cards=GD-081%20dda01dcfe8%0AGD-082%20ff23504f06%0AGD-083%20653b2b8b83%0AGD-084%20318fe49ba0%0AGD-085%20426f3d8ca1)**
 
 ---
 
@@ -1046,7 +1046,7 @@
 - 不確実性：数値は総説が引用した値（二次資料経由）で、原著は未照合。GD-028（PPI長期使用と胃底腺ポリープ）と関連
 - 出典：Islam RS, et al. Gastric polyps: a review on clinical, endoscopic, histopathologic features and management decisions. Gastroenterol Hepatol (N Y) 2013 Oct　[PMID 24764778](https://pubmed.ncbi.nlm.nih.gov/24764778/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-D-①（胃ポリープ、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-086&card_id=GD-086&version=07e7e7a330)　（版 `07e7e7a330`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-086&card_id=GD-086&version=07e7e7a330)　（版 `07e7e7a330`）
 
 ### GD-087　出典照合済み・監修待ち
 
@@ -1058,7 +1058,7 @@
 - 不確実性：数値は総説が引用した値（二次資料経由）で、原著は未照合。日本のH. pylori GLでの位置づけは未確認
 - 出典：Islam RS, et al. Gastric polyps: a review on clinical, endoscopic, histopathologic features and management decisions. Gastroenterol Hepatol (N Y) 2013 Oct　[PMID 24764778](https://pubmed.ncbi.nlm.nih.gov/24764778/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-D-①（胃ポリープ、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-087&card_id=GD-087&version=c5f2b49b40)　（版 `c5f2b49b40`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-087&card_id=GD-087&version=c5f2b49b40)　（版 `c5f2b49b40`）
 
 ### GD-088　出典照合済み・監修待ち
 
@@ -1070,7 +1070,7 @@
 - 不確実性：日本の胃腺腫の扱い（出題基準 Ⅵ-2-D-③）は別のカードで扱う
 - 出典：Islam RS, et al. Gastric polyps: a review on clinical, endoscopic, histopathologic features and management decisions. Gastroenterol Hepatol (N Y) 2013 Oct　[PMID 24764778](https://pubmed.ncbi.nlm.nih.gov/24764778/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-D-①（胃ポリープ、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-088&card_id=GD-088&version=cdff2a186d)　（版 `cdff2a186d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-088&card_id=GD-088&version=cdff2a186d)　（版 `cdff2a186d`）
 
 ### GD-089　出典照合済み・監修待ち
 
@@ -1081,9 +1081,9 @@
 - よくある誤解：PPIによる胃粘膜変化があれば必ず中止する
 - 出典：岩室雅也. 薬剤起因性胃粘膜病変の内視鏡診断. 日本消化器内視鏡学会雑誌 2025;67(4):281-288　[DOI 10.11280/gee.67.281](https://doi.org/10.11280/gee.67.281)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-D-①（胃ポリープ、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-089&card_id=GD-089&version=c8583d6ab6)　（版 `c8583d6ab6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-089&card_id=GD-089&version=c8583d6ab6)　（版 `c8583d6ab6`）
 
-**[ここまでの 4 件（GD-086〜GD-089）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-086%E3%80%9CGD-089&cards=GD-086%2007e7e7a330%0AGD-087%20c5f2b49b40%0AGD-088%20cdff2a186d%0AGD-089%20c8583d6ab6)**
+**[ここまでの 4 件（GD-086〜GD-089）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-086%E3%80%9CGD-089&cards=GD-086%2007e7e7a330%0AGD-087%20c5f2b49b40%0AGD-088%20cdff2a186d%0AGD-089%20c8583d6ab6)**
 
 ---
 
@@ -1098,7 +1098,7 @@
 - よくある誤解：NSAID潰瘍は胃体部に多い
 - 出典：岩室雅也. 薬剤起因性胃粘膜病変の内視鏡診断. 日本消化器内視鏡学会雑誌 2025;67(4):281-288　[DOI 10.11280/gee.67.281](https://doi.org/10.11280/gee.67.281)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-C-①（急性胃炎、急性胃粘膜病変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-090&card_id=GD-090&version=165c269bef)　（版 `165c269bef`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-090&card_id=GD-090&version=165c269bef)　（版 `165c269bef`）
 
 ### GD-091　出典照合済み・監修待ち
 
@@ -1109,7 +1109,7 @@
 - よくある誤解：薬剤性の胃粘膜傷害の原因はNSAIDだけである
 - 出典：岩室雅也. 薬剤起因性胃粘膜病変の内視鏡診断. 日本消化器内視鏡学会雑誌 2025;67(4):281-288　[DOI 10.11280/gee.67.281](https://doi.org/10.11280/gee.67.281)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-C-①（急性胃炎、急性胃粘膜病変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-091&card_id=GD-091&version=de2585a771)　（版 `de2585a771`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-091&card_id=GD-091&version=de2585a771)　（版 `de2585a771`）
 
 ### GD-092　出典照合済み・監修待ち
 
@@ -1121,9 +1121,9 @@
 - 不確実性：low（数値は抄録で照合）
 - 出典：Cook D, et al. Stress ulcer prophylaxis during invasive mechanical ventilation (REVISE). N Engl J Med 2024;391:9-20　[DOI 10.1056/NEJMoa2404245](https://doi.org/10.1056/NEJMoa2404245)　[PMID 38875111](https://pubmed.ncbi.nlm.nih.gov/38875111/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-C-①（急性胃炎、急性胃粘膜病変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-092&card_id=GD-092&version=9d8f229352)　（版 `9d8f229352`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-092&card_id=GD-092&version=9d8f229352)　（版 `9d8f229352`）
 
-**[ここまでの 3 件（GD-090〜GD-092）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-090%E3%80%9CGD-092&cards=GD-090%20165c269bef%0AGD-091%20de2585a771%0AGD-092%209d8f229352)**
+**[ここまでの 3 件（GD-090〜GD-092）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-090%E3%80%9CGD-092&cards=GD-090%20165c269bef%0AGD-091%20de2585a771%0AGD-092%209d8f229352)**
 
 ---
 
@@ -1139,7 +1139,7 @@
 - 不確実性：数値はレビューが引用した値（二次資料経由）で、原著は未照合
 - 出典：Rizwan MM, et al. Duodenal diverticulum and associated pancreatitis: case report with brief review of literature. World J Gastrointest Endosc 2011;3(3):62-63　[DOI 10.4253/wjge.v3.i3.62](https://doi.org/10.4253/wjge.v3.i3.62)　[PMID 21455344](https://pubmed.ncbi.nlm.nih.gov/21455344/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室など、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-093&card_id=GD-093&version=bb84a1b8a0)　（版 `bb84a1b8a0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-093&card_id=GD-093&version=bb84a1b8a0)　（版 `bb84a1b8a0`）
 
 ### GD-094　出典照合済み・監修待ち
 
@@ -1151,7 +1151,7 @@
 - 不確実性：死亡率は引用された症例集積の値（二次資料経由）
 - 出典：Rizwan MM, et al. Duodenal diverticulum and associated pancreatitis: case report with brief review of literature. World J Gastrointest Endosc 2011;3(3):62-63　[DOI 10.4253/wjge.v3.i3.62](https://doi.org/10.4253/wjge.v3.i3.62)　[PMID 21455344](https://pubmed.ncbi.nlm.nih.gov/21455344/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室など、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-094&card_id=GD-094&version=b7291fddcc)　（版 `b7291fddcc`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-094&card_id=GD-094&version=b7291fddcc)　（版 `b7291fddcc`）
 
 ### GD-095　出典照合済み・監修待ち
 
@@ -1163,9 +1163,9 @@
 - 不確実性：ライセンス種別は未確認。同論文の有病率の引用には不整合があるため数値は採用しない
 - 出典：Ergüder E, et al. Lemmel syndrome: a single-center cohort and diagnostic considerations. Turk J Surg 2026;42(2):214-219　[DOI 10.47717/turkjsurg.2026.2025-11-25](https://doi.org/10.47717/turkjsurg.2026.2025-11-25)　[PMID 42100946](https://pubmed.ncbi.nlm.nih.gov/42100946/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室など、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-095&card_id=GD-095&version=00b3e825dd)　（版 `00b3e825dd`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-095&card_id=GD-095&version=00b3e825dd)　（版 `00b3e825dd`）
 
-**[ここまでの 3 件（GD-093〜GD-095）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-093%E3%80%9CGD-095&cards=GD-093%20bb84a1b8a0%0AGD-094%20b7291fddcc%0AGD-095%2000b3e825dd)**
+**[ここまでの 3 件（GD-093〜GD-095）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-093%E3%80%9CGD-095&cards=GD-093%20bb84a1b8a0%0AGD-094%20b7291fddcc%0AGD-095%2000b3e825dd)**
 
 ---
 

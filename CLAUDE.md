@@ -1,4 +1,4 @@
-# CLAUDE.md — 消化器 事実票リポジトリ（Clean Room Fact DB）
+# CLAUDE.md — 事実票リポジトリ（Clean Room Fact DB、旧名 cleanroom-gi-facts）
 
 このリポジトリは、医学教育コンテンツと評価問題を「クリーンルーム方式」で作るための中間成果物、つまり事実票（fact card）を管理する。
 事実票は、著作権で保護される表現を含まない「検証可能な命題・数値」と、その出典の記録である。
@@ -115,7 +115,7 @@ Claude Code はこのリポジトリで、取り込み・照合・検証・レ�
 ## 5. ディレクトリ構成
 
 ```
-cleanroom-gi-facts/
+cleanroom-facts/
   CLAUDE.md                  ← このファイル
   PROJECT_INSTRUCTIONS.md    ← claude.ai のProject用（調査ラウンドで使う）
   schema/fact.schema.json    ← 事実票のJSON Schema

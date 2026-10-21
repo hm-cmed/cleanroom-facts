@@ -14,7 +14,7 @@
 - 不確実性：数値はガイドラインが引用した研究による（二次資料経由）
 - 出典：Oakland K, Chadwick G, East JE, et al. Diagnosis and management of acute lower gastrointestinal bleeding: guidelines from the British Society of Gastroenterology. Gut 2019;68:776-789　[DOI 10.1136/gutjnl-2018-317807](https://doi.org/10.1136/gutjnl-2018-317807)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-02 (id: JkxnuRM)；TBL-02-07-020 (id: JlAKpkk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-001&card_id=XS-001&version=f46fb36771)　（版 `f46fb36771`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-001&card_id=XS-001&version=f46fb36771)　（版 `f46fb36771`）
 
 ### XS-002　下書き（出典の照合前）
 
@@ -24,7 +24,7 @@
 - よくある誤解：下血ではまず緊急大腸内視鏡を行う
 - 出典：Oakland K, Chadwick G, East JE, et al. Diagnosis and management of acute lower gastrointestinal bleeding: guidelines from the British Society of Gastroenterology. Gut 2019;68:776-789　[DOI 10.1136/gutjnl-2018-317807](https://doi.org/10.1136/gutjnl-2018-317807)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-02 (id: JkxnuRM)；TBL-02-07-020 (id: JlAKpkk)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-002&card_id=XS-002&version=e50c92eed8)　（版 `e50c92eed8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-002&card_id=XS-002&version=e50c92eed8)　（版 `e50c92eed8`）
 
 ### XS-003　下書き（出典の照合前）
 
@@ -36,7 +36,7 @@
 - 不確実性：数値はガイドラインが引用した研究による（二次資料経由）
 - 出典：Oakland K, Chadwick G, East JE, et al. Diagnosis and management of acute lower gastrointestinal bleeding: guidelines from the British Society of Gastroenterology. Gut 2019;68:776-789　[DOI 10.1136/gutjnl-2018-317807](https://doi.org/10.1136/gutjnl-2018-317807)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-02 (id: JkxnuRM)；TBL-02-07-020 (id: JlAKpkk)；TBL-02-07-019 (id: JlAKpkg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-003&card_id=XS-003&version=a64bb83cbf)　（版 `a64bb83cbf`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-003&card_id=XS-003&version=a64bb83cbf)　（版 `a64bb83cbf`）
 
 ### XS-004　下書き（出典の照合前）
 
@@ -47,7 +47,7 @@
 - よくある誤解：下血の患者は全員入院が必要である
 - 出典：Oakland K, Chadwick G, East JE, et al. Diagnosis and management of acute lower gastrointestinal bleeding: guidelines from the British Society of Gastroenterology. Gut 2019;68:776-789　[DOI 10.1136/gutjnl-2018-317807](https://doi.org/10.1136/gutjnl-2018-317807)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-02 (id: JkxnuRM)；TBL-02-07-020 (id: JlAKpkk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-004&card_id=XS-004&version=db66ee8029)　（版 `db66ee8029`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-004&card_id=XS-004&version=db66ee8029)　（版 `db66ee8029`）
 
 ### XS-005　下書き（出典の照合前）
 
@@ -57,7 +57,7 @@
 - よくある誤解：下血ではヘモグロビンを正常値まで上げるよう輸血する
 - 出典：Oakland K, Chadwick G, East JE, et al. Diagnosis and management of acute lower gastrointestinal bleeding: guidelines from the British Society of Gastroenterology. Gut 2019;68:776-789　[DOI 10.1136/gutjnl-2018-317807](https://doi.org/10.1136/gutjnl-2018-317807)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-04 (id: JkxnuRU)；TBL-02-07-020 (id: JlAKpkk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-005&card_id=XS-005&version=61f0bec098)　（版 `61f0bec098`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-005&card_id=XS-005&version=61f0bec098)　（版 `61f0bec098`）
 
 ### XS-006　下書き（出典の照合前）
 
@@ -67,7 +67,7 @@
 - よくある誤解：下血の患者は24時間以内に大腸内視鏡を行わなければならない
 - 出典：Oakland K, Chadwick G, East JE, et al. Diagnosis and management of acute lower gastrointestinal bleeding: guidelines from the British Society of Gastroenterology. Gut 2019;68:776-789　[DOI 10.1136/gutjnl-2018-317807](https://doi.org/10.1136/gutjnl-2018-317807)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-020 (id: JlAKpkk)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-006&card_id=XS-006&version=5cbaae9d30)　（版 `5cbaae9d30`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-006&card_id=XS-006&version=5cbaae9d30)　（版 `5cbaae9d30`）
 
 ### XS-007　下書き（出典の照合前）
 
@@ -77,7 +77,7 @@
 - よくある誤解：消化管出血を起こしたら抗血栓薬はすべて永久に中止する
 - 出典：Oakland K, Chadwick G, East JE, et al. Diagnosis and management of acute lower gastrointestinal bleeding: guidelines from the British Society of Gastroenterology. Gut 2019;68:776-789　[DOI 10.1136/gutjnl-2018-317807](https://doi.org/10.1136/gutjnl-2018-317807)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-04 (id: JkxnuRU)；TBL-02-07-020 (id: JlAKpkk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-007&card_id=XS-007&version=e7e12cb9b3)　（版 `e7e12cb9b3`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-007&card_id=XS-007&version=e7e12cb9b3)　（版 `e7e12cb9b3`）
 
 ### XS-008　下書き（出典の照合前）
 
@@ -88,9 +88,9 @@
 - 不確実性：数値はガイドラインが引用した研究による（二次資料経由）
 - 出典：Oakland K, Chadwick G, East JE, et al. Diagnosis and management of acute lower gastrointestinal bleeding: guidelines from the British Society of Gastroenterology. Gut 2019;68:776-789　[DOI 10.1136/gutjnl-2018-317807](https://doi.org/10.1136/gutjnl-2018-317807)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-02 (id: JkxnuRM)；TBL-02-07-020 (id: JlAKpkk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-008&card_id=XS-008&version=59a2b093b0)　（版 `59a2b093b0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-008&card_id=XS-008&version=59a2b093b0)　（版 `59a2b093b0`）
 
-**[ここまでの 8 件（XS-001〜XS-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-001%E3%80%9CXS-008&cards=XS-001%20f46fb36771%0AXS-002%20e50c92eed8%0AXS-003%20a64bb83cbf%0AXS-004%20db66ee8029%0AXS-005%2061f0bec098%0AXS-006%205cbaae9d30%0AXS-007%20e7e12cb9b3%0AXS-008%2059a2b093b0)**
+**[ここまでの 8 件（XS-001〜XS-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-001%E3%80%9CXS-008&cards=XS-001%20f46fb36771%0AXS-002%20e50c92eed8%0AXS-003%20a64bb83cbf%0AXS-004%20db66ee8029%0AXS-005%2061f0bec098%0AXS-006%205cbaae9d30%0AXS-007%20e7e12cb9b3%0AXS-008%2059a2b093b0)**
 
 ---
 
@@ -104,7 +104,7 @@
 - 不確実性：有病率はガイドラインが引用した研究による（二次資料経由）
 - 出典：Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051　[DOI 10.1136/gutjnl-2021-325210](https://doi.org/10.1136/gutjnl-2021-325210)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-009&card_id=XS-009&version=bbe18bd214)　（版 `bbe18bd214`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-009&card_id=XS-009&version=bbe18bd214)　（版 `bbe18bd214`）
 
 ### XS-010　下書き（出典の照合前）
 
@@ -114,7 +114,7 @@
 - よくある誤解：フェリチンが正常範囲なら鉄欠乏は否定できる
 - 出典：Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051　[DOI 10.1136/gutjnl-2021-325210](https://doi.org/10.1136/gutjnl-2021-325210)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-010&card_id=XS-010&version=dc3a06a1b2)　（版 `dc3a06a1b2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-010&card_id=XS-010&version=dc3a06a1b2)　（版 `dc3a06a1b2`）
 
 ### XS-011　下書き（出典の照合前）
 
@@ -125,7 +125,7 @@
 - 不確実性：癌と病変の頻度はガイドラインが引用した研究による（二次資料経由）
 - 出典：Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051　[DOI 10.1136/gutjnl-2021-325210](https://doi.org/10.1136/gutjnl-2021-325210)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-011&card_id=XS-011&version=a5e3b9681f)　（版 `a5e3b9681f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-011&card_id=XS-011&version=a5e3b9681f)　（版 `a5e3b9681f`）
 
 ### XS-012　下書き（出典の照合前）
 
@@ -135,7 +135,7 @@
 - よくある誤解：鉄欠乏性貧血は年齢や性別にかかわらず全員内視鏡を行う
 - 出典：Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051　[DOI 10.1136/gutjnl-2021-325210](https://doi.org/10.1136/gutjnl-2021-325210)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-012&card_id=XS-012&version=5280f8fddf)　（版 `5280f8fddf`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-012&card_id=XS-012&version=5280f8fddf)　（版 `5280f8fddf`）
 
 ### XS-013　下書き（出典の照合前）
 
@@ -146,7 +146,7 @@
 - 不確実性：セリアック病の頻度はガイドラインが引用した研究による（二次資料経由）
 - 出典：Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051　[DOI 10.1136/gutjnl-2021-325210](https://doi.org/10.1136/gutjnl-2021-325210)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-013&card_id=XS-013&version=7df616ba7f)　（版 `7df616ba7f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-013&card_id=XS-013&version=7df616ba7f)　（版 `7df616ba7f`）
 
 ### XS-014　下書き（出典の照合前）
 
@@ -155,7 +155,7 @@
 - 条件：guideline: BSG 鉄欠乏性貧血 GL 2021／region: 英国の診療を前提とした推奨
 - 出典：Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051　[DOI 10.1136/gutjnl-2021-325210](https://doi.org/10.1136/gutjnl-2021-325210)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-014&card_id=XS-014&version=a038a11dfd)　（版 `a038a11dfd`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-014&card_id=XS-014&version=a038a11dfd)　（版 `a038a11dfd`）
 
 ### XS-015　下書き（出典の照合前）
 
@@ -166,9 +166,9 @@
 - 不確実性：英国の製剤を前提とした記述。日本の製剤と用量は添付文書で確認する
 - 出典：Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051　[DOI 10.1136/gutjnl-2021-325210](https://doi.org/10.1136/gutjnl-2021-325210)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-04 (id: JkxnuRU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-015&card_id=XS-015&version=ac664cfe68)　（版 `ac664cfe68`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-015&card_id=XS-015&version=ac664cfe68)　（版 `ac664cfe68`）
 
-**[ここまでの 7 件（XS-009〜XS-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-009%E3%80%9CXS-015&cards=XS-009%20bbe18bd214%0AXS-010%20dc3a06a1b2%0AXS-011%20a5e3b9681f%0AXS-012%205280f8fddf%0AXS-013%207df616ba7f%0AXS-014%20a038a11dfd%0AXS-015%20ac664cfe68)**
+**[ここまでの 7 件（XS-009〜XS-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-009%E3%80%9CXS-015&cards=XS-009%20bbe18bd214%0AXS-010%20dc3a06a1b2%0AXS-011%20a5e3b9681f%0AXS-012%205280f8fddf%0AXS-013%207df616ba7f%0AXS-014%20a038a11dfd%0AXS-015%20ac664cfe68)**
 
 ---
 
@@ -182,7 +182,7 @@
 - 不確実性：日本の消化器内視鏡学会の指針とは分類と対応が一部異なる
 - 出典：Veitch AM, Radaelli F, Alikhan R, et al. Endoscopy in patients on antiplatelet or anticoagulant therapy: British Society of Gastroenterology (BSG) and European Society of Gastrointestinal Endoscopy (ESGE) guideline update. Gut 2021;70:1611-1628　[DOI 10.1136/gutjnl-2021-325184](https://doi.org/10.1136/gutjnl-2021-325184)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-016&card_id=XS-016&version=8c1ea682db)　（版 `8c1ea682db`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-016&card_id=XS-016&version=8c1ea682db)　（版 `8c1ea682db`）
 
 ### XS-017　下書き（出典の照合前）
 
@@ -192,7 +192,7 @@
 - よくある誤解：生検をするなら抗血栓薬は必ず休薬する
 - 出典：Veitch AM, Radaelli F, Alikhan R, et al. Endoscopy in patients on antiplatelet or anticoagulant therapy: British Society of Gastroenterology (BSG) and European Society of Gastrointestinal Endoscopy (ESGE) guideline update. Gut 2021;70:1611-1628　[DOI 10.1136/gutjnl-2021-325184](https://doi.org/10.1136/gutjnl-2021-325184)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-017&card_id=XS-017&version=a5ec990179)　（版 `a5ec990179`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-017&card_id=XS-017&version=a5ec990179)　（版 `a5ec990179`）
 
 ### XS-018　下書き（出典の照合前）
 
@@ -202,7 +202,7 @@
 - よくある誤解：出血の高リスクの処置ではアスピリンも必ず休薬する
 - 出典：Veitch AM, Radaelli F, Alikhan R, et al. Endoscopy in patients on antiplatelet or anticoagulant therapy: British Society of Gastroenterology (BSG) and European Society of Gastrointestinal Endoscopy (ESGE) guideline update. Gut 2021;70:1611-1628　[DOI 10.1136/gutjnl-2021-325184](https://doi.org/10.1136/gutjnl-2021-325184)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-018&card_id=XS-018&version=60737f8ecc)　（版 `60737f8ecc`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-018&card_id=XS-018&version=60737f8ecc)　（版 `60737f8ecc`）
 
 ### XS-019　下書き（出典の照合前）
 
@@ -212,7 +212,7 @@
 - 不確実性：「最終服用を3日前」の表現はガイドラインの記述どおり。日本の指針とは休薬期間が異なる
 - 出典：Veitch AM, Radaelli F, Alikhan R, et al. Endoscopy in patients on antiplatelet or anticoagulant therapy: British Society of Gastroenterology (BSG) and European Society of Gastrointestinal Endoscopy (ESGE) guideline update. Gut 2021;70:1611-1628　[DOI 10.1136/gutjnl-2021-325184](https://doi.org/10.1136/gutjnl-2021-325184)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-019&card_id=XS-019&version=bd93360cc0)　（版 `bd93360cc0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-019&card_id=XS-019&version=bd93360cc0)　（版 `bd93360cc0`）
 
 ### XS-020　下書き（出典の照合前）
 
@@ -221,7 +221,7 @@
 - 条件：guideline: BSG/ESGE 抗血栓薬と内視鏡 GL 2021／region: 英国・欧州
 - 出典：Veitch AM, Radaelli F, Alikhan R, et al. Endoscopy in patients on antiplatelet or anticoagulant therapy: British Society of Gastroenterology (BSG) and European Society of Gastrointestinal Endoscopy (ESGE) guideline update. Gut 2021;70:1611-1628　[DOI 10.1136/gutjnl-2021-325184](https://doi.org/10.1136/gutjnl-2021-325184)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-020&card_id=XS-020&version=af4cb7fdef)　（版 `af4cb7fdef`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-020&card_id=XS-020&version=af4cb7fdef)　（版 `af4cb7fdef`）
 
 ### XS-021　下書き（出典の照合前）
 
@@ -231,9 +231,9 @@
 - よくある誤解：消化管出血のあとは抗凝固薬を再開しない
 - 出典：Veitch AM, Radaelli F, Alikhan R, et al. Endoscopy in patients on antiplatelet or anticoagulant therapy: British Society of Gastroenterology (BSG) and European Society of Gastrointestinal Endoscopy (ESGE) guideline update. Gut 2021;70:1611-1628　[DOI 10.1136/gutjnl-2021-325184](https://doi.org/10.1136/gutjnl-2021-325184)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-04 (id: JkxnuRU)；TBL-02-07-019 (id: JlAKpkg)；TBL-02-07-020 (id: JlAKpkk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-021&card_id=XS-021&version=cfaeeaa95b)　（版 `cfaeeaa95b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-021&card_id=XS-021&version=cfaeeaa95b)　（版 `cfaeeaa95b`）
 
-**[ここまでの 6 件（XS-016〜XS-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-016%E3%80%9CXS-021&cards=XS-016%208c1ea682db%0AXS-017%20a5ec990179%0AXS-018%2060737f8ecc%0AXS-019%20bd93360cc0%0AXS-020%20af4cb7fdef%0AXS-021%20cfaeeaa95b)**
+**[ここまでの 6 件（XS-016〜XS-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-016%E3%80%9CXS-021&cards=XS-016%208c1ea682db%0AXS-017%20a5ec990179%0AXS-018%2060737f8ecc%0AXS-019%20bd93360cc0%0AXS-020%20af4cb7fdef%0AXS-021%20cfaeeaa95b)**
 
 ---
 
@@ -247,7 +247,7 @@
 - よくある誤解：腺腫発見率は内視鏡医の技量と関係しない
 - 出典：Kaminski MF, Thomas-Gibson S, Bugajski M, et al. Performance measures for lower gastrointestinal endoscopy: a European Society of Gastrointestinal Endoscopy (ESGE) quality improvement initiative. United European Gastroenterol J 2017;5:309-334（Endoscopy 誌と同時掲載）　[DOI 10.1177/2050640617700014](https://doi.org/10.1177/2050640617700014)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-022&card_id=XS-022&version=6dc5520568)　（版 `6dc5520568`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-022&card_id=XS-022&version=6dc5520568)　（版 `6dc5520568`）
 
 ### XS-023　下書き（出典の照合前）
 
@@ -256,9 +256,9 @@
 - 条件：guideline: ESGE 下部消化管内視鏡の質の指標 2017
 - 出典：Kaminski MF, Thomas-Gibson S, Bugajski M, et al. Performance measures for lower gastrointestinal endoscopy: a European Society of Gastrointestinal Endoscopy (ESGE) quality improvement initiative. United European Gastroenterol J 2017;5:309-334（Endoscopy 誌と同時掲載）　[DOI 10.1177/2050640617700014](https://doi.org/10.1177/2050640617700014)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-023&card_id=XS-023&version=5657dd34cb)　（版 `5657dd34cb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-023&card_id=XS-023&version=5657dd34cb)　（版 `5657dd34cb`）
 
-**[ここまでの 2 件（XS-022〜XS-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-022%E3%80%9CXS-023&cards=XS-022%206dc5520568%0AXS-023%205657dd34cb)**
+**[ここまでの 2 件（XS-022〜XS-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-022%E3%80%9CXS-023&cards=XS-022%206dc5520568%0AXS-023%205657dd34cb)**
 
 ---
 
@@ -272,7 +272,7 @@
 - 不確実性：異常の頻度はガイドラインが引用した研究による（二次資料経由）
 - 出典：Newsome PN, Cramb R, Davison SM, et al. Guidelines on the management of abnormal liver blood tests. Gut 2018;67:6-19　[DOI 10.1136/gutjnl-2017-314924](https://doi.org/10.1136/gutjnl-2017-314924)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-024&card_id=XS-024&version=db674b2531)　（版 `db674b2531`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-024&card_id=XS-024&version=db674b2531)　（版 `db674b2531`）
 
 ### XS-025　下書き（出典の照合前）
 
@@ -282,7 +282,7 @@
 - よくある誤解：肝機能検査値の異常は値が高いほど重要である
 - 出典：Newsome PN, Cramb R, Davison SM, et al. Guidelines on the management of abnormal liver blood tests. Gut 2018;67:6-19　[DOI 10.1136/gutjnl-2017-314924](https://doi.org/10.1136/gutjnl-2017-314924)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-025&card_id=XS-025&version=f740069325)　（版 `f740069325`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-025&card_id=XS-025&version=f740069325)　（版 `f740069325`）
 
 ### XS-026　下書き（出典の照合前）
 
@@ -291,7 +291,7 @@
 - 条件：guideline: BSG 肝機能検査値異常 GL 2018／region: 英国の診療を前提とした推奨
 - 出典：Newsome PN, Cramb R, Davison SM, et al. Guidelines on the management of abnormal liver blood tests. Gut 2018;67:6-19　[DOI 10.1136/gutjnl-2017-314924](https://doi.org/10.1136/gutjnl-2017-314924)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-023 (id: JlAKpks)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-026&card_id=XS-026&version=a9165409d8)　（版 `a9165409d8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-026&card_id=XS-026&version=a9165409d8)　（版 `a9165409d8`）
 
 ### XS-027　下書き（出典の照合前）
 
@@ -302,7 +302,7 @@
 - 不確実性：有病率はガイドラインが引用した研究による（二次資料経由）
 - 出典：Newsome PN, Cramb R, Davison SM, et al. Guidelines on the management of abnormal liver blood tests. Gut 2018;67:6-19　[DOI 10.1136/gutjnl-2017-314924](https://doi.org/10.1136/gutjnl-2017-314924)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-027&card_id=XS-027&version=3a090bcc89)　（版 `3a090bcc89`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-027&card_id=XS-027&version=3a090bcc89)　（版 `3a090bcc89`）
 
 ### XS-028　下書き（出典の照合前）
 
@@ -312,7 +312,7 @@
 - よくある誤解：ALP が高ければ必ず胆道系の異常である
 - 出典：Newsome PN, Cramb R, Davison SM, et al. Guidelines on the management of abnormal liver blood tests. Gut 2018;67:6-19　[DOI 10.1136/gutjnl-2017-314924](https://doi.org/10.1136/gutjnl-2017-314924)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-028&card_id=XS-028&version=f65a3191a7)　（版 `f65a3191a7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-028&card_id=XS-028&version=f65a3191a7)　（版 `f65a3191a7`）
 
 ### XS-029　下書き（出典の照合前）
 
@@ -322,7 +322,7 @@
 - 鑑別・補足：高齢者では FIB-4 が高く出やすい
 - 出典：Newsome PN, Cramb R, Davison SM, et al. Guidelines on the management of abnormal liver blood tests. Gut 2018;67:6-19　[DOI 10.1136/gutjnl-2017-314924](https://doi.org/10.1136/gutjnl-2017-314924)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-029&card_id=XS-029&version=9c536b1ccd)　（版 `9c536b1ccd`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-029&card_id=XS-029&version=9c536b1ccd)　（版 `9c536b1ccd`）
 
 ### XS-030　下書き（出典の照合前）
 
@@ -332,9 +332,9 @@
 - 不確実性：英国の単位（1単位＝純アルコール8 g）を前提とする
 - 出典：Newsome PN, Cramb R, Davison SM, et al. Guidelines on the management of abnormal liver blood tests. Gut 2018;67:6-19　[DOI 10.1136/gutjnl-2017-314924](https://doi.org/10.1136/gutjnl-2017-314924)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-030&card_id=XS-030&version=80ba8f122c)　（版 `80ba8f122c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-030&card_id=XS-030&version=80ba8f122c)　（版 `80ba8f122c`）
 
-**[ここまでの 7 件（XS-024〜XS-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-024%E3%80%9CXS-030&cards=XS-024%20db674b2531%0AXS-025%20f740069325%0AXS-026%20a9165409d8%0AXS-027%203a090bcc89%0AXS-028%20f65a3191a7%0AXS-029%209c536b1ccd%0AXS-030%2080ba8f122c)**
+**[ここまでの 7 件（XS-024〜XS-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-024%E3%80%9CXS-030&cards=XS-024%20db674b2531%0AXS-025%20f740069325%0AXS-026%20a9165409d8%0AXS-027%203a090bcc89%0AXS-028%20f65a3191a7%0AXS-029%209c536b1ccd%0AXS-030%2080ba8f122c)**
 
 ---
 
@@ -348,7 +348,7 @@
 - よくある誤解：BMI が正常なら低栄養ではない
 - 出典：Cederholm T, Jensen GL, Correia MITD, et al. GLIM criteria for the diagnosis of malnutrition - A consensus report from the global clinical nutrition community. Clin Nutr 2019;38:1-9　[DOI 10.1016/j.clnu.2018.08.002](https://doi.org/10.1016/j.clnu.2018.08.002)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-02 (id: JkxnuRM)；TBL-02-07-032 (id: JlAKplM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-031&card_id=XS-031&version=02f72db71c)　（版 `02f72db71c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-031&card_id=XS-031&version=02f72db71c)　（版 `02f72db71c`）
 
 ### XS-032　下書き（出典の照合前）
 
@@ -358,7 +358,7 @@
 - 不確実性：不等号（以上・以下）は著者最終稿の抽出で一部欠けており、刊行版で確認する
 - 出典：Cederholm T, Jensen GL, Correia MITD, et al. GLIM criteria for the diagnosis of malnutrition - A consensus report from the global clinical nutrition community. Clin Nutr 2019;38:1-9　[DOI 10.1016/j.clnu.2018.08.002](https://doi.org/10.1016/j.clnu.2018.08.002)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-02 (id: JkxnuRM)；TBL-02-07-032 (id: JlAKplM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-032&card_id=XS-032&version=770e0c4b12)　（版 `770e0c4b12`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-032&card_id=XS-032&version=770e0c4b12)　（版 `770e0c4b12`）
 
 ### XS-033　下書き（出典の照合前）
 
@@ -368,9 +368,9 @@
 - 不確実性：不等号は著者最終稿の抽出で一部欠けており、刊行版で確認する
 - 出典：Cederholm T, Jensen GL, Correia MITD, et al. GLIM criteria for the diagnosis of malnutrition - A consensus report from the global clinical nutrition community. Clin Nutr 2019;38:1-9　[DOI 10.1016/j.clnu.2018.08.002](https://doi.org/10.1016/j.clnu.2018.08.002)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-02 (id: JkxnuRM)；TBL-02-07-032 (id: JlAKplM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-033&card_id=XS-033&version=f167340239)　（版 `f167340239`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-033&card_id=XS-033&version=f167340239)　（版 `f167340239`）
 
-**[ここまでの 3 件（XS-031〜XS-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-031%E3%80%9CXS-033&cards=XS-031%2002f72db71c%0AXS-032%20770e0c4b12%0AXS-033%20f167340239)**
+**[ここまでの 3 件（XS-031〜XS-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-031%E3%80%9CXS-033&cards=XS-031%2002f72db71c%0AXS-032%20770e0c4b12%0AXS-033%20f167340239)**
 
 ---
 
@@ -384,7 +384,7 @@
 - よくある誤解：手術前の栄養状態は手術成績に影響しない
 - 出典：Weimann A, Braga M, Carli F, et al. ESPEN practical guideline: Clinical nutrition in surgery. Clin Nutr 2021（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-04 (id: JkxnuRU)；TBL-02-07-032 (id: JlAKplM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-034&card_id=XS-034&version=ab56ad4267)　（版 `ab56ad4267`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-034&card_id=XS-034&version=ab56ad4267)　（版 `ab56ad4267`）
 
 ### XS-035　下書き（出典の照合前）
 
@@ -394,7 +394,7 @@
 - よくある誤解：手術前は前日の夜から絶飲食にしなければならない
 - 出典：Weimann A, Braga M, Carli F, et al. ESPEN practical guideline: Clinical nutrition in surgery. Clin Nutr 2021（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-04 (id: JkxnuRU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-035&card_id=XS-035&version=710c2feaa7)　（版 `710c2feaa7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-035&card_id=XS-035&version=710c2feaa7)　（版 `710c2feaa7`）
 
 ### XS-036　下書き（出典の照合前）
 
@@ -404,7 +404,7 @@
 - よくある誤解：手術後はまず静脈栄養を行い、経腸栄養は1週間以上あとから始める
 - 出典：Weimann A, Braga M, Carli F, et al. ESPEN practical guideline: Clinical nutrition in surgery. Clin Nutr 2021（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-04 (id: JkxnuRU)；TBL-02-07-032 (id: JlAKplM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-036&card_id=XS-036&version=01ffe346b0)　（版 `01ffe346b0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-036&card_id=XS-036&version=01ffe346b0)　（版 `01ffe346b0`）
 
 ### XS-037　下書き（出典の照合前）
 
@@ -414,9 +414,9 @@
 - よくある誤解：低栄養の患者には最初から目標量の栄養を入れるのがよい
 - 出典：Weimann A, Braga M, Carli F, et al. ESPEN practical guideline: Clinical nutrition in surgery. Clin Nutr 2021（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-08-04 (id: JkxnuRU)；TBL-02-07-032 (id: JlAKplM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-037&card_id=XS-037&version=0336dc746c)　（版 `0336dc746c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-037&card_id=XS-037&version=0336dc746c)　（版 `0336dc746c`）
 
-**[ここまでの 4 件（XS-034〜XS-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-gi-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-034%E3%80%9CXS-037&cards=XS-034%20ab56ad4267%0AXS-035%20710c2feaa7%0AXS-036%2001ffe346b0%0AXS-037%200336dc746c)**
+**[ここまでの 4 件（XS-034〜XS-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-034%E3%80%9CXS-037&cards=XS-034%20ab56ad4267%0AXS-035%20710c2feaa7%0AXS-036%2001ffe346b0%0AXS-037%200336dc746c)**
 
 ---
 
