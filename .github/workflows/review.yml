@@ -1,0 +1,85 @@
+name: 監修の反映
+
+# Issue フォーム（.github/ISSUE_TEMPLATE/fact-*.yml）で送られた監修結果を事実カードに反映し、
+# 監修ページ（review/github/）を作り直す。
+# 安全のため、Issue の本文はシェルに直接渡さず、イベントのファイルを Python で読む。
+
+on:
+  issues:
+    types: [opened, edited]
+  workflow_dispatch: {}   # 監修ページだけを作り直したいとき（Actions タブから手動で実行）
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: review-apply
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    if: github.event_name == 'workflow_dispatch' || startsWith(github.event.issue.title, '[監修]') || contains(github.event.issue.labels.*.name, '監修')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: ライブラリを入れる
+        run: pip install pyyaml==6.0.3 jsonschema==4.26.0
+
+      - name: 送信した人の権限を調べる
+        if: github.event_name == 'issues'
+        id: perm
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SENDER: ${{ github.event.sender.login }}
+        run: |
+          p=$(gh api "repos/${GITHUB_REPOSITORY}/collaborators/${SENDER}/permission" --jq .permission 2>/dev/null || echo none)
+          echo "permission=$p" >> "$GITHUB_OUTPUT"
+
+      - name: 監修結果をカードに反映する
+        if: github.event_name == 'issues'
+        id: apply
+        run: python scripts/apply_github_review.py --event "$GITHUB_EVENT_PATH" --permission "${{ steps.perm.outputs.permission }}" --out "$RUNNER_TEMP/result.md"
+
+      - name: 監修ページを作り直し、品質チェックを行う
+        run: |
+          python scripts/make_github_review.py
+          python scripts/validate.py
+
+      - name: 変更を保存する
+        env:
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/facts proposals review/github
+          if git diff --cached --quiet; then echo "変更なし"; exit 0; fi
+          if [ -n "$ISSUE" ]; then msg="監修の反映（Issue #$ISSUE）"; else msg="監修ページの更新"; fi
+          git commit -m "$msg"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push
+
+      - name: 問題サイトに通知する（MCQ_DISPATCH_TOKEN があるときだけ）
+        env:
+          GH_TOKEN: ${{ secrets.MCQ_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then echo "MCQ_DISPATCH_TOKEN が未設定のため通知しません（問題サイトは毎日自動で更新されます）"; exit 0; fi
+          gh api repos/hm-cmed/cleanroom-mcq/dispatches -f event_type=facts-updated || echo "通知に失敗しました（毎日の自動更新で反映されます）"
+
+      - name: Issue に結果を書き込む
+        if: github.event_name == 'issues'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE: ${{ github.event.issue.number }}
+          LABELS: ${{ steps.apply.outputs.labels }}
+          CLOSE: ${{ steps.apply.outputs.close }}
+        run: |
+          gh issue comment "$ISSUE" --repo "$GITHUB_REPOSITORY" --body-file "$RUNNER_TEMP/result.md"
+          if [ -n "$LABELS" ]; then gh label create "$LABELS" --repo "$GITHUB_REPOSITORY" --force >/dev/null 2>&1 || true; gh issue edit "$ISSUE" --repo "$GITHUB_REPOSITORY" --add-label "$LABELS"; fi
+          if [ "$CLOSE" = "true" ]; then gh issue close "$ISSUE" --repo "$GITHUB_REPOSITORY"; fi

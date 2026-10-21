@@ -1,0 +1,36 @@
+name: 事実カードのまとめて承認
+description: 監修ページで確認した複数のカードを、まとめて承認します。
+title: "[監修] まとめて承認"
+labels: ["監修"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        監修ページの「ここまでの○件をまとめて承認する」から開くと、カードIDと版の一覧が自動で入ります。
+        **修正が必要なカードは、この一覧から行ごと消してから送信し**、そのカードは「このカードを監修する」から別に報告してください。
+  - type: textarea
+    id: cards
+    attributes:
+      label: まとめて承認するカード
+      description: 1行に「カードID 版」を書きます（自動で入ります）。
+    validations:
+      required: true
+  - type: input
+    id: reviewer
+    attributes:
+      label: 監修者名
+      description: カードの記録に残る氏名です（例：札幌 太郎）。
+    validations:
+      required: true
+  - type: textarea
+    id: comment
+    attributes:
+      label: コメント
+      description: 任意。
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 確認
+      options:
+        - label: 一覧のすべてのカードについて、出典に照らして主張文と数値を確認しました。
+          required: true

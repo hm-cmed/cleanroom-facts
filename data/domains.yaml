@@ -1,0 +1,13 @@
+# 領域（カードIDの接頭辞）の一覧。
+# 新しい分野・領域を始めるときは、ここに1行足し、schema/fact.schema.json の id と domain にも接頭辞を足す。
+# field は分野（消化器・循環器など）。監修ページや問題サイトで、分野ごとにまとめるときに使う。
+- {prefix: HP, name: H. pylori関連疾患, field: 消化器}
+- {prefix: UG, name: 上部消化管出血, field: 消化器}
+- {prefix: ES, name: 食道, field: 消化器}
+- {prefix: GD, name: 胃・十二指腸, field: 消化器}
+- {prefix: IN, name: 小腸・大腸, field: 消化器}
+- {prefix: LV, name: 肝, field: 消化器}
+- {prefix: BP, name: 胆・膵, field: 消化器}
+- {prefix: AB, name: 腹膜・腹壁・急性腹症, field: 消化器}
+- {prefix: XS, name: 症候・検査・栄養, field: 消化器}
+- {prefix: NG, name: 神経消化器病, field: 消化器}

@@ -49,6 +49,18 @@ pip install -r requirements.txt
 python scripts/validate.py
 ```
 
+## 監修（GitHub で行う）
+
+専門医による監修は、GitHub の画面だけでできます（全分野が対象）。
+
+1. 監修者を Settings → Collaborators で招待する（書き込み権限のある人の監修だけが自動で反映されます）。
+2. 監修者は [review/github/README.md](review/github/README.md) を開き、領域のページでカードを出典と照らして読む。
+3. 問題がなければ「まとめて承認する」、直すべきカードは「このカードを監修する」→「修正が必要」から送信する。
+4. 数分で GitHub Actions がカードに監修者・日付を記録し（status: verified_expert）、監修ページも更新されます。修正案は `proposals/` に残り、カードの文章は変わりません。
+5. 問題サイト（[cleanroom-mcq](https://github.com/hm-cmed/cleanroom-mcq)）は、ここの最新版を自動で取り込みます。
+
+Excel のレビューシート（`review/*.xlsx`、`scripts/import_review.py`）も引き続き使えます。
+
 ## 注意
 
 - 論文やガイドラインの本文・PDF・図表は、リポジトリに入れません（CLAUDE.md 第1節）。

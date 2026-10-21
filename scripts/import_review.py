@@ -22,6 +22,9 @@ from pathlib import Path
 import yaml
 from openpyxl import load_workbook
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from review_common import card_hash  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 FACTS = ROOT / "data" / "facts"
 PROPOSALS = ROOT / "proposals"
@@ -91,6 +94,7 @@ def main(argv: list[str]) -> None:
             pub = c["publication_info"]
             before = pub["status"]
             pub["verifier"], pub["verified_at"], pub["status"] = reviewer, reviewed_on, "verified_expert"
+            pub["verified_hash"] = card_hash(c)  # 監修した版を記録（その後に内容が変わったら再監修の対象になる）
             note = f"専門医レビューで OK（{path.name}）。status {before} → verified_expert"
             if e["comment"]:
                 note += f"。コメント：{e['comment']}"

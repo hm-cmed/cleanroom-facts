@@ -1,0 +1,59 @@
+name: 事実カードの監修（1枚）
+description: 事実カード1枚を確認して、承認・修正・廃止のいずれかを記録します。
+title: "[監修] カード"
+labels: ["監修"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        監修ページ（`review/github/`）の「このカードを監修する」から開くと、カードIDと版が自動で入ります。
+        - **承認**：送信すると数分で自動的にカードへ記録され（監修者・日付）、この Issue は閉じられます。
+        - **修正が必要／廃止すべき**：カードは変更されず、修正案として記録されます。担当者が対応します。
+  - type: input
+    id: card_id
+    attributes:
+      label: カードID
+      placeholder: "例：LV-001"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: 確認した版
+      description: 監修ページから開くと自動で入ります。変更しないでください（確認したあとにカードが変わっていないかを調べるために使います）。
+    validations:
+      required: true
+  - type: dropdown
+    id: judge
+    attributes:
+      label: 判定
+      options:
+        - 承認（このままでよい）
+        - 修正が必要
+        - 廃止すべき
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: 修正案
+      description: 「修正が必要」のとき、直した主張文や数値を書いてください。
+  - type: textarea
+    id: comment
+    attributes:
+      label: コメント
+      description: 根拠となる文献の該当箇所、気づいた点など（任意）。
+  - type: input
+    id: reviewer
+    attributes:
+      label: 監修者名
+      description: カードの記録に残る氏名です（例：札幌 太郎）。
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 確認
+      options:
+        - label: 出典に照らして、主張文と数値を確認しました。
+          required: true

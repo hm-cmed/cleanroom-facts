@@ -23,6 +23,7 @@ Claude Code はこのリポジトリで、取り込み・照合・検証・レ�
    - 確認できなければ `null` にし、`uncertainty` に理由を書く。
    - 記憶にもとづく「〜の可能性」は禁止。
 4. **`verifier` と `status: verified_expert` は人間だけが設定する。** Claude Code はこの2項目に値を入れない。
+   - 例外は、監修者（人間）が GitHub の監修フォームや Excel のレビューシートに書いて送った内容を、`scripts/apply_github_review.py`・`scripts/import_review.py` が転記する場合だけ（§9）。`verified_hash` も同じ。
 5. **IDは不変。**
    - 一度付けたIDは再利用しない。
    - 廃止・統合したカードは削除せず、`status: retired` と `superseded_by` を記録する。
@@ -107,6 +108,7 @@ Claude Code はこのリポジトリで、取り込み・照合・検証・レ�
 
 - 形式は `接頭辞-3桁連番`（例：`ES-012`）。
 - 欠番は欠番のまま残し、詰めない。
+- 新しい分野・領域を始めるときは、接頭辞を `data/domains.yaml`（名前と分野）と `schema/fact.schema.json`（id と domain）に足す。この表にも足す。消化器以外の分野も同じレポジトリに入れてよい。
 
 ---
 
@@ -168,3 +170,14 @@ cleanroom-gi-facts/
 - 一般向けの動画では薬剤名を出さない。実在の人物のアバターは使わない。AIで作成したことを表示する。
 - CC BY-NC-ND の出典の図表は動画に使わない。収益化もしない。
 - 公開は、監修者が承認したものに限る。生成した動画（`video/out/`）はリポジトリに入れない。
+
+---
+
+## 9. GitHub での監修
+
+- 監修ページ：`review/github/`（`python scripts/make_github_review.py` で作る。手で編集しない）。全分野の `data/facts/*.yaml` を対象にする。
+- 監修者は Issue フォーム（`.github/ISSUE_TEMPLATE/fact-*.yml`）から送る。`.github/workflows/review.yml` が `scripts/apply_github_review.py` を実行する。
+  - 承認：フォームの「版」が今のカードの版（`scripts/review_common.py` の `card_hash`）と一致し、送信者に書き込み権限があるときだけ、verifier・verified_at・verified_hash を転記し、status を verified_expert にする。
+  - 修正・廃止：カードは変えず、`proposals/github_review_<ID>_issue<番号>.md` を作る。対応は §1-2 に従う。
+- 監修のあとにカードの内容（主張文・条件・誤解・不確実性・出典・カリキュラム）を変えると版が変わり、`validate.py` が警告し、監修ページで「再監修が必要」になる。内容を直したら、再監修を依頼する。
+- 問題サイト（hm-cmed/cleanroom-mcq）は、このレポジトリの最新版を毎日取り込む。監修の反映後は `MCQ_DISPATCH_TOKEN` があればすぐに通知する。

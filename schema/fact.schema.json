@@ -70,6 +70,7 @@
         "created": { "type": "string" },
         "verifier": { "type": ["string", "null"] },
         "verified_at": { "type": ["string", "null"] },
+        "verified_hash": { "type": ["string", "null"], "pattern": "^[0-9a-f]{10}$", "description": "監修したときのカードの版（scripts/review_common.py の card_hash）。手で書かない。" },
         "status": { "type": "string", "enum": ["draft", "verified_sources", "verified_expert", "retired"] },
         "superseded_by": { "type": ["string", "null"] }
       },
