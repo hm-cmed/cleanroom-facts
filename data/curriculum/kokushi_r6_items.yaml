@@ -1,4 +1,4 @@
-# 医師国家試験出題基準（令和6年版）医学各論の小項目（番号・名称・レベル）
+# 医師国家試験出題基準（令和6年版）医学各論の小項目（番号・名称・レベル）。Ⅴ は 2026-10-25、Ⅵ は 2026-10-21 に転記
 # 出典：厚生労働省 医学各論 PDF https://www.mhlw.go.jp/content/10803000/001079484.pdf
 # 備考欄は転記していない。項目の構成（番号・名称・レベル）だけを、問題の分類と配分の計算に使う。
 # checked: 原本 PDF と人が照合したら true にする（2026-10-21 は Claude Code の読み取り結果からの転記で、未照合）。
@@ -7,6 +7,119 @@ checked: false
 transcribed: 2026-10-21
 source: https://www.mhlw.go.jp/content/10803000/001079484.pdf
 chapters:
+  - id: Ⅴ
+    name: 心臓・脈管疾患
+    note: 小項目の番号（①など）がない中項目（例：Ⅴ-2-B 心原性ショック）は、中項目の番号をそのまま code にした。原文の「心筋塞」は「心筋梗塞」と、「{性}」は「性」と書いた。静脈疾患（8-C）は読み取りで1項目のみだったため、原本で要確認。
+    groups:
+      - id: "1"
+        name: 不整脈
+        items:
+          - {code: Ⅴ-1-A-①, name: "上室期外収縮", level: a}
+          - {code: Ⅴ-1-A-②, name: "発作性上室頻拍", level: a}
+          - {code: Ⅴ-1-A-③, name: "WPW症候群", level: a}
+          - {code: Ⅴ-1-A-④, name: "心房粗動", level: a}
+          - {code: Ⅴ-1-A-⑤, name: "心房細動", level: a}
+          - {code: Ⅴ-1-B-①, name: "心室期外収縮", level: a}
+          - {code: Ⅴ-1-B-②, name: "心室頻拍", level: a}
+          - {code: Ⅴ-1-B-③, name: "心室細動", level: a}
+          - {code: Ⅴ-1-C-①, name: "洞不全症候群", level: a}
+          - {code: Ⅴ-1-C-②, name: "房室ブロック", level: a}
+          - {code: Ⅴ-1-D-①, name: "QT延長症候群", level: b}
+          - {code: Ⅴ-1-D-②, name: "Brugada症候群", level: b}
+          - {code: Ⅴ-1-D-③, name: "致死性不整脈", level: b}
+      - id: "2"
+        name: 心不全
+        items:
+          - {code: Ⅴ-2-A-①, name: "左心不全", level: a}
+          - {code: Ⅴ-2-A-②, name: "右心不全", level: a}
+          - {code: Ⅴ-2-A-③, name: "急性心不全", level: a}
+          - {code: Ⅴ-2-A-④, name: "慢性心不全", level: a}
+          - {code: Ⅴ-2-B, name: "心原性ショック", level: a}
+      - id: "3"
+        name: 先天性心疾患
+        items:
+          - {code: Ⅴ-3-A-①, name: "心房中隔欠損症", level: a}
+          - {code: Ⅴ-3-A-②, name: "心室中隔欠損症", level: a}
+          - {code: Ⅴ-3-A-③, name: "動脈管開存症", level: b}
+          - {code: Ⅴ-3-A-④, name: "房室中隔欠損症<心内膜床欠損症>", level: c}
+          - {code: Ⅴ-3-B-①, name: "Fallot四徴症", level: b}
+          - {code: Ⅴ-3-B-②, name: "三尖弁閉鎖症", level: c}
+          - {code: Ⅴ-3-B-③, name: "肺動脈閉鎖症", level: c}
+          - {code: Ⅴ-3-C-①, name: "Ebstein奇形", level: b}
+          - {code: Ⅴ-3-C-②, name: "完全大血管転位症", level: b}
+          - {code: Ⅴ-3-C-③, name: "大動脈縮窄症、大動脈離断症", level: b}
+          - {code: Ⅴ-3-C-④, name: "総肺静脈還流異常症", level: b}
+          - {code: Ⅴ-3-C-⑤, name: "修正大血管転位症", level: c}
+          - {code: Ⅴ-3-C-⑥, name: "両大血管右室起始症", level: c}
+          - {code: Ⅴ-3-C-⑦, name: "単心房、単心室", level: c}
+      - id: "4"
+        name: 弁膜症
+        items:
+          - {code: Ⅴ-4-A-①, name: "僧帽弁狭窄症", level: a}
+          - {code: Ⅴ-4-A-②, name: "僧帽弁閉鎖不全症", level: a}
+          - {code: Ⅴ-4-B-①, name: "大動脈弁狭窄症", level: a}
+          - {code: Ⅴ-4-B-②, name: "大動脈弁閉鎖不全症", level: a}
+          - {code: Ⅴ-4-C-①, name: "三尖弁閉鎖不全症", level: a}
+          - {code: Ⅴ-4-C-②, name: "感染性心内膜炎", level: a}
+          - {code: Ⅴ-4-C-③, name: "連合弁膜症", level: b}
+          - {code: Ⅴ-4-C-④, name: "リウマチ性心炎", level: c}
+      - id: "5"
+        name: 虚血性心疾患
+        items:
+          - {code: Ⅴ-5-A-①, name: "労作性狭心症", level: a}
+          - {code: Ⅴ-5-A-②, name: "冠攣縮性狭心症", level: a}
+          - {code: Ⅴ-5-B-①, name: "急性心筋梗塞（ST上昇型・非ST上昇型心筋梗塞）、不安定狭心症", level: a}
+          - {code: Ⅴ-5-B-②, name: "心臓性突然死", level: a}
+          - {code: Ⅴ-5-C, name: "陳旧性心筋梗塞", level: a}
+          - {code: Ⅴ-5-D, name: "無痛性虚血性心疾患", level: a}
+          - {code: Ⅴ-5-E, name: "川崎病", level: a}
+      - id: "6"
+        name: 心筋・心膜疾患、心臓腫瘍、外傷
+        items:
+          - {code: Ⅴ-6-A-①, name: "ウイルス性心筋炎", level: a}
+          - {code: Ⅴ-6-B-①, name: "肥大型心筋症", level: a}
+          - {code: Ⅴ-6-B-②, name: "拡張型心筋症", level: a}
+          - {code: Ⅴ-6-B-③, name: "拘束型心筋症", level: b}
+          - {code: Ⅴ-6-C-①, name: "心アミロイドーシス", level: b}
+          - {code: Ⅴ-6-C-②, name: "心サルコイドーシス", level: b}
+          - {code: Ⅴ-6-C-③, name: "アルコール性心筋症", level: b}
+          - {code: Ⅴ-6-C-④, name: "虚血性心筋症", level: b}
+          - {code: Ⅴ-6-C-⑤, name: "筋ジストロフィー", level: c}
+          - {code: Ⅴ-6-D-①, name: "急性心膜炎", level: a}
+          - {code: Ⅴ-6-D-②, name: "心囊液貯留", level: a}
+          - {code: Ⅴ-6-D-③, name: "収縮性心膜炎", level: b}
+          - {code: Ⅴ-6-E, name: "心タンポナーデ", level: a}
+          - {code: Ⅴ-6-F-①, name: "粘液腫", level: c}
+          - {code: Ⅴ-6-F-②, name: "転移性腫瘍", level: c}
+          - {code: Ⅴ-6-G-①, name: "心臓外傷", level: c}
+          - {code: Ⅴ-6-G-②, name: "血管損傷", level: c}
+          - {code: Ⅴ-6-H-①, name: "たこつぼ心筋症", level: b}
+          - {code: Ⅴ-6-H-②, name: "心臓震盪", level: b}
+      - id: "7"
+        name: 血圧異常
+        items:
+          - {code: Ⅴ-7-A, name: "本態性高血圧", level: a}
+          - {code: Ⅴ-7-B-①, name: "腎実質性高血圧症", level: a}
+          - {code: Ⅴ-7-B-②, name: "腎血管性高血圧症", level: a}
+          - {code: Ⅴ-7-B-③, name: "内分泌性高血圧症", level: a}
+          - {code: Ⅴ-7-B-④, name: "睡眠時無呼吸症候群", level: a}
+          - {code: Ⅴ-7-C, name: "高血圧緊急症", level: a}
+          - {code: Ⅴ-7-D, name: "起立性低血圧", level: a}
+      - id: "8"
+        name: 脈管疾患
+        items:
+          - {code: Ⅴ-8-A-①, name: "胸部大動脈瘤", level: a}
+          - {code: Ⅴ-8-A-②, name: "腹部大動脈瘤", level: a}
+          - {code: Ⅴ-8-A-③, name: "胸腹部大動脈瘤", level: a}
+          - {code: Ⅴ-8-A-④, name: "大動脈解離", level: a}
+          - {code: Ⅴ-8-A-⑤, name: "高安動脈炎", level: b}
+          - {code: Ⅴ-8-A-⑥, name: "Marfan症候群", level: b}
+          - {code: Ⅴ-8-B-①, name: "閉塞性動脈硬化症", level: a}
+          - {code: Ⅴ-8-B-②, name: "Raynaud症候群", level: a}
+          - {code: Ⅴ-8-B-③, name: "急性動脈閉塞症", level: a}
+          - {code: Ⅴ-8-B-④, name: "Buerger病", level: b}
+          - {code: Ⅴ-8-C-①, name: "深部静脈血栓症<DVT>", level: a}
+          - {code: Ⅴ-8-D-①, name: "リンパ浮腫", level: b}
   - id: Ⅵ
     name: 消化器・腹壁・腹膜疾患
     groups:

@@ -11,3 +11,12 @@
 - {prefix: AB, name: 腹膜・腹壁・急性腹症, field: 消化器}
 - {prefix: XS, name: 症候・検査・栄養, field: 消化器}
 - {prefix: NG, name: 神経消化器病, field: 消化器}
+- {prefix: AR, name: 不整脈, field: 循環器}
+- {prefix: HF, name: 心不全, field: 循環器}
+- {prefix: IH, name: 虚血性心疾患, field: 循環器}
+- {prefix: VD, name: 弁膜症・感染性心内膜炎, field: 循環器}
+- {prefix: MP, name: 心筋・心膜疾患、心臓腫瘍、外傷, field: 循環器}
+- {prefix: CH, name: 先天性心疾患, field: 循環器}
+- {prefix: HT, name: 血圧異常, field: 循環器}
+- {prefix: VS, name: 脈管疾患, field: 循環器}
+- {prefix: CX, name: 循環器の症候・検査・治療（横断）, field: 循環器}

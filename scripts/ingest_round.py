@@ -79,12 +79,15 @@ def main(raw_path: str, prefix: str) -> None:
     dup = [i for i, n in Counter(ids).items() if n > 1]
     if dup:
         problems.append(f"ID の重複：{dup}")
-    bad_prefix = [i for i in ids if not str(i).startswith(prefix + "-")]
+    # 1つの原本に複数の接頭辞があってよい（例：python scripts/ingest_round.py raw/08_cv_a.md AR,HF,IH）
+    prefixes = [x.strip() for x in prefix.split(",") if x.strip()]
+    bad_prefix = [i for i in ids if str(i).split("-")[0] not in prefixes]
     if bad_prefix:
         problems.append(f"接頭辞 {prefix} でない ID：{bad_prefix}")
-    existing = FACTS / f"{prefix}.yaml"
-    if existing.exists():
-        problems.append(f"{existing.relative_to(ROOT)} が既にある（上書きしない）")
+    for pf in prefixes:
+        existing = FACTS / f"{pf}.yaml"
+        if existing.exists():
+            problems.append(f"{existing.relative_to(ROOT)} が既にある（上書きしない）")
 
     for c in cards:
         pub = c.setdefault("publication_info", {})
@@ -135,19 +138,26 @@ def main(raw_path: str, prefix: str) -> None:
 
     write = not problems and not violations
     if write:
-        existing.write_text(yaml.safe_dump(cards, allow_unicode=True, sort_keys=False, width=10_000), encoding="utf-8", newline="\n")
+        for pf in prefixes:
+            part = [c for c in cards if str(c.get("id")).startswith(pf + "-")]
+            if part:
+                (FACTS / f"{pf}.yaml").write_text(yaml.safe_dump(part, allow_unicode=True, sort_keys=False, width=10_000), encoding="utf-8", newline="\n")
         SOURCES.write_text(yaml.safe_dump(sources, allow_unicode=True, sort_keys=False, width=10_000), encoding="utf-8", newline="\n")
 
     # レポート
     by_sd = Counter(c.get("subdomain") for c in cards)
     by_cls = Counter(c["provenance"].get("source_class") for c in cards)
     unc = [c["id"] for c in cards if c.get("uncertainty")]
-    nums = sorted(int(i.split("-")[1]) for i in ids)
-    gaps = [f"{prefix}-{n:03d}" for n in range(1, nums[-1] + 1) if n not in nums]
+    gaps, ranges = [], []
+    for pf in prefixes:
+        nums = sorted(int(str(i).split("-")[1]) for i in ids if str(i).startswith(pf + "-"))
+        if nums:
+            gaps += [f"{pf}-{n:03d}" for n in range(1, nums[-1] + 1) if n not in nums]
+            ranges.append(f"{pf}-001〜{pf}-{nums[-1]:03d}")
     L = [f"# Phase 1：取り込みレポート（{prefix}、{TODAY}）\n",
          f"生成：`scripts/ingest_round.py {origin} {prefix}`。主張文と数値は変更していない。\n",
          f"- 結果：{'書き込み済み' if write else '**書き込みを中止**（下の問題を解消してから再実行）'}",
-         f"- カード：{len(cards)}件（{prefix}-001〜{prefix}-{nums[-1]:03d}）、欠番：{', '.join(gaps) or 'なし'}",
+         f"- カード：{len(cards)}件（{'、'.join(ranges)}）、欠番：{', '.join(gaps) or 'なし'}",
          f"- スキーマ違反：{len(violations)}件",
          f"- 出典マスター：新規 {len(added)}件（{', '.join(added)}）、既存の再利用 {len(reused)}件（{', '.join(reused)}）",
          f"- uncertainty に記載のあるカード：{len(unc)}件\n",
@@ -158,7 +168,7 @@ def main(raw_path: str, prefix: str) -> None:
     L += ["\n## subdomain 別\n", "| subdomain | 件数 |", "|---|---|"] + [f"| {k} | {v} |" for k, v in by_sd.most_common()]
     L += ["\n## source_class 別（原本の値。Phase 3 で Crossref により確定）\n", "| source_class | 件数 |", "|---|---|"] + [f"| {k} | {v} |" for k, v in by_cls.most_common()]
     L += ["\n## SRC 別の使用件数\n", "| SRC | 件数 |", "|---|---|"] + [f"| {k} | {v} |" for k, v in sorted(refs.items(), key=lambda x: str(x[0]))]
-    (REPORTS / f"01_ingest_{prefix}.md").write_text("\n".join(L) + "\n", encoding="utf-8", newline="\n")
+    (REPORTS / f"01_ingest_{prefix.replace(',', '_')}.md").write_text("\n".join(L) + "\n", encoding="utf-8", newline="\n")
     print("\n".join(L[:8]))
 
 
