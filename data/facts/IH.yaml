@@ -1,0 +1,1050 @@
+- id: IH-001
+  domain: IH
+  subdomain: 労作性狭心症
+  assertion:
+    plain_statement_ja: 安定冠動脈疾患が疑われ、検査前確率が中等度以上の患者には、診断とイベントリスク評価のために、冠動脈CT（解剖学的評価）または負荷心筋シンチグラフィ・負荷心臓MRI・負荷心エコー（機能的評価）による非侵襲的画像検査が推奨される（クラスI、レベルA）。
+    condition:
+      guideline: JCS 2022 安定冠動脈疾患 フォーカスアップデート 表7
+      region: 日本
+    differential: null
+    common_misconception: 胸痛のある患者には最初から全例に冠動脈造影を行う
+  provenance:
+    source_ref: SRC-202
+    source: Nakano S, Kohsaka S, Chikamori T, et al. JCS 2022 Guideline Focused Update on Diagnosis and Treatment in Patients With Stable Coronary Artery Disease. Circ J 2022;86:882-915
+    doi: 10.1253/circj.CJ-21-1041
+    pmid: '35283401'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-21-1041
+    source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-029 (id: JlAKpgA)；TBL-02-05-028 (id: JlAKpf8)'
+    kokushi: 医学各論 Ⅴ-5-A-①（労作性狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-002
+  domain: IH
+  subdomain: 労作性狭心症
+  assertion:
+    plain_statement_ja: 冠内圧の評価では、FFRが0.80を超える病変は一般に血行再建の対象とならず、iFRでは0.89がカットオフとして妥当とされる。日本のCVIT-DEFER研究では、FFRの測定で39%の患者の治療方針が変わり、PCIの実施が22%減った。
+    condition:
+      guideline: JCS 2022 安定冠動脈疾患 フォーカスアップデート
+      region: 日本
+    differential: null
+    common_misconception: 冠動脈造影で狭窄が強く見えれば虚血の評価なしにステントを入れてよい
+  provenance:
+    source_ref: SRC-202
+    source: Nakano S, Kohsaka S, Chikamori T, et al. JCS 2022 Guideline Focused Update on Diagnosis and Treatment in Patients With Stable Coronary Artery Disease. Circ J 2022;86:882-915
+    doi: 10.1253/circj.CJ-21-1041
+    pmid: '35283401'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-21-1041
+    source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: CVIT-DEFER の数値はガイドラインが引用した研究による（二次資料経由）。
+  curriculum:
+    core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-030 (id: JlAKpgE)；TBL-02-05-031 (id: JlAKpgI)'
+    kokushi: 医学各論 Ⅴ-5-A-①（労作性狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-003
+  domain: IH
+  subdomain: 労作性狭心症
+  assertion:
+    plain_statement_ja: 安定冠動脈疾患の血行再建は、左主幹部病変で心血管イベントを減らすため（クラスI、レベルB）、非侵襲的画像で広範な虚血がある患者で予後改善のため（I、B）、至適薬物治療でも日常生活を制限する狭心症が残る患者で症状改善のため（I、A）に推奨される。後の2つは共同意思決定にもとづく。
+    condition:
+      guideline: JCS 2022 安定冠動脈疾患 フォーカスアップデート 表10
+      region: 日本
+    differential: null
+    common_misconception: 安定狭心症はすべてPCIで治療すべきである
+  provenance:
+    source_ref: SRC-202
+    source: Nakano S, Kohsaka S, Chikamori T, et al. JCS 2022 Guideline Focused Update on Diagnosis and Treatment in Patients With Stable Coronary Artery Disease. Circ J 2022;86:882-915
+    doi: 10.1253/circj.CJ-21-1041
+    pmid: '35283401'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-21-1041
+    source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-031 (id: JlAKpgI)'
+    kokushi: 医学各論 Ⅴ-5-A-①（労作性狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-004
+  domain: IH
+  subdomain: 労作性狭心症
+  assertion:
+    plain_statement_ja: 心筋虚血のある安定冠動脈疾患患者2,287人を対象としたCOURAGE試験では、至適薬物治療にPCIを加えても、死亡または非致死性心筋梗塞は減らなかった（中央値4.6年で19.0%対18.5%、ハザード比1.05）。
+    condition:
+      region: 米国・カナダ
+      study: COURAGE
+    differential: null
+    common_misconception: 安定狭心症にPCIを行うと心筋梗塞と死亡が減る
+  provenance:
+    source_ref: SRC-203
+    source: Boden WE, O'Rourke RA, Teo KK, et al. Optimal medical therapy with or without PCI for stable coronary disease (COURAGE). N Engl J Med 2007;356:1503-1516
+    doi: 10.1056/NEJMoa070829
+    pmid: '17387127'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa070829
+    source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-031 (id: JlAKpgI)'
+    kokushi: 医学各論 Ⅴ-5-A-①（労作性狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-005
+  domain: IH
+  subdomain: 労作性狭心症
+  assertion:
+    plain_statement_ja: 中等度以上の虚血がある安定冠動脈疾患患者5,179人を対象としたISCHEMIA試験では、初期の侵襲的戦略は保存的戦略に比べて虚血性心血管イベントや全死亡を減らさなかった（中央値3.2年）。イベント率は6か月では侵襲的戦略で高く（5.3%対3.4%）、5年では低かった（16.4%対18.2%）が、差は有意でなかった。
+    condition:
+      region: 国際
+      study: ISCHEMIA
+    differential: null
+    common_misconception: 中等度以上の虚血があれば早期の血行再建で死亡が減る
+  provenance:
+    source_ref: SRC-204
+    source: Maron DJ, Hochman JS, Reynolds HR, et al. Initial Invasive or Conservative Strategy for Stable Coronary Disease (ISCHEMIA). N Engl J Med 2020;382:1395-1407
+    doi: 10.1056/NEJMoa1915922
+    pmid: '32227755'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1915922
+    source_license: NEJM の利用規約（Crossref の license 欄。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 結果は心筋梗塞の定義によって変わった。
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-031 (id: JlAKpgI)'
+    kokushi: 医学各論 Ⅴ-5-A-①（労作性狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-006
+  domain: IH
+  subdomain: 冠攣縮性狭心症
+  assertion:
+    plain_statement_ja: 冠攣縮性狭心症は、ニトログリセリンで発作がすぐ消えることに加え、安静時（特に夜間から早朝）の発作、運動耐容能の日内変動（早朝の低下）、発作時のST上昇、過換気による誘発、カルシウム拮抗薬で抑えられβ遮断薬で抑えられないことのいずれか1つがあれば、冠動脈造影をしなくても診断できるとする基準（Yasueら）がある。
+    condition:
+      guideline: JCS/CVIT/JCC 2023 冠攣縮性狭心症 フォーカスアップデート
+      region: 日本
+    differential: null
+    common_misconception: 冠攣縮性狭心症は労作で起きるのが典型である
+  provenance:
+    source_ref: SRC-205
+    source: Hokimoto S, Kaikita K, Yasuda S, et al. JCS/CVIT/JCC 2023 Guideline Focused Update on Diagnosis and Treatment of Vasospastic Angina (Coronary Spastic Angina) and Coronary Microvascular Dysfunction. Circ J 2023;87:879-936
+    doi: 10.1253/circj.CJ-22-0779
+    pmid: '36908169'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-22-0779
+    source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-161 (id: JlvnlsE)'
+    kokushi: 医学各論 Ⅴ-5-A-②（冠攣縮性狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-007
+  domain: IH
+  subdomain: 冠攣縮性狭心症
+  assertion:
+    plain_statement_ja: アセチルコリンまたはエルゴノビンによる冠攣縮誘発試験は、心筋虚血の徴候・症状（胸痛と虚血性の心電図変化）を伴って冠動脈が一時的に完全または亜完全に閉塞する（90%を超える狭窄）か、連続する2つ以上の区域に90%のびまん性の収縮が起きた場合を陽性とする。
+    condition:
+      guideline: JCS/CVIT/JCC 2023 冠攣縮性狭心症 フォーカスアップデート
+      region: 日本
+    differential: null
+    common_misconception: 誘発試験は胸痛がなくても血管が少し細くなれば陽性である
+  provenance:
+    source_ref: SRC-205
+    source: Hokimoto S, Kaikita K, Yasuda S, et al. JCS/CVIT/JCC 2023 Guideline Focused Update on Diagnosis and Treatment of Vasospastic Angina (Coronary Spastic Angina) and Coronary Microvascular Dysfunction. Circ J 2023;87:879-936
+    doi: 10.1253/circj.CJ-22-0779
+    pmid: '36908169'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-22-0779
+    source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-161 (id: JlvnlsE)；TBL-02-05-029 (id: JlAKpgA)'
+    kokushi: 医学各論 Ⅴ-5-A-②（冠攣縮性狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-008
+  domain: IH
+  subdomain: 冠攣縮性狭心症
+  assertion:
+    plain_statement_ja: 冠攣縮が原因の場合や冠攣縮性狭心症には、発作予防のため長時間作用型のカルシウム拮抗薬が推奨される（クラスI、レベルB）。冠攣縮が基礎にある患者にβ遮断薬を単独で使ってはならない（III（有害）、B）。日本人の心筋梗塞患者では、発症早期の誘発試験で冠攣縮が欧米人の約3倍多いと報告されている。
+    condition:
+      guideline: JCS 2018 急性冠症候群GL 表47・表84
+      region: 日本
+    differential: null
+    common_misconception: 冠攣縮性狭心症にはβ遮断薬単独が第一選択である
+  provenance:
+    source_ref: SRC-206
+    source: Kimura K, Kimura T, Ishihara M, et al. JCS 2018 Guideline on Diagnosis and Treatment of Acute Coronary Syndrome. Circ J 2019;83:1085-1196
+    doi: 10.1253/circj.CJ-19-0133
+    pmid: '30930428'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-19-0133
+    source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 約3倍の値はガイドラインが引用した研究による（二次資料経由）。
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-161 (id: JlvnlsE)'
+    kokushi: 医学各論 Ⅴ-5-A-②（冠攣縮性狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-009
+  domain: IH
+  subdomain: 急性冠症候群
+  assertion:
+    plain_statement_ja: 急性冠症候群を疑う症状がある患者には、到着後10分以内に12誘導心電図を記録する（クラスI、レベルC）。診断には心筋トロポニン（IまたはT）を測定し（I、C）、トロポニンが測れる場合はCK-MBやミオグロビンを診断に使うことは推奨されない（III（無益）、A）。
+    condition:
+      guideline: JCS 2018 急性冠症候群GL 表5・表6
+      region: 日本
+    differential: 初回の心電図で診断がつかない場合は5〜10分ごとに繰り返し記録する
+    common_misconception: トロポニンが正常なら1回の測定で心筋梗塞を否定できる
+  provenance:
+    source_ref: SRC-206
+    source: Kimura K, Kimura T, Ishihara M, et al. JCS 2018 Guideline on Diagnosis and Treatment of Acute Coronary Syndrome. Circ J 2019;83:1085-1196
+    doi: 10.1253/circj.CJ-19-0133
+    pmid: '30930428'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-19-0133
+    source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-163 (id: JlvnlsQ)；TBL-02-05-026 (id: JlAKpf0)；TBL-02-05-021 (id: JlAKpfI)'
+    kokushi: 医学各論 Ⅴ-5-B-①（急性心筋梗塞（ST上昇型・非ST上昇型心筋梗塞）、不安定狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-010
+  domain: IH
+  subdomain: 急性冠症候群
+  assertion:
+    plain_statement_ja: ST上昇型心筋梗塞の再灌流は発症から120分以内を目標とし、そのために線溶療法を選ぶ場合は医療者との最初の接触（救急隊を含む）から30分以内、PCIを選ぶ場合は90分以内に治療を始めることを目標とする。再灌流療法のできない施設では、到着から転送までの時間を30分以内にすることが目標とされる。
+    condition:
+      guideline: JCS 2018 急性冠症候群GL（本文）
+      region: 日本
+    differential: null
+    common_misconception: door-to-balloon時間を短くすることだけが目標である
+  provenance:
+    source_ref: SRC-206
+    source: Kimura K, Kimura T, Ishihara M, et al. JCS 2018 Guideline on Diagnosis and Treatment of Acute Coronary Syndrome. Circ J 2019;83:1085-1196
+    doi: 10.1253/circj.CJ-19-0133
+    pmid: '30930428'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-19-0133
+    source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 日本のCREDO-Kyoto AMIレジストリでは、door-to-balloon 90分未満と以上で長期予後に差がなかったと引用されている。
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-02-05-031 (id: JlAKpgI)'
+    kokushi: 医学各論 Ⅴ-5-B-①（急性心筋梗塞（ST上昇型・非ST上昇型心筋梗塞）、不安定狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-011
+  domain: IH
+  subdomain: 急性冠症候群
+  assertion:
+    plain_statement_ja: ST上昇型心筋梗塞では、発症12時間以内に速やかにプライマリーPCI（ステント留置を含む）を行う（クラスI、レベルA）。発症3時間以内でPCIまでの遅れが1時間を超える場合は線溶療法を考慮し（I、B）、最初の医療接触から120分以内にPCIができない場合は、発症12時間以内なら線溶療法を行う（I、A）。ST上昇のない患者（後壁梗塞を除く）に線溶療法を行ってはならない（III（有害）、B）。
+    condition:
+      guideline: JCS 2018 急性冠症候群GL 表18・表29
+      region: 日本
+    differential: 75歳以上では線溶薬の半量を考慮する（IIa、B）
+    common_misconception: 非ST上昇型の急性冠症候群にも線溶療法が有効である
+  provenance:
+    source_ref: SRC-206
+    source: Kimura K, Kimura T, Ishihara M, et al. JCS 2018 Guideline on Diagnosis and Treatment of Acute Coronary Syndrome. Circ J 2019;83:1085-1196
+    doi: 10.1253/circj.CJ-19-0133
+    pmid: '30930428'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-19-0133
+    source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-02-05-031 (id: JlAKpgI)'
+    kokushi: 医学各論 Ⅴ-5-B-①（急性心筋梗塞（ST上昇型・非ST上昇型心筋梗塞）、不安定狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-012
+  domain: IH
+  subdomain: 急性冠症候群
+  assertion:
+    plain_statement_ja: 心筋虚血による胸部症状にはニトログリセリンの舌下投与またはスプレーを使う（クラスI、レベルC）。ただし、右室梗塞を合併した下壁梗塞、収縮期血圧90 mmHg未満（または基礎値から30 mmHg以上の低下）、高度の徐脈（50/分未満）、頻脈（100/分超）では使ってはならず（III（有害）、C）、勃起不全治療薬の服用後24時間以内も使ってはならない（III（有害）、B）。
+    condition:
+      guideline: JCS 2018 急性冠症候群GL 表15
+      region: 日本
+    differential: null
+    common_misconception: 右室梗塞の胸痛にはまず硝酸薬を使う
+  provenance:
+    source_ref: SRC-206
+    source: Kimura K, Kimura T, Ishihara M, et al. JCS 2018 Guideline on Diagnosis and Treatment of Acute Coronary Syndrome. Circ J 2019;83:1085-1196
+    doi: 10.1253/circj.CJ-19-0133
+    pmid: '30930428'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-19-0133
+    source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 勃起不全治療薬の種類による違い（タダラフィルなど）は本カードでは扱っていない。
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-01-00-157 (id: Jlvnlro)'
+    kokushi: 医学各論 Ⅴ-5-B-①（急性心筋梗塞（ST上昇型・非ST上昇型心筋梗塞）、不安定狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-013
+  domain: IH
+  subdomain: 急性冠症候群
+  assertion:
+    plain_statement_ja: 下壁のST上昇型心筋梗塞では右側胸部誘導（特にV4R）を追加記録し、V4Rで1.0 mm（0.1 mV）以上のST上昇があれば右室梗塞と診断できる。標準12誘導で捉えにくい後壁梗塞は、背部誘導（V7〜V9）の連続する2誘導以上で0.5 mm（0.05 mV）以上のST上昇で診断される。
+    condition:
+      guideline: JCS 2018 急性冠症候群GL（本文）
+      region: 日本
+    differential: null
+    common_misconception: 右室梗塞と後壁梗塞は標準12誘導だけで十分に診断できる
+  provenance:
+    source_ref: SRC-206
+    source: Kimura K, Kimura T, Ishihara M, et al. JCS 2018 Guideline on Diagnosis and Treatment of Acute Coronary Syndrome. Circ J 2019;83:1085-1196
+    doi: 10.1253/circj.CJ-19-0133
+    pmid: '30930428'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-19-0133
+    source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-163 (id: JlvnlsQ)；TBL-02-05-026 (id: JlAKpf0)'
+    kokushi: 医学各論 Ⅴ-5-B-①（急性心筋梗塞（ST上昇型・非ST上昇型心筋梗塞）、不安定狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-014
+  domain: IH
+  subdomain: 急性冠症候群
+  assertion:
+    plain_statement_ja: 急性冠症候群が強く疑われる場合はアスピリン162〜200 mgをかみ砕いて服用させる（クラスI、レベルA）。プライマリーPCIの前にはアスピリン162〜325 mgを投与し、PCI後は禁忌がなければ81〜162 mg/日を生涯続ける（いずれもI、A）。
+    condition:
+      guideline: JCS 2018 急性冠症候群GL 表17・表24
+      region: 日本
+    differential: null
+    common_misconception: アスピリンは腸溶錠をそのまま飲み込めば十分である
+  provenance:
+    source_ref: SRC-206
+    source: Kimura K, Kimura T, Ishihara M, et al. JCS 2018 Guideline on Diagnosis and Treatment of Acute Coronary Syndrome. Circ J 2019;83:1085-1196
+    doi: 10.1253/circj.CJ-19-0133
+    pmid: '30930428'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-19-0133
+    source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)'
+    kokushi: 医学各論 Ⅴ-5-B-①（急性心筋梗塞（ST上昇型・非ST上昇型心筋梗塞）、不安定狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-015
+  domain: IH
+  subdomain: 急性冠症候群
+  assertion:
+    plain_statement_ja: 日本のガイドラインは、ST上昇型心筋梗塞のプライマリーPCI前のP2Y12阻害薬の負荷投与として、プラスグレル20 mgを推奨し（クラスI、レベルA）、プラスグレルが使えないか禁忌の場合はクロピドグレル300 mgを推奨する（I、A）。チカグレロル180 mgは両者が使えない場合に考慮してもよい（IIb、B）。
+    condition:
+      guideline: JCS 2020 抗血栓療法 フォーカスアップデート 表10
+      region: 日本
+    differential: null
+    common_misconception: 日本でもチカグレロルが第一選択のP2Y12阻害薬である
+  provenance:
+    source_ref: SRC-207
+    source: Nakamura M, Kimura K, Kimura T, et al. JCS 2020 Guideline Focused Update on Antithrombotic Therapy in Patients With Coronary Artery Disease. Circ J 2020;84:831-865
+    doi: 10.1253/circj.CJ-19-1109
+    pmid: '32173684'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-19-1109
+    source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)'
+    kokushi: 医学各論 Ⅴ-5-B-①（急性心筋梗塞（ST上昇型・非ST上昇型心筋梗塞）、不安定狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-016
+  domain: IH
+  subdomain: 急性冠症候群
+  assertion:
+    plain_statement_ja: PCIを受けた日本人の急性冠症候群患者1,363人を対象としたPRASFIT-ACS試験では、日本人向けに減量したプラスグレル（負荷20 mg、維持3.75 mg）は、クロピドグレル（300 mg、75 mg）に比べ24週の主要心血管イベントが9.4%対11.8%（ハザード比0.77、95%信頼区間0.56〜1.07）で、CABGに関連しない大出血は1.9%対2.2%と同程度であった。
+    condition:
+      region: 日本
+      study: PRASFIT-ACS
+    differential: null
+    common_misconception: 日本人でも欧米と同じ用量のプラスグレルを使う
+  provenance:
+    source_ref: SRC-208
+    source: 'Saito S, Isshiki T, Kimura T, et al. Efficacy and safety of adjusted-dose prasugrel compared with clopidogrel in Japanese patients with acute coronary syndrome: the PRASFIT-ACS study. Circ J 2014;78:1684-1692'
+    doi: 10.1253/circj.CJ-13-1482
+    pmid: '24759796'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-13-1482
+    source_license: 未確認（Crossref に license 欄なし。J-STAGE 掲載ページにライセンスの表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 主要心血管イベントの差は統計学的に有意ではなかった（点推定での比較）。
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)'
+    kokushi: 医学各論 Ⅴ-5-B-①（急性心筋梗塞（ST上昇型・非ST上昇型心筋梗塞）、不安定狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-017
+  domain: IH
+  subdomain: 急性冠症候群
+  assertion:
+    plain_statement_ja: 急性冠症候群でステントを留置した後は、アスピリン81〜162 mgにプラスグレル3.75 mgまたはクロピドグレル75 mgを加えた抗血小板薬2剤併用療法（DAPT）を3〜12か月行うことが推奨される（クラスI、レベルA）。出血リスクが高い患者ではDAPTを1〜3か月に短縮することが推奨される（I、A）。安定冠動脈疾患でのステント留置後のDAPTは1〜3か月が推奨される（I、A）。
+    condition:
+      guideline: JCS 2020 抗血栓療法 フォーカスアップデート 表14・表17
+      region: 日本
+    differential: 出血リスクの評価にはARC-HBRに低体重・フレイル・心不全・透析を加えた日本版の基準が提案されている
+    common_misconception: DAPTは全例で12か月以上続ける
+  provenance:
+    source_ref: SRC-207
+    source: Nakamura M, Kimura K, Kimura T, et al. JCS 2020 Guideline Focused Update on Antithrombotic Therapy in Patients With Coronary Artery Disease. Circ J 2020;84:831-865
+    doi: 10.1253/circj.CJ-19-1109
+    pmid: '32173684'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-19-1109
+    source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-02-05-031 (id: JlAKpgI)'
+    kokushi: 医学各論 Ⅴ-5-B-①（急性心筋梗塞（ST上昇型・非ST上昇型心筋梗塞）、不安定狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-018
+  domain: IH
+  subdomain: 急性冠症候群
+  assertion:
+    plain_statement_ja: 日本でPCIを受けた3,045人を対象としたSTOPDAPT-2試験では、1か月のDAPTの後にクロピドグレル単剤にする方法は、12か月のDAPTに比べ、心血管イベントと出血の複合が少なく（2.36%対3.70%、ハザード比0.64）、出血は大きく減った（0.41%対1.54%）。
+    condition:
+      region: 日本
+      study: STOPDAPT-2
+    differential: null
+    common_misconception: DAPTを短くすると必ず血栓イベントが増える
+  provenance:
+    source_ref: SRC-209
+    source: 'Watanabe H, Domei T, Morimoto T, et al. Effect of 1-Month Dual Antiplatelet Therapy Followed by Clopidogrel vs 12-Month Dual Antiplatelet Therapy on Cardiovascular and Bleeding Events in Patients Receiving PCI: The STOPDAPT-2 Randomized Clinical Trial. JAMA 2019;321:2414-2427'
+    doi: 10.1001/jama.2019.8145
+    pmid: '31237644'
+    pmcid: null
+    url: https://doi.org/10.1001/jama.2019.8145
+    source_license: 出版社（AMA）の著作物（Crossref に license 欄なし。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 対象には安定冠動脈疾患も含まれる。
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-02-05-031 (id: JlAKpgI)'
+    kokushi: 医学各論 Ⅴ-5-B-①（急性心筋梗塞（ST上昇型・非ST上昇型心筋梗塞）、不安定狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-019
+  domain: IH
+  subdomain: 急性冠症候群
+  assertion:
+    plain_statement_ja: 高リスクの非ST上昇型急性冠症候群には早期侵襲的戦略が推奨され（クラスI、レベルA）、中等度から高リスクの患者がPCIのできない病院を受診した場合は、ただちにPCIのできる施設に転送する（I、C）。
+    condition:
+      guideline: JCS 2018 急性冠症候群GL 表35
+      region: 日本
+    differential: null
+    common_misconception: 非ST上昇型の急性冠症候群は全例が保存的治療でよい
+  provenance:
+    source_ref: SRC-206
+    source: Kimura K, Kimura T, Ishihara M, et al. JCS 2018 Guideline on Diagnosis and Treatment of Acute Coronary Syndrome. Circ J 2019;83:1085-1196
+    doi: 10.1253/circj.CJ-19-0133
+    pmid: '30930428'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-19-0133
+    source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-162 (id: JlvnlsI)；TBL-01-00-163 (id: JlvnlsQ)'
+    kokushi: 医学各論 Ⅴ-5-B-①（急性心筋梗塞（ST上昇型・非ST上昇型心筋梗塞）、不安定狭心症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-020
+  domain: IH
+  subdomain: 陳旧性心筋梗塞
+  assertion:
+    plain_statement_ja: 経口抗凝固薬が必要な冠動脈疾患患者では、ステント留置の周術期（2週間以内）は3剤併用、その後はP2Y12阻害薬と抗凝固薬の併用が推奨される（周術期はクラスI、レベルC、その後はI、A）。ステント留置から1年を超えた患者、CABG後、血行再建をしていない患者では、抗血小板薬を使わない抗凝固薬単剤が推奨される（I、B）。非弁膜症性心房細動ではワルファリンよりDOACを選ぶ（I、A）。
+    condition:
+      guideline: JCS 2020 抗血栓療法 フォーカスアップデート 表19
+      region: 日本
+    differential: null
+    common_misconception: 心房細動とステント留置後の患者は生涯3剤を続ける
+  provenance:
+    source_ref: SRC-207
+    source: Nakamura M, Kimura K, Kimura T, et al. JCS 2020 Guideline Focused Update on Antithrombotic Therapy in Patients With Coronary Artery Disease. Circ J 2020;84:831-865
+    doi: 10.1253/circj.CJ-19-1109
+    pmid: '32173684'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-19-1109
+    source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 抗凝固薬単剤の推奨の根拠はリバーロキサバンのデータである。
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-01-00-166 (id: Jlvnlsg)'
+    kokushi: 医学各論 Ⅴ-5-C（陳旧性心筋梗塞、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-021
+  domain: IH
+  subdomain: 陳旧性心筋梗塞
+  assertion:
+    plain_statement_ja: PCIまたはCABGから1年以上たった、または血行再建を要しない冠動脈疾患を伴う心房細動患者2,236人を対象とした日本のAFIRE試験では、リバーロキサバン単剤は抗血小板薬との併用に比べ、有効性で非劣性（年4.14%対5.75%、ハザード比0.72）、大出血で優越していた（年1.62%対2.76%、ハザード比0.59）。併用群で死亡が多かったため試験は早期に終了した。
+    condition:
+      region: 日本
+      study: AFIRE
+    differential: null
+    common_misconception: 安定冠動脈疾患を伴う心房細動には抗凝固薬と抗血小板薬の併用を続ける
+  provenance:
+    source_ref: SRC-210
+    source: Yasuda S, Kaikita K, Akao M, et al. Antithrombotic Therapy for Atrial Fibrillation with Stable Coronary Disease (AFIRE). N Engl J Med 2019;381:1103-1113
+    doi: 10.1056/NEJMoa1904143
+    pmid: '31475793'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1904143
+    source_license: NEJM の利用規約（Crossref の license 欄。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-01-00-166 (id: Jlvnlsg)'
+    kokushi: 医学各論 Ⅴ-5-C（陳旧性心筋梗塞、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-022
+  domain: IH
+  subdomain: 陳旧性心筋梗塞
+  assertion:
+    plain_statement_ja: 心筋梗塞後の二次予防では、最大耐用量のストロングスタチンを使う（クラスI、レベルA）。それでもLDLコレステロールが70 mg/dL未満にならない高リスク患者にはエゼチミブを考慮すべきとされる（IIa、B）。心不全の徴候があるか駆出率40%以下ならβ遮断薬とACE阻害薬の長期投与が推奨される（いずれもI、A）。
+    condition:
+      guideline: JCS 2018 急性冠症候群GL 表84・85・88
+      region: 日本
+    differential: null
+    common_misconception: 心筋梗塞後のLDLコレステロールの目標は一次予防と同じである
+  provenance:
+    source_ref: SRC-206
+    source: Kimura K, Kimura T, Ishihara M, et al. JCS 2018 Guideline on Diagnosis and Treatment of Acute Coronary Syndrome. Circ J 2019;83:1085-1196
+    doi: 10.1253/circj.CJ-19-0133
+    pmid: '30930428'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-19-0133
+    source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: LDLコレステロールの目標値は後に動脈硬化学会のガイドラインで改訂されている可能性があるが、本カードは2018年版の記載に限る。
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)'
+    kokushi: 医学各論 Ⅴ-5-C（陳旧性心筋梗塞、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-023
+  domain: IH
+  subdomain: 心臓性突然死
+  assertion:
+    plain_statement_ja: 急性心筋梗塞の発症から48時間を過ぎて起きた、虚血や他の可逆的な原因によらない持続性心室頻拍・心室細動には、植込み型除細動器が推奨される（クラスI、レベルB）。非持続性心室頻拍の患者は、至適薬物治療のもとで発症40日以降に適応を見直す。
+    condition:
+      guideline: JCS 2018 急性冠症候群GL 表54
+      region: 日本
+    differential: null
+    common_misconception: 心筋梗塞の急性期に起きた心室細動はすべてICDの適応である
+  provenance:
+    source_ref: SRC-206
+    source: Kimura K, Kimura T, Ishihara M, et al. JCS 2018 Guideline on Diagnosis and Treatment of Acute Coronary Syndrome. Circ J 2019;83:1085-1196
+    doi: 10.1253/circj.CJ-19-0133
+    pmid: '30930428'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-19-0133
+    source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-01-00-171 (id: JlvnltA)；TBL-02-05-032 (id: JlAKpgM)'
+    kokushi: 医学各論 Ⅴ-5-B-②（心臓性突然死、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-024
+  domain: IH
+  subdomain: 無痛性虚血性心疾患
+  assertion:
+    plain_statement_ja: 症状のない2型糖尿病患者1,123人を対象としたDIAD試験では、アデノシン負荷心筋シンチグラフィによるスクリーニングは、4.8年間の心臓死・非致死性心筋梗塞を減らさなかった（2.7%対3.0%、ハザード比0.88）。中等度以上の欠損があった場合の陽性的中率は12%にとどまった。
+    condition:
+      region: 米国・カナダ
+      study: DIAD
+    differential: null
+    common_misconception: 症状のない糖尿病患者全員に負荷検査を行えば心筋梗塞を防げる
+  provenance:
+    source_ref: SRC-211
+    source: 'Young LH, Wackers FJT, Chyun DA, et al. Cardiac outcomes after screening for asymptomatic coronary artery disease in patients with type 2 diabetes: the DIAD study. JAMA 2009;301:1547-1555'
+    doi: 10.1001/jama.2009.476
+    pmid: '19366774'
+    pmcid: PMC2895332
+    url: https://doi.org/10.1001/jama.2009.476
+    source_license: 出版社（AMA）の著作物（Crossref に license 欄なし。PMC は著者稿）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: differential は本出典の結論ではない一般的な背景である。
+  curriculum:
+    core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-028 (id: JlAKpf8)'
+    kokushi: 医学各論 Ⅴ-5-D（無痛性虚血性心疾患、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-025
+  domain: IH
+  subdomain: 心臓性突然死
+  assertion:
+    plain_statement_ja: 2024年の日本では、心原性で一般市民に目撃された心肺機能停止の傷病者は27,769人で、1か月後の生存率は12.4%、社会復帰率は7.7%であった。一般市民がAEDで除細動を行った1,449人では、1か月後の生存率は53.6%、社会復帰率は44.4%であった。
+    condition:
+      region: 日本
+      study: 消防庁 救急・救助の現況（令和6年中）
+    differential: 一般市民による応急手当がなかった場合の1か月後社会復帰率は3.7%であった
+    common_misconception: 目撃者の心肺蘇生やAEDは救命率にほとんど影響しない
+  provenance:
+    source_ref: SRC-212
+    source: 総務省消防庁. 令和7年版 消防白書 第2章第5節（救急体制）：令和6年中の心肺機能停止傷病者の救命率
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.fdma.go.jp/publication/hakusho/r7/chapter2/section5/69383.html
+    source_license: 政府機関ウェブサイト（ページ表示は Copyright© Fire and Disaster Management Agency。利用規約の本文は未確認）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-171 (id: JlvnltA)'
+    kokushi: 医学各論 Ⅴ-5-B-②（心臓性突然死、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-026
+  domain: IH
+  subdomain: 川崎病
+  assertion:
+    plain_statement_ja: 川崎病の急性期（発症30日未満）の冠動脈病変は、心エコーで測ったZスコアで分類し、2.5以上5未満を小動脈瘤、5以上10未満を中等瘤、10以上を巨大瘤とする。実測値では内径8 mm以上を巨大瘤とする。5歳以上ではZスコアによる判定を優先する。
+    condition:
+      guideline: JCS/JSCS 2020 川崎病心臓血管後遺症GL
+      region: 日本
+    differential: 急性期に内径が6 mmを超えると遠隔期に狭窄性病変が増えると報告されている
+    common_misconception: 冠動脈病変の大きさは年齢によらず実測値だけで判定する
+  provenance:
+    source_ref: SRC-213
+    source: Fukazawa R, Kobayashi J, Ayusawa M, et al. JCS/JSCS 2020 Guideline on Diagnosis and Management of Cardiovascular Sequelae in Kawasaki Disease. Circ J 2020;84:1348-1407
+    doi: 10.1253/circj.CJ-19-1094
+    pmid: '32641591'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-19-1094
+    source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；PS-02-06-05 (id: JkxnuQw)；TBL-02-05-027 (id: JlAKpf4)'
+    kokushi: 医学各論 Ⅴ-5-E（川崎病、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-027
+  domain: IH
+  subdomain: 川崎病
+  assertion:
+    plain_statement_ja: 川崎病の急性期にはアスピリン30〜50 mg/kg/日を分3で投与し、解熱後に3〜5 mg/kg/日に減量して発症後2〜3か月続ける（クラスI、レベルC）。冠動脈瘤が残る場合は低用量アスピリンを続け（I、C）、巨大瘤・心筋梗塞の既往・瘤内血栓がある場合はワルファリン（PT-INR 2.0〜2.5）を併用する（IIa、C）。
+    condition:
+      guideline: JCS/JSCS 2020 川崎病心臓血管後遺症GL
+      region: 日本
+    differential: null
+    common_misconception: 冠動脈病変が残っても抗血小板薬は2〜3か月でやめる
+  provenance:
+    source_ref: SRC-213
+    source: Fukazawa R, Kobayashi J, Ayusawa M, et al. JCS/JSCS 2020 Guideline on Diagnosis and Management of Cardiovascular Sequelae in Kawasaki Disease. Circ J 2020;84:1348-1407
+    doi: 10.1253/circj.CJ-19-1094
+    pmid: '32641591'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-19-1094
+    source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)'
+    kokushi: 医学各論 Ⅴ-5-E（川崎病、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-028
+  domain: IH
+  subdomain: 川崎病
+  assertion:
+    plain_statement_ja: 重症の川崎病患者248人を対象とした日本のRAISE試験では、免疫グロブリン（2 g/kg）とアスピリンにプレドニゾロン（2 mg/kg/日）を加えると、冠動脈病変が23%から3%に減った。
+    condition:
+      region: 日本
+      study: RAISE
+    differential: null
+    common_misconception: 川崎病にステロイドを使うと冠動脈瘤が増える
+  provenance:
+    source_ref: SRC-214
+    source: Kobayashi T, Saji T, Otani T, et al. Efficacy of immunoglobulin plus prednisolone for prevention of coronary artery abnormalities in severe Kawasaki disease (RAISE study). Lancet 2012;379:1613-1620
+    doi: 10.1016/S0140-6736(11)61930-2
+    pmid: '22405251'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(11)61930-2
+    source_license: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 重症（不応予測）の判定基準は抄録に詳しい記載がない。
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)'
+    kokushi: 医学各論 Ⅴ-5-E（川崎病、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-029
+  domain: IH
+  subdomain: 川崎病
+  assertion:
+    plain_statement_ja: 免疫グロブリン不応が予測される川崎病患者175人を対象とした日本のKAICA試験では、免疫グロブリンにシクロスポリン（5 mg/kg/日、5日間）を加えると、12週までの冠動脈病変が31%から14%に減った（リスク比0.46）。有害事象に差はなかった。
+    condition:
+      region: 日本
+      study: KAICA
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-215
+    source: Hamada H, Suzuki H, Onouchi Y, et al. Efficacy of primary treatment with immunoglobulin plus ciclosporin for prevention of coronary artery abnormalities in patients with Kawasaki disease predicted to be at increased risk of non-response to intravenous immunoglobulin (KAICA). Lancet 2019;393:1128-1137
+    doi: 10.1016/S0140-6736(18)32003-8
+    pmid: '30853151'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(18)32003-8
+    source_license: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)'
+    kokushi: 医学各論 Ⅴ-5-E（川崎病、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: IH-030
+  domain: IH
+  subdomain: 川崎病
+  assertion:
+    plain_statement_ja: 日本の第27回川崎病全国調査（2021〜2022年）では患者は21,930人で、約20%が不全型、ほぼ全員が免疫グロブリンで治療され、そのうち約25%が不応であった。発症1か月後の心後遺症は2.3%であった。
+    condition:
+      region: 日本
+      study: 第27回川崎病全国調査
+    differential: null
+    common_misconception: 川崎病は日本ではほとんどみられなくなった
+  provenance:
+    source_ref: SRC-216
+    source: 'Nakamura Y, Yashiro M, Yanagawa H, et al. Epidemiology of Kawasaki disease in Japan in 2021-2022: Results of the 27th nationwide survey. Pediatr Int 2025;67:e70007'
+    doi: 10.1111/ped.70007
+    pmid: '40189891'
+    pmcid: null
+    url: https://doi.org/10.1111/ped.70007
+    source_license: Wiley の利用規約（Crossref の license 欄。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+    kokushi: 医学各論 Ⅴ-5-E（川崎病、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）

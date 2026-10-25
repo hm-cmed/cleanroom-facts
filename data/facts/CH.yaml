@@ -1,0 +1,866 @@
+- id: CH-001
+  domain: CH
+  subdomain: 先天性心疾患
+  assertion:
+    plain_statement_ja: 先天性心疾患は出生の約1%（米国で年約4万人）にみられ、その約4人に1人は重症（critical）である。重症の先天性心疾患の1年生存率は約75%、18歳までの生存率は約69%で、重症でないもの（それぞれ約97%、約95%）より低い。重症例の1年生存率は1979〜1993年の約67%から1994〜2005年の約83%に改善した。
+    condition:
+      region: 米国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-257
+    source: Centers for Disease Control and Prevention. Data and Statistics on Congenital Heart Defects. 2026年10月14日確認版
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cdc.gov/heart-defects/data/index.html
+    source_license: 米国連邦政府の著作物
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: CDC が引用した研究（Oster 2013 など）の数値（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-02-05-005 (id: JlAKpeg)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-002
+  domain: CH
+  subdomain: 先天性心疾患
+  assertion:
+    plain_statement_ja: 日本では先天性心疾患が出生の約1%（年約1万300人）に生じ、その約95%が成人に達する。成人の先天性心疾患の患者数は1997年ごろに小児とほぼ同数となり、2012年の推計では約45万人で、年4〜5%ずつ増えている。
+    condition:
+      guideline: JCS 成人先天性心疾患診療ガイドライン（2017年改訂版）（日本語版）
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-272
+    source: 日本循環器学会ほか合同ガイドライン. 成人先天性心疾患診療ガイドライン（2017年改訂版）（班長：市田蕗子）. 2018年3月23日発行（日本語版）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://plaza.umin.ac.jp/~jscvs/wordpress/wp-content/uploads/2020/06/JCS2017_ichida_h.pdf
+    source_license: 「無断転載を禁ずる」の表示。CC の表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 推計はガイドラインが引用した研究による（二次資料経由）。2025年改訂版が公表されており、新しい推計は未確認
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-003
+  domain: CH
+  subdomain: 先天性心疾患
+  assertion:
+    plain_statement_ja: Eisenmenger 症候群の患者では妊娠は禁忌である。ヘモグロビンやヘマトクリットを目標値に保つための予防的な瀉血は行わず、ヘマトクリット65%超で過粘稠の症状が続く場合に限って行う。抗凝固療法は生存の改善が示されておらず、心房性不整脈や再発性の血栓塞栓症がある場合に限って考える。
+    condition:
+      guideline: JCS 成人先天性心疾患診療ガイドライン（2017年改訂版）（日本語版）
+      region: 日本
+    differential: null
+    common_misconception: チアノーゼ性心疾患の赤血球増加には定期的な瀉血が必要である
+  provenance:
+    source_ref: SRC-272
+    source: 日本循環器学会ほか合同ガイドライン. 成人先天性心疾患診療ガイドライン（2017年改訂版）（班長：市田蕗子）. 2018年3月23日発行（日本語版）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://plaza.umin.ac.jp/~jscvs/wordpress/wp-content/uploads/2020/06/JCS2017_ichida_h.pdf
+    source_license: 「無断転載を禁ずる」の表示。CC の表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 2025年改訂版での変更は未確認。日本語版で確認した。英語版での該当箇所は未確認
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-186 (id: Jlvnlu8)；TBL-01-00-185 (id: Jlvnlu4)；TBL-01-00-187 (id: JlvnlvE)'
+    kokushi: 医学各論 Ⅴ-3-A-②（心室中隔欠損症、a）；医学各論 Ⅴ-3-A-①（心房中隔欠損症、a）；医学各論 Ⅴ-3-A-③（動脈管開存症、b）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-004
+  domain: CH
+  subdomain: 先天性心疾患
+  assertion:
+    plain_statement_ja: 日本の調査では、成人のチアノーゼ性先天性心疾患で、喀血16%、痛風9%、脳梗塞8%、慢性腎不全7%、過粘稠症候群6%、脳膿瘍4%、感染性心内膜炎4%などの全身合併症がみられた。SpO2 85%の患者ではヘモグロビン20 g/dL程度が必要で、14 g/dL では鉄欠乏を疑う。
+    condition:
+      guideline: JCS 成人先天性心疾患診療ガイドライン（2017年改訂版）（日本語版）
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-272
+    source: 日本循環器学会ほか合同ガイドライン. 成人先天性心疾患診療ガイドライン（2017年改訂版）（班長：市田蕗子）. 2018年3月23日発行（日本語版）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://plaza.umin.ac.jp/~jscvs/wordpress/wp-content/uploads/2020/06/JCS2017_ichida_h.pdf
+    source_license: 「無断転載を禁ずる」の表示。CC の表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値はガイドラインが引用した研究による（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-005
+  domain: CH
+  subdomain: 単心房、単心室
+  assertion:
+    plain_statement_ja: Fontan 手術後の10年生存率はおおむね80%を超えるが、心不全の有病率は術後早期の10〜20%から成人期には約50%に増える。原因には心室機能の低下、肺血管抵抗の上昇による前負荷の不足、蛋白漏出性胃腸症、肝うっ血、心房性不整脈、洞不全などがある。
+    condition:
+      guideline: JCS 成人先天性心疾患診療ガイドライン（2017年改訂版）（日本語版）
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-272
+    source: 日本循環器学会ほか合同ガイドライン. 成人先天性心疾患診療ガイドライン（2017年改訂版）（班長：市田蕗子）. 2018年3月23日発行（日本語版）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://plaza.umin.ac.jp/~jscvs/wordpress/wp-content/uploads/2020/06/JCS2017_ichida_h.pdf
+    source_license: 「無断転載を禁ずる」の表示。CC の表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: CH-018（指定難病の資料の Fontan 術後症候群）
+  uncertainty: 数値はガイドラインが引用した研究による（二次資料経由）。2025年改訂版での変更は未確認
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+    kokushi: 医学各論 Ⅴ-3-C-⑦（単心房、単心室、c）；医学各論 Ⅴ-3-B-②（三尖弁閉鎖症、c）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-006
+  domain: CH
+  subdomain: 心房中隔欠損症
+  assertion:
+    plain_statement_ja: 心房中隔欠損症（ASD）は米国で出生1万あたり約13人（年約5,240人）にみられる。多くは症状がなく、成人になってから心雑音をきっかけにみつかることも多い。治療しないと肺血流の増加で肺血管が傷み、成人期に肺高血圧、心不全、不整脈、脳卒中のリスクが高まる。閉鎖はカテーテル治療か開心術で行い、閉鎖後も定期的な経過観察が必要である。
+    condition:
+      region: 米国
+    differential: null
+    common_misconception: 小児期にみつからなかった ASD は成人で問題にならない
+  provenance:
+    source_ref: SRC-258
+    source: Centers for Disease Control and Prevention. Atrial Septal Defect (ASD). 2025年12月15日確認版
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cdc.gov/heart-defects/about/atrial-septal-defect.html
+    source_license: 米国連邦政府の著作物
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 頻度は CDC が引用したアトランタの研究（1998〜2005年）による（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-185 (id: Jlvnlu4)'
+    kokushi: 医学各論 Ⅴ-3-A-①（心房中隔欠損症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-007
+  domain: CH
+  subdomain: 心室中隔欠損症
+  assertion:
+    plain_statement_ja: 心室中隔欠損症（VSD）は米国で出生1万あたり約42人（年約16,800人）にみられる。小さい欠損は症状がなく自然に閉じることが多いが、大きい欠損では多呼吸、発汗、哺乳時の疲れ、体重増加不良がみられ、修復しなければ心不全、肺高血圧、不整脈、脳卒中を起こしうる。大きい欠損や閉じない欠損はカテーテル治療か開心術で閉鎖する。
+    condition:
+      region: 米国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-259
+    source: Centers for Disease Control and Prevention. Ventricular Septal Defect. 2025年12月15日確認版
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cdc.gov/heart-defects/about/ventricular-septal-defect.html
+    source_license: 米国連邦政府の著作物
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 頻度は CDC が引用したアトランタの研究（1998〜2005年）による（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-186 (id: Jlvnlu8)'
+    kokushi: 医学各論 Ⅴ-3-A-②（心室中隔欠損症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-008
+  domain: CH
+  subdomain: 房室中隔欠損症<心内膜床欠損症>
+  assertion:
+    plain_statement_ja: 完全型の房室中隔欠損症では、心臓の中央に大きな欠損があり、三尖弁と僧帽弁に分かれない共通の房室弁が1つある。不完全型では2つの弁があるが僧帽弁の逆流を伴いやすく、乳児期に症状がなく診断が遅れることがある。Down 症候群に多いため、Down 症候群の乳児には全例で心エコーを行う。ほぼ全例で、肺に不可逆的な障害が起こる前の手術が必要で、術後に最も多い合併症は僧帽弁の逆流である。米国では約1,587人に1人（年約2,256人）にみられる。
+    condition:
+      region: 米国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-260
+    source: Centers for Disease Control and Prevention. Atrioventricular Septal Defect (AVSD). 2026年1月9日確認版
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cdc.gov/heart-defects/about/atrioventricular-septal-defect.html
+    source_license: 米国連邦政府の著作物
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 頻度の出典はページに明記がない
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+    kokushi: 医学各論 Ⅴ-3-A-④（房室中隔欠損症<心内膜床欠損症>、c）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-009
+  domain: CH
+  subdomain: Fallot四徴症
+  assertion:
+    plain_statement_ja: Fallot 四徴症は、心室中隔欠損、肺動脈弁と主肺動脈の狭窄、心室中隔欠損に騎乗する大動脈、右室肥大の4つからなる。出生時にはチアノーゼが目立たなくても、泣いたり哺乳したりするときに急にチアノーゼが強まる発作（低酸素発作）を起こすことがある。手術では肺動脈弁と右室流出路を広げ、欠損孔をパッチで閉じる。米国では約2,041人に1人（年約1,754人）にみられる。
+    condition:
+      region: 米国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-261
+    source: Centers for Disease Control and Prevention. Tetralogy of Fallot. 2026年1月9日確認版
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cdc.gov/heart-defects/about/tetralogy-of-fallot.html
+    source_license: 米国連邦政府の著作物
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 頻度は CDC が引用した2016〜2020年の全国推計による（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-188 (id: JlvnlvM)'
+    kokushi: 医学各論 Ⅴ-3-B-①（Fallot四徴症、b）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-010
+  domain: CH
+  subdomain: Fallot四徴症
+  assertion:
+    plain_statement_ja: Fallot 四徴症の15〜20%は22q11.2欠失症候群を合併し、心室中隔欠損を伴う肺動脈閉鎖症では約30%が合併する。22q11.2欠失症候群の心疾患には TBX1 遺伝子の欠失が関与すると考えられている。Fallot 四徴症の約2%は肺動脈弁欠損を伴い、出生前から肺動脈が著しく拡大する。
+    condition:
+      region: 日本
+      framework: 指定難病214・215（難病法）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-266
+    source: 厚生労働省. 指定難病 214 心室中隔欠損を伴う肺動脈閉鎖症・215 ファロー四徴症（ファロー四徴症類縁疾患）概要、診断基準等
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/10905000/001174442.pdf
+    source_license: 政府標準利用規約（厚生労働省ホームページ）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-188 (id: JlvnlvM)'
+    kokushi: 医学各論 Ⅴ-3-B-①（Fallot四徴症、b）；医学各論 Ⅴ-3-B-③（肺動脈閉鎖症、c）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-011
+  domain: CH
+  subdomain: Fallot四徴症
+  assertion:
+    plain_statement_ja: 肺動脈狭窄が高度な Fallot 四徴症では、新生児期〜乳児期前半に Blalock-Taussig（BT）シャントで肺血流を増やし、1歳前後に心内修復術（心室中隔欠損の閉鎖と右室流出路の拡大、または Rastelli 手術）を行う。心室中隔欠損を伴う肺動脈閉鎖症では、出生直後からプロスタグランジンE1製剤で動脈管を開いたままにし、動脈管を閉じさせる酸素投与は行わない。
+    condition:
+      region: 日本
+      framework: 指定難病214・215（難病法）
+    differential: null
+    common_misconception: チアノーゼのある新生児には常に酸素を投与する
+  provenance:
+    source_ref: SRC-266
+    source: 厚生労働省. 指定難病 214 心室中隔欠損を伴う肺動脈閉鎖症・215 ファロー四徴症（ファロー四徴症類縁疾患）概要、診断基準等
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/10905000/001174442.pdf
+    source_license: 政府標準利用規約（厚生労働省ホームページ）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-188 (id: JlvnlvM)；TBL-01-00-187 (id: JlvnlvE)'
+    kokushi: 医学各論 Ⅴ-3-B-①（Fallot四徴症、b）；医学各論 Ⅴ-3-B-③（肺動脈閉鎖症、c）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-012
+  domain: CH
+  subdomain: Fallot四徴症
+  assertion:
+    plain_statement_ja: Fallot 四徴症の修復後の遠隔期には、肺動脈弁の狭窄や閉鎖不全による右室の拡大と機能低下、二次性の三尖弁閉鎖不全、心房性・心室性不整脈が問題となる。右室の機能が不可逆になる前に、心臓MRIの右室容積を指標として右室流出路を再建する（一部は経カテーテル肺動脈弁置換を選ぶ）。典型例の術後30年生存率は98%と報告されている。
+    condition:
+      region: 日本
+      framework: 指定難病215（難病法）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-266
+    source: 厚生労働省. 指定難病 214 心室中隔欠損を伴う肺動脈閉鎖症・215 ファロー四徴症（ファロー四徴症類縁疾患）概要、診断基準等
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/10905000/001174442.pdf
+    source_license: 政府標準利用規約（厚生労働省ホームページ）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: CH-013（右室容積の目安）
+  uncertainty: 30年生存率は資料が引用した報告による（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-188 (id: JlvnlvM)；TBL-02-05-029 (id: JlAKpgA)'
+    kokushi: 医学各論 Ⅴ-3-B-①（Fallot四徴症、b）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-013
+  domain: CH
+  subdomain: Fallot四徴症
+  assertion:
+    plain_statement_ja: 心臓MRIで肺動脈弁逆流の逆流率が40%を超えると重症とされる。Fallot 四徴症の修復後で、重症の肺動脈弁逆流と高度の右室拡大（右室拡張末期容積係数160 mL/m²超、または収縮末期容積係数82 mL/m²超）がある例では、肺動脈弁置換後も右室のリバースリモデリングが起こりにくい。微量の肺動脈弁逆流は健常者の最大75%にみられる。
+    condition:
+      guideline: 英国心エコー図学会（BSE）三尖弁・肺動脈弁の心エコー評価ガイドライン 2020
+      region: 英国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-234
+    source: 'Zaidi A, Oxborough D, Augustine DX, et al. Echocardiographic assessment of the tricuspid and pulmonary valves: a practical guideline from the British Society of Echocardiography. Echo Res Pract 2020;7:G95-G122'
+    doi: 10.1530/ERP-20-0033
+    pmid: null
+    pmcid: null
+    url: https://doi.org/10.1530/ERP-20-0033
+    source_license: CC BY-NC-ND 4.0（リポジトリの表示。著者最終稿）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 著者最終稿で確認した。刊行版の表記は未確認
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-188 (id: JlvnlvM)；TBL-02-05-029 (id: JlAKpgA)'
+    kokushi: 医学各論 Ⅴ-3-B-①（Fallot四徴症、b）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-014
+  domain: CH
+  subdomain: 完全大血管転位症
+  assertion:
+    plain_statement_ja: 完全大血管転位症では、心房と心室のつながりは正常だが、大動脈が右室から、肺動脈が左室から出る。心室中隔欠損がないI型（約50%）、あるII型（約30%）、心室中隔欠損と肺動脈狭窄を伴うIII型（約20%）に分けられ、日本の先天性心疾患の約2%を占め、男女比は2:1である。出生直後は卵円孔と動脈管の開存が生存に欠かせず、I型では生直後から強いチアノーゼがみられる。
+    condition:
+      region: 日本
+      framework: 指定難病209（難病法）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-267
+    source: 厚生労働省. 指定難病 209 完全大血管転位症 概要、診断基準等
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/10905000/001174440.pdf
+    source_license: 政府標準利用規約（厚生労働省ホームページ）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-02-05-005 (id: JlAKpeg)'
+    kokushi: 医学各論 Ⅴ-3-C-②（完全大血管転位症、b）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-015
+  domain: CH
+  subdomain: 完全大血管転位症
+  assertion:
+    plain_statement_ja: 完全大血管転位症では、プロスタグランジンE1で動脈管を開いたままにし、卵円孔が小さく低酸素血症が強ければバルーン心房中隔裂開術（BAS）を行う。I型は生後約1週、II型は生後約2週に動脈スイッチ手術（Jatene 手術）を行い、III型は新生児期後期の BT シャントのあと1歳前後に Rastelli 手術を行う。動脈スイッチ手術後の遠隔期生存率は90%以上で、術後の合併症に肺動脈狭窄、大動脈弁閉鎖不全（有意な逆流は約3%）、冠動脈狭窄がある。
+    condition:
+      region: 日本
+      framework: 指定難病209（難病法）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-267
+    source: 厚生労働省. 指定難病 209 完全大血管転位症 概要、診断基準等
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/10905000/001174440.pdf
+    source_license: 政府標準利用規約（厚生労働省ホームページ）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 心房内血流転換術（Mustard・Senning 手術）は、特殊な場合を除き現在は単独では行われないとされる
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-187 (id: JlvnlvE)；TBL-02-05-030 (id: JlAKpgE)'
+    kokushi: 医学各論 Ⅴ-3-C-②（完全大血管転位症、b）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-016
+  domain: CH
+  subdomain: 修正大血管転位症
+  assertion:
+    plain_statement_ja: 修正大血管転位症は、心房と心室、心室と大血管の両方が入れ違っているため血流の向きは正常だが、解剖学的右室が体循環を担う。約90%に合併異常があり、心室中隔欠損60〜80%、左室流出路・肺動脈狭窄30〜50%、Ebstein 様の三尖弁異形成15〜20%である。刺激伝導系の異常が約60%にみられ、年2%の割合で完全房室ブロックに移行し、成人期以降は三尖弁閉鎖不全と右心不全が進む。
+    condition:
+      region: 日本
+      framework: 指定難病208（難病法）
+    differential: null
+    common_misconception: 血流の向きが正常なので修正大血管転位症は治療を要さない
+  provenance:
+    source_ref: SRC-268
+    source: 厚生労働省. 指定難病 208 修正大血管転位症 概要、診断基準等
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/10905000/001174439.pdf
+    source_license: 政府標準利用規約（厚生労働省ホームページ）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-165 (id: Jlvnlsc)'
+    kokushi: 医学各論 Ⅴ-3-C-⑤（修正大血管転位症、c）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-017
+  domain: CH
+  subdomain: 単心房、単心室
+  assertion:
+    plain_statement_ja: 単心室症、左心低形成症候群、三尖弁閉鎖症、心室中隔欠損を伴わない肺動脈閉鎖症は、体循環と肺循環を実質的に1つの心室が担う単心室循環の疾患群で、多くは段階的に手術する。新生児〜乳児期に、肺血流が少なければ BT シャント、多ければ肺動脈絞扼術を行い、乳児期中期に両方向性 Glenn 手術、1〜2歳で上下大静脈の血液が心室を通らずに肺動脈へ流れる Fontan 型手術を行う。
+    condition:
+      region: 日本
+      framework: 指定難病210〜213（難病法）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-269
+    source: 厚生労働省. 指定難病 210〜213 単心室症・左心低形成症候群・三尖弁閉鎖症・心室中隔欠損を伴わない肺動脈閉鎖症（単心室循環症候群）概要、診断基準等
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/10905000/001174441.pdf
+    source_license: 政府標準利用規約（厚生労働省ホームページ）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+    kokushi: 医学各論 Ⅴ-3-C-⑦（単心房、単心室、c）；医学各論 Ⅴ-3-B-②（三尖弁閉鎖症、c）；医学各論 Ⅴ-3-B-③（肺動脈閉鎖症、c）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-018
+  domain: CH
+  subdomain: 単心房、単心室
+  assertion:
+    plain_statement_ja: Fontan 循環は長期的には破綻しやすく、Fontan 術後症候群として難治性不整脈、肝線維化・肝硬変、蛋白漏出性胃腸症、鋳型気管支炎、血栓塞栓症などが起こる。体心室が解剖学的左室の疾患（左室型単心室、三尖弁閉鎖症）は比較的予後がよいが、解剖学的右室が体心室の疾患（左心低形成症候群など）は予後が悪い。心室中隔欠損を伴わない肺動脈閉鎖症では、右室と冠動脈の類洞交通による心筋虚血で突然死することがある。
+    condition:
+      region: 日本
+      framework: 指定難病210〜213（難病法）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-269
+    source: 厚生労働省. 指定難病 210〜213 単心室症・左心低形成症候群・三尖弁閉鎖症・心室中隔欠損を伴わない肺動脈閉鎖症（単心室循環症候群）概要、診断基準等
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/10905000/001174441.pdf
+    source_license: 政府標準利用規約（厚生労働省ホームページ）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: CH-005（Fontan 術後の心不全）
+  uncertainty: Fontan 型手術後の患者で40歳以上は少なく、50歳を超えて生存するのは困難とされる
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+    kokushi: 医学各論 Ⅴ-3-C-⑦（単心房、単心室、c）；医学各論 Ⅴ-3-B-②（三尖弁閉鎖症、c）；医学各論 Ⅴ-3-B-③（肺動脈閉鎖症、c）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-019
+  domain: CH
+  subdomain: 両大血管右室起始症
+  assertion:
+    plain_statement_ja: 両大血管右室起始症は、一方の大血管が完全に、もう一方も50%以上が右室から起始するもので、心室中隔欠損の位置（大動脈弁下、肺動脈弁下、両大血管下、遠隔）で分類される。肺動脈狭窄がなければ肺血流の増加による心不全、肺動脈狭窄があれば Fallot 四徴症に似たチアノーゼ、大血管転位型ではチアノーゼと心不全が混在し、解剖に応じて心内修復術、動脈スイッチ手術、Rastelli 手術、Fontan 型手術を選ぶ。
+    condition:
+      region: 日本
+      framework: 指定難病216（難病法）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-270
+    source: 厚生労働省. 指定難病 216 両大血管右室起始症 概要、診断基準等
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/10905000/001174443.pdf
+    source_license: 政府標準利用規約（厚生労働省ホームページ）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+    kokushi: 医学各論 Ⅴ-3-C-⑥（両大血管右室起始症、c）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-020
+  domain: CH
+  subdomain: Ebstein奇形
+  assertion:
+    plain_statement_ja: Ebstein 奇形（エプスタイン病）は、心エコーで、三尖弁中隔尖の付着部が僧帽弁の付着部より心尖方向へ8 mm/m²以上ずれていること、右房化右室、三尖弁逆流のすべてを確認して診断する。指定難病の調査票では、合併しうる WPW 症候群や上室頻拍、治療として三尖弁形成術（Cone 手術など）、弁置換術、Glenn 手術・Fontan 型手術、カテーテルアブレーションがあげられている。
+    condition:
+      region: 日本
+      framework: 指定難病217（難病法）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-271
+    source: 厚生労働省. 指定難病 217 エプスタイン病 臨床調査個人票
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/10905000/001210443.pdf
+    source_license: 政府標準利用規約（厚生労働省ホームページ）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: VD-022（一次性三尖弁閉鎖不全の原因としての Ebstein 奇形）
+  uncertainty: 概要・診断基準の文書ではなく臨床調査個人票（記入様式）で確認した。頻度と予後は未確認
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-02-05-027 (id: JlAKpf4)'
+    kokushi: 医学各論 Ⅴ-3-C-①（Ebstein奇形、b）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-021
+  domain: CH
+  subdomain: 大動脈縮窄症、大動脈離断症
+  assertion:
+    plain_statement_ja: 大動脈縮窄症では、頭部と上肢の血圧・脈拍は正常か高い一方で、下肢では血圧が低く脈が弱い。年長児や成人では上肢の高血圧でみつかることが多い。新生児のパルスオキシメトリ検診では見逃されやすく、症状が出たら年齢にかかわらず狭窄部を広げる（バルーン拡張、ステント、切除と再建の手術）。術後も高血圧が続くことが多く、生涯の経過観察が必要である。米国では約1,724人に1人（年約2,060人）にみられる。
+    condition:
+      region: 米国
+    differential: null
+    common_misconception: 大動脈縮窄症は新生児のパルスオキシメトリ検診で必ずみつかる
+  provenance:
+    source_ref: SRC-262
+    source: Centers for Disease Control and Prevention. Coarctation of the Aorta. 2026年1月9日確認版
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cdc.gov/heart-defects/about/coarctation-of-the-aorta.html
+    source_license: 米国連邦政府の著作物
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 頻度の出典はページに明記がない
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)'
+    kokushi: 医学各論 Ⅴ-3-C-③（大動脈縮窄症、大動脈離断症、b）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-022
+  domain: CH
+  subdomain: 総肺静脈還流異常症
+  assertion:
+    plain_statement_ja: 総肺静脈還流異常症では、肺静脈が左房につながらず、異常な経路（心上部型、心臓型、心下部型）で右心系に戻るため、心房中隔欠損を通って混合血が左心系に流れる。多くは出生直後からチアノーゼや呼吸障害を示し、手術で肺静脈を左房につなぎ直して異常な接続と心房中隔欠損を閉じる。米国では約6,667人に1人（年約540人）にみられる。
+    condition:
+      region: 米国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-263
+    source: Centers for Disease Control and Prevention. Total Anomalous Pulmonary Venous Return (TAPVR). 2026年1月9日確認版
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cdc.gov/heart-defects/about/tapvr.html
+    source_license: 米国連邦政府の著作物
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 頻度は CDC が引用した2016〜2020年の全国推計による（二次資料経由）。肺静脈狭窄などの遠隔期合併症はページに記載がない
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+    kokushi: 医学各論 Ⅴ-3-C-④（総肺静脈還流異常症、b）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-023
+  domain: CH
+  subdomain: 先天性心疾患
+  assertion:
+    plain_statement_ja: 新生児の重症先天性心疾患のパルスオキシメトリ検診は生後24時間以降（それより前に退院する場合はできるだけ遅く）に行い、主な対象は左心低形成症候群、肺動脈閉鎖症、Fallot 四徴症、総肺静脈還流異常症、大血管転位症、三尖弁閉鎖症、総動脈幹症の7つである。検診が正常でも重症心疾患は否定できない。米国では検診の義務化が、重症先天性心疾患による乳児早期の死亡の33%減少（年約120人）と関連している。
+    condition:
+      region: 米国
+    differential: null
+    common_misconception: パルスオキシメトリ検診が正常なら重症の先天性心疾患は否定できる
+  provenance:
+    source_ref: SRC-264
+    source: Centers for Disease Control and Prevention. Screening for Critical Congenital Heart Defects. 2026年10月14日確認版
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cdc.gov/heart-defects/screening/index.html
+    source_license: 米国連邦政府の著作物
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: SpO2 の判定基準の数値はページに記載がない
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；PS-02-06-03 (id: JkxnuQo)'
+    kokushi: 医学各論 Ⅴ-3-C-②（完全大血管転位症、b）；医学各論 Ⅴ-3-C-④（総肺静脈還流異常症、b）；医学各論 Ⅴ-3-B-①（Fallot四徴症、b）；医学各論 Ⅴ-3-B-②（三尖弁閉鎖症、c）；医学各論 Ⅴ-3-B-③（肺動脈閉鎖症、c）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-024
+  domain: CH
+  subdomain: 動脈管開存症
+  assertion:
+    plain_statement_ja: 動脈管開存症は、大動脈と肺動脈をつなぐ動脈管が生後に閉じずに残るもので、頻度の高い単純な先天性心疾患の1つであり、小さいものは自然に閉じることがある。
+    condition:
+      region: 米国（NHLBI の一般向け解説）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-265
+    source: 'National Heart, Lung, and Blood Institute. Congenital Heart Defects: Types. 2022年3月24日更新'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.nhlbi.nih.gov/health/congenital-heart-defects/types
+    source_license: 米国連邦政府の著作物
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 早産児での頻度と治療（薬物・カテーテル・手術）はページに記載がない
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-187 (id: JlvnlvE)；TBL-02-05-005 (id: JlAKpeg)'
+    kokushi: 医学各論 Ⅴ-3-A-③（動脈管開存症、b）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: CH-025
+  domain: CH
+  subdomain: 先天性心疾患
+  assertion:
+    plain_statement_ja: 日本胸部外科学会の2021年の集計では、先天性心疾患の手術は8,349件（うち開心術6,510件）で、院内死亡率は全体で1.7%、新生児では7.1%だった。病変別の院内死亡率は、Fallot 四徴症0.5%、完全型房室中隔欠損症2.0%、心室中隔欠損症1.7%、Fontan 型手術（385件）0.8%だった。
+    condition:
+      region: 日本
+      period: 2021年の手術件数
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-240
+    source: 'Committee for Scientific Affairs, The Japanese Association for Thoracic Surgery; Yoshimura N, Sato Y, et al. Thoracic and cardiovascular surgeries in Japan during 2021: Annual report by the Japanese Association for Thoracic Surgery. Gen Thorac Cardiovasc Surg 2024;72:254-291'
+    doi: 10.1007/s11748-023-01997-6
+    pmid: null
+    pmcid: null
+    url: https://doi.org/10.1007/s11748-023-01997-6
+    source_license: CC BY 4.0（Springer の論文ページの表示）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；PS-02-06-04 (id: JkxnuQs)'
+    kokushi: 医学各論 Ⅴ-3-B-①（Fallot四徴症、b）；医学各論 Ⅴ-3-A-④（房室中隔欠損症<心内膜床欠損症>、c）；医学各論 Ⅴ-3-A-②（心室中隔欠損症、a）；医学各論 Ⅴ-3-C-⑦（単心房、単心室、c）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）

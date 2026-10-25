@@ -1,0 +1,872 @@
+- id: HF-001
+  domain: HF
+  subdomain: 慢性心不全
+  assertion:
+    plain_statement_ja: JCS/JHFS 2025年版は心不全の国際的な定義・分類に合わせ、左室駆出率40%以下をHFrEF、41〜49%をHFmrEF、50%以上をHFpEFとする。初回40%以下だった駆出率が10ポイント以上改善して40%を超えたものをHFimpEFとする。
+    condition:
+      guideline: JCS/JHFS 2025 心不全GL
+      region: 日本
+    differential: null
+    common_misconception: 駆出率が正常なら心不全ではない
+  provenance:
+    source_ref: SRC-185
+    source: Kitai T, Kohsaka S, Kato T, et al. JCS/JHFS 2025 Guideline on Diagnosis and Treatment of Heart Failure. Circ J 2025;89:1278-1444（J Card Fail 2025;31:1164-1322 と同時掲載）
+    doi: 10.1253/circj.CJ-25-0002
+    pmid: '40159241'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-25-0002
+    source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 国際的な定義（Universal Definition）の原典の表記は本カードでは確認していない。
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-159 (id: Jlvnlr4)'
+    kokushi: 医学各論 Ⅴ-2-A-④（慢性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-002
+  domain: HF
+  subdomain: 慢性心不全
+  assertion:
+    plain_statement_ja: JCS/JHFS 2025年版は、心不全のステージA（心不全のリスクがある）とステージB（前心不全）の説明を拡充し、ステージAの危険因子に慢性腎臓病を加えた。日本の疫学研究では、ステージCの69%、ステージDの51%がHFpEFと報告されている。
+    condition:
+      guideline: JCS/JHFS 2025 心不全GL
+      region: 日本
+    differential: null
+    common_misconception: 心不全の大半は駆出率が低下したタイプである
+  provenance:
+    source_ref: SRC-185
+    source: Kitai T, Kohsaka S, Kato T, et al. JCS/JHFS 2025 Guideline on Diagnosis and Treatment of Heart Failure. Circ J 2025;89:1278-1444（J Card Fail 2025;31:1164-1322 と同時掲載）
+    doi: 10.1253/circj.CJ-25-0002
+    pmid: '40159241'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-25-0002
+    source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 69%・51%の値はガイドラインが引用した研究による（二次資料経由）。
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-159 (id: Jlvnlr4)'
+    kokushi: 医学各論 Ⅴ-2-A-④（慢性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-003
+  domain: HF
+  subdomain: 慢性心不全
+  assertion:
+    plain_statement_ja: 佐渡市の左室機能障害の有病率と人口推計をもとにした研究では、日本の左室機能障害の外来患者は2005年に約97.9万人で、高齢化により2030年には約130万人に達すると予測された。
+    condition:
+      region: 日本
+      study: Sado Heart Failure Study と将来推計人口（2006年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-186
+    source: 'Okura Y, Ramadan MM, Ohno Y, et al. Impending epidemic: future projection of heart failure in Japan to the year 2055. Circ J 2008;72:489-491'
+    doi: 10.1253/circj.72.489
+    pmid: '18296852'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.72.489
+    source_license: 未確認（Crossref に license 欄なし。掲載ページは未確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 一地域の有病率をもとにした推計である。
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-159 (id: Jlvnlr4)'
+    kokushi: 医学各論 Ⅴ-2-A-④（慢性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-004
+  domain: HF
+  subdomain: 慢性心不全
+  assertion:
+    plain_statement_ja: 宮崎県延岡市の地域住民を対象とした研究（3年間、初回の心不全入院406件、平均82歳）では、心不全による初回入院の発生率は人口10万人年あたり129で、2015年の日本の人口で年齢調整すると105であった。発生率に男女差はなく、高齢になるほど急に上がった。
+    condition:
+      region: 日本
+      study: 延岡市の地域住民研究
+    differential: null
+    common_misconception: 心不全の入院発生率は男性のほうが明らかに高い
+  provenance:
+    source_ref: SRC-187
+    source: Marume K, Ogata S, Kaichi R, et al. Incidence Rate of Hospitalization for Heart Failure in a Japanese City - An Updated Reference for Japan's Aging Society. Circ Rep 2022;4:116-122
+    doi: 10.1253/circrep.CR-21-0142
+    pmid: '35342838'
+    pmcid: PMC8901245
+    url: https://doi.org/10.1253/circrep.CR-21-0142
+    source_license: CC BY-NC-ND 4.0（PMC の XML の license 要素。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 一地域の研究である。
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-158 (id: Jlvnlrw)'
+    kokushi: 医学各論 Ⅴ-2-A-③（急性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-005
+  domain: HF
+  subdomain: 慢性心不全
+  assertion:
+    plain_statement_ja: 心不全の診断または除外のためにBNPまたはNT-proBNPを測定すべきとされ（クラスI、レベルA）、日本心不全学会は心不全を除外する目安としてBNP 35 pg/mL未満、NT-proBNP 125 pg/mL未満を示している。腎機能低下ではいずれも高値になる。
+    condition:
+      guideline: JCS/JHFS 2025 心不全GL
+      region: 日本
+    differential: null
+    common_misconception: BNPが基準値をわずかに超えれば心不全と確定できる
+  provenance:
+    source_ref: SRC-185
+    source: Kitai T, Kohsaka S, Kato T, et al. JCS/JHFS 2025 Guideline on Diagnosis and Treatment of Heart Failure. Circ J 2025;89:1278-1444（J Card Fail 2025;31:1164-1322 と同時掲載）
+    doi: 10.1253/circj.CJ-25-0002
+    pmid: '40159241'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-25-0002
+    source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-159 (id: Jlvnlr4)'
+    kokushi: 医学各論 Ⅴ-2-A-④（慢性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-006
+  domain: HF
+  subdomain: 急性心不全
+  assertion:
+    plain_statement_ja: 救急外来を急性の呼吸困難で受診した1,586人の研究では、BNPは病歴・身体所見・他の検査より正確に心不全を見分け、100 pg/mLをカットオフとした診断精度は83.4%、50 pg/mL未満の陰性的中率は96%であった。
+    condition:
+      region: 米国・欧州
+      study: Breathing Not Properly
+    differential: null
+    common_misconception: BNPだけで心不全の診断を確定できる
+  provenance:
+    source_ref: SRC-188
+    source: Maisel AS, Krishnaswamy P, Nowak RM, et al. Rapid measurement of B-type natriuretic peptide in the emergency diagnosis of heart failure. N Engl J Med 2002;347:161-167
+    doi: 10.1056/NEJMoa020233
+    pmid: '12124404'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa020233
+    source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-158 (id: Jlvnlrw)；TBL-02-05-020 (id: JlAKpfU)'
+    kokushi: 医学各論 Ⅴ-2-A-③（急性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-007
+  domain: HF
+  subdomain: 急性心不全
+  assertion:
+    plain_statement_ja: 急性の呼吸困難患者1,256人の国際共同解析では、NT-proBNPの年齢別のカットオフ（50歳未満450、50〜75歳900、75歳超1,800 pg/mL）が急性心不全の診断に有用で、感度90%、特異度84%であった。年齢によらない300 pg/mLでは、急性心不全を否定する陰性的中率が98%であった。
+    condition:
+      region: 国際（ICON）
+    differential: null
+    common_misconception: NT-proBNPは年齢に関係なく同じ値で判断する
+  provenance:
+    source_ref: SRC-189
+    source: 'Januzzi JL Jr, van Kimmenade R, Lainchbury J, et al. NT-proBNP testing for diagnosis and short-term prognosis in acute destabilized heart failure: an international pooled analysis of 1256 patients: the International Collaborative of NT-proBNP Study. Eur Heart J 2006;27:330-337'
+    doi: 10.1093/eurheartj/ehi631
+    pmid: '16293638'
+    pmcid: null
+    url: https://doi.org/10.1093/eurheartj/ehi631
+    source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-158 (id: Jlvnlrw)；TBL-02-05-020 (id: JlAKpfU)'
+    kokushi: 医学各論 Ⅴ-2-A-③（急性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-008
+  domain: HF
+  subdomain: 急性心不全
+  assertion:
+    plain_statement_ja: 心不全で入院した452人の研究では、うっ血と低灌流の有無で4群（A：うっ血も低灌流もない、B：うっ血あり・灌流は保たれる、C：うっ血と低灌流がある、L：うっ血はなく低灌流がある）に分けると予後を予測でき、BとCは死亡または緊急心移植のリスクが高かった。
+    condition:
+      region: 米国
+      study: Nohria-Stevenson 分類
+    differential: null
+    common_misconception: 臨床所見による分類は予後と関係しない
+  provenance:
+    source_ref: SRC-190
+    source: Nohria A, Tsang SW, Fang JC, et al. Clinical assessment identifies hemodynamic profiles that predict outcomes in patients admitted with heart failure. J Am Coll Cardiol 2003;41:1797-1804
+    doi: 10.1016/S0735-1097(03)00309-7
+    pmid: '12767667'
+    pmcid: null
+    url: https://doi.org/10.1016/S0735-1097(03)00309-7
+    source_license: Elsevier の open-access user license（Crossref の license 欄。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-158 (id: Jlvnlrw)'
+    kokushi: 医学各論 Ⅴ-2-A-③（急性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-009
+  domain: HF
+  subdomain: 急性心不全
+  assertion:
+    plain_statement_ja: 急性心不全の発症早期（受診後6〜12時間）の対応には、初期の収縮期血圧と症状で5つに分けるクリニカルシナリオ（CS）が提案されている。CS1は収縮期血圧140 mmHg超、CS2は100〜140 mmHg、CS3は100 mmHg未満、CS4は急性冠症候群の徴候を伴うもの、CS5は孤立性の右心不全である。
+    condition:
+      region: 欧州・米国の専門家合意
+    differential: null
+    common_misconception: クリニカルシナリオは入院後の慢性期の治療方針を決めるための分類である
+  provenance:
+    source_ref: SRC-191
+    source: Mebazaa A, Gheorghiade M, Piña IL, et al. Practical recommendations for prehospital and early in-hospital management of patients presenting with acute heart failure syndromes. Crit Care Med 2008;36(1 Suppl):S129-S139
+    doi: 10.1097/01.CCM.0000296274.51933.4C
+    pmid: '18158472'
+    pmcid: null
+    url: https://doi.org/10.1097/01.CCM.0000296274.51933.4C
+    source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 抄録で確認した。各群の具体的な治療は本カードでは扱っていない。
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-158 (id: Jlvnlrw)'
+    kokushi: 医学各論 Ⅴ-2-A-③（急性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-010
+  domain: HF
+  subdomain: 急性心不全
+  assertion:
+    plain_statement_ja: 急性非代償性心不全で体液貯留がある場合は、うっ血症状を和らげるためループ利尿薬を静注すべきとされる（クラスI、レベルC-EO）。初回の利尿薬に反応が乏しい場合は、増量またはトルバプタンやサイアザイド系利尿薬の併用を考慮できる（IIa、B-R）。血管拡張薬は低血圧がない場合に考慮してよく（IIb、B-NR）、高度の低血圧、心原性ショック、脱水、急性右室梗塞では使ってはならない（III（有害）、C-EO）。
+    condition:
+      guideline: JCS/JHFS 2025 心不全GL
+      region: 日本
+    differential: null
+    common_misconception: 右室梗塞による低血圧にも硝酸薬を使う
+  provenance:
+    source_ref: SRC-185
+    source: Kitai T, Kohsaka S, Kato T, et al. JCS/JHFS 2025 Guideline on Diagnosis and Treatment of Heart Failure. Circ J 2025;89:1278-1444（J Card Fail 2025;31:1164-1322 と同時掲載）
+    doi: 10.1253/circj.CJ-25-0002
+    pmid: '40159241'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-25-0002
+    source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-158 (id: Jlvnlrw)'
+    kokushi: 医学各論 Ⅴ-2-A-③（急性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-011
+  domain: HF
+  subdomain: 急性心不全
+  assertion:
+    plain_statement_ja: 急性心不全で呼吸不全（呼吸数25/分超、SpO2 90%未満）がある場合は、呼吸困難を和らげ気管挿管を避けるためにNPPVを速やかに始めるべきとされる（クラスI、レベルA）。SpO2 90%未満またはPaO2 60 mmHg未満では酸素療法を行う（I、C-EO）。
+    condition:
+      guideline: JCS/JHFS 2025 心不全GL
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-185
+    source: Kitai T, Kohsaka S, Kato T, et al. JCS/JHFS 2025 Guideline on Diagnosis and Treatment of Heart Failure. Circ J 2025;89:1278-1444（J Card Fail 2025;31:1164-1322 と同時掲載）
+    doi: 10.1253/circj.CJ-25-0002
+    pmid: '40159241'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-25-0002
+    source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-158 (id: Jlvnlrw)；TBL-02-05-020 (id: JlAKpfU)'
+    kokushi: 医学各論 Ⅴ-2-A-③（急性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-012
+  domain: HF
+  subdomain: 急性心不全
+  assertion:
+    plain_statement_ja: 急性非代償性心不全では、ドブタミンは肺うっ血に低心拍出・組織低灌流を伴う場合に（クラスIIa、レベルC-LD）、ノルアドレナリンは十分な輸液後もショックや低血圧が続く場合に（IIa、B-R）考慮できる。低心拍出・低灌流・ショックがない患者に強心薬をルーチンで使ってはならない（III（有害）、C-EO）。
+    condition:
+      guideline: JCS/JHFS 2025 心不全GL
+      region: 日本
+    differential: null
+    common_misconception: 急性心不全には全例に強心薬を使う
+  provenance:
+    source_ref: SRC-185
+    source: Kitai T, Kohsaka S, Kato T, et al. JCS/JHFS 2025 Guideline on Diagnosis and Treatment of Heart Failure. Circ J 2025;89:1278-1444（J Card Fail 2025;31:1164-1322 と同時掲載）
+    doi: 10.1253/circj.CJ-25-0002
+    pmid: '40159241'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-25-0002
+    source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-158 (id: Jlvnlrw)'
+    kokushi: 医学各論 Ⅴ-2-A-③（急性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-013
+  domain: HF
+  subdomain: 慢性心不全
+  assertion:
+    plain_statement_ja: 左室駆出率40%以下の心不全（HFrEF）では、禁忌がなければACE阻害薬（クラスI、レベルA）、β遮断薬（カルベジロールまたはビソプロロール、I、A）、ミネラルコルチコイド受容体拮抗薬（NYHA II〜IV度、I、A）、SGLT2阻害薬（エンパグリフロジンまたはダパグリフロジン、糖尿病の有無を問わず、I、A）を使う。ACE阻害薬かARBを使っているNYHA II〜III度の症候性患者ではARNIへの切り替えが推奨される（I、B-R）。
+    condition:
+      guideline: JCS/JHFS 2025 心不全GL（HFrEFの薬物治療の推奨表）
+      region: 日本
+    differential: 治療薬はできるだけ早く始め、目標量まで増やすことが推奨される（I、A）
+    common_misconception: SGLT2阻害薬は糖尿病を合併した心不全にしか使わない
+  provenance:
+    source_ref: SRC-185
+    source: Kitai T, Kohsaka S, Kato T, et al. JCS/JHFS 2025 Guideline on Diagnosis and Treatment of Heart Failure. Circ J 2025;89:1278-1444（J Card Fail 2025;31:1164-1322 と同時掲載）
+    doi: 10.1253/circj.CJ-25-0002
+    pmid: '40159241'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-25-0002
+    source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-159 (id: Jlvnlr4)'
+    kokushi: 医学各論 Ⅴ-2-A-④（慢性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-014
+  domain: HF
+  subdomain: 慢性心不全
+  assertion:
+    plain_statement_ja: NYHA II〜IV度で駆出率40%以下の心不全患者8,442人を対象としたPARADIGM-HF試験では、サクビトリル・バルサルタン（ARNI）はエナラプリルに比べ、心血管死または心不全入院を減らし（21.8%対26.5%、ハザード比0.80）、全死亡も減らした（ハザード比0.84）。ARNI群では低血圧と重篤でない血管性浮腫が多く、腎機能障害・高カリウム血症・咳は少なかった。
+    condition:
+      region: 国際
+      study: PARADIGM-HF
+    differential: null
+    common_misconception: ARNIはACE阻害薬と併用して使う
+  provenance:
+    source_ref: SRC-192
+    source: McMurray JJV, Packer M, Desai AS, et al. Angiotensin-neprilysin inhibition versus enalapril in heart failure (PARADIGM-HF). N Engl J Med 2014;371:993-1004
+    doi: 10.1056/NEJMoa1409077
+    pmid: '25176015'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1409077
+    source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ACE阻害薬との併用禁忌などの国内の添付文書の記載は本出典では確認していない。
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-159 (id: Jlvnlr4)'
+    kokushi: 医学各論 Ⅴ-2-A-④（慢性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-015
+  domain: HF
+  subdomain: 慢性心不全
+  assertion:
+    plain_statement_ja: 駆出率40%以下の心不全患者4,744人を対象としたDAPA-HF試験では、ダパグリフロジン10 mgはプラセボに比べ、心不全の悪化または心血管死を減らした（16.3%対21.2%、ハザード比0.74）。効果は糖尿病の有無で同様であった。
+    condition:
+      region: 国際
+      study: DAPA-HF
+    differential: null
+    common_misconception: SGLT2阻害薬の心不全への効果は血糖低下によるものである
+  provenance:
+    source_ref: SRC-193
+    source: McMurray JJV, Solomon SD, Inzucchi SE, et al. Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction (DAPA-HF). N Engl J Med 2019;381:1995-2008
+    doi: 10.1056/NEJMoa1911303
+    pmid: '31535829'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1911303
+    source_license: NEJM の利用規約（Crossref の license 欄。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-159 (id: Jlvnlr4)'
+    kokushi: 医学各論 Ⅴ-2-A-④（慢性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-016
+  domain: HF
+  subdomain: 慢性心不全
+  assertion:
+    plain_statement_ja: 駆出率35%以下の重症心不全患者1,663人を対象としたRALES試験では、スピロノラクトン25 mgの追加で死亡が46%から35%に減り（相対リスク0.70）、心不全悪化による入院も減った。男性の10%に女性化乳房または乳房痛がみられた。
+    condition:
+      region: 国際
+      study: RALES
+    differential: null
+    common_misconception: 重い高カリウム血症が多いためMRAは心不全に使えない
+  provenance:
+    source_ref: SRC-194
+    source: Pitt B, Zannad F, Remme WJ, et al. The effect of spironolactone on morbidity and mortality in patients with severe heart failure (RALES). N Engl J Med 1999;341:709-717
+    doi: 10.1056/NEJM199909023411001
+    pmid: '10471456'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJM199909023411001
+    source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 重い高カリウム血症は両群とも少なかった（抄録）。
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-159 (id: Jlvnlr4)'
+    kokushi: 医学各論 Ⅴ-2-A-④（慢性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-017
+  domain: HF
+  subdomain: 慢性心不全
+  assertion:
+    plain_statement_ja: 左室駆出率50%以上の症候性心不全（HFpEF）では、SGLT2阻害薬（エンパグリフロジンまたはダパグリフロジン）が心血管死または心不全入院を減らすため推奨され（クラスI、レベルA）、うっ血には利尿薬を使う（I、C-LD）。非ステロイド型MRAのフィネレノンは考慮でき（IIa、B-R）、ARNIは駆出率が正常より低い例で考慮してもよい（IIb、B-R）。
+    condition:
+      guideline: JCS/JHFS 2025 心不全GL
+      region: 日本
+    differential: null
+    common_misconception: HFpEFには予後を改善する薬がない
+  provenance:
+    source_ref: SRC-185
+    source: Kitai T, Kohsaka S, Kato T, et al. JCS/JHFS 2025 Guideline on Diagnosis and Treatment of Heart Failure. Circ J 2025;89:1278-1444（J Card Fail 2025;31:1164-1322 と同時掲載）
+    doi: 10.1253/circj.CJ-25-0002
+    pmid: '40159241'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-25-0002
+    source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: フィネレノンの心不全への国内承認状況は本出典では確認していない。
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-159 (id: Jlvnlr4)'
+    kokushi: 医学各論 Ⅴ-2-A-④（慢性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-018
+  domain: HF
+  subdomain: 慢性心不全
+  assertion:
+    plain_statement_ja: 駆出率40%を超える心不全患者5,988人を対象としたEMPEROR-Preserved試験では、エンパグリフロジンはプラセボに比べ、心血管死または心不全入院を減らした（13.8%対17.1%、ハザード比0.79）。主に心不全入院の減少による効果であった。
+    condition:
+      region: 国際
+      study: EMPEROR-Preserved
+    differential: null
+    common_misconception: SGLT2阻害薬はHFpEFの死亡を大きく減らす
+  provenance:
+    source_ref: SRC-195
+    source: Anker SD, Butler J, Filippatos G, et al. Empagliflozin in Heart Failure with a Preserved Ejection Fraction (EMPEROR-Preserved). N Engl J Med 2021;385:1451-1461
+    doi: 10.1056/NEJMoa2107038
+    pmid: '34449189'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa2107038
+    source_license: NEJM の利用規約（Crossref の license 欄。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-159 (id: Jlvnlr4)'
+    kokushi: 医学各論 Ⅴ-2-A-④（慢性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-019
+  domain: HF
+  subdomain: 慢性心不全
+  assertion:
+    plain_statement_ja: NYHA III〜IV度で心臓の同期不全がある心不全患者813人を対象としたCARE-HF試験では、心臓再同期療法（CRT）の追加で、死亡または主要な心血管イベントによる入院が55%から39%に減り（ハザード比0.63）、死亡も30%から20%に減った。
+    condition:
+      region: 欧州
+      study: CARE-HF
+    differential: null
+    common_misconception: CRTは症状を改善するが予後は変えない
+  provenance:
+    source_ref: SRC-196
+    source: Cleland JGF, Daubert JC, Erdmann E, et al. The effect of cardiac resynchronization on morbidity and mortality in heart failure (CARE-HF). N Engl J Med 2005;352:1539-1549
+    doi: 10.1056/NEJMoa050496
+    pmid: '15753115'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa050496
+    source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-159 (id: Jlvnlr4)；TBL-02-05-032 (id: JlAKpgM)'
+    kokushi: 医学各論 Ⅴ-2-A-④（慢性心不全、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-020
+  domain: HF
+  subdomain: 心原性ショック
+  assertion:
+    plain_statement_ja: 心原性ショックの患者は、機械的循環補助を管理できるICU・CCUに移すべきとされ（クラスI、レベルC-EO）、体液過剰の所見がなければ生理食塩液またはリンゲル液200 mL以上を15〜30分で投与することを考慮できる（IIa、C-EO）。侵襲的血行動態の指標では、心係数2.2 L/分/m²以下、心拍出力（CPO）0.6 W未満が心原性ショックの目安とされている。
+    condition:
+      guideline: JCS/JHFS 2025 心不全GL（表6を含む）
+      region: 日本
+    differential: null
+    common_misconception: 心原性ショックでは輸液を一切してはならない
+  provenance:
+    source_ref: SRC-185
+    source: Kitai T, Kohsaka S, Kato T, et al. JCS/JHFS 2025 Guideline on Diagnosis and Treatment of Heart Failure. Circ J 2025;89:1278-1444（J Card Fail 2025;31:1164-1322 と同時掲載）
+    doi: 10.1253/circj.CJ-25-0002
+    pmid: '40159241'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-25-0002
+    source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-02-05-030 (id: JlAKpgE)'
+    kokushi: 医学各論 Ⅴ-2-B（心原性ショック、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-021
+  domain: HF
+  subdomain: 心原性ショック
+  assertion:
+    plain_statement_ja: SCAI分類は心原性ショックの重症度をA（リスクあり）、B（始まり）、C（典型的）、D（悪化）、E（極限）の5段階に分ける。BとCの違いは低灌流の有無で、Dは最初の治療を少なくとも30分行っても安定せず灌流が回復しない状態である。
+    condition:
+      region: 米国の専門家合意（SCAI 2019）
+    differential: null
+    common_misconception: 低灌流がなく低血圧だけの状態も典型的な心原性ショックに含める
+  provenance:
+    source_ref: SRC-197
+    source: Baran DA, Grines CL, Bailey S, et al. SCAI clinical expert consensus statement on the classification of cardiogenic shock. Catheter Cardiovasc Interv 2019;94:29-37
+    doi: 10.1002/ccd.28329
+    pmid: '31104355'
+    pmcid: null
+    url: https://doi.org/10.1002/ccd.28329
+    source_license: Wiley の利用規約（Crossref の license 欄。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 2022年の改訂版の内容は本カードでは扱っていない。
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+    kokushi: 医学各論 Ⅴ-2-B（心原性ショック、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-022
+  domain: HF
+  subdomain: 心原性ショック
+  assertion:
+    plain_statement_ja: 急性心筋梗塞に伴う心原性ショック患者302人を対象としたSHOCK試験では、緊急血行再建は初期の内科的安定化と比べて30日死亡率に有意差はなかった（46.7%対56.0%）が、6か月死亡率は低かった（50.3%対63.1%）。
+    condition:
+      region: 国際
+      study: SHOCK
+    differential: null
+    common_misconception: 心原性ショックでは血行再建の効果はない
+  provenance:
+    source_ref: SRC-198
+    source: Hochman JS, Sleeper LA, Webb JG, et al. Early revascularization in acute myocardial infarction complicated by cardiogenic shock (SHOCK). N Engl J Med 1999;341:625-634
+    doi: 10.1056/NEJM199908263410901
+    pmid: '10460813'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJM199908263410901
+    source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-02-05-031 (id: JlAKpgI)'
+    kokushi: 医学各論 Ⅴ-2-B（心原性ショック、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-023
+  domain: HF
+  subdomain: 心原性ショック
+  assertion:
+    plain_statement_ja: 早期の血行再建を予定した急性心筋梗塞による心原性ショック患者600人を対象としたIABP-SHOCK II試験では、大動脈内バルーンパンピング（IABP）は30日死亡率を下げなかった（39.7%対41.3%）。
+    condition:
+      region: ドイツ
+      study: IABP-SHOCK II
+    differential: null
+    common_misconception: 心原性ショックにIABPをルーチンで使うと死亡が減る
+  provenance:
+    source_ref: SRC-199
+    source: Thiele H, Zeymer U, Neumann FJ, et al. Intraaortic balloon support for myocardial infarction with cardiogenic shock (IABP-SHOCK II). N Engl J Med 2012;367:1287-1296
+    doi: 10.1056/NEJMoa1208410
+    pmid: '22920912'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1208410
+    source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)'
+    kokushi: 医学各論 Ⅴ-2-B（心原性ショック、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-024
+  domain: HF
+  subdomain: 心原性ショック
+  assertion:
+    plain_statement_ja: 多枝病変のある急性心筋梗塞による心原性ショック患者706人を対象としたCULPRIT-SHOCK試験では、責任病変だけのPCIは即時の多枝PCIより、30日以内の死亡または腎代替療法を要する腎不全が少なかった（45.9%対55.4%、相対リスク0.83）。
+    condition:
+      region: 欧州
+      study: CULPRIT-SHOCK
+    differential: null
+    common_misconception: 心原性ショックでは同じ手技で全病変を治療するほうがよい
+  provenance:
+    source_ref: SRC-200
+    source: Thiele H, Akin I, Sandri M, et al. PCI Strategies in Patients with Acute Myocardial Infarction and Cardiogenic Shock (CULPRIT-SHOCK). N Engl J Med 2017;377:2419-2432
+    doi: 10.1056/NEJMoa1710261
+    pmid: '29083953'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1710261
+    source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-02-05-031 (id: JlAKpgI)'
+    kokushi: 医学各論 Ⅴ-2-B（心原性ショック、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-025
+  domain: HF
+  subdomain: 心原性ショック
+  assertion:
+    plain_statement_ja: ST上昇型心筋梗塞による心原性ショック患者360人を対象としたDanGer Shock試験では、経皮的微小軸流ポンプ（Impella CP）の追加で180日死亡が58.5%から45.8%に減った（ハザード比0.74）が、重い出血・下肢虚血・溶血などの有害事象（24.0%対6.2%）と腎代替療法が増えた。
+    condition:
+      region: デンマーク・ドイツ・英国
+      study: DanGer Shock
+    differential: null
+    common_misconception: 補助循環は合併症を増やさない
+  provenance:
+    source_ref: SRC-201
+    source: Møller JE, Engstrøm T, Jensen LO, et al. Microaxial Flow Pump or Standard Care in Infarct-Related Cardiogenic Shock (DanGer Shock). N Engl J Med 2024;390:1382-1393
+    doi: 10.1056/NEJMoa2312572
+    pmid: '38587239'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa2312572
+    source_license: NEJM の利用規約（Crossref の license 欄。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 国内での保険適用の条件は本出典では確認していない。
+  curriculum:
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)'
+    kokushi: 医学各論 Ⅴ-2-B（心原性ショック、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）

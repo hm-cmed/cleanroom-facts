@@ -1,0 +1,700 @@
+- id: HT-001
+  domain: HT
+  subdomain: 本態性高血圧
+  assertion:
+    plain_statement_ja: 令和5年（2023年）の国民健康・栄養調査では、20歳以上の収縮期血圧の平均は男性131.6 mmHg、女性126.2 mmHgで、収縮期血圧140 mmHg以上の人の割合は男性27.5%、女性22.5%だった。令和元年から水銀を使わない血圧計に変わったため、それ以前の値と比べるときは注意が要る。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: 140 mmHg 以上の人の割合がそのまま高血圧の有病率である
+  provenance:
+    source_ref: SRC-298
+    source: 厚生労働省. 令和5年国民健康・栄養調査結果の概要（2024年11月公表）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/10900000/001338334.pdf
+    source_license: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 令和2年・3年は調査が中止されている。収縮期血圧140 mmHg以上の割合は高血圧の有病率（服薬中の人を含む定義）とは一致しない
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)'
+    kokushi: 医学各論 Ⅴ-7-A（本態性高血圧、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-002
+  domain: HT
+  subdomain: 本態性高血圧
+  assertion:
+    plain_statement_ja: 令和5年（2023年）の国民健康・栄養調査では、20歳以上の1日の食塩摂取量の平均は9.8 gで、男性10.7 g、女性9.1 gだった。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-298
+    source: 厚生労働省. 令和5年国民健康・栄養調査結果の概要（2024年11月公表）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/10900000/001338334.pdf
+    source_license: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 摂取量は食事記録にもとづく推計で、尿中ナトリウム排泄量からの推定とは値が異なりうる
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)'
+    kokushi: 医学各論 Ⅴ-7-A（本態性高血圧、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-003
+  domain: HT
+  subdomain: 本態性高血圧
+  assertion:
+    plain_statement_ja: 日本高血圧学会の JSH2025 は、降圧目標を対象集団によらず130/80 mmHg未満に統一した。あわせて、家庭血圧の活用、心血管リスクの層別化、デジタルヘルスや行動面への介入、高齢者・女性・がんサバイバーごとの管理を新たに示している。
+    condition:
+      guideline: JSH2025（日本高血圧学会 高血圧管理・治療ガイドライン2025）
+      region: 日本
+    differential: null
+    common_misconception: 高齢の高血圧患者の降圧目標は一律に 140/90 mmHg 未満である
+  provenance:
+    source_ref: SRC-291
+    source: Ohya Y, Sakima A, Arima H, et al. Key highlights of the Japanese Society of Hypertension Guidelines for the management of elevated blood pressure and hypertension 2025 (JSH2025). Hypertens Res 2025 (Epub 2025 Aug 29)
+    doi: 10.1038/s41440-025-02331-8
+    pmid: '40877471'
+    pmcid: null
+    url: https://doi.org/10.1038/s41440-025-02331-8
+    source_license: 未確認（nature.com の取得に失敗）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 抄録で確認した内容。家庭血圧の目標値や例外（フレイル、終末期など）の扱いは本文で確認が要る
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)'
+    kokushi: 医学各論 Ⅴ-7-A（本態性高血圧、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-004
+  domain: HT
+  subdomain: 本態性高血圧
+  assertion:
+    plain_statement_ja: JSH2025 の降圧目標は、診察室血圧130/80 mmHg未満、家庭血圧125/75 mmHg未満とされる。高血圧患者一般と脳卒中既往者について、収縮期血圧130 mmHg未満を目標にすることが、推奨の強さ1、エビデンスレベルAで推奨されている。
+    condition:
+      guideline: JSH2025（日本高血圧学会 高血圧管理・治療ガイドライン2025）
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-292
+    source: 有馬久富. 成果報告2 日本高血圧学会での取り組み（成果報告会資料、2026年2月28日）. 国立保健医療科学院 掲載
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://c2h.niph.go.jp/eecg/assets/reiwa_7/pdf/05_JPNSH_report.pdf
+    source_license: 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 二次資料経由（ガイドライン作成に関わった研究者の発表スライド）。家庭血圧の目標値と推奨の強さは JSH2025 本文で確認が要る
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)'
+    kokushi: 医学各論 Ⅴ-7-A（本態性高血圧、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-005
+  domain: HT
+  subdomain: 本態性高血圧
+  assertion:
+    plain_statement_ja: 2025年の AHA/ACC の高血圧ガイドラインは、成人の血圧を、正常（120/80 mmHg未満）、上昇（収縮期120〜129かつ拡張期80未満）、ステージ1高血圧（収縮期130〜139または拡張期80〜89）、ステージ2高血圧（収縮期140以上または拡張期90以上）に分けている。
+    condition:
+      guideline: 2025 AHA/ACC 高血圧 GL
+      region: 米国の診療を前提とした推奨
+    differential: 日本の高血圧の診断基準（診察室血圧140/90 mmHg以上）とは区分の境界が異なる
+    common_misconception: 米国でも高血圧の診断基準は 140/90 mmHg である
+  provenance:
+    source_ref: SRC-293
+    source: 2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults. Circulation 2025 (published online 2025 Aug 14)
+    doi: 10.1161/CIR.0000000000001356
+    pmid: null
+    pmcid: null
+    url: https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline\top-things-to-know
+    source_license: © American Heart Association（AHA 公式要約ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: AHA 公式の要約ページで確認した内容（本文は未確認）
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)'
+    kokushi: 医学各論 Ⅴ-7-A（本態性高血圧、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-006
+  domain: HT
+  subdomain: 本態性高血圧
+  assertion:
+    plain_statement_ja: 2025年の AHA/ACC の高血圧ガイドラインは、成人全体の降圧目標を130/80 mmHg未満としている。施設に入所している人、余命が限られる人、妊娠中の人は例外として扱う。
+    condition:
+      guideline: 2025 AHA/ACC 高血圧 GL
+      region: 米国の診療を前提とした推奨
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-293
+    source: 2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults. Circulation 2025 (published online 2025 Aug 14)
+    doi: 10.1161/CIR.0000000000001356
+    pmid: null
+    pmcid: null
+    url: https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline\top-things-to-know
+    source_license: © American Heart Association（AHA 公式要約ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: AHA 公式の要約ページで確認した内容（本文は未確認）
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)'
+    kokushi: 医学各論 Ⅴ-7-A（本態性高血圧、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-007
+  domain: HT
+  subdomain: 本態性高血圧
+  assertion:
+    plain_statement_ja: 2025年の AHA/ACC の高血圧ガイドラインでは、平均血圧が140/90 mmHg以上なら生活習慣の改善と同時に降圧薬を始める。130/80 mmHg以上で、心血管疾患、脳卒中の既往、糖尿病、慢性腎臓病のいずれかがあるか、PREVENT 式の10年リスクが7.5%以上なら降圧薬を始める。それ以外は3〜6か月の生活習慣の改善後も130/80 mmHg以上なら薬を始める。
+    condition:
+      guideline: 2025 AHA/ACC 高血圧 GL
+      region: 米国の診療を前提とした推奨
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-293
+    source: 2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults. Circulation 2025 (published online 2025 Aug 14)
+    doi: 10.1161/CIR.0000000000001356
+    pmid: null
+    pmcid: null
+    url: https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline\top-things-to-know
+    source_license: © American Heart Association（AHA 公式要約ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: AHA 公式の要約ページで確認した内容（本文は未確認）。PREVENT 式は米国の集団で作られたリスク式で、日本人での妥当性は確かめていない
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)'
+    kokushi: 医学各論 Ⅴ-7-A（本態性高血圧、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-008
+  domain: HT
+  subdomain: 本態性高血圧
+  assertion:
+    plain_statement_ja: 2025年の AHA/ACC の高血圧ガイドラインは、ステージ2高血圧で薬物治療を始めるとき、種類の異なる第一選択薬2剤から始め、2剤を別々に飲むより1錠の配合剤にすることを勧めている。
+    condition:
+      guideline: 2025 AHA/ACC 高血圧 GL
+      region: 米国の診療を前提とした推奨
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-293
+    source: 2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults. Circulation 2025 (published online 2025 Aug 14)
+    doi: 10.1161/CIR.0000000000001356
+    pmid: null
+    pmcid: null
+    url: https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline\top-things-to-know
+    source_license: © American Heart Association（AHA 公式要約ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: AHA 公式の要約ページで確認した内容（本文は未確認）。第一選択薬の種類は要約ページに記載がない
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)'
+    kokushi: 医学各論 Ⅴ-7-A（本態性高血圧、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-009
+  domain: HT
+  subdomain: 高血圧緊急症
+  assertion:
+    plain_statement_ja: 2025年の AHA/ACC の高血圧ガイドラインは、妊娠していない人で血圧が180/120 mmHgを超えても急性の臓器障害がないものを重症高血圧とし、外来で経口降圧薬を速やかに開始・再開・増量して対応するとしている。
+    condition:
+      guideline: 2025 AHA/ACC 高血圧 GL
+      region: 米国の診療を前提とした推奨
+    differential: 高血圧緊急症（急性の臓器障害を伴い、入院での静注薬による降圧を要する）
+    common_misconception: 血圧が180/120 mmHgを超えたら臓器障害の有無にかかわらず静注薬で急いで下げる
+  provenance:
+    source_ref: SRC-293
+    source: 2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults. Circulation 2025 (published online 2025 Aug 14)
+    doi: 10.1161/CIR.0000000000001356
+    pmid: null
+    pmcid: null
+    url: https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline\top-things-to-know
+    source_license: © American Heart Association（AHA 公式要約ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: AHA 公式の要約ページで確認した内容。高血圧緊急症（急性の臓器障害を伴うもの）の降圧速度は要約ページに記載がなく、未確認
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-200 (id: Jlvnlwg)'
+    kokushi: 医学各論 Ⅴ-7-C（高血圧緊急症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-010
+  domain: HT
+  subdomain: 内分泌性高血圧症
+  assertion:
+    plain_statement_ja: 米国内分泌学会の2025年のガイドラインがまとめた高血圧患者での原発性アルドステロン症の推定有病率は、プライマリケアで5.9%（範囲3.2〜14.0%）、専門施設で7.2%、18〜40歳の若年成人で16.2%、治療抵抗性高血圧で11.3〜29.1%である。
+    condition:
+      guideline: 米国内分泌学会 原発性アルドステロン症 GL 2025
+      region: 国際（米国内分泌学会）。日本内分泌学会 GL 2021 とは照合していない
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-294
+    source: 'Adler GK, Stowasser M, Correa RR, et al. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab 2025;110:2453-2495'
+    doi: 10.1210/clinem/dgaf284
+    pmid: null
+    pmcid: null
+    url: https://academic.oup.com/jcem/article/110/9/2453/8196671
+    source_license: © The Endocrine Society 2025, All rights reserved（出版社ページ）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 背景の本文には、プライマリケアで5〜14%、専門施設で最大30%という別の幅の記載もある
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)'
+    kokushi: 医学各論 Ⅴ-7-B-③（内分泌性高血圧症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-011
+  domain: HT
+  subdomain: 内分泌性高血圧症
+  assertion:
+    plain_statement_ja: 米国内分泌学会の2025年のガイドラインは、原発性アルドステロン症のスクリーニングを高血圧のある人全員に行うことを提案している（条件付き推奨、エビデンスの確実性は低）。実施は地域の資源と体制に応じて判断するとしている。
+    condition:
+      guideline: 米国内分泌学会 原発性アルドステロン症 GL 2025
+      region: 国際（米国内分泌学会）。日本内分泌学会 GL 2021 とは照合していない
+    differential: null
+    common_misconception: 原発性アルドステロン症は低カリウム血症のある高血圧患者だけを調べればよい
+  provenance:
+    source_ref: SRC-294
+    source: 'Adler GK, Stowasser M, Correa RR, et al. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab 2025;110:2453-2495'
+    doi: 10.1210/clinem/dgaf284
+    pmid: null
+    pmcid: null
+    url: https://academic.oup.com/jcem/article/110/9/2453/8196671
+    source_license: © The Endocrine Society 2025, All rights reserved（出版社ページ）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 日本内分泌学会の2021年のガイドラインの対象（どの高血圧患者を調べるか）とは照合していない
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)'
+    kokushi: 医学各論 Ⅴ-7-B-③（内分泌性高血圧症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-012
+  domain: HT
+  subdomain: 内分泌性高血圧症
+  assertion:
+    plain_statement_ja: 米国内分泌学会の2025年のガイドラインでは、原発性アルドステロン症のスクリーニングは、午前中に座位で、直前に減塩をしていない状態で血中アルドステロンとレニンを測り、カリウムも測る。レニンが抑制され（PRA 1 ng/mL/時以下など）、アルドステロンが不適切に高い（免疫測定法で10 ng/dL以上など）ことを陽性の目安とし、比（ARR）の目安は免疫測定法で20超（ng/dL 対 ng/mL/時）とする。
+    condition:
+      guideline: 米国内分泌学会 原発性アルドステロン症 GL 2025
+      region: 国際（米国内分泌学会）。日本内分泌学会 GL 2021 とは照合していない
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-294
+    source: 'Adler GK, Stowasser M, Correa RR, et al. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab 2025;110:2453-2495'
+    doi: 10.1210/clinem/dgaf284
+    pmid: null
+    pmcid: null
+    url: https://academic.oup.com/jcem/article/110/9/2453/8196671
+    source_license: © The Endocrine Society 2025, All rights reserved（出版社ページ）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: カットオフは測定法と単位で異なり、ガイドラインは施設の基準値を使うことを勧めている。日本での測定法（化学発光法など）と単位での値は別に確認が要る
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)'
+    kokushi: 医学各論 Ⅴ-7-B-③（内分泌性高血圧症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-013
+  domain: HT
+  subdomain: 内分泌性高血圧症
+  assertion:
+    plain_statement_ja: 米国内分泌学会の2025年のガイドラインでは、スクリーニングが陰性でも偽陰性が疑われるときは、安全であれば、MR 拮抗薬・ENaC 阻害薬・その他の利尿薬を4週間、ACE 阻害薬・ARB を2週間中止して再検する。β遮断薬や中枢性α2作動薬の服用中に陽性となったときは、2週間中止して再検する。
+    condition:
+      guideline: 米国内分泌学会 原発性アルドステロン症 GL 2025
+      region: 国際（米国内分泌学会）。日本内分泌学会 GL 2021 とは照合していない
+    differential: null
+    common_misconception: スクリーニングの前にはすべての降圧薬を中止しなければならない
+  provenance:
+    source_ref: SRC-294
+    source: 'Adler GK, Stowasser M, Correa RR, et al. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab 2025;110:2453-2495'
+    doi: 10.1210/clinem/dgaf284
+    pmid: null
+    pmcid: null
+    url: https://academic.oup.com/jcem/article/110/9/2453/8196671
+    source_license: © The Endocrine Society 2025, All rights reserved（出版社ページ）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ガイドラインは休薬を最小限にする方法と休薬しない方法の両方を示している
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)'
+    kokushi: 医学各論 Ⅴ-7-B-③（内分泌性高血圧症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-014
+  domain: HT
+  subdomain: 内分泌性高血圧症
+  assertion:
+    plain_statement_ja: 米国内分泌学会の2025年のガイドラインは、手術を考える原発性アルドステロン症の患者には、治療法を決める前に副腎 CT と副腎静脈サンプリングを行うことを提案している。例外として、35歳未満で病態が明らか、低カリウム血症があり、片側に1.0 cmを超える腺腫がある場合が挙げられている。
+    condition:
+      guideline: 米国内分泌学会 原発性アルドステロン症 GL 2025
+      region: 国際（米国内分泌学会）。日本内分泌学会 GL 2021 とは照合していない
+    differential: null
+    common_misconception: CT で片側の副腎腫瘍が見えれば、その側が原因と判断して手術できる
+  provenance:
+    source_ref: SRC-294
+    source: 'Adler GK, Stowasser M, Correa RR, et al. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab 2025;110:2453-2495'
+    doi: 10.1210/clinem/dgaf284
+    pmid: null
+    pmcid: null
+    url: https://academic.oup.com/jcem/article/110/9/2453/8196671
+    source_license: © The Endocrine Society 2025, All rights reserved（出版社ページ）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)'
+    kokushi: 医学各論 Ⅴ-7-B-③（内分泌性高血圧症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-015
+  domain: HT
+  subdomain: 内分泌性高血圧症
+  assertion:
+    plain_statement_ja: 米国内分泌学会の2025年のガイドラインでは、片側性の原発性アルドステロン症で手術を選ぶ患者には片側の副腎全摘を行い、両側性、病側不明、手術の対象にならない、または手術を望まない患者には MR 拮抗薬を生涯続ける。MR 拮抗薬は ENaC 阻害薬より優先し、費用と入手しやすさからスピロノラクトンを優先する。
+    condition:
+      guideline: 米国内分泌学会 原発性アルドステロン症 GL 2025
+      region: 国際（米国内分泌学会）。日本内分泌学会 GL 2021 とは照合していない
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-294
+    source: 'Adler GK, Stowasser M, Correa RR, et al. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab 2025;110:2453-2495'
+    doi: 10.1210/clinem/dgaf284
+    pmid: null
+    pmcid: null
+    url: https://academic.oup.com/jcem/article/110/9/2453/8196671
+    source_license: © The Endocrine Society 2025, All rights reserved（出版社ページ）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 国内で使える MR 拮抗薬の種類と保険適用は確認していない
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)'
+    kokushi: 医学各論 Ⅴ-7-B-③（内分泌性高血圧症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-016
+  domain: HT
+  subdomain: 睡眠時無呼吸症候群
+  assertion:
+    plain_statement_ja: 治療抵抗性高血圧と閉塞性睡眠時無呼吸のある患者を対象にした6件の RCT（479人）のメタ解析では、CPAP により24時間平均の収縮期血圧が5.40 mmHg、拡張期血圧が3.86 mmHg低下した。
+    condition:
+      guideline: null
+      region: 国際（6件の RCT のメタ解析）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-295
+    source: 'Lei Q, Lv Y, Li K, et al. Effects of continuous positive airway pressure on blood pressure in patients with resistant hypertension and obstructive sleep apnea: a systematic review and meta-analysis of six randomized controlled trials. J Bras Pneumol 2017'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://jbp.org.br/details/2705/en-US
+    source_license: Creative Commons（版の表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 論文内で p 値と異質性（I²）の記載が抄録と本文で一致しない。DOI と書誌は API で確定が要る
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)'
+    kokushi: 医学各論 Ⅴ-7-B-④（睡眠時無呼吸症候群、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-017
+  domain: HT
+  subdomain: 起立性低血圧
+  assertion:
+    plain_statement_ja: 起立性低血圧は、臥位から立位になって3分以内に収縮期血圧が20 mmHg以上、または拡張期血圧が10 mmHg以上低下するものと定義される。主な症状はめまい、霧視、失神である。
+    condition:
+      guideline: null
+      region: 国際（用語の定義）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-296
+    source: 'National Library of Medicine. MeSH Descriptor: Hypotension, Orthostatic (D007024)'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://meshb.nlm.nih.gov/record/ui?ui=D007024
+    source_license: 米国連邦政府の著作物（NLM）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-201 (id: Jlvnlwo)'
+    kokushi: 医学各論 Ⅴ-7-D（起立性低血圧、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-018
+  domain: HT
+  subdomain: 起立性低血圧
+  assertion:
+    plain_statement_ja: 2017年の ACC/AHA/HRS の失神ガイドラインは、起立性低血圧による失神を、反射性失神と並ぶ非心原性失神に分類している。運転の再開までの目安として、起立性低血圧による失神では症状のない期間1か月を示している。
+    condition:
+      guideline: 2017 ACC/AHA/HRS 失神 GL
+      region: 米国の診療を前提とした推奨
+    differential: 反射性（神経調節性）失神、心原性失神
+    common_misconception: null
+  provenance:
+    source_ref: SRC-297
+    source: 'Shen WK, Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for the evaluation and management of patients with syncope: executive summary. Heart Rhythm 2017;14:e218-e254'
+    doi: 10.1016/j.hrthm.2017.03.005
+    pmid: null
+    pmcid: null
+    url: https://hrsonline.org/documents/2017-acc-aha-hrs-syncope-guideline-executive-summarypdf-0/download
+    source_license: © 2017 American College of Cardiology Foundation, AHA, HRS
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 運転の目安は米国の勧告で、日本の道路交通法上の扱いとは異なる
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-201 (id: Jlvnlwo)；TBL-02-05-017 (id: JlAKpfo)'
+    kokushi: 医学各論 Ⅴ-7-D（起立性低血圧、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-019
+  domain: HT
+  subdomain: 腎血管性高血圧症
+  assertion:
+    plain_statement_ja: 高安動脈炎では、腎動脈狭窄や大動脈縮窄による高血圧が予後を左右する因子の一つで、腎動脈狭窄は治療抵抗性の高血圧の原因になる。小児の高安動脈炎では腹部大動脈と腎動脈が侵されやすい。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-305
+    source: 厚生労働省. 指定難病 40 高安動脈炎（概要・診断基準等）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/10905000/001173555.pdf
+    source_license: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)；TBL-01-00-194 (id: Jlvnlvw)'
+    kokushi: 医学各論 Ⅴ-7-B-②（腎血管性高血圧症、a）；医学各論 Ⅴ-8-A-⑤（高安動脈炎、b）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-020
+  domain: HT
+  subdomain: 腎血管性高血圧症
+  assertion:
+    plain_statement_ja: 線維筋性異形成は動脈硬化によらない動脈の病変で、腎動脈に生じることが多い。
+    condition:
+      guideline: JCS/JSVS 2022 末梢動脈疾患 GL
+      region: 日本
+    differential: 動脈硬化性の腎動脈狭窄
+    common_misconception: null
+  provenance:
+    source_ref: SRC-307
+    source: 日本循環器学会・日本血管外科学会. 末梢動脈疾患ガイドライン（2022年改訂版）. 2022年3月11日発行、2025年5月15日更新
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.j-circ.or.jp/cms/wp-content/uploads/2022/03/JCS2022_Azuma.pdf
+    source_license: （無断転載を禁ずる）© 日本循環器学会・日本血管外科学会
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 腎動脈狭窄の章（第9章）の本文は抽出できず、治療の推奨は未確認
+  curriculum:
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)'
+    kokushi: 医学各論 Ⅴ-7-B-②（腎血管性高血圧症、a）
+  publication_info:
+    created: '2026-10-25'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-25'
+    by: claude-code
+    change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
