@@ -896,7 +896,7 @@
     corroboration: null
   uncertainty: null
   curriculum:
-    core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；PS-02-06-05 (id: JkxnuQw)；TBL-02-05-027 (id: JlAKpf4)'
+    core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；PS-02-06-05 (id: JkxnuQw)；TBL-02-05-027 (id: JlAKpf4)；TBL-01-00-573 (id: JlvnmW0)'
     kokushi: 医学各論 Ⅴ-5-E（川崎病、a）
   publication_info:
     created: '2026-10-25'
@@ -908,6 +908,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-25'
+    by: claude-code
+    change: curriculum.core_curriculum に TBL-01-00-573（免疫・アレルギー／血管炎症候群：川崎病、基本●）を追加（監修者の承認による）
 - id: IH-027
   domain: IH
   subdomain: 川崎病
@@ -931,7 +934,7 @@
     corroboration: null
   uncertainty: null
   curriculum:
-    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)'
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)；TBL-01-00-573 (id: JlvnmW0)'
     kokushi: 医学各論 Ⅴ-5-E（川崎病、a）
   publication_info:
     created: '2026-10-25'
@@ -943,6 +946,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-25'
+    by: claude-code
+    change: curriculum.core_curriculum に TBL-01-00-573（免疫・アレルギー／血管炎症候群：川崎病、基本●）を追加（監修者の承認による）
 - id: IH-028
   domain: IH
   subdomain: 川崎病
@@ -966,7 +972,7 @@
     corroboration: null
   uncertainty: 重症（不応予測）の判定基準は抄録に詳しい記載がない。
   curriculum:
-    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)'
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)；TBL-01-00-573 (id: JlvnmW0)'
     kokushi: 医学各論 Ⅴ-5-E（川崎病、a）
   publication_info:
     created: '2026-10-25'
@@ -978,6 +984,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-25'
+    by: claude-code
+    change: curriculum.core_curriculum に TBL-01-00-573（免疫・アレルギー／血管炎症候群：川崎病、基本●）を追加（監修者の承認による）
 - id: IH-029
   domain: IH
   subdomain: 川崎病
@@ -1001,7 +1010,7 @@
     corroboration: null
   uncertainty: null
   curriculum:
-    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)'
+    core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)；TBL-01-00-573 (id: JlvnmW0)'
     kokushi: 医学各論 Ⅴ-5-E（川崎病、a）
   publication_info:
     created: '2026-10-25'
@@ -1013,6 +1022,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-25'
+    by: claude-code
+    change: curriculum.core_curriculum に TBL-01-00-573（免疫・アレルギー／血管炎症候群：川崎病、基本●）を追加（監修者の承認による）
 - id: IH-030
   domain: IH
   subdomain: 川崎病
@@ -1036,7 +1048,7 @@
     corroboration: null
   uncertainty: null
   curriculum:
-    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-573 (id: JlvnmW0)'
     kokushi: 医学各論 Ⅴ-5-E（川崎病、a）
   publication_info:
     created: '2026-10-25'
@@ -1048,3 +1060,6 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-25'
+    by: claude-code
+    change: curriculum.core_curriculum に TBL-01-00-573（免疫・アレルギー／血管炎症候群：川崎病、基本●）を追加（監修者の承認による）

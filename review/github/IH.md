@@ -318,8 +318,8 @@
 - 鑑別・補足：急性期に内径が6 mmを超えると遠隔期に狭窄性病変が増えると報告されている
 - よくある誤解：冠動脈病変の大きさは年齢によらず実測値だけで判定する
 - 出典：Fukazawa R, Kobayashi J, Ayusawa M, et al. JCS/JSCS 2020 Guideline on Diagnosis and Management of Cardiovascular Sequelae in Kawasaki Disease. Circ J 2020;84:1348-1407　[DOI 10.1253/circj.CJ-19-1094](https://doi.org/10.1253/circj.CJ-19-1094)　[PMID 32641591](https://pubmed.ncbi.nlm.nih.gov/32641591/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅴ-5-E（川崎病、a）　コアカリ：PS-02-06-03 (id: JkxnuQo)；PS-02-06-05 (id: JkxnuQw)；TBL-02-05-027 (id: JlAKpf4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-026&card_id=IH-026&version=4c6016d84b)　（版 `4c6016d84b`）
+- 出題基準：医学各論 Ⅴ-5-E（川崎病、a）　コアカリ：PS-02-06-03 (id: JkxnuQo)；PS-02-06-05 (id: JkxnuQw)；TBL-02-05-027 (id: JlAKpf4)；TBL-01-00-573 (id: JlvnmW0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-026&card_id=IH-026&version=d8e00fabc9)　（版 `d8e00fabc9`）
 
 ### IH-027　下書き（出典の照合前）
 
@@ -328,8 +328,8 @@
 - 条件：guideline: JCS/JSCS 2020 川崎病心臓血管後遺症GL／region: 日本
 - よくある誤解：冠動脈病変が残っても抗血小板薬は2〜3か月でやめる
 - 出典：Fukazawa R, Kobayashi J, Ayusawa M, et al. JCS/JSCS 2020 Guideline on Diagnosis and Management of Cardiovascular Sequelae in Kawasaki Disease. Circ J 2020;84:1348-1407　[DOI 10.1253/circj.CJ-19-1094](https://doi.org/10.1253/circj.CJ-19-1094)　[PMID 32641591](https://pubmed.ncbi.nlm.nih.gov/32641591/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅴ-5-E（川崎病、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-027&card_id=IH-027&version=a9a61182e0)　（版 `a9a61182e0`）
+- 出題基準：医学各論 Ⅴ-5-E（川崎病、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)；TBL-01-00-573 (id: JlvnmW0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-027&card_id=IH-027&version=ab12508e0f)　（版 `ab12508e0f`）
 
 ### IH-028　下書き（出典の照合前）
 
@@ -339,8 +339,8 @@
 - よくある誤解：川崎病にステロイドを使うと冠動脈瘤が増える
 - 不確実性：重症（不応予測）の判定基準は抄録に詳しい記載がない。
 - 出典：Kobayashi T, Saji T, Otani T, et al. Efficacy of immunoglobulin plus prednisolone for prevention of coronary artery abnormalities in severe Kawasaki disease (RAISE study). Lancet 2012;379:1613-1620　[DOI 10.1016/S0140-6736(11)61930-2](https://doi.org/10.1016/S0140-6736(11)61930-2)　[PMID 22405251](https://pubmed.ncbi.nlm.nih.gov/22405251/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅴ-5-E（川崎病、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-028&card_id=IH-028&version=01ad28ab2d)　（版 `01ad28ab2d`）
+- 出題基準：医学各論 Ⅴ-5-E（川崎病、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)；TBL-01-00-573 (id: JlvnmW0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-028&card_id=IH-028&version=7121f0afaf)　（版 `7121f0afaf`）
 
 ### IH-029　下書き（出典の照合前）
 
@@ -348,8 +348,8 @@
 
 - 条件：region: 日本／study: KAICA
 - 出典：Hamada H, Suzuki H, Onouchi Y, et al. Efficacy of primary treatment with immunoglobulin plus ciclosporin for prevention of coronary artery abnormalities in patients with Kawasaki disease predicted to be at increased risk of non-response to intravenous immunoglobulin (KAICA). Lancet 2019;393:1128-1137　[DOI 10.1016/S0140-6736(18)32003-8](https://doi.org/10.1016/S0140-6736(18)32003-8)　[PMID 30853151](https://pubmed.ncbi.nlm.nih.gov/30853151/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅴ-5-E（川崎病、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-029&card_id=IH-029&version=3264cdebef)　（版 `3264cdebef`）
+- 出題基準：医学各論 Ⅴ-5-E（川崎病、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)；TBL-01-00-573 (id: JlvnmW0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-029&card_id=IH-029&version=4be355d6a7)　（版 `4be355d6a7`）
 
 ### IH-030　下書き（出典の照合前）
 
@@ -358,10 +358,10 @@
 - 条件：region: 日本／study: 第27回川崎病全国調査
 - よくある誤解：川崎病は日本ではほとんどみられなくなった
 - 出典：Nakamura Y, Yashiro M, Yanagawa H, et al. Epidemiology of Kawasaki disease in Japan in 2021-2022: Results of the 27th nationwide survey. Pediatr Int 2025;67:e70007　[DOI 10.1111/ped.70007](https://doi.org/10.1111/ped.70007)　[PMID 40189891](https://pubmed.ncbi.nlm.nih.gov/40189891/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅴ-5-E（川崎病、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-030&card_id=IH-030&version=95bd4aa0e7)　（版 `95bd4aa0e7`）
+- 出題基準：医学各論 Ⅴ-5-E（川崎病、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-573 (id: JlvnmW0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-030&card_id=IH-030&version=fbd0e3ba15)　（版 `fbd0e3ba15`）
 
-**[ここまでの 5 件（IH-026〜IH-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IH-026%E3%80%9CIH-030&cards=IH-026%204c6016d84b%0AIH-027%20a9a61182e0%0AIH-028%2001ad28ab2d%0AIH-029%203264cdebef%0AIH-030%2095bd4aa0e7)**
+**[ここまでの 5 件（IH-026〜IH-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IH-026%E3%80%9CIH-030&cards=IH-026%20d8e00fabc9%0AIH-027%20ab12508e0f%0AIH-028%207121f0afaf%0AIH-029%204be355d6a7%0AIH-030%20fbd0e3ba15)**
 
 ---
 
