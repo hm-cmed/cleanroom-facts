@@ -20,3 +20,10 @@
 - {prefix: HT, name: 血圧異常, field: 循環器}
 - {prefix: VS, name: 脈管疾患, field: 循環器}
 - {prefix: CX, name: 循環器の症候・検査・治療（横断）, field: 循環器}
+- {prefix: RI, name: 呼吸器感染症, field: 呼吸器}
+- {prefix: RO, name: 気道・閉塞性肺疾患（COPD・喘息）, field: 呼吸器}
+- {prefix: IL, name: 間質性・免疫学的機序の肺疾患, field: 呼吸器}
+- {prefix: PV, name: 肺循環異常, field: 呼吸器}
+- {prefix: LC, name: 気管支・肺・胸膜・縦隔の腫瘍, field: 呼吸器}
+- {prefix: PL, name: 胸膜・縦隔・横隔膜・胸郭、呼吸調節異常, field: 呼吸器}
+- {prefix: RX, name: 呼吸器の症候・検査・治療（横断）, field: 呼吸器}

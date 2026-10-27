@@ -1,4 +1,4 @@
-# 医師国家試験出題基準（令和6年版）医学各論の小項目（番号・名称・レベル）。Ⅴ は 2026-10-25、Ⅵ は 2026-10-21 に転記
+# 医師国家試験出題基準（令和6年版）医学各論の小項目（番号・名称・レベル）。Ⅳ は 2026-10-28、Ⅴ は 2026-10-25、Ⅵ は 2026-10-21 に転記
 # 出典：厚生労働省 医学各論 PDF https://www.mhlw.go.jp/content/10803000/001079484.pdf
 # 備考欄は転記していない。項目の構成（番号・名称・レベル）だけを、問題の分類と配分の計算に使う。
 # checked: 原本 PDF と人が照合したら true にする（2026-10-21 は Claude Code の読み取り結果からの転記で、未照合）。
@@ -7,6 +7,120 @@ checked: false
 transcribed: 2026-10-21
 source: https://www.mhlw.go.jp/content/10803000/001079484.pdf
 chapters:
+  - id: Ⅳ
+    name: 呼吸器・胸壁・縦隔疾患
+    note: 小項目の番号（①など）がない中項目（例：Ⅳ-5-D 肺性心）は、中項目の番号をそのまま code にした。Ⅳ-1-E の中項目名は読み取りでは「ウイルス」だったため、原本で要確認。2026-10-28 に Claude Code の読み取り結果から転記（未照合）。
+    groups:
+      - id: "1"
+        name: 感染性呼吸器疾患
+        items:
+          - {code: Ⅳ-1-A-①, name: "感冒<かぜ症候群>、上気道炎", level: a}
+          - {code: Ⅳ-1-A-②, name: "気管支炎、細気管支炎", level: a}
+          - {code: Ⅳ-1-B-①, name: "市中肺炎", level: a}
+          - {code: Ⅳ-1-B-②, name: "院内肺炎", level: a}
+          - {code: Ⅳ-1-B-③, name: "医療・介護関連肺炎", level: a}
+          - {code: Ⅳ-1-C-①, name: "アスペルギルス症、クリプトコックス症、カンジダ症、ニューモシスチス肺炎", level: a}
+          - {code: Ⅳ-1-D-①, name: "肺結核症", level: a}
+          - {code: Ⅳ-1-D-②, name: "非結核性抗酸菌症", level: a}
+          - {code: Ⅳ-1-E-①, name: "インフルエンザ、サイトメガロウイルス肺炎", level: a}
+          - {code: Ⅳ-1-F-①, name: "吸虫症、線虫症", level: c}
+          - {code: Ⅳ-1-G-①, name: "胸膜炎", level: a}
+          - {code: Ⅳ-1-G-②, name: "膿胸", level: b}
+          - {code: Ⅳ-1-G-③, name: "縦隔炎", level: c}
+      - id: "2"
+        name: 気管・気管支・肺の形態・機能異常、外傷
+        items:
+          - {code: Ⅳ-2-A-①, name: "気管支拡張症", level: a}
+          - {code: Ⅳ-2-A-②, name: "びまん性汎細気管支炎", level: a}
+          - {code: Ⅳ-2-A-③, name: "閉塞性細気管支炎", level: a}
+          - {code: Ⅳ-2-A-④, name: "気道異物", level: a}
+          - {code: Ⅳ-2-A-⑤, name: "気管・気管支の狭窄・閉塞", level: b}
+          - {code: Ⅳ-2-B-①, name: "気腫性囊胞<ブラ、ブレブ>", level: a}
+          - {code: Ⅳ-2-B-②, name: "無気肺", level: b}
+          - {code: Ⅳ-2-B-③, name: "肺分画症", level: c}
+          - {code: Ⅳ-2-C-①, name: "慢性閉塞性肺疾患<COPD>、喘息COPDオーバーラップ<ACO>", level: a}
+          - {code: Ⅳ-2-D-①, name: "気管・気管支損傷", level: b}
+          - {code: Ⅳ-2-D-②, name: "肺損傷", level: b}
+      - id: "3"
+        name: 免疫学的機序が考えられる肺疾患
+        items:
+          - {code: Ⅳ-3-A-①, name: "気管支喘息、咳喘息", level: a}
+          - {code: Ⅳ-3-A-②, name: "アトピー咳嗽", level: a}
+          - {code: Ⅳ-3-A-③, name: "好酸球性肺炎", level: a}
+          - {code: Ⅳ-3-A-④, name: "アレルギー性気管支肺真菌症", level: b}
+          - {code: Ⅳ-3-A-⑤, name: "過敏性肺炎", level: b}
+          - {code: Ⅳ-3-B-①, name: "サルコイドーシス", level: a}
+          - {code: Ⅳ-3-B-②, name: "膠原病および類縁疾患に伴う肺病変", level: b}
+          - {code: Ⅳ-3-B-③, name: "顕微鏡的多発血管炎", level: b}
+          - {code: Ⅳ-3-B-④, name: "多発血管炎性肉芽腫症", level: b}
+          - {code: Ⅳ-3-B-⑤, name: "好酸球性多発血管炎性肉芽腫症", level: b}
+          - {code: Ⅳ-3-B-⑥, name: "悪性リンパ腫、白血病", level: b}
+          - {code: Ⅳ-3-B-⑦, name: "Langerhans細胞組織球症", level: c}
+          - {code: Ⅳ-3-B-⑧, name: "アミロイドーシス", level: c}
+      - id: "4"
+        name: 実質性・間質性肺障害
+        items:
+          - {code: Ⅳ-4-A-①, name: "特発性肺線維症<IPF>", level: a}
+          - {code: Ⅳ-4-A-②, name: "非特異性間質性肺炎<NSIP>", level: b}
+          - {code: Ⅳ-4-A-③, name: "特発性器質化肺炎<COP>", level: b}
+          - {code: Ⅳ-4-B-①, name: "肺リンパ脈管筋腫症<LAM>", level: c}
+          - {code: Ⅳ-4-C-①, name: "薬剤性肺障害", level: b}
+          - {code: Ⅳ-4-C-②, name: "化学薬品、重金属などによる肺障害", level: b}
+          - {code: Ⅳ-4-C-③, name: "放射線肺炎", level: b}
+          - {code: Ⅳ-4-C-④, name: "酸素中毒", level: c}
+          - {code: Ⅳ-4-C-⑤, name: "パラコート中毒", level: c}
+          - {code: Ⅳ-4-D-①, name: "急性呼吸窮迫症候群<ARDS>", level: a}
+          - {code: Ⅳ-4-E-①, name: "珪肺<silicosis>", level: b}
+          - {code: Ⅳ-4-E-②, name: "石綿肺<asbestosis>", level: b}
+          - {code: Ⅳ-4-F-①, name: "肺胞微石症", level: c}
+          - {code: Ⅳ-4-F-②, name: "肺胞蛋白症", level: c}
+      - id: "5"
+        name: 肺循環異常
+        items:
+          - {code: Ⅳ-5-A-①, name: "心原性肺水腫", level: a}
+          - {code: Ⅳ-5-B-①, name: "急性肺血栓塞栓症", level: a}
+          - {code: Ⅳ-5-B-②, name: "慢性肺血栓塞栓症", level: b}
+          - {code: Ⅳ-5-C-①, name: "左心系疾患に伴う肺高血圧症", level: a}
+          - {code: Ⅳ-5-C-②, name: "肺動脈性肺高血圧症<特発性、遺伝性、続発性>", level: b}
+          - {code: Ⅳ-5-C-③, name: "肺疾患あるいは低酸素血症に続発する肺高血圧症", level: b}
+          - {code: Ⅳ-5-D, name: "肺性心", level: a}
+          - {code: Ⅳ-5-E, name: "肺動静脈瘻", level: b}
+      - id: "6"
+        name: 気管支・肺・胸膜・縦隔の腫瘍
+        items:
+          - {code: Ⅳ-6-A-①, name: "肺癌", level: a}
+          - {code: Ⅳ-6-A-②, name: "転移性肺腫瘍", level: a}
+          - {code: Ⅳ-6-B-①, name: "良性肺腫瘍", level: a}
+          - {code: Ⅳ-6-B-②, name: "気管・気管支腫瘍", level: c}
+          - {code: Ⅳ-6-C-①, name: "悪性リンパ腫", level: a}
+          - {code: Ⅳ-6-C-②, name: "胸腺腫瘍", level: b}
+          - {code: Ⅳ-6-C-③, name: "神経原性腫瘍", level: b}
+          - {code: Ⅳ-6-C-④, name: "囊胞性腫瘍", level: b}
+          - {code: Ⅳ-6-C-⑤, name: "胚細胞腫瘍", level: c}
+          - {code: Ⅳ-6-D-①, name: "胸膜中皮腫", level: a}
+          - {code: Ⅳ-6-E, name: "癌性胸膜炎", level: a}
+          - {code: Ⅳ-6-F, name: "癌性リンパ管症", level: a}
+      - id: "7"
+        name: 胸膜・縦隔・横隔膜・胸郭の形態・機能異常と外傷
+        items:
+          - {code: Ⅳ-7-A-①, name: "気胸、緊張性気胸", level: a}
+          - {code: Ⅳ-7-A-②, name: "血胸", level: b}
+          - {code: Ⅳ-7-A-③, name: "乳び胸", level: c}
+          - {code: Ⅳ-7-B-①, name: "縦隔気腫、皮下気腫", level: a}
+          - {code: Ⅳ-7-B-②, name: "気管食道瘻、食道気管瘻", level: a}
+          - {code: Ⅳ-7-B-③, name: "上大静脈症候群", level: a}
+          - {code: Ⅳ-7-B-④, name: "反回神経麻痺", level: a}
+          - {code: Ⅳ-7-C-①, name: "肋骨骨折", level: a}
+          - {code: Ⅳ-7-C-②, name: "胸郭変形", level: b}
+          - {code: Ⅳ-7-C-③, name: "横隔膜ヘルニア", level: b}
+          - {code: Ⅳ-7-C-④, name: "横隔神経麻痺", level: c}
+          - {code: Ⅳ-7-C-⑤, name: "横隔膜弛緩症", level: c}
+      - id: "8"
+        name: 呼吸調節異常
+        items:
+          - {code: Ⅳ-8-A-①, name: "睡眠時無呼吸症候群", level: a}
+          - {code: Ⅳ-8-A-②, name: "過換気症候群", level: a}
+          - {code: Ⅳ-8-A-③, name: "肺胞低換気症候群", level: b}
   - id: Ⅴ
     name: 心臓・脈管疾患
     note: 小項目の番号（①など）がない中項目（例：Ⅴ-2-B 心原性ショック）は、中項目の番号をそのまま code にした。原文の「心筋塞」は「心筋梗塞」と、「{性}」は「性」と書いた。静脈疾患（8-C）は読み取りで1項目のみだったため、原本で要確認。
