@@ -1,0 +1,16 @@
+# 受け入れ検査の仕様（docs/tasks/redo_statpearls.md）
+round: redo_sp
+name: StatPearls を出典にしたカードの出典のやり直し
+id_start:
+  BR: 17
+  DT: 37
+  MT: 37
+  RP: 63
+  SK: 31
+src_range:
+- 1521
+- 1560
+target_cards:
+- 1
+- 40
+targets: []

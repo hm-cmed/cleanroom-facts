@@ -76,3 +76,7 @@ Project指示文とスキーマに従い、最新の引き継ぎメモ（0(N-1)_
 | 15〜19 | 腎・泌尿器・生殖器 | GN・KT／KF・KX／UR・GU／GY／RP | 依頼文は `docs/tasks/round15_KU.md`（主に Muse が順に作り、受け入れ検査を通す） |
 | 20〜22 | 内分泌・代謝・栄養・乳腺 | EN・TH／DM・MT／BR・IE・EX | 依頼文は `docs/tasks/round20_EN.md`（分割案は Muse、受け入れ検査を通す） |
 | 23〜27 | 皮膚・頭頸部 | SK・DT／SD・HX／EY・RE／OT・NL／OR・TR | 依頼文は `docs/tasks/round23_DS.md`（分割案は Muse、受け入れ検査を通す） |
+
+## 出典の方針（2026-10-28 追加）
+
+- StatPearls（NCBI Bookshelf の解説書）は教科書に近い二次資料として扱う。原則として出典にせず、一次資料（原著論文、診療ガイドライン、系統的レビュー、公的資料）がどうしても見つからないときだけ補助的に使う。使った場合は `uncertainty` に「二次資料経由（StatPearls）」と書く。受け入れ検査（`scripts/accept_round.py`）は、この注記のない StatPearls 由来のカードを差し戻す。

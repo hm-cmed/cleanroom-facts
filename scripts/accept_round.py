@@ -9,6 +9,7 @@
   1. 薬の名前があるカードに、国内の承認・保険適用の確認状況が書かれていない
   2. 論文なのに DOI が空の出典
   3. ライセンスを UNKNOWN のままにした出典の割合
+  4. StatPearls（二次資料）を出典にしたカード（2026-10-28 の決定で、補助的な出典にとどめる）
 - 結果は reports/accept_<成果物の名前>.md。差し戻すときは、その「差し戻しの内容」をそのまま作り手に渡せばよい。
 - データ（data/）には書き込まない。
 """
@@ -43,7 +44,12 @@ def extra_checks(p: dict) -> dict:
     no_doi = [f"{r['SRC']}（{(r.get('出典') or '')[:40]}…）" for r in p["srcs"]
               if not null_if_dash(r.get("DOI")) and not NOT_ARTICLE.search(r.get("出典") or "")]
     unknown = sum(1 for r in p["srcs"] if (r.get("source_class") or "").strip() == "UNKNOWN")
-    return {"drug_no_note": drug_no_note, "no_doi": no_doi, "unknown": unknown, "n_src": len(p["srcs"])}
+    # StatPearls は二次資料（2026-10-28 の決定）：原則使わない。使ったカードは uncertainty に「二次資料経由」を書く
+    sp_src = {r["SRC"] for r in p["srcs"] if "StatPearls" in (r.get("出典") or "")}
+    sp_cards = [c for c in cards if (c.get("provenance") or {}).get("source_ref") in sp_src]
+    sp_no_note = [c.get("id") for c in sp_cards if "二次資料" not in str(c.get("uncertainty") or "")]
+    return {"drug_no_note": drug_no_note, "no_doi": no_doi, "unknown": unknown, "n_src": len(p["srcs"]),
+            "sp_src": sorted(sp_src), "sp_cards": [c.get("id") for c in sp_cards], "sp_no_note": sp_no_note}
 
 
 def main() -> None:
@@ -94,6 +100,11 @@ def main() -> None:
         should.append(f"薬の名前があるのに、国内の承認・保険適用の確認状況が uncertainty にない：{'、'.join(map(str, x['drug_no_note']))}")
     if x["no_doi"]:
         should.append(f"論文と思われるのに DOI が空の出典：{'、'.join(x['no_doi'])}。DOI があれば書く（PMID も）")
+    if x["sp_no_note"]:
+        must.append(f"StatPearls を出典にしたのに uncertainty に「二次資料経由（StatPearls）」がない：{'、'.join(map(str, x['sp_no_note']))}")
+    if x["sp_cards"]:
+        should.append(f"StatPearls を出典にしたカードが {len(x['sp_cards'])} 件（出典 {'、'.join(x['sp_src'])}）。"
+                      "StatPearls は補助的な出典にとどめる決まり。一次資料（原著論文・ガイドライン・公的資料）に置き換えられないか確認する")
     if x["n_src"] and x["unknown"] / x["n_src"] > 0.3:
         should.append(f"ライセンスが UNKNOWN の出典が {x['unknown']}/{x['n_src']} 件。Crossref の license 欄や出版社ページで CC BY と確認できれば OPEN にする")
     if o:
