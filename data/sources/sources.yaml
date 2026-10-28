@@ -11229,3 +11229,786 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-941
+  legacy_id: null
+  title: 'Kawasaki E, et al. Diagnostic criteria for acute-onset type 1 diabetes mellitus (2012): Report of the Committee on Type 1 Diabetes in Japan Diabetes Society. J Diabetes Investig. 2014;5(1):115–118.'
+  citation: 'Kawasaki E, et al. Diagnostic criteria for acute-onset type 1 diabetes mellitus (2012): Report of the Committee on Type 1 Diabetes in Japan Diabetes Society. J Diabetes Investig. 2014;5(1):115–118.'
+  doi: 10.1111/jdi.12119
+  pmid: '24843746'
+  pmcid: null
+  license_note: CC BY-NC-ND
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-942
+  legacy_id: null
+  title: Seino Y, et al. Report of the Committee on the Classification and Diagnostic Criteria of Diabetes Mellitus. J Diabetes Investig. 2010;1(5):212–228.
+  citation: Seino Y, et al. Report of the Committee on the Classification and Diagnostic Criteria of Diabetes Mellitus. J Diabetes Investig. 2010;1(5):212–228.
+  doi: 10.1111/j.2040-1124.2010.00074.x
+  pmid: '24843435'
+  pmcid: null
+  license_note: CC表示未確認（学会委員会報告）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-943
+  legacy_id: null
+  title: 'Gyeltshen T, Tanaka H, Katanoda K. Trends in self-reported current diabetes care use in Japan: an analysis of the Comprehensive Survey of Living Conditions (1986–2022). BMJ Open Diabetes Res Care. 2026;14(4).'
+  citation: 'Gyeltshen T, Tanaka H, Katanoda K. Trends in self-reported current diabetes care use in Japan: an analysis of the Comprehensive Survey of Living Conditions (1986–2022). BMJ Open Diabetes Res Care. 2026;14(4).'
+  doi: 10.1136/bmjdrc-2026-006042
+  pmid: '42457244'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-944
+  legacy_id: null
+  title: Araki E, et al. Japanese Clinical Practice Guideline for Diabetes 2019. J Diabetes Investig. 2020;11(4):1020–1076.
+  citation: Araki E, et al. Japanese Clinical Practice Guideline for Diabetes 2019. J Diabetes Investig. 2020;11(4):1020–1076.
+  doi: 10.1111/jdi.13306
+  pmid: '33021749'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-945
+  legacy_id: null
+  title: 'American Diabetes Association Professional Practice Committee. 6. Glycemic Goals and Hypoglycemia: Standards of Care in Diabetes—2025. Diabetes Care. 2025;48(Suppl.1):S128–S145.'
+  citation: 'American Diabetes Association Professional Practice Committee. 6. Glycemic Goals and Hypoglycemia: Standards of Care in Diabetes—2025. Diabetes Care. 2025;48(Suppl.1):S128–S145.'
+  doi: 10.2337/dc25-S006
+  pmid: '39651981'
+  pmcid: null
+  license_note: © American Diabetes Association（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-946
+  legacy_id: null
+  title: 'Bouchi R, et al. A consensus statement from the Japan Diabetes Society: a proposed algorithm for pharmacotherapy in people with type 2 diabetes — 2nd edition (English version). Diabetol Int. 2024;15(3):327–345.'
+  citation: 'Bouchi R, et al. A consensus statement from the Japan Diabetes Society: a proposed algorithm for pharmacotherapy in people with type 2 diabetes — 2nd edition (English version). Diabetol Int. 2024;15(3):327–345.'
+  doi: 10.1007/s13340-024-00723-8
+  pmid: '39101173'
+  pmcid: null
+  license_note: CC表示未確認（学会コンセンサス）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-947
+  legacy_id: null
+  title: 'Shimada A, et al. New diagnostic criteria (2023) for slowly progressive type 1 diabetes (SPIDDM): Report from Committee on Type 1 Diabetes of the Japan Diabetes Society (English version). J Diabetes Investig. 2024;15(2):254–257.'
+  citation: 'Shimada A, et al. New diagnostic criteria (2023) for slowly progressive type 1 diabetes (SPIDDM): Report from Committee on Type 1 Diabetes of the Japan Diabetes Society (English version). J Diabetes Investig. 2024;15(2):254–257.'
+  doi: 10.1111/jdi.14121
+  pmid: '38184802'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-948
+  legacy_id: null
+  title: 'Tosur M, Philipson LH. Precision diabetes: Lessons learned from maturity-onset diabetes of the young (MODY). J Diabetes Investig. 2022;13(9):1465–1471.'
+  citation: 'Tosur M, Philipson LH. Precision diabetes: Lessons learned from maturity-onset diabetes of the young (MODY). J Diabetes Investig. 2022;13(9):1465–1471.'
+  doi: 10.1111/jdi.13860
+  pmid: '35638342'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-949
+  legacy_id: null
+  title: 'Japan Diabetes Society/Japan Geriatrics Society Joint Committee. Committee Report: Glycemic targets for elderly patients with diabetes. J Diabetes Investig. 2017;8(1):126–128.'
+  citation: 'Japan Diabetes Society/Japan Geriatrics Society Joint Committee. Committee Report: Glycemic targets for elderly patients with diabetes. J Diabetes Investig. 2017;8(1):126–128.'
+  doi: 10.1111/jdi.12599
+  pmid: '28054465'
+  pmcid: null
+  license_note: CC BY-NC-ND
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-950
+  legacy_id: null
+  title: Knowler WC, et al.; Diabetes Prevention Program Research Group. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. N Engl J Med. 2002;346(6):393–403.
+  citation: Knowler WC, et al.; Diabetes Prevention Program Research Group. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. N Engl J Med. 2002;346(6):393–403.
+  doi: 10.1056/NEJMoa012512
+  pmid: '11832527'
+  pmcid: null
+  license_note: © Massachusetts Medical Society（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-951
+  legacy_id: null
+  title: TODAY Study Group. Long-Term Complications in Youth-Onset Type 2 Diabetes. N Engl J Med. 2021;385(5):416–426.
+  citation: TODAY Study Group. Long-Term Complications in Youth-Onset Type 2 Diabetes. N Engl J Med. 2021;385(5):416–426.
+  doi: 10.1056/NEJMoa2100165
+  pmid: '34320286'
+  pmcid: null
+  license_note: © Massachusetts Medical Society（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-952
+  legacy_id: null
+  title: 'Kim T, Choi SH. Diabetes Mellitus and Infectious Diseases: Current Evidence and Clinical Implications. Diabetes Metab J. 2025;49(5):915–933.'
+  citation: 'Kim T, Choi SH. Diabetes Mellitus and Infectious Diseases: Current Evidence and Clinical Implications. Diabetes Metab J. 2025;49(5):915–933.'
+  doi: 10.4093/dmj.2025.0508
+  pmid: '40859782'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-953
+  legacy_id: null
+  title: Frid AH, et al. New Insulin Delivery Recommendations. Mayo Clin Proc. 2016;91(9):1231–1255.
+  citation: Frid AH, et al. New Insulin Delivery Recommendations. Mayo Clin Proc. 2016;91(9):1231–1255.
+  doi: 10.1016/j.mayocp.2016.06.010
+  pmid: '27594187'
+  pmcid: null
+  license_note: © Mayo Foundation / Elsevier（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-956
+  legacy_id: null
+  title: 'Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycemic Crises in Adults With Diabetes: A Consensus Report. Diabetes Care. 2024;47(8):1257-1275.'
+  citation: 'Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycemic Crises in Adults With Diabetes: A Consensus Report. Diabetes Care. 2024;47(8):1257-1275.'
+  doi: 10.2337/dci24-0032
+  pmid: '39052901'
+  pmcid: null
+  license_note: © 2024 by the American Diabetes Association and the European Association for the Study of Diabetes（CC ライセンス表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-957
+  legacy_id: null
+  title: 'DeFronzo R, Fleming GA, Chen K, Bicsak TA. Metformin-associated lactic acidosis: Current perspectives on causes and risk. Metabolism. 2016;65(2):20-29.'
+  citation: 'DeFronzo R, Fleming GA, Chen K, Bicsak TA. Metformin-associated lactic acidosis: Current perspectives on causes and risk. Metabolism. 2016;65(2):20-29.'
+  doi: 10.1016/j.metabol.2015.10.014
+  pmid: '26773926'
+  pmcid: null
+  license_note: © 2015 The Authors. Published by Elsevier Inc. All rights reserved.（CC ライセンス表示は確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-958
+  legacy_id: null
+  title: 'American Diabetes Association Professional Practice Committee. 11. Chronic Kidney Disease and Risk Management: Standards of Care in Diabetes—2025. Diabetes Care. 2025;48(Suppl 1):S239-S251.'
+  citation: 'American Diabetes Association Professional Practice Committee. 11. Chronic Kidney Disease and Risk Management: Standards of Care in Diabetes—2025. Diabetes Care. 2025;48(Suppl 1):S239-S251.'
+  doi: 10.2337/dc25-S011
+  pmid: '39651975'
+  pmcid: null
+  license_note: © by the American Diabetes Association（Readers may use this article as long as the work is properly cited, the use is educational and not for profit, and the work is not altered. CC ライセンス表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-959
+  legacy_id: null
+  title: 'Pop-Busui R, Boulton AJM, Feldman EL, et al. Diabetic Neuropathy: A Position Statement by the American Diabetes Association. Diabetes Care. 2017;40(1):136-154.'
+  citation: 'Pop-Busui R, Boulton AJM, Feldman EL, et al. Diabetic Neuropathy: A Position Statement by the American Diabetes Association. Diabetes Care. 2017;40(1):136-154.'
+  doi: 10.2337/dc16-2042
+  pmid: '27999003'
+  pmcid: null
+  license_note: © by the American Diabetes Association（Readers may use this article as long as the work is properly cited, the use is educational and not for profit, and the work is not altered. CC ライセンス表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-960
+  legacy_id: null
+  title: 'Solomon SD, Chew E, Duh EJ, et al. Diabetic Retinopathy: A Position Statement by the American Diabetes Association. Diabetes Care. 2017;40(3):412-418.'
+  citation: 'Solomon SD, Chew E, Duh EJ, et al. Diabetic Retinopathy: A Position Statement by the American Diabetes Association. Diabetes Care. 2017;40(3):412-418.'
+  doi: 10.2337/dc16-2641
+  pmid: '28223445'
+  pmcid: null
+  license_note: © by the American Diabetes Association（Readers may use this article as long as the work is properly cited, the use is educational and not for profit, and the work is not altered. CC ライセンス表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-961
+  legacy_id: null
+  title: Bus SA, Sacco ICN, Monteiro-Soares M, et al. Guidelines on the prevention of foot ulcers in persons with diabetes (IWGDF 2023 update). Diabetes/Metabolism Research and Reviews. 2024;40(3):e3651.
+  citation: Bus SA, Sacco ICN, Monteiro-Soares M, et al. Guidelines on the prevention of foot ulcers in persons with diabetes (IWGDF 2023 update). Diabetes/Metabolism Research and Reviews. 2024;40(3):e3651.
+  doi: 10.1002/dmrr.3651
+  pmid: '37302121'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-963
+  legacy_id: null
+  title: 'American Diabetes Association Professional Practice Committee. 10. Cardiovascular Disease and Risk Management: Standards of Care in Diabetes—2025. Diabetes Care. 2025;48(Suppl 1):S207-S238.'
+  citation: 'American Diabetes Association Professional Practice Committee. 10. Cardiovascular Disease and Risk Management: Standards of Care in Diabetes—2025. Diabetes Care. 2025;48(Suppl 1):S207-S238.'
+  doi: 10.2337/dc25-S010
+  pmid: '39651970'
+  pmcid: null
+  license_note: © by the American Diabetes Association（Readers may use this article as long as the work is properly cited, the use is educational and not for profit, and the work is not altered. CC ライセンス表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-965
+  legacy_id: null
+  title: 'American Diabetes Association Professional Practice Committee. 6. Glycemic Goals and Hypoglycemia: Standards of Care in Diabetes—2025. Diabetes Care. 2025;48(Suppl 1):S128-S145.'
+  citation: 'American Diabetes Association Professional Practice Committee. 6. Glycemic Goals and Hypoglycemia: Standards of Care in Diabetes—2025. Diabetes Care. 2025;48(Suppl 1):S128-S145.'
+  doi: 10.2337/dc25-S006
+  pmid: '39651981'
+  pmcid: null
+  license_note: © by the American Diabetes Association（Readers may use this article as long as the work is properly cited, the use is educational and not for profit, and the work is not altered. CC ライセンス表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+  - date: '2026-10-28'
+    by: claude-code
+    change: SRC-945 と同一の文献（DOI が同じ）。カードの参照は SRC-945 に付け替えた。番号は再利用しない
+- id: SRC-966
+  legacy_id: null
+  title: 'Cryer PE, Axelrod L, Grossman AB, et al. Evaluation and Management of Adult Hypoglycemic Disorders: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2009;94(3):709-728.'
+  citation: 'Cryer PE, Axelrod L, Grossman AB, et al. Evaluation and Management of Adult Hypoglycemic Disorders: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2009;94(3):709-728.'
+  doi: 10.1210/jc.2008-1410
+  pmid: '19088155'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-967
+  legacy_id: null
+  title: 'Bodnar TW, Acevedo MJ, Pietropaolo M. Management of Non-Islet-Cell Tumor Hypoglycemia: A Clinical Review. The Journal of Clinical Endocrinology & Metabolism. 2014;99(3):713-722.'
+  citation: 'Bodnar TW, Acevedo MJ, Pietropaolo M. Management of Non-Islet-Cell Tumor Hypoglycemia: A Clinical Review. The Journal of Clinical Endocrinology & Metabolism. 2014;99(3):713-722.'
+  doi: 10.1210/jc.2013-3382
+  pmid: '24423303'
+  pmcid: null
+  license_note: © 2014 by The Endocrine Society（CC ライセンス表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-968
+  legacy_id: null
+  title: 'Censi S, Mian C, Betterle C. Insulin autoimmune syndrome: from diagnosis to clinical management. Annals of Translational Medicine. 2018;6(17):335.'
+  citation: 'Censi S, Mian C, Betterle C. Insulin autoimmune syndrome: from diagnosis to clinical management. Annals of Translational Medicine. 2018;6(17):335.'
+  doi: 10.21037/atm.2018.07.32
+  pmid: '30306074'
+  pmcid: null
+  license_note: © 2018 Annals of Translational Medicine. All rights reserved.（CC ライセンス表示は確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-969
+  legacy_id: null
+  title: 'Misselwitz B, Butter M, Verbeke K, Fox MR. Update on lactose malabsorption and intolerance: pathogenesis, diagnosis and clinical management. Gut. 2019;68(11):2080-2091.'
+  citation: 'Misselwitz B, Butter M, Verbeke K, Fox MR. Update on lactose malabsorption and intolerance: pathogenesis, diagnosis and clinical management. Gut. 2019;68(11):2080-2091.'
+  doi: 10.1136/gutjnl-2019-318404
+  pmid: '31427404'
+  pmcid: null
+  license_note: Re-use permitted under CC BY-NC. No commercial re-use.（CC BY-NC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-971
+  legacy_id: null
+  title: Okamura T, Tsukamoto K, Arai H, et al. Japan Atherosclerosis Society (JAS) Guidelines for Prevention of Atherosclerotic Cardiovascular Diseases 2022. Journal of Atherosclerosis and Thrombosis. 2024;31(6):641-853.
+  citation: Okamura T, Tsukamoto K, Arai H, et al. Japan Atherosclerosis Society (JAS) Guidelines for Prevention of Atherosclerotic Cardiovascular Diseases 2022. Journal of Atherosclerosis and Thrombosis. 2024;31(6):641-853.
+  doi: 10.5551/jat.GL2022
+  pmid: '38123343'
+  pmcid: null
+  license_note: CC BY-NC-SA 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-972
+  legacy_id: null
+  title: Harada-Shiba M, Arai H, Ohmura H, et al. Guidelines for the Diagnosis and Treatment of Adult Familial Hypercholesterolemia 2022. Journal of Atherosclerosis and Thrombosis. 2023;30(5):558-586.
+  citation: Harada-Shiba M, Arai H, Ohmura H, et al. Guidelines for the Diagnosis and Treatment of Adult Familial Hypercholesterolemia 2022. Journal of Atherosclerosis and Thrombosis. 2023;30(5):558-586.
+  doi: 10.5551/jat.CR005
+  pmid: '36682773'
+  pmcid: null
+  license_note: CC BY-NC-SA 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-973
+  legacy_id: null
+  title: 'Mach F, Baigent C, Catapano AL, et al. 2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk. European Heart Journal. 2020;41(1):111-188.'
+  citation: 'Mach F, Baigent C, Catapano AL, et al. 2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk. European Heart Journal. 2020;41(1):111-188.'
+  doi: 10.1093/eurheartj/ehz455
+  pmid: '31504418'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-974
+  legacy_id: null
+  title: Sabatine MS, Giugliano RP, Keech AC, et al. Evolocumab and Clinical Outcomes in Patients with Cardiovascular Disease (FOURIER). The New England Journal of Medicine. 2017;376(18):1713-1722.
+  citation: Sabatine MS, Giugliano RP, Keech AC, et al. Evolocumab and Clinical Outcomes in Patients with Cardiovascular Disease (FOURIER). The New England Journal of Medicine. 2017;376(18):1713-1722.
+  doi: 10.1056/NEJMoa1615664
+  pmid: '28304224'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-975
+  legacy_id: null
+  title: Examination Committee of Criteria for 'Obesity Disease' in Japan; Japan Society for the Study of Obesity. New criteria for 'obesity disease' in Japan. Circulation Journal. 2002;66(11):987-992.
+  citation: Examination Committee of Criteria for 'Obesity Disease' in Japan; Japan Society for the Study of Obesity. New criteria for 'obesity disease' in Japan. Circulation Journal. 2002;66(11):987-992.
+  doi: 10.1253/circj.66.987
+  pmid: '12419927'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-976
+  legacy_id: null
+  title: Wilding JPH, Batterham RL, Calanna S, et al. Once-Weekly Semaglutide in Adults with Overweight or Obesity (STEP 1). The New England Journal of Medicine. 2021;384(11):989-1002.
+  citation: Wilding JPH, Batterham RL, Calanna S, et al. Once-Weekly Semaglutide in Adults with Overweight or Obesity (STEP 1). The New England Journal of Medicine. 2021;384(11):989-1002.
+  doi: 10.1056/NEJMoa2032183
+  pmid: '33567185'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-977
+  legacy_id: null
+  title: 'Mahmoud R, Kimonis V, Butler MG. Genetics of Obesity in Humans: A Clinical Review. International Journal of Molecular Sciences. 2022;23(19):11005.'
+  citation: 'Mahmoud R, Kimonis V, Butler MG. Genetics of Obesity in Humans: A Clinical Review. International Journal of Molecular Sciences. 2022;23(19):11005.'
+  doi: 10.3390/ijms231911005
+  pmid: '36232301'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-978
+  legacy_id: null
+  title: 'Gounden V, Easton-Carr R, Jialal I. Hypoalbuminemia. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK526080.'
+  citation: 'Gounden V, Easton-Carr R, Jialal I. Hypoalbuminemia. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK526080.'
+  doi: null
+  pmid: '30252336'
+  pmcid: null
+  license_note: NCBI Bookshelf 収載。章ページのライセンス表示はアクセス制限のため確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-979
+  legacy_id: null
+  title: Wechalekar AD, Gillmore JD, Hawkins PN. Systemic amyloidosis. The Lancet. 2016;387:2641-2654.
+  citation: Wechalekar AD, Gillmore JD, Hawkins PN. Systemic amyloidosis. The Lancet. 2016;387:2641-2654.
+  doi: 10.1016/S0140-6736(15)01274-X
+  pmid: '26719234'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-980
+  legacy_id: null
+  title: Maurer MS, Schwartz JH, Gundapaneni B, et al. Tafamidis Treatment for Patients with Transthyretin Amyloid Cardiomyopathy (ATTR-ACT). The New England Journal of Medicine. 2018;379(11):1007-1016.
+  citation: Maurer MS, Schwartz JH, Gundapaneni B, et al. Tafamidis Treatment for Patients with Transthyretin Amyloid Cardiomyopathy (ATTR-ACT). The New England Journal of Medicine. 2018;379(11):1007-1016.
+  doi: 10.1056/NEJMoa1805689
+  pmid: '30145929'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-981
+  legacy_id: null
+  title: Yang AL, McNabb-Baltar J. Hypertriglyceridemia and acute pancreatitis. Pancreatology. 2020;20(5):795-800.
+  citation: Yang AL, McNabb-Baltar J. Hypertriglyceridemia and acute pancreatitis. Pancreatology. 2020;20(5):795-800.
+  doi: 10.1016/j.pan.2020.06.005
+  pmid: '32571534'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-982
+  legacy_id: null
+  title: 'Styne DM, Arslanian SA, Connor EL, et al. Pediatric Obesity-Assessment, Treatment, and Prevention: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2017;102(3):709-757.'
+  citation: 'Styne DM, Arslanian SA, Connor EL, et al. Pediatric Obesity-Assessment, Treatment, and Prevention: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2017;102(3):709-757.'
+  doi: 10.1210/jc.2016-2573
+  pmid: '28359099'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-986
+  legacy_id: null
+  title: Kiani AK, Dhuli K, Donato K, et al. Main nutritional deficiencies. J Prev Med Hyg. 2022;63(2 Suppl 3):E93-E101.
+  citation: Kiani AK, Dhuli K, Donato K, et al. Main nutritional deficiencies. J Prev Med Hyg. 2022;63(2 Suppl 3):E93-E101.
+  doi: 10.15167/2421-4248/jpmh2022.63.2S3.2752
+  pmid: '36479498'
+  pmcid: null
+  license_note: CC BY-NC-ND（Europe PMCのライセンス表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-987
+  legacy_id: null
+  title: 'Chandrakumar A, Bhardwaj A, ''t Jong GW. Review of thiamine deficiency disorders: Wernicke encephalopathy and Korsakoff psychosis. J Basic Clin Physiol Pharmacol. 2019;30(2):153-162.'
+  citation: 'Chandrakumar A, Bhardwaj A, ''t Jong GW. Review of thiamine deficiency disorders: Wernicke encephalopathy and Korsakoff psychosis. J Basic Clin Physiol Pharmacol. 2019;30(2):153-162.'
+  doi: 10.1515/jbcpp-2018-0075
+  pmid: '30281514'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-988
+  legacy_id: null
+  title: Devalia V, Hamilton MS, Molloy AM; British Committee for Standards in Haematology. Guidelines for the diagnosis and treatment of cobalamin and folate disorders. Br J Haematol. 2014;166(4):496-513.
+  citation: Devalia V, Hamilton MS, Molloy AM; British Committee for Standards in Haematology. Guidelines for the diagnosis and treatment of cobalamin and folate disorders. Br J Haematol. 2014;166(4):496-513.
+  doi: 10.1111/bjh.12959
+  pmid: '24942828'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（© John Wiley & Sons）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-989
+  legacy_id: null
+  title: 'Maxfield L, Daley SF, Crane JS. Vitamin C Deficiency. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK493187.'
+  citation: 'Maxfield L, Daley SF, Crane JS. Vitamin C Deficiency. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK493187.'
+  doi: null
+  pmid: '29630239'
+  pmcid: null
+  license_note: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-990
+  legacy_id: null
+  title: 'Reddy P, Jialal I. Biochemistry, Fat Soluble Vitamins. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK534869.'
+  citation: 'Reddy P, Jialal I. Biochemistry, Fat Soluble Vitamins. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK534869.'
+  doi: null
+  pmid: '30521290'
+  pmcid: null
+  license_note: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-991
+  legacy_id: null
+  title: Hisatome I, Ichida K, Mineo I, et al. Japanese Society of Gout and Uric & Nucleic Acids 2019 Guidelines for Management of Hyperuricemia and Gout 3rd edition. Gout and Uric & Nucleic Acids. 2020;44(Suppl):1-40.
+  citation: Hisatome I, Ichida K, Mineo I, et al. Japanese Society of Gout and Uric & Nucleic Acids 2019 Guidelines for Management of Hyperuricemia and Gout 3rd edition. Gout and Uric & Nucleic Acids. 2020;44(Suppl):1-40.
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 日本痛風・尿酸核酸学会のガイドライン。CC表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-992
+  legacy_id: null
+  title: FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res (Hoboken). 2020;72(6):744-760.
+  citation: FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res (Hoboken). 2020;72(6):744-760.
+  doi: 10.1002/acr.24180
+  pmid: '32391934'
+  pmcid: null
+  license_note: PMC収載は著者原稿。CC表示なし（© American College of Rheumatology）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-993
+  legacy_id: null
+  title: 'Balwani M, Desnick RJ. The porphyrias: advances in diagnosis and treatment. Blood. 2012;120(23):4496-4504.'
+  citation: 'Balwani M, Desnick RJ. The porphyrias: advances in diagnosis and treatment. Blood. 2012;120(23):4496-4504.'
+  doi: 10.1182/blood-2012-05-423186
+  pmid: '22791288'
+  pmcid: null
+  license_note: PMC収載は著者原稿。CC表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-994
+  legacy_id: null
+  title: 'Jagadeesan S, Kaliyadan F. Acrodermatitis Enteropathica. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK441835.'
+  citation: 'Jagadeesan S, Kaliyadan F. Acrodermatitis Enteropathica. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK441835.'
+  doi: null
+  pmid: '28722865'
+  pmcid: null
+  license_note: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-995
+  legacy_id: null
+  title: 'Salik I, Rawla P. Marfan Syndrome. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK537339.'
+  citation: 'Salik I, Rawla P. Marfan Syndrome. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK537339.'
+  doi: null
+  pmid: '30726024'
+  pmcid: null
+  license_note: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-996
+  legacy_id: null
+  title: Malfait F, Francomano C, Byers P, et al. The 2017 international classification of the Ehlers-Danlos syndromes. Am J Med Genet C Semin Med Genet. 2017;175(1):8-26.
+  citation: Malfait F, Francomano C, Byers P, et al. The 2017 international classification of the Ehlers-Danlos syndromes. Am J Med Genet C Semin Med Genet. 2017;175(1):8-26.
+  doi: 10.1002/ajmg.c.31552
+  pmid: '28306229'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（© Wiley Periodicals）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-997
+  legacy_id: null
+  title: Germain DP. Pseudoxanthoma elasticum. Orphanet J Rare Dis. 2017;12(1):85.
+  citation: Germain DP. Pseudoxanthoma elasticum. Orphanet J Rare Dis. 2017;12(1):85.
+  doi: 10.1186/s13023-017-0639-8
+  pmid: '28486967'
+  pmcid: null
+  license_note: CC BY 4.0（Europe PMCの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-998
+  legacy_id: null
+  title: Benn CL, et al. Physiology of hyperuricemia and urate-lowering treatments. Front Med (Lausanne). 2018;5:160.
+  citation: Benn CL, et al. Physiology of hyperuricemia and urate-lowering treatments. Front Med (Lausanne). 2018;5:160.
+  doi: 10.3389/fmed.2018.00160
+  pmid: '29904633'
+  pmcid: null
+  license_note: CC BY 4.0（Europe PMCの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-999
+  legacy_id: null
+  title: Cameron JS, Moro F, Simmonds HA. Gout, uric acid and purine metabolism in paediatric nephrology. Pediatr Nephrol. 1993;7(1):105-118.
+  citation: Cameron JS, Moro F, Simmonds HA. Gout, uric acid and purine metabolism in paediatric nephrology. Pediatr Nephrol. 1993;7(1):105-118.
+  doi: 10.1007/BF00861588
+  pmid: '8439471'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-1000
+  legacy_id: null
+  title: 'Kennedy DO. B Vitamins and the Brain: Mechanisms, Dose and Efficacy—A Review. Nutrients. 2016;8(2):68.'
+  citation: 'Kennedy DO. B Vitamins and the Brain: Mechanisms, Dose and Efficacy—A Review. Nutrients. 2016;8(2):68.'
+  doi: 10.3390/nu8020068
+  pmid: '26828517'
+  pmcid: null
+  license_note: CC BY 4.0（Crossrefのライセンス表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md の出典マスター表から

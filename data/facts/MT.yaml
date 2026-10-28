@@ -1,0 +1,1260 @@
+- id: MT-001
+  domain: MT
+  subdomain: 脂質異常症の診断基準
+  assertion:
+    plain_statement_ja: 日本の診断基準（動脈硬化性疾患予防ガイドライン2022年版）では、脂質異常症のスクリーニング値を、LDLコレステロール140 mg/dL以上（高LDLコレステロール血症、120〜139 mg/dLは境界域）、HDLコレステロール40 mg/dL未満（低HDLコレステロール血症）、トリグリセリド空腹時150 mg/dL以上または随時175 mg/dL以上（高トリグリセリド血症）、non-HDLコレステロール170 mg/dL以上（高non-HDLコレステロール血症、150〜169 mg/dLは境界域）と定める。
+    condition:
+      region: 日本
+      study: ガイドライン（日本動脈硬化学会、2022年版の英語版）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-971
+    source: Okamura T, Tsukamoto K, Arai H, et al. Japan Atherosclerosis Society (JAS) Guidelines for Prevention of Atherosclerotic Cardiovascular Diseases 2022. Journal of Atherosclerosis and Thrombosis. 2024;31(6):641-853.
+    doi: 10.5551/jat.GL2022
+    pmid: '38123343'
+    pmcid: PMC11150976
+    url: https://doi.org/10.5551/jat.GL2022
+    source_license: CC BY-NC-SA 4.0（PMC掲載ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値はガイドラインの診断基準の表（Table 1）から読み取り。空腹時は10時間以上の絶食を指す（表の脚注）。薬剤の名前は出ないため、国内承認に関する注記は不要である。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-482 (id: JlvnmMw)'
+    kokushi: 医学各論 Ⅹ-7-A-①（原発性高脂血症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-002
+  domain: MT
+  subdomain: 家族性高コレステロール血症
+  assertion:
+    plain_statement_ja: 成人の家族性高コレステロール血症（15歳以上）は、1) 未治療のLDLコレステロール180 mg/dL以上、2) 腱黄色腫（アキレス腱肥厚を含む）または皮膚結節性黄色腫、3) 家族性高コレステロール血症または早発性冠動脈疾患の家族歴、の3項目のうち2項目以上を満たせば診断する（他の原発性・二次性脂質異常症を除外したうえで）。アキレス腱肥厚はX線計測で男性8.0 mm以上、女性7.5 mm以上（超音波では男性6.0 mm以上、女性5.5 mm以上）を目安とする。日本の一般人口での頻度は約300人に1人とされ、若年から冠動脈疾患のリスクが高いため、家族のスクリーニング（カスケードスクリーニング）が推奨される。
+    condition:
+      region: 日本
+      study: ガイドライン（日本動脈硬化学会、成人家族性高コレステロール血症、2022年版の英語版）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-972
+    source: Harada-Shiba M, Arai H, Ohmura H, et al. Guidelines for the Diagnosis and Treatment of Adult Familial Hypercholesterolemia 2022. Journal of Atherosclerosis and Thrombosis. 2023;30(5):558-586.
+    doi: 10.5551/jat.CR005
+    pmid: '36682773'
+    pmcid: PMC10164595
+    url: https://doi.org/10.5551/jat.CR005
+    source_license: CC BY-NC-SA 4.0（PMC掲載ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 診断基準の数値はガイドラインの診断基準の表（Table 1）から読み取り。頻度（約300人に1人）はガイドライン本文で確認した。遺伝子検査の国内の実施体制・保険適用の詳細は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-482 (id: JlvnmMw)'
+    kokushi: 医学各論 Ⅹ-7-A-①（原発性高脂血症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-003
+  domain: MT
+  subdomain: 脂質異常症の管理目標
+  assertion:
+    plain_statement_ja: 日本の管理目標（動脈硬化性疾患予防ガイドライン2022年版）では、一次予防は絶対リスク評価（久山町スコア）で低・中・高リスクに分類し、LDLコレステロールの管理目標を低リスク160 mg/dL未満、中リスク140 mg/dL未満、高リスク120 mg/dL未満とする。二次予防の目標は100 mg/dL未満で、急性冠症候群、家族性高コレステロール血症、糖尿病などを合併する高リスクの二次予防では70 mg/dL未満（non-HDLコレステロール100 mg/dL未満）が考慮される。すべてのリスク区分で、HDLコレステロール40 mg/dL以上とトリグリセリド150 mg/dL未満もあわせて目指す。一次予防では原則として3〜6か月の生活習慣の修正を行ってから薬物療法を検討するが、LDLコレステロール180 mg/dL以上が持続する場合は薬物療法の併用を考慮する。
+    condition:
+      region: 日本
+      study: ガイドライン（日本動脈硬化学会、2022年版の英語版）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-971
+    source: Okamura T, Tsukamoto K, Arai H, et al. Japan Atherosclerosis Society (JAS) Guidelines for Prevention of Atherosclerotic Cardiovascular Diseases 2022. Journal of Atherosclerosis and Thrombosis. 2024;31(6):641-853.
+    doi: 10.5551/jat.GL2022
+    pmid: '38123343'
+    pmcid: PMC11150976
+    url: https://doi.org/10.5551/jat.GL2022
+    source_license: CC BY-NC-SA 4.0（PMC掲載ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 管理目標の数値はガイドラインのリスク区分別の目標値の表（Table 5）と本文から読み取り。久山町スコアによる絶対リスク評価の計算方法の詳細は本カードでは確認していない。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-482 (id: JlvnmMw)'
+    kokushi: 医学各論 Ⅹ-7-A-①（原発性高脂血症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-004
+  domain: MT
+  subdomain: 脂質異常症の管理目標（欧州）
+  assertion:
+    plain_statement_ja: 欧州の2019年ESC/EASガイドラインでは、LDLコレステロールの目標を超高リスクでは治療前値からの50%以上の低下と55 mg/dL（1.4 mmol/L）未満、高リスクでは50%以上の低下と70 mg/dL（1.8 mmol/L）未満、中等度リスクでは100 mg/dL（2.6 mmol/L）未満、低リスクでは116 mg/dL（3.0 mmol/L）未満と定める。最大耐量のスタチン治療中に2年以内に2回目の血管イベントを起こした動脈硬化性心血管疾患の患者では、40 mg/dL（1.0 mmol/L）未満も考慮される。non-HDLコレステロールの副次目標は、超高リスク85 mg/dL、高リスク100 mg/dL、中等度リスク130 mg/dLである。
+    condition:
+      region: 欧州
+      study: ガイドライン（欧州心臓病学会・欧州動脈硬化学会、2019年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-973
+    source: 'Mach F, Baigent C, Catapano AL, et al. 2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk. European Heart Journal. 2020;41(1):111-188.'
+    doi: 10.1093/eurheartj/ehz455
+    pmid: '31504418'
+    pmcid: null
+    url: https://doi.org/10.1093/eurheartj/ehz455
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値はガイドラインの治療目標の表（Table 7）と推奨文から読み取り。米国の2018年AHA/ACCガイドラインは絶対的な目標値ではなく治療の閾値に基づく方式で枠組みが異なるが、1枚のカードの出典を1文献にそろえるため本カードには含めていない（米国分の数値は未確認）。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-482 (id: JlvnmMw)'
+    kokushi: 医学各論 Ⅹ-7-A-①（原発性高脂血症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-005
+  domain: MT
+  subdomain: 家族性高コレステロール血症の治療
+  assertion:
+    plain_statement_ja: ヘテロ接合体家族性高コレステロール血症のLDLコレステロールの管理目標は、一次予防で100 mg/dL未満、二次予防で70 mg/dL未満である。生活習慣の改善だけでは目標を達成しにくいことが多く、薬物療法が必須で、第一選択はスタチン（強力なスタチンが中心）である。効果が不十分な場合は最大耐量まで増量するかエゼチミブを併用し、それでも不十分な場合はPCSK9阻害薬の追加を検討する。薬物療法に抵抗性の重症例ではLDLアフェレーシスが選択肢となる。
+    condition:
+      region: 日本
+      study: ガイドライン（日本動脈硬化学会、成人家族性高コレステロール血症、2022年版の英語版）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-972
+    source: Harada-Shiba M, Arai H, Ohmura H, et al. Guidelines for the Diagnosis and Treatment of Adult Familial Hypercholesterolemia 2022. Journal of Atherosclerosis and Thrombosis. 2023;30(5):558-586.
+    doi: 10.5551/jat.CR005
+    pmid: '36682773'
+    pmcid: PMC10164595
+    url: https://doi.org/10.5551/jat.CR005
+    source_license: CC BY-NC-SA 4.0（PMC掲載ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 管理目標の数値と薬物療法の順序はガイドライン本文で確認した。国内承認については、PCSK9阻害薬エボロクマブが家族性高コレステロール血症・高コレステロール血症（心血管イベントのリスクが高くスタチンで効果不十分な場合に限る）に承認されていることをPMDAの添付文書情報で別途確認した。スタチン・エゼチミブの個別製剤の最新の承認・保険適用範囲は添付文書で未確認である。LDLアフェレーシスの保険適用条件の詳細はガイドライン本文に記載があるが、最新の診療報酬上の条件は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-482 (id: JlvnmMw)'
+    kokushi: 医学各論 Ⅹ-7-A-①（原発性高脂血症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-006
+  domain: MT
+  subdomain: 脂質低下療法のエビデンス
+  assertion:
+    plain_statement_ja: FOURIER試験は、スタチン治療を受けていてもLDLコレステロール70 mg/dL以上の動脈硬化性心血管疾患の患者27,564人を対象とした無作為化二重盲検試験である。PCSK9阻害薬エボロクマブは48週時点でLDLコレステロールを中央値92 mg/dLから30 mg/dLへ59%低下させた。主要評価項目（心血管死、心筋梗塞、脳卒中、不安定狭心症による入院、冠血行再建の複合）は9.8%対11.3%（ハザード比0.85）、主要な副次評価項目（心血管死、心筋梗塞、脳卒中の複合）は5.9%対7.4%（ハザード比0.80）で、いずれもエボロクマブ群で有意に低かった。追跡期間の中央値は2.2年で、新規糖尿病や神経認知イベントを含む有害事象に有意差はなかった。
+    condition:
+      region: 国際
+      study: 無作為化二重盲検プラセボ対照試験（FOURIER、2017年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-974
+    source: Sabatine MS, Giugliano RP, Keech AC, et al. Evolocumab and Clinical Outcomes in Patients with Cardiovascular Disease (FOURIER). The New England Journal of Medicine. 2017;376(18):1713-1722.
+    doi: 10.1056/NEJMoa1615664
+    pmid: '28304224'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1615664
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値は試験の抄録で確認した。心血管死単独の有意な低下は抄録の範囲では示されていない。国内承認については、エボロクマブが家族性高コレステロール血症・高コレステロール血症（心血管イベントの発現リスクが高く、HMG-CoA還元酵素阻害剤で効果不十分な場合に限る）に承認されていることをPMDAの添付文書情報で確認した。スタチン自体の心血管イベント抑制のエビデンス（個別試験の数値）は本カードの出典には含まれない。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-482 (id: JlvnmMw)'
+    kokushi: 医学各論 Ⅹ-7-A-①（原発性高脂血症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-007
+  domain: MT
+  subdomain: 二次性高脂血症
+  assertion:
+    plain_statement_ja: 二次性脂質異常症は脂質異常症全体の30〜40%を占める。原因には、甲状腺機能低下症、ネフローゼ症候群、慢性腎臓病、原発性胆汁性胆管炎・閉塞性黄疸、糖尿病・肥満、Cushing症候群、褐色細胞腫、薬剤、多量飲酒などがある。治療の基本は原因となる疾患・病態の治療で、原因薬剤の中止や変更によって改善することもある。甲状腺機能低下症による脂質異常を見逃したままスタチン治療を安易に始めると横紋筋融解症などの重篤な有害事象を招くことがあるため、脂質低下療法の前に二次性の原因を同定することが重要である。
+    condition:
+      region: 日本
+      study: ガイドライン（日本動脈硬化学会、2022年版の英語版、第6章）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-971
+    source: Okamura T, Tsukamoto K, Arai H, et al. Japan Atherosclerosis Society (JAS) Guidelines for Prevention of Atherosclerotic Cardiovascular Diseases 2022. Journal of Atherosclerosis and Thrombosis. 2024;31(6):641-853.
+    doi: 10.5551/jat.GL2022
+    pmid: '38123343'
+    pmcid: PMC11150976
+    url: https://doi.org/10.5551/jat.GL2022
+    source_license: CC BY-NC-SA 4.0（PMC掲載ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 割合（30〜40%）はガイドライン第6章の本文で確認し、原因の一覧は同章の構成（各節の見出し）と表に基づく。脂質異常を来す薬剤の個別のリストは、表の詳細までは確認していない。薬剤名は薬効分類の範囲にとどめ、個別製剤の国内承認に関する注記は不要と判断した。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-482 (id: JlvnmMw)'
+    kokushi: 医学各論 Ⅹ-7-A-②（二次性高脂血症、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-008
+  domain: MT
+  subdomain: 高トリグリセリド血症と急性膵炎
+  assertion:
+    plain_statement_ja: 高トリグリセリド血症は、急性膵炎の原因として胆石とアルコールに次いで3番目に多い。基礎にリポ蛋白代謝の異常がある人に、コントロール不良の糖尿病、飲酒、薬剤などの二次的な要因が重なって発症することが多い。症状は他の原因による急性膵炎と同様だが、経過が重症になりやすく、臓器不全が持続しやすい。初期治療は他の膵炎と同様の輸液、疼痛管理、栄養サポートが基本で、トリグリセリドを下げるためにアフェレーシスやインスリン療法が行われることがある。再発を防ぐには、トリグリセリドの長期的な管理が重要である。
+    condition:
+      region: 国際
+      study: 総説（高トリグリセリド血症による急性膵炎、2020年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-981
+    source: Yang AL, McNabb-Baltar J. Hypertriglyceridemia and acute pancreatitis. Pancreatology. 2020;20(5):795-800.
+    doi: 10.1016/j.pan.2020.06.005
+    pmid: '32571534'
+    pmcid: null
+    url: https://doi.org/10.1016/j.pan.2020.06.005
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 内容は総説の抄録で確認した。膵炎の発症リスクが高まる具体的なトリグリセリド値の閾値は抄録の範囲では確認できなかったため、主張文には数値を入れていない。アフェレーシスとインスリン療法は治療法の名前にとどめ、適応の詳細は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-482 (id: JlvnmMw)'
+    kokushi: 医学各論 Ⅹ-7-A-①（原発性高脂血症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-009
+  domain: MT
+  subdomain: 肥満症
+  assertion:
+    plain_statement_ja: 日本ではBMI 25 kg/m²以上を肥満とする。この値は、BMI 25で肥満に関連する合併症（耐糖能異常、脂質異常症、高血圧など）の平均数が1.0を超えることに基づく。肥満のうち、肥満に起因または関連する健康障害を合併する場合、および内臓脂肪の蓄積（臍の高さでのCTによる内臓脂肪面積100 cm²以上が目安）によって健康障害の合併が予測される場合を「肥満症」として区別し、医学的な減量の対象とする。
+    condition:
+      region: 日本
+      study: 診断基準の原著（日本肥満学会の肥満症診断基準検討委員会、2002年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-975
+    source: Examination Committee of Criteria for 'Obesity Disease' in Japan; Japan Society for the Study of Obesity. New criteria for 'obesity disease' in Japan. Circulation Journal. 2002;66(11):987-992.
+    doi: 10.1253/circj.66.987
+    pmid: '12419927'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.66.987
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値（BMI 25、内臓脂肪面積100 cm²）は出典論文の抄録で確認した。肥満症の健康障害の全項目（11項目）の一覧は抄録の範囲では確認していないため、主張文では同論文で評価された合併症の例示にとどめた。現行の肥満症診療ガイドライン（2022年版）との定義の差分は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-483 (id: JlvnmM4)'
+    kokushi: 医学各論 Ⅹ-7-B-①（単純性肥満、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-010
+  domain: MT
+  subdomain: 肥満症の治療
+  assertion:
+    plain_statement_ja: 肥満症の薬物療法は、食事・運動などの生活習慣への介入を基盤とし、その補助として用いられる。STEP 1試験は、糖尿病のない、BMI 30以上（肥満に関連する合併症がある場合は27以上）の成人1,961人を対象に、セマグルチド2.4 mgの週1回皮下投与と生活習慣介入を組み合わせた無作為化二重盲検試験で、68週時点の体重変化はセマグルチド群で平均-14.9%、プラセボ群で-2.4%（推定治療差-12.4ポイント）であった。5%以上の減量を達成した割合は86.4%対31.5%であった。
+    condition:
+      region: 国際
+      study: 無作為化二重盲検プラセボ対照試験（STEP 1、2021年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-976
+    source: Wilding JPH, Batterham RL, Calanna S, et al. Once-Weekly Semaglutide in Adults with Overweight or Obesity (STEP 1). The New England Journal of Medicine. 2021;384(11):989-1002.
+    doi: 10.1056/NEJMoa2032183
+    pmid: '33567185'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa2032183
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値は試験の抄録で確認した。国内承認については、セマグルチド（ウゴービ）が肥満症に効能・効果のある薬剤として2023年11月に薬価収載されたことを日本肥満学会のステートメントで確認した。ただし保険適用は、高血圧・脂質異常症・2型糖尿病のいずれかを有し食事・運動療法で効果が不十分で、BMI 27以上かつ肥満に関連する健康障害を2つ以上有する場合、またはBMI 35以上の場合に限られ、STEP 1の登録基準とは異なる。外科療法（スリーブ状胃切除術など）の適応基準と治療成績は本カードの出典では確認していないため、主張文には含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-483 (id: JlvnmM4)'
+    kokushi: 医学各論 Ⅹ-7-B-①（単純性肥満、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-011
+  domain: MT
+  subdomain: メタボリックシンドローム
+  assertion:
+    plain_statement_ja: 日本のメタボリックシンドロームの診断基準（2005年、メタボリックシンドローム診断基準検討委員会）では、ウエスト周囲径が臍の高さで男性85 cm以上、女性90 cm以上（内臓脂肪面積100 cm²に相当する値）であることを必須項目とし、これに加えて、1) トリグリセリド150 mg/dL以上かつ/またはHDLコレステロール40 mg/dL未満、2) 収縮期血圧130 mmHg以上かつ/または拡張期血圧85 mmHg以上、3) 空腹時血糖110 mg/dL以上、の3項目のうち2項目以上を満たす場合にメタボリックシンドロームと診断する。
+    condition:
+      region: 日本
+      study: 診断基準（2005年。動脈硬化性疾患予防ガイドライン2022年版に転載された表で確認）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-971
+    source: Okamura T, Tsukamoto K, Arai H, et al. Japan Atherosclerosis Society (JAS) Guidelines for Prevention of Atherosclerotic Cardiovascular Diseases 2022. Journal of Atherosclerosis and Thrombosis. 2024;31(6):641-853.
+    doi: 10.5551/jat.GL2022
+    pmid: '38123343'
+    pmcid: PMC11150976
+    url: https://doi.org/10.5551/jat.GL2022
+    source_license: CC BY-NC-SA 4.0（PMC掲載ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 基準値は、2005年の診断基準の表を転載した動脈硬化性疾患予防ガイドライン2022年版の表から読み取り。原典（日本内科学会雑誌 2005年；94:794-809）そのものは、掲載サイトの障害のため直接開いて確認できていない。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；PS-02-14-06 (id: J5Zjel4)；TBL-01-00-482 (id: JlvnmMw)'
+    kokushi: 医学各論 Ⅹ-7-B-②（メタボリックシンドローム、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-012
+  domain: MT
+  subdomain: 症候性肥満
+  assertion:
+    plain_statement_ja: 症候群性肥満は、発達の遅れなどを伴って早期に発症する肥満で、Prader-Willi症候群、Bardet-Biedl症候群、Cohen症候群、Albright遺伝性骨異栄養症などが含まれる。症候群を伴わない単一遺伝子性の肥満の原因遺伝子としては、レプチン（LEP）、レプチン受容体（LEPR）、POMC、PCSK1、メラノコルチン4受容体（MC4R）、SIM1、BDNF、NTRK2などが報告されており、このうちMC4Rの異常が小児肥満で最も多く、罹患者の約4%にみられる。Prader-Willi症候群は15番染色体q11.2-q13領域の父性発現遺伝子の欠失（約70%）などによって生じる。
+    condition:
+      region: 国際
+      study: 総説（ヒトの肥満の遺伝学、2022年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-977
+    source: 'Mahmoud R, Kimonis V, Butler MG. Genetics of Obesity in Humans: A Clinical Review. International Journal of Molecular Sciences. 2022;23(19):11005.'
+    doi: 10.3390/ijms231911005
+    pmid: '36232301'
+    pmcid: PMC9569701
+    url: https://doi.org/10.3390/ijms231911005
+    source_license: CC BY 4.0（PMC掲載ページの表示）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 遺伝子と割合（MC4R約4%、Prader-Willi症候群の欠失約70%）は総説の本文で確認した。甲状腺機能低下症やCushing症候群などの内分泌性の症候性肥満は、この出典（遺伝学の総説）の扱う範囲外のため主張文に含めていない。各症候群の診断基準の詳細は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-483 (id: JlvnmM4)'
+    kokushi: 医学各論 Ⅹ-7-B-③（症候性肥満、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-013
+  domain: MT
+  subdomain: 低蛋白血症
+  assertion:
+    plain_statement_ja: 低蛋白血症は、主に血清アルブミンの低下によって評価される。アルブミンは肝臓でのみ合成される血漿蛋白で、血漿蛋白の50〜60%を占め、基準濃度は35〜50 g/L、半減期は14〜21日であり、血漿の膠質浸透圧の約80%を担う。低アルブミン血症の成り立ちは、肝疾患や栄養不良、炎症（インターロイキン6、インターロイキン1、腫瘍壊死因子などの炎症性メディエーターが合成を抑制する）による合成の低下と、腎臓や消化管からの喪失の増加、体液分布の異常などに大別される。血清アルブミンは栄養状態や疾患の重症度の指標としても用いられる。
+    condition:
+      region: 米国
+      study: 教科書章（StatPearls、低アルブミン血症）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-978
+    source: 'Gounden V, Easton-Carr R, Jialal I. Hypoalbuminemia. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK526080.'
+    doi: null
+    pmid: '30252336'
+    pmcid: null
+    url: https://www.ncbi.nlm.nih.gov/books/NBK526080/
+    source_license: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値は出典の章の要約で確認した。DOIは、PubMedレコードにDOIの記載がないため null とした。低蛋白血症を総蛋白量で定義する場合の基準値と、原因疾患ごとの診断の進め方は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
+    kokushi: 医学各論 Ⅹ-8-A-①（低蛋白血症、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-014
+  domain: MT
+  subdomain: 全身性アミロイドーシス
+  assertion:
+    plain_statement_ja: 全身性アミロイドーシスは、蛋白質の線維（アミロイド）が組織に沈着する疾患群で、免疫グロブリン軽鎖に由来するAL型が最も多い。治療法の選択は型によって決まるため、沈着したアミロイドの型判定が重要で、固定組織からのレーザーキャプチャーと質量分析による判定が普及している。心アミロイドーシスの評価には、心臓MRIや、骨シンチグラフィ用トレーサーを転用した核医学検査が用いられる。AL型の生存は新しい化学療法薬の登場によって大きく改善したが、進行した臓器障害がある例では今なお難しく、早期診断が重要である。
+    condition:
+      region: 国際
+      study: 総説（Seminar、全身性アミロイドーシス、2016年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-979
+    source: Wechalekar AD, Gillmore JD, Hawkins PN. Systemic amyloidosis. The Lancet. 2016;387:2641-2654.
+    doi: 10.1016/S0140-6736(15)01274-X
+    pmid: '26719234'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(15)01274-X
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 内容は総説の抄録で確認した。AL型の臓器障害の頻度や病期分類の数値は本カードでは確認していない。国内の指定難病としての診断基準は厚生労働省の資料（出典マスターのSRC-247）があるが、本カードの出典には含めていない。薬剤の名前は出ないため、国内承認に関する注記は不要である。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-486 (id: JlvnmNM)'
+    kokushi: 医学各論 Ⅹ-8-B-①（全身性アミロイドーシス、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-015
+  domain: MT
+  subdomain: 全身性アミロイドーシス（ATTR型）
+  assertion:
+    plain_statement_ja: トランスサイレチン型（ATTR）アミロイドーシスは、野生型または変異型のトランスサイレチンが不安定化してミスフォールドし、心筋などにアミロイドとして沈着する疾患である。タファミジスはトランスサイレチンの四量体に結合してその解離を防ぎ、アミロイド形成を抑える。ATTR-ACT試験（トランスサイレチン型心アミロイドーシスの患者441人、30か月間の無作為化二重盲検試験）では、全死亡はタファミジス群29.5%に対してプラセボ群42.9%（ハザード比0.70）とタファミジス群で低く、心血管関連の入院の頻度も低かった（相対リスク比0.68）。
+    condition:
+      region: 国際
+      study: 無作為化二重盲検プラセボ対照試験（ATTR-ACT、2018年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-980
+    source: Maurer MS, Schwartz JH, Gundapaneni B, et al. Tafamidis Treatment for Patients with Transthyretin Amyloid Cardiomyopathy (ATTR-ACT). The New England Journal of Medicine. 2018;379(11):1007-1016.
+    doi: 10.1056/NEJMoa1805689
+    pmid: '30145929'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1805689
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値は試験の抄録で確認した。国内承認については、タファミジスがトランスサイレチン型心アミロイドーシス（野生型及び変異型）に承認されていることをPMDAの医薬品リスク管理計画書（ビンダケル・ビンマック）で確認した。トランスサイレチン型家族性アミロイドポリニューロパチーへの適応は用量・製剤が別であり、本カードの範囲外である。野生型と変異型で効果に差があるかどうかは抄録の範囲では確認していない。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-486 (id: JlvnmNM)'
+    kokushi: 医学各論 Ⅹ-8-B-①（全身性アミロイドーシス、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-016
+  domain: MT
+  subdomain: 小児肥満
+  assertion:
+    plain_statement_ja: 小児・思春期の肥満は、米国の小児・青年の約17%にみられる。内分泌疾患による肥満はまれで、通常は身長の伸びの鈍化（成長速度の低下）を伴うため、成長パターンの評価が原因の鑑別に役立つ。評価では、脂質異常症を含む肥満の合併症を系統的にスクリーニングして早期に発見することが推奨され、遺伝性症候群の検査は、特徴的な病歴や身体所見がある場合に限って行う。治療は生活習慣への介入が基本であり、薬物療法は臨床試験の範囲に限るべきとされ、生活習慣の介入で効果が得られない重症の、成熟した思春期児では、減量・代謝手術が選択肢となる。
+    condition:
+      region: 米国
+      study: ガイドライン（米国内分泌学会、小児肥満、2017年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-982
+    source: 'Styne DM, Arslanian SA, Connor EL, et al. Pediatric Obesity-Assessment, Treatment, and Prevention: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2017;102(3):709-757.'
+    doi: 10.1210/jc.2016-2573
+    pmid: '28359099'
+    pmcid: PMC6283429
+    url: https://doi.org/10.1210/jc.2016-2573
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 内容はガイドラインの抄録（結論部）で確認したもので、割合（約17%）は米国の数値である。脂質スクリーニングの具体的な対象年齢と頻度は抄録の範囲では確認していない。日本の小児肥満の判定方法（肥満度など）と国内の診療体制は本カードでは扱っていない。薬物療法の位置づけは2017年時点の推奨であり、その後の承認薬の状況は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-483 (id: JlvnmM4)'
+    kokushi: 医学各論 Ⅹ-7-B-①（単純性肥満、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-017
+  domain: MT
+  subdomain: 脂質異常症の生活習慣介入
+  assertion:
+    plain_statement_ja: 脂質異常症の生活習慣への介入（動脈硬化性疾患予防ガイドライン2022年版）では、食事は脂質のエネルギー比率20〜25%、飽和脂肪酸のエネルギー比率7%未満を目安とし、高LDLコレステロール血症ではコレステロールの摂取を200 mg/日未満に制限する。炭水化物のエネルギー比率は50〜60%、食物繊維は25 g/日以上とし、n-3系多価不飽和脂肪酸を増やし、トランス脂肪酸を避ける。運動は有酸素運動を1日合計30分以上、週3回以上（可能であれば毎日）、または中強度で週150分以上行うことが推奨される。禁煙は必須であり、体重はBMI 25未満の維持（25以上の場合は減量）を目指す。
+    condition:
+      region: 日本
+      study: ガイドライン（日本動脈硬化学会、2022年版の英語版）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-971
+    source: Okamura T, Tsukamoto K, Arai H, et al. Japan Atherosclerosis Society (JAS) Guidelines for Prevention of Atherosclerotic Cardiovascular Diseases 2022. Journal of Atherosclerosis and Thrombosis. 2024;31(6):641-853.
+    doi: 10.5551/jat.GL2022
+    pmid: '38123343'
+    pmcid: PMC11150976
+    url: https://doi.org/10.5551/jat.GL2022
+    source_license: CC BY-NC-SA 4.0（PMC掲載ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値はガイドラインの食事療法・運動療法の推奨文と生活習慣改善項目の表から読み取り。高トリグリセリド血症に特化した飲酒・糖質の指導の数値は本カードには含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-482 (id: JlvnmMw)'
+    kokushi: 医学各論 Ⅹ-7-A-①（原発性高脂血症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-018
+  domain: MT
+  subdomain: 原発性高脂血症のその他の病型
+  assertion:
+    plain_statement_ja: 家族性複合型高脂血症は、表現型がIIb型を基本としてIIa型やIV型の間を変動し、家族内にも異なる表現型が混在する原発性高脂血症である。日本の診断基準では、アポ蛋白BとLDLコレステロールの比が1.0を超えること、またはsmall dense LDLが存在すること、家族性高コレステロール血症と二次性高脂血症が除外されること、近親者にIIa型・IIb型・IV型の高脂血症がみられることなどを組み合わせて診断する。家族性III型高脂血症は、アポ蛋白Eの異常（主にE2/E2型）によってレムナントリポ蛋白が血中に蓄積する疾患で、手掌の線状黄色腫や結節性黄色腫を特徴とする。E2/E2型であるだけでは発症せず、糖尿病、肥満、甲状腺機能低下症などの合併を契機に顕在化することが多い。
+    condition:
+      region: 日本
+      study: ガイドライン（日本動脈硬化学会、2022年版の英語版、第5章）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-971
+    source: Okamura T, Tsukamoto K, Arai H, et al. Japan Atherosclerosis Society (JAS) Guidelines for Prevention of Atherosclerotic Cardiovascular Diseases 2022. Journal of Atherosclerosis and Thrombosis. 2024;31(6):641-853.
+    doi: 10.5551/jat.GL2022
+    pmid: '38123343'
+    pmcid: PMC11150976
+    url: https://doi.org/10.5551/jat.GL2022
+    source_license: CC BY-NC-SA 4.0（PMC掲載ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 内容はガイドライン第5章の本文で確認した。家族性複合型高脂血症の診断基準は、確認できた項目（アポ蛋白B/LDLコレステロール比、除外項目、家族歴など）に基づいて要約しており、基準の全文ではない。薬剤の名前は出ないため、国内承認に関する注記は不要である。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-482 (id: JlvnmMw)'
+    kokushi: 医学各論 Ⅹ-7-A-①（原発性高脂血症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-019
+  domain: MT
+  subdomain: ビタミン欠乏症の総論
+  assertion:
+    plain_statement_ja: ビタミンは水溶性（B群・ビタミンC）と脂溶性（A・D・E・K）に大別され、欠乏症の現れ方はビタミンごとに異なる。栄養素の摂取が平均必要量を下回る状態は栄養不十分であり、1つ以上の栄養素が著しく低下して身体機能が保てなくなる状態が栄養欠乏である。ビタミンを含む微量栄養素の欠乏は、食料不足などの環境要因のほか、嚥下障害、持続する嘔吐、消化・吸収障害、慢性疾患などでも生じる。評価には、葉酸、ビタミンC、B群ビタミン、ビタミンDなどの血中濃度（バイオマーカー）が用いられる。微量栄養素の欠乏は、成長障害、知的障害、周産期合併症、罹患率・死亡率の上昇につながり、その予防と解消には補充（サプリメント）と食事によるアプローチが用いられる。
+    condition:
+      region: 国際
+      study: 総説（2022年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-986
+    source: Kiani AK, Dhuli K, Donato K, et al. Main nutritional deficiencies. J Prev Med Hyg. 2022;63(2 Suppl 3):E93-E101.
+    doi: 10.15167/2421-4248/jpmh2022.63.2S3.2752
+    pmid: '36479498'
+    pmcid: PMC9710417
+    url: https://doi.org/10.15167/2421-4248/jpmh2022.63.2S3.2752
+    source_license: CC BY-NC-ND（Europe PMCのライセンス表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 出典は微量栄養素全般（鉄・亜鉛・ヨウ素などを含む）を扱う総説であり、ビタミン欠乏症に限った日本の診療基準（食事摂取基準や診断の閾値）を示すものではない。水溶性・脂溶性の別は同総説の全文で各ビタミンについて記載されていることを確認した。個別のビタミンの欠乏症は MT-020〜022・035 を参照。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)'
+    kokushi: 医学各論 Ⅹ-9-A-①（ビタミン欠乏症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-020
+  domain: MT
+  subdomain: ビタミンB1欠乏症（脚気・Wernicke脳症）
+  assertion:
+    plain_statement_ja: チアミン（ビタミンB1）欠乏は、末梢神経障害と心血管機能障害を来す脚気と、神経精神症状を来すWernicke-Korsakoff症候群を起こす。チアミンの活性型であるチアミンピロリン酸は、炭水化物の利用に関わる複数の生化学経路に必須の補因子である。欠乏はアルコール依存によるもののほか、非アルコール性の要因でも生じ、遺伝的素因も関与する。Wernicke脳症は、精神状態の変化、眼球運動障害（眼振・眼筋麻痺）、歩行失調を三徴とするが、完全な三徴がそろうのは患者の3分の1未満であり、診断が遅れやすい。未治療のWernicke脳症は、健忘と作話を特徴とするKorsakoff症候群へ進展し、しばしば不可逆となるため、早期の認識とチアミンの補充が重要である。
+    condition:
+      region: 国際
+      study: 総説（2019年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-987
+    source: 'Chandrakumar A, Bhardwaj A, ''t Jong GW. Review of thiamine deficiency disorders: Wernicke encephalopathy and Korsakoff psychosis. J Basic Clin Physiol Pharmacol. 2019;30(2):153-162.'
+    doi: 10.1515/jbcpp-2018-0075
+    pmid: '30281514'
+    pmcid: null
+    url: https://doi.org/10.1515/jbcpp-2018-0075
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 脚気の臨床像（末梢神経障害・心不全）とWernicke脳症の三徴・頻度は、出典表の確認経路に記した2文献で照合した内容であり、本カードの出典そのものの抄録には含まれていない。チアミン製剤の国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)'
+    kokushi: 医学各論 Ⅹ-9-A-①（ビタミン欠乏症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-021
+  domain: MT
+  subdomain: ビタミンB12・葉酸欠乏
+  assertion:
+    plain_statement_ja: ビタミンB12（コバラミン）欠乏と葉酸欠乏は、巨赤芽球性貧血の代表的な原因である。B12欠乏では、貧血に加えて神経症状・精神症状が多彩に現れ、古典的な巨赤芽球性貧血を欠くこともある。診断では臨床像が最も重要であり、欠乏を定義する決定的な単一の検査はない。コバラミン状態の第一選択検査は血清コバラミンで、機能的欠乏の判定には血漿メチルマロン酸が第二選択として有用であり、血漿ホモシステインはそれより特異度が劣る。葉酸状態の第一選択検査は血清葉酸である。検査結果と、欠乏を強く示す臨床像が食い違う場合は、神経障害を避けるため治療を遅らせてはならない。
+    condition:
+      region: 英国
+      study: ガイドライン（英国血液学会基準委員会、2014年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-988
+    source: Devalia V, Hamilton MS, Molloy AM; British Committee for Standards in Haematology. Guidelines for the diagnosis and treatment of cobalamin and folate disorders. Br J Haematol. 2014;166(4):496-513.
+    doi: 10.1111/bjh.12959
+    pmid: '24942828'
+    pmcid: null
+    url: https://doi.org/10.1111/bjh.12959
+    source_license: ライセンス表示を確認できず（© John Wiley & Sons）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 英国のガイドラインであり、第二選択検査（メチルマロン酸、ホロトランスコバラミン）の実施可能性や保険適用は日本と異なる可能性がある。巨赤芽球性貧血との関係は出典表の確認経路に記した文献で照合した。ビタミンB12製剤・葉酸製剤の国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)'
+    kokushi: 医学各論 Ⅹ-9-A-①（ビタミン欠乏症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-022
+  domain: MT
+  subdomain: ビタミンC欠乏（壊血病）とペラグラ
+  assertion:
+    plain_statement_ja: 壊血病は、ビタミンCの欠乏による臨床症候群である。ビタミンCは皮膚・軟骨・骨・歯の成長と修復に必須で、抗酸化作用も持つ。欠乏が進むと、歯肉出血、点状出血・斑状出血、毛孔性角化とらせん状の体毛、創傷治癒の遅延、関節痛などが現れる。ナイアシン（ビタミンB3）欠乏によるペラグラは、日光に当たる部位の皮膚炎、下痢、抑うつから精神病症状に至る認知・精神症状を特徴とし、壊血病と並ぶ代表的なビタミン欠乏症である。
+    condition:
+      region: 国際
+      study: 総説（2023年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-989
+    source: 'Maxfield L, Daley SF, Crane JS. Vitamin C Deficiency. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK493187.'
+    doi: null
+    pmid: '29630239'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/29630239/
+    source_license: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 壊血病の個別症状は Kiani らの総説（SRC-986）の全文、ペラグラの症状は Kennedy らの総説（SRC-1000）の表で照合した内容であり、本カードの出典（ビタミンC欠乏の章）の抜粋にはペラグラの記載はない。章の本文はアクセス制限のため全文を確認できていない。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)'
+    kokushi: 医学各論 Ⅹ-9-A-①（ビタミン欠乏症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-023
+  domain: MT
+  subdomain: ビタミン過剰症
+  assertion:
+    plain_statement_ja: ビタミン過剰症は、体内に蓄積しやすい脂溶性ビタミン（A・D・E・K）で起こりやすく、サプリメントや薬剤としての過剰摂取が主な原因となる。ビタミンAの過剰では、妊娠中の過剰摂取による催奇形性、肝障害、頭蓋内圧亢進などが問題となり、慢性毒性は長期の大量摂取で生じる。ビタミンDの過剰では高カルシウム血症が中心となり、多尿・多飲、反復する嘔吐、腹痛、脱水などを来し、過剰摂取による中毒では血清25(OH)Dが150 ng/mLを超えることが指標とされる。水溶性ビタミンは過剰分が排泄されやすく毒性は低いが、ビタミンB6とナイアシンの大量摂取では障害が起こる（MT-036）。
+    condition:
+      region: 国際
+      study: 総説（2022年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-990
+    source: 'Reddy P, Jialal I. Biochemistry, Fat Soluble Vitamins. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK534869.'
+    doi: null
+    pmid: '30521290'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/30521290/
+    source_license: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: ビタミンA過剰とビタミンD過剰の具体的な内容は、出典表の確認経路に記した各ビタミンの総説（Carazo ら、Marcinowska-Suchowierska ら）で照合したものであり、本カードの出典の抜粋は脂溶性ビタミンの毒性を扱う旨にとどまる。章の本文はアクセス制限のため全文を確認できていない。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-02-13-007 (id: JlAKpsU)'
+    kokushi: 医学各論 Ⅹ-9-A-②（ビタミン過剰症、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-024
+  domain: MT
+  subdomain: 痛風の診断と急性発作の治療
+  assertion:
+    plain_statement_ja: 痛風性関節炎は、関節内に析出した尿酸一ナトリウム（MSU）結晶を白血球が貪食し、サイトカインによる炎症が起こることで生じる。海外のガイドラインでは、関節液や痛風結節からMSU結晶を同定することが痛風性関節炎の診断と定義されている。急性発作の治療では、コルヒチン、NSAIDs、副腎皮質ステロイドは同等に推奨され（CQ1）、第一選択は特定の1剤に限らない。尿酸降下薬の開始後に発作を予防するためのコルヒチンカバーは、短期間より長期間の投与が推奨される（CQ6）。
+    condition:
+      region: 日本
+      study: ガイドライン（日本痛風・尿酸核酸学会、2019年改訂第3版）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-991
+    source: Hisatome I, Ichida K, Mineo I, et al. Japanese Society of Gout and Uric & Nucleic Acids 2019 Guidelines for Management of Hyperuricemia and Gout 3rd edition. Gout and Uric & Nucleic Acids. 2020;44(Suppl):1-40.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.jstage.jst.go.jp/article/gnamtsunyo/44/Supplement/44_sp-1/_article/-char/ja
+    source_license: 日本痛風・尿酸核酸学会のガイドライン。CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: MSU結晶の同定による診断の位置づけは、本ガイドライン第3版が海外ガイドラインの定義として紹介している記述に基づく（日本の臨床診断基準そのものではない）。コルヒチン・NSAIDs・副腎皮質ステロイドはいずれも国内で使用される薬剤だが、個別製剤の適応・用量は本調査では添付文書で確認していない（未確認）。本カードは第3版（2019年改訂）の記載に基づく。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-485 (id: JlvnmNE)'
+    kokushi: 医学各論 Ⅹ-9-B-①（痛風、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-025
+  domain: MT
+  subdomain: 高尿酸血症の分類と診断
+  assertion:
+    plain_statement_ja: 高尿酸血症は、尿酸の溶解度に基づき、性別を問わず血清尿酸値が7.0 mg/dLを超える状態と定義される。病型は、尿酸産生過剰型、尿酸排泄低下型、混合型に大別され、近年は腎外排泄の低下を含む腎負荷型の存在も提唱されている。高尿酸血症自体は無症状だが、持続すると体内の尿酸プールが増え、MSU結晶が関節や尿路に析出して、痛風や尿路結石の原因となる。成因として、核酸代謝酵素や尿酸トランスポーターの遺伝子の異常のほか、食事・飲酒・運動などの生活習慣が強く関与する。
+    condition:
+      region: 日本
+      study: ガイドライン（日本痛風・尿酸核酸学会、2019年改訂第3版）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-991
+    source: Hisatome I, Ichida K, Mineo I, et al. Japanese Society of Gout and Uric & Nucleic Acids 2019 Guidelines for Management of Hyperuricemia and Gout 3rd edition. Gout and Uric & Nucleic Acids. 2020;44(Suppl):1-40.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.jstage.jst.go.jp/article/gnamtsunyo/44/Supplement/44_sp-1/_article/-char/ja
+    source_license: 日本痛風・尿酸核酸学会のガイドライン。CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 病型分類の判定に用いる尿中尿酸排泄量や尿酸クリアランスの具体的な手順・閾値は、英語版全文では確認できなかったため本カードには含めていない。定義の7.0 mg/dL超は日本のガイドラインのもので、海外の定義（例：ACRの6.8 mg/dL超）とは異なる。本カードは第3版（2019年改訂）の記載に基づく。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-485 (id: JlvnmNE)'
+    kokushi: 医学各論 Ⅹ-9-B-②（高尿酸血症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-026
+  domain: MT
+  subdomain: 高尿酸血症の治療と管理目標（日本）
+  assertion:
+    plain_statement_ja: 日本の治療アルゴリズムでは、血清尿酸値が7.0 mg/dLを超え、痛風発作または痛風結節がある場合は薬物治療を行う。無症候性高尿酸血症では、合併症（腎障害、尿路結石、高血圧、虚血性心疾患、糖尿病、メタボリックシンドロームなど）がある場合は8.0 mg/dL以上、合併症がない場合は9.0 mg/dL以上で薬物治療を検討し、それ未満では生活指導を行う。管理目標は血清尿酸値6.0 mg/dL以下で、痛風結節がある場合も薬物治療により6.0 mg/dL以下を維持することが推奨される（CQ2）。生活指導として、飲酒制限を含む食事教育が推奨される（CQ7）。尿酸降下薬には、キサンチンオキシダーゼ阻害薬（アロプリノール、フェブキソスタット、トピロキソスタット）などの尿酸生成抑制薬と、尿酸排泄促進薬がある。
+    condition:
+      region: 日本
+      study: ガイドライン（日本痛風・尿酸核酸学会、2019年改訂第3版）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-991
+    source: Hisatome I, Ichida K, Mineo I, et al. Japanese Society of Gout and Uric & Nucleic Acids 2019 Guidelines for Management of Hyperuricemia and Gout 3rd edition. Gout and Uric & Nucleic Acids. 2020;44(Suppl):1-40.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.jstage.jst.go.jp/article/gnamtsunyo/44/Supplement/44_sp-1/_article/-char/ja
+    source_license: 日本痛風・尿酸核酸学会のガイドライン。CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 薬物治療の開始基準（8.0 mg/dL、9.0 mg/dL）と合併症の範囲は、本ガイドラインの治療アルゴリズムの図（Figure 1）から読み取った（図から読み取り）。挙げた尿酸降下薬はいずれも国内で使用されているが、無症候性高尿酸血症を含む適応・保険適用の範囲は、本調査では添付文書で確認していない（未確認）。本カードは第3版（2019年改訂）の記載に基づく。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-485 (id: JlvnmNE)'
+    kokushi: 医学各論 Ⅹ-9-B-②（高尿酸血症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-027
+  domain: MT
+  subdomain: 痛風結節と慢性痛風の管理
+  assertion:
+    plain_statement_ja: 痛風結節のある痛風、痛風による画像上の骨破壊がある場合、発作が頻回な場合には、すべての患者に尿酸降下療法を開始することが強く推奨される。第一選択はアロプリノールで、中等度以上の慢性腎臓病（ステージ3以上）でも同様であり、開始用量は100 mg/日以下（腎機能障害ではさらに低用量）とし、血清尿酸値を測定しながら6 mg/dL未満を目標に漸増する（treat-to-target）。フェブキソスタットを用いる場合も開始用量は40 mg/日未満とする。尿酸降下療法の開始時には、少なくとも3〜6か月の抗炎症薬による発作予防を併用することが強く推奨される。重症の痛風（痛風結節を含む）では、欧州の推奨（EULAR 2016）で血清尿酸値5 mg/dL未満の維持が掲げられている。
+    condition:
+      region: 米国
+      study: ガイドライン（米国リウマチ学会、2020年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-992
+    source: FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res (Hoboken). 2020;72(6):744-760.
+    doi: 10.1002/acr.24180
+    pmid: '32391934'
+    pmcid: PMC10563586
+    url: https://doi.org/10.1002/acr.24180
+    source_license: PMC収載は著者原稿。CC表示なし（© American College of Rheumatology）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 米国のガイドラインであり、日本の管理目標は日本のガイドライン（SRC-991）の6.0 mg/dL以下が基準となる。5 mg/dL未満の目標はEULAR 2016推奨の抄録で照合した内容である。アロプリノール・フェブキソスタットの国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-485 (id: JlvnmNE)'
+    kokushi: 医学各論 Ⅹ-9-B-①（痛風、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-028
+  domain: MT
+  subdomain: ポルフィリン症
+  assertion:
+    plain_statement_ja: ポルフィリン症は、ヘム生合成の先天性異常による8つの遺伝的に異なる代謝疾患の総称で、急性肝性、肝性皮膚、赤芽球性皮膚の3群に分類される。最も多い晩発性皮膚ポルフィリン症は、鉄過剰が肝のウロポルフィリン脱炭酸酵素の活性を阻害して生じる。急性肝性ポルフィリン症の急性発作の治療にはヘマチン（ヘミン）の投与が行われ、晩発性皮膚ポルフィリン症では、瀉血で鉄過剰を除去すると皮膚病変が改善する。診断は、DNAに基づく遺伝学的検査が全ての型で可能になっている。
+    condition:
+      region: 国際
+      study: 総説（2012年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-993
+    source: 'Balwani M, Desnick RJ. The porphyrias: advances in diagnosis and treatment. Blood. 2012;120(23):4496-4504.'
+    doi: 10.1182/blood-2012-05-423186
+    pmid: '22791288'
+    pmcid: PMC3512229
+    url: https://doi.org/10.1182/blood-2012-05-423186
+    source_license: PMC収載は著者原稿。CC表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 2012年の総説であり、その後の治療の進展（急性肝性ポルフィリン症への新規治療など）は含まれていない。ヘミン製剤の国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
+    kokushi: 医学各論 Ⅹ-9-C-①（ポルフィリン症、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-029
+  domain: MT
+  subdomain: 亜鉛欠乏症候群（腸性肢端皮膚炎）
+  assertion:
+    plain_statement_ja: 腸性肢端皮膚炎は、亜鉛トランスポーター遺伝子SLC39A4の変異により、腸管での亜鉛吸収が障害されて生じる遺伝性の亜鉛欠乏症である。亜鉛は200を超える金属酵素の構成要素であり、多くの代謝・生化学経路に必須の微量元素である。亜鉛欠乏では皮膚病変、下痢、脱毛などが現れ、吸収不良症候群、肝・腎疾患、不適切な食事、医原性などによる後天性の亜鉛欠乏でも、腸性肢端皮膚炎と同様の臨床像を呈することがある。
+    condition:
+      region: 国際
+      study: 総説（2023年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-994
+    source: 'Jagadeesan S, Kaliyadan F. Acrodermatitis Enteropathica. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK441835.'
+    doi: null
+    pmid: '28722865'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/28722865/
+    source_license: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 皮膚病変・下痢・脱毛という症状は Kiani らの総説（SRC-986）の全文に挙げられた亜鉛欠乏の症状で照合した。本カードの出典の抜粋は病因と後天性欠乏の位置づけが中心で、章の本文はアクセス制限のため全文を確認できていない。亜鉛製剤の国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
+    kokushi: 医学各論 Ⅹ-9-E-③（亜鉛欠乏症候群<腸性肢端皮膚炎>、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-030
+  domain: MT
+  subdomain: Marfan症候群
+  assertion:
+    plain_statement_ja: Marfan症候群は、結合組織の蛋白であるフィブリリンをコードする15番染色体のFBN1遺伝子の異常による、常染色体優性遺伝の結合組織疾患で、頻度は3,000〜5,000人に1人とされる。眼（水晶体脱臼、近視、網膜剥離、白内障）、心血管（大動脈基部の拡張と解離、大動脈弁逆流、僧帽弁逸脱）、骨格（長く細い指、四肢に比べて長い体幹、脊柱側弯、漏斗胸・鳩胸）が主に侵される。生命予後を決めるのは大動脈合併症であり、治療はβ遮断薬などの後負荷を減らす薬剤で大動脈拡張の進行を遅らせ、適切な時期に待機的手術を行うことが中心となる。診断は臨床像に基づいて行われ、特異的な検査は分子遺伝学的検査のみである。
+    condition:
+      region: 国際
+      study: 総説（2023年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-995
+    source: 'Salik I, Rawla P. Marfan Syndrome. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK537339.'
+    doi: null
+    pmid: '30726024'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/30726024/
+    source_license: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 頻度（3,000〜5,000人に1人）は出典の抜粋に報告値として記載されたものである。β遮断薬など後負荷軽減薬のMarfan症候群に対する国内の適応・保険適用は、薬剤ごとに異なると考えられるが、本調査では添付文書で確認していない（未確認）。章の本文はアクセス制限のため全文を確認できていない。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
+    kokushi: 医学各論 Ⅹ-9-F-①（Marfan症候群、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-031
+  domain: MT
+  subdomain: Ehlers-Danlos症候群
+  assertion:
+    plain_statement_ja: Ehlers-Danlos症候群は、関節の過可動性、皮膚の過伸展性、組織の脆弱性を特徴とする、遺伝性結合組織疾患の総称である。2017年の国際分類では、それまで標準だったVillefranche分類の6亜型に代わり、新たに見つかった原因遺伝子の広がりを反映して13亜型が定められた。亜型の間では臨床像の重なりが大きく、過可動型を除く全ての亜型で、原因となる遺伝子変異を同定する分子レベルの確定診断が求められる。過可動型については、他の関節過可動性疾患と区別できるよう臨床基準が改訂された。
+    condition:
+      region: 国際
+      study: 国際分類（2017年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-996
+    source: Malfait F, Francomano C, Byers P, et al. The 2017 international classification of the Ehlers-Danlos syndromes. Am J Med Genet C Semin Med Genet. 2017;175(1):8-26.
+    doi: 10.1002/ajmg.c.31552
+    pmid: '28306229'
+    pmcid: null
+    url: https://doi.org/10.1002/ajmg.c.31552
+    source_license: ライセンス表示を確認できず（© Wiley Periodicals）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 各亜型の個別の臨床基準と原因遺伝子の一覧は、本カードでは抄録で確認できた範囲（13亜型、分子診断の位置づけ）にとどめ、含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
+    kokushi: 医学各論 Ⅹ-9-F-②（Ehlers-Danlos症候群、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-032
+  domain: MT
+  subdomain: 弾性線維性偽性黄色腫
+  assertion:
+    plain_statement_ja: 弾性線維性偽性黄色腫（PXE）は、ABCC6遺伝子の変異による常染色体劣性遺伝の代謝性疾患で、機能するABCC6蛋白の不足により、皮膚・眼・血管の弾性組織に異所性の石灰化が生じる。有病率は25,000〜100,000人に1人と推定され、女性にやや多い。初発症状はほぼ常に、頸部や屈曲部にできる小さい黄色丘疹で、進行すると丘疹が癒合し、皮膚はたるんでしわ状になる。眼では、Bruch膜の石灰化による網膜色素線条をきっかけに脈絡膜新生血管が生じ、進行すると中心視力の喪失に至る。動脈の病変では間欠性跛行などの末梢動脈疾患を来す。血中の抗石灰化因子である無機ピロリン酸（PPi）の低下が機序と考えられており、根治療法はない。
+    condition:
+      region: 国際
+      study: 総説（2017年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-997
+    source: Germain DP. Pseudoxanthoma elasticum. Orphanet J Rare Dis. 2017;12(1):85.
+    doi: 10.1186/s13023-017-0639-8
+    pmid: '28486967'
+    pmcid: PMC5424392
+    url: https://doi.org/10.1186/s13023-017-0639-8
+    source_license: CC BY 4.0（Europe PMCの表示）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 有病率は出典の抄録に推定値として記載された範囲である。ABCC6蛋白が輸送・調節する基質は未解明である旨も同抄録に記載されている。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
+    kokushi: 医学各論 Ⅹ-9-G-①（弾性線維性偽性黄色腫、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-033
+  domain: MT
+  subdomain: 尿酸の産生と排泄（プリン代謝）
+  assertion:
+    plain_statement_ja: ヒトでは尿酸はプリン代謝の最終産物である。キサンチンオキシダーゼ（キサンチンオキシドレダクターゼ）が、ヒポキサンチンをキサンチンへ、キサンチンを尿酸へ変換する2段階を担い、ヒトは機能するウリカーゼを欠くため、尿酸はそれ以上分解されない。尿酸の排泄は、約3分の2が尿中から、残りが主に消化管からである。腎では、糸球体で濾過された尿酸の91〜95%が近位尿細管で再吸収され、この再吸収ではURAT1（SLC22A12）が中心的な役割を果たす。一方、尿細管への分泌にはABCG2などのトランスポーターが関わる。産生と排泄のバランスが崩れることが高尿酸血症の成因となる。
+    condition:
+      region: 国際
+      study: 総説（2018年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-998
+    source: Benn CL, et al. Physiology of hyperuricemia and urate-lowering treatments. Front Med (Lausanne). 2018;5:160.
+    doi: 10.3389/fmed.2018.00160
+    pmid: '29904633'
+    pmcid: PMC5990632
+    url: https://doi.org/10.3389/fmed.2018.00160
+    source_license: CC BY 4.0（Europe PMCの表示）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 濾過された尿酸の再吸収率（91〜95%）と排泄経路の割合は、同総説の本文に引用研究に基づく値として記載されたものである（同総説では通常の尿中尿酸排泄量は成人で620±75 mg/日とされる）。数値は一次研究そのものでは確認していない。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-485 (id: JlvnmNE)'
+    kokushi: 医学各論 Ⅹ-9-B-②（高尿酸血症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-034
+  domain: MT
+  subdomain: Lesch-Nyhan症候群と家族性若年性高尿酸血症性腎症
+  assertion:
+    plain_statement_ja: Lesch-Nyhan症候群は、プリンのサルベージ酵素であるヒポキサンチン-グアニン・ホスホリボシルトランスフェラーゼ（HPRT）の欠損によるX連鎖性の疾患で、尿酸の産生過剰により高尿酸血症・高尿酸尿症、尿路結石、痛風を来し、ジストニアや舞踏アテトーゼ、自傷行為、認知・注意の障害などの神経症状を伴う。家族性若年性高尿酸血症性腎症は、常染色体優性の、尿細管での尿酸再吸収の亢進（排泄の低下）による疾患で、腎機能障害に先行するか、それに不釣り合いな高尿酸血症と、家族性の腎不全を呈する。いずれも小児期から尿酸管理の対象となり、尿酸の産生過剰はアロプリノールで管理できる。
+    condition:
+      region: 英国
+      study: 総説（1993年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-999
+    source: Cameron JS, Moro F, Simmonds HA. Gout, uric acid and purine metabolism in paediatric nephrology. Pediatr Nephrol. 1993;7(1):105-118.
+    doi: 10.1007/BF00861588
+    pmid: '8439471'
+    pmcid: null
+    url: https://doi.org/10.1007/BF00861588
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典は1993年の総説であり、家族性若年性高尿酸血症性腎症の原因遺伝子（ウロモジュリンUMODなど）の同定と、現在の常染色体優性尿細管間質性腎疾患（ADTKD）としての分類は、その後の進展であるため本カードには含めていない。Lesch-Nyhan症候群の神経症状と遺伝形式は、出典表の確認経路に記した Torres & Puig（2007年）の抄録で照合した。アロプリノールの国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-485 (id: JlvnmNE)'
+    kokushi: 医学各論 Ⅹ-9-B-②（高尿酸血症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-035
+  domain: MT
+  subdomain: ビタミンA・K・Eの欠乏
+  assertion:
+    plain_statement_ja: 脂溶性ビタミンA・E・Kは、食事脂肪とともに吸収されるため、脂肪吸収障害があると欠乏を来しやすい。ビタミンAは視覚に必須で、欠乏では夜盲が初期症状となり、眼球乾燥症（ビトー斑）や、進行すると角膜軟化症による失明を来す。ビタミンKは、凝固に関わるビタミンK依存性蛋白の合成に必要で、欠乏ではフィブリノゲンや血小板数が正常でもプロトロンビン時間（PT-INR）が延長して出血傾向を来し、新生児ではビタミンK欠乏性出血症が問題となる。ビタミンE欠乏は食事性のものはまれで、脂肪吸収・代謝の異常や遺伝性疾患に伴って生じ、位置覚・振動覚の低下や筋力低下などの神経症状を来す。また、未熟児ではビタミンEの貯蔵が少ない。
+    condition:
+      region: 国際
+      study: 総説（2022年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-990
+    source: 'Reddy P, Jialal I. Biochemistry, Fat Soluble Vitamins. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK534869.'
+    doi: null
+    pmid: '30521290'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/30521290/
+    source_license: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 各ビタミンの欠乏症状の具体は、出典表の確認経路に記した文献（ビタミンAは Carazo らと Kiani ら、ビタミンKは Kiani らと Daley らの章、ビタミンEは Kemnic らの章と Kiani ら）で照合した内容であり、本カードの出典の抜粋は脂溶性ビタミンの役割と欠乏症候群を扱う旨にとどまる。章の本文はアクセス制限のため全文を確認できていない。ビタミンDの欠乏（骨代謝の側面）は第20回の範囲として本カードには含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)'
+    kokushi: 医学各論 Ⅹ-9-A-①（ビタミン欠乏症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-036
+  domain: MT
+  subdomain: ナイアシン・ビタミンB6の異常（過剰と欠乏）
+  assertion:
+    plain_statement_ja: ナイアシン（ビタミンB3）の欠乏はペラグラ（皮膚炎、下痢、精神症状）を来す。過剰では、100 mgを超える摂取で皮膚の紅潮（フラッシング）が起こり、米国・カナダの耐容上限量はこの作用に基づいて35 mg/日とされる。1 g以上の長期摂取では、悪心・嘔吐・下痢や、まれに肝障害が報告されている。ビタミンB6の欠乏では、貧血のほか、易刺激性、抑うつ、認知機能の低下、痙攣などが現れ、アルコール依存や加齢に伴う吸収低下が危険因子となる。過剰では、1,000 mgを超える長期摂取で可逆性の感覚性ニューロパチーが報告されており、米国の耐容上限量は100 mg/日とされる。
+    condition:
+      region: 国際
+      study: 総説（2016年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1000
+    source: 'Kennedy DO. B Vitamins and the Brain: Mechanisms, Dose and Efficacy—A Review. Nutrients. 2016;8(2):68.'
+    doi: 10.3390/nu8020068
+    pmid: '26828517'
+    pmcid: PMC4772032
+    url: https://doi.org/10.3390/nu8020068
+    source_license: CC BY 4.0（Crossrefのライセンス表示）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 耐容上限量と過剰摂取の用量は、同総説の本文に記載された米国・カナダおよび米国の値であり、日本の食事摂取基準の耐容上限量とは限らない。ビタミンB6の過剰については、750 mg/日までの長期投与試験でニューロパチーを認めなかった報告も同総説に併記されており、上限量の設定には不確実性がある。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)'
+    kokushi: 医学各論 Ⅹ-9-A-②（ビタミン過剰症、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
