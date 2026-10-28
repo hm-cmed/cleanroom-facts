@@ -1,0 +1,1750 @@
+- id: ST-001
+  domain: ST
+  subdomain: 脳内出血
+  assertion:
+    plain_statement_ja: 高血圧性脳出血は、穿通枝の支配領域である大脳基底核（被殻・尾状核）、視床、脳幹（橋）、小脳などの深部構造に好発する。
+    condition:
+      population: 高血圧を有する成人の脳内出血患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1562
+    source: 'Greenberg SM, et al. 2022 Guideline for the Management of Patients With Spontaneous Intracerebral Hemorrhage: A Guideline From the AHA/ASA. Stroke. 2022;53(7):e282-e361'
+    doi: 10.1161/STR.0000000000000407
+    pmid: '35579034'
+    pmcid: null
+    url: https://doi.org/10.1161/STR.0000000000000407
+    source_license: AHA/ASAガイドライン（Stroke誌、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 部位の列挙はガイドライン本文の記載に基づく。各部位の頻度の数値は本カードでは扱わない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-A-①（高血圧性脳出血、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-026 (id: JlvnlcA)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-002
+  domain: ST
+  subdomain: 脳内出血
+  assertion:
+    plain_statement_ja: 脳出血では出血部位により症状が異なり、被殻出血では対側の片麻痺と感覚障害、視床出血では感覚障害、小脳出血では運動失調と嘔吐、橋出血では意識障害と四肢麻痺がみられる。
+    condition:
+      population: 脳内出血患者
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1561
+    source: 日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 日本脳卒中学会の著作物（書籍、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ガイドラインの症候の記載に基づく。個別の頻度は示していない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-A-①（高血圧性脳出血、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-026 (id: JlvnlcA)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-003
+  domain: ST
+  subdomain: 脳内出血
+  assertion:
+    plain_statement_ja: 発症6時間以内で収縮期血圧150〜220 mmHgの脳内出血患者に対する、1時間以内に収縮期血圧140 mmHg未満を目指す積極的降圧は、通常治療（180 mmHg未満）と比べて90日後の死亡または重度障害（modified Rankin Scale 3〜6）を有意には減らさなかったが（52.0%対55.6%、オッズ比0.87）、順序解析では機能転帰の改善が示された（INTERACT2、2839例）。
+    condition:
+      population: 発症6時間以内の自発性脳内出血で収縮期血圧が上昇した患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1563
+    source: Anderson CS, et al.; INTERACT2 Investigators. Rapid blood-pressure lowering in patients with acute intracerebral hemorrhage. N Engl J Med. 2013;368(25):2355-2365
+    doi: 10.1056/NEJMoa1214609
+    pmid: '23713578'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1214609
+    source_license: NEJM（Massachusetts Medical Society、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録で確認。主要評価項目の群間差は有意水準に達しなかった（p=0.06）。降圧薬の種類は担当医の選択であり、特定の薬剤の効果を示す結果ではない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-A-①（高血圧性脳出血、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-026 (id: JlvnlcA)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-004
+  domain: ST
+  subdomain: 脳内出血
+  assertion:
+    plain_statement_ja: 脳内出血患者に対するニカルジピン持続静注による収縮期血圧110〜139 mmHgへの強化降圧は、標準治療（140〜179 mmHg）と比べて3か月後の死亡または障害（modified Rankin Scale 4〜6）を減らさず（38.7%対37.7%、相対リスク1.04）、7日以内の腎有害事象が多かった（9.0%対4.0%）（ATACH-2、1000例）。
+    condition:
+      population: 発症4.5時間以内に治療を開始した脳内出血患者（血腫量60 mL未満、GCS 5点以上）
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1564
+    source: Qureshi AI, et al.; ATACH-2 Trial Investigators. Intensive Blood-Pressure Lowering in Patients with Acute Cerebral Hemorrhage. N Engl J Med. 2016;375(11):1033-1043
+    doi: 10.1056/NEJMoa1603460
+    pmid: '27276234'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1603460
+    source_license: NEJM（Massachusetts Medical Society、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録で確認。ニカルジピンは国内で承認された降圧薬である（適応の詳細は添付文書による）。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-A-①（高血圧性脳出血、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-026 (id: JlvnlcA)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-005
+  domain: ST
+  subdomain: 脳内出血
+  assertion:
+    plain_statement_ja: 日本の脳卒中治療ガイドライン2021（改訂2023）は、脳出血急性期の血圧高値に対して、ニカルジピンの持続静注により収縮期血圧を140 mmHg未満に安定して保つことを妥当としている。
+    condition:
+      population: 脳出血急性期の患者
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1561
+    source: 日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 日本脳卒中学会の著作物（書籍、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ガイドラインの推奨文に基づく。ニカルジピンは国内承認薬である。なお2025年に改訂2025が公開されており、同じ趣旨の推奨が維持されていることを公開テキストで確認した。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-A-①（高血圧性脳出血、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-026 (id: JlvnlcA)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-006
+  domain: ST
+  subdomain: 脳内出血
+  assertion:
+    plain_statement_ja: 脳表に近い脳葉出血（10〜100 mL、脳室内出血なし）に対する早期手術は、初期保存的治療と比べて6か月後の転帰を有意に改善しなかった（転帰不良59%対62%、オッズ比0.86）（STICH II、601例）。
+    condition:
+      population: 発症48時間以内に受診した表在性脳葉出血の患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1565
+    source: 'Mendelow AD, et al.; STICH II Investigators. Early surgery versus initial conservative treatment in patients with spontaneous supratentorial lobar intracerebral haematomas (STICH II): a randomised trial. Lancet. 2013;382(9890):397-408'
+    doi: 10.1016/S0140-6736(13)60986-1
+    pmid: '23726393'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(13)60986-1
+    source_license: CC BY-NC-ND 3.0（Crossrefのlicense欄で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録で確認。予後予測スコアが不良な群では生存の利益の可能性が示唆されたが、全体では有意差はなかった。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-A-①（高血圧性脳出血、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-026 (id: JlvnlcA)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-007
+  domain: ST
+  subdomain: 脳内出血
+  assertion:
+    plain_statement_ja: 神経学的に悪化している場合、脳幹が圧迫されている場合、または脳室閉塞による水頭症を伴う小脳出血では、血腫除去術を行うことが推奨される。
+    condition:
+      population: 小脳出血患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1562
+    source: 'Greenberg SM, et al. 2022 Guideline for the Management of Patients With Spontaneous Intracerebral Hemorrhage: A Guideline From the AHA/ASA. Stroke. 2022;53(7):e282-e361'
+    doi: 10.1161/STR.0000000000000407
+    pmid: '35579034'
+    pmcid: null
+    url: https://doi.org/10.1161/STR.0000000000000407
+    source_license: AHA/ASAガイドライン（Stroke誌、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ガイドラインの推奨文に基づく。血腫量の閾値を含む推奨の全文はガイドライン本文による。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-A-①（高血圧性脳出血、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-026 (id: JlvnlcA)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-008
+  domain: ST
+  subdomain: アミロイドアンギオパチー
+  assertion:
+    plain_statement_ja: Boston criteria version 2.0では、50歳以上で、脳葉に限局した出血性病変（脳内出血、微小出血、皮質表層鉄沈着症・円蓋部くも膜下出血）が2つ以上ある場合、または脳葉の出血性病変1つと白質病変（半卵円中心の重度血管周囲腔拡大、または多発斑状の白質高信号）のいずれか1つがある場合に、深部の出血性病変がなければprobable CAA（ほぼ確実な脳アミロイドアンギオパチー）と診断する。
+    condition:
+      population: 50歳以上で脳内出血、認知機能障害または一過性局所神経症状を呈した患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1566
+    source: 'Charidimou A, et al. The Boston criteria version 2.0 for cerebral amyloid angiopathy: a multicentre, retrospective, MRI-neuropathology diagnostic accuracy study. Lancet Neurol. 2022;21(8):714-725'
+    doi: 10.1016/S1474-4422(22)00208-3
+    pmid: '35841910'
+    pmcid: null
+    url: https://doi.org/10.1016/S1474-4422(22)00208-3
+    source_license: The Lancet Neurology（Elsevier、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 基準の定義は論文のPanel（表）から読み取り。小脳の出血性病変は脳葉・深部のいずれにも数えない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-A-②（アミロイドアンギオパチー、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-026 (id: JlvnlcA)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-009
+  domain: ST
+  subdomain: アミロイドアンギオパチー
+  assertion:
+    plain_statement_ja: Boston criteria version 2.0のprobable CAAの診断精度は、剖検を診断標準とした解析で感度74.5%、特異度95.0%であり、旧基準（感度64.5%、特異度95.0%）と比べて特異度を保ったまま感度が向上した。
+    condition:
+      population: 病理学的に脳アミロイドアンギオパチーの評価が行われた患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1566
+    source: 'Charidimou A, et al. The Boston criteria version 2.0 for cerebral amyloid angiopathy: a multicentre, retrospective, MRI-neuropathology diagnostic accuracy study. Lancet Neurol. 2022;21(8):714-725'
+    doi: 10.1016/S1474-4422(22)00208-3
+    pmid: '35841910'
+    pmcid: null
+    url: https://doi.org/10.1016/S1474-4422(22)00208-3
+    source_license: The Lancet Neurology（Elsevier、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録で確認。コホートにより感度・特異度は異なり、脳内出血で発症した患者以外では感度が下がる。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-A-②（アミロイドアンギオパチー、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-026 (id: JlvnlcA)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-010
+  domain: ST
+  subdomain: アミロイドアンギオパチー
+  assertion:
+    plain_statement_ja: 脳アミロイドアンギオパチーに関連する脳葉出血の既往がある患者では、抗血栓療法により脳出血再発のリスクが高まるため、抗凝固療法・抗血小板療法の適応は有益性と再発リスクを衡量して慎重に判断する必要がある。
+    condition:
+      population: 脳アミロイドアンギオパチーによる脳葉出血の既往がある患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1562
+    source: 'Greenberg SM, et al. 2022 Guideline for the Management of Patients With Spontaneous Intracerebral Hemorrhage: A Guideline From the AHA/ASA. Stroke. 2022;53(7):e282-e361'
+    doi: 10.1161/STR.0000000000000407
+    pmid: '35579034'
+    pmcid: null
+    url: https://doi.org/10.1161/STR.0000000000000407
+    source_license: AHA/ASAガイドライン（Stroke誌、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ガイドラインの記載に基づく一般論であり、個別の再発率の数値は本カードでは扱わない。抗血栓薬の国内承認・保険適用は薬剤ごとに添付文書での確認が必要である。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-A-②（アミロイドアンギオパチー、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-026 (id: JlvnlcA)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-011
+  domain: ST
+  subdomain: くも膜下出血
+  assertion:
+    plain_statement_ja: 動脈瘤性くも膜下出血は、突然発症し瞬時に最強となる激しい頭痛（雷鳴頭痛）を特徴とし、嘔吐、意識障害、痙攣発作を伴うことがある。
+    condition:
+      population: 動脈瘤性くも膜下出血患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1567
+    source: 'Hoh BL, et al. 2023 Guideline for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage: A Guideline From the AHA/ASA. Stroke. 2023;54(7):e314-e370'
+    doi: 10.1161/STR.0000000000000436
+    pmid: '37212182'
+    pmcid: null
+    url: https://doi.org/10.1161/STR.0000000000000436
+    source_license: AHA/ASAガイドライン（Stroke誌、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ガイドラインの臨床像の記載に基づく。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-B-①（脳動脈瘤、解離性脳動脈瘤、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-027 (id: JlvnlcE)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-012
+  domain: ST
+  subdomain: くも膜下出血
+  assertion:
+    plain_statement_ja: WFNS分類はGlasgow Coma Scaleに基づくくも膜下出血の重症度分類で、グレードIはGCS 15点、グレードIIはGCS 13〜14点で運動障害なし、グレードIIIはGCS 13〜14点で運動障害あり、グレードIVはGCS 7〜12点、グレードVはGCS 3〜6点と定義され、グレードが高いほど予後が不良である。
+    condition:
+      population: くも膜下出血患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1567
+    source: 'Hoh BL, et al. 2023 Guideline for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage: A Guideline From the AHA/ASA. Stroke. 2023;54(7):e314-e370'
+    doi: 10.1161/STR.0000000000000436
+    pmid: '37212182'
+    pmcid: null
+    url: https://doi.org/10.1161/STR.0000000000000436
+    source_license: AHA/ASAガイドライン（Stroke誌、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 分類の定義はガイドラインの表から読み取り。Hunt & Kosnik分類も併用されるが、本カードではWFNS分類のみを扱う。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-B-①（脳動脈瘤、解離性脳動脈瘤、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-027 (id: JlvnlcE)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-013
+  domain: ST
+  subdomain: くも膜下出血
+  assertion:
+    plain_statement_ja: Fisher分類およびmodified Fisher分類は、発症時の頭部CTにおけるくも膜下血液の量と分布（脳室内出血の有無を含む）に基づき、脳血管攣縮と遅発性脳虚血のリスクを層別化する分類である。
+    condition:
+      population: 動脈瘤性くも膜下出血患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1567
+    source: 'Hoh BL, et al. 2023 Guideline for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage: A Guideline From the AHA/ASA. Stroke. 2023;54(7):e314-e370'
+    doi: 10.1161/STR.0000000000000436
+    pmid: '37212182'
+    pmcid: null
+    url: https://doi.org/10.1161/STR.0000000000000436
+    source_license: AHA/ASAガイドライン（Stroke誌、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 分類の構成はガイドラインの表から読み取り。各グレードの定義の詳細は表による。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-B-①（脳動脈瘤、解離性脳動脈瘤、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-027 (id: JlvnlcE)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-014
+  domain: ST
+  subdomain: くも膜下出血
+  assertion:
+    plain_statement_ja: 破裂脳動脈瘤の再出血は発症後早期に多く、転帰を著しく悪化させるため、再出血を防ぐための動脈瘤治療（クリッピングまたはコイリング）は可能な限り早期に行うことが推奨される。
+    condition:
+      population: 破裂脳動脈瘤によるくも膜下出血患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1567
+    source: 'Hoh BL, et al. 2023 Guideline for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage: A Guideline From the AHA/ASA. Stroke. 2023;54(7):e314-e370'
+    doi: 10.1161/STR.0000000000000436
+    pmid: '37212182'
+    pmcid: null
+    url: https://doi.org/10.1161/STR.0000000000000436
+    source_license: AHA/ASAガイドライン（Stroke誌、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ガイドラインの推奨に基づく。再出血率の具体的な数値は本カードでは扱わない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-B-①（脳動脈瘤、解離性脳動脈瘤、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-027 (id: JlvnlcE)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-015
+  domain: ST
+  subdomain: 脳動脈瘤
+  assertion:
+    plain_statement_ja: クリッピングとコイリングの両方が可能と判断された破裂脳動脈瘤では、コイリング群の1年後の死亡または依存（modified Rankin Scale 3〜6）の割合がクリッピング群より低かった（23.5%対30.9%）（ISAT、2143例）。
+    condition:
+      population: 両治療法のいずれも可能と判断された破裂脳動脈瘤患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1568
+    source: 'Molyneux AJ, et al.; ISAT Collaborative Group. International Subarachnoid Aneurysm Trial (ISAT) of neurosurgical clipping versus endovascular coiling in 2143 patients with ruptured intracranial aneurysms: a randomised comparison. Lancet. 2005;366(9488):809-817'
+    doi: 10.1016/S0140-6736(05)67214-5
+    pmid: '16139655'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(05)67214-5
+    source_license: The Lancet（Elsevier、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録で確認。対象は両治療が可能と判断された症例に限られ、後方循環や中大脳動脈の動脈瘤は少数であった。治療後の再出血はコイリング群でやや多かった。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-B-①（脳動脈瘤、解離性脳動脈瘤、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-027 (id: JlvnlcE)；TBL-01-00-030 (id: Jlvnlcg)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-016
+  domain: ST
+  subdomain: くも膜下出血
+  assertion:
+    plain_statement_ja: 日本で実施された第3相試験2件では、クラゾセンタン10 mg/時の持続静注（発症48時間以内に開始し、最長15日間）により、脳血管攣縮に関連する罹患率と全死亡の複合イベントが、コイリング後では28.8%から13.6%に（相対リスク減少53%）、クリッピング後では39.6%から16.2%に（同59%）有意に減少した（各試験221例）。
+    condition:
+      population: 動脈瘤性くも膜下出血後の日本人患者
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1570
+    source: 'Endo H, et al. Effects of clazosentan on cerebral vasospasm-related morbidity and all-cause mortality after aneurysmal subarachnoid hemorrhage: two randomized phase 3 trials in Japanese patients. J Neurosurg. 2022'
+    doi: 10.3171/2022.2.JNS212914
+    pmid: '35364589'
+    pmcid: null
+    url: https://doi.org/10.3171/2022.2.JNS212914
+    source_license: CC BY-NC-ND 4.0（Crossrefのlicense欄で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録で確認。クラゾセンタンは国内で承認されている（2022年に承認、商品名ピヴラッツ）。欧米では承認されておらず、地域差がある。有害事象として体液貯留に関連する事象（肺水腫、胸水、低ナトリウム血症など）に注意が必要である。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-B-①（脳動脈瘤、解離性脳動脈瘤、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-027 (id: JlvnlcE)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-017
+  domain: ST
+  subdomain: くも膜下出血
+  assertion:
+    plain_statement_ja: 経口ニモジピン60 mgを4時間ごとに21日間投与する治療（発症96時間以内に開始）は、くも膜下出血後の脳梗塞の発生を33%から22%へ（相対減少34%）、転帰不良（死亡・植物状態・重度障害）を33%から20%へ（同40%）減らした（British aneurysm nimodipine trial、554例）。
+    condition:
+      population: くも膜下出血患者（英国の多施設試験）
+      region: 欧州
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1572
+    source: 'Pickard JD, et al. Effect of oral nimodipine on cerebral infarction and outcome after subarachnoid haemorrhage: British aneurysm nimodipine trial. BMJ. 1989;298(6674):636-642'
+    doi: 10.1136/bmj.298.6674.636
+    pmid: '2496789'
+    pmcid: null
+    url: https://doi.org/10.1136/bmj.298.6674.636
+    source_license: BMJ（CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録で確認。ニモジピンは国内未承認薬であり、日本ではこの治療は行えない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-B-①（脳動脈瘤、解離性脳動脈瘤、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-027 (id: JlvnlcE)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-018
+  domain: ST
+  subdomain: くも膜下出血
+  assertion:
+    plain_statement_ja: AHA/ASAガイドライン2023は、動脈瘤性くも膜下出血の患者に対し、遅発性脳虚血の予防と転帰改善のために経口ニモジピンを投与することを推奨している（Class 1）。
+    condition:
+      population: 動脈瘤性くも膜下出血患者
+      region: 米国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1567
+    source: 'Hoh BL, et al. 2023 Guideline for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage: A Guideline From the AHA/ASA. Stroke. 2023;54(7):e314-e370'
+    doi: 10.1161/STR.0000000000000436
+    pmid: '37212182'
+    pmcid: null
+    url: https://doi.org/10.1161/STR.0000000000000436
+    source_license: AHA/ASAガイドライン（Stroke誌、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 推奨文はガイドライン本文に基づく。用量は60 mgを4時間ごと、21日間が標準とされる。ニモジピンは国内未承認薬であり、日本では使用できない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-B-①（脳動脈瘤、解離性脳動脈瘤、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-027 (id: JlvnlcE)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-019
+  domain: ST
+  subdomain: くも膜下出血
+  assertion:
+    plain_statement_ja: ニモジピンは日本では承認されていないため、日本の脳卒中治療ガイドライン2021（改訂2023）では、遅発性脳血管攣縮に対してクラゾセンタン、ファスジル、オザグレルナトリウムの静脈内投与を行うことが妥当とされている。
+    condition:
+      population: 動脈瘤性くも膜下出血患者
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1561
+    source: 日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 日本脳卒中学会の著作物（書籍、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 推奨文は改訂2025の公開テキストでも同じ趣旨であることを確認した。クラゾセンタン、塩酸ファスジル、オザグレルナトリウムはいずれも国内承認薬である。ニモジピンの国内未承認は国内の学会資料でも明記されている。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-B-①（脳動脈瘤、解離性脳動脈瘤、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-027 (id: JlvnlcE)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-020
+  domain: ST
+  subdomain: 脳動脈瘤
+  assertion:
+    plain_statement_ja: 日本の未破裂脳動脈瘤の前向きコホート（UCAS Japan、5720例・6697個）では、年間破裂率は0.95%であり、破裂リスクは動脈瘤の大きさ、部位（中大脳動脈に比べて前交通動脈と後交通動脈で高い）、および娘瘤（daughter sac）の有無によって異なった。
+    condition:
+      population: 未破裂脳動脈瘤（3 mm以上）を有する日本人患者
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1569
+    source: The UCAS Japan Investigators (Morita A, et al.). The natural course of unruptured cerebral aneurysms in a Japanese cohort. N Engl J Med. 2012;366(26):2474-2482
+    doi: 10.1056/NEJMoa1113260
+    pmid: '22738097'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1113260
+    source_license: NEJM（Massachusetts Medical Society、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録で確認。治療を受けた動脈瘤は打ち切りとして扱われており、自然歴の解釈には選択バイアスの可能性がある。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-B-①（脳動脈瘤、解離性脳動脈瘤、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-027 (id: JlvnlcE)；TBL-01-00-030 (id: Jlvnlcg)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-021
+  domain: ST
+  subdomain: 脳動脈瘤
+  assertion:
+    plain_statement_ja: UCAS Japanでは、3〜4 mmの動脈瘤に対する破裂のハザード比は、5〜6 mmで1.13、7〜9 mmで3.35、10〜24 mmで9.09、25 mm以上で76.26であり、大きさとともに破裂リスクが著しく上昇した。
+    condition:
+      population: 未破裂脳動脈瘤を有する日本人患者
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1569
+    source: The UCAS Japan Investigators (Morita A, et al.). The natural course of unruptured cerebral aneurysms in a Japanese cohort. N Engl J Med. 2012;366(26):2474-2482
+    doi: 10.1056/NEJMoa1113260
+    pmid: '22738097'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1113260
+    source_license: NEJM（Massachusetts Medical Society、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録で確認。部位別・大きさ別の年間破裂率の表は本文による。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-B-①（脳動脈瘤、解離性脳動脈瘤、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-027 (id: JlvnlcE)；TBL-01-00-030 (id: Jlvnlcg)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-022
+  domain: ST
+  subdomain: 解離性脳動脈瘤
+  assertion:
+    plain_statement_ja: くも膜下出血を来した椎骨動脈解離性動脈瘤では再出血が高率に起こり（本邦62例の検討で37%）、その多くは24時間以内であり、再出血した患者は死亡率が高く転帰が不良であるため、早期の治療介入が必要である。
+    condition:
+      population: 椎骨動脈解離性動脈瘤によるくも膜下出血患者
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1571
+    source: Takagi T, Takayasu M, Suzuki Y, Yoshida J. Prediction of rebleeding from angiographic features in vertebral artery dissecting aneurysms. Neurosurg Rev. 2007;30(1):32-38
+    doi: 10.1007/s10143-006-0049-1
+    pmid: '17061136'
+    pmcid: null
+    url: https://doi.org/10.1007/s10143-006-0049-1
+    source_license: Neurosurgical Review（Springer、テキストマイニング用ライセンスのみ）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録で確認。単一施設の後ろ向き検討であり、再出血率は血管撮影上の形態（狭窄と拡張の型）と後下小脳動脈起始部との位置関係によっても異なった。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-B-①（脳動脈瘤、解離性脳動脈瘤、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-027 (id: JlvnlcE)；TBL-01-00-030 (id: Jlvnlcg)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-023
+  domain: ST
+  subdomain: 脳梗塞
+  assertion:
+    plain_statement_ja: 心原性脳塞栓症は心腔内に形成された血栓が脳動脈を急激に閉塞して生じ、その最大の原因は心房細動であり、発症は突発的で重症化しやすい。
+    condition:
+      population: 心房細動を有する成人
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1585
+    source: Kleindorfer DO et al. 2021 Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack. Stroke 2021
+    doi: 10.1161/STR.0000000000000375
+    pmid: '34024117'
+    pmcid: null
+    url: https://doi.org/10.1161/STR.0000000000000375
+    source_license: AHA/ASAガイドライン（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 心房細動の抗凝固療法そのものの詳細は循環器領域のカードに譲る。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-C-①（心原性脳塞栓症、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-024
+  domain: ST
+  subdomain: 脳梗塞
+  assertion:
+    plain_statement_ja: 心房細動を伴う急性期脳梗塞後のDOAC開始は、ELAN試験では早期開始（軽症・中等症は48時間以内、重症は6〜7日目）と後期開始（軽症3〜4日目、中等症6〜7日目、重症12〜14日目）で30日以内の複合アウトカム（再発脳梗塞・全身性塞栓症・大出血・症候性頭蓋内出血・血管死）は早期群2.9%・後期群4.1%であり、症候性頭蓋内出血は両群とも0.2%であった。
+    condition:
+      population: 心房細動を伴う急性期脳梗塞患者
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1584
+    source: Fischer U et al. Early versus Later Anticoagulation for Stroke with Atrial Fibrillation (ELAN). N Engl J Med 2023
+    doi: 10.1056/NEJMoa2303048
+    pmid: '37222476'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa2303048
+    source_license: NEJM（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: DOACは日本で心房細動の塞栓予防に承認・保険適用がある。開始時期の最終判断は梗塞サイズと出血性変化の画像評価による。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-C-①（心原性脳塞栓症、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-025
+  domain: ST
+  subdomain: 脳梗塞
+  assertion:
+    plain_statement_ja: 日本の脳卒中治療ガイドライン2021（改訂2023）では、心原性脳塞栓症の二次予防として心房細動に対してDOACを含む経口抗凝固療法を行い、抗血小板薬の併用は原則として行わない。
+    condition:
+      population: 心房細動による心原性脳塞栓症患者
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1581
+    source: 日本脳卒中学会 脳卒中治療ガイドライン2021［改訂2023］（書籍）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 日本脳卒中学会ガイドライン（書籍、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: DOAC・ワルファリンは日本で承認・保険適用がある。機械弁・中等度以上の僧帽弁狭窄ではワルファリンが対象となる。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-C-①（心原性脳塞栓症、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-026
+  domain: ST
+  subdomain: 脳梗塞
+  assertion:
+    plain_statement_ja: アテローム血栓性脳梗塞は、頭蓋内外の主幹動脈のアテローム硬化性プラークの破綻と血栓形成により、動脈-動脈塞栓または血行力学性機序で脳梗塞を生じる病型である。
+    condition:
+      population: 非心原性脳梗塞患者
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1585
+    source: Kleindorfer DO et al. 2021 Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack. Stroke 2021
+    doi: 10.1161/STR.0000000000000375
+    pmid: '34024117'
+    pmcid: null
+    url: https://doi.org/10.1161/STR.0000000000000375
+    source_license: AHA/ASAガイドライン（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ''
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-C-②（アテローム血栓性脳梗塞、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-027
+  domain: ST
+  subdomain: 脳梗塞
+  assertion:
+    plain_statement_ja: 軽症脳梗塞・高リスクTIAに対するアスピリンとクロピドグレルの併用（DAPT）は発症後早期に開始し、併用期間は21日間を基本として、その後は抗血小板薬単剤に切り替える。
+    condition:
+      population: 軽症脳梗塞・高リスクTIA患者
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1585
+    source: Kleindorfer DO et al. 2021 Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack. Stroke 2021
+    doi: 10.1161/STR.0000000000000375
+    pmid: '34024117'
+    pmcid: null
+    url: https://doi.org/10.1161/STR.0000000000000375
+    source_license: AHA/ASAガイドライン（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: アスピリン・クロピドグレルは日本で脳梗塞再発予防に承認・保険適用がある。POINT試験では併用で大出血が増加したため長期併用は避ける。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-C-②（アテローム血栓性脳梗塞、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-028
+  domain: ST
+  subdomain: 脳梗塞
+  assertion:
+    plain_statement_ja: CHANCE試験では、発症24時間以内の軽症脳梗塞・TIAに対してクロピドグレルとアスピリンの併用はアスピリン単独より90日以内の脳卒中再発が少なく（8.2%対11.7%、ハザード比0.68）、中等度・重度出血は増えなかった。
+    condition:
+      population: 発症24時間以内の軽症脳梗塞・TIA患者（中国）
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1586
+    source: Wang Y et al. Clopidogrel with aspirin in acute minor stroke or transient ischemic attack (CHANCE). N Engl J Med 2013
+    doi: 10.1056/NEJMoa1215340
+    pmid: '23803136'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1215340
+    source_license: NEJM（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 対象は中国の集団であり、CYP2C19多型の頻度など日本への外挿には注意する。薬剤は国内承認・保険適用あり。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-C-②（アテローム血栓性脳梗塞、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-029
+  domain: ST
+  subdomain: 脳梗塞
+  assertion:
+    plain_statement_ja: 日本のCSPS.com試験では、再発リスクの高い非心原性脳梗塞に対してシロスタゾールとアスピリンまたはクロピドグレルの併用は、単剤療法より虚血性脳卒中再発が少なく（年率2.2%対4.5%、ハザード比0.49）、重篤な出血のリスクは同等であった。
+    condition:
+      population: 再発高リスクの非心原性脳梗塞患者（日本）
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1588
+    source: Toyoda K et al. Dual antiplatelet therapy using cilostazol for secondary prevention in patients with high-risk ischaemic stroke in Japan (CSPS.com). Lancet Neurol 2019
+    doi: 10.1016/S1474-4422(19)30148-6
+    pmid: '31122494'
+    pmcid: null
+    url: https://doi.org/10.1016/S1474-4422(19)30148-6
+    source_license: Lancet Neurology（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: シロスタゾールは日本で脳梗塞再発予防に承認・保険適用がある。うっ血性心不全では禁忌である。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-C-②（アテローム血栓性脳梗塞、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-030
+  domain: ST
+  subdomain: 脳梗塞
+  assertion:
+    plain_statement_ja: 日本では発症4.5時間以内の急性期脳梗塞に対するrt-PA（アルテプラーゼ）静注療法の用量は0.6mg/kgであり、J-ACTでは3か月後の転帰良好（mRS 0〜1）が36.9%、36時間以内の症候性頭蓋内出血が5.8%であった。
+    condition:
+      population: 発症4.5時間以内の急性期脳梗塞患者（日本）
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1583
+    source: 'Yamaguchi T et al. Alteplase at 0.6 mg/kg for acute ischemic stroke within 3 hours of onset: Japan Alteplase Clinical Trial (J-ACT). Stroke 2006'
+    doi: 10.1161/01.STR.0000227191.01792.e3
+    pmid: '16763187'
+    pmcid: null
+    url: https://doi.org/10.1161/01.STR.0000227191.01792.e3
+    source_license: Stroke誌（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: アルテプラーゼは日本で虚血性脳血管障害に承認・保険適用があり、国内用量は0.6mg/kg（上限等は添付文書参照）。適応時間は国内では4.5時間以内。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-C-②（アテローム血栓性脳梗塞、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-031
+  domain: ST
+  subdomain: 脳梗塞
+  assertion:
+    plain_statement_ja: 米国のAHA/ASAガイドラインでは、適応のある発症4.5時間以内の急性期脳梗塞に対するアルテプラーゼ静注の用量は0.9mg/kg（最大90mg）とされており、日本の承認用量0.6mg/kgとは異なる。
+    condition:
+      population: 発症4.5時間以内の急性期脳梗塞患者（米国）
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1582
+    source: 'Powers WJ et al. Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update. Stroke 2019'
+    doi: 10.1161/STR.0000000000000211
+    pmid: '31662037'
+    pmcid: null
+    url: https://doi.org/10.1161/STR.0000000000000211
+    source_license: Stroke誌 AHA/ASAガイドライン（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードは米国の推奨であり、日本で0.9mg/kgを用いることは承認範囲外である。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-C-②（アテローム血栓性脳梗塞、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-032
+  domain: ST
+  subdomain: 脳梗塞
+  assertion:
+    plain_statement_ja: DAWN試験では、最終健常から6〜24時間で臨床症状と梗塞体積のミスマッチがある前方循環閉塞患者に対して血栓回収療法と標準治療の併用は、標準治療単独より90日後の機能的転帰が良好であった。
+    condition:
+      population: 発症6〜24時間の前方循環主幹動脈閉塞患者
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1595
+    source: Nogueira RG et al. Thrombectomy 6 to 24 Hours after Stroke with a Mismatch between Deficit and Infarct (DAWN). N Engl J Med 2018
+    doi: 10.1056/NEJMoa1706442
+    pmid: '29129157'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1706442
+    source_license: NEJM（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: DEFUSE 3試験では灌流画像で選択した6〜16時間の患者で血栓回収の有効性が示された（SRC-1596）。国内の時間枠・適応は日本のガイドラインと各施設基準に従う。血栓回収用デバイスは国内承認・保険適用がある。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-C-②（アテローム血栓性脳梗塞、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-033
+  domain: ST
+  subdomain: 脳梗塞
+  assertion:
+    plain_statement_ja: ラクナ梗塞は穿通枝領域の小梗塞であり、脳小血管病（細動脈硬化・リポヒアリノーシス等）を背景とし、白質病変・微小出血・血管周囲腔拡大などの小血管病所見を伴うことが多い。
+    condition:
+      population: ラクナ梗塞患者
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1590
+    source: Wardlaw JM et al. Neuroimaging standards for research into small vessel disease (STRIVE). Lancet Neurol 2013
+    doi: 10.1016/S1474-4422(13)70124-8
+    pmid: '23867200'
+    pmcid: null
+    url: https://doi.org/10.1016/S1474-4422(13)70124-8
+    source_license: Lancet Neurology（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ''
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-C-③（ラクナ梗塞、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-034
+  domain: ST
+  subdomain: 脳梗塞
+  assertion:
+    plain_statement_ja: SPS3試験では、最近のラクナ梗塞患者に対するアスピリンへのクロピドグレル追加（長期DAPT）は再発脳卒中を有意に減らさず、出血と死亡を有意に増やした。
+    condition:
+      population: ラクナ梗塞患者
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1589
+    source: SPS3 Investigators. Effects of clopidogrel added to aspirin in patients with recent lacunar stroke. N Engl J Med 2012
+    doi: 10.1056/NEJMoa1204133
+    pmid: '22931315'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1204133
+    source_license: NEJM（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 薬剤はいずれも国内承認・保険適用があるが、ラクナ梗塞への長期DAPTは行わない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-C-③（ラクナ梗塞、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-035
+  domain: ST
+  subdomain: 一過性脳虚血発作
+  assertion:
+    plain_statement_ja: 一過性脳虚血発作（TIA）の現在の定義は時間ではなく組織に基づき、急性梗塞を伴わずに一過性の神経機能障害を来したエピソードを指し、MRIで梗塞があれば時間にかかわらず脳梗塞と診断する。
+    condition:
+      population: TIA疑い患者
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1591
+    source: 'Easton JD et al. Definition and evaluation of transient ischemic attack: AHA/ASA scientific statement. Stroke 2009'
+    doi: 10.1161/STROKEAHA.108.192218
+    pmid: '19423857'
+    pmcid: null
+    url: https://doi.org/10.1161/STROKEAHA.108.192218
+    source_license: Stroke誌 AHA科学的声明（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 日本のガイドラインでも組織ベースの定義が採用されている。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-C-④（一過性脳虚血発作、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-029 (id: JlvnlcY)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-036
+  domain: ST
+  subdomain: 一過性脳虚血発作
+  assertion:
+    plain_statement_ja: ABCD2スコアは年齢・血圧・臨床症状（一側性脱力・言語障害）・症状持続時間・糖尿病の5項目（0〜7点）からなり、TIA後の早期脳卒中リスク層別化に用いる。
+    condition:
+      population: TIA患者
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1592
+    source: Johnston SC et al. Validation and refinement of scores to predict very early stroke risk after transient ischaemic attack (ABCD2). Lancet 2007
+    doi: 10.1016/S0140-6736(07)60150-0
+    pmid: '17258668'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(07)60150-0
+    source_license: Lancet（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: スコアが低くても画像・機序評価を省略せず、緊急評価の要否は総合的に判断する。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-C-④（一過性脳虚血発作、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-029 (id: JlvnlcY)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-037
+  domain: ST
+  subdomain: 一過性脳虚血発作
+  assertion:
+    plain_statement_ja: TIAは脳梗塞の前兆であり、発症直後の再発リスクが高いため、頭部MRI・血管評価・心電図等による機序の緊急評価と、原因に応じた二次予防（抗血小板療法・抗凝固・頸動脈治療等）を直ちに開始する。
+    condition:
+      population: TIA患者
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1585
+    source: Kleindorfer DO et al. 2021 Guideline for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack. Stroke 2021
+    doi: 10.1161/STR.0000000000000375
+    pmid: '34024117'
+    pmcid: null
+    url: https://doi.org/10.1161/STR.0000000000000375
+    source_license: AHA/ASAガイドライン（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 薬剤は国内承認・保険適用があるものを使用する。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-C-④（一過性脳虚血発作、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-029 (id: JlvnlcY)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-038
+  domain: ST
+  subdomain: 脳動脈狭窄・閉塞
+  assertion:
+    plain_statement_ja: CREST試験では、症候性・無症候性の頸動脈狭窄に対して頸動脈ステント留置術と頸動脈内膜剥離術（CEA）の間で主要評価項目（脳卒中・心筋梗塞・死亡の複合）の推定4年率は有意差がなかった（7.2%対6.8%）。
+    condition:
+      population: 頸動脈狭窄患者
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1593
+    source: Brott TG et al. Stenting versus endarterectomy for treatment of carotid-artery stenosis (CREST). N Engl J Med 2010
+    doi: 10.1056/NEJMoa0912321
+    pmid: '20505173'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa0912321
+    source_license: NEJM（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 周術期はステント群で脳卒中が、CEA群で心筋梗塞が相対的に多いことが同試験で示されている。国内での術式選択は日本のガイドラインと狭窄度・症候性で判断する。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-C-⑤（脳動脈狭窄・閉塞、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-039
+  domain: ST
+  subdomain: 脳動脈狭窄・閉塞
+  assertion:
+    plain_statement_ja: 症候性頭蓋内動脈狭窄に対しては、SAMMPRIS試験で積極的内科治療（抗血小板療法と危険因子管理）がステント留置術より優れており（30日以内の脳卒中・死亡14.7%対5.8%）、まず内科治療が基本となる。
+    condition:
+      population: 症候性頭蓋内動脈狭窄患者
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1594
+    source: Chimowitz MI et al. Stenting versus aggressive medical therapy for intracranial arterial stenosis (SAMMPRIS). N Engl J Med 2011
+    doi: 10.1056/NEJMoa1105335
+    pmid: '21899409'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1105335
+    source_license: NEJM（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 薬剤は国内承認・保険適用がある。頭蓋内ステントは国内では限られた適応で判断する。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-C-⑤（脳動脈狭窄・閉塞、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-040
+  domain: ST
+  subdomain: その他の脳血管障害
+  assertion:
+    plain_statement_ja: 脳動脈解離は頭痛・頸部痛で発症することが多く、脳梗塞・TIAのほかHorner症候群などの局所症状を来し、画像では壁内血腫・内膜フラップ・数珠状変化などが診断の手がかりとなる。
+    condition:
+      population: 脳動脈解離患者
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1598
+    source: 'Debette S, Leys D. Cervical-artery dissections: predisposing factors, diagnosis, and outcome. Lancet Neurol 2009'
+    doi: 10.1016/S1474-4422(09)70084-5
+    pmid: '19539238'
+    pmcid: null
+    url: https://doi.org/10.1016/S1474-4422(09)70084-5
+    source_license: Lancet Neurology（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 頭蓋内解離ではくも膜下出血を来す場合があり、治療方針が頭蓋外解離と異なる。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-D-①（脳動脈解離、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-041
+  domain: ST
+  subdomain: その他の脳血管障害
+  assertion:
+    plain_statement_ja: CADISS試験では、症候性の頸部動脈（頸動脈・椎骨動脈）解離に対する抗血小板療法と抗凝固療法の間で脳卒中・死亡の予防効果に差はなく、再発脳卒中自体が両群ともまれであった。
+    condition:
+      population: 症候性頸部動脈解離患者
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1597
+    source: Markus HS et al. Antiplatelet treatment compared with anticoagulation treatment for cervical artery dissection (CADISS). Lancet Neurol 2015
+    doi: 10.1016/S1474-4422(15)70018-9
+    pmid: '25684164'
+    pmcid: null
+    url: https://doi.org/10.1016/S1474-4422(15)70018-9
+    source_license: CC BY（Lancet Neurology、Crossref・本文で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 抗血小板薬・抗凝固薬はいずれも国内承認・保険適用がある薬剤から選択する。頭蓋内解離・くも膜下出血例は対象外である。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-D-①（脳動脈解離、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-042
+  domain: ST
+  subdomain: その他の脳血管障害
+  assertion:
+    plain_statement_ja: Spetzler-Martin分類は脳動静脈奇形を、大きさ（3cm未満・3〜6cm・6cm超）、 eloquent領域への近接、静脈還流（表在性・深部）の3要素の合計（grade I〜V）で分類し、手術リスク評価に用いる。
+    condition:
+      population: 脳動静脈奇形患者
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1599
+    source: Spetzler RF, Martin NA. A proposed grading system for arteriovenous malformations. J Neurosurg 1986
+    doi: 10.3171/jns.1986.65.4.0476
+    pmid: '3760956'
+    pmcid: null
+    url: https://doi.org/10.3171/jns.1986.65.4.0476
+    source_license: Journal of Neurosurgery（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ''
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-D-②（脳動静脈奇形、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-031 (id: Jlvnlck)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-043
+  domain: ST
+  subdomain: その他の脳血管障害
+  assertion:
+    plain_statement_ja: ARUBA試験では、未破裂脳動静脈奇形に対して内科治療単独は介入治療（手術・塞栓・定位放射線の単独または併用）併用より死亡・脳卒中の予防に優れており、平均33か月の追跡で内科治療単独が優位であった。
+    condition:
+      population: 未破裂脳動静脈奇形患者
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1600
+    source: Mohr JP et al. Medical management with or without interventional therapy for unruptured brain arteriovenous malformations (ARUBA). Lancet 2014
+    doi: 10.1016/S0140-6736(13)62302-8
+    pmid: '24268105'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(13)62302-8
+    source_license: Lancet（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 破裂例は対象外であり、治療は症例ごとに専門施設で判断する。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-D-②（脳動静脈奇形、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-031 (id: Jlvnlck)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-044
+  domain: ST
+  subdomain: その他の脳血管障害
+  assertion:
+    plain_statement_ja: 脳静脈洞血栓症の危険因子には妊娠・産褥、経口避妊薬、血栓性素因、感染症、悪性腫瘍などがあり、診断はMR venography等の静脈系画像で血栓と静脈洞の描出欠損を確認して行う。
+    condition:
+      population: 脳静脈洞血栓症疑い患者
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1601
+    source: 'Saposnik G et al. Diagnosis and Management of Cerebral Venous Thrombosis: A Scientific Statement From the AHA. Stroke 2024'
+    doi: 10.1161/STR.0000000000000456
+    pmid: '38284265'
+    pmcid: null
+    url: https://doi.org/10.1161/STR.0000000000000456
+    source_license: Stroke誌 AHA科学的声明（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 頭痛が主症状で、頭蓋内圧亢進・てんかん・局所症状を伴うことがある。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-D-③（静脈洞血栓症、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-045
+  domain: ST
+  subdomain: その他の脳血管障害
+  assertion:
+    plain_statement_ja: RESPECT-CVT試験では、脳静脈血栓症に対するダビガトランと用量調整ワルファリンの間で再発静脈血栓塞栓症は認めず、出血リスクは同等であり、ダビガトランはワルファリンと同様に安全で有効な選択肢となりうることが示された。
+    condition:
+      population: 脳静脈洞血栓症患者
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1602
+    source: Ferro JM et al. Safety and Efficacy of Dabigatran Etexilate vs Dose-Adjusted Warfarin in Patients With Cerebral Venous Thrombosis (RESPECT-CVT). JAMA Neurol 2019
+    doi: 10.1001/jamaneurol.2019.2764
+    pmid: '31479105'
+    pmcid: null
+    url: https://doi.org/10.1001/jamaneurol.2019.2764
+    source_license: JAMA Neurology（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ダビガトラン・ワルファリンは国内承認薬だが、脳静脈血栓症への保険適用は添付文書で確認すること（本カード作成時点では個別確認未実施）。急性期はヘパリンによる抗凝固が先行する。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-D-③（静脈洞血栓症、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-046
+  domain: ST
+  subdomain: その他の脳血管障害
+  assertion:
+    plain_statement_ja: もやもや病の診断は、両側の内頸動脈終末部を中心とする狭窄・閉塞と、異常血管網（もやもや血管）の存在を血管画像で確認することに基づき、厚労省研究班の診断基準（2021年改訂）では片側例も条件付きで含まれる。
+    condition:
+      population: もやもや病疑い患者
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1603
+    source: Kuroda S et al. Diagnostic Criteria for Moyamoya Disease - 2021 Revised Version. Neurol Med Chir (Tokyo) 2022
+    doi: 10.2176/jns-nmc.2022-0072
+    pmid: '35613882'
+    pmcid: null
+    url: https://doi.org/10.2176/jns-nmc.2022-0072
+    source_license: Neurologia medico-chirurgica（CC BY-NC-ND、学会誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 鈴木分類は脳血管撮影による進行度分類（I〜VI期）であり、診断基準の画像所見と併せて用いる。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-D-④（もやもや病、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-032 (id: Jlvnlcs)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-047
+  domain: ST
+  subdomain: その他の脳血管障害
+  assertion:
+    plain_statement_ja: JAM試験では、出血発症のもやもや病に対する直接バイパス術は非手術群より有害イベントが少なく（14.3%対34.2%）、再出血予防効果が示唆された。
+    condition:
+      population: 出血発症もやもや病患者（成人）
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1604
+    source: 'Miyamoto S et al. Effects of extracranial-intracranial bypass for patients with hemorrhagic moyamoya disease: Japan Adult Moyamoya Trial (JAM). Stroke 2014'
+    doi: 10.1161/STROKEAHA.113.004386
+    pmid: '24668203'
+    pmcid: null
+    url: https://doi.org/10.1161/STROKEAHA.113.004386
+    source_license: Stroke誌（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 虚血発症例へのバイパスの適応は別途、血行力学的評価に基づき判断する。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-D-④（もやもや病、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-032 (id: Jlvnlcs)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-048
+  domain: ST
+  subdomain: その他の脳血管障害
+  assertion:
+    plain_statement_ja: 硬膜動静脈瘻はCognard分類・Borden分類により静脈還流様式（特に皮質静脈への逆流の有無）で分類され、皮質静脈逆流を伴う病変は出血・神経症状のリスクが高く治療適応となる。
+    condition:
+      population: 硬膜動静脈瘻患者
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1605
+    source: 'Cognard C et al. Cerebral dural arteriovenous fistulas: clinical and angiographic correlation with a revised classification of venous drainage. Radiology 1995'
+    doi: 10.1148/radiology.194.3.7862961
+    pmid: '7862961'
+    pmcid: null
+    url: https://doi.org/10.1148/radiology.194.3.7862961
+    source_license: Radiology誌（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: Borden分類（J Neurosurg 1995、SRC-1606）も併せて用いられる。耳鳴・眼症状など還流先に応じた症状を来す。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-D-⑤（硬膜動静脈瘻、c）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-049
+  domain: ST
+  subdomain: 脳卒中後遺症
+  assertion:
+    plain_statement_ja: 偽性球麻痺は両側の皮質延髄路障害により生じ、構音障害・嚥下障害・舌運動障害を来すが、球麻痺と異なり舌の萎縮・線維束攣縮はなく、強制笑い・強制泣きを伴うことがある。
+    condition:
+      population: 多発性脳梗塞等の両側大脳病変患者
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1581
+    source: 日本脳卒中学会 脳卒中治療ガイドライン2021［改訂2023］（書籍）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 日本脳卒中学会ガイドライン（書籍、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 嚥下評価・訓練の横断的総論は本カードの範囲外とし、脳卒中後の嚥下障害として扱った。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-E-①（偽性球麻痺、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-050
+  domain: ST
+  subdomain: 脳卒中後遺症
+  assertion:
+    plain_statement_ja: AVERT試験では、発症24時間以内の頻回・高用量の超早期離床は通常ケアより3か月後の転帰良好のオッズを下げた（46%対50%、調整オッズ比0.73）ため、早期離床は量と負荷に注意して段階的に進める。
+    condition:
+      population: 急性期脳卒中患者
+      region: 海外
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1607
+    source: AVERT Trial Collaboration. Efficacy and safety of very early mobilisation within 24 h of stroke onset (AVERT). Lancet 2015
+    doi: 10.1016/S0140-6736(15)60690-0
+    pmid: '25892679'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(15)60690-0
+    source_license: Lancet（出版社著作物、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 廃用性萎縮を含む廃用症候群の予防には早期からのリハビリテーションが基本だが、超早期の高負荷離床は避けるというのが本試験の含意である。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-E-②（廃用性萎縮、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）

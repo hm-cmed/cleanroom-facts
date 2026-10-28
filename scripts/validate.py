@@ -31,7 +31,7 @@ for path in sorted(glob.glob(os.path.join(ROOT, "data", "facts", "*.yaml"))):
         status[pub.get("status")] += 1
         if p.get("legal_basis") == "E": errors.append(f"{cid}: legal_basis E は使わない")
         lic = (p.get("source_license") or "").upper()
-        if p.get("source_class") == "OPEN" and re.search(r"NC|ND", lic): errors.append(f"{cid}: OPEN なのに NC/ND")
+        if p.get("source_class") == "OPEN" and re.search(r"(?<![A-Z])(NC|ND)(?![A-Z])", lic): errors.append(f"{cid}: OPEN なのに NC/ND")  # 「LANCET」「AND」などの語の一部は拾わない
         if pub.get("status") == "verified_expert" and not pub.get("verifier"): errors.append(f"{cid}: verified_expert なのに verifier が空")
         if pub.get("status") == "verified_expert" and pub.get("verified_hash") and pub.get("verified_hash") != card_hash(c): warn.append(f"{cid}: 監修後に内容が変わっている（再監修が必要）")
         ref = p.get("source_ref")

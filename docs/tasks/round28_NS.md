@@ -90,6 +90,41 @@
 8. **`curriculum` 欄は必ず埋めてください。** 番号は第7節の表から選び、表にないものは推測せず `null` にしてください。NX のうち各論に当てはまらないもの（症候・検査など）は `kokushi: null` とし、コアカリは別表2-2・2-4 の番号を使ってください。循環器・呼吸器では、この方式でほぼ全件に番号が付き、問題作成の配分計算に使えました。
 9. `subdomain` には、第7節の表の大項目名か中項目名（例：「脳梗塞」「骨粗鬆症」）を入れてください。
 
+10. **カードの形は、次の見本どおりにしてください**（第28〜30回は、`assertion` を文字列にし、`condition`・ライセンスの3欄・`status`・`verifier` を上の階層に置く独自の形になっていたため、取り込み側で移し替えました）。また、` ```yaml ` の行の後で必ず改行してください（第28〜30回は1件目のカードが同じ行に続いていました）。`provenance.locator` のような見本にない欄は作らず、出典の中の場所は `uncertainty` に書いてください。
+
+```yaml
+- id: BD-001
+  domain: BD
+  subdomain: 骨粗鬆症
+  assertion:
+    plain_statement_ja: （自作文の主張）
+    condition:
+      region: 日本
+      対象: 閉経後女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1831
+    source: 著者. 題名. 雑誌. 年;巻(号):頁.
+    doi: 10.xxxx/xxxx
+    pmid: '12345678'
+    pmcid: null
+    url: https://doi.org/10.xxxx/xxxx
+    source_license: CC BY 4.0（Crossref の license 欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: （分からないこと、承認の確認状況、二次資料経由など）
+  curriculum:
+    kokushi: 医学各論 Ⅸ-7-C-①（骨粗鬆症、a）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)；TBL-01-00-132 (id: Jlvnlnw)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+```
+
 ## 3. 内容の確認（これまでの照合で見つかった誤りの傾向）
 
 - **二次資料から写した数値が一次資料と違っていた。** 数値は一次資料（抄録か本文）で確認できたものだけを書き、確認できなかったものは `uncertainty` に「二次資料経由」と書いてください。

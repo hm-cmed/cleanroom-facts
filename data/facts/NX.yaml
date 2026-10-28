@@ -1,0 +1,595 @@
+- id: NX-001
+  domain: NX
+  subdomain: 神経学的診察
+  assertion:
+    plain_statement_ja: Glasgow Coma Scale（GCS）は、開眼（E：自発的に開眼する4点から無反応の1点までの4段階）、発語（V：見当識のある5点から無反応の1点までの5段階）、運動（M：命令に従う6点から無反応の1点までの6段階）の3要素で意識レベルを評価する尺度で、合計点は最低3点から最高15点の範囲をとる。
+    condition:
+      population: 意識障害のある患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1806
+    source: Teasdale G, Jennett B. Assessment of coma and impaired consciousness. A practical scale. Lancet. 1974;2(7872):81-84
+    doi: 10.1016/S0140-6736(74)91639-0
+    pmid: '4136544'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(74)91639-0
+    source_license: The Lancet（Elsevier、テキストマイニング用ライセンスのみでCC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 1974年の原典の構成に基づく。日本では Japan Coma Scale も併用される（NX-002）。小児用などの派生版は本カードでは扱わない。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-03-02 (id: JkxnuPo)；TBL-02-02-021 (id: JlAKpYw)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: NX-002
+  domain: NX
+  subdomain: 神経学的診察
+  assertion:
+    plain_statement_ja: Japan Coma Scale（JCS）は日本で用いられる意識レベル評価尺度で、3-3-9度方式により、刺激しなくても覚醒している状態を一桁（1・2・3）、刺激すると覚醒する状態を二桁（10・20・30）、刺激しても覚醒しない状態を三桁（100・200・300）で表し、300は深昏睡に相当する。
+    condition:
+      population: 意識障害のある患者
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1561
+    source: 日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 日本脳卒中学会の著作物（CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: JCS の原典（太田ら、1974年）の書誌情報は PubMed・Crossref で照合できなかったため、本カードは同ガイドラインに掲載された JCS の評価表に基づく。脳死判定では深昏睡の目安として JCS 300 または GCS 3 が用いられる。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-03-02 (id: JkxnuPo)；TBL-02-02-021 (id: JlAKpYw)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: NX-003
+  domain: NX
+  subdomain: 神経学的診察
+  assertion:
+    plain_statement_ja: 脳幹機能を評価する脳神経反射には、対光反射、角膜反射、毛様体脊髄反射、眼球頭反射、前庭反射、咽頭反射、咳反射の7つがあり、日本の脳死判定基準では、深昏睡と両側瞳孔の固定（瞳孔径4mm以上）に加えて、これらの脳幹反射がすべて消失していることを必須項目として確認する。
+    condition:
+      population: 昏睡患者
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1807
+    source: 厚生省脳死判定基準研究班報告に基づく厚生労働省の脳死判定基準（臓器移植における脳死判定の指針）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 厚生労働省の公的資料（政府標準利用規約の適用は取り込み側で最終確認を要する）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 脳死判定の手続き全体（判定間隔・無呼吸テスト・脳波確認など）は本カードでは扱わない。政府標準利用規約の適用可否は取り込み側で最終確認を要する。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-03-02 (id: JkxnuPo)；TBL-02-02-010 (id: JlAKpX4)；TBL-02-02-021 (id: JlAKpYw)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: NX-004
+  domain: NX
+  subdomain: 神経学的診察
+  assertion:
+    plain_statement_ja: 徒手筋力検査で用いられる Medical Research Council（MRC）スケールは、筋力を0（筋収縮なし）から5（正常な筋力）までの6段階で評価する尺度で、3は重力に抗して関節を動かせる段階、4は重力に加えて抵抗にも抗して動かせる段階に相当する。
+    condition:
+      population: 筋力低下のある患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1808
+    source: Paternostro-Sluga T, Grim-Stieger M, Posch M, et al. Reliability and validity of the Medical Research Council (MRC) scale and a modified scale for testing muscle strength in patients with radial palsy. J Rehabil Med. 2008;40(8):665-671
+    doi: 10.2340/16501977-0235
+    pmid: '19020701'
+    pmcid: null
+    url: https://doi.org/10.2340/16501977-0235
+    source_license: Journal of Rehabilitation Medicine（CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 段階の定義は MRC スケール原法による。検証研究は橈骨神経麻痺患者の前腕筋を対象としたもので、筋群や病態により検者間信頼性は異なりうる。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-03-02 (id: JkxnuPo)；TBL-02-02-026 (id: JlAKpY4)；TBL-02-04-015 (id: JlAKpco)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: NX-005
+  domain: NX
+  subdomain: 神経学的診察
+  assertion:
+    plain_statement_ja: Modified Ashworth Scale は、痙縮の程度を他動運動時の筋緊張から0（筋緊張の亢進なし）から4（罹患部が屈曲・伸展のいずれでも硬直している）までの、1+ を含む6段階で評価する尺度である。
+    condition:
+      population: 痙縮のある患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1809
+    source: Bohannon RW, Smith MB. Interrater reliability of a modified Ashworth scale of muscle spasticity. Phys Ther. 1987;67(2):206-207
+    doi: 10.1093/ptj/67.2.206
+    pmid: '3809245'
+    pmcid: null
+    url: https://doi.org/10.1093/ptj/67.2.206
+    source_license: Physical Therapy誌（CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 原著では頭蓋内病変患者30例の肘屈筋痙縮で検者間一致率86.7%と報告された。他の筋群や病態では信頼性が異なりうる。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-03-02 (id: JkxnuPo)；TBL-02-02-026 (id: JlAKpY4)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: NX-006
+  domain: NX
+  subdomain: 神経学的診察
+  assertion:
+    plain_statement_ja: 感覚診察は皮膚分節（デルマトーム）に沿って評価するのが原則で、脊髄損傷の神経学的分類の国際標準（ISNCSCI）では、C2からS4-5までの28のデルマトームごとに定められたキー感覚点において、軽触覚とピン痛覚（鋭・鈍の識別）を0（消失）・1（障害あり）・2（正常）の3段階で左右別に評価する。
+    condition:
+      population: 感覚障害のある患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1810
+    source: Kirshblum SC, Burns SP, Biering-Sorensen F, et al. International standards for neurological classification of spinal cord injury (revised 2011). J Spinal Cord Med. 2011;34(6):535-546
+    doi: 10.1179/204577211X13207446293695
+    pmid: '22330108'
+    pmcid: null
+    url: https://doi.org/10.1179/204577211X13207446293695
+    source_license: Journal of Spinal Cord Medicine（© American Spinal Injury Association、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ISNCSCI は脊髄損傷の分類のための標準化された評価法であり、デルマトーム評価の枠組みとして示した。デルマトームの分布には重なりと個人差がある。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-03-02 (id: JkxnuPo)；TBL-02-02-008 (id: JlAKpXw)；TBL-02-02-028 (id: JlAKpZA)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: NX-007
+  domain: NX
+  subdomain: 神経学的診察
+  assertion:
+    plain_statement_ja: 運動失調の重症度評価尺度 SARA（Scale for the Assessment and Rating of Ataxia）は、歩行、立位、座位、言語障害、指追い試験、鼻指試験、手の高速反復運動、踵すね試験の8項目からなり、合計0点（失調なし）から40点（最重度）で運動失調の重症度を表す。
+    condition:
+      population: 運動失調のある患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1811
+    source: 'Schmitz-Hübsch T, du Montcel ST, Baliko L, et al. Scale for the assessment and rating of ataxia: development of a new clinical scale. Neurology. 2006;66(11):1717-1720'
+    doi: 10.1212/01.wnl.0000219042.60538.92
+    pmid: '16769946'
+    pmcid: null
+    url: https://doi.org/10.1212/01.wnl.0000219042.60538.92
+    source_license: Neurology誌（American Academy of Neurology、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 原著では脊髄小脳失調症患者で検者間信頼性（級内相関係数0.98）が検証された。各項目の配点の内訳は本カードでは扱わない。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-03-02 (id: JkxnuPo)；TBL-02-02-027 (id: JlAKpY8)；TBL-02-02-031 (id: JlAKpZQ)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: NX-008
+  domain: NX
+  subdomain: 意識障害
+  assertion:
+    plain_statement_ja: 昏睡の原因は、構造性の脳病変、びまん性の神経機能障害（代謝性・中毒性など）、まれに精神科的原因に大別される。初期対応ではまず生命を脅かす状態を安定化させ、続いて病歴・身体診察・検査所見から治療可能な原因を系統的に検索する。低血糖による昏睡はブドウ糖投与に速やかに反応する一方、治療可能な原因であっても診断と治療が遅れれば不可逆的な脳障害に至りうるため、非痙攣性てんかん重積状態、中毒・感染症、内分泌異常、チアミン欠乏などを見落とさない系統的な確認が重要である。
+    condition:
+      population: 昏睡・意識障害の患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1812
+    source: Edlow JA, Rabinstein A, Traub SJ, Wijdicks EFM. Diagnosis of reversible causes of coma. Lancet. 2014;384(9959):2064-2076
+    doi: 10.1016/S0140-6736(13)62184-4
+    pmid: '24767707'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(13)62184-4
+    source_license: The Lancet（Elsevier、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: AIUEO TIPS のような古典的ニーモニックの原典は一次資料で確認できなかったため、本カードは総説が示す構造化された評価の枠組みに基づく。ブドウ糖製剤の用量や製品別の国内承認・保険適用の状況は本カードでは扱わない。個別の原因疾患の診断・治療は各論のカードを参照。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-03-02 (id: JkxnuPo)；PS-02-03-04 (id: JkxnuPw)；TBL-02-02-021 (id: JlAKpYw)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: NX-009
+  domain: NX
+  subdomain: 失神
+  assertion:
+    plain_statement_ja: 2018年の ESC 失神ガイドラインでは、失神は反射性失神、起立性低血圧による失神、心原性失神の3つに分類される。反射性失神は悪心・発汗などの前駆症状や、長時間の立位・痛み・咳嗽・排尿などの誘因を伴いやすく、起立性低血圧による失神は立位での発症、降圧薬の開始・増量との時間的関係、自律神経障害やパーキンソニズムの存在が手がかりとなり、心原性失神は労作中・仰臥位での発症、発症直前の突然の動悸、器質的心疾患の存在が手がかりとなる。
+    condition:
+      population: 失神患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1813
+    source: Brignole M, Moya A, de Lange FJ, et al.; ESC Scientific Document Group. 2018 ESC Guidelines for the diagnosis and management of syncope. Eur Heart J. 2018;39(21):1883-1948
+    doi: 10.1093/eurheartj/ehy037
+    pmid: '29562304'
+    pmcid: null
+    url: https://doi.org/10.1093/eurheartj/ehy037
+    source_license: European Heart Journal（Oxford University Press、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 起立性低血圧の診断には、起立後3分以内に収縮期血圧が20mmHg以上または拡張期血圧が10mmHg以上低下することを確認するのが同ガイドラインの採用する定義である。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-03-02 (id: JkxnuPo)；TBL-02-02-021 (id: JlAKpYw)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: NX-010
+  domain: NX
+  subdomain: 失神
+  assertion:
+    plain_statement_ja: 失神の初期評価で重篤な原因を示唆する高リスク所見（major）として、2018年の ESC ガイドラインは、労作中または仰臥位での失神、突然の動悸に引き続く失神、新規発症の胸部不快感・呼吸困難・腹痛・頭痛、重度の器質的心疾患または冠動脈疾患（心不全、低左室駆出率、心筋梗塞の既往）の存在、原因不明の収縮期血圧90mmHg未満、覚醒時に持続する徐脈（40/分未満、身体鍛錬によるものを除く）、未診断の収縮期雑音、心電図での急性虚血を示す変化や Mobitz II 型・III 度房室ブロックなどを挙げている。
+    condition:
+      population: 失神患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1813
+    source: Brignole M, Moya A, de Lange FJ, et al.; ESC Scientific Document Group. 2018 ESC Guidelines for the diagnosis and management of syncope. Eur Heart J. 2018;39(21):1883-1948
+    doi: 10.1093/eurheartj/ehy037
+    pmid: '29562304'
+    pmcid: null
+    url: https://doi.org/10.1093/eurheartj/ehy037
+    source_license: European Heart Journal（Oxford University Press、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 高リスク所見は同ガイドラインの表からの抜粋であり、全項目の列挙ではない。前駆症状がない・短い（10秒未満）こと、若年での突然死の家族歴、座位での失神は、器質的心疾患や心電図異常を伴う場合に高リスクとされる minor 所見である。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-03-02 (id: JkxnuPo)；TBL-02-02-021 (id: JlAKpYw)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: NX-011
+  domain: NX
+  subdomain: 頭痛
+  assertion:
+    plain_statement_ja: 二次性頭痛を見落とさないための危険徴候を体系化した SNNOOP10 リストは、発熱などの全身症状、腫瘍の既往、神経学的異常（意識レベルの低下を含む）、突然の発症、高齢になってからの新規発症、頭痛のパターンの変化または最近発症した新しい頭痛、体位性の頭痛、くしゃみ・咳・運動で誘発される頭痛、うっ血乳頭、進行性の頭痛や非典型的な経過、妊娠・産褥期、眼痛と自律神経症状の合併、外傷後の発症、HIV など免疫系の病態、鎮痛薬の過剰使用または頭痛発症と時期を同じくする新規薬剤、の15項目を挙げている。
+    condition:
+      population: 頭痛患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1814
+    source: 'Do TP, Remmers A, Schytz HW, et al. Red and orange flags for secondary headaches in clinical practice: SNNOOP10 list. Neurology. 2019;92(3):134-144'
+    doi: 10.1212/WNL.0000000000006697
+    pmid: '30587518'
+    pmcid: null
+    url: https://doi.org/10.1212/WNL.0000000000006697
+    source_license: Neurology誌（American Academy of Neurology、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 一次性頭痛（片頭痛・緊張型頭痛・群発頭痛）の診断基準そのものは第29回 EP のカードを参照。各危険徴候の感度・特異度は前向き研究で十分に検証されていないことが原著で指摘されている。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-03-02 (id: JkxnuPo)；TBL-02-02-025 (id: JlAKpYk)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: NX-012
+  domain: NX
+  subdomain: 髄液検査
+  assertion:
+    plain_statement_ja: 細菌性髄膜炎が疑われる成人では、免疫不全状態、中枢神経系疾患の既往、発症前1週間以内の新規けいれん、うっ血乳頭、意識レベルの異常、局所神経脱落症状のいずれかがある場合に、腰椎穿刺の前に頭部 CT を行うことが IDSA のガイドラインで推奨されている。CT や腰椎穿刺のために治療開始が遅れる場合は、血液培養を採取した上で経験的な抗菌薬投与を先行させる。
+    condition:
+      population: 細菌性髄膜炎が疑われる成人
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1815
+    source: Tunkel AR, Hartman BJ, Kaplan SL, et al. Practice guidelines for the management of bacterial meningitis. Clin Infect Dis. 2004;39(9):1267-1284
+    doi: 10.1086/425368
+    pmid: '15494903'
+    pmcid: null
+    url: https://doi.org/10.1086/425368
+    source_license: Clinical Infectious Diseases誌（IDSA/Oxford University Press、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードは成人の基準であり、小児では同ガイドラインの小児用アルゴリズムで一部異なる。抗菌薬の具体的な薬剤名は挙げていない。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-03-03 (id: JkxnuPs)；TBL-02-02-035 (id: JlAKpZg)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: NX-013
+  domain: NX
+  subdomain: 髄液検査
+  assertion:
+    plain_statement_ja: 正常の脳脊髄液は無色透明で、初圧は70〜180mmH2O、細胞数は5/mm³以下で単核球が主体、蛋白は15〜45mg/dL、糖は50〜80mg/dLであり、髄液糖/血糖比は約0.6である。細菌性髄膜炎では髄液は混濁し、細胞数は1000/mm³以上で多形核球が優位となり、蛋白は上昇し、糖は低下して、髄液糖/血糖比が0.4以下になると細菌性を強く疑う。ウイルス性髄膜炎では細胞数の増加は単核球優位で、糖はほぼ正常に保たれるのが典型である。
+    condition:
+      population: 髄液検査を受ける患者
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1638
+    source: 日本神経学会・日本神経治療学会・日本神経感染症学会 監修、「細菌性髄膜炎診療ガイドライン」作成委員会 編『細菌性髄膜炎診療ガイドライン2014』南江堂. 2014
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 学会ガイドライン（書籍、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 基準値と所見の型は同ガイドラインに掲載された標準的な髄液所見表に基づく。新生児・乳児では基準値が異なる。海外ガイドライン（IDSA）の示す細菌性髄膜炎の典型値（初圧200〜500mmH2O、白血球1000〜5000/mm³、蛋白100〜500mg/dL）とも大枠で一致する。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-03-03 (id: JkxnuPs)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: NX-014
+  domain: NX
+  subdomain: 電気生理検査
+  assertion:
+    plain_statement_ja: 重症患者を対象とした持続脳波モニタリングの検討では、570例中19%に脳波上の発作が検出され、発作のあった患者の92%は臨床症候を伴わない非痙攣性の発作のみであった。発作の88%は記録開始後24時間以内に検出された。このため、痙攣性てんかん重積状態の後や原因不明の意識障害では、非痙攣性発作の検出には脳波モニタリングが必要であり、短時間の通常脳波で発作が記録されなくても非痙攣性発作を否定できない。
+    condition:
+      population: 重症患者（意識障害・てんかん重積状態の後など）
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1816
+    source: Claassen J, Mayer SA, Kowalski RG, Emerson RG, Hirsch LJ. Detection of electrographic seizures with continuous EEG monitoring in critically ill patients. Neurology. 2004;62(10):1743-1748
+    doi: 10.1212/01.wnl.0000125184.88797.62
+    pmid: '15159471'
+    pmcid: null
+    url: https://doi.org/10.1212/01.wnl.0000125184.88797.62
+    source_license: Neurology誌（American Academy of Neurology、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は単施設の連続症例の後ろ向き検討による。通常脳波のてんかん診断における感度・特異度そのものは本カードでは扱わない。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-03-03 (id: JkxnuPs)；TBL-02-02-036 (id: JlAKpZk)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: NX-015
+  domain: NX
+  subdomain: 電気生理検査
+  assertion:
+    plain_statement_ja: 神経伝導検査では、脱髄型の末梢神経障害は、運動神経伝導速度の著明な低下、遠位潜時や F 波潜時の延長、伝導ブロックや時間的分散といった脱髄所見で特徴づけられ、軸索型ではこれらの脱髄所見を欠き、複合筋活動電位（CMAP）の振幅低下が主体となる。ギラン・バレー症候群の電気生理学的分類（Hadden らの基準）でも、運動神経伝導検査の所見に基づいて脱髄型・軸索型などに分類する。
+    condition:
+      population: 末梢神経障害が疑われる患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1817
+    source: 'Hadden RD, Cornblath DR, Hughes RA, et al.; Plasma Exchange/Sandoglobulin Guillain-Barré Syndrome Trial Group. Electrophysiological classification of Guillain-Barré syndrome: clinical associations and outcome. Ann Neurol. 1998;44(5):780-788'
+    doi: 10.1002/ana.410440512
+    pmid: '9818934'
+    pmcid: null
+    url: https://doi.org/10.1002/ana.410440512
+    source_license: Annals of Neurology誌（Wiley、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 分類基準の具体的な数値カットオフは用いる基準により異なり、本カードでは扱わない。針筋電図は神経原性変化と筋原性変化の鑑別や病期の評価に用いられるが、所見の詳細は各論を参照。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-03-03 (id: JkxnuPs)；TBL-02-02-036 (id: JlAKpZk)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: NX-016
+  domain: NX
+  subdomain: 画像検査
+  assertion:
+    plain_statement_ja: 急性期脳梗塞の画像評価では、静脈内血栓溶解療法の適応を判断する前提として、非造影頭部 CT で頭蓋内出血を除外することが推奨される。頭部 CT は短時間で施行でき急性期出血の検出に適する一方、発症早期の虚血変化や後頭蓋窩の病変については、MRI の拡散強調画像の方が検出感度が高い。
+    condition:
+      population: 急性期脳梗塞が疑われる患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1582
+    source: 'Powers WJ, Rabinstein AA, Ackerson T, et al. Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update. Stroke. 2019;50(12):e344-e418'
+    doi: 10.1161/STR.0000000000000211
+    pmid: '31662037'
+    pmcid: null
+    url: https://doi.org/10.1161/STR.0000000000000211
+    source_license: AHA/ASAガイドライン（CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードは急性期脳梗塞を念頭に置いた一般論であり、疾患ごとの画像選択（くも膜下出血での血管評価など）は各論のカードを参照。撮像プロトコルの詳細は扱わない。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-03-03 (id: JkxnuPs)；TBL-02-02-035 (id: JlAKpZg)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: NX-017
+  domain: NX
+  subdomain: リハビリテーション
+  assertion:
+    plain_statement_ja: 脳卒中後のリハビリテーションは、急性期病院での早期からのリハビリテーション開始、回復期リハビリテーション病棟での集中的な機能回復訓練、生活期（維持期）のリハビリテーションへと、病期に応じて切れ目なく継続する枠組みで提供される。機能予後の評価には modified Rankin Scale（mRS）が広く用いられ、日常生活動作の評価には FIM などが用いられる。
+    condition:
+      population: 脳卒中後の患者
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1561
+    source: 日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 日本脳卒中学会の著作物（CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 脳卒中の個別疾患の治療と後遺症（嚥下障害など）の扱いは第28回 ST のカードを参照。回復期リハビリテーション病棟の対象疾患・算定要件など制度面の詳細は本カードでは扱わない。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-03-04 (id: JkxnuPw)；TBL-02-02-037 (id: JlAKpZo)；TBL-02-04-018 (id: JlAKpc0)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）

@@ -1,0 +1,665 @@
+- id: BT-001
+  domain: BT
+  subdomain: 神経膠腫
+  assertion:
+    plain_statement_ja: WHO中枢神経系腫瘍分類第5版（2021年）では、成人びまん性神経膠腫は分子診断に基づいて分類され、IDH変異の有無が分類の軸となり、IDH変異型では1p/19q共欠失の有無により星細胞腫と乏突起膠腫が分けられるなど、組織像と分子所見を統合した診断（統合診断）が行われる。
+    condition:
+      population: 成人びまん性神経膠腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1611
+    source: 'Louis DN, et al. The 2021 WHO Classification of Tumours of the Central Nervous System: a summary. Neuro Oncol. 2021;23(8):1231-1251'
+    doi: 10.1093/neuonc/noab106
+    pmid: '34185076'
+    pmcid: null
+    url: https://doi.org/10.1093/neuonc/noab106
+    source_license: Oxford University Press 標準出版モデル（Neuro-Oncology誌、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 分類の枠組みは2021年版の総説に基づく。MGMTプロモーターのメチル化は主に膠芽腫の治療反応性の指標として用いられる点であり、分類そのものの軸ではない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-A-①（神経膠腫、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-002
+  domain: BT
+  subdomain: 神経膠腫
+  assertion:
+    plain_statement_ja: 新規診断膠芽腫に対する放射線治療（60 Gy/30回）へのテモゾロミドの連日併用（75 mg/m²/日）と、その後のテモゾロミド補助療法（150〜200 mg/m²、5日間投与・28日周期、6サイクル）の追加は、放射線治療単独と比べて全生存期間を延長した（生存期間中央値14.6か月対12.1か月、2年生存率26.5%対10.4%）。
+    condition:
+      population: 新規診断膠芽腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1612
+    source: Stupp R, et al. Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma. N Engl J Med. 2005;352(10):987-996
+    doi: 10.1056/NEJMoa043330
+    pmid: '15758009'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa043330
+    source_license: NEJM（Massachusetts Medical Society、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録で確認。テモゾロミドは国内で悪性神経膠腫に対して承認された薬剤として臨床使用されているが、本作成では添付文書での適応・用法の個別確認は未実施であり、取り込み時に確認を要する。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-A-①（神経膠腫、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-630 (id: Jlvnma4)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-003
+  domain: BT
+  subdomain: 神経膠腫
+  assertion:
+    plain_statement_ja: 新規診断膠芽腫では、維持テモゾロミド療法に腫瘍治療電場療法（TTFields）を追加すると、テモゾロミド単独と比べて無増悪生存期間（中央値6.7か月対4.0か月）と全生存期間（中央値20.9か月対16.0か月）が延長した（EF-14試験）。
+    condition:
+      population: 放射線化学療法を終えた新規診断膠芽腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1613
+    source: 'Stupp R, et al. Effect of Tumor Treating Fields Plus Maintenance Temozolomide vs Maintenance Temozolomide Alone on Survival in Patients With Glioblastoma: A Randomized Clinical Trial. JAMA. 2017;318(23):2306-2316'
+    doi: 10.1001/jama.2017.18718
+    pmid: '29260225'
+    pmcid: null
+    url: https://doi.org/10.1001/jama.2017.18718
+    source_license: JAMA（American Medical Association、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録で確認。TTFieldsの国内承認・保険適用の状況は本作成では個別確認未実施であり、取り込み時に確認を要する。主な有害事象はアレイ装着部位の皮膚障害である。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-A-①（神経膠腫、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-630 (id: Jlvnma4)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-004
+  domain: BT
+  subdomain: 神経膠腫
+  assertion:
+    plain_statement_ja: 高リスク低悪性度神経膠腫（40歳以上、または亜全摘以下）に対する放射線治療後のPCV療法（プロカルバジン、ロムスチン、ビンクリスチン）の追加は、放射線治療単独と比べて全生存期間を延長した（生存期間中央値13.3年対7.8年）（RTOG 9802長期成績）。
+    condition:
+      population: 高リスク低悪性度神経膠腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1614
+    source: Buckner JC, et al. Radiation plus Procarbazine, CCNU, and Vincristine in Low-Grade Glioma. N Engl J Med. 2016;374(14):1344-1355
+    doi: 10.1056/NEJMoa1500925
+    pmid: '27050206'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1500925
+    source_license: NEJM（Massachusetts Medical Society、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録で確認。PCV療法の構成薬（プロカルバジン、ロムスチン、ビンクリスチン）の国内承認・保険適用の状況は本作成では個別確認未実施であり、取り込み時に確認を要する。現在の実臨床では分子分類に応じた治療選択が進んでおり、本試験は分子分類導入前の集団の結果である。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-A-①（神経膠腫、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-005
+  domain: BT
+  subdomain: 悪性リンパ腫
+  assertion:
+    plain_statement_ja: 中枢神経原発悪性リンパ腫（PCNSL）が疑われる場合、副腎皮質ステロイドは腫瘍細胞の生存能に速やかに影響するため、生検前に投与すると診断が困難になりうる。すでに投与されている場合は投与を中止し、必要に応じてMRIを再検してから定位生検を行うことがある。確定診断の標準は定位生検による組織病理診断である。
+    condition:
+      population: PCNSLが疑われる患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1615
+    source: 'Ferreri AJM, et al. Primary central nervous system lymphomas: EHA-ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. HemaSphere. 2024;8(6):e89'
+    doi: 10.1002/hem3.89
+    pmid: '38836097'
+    pmcid: null
+    url: https://doi.org/10.1002/hem3.89
+    source_license: CC BY 4.0（HemaSphere誌掲載版）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: ガイドライン本文の記載に基づく。頭蓋内圧亢進などでステロイドが回避できない臨床状況の扱いは個別判断であり、本カードの範囲外。 副腎皮質ステロイドは国内で承認された薬剤であり、本カードは適応の推奨ではなく生検前投与が診断に与える影響に関するものである。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-A-②（悪性リンパ腫、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-006
+  domain: BT
+  subdomain: 悪性リンパ腫
+  assertion:
+    plain_statement_ja: 免疫能が正常なPCNSLの第一選択治療は、高用量メトトレキサートを基盤とする併用化学療法であり、前向き試験で検証されたレジメン（MATRixなど）が推奨される。
+    condition:
+      population: 免疫能が正常な新規診断PCNSL患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1615
+    source: 'Ferreri AJM, et al. Primary central nervous system lymphomas: EHA-ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. HemaSphere. 2024;8(6):e89'
+    doi: 10.1002/hem3.89
+    pmid: '38836097'
+    pmcid: null
+    url: https://doi.org/10.1002/hem3.89
+    source_license: CC BY 4.0（HemaSphere誌掲載版）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: ガイドラインの推奨に基づく。高用量メトトレキサートを含むレジメンの国内承認・保険適用の状況は本作成では個別確認未実施であり、取り込み時に確認を要する。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-A-②（悪性リンパ腫、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-007
+  domain: BT
+  subdomain: 悪性リンパ腫
+  assertion:
+    plain_statement_ja: PCNSLに対するIELSG32試験の第1ランダム化では、MATRixレジメン（メトトレキサート、シタラビン、チオテパ、リツキシマブ）は、メトトレキサート＋シタラビン、またはそれにリツキシマブを加えた治療と比べて完全寛解率が高かった（49%対30%対23%）。
+    condition:
+      population: 新規診断PCNSL患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1616
+    source: 'Ferreri AJM, et al. Chemoimmunotherapy with methotrexate, cytarabine, thiotepa, and rituximab (MATRix regimen) in patients with primary CNS lymphoma: results of the first randomisation of the International Extranodal Lymphoma Study Group-32 (IELSG32) phase 2 trial. Lancet Haematol. 2016;3(5):e217-e227'
+    doi: 10.1016/S2352-3026(16)00036-3
+    pmid: '27132696'
+    pmcid: null
+    url: https://doi.org/10.1016/S2352-3026(16)00036-3
+    source_license: The Lancet Haematology（Elsevier、テキストマイニング用ライセンスのみ）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録で確認。チオテパを含むレジメンの国内承認・保険適用の状況は本作成では個別確認未実施であり、取り込み時に確認を要する。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-A-②（悪性リンパ腫、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-008
+  domain: BT
+  subdomain: 胚細胞腫瘍
+  assertion:
+    plain_statement_ja: 頭蓋内胚細胞腫瘍は、血清・髄液の腫瘍マーカーと組織所見によってジャーミノーマと非ジャーミノーマ性胚細胞腫瘍（NGGCT）に分けて治療方針が決められ、転移性病変は髄液細胞診陽性または頭蓋脊髄MRIでの播種所見によって定義される。
+    condition:
+      population: 思春期・若年成人の頭蓋内胚細胞腫瘍患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1617
+    source: Frappaz D, et al. EANO, SNO and Euracan consensus review on the current management and future development of intracranial germ cell tumors in adolescents and young adults. Neuro Oncol. 2022;24(4):516-527
+    doi: 10.1093/neuonc/noab252
+    pmid: '34724065'
+    pmcid: null
+    url: https://doi.org/10.1093/neuonc/noab252
+    source_license: CC BY-NC 4.0（Neuro-Oncology誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: コンセンサスレビューの抄録に基づく。診断は内視鏡下生検と血清・髄液検査の組み合わせで確定を図ることが同レビューで述べられている。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-A-③（胚細胞腫瘍、c）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-009
+  domain: BT
+  subdomain: 胚細胞腫瘍
+  assertion:
+    plain_statement_ja: 限局性ジャーミノーマは放射線感受性が高く、化学療法後に全脳室照射と局所追加照射を行う治療で5年無イベント生存率が90%を超え、転移性ジャーミノーマは全頭蓋脊髄照射で治癒が期待できる。
+    condition:
+      population: 頭蓋内ジャーミノーマ患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1617
+    source: Frappaz D, et al. EANO, SNO and Euracan consensus review on the current management and future development of intracranial germ cell tumors in adolescents and young adults. Neuro Oncol. 2022;24(4):516-527
+    doi: 10.1093/neuonc/noab252
+    pmid: '34724065'
+    pmcid: null
+    url: https://doi.org/10.1093/neuonc/noab252
+    source_license: CC BY-NC 4.0（Neuro-Oncology誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録で確認（5年無イベント生存率90%超は限局性ジャーミノーマに対する化学療法＋全脳室照射の成績）。NGGCTの5年無イベント生存率は70%超と同抄録に記載されている。 化学療法の個別薬剤の国内承認・保険適用は未確認。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-A-③（胚細胞腫瘍、c）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-010
+  domain: BT
+  subdomain: 胚細胞腫瘍
+  assertion:
+    plain_statement_ja: 中枢神経系胚細胞腫瘍の腫瘍マーカーでは、HCGの上昇はジャーミノーマ成分または絨毛癌成分を含む場合に限られ、両者の間に明確なカットオフが存在する一方、AFPは卵黄嚢腫瘍成分がなくても、特に未熟奇形腫で上昇することが多い。HCGが髄液でのみ、AFPが血清でのみ上昇する例があるため、血清と髄液の両方を測定する意義がある。
+    condition:
+      population: 中枢神経系胚細胞腫瘍患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1618
+    source: 'Takami H, et al. Impact of tumor markers on diagnosis, treatment and prognosis in CNS germ cell tumors: correlations with clinical practice and histopathology. Brain Tumor Pathol. 2023;40(2):124-132'
+    doi: 10.1007/s10014-023-00460-x
+    pmid: '36995447'
+    pmcid: null
+    url: https://doi.org/10.1007/s10014-023-00460-x
+    source_license: Brain Tumor Pathology（Springer、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値の詳細（各群の症例数など）は抄録で確認した範囲に限る。マーカー上昇のみでNGGCTと確定することはできず、組織所見との統合解釈が必要である点も同論文で述べられている。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-A-③（胚細胞腫瘍、c）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-011
+  domain: BT
+  subdomain: 血管芽腫
+  assertion:
+    plain_statement_ja: von Hippel-Lindau病患者の中枢神経系血管芽腫は脊髄と小脳に多く発生し、症状を呈した小脳腫瘍では嚢胞を伴う割合が高く（72%）、無症状の小脳腫瘍（13%）と比べて嚢胞が腫瘍本体より大きくなることが多い。
+    condition:
+      population: von Hippel-Lindau病患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1619
+    source: Wanebo JE, et al. The natural history of hemangioblastomas of the central nervous system in patients with von Hippel-Lindau disease. J Neurosurg. 2003;98(1):82-94
+    doi: 10.3171/jns.2003.98.1.0082
+    pmid: '12546356'
+    pmcid: null
+    url: https://doi.org/10.3171/jns.2003.98.1.0082
+    source_license: Journal of Neurosurgery（CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録で確認。本カードは腫瘍そのものの分布と嚢胞の特徴に限り、VHLの全身像（網膜・腎・膵などの病変）は扱わない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-A-④（血管芽腫、c）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-012
+  domain: BT
+  subdomain: 髄膜腫
+  assertion:
+    plain_statement_ja: 髄膜腫は最も頻度の高い原発性頭蓋内腫瘍であり、無症状で偶然発見された場合は画像による経過観察（watch-and-scan）が選択でき、手術を行う場合は被膜・付着部硬膜を含めた全摘出がしばしば根治的となる。手術不能例や再発例では、病変の大きさと部位が許せば定位放射線治療や分割照射が用いられる。
+    condition:
+      population: 髄膜腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1620
+    source: Goldbrunner R, et al. EANO guideline on the diagnosis and management of meningiomas. Neuro Oncol. 2021;23(11):1821-1834
+    doi: 10.1093/neuonc/noab150
+    pmid: '34181733'
+    pmcid: null
+    url: https://doi.org/10.1093/neuonc/noab150
+    source_license: Oxford University Press 標準出版モデル（Neuro-Oncology誌、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ガイドラインの抄録に基づく。WHO gradeに応じた術後照射の適応の詳細はガイドライン本文の推奨による。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-B-①（髄膜腫、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-631 (id: Jlvnma8)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-013
+  domain: BT
+  subdomain: 下垂体腫瘍
+  assertion:
+    plain_statement_ja: 下垂体腺腫は腫瘤効果により頭痛、下垂体機能低下、視交叉圧迫による視野障害（両耳側半盲）を来しうる。プロラクチノーマを除く下垂体腺腫の初期治療は原則として経蝶形骨洞下垂体手術であり、無症状の偶発例では経過観察も選択できる。
+    condition:
+      population: 下垂体腺腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-877
+    source: 'Molitch ME. Diagnosis and Treatment of Pituitary Adenomas: A Review. JAMA. 2017;317(5):516-524.'
+    doi: 10.1001/jama.2016.19699
+    pmid: '28170483'
+    pmcid: null
+    url: https://doi.org/10.1001/jama.2016.19699
+    source_license: ライセンス表示を確認できず（JAMA誌）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 本カードは腫瘍としての側面（腫瘤効果と手術）に限り、ホルモン産生・内分泌の側面は扱わない。抄録では視野障害と総称されており、両耳側半盲は視交叉圧迫による典型的な視野障害として本文の記載に基づく。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-B-②（下垂体腫瘍(下垂体腺腫)、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-014
+  domain: BT
+  subdomain: 下垂体腫瘍
+  assertion:
+    plain_statement_ja: 下垂体卒中は、突然発症の頭痛などを呈する臨床症候群であり医学的緊急事態である。速やかなヒドロコルチゾンの補充が救命的となりうる。
+    condition:
+      population: 下垂体卒中患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-884
+    source: Rajasekaran S, Vanderpump M, Baldeweg S, et al. UK Guidelines for the Management of Pituitary Apoplexy. Clinical Endocrinology. 2011;74(1):9-20.
+    doi: 10.1111/j.1365-2265.2010.03913.x
+    pmid: '21044119'
+    pmcid: null
+    url: https://doi.org/10.1111/j.1365-2265.2010.03913.x
+    source_license: ライセンス表示を確認できず（Clinical Endocrinology誌）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: ガイドラインの抄録に基づく。手術（経蝶形骨洞手術）の適応と時期は視力・意識の状態により判断され、本カードでは一般論にとどめる。ヒドロコルチゾンは国内承認薬である（適応の詳細は添付文書による）。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-B-②（下垂体腫瘍(下垂体腺腫)、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-015
+  domain: BT
+  subdomain: 神経鞘腫
+  assertion:
+    plain_statement_ja: 前庭神経鞘腫の診断はMRIによるもので、組織診断は必ずしも必要ない。治療の選択肢は経過観察、外科的切除、分割照射、定位放射線治療であり、小さな腫瘍では経過観察と定位放射線治療が比較検討され、大きな腫瘍では外科的な圧迫解除が必須で、術後に分割照射や定位放射線治療が追加されることがある。
+    condition:
+      population: 前庭神経鞘腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1621
+    source: Goldbrunner R, et al. EANO guideline on the diagnosis and treatment of vestibular schwannoma. Neuro Oncol. 2020;22(1):31-45
+    doi: 10.1093/neuonc/noz153
+    pmid: '31504802'
+    pmcid: null
+    url: https://doi.org/10.1093/neuonc/noz153
+    source_license: Oxford University Press 標準出版モデル（Neuro-Oncology誌、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ガイドラインの抄録に基づく。聴力温存率などの治療法別の数値は抄録の範囲では確認できなかったため本カードには含めていない。片側の感音難聴・耳鳴が典型的な初発症状である点はガイドライン本文の記載による。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-B-③（神経鞘腫、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-632 (id: JlvnmbE)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-016
+  domain: BT
+  subdomain: 頭蓋咽頭腫
+  assertion:
+    plain_statement_ja: 頭蓋咽頭腫にはエナメル上皮腫型と乳頭型があり、エナメル上皮腫型は5〜15歳と45〜60歳の二峰性の発症ピークを示し小児にみられる型である。視交叉、視床下部、下垂体に近接するため、視力障害、内分泌障害、頭蓋内圧亢進症状を来し、長期生存率は高い一方で視床下部の障害による生活の質の低下が問題となる。
+    condition:
+      population: 頭蓋咽頭腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-874
+    source: Müller HL, Merchant TE, Warmuth-Metz M, Martinez-Barbera JP, Puget S. Craniopharyngioma. Nature Reviews Disease Primers. 2019;5(1):75.
+    doi: 10.1038/s41572-019-0125-9
+    pmid: '31699993'
+    pmcid: null
+    url: https://doi.org/10.1038/s41572-019-0125-9
+    source_license: ライセンス表示を確認できず（Nature Reviews Disease Primers誌、TDM のみ）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値（発症年齢のピーク）は抄録で確認。石灰化はエナメル上皮腫型の画像上の特徴として知られるが、本出典の抄録の範囲では明示されなかったため本カードの命題には含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-B-④（頭蓋咽頭腫、c）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-017
+  domain: BT
+  subdomain: 転移性脳腫瘍
+  assertion:
+    plain_statement_ja: 転移性脳腫瘍では、腫瘤効果の強い大きな病変には手術が妥当であり、未切除の1〜4個の転移（小細胞肺癌を除く）には定位放射線治療単独が、切除された1〜2個の転移には術後腔への定位放射線治療が選択肢となる。全脳照射を行う場合は、海馬を避けメマンチンを併用することが、生存期間4か月以上が見込まれ海馬近傍に病変がない患者で提案される。
+    condition:
+      population: 転移性脳腫瘍患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1622
+    source: 'Vogelbaum MA, et al. (Schiff D, et al.) Treatment for Brain Metastases: ASCO-SNO-ASTRO Guideline. J Clin Oncol. 2022;40(3):242-264'
+    doi: 10.1200/JCO.21.02314
+    pmid: '34932393'
+    pmcid: null
+    url: https://doi.org/10.1200/JCO.21.02314
+    source_license: Journal of Clinical Oncology（ASCO、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ガイドラインの抄録に基づく。原発巣の全身治療は本カードの範囲外。原発巣としては肺癌が最も多いことは脳転移の疫学として確立しているが、本ガイドラインの抄録の範囲では割合の数値を確認できなかったため数値は含めていない。メマンチンの国内承認は認知症に対するものであり、脳転移の全脳照射併用としての国内保険適用は本作成では確認未実施。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-C-①（転移性脳腫瘍、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-633 (id: JlvnmbI)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-018
+  domain: BT
+  subdomain: 髄膜癌腫症
+  assertion:
+    plain_statement_ja: 髄膜癌腫症（癌性髄膜炎）では、頭痛、悪心・嘔吐、認知機能の変化、歩行困難、脳神経麻痺、神経根症状、頸部・背部痛など多彩な症状がみられる。確定診断は髄液中の腫瘍細胞の証明（type I）によるもので、初回の髄液検査が陰性でも2回目の検査を行うことが推奨される。予後は不良で、治療目標は神経症状の進行を防ぎつつ生活の質を保って生存を延長することにある。
+    condition:
+      population: 固形癌の髄膜転移患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1623
+    source: 'Le Rhun E, et al. Leptomeningeal metastasis from solid tumours: EANO-ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. ESMO Open. 2023;8(5):101624'
+    doi: 10.1016/j.esmoop.2023.101624
+    pmid: '37863528'
+    pmcid: null
+    url: https://doi.org/10.1016/j.esmoop.2023.101624
+    source_license: CC BY-NC-ND 4.0（ESMO Open誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ガイドライン本文で確認。生存期間の具体的な中央値は本作成で一次資料から確認できなかったため本カードには含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-C-②（髄膜癌腫症<癌性髄膜炎>、c）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-019
+  domain: BT
+  subdomain: 頭蓋骨転移
+  assertion:
+    plain_statement_ja: 日本の単施設の転移性頭蓋骨腫瘍175例では、原発巣は乳癌（55%）が最も多く、次いで肺癌（14%）、前立腺癌（6%）であり、患者の多くは無症状だが、局所の疼痛や脳神経麻痺を呈する例があり、症候性の例では局所または頭蓋全体への放射線治療が主に用いられた。
+    condition:
+      population: 転移性頭蓋骨腫瘍患者
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1624
+    source: 'Mitsuya K, et al. Metastatic skull tumors: MRI features and a new conventional classification. J Neurooncol. 2011;104(1):239-245'
+    doi: 10.1007/s11060-010-0465-5
+    pmid: '21110218'
+    pmcid: null
+    url: https://doi.org/10.1007/s11060-010-0465-5
+    source_license: CC BY-NC（Journal of Neuro-Oncology誌、PMC掲載ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は本文で確認した単施設後ろ向き研究の値であり、集団全体の疫学値ではない。原発巣の全身治療は本カードの範囲外。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-D-①（頭蓋骨転移、c）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
