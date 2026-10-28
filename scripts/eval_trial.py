@@ -128,6 +128,13 @@ def evaluate(label: str, p: dict, spec: dict, ref: dict) -> dict:
         doi = (null_if_dash(r.get("DOI")) or "").lower()
         if doi and doi in ref["src_doi"] and ref["src_doi"][doi] != r["SRC"]:
             m["src_dup_doi"].append(f"{r['SRC']} は既存の {ref['src_doi'][doi]} と同じ DOI")
+    seen: dict[str, str] = {}
+    for r in p["srcs"]:   # 同じ成果物の中で、同じ DOI に2つの番号を付けていないか
+        doi = (null_if_dash(r.get("DOI")) or "").lower()
+        if doi and doi in seen and seen[doi] != r["SRC"]:
+            m["src_dup_doi"].append(f"{r['SRC']} は同じ成果物の {seen[doi]} と同じ DOI")
+        elif doi:
+            seen.setdefault(doi, r["SRC"])
     m["n_src"] = len(p["srcs"])
     m["src_doi"] = sum(1 for r in p["srcs"] if null_if_dash(r.get("DOI")))
     m["src_pmid"] = sum(1 for r in p["srcs"] if null_if_dash(r.get("PMID")))

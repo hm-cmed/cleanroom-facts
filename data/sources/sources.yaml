@@ -10461,3 +10461,771 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-871
+  legacy_id: null
+  title: 'Dimitri P. Treatment of Acquired Hypothalamic Obesity: Now and the Future. Frontiers in Endocrinology. 2022;13:846880.'
+  citation: 'Dimitri P. Treatment of Acquired Hypothalamic Obesity: Now and the Future. Frontiers in Endocrinology. 2022;13:846880.'
+  doi: 10.3389/fendo.2022.846880
+  pmid: '35464063'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-872
+  legacy_id: null
+  title: Carel JC, Eugster EA, Rogol A, et al. Consensus Statement on the Use of Gonadotropin-Releasing Hormone Analogs in Children. Pediatrics. 2009;123(4):e752-e762.
+  citation: Carel JC, Eugster EA, Rogol A, et al. Consensus Statement on the Use of Gonadotropin-Releasing Hormone Analogs in Children. Pediatrics. 2009;123(4):e752-e762.
+  doi: 10.1542/peds.2008-1783
+  pmid: '19332438'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-873
+  legacy_id: null
+  title: 'Boehm U, Bouloux PM, Dattani MT, et al. Expert Consensus Document: European Consensus Statement on Congenital Hypogonadotropic Hypogonadism—Pathogenesis, Diagnosis and Treatment. Nature Reviews Endocrinology. 2015;11(9):547-564.'
+  citation: 'Boehm U, Bouloux PM, Dattani MT, et al. Expert Consensus Document: European Consensus Statement on Congenital Hypogonadotropic Hypogonadism—Pathogenesis, Diagnosis and Treatment. Nature Reviews Endocrinology. 2015;11(9):547-564.'
+  doi: 10.1038/nrendo.2015.112
+  pmid: '26194704'
+  pmcid: null
+  license_note: CC BY-NC-SA 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-874
+  legacy_id: null
+  title: Müller HL, Merchant TE, Warmuth-Metz M, Martinez-Barbera JP, Puget S. Craniopharyngioma. Nature Reviews Disease Primers. 2019;5(1):75.
+  citation: Müller HL, Merchant TE, Warmuth-Metz M, Martinez-Barbera JP, Puget S. Craniopharyngioma. Nature Reviews Disease Primers. 2019;5(1):75.
+  doi: 10.1038/s41572-019-0125-9
+  pmid: '31699993'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（TDM のみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-875
+  legacy_id: null
+  title: 'Katznelson L, Laws ER Jr, Melmed S, et al. Acromegaly: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2014;99(11):3933-3951.'
+  citation: 'Katznelson L, Laws ER Jr, Melmed S, et al. Acromegaly: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2014;99(11):3933-3951.'
+  doi: 10.1210/jc.2014-2700
+  pmid: '25356808'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-877
+  legacy_id: null
+  title: 'Molitch ME. Diagnosis and Treatment of Pituitary Adenomas: A Review. JAMA. 2017;317(5):516-524.'
+  citation: 'Molitch ME. Diagnosis and Treatment of Pituitary Adenomas: A Review. JAMA. 2017;317(5):516-524.'
+  doi: 10.1001/jama.2016.19699
+  pmid: '28170483'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-878
+  legacy_id: null
+  title: 'Nieman LK, Biller BMK, Findling JW, et al. Treatment of Cushing''s Syndrome: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2015;100(8):2807-2831.'
+  citation: 'Nieman LK, Biller BMK, Findling JW, et al. Treatment of Cushing''s Syndrome: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2015;100(8):2807-2831.'
+  doi: 10.1210/jc.2015-1818
+  pmid: '26222757'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-880
+  legacy_id: null
+  title: Higham CE, Johannsson G, Shalet SM. Hypopituitarism. The Lancet. 2016;388(10058):2403-2415.
+  citation: Higham CE, Johannsson G, Shalet SM. Hypopituitarism. The Lancet. 2016;388(10058):2403-2415.
+  doi: 10.1016/S0140-6736(16)30053-8
+  pmid: '27041067'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（TDM のみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-881
+  legacy_id: null
+  title: Christ-Crain M, Bichet DG, Fenske WK, et al. Diabetes Insipidus. Nature Reviews Disease Primers. 2019;5(1):54.
+  citation: Christ-Crain M, Bichet DG, Fenske WK, et al. Diabetes Insipidus. Nature Reviews Disease Primers. 2019;5(1):54.
+  doi: 10.1038/s41572-019-0103-2
+  pmid: '31395885'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（TDM のみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-882
+  legacy_id: null
+  title: 'Joshi MN, Whitelaw BC, Carroll PV. Mechanisms in Endocrinology: Hypophysitis: Diagnosis and Treatment. European Journal of Endocrinology. 2018;179(3):R151-R163.'
+  citation: 'Joshi MN, Whitelaw BC, Carroll PV. Mechanisms in Endocrinology: Hypophysitis: Diagnosis and Treatment. European Journal of Endocrinology. 2018;179(3):R151-R163.'
+  doi: 10.1530/EJE-17-0009
+  pmid: '29880706'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-883
+  legacy_id: null
+  title: 'Molitch ME, Clemmons DR, Malozowski S, et al. Evaluation and Treatment of Adult Growth Hormone Deficiency: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2011;96(6):1587-1609.'
+  citation: 'Molitch ME, Clemmons DR, Malozowski S, et al. Evaluation and Treatment of Adult Growth Hormone Deficiency: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2011;96(6):1587-1609.'
+  doi: 10.1210/jc.2011-0179
+  pmid: '21602453'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-884
+  legacy_id: null
+  title: Rajasekaran S, Vanderpump M, Baldeweg S, et al. UK Guidelines for the Management of Pituitary Apoplexy. Clinical Endocrinology. 2011;74(1):9-20.
+  citation: Rajasekaran S, Vanderpump M, Baldeweg S, et al. UK Guidelines for the Management of Pituitary Apoplexy. Clinical Endocrinology. 2011;74(1):9-20.
+  doi: 10.1111/j.1365-2265.2010.03913.x
+  pmid: '21044119'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-886
+  legacy_id: null
+  title: 'Nieman LK, Biller BMK, Findling JW, Newell-Price J, Savage MO, Stewart PM, Montori VM. The Diagnosis of Cushing''s Syndrome: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2008;93(5):1526-1540.'
+  citation: 'Nieman LK, Biller BMK, Findling JW, Newell-Price J, Savage MO, Stewart PM, Montori VM. The Diagnosis of Cushing''s Syndrome: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2008;93(5):1526-1540.'
+  doi: 10.1210/jc.2008-0125
+  pmid: '18334580'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-887
+  legacy_id: null
+  title: 'Nieman LK, Biller BMK, Findling JW, Murad MH, Newell-Price J, Savage MO, Tabarin A. Treatment of Cushing''s Syndrome: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2015;100(8):2807-2831.'
+  citation: 'Nieman LK, Biller BMK, Findling JW, Murad MH, Newell-Price J, Savage MO, Tabarin A. Treatment of Cushing''s Syndrome: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2015;100(8):2807-2831.'
+  doi: 10.1210/jc.2015-1818
+  pmid: '26222757'
+  pmcid: null
+  license_note: 学会ガイドライン（CC 表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+  - date: '2026-10-28'
+    by: claude-code
+    change: SRC-878 と同一の文献（DOI 10.1210/jc.2015-1818）。カードの参照は SRC-878 に付け替えた。番号は再利用しない
+- id: SRC-888
+  legacy_id: null
+  title: 'Funder JW, Carey RM, Mantero F, Murad MH, Reincke M, Shibata H, Stowasser M, Young WF Jr. The Management of Primary Aldosteronism: Case Detection, Diagnosis, and Treatment: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2016;101(5):1889-1916.'
+  citation: 'Funder JW, Carey RM, Mantero F, Murad MH, Reincke M, Shibata H, Stowasser M, Young WF Jr. The Management of Primary Aldosteronism: Case Detection, Diagnosis, and Treatment: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2016;101(5):1889-1916.'
+  doi: 10.1210/jc.2015-4061
+  pmid: '26934393'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-889
+  legacy_id: null
+  title: 'Bornstein SR, Allolio B, Arlt W, Barthel A, Don-Wauchope A, Hammer GD, Husebye ES, Merke DP, Murad MH, Stratakis CA, Torpy DJ. Diagnosis and Treatment of Primary Adrenal Insufficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2016;101(2):364-389.'
+  citation: 'Bornstein SR, Allolio B, Arlt W, Barthel A, Don-Wauchope A, Hammer GD, Husebye ES, Merke DP, Murad MH, Stratakis CA, Torpy DJ. Diagnosis and Treatment of Primary Adrenal Insufficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2016;101(2):364-389.'
+  doi: 10.1210/jc.2015-1710
+  pmid: '26760044'
+  pmcid: null
+  license_note: 学会ガイドライン（CC 表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-890
+  legacy_id: null
+  title: 'Beuschlein F, Else T, Bancos I, Hahner S, Hamidi O, van Hulsteijn L, Husebye ES, Karavitaki N, Prete A, Vaidya A, Yedinak C, Dekkers OM. European Society of Endocrinology and Endocrine Society Joint Clinical Guideline: Diagnosis and Therapy of Glucocorticoid-induced Adrenal Insufficiency. J Clin Endocrinol Metab. 2024;109(7):1657-1683.'
+  citation: 'Beuschlein F, Else T, Bancos I, Hahner S, Hamidi O, van Hulsteijn L, Husebye ES, Karavitaki N, Prete A, Vaidya A, Yedinak C, Dekkers OM. European Society of Endocrinology and Endocrine Society Joint Clinical Guideline: Diagnosis and Therapy of Glucocorticoid-induced Adrenal Insufficiency. J Clin Endocrinol Metab. 2024;109(7):1657-1683.'
+  doi: 10.1210/clinem/dgae250
+  pmid: '38724043'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-891
+  legacy_id: null
+  title: Fassnacht M, Tsagarakis S, Terzolo M, Tabarin A, Sahdev A, Newell-Price J, Pelsma I, Marina L, Lorenz K, Bancos I, Arlt W, Dekkers OM. European Society of Endocrinology clinical practice guidelines on the management of adrenal incidentalomas, in collaboration with the European Network for the Study of Adrenal Tumors. Eur J Endocrinol. 2023;189(1):G1-G42.
+  citation: Fassnacht M, Tsagarakis S, Terzolo M, Tabarin A, Sahdev A, Newell-Price J, Pelsma I, Marina L, Lorenz K, Bancos I, Arlt W, Dekkers OM. European Society of Endocrinology clinical practice guidelines on the management of adrenal incidentalomas, in collaboration with the European Network for the Study of Adrenal Tumors. Eur J Endocrinol. 2023;189(1):G1-G42.
+  doi: 10.1093/ejendo/lvad066
+  pmid: '37318239'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-892
+  legacy_id: null
+  title: Fassnacht M, Dekkers OM, Else T, Baudin E, Berruti A, de Krijger R, Haak HR, Mihai R, Assie G, Terzolo M. European Society of Endocrinology Clinical Practice Guidelines on the management of adrenocortical carcinoma in adults, in collaboration with the European Network for the Study of Adrenal Tumors. Eur J Endocrinol. 2018;179(4):G1-G46.
+  citation: Fassnacht M, Dekkers OM, Else T, Baudin E, Berruti A, de Krijger R, Haak HR, Mihai R, Assie G, Terzolo M. European Society of Endocrinology Clinical Practice Guidelines on the management of adrenocortical carcinoma in adults, in collaboration with the European Network for the Study of Adrenal Tumors. Eur J Endocrinol. 2018;179(4):G1-G46.
+  doi: 10.1530/EJE-18-0608
+  pmid: '30299884'
+  pmcid: null
+  license_note: 学会ガイドライン（CC 表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-893
+  legacy_id: null
+  title: 'Lenders JWM, Duh QY, Eisenhofer G, Gimenez-Roqueplo AP, Grebe SKG, Murad MH, Naruse M, Pacak K, Young WF Jr. Pheochromocytoma and Paraganglioma: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2014;99(6):1915-1942.'
+  citation: 'Lenders JWM, Duh QY, Eisenhofer G, Gimenez-Roqueplo AP, Grebe SKG, Murad MH, Naruse M, Pacak K, Young WF Jr. Pheochromocytoma and Paraganglioma: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2014;99(6):1915-1942.'
+  doi: 10.1210/jc.2014-1498
+  pmid: '24893135'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-894
+  legacy_id: null
+  title: Matthay KK, Maris JM, Schleiermacher G, et al. Neuroblastoma. Nat Rev Dis Primers. 2016;2:16078.
+  citation: Matthay KK, Maris JM, Schleiermacher G, et al. Neuroblastoma. Nat Rev Dis Primers. 2016;2:16078.
+  doi: 10.1038/nrdp.2016.78
+  pmid: '27830764'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-895
+  legacy_id: null
+  title: 'Bhasin S, et al. Testosterone Therapy in Men With Hypogonadism: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2018;103(5):1715-1744.'
+  citation: 'Bhasin S, et al. Testosterone Therapy in Men With Hypogonadism: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2018;103(5):1715-1744.'
+  doi: 10.1210/jc.2018-00229
+  pmid: '29562364'
+  pmcid: null
+  license_note: 学会ガイドライン（CC 表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-896
+  legacy_id: null
+  title: Thakker RV, et al. Clinical Practice Guidelines for Multiple Endocrine Neoplasia Type 1 (MEN1). J Clin Endocrinol Metab. 2012;97(9):2990-3011.
+  citation: Thakker RV, et al. Clinical Practice Guidelines for Multiple Endocrine Neoplasia Type 1 (MEN1). J Clin Endocrinol Metab. 2012;97(9):2990-3011.
+  doi: 10.1210/jc.2012-1230
+  pmid: '22723327'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-897
+  legacy_id: null
+  title: Wells SA Jr, et al. Revised American Thyroid Association Guidelines for the Management of Medullary Thyroid Carcinoma. Thyroid. 2015;25(6):567-610.
+  citation: Wells SA Jr, et al. Revised American Thyroid Association Guidelines for the Management of Medullary Thyroid Carcinoma. Thyroid. 2015;25(6):567-610.
+  doi: 10.1089/thy.2014.0335
+  pmid: '25810047'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-898
+  legacy_id: null
+  title: 'Oronsky B, Ma PC, Morgensztern D, Carter CA. Nothing But NET: A Review of Neuroendocrine Tumors and Carcinomas. Neoplasia. 2017;19(12):991-1002.'
+  citation: 'Oronsky B, Ma PC, Morgensztern D, Carter CA. Nothing But NET: A Review of Neuroendocrine Tumors and Carcinomas. Neoplasia. 2017;19(12):991-1002.'
+  doi: 10.1016/j.neo.2017.09.002
+  pmid: '29091800'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-899
+  legacy_id: null
+  title: Dimitriadis GK, et al. Endocrine paraneoplastic syndromes in patients with neuroendocrine neoplasms. Endocrine. 2019;64(2):384-392.
+  citation: Dimitriadis GK, et al. Endocrine paraneoplastic syndromes in patients with neuroendocrine neoplasms. Endocrine. 2019;64(2):384-392.
+  doi: 10.1007/s12020-018-1773-3
+  pmid: '30280284'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-900
+  legacy_id: null
+  title: 'Mantovani G, Bastepe M, Monk D, et al. Diagnosis and management of pseudohypoparathyroidism and related disorders: first international Consensus Statement. Nat Rev Endocrinol. 2018;14(8):476-500.'
+  citation: 'Mantovani G, Bastepe M, Monk D, et al. Diagnosis and management of pseudohypoparathyroidism and related disorders: first international Consensus Statement. Nat Rev Endocrinol. 2018;14(8):476-500.'
+  doi: 10.1038/s41574-018-0042-0
+  pmid: '29959430'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-901
+  legacy_id: null
+  title: Smith TJ, Hegedüs L. Graves' Disease. N Engl J Med. 2016;375(16):1552-1565
+  citation: Smith TJ, Hegedüs L. Graves' Disease. N Engl J Med. 2016;375(16):1552-1565
+  doi: 10.1056/NEJMra1510030
+  pmid: '27797318'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-902
+  legacy_id: null
+  title: Ross DS, et al. 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis. Thyroid. 2016;26(10):1343-1421
+  citation: Ross DS, et al. 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis. Thyroid. 2016;26(10):1343-1421
+  doi: 10.1089/thy.2016.0229
+  pmid: '27521067'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-903
+  legacy_id: null
+  title: Satoh T, et al. 2016 Guidelines for the management of thyroid storm from The Japan Thyroid Association and Japan Endocrine Society (First edition). Endocr J. 2016;63(12):1025-1064
+  citation: Satoh T, et al. 2016 Guidelines for the management of thyroid storm from The Japan Thyroid Association and Japan Endocrine Society (First edition). Endocr J. 2016;63(12):1025-1064
+  doi: 10.1507/endocrj.EJ16-0336
+  pmid: '27746415'
+  pmcid: null
+  license_note: CC 表示なし（学会ガイドライン）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-904
+  legacy_id: null
+  title: Watanabe N, et al. Survey of the actual administration of thiamazole for hyperthyroidism in Japan by the Japan Thyroid Association. Endocr J. 2022;69(1):35-43
+  citation: Watanabe N, et al. Survey of the actual administration of thiamazole for hyperthyroidism in Japan by the Japan Thyroid Association. Endocr J. 2022;69(1):35-43
+  doi: 10.1507/endocrj.EJ21-0238
+  pmid: '34321366'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-905
+  legacy_id: null
+  title: 'Jonklaas J, et al. Guidelines for the Treatment of Hypothyroidism: Prepared by the American Thyroid Association Task Force on Thyroid Hormone Replacement. Thyroid. 2014;24(12):1670-1751'
+  citation: 'Jonklaas J, et al. Guidelines for the Treatment of Hypothyroidism: Prepared by the American Thyroid Association Task Force on Thyroid Hormone Replacement. Thyroid. 2014;24(12):1670-1751'
+  doi: 10.1089/thy.2014.0028
+  pmid: '25266247'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-906
+  legacy_id: null
+  title: 'Mathew V, et al. Myxedema Coma: A New Look into an Old Crisis. J Thyroid Res. 2011;2011:493462'
+  citation: 'Mathew V, et al. Myxedema Coma: A New Look into an Old Crisis. J Thyroid Res. 2011;2011:493462'
+  doi: 10.4061/2011/493462
+  pmid: '21941682'
+  pmcid: null
+  license_note: CC BY 3.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-907
+  legacy_id: null
+  title: 'Ragusa F, et al. Hashimotos'' thyroiditis: Epidemiology, pathogenesis, clinic and therapy. Best Pract Res Clin Endocrinol Metab. 2019;33(6):101367'
+  citation: 'Ragusa F, et al. Hashimotos'' thyroiditis: Epidemiology, pathogenesis, clinic and therapy. Best Pract Res Clin Endocrinol Metab. 2019;33(6):101367'
+  doi: 10.1016/j.beem.2019.101367
+  pmid: '31812326'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-908
+  legacy_id: null
+  title: 'Fatourechi V, et al. Clinical features and outcome of subacute thyroiditis in an incidence cohort: Olmsted County, Minnesota, study. J Clin Endocrinol Metab. 2003;88(5):2100-2105'
+  citation: 'Fatourechi V, et al. Clinical features and outcome of subacute thyroiditis in an incidence cohort: Olmsted County, Minnesota, study. J Clin Endocrinol Metab. 2003;88(5):2100-2105'
+  doi: 10.1210/jc.2002-021799
+  pmid: '12727961'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-909
+  legacy_id: null
+  title: Pearce EN, Farwell AP, Braverman LE. Thyroiditis. N Engl J Med. 2003;348(26):2646-2655
+  citation: Pearce EN, Farwell AP, Braverman LE. Thyroiditis. N Engl J Med. 2003;348(26):2646-2655
+  doi: 10.1056/NEJMra021194
+  pmid: '12826640'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-910
+  legacy_id: null
+  title: Knobel M. Etiopathology, clinical features, and treatment of diffuse and multinodular nontoxic goiters. J Endocrinol Invest. 2016;39(4):357-373
+  citation: Knobel M. Etiopathology, clinical features, and treatment of diffuse and multinodular nontoxic goiters. J Endocrinol Invest. 2016;39(4):357-373
+  doi: 10.1007/s40618-015-0391-7
+  pmid: '26392367'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-911
+  legacy_id: null
+  title: McHenry CR, Phitayakorn R. Follicular adenoma and carcinoma of the thyroid gland. Oncologist. 2011;16(5):585-593
+  citation: McHenry CR, Phitayakorn R. Follicular adenoma and carcinoma of the thyroid gland. Oncologist. 2011;16(5):585-593
+  doi: 10.1634/theoncologist.2010-0405
+  pmid: '21482585'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-912
+  legacy_id: null
+  title: Haugen BR, et al. 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer. Thyroid. 2016;26(1):1-133
+  citation: Haugen BR, et al. 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer. Thyroid. 2016;26(1):1-133
+  doi: 10.1089/thy.2015.0020
+  pmid: '26462967'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（PMC で無料公開）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-913
+  legacy_id: null
+  title: 'Filetti S, et al. Thyroid cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2019;30(12):1856-1883'
+  citation: 'Filetti S, et al. Thyroid cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2019;30(12):1856-1883'
+  doi: 10.1093/annonc/mdz400
+  pmid: '31549998'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-914
+  legacy_id: null
+  title: Bartalena L, et al. The 2021 European Group on Graves' orbitopathy (EUGOGO) clinical practice guidelines for the medical management of Graves' orbitopathy. Eur J Endocrinol. 2021;185(4):G43-G67
+  citation: Bartalena L, et al. The 2021 European Group on Graves' orbitopathy (EUGOGO) clinical practice guidelines for the medical management of Graves' orbitopathy. Eur J Endocrinol. 2021;185(4):G43-G67
+  doi: 10.1530/EJE-21-0479
+  pmid: '34297684'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-915
+  legacy_id: null
+  title: Cooper DS, Biondi B. Subclinical thyroid disease. Lancet. 2012;379(9821):1142-1154
+  citation: Cooper DS, Biondi B. Subclinical thyroid disease. Lancet. 2012;379(9821):1142-1154
+  doi: 10.1016/S0140-6736(11)60276-6
+  pmid: '22273398'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-921
+  legacy_id: null
+  title: 'Bilezikian JP, Khan AA, Silverberg SJ, Fuleihan GE, Marcocci C, Minisola S, Perrier N, Sitges-Serra A, Thakker RV, Guyatt G, Mannstadt M, Potts JT, Clarke BL, Brandi ML; International Workshop on Primary Hyperparathyroidism. Evaluation and Management of Primary Hyperparathyroidism: Summary Statement and Guidelines from the Fifth International Workshop. J Bone Miner Res. 2022;37(11):2293-2314'
+  citation: 'Bilezikian JP, Khan AA, Silverberg SJ, Fuleihan GE, Marcocci C, Minisola S, Perrier N, Sitges-Serra A, Thakker RV, Guyatt G, Mannstadt M, Potts JT, Clarke BL, Brandi ML; International Workshop on Primary Hyperparathyroidism. Evaluation and Management of Primary Hyperparathyroidism: Summary Statement and Guidelines from the Fifth International Workshop. J Bone Miner Res. 2022;37(11):2293-2314'
+  doi: 10.1002/jbmr.4677
+  pmid: '36245251'
+  pmcid: null
+  license_note: Creative Commons Attribution-NonCommercial-NoDerivs License (CC BY-NC-ND)
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-922
+  legacy_id: null
+  title: 'Kochman M. Primary hyperparathyroidism: clinical manifestations, diagnosis and evaluation according to the Fifth International Workshop guidelines. Reumatologia. 2023;61(4):256-263'
+  citation: 'Kochman M. Primary hyperparathyroidism: clinical manifestations, diagnosis and evaluation according to the Fifth International Workshop guidelines. Reumatologia. 2023;61(4):256-263'
+  doi: 10.5114/reum/170705
+  pmid: '37745146'
+  pmcid: null
+  license_note: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-923
+  legacy_id: null
+  title: Khan AA, Bilezikian JP, Brandi ML, Clarke BL, Gittoes NJ, Pasieka JL, Rejnmark L, Shoback DM, Potts JT, Guyatt GH, Mannstadt M. Evaluation and Management of Hypoparathyroidism Summary Statement and Guidelines from the Second International Workshop. J Bone Miner Res. 2022;37(12):2568-2585
+  citation: Khan AA, Bilezikian JP, Brandi ML, Clarke BL, Gittoes NJ, Pasieka JL, Rejnmark L, Shoback DM, Potts JT, Guyatt GH, Mannstadt M. Evaluation and Management of Hypoparathyroidism Summary Statement and Guidelines from the Second International Workshop. J Bone Miner Res. 2022;37(12):2568-2585
+  doi: 10.1002/jbmr.4691
+  pmid: '36054621'
+  pmcid: null
+  license_note: Creative Commons Attribution License (CC BY)
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-927
+  legacy_id: null
+  title: 'Soen S, Fukunaga M, Sugimoto T, Sone T, Fujiwara S, Endo N, Gorai I, Shiraki M, Hagino H, Hosoi T, Ohta H, Yoneda T, Tomomitsu T; Japanese Society for Bone and Mineral Research and Japan Osteoporosis Society Joint Review Committee for the Revision of the Diagnostic Criteria for Primary Osteoporosis. Diagnostic criteria for primary osteoporosis: year 2012 revision. J Bone Miner Metab. 2013;31(3):247-257.'
+  citation: 'Soen S, Fukunaga M, Sugimoto T, Sone T, Fujiwara S, Endo N, Gorai I, Shiraki M, Hagino H, Hosoi T, Ohta H, Yoneda T, Tomomitsu T; Japanese Society for Bone and Mineral Research and Japan Osteoporosis Society Joint Review Committee for the Revision of the Diagnostic Criteria for Primary Osteoporosis. Diagnostic criteria for primary osteoporosis: year 2012 revision. J Bone Miner Metab. 2013;31(3):247-257.'
+  doi: 10.1007/s00774-013-0447-8
+  pmid: '23553500'
+  pmcid: null
+  license_note: © The Japanese Society for Bone and Mineral Research and Springer Japan 2013（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-928
+  legacy_id: null
+  title: Orimo H, Nakamura T, Hosoi T, Iki M, Uenishi K, Endo N, Ohta H, Shiraki M, Sugimoto T, Suzuki T, Soen S, Nishizawa Y, Hagino H, Fukunaga M, Fujiwara S. Japanese 2011 guidelines for prevention and treatment of osteoporosis—executive summary. Arch Osteoporos. 2012;7(1-2):3-20.
+  citation: Orimo H, Nakamura T, Hosoi T, Iki M, Uenishi K, Endo N, Ohta H, Shiraki M, Sugimoto T, Suzuki T, Soen S, Nishizawa Y, Hagino H, Fukunaga M, Fujiwara S. Japanese 2011 guidelines for prevention and treatment of osteoporosis—executive summary. Arch Osteoporos. 2012;7(1-2):3-20.
+  doi: 10.1007/s11657-012-0109-9
+  pmid: '23203733'
+  pmcid: null
+  license_note: Creative Commons Attribution Noncommercial License
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-932
+  legacy_id: null
+  title: Munns CF, Shaw N, Kiely M, Specker BL, Thacher TD, Ozono K, Michigami T, Tiosano D, Mughal MZ, Mäkitie O, et al. Global Consensus Recommendations on Prevention and Management of Nutritional Rickets. J Clin Endocrinol Metab. 2016;101(2):394-415.
+  citation: Munns CF, Shaw N, Kiely M, Specker BL, Thacher TD, Ozono K, Michigami T, Tiosano D, Mughal MZ, Mäkitie O, et al. Global Consensus Recommendations on Prevention and Management of Nutritional Rickets. J Clin Endocrinol Metab. 2016;101(2):394-415.
+  doi: 10.1210/jc.2015-2175
+  pmid: '26745253'
+  pmcid: null
+  license_note: Copyright © 2016 by the Endocrine Society（PMC掲載ページの表示。CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-933
+  legacy_id: null
+  title: 'Okazaki R, Ozono K, Fukumoto S, Inoue D, Yamauchi M, Minagawa M, Michigami T, Takeuchi Y, Matsumoto T, Sugimoto T. Assessment criteria for vitamin D deficiency/insufficiency in Japan: proposal by an expert panel supported by the Research Program of Intractable Diseases, Ministry of Health, Labour and Welfare, Japan, the Japanese Society for Bone and Mineral Research and the Japan Endocrine Society [Opinion]. J Bone Miner Metab. 2017;35(1):1-5.'
+  citation: 'Okazaki R, Ozono K, Fukumoto S, Inoue D, Yamauchi M, Minagawa M, Michigami T, Takeuchi Y, Matsumoto T, Sugimoto T. Assessment criteria for vitamin D deficiency/insufficiency in Japan: proposal by an expert panel supported by the Research Program of Intractable Diseases, Ministry of Health, Labour and Welfare, Japan, the Japanese Society for Bone and Mineral Research and the Japan Endocrine Society [Opinion]. J Bone Miner Metab. 2017;35(1):1-5.'
+  doi: 10.1007/s00774-016-0805-4
+  pmid: '27882481'
+  pmcid: null
+  license_note: © The Japanese Society for Bone and Mineral Research and Springer Japan 2016（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-934
+  legacy_id: null
+  title: 'El-Hajj Fuleihan G, Clines GA, Hu MI, Marcocci C, Murad MH, Piggott T, Van Poznak C, Wu JY, Drake MT. Treatment of Hypercalcemia of Malignancy in Adults: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2023;108(3):507-528.'
+  citation: 'El-Hajj Fuleihan G, Clines GA, Hu MI, Marcocci C, Murad MH, Piggott T, Van Poznak C, Wu JY, Drake MT. Treatment of Hypercalcemia of Malignancy in Adults: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2023;108(3):507-528.'
+  doi: 10.1210/clinem/dgac621
+  pmid: '36545746'
+  pmcid: null
+  license_note: Oxford University Press の standard publication reuse rights（Crossrefのライセンス情報。CC表示なし）。学会ガイドライン
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
+- id: SRC-935
+  legacy_id: null
+  title: 'Minisola S, Fukumoto S, Xia W, Corsi A, Colangelo L, Scillitani A, et al. Tumor-induced Osteomalacia: A Comprehensive Review. Endocr Rev. 2023;44(2):323-353.'
+  citation: 'Minisola S, Fukumoto S, Xia W, Corsi A, Colangelo L, Scillitani A, et al. Tumor-induced Osteomalacia: A Comprehensive Review. Endocr Rev. 2023;44(2):323-353.'
+  doi: 10.1210/endrev/bnac026
+  pmid: '36327295'
+  pmcid: null
+  license_note: Oxford University Press の standard publication reuse rights（Crossrefのライセンス情報。CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/20_en_a.md の出典マスター表から
