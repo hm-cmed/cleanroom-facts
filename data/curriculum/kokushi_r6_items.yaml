@@ -1,4 +1,4 @@
-# 医師国家試験出題基準（令和6年版）医学各論の小項目（番号・名称・レベル）。Ⅳ は 2026-10-28、Ⅴ は 2026-10-25、Ⅵ は 2026-10-21 に転記
+# 医師国家試験出題基準（令和6年版）医学各論の小項目（番号・名称・レベル）。Ⅳ・Ⅷ は 2026-10-28、Ⅴ は 2026-10-25、Ⅵ は 2026-10-21 に転記
 # 出典：厚生労働省 医学各論 PDF https://www.mhlw.go.jp/content/10803000/001079484.pdf
 # 備考欄は転記していない。項目の構成（番号・名称・レベル）だけを、問題の分類と配分の計算に使う。
 # checked: 原本 PDF と人が照合したら true にする（2026-10-21 は Claude Code の読み取り結果からの転記で、未照合）。
@@ -407,3 +407,214 @@ chapters:
           - {code: Ⅵ-12-G-⑤, name: "精巣水瘤", level: b}
           - {code: Ⅵ-12-G-⑥, name: "臍帯ヘルニア", level: c}
           - {code: Ⅵ-12-G-⑦, name: "腹壁破裂", level: c}
+  - id: Ⅷ
+    name: 腎・泌尿器・生殖器疾患
+    note: 小項目の番号（①など）がない中項目（例：Ⅷ-3-B 慢性腎臓病<CKD>）は、中項目の番号をそのまま code にした。2026-10-28 に Claude Code の読み取り結果から転記（未照合）。読み取りの「腎塞」は「腎梗塞」と、「子宮腔癒着{症}」は「子宮腔癒着症」と、「CKDMBD」は「CKD-MBD」と書き、無精子症の「(新規)」の注記は除いた。「子宮留膿症・腫」「卵管留膿症・腫」は読み取りのままで、原本で要確認。
+    groups:
+      - id: "1"
+        name: 糸球体病変
+        items:
+          - {code: Ⅷ-1-A-①, name: "急性糸球体腎炎", level: a}
+          - {code: Ⅷ-1-A-②, name: "急速進行性糸球体腎炎症候群", level: a}
+          - {code: Ⅷ-1-A-③, name: "慢性糸球体腎炎", level: a}
+          - {code: Ⅷ-1-B-①, name: "微小変化群", level: a}
+          - {code: Ⅷ-1-B-②, name: "巣状分節性糸球体硬化症", level: a}
+          - {code: Ⅷ-1-B-③, name: "膜性腎症", level: a}
+          - {code: Ⅷ-1-B-④, name: "膜性増殖性糸球体腎炎", level: c}
+          - {code: Ⅷ-1-C-①, name: "糖尿病腎症", level: a}
+          - {code: Ⅷ-1-C-②, name: "IgA血管炎", level: b}
+          - {code: Ⅷ-1-C-③, name: "アミロイド腎症", level: c}
+          - {code: Ⅷ-1-C-④, name: "二次性膜性腎症", level: c}
+          - {code: Ⅷ-1-D-①, name: "顕微鏡的多発血管炎", level: a}
+          - {code: Ⅷ-1-D-②, name: "全身性エリテマトーデス<SLE>", level: b}
+          - {code: Ⅷ-1-D-③, name: "全身性強皮症", level: b}
+          - {code: Ⅷ-1-D-④, name: "関節リウマチ", level: c}
+          - {code: Ⅷ-1-D-⑤, name: "多発血管炎性肉芽腫症", level: c}
+          - {code: Ⅷ-1-E-①, name: "血尿", level: a}
+          - {code: Ⅷ-1-E-②, name: "蛋白尿", level: a}
+          - {code: Ⅷ-1-F-①, name: "Alport症候群", level: c}
+          - {code: Ⅷ-1-F-②, name: "基底膜菲薄化症候群<良性家族性血尿>", level: c}
+          - {code: Ⅷ-1-F-③, name: "Fabry病", level: c}
+      - id: "2"
+        name: 血管・尿細管・間質病変
+        items:
+          - {code: Ⅷ-2-A-①, name: "高血圧性腎硬化症", level: a}
+          - {code: Ⅷ-2-A-②, name: "腎血管性高血圧症", level: b}
+          - {code: Ⅷ-2-A-③, name: "悪性腎硬化症、悪性高血圧症", level: b}
+          - {code: Ⅷ-2-A-④, name: "腎梗塞", level: b}
+          - {code: Ⅷ-2-A-⑤, name: "コレステロール塞栓症", level: b}
+          - {code: Ⅷ-2-A-⑥, name: "全身性強皮症", level: b}
+          - {code: Ⅷ-2-A-⑦, name: "腎静脈血栓症", level: c}
+          - {code: Ⅷ-2-A-⑧, name: "結節性多発動脈炎", level: c}
+          - {code: Ⅷ-2-B-①, name: "急性尿細管壊死", level: a}
+          - {code: Ⅷ-2-B-②, name: "急性間質性腎炎", level: a}
+          - {code: Ⅷ-2-B-③, name: "骨髄腫腎", level: b}
+          - {code: Ⅷ-2-B-④, name: "慢性間質性腎炎", level: b}
+          - {code: Ⅷ-2-B-⑤, name: "Sjögren症候群", level: b}
+          - {code: Ⅷ-2-B-⑥, name: "IgG4関連疾患", level: b}
+          - {code: Ⅷ-2-B-⑦, name: "中毒性腎障害", level: b}
+          - {code: Ⅷ-2-B-⑧, name: "尿酸腎症<痛風腎>", level: c}
+          - {code: Ⅷ-2-C-①, name: "尿細管性アシドーシス", level: b}
+          - {code: Ⅷ-2-C-②, name: "シスチン尿症", level: b}
+          - {code: Ⅷ-2-C-③, name: "腎性尿崩症", level: c}
+          - {code: Ⅷ-2-C-④, name: "Bartter症候群", level: c}
+          - {code: Ⅷ-2-C-⑤, name: "Gitelman症候群", level: c}
+          - {code: Ⅷ-2-C-⑥, name: "Liddle症候群", level: c}
+      - id: "3"
+        name: 腎機能の障害による異常
+        items:
+          - {code: Ⅷ-3-A-①, name: "急性腎障害(腎前性・腎性・腎後性)", level: a}
+          - {code: Ⅷ-3-A-②, name: "急性尿細管壊死", level: a}
+          - {code: Ⅷ-3-A-③, name: "横紋筋融解症", level: a}
+          - {code: Ⅷ-3-A-④, name: "溶血性尿毒症症候群<HUS>", level: a}
+          - {code: Ⅷ-3-B, name: "慢性腎臓病<CKD>", level: a}
+          - {code: Ⅷ-3-C-①, name: "腎性貧血", level: a}
+          - {code: Ⅷ-3-C-②, name: "ミネラル骨代謝異常<CKD-MBD>", level: a}
+          - {code: Ⅷ-3-D-①, name: "透析アミロイドーシス", level: c}
+          - {code: Ⅷ-3-E-①, name: "脱水と浮腫", level: a}
+          - {code: Ⅷ-3-E-②, name: "ナトリウム代謝異常", level: a}
+          - {code: Ⅷ-3-E-③, name: "カリウム代謝異常", level: a}
+          - {code: Ⅷ-3-E-④, name: "カルシウム代謝異常", level: a}
+          - {code: Ⅷ-3-E-⑤, name: "リン代謝異常", level: b}
+          - {code: Ⅷ-3-E-⑥, name: "マグネシウム代謝異常", level: b}
+          - {code: Ⅷ-3-F-①, name: "アシドーシス", level: a}
+          - {code: Ⅷ-3-F-②, name: "アルカローシス", level: a}
+      - id: "4"
+        name: 腎・尿路結石と尿路閉塞性疾患
+        items:
+          - {code: Ⅷ-4-A-①, name: "腎結石、尿管結石", level: a}
+          - {code: Ⅷ-4-A-②, name: "膀胱結石、尿道結石", level: a}
+          - {code: Ⅷ-4-B-①, name: "上部尿路閉塞性疾患", level: a}
+          - {code: Ⅷ-4-B-②, name: "下部尿路閉塞性疾患", level: a}
+          - {code: Ⅷ-4-C-①, name: "神経因性膀胱", level: a}
+          - {code: Ⅷ-4-C-②, name: "膀胱尿管逆流症", level: a}
+      - id: "5"
+        name: 腎・尿路・生殖器の炎症
+        items:
+          - {code: Ⅷ-5-A-①, name: "急性腎盂腎炎", level: a}
+          - {code: Ⅷ-5-A-②, name: "膀胱炎", level: a}
+          - {code: Ⅷ-5-A-③, name: "尿道炎", level: a}
+          - {code: Ⅷ-5-A-④, name: "腎膿瘍", level: b}
+          - {code: Ⅷ-5-A-⑤, name: "慢性腎盂腎炎", level: c}
+          - {code: Ⅷ-5-B-①, name: "前立腺炎", level: a}
+          - {code: Ⅷ-5-B-②, name: "精巣上体炎", level: a}
+          - {code: Ⅷ-5-B-③, name: "精巣炎", level: b}
+          - {code: Ⅷ-5-B-④, name: "亀頭包皮炎", level: b}
+          - {code: Ⅷ-5-C-①, name: "腟炎", level: a}
+          - {code: Ⅷ-5-C-②, name: "骨盤内炎症性疾患<PID>", level: a}
+          - {code: Ⅷ-5-C-③, name: "外陰炎", level: b}
+          - {code: Ⅷ-5-C-④, name: "Bartholin腺囊胞、Bartholin腺炎", level: b}
+          - {code: Ⅷ-5-C-⑤, name: "子宮頸管炎", level: b}
+          - {code: Ⅷ-5-C-⑥, name: "子宮内膜炎・筋層炎", level: b}
+          - {code: Ⅷ-5-C-⑦, name: "子宮留膿症・腫", level: b}
+          - {code: Ⅷ-5-C-⑧, name: "卵管留膿症・腫", level: b}
+          - {code: Ⅷ-5-D-①, name: "淋菌性尿道炎", level: a}
+          - {code: Ⅷ-5-D-②, name: "非淋菌性尿道炎", level: a}
+          - {code: Ⅷ-5-D-③, name: "性器ヘルペス", level: a}
+          - {code: Ⅷ-5-D-④, name: "尖圭コンジローマ", level: b}
+      - id: "6"
+        name: 腎・尿路・男性生殖器の腫瘍
+        items:
+          - {code: Ⅷ-6-A-①, name: "腎細胞癌", level: a}
+          - {code: Ⅷ-6-A-②, name: "腎盂・尿管癌", level: a}
+          - {code: Ⅷ-6-B-①, name: "膀胱癌", level: a}
+          - {code: Ⅷ-6-B-②, name: "尿膜管癌", level: c}
+          - {code: Ⅷ-6-C-①, name: "前立腺肥大症", level: a}
+          - {code: Ⅷ-6-C-②, name: "前立腺癌", level: a}
+          - {code: Ⅷ-6-C-③, name: "精巣癌(セミノーマ)", level: a}
+          - {code: Ⅷ-6-C-④, name: "精巣癌(非セミノーマ)", level: a}
+          - {code: Ⅷ-6-C-⑤, name: "陰茎癌", level: b}
+      - id: "7"
+        name: 女性生殖器の類腫瘍・腫瘍
+        items:
+          - {code: Ⅷ-7-A-①, name: "Bowen病", level: b}
+          - {code: Ⅷ-7-A-②, name: "外陰癌", level: b}
+          - {code: Ⅷ-7-A-③, name: "外陰Paget病", level: c}
+          - {code: Ⅷ-7-B-①, name: "子宮頸部上皮内腫瘍<CIN>", level: a}
+          - {code: Ⅷ-7-B-②, name: "子宮頸癌", level: a}
+          - {code: Ⅷ-7-B-③, name: "子宮頸管ポリープ", level: b}
+          - {code: Ⅷ-7-C-①, name: "子宮内膜増殖症", level: a}
+          - {code: Ⅷ-7-C-②, name: "子宮体癌<子宮内膜癌>", level: a}
+          - {code: Ⅷ-7-C-③, name: "子宮筋腫", level: a}
+          - {code: Ⅷ-7-C-④, name: "子宮内膜ポリープ", level: b}
+          - {code: Ⅷ-7-C-⑤, name: "子宮内膜異型増殖症", level: b}
+          - {code: Ⅷ-7-C-⑥, name: "子宮肉腫", level: b}
+          - {code: Ⅷ-7-D-①, name: "機能性卵巣囊胞", level: a}
+          - {code: Ⅷ-7-D-②, name: "表層上皮性・間質性腫瘍", level: a}
+          - {code: Ⅷ-7-D-③, name: "茎捻転", level: a}
+          - {code: Ⅷ-7-D-④, name: "胚細胞腫瘍", level: b}
+          - {code: Ⅷ-7-D-⑤, name: "卵巣・卵管・腹膜癌", level: b}
+          - {code: Ⅷ-7-D-⑥, name: "二次性<転移性>腫瘍", level: b}
+          - {code: Ⅷ-7-D-⑦, name: "性索間質性腫瘍", level: c}
+          - {code: Ⅷ-7-E-①, name: "子宮内膜症", level: a}
+          - {code: Ⅷ-7-E-②, name: "子宮腺筋症", level: b}
+          - {code: Ⅷ-7-F-①, name: "胞状奇胎", level: b}
+          - {code: Ⅷ-7-F-②, name: "存続絨毛症", level: c}
+          - {code: Ⅷ-7-F-③, name: "絨毛癌", level: c}
+          - {code: Ⅷ-7-G-①, name: "腟癌", level: c}
+      - id: "8"
+        name: 月経異常、不妊、不育
+        items:
+          - {code: Ⅷ-8-A-①, name: "視床下部性無月経", level: a}
+          - {code: Ⅷ-8-A-②, name: "下垂体性無月経", level: b}
+          - {code: Ⅷ-8-A-③, name: "卵巣性無月経", level: b}
+          - {code: Ⅷ-8-A-④, name: "子宮性無月経", level: b}
+          - {code: Ⅷ-8-B-①, name: "希発月経", level: a}
+          - {code: Ⅷ-8-B-②, name: "過多月経", level: a}
+          - {code: Ⅷ-8-B-③, name: "過少月経", level: a}
+          - {code: Ⅷ-8-C-①, name: "機能性月経困難症", level: b}
+          - {code: Ⅷ-8-C-②, name: "器質性月経困難症", level: b}
+          - {code: Ⅷ-8-D-①, name: "月経前症候群", level: a}
+          - {code: Ⅷ-8-D-②, name: "機能性子宮出血", level: a}
+          - {code: Ⅷ-8-D-③, name: "無排卵", level: b}
+          - {code: Ⅷ-8-D-④, name: "黄体機能不全", level: b}
+          - {code: Ⅷ-8-D-⑤, name: "高プロラクチン血症、乳汁漏出症", level: b}
+          - {code: Ⅷ-8-D-⑥, name: "多囊胞性卵巣症候群<PCOS>", level: b}
+          - {code: Ⅷ-8-E-①, name: "女性不妊症", level: a}
+          - {code: Ⅷ-8-E-②, name: "閉塞性無精子症", level: a}
+          - {code: Ⅷ-8-E-③, name: "非閉塞性無精子症", level: a}
+          - {code: Ⅷ-8-E-④, name: "男性不妊症", level: b}
+          - {code: Ⅷ-8-E-⑤, name: "不育症", level: c}
+          - {code: Ⅷ-8-F, name: "避妊", level: a}
+      - id: "9"
+        name: 更年期・閉経後障害
+        items:
+          - {code: Ⅷ-9-A, name: "更年期障害", level: a}
+          - {code: Ⅷ-9-B-①, name: "骨粗鬆症", level: a}
+          - {code: Ⅷ-9-B-②, name: "萎縮性腟炎", level: b}
+          - {code: Ⅷ-9-B-③, name: "脂質異常症", level: b}
+          - {code: Ⅷ-9-B-④, name: "動脈硬化", level: b}
+          - {code: Ⅷ-9-B-⑤, name: "冠動脈疾患", level: b}
+      - id: "10"
+        name: その他の尿路・生殖器異常
+        items:
+          - {code: Ⅷ-10-A-①, name: "重複腎盂尿管", level: a}
+          - {code: Ⅷ-10-A-②, name: "異所性尿管開口", level: a}
+          - {code: Ⅷ-10-A-③, name: "膀胱瘤", level: a}
+          - {code: Ⅷ-10-A-④, name: "単純性腎囊胞", level: b}
+          - {code: Ⅷ-10-A-⑤, name: "囊胞腎", level: b}
+          - {code: Ⅷ-10-A-⑥, name: "馬蹄腎", level: b}
+          - {code: Ⅷ-10-A-⑦, name: "膀胱憩室", level: b}
+          - {code: Ⅷ-10-B-①, name: "尿道下裂", level: a}
+          - {code: Ⅷ-10-B-②, name: "包茎", level: a}
+          - {code: Ⅷ-10-B-③, name: "停留精巣", level: a}
+          - {code: Ⅷ-10-B-④, name: "精巣・精索水瘤", level: a}
+          - {code: Ⅷ-10-B-⑤, name: "精索静脈瘤", level: a}
+          - {code: Ⅷ-10-B-⑥, name: "精巣捻転症", level: a}
+          - {code: Ⅷ-10-C-①, name: "子宮の奇形", level: b}
+          - {code: Ⅷ-10-C-②, name: "腟脱、子宮脱", level: b}
+          - {code: Ⅷ-10-D-①, name: "夜尿症<夜間遺尿症>", level: a}
+          - {code: Ⅷ-10-D-②, name: "過活動膀胱", level: a}
+          - {code: Ⅷ-10-D-③, name: "腹圧性尿失禁", level: a}
+          - {code: Ⅷ-10-D-④, name: "勃起障害", level: b}
+          - {code: Ⅷ-10-D-⑤, name: "持続勃起症", level: c}
+          - {code: Ⅷ-10-E-①, name: "腎・尿路損傷", level: a}
+          - {code: Ⅷ-10-E-②, name: "陰茎折症", level: a}
+          - {code: Ⅷ-10-E-③, name: "精巣損傷", level: a}
+          - {code: Ⅷ-10-E-④, name: "膀胱腟瘻", level: b}
+          - {code: Ⅷ-10-E-⑤, name: "直腸腟瘻、膀胱腸瘻", level: b}
+          - {code: Ⅷ-10-E-⑥, name: "子宮腔癒着症<Asherman症候群>", level: b}
+          - {code: Ⅷ-10-E-⑦, name: "尿路・性器異物", level: c}
+          - {code: Ⅷ-10-E-⑧, name: "女性性器損傷", level: c}
+          - {code: Ⅷ-10-E-⑨, name: "尿管腟瘻", level: c}
+          - {code: Ⅷ-10-E-⑩, name: "月経瘻", level: c}

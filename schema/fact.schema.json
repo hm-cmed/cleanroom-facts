@@ -8,11 +8,11 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^(HP|UG|ES|GD|IN|LV|BP|AB|XS|NG|AR|HF|CH|VD|IH|MP|HT|VS|CX|RI|RO|IL|PV|LC|PL|RX)-[0-9]{3}$"
+      "pattern": "^(HP|UG|ES|GD|IN|LV|BP|AB|XS|NG|AR|HF|CH|VD|IH|MP|HT|VS|CX|RI|RO|IL|PV|LC|PL|RX|GN|KT|KF|KX|UR|GU|GY|RP)-[0-9]{3}$"
     },
     "domain": {
       "type": "string",
-      "enum": ["HP", "UG", "ES", "GD", "IN", "LV", "BP", "AB", "XS", "NG", "AR", "HF", "CH", "VD", "IH", "MP", "HT", "VS", "CX", "RI", "RO", "IL", "PV", "LC", "PL", "RX"]
+      "enum": ["HP", "UG", "ES", "GD", "IN", "LV", "BP", "AB", "XS", "NG", "AR", "HF", "CH", "VD", "IH", "MP", "HT", "VS", "CX", "RI", "RO", "IL", "PV", "LC", "PL", "RX", "GN", "KT", "KF", "KX", "UR", "GU", "GY", "RP"]
     },
     "subdomain": { "type": ["string", "null"] },
     "assertion": {

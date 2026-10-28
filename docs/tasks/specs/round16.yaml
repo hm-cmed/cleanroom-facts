@@ -1,0 +1,77 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round15_KU.md
+round: 16
+name: 腎・泌尿器・生殖器 第16回（KF・KX）
+id_start:
+  KF: 1
+  KX: 1
+src_range:
+- 631
+- 690
+target_cards:
+- 60
+- 90
+targets:
+- code: Ⅷ-3-A-①
+  name: 急性腎障害(腎前性・腎性・腎後性)
+  level: a
+  prefix: KF
+- code: Ⅷ-3-A-②
+  name: 急性尿細管壊死
+  level: a
+  prefix: KF
+- code: Ⅷ-3-A-③
+  name: 横紋筋融解症
+  level: a
+  prefix: KF
+- code: Ⅷ-3-A-④
+  name: 溶血性尿毒症症候群<HUS>
+  level: a
+  prefix: KF
+- code: Ⅷ-3-B
+  name: 慢性腎臓病<CKD>
+  level: a
+  prefix: KF
+- code: Ⅷ-3-C-①
+  name: 腎性貧血
+  level: a
+  prefix: KF
+- code: Ⅷ-3-C-②
+  name: ミネラル骨代謝異常<CKD-MBD>
+  level: a
+  prefix: KF
+- code: Ⅷ-3-D-①
+  name: 透析アミロイドーシス
+  level: c
+  prefix: KF
+- code: Ⅷ-3-E-①
+  name: 脱水と浮腫
+  level: a
+  prefix: KF
+- code: Ⅷ-3-E-②
+  name: ナトリウム代謝異常
+  level: a
+  prefix: KF
+- code: Ⅷ-3-E-③
+  name: カリウム代謝異常
+  level: a
+  prefix: KF
+- code: Ⅷ-3-E-④
+  name: カルシウム代謝異常
+  level: a
+  prefix: KF
+- code: Ⅷ-3-E-⑤
+  name: リン代謝異常
+  level: b
+  prefix: KF
+- code: Ⅷ-3-E-⑥
+  name: マグネシウム代謝異常
+  level: b
+  prefix: KF
+- code: Ⅷ-3-F-①
+  name: アシドーシス
+  level: a
+  prefix: KF
+- code: Ⅷ-3-F-②
+  name: アルカローシス
+  level: a
+  prefix: KF

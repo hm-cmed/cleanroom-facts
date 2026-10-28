@@ -27,3 +27,11 @@
 - {prefix: LC, name: 気管支・肺・胸膜・縦隔の腫瘍, field: 呼吸器}
 - {prefix: PL, name: 胸膜・縦隔・横隔膜・胸郭、呼吸調節異常, field: 呼吸器}
 - {prefix: RX, name: 呼吸器の症候・検査・治療（横断）, field: 呼吸器}
+- {prefix: GN, name: 糸球体疾患, field: 腎・泌尿器・生殖器}
+- {prefix: KT, name: 腎血管・尿細管・間質疾患, field: 腎・泌尿器・生殖器}
+- {prefix: KF, name: 腎不全・水電解質・酸塩基平衡, field: 腎・泌尿器・生殖器}
+- {prefix: KX, name: 腎・泌尿器の症候・検査・治療（横断）, field: 腎・泌尿器・生殖器}
+- {prefix: UR, name: 尿路の結石・閉塞・炎症・形態と機能の異常・損傷, field: 腎・泌尿器・生殖器}
+- {prefix: GU, name: 尿路と男性生殖器の腫瘍、男性生殖器の疾患, field: 腎・泌尿器・生殖器}
+- {prefix: GY, name: 女性生殖器の炎症・腫瘍・形態異常・損傷, field: 腎・泌尿器・生殖器}
+- {prefix: RP, name: 月経異常・不妊・避妊・更年期, field: 腎・泌尿器・生殖器}
