@@ -42,3 +42,13 @@
 - {prefix: BR, name: 乳腺・乳房疾患, field: 内分泌・代謝・栄養・乳腺}
 - {prefix: IE, name: 小児の内分泌疾患・先天代謝異常, field: 内分泌・代謝・栄養・乳腺}
 - {prefix: EX, name: 内分泌・代謝の症候・検査・治療（横断）, field: 内分泌・代謝・栄養・乳腺}
+- {prefix: SK, name: 炎症性皮膚疾患, field: 皮膚・頭頸部}
+- {prefix: DT, name: 腫瘍・母斑性皮膚疾患, field: 皮膚・頭頸部}
+- {prefix: SD, name: その他の皮膚疾患（水疱症・角化症・皮膚感染症など）, field: 皮膚・頭頸部}
+- {prefix: HX, name: 皮膚・頭頸部の症候・検査・治療（横断）, field: 皮膚・頭頸部}
+- {prefix: EY, name: 視機能・視神経、眼窩・外眼部・前眼部・眼球の疾患, field: 皮膚・頭頸部}
+- {prefix: RE, name: ぶどう膜・網膜・硝子体疾患, field: 皮膚・頭頸部}
+- {prefix: OT, name: 外耳・中耳・内耳と脳神経の疾患, field: 皮膚・頭頸部}
+- {prefix: NL, name: 鼻腔・副鼻腔・喉頭疾患, field: 皮膚・頭頸部}
+- {prefix: OR, name: 咽頭・口腔・唾液腺・頸部の疾患, field: 皮膚・頭頸部}
+- {prefix: TR, name: 皮膚・頭頸部の損傷と奇形, field: 皮膚・頭頸部}

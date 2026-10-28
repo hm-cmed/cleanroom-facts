@@ -9,6 +9,300 @@ pdf_text_checked: 2026-10-28
 transcribed: 2026-10-21
 source: https://www.mhlw.go.jp/content/10803000/001079484.pdf
 chapters:
+  - id: Ⅲ
+    name: 皮膚・頭頸部疾患
+    note: 2026-10-28 に、Muse の読み取り（proposals/23_derm_division_proposal.md）と厚生労働省 PDF のテキスト層を突き合わせて転記。全257項目の名称・レベルが一致した。小項目の番号がない中項目（Ⅲ-2-D リンパ管腫、Ⅲ-11-E 喉頭損傷）は中項目の番号を code にした。原文の「兎眼{症}」「未熟{児}網膜症」は括弧を外した。Ⅲ-3-H-② は原文が「弾性線維性仮性黄色腫」（Ⅹ-9-G-① は「偽性」）で、原文どおりにした。「三叉」の「叉」は PDF の外字。人による原本照合は未了。
+    groups:
+      - id: "1"
+        name: 炎症性皮膚疾患
+        items:
+          - {code: Ⅲ-1-A-①, name: "アトピー性皮膚炎", level: a}
+          - {code: Ⅲ-1-A-②, name: "接触皮膚炎", level: a}
+          - {code: Ⅲ-1-A-③, name: "脂漏性皮膚炎", level: a}
+          - {code: Ⅲ-1-A-④, name: "皮脂欠乏性湿疹", level: a}
+          - {code: Ⅲ-1-A-⑤, name: "貨幣状湿疹", level: b}
+          - {code: Ⅲ-1-A-⑥, name: "自家感作性皮膚炎", level: b}
+          - {code: Ⅲ-1-A-⑦, name: "うっ滞性皮膚炎", level: b}
+          - {code: Ⅲ-1-B-①, name: "血管性浮腫", level: a}
+          - {code: Ⅲ-1-C-①, name: "結節性痒疹", level: a}
+          - {code: Ⅲ-1-C-②, name: "色素性痒疹", level: b}
+          - {code: Ⅲ-1-D-①, name: "Stevens-Johnson症候群", level: a}
+          - {code: Ⅲ-1-D-②, name: "中毒性表皮壊死症<toxic epidermal necrolysis>", level: a}
+          - {code: Ⅲ-1-D-③, name: "薬剤性過敏症症候群<drug-induced hypersensitivity syndrome>", level: a}
+          - {code: Ⅲ-1-D-④, name: "固定薬疹", level: b}
+          - {code: Ⅲ-1-E-①, name: "多形滲出性紅斑", level: a}
+          - {code: Ⅲ-1-E-②, name: "結節性紅斑", level: a}
+          - {code: Ⅲ-1-F-①, name: "Sweet病", level: c}
+          - {code: Ⅲ-1-F-②, name: "壊疽性膿皮症", level: b}
+          - {code: Ⅲ-1-G-①, name: "血栓性静脈炎", level: a}
+          - {code: Ⅲ-1-G-②, name: "凍瘡", level: a}
+          - {code: Ⅲ-1-G-③, name: "網状皮斑", level: b}
+      - id: "2"
+        name: 腫瘍・母斑性皮膚疾患
+        items:
+          - {code: Ⅲ-2-A-①, name: "脂腺母斑、表皮母斑、色素性母斑、太田母斑", level: b}
+          - {code: Ⅲ-2-B-①, name: "神経線維腫症1型<von Recklinghausen病>", level: b}
+          - {code: Ⅲ-2-B-②, name: "結節性硬化症", level: b}
+          - {code: Ⅲ-2-C-①, name: "Kasabach-Merritt症候群", level: b}
+          - {code: Ⅲ-2-C-②, name: "毛細血管奇形<単純性血管腫>", level: c}
+          - {code: Ⅲ-2-C-③, name: "乳児血管腫<イチゴ状血管腫>", level: c}
+          - {code: Ⅲ-2-C-④, name: "静脈奇形<海綿状血管腫>", level: c}
+          - {code: Ⅲ-2-D, name: "リンパ管腫", level: b}
+          - {code: Ⅲ-2-E-①, name: "粉瘤", level: a}
+          - {code: Ⅲ-2-E-②, name: "脂漏性角化症", level: b}
+          - {code: Ⅲ-2-E-③, name: "ケラトアカントーマ", level: b}
+          - {code: Ⅲ-2-E-④, name: "ケロイド", level: b}
+          - {code: Ⅲ-2-E-⑤, name: "皮膚線維腫", level: c}
+          - {code: Ⅲ-2-E-⑥, name: "毛細血管拡張性肉芽腫", level: c}
+          - {code: Ⅲ-2-E-⑦, name: "グロムス腫瘍", level: c}
+          - {code: Ⅲ-2-E-⑧, name: "色素性蕁麻疹", level: c}
+          - {code: Ⅲ-2-F-①, name: "有棘細胞癌", level: a}
+          - {code: Ⅲ-2-F-②, name: "基底細胞癌", level: a}
+          - {code: Ⅲ-2-F-③, name: "悪性黒色腫", level: a}
+          - {code: Ⅲ-2-F-④, name: "日光角化症", level: b}
+          - {code: Ⅲ-2-F-⑤, name: "乳房外Paget病", level: b}
+          - {code: Ⅲ-2-F-⑥, name: "Bowen病", level: b}
+          - {code: Ⅲ-2-F-⑦, name: "血管肉腫", level: b}
+          - {code: Ⅲ-2-G-①, name: "菌状息肉症", level: a}
+          - {code: Ⅲ-2-G-②, name: "Sézary症候群", level: b}
+      - id: "3"
+        name: その他の皮膚疾患
+        items:
+          - {code: Ⅲ-3-A-①, name: "Hailey-Hailey病", level: b}
+          - {code: Ⅲ-3-A-②, name: "先天性表皮水疱症", level: c}
+          - {code: Ⅲ-3-B-①, name: "天疱瘡", level: a}
+          - {code: Ⅲ-3-B-②, name: "水疱性類天疱瘡", level: a}
+          - {code: Ⅲ-3-B-③, name: "後天性表皮水疱症", level: c}
+          - {code: Ⅲ-3-C-①, name: "魚鱗癬", level: b}
+          - {code: Ⅲ-3-C-②, name: "掌蹠角化症", level: b}
+          - {code: Ⅲ-3-C-③, name: "Darier病", level: b}
+          - {code: Ⅲ-3-C-④, name: "汗孔角化症", level: c}
+          - {code: Ⅲ-3-D-①, name: "乾癬", level: a}
+          - {code: Ⅲ-3-D-②, name: "扁平苔癬", level: a}
+          - {code: Ⅲ-3-D-③, name: "Gibertばら色粃糠疹", level: b}
+          - {code: Ⅲ-3-D-④, name: "類乾癬", level: c}
+          - {code: Ⅲ-3-E-①, name: "膿疱性乾癬", level: b}
+          - {code: Ⅲ-3-E-②, name: "掌蹠膿疱症", level: b}
+          - {code: Ⅲ-3-F-①, name: "慢性光線性皮膚炎", level: b}
+          - {code: Ⅲ-3-G-①, name: "尋常性白斑", level: b}
+          - {code: Ⅲ-3-H-①, name: "色素性乾皮症", level: b}
+          - {code: Ⅲ-3-H-②, name: "弾性線維性仮性黄色腫", level: b}
+          - {code: Ⅲ-3-H-③, name: "Werner症候群", level: c}
+          - {code: Ⅲ-3-I-①, name: "多汗症、無汗症", level: a}
+          - {code: Ⅲ-3-J-①, name: "せつ、癰", level: a}
+          - {code: Ⅲ-3-J-②, name: "蜂巣炎<蜂窩織炎>", level: a}
+          - {code: Ⅲ-3-J-③, name: "ひょう疽", level: a}
+          - {code: Ⅲ-3-J-④, name: "丹毒", level: a}
+          - {code: Ⅲ-3-J-⑤, name: "伝染性膿痂疹", level: a}
+          - {code: Ⅲ-3-J-⑥, name: "ブドウ球菌性熱傷様皮膚症候群", level: a}
+          - {code: Ⅲ-3-J-⑦, name: "壊死性筋膜炎", level: a}
+          - {code: Ⅲ-3-J-⑧, name: "ガス壊疽", level: b}
+          - {code: Ⅲ-3-K-①, name: "非結核性抗酸菌症", level: b}
+          - {code: Ⅲ-3-K-②, name: "尋常性狼瘡", level: c}
+          - {code: Ⅲ-3-K-③, name: "皮膚腺病", level: c}
+          - {code: Ⅲ-3-K-④, name: "硬結性紅斑", level: c}
+          - {code: Ⅲ-3-L-①, name: "白癬、カンジダ症", level: a}
+          - {code: Ⅲ-3-L-②, name: "癜風", level: b}
+          - {code: Ⅲ-3-L-③, name: "スポロトリコーシス", level: b}
+          - {code: Ⅲ-3-M-①, name: "疥癬", level: a}
+          - {code: Ⅲ-3-N-①, name: "単純ヘルペス", level: a}
+          - {code: Ⅲ-3-N-②, name: "カポジ水痘様発疹症", level: a}
+          - {code: Ⅲ-3-N-③, name: "尋常性疣贅", level: a}
+          - {code: Ⅲ-3-O-①, name: "尋常性痤瘡、酒皶様皮膚炎", level: a}
+          - {code: Ⅲ-3-P-①, name: "円形脱毛症", level: a}
+          - {code: Ⅲ-3-Q-①, name: "環状肉芽腫", level: c}
+          - {code: Ⅲ-3-R-①, name: "浮腫性硬化症", level: b}
+          - {code: Ⅲ-3-R-②, name: "脛骨前粘液水腫", level: c}
+          - {code: Ⅲ-3-S-①, name: "アミロイド苔癬", level: b}
+      - id: "4"
+        name: 視機能異常、視神経疾患
+        items:
+          - {code: Ⅲ-4-A-①, name: "弱視", level: a}
+          - {code: Ⅲ-4-A-②, name: "屈折異常", level: a}
+          - {code: Ⅲ-4-A-③, name: "調節異常", level: a}
+          - {code: Ⅲ-4-A-④, name: "色覚異常", level: c}
+          - {code: Ⅲ-4-B-①, name: "うっ血乳頭", level: a}
+          - {code: Ⅲ-4-B-②, name: "視神経炎・症", level: b}
+          - {code: Ⅲ-4-B-③, name: "視神経萎縮", level: b}
+          - {code: Ⅲ-4-C-①, name: "斜視、斜位", level: a}
+          - {code: Ⅲ-4-C-②, name: "眼筋麻痺", level: b}
+          - {code: Ⅲ-4-C-③, name: "動眼神経麻痺", level: b}
+          - {code: Ⅲ-4-C-④, name: "外転神経麻痺", level: b}
+          - {code: Ⅲ-4-C-⑤, name: "滑車神経麻痺", level: c}
+      - id: "5"
+        name: 眼窩・外眼部・前眼部・眼球の疾患
+        items:
+          - {code: Ⅲ-5-A-①, name: "眼窩腫瘍", level: b}
+          - {code: Ⅲ-5-A-②, name: "眼球突出", level: b}
+          - {code: Ⅲ-5-B-①, name: "兎眼症", level: a}
+          - {code: Ⅲ-5-B-②, name: "麦粒腫", level: a}
+          - {code: Ⅲ-5-B-③, name: "霰粒腫", level: a}
+          - {code: Ⅲ-5-B-④, name: "眼瞼内反", level: b}
+          - {code: Ⅲ-5-B-⑤, name: "眼瞼外反", level: b}
+          - {code: Ⅲ-5-B-⑥, name: "眼瞼炎", level: b}
+          - {code: Ⅲ-5-B-⑦, name: "眼瞼腫瘍", level: b}
+          - {code: Ⅲ-5-C-①, name: "結膜炎", level: a}
+          - {code: Ⅲ-5-C-②, name: "結膜下出血", level: a}
+          - {code: Ⅲ-5-C-③, name: "涙道狭窄・閉塞", level: b}
+          - {code: Ⅲ-5-C-④, name: "涙囊炎", level: b}
+          - {code: Ⅲ-5-C-⑤, name: "翼状片", level: b}
+          - {code: Ⅲ-5-C-⑥, name: "春季カタル", level: b}
+          - {code: Ⅲ-5-C-⑦, name: "角膜感染症", level: b}
+          - {code: Ⅲ-5-C-⑧, name: "角膜炎", level: b}
+          - {code: Ⅲ-5-C-⑨, name: "角膜潰瘍", level: b}
+          - {code: Ⅲ-5-C-⑩, name: "強膜炎", level: b}
+          - {code: Ⅲ-5-C-⑪, name: "涙液分泌障害", level: c}
+          - {code: Ⅲ-5-C-⑫, name: "角膜の色素沈着", level: c}
+          - {code: Ⅲ-5-D-①, name: "白内障", level: a}
+          - {code: Ⅲ-5-D-②, name: "緑内障", level: a}
+          - {code: Ⅲ-5-D-③, name: "水晶体偏位・脱臼", level: c}
+      - id: "6"
+        name: ぶどう膜・網膜・硝子体疾患
+        items:
+          - {code: Ⅲ-6-A-①, name: "Behçet病", level: a}
+          - {code: Ⅲ-6-A-②, name: "前部ぶどう膜炎<虹彩炎、虹彩毛様体炎>", level: b}
+          - {code: Ⅲ-6-A-③, name: "後部ぶどう膜炎<脈絡膜炎、網脈絡膜炎>", level: b}
+          - {code: Ⅲ-6-A-④, name: "Vogt-小柳-原田病", level: b}
+          - {code: Ⅲ-6-A-⑤, name: "サルコイドーシス", level: b}
+          - {code: Ⅲ-6-B-①, name: "眼内炎", level: b}
+          - {code: Ⅲ-6-C-①, name: "糖尿病網膜症", level: a}
+          - {code: Ⅲ-6-C-②, name: "網膜剝離", level: a}
+          - {code: Ⅲ-6-C-③, name: "網膜静脈閉塞症", level: b}
+          - {code: Ⅲ-6-C-④, name: "網膜動脈閉塞症", level: b}
+          - {code: Ⅲ-6-C-⑤, name: "網膜色素変性", level: b}
+          - {code: Ⅲ-6-C-⑥, name: "加齢黄斑変性", level: b}
+          - {code: Ⅲ-6-C-⑦, name: "未熟児網膜症", level: b}
+          - {code: Ⅲ-6-C-⑧, name: "変性近視", level: b}
+          - {code: Ⅲ-6-C-⑨, name: "中心性漿液性脈絡網膜症", level: c}
+          - {code: Ⅲ-6-C-⑩, name: "黄斑円孔、網膜上膜<網膜前膜>", level: c}
+          - {code: Ⅲ-6-D-①, name: "硝子体出血", level: b}
+          - {code: Ⅲ-6-D-②, name: "硝子体混濁", level: c}
+          - {code: Ⅲ-6-E-①, name: "脈絡膜腫瘍", level: c}
+          - {code: Ⅲ-6-E-②, name: "網膜芽細胞腫", level: c}
+      - id: "7"
+        name: 外耳・中耳疾患
+        items:
+          - {code: Ⅲ-7-A-①, name: "外耳道異物", level: a}
+          - {code: Ⅲ-7-A-②, name: "耳性帯状疱疹<Ramsay Hunt症候群>", level: a}
+          - {code: Ⅲ-7-A-③, name: "急性化膿性限局性外耳炎<耳せつ>", level: b}
+          - {code: Ⅲ-7-A-④, name: "耳垢栓塞", level: b}
+          - {code: Ⅲ-7-A-⑤, name: "聴器癌、外耳道癌", level: c}
+          - {code: Ⅲ-7-A-⑥, name: "悪性外耳道炎", level: c}
+          - {code: Ⅲ-7-B-①, name: "鼓膜炎", level: c}
+          - {code: Ⅲ-7-C-①, name: "急性中耳炎", level: a}
+          - {code: Ⅲ-7-C-②, name: "滲出性中耳炎", level: a}
+          - {code: Ⅲ-7-C-③, name: "慢性穿孔性<化膿性>中耳炎", level: b}
+          - {code: Ⅲ-7-C-④, name: "耳管機能不全", level: b}
+          - {code: Ⅲ-7-C-⑤, name: "好酸球性中耳炎", level: c}
+          - {code: Ⅲ-7-C-⑥, name: "真珠腫性中耳炎", level: c}
+          - {code: Ⅲ-7-C-⑦, name: "耳硬化症", level: c}
+      - id: "8"
+        name: 内耳・神経疾患
+        items:
+          - {code: Ⅲ-8-A-①, name: "騒音性難聴", level: a}
+          - {code: Ⅲ-8-A-②, name: "薬剤性難聴", level: a}
+          - {code: Ⅲ-8-A-③, name: "老人性難聴", level: a}
+          - {code: Ⅲ-8-A-④, name: "突発性難聴", level: a}
+          - {code: Ⅲ-8-A-⑤, name: "内耳炎", level: b}
+          - {code: Ⅲ-8-A-⑥, name: "音響外傷", level: b}
+          - {code: Ⅲ-8-A-⑦, name: "乳幼児の難聴", level: b}
+          - {code: Ⅲ-8-A-⑧, name: "ウイルス性難聴", level: b}
+          - {code: Ⅲ-8-A-⑨, name: "遺伝性難聴", level: b}
+          - {code: Ⅲ-8-A-⑩, name: "外リンパ瘻", level: c}
+          - {code: Ⅲ-8-A-⑪, name: "機能性難聴", level: c}
+          - {code: Ⅲ-8-B-①, name: "Ménière病", level: a}
+          - {code: Ⅲ-8-B-②, name: "良性発作性頭位めまい症", level: a}
+          - {code: Ⅲ-8-B-③, name: "前庭神経炎", level: a}
+          - {code: Ⅲ-8-B-④, name: "薬剤性平衡障害", level: a}
+          - {code: Ⅲ-8-B-⑤, name: "動揺病", level: a}
+          - {code: Ⅲ-8-C-①, name: "顔面神経麻痺", level: a}
+          - {code: Ⅲ-8-C-②, name: "三叉神経痛", level: a}
+          - {code: Ⅲ-8-C-③, name: "Horner症候群", level: a}
+          - {code: Ⅲ-8-C-④, name: "舌下神経麻痺", level: b}
+          - {code: Ⅲ-8-C-⑤, name: "小脳橋角部腫瘍", level: b}
+          - {code: Ⅲ-8-C-⑥, name: "舌咽神経麻痺、舌咽神経痛", level: b}
+          - {code: Ⅲ-8-C-⑦, name: "反回神経麻痺", level: b}
+          - {code: Ⅲ-8-C-⑧, name: "顔面けいれん、眼瞼けいれん", level: b}
+          - {code: Ⅲ-8-C-⑨, name: "軟口蓋麻痺", level: c}
+          - {code: Ⅲ-8-C-⑩, name: "頸静脈孔症候群", level: c}
+      - id: "9"
+        name: 鼻腔・副鼻腔・喉頭疾患
+        items:
+          - {code: Ⅲ-9-A-①, name: "鼻せつ", level: a}
+          - {code: Ⅲ-9-A-②, name: "鼻炎", level: a}
+          - {code: Ⅲ-9-A-③, name: "副鼻腔炎", level: a}
+          - {code: Ⅲ-9-A-④, name: "歯性上顎洞炎", level: a}
+          - {code: Ⅲ-9-A-⑤, name: "副鼻腔真菌症", level: b}
+          - {code: Ⅲ-9-A-⑥, name: "術後副鼻腔囊胞", level: b}
+          - {code: Ⅲ-9-A-⑦, name: "鼻・副鼻腔癌", level: b}
+          - {code: Ⅲ-9-B-①, name: "感冒<かぜ症候群>", level: a}
+          - {code: Ⅲ-9-B-②, name: "クループ症候群", level: a}
+          - {code: Ⅲ-9-B-③, name: "急性喉頭蓋炎", level: a}
+          - {code: Ⅲ-9-B-④, name: "急性喉頭炎", level: a}
+          - {code: Ⅲ-9-B-⑤, name: "喉頭癌", level: a}
+          - {code: Ⅲ-9-B-⑥, name: "急性声門下喉頭炎", level: b}
+          - {code: Ⅲ-9-B-⑦, name: "声帯ポリープ、声帯結節", level: b}
+          - {code: Ⅲ-9-B-⑧, name: "慢性喉頭炎", level: c}
+          - {code: Ⅲ-9-B-⑨, name: "喉頭乳頭腫", level: c}
+      - id: "10"
+        name: 咽頭・口腔・唾液腺疾患
+        items:
+          - {code: Ⅲ-10-A-①, name: "口角炎、舌炎", level: a}
+          - {code: Ⅲ-10-A-②, name: "アフタ性口内炎", level: a}
+          - {code: Ⅲ-10-A-③, name: "急性ヘルペス性口内炎", level: a}
+          - {code: Ⅲ-10-A-④, name: "ヘルパンギーナ", level: a}
+          - {code: Ⅲ-10-A-⑤, name: "口腔カンジダ症", level: b}
+          - {code: Ⅲ-10-A-⑥, name: "白斑<板>症", level: b}
+          - {code: Ⅲ-10-A-⑦, name: "口腔・口唇の癌、舌癌", level: b}
+          - {code: Ⅲ-10-B-①, name: "顎関節症", level: a}
+          - {code: Ⅲ-10-B-②, name: "顎骨腫瘍", level: c}
+          - {code: Ⅲ-10-C-①, name: "咽頭炎", level: a}
+          - {code: Ⅲ-10-C-②, name: "口蓋扁桃肥大症、咽頭扁桃<アデノイド>増殖症", level: a}
+          - {code: Ⅲ-10-C-③, name: "急性扁桃炎", level: a}
+          - {code: Ⅲ-10-C-④, name: "扁桃周囲炎・膿瘍", level: a}
+          - {code: Ⅲ-10-C-⑤, name: "咽後膿瘍", level: b}
+          - {code: Ⅲ-10-C-⑥, name: "慢性扁桃炎", level: b}
+          - {code: Ⅲ-10-C-⑦, name: "悪性リンパ腫", level: b}
+          - {code: Ⅲ-10-C-⑧, name: "上咽頭癌", level: b}
+          - {code: Ⅲ-10-C-⑨, name: "中咽頭癌", level: b}
+          - {code: Ⅲ-10-C-⑩, name: "下咽頭癌", level: b}
+          - {code: Ⅲ-10-C-⑪, name: "若年性血管線維腫", level: c}
+          - {code: Ⅲ-10-D-①, name: "唾石症", level: a}
+          - {code: Ⅲ-10-D-②, name: "唾液腺炎", level: b}
+          - {code: Ⅲ-10-D-③, name: "唾液腺良性腫瘍", level: b}
+          - {code: Ⅲ-10-D-④, name: "唾液腺癌", level: c}
+          - {code: Ⅲ-10-E-①, name: "頸部リンパ節炎", level: a}
+          - {code: Ⅲ-10-E-②, name: "頸部膿瘍", level: a}
+          - {code: Ⅲ-10-E-③, name: "リンパ節転移", level: a}
+          - {code: Ⅲ-10-E-④, name: "先天性頸囊胞・瘻", level: c}
+          - {code: Ⅲ-10-E-⑤, name: "リンパ管腫", level: b}
+      - id: "11"
+        name: 損傷、奇形
+        items:
+          - {code: Ⅲ-11-A-①, name: "熱傷", level: a}
+          - {code: Ⅲ-11-A-②, name: "凍傷・凍瘡", level: a}
+          - {code: Ⅲ-11-A-③, name: "電撃傷", level: a}
+          - {code: Ⅲ-11-A-④, name: "褥瘡", level: a}
+          - {code: Ⅲ-11-A-⑤, name: "角・結膜化学損傷", level: a}
+          - {code: Ⅲ-11-A-⑥, name: "光線性眼障害", level: b}
+          - {code: Ⅲ-11-B-①, name: "異物", level: a}
+          - {code: Ⅲ-11-B-②, name: "鈍的眼外傷", level: b}
+          - {code: Ⅲ-11-B-③, name: "鋭的眼外傷", level: b}
+          - {code: Ⅲ-11-C-①, name: "鼓膜損傷", level: b}
+          - {code: Ⅲ-11-C-②, name: "耳介血腫", level: c}
+          - {code: Ⅲ-11-D-①, name: "側頭骨骨折", level: b}
+          - {code: Ⅲ-11-D-②, name: "鼻骨骨折", level: b}
+          - {code: Ⅲ-11-D-③, name: "顔面骨折", level: b}
+          - {code: Ⅲ-11-D-④, name: "前頭骨骨折", level: b}
+          - {code: Ⅲ-11-D-⑤, name: "吹き抜け骨折", level: b}
+          - {code: Ⅲ-11-D-⑥, name: "視神経損傷、視神経管骨折", level: b}
+          - {code: Ⅲ-11-E, name: "喉頭損傷", level: b}
+          - {code: Ⅲ-11-F-①, name: "耳介奇形", level: c}
+          - {code: Ⅲ-11-F-②, name: "先天性耳瘻孔", level: c}
+          - {code: Ⅲ-11-F-③, name: "外耳道閉鎖症", level: c}
+          - {code: Ⅲ-11-F-④, name: "中耳奇形", level: c}
+          - {code: Ⅲ-11-F-⑤, name: "内耳奇形", level: c}
+          - {code: Ⅲ-11-G-①, name: "唇裂、口蓋裂", level: c}
   - id: Ⅳ
     name: 呼吸器・胸壁・縦隔疾患
     note: 小項目の番号（①など）がない中項目（例：Ⅳ-5-D 肺性心）は、中項目の番号をそのまま code にした。Ⅳ-1-E の中項目名は原文も「ウイルス」（2026-10-28、PDF のテキスト層で確認）。Ⅳ-5-C-② は備考欄の語を名称に含めて読み取っていたため「肺動脈性肺高血圧症」に直した（同日）。2026-10-28 に Claude Code の読み取り結果から転記（未照合）。
