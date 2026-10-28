@@ -4,12 +4,14 @@
 # checked: 原本 PDF と人が照合したら true にする（2026-10-21 は Claude Code の読み取り結果からの転記で、未照合）。
 # 新しい分野を始めるときは、その章（Ⅳ 呼吸器 など）を同じ形で足す。
 checked: false
+# pdf_text_checked: 厚生労働省 PDF のテキスト層と機械的に突き合わせた日（人による原本照合 checked とは別）。結果は reports/kokushi_text_check_20261028.md
+pdf_text_checked: 2026-10-28
 transcribed: 2026-10-21
 source: https://www.mhlw.go.jp/content/10803000/001079484.pdf
 chapters:
   - id: Ⅳ
     name: 呼吸器・胸壁・縦隔疾患
-    note: 小項目の番号（①など）がない中項目（例：Ⅳ-5-D 肺性心）は、中項目の番号をそのまま code にした。Ⅳ-1-E の中項目名は読み取りでは「ウイルス」だったため、原本で要確認。2026-10-28 に Claude Code の読み取り結果から転記（未照合）。
+    note: 小項目の番号（①など）がない中項目（例：Ⅳ-5-D 肺性心）は、中項目の番号をそのまま code にした。Ⅳ-1-E の中項目名は原文も「ウイルス」（2026-10-28、PDF のテキスト層で確認）。Ⅳ-5-C-② は備考欄の語を名称に含めて読み取っていたため「肺動脈性肺高血圧症」に直した（同日）。2026-10-28 に Claude Code の読み取り結果から転記（未照合）。
     groups:
       - id: "1"
         name: 感染性呼吸器疾患
@@ -81,7 +83,7 @@ chapters:
           - {code: Ⅳ-5-B-①, name: "急性肺血栓塞栓症", level: a}
           - {code: Ⅳ-5-B-②, name: "慢性肺血栓塞栓症", level: b}
           - {code: Ⅳ-5-C-①, name: "左心系疾患に伴う肺高血圧症", level: a}
-          - {code: Ⅳ-5-C-②, name: "肺動脈性肺高血圧症<特発性、遺伝性、続発性>", level: b}
+          - {code: Ⅳ-5-C-②, name: "肺動脈性肺高血圧症", level: b}
           - {code: Ⅳ-5-C-③, name: "肺疾患あるいは低酸素血症に続発する肺高血圧症", level: b}
           - {code: Ⅳ-5-D, name: "肺性心", level: a}
           - {code: Ⅳ-5-E, name: "肺動静脈瘻", level: b}
@@ -123,7 +125,7 @@ chapters:
           - {code: Ⅳ-8-A-③, name: "肺胞低換気症候群", level: b}
   - id: Ⅴ
     name: 心臓・脈管疾患
-    note: 小項目の番号（①など）がない中項目（例：Ⅴ-2-B 心原性ショック）は、中項目の番号をそのまま code にした。原文の「心筋塞」は「心筋梗塞」と、「{性}」は「性」と書いた。静脈疾患（8-C）は読み取りで1項目のみだったため、原本で要確認。
+    note: 小項目の番号（①など）がない中項目（例：Ⅴ-2-B 心原性ショック）は、中項目の番号をそのまま code にした。原文の「心筋塞」は「心筋梗塞」と、「{性}」は「性」と書いた。静脈疾患（8-C）は原文も1項目のみ（2026-10-28、PDF のテキスト層で確認）。
     groups:
       - id: "1"
         name: 不整脈
@@ -618,3 +620,140 @@ chapters:
           - {code: Ⅷ-10-E-⑧, name: "女性性器損傷", level: c}
           - {code: Ⅷ-10-E-⑨, name: "尿管腟瘻", level: c}
           - {code: Ⅷ-10-E-⑩, name: "月経瘻", level: c}
+  - id: Ⅹ
+    name: 内分泌・代謝・栄養・乳腺疾患
+    note: 2026-10-28 に、Muse の読み取り（proposals/20_endocrine_division_proposal.md）と、厚生労働省 PDF のテキスト層（Claude Code が抽出）を突き合わせて転記。全100項目の番号・名称・レベルが一致した。原文の「糖{質}」「副腎{皮質}癌」は括弧を外して書いた。人による原本照合は未了。
+    groups:
+      - id: "1"
+        name: 間脳・下垂体疾患
+        items:
+          - {code: Ⅹ-1-A-①, name: "中枢性摂食異常症", level: b}
+          - {code: Ⅹ-1-A-②, name: "中枢性性早熟症", level: c}
+          - {code: Ⅹ-1-A-③, name: "低ゴナドトロピン性性腺機能低下症", level: c}
+          - {code: Ⅹ-1-A-④, name: "視床下部腫瘍", level: c}
+          - {code: Ⅹ-1-B-①, name: "先端巨大症", level: a}
+          - {code: Ⅹ-1-B-②, name: "ADH不適合分泌症候群<SIADH>", level: a}
+          - {code: Ⅹ-1-B-③, name: "下垂体腫瘍", level: a}
+          - {code: Ⅹ-1-B-④, name: "Cushing病", level: b}
+          - {code: Ⅹ-1-B-⑤, name: "高プロラクチン血症", level: b}
+          - {code: Ⅹ-1-B-⑥, name: "下垂体前葉機能低下症", level: b}
+          - {code: Ⅹ-1-B-⑦, name: "中枢性尿崩症", level: b}
+          - {code: Ⅹ-1-B-⑧, name: "視床下部下垂体炎", level: c}
+      - id: "2"
+        name: 甲状腺疾患
+        items:
+          - {code: Ⅹ-2-A-①, name: "甲状腺機能亢進症", level: a}
+          - {code: Ⅹ-2-A-②, name: "甲状腺機能低下症", level: a}
+          - {code: Ⅹ-2-B-①, name: "慢性甲状腺炎<橋本病>", level: a}
+          - {code: Ⅹ-2-B-②, name: "亜急性甲状腺炎", level: a}
+          - {code: Ⅹ-2-B-③, name: "無痛性甲状腺炎", level: b}
+          - {code: Ⅹ-2-C-①, name: "単純性甲状腺腫", level: a}
+          - {code: Ⅹ-2-C-②, name: "腺腫様甲状腺腫", level: b}
+          - {code: Ⅹ-2-C-③, name: "甲状腺良性腫瘍", level: b}
+          - {code: Ⅹ-2-C-④, name: "甲状腺悪性腫瘍", level: b}
+      - id: "3"
+        name: 副甲状腺<上皮小体>疾患とカルシウム・リン代謝異常
+        items:
+          - {code: Ⅹ-3-A-①, name: "副甲状腺<上皮小体>機能亢進症", level: b}
+          - {code: Ⅹ-3-A-②, name: "副甲状腺<上皮小体>機能低下症", level: b}
+          - {code: Ⅹ-3-B-①, name: "骨粗鬆症", level: a}
+          - {code: Ⅹ-3-B-②, name: "くる病、骨軟化症", level: b}
+          - {code: Ⅹ-3-B-③, name: "悪性腫瘍に伴う高カルシウム血症", level: b}
+          - {code: Ⅹ-3-B-④, name: "腫瘍性低リン血症性骨軟化症", level: c}
+      - id: "4"
+        name: 副腎皮質・髄質疾患
+        items:
+          - {code: Ⅹ-4-A-①, name: "Cushing症候群", level: a}
+          - {code: Ⅹ-4-A-②, name: "アルドステロン過剰症、原発性アルドステロン症", level: a}
+          - {code: Ⅹ-4-A-③, name: "慢性副腎不全<Addison病>", level: a}
+          - {code: Ⅹ-4-A-④, name: "急性副腎不全", level: a}
+          - {code: Ⅹ-4-A-⑤, name: "医原性副腎皮質機能低下症", level: a}
+          - {code: Ⅹ-4-A-⑥, name: "副腎偶発腫", level: b}
+          - {code: Ⅹ-4-A-⑦, name: "副腎皮質癌", level: b}
+          - {code: Ⅹ-4-B-①, name: "褐色細胞腫", level: a}
+          - {code: Ⅹ-4-B-②, name: "神経芽腫", level: c}
+      - id: "5"
+        name: その他の内分泌疾患
+        items:
+          - {code: Ⅹ-5-A-①, name: "原発性性腺機能低下症", level: c}
+          - {code: Ⅹ-5-A-②, name: "多囊胞性卵巣症候群<PCOS>", level: b}
+          - {code: Ⅹ-5-B-①, name: "多発性内分泌腫瘍症", level: b}
+          - {code: Ⅹ-5-B-②, name: "膵神経内分泌腫瘍", level: b}
+          - {code: Ⅹ-5-B-③, name: "消化管ホルモン産生腫瘍（消化管神経内分泌腫瘍）", level: c}
+          - {code: Ⅹ-5-B-④, name: "異所性ホルモン産生腫瘍", level: c}
+          - {code: Ⅹ-5-C-①, name: "ホルモン受容体異常症", level: c}
+      - id: "6"
+        name: 糖質代謝異常
+        items:
+          - {code: Ⅹ-6-A-①, name: "1型糖尿病", level: a}
+          - {code: Ⅹ-6-A-②, name: "2型糖尿病", level: a}
+          - {code: Ⅹ-6-A-③, name: "二次性糖尿病、遺伝子異常による糖尿病", level: b}
+          - {code: Ⅹ-6-A-④, name: "妊娠糖尿病", level: b}
+          - {code: Ⅹ-6-B-①, name: "糖尿病ケトアシドーシス", level: a}
+          - {code: Ⅹ-6-B-②, name: "高血糖高浸透圧症候群", level: a}
+          - {code: Ⅹ-6-B-③, name: "乳酸アシドーシス", level: a}
+          - {code: Ⅹ-6-C-①, name: "糖尿病腎症", level: a}
+          - {code: Ⅹ-6-C-②, name: "糖尿病神経障害", level: a}
+          - {code: Ⅹ-6-C-③, name: "糖尿病網膜症", level: b}
+          - {code: Ⅹ-6-C-④, name: "糖尿病足病変", level: b}
+          - {code: Ⅹ-6-C-⑤, name: "大血管障害", level: b}
+          - {code: Ⅹ-6-D-①, name: "インスリノーマ", level: b}
+          - {code: Ⅹ-6-D-②, name: "薬剤による低血糖", level: b}
+          - {code: Ⅹ-6-D-③, name: "内分泌異常による低血糖", level: b}
+          - {code: Ⅹ-6-D-④, name: "反応性低血糖", level: b}
+          - {code: Ⅹ-6-D-⑤, name: "インスリン自己免疫症候群", level: c}
+          - {code: Ⅹ-6-D-⑥, name: "膵外腫瘍", level: c}
+          - {code: Ⅹ-6-E-①, name: "乳糖分解酵素障害症<乳糖不耐症>", level: c}
+      - id: "7"
+        name: 脂質代謝異常
+        items:
+          - {code: Ⅹ-7-A-①, name: "原発性高脂血症", level: a}
+          - {code: Ⅹ-7-A-②, name: "二次性高脂血症", level: b}
+          - {code: Ⅹ-7-B-①, name: "単純性肥満", level: a}
+          - {code: Ⅹ-7-B-②, name: "メタボリックシンドローム", level: a}
+          - {code: Ⅹ-7-B-③, name: "症候性肥満", level: b}
+      - id: "8"
+        name: 蛋白・アミノ酸代謝異常
+        items:
+          - {code: Ⅹ-8-A-①, name: "低蛋白血症", level: b}
+          - {code: Ⅹ-8-B-①, name: "全身性アミロイドーシス", level: b}
+      - id: "9"
+        name: その他の代謝異常
+        items:
+          - {code: Ⅹ-9-A-①, name: "ビタミン欠乏症", level: a}
+          - {code: Ⅹ-9-A-②, name: "ビタミン過剰症", level: c}
+          - {code: Ⅹ-9-B-①, name: "痛風", level: a}
+          - {code: Ⅹ-9-B-②, name: "高尿酸血症", level: a}
+          - {code: Ⅹ-9-C-①, name: "ポルフィリン症", level: c}
+          - {code: Ⅹ-9-D-①, name: "体質性黄疸", level: b}
+          - {code: Ⅹ-9-E-①, name: "Wilson病", level: b}
+          - {code: Ⅹ-9-E-②, name: "ヘモクロマトーシス", level: c}
+          - {code: Ⅹ-9-E-③, name: "亜鉛欠乏症候群<腸性肢端皮膚炎>", level: c}
+          - {code: Ⅹ-9-F-①, name: "Marfan症候群", level: b}
+          - {code: Ⅹ-9-F-②, name: "Ehlers-Danlos症候群", level: c}
+          - {code: Ⅹ-9-G-①, name: "弾性線維性偽性黄色腫", level: c}
+      - id: "10"
+        name: その他の重要な小児領域の疾患
+        items:
+          - {code: Ⅹ-10-A-①, name: "成長ホルモン分泌不全性低身長", level: b}
+          - {code: Ⅹ-10-A-②, name: "先天性甲状腺機能低下症", level: b}
+          - {code: Ⅹ-10-A-③, name: "先天性副腎皮質過形成", level: b}
+          - {code: Ⅹ-10-A-④, name: "性早熟症<思春期早発症>", level: b}
+          - {code: Ⅹ-10-B-①, name: "アセトン血性嘔吐症<周期性嘔吐症>", level: a}
+          - {code: Ⅹ-10-B-②, name: "新生児低血糖症", level: b}
+          - {code: Ⅹ-10-C-①, name: "糖原病", level: c}
+          - {code: Ⅹ-10-C-②, name: "ガラクトース血症", level: c}
+          - {code: Ⅹ-10-C-③, name: "リピドーシス", level: c}
+          - {code: Ⅹ-10-C-④, name: "ムコ多糖症", level: c}
+          - {code: Ⅹ-10-C-⑤, name: "先天性アミノ酸代謝異常症", level: c}
+          - {code: Ⅹ-10-C-⑥, name: "尿素サイクル異常症", level: c}
+          - {code: Ⅹ-10-C-⑦, name: "有機酸代謝異常症", level: c}
+      - id: "11"
+        name: 乳腺・乳房疾患
+        items:
+          - {code: Ⅹ-11-A-①, name: "乳腺炎", level: b}
+          - {code: Ⅹ-11-B-①, name: "乳癌", level: a}
+          - {code: Ⅹ-11-B-②, name: "乳管内乳頭腫", level: c}
+          - {code: Ⅹ-11-B-③, name: "乳腺線維腺腫", level: c}
+          - {code: Ⅹ-11-B-④, name: "遺伝性乳癌卵巣癌症候群", level: c}
+          - {code: Ⅹ-11-C-①, name: "乳腺症", level: b}
