@@ -4140,3 +4140,1758 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md の出典マスター表から
+- id: SRC-350
+  legacy_id: null
+  title: 厚生労働省健康・生活衛生局感染症対策部感染症対策課. 抗微生物薬適正使用の手引き 第三版（2023年）
+  citation: 厚生労働省健康・生活衛生局感染症対策部感染症対策課. 抗微生物薬適正使用の手引き 第三版（2023年）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-351
+  legacy_id: null
+  title: 'Jones JM, Fleming-Dutra KE, Prill MM, et al. Use of Nirsevimab for the Prevention of Respiratory Syncytial Virus Disease Among Infants and Young Children: Recommendations of the Advisory Committee on Immunization Practices — United States, 2023. MMWR Morb Mortal Wkly Rep 2023;72(34):920-925'
+  citation: 'Jones JM, Fleming-Dutra KE, Prill MM, et al. Use of Nirsevimab for the Prevention of Respiratory Syncytial Virus Disease Among Infants and Young Children: Recommendations of the Advisory Committee on Immunization Practices — United States, 2023. MMWR Morb Mortal Wkly Rep 2023;72(34):920-925'
+  doi: 10.15585/mmwr.mm7234a4
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（CDC MMWR）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-352
+  legacy_id: null
+  title: Mukae H, Iwanaga N, Horita N, et al. The JRS guideline for the management of pneumonia in adults 2024. Respir Investig 2025;63(5):811-828
+  citation: Mukae H, Iwanaga N, Horita N, et al. The JRS guideline for the management of pneumonia in adults 2024. Respir Investig 2025;63(5):811-828
+  doi: 10.1016/j.resinv.2025.06.014
+  pmid: '40614556'
+  pmcid: null
+  license_note: 未確認（ScienceDirect の取得に失敗。富山大学の研究者情報ページに OA・ライセンスの表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-353
+  legacy_id: null
+  title: 日本呼吸器学会 成人肺炎診療ガイドライン2024作成委員会. 成人肺炎診療ガイドライン2024（学会サイト掲載 PDF：推奨一覧・フローチャート・用語の定義・第1〜2章の一部）
+  citation: 日本呼吸器学会 成人肺炎診療ガイドライン2024作成委員会. 成人肺炎診療ガイドライン2024（学会サイト掲載 PDF：推奨一覧・フローチャート・用語の定義・第1〜2章の一部）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: CC の表示なし（学会の著作物。抽出できた範囲に転載条件の個別表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-354
+  legacy_id: null
+  title: Tashiro M, Fushimi K, Takazono T, et al. A mortality prediction rule for non-elderly patients with community-acquired pneumonia. BMC Pulm Med 2016;16:39
+  citation: Tashiro M, Fushimi K, Takazono T, et al. A mortality prediction rule for non-elderly patients with community-acquired pneumonia. BMC Pulm Med 2016;16:39
+  doi: 10.1186/s12890-016-0199-z
+  pmid: null
+  pmcid: null
+  license_note: CC BY 4.0（Creative Commons Attribution 4.0 International License、出版社ページの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-355
+  legacy_id: null
+  title: Jones BE, Jones JP, Vines CG, Dean NC. Validating hospital admission criteria for decision support in pneumonia. BMC Pulm Med 2014;14:149
+  citation: Jones BE, Jones JP, Vines CG, Dean NC. Validating hospital admission criteria for decision support in pneumonia. BMC Pulm Med 2014;14:149
+  doi: 10.1186/1471-2466-14-149
+  pmid: null
+  pmcid: null
+  license_note: CC BY 4.0（論文 PDF の表示。データは CC0 1.0）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-356
+  legacy_id: null
+  title: 厚生労働省. 肺炎球菌感染症（高齢者）（Q&A は2024年4月時点。2024年9月30日以降は更新停止と表示）
+  citation: 厚生労働省. 肺炎球菌感染症（高齢者）（Q&A は2024年4月時点。2024年9月30日以降は更新停止と表示）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-357
+  legacy_id: null
+  title: 札幌市保健所. 高齢者肺炎球菌予防接種（定期接種）について（2026年4月1日更新）
+  citation: 札幌市保健所. 高齢者肺炎球菌予防接種（定期接種）について（2026年4月1日更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 未確認（札幌市ホームページ。利用規約の表示は未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-358
+  legacy_id: null
+  title: Centers for Disease Control and Prevention. Pneumococcal Vaccine Recommendations (last reviewed 2026 Feb 25)
+  citation: Centers for Disease Control and Prevention. Pneumococcal Vaccine Recommendations (last reviewed 2026 Feb 25)
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（CDC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-359
+  legacy_id: null
+  title: Centers for Disease Control and Prevention. Clinical Overview of Aspergillosis (last reviewed 2026 Oct 5)
+  citation: Centers for Disease Control and Prevention. Clinical Overview of Aspergillosis (last reviewed 2026 Oct 5)
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（CDC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-360
+  legacy_id: null
+  title: Centers for Disease Control and Prevention. Clinical Overview of Cryptococcosis (last reviewed 2024 Apr 24)
+  citation: Centers for Disease Control and Prevention. Clinical Overview of Cryptococcosis (last reviewed 2024 Apr 24)
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（CDC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-361
+  legacy_id: null
+  title: 'Panel on Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents With HIV. Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents With HIV: Pneumocystis Pneumonia (updated 2026 May 27). NIH, CDC, HIVMA/IDSA'
+  citation: 'Panel on Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents With HIV. Guidelines for the Prevention and Treatment of Opportunistic Infections in Adults and Adolescents With HIV: Pneumocystis Pneumonia (updated 2026 May 27). NIH, CDC, HIVMA/IDSA'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府のサイト（clinicalinfo.hiv.gov、HHS）で公開。第三者素材の扱いは未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-362
+  legacy_id: null
+  title: 厚生労働省. 2024年 結核登録者情報調査年報集計結果について（2025年8月26日公表）
+  citation: 厚生労働省. 2024年 結核登録者情報調査年報集計結果について（2025年8月26日公表）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-363
+  legacy_id: null
+  title: 厚生労働省. 感染症法に基づく医師の届出のお願い：結核（届出基準）
+  citation: 厚生労働省. 感染症法に基づく医師の届出のお願い：結核（届出基準）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-364
+  legacy_id: null
+  title: 厚生労働省健康局結核感染症課長. 「結核医療の基準」の一部改正について（健感発1018第1号、令和3年10月18日）。新旧対照（結核医療の基準：平成21年厚生労働省告示第16号）を含む
+  citation: 厚生労働省健康局結核感染症課長. 「結核医療の基準」の一部改正について（健感発1018第1号、令和3年10月18日）。新旧対照（結核医療の基準：平成21年厚生労働省告示第16号）を含む
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ。告示の内容は著作権法第13条により権利の目的とならない
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-365
+  legacy_id: null
+  title: Centers for Disease Control and Prevention. Treatment for Drug-Susceptible Tuberculosis Disease (last reviewed 2025 Mar 7)
+  citation: Centers for Disease Control and Prevention. Treatment for Drug-Susceptible Tuberculosis Disease (last reviewed 2025 Mar 7)
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（CDC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-366
+  legacy_id: null
+  title: Centers for Disease Control and Prevention. Treatment for Latent Tuberculosis Infection (last reviewed 2025 Jan 15)
+  citation: Centers for Disease Control and Prevention. Treatment for Latent Tuberculosis Infection (last reviewed 2025 Jan 15)
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（CDC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-367
+  legacy_id: null
+  title: Namkoong H, Kurashima A, Morimoto K, et al. Epidemiology of pulmonary nontuberculous mycobacterial disease, Japan. Emerg Infect Dis 2016;22(6):1116-1117
+  citation: Namkoong H, Kurashima A, Morimoto K, et al. Epidemiology of pulmonary nontuberculous mycobacterial disease, Japan. Emerg Infect Dis 2016;22(6):1116-1117
+  doi: 10.3201/eid2206.151086
+  pmid: null
+  pmcid: null
+  license_note: 未確認（CDC 刊行の雑誌。取得した PDF に著作権・利用条件の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-368
+  legacy_id: null
+  title: 'Centers for Disease Control and Prevention. Influenza Antiviral Medications: Summary for Clinicians (last reviewed 2026 Mar 10)'
+  citation: 'Centers for Disease Control and Prevention. Influenza Antiviral Medications: Summary for Clinicians (last reviewed 2026 Mar 10)'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（CDC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-369
+  legacy_id: null
+  title: 厚生労働省. 令和6年（2024）人口動態統計（確定数）の概況 第9表 死因簡単分類別にみた性別死亡数・死亡率（人口10万対）
+  citation: 厚生労働省. 令和6年（2024）人口動態統計（確定数）の概況 第9表 死因簡単分類別にみた性別死亡数・死亡率（人口10万対）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-370
+  legacy_id: null
+  title: Roberts ME, Rahman NM, Maskell NA, et al. British Thoracic Society Guideline for pleural disease. Thorax 2023;78:1143-1156
+  citation: Roberts ME, Rahman NM, Maskell NA, et al. British Thoracic Society Guideline for pleural disease. Thorax 2023;78:1143-1156
+  doi: 10.1136/thorax-2023-220304
+  pmid: null
+  pmcid: null
+  license_note: © Author(s) (or their employer(s)) 2023. No commercial re-use（論文 PDF の表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-371
+  legacy_id: null
+  title: Sugiura H, Fujino N, Shibata Y, Muro S, Matsunaga K, Horita N, Kawayama T. The JRS guideline for the management of chronic obstructive pulmonary disease 7th edition 2026. Respir Investig 2026;64(5):101482 (Epub 2026 Jul 14)
+  citation: Sugiura H, Fujino N, Shibata Y, Muro S, Matsunaga K, Horita N, Kawayama T. The JRS guideline for the management of chronic obstructive pulmonary disease 7th edition 2026. Respir Investig 2026;64(5):101482 (Epub 2026 Jul 14)
+  doi: 10.1016/j.resinv.2026.101482
+  pmid: '42447589'
+  pmcid: null
+  license_note: 未確認（ScienceDirect の取得に失敗）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-372
+  legacy_id: null
+  title: 日本呼吸器学会 COPD ガイドライン第6版作成委員会. COPD（慢性閉塞性肺疾患）診断と治療のためのガイドライン 第6版 2022（学会サイト掲載 PDF：巻頭ガイドラインサマリー）
+  citation: 日本呼吸器学会 COPD ガイドライン第6版作成委員会. COPD（慢性閉塞性肺疾患）診断と治療のためのガイドライン 第6版 2022（学会サイト掲載 PDF：巻頭ガイドラインサマリー）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: CC の表示なし（学会の著作物。抽出できた範囲に転載条件の個別表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-373
+  legacy_id: null
+  title: 'Global Initiative for Chronic Obstructive Lung Disease. Pocket Guide to COPD Diagnosis, Management, and Prevention: 2026 Report (v1.1, 2025 Nov 20)'
+  citation: 'Global Initiative for Chronic Obstructive Lung Disease. Pocket Guide to COPD Diagnosis, Management, and Prevention: 2026 Report (v1.1, 2025 Nov 20)'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: COPYRIGHT MATERIAL - DO NOT COPY OR DISTRIBUTE / © 2025, 2026 Global Initiative for Chronic Obstructive Lung Disease, Inc.（PDF の表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-374
+  legacy_id: null
+  title: 'Niimi A, Fukunaga K, Taniguchi M, et al. Executive summary: Japanese guidelines for adult asthma (JGL) 2021. Allergol Int 2023;72(2):207-226'
+  citation: 'Niimi A, Fukunaga K, Taniguchi M, et al. Executive summary: Japanese guidelines for adult asthma (JGL) 2021. Allergol Int 2023;72(2):207-226'
+  doi: 10.1016/j.alit.2023.02.006
+  pmid: null
+  pmcid: null
+  license_note: 未確認（J-STAGE の表示は「© 2023 by Japanese Society of Allergology」「JOURNAL FREE ACCESS」のみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-375
+  legacy_id: null
+  title: Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2026 update (Strategy Report)
+  citation: Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2026 update (Strategy Report)
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: GINA の著作物（無断配布・改変不可。GINA サイトの利用条件の表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-376
+  legacy_id: null
+  title: Mukae H, Kaneko T, Obase Y, et al. The Japanese respiratory society guidelines for the management of cough and sputum (digest edition). Respir Investig 2021;59(3):270-290
+  citation: Mukae H, Kaneko T, Obase Y, et al. The Japanese respiratory society guidelines for the management of cough and sputum (digest edition). Respir Investig 2021;59(3):270-290
+  doi: 10.1016/j.resinv.2021.01.007
+  pmid: '33642231'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-377
+  legacy_id: null
+  title: Ogawa H, Fujimura M, Ohkura N, Makimura K. Atopic cough and fungal allergy. J Thorac Dis 2014;6(Suppl 7):S689-S698
+  citation: Ogawa H, Fujimura M, Ohkura N, Makimura K. Atopic cough and fungal allergy. J Thorac Dis 2014;6(Suppl 7):S689-S698
+  doi: 10.3978/j.issn.2072-1439.2014.09.25
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（記事ページの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-378
+  legacy_id: null
+  title: Chalmers JD, Haworth CS, Flume P, et al. European Respiratory Society Clinical Practice Guideline for the Management of Adult Bronchiectasis (2025)
+  citation: Chalmers JD, Haworth CS, Flume P, et al. European Respiratory Society Clinical Practice Guideline for the Management of Adult Bronchiectasis (2025)
+  doi: 10.1183/13993003.01126-2025
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-379
+  legacy_id: null
+  title: Lin X, Lu J, Yang M, Dong BR, Wu HM. Macrolides for diffuse panbronchiolitis. Cochrane Database Syst Rev 2015;(1):CD007716
+  citation: Lin X, Lu J, Yang M, Dong BR, Wu HM. Macrolides for diffuse panbronchiolitis. Cochrane Database Syst Rev 2015;(1):CD007716
+  doi: 10.1002/14651858.CD007716.pub4
+  pmid: null
+  pmcid: null
+  license_note: Copyright © The Cochrane Collaboration（Cochrane サイトの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-380
+  legacy_id: null
+  title: 'Online Mendelian Inheritance in Man (OMIM). Panbronchiolitis, diffuse; #604809. Johns Hopkins University'
+  citation: 'Online Mendelian Inheritance in Man (OMIM). Panbronchiolitis, diffuse; #604809. Johns Hopkins University'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 未確認（OMIM 本体ではなく、OMIM を出典と明記した FindZebra の転載ページで内容を確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-381
+  legacy_id: null
+  title: 'National Library of Medicine. MeSH Descriptor: Bronchiolitis Obliterans (D001989)'
+  citation: 'National Library of Medicine. MeSH Descriptor: Bronchiolitis Obliterans (D001989)'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（NLM）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-382
+  legacy_id: null
+  title: 'National Library of Medicine. MeSH Descriptor: Pulmonary Atelectasis (D001261)'
+  citation: 'National Library of Medicine. MeSH Descriptor: Pulmonary Atelectasis (D001261)'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（NLM）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-383
+  legacy_id: null
+  title: 'Chi J, Bai Y. Bronchoscopic management of airway foreign bodies in adults: a narrative educational review. Front Med 2026;13:1779715'
+  citation: 'Chi J, Bai Y. Bronchoscopic management of airway foreign bodies in adults: a narrative educational review. Front Med 2026;13:1779715'
+  doi: 10.3389/fmed.2026.1779715
+  pmid: null
+  pmcid: null
+  license_note: 未確認（取得した本文にライセンスの表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-384
+  legacy_id: null
+  title: Goldberg C, Carey KE. Bullous Lung Disease. West J Emerg Med 2013;14(5):450-
+  citation: Goldberg C, Carey KE. Bullous Lung Disease. West J Emerg Med 2013;14(5):450-
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 未確認（記事ページに CC BY のアイコン表示はあるが、版の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-385
+  legacy_id: null
+  title: 'Prokakis C, Koletsis EN, Dedeilias P, et al. Airway trauma: a review on epidemiology, mechanisms of injury, diagnosis and treatment. J Cardiothorac Surg 2014;9:117'
+  citation: 'Prokakis C, Koletsis EN, Dedeilias P, et al. Airway trauma: a review on epidemiology, mechanisms of injury, diagnosis and treatment. J Cardiothorac Surg 2014;9:117'
+  doi: 10.1186/1749-8090-9-117
+  pmid: null
+  pmcid: null
+  license_note: 未確認（オープンアクセスの表示のみ。ライセンスの版は未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/11_rs_a.md の出典マスター表から
+- id: SRC-410
+  legacy_id: null
+  title: 'Raghu G, Remy-Jardin M, Richeldi L, et al. Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2022;205:e18-e47'
+  citation: 'Raghu G, Remy-Jardin M, Richeldi L, et al. Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2022;205:e18-e47'
+  doi: 10.1164/rccm.202202-0399ST
+  pmid: '35486072'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-411
+  legacy_id: null
+  title: 'Ryerson CJ, Adegunsoye A, Piciucchi S, et al. Update of the International Multidisciplinary Classification of the Interstitial Pneumonias: An ERS/ATS Statement. Eur Respir J 2025;2500158'
+  citation: 'Ryerson CJ, Adegunsoye A, Piciucchi S, et al. Update of the International Multidisciplinary Classification of the Interstitial Pneumonias: An ERS/ATS Statement. Eur Respir J 2025;2500158'
+  doi: 10.1183/13993003.00158-2025
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-412
+  legacy_id: null
+  title: 'Travis WD, Costabel U, Hansell DM, et al. An official American Thoracic Society/European Respiratory Society statement: Update of the international multidisciplinary classification of the idiopathic interstitial pneumonias. Am J Respir Crit Care Med 2013;188(6):733-748'
+  citation: 'Travis WD, Costabel U, Hansell DM, et al. An official American Thoracic Society/European Respiratory Society statement: Update of the international multidisciplinary classification of the idiopathic interstitial pneumonias. Am J Respir Crit Care Med 2013;188(6):733-748'
+  doi: 10.1164/rccm.201308-1483ST
+  pmid: '24032382'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-413
+  legacy_id: null
+  title: Collard HR, Ryerson CJ, Corte TJ, et al. Acute Exacerbation of Idiopathic Pulmonary Fibrosis. An International Working Group Report. Am J Respir Crit Care Med 2016;194(3):265-275
+  citation: Collard HR, Ryerson CJ, Corte TJ, et al. Acute Exacerbation of Idiopathic Pulmonary Fibrosis. An International Working Group Report. Am J Respir Crit Care Med 2016;194(3):265-275
+  doi: 10.1164/rccm.201604-0801CI
+  pmid: '27299520'
+  pmcid: null
+  license_note: © American Thoracic Society（リポジトリの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-414
+  legacy_id: null
+  title: Richeldi L, du Bois RM, Raghu G, et al. Efficacy and safety of nintedanib in idiopathic pulmonary fibrosis. N Engl J Med 2014;370:2071-2082
+  citation: Richeldi L, du Bois RM, Raghu G, et al. Efficacy and safety of nintedanib in idiopathic pulmonary fibrosis. N Engl J Med 2014;370:2071-2082
+  doi: 10.1056/NEJMoa1402584
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-415
+  legacy_id: null
+  title: King TE Jr, Bradford WZ, Castro-Bernardini S, et al. A phase 3 trial of pirfenidone in patients with idiopathic pulmonary fibrosis. N Engl J Med 2014;370(22):2083-2092
+  citation: King TE Jr, Bradford WZ, Castro-Bernardini S, et al. A phase 3 trial of pirfenidone in patients with idiopathic pulmonary fibrosis. N Engl J Med 2014;370(22):2083-2092
+  doi: 10.1056/NEJMoa1402582
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-416
+  legacy_id: null
+  title: Richeldi L, et al. Nerandomilast in Patients with Idiopathic Pulmonary Fibrosis. N Engl J Med 2025;392(22):2193-2202
+  citation: Richeldi L, et al. Nerandomilast in Patients with Idiopathic Pulmonary Fibrosis. N Engl J Med 2025;392(22):2193-2202
+  doi: 10.1056/NEJMoa2414108
+  pmid: '40387033'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-417
+  legacy_id: null
+  title: 医薬品医療機器総合機構. ジャスケイド錠9mg・同錠18mg（ネランドミラスト）審議結果報告書・審査報告書（令和8年4月28日付 審議結果報告書）
+  citation: 医薬品医療機器総合機構. ジャスケイド錠9mg・同錠18mg（ネランドミラスト）審議結果報告書・審査報告書（令和8年4月28日付 審議結果報告書）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: PMDA の公開資料（利用条件の表示は未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-418
+  legacy_id: null
+  title: Flaherty KR, Wells AU, Cottin V, et al. Nintedanib in Progressive Fibrosing Interstitial Lung Diseases. N Engl J Med 2019;381:1718-1727
+  citation: Flaherty KR, Wells AU, Cottin V, et al. Nintedanib in Progressive Fibrosing Interstitial Lung Diseases. N Engl J Med 2019;381:1718-1727
+  doi: 10.1056/NEJMoa1908681
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-419
+  legacy_id: null
+  title: Distler O, Highland KB, Gahlemann M, et al. Nintedanib for Systemic Sclerosis-Associated Interstitial Lung Disease. N Engl J Med 2019;380(26):2518-2528
+  citation: Distler O, Highland KB, Gahlemann M, et al. Nintedanib for Systemic Sclerosis-Associated Interstitial Lung Disease. N Engl J Med 2019;380(26):2518-2528
+  doi: 10.1056/NEJMoa1903076
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-420
+  legacy_id: null
+  title: Robson JC, Grayson PC, Ponte C, et al. 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology classification criteria for granulomatosis with polyangiitis. Arthritis Rheumatol 2022;74(3):393-399
+  citation: Robson JC, Grayson PC, Ponte C, et al. 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology classification criteria for granulomatosis with polyangiitis. Arthritis Rheumatol 2022;74(3):393-399
+  doi: 10.1002/art.41986
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-421
+  legacy_id: null
+  title: Suppiah R, Robson JC, Grayson PC, et al. 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology classification criteria for microscopic polyangiitis
+  citation: Suppiah R, Robson JC, Grayson PC, et al. 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology classification criteria for microscopic polyangiitis
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-422
+  legacy_id: null
+  title: Grayson PC, Ponte C, Suppiah R, et al. 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology classification criteria for eosinophilic granulomatosis with polyangiitis. Ann Rheum Dis 2022;81:309-314
+  citation: Grayson PC, Ponte C, Suppiah R, et al. 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology classification criteria for eosinophilic granulomatosis with polyangiitis. Ann Rheum Dis 2022;81:309-314
+  doi: 10.1136/annrheumdis-2021-221794
+  pmid: null
+  pmcid: null
+  license_note: No commercial re-use（BMJ の権利表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-423
+  legacy_id: null
+  title: Crouser ED, Maier LA, Wilson KC, et al. Diagnosis and Detection of Sarcoidosis. An Official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med 2020;201(8):e26-e51
+  citation: Crouser ED, Maier LA, Wilson KC, et al. Diagnosis and Detection of Sarcoidosis. An Official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med 2020;201(8):e26-e51
+  doi: 10.1164/rccm.202002-0251ST
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-424
+  legacy_id: null
+  title: Raghu G, Remy-Jardin M, Ryerson CJ, et al. Diagnosis of Hypersensitivity Pneumonitis in Adults. An Official ATS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2020
+  citation: Raghu G, Remy-Jardin M, Ryerson CJ, et al. Diagnosis of Hypersensitivity Pneumonitis in Adults. An Official ATS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2020
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-425
+  legacy_id: null
+  title: Shorr AF, et al. Acute eosinophilic pneumonia among US military personnel deployed in or near Iraq. JAMA 2004（12月号）
+  citation: Shorr AF, et al. Acute eosinophilic pneumonia among US military personnel deployed in or near Iraq. JAMA 2004（12月号）
+  doi: null
+  pmid: '15613668'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-426
+  legacy_id: null
+  title: Agarwal R, et al（ISHAM-ABPA working group）. Revised ISHAM-ABPA working group clinical practice guidelines for diagnosing, classifying and treating allergic bronchopulmonary aspergillosis/mycoses. Eur Respir J 2024;63(4):2400061
+  citation: Agarwal R, et al（ISHAM-ABPA working group）. Revised ISHAM-ABPA working group clinical practice guidelines for diagnosing, classifying and treating allergic bronchopulmonary aspergillosis/mycoses. Eur Respir J 2024;63(4):2400061
+  doi: 10.1183/13993003.00061-2024
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-427
+  legacy_id: null
+  title: 'Kudoh S, Kato H, Nishiwaki Y, et al. Interstitial lung disease in Japanese patients with lung cancer: a cohort and nested case-control study. Am J Respir Crit Care Med 2008;177(12):1348-1357'
+  citation: 'Kudoh S, Kato H, Nishiwaki Y, et al. Interstitial lung disease in Japanese patients with lung cancer: a cohort and nested case-control study. Am J Respir Crit Care Med 2008;177(12):1348-1357'
+  doi: 10.1164/rccm.200710-1501OC
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-428
+  legacy_id: null
+  title: Marks LB, Bentzen SM, Deasy JO, et al. Radiation Dose-Volume Effects in the Lung. Int J Radiat Oncol Biol Phys 2010;76(3 Suppl):S70-S76
+  citation: Marks LB, Bentzen SM, Deasy JO, et al. Radiation Dose-Volume Effects in the Lung. Int J Radiat Oncol Biol Phys 2010;76(3 Suppl):S70-S76
+  doi: 10.1016/j.ijrobp.2009.06.091
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-429
+  legacy_id: null
+  title: じん肺法（昭和35年法律第30号、最終改正 平成30年7月6日）
+  citation: じん肺法（昭和35年法律第30号、最終改正 平成30年7月6日）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-430
+  legacy_id: null
+  title: 千葉県. 石綿による健康被害の救済に関する法律（石綿健康被害救済制度）の案内ページ
+  citation: 千葉県. 石綿による健康被害の救済に関する法律（石綿健康被害救済制度）の案内ページ
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 千葉県ウェブサイトの利用条件（未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-431
+  legacy_id: null
+  title: 'Ranieri VM, Rubenfeld GD, Thompson BT, et al（ARDS Definition Task Force）. Acute respiratory distress syndrome: the Berlin Definition. JAMA 2012;307(23):2526-2533'
+  citation: 'Ranieri VM, Rubenfeld GD, Thompson BT, et al（ARDS Definition Task Force）. Acute respiratory distress syndrome: the Berlin Definition. JAMA 2012;307(23):2526-2533'
+  doi: 10.1001/jama.2012.5669
+  pmid: '22797452'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-432
+  legacy_id: null
+  title: Matthay MA, Arabi Y, Arroliga AC, et al. A New Global Definition of Acute Respiratory Distress Syndrome. Am J Respir Crit Care Med 2024;209(1):37-47
+  citation: Matthay MA, Arabi Y, Arroliga AC, et al. A New Global Definition of Acute Respiratory Distress Syndrome. Am J Respir Crit Care Med 2024;209(1):37-47
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-433
+  legacy_id: null
+  title: The Acute Respiratory Distress Syndrome Network. Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome. N Engl J Med 2000;342(18):1301-1308
+  citation: The Acute Respiratory Distress Syndrome Network. Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome. N Engl J Med 2000;342(18):1301-1308
+  doi: null
+  pmid: '10793162'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-434
+  legacy_id: null
+  title: Guérin C, Reignier J, Richard JC, et al（PROSEVA Study Group）. Prone positioning in severe acute respiratory distress syndrome. N Engl J Med 2013;368(23):2159-2168
+  citation: Guérin C, Reignier J, Richard JC, et al（PROSEVA Study Group）. Prone positioning in severe acute respiratory distress syndrome. N Engl J Med 2013;368(23):2159-2168
+  doi: 10.1056/NEJMoa1214103
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-435
+  legacy_id: null
+  title: Tasaka S, Ohshimo S, Takeuchi M, et al. ARDS Clinical Practice Guideline 2021. J Intensive Care 2022;10(1):32
+  citation: Tasaka S, Ohshimo S, Takeuchi M, et al. ARDS Clinical Practice Guideline 2021. J Intensive Care 2022;10(1):32
+  doi: 10.1186/s40560-022-00615-6
+  pmid: null
+  pmcid: null
+  license_note: オープンアクセス、© The Author(s) 2022（ライセンス名は未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-436
+  legacy_id: null
+  title: 'McCormack FX, et al. Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management. Am J Respir Crit Care Med 2016（9月15日号）'
+  citation: 'McCormack FX, et al. Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management. Am J Respir Crit Care Med 2016（9月15日号）'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-437
+  legacy_id: null
+  title: Tazawa R, Ueda T, Abe M, et al. Inhaled GM-CSF for Pulmonary Alveolar Proteinosis. N Engl J Med 2019;381:923-932
+  citation: Tazawa R, Ueda T, Abe M, et al. Inhaled GM-CSF for Pulmonary Alveolar Proteinosis. N Engl J Med 2019;381:923-932
+  doi: 10.1056/NEJMoa1816216
+  pmid: null
+  pmcid: null
+  license_note: Copyright © 2019 Massachusetts Medical Society
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-438
+  legacy_id: null
+  title: サルグマリン吸入用250μg（サルグラモスチム（遺伝子組換え））患者向医薬品ガイド（2024年4月作成）. 医薬品医療機器総合機構 掲載
+  citation: サルグマリン吸入用250μg（サルグラモスチム（遺伝子組換え））患者向医薬品ガイド（2024年4月作成）. 医薬品医療機器総合機構 掲載
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: PMDA 掲載資料（利用条件の表示は未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-439
+  legacy_id: null
+  title: 'Rochwerg B, Brochard L, Elliott MW, et al. Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure. Eur Respir J 2017;50:1602426'
+  citation: 'Rochwerg B, Brochard L, Elliott MW, et al. Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure. Eur Respir J 2017;50:1602426'
+  doi: null
+  pmid: '28860265'
+  pmcid: null
+  license_note: Copyright ©ERS 2017
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-440
+  legacy_id: null
+  title: Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051
+  citation: Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051
+  doi: 10.1161/CIR.0000000000001415
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-441
+  legacy_id: null
+  title: Meyer G, Vicaut E, Danays T, et al（PEITHO Investigators）. Fibrinolysis for patients with intermediate-risk pulmonary embolism. N Engl J Med 2014;370
+  citation: Meyer G, Vicaut E, Danays T, et al（PEITHO Investigators）. Fibrinolysis for patients with intermediate-risk pulmonary embolism. N Engl J Med 2014;370
+  doi: 10.1056/NEJMoa1302097
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-442
+  legacy_id: null
+  title: Pengo V, Lensing AWA, Prins MH, et al. Incidence of Chronic Thromboembolic Pulmonary Hypertension after Pulmonary Embolism. N Engl J Med 2004;350(22):2257-2264
+  citation: Pengo V, Lensing AWA, Prins MH, et al. Incidence of Chronic Thromboembolic Pulmonary Hypertension after Pulmonary Embolism. N Engl J Med 2004;350(22):2257-2264
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-443
+  legacy_id: null
+  title: Ghofrani HA, D'Armini AM, Grimminger F, et al（CHEST-1 Study Group）. Riociguat for the treatment of chronic thromboembolic pulmonary hypertension. N Engl J Med 2013;369
+  citation: Ghofrani HA, D'Armini AM, Grimminger F, et al（CHEST-1 Study Group）. Riociguat for the treatment of chronic thromboembolic pulmonary hypertension. N Engl J Med 2013;369
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-444
+  legacy_id: null
+  title: Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879
+  citation: Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879
+  doi: 10.1183/13993003.00879-2022
+  pmid: '36028254'
+  pmcid: null
+  license_note: Publisher holds Copyright（ERS、リポジトリの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-445
+  legacy_id: null
+  title: Galiè N, Barberà JA, Frost AE, et al（AMBITION Investigators）. Initial Use of Ambrisentan plus Tadalafil in Pulmonary Arterial Hypertension. N Engl J Med 2015;373(9):834-844
+  citation: Galiè N, Barberà JA, Frost AE, et al（AMBITION Investigators）. Initial Use of Ambrisentan plus Tadalafil in Pulmonary Arterial Hypertension. N Engl J Med 2015;373(9):834-844
+  doi: 10.1056/NEJMoa1413687
+  pmid: '26308684'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-446
+  legacy_id: null
+  title: Hoeper MM, Badesch DB, Ghofrani HA, et al（STELLAR Trial Investigators）. Phase 3 Trial of Sotatercept for Treatment of Pulmonary Arterial Hypertension. N Engl J Med 2023;388
+  citation: Hoeper MM, Badesch DB, Ghofrani HA, et al（STELLAR Trial Investigators）. Phase 3 Trial of Sotatercept for Treatment of Pulmonary Arterial Hypertension. N Engl J Med 2023;388
+  doi: 10.1056/NEJMoa2213558
+  pmid: '36877098'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-447
+  legacy_id: null
+  title: Waxman A, Restrepo-Jaramillo R, Thenappan T, et al. Inhaled Treprostinil in Pulmonary Hypertension Due to Interstitial Lung Disease. N Engl J Med 2021;384(4):325-334
+  citation: Waxman A, Restrepo-Jaramillo R, Thenappan T, et al. Inhaled Treprostinil in Pulmonary Hypertension Due to Interstitial Lung Disease. N Engl J Med 2021;384(4):325-334
+  doi: 10.1056/NEJMoa2008470
+  pmid: '33440084'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-448
+  legacy_id: null
+  title: Medical Research Council Working Party. Long term domiciliary oxygen therapy in chronic hypoxic cor pulmonale complicating chronic bronchitis and emphysema. Lancet 1981;317(8222):681-686
+  citation: Medical Research Council Working Party. Long term domiciliary oxygen therapy in chronic hypoxic cor pulmonale complicating chronic bronchitis and emphysema. Lancet 1981;317(8222):681-686
+  doi: 10.1016/S0140-6736(81)91970-X
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-449
+  legacy_id: null
+  title: Faughnan ME, Mager JJ, Hetts SW, et al. Second International Guidelines for the Diagnosis and Management of Hereditary Hemorrhagic Telangiectasia. Ann Intern Med 2020;173（2020年9月8日 早期公開）
+  citation: Faughnan ME, Mager JJ, Hetts SW, et al. Second International Guidelines for the Diagnosis and Management of Hereditary Hemorrhagic Telangiectasia. Ann Intern Med 2020;173（2020年9月8日 早期公開）
+  doi: 10.7326/M20-1443
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/12_rs_b.md の出典マスター表から
+- id: SRC-470
+  legacy_id: null
+  title: 国立がん研究センター. プレスリリース「有効性評価に基づく肺がん検診ガイドライン 2025年度版を公開」（2025年4月25日）
+  citation: 国立がん研究センター. プレスリリース「有効性評価に基づく肺がん検診ガイドライン 2025年度版を公開」（2025年4月25日）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: ©National Cancer Center Japan（コンテンツ利用規約は未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-471
+  legacy_id: null
+  title: 公益財団法人がん研究振興財団. Cancer Statistics in Japan 2025（2025年5月掲載）Table 1 Number of deaths by cancer site (2023)
+  citation: 公益財団法人がん研究振興財団. Cancer Statistics in Japan 2025（2025年5月掲載）Table 1 Number of deaths by cancer site (2023)
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 表示なし（掲載頁は (c) 国立研究開発法人国立がん研究センター。元データは人口動態統計）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-472
+  legacy_id: null
+  title: 厚生労働省. がん検診受診率50%達成に向けた集中キャンペーン「がんの統計」（部位別順位）
+  citation: 厚生労働省. がん検診受診率50%達成に向けた集中キャンペーン「がんの統計」（部位別順位）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: Copyright 厚生労働省（運営：がん対策推進企業アクション事務局）。利用規約は未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-473
+  legacy_id: null
+  title: National Lung Screening Trial Research Team, Aberle DR, Adams AM, et al. Reduced lung-cancer mortality with low-dose computed tomographic screening. N Engl J Med 2011;365:395-409
+  citation: National Lung Screening Trial Research Team, Aberle DR, Adams AM, et al. Reduced lung-cancer mortality with low-dose computed tomographic screening. N Engl J Med 2011;365:395-409
+  doi: null
+  pmid: '21714641'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-474
+  legacy_id: null
+  title: 'Constantinescu A, Căprariu RN, Stoicescu ER, et al. From TNM 8 to TNM 9: Stage Migration and Histology-Specific Patterns in Lung Cancer. Cancers (Basel) 2025;17(20):3290'
+  citation: 'Constantinescu A, Căprariu RN, Stoicescu ER, et al. From TNM 8 to TNM 9: Stage Migration and Histology-Specific Patterns in Lung Cancer. Cancers (Basel) 2025;17(20):3290'
+  doi: 10.3390/cancers17203290
+  pmid: '41154348'
+  pmcid: null
+  license_note: CC BY 4.0（MDPI）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-475
+  legacy_id: null
+  title: Travis WD, Brambilla E, Noguchi M, et al. International Association for the Study of Lung Cancer/American Thoracic Society/European Respiratory Society International Multidisciplinary Classification of Lung Adenocarcinoma. J Thorac Oncol 2011;6:244-285
+  citation: Travis WD, Brambilla E, Noguchi M, et al. International Association for the Study of Lung Cancer/American Thoracic Society/European Respiratory Society International Multidisciplinary Classification of Lung Adenocarcinoma. J Thorac Oncol 2011;6:244-285
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © 2011 by the International Association for the Study of Lung Cancer
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-476
+  legacy_id: null
+  title: Ramalingam SS, Vansteenkiste J, Planchard D, et al. Overall Survival with Osimertinib in Untreated, EGFR-Mutated Advanced NSCLC. N Engl J Med 2020;382:41-50
+  citation: Ramalingam SS, Vansteenkiste J, Planchard D, et al. Overall Survival with Osimertinib in Untreated, EGFR-Mutated Advanced NSCLC. N Engl J Med 2020;382:41-50
+  doi: 10.1056/NEJMoa1913662
+  pmid: null
+  pmcid: null
+  license_note: 未確認（機関リポジトリ掲載の刊行版）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-477
+  legacy_id: null
+  title: Pfannschmidt J, Egerer G, Bischof M, Thomas M, Dienemann H. Surgical Intervention for Pulmonary Metastases. Dtsch Arztebl Int 2012;109(40):645-651
+  citation: Pfannschmidt J, Egerer G, Bischof M, Thomas M, Dienemann H. Surgical Intervention for Pulmonary Metastases. Dtsch Arztebl Int 2012;109(40):645-651
+  doi: 10.3238/arztebl.2012.0645
+  pmid: null
+  pmcid: null
+  license_note: 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-478
+  legacy_id: null
+  title: 'Tavare AN, Cash C. The Clinical Picture: A 78-year-old smoker with an incidental pulmonary mass. Cleve Clin J Med 2014;81(8):477-478'
+  citation: 'Tavare AN, Cash C. The Clinical Picture: A 78-year-old smoker with an incidental pulmonary mass. Cleve Clin J Med 2014;81(8):477-478'
+  doi: 10.3949/ccjm.81a.13150
+  pmid: null
+  pmcid: null
+  license_note: For personal use only. All other uses require permission.
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-479
+  legacy_id: null
+  title: Carter BW, Benveniste MF, Marom EM. Diagnostic approach to the anterior/prevascular mediastinum for radiologists. Mediastinum 2019;3:18
+  citation: Carter BW, Benveniste MF, Marom EM. Diagnostic approach to the anterior/prevascular mediastinum for radiologists. Mediastinum 2019;3:18
+  doi: 10.21037/med.2018.12.03
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-480
+  legacy_id: null
+  title: PDQ Adult Treatment Editorial Board. Thymoma and Thymic Carcinoma Treatment (PDQ)–Health Professional Version. National Cancer Institute（2024年10月25日更新）
+  citation: PDQ Adult Treatment Editorial Board. Thymoma and Thymic Carcinoma Treatment (PDQ)–Health Professional Version. National Cancer Institute（2024年10月25日更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: PDQ の本文は文章として自由に利用できる（PDQ 要約の表示）。図は除く
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-481
+  legacy_id: null
+  title: 厚生労働省. 都道府県（21大都市再掲）別にみた中皮腫による死亡数の年次推移（平成7年〜令和7年）人口動態統計（確定数）より
+  citation: 厚生労働省. 都道府県（21大都市再掲）別にみた中皮腫による死亡数の年次推移（平成7年〜令和7年）人口動態統計（確定数）より
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-482
+  legacy_id: null
+  title: 厚生労働省・都道府県労働局・労働基準監督署. 石綿による疾病の労災認定（パンフレット、令和5年9月版）
+  citation: 厚生労働省・都道府県労働局・労働基準監督署. 石綿による疾病の労災認定（パンフレット、令和5年9月版）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-483
+  legacy_id: null
+  title: 環境省 大臣官房環境保健部 石綿健康被害対策室. 石綿健康被害救済制度の施行状況等について（資料3、令和4年6月6日）
+  citation: 環境省 大臣官房環境保健部 石綿健康被害対策室. 石綿健康被害救済制度の施行状況等について（資料3、令和4年6月6日）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（第2.0版）に準拠する環境省のコンテンツ（表示は未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-484
+  legacy_id: null
+  title: PDQ Supportive and Palliative Care Editorial Board. Cardiopulmonary Syndromes (PDQ)–Health Professional Version. National Cancer Institute（2023年2月21日公開版）
+  citation: PDQ Supportive and Palliative Care Editorial Board. Cardiopulmonary Syndromes (PDQ)–Health Professional Version. National Cancer Institute（2023年2月21日公開版）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: PDQ の本文は文章として自由に利用できる（PDQ 要約の表示。今回の取得範囲では利用条件の頁は未取得）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-485
+  legacy_id: null
+  title: Roberts ME, Rahman NM, Maskell NA, et al. British Thoracic Society Guideline for pleural disease. Thorax 2023;78:1143-1156
+  citation: Roberts ME, Rahman NM, Maskell NA, et al. British Thoracic Society Guideline for pleural disease. Thorax 2023;78:1143-1156
+  doi: 10.1136/thorax-2023-220304
+  pmid: null
+  pmcid: null
+  license_note: © Author(s) (or their employer(s)) 2023. No commercial re-use.
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-486
+  legacy_id: null
+  title: 'Hwang JW, Kim Y, Hwang JH, Kim TS, Ro DW, Lee KS. Lymphangitic Carcinomatosis of the Lung: Serial Changes on High-Resolution CT. J Korean Radiol Soc 1997;37(6):1051-1057'
+  citation: 'Hwang JW, Kim Y, Hwang JH, Kim TS, Ro DW, Lee KS. Lymphangitic Carcinomatosis of the Lung: Serial Changes on High-Resolution CT. J Korean Radiol Soc 1997;37(6):1051-1057'
+  doi: 10.3348/jkrs.1997.37.6.1051
+  pmid: null
+  pmcid: null
+  license_note: Copyright © The Korean Radiological Society
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-487
+  legacy_id: null
+  title: Staats BA, et al. The lipoprotein profile of chylous and nonchylous pleural effusions. Mayo Clin Proc 1980;55(11):700-704
+  citation: Staats BA, et al. The lipoprotein profile of chylous and nonchylous pleural effusions. Mayo Clin Proc 1980;55(11):700-704
+  doi: null
+  pmid: '7442324'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-488
+  legacy_id: null
+  title: 'National Library of Medicine. MeSH Descriptor: Mediastinal Emphysema (D008478)'
+  citation: 'National Library of Medicine. MeSH Descriptor: Mediastinal Emphysema (D008478)'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（NLM）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-489
+  legacy_id: null
+  title: 'National Library of Medicine. MeSH Descriptor: Tracheoesophageal Fistula (D014138)'
+  citation: 'National Library of Medicine. MeSH Descriptor: Tracheoesophageal Fistula (D014138)'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（NLM）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-490
+  legacy_id: null
+  title: 'National Library of Medicine. MeSH Descriptor: Vocal Cord Paralysis (D014826)'
+  citation: 'National Library of Medicine. MeSH Descriptor: Vocal Cord Paralysis (D014826)'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（NLM）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-491
+  legacy_id: null
+  title: 'Kasotakis G, Hasenboehler EA, Streib EW, et al. Operative fixation of rib fractures after blunt trauma: A practice management guideline from the Eastern Association for the Surgery of Trauma. J Trauma Acute Care Surg 2017;82(3):618-626'
+  citation: 'Kasotakis G, Hasenboehler EA, Streib EW, et al. Operative fixation of rib fractures after blunt trauma: A practice management guideline from the Eastern Association for the Surgery of Trauma. J Trauma Acute Care Surg 2017;82(3):618-626'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-492
+  legacy_id: null
+  title: 'National Library of Medicine. MeSH Descriptor: Funnel Chest (D005660)'
+  citation: 'National Library of Medicine. MeSH Descriptor: Funnel Chest (D005660)'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（NLM）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-493
+  legacy_id: null
+  title: 'National Library of Medicine. MeSH Descriptor: Hernia, Diaphragmatic (D006548)'
+  citation: 'National Library of Medicine. MeSH Descriptor: Hernia, Diaphragmatic (D006548)'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（NLM）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-494
+  legacy_id: null
+  title: 'National Library of Medicine. MeSH Descriptor: Hemothorax (D006491)'
+  citation: 'National Library of Medicine. MeSH Descriptor: Hemothorax (D006491)'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（NLM）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-495
+  legacy_id: null
+  title: 日本呼吸器学会・厚生労働科学研究費補助金難治性疾患政策研究事業「難治性呼吸器疾患・肺高血圧症に関する調査研究」班（監修）. 睡眠時無呼吸症候群（SAS）の診療ガイドライン2020
+  citation: 日本呼吸器学会・厚生労働科学研究費補助金難治性疾患政策研究事業「難治性呼吸器疾患・肺高血圧症に関する調査研究」班（監修）. 睡眠時無呼吸症候群（SAS）の診療ガイドライン2020
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 取得範囲に著作権表示なし（学会の著作物と考えられる）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-496
+  legacy_id: null
+  title: 厚生労働省東北厚生局. 保険診療と個別指導（医科）第6回 在宅医療について〜診療報酬算定に当たっての留意事項〜（参考資料、2024年3月22日）
+  citation: 厚生労働省東北厚生局. 保険診療と個別指導（医科）第6回 在宅医療について〜診療報酬算定に当たっての留意事項〜（参考資料、2024年3月22日）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ（表示は未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-497
+  legacy_id: null
+  title: 'National Library of Medicine. MeSH Descriptor: Hyperventilation (D006985)'
+  citation: 'National Library of Medicine. MeSH Descriptor: Hyperventilation (D006985)'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（NLM）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-498
+  legacy_id: null
+  title: Callaham M. Hypoxic hazards of traditional paper bag rebreathing in hyperventilating patients. Ann Emerg Med 1989;18(6):622-628
+  citation: Callaham M. Hypoxic hazards of traditional paper bag rebreathing in hyperventilating patients. Ann Emerg Med 1989;18(6):622-628
+  doi: 10.1016/s0196-0644(89)80515-3
+  pmid: '2499228'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-499
+  legacy_id: null
+  title: 'National Library of Medicine. MeSH Descriptor: Obesity Hypoventilation Syndrome (D010845)'
+  citation: 'National Library of Medicine. MeSH Descriptor: Obesity Hypoventilation Syndrome (D010845)'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（NLM）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-500
+  legacy_id: null
+  title: Karlafti E, Tsavdaris D, Kotzakioulafi E, et al. Which Is the Best Way to Treat Massive Hemoptysis? A Systematic Review and Meta-Analysis of Observational Studies. J Pers Med 2023;13(12):1649
+  citation: Karlafti E, Tsavdaris D, Kotzakioulafi E, et al. Which Is the Best Way to Treat Massive Hemoptysis? A Systematic Review and Meta-Analysis of Observational Studies. J Pers Med 2023;13(12):1649
+  doi: 10.3390/jpm13121649
+  pmid: null
+  pmcid: null
+  license_note: CC BY 3.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-501
+  legacy_id: null
+  title: Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499
+  citation: Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499
+  doi: 10.1183/13993003.01499-2021
+  pmid: null
+  pmcid: null
+  license_note: 未確認（頁に PDF Permissions のリンクのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-502
+  legacy_id: null
+  title: 'Dweik RA, Boggs PB, Erzurum SC, et al. An official ATS clinical practice guideline: interpretation of exhaled nitric oxide levels (FENO) for clinical applications. Am J Respir Crit Care Med 2011;184:602-615'
+  citation: 'Dweik RA, Boggs PB, Erzurum SC, et al. An official ATS clinical practice guideline: interpretation of exhaled nitric oxide levels (FENO) for clinical applications. Am J Respir Crit Care Med 2011;184:602-615'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 取得範囲に表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-503
+  legacy_id: null
+  title: Matsunaga K, Hirano T, Kawayama T, et al. Reference Ranges for Exhaled Nitric Oxide Fraction in Healthy Japanese Adult Population. Allergol Int 2010;59(4):363-367
+  citation: Matsunaga K, Hirano T, Kawayama T, et al. Reference Ranges for Exhaled Nitric Oxide Fraction in Healthy Japanese Adult Population. Allergol Int 2010;59(4):363-367
+  doi: 10.2332/allergolint.10-OA-0197
+  pmid: null
+  pmcid: null
+  license_note: © 2010 by Japanese Society of Allergology（JOURNAL FREE ACCESS）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-504
+  legacy_id: null
+  title: 'Asano F, Aoe M, Ohsaki Y, et al. Complications associated with endobronchial ultrasound-guided transbronchial needle aspiration: a nationwide survey by the Japan Society for Respiratory Endoscopy. Respir Res 2013;14:50'
+  citation: 'Asano F, Aoe M, Ohsaki Y, et al. Complications associated with endobronchial ultrasound-guided transbronchial needle aspiration: a nationwide survey by the Japan Society for Respiratory Endoscopy. Respir Res 2013;14:50'
+  doi: 10.1186/1465-9921-14-50
+  pmid: null
+  pmcid: null
+  license_note: Open Access の表示のみ（CC の版は未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-505
+  legacy_id: null
+  title: 'British Thoracic Society. BTS Guideline for oxygen use in adults in healthcare and emergency settings, Web Appendix 3: Summary of guideline for hospital use（2017年5月）. 本体は O''Driscoll BR, et al. Thorax 2017;72(Suppl 1):i1-i89'
+  citation: 'British Thoracic Society. BTS Guideline for oxygen use in adults in healthcare and emergency settings, Web Appendix 3: Summary of guideline for hospital use（2017年5月）. 本体は O''Driscoll BR, et al. Thorax 2017;72(Suppl 1):i1-i89'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 取得範囲に表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-506
+  legacy_id: null
+  title: 厚生労働省. 平成20年度診療報酬改定 告示・通知（在宅医療：C103 在宅酸素療法指導管理料、C107-2 在宅持続陽圧呼吸療法指導管理料）
+  citation: 厚生労働省. 平成20年度診療報酬改定 告示・通知（在宅医療：C103 在宅酸素療法指導管理料、C107-2 在宅持続陽圧呼吸療法指導管理料）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-507
+  legacy_id: null
+  title: 'Rochwerg B, Brochard L, Elliott MW, et al. Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure. Eur Respir J 2017;50:1602426'
+  citation: 'Rochwerg B, Brochard L, Elliott MW, et al. Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure. Eur Respir J 2017;50:1602426'
+  doi: 10.1183/13993003.02426-2016
+  pmid: null
+  pmcid: null
+  license_note: ©ERS 2017
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-508
+  legacy_id: null
+  title: 'Rochester CL, Alison JA, Carlin B, et al. Pulmonary Rehabilitation for Adults with Chronic Respiratory Disease: An Official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med 2023;208(4):e7-e26'
+  citation: 'Rochester CL, Alison JA, Carlin B, et al. Pulmonary Rehabilitation for Adults with Chronic Respiratory Disease: An Official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med 2023;208(4):e7-e26'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: Copyright © 2023 by the American Thoracic Society
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-509
+  legacy_id: null
+  title: 厚生労働省. 令和4年国民健康・栄養調査結果の概要（2024年8月28日公表）
+  citation: 厚生労働省. 令和4年国民健康・栄養調査結果の概要（2024年8月28日公表）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-510
+  legacy_id: null
+  title: 厚生労働省. 中央社会保険医療協議会 検-4-2参考「平成28年度診療報酬改定 重症化予防の取組の推進②（ニコチン依存症管理料の対象患者の拡大）」（平成29年11月10日）
+  citation: 厚生労働省. 中央社会保険医療協議会 検-4-2参考「平成28年度診療報酬改定 重症化予防の取組の推進②（ニコチン依存症管理料の対象患者の拡大）」（平成29年11月10日）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md の出典マスター表から

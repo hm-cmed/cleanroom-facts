@@ -1,0 +1,875 @@
+- id: RX-001
+  domain: RX
+  subdomain: 主要症候（血痰・喀血）
+  assertion:
+    plain_statement_ja: 大量喀血の定義は統一されておらず、24時間で600 mLを超える、または1時間に150 mLを超える出血とする定義があり、このメタ解析では24時間で200 mLを超えるものとした。出血の経路としては、圧の高い気管支動脈が最も多い。
+    condition:
+      guideline: null
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-500
+    source: Karlafti E, Tsavdaris D, Kotzakioulafi E, et al. Which Is the Best Way to Treat Massive Hemoptysis? A Systematic Review and Meta-Analysis of Observational Studies. J Pers Med 2023;13(12):1649
+    doi: 10.3390/jpm13121649
+    pmid: null
+    pmcid: null
+    url: https://www.mdpi.com/2075-4426/13/12/1649
+    source_license: CC BY 3.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 定義は論文の序論と考察の記載
+  curriculum:
+    core_curriculum: 'PS-02-07-02 (id: JkxnuQ4)；TBL-02-06-012 (id: JlAKph4)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-002
+  domain: RX
+  subdomain: 主要症候（血痰・喀血）
+  assertion:
+    plain_statement_ja: 大量喀血に対する気管支動脈塞栓術の観察研究30件のメタ解析では、統合した技術的成功率97.2%、臨床的成功率92.5%、再出血21.5%、死亡3.5%だった。含まれた研究はすべて後ろ向きで、出版バイアスが示唆された。
+    condition:
+      guideline: null
+      region: 国際
+    differential: null
+    common_misconception: 気管支動脈塞栓術で止血できれば再出血はまれである
+  provenance:
+    source_ref: SRC-500
+    source: Karlafti E, Tsavdaris D, Kotzakioulafi E, et al. Which Is the Best Way to Treat Massive Hemoptysis? A Systematic Review and Meta-Analysis of Observational Studies. J Pers Med 2023;13(12):1649
+    doi: 10.3390/jpm13121649
+    pmid: null
+    pmcid: null
+    url: https://www.mdpi.com/2075-4426/13/12/1649
+    source_license: CC BY 3.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: すべて後ろ向き観察研究の統合値
+  curriculum:
+    core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-02-06-012 (id: JlAKph4)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-003
+  domain: RX
+  subdomain: 主要症候（胸水）
+  assertion:
+    plain_statement_ja: BTS 2023 では、胸水/血清の蛋白比が0.5を超える、胸水/血清の LDH 比が0.6を超える、胸水 LDH が血清 LDH の基準上限の3分の2を超える、のいずれか1つを満たせば滲出性胸水とする（Light の基準）。
+    condition:
+      guideline: BTS Guideline for pleural disease 2023
+      region: 英国
+    differential: null
+    common_misconception: Light の基準は3項目すべてを満たしたときに滲出性と判定する
+  provenance:
+    source_ref: SRC-485
+    source: Roberts ME, Rahman NM, Maskell NA, et al. British Thoracic Society Guideline for pleural disease. Thorax 2023;78:1143-1156
+    doi: 10.1136/thorax-2023-220304
+    pmid: null
+    pmcid: null
+    url: https://thorax.bmj.com/content/78/11/1143.full.pdf
+    source_license: © Author(s) (or their employer(s)) 2023. No commercial re-use.
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: BTS 2023 の推奨文の要旨（英国）。日本の気胸・胸水診療の指針（日本気胸・囊胞性肺疾患学会など）は今回確認していない。表から読み取り（診断の流れ図の表）。Light の原著（Ann Intern Med 1972）は取得できなかった
+  curriculum:
+    core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-018 (id: JlAKpiI)；TBL-02-06-020 (id: JlAKpiQ)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-004
+  domain: RX
+  subdomain: 主要症候（胸水）
+  assertion:
+    plain_statement_ja: BTS 2023 は、胸腔穿刺は合併症を減らすため常に画像ガイド下で行い（Strong – by consensus）、盲目的な胸膜生検は行わない（Strong – by consensus）とした。
+    condition:
+      guideline: BTS Guideline for pleural disease 2023
+      region: 英国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-485
+    source: Roberts ME, Rahman NM, Maskell NA, et al. British Thoracic Society Guideline for pleural disease. Thorax 2023;78:1143-1156
+    doi: 10.1136/thorax-2023-220304
+    pmid: null
+    pmcid: null
+    url: https://thorax.bmj.com/content/78/11/1143.full.pdf
+    source_license: © Author(s) (or their employer(s)) 2023. No commercial re-use.
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: BTS 2023 の推奨文の要旨（英国）。日本の気胸・胸水診療の指針（日本気胸・囊胞性肺疾患学会など）は今回確認していない
+  curriculum:
+    core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-020 (id: JlAKpiQ)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-005
+  domain: RX
+  subdomain: 主要症候（胸水）
+  assertion:
+    plain_statement_ja: BTS 2023 は、胸水の原因として心不全を支持するために血清 NT-proBNP の測定を考慮し、ループス胸膜炎には抗核抗体、結核の多い地域では結核性胸水の診断に胸水 ADA や IFN-γ の測定を考慮できるとした（いずれも Conditional）。
+    condition:
+      guideline: BTS Guideline for pleural disease 2023
+      region: 英国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-485
+    source: Roberts ME, Rahman NM, Maskell NA, et al. British Thoracic Society Guideline for pleural disease. Thorax 2023;78:1143-1156
+    doi: 10.1136/thorax-2023-220304
+    pmid: null
+    pmcid: null
+    url: https://thorax.bmj.com/content/78/11/1143.full.pdf
+    source_license: © Author(s) (or their employer(s)) 2023. No commercial re-use.
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: BTS 2023 の推奨文の要旨（英国）。日本の気胸・胸水診療の指針（日本気胸・囊胞性肺疾患学会など）は今回確認していない
+  curriculum:
+    core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-020 (id: JlAKpiQ)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-006
+  domain: RX
+  subdomain: 呼吸機能検査
+  assertion:
+    plain_statement_ja: ERS/ATS 2022 は、閉塞性換気障害を FEV1/FVC が正常下限（LLN、5パーセンタイル、zスコア−1.645）を下回ることで定義し、健常者の基準範囲には GLI の参照式を使うとした。
+    condition:
+      guideline: ERS/ATS technical standard on interpretive strategies 2022
+      region: 欧米
+    differential: null
+    common_misconception: 閉塞性換気障害はどの年齢でも FEV1/FVC 70% 未満で一律に判定される
+  provenance:
+    source_ref: SRC-501
+    source: Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499
+    doi: 10.1183/13993003.01499-2021
+    pmid: null
+    pmcid: null
+    url: https://publications.ersnet.org/content/erj/60/1/2101499
+    source_license: 未確認（頁に PDF Permissions のリンクのみ）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: ERS/ATS 2022 の記載（欧米の基準、GLI 参照式による LLN）。日本呼吸器学会の基準（1秒率70%未満、%VC 80%未満など）や日本人の参照式（LMS 法）とは判定方法が異なる。日本の基準の出典は未取得
+  curriculum:
+    core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-021 (id: JlAKpiU)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-007
+  domain: RX
+  subdomain: 呼吸機能検査
+  assertion:
+    plain_statement_ja: ERS/ATS 2022 は、呼吸機能の低下の程度を zスコアで、−1.65〜−2.5を軽度、−2.51〜−4.0を中等度、−4.1未満を高度とした。
+    condition:
+      guideline: ERS/ATS technical standard on interpretive strategies 2022
+      region: 欧米
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-501
+    source: Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499
+    doi: 10.1183/13993003.01499-2021
+    pmid: null
+    pmcid: null
+    url: https://publications.ersnet.org/content/erj/60/1/2101499
+    source_license: 未確認（頁に PDF Permissions のリンクのみ）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: ERS/ATS 2022 の記載（欧米の基準、GLI 参照式による LLN）。日本呼吸器学会の基準（1秒率70%未満、%VC 80%未満など）や日本人の参照式（LMS 法）とは判定方法が異なる。日本の基準の出典は未取得。−4.0 と −4.1 の間は原文の区切りのとおり
+  curriculum:
+    core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-021 (id: JlAKpiU)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-008
+  domain: RX
+  subdomain: 呼吸機能検査
+  assertion:
+    plain_statement_ja: ERS/ATS 2022 は、気管支拡張薬への反応陽性を、FEV1 または FVC の変化量が予測値の10%を超える場合とした。これは吸入前後の値どうしの10%の変化とは異なる。
+    condition:
+      guideline: ERS/ATS technical standard on interpretive strategies 2022
+      region: 欧米
+    differential: null
+    common_misconception: 気管支拡張薬への反応は、吸入前の値から12%かつ200 mL以上の改善で判定するのが現在の ERS/ATS の基準である
+  provenance:
+    source_ref: SRC-501
+    source: Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499
+    doi: 10.1183/13993003.01499-2021
+    pmid: null
+    pmcid: null
+    url: https://publications.ersnet.org/content/erj/60/1/2101499
+    source_license: 未確認（頁に PDF Permissions のリンクのみ）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: ERS/ATS 2022 の記載（欧米の基準、GLI 参照式による LLN）。日本呼吸器学会の基準（1秒率70%未満、%VC 80%未満など）や日本人の参照式（LMS 法）とは判定方法が異なる。日本の基準の出典は未取得
+  curriculum:
+    core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-021 (id: JlAKpiU)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-009
+  domain: RX
+  subdomain: 呼吸機能検査
+  assertion:
+    plain_statement_ja: ERS/ATS 2022 では、拘束性障害は全肺気量（TLC）が正常下限を下回ることで定義し、FVC の低下だけでは拘束性とはいえない。FEV1/FVC は正常で FEV1 や FVC が低く TLC が正常のパターンは PRISm（preserved ratio impaired spirometry）と呼ばれる。
+    condition:
+      guideline: ERS/ATS technical standard on interpretive strategies 2022
+      region: 欧米
+    differential: null
+    common_misconception: '%VC が低ければ拘束性障害と確定できる'
+  provenance:
+    source_ref: SRC-501
+    source: Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499
+    doi: 10.1183/13993003.01499-2021
+    pmid: null
+    pmcid: null
+    url: https://publications.ersnet.org/content/erj/60/1/2101499
+    source_license: 未確認（頁に PDF Permissions のリンクのみ）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: ERS/ATS 2022 の記載（欧米の基準、GLI 参照式による LLN）。日本呼吸器学会の基準（1秒率70%未満、%VC 80%未満など）や日本人の参照式（LMS 法）とは判定方法が異なる。日本の基準の出典は未取得
+  curriculum:
+    core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-021 (id: JlAKpiU)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-010
+  domain: RX
+  subdomain: 呼吸機能検査
+  assertion:
+    plain_statement_ja: ERS/ATS 2022 は、肺拡散能（DLCO）を5〜95パーセンタイルの範囲で判定し、低下時は肺胞気量（VA）と KCO を合わせて評価するとした。VA が正常で DLCO が低ければ肺血管の障害、肺気量の保たれた肺気腫、貧血を考え、基準値はヘモグロビンで補正する。
+    condition:
+      guideline: ERS/ATS technical standard on interpretive strategies 2022
+      region: 欧米
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-501
+    source: Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499
+    doi: 10.1183/13993003.01499-2021
+    pmid: null
+    pmcid: null
+    url: https://publications.ersnet.org/content/erj/60/1/2101499
+    source_license: 未確認（頁に PDF Permissions のリンクのみ）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: ERS/ATS 2022 の記載（欧米の基準、GLI 参照式による LLN）。日本呼吸器学会の基準（1秒率70%未満、%VC 80%未満など）や日本人の参照式（LMS 法）とは判定方法が異なる。日本の基準の出典は未取得
+  curriculum:
+    core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-021 (id: JlAKpiU)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-011
+  domain: RX
+  subdomain: 呼気NO
+  assertion:
+    plain_statement_ja: ATS 2011 の指針は、呼気 NO（FeNO）が成人で25 ppb未満（小児20 ppb未満）なら好酸球性気道炎症と副腎皮質ステロイドへの反応の可能性は低く、50 ppbを超える（小児35 ppb超）なら好酸球性炎症の可能性が高いとした（強い推奨、中等度の質）。25〜50 ppbは臨床状況に照らして慎重に解釈する。
+    condition:
+      guideline: 'ATS clinical practice guideline: FENO 2011'
+      region: 米国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-502
+    source: 'Dweik RA, Boggs PB, Erzurum SC, et al. An official ATS clinical practice guideline: interpretation of exhaled nitric oxide levels (FENO) for clinical applications. Am J Respir Crit Care Med 2011;184:602-615'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://THORACIC.ORG/statements/resources/allergy-asthma/feno-document.pdf
+    source_license: 取得範囲に表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 米国の指針。日本の喘息診断に用いる目安（日本アレルギー学会など）は出典を取得できず未作成。DOI は PDF の表記と既知の形式が一致せず、API で確定する
+  curriculum:
+    core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-022 (id: JvVZg-4)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-012
+  domain: RX
+  subdomain: 呼気NO
+  assertion:
+    plain_statement_ja: ATS 2011 の指針では、FeNO の有意な上昇を、50 ppbを超える値では20%を超える増加、50 ppb未満では10 ppbを超える増加とした（弱い推奨、低い質）。喫煙者は FeNO が低く、アトピーのある人は高い傾向がある。
+    condition:
+      guideline: 'ATS clinical practice guideline: FENO 2011'
+      region: 米国
+    differential: null
+    common_misconception: 喫煙者では FeNO が高くなる
+  provenance:
+    source_ref: SRC-502
+    source: 'Dweik RA, Boggs PB, Erzurum SC, et al. An official ATS clinical practice guideline: interpretation of exhaled nitric oxide levels (FENO) for clinical applications. Am J Respir Crit Care Med 2011;184:602-615'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://THORACIC.ORG/statements/resources/allergy-asthma/feno-document.pdf
+    source_license: 取得範囲に表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 米国の指針
+  curriculum:
+    core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-022 (id: JvVZg-4)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-013
+  domain: RX
+  subdomain: 呼気NO
+  assertion:
+    plain_statement_ja: 日本の4施設の健常成人240人（18〜74歳、現喫煙者とアトピー性疾患の既往がある人を除く）の検討では、FeNO の平均は16.9 ppb、95%予測区間は6.5〜35.0 ppbで、健常成人の上限は約36 ppbと提案された。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-503
+    source: Matsunaga K, Hirano T, Kawayama T, et al. Reference Ranges for Exhaled Nitric Oxide Fraction in Healthy Japanese Adult Population. Allergol Int 2010;59(4):363-367
+    doi: 10.2332/allergolint.10-OA-0197
+    pmid: null
+    pmcid: null
+    url: https://www.jstage.jst.go.jp/article/allergolint/59/4/59_4_363/_article
+    source_license: © 2010 by Japanese Society of Allergology（JOURNAL FREE ACCESS）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 抄録で確認。喘息の診断のためのカットオフを示した研究ではない
+  curriculum:
+    core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-022 (id: JvVZg-4)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-014
+  domain: RX
+  subdomain: 気管支鏡
+  assertion:
+    plain_statement_ja: 日本呼吸器内視鏡学会の全国調査では、超音波気管支鏡ガイド下針生検（EBUS-TBNA）7,345件の合併症の頻度は1.23%で、最も多いのは出血（0.68%）、感染は0.19%、死亡は1例（0.01%）だった。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-504
+    source: 'Asano F, Aoe M, Ohsaki Y, et al. Complications associated with endobronchial ultrasound-guided transbronchial needle aspiration: a nationwide survey by the Japan Society for Respiratory Endoscopy. Respir Res 2013;14:50'
+    doi: 10.1186/1465-9921-14-50
+    pmid: null
+    pmcid: null
+    url: https://www.springermedicine.com/complications-associated-with-endobronchial-ultrasound-guided-tr/22347198
+    source_license: Open Access の表示のみ（CC の版は未確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 抄録で確認。通常の気管支鏡検査（経気管支生検など）の合併症の全国調査は未取得
+  curriculum:
+    core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-024 (id: JlAKpic)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-015
+  domain: RX
+  subdomain: 酸素療法
+  assertion:
+    plain_statement_ja: BTS 2017 は、急性疾患の多くの患者で SpO2 の目標を94〜98%、高二酸化炭素性呼吸不全のリスクがある患者では88〜92%とし、酸素は薬剤として処方して投与すべきものとした。
+    condition:
+      guideline: BTS Guideline for oxygen use in adults in healthcare and emergency settings 2017
+      region: 英国
+    differential: null
+    common_misconception: COPD などで高二酸化炭素血症のリスクがあっても、SpO2 は100%近くを目標にする
+  provenance:
+    source_ref: SRC-505
+    source: 'British Thoracic Society. BTS Guideline for oxygen use in adults in healthcare and emergency settings, Web Appendix 3: Summary of guideline for hospital use（2017年5月）. 本体は O''Driscoll BR, et al. Thorax 2017;72(Suppl 1):i1-i89'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.brit-thoracic.org.uk/document-library/guidelines/emergency-oxygen/web-appendix-3-summary-of-guideline-for-hospital-use
+    source_license: 取得範囲に表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: BTS の要約頁（Web Appendix 3）で確認。高二酸化炭素性呼吸不全のリスクがある疾患の一覧は要約頁にない。本体の DOI は未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-02-06-026 (id: JlAKpik)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-016
+  domain: RX
+  subdomain: 酸素療法
+  assertion:
+    plain_statement_ja: 日本の在宅酸素療法の保険適用の対象には、高度慢性呼吸不全で動脈血酸素分圧が55 mmHg以下の人と、60 mmHg以下で睡眠時または運動負荷時に著しい低酸素血症を来す人が含まれる。
+    condition:
+      guideline: 診療報酬 C103 在宅酸素療法指導管理料
+      region: 日本
+    differential: null
+    common_misconception: 在宅酸素療法は SpO2 が90%を下回れば誰でも保険で導入できる
+  provenance:
+    source_ref: SRC-506
+    source: 厚生労働省. 平成20年度診療報酬改定 告示・通知（在宅医療：C103 在宅酸素療法指導管理料、C107-2 在宅持続陽圧呼吸療法指導管理料）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/topics/2008/03/dl/tp0305-1d_0008.pdf
+    source_license: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 平成20年度の告示・通知で確認。2024年の東北厚生局資料の抽出では「50 mmHg 以下」と読み取られたが、抽出時の誤りと考えられる。現行（令和6年度）の留意事項通知との照合が要る。肺高血圧症・慢性心不全・チアノーゼ型先天性心疾患などの対象は主張文に含めていない
+  curriculum:
+    core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-02-06-026 (id: JlAKpik)；TBL-01-00-203 (id: Jlvnlw8)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-017
+  domain: RX
+  subdomain: 人工呼吸
+  assertion:
+    plain_statement_ja: ERS/ATS 2017 は、COPD 増悪で急性または慢性の急性増悪による呼吸性アシドーシス（pH 7.35以下）を来した場合に bilevel の非侵襲的陽圧換気（NIV）を推奨し（強い推奨、高い確実性）、アシドーシスのない高二酸化炭素血症には NIV を使わないことを提案した（条件付き、低い確実性）。
+    condition:
+      guideline: 'ERS/ATS clinical practice guidelines: NIV for acute respiratory failure 2017'
+      region: 欧米
+    differential: null
+    common_misconception: COPD 増悪で PaCO2 が高ければ、pH が正常でも NIV を始める
+  provenance:
+    source_ref: SRC-507
+    source: 'Rochwerg B, Brochard L, Elliott MW, et al. Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure. Eur Respir J 2017;50:1602426'
+    doi: 10.1183/13993003.02426-2016
+    pmid: null
+    pmcid: null
+    url: https://member.thoracic.org/statements/resources/cc/niv-guidelines.pdf
+    source_license: ©ERS 2017
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 欧米の指針。日本の NPPV ガイドライン（日本呼吸器学会）は未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-02-06-027 (id: JlAKpio)；TBL-01-00-215 (id: JlvnlyE)'
+    kokushi: 医学各論 Ⅳ-2-C-①（慢性閉塞性肺疾患<COPD>、喘息COPDオーバーラップ<ACO>、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-018
+  domain: RX
+  subdomain: 人工呼吸
+  assertion:
+    plain_statement_ja: ERS/ATS 2017 は、心原性肺水腫による急性呼吸不全に bilevel NIV か CPAP を推奨した（強い推奨、中等度の確実性）。免疫不全、術後、胸部外傷、終末期の呼吸困難では NIV を提案し（条件付き）、それ以外の新規発症の低酸素性呼吸不全には推奨を示さなかった。
+    condition:
+      guideline: 'ERS/ATS clinical practice guidelines: NIV for acute respiratory failure 2017'
+      region: 欧米
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-507
+    source: 'Rochwerg B, Brochard L, Elliott MW, et al. Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure. Eur Respir J 2017;50:1602426'
+    doi: 10.1183/13993003.02426-2016
+    pmid: null
+    pmcid: null
+    url: https://member.thoracic.org/statements/resources/cc/niv-guidelines.pdf
+    source_license: ©ERS 2017
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 欧米の指針。心原性肺水腫の鑑別・画像は第12回（PV）、心不全の治療は循環器 HF の範囲
+  curriculum:
+    core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-02-06-027 (id: JlAKpio)'
+    kokushi: 医学各論 Ⅳ-5-A-①（心原性肺水腫、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-019
+  domain: RX
+  subdomain: 人工呼吸
+  assertion:
+    plain_statement_ja: ERS/ATS 2017 は、抜管後の呼吸不全のリスクが高い患者の予防に NIV を提案した（条件付き、低い確実性）一方、抜管後にすでに呼吸不全を来した患者には NIV を使わないことを提案した（条件付き、低い確実性）。高二酸化炭素性呼吸不全の患者の人工呼吸からの離脱を早める目的でも NIV を提案している。
+    condition:
+      guideline: 'ERS/ATS clinical practice guidelines: NIV for acute respiratory failure 2017'
+      region: 欧米
+    differential: null
+    common_misconception: 抜管後に呼吸不全を来したら、再挿管の前にまず NIV を試みるのが推奨されている
+  provenance:
+    source_ref: SRC-507
+    source: 'Rochwerg B, Brochard L, Elliott MW, et al. Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure. Eur Respir J 2017;50:1602426'
+    doi: 10.1183/13993003.02426-2016
+    pmid: null
+    pmcid: null
+    url: https://member.thoracic.org/statements/resources/cc/niv-guidelines.pdf
+    source_license: ©ERS 2017
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 欧米の指針
+  curriculum:
+    core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-02-06-027 (id: JlAKpio)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-020
+  domain: RX
+  subdomain: 呼吸リハビリテーション
+  assertion:
+    plain_statement_ja: ATS 2023 の指針は、安定期の COPD、増悪で入院した後の COPD、間質性肺疾患の成人に呼吸リハビリテーションを強く推奨し（中等度の質）、肺高血圧症には条件付きで提案した（低い質）。施設型と遠隔リハビリテーションのどちらかを選べるようにすることも強く推奨した。
+    condition:
+      guideline: 'ATS clinical practice guideline: Pulmonary Rehabilitation 2023'
+      region: 米国
+    differential: null
+    common_misconception: 間質性肺疾患では呼吸リハビリテーションの効果は期待できない
+  provenance:
+    source_ref: SRC-508
+    source: 'Rochester CL, Alison JA, Carlin B, et al. Pulmonary Rehabilitation for Adults with Chronic Respiratory Disease: An Official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med 2023;208(4):e7-e26'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://documentserver.uhasselt.be/bitstream/1942/41607/1/Pulmonary%20Rehabilitation%20for%20Adults%20with%20Chronic%20Respiratory%20Disease_%20An%20Official%20American%20Thoracic%20Society%20Clinical%20Practice%20Guideline.pdf
+    source_license: Copyright © 2023 by the American Thoracic Society
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 米国の指針。肺癌の切除前後と肺移植は指針の範囲外。COPD の呼吸リハビリテーションの詳細は第11回（RO）の範囲。DOI は本文に記載がなく未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-02-06-025 (id: JlAKpig)；TBL-01-00-215 (id: JlvnlyE)；TBL-01-00-218 (id: JlvnlyY)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-021
+  domain: RX
+  subdomain: 喫煙と禁煙治療
+  assertion:
+    plain_statement_ja: 令和4年の国民健康・栄養調査では、20歳以上で習慣的に喫煙している人の割合は14.8%（男性24.8%、女性6.2%）で、平成22年（19.5%、男性32.2%、女性8.4%）から減り、直近10年間で男女とも有意に減少した。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-509
+    source: 厚生労働省. 令和4年国民健康・栄養調査結果の概要（2024年8月28日公表）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/10901000/001325269.pdf
+    source_license: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 令和4年の調査。令和5年以降の調査で喫煙の項目が公表されているかは未確認。加熱式たばこの使用割合はこの資料に記載がない
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-022
+  domain: RX
+  subdomain: 喫煙と禁煙治療
+  assertion:
+    plain_statement_ja: 令和4年の国民健康・栄養調査では、受動喫煙の機会がある人の割合は平成15年以降、家庭・職場・学校・飲食店のいずれでも有意に減っており、家庭では平成15年の22.0%から令和4年の4.7%になった。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-509
+    source: 厚生労働省. 令和4年国民健康・栄養調査結果の概要（2024年8月28日公表）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/10901000/001325269.pdf
+    source_license: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 令和4年の調査
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-023
+  domain: RX
+  subdomain: 喫煙と禁煙治療
+  assertion:
+    plain_statement_ja: 禁煙治療の保険算定（ニコチン依存症管理料）の対象は、ニコチン依存症のスクリーニングテスト（TDS）でニコチン依存症と診断され、すぐに禁煙を希望して文書で治療に同意した人で、35歳以上では喫煙指数（1日の本数×年数）200以上も要件となる。平成28年度の改定で、35歳未満では喫煙指数の要件がなくなった。
+    condition:
+      guideline: 診療報酬 B001-3-2 ニコチン依存症管理料
+      region: 日本
+    differential: null
+    common_misconception: 禁煙治療を保険で受けるには、年齢にかかわらず喫煙指数200以上が必要である
+  provenance:
+    source_ref: SRC-510
+    source: 厚生労働省. 中央社会保険医療協議会 検-4-2参考「平成28年度診療報酬改定 重症化予防の取組の推進②（ニコチン依存症管理料の対象患者の拡大）」（平成29年11月10日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/file/05-Shingikai-12404000-Hokenkyoku-Iryouka/0000184204.pdf
+    source_license: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 平成28年度改定時点の中医協資料。TDS の判定点数（5点以上）は資料に記載がなく主張文に含めていない。令和6年度改定後の要件、加熱式たばこの扱い、バレニクリンの供給状況は未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-04 (id: JkxnuRA)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-024
+  domain: RX
+  subdomain: 呼吸器疾患の統計
+  assertion:
+    plain_statement_ja: 令和6年（2024年）の人口動態統計では、肺炎が死因の第5位（80,176人、人口10万対66.6）、誤嚥性肺炎が第6位（63,667人、52.9）、新型コロナウイルス感染症が第8位（35,865人）だった。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: 肺炎と誤嚥性肺炎は人口動態統計で同じ死因として合算されている
+  provenance:
+    source_ref: SRC-299
+    source: 厚生労働省. 令和6年（2024）人口動態統計（確定数）の概況 第8表 性別にみた死因順位（第10位まで）別死亡数・死亡率（人口10万対）・構成割合
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/kakutei24/dl/10_h8.pdf
+    source_license: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 表から読み取り。令和7年の確定数は2026年9月30日に公表されたが、死因別の死亡率などの詳細は2026年11月公表予定とされ、今回は令和6年の値を使った
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-208 (id: Jlvnlxc)；TBL-01-00-212 (id: Jlvnlx0)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RX-025
+  domain: RX
+  subdomain: 呼吸器疾患の統計
+  assertion:
+    plain_statement_ja: 令和6年（2024年）の人口動態統計では、間質性肺疾患が男性の死因の第10位で、死亡数は16,024人（2023年は15,516人）だった。総数と女性の上位10位には入っていない。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-299
+    source: 厚生労働省. 令和6年（2024）人口動態統計（確定数）の概況 第8表 性別にみた死因順位（第10位まで）別死亡数・死亡率（人口10万対）・構成割合
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/kakutei24/dl/10_h8.pdf
+    source_license: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 表から読み取り。COPD は総数・男女とも上位10位に入っておらず、この表では死亡数を確認できない
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-218 (id: JlvnlyY)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）

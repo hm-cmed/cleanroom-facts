@@ -1,0 +1,1330 @@
+- id: LC-001
+  domain: LC
+  subdomain: 肺癌
+  assertion:
+    plain_statement_ja: 2023年の日本の肺癌（気管・気管支・肺）の死亡数は75,725人（男性52,887人、女性22,838人）で、がん死亡全体の19.8%を占め、部位別の死亡数で最も多かった。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: 女性のがん死亡で最も多いのは乳癌である
+  provenance:
+    source_ref: SRC-471
+    source: 公益財団法人がん研究振興財団. Cancer Statistics in Japan 2025（2025年5月掲載）Table 1 Number of deaths by cancer site (2023)
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://ganjoho.jp/public/qa_links/report/statistics/pdf/cancer_statistics_2025_data_E.pdf
+    source_license: 表示なし（掲載頁は (c) 国立研究開発法人国立がん研究センター。元データは人口動態統計）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 表から読み取り。部位の区分は結腸と直腸を分けた集計で、大腸（結腸と直腸の合計）として集計すると女性の順位は変わりうる。罹患数・5年生存率の表は抽出できず未作成
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
+    kokushi: 医学各論 Ⅳ-6-A-①（肺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-002
+  domain: LC
+  subdomain: 肺癌
+  assertion:
+    plain_statement_ja: 厚生労働省のがん検診啓発サイトによると、肺がんは2024年のがん死亡数で男女計と男性で1位、女性で2位であり、2021年の罹患数では男女計・男性・女性のいずれも3位である。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: 肺がんは罹患数でも死亡数でも1位である
+  provenance:
+    source_ref: SRC-472
+    source: 厚生労働省. がん検診受診率50%達成に向けた集中キャンペーン「がんの統計」（部位別順位）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.gankenshin50.mhlw.go.jp/cancer/statistics.html
+    source_license: Copyright 厚生労働省（運営：がん対策推進企業アクション事務局）。利用規約は未確認
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 本文の順位の記載による。実数はグラフ画像にしかなく確認できていない。女性の死亡順位は大腸を一括した集計によるとみられるが、本文で部位の区分は確認できていない
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
+    kokushi: 医学各論 Ⅳ-6-A-①（肺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-003
+  domain: LC
+  subdomain: 肺癌
+  assertion:
+    plain_statement_ja: 国立がん研究センターの「有効性評価に基づく肺がん検診ガイドライン」2025年度版（2006年度版の改訂）は、喫煙指数600以上の重喫煙者に対する低線量CT検診を、50〜74歳を対象に年1回、対策型・任意型の両方で推奨した（推奨グレードA）。喫煙指数は1日の喫煙本数と喫煙年数の積で、禁煙者は禁煙した年数を除き、加熱式たばこはカートリッジの本数で数える。
+    condition:
+      guideline: 有効性評価に基づく肺がん検診ガイドライン 2025年度版（国立がん研究センター）
+      region: 日本
+    differential: null
+    common_misconception: 低線量CT検診は喫煙歴にかかわらず全員に勧められている
+  provenance:
+    source_ref: SRC-470
+    source: 国立がん研究センター. プレスリリース「有効性評価に基づく肺がん検診ガイドライン 2025年度版を公開」（2025年4月25日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.ncc.go.jp/jp/information/pr_release/2025/0425/index.html
+    source_license: ©National Cancer Center Japan（コンテンツ利用規約は未確認）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 国立がん研究センターのプレスリリースで確認した推奨の要旨。ガイドライン本文（推奨の根拠、不利益の評価、精度管理の条件）は未確認。厚生労働省の「がん予防重点健康教育及びがん検診実施のための指針」への反映状況は未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
+    kokushi: 医学各論 Ⅳ-6-A-①（肺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-004
+  domain: LC
+  subdomain: 肺癌
+  assertion:
+    plain_statement_ja: 同ガイドライン2025年度版では、重喫煙者以外への低線量CT検診は推奨グレードIとされ、対策型検診としては実施しないことが勧められた。任意型検診では、医療者が利益と不利益を説明したうえで受診者個人の判断に委ねるとされ、国内で進行中の無作為化比較試験の結果を注視するとしている。
+    condition:
+      guideline: 有効性評価に基づく肺がん検診ガイドライン 2025年度版（国立がん研究センター）
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-470
+    source: 国立がん研究センター. プレスリリース「有効性評価に基づく肺がん検診ガイドライン 2025年度版を公開」（2025年4月25日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.ncc.go.jp/jp/information/pr_release/2025/0425/index.html
+    source_license: ©National Cancer Center Japan（コンテンツ利用規約は未確認）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 国立がん研究センターのプレスリリースで確認した推奨の要旨。ガイドライン本文（推奨の根拠、不利益の評価、精度管理の条件）は未確認。厚生労働省の「がん予防重点健康教育及びがん検診実施のための指針」への反映状況は未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
+    kokushi: 医学各論 Ⅳ-6-A-①（肺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-005
+  domain: LC
+  subdomain: 肺癌
+  assertion:
+    plain_statement_ja: 同ガイドライン2025年度版では、胸部エックス線検査による肺がん検診は喫煙状況によらず40〜79歳を対象に年1回、対策型・任意型の両方で推奨された（推奨グレードA）。
+    condition:
+      guideline: 有効性評価に基づく肺がん検診ガイドライン 2025年度版（国立がん研究センター）
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-470
+    source: 国立がん研究センター. プレスリリース「有効性評価に基づく肺がん検診ガイドライン 2025年度版を公開」（2025年4月25日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.ncc.go.jp/jp/information/pr_release/2025/0425/index.html
+    source_license: ©National Cancer Center Japan（コンテンツ利用規約は未確認）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 国立がん研究センターのプレスリリースで確認した推奨の要旨。ガイドライン本文（推奨の根拠、不利益の評価、精度管理の条件）は未確認。厚生労働省の「がん予防重点健康教育及びがん検診実施のための指針」への反映状況は未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)；TBL-02-06-023 (id: JlAKpiY)'
+    kokushi: 医学各論 Ⅳ-6-A-①（肺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-006
+  domain: LC
+  subdomain: 肺癌
+  assertion:
+    plain_statement_ja: 同ガイドライン2025年度版では、重喫煙者に対する喀痰細胞診と胸部エックス線検査の併用は推奨グレードDとされ、対策型・任意型のいずれでも実施しないことが勧められた。従来は50歳以上の重喫煙者に併用されていた。
+    condition:
+      guideline: 有効性評価に基づく肺がん検診ガイドライン 2025年度版（国立がん研究センター）
+      region: 日本
+    differential: null
+    common_misconception: 重喫煙者の肺がん検診では喀痰細胞診の併用が勧められている
+  provenance:
+    source_ref: SRC-470
+    source: 国立がん研究センター. プレスリリース「有効性評価に基づく肺がん検診ガイドライン 2025年度版を公開」（2025年4月25日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.ncc.go.jp/jp/information/pr_release/2025/0425/index.html
+    source_license: ©National Cancer Center Japan（コンテンツ利用規約は未確認）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 国立がん研究センターのプレスリリースで確認した推奨の要旨。ガイドライン本文（推奨の根拠、不利益の評価、精度管理の条件）は未確認。厚生労働省の「がん予防重点健康教育及びがん検診実施のための指針」への反映状況は未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)；TBL-02-06-019 (id: JlAKpiM)'
+    kokushi: 医学各論 Ⅳ-6-A-①（肺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-007
+  domain: LC
+  subdomain: 肺癌
+  assertion:
+    plain_statement_ja: 米国の National Lung Screening Trial（NLST）では、高リスク者53,454人を低線量CTと胸部エックス線の検診に無作為に割り付け、低線量CT群で肺癌死亡が相対的に20.0%、全死亡が6.7%減少した。
+    condition:
+      guideline: null
+      region: 米国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-473
+    source: National Lung Screening Trial Research Team, Aberle DR, Adams AM, et al. Reduced lung-cancer mortality with low-dose computed tomographic screening. N Engl J Med 2011;365:395-409
+    doi: null
+    pmid: '21714641'
+    pmcid: null
+    url: https://cdas.cancer.gov/publications/320/
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 抄録で確認。対象の年齢と喫煙歴の条件は確認した頁に記載がなく、主張文に含めていない。DOI は未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)；TBL-02-06-023 (id: JlAKpiY)'
+    kokushi: 医学各論 Ⅳ-6-A-①（肺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-008
+  domain: LC
+  subdomain: 肺癌
+  assertion:
+    plain_statement_ja: NLST の3回の検診を通じた陽性の割合は、低線量CTで24.2%、胸部エックス線で6.9%だった。
+    condition:
+      guideline: null
+      region: 米国
+    differential: null
+    common_misconception: 低線量CTは胸部エックス線より陽性になる割合が低い
+  provenance:
+    source_ref: SRC-473
+    source: National Lung Screening Trial Research Team, Aberle DR, Adams AM, et al. Reduced lung-cancer mortality with low-dose computed tomographic screening. N Engl J Med 2011;365:395-409
+    doi: null
+    pmid: '21714641'
+    pmcid: null
+    url: https://cdas.cancer.gov/publications/320/
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 抄録で確認。陽性のうち肺癌だった割合（偽陽性の割合）は確認した頁に記載がなく未作成
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)；TBL-02-06-023 (id: JlAKpiY)'
+    kokushi: 医学各論 Ⅳ-6-A-①（肺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-009
+  domain: LC
+  subdomain: 肺癌
+  assertion:
+    plain_statement_ja: 肺癌の TNM 分類第9版（2025年1月から適用）では、T因子は変更されず、N2が単一のリンパ節ステーションへの転移（N2a）と複数ステーションへの転移（N2b）に分けられた。N因子は転移したリンパ節の個数ではなくステーションの数で評価する。
+    condition:
+      guideline: UICC/AJCC TNM 分類 第9版（IASLC 提案）
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-474
+    source: 'Constantinescu A, Căprariu RN, Stoicescu ER, et al. From TNM 8 to TNM 9: Stage Migration and Histology-Specific Patterns in Lung Cancer. Cancers (Basel) 2025;17(20):3290'
+    doi: 10.3390/cancers17203290
+    pmid: '41154348'
+    pmcid: PMC12564687
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12564687
+    source_license: CC BY 4.0（MDPI）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: IASLC の原提案（J Thorac Oncol 2024）ではなく、第9版を解説した原著論文（CC BY）を出典とした。原提案との照合が要る。日本の肺癌取扱い規約の対応版は未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
+    kokushi: 医学各論 Ⅳ-6-A-①（肺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-010
+  domain: LC
+  subdomain: 肺癌
+  assertion:
+    plain_statement_ja: TNM 分類第9版では、M1c が単一の肺外臓器への多発転移（M1c1）と複数の肺外臓器への多発転移（M1c2）に分けられたが、どちらもⅣB期のままである。
+    condition:
+      guideline: UICC/AJCC TNM 分類 第9版（IASLC 提案）
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-474
+    source: 'Constantinescu A, Căprariu RN, Stoicescu ER, et al. From TNM 8 to TNM 9: Stage Migration and Histology-Specific Patterns in Lung Cancer. Cancers (Basel) 2025;17(20):3290'
+    doi: 10.3390/cancers17203290
+    pmid: '41154348'
+    pmcid: PMC12564687
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12564687
+    source_license: CC BY 4.0（MDPI）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: IASLC の原提案との照合が要る（LC-009 と同じ）
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
+    kokushi: 医学各論 Ⅳ-6-A-①（肺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-011
+  domain: LC
+  subdomain: 肺癌
+  assertion:
+    plain_statement_ja: TNM 分類第9版では、第8版と比べて T1N1 がⅡB期からⅡA期に、T1N2a がⅢA期からⅡB期に、T3N2a がⅢB期からⅢA期に下がり、T2N2b はⅢA期からⅢB期に上がった。
+    condition:
+      guideline: UICC/AJCC TNM 分類 第9版（IASLC 提案）
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-474
+    source: 'Constantinescu A, Căprariu RN, Stoicescu ER, et al. From TNM 8 to TNM 9: Stage Migration and Histology-Specific Patterns in Lung Cancer. Cancers (Basel) 2025;17(20):3290'
+    doi: 10.3390/cancers17203290
+    pmid: '41154348'
+    pmcid: PMC12564687
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12564687
+    source_license: CC BY 4.0（MDPI）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: IASLC の原提案との照合が要る。病期の対応は論文本文の記載（Section 1.3、Figure 8）による
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
+    kokushi: 医学各論 Ⅳ-6-A-①（肺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-012
+  domain: LC
+  subdomain: 肺癌
+  assertion:
+    plain_statement_ja: 2011年の IASLC/ATS/ERS 肺腺癌分類では、上皮内腺癌（AIS）を3 cm以下の単発で置換性増殖だけからなり間質・脈管・胸膜への浸潤がないもの、微少浸潤性腺癌（MIA）を3 cm以下で置換性増殖が主体かつ浸潤部が最大径5 mm以下のものと定義した。
+    condition:
+      guideline: IASLC/ATS/ERS 肺腺癌国際多分野分類（2011）
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-475
+    source: Travis WD, Brambilla E, Noguchi M, et al. International Association for the Study of Lung Cancer/American Thoracic Society/European Respiratory Society International Multidisciplinary Classification of Lung Adenocarcinoma. J Thorac Oncol 2011;6:244-285
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.thoracic.org/statements/resources/lcod/adenocarcinoma.pdf
+    source_license: © 2011 by the International Association for the Study of Lung Cancer
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 2011年の分類。2021年の WHO 分類（第5版）にも AIS・MIA の区分は引き継がれているとされるが、今回 WHO 分類の文献は取得できなかった。DOI は未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
+    kokushi: 医学各論 Ⅳ-6-A-①（肺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-013
+  domain: LC
+  subdomain: 肺癌
+  assertion:
+    plain_statement_ja: 同分類では、完全切除された AIS は疾患特異的生存率100%、MIA はほぼ100%と見込まれるとし、細気管支肺胞上皮癌（BAC）という用語の使用をやめるよう推奨した（強い推奨、低い質のエビデンス）。
+    condition:
+      guideline: IASLC/ATS/ERS 肺腺癌国際多分野分類（2011）
+      region: 国際
+    differential: null
+    common_misconception: 細気管支肺胞上皮癌（BAC）は現在も正式な組織分類名である
+  provenance:
+    source_ref: SRC-475
+    source: Travis WD, Brambilla E, Noguchi M, et al. International Association for the Study of Lung Cancer/American Thoracic Society/European Respiratory Society International Multidisciplinary Classification of Lung Adenocarcinoma. J Thorac Oncol 2011;6:244-285
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.thoracic.org/statements/resources/lcod/adenocarcinoma.pdf
+    source_license: © 2011 by the International Association for the Study of Lung Cancer
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 2011年の分類。生存率は分類の根拠として示された見込みで、新しい追跡研究との照合は未了
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
+    kokushi: 医学各論 Ⅳ-6-A-①（肺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-014
+  domain: LC
+  subdomain: 肺癌
+  assertion:
+    plain_statement_ja: 2011年の IASLC/ATS/ERS 肺腺癌分類は、進行肺腺癌の患者に EGFR 遺伝子変異の検査を行うよう推奨した。
+    condition:
+      guideline: IASLC/ATS/ERS 肺腺癌国際多分野分類（2011）
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-475
+    source: Travis WD, Brambilla E, Noguchi M, et al. International Association for the Study of Lung Cancer/American Thoracic Society/European Respiratory Society International Multidisciplinary Classification of Lung Adenocarcinoma. J Thorac Oncol 2011;6:244-285
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.thoracic.org/statements/resources/lcod/adenocarcinoma.pdf
+    source_license: © 2011 by the International Association for the Study of Lung Cancer
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 2011年時点の推奨。現在検査の対象とする遺伝子の範囲（ALK・ROS1・BRAF など）と日本の保険適用は、新しい指針で確認が要る（未作成）
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
+    kokushi: 医学各論 Ⅳ-6-A-①（肺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-015
+  domain: LC
+  subdomain: 肺癌
+  assertion:
+    plain_statement_ja: 未治療の EGFR 変異（エクソン19欠失または L858R）陽性進行非小細胞肺癌556人を対象とした FLAURA 試験で、オシメルチニブは従来の EGFR チロシンキナーゼ阻害薬（ゲフィチニブまたはエルロチニブ）と比べて全生存期間を延長した（ハザード比0.80）。Grade 3以上の有害事象は42%対47%だった。
+    condition:
+      guideline: null
+      region: 国際（多施設共同試験）
+    differential: null
+    common_misconception: EGFR 変異陽性肺癌の初回治療では、どの EGFR チロシンキナーゼ阻害薬を選んでも全生存期間は変わらない
+  provenance:
+    source_ref: SRC-476
+    source: Ramalingam SS, Vansteenkiste J, Planchard D, et al. Overall Survival with Osimertinib in Untreated, EGFR-Mutated Advanced NSCLC. N Engl J Med 2020;382:41-50
+    doi: 10.1056/NEJMoa1913662
+    pmid: null
+    pmcid: null
+    url: https://air.unipr.it/bitstream/11381/2872427/3/Flaura.pdf
+    source_license: 未確認（機関リポジトリ掲載の刊行版）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: ハザード比は抄録で0.799（95.05% CI 0.641〜0.997）、本文では上限が0.996と記載が異なる。無増悪生存期間の主解析（Soria 2018）は別の文献で未取得。オシメルチニブの国内承認・保険適用は未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-01-00-643 (id: JlvnmcI)'
+    kokushi: 医学各論 Ⅳ-6-A-①（肺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-016
+  domain: LC
+  subdomain: 転移性肺腫瘍
+  assertion:
+    plain_statement_ja: 剖検研究では、がんで死亡した例の約20%で肺が唯一の転移部位だった。肺に転移しやすい腫瘍として、大腸癌・腎癌・乳癌・前立腺癌・口腔咽頭癌のほか、絨毛癌・骨肉腫・軟部肉腫・精巣腫瘍・Ewing 肉腫・甲状腺癌が挙げられる。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-477
+    source: Pfannschmidt J, Egerer G, Bischof M, Thomas M, Dienemann H. Surgical Intervention for Pulmonary Metastases. Dtsch Arztebl Int 2012;109(40):645-651
+    doi: 10.3238/arztebl.2012.0645
+    pmid: null
+    pmcid: null
+    url: https://di.aerzteblatt.de/int/archive/article/131567
+    source_license: 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 総説の記載（二次資料経由）。各数値の一次資料は総説の引用文献
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-645 (id: JlvnmcU)'
+    kokushi: 医学各論 Ⅳ-6-A-②（転移性肺腫瘍、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-017
+  domain: LC
+  subdomain: 転移性肺腫瘍
+  assertion:
+    plain_statement_ja: 根治を目的とする肺転移の切除は、原発巣が制御され肺外に転移がないことが前提で、技術的に切除でき手術リスクが許容できることに加え、原発巣の組織型、転移の数と部位、術後に残る肺機能、完全切除（R0）の見込みをもとに判断する。
+    condition:
+      guideline: null
+      region: ドイツ
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-477
+    source: Pfannschmidt J, Egerer G, Bischof M, Thomas M, Dienemann H. Surgical Intervention for Pulmonary Metastases. Dtsch Arztebl Int 2012;109(40):645-651
+    doi: 10.3238/arztebl.2012.0645
+    pmid: null
+    pmcid: null
+    url: https://di.aerzteblatt.de/int/archive/article/131567
+    source_license: 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: ドイツの総説の記載。日本の指針による適応は未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-645 (id: JlvnmcU)'
+    kokushi: 医学各論 Ⅳ-6-A-②（転移性肺腫瘍、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-018
+  domain: LC
+  subdomain: 転移性肺腫瘍
+  assertion:
+    plain_statement_ja: 国際肺転移登録（5,206人）では、肺転移の完全切除後の5年生存率は36%、不完全切除後は13%で、手術死亡は1%だった。原発巣治療後の無病期間が長いこと、胸郭内リンパ節転移がないこと、肺転移の数が少ないことが予後良好の因子とされる。
+    condition:
+      guideline: null
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-477
+    source: Pfannschmidt J, Egerer G, Bischof M, Thomas M, Dienemann H. Surgical Intervention for Pulmonary Metastases. Dtsch Arztebl Int 2012;109(40):645-651
+    doi: 10.3238/arztebl.2012.0645
+    pmid: null
+    pmcid: null
+    url: https://di.aerzteblatt.de/int/archive/article/131567
+    source_license: 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 総説に引用された登録研究の数値（二次資料経由）。登録研究の原著（J Thorac Cardiovasc Surg 1997）は未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-645 (id: JlvnmcU)'
+    kokushi: 医学各論 Ⅳ-6-A-②（転移性肺腫瘍、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-019
+  domain: LC
+  subdomain: 良性肺腫瘍
+  assertion:
+    plain_statement_ja: 過誤腫は最も多い良性肺腫瘍で、良性肺腫瘍の約75%、肺の限局性腫瘤の6〜8%を占める。ポップコーン状の石灰化はほぼ特徴的だが一部の例にしかみられず、腫瘤内の脂肪の存在が診断の手がかりになる。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: 過誤腫ではほとんどの例でポップコーン状の石灰化がみられる
+  provenance:
+    source_ref: SRC-478
+    source: 'Tavare AN, Cash C. The Clinical Picture: A 78-year-old smoker with an incidental pulmonary mass. Cleve Clin J Med 2014;81(8):477-478'
+    doi: 10.3949/ccjm.81a.13150
+    pmid: null
+    pmcid: null
+    url: https://www.ccjm.org/content/81/8/477.full.pdf
+    source_license: For personal use only. All other uses require permission.
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 症例提示記事の解説部分（二次資料経由）。数値の一次資料は記事の引用文献
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-02-06-023 (id: JlAKpiY)'
+    kokushi: 医学各論 Ⅳ-6-B-①（良性肺腫瘍、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-020
+  domain: LC
+  subdomain: 良性肺腫瘍
+  assertion:
+    plain_statement_ja: 肺過誤腫は男性に女性の約2倍多く、70歳代に多い。多くは2.5 cm未満でゆっくり大きくなり、症状がないことが多い（症状を訴えるのは最大39%）。FDG-PET では通常強い集積を示さない。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-478
+    source: 'Tavare AN, Cash C. The Clinical Picture: A 78-year-old smoker with an incidental pulmonary mass. Cleve Clin J Med 2014;81(8):477-478'
+    doi: 10.3949/ccjm.81a.13150
+    pmid: null
+    pmcid: null
+    url: https://www.ccjm.org/content/81/8/477.full.pdf
+    source_license: For personal use only. All other uses require permission.
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 症例提示記事の解説部分（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-02-06-023 (id: JlAKpiY)'
+    kokushi: 医学各論 Ⅳ-6-B-①（良性肺腫瘍、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-021
+  domain: LC
+  subdomain: 神経原性腫瘍
+  assertion:
+    plain_statement_ja: ITMIG の分類では縦隔を血管前区画（前縦隔）・臓側区画（中縦隔）・椎体傍区画（後縦隔）の3つに分ける。神経原性腫瘍は椎体傍区画に生じ、後根神経節や椎間孔付近の神経から発生する。
+    condition:
+      guideline: ITMIG 縦隔区画分類
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-479
+    source: Carter BW, Benveniste MF, Marom EM. Diagnostic approach to the anterior/prevascular mediastinum for radiologists. Mediastinum 2019;3:18
+    doi: 10.21037/med.2018.12.03
+    pmid: null
+    pmcid: null
+    url: https://med.amegroups.org/article/view/5013/html
+    source_license: CC BY-NC-ND 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 画像診断の総説の記載。神経原性腫瘍の組織型別の頻度は未作成
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-646 (id: JlvnmcY)；TBL-02-06-023 (id: JlAKpiY)'
+    kokushi: 医学各論 Ⅳ-6-C-③（神経原性腫瘍、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-022
+  domain: LC
+  subdomain: 縦隔腫瘍
+  assertion:
+    plain_statement_ja: 血管前区画（前縦隔）の病変には、胸腺上皮性腫瘍（原発腫瘍では胸腺腫が最も多い）、リンパ腫、胚細胞腫瘍、胸腺囊胞、胸腺過形成がある。
+    condition:
+      guideline: ITMIG 縦隔区画分類
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-479
+    source: Carter BW, Benveniste MF, Marom EM. Diagnostic approach to the anterior/prevascular mediastinum for radiologists. Mediastinum 2019;3:18
+    doi: 10.21037/med.2018.12.03
+    pmid: null
+    pmcid: null
+    url: https://med.amegroups.org/article/view/5013/html
+    source_license: CC BY-NC-ND 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 画像診断の総説の記載。リンパ腫の組織型（縦隔原発大細胞型 B 細胞リンパ腫、Hodgkin リンパ腫など）の内訳は未作成
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-646 (id: JlvnmcY)'
+    kokushi: 医学各論 Ⅳ-6-C-①（悪性リンパ腫、a）；医学各論 Ⅳ-6-C-②（胸腺腫瘍、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-023
+  domain: LC
+  subdomain: 胚細胞腫瘍
+  assertion:
+    plain_statement_ja: 縦隔のセミノーマは主に10〜39歳の男性にみられ、hCG の軽度上昇は約10%、LDH は通常上昇し、AFP は通常正常である。非セミノーマ性胚細胞腫瘍は主に40歳未満の男性にみられ、約90%で診断時に AFP か hCG が著明に上昇している。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: 縦隔セミノーマでは AFP が上昇する
+  provenance:
+    source_ref: SRC-479
+    source: Carter BW, Benveniste MF, Marom EM. Diagnostic approach to the anterior/prevascular mediastinum for radiologists. Mediastinum 2019;3:18
+    doi: 10.21037/med.2018.12.03
+    pmid: null
+    pmcid: null
+    url: https://med.amegroups.org/article/view/5013/html
+    source_license: CC BY-NC-ND 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 画像診断の総説の記載（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-646 (id: JlvnmcY)'
+    kokushi: 医学各論 Ⅳ-6-C-⑤（胚細胞腫瘍、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-024
+  domain: LC
+  subdomain: 囊胞性腫瘍
+  assertion:
+    plain_statement_ja: 前縦隔の病変の評価で、MRI は囊胞と充実性病変の区別や、出血・蛋白成分を含む囊胞の評価に優れる。化学シフト画像では胸腺過形成が逆位相で信号低下を示し（比0.5〜0.6程度）、腫瘍（0.9〜1.0程度）と区別できる。化学療法後には10〜25%程度で胸腺の反跳性過形成が起こる。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: 化学療法後に胸腺が大きくなったら、まず再発を考える
+  provenance:
+    source_ref: SRC-479
+    source: Carter BW, Benveniste MF, Marom EM. Diagnostic approach to the anterior/prevascular mediastinum for radiologists. Mediastinum 2019;3:18
+    doi: 10.21037/med.2018.12.03
+    pmid: null
+    pmcid: null
+    url: https://med.amegroups.org/article/view/5013/html
+    source_license: CC BY-NC-ND 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 画像診断の総説の記載。化学シフト比の数値は総説の本文による
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-646 (id: JlvnmcY)；TBL-02-06-023 (id: JlAKpiY)'
+    kokushi: 医学各論 Ⅳ-6-C-④（囊胞性腫瘍、b）；医学各論 Ⅳ-6-C-②（胸腺腫瘍、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-025
+  domain: LC
+  subdomain: 胸腺腫瘍
+  assertion:
+    plain_statement_ja: 胸腺上皮性腫瘍は成人の前縦隔で最も多い腫瘍で、全悪性腫瘍の0.2〜1.5%を占める。米国 SEER の胸腺腫の罹患率は10万人年あたり0.13で、胸腺癌は胸腺上皮性腫瘍の約20%である。
+    condition:
+      guideline: NCI PDQ
+      region: 米国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-480
+    source: PDQ Adult Treatment Editorial Board. Thymoma and Thymic Carcinoma Treatment (PDQ)–Health Professional Version. National Cancer Institute（2024年10月25日更新）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://ncbi.nlm.nih.gov/books/NBK66041
+    source_license: PDQ の本文は文章として自由に利用できる（PDQ 要約の表示）。図は除く
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: PDQ（2024年10月25日更新）の記載。米国の資料で、数値の一次資料は PDQ の引用文献。WHO 分類は第5版（2021年）が刊行されているが、PDQ は第4版（2015年）を最も広く受け入れられている分類として記載している
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-646 (id: JlvnmcY)'
+    kokushi: 医学各論 Ⅳ-6-C-②（胸腺腫瘍、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-026
+  domain: LC
+  subdomain: 胸腺腫瘍
+  assertion:
+    plain_statement_ja: 胸腺腫には傍腫瘍性疾患が合併しやすく、重症筋無力症が約30〜65%、低ガンマグロブリン血症（Good 症候群）が5〜20%、赤芽球癆が約4%にみられる。胸腺癌に傍腫瘍性疾患が合併することはまれである。
+    condition:
+      guideline: NCI PDQ
+      region: 米国
+    differential: null
+    common_misconception: 重症筋無力症を合併しやすいのは胸腺腫より胸腺癌である
+  provenance:
+    source_ref: SRC-480
+    source: PDQ Adult Treatment Editorial Board. Thymoma and Thymic Carcinoma Treatment (PDQ)–Health Professional Version. National Cancer Institute（2024年10月25日更新）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://ncbi.nlm.nih.gov/books/NBK66041
+    source_license: PDQ の本文は文章として自由に利用できる（PDQ 要約の表示）。図は除く
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: PDQ（2024年10月25日更新）の記載。米国の資料で、数値の一次資料は PDQ の引用文献。WHO 分類は第5版（2021年）が刊行されているが、PDQ は第4版（2015年）を最も広く受け入れられている分類として記載している
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-646 (id: JlvnmcY)'
+    kokushi: 医学各論 Ⅳ-6-C-②（胸腺腫瘍、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-027
+  domain: LC
+  subdomain: 胸腺腫瘍
+  assertion:
+    plain_statement_ja: WHO 分類では胸腺腫を A・AB・B1・B2・B3 型に分け、胸腺癌には扁平上皮癌、類基底細胞癌、リンパ上皮腫様癌、NUT 癌などが含まれる。病期分類は修正正岡-古賀分類が最も広く使われ、IASLC と ITMIG が作成した TNM 分類も採用されている。
+    condition:
+      guideline: NCI PDQ
+      region: 米国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-480
+    source: PDQ Adult Treatment Editorial Board. Thymoma and Thymic Carcinoma Treatment (PDQ)–Health Professional Version. National Cancer Institute（2024年10月25日更新）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://ncbi.nlm.nih.gov/books/NBK66041
+    source_license: PDQ の本文は文章として自由に利用できる（PDQ 要約の表示）。図は除く
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: PDQ（2024年10月25日更新）の記載。米国の資料で、数値の一次資料は PDQ の引用文献。WHO 分類は第5版（2021年）が刊行されているが、PDQ は第4版（2015年）を最も広く受け入れられている分類として記載している
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-646 (id: JlvnmcY)'
+    kokushi: 医学各論 Ⅳ-6-C-②（胸腺腫瘍、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-028
+  domain: LC
+  subdomain: 胸腺腫瘍
+  assertion:
+    plain_statement_ja: 正岡分類による胸腺腫の5年生存率はⅠ期96%、Ⅱ期86%、Ⅲ期69%、Ⅳ期50%で、Ⅰ・Ⅱ期はほぼ全例で完全切除できる。Ⅲ・Ⅳ期の胸腺腫の5年生存率は、完全切除で93%、不完全切除で64%、切除不能で36%と報告されている。
+    condition:
+      guideline: NCI PDQ
+      region: 米国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-480
+    source: PDQ Adult Treatment Editorial Board. Thymoma and Thymic Carcinoma Treatment (PDQ)–Health Professional Version. National Cancer Institute（2024年10月25日更新）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://ncbi.nlm.nih.gov/books/NBK66041
+    source_license: PDQ の本文は文章として自由に利用できる（PDQ 要約の表示）。図は除く
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: PDQ（2024年10月25日更新）の記載。米国の資料で、数値の一次資料は PDQ の引用文献。WHO 分類は第5版（2021年）が刊行されているが、PDQ は第4版（2015年）を最も広く受け入れられている分類として記載している。表から読み取り
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-646 (id: JlvnmcY)'
+    kokushi: 医学各論 Ⅳ-6-C-②（胸腺腫瘍、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-029
+  domain: LC
+  subdomain: 胸膜中皮腫
+  assertion:
+    plain_statement_ja: 人口動態統計による日本の中皮腫の死亡数は、2025年に1,561人（男性1,297人、女性264人）だった。この集計は1995年から公表されている。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: 中皮腫は女性に多い
+  provenance:
+    source_ref: SRC-481
+    source: 厚生労働省. 都道府県（21大都市再掲）別にみた中皮腫による死亡数の年次推移（平成7年〜令和7年）人口動態統計（確定数）より
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/tokusyu/chuuhisyu25/dl/R07chuuhisyu.pdf
+    source_license: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 表から読み取り。部位（胸膜・腹膜など）の内訳と年次推移の数値は抽出できず未作成
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-644 (id: JlvnmcM)'
+    kokushi: 医学各論 Ⅳ-6-D-①（胸膜中皮腫、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-030
+  domain: LC
+  subdomain: 胸膜中皮腫
+  assertion:
+    plain_statement_ja: 日本の労災認定では、石綿にさらされた労働者の胸膜・腹膜・心膜・精巣鞘膜の中皮腫は、胸部エックス線写真で第1型以上の石綿肺所見があるか、石綿ばく露作業に1年以上従事していれば業務上と認められる。最初のばく露作業開始から10年未満の発症は除かれる。
+    condition:
+      guideline: 石綿による疾病の認定基準（厚生労働省）
+      region: 日本
+    differential: null
+    common_misconception: 中皮腫の労災認定には10年以上の石綿ばく露作業歴が必要である
+  provenance:
+    source_ref: SRC-482
+    source: 厚生労働省・都道府県労働局・労働基準監督署. 石綿による疾病の労災認定（パンフレット、令和5年9月版）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/001749711.pdf
+    source_license: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 令和5年9月版のパンフレットで確認。認定基準の通達本文との照合は未了
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-644 (id: JlvnmcM)'
+    kokushi: 医学各論 Ⅳ-6-D-①（胸膜中皮腫、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-031
+  domain: LC
+  subdomain: 肺癌
+  assertion:
+    plain_statement_ja: 日本の労災認定では、石綿にさらされた労働者の原発性肺癌は、石綿肺所見がある、胸膜プラークがあり石綿ばく露作業に10年以上従事した、石綿小体（乾燥肺1 gあたり5,000本以上または気管支肺胞洗浄液1 mLあたり5本以上）などの所見があり1年以上従事した、などのいずれかに当てはまれば業務上と認められる。
+    condition:
+      guideline: 石綿による疾病の認定基準（厚生労働省）
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-482
+    source: 厚生労働省・都道府県労働局・労働基準監督署. 石綿による疾病の労災認定（パンフレット、令和5年9月版）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/001749711.pdf
+    source_license: 政府標準利用規約（第2.0版）に準拠する厚生労働省のコンテンツ
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 令和5年9月版のパンフレットで確認。要件は6項目あり、主張文はその一部。表から読み取り
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
+    kokushi: 医学各論 Ⅳ-6-A-①（肺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-032
+  domain: LC
+  subdomain: 胸膜中皮腫
+  assertion:
+    plain_statement_ja: 石綿健康被害救済法（平成18年法律第4号）による救済制度は、労災補償などの対象とならない人を対象に、中皮腫、肺癌、著しい呼吸機能障害を伴う石綿肺、著しい呼吸機能障害を伴うびまん性胸膜肥厚の4疾病を指定し、医療費の自己負担分や療養手当などを給付する。申請は環境再生保全機構が受け付ける。
+    condition:
+      guideline: 石綿による健康被害の救済に関する法律
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-483
+    source: 環境省 大臣官房環境保健部 石綿健康被害対策室. 石綿健康被害救済制度の施行状況等について（資料3、令和4年6月6日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.env.go.jp/content/000047431.pdf
+    source_license: 政府標準利用規約（第2.0版）に準拠する環境省のコンテンツ（表示は未確認）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 令和4年6月時点の資料。給付額は主張文に含めていない。石綿肺・びまん性胸膜肥厚は第12回（IL）の範囲と重なるため、IL 側と重複がないか確認する
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-644 (id: JlvnmcM)'
+    kokushi: 医学各論 Ⅳ-6-D-①（胸膜中皮腫、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-033
+  domain: LC
+  subdomain: 癌性胸膜炎
+  assertion:
+    plain_statement_ja: 症状のある胸水の約40%は悪性腫瘍によるもので、悪性胸水の約75%は肺癌・乳癌・リンパ腫・白血病による。悪性胸水と診断された後の生存期間の中央値は3〜4か月程度とされる。
+    condition:
+      guideline: NCI PDQ
+      region: 米国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-484
+    source: PDQ Supportive and Palliative Care Editorial Board. Cardiopulmonary Syndromes (PDQ)–Health Professional Version. National Cancer Institute（2023年2月21日公開版）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://https.ncbi.nlm.nih.gov/books/NBK65834
+    source_license: PDQ の本文は文章として自由に利用できる（PDQ 要約の表示。今回の取得範囲では利用条件の頁は未取得）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: PDQ（2023年2月21日公開版）の記載。米国の資料で、数値の一次資料は PDQ の引用文献（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-02-06-018 (id: JlAKpiI)'
+    kokushi: 医学各論 Ⅳ-6-E（癌性胸膜炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-034
+  domain: LC
+  subdomain: 癌性胸膜炎
+  assertion:
+    plain_statement_ja: 悪性胸水に対する胸腔穿刺排液は症状を一時的に和らげるが、約98%が30日以内に再貯留する。留置型の胸腔カテーテルでは最大96%で症状が改善し、最大44%で自然に胸膜癒着が得られ、胸膜癒着術より入院期間が短い。
+    condition:
+      guideline: NCI PDQ
+      region: 米国
+    differential: null
+    common_misconception: 悪性胸水は一度排液すれば再びたまることは少ない
+  provenance:
+    source_ref: SRC-484
+    source: PDQ Supportive and Palliative Care Editorial Board. Cardiopulmonary Syndromes (PDQ)–Health Professional Version. National Cancer Institute（2023年2月21日公開版）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://https.ncbi.nlm.nih.gov/books/NBK65834
+    source_license: PDQ の本文は文章として自由に利用できる（PDQ 要約の表示。今回の取得範囲では利用条件の頁は未取得）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: PDQ（2023年2月21日公開版）の記載。米国の資料で、数値の一次資料は PDQ の引用文献（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-02-06-018 (id: JlAKpiI)；TBL-02-06-020 (id: JlAKpiQ)'
+    kokushi: 医学各論 Ⅳ-6-E（癌性胸膜炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-035
+  domain: LC
+  subdomain: 癌性胸膜炎
+  assertion:
+    plain_statement_ja: 英国胸部疾患学会（BTS）2023 は、肺の再膨張不全が知られていない悪性胸水では、初回治療として留置型胸腔カテーテルか胸膜癒着術を患者が選べるようにすることを推奨した（Conditional）。画像上25%を超える再膨張不全がある場合は、タルクによる癒着術より留置型カテーテルを勧めている（good practice point）。
+    condition:
+      guideline: BTS Guideline for pleural disease 2023
+      region: 英国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-485
+    source: Roberts ME, Rahman NM, Maskell NA, et al. British Thoracic Society Guideline for pleural disease. Thorax 2023;78:1143-1156
+    doi: 10.1136/thorax-2023-220304
+    pmid: null
+    pmcid: null
+    url: https://thorax.bmj.com/content/78/11/1143.full.pdf
+    source_license: © Author(s) (or their employer(s)) 2023. No commercial re-use.
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: BTS 2023 の推奨文の要旨（英国）。日本の気胸・胸水診療の指針（日本気胸・囊胞性肺疾患学会など）は今回確認していない。タルクの国内承認状況は未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-02-06-018 (id: JlAKpiI)'
+    kokushi: 医学各論 Ⅳ-6-E（癌性胸膜炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-036
+  domain: LC
+  subdomain: 癌性胸膜炎
+  assertion:
+    plain_statement_ja: BTS 2023 は、続発性の悪性胸膜病変が疑われる場合の最初の検査を胸水細胞診とし、25〜50 mLの胸水を提出するよう勧めた（Strong – by consensus）。細胞診が陰性なら追加の検査を行い、胸水のバイオマーカーで診断しないこと、CT で異常がなくても悪性は否定できないことも示している。
+    condition:
+      guideline: BTS Guideline for pleural disease 2023
+      region: 英国
+    differential: null
+    common_misconception: 胸水細胞診が陰性なら悪性胸水は否定できる
+  provenance:
+    source_ref: SRC-485
+    source: Roberts ME, Rahman NM, Maskell NA, et al. British Thoracic Society Guideline for pleural disease. Thorax 2023;78:1143-1156
+    doi: 10.1136/thorax-2023-220304
+    pmid: null
+    pmcid: null
+    url: https://thorax.bmj.com/content/78/11/1143.full.pdf
+    source_license: © Author(s) (or their employer(s)) 2023. No commercial re-use.
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: BTS 2023 の推奨文の要旨（英国）。日本の気胸・胸水診療の指針（日本気胸・囊胞性肺疾患学会など）は今回確認していない
+  curriculum:
+    core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-020 (id: JlAKpiQ)'
+    kokushi: 医学各論 Ⅳ-6-E（癌性胸膜炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-037
+  domain: LC
+  subdomain: 癌性リンパ管症
+  assertion:
+    plain_statement_ja: 肺の癌性リンパ管症18例の高分解能CTの検討では、小葉間隔壁の肥厚が全例にみられ（平滑15例、平滑と結節状の混在3例）、気管支血管束の肥厚が17例、すりガラス影と多角形の線状影が各15例、結節が10例にみられた。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-486
+    source: 'Hwang JW, Kim Y, Hwang JH, Kim TS, Ro DW, Lee KS. Lymphangitic Carcinomatosis of the Lung: Serial Changes on High-Resolution CT. J Korean Radiol Soc 1997;37(6):1051-1057'
+    doi: 10.3348/jkrs.1997.37.6.1051
+    pmid: null
+    pmcid: null
+    url: https://synapse.koreamed.org/articles/1067885
+    source_license: Copyright © The Korean Radiological Society
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 1997年の単施設18例の研究で、韓国語論文の英文抄録で確認
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-02-06-023 (id: JlAKpiY)'
+    kokushi: 医学各論 Ⅳ-6-F（癌性リンパ管症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-038
+  domain: LC
+  subdomain: 癌性リンパ管症
+  assertion:
+    plain_statement_ja: 同研究の経過観察では、化学療法を行わなかった例で CT 所見が広がり、平滑な隔壁肥厚が結節状に変わる例があった。化学療法を行った例では所見が改善するか進行が止まった。
+    condition:
+      guideline: null
+      region: 日本
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-486
+    source: 'Hwang JW, Kim Y, Hwang JH, Kim TS, Ro DW, Lee KS. Lymphangitic Carcinomatosis of the Lung: Serial Changes on High-Resolution CT. J Korean Radiol Soc 1997;37(6):1051-1057'
+    doi: 10.3348/jkrs.1997.37.6.1051
+    pmid: null
+    pmcid: null
+    url: https://synapse.koreamed.org/articles/1067885
+    source_license: Copyright © The Korean Radiological Society
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 1997年の単施設18例の研究（英文抄録で確認）。症状や予後の数値は記載がない
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-02-06-023 (id: JlAKpiY)'
+    kokushi: 医学各論 Ⅳ-6-F（癌性リンパ管症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
