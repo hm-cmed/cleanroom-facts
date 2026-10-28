@@ -377,12 +377,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: BR-017
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した BR-017 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: BR-012
   domain: BR
   subdomain: 乳腺線維腺腫
@@ -412,12 +415,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: BR-018
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した BR-018 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: BR-013
   domain: BR
   subdomain: 乳腺症
@@ -447,12 +453,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: BR-019
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した BR-019 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: BR-014
   domain: BR
   subdomain: 男性乳癌と女性化乳房
@@ -558,3 +567,108 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: BR-017
+  domain: BR
+  subdomain: 乳管内乳頭腫
+  assertion:
+    plain_statement_ja: 乳管内乳頭腫は乳管内に生じる腫瘍で、多くは良性である。針生検で良性と診断されても、外科的切除後の病理検査で癌が見つかる（アップグレード）割合は、メタ解析で約5.0%（95%信頼区間4.4〜5.5%）、異型を伴う乳頭腫では約36.0%（同32.7〜39.2%）であった。血性乳頭分泌、末梢型の乳頭腫、触知可能な腫瘤、1cm以上の病変などはアップグレードの予測因子であり、これらがある場合は切除が勧められ、予測因子のない無症状の良性乳頭腫では画像による経過観察も選択肢となる。
+    condition:
+      region: 海外（国際的なメタ解析）
+      study: メタ解析（2009〜2020年に発表された44研究、生検で診断された乳管内乳頭腫7,016例の統合）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1521
+    source: 'Zhang X, Liu W, Hai T, Li F. Upgrade Rate and Predictive Factors for Breast Benign Intraductal Papilloma Diagnosed at Biopsy: A Meta-Analysis. Ann Surg Oncol. 2021;28(13):8643-8650.'
+    doi: 10.1245/s10434-021-10188-7
+    pmid: '34331160'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/34331160/
+    source_license: Springer（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値は抄録で確認した統合値であり、日本の患者集団でのアップグレード率は本出典では確認していない。中枢型と末梢型の定義の詳細は抄録の範囲では確認できなかった（末梢型が予測因子であることは確認した）。薬剤名は含まない。
+  curriculum:
+    core_curriculum: 'PS-02-13-05 (id: JkxnuSs)；TBL-01-00-454 (id: JlvnmJ8)；TBL-02-12-004 (id: JlAKprY)'
+    kokushi: 医学各論 Ⅹ-11-B-②（乳管内乳頭腫、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: BR-018
+  domain: BR
+  subdomain: 乳腺線維腺腫
+  assertion:
+    plain_statement_ja: 乳腺線維腺腫は、思春期から20代半ばを中心とする若い女性に多い良性腫瘍で、通常は単発の腫瘤として現れる。触診では平滑で境界明瞭、可動性があり、一般に痛みを伴わない。画像検査と針生検などの病理評価によって葉状腫瘍や乳癌と鑑別し、小さく無症状で病理所見に懸念のないものは経過観察とし、大きいものや症状のあるものでは切除を検討する。
+    condition:
+      region: 海外（総説）
+      study: 臨床像と病理所見を対応づけた総説（全文で確認）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1522
+    source: 'Ramala SR Jr, Chandak S, Chandak MS, Annareddy S. A Comprehensive Review of Breast Fibroadenoma: Correlating Clinical and Pathological Findings. Cureus. 2023;15(12):e49948.'
+    doi: 10.7759/cureus.49948
+    pmid: '38179396'
+    pmcid: PMC10765224
+    url: https://pubmed.ncbi.nlm.nih.gov/38179396/
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 若年女性での頻度（専門外来を受診した思春期から20代半ばの女性の7〜13%）は出典の本文から読み取りであり、受診者という選択された集団での値である。日本の患者を対象とした数値は本出典では確認していない。薬剤名は含まない。
+  curriculum:
+    core_curriculum: 'PS-02-13-05 (id: JkxnuSs)；TBL-01-00-666 (id: JlvnmeY)；TBL-02-12-004 (id: JlAKprY)'
+    kokushi: 医学各論 Ⅹ-11-B-③（乳腺線維腺腫、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: BR-019
+  domain: BR
+  subdomain: 乳腺症
+  assertion:
+    plain_statement_ja: 乳腺症（線維嚢胞性変化）は、嚢胞形成などを含む良性の病理変化の総称で、症状のある患者の受診や検診で見つかった所見の画像評価でしばしばみられる。嚢胞や層状の石灰化など典型的な良性所見であれば、不要な経過観察や生検を避けることができる。一方、腫瘤や層状でない石灰化、構築の乱れがあれば、針生検による診断が必要になる。対応は通常、保存的である。
+    condition:
+      region: 米国（画像診断の総説）
+      study: 画像所見と病理の対応に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1523
+    source: Bennett DL, Buckley A, Lee MV. Fibrocystic Change. Radiol Clin North Am. 2024;62(4):581-592.
+    doi: 10.1016/j.rcl.2023.12.008
+    pmid: '38777535'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/38777535/
+    source_license: Elsevier（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 元のカードにあった性ホルモン変動との関連や乳房痛の頻度は、本出典の抄録の範囲では確認できなかったため含めていない。薬剤名は含まない。
+  curriculum:
+    core_curriculum: 'PS-02-13-05 (id: JkxnuSs)；TBL-01-00-454 (id: JlvnmJ8)；TBL-01-00-667 (id: Jlvnmec)'
+    kokushi: 医学各論 Ⅹ-11-C-①（乳腺症、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）

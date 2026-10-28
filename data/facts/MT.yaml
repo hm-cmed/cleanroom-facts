@@ -447,12 +447,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: MT-037
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した MT-037 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: MT-014
   domain: MT
   subdomain: 全身性アミロイドーシス
@@ -762,12 +765,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: MT-038
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した MT-038 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: MT-023
   domain: MT
   subdomain: ビタミン過剰症
@@ -797,12 +803,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: MT-039
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した MT-039 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: MT-024
   domain: MT
   subdomain: 痛風の診断と急性発作の治療
@@ -1007,12 +1016,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: MT-040
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した MT-040 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: MT-030
   domain: MT
   subdomain: Marfan症候群
@@ -1042,12 +1054,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: MT-041
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した MT-041 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: MT-031
   domain: MT
   subdomain: Ehlers-Danlos症候群
@@ -1217,12 +1232,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: MT-042
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した MT-042 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: MT-036
   domain: MT
   subdomain: ナイアシン・ビタミンB6の異常（過剰と欠乏）
@@ -1258,3 +1276,213 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-037
+  domain: MT
+  subdomain: 低蛋白血症
+  assertion:
+    plain_statement_ja: 低アルブミン血症は炎症と密接に関連する。炎症により毛細血管の透過性が亢進して血清アルブミンが血管外へ漏れ、間質腔が拡大してアルブミンの分布容積が増える。あわせてアルブミンの半減期が短縮して総量が減少するため、血漿中でのアルブミンの分画合成率がむしろ上昇していても低アルブミン血症を来す。低アルブミン血症は炎症の状態そのものを反映し、生活の質の低下や寿命の短縮と関連する。血清アルブミン値の上昇と低下は、それぞれ病態の改善と悪化の指標となる。対応はアルブミンの補充ではなく、進行中の炎症の原因を是正することが基本である。
+    condition:
+      region: 国際
+      study: 総説（低アルブミン血症の病態と臨床的意義、2019年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1533
+    source: 'Soeters PB, Wolfe RR, Shenkin A. Hypoalbuminemia: Pathogenesis and Clinical Significance. JPEN J Parenter Enteral Nutr. 2019;43(2):181-193.'
+    doi: 10.1002/jpen.1451
+    pmid: '30288759'
+    pmcid: PMC7379941
+    url: https://pubmed.ncbi.nlm.nih.gov/30288759/
+    source_license: CC BY-NC-ND（Europe PMCのライセンス表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 元のカードにあったアルブミンの生理学的定数（肝臓でのみ合成されること、血漿蛋白の50〜60%、基準濃度35〜50 g/L、半減期14〜21日、膠質浸透圧の約80%）は、本出典の抄録では確認できないため新カードには含めていない。炎症性メディエーターが合成を抑制するという元の記述は、本出典の病態理解（炎症下では分画合成率は上昇する）と異なるため、本出典に従って改めた。アルブミン製剤の国内の承認・保険適用は、本調査では添付文書で確認していない（未確認）。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
+    kokushi: 医学各論 Ⅹ-8-A-①（低蛋白血症、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-038
+  domain: MT
+  subdomain: ビタミンC欠乏（壊血病）とペラグラ
+  assertion:
+    plain_statement_ja: 壊血病はビタミンC欠乏の古典的な現れ方で、皮膚所見が目立つ。毛孔性角化に、らせん状（コルク栓抜き様）の毛髪と毛孔周囲の出血を伴う所見が特徴的で、点状出血は遅れて現れる。コラーゲン合成の障害のため創傷治癒が悪くなり、歯肉の症状を伴うこともある。ペラグラはナイアシン（ビタミンB3）の欠乏によるもので、臨床経過は皮膚炎、認知症、下痢、放置すれば死亡という4つのDで表される。皮膚炎は日光に当たる部位の発疹が中心である。ペラグラは吸収や代謝の障害でも起こり、イソニアジドなどの薬剤がナイアシンの合成を妨げて誘発することもある。
+    condition:
+      region: 国際
+      study: 症例に基づく総説（栄養欠乏の皮膚所見、2016年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1534
+    source: Galimberti F, Mesinkovska NA. Skin findings associated with nutritional deficiencies. Cleve Clin J Med. 2016;83(10):731-739.
+    doi: 10.3949/ccjm.83a.15061
+    pmid: '27726828'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/27726828/
+    source_license: ライセンス表示を確認できず（© The Cleveland Clinic Foundation）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 主張の内容は出典の本文（出版社ページ）で確認した範囲にとどめた。壊血病の歯肉出血や関節痛などの個別症状の詳細は、本出典の本文で確認した範囲を超えるものは含めていない。ビタミンC製剤とナイアシン製剤の国内の承認・保険適用は、本調査では確認していない（未確認）。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)'
+    kokushi: 医学各論 Ⅹ-9-A-①（ビタミン欠乏症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-039
+  domain: MT
+  subdomain: ビタミン過剰症
+  assertion:
+    plain_statement_ja: ビタミンD中毒（ビタミンD過剰症）は過剰症の代表例で、重度の高カルシウム血症を介して症状を来す。症状としては、錯乱、無関心、反復する嘔吐、腹痛、多尿、多飲、脱水などが多い。外因性の中毒は、薬剤としてのビタミンD製剤の不適切あるいは不注意な、極めて高用量の長期摂取で起こることが多く、過剰摂取による中毒では血清25(OH)Dが150 ng/mL（375 nmol/L）を超えることが目印とされる。内因性には、肉芽腫性疾患や一部のリンパ腫で活性型ビタミンD代謝物が局所で過剰に産生される場合などがある。
+    condition:
+      region: 国際
+      study: 総説（ビタミンD中毒の臨床的総説、2018年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1535
+    source: Marcinowska-Suchowierska E, Kupisz-Urbańska M, Łukaszkiewicz J, Płudowski P, Jones G. Vitamin D Toxicity-A Clinical Perspective. Front Endocrinol (Lausanne). 2018;9:550.
+    doi: 10.3389/fendo.2018.00550
+    pmid: '30294301'
+    pmcid: PMC6158375
+    url: https://pubmed.ncbi.nlm.nih.gov/30294301/
+    source_license: CC BY 4.0（Crossrefのライセンス表示）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 元のカードにあったビタミンA過剰の内容（妊娠中の過剰摂取による催奇形性、肝障害、頭蓋内圧亢進）と、水溶性ビタミンの過剰に関する記述は、単一の一次資料で確認できなかったため新カードには含めていない（ビタミンA過剰の候補出典は未解決事項に記した）。ビタミンD製剤の国内の承認・保険適用は、本調査では確認していない（未確認）。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-02-13-007 (id: JlAKpsU)'
+    kokushi: 医学各論 Ⅹ-9-A-②（ビタミン過剰症、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-040
+  domain: MT
+  subdomain: 亜鉛欠乏症候群（腸性肢端皮膚炎）
+  assertion:
+    plain_statement_ja: 腸性肢端皮膚炎は、SLC39A4遺伝子の変異による常染色体劣性遺伝の亜鉛欠乏症である。肢端と口周囲の皮膚炎、脱毛、下痢を特徴とし、血清亜鉛は著しく低下する。亜鉛の補充により皮膚病変が改善し、発毛が回復して血清亜鉛も上昇する。乳児で特徴的な皮膚炎、脱毛、下痢をみた場合には本症を考え、血清亜鉛の測定と遺伝子解析を行うことが、誤診や診断の遅れを防ぐうえで重要である。
+    condition:
+      region: 国際
+      study: 症例報告と文献レビュー（中国の乳児例、2025年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1536
+    source: 'Axirejiang T, Simayi G, Abuduwake A, Liu Y, Zheng G, Ibrahim I. Clinical features and genetic analysis of acrodermatitis enteropathica in an ethnic minority infant from Western China: a case report and literature review. Front Med (Lausanne). 2025;12:1616196.'
+    doi: 10.3389/fmed.2025.1616196
+    pmid: '41103716'
+    pmcid: PMC12521432
+    url: https://pubmed.ncbi.nlm.nih.gov/41103716/
+    source_license: CC BY 4.0（Crossref・Europe PMCのライセンス表示）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 単一症例の報告と文献レビューに基づく。元のカードにあった、後天性の亜鉛欠乏でも同様の臨床像を呈することと、亜鉛が200を超える金属酵素の構成要素であることは、本出典の抄録では確認できなかったため新カードには含めていない。症例で用いられた亜鉛補充の用量は症例固有のものとして主張には含めていない。亜鉛製剤の国内の承認・保険適用は、本調査では確認していない（未確認）。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
+    kokushi: 医学各論 Ⅹ-9-E-③（亜鉛欠乏症候群<腸性肢端皮膚炎>、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-041
+  domain: MT
+  subdomain: Marfan症候群
+  assertion:
+    plain_statement_ja: Marfan症候群の診断は、国際的な専門家パネルが定めた改正Ghent基準による。改正基準では心血管病変の比重が高められ、大動脈基部の瘤と水晶体偏位が中心的な臨床所見とされた。家族歴がない場合、この2つがそろえば診断は確定する。どちらか一方を欠く場合は、真正のFBN1変異の存在、あるいは全身所見の組み合わせが必要で、後者の評価には新しいスコア制度が設けられた。FBN1の遺伝子検査は必須ではないが、診断評価における比重は増している。小児での診断や、成人での鑑別診断についても配慮がなされている。
+    condition:
+      region: 国際
+      study: 診断基準の原著論文（改正Ghent基準、2010年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1537
+    source: Loeys BL, Dietz HC, Braverman AC, Callewaert BL, De Backer J, Devereux RB, et al. The revised Ghent nosology for the Marfan syndrome. J Med Genet. 2010;47(7):476-485.
+    doi: 10.1136/jmg.2009.072785
+    pmid: '20591885'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/20591885/
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 元のカードにあった頻度（3,000〜5,000人に1人）、侵される臓器の列挙（眼・心血管・骨格）、β遮断薬による治療と待機的手術という治療の内容は、本出典（診断基準の原著論文）の抄録では確認できないため新カードには含めていない。全身所見のスコアの項目ごとの内訳も抄録の範囲外である。新カードでは薬剤名を扱っていない。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
+    kokushi: 医学各論 Ⅹ-9-F-①（Marfan症候群、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: MT-042
+  domain: MT
+  subdomain: ビタミンA・K・Eの欠乏
+  assertion:
+    plain_statement_ja: 脂溶性ビタミンA・D・E・Kは小腸で食事脂肪とともに吸収されるため、脂肪吸収障害があると欠乏を来しやすい。先進国で欠乏の原因となるのは、食事、吸収障害、肝疾患が多い。ビタミンA欠乏では、暗所で見えにくくなる夜盲が現れ、涙液の減少に伴う眼球乾燥症や角膜軟化症を来たして、失明に進むことがある。ビタミンKは凝固因子II（プロトロンビン）・VII・IX・Xの活性化に必要で、欠乏では出血症候群を来す。新生児は、胎盤を通る移行が限られ、母乳中の濃度も低いため、出生時にビタミンKが欠乏しやすい。ビタミンE欠乏では、反射の低下、位置覚・振動覚の低下、遠位部の筋力低下、運動失調、眼振などの神経症状が現れる。
+    condition:
+      region: 国際
+      study: 総説（脂溶性ビタミンの臨床総説、2024年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1538
+    source: 'Andrès E, Lorenzo-Villalba N, Terrade JE, Méndez-Bailon M. Fat-Soluble Vitamins A, D, E, and K: Review of the Literature and Points of Interest for the Clinician. J Clin Med. 2024;13(13):3641.'
+    doi: 10.3390/jcm13133641
+    pmid: '38999209'
+    pmcid: PMC11242131
+    url: https://pubmed.ncbi.nlm.nih.gov/38999209/
+    source_license: CC BY 4.0（PMC・Europe PMCのライセンス表示）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: ビタミンK欠乏の出血症候群は出典の表から読み取り、その他の内容は本文で確認した。元のカードにあった、ビタミンK欠乏ではフィブリノゲンや血小板数が正常でもPT-INRが延長するという表現と、未熟児ではビタミンEの貯蔵が少ないという記載は、本出典の本文で確認できなかったため新カードには含めていない。各ビタミン製剤の国内の承認・保険適用は、本調査では確認していない（未確認）。
+  curriculum:
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)'
+    kokushi: 医学各論 Ⅹ-9-A-①（ビタミン欠乏症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）

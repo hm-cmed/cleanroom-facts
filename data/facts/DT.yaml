@@ -27,12 +27,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: DT-037
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した DT-037 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: DT-002
   domain: DT
   subdomain: 色素性母斑と太田母斑
@@ -62,12 +65,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: DT-038
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した DT-038 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: DT-003
   domain: DT
   subdomain: 神経線維腫症1型
@@ -167,12 +173,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: DT-039
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した DT-039 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: DT-006
   domain: DT
   subdomain: 毛細血管奇形<単純性血管腫>
@@ -342,12 +351,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: DT-040
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した DT-040 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: DT-011
   domain: DT
   subdomain: 粉瘤
@@ -377,12 +389,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: DT-041
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した DT-041 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: DT-012
   domain: DT
   subdomain: 脂漏性角化症
@@ -412,12 +427,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: DT-042
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した DT-042 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: DT-013
   domain: DT
   subdomain: ケラトアカントーマ
@@ -1147,12 +1165,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: DT-043
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した DT-043 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: DT-034
   domain: DT
   subdomain: 悪性黒色腫
@@ -1258,3 +1279,248 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: DT-037
+  domain: DT
+  subdomain: 母斑の総論
+  assertion:
+    plain_statement_ja: 表皮母斑は、表皮および皮膚付属器に由来する過誤腫性の病変で、伝統的にその形態によって分類されてきた。由来する組織によって、表皮そのものに由来する角化細胞性母斑と、付属器に由来する母斑とに分けられ、一部の病型は皮膚以外の症状を伴う症候群と関連する。
+    condition:
+      region: 海外（総説）
+      study: 表皮母斑と関連症候群の総説（第1部：角化細胞性母斑）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1524
+    source: 'Garcias-Ladaria J, Cuadrado Rosón M, Pascual-López M. Epidermal Nevi and Related Syndromes - Part 1: Keratinocytic Nevi. Actas Dermosifiliogr. 2018;109(8):677-686.'
+    doi: 10.1016/j.ad.2018.05.005
+    pmid: '29983155'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/29983155/
+    source_license: Elsevier España（CC 表示を確認できず）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 元のカードにあった「脂腺母斑は器官様母斑に含まれる」という位置づけは、同総説の第2部（付属器由来の母斑）の範囲であり、本カードの出典（第1部）の抄録では確認できなかったため含めていない。薬剤名は含まない。
+  curriculum:
+    core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-105 (id: JlvnllE)'
+    kokushi: 医学各論 Ⅲ-2-A-①（脂腺母斑、表皮母斑、色素性母斑、太田母斑、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: DT-038
+  domain: DT
+  subdomain: 色素性母斑と太田母斑
+  assertion:
+    plain_statement_ja: 太田母斑（眼皮膚メラノーシス）は、三叉神経の分布領域の皮膚・粘膜と、同側の上強膜・強膜やぶどう膜に、青灰色ないし褐色の扁平な色素沈着を呈する先天性の病変で、片側性が多い。色素細胞は口蓋などにも及ぶことがある。主な眼合併症は緑内障と、ぶどう膜悪性黒色腫への罹患しやすさであり、眼科的な検査と経過観察が重要である。
+    condition:
+      region: 海外（総説）
+      study: 眼科的側面に関する総説（2021年8月までの英語論文の検索、全文で確認）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1525
+    source: Abdolrahimzadeh S, Pugi DM, Manni P, Iodice CM, Di Tizio F, Persechino F, Scuderi G. An update on ophthalmological perspectives in oculodermal melanocytosis (Nevus of Ota). Graefes Arch Clin Exp Ophthalmol. 2023;261(2):291-301.
+    doi: 10.1007/s00417-022-05743-1
+    pmid: '35851619'
+    pmcid: PMC9837000
+    url: https://pubmed.ncbi.nlm.nih.gov/35851619/
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 三叉神経の枝について、出典は ophthalmic and mandibular branches（眼枝と下顎枝）と記載しており、一般に言われる第1枝・第2枝（眼枝・上顎枝）とは表記が異なるため、本カードでは枝番号を特定しなかった。薬剤名は含まない。
+  curriculum:
+    core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-105 (id: JlvnllE)；TBL-02-03-011 (id: JlAKpa0)'
+    kokushi: 医学各論 Ⅲ-2-A-①（脂腺母斑、表皮母斑、色素性母斑、太田母斑、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: DT-039
+  domain: DT
+  subdomain: Kasabach-Merritt症候群
+  assertion:
+    plain_statement_ja: Kasabach-Merritt現象は、乳児にみられる重度の血小板減少とフィブリノゲンの消費（消費性凝固障害）を伴う現象で、その背景にある血管病変は通常の乳児血管腫ではない。22例の検討では、病変の組織型は房状血管腫（tufted angioma）またはカポジ型血管内皮腫（kaposiform hemangioendothelioma）のいずれかであり、全例に重度の血小板減少がみられた。
+    condition:
+      region: 海外（症例集積研究）
+      study: Kasabach-Merritt症候群22例の臨床・止血データと生検組織（15例）の検討（原著論文）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1526
+    source: Enjolras O, Wassef M, Mazoyer E, Frieden IJ, Rieu PN, Drouet L, Taïeb A, Stalder JF, Escande JP. Infants with Kasabach-Merritt syndrome do not have "true" hemangiomas. J Pediatr. 1997;130(4):631-640.
+    doi: 10.1016/S0022-3476(97)70249-X
+    pmid: '9108863'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/9108863/
+    source_license: Elsevier（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 血小板数の最低値が3,000/mm3であったことは抄録から読み取り。元のカードにあった微小血管症性溶血性貧血は、本出典の抄録で明示されなかったため含めていない。治療の各論（個別の治療法の選択）は本出典の範囲外のため含めておらず、薬剤名は記載していない。
+  curriculum:
+    core_curriculum: 'PS-02-04-05 (id: JkxnuQI)'
+    kokushi: 医学各論 Ⅲ-2-C-①（Kasabach-Merritt症候群、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: DT-040
+  domain: DT
+  subdomain: リンパ管腫
+  assertion:
+    plain_statement_ja: リンパ管腫（リンパ管奇形）は、ISSVA（国際脈管異常研究学会）の分類では、脈管性腫瘍とは区別される脈管奇形のうち、単純型のリンパ管奇形に位置づけられる。嚢胞の大きさによって、大嚢胞型、小嚢胞型、混合型に分けられる。
+    condition:
+      region: 国際（ISSVA 分類勧告）
+      study: 脈管異常の分類に関する勧告論文
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1527
+    source: 'Wassef M, Blei F, Adams D, Alomari A, Baselga E, Berenstein A, Burrows P, Frieden IJ, Garzon MC, et al. Vascular Anomalies Classification: Recommendations From the International Society for the Study of Vascular Anomalies. Pediatrics. 2015;136(1):e203-e214.'
+    doi: 10.1542/peds.2014-3673
+    pmid: '26055853'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/26055853/
+    source_license: American Academy of Pediatrics（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 大嚢胞型・小嚢胞型・混合型の細分類は、ISSVA 公式分類の表（2025年版フロー図）から読み取り。元のカードにあった深部型・表在型という分け方と、嚢胞性リンパ管腫と染色体異常（トリソミーなど）との関連は、本出典の抄録の範囲では確認できなかったため含めていない。薬剤名は含まない。
+  curriculum:
+    core_curriculum: 'PS-02-04-05 (id: JkxnuQI)'
+    kokushi: 医学各論 Ⅲ-2-D（リンパ管腫、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: DT-041
+  domain: DT
+  subdomain: 粉瘤
+  assertion:
+    plain_statement_ja: 粉瘤（表皮嚢腫）は、重層上皮に裏打ちされケラチンで満たされた良性の嚢腫で、毛のある皮膚に生じ、表面の小孔（punctum）が臨床診断の目印となる。全身のどこにでも生じうるが、外科的に切除された症例の集計では頭頸部に最も多かった。悪性化の可能性もあるため病理組織学的な確認が必要とされ、治療の選択は外科切除である。
+    condition:
+      region: 海外（単一施設の後方視的解析と文献レビュー）
+      study: 外科切除された表皮嚢腫2,159例の10年間の後方視的解析と文献レビュー
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1528
+    source: 'Wollina U, Langner D, Tchernev G, França K, Lotti T. Epidermoid Cysts - A Wide Spectrum of Clinical Presentation and Successful Treatment by Surgery: A Retrospective 10-Year Analysis and Literature Review. Open Access Maced J Med Sci. 2018;6(1):28-30.'
+    doi: 10.3889/oamjms.2018.027
+    pmid: '29483974'
+    pmcid: PMC5816307
+    url: https://pubmed.ncbi.nlm.nih.gov/29483974/
+    source_license: CC BY-NC 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 好発部位の順序は著者らの症例集計（頭頸部73.4%、体幹15.1%、四肢9.8%）によるもので、本文から読み取り。元のカードにあった「『脂腺嚢腫』は誤称」という表現自体は本出典では確認できなかったため、内容物がケラチンであることのみを記載した。薬剤名は含まない。
+  curriculum:
+    core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-114 (id: JlvnlmU)'
+    kokushi: 医学各論 Ⅲ-2-E-①（粉瘤、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: DT-042
+  domain: DT
+  subdomain: 脂漏性角化症
+  assertion:
+    plain_statement_ja: 脂漏性角化症は成人に多い良性の表皮腫瘍で、悪性化することはない。色素性病変では、悪性黒色腫などの色素性腫瘍との鑑別にダーモスコピーが有用である。治療は主として凍結療法や切除などの小手術であり、薬物療法の効果は限られる。
+    condition:
+      region: 海外（総説）
+      study: 脂漏性角化症の管理と理解に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1529
+    source: Wollina U. Recent advances in managing and understanding seborrheic keratosis. F1000Research. 2019;8:1520.
+    doi: 10.12688/f1000research.18983.1
+    pmid: '31508199'
+    pmcid: PMC6719672
+    url: https://pubmed.ncbi.nlm.nih.gov/31508199/
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 元のカードにあった「境界明瞭な扁平な斑・局面」という形態の詳細は、本出典の抄録の範囲では確認できなかったため含めていない。出典で臨床試験が報告されていた外用療法（高濃度過酸化水素製剤など）は、日本での承認・保険適用を確認していないため主張文には含めなかった。
+  curriculum:
+    core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-02-03-011 (id: JlAKpa0)'
+    kokushi: 医学各論 Ⅲ-2-E-②（脂漏性角化症、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: DT-043
+  domain: DT
+  subdomain: 粉瘤
+  assertion:
+    plain_statement_ja: 粉瘤（表皮嚢腫）の内容物は皮脂ではなくケラチンである。治療の選択は外科切除であり、再発を防ぐためには嚢胞壁を完全に取り除く必要がある。外科切除された2,159例の解析では、合併症率は2.2%と低かった。
+    condition:
+      region: 海外（単一施設の後方視的解析と文献レビュー）
+      study: 外科切除された表皮嚢腫2,159例の10年間の後方視的解析と文献レビュー
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1528
+    source: 'Wollina U, Langner D, Tchernev G, França K, Lotti T. Epidermoid Cysts - A Wide Spectrum of Clinical Presentation and Successful Treatment by Surgery: A Retrospective 10-Year Analysis and Literature Review. Open Access Maced J Med Sci. 2018;6(1):28-30.'
+    doi: 10.3889/oamjms.2018.027
+    pmid: '29483974'
+    pmcid: PMC5816307
+    url: https://pubmed.ncbi.nlm.nih.gov/29483974/
+    source_license: CC BY-NC 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 合併症率2.2%は著者らの施設の集計であり、抄録から読み取り。日本での再発率・合併症率は本出典では確認していない。薬剤名は含まない。
+  curriculum:
+    core_curriculum: 'PS-02-04-05 (id: JkxnuQI)'
+    kokushi: 医学各論 Ⅲ-2-E-①（粉瘤、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）

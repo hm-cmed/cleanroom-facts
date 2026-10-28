@@ -52,70 +52,6 @@
 
 ---
 
-## 排卵の機序
-
-### RP-004　下書き（出典の照合前）
-
-> 排卵は、卵巣の主席卵胞が破裂して卵子を腹腔内に放出する過程であり、卵管の采部に取り込まれる。卵胞期にエストロゲンが上昇し、周期中期に下垂体からのLHサージ（とFSHの上昇）が起こることが排卵の引き金となる。排卵は月経周期の長さにかかわらず、次回月経の約14日前に起こり、その後に黄体期が続く。排卵後の卵胞は黄体となり、プロゲステロンを分泌する。
-
-- 条件：region: 米国／study: 教科書章（StatPearls）
-- 不確実性：StatPearlsの章にはDOIが付与されておらず、PubMedレコードにもDOIの記載がないことを確認したためDOIはnullとした。LHサージ開始から排卵までの時間などの詳細な数値は、確認した抜粋の範囲に含まれなかったため主張に含めていない。
-- 出典：Holesh JE, Bass AN, Lord M. Physiology, Ovulation. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK441996.　[PMID 28723025](https://pubmed.ncbi.nlm.nih.gov/28723025/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅷ-8-D-③（無排卵、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-021 (id: JlAKppQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-004&card_id=RP-004&version=7e55da8d7c)　（版 `7e55da8d7c`）
-
-**[ここまでの 1 件（RP-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-004&cards=RP-004%207e55da8d7c)**
-
----
-
-## 思春期と初経
-
-### RP-005　下書き（出典の照合前）
-
-> 初経は思春期の後半に起こる最初の月経であり、通常10〜16歳の間に発来し、平均年齢は12.4歳とされる。初経の時期は遺伝、栄養状態、全身の健康状態、運動などの影響を受ける。初経直後の周期は、視床下部・下垂体・卵巣系のエストロゲン陽性フィードバックが未熟なため、無排卵で周期の長さや出血量が不規則であることが多い。二次性徴の進行と並行して、やがて排卵周期が確立する。
-
-- 条件：region: 米国／study: 教科書章（StatPearls）。平均初経年齢は米国のデータに基づく記述
-- 不確実性：平均初経年齢12.4歳は米国のデータに基づく教科書的記述であり、日本人集団の平均値ではない。日本の初経年齢の平均は本調査では未確認である。StatPearlsの章にはDOIの記載がないためDOIはnullとした。
-- 出典：Lacroix AE, Gondal H, Shumway KR, Langaker MD. Physiology, Menarche. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK470216.　[PMID 29261991](https://pubmed.ncbi.nlm.nih.gov/29261991/)（区分 UNKNOWN）
-- 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-005&card_id=RP-005&version=a25da15c1c)　（版 `a25da15c1c`）
-
-**[ここまでの 1 件（RP-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-005&cards=RP-005%20a25da15c1c)**
-
----
-
-## 原発性無月経
-
-### RP-006　下書き（出典の照合前）
-
-> 原発性無月経は、15歳までに月経の発来がない場合、または乳房発育の開始から3年を経ても月経がない場合に評価の対象となる。乳房発育がなく13歳で月経がない場合は、思春期遅発の観点からより早期の評価が勧められる。主な原因は、染色体異常に伴う卵巣機能不全（ターナー症候群など）と、ミュラー管の形成異常などの解剖学的異常である。評価では妊娠の除外に加え、LH、FSH、プロラクチン、TSHなどの血清ホルモンと骨盤の解剖の確認を系統的に行う。
-
-- 条件：region: 米国／study: 教科書章（StatPearls）
-- 不確実性：評価開始年齢の基準は米国の教科書的基準であり、日本の診療指針における基準との一致は本調査では未確認である。StatPearlsの章にはDOIの記載がないためDOIはnullとした。
-- 出典：Nawaz G, Rogol AD, Jenkins SM. Amenorrhea. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK482168.　[PMID 29489290](https://pubmed.ncbi.nlm.nih.gov/29489290/)（区分 UNKNOWN）
-- 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-021 (id: JlAKppQ)；TBL-02-09-022 (id: JlAKppU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-006&card_id=RP-006&version=a17fbb5171)　（版 `a17fbb5171`）
-
-**[ここまでの 1 件（RP-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-006&cards=RP-006%20a17fbb5171)**
-
----
-
-## 続発性無月経
-
-### RP-007　下書き（出典の照合前）
-
-> 続発性無月経は、それまで規則的だった月経が3か月以上停止した場合、または不規則だった月経が6か月以上停止した場合をいう。原因の多くは、多嚢胞性卵巣症候群、視床下部性無月経、高プロラクチン血症、卵巣機能不全で説明できる。評価ではまず妊娠を除外し、血清LH、FSH、プロラクチン、TSHを測定する。視床下部性無月経の患者では摂食障害の有無を評価し、骨密度低下のリスクに注意する。
-
-- 条件：region: 米国／study: 教科書章（StatPearls）
-- 不確実性：無月経の期間の定義は出典（米国の教科書）のものであり、日本の定義との細部の一致は未確認である。各原因の頻度の順位は集団によって異なる可能性がある。StatPearlsの章にはDOIの記載がないためDOIはnullとした。
-- 出典：Nawaz G, Rogol AD, Jenkins SM. Amenorrhea. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK482168.　[PMID 29489290](https://pubmed.ncbi.nlm.nih.gov/29489290/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅷ-8-A-①（視床下部性無月経、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-007&card_id=RP-007&version=c8251f27cd)　（版 `c8251f27cd`）
-
-**[ここまでの 1 件（RP-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-007&cards=RP-007%20c8251f27cd)**
-
----
-
 ## 月経周期異常（頻発・希発月経）
 
 ### RP-008　下書き（出典の照合前）
@@ -241,22 +177,6 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-015&card_id=RP-015&version=eff4acb41d)　（版 `eff4acb41d`）
 
 **[ここまでの 1 件（RP-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-015&cards=RP-015%20eff4acb41d)**
-
----
-
-## 排卵痛・排卵期出血
-
-### RP-016　下書き（出典の照合前）
-
-> 排卵痛（Mittelschmerz）は、排卵期に起こる良性の片側性の下腹部痛であり、周期の中間期（周期7〜24日）に、発育する卵胞のある側に生じる。血中LHピークの時期と一致して起こり、生殖年齢女性の40%以上にみられるとされる。通常は治療を要さず、痛みが強い場合は鎮痛薬で対処する。下腹部痛の訴えでは、虫垂炎や卵巣嚢胞の破裂・茎捻転、異所性妊娠などの他の原因との鑑別が重要である。排卵期には少量の性器出血（排卵期出血）を伴うこともある。
-
-- 条件：region: 米国／study: 教科書章（StatPearls）
-- 不確実性：「40%以上」という頻度と発生日（7〜24日）は出典の抜粋に記載された値である。排卵期出血そのものの頻度や機序は出典の抜粋では確認できなかったため、主張では定性的に触れるにとどめた。StatPearlsの章にはDOIの記載がないためDOIはnullとした。
-- 出典：Brott NR, Le JK. Mittelschmerz. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK549822.　[PMID 31747229](https://pubmed.ncbi.nlm.nih.gov/31747229/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅷ-8-D-②（機能性子宮出血、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-010 (id: JlAKpoU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-016&card_id=RP-016&version=db6809508b)　（版 `db6809508b`）
-
-**[ここまでの 1 件（RP-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-016&cards=RP-016%20db6809508b)**
 
 ---
 
@@ -955,6 +875,86 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-062&card_id=RP-062&version=e437cc2f9b)　（版 `e437cc2f9b`）
 
 **[ここまでの 1 件（RP-062）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-062&cards=RP-062%20e437cc2f9b)**
+
+---
+
+## 排卵の機序
+
+### RP-063　下書き（出典の照合前）
+
+> 排卵は、LHサージを契機として卵巣内で進む一連の過程である。LHサージにより、EGF様因子、ステロイド、転写因子、プロスタグランジン、タンパク分解系などの排卵メディエーターの発現が高まり、卵胞の破裂と卵子の放出に至る。これらの機構には動物モデルと共通する部分が多い一方で、誘導される因子の種類や発現パターン、調節機構には種差があり、ヒトの排卵の理解にはヒト検体を用いた研究が必要である。排卵過程の障害は不妊や低妊孕性と関連する。
+
+- 条件：region: 国際（ヒト卵巣を対象とした研究の総説）／study: 総説（ヒトおよび動物モデルの排卵研究のレビュー）
+- 不確実性：元のカードにあった「排卵は次回月経の約14日前に起こる」「排卵後の卵胞は黄体となりプロゲステロンを分泌する」という記述は、本出典の抄録で確認できなかったため含めていない。主張は抄録で確認した範囲に限る。
+- 出典：Jo M, Brännström M, Akins JW, Curry TE Jr. New insights into the ovulatory process in the human ovary. Hum Reprod Update. 2025;31(1):21-47.　[DOI 10.1093/humupd/dmae027](https://doi.org/10.1093/humupd/dmae027)　[PMID 39331957](https://pubmed.ncbi.nlm.nih.gov/39331957/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅷ-8-D-③（無排卵、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-021 (id: JlAKppQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-063&card_id=RP-063&version=1ff596bb4e)　（版 `1ff596bb4e`）
+
+**[ここまでの 1 件（RP-063）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-063&cards=RP-063%201ff596bb4e)**
+
+---
+
+## 思春期と初経
+
+### RP-064　下書き（出典の照合前）
+
+> 初経年齢の中央値は、先進国の十分に栄養のある集団では12〜13歳で、比較的安定している。初経の時期や思春期の進行は、社会経済的状況、栄養、予防医療へのアクセスといった環境要因の影響を受ける。臨床では、初経で起こることや初経後の月経周期の長さの正常範囲を本人と養育者に説明し、月経周期をバイタルサインの一つとして評価することで、異常な月経パターンを早期に発見できる。
+
+- 条件：region: 米国を含む先進国（十分に栄養のある集団）／study: 学会ガイドライン（ACOG 委員会意見）
+- 不確実性：元のカードの「平均12.4歳」「通常10〜16歳」という数値は本出典では確認できず、中央値12〜13歳に置き換えた。初経直後は無排卵周期が多いことは、本出典の抄録では確認できなかったため含めていない。日本の集団を対象とした数値ではない。
+- 出典：American College of Obstetricians and Gynecologists. Committee Opinion No. 651: Menstruation in Girls and Adolescents: Using the Menstrual Cycle as a Vital Sign. Obstet Gynecol. 2015;126(6):e143-e146.　[DOI 10.1097/AOG.0000000000001215](https://doi.org/10.1097/AOG.0000000000001215)　[PMID 26595586](https://pubmed.ncbi.nlm.nih.gov/26595586/)（区分 RESTRICTED）
+- 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-064&card_id=RP-064&version=effc350dff)　（版 `effc350dff`）
+
+**[ここまでの 1 件（RP-064）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-064&cards=RP-064%20effc350dff)**
+
+---
+
+## 原発性無月経
+
+### RP-065　下書き（出典の照合前）
+
+> 原発性無月経は、初経が発来しない状態をいう。二次性徴の発育が13歳までにみられない場合、乳房発育の開始から5年を経ても初経がない場合、または15歳以上で初経がない場合に、評価を行う。原因としては、ターナー症候群などの染色体異常に伴う原発性卵巣機能不全と、ミュラー管形成不全などの解剖学的異常が多い。初期評価には、妊娠反応と血清LH、FSH、プロラクチン、TSHの測定が含まれる。
+
+- 条件：region: 米国／study: 総説（無月経の診断・管理アプローチ。本文で定義を確認）
+- 不確実性：評価開始の目安のうち「乳房発育の開始から5年」は、本出典（2013年）の本文の記載による。元のカードの「3年」は本出典では確認できなかったため、出典の記載どおり5年とした。評価時期の基準は、資料の発行年や発行団体により異なる可能性がある。Am Fam Physician はDOIを付与していないためDOIはnullとした。
+- 出典：Klein DA, Poth MA. Amenorrhea: An Approach to Diagnosis and Management. Am Fam Physician. 2013;87(11):781-788.　[PMID 23939500](https://pubmed.ncbi.nlm.nih.gov/23939500/)（区分 UNKNOWN）
+- 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-021 (id: JlAKppQ)；TBL-02-09-022 (id: JlAKppU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-065&card_id=RP-065&version=99472b360d)　（版 `99472b360d`）
+
+**[ここまでの 1 件（RP-065）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-065&cards=RP-065%2099472b360d)**
+
+---
+
+## 続発性無月経
+
+### RP-066　下書き（出典の照合前）
+
+> 続発性無月経は、それまで規則的だった月経が3か月間停止した場合、または不規則だった月経が6か月間停止した場合をいう。原因の多くは、多嚢胞性卵巣症候群、視床下部性無月経、高プロラクチン血症、原発性卵巣機能不全で説明できる。評価ではすべての症例で妊娠を除外し、初期検査として妊娠反応と血清LH、FSH、プロラクチン、TSHを測定する。視床下部性無月経の患者では摂食障害の有無を評価し、骨密度低下のリスクに注意する。
+
+- 条件：region: 米国／study: 総説（無月経の診断・管理アプローチ）
+- 不確実性：定義と初期検査の内容は本出典（米国の総説）によるものであり、日本の診療での実施状況との細部の一致は未確認である。Am Fam Physician はDOIを付与していないためDOIはnullとした。
+- 出典：Klein DA, Poth MA. Amenorrhea: An Approach to Diagnosis and Management. Am Fam Physician. 2013;87(11):781-788.　[PMID 23939500](https://pubmed.ncbi.nlm.nih.gov/23939500/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅷ-8-A-①（視床下部性無月経、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-066&card_id=RP-066&version=ce53cbe2cd)　（版 `ce53cbe2cd`）
+
+**[ここまでの 1 件（RP-066）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-066&cards=RP-066%20ce53cbe2cd)**
+
+---
+
+## 排卵痛・排卵期出血
+
+### RP-067　下書き（出典の照合前）
+
+> 排卵痛（ミッテルシュメルツ）は、排卵期に生じる下腹部痛である。正常女性で月経周期の中間期に骨盤超音波検査を行った研究では、少量の腹水が周期の40%に認められ、痛みを伴った周期では、その約2/3で排卵の時期に腹水が超音波で確認された。この所見は、排卵に伴って卵胞液などが腹腔内に漏れることが、痛みの一因であることを支持する。
+
+- 条件：region: 米国／study: 原著論文（正常女性を対象とした超音波検査による観察研究、1979年）
+- 不確実性：元のカードの「生殖年齢女性の40%以上にみられる」という有病率は、一次資料で確認できなかったため含めていない。本出典の40%は女性の割合ではなく、腹水が認められた周期の割合である。虫垂炎や卵巣嚢胞の破裂・茎捻転、異所性妊娠との鑑別の記述も、本出典の抄録では確認できなかったため含めていない。1979年の研究であり、超音波機器の性能は現在と異なる。
+- 出典：Hann LE, Hall DA, Black EB, Ferrucci JT Jr. Mittelschmerz: Sonographic Demonstration. JAMA. 1979;241(25):2731-2732.　[DOI 10.1001/jama.241.25.2731](https://doi.org/10.1001/jama.241.25.2731)　[PMID 448821](https://pubmed.ncbi.nlm.nih.gov/448821/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅷ-8-D-②（機能性子宮出血、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-010 (id: JlAKpoU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-067&card_id=RP-067&version=9d9f9e7fee)　（版 `9d9f9e7fee`）
+
+**[ここまでの 1 件（RP-067）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-067&cards=RP-067%209d9f9e7fee)**
 
 ---
 

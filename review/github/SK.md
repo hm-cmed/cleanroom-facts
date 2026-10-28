@@ -92,38 +92,6 @@
 
 ---
 
-## 皮脂欠乏性湿疹
-
-### SK-008　下書き（出典の照合前）
-
-> 皮脂欠乏性湿疹は、乾燥した皮膚（乾皮症）を背景に生じる湿疹性皮膚炎で、高齢者に多く、瘙痒を伴い、乾燥と鱗屑に細かい亀裂が加わって「ひび割れた舗装」や「乾いた河床」に例えられる特徴的な外観を呈する。下腿に最も多く、腕や体幹にも広がりうる。背景には加齢による角層脂質の減少などの表皮バリア機能障害があり、寒冷や頻回の入浴といった環境要因が誘因となり、冬季に悪化しやすい。甲状腺機能低下症や栄養不良、リンパ腫などの全身疾患の手がかりとなることもある。
-
-- 条件：region: 米国／study: 教科書的総説（StatPearls）
-- 不確実性：出典は StatPearls の章であり、DOI は付与されていない（PubMed の Bookshelf レコードで確認）。ライセンス表示は確認できなかった。関連する薬剤として出典が挙げる利尿薬、シメチジン、パクリタキセルなどの国内承認・保険適用は未確認。内容は抄録で確認した範囲に限った。
-- 出典：Srivastava D, Sathe NC, Persaud Y. Asteatotic Eczema. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026.　[PMID 31747214](https://pubmed.ncbi.nlm.nih.gov/31747214/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅲ-1-A-④（皮脂欠乏性湿疹、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-069 (id: Jlvnlgk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-008&card_id=SK-008&version=19557162e1)　（版 `19557162e1`）
-
-**[ここまでの 1 件（SK-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-008&cards=SK-008%2019557162e1)**
-
----
-
-## 貨幣状湿疹
-
-### SK-009　下書き（出典の照合前）
-
-> 貨幣状湿疹（貨幣状皮膚炎）は、硬貨状の湿疹病変が多発する瘙痒性の湿疹性皮膚症で、四肢に多く、体幹に及ぶこともある。内因性（特発性）の湿疹の一型とされ、アトピー性皮膚炎の亜型とみなす考えもある。多くは保存的な治療と外用コルチコステロイドで治療でき、予後は良好で、最終的に寛解に至る患者が多い。
-
-- 条件：region: 米国／study: 教科書的総説（StatPearls）
-- 不確実性：出典は StatPearls の章であり、DOI は付与されていない（PubMed の Bookshelf レコードで確認）。ライセンス表示は確認できなかった。外用コルチコステロイドの国内承認・保険適用は未確認。内容は抄録で確認した範囲に限った。
-- 出典：Hardin CA, Love LW, Saleh HM, Farci F. Nummular Dermatitis. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024.　[PMID 33351436](https://pubmed.ncbi.nlm.nih.gov/33351436/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅲ-1-A-⑤（貨幣状湿疹、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-068 (id: Jlvnlgg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-009&card_id=SK-009&version=d4205525e1)　（版 `d4205525e1`）
-
-**[ここまでの 1 件（SK-009）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-009&cards=SK-009%20d4205525e1)**
-
----
-
 ## 自家感作性皮膚炎
 
 ### SK-010　下書き（出典の照合前）
@@ -457,6 +425,38 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-030&card_id=SK-030&version=19c5542811)　（版 `19c5542811`）
 
 **[ここまでの 1 件（SK-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-030&cards=SK-030%2019c5542811)**
+
+---
+
+## 皮脂欠乏性湿疹
+
+### SK-031　下書き（出典の照合前）
+
+> 皮脂欠乏性湿疹は、角層バリア機能の変化に伴う乾皮症（乾燥した皮膚）を背景とする湿疹であり、老人性乾皮症とも呼ばれる。皮膚は乾燥して粗く、軽度の鱗屑を伴い、瘙痒や、つっぱるような感覚を伴う。本症の患者30例（男性11例、女性19例）を対象とした臨床研究では、保湿作用をもつ外用軟膏の塗布により、乾燥、粗糙（粗さ）、落屑の所見と瘙痒が、治療7日目と21日目の時点で有意に軽減し、軽減の程度は治療期間が長いほど大きかった。
+
+- 条件：region: イタリア／study: 原著論文（患者30例を対象とした臨床研究）
+- 不確実性：元のカードの「下腿に最も多い」「冬季に悪化しやすい」「ひび割れた舗装様の外観」という記述は、本出典の抄録では確認できなかったため含めていない。本研究で用いられた外用剤は化粧品に分類される軟膏であり、日本で承認された治療薬ではないため、国内の承認・保険適用の対象となる薬剤ではない。掲載誌（Int J Tissue React）はDOIを付与していないためDOIはnullとした。
+- 出典：Caproni M, Torchia D, Pestelli E, Volpi W, Fabbri P, Schincaglia E. Clinical and immunohistochemical study of the effect of a cosmetic product in patients with asteatotic eczema. Int J Tissue React. 2005;27(1):23-29.　[PMID 15847102](https://pubmed.ncbi.nlm.nih.gov/15847102/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-1-A-④（皮脂欠乏性湿疹、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-069 (id: Jlvnlgk)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-031&card_id=SK-031&version=c105629b7f)　（版 `c105629b7f`）
+
+**[ここまでの 1 件（SK-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-031&cards=SK-031%20c105629b7f)**
+
+---
+
+## 貨幣状湿疹
+
+### SK-032　下書き（出典の照合前）
+
+> 貨幣状湿疹は、瘙痒を伴う硬貨状の湿疹性局面を特徴とする、慢性の炎症性皮膚症である。病因には接触アレルゲンへの感作が関与する可能性があり、観察研究10件を統合した系統的レビューでは、貨幣状湿疹患者のパッチテスト陽性率の中央値は47.8%（範囲26.7〜56.0%）で、ニッケル（硫酸ニッケルを含む）、重クロム酸カリウム、塩化コバルト、香料ミックス、ネオマイシンなどが多く報告された。アレルギー性接触皮膚炎の併存または既往は、中央値33.5%にみられた。重症例や治療に抵抗する例では、関連するアレルゲンの同定と回避の指導のために、パッチテストの実施が検討される。
+
+- 条件：region: 海外（系統的レビューに含まれた観察研究10件の集団）／study: 系統的レビュー（観察研究10件、PRISMA 準拠）
+- 不確実性：元のカードの「四肢に多い」「外用コルチコステロイドで治療でき、予後は良好」という記述は、本出典では確認できなかったため含めていない。パッチテスト陽性率などの数値は海外の観察研究を統合したものであり、日本の患者集団での値ではない。ネオマイシンは治療薬としてではなく、パッチテストで報告されたアレルゲンとしての記載である。
+- 出典：Joerg L, Stolyar J, Jagdeo J. Contact Allergens Associated With Nummular Eczema: A Systematic Review. J Drugs Dermatol. 2026;25(10):914-918.　[DOI 10.36849/JDD.10209](https://doi.org/10.36849/JDD.10209)　[PMID 42826143](https://pubmed.ncbi.nlm.nih.gov/42826143/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-1-A-⑤（貨幣状湿疹、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-068 (id: Jlvnlgg)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-032&card_id=SK-032&version=917c69a3a9)　（版 `917c69a3a9`）
+
+**[ここまでの 1 件（SK-032）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-032&cards=SK-032%20917c69a3a9)**
 
 ---
 

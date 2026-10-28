@@ -164,54 +164,6 @@
 
 ---
 
-## 乳管内乳頭腫
-
-### BR-011　下書き（出典の照合前）
-
-> 乳管内乳頭腫は、乳管内に生じる乳頭状の良性腫瘍で、乳頭からの分泌、とくに血性分泌をきっかけに見つかることが多い。乳頭近くの大きな乳管に単発する中枢型と、末梢に多発する末梢型がある。診断では画像検査と病理検査で異型病変や癌の合併を評価し、その結果によって切除するか経過をみるかを判断する。
-
-- 条件：region: 国際／population: 乳頭分泌や乳房腫瘤を呈する患者
-- 不確実性：出典はStatPearlsの章で、DOIは付与されていない（PubMedレコードにDOIの記載がないことを確認）。PubMedに抄録が掲載されていないため、数値は書かず、病態の定性的な記載に留めた。癌化や異型合併の頻度などの数値は確認していない。出典のライセンス表示は確認できなかった。
-- 出典：Li A, Kirk L. Intraductal Papilloma. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing.　[PMID 30137824](https://pubmed.ncbi.nlm.nih.gov/30137824/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅹ-11-B-②（乳管内乳頭腫、c）　コアカリ：PS-02-13-05 (id: JkxnuSs)；TBL-01-00-454 (id: JlvnmJ8)；TBL-02-12-004 (id: JlAKprY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BR-011&card_id=BR-011&version=365d9debce)　（版 `365d9debce`）
-
-**[ここまでの 1 件（BR-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BR-011&cards=BR-011%20365d9debce)**
-
----
-
-## 乳腺線維腺腫
-
-### BR-012　下書き（出典の照合前）
-
-> 乳腺線維腺腫は、若い女性に多い良性の腫瘍で、境界が明瞭でよく動く無痛性の腫瘤として触れることが多い。超音波などの画像検査と必要に応じた針生検で、葉状腫瘍や乳癌との鑑別を行う。典型的な線維腺腫と診断されれば経過観察が可能であり、腫瘤が大きくなる場合や診断が確定しない場合に切除を検討する。
-
-- 条件：region: 国際／population: 乳房腫瘤を呈する若年〜中年の女性
-- 不確実性：出典はStatPearlsの章で、DOIは付与されていない（PubMedレコードにDOIの記載がないことを確認）。PubMedに抄録が掲載されていないため、年齢分布や頻度などの数値は書かず、定性的な記載に留めた。出典のライセンス表示は確認できなかった。
-- 出典：Ajmal M, Khan M, Van Fossen K. Breast Fibroadenoma. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing.　[PMID 30570966](https://pubmed.ncbi.nlm.nih.gov/30570966/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅹ-11-B-③（乳腺線維腺腫、c）　コアカリ：PS-02-13-05 (id: JkxnuSs)；TBL-01-00-666 (id: JlvnmeY)；TBL-02-12-004 (id: JlAKprY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BR-012&card_id=BR-012&version=bf236d4cfe)　（版 `bf236d4cfe`）
-
-**[ここまでの 1 件（BR-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BR-012&cards=BR-012%20bf236d4cfe)**
-
----
-
-## 乳腺症
-
-### BR-013　下書き（出典の照合前）
-
-> 乳腺症（線維嚢胞性変化）は、乳房の痛みやしこり感、嚢胞の形成などを呈する良性の変化の総称で、性ホルモンの変動と関連して生じる。臨床で重要なのは、症状や画像所見が乳癌と紛らわしいことがあるため、画像検査によって悪性でないことを確認することであり、典型的な良性所見では過剰な介入は不要とされる。
-
-- 条件：region: 国際／population: 乳房痛や腫瘤感を訴える女性
-- 不確実性：出典はStatPearlsの章で、DOIは付与されていない（PubMedレコードにDOIの記載がないことを確認）。PubMedに抄録が掲載されていないため、頻度などの数値は書かず、定性的な記載に留めた。乳腺症という日本の慣用名と英語の fibrocystic breast disease の範囲は完全には一致しない可能性がある。出典のライセンス表示は確認できなかった。
-- 出典：Malherbe K, Szymanski KD. Fibrocystic Breast Disease. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing.　[PMID 31869073](https://pubmed.ncbi.nlm.nih.gov/31869073/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅹ-11-C-①（乳腺症、b）　コアカリ：PS-02-13-05 (id: JkxnuSs)；TBL-01-00-454 (id: JlvnmJ8)；TBL-01-00-667 (id: Jlvnmec)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BR-013&card_id=BR-013&version=ce9bb301c3)　（版 `ce9bb301c3`）
-
-**[ここまでの 1 件（BR-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BR-013&cards=BR-013%20ce9bb301c3)**
-
----
-
 ## 男性乳癌と女性化乳房
 
 ### BR-014　下書き（出典の照合前）
@@ -257,6 +209,54 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BR-016&card_id=BR-016&version=c67e2d01cc)　（版 `c67e2d01cc`）
 
 **[ここまでの 1 件（BR-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BR-016&cards=BR-016%20c67e2d01cc)**
+
+---
+
+## 乳管内乳頭腫
+
+### BR-017　下書き（出典の照合前）
+
+> 乳管内乳頭腫は乳管内に生じる腫瘍で、多くは良性である。針生検で良性と診断されても、外科的切除後の病理検査で癌が見つかる（アップグレード）割合は、メタ解析で約5.0%（95%信頼区間4.4〜5.5%）、異型を伴う乳頭腫では約36.0%（同32.7〜39.2%）であった。血性乳頭分泌、末梢型の乳頭腫、触知可能な腫瘤、1cm以上の病変などはアップグレードの予測因子であり、これらがある場合は切除が勧められ、予測因子のない無症状の良性乳頭腫では画像による経過観察も選択肢となる。
+
+- 条件：region: 海外（国際的なメタ解析）／study: メタ解析（2009〜2020年に発表された44研究、生検で診断された乳管内乳頭腫7,016例の統合）
+- 不確実性：数値は抄録で確認した統合値であり、日本の患者集団でのアップグレード率は本出典では確認していない。中枢型と末梢型の定義の詳細は抄録の範囲では確認できなかった（末梢型が予測因子であることは確認した）。薬剤名は含まない。
+- 出典：Zhang X, Liu W, Hai T, Li F. Upgrade Rate and Predictive Factors for Breast Benign Intraductal Papilloma Diagnosed at Biopsy: A Meta-Analysis. Ann Surg Oncol. 2021;28(13):8643-8650.　[DOI 10.1245/s10434-021-10188-7](https://doi.org/10.1245/s10434-021-10188-7)　[PMID 34331160](https://pubmed.ncbi.nlm.nih.gov/34331160/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅹ-11-B-②（乳管内乳頭腫、c）　コアカリ：PS-02-13-05 (id: JkxnuSs)；TBL-01-00-454 (id: JlvnmJ8)；TBL-02-12-004 (id: JlAKprY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BR-017&card_id=BR-017&version=3bb2f3f446)　（版 `3bb2f3f446`）
+
+**[ここまでの 1 件（BR-017）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BR-017&cards=BR-017%203bb2f3f446)**
+
+---
+
+## 乳腺線維腺腫
+
+### BR-018　下書き（出典の照合前）
+
+> 乳腺線維腺腫は、思春期から20代半ばを中心とする若い女性に多い良性腫瘍で、通常は単発の腫瘤として現れる。触診では平滑で境界明瞭、可動性があり、一般に痛みを伴わない。画像検査と針生検などの病理評価によって葉状腫瘍や乳癌と鑑別し、小さく無症状で病理所見に懸念のないものは経過観察とし、大きいものや症状のあるものでは切除を検討する。
+
+- 条件：region: 海外（総説）／study: 臨床像と病理所見を対応づけた総説（全文で確認）
+- 不確実性：若年女性での頻度（専門外来を受診した思春期から20代半ばの女性の7〜13%）は出典の本文から読み取りであり、受診者という選択された集団での値である。日本の患者を対象とした数値は本出典では確認していない。薬剤名は含まない。
+- 出典：Ramala SR Jr, Chandak S, Chandak MS, Annareddy S. A Comprehensive Review of Breast Fibroadenoma: Correlating Clinical and Pathological Findings. Cureus. 2023;15(12):e49948.　[DOI 10.7759/cureus.49948](https://doi.org/10.7759/cureus.49948)　[PMID 38179396](https://pubmed.ncbi.nlm.nih.gov/38179396/)（区分 OPEN）
+- 出題基準：医学各論 Ⅹ-11-B-③（乳腺線維腺腫、c）　コアカリ：PS-02-13-05 (id: JkxnuSs)；TBL-01-00-666 (id: JlvnmeY)；TBL-02-12-004 (id: JlAKprY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BR-018&card_id=BR-018&version=b96c73646b)　（版 `b96c73646b`）
+
+**[ここまでの 1 件（BR-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BR-018&cards=BR-018%20b96c73646b)**
+
+---
+
+## 乳腺症
+
+### BR-019　下書き（出典の照合前）
+
+> 乳腺症（線維嚢胞性変化）は、嚢胞形成などを含む良性の病理変化の総称で、症状のある患者の受診や検診で見つかった所見の画像評価でしばしばみられる。嚢胞や層状の石灰化など典型的な良性所見であれば、不要な経過観察や生検を避けることができる。一方、腫瘤や層状でない石灰化、構築の乱れがあれば、針生検による診断が必要になる。対応は通常、保存的である。
+
+- 条件：region: 米国（画像診断の総説）／study: 画像所見と病理の対応に関する総説
+- 不確実性：元のカードにあった性ホルモン変動との関連や乳房痛の頻度は、本出典の抄録の範囲では確認できなかったため含めていない。薬剤名は含まない。
+- 出典：Bennett DL, Buckley A, Lee MV. Fibrocystic Change. Radiol Clin North Am. 2024;62(4):581-592.　[DOI 10.1016/j.rcl.2023.12.008](https://doi.org/10.1016/j.rcl.2023.12.008)　[PMID 38777535](https://pubmed.ncbi.nlm.nih.gov/38777535/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅹ-11-C-①（乳腺症、b）　コアカリ：PS-02-13-05 (id: JkxnuSs)；TBL-01-00-454 (id: JlvnmJ8)；TBL-01-00-667 (id: Jlvnmec)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BR-019&card_id=BR-019&version=2de017045a)　（版 `2de017045a`）
+
+**[ここまでの 1 件（BR-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BR-019&cards=BR-019%202de017045a)**
 
 ---
 

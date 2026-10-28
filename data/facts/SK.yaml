@@ -272,12 +272,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: SK-031
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した SK-031 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: SK-009
   domain: SK
   subdomain: 貨幣状湿疹
@@ -307,12 +310,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: SK-032
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した SK-032 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: SK-010
   domain: SK
   subdomain: 自家感作性皮膚炎
@@ -1048,3 +1054,73 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: SK-031
+  domain: SK
+  subdomain: 皮脂欠乏性湿疹
+  assertion:
+    plain_statement_ja: 皮脂欠乏性湿疹は、角層バリア機能の変化に伴う乾皮症（乾燥した皮膚）を背景とする湿疹であり、老人性乾皮症とも呼ばれる。皮膚は乾燥して粗く、軽度の鱗屑を伴い、瘙痒や、つっぱるような感覚を伴う。本症の患者30例（男性11例、女性19例）を対象とした臨床研究では、保湿作用をもつ外用軟膏の塗布により、乾燥、粗糙（粗さ）、落屑の所見と瘙痒が、治療7日目と21日目の時点で有意に軽減し、軽減の程度は治療期間が長いほど大きかった。
+    condition:
+      region: イタリア
+      study: 原著論文（患者30例を対象とした臨床研究）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1547
+    source: Caproni M, Torchia D, Pestelli E, Volpi W, Fabbri P, Schincaglia E. Clinical and immunohistochemical study of the effect of a cosmetic product in patients with asteatotic eczema. Int J Tissue React. 2005;27(1):23-29.
+    doi: null
+    pmid: '15847102'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/15847102/
+    source_license: ライセンス表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 元のカードの「下腿に最も多い」「冬季に悪化しやすい」「ひび割れた舗装様の外観」という記述は、本出典の抄録では確認できなかったため含めていない。本研究で用いられた外用剤は化粧品に分類される軟膏であり、日本で承認された治療薬ではないため、国内の承認・保険適用の対象となる薬剤ではない。掲載誌（Int J Tissue React）はDOIを付与していないためDOIはnullとした。
+  curriculum:
+    core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-069 (id: Jlvnlgk)'
+    kokushi: 医学各論 Ⅲ-1-A-④（皮脂欠乏性湿疹、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: SK-032
+  domain: SK
+  subdomain: 貨幣状湿疹
+  assertion:
+    plain_statement_ja: 貨幣状湿疹は、瘙痒を伴う硬貨状の湿疹性局面を特徴とする、慢性の炎症性皮膚症である。病因には接触アレルゲンへの感作が関与する可能性があり、観察研究10件を統合した系統的レビューでは、貨幣状湿疹患者のパッチテスト陽性率の中央値は47.8%（範囲26.7〜56.0%）で、ニッケル（硫酸ニッケルを含む）、重クロム酸カリウム、塩化コバルト、香料ミックス、ネオマイシンなどが多く報告された。アレルギー性接触皮膚炎の併存または既往は、中央値33.5%にみられた。重症例や治療に抵抗する例では、関連するアレルゲンの同定と回避の指導のために、パッチテストの実施が検討される。
+    condition:
+      region: 海外（系統的レビューに含まれた観察研究10件の集団）
+      study: 系統的レビュー（観察研究10件、PRISMA 準拠）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1548
+    source: 'Joerg L, Stolyar J, Jagdeo J. Contact Allergens Associated With Nummular Eczema: A Systematic Review. J Drugs Dermatol. 2026;25(10):914-918.'
+    doi: 10.36849/JDD.10209
+    pmid: '42826143'
+    pmcid: null
+    url: https://doi.org/10.36849/JDD.10209
+    source_license: ライセンス表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 元のカードの「四肢に多い」「外用コルチコステロイドで治療でき、予後は良好」という記述は、本出典では確認できなかったため含めていない。パッチテスト陽性率などの数値は海外の観察研究を統合したものであり、日本の患者集団での値ではない。ネオマイシンは治療薬としてではなく、パッチテストで報告されたアレルゲンとしての記載である。
+  curriculum:
+    core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-068 (id: Jlvnlgg)'
+    kokushi: 医学各論 Ⅲ-1-A-⑤（貨幣状湿疹、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）

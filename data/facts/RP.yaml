@@ -132,12 +132,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: RP-063
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した RP-063 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: RP-005
   domain: RP
   subdomain: 思春期と初経
@@ -167,12 +170,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: RP-064
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した RP-064 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: RP-006
   domain: RP
   subdomain: 原発性無月経
@@ -202,12 +208,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: RP-065
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した RP-065 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: RP-007
   domain: RP
   subdomain: 続発性無月経
@@ -237,12 +246,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: RP-066
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した RP-066 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: RP-008
   domain: RP
   subdomain: 月経周期異常（頻発・希発月経）
@@ -552,12 +564,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: RP-067
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した RP-067 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
 - id: RP-017
   domain: RP
   subdomain: 漏出性出血・機能性子宮出血
@@ -2098,3 +2113,178 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: RP-063
+  domain: RP
+  subdomain: 排卵の機序
+  assertion:
+    plain_statement_ja: 排卵は、LHサージを契機として卵巣内で進む一連の過程である。LHサージにより、EGF様因子、ステロイド、転写因子、プロスタグランジン、タンパク分解系などの排卵メディエーターの発現が高まり、卵胞の破裂と卵子の放出に至る。これらの機構には動物モデルと共通する部分が多い一方で、誘導される因子の種類や発現パターン、調節機構には種差があり、ヒトの排卵の理解にはヒト検体を用いた研究が必要である。排卵過程の障害は不妊や低妊孕性と関連する。
+    condition:
+      region: 国際（ヒト卵巣を対象とした研究の総説）
+      study: 総説（ヒトおよび動物モデルの排卵研究のレビュー）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1543
+    source: Jo M, Brännström M, Akins JW, Curry TE Jr. New insights into the ovulatory process in the human ovary. Hum Reprod Update. 2025;31(1):21-47.
+    doi: 10.1093/humupd/dmae027
+    pmid: '39331957'
+    pmcid: PMC11696709
+    url: https://doi.org/10.1093/humupd/dmae027
+    source_license: CC BY-NC 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 元のカードにあった「排卵は次回月経の約14日前に起こる」「排卵後の卵胞は黄体となりプロゲステロンを分泌する」という記述は、本出典の抄録で確認できなかったため含めていない。主張は抄録で確認した範囲に限る。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-021 (id: JlAKppQ)'
+    kokushi: 医学各論 Ⅷ-8-D-③（無排卵、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: RP-064
+  domain: RP
+  subdomain: 思春期と初経
+  assertion:
+    plain_statement_ja: 初経年齢の中央値は、先進国の十分に栄養のある集団では12〜13歳で、比較的安定している。初経の時期や思春期の進行は、社会経済的状況、栄養、予防医療へのアクセスといった環境要因の影響を受ける。臨床では、初経で起こることや初経後の月経周期の長さの正常範囲を本人と養育者に説明し、月経周期をバイタルサインの一つとして評価することで、異常な月経パターンを早期に発見できる。
+    condition:
+      region: 米国を含む先進国（十分に栄養のある集団）
+      study: 学会ガイドライン（ACOG 委員会意見）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1544
+    source: 'American College of Obstetricians and Gynecologists. Committee Opinion No. 651: Menstruation in Girls and Adolescents: Using the Menstrual Cycle as a Vital Sign. Obstet Gynecol. 2015;126(6):e143-e146.'
+    doi: 10.1097/AOG.0000000000001215
+    pmid: '26595586'
+    pmcid: null
+    url: https://doi.org/10.1097/AOG.0000000000001215
+    source_license: ライセンス表示なし（学会ガイドライン）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 元のカードの「平均12.4歳」「通常10〜16歳」という数値は本出典では確認できず、中央値12〜13歳に置き換えた。初経直後は無排卵周期が多いことは、本出典の抄録では確認できなかったため含めていない。日本の集団を対象とした数値ではない。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: RP-065
+  domain: RP
+  subdomain: 原発性無月経
+  assertion:
+    plain_statement_ja: 原発性無月経は、初経が発来しない状態をいう。二次性徴の発育が13歳までにみられない場合、乳房発育の開始から5年を経ても初経がない場合、または15歳以上で初経がない場合に、評価を行う。原因としては、ターナー症候群などの染色体異常に伴う原発性卵巣機能不全と、ミュラー管形成不全などの解剖学的異常が多い。初期評価には、妊娠反応と血清LH、FSH、プロラクチン、TSHの測定が含まれる。
+    condition:
+      region: 米国
+      study: 総説（無月経の診断・管理アプローチ。本文で定義を確認）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1545
+    source: 'Klein DA, Poth MA. Amenorrhea: An Approach to Diagnosis and Management. Am Fam Physician. 2013;87(11):781-788.'
+    doi: null
+    pmid: '23939500'
+    pmcid: null
+    url: https://www.aafp.org/pubs/afp/issues/2013/0601/p781.html
+    source_license: ライセンス表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 評価開始の目安のうち「乳房発育の開始から5年」は、本出典（2013年）の本文の記載による。元のカードの「3年」は本出典では確認できなかったため、出典の記載どおり5年とした。評価時期の基準は、資料の発行年や発行団体により異なる可能性がある。Am Fam Physician はDOIを付与していないためDOIはnullとした。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-021 (id: JlAKppQ)；TBL-02-09-022 (id: JlAKppU)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: RP-066
+  domain: RP
+  subdomain: 続発性無月経
+  assertion:
+    plain_statement_ja: 続発性無月経は、それまで規則的だった月経が3か月間停止した場合、または不規則だった月経が6か月間停止した場合をいう。原因の多くは、多嚢胞性卵巣症候群、視床下部性無月経、高プロラクチン血症、原発性卵巣機能不全で説明できる。評価ではすべての症例で妊娠を除外し、初期検査として妊娠反応と血清LH、FSH、プロラクチン、TSHを測定する。視床下部性無月経の患者では摂食障害の有無を評価し、骨密度低下のリスクに注意する。
+    condition:
+      region: 米国
+      study: 総説（無月経の診断・管理アプローチ）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1545
+    source: 'Klein DA, Poth MA. Amenorrhea: An Approach to Diagnosis and Management. Am Fam Physician. 2013;87(11):781-788.'
+    doi: null
+    pmid: '23939500'
+    pmcid: null
+    url: https://www.aafp.org/pubs/afp/issues/2013/0601/p781.html
+    source_license: ライセンス表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 定義と初期検査の内容は本出典（米国の総説）によるものであり、日本の診療での実施状況との細部の一致は未確認である。Am Fam Physician はDOIを付与していないためDOIはnullとした。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)'
+    kokushi: 医学各論 Ⅷ-8-A-①（視床下部性無月経、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: RP-067
+  domain: RP
+  subdomain: 排卵痛・排卵期出血
+  assertion:
+    plain_statement_ja: 排卵痛（ミッテルシュメルツ）は、排卵期に生じる下腹部痛である。正常女性で月経周期の中間期に骨盤超音波検査を行った研究では、少量の腹水が周期の40%に認められ、痛みを伴った周期では、その約2/3で排卵の時期に腹水が超音波で確認された。この所見は、排卵に伴って卵胞液などが腹腔内に漏れることが、痛みの一因であることを支持する。
+    condition:
+      region: 米国
+      study: 原著論文（正常女性を対象とした超音波検査による観察研究、1979年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1546
+    source: 'Hann LE, Hall DA, Black EB, Ferrucci JT Jr. Mittelschmerz: Sonographic Demonstration. JAMA. 1979;241(25):2731-2732.'
+    doi: 10.1001/jama.241.25.2731
+    pmid: '448821'
+    pmcid: null
+    url: https://doi.org/10.1001/jama.241.25.2731
+    source_license: ライセンス表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 元のカードの「生殖年齢女性の40%以上にみられる」という有病率は、一次資料で確認できなかったため含めていない。本出典の40%は女性の割合ではなく、腹水が認められた周期の割合である。虫垂炎や卵巣嚢胞の破裂・茎捻転、異所性妊娠との鑑別の記述も、本出典の抄録では確認できなかったため含めていない。1979年の研究であり、超音波機器の性能は現在と異なる。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-010 (id: JlAKpoU)'
+    kokushi: 医学各論 Ⅷ-8-D-②（機能性子宮出血、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）

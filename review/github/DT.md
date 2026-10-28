@@ -4,38 +4,6 @@
 
 全 36 件のうち、監修済み 0 件。
 
-## 母斑の総論
-
-### DT-001　下書き（出典の照合前）
-
-> 表皮母斑は皮膚の過誤腫であり、角化細胞由来の角化細胞性（keratinocytic）母斑と、付属器などの要素を含む器官様（organoid）母斑に大別される。代表的な表皮母斑には、非表皮溶解性の角化細胞性母斑、脂腺母斑、面皰母斑（nevus comedonicus）、Becker母斑、CHILD母斑などがある。脂腺母斑は器官様母斑に含まれ、表皮母斑の一部は症候群に伴ってみられることがある。
-
-- 条件：region: 国際／study: 総説（StatPearls の章）
-- 不確実性：出典は表皮母斑症候群を主題とする章で、分類と種類はその抄録で確認した範囲である。色素性母斑（メラノサイト性母斑）の詳細は本出典の範囲外であり、本カードでは母斑のうち表皮・付属器系のものを中心に記載した。出典のライセンス表示は確認できなかった。
-- 出典：Nicholson CL, Daveluy S. Epidermal Nevus Syndromes. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023.　[PMID 32644429](https://pubmed.ncbi.nlm.nih.gov/32644429/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅲ-2-A-①（脂腺母斑、表皮母斑、色素性母斑、太田母斑、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-105 (id: JlvnllE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-001&card_id=DT-001&version=14de5b9e54)　（版 `14de5b9e54`）
-
-**[ここまでの 1 件（DT-001）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-001&cards=DT-001%2014de5b9e54)**
-
----
-
-## 色素性母斑と太田母斑
-
-### DT-002　下書き（出典の照合前）
-
-> 太田母斑は、三叉神経の第1枝・第2枝の支配領域に生じる良性のメラノーシス（ocular dermal melanosis）で、真皮にメラノサイトが留まることにより灰青色の色素沈着を呈する。同側の結膜・強膜にも色素沈着を伴い、片側性が多い。ぶどう膜悪性黒色腫と緑内障のリスクが高まることが知られ、口蓋に病変が及ぶこともある。分布が肩・上腕の領域であるものは伊東母斑と呼ばれる。
-
-- 条件：region: 国際／study: 総説（StatPearls の章）
-- 不確実性：出典は太田母斑・伊東母斑を主題とする章で、記載は太田母斑を中心とした。色素性母斑そのもの（後天性・先天性のメラノサイト母斑）の分類や悪性化の数値は本出典の範囲外であり、本カードには含めていない。ダーモスコピーの所見は本出典で確認できなかったため記載していない。出典のライセンス表示は確認できなかった。
-- 出典：Agarwal P, Patel BC. Nevus of Ota and Ito. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023.　[PMID 32809409](https://pubmed.ncbi.nlm.nih.gov/32809409/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅲ-2-A-①（脂腺母斑、表皮母斑、色素性母斑、太田母斑、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-105 (id: JlvnllE)；TBL-02-03-011 (id: JlAKpa0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-002&card_id=DT-002&version=f1386510bb)　（版 `f1386510bb`）
-
-**[ここまでの 1 件（DT-002）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-002&cards=DT-002%20f1386510bb)**
-
----
-
 ## 神経線維腫症1型
 
 ### DT-003　下書き（出典の照合前）
@@ -65,22 +33,6 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-004&card_id=DT-004&version=cc06c3066f)　（版 `cc06c3066f`）
 
 **[ここまでの 1 件（DT-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-004&cards=DT-004%20cc06c3066f)**
-
----
-
-## Kasabach-Merritt症候群
-
-### DT-005　下書き（出典の照合前）
-
-> Kasabach-Merritt現象は、急速に増大する血管性腫瘍に伴い、血小板減少、微小血管症性溶血性貧血、消費性凝固障害を来す、乳児のまれだが生命を脅かす凝固障害である。関連する血管性腫瘍はカポジ型血管内皮腫（KHE）と房状血管腫（tufted angioma）に限られ、両者は同一の腫瘍スペクトラム上にある。乳児血管腫に伴う現象ではない。治療は支持療法と原因となる腫瘍への対応が中心となる。
-
-- 条件：region: 国際／study: 総説（StatPearls の章）
-- 不確実性：記載は抄録で確認した範囲である。個別の治療薬（シロリムス等）の適応や用量、凝固検査値の具体的な基準は抄録の範囲外であり、本カードには薬剤名を含めていない。出典のライセンス表示は確認できなかった。
-- 出典：Lewis D, Vaidya R. Kasabach-Merritt Syndrome. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023.　[PMID 30085595](https://pubmed.ncbi.nlm.nih.gov/30085595/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅲ-2-C-①（Kasabach-Merritt症候群、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-005&card_id=DT-005&version=9f1d76e7f1)　（版 `9f1d76e7f1`）
-
-**[ここまでの 1 件（DT-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-005&cards=DT-005%209f1d76e7f1)**
 
 ---
 
@@ -145,64 +97,6 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-009&card_id=DT-009&version=5c4f8ffc51)　（版 `5c4f8ffc51`）
 
 **[ここまでの 1 件（DT-009）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-009&cards=DT-009%205c4f8ffc51)**
-
----
-
-## リンパ管腫
-
-### DT-010　下書き（出典の照合前）
-
-> リンパ管腫（リンパ管奇形）はリンパ管系の良性奇形で、皮膚や粘膜のどこにでも生じうる。異常なリンパ管の深さと大きさにより深部型と表在型に、また先天性と後天性に分類される。深部型には海綿状リンパ管腫と嚢胞性リンパ管腫（cystic hygroma）という2つの先天性病変があり、表在型には限局性リンパ管腫（lymphangioma circumscriptum）と後天性リンパ管腫（リンパ管拡張症）がある。嚢胞性リンパ管腫は13・18・21トリソミー、Noonan症候群、Turner症候群などの遺伝性疾患と関連する。頻度は低く、全血管性腫瘍の4%、小児の良性血管性腫瘍の約25%を占めるとされる。
-
-- 条件：region: 国際／study: 総説（StatPearls の章）
-- 不確実性：分類と頻度は出典の抄録と章の本文で確認した。治療（硬化療法・外科切除）の適応の詳細は本カードでは確認した範囲を超えるため含めていない。日本で用いられる硬化剤の国内事情も本出典の範囲外である。出典のライセンス表示は確認できなかった。
-- 出典：Miceli A, Stewart KM. Lymphatic Malformations. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023.　[PMID 29261940](https://pubmed.ncbi.nlm.nih.gov/29261940/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅲ-2-D（リンパ管腫、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-010&card_id=DT-010&version=110d42f04c)　（版 `110d42f04c`）
-
-**[ここまでの 1 件（DT-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-010&cards=DT-010%20110d42f04c)**
-
----
-
-## 粉瘤
-
-### DT-011　下書き（出典の照合前）
-
-> 粉瘤（表皮嚢腫、epidermoid cyst）は、ケラチンで満たされた被膜のある皮下結節で、顔面・頸部・体幹に好発するが、全身のどこにでも生じうる。毛包漏斗部から発生し、表皮封入嚢腫（epidermal inclusion cyst）、漏斗部嚢腫とも呼ばれる。通称の「脂腺嚢腫（sebaceous cyst）」は、脂腺由来ではないため誤称である。増大は緩徐で、年単位で存在し続けることがある。まれに嚢腫から悪性腫瘍が生じることがある。
-
-- 条件：region: 国際／study: 総説（StatPearls の章）
-- 不確実性：記載は章の要旨で確認した範囲である。感染時の対応や摘出術式の詳細は本カードに含めていない。出典のライセンス表示は確認できなかった。
-- 出典：Zito PM, Scharf R. Epidermoid Cyst. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023.　[PMID 29763149](https://pubmed.ncbi.nlm.nih.gov/29763149/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅲ-2-E-①（粉瘤、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-114 (id: JlvnlmU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-011&card_id=DT-011&version=f1d46d1d08)　（版 `f1d46d1d08`）
-
-### DT-033　下書き（出典の照合前）
-
-> 粉瘤（表皮嚢腫）はケラチンを満たした真皮・皮下の嚢腫であり、含有物は皮脂ではなくケラチンであるため「sebaceous cyst（皮脂嚢腫）」は誤った呼び方である。切除の際は嚢胞壁が残ると再発するため、嚢胞壁を含めて摘出することが重要である。
-
-- 条件：region: 米国／study: 総説（StatPearls）
-- 不確実性：StatPearls の章には DOI が付与されていない（PubMed レコードで確認）。再発が残存した嚢胞壁によるとの記載は同章の自然経過の項に基づく。切除手技の詳細は確認していない。
-- 出典：Weir CB, Sathe NC, St.Hilaire NJ. Epidermal Inclusion Cyst. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026.　[PMID 30335343](https://pubmed.ncbi.nlm.nih.gov/30335343/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅲ-2-E-①（粉瘤、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-033&card_id=DT-033&version=b93f37a17f)　（版 `b93f37a17f`）
-
-**[ここまでの 2 件（DT-011〜DT-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-011%E3%80%9CDT-033&cards=DT-011%20f1d46d1d08%0ADT-033%20b93f37a17f)**
-
----
-
-## 脂漏性角化症
-
-### DT-012　下書き（出典の照合前）
-
-> 脂漏性角化症は中高年に多い表皮腫瘍で、未熟な角化細胞の良性増殖によるものである。境界明瞭な円形〜楕円形の扁平な斑・局面として現れ、ゆっくり増大して厚みを増すことがあるが、自然に消退することはまれである。良性であるため治療を要しないことが多いが、希望により治療されることも多い。悪性皮膚腫瘍と形態が紛らわしい場合があるため、鑑別できることが重要とされる。
-
-- 条件：region: 国際／study: 総説（StatPearls の章）
-- 不確実性：記載は章の導入部で確認した範囲である。ダーモスコピーの具体的所見や除去手技（凍結療法・掻爬など）の適応の詳細は本カードに含めていない。出典のライセンス表示は確認できなかった。
-- 出典：Greco MJ, Bhutta BS. Seborrheic Keratosis. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024.　[PMID 31424869](https://pubmed.ncbi.nlm.nih.gov/31424869/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅲ-2-E-②（脂漏性角化症、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-02-03-011 (id: JlAKpa0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-012&card_id=DT-012&version=efc08ac667)　（版 `efc08ac667`）
-
-**[ここまでの 1 件（DT-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-012&cards=DT-012%20efc08ac667)**
 
 ---
 
@@ -541,6 +435,112 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-036&card_id=DT-036&version=010c4fadd1)　（版 `010c4fadd1`）
 
 **[ここまでの 1 件（DT-036）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-036&cards=DT-036%20010c4fadd1)**
+
+---
+
+## 母斑の総論
+
+### DT-037　下書き（出典の照合前）
+
+> 表皮母斑は、表皮および皮膚付属器に由来する過誤腫性の病変で、伝統的にその形態によって分類されてきた。由来する組織によって、表皮そのものに由来する角化細胞性母斑と、付属器に由来する母斑とに分けられ、一部の病型は皮膚以外の症状を伴う症候群と関連する。
+
+- 条件：region: 海外（総説）／study: 表皮母斑と関連症候群の総説（第1部：角化細胞性母斑）
+- 不確実性：元のカードにあった「脂腺母斑は器官様母斑に含まれる」という位置づけは、同総説の第2部（付属器由来の母斑）の範囲であり、本カードの出典（第1部）の抄録では確認できなかったため含めていない。薬剤名は含まない。
+- 出典：Garcias-Ladaria J, Cuadrado Rosón M, Pascual-López M. Epidermal Nevi and Related Syndromes - Part 1: Keratinocytic Nevi. Actas Dermosifiliogr. 2018;109(8):677-686.　[DOI 10.1016/j.ad.2018.05.005](https://doi.org/10.1016/j.ad.2018.05.005)　[PMID 29983155](https://pubmed.ncbi.nlm.nih.gov/29983155/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-2-A-①（脂腺母斑、表皮母斑、色素性母斑、太田母斑、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-105 (id: JlvnllE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-037&card_id=DT-037&version=9ba87b4800)　（版 `9ba87b4800`）
+
+**[ここまでの 1 件（DT-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-037&cards=DT-037%209ba87b4800)**
+
+---
+
+## 色素性母斑と太田母斑
+
+### DT-038　下書き（出典の照合前）
+
+> 太田母斑（眼皮膚メラノーシス）は、三叉神経の分布領域の皮膚・粘膜と、同側の上強膜・強膜やぶどう膜に、青灰色ないし褐色の扁平な色素沈着を呈する先天性の病変で、片側性が多い。色素細胞は口蓋などにも及ぶことがある。主な眼合併症は緑内障と、ぶどう膜悪性黒色腫への罹患しやすさであり、眼科的な検査と経過観察が重要である。
+
+- 条件：region: 海外（総説）／study: 眼科的側面に関する総説（2021年8月までの英語論文の検索、全文で確認）
+- 不確実性：三叉神経の枝について、出典は ophthalmic and mandibular branches（眼枝と下顎枝）と記載しており、一般に言われる第1枝・第2枝（眼枝・上顎枝）とは表記が異なるため、本カードでは枝番号を特定しなかった。薬剤名は含まない。
+- 出典：Abdolrahimzadeh S, Pugi DM, Manni P, Iodice CM, Di Tizio F, Persechino F, Scuderi G. An update on ophthalmological perspectives in oculodermal melanocytosis (Nevus of Ota). Graefes Arch Clin Exp Ophthalmol. 2023;261(2):291-301.　[DOI 10.1007/s00417-022-05743-1](https://doi.org/10.1007/s00417-022-05743-1)　[PMID 35851619](https://pubmed.ncbi.nlm.nih.gov/35851619/)（区分 OPEN）
+- 出題基準：医学各論 Ⅲ-2-A-①（脂腺母斑、表皮母斑、色素性母斑、太田母斑、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-105 (id: JlvnllE)；TBL-02-03-011 (id: JlAKpa0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-038&card_id=DT-038&version=c3e34acb85)　（版 `c3e34acb85`）
+
+**[ここまでの 1 件（DT-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-038&cards=DT-038%20c3e34acb85)**
+
+---
+
+## Kasabach-Merritt症候群
+
+### DT-039　下書き（出典の照合前）
+
+> Kasabach-Merritt現象は、乳児にみられる重度の血小板減少とフィブリノゲンの消費（消費性凝固障害）を伴う現象で、その背景にある血管病変は通常の乳児血管腫ではない。22例の検討では、病変の組織型は房状血管腫（tufted angioma）またはカポジ型血管内皮腫（kaposiform hemangioendothelioma）のいずれかであり、全例に重度の血小板減少がみられた。
+
+- 条件：region: 海外（症例集積研究）／study: Kasabach-Merritt症候群22例の臨床・止血データと生検組織（15例）の検討（原著論文）
+- 不確実性：血小板数の最低値が3,000/mm3であったことは抄録から読み取り。元のカードにあった微小血管症性溶血性貧血は、本出典の抄録で明示されなかったため含めていない。治療の各論（個別の治療法の選択）は本出典の範囲外のため含めておらず、薬剤名は記載していない。
+- 出典：Enjolras O, Wassef M, Mazoyer E, Frieden IJ, Rieu PN, Drouet L, Taïeb A, Stalder JF, Escande JP. Infants with Kasabach-Merritt syndrome do not have "true" hemangiomas. J Pediatr. 1997;130(4):631-640.　[DOI 10.1016/S0022-3476(97)70249-X](https://doi.org/10.1016/S0022-3476(97)70249-X)　[PMID 9108863](https://pubmed.ncbi.nlm.nih.gov/9108863/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-2-C-①（Kasabach-Merritt症候群、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-039&card_id=DT-039&version=2a4000f353)　（版 `2a4000f353`）
+
+**[ここまでの 1 件（DT-039）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-039&cards=DT-039%202a4000f353)**
+
+---
+
+## リンパ管腫
+
+### DT-040　下書き（出典の照合前）
+
+> リンパ管腫（リンパ管奇形）は、ISSVA（国際脈管異常研究学会）の分類では、脈管性腫瘍とは区別される脈管奇形のうち、単純型のリンパ管奇形に位置づけられる。嚢胞の大きさによって、大嚢胞型、小嚢胞型、混合型に分けられる。
+
+- 条件：region: 国際（ISSVA 分類勧告）／study: 脈管異常の分類に関する勧告論文
+- 不確実性：大嚢胞型・小嚢胞型・混合型の細分類は、ISSVA 公式分類の表（2025年版フロー図）から読み取り。元のカードにあった深部型・表在型という分け方と、嚢胞性リンパ管腫と染色体異常（トリソミーなど）との関連は、本出典の抄録の範囲では確認できなかったため含めていない。薬剤名は含まない。
+- 出典：Wassef M, Blei F, Adams D, Alomari A, Baselga E, Berenstein A, Burrows P, Frieden IJ, Garzon MC, et al. Vascular Anomalies Classification: Recommendations From the International Society for the Study of Vascular Anomalies. Pediatrics. 2015;136(1):e203-e214.　[DOI 10.1542/peds.2014-3673](https://doi.org/10.1542/peds.2014-3673)　[PMID 26055853](https://pubmed.ncbi.nlm.nih.gov/26055853/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-2-D（リンパ管腫、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-040&card_id=DT-040&version=f1a583ffa4)　（版 `f1a583ffa4`）
+
+**[ここまでの 1 件（DT-040）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-040&cards=DT-040%20f1a583ffa4)**
+
+---
+
+## 粉瘤
+
+### DT-041　下書き（出典の照合前）
+
+> 粉瘤（表皮嚢腫）は、重層上皮に裏打ちされケラチンで満たされた良性の嚢腫で、毛のある皮膚に生じ、表面の小孔（punctum）が臨床診断の目印となる。全身のどこにでも生じうるが、外科的に切除された症例の集計では頭頸部に最も多かった。悪性化の可能性もあるため病理組織学的な確認が必要とされ、治療の選択は外科切除である。
+
+- 条件：region: 海外（単一施設の後方視的解析と文献レビュー）／study: 外科切除された表皮嚢腫2,159例の10年間の後方視的解析と文献レビュー
+- 不確実性：好発部位の順序は著者らの症例集計（頭頸部73.4%、体幹15.1%、四肢9.8%）によるもので、本文から読み取り。元のカードにあった「『脂腺嚢腫』は誤称」という表現自体は本出典では確認できなかったため、内容物がケラチンであることのみを記載した。薬剤名は含まない。
+- 出典：Wollina U, Langner D, Tchernev G, França K, Lotti T. Epidermoid Cysts - A Wide Spectrum of Clinical Presentation and Successful Treatment by Surgery: A Retrospective 10-Year Analysis and Literature Review. Open Access Maced J Med Sci. 2018;6(1):28-30.　[DOI 10.3889/oamjms.2018.027](https://doi.org/10.3889/oamjms.2018.027)　[PMID 29483974](https://pubmed.ncbi.nlm.nih.gov/29483974/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-2-E-①（粉瘤、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-114 (id: JlvnlmU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-041&card_id=DT-041&version=091c3a412d)　（版 `091c3a412d`）
+
+### DT-043　下書き（出典の照合前）
+
+> 粉瘤（表皮嚢腫）の内容物は皮脂ではなくケラチンである。治療の選択は外科切除であり、再発を防ぐためには嚢胞壁を完全に取り除く必要がある。外科切除された2,159例の解析では、合併症率は2.2%と低かった。
+
+- 条件：region: 海外（単一施設の後方視的解析と文献レビュー）／study: 外科切除された表皮嚢腫2,159例の10年間の後方視的解析と文献レビュー
+- 不確実性：合併症率2.2%は著者らの施設の集計であり、抄録から読み取り。日本での再発率・合併症率は本出典では確認していない。薬剤名は含まない。
+- 出典：Wollina U, Langner D, Tchernev G, França K, Lotti T. Epidermoid Cysts - A Wide Spectrum of Clinical Presentation and Successful Treatment by Surgery: A Retrospective 10-Year Analysis and Literature Review. Open Access Maced J Med Sci. 2018;6(1):28-30.　[DOI 10.3889/oamjms.2018.027](https://doi.org/10.3889/oamjms.2018.027)　[PMID 29483974](https://pubmed.ncbi.nlm.nih.gov/29483974/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-2-E-①（粉瘤、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-043&card_id=DT-043&version=3ac7a39bac)　（版 `3ac7a39bac`）
+
+**[ここまでの 2 件（DT-041〜DT-043）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-041%E3%80%9CDT-043&cards=DT-041%20091c3a412d%0ADT-043%203ac7a39bac)**
+
+---
+
+## 脂漏性角化症
+
+### DT-042　下書き（出典の照合前）
+
+> 脂漏性角化症は成人に多い良性の表皮腫瘍で、悪性化することはない。色素性病変では、悪性黒色腫などの色素性腫瘍との鑑別にダーモスコピーが有用である。治療は主として凍結療法や切除などの小手術であり、薬物療法の効果は限られる。
+
+- 条件：region: 海外（総説）／study: 脂漏性角化症の管理と理解に関する総説
+- 不確実性：元のカードにあった「境界明瞭な扁平な斑・局面」という形態の詳細は、本出典の抄録の範囲では確認できなかったため含めていない。出典で臨床試験が報告されていた外用療法（高濃度過酸化水素製剤など）は、日本での承認・保険適用を確認していないため主張文には含めなかった。
+- 出典：Wollina U. Recent advances in managing and understanding seborrheic keratosis. F1000Research. 2019;8:1520.　[DOI 10.12688/f1000research.18983.1](https://doi.org/10.12688/f1000research.18983.1)　[PMID 31508199](https://pubmed.ncbi.nlm.nih.gov/31508199/)（区分 OPEN）
+- 出題基準：医学各論 Ⅲ-2-E-②（脂漏性角化症、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-02-03-011 (id: JlAKpa0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-042&card_id=DT-042&version=f695228b03)　（版 `f695228b03`）
+
+**[ここまでの 1 件（DT-042）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-042&cards=DT-042%20f695228b03)**
 
 ---
 

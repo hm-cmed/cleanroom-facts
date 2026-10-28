@@ -196,22 +196,6 @@
 
 ---
 
-## 低蛋白血症
-
-### MT-013　下書き（出典の照合前）
-
-> 低蛋白血症は、主に血清アルブミンの低下によって評価される。アルブミンは肝臓でのみ合成される血漿蛋白で、血漿蛋白の50〜60%を占め、基準濃度は35〜50 g/L、半減期は14〜21日であり、血漿の膠質浸透圧の約80%を担う。低アルブミン血症の成り立ちは、肝疾患や栄養不良、炎症（インターロイキン6、インターロイキン1、腫瘍壊死因子などの炎症性メディエーターが合成を抑制する）による合成の低下と、腎臓や消化管からの喪失の増加、体液分布の異常などに大別される。血清アルブミンは栄養状態や疾患の重症度の指標としても用いられる。
-
-- 条件：region: 米国／study: 教科書章（StatPearls、低アルブミン血症）
-- 不確実性：数値は出典の章の要約で確認した。DOIは、PubMedレコードにDOIの記載がないため null とした。低蛋白血症を総蛋白量で定義する場合の基準値と、原因疾患ごとの診断の進め方は未確認である。
-- 出典：Gounden V, Easton-Carr R, Jialal I. Hypoalbuminemia. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK526080.　[PMID 30252336](https://pubmed.ncbi.nlm.nih.gov/30252336/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅹ-8-A-①（低蛋白血症、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-013&card_id=MT-013&version=8c3b703c5d)　（版 `8c3b703c5d`）
-
-**[ここまでの 1 件（MT-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MT-013&cards=MT-013%208c3b703c5d)**
-
----
-
 ## 全身性アミロイドーシス
 
 ### MT-014　下書き（出典の照合前）
@@ -340,38 +324,6 @@
 
 ---
 
-## ビタミンC欠乏（壊血病）とペラグラ
-
-### MT-022　下書き（出典の照合前）
-
-> 壊血病は、ビタミンCの欠乏による臨床症候群である。ビタミンCは皮膚・軟骨・骨・歯の成長と修復に必須で、抗酸化作用も持つ。欠乏が進むと、歯肉出血、点状出血・斑状出血、毛孔性角化とらせん状の体毛、創傷治癒の遅延、関節痛などが現れる。ナイアシン（ビタミンB3）欠乏によるペラグラは、日光に当たる部位の皮膚炎、下痢、抑うつから精神病症状に至る認知・精神症状を特徴とし、壊血病と並ぶ代表的なビタミン欠乏症である。
-
-- 条件：region: 国際／study: 総説（2023年）
-- 不確実性：壊血病の個別症状は Kiani らの総説（SRC-986）の全文、ペラグラの症状は Kennedy らの総説（SRC-1000）の表で照合した内容であり、本カードの出典（ビタミンC欠乏の章）の抜粋にはペラグラの記載はない。章の本文はアクセス制限のため全文を確認できていない。
-- 出典：Maxfield L, Daley SF, Crane JS. Vitamin C Deficiency. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK493187.　[PMID 29630239](https://pubmed.ncbi.nlm.nih.gov/29630239/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅹ-9-A-①（ビタミン欠乏症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-022&card_id=MT-022&version=e841e64cab)　（版 `e841e64cab`）
-
-**[ここまでの 1 件（MT-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MT-022&cards=MT-022%20e841e64cab)**
-
----
-
-## ビタミン過剰症
-
-### MT-023　下書き（出典の照合前）
-
-> ビタミン過剰症は、体内に蓄積しやすい脂溶性ビタミン（A・D・E・K）で起こりやすく、サプリメントや薬剤としての過剰摂取が主な原因となる。ビタミンAの過剰では、妊娠中の過剰摂取による催奇形性、肝障害、頭蓋内圧亢進などが問題となり、慢性毒性は長期の大量摂取で生じる。ビタミンDの過剰では高カルシウム血症が中心となり、多尿・多飲、反復する嘔吐、腹痛、脱水などを来し、過剰摂取による中毒では血清25(OH)Dが150 ng/mLを超えることが指標とされる。水溶性ビタミンは過剰分が排泄されやすく毒性は低いが、ビタミンB6とナイアシンの大量摂取では障害が起こる（MT-036）。
-
-- 条件：region: 国際／study: 総説（2022年）
-- 不確実性：ビタミンA過剰とビタミンD過剰の具体的な内容は、出典表の確認経路に記した各ビタミンの総説（Carazo ら、Marcinowska-Suchowierska ら）で照合したものであり、本カードの出典の抜粋は脂溶性ビタミンの毒性を扱う旨にとどまる。章の本文はアクセス制限のため全文を確認できていない。
-- 出典：Reddy P, Jialal I. Biochemistry, Fat Soluble Vitamins. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK534869.　[PMID 30521290](https://pubmed.ncbi.nlm.nih.gov/30521290/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅹ-9-A-②（ビタミン過剰症、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-007 (id: JlAKpsU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-023&card_id=MT-023&version=ec6b069330)　（版 `ec6b069330`）
-
-**[ここまでの 1 件（MT-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MT-023&cards=MT-023%20ec6b069330)**
-
----
-
 ## 痛風の診断と急性発作の治療
 
 ### MT-024　下書き（出典の照合前）
@@ -452,38 +404,6 @@
 
 ---
 
-## 亜鉛欠乏症候群（腸性肢端皮膚炎）
-
-### MT-029　下書き（出典の照合前）
-
-> 腸性肢端皮膚炎は、亜鉛トランスポーター遺伝子SLC39A4の変異により、腸管での亜鉛吸収が障害されて生じる遺伝性の亜鉛欠乏症である。亜鉛は200を超える金属酵素の構成要素であり、多くの代謝・生化学経路に必須の微量元素である。亜鉛欠乏では皮膚病変、下痢、脱毛などが現れ、吸収不良症候群、肝・腎疾患、不適切な食事、医原性などによる後天性の亜鉛欠乏でも、腸性肢端皮膚炎と同様の臨床像を呈することがある。
-
-- 条件：region: 国際／study: 総説（2023年）
-- 不確実性：皮膚病変・下痢・脱毛という症状は Kiani らの総説（SRC-986）の全文に挙げられた亜鉛欠乏の症状で照合した。本カードの出典の抜粋は病因と後天性欠乏の位置づけが中心で、章の本文はアクセス制限のため全文を確認できていない。亜鉛製剤の国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
-- 出典：Jagadeesan S, Kaliyadan F. Acrodermatitis Enteropathica. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK441835.　[PMID 28722865](https://pubmed.ncbi.nlm.nih.gov/28722865/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅹ-9-E-③（亜鉛欠乏症候群<腸性肢端皮膚炎>、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-029&card_id=MT-029&version=25810f428c)　（版 `25810f428c`）
-
-**[ここまでの 1 件（MT-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MT-029&cards=MT-029%2025810f428c)**
-
----
-
-## Marfan症候群
-
-### MT-030　下書き（出典の照合前）
-
-> Marfan症候群は、結合組織の蛋白であるフィブリリンをコードする15番染色体のFBN1遺伝子の異常による、常染色体優性遺伝の結合組織疾患で、頻度は3,000〜5,000人に1人とされる。眼（水晶体脱臼、近視、網膜剥離、白内障）、心血管（大動脈基部の拡張と解離、大動脈弁逆流、僧帽弁逸脱）、骨格（長く細い指、四肢に比べて長い体幹、脊柱側弯、漏斗胸・鳩胸）が主に侵される。生命予後を決めるのは大動脈合併症であり、治療はβ遮断薬などの後負荷を減らす薬剤で大動脈拡張の進行を遅らせ、適切な時期に待機的手術を行うことが中心となる。診断は臨床像に基づいて行われ、特異的な検査は分子遺伝学的検査のみである。
-
-- 条件：region: 国際／study: 総説（2023年）
-- 不確実性：頻度（3,000〜5,000人に1人）は出典の抜粋に報告値として記載されたものである。β遮断薬など後負荷軽減薬のMarfan症候群に対する国内の適応・保険適用は、薬剤ごとに異なると考えられるが、本調査では添付文書で確認していない（未確認）。章の本文はアクセス制限のため全文を確認できていない。
-- 出典：Salik I, Rawla P. Marfan Syndrome. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK537339.　[PMID 30726024](https://pubmed.ncbi.nlm.nih.gov/30726024/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅹ-9-F-①（Marfan症候群、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-030&card_id=MT-030&version=4bb34367f5)　（版 `4bb34367f5`）
-
-**[ここまでの 1 件（MT-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MT-030&cards=MT-030%204bb34367f5)**
-
----
-
 ## Ehlers-Danlos症候群
 
 ### MT-031　下書き（出典の照合前）
@@ -548,22 +468,6 @@
 
 ---
 
-## ビタミンA・K・Eの欠乏
-
-### MT-035　下書き（出典の照合前）
-
-> 脂溶性ビタミンA・E・Kは、食事脂肪とともに吸収されるため、脂肪吸収障害があると欠乏を来しやすい。ビタミンAは視覚に必須で、欠乏では夜盲が初期症状となり、眼球乾燥症（ビトー斑）や、進行すると角膜軟化症による失明を来す。ビタミンKは、凝固に関わるビタミンK依存性蛋白の合成に必要で、欠乏ではフィブリノゲンや血小板数が正常でもプロトロンビン時間（PT-INR）が延長して出血傾向を来し、新生児ではビタミンK欠乏性出血症が問題となる。ビタミンE欠乏は食事性のものはまれで、脂肪吸収・代謝の異常や遺伝性疾患に伴って生じ、位置覚・振動覚の低下や筋力低下などの神経症状を来す。また、未熟児ではビタミンEの貯蔵が少ない。
-
-- 条件：region: 国際／study: 総説（2022年）
-- 不確実性：各ビタミンの欠乏症状の具体は、出典表の確認経路に記した文献（ビタミンAは Carazo らと Kiani ら、ビタミンKは Kiani らと Daley らの章、ビタミンEは Kemnic らの章と Kiani ら）で照合した内容であり、本カードの出典の抜粋は脂溶性ビタミンの役割と欠乏症候群を扱う旨にとどまる。章の本文はアクセス制限のため全文を確認できていない。ビタミンDの欠乏（骨代謝の側面）は第20回の範囲として本カードには含めていない。
-- 出典：Reddy P, Jialal I. Biochemistry, Fat Soluble Vitamins. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK534869.　[PMID 30521290](https://pubmed.ncbi.nlm.nih.gov/30521290/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅹ-9-A-①（ビタミン欠乏症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-035&card_id=MT-035&version=8a9237690d)　（版 `8a9237690d`）
-
-**[ここまでの 1 件（MT-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MT-035&cards=MT-035%208a9237690d)**
-
----
-
 ## ナイアシン・ビタミンB6の異常（過剰と欠乏）
 
 ### MT-036　下書き（出典の照合前）
@@ -577,6 +481,102 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-036&card_id=MT-036&version=7897adb9f2)　（版 `7897adb9f2`）
 
 **[ここまでの 1 件（MT-036）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MT-036&cards=MT-036%207897adb9f2)**
+
+---
+
+## 低蛋白血症
+
+### MT-037　下書き（出典の照合前）
+
+> 低アルブミン血症は炎症と密接に関連する。炎症により毛細血管の透過性が亢進して血清アルブミンが血管外へ漏れ、間質腔が拡大してアルブミンの分布容積が増える。あわせてアルブミンの半減期が短縮して総量が減少するため、血漿中でのアルブミンの分画合成率がむしろ上昇していても低アルブミン血症を来す。低アルブミン血症は炎症の状態そのものを反映し、生活の質の低下や寿命の短縮と関連する。血清アルブミン値の上昇と低下は、それぞれ病態の改善と悪化の指標となる。対応はアルブミンの補充ではなく、進行中の炎症の原因を是正することが基本である。
+
+- 条件：region: 国際／study: 総説（低アルブミン血症の病態と臨床的意義、2019年）
+- 不確実性：元のカードにあったアルブミンの生理学的定数（肝臓でのみ合成されること、血漿蛋白の50〜60%、基準濃度35〜50 g/L、半減期14〜21日、膠質浸透圧の約80%）は、本出典の抄録では確認できないため新カードには含めていない。炎症性メディエーターが合成を抑制するという元の記述は、本出典の病態理解（炎症下では分画合成率は上昇する）と異なるため、本出典に従って改めた。アルブミン製剤の国内の承認・保険適用は、本調査では添付文書で確認していない（未確認）。
+- 出典：Soeters PB, Wolfe RR, Shenkin A. Hypoalbuminemia: Pathogenesis and Clinical Significance. JPEN J Parenter Enteral Nutr. 2019;43(2):181-193.　[DOI 10.1002/jpen.1451](https://doi.org/10.1002/jpen.1451)　[PMID 30288759](https://pubmed.ncbi.nlm.nih.gov/30288759/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅹ-8-A-①（低蛋白血症、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-037&card_id=MT-037&version=4d3c5b0646)　（版 `4d3c5b0646`）
+
+**[ここまでの 1 件（MT-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MT-037&cards=MT-037%204d3c5b0646)**
+
+---
+
+## ビタミンC欠乏（壊血病）とペラグラ
+
+### MT-038　下書き（出典の照合前）
+
+> 壊血病はビタミンC欠乏の古典的な現れ方で、皮膚所見が目立つ。毛孔性角化に、らせん状（コルク栓抜き様）の毛髪と毛孔周囲の出血を伴う所見が特徴的で、点状出血は遅れて現れる。コラーゲン合成の障害のため創傷治癒が悪くなり、歯肉の症状を伴うこともある。ペラグラはナイアシン（ビタミンB3）の欠乏によるもので、臨床経過は皮膚炎、認知症、下痢、放置すれば死亡という4つのDで表される。皮膚炎は日光に当たる部位の発疹が中心である。ペラグラは吸収や代謝の障害でも起こり、イソニアジドなどの薬剤がナイアシンの合成を妨げて誘発することもある。
+
+- 条件：region: 国際／study: 症例に基づく総説（栄養欠乏の皮膚所見、2016年）
+- 不確実性：主張の内容は出典の本文（出版社ページ）で確認した範囲にとどめた。壊血病の歯肉出血や関節痛などの個別症状の詳細は、本出典の本文で確認した範囲を超えるものは含めていない。ビタミンC製剤とナイアシン製剤の国内の承認・保険適用は、本調査では確認していない（未確認）。
+- 出典：Galimberti F, Mesinkovska NA. Skin findings associated with nutritional deficiencies. Cleve Clin J Med. 2016;83(10):731-739.　[DOI 10.3949/ccjm.83a.15061](https://doi.org/10.3949/ccjm.83a.15061)　[PMID 27726828](https://pubmed.ncbi.nlm.nih.gov/27726828/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅹ-9-A-①（ビタミン欠乏症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-038&card_id=MT-038&version=a227b0f881)　（版 `a227b0f881`）
+
+**[ここまでの 1 件（MT-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MT-038&cards=MT-038%20a227b0f881)**
+
+---
+
+## ビタミン過剰症
+
+### MT-039　下書き（出典の照合前）
+
+> ビタミンD中毒（ビタミンD過剰症）は過剰症の代表例で、重度の高カルシウム血症を介して症状を来す。症状としては、錯乱、無関心、反復する嘔吐、腹痛、多尿、多飲、脱水などが多い。外因性の中毒は、薬剤としてのビタミンD製剤の不適切あるいは不注意な、極めて高用量の長期摂取で起こることが多く、過剰摂取による中毒では血清25(OH)Dが150 ng/mL（375 nmol/L）を超えることが目印とされる。内因性には、肉芽腫性疾患や一部のリンパ腫で活性型ビタミンD代謝物が局所で過剰に産生される場合などがある。
+
+- 条件：region: 国際／study: 総説（ビタミンD中毒の臨床的総説、2018年）
+- 不確実性：元のカードにあったビタミンA過剰の内容（妊娠中の過剰摂取による催奇形性、肝障害、頭蓋内圧亢進）と、水溶性ビタミンの過剰に関する記述は、単一の一次資料で確認できなかったため新カードには含めていない（ビタミンA過剰の候補出典は未解決事項に記した）。ビタミンD製剤の国内の承認・保険適用は、本調査では確認していない（未確認）。
+- 出典：Marcinowska-Suchowierska E, Kupisz-Urbańska M, Łukaszkiewicz J, Płudowski P, Jones G. Vitamin D Toxicity-A Clinical Perspective. Front Endocrinol (Lausanne). 2018;9:550.　[DOI 10.3389/fendo.2018.00550](https://doi.org/10.3389/fendo.2018.00550)　[PMID 30294301](https://pubmed.ncbi.nlm.nih.gov/30294301/)（区分 OPEN）
+- 出題基準：医学各論 Ⅹ-9-A-②（ビタミン過剰症、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-007 (id: JlAKpsU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-039&card_id=MT-039&version=66289b3d5c)　（版 `66289b3d5c`）
+
+**[ここまでの 1 件（MT-039）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MT-039&cards=MT-039%2066289b3d5c)**
+
+---
+
+## 亜鉛欠乏症候群（腸性肢端皮膚炎）
+
+### MT-040　下書き（出典の照合前）
+
+> 腸性肢端皮膚炎は、SLC39A4遺伝子の変異による常染色体劣性遺伝の亜鉛欠乏症である。肢端と口周囲の皮膚炎、脱毛、下痢を特徴とし、血清亜鉛は著しく低下する。亜鉛の補充により皮膚病変が改善し、発毛が回復して血清亜鉛も上昇する。乳児で特徴的な皮膚炎、脱毛、下痢をみた場合には本症を考え、血清亜鉛の測定と遺伝子解析を行うことが、誤診や診断の遅れを防ぐうえで重要である。
+
+- 条件：region: 国際／study: 症例報告と文献レビュー（中国の乳児例、2025年）
+- 不確実性：単一症例の報告と文献レビューに基づく。元のカードにあった、後天性の亜鉛欠乏でも同様の臨床像を呈することと、亜鉛が200を超える金属酵素の構成要素であることは、本出典の抄録では確認できなかったため新カードには含めていない。症例で用いられた亜鉛補充の用量は症例固有のものとして主張には含めていない。亜鉛製剤の国内の承認・保険適用は、本調査では確認していない（未確認）。
+- 出典：Axirejiang T, Simayi G, Abuduwake A, Liu Y, Zheng G, Ibrahim I. Clinical features and genetic analysis of acrodermatitis enteropathica in an ethnic minority infant from Western China: a case report and literature review. Front Med (Lausanne). 2025;12:1616196.　[DOI 10.3389/fmed.2025.1616196](https://doi.org/10.3389/fmed.2025.1616196)　[PMID 41103716](https://pubmed.ncbi.nlm.nih.gov/41103716/)（区分 OPEN）
+- 出題基準：医学各論 Ⅹ-9-E-③（亜鉛欠乏症候群<腸性肢端皮膚炎>、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-040&card_id=MT-040&version=656b347850)　（版 `656b347850`）
+
+**[ここまでの 1 件（MT-040）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MT-040&cards=MT-040%20656b347850)**
+
+---
+
+## Marfan症候群
+
+### MT-041　下書き（出典の照合前）
+
+> Marfan症候群の診断は、国際的な専門家パネルが定めた改正Ghent基準による。改正基準では心血管病変の比重が高められ、大動脈基部の瘤と水晶体偏位が中心的な臨床所見とされた。家族歴がない場合、この2つがそろえば診断は確定する。どちらか一方を欠く場合は、真正のFBN1変異の存在、あるいは全身所見の組み合わせが必要で、後者の評価には新しいスコア制度が設けられた。FBN1の遺伝子検査は必須ではないが、診断評価における比重は増している。小児での診断や、成人での鑑別診断についても配慮がなされている。
+
+- 条件：region: 国際／study: 診断基準の原著論文（改正Ghent基準、2010年）
+- 不確実性：元のカードにあった頻度（3,000〜5,000人に1人）、侵される臓器の列挙（眼・心血管・骨格）、β遮断薬による治療と待機的手術という治療の内容は、本出典（診断基準の原著論文）の抄録では確認できないため新カードには含めていない。全身所見のスコアの項目ごとの内訳も抄録の範囲外である。新カードでは薬剤名を扱っていない。
+- 出典：Loeys BL, Dietz HC, Braverman AC, Callewaert BL, De Backer J, Devereux RB, et al. The revised Ghent nosology for the Marfan syndrome. J Med Genet. 2010;47(7):476-485.　[DOI 10.1136/jmg.2009.072785](https://doi.org/10.1136/jmg.2009.072785)　[PMID 20591885](https://pubmed.ncbi.nlm.nih.gov/20591885/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅹ-9-F-①（Marfan症候群、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-041&card_id=MT-041&version=1884ccb5c6)　（版 `1884ccb5c6`）
+
+**[ここまでの 1 件（MT-041）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MT-041&cards=MT-041%201884ccb5c6)**
+
+---
+
+## ビタミンA・K・Eの欠乏
+
+### MT-042　下書き（出典の照合前）
+
+> 脂溶性ビタミンA・D・E・Kは小腸で食事脂肪とともに吸収されるため、脂肪吸収障害があると欠乏を来しやすい。先進国で欠乏の原因となるのは、食事、吸収障害、肝疾患が多い。ビタミンA欠乏では、暗所で見えにくくなる夜盲が現れ、涙液の減少に伴う眼球乾燥症や角膜軟化症を来たして、失明に進むことがある。ビタミンKは凝固因子II（プロトロンビン）・VII・IX・Xの活性化に必要で、欠乏では出血症候群を来す。新生児は、胎盤を通る移行が限られ、母乳中の濃度も低いため、出生時にビタミンKが欠乏しやすい。ビタミンE欠乏では、反射の低下、位置覚・振動覚の低下、遠位部の筋力低下、運動失調、眼振などの神経症状が現れる。
+
+- 条件：region: 国際／study: 総説（脂溶性ビタミンの臨床総説、2024年）
+- 不確実性：ビタミンK欠乏の出血症候群は出典の表から読み取り、その他の内容は本文で確認した。元のカードにあった、ビタミンK欠乏ではフィブリノゲンや血小板数が正常でもPT-INRが延長するという表現と、未熟児ではビタミンEの貯蔵が少ないという記載は、本出典の本文で確認できなかったため新カードには含めていない。各ビタミン製剤の国内の承認・保険適用は、本調査では確認していない（未確認）。
+- 出典：Andrès E, Lorenzo-Villalba N, Terrade JE, Méndez-Bailon M. Fat-Soluble Vitamins A, D, E, and K: Review of the Literature and Points of Interest for the Clinician. J Clin Med. 2024;13(13):3641.　[DOI 10.3390/jcm13133641](https://doi.org/10.3390/jcm13133641)　[PMID 38999209](https://pubmed.ncbi.nlm.nih.gov/38999209/)（区分 OPEN）
+- 出題基準：医学各論 Ⅹ-9-A-①（ビタミン欠乏症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-042&card_id=MT-042&version=5bb670290d)　（版 `5bb670290d`）
+
+**[ここまでの 1 件（MT-042）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MT-042&cards=MT-042%205bb670290d)**
 
 ---
 

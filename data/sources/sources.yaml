@@ -13422,3 +13422,318 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1521
+  legacy_id: null
+  title: 'Zhang X, Liu W, Hai T, Li F. Upgrade Rate and Predictive Factors for Breast Benign Intraductal Papilloma Diagnosed at Biopsy: A Meta-Analysis. Ann Surg Oncol. 2021;28(13):8643-8650.'
+  citation: 'Zhang X, Liu W, Hai T, Li F. Upgrade Rate and Predictive Factors for Breast Benign Intraductal Papilloma Diagnosed at Biopsy: A Meta-Analysis. Ann Surg Oncol. 2021;28(13):8643-8650.'
+  doi: 10.1245/s10434-021-10188-7
+  pmid: '34331160'
+  pmcid: null
+  license_note: Springer（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1522
+  legacy_id: null
+  title: 'Ramala SR Jr, Chandak S, Chandak MS, Annareddy S. A Comprehensive Review of Breast Fibroadenoma: Correlating Clinical and Pathological Findings. Cureus. 2023;15(12):e49948.'
+  citation: 'Ramala SR Jr, Chandak S, Chandak MS, Annareddy S. A Comprehensive Review of Breast Fibroadenoma: Correlating Clinical and Pathological Findings. Cureus. 2023;15(12):e49948.'
+  doi: 10.7759/cureus.49948
+  pmid: '38179396'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1523
+  legacy_id: null
+  title: Bennett DL, Buckley A, Lee MV. Fibrocystic Change. Radiol Clin North Am. 2024;62(4):581-592.
+  citation: Bennett DL, Buckley A, Lee MV. Fibrocystic Change. Radiol Clin North Am. 2024;62(4):581-592.
+  doi: 10.1016/j.rcl.2023.12.008
+  pmid: '38777535'
+  pmcid: null
+  license_note: Elsevier（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1524
+  legacy_id: null
+  title: 'Garcias-Ladaria J, Cuadrado Rosón M, Pascual-López M. Epidermal Nevi and Related Syndromes - Part 1: Keratinocytic Nevi. Actas Dermosifiliogr. 2018;109(8):677-686.'
+  citation: 'Garcias-Ladaria J, Cuadrado Rosón M, Pascual-López M. Epidermal Nevi and Related Syndromes - Part 1: Keratinocytic Nevi. Actas Dermosifiliogr. 2018;109(8):677-686.'
+  doi: 10.1016/j.ad.2018.05.005
+  pmid: '29983155'
+  pmcid: null
+  license_note: Elsevier España（CC 表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1525
+  legacy_id: null
+  title: Abdolrahimzadeh S, Pugi DM, Manni P, Iodice CM, Di Tizio F, Persechino F, Scuderi G. An update on ophthalmological perspectives in oculodermal melanocytosis (Nevus of Ota). Graefes Arch Clin Exp Ophthalmol. 2023;261(2):291-301.
+  citation: Abdolrahimzadeh S, Pugi DM, Manni P, Iodice CM, Di Tizio F, Persechino F, Scuderi G. An update on ophthalmological perspectives in oculodermal melanocytosis (Nevus of Ota). Graefes Arch Clin Exp Ophthalmol. 2023;261(2):291-301.
+  doi: 10.1007/s00417-022-05743-1
+  pmid: '35851619'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1526
+  legacy_id: null
+  title: Enjolras O, Wassef M, Mazoyer E, Frieden IJ, Rieu PN, Drouet L, Taïeb A, Stalder JF, Escande JP. Infants with Kasabach-Merritt syndrome do not have "true" hemangiomas. J Pediatr. 1997;130(4):631-640.
+  citation: Enjolras O, Wassef M, Mazoyer E, Frieden IJ, Rieu PN, Drouet L, Taïeb A, Stalder JF, Escande JP. Infants with Kasabach-Merritt syndrome do not have "true" hemangiomas. J Pediatr. 1997;130(4):631-640.
+  doi: 10.1016/S0022-3476(97)70249-X
+  pmid: '9108863'
+  pmcid: null
+  license_note: Elsevier（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1527
+  legacy_id: null
+  title: 'Wassef M, Blei F, Adams D, Alomari A, Baselga E, Berenstein A, Burrows P, Frieden IJ, Garzon MC, et al. Vascular Anomalies Classification: Recommendations From the International Society for the Study of Vascular Anomalies. Pediatrics. 2015;136(1):e203-e214.'
+  citation: 'Wassef M, Blei F, Adams D, Alomari A, Baselga E, Berenstein A, Burrows P, Frieden IJ, Garzon MC, et al. Vascular Anomalies Classification: Recommendations From the International Society for the Study of Vascular Anomalies. Pediatrics. 2015;136(1):e203-e214.'
+  doi: 10.1542/peds.2014-3673
+  pmid: '26055853'
+  pmcid: null
+  license_note: American Academy of Pediatrics（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1528
+  legacy_id: null
+  title: 'Wollina U, Langner D, Tchernev G, França K, Lotti T. Epidermoid Cysts - A Wide Spectrum of Clinical Presentation and Successful Treatment by Surgery: A Retrospective 10-Year Analysis and Literature Review. Open Access Maced J Med Sci. 2018;6(1):28-30.'
+  citation: 'Wollina U, Langner D, Tchernev G, França K, Lotti T. Epidermoid Cysts - A Wide Spectrum of Clinical Presentation and Successful Treatment by Surgery: A Retrospective 10-Year Analysis and Literature Review. Open Access Maced J Med Sci. 2018;6(1):28-30.'
+  doi: 10.3889/oamjms.2018.027
+  pmid: '29483974'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1529
+  legacy_id: null
+  title: Wollina U. Recent advances in managing and understanding seborrheic keratosis. F1000Research. 2019;8:1520.
+  citation: Wollina U. Recent advances in managing and understanding seborrheic keratosis. F1000Research. 2019;8:1520.
+  doi: 10.12688/f1000research.18983.1
+  pmid: '31508199'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1533
+  legacy_id: null
+  title: 'Soeters PB, Wolfe RR, Shenkin A. Hypoalbuminemia: Pathogenesis and Clinical Significance. JPEN J Parenter Enteral Nutr. 2019;43(2):181-193.'
+  citation: 'Soeters PB, Wolfe RR, Shenkin A. Hypoalbuminemia: Pathogenesis and Clinical Significance. JPEN J Parenter Enteral Nutr. 2019;43(2):181-193.'
+  doi: 10.1002/jpen.1451
+  pmid: '30288759'
+  pmcid: null
+  license_note: CC BY-NC-ND（Europe PMCのライセンス表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1534
+  legacy_id: null
+  title: Galimberti F, Mesinkovska NA. Skin findings associated with nutritional deficiencies. Cleve Clin J Med. 2016;83(10):731-739.
+  citation: Galimberti F, Mesinkovska NA. Skin findings associated with nutritional deficiencies. Cleve Clin J Med. 2016;83(10):731-739.
+  doi: 10.3949/ccjm.83a.15061
+  pmid: '27726828'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（© The Cleveland Clinic Foundation）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1535
+  legacy_id: null
+  title: Marcinowska-Suchowierska E, Kupisz-Urbańska M, Łukaszkiewicz J, Płudowski P, Jones G. Vitamin D Toxicity-A Clinical Perspective. Front Endocrinol (Lausanne). 2018;9:550.
+  citation: Marcinowska-Suchowierska E, Kupisz-Urbańska M, Łukaszkiewicz J, Płudowski P, Jones G. Vitamin D Toxicity-A Clinical Perspective. Front Endocrinol (Lausanne). 2018;9:550.
+  doi: 10.3389/fendo.2018.00550
+  pmid: '30294301'
+  pmcid: null
+  license_note: CC BY 4.0（Crossrefのライセンス表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1536
+  legacy_id: null
+  title: 'Axirejiang T, Simayi G, Abuduwake A, Liu Y, Zheng G, Ibrahim I. Clinical features and genetic analysis of acrodermatitis enteropathica in an ethnic minority infant from Western China: a case report and literature review. Front Med (Lausanne). 2025;12:1616196.'
+  citation: 'Axirejiang T, Simayi G, Abuduwake A, Liu Y, Zheng G, Ibrahim I. Clinical features and genetic analysis of acrodermatitis enteropathica in an ethnic minority infant from Western China: a case report and literature review. Front Med (Lausanne). 2025;12:1616196.'
+  doi: 10.3389/fmed.2025.1616196
+  pmid: '41103716'
+  pmcid: null
+  license_note: CC BY 4.0（Crossref・Europe PMCのライセンス表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1537
+  legacy_id: null
+  title: Loeys BL, Dietz HC, Braverman AC, Callewaert BL, De Backer J, Devereux RB, et al. The revised Ghent nosology for the Marfan syndrome. J Med Genet. 2010;47(7):476-485.
+  citation: Loeys BL, Dietz HC, Braverman AC, Callewaert BL, De Backer J, Devereux RB, et al. The revised Ghent nosology for the Marfan syndrome. J Med Genet. 2010;47(7):476-485.
+  doi: 10.1136/jmg.2009.072785
+  pmid: '20591885'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1538
+  legacy_id: null
+  title: 'Andrès E, Lorenzo-Villalba N, Terrade JE, Méndez-Bailon M. Fat-Soluble Vitamins A, D, E, and K: Review of the Literature and Points of Interest for the Clinician. J Clin Med. 2024;13(13):3641.'
+  citation: 'Andrès E, Lorenzo-Villalba N, Terrade JE, Méndez-Bailon M. Fat-Soluble Vitamins A, D, E, and K: Review of the Literature and Points of Interest for the Clinician. J Clin Med. 2024;13(13):3641.'
+  doi: 10.3390/jcm13133641
+  pmid: '38999209'
+  pmcid: null
+  license_note: CC BY 4.0（PMC・Europe PMCのライセンス表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1543
+  legacy_id: null
+  title: Jo M, Brännström M, Akins JW, Curry TE Jr. New insights into the ovulatory process in the human ovary. Hum Reprod Update. 2025;31(1):21-47.
+  citation: Jo M, Brännström M, Akins JW, Curry TE Jr. New insights into the ovulatory process in the human ovary. Hum Reprod Update. 2025;31(1):21-47.
+  doi: 10.1093/humupd/dmae027
+  pmid: '39331957'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1544
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. Committee Opinion No. 651: Menstruation in Girls and Adolescents: Using the Menstrual Cycle as a Vital Sign. Obstet Gynecol. 2015;126(6):e143-e146.'
+  citation: 'American College of Obstetricians and Gynecologists. Committee Opinion No. 651: Menstruation in Girls and Adolescents: Using the Menstrual Cycle as a Vital Sign. Obstet Gynecol. 2015;126(6):e143-e146.'
+  doi: 10.1097/AOG.0000000000001215
+  pmid: '26595586'
+  pmcid: null
+  license_note: ライセンス表示なし（学会ガイドライン）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1545
+  legacy_id: null
+  title: 'Klein DA, Poth MA. Amenorrhea: An Approach to Diagnosis and Management. Am Fam Physician. 2013;87(11):781-788.'
+  citation: 'Klein DA, Poth MA. Amenorrhea: An Approach to Diagnosis and Management. Am Fam Physician. 2013;87(11):781-788.'
+  doi: null
+  pmid: '23939500'
+  pmcid: null
+  license_note: ライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1546
+  legacy_id: null
+  title: 'Hann LE, Hall DA, Black EB, Ferrucci JT Jr. Mittelschmerz: Sonographic Demonstration. JAMA. 1979;241(25):2731-2732.'
+  citation: 'Hann LE, Hall DA, Black EB, Ferrucci JT Jr. Mittelschmerz: Sonographic Demonstration. JAMA. 1979;241(25):2731-2732.'
+  doi: 10.1001/jama.241.25.2731
+  pmid: '448821'
+  pmcid: null
+  license_note: ライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1547
+  legacy_id: null
+  title: Caproni M, Torchia D, Pestelli E, Volpi W, Fabbri P, Schincaglia E. Clinical and immunohistochemical study of the effect of a cosmetic product in patients with asteatotic eczema. Int J Tissue React. 2005;27(1):23-29.
+  citation: Caproni M, Torchia D, Pestelli E, Volpi W, Fabbri P, Schincaglia E. Clinical and immunohistochemical study of the effect of a cosmetic product in patients with asteatotic eczema. Int J Tissue React. 2005;27(1):23-29.
+  doi: null
+  pmid: '15847102'
+  pmcid: null
+  license_note: ライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1548
+  legacy_id: null
+  title: 'Joerg L, Stolyar J, Jagdeo J. Contact Allergens Associated With Nummular Eczema: A Systematic Review. J Drugs Dermatol. 2026;25(10):914-918.'
+  citation: 'Joerg L, Stolyar J, Jagdeo J. Contact Allergens Associated With Nummular Eczema: A Systematic Review. J Drugs Dermatol. 2026;25(10):914-918.'
+  doi: 10.36849/JDD.10209
+  pmid: '42826143'
+  pmcid: null
+  license_note: ライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/redo_sp.md の出典マスター表から
