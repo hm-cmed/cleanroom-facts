@@ -71,8 +71,13 @@ def main() -> None:
         must.append(f"status が draft でない、または verifier に値がある：{'、'.join(m['status_bad'])}")
     if m["paren_bad"]:
         must.append(f"主張文に（要確認）などの括弧書き：{'、'.join(m['paren_bad'])}。不確かな点は uncertainty に書く")
-    if m["id_bad"] or m["id_dup"] or m["id_gaps"]:
-        must.append(f"ID が指定と違う（範囲外 {m['id_bad']}、重複 {m['id_dup']}、欠番 {m['id_gaps']}）。欠番は理由を一覧にする")
+    # 欠番は、成果物の本文で「欠番」と理由を書いていれば許す（ID は再利用しない決まりのため、取り下げたカードは欠番になる）
+    explained = [g for g in m["id_gaps"] if re.search(re.escape(g) + r"[^\n]{0,80}欠番|欠番[^\n]{0,200}" + re.escape(g), p["text"])]
+    gaps = [g for g in m["id_gaps"] if g not in explained]
+    if m["id_bad"] or m["id_dup"] or gaps:
+        must.append(f"ID が指定と違う（範囲外 {m['id_bad']}、重複 {m['id_dup']}、理由のない欠番 {gaps}）。欠番は理由を一覧にする")
+    if explained:
+        should.append(f"欠番（理由の記載あり）：{'、'.join(explained)}")
     if m["src_out_of_range"] or m["src_missing"]:
         must.append(f"SRC 番号が指定の範囲外 {m['src_out_of_range']}、または出典表にない {m['src_missing']}")
     if m["src_dup_doi"]:

@@ -9801,3 +9801,663 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-811
+  legacy_id: null
+  title: 'Jain V, Munro MG, Critchley HOD. Contemporary evaluation of women and girls with abnormal uterine bleeding: FIGO Systems 1 and 2. Int J Gynaecol Obstet. 2023;162 Suppl 2:29-42.'
+  citation: 'Jain V, Munro MG, Critchley HOD. Contemporary evaluation of women and girls with abnormal uterine bleeding: FIGO Systems 1 and 2. Int J Gynaecol Obstet. 2023;162 Suppl 2:29-42.'
+  doi: 10.1002/ijgo.14946
+  pmid: '37538019'
+  pmcid: null
+  license_note: CC BY 4.0（PMC掲載ページの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-812
+  legacy_id: null
+  title: Mikhael S, Punjala-Patel A, Gavrilova-Jordan L. Hypothalamic-Pituitary-Ovarian Axis Disorders Impacting Female Fertility. Biomedicines. 2019;7(1):5.
+  citation: Mikhael S, Punjala-Patel A, Gavrilova-Jordan L. Hypothalamic-Pituitary-Ovarian Axis Disorders Impacting Female Fertility. Biomedicines. 2019;7(1):5.
+  doi: 10.3390/biomedicines7010005
+  pmid: '30621143'
+  pmcid: null
+  license_note: CC BY 4.0（出版社ページ・PMCの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-813
+  legacy_id: null
+  title: Critchley HOD, Maybin JA, Armstrong GM, Williams ARW. Physiology of the Endometrium and Regulation of Menstruation. Physiol Rev. 2020;100(3):1149-1179.
+  citation: Critchley HOD, Maybin JA, Armstrong GM, Williams ARW. Physiology of the Endometrium and Regulation of Menstruation. Physiol Rev. 2020;100(3):1149-1179.
+  doi: 10.1152/physrev.00031.2019
+  pmid: '32031903'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-814
+  legacy_id: null
+  title: 'Holesh JE, Bass AN, Lord M. Physiology, Ovulation. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK441996.'
+  citation: 'Holesh JE, Bass AN, Lord M. Physiology, Ovulation. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK441996.'
+  doi: null
+  pmid: '28723025'
+  pmcid: null
+  license_note: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-815
+  legacy_id: null
+  title: 'Lacroix AE, Gondal H, Shumway KR, Langaker MD. Physiology, Menarche. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK470216.'
+  citation: 'Lacroix AE, Gondal H, Shumway KR, Langaker MD. Physiology, Menarche. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK470216.'
+  doi: null
+  pmid: '29261991'
+  pmcid: null
+  license_note: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-816
+  legacy_id: null
+  title: 'Nawaz G, Rogol AD, Jenkins SM. Amenorrhea. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK482168.'
+  citation: 'Nawaz G, Rogol AD, Jenkins SM. Amenorrhea. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK482168.'
+  doi: null
+  pmid: '29489290'
+  pmcid: null
+  license_note: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-817
+  legacy_id: null
+  title: 'Gordon CM, Ackerman KE, Berga SL, Kaplan JR, Mastorakos G, Misra M, Murad MH, Santoro NF, Warren MP. Functional Hypothalamic Amenorrhea: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2017;102(5):1413-1439.'
+  citation: 'Gordon CM, Ackerman KE, Berga SL, Kaplan JR, Mastorakos G, Misra M, Murad MH, Santoro NF, Warren MP. Functional Hypothalamic Amenorrhea: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2017;102(5):1413-1439.'
+  doi: 10.1210/jc.2017-00131
+  pmid: '28368518'
+  pmcid: null
+  license_note: Endocrine Societyのガイドライン。CC表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-818
+  legacy_id: null
+  title: 'Munro MG, Critchley HOD, Fraser IS; FIGO Menstrual Disorders Committee. The two FIGO systems for normal and abnormal uterine bleeding symptoms and classification of causes of abnormal uterine bleeding in the reproductive years: 2018 revisions. Int J Gynaecol Obstet. 2018;143(3):393-408.'
+  citation: 'Munro MG, Critchley HOD, Fraser IS; FIGO Menstrual Disorders Committee. The two FIGO systems for normal and abnormal uterine bleeding symptoms and classification of causes of abnormal uterine bleeding in the reproductive years: 2018 revisions. Int J Gynaecol Obstet. 2018;143(3):393-408.'
+  doi: 10.1002/ijgo.12666
+  pmid: '30198563'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-819
+  legacy_id: null
+  title: Burnett M, Lemyre M. No. 345-Primary Dysmenorrhea Consensus Guideline. J Obstet Gynaecol Can. 2017;39(7):585-595.
+  citation: Burnett M, Lemyre M. No. 345-Primary Dysmenorrhea Consensus Guideline. J Obstet Gynaecol Can. 2017;39(7):585-595.
+  doi: 10.1016/j.jogc.2016.12.023
+  pmid: '28625286'
+  pmcid: null
+  license_note: カナダ産科婦人科学会（SOGC）ガイドライン。CC表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-820
+  legacy_id: null
+  title: American College of Obstetricians and Gynecologists. Dysmenorrhea and Endometriosis in the Adolescent. ACOG Committee Opinion No. 760. Obstet Gynecol. 2018;132(6):e249-e258.
+  citation: American College of Obstetricians and Gynecologists. Dysmenorrhea and Endometriosis in the Adolescent. ACOG Committee Opinion No. 760. Obstet Gynecol. 2018;132(6):e249-e258.
+  doi: 10.1097/AOG.0000000000002978
+  pmid: '30461694'
+  pmcid: null
+  license_note: ACOG文書（All rights reserved）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-821
+  legacy_id: null
+  title: Yonkers KA, Simoni MK. Premenstrual disorders. Am J Obstet Gynecol. 2018;218(1):68-74.
+  citation: Yonkers KA, Simoni MK. Premenstrual disorders. Am J Obstet Gynecol. 2018;218(1):68-74.
+  doi: 10.1016/j.ajog.2017.05.045
+  pmid: '28571724'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-822
+  legacy_id: null
+  title: Marjoribanks J, Brown J, O'Brien PMS, Wyatt K. Selective serotonin reuptake inhibitors for premenstrual syndrome. Cochrane Database Syst Rev. 2013;(6):CD001396.
+  citation: Marjoribanks J, Brown J, O'Brien PMS, Wyatt K. Selective serotonin reuptake inhibitors for premenstrual syndrome. Cochrane Database Syst Rev. 2013;(6):CD001396.
+  doi: 10.1002/14651858.CD001396.pub3
+  pmid: '23744611'
+  pmcid: null
+  license_note: Copyright © The Cochrane Collaboration（PMC掲載ページの表示）。CC表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-823
+  legacy_id: null
+  title: 'Brott NR, Le JK. Mittelschmerz. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK549822.'
+  citation: 'Brott NR, Le JK. Mittelschmerz. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK549822.'
+  doi: null
+  pmid: '31747229'
+  pmcid: null
+  license_note: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-825
+  legacy_id: null
+  title: 'Broekmans FJ, Soules MR, Fauser BC. Ovarian aging: mechanisms and clinical consequences. Endocr Rev. 2009;30(5):465-493.'
+  citation: 'Broekmans FJ, Soules MR, Fauser BC. Ovarian aging: mechanisms and clinical consequences. Endocr Rev. 2009;30(5):465-493.'
+  doi: 10.1210/er.2009-0006
+  pmid: '19589949'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-826
+  legacy_id: null
+  title: Teede HJ, Tay CT, Laven J, et al. Recommendations from the 2023 International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome. Human Reproduction. 2023;38(9):1655-1679.
+  citation: Teede HJ, Tay CT, Laven J, et al. Recommendations from the 2023 International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome. Human Reproduction. 2023;38(9):1655-1679.
+  doi: 10.1093/humrep/dead156
+  pmid: '37580037'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-827
+  legacy_id: null
+  title: 'Panay N, Anderson RA, Bennie A, et al. Evidence-based guideline: premature ovarian insufficiency. Human Reproduction Open. 2024;2024(4):hoae065.'
+  citation: 'Panay N, Anderson RA, Bennie A, et al. Evidence-based guideline: premature ovarian insufficiency. Human Reproduction Open. 2024;2024(4):hoae065.'
+  doi: 10.1093/hropen/hoae065
+  pmid: '39660328'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-828
+  legacy_id: null
+  title: 'Melmed S, Casanueva FF, Hoffman AR, et al. Diagnosis and Treatment of Hyperprolactinemia: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2011;96(2):273-288.'
+  citation: 'Melmed S, Casanueva FF, Hoffman AR, et al. Diagnosis and Treatment of Hyperprolactinemia: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2011;96(2):273-288.'
+  doi: 10.1210/jc.2010-1692
+  pmid: '21296991'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-829
+  legacy_id: null
+  title: 'Practice Committee of the American Society for Reproductive Medicine. Diagnosis and treatment of luteal phase deficiency: a committee opinion. Fertility and Sterility. 2021;115(6):1416-1423.'
+  citation: 'Practice Committee of the American Society for Reproductive Medicine. Diagnosis and treatment of luteal phase deficiency: a committee opinion. Fertility and Sterility. 2021;115(6):1416-1423.'
+  doi: 10.1016/j.fertnstert.2021.02.010
+  pmid: '33827766'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-830
+  legacy_id: null
+  title: 'Practice Committee of the American Society for Reproductive Medicine. Diagnostic evaluation of the infertile female: a committee opinion. Fertility and Sterility. 2015;103(6):e44-e50.'
+  citation: 'Practice Committee of the American Society for Reproductive Medicine. Diagnostic evaluation of the infertile female: a committee opinion. Fertility and Sterility. 2015;103(6):e44-e50.'
+  doi: 10.1016/j.fertnstert.2015.03.019
+  pmid: '25936238'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-831
+  legacy_id: null
+  title: 'Practice Committee of the American Society for Reproductive Medicine. Role of tubal surgery in the era of assisted reproductive technology: a committee opinion. Fertility and Sterility. 2021;115(5):1143-1150.'
+  citation: 'Practice Committee of the American Society for Reproductive Medicine. Role of tubal surgery in the era of assisted reproductive technology: a committee opinion. Fertility and Sterility. 2021;115(5):1143-1150.'
+  doi: 10.1016/j.fertnstert.2021.01.051
+  pmid: '33642065'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-832
+  legacy_id: null
+  title: 'Ovarian Stimulation TEGGO, Bosch E, Broer S, et al. ESHRE guideline: ovarian stimulation for IVF/ICSI. Human Reproduction Open. 2020;2020(2):hoaa009.'
+  citation: 'Ovarian Stimulation TEGGO, Bosch E, Broer S, et al. ESHRE guideline: ovarian stimulation for IVF/ICSI. Human Reproduction Open. 2020;2020(2):hoaa009.'
+  doi: 10.1093/hropen/hoaa009
+  pmid: '32395637'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-833
+  legacy_id: null
+  title: 'Ethics Committee of the American Society for Reproductive Medicine. Planned oocyte cryopreservation for women seeking to preserve future reproductive potential: an Ethics Committee opinion. Fertility and Sterility. 2018;110(6):1022-1028.'
+  citation: 'Ethics Committee of the American Society for Reproductive Medicine. Planned oocyte cryopreservation for women seeking to preserve future reproductive potential: an Ethics Committee opinion. Fertility and Sterility. 2018;110(6):1022-1028.'
+  doi: 10.1016/j.fertnstert.2018.08.027
+  pmid: '30396539'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-834
+  legacy_id: null
+  title: 'Todd CS, Lorenzetti L, Mussa A, et al. Drug-drug interactions between antiretrovirals and hormonal contraception: an updated systematic review. Contraception. 2024;138:110490.'
+  citation: 'Todd CS, Lorenzetti L, Mussa A, et al. Drug-drug interactions between antiretrovirals and hormonal contraception: an updated systematic review. Contraception. 2024;138:110490.'
+  doi: 10.1016/j.contraception.2024.110490
+  pmid: '38762199'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-835
+  legacy_id: null
+  title: 'Kuhl H. Pharmacology of estrogens and progestogens: influence of different routes of administration. Climacteric. 2005;8(Suppl 1):3-63.'
+  citation: 'Kuhl H. Pharmacology of estrogens and progestogens: influence of different routes of administration. Climacteric. 2005;8(Suppl 1):3-63.'
+  doi: 10.1080/13697130500148875
+  pmid: '16112947'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-836
+  legacy_id: null
+  title: Bofill Rodriguez M, Lethaby A, Grigore M, et al. Endometrial resection and ablation techniques for heavy menstrual bleeding. Cochrane Database of Systematic Reviews. 2019;(1):CD001501.
+  citation: Bofill Rodriguez M, Lethaby A, Grigore M, et al. Endometrial resection and ablation techniques for heavy menstrual bleeding. Cochrane Database of Systematic Reviews. 2019;(1):CD001501.
+  doi: 10.1002/14651858.CD001501.pub5
+  pmid: '30667064'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-837
+  legacy_id: null
+  title: 'Hughes IA. Disorders of sex development: a new definition and classification. Best Practice & Research Clinical Endocrinology & Metabolism. 2008;22(1):119-134.'
+  citation: 'Hughes IA. Disorders of sex development: a new definition and classification. Best Practice & Research Clinical Endocrinology & Metabolism. 2008;22(1):119-134.'
+  doi: 10.1016/j.beem.2007.11.001
+  pmid: '18279784'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-838
+  legacy_id: null
+  title: 'Balen AH, Morley LC, Misso M, et al. The management of anovulatory infertility in women with polycystic ovary syndrome: an analysis of the evidence to support the development of global WHO guidance. Human Reproduction Update. 2016;22(6):687-708.'
+  citation: 'Balen AH, Morley LC, Misso M, et al. The management of anovulatory infertility in women with polycystic ovary syndrome: an analysis of the evidence to support the development of global WHO guidance. Human Reproduction Update. 2016;22(6):687-708.'
+  doi: 10.1093/humupd/dmw025
+  pmid: '27511809'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-839
+  legacy_id: null
+  title: Legro RS, Brzyski RG, Diamond MP, et al. Letrozole versus clomiphene for infertility in the polycystic ovary syndrome. New England Journal of Medicine. 2014;371(2):119-129.
+  citation: Legro RS, Brzyski RG, Diamond MP, et al. Letrozole versus clomiphene for infertility in the polycystic ovary syndrome. New England Journal of Medicine. 2014;371(2):119-129.
+  doi: 10.1056/NEJMoa1313517
+  pmid: '25006718'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-840
+  legacy_id: null
+  title: Krassas GE, Poppe K, Glinoer D. Thyroid function and human reproductive health. Endocrine Reviews. 2010;31(5):702-755.
+  citation: Krassas GE, Poppe K, Glinoer D. Thyroid function and human reproductive health. Endocrine Reviews. 2010;31(5):702-755.
+  doi: 10.1210/er.2009-0041
+  pmid: '20573783'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-841
+  legacy_id: null
+  title: Trussell J. Contraceptive failure in the United States. Contraception. 2011;83(5):397-404.
+  citation: Trussell J. Contraceptive failure in the United States. Contraception. 2011;83(5):397-404.
+  doi: 10.1016/j.contraception.2011.01.021
+  pmid: '21477680'
+  pmcid: null
+  license_note: 出版社ページ・Crossref に CC ライセンスの表示なし（PMC 収載は著者原稿）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-842
+  legacy_id: null
+  title: 'Brynhildsen J. Combined hormonal contraceptives: prescribing patterns, compliance, and benefits versus risks. Therapeutic Advances in Drug Safety. 2014;5(5):201-213.'
+  citation: 'Brynhildsen J. Combined hormonal contraceptives: prescribing patterns, compliance, and benefits versus risks. Therapeutic Advances in Drug Safety. 2014;5(5):201-213.'
+  doi: 10.1177/2042098614548857
+  pmid: '25360241'
+  pmcid: null
+  license_note: PMC ページで CC ライセンスの版を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-843
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. Practice Bulletin No. 186: Long-Acting Reversible Contraception: Implants and Intrauterine Devices. Obstetrics & Gynecology. 2017;130(5):e251-e269.'
+  citation: 'American College of Obstetricians and Gynecologists. Practice Bulletin No. 186: Long-Acting Reversible Contraception: Implants and Intrauterine Devices. Obstetrics & Gynecology. 2017;130(5):e251-e269.'
+  doi: 10.1097/AOG.0000000000002400
+  pmid: '29064972'
+  pmcid: null
+  license_note: 学会刊行物で CC ライセンスの表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-844
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. Practice Bulletin No. 152: Emergency Contraception. Obstetrics & Gynecology. 2015;126(3):e1-e11.'
+  citation: 'American College of Obstetricians and Gynecologists. Practice Bulletin No. 152: Emergency Contraception. Obstetrics & Gynecology. 2015;126(3):e1-e11.'
+  doi: 10.1097/AOG.0000000000001047
+  pmid: '26287787'
+  pmcid: null
+  license_note: 学会刊行物で CC ライセンスの表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-845
+  legacy_id: null
+  title: 'Harlow SD, Gass M, Hall JE, et al. Executive summary of the Stages of Reproductive Aging Workshop + 10: addressing the unfinished agenda of staging reproductive aging. Menopause. 2012;19(4):387-395.'
+  citation: 'Harlow SD, Gass M, Hall JE, et al. Executive summary of the Stages of Reproductive Aging Workshop + 10: addressing the unfinished agenda of staging reproductive aging. Menopause. 2012;19(4):387-395.'
+  doi: 10.1097/gme.0b013e31824d8f40
+  pmid: '22343510'
+  pmcid: null
+  license_note: PMC 収載は著者原稿で CC ライセンスの表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-846
+  legacy_id: null
+  title: Santoro N, Epperson CN, Mathews SB. Menopausal Symptoms and Their Management. Endocrinology and Metabolism Clinics of North America. 2015;44(3):497-515.
+  citation: Santoro N, Epperson CN, Mathews SB. Menopausal Symptoms and Their Management. Endocrinology and Metabolism Clinics of North America. 2015;44(3):497-515.
+  doi: 10.1016/j.ecl.2015.05.001
+  pmid: '26316239'
+  pmcid: null
+  license_note: 出版社ページ・Crossref に CC ライセンスの表示なし（PMC 収載は著者原稿）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-847
+  legacy_id: null
+  title: The North American Menopause Society. The 2022 hormone therapy position statement of The North American Menopause Society. Menopause. 2022;29(7):767-794.
+  citation: The North American Menopause Society. The 2022 hormone therapy position statement of The North American Menopause Society. Menopause. 2022;29(7):767-794.
+  doi: 10.1097/GME.0000000000002028
+  pmid: '35797481'
+  pmcid: null
+  license_note: 学会誌掲載で CC ライセンスの表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-848
+  legacy_id: null
+  title: 'Rossouw JE, Anderson GL, Prentice RL, et al. Risks and Benefits of Estrogen Plus Progestin in Healthy Postmenopausal Women: Principal Results From the Women''s Health Initiative Randomized Controlled Trial. JAMA. 2002;288(3):321-333.'
+  citation: 'Rossouw JE, Anderson GL, Prentice RL, et al. Risks and Benefits of Estrogen Plus Progestin in Healthy Postmenopausal Women: Principal Results From the Women''s Health Initiative Randomized Controlled Trial. JAMA. 2002;288(3):321-333.'
+  doi: 10.1001/jama.288.3.321
+  pmid: '12117397'
+  pmcid: null
+  license_note: 出版社ページ・Crossref に CC ライセンスの表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-849
+  legacy_id: null
+  title: 'Eastell R, Rosen CJ, Black DM, et al. Pharmacological Management of Osteoporosis in Postmenopausal Women: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2019;104(5):1595-1622.'
+  citation: 'Eastell R, Rosen CJ, Black DM, et al. Pharmacological Management of Osteoporosis in Postmenopausal Women: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2019;104(5):1595-1622.'
+  doi: 10.1210/jc.2019-00221
+  pmid: '30907953'
+  pmcid: null
+  license_note: 学会ガイドラインで CC ライセンスの表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-850
+  legacy_id: null
+  title: The North American Menopause Society. The 2020 genitourinary syndrome of menopause position statement of The North American Menopause Society. Menopause. 2020;27(9):976-992.
+  citation: The North American Menopause Society. The 2020 genitourinary syndrome of menopause position statement of The North American Menopause Society. Menopause. 2020;27(9):976-992.
+  doi: 10.1097/GME.0000000000001609
+  pmid: '32852449'
+  pmcid: null
+  license_note: 学会誌掲載で CC ライセンスの表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-852
+  legacy_id: null
+  title: 'Maki PM, Kornstein SG, Joffe H, et al. Guidelines for the evaluation and treatment of perimenopausal depression: summary and recommendations. Menopause. 2018;25(10):1069-1085.'
+  citation: 'Maki PM, Kornstein SG, Joffe H, et al. Guidelines for the evaluation and treatment of perimenopausal depression: summary and recommendations. Menopause. 2018;25(10):1069-1085.'
+  doi: 10.1097/GME.0000000000001174
+  pmid: '30179986'
+  pmcid: null
+  license_note: 学会誌掲載で CC ライセンスの表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-854
+  legacy_id: null
+  title: The North American Menopause Society. The 2023 nonhormone therapy position statement of The North American Menopause Society. Menopause. 2023;30(6):573-590.
+  citation: The North American Menopause Society. The 2023 nonhormone therapy position statement of The North American Menopause Society. Menopause. 2023;30(6):573-590.
+  doi: 10.1097/GME.0000000000002200
+  pmid: '37252752'
+  pmcid: null
+  license_note: 学会誌掲載で CC ライセンスの表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-855
+  legacy_id: null
+  title: 'Yoshida H, Sakamoto H, Leslie A, Takahashi O, Tsuboi S, Kitamura K. Contraception in Japan: Current trends. Contraception. 2016;93(6):475-477.'
+  citation: 'Yoshida H, Sakamoto H, Leslie A, Takahashi O, Tsuboi S, Kitamura K. Contraception in Japan: Current trends. Contraception. 2016;93(6):475-477.'
+  doi: 10.1016/j.contraception.2016.02.006
+  pmid: '26872717'
+  pmcid: null
+  license_note: 出版社ページ・Crossref に CC ライセンスの表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-856
+  legacy_id: null
+  title: 'ESHRE Guideline Group on RPL; Bender Atik R, Christiansen OB, Elson J, et al. ESHRE guideline: recurrent pregnancy loss: an update in 2022. Human Reproduction Open. 2023;2023(1):hoad002.'
+  citation: 'ESHRE Guideline Group on RPL; Bender Atik R, Christiansen OB, Elson J, et al. ESHRE guideline: recurrent pregnancy loss: an update in 2022. Human Reproduction Open. 2023;2023(1):hoad002.'
+  doi: 10.1093/hropen/hoad002
+  pmid: '36873081'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
+- id: SRC-857
+  legacy_id: null
+  title: 'Fleseriu M, Hashim IA, Karavitaki N, et al. Hormonal Replacement in Hypopituitarism in Adults: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2016;101(11):3888-3921.'
+  citation: 'Fleseriu M, Hashim IA, Karavitaki N, et al. Hormonal Replacement in Hypopituitarism in Adults: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2016;101(11):3888-3921.'
+  doi: 10.1210/jc.2016-2118
+  pmid: '27736313'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（著者稿は All rights reserved）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/19_ku_e.md の出典マスター表から
