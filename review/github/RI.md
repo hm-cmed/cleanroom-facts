@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-28
 
-全 53 件のうち、監修済み 0 件。
+全 57 件のうち、監修済み 0 件。
 
 ## 感冒<かぜ症候群>、上気道炎
 
@@ -632,6 +632,67 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-053&card_id=RI-053&version=030fa3345e)　（版 `030fa3345e`）
 
 **[ここまでの 1 件（RI-053）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-053&cards=RI-053%20030fa3345e)**
+
+---
+
+## 肺吸虫症
+
+### RI-054　下書き（出典の照合前）
+
+> 肺吸虫症は、喀痰中の虫卵の証明で診断できた例と、便中の虫卵でのみ証明できた例があり、プラジカンテル75 mg/kg/日を2日間経口投与した報告では、投与を完遂した7例中6例で90日までに喀痰と便の虫卵が陰性化し、残る1例も120日までに陰性化した。
+
+- 条件：study: 1985年の症例シリーズ（8例）と総説
+- 不確実性：1985年の報告であり、現在の国内の標準治療・承認状況は確認していない。出典のライセンスも未確認のため、取り込み時に確認が必要。
+- 出典：Johnson RJ, Jong EC, Dunning SB, Carberry WL, Minshew BH. Paragonimiasis: diagnosis and the use of praziquantel in treatment. Rev Infect Dis. 1985;7(2):200-206　[DOI 10.1093/clinids/7.2.200](https://doi.org/10.1093/clinids/7.2.200)　[PMID 4001715](https://pubmed.ncbi.nlm.nih.gov/4001715/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅳ-1-F-①（吸虫症、線虫症、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-054&card_id=RI-054&version=bb105085b4)　（版 `bb105085b4`）
+
+**[ここまでの 1 件（RI-054）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-054&cards=RI-054%20bb105085b4)**
+
+---
+
+## 縦隔炎
+
+### RI-055　下書き（出典の照合前）
+
+> 下行性壊死性縦隔炎は、口腔咽頭の感染が深頸部の間隙を下行して縦隔へ広がる重篤な縦隔炎で、死亡率は約20%とされる。治療は集中治療下での抗菌薬投与と頸部の感染源の除去が前提で、縦隔の進展範囲に応じた適切な外科的ドレナージが基盤となり、外科・麻酔科・耳鼻咽喉科・歯科口腔外科などによる集学的治療を要する。
+
+- 不確実性：単一施設の実践を含む総説であり、死亡率約20%はその総説の記載に基づく。出典のライセンスは未確認のため、取り込み時に確認が必要。
+- 出典：Šafránek J. Descending necrotizing mediastinitis – a surgical view. Rozhledy v chirurgii. 2024;103(12):502-504　[DOI 10.48095/ccrvch2024502](https://doi.org/10.48095/ccrvch2024502)　[PMID 40221899](https://pubmed.ncbi.nlm.nih.gov/40221899/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅳ-1-G-③（縦隔炎、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-244 (id: Jlvnl1o)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-055&card_id=RI-055&version=6cb70b68eb)　（版 `6cb70b68eb`）
+
+**[ここまでの 1 件（RI-055）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-055&cards=RI-055%206cb70b68eb)**
+
+---
+
+## 吸虫症、線虫症
+
+### RI-056　下書き（出典の照合前）
+
+> 肺吸虫症は、淡水産のカニやザリガニを生、加熱不十分、または酢漬け・塩漬けで食べて感染する。人で最も多い種はウェステルマン肺吸虫で、東南アジアと日本に分布する。食べた幼虫（メタセルカリア）は十二指腸で脱囊し、腸管壁と腹膜を貫き、横隔膜を通って肺に入って成虫になり、感染から65〜90日で虫卵が出始める。
+
+- 条件：region: US／guideline: CDC
+- 鑑別・補足：急性期（幼虫の移行期）には下痢・腹痛・発熱・咳嗽・蕁麻疹・肝脾腫・好酸球増多がみられ、慢性期には咳嗽、着色した痰、血痰と胸部画像の異常が続く／脳や筋肉に迷入した虫は虫卵を体外に出せないが、脳への迷入は重症になる
+- よくある誤解：肺吸虫は経気道的に吸い込んで感染する
+- 不確実性：日本に分布する他の種（宮崎肺吸虫など）は出典に記載がない
+- 出典：Centers for Disease Control and Prevention. DPDx: Paragonimiasis（最終更新 2024-06-06）　[リンク](https://www.cdc.gov/dpdx/paragonimiasis/index.html)（区分 GOV_US）
+- 出題基準：医学各論 Ⅳ-1-F-①（吸虫症、線虫症、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-056&card_id=RI-056&version=dc2370b989)　（版 `dc2370b989`）
+
+### RI-057　下書き（出典の照合前）
+
+> 糞線虫症では、免疫の低下で自家感染が加速すると、多数の幼虫が消化管と肺を移動する過剰感染症候群となり、幼虫が多臓器に入ると播種性糞線虫症になる。最大の危険因子は喘息や COPD の増悪などに使う高用量の副腎皮質ステロイドである。肺では咳嗽・喘鳴・呼吸困難・喀血・呼吸不全とびまん性浸潤影がみられ、腸管から運ばれたグラム陰性菌による菌血症・敗血症や髄膜炎を合併し、未治療の死亡率は90%近くに達しうる。
+
+- 条件：region: US／guideline: CDC
+- 鑑別・補足：気管支肺胞洗浄液の湿潤標本で幼虫がみえることが多い
+- よくある誤解：喘鳴に対して副腎皮質ステロイドを増量しても、糞線虫症は悪化しない
+- 不確実性：HTLV-1 感染や臓器移植などの他の危険因子、免疫抑制前のスクリーニング、治療薬は今回取得したページに記載がない
+- 出典：Centers for Disease Control and Prevention. Clinical Overview of Strongyloides（最終更新 2026-02-11）　[リンク](https://www.cdc.gov/strongyloides/hcp/clinical-overview/index.html)（区分 GOV_US）
+- 出題基準：医学各論 Ⅳ-1-F-①（吸虫症、線虫症、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-057&card_id=RI-057&version=55e7d0394b)　（版 `55e7d0394b`）
+
+**[ここまでの 2 件（RI-056〜RI-057）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-056%E3%80%9CRI-057&cards=RI-056%20dc2370b989%0ARI-057%2055e7d0394b)**
 
 ---
 

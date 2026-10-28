@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-28
 
-全 38 件のうち、監修済み 0 件。
+全 54 件のうち、監修済み 0 件。
 
 ## 肺癌
 
@@ -177,7 +177,140 @@
 - 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-031&card_id=LC-031&version=613b26bd0a)　（版 `613b26bd0a`）
 
-**[ここまでの 6 件（LC-011〜LC-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LC-011%E3%80%9CLC-031&cards=LC-011%20d6feb4276b%0ALC-012%2083b1989e33%0ALC-013%20e006a3fb56%0ALC-014%209d30ff0fad%0ALC-015%2014e4f59a91%0ALC-031%20613b26bd0a)**
+### LC-040　下書き（出典の照合前）
+
+> 未治療の進行非小細胞肺癌でPD-L1の腫瘍割合スコア（TPS）が50%以上、EGFR感作性変異とALK転座がない患者では、ペムブロリズマブ単剤はプラチナ併用化学療法より無増悪生存期間を延長し（中央値10.3か月対6.0か月、ハザード比0.50）、全生存期間も延長した（ハザード比0.60）。グレード3〜5の治療関連有害事象は26.6%対53.3%とペムブロリズマブ群で少なかった。
+
+- 条件：study: KEYNOTE-024（国際共同第III相試験、305例）／region: 国際共同
+- よくある誤解：PD-L1の発現率にかかわらず、一次治療はペムブロリズマブ単剤でよい
+- 不確実性：ペムブロリズマブの国内承認・保険適用の範囲は本調査では確認していない。
+- 出典：Reck M, Rodríguez-Abreu D, Robinson AG, et al. Pembrolizumab versus Chemotherapy for PD-L1-Positive Non-Small-Cell Lung Cancer. N Engl J Med 2016;375:1823-1833　[DOI 10.1056/NEJMoa1606774](https://doi.org/10.1056/NEJMoa1606774)　[PMID 27718847](https://pubmed.ncbi.nlm.nih.gov/27718847/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-040&card_id=LC-040&version=c9c9d22aeb)　（版 `c9c9d22aeb`）
+
+### LC-041　下書き（出典の照合前）
+
+> KEYNOTE-024の5年追跡では、ペムブロリズマブ群の全生存期間中央値は26.3か月、化学療法群は13.4か月（ハザード比0.62）、5年生存割合は31.9%対16.3%であり、化学療法群から抗PD-1/PD-L1療法への実効クロスオーバーが66.0%あったにもかかわらず長期の生存優位が保たれた。ペムブロリズマブを35サイクル（約2年）完遂した39例では、82.1%がデータカットオフ時点で生存していた。
+
+- 条件：study: KEYNOTE-024の5年追跡報告（追跡中央値59.9か月）／region: 国際共同
+- 不確実性：ペムブロリズマブの国内承認・保険適用の範囲は本調査では確認していない。
+- 出典：Reck M, Rodríguez-Abreu D, Robinson AG, et al. Five-Year Outcomes With Pembrolizumab Versus Chemotherapy for Metastatic Non-Small-Cell Lung Cancer With PD-L1 Tumor Proportion Score ≥ 50%. J Clin Oncol 2021;39:2339-2349　[DOI 10.1200/JCO.21.00174](https://doi.org/10.1200/JCO.21.00174)　[PMID 33872070](https://pubmed.ncbi.nlm.nih.gov/33872070/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-041&card_id=LC-041&version=ca50a65601)　（版 `ca50a65601`）
+
+### LC-042　下書き（出典の照合前）
+
+> 切除不能III期非小細胞肺癌で同時化学放射線療法後に増悪しなかった患者では、地固め療法としてのデュルバルマブはプラセボより無増悪生存期間を延長した（中央値16.8か月対5.6か月、ハザード比0.52）。奏効率は28.4%対16.0%、死亡または遠隔転移までの期間の中央値は23.2か月対14.6か月だった。
+
+- 条件：study: PACIFIC（国際共同第III相試験）／region: 国際共同
+- よくある誤解：化学放射線療法で増悪した症例にも地固め療法として使える（対象は増悪しなかった症例）
+- 不確実性：デュルバルマブの国内承認・保険適用の範囲は本調査では確認していない。全生存期間の長期成績は5年追跡報告（LC-043）を参照。
+- 出典：Antonia SJ, Villegas A, Daniel D, et al. Durvalumab after Chemoradiotherapy in Stage III Non-Small-Cell Lung Cancer. N Engl J Med 2017;377:1919-1929　[DOI 10.1056/NEJMoa1709937](https://doi.org/10.1056/NEJMoa1709937)　[PMID 28885881](https://pubmed.ncbi.nlm.nih.gov/28885881/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-042&card_id=LC-042&version=dbf73fbc00)　（版 `dbf73fbc00`）
+
+### LC-043　下書き（出典の照合前）
+
+> PACIFIC試験の約5年追跡でもデュルバルマブ地固め療法の優位は持続し、全生存期間中央値は47.5か月対29.1か月（ハザード比0.72）、5年生存割合は42.9%対33.4%、無増悪生存期間中央値は16.9か月対5.6か月（ハザード比0.55）、5年無増悪生存割合は33.1%対19.0%だった。
+
+- 条件：study: PACIFICの5年追跡報告（713例が無作為化され、709例が治療を受けた）／region: 国際共同
+- 不確実性：本報告は更新された探索的解析と位置づけられている。デュルバルマブの国内承認・保険適用の範囲は本調査では確認していない。
+- 出典：Spigel DR, Faivre-Finn C, Gray JE, et al. Five-Year Survival Outcomes From the PACIFIC Trial: Durvalumab After Chemoradiotherapy in Stage III Non-Small-Cell Lung Cancer. J Clin Oncol 2022;40:1301-1311　[DOI 10.1200/JCO.21.01308](https://doi.org/10.1200/JCO.21.01308)　[PMID 35108059](https://pubmed.ncbi.nlm.nih.gov/35108059/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-043&card_id=LC-043&version=819c7499b6)　（版 `819c7499b6`）
+
+**[ここまでの 10 件（LC-011〜LC-043）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LC-011%E3%80%9CLC-043&cards=LC-011%20d6feb4276b%0ALC-012%2083b1989e33%0ALC-013%20e006a3fb56%0ALC-014%209d30ff0fad%0ALC-015%2014e4f59a91%0ALC-031%20613b26bd0a%0ALC-040%20c9c9d22aeb%0ALC-041%20ca50a65601%0ALC-042%20dbf73fbc00%0ALC-043%20819c7499b6)**
+
+---
+
+### LC-044　下書き（出典の照合前）
+
+> 腫瘍径2cm以下で充実成分優位（CTR 0.5超）の末梢型臨床病期IA非小細胞肺癌では、区域切除は肺葉切除に対して全生存期間で劣らず、むしろ優れていた（5年生存割合94.3%対91.1%、ハザード比0.663）。無再発生存期間は両群でほぼ同等（5年88.0%対87.9%）だったが、局所再発は区域切除群で多かった（約11%対約5%）。
+
+- 条件：study: JCOG0802/WJOG4607L（国内多施設第III相試験、1106例、追跡中央値7.3年）／region: 日本
+- よくある誤解：すりガラス成分優位の病変にもこの結果がそのまま当てはまる（対象はCTR 0.5超の充実成分優位病変）
+- 不確実性：術後1年のFEV1低下の群間差は3.5%で、事前に定められた臨床的意義の目安（10%）には届かなかった。結果は腫瘍径2cm以下・CTR 0.5超の末梢病変に限られ、それ以外への外挿はできない。
+- 出典：Saji H, Okada M, Tsuboi M, et al. Segmentectomy versus lobectomy in small-sized peripheral non-small-cell lung cancer (JCOG0802/WJOG4607L): a multicentre, open-label, phase 3, randomised, controlled, non-inferiority trial. Lancet 2022;399:1607-1617　[DOI 10.1016/S0140-6736(21)02333-3](https://doi.org/10.1016/S0140-6736(21)02333-3)　[PMID 35461558](https://pubmed.ncbi.nlm.nih.gov/35461558/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-044&card_id=LC-044&version=4cea38e46f)　（版 `4cea38e46f`）
+
+### LC-045　下書き（出典の照合前）
+
+> 腫瘍径2cm以下の末梢型で臨床病期T1aN0の非小細胞肺癌で、術中にリンパ節転移陰性が確認された患者では、肺葉切除より小さい切除（部分切除）は肺葉切除に対して無病生存期間で劣らなかった（ハザード比1.01）。5年無病生存割合は63.6%対64.1%、5年生存割合は80.3%対78.9%で、局所領域・全身再発の頻度に大きな差はなく、術後6か月のFEV1（予測値に対する割合）の群間差は2ポイントと部分切除群が有利だった。
+
+- 条件：study: CALGB 140503（国際共同第III相非劣性試験、697例、追跡中央値7年）／region: 国際共同
+- 不確実性：部分切除群の術式内訳（区域切除と楔状切除の割合）は抄録に記載なし。区域切除のみを扱ったJCOG0802（LC-044）とは対象と術式が異なる。
+- 出典：Altorki N, Wang X, Kozono D, et al. Lobar or Sublobar Resection for Peripheral Stage IA Non-Small-Cell Lung Cancer. N Engl J Med 2023;388:489-498　[DOI 10.1056/NEJMoa2212083](https://doi.org/10.1056/NEJMoa2212083)　[PMID 36780674](https://pubmed.ncbi.nlm.nih.gov/36780674/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-045&card_id=LC-045&version=7fa1db88f9)　（版 `7fa1db88f9`）
+
+### LC-046　下書き（出典の照合前）
+
+> 未治療の進行ALK陽性非小細胞肺癌では、アレクチニブはクリゾチニブより無増悪生存期間を延長した（独立評価委員会評価の中央値25.7か月対10.4か月、ハザード比0.50）。中枢神経系の進行も抑えられ（原因特異的ハザード比0.16、12か月時点の累積CNS進行率9.4%対41.4%）、奏効率は82.9%対75.5%、グレード3〜5の有害事象は41%対50%とアレクチニブ群で少なかった。
+
+- 条件：study: ALEX（国際共同第III相試験、303例、無症候性の中枢神経系病変のある患者を含む）／region: 国際共同
+- よくある誤解：脳転移があるとALK阻害薬は使えない（本試験には無症候性の中枢神経系病変のある患者も登録された）
+- 不確実性：アレクチニブの国内承認用量・保険適用の範囲は本調査では確認していない。
+- 出典：Peters S, Camidge DR, Shaw AT, et al. Alectinib versus Crizotinib in Untreated ALK-Positive Non-Small-Cell Lung Cancer. N Engl J Med 2017;377:829-838　[DOI 10.1056/NEJMoa1704795](https://doi.org/10.1056/NEJMoa1704795)　[PMID 28586279](https://pubmed.ncbi.nlm.nih.gov/28586279/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-046&card_id=LC-046&version=e6df0ad65f)　（版 `e6df0ad65f`）
+
+### LC-047　下書き（出典の照合前）
+
+> 未治療の進行ALK陽性非小細胞肺癌では、第三世代ALK阻害薬のロルラチニブはクリゾチニブより無増悪生存期間を大きく延長した（12か月時点で増悪なく生存していた割合78%対39%、ハザード比0.28）。奏効率は76%対58%、測定可能な脳転移のある患者での頭蓋内奏効率は82%対23%で、ロルラチニブ群では71%に頭蓋内完全奏効がみられた。一方、グレード3〜4の有害事象（主に脂質異常）は72%対56%とロルラチニブ群で多かった。
+
+- 条件：study: CROWN（国際共同第III相試験、296例）／region: 国際共同
+- 不確実性：本報告は計画された中間解析の結果である。ロルラチニブの国内承認・保険適用の範囲は本調査では確認していない。
+- 出典：Shaw AT, Bauer TM, de Marinis F, et al. First-Line Lorlatinib or Crizotinib in Advanced ALK-Positive Lung Cancer. N Engl J Med 2020;383:2018-2029　[DOI 10.1056/NEJMoa2027187](https://doi.org/10.1056/NEJMoa2027187)　[PMID 33207094](https://pubmed.ncbi.nlm.nih.gov/33207094/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-047&card_id=LC-047&version=59e17fd340)　（版 `59e17fd340`）
+
+### LC-048　下書き（出典の照合前）
+
+> 小細胞肺癌は限局型と進展型に分ける方法が広く使われてきたが、国際肺癌学会のデータベースに登録された5002例の解析では、TNM分類のTカテゴリーとNカテゴリーごとに生存期間の差が確認され、第8版でも小細胞肺癌にTNM病期分類を用いることが支持された。転移については、脳のみの単一臓器転移が他の単一臓器転移より予後がよい傾向がみられた。
+
+- 条件：study: IASLC Lung Cancer Staging Project（1999〜2010年登録の小細胞肺癌5002例の生存解析）／region: 国際
+- よくある誤解：小細胞肺癌ではTNM分類は使わず、限局型・進展型の区別だけでよい
+- 不確実性：限局型・進展型の定義そのものは本資料の主対象ではなく、別資料での確認が要る。脳のみの単一臓器転移の予後差が解剖学的進展度によるのか治療選択の差によるのかは、本論文でも未確定とされている。
+- 出典：Nicholson AG, Chansky K, Crowley J, et al. The International Association for the Study of Lung Cancer Lung Cancer Staging Project: Proposals for the Revision of the Clinical and Pathologic Staging of Small Cell Lung Cancer in the Forthcoming Eighth Edition of the TNM Classification for Lung Cancer. J Thorac Oncol 2016;11:300-311　[DOI 10.1016/j.jtho.2015.10.008](https://doi.org/10.1016/j.jtho.2015.10.008)　[PMID 26723244](https://pubmed.ncbi.nlm.nih.gov/26723244/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-048&card_id=LC-048&version=8b652cd616)　（版 `8b652cd616`）
+
+### LC-049　下書き（出典の照合前）
+
+> 進展型小細胞肺癌の一次治療では、プラチナ製剤とエトポシドの併用にアテゾリズマブを上乗せすると全生存期間が延長した（中央値12.3か月対10.3か月、ハザード比0.70）。無増悪生存期間も5.2か月対4.3か月（ハザード比0.77）と延長し、1年生存割合は51.7%対38.2%だった。
+
+- 条件：study: IMpower133（国際共同第III相試験、403例）／region: 国際共同
+- 不確実性：アテゾリズマブの国内承認・保険適用の範囲は本調査では確認していない。
+- 出典：Horn L, Mansfield AS, Szczęsna A, et al. First-Line Atezolizumab plus Chemotherapy in Extensive-Stage Small-Cell Lung Cancer. N Engl J Med 2018;379:2220-2229　[DOI 10.1056/NEJMoa1809064](https://doi.org/10.1056/NEJMoa1809064)　[PMID 30280641](https://pubmed.ncbi.nlm.nih.gov/30280641/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-049&card_id=LC-049&version=c3afeed999)　（版 `c3afeed999`）
+
+### LC-053　下書き（出典の照合前）
+
+> 限局型小細胞肺癌では、エトポシドとシスプラチンに胸部放射線療法を併用する集学的治療が標準で、胸部放射線療法の追加は化学療法単独より絶対生存率を約5%改善する。治療に反応した例への予防的全脳照射は脳転移のリスクを半分以上減らし、メタ解析で3年全生存率を15%から21%に改善した。
+
+- 条件：region: US／guideline: NCI PDQ（2025年5月更新）
+- 鑑別・補足：25 Gy/10回を超える予防的全脳照射の線量は、長期生存を改善しなかった／長期生存者では中枢神経機能の障害が多い
+- よくある誤解：小細胞肺癌は化学療法がよく効くので、限局型でも胸部放射線療法は不要である
+- 不確実性：予防的全脳照射のメタ解析と各試験の一次資料は未照合（PDQ の記載による）
+- 出典：National Cancer Institute. Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version（最終更新 2025-05-14）　[リンク](https://www.cancer.gov/types/lung/hp/small-cell-lung-treatment-pdq)（区分 GOV_US）
+- 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-04 (id: JkxnuRA)；TBL-01-00-643 (id: JlvnmcI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-053&card_id=LC-053&version=56fd655aa0)　（版 `56fd655aa0`）
+
+### LC-054　下書き（出典の照合前）
+
+> ADRIATIC 試験では、化学放射線療法の後に進行のない限局型小細胞肺癌で、デュルバルマブによる地固め療法（264人）はプラセボ（266人）より全生存期間（中央値55.9か月対33.4か月、ハザード比0.73）と無増悪生存期間（16.6か月対9.2か月、ハザード比0.76）を延長した。Grade 3〜4の肺臓炎・放射線肺臓炎は3.1%対2.6%だった。
+
+- 条件：region: 国際（多施設共同試験）
+- 鑑別・補足：デュルバルマブとトレメリムマブの併用群（200人）も設けられていた
+- よくある誤解：限局型小細胞肺癌では、化学放射線療法の後に維持療法を行っても生存は延びない
+- 不確実性：PMID は未照合。国内ではデュルバルマブの効能に「限局型小細胞肺癌における根治的化学放射線療法後の維持療法」が含まれている（PMDA 審査報告書、2025年8月）
+- 出典：Cheng Y, Spigel DR, Cho BC, et al. Durvalumab after Chemoradiotherapy in Limited-Stage Small-Cell Lung Cancer. N Engl J Med 2024（ADRIATIC）　[DOI 10.1056/NEJMoa2404873](https://doi.org/10.1056/NEJMoa2404873)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-04 (id: JkxnuRA)；TBL-01-00-643 (id: JlvnmcI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-054&card_id=LC-054&version=139f338f12)　（版 `139f338f12`）
+
+**[ここまでの 8 件（LC-044〜LC-054）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LC-044%E3%80%9CLC-054&cards=LC-044%204cea38e46f%0ALC-045%207fa1db88f9%0ALC-046%20e6df0ad65f%0ALC-047%2059e17fd340%0ALC-048%208b652cd616%0ALC-049%20c3afeed999%0ALC-053%2056fd655aa0%0ALC-054%20139f338f12)**
 
 ---
 
@@ -391,7 +524,28 @@
 - 出題基準：医学各論 Ⅳ-6-D-①（胸膜中皮腫、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-644 (id: JlvnmcM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-032&card_id=LC-032&version=cb858a7aa3)　（版 `cb858a7aa3`）
 
-**[ここまでの 3 件（LC-029〜LC-032）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LC-029%E3%80%9CLC-032&cards=LC-029%20056f6be8be%0ALC-030%202f63e4cf39%0ALC-032%20cb858a7aa3)**
+### LC-050　下書き（出典の照合前）
+
+> 未治療の切除不能な悪性胸膜中皮腫では、ニボルマブとイピリムマブの併用はプラチナ製剤とペメトレキセドによる化学療法より全生存期間を延長した（中央値18.1か月対14.1か月、ハザード比0.74）。
+
+- 条件：study: CheckMate 743（国際共同第III相試験、605例、ECOG PS 0〜1、追跡中央値29.7か月）／region: 国際共同
+- 不確実性：ニボルマブとイピリムマブ併用の国内承認・保険適用の範囲は本調査では確認していない。
+- 出典：Baas P, Scherpereel A, Nowak AK, et al. First-line nivolumab plus ipilimumab in unresectable malignant pleural mesothelioma (CheckMate 743): a multicentre, randomised, open-label, phase 3 trial. Lancet 2021;397:375-386　[DOI 10.1016/S0140-6736(20)32714-8](https://doi.org/10.1016/S0140-6736(20)32714-8)　[PMID 33485464](https://pubmed.ncbi.nlm.nih.gov/33485464/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-6-D-①（胸膜中皮腫、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-644 (id: JlvnmcM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-050&card_id=LC-050&version=bac212ef05)　（版 `bac212ef05`）
+
+### LC-051　下書き（出典の照合前）
+
+> CheckMate 743の追跡中央値43.1か月の報告でもニボルマブとイピリムマブ併用の優位は持続し、全生存期間中央値は18.1か月対14.1か月（ハザード比0.73）、3年生存割合は23%対15%、3年無増悪生存割合は14%対1%だった。奏効率は40%対44%と化学療法群がやや高かったが、3年時点で奏効が持続していたのは併用群の奏効例の28%に対し化学療法群では0%だった。
+
+- 条件：study: CheckMate 743の3年追跡報告（最低3年の追跡）／region: 国際共同
+- よくある誤解：奏効率が高い治療のほうが長期生存もよい（本試験では奏効率は化学療法群がやや高かったが、生存と奏効の持続は併用群が優れた）
+- 不確実性：ニボルマブとイピリムマブ併用の国内承認・保険適用の範囲は本調査では確認していない。
+- 出典：Peters S, Scherpereel A, Cornelissen R, et al. First-line nivolumab plus ipilimumab versus chemotherapy in patients with unresectable malignant pleural mesothelioma: 3-year outcomes from CheckMate 743. Ann Oncol 2022;33:488-499　[DOI 10.1016/j.annonc.2022.01.074](https://doi.org/10.1016/j.annonc.2022.01.074)　[PMID 35124183](https://pubmed.ncbi.nlm.nih.gov/35124183/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-6-D-①（胸膜中皮腫、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-644 (id: JlvnmcM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-051&card_id=LC-051&version=088213430e)　（版 `088213430e`）
+
+**[ここまでの 5 件（LC-029〜LC-051）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LC-029%E3%80%9CLC-051&cards=LC-029%20056f6be8be%0ALC-030%202f63e4cf39%0ALC-032%20cb858a7aa3%0ALC-050%20bac212ef05%0ALC-051%20088213430e)**
 
 ---
 
@@ -466,6 +620,35 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-038&card_id=LC-038&version=bd7cfc7990)　（版 `bd7cfc7990`）
 
 **[ここまでの 2 件（LC-037〜LC-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LC-037%E3%80%9CLC-038&cards=LC-037%208c23521e15%0ALC-038%20bd7cfc7990)**
+
+---
+
+## 気管・気管支腫瘍
+
+### LC-039　下書き（出典の照合前）
+
+> 原発性気管・気管支腫瘍は呼吸器腫瘍の約0.2%を占めるまれな腫瘍で、症状が喘息や気管支炎と紛らわしく誤診されやすい。診断にはCTと気管支鏡が最も有用で、切除可能であれば外科切除が最も有効な治療であり、切除不能例では放射線治療・化学療法・気管支鏡下インターベンションが補完的に用いられる。標準治療のコンセンサスは確立していない。
+
+- 条件：study: 原発性気管気管支腫瘍の診断と治療に関するレビュー／region: 国際
+- 鑑別・補足：喘息・気管支炎（症状が類似し、誤診の原因となる）
+- 不確実性：本カードはレビュー論文に基づく。国内ガイドラインにおける位置づけは未確認。
+- 出典：Shu C, Liu YJ, Zheng KF, et al. Diagnosis and Treatment of Primary Tracheobronchial Tumors. Cancer Med 2025;14(9):e70893　[DOI 10.1002/cam4.70893](https://doi.org/10.1002/cam4.70893)　[PMID 40289301](https://pubmed.ncbi.nlm.nih.gov/40289301/)（区分 OPEN）
+- 出題基準：医学各論 Ⅳ-6-B-②（気管・気管支腫瘍、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-039&card_id=LC-039&version=f5e4d4788b)　（版 `f5e4d4788b`）
+
+### LC-052　下書き（出典の照合前）
+
+> 気管は、年齢、体格、頸部の可動性などにより、約半分まで安全に切除して再建できるとされる。単施設270例の切除成績では、5年生存率が腺様囊胞癌52%、扁平上皮癌39%（10年ではそれぞれ29%、18%）だった。
+
+- 条件：region: global
+- 鑑別・補足：脊柱後弯のある高齢者では2 cm程度しか切除できないこともあり、頸部が長く可動性のよい若年者では6 cm以上切除できることがある
+- よくある誤解：腺様囊胞癌は進行が緩やかなので、切除しなくても扁平上皮癌より予後がよい
+- 不確実性：生存率は Gaissert ら（2004年）の単施設研究の数値をレビューから引いたもので、一次資料は未照合（二次資料経由）
+- 出典：Madariaga MLL, Gaissert HA. Overview of malignant tracheal tumors. Ann Cardiothorac Surg 2018;7(2):244-254　[DOI 10.21037/acs.2018.03.04](https://doi.org/10.21037/acs.2018.03.04)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-6-B-②（気管・気管支腫瘍、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-052&card_id=LC-052&version=f06a4fa878)　（版 `f06a4fa878`）
+
+**[ここまでの 2 件（LC-039〜LC-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LC-039%E3%80%9CLC-052&cards=LC-039%20f5e4d4788b%0ALC-052%20f06a4fa878)**
 
 ---
 

@@ -1853,3 +1853,149 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RI-054
+  domain: RI
+  subdomain: 肺吸虫症
+  assertion:
+    plain_statement_ja: 肺吸虫症は、喀痰中の虫卵の証明で診断できた例と、便中の虫卵でのみ証明できた例があり、プラジカンテル75 mg/kg/日を2日間経口投与した報告では、投与を完遂した7例中6例で90日までに喀痰と便の虫卵が陰性化し、残る1例も120日までに陰性化した。
+    condition:
+      study: 1985年の症例シリーズ（8例）と総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-530
+    source: 'Johnson RJ, Jong EC, Dunning SB, Carberry WL, Minshew BH. Paragonimiasis: diagnosis and the use of praziquantel in treatment. Rev Infect Dis. 1985;7(2):200-206'
+    doi: 10.1093/clinids/7.2.200
+    pmid: '4001715'
+    pmcid: null
+    url: https://doi.org/10.1093/clinids/7.2.200
+    source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 1985年の報告であり、現在の国内の標準治療・承認状況は確認していない。出典のライセンスも未確認のため、取り込み時に確認が必要。
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-1-F-①（吸虫症、線虫症、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: RI-055
+  domain: RI
+  subdomain: 縦隔炎
+  assertion:
+    plain_statement_ja: 下行性壊死性縦隔炎は、口腔咽頭の感染が深頸部の間隙を下行して縦隔へ広がる重篤な縦隔炎で、死亡率は約20%とされる。治療は集中治療下での抗菌薬投与と頸部の感染源の除去が前提で、縦隔の進展範囲に応じた適切な外科的ドレナージが基盤となり、外科・麻酔科・耳鼻咽喉科・歯科口腔外科などによる集学的治療を要する。
+    condition: null
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-531
+    source: Šafránek J. Descending necrotizing mediastinitis – a surgical view. Rozhledy v chirurgii. 2024;103(12):502-504
+    doi: 10.48095/ccrvch2024502
+    pmid: '40221899'
+    pmcid: null
+    url: https://doi.org/10.48095/ccrvch2024502
+    source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 単一施設の実践を含む総説であり、死亡率約20%はその総説の記載に基づく。出典のライセンスは未確認のため、取り込み時に確認が必要。
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-244 (id: Jlvnl1o)'
+    kokushi: 医学各論 Ⅳ-1-G-③（縦隔炎、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: RI-056
+  domain: RI
+  subdomain: 吸虫症、線虫症
+  assertion:
+    plain_statement_ja: 肺吸虫症は、淡水産のカニやザリガニを生、加熱不十分、または酢漬け・塩漬けで食べて感染する。人で最も多い種はウェステルマン肺吸虫で、東南アジアと日本に分布する。食べた幼虫（メタセルカリア）は十二指腸で脱囊し、腸管壁と腹膜を貫き、横隔膜を通って肺に入って成虫になり、感染から65〜90日で虫卵が出始める。
+    condition:
+      region: US
+      guideline: CDC
+    differential:
+    - 急性期（幼虫の移行期）には下痢・腹痛・発熱・咳嗽・蕁麻疹・肝脾腫・好酸球増多がみられ、慢性期には咳嗽、着色した痰、血痰と胸部画像の異常が続く
+    - 脳や筋肉に迷入した虫は虫卵を体外に出せないが、脳への迷入は重症になる
+    common_misconception: 肺吸虫は経気道的に吸い込んで感染する
+  provenance:
+    source_ref: SRC-535
+    source: 'Centers for Disease Control and Prevention. DPDx: Paragonimiasis（最終更新 2024-06-06）'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cdc.gov/dpdx/paragonimiasis/index.html
+    source_license: 米国連邦政府の著作物（CDC）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 日本に分布する他の種（宮崎肺吸虫など）は出典に記載がない
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-1-F-①（吸虫症、線虫症、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 第14回の試行（成果物B）から採用。ID を RI-054→RI-056、出典を SRC-530→SRC-535 に振り直した（主張文・数値は変更なし）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: RI-057
+  domain: RI
+  subdomain: 吸虫症、線虫症
+  assertion:
+    plain_statement_ja: 糞線虫症では、免疫の低下で自家感染が加速すると、多数の幼虫が消化管と肺を移動する過剰感染症候群となり、幼虫が多臓器に入ると播種性糞線虫症になる。最大の危険因子は喘息や COPD の増悪などに使う高用量の副腎皮質ステロイドである。肺では咳嗽・喘鳴・呼吸困難・喀血・呼吸不全とびまん性浸潤影がみられ、腸管から運ばれたグラム陰性菌による菌血症・敗血症や髄膜炎を合併し、未治療の死亡率は90%近くに達しうる。
+    condition:
+      region: US
+      guideline: CDC
+    differential:
+    - 気管支肺胞洗浄液の湿潤標本で幼虫がみえることが多い
+    common_misconception: 喘鳴に対して副腎皮質ステロイドを増量しても、糞線虫症は悪化しない
+  provenance:
+    source_ref: SRC-536
+    source: Centers for Disease Control and Prevention. Clinical Overview of Strongyloides（最終更新 2026-02-11）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cdc.gov/strongyloides/hcp/clinical-overview/index.html
+    source_license: 米国連邦政府の著作物（CDC）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: HTLV-1 感染や臓器移植などの他の危険因子、免疫抑制前のスクリーニング、治療薬は今回取得したページに記載がない
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-1-F-①（吸虫症、線虫症、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 第14回の試行（成果物B）から採用。ID を RI-056→RI-057、出典を SRC-532→SRC-536 に振り直した（主張文・数値は変更なし）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）

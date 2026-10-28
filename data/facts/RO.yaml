@@ -1258,3 +1258,185 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RO-037
+  domain: RO
+  subdomain: 気管・気管支の狭窄・閉塞
+  assertion:
+    plain_statement_ja: 非悪性の気管狭窄60例を集計した後方視研究では、原因の93.3%（56例）が挿管後で、平均の挿管期間は13.8日、狭窄部位は気管の上部3分の1が81.7%を占め、外科的な切除と端々吻合で良好な転帰を得た割合は89.1%で、気管支鏡下の拡張術の75.0%を上回った。
+    condition:
+      region: エチオピアの3施設
+      study: 2018〜2023年に治療された60例の後方視研究
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-532
+    source: 'Gulilat D, Genetu A, Kejela S, Kassa S, Bekele A, Tizazu A. Nonmalignant tracheal stenosis: presentation, management and outcome in limited resources setting. J Cardiothorac Surg. 2024;19(1):21'
+    doi: 10.1186/s13019-024-02480-w
+    pmid: '38263174'
+    pmcid: PMC10804803
+    url: https://doi.org/10.1186/s13019-024-02480-w
+    source_license: CC BY 4.0（誌面の Open Access 表示と Crossref の license 欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 資源の限られた環境での単一国の後方視研究であり、日本の診療環境への一般化は確認していない。
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-2-A-⑤（気管・気管支の狭窄・閉塞、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: RO-038
+  domain: RO
+  subdomain: 肺分画症
+  assertion:
+    plain_statement_ja: 成人の肺分画症の手術例97例では、病変の96例が脊椎に近い下葉にあり、栄養動脈の起始は胸部大動脈が87.4%、腹部大動脈が10.5%で、肺葉内型が90.7%、肺葉外型が9.3%を占めた。CTでの形態は、腫瘤状が50.5%と最も多く、次いで嚢胞状が20.6%だった。
+    condition:
+      region: 中国の単一施設
+      study: 2011〜2021年に治療された成人の手術例97例の後方視研究
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-533
+    source: 'Ren S, Yang L, Xiao Y, Tong Z, Wang L, Hu Y. Pulmonary sequestration in adult patients: a single-center retrospective study. Respir Res. 2023;24(1):13'
+    doi: 10.1186/s12931-023-02320-w
+    pmid: '36635696'
+    pmcid: PMC9837954
+    url: https://doi.org/10.1186/s12931-023-02320-w
+    source_license: CC BY 4.0（誌面の Open Access 表示と Crossref の license 欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 手術に至った成人例のみの集計であり、無症状のまま経過する例や未手術例を含めた全体の分布とは異なる可能性がある。
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-2-B-③（肺分画症、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: RO-039
+  domain: RO
+  subdomain: 肺損傷
+  assertion:
+    plain_statement_ja: 肺挫傷は鈍的胸部外傷の25〜35%に生じ、肺組織の裂傷を伴わずに肺胞の毛細血管が損傷して血液や液体が肺組織内にたまり、ガス交換が障害される病態である。治療は支持療法が中心で、酸素投与と、適応がある場合の人工呼吸を行う。
+    condition: null
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-534
+    source: 'Ganie FA, Lone H, Lone GN, Wani ML, Singh S, Dar AM, Wani N, Wani SN, Nazeer N. Lung Contusion: A Clinico-Pathological Entity with Unpredictable Clinical Course. Bull Emerg Trauma. 2013;1(1):7-16'
+    doi: null
+    pmid: '27162815'
+    pmcid: PMC4771236
+    url: null
+    source_license: ライセンス表示を確認できず（誌面に CC の表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: DOI は誌面と抄録ページの表示で確認できなかったため null とした。出典のライセンスも未確認。本文中で引用されていた死亡率10〜25%は二次引用のため、主張文には採用していない。
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-2-D-②（肺損傷、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: RO-040
+  domain: RO
+  subdomain: 気管・気管支の狭窄・閉塞
+  assertion:
+    plain_statement_ja: 中枢気道狭窄では、労作時の呼吸困難は内腔が約8 mmまで、安静時の呼吸困難は5 mm未満まで狭くなって現れるとされ、初発症状は呼吸困難と喘鳴（stridor）が約半数を占める。診断には気管用の撮像条件の胸部 CT が有用である（感度約97%）。治療に使う気道ステントのうち、金属ステントは肉芽形成や破損の問題から良性狭窄には勧められず（2005年の米国 FDA の警告）、シリコンステントは抜去や位置の調整がしやすいが、移動や痰の貯留が起こりやすい。
+    condition:
+      region: global
+      guideline: null
+    differential:
+    - 良性の気管狭窄への CO2 レーザー治療の成功率は、Myer-Cotton 分類のⅠ度92%、Ⅱ度46%、Ⅲ度13%と、狭窄が高度なほど低い
+    common_misconception: 気管の内腔が半分程度に狭くなれば、必ず安静時にも呼吸困難が出る
+  provenance:
+    source_ref: SRC-537
+    source: 'Guedes F, Branquinho MV, Sousa AC, et al. Central airway obstruction: is it time to move forward? BMC Pulm Med 2022;22:68'
+    doi: 10.1186/s12890-022-01862-x
+    pmid: null
+    pmcid: null
+    url: https://bmcpulmmed.biomedcentral.com/track/pdf/10.1186/s12890-022-01862-x
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 叙述的レビューに引用された研究の数値で、一次資料は未照合（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-02-06-024 (id: JlAKpic)'
+    kokushi: 医学各論 Ⅳ-2-A-⑤（気管・気管支の狭窄・閉塞、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 第14回の試行（成果物B）から採用。ID を RO-038→RO-040、出典を SRC-534→SRC-537 に振り直した（主張文・数値は変更なし）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: RO-041
+  domain: RO
+  subdomain: 肺損傷
+  assertion:
+    plain_statement_ja: 肺挫傷による呼吸不全は受傷後24〜48時間で明らかになることが多い。胸部エックス線は受傷早期の感度が低く、CT のほうが早く検出でき重症度の評価にも用いられる。管理では肺保護換気（1回換気量 約6 mL/kg 予測体重、プラトー圧30 cmH2O未満）と、最初の72時間の過剰な水分負荷を避けることが勧められ、副腎皮質ステロイドや感染のない時期の予防的抗菌薬のルーチン投与は勧められない。
+    condition:
+      region: global
+      guideline: null
+    differential:
+    - 肋骨骨折の観血的固定は受傷後24〜72時間が望ましいとされ、肺挫傷は固定の禁忌とされない
+    - 肺挫傷は肋骨骨折を伴う非軍事的な胸部外傷の約20%にみられるとされる
+    common_misconception: 肺挫傷の範囲は来院時の胸部エックス線で正確に評価できる
+  provenance:
+    source_ref: SRC-546
+    source: 'Chau HS, Gutkin PM, Knight AW, Forrester JD. Contemporary management of pulmonary contusions: a narrative review. Curr Chall Thorac Surg 2025;7:26'
+    doi: 10.21037/ccts-25-18
+    pmid: null
+    pmcid: null
+    url: https://ccts.amegroups.org/article/view/104722/html
+    source_license: CC BY-NC-ND 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 叙述的レビューの記載。挫傷の容積20%以上で ARDS が82%（20%未満では22%）などの数値は引用元が別の研究で、一次資料は未照合（二次資料経由）
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-2-D-②（肺損傷、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 第14回の試行（成果物B）から採用。ID を RO-040→RO-041、出典を SRC-536→SRC-546 に振り直した（主張文・数値は変更なし）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）

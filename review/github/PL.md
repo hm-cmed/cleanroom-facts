@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-28
 
-全 27 件のうち、監修済み 0 件。
+全 30 件のうち、監修済み 0 件。
 
 ## 気胸
 
@@ -356,6 +356,51 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PL-027&card_id=PL-027&version=4c611c3a23)　（版 `4c611c3a23`）
 
 **[ここまでの 1 件（PL-027）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PL-027&cards=PL-027%204c611c3a23)**
+
+---
+
+## 横隔神経麻痺
+
+### PL-028　下書き（出典の照合前）
+
+> 症状のある一側横隔膜麻痺（横隔神経麻痺）では、吸気筋力の低下は麻痺側だけにとどまらない。努力肺活量（FVC）が予測値の80%未満の一側横隔膜麻痺27例（右9例・左18例）と健常対照20例の比較では、最大吸気圧は右麻痺群-57.4±16.9 cmH2O、左麻痺群-67.1±28.5 cmH2Oと、対照群の-103.1±30.4 cmH2Oより小さく、磁気刺激による横隔膜圧（PdiTw）も右麻痺群5.7±4 cmH2O、左麻痺群4.8±2.3 cmH2Oと対照群の15.3±5.7 cmH2Oより低かった。PdiTwは麻痺していない側を刺激しても低下しており、胃内圧の寄与が対照群の約50%に対して約30%と小さいことが関係していた。
+
+- よくある誤解：一側の横隔膜麻痺では、吸気筋力の低下は麻痺した側の横隔膜だけが原因である
+- 不確実性：対象は単一施設で FVC が予測値の80%未満の有症状の一側横隔膜麻痺に限られ、無症状例と両側麻痺は含まれない
+- 出典：Caleffi-Pereira M, et al. Unilateral diaphragm paralysis: a dysfunction restricted not just to one hemidiaphragm. BMC Pulm Med 2018;18:126　[DOI 10.1186/s12890-018-0698-1](https://doi.org/10.1186/s12890-018-0698-1)　[PMID 30068327](https://pubmed.ncbi.nlm.nih.gov/30068327/)（区分 OPEN）
+- 出題基準：医学各論 Ⅳ-7-C-④（横隔神経麻痺、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-246 (id: Jlvnl10)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PL-028&card_id=PL-028&version=069a7550b7)　（版 `069a7550b7`）
+
+### PL-030　下書き（出典の照合前）
+
+> 一側の横隔膜麻痺は無症状のことが多く胸部エックス線で偶然見つかるが、両側麻痺では起坐呼吸、安静時の呼吸困難、吸気時の腹部の奇異性運動が特徴で、レム睡眠中の低換気も起こる。原因には心臓手術を含む胸部手術、外傷、縦隔腫瘍による圧迫・浸潤、神経痛性筋萎縮症（Parsonage-Turner 症候群）、帯状疱疹、Guillain-Barré 症候群などがあり、特発性もある。透視下の sniff test は一側麻痺の評価に有用だが両側麻痺には向かず、臥位での肺活量の低下（一側で15%超、両側で30%超）も手がかりになる。
+
+- 条件：region: global
+- 鑑別・補足：超音波検査では、吸気時に横隔膜が尾側へ動かないことが麻痺を示す／症状のある両側麻痺には非侵襲的換気が用いられる
+- よくある誤解：横隔膜麻痺は一側でも必ず強い呼吸困難を起こす
+- 不確実性：臥位肺活量の閾値は表から読み取り（本文では15〜30%と幅で記載）。DOI とライセンスは未確認
+- 出典：Ricoy J, Rodríguez-Núñez N, Álvarez-Dobaño JM, et al. Diaphragmatic dysfunction. Pulmonology 2019　[リンク](https://www.journalpulmonology.org/en-diaphragmatic-dysfunction-articulo-S2531043718301624)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅳ-7-C-④（横隔神経麻痺、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-246 (id: Jlvnl10)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PL-030&card_id=PL-030&version=de4253b497)　（版 `de4253b497`）
+
+**[ここまでの 2 件（PL-028〜PL-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PL-028%E3%80%9CPL-030&cards=PL-028%20069a7550b7%0APL-030%20de4253b497)**
+
+---
+
+## 横隔膜弛緩症
+
+### PL-029　下書き（出典の照合前）
+
+> 横隔膜弛緩症は、横隔膜に解剖学的な欠損がないにもかかわらず片側の横隔膜が持続的に挙上する状態で、横隔膜ヘルニアとは区別される。先天性は横隔膜の筋構造の形成不全によるもの、後天性は横隔神経障害に続発するもので、横隔膜麻痺とは別の病態とされるが、画像所見や臨床像は似る。症状のある成人42例に縫縮術を行った検討では、左側が33例と多く、原因は特発性45.2%、外傷33.3%、手術21.4%で、術前の1秒量は予測値の62%、FVCは61%だった。縫縮術の1年後に1秒量は23%、FVCは24%改善し、呼吸困難のスコア（mMRC）は3.0から0.9に下がり、平均28か月の観察で再発はなかった。
+
+- 鑑別・補足：横隔膜ヘルニア、横隔膜麻痺
+- よくある誤解：横隔膜の挙上はすべて横隔膜ヘルニアによるものである
+- 不確実性：対象は単一施設で縫縮術を受けた有症状の成人42例に限られる後ろ向き検討で、無症状例の経過は示されていない
+- 出典：Evman S, et al. Comparison of Mid-Term Clinical Outcomes of Different Surgical Approaches in Symptomatic Diaphragmatic Eventration. Ann Thorac Cardiovasc Surg 2016;22:224-229　[DOI 10.5761/atcs.oa.16-00018](https://doi.org/10.5761/atcs.oa.16-00018)　[PMID 27076066](https://pubmed.ncbi.nlm.nih.gov/27076066/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅳ-7-C-⑤（横隔膜弛緩症、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PL-029&card_id=PL-029&version=c3bacf2d80)　（版 `c3bacf2d80`）
+
+**[ここまでの 1 件（PL-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PL-029&cards=PL-029%20c3bacf2d80)**
 
 ---
 

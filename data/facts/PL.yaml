@@ -943,3 +943,109 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: PL-028
+  domain: PL
+  subdomain: 横隔神経麻痺
+  assertion:
+    plain_statement_ja: 症状のある一側横隔膜麻痺（横隔神経麻痺）では、吸気筋力の低下は麻痺側だけにとどまらない。努力肺活量（FVC）が予測値の80%未満の一側横隔膜麻痺27例（右9例・左18例）と健常対照20例の比較では、最大吸気圧は右麻痺群-57.4±16.9 cmH2O、左麻痺群-67.1±28.5 cmH2Oと、対照群の-103.1±30.4 cmH2Oより小さく、磁気刺激による横隔膜圧（PdiTw）も右麻痺群5.7±4 cmH2O、左麻痺群4.8±2.3 cmH2Oと対照群の15.3±5.7 cmH2Oより低かった。PdiTwは麻痺していない側を刺激しても低下しており、胃内圧の寄与が対照群の約50%に対して約30%と小さいことが関係していた。
+    condition: null
+    differential: null
+    common_misconception: 一側の横隔膜麻痺では、吸気筋力の低下は麻痺した側の横隔膜だけが原因である
+  provenance:
+    source_ref: SRC-566
+    source: 'Caleffi-Pereira M, et al. Unilateral diaphragm paralysis: a dysfunction restricted not just to one hemidiaphragm. BMC Pulm Med 2018;18:126'
+    doi: 10.1186/s12890-018-0698-1
+    pmid: '30068327'
+    pmcid: PMC6090915
+    url: https://doi.org/10.1186/s12890-018-0698-1
+    source_license: CC BY 4.0（PMC の論文ページと Crossref の license 欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 対象は単一施設で FVC が予測値の80%未満の有症状の一側横隔膜麻痺に限られ、無症状例と両側麻痺は含まれない
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-246 (id: Jlvnl10)'
+    kokushi: 医学各論 Ⅳ-7-C-④（横隔神経麻痺、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: PL-029
+  domain: PL
+  subdomain: 横隔膜弛緩症
+  assertion:
+    plain_statement_ja: 横隔膜弛緩症は、横隔膜に解剖学的な欠損がないにもかかわらず片側の横隔膜が持続的に挙上する状態で、横隔膜ヘルニアとは区別される。先天性は横隔膜の筋構造の形成不全によるもの、後天性は横隔神経障害に続発するもので、横隔膜麻痺とは別の病態とされるが、画像所見や臨床像は似る。症状のある成人42例に縫縮術を行った検討では、左側が33例と多く、原因は特発性45.2%、外傷33.3%、手術21.4%で、術前の1秒量は予測値の62%、FVCは61%だった。縫縮術の1年後に1秒量は23%、FVCは24%改善し、呼吸困難のスコア（mMRC）は3.0から0.9に下がり、平均28か月の観察で再発はなかった。
+    condition: null
+    differential: 横隔膜ヘルニア、横隔膜麻痺
+    common_misconception: 横隔膜の挙上はすべて横隔膜ヘルニアによるものである
+  provenance:
+    source_ref: SRC-567
+    source: Evman S, et al. Comparison of Mid-Term Clinical Outcomes of Different Surgical Approaches in Symptomatic Diaphragmatic Eventration. Ann Thorac Cardiovasc Surg 2016;22:224-229
+    doi: 10.5761/atcs.oa.16-00018
+    pmid: '27076066'
+    pmcid: PMC5045849
+    url: https://doi.org/10.5761/atcs.oa.16-00018
+    source_license: 未確認（PMC と J-STAGE の論文ページ、Crossref のいずれにもライセンス表示なし。©2016 Annals of Thoracic and Cardiovascular Surgery）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 対象は単一施設で縫縮術を受けた有症状の成人42例に限られる後ろ向き検討で、無症状例の経過は示されていない
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-7-C-⑤（横隔膜弛緩症、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: PL-030
+  domain: PL
+  subdomain: 横隔神経麻痺
+  assertion:
+    plain_statement_ja: 一側の横隔膜麻痺は無症状のことが多く胸部エックス線で偶然見つかるが、両側麻痺では起坐呼吸、安静時の呼吸困難、吸気時の腹部の奇異性運動が特徴で、レム睡眠中の低換気も起こる。原因には心臓手術を含む胸部手術、外傷、縦隔腫瘍による圧迫・浸潤、神経痛性筋萎縮症（Parsonage-Turner 症候群）、帯状疱疹、Guillain-Barré 症候群などがあり、特発性もある。透視下の sniff test は一側麻痺の評価に有用だが両側麻痺には向かず、臥位での肺活量の低下（一側で15%超、両側で30%超）も手がかりになる。
+    condition:
+      region: global
+      guideline: null
+    differential:
+    - 超音波検査では、吸気時に横隔膜が尾側へ動かないことが麻痺を示す
+    - 症状のある両側麻痺には非侵襲的換気が用いられる
+    common_misconception: 横隔膜麻痺は一側でも必ず強い呼吸困難を起こす
+  provenance:
+    source_ref: SRC-570
+    source: Ricoy J, Rodríguez-Núñez N, Álvarez-Dobaño JM, et al. Diaphragmatic dysfunction. Pulmonology 2019
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.journalpulmonology.org/en-diaphragmatic-dysfunction-articulo-S2531043718301624
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 臥位肺活量の閾値は表から読み取り（本文では15〜30%と幅で記載）。DOI とライセンスは未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-246 (id: Jlvnl10)'
+    kokushi: 医学各論 Ⅳ-7-C-④（横隔神経麻痺、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 第14回の試行（成果物B）から採用。ID を PL-028→PL-030、出典を SRC-559→SRC-570 に振り直した（主張文・数値は変更なし）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）

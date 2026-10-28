@@ -5895,3 +5895,618 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md の出典マスター表から
+- id: SRC-530
+  legacy_id: null
+  title: 'Johnson RJ, Jong EC, Dunning SB, Carberry WL, Minshew BH. Paragonimiasis: diagnosis and the use of praziquantel in treatment. Rev Infect Dis. 1985;7(2):200-206'
+  citation: 'Johnson RJ, Jong EC, Dunning SB, Carberry WL, Minshew BH. Paragonimiasis: diagnosis and the use of praziquantel in treatment. Rev Infect Dis. 1985;7(2):200-206'
+  doi: 10.1093/clinids/7.2.200
+  pmid: '4001715'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（レコードに license 欄なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-531
+  legacy_id: null
+  title: Šafránek J. Descending necrotizing mediastinitis – a surgical view. Rozhledy v chirurgii. 2024;103(12):502-504
+  citation: Šafránek J. Descending necrotizing mediastinitis – a surgical view. Rozhledy v chirurgii. 2024;103(12):502-504
+  doi: 10.48095/ccrvch2024502
+  pmid: '40221899'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（レコードに license 欄なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-532
+  legacy_id: null
+  title: 'Gulilat D, Genetu A, Kejela S, Kassa S, Bekele A, Tizazu A. Nonmalignant tracheal stenosis: presentation, management and outcome in limited resources setting. J Cardiothorac Surg. 2024;19(1):21'
+  citation: 'Gulilat D, Genetu A, Kejela S, Kassa S, Bekele A, Tizazu A. Nonmalignant tracheal stenosis: presentation, management and outcome in limited resources setting. J Cardiothorac Surg. 2024;19(1):21'
+  doi: 10.1186/s13019-024-02480-w
+  pmid: '38263174'
+  pmcid: null
+  license_note: CC BY 4.0（誌面の Open Access 表示と Crossref の license 欄の両方で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-533
+  legacy_id: null
+  title: 'Ren S, Yang L, Xiao Y, Tong Z, Wang L, Hu Y. Pulmonary sequestration in adult patients: a single-center retrospective study. Respir Res. 2023;24(1):13'
+  citation: 'Ren S, Yang L, Xiao Y, Tong Z, Wang L, Hu Y. Pulmonary sequestration in adult patients: a single-center retrospective study. Respir Res. 2023;24(1):13'
+  doi: 10.1186/s12931-023-02320-w
+  pmid: '36635696'
+  pmcid: null
+  license_note: CC BY 4.0（誌面の Open Access 表示と Crossref の license 欄の両方で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-534
+  legacy_id: null
+  title: 'Ganie FA, Lone H, Lone GN, et al. Lung Contusion: A Clinico-Pathological Entity with Unpredictable Clinical Course. Bull Emerg Trauma. 2013;1(1):7-16'
+  citation: 'Ganie FA, Lone H, Lone GN, et al. Lung Contusion: A Clinico-Pathological Entity with Unpredictable Clinical Course. Bull Emerg Trauma. 2013;1(1):7-16'
+  doi: null
+  pmid: '27162815'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-538
+  legacy_id: null
+  title: Cherian SV, Tang VK, Vijhani P, Ambelil M, Estrada-Y-Martin RM. Primary pulmonary lymphoproliferative neoplasms. Lung India 2018;35:220
+  citation: Cherian SV, Tang VK, Vijhani P, Ambelil M, Estrada-Y-Martin RM. Primary pulmonary lymphoproliferative neoplasms. Lung India 2018;35:220
+  doi: 10.4103/lungindia.lungindia_381_17
+  pmid: '29697079'
+  pmcid: null
+  license_note: CC BY-NC-SA 4.0（PMC ページの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-539
+  legacy_id: null
+  title: 'Abbott GF, Rosado-de-Christenson ML, Franks TJ, Frazier AA, Galvin JR. From the archives of the AFIP: Pulmonary Langerhans cell histiocytosis. RadioGraphics 2004;24:821-841'
+  citation: 'Abbott GF, Rosado-de-Christenson ML, Franks TJ, Frazier AA, Galvin JR. From the archives of the AFIP: Pulmonary Langerhans cell histiocytosis. RadioGraphics 2004;24:821-841'
+  doi: 10.1148/rg.243045005
+  pmid: '15143231'
+  pmcid: null
+  license_note: Crossref の license 欄に記載なし（未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-540
+  legacy_id: null
+  title: 'Lu X, He B, Wang G, He B, Wang L, Chen Q. Bronchoscopic Diagnosis and Treatment of Primary Tracheobronchial Amyloidosis: A Retrospective Analysis from China. BioMed Res Int 2017;2017:3425812'
+  citation: 'Lu X, He B, Wang G, He B, Wang L, Chen Q. Bronchoscopic Diagnosis and Treatment of Primary Tracheobronchial Amyloidosis: A Retrospective Analysis from China. BioMed Res Int 2017;2017:3425812'
+  doi: 10.1155/2017/3425812
+  pmid: '28197412'
+  pmcid: null
+  license_note: CC BY 4.0（Crossref の license 欄・PMC ページの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-541
+  legacy_id: null
+  title: Cordier JF. Cryptogenic organizing pneumonia. Clin Chest Med 2004;25:727-738
+  citation: Cordier JF. Cryptogenic organizing pneumonia. Clin Chest Med 2004;25:727-738
+  doi: 10.1016/j.ccm.2004.06.003
+  pmid: '15564018'
+  pmcid: null
+  license_note: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-542
+  legacy_id: null
+  title: Auchincloss JH, Abraham JL, Gilbert R, Lax M, Henneberger PK, Heitzman ER, Peppi DJ. Health hazard of poorly regulated exposure during manufacture of cemented tungsten carbides and cobalt. Br J Ind Med 1992;49:832-836
+  citation: Auchincloss JH, Abraham JL, Gilbert R, Lax M, Henneberger PK, Heitzman ER, Peppi DJ. Health hazard of poorly regulated exposure during manufacture of cemented tungsten carbides and cobalt. Br J Ind Med 1992;49:832-836
+  doi: 10.1136/oem.49.12.832
+  pmid: '1472440'
+  pmcid: null
+  license_note: Crossref の license 欄に記載なし（未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-543
+  legacy_id: null
+  title: 'Lius EE, Syafaah I. Hyperoxia in the management of respiratory failure: A literature review. Ann Med Surg 2022;81:104393'
+  citation: 'Lius EE, Syafaah I. Hyperoxia in the management of respiratory failure: A literature review. Ann Med Surg 2022;81:104393'
+  doi: 10.1016/j.amsu.2022.104393
+  pmid: '36147110'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（PMC ページ・Crossref の license 欄）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-544
+  legacy_id: null
+  title: Yoon SC. Clinical Outcome of Paraquat Poisoning. Korean J Intern Med 2009;24:93-94
+  citation: Yoon SC. Clinical Outcome of Paraquat Poisoning. Korean J Intern Med 2009;24:93-94
+  doi: 10.3904/kjim.2009.24.2.93
+  pmid: '19543485'
+  pmcid: null
+  license_note: CC BY-NC 4.0（PMC ページの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-545
+  legacy_id: null
+  title: Enemark A, Jönsson ÅLM, Kronborg-White S, Bendstrup E. Pulmonary Alveolar Microlithiasis – A Review. Yale J Biol Med 2021;94
+  citation: Enemark A, Jönsson ÅLM, Kronborg-White S, Bendstrup E. Pulmonary Alveolar Microlithiasis – A Review. Yale J Biol Med 2021;94
+  doi: null
+  pmid: '34970102'
+  pmcid: null
+  license_note: CC BY-NC（PMC ページの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-548
+  legacy_id: null
+  title: Shu C, et al. Diagnosis and Treatment of Primary Tracheobronchial Tumors. Cancer Med 2025;14:e70893
+  citation: Shu C, et al. Diagnosis and Treatment of Primary Tracheobronchial Tumors. Cancer Med 2025;14:e70893
+  doi: 10.1002/cam4.70893
+  pmid: '40289301'
+  pmcid: null
+  license_note: CC BY 4.0（Crossref の license 欄）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-549
+  legacy_id: null
+  title: Reck M, et al. Pembrolizumab versus Chemotherapy for PD-L1-Positive Non-Small-Cell Lung Cancer. N Engl J Med 2016;375:1823-1833
+  citation: Reck M, et al. Pembrolizumab versus Chemotherapy for PD-L1-Positive Non-Small-Cell Lung Cancer. N Engl J Med 2016;375:1823-1833
+  doi: 10.1056/NEJMoa1606774
+  pmid: '27718847'
+  pmcid: null
+  license_note: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-550
+  legacy_id: null
+  title: Reck M, et al. Five-Year Outcomes With Pembrolizumab Versus Chemotherapy for Metastatic NSCLC With PD-L1 TPS ≥ 50%. J Clin Oncol 2021;39:2339-2349
+  citation: Reck M, et al. Five-Year Outcomes With Pembrolizumab Versus Chemotherapy for Metastatic NSCLC With PD-L1 TPS ≥ 50%. J Clin Oncol 2021;39:2339-2349
+  doi: 10.1200/JCO.21.00174
+  pmid: '33872070'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（PMC 掲載ページの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-551
+  legacy_id: null
+  title: Antonia SJ, et al. Durvalumab after Chemoradiotherapy in Stage III NSCLC. N Engl J Med 2017;377:1919-1929
+  citation: Antonia SJ, et al. Durvalumab after Chemoradiotherapy in Stage III NSCLC. N Engl J Med 2017;377:1919-1929
+  doi: 10.1056/NEJMoa1709937
+  pmid: '28885881'
+  pmcid: null
+  license_note: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-552
+  legacy_id: null
+  title: Spigel DR, et al. Five-Year Survival Outcomes From the PACIFIC Trial. J Clin Oncol 2022;40:1301-1311
+  citation: Spigel DR, et al. Five-Year Survival Outcomes From the PACIFIC Trial. J Clin Oncol 2022;40:1301-1311
+  doi: 10.1200/JCO.21.01308
+  pmid: '35108059'
+  pmcid: null
+  license_note: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-553
+  legacy_id: null
+  title: Saji H, et al. Segmentectomy versus lobectomy in small-sized peripheral NSCLC (JCOG0802/WJOG4607L). Lancet 2022;399:1607-1617
+  citation: Saji H, et al. Segmentectomy versus lobectomy in small-sized peripheral NSCLC (JCOG0802/WJOG4607L). Lancet 2022;399:1607-1617
+  doi: 10.1016/S0140-6736(21)02333-3
+  pmid: '35461558'
+  pmcid: null
+  license_note: Elsevier の利用条件（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-554
+  legacy_id: null
+  title: Altorki N, et al. Lobar or Sublobar Resection for Peripheral Stage IA NSCLC. N Engl J Med 2023;388:489-498
+  citation: Altorki N, et al. Lobar or Sublobar Resection for Peripheral Stage IA NSCLC. N Engl J Med 2023;388:489-498
+  doi: 10.1056/NEJMoa2212083
+  pmid: '36780674'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-555
+  legacy_id: null
+  title: Peters S, et al. Alectinib versus Crizotinib in Untreated ALK-Positive NSCLC. N Engl J Med 2017;377:829-838
+  citation: Peters S, et al. Alectinib versus Crizotinib in Untreated ALK-Positive NSCLC. N Engl J Med 2017;377:829-838
+  doi: 10.1056/NEJMoa1704795
+  pmid: '28586279'
+  pmcid: null
+  license_note: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-556
+  legacy_id: null
+  title: Shaw AT, et al. First-Line Lorlatinib or Crizotinib in Advanced ALK-Positive Lung Cancer. N Engl J Med 2020;383:2018-2029
+  citation: Shaw AT, et al. First-Line Lorlatinib or Crizotinib in Advanced ALK-Positive Lung Cancer. N Engl J Med 2020;383:2018-2029
+  doi: 10.1056/NEJMoa2027187
+  pmid: '33207094'
+  pmcid: null
+  license_note: NEJM の利用規約（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-557
+  legacy_id: null
+  title: 'Nicholson AG, et al. IASLC Staging Project: Proposals for the Revision of the Clinical and Pathologic Staging of SCLC in the Forthcoming Eighth Edition of the TNM Classification. J Thorac Oncol 2016;11:300-311'
+  citation: 'Nicholson AG, et al. IASLC Staging Project: Proposals for the Revision of the Clinical and Pathologic Staging of SCLC in the Forthcoming Eighth Edition of the TNM Classification. J Thorac Oncol 2016;11:300-311'
+  doi: 10.1016/j.jtho.2015.10.008
+  pmid: '26723244'
+  pmcid: null
+  license_note: Elsevier の利用条件（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-558
+  legacy_id: null
+  title: Horn L, et al. First-Line Atezolizumab plus Chemotherapy in Extensive-Stage SCLC. N Engl J Med 2018;379:2220-2229
+  citation: Horn L, et al. First-Line Atezolizumab plus Chemotherapy in Extensive-Stage SCLC. N Engl J Med 2018;379:2220-2229
+  doi: 10.1056/NEJMoa1809064
+  pmid: '30280641'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-559
+  legacy_id: null
+  title: Baas P, et al. First-line nivolumab plus ipilimumab in unresectable malignant pleural mesothelioma (CheckMate 743). Lancet 2021;397:375-386
+  citation: Baas P, et al. First-line nivolumab plus ipilimumab in unresectable malignant pleural mesothelioma (CheckMate 743). Lancet 2021;397:375-386
+  doi: 10.1016/S0140-6736(20)32714-8
+  pmid: '33485464'
+  pmcid: null
+  license_note: Elsevier の利用条件（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-560
+  legacy_id: null
+  title: 'Peters S, et al. First-line nivolumab plus ipilimumab versus chemotherapy in unresectable MPM: 3-year outcomes from CheckMate 743. Ann Oncol 2022;33:488-499'
+  citation: 'Peters S, et al. First-line nivolumab plus ipilimumab versus chemotherapy in unresectable MPM: 3-year outcomes from CheckMate 743. Ann Oncol 2022;33:488-499'
+  doi: 10.1016/j.annonc.2022.01.074
+  pmid: '35124183'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Crossref の license 欄）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-566
+  legacy_id: null
+  title: 'Caleffi-Pereira M, et al. Unilateral diaphragm paralysis: a dysfunction restricted not just to one hemidiaphragm. BMC Pulm Med 2018;18:126'
+  citation: 'Caleffi-Pereira M, et al. Unilateral diaphragm paralysis: a dysfunction restricted not just to one hemidiaphragm. BMC Pulm Med 2018;18:126'
+  doi: 10.1186/s12890-018-0698-1
+  pmid: '30068327'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-567
+  legacy_id: null
+  title: Evman S, et al. Comparison of Mid-Term Clinical Outcomes of Different Surgical Approaches in Symptomatic Diaphragmatic Eventration. Ann Thorac Cardiovasc Surg 2016;22:224-229
+  citation: Evman S, et al. Comparison of Mid-Term Clinical Outcomes of Different Surgical Approaches in Symptomatic Diaphragmatic Eventration. Ann Thorac Cardiovasc Surg 2016;22:224-229
+  doi: 10.5761/atcs.oa.16-00018
+  pmid: '27076066'
+  pmcid: null
+  license_note: 表示なし（未確認。©2016 Annals of Thoracic and Cardiovascular Surgery）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-535
+  legacy_id: null
+  title: 'Centers for Disease Control and Prevention. DPDx: Paragonimiasis（最終更新 2024-06-06）'
+  citation: 'Centers for Disease Control and Prevention. DPDx: Paragonimiasis（最終更新 2024-06-06）'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（CDC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-536
+  legacy_id: null
+  title: Centers for Disease Control and Prevention. Clinical Overview of Strongyloides（最終更新 2026-02-11）
+  citation: Centers for Disease Control and Prevention. Clinical Overview of Strongyloides（最終更新 2026-02-11）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（CDC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-537
+  legacy_id: null
+  title: 'Guedes F, Branquinho MV, Sousa AC, et al. Central airway obstruction: is it time to move forward? BMC Pulm Med 2022;22:68'
+  citation: 'Guedes F, Branquinho MV, Sousa AC, et al. Central airway obstruction: is it time to move forward? BMC Pulm Med 2022;22:68'
+  doi: 10.1186/s12890-022-01862-x
+  pmid: null
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-546
+  legacy_id: null
+  title: 'Chau HS, Gutkin PM, Knight AW, Forrester JD. Contemporary management of pulmonary contusions: a narrative review. Curr Chall Thorac Surg 2025;7:26'
+  citation: 'Chau HS, Gutkin PM, Knight AW, Forrester JD. Contemporary management of pulmonary contusions: a narrative review. Curr Chall Thorac Surg 2025;7:26'
+  doi: 10.21037/ccts-25-18
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-547
+  legacy_id: null
+  title: Sapuppo G, Frazzetto S, Pirosa MC, Zucca E. Epidemiology, diagnosis, and treatment of primary pulmonary mucosa-associated lymphoid tissue lymphoma. Chin Clin Oncol 2026;15(3):46
+  citation: Sapuppo G, Frazzetto S, Pirosa MC, Zucca E. Epidemiology, diagnosis, and treatment of primary pulmonary mucosa-associated lymphoid tissue lymphoma. Chin Clin Oncol 2026;15(3):46
+  doi: 10.21037/cco-2025-1-134
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-561
+  legacy_id: null
+  title: Radzikowska E. Update on Pulmonary Langerhans Cell Histiocytosis. Front Med 2020;7:582581
+  citation: Radzikowska E. Update on Pulmonary Langerhans Cell Histiocytosis. Front Med 2020;7:582581
+  doi: 10.3389/fmed.2020.582581
+  pmid: null
+  pmcid: null
+  license_note: Crossref の license 欄 CC BY 4.0（2026-10-28 の照合）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-562
+  legacy_id: null
+  title: Milani P, Basset M, Russo F, et al. The lung in amyloidosis. Eur Respir Rev 2017;26:170046
+  citation: Milani P, Basset M, Russo F, et al. The lung in amyloidosis. Eur Respir Rev 2017;26:170046
+  doi: 10.1183/16000617.0046-2017
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC 4.0（© ERS 2017）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-563
+  legacy_id: null
+  title: Saito Z, Kaneko Y, Hasegawa T, et al. Predictive factors for relapse of cryptogenic organizing pneumonia. BMC Pulm Med 2019;19
+  citation: Saito Z, Kaneko Y, Hasegawa T, et al. Predictive factors for relapse of cryptogenic organizing pneumonia. BMC Pulm Med 2019;19
+  doi: 10.1186/s12890-018-0764-8
+  pmid: null
+  pmcid: null
+  license_note: Crossref の license 欄 CC BY 4.0（2026-10-28 の照合）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-564
+  legacy_id: null
+  title: Agency for Toxic Substances and Disease Registry. Medical Management Guidelines for Chlorine（最終確認 2014-10-21、アーカイブ）
+  citation: Agency for Toxic Substances and Disease Registry. Medical Management Guidelines for Chlorine（最終確認 2014-10-21、アーカイブ）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（ATSDR）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-565
+  legacy_id: null
+  title: Madariaga MLL, Gaissert HA. Overview of malignant tracheal tumors. Ann Cardiothorac Surg 2018;7(2):244-254
+  citation: Madariaga MLL, Gaissert HA. Overview of malignant tracheal tumors. Ann Cardiothorac Surg 2018;7(2):244-254
+  doi: 10.21037/acs.2018.03.04
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-568
+  legacy_id: null
+  title: National Cancer Institute. Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version（最終更新 2025-05-14）
+  citation: National Cancer Institute. Small Cell Lung Cancer Treatment (PDQ®)–Health Professional Version（最終更新 2025-05-14）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の著作物（NCI）。PDQ の名称で示すには全文掲載が条件
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-569
+  legacy_id: null
+  title: Cheng Y, Spigel DR, Cho BC, et al. Durvalumab after Chemoradiotherapy in Limited-Stage Small-Cell Lung Cancer. N Engl J Med 2024（ADRIATIC）
+  citation: Cheng Y, Spigel DR, Cho BC, et al. Durvalumab after Chemoradiotherapy in Limited-Stage Small-Cell Lung Cancer. N Engl J Med 2024（ADRIATIC）
+  doi: 10.1056/NEJMoa2404873
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-570
+  legacy_id: null
+  title: Ricoy J, Rodríguez-Núñez N, Álvarez-Dobaño JM, et al. Diaphragmatic dysfunction. Pulmonology 2019
+  citation: Ricoy J, Rodríguez-Núñez N, Álvarez-Dobaño JM, et al. Diaphragmatic dysfunction. Pulmonology 2019
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md の出典マスター表から

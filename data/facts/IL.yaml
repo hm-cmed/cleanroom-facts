@@ -1678,3 +1678,470 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: IL-049
+  domain: IL
+  subdomain: 悪性リンパ腫、白血病
+  assertion:
+    plain_statement_ja: 原発性肺リンパ腫は肺腫瘍の1%未満を占めるまれなリンパ腫で、肺にみられるリンパ腫の大半は全身性リンパ腫の二次性肺病変である。原発性肺リンパ腫の内訳はMALTリンパ腫が70〜90%と最も多く、次いでびまん性大細胞型B細胞リンパ腫が10〜20%を占める。約半数は無症状で画像の異常を契機に見つかり、MALTリンパ腫の5年全生存率は80%を超える。
+    condition: null
+    differential: null
+    common_misconception: 肺にみられるリンパ腫の多くは原発性である
+  provenance:
+    source_ref: SRC-538
+    source: Cherian SV, Tang VK, Vijhani P, Ambelil M, Estrada-Y-Martin RM. Primary pulmonary lymphoproliferative neoplasms. Lung India 2018;35:220
+    doi: 10.4103/lungindia.lungindia_381_17
+    pmid: '29697079'
+    pmcid: PMC5946555
+    url: https://doi.org/10.4103/lungindia.lungindia_381_17
+    source_license: CC BY-NC-SA 4.0（PMC ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 割合はいずれもレビューが引用する複数報告の集約であり、単一コホートの値ではない。
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-3-B-⑥（悪性リンパ腫、白血病、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: IL-050
+  domain: IL
+  subdomain: Langerhans細胞組織球症
+  assertion:
+    plain_statement_ja: 肺Langerhans細胞組織球症は主に喫煙する若年成人に起こり、細気管支周囲にできた星芒状の結節が空洞化して厚壁・薄壁の嚢胞へと進む。高分解能CTでは上・中肺野に優位で肺底部が比較的保たれる結節と嚢胞の混在が特徴で、初期は結節優位、後期は嚢胞優位になる。治療の基本は禁煙である。
+    condition: null
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-539
+    source: 'Abbott GF, Rosado-de-Christenson ML, Franks TJ, Frazier AA, Galvin JR. From the archives of the AFIP: Pulmonary Langerhans cell histiocytosis. RadioGraphics 2004;24:821-841'
+    doi: 10.1148/rg.243045005
+    pmid: '15143231'
+    pmcid: null
+    url: https://doi.org/10.1148/rg.243045005
+    source_license: Crossref の license 欄に記載なし（未確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: ライセンス表示を Crossref で確認できなかったため、source_class は UNKNOWN とした。
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-3-B-⑦（Langerhans細胞組織球症、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: IL-051
+  domain: IL
+  subdomain: アミロイドーシス
+  assertion:
+    plain_statement_ja: 原発性気管気管支アミロイドーシスは、全身性アミロイドーシスを伴わずに気管・気管支の粘膜下にアミロイドが沈着するまれな疾患である。中国の報告例107例の解析では105例が気管支鏡生検で病理学的に確定診断され、自験2例を含む109例では初診時の誤診率が45%に達した。気管支鏡による介入治療を受けた53例では51例が改善した。
+    condition:
+      region: 中国
+      study: 1981〜2015年の報告例107例と自験2例の後方視的解析
+    differential: 慢性気管支炎、気管支内結核、肺腫瘍、気管支喘息
+    common_misconception: null
+  provenance:
+    source_ref: SRC-540
+    source: 'Lu X, He B, Wang G, He B, Wang L, Chen Q. Bronchoscopic Diagnosis and Treatment of Primary Tracheobronchial Amyloidosis: A Retrospective Analysis from China. BioMed Res Int 2017;2017:3425812'
+    doi: 10.1155/2017/3425812
+    pmid: '28197412'
+    pmcid: PMC5288517
+    url: https://doi.org/10.1155/2017/3425812
+    source_license: CC BY 4.0（Crossref の license 欄）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-3-B-⑧（アミロイドーシス、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: IL-052
+  domain: IL
+  subdomain: 特発性器質化肺炎
+  assertion:
+    plain_statement_ja: 特発性器質化肺炎（COP）は、感染・薬剤・膠原病などの原因が特定できない器質化肺炎で、典型的には呼吸困難と咳嗽で発症し、画像では多発性の斑状の肺胞陰影を示す。確定診断は肺生検で遠位気腔内に肉芽組織の芽を確認することによる。副腎皮質ステロイドが速やかに効くが、減量や中止の際に再発が多い。
+    condition: null
+    differential: null
+    common_misconception: 細菌性肺炎であり抗菌薬が有効である
+  provenance:
+    source_ref: SRC-541
+    source: Cordier JF. Cryptogenic organizing pneumonia. Clin Chest Med 2004;25:727-738
+    doi: 10.1016/j.ccm.2004.06.003
+    pmid: '15564018'
+    pmcid: PMC7119066
+    url: https://doi.org/10.1016/j.ccm.2004.06.003
+    source_license: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-218 (id: JlvnlyY)'
+    kokushi: 医学各論 Ⅳ-4-A-③（特発性器質化肺炎<COP>、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: IL-053
+  domain: IL
+  subdomain: 化学薬品、重金属などによる肺障害
+  assertion:
+    plain_statement_ja: 超硬金属（炭化タングステンとコバルト）部品を製造する工場の元労働者125人のうち42人を調べた研究では、胸部画像または肺機能の異常が16人にみられ、肺生検と剖検の例で巨細胞性間質性肺炎と炭化タングステンの存在が確認された。異常の有無と曝露期間の間に相関はみられなかった。
+    condition:
+      region: 米国
+      study: 超硬金属工場の元労働者の調査（1983〜1985年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-542
+    source: Auchincloss JH, Abraham JL, Gilbert R, Lax M, Henneberger PK, Heitzman ER, Peppi DJ. Health hazard of poorly regulated exposure during manufacture of cemented tungsten carbides and cobalt. Br J Ind Med 1992;49:832-836
+    doi: 10.1136/oem.49.12.832
+    pmid: '1472440'
+    pmcid: PMC1061212
+    url: https://doi.org/10.1136/oem.49.12.832
+    source_license: Crossref の license 欄に記載なし（未確認）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: ライセンス表示を Crossref で確認できなかったため source_class は UNKNOWN とした。1992年の単一工場での調査であり、現在の曝露環境への一般化には限界がある。
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-4-C-②（化学薬品、重金属などによる肺障害、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: IL-054
+  domain: IL
+  subdomain: 酸素中毒
+  assertion:
+    plain_statement_ja: 酸素の肺毒性は吸入酸素分画と曝露時間で決まり、1気圧では吸入酸素分画が0.60を超える酸素を24時間を超えて投与すると肺に毒性が生じうる。肺毒性の経過は気管気管支炎、ARDS、肺の間質性線維化の段階をとり、毒性を抑える目安として吸入酸素分画を0.40〜0.5未満に保つことが挙げられる。
+    condition:
+      pressure: 1気圧（常圧）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-543
+    source: 'Lius EE, Syafaah I. Hyperoxia in the management of respiratory failure: A literature review. Ann Med Surg 2022;81:104393'
+    doi: 10.1016/j.amsu.2022.104393
+    pmid: '36147110'
+    pmcid: PMC9486660
+    url: https://doi.org/10.1016/j.amsu.2022.104393
+    source_license: CC BY-NC-ND 4.0（PMC ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 吸入酸素分画と時間の値はレビューが引用する既報の集約であり、個々の患者での厳密な安全域を示すものではない。
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-4-C-④（酸素中毒、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: IL-055
+  domain: IL
+  subdomain: パラコート中毒
+  assertion:
+    plain_statement_ja: パラコートは30 mg/kg程度の摂取で致死的となり得て、これは市販の24.6%製剤7〜8 mLに相当する。重症例は早期に循環不全で死亡し、経過が延びた例では肺線維症を来す。肺内のパラコート濃度は血漿の6〜10倍に達しうるため、体外除去は肺への移行が進む前、摂取後15時間以内の開始が重要とされる。
+    condition:
+      route: 経口摂取
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-544
+    source: Yoon SC. Clinical Outcome of Paraquat Poisoning. Korean J Intern Med 2009;24:93-94
+    doi: 10.3904/kjim.2009.24.2.93
+    pmid: '19543485'
+    pmcid: PMC2698628
+    url: https://doi.org/10.3904/kjim.2009.24.2.93
+    source_license: CC BY-NC 4.0（PMC ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本出典は総説的な論説であり、致死量と生存率は本稿自体の症例データではなく、引用された既報に基づく二次的な記述を含む。
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-4-C-⑤（パラコート中毒、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: IL-056
+  domain: IL
+  subdomain: 肺胞微石症
+  assertion:
+    plain_statement_ja: 肺胞微石症は、SLC34A2遺伝子の機能喪失型変異による常染色体劣性遺伝疾患で、肺胞内にリン酸カルシウムの微小結石が広範に沈着し、世界で約1,100例が報告されている。胸部画像では砂嵐様のびまん性微小石灰化が特徴で、画像所見の広がりに比べて症状が軽いという乖離が大きい。根治的な治療はなく、一部の進行例では肺移植が必要になる。
+    condition: null
+    differential: null
+    common_misconception: 血清カルシウムやリンの異常が原因である
+  provenance:
+    source_ref: SRC-545
+    source: Enemark A, Jönsson ÅLM, Kronborg-White S, Bendstrup E. Pulmonary Alveolar Microlithiasis – A Review. Yale J Biol Med 2021;94
+    doi: null
+    pmid: '34970102'
+    pmcid: PMC8686773
+    url: null
+    source_license: CC BY-NC（PMC ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: DOI は Crossref の検索と ID 変換のいずれでも確認できなかったため null とした。誌面のページ範囲も未確認。
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-4-F-①（肺胞微石症、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: IL-057
+  domain: IL
+  subdomain: 悪性リンパ腫、白血病
+  assertion:
+    plain_statement_ja: 原発性肺悪性リンパ腫の80〜90%は MALT リンパ腫（節外性辺縁帯リンパ腫）で、肺 MALT リンパ腫は肺の悪性腫瘍の0.5〜1%を占め、60〜70歳代に多く、約20%に自己免疫疾患を合併する。経過は緩徐で、後ろ向き研究の5年全生存率は約85〜90%である。無症状で病変量が少なければ経過観察、限局例には放射線療法（単発病変では切除も選択肢）、進行例や有症状例にはリツキシマブを含む免疫化学療法が用いられる。
+    condition:
+      region: global
+      guideline: null
+    differential:
+    - 米国 SEER の解析では5年・10年全生存率が75%・53%と、施設の後ろ向き研究より低い
+    common_misconception: 肺 MALT リンパ腫は診断後ただちに多剤併用化学療法を始める必要がある
+  provenance:
+    source_ref: SRC-547
+    source: Sapuppo G, Frazzetto S, Pirosa MC, Zucca E. Epidemiology, diagnosis, and treatment of primary pulmonary mucosa-associated lymphoid tissue lymphoma. Chin Clin Oncol 2026;15(3):46
+    doi: 10.21037/cco-2025-1-134
+    pmid: null
+    pmcid: null
+    url: https://cco.amegroups.org/article/view/155714/html
+    source_license: CC BY-NC-ND 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: レビューに引用された研究の数値で、一次資料は未照合（二次資料経由）。白血病の肺浸潤は扱っていない
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-3-B-⑥（悪性リンパ腫、白血病、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 第14回の試行（成果物B）から採用。ID を IL-049→IL-057、出典を SRC-537→SRC-547 に振り直した（主張文・数値は変更なし）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: IL-058
+  domain: IL
+  subdomain: Langerhans細胞組織球症
+  assertion:
+    plain_statement_ja: 肺 Langerhans 細胞組織球症の肺結節では約50%に BRAF V600E 変異、さらに約20%に MAP2K1 変異がみられる。気胸は10〜30%で初発症状となり、経過中に30〜45%に起こる。肺に限局した例では、禁煙だけで約半数が部分的に退縮または安定する。
+    condition:
+      region: global
+      guideline: null
+    differential:
+    - 病状が進む例ではクラドリビンが用いられ、22例の検討で奏効率は91%だった
+    common_misconception: 肺 Langerhans 細胞組織球症の治療は、まず全身化学療法である
+  provenance:
+    source_ref: SRC-561
+    source: Radzikowska E. Update on Pulmonary Langerhans Cell Histiocytosis. Front Med 2020;7:582581
+    doi: 10.3389/fmed.2020.582581
+    pmid: null
+    pmcid: PMC7982411
+    url: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2020.582581/full
+    source_license: 未確認（取得した本文にライセンス表示なし）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: レビューの記載で、引用元の一次資料は未照合（二次資料経由）。経過中の気胸の頻度は本文内で30〜40%との記載もあり一致しない。クラドリビンの国内での適応は未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-3-B-⑦（Langerhans細胞組織球症、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 第14回の試行（成果物B）から採用。ID を IL-051→IL-058、出典を SRC-538→SRC-561 に振り直した（主張文・数値は変更なし）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: IL-059
+  domain: IL
+  subdomain: アミロイドーシス
+  assertion:
+    plain_statement_ja: 肺アミロイドーシスは気管気管支型、結節型、びまん性肺胞隔壁型に分けられ、いずれも AL 型が多い。気管気管支型と結節型は通常は肺に限局し（結節型は MALT リンパ腫などの低悪性度 B 細胞増殖性疾患と関連することがある）、びまん性肺胞隔壁型は全身性アミロイドーシスの部分症として拘束性換気障害と拡散能低下を起こす。診断は生検組織のコンゴーレッド染色で、偏光下の緑色の複屈折を確認し、治療を選ぶために線維蛋白の種類を同定する。
+    condition:
+      region: global
+      guideline: null
+    differential:
+    - 気管気管支型は気管後壁などに粘膜下の多発する斑を作って狭窄を起こし、咳嗽・血痰・呼吸困難のため喘息と誤認されやすい
+    - AA 型は気管支拡張症や囊胞性線維症などの慢性炎症に関連する
+    common_misconception: 肺のアミロイド沈着が見つかれば、全身性アミロイドーシスとして化学療法を行う
+  provenance:
+    source_ref: SRC-562
+    source: Milani P, Basset M, Russo F, et al. The lung in amyloidosis. Eur Respir Rev 2017;26:170046
+    doi: 10.1183/16000617.0046-2017
+    pmid: null
+    pmcid: null
+    url: https://www.openaccessrepository.it/record/28159/files/fulltext.pdf
+    source_license: CC BY-NC 4.0（© ERS 2017）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: null
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-3-B-⑧（アミロイドーシス、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 第14回の試行（成果物B）から採用。ID を IL-052→IL-059、出典を SRC-539→SRC-562 に振り直した（主張文・数値は変更なし）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: IL-060
+  domain: IL
+  subdomain: 特発性器質化肺炎<COP>
+  assertion:
+    plain_statement_ja: 特発性器質化肺炎の33例（2008〜2013年に治療）の後ろ向き検討では、副腎皮質ステロイド治療の後に10例（30.3%）が再燃した。単変量解析では、両側性の陰影、牽引性気管支拡張、ステロイドへの部分寛解が再燃群に多かったが、多変量解析ではいずれも独立した予測因子にならなかった。
+    condition:
+      region: global
+      guideline: null
+    differential:
+    - 2013年の ATS/ERS 分類では COP を主要な特発性間質性肺炎の亜急性型に含めている（IL-002、SRC-412）
+    common_misconception: 特発性器質化肺炎はステロイドによく反応するので、治療後に再燃することはまれである
+  provenance:
+    source_ref: SRC-563
+    source: Saito Z, Kaneko Y, Hasegawa T, et al. Predictive factors for relapse of cryptogenic organizing pneumonia. BMC Pulm Med 2019;19
+    doi: 10.1186/s12890-018-0764-8
+    pmid: null
+    pmcid: PMC6327473
+    url: https://doaj.org/article/ca859b396f4341c6b0efa7b045901985
+    source_license: 未確認（BMC 誌。取得範囲にライセンス表示なし）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 施設・国は取得範囲で確認していない。初期のステロイド量と減量方法は抄録に記載がない。ライセンスは未確認
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-218 (id: JlvnlyY)'
+    kokushi: 医学各論 Ⅳ-4-A-③（特発性器質化肺炎<COP>、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 第14回の試行（成果物B）から採用。ID を IL-053→IL-060、出典を SRC-540→SRC-563 に振り直した（主張文・数値は変更なし）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: IL-061
+  domain: IL
+  subdomain: 化学薬品、重金属などによる肺障害
+  assertion:
+    plain_statement_ja: 塩素ガスは組織の水分に触れて塩酸と次亜塩素酸を生じ、気道と肺を傷害する。約0.32 ppmで臭気や刺激を感じ、1〜10 ppmで眼・鼻の刺激、咽頭痛、咳嗽が、15 ppmを超えると急速な呼吸窮迫、気道の収縮、肺水腫が起こり、症状が数時間遅れて出ることもある。特異的な解毒薬はなく、治療は酸素投与や気管支拡張薬の吸入などの支持療法で、反応性気道機能不全症候群（RADS）を残すことがある。
+    condition:
+      region: US
+      guideline: ATSDR Medical Management Guidelines
+    differential:
+    - 持続する息切れや強い咳嗽、胸部圧迫感のある患者は入院させ、症状が消えるまで観察する
+    - 呼吸機能は通常7〜14日でほぼもとに戻る
+    common_misconception: 塩素ガスは臭いがするので、臭いを感じなくなれば安全な濃度である
+  provenance:
+    source_ref: SRC-564
+    source: Agency for Toxic Substances and Disease Registry. Medical Management Guidelines for Chlorine（最終確認 2014-10-21、アーカイブ）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://wwwn.cdc.gov/TSP/MMG/MMGDetails.aspx?mmgid=198&toxid=36
+    source_license: 米国連邦政府の著作物（ATSDR）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 2014年10月に最終確認され、以後は更新されないアーカイブ資料。濃度と症状の対応は表から読み取り
+  curriculum:
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+    kokushi: 医学各論 Ⅳ-4-C-②（化学薬品、重金属などによる肺障害、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 第14回の試行（成果物B）から採用。ID を IL-054→IL-061、出典を SRC-541→SRC-564 に振り直した（主張文・数値は変更なし）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）

@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-28
 
-全 48 件のうち、監修済み 0 件。
+全 61 件のうち、監修済み 0 件。
 
 ## 特発性間質性肺炎
 
@@ -606,6 +606,197 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-048&card_id=IL-048&version=0c12c01b0a)　（版 `0c12c01b0a`）
 
 **[ここまでの 2 件（IL-047〜IL-048）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-047%E3%80%9CIL-048&cards=IL-047%2020735ef3e0%0AIL-048%200c12c01b0a)**
+
+---
+
+## 悪性リンパ腫、白血病
+
+### IL-049　下書き（出典の照合前）
+
+> 原発性肺リンパ腫は肺腫瘍の1%未満を占めるまれなリンパ腫で、肺にみられるリンパ腫の大半は全身性リンパ腫の二次性肺病変である。原発性肺リンパ腫の内訳はMALTリンパ腫が70〜90%と最も多く、次いでびまん性大細胞型B細胞リンパ腫が10〜20%を占める。約半数は無症状で画像の異常を契機に見つかり、MALTリンパ腫の5年全生存率は80%を超える。
+
+- よくある誤解：肺にみられるリンパ腫の多くは原発性である
+- 不確実性：割合はいずれもレビューが引用する複数報告の集約であり、単一コホートの値ではない。
+- 出典：Cherian SV, Tang VK, Vijhani P, Ambelil M, Estrada-Y-Martin RM. Primary pulmonary lymphoproliferative neoplasms. Lung India 2018;35:220　[DOI 10.4103/lungindia.lungindia_381_17](https://doi.org/10.4103/lungindia.lungindia_381_17)　[PMID 29697079](https://pubmed.ncbi.nlm.nih.gov/29697079/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-3-B-⑥（悪性リンパ腫、白血病、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-049&card_id=IL-049&version=8ffd010423)　（版 `8ffd010423`）
+
+### IL-057　下書き（出典の照合前）
+
+> 原発性肺悪性リンパ腫の80〜90%は MALT リンパ腫（節外性辺縁帯リンパ腫）で、肺 MALT リンパ腫は肺の悪性腫瘍の0.5〜1%を占め、60〜70歳代に多く、約20%に自己免疫疾患を合併する。経過は緩徐で、後ろ向き研究の5年全生存率は約85〜90%である。無症状で病変量が少なければ経過観察、限局例には放射線療法（単発病変では切除も選択肢）、進行例や有症状例にはリツキシマブを含む免疫化学療法が用いられる。
+
+- 条件：region: global
+- 鑑別・補足：米国 SEER の解析では5年・10年全生存率が75%・53%と、施設の後ろ向き研究より低い
+- よくある誤解：肺 MALT リンパ腫は診断後ただちに多剤併用化学療法を始める必要がある
+- 不確実性：レビューに引用された研究の数値で、一次資料は未照合（二次資料経由）。白血病の肺浸潤は扱っていない
+- 出典：Sapuppo G, Frazzetto S, Pirosa MC, Zucca E. Epidemiology, diagnosis, and treatment of primary pulmonary mucosa-associated lymphoid tissue lymphoma. Chin Clin Oncol 2026;15(3):46　[DOI 10.21037/cco-2025-1-134](https://doi.org/10.21037/cco-2025-1-134)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-3-B-⑥（悪性リンパ腫、白血病、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-057&card_id=IL-057&version=3c371c761e)　（版 `3c371c761e`）
+
+**[ここまでの 2 件（IL-049〜IL-057）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-049%E3%80%9CIL-057&cards=IL-049%208ffd010423%0AIL-057%203c371c761e)**
+
+---
+
+## Langerhans細胞組織球症
+
+### IL-050　下書き（出典の照合前）
+
+> 肺Langerhans細胞組織球症は主に喫煙する若年成人に起こり、細気管支周囲にできた星芒状の結節が空洞化して厚壁・薄壁の嚢胞へと進む。高分解能CTでは上・中肺野に優位で肺底部が比較的保たれる結節と嚢胞の混在が特徴で、初期は結節優位、後期は嚢胞優位になる。治療の基本は禁煙である。
+
+- 不確実性：ライセンス表示を Crossref で確認できなかったため、source_class は UNKNOWN とした。
+- 出典：Abbott GF, Rosado-de-Christenson ML, Franks TJ, Frazier AA, Galvin JR. From the archives of the AFIP: Pulmonary Langerhans cell histiocytosis. RadioGraphics 2004;24:821-841　[DOI 10.1148/rg.243045005](https://doi.org/10.1148/rg.243045005)　[PMID 15143231](https://pubmed.ncbi.nlm.nih.gov/15143231/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅳ-3-B-⑦（Langerhans細胞組織球症、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-050&card_id=IL-050&version=0a45e56a9e)　（版 `0a45e56a9e`）
+
+### IL-058　下書き（出典の照合前）
+
+> 肺 Langerhans 細胞組織球症の肺結節では約50%に BRAF V600E 変異、さらに約20%に MAP2K1 変異がみられる。気胸は10〜30%で初発症状となり、経過中に30〜45%に起こる。肺に限局した例では、禁煙だけで約半数が部分的に退縮または安定する。
+
+- 条件：region: global
+- 鑑別・補足：病状が進む例ではクラドリビンが用いられ、22例の検討で奏効率は91%だった
+- よくある誤解：肺 Langerhans 細胞組織球症の治療は、まず全身化学療法である
+- 不確実性：レビューの記載で、引用元の一次資料は未照合（二次資料経由）。経過中の気胸の頻度は本文内で30〜40%との記載もあり一致しない。クラドリビンの国内での適応は未確認
+- 出典：Radzikowska E. Update on Pulmonary Langerhans Cell Histiocytosis. Front Med 2020;7:582581　[DOI 10.3389/fmed.2020.582581](https://doi.org/10.3389/fmed.2020.582581)（区分 OPEN）
+- 出題基準：医学各論 Ⅳ-3-B-⑦（Langerhans細胞組織球症、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-058&card_id=IL-058&version=878d8a55e3)　（版 `878d8a55e3`）
+
+**[ここまでの 2 件（IL-050〜IL-058）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-050%E3%80%9CIL-058&cards=IL-050%200a45e56a9e%0AIL-058%20878d8a55e3)**
+
+---
+
+## アミロイドーシス
+
+### IL-051　下書き（出典の照合前）
+
+> 原発性気管気管支アミロイドーシスは、全身性アミロイドーシスを伴わずに気管・気管支の粘膜下にアミロイドが沈着するまれな疾患である。中国の報告例107例の解析では105例が気管支鏡生検で病理学的に確定診断され、自験2例を含む109例では初診時の誤診率が45%に達した。気管支鏡による介入治療を受けた53例では51例が改善した。
+
+- 条件：region: 中国／study: 1981〜2015年の報告例107例と自験2例の後方視的解析
+- 鑑別・補足：慢性気管支炎、気管支内結核、肺腫瘍、気管支喘息
+- 出典：Lu X, He B, Wang G, He B, Wang L, Chen Q. Bronchoscopic Diagnosis and Treatment of Primary Tracheobronchial Amyloidosis: A Retrospective Analysis from China. BioMed Res Int 2017;2017:3425812　[DOI 10.1155/2017/3425812](https://doi.org/10.1155/2017/3425812)　[PMID 28197412](https://pubmed.ncbi.nlm.nih.gov/28197412/)（区分 OPEN）
+- 出題基準：医学各論 Ⅳ-3-B-⑧（アミロイドーシス、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-051&card_id=IL-051&version=df3b0bf9d7)　（版 `df3b0bf9d7`）
+
+### IL-059　下書き（出典の照合前）
+
+> 肺アミロイドーシスは気管気管支型、結節型、びまん性肺胞隔壁型に分けられ、いずれも AL 型が多い。気管気管支型と結節型は通常は肺に限局し（結節型は MALT リンパ腫などの低悪性度 B 細胞増殖性疾患と関連することがある）、びまん性肺胞隔壁型は全身性アミロイドーシスの部分症として拘束性換気障害と拡散能低下を起こす。診断は生検組織のコンゴーレッド染色で、偏光下の緑色の複屈折を確認し、治療を選ぶために線維蛋白の種類を同定する。
+
+- 条件：region: global
+- 鑑別・補足：気管気管支型は気管後壁などに粘膜下の多発する斑を作って狭窄を起こし、咳嗽・血痰・呼吸困難のため喘息と誤認されやすい／AA 型は気管支拡張症や囊胞性線維症などの慢性炎症に関連する
+- よくある誤解：肺のアミロイド沈着が見つかれば、全身性アミロイドーシスとして化学療法を行う
+- 出典：Milani P, Basset M, Russo F, et al. The lung in amyloidosis. Eur Respir Rev 2017;26:170046　[DOI 10.1183/16000617.0046-2017](https://doi.org/10.1183/16000617.0046-2017)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-3-B-⑧（アミロイドーシス、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-059&card_id=IL-059&version=64d22fa611)　（版 `64d22fa611`）
+
+**[ここまでの 2 件（IL-051〜IL-059）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-051%E3%80%9CIL-059&cards=IL-051%20df3b0bf9d7%0AIL-059%2064d22fa611)**
+
+---
+
+## 特発性器質化肺炎
+
+### IL-052　下書き（出典の照合前）
+
+> 特発性器質化肺炎（COP）は、感染・薬剤・膠原病などの原因が特定できない器質化肺炎で、典型的には呼吸困難と咳嗽で発症し、画像では多発性の斑状の肺胞陰影を示す。確定診断は肺生検で遠位気腔内に肉芽組織の芽を確認することによる。副腎皮質ステロイドが速やかに効くが、減量や中止の際に再発が多い。
+
+- よくある誤解：細菌性肺炎であり抗菌薬が有効である
+- 出典：Cordier JF. Cryptogenic organizing pneumonia. Clin Chest Med 2004;25:727-738　[DOI 10.1016/j.ccm.2004.06.003](https://doi.org/10.1016/j.ccm.2004.06.003)　[PMID 15564018](https://pubmed.ncbi.nlm.nih.gov/15564018/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-4-A-③（特発性器質化肺炎<COP>、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-218 (id: JlvnlyY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-052&card_id=IL-052&version=47c8073050)　（版 `47c8073050`）
+
+**[ここまでの 1 件（IL-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-052&cards=IL-052%2047c8073050)**
+
+---
+
+## 化学薬品、重金属などによる肺障害
+
+### IL-053　下書き（出典の照合前）
+
+> 超硬金属（炭化タングステンとコバルト）部品を製造する工場の元労働者125人のうち42人を調べた研究では、胸部画像または肺機能の異常が16人にみられ、肺生検と剖検の例で巨細胞性間質性肺炎と炭化タングステンの存在が確認された。異常の有無と曝露期間の間に相関はみられなかった。
+
+- 条件：region: 米国／study: 超硬金属工場の元労働者の調査（1983〜1985年）
+- 不確実性：ライセンス表示を Crossref で確認できなかったため source_class は UNKNOWN とした。1992年の単一工場での調査であり、現在の曝露環境への一般化には限界がある。
+- 出典：Auchincloss JH, Abraham JL, Gilbert R, Lax M, Henneberger PK, Heitzman ER, Peppi DJ. Health hazard of poorly regulated exposure during manufacture of cemented tungsten carbides and cobalt. Br J Ind Med 1992;49:832-836　[DOI 10.1136/oem.49.12.832](https://doi.org/10.1136/oem.49.12.832)　[PMID 1472440](https://pubmed.ncbi.nlm.nih.gov/1472440/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅳ-4-C-②（化学薬品、重金属などによる肺障害、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-053&card_id=IL-053&version=27a5662165)　（版 `27a5662165`）
+
+### IL-061　下書き（出典の照合前）
+
+> 塩素ガスは組織の水分に触れて塩酸と次亜塩素酸を生じ、気道と肺を傷害する。約0.32 ppmで臭気や刺激を感じ、1〜10 ppmで眼・鼻の刺激、咽頭痛、咳嗽が、15 ppmを超えると急速な呼吸窮迫、気道の収縮、肺水腫が起こり、症状が数時間遅れて出ることもある。特異的な解毒薬はなく、治療は酸素投与や気管支拡張薬の吸入などの支持療法で、反応性気道機能不全症候群（RADS）を残すことがある。
+
+- 条件：region: US／guideline: ATSDR Medical Management Guidelines
+- 鑑別・補足：持続する息切れや強い咳嗽、胸部圧迫感のある患者は入院させ、症状が消えるまで観察する／呼吸機能は通常7〜14日でほぼもとに戻る
+- よくある誤解：塩素ガスは臭いがするので、臭いを感じなくなれば安全な濃度である
+- 不確実性：2014年10月に最終確認され、以後は更新されないアーカイブ資料。濃度と症状の対応は表から読み取り
+- 出典：Agency for Toxic Substances and Disease Registry. Medical Management Guidelines for Chlorine（最終確認 2014-10-21、アーカイブ）　[リンク](https://wwwn.cdc.gov/TSP/MMG/MMGDetails.aspx?mmgid=198&toxid=36)（区分 GOV_US）
+- 出題基準：医学各論 Ⅳ-4-C-②（化学薬品、重金属などによる肺障害、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-061&card_id=IL-061&version=87bf80490b)　（版 `87bf80490b`）
+
+**[ここまでの 2 件（IL-053〜IL-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-053%E3%80%9CIL-061&cards=IL-053%2027a5662165%0AIL-061%2087bf80490b)**
+
+---
+
+## 酸素中毒
+
+### IL-054　下書き（出典の照合前）
+
+> 酸素の肺毒性は吸入酸素分画と曝露時間で決まり、1気圧では吸入酸素分画が0.60を超える酸素を24時間を超えて投与すると肺に毒性が生じうる。肺毒性の経過は気管気管支炎、ARDS、肺の間質性線維化の段階をとり、毒性を抑える目安として吸入酸素分画を0.40〜0.5未満に保つことが挙げられる。
+
+- 条件：pressure: 1気圧（常圧）
+- 不確実性：吸入酸素分画と時間の値はレビューが引用する既報の集約であり、個々の患者での厳密な安全域を示すものではない。
+- 出典：Lius EE, Syafaah I. Hyperoxia in the management of respiratory failure: A literature review. Ann Med Surg 2022;81:104393　[DOI 10.1016/j.amsu.2022.104393](https://doi.org/10.1016/j.amsu.2022.104393)　[PMID 36147110](https://pubmed.ncbi.nlm.nih.gov/36147110/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-4-C-④（酸素中毒、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-054&card_id=IL-054&version=39aa638aba)　（版 `39aa638aba`）
+
+**[ここまでの 1 件（IL-054）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-054&cards=IL-054%2039aa638aba)**
+
+---
+
+## パラコート中毒
+
+### IL-055　下書き（出典の照合前）
+
+> パラコートは30 mg/kg程度の摂取で致死的となり得て、これは市販の24.6%製剤7〜8 mLに相当する。重症例は早期に循環不全で死亡し、経過が延びた例では肺線維症を来す。肺内のパラコート濃度は血漿の6〜10倍に達しうるため、体外除去は肺への移行が進む前、摂取後15時間以内の開始が重要とされる。
+
+- 条件：route: 経口摂取
+- 不確実性：本出典は総説的な論説であり、致死量と生存率は本稿自体の症例データではなく、引用された既報に基づく二次的な記述を含む。
+- 出典：Yoon SC. Clinical Outcome of Paraquat Poisoning. Korean J Intern Med 2009;24:93-94　[DOI 10.3904/kjim.2009.24.2.93](https://doi.org/10.3904/kjim.2009.24.2.93)　[PMID 19543485](https://pubmed.ncbi.nlm.nih.gov/19543485/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-4-C-⑤（パラコート中毒、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-055&card_id=IL-055&version=a7793c0e28)　（版 `a7793c0e28`）
+
+**[ここまでの 1 件（IL-055）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-055&cards=IL-055%20a7793c0e28)**
+
+---
+
+## 肺胞微石症
+
+### IL-056　下書き（出典の照合前）
+
+> 肺胞微石症は、SLC34A2遺伝子の機能喪失型変異による常染色体劣性遺伝疾患で、肺胞内にリン酸カルシウムの微小結石が広範に沈着し、世界で約1,100例が報告されている。胸部画像では砂嵐様のびまん性微小石灰化が特徴で、画像所見の広がりに比べて症状が軽いという乖離が大きい。根治的な治療はなく、一部の進行例では肺移植が必要になる。
+
+- よくある誤解：血清カルシウムやリンの異常が原因である
+- 不確実性：DOI は Crossref の検索と ID 変換のいずれでも確認できなかったため null とした。誌面のページ範囲も未確認。
+- 出典：Enemark A, Jönsson ÅLM, Kronborg-White S, Bendstrup E. Pulmonary Alveolar Microlithiasis – A Review. Yale J Biol Med 2021;94　[PMID 34970102](https://pubmed.ncbi.nlm.nih.gov/34970102/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-4-F-①（肺胞微石症、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-056&card_id=IL-056&version=6ae1e4e56d)　（版 `6ae1e4e56d`）
+
+**[ここまでの 1 件（IL-056）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-056&cards=IL-056%206ae1e4e56d)**
+
+---
+
+## 特発性器質化肺炎<COP>
+
+### IL-060　下書き（出典の照合前）
+
+> 特発性器質化肺炎の33例（2008〜2013年に治療）の後ろ向き検討では、副腎皮質ステロイド治療の後に10例（30.3%）が再燃した。単変量解析では、両側性の陰影、牽引性気管支拡張、ステロイドへの部分寛解が再燃群に多かったが、多変量解析ではいずれも独立した予測因子にならなかった。
+
+- 条件：region: global
+- 鑑別・補足：2013年の ATS/ERS 分類では COP を主要な特発性間質性肺炎の亜急性型に含めている（IL-002、SRC-412）
+- よくある誤解：特発性器質化肺炎はステロイドによく反応するので、治療後に再燃することはまれである
+- 不確実性：施設・国は取得範囲で確認していない。初期のステロイド量と減量方法は抄録に記載がない。ライセンスは未確認
+- 出典：Saito Z, Kaneko Y, Hasegawa T, et al. Predictive factors for relapse of cryptogenic organizing pneumonia. BMC Pulm Med 2019;19　[DOI 10.1186/s12890-018-0764-8](https://doi.org/10.1186/s12890-018-0764-8)（区分 OPEN）
+- 出題基準：医学各論 Ⅳ-4-A-③（特発性器質化肺炎<COP>、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-218 (id: JlvnlyY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-060&card_id=IL-060&version=dfc55ae02b)　（版 `dfc55ae02b`）
+
+**[ここまでの 1 件（IL-060）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-060&cards=IL-060%20dfc55ae02b)**
 
 ---
 

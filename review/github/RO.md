@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-28
 
-全 36 件のうち、監修済み 0 件。
+全 41 件のうち、監修済み 0 件。
 
 ## 慢性閉塞性肺疾患
 
@@ -441,6 +441,77 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-036&card_id=RO-036&version=4e917dc03c)　（版 `4e917dc03c`）
 
 **[ここまでの 1 件（RO-036）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-036&cards=RO-036%204e917dc03c)**
+
+---
+
+## 気管・気管支の狭窄・閉塞
+
+### RO-037　下書き（出典の照合前）
+
+> 非悪性の気管狭窄60例を集計した後方視研究では、原因の93.3%（56例）が挿管後で、平均の挿管期間は13.8日、狭窄部位は気管の上部3分の1が81.7%を占め、外科的な切除と端々吻合で良好な転帰を得た割合は89.1%で、気管支鏡下の拡張術の75.0%を上回った。
+
+- 条件：region: エチオピアの3施設／study: 2018〜2023年に治療された60例の後方視研究
+- 不確実性：資源の限られた環境での単一国の後方視研究であり、日本の診療環境への一般化は確認していない。
+- 出典：Gulilat D, Genetu A, Kejela S, Kassa S, Bekele A, Tizazu A. Nonmalignant tracheal stenosis: presentation, management and outcome in limited resources setting. J Cardiothorac Surg. 2024;19(1):21　[DOI 10.1186/s13019-024-02480-w](https://doi.org/10.1186/s13019-024-02480-w)　[PMID 38263174](https://pubmed.ncbi.nlm.nih.gov/38263174/)（区分 OPEN）
+- 出題基準：医学各論 Ⅳ-2-A-⑤（気管・気管支の狭窄・閉塞、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-037&card_id=RO-037&version=61b94bf83c)　（版 `61b94bf83c`）
+
+### RO-040　下書き（出典の照合前）
+
+> 中枢気道狭窄では、労作時の呼吸困難は内腔が約8 mmまで、安静時の呼吸困難は5 mm未満まで狭くなって現れるとされ、初発症状は呼吸困難と喘鳴（stridor）が約半数を占める。診断には気管用の撮像条件の胸部 CT が有用である（感度約97%）。治療に使う気道ステントのうち、金属ステントは肉芽形成や破損の問題から良性狭窄には勧められず（2005年の米国 FDA の警告）、シリコンステントは抜去や位置の調整がしやすいが、移動や痰の貯留が起こりやすい。
+
+- 条件：region: global
+- 鑑別・補足：良性の気管狭窄への CO2 レーザー治療の成功率は、Myer-Cotton 分類のⅠ度92%、Ⅱ度46%、Ⅲ度13%と、狭窄が高度なほど低い
+- よくある誤解：気管の内腔が半分程度に狭くなれば、必ず安静時にも呼吸困難が出る
+- 不確実性：叙述的レビューに引用された研究の数値で、一次資料は未照合（二次資料経由）
+- 出典：Guedes F, Branquinho MV, Sousa AC, et al. Central airway obstruction: is it time to move forward? BMC Pulm Med 2022;22:68　[DOI 10.1186/s12890-022-01862-x](https://doi.org/10.1186/s12890-022-01862-x)（区分 OPEN）
+- 出題基準：医学各論 Ⅳ-2-A-⑤（気管・気管支の狭窄・閉塞、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-02-06-024 (id: JlAKpic)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-040&card_id=RO-040&version=f138161343)　（版 `f138161343`）
+
+**[ここまでの 2 件（RO-037〜RO-040）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-037%E3%80%9CRO-040&cards=RO-037%2061b94bf83c%0ARO-040%20f138161343)**
+
+---
+
+## 肺分画症
+
+### RO-038　下書き（出典の照合前）
+
+> 成人の肺分画症の手術例97例では、病変の96例が脊椎に近い下葉にあり、栄養動脈の起始は胸部大動脈が87.4%、腹部大動脈が10.5%で、肺葉内型が90.7%、肺葉外型が9.3%を占めた。CTでの形態は、腫瘤状が50.5%と最も多く、次いで嚢胞状が20.6%だった。
+
+- 条件：region: 中国の単一施設／study: 2011〜2021年に治療された成人の手術例97例の後方視研究
+- 不確実性：手術に至った成人例のみの集計であり、無症状のまま経過する例や未手術例を含めた全体の分布とは異なる可能性がある。
+- 出典：Ren S, Yang L, Xiao Y, Tong Z, Wang L, Hu Y. Pulmonary sequestration in adult patients: a single-center retrospective study. Respir Res. 2023;24(1):13　[DOI 10.1186/s12931-023-02320-w](https://doi.org/10.1186/s12931-023-02320-w)　[PMID 36635696](https://pubmed.ncbi.nlm.nih.gov/36635696/)（区分 OPEN）
+- 出題基準：医学各論 Ⅳ-2-B-③（肺分画症、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-038&card_id=RO-038&version=e2c0bd1a47)　（版 `e2c0bd1a47`）
+
+**[ここまでの 1 件（RO-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-038&cards=RO-038%20e2c0bd1a47)**
+
+---
+
+## 肺損傷
+
+### RO-039　下書き（出典の照合前）
+
+> 肺挫傷は鈍的胸部外傷の25〜35%に生じ、肺組織の裂傷を伴わずに肺胞の毛細血管が損傷して血液や液体が肺組織内にたまり、ガス交換が障害される病態である。治療は支持療法が中心で、酸素投与と、適応がある場合の人工呼吸を行う。
+
+- 不確実性：DOI は誌面と抄録ページの表示で確認できなかったため null とした。出典のライセンスも未確認。本文中で引用されていた死亡率10〜25%は二次引用のため、主張文には採用していない。
+- 出典：Ganie FA, Lone H, Lone GN, Wani ML, Singh S, Dar AM, Wani N, Wani SN, Nazeer N. Lung Contusion: A Clinico-Pathological Entity with Unpredictable Clinical Course. Bull Emerg Trauma. 2013;1(1):7-16　[PMID 27162815](https://pubmed.ncbi.nlm.nih.gov/27162815/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅳ-2-D-②（肺損傷、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-039&card_id=RO-039&version=d92bdc918c)　（版 `d92bdc918c`）
+
+### RO-041　下書き（出典の照合前）
+
+> 肺挫傷による呼吸不全は受傷後24〜48時間で明らかになることが多い。胸部エックス線は受傷早期の感度が低く、CT のほうが早く検出でき重症度の評価にも用いられる。管理では肺保護換気（1回換気量 約6 mL/kg 予測体重、プラトー圧30 cmH2O未満）と、最初の72時間の過剰な水分負荷を避けることが勧められ、副腎皮質ステロイドや感染のない時期の予防的抗菌薬のルーチン投与は勧められない。
+
+- 条件：region: global
+- 鑑別・補足：肋骨骨折の観血的固定は受傷後24〜72時間が望ましいとされ、肺挫傷は固定の禁忌とされない／肺挫傷は肋骨骨折を伴う非軍事的な胸部外傷の約20%にみられるとされる
+- よくある誤解：肺挫傷の範囲は来院時の胸部エックス線で正確に評価できる
+- 不確実性：叙述的レビューの記載。挫傷の容積20%以上で ARDS が82%（20%未満では22%）などの数値は引用元が別の研究で、一次資料は未照合（二次資料経由）
+- 出典：Chau HS, Gutkin PM, Knight AW, Forrester JD. Contemporary management of pulmonary contusions: a narrative review. Curr Chall Thorac Surg 2025;7:26　[DOI 10.21037/ccts-25-18](https://doi.org/10.21037/ccts-25-18)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-2-D-②（肺損傷、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-041&card_id=RO-041&version=155d2ad91b)　（版 `155d2ad91b`）
+
+**[ここまでの 2 件（RO-039〜RO-041）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-039%E3%80%9CRO-041&cards=RO-039%20d92bdc918c%0ARO-041%20155d2ad91b)**
 
 ---
 
