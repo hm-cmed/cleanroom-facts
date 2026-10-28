@@ -306,7 +306,11 @@ def main() -> None:
     out.write_text("\n".join(L) + "\n", encoding="utf-8")
 
     rnd = random.Random(spec["round"])
-    with open(ROOT / "reports" / f"trial_sample_{spec['round']}.csv", "w", encoding="utf-8-sig", newline="") as fh:
+    sample_path = ROOT / "reports" / f"trial_sample_{spec['round']}.csv"
+    if sample_path.exists():   # 判定を書き込んだ抜き取り表を上書きしない（作り直すときは消してから実行）
+        print(f"{out.relative_to(ROOT)} を作りました（{sample_path.name} は既にあるので残した）")
+        return
+    with open(sample_path, "w", encoding="utf-8-sig", newline="") as fh:
         w = csv.writer(fh)
         w.writerow(["set", "id", "主張文", "source_ref", "出典", "DOI", "PMID", "判定（一致／不一致／確認できず）", "メモ"])
         for k in ("A", "B"):
