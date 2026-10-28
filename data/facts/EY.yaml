@@ -1,0 +1,1715 @@
+- id: EY-001
+  domain: EY
+  subdomain: 眼球の構造と機能
+  assertion:
+    plain_statement_ja: 眼球では、入射した光は角膜で屈折し、虹彩が瞳孔の大きさを変えて眼内に入る光の量を調節し、水晶体が網膜上に焦点を合わせる。網膜の視細胞が光を電気信号に変換し、その信号が視神経を通って脳に送られることで視覚が生じる。涙液は角膜表面を滑らかに保ち、焦点形成を助ける。
+    condition:
+      region: 全般
+      study: 公的機関の解説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1251
+    source: National Eye Institute. How the Eyes Work. NEI Eye Health Information（ウェブページ、最終更新 2022-04-20）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work
+    source_license: Public domain (US Government)
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 米国政府機関の一般向け解説に基づき、基本的な構造と機能の流れに限定した。寸法などの解剖学的数値は含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-002
+  domain: EY
+  subdomain: 屈折
+  assertion:
+    plain_statement_ja: 屈折異常には、球面の異常である近視と遠視、円柱の異常である乱視、両眼の屈折値の差である不同視がある。ドイツの成人では約70%に屈折異常があり、2011年には16歳超の63.4%が眼鏡を、5.3%がコンタクトレンズを使用していた。屈折異常は眼科外来受診の理由の21.1%を占め最も多い。約1mmのピンホールを通して視力が改善すれば、屈折異常などの光学的原因が示唆される。
+    condition:
+      region: ドイツの疫学数値を含む一般事項
+      study: 総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1252
+    source: 'Schiefer U, Kraus C, Baumbach P, Ungewiß J, Michels R. Refractive errors: Epidemiology, Effects and Treatment Options. Dtsch Arztebl Int. 2016;113(41):693-702'
+    doi: 10.3238/arztebl.2016.0693
+    pmid: '27839543'
+    pmcid: PMC5143802
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5143802/
+    source_license: © Deutscher Ärzte-Verlag（PMC 収載版で CC 表示を確認できず）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 疫学数値（約70%、63.4%、5.3%、21.1%）はいずれもドイツのデータであり、日本の有病率・受診動向ではない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-489 (id: JlvnmNk)'
+    kokushi: 医学各論 Ⅲ-4-A-②（屈折異常、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-003
+  domain: EY
+  subdomain: 調節
+  assertion:
+    plain_statement_ja: 老視は加齢に伴う典型的な光学的障害で、水晶体の調節力が低下するため近くのものに焦点を合わせにくくなる屈折・調節の異常である。球面・円柱の屈折異常と並ぶ基本的な視機能障害として位置づけられ、近用補正で対応する。
+    condition:
+      region: 全般
+      study: 総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1252
+    source: 'Schiefer U, Kraus C, Baumbach P, Ungewiß J, Michels R. Refractive errors: Epidemiology, Effects and Treatment Options. Dtsch Arztebl Int. 2016;113(41):693-702'
+    doi: 10.3238/arztebl.2016.0693
+    pmid: '27839543'
+    pmcid: PMC5143802
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5143802/
+    source_license: © Deutscher Ärzte-Verlag（PMC 収載版で CC 表示を確認できず）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典では老視は屈折異常の総説の中で「加齢に伴う典型的な光学的障害」として扱われており、調節力低下の定量値や補正手段の詳細は本カードに含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-489 (id: JlvnmNk)'
+    kokushi: 医学各論 Ⅲ-4-A-③（調節異常、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-004
+  domain: EY
+  subdomain: 眼内異物
+  assertion:
+    plain_statement_ja: 眼内異物の損傷では、受傷の機序、異物の種類、その後に生じる合併症によって、眼内の病態と視力の転帰は大きく異なる。診断には画像検査が用いられ、治療は外科的な異物除去を中心に組み立てられる。異物の滞留は感染や組織障害などの合併症の原因となるため、早期の評価と対応が重要である。
+    condition:
+      region: 全般
+      study: 総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1253
+    source: 'Loporchio D, Mukkamala L, Gorukanti K, Zarbin MA, Langer P, Bhagat N. Intraocular foreign bodies: A review. Surv Ophthalmol. 2016;61(5):582-596'
+    doi: 10.1016/j.survophthal.2016.03.005
+    pmid: '26994871'
+    pmcid: null
+    url: https://doi.org/10.1016/j.survophthal.2016.03.005
+    source_license: © Elsevier（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 抄録で確認できた範囲（機序・異物の種類・合併症によって転帰が異なること、画像診断と外科的除去が中心であること）に限定した。発生率や術式別の成績などの数値は含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-005
+  domain: EY
+  subdomain: 眼瞼
+  assertion:
+    plain_statement_ja: 麦粒腫は眼瞼の腺の急性感染である。外麦粒腫は睫毛包と Zeis 腺のブドウ球菌感染で、眼瞼縁に片眼性の有痛性腫瘤を生じる。内麦粒腫はマイボーム腺の感染で、よりびまん性に広がる。いずれも第一選択は温罨法で、麦粒腫には局所抗菌薬を用いることがあり、改善しない場合は眼科で切開排膿を行う。
+    condition:
+      region: 全般
+      study: 総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1254
+    source: Carlisle RT, Digiovanni J. Differential Diagnosis of the Swollen Red Eyelid. Am Fam Physician. 2015;92(2):106-112
+    doi: null
+    pmid: '26176369'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/26176369/
+    source_license: © American Academy of Family Physicians
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 薬剤（局所抗菌薬）について、国内での承認・保険適用の確認状況：未確認。出典は米国の家庭医療向け総説であり、細部の診療手順は日本の実態と異なる場合がある。DOI は同誌が付与していないため null とした。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-492 (id: JlvnmNw)'
+    kokushi: 医学各論 Ⅲ-5-B-②（麦粒腫、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-006
+  domain: EY
+  subdomain: 眼瞼
+  assertion:
+    plain_statement_ja: 霰粒腫はマイボーム腺の無菌性の脂肪肉芽腫性炎症で、感染による麦粒腫とは異なり、痛みや発赤を伴わない眼瞼中部の腫瘤として生じる。第一選択は温罨法で、持続する場合は眼科で切開・掻爬などの処置を検討する。
+    condition:
+      region: 全般
+      study: 総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1254
+    source: Carlisle RT, Digiovanni J. Differential Diagnosis of the Swollen Red Eyelid. Am Fam Physician. 2015;92(2):106-112
+    doi: null
+    pmid: '26176369'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/26176369/
+    source_license: © American Academy of Family Physicians
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典は米国の家庭医療向け総説であり、処置の適応の細部は日本の実態と異なる場合がある。DOI は同誌が付与していないため null とした。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-492 (id: JlvnmNw)'
+    kokushi: 医学各論 Ⅲ-5-B-③（霰粒腫、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-007
+  domain: EY
+  subdomain: 眼瞼
+  assertion:
+    plain_statement_ja: 眼瞼内反は眼瞼縁が内側へ転回した状態で、多くは下眼瞼に生じ、最も多い原因は加齢性変化である。睫毛が角膜と結膜を擦るため、刺激感、発赤、粘稠な分泌物を生じる。眼瞼外反は眼瞼縁が外側へ転回した状態で下眼瞼に多く、流涙、刺激感、発赤を生じる。いずれも根本治療は手術で、それまでの間は人工涙液や潤滑軟膏で眼表面を保護する。
+    condition:
+      region: 全般
+      study: 総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1255
+    source: 'Carter SR. Eyelid disorders: diagnosis and management. Am Fam Physician. 1998;57(11):2695-2702'
+    doi: null
+    pmid: '9636333'
+    pmcid: null
+    url: https://www.aafp.org/pubs/afp/issues/1998/0601/p2695.xml
+    source_license: © American Academy of Family Physicians
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 薬剤（人工涙液・潤滑軟膏）について、国内での承認・保険適用の確認状況：未確認。出典は1998年の総説であり、主張は定義・症状・眼表面保護と手術という今も変わらない基本方針に限定した。術式別の成功率など最近の外科エビデンスは含めていない。DOI は当時の同誌論文に付与がなく null とした。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-5-B-④（眼瞼内反、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-008
+  domain: EY
+  subdomain: 眼瞼
+  assertion:
+    plain_statement_ja: 睫毛内反は、眼瞼縁の向き自体は保たれていても睫毛が誤った方向に生え、角膜を擦る状態で、眼痛、流涙、発赤を生じる。対処は誤った方向の睫毛を抜去することで、異常な生え方で再生する場合は再抜去するか、電気分解や冷凍療法による永久的な除去を行う。
+    condition:
+      region: 全般
+      study: 総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1255
+    source: 'Carter SR. Eyelid disorders: diagnosis and management. Am Fam Physician. 1998;57(11):2695-2702'
+    doi: null
+    pmid: '9636333'
+    pmcid: null
+    url: https://www.aafp.org/pubs/afp/issues/1998/0601/p2695.xml
+    source_license: © American Academy of Family Physicians
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典は1998年の総説であり、基本的な定義と対処に限定した。トラコーマに伴う睫毛内反の手術（瞼板回転術）など原因別の詳細は含めていない。DOI は当時の同誌論文に付与がなく null とした。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-009
+  domain: EY
+  subdomain: 結膜
+  assertion:
+    plain_statement_ja: ウイルス性結膜炎の代表はアデノウイルスによるもので、急な発症、水様性眼脂、下眼瞼結膜の濾胞反応、結膜浮腫を呈し、片眼から両眼へ順に広がることが多く、耳前リンパ節腫脹を伴うことがある。単純ヘルペスウイルスによるものは片眼性で、眼瞼の小水疱や潰瘍、角膜・結膜の樹枝状上皮病変を伴うことがある。アデノウイルス性には特異的な治療はなく対症療法が中心で、ヘルペス性には抗ウイルス薬を用いる。手指やタオルを介した感染拡大を防ぐ衛生管理が重要である。
+    condition:
+      region: 全般
+      study: 診療ガイドライン（Preferred Practice Pattern）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1256
+    source: Varu DM, Rhee MK, Akpek EK, Amescua G, Farid M, Garcia-Ferrer FJ, Lin A, Musch DC, Mah FS, Dunn SP; American Academy of Ophthalmology Cornea/External Disease Panel. Conjunctivitis Preferred Practice Pattern®. Ophthalmology. 2019;126(1):P94-P169
+    doi: 10.1016/j.ophtha.2018.10.020
+    pmid: '30366797'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ophtha.2018.10.020
+    source_license: © American Academy of Ophthalmology / Elsevier
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 薬剤（抗ウイルス薬）について、国内での承認・保険適用の確認状況：未確認。アデノウイルスの型別の病型（流行性角結膜炎と咽頭結膜熱の型の対応）は、ガイドライン本文の該当箇所を本調査で逐語確認できていないため含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)'
+    kokushi: 医学各論 Ⅲ-5-C-①（結膜炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-010
+  domain: EY
+  subdomain: 結膜
+  assertion:
+    plain_statement_ja: アレルギー性結膜炎は、両眼性のかゆみを最も特徴的な症状とし、水様から粘液性の眼脂、結膜浮腫、結膜の乳頭反応を伴う。季節性と通年性の病型があり、治療はアレルゲンの回避と抗アレルギー点眼薬が基本である。
+    condition:
+      region: 全般
+      study: 診療ガイドライン（Preferred Practice Pattern）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1256
+    source: Varu DM, Rhee MK, Akpek EK, Amescua G, Farid M, Garcia-Ferrer FJ, Lin A, Musch DC, Mah FS, Dunn SP; American Academy of Ophthalmology Cornea/External Disease Panel. Conjunctivitis Preferred Practice Pattern®. Ophthalmology. 2019;126(1):P94-P169
+    doi: 10.1016/j.ophtha.2018.10.020
+    pmid: '30366797'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ophtha.2018.10.020
+    source_license: © American Academy of Ophthalmology / Elsevier
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 薬剤（抗アレルギー点眼薬）について、国内での承認・保険適用の確認状況：未確認。春季カタルやアトピー性角結膜炎など重症型の詳細は本カードに含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)'
+    kokushi: 医学各論 Ⅲ-5-C-①（結膜炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-011
+  domain: EY
+  subdomain: 結膜
+  assertion:
+    plain_statement_ja: 細菌性結膜炎は、結膜充血に膿性から粘液膿性の眼脂を伴うことが特徴で、片眼性にも両眼性にも生じる。淋菌性結膜炎は、高度の眼瞼腫脹、多量の膿性眼脂、耳前リンパ節腫脹を呈する重症型で、上方から始まる角膜浸潤や潰瘍を生じうるため速やかな対応が必要である。治療には局所抗菌薬を用いる。
+    condition:
+      region: 全般
+      study: 診療ガイドライン（Preferred Practice Pattern）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1256
+    source: Varu DM, Rhee MK, Akpek EK, Amescua G, Farid M, Garcia-Ferrer FJ, Lin A, Musch DC, Mah FS, Dunn SP; American Academy of Ophthalmology Cornea/External Disease Panel. Conjunctivitis Preferred Practice Pattern®. Ophthalmology. 2019;126(1):P94-P169
+    doi: 10.1016/j.ophtha.2018.10.020
+    pmid: '30366797'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ophtha.2018.10.020
+    source_license: © American Academy of Ophthalmology / Elsevier
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 薬剤（局所抗菌薬）について、国内での承認・保険適用の確認状況：未確認。起炎菌の内訳（黄色ブドウ球菌、肺炎球菌、インフルエンザ菌など）の頻度は本カードに含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)'
+    kokushi: 医学各論 Ⅲ-5-C-①（結膜炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-012
+  domain: EY
+  subdomain: 結膜
+  assertion:
+    plain_statement_ja: クラミジア結膜炎は、成人では結膜充血、眼瞼結膜の濾胞反応、粘液性眼脂を呈し、新生児・乳児では濾胞を欠き、眼瞼腫脹と膿性から粘液膿性の眼脂を呈する。診断は検査によって確定でき、性感染症としての併存があるため、局所療法だけでなく全身の抗菌薬治療と性パートナーの評価が必要になる。
+    condition:
+      region: 全般
+      study: 診療ガイドライン（Preferred Practice Pattern）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1256
+    source: Varu DM, Rhee MK, Akpek EK, Amescua G, Farid M, Garcia-Ferrer FJ, Lin A, Musch DC, Mah FS, Dunn SP; American Academy of Ophthalmology Cornea/External Disease Panel. Conjunctivitis Preferred Practice Pattern®. Ophthalmology. 2019;126(1):P94-P169
+    doi: 10.1016/j.ophtha.2018.10.020
+    pmid: '30366797'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ophtha.2018.10.020
+    source_license: © American Academy of Ophthalmology / Elsevier
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 薬剤（全身投与の抗菌薬）について、国内での承認・保険適用の確認状況：未確認。トラコーマ（反復感染による瘢痕性病変）としての側面は本カードに含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)'
+    kokushi: 医学各論 Ⅲ-5-C-①（結膜炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-013
+  domain: EY
+  subdomain: 結膜
+  assertion:
+    plain_statement_ja: 結膜炎の鑑別では所見の組み合わせが手がかりになる。水様性眼脂と濾胞反応、耳前リンパ節腫脹はウイルス性を、膿性・粘液膿性の眼脂は細菌性を、強いかゆみはアレルギー性を示唆する。眼瞼の小水疱や樹枝状の角膜上皮病変があればヘルペス性を考え、多量の膿性眼脂と高度の眼瞼腫脹があれば淋菌性を疑う。
+    condition:
+      region: 全般
+      study: 診療ガイドライン（Preferred Practice Pattern）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1256
+    source: Varu DM, Rhee MK, Akpek EK, Amescua G, Farid M, Garcia-Ferrer FJ, Lin A, Musch DC, Mah FS, Dunn SP; American Academy of Ophthalmology Cornea/External Disease Panel. Conjunctivitis Preferred Practice Pattern®. Ophthalmology. 2019;126(1):P94-P169
+    doi: 10.1016/j.ophtha.2018.10.020
+    pmid: '30366797'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ophtha.2018.10.020
+    source_license: © American Academy of Ophthalmology / Elsevier
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 鑑別の要点はガイドラインの病型別所見対照表に基づく。迅速抗原検査や PCR などの検査の感度・特異度の数値は本カードに含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)'
+    kokushi: 医学各論 Ⅲ-5-C-①（結膜炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-014
+  domain: EY
+  subdomain: 角膜
+  assertion:
+    plain_statement_ja: 感染性角膜炎の診断の基本は角膜擦過物の染色と培養で、細菌性の場合、グラム染色で起炎菌を検出できる割合は60〜75%とされる。細菌性角膜炎の第一選択は局所抗菌薬で、一般に用いられる局所抗菌薬の間に有効性の大きな差はないとされ、すべての角膜潰瘍で培養と感受性検査が推奨される。補助療法としての局所ステロイドは全体では有意な改善を示さなかったが、中心部・深部・大きな潰瘍など一部の条件では有益な可能性が無作為化比較試験の部分集団解析で示されている。単純ヘルペスウイルスによる角膜炎は再発性で、実質型では局所ステロイドと経口アシクロビルの併用が有効とされ、経口アシクロビルは再発をおよそ半減させた。
+    condition:
+      region: 全般
+      study: 総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1257
+    source: Austin A, Lietman T, Rose-Nussbaumer J. Update on the Management of Infectious Keratitis. Ophthalmology. 2017;124(11):1678-1689
+    doi: 10.1016/j.ophtha.2017.05.012
+    pmid: '28942073'
+    pmcid: PMC5710829
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5710829/
+    source_license: © Elsevier / American Academy of Ophthalmology（著者原稿が PMC 収載）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 薬剤（局所抗菌薬、副腎皮質ステロイド、アシクロビル）について、国内での承認・保険適用の確認状況：未確認。グラム染色の検出率60〜75%は出典本文から読み取った値。本文は著者原稿版で確認した。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)'
+    kokushi: 医学各論 Ⅲ-5-C-⑧（角膜炎、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-015
+  domain: EY
+  subdomain: 角膜
+  assertion:
+    plain_statement_ja: 真菌性角膜炎は細菌性角膜炎より転帰が不良なことが多い。糸状菌による角膜炎では局所ナタマイシンが第一選択で、無作為化比較試験では局所ボリコナゾールより優れ、その差は特にフザリウムによるもので顕著だった。経口ボリコナゾールの追加は全体として転帰を改善せず、有害事象が増えるため推奨されていない。診断には培養のほか、生体内共焦点顕微鏡が補助となる。
+    condition:
+      region: 全般
+      study: 総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1257
+    source: Austin A, Lietman T, Rose-Nussbaumer J. Update on the Management of Infectious Keratitis. Ophthalmology. 2017;124(11):1678-1689
+    doi: 10.1016/j.ophtha.2017.05.012
+    pmid: '28942073'
+    pmcid: PMC5710829
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5710829/
+    source_license: © Elsevier / American Academy of Ophthalmology（著者原稿が PMC 収載）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 薬剤（ナタマイシン、ボリコナゾール）について、国内での承認・保険適用の確認状況：未確認。ナタマイシンは1960年代に導入されて以降の代表的な局所抗真菌薬として出典に記載されている。本文は著者原稿版で確認した。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)'
+    kokushi: 医学各論 Ⅲ-5-C-⑦（角膜感染症、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-016
+  domain: EY
+  subdomain: 涙器
+  assertion:
+    plain_statement_ja: 涙器の代表的疾患である涙嚢炎は涙嚢の炎症で、最も多い背景は鼻涙管遠位部の閉塞であり、再発を防ぐにはこの閉塞への対処が必要である。分離される菌には黄色ブドウ球菌、肺炎球菌、表皮ブドウ球菌、インフルエンザ菌、緑膿菌があり、グラム陽性菌を対象とした抗菌薬治療を行う。涙嚢鼻腔吻合術（外路・内路・レーザー）などの手術の時期は、症状と所見、年齢、全身状態によって判断する。
+    condition:
+      region: 全般
+      study: 総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1258
+    source: 'Pinar-Sueiro S, Sota M, Lerchundi TX, Gibelalde A, Berasategui B, Vilar B, Hernandez JL. Dacryocystitis: Systematic Approach to Diagnosis and Therapy. Curr Infect Dis Rep. 2012;14(2):137-146'
+    doi: 10.1007/s11908-012-0238-8
+    pmid: '22286338'
+    pmcid: null
+    url: https://doi.org/10.1007/s11908-012-0238-8
+    source_license: © Springer Science+Business Media, LLC 2012
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 薬剤（抗菌薬）について、国内での承認・保険適用の確認状況：未確認。PMID は他論文の参考文献リストで PubMed 収載自体は確認できるが、番号の数値を本調査で直接確認できなかったため null とした（DOI で同定可能）。涙小管炎や先天鼻涙管閉塞など涙嚢炎以外の涙器疾患の詳細は本カードに含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-5-C-④（涙囊炎、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-017
+  domain: EY
+  subdomain: 眼表面
+  assertion:
+    plain_statement_ja: ドライアイ（乾性角結膜炎）は、涙液膜の恒常性（ホメオスタシス）の喪失を特徴とする眼表面の多因子疾患で、眼症状を伴い、涙液膜の不安定性と高浸透圧、眼表面の炎症と障害、神経感覚異常が病因的な役割を果たす。分類上、涙液減少型と蒸発亢進型は互いに独立した病態ではなく、連続体として扱われる。
+    condition:
+      region: 全般
+      study: 国際ワークショップ報告（TFOS DEWS II）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1259
+    source: Craig JP, Nichols KK, Akpek EK, Caffery B, Dua HS, Joo CK, Liu Z, Nelson JD, Nichols JJ, Tsubota K, Stapleton F. TFOS DEWS II Definition and Classification Report. Ocul Surf. 2017;15(3):276-283
+    doi: 10.1016/j.jtos.2017.05.008
+    pmid: '28736335'
+    pmcid: null
+    url: https://doi.org/10.1016/j.jtos.2017.05.008
+    source_license: © Elsevier（TFOS DEWS II 報告書、CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 定義と分類は TFOS DEWS II（2017）に基づく。2025年に後継の DEWS III が公表され定義が更新されているため、本カードの定義と最新定義との差異は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-5-C-⑪（涙液分泌障害、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-018
+  domain: EY
+  subdomain: 結膜
+  assertion:
+    plain_statement_ja: 翼状片は、結膜の線維血管性組織が角膜へ侵入する病変である。有病率は1%から30%を超える範囲まで地域差が大きく、赤道に近い地域で最も高い。最も重要な誘因は紫外線曝露で、紫外線が DNA や細胞外マトリックスを障害し角膜輪部の幹細胞の性質を変えることで、結膜組織が角膜へ伸展すると考えられている。
+    condition:
+      region: 全般（有病率は地域差が大きい）
+      study: 総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1260
+    source: 'Shahraki T, Arabi A, Feizi S. Pterygium: an update on pathophysiology, clinical features, and management. Ther Adv Ophthalmol. 2021;13:25158414211020152'
+    doi: 10.1177/25158414211020152
+    pmid: '34104871'
+    pmcid: PMC8170279
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8170279/
+    source_license: CC BY-NC 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 有病率の幅（1%から30%超）は出典の総説にまとめられた各地域の報告の範囲であり、単一集団の値ではない。切除術式別の再発率などの数値は本カードに含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-5-C-⑤（翼状片、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-019
+  domain: EY
+  subdomain: 角膜
+  assertion:
+    plain_statement_ja: 円錐角膜の診断に必須の所見は、角膜後面の隆起の異常、角膜厚分布の異常、炎症を伴わない角膜の菲薄化の3つである。危険因子として、Down 症候群、円錐角膜や結合組織疾患の家族歴、眼アレルギー、眼を擦る習慣、フロッピーアイリッド症候群が挙げられている。
+    condition:
+      region: 全般
+      study: 国際コンセンサス（デルファイ法）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1261
+    source: Gomes JAP, Tan D, Rapuano CJ, Belin MW, Ambrósio R Jr, Guell JL, Malecaze F, Nishida K, Sangwan VS; Group of Panelists for the Global Delphi Panel of Keratoconus and Ectatic Diseases. Global consensus on keratoconus and ectatic diseases. Cornea. 2015;34(4):359-369
+    doi: 10.1097/ICO.0000000000000408
+    pmid: '25738235'
+    pmcid: null
+    url: https://doi.org/10.1097/ICO.0000000000000408
+    source_license: © Wolters Kluwer（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出題項目に含まれる角膜上皮びらんと Herbert 小窩については、本カードの出典（円錐角膜の国際コンセンサス）では確認できず含めていない。Herbert 小窩はトラコーマの輪部所見である。上皮びらんを主症状とする疾患群は EY-020 の出典（IC3D 第3版、SRC-1262）が扱っている。コンセンサスには後継の第2版が存在する可能性があり、その公表状況は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-020
+  domain: EY
+  subdomain: 角膜
+  assertion:
+    plain_statement_ja: 角膜ジストロフィは遺伝性の角膜疾患の総称で、典型的には両眼性・対称性・緩徐進行性で、環境要因や全身疾患とは関係がないとされる。国際分類 IC3D 第3版では、沈着する解剖学的部位により上皮・上皮下、上皮—実質（TGFBI 変異による群）、実質、内皮の群に分け、各疾患には根拠の確かさを示すカテゴリー1（原因遺伝子と変異が判明）からカテゴリー4（存在が確かでないもの）が付けられる。反復性角膜びらんを小児期から繰り返す上皮反復性びらんジストロフィ（原因遺伝子 COL17A1）もこの分類に含まれる。一方、上皮基底膜ジストロフィのように遺伝性が乏しく変性と考えられる病態も、分類の中に残されている。
+    condition:
+      region: 全般
+      study: 国際分類（IC3D 第3版）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1262
+    source: Weiss JS, Rapuano CJ, Seitz B, Busin M, Kivelä TT, Bouheraoua N, Bredrup C, Nischal KK, Chawla H, Borderie V, Kenyon KR, Kim EK, Møller HU, Munier FL, Berger T, Lisch W. IC3D Classification of Corneal Dystrophies—Edition 3. Cornea. 2024;43(4):466-527
+    doi: 10.1097/ICO.0000000000003420
+    pmid: '38359414'
+    pmcid: PMC10906208
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10906208/
+    source_license: © Wolters Kluwer（PMC 収載版で CC 表示を確認できず）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 個別のジストロフィの遺伝子・変異の網羅的な列挙は行わず、分類の枠組みと代表例に限定した。角膜変性（加齢や炎症など二次性の変化）の個別病型は出典の対象外である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-021
+  domain: EY
+  subdomain: 角膜
+  assertion:
+    plain_statement_ja: 角膜周辺部の溝状潰瘍を呈する角膜周辺部潰瘍性角膜炎（PUK）は、角膜周辺部の炎症に上皮欠損と実質の破壊を伴う病態で、宿主の自己免疫の関与、角膜周辺部特有の解剖と生理、環境要因が組み合わさって生じる。原因は局所性と全身性、感染性と非感染性にわたり、血液検査や画像検査を含む精査、内科やリウマチ科との連携、慎重な免疫抑制療法が必要になる。全身疾患を伴わない Mooren 潰瘍もこの枠組みで扱われる。
+    condition:
+      region: 全般
+      study: 総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1263
+    source: 'Gupta Y, Kishore A, Kumari P, Balakrishnan N, Lomi N, Gupta N, Vanathi M, Tandon R. Peripheral ulcerative keratitis: A comprehensive review. Surv Ophthalmol. 2021;66(6):977-998'
+    doi: 10.1016/j.survophthal.2021.02.013
+    pmid: '33657431'
+    pmcid: null
+    url: https://doi.org/10.1016/j.survophthal.2021.02.013
+    source_license: © Elsevier（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 薬剤（免疫抑制薬）について、国内での承認・保険適用の確認状況：未確認。主張は抄録で確認できた定義・病因・対応の枠組みに限定し、原因疾患ごとの頻度や治療成績の数値は含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-5-C-⑨（角膜潰瘍、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-022
+  domain: EY
+  subdomain: 角膜
+  assertion:
+    plain_statement_ja: 水疱性角膜症は、角膜内皮の機能不全によって角膜に浮腫が生じ、上皮に水疱を形成する状態である。治療では、障害された内皮のみを置換する角膜内皮移植が選択肢となり、全層の角膜移植と比べて視機能の回復が速く、予測しやすいとされる。
+    condition:
+      region: 全般
+      study: 総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1264
+    source: Tan DTH, Dart JKG, Holland EJ, Kinoshita S. Corneal transplantation. Lancet. 2012;379(9827):1749-1761
+    doi: 10.1016/S0140-6736(12)60437-1
+    pmid: '22559901'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(12)60437-1
+    source_license: © Elsevier (The Lancet)
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典は角膜移植の総説であり、水疱の破裂に伴う疼痛などの症状の詳細は抄録の範囲外のため含めず、内皮機能不全による浮腫という定義と内皮移植の位置づけに限定した。内皮機能不全の原因（手術後、Fuchs 角膜内皮ジストロフィなど）の内訳は本カードに含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-023
+  domain: EY
+  subdomain: 水晶体
+  assertion:
+    plain_statement_ja: 白内障は、本来透明な水晶体が進行性に混濁する状態で、世界における失明の最も多い原因である。加齢に伴うものが最も多く、混濁の部位によって核白内障、皮質白内障、後嚢下白内障に分けられ、複数の部位の混濁が混在することも多い。原因としては加齢のほか、先天性、外傷、糖尿病などの代謝性疾患、副腎皮質ステロイドなどの薬剤がある。
+    condition:
+      region: 全般
+      study: 総説（Disease Primer）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1265
+    source: Lam D, Rao SK, Ratra V, Liu Y, Mitchell P, King J, Tassignon MJ, Jonas J, Pang CP, Chang DF. Cataract. Nat Rev Dis Primers. 2015;1:15014
+    doi: 10.1038/nrdp.2015.14
+    pmid: '27188414'
+    pmcid: null
+    url: https://doi.org/10.1038/nrdp.2015.14
+    source_license: © Nature Portfolio (Springer Nature)
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 定義（水晶体の進行性混濁）と「失明原因の首位」という位置づけは要約で確認した。分類と原因の詳細は購読制の本文を本調査で逐語確認できておらず、一般的な枠組みの範囲に留めたため、取り込み側での本文確認が望ましい。薬剤（副腎皮質ステロイド）は原因として挙げたもので、本カードでは国内の承認・保険適用の対象ではない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-493 (id: JlvnmN4)'
+    kokushi: 医学各論 Ⅲ-5-D-①（白内障、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-024
+  domain: EY
+  subdomain: 水晶体
+  assertion:
+    plain_statement_ja: 白内障の診断は、視力低下やグレア（まぶしさ）、色の見え方の変化といった症状と視機能の評価に加え、細隙灯顕微鏡検査で水晶体混濁の部位と程度を確認して行う。手術を行うかどうかは、混濁の程度だけでなく、視機能障害が日常生活に及ぼす支障の程度によって判断する。
+    condition:
+      region: 全般
+      study: 総説（Disease Primer）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1265
+    source: Lam D, Rao SK, Ratra V, Liu Y, Mitchell P, King J, Tassignon MJ, Jonas J, Pang CP, Chang DF. Cataract. Nat Rev Dis Primers. 2015;1:15014
+    doi: 10.1038/nrdp.2015.14
+    pmid: '27188414'
+    pmcid: null
+    url: https://doi.org/10.1038/nrdp.2015.14
+    source_license: © Nature Portfolio (Springer Nature)
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 診断手順の詳細は購読制の本文を本調査で逐語確認できておらず、標準的な枠組みの範囲に留めたため、取り込み側での本文確認が望ましい。混濁の程度分類（LOCS など）の詳細は含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-493 (id: JlvnmN4)'
+    kokushi: 医学各論 Ⅲ-5-D-①（白内障、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-025
+  domain: EY
+  subdomain: 水晶体
+  assertion:
+    plain_statement_ja: 白内障の治療は手術が基本であり、点眼薬などで水晶体の混濁を消失させる確立した治療はない。標準的な手術は、混濁した水晶体を超音波で乳化吸引して除去し、眼内レンズを挿入する方法で、視機能が日常生活に支障を及ぼす場合に行う。
+    condition:
+      region: 全般
+      study: 総説（Disease Primer）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1265
+    source: Lam D, Rao SK, Ratra V, Liu Y, Mitchell P, King J, Tassignon MJ, Jonas J, Pang CP, Chang DF. Cataract. Nat Rev Dis Primers. 2015;1:15014
+    doi: 10.1038/nrdp.2015.14
+    pmid: '27188414'
+    pmcid: null
+    url: https://doi.org/10.1038/nrdp.2015.14
+    source_license: © Nature Portfolio (Springer Nature)
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 術式の詳細と合併症は購読制の本文を本調査で逐語確認できておらず、標準的な枠組みの範囲に留めたため、取り込み側での本文確認が望ましい。周術期の点眼薬には触れていないため、薬剤の承認・保険適用の注記は付けていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-493 (id: JlvnmN4)'
+    kokushi: 医学各論 Ⅲ-5-D-①（白内障、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-026
+  domain: EY
+  subdomain: 角膜
+  assertion:
+    plain_statement_ja: 角膜移植では、角膜全層を置換する全層角膜移植が半世紀以上にわたり主流であった。これに対し、実質の疾患には内皮拒絶の危険をなくす深層層状角膜移植が全層移植に取って代わりつつあり、内皮の疾患には障害された内皮のみを選択的に置換する角膜内皮移植が行われ、視機能の回復が速く予測しやすい。このほか、眼表面の再建や人工角膜も重症例の選択肢となる。
+    condition:
+      region: 全般
+      study: 総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1264
+    source: Tan DTH, Dart JKG, Holland EJ, Kinoshita S. Corneal transplantation. Lancet. 2012;379(9827):1749-1761
+    doi: 10.1016/S0140-6736(12)60437-1
+    pmid: '22559901'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(12)60437-1
+    source_license: © Elsevier (The Lancet)
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 術式別の長期成績や拒絶率などの数値は出典抄録の範囲外のため含めていない。2012年の総説であり、その後の内皮移植術式の細部の進歩は反映されていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-027
+  domain: EY
+  subdomain: 緑内障総論
+  assertion:
+    plain_statement_ja: 緑内障は視神経と網膜神経線維層の障害により周辺視野や中心視野の永続的な欠損をきたしうる慢性進行性の視神経症であり、眼圧は唯一の修正可能な危険因子である。大きな分類は開放隅角緑内障と閉塞隅角緑内障の2つであり、早期は無症状のことが多い。
+    condition:
+      region: グローバル
+      study: 成人の緑内障に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1267
+    source: 'Stein JD, Khawaja AP, Weizer JS. Glaucoma in Adults—Screening, Diagnosis, and Management: A Review. JAMA. 2021;325(2):164-174.'
+    doi: 10.1001/jama.2020.21899
+    pmid: '33433580'
+    pmcid: null
+    url: https://doi.org/10.1001/jama.2020.21899
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典は総説の抄録で確認した範囲に限る。日本の分類の細目（発達緑内障等）は日本緑内障学会ガイドライン第5版（SRC-1266）の本文確認が望ましい。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-494 (id: JlvnmN8)'
+    kokushi: 医学各論 Ⅲ-5-D-②（緑内障、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-028
+  domain: EY
+  subdomain: 原発開放隅角緑内障
+  assertion:
+    plain_statement_ja: 日本の多治見スタディでは、40歳以上の原発開放隅角緑内障の有病率は3.9%（95%信頼区間3.2〜4.6%）であり、そのうち眼圧21mmHg以下の例の有病率が3.6%を占めた。すなわち日本では眼圧が正常範囲でも視神経と視野の所見から診断される例が大半である。
+    condition:
+      region: 日本
+      study: 多治見市における住民対象の横断疫学調査（対象3021人）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1268
+    source: 'Iwase A, Suzuki Y, Araie M, et al. The prevalence of primary open-angle glaucoma in Japanese: the Tajimi Study. Ophthalmology. 2004;111(9):1641-1648.'
+    doi: 10.1016/j.ophtha.2004.03.029
+    pmid: '15350316'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ophtha.2004.03.029
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値は抄録で確認した。多治見市という単一地域・2004年報告の値であり、現在の全国の頻度とは限らない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-494 (id: JlvnmN8)'
+    kokushi: 医学各論 Ⅲ-5-D-②（緑内障、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-029
+  domain: EY
+  subdomain: 緑内障の検査
+  assertion:
+    plain_statement_ja: 緑内障の診断精度の検討では、スペクトラルドメインOCTの感度は0.79（95%信頼区間0.75〜0.83）、特異度は0.92（同0.87〜0.96）、Humphrey視野計の感度は0.87（同0.69〜0.95）、特異度は0.82（同0.66〜0.92）であり、眼圧測定単独の感度は0.48（同0.31〜0.66）と低かった。眼圧だけで診断せず、視神経と視野と構造の検査を組み合わせる。
+    condition:
+      region: 米国
+      study: USPSTFのための系統的レビュー（診断精度研究を含む83研究）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1280
+    source: 'Chou R, Selph S, Blazina I, et al. Screening for Glaucoma in Adults: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2022;327(20):1998-2012.'
+    doi: 10.1001/jama.2022.6290
+    pmid: '35608575'
+    pmcid: null
+    url: https://doi.org/10.1001/jama.2022.6290
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値は抄録で確認した。対象は原発開放隅角緑内障のスクリーニング文脈であり、臨床診断の場面とは母集団が異なる。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-494 (id: JlvnmN8)'
+    kokushi: 医学各論 Ⅲ-5-D-②（緑内障、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-030
+  domain: EY
+  subdomain: 緑内障の治療
+  assertion:
+    plain_statement_ja: 日本緑内障学会ガイドライン第5版では、緑内障治療の原則は眼圧を下げることであり、その手段として薬物、レーザー、手術がある。緑内障は単一の病態ではなく複合的な症候群として捉える。
+    condition:
+      region: 日本
+      study: 日本緑内障学会ガイドライン第5版（英語版）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1266
+    source: Kiuchi Y, Inoue T, Shoji N, Nakamura M, Tanito M; Glaucoma Guideline Preparation Committee, Japan Glaucoma Society. The Japan Glaucoma Society guidelines for glaucoma 5th edition. Jpn J Ophthalmol. 2023;67(2):189-254.
+    doi: 10.1007/s10384-022-00970-9
+    pmid: '36780040'
+    pmcid: null
+    url: https://doi.org/10.1007/s10384-022-00970-9
+    source_license: 日本緑内障学会ガイドライン英語版（CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードには個別の薬剤名を記載していないため、個別薬剤の国内承認・保険適用の確認は対象外である。具体的な薬剤選択はガイドライン本文の確認が望ましい。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-494 (id: JlvnmN8)'
+    kokushi: 医学各論 Ⅲ-5-D-②（緑内障、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-031
+  domain: EY
+  subdomain: 閉塞隅角緑内障・急性発作
+  assertion:
+    plain_statement_ja: 急性原発閉塞隅角発作はアジア人に比較的多く、視力を脅かす眼科緊急症である。アジア太平洋緑内障学会等の合意では、速やかな眼圧下降の選択肢としてアルゴンレーザー周辺虹彩形成術、前房穿刺、レーザー瞳孔形成術が適切とされ、条件が整えば早期の水晶体乳化吸引術は網膜神経節細胞のさらなる喪失と進行を防ぐうえで有効とされる。
+    condition:
+      region: アジア太平洋
+      study: アジア太平洋緑内障学会とAAPPOの専門家合意（18人、10の国・地域）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1269
+    source: Chan PP, Zhang X, Aung T, et al. Controversies, consensuses, and guidelines for acute primary angle closure attack (APACA) by the Asia-Pacific Glaucoma Society (APGS) and the Academy of Asia-Pacific Professors of Ophthalmology (AAPPO). Asia Pac J Ophthalmol (Phila). 2025;14(6).
+    doi: 10.1016/j.apjo.2025.100223
+    pmid: '40615047'
+    pmcid: null
+    url: https://doi.org/10.1016/j.apjo.2025.100223
+    source_license: CC BY-NC-ND 4.0（Crossrefのライセンス欄で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 合意文の抄録で確認した範囲に限る。個別の薬剤名は記載していないため、個別薬剤の国内承認・保険適用の確認は対象外である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-494 (id: JlvnmN8)'
+    kokushi: 医学各論 Ⅲ-5-D-②（緑内障、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-035
+  domain: EY
+  subdomain: Basedow病の眼窩評価
+  assertion:
+    plain_statement_ja: Graves眼症（甲状腺眼症）はBasedow病の主な甲状腺外症状であり、EUGOGOガイドライン2021では治療の選択は眼症の活動性と重症度の評価に基づいて行い、大半の患者で専門施設への早期紹介が基本とされる。危険因子として喫煙、甲状腺機能異常、TSH受容体抗体の高値、放射性ヨウ素治療、高コレステロール血症が挙げられる。本カードは眼窩の評価の側面のみを扱い、甲状腺疾患そのものの管理は扱わない。
+    condition:
+      region: ヨーロッパ
+      study: EUGOGO臨床診療ガイドライン2021
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-914
+    source: Bartalena L, et al. The 2021 European Group on Graves' orbitopathy (EUGOGO) clinical practice guidelines for the medical management of Graves' orbitopathy. Eur J Endocrinol. 2021;185(4):G43-G67
+    doi: 10.1530/EJE-21-0479
+    pmid: '34297684'
+    pmcid: null
+    url: null
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 活動性スコアの個別項目は抄録で確認できなかったため記載していない。眼症の治療そのものはTH-017を正とし、本カードでは評価と紹介の側面に限った。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-5-A-②（眼球突出、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-036
+  domain: EY
+  subdomain: 眼窩偽腫瘍（特発性眼窩炎症）
+  assertion:
+    plain_statement_ja: 眼窩炎症性偽腫瘍（特発性眼窩炎症）は良性の非特異的な炎症性疾患で、中年に多く、通常は片側性だが両側性もありうる。症状は浸潤部位と程度により多様で、眼窩痛、腫脹、複視、眼球突出、眼球運動制限、視力低下を含む。診断には臨床像、画像所見、病理学的検査の評価を要することが多く、第一選択の治療は糖質コルチコイドであり、抵抗性や依存性、忍容性に問題がある例では放射線療法、免疫抑制薬、生物学的製剤が検討される。
+    condition:
+      region: グローバル
+      study: 眼窩炎症性偽腫瘍に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1274
+    source: 'Fang Y, Shen B, Dai Q, et al. Orbital inflammatory pseudotumor: new advances in diagnosis, pathogenesis, and treatment. Eur J Med Res. 2023;28(1):395.'
+    doi: 10.1186/s40001-023-01330-0
+    pmid: '37794419'
+    pmcid: PMC10548690
+    url: https://doi.org/10.1186/s40001-023-01330-0
+    source_license: CC BY 4.0（Crossrefのライセンス欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 糖質コルチコイド等の個別薬剤の国内承認・保険適用は未確認。IgG4関連疾患との切り分けの細目は本文確認が望ましい。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-5-A-①（眼窩腫瘍、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-037
+  domain: EY
+  subdomain: 視神経炎
+  assertion:
+    plain_statement_ja: 視神経炎の国際的な診断基準（2022年）では、臨床所見から視神経炎の可能性を判断し、脳・眼窩・網膜の画像検査と抗体等のバイオマーカーを組み合わせることで確実な診断に至る枠組みが示された。視神経炎は多発性硬化症、視神経脊髄炎スペクトラム障害、MOG抗体関連疾患の初発症状となりうるため、発症時点での正確な診断が早期治療につながる。
+    condition:
+      region: グローバル
+      study: 国際専門家パネルによる診断・分類基準の提言
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1275
+    source: Petzold A, Fraser CL, Abegg M, et al. Diagnosis and classification of optic neuritis. Lancet Neurol. 2022;21(12):1120-1134.
+    doi: 10.1016/S1474-4422(22)00200-9
+    pmid: '36179757'
+    pmcid: null
+    url: https://doi.org/10.1016/S1474-4422(22)00200-9
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 基準の個別項目は抄録の範囲を超えるため記載していない。個別薬剤名は記載していないため、個別薬剤の国内承認・保険適用の確認は対象外である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-495 (id: JlvnmOc)'
+    kokushi: 医学各論 Ⅲ-4-B-②（視神経炎・症、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-038
+  domain: EY
+  subdomain: うっ血乳頭
+  assertion:
+    plain_statement_ja: うっ血乳頭は頭蓋内圧亢進による視神経乳頭の浮腫であり、急性期には視機能が通常保たれる点が他の乳頭浮腫と異なる。50歳未満では特発性頭蓋内圧亢進症が最も多い原因である。疑った場合は血圧を測定し、偽性うっ血乳頭を除外したうえで、脳と眼窩のMRI（静脈造影シーケンスを含む）を行い、その後に腰椎穿刺で初圧と髄液所見を評価する。本カードは所見と評価の進め方のみを扱う。
+    condition:
+      region: グローバル
+      study: うっ血乳頭に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1276
+    source: 'Xie JS, Donaldson L, Margolin E. Papilledema: A review of etiology, pathophysiology, diagnosis, and management. Surv Ophthalmol. 2022;67(4).'
+    doi: 10.1016/j.survophthal.2021.11.007
+    pmid: '34813854'
+    pmcid: null
+    url: https://doi.org/10.1016/j.survophthal.2021.11.007
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 原因疾患そのものの診断・治療は本カードの範囲外とし、所見と初期評価にとどめた。数値は抄録に含まれなかったため記載していない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-495 (id: JlvnmOc)'
+    kokushi: 医学各論 Ⅲ-4-B-①（うっ血乳頭、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-039
+  domain: EY
+  subdomain: Horner症候群と眼瞼下垂
+  assertion:
+    plain_statement_ja: Horner症候群は交感神経路の障害により、同側の軽度の眼瞼下垂、反応が保たれた縮瞳、一部の例では同側顔面の無汗症を呈する症候群である。臨床所見が局在診断の手がかりとなり、薬理学的テストは症候群の存在の確認と、その後の検査や管理の方針決定に役立つ。眼瞼下垂の評価では本症候群を鑑別の一つとして瞳孔所見とあわせて確認する。
+    condition:
+      region: グローバル
+      study: Horner症候群に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1277
+    source: 'Kanagalingam S, Miller NR. Horner syndrome: clinical perspectives. Eye Brain. 2015;7.'
+    doi: 10.2147/EB.S63633
+    pmid: '28539793'
+    pmcid: PMC5398733
+    url: https://doi.org/10.2147/EB.S63633
+    source_license: CC BY-NC 3.0（Crossrefのライセンス欄で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 薬理学的テストに用いる個別薬剤名は記載していないため、個別薬剤の国内承認・保険適用の確認は対象外である。動眼神経麻痺そのものや眼筋型重症筋無力症の専用出典は本分担では割り当てていない（未解決事項に記載）。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-4-C-②（眼筋麻痺、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-042
+  domain: EY
+  subdomain: 弱視の定義・分類と治療原則
+  assertion:
+    plain_statement_ja: 弱視は、通常は眼自体に異常がない状況で生じる片眼性、ときに両眼性の最良矯正視力の低下であり、視覚像の異常な処理によって生じる中枢神経系の発達障害である。原因によって、屈折性（不同視性と、両眼の高度屈折異常による等屈折性）、斜視性、視覚遮断性（白内障などの混濁や眼瞼下垂による視軸の遮断）、遮閉性（逆弱視）に分類される。治療では、屈折矯正のみでも不同視性・斜視性・混合性の弱視や両眼屈折性弱視の視力が改善しうる。中等度の弱視（20/40〜20/80）では、1日2時間の遮閉または週末のアトロピン点眼が初期治療となり、ほかに薬理学的治療、Bangerterフィルター、デジタル治療薬などの選択肢があり、弱視の原因そのものへの対処も併せて行う。
+    condition:
+      region: 米国
+      study: 学会ガイドライン（Preferred Practice Pattern）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1301
+    source: Cruz OA, Repka MX, Hercinovic A, Cotter SA, Lambert SR, Hutchinson AK, Sprunger DT, Morse CL, Wallace DK; American Academy of Ophthalmology Preferred Practice Pattern Pediatric Ophthalmology/Strabismus Panel. Amblyopia Preferred Practice Pattern. Ophthalmology. 2023;130(3):P136-P178.
+    doi: 10.1016/j.ophtha.2022.11.003
+    pmid: '36526450'
+    pmcid: PMC10701408
+    url: https://doi.org/10.1016/j.ophtha.2022.11.003
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 定義・分類・治療の要点はいずれもガイドライン本文で確認した。視力の範囲（20/40〜20/80）と遮閉時間（1日2時間）は本文の要点表の記載に基づく。本ガイドラインは米国の診療を前提としており、日本の診療実態との差異は未確認である。アトロピンは薬剤名にあたるため注記する。弱視治療を目的としたアトロピン点眼の国内の承認・保険適用は未確認である。デジタル治療薬の国内の承認状況も未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-4-A-①（弱視、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-043
+  domain: EY
+  subdomain: 色覚異常の分類・遺伝と検査
+  assertion:
+    plain_statement_ja: 色覚異常は先天性と後天性に分けられる。先天性色覚異常は男性の最大8%、女性の0.5%にみられ、最も多い赤緑異常はX連鎖劣性の遺伝形式をとることが性差の背景にある。青黄異常は赤緑異常よりまれである。後天性色覚異常は眼疾患や神経疾患、全身疾患に伴って生じるもので、先天性とは区別して原因を検索する必要がある。検査では仮性同色表によるスクリーニングが広く用いられ、異常の型と程度の判定にはアノマロスコープが用いられる。先天性色覚異常への対応の中心は、進路指導を含む適切なカウンセリングである。
+    condition:
+      region: 国際
+      study: 総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1302
+    source: Simunovic MP. Colour vision deficiency. Eye (Lond). 2010;24(5):747-755.
+    doi: 10.1038/eye.2009.251
+    pmid: '19927164'
+    pmcid: null
+    url: https://doi.org/10.1038/eye.2009.251
+    source_license: © 2010 Macmillan Publishers Limited. All rights reserved
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 有病率（男性8%、女性0.5%）とX連鎖劣性の遺伝形式、先天性と後天性の区別は抄録で確認した。有病率は主に先天性赤緑異常についての値であり、集団によって異なる。検査法の位置づけは総説本文の記述に基づく。本論文はPMCに収載されておらず、PMCIDは確認できなかったためnullとした。本カードには薬剤名を含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-4-A-④（色覚異常、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-044
+  domain: EY
+  subdomain: 視神経萎縮の病像と原因
+  assertion:
+    plain_statement_ja: 視神経萎縮は多様な視神経症の終末像であり、遺伝性または後天性のさまざまな原因による不可逆的な軸索障害を反映する。片眼性にも両眼性にも生じ、さまざまな程度の暗点、部分的から完全なものまで幅のある視力低下、色覚異常、コントラスト感度の低下を呈し、光干渉断層計では網膜神経線維層と神経節細胞層の菲薄化がみられる。フランスの単施設で非緑内障性視神経萎縮643眼を集計した研究では、原因は炎症性が31%と最も多く、次いで圧迫性13%、遺伝性11%、頭蓋内圧亢進に伴うもの8%、虚血性7%、外傷性6%、中毒・栄養性5%で、原因不明が17%あった。
+    condition:
+      region: フランス（トゥールーズの単施設）
+      study: 後ろ向きコホート研究（429例643眼、2015〜2020年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1303
+    source: 'Coutureau T, Butterworth J, Biotti D, Fournié P, Soler V, Varenne F. Microcystic Macular Edema Caused by Non-Glaucomatous Optic Atrophy: A Single-Center, Retrospective, Cohort Study in France. Vision. 2024;8(3):52.'
+    doi: 10.3390/vision8030052
+    pmid: '39311320'
+    pmcid: PMC11417757
+    url: https://doi.org/10.3390/vision8030052
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 病像の記述は論文の序文で確認した。原因別の割合は論文の表（Table 1）から読み取った眼単位の値である（表から読み取り）。この集計では緑内障性および網膜障害・脳障害に続発する視神経萎縮は除外されており、単施設の後ろ向き集計であるため、一般集団における原因別頻度とは異なる可能性がある。本カードには薬剤名を含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-4-B-③（視神経萎縮、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-045
+  domain: EY
+  subdomain: 斜視・斜位の分類と治療原則
+  assertion:
+    plain_statement_ja: 斜視は視線の偏位の方向によって、内方への偏位である内斜視、外方への偏位である外斜視に分けられ、上下方向の偏位を伴うこともある。常に偏位が顕れる顕性斜視と、融合によって制御され普段は偏位が顕れない斜位とは区別される。外斜視は人口の約1%にみられ、間欠性外斜視が最も多い型である。遠視に伴う調節性内斜視では、まず屈折誤差の矯正が初期治療となり、治療の選択肢には二重焦点眼鏡、プリズム療法、外眼筋手術、ボツリヌス毒素注射などがある。斜視に伴う弱視の治療は、一般に斜視の手術に先行して行われる。
+    condition:
+      region: 米国
+      study: 学会ガイドライン（Preferred Practice Pattern、小児が主対象）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1304
+    source: Sprunger DT, Lambert SR, Hercinovic A, Morse CL, Repka MX, Hutchinson AK, Cruz OA, Wallace DK; American Academy of Ophthalmology Preferred Practice Pattern Pediatric Ophthalmology/Strabismus Panel. Esotropia and Exotropia Preferred Practice Pattern®. Ophthalmology. 2023;130(3):P179-P221.
+    doi: 10.1016/j.ophtha.2022.11.002
+    pmid: '36526451'
+    pmcid: PMC10655158
+    url: https://doi.org/10.1016/j.ophtha.2022.11.002
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 外斜視の頻度（約1%、間欠性が最多）と内斜視では屈折矯正が初期治療であることはガイドライン本文で確認した。本ガイドラインの主対象は水平斜視であり、上下斜視の詳細な分類は本文の主眼ではないため、主張文では偏位方向の分類にとどめた。ボツリヌス毒素は薬剤名にあたるため注記する。斜視に対するボツリヌス毒素注射の国内の承認・保険適用は未確認である。本ガイドラインは米国の小児診療を前提としており、日本の診療実態との差異は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-4-C-①（斜視、斜位、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-046
+  domain: EY
+  subdomain: 動眼神経麻痺の原因と瞳孔所見
+  assertion:
+    plain_statement_ja: 後天性の動眼神経麻痺では眼瞼下垂が高頻度にみられ、複視を伴う。米国の地域住民を対象とした研究で新たに診断された145例では、原因は微小血管性と推定されるものが42%と最も多く、次いで外傷12%、腫瘍による圧迫11%、脳神経外科手術後10%、動脈瘤による圧迫6%であった。瞳孔障害は全体の43%にみられ、圧迫性病変では64%と微小血管性の場合の16%より多かったが、瞳孔障害がないことは圧迫性病変の除外にはならず、瞳孔障害があることも微小血管性の原因を除外しない。このため、動眼神経麻痺では動脈瘤を含む圧迫性病変を鑑別することが重要である。
+    condition:
+      region: 米国ミネソタ州オルムステッド郡
+      study: 地域住民ベースの研究（1978〜2014年に診断された145例）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1305
+    source: Fang C, Leavitt JA, Hodge DO, Holmes JM, Mohney BG, Chen JJ. Incidence and Etiologies of Acquired Third Nerve Palsy Using a Population-Based Method. JAMA Ophthalmol. 2017;135(1):23-28.
+    doi: 10.1001/jamaophthalmol.2016.4456
+    pmid: '27893002'
+    pmcid: PMC5462106
+    url: https://doi.org/10.1001/jamaophthalmol.2016.4456
+    source_license: CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 原因別割合と瞳孔障害・眼瞼下垂の頻度は本論文の抄録に基づく数値で、学会誌の抄録要約でも同じ値を確認した。動脈瘤の部位別の内訳は抄録では確認できなかったため、主張文では「動脈瘤による圧迫」とし、特定の部位名は記載していない。本出典の対象は動眼神経麻痺のみであり、滑車神経麻痺・外転神経麻痺それぞれの特徴は扱っていない。本カードには薬剤名を含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-4-C-③（動眼神経麻痺、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-047
+  domain: EY
+  subdomain: 兎眼症の原因と対処
+  assertion:
+    plain_statement_ja: 兎眼症は眼瞼の閉瞼が不完全な状態であり、閉瞼を担う眼輪筋を支配する顔面神経と、眼瞼自体の構造のいずれかに障害があると生じる。インドの単施設で前向きに集計された120例では、麻痺性が86例、眼瞼性が34例で、原因はBell麻痺が35.83%と最も多く、次いで集中治療中の患者15%、外傷性顔面神経麻痺10.8%、脳卒中に伴う顔面神経麻痺6.67%、感染に伴う顔面神経麻痺6.67%、瘢痕性5%、眼瞼手術後5%、眼球突出によるもの1.67%などであった。閉瞼不全が続くと露出性角膜症を来し、角膜障害が進行しうる。発症からの期間が短く、角膜障害が瞳孔軸に及ばず、顔面神経の回復が見込める場合は保存的治療で足りる一方、6週間を超える場合や角膜障害が瞳孔軸に及ぶ場合、顔面神経の回復が不良な場合は、外科的治療が重要となる。
+    condition:
+      region: インド（単施設の三次医療機関）
+      study: 前向き研究（120例、2018〜2019年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1315
+    source: 'Rita MRH, Deepa M, Gitanjali VC, Tinu SR, Subbulakshmi B, Sujitha D, et al. Lagophthalmos: An etiological lookout to frame the decision for management. Indian J Ophthalmol. 2022;70(8):3077-3082.'
+    doi: 10.4103/ijo.IJO_3017_21
+    pmid: '35918976'
+    pmcid: PMC9672712
+    url: https://doi.org/10.4103/ijo.IJO_3017_21
+    source_license: CC BY-NC-SA 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 定義と原因別割合、保存的治療と外科的治療の振り分けの考え方は抄録で確認した。割合はインドの単施設における前向き集計の値であり、日本の原因別頻度とは異なる可能性がある。外科的治療の具体的な術式の選択は重症度と原因により異なるため、主張文では一般的な振り分けにとどめた。本カードには特定の薬剤名を含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-5-B-①（兎眼症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-048
+  domain: EY
+  subdomain: 眼瞼炎
+  assertion:
+    plain_statement_ja: 眼瞼炎は眼瞼縁の慢性の炎症で、部位により前部と後部に分けられる。前部眼瞼炎は眼瞼皮膚、睫毛の基部、睫毛包を侵し、後部眼瞼炎はマイボーム腺を侵すもので、その主たる原因はマイボーム腺機能不全である。症状が朝に悪化するのが典型的であり、経過は再燃と寛解を繰り返す慢性のものである。ケアの基本は眼瞼衛生で、眼瞼清拭は特に前部眼瞼炎に、温罨法は特に後部眼瞼炎（マイボーム腺機能不全）に有用であり、必要に応じて局所抗菌薬などが組み合わされる。
+    condition:
+      region: 米国
+      study: 米国眼科学会の診療ガイドライン（Preferred Practice Pattern）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1306
+    source: Lin A, Ahmad S, Amescua G, et al. Blepharitis Preferred Practice Pattern®. Ophthalmology. 2024;131(4):P50-P86.
+    doi: 10.1016/j.ophtha.2023.12.036
+    pmid: '38349296'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ophtha.2023.12.036
+    source_license: © 2023 American Academy of Ophthalmology（CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 内容はガイドライン全文（公式 PDF）で確認した。ガイドライン本文には局所抗菌薬等の薬剤の記載があるが、個別薬剤名は本カードに含めておらず、それらの国内の承認・保険適用は未確認である。ブドウ球菌性・脂漏性といった伝統的な細分類の臨床所見の対比はガイドラインの表に示される内容であり、本カードでは部位による分類にとどめた。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-5-B-⑥（眼瞼炎、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-049
+  domain: EY
+  subdomain: 眼瞼腫瘍
+  assertion:
+    plain_statement_ja: 眼瞼腫瘍の鑑別では、良性腫瘍として扁平上皮乳頭腫、脂腺過形成、血管腫、化膿性肉芽腫などが挙げられ、悪性腫瘍では基底細胞癌と扁平上皮癌が最も多く、次いで悪性黒色腫と脂腺癌が多い。脂腺癌は眼瞼炎や霰粒腫に紛れてみえることがあり、片眼性の慢性眼瞼炎が治療に反応しない場合、同じ部位に繰り返す霰粒腫、局所的な睫毛脱落、眼瞼縁の正常な構造の消失がある場合は癌を疑い、眼瞼の生検を検討する。
+    condition:
+      region: 米国
+      study: 米国眼科学会の診療ガイドライン（Preferred Practice Pattern）の鑑別診断と診断過程の記載
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1306
+    source: Lin A, Ahmad S, Amescua G, et al. Blepharitis Preferred Practice Pattern®. Ophthalmology. 2024;131(4):P50-P86.
+    doi: 10.1016/j.ophtha.2023.12.036
+    pmid: '38349296'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ophtha.2023.12.036
+    source_license: © 2023 American Academy of Ophthalmology（CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 良性・悪性腫瘍の列挙はガイドラインの鑑別診断の表から読み取り、悪性の頻度の順序と脂腺癌に関する注意点は本文で確認した。母斑はガイドラインの鑑別表に含まれていなかったため本カードには含めていない。各腫瘍の頻度の具体的な数値はガイドラインには示されておらず、本カードにも含めていない。切除範囲や再建などの外科治療の詳細は本カードの範囲外である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-5-B-⑦（眼瞼腫瘍、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-050
+  domain: EY
+  subdomain: 結膜下出血
+  assertion:
+    plain_statement_ja: 結膜下出血は急性の眼の充血のよくある原因で、通常は無痛で視力低下を伴わない。若年者では外傷とコンタクトレンズの使用が主な危険因子であり、高齢者では高血圧、糖尿病、動脈硬化などの全身の血管疾患が多い。咳、くしゃみ、嘔吐、力みなどによる急な静脈うっ血や、抗凝固・抗血小板療法も発症に関わる。多くの場合は特別な治療なしに2〜3週間で血液が吸収される。再発を繰り返す場合や持続する場合は、全身性高血圧、出血性疾患、悪性腫瘍、薬剤の副作用について評価が必要である。
+    condition:
+      region: 国際
+      study: 結膜下出血の危険因子に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1307
+    source: 'Tarlan B, Kiratli H. Subconjunctival hemorrhage: risk factors and potential indicators. Clin Ophthalmol. 2013;7:1163-1170.'
+    doi: 10.2147/OPTH.S35062
+    pmid: '23843690'
+    pmcid: PMC3702240
+    url: https://doi.org/10.2147/OPTH.S35062
+    source_license: CC BY-NC 3.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 危険因子と再発時の評価の必要性は抄録で確認し、2〜3週間での吸収と抗凝固・抗血小板療法との関連は本文で確認した。抗凝固薬・抗血小板薬はクラス名の記載にとどめ、個別薬剤の国内の承認・保険適用は未確認である（本カードはそれらの使用を推奨するものではない）。発症頻度の具体的な数値は出典の本文中で他研究の引用として示されるものであり、本カードには含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-5-C-②（結膜下出血、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-051
+  domain: EY
+  subdomain: 涙道狭窄・閉塞
+  assertion:
+    plain_statement_ja: 後天性の鼻涙管閉塞では、涙が涙嚢に貯留して流涙と眼脂を生じ、涙嚢炎の主たる発生機序となる。涙嚢炎は鼻涙管遠位部の閉塞を背景とすることが最も多く、再発を防ぐには閉塞そのものへの対処が必要である。手術は涙嚢鼻腔吻合術（外路、内鼻、レーザーなど）が中心で、その時期は症状と所見、年齢、全身状態によって判断する。
+    condition:
+      region: 全般
+      study: 涙嚢炎の診断と治療に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1258
+    source: 'Pinar-Sueiro S, Sota M, Lerchundi TX, Gibelalde A, Berasategui B, Vilar B, Hernandez JL. Dacryocystitis: Systematic Approach to Diagnosis and Therapy. Curr Infect Dis Rep. 2012;14(2):137-146.'
+    doi: 10.1007/s11908-012-0238-8
+    pmid: '22286338'
+    pmcid: null
+    url: https://doi.org/10.1007/s11908-012-0238-8
+    source_license: © Springer Science+Business Media, LLC 2012（CC表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 本出典は第25回 Y1 で EY-016（涙嚢炎）に使用した登録済み出典の再利用である。流涙と涙の貯留、閉塞への対処の必要性は著者版 PDF の本文で確認した。内視鏡下（内鼻）と外路の涙嚢鼻腔吻合術の成功率の比較などの数値は本出典の抄録・本文で確認できなかったため含めていない。個別の抗菌薬名は本カードに記載していないため、個別薬剤の国内承認・保険適用の確認は対象外である。先天鼻涙管閉塞は本カードの対象外である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-5-C-③（涙道狭窄・閉塞、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-052
+  domain: EY
+  subdomain: 春季カタル
+  assertion:
+    plain_statement_ja: 春季カタル（春季角結膜炎）は小児と若年成人に多い慢性のアレルギー性角結膜炎で、男児に多く、思春期に軽快する傾向がある。強いかゆみと粘稠な眼脂を呈し、上眼瞼結膜の巨大乳頭や、点状表層角膜症、シールド潰瘍などの角膜合併症を伴うことがある。治療は重症度に応じて段階的に行い、肥満細胞安定薬と抗ヒスタミン薬が軽症から中等症の基本となり、重症例ではステロイド点眼がレスキューとして用いられ、シクロスポリンやタクロリムスなどの免疫抑制薬の局所投与も検討される。
+    condition:
+      region: 国際
+      study: 春季角結膜炎の管理に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1308
+    source: Leonardi A. Management of vernal keratoconjunctivitis. Ophthalmol Ther. 2013;2(2):73-88.
+    doi: 10.1007/s40123-013-0019-y
+    pmid: '25135808'
+    pmcid: PMC4108143
+    url: https://doi.org/10.1007/s40123-013-0019-y
+    source_license: CC BY-NC
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 疫学的な特徴と角膜合併症、治療の段階づけは抄録と本文で確認した。本カードには薬剤のクラス名とシクロスポリン、タクロリムスという薬剤名を含むが、これらの春季カタルに対する国内の承認・保険適用は未確認である。用量や投与期間の具体的な数値は含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-5-C-⑥（春季カタル、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-053
+  domain: EY
+  subdomain: 強膜炎
+  assertion:
+    plain_statement_ja: 強膜炎は上強膜炎よりも眼合併症を伴うことが多い。2つの3次紹介施設の585例（強膜炎500例、上強膜炎85例）の検討では、眼合併症は強膜炎の45.0%に、上強膜炎の19.0%に認められ、視力低下は15.8%と2.3%、前部ぶどう膜炎は26.4%と16.5%、眼圧上昇は14.2%と3.5%だった。全身疾患の合併は強膜炎の35.8%に認められ、そのうち結合組織・血管炎性疾患が24.8%を占め、強膜炎が全身疾患の診断に先行した例が38.7%あった。合併症と疾患合併が最も多いのは壊死性強膜炎で、視力低下の危険因子には壊死性強膜炎（オッズ比6.63）と後部強膜炎（同2.33）が含まれる。
+    condition:
+      region: 国際
+      study: 2つの3次紹介施設における後ろ向き症例集積（強膜炎500例、上強膜炎85例）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1309
+    source: Sainz de la Maza M, Molina N, Gonzalez-Gonzalez LA, Doctor PP, Tauber J, Foster CS. Clinical characteristics of a large cohort of patients with scleritis and episcleritis. Ophthalmology. 2012;119(1):43-50.
+    doi: 10.1016/j.ophtha.2011.07.013
+    pmid: '21963265'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ophtha.2011.07.013
+    source_license: CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値はいずれも出典の抄録で確認した。対象は3次紹介施設の症例集積であり、日本の頻度とは限らない。抄録では合併する全身疾患は結合組織・血管炎性疾患という分類までしか示されておらず、関節リウマチなど個別の疾患名ごとの頻度は確認できなかったため含めていない。強膜炎の疼痛の性状や治療（免疫抑制療法など）は本カードには含めておらず、個別薬剤の国内承認・保険適用の確認は対象外である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-5-C-⑩（強膜炎、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-054
+  domain: EY
+  subdomain: 水晶体偏位・脱臼
+  assertion:
+    plain_statement_ja: 水晶体偏位・脱臼（水晶体亜脱臼を含む）は、全身性疾患を伴う場合と伴わない孤立性の場合がある。遺伝子変異が同定されている関連疾患・病型には、Marfan症候群、Weill-Marchesani症候群、ホモシスチン尿症、Ehlers-Danlos症候群、亜硫酸オキシダーゼ欠損症のほか、全身性疾患を伴わない水晶体偏位の病型が含まれる。本カードは眼の所見としての水晶体偏位・脱臼の原因の範囲のみを扱う。
+    condition:
+      region: 国際
+      study: 水晶体偏位の遺伝学に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1310
+    source: Sadiq MA, Vanderveen D. Genetics of ectopia lentis. Semin Ophthalmol. 2013;28(5-6):313-320.
+    doi: 10.3109/08820538.2013.825276
+    pmid: '24138040'
+    pmcid: null
+    url: https://doi.org/10.3109/08820538.2013.825276
+    source_license: CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 本カードは出典の抄録で確認できた関連疾患と遺伝子変異の範囲のみを記載した。境界の方針により、Marfan症候群などの全身像は含めていない。偏位の方向が原因疾患の手がかりになること（方向別の対応）、外傷による脱臼、緑内障や網膜剥離などの眼合併症は、出典の抄録では確認できなかったため本カードには含めておらず、本文または別の一次資料での確認が望ましい。各疾患の原因遺伝子の個別の対応も抄録の範囲外である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-5-D-③（水晶体偏位・脱臼、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）

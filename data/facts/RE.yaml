@@ -1,0 +1,966 @@
+- id: RE-001
+  domain: RE
+  subdomain: 糖尿病網膜症の分類
+  assertion:
+    plain_statement_ja: 糖尿病網膜症の国際臨床重症度分類は5段階からなり、低いリスクの3段階の上に第4段階として重症非増殖糖尿病網膜症、第5段階として増殖糖尿病網膜症が置かれる。糖尿病黄斑浮腫は「明らかに存在する」か「明らかに存在しない」かで分け、検査の条件が整えば中心窩からの距離によってさらに分類する。この分類は Early Treatment Diabetic Retinopathy Study と Wisconsin Epidemiologic Study of Diabetic Retinopathy の知見に基づいて国際的な合意として作られた。
+    condition:
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1281
+    source: Wilkinson CP, Ferris FL 3rd, Klein RE, et al. Proposed international clinical diabetic retinopathy and diabetic macular edema disease severity scales. Ophthalmology. 2003;110(9):1677-1682.
+    doi: 10.1016/S0161-6420(03)00475-5
+    pmid: '13129861'
+    pmcid: null
+    url: https://doi.org/10.1016/S0161-6420(03)00475-5
+    source_license: CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 各段階を定義する具体的な眼底所見（微小血管瘤のみ、網膜出血の範囲など）は本論文の分類表に示されているが、本カードでは抄録で確認できた段階構成のみを記載した。日本で用いられる分類（新福田分類など）との対応は本カードには含めていない。糖尿病網膜症の全身管理は DM-028（第21回）を正とし、本カードは眼科的な分類に限る。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-497 (id: JlvnmOQ)'
+    kokushi: 医学各論 Ⅲ-6-C-①（糖尿病網膜症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-002
+  domain: RE
+  subdomain: 糖尿病網膜症の眼科治療
+  assertion:
+    plain_statement_ja: 国際眼科学会（ICO）の糖尿病眼ケアガイドラインは、糖尿病網膜症についてスクリーニング、紹介、経過観察の間隔と、視力を脅かす病態への治療を医療資源の水準に応じて示している。視力を脅かす糖尿病網膜症と糖尿病黄斑浮腫への治療には、レーザー光凝固と硝子体内抗 VEGF 薬が含まれ、特定の状況では硝子体内ステロイドも用いられる。妊娠中や白内障を合併した患者への対応も別途示されている。
+    condition:
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1282
+    source: 'Wong TY, Sun J, Kawasaki R, et al. Guidelines on Diabetic Eye Care: The International Council of Ophthalmology Recommendations for Screening, Follow-up, Referral, and Treatment Based on Resource Settings. Ophthalmology. 2018;125(10):1608-1622.'
+    doi: 10.1016/j.ophtha.2018.04.007
+    pmid: '29776671'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ophtha.2018.04.007
+    source_license: CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 本カードはガイドラインの抄録で確認できた治療の枠組みのみを記載し、病期ごとの具体的な治療適応や投与間隔は含めていない。本文中に抗 VEGF 薬とステロイドの硝子体内投与が挙げられているが、各薬剤の糖尿病網膜症・糖尿病黄斑浮腫に対する国内の承認・保険適用は未確認である。血糖・血圧などの全身管理は本カードの範囲外（DM-028 を正とする）。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-497 (id: JlvnmOQ)'
+    kokushi: 医学各論 Ⅲ-6-C-①（糖尿病網膜症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-003
+  domain: RE
+  subdomain: 糖尿病黄斑浮腫
+  assertion:
+    plain_statement_ja: 中心窩に及ぶ糖尿病黄斑浮腫に対する硝子体内抗 VEGF 療法の無作為化比較試験（Protocol T、660例）では、1年後の視力改善はアフリベルセプト群で平均13.3文字、ベバシズマブ群で9.7文字、ラニビズマブ群で11.2文字だった。全体ではアフリベルセプトが優れたが、この差は主に試験開始時の視力が悪い（文字スコア69未満、約20/50以下）群で生じており、その群では改善がアフリベルセプト18.9文字、ラニビズマブ14.2文字、ベバシズマブ11.8文字だった。開始時視力の低下が軽い群では3剤間に明らかな差はなかった。重篤な有害事象の頻度に群間の有意差はなかった。
+    condition:
+      region: 国際
+      study: 無作為化比較試験（DRCR.net Protocol T）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1283
+    source: Diabetic Retinopathy Clinical Research Network; Wells JA, Glassman AR, Ayala AR, et al. Aflibercept, bevacizumab, or ranibizumab for diabetic macular edema. N Engl J Med. 2015;372(13):1193-1203.
+    doi: 10.1056/NEJMoa1414264
+    pmid: '25692915'
+    pmcid: PMC4422053
+    url: https://doi.org/10.1056/NEJMoa1414264
+    source_license: © 2015 Massachusetts Medical Society（CC表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値はいずれも出典の抄録で確認した1年後の結果である。用量はアフリベルセプト2.0 mg、ベバシズマブ1.25 mg、ラニビズマブ0.3 mg（米国の試験用量）であり、国内の承認用量とは限らない。各薬剤の糖尿病黄斑浮腫に対する国内の承認・保険適用は未確認である（ベバシズマブの硝子体内投与は出典の試験でも適応外使用の位置づけ）。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-497 (id: JlvnmOQ)'
+    kokushi: 医学各論 Ⅲ-6-C-①（糖尿病網膜症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-004
+  domain: RE
+  subdomain: 網膜静脈分枝閉塞症
+  assertion:
+    plain_statement_ja: 網膜静脈分枝閉塞症に伴う黄斑浮腫に対しては、ラニビズマブの硝子体内投与が有効である。第III相試験（BRAVO、397例）で月1回投与を6か月行ったところ、最高矯正視力の改善はラニビズマブ0.3 mg群で平均16.6文字、0.5 mg群で18.3文字、シャム群で7.3文字だった。15文字以上の視力改善を得た割合は0.3 mg群55.2%、0.5 mg群61.1%、シャム群28.8%だった。
+    condition:
+      region: 国際
+      study: 無作為化比較試験（BRAVO）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1284
+    source: 'Campochiaro PA, Heier JS, Feiner L, et al. Ranibizumab for macular edema following branch retinal vein occlusion: six-month primary end point results of a phase III study. Ophthalmology. 2010;117(6):1102-1112.e1.'
+    doi: 10.1016/j.ophtha.2010.02.021
+    pmid: '20398941'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ophtha.2010.02.021
+    source_license: CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値はいずれも出典の抄録で確認した6か月後の主要評価項目である。ラニビズマブの網膜静脈分枝閉塞症に伴う黄斑浮腫に対する国内の承認・保険適用は未確認である。虚血型・非虚血型の区別や無血管野へのレーザー治療の適応は本カードには含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-500 (id: JlvnmOo)'
+    kokushi: 医学各論 Ⅲ-6-C-③（網膜静脈閉塞症、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-005
+  domain: RE
+  subdomain: 網膜中心静脈閉塞症
+  assertion:
+    plain_statement_ja: 網膜中心静脈閉塞症に伴う黄斑浮腫に対しては、ラニビズマブの硝子体内投与が有効である。第III相試験（CRUISE、392例）で月1回投与を6か月行ったところ、最高矯正視力の改善はラニビズマブ0.3 mg群で平均12.7文字、0.5 mg群で14.9文字、シャム群で0.8文字だった。15文字以上の視力改善を得た割合は0.3 mg群46.2%、0.5 mg群47.7%、シャム群16.9%だった。
+    condition:
+      region: 国際
+      study: 無作為化比較試験（CRUISE）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1285
+    source: 'Brown DM, Campochiaro PA, Singh RP, et al. Ranibizumab for macular edema following central retinal vein occlusion: six-month primary end point results of a phase III study. Ophthalmology. 2010;117(6):1124-1133.e1.'
+    doi: 10.1016/j.ophtha.2010.02.022
+    pmid: '20381871'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ophtha.2010.02.022
+    source_license: CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値はいずれも出典の抄録で確認した6か月後の主要評価項目である。ラニビズマブの網膜中心静脈閉塞症に伴う黄斑浮腫に対する国内の承認・保険適用は未確認である。虹彩・隅角新生血管や血管新生緑内障の監視といった合併症管理は本カードには含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-500 (id: JlvnmOo)'
+    kokushi: 医学各論 Ⅲ-6-C-③（網膜静脈閉塞症、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-006
+  domain: RE
+  subdomain: 網膜中心動脈閉塞症
+  assertion:
+    plain_statement_ja: 網膜中心動脈閉塞症は急性虚血性脳卒中の一型であり、重度の視力障害を来す医学的緊急事態である。発症後は脳血管・心血管イベントの前触れでもあるため、血管危険因子の緊急の評価と治療が必要であり、現在の文献からは組織プラスミノーゲンアクチベータ静注療法が有効である可能性が示唆されている。管理の方法は実務者や施設によってばらつきが大きく、質の高い無作為化比較試験は不足している。
+    condition:
+      region: 米国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1286
+    source: 'Mac Grory B, Schrag M, Biousse V, et al. Management of Central Retinal Artery Occlusion: A Scientific Statement From the American Heart Association. Stroke. 2021;52(6):e282-e294.'
+    doi: 10.1161/STR.0000000000000366
+    pmid: '33677974'
+    pmcid: null
+    url: https://doi.org/10.1161/STR.0000000000000366
+    source_license: CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 本カードは米国心臓協会の科学的声明の抄録に基づく。血栓溶解療法の投与可能時間などの具体的な条件は声明本文の検討事項であり、本カードには含めていない。組織プラスミノーゲンアクチベータの網膜中心動脈閉塞症に対する国内の承認・保険適用は未確認である。眼球マッサージや前房穿刺などの従来処置の評価も声明本文の範囲で、本カードでは扱っていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-500 (id: JlvnmOo)'
+    kokushi: 医学各論 Ⅲ-6-C-④（網膜動脈閉塞症、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-007
+  domain: RE
+  subdomain: 高血圧による眼底変化
+  assertion:
+    plain_statement_ja: 高血圧性網膜症は、血圧上昇に応じて生じる網膜微小血管の変化を指す。その眼底変化は40歳以上の成人にしばしばみられ、従来の危険因子とは独立に、脳卒中の発症、心不全、心血管死亡の予測因子になる。高血圧は網膜静脈・動脈閉塞症や虚血性視神経症など他の網膜血管疾患の主要な危険因子でもあり、糖尿病網膜症の発症と進行のリスクも高める。
+    condition:
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1287
+    source: Wong TY, Mitchell P. The eye in hypertension. Lancet. 2007;369(9559):425-435.
+    doi: 10.1016/S0140-6736(07)60198-6
+    pmid: '17276782'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(07)60198-6
+    source_license: CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: Keith-Wagener-Barker 分類などの段階分類の定義（細動脈狭細化、交叉現象、綿花様白斑、乳頭浮腫の段階づけ）は出典本文の表に示される内容であり、抄録では確認できなかったため本カードには含めていない。分類表を用いる場合は本文の表から読み取りのうえ別途確認が必要である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-008
+  domain: RE
+  subdomain: 裂孔原性網膜剥離
+  assertion:
+    plain_statement_ja: 網膜剥離には滲出性、牽引性、裂孔原性の3つの型がある。最も多い裂孔原性網膜剥離は、硝子体と網膜の牽引によって生じた網膜裂孔から液化した硝子体が網膜下に入り込むことで起こる。危険因子は加齢、白内障手術の既往、近視、外傷である。
+    condition:
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1288
+    source: Gariano RF, Kim CH. Evaluation and management of suspected retinal detachment. Am Fam Physician. 2004;69(7):1691-1698.
+    doi: null
+    pmid: '15086041'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/15086041/
+    source_license: © 2004 American Academy of Family Physicians（CC表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典は2004年の総説であり、抄録で確認できた機序と危険因子のみを記載した。Am Fam Physician は DOI を付与していないため DOI は null とした。裂孔の形態（馬蹄形裂孔、円孔など）ごとの違いは本カードには含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-498 (id: JlvnmOE)'
+    kokushi: 医学各論 Ⅲ-6-C-②（網膜剝離、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-009
+  domain: RE
+  subdomain: 網膜剥離の前駆症状と診断
+  assertion:
+    plain_statement_ja: 網膜剥離の患者は典型的に、光視症（閃光）、飛蚊症、周辺視野の欠損、視力のぼやけを訴える。網膜裂孔ができた段階で早期に介入すれば網膜剥離への進展を防ぐことができ、剥離後の手術成績も早期介入で良くなるため、光視症や飛蚊症が急性に出現した患者は眼科へ紹介すべきである。
+    condition:
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1288
+    source: Gariano RF, Kim CH. Evaluation and management of suspected retinal detachment. Am Fam Physician. 2004;69(7):1691-1698.
+    doi: null
+    pmid: '15086041'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/15086041/
+    source_license: © 2004 American Academy of Family Physicians（CC表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典は2004年の総説であり、抄録で確認できた症状と紹介の考え方のみを記載した。Am Fam Physician は DOI を付与していないため DOI は null とした。倒像鏡検査や超音波検査などの具体的な検査手順、瞳孔不同や相対性求心性瞳孔障害などの所見の詳細は本カードには含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-498 (id: JlvnmOE)'
+    kokushi: 医学各論 Ⅲ-6-C-②（網膜剝離、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-010
+  domain: RE
+  subdomain: 網膜剥離の治療
+  assertion:
+    plain_statement_ja: 裂孔原性網膜剥離の手術には硝子体手術（経毛様体扁平部硝子体切除）と強膜内陥術があり、現在の術式では解剖学的・視機能的に高い成功率が得られる。硝子体手術は特に偽水晶体眼の網膜剥離に対する第一の治療として有効性が示されている。黄斑がまだ剥離していない網膜剥離では、短期間の手術待機が必ずしも不利にならない場合がある。
+    condition:
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1289
+    source: Schwartz SG, Flynn HW Jr, Mieler WF. Update on retinal detachment surgery. Curr Opin Ophthalmol. 2013;24(3):255-261.
+    doi: 10.1097/ICU.0b013e32835f8e6b
+    pmid: '23429600'
+    pmcid: null
+    url: https://doi.org/10.1097/ICU.0b013e32835f8e6b
+    source_license: CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典は2013年の総説で、抄録で確認できた範囲のみを記載した。気体網膜復位術（pneumatic retinopexy）の適応や、タンポナーデ物質の選択、黄斑剥離の有無による手術緊急度の具体的な基準は抄録の範囲外であり、本カードには含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-498 (id: JlvnmOE)'
+    kokushi: 医学各論 Ⅲ-6-C-②（網膜剝離、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-011
+  domain: RE
+  subdomain: 加齢黄斑変性の診断
+  assertion:
+    plain_statement_ja: 加齢黄斑変性は世界的に失明の主要な原因である。進行した加齢黄斑変性には新生血管を伴う滲出型（wet）と地図状萎縮を来す萎縮型（late dry）があり、いずれも進行性の視力障害を来す。危険因子には喫煙、栄養因子、心血管疾患のほか、補体、脂質、血管新生、細胞外基質の経路に関わる遺伝子マーカーがある。正確な診断には臨床検査に加えて、眼底写真、造影検査、光干渉断層計（OCT）を組み合わせる。
+    condition:
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1290
+    source: Lim LS, Mitchell P, Seddon JM, Holz FG, Wong TY. Age-related macular degeneration. Lancet. 2012;379(9827):1728-1738.
+    doi: 10.1016/S0140-6736(12)60282-7
+    pmid: '22559899'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(12)60282-7
+    source_license: CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典の抄録には、高齢化する集団では20%を超える人が本症を有する可能性があるとの記載があるが、対象集団の定義が抄録では明確でないため本カードの数値としては採用しなかった。ドルーゼンの分類や国際分類の段階の詳細は本文の範囲であり、本カードには含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-499 (id: JlvnmOI)'
+    kokushi: 医学各論 Ⅲ-6-C-⑥（加齢黄斑変性、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-012
+  domain: RE
+  subdomain: 加齢黄斑変性の治療
+  assertion:
+    plain_statement_ja: 新生血管を伴う加齢黄斑変性に対するラニビズマブの硝子体内投与は、視力低下を防ぎ平均視力を改善する。シャム対照試験（MARINA、716例、中心窩下の脈絡膜新生血管）では、12か月時点で15文字未満の視力低下にとどまった割合はラニビズマブ0.3 mg群94.5%、0.5 mg群94.6%、シャム群62.2%だった。15文字以上の視力改善は0.3 mg群24.8%、0.5 mg群33.8%、シャム群5.0%だった。24か月間で、注射に伴う眼内炎は1.0%、重篤なぶどう膜炎は1.3%に認められた。
+    condition:
+      region: 国際
+      study: 無作為化比較試験（MARINA）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1291
+    source: Rosenfeld PJ, Brown DM, Heier JS, et al. Ranibizumab for neovascular age-related macular degeneration. N Engl J Med. 2006;355(14):1419-1431.
+    doi: 10.1056/NEJMoa054481
+    pmid: '17021318'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa054481
+    source_license: © 2006 Massachusetts Medical Society（CC表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値はいずれも出典の抄録で確認した。対象は minimally classic 型または occult 型の脈絡膜新生血管であり、classic 型主体の病変への結果は別の試験の範囲である。ラニビズマブ以外の抗 VEGF 薬や現在の投与プロトコル（treat-and-extend 等）は本カードには含めていない。ラニビズマブの加齢黄斑変性に対する国内の承認・保険適用は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-499 (id: JlvnmOI)'
+    kokushi: 医学各論 Ⅲ-6-C-⑥（加齢黄斑変性、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-013
+  domain: RE
+  subdomain: 中心性漿液性脈絡網膜症
+  assertion:
+    plain_statement_ja: 中心性漿液性脈絡網膜症は、中年男性の視力を脅かす主要な疾患の一つである。病態には脈絡膜と網膜色素上皮が関わり、マルチモーダルイメージングによって多様な病像が明らかになっている。危険因子・併存症として高血圧、冠動脈疾患、心理的ストレスが知られ、ミネラルコルチコイド経路の不適切な活性化がこれらの併存症と本症を結びつける機序として提唱されており、経口のミネラルコルチコイド受容体拮抗薬の生物学的有効性が臨床的に報告されている。
+    condition:
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1292
+    source: 'Daruich A, Matet A, Dirani A, et al. Central serous chorioretinopathy: Recent findings and new physiopathology hypothesis. Prog Retin Eye Res. 2015;48:82-118.'
+    doi: 10.1016/j.preteyeres.2015.05.003
+    pmid: '26026923'
+    pmcid: null
+    url: https://doi.org/10.1016/j.preteyeres.2015.05.003
+    source_license: CC BY-NC-ND
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 出典は2015年の総説で、抄録で確認できた範囲のみを記載した。自然経過での回復率や、光線力学療法・レーザー治療の適応、慢性型の定義などの具体的な数値・基準は抄録の範囲外であり、本カードには含めていない。ミネラルコルチコイド受容体拮抗薬の本症に対する国内の承認・保険適用は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-6-C-⑨（中心性漿液性脈絡網膜症、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-014
+  domain: RE
+  subdomain: 黄斑前線維症<黄斑前膜>
+  assertion:
+    plain_statement_ja: 特発性黄斑前膜は、黄斑部の網膜内表面に増殖する線維細胞性の膜である。膜の収縮が視力を脅かす主たる出来事であり、線維性の再構築による。疫学的には有病率が加齢と後部硝子体剥離に関連し、異常な後部硝子体剥離が形成のきっかけとなる重要な出来事と考えられている。臨床的には膜の肥厚としわの増加を伴う段階を経て進行する。病態は筋線維芽細胞の形成と新しいコラーゲンの沈着を伴う線維化の過程である。
+    condition:
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1293
+    source: Bu SC, Kuijer R, Li XR, Hooymans JM, Los LI. Idiopathic epiretinal membrane. Retina. 2014;34(12):2317-2335.
+    doi: 10.1097/IAE.0000000000000349
+    pmid: '25360790'
+    pmcid: null
+    url: https://doi.org/10.1097/IAE.0000000000000349
+    source_license: CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典は2014年の総説で、抄録で確認できた病態と臨床経過のみを記載した。有病率の具体的な数値、変視症などの自覚症状の頻度、硝子体手術（膜剥離）の適応基準や手術成績は抄録の範囲外であり、本カードには含めていない。二次性の黄斑前膜（糖尿病網膜症や網膜静脈閉塞症に伴うもの）は本カードの対象外である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-6-C-⑩（黄斑円孔、網膜上膜<網膜前膜>、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-015
+  domain: RE
+  subdomain: 黄斑浮腫の治療
+  assertion:
+    plain_statement_ja: 網膜中心静脈閉塞症（半側静脈閉塞症を含む）に伴う黄斑浮腫への抗 VEGF 療法では、ベバシズマブはアフリベルセプトに対して視力の点で非劣性である。無作為化試験（SCORE2、362例）で4週ごとの硝子体内投与を6か月行ったところ、視力文字スコアの改善はベバシズマブ1.25 mg群で平均18.6文字、アフリベルセプト2.0 mg群で18.9文字であり、非劣性マージン5文字の基準を満たした。
+    condition:
+      region: 米国
+      study: 無作為化非劣性試験（SCORE2）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1294
+    source: 'Scott IU, VanVeldhuisen PC, Ip MS, et al. Effect of Bevacizumab vs Aflibercept on Visual Acuity Among Patients With Macular Edema Due to Central Retinal Vein Occlusion: The SCORE2 Randomized Clinical Trial. JAMA. 2017;317(20):2072-2087.'
+    doi: 10.1001/jama.2017.4568
+    pmid: '28492910'
+    pmcid: PMC5710547
+    url: https://doi.org/10.1001/jama.2017.4568
+    source_license: © 2017 American Medical Association（CC表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値はいずれも出典の抄録で確認した6か月時点の結果である。出典自体が、ベバシズマブはこの病態に対して適応外で使用されていることを明記している。ベバシズマブの硝子体内投与およびアフリベルセプトの網膜中心静脈閉塞症に伴う黄斑浮腫に対する国内の承認・保険適用は未確認である。糖尿病黄斑浮腫など他の原因による黄斑浮腫の治療は RE-003 など別カードの範囲である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-016
+  domain: RE
+  subdomain: 未熟児網膜症
+  assertion:
+    plain_statement_ja: 未熟児網膜症は未熟な網膜組織に起こる病理過程であり、牽引性網膜剥離へ進行して視力障害や失明を来し得る。重症の未熟児網膜症に対しては不良な視力転帰を大きく減らす治療が30年以上前から存在するが、治療を要する重症例を破壊的な変化が起こる前に診断する必要がある。そのため、リスクのある早産児には適切な時期と間隔で繰り返し眼底検査を行い、変化を順序立てて追うスクリーニング体制が求められる。
+    condition:
+      region: 米国
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1295
+    source: Fierson WM; American Academy of Pediatrics Section on Ophthalmology; American Academy of Ophthalmology; American Association for Pediatric Ophthalmology and Strabismus; American Association of Certified Orthoptists. Screening Examination of Premature Infants for Retinopathy of Prematurity. Pediatrics. 2018;142(6):e20183061.
+    doi: 10.1542/peds.2018-3061
+    pmid: '30478242'
+    pmcid: null
+    url: https://doi.org/10.1542/peds.2018-3061
+    source_license: © 2018 American Academy of Pediatrics（CC表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: スクリーニング対象の出生体重・在胎週数の具体的な基準、初回検査の時期、国際分類（ICROP）のゾーン・ステージ・plus disease の定義は声明本文に示される内容であり、抄録では確認できなかったため本カードには含めていない。国内のスクリーニング基準は本声明（米国）とは別に確認が必要である。治療（レーザー光凝固、抗 VEGF 薬）の適応基準も本文および別途の一次資料での確認が必要である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-6-C-⑦（未熟児網膜症、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-017
+  domain: RE
+  subdomain: 網膜色素変性
+  assertion:
+    plain_statement_ja: 網膜色素変性は視細胞の喪失による遺伝性の網膜ジストロフィーで、眼底に色素沈着を認める。非症候性の網膜色素変性の頻度はおよそ4,000人に1人である。最も多い桿体・錐体ジストロフィー型では、最初の症状は夜盲であり、次いで明所での周辺視野が徐々に狭窄し、数十年を経て失明に至ることがある。診断は夜盲と周辺視野欠損、眼底所見、網膜電図の低電位、所見の進行に基づいて行われる。出典の時点では、病気の進行を止めたり視力を回復させたりする治療はなく、治療は日光防御などによる進行の遅延と、白内障・黄斑浮腫などの合併症の治療に限られていた。
+    condition:
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1296
+    source: Hamel C. Retinitis pigmentosa. Orphanet J Rare Dis. 2006;1:40.
+    doi: 10.1186/1750-1172-1-40
+    pmid: '17032466'
+    pmcid: PMC1621055
+    url: https://doi.org/10.1186/1750-1172-1-40
+    source_license: CC BY 2.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 出典は2006年の総説であり、頻度（約4,000人に1人）と原因遺伝子数（当時45遺伝子・遺伝子座）は当時の値である。2006年以降に登場した遺伝子治療などの新しい治療の国内承認・保険適用は本カードでは未確認であり、治療に関する記述は出典の時点のものとして読む必要がある。出題基準の表に網膜色素変性の項目がないため kokushi は null とした。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-499 (id: JlvnmOI)'
+    kokushi: 医学各論 Ⅲ-6-C-⑤（網膜色素変性、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-018
+  domain: RE
+  subdomain: 硝子体出血
+  assertion:
+    plain_statement_ja: 自然発生の硝子体出血の頻度は人口10万人あたり約7例である。原因として最も多いのは増殖糖尿病網膜症（32%）、次いで網膜裂孔（30%）、網膜静脈閉塞症後の増殖性網膜症（11%）、裂孔を伴わない後部硝子体剥離（8%）である。硝子体内の血液は速やかに凝固し、その後およそ1日1%の速さでゆっくり吸収される。吸収されない硝子体出血に対する確立した治療は経毛様体扁平部硝子体切除である。持続する出血の合併症として、ゴーストセル緑内障などの続発緑内障が生じ得る。
+    condition:
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1297
+    source: Spraul CW, Grossniklaus HE. Vitreous Hemorrhage. Surv Ophthalmol. 1997;42(1):3-39.
+    doi: 10.1016/S0039-6257(97)84041-6
+    pmid: '9265701'
+    pmcid: null
+    url: https://doi.org/10.1016/S0039-6257(97)84041-6
+    source_license: CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典は1997年の総説であり、頻度と原因の割合はいずれも出典の抄録に記載された当時の値である。現在の原因構成や、糖尿病網膜症に伴う硝子体出血への抗 VEGF 薬の位置づけなど、近年の診療は本カードの範囲外である。出題基準の表に硝子体出血の項目がないため kokushi は null とした。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-6-D-①（硝子体出血、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-019
+  domain: RE
+  subdomain: サルコイドーシスの眼病変
+  assertion:
+    plain_statement_ja: 眼サルコイドーシスの改訂 IWOS 診断基準（2019年）は、次の4要素からなる。(1) 肉芽腫性ぶどう膜炎の他の原因を除外すること、(2) 眼サルコイドーシスを示唆する7つの眼内臨床所見、(3) 疑い例で調べる8つの全身検査所見、(4) 生検結果と眼内所見・全身検査所見の組み合わせによる3つの診断カテゴリーである。この基準は国際ワークショップの合意として、旧基準の限界を踏まえて改訂された。
+    condition:
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1298
+    source: Mochizuki M, Smith JR, Takase H, et al. Revised criteria of International Workshop on Ocular Sarcoidosis (IWOS) for the diagnosis of ocular sarcoidosis. Br J Ophthalmol. 2019;103(10):1418-1422.
+    doi: 10.1136/bjophthalmol-2018-313356
+    pmid: '30798264'
+    pmcid: null
+    url: https://doi.org/10.1136/bjophthalmol-2018-313356
+    source_license: CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 7つの眼内臨床所見と8つの全身検査所見の具体的な項目は基準本文の表に示される内容であり、抄録では項目数までしか確認できなかったため、本カードでは項目の内訳を含めていない。項目を転記する場合は本文の表から読み取りのうえ確認が必要である。サルコイドーシスの肺病変などの全身像は本カードの範囲外である。出題基準の表にサルコイドーシスの眼病変の項目がないため kokushi は null とした。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-496 (id: JlvnmOY)'
+    kokushi: 医学各論 Ⅲ-6-A-⑤（サルコイドーシス、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-020
+  domain: RE
+  subdomain: 急性前部ぶどう膜炎
+  assertion:
+    plain_statement_ja: HLA-B27に関連する急性前部ぶどう膜炎は多因子遺伝性の疾患で、血清陰性脊椎関節症や炎症性腸疾患との重なりが繰り返し確認されている。治療は局所、局所周囲、全身の免疫抑制療法が用いられ、脊椎関節症を伴う重症・再発例や若年性特発性関節炎関連例では抗サイトカイン療法の有用性が研究で示されている。
+    condition:
+      region: グローバル
+      study: HLA-B27関連急性前部ぶどう膜炎に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1270
+    source: Wakefield D, Clarke D, McCluskey P. Recent Developments in HLA B27 Anterior Uveitis. Front Immunol. 2021;11:608134.
+    doi: 10.3389/fimmu.2020.608134
+    pmid: '33469457'
+    pmcid: PMC7813675
+    url: https://doi.org/10.3389/fimmu.2020.608134
+    source_license: CC BY 4.0（Crossrefのライセンス欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 抗サイトカイン療法などの個別薬剤の国内承認・保険適用は未確認。数値は抄録に含まれなかったため記載していない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-496 (id: JlvnmOY)'
+    kokushi: 医学各論 Ⅲ-6-A-②（前部ぶどう膜炎<虹彩炎、虹彩毛様体炎>、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-021
+  domain: RE
+  subdomain: 眼内炎
+  assertion:
+    plain_statement_ja: 眼内炎は永続的な視力喪失をきたしうる重篤な眼内感染症で、大半は外因性であり白内障手術、硝子体内注射、穿通性眼外傷の合併症として生じる。内因性は細菌や真菌の血行性播種による。ほぼ全例で視力低下を呈し、前房蓄膿と眼内炎症を伴うことが多い。診断は臨床所見が中心で硝子体・前房水培養が支えとなり、治療で最も重要なのは抗菌薬の硝子体内注射であり、一部では硝子体手術による除去が有益である。眼科緊急症として速やかな診断と治療が必要である。
+    condition:
+      region: グローバル
+      study: 細菌性・真菌性眼内炎に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1271
+    source: Durand ML. Bacterial and Fungal Endophthalmitis. Clin Microbiol Rev. 2017;30(3):597-613.
+    doi: 10.1128/CMR.00113-16
+    pmid: '28356323'
+    pmcid: PMC5475221
+    url: https://doi.org/10.1128/CMR.00113-16
+    source_license: ライセンス表示を確認できず（出版社ライセンスはTDM用のみ）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 抗菌薬の個別薬剤名は記載していないため、個別薬剤の国内承認・保険適用の確認は対象外である。起炎菌ごとの予後の差は抄録の記載に基づく一般論にとどめた。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-496 (id: JlvnmOY)'
+    kokushi: 医学各論 Ⅲ-6-B-①（眼内炎、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-022
+  domain: RE
+  subdomain: ぶどう膜炎の原因疾患と分類
+  assertion:
+    plain_statement_ja: ぶどう膜炎の分類基準は、SUNワーキンググループが25の代表的なぶどう膜炎について5766例を集め、専門家の合意が得られた4046例で機械学習により作成した。検証セットでの全体の正確度は前部ぶどう膜炎96.7%、中間部99.3%、後部98.0%、汎ぶどう膜炎94.0%、感染性後部・汎ぶどう膜炎93.3%であった。この基準は診断基準ではなく研究のための分類基準として位置づけられる。
+    condition:
+      region: グローバル
+      study: 国際的な症例データベースに基づく分類基準の開発研究
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1272
+    source: Standardization of Uveitis Nomenclature (SUN) Working Group. Development of Classification Criteria for the Uveitides. Am J Ophthalmol. 2021;228:96-105.
+    doi: 10.1016/j.ajo.2021.03.061
+    pmid: '33848532'
+    pmcid: PMC8526627
+    url: https://doi.org/10.1016/j.ajo.2021.03.061
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値は抄録で確認した。分類基準と臨床診断基準は目的が異なる点に注意が必要である。各疾患ごとの基準の細目は本文確認が望ましい。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-496 (id: JlvnmOY)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-023
+  domain: RE
+  subdomain: 網膜芽細胞腫
+  assertion:
+    plain_statement_ja: 網膜芽細胞腫は小児で最も多い眼内悪性腫瘍であり、RB1遺伝子の両アレル変異、またはMYCNがん遺伝子の増幅が引き金となる。片側性が60〜70%、両側性が30〜40%で、両側性は常に遺伝性であり片側性より早期に発症する。治療は眼球摘出と外照射から、動注・静注化学療法と経瞳孔温熱療法・冷凍凝固・レーザー光凝固等の局所療法を組み合わせた眼球温存へ移行してきた。遺伝子検査、カウンセリング、リスクのある家族のスクリーニングは管理の必須の要素である。
+    condition:
+      region: グローバル
+      study: 網膜芽細胞腫に関する包括的総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1278
+    source: Nag A, Khetan V. Retinoblastoma - A comprehensive review, update and recent advances. Indian J Ophthalmol. 2024;72(6).
+    doi: 10.4103/IJO.IJO_2414_23
+    pmid: '38804799'
+    pmcid: PMC11232864
+    url: https://doi.org/10.4103/IJO.IJO_2414_23
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 化学療法の個別薬剤名は記載していないため、個別薬剤の国内承認・保険適用の確認は対象外である。発症年齢の地域差に関する数値は出典の地域事情を含むため本カードには含めなかった。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-673 (id: Jlvnme8)'
+    kokushi: 医学各論 Ⅲ-6-E-②（網膜芽細胞腫、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-024
+  domain: RE
+  subdomain: ぶどう膜悪性黒色腫
+  assertion:
+    plain_statement_ja: ぶどう膜悪性黒色腫は成人で最も多い原発性眼内悪性腫瘍であり、皮膚悪性黒色腫で多いBRAFやNRASではなく、通常GNAQまたはGNA11の変異で始まる。ヨーロッパと米国での年間発症率は人口100万人あたり約6人である。眼局所治療は眼球と有用な視力の温存と転移予防を目指し、眼球摘出は各種放射線療法、光治療、局所切除に置き換わってきた。患者のほぼ50%が転移をきたし、転移は通常肝臓で、多くは1年以内に致死的である。
+    condition:
+      region: ヨーロッパ・米国
+      study: ぶどう膜悪性黒色腫に関する疾患プライマー総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1279
+    source: Jager MJ, Shields CL, Cebulla CM, et al. Uveal melanoma. Nat Rev Dis Primers. 2020;6(1):24.
+    doi: 10.1038/s41572-020-0158-0
+    pmid: '32273508'
+    pmcid: null
+    url: https://doi.org/10.1038/s41572-020-0158-0
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値は抄録で確認した。転移例で報告される個別薬剤名は本カードの主張には含めておらず、それらの国内承認・保険適用は未確認。日本での発症頻度は出典の対象外である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-6-E-①（脈絡膜腫瘍、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-025
+  domain: RE
+  subdomain: Behçet病の眼病変
+  assertion:
+    plain_statement_ja: Behçet病の眼病変の中心は再発を繰り返す非肉芽腫性ぶどう膜炎で、眼病変は患者の50〜70%にみられ、初め片眼性でも通常は両眼性となる。トルコの880例（1,567眼）のコホートでは、前部ぶどう膜炎が11%、後部ぶどう膜炎が28.8%、汎ぶどう膜炎が60.2%と汎ぶどう膜炎が最も多かった。前眼部では体位で移動する前房蓄膿がみられ、前房蓄膿は後眼部の関与を示す所見とされる。後眼部では網膜血管炎が主徴で、主に静脈周囲炎の形をとり、閉塞性血管症に伴う網膜・硝子体出血、網膜虚血、新生血管を伴うことがあり、黄斑浮腫が視力障害の主要な合併症となる。発作と寛解を繰り返す経過の中で進行し、10年の経過で最大25%の患者が失明しうる視力を脅かす疾患である。
+    condition:
+      region: トルコの大規模コホートを含む国際
+      study: 総説（トルコの880例コホートの集計を含む）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1311
+    source: 'Aboul Naga SH, Hassan LM, El Zanaty RT, Refaat M, Amin RH, Ragab G, Soliman MM. Behçet uveitis: Current practice and future perspectives. Front Med (Lausanne). 2022;9:968345.'
+    doi: 10.3389/fmed.2022.968345
+    pmid: '36160151'
+    pmcid: PMC9490079
+    url: https://doi.org/10.3389/fmed.2022.968345
+    source_license: Creative Commons Attribution License (CC BY)
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 頻度の数値はいずれも本総説の本文で確認したもので、部位別の割合（11%、28.8%、60.2%）は同総説が集計したトルコの880例コホートの値であり、日本人コホートでの割合は本出典では確認していない。失明の割合（10年で最大25%）も総説本文の記載に基づく。本カードは眼病変のみを扱い、全身像と全身治療の詳細は含めていない。本カードには薬剤名を含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-496 (id: JlvnmOY)'
+    kokushi: 医学各論 Ⅲ-6-A-①（Behçet病、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-026
+  domain: RE
+  subdomain: 後部ぶどう膜炎の部位分類と鑑別の枠組み
+  assertion:
+    plain_statement_ja: ぶどう膜炎の解剖学的分類は、構造的合併症の有無ではなく炎症の主座によって行う。後部ぶどう膜炎は炎症の主座が網膜または脈絡膜にあるもので、限局性・多巣性・びまん性の脈絡膜炎、脈絡網膜炎、網脈絡膜炎、網膜炎、神経網膜炎を含む。これに対して炎症の主座が硝子体にあるものは中間部ぶどう膜炎、前房・硝子体・網膜または脈絡膜のすべてに炎症があり主座が定まらないものは汎ぶどう膜炎と区別する。病因の面では、病原体が直接原因となる感染性のものと、免疫介在性のものがあり、後者には全身の免疫介在性疾患に伴うものと眼に限局するものがあるため、部位分類に続いて感染性か非感染性かを分けることが鑑別の出発点になる。
+    condition:
+      region: 国際
+      study: 国際ワークショップの合意による用語標準化
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1312
+    source: Standardization of Uveitis Nomenclature (SUN) Working Group. Standardization of uveitis nomenclature for reporting clinical data. Results of the First International Workshop. Am J Ophthalmol. 2005;140(3):509-516.
+    doi: 10.1016/j.ajo.2005.03.057
+    pmid: '16196117'
+    pmcid: PMC8935739
+    url: https://doi.org/10.1016/j.ajo.2005.03.057
+    source_license: CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 解剖学的分類の内訳は出典の分類表（Table 1）から読み取った内容を含む（表から読み取り）。本出典は用語と部位分類の標準化が目的であり、後部ぶどう膜炎を来す個々の疾患の分類基準や、感染性疾患ごとの検査手順は含めていない。サルコイドーシスには触れていない（RE-019で扱い済みのため）。本カードには薬剤名を含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-496 (id: JlvnmOY)'
+    kokushi: 医学各論 Ⅲ-6-A-③（後部ぶどう膜炎<脈絡膜炎、網脈絡膜炎>、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-027
+  domain: RE
+  subdomain: Vogt-小柳-原田病の眼病変と分類基準
+  assertion:
+    plain_statement_ja: Vogt-小柳-原田病の眼病変は両側性の脈絡膜炎を基盤とし、早期には多発性の漿液性（滲出性）網膜剥離が特徴で、蛍光眼底造影では多数の点状漏出と色素の貯留がみられ、ときに胞状の剥離となる。早期の分類基準は、特徴的な所見を伴う滲出性網膜剥離があること、または汎ぶどう膜炎に5つの神経症状・所見のうち2つ以上を伴うことのいずれかと、発症前に穿孔性眼外傷や硝子体網膜手術の既往がないことからなる。発症から数か月後の晩期には夕焼け状眼底が現れ、乳頭周囲萎縮や末梢の脱色素性の萎縮病変を伴い、合併症として脈絡膜新生血管と網膜下線維化が生じうる。晩期の分類基準は、早期病変の既往に加えて夕焼け状眼底があること、またはぶどう膜炎に皮膚所見のうち1つ以上を伴うことである。
+    condition:
+      region: 国際
+      study: 汎ぶどう膜炎1,012例（早期156例・晩期103例を含む）での機械学習による分類基準作成
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1313
+    source: Standardization of Uveitis Nomenclature (SUN) Working Group. Classification criteria for Vogt-Koyanagi-Harada disease. Am J Ophthalmol. 2021;228:205-211.
+    doi: 10.1016/j.ajo.2021.03.036
+    pmid: '33845018'
+    pmcid: PMC9073858
+    url: https://doi.org/10.1016/j.ajo.2021.03.036
+    source_license: CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 早期・晩期の分類基準の具体的な項目は出典の基準表（Table 3およびTable 4）から読み取った内容を含む（表から読み取り）。本出典の基準は研究用の分類基準であり、臨床の診断基準とは目的が異なることが本文で述べられている。本出典では肉芽腫性という表現は確認できなかったため、主張文には含めていない。神経症状と皮膚所見は分類基準の文脈でのみ触れ、全身像と全身治療の詳細は含めていない。本カードには薬剤名を含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-496 (id: JlvnmOY)'
+    kokushi: 医学各論 Ⅲ-6-A-④（Vogt-小柳-原田病、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-028
+  domain: RE
+  subdomain: 変性近視（病的近視）のMETA-PM分類
+  assertion:
+    plain_statement_ja: 変性近視（病的近視）は、眼軸の過度の延長に伴って後極部に変性が生じた状態であり、近視性黄斑症の国際写真分類（META-PM分類）では萎縮の程度により5つのカテゴリーに分けられる。カテゴリー0は近視性網膜変性病変なし、カテゴリー1は豹紋状眼底のみ、カテゴリー2はびまん性脈絡網膜萎縮、カテゴリー3は限局性脈絡網膜萎縮、カテゴリー4は黄斑萎縮である。これとは別に、どのカテゴリーにも生じうるプラス病変として、ラッカークラック、近視性脈絡膜新生血管、Fuchs斑があり、いずれも中心視力の低下と強く関連する。病的近視は、近視性黄斑症がカテゴリー2以上であること、またはプラス病変があることによって定義される整理が用いられている。
+    condition:
+      region: 国際
+      study: 国際的なメタ解析に基づく写真分類と重症度判定の提案（META-PM）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1314
+    source: Ohno-Matsui K, Kawasaki R, Jonas JB, et al.; META-analysis for Pathologic Myopia (META-PM) Study Group. International photographic classification and grading system for myopic maculopathy. Am J Ophthalmol. 2015;159(5):877-883.e7.
+    doi: 10.1016/j.ajo.2015.01.022
+    pmid: '25634530'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ajo.2015.01.022
+    source_license: CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: カテゴリーとプラス病変の内訳は、本分類を転載した総説の分類表から読み取った内容を含む（表から読み取り）。本論文自体は写真による黄斑症分類の提案であり、網膜分離症などの牽引性黄斑症はこの写真分類の対象外のため本カードでは扱っていない（別出典での確認が必要）。眼軸長の具体的な閾値は本分類の定義には含まれないため記載していない。本カードには薬剤名を含めていないため、国内の承認・保険適用に関する注記は不要である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+    kokushi: 医学各論 Ⅲ-6-C-⑧（変性近視、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
