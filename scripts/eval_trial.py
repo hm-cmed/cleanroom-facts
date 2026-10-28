@@ -168,7 +168,7 @@ def evaluate(label: str, p: dict, spec: dict, ref: dict) -> dict:
     near = []
     for c in cards:
         s = c.get("assertion", {}).get("plain_statement_ja", "")
-        best = max(((difflib.SequenceMatcher(None, s, t).ratio(), i) for i, t in ref["existing"]), default=(0, ""))
+        best = max(((difflib.SequenceMatcher(None, s, t).ratio(), i) for i, t in ref["existing"] if i != c.get("id")), default=(0, ""))
         if best[0] >= 0.6:
             near.append(f"{c.get('id')} ≒ {best[1]}（{best[0]:.2f}）")
     m["near_dup"] = near

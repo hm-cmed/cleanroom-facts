@@ -6513,3 +6513,1698 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+- id: SRC-571
+  legacy_id: null
+  title: 'Kidney Disease: Improving Global Outcomes (KDIGO) Glomerular Diseases Work Group. KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases. Kidney Int. 2021;100(4S):S1-S276'
+  citation: 'Kidney Disease: Improving Global Outcomes (KDIGO) Glomerular Diseases Work Group. KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases. Kidney Int. 2021;100(4S):S1-S276'
+  doi: 10.1016/j.kint.2021.05.021
+  pmid: '34556256'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-572
+  legacy_id: null
+  title: 'Barocas DA, Lotan Y, Matulewicz RS, Raman JD, Westerman ME, Kirkby E, Pak L, Souter L. Updates to Microhematuria: AUA/SUFU Guideline (2025). J Urol. 2025;213(5):547-557'
+  citation: 'Barocas DA, Lotan Y, Matulewicz RS, Raman JD, Westerman ME, Kirkby E, Pak L, Souter L. Updates to Microhematuria: AUA/SUFU Guideline (2025). J Urol. 2025;213(5):547-557'
+  doi: 10.1097/JU.0000000000004490
+  pmid: '40013563'
+  pmcid: null
+  license_note: 出版社（AUA）の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-573
+  legacy_id: null
+  title: 'Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024;105(4S):S117-S314'
+  citation: 'Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024;105(4S):S117-S314'
+  doi: 10.1016/j.kint.2023.10.018
+  pmid: '38490803'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-574
+  legacy_id: null
+  title: Rodriguez-Iturbe B, Musser JM. The current state of poststreptococcal glomerulonephritis. J Am Soc Nephrol. 2008;19(10):1855-1864
+  citation: Rodriguez-Iturbe B, Musser JM. The current state of poststreptococcal glomerulonephritis. J Am Soc Nephrol. 2008;19(10):1855-1864
+  doi: 10.1681/ASN.2008010092
+  pmid: '18667731'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-575
+  legacy_id: null
+  title: Walsh M, Merkel PA, Peh CA, Szpirt W, Puéchal X, Fujimoto S, et al. Plasma Exchange and Glucocorticoids in Severe ANCA-Associated Vasculitis. N Engl J Med. 2020;382(7):622-631
+  citation: Walsh M, Merkel PA, Peh CA, Szpirt W, Puéchal X, Fujimoto S, et al. Plasma Exchange and Glucocorticoids in Severe ANCA-Associated Vasculitis. N Engl J Med. 2020;382(7):622-631
+  doi: 10.1056/NEJMoa1803537
+  pmid: '32053298'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-576
+  legacy_id: null
+  title: Wyatt RJ, Julian BA. IgA nephropathy. N Engl J Med. 2013;368(25):2402-2414
+  citation: Wyatt RJ, Julian BA. IgA nephropathy. N Engl J Med. 2013;368(25):2402-2414
+  doi: 10.1056/NEJMra1206793
+  pmid: '23782179'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-577
+  legacy_id: null
+  title: 'Lv J, Wong MG, Hladunewich MA, Jha V, Hooi LS, Monaghan H, et al. Effect of Oral Methylprednisolone on Decline in Kidney Function or Kidney Failure in Patients With IgA Nephropathy: The TESTING Randomized Clinical Trial. JAMA. 2022;327(19):1888-1898'
+  citation: 'Lv J, Wong MG, Hladunewich MA, Jha V, Hooi LS, Monaghan H, et al. Effect of Oral Methylprednisolone on Decline in Kidney Function or Kidney Failure in Patients With IgA Nephropathy: The TESTING Randomized Clinical Trial. JAMA. 2022;327(19):1888-1898'
+  doi: 10.1001/jama.2022.5368
+  pmid: '35579642'
+  pmcid: null
+  license_note: 出版社の著作物（PMC 掲載ページにも CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-578
+  legacy_id: null
+  title: 'Trimarchi H, Barratt J, Cattran DC, Cook HT, Coppo R, Haas M, et al. Oxford Classification of IgA nephropathy 2016: an update from the IgA Nephropathy Classification Working Group. Kidney Int. 2017;91(5):1014-1021'
+  citation: 'Trimarchi H, Barratt J, Cattran DC, Cook HT, Coppo R, Haas M, et al. Oxford Classification of IgA nephropathy 2016: an update from the IgA Nephropathy Classification Working Group. Kidney Int. 2017;91(5):1014-1021'
+  doi: 10.1016/j.kint.2017.02.003
+  pmid: '28341274'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-579
+  legacy_id: null
+  title: Nishi S, Ubara Y, Utsunomiya Y, Okada K, Obata Y, Kai H, et al. Evidence-based clinical practice guidelines for nephrotic syndrome 2014. Clin Exp Nephrol. 2016;20(3):342-370
+  citation: Nishi S, Ubara Y, Utsunomiya Y, Okada K, Obata Y, Kai H, et al. Evidence-based clinical practice guidelines for nephrotic syndrome 2014. Clin Exp Nephrol. 2016;20(3):342-370
+  doi: 10.1007/s10157-015-1216-x
+  pmid: '27099136'
+  pmcid: null
+  license_note: CC BY 4.0（PMC ページの Open Access 表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-580
+  legacy_id: null
+  title: 'Maas RJ, Deegens JK, Beukhof JR, Reichert LJ, Ten Dam MA, Beutler JJ, et al. The clinical course of minimal change nephrotic syndrome with onset in adulthood or late adolescence: a case series. Am J Kidney Dis. 2017;69(5):637-646'
+  citation: 'Maas RJ, Deegens JK, Beukhof JR, Reichert LJ, Ten Dam MA, Beutler JJ, et al. The clinical course of minimal change nephrotic syndrome with onset in adulthood or late adolescence: a case series. Am J Kidney Dis. 2017;69(5):637-646'
+  doi: 10.1053/j.ajkd.2016.10.032
+  pmid: '28089478'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-581
+  legacy_id: null
+  title: 'D''Agati VD, Fogo AB, Bruijn JA, Jennette JC. Pathologic classification of focal segmental glomerulosclerosis: a working proposal. Am J Kidney Dis. 2004;43(2):368-382'
+  citation: 'D''Agati VD, Fogo AB, Bruijn JA, Jennette JC. Pathologic classification of focal segmental glomerulosclerosis: a working proposal. Am J Kidney Dis. 2004;43(2):368-382'
+  doi: 10.1053/j.ajkd.2003.10.024
+  pmid: '14750104'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-582
+  legacy_id: null
+  title: Beck LH Jr, Bonegio RGB, Lambeau G, Beck DM, Powell DW, Cummins TD, et al. M-type phospholipase A2 receptor as target antigen in idiopathic membranous nephropathy. N Engl J Med. 2009;361(1):11-21
+  citation: Beck LH Jr, Bonegio RGB, Lambeau G, Beck DM, Powell DW, Cummins TD, et al. M-type phospholipase A2 receptor as target antigen in idiopathic membranous nephropathy. N Engl J Med. 2009;361(1):11-21
+  doi: 10.1056/NEJMoa0810457
+  pmid: '19571279'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-583
+  legacy_id: null
+  title: Fervenza FC, Appel GB, Barbour SJ, Rovin BH, Lafayette RA, Aslam N, et al. Rituximab or Cyclosporine in the Treatment of Membranous Nephropathy. N Engl J Med. 2019;381(1):36-46
+  citation: Fervenza FC, Appel GB, Barbour SJ, Rovin BH, Lafayette RA, Aslam N, et al. Rituximab or Cyclosporine in the Treatment of Membranous Nephropathy. N Engl J Med. 2019;381(1):36-46
+  doi: 10.1056/NEJMoa1814427
+  pmid: '31269364'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-584
+  legacy_id: null
+  title: Sethi S, Fervenza FC. Membranoproliferative glomerulonephritis — a new look at an old entity. N Engl J Med. 2012;366(12):1119-1131
+  citation: Sethi S, Fervenza FC. Membranoproliferative glomerulonephritis — a new look at an old entity. N Engl J Med. 2012;366(12):1119-1131
+  doi: 10.1056/NEJMra1108178
+  pmid: '22435371'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-585
+  legacy_id: null
+  title: Boils CL, Nasr SH, Walker PD, Couser WG, Larsen CP. Update on endocarditis-associated glomerulonephritis. Kidney Int. 2015;87(6):1241-1249
+  citation: Boils CL, Nasr SH, Walker PD, Couser WG, Larsen CP. Update on endocarditis-associated glomerulonephritis. Kidney Int. 2015;87(6):1241-1249
+  doi: 10.1038/ki.2014.424
+  pmid: '25607109'
+  pmcid: null
+  license_note: CC BY-NC-ND 3.0（PMC ページの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-586
+  legacy_id: null
+  title: 'Hamada R, Kaku Y, Inaba A, Kaito H, Kimata T, Kondo S, et al. A digest of the clinical practice guideline for pediatric idiopathic nephrotic syndrome 2020 updated: medical therapy. Clin Exp Nephrol. 2025;29(6):691-701'
+  citation: 'Hamada R, Kaku Y, Inaba A, Kaito H, Kimata T, Kondo S, et al. A digest of the clinical practice guideline for pediatric idiopathic nephrotic syndrome 2020 updated: medical therapy. Clin Exp Nephrol. 2025;29(6):691-701'
+  doi: 10.1007/s10157-025-02636-5
+  pmid: '40063214'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（出版社ページで CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-587
+  legacy_id: null
+  title: 'Chiu HF, Chen HC, Lu KC, Shu KH; Taiwan Society of Nephrology. Distribution of glomerular diseases in Taiwan: preliminary report of National Renal Biopsy Registry — publication on behalf of Taiwan Society of Nephrology. BMC Nephrol. 2018;19:6'
+  citation: 'Chiu HF, Chen HC, Lu KC, Shu KH; Taiwan Society of Nephrology. Distribution of glomerular diseases in Taiwan: preliminary report of National Renal Biopsy Registry — publication on behalf of Taiwan Society of Nephrology. BMC Nephrol. 2018;19:6'
+  doi: 10.1186/s12882-017-0810-4
+  pmid: '29320993'
+  pmcid: null
+  license_note: CC BY 4.0（誌面の Open Access 表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-589
+  legacy_id: null
+  title: 'Haneda M, Utsunomiya K, Koya D, Babazono T, Moriya T, Makino H, et al.; Joint Committee on Diabetic Nephropathy. A new Classification of Diabetic Nephropathy 2014: a report from Joint Committee on Diabetic Nephropathy. J Diabetes Investig. 2015;6(2):242-246'
+  citation: 'Haneda M, Utsunomiya K, Koya D, Babazono T, Moriya T, Makino H, et al.; Joint Committee on Diabetic Nephropathy. A new Classification of Diabetic Nephropathy 2014: a report from Joint Committee on Diabetic Nephropathy. J Diabetes Investig. 2015;6(2):242-246'
+  doi: 10.1111/jdi.12319
+  pmid: '25802733'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-590
+  legacy_id: null
+  title: Perkovic V, Jardine MJ, Neal B, et al.; CREDENCE Trial Investigators. Canagliflozin and Renal Outcomes in Type 2 Diabetes and Nephropathy. N Engl J Med. 2019;380(24):2295-2306
+  citation: Perkovic V, Jardine MJ, Neal B, et al.; CREDENCE Trial Investigators. Canagliflozin and Renal Outcomes in Type 2 Diabetes and Nephropathy. N Engl J Med. 2019;380(24):2295-2306
+  doi: 10.1056/NEJMoa1811744
+  pmid: '30990260'
+  pmcid: null
+  license_note: 出版社の利用条件（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-591
+  legacy_id: null
+  title: KDIGO Diabetes Work Group. KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. Kidney Int. 2022;102(5S):S1-S127
+  citation: KDIGO Diabetes Work Group. KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. Kidney Int. 2022;102(5S):S1-S127
+  doi: 10.1016/j.kint.2022.06.008
+  pmid: '36272764'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-592
+  legacy_id: null
+  title: KDIGO Lupus Nephritis Work Group. KDIGO 2024 Clinical Practice Guideline for the management of LUPUS NEPHRITIS. Kidney Int. 2024;105(1S):S1-S69
+  citation: KDIGO Lupus Nephritis Work Group. KDIGO 2024 Clinical Practice Guideline for the management of LUPUS NEPHRITIS. Kidney Int. 2024;105(1S):S1-S69
+  doi: 10.1016/j.kint.2023.09.002
+  pmid: '38182286'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（ガイドライン本文の著作権表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-593
+  legacy_id: null
+  title: Furie R, et al. Two-Year, Randomized, Controlled Trial of Belimumab in Lupus Nephritis. N Engl J Med. 2020;383(12):1117-1128
+  citation: Furie R, et al. Two-Year, Randomized, Controlled Trial of Belimumab in Lupus Nephritis. N Engl J Med. 2020;383(12):1117-1128
+  doi: 10.1056/NEJMoa2001180
+  pmid: '32937045'
+  pmcid: null
+  license_note: 出版社の利用条件（NEJM。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-594
+  legacy_id: null
+  title: 'Shi J, Shen Q, Chen XM, Du XG. Clinical characteristics and outcomes in microscopic polyangiitis patients with renal involvement: a study of 124 Chinese patients. BMC Nephrol. 2019;20:339'
+  citation: 'Shi J, Shen Q, Chen XM, Du XG. Clinical characteristics and outcomes in microscopic polyangiitis patients with renal involvement: a study of 124 Chinese patients. BMC Nephrol. 2019;20:339'
+  doi: 10.1186/s12882-019-1535-3
+  pmid: '31477033'
+  pmcid: null
+  license_note: CC BY 4.0（Crossref の license 欄と誌面の Open Access 表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-595
+  legacy_id: null
+  title: Stone JH, et al. Rituximab versus Cyclophosphamide for ANCA-Associated Vasculitis. N Engl J Med. 2010;363(3):221-232
+  citation: Stone JH, et al. Rituximab versus Cyclophosphamide for ANCA-Associated Vasculitis. N Engl J Med. 2010;363(3):221-232
+  doi: 10.1056/NEJMoa0909905
+  pmid: '20647199'
+  pmcid: null
+  license_note: 出版社の利用条件（NEJM。Crossref に license 欄なし。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-596
+  legacy_id: null
+  title: Aasarød K, Bostad L, Hammerstrøm J, Jørstad S, Iversen BM. Renal histopathology and clinical course in 94 patients with Wegener's granulomatosis. Nephrol Dial Transplant. 2001;16(5):953-960
+  citation: Aasarød K, Bostad L, Hammerstrøm J, Jørstad S, Iversen BM. Renal histopathology and clinical course in 94 patients with Wegener's granulomatosis. Nephrol Dial Transplant. 2001;16(5):953-960
+  doi: 10.1093/ndt/16.5.953
+  pmid: '11328900'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-597
+  legacy_id: null
+  title: 'Cui Z, Zhao J, Jia XY, et al. Anti-glomerular basement membrane disease: outcomes of different therapeutic regimens in a large single-center Chinese cohort study. Medicine (Baltimore). 2011;90(5):303-311'
+  citation: 'Cui Z, Zhao J, Jia XY, et al. Anti-glomerular basement membrane disease: outcomes of different therapeutic regimens in a large single-center Chinese cohort study. Medicine (Baltimore). 2011;90(5):303-311'
+  doi: 10.1097/MD.0b013e31822f6f68
+  pmid: '21862934'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-598
+  legacy_id: null
+  title: 'Narchi H. Risk of long term renal impairment and duration of follow up recommended for Henoch-Schonlein purpura with normal or minimal urinary findings: a systematic review. Arch Dis Child. 2005;90(9):916-920'
+  citation: 'Narchi H. Risk of long term renal impairment and duration of follow up recommended for Henoch-Schonlein purpura with normal or minimal urinary findings: a systematic review. Arch Dis Child. 2005;90(9):916-920'
+  doi: 10.1136/adc.2005.074641
+  pmid: '15871983'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-599
+  legacy_id: null
+  title: Palladini G, et al. A staging system for renal outcome and early markers of renal response to chemotherapy in AL amyloidosis. Blood. 2014;124(15):2325-2332
+  citation: Palladini G, et al. A staging system for renal outcome and early markers of renal response to chemotherapy in AL amyloidosis. Blood. 2014;124(15):2325-2332
+  doi: 10.1182/blood-2014-04-570010
+  pmid: '25115890'
+  pmcid: null
+  license_note: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-600
+  legacy_id: null
+  title: 'Lefaucheur C, et al. Membranous nephropathy and cancer: Epidemiologic evidence and determinants of high-risk cancer association. Kidney Int. 2006;70(8):1510-1517'
+  citation: 'Lefaucheur C, et al. Membranous nephropathy and cancer: Epidemiologic evidence and determinants of high-risk cancer association. Kidney Int. 2006;70(8):1510-1517'
+  doi: 10.1038/sj.ki.5001790
+  pmid: '16941021'
+  pmcid: null
+  license_note: Elsevier の利用条件（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-601
+  legacy_id: null
+  title: 'Sawamura M, Sawa N, Yamanouchi M, Ikuma D, Sekine A, Mizuno H, et al. Use of biologic agents and methotrexate improves renal manifestation and outcome in patients with rheumatoid arthritis: a retrospective analysis. Clin Exp Nephrol. 2022;26(4):341-349'
+  citation: 'Sawamura M, Sawa N, Yamanouchi M, Ikuma D, Sekine A, Mizuno H, et al. Use of biologic agents and methotrexate improves renal manifestation and outcome in patients with rheumatoid arthritis: a retrospective analysis. Clin Exp Nephrol. 2022;26(4):341-349'
+  doi: 10.1007/s10157-021-02160-2
+  pmid: '34846624'
+  pmcid: null
+  license_note: CC BY 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-602
+  legacy_id: null
+  title: Savige J, Gregory M, Gross O, Kashtan C, Ding J, Flinter F. Expert guidelines for the management of Alport syndrome and thin basement membrane nephropathy. J Am Soc Nephrol. 2013;24(3):364-375
+  citation: Savige J, Gregory M, Gross O, Kashtan C, Ding J, Flinter F. Expert guidelines for the management of Alport syndrome and thin basement membrane nephropathy. J Am Soc Nephrol. 2013;24(3):364-375
+  doi: 10.1681/ASN.2012020148
+  pmid: '23349312'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-603
+  legacy_id: null
+  title: 'Wanner C, Oliveira JP, Ortiz A, Mauer M, Germain DP, Linthorst GE, et al. Prognostic indicators of renal disease progression in adults with Fabry disease: natural history data from the Fabry Registry. Clin J Am Soc Nephrol. 2010;5(12):2220-2228'
+  citation: 'Wanner C, Oliveira JP, Ortiz A, Mauer M, Germain DP, Linthorst GE, et al. Prognostic indicators of renal disease progression in adults with Fabry disease: natural history data from the Fabry Registry. Clin J Am Soc Nephrol. 2010;5(12):2220-2228'
+  doi: 10.2215/CJN.04340510
+  pmid: '20813854'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-604
+  legacy_id: null
+  title: 'Hughes DA, et al. Oral pharmacological chaperone migalastat compared with enzyme replacement therapy in Fabry disease: 18-month results from the randomised phase III ATTRACT study. J Med Genet. 2017;54(4):288-296'
+  citation: 'Hughes DA, et al. Oral pharmacological chaperone migalastat compared with enzyme replacement therapy in Fabry disease: 18-month results from the randomised phase III ATTRACT study. J Med Genet. 2017;54(4):288-296'
+  doi: 10.1136/jmedgenet-2016-104178
+  pmid: '27834756'
+  pmcid: null
+  license_note: CC BY-NC 4.0（PMC ページの表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-605
+  legacy_id: null
+  title: 'Heras Benito M. Nephroangiosclerosis: an update. Hipertens Riesgo Vasc. 2023;40(2):98-103'
+  citation: 'Heras Benito M. Nephroangiosclerosis: an update. Hipertens Riesgo Vasc. 2023;40(2):98-103'
+  doi: 10.1016/j.hipert.2022.07.004
+  pmid: '36050216'
+  pmcid: null
+  license_note: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-606
+  legacy_id: null
+  title: 'Shi W, Lian X, Li W, Lian R, Yu S, Dai Z. Significant proteinuria as a predictor of renal prognosis in malignant hypertension patients with thrombotic microangiopathy: a prospective cohort study. BMC Nephrol. 2025;26(1):513'
+  citation: 'Shi W, Lian X, Li W, Lian R, Yu S, Dai Z. Significant proteinuria as a predictor of renal prognosis in malignant hypertension patients with thrombotic microangiopathy: a prospective cohort study. BMC Nephrol. 2025;26(1):513'
+  doi: 10.1186/s12882-025-04407-6
+  pmid: '40898080'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-607
+  legacy_id: null
+  title: Tafur-Soto JD, White CJ. Renal artery stenosis. Cardiol Clin. 2015;33(1):59-73
+  citation: Tafur-Soto JD, White CJ. Renal artery stenosis. Cardiol Clin. 2015;33(1):59-73
+  doi: 10.1016/j.ccl.2014.09.006
+  pmid: '25439331'
+  pmcid: null
+  license_note: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-608
+  legacy_id: null
+  title: Oh YK, Yang CW, Kim YL, Kang SW, Park CW, et al. Clinical Characteristics and Outcomes of Renal Infarction. Am J Kidney Dis. 2016;67(2):243-50
+  citation: Oh YK, Yang CW, Kim YL, Kang SW, Park CW, et al. Clinical Characteristics and Outcomes of Renal Infarction. Am J Kidney Dis. 2016;67(2):243-50
+  doi: 10.1053/j.ajkd.2015.09.019
+  pmid: '26545635'
+  pmcid: null
+  license_note: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-609
+  legacy_id: null
+  title: 'Scolari F, Ravani P, Gaggi R, Santostefano M, Rollino C, et al. The challenge of diagnosing atheroembolic renal disease: clinical features and prognostic factors. Circulation. 2007;116(3):298-304'
+  citation: 'Scolari F, Ravani P, Gaggi R, Santostefano M, Rollino C, et al. The challenge of diagnosing atheroembolic renal disease: clinical features and prognostic factors. Circulation. 2007;116(3):298-304'
+  doi: 10.1161/CIRCULATIONAHA.106.680991
+  pmid: '17606842'
+  pmcid: null
+  license_note: 出版社の著作物（Crossref のレコードに license 欄なし。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-610
+  legacy_id: null
+  title: 'Cozzi F, Marson P, Cardarelli S, Favaro M, Tison T, et al. Prognosis of scleroderma renal crisis: a long-term observational study. Nephrol Dial Transplant. 2012;27(12):4398-403'
+  citation: 'Cozzi F, Marson P, Cardarelli S, Favaro M, Tison T, et al. Prognosis of scleroderma renal crisis: a long-term observational study. Nephrol Dial Transplant. 2012;27(12):4398-403'
+  doi: 10.1093/ndt/gfs317
+  pmid: '22859795'
+  pmcid: null
+  license_note: 出版社の著作物（Crossref のレコードに license 欄なし。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-611
+  legacy_id: null
+  title: 'Zhang LJ, Zhang Z, Li SJ, Meinel FG, Nance JW Jr, et al. Pulmonary embolism and renal vein thrombosis in patients with nephrotic syndrome: prospective evaluation of prevalence and risk factors with CT. Radiology. 2014;273(3):897-906'
+  citation: 'Zhang LJ, Zhang Z, Li SJ, Meinel FG, Nance JW Jr, et al. Pulmonary embolism and renal vein thrombosis in patients with nephrotic syndrome: prospective evaluation of prevalence and risk factors with CT. Radiology. 2014;273(3):897-906'
+  doi: 10.1148/radiol.14140121
+  pmid: '25072187'
+  pmcid: null
+  license_note: 出版社の著作物（Crossref のレコードに license 欄なし。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-612
+  legacy_id: null
+  title: 'Ozaki K, Miyayama S, Ushiogi Y, Matsui O. Renal involvement of polyarteritis nodosa: CT and MR findings. Abdom Imaging. 2009;34(2):265-70'
+  citation: 'Ozaki K, Miyayama S, Ushiogi Y, Matsui O. Renal involvement of polyarteritis nodosa: CT and MR findings. Abdom Imaging. 2009;34(2):265-70'
+  doi: 10.1007/s00261-008-9377-7
+  pmid: '18317834'
+  pmcid: null
+  license_note: Springer の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-613
+  legacy_id: null
+  title: 'Turgut F, Awad AS, Abdel-Rahman EM. Acute Kidney Injury: Medical Causes and Pathogenesis. J Clin Med. 2023;12(1):375'
+  citation: 'Turgut F, Awad AS, Abdel-Rahman EM. Acute Kidney Injury: Medical Causes and Pathogenesis. J Clin Med. 2023;12(1):375'
+  doi: 10.3390/jcm12010375
+  pmid: '36615175'
+  pmcid: null
+  license_note: CC BY 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-614
+  legacy_id: null
+  title: Praga M, González E. Acute interstitial nephritis. Kidney Int. 2010;77(11):956-61
+  citation: Praga M, González E. Acute interstitial nephritis. Kidney Int. 2010;77(11):956-61
+  doi: 10.1038/ki.2010.89
+  pmid: '20336051'
+  pmcid: null
+  license_note: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-615
+  legacy_id: null
+  title: Bridoux F, Leung N, Belmouaz M, Royal V, Ronco P, Nasr SH. Management of acute kidney injury in symptomatic multiple myeloma. Kidney Int. 2021;99(3):570-580
+  citation: Bridoux F, Leung N, Belmouaz M, Royal V, Ronco P, Nasr SH. Management of acute kidney injury in symptomatic multiple myeloma. Kidney Int. 2021;99(3):570-580
+  doi: 10.1016/j.kint.2020.11.010
+  pmid: '33440212'
+  pmcid: null
+  license_note: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-616
+  legacy_id: null
+  title: François H, Mariette X. Renal involvement in primary Sjögren syndrome. Nat Rev Nephrol. 2016;12(2):82-93
+  citation: François H, Mariette X. Renal involvement in primary Sjögren syndrome. Nat Rev Nephrol. 2016;12(2):82-93
+  doi: 10.1038/nrneph.2015.174
+  pmid: '26568188'
+  pmcid: null
+  license_note: Springer の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-617
+  legacy_id: null
+  title: Saeki T, Kawano M. IgG4-related kidney disease. Kidney Int. 2014;85(2):251-7
+  citation: Saeki T, Kawano M. IgG4-related kidney disease. Kidney Int. 2014;85(2):251-7
+  doi: 10.1038/ki.2013.393
+  pmid: '24107849'
+  pmcid: null
+  license_note: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-618
+  legacy_id: null
+  title: 'Perazella MA. Drug-induced acute kidney injury: diverse mechanisms of tubular injury. Curr Opin Crit Care. 2019;25(6):550-557'
+  citation: 'Perazella MA. Drug-induced acute kidney injury: diverse mechanisms of tubular injury. Curr Opin Crit Care. 2019;25(6):550-557'
+  doi: 10.1097/MCC.0000000000000653
+  pmid: '31483318'
+  pmcid: null
+  license_note: 出版社の著作物（Crossref のレコードに license 欄なし。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-619
+  legacy_id: null
+  title: Yanai H, Adachi H, Hakoshima M, Katsuyama H. Molecular Biological and Clinical Understanding of the Pathophysiology and Treatments of Hyperuricemia and Its Association with Metabolic Syndrome, Cardiovascular Diseases and Chronic Kidney Disease. Int J Mol Sci. 2021;22(17):9221
+  citation: Yanai H, Adachi H, Hakoshima M, Katsuyama H. Molecular Biological and Clinical Understanding of the Pathophysiology and Treatments of Hyperuricemia and Its Association with Metabolic Syndrome, Cardiovascular Diseases and Chronic Kidney Disease. Int J Mol Sci. 2021;22(17):9221
+  doi: 10.3390/ijms22179221
+  pmid: '34502127'
+  pmcid: null
+  license_note: CC BY 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-620
+  legacy_id: null
+  title: 'Bonner R, Hladik G. Renal Tubular Acidosis: Core Curriculum 2025. Am J Kidney Dis. 2025;85(4):501-512'
+  citation: 'Bonner R, Hladik G. Renal Tubular Acidosis: Core Curriculum 2025. Am J Kidney Dis. 2025;85(4):501-512'
+  doi: 10.1053/j.ajkd.2024.08.014
+  pmid: '39864011'
+  pmcid: null
+  license_note: 出版社の著作物（誌面・レコードに CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-621
+  legacy_id: null
+  title: 'Watanabe T. Improving outcomes for patients with distal renal tubular acidosis: recent advances and challenges ahead. Pediatric Health Med Ther. 2018;9:181-190'
+  citation: 'Watanabe T. Improving outcomes for patients with distal renal tubular acidosis: recent advances and challenges ahead. Pediatric Health Med Ther. 2018;9:181-190'
+  doi: 10.2147/PHMT.S174459
+  pmid: '30588151'
+  pmcid: null
+  license_note: CC BY-NC 3.0（誌面の表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-622
+  legacy_id: null
+  title: 'Haque SK, Ariceta G, Batlle D. Proximal renal tubular acidosis: a not so rare disorder of multiple etiologies. Nephrol Dial Transplant. 2012;27(12):4273-4287'
+  citation: 'Haque SK, Ariceta G, Batlle D. Proximal renal tubular acidosis: a not so rare disorder of multiple etiologies. Nephrol Dial Transplant. 2012;27(12):4273-4287'
+  doi: 10.1093/ndt/gfs493
+  pmid: '23235953'
+  pmcid: null
+  license_note: 出版社の著作物（誌面・レコードに CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-623
+  legacy_id: null
+  title: 'Cherqui S, Courtoy PJ. The renal Fanconi syndrome in cystinosis: pathogenic insights and therapeutic perspectives. Nat Rev Nephrol. 2017;13(2):115-131'
+  citation: 'Cherqui S, Courtoy PJ. The renal Fanconi syndrome in cystinosis: pathogenic insights and therapeutic perspectives. Nat Rev Nephrol. 2017;13(2):115-131'
+  doi: 10.1038/nrneph.2016.182
+  pmid: '27990015'
+  pmcid: null
+  license_note: 出版社の著作物（誌面・レコードに CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-624
+  legacy_id: null
+  title: Chillarón J, Font-Llitjós M, Fort J, Zorzano A, Goldfarb DS, Nunes V, Palacín M. Pathophysiology and treatment of cystinuria. Nat Rev Nephrol. 2010;6(7):424-434
+  citation: Chillarón J, Font-Llitjós M, Fort J, Zorzano A, Goldfarb DS, Nunes V, Palacín M. Pathophysiology and treatment of cystinuria. Nat Rev Nephrol. 2010;6(7):424-434
+  doi: 10.1038/nrneph.2010.69
+  pmid: '20517292'
+  pmcid: null
+  license_note: 出版社の著作物（誌面・レコードに CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-625
+  legacy_id: null
+  title: Bockenhauer D, Bichet DG. Pathophysiology, diagnosis and management of nephrogenic diabetes insipidus. Nat Rev Nephrol. 2015;11(10):576-588
+  citation: Bockenhauer D, Bichet DG. Pathophysiology, diagnosis and management of nephrogenic diabetes insipidus. Nat Rev Nephrol. 2015;11(10):576-588
+  doi: 10.1038/nrneph.2015.89
+  pmid: '26077742'
+  pmcid: null
+  license_note: 出版社の著作物（誌面・レコードに CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-626
+  legacy_id: null
+  title: 'Milano S, Carmosino M, Gerbino A, Svelto M, Procino G. Hereditary nephrogenic diabetes insipidus: pathophysiology and possible treatment. An update. Int J Mol Sci. 2017;18(11):2385'
+  citation: 'Milano S, Carmosino M, Gerbino A, Svelto M, Procino G. Hereditary nephrogenic diabetes insipidus: pathophysiology and possible treatment. An update. Int J Mol Sci. 2017;18(11):2385'
+  doi: 10.3390/ijms18112385
+  pmid: '29125546'
+  pmcid: null
+  license_note: CC BY 4.0（誌面の表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-627
+  legacy_id: null
+  title: 'Cunha TDS, Heilberg IP. Bartter syndrome: causes, diagnosis, and treatment. Int J Nephrol Renovasc Dis. 2018;11:291-301'
+  citation: 'Cunha TDS, Heilberg IP. Bartter syndrome: causes, diagnosis, and treatment. Int J Nephrol Renovasc Dis. 2018;11:291-301'
+  doi: 10.2147/IJNRD.S155397
+  pmid: '30519073'
+  pmcid: null
+  license_note: CC BY-NC 3.0（誌面の表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-628
+  legacy_id: null
+  title: 'Blanchard A, Bockenhauer D, Bolignano D, et al. Gitelman syndrome: consensus and guidance from a Kidney Disease: Improving Global Outcomes (KDIGO) Controversies Conference. Kidney Int. 2017;91(1):24-33'
+  citation: 'Blanchard A, Bockenhauer D, Bolignano D, et al. Gitelman syndrome: consensus and guidance from a Kidney Disease: Improving Global Outcomes (KDIGO) Controversies Conference. Kidney Int. 2017;91(1):24-33'
+  doi: 10.1016/j.kint.2016.09.046
+  pmid: '28003083'
+  pmcid: null
+  license_note: 出版社の著作物（KDIGO 会議報告、CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-629
+  legacy_id: null
+  title: 'Tetti M, Monticone S, Burrello J, et al. Liddle Syndrome: Review of the Literature and Description of a New Case. Int J Mol Sci. 2018;19(3):812'
+  citation: 'Tetti M, Monticone S, Burrello J, et al. Liddle Syndrome: Review of the Literature and Description of a New Case. Int J Mol Sci. 2018;19(3):812'
+  doi: 10.3390/ijms19030812
+  pmid: '29534496'
+  pmcid: null
+  license_note: CC BY 4.0（誌面の表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-630
+  legacy_id: null
+  title: 'Downie ML, Lopez Garcia SC, Kleta R, Bockenhauer D. Inherited Tubulopathies of the Kidney: Insights from Genetics. Clin J Am Soc Nephrol. 2021;16(4):620-630'
+  citation: 'Downie ML, Lopez Garcia SC, Kleta R, Bockenhauer D. Inherited Tubulopathies of the Kidney: Insights from Genetics. Clin J Am Soc Nephrol. 2021;16(4):620-630'
+  doi: 10.2215/CJN.14481119
+  pmid: '32238367'
+  pmcid: null
+  license_note: 出版社の著作物（学会誌、CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md の出典マスター表から
+- id: SRC-631
+  legacy_id: null
+  title: 'Kellum JA, Lameire N; KDIGO AKI Guideline Work Group. Diagnosis, evaluation, and management of acute kidney injury: a KDIGO summary (Part 1). Crit Care. 2013;17(1):204'
+  citation: 'Kellum JA, Lameire N; KDIGO AKI Guideline Work Group. Diagnosis, evaluation, and management of acute kidney injury: a KDIGO summary (Part 1). Crit Care. 2013;17(1):204'
+  doi: 10.1186/cc11454
+  pmid: '23394211'
+  pmcid: null
+  license_note: CC BY（PMC 掲載ページの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-632
+  legacy_id: null
+  title: Weisbord SD, Gallagher M, Jneid H, Garcia S, Cass A, Thwin SS, Conner TA, Chertow GM, Bhatt DL, Shunk K, Parikh CR, McFalls EO, Brophy M, Ferguson R, et al. Outcomes after Angiography with Sodium Bicarbonate and Acetylcysteine. N Engl J Med. 2018;378(7):603-614
+  citation: Weisbord SD, Gallagher M, Jneid H, Garcia S, Cass A, Thwin SS, Conner TA, Chertow GM, Bhatt DL, Shunk K, Parikh CR, McFalls EO, Brophy M, Ferguson R, et al. Outcomes after Angiography with Sodium Bicarbonate and Acetylcysteine. N Engl J Med. 2018;378(7):603-614
+  doi: 10.1056/NEJMoa1710933
+  pmid: '29130810'
+  pmcid: null
+  license_note: 出版社の利用条件（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-633
+  legacy_id: null
+  title: STARRT-AKI Investigators. Timing of Initiation of Renal-Replacement Therapy in Acute Kidney Injury. N Engl J Med. 2020;383(3):240-251
+  citation: STARRT-AKI Investigators. Timing of Initiation of Renal-Replacement Therapy in Acute Kidney Injury. N Engl J Med. 2020;383(3):240-251
+  doi: 10.1056/NEJMoa2000741
+  pmid: '32668114'
+  pmcid: null
+  license_note: 出版社の利用条件（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-634
+  legacy_id: null
+  title: VA/NIH Acute Renal Failure Trial Network; Palevsky PM, Zhang JH, O'Connor TZ, Chertow GM, Crowley ST, Choudhury D, Finkel K, Kellum JA, Paganini E, Schein RM, et al. Intensity of Renal Support in Critically Ill Patients with Acute Kidney Injury. N Engl J Med. 2008;359(1):7-20
+  citation: VA/NIH Acute Renal Failure Trial Network; Palevsky PM, Zhang JH, O'Connor TZ, Chertow GM, Crowley ST, Choudhury D, Finkel K, Kellum JA, Paganini E, Schein RM, et al. Intensity of Renal Support in Critically Ill Patients with Acute Kidney Injury. N Engl J Med. 2008;359(1):7-20
+  doi: 10.1056/NEJMoa0802639
+  pmid: '18492867'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-635
+  legacy_id: null
+  title: Kashani K, Al-Khafaji A, Ardiles T, Artigas A, Bagshaw SM, Bell M, Bihorac A, Birkhahn R, Cely CM, Chawla LS, Davison DL, et al. Discovery and validation of cell cycle arrest biomarkers in human acute kidney injury. Crit Care. 2013;17(1):R25
+  citation: Kashani K, Al-Khafaji A, Ardiles T, Artigas A, Bagshaw SM, Bell M, Bihorac A, Birkhahn R, Cely CM, Chawla LS, Davison DL, et al. Discovery and validation of cell cycle arrest biomarkers in human acute kidney injury. Crit Care. 2013;17(1):R25
+  doi: 10.1186/cc12503
+  pmid: '23388612'
+  pmcid: null
+  license_note: CC BY（BMC の Open Access 表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-636
+  legacy_id: null
+  title: 'Chavez LO, Leon M, Einav S, Varon J. Beyond muscle destruction: a systematic review of rhabdomyolysis for clinical practice. Crit Care. 2016;20:135'
+  citation: 'Chavez LO, Leon M, Einav S, Varon J. Beyond muscle destruction: a systematic review of rhabdomyolysis for clinical practice. Crit Care. 2016;20:135'
+  doi: 10.1186/s13054-016-1314-5
+  pmid: '27301374'
+  pmcid: null
+  license_note: CC BY 4.0（出版社ページの Open Access 表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-637
+  legacy_id: null
+  title: Tarr PI, Gordon CA, Chandler WL. Shiga-toxin-producing Escherichia coli and haemolytic uraemic syndrome. Lancet. 2005;365(9464):1073-1086
+  citation: Tarr PI, Gordon CA, Chandler WL. Shiga-toxin-producing Escherichia coli and haemolytic uraemic syndrome. Lancet. 2005;365(9464):1073-1086
+  doi: 10.1016/S0140-6736(05)71144-2
+  pmid: '15781103'
+  pmcid: null
+  license_note: Elsevier の利用条件（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-638
+  legacy_id: null
+  title: Legendre CM, Licht C, Muus P, Greenbaum LA, Babu S, Bedrosian C, Bingham C, Cohen DJ, Delmas Y, Douglas K, Eitner F, Feldkamp T, Fouque D, Furman RR, et al. Terminal Complement Inhibitor Eculizumab in Atypical Hemolytic-Uremic Syndrome. N Engl J Med. 2013;368(23):2169-2181
+  citation: Legendre CM, Licht C, Muus P, Greenbaum LA, Babu S, Bedrosian C, Bingham C, Cohen DJ, Delmas Y, Douglas K, Eitner F, Feldkamp T, Fouque D, Furman RR, et al. Terminal Complement Inhibitor Eculizumab in Atypical Hemolytic-Uremic Syndrome. N Engl J Med. 2013;368(23):2169-2181
+  doi: 10.1056/NEJMoa1208981
+  pmid: '23738544'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-640
+  legacy_id: null
+  title: Japanese Society of Nephrology. Essential points from Evidence-based Clinical Practice Guidelines for Chronic Kidney Disease 2018. Clin Exp Nephrol. 2019;23(1):1-15
+  citation: Japanese Society of Nephrology. Essential points from Evidence-based Clinical Practice Guidelines for Chronic Kidney Disease 2018. Clin Exp Nephrol. 2019;23(1):1-15
+  doi: 10.1007/s10157-018-1648-1
+  pmid: '30506489'
+  pmcid: null
+  license_note: CC BY 4.0（PMC ページの表示。© The Author(s) 2018）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-641
+  legacy_id: null
+  title: Imai E, Horio M, Watanabe T, Iseki K, Yamagata K, Hara S, Ura N, Kiyohara Y, Moriyama T, Ando Y, Fujimoto S, Konta T, Yokoyama H, Makino H, Hishida A, et al. Prevalence of chronic kidney disease in the Japanese general population. Clin Exp Nephrol. 2009;13(6):621-630
+  citation: Imai E, Horio M, Watanabe T, Iseki K, Yamagata K, Hara S, Ura N, Kiyohara Y, Moriyama T, Ando Y, Fujimoto S, Konta T, Yokoyama H, Makino H, Hishida A, et al. Prevalence of chronic kidney disease in the Japanese general population. Clin Exp Nephrol. 2009;13(6):621-630
+  doi: 10.1007/s10157-009-0199-x
+  pmid: '19513802'
+  pmcid: null
+  license_note: 出版社の著作物（Springer の利用条件。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-642
+  legacy_id: null
+  title: The EMPA-KIDNEY Collaborative Group. Empagliflozin in Patients with Chronic Kidney Disease. N Engl J Med. 2023;388(2):135-146
+  citation: The EMPA-KIDNEY Collaborative Group. Empagliflozin in Patients with Chronic Kidney Disease. N Engl J Med. 2023;388(2):135-146
+  doi: 10.1056/NEJMoa2204233
+  pmid: '36331190'
+  pmcid: null
+  license_note: 出版社の利用条件（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-643
+  legacy_id: null
+  title: Weir MR, Bakris GL, Bushinsky DA, Mayo MR, Garza D, Stasiv Y, Wittes J, Christ-Schmidt H, Berman L, Pitt B; OPAL-HK Investigators. Patiromer in Patients with Kidney Disease and Hyperkalemia Receiving RAAS Inhibitors. N Engl J Med. 2015;372(3):211-221
+  citation: Weir MR, Bakris GL, Bushinsky DA, Mayo MR, Garza D, Stasiv Y, Wittes J, Christ-Schmidt H, Berman L, Pitt B; OPAL-HK Investigators. Patiromer in Patients with Kidney Disease and Hyperkalemia Receiving RAAS Inhibitors. N Engl J Med. 2015;372(3):211-221
+  doi: 10.1056/NEJMoa1410853
+  pmid: '25415805'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-644
+  legacy_id: null
+  title: Bakris GL, Agarwal R, Anker SD, Pitt B, Ruilope LM, Rossing P, Kolkhof P, Nowack C, Schloemer P, Joseph A, Filippatos G; FIDELIO-DKD Investigators. Effect of Finerenone on Chronic Kidney Disease Outcomes in Type 2 Diabetes. N Engl J Med. 2020;383(23):2219-2229
+  citation: Bakris GL, Agarwal R, Anker SD, Pitt B, Ruilope LM, Rossing P, Kolkhof P, Nowack C, Schloemer P, Joseph A, Filippatos G; FIDELIO-DKD Investigators. Effect of Finerenone on Chronic Kidney Disease Outcomes in Type 2 Diabetes. N Engl J Med. 2020;383(23):2219-2229
+  doi: 10.1056/NEJMoa2025845
+  pmid: '33264825'
+  pmcid: null
+  license_note: 出版社の利用条件（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-649
+  legacy_id: null
+  title: 'Yamamoto H, Nishi S, Tomo T, et al. 2015 Japanese Society for Dialysis Therapy: Guidelines for Renal Anemia in Chronic Kidney Disease. Renal Replacement Therapy. 2017;3:36'
+  citation: 'Yamamoto H, Nishi S, Tomo T, et al. 2015 Japanese Society for Dialysis Therapy: Guidelines for Renal Anemia in Chronic Kidney Disease. Renal Replacement Therapy. 2017;3:36'
+  doi: 10.1186/s41100-017-0114-y
+  pmid: null
+  pmcid: null
+  license_note: CC表示を本セッションで直接確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-650
+  legacy_id: null
+  title: Chen N, Hao C, Liu BC, et al. Roxadustat Treatment for Anemia in Patients Undergoing Long-Term Dialysis. N Engl J Med. 2019;381(11):1011–1022
+  citation: Chen N, Hao C, Liu BC, et al. Roxadustat Treatment for Anemia in Patients Undergoing Long-Term Dialysis. N Engl J Med. 2019;381(11):1011–1022
+  doi: 10.1056/NEJMoa1901713
+  pmid: '31340116'
+  pmcid: null
+  license_note: © Massachusetts Medical Society（非CC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-651
+  legacy_id: null
+  title: KDIGO CKD-MBD Update Work Group. KDIGO 2017 Clinical Practice Guideline Update for the Diagnosis, Evaluation, Prevention, and Treatment of Chronic Kidney Disease–Mineral and Bone Disorder (CKD-MBD). Kidney Int Suppl. 2017;7(1):1–59
+  citation: KDIGO CKD-MBD Update Work Group. KDIGO 2017 Clinical Practice Guideline Update for the Diagnosis, Evaluation, Prevention, and Treatment of Chronic Kidney Disease–Mineral and Bone Disorder (CKD-MBD). Kidney Int Suppl. 2017;7(1):1–59
+  doi: 10.1016/j.kisu.2017.04.001
+  pmid: '30675420'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-652
+  legacy_id: null
+  title: Fukagawa M, Yokoyama K, Koiwa F, et al. Clinical practice guideline for the management of chronic kidney disease-mineral and bone disorder. Ther Apher Dial. 2013;17(3):247–288
+  citation: Fukagawa M, Yokoyama K, Koiwa F, et al. Clinical practice guideline for the management of chronic kidney disease-mineral and bone disorder. Ther Apher Dial. 2013;17(3):247–288
+  doi: 10.1111/1744-9987.12058
+  pmid: '23735142'
+  pmcid: null
+  license_note: © 日本透析医学会／Wiley（非CC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-653
+  legacy_id: null
+  title: 'Kopeć J, Gadek A, Drożdż M, et al. Carpal tunnel syndrome in hemodialysis patients as a dialysis-related amyloidosis manifestation: incidence, risk factors and results of surgical treatment. Med Sci Monit. 2011;17(9):CR505–CR509'
+  citation: 'Kopeć J, Gadek A, Drożdż M, et al. Carpal tunnel syndrome in hemodialysis patients as a dialysis-related amyloidosis manifestation: incidence, risk factors and results of surgical treatment. Med Sci Monit. 2011;17(9):CR505–CR509'
+  doi: null
+  pmid: '21873947'
+  pmcid: null
+  license_note: CC BY-NC-ND 3.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-654
+  legacy_id: null
+  title: McGee S, Abernethy WB 3rd, Simel DL. The rational clinical examination. Is this patient hypovolemic? JAMA. 1999;281(11):1022–1029
+  citation: McGee S, Abernethy WB 3rd, Simel DL. The rational clinical examination. Is this patient hypovolemic? JAMA. 1999;281(11):1022–1029
+  doi: 10.1001/jama.281.11.1022
+  pmid: '10086438'
+  pmcid: null
+  license_note: © American Medical Association（非CC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-655
+  legacy_id: null
+  title: Spasovski G, Vanholder R, Allolio B, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. Eur J Endocrinol. 2014;170(3):G1–G47
+  citation: Spasovski G, Vanholder R, Allolio B, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. Eur J Endocrinol. 2014;170(3):G1–G47
+  doi: 10.1530/EJE-13-1020
+  pmid: '24569125'
+  pmcid: null
+  license_note: © European Society of Endocrinology（非CC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-656
+  legacy_id: null
+  title: 'Yun G, Baek SH, Kim S. Evaluation and management of hypernatremia in adults: clinical perspectives. Korean J Intern Med. 2023;38(3):290–302'
+  citation: 'Yun G, Baek SH, Kim S. Evaluation and management of hypernatremia in adults: clinical perspectives. Korean J Intern Med. 2023;38(3):290–302'
+  doi: 10.3904/kjim.2022.346
+  pmid: '36578134'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-657
+  legacy_id: null
+  title: 'Clase CM, Carrero JJ, Ellison DH, et al. Potassium homeostasis and management of dyskalemia in kidney diseases: conclusions from a Kidney Disease: Improving Global Outcomes (KDIGO) Controversies Conference. Kidney Int. 2020;97(1):42–61'
+  citation: 'Clase CM, Carrero JJ, Ellison DH, et al. Potassium homeostasis and management of dyskalemia in kidney diseases: conclusions from a Kidney Disease: Improving Global Outcomes (KDIGO) Controversies Conference. Kidney Int. 2020;97(1):42–61'
+  doi: 10.1016/j.kint.2019.09.018
+  pmid: '31706619'
+  pmcid: null
+  license_note: © International Society of Nephrology／Elsevier（非CC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-658
+  legacy_id: null
+  title: 'Kardalas E, Paschou SA, Anagnostis P, et al. Hypokalemia: a clinical update. Endocr Connect. 2018;7(4):R135–R146'
+  citation: 'Kardalas E, Paschou SA, Anagnostis P, et al. Hypokalemia: a clinical update. Endocr Connect. 2018;7(4):R135–R146'
+  doi: 10.1530/EC-18-0109
+  pmid: '29540487'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-659
+  legacy_id: null
+  title: 'Walker MD, Shane E. Hypercalcemia: A Review. JAMA. 2022;328(16):1624–1636'
+  citation: 'Walker MD, Shane E. Hypercalcemia: A Review. JAMA. 2022;328(16):1624–1636'
+  doi: 10.1001/jama.2022.18331
+  pmid: '36282253'
+  pmcid: null
+  license_note: © American Medical Association（非CC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-660
+  legacy_id: null
+  title: Cooper MS, Gittoes NJL. Diagnosis and management of hypocalcaemia. BMJ. 2008;336(7656):1298–1302
+  citation: Cooper MS, Gittoes NJL. Diagnosis and management of hypocalcaemia. BMJ. 2008;336(7656):1298–1302
+  doi: 10.1136/bmj.39582.589433.BE
+  pmid: '18535072'
+  pmcid: null
+  license_note: © BMJ Publishing Group（非CC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-661
+  legacy_id: null
+  title: Blaine J, Chonchol M, Levi M. Renal control of calcium, phosphate, and magnesium homeostasis. Clin J Am Soc Nephrol. 2015;10(7):1257–1272
+  citation: Blaine J, Chonchol M, Levi M. Renal control of calcium, phosphate, and magnesium homeostasis. Clin J Am Soc Nephrol. 2015;10(7):1257–1272
+  doi: 10.2215/CJN.09750913
+  pmid: '25287933'
+  pmcid: null
+  license_note: ライセンス表示は未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-662
+  legacy_id: null
+  title: 'de Baaij JHF, Hoenderop JGJ, Bindels RJM. Magnesium in man: implications for health and disease. Physiol Rev. 2015;95(1):1–46'
+  citation: 'de Baaij JHF, Hoenderop JGJ, Bindels RJM. Magnesium in man: implications for health and disease. Physiol Rev. 2015;95(1):1–46'
+  doi: 10.1152/physrev.00012.2014
+  pmid: '25540137'
+  pmcid: null
+  license_note: © American Physiological Society（非CC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-663
+  legacy_id: null
+  title: 'Kraut JA, Madias NE. Metabolic acidosis: pathophysiology, diagnosis and management. Nat Rev Nephrol. 2010;6(5):274–285'
+  citation: 'Kraut JA, Madias NE. Metabolic acidosis: pathophysiology, diagnosis and management. Nat Rev Nephrol. 2010;6(5):274–285'
+  doi: 10.1038/nrneph.2010.33
+  pmid: '20308999'
+  pmcid: null
+  license_note: © Nature Publishing Group（非CC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-664
+  legacy_id: null
+  title: 'Do C, Vasquez PC, Soleimani M. Metabolic Alkalosis Pathogenesis, Diagnosis, and Treatment: Core Curriculum 2022. Am J Kidney Dis. 2022;80(4):536–551'
+  citation: 'Do C, Vasquez PC, Soleimani M. Metabolic Alkalosis Pathogenesis, Diagnosis, and Treatment: Core Curriculum 2022. Am J Kidney Dis. 2022;80(4):536–551'
+  doi: 10.1053/j.ajkd.2021.12.016
+  pmid: '35525634'
+  pmcid: null
+  license_note: © National Kidney Foundation／Elsevier（非CC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-665
+  legacy_id: null
+  title: 'Trayes KP, Studdiford JS, Pickle S, Tully AS. Edema: diagnosis and management. Am Fam Physician. 2013;88(2):102-110'
+  citation: 'Trayes KP, Studdiford JS, Pickle S, Tully AS. Edema: diagnosis and management. Am Fam Physician. 2013;88(2):102-110'
+  doi: null
+  pmid: '23939641'
+  pmcid: null
+  license_note: 出版社（米国家庭医学会）の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-666
+  legacy_id: null
+  title: 'Ostermann M, Joannidis M. Acute kidney injury 2016: diagnosis and diagnostic workup. Crit Care. 2016;20:299'
+  citation: 'Ostermann M, Joannidis M. Acute kidney injury 2016: diagnosis and diagnostic workup. Crit Care. 2016;20:299'
+  doi: 10.1186/s13054-016-1478-z
+  pmid: '27670788'
+  pmcid: null
+  license_note: CC BY 4.0（PMC ページの表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-667
+  legacy_id: null
+  title: 'Priya G, Kalra S, Dasgupta A, Grewal E. Diabetes insipidus: a pragmatic approach to management. Cureus. 2021;13(1):e12498'
+  citation: 'Priya G, Kalra S, Dasgupta A, Grewal E. Diabetes insipidus: a pragmatic approach to management. Cureus. 2021;13(1):e12498'
+  doi: 10.7759/cureus.12498
+  pmid: '33425560'
+  pmcid: null
+  license_note: CC BY 4.0（PMC ページの表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-668
+  legacy_id: null
+  title: Hollingsworth JM, Wilt TJ. Lower urinary tract symptoms in men. BMJ. 2014;349:g4474
+  citation: Hollingsworth JM, Wilt TJ. Lower urinary tract symptoms in men. BMJ. 2014;349:g4474
+  doi: 10.1136/bmj.g4474
+  pmid: '25125424'
+  pmcid: null
+  license_note: 出版社（BMJ）の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-669
+  legacy_id: null
+  title: Gaggar P, Raju SB. Diagnostic utility of urine microscopy in kidney diseases. Indian J Nephrol. 2024;34(3):213-221
+  citation: Gaggar P, Raju SB. Diagnostic utility of urine microscopy in kidney diseases. Indian J Nephrol. 2024;34(3):213-221
+  doi: 10.25259/ijn_362_23
+  pmid: '39114391'
+  pmcid: null
+  license_note: CC BY-NC-SA 4.0（PMC ページの表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-671
+  legacy_id: null
+  title: Matsuo S, Imai E, Horio M, Yasuda Y, Tomita K, Nitta K, et al. Revised equations for estimated GFR from serum creatinine in Japan. Am J Kidney Dis. 2009;53(6):982-992
+  citation: Matsuo S, Imai E, Horio M, Yasuda Y, Tomita K, Nitta K, et al. Revised equations for estimated GFR from serum creatinine in Japan. Am J Kidney Dis. 2009;53(6):982-992
+  doi: 10.1053/j.ajkd.2008.12.034
+  pmid: '19339088'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-672
+  legacy_id: null
+  title: 'Hogan JJ, Mocanu M, Berns JS. The native kidney biopsy: update and evidence for best practice. Clin J Am Soc Nephrol. 2016;11(2):354-362'
+  citation: 'Hogan JJ, Mocanu M, Berns JS. The native kidney biopsy: update and evidence for best practice. Clin J Am Soc Nephrol. 2016;11(2):354-362'
+  doi: 10.2215/CJN.05750515
+  pmid: '26339068'
+  pmcid: null
+  license_note: 出版社（米国腎臓学会）の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-673
+  legacy_id: null
+  title: Brisbane W, Bailey MR, Sorensen MD. An overview of kidney stone imaging techniques. Nat Rev Urol. 2016;13(11):654-662
+  citation: Brisbane W, Bailey MR, Sorensen MD. An overview of kidney stone imaging techniques. Nat Rev Urol. 2016;13(11):654-662
+  doi: 10.1038/nrurol.2016.154
+  pmid: '27578040'
+  pmcid: null
+  license_note: 出版社の著作物（著者原稿の PMC 掲載。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-674
+  legacy_id: null
+  title: Watanabe Y, Yamagata K, Nishi S, Hirakata H, Maruyama S, Saito C, et al.; Japanese Society for Dialysis Therapy Clinical Guideline Work Group. Japanese Society for Dialysis Therapy clinical guideline for "hemodialysis initiation for maintenance hemodialysis". Ther Apher Dial. 2015;19 Suppl 1:93-107
+  citation: Watanabe Y, Yamagata K, Nishi S, Hirakata H, Maruyama S, Saito C, et al.; Japanese Society for Dialysis Therapy Clinical Guideline Work Group. Japanese Society for Dialysis Therapy clinical guideline for "hemodialysis initiation for maintenance hemodialysis". Ther Apher Dial. 2015;19 Suppl 1:93-107
+  doi: 10.1111/1744-9987.12293
+  pmid: '25817934'
+  pmcid: null
+  license_note: 学会（日本透析医学会）の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-675
+  legacy_id: null
+  title: 'Wei Z, Jin Y, Cheng J, Han X, Liu J, Liu S. Chinese experience on comparison of clinical efficacy and safety of hemodialysis and peritoneal dialysis in the treatment of diabetic kidney failure: a systematic review and meta-analysis. Front Med (Lausanne). 2023;10:1116103'
+  citation: 'Wei Z, Jin Y, Cheng J, Han X, Liu J, Liu S. Chinese experience on comparison of clinical efficacy and safety of hemodialysis and peritoneal dialysis in the treatment of diabetic kidney failure: a systematic review and meta-analysis. Front Med (Lausanne). 2023;10:1116103'
+  doi: 10.3389/fmed.2023.1116103
+  pmid: '37636569'
+  pmcid: null
+  license_note: CC BY 4.0（PMC ページの表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-676
+  legacy_id: null
+  title: Hanafusa N, Abe M, Joki N, Hoshino J, Taniguchi M, Kikuchi K, Hasegawa T, Goto S, Ogawa T, Kanda E, et al. Annual dialysis data report 2022, Japanese Society for Dialysis Therapy (JSDT) Renal Data Registry. Ren Replace Ther. 2025;11:54
+  citation: Hanafusa N, Abe M, Joki N, Hoshino J, Taniguchi M, Kikuchi K, Hasegawa T, Goto S, Ogawa T, Kanda E, et al. Annual dialysis data report 2022, Japanese Society for Dialysis Therapy (JSDT) Renal Data Registry. Ren Replace Ther. 2025;11:54
+  doi: 10.1186/s41100-025-00646-3
+  pmid: null
+  pmcid: null
+  license_note: CC BY 4.0（BMC の誌面表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-677
+  legacy_id: null
+  title: 'Jha VK, Padmaprakash KV. Extracorporeal treatment in the management of acute poisoning: what an intensivist should know? Indian J Crit Care Med. 2018;22(12):862-869'
+  citation: 'Jha VK, Padmaprakash KV. Extracorporeal treatment in the management of acute poisoning: what an intensivist should know? Indian J Crit Care Med. 2018;22(12):862-869'
+  doi: 10.4103/ijccm.IJCCM_425_18
+  pmid: '30662226'
+  pmcid: null
+  license_note: CC BY-NC-SA 4.0（PMC ページの表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-678
+  legacy_id: null
+  title: Chou JA, Kalantar-Zadeh K, Mathew AT. A brief review of intradialytic hypotension with a focus on survival. Semin Dial. 2017;30(6):473-480
+  citation: Chou JA, Kalantar-Zadeh K, Mathew AT. A brief review of intradialytic hypotension with a focus on survival. Semin Dial. 2017;30(6):473-480
+  doi: 10.1111/sdi.12627
+  pmid: '28661565'
+  pmcid: null
+  license_note: 出版社の著作物（著者原稿の PMC 掲載。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-679
+  legacy_id: null
+  title: 'Shin HJ, Choi S, Kim S. Shared decision-making for kidney replacement therapy: a comprehensive review and a proposed model. Korean J Intern Med. 2025;40(6):890-908'
+  citation: 'Shin HJ, Choi S, Kim S. Shared decision-making for kidney replacement therapy: a comprehensive review and a proposed model. Korean J Intern Med. 2025;40(6):890-908'
+  doi: 10.3904/kjim.2025.019
+  pmid: '41223871'
+  pmcid: null
+  license_note: CC BY-NC 4.0（PMC ページの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-680
+  legacy_id: null
+  title: Buur LE, Madsen JK, Eidemak I, Krarup E, Lauridsen TG, Taasti LH, Finderup J. Does conservative kidney management offer a quantity or quality of life benefit compared to dialysis? A systematic review. BMC Nephrol. 2021;22:307
+  citation: Buur LE, Madsen JK, Eidemak I, Krarup E, Lauridsen TG, Taasti LH, Finderup J. Does conservative kidney management offer a quantity or quality of life benefit compared to dialysis? A systematic review. BMC Nephrol. 2021;22:307
+  doi: 10.1186/s12882-021-02516-6
+  pmid: '34507554'
+  pmcid: null
+  license_note: CC BY 4.0（PMC ページの Open Access 表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-681
+  legacy_id: null
+  title: 'Lok CE, Huber TS, Lee T, Shenoy S, Yevzlin AS, Abreo K, Allon M, Asif A, Astor BC, Glickman MH, Graham J, Moist LM, Rajan DK, Roberts C, Vachharajani TJ, Valentini RP; National Kidney Foundation. KDOQI Clinical Practice Guideline for Vascular Access: 2019 Update. Am J Kidney Dis. 2020;75(4 Suppl 2):S1-S164'
+  citation: 'Lok CE, Huber TS, Lee T, Shenoy S, Yevzlin AS, Abreo K, Allon M, Asif A, Astor BC, Glickman MH, Graham J, Moist LM, Rajan DK, Roberts C, Vachharajani TJ, Valentini RP; National Kidney Foundation. KDOQI Clinical Practice Guideline for Vascular Access: 2019 Update. Am J Kidney Dis. 2020;75(4 Suppl 2):S1-S164'
+  doi: 10.1053/j.ajkd.2019.12.001
+  pmid: '32778223'
+  pmcid: null
+  license_note: 学会ガイドライン（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-682
+  legacy_id: null
+  title: 'Li PK, Chow KM, Cho Y, Fan S, Figueiredo AE, Harris T, Kanjanabuch T, Kim YL, Madero M, Malyszko J, Mehrotra R, Okpechi IG, Perl J, Piraino B, Runnegar N, Teitelbaum I, Wong JK, Yu X, Johnson DW. ISPD peritonitis guideline recommendations: 2022 update on prevention and treatment. Perit Dial Int. 2022;42(2):110-153'
+  citation: 'Li PK, Chow KM, Cho Y, Fan S, Figueiredo AE, Harris T, Kanjanabuch T, Kim YL, Madero M, Malyszko J, Mehrotra R, Okpechi IG, Perl J, Piraino B, Runnegar N, Teitelbaum I, Wong JK, Yu X, Johnson DW. ISPD peritonitis guideline recommendations: 2022 update on prevention and treatment. Perit Dial Int. 2022;42(2):110-153'
+  doi: 10.1177/08968608221080586
+  pmid: '35264029'
+  pmcid: null
+  license_note: CC BY-NC 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-683
+  legacy_id: null
+  title: Komaba H, Nakagawa Y, Koizumi M, Tomita Y, Nakamura M. Estimated Number of Prevalent Kidney Transplant Recipients in Japan From 1964 to 2023. Transpl Int. 2025;38:15732
+  citation: Komaba H, Nakagawa Y, Koizumi M, Tomita Y, Nakamura M. Estimated Number of Prevalent Kidney Transplant Recipients in Japan From 1964 to 2023. Transpl Int. 2025;38:15732
+  doi: 10.3389/ti.2025.15732
+  pmid: '41480389'
+  pmcid: null
+  license_note: CC BY（誌面のオープンアクセス表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-684
+  legacy_id: null
+  title: 'Kidney Disease: Improving Global Outcomes (KDIGO) Transplant Work Group. KDIGO clinical practice guideline for the care of kidney transplant recipients. Am J Transplant. 2009;9 Suppl 3:S1-S155'
+  citation: 'Kidney Disease: Improving Global Outcomes (KDIGO) Transplant Work Group. KDIGO clinical practice guideline for the care of kidney transplant recipients. Am J Transplant. 2009;9 Suppl 3:S1-S155'
+  doi: 10.1111/j.1600-6143.2009.02834.x
+  pmid: '19845597'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Crossref の license 欄、version of record）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-685
+  legacy_id: null
+  title: Hariharan S, Israni AK, Danovitch G. Long-Term Survival after Kidney Transplantation. N Engl J Med. 2021;385(8):729-743
+  citation: Hariharan S, Israni AK, Danovitch G. Long-Term Survival after Kidney Transplantation. N Engl J Med. 2021;385(8):729-743
+  doi: 10.1056/NEJMra2014530
+  pmid: '34407344'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-686
+  legacy_id: null
+  title: 'Matzke GR, Aronoff GR, Atkinson AJ Jr, Bennett WM, Decker BS, et al. Drug dosing consideration in patients with acute and chronic kidney disease—a clinical update from Kidney Disease: Improving Global Outcomes (KDIGO). Kidney Int. 2011;80(11):1122-1137'
+  citation: 'Matzke GR, Aronoff GR, Atkinson AJ Jr, Bennett WM, Decker BS, et al. Drug dosing consideration in patients with acute and chronic kidney disease—a clinical update from Kidney Disease: Improving Global Outcomes (KDIGO). Kidney Int. 2011;80(11):1122-1137'
+  doi: 10.1038/ki.2011.322
+  pmid: '21918498'
+  pmcid: null
+  license_note: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-687
+  legacy_id: null
+  title: Ludwig U, Keller F. Prophylaxis of Contrast-Induced Nephrotoxicity. Biomed Res Int. 2014;2014:308316
+  citation: Ludwig U, Keller F. Prophylaxis of Contrast-Induced Nephrotoxicity. Biomed Res Int. 2014;2014:308316
+  doi: 10.1155/2014/308316
+  pmid: '24812612'
+  pmcid: null
+  license_note: CC BY 3.0（Crossref の license 欄と PMC 掲載ページの表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-688
+  legacy_id: null
+  title: Fujikura T, Isobe S, Oikawa S, Ishigaki S, Katahashi N, et al. Comparison of seroconversion rates after hepatitis B vaccination in patients with advanced chronic kidney disease and those receiving maintenance hemodialysis. Clin Exp Nephrol. 2025;29(8):1045-1052
+  citation: Fujikura T, Isobe S, Oikawa S, Ishigaki S, Katahashi N, et al. Comparison of seroconversion rates after hepatitis B vaccination in patients with advanced chronic kidney disease and those receiving maintenance hemodialysis. Clin Exp Nephrol. 2025;29(8):1045-1052
+  doi: 10.1007/s10157-025-02648-1
+  pmid: '40035977'
+  pmcid: null
+  license_note: Springer の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-689
+  legacy_id: null
+  title: 'Azegami T, Kounoue N, Sofue T, et al. Efficacy of pre-emptive kidney transplantation for adults with end-stage kidney disease: a systematic review and meta-analysis. Ren Fail. 2023;45(1):2169618'
+  citation: 'Azegami T, Kounoue N, Sofue T, et al. Efficacy of pre-emptive kidney transplantation for adults with end-stage kidney disease: a systematic review and meta-analysis. Ren Fail. 2023;45(1):2169618'
+  doi: 10.1080/0886022X.2023.2169618
+  pmid: '36705051'
+  pmcid: null
+  license_note: CC BY 4.0（誌面の表示、Crossref の license 欄でも CC BY 4.0 を確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から
+- id: SRC-690
+  legacy_id: null
+  title: Takahashi K, Saito K, Takahara S, et al.; Japanese ABO-Incompatible Kidney Transplantation Committee. Excellent long-term outcome of ABO-incompatible living donor kidney transplantation in Japan. Am J Transplant. 2004;4(7):1089-1096
+  citation: Takahashi K, Saito K, Takahara S, et al.; Japanese ABO-Incompatible Kidney Transplantation Committee. Excellent long-term outcome of ABO-incompatible living donor kidney transplantation in Japan. Am J Transplant. 2004;4(7):1089-1096
+  doi: 10.1111/j.1600-6143.2004.00464.x
+  pmid: '15196066'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Crossref の license 欄、version of record）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/16_ku_b.md の出典マスター表から

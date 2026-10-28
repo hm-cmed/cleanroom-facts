@@ -1,0 +1,1403 @@
+- id: GN-001
+  domain: GN
+  subdomain: 血尿
+  assertion:
+    plain_statement_ja: 顕微鏡的血尿は、適切に採取した尿の顕微鏡検査で赤血球3個/HPF以上を認めるものと定義される。米国の2025年改訂ガイドラインでは、年齢と性、喫煙量、1回の尿検査での赤血球数、肉眼的血尿の既往、尿路上皮癌の危険因子の有無で低リスク・中間リスク・高リスクに層別し、低リスクでは6か月後の尿検査の再検、中間リスクでは膀胱鏡と腎超音波、高リスクでは膀胱鏡と上部尿路の軸位断画像（CT尿路造影など）による評価を行う。
+    condition:
+      region: 米国
+      study: AUA/SUFU ガイドライン 2025年改訂
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-572
+    source: 'Barocas DA, Lotan Y, Matulewicz RS, Raman JD, Westerman ME, Kirkby E, Pak L, Souter L. Updates to Microhematuria: AUA/SUFU Guideline (2025). J Urol. 2025;213(5):547-557'
+    doi: 10.1097/JU.0000000000004490
+    pmid: '40013563'
+    pmcid: null
+    url: https://doi.org/10.1097/JU.0000000000004490
+    source_license: 出版社（AUA）の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: リスク層別の境界値（赤血球数・喫煙量など）はガイドラインの表から読み取ったものである（表から読み取り）。米国のガイドラインであり、日本の検尿・診療の基準と同一とは限らない。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-02-08-010 (id: JlAKpmc)'
+    kokushi: 医学各論 Ⅷ-1-E-①（血尿、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-002
+  domain: GN
+  subdomain: 蛋白尿
+  assertion:
+    plain_statement_ja: 蛋白尿の評価では尿アルブミン/クレアチニン比（ACR）が用いられ、国際的な CKD の枠組みではアルブミン尿は A1（30 mg/g未満）、A2（30〜300 mg/g）、A3（300 mg/gを超える）の3区分に分けられる。アルブミン尿の増加は腎障害のマーカーであり心血管リスクとも関連するため、一過性の増加の原因を除いたうえで持続性を確認し、糸球体濾過量の区分と組み合わせて評価する。
+    condition:
+      region: 国際
+      study: KDIGO 2024 CKD 評価・管理ガイドライン
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-573
+    source: 'Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024;105(4S):S117-S314'
+    doi: 10.1016/j.kint.2023.10.018
+    pmid: '38490803'
+    pmcid: null
+    url: https://doi.org/10.1016/j.kint.2023.10.018
+    source_license: 出版社の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: アルブミン尿区分の境界値はガイドラインの表から読み取ったものである（表から読み取り）。日本の特定健診などで用いる試験紙法による蛋白尿の判定とは方式が異なる。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-02-08-011 (id: JlAKpmg)'
+    kokushi: 医学各論 Ⅷ-1-E-②（蛋白尿、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-003
+  domain: GN
+  subdomain: 急性糸球体腎炎
+  assertion:
+    plain_statement_ja: 溶連菌感染後急性糸球体腎炎は、A群溶連菌の感染後に急性腎炎症候群として発症する。小児の長期予後は一般に良好で、流行性と散発性の110例を15〜18年間追跡した報告では、蛋白尿7.2%、顕微鏡的血尿5.4%、高血圧3.0%、高窒素血症0.9%にとどまり、一般人口とほぼ変わらなかった。一方、溶連菌感染が反復する環境にある集団では、後にアルブミン尿を呈する調整オッズ比が6.1と高く、背景集団によって長期予後は異なる。
+    condition:
+      region: 国際
+      study: 2008年の総説（著者らの小児110例の15〜18年の前向き追跡を含む）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-574
+    source: Rodriguez-Iturbe B, Musser JM. The current state of poststreptococcal glomerulonephritis. J Am Soc Nephrol. 2008;19(10):1855-1864
+    doi: 10.1681/ASN.2008010092
+    pmid: '18667731'
+    pmcid: null
+    url: https://doi.org/10.1681/ASN.2008010092
+    source_license: ライセンス表示を確認できず（CC の表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 長期予後の数値は著者らの単一コホートに基づくもので、成人の発症例や腎機能低下を伴う例では経過が異なる。出典のライセンスは未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-321 (id: Jlvnl9M)'
+    kokushi: 医学各論 Ⅷ-1-A-①（急性糸球体腎炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-004
+  domain: GN
+  subdomain: 急性糸球体腎炎
+  assertion:
+    plain_statement_ja: 感染に関連する急性糸球体腎炎では、なお続いている感染への治療と、浮腫・高血圧・体液過剰に対する支持療法が管理の中心となり、典型的な経過をたどる溶連菌感染後糸球体腎炎に対して免疫抑制療法は用いない。国際ガイドラインは感染関連糸球体腎炎を独立した領域として扱い、診断、予後、治療、特殊な状況という枠組みで推奨を示している。
+    condition:
+      region: 国際
+      study: KDIGO 2021 糸球体疾患ガイドライン（感染関連糸球体腎炎の章）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-571
+    source: 'Kidney Disease: Improving Global Outcomes (KDIGO) Glomerular Diseases Work Group. KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases. Kidney Int. 2021;100(4S):S1-S276'
+    doi: 10.1016/j.kint.2021.05.021
+    pmid: '34556256'
+    pmcid: null
+    url: https://doi.org/10.1016/j.kint.2021.05.021
+    source_license: 出版社の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードはガイドラインの一般原則であり、個別の薬剤名と用量は記載していない。支持療法で用いる利尿薬や降圧薬は国内承認薬であるが、個別製剤の適応確認はしていない。半月体形成を伴うなど非典型的な経過では扱いが異なる。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-321 (id: Jlvnl9M)'
+    kokushi: 医学各論 Ⅷ-1-A-①（急性糸球体腎炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-005
+  domain: GN
+  subdomain: 急速進行性糸球体腎炎症候群
+  assertion:
+    plain_statement_ja: 急速進行性糸球体腎炎は、数週から数か月の経過で腎機能が急速に低下する臨床症候群で、腎生検では半月体形成を特徴とする。機序により、抗糸球体基底膜（抗GBM）抗体型、免疫複合体型、免疫沈着の乏しい pauci-immune 型（多くは ANCA 関連血管炎）に分類され、治療方針が異なるため、ANCA や抗GBM抗体、補体などの血清学と腎生検による早期の鑑別が重要である。
+    condition:
+      region: 国際
+      study: KDIGO 2021 糸球体疾患ガイドライン（ANCA関連血管炎・抗GBM抗体系球体腎炎の章を含む）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-571
+    source: 'Kidney Disease: Improving Global Outcomes (KDIGO) Glomerular Diseases Work Group. KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases. Kidney Int. 2021;100(4S):S1-S276'
+    doi: 10.1016/j.kint.2021.05.021
+    pmid: '34556256'
+    pmcid: null
+    url: https://doi.org/10.1016/j.kint.2021.05.021
+    source_license: 出版社の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 分類の枠組みはガイドラインに基づく。各型の頻度は年齢と地域で異なり、本カードでは頻度の数値は扱っていない。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
+    kokushi: 医学各論 Ⅷ-1-A-②（急速進行性糸球体腎炎症候群、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-006
+  domain: GN
+  subdomain: 急速進行性糸球体腎炎症候群
+  assertion:
+    plain_statement_ja: 重症の ANCA 関連血管炎（糸球体濾過量50 mL/min/1.73 m2未満またはびまん性肺出血）を対象とした国際共同ランダム化試験（704例）では、血漿交換を行っても死亡または末期腎不全の複合転帰は減らなかった（28.4% 対 31.0%、ハザード比0.86、95%信頼区間0.65〜1.13）。経口グルココルチコイドの減量レジメンは標準量レジメンに対して非劣性で、1年以内の重篤な感染症は減量群で少なかった（発生率比0.69）。
+    condition:
+      region: 国際
+      study: 2020年の多施設共同ランダム化比較試験（2×2要因デザイン）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-575
+    source: Walsh M, Merkel PA, Peh CA, Szpirt W, Puéchal X, Fujimoto S, et al. Plasma Exchange and Glucocorticoids in Severe ANCA-Associated Vasculitis. N Engl J Med. 2020;382(7):622-631
+    doi: 10.1056/NEJMoa1803537
+    pmid: '32053298'
+    pmcid: PMC7325726
+    url: https://doi.org/10.1056/NEJMoa1803537
+    source_license: 出版社の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: グルココルチコイドは国内承認薬だが、本試験の減量レジメンそのものの国内の適応・保険適用は未確認である。抗GBM抗体型など対象外の病型にはこの結果をそのまま当てはめない。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
+    kokushi: 医学各論 Ⅷ-1-A-②（急速進行性糸球体腎炎症候群、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-007
+  domain: GN
+  subdomain: IgA腎症
+  assertion:
+    plain_statement_ja: IgA腎症は世界で最も多い原発性の慢性糸球体疾患で、診断の決め手は糸球体メサンギウムに IgA が優位に沈着することである。蛍光抗体法では IgA が単独で、または IgG や IgM を伴って沈着し、補体 C3 とプロペルジンはほぼ常にみられる一方、C1q は通常みられない。臨床像は、上気道感染に伴う肉眼的血尿から検尿異常のみの例まで幅広い。
+    condition:
+      region: 国際
+      study: 2013年の総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-576
+    source: Wyatt RJ, Julian BA. IgA nephropathy. N Engl J Med. 2013;368(25):2402-2414
+    doi: 10.1056/NEJMra1206793
+    pmid: '23782179'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMra1206793
+    source_license: 出版社の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 免疫グロブリン沈着の内訳の頻度は施設により大きく異なることが本文に記されている。診断には腎生検が必要である。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-322 (id: Jlvnl9U)'
+    kokushi: 医学各論 Ⅷ-1-A-③（慢性糸球体腎炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-008
+  domain: GN
+  subdomain: IgA腎症
+  assertion:
+    plain_statement_ja: 進行リスクの高い IgA 腎症（蛋白尿1 g/日以上が最適化した支持療法を3か月以上行った後も持続する例）を対象とした国際共同ランダム化試験（503例）では、経口メチルプレドニゾロンを6〜9か月間投与した群で、推算糸球体濾過量の40%低下・腎不全・腎疾患による死亡の複合転帰が少なかった（28.8% 対 43.1%、ハザード比0.53）。一方、重篤な有害事象はメチルプレドニゾロン群で多く（10.9% 対 2.8%）、とくに高用量レジメンで重篤な感染症が増えた。
+    condition:
+      region: 国際
+      study: 2022年の多施設共同二重盲検ランダム化比較試験（TESTING）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-577
+    source: 'Lv J, Wong MG, Hladunewich MA, Jha V, Hooi LS, Monaghan H, et al. Effect of Oral Methylprednisolone on Decline in Kidney Function or Kidney Failure in Patients With IgA Nephropathy: The TESTING Randomized Clinical Trial. JAMA. 2022;327(19):1888-1898'
+    doi: 10.1001/jama.2022.5368
+    pmid: '35579642'
+    pmcid: PMC9115617
+    url: https://doi.org/10.1001/jama.2022.5368
+    source_license: 出版社の著作物（PMC 掲載ページにも CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: メチルプレドニゾロンは国内承認薬だが、IgA腎症に対する国内の適応・保険適用は未確認である。試験では途中で用量が減量レジメンに変更されており、用いる場合は利益と感染症のリスクを個別に評価する必要がある。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-322 (id: Jlvnl9U)'
+    kokushi: 医学各論 Ⅷ-1-A-③（慢性糸球体腎炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-009
+  domain: GN
+  subdomain: IgA腎症
+  assertion:
+    plain_statement_ja: IgA腎症の Oxford 分類は、2016年の改訂で従来の MEST スコアに半月体（C）が加わり、MEST-C スコアとして生検報告に記載することが推奨された。糸球体が8個以上ある生検標本では、メサンギウム細胞増多（M）、分節性硬化（S）、間質線維化・尿細管萎縮（T）が臨床転帰を予測し、より大規模なコホートで半月体（C）も予後予測因子であることが確認された。管内増殖（E）は、免疫抑制療法を受けていない例でのみ予後と関連した。
+    condition:
+      region: 国際
+      study: 2016年の Oxford 分類改訂（分類ワーキンググループの報告）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-578
+    source: 'Trimarchi H, Barratt J, Cattran DC, Cook HT, Coppo R, Haas M, et al. Oxford Classification of IgA nephropathy 2016: an update from the IgA Nephropathy Classification Working Group. Kidney Int. 2017;91(5):1014-1021'
+    doi: 10.1016/j.kint.2017.02.003
+    pmid: '28341274'
+    pmcid: null
+    url: https://doi.org/10.1016/j.kint.2017.02.003
+    source_license: 出版社の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: M と E の判定には報告間のばらつきが指摘されており、予後予測は生検時の臨床データと組み合わせて行うものとされている。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-322 (id: Jlvnl9U)'
+    kokushi: 医学各論 Ⅷ-1-A-③（慢性糸球体腎炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-010
+  domain: GN
+  subdomain: ネフローゼ症候群
+  assertion:
+    plain_statement_ja: 日本のネフローゼ症候群の臨床的定義では、尿蛋白3.5 g/日以上の持続（随時尿では尿蛋白/クレアチニン比3.5 g/gCr以上に相当）と血清アルブミン3.0 g/dL以下が診断に必須の条件であり、浮腫と脂質異常症（高LDLコレステロール血症）は必須ではないが重要な参考所見とされる。卵円形脂肪体も診断の参考になる。治療効果の評価は尿蛋白量に基づいて行われる。
+    condition:
+      region: 日本
+      study: 日本腎臓学会などのエビデンスに基づくネフローゼ症候群診療ガイドライン2014（英語版2016年掲載）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-579
+    source: Nishi S, Ubara Y, Utsunomiya Y, Okada K, Obata Y, Kai H, et al. Evidence-based clinical practice guidelines for nephrotic syndrome 2014. Clin Exp Nephrol. 2016;20(3):342-370
+    doi: 10.1007/s10157-015-1216-x
+    pmid: '27099136'
+    pmcid: PMC4891386
+    url: https://doi.org/10.1007/s10157-015-1216-x
+    source_license: CC BY 4.0（PMC ページの Open Access 表示）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 定義の数値はガイドラインの表から読み取ったものである（表から読み取り）。小児では定義が異なり、高度蛋白尿と血清アルブミン2.5 g/dL以下が用いられる。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-011
+  domain: GN
+  subdomain: ネフローゼ症候群
+  assertion:
+    plain_statement_ja: ネフローゼ症候群の治療は、原因疾患に対する免疫抑制療法と、浮腫に対する塩分制限と利尿薬、レニン・アンジオテンシン系阻害薬による蛋白尿の抑制と血圧管理、血栓塞栓症や感染症などの合併症への注意を組み合わせて行う。国際ガイドラインはネフローゼ症候群を独立した領域として扱い、微小変化群や巣状分節性糸球体硬化症など原因疾患ごとに診断と治療の推奨を示している。
+    condition:
+      region: 国際
+      study: KDIGO 2021 糸球体疾患ガイドライン（ネフローゼ症候群の章）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-571
+    source: 'Kidney Disease: Improving Global Outcomes (KDIGO) Glomerular Diseases Work Group. KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases. Kidney Int. 2021;100(4S):S1-S276'
+    doi: 10.1016/j.kint.2021.05.021
+    pmid: '34556256'
+    pmcid: null
+    url: https://doi.org/10.1016/j.kint.2021.05.021
+    source_license: 出版社の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードはガイドラインに基づく管理の総論であり、合併症の頻度などの個別の数値は扱っていない。免疫抑制薬や利尿薬、レニン・アンジオテンシン系阻害薬は国内承認薬だが、疾患ごとの適応・保険適用の確認は個別のカードで行う。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
+    kokushi: null
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-012
+  domain: GN
+  subdomain: 微小変化群
+  assertion:
+    plain_statement_ja: 成人および思春期後期に発症した微小変化型ネフローゼ症候群125例の集積では、初期治療として副腎皮質ステロイドが投与された105例のうち88%が16週までに寛解し、寛解までの期間の中央値は4週だった。一方、再発は54%にみられ、急性腎障害が40%、動静脈血栓症が9%に生じた。最終観察時点では90%が腎機能を保ったまま寛解していた。
+    condition:
+      region: オランダ
+      study: 2017年の多施設（10施設）後ろ向き症例集積（1985〜2011年発症例）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-580
+    source: 'Maas RJ, Deegens JK, Beukhof JR, Reichert LJ, Ten Dam MA, Beutler JJ, et al. The clinical course of minimal change nephrotic syndrome with onset in adulthood or late adolescence: a case series. Am J Kidney Dis. 2017;69(5):637-646'
+    doi: 10.1053/j.ajkd.2016.10.032
+    pmid: '28089478'
+    pmcid: null
+    url: https://doi.org/10.1053/j.ajkd.2016.10.032
+    source_license: ライセンス表示を確認できず（CC の表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 単一国の後ろ向き集積であり、小児発症例や日本の症例構成にはそのまま当てはまらない。副腎皮質ステロイドは国内承認薬だが、成人発症例に対する用量・期間の国内の標準は未確認である。出典のライセンスは未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-325 (id: Jlvnl9k)'
+    kokushi: 医学各論 Ⅷ-1-B-①（微小変化群、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-013
+  domain: GN
+  subdomain: 巣状分節性糸球体硬化症
+  assertion:
+    plain_statement_ja: 巣状分節性糸球体硬化症（FSGS）の Columbia 分類は、腎生検標本の形態に基づく病理分類の作業提案として2004年に示され、虚脱型、糸球体尖部（tip）型、細胞型、傍糸球体門型、特定不能型（NOS）の5つの亜型に分ける。形態分類は病因の分類とは別であり、原発性か二次性かといった臨床的な病因の評価と組み合わせて解釈する。
+    condition:
+      region: 米国
+      study: 2004年の病理分類の作業提案（Columbia 分類）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-581
+    source: 'D''Agati VD, Fogo AB, Bruijn JA, Jennette JC. Pathologic classification of focal segmental glomerulosclerosis: a working proposal. Am J Kidney Dis. 2004;43(2):368-382'
+    doi: 10.1053/j.ajkd.2003.10.024
+    pmid: '14750104'
+    pmcid: null
+    url: https://doi.org/10.1053/j.ajkd.2003.10.024
+    source_license: ライセンス表示を確認できず（CC の表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 5亜型の名称は後年の総説の引用でも確認した（二次資料経由の確認を含む）。出典のライセンスは未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-324 (id: Jlvnl9g)'
+    kokushi: 医学各論 Ⅷ-1-B-②（巣状分節性糸球体硬化症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-014
+  domain: GN
+  subdomain: 巣状分節性糸球体硬化症
+  assertion:
+    plain_statement_ja: 原発性巣状分節性糸球体硬化症の初期治療は高用量のグルココルチコイドであり、蛋白尿の寛解を目指して十分な期間継続し、反応をみて漸減する。ステロイドに抵抗性または不耐の例では、カルシニューリン阻害薬などの免疫抑制療法が検討される。これに対して二次性のものでは免疫抑制療法は行わず、原因への対処と血圧管理、レニン・アンジオテンシン系阻害による腎保護が中心となる。
+    condition:
+      region: 国際
+      study: KDIGO 2021 糸球体疾患ガイドライン（FSGS の章）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-571
+    source: 'Kidney Disease: Improving Global Outcomes (KDIGO) Glomerular Diseases Work Group. KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases. Kidney Int. 2021;100(4S):S1-S276'
+    doi: 10.1016/j.kint.2021.05.021
+    pmid: '34556256'
+    pmcid: null
+    url: https://doi.org/10.1016/j.kint.2021.05.021
+    source_license: 出版社の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: グルココルチコイドとカルシニューリン阻害薬はいずれも国内承認薬だが、原発性FSGSに対する用量と投与期間の国内の適応・保険適用は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-324 (id: Jlvnl9g)'
+    kokushi: 医学各論 Ⅷ-1-B-②（巣状分節性糸球体硬化症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-015
+  domain: GN
+  subdomain: 膜性腎症
+  assertion:
+    plain_statement_ja: 特発性膜性腎症では、患者の約70%（37例中26例）にM型ホスホリパーゼA2受容体（PLA2R）に対する自己抗体が検出され、この抗体は二次性膜性腎症では認められなかった。PLA2Rは糸球体上皮細胞（ポドサイト）に発現する185 kDaの糖蛋白で、患者の抗体は主としてIgG4であり、糸球体の免疫沈着物の中でPLA2Rと共局在する。
+    condition:
+      region: 米国
+      study: 2009年の症例対照研究（特発性膜性腎症37例を含む）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-582
+    source: Beck LH Jr, Bonegio RGB, Lambeau G, Beck DM, Powell DW, Cummins TD, et al. M-type phospholipase A2 receptor as target antigen in idiopathic membranous nephropathy. N Engl J Med. 2009;361(1):11-21
+    doi: 10.1056/NEJMoa0810457
+    pmid: '19571279'
+    pmcid: PMC2762083
+    url: https://doi.org/10.1056/NEJMoa0810457
+    source_license: 出版社の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 70%という数値は37例の発見研究に基づくもので、測定系や対象集団により陽性割合は異なる。抗PLA2R抗体測定の国内での実施・保険適用の状況は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-323 (id: Jlvnl9Y)'
+    kokushi: 医学各論 Ⅷ-1-B-③（膜性腎症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-016
+  domain: GN
+  subdomain: 膜性腎症
+  assertion:
+    plain_statement_ja: 蛋白尿が持続する膜性腎症130例を対象としたランダム化試験では、リツキシマブはシクロスポリンに対して12か月時点の完全寛解と部分寛解を合わせた割合で非劣性であり（60% 対 52%）、24か月時点では寛解率はリツキシマブ群で維持されたのに対しシクロスポリン群では低下した（60% 対 20%）。完全寛解は24か月時点でリツキシマブ群の35%に得られ、シクロスポリン群では得られなかった。
+    condition:
+      region: 国際
+      study: 2019年の多施設共同ランダム化比較試験（MENTOR、北米の施設で実施）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-583
+    source: Fervenza FC, Appel GB, Barbour SJ, Rovin BH, Lafayette RA, Aslam N, et al. Rituximab or Cyclosporine in the Treatment of Membranous Nephropathy. N Engl J Med. 2019;381(1):36-46
+    doi: 10.1056/NEJMoa1814427
+    pmid: '31269364'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1814427
+    source_license: 出版社の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録の要約と二次資料で照合したものである（二次資料経由の確認を含む）。リツキシマブは国内では難治性ネフローゼ症候群などに承認があるが、膜性腎症そのものに対する国内の適応・保険適用は未確認である。シクロスポリンは国内承認薬だが、膜性腎症に対する位置づけの国内確認はしていない。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-323 (id: Jlvnl9Y)'
+    kokushi: 医学各論 Ⅷ-1-B-③（膜性腎症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-017
+  domain: GN
+  subdomain: 膜性増殖性糸球体腎炎
+  assertion:
+    plain_statement_ja: 膜性増殖性糸球体腎炎は光学顕微鏡による病理パターンの名称であり、病因に基づく現在の分類では、免疫複合体が介在する型と、補体の調節異常による補体介在型（C3腎症を含む）に大別される。この分類に従って、背景にある感染症や自己免疫疾患、単クローン性免疫グロブリン血症の検索と、補体経路の評価が診断の出発点になる。
+    condition:
+      region: 国際
+      study: 2012年の総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-584
+    source: Sethi S, Fervenza FC. Membranoproliferative glomerulonephritis — a new look at an old entity. N Engl J Med. 2012;366(12):1119-1131
+    doi: 10.1056/NEJMra1108178
+    pmid: '22435371'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMra1108178
+    source_license: 出版社の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードは分類の枠組みのみを扱い、個別の治療の推奨は扱っていない。2012年の総説であり、その後の補体関連の診断・治療の進歩は反映されていない。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-326 (id: Jlvnl9s)'
+    kokushi: 医学各論 Ⅷ-1-B-④（膜性増殖性糸球体腎炎、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-018
+  domain: GN
+  subdomain: ネフローゼ症候群
+  assertion:
+    plain_statement_ja: 小児の特発性ネフローゼ症候群に対する日本の診療ガイドラインは2020年に全面改訂され、2022年に補遺が発行された。内科的治療に関する英語版の要約は2025年に公表されており、ステロイドへの反応性（感受性・抵抗性）や再発のパターンに応じた治療の枠組みを示している。
+    condition:
+      region: 日本
+      study: 小児特発性ネフローゼ症候群診療ガイドライン2020の英語版要約（2025年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-586
+    source: 'Hamada R, Kaku Y, Inaba A, Kaito H, Kimata T, Kondo S, et al. A digest of the clinical practice guideline for pediatric idiopathic nephrotic syndrome 2020 updated: medical therapy. Clin Exp Nephrol. 2025;29(6):691-701'
+    doi: 10.1007/s10157-025-02636-5
+    pmid: '40063214'
+    pmcid: null
+    url: https://doi.org/10.1007/s10157-025-02636-5
+    source_license: ライセンス表示を確認できず（出版社ページで CC の表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: リツキシマブは、頻回再発型・ステロイド依存性の小児発症ネフローゼ症候群に対して国内で承認され保険適用があることを国内の総説で確認した（承認は2014年）。個別の用法・用量は確認していない。出典のライセンスは未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-427 (id: JlvnmHU)'
+    kokushi: 医学各論 Ⅷ-1-B-①（微小変化群、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-019
+  domain: GN
+  subdomain: 急性糸球体腎炎
+  assertion:
+    plain_statement_ja: 感染性心内膜炎に伴う糸球体腎炎では、腎生検で診断された49例の集積で、急性腎障害が最も多い臨床像であり、検査された例の56%に低補体血症、28%にANCA陽性を認めた。病理では壊死性・半月体形成性糸球体腎炎が53%、管内増殖性糸球体腎炎が37%を占め、原因菌は黄色ブドウ球菌が53%と最も多かった。糸球体にはC3の沈着が全例で目立ち、IgGの沈着は30%未満にとどまった。
+    condition:
+      region: 米国
+      study: 2015年の腎生検症例49例の集積
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-585
+    source: Boils CL, Nasr SH, Walker PD, Couser WG, Larsen CP. Update on endocarditis-associated glomerulonephritis. Kidney Int. 2015;87(6):1241-1249
+    doi: 10.1038/ki.2014.424
+    pmid: '25607109'
+    pmcid: PMC4455140
+    url: https://doi.org/10.1038/ki.2014.424
+    source_license: CC BY-NC-ND 3.0（PMC ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 単一施設の生検症例集積であり、弁膜症や静注薬物使用といった背景の割合は集団により異なる。治療は原疾患である心内膜炎の治療が中心であり、免疫抑制療法の位置づけは本カードでは扱っていない。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-321 (id: Jlvnl9M)'
+    kokushi: 医学各論 Ⅷ-1-A-①（急性糸球体腎炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-020
+  domain: GN
+  subdomain: 腎炎症候群
+  assertion:
+    plain_statement_ja: 腎炎の症候分類では、急性腎炎症候群は血尿（赤血球円柱を伴う）、通常はネフローゼ域に至らない蛋白尿、軽度の腎機能障害と高血圧を特徴とし、急速進行性糸球体腎炎は急性腎炎症候群の像に週から月単位の急速な腎機能低下を伴うもの、慢性腎炎症候群は蛋白尿と血尿が3か月を超えて持続するものと定義される。台湾の腎生検登録（2014〜2016年、1445件）では、原発性糸球体疾患のうちIgA腎症が慢性腎炎症候群の55.2%、急性腎炎症候群の36.7%、持続性血尿の76.7%を占めて最も多く、ネフローゼ症候群では膜性腎症が28.8%、微小変化群が28.2%を占めた。
+    condition:
+      region: 台湾
+      study: 2018年の全国腎生検登録の予備報告（17施設、1445件）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-587
+    source: 'Chiu HF, Chen HC, Lu KC, Shu KH; Taiwan Society of Nephrology. Distribution of glomerular diseases in Taiwan: preliminary report of National Renal Biopsy Registry — publication on behalf of Taiwan Society of Nephrology. BMC Nephrol. 2018;19:6'
+    doi: 10.1186/s12882-017-0810-4
+    pmid: '29320993'
+    pmcid: PMC5764016
+    url: https://doi.org/10.1186/s12882-017-0810-4
+    source_license: CC BY 4.0（誌面の Open Access 表示）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 症候の定義と疾患頻度は台湾の登録データに基づく。生検の適応基準が異なるため、日本における頻度とは異なる可能性がある。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-02-08-014 (id: JlAKpmw)'
+    kokushi: 医学各論 Ⅷ-1-E-①（血尿、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: curriculum.core_curriculum の TBL-02-08-014 の id を JlAKpm0 から JlAKpmw に訂正（コアカリの原データとの照合による機械的な訂正。受け入れ検査 reports/accept_15_ku_a.md）
+- id: GN-021
+  domain: GN
+  subdomain: 糖尿病性腎症
+  assertion:
+    plain_statement_ja: 日本の糖尿病性腎症病期分類（2014年改訂）は、尿アルブミン（または尿蛋白）と eGFR によって第1期から第5期に分ける。第1期（腎症前期）は正常アルブミン尿（30 mg/gCr 未満）、第2期（早期腎症期）は微量アルブミン尿（30〜299 mg/gCr）、第3期（顕性腎症期）は顕性アルブミン尿（300 mg/gCr 以上）または持続性蛋白尿（0.5 g/gCr 以上）で、第1〜3期はいずれも eGFR 30 mL/min/1.73m² 以上である。第4期（腎不全期）はアルブミン尿の程度を問わず eGFR 30 未満、第5期は透析療法中とされる。2014年改訂では第4期の定義が eGFR 30 未満に改められ、全病期を通じて糖尿病性腎症と非糖尿病性腎疾患との鑑別が重要とされた。
+    condition:
+      region: 日本
+      study: 糖尿病性腎症合同委員会による病期分類の改訂報告（2014年版）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-589
+    source: 'Haneda M, Utsunomiya K, Koya D, Babazono T, Moriya T, Makino H, et al.; Joint Committee on Diabetic Nephropathy. A new Classification of Diabetic Nephropathy 2014: a report from Joint Committee on Diabetic Nephropathy. J Diabetes Investig. 2015;6(2):242-246'
+    doi: 10.1111/jdi.12319
+    pmid: '25802733'
+    pmcid: PMC4364860
+    url: https://doi.org/10.1111/jdi.12319
+    source_license: CC BY-NC-ND 4.0（Crossref の license 欄で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 病期の境界値は分類表（Table 1）から読み取った（表から読み取り）。分類は糖尿病性腎症が非糖尿病性腎疾患と鑑別されていることを前提とする。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-332 (id: Jlvnl-Q)'
+    kokushi: 医学各論 Ⅷ-1-C-①（糖尿病腎症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-022
+  domain: GN
+  subdomain: 糖尿病性腎症
+  assertion:
+    plain_statement_ja: 2型糖尿病とアルブミン尿を伴う慢性腎臓病の患者4,401例（eGFR 30〜90 mL/min/1.73m² 未満、尿アルブミン/クレアチニン比 300 超〜5,000 mg/g、全例がレニン・アンジオテンシン系阻害薬で治療中）を対象とした二重盲検試験（CREDENCE）では、SGLT2阻害薬カナグリフロジン100 mg/日は、主要複合アウトカム（末期腎不全、血清クレアチニンの倍化、腎死または心血管死）のリスクをプラセボより30%低下させた（発生率43.2 対 61.2/1,000人年、ハザード比0.70）。追跡期間の中央値は2.62年で、試験は中間解析を受けて早期に終了した。腎特異的な複合アウトカムのハザード比は0.66、末期腎不全のハザード比は0.68だった。
+    condition:
+      region: 国際
+      study: 多施設二重盲検ランダム化比較試験（CREDENCE、4,401例、追跡中央値2.62年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-590
+    source: Perkovic V, Jardine MJ, Neal B, et al.; CREDENCE Trial Investigators. Canagliflozin and Renal Outcomes in Type 2 Diabetes and Nephropathy. N Engl J Med. 2019;380(24):2295-2306
+    doi: 10.1056/NEJMoa1811744
+    pmid: '30990260'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1811744
+    source_license: 出版社の利用条件（Crossref の license 欄。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: カナグリフロジンを含む SGLT2 阻害薬の国内の承認・保険適用の範囲（糖尿病性腎症・慢性腎臓病への適応を含む）は未確認であり、取り込み時に PMDA の添付文書で確認が必要。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-332 (id: Jlvnl-Q)'
+    kokushi: 医学各論 Ⅷ-1-C-①（糖尿病腎症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-023
+  domain: GN
+  subdomain: 糖尿病性腎症
+  assertion:
+    plain_statement_ja: KDIGO の2022年ガイドラインは、糖尿病と慢性腎臓病を併せ持つ患者について、腎疾患の進行と心血管疾患のリスクを下げる包括的な治療戦略をとることを求めている。推奨1.3.1では、2型糖尿病と慢性腎臓病があり、eGFR が20 mL/min/1.73m² 以上の患者に、腎・心血管保護を目的として SGLT2 阻害薬で治療することを推奨している（推奨の強さ1、エビデンスの確実性A）。いったん開始した SGLT2 阻害薬は、eGFR が20未満に下がっても、忍容性に問題がないか腎代替療法が始まるまでは継続してよいとされ、長時間の絶食・手術・重篤な疾患の際にはケトーシスのリスクのため一時的に休薬を検討するとされる。
+    condition:
+      region: 国際
+      study: KDIGO 2022 糖尿病・慢性腎臓病ガイドラインの推奨とプラクティスポイント
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-591
+    source: KDIGO Diabetes Work Group. KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. Kidney Int. 2022;102(5S):S1-S127
+    doi: 10.1016/j.kint.2022.06.008
+    pmid: '36272764'
+    pmcid: null
+    url: https://doi.org/10.1016/j.kint.2022.06.008
+    source_license: CC BY-NC-ND 4.0（Crossref の license 欄で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 推奨の強さとエビデンスの確実性はガイドライン本文の表記どおりに書いた。SGLT2 阻害薬の国内の承認・保険適用の範囲は未確認であり、国内の eGFR 基準や適応は添付文書で別途確認が必要。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-332 (id: Jlvnl-Q)'
+    kokushi: 医学各論 Ⅷ-1-C-①（糖尿病腎症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-024
+  domain: GN
+  subdomain: ループス腎炎
+  assertion:
+    plain_statement_ja: KDIGO の2024年ループス腎炎ガイドラインは、腎生検による ISN/RPS 分類のクラスを治療方針の軸に置いている。Class I・II では免疫抑制は主に腎外の全身性エリテマトーデスの症状に応じて決め、活動性の Class III・IV（増殖型）には初期治療の推奨が、純粋な Class V（膜型）には蛋白尿の程度に応じた対応が、それぞれ分けて示されている。腎生検の報告には活動性と慢性化を表す所見の項目を含めることとされ、治療への反応は蛋白尿の減少と腎機能の安定・改善で判定する枠組みが示されている。
+    condition:
+      region: 国際
+      study: KDIGO 2024 ループス腎炎ガイドライン（診断と治療の章立て、反応の定義）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-592
+    source: KDIGO Lupus Nephritis Work Group. KDIGO 2024 Clinical Practice Guideline for the management of LUPUS NEPHRITIS. Kidney Int. 2024;105(1S):S1-S69
+    doi: 10.1016/j.kint.2023.09.002
+    pmid: '38182286'
+    pmcid: null
+    url: https://doi.org/10.1016/j.kint.2023.09.002
+    source_license: CC BY-NC-ND 4.0（ガイドライン本文の著作権表示で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 各クラスの組織学的定義そのものは ISN/RPS 分類（2018年改訂で Class IV の S/G 細分が廃止され、活動性・慢性化指数が全クラスに適用されることになった）に従うものであり、本ガイドラインで定義の詳細までは確認していない。定義を扱うカードが要る場合は ISN/RPS 改訂報告を別途出典にすること。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-336 (id: Jlvnl-k)'
+    kokushi: 医学各論 Ⅷ-1-D-②（全身性エリテマトーデス<SLE>、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-025
+  domain: GN
+  subdomain: ループス腎炎
+  assertion:
+    plain_statement_ja: 活動性の Class III または Class IV のループス腎炎（膜性成分の合併を含む）への初期治療として、KDIGO の2024年ガイドラインは、グルココルチコイドに次のいずれか1つを組み合わせることを推奨している（推奨10.2.3.1.1、強さ1・確実性B）。ミコフェノール酸誘導体、低用量の静注シクロホスファミド、ベリムマブとミコフェノール酸誘導体または低用量静注シクロホスファミドの併用、あるいは腎機能が著しく低下していない（eGFR 45 mL/min/1.73m² 以上）場合のミコフェノール酸誘導体とカルシニューリン阻害薬の併用である。あわせて、禁忌がない限りループス腎炎を含む SLE 患者全員にヒドロキシクロロキン（または同等の抗マラリア薬）を使うことが推奨されている（推奨10.2.1.1、1C）。
+    condition:
+      region: 国際
+      study: KDIGO 2024 ループス腎炎ガイドラインの推奨文
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-592
+    source: KDIGO Lupus Nephritis Work Group. KDIGO 2024 Clinical Practice Guideline for the management of LUPUS NEPHRITIS. Kidney Int. 2024;105(1S):S1-S69
+    doi: 10.1016/j.kint.2023.09.002
+    pmid: '38182286'
+    pmcid: null
+    url: https://doi.org/10.1016/j.kint.2023.09.002
+    source_license: CC BY-NC-ND 4.0（ガイドライン本文の著作権表示で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 推奨の強さとエビデンスの確実性はガイドライン本文の表記どおりに書いた。ここに挙げた薬剤（ミコフェノール酸誘導体、シクロホスファミド、ベリムマブ、カルシニューリン阻害薬、ヒドロキシクロロキン）のループス腎炎に対する国内の承認・保険適用の範囲は未確認であり、取り込み時に添付文書で確認が必要。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-336 (id: Jlvnl-k)'
+    kokushi: 医学各論 Ⅷ-1-D-②（全身性エリテマトーデス<SLE>、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-026
+  domain: GN
+  subdomain: ループス腎炎
+  assertion:
+    plain_statement_ja: 生検で確認された活動性ループス腎炎の成人448例を対象とした104週間の二重盲検試験（BLISS-LN、21か国107施設）では、標準治療（ミコフェノール酸誘導体、またはシクロホスファミドとアザチオプリンの逐次療法）にベリムマブ（10 mg/kg 静注）を上乗せした群で、主要腎反応（尿蛋白/クレアチニン比0.7以下、eGFR が再燃前の値から20%を超えて低下していないこと、救援療法なし）を達成した割合がプラセボ群より高かった（43% 対 32%、オッズ比1.6）。完全腎反応は30% 対 20%（オッズ比1.7）で、腎関連イベントまたは死亡のリスクはベリムマブ群で低かった（ハザード比0.51）。
+    condition:
+      region: 国際
+      study: 第3相多施設二重盲検ランダム化比較試験（BLISS-LN、448例、104週間）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-593
+    source: Furie R, et al. Two-Year, Randomized, Controlled Trial of Belimumab in Lupus Nephritis. N Engl J Med. 2020;383(12):1117-1128
+    doi: 10.1056/NEJMoa2001180
+    pmid: '32937045'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa2001180
+    source_license: 出版社の利用条件（NEJM。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ベリムマブの国内の承認・保険適用（全身性エリテマトーデスに対する適応の範囲と腎炎への扱い）は未確認であり、取り込み時に PMDA の添付文書で確認が必要。反応の定義は試験の主要評価項目の定義による。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-336 (id: Jlvnl-k)'
+    kokushi: 医学各論 Ⅷ-1-D-②（全身性エリテマトーデス<SLE>、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-027
+  domain: GN
+  subdomain: 顕微鏡的多発血管炎
+  assertion:
+    plain_statement_ja: 腎病変を伴う顕微鏡的多発血管炎の新規患者124例（末期腎不全の例を除く）を後方視的に調べた研究では、診断時の血清クレアチニン500 μmol/L 以上が腎生存の独立した悪化因子であり（ハザード比8.24）、免疫抑制治療は腎生存の保護因子だった（ハザード比0.35）。死亡については、65歳以上（ハザード比2.44）、血清クレアチニン500 μmol/L 以上（同2.21）、間質性肺疾患の合併（同2.37）が独立した予測因子だった。診断時のクレアチニン値は、末期腎不全への移行またはクレアチニン倍化の予測で ROC 曲線下面積0.870を示した。
+    condition:
+      region: 中国
+      study: 単一施設の後方視コホート研究（腎病変を伴う顕微鏡的多発血管炎124例、2012〜2017年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-594
+    source: 'Shi J, Shen Q, Chen XM, Du XG. Clinical characteristics and outcomes in microscopic polyangiitis patients with renal involvement: a study of 124 Chinese patients. BMC Nephrol. 2019;20:339'
+    doi: 10.1186/s12882-019-1535-3
+    pmid: '31477033'
+    pmcid: PMC6719371
+    url: https://doi.org/10.1186/s12882-019-1535-3
+    source_license: CC BY 4.0（Crossref の license 欄と誌面の Open Access 表示で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 中国の単一施設コホートの結果であり、日本の患者集団への外挿には注意が要る。免疫抑制治療の具体的なレジメン別の効果はこの研究では分けて示されていない。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-337 (id: Jlvnl-s)'
+    kokushi: 医学各論 Ⅷ-1-D-①（顕微鏡的多発血管炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-028
+  domain: GN
+  subdomain: ANCA関連血管炎
+  assertion:
+    plain_statement_ja: 重症の ANCA 関連血管炎患者197例を対象としたランダム化試験（RAVE）では、リツキシマブ（375 mg/m² を週1回、4週間投与）は、寛解導入の主要評価項目（6か月時点で病勢が寛解しプレドニゾンを中止できていること）について、連日のシクロホスファミド内服に対して非劣性だった（達成率64% 対 53%）。再発例に限るとリツキシマブ群の達成率が高かった（67% 対 42%）。主要な腎病変のある患者でもリツキシマブはシクロホスファミドと同等の効果を示し、有害事象の発生率に両群で有意な差はなかった。
+    condition:
+      region: 国際
+      study: 多施設ランダム化二重盲検非劣性試験（RAVE、197例、9施設）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-595
+    source: Stone JH, et al. Rituximab versus Cyclophosphamide for ANCA-Associated Vasculitis. N Engl J Med. 2010;363(3):221-232
+    doi: 10.1056/NEJMoa0909905
+    pmid: '20647199'
+    pmcid: PMC3137658
+    url: https://doi.org/10.1056/NEJMoa0909905
+    source_license: 出版社の利用条件（NEJM。Crossref に license 欄なし。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: リツキシマブとシクロホスファミドの国内の承認・保険適用（ANCA 関連血管炎に対する適応の範囲）は未確認であり、取り込み時に添付文書で確認が必要。対象には顕微鏡的多発血管炎と多発血管炎性肉芽腫症の両方が含まれ、腎病変に限った試験ではない。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-337 (id: Jlvnl-s)'
+    kokushi: 医学各論 Ⅷ-1-D-①（顕微鏡的多発血管炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-029
+  domain: GN
+  subdomain: 多発血管炎性肉芽腫症
+  assertion:
+    plain_statement_ja: 活動性の腎病変を伴う Wegener 肉芽腫症（現在の多発血管炎性肉芽腫症）患者94例の腎生検では、分節性壊死性糸球体腎炎が85.1%、管外増殖（半月体形成）が91.5%にみられた。生検時の血清クレアチニンは、半月体のある糸球体の割合と相関し（相関係数0.52）、正常な糸球体の割合とは負の相関を示した（同 -0.55）。多変量解析では、正常糸球体の割合だけが腎機能と末期腎不全への進行に関連した。血清クレアチニンが正常で尿蛋白が0.5 g/日未満だった7例でも、全例に半月体がみられ、6例に分節性の糸球体壊死があった。
+    condition:
+      region: ノルウェー
+      study: 腎生検を受けた94例の後方視研究（追跡期間の中央値42.5か月）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-596
+    source: Aasarød K, Bostad L, Hammerstrøm J, Jørstad S, Iversen BM. Renal histopathology and clinical course in 94 patients with Wegener's granulomatosis. Nephrol Dial Transplant. 2001;16(5):953-960
+    doi: 10.1093/ndt/16.5.953
+    pmid: '11328900'
+    pmcid: null
+    url: https://doi.org/10.1093/ndt/16.5.953
+    source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典のライセンスは未確認のため、取り込み時に出版社ページで確認が必要。2001年の報告で、疾患名は現在の多発血管炎性肉芽腫症に読み替えた。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-337 (id: Jlvnl-s)'
+    kokushi: 医学各論 Ⅷ-1-D-⑤（多発血管炎性肉芽腫症、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-030
+  domain: GN
+  subdomain: 抗糸球体基底膜病
+  assertion:
+    plain_statement_ja: 抗糸球体基底膜（抗GBM）病の連続221例を解析した研究では、発症1年後の患者生存率は72.7%、腎生存率は25.0%だった。血漿交換と副腎皮質ステロイド・シクロホスファミドの併用療法は、患者生存（死亡のハザード比0.31）と腎生存（腎不全のハザード比0.60）の両方で有利だった。発症時の血清クレアチニンは腎不全の独立した予測因子で、1.5 mg/dL を起点に値が倍増するごとにハザード比が2.07上がった。抗GBM抗体値の上昇と ANCA の陽性は、患者死亡の独立した予測因子だった。
+    condition:
+      region: 中国
+      study: 単一施設の後方視研究（抗GBM病221例、1998〜2008年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-597
+    source: 'Cui Z, Zhao J, Jia XY, et al. Anti-glomerular basement membrane disease: outcomes of different therapeutic regimens in a large single-center Chinese cohort study. Medicine (Baltimore). 2011;90(5):303-311'
+    doi: 10.1097/MD.0b013e31822f6f68
+    pmid: '21862934'
+    pmcid: null
+    url: https://doi.org/10.1097/MD.0b013e31822f6f68
+    source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典のライセンスは未確認のため、取り込み時に出版社ページで確認が必要。治療法の比較はランダム化されていない後方視の比較である。シクロホスファミドを含む治療薬の国内の承認・保険適用は未確認。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-335 (id: Jlvnl-w)'
+    kokushi: 医学各論 Ⅷ-1-A-②（急速進行性糸球体腎炎症候群、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-031
+  domain: GN
+  subdomain: IgA血管炎
+  assertion:
+    plain_statement_ja: Henoch-Schönlein 紫斑病（現在の IgA 血管炎）の小児1,133例を集めた系統的レビューでは、蛋白尿または血尿は34.2%に生じ、出現した時期は診断後4週以内が85%、6週以内が91%、6か月以内が97%だった。永続的な腎障害は、経過中に尿所見が正常だった例では生じず、孤立性の尿異常にとどまった例では1.6%、腎炎またはネフローゼ症候群を発症した例では19.5%にみられた。このため、発症時に尿所見が正常でも、少なくとも6か月間は尿検査を続けることが推奨される。
+    condition:
+      region: 国際
+      study: 小児1,133例・12研究の系統的レビュー（追跡期間6週〜36年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-598
+    source: 'Narchi H. Risk of long term renal impairment and duration of follow up recommended for Henoch-Schonlein purpura with normal or minimal urinary findings: a systematic review. Arch Dis Child. 2005;90(9):916-920'
+    doi: 10.1136/adc.2005.074641
+    pmid: '15871983'
+    pmcid: PMC1720564
+    url: https://doi.org/10.1136/adc.2005.074641
+    source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典のライセンスは未確認のため、取り込み時に出版社ページで確認が必要。対象は、診断時に腎炎・ネフローゼ症候群・腎不全を呈していなかった小児であり、成人や発症時に腎病変が強い例にはそのまま当てはまらない。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-333 (id: Jlvnl-Y)'
+    kokushi: 医学各論 Ⅷ-1-C-②（IgA血管炎、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-032
+  domain: GN
+  subdomain: アミロイド腎症
+  assertion:
+    plain_statement_ja: 免疫グロブリン軽鎖（AL）アミロイドーシスでは、腎臓は患者の約70%で侵される。新たに診断された AL アミロイドーシスの腎病変について、尿蛋白5 g/24時間超と eGFR 50 mL/min/1.73m² 未満が透析への進行を最もよく予測する指標だった。尿蛋白がこの閾値以下で eGFR が閾値以上の低リスク例では、3年時点の透析移行は検証集団を含め0〜4%だったのに対し、尿蛋白が多く eGFR が低い高リスク例では60〜85%だった。治療開始6か月時点で、尿蛋白が30%以上減るか0.5 g/24時間未満になり、かつ腎の進行（eGFR の25%以上の低下）がないことが、腎反応の基準とされた。
+    condition:
+      region: 欧州
+      study: イタリアとドイツの2施設の新規診断例（検証集団を含め計732例）による腎病期と反応基準の検証研究
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-599
+    source: Palladini G, et al. A staging system for renal outcome and early markers of renal response to chemotherapy in AL amyloidosis. Blood. 2014;124(15):2325-2332
+    doi: 10.1182/blood-2014-04-570010
+    pmid: '25115890'
+    pmcid: null
+    url: https://doi.org/10.1182/blood-2014-04-570010
+    source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 病期と反応の基準値は出典の解析結果から読み取った（表・基準の読み取りに相当）。対象は AL アミロイドーシスであり、AA アミロイドーシスには当てはまらない。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-334 (id: Jlvnl-g)'
+    kokushi: 医学各論 Ⅷ-1-C-③（アミロイド腎症、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-033
+  domain: GN
+  subdomain: 二次性膜性腎症
+  assertion:
+    plain_statement_ja: 膜性腎症240例のコホートでは、腎生検の時点またはその後1年以内に悪性腫瘍が見つかった患者が24例あり、一般集団と比べた悪性腫瘍の発生は男性で標準化発生比9.8、女性で12.3と有意に高かった。悪性腫瘍の頻度は年齢とともに上がり、喫煙者に多かった。悪性腫瘍を伴う膜性腎症では糸球体内に浸潤する炎症細胞が特発性より多く、1糸球体あたり8個をカットオフとすると、悪性腫瘍を伴う例を感度92%、特異度75%で区別できた。悪性腫瘍が寛解した例では蛋白尿の減少と強く関連していた。
+    condition:
+      region: 欧州
+      study: 膜性腎症240例のコホート研究（悪性腫瘍24例）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-600
+    source: 'Lefaucheur C, et al. Membranous nephropathy and cancer: Epidemiologic evidence and determinants of high-risk cancer association. Kidney Int. 2006;70(8):1510-1517'
+    doi: 10.1038/sj.ki.5001790
+    pmid: '16941021'
+    pmcid: null
+    url: https://doi.org/10.1038/sj.ki.5001790
+    source_license: Elsevier の利用条件（Crossref の license 欄。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: このカードは悪性腫瘍に伴う二次性膜性腎症についてのもので、薬剤や感染症に伴う二次性の頻度はこの出典では扱っていない。2006年のコホートであり、PLA2R 抗体が普及する前の集団である。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
+    kokushi: 医学各論 Ⅷ-1-C-④（二次性膜性腎症、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-034
+  domain: GN
+  subdomain: ループス腎炎
+  assertion:
+    plain_statement_ja: 全身性エリテマトーデスの患者で腎病変を調べるときは、血清クレアチニンと eGFR、尿検査（試験紙と尿沈渣）、尿蛋白クレアチニン比、抗 dsDNA 抗体と補体を、発症時と定期的な経過観察のたびに測定する。KDIGO の2024年ガイドラインの診断フローチャートでは、異常な蛋白尿や尿沈渣、または eGFR の低下があれば蛋白尿を定量し、24時間尿蛋白が500 mg/日以上であれば腎生検を検討する流れになっている。尿沈渣の異常としては、有棘赤血球が5%以上、赤血球円柱や白血球円柱が挙げられ、ほかに説明のつかない eGFR の低下も生検を考える契機になる。
+    condition:
+      region: 国際
+      study: KDIGO 2024 ループス腎炎ガイドラインの診断フローチャート（図1）とプラクティスポイント10.1.1
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-592
+    source: KDIGO Lupus Nephritis Work Group. KDIGO 2024 Clinical Practice Guideline for the management of LUPUS NEPHRITIS. Kidney Int. 2024;105(1S):S1-S69
+    doi: 10.1016/j.kint.2023.09.002
+    pmid: '38182286'
+    pmcid: null
+    url: https://doi.org/10.1016/j.kint.2023.09.002
+    source_license: CC BY-NC-ND 4.0（ガイドライン本文の著作権表示で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 生検を検討する尿蛋白の閾値はガイドラインのフローチャート（図）から読み取った（図から読み取り）。生検の実施は尿所見・腎機能・全身の活動性をあわせて判断するもので、閾値だけで決まるものではない。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-336 (id: Jlvnl-k)'
+    kokushi: 医学各論 Ⅷ-1-D-②（全身性エリテマトーデス<SLE>、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-035
+  domain: GN
+  subdomain: 関節リウマチの腎障害
+  assertion:
+    plain_statement_ja: 関節リウマチの患者に腎生検を行った156例（1990〜2019年）の解析では、腎病変の主なものは膜性腎症、腎硬化症、AA アミロイドーシス、IgA 腎症の4つだった。AA アミロイドーシスは21例にみられ、時期別では1990年代に7例、2000年代に10例、2010年代に4例で、2015年以降は新たな例がなかった。AA アミロイドーシスの21例はいずれも生物学的製剤やメトトレキサートによる治療を受けておらず、そのうち15例が透析を必要とし、13例が死亡した。生物学的製剤やメトトレキサートが使われるようになった時代には、ほかの腎病変も含めて透析への進行は減った。
+    condition:
+      region: 日本
+      study: 単一施設で腎生検を受けた関節リウマチ患者156例の後方視解析
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-601
+    source: 'Sawamura M, Sawa N, Yamanouchi M, Ikuma D, Sekine A, Mizuno H, et al. Use of biologic agents and methotrexate improves renal manifestation and outcome in patients with rheumatoid arthritis: a retrospective analysis. Clin Exp Nephrol. 2022;26(4):341-349'
+    doi: 10.1007/s10157-021-02160-2
+    pmid: '34846624'
+    pmcid: PMC8930889
+    url: https://doi.org/10.1007/s10157-021-02160-2
+    source_license: CC BY 4.0（Crossref の license 欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 腎生検を受けた患者に限った集計であり、関節リウマチ全体での腎障害の頻度を示すものではない。薬剤性の腎障害（鎮痛薬や抗リウマチ薬による間質性腎炎など）は、この生検集計では主要な病変としては扱われていない。メトトレキサートや生物学的製剤の国内の承認・保険適用は未確認。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
+    kokushi: 医学各論 Ⅷ-1-D-④（関節リウマチ、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-036
+  domain: GN
+  subdomain: Alport症候群
+  assertion:
+    plain_statement_ja: Alport 症候群は IV 型コラーゲンの異常による遺伝性の腎疾患で、専門家ガイドラインでは、遺伝学的検査が診断と遺伝形式の判定の標準的な方法とされる。X連鎖型では、罹患した男性の母親の多くも発症者であり、本人を同定して経過を追う必要があるとされる。罹患した母親は自分自身が腎不全になるリスクを持つため、腎移植の生体ドナーになることは勧められない。常染色体劣性型でも同様に、家族内での発症者の把握が重要になる。
+    condition:
+      region: 国際
+      study: Alport 症候群と菲薄基底膜腎症の専門家ガイドライン（推奨18項目、エビデンスは専門家意見と記述研究が中心）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-602
+    source: Savige J, Gregory M, Gross O, Kashtan C, Ding J, Flinter F. Expert guidelines for the management of Alport syndrome and thin basement membrane nephropathy. J Am Soc Nephrol. 2013;24(3):364-375
+    doi: 10.1681/ASN.2012020148
+    pmid: '23349312'
+    pmcid: null
+    url: https://doi.org/10.1681/ASN.2012020148
+    source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典のライセンスは未確認のため、取り込み時に出版社ページで確認が必要。このガイドラインの推奨は、ランダム化試験ではなく専門家意見と記述研究に基づく水準のものである。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
+    kokushi: 医学各論 Ⅷ-1-F-①（Alport症候群、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-037
+  domain: GN
+  subdomain: Alport症候群
+  assertion:
+    plain_statement_ja: Alport 症候群の専門家ガイドラインでは、X連鎖型の男性と常染色体劣性型の患者に対して、レニン・アンジオテンシン系の阻害による治療を行い、蛋白尿が現れる前から開始することもありうるとされている。これは、腎機能の悪化を早い段階から抑えることを狙った方針で、遺伝学的検査による診断と遺伝形式の確定が前提になる。罹患した母親を含む家族内の発症者でも、腎機能と尿所見の経過観察が続けられる。
+    condition:
+      region: 国際
+      study: Alport 症候群と菲薄基底膜腎症の専門家ガイドラインの治療推奨
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-602
+    source: Savige J, Gregory M, Gross O, Kashtan C, Ding J, Flinter F. Expert guidelines for the management of Alport syndrome and thin basement membrane nephropathy. J Am Soc Nephrol. 2013;24(3):364-375
+    doi: 10.1681/ASN.2012020148
+    pmid: '23349312'
+    pmcid: null
+    url: https://doi.org/10.1681/ASN.2012020148
+    source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 本カードは早期の RAS 阻害についての専門家ガイドラインの推奨を記したもので、早期介入を検証した個別のランダム化試験（小児を対象に ACE 阻害薬を調べた試験など）の数値はこの出典には含まれていない。試験の数値を扱う場合はその試験を別途出典として確認が必要。RAS 阻害薬の Alport 症候群に対する国内の承認・保険適用は未確認。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
+    kokushi: 医学各論 Ⅷ-1-F-①（Alport症候群、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-038
+  domain: GN
+  subdomain: 基底膜菲薄化症候群
+  assertion:
+    plain_statement_ja: 基底膜菲薄化症候群（菲薄基底膜腎症）は、糸球体基底膜が薄くなることによる持続性の血尿をみる病態で、専門家ガイドラインでは、症例によっては X連鎖型 Alport 症候群を除外するために遺伝学的検査を検討するとされている。これは、菲薄基底膜腎症とされる人の中に、Alport 症候群の原因遺伝子の異常を持つ人が含まれうるためで、家族歴や経過によっては Alport 症候群として家族内発症者の把握と経過観察が必要になる。
+    condition:
+      region: 国際
+      study: Alport 症候群と菲薄基底膜腎症の専門家ガイドラインの診断推奨
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-602
+    source: Savige J, Gregory M, Gross O, Kashtan C, Ding J, Flinter F. Expert guidelines for the management of Alport syndrome and thin basement membrane nephropathy. J Am Soc Nephrol. 2013;24(3):364-375
+    doi: 10.1681/ASN.2012020148
+    pmid: '23349312'
+    pmcid: null
+    url: https://doi.org/10.1681/ASN.2012020148
+    source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典のライセンスは未確認のため、取り込み時に出版社ページで確認が必要。菲薄基底膜腎症そのものの長期予後の数値はこの出典（ガイドライン抄録）では確認していない。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
+    kokushi: 医学各論 Ⅷ-1-F-②（基底膜菲薄化症候群<良性家族性血尿>、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-039
+  domain: GN
+  subdomain: Fabry病
+  assertion:
+    plain_statement_ja: 酵素補充療法を受けていない成人 Fabry 病患者462例（男性121例、女性341例）の登録データでは、腎機能の急速な低下（eGFR が年1 mL/min/1.73m² を超える速さで下がること）は男性の71%（121例中86例）にみられたが、女性では39%だった。尿蛋白/クレアチニン比が高い患者ほど低下は速く、比が1.5を超える男性では eGFR が平均で年5.6 mL/min/1.73m² 下がった。回帰モデルでも、尿蛋白/クレアチニン比が腎疾患進行の最も重要な指標であり、女性では診断時の eGFR の低さと年齢も進行に関連した。
+    condition:
+      region: 国際
+      study: Fabry Registry に登録された未治療成人462例の自然経過データ（eGFR を12か月以上にわたり2回以上測定）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-603
+    source: 'Wanner C, Oliveira JP, Ortiz A, Mauer M, Germain DP, Linthorst GE, et al. Prognostic indicators of renal disease progression in adults with Fabry disease: natural history data from the Fabry Registry. Clin J Am Soc Nephrol. 2010;5(12):2220-2228'
+    doi: 10.2215/CJN.04340510
+    pmid: '20813854'
+    pmcid: PMC2994083
+    url: https://doi.org/10.2215/CJN.04340510
+    source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典のライセンスは未確認のため、取り込み時に出版社ページで確認が必要。登録研究の未治療例の解析であり、酵素補充療法が普及した現在の患者集団とは背景が異なる可能性がある。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
+    kokushi: 医学各論 Ⅷ-1-F-③（Fabry病、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-040
+  domain: GN
+  subdomain: Fabry病
+  assertion:
+    plain_statement_ja: 酵素補充療法を受けていた成人 Fabry 病患者57例を対象とした18か月のランダム化試験（ATTRACT）では、ミガーラスタットに反応する（amenableな）GLA 変異を持つ患者で、経口の薬理学的シャペロン薬ミガーラスタットへの切り替えは、酵素補充療法の継続と比べて腎機能への影響が同等だった。あらかじめ定めた腎・心・脳血管イベントの発生は、ミガーラスタット群で29%、酵素補充療法群で44%だった。左室心筋重量係数はミガーラスタット群で有意に低下し（-6.6 g/m²）、血漿グロボトリアオシルスフィンゴシンは切り替え後も低く安定していた。
+    condition:
+      region: 国際
+      study: 第3相ランダム化実薬対照試験（ATTRACT、57例、18か月、酵素補充療法からの切り替え）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-604
+    source: 'Hughes DA, et al. Oral pharmacological chaperone migalastat compared with enzyme replacement therapy in Fabry disease: 18-month results from the randomised phase III ATTRACT study. J Med Genet. 2017;54(4):288-296'
+    doi: 10.1136/jmedgenet-2016-104178
+    pmid: '27834756'
+    pmcid: PMC5502308
+    url: https://doi.org/10.1136/jmedgenet-2016-104178
+    source_license: CC BY-NC 4.0（PMC ページの表示で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ミガーラスタットが使えるのは反応性のある GLA 変異を持つ患者に限られ、試験では変異の反応性を細胞アッセイで判定した。ミガーラスタットと酵素補充療法（アガルシダーゼ製剤）の国内の承認・保険適用の範囲は未確認であり、取り込み時に添付文書で確認が必要。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
+    kokushi: 医学各論 Ⅷ-1-F-③（Fabry病、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
