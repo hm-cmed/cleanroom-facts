@@ -1,0 +1,1367 @@
+- id: GU-001
+  domain: GU
+  subdomain: 腎細胞癌
+  assertion:
+    plain_statement_ja: 腎細胞癌は腎臓に発生する癌の90%を超え、10を超える組織・分子サブタイプがあり、最多の淡明細胞型が腎細胞癌による死亡の大部分を占める。限局した腎細胞癌は手術で治療し得る一方、転移した腎細胞癌は従来の化学療法に抵抗性であり、分子標的薬や免疫チェックポイント阻害薬が治療の柱となる。
+    condition:
+      region: 国際
+      study: 疾患プライマー総説（Nature Reviews Disease Primers、2017年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-721
+    source: Hsieh JJ, Purdue MP, Signoretti S, et al. Renal cell carcinoma. Nat Rev Dis Primers. 2017;3:17009
+    doi: 10.1038/nrdp.2017.9
+    pmid: '28276433'
+    pmcid: PMC5936048
+    url: https://doi.org/10.1038/nrdp.2017.9
+    source_license: 出版社（Springer Nature）の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 病期分類（TNM）の具体的な区分や腫瘍径の閾値、腎部分切除と全摘除の選択基準は抄録では確認できないため本カードには含めていない。分子標的薬・免疫チェックポイント阻害薬の国内の承認・保険適用の個別確認はしていない。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-656 (id: JlvnmdY)'
+    kokushi: 医学各論 Ⅷ-6-A-①（腎細胞癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-002
+  domain: GU
+  subdomain: 転移性腎細胞癌
+  assertion:
+    plain_statement_ja: 未治療の進行腎細胞癌でIMDC分類の中リスク・高リスクの患者を対象とした第III相試験では、ニボルマブとイピリムマブの併用はスニチニブ単独に比べ、18か月時点の全生存割合が75%対60%、死亡のハザード比0.63、奏効率42%対27%、完全奏効率9%対1%であった。グレード3〜4の治療関連有害事象は併用群46%対単独群63%であった。
+    condition:
+      region: 国際
+      study: 第III相ランダム化比較試験（CheckMate 214、1096例登録、中・高リスク集団での主要評価）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-722
+    source: Motzer RJ, Tannir NM, McDermott DF, et al. Nivolumab plus Ipilimumab versus Sunitinib in Advanced Renal-Cell Carcinoma. N Engl J Med. 2018;378(14):1277-1290
+    doi: 10.1056/NEJMoa1712126
+    pmid: '29562145'
+    pmcid: PMC5972549
+    url: https://doi.org/10.1056/NEJMoa1712126
+    source_license: 出版社（NEJM）の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 追跡期間中央値25.2か月時点の結果である。ニボルマブ、イピリムマブ、スニチニブの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-656 (id: JlvnmdY)'
+    kokushi: 医学各論 Ⅷ-6-A-①（腎細胞癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-003
+  domain: GU
+  subdomain: 腎細胞癌
+  assertion:
+    plain_statement_ja: 腎細胞癌は腎に発生する癌の90%超を占め、淡明細胞型が最多の組織型で腎細胞癌による死亡の大部分を占める。淡明細胞型ではVHL遺伝子の変異が高頻度にみられ、エピジェネティックな制御に関わる遺伝子の変化も同定されており、これらの遺伝子変化が発症に関与する。
+    condition:
+      region: 国際
+      study: 疾患プライマー総説（Nature Reviews Disease Primers、2017年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-721
+    source: Hsieh JJ, Purdue MP, Signoretti S, et al. Renal cell carcinoma. Nat Rev Dis Primers. 2017;3:17009
+    doi: 10.1038/nrdp.2017.9
+    pmid: '28276433'
+    pmcid: PMC5936048
+    url: https://doi.org/10.1038/nrdp.2017.9
+    source_license: 出版社（Springer Nature）の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 喫煙・肥満・高血圧などの環境要因の寄与の定量や、遺伝性腎細胞癌の頻度の数値は抄録では確認できないため本カードには数値を含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-656 (id: JlvnmdY)'
+    kokushi: 医学各論 Ⅷ-6-A-①（腎細胞癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-004
+  domain: GU
+  subdomain: 腎盂・尿管癌
+  assertion:
+    plain_statement_ja: 上部尿路尿路上皮癌は診断時に約60%が浸潤性であり、組織型と画像検査を含む臨床評価によるリスク層別化と、リンチ症候群のリスク評価が管理の指針となる。低リスクの腫瘍では、対側の腎が健常でも腎温存治療を第一の選択肢として提示する。高リスクの腫瘍では根治的腎尿管全摘が基本となり、術後のプラチナ製剤による化学療法が選択肢となり、化学療法を受けられない、または希望しない患者では術後ニボルマブも選択肢となる。
+    condition:
+      region: 欧州
+      study: EAUガイドライン（上部尿路尿路上皮癌、2023年改訂版）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-723
+    source: 'Rouprêt M, Seisen T, Birtle AJ, et al. European Association of Urology Guidelines on Upper Urinary Tract Urothelial Carcinoma: 2023 Update. Eur Urol. 2023;84(1):49-64'
+    doi: 10.1016/j.eururo.2023.03.013
+    pmid: '36967359'
+    pmcid: null
+    url: https://doi.org/10.1016/j.eururo.2023.03.013
+    source_license: 欧州泌尿器科学会（EAU）のガイドライン、Elsevier 掲載（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 欧州のガイドラインの推奨文に基づく記述である。リスク分類の具体的な判定項目と数値閾値はガイドライン本文の表から読み取る必要があるため本カードには含めていない。プラチナ製剤とニボルマブの国内の承認・保険適用は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-657 (id: Jlvnmdg)'
+    kokushi: 医学各論 Ⅷ-6-A-②（腎盂・尿管癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-005
+  domain: GU
+  subdomain: 腎盂・尿管癌
+  assertion:
+    plain_statement_ja: 腎尿管全摘後の病理学的病期pT2〜T4またはリンパ節転移陽性の上部尿路尿路上皮癌261例を対象とした第III相試験では、術後90日以内に開始したゲムシタビンとプラチナ製剤（シスプラチン、腎機能が低い場合はカルボプラチン）の併用4サイクルは、経過観察に比べ3年無病生存割合が71%対46%、無病生存のハザード比0.45と良好であった。
+    condition:
+      region: 英国
+      study: 第III相ランダム化比較試験（POUT試験、英国71施設）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-724
+    source: 'Birtle A, Johnson M, Chester J, et al. Adjuvant chemotherapy in upper tract urothelial carcinoma (the POUT trial): a phase 3, open-label, randomised controlled trial. Lancet. 2020;395(10232):1268-1277'
+    doi: 10.1016/S0140-6736(20)30415-3
+    pmid: '32145825'
+    pmcid: PMC7181180
+    url: https://doi.org/10.1016/S0140-6736(20)30415-3
+    source_license: 出版社（Elsevier）の著作物。PMC に著者原稿があるが CC ライセンスの表示は確認できない
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 術後補助化学療法の成績であり、術前化学療法の成績ではない。ゲムシタビン、シスプラチン、カルボプラチンの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-657 (id: Jlvnmdg)'
+    kokushi: 医学各論 Ⅷ-6-A-②（腎盂・尿管癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-006
+  domain: GU
+  subdomain: 膀胱癌
+  assertion:
+    plain_statement_ja: 中リスク・高リスクのTa・T1乳頭状膀胱癌に対するBCG膀胱内注入の維持療法を検討したEORTCのランダム化試験（1355例、追跡中央値7.1年）では、1/3用量への減量と1年間の維持はいずれも非劣性を示すことができず、1/3用量・1年維持の組み合わせは通常用量・3年維持より再発予防効果が劣っていた。高リスク患者では、通常用量での3年維持が1年維持より再発を減らした。
+    condition:
+      region: 欧州
+      study: ランダム化比較試験（EORTC-GU cancers group、用量と維持期間の2×2要因デザイン）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-725
+    source: 'Oddens J, Brausi M, Sylvester R, et al. Final results of an EORTC-GU Cancers Group randomized study of maintenance BCG in intermediate- and high-risk Ta, T1 papillary carcinoma of the urinary bladder: one-third dose versus full dose and 1 year versus 3 years of maintenance. Eur Urol. 2013;63(3):462-472'
+    doi: 10.1016/j.eururo.2012.10.039
+    pmid: '23141049'
+    pmcid: null
+    url: https://doi.org/10.1016/j.eururo.2012.10.039
+    source_license: 出版社（Elsevier）の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: BCG製剤の国内の承認・保険適用（使用される菌株・製剤の違いを含む）は未確認であり、取り込み側で確認が必要である。進展や生存についてはこの試験では群間差が示されなかった。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-657 (id: Jlvnmdg)'
+    kokushi: 医学各論 Ⅷ-6-B-①（膀胱癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-007
+  domain: GU
+  subdomain: 膀胱癌
+  assertion:
+    plain_statement_ja: 局所進行膀胱癌（T2〜T4a、転移なし）307例を対象としたランダム化試験では、根治的膀胱全摘の前にMVAC療法（メトトレキサート、ビンブラスチン、ドキソルビシン、シスプラチン）を3サイクル行った群は全摘単独群に比べ、生存期間中央値が77か月対46か月、全摘標本で残存癌を認めない割合が38%対15%であった。
+    condition:
+      region: 米国
+      study: ランダム化比較試験（SWOG 8710）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-726
+    source: Grossman HB, Natale RB, Tangen CM, et al. Neoadjuvant chemotherapy plus cystectomy compared with cystectomy alone for locally advanced bladder cancer. N Engl J Med. 2003;349(9):859-866
+    doi: 10.1056/NEJMoa022148
+    pmid: '12944571'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa022148
+    source_license: 出版社（NEJM）の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: MVAC療法の各薬剤の国内の承認・保険適用は未確認である。ゲムシタビンとシスプラチンの併用など現在のレジメンとの直接比較は本試験の範囲外である。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-657 (id: Jlvnmdg)'
+    kokushi: 医学各論 Ⅷ-6-B-①（膀胱癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-008
+  domain: GU
+  subdomain: 膀胱癌
+  assertion:
+    plain_statement_ja: 膀胱癌の新規症例はGLOBOCANの推計で2012年に世界で約43万件、死亡は約16.5万件とされる。危険因子の中で寄与リスクが最も大きいのは喫煙と職業性の発癌物質への曝露であり、一部の集団では喫煙の減少に伴い罹患率が下がっている。
+    condition:
+      region: 国際
+      study: 系統的レビュー（全文279編を対象、2018年時点の更新）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-727
+    source: 'Cumberbatch MGK, Jubber I, Black PC, et al. Epidemiology of Bladder Cancer: A Systematic Review and Contemporary Update of Risk Factors in 2018. Eur Urol. 2018;74(6):784-795'
+    doi: 10.1016/j.eururo.2018.09.001
+    pmid: '30268659'
+    pmcid: null
+    url: https://doi.org/10.1016/j.eururo.2018.09.001
+    source_license: 出版社（Elsevier）の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 2012年のGLOBOCAN推計に基づく数値であり、その後の推計とは異なる可能性がある。膀胱鏡や尿細胞診などの診断手順の詳細はこの出典の対象外であり、本カードには含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-657 (id: Jlvnmdg)'
+    kokushi: 医学各論 Ⅷ-6-B-①（膀胱癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-009
+  domain: GU
+  subdomain: 尿膜管癌
+  assertion:
+    plain_statement_ja: 尿膜管癌は尿膜管の遺残から発生する稀な悪性腫瘍で、50〜60歳代に多く、組織型は通常の膀胱癌と異なり腸型に似た腺癌が多数を占める。膀胱頂部に発生し、血尿や粘液尿を症状とし、発症時に約3分の1は切除不能である。治療は外科的切除が中心で、根治を目指す場合は尿膜管靱帯、膀胱頂部、臍の一括切除とR0切除が重要とされる。
+    condition:
+      region: 欧州
+      study: 総説（オランダの専門施設によるレビュー）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-728
+    source: 'Behrendt MA, de Jong J, van Rhijn BWG. Urachal cancer: contemporary review of the pathological, surgical, and prognostic aspects of this rare disease. Minerva Urol Nefrol. 2016;68(2):172-184'
+    doi: null
+    pmid: '26583595'
+    pmcid: null
+    url: null
+    source_license: 確認できず（CC の表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 稀少疾患でありランダム化試験のエビデンスはなく、記述は症例集積と総説に基づく。この出典にはDOIが付与されておらず（2016年の当該誌掲載論文のため）、doiはnullとした。ライセンス表示も確認できていない。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
+    kokushi: 医学各論 Ⅷ-6-B-②（尿膜管癌、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-010
+  domain: GU
+  subdomain: 前立腺肥大症
+  assertion:
+    plain_statement_ja: 前立腺肥大症の男性3047例を平均4.5年追跡したMTOPS試験では、ドキサゾシンとフィナステリドの併用はプラセボに比べ臨床的進行のリスクを66%低下させ、各薬剤の単独療法より有意に大きく進行を抑えた。急性尿閉と侵襲的治療の必要性は、フィナステリドを含む治療（併用療法とフィナステリド単独）で低下し、ドキサゾシン単独では低下しなかった。
+    condition:
+      region: 米国
+      study: ランダム化比較試験（MTOPS、平均追跡4.5年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-729
+    source: McConnell JD, Roehrborn CG, Bautista OM, et al.; MTOPS Research Group. The long-term effect of doxazosin, finasteride, and combination therapy on the clinical progression of benign prostatic hyperplasia. N Engl J Med. 2003;349(25):2387-2398
+    doi: 10.1056/NEJMoa030656
+    pmid: '14681504'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa030656
+    source_license: 出版社（NEJM）の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ドキサゾシンとフィナステリドの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。日本で一般的なα遮断薬（タムスロシンなど）との比較は本試験の範囲外である。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-347 (id: Jlvnl_0)'
+    kokushi: 医学各論 Ⅷ-6-C-①（前立腺肥大症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-011
+  domain: GU
+  subdomain: 前立腺肥大症
+  assertion:
+    plain_statement_ja: 前立腺肥大症に対するホルミウムレーザー前立腺核出術（HoLEP）と経尿道的前立腺切除術（TURP）を比較した8件のランダム化試験・855例のメタ解析では、HoLEPは手術時間が約14分長い一方、輸血のリスクが低く（相対リスク0.17）、カテーテル留置期間が約20時間、入院期間が約25時間短かった。最大尿流率は術後3か月と12か月でHoLEPが良好であった。
+    condition:
+      region: 国際
+      study: 系統的レビュー・メタ解析（ランダム化試験8件、855例）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-730
+    source: 'Li S, Zeng XT, Ruan XL, et al. Holmium laser enucleation versus transurethral resection in patients with benign prostate hyperplasia: an updated systematic review with meta-analysis and trial sequential analysis. PLoS One. 2014;9(7):e101615'
+    doi: 10.1371/journal.pone.0101615
+    pmid: '25003963'
+    pmcid: PMC4086899
+    url: https://doi.org/10.1371/journal.pone.0101615
+    source_license: CC BY（オープンアクセス）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 効果量の数値はメタ解析本文の集計値から読み取ったものである（表から読み取り）。対象は2014年までのランダム化試験であり、その後の術式の改良は反映されていない。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-347 (id: Jlvnl_0)'
+    kokushi: 医学各論 Ⅷ-6-C-①（前立腺肥大症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-012
+  domain: GU
+  subdomain: 前立腺癌
+  assertion:
+    plain_statement_ja: 日本では泌尿器科の専門学会の検診ガイドラインが、精密検査を勧めるPSAのカットオフ値を4.0 ng/mL、年齢別では50〜64歳3.0、65〜69歳3.5、70歳以上4.0 ng/mLと提示し、初回PSA値に応じた検診間隔（1.1 ng/mL以上では毎年、1.0 ng/mL以下では3年ごと）を提案している。一方、公的ながん検診のガイドラインは対策型検診としてのPSA検診を推奨しておらず、日本国内でも立場が分かれているため、受診は利益と不利益を説明したうえでの個人の判断に基づくものとされる。
+    condition:
+      region: 日本
+      study: 総説（日本のPSA検診の歴史・エビデンス・論点の検討、2019年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-731
+    source: 'Ito K, Oki R, Sekine Y, et al. Screening for prostate cancer: History, evidence, controversies and future perspectives toward individualized screening. Int J Urol. 2019;26(10):956-970'
+    doi: 10.1111/iju.14039
+    pmid: '31183923'
+    pmcid: null
+    url: https://doi.org/10.1111/iju.14039
+    source_license: 出版社（Wiley）の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: カットオフ値と検診間隔は、総説本文に記載された学会ガイドラインの内容を読み取ったものである（本文から読み取り）。学会ガイドラインと公的ガイドラインで推奨が異なる点に注意が必要である。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-658 (id: Jlvnmdk)'
+    kokushi: 医学各論 Ⅷ-6-C-②（前立腺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-013
+  domain: GU
+  subdomain: 前立腺癌
+  assertion:
+    plain_statement_ja: 米国の予防医療専門委員会は、55〜69歳の男性ではPSA検診を受けるかどうかは利益と不利益を説明したうえで個人が判断すべきとし（C推奨）、70歳以上の男性にはPSA検診を行わないよう勧告している（D推奨）。検診により1000人あたり約1.3人の前立腺癌死亡と約3人の転移症例を防げる可能性がある一方、偽陽性による追加検査、過剰診断・過剰治療、治療に伴う尿失禁や勃起障害などの不利益がある。
+    condition:
+      region: 米国
+      study: 米国予防医療専門委員会（USPSTF）勧告声明（2018年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-732
+    source: 'US Preventive Services Task Force; Grossman DC, et al. Screening for Prostate Cancer: US Preventive Services Task Force Recommendation Statement. JAMA. 2018;319(18):1901-1913'
+    doi: 10.1001/jama.2018.3710
+    pmid: '29801017'
+    pmcid: null
+    url: https://doi.org/10.1001/jama.2018.3710
+    source_license: 米国政府機関（USPSTF）の勧告声明（JAMA 掲載）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 2018年の勧告であり、その後の改訂で内容が変わる可能性がある。欧州の学会ガイドラインの立場（リスクに応じた検診の提案）は本カードの出典の範囲外であり、別途確認が必要である。利益の数値は約13年の追跡に基づく推計である。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-658 (id: Jlvnmdk)'
+    kokushi: 医学各論 Ⅷ-6-C-②（前立腺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-014
+  domain: GU
+  subdomain: 前立腺癌
+  assertion:
+    plain_statement_ja: 限局性前立腺癌は、PSA検査や直腸指診の異常を契機に前立腺生検で診断される。再発リスクが低〜中程度の限局性疾患では、早期に発見・治療されれば予後は良好で10年全生存割合は99%とされる。限局性疾患の治療の選択肢には監視療法、前立腺全摘除術、放射線治療があり、再発した場合は救済治療やアンドロゲン除去療法が用いられる。
+    condition:
+      region: 国際
+      study: 疾患プライマー総説（Nature Reviews Disease Primers、2021年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-733
+    source: Rebello RJ, Oing C, Knudsen KE, et al. Prostate cancer. Nat Rev Dis Primers. 2021;7(1):9
+    doi: 10.1038/s41572-020-00243-0
+    pmid: '33542230'
+    pmcid: null
+    url: https://doi.org/10.1038/s41572-020-00243-0
+    source_license: 出版社（Springer Nature）の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: リスク分類の具体的な境界値（PSA値、グリソンスコア、病期による層別）は原著の表から読み取る必要があるため、本カードには分類の数値を含めていない（表から読み取りが必要）。10年全生存割合99%は低〜中リスクの限局性疾患が早期に発見・治療された場合の記載である。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-658 (id: Jlvnmdk)'
+    kokushi: 医学各論 Ⅷ-6-C-②（前立腺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-015
+  domain: GU
+  subdomain: 前立腺癌
+  assertion:
+    plain_statement_ja: 新規に診断された高リスクの転移性去勢感受性前立腺癌1199例を対象としたLATITUDE試験では、アンドロゲン除去療法にアビラテロンとプレドニゾンを併用すると、全生存期間中央値は未到達対34.7か月（死亡のハザード比0.62）、画像的無増悪生存期間中央値は33.0か月対14.8か月（ハザード比0.47）であった。グレード3の高血圧と低カリウム血症は併用群で多かった。
+    condition:
+      region: 国際
+      study: 第III相ランダム化比較試験（LATITUDE、追跡期間中央値30.4か月）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-734
+    source: Fizazi K, Tran N, Fein L, et al.; LATITUDE Investigators. Abiraterone plus Prednisone in Metastatic, Castration-Sensitive Prostate Cancer. N Engl J Med. 2017;377(4):352-360
+    doi: 10.1056/NEJMoa1704174
+    pmid: '28578607'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1704174
+    source_license: 出版社（NEJM）の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: アビラテロンとプレドニゾンの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。対象は新規診断の高リスク転移性去勢感受性前立腺癌に限られる。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-658 (id: Jlvnmdk)'
+    kokushi: 医学各論 Ⅷ-6-C-②（前立腺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-016
+  domain: GU
+  subdomain: 前立腺癌
+  assertion:
+    plain_statement_ja: 化学療法歴のない転移性去勢抵抗性前立腺癌1717例を対象としたPREVAIL試験では、エンザルタミドはプラセボに比べ、12か月時点の画像的無増悪生存割合が65%対14%（ハザード比0.19）、死亡のハザード比0.71であり、化学療法の開始までの期間も延長した。
+    condition:
+      region: 国際
+      study: 第III相ランダム化比較試験（PREVAIL）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-735
+    source: Beer TM, Armstrong AJ, Rathkopf DE, et al.; PREVAIL Investigators. Enzalutamide in Metastatic Prostate Cancer before Chemotherapy. N Engl J Med. 2014;371(5):424-433
+    doi: 10.1056/NEJMoa1405095
+    pmid: '24881730'
+    pmcid: PMC4418931
+    url: https://doi.org/10.1056/NEJMoa1405095
+    source_license: 出版社（NEJM）の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: エンザルタミドの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。数値は中間解析（データカットオフ時点）を含む結果である。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-658 (id: Jlvnmdk)'
+    kokushi: 医学各論 Ⅷ-6-C-②（前立腺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-017
+  domain: GU
+  subdomain: 前立腺癌
+  assertion:
+    plain_statement_ja: 前立腺癌は世界で多くの男性が罹患し、人間開発指数の高い地域に多い。分子レベルではTMPRSS2とETSファミリー遺伝子の融合遺伝子、MYCの増幅、PTENやTP53の欠失・変異が知られ、進行した病態ではアンドロゲン受容体遺伝子の増幅・変異がみられる。診断はPSA検査や直腸指診を契機に行われる前立腺生検による。
+    condition:
+      region: 国際
+      study: 疾患プライマー総説（Nature Reviews Disease Primers、2021年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-733
+    source: Rebello RJ, Oing C, Knudsen KE, et al. Prostate cancer. Nat Rev Dis Primers. 2021;7(1):9
+    doi: 10.1038/s41572-020-00243-0
+    pmid: '33542230'
+    pmcid: null
+    url: https://doi.org/10.1038/s41572-020-00243-0
+    source_license: 出版社（Springer Nature）の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 世界の罹患数・死亡数の具体的な推計値は抄録では確認できないため、本カードには数値を含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-658 (id: Jlvnmdk)'
+    kokushi: 医学各論 Ⅷ-6-C-②（前立腺癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-018
+  domain: GU
+  subdomain: 膀胱癌
+  assertion:
+    plain_statement_ja: 根治的手術後の再発高リスクの筋層浸潤尿路上皮癌709例を対象としたCheckMate 274試験では、術後のニボルマブ（240 mgを2週ごと、最長1年）はプラセボに比べ、無病生存期間中央値が20.8か月対10.8か月、6か月時点で再発なく生存している割合が74.9%対60.3%（ハザード比0.70）であった。腫瘍のPD-L1発現が1%以上の集団ではハザード比0.55であった。グレード3以上の治療関連有害事象は17.9%対7.2%であった。
+    condition:
+      region: 国際
+      study: 第III相ランダム化比較試験（CheckMate 274、膀胱・尿管・腎盂原発を含む）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-736
+    source: Bajorin DF, Witjes JA, Gschwend JE, et al. Adjuvant Nivolumab versus Placebo in Muscle-Invasive Urothelial Carcinoma. N Engl J Med. 2021;384(22):2102-2114
+    doi: 10.1056/NEJMoa2034442
+    pmid: '34077643'
+    pmcid: PMC8215888
+    url: https://doi.org/10.1056/NEJMoa2034442
+    source_license: 出版社（NEJM）の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 上部尿路原発は登録全体の約2割に制限された試験であり、上部尿路原発のみでの効果量は限定的である。ニボルマブの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。
+  curriculum:
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-657 (id: Jlvnmdg)'
+    kokushi: 医学各論 Ⅷ-6-B-①（膀胱癌、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-019
+  domain: GU
+  subdomain: セミノーマの治療
+  assertion:
+    plain_statement_ja: 精巣セミノーマの治療は病期によって決まる。臨床病期I期では治癒率はほぼ100%で、精巣摘除後の選択肢は経過観察、補助放射線療法、カルボプラチン単剤1コースである。病期I期では約20%に潜在的なリンパ節転移があり、再発の危険因子は原発腫瘍径4 cm超と精巣網への浸潤で、危険因子が0個・1個・2個の場合の5年再発率はそれぞれ12%・16%・32%である。低容量（3 cm未満）の病期II期には放射線療法が、より大きな病期II期と病期III期には化学療法が用いられる。
+    condition:
+      region: 米国
+      study: 精巣胚細胞癌の管理に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-737
+    source: 'Beck SD. Optimal management of testicular cancer: from self-examination to treatment of advanced disease. Open Access J Urol. 2010;2:143-154'
+    doi: null
+    pmid: '24198622'
+    pmcid: PMC3818885
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3818885/
+    source_license: 非営利利用のみ許可（出版社表示。CC BY-NC 相当）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 2010年の総説に基づいており、現在のガイドラインの推奨とは異なる可能性がある。カルボプラチンを含む化学療法薬の国内承認・保険適用の状況は未確認である。出典論文の DOI は PMC・出版社 PDF・大学リポジトリのいずれでも表示を確認できず null とした。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-659 (id: Jlvnmds)'
+    kokushi: 医学各論 Ⅷ-6-C-③（精巣癌(セミノーマ)、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-020
+  domain: GU
+  subdomain: 非セミノーマ性胚細胞腫瘍の治療
+  assertion:
+    plain_statement_ja: 非セミノーマ性胚細胞腫瘍（NSGCT）の病期I期の治癒率はほぼ100%で、精巣摘除後の選択肢は経過観察、後腹膜リンパ節郭清（RPLND）、補助化学療法である。腫瘍マーカーが正常な低容量（5 cm未満）の病期II期は、RPLND か化学療法で管理できる。転移性疾患では予後分類により、予後良好群には BEP 療法（ブレオマイシン、エトポシド、シスプラチン）3コース、予後中間・不良群には4コースが標準とされ、化学療法後に残存する腫瘤は50〜60%に奇形腫または活動性癌を含むため切除が推奨される。再発の多くは治療後2年以内に起こり、2年を超えた再発は晩期再発と呼ばれる。
+    condition:
+      region: 米国
+      study: 精巣胚細胞癌の管理に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-737
+    source: 'Beck SD. Optimal management of testicular cancer: from self-examination to treatment of advanced disease. Open Access J Urol. 2010;2:143-154'
+    doi: null
+    pmid: '24198622'
+    pmcid: PMC3818885
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3818885/
+    source_license: 非営利利用のみ許可（出版社表示。CC BY-NC 相当）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 2010年の総説に基づいており、現在のガイドラインの推奨とは異なる可能性がある。BEP 療法を構成する薬剤（ブレオマイシン、エトポシド、シスプラチン）の国内承認・保険適用の状況は未確認である。出典論文の DOI は確認できず null とした（SRC-737 の出典表を参照）。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-659 (id: Jlvnmds)'
+    kokushi: 医学各論 Ⅷ-6-C-④（精巣癌(非セミノーマ)、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-021
+  domain: GU
+  subdomain: 精巣腫瘍の腫瘍マーカーと病期分類
+  assertion:
+    plain_statement_ja: 精巣腫瘍では精巣摘除の前後で血清腫瘍マーカー（AFP、β-hCG、LDH）を測定する。AFP は胎児性癌、奇形腫、卵黄嚢腫瘍が分泌するが、純粋なセミノーマと純粋な絨毛癌では分泌されないため、AFP が上昇した純粋なセミノーマは非セミノーマとして分類する。β-hCG は絨毛癌では全例、胎児性癌では40〜60%、純粋なセミノーマでは約10%（通常は500 U/L未満）で上昇する。NSGCT では AFP が50〜70%、β-hCG が40〜60%で上昇し、どちらか一方は最大90%で上昇する。マーカーの半減期は AFP が7日未満、β-hCG が3日未満である。病期分類は TNM に S 分類を加え、S1 は LDH が正常上限の1.5倍未満・hCG 5000未満・AFP 1000未満、S2 は LDH 1.5〜10倍・hCG 5000〜50000・AFP 1000〜10000、S3 は LDH 10倍超・hCG 50000超・AFP 10000超である。IGCCCG 分類では予後良好群・中間群・不良群の割合は56%・28%・16%、5年生存率は90%・80%・50%で、セミノーマには予後不良群がない。
+    condition:
+      region: 米国
+      study: 精巣胚細胞癌の管理に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-737
+    source: 'Beck SD. Optimal management of testicular cancer: from self-examination to treatment of advanced disease. Open Access J Urol. 2010;2:143-154'
+    doi: null
+    pmid: '24198622'
+    pmcid: PMC3818885
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3818885/
+    source_license: 非営利利用のみ許可（出版社表示。CC BY-NC 相当）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: S 分類と IGCCCG 分類の数値は、論文の表（TNM 分類表と IGCCCG 分類表）から読み取りした。マーカー上昇の割合は本文の記載に基づく。出典論文の DOI は確認できず null とした（SRC-737 の出典表を参照）。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-659 (id: Jlvnmds)'
+    kokushi: 医学各論 Ⅷ-6-C-③（精巣癌(セミノーマ)、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-022
+  domain: GU
+  subdomain: 陰茎癌
+  assertion:
+    plain_statement_ja: 陰茎癌はまれな癌で、60歳代の男性に多く、発生率は男性10万人あたり1人未満である。組織型は扁平上皮癌が原発性陰茎癌の約95%を占めて最も多く、症例の約半数が HPV 感染と関連する。危険因子には包茎、HPV 感染、喫煙が含まれる。初診時に触知できる鼠径リンパ節を認める症例は28〜64%に上り、5年生存率は全体で約50%、リンパ節転移陽性例では27%である。
+    condition:
+      region: 国際
+      study: 陰茎癌管理に関する最新総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-738
+    source: 'Stecca CE, Alt M, Jiang DM, Chung P, Crook JM, Kulkarni GS, Sridhar SS. Recent Advances in the Management of Penile Cancer: A Contemporary Review of the Literature. Oncol Ther. 2021;9(1):21-39'
+    doi: 10.1007/s40487-020-00135-z
+    pmid: '33454930'
+    pmcid: PMC8140030
+    url: https://doi.org/10.1007/s40487-020-00135-z
+    source_license: CC BY-NC 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 発生率と生存率は主に欧米の集計に基づく総説の記載であり、日本の値ではない。危険因子のオッズ比（包茎11.4など）は表から読み取る必要があるため本カードには含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)'
+    kokushi: 医学各論 Ⅷ-6-C-⑤（陰茎癌、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-023
+  domain: GU
+  subdomain: 前立腺炎
+  assertion:
+    plain_statement_ja: 前立腺炎は NIH 分類で、I群（急性細菌性前立腺炎）、II群（慢性細菌性前立腺炎）、III群（慢性前立腺炎/慢性骨盤痛症候群。精液、前立腺圧出液、マッサージ後尿に白血球を認める IIIa と認めない IIIb）、IV群（無症候性炎症性前立腺炎）に分けられる。症状は泌尿生殖器痛、下部尿路症状、心理的問題、性機能障害の4領域に及び、前立腺炎様症状は男性の35〜50%が生涯のうちに経験する。慢性細菌性前立腺炎と III群に対する第一選択の治療選択肢は、抗菌薬、排尿症状がある場合のα遮断薬、単純な鎮痛薬であり、培養で感染が支持されない場合や症状の改善が得られない場合に、キノロン系抗菌薬を繰り返し使うことは避けるべきとされる。
+    condition:
+      region: 英国
+      study: 英国のコンセンサスガイドライン（Prostatitis Expert Reference Group、2015年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-739
+    source: 'Rees J, Abrahams M, Doble A, Cooper A; Prostatitis Expert Reference Group. Diagnosis and treatment of chronic bacterial prostatitis and chronic prostatitis/chronic pelvic pain syndrome: a consensus guideline. BJU Int. 2015;116(4):509-525'
+    doi: 10.1111/bju.13101
+    pmid: '25711488'
+    pmcid: PMC5008168
+    url: https://doi.org/10.1111/bju.13101
+    source_license: CC BY-NC（PMC 掲載ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: NIH 分類はガイドラインの表から読み取りした。英国のガイドラインの記載であり、抗菌薬やα遮断薬の国内承認・保険適用の状況は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-348 (id: Jlvnl_8)'
+    kokushi: 医学各論 Ⅷ-5-B-①（前立腺炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-024
+  domain: GU
+  subdomain: 精巣上体炎
+  assertion:
+    plain_statement_ja: 急性精巣上体炎のうち性感染症によると考えられる場合（原因としてクラミジアと淋菌が最も多い）について、CDC のガイドラインはセフトリアキソン500 mg単回筋注（体重150 kg以上では1 g）とドキシサイクリン100 mg 1日2回10日間の併用を推奨する。腸内細菌も関与しうる場合（肛門性交の挿入側など）は、セフトリアキソンにレボフロキサシン500 mg 1日1回10日間を併用し、腸内細菌のみが考えられる場合はレボフロキサシン単独を用いる。突然発症した陰嚢痛では、外科的緊急症である精巣捻転を疑う必要がある。
+    condition:
+      region: 米国
+      study: CDC 性感染症治療ガイドライン（2021年版）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-703
+    source: Workowski KA, Bachmann LH, Chan PA, Johnston CM, Muzny CA, Park I, Reno H, Zenilman JM, Bolan GA. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187
+    doi: 10.15585/mmwr.rr7004a1
+    pmid: '34292926'
+    pmcid: PMC8344968
+    url: https://doi.org/10.15585/mmwr.rr7004a1
+    source_license: 米国政府機関（CDC）の公表物
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 米国 CDC ガイドライン2021年版の推奨用量であり、日本の用法・用量や薬剤耐性の状況とは異なる可能性がある。セフトリアキソン、ドキシサイクリン、レボフロキサシンの国内承認・保険適用の状況は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)'
+    kokushi: 医学各論 Ⅷ-5-B-②（精巣上体炎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-025
+  domain: GU
+  subdomain: 精巣炎
+  assertion:
+    plain_statement_ja: ムンプス（流行性耳下腺炎）に伴う精巣炎は、唾液腺以外の合併症の中で最も多く、若年成人男性のムンプス症例の最大40%に起こり、10〜30%は両側性である。通常は耳下腺炎の発症から約1週間後に生じる。思春期後のムンプス精巣炎患者の約30%に不妊または妊孕性の低下が生じ、精巣萎縮は患者の約半数に起こりうる。特異的な抗ウイルス療法はなく、治療は安静、陰嚢の支持、鎮痛薬や抗炎症薬による支持療法が中心で、症状は通常4〜10日で軽快する。ステロイドは痛みや腫脹を和らげても、病状の経過や精巣萎縮の予防には影響しない。
+    condition:
+      region: 国際
+      study: ムンプス精巣炎の臨床像と機序に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-741
+    source: 'Wu H, Wang F, Tang D, Han D. Mumps Orchitis: Clinical Aspects and Mechanisms. Front Immunol. 2021;12:582946'
+    doi: 10.3389/fimmu.2021.582946
+    pmid: '33815357'
+    pmcid: PMC8013702
+    url: https://doi.org/10.3389/fimmu.2021.582946
+    source_license: CC BY（出版社ページの表示）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 頻度や転帰の数値は、総説が既報の臨床報告を集約した記載であり、単一の一次研究の値ではない。鎮痛薬・抗炎症薬の国内承認・保険適用の詳細は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)'
+    kokushi: 医学各論 Ⅷ-5-B-③（精巣炎、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-026
+  domain: GU
+  subdomain: 亀頭包皮炎
+  assertion:
+    plain_statement_ja: 亀頭炎は亀頭の炎症、包皮炎は包皮の炎症、その両方が起きた状態が亀頭包皮炎である。感染症の原因として最も多いのは真菌で、カンジダ・アルビカンスが最も多く分離され、誘因として最も多いのは衛生状態の不良である。亀頭炎は環状切除を受けていない男性の11〜13%、受けた男性の2%に報告され、糖尿病で環状切除を受けていない男性では35%に症状のある亀頭炎がみられた。メタ解析では、環状切除を受けた男性は亀頭炎の有病率が68%低く、亀頭炎には陰茎癌リスクの3.8倍の上昇が伴った。治療には外用抗真菌薬と衛生指導が用いられ、根治的な治療は環状切除である。
+    condition:
+      region: 国際
+      study: 陰茎炎症性皮膚疾患と環状切除の予防的役割に関する系統的レビュー
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-742
+    source: Morris BJ, Krieger JN. Penile Inflammatory Skin Disorders and the Preventive Role of Circumcision. Int J Prev Med. 2017;8:32
+    doi: 10.4103/ijpvm.IJPVM_377_16
+    pmid: '28567234'
+    pmcid: PMC5439293
+    url: https://doi.org/10.4103/ijpvm.IJPVM_377_16
+    source_license: CC BY-NC-SA 3.0（PMC 掲載ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 有病率の数値は系統的レビューが集約した観察研究とメタ解析の値である。外用抗真菌薬の国内承認・保険適用の状況は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)'
+    kokushi: 医学各論 Ⅷ-5-B-④（亀頭包皮炎、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-027
+  domain: GU
+  subdomain: 閉塞性無精子症
+  assertion:
+    plain_statement_ja: 無精子症は不妊男性の15%に認められ、閉塞性無精子症（OA）と非閉塞性無精子症（NOA）に分類される。OA は無精子症の約40%を占め、精巣での精子形成は保たれたまま精路の閉塞によって生じる。原因には精管切除や鼠径ヘルニア手術などの医原性のもの、CFTR 変異と関連する先天性精管欠損、精巣上体炎などの炎症、射精管閉塞がある。診断は、病歴と診察（精巣容積は正常で精巣上体は硬い）、FSH が正常であること、先天性の場合は CFTR 検査、画像検査を組み合わせて行う。治療は、可能な場合に顕微鏡下の精管精管吻合術や精管精巣上体吻合術による再建を行い、再建できない場合は精巣上体からの精子吸引（MESA）と体外受精・顕微授精（IVF/ICSI）を用いる。
+    condition:
+      region: 米国
+      study: 無精子症に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-743
+    source: Wosnitzer M, Goldstein M, Hardy MP. Review of Azoospermia. Spermatogenesis. 2014;4:e28218
+    doi: 10.4161/spmg.28218
+    pmid: '25105055'
+    pmcid: PMC4124057
+    url: https://doi.org/10.4161/spmg.28218
+    source_license: CC BY-NC 3.0（PMC 掲載ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 米国の専門施設グループによる2014年の総説の記載である。再建手術の開通率などの数値は術者や施設で幅が大きいため本カードには含めていない。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-346 (id: Jlvnl_w)'
+    kokushi: 医学各論 Ⅷ-8-E-②（閉塞性無精子症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-028
+  domain: GU
+  subdomain: 非閉塞性無精子症
+  assertion:
+    plain_statement_ja: 非閉塞性無精子症（NOA）は無精子症の約60%を占め、原発性精巣機能不全（LH と FSH が高値で精巣は小さい）と、続発性精巣機能不全（先天性低ゴナドトロピン性性腺機能低下症などで LH と FSH が低い）を含む。NOA は、精巣の硬さと容積、FSH、核型や Y 染色体微小欠失などの遺伝学的検査によって閉塞性無精子症と鑑別する。核型異常は NOA の男性の最大19%に認められ、最も多いのはクラインフェルター症候群（47,XXY）で、Y 染色体の AZF 領域の微小欠失は無精子症男性の10〜20%に認められる。治療は、先天性低ゴナドトロピン性性腺機能低下症に対する内科的治療と、適切な症例に対する顕微鏡下精巣内精子採取術（micro-TESE）と IVF/ICSI が中心であり、AZFc 微小欠失では最大80%で精子採取が可能とされる。
+    condition:
+      region: 米国
+      study: 無精子症に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-743
+    source: Wosnitzer M, Goldstein M, Hardy MP. Review of Azoospermia. Spermatogenesis. 2014;4:e28218
+    doi: 10.4161/spmg.28218
+    pmid: '25105055'
+    pmcid: PMC4124057
+    url: https://doi.org/10.4161/spmg.28218
+    source_license: CC BY-NC 3.0（PMC 掲載ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 頻度の数値は総説が既報を集約した記載である。AZFa や AZFb の欠失では精子採取が期待できない点も同じ総説の本文に記載されている。遺伝学的検査の国内の保険適用の状況は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-346 (id: Jlvnl_w)；TBL-02-09-015 (id: JlAKpo0)'
+    kokushi: 医学各論 Ⅷ-8-E-③（非閉塞性無精子症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-029
+  domain: GU
+  subdomain: 男性不妊症の評価
+  assertion:
+    plain_statement_ja: AUA/ASRM ガイドラインでは、不妊の初期評価は両方のパートナーに対して同時に行い、男性の初期評価には生殖に関する病歴の聴取と1回以上の精液検査を含める。精液検査で1項目以上の異常がある男性は、男性生殖の専門家による評価を受けるべきである。性欲低下、勃起障害、乏精子症または無精子症、精巣萎縮がある場合は、FSH とテストステロンを含むホルモン評価を行う。原発性不妊で無精子症または重度乏精子症（精子濃度500万/mL未満）があり、FSH 上昇か精巣萎縮を伴う場合は、核型と Y 染色体微小欠失の検査が推奨される。精管欠損や特発性の閉塞性無精子症では CFTR 検査を行う。精子 DNA 断片化の検査は初期評価では推奨されない。
+    condition:
+      region: 米国
+      study: AUA/ASRM 男性不妊ガイドライン Part I（2021年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-744
+    source: 'Schlegel PN, Sigman M, Collura B, et al. Diagnosis and treatment of infertility in men: AUA/ASRM guideline part I. Fertil Steril. 2021;115(1):54-61'
+    doi: 10.1016/j.fertnstert.2020.11.015
+    pmid: '33309062'
+    pmcid: null
+    url: https://doi.org/10.1016/j.fertnstert.2020.11.015
+    source_license: 学会ガイドライン（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 米国の学会ガイドライン2021年版の推奨であり、核型・Y染色体微小欠失・CFTR などの遺伝学的検査の国内の保険適用の状況は未確認である。PMCID は確認できず null とした。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-346 (id: Jlvnl_w)；TBL-02-09-015 (id: JlAKpo0)'
+    kokushi: 医学各論 Ⅷ-8-E-④（男性不妊症、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-030
+  domain: GU
+  subdomain: 勃起障害
+  assertion:
+    plain_statement_ja: 勃起障害（ED）は、性的な満足に十分な勃起を一貫して、または繰り返し得られない、あるいは維持できない状態と定義される。AUA ガイドラインは、治療方針の決定に共同意思決定を中心に据え、禁忌のない治療選択肢はすべて患者に提示すべきだとしている。提示される選択肢には、PDE5 阻害薬などの経口薬、海綿体内注射や尿道内投与、陰圧式勃起補助具、陰茎プロステーシスなどがあり、患者の希望と状況に沿って選択する。
+    condition:
+      region: 米国
+      study: AUA 勃起障害ガイドライン（2018年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-745
+    source: 'Burnett AL, Nehra A, Breau RH, et al. Erectile Dysfunction: AUA Guideline. J Urol. 2018;200(3):633-641'
+    doi: 10.1016/j.juro.2018.05.004
+    pmid: '29746858'
+    pmcid: null
+    url: https://doi.org/10.1016/j.juro.2018.05.004
+    source_license: 学会ガイドライン（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: PDE5 阻害薬の個別の用法・用量や使い分けは、ガイドライン本文の個別ステートメントを確認していないため本カードには含めていない。PDE5 阻害薬を含む ED 治療薬の国内承認・保険適用の状況は未確認である。PMCID は確認できず null とした。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-005 (id: JlAKpoA)；TBL-02-09-013 (id: JlAKpos)'
+    kokushi: 医学各論 Ⅷ-10-D-④（勃起障害、b）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-031
+  domain: GU
+  subdomain: 持続勃起症
+  assertion:
+    plain_statement_ja: 持続勃起症は、性的刺激と無関係に、または性的刺激の後も持続する陰茎の勃起である。低流量型（虚血性）が最も多く、痛みと硬い勃起を伴い、泌尿器科的緊急症である。原因には、鎌状赤血球症などの血栓傾向のある病態、腫瘍、薬剤がある。高流量型（動脈性）は外傷後に生じることが多く、痛みはなく緊急症ではない。低流量型の第一選択の治療は、海綿体の吸引とフェニレフリンの投与である。ドプラ超音波では、低流量型で海綿体動脈の血流の高抵抗化または消失が、高流量型で低抵抗の高血流や仮性動脈瘤、動脈海綿体瘻がみられる。
+    condition:
+      region: ブラジル
+      study: 陰茎救急疾患の画像診断に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-746
+    source: 'Dantas GC, Cavalcante F Jr, Yamauchi FI, Racy MCJ, Rahal A Jr, Baroni RH. Penile emergencies: a review of the main conditions. Radiol Bras. 2019;52(2):123-127'
+    doi: 10.1590/0100-3984.2017.0072
+    pmid: '31019343'
+    pmcid: PMC6472861
+    url: https://doi.org/10.1590/0100-3984.2017.0072
+    source_license: CC BY（PMC 掲載ページの表示）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: ブラジルの画像診断総説に基づく記載である。フェニレフリンの海綿体内投与についての国内承認・保険適用の状況は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-005 (id: JlAKpoA)'
+    kokushi: 医学各論 Ⅷ-10-D-⑤（持続勃起症、c）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-032
+  domain: GU
+  subdomain: 尿道下裂
+  assertion:
+    plain_statement_ja: 尿道下裂は、尿道が陰茎の腹側に開口し、陰茎の腹側への弯曲を伴う先天異常で、停留精巣に次いで男児で2番目に多い生殖器の先天異常であり、男児出生200人に1人の頻度で生じる。外尿道口の位置によって遠位型、中間型、近位型に分類され、背側の包皮フードと腹側の皮膚の不足を伴う。包皮は再建に用いるため、環状切除は延期すべきである。近位型で触知できない停留精巣を伴う場合は、性分化疾患が17〜29%に認められるため、電解質、17-ヒドロキシプロゲステロン、核型、腹部超音波による初期評価と内分泌専門医への紹介を行う。手術は生後6〜18か月に行うことが推奨され、遠位型の修復では合併症が5〜10%に生じる。
+    condition:
+      region: カナダ
+      study: 尿道下裂の診断と外科治療に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-747
+    source: 'Keays MA, Dave S. Current hypospadias management: diagnosis, surgical management, and long-term patient-centred outcomes. Can Urol Assoc J. 2017;11(1-2Suppl1):S48-S53'
+    doi: 10.5489/cuaj.4386
+    pmid: '28265319'
+    pmcid: PMC5332236
+    url: https://doi.org/10.5489/cuaj.4386
+    source_license: 学会誌の著作権表示のみ（CC 条件は確認できず）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: カナダの小児泌尿器科総説（2017年）に基づく。手術時期の6〜18か月は米国小児科学会の推奨として本文で紹介されているものである。出典のライセンスは学会の著作権表示のみで CC 条件を確認できず UNKNOWN とした。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)'
+    kokushi: 医学各論 Ⅷ-10-B-①（尿道下裂、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-033
+  domain: GU
+  subdomain: 包茎
+  assertion:
+    plain_statement_ja: 包茎は、陰茎の炎症性疾患や硬化性苔癬などの炎症の後に後天性に生じることがある。後天性包茎の男性では、26%に糖尿病の既往が認められた。小児では包茎があると亀頭炎が多く、5歳未満では包茎のある児の25%に対し、包茎のない児では6%に亀頭炎がみられた。包皮と亀頭の炎症に対する根治的な治療は環状切除である。
+    condition:
+      region: 国際
+      study: 陰茎炎症性皮膚疾患と環状切除の予防的役割に関する系統的レビュー
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-742
+    source: Morris BJ, Krieger JN. Penile Inflammatory Skin Disorders and the Preventive Role of Circumcision. Int J Prev Med. 2017;8:32
+    doi: 10.4103/ijpvm.IJPVM_377_16
+    pmid: '28567234'
+    pmcid: PMC5439293
+    url: https://doi.org/10.4103/ijpvm.IJPVM_377_16
+    source_license: CC BY-NC-SA 3.0（PMC 掲載ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は系統的レビューが集約した観察研究の値である。環状切除（包茎手術）の国内の保険適用の条件は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)'
+    kokushi: 医学各論 Ⅷ-10-B-②（包茎、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-034
+  domain: GU
+  subdomain: 停留精巣
+  assertion:
+    plain_statement_ja: 停留精巣は、男児新生児で最も多い泌尿生殖器疾患である。多くは生後3か月までに自然に下降し、6か月までに下降しなければ、その後に自然下降する可能性は低く、生後6か月を超えた男児の約1〜2%にみられる。6か月までに下降しない場合は外科専門医への紹介が推奨される。国際的なガイドラインは、超音波などの画像検査（診断精度を上げず治療方針も変えないため）や、ルーチンのホルモン療法を推奨していない。精巣固定術は、妊孕性の温存と悪性化のリスク低下のため、生後6〜18か月の間に、遅くともこの時期までに実施することが推奨される。片側の停留精巣では不妊率が最大10%に達し、精巣癌のリスクは一般集団の約3倍に上昇するため、思春期後の自己触診が推奨される。
+    condition:
+      region: 国際
+      study: 停留精巣の診断と治療に関する各国ガイドラインの比較総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-748
+    source: Shin J, Jeon GW. Comparison of diagnostic and treatment guidelines for undescended testis. Clin Exp Pediatr. 2020;63(11):415-421
+    doi: 10.3345/cep.2019.01438
+    pmid: '32252147'
+    pmcid: PMC7642136
+    url: https://doi.org/10.3345/cep.2019.01438
+    source_license: CC BY-NC 4.0（PMC 掲載ページの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 各国ガイドラインを比較した総説（韓国、2020年）に基づく。日本のガイドラインの推奨との差異は未確認である。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-349 (id: JlvnmAA)'
+    kokushi: 医学各論 Ⅷ-10-B-③（停留精巣、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-035
+  domain: GU
+  subdomain: 精巣・精索水瘤
+  assertion:
+    plain_statement_ja: 精巣水瘤は、卵円形で圧痛がなく、可動性のある陰嚢内腫瘤として触知され、透光性を示す（光を透過する）ことが診断の手がかりになる。新生児に多くみられ、生後1年以内に自然に消失することが多い。
+    condition:
+      region: 米国
+      study: 陰嚢内腫瘤の評価に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-749
+    source: Tiemstra JD, Kapoor S. Evaluation of scrotal masses. Am Fam Physician. 2008;78(10):1165-1170
+    doi: null
+    pmid: '19035065'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/19035065/
+    source_license: © American Academy of Family Physicians（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 出典論文（2008年）の DOI は PubMed 収載情報に付与が確認できず null とした。PMCID も確認できず null とした。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-350 (id: JlvnmAI)'
+    kokushi: 医学各論 Ⅷ-10-B-④（精巣・精索水瘤、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-036
+  domain: GU
+  subdomain: 精索静脈瘤
+  assertion:
+    plain_statement_ja: 精索静脈瘤は、触診で「袋の中のミミズ」と表現される陰嚢内の腫瘤として触れ、多くは左側に生じ、仰臥位では小さくなる。男性の15%にみられ、通常は思春期に初めて現れる。原因不明の不妊に対する手術治療については、10件の無作為化比較試験を対象としたコクランレビューで妊孕性の改善が示され、治療必要数は17であった。
+    condition:
+      region: 米国
+      study: 陰嚢内腫瘤の評価に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-749
+    source: Tiemstra JD, Kapoor S. Evaluation of scrotal masses. Am Fam Physician. 2008;78(10):1165-1170
+    doi: null
+    pmid: '19035065'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/19035065/
+    source_license: © American Academy of Family Physicians（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 妊孕性改善の数値（治療必要数17）は、本総説が引用したコクランレビューの結果であり、二次資料経由である。出典論文の DOI と PMCID は確認できず null とした。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-350 (id: JlvnmAI)；TBL-01-00-346 (id: Jlvnl_w)'
+    kokushi: 医学各論 Ⅷ-10-B-⑤（精索静脈瘤、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-037
+  domain: GU
+  subdomain: 精巣捻転症
+  assertion:
+    plain_statement_ja: 急性陰嚢症は、急性に発症した陰嚢の疼痛、腫脹、発赤と定義される医学的緊急症であり、病変は精巣外病変、精巣内病変、外傷に大別される。精巣捻転は急性陰嚢症の原因の一つで、感染（精巣上体炎や精巣炎）や外傷と鑑別しながら緊急に評価する必要がある。陰嚢症状で救急受診し超音波検査を受けた患者164例の後ろ向き検討では、受診理由は陰嚢痛が最も多く、次いで痛みのない腫瘤や腫脹、外傷であり、超音波検査が急性陰嚢症の初期評価に用いられた。
+    condition:
+      region: イタリア
+      study: 急性陰嚢症に対する超音波検査の後ろ向き検討
+      population: 陰嚢症状で救急受診した患者164例（単一施設、2008〜2010年）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-750
+    source: D'Andrea A, Coppolino F, Cesarano E, Russo A, Cappabianca S, Genovese EA, et al. US in the assessment of acute scrotum. Crit Ultrasound J. 2013;5 Suppl 1:S8
+    doi: 10.1186/2036-7902-5-S1-S8
+    pmid: '23902859'
+    pmcid: PMC3711727
+    url: https://doi.org/10.1186/2036-7902-5-S1-S8
+    source_license: CC BY 2.0（PMC 掲載ページの表示）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 精巣の温存率と発症からの経過時間の関係を示す具体的数値は、本出典では確認できなかったため本カードには含めていない。単一施設の後ろ向き検討に基づく記載である。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-351 (id: JlvnmAQ)；TBL-01-00-350 (id: JlvnmAI)'
+    kokushi: 医学各論 Ⅷ-10-B-⑥（精巣捻転症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-038
+  domain: GU
+  subdomain: 陰茎折症
+  assertion:
+    plain_statement_ja: 陰茎折症は陰茎白膜の断裂であり、勃起した陰茎への鈍的外傷（多くは性交時）によって生じる。典型的には、断裂する音とともに突然の痛みが生じ、勃起が急速に消退して、腫脹、血腫、陰茎の偏位を来す。断裂は通常は片側で、遠位の3分の2に多い。画像検査では超音波が第一選択で、結果が確定しない場合は MRI を用いる。治療は原則として緊急の外科的修復であり、血腫や尿道損傷のない小さな断裂など、選択された症例に限って保存的治療が可能である。血尿や尿閉がある場合は、逆行性尿道造影で尿道損傷を評価する。
+    condition:
+      region: ブラジル
+      study: 陰茎救急疾患の画像診断に関する総説
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-746
+    source: 'Dantas GC, Cavalcante F Jr, Yamauchi FI, Racy MCJ, Rahal A Jr, Baroni RH. Penile emergencies: a review of the main conditions. Radiol Bras. 2019;52(2):123-127'
+    doi: 10.1590/0100-3984.2017.0072
+    pmid: '31019343'
+    pmcid: PMC6472861
+    url: https://doi.org/10.1590/0100-3984.2017.0072
+    source_license: CC BY（PMC 掲載ページの表示）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: ブラジルの画像診断総説に基づく記載であり、外科的修復の適応の細部は施設の方針で異なる場合がある。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)'
+    kokushi: 医学各論 Ⅷ-10-E-②（陰茎折症、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: GU-039
+  domain: GU
+  subdomain: 精巣損傷
+  assertion:
+    plain_statement_ja: 陰嚢の外傷では、血腫、水瘤、血瘤（血液の貯留）、精巣の破裂などが生じる。陰嚢症状で救急受診し超音波検査を受けた164例の後ろ向き検討には外傷の8例が含まれ、超音波検査で精巣破裂1例と陰嚢血腫2例が検出され、破裂した精巣には部分切除を含む精巣摘除が行われた。外傷性病変の初期評価では超音波検査が中心的な役割を果たす。
+    condition:
+      region: イタリア
+      study: 急性陰嚢症に対する超音波検査の後ろ向き検討
+      population: 陰嚢症状で救急受診した患者164例（単一施設、2008〜2010年）。うち外傷は8例
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-750
+    source: D'Andrea A, Coppolino F, Cesarano E, Russo A, Cappabianca S, Genovese EA, et al. US in the assessment of acute scrotum. Crit Ultrasound J. 2013;5 Suppl 1:S8
+    doi: 10.1186/2036-7902-5-S1-S8
+    pmid: '23902859'
+    pmcid: PMC3711727
+    url: https://doi.org/10.1186/2036-7902-5-S1-S8
+    source_license: CC BY 2.0（PMC 掲載ページの表示）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 単一施設の後ろ向き検討であり、外傷例は8例と少ないため、頻度はこの集団での値である。
+  curriculum:
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)'
+    kokushi: 医学各論 Ⅷ-10-E-③（精巣損傷、a）
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
