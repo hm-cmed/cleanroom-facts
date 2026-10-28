@@ -9033,3 +9033,771 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md の出典マスター表から
+- id: SRC-751
+  legacy_id: null
+  title: Workowski KA, Bachmann LH, Chan PA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187.
+  citation: Workowski KA, Bachmann LH, Chan PA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187.
+  doi: 10.15585/mmwr.rr7004a1
+  pmid: '34292926'
+  pmcid: null
+  license_note: 米国政府機関（CDC）資料
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+  - date: '2026-10-28'
+    by: claude-code
+    change: SRC-703 と同一の文献（DOI が同じ）。カードの参照は SRC-703 に付け替えた。番号は再利用しない
+- id: SRC-752
+  legacy_id: null
+  title: 'Committee on Practice Bulletins—Gynecology. Diagnosis and Management of Vulvar Skin Disorders: ACOG Practice Bulletin, Number 224. Obstet Gynecol. 2020;136(1):e1-e14.'
+  citation: 'Committee on Practice Bulletins—Gynecology. Diagnosis and Management of Vulvar Skin Disorders: ACOG Practice Bulletin, Number 224. Obstet Gynecol. 2020;136(1):e1-e14.'
+  doi: 10.1097/AOG.0000000000003944
+  pmid: '32590724'
+  pmcid: null
+  license_note: © American College of Obstetricians and Gynecologists（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-753
+  legacy_id: null
+  title: 'Lee MY, Dalpiaz A, Schwamb R, Miao Y, Waltzer W, Khan A. Clinical Pathology of Bartholin''s Glands: A Review of the Literature. Curr Urol. 2015;8(1):22-25.'
+  citation: 'Lee MY, Dalpiaz A, Schwamb R, Miao Y, Waltzer W, Khan A. Clinical Pathology of Bartholin''s Glands: A Review of the Literature. Curr Urol. 2015;8(1):22-25.'
+  doi: 10.1159/000365683
+  pmid: '26195958'
+  pmcid: null
+  license_note: © 2014 S. Karger AG（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-754
+  legacy_id: null
+  title: Singh N, Sethi A. Endometritis – Diagnosis, Treatment and its impact on fertility – A Scoping Review. JBRA Assist Reprod. 2022;26(3):538-546.
+  citation: Singh N, Sethi A. Endometritis – Diagnosis, Treatment and its impact on fertility – A Scoping Review. JBRA Assist Reprod. 2022;26(3):538-546.
+  doi: 10.5935/1518-0557.20220015
+  pmid: '35621273'
+  pmcid: null
+  license_note: Creative Commons Attribution License（PMCページの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-755
+  legacy_id: null
+  title: Abu-Zaid A, et al. Generalized Peritonitis Secondary to Spontaneous Perforation of Pyometra in a 63-Year-Old Patient. Case Rep Obstet Gynecol. 2013;2013:929407.
+  citation: Abu-Zaid A, et al. Generalized Peritonitis Secondary to Spontaneous Perforation of Pyometra in a 63-Year-Old Patient. Case Rep Obstet Gynecol. 2013;2013:929407.
+  doi: 10.1155/2013/929407
+  pmid: '24073347'
+  pmcid: null
+  license_note: CC BY 3.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-756
+  legacy_id: null
+  title: Egbe TO, et al. Pyosalpinges after hysterosalpingography in a patient with lower genital tract infection and managed by laparoscopic surgery in a resource low tertiary hospital case report and literature review. Fertil Res Pract. 2018;4:2.
+  citation: Egbe TO, et al. Pyosalpinges after hysterosalpingography in a patient with lower genital tract infection and managed by laparoscopic surgery in a resource low tertiary hospital case report and literature review. Fertil Res Pract. 2018;4:2.
+  doi: 10.1186/s40738-018-0047-3
+  pmid: '29686882'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-757
+  legacy_id: null
+  title: Perkins RB, Guido RS, Castle PE, et al. 2019 ASCCP Risk-Based Management Consensus Guidelines for Abnormal Cervical Cancer Screening Tests and Cancer Precursors. J Low Genit Tract Dis. 2020;24(2):102-131.
+  citation: Perkins RB, Guido RS, Castle PE, et al. 2019 ASCCP Risk-Based Management Consensus Guidelines for Abnormal Cervical Cancer Screening Tests and Cancer Precursors. J Low Genit Tract Dis. 2020;24(2):102-131.
+  doi: 10.1097/LGT.0000000000000525
+  pmid: '32243307'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-758
+  legacy_id: null
+  title: 'Pavelescu LA, Mititelu-Zafiu NL, Mindru DE, Vladareanu R, Curici A. Molecular Insights into HPV-Driven Cervical Cancer: Oncoproteins, Immune Evasion, and Epigenetic Modifications. Microorganisms. 2025;13(5):1000.'
+  citation: 'Pavelescu LA, Mititelu-Zafiu NL, Mindru DE, Vladareanu R, Curici A. Molecular Insights into HPV-Driven Cervical Cancer: Oncoproteins, Immune Evasion, and Epigenetic Modifications. Microorganisms. 2025;13(5):1000.'
+  doi: 10.3390/microorganisms13051000
+  pmid: '40431173'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-759
+  legacy_id: null
+  title: 'Pegu B, et al. Cervical polyp: evaluating the need of routine surgical intervention and its correlation with cervical smear cytology and endometrial pathology: a retrospective study. Obstet Gynecol Sci. 2020;63(6):735-742.'
+  citation: 'Pegu B, et al. Cervical polyp: evaluating the need of routine surgical intervention and its correlation with cervical smear cytology and endometrial pathology: a retrospective study. Obstet Gynecol Sci. 2020;63(6):735-742.'
+  doi: 10.5468/ogs.20177
+  pmid: '33059397'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-760
+  legacy_id: null
+  title: 'Palmer MR, Saito E, Katanoda K, Sakamoto H, Hocking JS, Brotherton JML, Ong JJL. The impact of alternate HPV vaccination and cervical screening strategies in Japan: a cost-effectiveness analysis. Lancet Reg Health West Pac. 2024;44:101018.'
+  citation: 'Palmer MR, Saito E, Katanoda K, Sakamoto H, Hocking JS, Brotherton JML, Ong JJL. The impact of alternate HPV vaccination and cervical screening strategies in Japan: a cost-effectiveness analysis. Lancet Reg Health West Pac. 2024;44:101018.'
+  doi: 10.1016/j.lanwpc.2024.101018
+  pmid: '38404421'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-761
+  legacy_id: null
+  title: Ujiie M. Resumption of active recommendation of the human papillomavirus vaccine in Japan and future challenges for the National Immunization Program. Hum Vaccin Immunother. 2022;18(6):2090777.
+  citation: Ujiie M. Resumption of active recommendation of the human papillomavirus vaccine in Japan and future challenges for the National Immunization Program. Hum Vaccin Immunother. 2022;18(6):2090777.
+  doi: 10.1080/21645515.2022.2090777
+  pmid: '35767827'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-762
+  legacy_id: null
+  title: 'Bhatla N, Aoki D, Sharma DN, Sankaranarayanan R. Cancer of the cervix uteri: 2021 update. Int J Gynaecol Obstet. 2021;155(Suppl 1):28-44.'
+  citation: 'Bhatla N, Aoki D, Sharma DN, Sankaranarayanan R. Cancer of the cervix uteri: 2021 update. Int J Gynaecol Obstet. 2021;155(Suppl 1):28-44.'
+  doi: 10.1002/ijgo.13865
+  pmid: '34669203'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-768
+  legacy_id: null
+  title: Lacey JV Jr, Sherman ME, Rush BB, Ronnett BM, Ioffe OB, Duggan MA, Glass AG, Richesson DA, Chatterjee N, Langholz B. Absolute risk of endometrial carcinoma during 20-year follow-up among women with endometrial hyperplasia. J Clin Oncol. 2010;28(5):788-792.
+  citation: Lacey JV Jr, Sherman ME, Rush BB, Ronnett BM, Ioffe OB, Duggan MA, Glass AG, Richesson DA, Chatterjee N, Langholz B. Absolute risk of endometrial carcinoma during 20-year follow-up among women with endometrial hyperplasia. J Clin Oncol. 2010;28(5):788-792.
+  doi: 10.1200/JCO.2009.24.1315
+  pmid: '20065186'
+  pmcid: null
+  license_note: © 2010 by American Society of Clinical Oncology（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-769
+  legacy_id: null
+  title: 'Berek JS, Matias-Guiu X, Creutzberg C, Fotopoulou C, Gaffney D, Kehoe S, Lindemann K, Mutch D, Concin N; FIGO Women''s Cancer Committee. FIGO staging of endometrial cancer: 2023. J Gynecol Oncol. 2023;34(5):e85.'
+  citation: 'Berek JS, Matias-Guiu X, Creutzberg C, Fotopoulou C, Gaffney D, Kehoe S, Lindemann K, Mutch D, Concin N; FIGO Women''s Cancer Committee. FIGO staging of endometrial cancer: 2023. J Gynecol Oncol. 2023;34(5):e85.'
+  doi: 10.3802/jgo.2023.34.e85
+  pmid: '37593813'
+  pmcid: null
+  license_note: Creative Commons Attribution Non-Commercial License (CC BY-NC 4.0)
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-770
+  legacy_id: null
+  title: Makker V, Colombo N, Casado Herráez A, Santin AD, Colomba E, Miller DS, et al.; Study 309–KEYNOTE-775 Investigators. Lenvatinib plus pembrolizumab for advanced endometrial cancer. N Engl J Med. 2022;386(5):437-448.
+  citation: Makker V, Colombo N, Casado Herráez A, Santin AD, Colomba E, Miller DS, et al.; Study 309–KEYNOTE-775 Investigators. Lenvatinib plus pembrolizumab for advanced endometrial cancer. N Engl J Med. 2022;386(5):437-448.
+  doi: 10.1056/NEJMoa2108330
+  pmid: '35045221'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-771
+  legacy_id: null
+  title: Lortet-Tieulent J, Ferlay J, Bray F, Jemal A. International patterns and trends in endometrial cancer incidence, 1978–2013. J Natl Cancer Inst. 2018;110(4):354-361.
+  citation: Lortet-Tieulent J, Ferlay J, Bray F, Jemal A. International patterns and trends in endometrial cancer incidence, 1978–2013. J Natl Cancer Inst. 2018;110(4):354-361.
+  doi: 10.1093/jnci/djx214
+  pmid: '29045681'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-772
+  legacy_id: null
+  title: Stewart EA. Clinical practice. Uterine fibroids. N Engl J Med. 2015;372(17):1646-1655.
+  citation: Stewart EA. Clinical practice. Uterine fibroids. N Engl J Med. 2015;372(17):1646-1655.
+  doi: 10.1056/NEJMcp1411029
+  pmid: '25901428'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-773
+  legacy_id: null
+  title: Al-Hendy A, Lukes AS, Poindexter AN 3rd, Venturella R, Villarroel C, Critchley HOD, Li Y, McKain L, Arjona Ferreira JC, Langenberg AGM, Wagman RB, Stewart EA. Treatment of uterine fibroid symptoms with relugolix combination therapy. N Engl J Med. 2021;384(7):630-642.
+  citation: Al-Hendy A, Lukes AS, Poindexter AN 3rd, Venturella R, Villarroel C, Critchley HOD, Li Y, McKain L, Arjona Ferreira JC, Langenberg AGM, Wagman RB, Stewart EA. Treatment of uterine fibroid symptoms with relugolix combination therapy. N Engl J Med. 2021;384(7):630-642.
+  doi: 10.1056/NEJMoa2008283
+  pmid: '33596357'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-774
+  legacy_id: null
+  title: Manyonda I, Belli AM, Lumsden MA, et al.; FEMME Collaborative Group. Uterine-artery embolization or myomectomy for uterine fibroids. N Engl J Med. 2020;383(5):440-451.
+  citation: Manyonda I, Belli AM, Lumsden MA, et al.; FEMME Collaborative Group. Uterine-artery embolization or myomectomy for uterine fibroids. N Engl J Med. 2020;383(5):440-451.
+  doi: 10.1056/NEJMoa1914735
+  pmid: '32726530'
+  pmcid: null
+  license_note: © 2020 Massachusetts Medical Society
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-775
+  legacy_id: null
+  title: 'Pritts EA, Vanness DJ, Berek JS, Parker W, Feinberg R, Feinberg J, Olive DL. The prevalence of occult leiomyosarcoma at surgery for presumed uterine fibroids: a meta-analysis. Gynecol Surg. 2015;12(3):165-177.'
+  citation: 'Pritts EA, Vanness DJ, Berek JS, Parker W, Feinberg R, Feinberg J, Olive DL. The prevalence of occult leiomyosarcoma at surgery for presumed uterine fibroids: a meta-analysis. Gynecol Surg. 2015;12(3):165-177.'
+  doi: 10.1007/s10397-015-0894-4
+  pmid: '26283890'
+  pmcid: null
+  license_note: Creative Commons Attribution 4.0 International License (CC BY 4.0)
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-776
+  legacy_id: null
+  title: Ferrazzi E, Zupi E, Leone FP, Savelli L, Omodei U, Moscarini M, et al. How often are endometrial polyps malignant in asymptomatic postmenopausal women? A multicenter study. Am J Obstet Gynecol. 2009;200(3):235.e1-235.e6.
+  citation: Ferrazzi E, Zupi E, Leone FP, Savelli L, Omodei U, Moscarini M, et al. How often are endometrial polyps malignant in asymptomatic postmenopausal women? A multicenter study. Am J Obstet Gynecol. 2009;200(3):235.e1-235.e6.
+  doi: 10.1016/j.ajog.2008.09.876
+  pmid: '19027096'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-777
+  legacy_id: null
+  title: Abeler VM, Røyne O, Thoresen S, Danielsen HE, Nesland JM, Kristensen GB. Uterine sarcomas in Norway. A histopathological and prognostic survey of a total population from 1970 to 2000 including 419 patients. Histopathology. 2009;54(3):355-364.
+  citation: Abeler VM, Røyne O, Thoresen S, Danielsen HE, Nesland JM, Kristensen GB. Uterine sarcomas in Norway. A histopathological and prognostic survey of a total population from 1970 to 2000 including 419 patients. Histopathology. 2009;54(3):355-364.
+  doi: 10.1111/j.1365-2559.2009.03231.x
+  pmid: '19236512'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-778
+  legacy_id: null
+  title: 'Virarkar M, Vulasala SS, Daoud T, Javadi S, Lall C, Bhosale P. Vulvar cancer: 2021 revised FIGO staging system and the role of imaging. Cancers (Basel). 2022;14(9):2264.'
+  citation: 'Virarkar M, Vulasala SS, Daoud T, Javadi S, Lall C, Bhosale P. Vulvar cancer: 2021 revised FIGO staging system and the role of imaging. Cancers (Basel). 2022;14(9):2264.'
+  doi: 10.3390/cancers14092264
+  pmid: '35565394'
+  pmcid: null
+  license_note: Creative Commons Attribution (CC BY) license
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-779
+  legacy_id: null
+  title: van Seters M, van Beurden M, ten Kate FJW, Beckmann I, Ewing PC, Eijkemans MJC, et al. Treatment of vulvar intraepithelial neoplasia with topical imiquimod. N Engl J Med. 2008;358(14):1465-1473.
+  citation: van Seters M, van Beurden M, ten Kate FJW, Beckmann I, Ewing PC, Eijkemans MJC, et al. Treatment of vulvar intraepithelial neoplasia with topical imiquimod. N Engl J Med. 2008;358(14):1465-1473.
+  doi: 10.1056/NEJMoa072685
+  pmid: '18385498'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-780
+  legacy_id: null
+  title: Cho A, Kim DY, Suh DS, Kim JH, Kim YM, Kim YT, Park JY. Outcomes and prognostic factors of surgically treated extramammary Paget's disease of the vulva. J Gynecol Oncol. 2023;34:e76.
+  citation: Cho A, Kim DY, Suh DS, Kim JH, Kim YM, Kim YT, Park JY. Outcomes and prognostic factors of surgically treated extramammary Paget's disease of the vulva. J Gynecol Oncol. 2023;34:e76.
+  doi: null
+  pmid: '37477099'
+  pmcid: null
+  license_note: Creative Commons Attribution Non-Commercial License (CC BY-NC 4.0)
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-781
+  legacy_id: null
+  title: 'Qian J, Gracious K, Chen L, Xu S. Primary vaginal cancer after hysterectomy for benign conditions: a systematic review of the literature. Front Oncol. 2024;14:1334778.'
+  citation: 'Qian J, Gracious K, Chen L, Xu S. Primary vaginal cancer after hysterectomy for benign conditions: a systematic review of the literature. Front Oncol. 2024;14:1334778.'
+  doi: 10.3389/fonc.2024.1334778
+  pmid: '38347832'
+  pmcid: null
+  license_note: Creative Commons Attribution License (CC BY)
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-782
+  legacy_id: null
+  title: 'Gunderson CC, Fader AN, Carson KA, Bristow RE. Oncologic and reproductive outcomes with progestin therapy in women with endometrial hyperplasia and grade 1 adenocarcinoma: a systematic review. Gynecol Oncol. 2012;125(2):477-482.'
+  citation: 'Gunderson CC, Fader AN, Carson KA, Bristow RE. Oncologic and reproductive outcomes with progestin therapy in women with endometrial hyperplasia and grade 1 adenocarcinoma: a systematic review. Gynecol Oncol. 2012;125(2):477-482.'
+  doi: 10.1016/j.ygyno.2012.01.003
+  pmid: '22245711'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-783
+  legacy_id: null
+  title: Colombo N, Dubot C, Lorusso D, Caceres MV, Hasegawa K, Shapira-Frommer R, et al.; KEYNOTE-826 Investigators. Pembrolizumab for persistent, recurrent, or metastatic cervical cancer. N Engl J Med. 2021;385(20):1856-1867.
+  citation: Colombo N, Dubot C, Lorusso D, Caceres MV, Hasegawa K, Shapira-Frommer R, et al.; KEYNOTE-826 Investigators. Pembrolizumab for persistent, recurrent, or metastatic cervical cancer. N Engl J Med. 2021;385(20):1856-1867.
+  doi: 10.1056/NEJMoa2112435
+  pmid: '34534429'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-784
+  legacy_id: null
+  title: Grimes DA, Jones LB, Lopez LM, Schulz KF. Oral contraceptives for functional ovarian cysts. Cochrane Database Syst Rev. 2014;2014(4):CD006134
+  citation: Grimes DA, Jones LB, Lopez LM, Schulz KF. Oral contraceptives for functional ovarian cysts. Cochrane Database Syst Rev. 2014;2014(4):CD006134
+  doi: 10.1002/14651858.CD006134.pub5
+  pmid: '24782304'
+  pmcid: null
+  license_note: Cochrane Library（Wiley）の著作物（Crossref のレコードに CC ライセンスの表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-785
+  legacy_id: null
+  title: Prat J; FIGO Committee on Gynecologic Oncology. Staging classification for cancer of the ovary, fallopian tube, and peritoneum. Int J Gynaecol Obstet. 2014;124(1):1-5
+  citation: Prat J; FIGO Committee on Gynecologic Oncology. Staging classification for cancer of the ovary, fallopian tube, and peritoneum. Int J Gynaecol Obstet. 2014;124(1):1-5
+  doi: 10.1016/j.ijgo.2013.10.001
+  pmid: '24219974'
+  pmcid: null
+  license_note: 出版社（Wiley）の利用条件（TDM ライセンス。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-786
+  legacy_id: null
+  title: 'Katsumata N, Yasuda M, Takahashi F, et al.; Japanese Gynecologic Oncology Group. Dose-dense paclitaxel once a week in combination with carboplatin every 3 weeks for advanced ovarian cancer: a phase 3, open-label, randomised controlled trial. Lancet. 2009;374(9698):1331-1338'
+  citation: 'Katsumata N, Yasuda M, Takahashi F, et al.; Japanese Gynecologic Oncology Group. Dose-dense paclitaxel once a week in combination with carboplatin every 3 weeks for advanced ovarian cancer: a phase 3, open-label, randomised controlled trial. Lancet. 2009;374(9698):1331-1338'
+  doi: 10.1016/S0140-6736(09)61157-0
+  pmid: '19767092'
+  pmcid: null
+  license_note: 出版社（Elsevier）の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-787
+  legacy_id: null
+  title: Moore K, Colombo N, Scambia G, et al. Maintenance Olaparib in Patients with Newly Diagnosed Advanced Ovarian Cancer. N Engl J Med. 2018;379(26):2495-2505
+  citation: Moore K, Colombo N, Scambia G, et al. Maintenance Olaparib in Patients with Newly Diagnosed Advanced Ovarian Cancer. N Engl J Med. 2018;379(26):2495-2505
+  doi: 10.1056/NEJMoa1810858
+  pmid: '30345884'
+  pmcid: null
+  license_note: NEJM の利用条件（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-788
+  legacy_id: null
+  title: 'Kurman RJ, Shih IeM. The origin and pathogenesis of epithelial ovarian cancer: a proposed unifying theory. Am J Surg Pathol. 2010;34(3):433-443'
+  citation: 'Kurman RJ, Shih IeM. The origin and pathogenesis of epithelial ovarian cancer: a proposed unifying theory. Am J Surg Pathol. 2010;34(3):433-443'
+  doi: 10.1097/PAS.0b013e3181cf3d79
+  pmid: '20154587'
+  pmcid: null
+  license_note: 出版社の著作物（Crossref のレコードに CC ライセンスの表示なし。PMC 収載は著者原稿）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-789
+  legacy_id: null
+  title: Kuchenbaecker KB, Hopper JL, Barnes DR, et al. Risks of Breast, Ovarian, and Contralateral Breast Cancer for BRCA1 and BRCA2 Mutation Carriers. JAMA. 2017;317(23):2402-2416
+  citation: Kuchenbaecker KB, Hopper JL, Barnes DR, et al. Risks of Breast, Ovarian, and Contralateral Breast Cancer for BRCA1 and BRCA2 Mutation Carriers. JAMA. 2017;317(23):2402-2416
+  doi: 10.1001/jama.2017.7112
+  pmid: '28632866'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-790
+  legacy_id: null
+  title: Papillon-Smith J, Sobel M. Adnexal torsion. CMAJ. 2018;190(25):E769
+  citation: Papillon-Smith J, Sobel M. Adnexal torsion. CMAJ. 2018;190(25):E769
+  doi: 10.1503/cmaj.180020
+  pmid: '29941434'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（PMC 収載、著作権表示のみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-791
+  legacy_id: null
+  title: Gershenson DM. Management of ovarian germ cell tumors. J Clin Oncol. 2007;25(20):2938-2943
+  citation: Gershenson DM. Management of ovarian germ cell tumors. J Clin Oncol. 2007;25(20):2938-2943
+  doi: 10.1200/JCO.2007.10.8738
+  pmid: '17617525'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-792
+  legacy_id: null
+  title: 'Kiyokawa T, Young RH, Scully RE. Krukenberg tumors of the ovary: a clinicopathologic analysis of 120 cases with emphasis on their variable pathologic manifestations. Am J Surg Pathol. 2006;30(3):277-299'
+  citation: 'Kiyokawa T, Young RH, Scully RE. Krukenberg tumors of the ovary: a clinicopathologic analysis of 120 cases with emphasis on their variable pathologic manifestations. Am J Surg Pathol. 2006;30(3):277-299'
+  doi: 10.1097/01.pas.0000190787.85024.cb
+  pmid: '16538048'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-793
+  legacy_id: null
+  title: Schumer ST, Cannistra SA. Granulosa cell tumor of the ovary. J Clin Oncol. 2003;21(6):1180-1189
+  citation: Schumer ST, Cannistra SA. Granulosa cell tumor of the ovary. J Clin Oncol. 2003;21(6):1180-1189
+  doi: 10.1200/JCO.2003.10.019
+  pmid: '12637488'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-794
+  legacy_id: null
+  title: Zondervan KT, Becker CM, Missmer SA. Endometriosis. N Engl J Med. 2020;382(13):1244-1256
+  citation: Zondervan KT, Becker CM, Missmer SA. Endometriosis. N Engl J Med. 2020;382(13):1244-1256
+  doi: 10.1056/NEJMra1810764
+  pmid: '32212520'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-795
+  legacy_id: null
+  title: 'Becker CM, Bokor A, Heikinheimo O, et al.; ESHRE Endometriosis Guideline Group. ESHRE guideline: endometriosis. Hum Reprod Open. 2022;2022(2):hoac009'
+  citation: 'Becker CM, Bokor A, Heikinheimo O, et al.; ESHRE Endometriosis Guideline Group. ESHRE guideline: endometriosis. Hum Reprod Open. 2022;2022(2):hoac009'
+  doi: 10.1093/hropen/hoac009
+  pmid: '35350465'
+  pmcid: null
+  license_note: CC BY-NC 4.0（Crossref の license 欄）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-796
+  legacy_id: null
+  title: 'Struble J, Reid S, Bedaiwy MA. Adenomyosis: A Clinical Review of a Challenging Gynecologic Condition. J Minim Invasive Gynecol. 2016;23(2):164-185'
+  citation: 'Struble J, Reid S, Bedaiwy MA. Adenomyosis: A Clinical Review of a Challenging Gynecologic Condition. J Minim Invasive Gynecol. 2016;23(2):164-185'
+  doi: 10.1016/j.jmig.2015.09.018
+  pmid: '26427702'
+  pmcid: null
+  license_note: 出版社（Elsevier）の著作物（論文の著作権表示。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-797
+  legacy_id: null
+  title: Seckl MJ, Sebire NJ, Berkowitz RS. Gestational trophoblastic disease. Lancet. 2010;376(9742):717-729
+  citation: Seckl MJ, Sebire NJ, Berkowitz RS. Gestational trophoblastic disease. Lancet. 2010;376(9742):717-729
+  doi: 10.1016/S0140-6736(10)60280-2
+  pmid: '20673583'
+  pmcid: null
+  license_note: Elsevier の TDM ライセンス（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-798
+  legacy_id: null
+  title: 'Lurain JR. Gestational trophoblastic disease II: classification and management of gestational trophoblastic neoplasia. Am J Obstet Gynecol. 2011;204(1):11-18'
+  citation: 'Lurain JR. Gestational trophoblastic disease II: classification and management of gestational trophoblastic neoplasia. Am J Obstet Gynecol. 2011;204(1):11-18'
+  doi: 10.1016/j.ajog.2010.06.072
+  pmid: '20739008'
+  pmcid: null
+  license_note: Elsevier の TDM ライセンス（Crossref の license 欄。CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-799
+  legacy_id: null
+  title: Grimbizis GF, Gordts S, Di Spiezio Sardo A, et al. The ESHRE/ESGE consensus on the classification of female genital tract congenital anomalies. Hum Reprod. 2013;28(8):2032-2044
+  citation: Grimbizis GF, Gordts S, Di Spiezio Sardo A, et al. The ESHRE/ESGE consensus on the classification of female genital tract congenital anomalies. Hum Reprod. 2013;28(8):2032-2044
+  doi: 10.1093/humrep/det098
+  pmid: '23771171'
+  pmcid: null
+  license_note: CC BY 3.0（論文の Open Access 表示。欧州の学術データベースの license 欄でも CC BY を確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-800
+  legacy_id: null
+  title: Wu JM, Matthews CA, Conover MM, Pate V, Jonsson Funk M. Lifetime risk of stress urinary incontinence or pelvic organ prolapse surgery. Obstet Gynecol. 2014;123(6):1201-1206
+  citation: Wu JM, Matthews CA, Conover MM, Pate V, Jonsson Funk M. Lifetime risk of stress urinary incontinence or pelvic organ prolapse surgery. Obstet Gynecol. 2014;123(6):1201-1206
+  doi: 10.1097/AOG.0000000000000286
+  pmid: '24807341'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-801
+  legacy_id: null
+  title: 'Kumar M, et al. Vesicovaginal Fistula Repair by Transvaginal Route: Comparison of Resource Utilisation and Outcome with Literature Reported Population Matched Cohort of Patients Operated by Minimally Invasive Route. J Obstet Gynaecol India. 2022;72(5):414-419'
+  citation: 'Kumar M, et al. Vesicovaginal Fistula Repair by Transvaginal Route: Comparison of Resource Utilisation and Outcome with Literature Reported Population Matched Cohort of Patients Operated by Minimally Invasive Route. J Obstet Gynaecol India. 2022;72(5):414-419'
+  doi: 10.1007/s13224-021-01549-z
+  pmid: '36458065'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-802
+  legacy_id: null
+  title: 'Corte H, Maggiori L, Treton X, Lefèvre JH, Ferron M, Panis Y. Rectovaginal Fistula: What Is the Optimal Strategy?: An Analysis of 79 Patients Undergoing 286 Procedures. Ann Surg. 2015;262(5):855-860'
+  citation: 'Corte H, Maggiori L, Treton X, Lefèvre JH, Ferron M, Panis Y. Rectovaginal Fistula: What Is the Optimal Strategy?: An Analysis of 79 Patients Undergoing 286 Procedures. Ann Surg. 2015;262(5):855-860'
+  doi: 10.1097/SLA.0000000000001461
+  pmid: '26583676'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-803
+  legacy_id: null
+  title: 'Hooker AB, Lemmers M, Thurkow AL, Heymans MW, Opmeer BC, Brölmann HAM, Mol BW, Huirne JAF. Systematic review and meta-analysis of intrauterine adhesions after miscarriage: prevalence, risk factors and long-term reproductive outcome. Hum Reprod Update. 2014;20(2):262-278'
+  citation: 'Hooker AB, Lemmers M, Thurkow AL, Heymans MW, Opmeer BC, Brölmann HAM, Mol BW, Huirne JAF. Systematic review and meta-analysis of intrauterine adhesions after miscarriage: prevalence, risk factors and long-term reproductive outcome. Hum Reprod Update. 2014;20(2):262-278'
+  doi: 10.1093/humupd/dmt045
+  pmid: '24082042'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-804
+  legacy_id: null
+  title: 'Gambhir S, Grigorian A, Schubl S, Barrios C, Bernal N, Joe V, Gabriel V, Nahmias J. Analysis of non-obstetric vaginal and vulvar trauma: risk factors for operative intervention. Updates Surg. 2019;71(4):735-740'
+  citation: 'Gambhir S, Grigorian A, Schubl S, Barrios C, Bernal N, Joe V, Gabriel V, Nahmias J. Analysis of non-obstetric vaginal and vulvar trauma: risk factors for operative intervention. Updates Surg. 2019;71(4):735-740'
+  doi: 10.1007/s13304-019-00679-4
+  pmid: '31538318'
+  pmcid: null
+  license_note: 出版社の著作物（CC の表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-805
+  legacy_id: null
+  title: 'Al-Otaibi KM. Ureterovaginal fistulas: The role of endoscopy and a percutaneous approach. Urol Ann. 2012;4(2):102-105'
+  citation: 'Al-Otaibi KM. Ureterovaginal fistulas: The role of endoscopy and a percutaneous approach. Urol Ann. 2012;4(2):102-105'
+  doi: 10.4103/0974-7796.95556
+  pmid: '22629006'
+  pmcid: null
+  license_note: CC BY-NC-SA（学術データベースの license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
+- id: SRC-806
+  legacy_id: null
+  title: 'Machado Junior LC, et al. Vesicouterine Fistula (Youssef Syndrome): Case Report and Literature Review. Rev Bras Ginecol Obstet. 2018;40(9):563-569'
+  citation: 'Machado Junior LC, et al. Vesicouterine Fistula (Youssef Syndrome): Case Report and Literature Review. Rev Bras Ginecol Obstet. 2018;40(9):563-569'
+  doi: 10.1055/s-0038-1666998
+  pmid: '30231295'
+  pmcid: null
+  license_note: CC BY（欧州の学術データベースの license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/18_ku_d.md の出典マスター表から
