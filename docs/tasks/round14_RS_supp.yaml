@@ -1,0 +1,34 @@
+# 第14回（呼吸器の補完）の仕様。依頼文 round14_RS_supp.md と、評価スクリプト scripts/eval_trial.py が読む。
+round: 14
+name: 呼吸器の補完（試行：2つの作り手で同じ依頼を実施し、成果物を比較する）
+# 接頭辞ごとの最初の ID（第11〜13回の続き）。成果物はこの番号から連番で書く
+id_start: {RI: 54, RO: 37, IL: 49, LC: 39, PL: 28}
+src_range: [530, 569]
+# 既存の SRC を再利用してよい（その場合は出典表に「再利用」と書く）
+target_cards: [25, 45]
+# 必ずカードを作る出題基準の小項目（本編の取り込みでカードがなかった16項目）
+targets:
+  - {code: Ⅳ-1-F-①, name: 吸虫症、線虫症, level: c, prefix: RI}
+  - {code: Ⅳ-1-G-③, name: 縦隔炎, level: c, prefix: RI}
+  - {code: Ⅳ-2-A-⑤, name: 気管・気管支の狭窄・閉塞, level: b, prefix: RO}
+  - {code: Ⅳ-2-B-③, name: 肺分画症, level: c, prefix: RO}
+  - {code: Ⅳ-2-D-②, name: 肺損傷, level: b, prefix: RO}
+  - {code: Ⅳ-3-B-⑥, name: 悪性リンパ腫、白血病, level: b, prefix: IL}
+  - {code: Ⅳ-3-B-⑦, name: Langerhans細胞組織球症, level: c, prefix: IL}
+  - {code: Ⅳ-3-B-⑧, name: アミロイドーシス, level: c, prefix: IL}
+  - {code: Ⅳ-4-A-③, name: 特発性器質化肺炎<COP>, level: b, prefix: IL}
+  - {code: Ⅳ-4-C-②, name: 化学薬品、重金属などによる肺障害, level: b, prefix: IL}
+  - {code: Ⅳ-4-C-④, name: 酸素中毒, level: c, prefix: IL}
+  - {code: Ⅳ-4-C-⑤, name: パラコート中毒, level: c, prefix: IL}
+  - {code: Ⅳ-4-F-①, name: 肺胞微石症, level: c, prefix: IL}
+  - {code: Ⅳ-6-B-②, name: 気管・気管支腫瘍, level: c, prefix: LC}
+  - {code: Ⅳ-7-C-④, name: 横隔神経麻痺, level: c, prefix: PL}
+  - {code: Ⅳ-7-C-⑤, name: 横隔膜弛緩症, level: c, prefix: PL}
+# 小項目のほかに作るテーマ（キーワードのどれかが主張文に含まれれば、扱ったとみなす）
+topics:
+  - {name: 進行非小細胞肺癌の一次治療（PD-L1 高発現への免疫チェックポイント阻害薬）, prefix: LC, keywords: [KEYNOTE-024, ペムブロリズマブ, PD-L1]}
+  - {name: Ⅲ期非小細胞肺癌の化学放射線療法後の維持療法, prefix: LC, keywords: [PACIFIC, デュルバルマブ]}
+  - {name: 小型末梢肺癌の区域切除と肺葉切除, prefix: LC, keywords: [JCOG0802, 区域切除]}
+  - {name: EGFR 以外のドライバー遺伝子（ALK など）と分子標的薬, prefix: LC, keywords: [ALK, ROS1, アレクチニブ, ロルラチニブ]}
+  - {name: 小細胞肺癌の病期と治療, prefix: LC, keywords: [小細胞肺癌, 小細胞癌]}
+  - {name: 切除不能な胸膜中皮腫の一次治療, prefix: LC, keywords: [CheckMate 743, ニボルマブ, イピリムマブ]}

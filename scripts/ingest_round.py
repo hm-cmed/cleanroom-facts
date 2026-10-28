@@ -2,6 +2,7 @@
 
 使い方（リポジトリ直下で）:
     .\\.venv\\Scripts\\python.exe scripts\\ingest_round.py raw\\02_gastroduodenal.md GD
+    python scripts/ingest_round.py raw/14_rs_supp.md RI,RO,IL,LC,PL --append   # 補完回（既存ファイルの末尾に足す）
 
 - raw の YAML ブロックをそのまま読み込み、スキーマで検証して data/facts/<接頭辞>.yaml に書く。
 - 出典マスター表（| SRC | 出典 | DOI | PMID | ライセンス表示 | source_class | …）の新規 SRC を data/sources/sources.yaml に追加する。
@@ -54,7 +55,7 @@ def null_if_dash(v):
     return None if v in ("", "—", "-", "null") else v
 
 
-def main(raw_path: str, prefix: str) -> None:
+def main(raw_path: str, prefix: str, append: bool = False) -> None:
     raw = ROOT / raw_path
     text = raw.read_text(encoding="utf-8")
     origin = raw.relative_to(ROOT).as_posix()
@@ -84,10 +85,19 @@ def main(raw_path: str, prefix: str) -> None:
     bad_prefix = [i for i in ids if str(i).split("-")[0] not in prefixes]
     if bad_prefix:
         problems.append(f"接頭辞 {prefix} でない ID：{bad_prefix}")
+    # 補完回（--append）：既存のファイルの末尾に足す。ID は既存の最大番号の次から連番であること
+    last: dict[str, int] = {}
     for pf in prefixes:
         existing = FACTS / f"{pf}.yaml"
-        if existing.exists():
-            problems.append(f"{existing.relative_to(ROOT)} が既にある（上書きしない）")
+        if existing.exists() and not append:
+            problems.append(f"{existing.relative_to(ROOT)} が既にある（上書きしない。補完回は --append を付ける）")
+        if append:
+            old = yaml.safe_load(existing.read_text(encoding="utf-8")) if existing.exists() else []
+            old_ids = {c["id"] for c in old}
+            last[pf] = max((int(i.split("-")[1]) for i in old_ids), default=0)
+            clash = [i for i in ids if i in old_ids]
+            if clash:
+                problems.append(f"既存の ID と重なる：{clash}")
 
     for c in cards:
         pub = c.setdefault("publication_info", {})
@@ -141,7 +151,12 @@ def main(raw_path: str, prefix: str) -> None:
         for pf in prefixes:
             part = [c for c in cards if str(c.get("id")).startswith(pf + "-")]
             if part:
-                (FACTS / f"{pf}.yaml").write_text(yaml.safe_dump(part, allow_unicode=True, sort_keys=False, width=10_000), encoding="utf-8", newline="\n")
+                dumped = yaml.safe_dump(part, allow_unicode=True, sort_keys=False, width=10_000)
+                path = FACTS / f"{pf}.yaml"
+                if append and path.exists():
+                    old_text = path.read_text(encoding="utf-8")
+                    dumped = old_text + ("" if old_text.endswith("\n") else "\n") + dumped
+                path.write_text(dumped, encoding="utf-8", newline="\n")
         SOURCES.write_text(yaml.safe_dump(sources, allow_unicode=True, sort_keys=False, width=10_000), encoding="utf-8", newline="\n")
 
     # レポート
@@ -152,8 +167,9 @@ def main(raw_path: str, prefix: str) -> None:
     for pf in prefixes:
         nums = sorted(int(str(i).split("-")[1]) for i in ids if str(i).startswith(pf + "-"))
         if nums:
-            gaps += [f"{pf}-{n:03d}" for n in range(1, nums[-1] + 1) if n not in nums]
-            ranges.append(f"{pf}-001〜{pf}-{nums[-1]:03d}")
+            first = last.get(pf, 0) + 1
+            gaps += [f"{pf}-{n:03d}" for n in range(first, nums[-1] + 1) if n not in nums]
+            ranges.append(f"{pf}-{first:03d}〜{pf}-{nums[-1]:03d}")
     L = [f"# Phase 1：取り込みレポート（{prefix}、{TODAY}）\n",
          f"生成：`scripts/ingest_round.py {origin} {prefix}`。主張文と数値は変更していない。\n",
          f"- 結果：{'書き込み済み' if write else '**書き込みを中止**（下の問題を解消してから再実行）'}",
@@ -168,9 +184,9 @@ def main(raw_path: str, prefix: str) -> None:
     L += ["\n## subdomain 別\n", "| subdomain | 件数 |", "|---|---|"] + [f"| {k} | {v} |" for k, v in by_sd.most_common()]
     L += ["\n## source_class 別（原本の値。Phase 3 で Crossref により確定）\n", "| source_class | 件数 |", "|---|---|"] + [f"| {k} | {v} |" for k, v in by_cls.most_common()]
     L += ["\n## SRC 別の使用件数\n", "| SRC | 件数 |", "|---|---|"] + [f"| {k} | {v} |" for k, v in sorted(refs.items(), key=lambda x: str(x[0]))]
-    (REPORTS / f"01_ingest_{prefix.replace(',', '_')}.md").write_text("\n".join(L) + "\n", encoding="utf-8", newline="\n")
+    (REPORTS / f"01_ingest_{prefix.replace(',', '_')}{'_supp' if append else ''}.md").write_text("\n".join(L) + "\n", encoding="utf-8", newline="\n")
     print("\n".join(L[:8]))
 
 
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2])
+    main(sys.argv[1], sys.argv[2], append="--append" in sys.argv[3:])
