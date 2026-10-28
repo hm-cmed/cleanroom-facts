@@ -27,12 +27,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: TH-023
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 廃止：TH-023（先に作成）と実質同じ内容のため、番号を TH-023 に移して誘導（分野をまたぐ重複の統合、三原の承認による）
 - id: BD-002
   domain: BD
   subdomain: 骨粗鬆症

@@ -339,10 +339,10 @@
 - 条件：region: 日本／population: 原発性骨粗鬆症の診断基準（2012年改訂版）の適用対象／study: 学会合同委員会による診断基準（ガイドライン文書）
 - 不確実性：骨密度のカットオフ値（80%未満、70%以下、-2.5 SD以下、-1.0 SD）は診断基準の表から読み取った値である。 YAMの年齢範囲は腰椎が20〜44歳、大腿骨近位部が20〜29歳と表の脚注に示されている。 この基準は日本の基準であり、海外の診断基準とは骨密度の表し方（YAMに対する割合の併記など）が異なる。 本文がPMCに収載されていないためPMCIDはnullである。
 - 出典：Soen S, Fukunaga M, Sugimoto T, Sone T, Fujiwara S, Endo N, Gorai I, Shiraki M, Hagino H, Hosoi T, Ohta H, Yoneda T, Tomomitsu T; Japanese Society for Bone and Mineral Research and Japan Osteoporosis Society Joint Review Committee for the Revision of the Diagnostic Criteria for Primary Osteoporosis. Diagnostic criteria for primary osteoporosis: year 2012 revision. J Bone Miner Metab. 2013;31(3):247-257.　[DOI 10.1007/s00774-013-0447-8](https://doi.org/10.1007/s00774-013-0447-8)　[PMID 23553500](https://pubmed.ncbi.nlm.nih.gov/23553500/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅹ-3-B-①（骨粗鬆症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-023&card_id=TH-023&version=3c07c5fa9e)　（版 `3c07c5fa9e`）
+- 出題基準：医学各論 Ⅹ-3-B-①（骨粗鬆症、a）；医学各論 Ⅸ-7-C-①（骨粗鬆症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；PS-02-05-05 (id: JkxnuQc)；TBL-01-00-132 (id: Jlvnlnw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-023&card_id=TH-023&version=ef603f0891)　（版 `ef603f0891`）
 
-**[ここまでの 1 件（TH-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TH-023&cards=TH-023%203c07c5fa9e)**
+**[ここまでの 1 件（TH-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TH-023&cards=TH-023%20ef603f0891)**
 
 ---
 

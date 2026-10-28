@@ -2,19 +2,9 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-28
 
-全 20 件のうち、監修済み 0 件。
+全 19 件のうち、監修済み 0 件。
 
 ## 骨粗鬆症
-
-### BD-001　下書き（出典の照合前）
-
-> 日本の原発性骨粗鬆症の診断基準（2012年改訂版）では、低骨量を来す他の疾患や続発性骨粗鬆症がないことを前提に、脆弱性骨折がある場合は、椎体骨折または大腿骨近位部骨折であれば骨密度にかかわらず骨粗鬆症と診断し、その他の脆弱性骨折では骨密度が若年成人平均（YAM）の80%未満で診断する。脆弱性骨折がない場合は、骨密度がYAMの70%以下または-2.5SD以下で診断する。骨密度は原則として腰椎または大腿骨近位部のDXAで測定し、複数部位で測定した場合は低い方の値を採用する。
-
-- 条件：population: 原発性骨粗鬆症の診断対象となる閉経後女性・高齢者／region: 日本
-- 不確実性：本票は2012年改訂版の診断基準に基づく。骨粗鬆症の予防と治療ガイドライン2025年版にも診断基準の章があるが、同版での改訂の有無は未確認。
-- 出典：Soen S, Fukunaga M, Sugimoto T, Sone T, Fujiwara S, Endo N, Gorai I, Shiraki M, Hagino H, Hosoi T, Ohta H, Yoneda T, Tomomitsu T; Japanese Society for Bone and Mineral Research and Japan Osteoporosis Society Joint Review Committee for the Revision of the Diagnostic Criteria for Primary Osteoporosis. Diagnostic criteria for primary osteoporosis: year 2012 revision. J Bone Miner Metab. 2013;31(3):247-257.　[DOI 10.1007/s00774-013-0447-8](https://doi.org/10.1007/s00774-013-0447-8)　[PMID 23553500](https://pubmed.ncbi.nlm.nih.gov/23553500/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-7-C-①（骨粗鬆症、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-132 (id: Jlvnlnw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BD-001&card_id=BD-001&version=db8787e051)　（版 `db8787e051`）
 
 ### BD-002　下書き（出典の照合前）
 
@@ -106,7 +96,7 @@
 - 出題基準：医学各論 Ⅸ-7-C-①（骨粗鬆症、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-132 (id: Jlvnlnw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BD-010&card_id=BD-010&version=5bce50b84f)　（版 `5bce50b84f`）
 
-**[ここまでの 10 件（BD-001〜BD-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BD-001%E3%80%9CBD-010&cards=BD-001%20db8787e051%0ABD-002%20be6e951742%0ABD-003%2032f67dce42%0ABD-004%20386c28eebc%0ABD-005%20d23a76da12%0ABD-006%20ab1482983e%0ABD-007%205778486d67%0ABD-008%207551276791%0ABD-009%203074d3aa10%0ABD-010%205bce50b84f)**
+**[ここまでの 9 件（BD-002〜BD-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BD-002%E3%80%9CBD-010&cards=BD-002%20be6e951742%0ABD-003%2032f67dce42%0ABD-004%20386c28eebc%0ABD-005%20d23a76da12%0ABD-006%20ab1482983e%0ABD-007%205778486d67%0ABD-008%207551276791%0ABD-009%203074d3aa10%0ABD-010%205bce50b84f)**
 
 ---
 

@@ -811,8 +811,8 @@
     corroboration: null
   uncertainty: 骨密度のカットオフ値（80%未満、70%以下、-2.5 SD以下、-1.0 SD）は診断基準の表から読み取った値である。 YAMの年齢範囲は腰椎が20〜44歳、大腿骨近位部が20〜29歳と表の脚注に示されている。 この基準は日本の基準であり、海外の診断基準とは骨密度の表し方（YAMに対する割合の併記など）が異なる。 本文がPMCに収載されていないためPMCIDはnullである。
   curriculum:
-    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
-    kokushi: 医学各論 Ⅹ-3-B-①（骨粗鬆症、a）
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；PS-02-05-05 (id: JkxnuQc)；TBL-01-00-132 (id: Jlvnlnw)'
+    kokushi: 医学各論 Ⅹ-3-B-①（骨粗鬆症、a）；医学各論 Ⅸ-7-C-①（骨粗鬆症、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -823,6 +823,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: 分野をまたぐ重複の統合：BD-001 の出題基準・コアカリの番号をこのカードに足した（医学各論 Ⅹ-3-B-①（骨粗鬆症、a） → 医学各論 Ⅹ-3-B-①（骨粗鬆症、a）；医学各論 Ⅸ-7-C-①（骨粗鬆症、a））。BD-001 は廃止してこのカードに誘導（三原の承認による）
 - id: TH-024
   domain: TH
   subdomain: 骨粗鬆症の薬物療法
