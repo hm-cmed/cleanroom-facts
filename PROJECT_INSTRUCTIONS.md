@@ -76,6 +76,7 @@ Project指示文とスキーマに従い、最新の引き継ぎメモ（0(N-1)_
 | 15〜19 | 腎・泌尿器・生殖器 | GN・KT／KF・KX／UR・GU／GY／RP | 依頼文は `docs/tasks/round15_KU.md`（主に Muse が順に作り、受け入れ検査を通す） |
 | 20〜22 | 内分泌・代謝・栄養・乳腺 | EN・TH／DM・MT／BR・IE・EX | 依頼文は `docs/tasks/round20_EN.md`（分割案は Muse、受け入れ検査を通す） |
 | 23〜27 | 皮膚・頭頸部 | SK・DT／SD・HX／EY・RE／OT・NL／OR・TR | 依頼文は `docs/tasks/round23_DS.md`（分割案は Muse、受け入れ検査を通す） |
+| 28〜32 | 神経・運動器 | ST・BT・NI／ND・EP／PN・NM・SP・NX／BD・OS・BO／TJ・AN | 依頼文は `docs/tasks/round28_NS.md`（分割案は Muse、受け入れ検査を通す） |
 
 ## 出典の方針（2026-10-28 追加）
 

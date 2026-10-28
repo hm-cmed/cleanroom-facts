@@ -52,3 +52,17 @@
 - {prefix: NL, name: 鼻腔・副鼻腔・喉頭疾患, field: 皮膚・頭頸部}
 - {prefix: OR, name: 咽頭・口腔・唾液腺・頸部の疾患, field: 皮膚・頭頸部}
 - {prefix: TR, name: 皮膚・頭頸部の損傷と奇形, field: 皮膚・頭頸部}
+- {prefix: ST, name: 脳血管障害, field: 神経・運動器}
+- {prefix: BT, name: 脳腫瘍, field: 神経・運動器}
+- {prefix: NI, name: 神経・運動器の感染性・炎症性疾患, field: 神経・運動器}
+- {prefix: ND, name: 神経変性・代謝性・脱髄疾患、中毒, field: 神経・運動器}
+- {prefix: EP, name: 発作性・機能性・自律神経系疾患、小児のけいれん性疾患, field: 神経・運動器}
+- {prefix: PN, name: 末梢神経疾患（炎症性・遺伝性・代謝性、絞扼性、神経痛）, field: 神経・運動器}
+- {prefix: NM, name: 神経筋接合部・筋疾患、小児の筋疾患, field: 神経・運動器}
+- {prefix: SP, name: 脊椎・脊髄疾患, field: 神経・運動器}
+- {prefix: NX, name: 神経・運動器の症候・検査・治療（横断）, field: 神経・運動器}
+- {prefix: BD, name: 骨系統疾患・代謝性骨疾患, field: 神経・運動器}
+- {prefix: OS, name: 上肢・下肢の運動器疾患、非感染性骨・関節・四肢軟部疾患, field: 神経・運動器}
+- {prefix: BO, name: 骨・軟部腫瘍と類似疾患, field: 神経・運動器}
+- {prefix: TJ, name: 神経・運動器の外傷, field: 神経・運動器}
+- {prefix: AN, name: 水頭症、脳・脊髄の形成異常、神経皮膚症候群、脳性麻痺, field: 神経・運動器}

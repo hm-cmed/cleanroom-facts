@@ -1,4 +1,4 @@
-# 医師国家試験出題基準（令和6年版）医学各論の小項目（番号・名称・レベル）。Ⅳ・Ⅷ は 2026-10-28、Ⅴ は 2026-10-25、Ⅵ は 2026-10-21 に転記
+# 医師国家試験出題基準（令和6年版）医学各論の小項目（番号・名称・レベル）。Ⅲ・Ⅳ・Ⅷ・Ⅸ・Ⅹ は 2026-10-28、Ⅴ は 2026-10-25、Ⅵ は 2026-10-21 に転記
 # 出典：厚生労働省 医学各論 PDF https://www.mhlw.go.jp/content/10803000/001079484.pdf
 # 備考欄は転記していない。項目の構成（番号・名称・レベル）だけを、問題の分類と配分の計算に使う。
 # checked: 原本 PDF と人が照合したら true にする（2026-10-21 は Claude Code の読み取り結果からの転記で、未照合）。
@@ -1051,3 +1051,268 @@ chapters:
           - {code: Ⅹ-11-B-③, name: "乳腺線維腺腫", level: c}
           - {code: Ⅹ-11-B-④, name: "遺伝性乳癌卵巣癌症候群", level: c}
           - {code: Ⅹ-11-C-①, name: "乳腺症", level: b}
+  - id: Ⅸ
+    name: 神経・運動器疾患
+    note: 2026-10-28 に、Muse の読み取り（proposals/28_neuro_division_proposal.md）と厚生労働省 PDF のテキスト層を突き合わせて転記。全228項目の番号・名称・レベルが一致した（名称の違いは PDF の外字「梗」「叉」「靱」だけ）。小項目の番号がない中項目（Ⅸ-9-C 転移性骨腫瘍）は中項目の番号を code にした。レベルは原文に全角と半角（Ⅸ-4-G-①・Ⅸ-5-D-③・Ⅸ-10-I・Ⅸ-11-C-②）が混在するが、どちらも a・b・c として扱う。章の中で同じ項目が2か所にある（脳血管性認知症 Ⅸ-1-E-③／Ⅸ-4-A-②、欠神発作 Ⅸ-6-A-②／Ⅸ-11-C-②）が、原文どおり両方を残した。人による原本照合は未了。
+    groups:
+      - id: "1"
+        name: 脳血管障害
+        items:
+          - {code: Ⅸ-1-A-①, name: "高血圧性脳出血", level: a}
+          - {code: Ⅸ-1-A-②, name: "アミロイドアンギオパチー", level: b}
+          - {code: Ⅸ-1-B-①, name: "脳動脈瘤、解離性脳動脈瘤", level: a}
+          - {code: Ⅸ-1-C-①, name: "心原性脳塞栓症", level: a}
+          - {code: Ⅸ-1-C-②, name: "アテローム血栓性脳梗塞", level: a}
+          - {code: Ⅸ-1-C-③, name: "ラクナ梗塞", level: a}
+          - {code: Ⅸ-1-C-④, name: "一過性脳虚血発作", level: a}
+          - {code: Ⅸ-1-C-⑤, name: "脳動脈狭窄・閉塞", level: a}
+          - {code: Ⅸ-1-D-①, name: "脳動脈解離", level: a}
+          - {code: Ⅸ-1-D-②, name: "脳動静脈奇形", level: b}
+          - {code: Ⅸ-1-D-③, name: "静脈洞血栓症", level: b}
+          - {code: Ⅸ-1-D-④, name: "もやもや病", level: b}
+          - {code: Ⅸ-1-D-⑤, name: "硬膜動静脈瘻", level: c}
+          - {code: Ⅸ-1-E-①, name: "偽性球麻痺", level: a}
+          - {code: Ⅸ-1-E-②, name: "廃用性萎縮", level: a}
+          - {code: Ⅸ-1-E-③, name: "脳血管性認知症", level: a}
+      - id: "2"
+        name: 脳腫瘍
+        items:
+          - {code: Ⅸ-2-A-①, name: "神経膠腫", level: a}
+          - {code: Ⅸ-2-A-②, name: "悪性リンパ腫", level: b}
+          - {code: Ⅸ-2-A-③, name: "胚細胞腫瘍", level: c}
+          - {code: Ⅸ-2-A-④, name: "血管芽腫", level: c}
+          - {code: Ⅸ-2-B-①, name: "髄膜腫", level: b}
+          - {code: Ⅸ-2-B-②, name: "下垂体腫瘍(下垂体腺腫)", level: b}
+          - {code: Ⅸ-2-B-③, name: "神経鞘腫", level: b}
+          - {code: Ⅸ-2-B-④, name: "頭蓋咽頭腫", level: c}
+          - {code: Ⅸ-2-C-①, name: "転移性脳腫瘍", level: a}
+          - {code: Ⅸ-2-C-②, name: "髄膜癌腫症<癌性髄膜炎>", level: c}
+          - {code: Ⅸ-2-D-①, name: "頭蓋骨転移", level: c}
+      - id: "3"
+        name: 神経・運動器の感染性・炎症性疾患
+        items:
+          - {code: Ⅸ-3-A-①, name: "脳炎", level: a}
+          - {code: Ⅸ-3-A-②, name: "髄膜炎", level: a}
+          - {code: Ⅸ-3-A-③, name: "進行性多巣性白質脳症", level: c}
+          - {code: Ⅸ-3-A-④, name: "AIDS認知症<HIV脳症>", level: c}
+          - {code: Ⅸ-3-A-⑤, name: "HTLV-Ⅰ関連脊髄症<HAM>", level: c}
+          - {code: Ⅸ-3-B-①, name: "Creutzfeldt-Jakob病", level: b}
+          - {code: Ⅸ-3-C-①, name: "細菌性髄膜炎", level: a}
+          - {code: Ⅸ-3-C-②, name: "脳膿瘍", level: a}
+          - {code: Ⅸ-3-C-③, name: "真菌性髄膜炎", level: b}
+          - {code: Ⅸ-3-C-④, name: "結核性髄膜炎", level: b}
+          - {code: Ⅸ-3-D-①, name: "急性散在性脳脊髄炎", level: b}
+          - {code: Ⅸ-3-D-②, name: "急性小脳性失調症", level: b}
+          - {code: Ⅸ-3-E-①, name: "化膿性脊椎炎", level: b}
+          - {code: Ⅸ-3-E-②, name: "結核性骨関節炎", level: b}
+          - {code: Ⅸ-3-E-③, name: "化膿性骨髄炎", level: b}
+          - {code: Ⅸ-3-E-④, name: "化膿性関節炎", level: b}
+      - id: "4"
+        name: 神経変性・代謝性・脱髄疾患、中毒
+        items:
+          - {code: Ⅸ-4-A-①, name: "Alzheimer型認知症", level: a}
+          - {code: Ⅸ-4-A-②, name: "脳血管性認知症", level: a}
+          - {code: Ⅸ-4-A-③, name: "Lewy小体型認知症", level: a}
+          - {code: Ⅸ-4-A-④, name: "前頭側頭葉変性症", level: b}
+          - {code: Ⅸ-4-B-①, name: "Parkinson病", level: a}
+          - {code: Ⅸ-4-B-②, name: "Parkinson症候群", level: a}
+          - {code: Ⅸ-4-B-③, name: "進行性核上性麻痺", level: b}
+          - {code: Ⅸ-4-B-④, name: "大脳皮質基底核変性症", level: b}
+          - {code: Ⅸ-4-B-⑤, name: "本態性振戦", level: b}
+          - {code: Ⅸ-4-C-①, name: "Huntington病", level: b}
+          - {code: Ⅸ-4-C-②, name: "ジストニア", level: b}
+          - {code: Ⅸ-4-C-③, name: "痙性斜頸", level: b}
+          - {code: Ⅸ-4-C-④, name: "書痙", level: b}
+          - {code: Ⅸ-4-D-①, name: "ビタミンB12欠乏症", level: a}
+          - {code: Ⅸ-4-D-②, name: "Wernicke脳症", level: b}
+          - {code: Ⅸ-4-D-③, name: "ミトコンドリア病", level: b}
+          - {code: Ⅸ-4-E-①, name: "副腎白質ジストロフィー", level: c}
+          - {code: Ⅸ-4-F-①, name: "脊髄小脳変性症", level: b}
+          - {code: Ⅸ-4-F-②, name: "多系統萎縮症", level: b}
+          - {code: Ⅸ-4-F-③, name: "遺伝性痙性対麻痺", level: c}
+          - {code: Ⅸ-4-G-①, name: "筋萎縮性側索硬化症<ALS>", level: a}
+          - {code: Ⅸ-4-G-②, name: "球脊髄性筋萎縮症", level: b}
+          - {code: Ⅸ-4-H-①, name: "多発性硬化症", level: b}
+          - {code: Ⅸ-4-H-②, name: "視神経脊髄炎", level: b}
+          - {code: Ⅸ-4-I-①, name: "一酸化炭素中毒<CO中毒>", level: a}
+          - {code: Ⅸ-4-I-②, name: "低酸素脳症", level: a}
+          - {code: Ⅸ-4-I-③, name: "悪性症候群", level: a}
+      - id: "5"
+        name: 末梢神経・神経筋接合部・筋疾患
+        items:
+          - {code: Ⅸ-5-A-①, name: "多発ニューロパチー", level: a}
+          - {code: Ⅸ-5-A-②, name: "Guillain-Barré症候群、慢性炎症性脱髄性多発根ニューロパチー", level: b}
+          - {code: Ⅸ-5-A-③, name: "腫瘍随伴性多発ニューロパチー", level: b}
+          - {code: Ⅸ-5-A-④, name: "単ニューロパチー", level: b}
+          - {code: Ⅸ-5-A-⑤, name: "多発単ニューロパチー", level: b}
+          - {code: Ⅸ-5-A-⑥, name: "遺伝性運動感覚性ニューロパチー", level: c}
+          - {code: Ⅸ-5-A-⑦, name: "アミロイドニューロパチー", level: c}
+          - {code: Ⅸ-5-B-①, name: "手根管症候群", level: a}
+          - {code: Ⅸ-5-B-②, name: "肘部管症候群", level: a}
+          - {code: Ⅸ-5-C-①, name: "三叉神経痛", level: a}
+          - {code: Ⅸ-5-C-②, name: "帯状疱疹後神経痛", level: a}
+          - {code: Ⅸ-5-C-③, name: "Tolosa-Hunt症候群", level: c}
+          - {code: Ⅸ-5-D-①, name: "重症筋無力症", level: a}
+          - {code: Ⅸ-5-D-②, name: "皮膚筋炎、多発性筋炎", level: a}
+          - {code: Ⅸ-5-D-③, name: "Lambert-Eaton筋無力症候群", level: b}
+          - {code: Ⅸ-5-D-④, name: "筋ジストロフィー", level: b}
+          - {code: Ⅸ-5-D-⑤, name: "筋強直性ジストロフィー", level: b}
+          - {code: Ⅸ-5-D-⑥, name: "内分泌・代謝性ミオパチー", level: b}
+          - {code: Ⅸ-5-D-⑦, name: "周期性四肢麻痺", level: b}
+      - id: "6"
+        name: 発作性・機能性・自律神経系疾患
+        items:
+          - {code: Ⅸ-6-A-①, name: "強直間代発作<全般運動発作>", level: a}
+          - {code: Ⅸ-6-A-②, name: "欠神発作<全般非運動発作>", level: a}
+          - {code: Ⅸ-6-B-①, name: "単純部分発作<焦点意識保持発作>", level: a}
+          - {code: Ⅸ-6-B-②, name: "複雑部分発作<焦点意識減損発作>", level: a}
+          - {code: Ⅸ-6-C-①, name: "片頭痛", level: a}
+          - {code: Ⅸ-6-C-②, name: "緊張型頭痛", level: a}
+          - {code: Ⅸ-6-C-③, name: "群発頭痛", level: a}
+          - {code: Ⅸ-6-D-①, name: "てんかん重積状態", level: a}
+      - id: "7"
+        name: 脊椎・脊髄疾患、骨・関節系統疾患
+        items:
+          - {code: Ⅸ-7-A-①, name: "椎間板ヘルニア", level: a}
+          - {code: Ⅸ-7-A-②, name: "変形性脊椎症", level: a}
+          - {code: Ⅸ-7-A-③, name: "脊髄症、神経根症", level: a}
+          - {code: Ⅸ-7-A-④, name: "脊柱管狭窄症", level: a}
+          - {code: Ⅸ-7-A-⑤, name: "腰痛症", level: a}
+          - {code: Ⅸ-7-A-⑥, name: "斜頸", level: b}
+          - {code: Ⅸ-7-A-⑦, name: "側弯症", level: b}
+          - {code: Ⅸ-7-A-⑧, name: "後弯症<円背・亀背>", level: b}
+          - {code: Ⅸ-7-A-⑨, name: "脊柱靱帯骨化症", level: b}
+          - {code: Ⅸ-7-A-⑩, name: "脊椎分離症", level: b}
+          - {code: Ⅸ-7-A-⑪, name: "脊椎すべり症", level: b}
+          - {code: Ⅸ-7-A-⑫, name: "強直性脊椎炎", level: b}
+          - {code: Ⅸ-7-A-⑬, name: "脊椎腫瘍・脊髄腫瘍", level: b}
+          - {code: Ⅸ-7-A-⑭, name: "脊髄血管障害", level: c}
+          - {code: Ⅸ-7-A-⑮, name: "横断性脊髄炎", level: c}
+          - {code: Ⅸ-7-B-①, name: "軟骨無形成症", level: c}
+          - {code: Ⅸ-7-B-②, name: "骨形成不全症", level: c}
+          - {code: Ⅸ-7-C-①, name: "骨粗鬆症", level: a}
+          - {code: Ⅸ-7-C-②, name: "くる病、骨軟化症", level: b}
+          - {code: Ⅸ-7-C-③, name: "骨Paget病", level: b}
+      - id: "8"
+        name: 上肢・下肢の運動器疾患、非感染性骨・関節・四肢軟部疾患
+        items:
+          - {code: Ⅸ-8-A-①, name: "肩関節周囲炎", level: a}
+          - {code: Ⅸ-8-A-②, name: "腱板断裂", level: a}
+          - {code: Ⅸ-8-A-③, name: "反復性脱臼", level: b}
+          - {code: Ⅸ-8-A-④, name: "胸郭出口症候群", level: c}
+          - {code: Ⅸ-8-B-①, name: "肘内障", level: a}
+          - {code: Ⅸ-8-B-②, name: "上腕骨外側上顆炎", level: b}
+          - {code: Ⅸ-8-C-①, name: "Dupuytren拘縮", level: b}
+          - {code: Ⅸ-8-C-②, name: "強剛母指", level: c}
+          - {code: Ⅸ-8-D-①, name: "変形性股関節症", level: a}
+          - {code: Ⅸ-8-D-②, name: "発育性股関節形成不全<先天性股関節脱臼>", level: b}
+          - {code: Ⅸ-8-D-③, name: "大腿骨頭すべり症", level: b}
+          - {code: Ⅸ-8-D-④, name: "特発性大腿骨頭壊死症", level: b}
+          - {code: Ⅸ-8-D-⑤, name: "Perthes病", level: c}
+          - {code: Ⅸ-8-E-①, name: "変形性膝関節症", level: a}
+          - {code: Ⅸ-8-E-②, name: "Osgood-Schlatter病", level: b}
+          - {code: Ⅸ-8-E-③, name: "半月板障害", level: b}
+          - {code: Ⅸ-8-E-④, name: "膝蓋軟骨軟化症", level: c}
+          - {code: Ⅸ-8-F-①, name: "外反母趾", level: a}
+          - {code: Ⅸ-8-F-②, name: "内反足", level: b}
+          - {code: Ⅸ-8-F-③, name: "変形性足関節症", level: c}
+          - {code: Ⅸ-8-G-①, name: "Kienböck病、特発性膝骨壊死", level: c}
+          - {code: Ⅸ-8-H-①, name: "関節リウマチ", level: a}
+          - {code: Ⅸ-8-H-②, name: "痛風、偽痛風", level: a}
+          - {code: Ⅸ-8-H-③, name: "滑液包炎、腱鞘炎", level: a}
+          - {code: Ⅸ-8-I-①, name: "変形性関節症", level: a}
+          - {code: Ⅸ-8-I-②, name: "神経病性関節症", level: c}
+          - {code: Ⅸ-8-I-③, name: "血友病性関節症", level: c}
+          - {code: Ⅸ-8-J-①, name: "ガングリオン", level: a}
+          - {code: Ⅸ-8-J-②, name: "異所性骨化", level: b}
+          - {code: Ⅸ-8-J-③, name: "腱付着部炎", level: c}
+      - id: "9"
+        name: 骨・軟部腫瘍と類似疾患
+        items:
+          - {code: Ⅸ-9-A-①, name: "骨軟骨腫", level: b}
+          - {code: Ⅸ-9-A-②, name: "内軟骨腫", level: b}
+          - {code: Ⅸ-9-A-③, name: "類骨骨腫", level: c}
+          - {code: Ⅸ-9-A-④, name: "骨巨細胞腫", level: c}
+          - {code: Ⅸ-9-B-①, name: "骨肉腫", level: b}
+          - {code: Ⅸ-9-B-②, name: "軟骨肉腫", level: b}
+          - {code: Ⅸ-9-B-③, name: "Ewing肉腫", level: b}
+          - {code: Ⅸ-9-B-④, name: "脊索腫", level: c}
+          - {code: Ⅸ-9-C, name: "転移性骨腫瘍", level: a}
+          - {code: Ⅸ-9-D-①, name: "単発性骨囊腫", level: c}
+          - {code: Ⅸ-9-D-②, name: "動脈瘤様骨囊腫", level: c}
+          - {code: Ⅸ-9-D-③, name: "線維性骨異形成", level: c}
+          - {code: Ⅸ-9-E-①, name: "脂肪腫", level: b}
+          - {code: Ⅸ-9-E-②, name: "血管腫", level: b}
+          - {code: Ⅸ-9-E-③, name: "神経鞘腫", level: b}
+          - {code: Ⅸ-9-E-④, name: "グロムス腫瘍", level: c}
+          - {code: Ⅸ-9-E-⑤, name: "類腱腫", level: c}
+          - {code: Ⅸ-9-F-①, name: "脂肪肉腫", level: c}
+          - {code: Ⅸ-9-F-②, name: "滑膜肉腫", level: c}
+          - {code: Ⅸ-9-F-③, name: "悪性末梢神経鞘腫", level: c}
+          - {code: Ⅸ-9-F-④, name: "平滑筋肉腫", level: c}
+      - id: "10"
+        name: 神経・運動器の外傷、脳・脊髄の形成異常、神経皮膚症候群、その他
+        items:
+          - {code: Ⅸ-10-A-①, name: "脳挫傷", level: a}
+          - {code: Ⅸ-10-A-②, name: "脳振盪", level: a}
+          - {code: Ⅸ-10-A-③, name: "びまん性軸索損傷", level: a}
+          - {code: Ⅸ-10-A-④, name: "急性硬膜外血腫", level: a}
+          - {code: Ⅸ-10-A-⑤, name: "急性硬膜下血腫、慢性硬膜下血腫", level: a}
+          - {code: Ⅸ-10-A-⑥, name: "外傷性脳内血腫", level: a}
+          - {code: Ⅸ-10-A-⑦, name: "頭蓋骨骨折", level: a}
+          - {code: Ⅸ-10-A-⑧, name: "髄液漏・脳脊髄液減少症", level: c}
+          - {code: Ⅸ-10-B-①, name: "頸髄・胸髄・腰髄損傷", level: a}
+          - {code: Ⅸ-10-C-①, name: "脊椎骨折", level: a}
+          - {code: Ⅸ-10-C-②, name: "骨盤骨折", level: a}
+          - {code: Ⅸ-10-C-③, name: "四肢骨折", level: a}
+          - {code: Ⅸ-10-C-④, name: "開放骨折", level: a}
+          - {code: Ⅸ-10-D-①, name: "捻挫<靱帯損傷>", level: a}
+          - {code: Ⅸ-10-D-②, name: "関節内骨折", level: a}
+          - {code: Ⅸ-10-D-③, name: "脱臼、亜脱臼", level: a}
+          - {code: Ⅸ-10-E-①, name: "末梢神経損傷", level: a}
+          - {code: Ⅸ-10-E-②, name: "四肢血管損傷", level: a}
+          - {code: Ⅸ-10-E-③, name: "筋断裂、腱断裂", level: a}
+          - {code: Ⅸ-10-E-④, name: "区画<コンパートメント>症候群", level: a}
+          - {code: Ⅸ-10-E-⑤, name: "挫滅<圧挫>症候群<crush syndrome>", level: a}
+          - {code: Ⅸ-10-F-①, name: "外傷性切断、関節離断", level: c}
+          - {code: Ⅸ-10-G-①, name: "肩関節脱臼", level: a}
+          - {code: Ⅸ-10-G-②, name: "突き指", level: a}
+          - {code: Ⅸ-10-G-③, name: "肉離れ", level: a}
+          - {code: Ⅸ-10-G-④, name: "足関節捻挫", level: a}
+          - {code: Ⅸ-10-G-⑤, name: "離断性骨軟骨炎", level: b}
+          - {code: Ⅸ-10-G-⑥, name: "膝靱帯損傷", level: b}
+          - {code: Ⅸ-10-G-⑦, name: "半月板損傷", level: b}
+          - {code: Ⅸ-10-G-⑧, name: "アキレス腱断裂", level: b}
+          - {code: Ⅸ-10-H-①, name: "塞栓症", level: a}
+          - {code: Ⅸ-10-H-②, name: "偽関節", level: b}
+          - {code: Ⅸ-10-H-③, name: "関節拘縮", level: b}
+          - {code: Ⅸ-10-H-④, name: "骨壊死", level: b}
+          - {code: Ⅸ-10-H-⑤, name: "複合性局所疼痛症候群<CRPS>", level: b}
+          - {code: Ⅸ-10-H-⑥, name: "変形治癒骨折", level: c}
+          - {code: Ⅸ-10-I-①, name: "閉塞性水頭症", level: b}
+          - {code: Ⅸ-10-I-②, name: "特発性正常圧水頭症", level: b}
+          - {code: Ⅸ-10-I-③, name: "交通性水頭症", level: c}
+          - {code: Ⅸ-10-J-①, name: "頭蓋縫合早期癒合症", level: c}
+          - {code: Ⅸ-10-J-②, name: "二分頭蓋、脳瘤", level: c}
+          - {code: Ⅸ-10-J-③, name: "二分脊椎、髄膜瘤", level: c}
+          - {code: Ⅸ-10-J-④, name: "Chiari奇形", level: c}
+          - {code: Ⅸ-10-J-⑤, name: "脊髄空洞症", level: c}
+          - {code: Ⅸ-10-K-①, name: "神経線維腫症", level: c}
+          - {code: Ⅸ-10-K-②, name: "結節性硬化症", level: c}
+          - {code: Ⅸ-10-K-③, name: "Sturge-Weber症候群", level: c}
+          - {code: Ⅸ-10-K-④, name: "von Hippel-Lindau病", level: c}
+      - id: "11"
+        name: その他の重要な小児領域の疾患
+        items:
+          - {code: Ⅸ-11-A-①, name: "脊髄性筋萎縮症", level: b}
+          - {code: Ⅸ-11-B-①, name: "先天性筋ジストロフィー", level: b}
+          - {code: Ⅸ-11-B-②, name: "先天性筋強直性ジストロフィー", level: b}
+          - {code: Ⅸ-11-C-①, name: "熱性けいれん", level: a}
+          - {code: Ⅸ-11-C-②, name: "欠神発作<全般非運動発作>", level: a}
+          - {code: Ⅸ-11-C-③, name: "West症候群<点頭てんかん>", level: b}
+          - {code: Ⅸ-11-C-④, name: "中心・側頭部に棘波をもつ良性小児てんかん", level: b}
+          - {code: Ⅸ-11-C-⑤, name: "憤怒けいれん<泣き入りひきつけ>", level: c}
+          - {code: Ⅸ-11-C-⑥, name: "Lennox-Gastaut症候群", level: c}
+          - {code: Ⅸ-11-D-①, name: "小頭症", level: c}
+          - {code: Ⅸ-11-E-①, name: "脳性麻痺", level: b}
+          - {code: Ⅸ-11-E-②, name: "亜急性硬化性全脳炎<SSPE>", level: b}
