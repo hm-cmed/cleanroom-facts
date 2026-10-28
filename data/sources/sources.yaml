@@ -13737,3 +13737,738 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/redo_sp.md の出典マスター表から
+- id: SRC-1161
+  legacy_id: null
+  title: 'Mathur M, Paudel S, Bhattarai N, Karki S, Regmi S. Hailey-Hailey Disease: An Updated Review With a Focus on Therapeutic Mechanisms. Health Science Reports. 2025;8:e71061.'
+  citation: 'Mathur M, Paudel S, Bhattarai N, Karki S, Regmi S. Hailey-Hailey Disease: An Updated Review With a Focus on Therapeutic Mechanisms. Health Science Reports. 2025;8:e71061.'
+  doi: 10.1002/hsr2.71061
+  pmid: '40661732'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1162
+  legacy_id: null
+  title: Has C, Bauer JW, Bodemer C, Bolling MC, Bruckner-Tuderman L, et al. Consensus reclassification of inherited epidermolysis bullosa and other disorders with skin fragility. British Journal of Dermatology. 2020;183(4):614-627.
+  citation: Has C, Bauer JW, Bodemer C, Bolling MC, Bruckner-Tuderman L, et al. Consensus reclassification of inherited epidermolysis bullosa and other disorders with skin fragility. British Journal of Dermatology. 2020;183(4):614-627.
+  doi: 10.1111/bjd.18921
+  pmid: '32017015'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1163
+  legacy_id: null
+  title: 'Murrell DF, Peña S, Joly P, Marinovic B, Hashimoto T, Diaz LA, et al. Diagnosis and management of pemphigus: Recommendations of an international panel of experts. Journal of the American Academy of Dermatology. 2020;82(3):575-585.e1.'
+  citation: 'Murrell DF, Peña S, Joly P, Marinovic B, Hashimoto T, Diaz LA, et al. Diagnosis and management of pemphigus: Recommendations of an international panel of experts. Journal of the American Academy of Dermatology. 2020;82(3):575-585.e1.'
+  doi: 10.1016/j.jaad.2018.02.021
+  pmid: '29438767'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1164
+  legacy_id: null
+  title: Ujiie H, Iwata H, Yamagami J, Nakama T, Aoyama Y, Ikeda S, et al. Japanese guidelines for the management of pemphigoid (including epidermolysis bullosa acquisita). The Journal of Dermatology. 2019;46(12):1102-1135.
+  citation: Ujiie H, Iwata H, Yamagami J, Nakama T, Aoyama Y, Ikeda S, et al. Japanese guidelines for the management of pemphigoid (including epidermolysis bullosa acquisita). The Journal of Dermatology. 2019;46(12):1102-1135.
+  doi: 10.1111/1346-8138.15111
+  pmid: '31646663'
+  pmcid: null
+  license_note: 日本皮膚科学会ガイドライン（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1165
+  legacy_id: null
+  title: 'Sivadas A, Grada A, Ho M, Bunick C. Hereditary ichthyosis subtypes: Clinical updates. JAAD Reviews. 2026;8:40-51.'
+  citation: 'Sivadas A, Grada A, Ho M, Bunick C. Hereditary ichthyosis subtypes: Clinical updates. JAAD Reviews. 2026;8:40-51.'
+  doi: 10.1016/j.jdrv.2026.02.004
+  pmid: null
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1166
+  legacy_id: null
+  title: Yoneda K, Kubo A, Nomura T, Ishida-Yamamoto A, Suga Y, Akiyama M, Kanazawa N, Hashimoto T, et al. Japanese guidelines for the management of palmoplantar keratoderma. The Journal of Dermatology. 2021;48(8):e353-e367.
+  citation: Yoneda K, Kubo A, Nomura T, Ishida-Yamamoto A, Suga Y, Akiyama M, Kanazawa N, Hashimoto T, et al. Japanese guidelines for the management of palmoplantar keratoderma. The Journal of Dermatology. 2021;48(8):e353-e367.
+  doi: 10.1111/1346-8138.15850
+  pmid: '34121213'
+  pmcid: null
+  license_note: 日本皮膚科学会ガイドライン（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1167
+  legacy_id: null
+  title: 'Kanitakis J. Porokeratoses: an update of clinical, aetiopathogenic and therapeutic features. European Journal of Dermatology. 2014;24(5):533-544.'
+  citation: 'Kanitakis J. Porokeratoses: an update of clinical, aetiopathogenic and therapeutic features. European Journal of Dermatology. 2014;24(5):533-544.'
+  doi: 10.1684/ejd.2014.2402
+  pmid: '25115203'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1168
+  legacy_id: null
+  title: 'Armstrong AW, Read C. Pathophysiology, Clinical Presentation, and Treatment of Psoriasis: A Review. JAMA. 2020;323(19):1945-1960.'
+  citation: 'Armstrong AW, Read C. Pathophysiology, Clinical Presentation, and Treatment of Psoriasis: A Review. JAMA. 2020;323(19):1945-1960.'
+  doi: 10.1001/jama.2020.4006
+  pmid: '32427307'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1169
+  legacy_id: null
+  title: Weston G, Payette M. Update on lichen planus and its clinical variants. International Journal of Women's Dermatology. 2015;1(3):140-149.
+  citation: Weston G, Payette M. Update on lichen planus and its clinical variants. International Journal of Women's Dermatology. 2015;1(3):140-149.
+  doi: 10.1016/j.ijwd.2015.04.001
+  pmid: '28491978'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1170
+  legacy_id: null
+  title: 'Mahajan K, Relhan V, Relhan AK, Garg VK. Pityriasis Rosea: An Update on Etiopathogenesis and Management of Difficult Aspects. Indian Journal of Dermatology. 2016;61(4):375-384.'
+  citation: 'Mahajan K, Relhan V, Relhan AK, Garg VK. Pityriasis Rosea: An Update on Etiopathogenesis and Management of Difficult Aspects. Indian Journal of Dermatology. 2016;61(4):375-384.'
+  doi: 10.4103/0019-5154.185699
+  pmid: '27512182'
+  pmcid: null
+  license_note: CC BY-NC-SA 3.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1171
+  legacy_id: null
+  title: 'Chairatchaneeboon M, Thanomkitti K, Kim EJ. Parapsoriasis—A Diagnosis with an Identity Crisis: A Narrative Review. Dermatology and Therapy (Heidelberg). 2022;12(5):1091-1102.'
+  citation: 'Chairatchaneeboon M, Thanomkitti K, Kim EJ. Parapsoriasis—A Diagnosis with an Identity Crisis: A Narrative Review. Dermatology and Therapy (Heidelberg). 2022;12(5):1091-1102.'
+  doi: 10.1007/s13555-022-00716-y
+  pmid: '35426607'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1172
+  legacy_id: null
+  title: Fujita H, Terui T, Hayama K, Akiyama M, Ikeda S, Mabuchi T, et al. Japanese guidelines for the management and treatment of generalized pustular psoriasis. The Journal of Dermatology. 2018;45(11):1235-1270.
+  citation: Fujita H, Terui T, Hayama K, Akiyama M, Ikeda S, Mabuchi T, et al. Japanese guidelines for the management and treatment of generalized pustular psoriasis. The Journal of Dermatology. 2018;45(11):1235-1270.
+  doi: 10.1111/1346-8138.14523
+  pmid: '30230572'
+  pmcid: null
+  license_note: 日本皮膚科学会ガイドライン（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1173
+  legacy_id: null
+  title: Japanese Dermatological Association Palmoplantar Pustulosis Treatment Guidance Drafting Committee. Treatment Guidance for Palmoplantar Pustulosis 2022. The Journal of Dermatology. 2026;53(7):e510-e566.
+  citation: Japanese Dermatological Association Palmoplantar Pustulosis Treatment Guidance Drafting Committee. Treatment Guidance for Palmoplantar Pustulosis 2022. The Journal of Dermatology. 2026;53(7):e510-e566.
+  doi: 10.1111/1346-8138.70246
+  pmid: '42252553'
+  pmcid: null
+  license_note: 日本皮膚科学会ガイダンス（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1174
+  legacy_id: null
+  title: Paek SY, Lim HW. Chronic actinic dermatitis. Dermatologic Clinics. 2014;32(3):355-361.
+  citation: Paek SY, Lim HW. Chronic actinic dermatitis. Dermatologic Clinics. 2014;32(3):355-361.
+  doi: 10.1016/j.det.2014.03.007
+  pmid: '24891057'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1175
+  legacy_id: null
+  title: Ezzedine K, Eleftheriadou V, Whitton M, van Geel N. Vitiligo. The Lancet. 2015;386(9988):74-84.
+  citation: Ezzedine K, Eleftheriadou V, Whitton M, van Geel N. Vitiligo. The Lancet. 2015;386(9988):74-84.
+  doi: 10.1016/S0140-6736(14)60763-7
+  pmid: '25596811'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1176
+  legacy_id: null
+  title: Lehmann AR, McGibbon D, Stefanini M. Xeroderma pigmentosum. Orphanet J Rare Dis. 2011;6:70.
+  citation: Lehmann AR, McGibbon D, Stefanini M. Xeroderma pigmentosum. Orphanet J Rare Dis. 2011;6:70.
+  doi: 10.1186/1750-1172-6-70
+  pmid: '22044607'
+  pmcid: null
+  license_note: CC BY 2.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1178
+  legacy_id: null
+  title: 'Oshima J, Sidorova JM, Monnat RJ Jr. Werner syndrome: Clinical features, pathogenesis and potential therapeutic interventions. Ageing Res Rev. 2017;33:105-114.'
+  citation: 'Oshima J, Sidorova JM, Monnat RJ Jr. Werner syndrome: Clinical features, pathogenesis and potential therapeutic interventions. Ageing Res Rev. 2017;33:105-114.'
+  doi: 10.1016/j.arr.2016.03.002
+  pmid: '26993153'
+  pmcid: null
+  license_note: © 2016 Elsevier B.V.（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1179
+  legacy_id: null
+  title: Coon EA, Cheshire WP Jr. Sweating Disorders. Continuum (Minneap Minn). 2020;26(1):116-137.
+  citation: Coon EA, Cheshire WP Jr. Sweating Disorders. Continuum (Minneap Minn). 2020;26(1):116-137.
+  doi: 10.1212/CON.0000000000000813
+  pmid: '31996625'
+  pmcid: null
+  license_note: CC表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1180
+  legacy_id: null
+  title: 'Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):147-159.'
+  citation: 'Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):147-159.'
+  doi: 10.1093/cid/ciu296
+  pmid: '24947530'
+  pmcid: null
+  license_note: © The Author 2014, Oxford University Press（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1181
+  legacy_id: null
+  title: 'Raff AB, Kroshinsky D. Cellulitis: A Review. JAMA. 2016;316(3):325-337.'
+  citation: 'Raff AB, Kroshinsky D. Cellulitis: A Review. JAMA. 2016;316(3):325-337.'
+  doi: 10.1001/jama.2016.8825
+  pmid: '27434444'
+  pmcid: null
+  license_note: © American Medical Association（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1182
+  legacy_id: null
+  title: 厚生労働省. 抗微生物薬適正使用の手引き 第四版 医科・外来編. 2026.
+  citation: 厚生労働省. 抗微生物薬適正使用の手引き 第四版 医科・外来編. 2026.
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府刊行物（厚生労働省）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1183
+  legacy_id: null
+  title: 'Nardi NM, McDonald EJ, Syed HA, Schaefer TJ. Felon. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024.'
+  citation: 'Nardi NM, McDonald EJ, Syed HA, Schaefer TJ. Felon. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024.'
+  doi: null
+  pmid: '28613683'
+  pmcid: null
+  license_note: © 2024 StatPearls Publishing LLC
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1184
+  legacy_id: null
+  title: Koning S, van der Sande R, Verhagen AP, et al. Interventions for impetigo. Cochrane Database Syst Rev. 2012;(1):CD003261.
+  citation: Koning S, van der Sande R, Verhagen AP, et al. Interventions for impetigo. Cochrane Database Syst Rev. 2012;(1):CD003261.
+  doi: 10.1002/14651858.CD003261.pub3
+  pmid: '22258953'
+  pmcid: null
+  license_note: © The Cochrane Collaboration（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1185
+  legacy_id: null
+  title: 'Handler MZ, Schwartz RA. Staphylococcal scalded skin syndrome: diagnosis and management in children and adults. J Eur Acad Dermatol Venereol. 2014;28(11):1418-1423.'
+  citation: 'Handler MZ, Schwartz RA. Staphylococcal scalded skin syndrome: diagnosis and management in children and adults. J Eur Acad Dermatol Venereol. 2014;28(11):1418-1423.'
+  doi: 10.1111/jdv.12541
+  pmid: '24841497'
+  pmcid: null
+  license_note: © European Academy of Dermatology and Venereology（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1186
+  legacy_id: null
+  title: Stevens DL, Bryant AE. Necrotizing Soft-Tissue Infections. N Engl J Med. 2017;377(23):2253-2265.
+  citation: Stevens DL, Bryant AE. Necrotizing Soft-Tissue Infections. N Engl J Med. 2017;377(23):2253-2265.
+  doi: 10.1056/NEJMra1600673
+  pmid: '29211672'
+  pmcid: null
+  license_note: © Massachusetts Medical Society（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1187
+  legacy_id: null
+  title: Franco-Paredes C, Marcos LA, Henao-Martínez AF, et al. Cutaneous Mycobacterial Infections. Clin Microbiol Rev. 2019;32(1):e00069-18.
+  citation: Franco-Paredes C, Marcos LA, Henao-Martínez AF, et al. Cutaneous Mycobacterial Infections. Clin Microbiol Rev. 2019;32(1):e00069-18.
+  doi: 10.1128/CMR.00069-18
+  pmid: '30429139'
+  pmcid: null
+  license_note: © American Society for Microbiology（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1188
+  legacy_id: null
+  title: Caplan AS, Gold JAW, Smith DJ, Ely JW. Diagnosis and Management of Tinea Infections. Am Fam Physician. 2025;112(4):382-392.
+  citation: Caplan AS, Gold JAW, Smith DJ, Ely JW. Diagnosis and Management of Tinea Infections. Am Fam Physician. 2025;112(4):382-392.
+  doi: null
+  pmid: '41118183'
+  pmcid: null
+  license_note: © American Academy of Family Physicians（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1189
+  legacy_id: null
+  title: 'Leung AKC, Barankin B, Lam JM, Leong KF, Hon KL. Tinea versicolor: an updated review. Drugs Context. 2022;11:2022-9-2.'
+  citation: 'Leung AKC, Barankin B, Lam JM, Leong KF, Hon KL. Tinea versicolor: an updated review. Drugs Context. 2022;11:2022-9-2.'
+  doi: 10.7573/dic.2022-9-2
+  pmid: '36452877'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1190
+  legacy_id: null
+  title: Barros MBL, de Almeida Paes R, Schubach AO. Sporothrix schenckii and Sporotrichosis. Clin Microbiol Rev. 2011;24(4):633-654.
+  citation: Barros MBL, de Almeida Paes R, Schubach AO. Sporothrix schenckii and Sporotrichosis. Clin Microbiol Rev. 2011;24(4):633-654.
+  doi: 10.1128/CMR.00007-11
+  pmid: '21976602'
+  pmcid: null
+  license_note: © American Society for Microbiology（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1191
+  legacy_id: null
+  title: 'Ishii N, Asai T, Asahina A, Ishiko A, et al. Guideline for the diagnosis and treatment of scabies in Japan (third edition): Executive Committee of Guideline for the Diagnosis and Treatment of Scabies. J Dermatol. 2017;44(9):991-1014.'
+  citation: 'Ishii N, Asai T, Asahina A, Ishiko A, et al. Guideline for the diagnosis and treatment of scabies in Japan (third edition): Executive Committee of Guideline for the Diagnosis and Treatment of Scabies. J Dermatol. 2017;44(9):991-1014.'
+  doi: 10.1111/1346-8138.13896
+  pmid: '28561292'
+  pmcid: null
+  license_note: © Japanese Dermatological Association（Wiley、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1192
+  legacy_id: null
+  title: 'Fatahzadeh M, Schwartz RA. Human herpes simplex virus infections: epidemiology, pathogenesis, symptomatology, diagnosis, and management. J Am Acad Dermatol. 2007;57(5):737-763.'
+  citation: 'Fatahzadeh M, Schwartz RA. Human herpes simplex virus infections: epidemiology, pathogenesis, symptomatology, diagnosis, and management. J Am Acad Dermatol. 2007;57(5):737-763.'
+  doi: 10.1016/j.jaad.2007.06.027
+  pmid: '17939933'
+  pmcid: null
+  license_note: © American Academy of Dermatology（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1193
+  legacy_id: null
+  title: 'Wollenberg A, Zoch C, Wetzel S, Plewig G, et al. Predisposing factors and clinical features of eczema herpeticum: a retrospective analysis of 100 cases. J Am Acad Dermatol. 2003;49(2):198-205.'
+  citation: 'Wollenberg A, Zoch C, Wetzel S, Plewig G, et al. Predisposing factors and clinical features of eczema herpeticum: a retrospective analysis of 100 cases. J Am Acad Dermatol. 2003;49(2):198-205.'
+  doi: 10.1067/s0190-9622(03)00896-x
+  pmid: '12894065'
+  pmcid: null
+  license_note: © American Academy of Dermatology（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1194
+  legacy_id: null
+  title: Sterling JC, Gibbs S, Haque Hussain SS, Mohd Mustapa MF, et al. British Association of Dermatologists' guidelines for the management of cutaneous warts 2014. Br J Dermatol. 2014;171(4):696-712.
+  citation: Sterling JC, Gibbs S, Haque Hussain SS, Mohd Mustapa MF, et al. British Association of Dermatologists' guidelines for the management of cutaneous warts 2014. Br J Dermatol. 2014;171(4):696-712.
+  doi: 10.1111/bjd.13310
+  pmid: '25273231'
+  pmcid: null
+  license_note: © British Association of Dermatologists（Wiley、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1195
+  legacy_id: null
+  title: Reynolds RV, Yeung H, Cheng CE, Cook-Bolden F, et al. Guidelines of care for the management of acne vulgaris. J Am Acad Dermatol. 2024;90(5):1006.e1-1006.e30.
+  citation: Reynolds RV, Yeung H, Cheng CE, Cook-Bolden F, et al. Guidelines of care for the management of acne vulgaris. J Am Acad Dermatol. 2024;90(5):1006.e1-1006.e30.
+  doi: 10.1016/j.jaad.2023.12.017
+  pmid: '38300170'
+  pmcid: null
+  license_note: © American Academy of Dermatology（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1196
+  legacy_id: null
+  title: 'Strazzulla LC, Wang EHC, Avila L, Lo Sicco K, et al. Alopecia areata: Disease characteristics, clinical evaluation, and new perspectives on pathogenesis. J Am Acad Dermatol. 2018;78(1):1-12.'
+  citation: 'Strazzulla LC, Wang EHC, Avila L, Lo Sicco K, et al. Alopecia areata: Disease characteristics, clinical evaluation, and new perspectives on pathogenesis. J Am Acad Dermatol. 2018;78(1):1-12.'
+  doi: 10.1016/j.jaad.2017.04.1141
+  pmid: '29241771'
+  pmcid: null
+  license_note: © American Academy of Dermatology（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1197
+  legacy_id: null
+  title: 'Wang J, Khachemoune A. Granuloma Annulare: A Focused Review of Therapeutic Options. Am J Clin Dermatol. 2018;19(3):333-344.'
+  citation: 'Wang J, Khachemoune A. Granuloma Annulare: A Focused Review of Therapeutic Options. Am J Clin Dermatol. 2018;19(3):333-344.'
+  doi: 10.1007/s40257-017-0334-5
+  pmid: '29230666'
+  pmcid: null
+  license_note: © Springer（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1198
+  legacy_id: null
+  title: 'Miguel D, Schliemann S, Elsner P. Treatment of Scleroedema Adultorum Buschke: A Systematic Review. Acta Derm Venereol. 2018;98(3):305-309.'
+  citation: 'Miguel D, Schliemann S, Elsner P. Treatment of Scleroedema Adultorum Buschke: A Systematic Review. Acta Derm Venereol. 2018;98(3):305-309.'
+  doi: 10.2340/00015555-2846
+  pmid: '29136263'
+  pmcid: null
+  license_note: © Society for Publication of Acta Dermato-Venereologica（CC表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1199
+  legacy_id: null
+  title: 'Fatourechi V. Pretibial myxedema: pathophysiology and treatment options. Am J Clin Dermatol. 2005;6(5):295-309.'
+  citation: 'Fatourechi V. Pretibial myxedema: pathophysiology and treatment options. Am J Clin Dermatol. 2005;6(5):295-309.'
+  doi: 10.2165/00128071-200506050-00003
+  pmid: '16252929'
+  pmcid: null
+  license_note: © Adis（Springer、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1200
+  legacy_id: null
+  title: 'Ely JW, Seabury Stone M. The generalized rash: part II. Diagnostic approach. Am Fam Physician. 2010;81(6):735-739.'
+  citation: 'Ely JW, Seabury Stone M. The generalized rash: part II. Diagnostic approach. Am Fam Physician. 2010;81(6):735-739.'
+  doi: null
+  pmid: '20229972'
+  pmcid: null
+  license_note: © American Academy of Family Physicians（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1201
+  legacy_id: null
+  title: Dinnes J, Deeks JJ, Chuchu N, Matin RN, et al. Visual inspection and dermoscopy, alone or in combination, for diagnosing keratinocyte skin cancers in adults. Cochrane Database Syst Rev. 2018;12(12):CD011901.
+  citation: Dinnes J, Deeks JJ, Chuchu N, Matin RN, et al. Visual inspection and dermoscopy, alone or in combination, for diagnosing keratinocyte skin cancers in adults. Cochrane Database Syst Rev. 2018;12(12):CD011901.
+  doi: 10.1002/14651858.CD011901.pub2
+  pmid: '30521688'
+  pmcid: null
+  license_note: © The Cochrane Collaboration（Wiley、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1202
+  legacy_id: null
+  title: Uter W, Aerts O, Agner T, Brans R, et al. European Society of Contact Dermatitis Guideline for Diagnostic Patch Testing - Recommendations on Best Practice. Contact Dermatitis. 2026;95(3):237-275.
+  citation: Uter W, Aerts O, Agner T, Brans R, et al. European Society of Contact Dermatitis Guideline for Diagnostic Patch Testing - Recommendations on Best Practice. Contact Dermatitis. 2026;95(3):237-275.
+  doi: 10.1111/cod.70195
+  pmid: '42324086'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1203
+  legacy_id: null
+  title: Alguire PC, Mathes BM. Skin biopsy techniques for the internist. J Gen Intern Med. 1998;13(1):46-54.
+  citation: Alguire PC, Mathes BM. Skin biopsy techniques for the internist. J Gen Intern Med. 1998;13(1):46-54.
+  doi: 10.1046/j.1525-1497.1998.00009.x
+  pmid: '9462495'
+  pmcid: null
+  license_note: © Society of General Internal Medicine（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1204
+  legacy_id: null
+  title: Ponka D, Baddar F. Microscopic potassium hydroxide preparation. Can Fam Physician. 2014;60(1):57.
+  citation: Ponka D, Baddar F. Microscopic potassium hydroxide preparation. Can Fam Physician. 2014;60(1):57.
+  doi: null
+  pmid: '24452564'
+  pmcid: null
+  license_note: © College of Family Physicians of Canada（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1205
+  legacy_id: null
+  title: Millington GWM, Collins A, Lovell CR, Leslie TA, et al. British Association of Dermatologists' guidelines for the investigation and management of generalized pruritus in adults without an underlying dermatosis, 2018. Br J Dermatol. 2018;178(1):34-60.
+  citation: Millington GWM, Collins A, Lovell CR, Leslie TA, et al. British Association of Dermatologists' guidelines for the investigation and management of generalized pruritus in adults without an underlying dermatosis, 2018. Br J Dermatol. 2018;178(1):34-60.
+  doi: 10.1111/bjd.16117
+  pmid: '29357600'
+  pmcid: null
+  license_note: © British Association of Dermatologists（Wiley、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1206
+  legacy_id: null
+  title: Wallace DK, Flaxel CJ, Gedde SJ, Jacobs DS, et al. Comprehensive Adult Medical Eye Evaluation Preferred Practice Pattern. Ophthalmology. 2026;133(4):P202-P236.
+  citation: Wallace DK, Flaxel CJ, Gedde SJ, Jacobs DS, et al. Comprehensive Adult Medical Eye Evaluation Preferred Practice Pattern. Ophthalmology. 2026;133(4):P202-P236.
+  doi: 10.1016/j.ophtha.2025.12.031
+  pmid: '41670577'
+  pmcid: null
+  license_note: © American Academy of Ophthalmology（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1207
+  legacy_id: null
+  title: Tarnutzer AA, Strupp ML, Lehner L. An update on neuro-otology and neuro-ophthalmology - focusing on new developments in the last three years. J Neurol. 2026;273(11).
+  citation: Tarnutzer AA, Strupp ML, Lehner L. An update on neuro-otology and neuro-ophthalmology - focusing on new developments in the last three years. J Neurol. 2026;273(11).
+  doi: 10.1007/s00415-026-14153-w
+  pmid: '42859937'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1208
+  legacy_id: null
+  title: 'Tunkel DE, Anne S, Payne SC, Ishman SL, et al. Clinical Practice Guideline: Nosebleed (Epistaxis). Otolaryngol Head Neck Surg. 2020;162(1_suppl):S1-S38.'
+  citation: 'Tunkel DE, Anne S, Payne SC, Ishman SL, et al. Clinical Practice Guideline: Nosebleed (Epistaxis). Otolaryngol Head Neck Surg. 2020;162(1_suppl):S1-S38.'
+  doi: 10.1177/0194599819890327
+  pmid: '31910111'
+  pmcid: null
+  license_note: © American Academy of Otolaryngology-Head and Neck Surgery Foundation（SAGE、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1209
+  legacy_id: null
+  title: 'Stachler RJ, Francis DO, Schwartz SR, Damask CC, et al. Clinical Practice Guideline: Hoarseness (Dysphonia) (Update). Otolaryngol Head Neck Surg. 2018;158(1_suppl):S1-S42.'
+  citation: 'Stachler RJ, Francis DO, Schwartz SR, Damask CC, et al. Clinical Practice Guideline: Hoarseness (Dysphonia) (Update). Otolaryngol Head Neck Surg. 2018;158(1_suppl):S1-S42.'
+  doi: 10.1177/0194599817751030
+  pmid: '29494321'
+  pmcid: null
+  license_note: © American Academy of Otolaryngology-Head and Neck Surgery Foundation（SAGE、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
+- id: SRC-1210
+  legacy_id: null
+  title: 'Pynnonen MA, Gillespie MB, Roman B, Rosenfeld RM, et al. Clinical Practice Guideline: Evaluation of the Neck Mass in Adults. Otolaryngol Head Neck Surg. 2017;157(2_suppl):S1-S30.'
+  citation: 'Pynnonen MA, Gillespie MB, Roman B, Rosenfeld RM, et al. Clinical Practice Guideline: Evaluation of the Neck Mass in Adults. Otolaryngol Head Neck Surg. 2017;157(2_suppl):S1-S30.'
+  doi: 10.1177/0194599817722550
+  pmid: '28891406'
+  pmcid: null
+  license_note: © American Academy of Otolaryngology-Head and Neck Surgery Foundation（SAGE、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/24_ds_b.md の出典マスター表から
