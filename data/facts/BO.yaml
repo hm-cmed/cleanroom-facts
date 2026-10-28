@@ -1,0 +1,945 @@
+- id: BO-001
+  domain: BO
+  subdomain: 骨軟骨腫
+  assertion:
+    plain_statement_ja: 骨軟骨腫は最も多い良性骨腫瘍であり、85%が単発性で、15%が常染色体優性遺伝の多発性外骨腫症に伴う。成人で軟骨帽の厚さが2cmを超える場合や、骨成長板閉鎖後の疼痛出現・増大は悪性転化を示唆する所見である。
+    condition:
+      population: 骨軟骨腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1893
+    source: 'Tepelenis K, Papathanakos G, Kitsouli A, et al. Osteochondromas: An Updated Review of Epidemiology, Pathogenesis, Clinical Presentation, Radiological Features and Treatment Options. In Vivo. 2021;35(2):681-691（PMCID: PMC8045119）'
+    doi: 10.21873/invivo.12308
+    pmid: '33622860'
+    pmcid: null
+    url: https://doi.org/10.21873/invivo.12308
+    source_license: © International Institute of Anticancer Research（In Vivo、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 好発部位（長管骨の骨幹端）や有茎性・広基性の形態は抄録の記述に基づく一般像であり、本カードの数値（85%/15%、軟骨帽2cm）はこの総説の記載による。国内の診療指針での扱いは別途確認を要する。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-A-①（骨軟骨腫、b）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-002
+  domain: BO
+  subdomain: 内軟骨腫
+  assertion:
+    plain_statement_ja: 内軟骨腫は四肢長管骨に生じる良性軟骨腫瘍で、病的骨折で発症することが多い。多発性に生じる場合は Ollier 病と呼ばれ、軟骨肉腫への悪性転化を早期に捉えるため定期的な画像経過観察を要する。
+    condition:
+      population: 内軟骨腫・Ollier 病患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1894
+    source: 'Kramer HD, Valentine MJ, Pettinelli N, et al. Ollier Disease: A Case Report and Review of Treatment Options. Cureus. 2023;15(8):e43815（PMCID: PMC10509006）'
+    doi: 10.7759/cureus.43815
+    pmid: '37731444'
+    pmcid: null
+    url: https://doi.org/10.7759/cureus.43815
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 出典は Ollier 病の症例報告と治療選択肢の総説であり、単発性内軟骨腫に限った疫学・自然史の数値は確認していない。単発例と多発例で悪性転化のリスクは異なる点に注意。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-A-②（内軟骨腫、b）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-003
+  domain: BO
+  subdomain: 類骨骨腫
+  assertion:
+    plain_statement_ja: 類骨骨腫は若年に多い良性骨腫瘍で、夜間に増悪し非ステロイド性抗炎症薬で軽快する疼痛を特徴とし、画像では骨硬化・皮質肥厚・周囲の骨髄浮腫を伴う透亮像（nidus）が診断の鍵となる。
+    condition:
+      population: 類骨骨腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1895
+    source: 'Carneiro BC, Da Cruz IAN, Ormond Filho AG, et al. Osteoid osteoma: the great mimicker. Insights Imaging. 2021;12(1):32（PMCID: PMC7940467）'
+    doi: 10.1186/s13244-021-00978-8
+    pmid: '33683492'
+    pmcid: null
+    url: https://doi.org/10.1186/s13244-021-00978-8
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 男女比などの疫学数値は抄録で確認できなかったため命題に含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-A-③（類骨骨腫、c）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-004
+  domain: BO
+  subdomain: 骨巨細胞腫
+  assertion:
+    plain_statement_ja: 骨巨細胞腫は組織学的には良性だが局所侵襲性を示し転移する能力を持つ腫瘍で、若年成人の長管骨の関節近傍（骨端部）に好発し、一部の患者では肺転移を生じる。
+    condition:
+      population: 骨巨細胞腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1896
+    source: 'Sobti A, Agrawal P, Agarwala S, Agarwal M. Giant Cell Tumor of Bone - An Overview. Arch Bone Jt Surg. 2016;4(1):2-9（PMCID: PMC4733230）'
+    doi: null
+    pmid: '26894211'
+    pmcid: null
+    url: null
+    source_license: ライセンス未確認（PMC 収載版に CC 表示を確認できず）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 「骨端部」は出典抄録の「関節近傍（peri-articular / near a joint）」の解剖学的表現として併記した。肺転移の頻度の数値は出典抄録に明示がなく命題に含めていない。本出典には DOI が付与されていない（出典表参照）。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-A-④（骨巨細胞腫、c）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-005
+  domain: BO
+  subdomain: 骨巨細胞腫
+  assertion:
+    plain_statement_ja: 抗 RANKL 抗体デノスマブは骨巨細胞腫に有効であり、切除不能例で長期の病勢制御が得られ、手術により重篤な機能障害が見込まれる切除可能例では、投与開始後6か月の時点で92%の患者が手術を受けずに済んだ。
+    condition:
+      population: 切除不能または手術で重篤な障害が見込まれる骨巨細胞腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1897
+    source: 'Chawla S, Blay JY, Rutkowski P, et al. Denosumab in patients with giant-cell tumour of bone: a multicentre, open-label, phase 2 study. Lancet Oncol. 2019;20(12):1719-1729'
+    doi: 10.1016/S1470-2045(19)30663-1
+    pmid: '31704134'
+    pmcid: null
+    url: https://doi.org/10.1016/S1470-2045(19)30663-1
+    source_license: © Elsevier（The Lancet Oncology、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: デノスマブ（ランマーク皮下注120mg）は国内で2014年5月に「骨巨細胞腫」の効能追加が承認され保険適用があることを、製造販売業者（第一三共）の公表資料と PMDA の審査資料で確認した。投与中止後の再燃や術前投与時の掻爬後の再発については本試験の抄録範囲を超えるため命題に含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-A-④（骨巨細胞腫、c）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-006
+  domain: BO
+  subdomain: 骨肉腫
+  assertion:
+    plain_statement_ja: 骨肉腫は小児・若年に最も多い原発性悪性骨腫瘍で、思春期の成長スパート期（10〜14歳）に発症のピークがあり、長管骨の骨幹端に好発する。部位は大腿骨（42%、うち75%が遠位）、脛骨（19%、うち80%が近位）の順に多い。
+    condition:
+      population: 骨肉腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1898
+    source: Ottaviani G, Jaffe N. The epidemiology of osteosarcoma. Cancer Treat Res. 2009;152:3-13
+    doi: 10.1007/978-1-4419-0284-9_1
+    pmid: '20213383'
+    pmcid: null
+    url: https://doi.org/10.1007/978-1-4419-0284-9_1
+    source_license: © Springer（Cancer Treatment and Research 収載の章、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 頻度の数値は米国の登録データに基づく本章の記載であり、国内の発生頻度とは異なる可能性がある。高齢者の第二のピーク（Paget 病に続発するものなど）は命題に含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-B-①（骨肉腫、b）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)；TBL-01-00-638 (id: Jlvnmbo)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-007
+  domain: BO
+  subdomain: 骨肉腫
+  assertion:
+    plain_statement_ja: 高悪性度骨肉腫の化学療法では、高用量メトトレキサート・ドキソルビシン・シスプラチンの3剤併用（MAP療法）が最も有効なレジメンの一つとして確立しており、多剤併用化学療法の導入により限局性骨肉腫の長期生存率は20%未満から65〜70%へ改善した。治療には腫瘍の完全切除を伴う手術が組み合わされる。
+    condition:
+      population: 限局性高悪性度骨肉腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1899
+    source: 'Isakoff MS, Bielack SS, Meltzer P, Gorlick R. Osteosarcoma: Current Treatment and a Collaborative Pathway to Success. J Clin Oncol. 2015;33(27):3029-3035（PMCID: PMC4979196）'
+    doi: 10.1200/JCO.2014.59.4895
+    pmid: '26304877'
+    pmcid: null
+    url: https://doi.org/10.1200/JCO.2014.59.4895
+    source_license: © American Society of Clinical Oncology（Journal of Clinical Oncology、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 薬剤名のあるカードとしての注記：MAP 療法を構成する3薬剤はいずれも国内承認薬であるが、骨肉腫に対する適応・保険適用の文言は本作成では添付文書で個別に確認していない。患肢温存術の適応判断や切除縁の詳細は本出典の抄録範囲を超えるため命題に含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-B-①（骨肉腫、b）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)；TBL-01-00-638 (id: Jlvnmbo)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-008
+  domain: BO
+  subdomain: 骨肉腫
+  assertion:
+    plain_statement_ja: 骨肉腫では、血清アルカリホスファターゼ（ALP）高値は全生存率の低下と関連する予後不良因子である（メタ解析における高 ALP 群の死亡ハザード比 1.60、95%信頼区間 1.38〜1.86）。
+    condition:
+      population: 骨肉腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1900
+    source: Gu R, Sun Y. Does serum alkaline phosphatase level really indicate the prognosis in patients with osteosarcoma? A meta-analysis. J Cancer Res Ther. 2018;14(Supplement):S468-S472
+    doi: 10.4103/0973-1482.177217
+    pmid: '29970708'
+    pmcid: null
+    url: https://doi.org/10.4103/0973-1482.177217
+    source_license: ライセンス未確認（Journal of Cancer Research and Therapeutics、CC 表示を確認できず）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: ALP のカットオフ値は各原著研究で異なり統一されていない。治療反応性や腫瘍量の指標としての位置づけは本メタ解析の範囲を超える。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-B-①（骨肉腫、b）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)；TBL-01-00-638 (id: Jlvnmbo)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-009
+  domain: BO
+  subdomain: 軟骨肉腫
+  assertion:
+    plain_statement_ja: 従来型軟骨肉腫は化学療法・放射線療法に抵抗性であり、治療の主体は外科的切除で、中悪性度・高悪性度のものでは広範な一塊切除が望ましい治療である。
+    condition:
+      population: 軟骨肉腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1901
+    source: Gelderblom H, Hogendoorn PC, Dijkstra SD, et al. The clinical approach towards chondrosarcoma. Oncologist. 2008;13(3):320-329
+    doi: 10.1634/theoncologist.2007-0237
+    pmid: '18378543'
+    pmcid: null
+    url: https://doi.org/10.1634/theoncologist.2007-0237
+    source_license: ライセンス未確認（The Oncologist、Crossref の license 欄は標準出版モデルのみで CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典は2008年の総説であり、その後の分子標的治療（IDH 変異など）の進展は反映されていない。中高年好発という年齢分布は本出典の抄録では明示されておらず命題に含めていない。 化学療法の個別薬剤の国内承認・保険適用は、本カードの命題（化学療法抵抗性）には直接関係しないため未確認。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-B-②（軟骨肉腫、b）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)；TBL-01-00-639 (id: Jlvnmbs)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-010
+  domain: BO
+  subdomain: Ewing肉腫
+  assertion:
+    plain_statement_ja: Ewing肉腫は小児・思春期で2番目に多い骨腫瘍で、EWSR1-FLI1 融合遺伝子（85%）を特徴とし、治療は手術・放射線治療・多剤併用化学療法を組み合わせた集学的治療が標準で、限局例の生存率は70〜80%である。
+    condition:
+      population: Ewing肉腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1902
+    source: Grünewald TGP, Cidre-Aranaz F, Surdez D, et al. Ewing sarcoma. Nat Rev Dis Primers. 2018;4(1):5
+    doi: 10.1038/s41572-018-0003-x
+    pmid: '29977059'
+    pmcid: null
+    url: https://doi.org/10.1038/s41572-018-0003-x
+    source_license: © Springer Nature（Nature Reviews Disease Primers、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: onion-peel 状骨膜反応は古典的な画像所見として知られるが、本出典の抄録では明示されなかったため命題に含めていない。使用薬剤（ビンクリスチン、ドキソルビシン、シクロホスファミド、イホスファミド、エトポシドなど）の国内承認はいずれも抗悪性腫瘍薬として承認済みの薬剤だが、Ewing肉腫への適応文言は個別に確認していない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-B-③（Ewing肉腫、b）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)；TBL-01-00-640 (id: Jlvnmb0)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-011
+  domain: BO
+  subdomain: 脊索腫
+  assertion:
+    plain_statement_ja: 脊索腫は脊索の遺残組織から発生すると考えられる悪性骨腫瘍で、仙骨・頭蓋底（斜台）・脊椎の体軸正中部に好発し、可動脊椎・仙骨病変では広い切除縁での一塊切除と術後放射線治療が標準治療である。
+    condition:
+      population: 脊索腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1903
+    source: 'Walcott BP, Nahed BV, Mohyeldin A, et al. Chordoma: current concepts, management, and future directions. Lancet Oncol. 2012;13(2):e69-76'
+    doi: 10.1016/S1470-2045(11)70337-0
+    pmid: '22300861'
+    pmcid: null
+    url: https://doi.org/10.1016/S1470-2045(11)70337-0
+    source_license: © Elsevier（The Lancet Oncology、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: brachyury の発現や TBXT 遺伝子については本出典の抄録で数値・頻度を確認できなかったため命題に含めていない。粒子線治療の国内実施体制は本カードの範囲外。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-B-④（脊索腫、c）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-012
+  domain: BO
+  subdomain: 転移性骨腫瘍
+  assertion:
+    plain_statement_ja: 骨転移の過半数は乳癌と前立腺癌によるものであり、骨転移は疼痛、病的骨折、脊髄圧迫、高カルシウム血症などの骨関連事象を引き起こし、病的状態の主要な原因となる。骨転移は原発性骨腫瘍よりはるかに頻度が高い。
+    condition:
+      population: 骨転移を有するがん患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1904
+    source: 'Macedo F, Ladeira K, Pinho F, et al. Bone Metastases: An Overview. Oncol Rev. 2017;11(1):321（PMCID: PMC5444408）'
+    doi: 10.4081/oncol.2017.321
+    pmid: '28584570'
+    pmcid: null
+    url: https://doi.org/10.4081/oncol.2017.321
+    source_license: CC BY-NC 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 原発巣の全身治療は本カードの対象外（転移巣の病態に限定）。肺癌・腎癌など他の原発の頻度順位は本出典の本文記載にばらつきがあるため、命題は過半数を占める乳癌・前立腺癌に絞った。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-C（転移性骨腫瘍、a）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)；TBL-01-00-641 (id: Jlvnmb8)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-013
+  domain: BO
+  subdomain: 転移性骨腫瘍
+  assertion:
+    plain_statement_ja: 転移性骨腫瘍の管理では、ビスホスホネートや抗 RANKL 抗体デノスマブなどの骨修飾薬が骨折などの骨関連事象の予防・遅延に用いられ、局所の骨痛には放射線治療が選択され、切迫骨折には内固定と術後照射、長管骨・股関節の骨折や脊髄圧迫には手術が適応となる。
+    condition:
+      population: 骨転移を有するがん患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1904
+    source: 'Macedo F, Ladeira K, Pinho F, et al. Bone Metastases: An Overview. Oncol Rev. 2017;11(1):321（PMCID: PMC5444408）'
+    doi: 10.4081/oncol.2017.321
+    pmid: '28584570'
+    pmcid: null
+    url: https://doi.org/10.4081/oncol.2017.321
+    source_license: CC BY-NC 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 薬剤名のあるカードとしての注記：デノスマブ（ランマーク皮下注120mg）は国内で「多発性骨髄腫による骨病変及び固形癌骨転移による骨病変」の効能で2012年に承認され保険適用があることを PMDA 資料で確認した。ゾレドロン酸（ゾメタ）も国内承認薬だが、効能文言の個別照合は本作成では行っていない。投与間隔の最適化（12週ごと投与など）は本出典の範囲外。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-C（転移性骨腫瘍、a）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)；TBL-01-00-641 (id: Jlvnmb8)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-014
+  domain: BO
+  subdomain: 単発性骨囊腫
+  assertion:
+    plain_statement_ja: 単発性骨囊腫は骨未成熟の患者の上腕骨近位・大腿骨近位に好発する良性病変で、病的骨折で発見されることが多く、画像では骨幹端の中央に位置する透亮像と皮質の菲薄化を示す。
+    condition:
+      population: 骨未成熟の単発性骨囊腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1905
+    source: 'Pretell-Mazzini J, Murphy RF, Kushare I, Dormans JP. Unicameral bone cysts: general characteristics and management controversies. J Am Acad Orthop Surg. 2014;22(5):295-303'
+    doi: 10.5435/JAAOS-22-05-295
+    pmid: '24788445'
+    pmcid: null
+    url: https://doi.org/10.5435/JAAOS-22-05-295
+    source_license: © American Academy of Orthopaedic Surgeons（JAAOS、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 治療（経過観察、穿刺・注入、掻爬など）の優劣は確立しておらず、本出典でも管理方法に定まった標準はないとされているため、治療の命題は立てていない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-D-①（単発性骨囊腫、c）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-015
+  domain: BO
+  subdomain: 動脈瘤様骨囊腫
+  assertion:
+    plain_statement_ja: 動脈瘤様骨囊腫は10〜20代に多く、骨幹端の膨隆した透亮性病変として現れ、MRI で fluid-fluid level を示し、組織学的には血液で満たされた腔が線維性組織に隔てられた構造である。治療の主体は掻爬と骨移植である。
+    condition:
+      population: 動脈瘤様骨囊腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1906
+    source: Rapp TB, Ward JP, Alaia MJ. Aneurysmal bone cyst. J Am Acad Orthop Surg. 2012;20(4):233-241
+    doi: 10.5435/JAAOS-20-04-233
+    pmid: '22474093'
+    pmcid: null
+    url: https://doi.org/10.5435/JAAOS-20-04-233
+    source_license: © American Academy of Orthopaedic Surgeons（JAAOS、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: USP6 遺伝子再構成などの分子病理や、続発性（他の腫瘍に伴う）動脈瘤様骨囊腫の頻度は本出典の抄録範囲を超えるため命題に含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-D-②（動脈瘤様骨囊腫、c）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-016
+  domain: BO
+  subdomain: 線維性骨異形成
+  assertion:
+    plain_statement_ja: 線維性骨異形成は GNAS 遺伝子の体細胞機能獲得変異によるモザイク疾患で、単純X線ではすりガラス状陰影が特徴であり、骨病変にカフェオレ斑や思春期早発症などの骨外病変を伴うものが McCune-Albright 症候群である。
+    condition:
+      population: 線維性骨異形成・McCune-Albright 症候群患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1907
+    source: 'Javaid MK, Boyce A, Appelman-Dijkstra N, et al. Best practice management guidelines for fibrous dysplasia/McCune-Albright syndrome: a consensus statement from the FD/MAS international consortium. Orphanet J Rare Dis. 2019;14(1):139（PMCID: PMC6567644）'
+    doi: 10.1186/s13023-019-1102-9
+    pmid: '31196103'
+    pmcid: null
+    url: https://doi.org/10.1186/s13023-019-1102-9
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: すりガラス状陰影と症候群の定義はガイドライン本文（全文）で確認し、抄録のみでは確認できない内容であることを明記する。ビスホスホネートの疼痛への使用など治療の詳細は本カードの範囲外。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-D-③（線維性骨異形成、c）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-017
+  domain: BO
+  subdomain: 脂肪腫
+  assertion:
+    plain_statement_ja: 四肢の脂肪性腫瘍は最も多い軟部病変で、その大部分は良性の脂肪腫である。ただし筋膜より深部にあり長径5cmを超える脂肪性病変は、異型脂肪性腫瘍や脱分化型脂肪肉腫との鑑別のため、経皮生検（MDM2 遺伝子増幅の検出を含む）による精査を要する。
+    condition:
+      population: 四肢の脂肪性軟部腫瘍患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1908
+    source: Le Nail LR, Crenn V, Rosset P, Ropars M. Management of adipose tumors in the limbs. Orthop Traumatol Surg Res. 2022;108(1S):103162
+    doi: 10.1016/j.otsr.2021.103162
+    pmid: '34863958'
+    pmcid: null
+    url: https://doi.org/10.1016/j.otsr.2021.103162
+    source_license: © Elsevier Masson SAS（著作権表示あり・CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 出典は四肢の脂肪性腫瘍に関するフランスの専門家グループの総説であり、体幹・後腹膜の脂肪性腫瘍の扱いは異なる場合がある。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-E-①（脂肪腫、b）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-018
+  domain: BO
+  subdomain: 血管腫
+  assertion:
+    plain_statement_ja: 筋肉内血管腫は緩徐に経過する軟部腫瘤で軟部肉腫と紛らわしいことがあるが、画像では境界明瞭で分葉状を呈し、内部に脂肪・血管チャンネル・石灰化（静脈石）を伴うことが特徴である。
+    condition:
+      population: 筋肉内血管腫の成人患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1909
+    source: 'Griffin N, Khan N, Thomas JM, Fisher C, Moskovic EC. The radiological manifestations of intramuscular haemangiomas in adults: magnetic resonance imaging, computed tomography and ultrasound appearances. Skeletal Radiol. 2007;36(11):1051-1059'
+    doi: 10.1007/s00256-007-0375-6
+    pmid: '17849114'
+    pmcid: null
+    url: https://doi.org/10.1007/s00256-007-0375-6
+    source_license: © Springer（Skeletal Radiology、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 出典は2007年の単施設の画像検討であり、ISSVA 分類に基づく血管奇形との鑑別や、乳児血管腫（GLUT1 陽性）とは対象が異なる。治療（切除・塞栓など）の適応は本出典の範囲外。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-E-②（血管腫、b）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-019
+  domain: BO
+  subdomain: 神経鞘腫
+  assertion:
+    plain_statement_ja: 神経鞘腫は末梢神経腫瘍で最も多く、被膜を有するため神経から摘出（enucleation）できることが多いが、神経束を巻き込む例も多く、その場合は摘出に伴って機能障害を来しうる。
+    condition:
+      population: 軟部の神経鞘腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1910
+    source: 'Tang CY, Fung B, Fok M, Zhu J. Schwannoma in the upper limbs. Biomed Res Int. 2013;2013:167196（PMCID: PMC3777180）'
+    doi: 10.1155/2013/167196
+    pmid: '24093090'
+    pmcid: null
+    url: https://doi.org/10.1155/2013/167196
+    source_license: CC BY
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 本カードは軟部の神経鞘腫に関するもので、頭蓋内の聴神経鞘腫（前庭神経鞘腫）とは別である。腫瘍が神経に対して偏心性に発生する点は本出典の抄録で直接確認できなかったため、命題は被膜と摘出可能性に絞った。出典は上肢例8例の後方視的検討を含む総説で、症例数は少ない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-E-③（神経鞘腫、b）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-020
+  domain: BO
+  subdomain: グロムス腫瘍
+  assertion:
+    plain_statement_ja: グロムス腫瘍は手の爪下に好発する良性の血管性腫瘍で、限局した圧痛・激しい疼痛・寒冷過敏の古典的3徴を呈し、治療は完全な外科的切除である。
+    condition:
+      population: グロムス腫瘍患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1911
+    source: 'Morey VM, Garg B, Kotwal PP. Glomus tumours of the hand: Review of literature. J Clin Orthop Trauma. 2016;7(4):286-291（PMCID: PMC5106475）'
+    doi: 10.1016/j.jcot.2016.04.006
+    pmid: '27857505'
+    pmcid: null
+    url: https://doi.org/10.1016/j.jcot.2016.04.006
+    source_license: ライセンス未確認（Journal of Clinical Orthopaedics and Trauma、CC 表示を確認できず）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: Love のピンテスト、Hildreth テストなどの臨床テストや MRI の感度の数値は本出典の抄録では確認できなかったため命題に含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-E-④（グロムス腫瘍、c）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-021
+  domain: BO
+  subdomain: 類腱腫
+  assertion:
+    plain_statement_ja: デスモイド腫瘍（デスモイド型線維腫症）は遠隔転移をしないが局所侵襲性を示す線維芽細胞性増殖で、経過は多様で予測が難しく、従来の手術を第一選択とする方針から、積極的経過観察（active surveillance）を中心とする保存的な管理へと方針が転換している。
+    condition:
+      population: デスモイド腫瘍患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1912
+    source: 'Desmoid Tumor Working Group. The management of desmoid tumours: A joint global consensus-based guideline approach for adult and paediatric patients. Eur J Cancer. 2020;127:96-107'
+    doi: 10.1016/j.ejca.2019.11.013
+    pmid: '32004793'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ejca.2019.11.013
+    source_license: CC BY-NC-ND 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: active surveillance の具体的な画像間隔や、治療介入へ切り替える基準はガイドライン本文の範囲であり、本カードの抄録確認範囲を超える。家族性腺腫性ポリポーシスに伴うデスモイドは本カードの主対象（孤発性）とは経過が異なる場合がある。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-E-⑤（類腱腫、c）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-022
+  domain: BO
+  subdomain: 類腱腫
+  assertion:
+    plain_statement_ja: γセクレターゼ阻害薬ニロガセスタットは、進行性のデスモイド腫瘍の成人患者を対象とした第III相試験で、プラセボに比べて無増悪生存期間を有意に延長し（ハザード比 0.29、95%信頼区間 0.15〜0.55）、奏効率も高かった（41% 対 8%）。
+    condition:
+      population: 進行性デスモイド腫瘍の成人患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1913
+    source: Gounder M, Ratan R, Alcindor T, et al. Nirogacestat, a γ-Secretase Inhibitor for Desmoid Tumors. N Engl J Med. 2023;388(10):898-912
+    doi: 10.1056/NEJMoa2210140
+    pmid: '36884323'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa2210140
+    source_license: © Massachusetts Medical Society（NEJM、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 薬剤名のあるカードとしての注記：ニロガセスタットは米国で2023年に進行性デスモイド腫瘍に対して承認されたが、国内では未承認であり、日本人の成人進行性デスモイド腫瘍患者を対象とした第II相試験が進行中であることを治験登録で確認した（保険適用なし）。なお、ソラフェニブも第III相試験（NEJM 2018）で無増悪生存期間の有意な延長が示されているが、本パートでは出典枠の都合で専用カードは作らなかった。ソラフェニブのデスモイド腫瘍への使用は国内では適応外である。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-E-⑤（類腱腫、c）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-023
+  domain: BO
+  subdomain: 脂肪肉腫
+  assertion:
+    plain_statement_ja: 高分化型脂肪肉腫と脱分化型脂肪肉腫は合わせて脂肪肉腫の最大の亜群をなし、12q13-15領域（MDM2・CDK4 を含む）の高レベル増幅を共有する。高分化型は転移しないが、脱分化を起こすと局所再発・転移を来しうるより侵襲的な経過をとる。
+    condition:
+      population: 脂肪肉腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1914
+    source: 'Thway K. Well-differentiated liposarcoma and dedifferentiated liposarcoma: An updated review. Semin Diagn Pathol. 2019;36(2):112-121'
+    doi: 10.1053/j.semdp.2019.02.006
+    pmid: '30852045'
+    pmcid: null
+    url: https://doi.org/10.1053/j.semdp.2019.02.006
+    source_license: © Elsevier（Seminars in Diagnostic Pathology、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 粘液型・多形型など他の亜型の頻度と予後は本出典（高分化型・脱分化型の総説）の対象外であり命題に含めていない。脂肪肉腫全体が軟部肉腫の中で多い型であることは、BO-017 の出典（四肢の脂肪性腫瘍は最も多い軟部病変）とも整合するが、本カードでは高分化型・脱分化型に範囲を限った。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-F-①（脂肪肉腫、c）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-024
+  domain: BO
+  subdomain: 滑膜肉腫
+  assertion:
+    plain_statement_ja: 滑膜肉腫は軟部肉腫の5〜10%を占め、t(X;18) 転座による SS18:SSX 融合遺伝子を特徴とし、他の軟部肉腫より若年に発症する。治療の標準は広範切除であり、大きく深部にある病変では術前・術後の放射線治療が用いられる。
+    condition:
+      population: 滑膜肉腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1915
+    source: 'Gazendam AM, Popovic S, Munir S, et al. Synovial Sarcoma: A Clinical Review. Curr Oncol. 2021;28(3):1909-1920（PMCID: PMC8161765）'
+    doi: 10.3390/curroncol28030177
+    pmid: '34069748'
+    pmcid: null
+    url: https://doi.org/10.3390/curroncol28030177
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 関節近傍に多いとされる発生部位の傾向や、化学療法の位置づけ（集団によって生存利益の議論がある）については抄録の範囲で定量的な確認ができなかったため命題に含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-F-②（滑膜肉腫、c）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-025
+  domain: BO
+  subdomain: 悪性末梢神経鞘腫瘍
+  assertion:
+    plain_statement_ja: 悪性末梢神経鞘腫瘍の約50%は神経線維腫症1型（NF1）に合併して発生し、残りは孤発性または放射線照射後であり、予後は一般に不良で、集学的治療を行っても再発率が高い。
+    condition:
+      population: 悪性末梢神経鞘腫瘍患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1916
+    source: 'Farid M, Demicco EG, Garcia R, et al. Malignant peripheral nerve sheath tumors. Oncologist. 2014;19(2):193-201（PMCID: PMC3926794）'
+    doi: 10.1634/theoncologist.2013-0328
+    pmid: '24470531'
+    pmcid: null
+    url: https://doi.org/10.1634/theoncologist.2013-0328
+    source_license: ライセンス未確認（The Oncologist、CC 表示を確認できず）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 生存率の具体的数値は原著研究間で幅があり、本出典の抄録では単一の数値として確認できなかったため命題に含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-F-③（悪性末梢神経鞘腫、c）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-026
+  domain: BO
+  subdomain: 平滑筋肉腫
+  assertion:
+    plain_statement_ja: 平滑筋肉腫は平滑筋分化を示す悪性腫瘍で、子宮・後腹膜・四肢に好発し、発生部位により治療が異なるため、専門チームによる集学的管理が必須である。
+    condition:
+      population: 平滑筋肉腫患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1917
+    source: Haddox CL, Papke DJ Jr, Serrano C. Leiomyosarcoma Therapeutic Approaches and Future Directions. Hematol Oncol Clin North Am. 2025;39(4):785-804
+    doi: 10.1016/j.hoc.2025.04.007
+    pmid: '40410055'
+    pmcid: null
+    url: https://doi.org/10.1016/j.hoc.2025.04.007
+    source_license: © Elsevier Inc.（著作権表示あり・CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 血行性転移（肺転移が多いこと）やリンパ行性転移が少ないことは臨床的に知られるが、本出典の抄録では確認できなかったため命題に含めていない。子宮平滑筋肉腫の術前診断（子宮筋腫との鑑別）は本カードの範囲外。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-9-F-④（平滑筋肉腫、c）
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BO-027
+  domain: BO
+  subdomain: 軟部肉腫総論
+  assertion:
+    plain_statement_ja: 骨・軟部肉腫の生検では診断エラーや手技の問題が少なくなく、生検に起因する問題のために不必要な切断を余儀なくされた症例も報告されている。エラー・合併症・転帰の変更は紹介元施設で行われた生検で治療施設の2〜12倍多く、生検は最終手術を行う治療施設で、その切除計画と整合させて行うべきである。
+    condition:
+      population: 骨・軟部肉腫が疑われる患者
+      region: 国際
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1918
+    source: Mankin HJ, Mankin CJ, Simon MA. The hazards of the biopsy, revisited. Members of the Musculoskeletal Tumor Society. J Bone Joint Surg Am. 1996;78(5):656-663
+    doi: 10.2106/00004623-199605000-00004
+    pmid: '8642021'
+    pmcid: null
+    url: https://doi.org/10.2106/00004623-199605000-00004
+    source_license: © The Journal of Bone and Joint Surgery（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 出典は1996年の米国の多施設調査であり、現在の画像ガイド下針生検の普及した状況とは前提が異なる可能性がある。軟部肉腫総論のカードとして特定の国試項目には対応づけず kokushi は null とした。広範切除の切除縁の定義や国内の骨・軟部腫瘍診療ガイドラインの推奨は、本パートでは本文を確認できる一次資料が得られなかったため専用カードを作っていない。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-05-05 (id: JkxnuQc)'
+  publication_info:
+    created: '2026-10-28'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）

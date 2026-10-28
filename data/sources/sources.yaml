@@ -20418,3 +20418,1293 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md の出典マスター表から
+- id: SRC-1831
+  legacy_id: null
+  title: 骨粗鬆症の予防と治療ガイドライン作成委員会（日本骨粗鬆症学会・日本骨代謝学会・骨粗鬆症財団）（編）. 骨粗鬆症の予防と治療ガイドライン2025年版. ライフサイエンス出版; 2025
+  citation: 骨粗鬆症の予防と治療ガイドライン作成委員会（日本骨粗鬆症学会・日本骨代謝学会・骨粗鬆症財団）（編）. 骨粗鬆症の予防と治療ガイドライン2025年版. ライフサイエンス出版; 2025
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1832
+  legacy_id: null
+  title: Kanis JA, et al. FRAX and the assessment of fracture probability in men and women from the UK. Osteoporos Int. 2008;19(4):385-397
+  citation: Kanis JA, et al. FRAX and the assessment of fracture probability in men and women from the UK. Osteoporos Int. 2008;19(4):385-397
+  doi: 10.1007/s00198-007-0543-5
+  pmid: '18292978'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1833
+  legacy_id: null
+  title: 'US Preventive Services Task Force. Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement. JAMA. 2025'
+  citation: 'US Preventive Services Task Force. Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement. JAMA. 2025'
+  doi: 10.1001/jama.2024.27154
+  pmid: '39808425'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1834
+  legacy_id: null
+  title: Cummings SR, et al. Denosumab for prevention of fractures in postmenopausal women with osteoporosis. N Engl J Med. 2009
+  citation: Cummings SR, et al. Denosumab for prevention of fractures in postmenopausal women with osteoporosis. N Engl J Med. 2009
+  doi: 10.1056/NEJMoa0809493
+  pmid: '19671655'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1835
+  legacy_id: null
+  title: 'Miller PD, et al. Effect of abaloparatide vs placebo on new vertebral fractures in postmenopausal women with osteoporosis: a randomized clinical trial. JAMA. 2016'
+  citation: 'Miller PD, et al. Effect of abaloparatide vs placebo on new vertebral fractures in postmenopausal women with osteoporosis: a randomized clinical trial. JAMA. 2016'
+  doi: 10.1001/jama.2016.11136
+  pmid: '27533157'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1836
+  legacy_id: null
+  title: Cosman F, et al. Romosozumab treatment in postmenopausal women with osteoporosis. N Engl J Med. 2016
+  citation: Cosman F, et al. Romosozumab treatment in postmenopausal women with osteoporosis. N Engl J Med. 2016
+  doi: 10.1056/NEJMoa1607948
+  pmid: '27641143'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1837
+  legacy_id: null
+  title: 'Singer FR, et al. Paget''s disease of bone: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2014'
+  citation: 'Singer FR, et al. Paget''s disease of bone: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2014'
+  doi: 10.1210/jc.2014-2910
+  pmid: '25406796'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1838
+  legacy_id: null
+  title: Carpenter TO, et al. Burosumab therapy in children with X-linked hypophosphatemia. N Engl J Med. 2018
+  citation: Carpenter TO, et al. Burosumab therapy in children with X-linked hypophosphatemia. N Engl J Med. 2018
+  doi: 10.1056/NEJMoa1714641
+  pmid: '29791829'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1839
+  legacy_id: null
+  title: 'Savarirayan R, et al. Once-daily, subcutaneous vosoritide therapy in children with achondroplasia: a randomised, double-blind, phase 3, placebo-controlled, multicentre trial. Lancet. 2020'
+  citation: 'Savarirayan R, et al. Once-daily, subcutaneous vosoritide therapy in children with achondroplasia: a randomised, double-blind, phase 3, placebo-controlled, multicentre trial. Lancet. 2020'
+  doi: 10.1016/S0140-6736(20)31541-5
+  pmid: '32891212'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1840
+  legacy_id: null
+  title: Marini JC, et al. Osteogenesis imperfecta. Nat Rev Dis Primers. 2017;3:17052
+  citation: Marini JC, et al. Osteogenesis imperfecta. Nat Rev Dis Primers. 2017;3:17052
+  doi: 10.1038/nrdp.2017.52
+  pmid: '28820180'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1841
+  legacy_id: null
+  title: 'Pauli RM. Achondroplasia: a comprehensive clinical review. Orphanet J Rare Dis. 2019;14:1'
+  citation: 'Pauli RM. Achondroplasia: a comprehensive clinical review. Orphanet J Rare Dis. 2019;14:1'
+  doi: 10.1186/s13023-018-0972-6
+  pmid: '30606190'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1842
+  legacy_id: null
+  title: 'Trends in hip fracture incidence in Japan: estimates based on nationwide hip fracture surveys from 1992 to 2017. JBMR Plus. 2021;5(2):e10428'
+  citation: 'Trends in hip fracture incidence in Japan: estimates based on nationwide hip fracture surveys from 1992 to 2017. JBMR Plus. 2021;5(2):e10428'
+  doi: 10.1002/jbm4.10428
+  pmid: '33615101'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1843
+  legacy_id: null
+  title: Bliuc D, et al. Mortality risk associated with low-trauma osteoporotic fracture and subsequent fracture in men and women. JAMA. 2009
+  citation: Bliuc D, et al. Mortality risk associated with low-trauma osteoporotic fracture and subsequent fracture in men and women. JAMA. 2009
+  doi: 10.1001/jama.2009.50
+  pmid: '19190316'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1844
+  legacy_id: null
+  title: Haffner D, et al. Clinical practice recommendations for the diagnosis and management of X-linked hypophosphataemia. Nat Rev Nephrol. 2019
+  citation: Haffner D, et al. Clinical practice recommendations for the diagnosis and management of X-linked hypophosphataemia. Nat Rev Nephrol. 2019
+  doi: 10.1038/s41581-019-0152-5
+  pmid: '31068690'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1845
+  legacy_id: null
+  title: 厚生労働省. 指定難病に係る診断基準及び重症度分類等：274 骨形成不全症（難病情報センター掲載）
+  citation: 厚生労働省. 指定難病に係る診断基準及び重症度分類等：274 骨形成不全症（難病情報センター掲載）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1846
+  legacy_id: null
+  title: 'Aletaha D, Neogi T, Silman AJ, et al. 2010 Rheumatoid arthritis classification criteria: an American College of Rheumatology/European League Against Rheumatism collaborative initiative. Arthritis Rheum. 2010;62(9):2569-2581'
+  citation: 'Aletaha D, Neogi T, Silman AJ, et al. 2010 Rheumatoid arthritis classification criteria: an American College of Rheumatology/European League Against Rheumatism collaborative initiative. Arthritis Rheum. 2010;62(9):2569-2581'
+  doi: 10.1002/art.27584
+  pmid: '20872595'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1847
+  legacy_id: null
+  title: 'Harigai M, Kaneko Y, Tanaka E, et al. 2024 Update of the Japan College of Rheumatology Clinical Practice Guidelines for the Management of Rheumatoid Arthritis: Secondary publication. Mod Rheumatol. 2025;35(3):387-401'
+  citation: 'Harigai M, Kaneko Y, Tanaka E, et al. 2024 Update of the Japan College of Rheumatology Clinical Practice Guidelines for the Management of Rheumatoid Arthritis: Secondary publication. Mod Rheumatol. 2025;35(3):387-401'
+  doi: 10.1093/mr/roaf006
+  pmid: '39820350'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1848
+  legacy_id: null
+  title: 'Smolen JS, Landewé RBM, Bergstra SA, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. Ann Rheum Dis. 2023;82(1):3-18'
+  citation: 'Smolen JS, Landewé RBM, Bergstra SA, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. Ann Rheum Dis. 2023;82(1):3-18'
+  doi: 10.1136/ard-2022-223356
+  pmid: '36357155'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1849
+  legacy_id: null
+  title: van der Heijde D. How to read radiographs according to the Sharp/van der Heijde method. J Rheumatol. 1999;26(3):743-745
+  citation: van der Heijde D. How to read radiographs according to the Sharp/van der Heijde method. J Rheumatol. 1999;26(3):743-745
+  doi: null
+  pmid: '10090194'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1850
+  legacy_id: null
+  title: Abhishek A, Tedeschi SK, Pascart T, et al. The 2023 ACR/EULAR classification criteria for calcium pyrophosphate deposition disease. Ann Rheum Dis. 2023;82(10):1248-1257
+  citation: Abhishek A, Tedeschi SK, Pascart T, et al. The 2023 ACR/EULAR classification criteria for calcium pyrophosphate deposition disease. Ann Rheum Dis. 2023;82(10):1248-1257
+  doi: 10.1136/ard-2023-224575
+  pmid: '37495237'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1851
+  legacy_id: null
+  title: Reilly D, Kamineni S. Olecranon bursitis. J Shoulder Elbow Surg. 2016;25(1):158-167
+  citation: Reilly D, Kamineni S. Olecranon bursitis. J Shoulder Elbow Surg. 2016;25(1):158-167
+  doi: 10.1016/j.jse.2015.08.032
+  pmid: '26577126'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1852
+  legacy_id: null
+  title: Peters-Veluthamaningal C, van der Windt DA, Winters JC, Meyboom-de Jong B. Corticosteroid injection for trigger finger in adults. Cochrane Database Syst Rev. 2009;(1):CD005617
+  citation: Peters-Veluthamaningal C, van der Windt DA, Winters JC, Meyboom-de Jong B. Corticosteroid injection for trigger finger in adults. Cochrane Database Syst Rev. 2009;(1):CD005617
+  doi: 10.1002/14651858.CD005617.pub2
+  pmid: '19160256'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1853
+  legacy_id: null
+  title: Ilyas AM, Ast M, Schaffer AA, Thoder J. De quervain tenosynovitis of the wrist. J Am Acad Orthop Surg. 2007;15(12):757-764
+  citation: Ilyas AM, Ast M, Schaffer AA, Thoder J. De quervain tenosynovitis of the wrist. J Am Acad Orthop Surg. 2007;15(12):757-764
+  doi: 10.5435/00124635-200712000-00009
+  pmid: '18063716'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1854
+  legacy_id: null
+  title: Hunter DJ, Bierma-Zeinstra S. Osteoarthritis. Lancet. 2019;393(10182):1745-1759
+  citation: Hunter DJ, Bierma-Zeinstra S. Osteoarthritis. Lancet. 2019;393(10182):1745-1759
+  doi: 10.1016/S0140-6736(19)30417-9
+  pmid: '31034380'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1855
+  legacy_id: null
+  title: Bannuru RR, Osani MC, Vaysbrot EE, et al. OARSI guidelines for the non-surgical management of knee, hip, and polyarticular osteoarthritis. Osteoarthritis Cartilage. 2019;27(11):1578-1589
+  citation: Bannuru RR, Osani MC, Vaysbrot EE, et al. OARSI guidelines for the non-surgical management of knee, hip, and polyarticular osteoarthritis. Osteoarthritis Cartilage. 2019;27(11):1578-1589
+  doi: 10.1016/j.joca.2019.06.011
+  pmid: '31278997'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1856
+  legacy_id: null
+  title: Rogers LC, Frykberg RG, Armstrong DG, et al. The Charcot foot in diabetes. Diabetes Care. 2011;34(9):2123-2129
+  citation: Rogers LC, Frykberg RG, Armstrong DG, et al. The Charcot foot in diabetes. Diabetes Care. 2011;34(9):2123-2129
+  doi: 10.2337/dc11-0844
+  pmid: '21868781'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1857
+  legacy_id: null
+  title: Srivastava A, Santagostino E, Dougall A, et al. WFH Guidelines for the Management of Hemophilia, 3rd edition. Haemophilia. 2020;26 Suppl 6:1-158
+  citation: Srivastava A, Santagostino E, Dougall A, et al. WFH Guidelines for the Management of Hemophilia, 3rd edition. Haemophilia. 2020;26 Suppl 6:1-158
+  doi: 10.1111/hae.14046
+  pmid: '32744769'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1858
+  legacy_id: null
+  title: 'Gude W, Morelli V. Ganglion cysts of the wrist: pathophysiology, clinical picture, and management. Curr Rev Musculoskelet Med. 2008;1(3-4):205-211'
+  citation: 'Gude W, Morelli V. Ganglion cysts of the wrist: pathophysiology, clinical picture, and management. Curr Rev Musculoskelet Med. 2008;1(3-4):205-211'
+  doi: 10.1007/s12178-008-9033-4
+  pmid: '19468907'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1859
+  legacy_id: null
+  title: Baird EO, Kang QK. Prophylaxis of heterotopic ossification - an updated review. J Orthop Surg Res. 2009;4:12
+  citation: Baird EO, Kang QK. Prophylaxis of heterotopic ossification - an updated review. J Orthop Surg Res. 2009;4:12
+  doi: 10.1186/1749-799X-4-12
+  pmid: '19379483'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1860
+  legacy_id: null
+  title: 'Schett G, Lories RJ, D''Agostino MA, et al. Enthesitis: from pathophysiology to treatment. Nat Rev Rheumatol. 2017;13(12):731-741'
+  citation: 'Schett G, Lories RJ, D''Agostino MA, et al. Enthesitis: from pathophysiology to treatment. Nat Rev Rheumatol. 2017;13(12):731-741'
+  doi: 10.1038/nrrheum.2017.188
+  pmid: '29158573'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1861
+  legacy_id: null
+  title: Cross D, Matullo KS. Kienböck disease. Orthop Clin North Am. 2014;45(1):141-152
+  citation: Cross D, Matullo KS. Kienböck disease. Orthop Clin North Am. 2014;45(1):141-152
+  doi: 10.1016/j.ocl.2013.09.004
+  pmid: '24267215'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1862
+  legacy_id: null
+  title: 'Karim AR, Cherian JJ, Jauregui JJ, et al. Osteonecrosis of the knee: review. Ann Transl Med. 2015;3(1):6'
+  citation: 'Karim AR, Cherian JJ, Jauregui JJ, et al. Osteonecrosis of the knee: review. Ann Transl Med. 2015;3(1):6'
+  doi: 10.3978/j.issn.2305-5839.2014.11.13
+  pmid: '25705638'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1863
+  legacy_id: null
+  title: Hurst LC, Badalamente MA, Hentz VR, et al. Injectable collagenase clostridium histolyticum for Dupuytren's contracture. N Engl J Med. 2009;361(10):968-979
+  citation: Hurst LC, Badalamente MA, Hentz VR, et al. Injectable collagenase clostridium histolyticum for Dupuytren's contracture. N Engl J Med. 2009;361(10):968-979
+  doi: 10.1056/NEJMoa0810866
+  pmid: '19726771'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1864
+  legacy_id: null
+  title: Hutchinson DT, Rane AA, Montanez A. The Natural History of Pediatric Trigger Thumb in the United States. J Hand Surg Am. 2021;46(5):424.e1-424.e7
+  citation: Hutchinson DT, Rane AA, Montanez A. The Natural History of Pediatric Trigger Thumb in the United States. J Hand Surg Am. 2021;46(5):424.e1-424.e7
+  doi: 10.1016/j.jhsa.2020.10.016
+  pmid: '33436280'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1865
+  legacy_id: null
+  title: 'Burkhart SS, De Beer JF. Traumatic glenohumeral bone defects and their relationship to failure of arthroscopic Bankart repairs: significance of the inverted-pear glenoid and the humeral engaging Hill-Sachs lesion. Arthroscopy. 2000;16(7):677-694'
+  citation: 'Burkhart SS, De Beer JF. Traumatic glenohumeral bone defects and their relationship to failure of arthroscopic Bankart repairs: significance of the inverted-pear glenoid and the humeral engaging Hill-Sachs lesion. Arthroscopy. 2000;16(7):677-694'
+  doi: 10.1053/jars.2000.17715
+  pmid: '11027751'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1866
+  legacy_id: null
+  title: Illig KA, Donahue D, Duncan A, et al. Reporting standards of the Society for Vascular Surgery for thoracic outlet syndrome. J Vasc Surg. 2016;64(3):e23-e35
+  citation: Illig KA, Donahue D, Duncan A, et al. Reporting standards of the Society for Vascular Surgery for thoracic outlet syndrome. J Vasc Surg. 2016;64(3):e23-e35
+  doi: 10.1016/j.jvs.2016.04.039
+  pmid: '27565607'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1867
+  legacy_id: null
+  title: 'Bisset L, Beller E, Jull G, et al. Mobilisation with movement and exercise, corticosteroid injection, or wait and see for tennis elbow: randomised trial. BMJ. 2006;333(7575):939'
+  citation: 'Bisset L, Beller E, Jull G, et al. Mobilisation with movement and exercise, corticosteroid injection, or wait and see for tennis elbow: randomised trial. BMJ. 2006;333(7575):939'
+  doi: 10.1136/bmj.38961.584653.AE
+  pmid: '17012266'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1868
+  legacy_id: null
+  title: Willy RW, Hoglund LT, Barton CJ, et al. Patellofemoral Pain. J Orthop Sports Phys Ther. 2019;49(9):CPG1-CPG95
+  citation: Willy RW, Hoglund LT, Barton CJ, et al. Patellofemoral Pain. J Orthop Sports Phys Ther. 2019;49(9):CPG1-CPG95
+  doi: 10.2519/jospt.2019.0302
+  pmid: '31475628'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1869
+  legacy_id: null
+  title: 'Zheng W, Li H, Hu K, Li L, Bei M. Chondromalacia patellae: current options and emerging cell therapies. Stem Cell Res Ther. 2021;12(1):412'
+  citation: 'Zheng W, Li H, Hu K, Li L, Bei M. Chondromalacia patellae: current options and emerging cell therapies. Stem Cell Res Ther. 2021;12(1):412'
+  doi: 10.1186/s13287-021-02478-4
+  pmid: '34275494'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1871
+  legacy_id: null
+  title: 'Ramirez J. Adhesive Capsulitis: Diagnosis and Management. Am Fam Physician. 2019;99(5):297-300'
+  citation: 'Ramirez J. Adhesive Capsulitis: Diagnosis and Management. Am Fam Physician. 2019;99(5):297-300'
+  doi: null
+  pmid: '30811157'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1872
+  legacy_id: null
+  title: 'Rangan A, Brealey SD, Keding A, et al. Management of adults with primary frozen shoulder in secondary care (UK FROST): a multicentre, pragmatic, three-arm, superiority randomised clinical trial. Lancet. 2020;396(10256):977-989'
+  citation: 'Rangan A, Brealey SD, Keding A, et al. Management of adults with primary frozen shoulder in secondary care (UK FROST): a multicentre, pragmatic, three-arm, superiority randomised clinical trial. Lancet. 2020;396(10256):977-989'
+  doi: 10.1016/S0140-6736(20)31965-6
+  pmid: '33010843'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1873
+  legacy_id: null
+  title: Yamamoto A, Takagishi K, Osawa T, et al. Prevalence and risk factors of a rotator cuff tear in the general population. J Shoulder Elbow Surg. 2010;19(1):116-120
+  citation: Yamamoto A, Takagishi K, Osawa T, et al. Prevalence and risk factors of a rotator cuff tear in the general population. J Shoulder Elbow Surg. 2010;19(1):116-120
+  doi: 10.1016/j.jse.2009.04.006
+  pmid: '19540777'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1874
+  legacy_id: null
+  title: 'Kukkonen J, Ryösä A, Joukainen A, et al. Operative versus conservative treatment of small, nontraumatic supraspinatus tears in patients older than 55 years: over 5-year follow-up of a randomized controlled trial. J Shoulder Elbow Surg. 2021;30(11):2455-2464'
+  citation: 'Kukkonen J, Ryösä A, Joukainen A, et al. Operative versus conservative treatment of small, nontraumatic supraspinatus tears in patients older than 55 years: over 5-year follow-up of a randomized controlled trial. J Shoulder Elbow Surg. 2021;30(11):2455-2464'
+  doi: 10.1016/j.jse.2021.03.133
+  pmid: '33774172'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1875
+  legacy_id: null
+  title: Krul M, van der Wouden JC, Kruithof EJ, et al. Manipulative interventions for reducing pulled elbow in young children. Cochrane Database Syst Rev. 2017;7(7):CD007759
+  citation: Krul M, van der Wouden JC, Kruithof EJ, et al. Manipulative interventions for reducing pulled elbow in young children. Cochrane Database Syst Rev. 2017;7(7):CD007759
+  doi: 10.1002/14651858.CD007759.pub4
+  pmid: '28753234'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1876
+  legacy_id: null
+  title: 'Jingushi S, Ohfuji S, Sofue M, et al. Osteoarthritis hip joints in Japan: involvement of acetabular dysplasia. J Orthop Sci. 2011;16(2):156-164'
+  citation: 'Jingushi S, Ohfuji S, Sofue M, et al. Osteoarthritis hip joints in Japan: involvement of acetabular dysplasia. J Orthop Sci. 2011;16(2):156-164'
+  doi: 10.1007/s00776-011-0025-7
+  pmid: '21359510'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1877
+  legacy_id: null
+  title: 'Learmonth ID, Young C, Rorabeck C. The operation of the century: total hip replacement. Lancet. 2007;370(9597):1508-1519'
+  citation: 'Learmonth ID, Young C, Rorabeck C. The operation of the century: total hip replacement. Lancet. 2007;370(9597):1508-1519'
+  doi: 10.1016/S0140-6736(07)60457-7
+  pmid: '17964352'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1878
+  legacy_id: null
+  title: Ömeroğlu H, Yüksel S, Demir P, et al. An Eastern Europe and Middle East multinational expert Delphi consensus study on the prevention, diagnosis, and treatment of developmental dysplasia of the hip before walking age. Int Orthop. 2024;48(6):1373-1380
+  citation: Ömeroğlu H, Yüksel S, Demir P, et al. An Eastern Europe and Middle East multinational expert Delphi consensus study on the prevention, diagnosis, and treatment of developmental dysplasia of the hip before walking age. Int Orthop. 2024;48(6):1373-1380
+  doi: 10.1007/s00264-023-06077-1
+  pmid: '38150007'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1879
+  legacy_id: null
+  title: 'Funk JF, Lebek S. Epiphyseolysis capitis femoris: new aspects of diagnostics and therapy. Orthopade. 2014;43(8):742-749'
+  citation: 'Funk JF, Lebek S. Epiphyseolysis capitis femoris: new aspects of diagnostics and therapy. Orthopade. 2014;43(8):742-749'
+  doi: 10.1007/s00132-013-2226-6
+  pmid: '25116242'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1880
+  legacy_id: null
+  title: Fukushima W, Fujioka M, Kubo T, et al. Nationwide epidemiologic survey of idiopathic osteonecrosis of the femoral head. Clin Orthop Relat Res. 2010;468(10):2715-2724
+  citation: Fukushima W, Fujioka M, Kubo T, et al. Nationwide epidemiologic survey of idiopathic osteonecrosis of the femoral head. Clin Orthop Relat Res. 2010;468(10):2715-2724
+  doi: 10.1007/s11999-010-1292-x
+  pmid: '20224959'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1881
+  legacy_id: null
+  title: Ando W, Sakai T, Fukushima W, et al. Japanese Orthopaedic Association 2019 Guidelines for osteonecrosis of the femoral head. J Orthop Sci. 2021;26(1):46-68
+  citation: Ando W, Sakai T, Fukushima W, et al. Japanese Orthopaedic Association 2019 Guidelines for osteonecrosis of the femoral head. J Orthop Sci. 2021;26(1):46-68
+  doi: 10.1016/j.jos.2020.06.013
+  pmid: '33388233'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1882
+  legacy_id: null
+  title: 'Herring JA, Kim HT, Browne R. Legg-Calve-Perthes disease. Part II: Prospective multicenter study of the effect of treatment on outcome. J Bone Joint Surg Am. 2004;86(10):2121-2134'
+  citation: 'Herring JA, Kim HT, Browne R. Legg-Calve-Perthes disease. Part II: Prospective multicenter study of the effect of treatment on outcome. J Bone Joint Surg Am. 2004;86(10):2121-2134'
+  doi: null
+  pmid: '15466720'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1883
+  legacy_id: null
+  title: 'Yoshimura N, Muraki S, Oka H, et al. Prevalence of knee osteoarthritis, lumbar spondylosis, and osteoporosis in Japanese men and women: the research on osteoarthritis/osteoporosis against disability study. J Bone Miner Metab. 2009;27(5):620-628'
+  citation: 'Yoshimura N, Muraki S, Oka H, et al. Prevalence of knee osteoarthritis, lumbar spondylosis, and osteoporosis in Japanese men and women: the research on osteoarthritis/osteoporosis against disability study. J Bone Miner Metab. 2009;27(5):620-628'
+  doi: 10.1007/s00774-009-0080-8
+  pmid: '19568689'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1885
+  legacy_id: null
+  title: 'Pereira TV, Jüni P, Saadat P, et al. Viscosupplementation for knee osteoarthritis: systematic review and meta-analysis. BMJ. 2022;378:e069722'
+  citation: 'Pereira TV, Jüni P, Saadat P, et al. Viscosupplementation for knee osteoarthritis: systematic review and meta-analysis. BMJ. 2022;378:e069722'
+  doi: 10.1136/bmj-2022-069722
+  pmid: '36333100'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1886
+  legacy_id: null
+  title: Skou ST, Roos EM, Laursen MB, et al. A Randomized, Controlled Trial of Total Knee Replacement. N Engl J Med. 2015;373(17):1597-1606
+  citation: Skou ST, Roos EM, Laursen MB, et al. A Randomized, Controlled Trial of Total Knee Replacement. N Engl J Med. 2015;373(17):1597-1606
+  doi: 10.1056/NEJMoa1505467
+  pmid: '26488691'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1887
+  legacy_id: null
+  title: 'Ladenhauf HN, Seitlinger G, Green DW. Osgood-Schlatter disease: a 2020 update of a common knee condition in children. Curr Opin Pediatr. 2020;32(1):107-112'
+  citation: 'Ladenhauf HN, Seitlinger G, Green DW. Osgood-Schlatter disease: a 2020 update of a common knee condition in children. Curr Opin Pediatr. 2020;32(1):107-112'
+  doi: 10.1097/MOP.0000000000000842
+  pmid: '31714260'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1888
+  legacy_id: null
+  title: Sihvonen R, Paavola M, Malmivaara A, et al. Arthroscopic partial meniscectomy versus sham surgery for a degenerative meniscal tear. N Engl J Med. 2013;369(26):2515-2524
+  citation: Sihvonen R, Paavola M, Malmivaara A, et al. Arthroscopic partial meniscectomy versus sham surgery for a degenerative meniscal tear. N Engl J Med. 2013;369(26):2515-2524
+  doi: 10.1056/NEJMoa1305189
+  pmid: '24369076'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1889
+  legacy_id: null
+  title: 'Nix S, Smith M, Vicenzino B. Prevalence of hallux valgus in the general population: a systematic review and meta-analysis. J Foot Ankle Res. 2010;3:21'
+  citation: 'Nix S, Smith M, Vicenzino B. Prevalence of hallux valgus in the general population: a systematic review and meta-analysis. J Foot Ankle Res. 2010;3:21'
+  doi: 10.1186/1757-1146-3-21
+  pmid: '20868524'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1890
+  legacy_id: null
+  title: Wülker N, Mittag F. The treatment of hallux valgus. Dtsch Arztebl Int. 2012;109(49):857-867
+  citation: Wülker N, Mittag F. The treatment of hallux valgus. Dtsch Arztebl Int. 2012;109(49):857-867
+  doi: 10.3238/arztebl.2012.0857
+  pmid: '23267411'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1891
+  legacy_id: null
+  title: Morcuende JA, Dolan LA, Dietz FR, et al. Radical reduction in the rate of extensive corrective surgery for clubfoot using the Ponseti method. Pediatrics. 2004;113(2):376-380
+  citation: Morcuende JA, Dolan LA, Dietz FR, et al. Radical reduction in the rate of extensive corrective surgery for clubfoot using the Ponseti method. Pediatrics. 2004;113(2):376-380
+  doi: 10.1542/peds.113.2.376
+  pmid: '14754952'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1892
+  legacy_id: null
+  title: Valderrabano V, Horisberger M, Russell I, et al. Etiology of ankle osteoarthritis. Clin Orthop Relat Res. 2009;467(7):1800-1806
+  citation: Valderrabano V, Horisberger M, Russell I, et al. Etiology of ankle osteoarthritis. Clin Orthop Relat Res. 2009;467(7):1800-1806
+  doi: 10.1007/s11999-008-0543-6
+  pmid: '18830791'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1893
+  legacy_id: null
+  title: 'Tepelenis K, Papathanakos G, Kitsouli A, et al. Osteochondromas: An Updated Review of Epidemiology, Pathogenesis, Clinical Presentation, Radiological Features and Treatment Options. In Vivo. 2021;35(2):681-691（PMCID: PMC8045119）'
+  citation: 'Tepelenis K, Papathanakos G, Kitsouli A, et al. Osteochondromas: An Updated Review of Epidemiology, Pathogenesis, Clinical Presentation, Radiological Features and Treatment Options. In Vivo. 2021;35(2):681-691（PMCID: PMC8045119）'
+  doi: 10.21873/invivo.12308
+  pmid: '33622860'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1894
+  legacy_id: null
+  title: 'Kramer HD, Valentine MJ, Pettinelli N, et al. Ollier Disease: A Case Report and Review of Treatment Options. Cureus. 2023;15(8):e43815（PMCID: PMC10509006）'
+  citation: 'Kramer HD, Valentine MJ, Pettinelli N, et al. Ollier Disease: A Case Report and Review of Treatment Options. Cureus. 2023;15(8):e43815（PMCID: PMC10509006）'
+  doi: 10.7759/cureus.43815
+  pmid: '37731444'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1895
+  legacy_id: null
+  title: 'Carneiro BC, Da Cruz IAN, Ormond Filho AG, et al. Osteoid osteoma: the great mimicker. Insights Imaging. 2021;12(1):32（PMCID: PMC7940467）'
+  citation: 'Carneiro BC, Da Cruz IAN, Ormond Filho AG, et al. Osteoid osteoma: the great mimicker. Insights Imaging. 2021;12(1):32（PMCID: PMC7940467）'
+  doi: 10.1186/s13244-021-00978-8
+  pmid: '33683492'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1896
+  legacy_id: null
+  title: 'Sobti A, Agrawal P, Agarwala S, Agarwal M. Giant Cell Tumor of Bone - An Overview. Arch Bone Jt Surg. 2016;4(1):2-9（PMCID: PMC4733230）'
+  citation: 'Sobti A, Agrawal P, Agarwala S, Agarwal M. Giant Cell Tumor of Bone - An Overview. Arch Bone Jt Surg. 2016;4(1):2-9（PMCID: PMC4733230）'
+  doi: null
+  pmid: '26894211'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1897
+  legacy_id: null
+  title: 'Chawla S, Blay JY, Rutkowski P, et al. Denosumab in patients with giant-cell tumour of bone: a multicentre, open-label, phase 2 study. Lancet Oncol. 2019;20(12):1719-1729'
+  citation: 'Chawla S, Blay JY, Rutkowski P, et al. Denosumab in patients with giant-cell tumour of bone: a multicentre, open-label, phase 2 study. Lancet Oncol. 2019;20(12):1719-1729'
+  doi: 10.1016/S1470-2045(19)30663-1
+  pmid: '31704134'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1898
+  legacy_id: null
+  title: Ottaviani G, Jaffe N. The epidemiology of osteosarcoma. Cancer Treat Res. 2009;152:3-13
+  citation: Ottaviani G, Jaffe N. The epidemiology of osteosarcoma. Cancer Treat Res. 2009;152:3-13
+  doi: 10.1007/978-1-4419-0284-9_1
+  pmid: '20213383'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1899
+  legacy_id: null
+  title: 'Isakoff MS, Bielack SS, Meltzer P, Gorlick R. Osteosarcoma: Current Treatment and a Collaborative Pathway to Success. J Clin Oncol. 2015;33(27):3029-3035（PMCID: PMC4979196）'
+  citation: 'Isakoff MS, Bielack SS, Meltzer P, Gorlick R. Osteosarcoma: Current Treatment and a Collaborative Pathway to Success. J Clin Oncol. 2015;33(27):3029-3035（PMCID: PMC4979196）'
+  doi: 10.1200/JCO.2014.59.4895
+  pmid: '26304877'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1900
+  legacy_id: null
+  title: Gu R, Sun Y. Does serum alkaline phosphatase level really indicate the prognosis in patients with osteosarcoma? A meta-analysis. J Cancer Res Ther. 2018;14(Supplement):S468-S472
+  citation: Gu R, Sun Y. Does serum alkaline phosphatase level really indicate the prognosis in patients with osteosarcoma? A meta-analysis. J Cancer Res Ther. 2018;14(Supplement):S468-S472
+  doi: 10.4103/0973-1482.177217
+  pmid: '29970708'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1901
+  legacy_id: null
+  title: Gelderblom H, Hogendoorn PC, Dijkstra SD, et al. The clinical approach towards chondrosarcoma. Oncologist. 2008;13(3):320-329
+  citation: Gelderblom H, Hogendoorn PC, Dijkstra SD, et al. The clinical approach towards chondrosarcoma. Oncologist. 2008;13(3):320-329
+  doi: 10.1634/theoncologist.2007-0237
+  pmid: '18378543'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1902
+  legacy_id: null
+  title: Grünewald TGP, Cidre-Aranaz F, Surdez D, et al. Ewing sarcoma. Nat Rev Dis Primers. 2018;4(1):5
+  citation: Grünewald TGP, Cidre-Aranaz F, Surdez D, et al. Ewing sarcoma. Nat Rev Dis Primers. 2018;4(1):5
+  doi: 10.1038/s41572-018-0003-x
+  pmid: '29977059'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1903
+  legacy_id: null
+  title: 'Walcott BP, Nahed BV, Mohyeldin A, et al. Chordoma: current concepts, management, and future directions. Lancet Oncol. 2012;13(2):e69-76'
+  citation: 'Walcott BP, Nahed BV, Mohyeldin A, et al. Chordoma: current concepts, management, and future directions. Lancet Oncol. 2012;13(2):e69-76'
+  doi: 10.1016/S1470-2045(11)70337-0
+  pmid: '22300861'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1904
+  legacy_id: null
+  title: 'Macedo F, Ladeira K, Pinho F, et al. Bone Metastases: An Overview. Oncol Rev. 2017;11(1):321（PMCID: PMC5444408）'
+  citation: 'Macedo F, Ladeira K, Pinho F, et al. Bone Metastases: An Overview. Oncol Rev. 2017;11(1):321（PMCID: PMC5444408）'
+  doi: 10.4081/oncol.2017.321
+  pmid: '28584570'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1905
+  legacy_id: null
+  title: 'Pretell-Mazzini J, Murphy RF, Kushare I, Dormans JP. Unicameral bone cysts: general characteristics and management controversies. J Am Acad Orthop Surg. 2014;22(5):295-303'
+  citation: 'Pretell-Mazzini J, Murphy RF, Kushare I, Dormans JP. Unicameral bone cysts: general characteristics and management controversies. J Am Acad Orthop Surg. 2014;22(5):295-303'
+  doi: 10.5435/JAAOS-22-05-295
+  pmid: '24788445'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1906
+  legacy_id: null
+  title: Rapp TB, Ward JP, Alaia MJ. Aneurysmal bone cyst. J Am Acad Orthop Surg. 2012;20(4):233-241
+  citation: Rapp TB, Ward JP, Alaia MJ. Aneurysmal bone cyst. J Am Acad Orthop Surg. 2012;20(4):233-241
+  doi: 10.5435/JAAOS-20-04-233
+  pmid: '22474093'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1907
+  legacy_id: null
+  title: 'Javaid MK, Boyce A, Appelman-Dijkstra N, et al. Best practice management guidelines for fibrous dysplasia/McCune-Albright syndrome: a consensus statement from the FD/MAS international consortium. Orphanet J Rare Dis. 2019;14(1):139（PMCID: PMC6567644）'
+  citation: 'Javaid MK, Boyce A, Appelman-Dijkstra N, et al. Best practice management guidelines for fibrous dysplasia/McCune-Albright syndrome: a consensus statement from the FD/MAS international consortium. Orphanet J Rare Dis. 2019;14(1):139（PMCID: PMC6567644）'
+  doi: 10.1186/s13023-019-1102-9
+  pmid: '31196103'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1908
+  legacy_id: null
+  title: Le Nail LR, Crenn V, Rosset P, Ropars M. Management of adipose tumors in the limbs. Orthop Traumatol Surg Res. 2022;108(1S):103162
+  citation: Le Nail LR, Crenn V, Rosset P, Ropars M. Management of adipose tumors in the limbs. Orthop Traumatol Surg Res. 2022;108(1S):103162
+  doi: 10.1016/j.otsr.2021.103162
+  pmid: '34863958'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1909
+  legacy_id: null
+  title: 'Griffin N, Khan N, Thomas JM, Fisher C, Moskovic EC. The radiological manifestations of intramuscular haemangiomas in adults: magnetic resonance imaging, computed tomography and ultrasound appearances. Skeletal Radiol. 2007;36(11):1051-1059'
+  citation: 'Griffin N, Khan N, Thomas JM, Fisher C, Moskovic EC. The radiological manifestations of intramuscular haemangiomas in adults: magnetic resonance imaging, computed tomography and ultrasound appearances. Skeletal Radiol. 2007;36(11):1051-1059'
+  doi: 10.1007/s00256-007-0375-6
+  pmid: '17849114'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1910
+  legacy_id: null
+  title: 'Tang CY, Fung B, Fok M, Zhu J. Schwannoma in the upper limbs. Biomed Res Int. 2013;2013:167196（PMCID: PMC3777180）'
+  citation: 'Tang CY, Fung B, Fok M, Zhu J. Schwannoma in the upper limbs. Biomed Res Int. 2013;2013:167196（PMCID: PMC3777180）'
+  doi: 10.1155/2013/167196
+  pmid: '24093090'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1911
+  legacy_id: null
+  title: 'Morey VM, Garg B, Kotwal PP. Glomus tumours of the hand: Review of literature. J Clin Orthop Trauma. 2016;7(4):286-291（PMCID: PMC5106475）'
+  citation: 'Morey VM, Garg B, Kotwal PP. Glomus tumours of the hand: Review of literature. J Clin Orthop Trauma. 2016;7(4):286-291（PMCID: PMC5106475）'
+  doi: 10.1016/j.jcot.2016.04.006
+  pmid: '27857505'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1912
+  legacy_id: null
+  title: 'Desmoid Tumor Working Group. The management of desmoid tumours: A joint global consensus-based guideline approach for adult and paediatric patients. Eur J Cancer. 2020;127:96-107'
+  citation: 'Desmoid Tumor Working Group. The management of desmoid tumours: A joint global consensus-based guideline approach for adult and paediatric patients. Eur J Cancer. 2020;127:96-107'
+  doi: 10.1016/j.ejca.2019.11.013
+  pmid: '32004793'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1913
+  legacy_id: null
+  title: Gounder M, Ratan R, Alcindor T, et al. Nirogacestat, a γ-Secretase Inhibitor for Desmoid Tumors. N Engl J Med. 2023;388(10):898-912
+  citation: Gounder M, Ratan R, Alcindor T, et al. Nirogacestat, a γ-Secretase Inhibitor for Desmoid Tumors. N Engl J Med. 2023;388(10):898-912
+  doi: 10.1056/NEJMoa2210140
+  pmid: '36884323'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1914
+  legacy_id: null
+  title: 'Thway K. Well-differentiated liposarcoma and dedifferentiated liposarcoma: An updated review. Semin Diagn Pathol. 2019;36(2):112-121'
+  citation: 'Thway K. Well-differentiated liposarcoma and dedifferentiated liposarcoma: An updated review. Semin Diagn Pathol. 2019;36(2):112-121'
+  doi: 10.1053/j.semdp.2019.02.006
+  pmid: '30852045'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1915
+  legacy_id: null
+  title: 'Gazendam AM, Popovic S, Munir S, et al. Synovial Sarcoma: A Clinical Review. Curr Oncol. 2021;28(3):1909-1920（PMCID: PMC8161765）'
+  citation: 'Gazendam AM, Popovic S, Munir S, et al. Synovial Sarcoma: A Clinical Review. Curr Oncol. 2021;28(3):1909-1920（PMCID: PMC8161765）'
+  doi: 10.3390/curroncol28030177
+  pmid: '34069748'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1916
+  legacy_id: null
+  title: 'Farid M, Demicco EG, Garcia R, et al. Malignant peripheral nerve sheath tumors. Oncologist. 2014;19(2):193-201（PMCID: PMC3926794）'
+  citation: 'Farid M, Demicco EG, Garcia R, et al. Malignant peripheral nerve sheath tumors. Oncologist. 2014;19(2):193-201（PMCID: PMC3926794）'
+  doi: 10.1634/theoncologist.2013-0328
+  pmid: '24470531'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1917
+  legacy_id: null
+  title: Haddox CL, Papke DJ Jr, Serrano C. Leiomyosarcoma Therapeutic Approaches and Future Directions. Hematol Oncol Clin North Am. 2025;39(4):785-804
+  citation: Haddox CL, Papke DJ Jr, Serrano C. Leiomyosarcoma Therapeutic Approaches and Future Directions. Hematol Oncol Clin North Am. 2025;39(4):785-804
+  doi: 10.1016/j.hoc.2025.04.007
+  pmid: '40410055'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1918
+  legacy_id: null
+  title: Mankin HJ, Mankin CJ, Simon MA. The hazards of the biopsy, revisited. Members of the Musculoskeletal Tumor Society. J Bone Joint Surg Am. 1996;78(5):656-663
+  citation: Mankin HJ, Mankin CJ, Simon MA. The hazards of the biopsy, revisited. Members of the Musculoskeletal Tumor Society. J Bone Joint Surg Am. 1996;78(5):656-663
+  doi: 10.2106/00004623-199605000-00004
+  pmid: '8642021'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
