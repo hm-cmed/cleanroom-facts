@@ -12012,3 +12012,618 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md の出典マスター表から
+- id: SRC-1011
+  legacy_id: null
+  title: Miyashita M, Kumamaru H, Niikura N, et al. Annual report of the Japanese Breast Cancer Registry for 2019. Breast Cancer. 2024;31(1):16-23
+  citation: Miyashita M, Kumamaru H, Niikura N, et al. Annual report of the Japanese Breast Cancer Registry for 2019. Breast Cancer. 2024;31(1):16-23
+  doi: 10.1007/s12282-023-01526-6
+  pmid: '38044372'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1012
+  legacy_id: null
+  title: Hamashima C, et al; Japanese Research Group for the Development of the Breast Cancer Screening Guidelines. The Japanese Guidelines for Breast Cancer Screening. Jpn J Clin Oncol. 2016;46(5):482-492
+  citation: Hamashima C, et al; Japanese Research Group for the Development of the Breast Cancer Screening Guidelines. The Japanese Guidelines for Breast Cancer Screening. Jpn J Clin Oncol. 2016;46(5):482-492
+  doi: 10.1093/jjco/hyw008
+  pmid: '27207993'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1013
+  legacy_id: null
+  title: Kubota K, Nakashima K, Nakashima K, et al. The Japanese Breast Cancer Society Clinical Practice Guidelines for Breast Cancer Screening and Diagnosis, 2022 Edition. Breast Cancer. 2024;31(2):157-164
+  citation: Kubota K, Nakashima K, Nakashima K, et al. The Japanese Breast Cancer Society Clinical Practice Guidelines for Breast Cancer Screening and Diagnosis, 2022 Edition. Breast Cancer. 2024;31(2):157-164
+  doi: 10.1007/s12282-023-01521-x
+  pmid: '37973686'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1014
+  legacy_id: null
+  title: 'Yamamoto Y, Yamauchi C, Toyama T, et al. The Japanese Breast Cancer Society Clinical Practice Guidelines for Breast Cancer, 2022 Edition: changes from the 2018 edition and general statements on breast cancer treatment. Breast Cancer. 2024;31(3):340-346'
+  citation: 'Yamamoto Y, Yamauchi C, Toyama T, et al. The Japanese Breast Cancer Society Clinical Practice Guidelines for Breast Cancer, 2022 Edition: changes from the 2018 edition and general statements on breast cancer treatment. Breast Cancer. 2024;31(3):340-346'
+  doi: 10.1007/s12282-024-01566-6
+  pmid: '38570435'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1015
+  legacy_id: null
+  title: Sakai T, Kutomi G, Shien T, et al. The Japanese Breast Cancer Society Clinical Practice Guidelines for Surgical Treatment of Breast Cancer, 2022 Edition. Breast Cancer. 2024;31(1):1-7
+  citation: Sakai T, Kutomi G, Shien T, et al. The Japanese Breast Cancer Society Clinical Practice Guidelines for Surgical Treatment of Breast Cancer, 2022 Edition. Breast Cancer. 2024;31(1):1-7
+  doi: 10.1007/s12282-023-01510-0
+  pmid: '37843765'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1016
+  legacy_id: null
+  title: Terada M, Ito A, Kikawa Y, et al. The Japanese Breast Cancer Society Clinical Practice Guidelines for Systemic Treatment of Breast Cancer, 2022 Edition. Breast Cancer. 2023;30(6):872-884
+  citation: Terada M, Ito A, Kikawa Y, et al. The Japanese Breast Cancer Society Clinical Practice Guidelines for Systemic Treatment of Breast Cancer, 2022 Edition. Breast Cancer. 2023;30(6):872-884
+  doi: 10.1007/s12282-023-01505-x
+  pmid: '37804479'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1017
+  legacy_id: null
+  title: Ye F, Dewanjee S, Li Y, et al. Advancements in clinical aspects of targeted therapy and immunotherapy in breast cancer. Mol Cancer. 2023;22(1):105
+  citation: Ye F, Dewanjee S, Li Y, et al. Advancements in clinical aspects of targeted therapy and immunotherapy in breast cancer. Mol Cancer. 2023;22(1):105
+  doi: 10.1186/s12943-023-01805-y
+  pmid: '37415164'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1018
+  legacy_id: null
+  title: Yoshimura M, Yamauchi C, Sanuki N, et al. The Japanese Breast Cancer Society Clinical Practice Guidelines for Radiation Treatment of Breast Cancer, 2022 Edition. Breast Cancer. 2024;31(3):347-357
+  citation: Yoshimura M, Yamauchi C, Sanuki N, et al. The Japanese Breast Cancer Society Clinical Practice Guidelines for Radiation Treatment of Breast Cancer, 2022 Edition. Breast Cancer. 2024;31(3):347-357
+  doi: 10.1007/s12282-024-01568-4
+  pmid: '38578563'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1019
+  legacy_id: null
+  title: 'Seki T, Kobayashi Y, Masuda K, et al. Exploring Breast Cancer Risk Management in HBOC Patients: Image Surveillance Versus Risk-reducing Surgery. Keio J Med. 2025;74(3):130-137'
+  citation: 'Seki T, Kobayashi Y, Masuda K, et al. Exploring Breast Cancer Risk Management in HBOC Patients: Image Surveillance Versus Risk-reducing Surgery. Keio J Med. 2025;74(3):130-137'
+  doi: 10.2302/kjm.2024-0021-RE
+  pmid: '40175132'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1020
+  legacy_id: null
+  title: 'Mitchell KB, Johnson HM, Rodríguez JM, et al. Academy of Breastfeeding Medicine Clinical Protocol #36: The Mastitis Spectrum, Revised 2022. Breastfeed Med. 2022;17(5):360-376'
+  citation: 'Mitchell KB, Johnson HM, Rodríguez JM, et al. Academy of Breastfeeding Medicine Clinical Protocol #36: The Mastitis Spectrum, Revised 2022. Breastfeed Med. 2022;17(5):360-376'
+  doi: 10.1089/bfm.2022.29207.kbm
+  pmid: '35576513'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1021
+  legacy_id: null
+  title: 'Li A, Kirk L. Intraductal Papilloma. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing'
+  citation: 'Li A, Kirk L. Intraductal Papilloma. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing'
+  doi: null
+  pmid: '30137824'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1022
+  legacy_id: null
+  title: 'Ajmal M, Khan M, Van Fossen K. Breast Fibroadenoma. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing'
+  citation: 'Ajmal M, Khan M, Van Fossen K. Breast Fibroadenoma. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing'
+  doi: null
+  pmid: '30570966'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1023
+  legacy_id: null
+  title: 'Malherbe K, Szymanski KD. Fibrocystic Breast Disease. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing'
+  citation: 'Malherbe K, Szymanski KD. Fibrocystic Breast Disease. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing'
+  doi: null
+  pmid: '31869073'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1024
+  legacy_id: null
+  title: Niewoehner CB, Schorer AE. Gynaecomastia and breast cancer in men. BMJ. 2008;336(7646):709-713
+  citation: Niewoehner CB, Schorer AE. Gynaecomastia and breast cancer in men. BMJ. 2008;336(7646):709-713
+  doi: 10.1136/bmj.39511.493391.BE
+  pmid: '18369226'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1025
+  legacy_id: null
+  title: Yu JH, Kim MJ, Cho H, et al. Breast diseases during pregnancy and lactation. Obstet Gynecol Sci. 2013;56(3):143-159
+  citation: Yu JH, Kim MJ, Cho H, et al. Breast diseases during pregnancy and lactation. Obstet Gynecol Sci. 2013;56(3):143-159
+  doi: 10.5468/ogs.2013.56.3.143
+  pmid: '24327995'
+  pmcid: null
+  license_note: CC BY-NC 3.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1026
+  legacy_id: null
+  title: 'Grimberg A, DiVall SA, Polychronakos C, et al. Guidelines for Growth Hormone and Insulin-Like Growth Factor-I Treatment in Children and Adolescents: Growth Hormone Deficiency, Idiopathic Short Stature, and Primary Insulin-Like Growth Factor-I Deficiency. Horm Res Paediatr. 2016;86(6):361-397'
+  citation: 'Grimberg A, DiVall SA, Polychronakos C, et al. Guidelines for Growth Hormone and Insulin-Like Growth Factor-I Treatment in Children and Adolescents: Growth Hormone Deficiency, Idiopathic Short Stature, and Primary Insulin-Like Growth Factor-I Deficiency. Horm Res Paediatr. 2016;86(6):361-397'
+  doi: 10.1159/000452150
+  pmid: '27884013'
+  pmcid: null
+  license_note: © S. Karger AG（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1027
+  legacy_id: null
+  title: 'Collett-Solberg PF, Ambler G, Backeljauw PF, et al. Diagnosis, Genetics, and Therapy of Short Stature in Children: A Growth Hormone Research Society International Perspective. Horm Res Paediatr. 2019;92(1):1-14'
+  citation: 'Collett-Solberg PF, Ambler G, Backeljauw PF, et al. Diagnosis, Genetics, and Therapy of Short Stature in Children: A Growth Hormone Research Society International Perspective. Horm Res Paediatr. 2019;92(1):1-14'
+  doi: 10.1159/000502231
+  pmid: '31514194'
+  pmcid: null
+  license_note: © 2019 S. Karger AG, Basel（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1028
+  legacy_id: null
+  title: Nagasaki K, Minamitani K, Nakamura A, et al. Guidelines for Newborn Screening of Congenital Hypothyroidism (2021 Revision). Clin Pediatr Endocrinol. 2023;32(1):26-51
+  citation: Nagasaki K, Minamitani K, Nakamura A, et al. Guidelines for Newborn Screening of Congenital Hypothyroidism (2021 Revision). Clin Pediatr Endocrinol. 2023;32(1):26-51
+  doi: 10.1297/cpe.2022-0063
+  pmid: '36761493'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1029
+  legacy_id: null
+  title: 'van Trotsenburg P, Stoupa A, Léger J, et al. Congenital Hypothyroidism: A 2020-2021 Consensus Guidelines Update—An ENDO-European Reference Network Initiative Endorsed by the European Society for Pediatric Endocrinology and the European Society for Endocrinology. Thyroid. 2021;31(3):387-419'
+  citation: 'van Trotsenburg P, Stoupa A, Léger J, et al. Congenital Hypothyroidism: A 2020-2021 Consensus Guidelines Update—An ENDO-European Reference Network Initiative Endorsed by the European Society for Pediatric Endocrinology and the European Society for Endocrinology. Thyroid. 2021;31(3):387-419'
+  doi: 10.1089/thy.2020.0333
+  pmid: '33272083'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1030
+  legacy_id: null
+  title: 'Speiser PW, Arlt W, Auchus RJ, et al. Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2018;103(11):4043-4088'
+  citation: 'Speiser PW, Arlt W, Auchus RJ, et al. Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2018;103(11):4043-4088'
+  doi: 10.1210/jc.2018-01865
+  pmid: '30272171'
+  pmcid: null
+  license_note: © 2018 Endocrine Society（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1031
+  legacy_id: null
+  title: Latronico AC, Brito VN, Carel JC. Causes, diagnosis, and treatment of central precocious puberty. Lancet Diabetes Endocrinol. 2016;4(3):265-274
+  citation: Latronico AC, Brito VN, Carel JC. Causes, diagnosis, and treatment of central precocious puberty. Lancet Diabetes Endocrinol. 2016;4(3):265-274
+  doi: 10.1016/S2213-8587(15)00380-0
+  pmid: '26852255'
+  pmcid: null
+  license_note: The Lancet（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1032
+  legacy_id: null
+  title: Karrento K, Rosen JM, Gelfand AA, et al. North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition 2025 guidelines on the diagnosis of cyclic vomiting syndrome in children. J Pediatr Gastroenterol Nutr. 2025;81(5):1346-1359
+  citation: Karrento K, Rosen JM, Gelfand AA, et al. North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition 2025 guidelines on the diagnosis of cyclic vomiting syndrome in children. J Pediatr Gastroenterol Nutr. 2025;81(5):1346-1359
+  doi: 10.1002/jpn3.70193
+  pmid: '40836301'
+  pmcid: null
+  license_note: Wiley（CC表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1033
+  legacy_id: null
+  title: Thornton PS, Stanley CA, De Leon DD, et al. Recommendations from the Pediatric Endocrine Society for Evaluation and Management of Persistent Hypoglycemia in Neonates, Infants, and Children. J Pediatr. 2015;167(2):238-245
+  citation: Thornton PS, Stanley CA, De Leon DD, et al. Recommendations from the Pediatric Endocrine Society for Evaluation and Management of Persistent Hypoglycemia in Neonates, Infants, and Children. J Pediatr. 2015;167(2):238-245
+  doi: 10.1016/j.jpeds.2015.03.057
+  pmid: '25957977'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1034
+  legacy_id: null
+  title: 'Özen H. Glycogen storage diseases: New perspectives. World J Gastroenterol. 2007;13(18):2541-2553'
+  citation: 'Özen H. Glycogen storage diseases: New perspectives. World J Gastroenterol. 2007;13(18):2541-2553'
+  doi: 10.3748/wjg.v13.i18.2541
+  pmid: '17552001'
+  pmcid: null
+  license_note: © 2007 Baishideng Publishing Group（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1035
+  legacy_id: null
+  title: 'Welling L, Bernstein LE, Berry GT, et al. International clinical guideline for the management of classical galactosemia: diagnosis, treatment, and follow-up. J Inherit Metab Dis. 2017;40(2):171-176'
+  citation: 'Welling L, Bernstein LE, Berry GT, et al. International clinical guideline for the management of classical galactosemia: diagnosis, treatment, and follow-up. J Inherit Metab Dis. 2017;40(2):171-176'
+  doi: 10.1007/s10545-016-9990-5
+  pmid: '27858262'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1036
+  legacy_id: null
+  title: Platt FM, d'Azzo A, Davidson BL, Neufeld EF, Tifft CJ. Lysosomal storage diseases. Nat Rev Dis Primers. 2018;4(1):27
+  citation: Platt FM, d'Azzo A, Davidson BL, Neufeld EF, Tifft CJ. Lysosomal storage diseases. Nat Rev Dis Primers. 2018;4(1):27
+  doi: 10.1038/s41572-018-0025-4
+  pmid: '30275469'
+  pmcid: null
+  license_note: Nature Portfolio（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1037
+  legacy_id: null
+  title: Muenzer J. Overview of the mucopolysaccharidoses. Rheumatology (Oxford). 2011;50 Suppl 5:v4-v12
+  citation: Muenzer J. Overview of the mucopolysaccharidoses. Rheumatology (Oxford). 2011;50 Suppl 5:v4-v12
+  doi: 10.1093/rheumatology/ker394
+  pmid: '22210669'
+  pmcid: null
+  license_note: Oxford University Press（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1038
+  legacy_id: null
+  title: 'van Wegberg AMJ, MacDonald A, Ahring K, et al. The complete European guidelines on phenylketonuria: diagnosis and treatment. Orphanet J Rare Dis. 2017;12:162'
+  citation: 'van Wegberg AMJ, MacDonald A, Ahring K, et al. The complete European guidelines on phenylketonuria: diagnosis and treatment. Orphanet J Rare Dis. 2017;12:162'
+  doi: 10.1186/s13023-017-0685-2
+  pmid: '29025426'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1039
+  legacy_id: null
+  title: 'Häberle J, Burlina A, Chakrapani A, et al. Suggested guidelines for the diagnosis and management of urea cycle disorders: First revision. J Inherit Metab Dis. 2019;42(6):1192-1230'
+  citation: 'Häberle J, Burlina A, Chakrapani A, et al. Suggested guidelines for the diagnosis and management of urea cycle disorders: First revision. J Inherit Metab Dis. 2019;42(6):1192-1230'
+  doi: 10.1002/jimd.12100
+  pmid: '30982989'
+  pmcid: null
+  license_note: © 2019 SSIEM（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1040
+  legacy_id: null
+  title: 'Forny P, Hörster F, Ballhausen D, et al. Guidelines for the diagnosis and management of methylmalonic acidaemia and propionic acidaemia: First revision. J Inherit Metab Dis. 2021;44(3):566-592'
+  citation: 'Forny P, Hörster F, Ballhausen D, et al. Guidelines for the diagnosis and management of methylmalonic acidaemia and propionic acidaemia: First revision. J Inherit Metab Dis. 2021;44(3):566-592'
+  doi: 10.1002/jimd.12370
+  pmid: '33595124'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1041
+  legacy_id: null
+  title: Minamitani K. Newborn Screening for Congenital Hypothyroidism in Japan. Int J Neonatal Screen. 2021;7(3):34
+  citation: Minamitani K. Newborn Screening for Congenital Hypothyroidism in Japan. Int J Neonatal Screen. 2021;7(3):34
+  doi: 10.3390/ijns7030034
+  pmid: '34203169'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1046
+  legacy_id: null
+  title: 'Goyal A, Kubihal S, Gupta Y, Jyotsna VP, Khadgawat R. Dynamic Testing for Evaluation of Adrenal and Gonadal Function in Pediatric and Adult Endocrinology: An Overview. Indian J Endocrinol Metab. 2019;23(6):593-601'
+  citation: 'Goyal A, Kubihal S, Gupta Y, Jyotsna VP, Khadgawat R. Dynamic Testing for Evaluation of Adrenal and Gonadal Function in Pediatric and Adult Endocrinology: An Overview. Indian J Endocrinol Metab. 2019;23(6):593-601'
+  doi: 10.4103/ijem.IJEM_553_19
+  pmid: '32042694'
+  pmcid: null
+  license_note: CC BY-NC-SA 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1047
+  legacy_id: null
+  title: Fenske W, Refardt J, Chifu I, et al. A Copeptin-Based Approach in the Diagnosis of Diabetes Insipidus. N Engl J Med. 2018;379(5):428-439
+  citation: Fenske W, Refardt J, Chifu I, et al. A Copeptin-Based Approach in the Diagnosis of Diabetes Insipidus. N Engl J Med. 2018;379(5):428-439
+  doi: 10.1056/NEJMoa1803760
+  pmid: '30067922'
+  pmcid: null
+  license_note: © Massachusetts Medical Society（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1048
+  legacy_id: null
+  title: Gaddey HL, Holder KK. Unintentional Weight Loss in Older Adults. Am Fam Physician. 2021;104(1):34-40
+  citation: Gaddey HL, Holder KK. Unintentional Weight Loss in Older Adults. Am Fam Physician. 2021;104(1):34-40
+  doi: null
+  pmid: '34264616'
+  pmcid: null
+  license_note: © 2021 American Academy of Family Physicians
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1049
+  legacy_id: null
+  title: van der Valk ES, van den Akker ELT, Savas M, et al. A comprehensive diagnostic approach to detect underlying causes of obesity in adults. Obes Rev. 2019;20(6):795-804
+  citation: van der Valk ES, van den Akker ELT, Savas M, et al. A comprehensive diagnostic approach to detect underlying causes of obesity in adults. Obes Rev. 2019;20(6):795-804
+  doi: 10.1111/obr.12836
+  pmid: '30821060'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1050
+  legacy_id: null
+  title: Führer D, Bockisch A, Schmid KW. Euthyroid Goiter With and Without Nodules—Diagnosis and Treatment. Dtsch Arztebl Int. 2012;109(29-30):506-516
+  citation: Führer D, Bockisch A, Schmid KW. Euthyroid Goiter With and Without Nodules—Diagnosis and Treatment. Dtsch Arztebl Int. 2012;109(29-30):506-516
+  doi: 10.3238/arztebl.2012.0506
+  pmid: '23008749'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1054
+  legacy_id: null
+  title: 'Ahmad S, Kuraganti G, Steenkamp D. Hypercalcemic Crisis: A Clinical Review. Am J Med. 2015;128(3):239-245'
+  citation: 'Ahmad S, Kuraganti G, Steenkamp D. Hypercalcemic Crisis: A Clinical Review. Am J Med. 2015;128(3):239-245'
+  doi: 10.1016/j.amjmed.2014.09.030
+  pmid: '25447624'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（Elsevier）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1055
+  legacy_id: null
+  title: 'McCall AL, Lieb DC, Gianchandani R, et al. Management of Individuals With Diabetes at High Risk for Hypoglycemia: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2023;108(3):529-562'
+  citation: 'McCall AL, Lieb DC, Gianchandani R, et al. Management of Individuals With Diabetes at High Risk for Hypoglycemia: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2023;108(3):529-562'
+  doi: 10.1210/clinem/dgac596
+  pmid: '36477488'
+  pmcid: null
+  license_note: © The Endocrine Society
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1056
+  legacy_id: null
+  title: 厚生労働省. 令和6年国民健康・栄養調査結果の概要. 2025年公表（調査は2024年10〜11月実施）
+  citation: 厚生労働省. 令和6年国民健康・栄養調査結果の概要. 2025年公表（調査は2024年10〜11月実施）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（出典明記で利用可）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1057
+  legacy_id: null
+  title: 'Verbalis JG, Goldsmith SR, Greenberg A, et al. Diagnosis, Evaluation, and Treatment of Hyponatremia: Expert Panel Recommendations. Am J Med. 2013;126(10 Suppl 1):S1-S42'
+  citation: 'Verbalis JG, Goldsmith SR, Greenberg A, et al. Diagnosis, Evaluation, and Treatment of Hyponatremia: Expert Panel Recommendations. Am J Med. 2013;126(10 Suppl 1):S1-S42'
+  doi: 10.1016/j.amjmed.2013.07.006
+  pmid: '24074529'
+  pmcid: null
+  license_note: ライセンス表示を確認できず（Elsevier）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1058
+  legacy_id: null
+  title: Woodcock T, Barker P, Daniel S, et al. Guidelines for the management of glucocorticoids during the peri-operative period for patients with adrenal insufficiency. Anaesthesia. 2020;75(5):654-663
+  citation: Woodcock T, Barker P, Daniel S, et al. Guidelines for the management of glucocorticoids during the peri-operative period for patients with adrenal insufficiency. Anaesthesia. 2020;75(5):654-663
+  doi: 10.1111/anae.14963
+  pmid: '32017012'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/22_en_c.md の出典マスター表から
