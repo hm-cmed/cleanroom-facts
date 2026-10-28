@@ -1,0 +1,90 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round20_EN.md
+round: 22
+name: 内分泌・代謝・栄養・乳腺 第22回（BR・IE・EX）
+id_start:
+  BR: 1
+  IE: 1
+  EX: 1
+src_range:
+- 1011
+- 1070
+target_cards:
+- 40
+- 90
+targets:
+- code: Ⅹ-10-A-①
+  name: 成長ホルモン分泌不全性低身長
+  level: b
+  prefix: IE
+- code: Ⅹ-10-A-②
+  name: 先天性甲状腺機能低下症
+  level: b
+  prefix: IE
+- code: Ⅹ-10-A-③
+  name: 先天性副腎皮質過形成
+  level: b
+  prefix: IE
+- code: Ⅹ-10-A-④
+  name: 性早熟症<思春期早発症>
+  level: b
+  prefix: IE
+- code: Ⅹ-10-B-①
+  name: アセトン血性嘔吐症<周期性嘔吐症>
+  level: a
+  prefix: IE
+- code: Ⅹ-10-B-②
+  name: 新生児低血糖症
+  level: b
+  prefix: IE
+- code: Ⅹ-10-C-①
+  name: 糖原病
+  level: c
+  prefix: IE
+- code: Ⅹ-10-C-②
+  name: ガラクトース血症
+  level: c
+  prefix: IE
+- code: Ⅹ-10-C-③
+  name: リピドーシス
+  level: c
+  prefix: IE
+- code: Ⅹ-10-C-④
+  name: ムコ多糖症
+  level: c
+  prefix: IE
+- code: Ⅹ-10-C-⑤
+  name: 先天性アミノ酸代謝異常症
+  level: c
+  prefix: IE
+- code: Ⅹ-10-C-⑥
+  name: 尿素サイクル異常症
+  level: c
+  prefix: IE
+- code: Ⅹ-10-C-⑦
+  name: 有機酸代謝異常症
+  level: c
+  prefix: IE
+- code: Ⅹ-11-A-①
+  name: 乳腺炎
+  level: b
+  prefix: BR
+- code: Ⅹ-11-B-①
+  name: 乳癌
+  level: a
+  prefix: BR
+- code: Ⅹ-11-B-②
+  name: 乳管内乳頭腫
+  level: c
+  prefix: BR
+- code: Ⅹ-11-B-③
+  name: 乳腺線維腺腫
+  level: c
+  prefix: BR
+- code: Ⅹ-11-B-④
+  name: 遺伝性乳癌卵巣癌症候群
+  level: c
+  prefix: BR
+- code: Ⅹ-11-C-①
+  name: 乳腺症
+  level: b
+  prefix: BR

@@ -35,3 +35,10 @@
 - {prefix: GU, name: 尿路と男性生殖器の腫瘍、男性生殖器の疾患, field: 腎・泌尿器・生殖器}
 - {prefix: GY, name: 女性生殖器の炎症・腫瘍・形態異常・損傷, field: 腎・泌尿器・生殖器}
 - {prefix: RP, name: 月経異常・不妊・避妊・更年期, field: 腎・泌尿器・生殖器}
+- {prefix: EN, name: 間脳・下垂体、副腎、その他の内分泌疾患, field: 内分泌・代謝・栄養・乳腺}
+- {prefix: TH, name: 甲状腺、副甲状腺とカルシウム・リン代謝, field: 内分泌・代謝・栄養・乳腺}
+- {prefix: DM, name: 糖質代謝異常（糖尿病・低血糖症）, field: 内分泌・代謝・栄養・乳腺}
+- {prefix: MT, name: 脂質・蛋白・その他の代謝異常, field: 内分泌・代謝・栄養・乳腺}
+- {prefix: BR, name: 乳腺・乳房疾患, field: 内分泌・代謝・栄養・乳腺}
+- {prefix: IE, name: 小児の内分泌疾患・先天代謝異常, field: 内分泌・代謝・栄養・乳腺}
+- {prefix: EX, name: 内分泌・代謝の症候・検査・治療（横断）, field: 内分泌・代謝・栄養・乳腺}

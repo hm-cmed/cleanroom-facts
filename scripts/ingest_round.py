@@ -43,7 +43,7 @@ def parse_src_table(text: str) -> list[dict]:
         if line.startswith("| SRC |"):
             header = [c.strip() for c in line.strip("|").split("|")]
             continue
-        m = re.match(r"^\|\s*(SRC-\d{3})\s*\|", line)
+        m = re.match(r"^\|\s*(SRC-\d{3,4})\s*\|", line)
         if header and m:
             cells = [c.strip() for c in line.strip().strip("|").split("|")]
             rows.append(dict(zip(header, cells)))

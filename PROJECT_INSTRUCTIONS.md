@@ -74,3 +74,4 @@ Project指示文とスキーマに従い、最新の引き継ぎメモ（0(N-1)_
 | 11〜13 | 呼吸器 | RI・RO／IL・PV／LC・PL・RX | 依頼文は `docs/tasks/round11_RS.md`（3つのチャットに分けて並行で作る） |
 | 14 | 呼吸器の補完 | RI・RO・IL・LC・PL | 依頼文は `docs/tasks/round14_RS_supp.md`（試行：2つの作り手で比較） |
 | 15〜19 | 腎・泌尿器・生殖器 | GN・KT／KF・KX／UR・GU／GY／RP | 依頼文は `docs/tasks/round15_KU.md`（主に Muse が順に作り、受け入れ検査を通す） |
+| 20〜22 | 内分泌・代謝・栄養・乳腺 | EN・TH／DM・MT／BR・IE・EX | 依頼文は `docs/tasks/round20_EN.md`（分割案は Muse、受け入れ検査を通す） |

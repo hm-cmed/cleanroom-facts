@@ -8,11 +8,11 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^(HP|UG|ES|GD|IN|LV|BP|AB|XS|NG|AR|HF|CH|VD|IH|MP|HT|VS|CX|RI|RO|IL|PV|LC|PL|RX|GN|KT|KF|KX|UR|GU|GY|RP)-[0-9]{3}$"
+      "pattern": "^(HP|UG|ES|GD|IN|LV|BP|AB|XS|NG|AR|HF|CH|VD|IH|MP|HT|VS|CX|RI|RO|IL|PV|LC|PL|RX|GN|KT|KF|KX|UR|GU|GY|RP|EN|TH|DM|MT|BR|IE|EX)-[0-9]{3}$"
     },
     "domain": {
       "type": "string",
-      "enum": ["HP", "UG", "ES", "GD", "IN", "LV", "BP", "AB", "XS", "NG", "AR", "HF", "CH", "VD", "IH", "MP", "HT", "VS", "CX", "RI", "RO", "IL", "PV", "LC", "PL", "RX", "GN", "KT", "KF", "KX", "UR", "GU", "GY", "RP"]
+      "enum": ["HP", "UG", "ES", "GD", "IN", "LV", "BP", "AB", "XS", "NG", "AR", "HF", "CH", "VD", "IH", "MP", "HT", "VS", "CX", "RI", "RO", "IL", "PV", "LC", "PL", "RX", "GN", "KT", "KF", "KX", "UR", "GU", "GY", "RP", "EN", "TH", "DM", "MT", "BR", "IE", "EX"]
     },
     "subdomain": { "type": ["string", "null"] },
     "assertion": {
@@ -31,7 +31,7 @@
       "required": ["source", "legal_basis", "source_class"],
       "additionalProperties": false,
       "properties": {
-        "source_ref": { "type": ["string", "null"], "pattern": "^SRC-[0-9]{3}$" },
+        "source_ref": { "type": ["string", "null"], "pattern": "^SRC-[0-9]{3,4}$" },
         "source": { "type": "string" },
         "doi": { "type": ["string", "null"] },
         "pmid": { "type": ["string", "null"], "pattern": "^[0-9]+$" },
