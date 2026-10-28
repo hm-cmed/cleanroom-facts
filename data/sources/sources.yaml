@@ -5520,6 +5520,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md の出典マスター表から
+  - date: '2026-10-28'
+    by: claude-code
+    change: SRC-370 と同一の文献（BTS 胸膜疾患ガイドライン 2023）。カードの参照は SRC-370 に付け替えた。番号は再利用しない
 - id: SRC-486
   legacy_id: null
   title: 'Hwang JW, Kim Y, Hwang JH, Kim TS, Ro DW, Lee KS. Lymphangitic Carcinomatosis of the Lung: Serial Changes on High-Resolution CT. J Korean Radiol Soc 1997;37(6):1051-1057'

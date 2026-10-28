@@ -4,14 +4,14 @@
 
 - 消化器（第1〜7回）857件、循環器（第8〜10回）266件、呼吸器（第11〜14回）299件。全件 draft（消化器の一部は verified_sources）。
 - 呼吸器の補完（第14回）は試行として2つの作り手（Claude・Muse）に同じ依頼を出し、比べた（`reports/trial_eval_14_result.md`：Claude 93.8点、Muse 85.4点、どちらも目安の80点以上）。Claude の成果物を全件採用し、Muse の成果物から重ならない13件を加えた。
-- 本編の重複2組（IL-035 と LC-032、SRC-370 と SRC-485）は、対応案（`proposals/rs_duplicates_20261028.md`）が承認待ち。
+- 本編の重複2組は承認を得て解消した（IL-035 を廃止して LC-032 に統合、SRC-485 を使うカードを SRC-370 に付け替え）。
 
 ## 2. 腎・泌尿器・生殖器（第15〜19回）
 
 - 依頼文：`docs/tasks/round15_KU.md`。主に Muse が第15回から順に作り、Claude Code が受け入れ検査（`scripts/accept_round.py`、仕様は `docs/tasks/specs/round15〜19.yaml`）をしてから取り込む。抜けは Claude が補完する。
 - 接頭辞：第15回 GN・KT、第16回 KF・KX、第17回 UR・GU、第18回 GY、第19回 RP（CLAUDE.md 第4節、`data/domains.yaml`、スキーマに追加済み）。
 - SRC 番号：第15回 SRC-571〜630、第16回 631〜690、第17回 691〜750、第18回 751〜810、第19回 811〜870。
-- 出題基準 医学各論 Ⅷ の小項目（177項目）を `data/curriculum/kokushi_r6_items.yaml` に追加（原本との照合は未了。「子宮留膿症・腫」「卵管留膿症・腫」の表記は要確認）。
+- 出題基準 医学各論 Ⅷ の小項目（177項目）を `data/curriculum/kokushi_r6_items.yaml` に追加（原本との照合は未了。「子宮留膿症・腫」などの読み取りの崩れは三原の確認で直した）。
 - 原本の保存名：`raw/15_ku_a.md`〜`raw/19_ku_e.md`。取り込みは `python scripts/ingest_round.py raw/15_ku_a.md GN,KT` のように行う。
 
 ## 3. 重複を避ける範囲

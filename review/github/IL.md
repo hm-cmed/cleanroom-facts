@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-28
 
-全 61 件のうち、監修済み 0 件。
+全 60 件のうち、監修済み 0 件。
 
 ## 特発性間質性肺炎
 
@@ -436,23 +436,6 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-034&card_id=IL-034&version=542f499a7a)　（版 `542f499a7a`）
 
 **[ここまでの 2 件（IL-033〜IL-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-033%E3%80%9CIL-034&cards=IL-033%20e1596c869b%0AIL-034%20542f499a7a)**
-
----
-
-## 石綿肺
-
-### IL-035　下書き（出典の照合前）
-
-> 石綿健康被害救済制度（石綿による健康被害の救済に関する法律）の対象となる指定疾病は、中皮腫、石綿による肺がん、著しい呼吸機能障害を伴う石綿肺、著しい呼吸機能障害を伴うびまん性胸膜肥厚の4つで、労災保険などの補償を受けられない人とその遺族が対象となる。申請先は環境再生保全機構である。
-
-- 条件：region: 日本／guideline: 石綿健康被害救済法
-- よくある誤解：石綿肺は労災の対象にならない人には補償がない
-- 不確実性：千葉県の案内ページで確認。法律本文（e-Gov）と環境再生保全機構のページでの照合は未了。給付額は改定されるため書いていない。
-- 出典：千葉県. 石綿による健康被害の救済に関する法律（石綿健康被害救済制度）の案内ページ　[リンク](https://www.pref.chiba.lg.jp/kenzu/gan/asbesto/kyuusai.html)（区分 GOV_JP）
-- 出題基準：医学各論 Ⅳ-4-E-②（石綿肺<asbestosis>、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-221 (id: Jlvnly4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-035&card_id=IL-035&version=0aad1818b2)　（版 `0aad1818b2`）
-
-**[ここまでの 1 件（IL-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-035&cards=IL-035%200aad1818b2)**
 
 ---
 

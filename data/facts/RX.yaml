@@ -79,7 +79,7 @@
     differential: null
     common_misconception: Light の基準は3項目すべてを満たしたときに滲出性と判定する
   provenance:
-    source_ref: SRC-485
+    source_ref: SRC-370
     source: Roberts ME, Rahman NM, Maskell NA, et al. British Thoracic Society Guideline for pleural disease. Thorax 2023;78:1143-1156
     doi: 10.1136/thorax-2023-220304
     pmid: null
@@ -103,6 +103,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: provenance.source_ref を SRC-485 から SRC-370 に付け替え（同じ文献の二重登録の解消、proposals/rs_duplicates_20261028.md、監修者の承認による。主張文・数値は変更なし）
 - id: RX-004
   domain: RX
   subdomain: 主要症候（胸水）
@@ -114,7 +117,7 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-485
+    source_ref: SRC-370
     source: Roberts ME, Rahman NM, Maskell NA, et al. British Thoracic Society Guideline for pleural disease. Thorax 2023;78:1143-1156
     doi: 10.1136/thorax-2023-220304
     pmid: null
@@ -138,6 +141,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: provenance.source_ref を SRC-485 から SRC-370 に付け替え（同じ文献の二重登録の解消、proposals/rs_duplicates_20261028.md、監修者の承認による。主張文・数値は変更なし）
 - id: RX-005
   domain: RX
   subdomain: 主要症候（胸水）
@@ -149,7 +155,7 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-485
+    source_ref: SRC-370
     source: Roberts ME, Rahman NM, Maskell NA, et al. British Thoracic Society Guideline for pleural disease. Thorax 2023;78:1143-1156
     doi: 10.1136/thorax-2023-220304
     pmid: null
@@ -173,6 +179,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-28'
+    by: claude-code
+    change: provenance.source_ref を SRC-485 から SRC-370 に付け替え（同じ文献の二重登録の解消、proposals/rs_duplicates_20261028.md、監修者の承認による。主張文・数値は変更なし）
 - id: RX-006
   domain: RX
   subdomain: 呼吸機能検査
