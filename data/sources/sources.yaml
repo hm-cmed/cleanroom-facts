@@ -12627,3 +12627,798 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+- id: SRC-1071
+  legacy_id: null
+  title: Saeki H, Ohya Y, Arakawa H, Ichiyama S, et al. English version of clinical practice guidelines for the management of atopic dermatitis 2024. The Journal of Dermatology. 2025;52(2):e70-e142.
+  citation: Saeki H, Ohya Y, Arakawa H, Ichiyama S, et al. English version of clinical practice guidelines for the management of atopic dermatitis 2024. The Journal of Dermatology. 2025;52(2):e70-e142.
+  doi: 10.1111/1346-8138.17544
+  pmid: '39707640'
+  pmcid: null
+  license_note: 日本皮膚科学会ガイドライン英語版（CCライセンス表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1072
+  legacy_id: null
+  title: 'Tramontana M, Hansel K, Bianchi L, Sensini C, et al. Advancing the understanding of allergic contact dermatitis: from pathophysiology to novel therapeutic approaches. Frontiers in Medicine. 2023;10:1184289.'
+  citation: 'Tramontana M, Hansel K, Bianchi L, Sensini C, et al. Advancing the understanding of allergic contact dermatitis: from pathophysiology to novel therapeutic approaches. Frontiers in Medicine. 2023;10:1184289.'
+  doi: 10.3389/fmed.2023.1184289
+  pmid: '37283623'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1073
+  legacy_id: null
+  title: Dall'Oglio F, Nasca MR, Gerbino C, Micali G. An Overview of the Diagnosis and Management of Seborrheic Dermatitis. Clinical, Cosmetic and Investigational Dermatology. 2022;15:1537-1548.
+  citation: Dall'Oglio F, Nasca MR, Gerbino C, Micali G. An Overview of the Diagnosis and Management of Seborrheic Dermatitis. Clinical, Cosmetic and Investigational Dermatology. 2022;15:1537-1548.
+  doi: 10.2147/CCID.S284671
+  pmid: '35967915'
+  pmcid: null
+  license_note: CC BY-NC 3.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1074
+  legacy_id: null
+  title: 'Srivastava D, Sathe NC, Persaud Y. Asteatotic Eczema. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026.'
+  citation: 'Srivastava D, Sathe NC, Persaud Y. Asteatotic Eczema. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026.'
+  doi: null
+  pmid: '31747214'
+  pmcid: null
+  license_note: © StatPearls Publishing LLC（CCライセンス表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1075
+  legacy_id: null
+  title: 'Hardin CA, Love LW, Saleh HM, Farci F. Nummular Dermatitis. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024.'
+  citation: 'Hardin CA, Love LW, Saleh HM, Farci F. Nummular Dermatitis. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024.'
+  doi: null
+  pmid: '33351436'
+  pmcid: null
+  license_note: © StatPearls Publishing LLC（CCライセンス表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1076
+  legacy_id: null
+  title: 'Yosipovitch G, Nedorost ST, Silverberg JI, Friedman AJ. Stasis Dermatitis: An Overview of Its Clinical Presentation, Pathogenesis, and Management. American Journal of Clinical Dermatology. 2023;24(2):275-286.'
+  citation: 'Yosipovitch G, Nedorost ST, Silverberg JI, Friedman AJ. Stasis Dermatitis: An Overview of Its Clinical Presentation, Pathogenesis, and Management. American Journal of Clinical Dermatology. 2023;24(2):275-286.'
+  doi: 10.1007/s40257-022-00753-5
+  pmid: '36800152'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1077
+  legacy_id: null
+  title: Zuberbier T, Abdul Latiff AH, Abuzakouk M, Aquilina S, et al. The international EAACI/GA²LEN/EuroGuiDerm/APAAACI guideline for the definition, classification, diagnosis, and management of urticaria. Allergy. 2022;77(3):734-766.
+  citation: Zuberbier T, Abdul Latiff AH, Abuzakouk M, Aquilina S, et al. The international EAACI/GA²LEN/EuroGuiDerm/APAAACI guideline for the definition, classification, diagnosis, and management of urticaria. Allergy. 2022;77(3):734-766.
+  doi: 10.1111/all.15090
+  pmid: '34536239'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1078
+  legacy_id: null
+  title: Maurer M, Magerl M, Betschel S, Aberer W, et al. The international WAO/EAACI guideline for the management of hereditary angioedema - The 2021 revision and update. World Allergy Organization Journal. 2022;15(3):100627.
+  citation: Maurer M, Magerl M, Betschel S, Aberer W, et al. The international WAO/EAACI guideline for the management of hereditary angioedema - The 2021 revision and update. World Allergy Organization Journal. 2022;15(3):100627.
+  doi: 10.1016/j.waojou.2022.100627
+  pmid: '35497649'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1079
+  legacy_id: null
+  title: 'Müller S, Zeidler C, Ständer S. Chronic Prurigo Including Prurigo Nodularis: New Insights and Treatments. American Journal of Clinical Dermatology. 2024;25(1):15-33.'
+  citation: 'Müller S, Zeidler C, Ständer S. Chronic Prurigo Including Prurigo Nodularis: New Insights and Treatments. American Journal of Clinical Dermatology. 2024;25(1):15-33.'
+  doi: 10.1007/s40257-023-00818-z
+  pmid: '37717255'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1080
+  legacy_id: null
+  title: 'Beutler BD, Cohen PR, Lee RA. Prurigo Pigmentosa: Literature Review. American Journal of Clinical Dermatology. 2015;16(6):533-543.'
+  citation: 'Beutler BD, Cohen PR, Lee RA. Prurigo Pigmentosa: Literature Review. American Journal of Clinical Dermatology. 2015;16(6):533-543.'
+  doi: 10.1007/s40257-015-0154-4
+  pmid: '26334426'
+  pmcid: null
+  license_note: Springer（CCライセンス表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1081
+  legacy_id: null
+  title: 'Del Pozzo-Magaña BR, Liy-Wong C. Drugs and the skin: A concise review of cutaneous adverse drug reactions. British Journal of Clinical Pharmacology. 2024;90(8):1838-1855.'
+  citation: 'Del Pozzo-Magaña BR, Liy-Wong C. Drugs and the skin: A concise review of cutaneous adverse drug reactions. British Journal of Clinical Pharmacology. 2024;90(8):1838-1855.'
+  doi: 10.1111/bcp.15490
+  pmid: '35974692'
+  pmcid: null
+  license_note: Wiley（CCライセンス表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1082
+  legacy_id: null
+  title: 'Sokumbi O, Wetter DA. Clinical features, diagnosis, and treatment of erythema multiforme: a review for the practicing dermatologist. International Journal of Dermatology. 2012;51(8):889-902.'
+  citation: 'Sokumbi O, Wetter DA. Clinical features, diagnosis, and treatment of erythema multiforme: a review for the practicing dermatologist. International Journal of Dermatology. 2012;51(8):889-902.'
+  doi: 10.1111/j.1365-4632.2011.05348.x
+  pmid: '22788803'
+  pmcid: null
+  license_note: Wiley（CCライセンス表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1083
+  legacy_id: null
+  title: 'Pérez-Garza DM, Chavez-Alvarez S, Ocampo-Candiani J, Gomez-Flores M. Erythema Nodosum: A Practical Approach and Diagnostic Algorithm. American Journal of Clinical Dermatology. 2021;22(3):367-378.'
+  citation: 'Pérez-Garza DM, Chavez-Alvarez S, Ocampo-Candiani J, Gomez-Flores M. Erythema Nodosum: A Practical Approach and Diagnostic Algorithm. American Journal of Clinical Dermatology. 2021;22(3):367-378.'
+  doi: 10.1007/s40257-021-00592-w
+  pmid: '33683567'
+  pmcid: null
+  license_note: © The Author(s), under exclusive licence to Springer Nature Switzerland AG 2021（CCライセンス表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1084
+  legacy_id: null
+  title: Hsu DY, Brieva J, Silverberg NB, Silverberg JI. Morbidity and Mortality of Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis in United States Adults. J Invest Dermatol. 2016;136(7):1387-1397
+  citation: Hsu DY, Brieva J, Silverberg NB, Silverberg JI. Morbidity and Mortality of Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis in United States Adults. J Invest Dermatol. 2016;136(7):1387-1397
+  doi: 10.1016/j.jid.2016.03.023
+  pmid: '27039263'
+  pmcid: null
+  license_note: © The Authors / Elsevier（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1085
+  legacy_id: null
+  title: 'Bastuji-Garin S, Fouchard N, Bertocchi M, Roujeau JC, Revuz J, Wolkenstein P. SCORTEN: A Severity-of-Illness Score for Toxic Epidermal Necrolysis. J Invest Dermatol. 2000;115(2):149-153'
+  citation: 'Bastuji-Garin S, Fouchard N, Bertocchi M, Roujeau JC, Revuz J, Wolkenstein P. SCORTEN: A Severity-of-Illness Score for Toxic Epidermal Necrolysis. J Invest Dermatol. 2000;115(2):149-153'
+  doi: 10.1046/j.1523-1747.2000.00061.x
+  pmid: '10951229'
+  pmcid: null
+  license_note: Elsevier（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1086
+  legacy_id: null
+  title: 'Shiohara T, Mizukawa Y. Drug-induced hypersensitivity syndrome (DiHS)/drug reaction with eosinophilia and systemic symptoms (DRESS): An update in 2019. Allergol Int. 2019;68(3):301-308'
+  citation: 'Shiohara T, Mizukawa Y. Drug-induced hypersensitivity syndrome (DiHS)/drug reaction with eosinophilia and systemic symptoms (DRESS): An update in 2019. Allergol Int. 2019;68(3):301-308'
+  doi: 10.1016/j.alit.2019.03.006
+  pmid: '31000444'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1087
+  legacy_id: null
+  title: Cohen PR. Sweet's syndrome – a comprehensive review of an acute febrile neutrophilic dermatosis. Orphanet J Rare Dis. 2007;2:34
+  citation: Cohen PR. Sweet's syndrome – a comprehensive review of an acute febrile neutrophilic dermatosis. Orphanet J Rare Dis. 2007;2:34
+  doi: 10.1186/1750-1172-2-34
+  pmid: '17655751'
+  pmcid: null
+  license_note: CC BY 2.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1088
+  legacy_id: null
+  title: 'Maverakis E, Ma C, Shinkai K, et al. Diagnostic Criteria of Ulcerative Pyoderma Gangrenosum: A Delphi Consensus of International Experts. JAMA Dermatol. 2018;154(4):461-466'
+  citation: 'Maverakis E, Ma C, Shinkai K, et al. Diagnostic Criteria of Ulcerative Pyoderma Gangrenosum: A Delphi Consensus of International Experts. JAMA Dermatol. 2018;154(4):461-466'
+  doi: 10.1001/jamadermatol.2017.5980
+  pmid: '29450466'
+  pmcid: null
+  license_note: © American Medical Association（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1089
+  legacy_id: null
+  title: Decousus H, Prandoni P, Mismetti P, et al.; CALISTO Study Group. Fondaparinux for the Treatment of Superficial-Vein Thrombosis in the Legs. N Engl J Med. 2010;363(13):1222-1232
+  citation: Decousus H, Prandoni P, Mismetti P, et al.; CALISTO Study Group. Fondaparinux for the Treatment of Superficial-Vein Thrombosis in the Legs. N Engl J Med. 2010;363(13):1222-1232
+  doi: 10.1056/NEJMoa0912072
+  pmid: '20860504'
+  pmcid: null
+  license_note: © Massachusetts Medical Society（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1090
+  legacy_id: null
+  title: Nyssen A, Benhadou F, Magnée M, André J, Koopmansch C, Wautrecht JC. Chilblains. Vasa. 2020;49(2):133-140
+  citation: Nyssen A, Benhadou F, Magnée M, André J, Koopmansch C, Wautrecht JC. Chilblains. Vasa. 2020;49(2):133-140
+  doi: 10.1024/0301-1526/a000838
+  pmid: '31808732'
+  pmcid: null
+  license_note: Hogrefe（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1091
+  legacy_id: null
+  title: 'Gibbs MB, English JC 3rd, Zirwas MJ. Livedo reticularis: An update. J Am Acad Dermatol. 2005;52(6):1009-1019'
+  citation: 'Gibbs MB, English JC 3rd, Zirwas MJ. Livedo reticularis: An update. J Am Acad Dermatol. 2005;52(6):1009-1019'
+  doi: 10.1016/j.jaad.2004.11.051
+  pmid: '15928620'
+  pmcid: null
+  license_note: © American Academy of Dermatology / Elsevier（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1092
+  legacy_id: null
+  title: 'Gupta LK, Martin AM, Agarwal N, et al. Guidelines for the management of Stevens-Johnson syndrome/toxic epidermal necrolysis: An Indian perspective. Indian J Dermatol Venereol Leprol. 2016;82(6):603-625'
+  citation: 'Gupta LK, Martin AM, Agarwal N, et al. Guidelines for the management of Stevens-Johnson syndrome/toxic epidermal necrolysis: An Indian perspective. Indian J Dermatol Venereol Leprol. 2016;82(6):603-625'
+  doi: 10.4103/0378-6323.191134
+  pmid: '27716721'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1096
+  legacy_id: null
+  title: 'Nicholson CL, Daveluy S. Epidermal Nevus Syndromes. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023'
+  citation: 'Nicholson CL, Daveluy S. Epidermal Nevus Syndromes. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023'
+  doi: null
+  pmid: '32644429'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1097
+  legacy_id: null
+  title: 'Agarwal P, Patel BC. Nevus of Ota and Ito. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023'
+  citation: 'Agarwal P, Patel BC. Nevus of Ota and Ito. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023'
+  doi: null
+  pmid: '32809409'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1098
+  legacy_id: null
+  title: 'Legius E, Messiaen L, Wolkenstein P, et al. Revised diagnostic criteria for neurofibromatosis type 1 and Legius syndrome: an international consensus recommendation. Genet Med. 2021;23(8):1506-1513'
+  citation: 'Legius E, Messiaen L, Wolkenstein P, et al. Revised diagnostic criteria for neurofibromatosis type 1 and Legius syndrome: an international consensus recommendation. Genet Med. 2021;23(8):1506-1513'
+  doi: 10.1038/s41436-021-01170-5
+  pmid: '34012067'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1099
+  legacy_id: null
+  title: Northrup H, Aronow ME, Bebin EM, et al. Updated International Tuberous Sclerosis Complex Diagnostic Criteria and Surveillance and Management Recommendations. Pediatr Neurol. 2021;123:50-66
+  citation: Northrup H, Aronow ME, Bebin EM, et al. Updated International Tuberous Sclerosis Complex Diagnostic Criteria and Surveillance and Management Recommendations. Pediatr Neurol. 2021;123:50-66
+  doi: 10.1016/j.pediatrneurol.2021.07.011
+  pmid: '34399110'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1100
+  legacy_id: null
+  title: 'Lewis D, Vaidya R. Kasabach-Merritt Syndrome. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023'
+  citation: 'Lewis D, Vaidya R. Kasabach-Merritt Syndrome. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023'
+  doi: null
+  pmid: '30085595'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1101
+  legacy_id: null
+  title: Li M, Song Y, Zhou J. The Diagnosis and Treatment Technology of Port-Wine Stain, and the Prospect of Future Treatment. Dermatol Ther (Heidelb). 2026;16(2):875-894
+  citation: Li M, Song Y, Zhou J. The Diagnosis and Treatment Technology of Port-Wine Stain, and the Prospect of Future Treatment. Dermatol Ther (Heidelb). 2026;16(2):875-894
+  doi: 10.1007/s13555-026-01651-y
+  pmid: '41557111'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1102
+  legacy_id: null
+  title: Krowchuk DP, Frieden IJ, Mancini AJ, et al. Clinical Practice Guideline for the Management of Infantile Hemangiomas. Pediatrics. 2019;143(1):e20183475
+  citation: Krowchuk DP, Frieden IJ, Mancini AJ, et al. Clinical Practice Guideline for the Management of Infantile Hemangiomas. Pediatrics. 2019;143(1):e20183475
+  doi: 10.1542/peds.2018-3475
+  pmid: '30584062'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1103
+  legacy_id: null
+  title: 'Behravesh S, Yakes W, Gupta N, et al. Venous malformations: clinical diagnosis and treatment. Cardiovasc Diagn Ther. 2016;6(6):557-569'
+  citation: 'Behravesh S, Yakes W, Gupta N, et al. Venous malformations: clinical diagnosis and treatment. Cardiovasc Diagn Ther. 2016;6(6):557-569'
+  doi: 10.21037/cdt.2016.11.10
+  pmid: '28123976'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1104
+  legacy_id: null
+  title: 'Miceli A, Stewart KM. Lymphatic Malformations. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023'
+  citation: 'Miceli A, Stewart KM. Lymphatic Malformations. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023'
+  doi: null
+  pmid: '29261940'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1105
+  legacy_id: null
+  title: 'Zito PM, Scharf R. Epidermoid Cyst. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023'
+  citation: 'Zito PM, Scharf R. Epidermoid Cyst. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023'
+  doi: null
+  pmid: '29763149'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1106
+  legacy_id: null
+  title: 'Greco MJ, Bhutta BS. Seborrheic Keratosis. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024'
+  citation: 'Greco MJ, Bhutta BS. Seborrheic Keratosis. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024'
+  doi: null
+  pmid: '31424869'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1107
+  legacy_id: null
+  title: Luba MC, Bangs SA, Mohler AM, Stulberg DL. Common benign skin tumors. Am Fam Physician. 2003;67(4):729-738
+  citation: Luba MC, Bangs SA, Mohler AM, Stulberg DL. Common benign skin tumors. Am Fam Physician. 2003;67(4):729-738
+  doi: null
+  pmid: '12613727'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1108
+  legacy_id: null
+  title: 'Gauglitz GG, Korting HC, Pavicic T, et al. Hypertrophic scarring and keloids: pathomechanisms and current and emerging treatment strategies. Mol Med. 2011;17(1-2):113-125'
+  citation: 'Gauglitz GG, Korting HC, Pavicic T, et al. Hypertrophic scarring and keloids: pathomechanisms and current and emerging treatment strategies. Mol Med. 2011;17(1-2):113-125'
+  doi: 10.2119/molmed.2009.00153
+  pmid: '20927486'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1109
+  legacy_id: null
+  title: 'Fabro M, Fabro SR, Klitzke BB, de Araújo GL, Machado CA. Glomus tumor: revitalizing concepts. Radiol Bras. 2015;48(4):269-270'
+  citation: 'Fabro M, Fabro SR, Klitzke BB, de Araújo GL, Machado CA. Glomus tumor: revitalizing concepts. Radiol Bras. 2015;48(4):269-270'
+  doi: 10.1590/0100-3984.2014.0090
+  pmid: '26379331'
+  pmcid: null
+  license_note: CC BY（Creative Commons Attribution License）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1110
+  legacy_id: null
+  title: 'Hartmann K, Escribano L, Grattan C, et al. Cutaneous manifestations in patients with mastocytosis: Consensus report of the European Competence Network on Mastocytosis; the American Academy of Allergy, Asthma & Immunology; and the European Academy of Allergology and Clinical Immunology. J Allergy Clin Immunol. 2016;137(1):35-45'
+  citation: 'Hartmann K, Escribano L, Grattan C, et al. Cutaneous manifestations in patients with mastocytosis: Consensus report of the European Competence Network on Mastocytosis; the American Academy of Allergy, Asthma & Immunology; and the European Academy of Allergology and Clinical Immunology. J Allergy Clin Immunol. 2016;137(1):35-45'
+  doi: 10.1016/j.jaci.2015.08.034
+  pmid: '26476479'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1111
+  legacy_id: null
+  title: 'Ishihara K, Saida T, Otsuka F, Yamazaki N; Prognosis and Statistical Investigation Committee of the Japanese Skin Cancer Society. Statistical profiles of malignant melanoma and other skin cancers in Japan: 2007 update. International Journal of Clinical Oncology. 2008;13(1):33-41.'
+  citation: 'Ishihara K, Saida T, Otsuka F, Yamazaki N; Prognosis and Statistical Investigation Committee of the Japanese Skin Cancer Society. Statistical profiles of malignant melanoma and other skin cancers in Japan: 2007 update. International Journal of Clinical Oncology. 2008;13(1):33-41.'
+  doi: 10.1007/s10147-007-0751-1
+  pmid: '18307017'
+  pmcid: null
+  license_note: Springer TDM license（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1112
+  legacy_id: null
+  title: 国立がん研究センター がん情報サービス．メラノーマ（悪性黒色腫）．（更新・確認日：2023年6月7日）
+  citation: 国立がん研究センター がん情報サービス．メラノーマ（悪性黒色腫）．（更新・確認日：2023年6月7日）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 国立がん研究センター（公的機関の公開情報）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1113
+  legacy_id: null
+  title: 'Vestergaard ME, Macaskill P, Holt PE, Menzies SW. Dermoscopy compared with naked eye examination for the diagnosis of primary melanoma: a meta-analysis of studies performed in a clinical setting. British Journal of Dermatology. 2008;159(3):669-676.'
+  citation: 'Vestergaard ME, Macaskill P, Holt PE, Menzies SW. Dermoscopy compared with naked eye examination for the diagnosis of primary melanoma: a meta-analysis of studies performed in a clinical setting. British Journal of Dermatology. 2008;159(3):669-676.'
+  doi: 10.1111/j.1365-2133.2008.08713.x
+  pmid: '18616769'
+  pmcid: null
+  license_note: Wiley TDM license（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1114
+  legacy_id: null
+  title: 'Gershenwald JE, Scolyer RA, Hess KR, et al. Melanoma staging: Evidence-based changes in the American Joint Committee on Cancer eighth edition cancer staging manual. CA: A Cancer Journal for Clinicians. 2017;67(6):472-492.'
+  citation: 'Gershenwald JE, Scolyer RA, Hess KR, et al. Melanoma staging: Evidence-based changes in the American Joint Committee on Cancer eighth edition cancer staging manual. CA: A Cancer Journal for Clinicians. 2017;67(6):472-492.'
+  doi: 10.3322/caac.21409
+  pmid: '29028110'
+  pmcid: null
+  license_note: © 2017 American Cancer Society（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1115
+  legacy_id: null
+  title: 'Fukushima S, Ito T, Asai J, et al. Japanese Dermatological Association Guidelines: Clinical Questions of Guidelines for Melanoma 2025. The Journal of Dermatology. 2025;52(8):e666-e697.'
+  citation: 'Fukushima S, Ito T, Asai J, et al. Japanese Dermatological Association Guidelines: Clinical Questions of Guidelines for Melanoma 2025. The Journal of Dermatology. 2025;52(8):e666-e697.'
+  doi: 10.1111/1346-8138.17740
+  pmid: '40511899'
+  pmcid: null
+  license_note: © 2025 Japanese Dermatological Association（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1116
+  legacy_id: null
+  title: 'Ansai SI, Umebayashi Y, Katsumata N, et al. Japanese Dermatological Association Guidelines: Outlines of Guidelines for Cutaneous Squamous Cell Carcinoma 2020. The Journal of Dermatology. 2021;48(7):e288-e311.'
+  citation: 'Ansai SI, Umebayashi Y, Katsumata N, et al. Japanese Dermatological Association Guidelines: Outlines of Guidelines for Cutaneous Squamous Cell Carcinoma 2020. The Journal of Dermatology. 2021;48(7):e288-e311.'
+  doi: 10.1111/1346-8138.15889
+  pmid: '33963604'
+  pmcid: null
+  license_note: © 2021 Japanese Dermatological Association（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1117
+  legacy_id: null
+  title: Migden MR, Rischin D, Schmults CD, et al. PD-1 Blockade with Cemiplimab in Advanced Cutaneous Squamous-Cell Carcinoma. New England Journal of Medicine. 2018;379(4):341-351.
+  citation: Migden MR, Rischin D, Schmults CD, et al. PD-1 Blockade with Cemiplimab in Advanced Cutaneous Squamous-Cell Carcinoma. New England Journal of Medicine. 2018;379(4):341-351.
+  doi: 10.1056/NEJMoa1805131
+  pmid: '29863979'
+  pmcid: null
+  license_note: © Massachusetts Medical Society（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1118
+  legacy_id: null
+  title: 'Hoashi T, Ishikawa M, Uehara J, et al. Japanese Dermatological Association guidelines: Outlines of Japanese clinical guidelines for basal cell carcinoma 2021. The Journal of Dermatology. 2024;51(4):e90-e105.'
+  citation: 'Hoashi T, Ishikawa M, Uehara J, et al. Japanese Dermatological Association guidelines: Outlines of Japanese clinical guidelines for basal cell carcinoma 2021. The Journal of Dermatology. 2024;51(4):e90-e105.'
+  doi: 10.1111/1346-8138.16944
+  pmid: '38264942'
+  pmcid: null
+  license_note: © 2023 Japanese Dermatological Association（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1119
+  legacy_id: null
+  title: Eisen DB, Asgari MM, Bennett DD, et al. Guidelines of care for the management of actinic keratosis. Journal of the American Academy of Dermatology. 2021;85(4):e209-e233.
+  citation: Eisen DB, Asgari MM, Bennett DD, et al. Guidelines of care for the management of actinic keratosis. Journal of the American Academy of Dermatology. 2021;85(4):e209-e233.
+  doi: 10.1016/j.jaad.2021.02.082
+  pmid: '33820677'
+  pmcid: null
+  license_note: © American Academy of Dermatology（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1120
+  legacy_id: null
+  title: 'Matsushita S, Kajihara I, Tsutsui K, et al. Japanese Dermatological Association Guidelines: Clinical Questions of Guidelines for Extramammary Paget Disease 2025. The Journal of Dermatology. 2025;52(9):e795-e814.'
+  citation: 'Matsushita S, Kajihara I, Tsutsui K, et al. Japanese Dermatological Association Guidelines: Clinical Questions of Guidelines for Extramammary Paget Disease 2025. The Journal of Dermatology. 2025;52(9):e795-e814.'
+  doi: 10.1111/1346-8138.17855
+  pmid: '40704379'
+  pmcid: null
+  license_note: © 2025 Japanese Dermatological Association（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1121
+  legacy_id: null
+  title: Ohira A, et al. A 37-Year Retrospective Analysis Reveals a High Rate of Cutaneous Angiosarcoma of the Scalp in Okinawa, Japan. Cancer Science. 2025;116(4):1059-1067.
+  citation: Ohira A, et al. A 37-Year Retrospective Analysis Reveals a High Rate of Cutaneous Angiosarcoma of the Scalp in Okinawa, Japan. Cancer Science. 2025;116(4):1059-1067.
+  doi: 10.1111/cas.16453
+  pmid: '39822133'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1122
+  legacy_id: null
+  title: Ohtsuka M, Hamada T, Miyagaki T, et al. Outlines of the Japanese guidelines for the management of primary cutaneous lymphomas 2020. The Journal of Dermatology. 2021;48(2):e49-e71.
+  citation: Ohtsuka M, Hamada T, Miyagaki T, et al. Outlines of the Japanese guidelines for the management of primary cutaneous lymphomas 2020. The Journal of Dermatology. 2021;48(2):e49-e71.
+  doi: 10.1111/1346-8138.15707
+  pmid: '33245165'
+  pmcid: null
+  license_note: © 2020 Japanese Dermatological Association（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1123
+  legacy_id: null
+  title: 'Weir CB, Sathe NC, St.Hilaire NJ. Epidermal Inclusion Cyst. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026.'
+  citation: 'Weir CB, Sathe NC, St.Hilaire NJ. Epidermal Inclusion Cyst. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026.'
+  doi: null
+  pmid: '30335343'
+  pmcid: null
+  license_note: © StatPearls Publishing（CC表示を未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1124
+  legacy_id: null
+  title: Faries MB, Thompson JF, Cochran AJ, et al. Completion Dissection or Observation for Sentinel-Node Metastasis in Melanoma. New England Journal of Medicine. 2017;376(23):2211-2222.
+  citation: Faries MB, Thompson JF, Cochran AJ, et al. Completion Dissection or Observation for Sentinel-Node Metastasis in Melanoma. New England Journal of Medicine. 2017;376(23):2211-2222.
+  doi: 10.1056/NEJMoa1613210
+  pmid: '28591523'
+  pmcid: null
+  license_note: © Massachusetts Medical Society（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1125
+  legacy_id: null
+  title: 'Green AC, Williams GM, Logan V, Strutton GM. Reduced Melanoma after Regular Sunscreen Use: Randomized Trial Follow-up. Journal of Clinical Oncology. 2011;29(3):257-263.'
+  citation: 'Green AC, Williams GM, Logan V, Strutton GM. Reduced Melanoma after Regular Sunscreen Use: Randomized Trial Follow-up. Journal of Clinical Oncology. 2011;29(3):257-263.'
+  doi: 10.1200/JCO.2010.28.7078
+  pmid: '21135266'
+  pmcid: null
+  license_note: © American Society of Clinical Oncology（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
+- id: SRC-1126
+  legacy_id: null
+  title: 'Abbasi NR, Shaw HM, Rigel DS, et al. Early Diagnosis of Cutaneous Melanoma: Revisiting the ABCD Criteria. JAMA. 2004;292(22):2771-2776.'
+  citation: 'Abbasi NR, Shaw HM, Rigel DS, et al. Early Diagnosis of Cutaneous Melanoma: Revisiting the ABCD Criteria. JAMA. 2004;292(22):2771-2776.'
+  doi: 10.1001/jama.292.22.2771
+  pmid: '15585738'
+  pmcid: null
+  license_note: © American Medical Association（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/23_ds_a.md の出典マスター表から
