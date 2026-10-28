@@ -195,7 +195,9 @@ def online(label: str, p: dict, cache_note: list[str]) -> dict:
                 res["doi_ok"] += 1
                 t = (w.get("title") or [""])[0]
                 ratio = difflib.SequenceMatcher(None, t.lower(), title_claim.lower()).ratio()
-                if t and t.lower()[:40] not in title_claim.lower() and ratio < 0.5:
+                words = sorted({x for x in re.findall(r"[a-z0-9]+", t.lower()) if len(x) > 3})
+                shared = sum(x in title_claim.lower() for x in words) / len(words) if words else 1
+                if t and t.lower()[:40] not in title_claim.lower() and ratio < 0.5 and shared < 0.5:
                     res["title_low"].append(f"{sid}: Crossref「{t[:60]}」")
                 lic = " ".join(x.get("URL", "") for x in w.get("license") or [])
                 cls = r.get("source_class")
@@ -217,7 +219,7 @@ def online(label: str, p: dict, cache_note: list[str]) -> dict:
                 continue
             if s and s.get("title"):
                 res["pmid_ok"] += 1
-                if doi and doi.lower() not in json.dumps(s).lower():
+                if doi and re.match(r"10\.\d{4,9}/", doi) and doi.lower() not in json.dumps(s).lower():
                     res["pmid_ng"].append(f"{sid}: PMID {pmid} の DOI が原本の DOI と違う")
             else:
                 res["pmid_ng"].append(f"{sid}: PMID {pmid} が見つからない")

@@ -51,8 +51,11 @@ def parse_src_table(text: str) -> list[dict]:
 
 
 def null_if_dash(v):
+    """出典表の識別子の欄。空・ダッシュ・「確認できず（null）」のような説明文は null にする（値を推測で埋めない）。"""
     v = (v or "").strip()
-    return None if v in ("", "—", "-", "null") else v
+    if v in ("", "—", "-", "null") or re.search(r"null|確認できず|未確認|なし|不明", v):
+        return None
+    return v
 
 
 def main(raw_path: str, prefix: str, append: bool = False) -> None:
