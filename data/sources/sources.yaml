@@ -21708,3 +21708,1293 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+- id: SRC-1921
+  legacy_id: null
+  title: 日本脳神経外科学会・日本脳神経外傷学会（監）. 頭部外傷治療・管理のガイドライン 第4版. 医学書院; 2019
+  citation: 日本脳神経外科学会・日本脳神経外傷学会（監）. 頭部外傷治療・管理のガイドライン 第4版. 医学書院; 2019
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 学会ガイドライン書籍（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1922
+  legacy_id: null
+  title: Chesnut RM, Marshall LF, Klauber MR, et al. The role of secondary brain injury in determining outcome from severe head injury. J Trauma. 1993;34(2):216-222
+  citation: Chesnut RM, Marshall LF, Klauber MR, et al. The role of secondary brain injury in determining outcome from severe head injury. J Trauma. 1993;34(2):216-222
+  doi: 10.1097/00005373-199302000-00006
+  pmid: '8459458'
+  pmcid: null
+  license_note: J Trauma（Wolters Kluwer、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1923
+  legacy_id: null
+  title: Carney N, Totten AM, et al. Guidelines for the Management of Severe Traumatic Brain Injury, Fourth Edition. Neurosurgery. 2017;80(1):6-15
+  citation: Carney N, Totten AM, et al. Guidelines for the Management of Severe Traumatic Brain Injury, Fourth Edition. Neurosurgery. 2017;80(1):6-15
+  doi: 10.1227/NEU.0000000000001432
+  pmid: '27654000'
+  pmcid: null
+  license_note: Neurosurgery（Oxford University Press、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1925
+  legacy_id: null
+  title: Jirlow U, Hossain I, Korhonen O, Depreitere B, Rostami E. Cerebral contusions - Pathomechanism, predictive factors for progression and historical and current management. Brain Spine. 2024;4:103329
+  citation: Jirlow U, Hossain I, Korhonen O, Depreitere B, Rostami E. Cerebral contusions - Pathomechanism, predictive factors for progression and historical and current management. Brain Spine. 2024;4:103329
+  doi: 10.1016/j.bas.2024.103329
+  pmid: '39281852'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1926
+  legacy_id: null
+  title: 'Iaccarino C, Schiavi P, Picetti E, et al. Patients with brain contusions: predictors of outcome and relationship between radiological and clinical evolution. J Neurosurg. 2014;120(4):908-918'
+  citation: 'Iaccarino C, Schiavi P, Picetti E, et al. Patients with brain contusions: predictors of outcome and relationship between radiological and clinical evolution. J Neurosurg. 2014;120(4):908-918'
+  doi: 10.3171/2013.12.JNS131090
+  pmid: '24506250'
+  pmcid: null
+  license_note: J Neurosurg（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1927
+  legacy_id: null
+  title: 'Patricios JS, Schneider KJ, Dvorak J, et al. Consensus statement on concussion in sport: the 6th International Conference on Concussion in Sport - Amsterdam, October 2022. Br J Sports Med. 2023;57(11):695-711'
+  citation: 'Patricios JS, Schneider KJ, Dvorak J, et al. Consensus statement on concussion in sport: the 6th International Conference on Concussion in Sport - Amsterdam, October 2022. Br J Sports Med. 2023;57(11):695-711'
+  doi: 10.1136/bjsports-2023-106898
+  pmid: '37316210'
+  pmcid: null
+  license_note: CC BY-NC 4.0（© Author(s) 2023、No commercial re-use）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1928
+  legacy_id: null
+  title: 'McLendon LA, Kralik SF, Grayson PA, Golomb MR. The Controversial Second Impact Syndrome: A Review of the Literature. Pediatr Neurol. 2016;62:9-17'
+  citation: 'McLendon LA, Kralik SF, Grayson PA, Golomb MR. The Controversial Second Impact Syndrome: A Review of the Literature. Pediatr Neurol. 2016;62:9-17'
+  doi: 10.1016/j.pediatrneurol.2016.03.009
+  pmid: '27421756'
+  pmcid: null
+  license_note: Pediatr Neurol（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1929
+  legacy_id: null
+  title: 'Ravikanth R, Majumdar P. Prognostic Significance of Magnetic Resonance Imaging in Detecting Diffuse Axonal Injuries: Analysis of Outcomes and Review of Literature. Neurol India. 2022;70(6):2371-2377'
+  citation: 'Ravikanth R, Majumdar P. Prognostic Significance of Magnetic Resonance Imaging in Detecting Diffuse Axonal Injuries: Analysis of Outcomes and Review of Literature. Neurol India. 2022;70(6):2371-2377'
+  doi: 10.4103/0028-3886.364066
+  pmid: '36537418'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1930
+  legacy_id: null
+  title: Bullock MR, Chesnut R, Ghajar J, et al. Surgical management of acute epidural hematomas. Neurosurgery. 2006;58(3 Suppl):S7-15
+  citation: Bullock MR, Chesnut R, Ghajar J, et al. Surgical management of acute epidural hematomas. Neurosurgery. 2006;58(3 Suppl):S7-15
+  doi: 10.1227/01.NEU.0000210363.91172.A8
+  pmid: '16710967'
+  pmcid: null
+  license_note: Neurosurgery（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1931
+  legacy_id: null
+  title: Bullock MR, Chesnut R, Ghajar J, et al. Surgical management of acute subdural hematomas. Neurosurgery. 2006;58(3 Suppl):S16-24
+  citation: Bullock MR, Chesnut R, Ghajar J, et al. Surgical management of acute subdural hematomas. Neurosurgery. 2006;58(3 Suppl):S16-24
+  doi: 10.1227/01.NEU.0000210364.29290.C9
+  pmid: '16710968'
+  pmcid: null
+  license_note: Neurosurgery（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1932
+  legacy_id: null
+  title: 'Feghali J, Yang W, Huang J. Updates in Chronic Subdural Hematoma: Epidemiology, Etiology, Pathogenesis, Treatment, and Outcome. World Neurosurg. 2020;141:339-345'
+  citation: 'Feghali J, Yang W, Huang J. Updates in Chronic Subdural Hematoma: Epidemiology, Etiology, Pathogenesis, Treatment, and Outcome. World Neurosurg. 2020;141:339-345'
+  doi: 10.1016/j.wneu.2020.06.140
+  pmid: '32593768'
+  pmcid: null
+  license_note: World Neurosurg（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1933
+  legacy_id: null
+  title: 'Santarius T, Kirkpatrick PJ, Ganesan D, et al. Use of drains versus no drains after burr-hole evacuation of chronic subdural haematoma: a randomised controlled trial. Lancet. 2009;374(9695):1067-1073'
+  citation: 'Santarius T, Kirkpatrick PJ, Ganesan D, et al. Use of drains versus no drains after burr-hole evacuation of chronic subdural haematoma: a randomised controlled trial. Lancet. 2009;374(9695):1067-1073'
+  doi: 10.1016/S0140-6736(09)61115-6
+  pmid: '19782872'
+  pmcid: null
+  license_note: Lancet（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1934
+  legacy_id: null
+  title: Davies JM, Knopman J, Mokin M, et al; EMBOLISE Investigators. Adjunctive Middle Meningeal Artery Embolization for Subdural Hematoma. N Engl J Med. 2024;391:1890-1900
+  citation: Davies JM, Knopman J, Mokin M, et al; EMBOLISE Investigators. Adjunctive Middle Meningeal Artery Embolization for Subdural Hematoma. N Engl J Med. 2024;391:1890-1900
+  doi: 10.1056/NEJMoa2313472
+  pmid: '39565988'
+  pmcid: null
+  license_note: N Engl J Med（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1935
+  legacy_id: null
+  title: Fiorella D, Monteith SJ, Hanel R, et al; STEM Investigators. Embolization of the Middle Meningeal Artery for Chronic Subdural Hematoma. N Engl J Med. 2025
+  citation: Fiorella D, Monteith SJ, Hanel R, et al; STEM Investigators. Embolization of the Middle Meningeal Artery for Chronic Subdural Hematoma. N Engl J Med. 2025
+  doi: 10.1056/NEJMoa2409845
+  pmid: '39565980'
+  pmcid: null
+  license_note: N Engl J Med（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1936
+  legacy_id: null
+  title: 'Ziechmann R, Pathak SM, Welch J, Villanueva P. Delayed Traumatic Intracerebral Hematoma: A Pathophysiological Classification and Literature Review. Cureus. 2023;15(8):e42987'
+  citation: 'Ziechmann R, Pathak SM, Welch J, Villanueva P. Delayed Traumatic Intracerebral Hematoma: A Pathophysiological Classification and Literature Review. Cureus. 2023;15(8):e42987'
+  doi: 10.7759/cureus.42987
+  pmid: '37671206'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1937
+  legacy_id: null
+  title: Bullock MR, Chesnut R, Ghajar J, et al. Surgical management of traumatic parenchymal lesions. Neurosurgery. 2006;58(3 Suppl):S25-46
+  citation: Bullock MR, Chesnut R, Ghajar J, et al. Surgical management of traumatic parenchymal lesions. Neurosurgery. 2006;58(3 Suppl):S25-46
+  doi: 10.1227/01.NEU.0000210365.36914.E3
+  pmid: '16540746'
+  pmcid: null
+  license_note: Neurosurgery（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1938
+  legacy_id: null
+  title: Bullock MR, Chesnut R, Ghajar J, et al. Surgical management of depressed cranial fractures. Neurosurgery. 2006;58(3 Suppl):S56-60
+  citation: Bullock MR, Chesnut R, Ghajar J, et al. Surgical management of depressed cranial fractures. Neurosurgery. 2006;58(3 Suppl):S56-60
+  doi: 10.1227/01.NEU.0000210367.14043.0E
+  pmid: '16540744'
+  pmcid: null
+  license_note: Neurosurgery（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1939
+  legacy_id: null
+  title: Solai CA, Domingues CA, Nogueira LS, de Sousa RMC. Clinical Signs of Basilar Skull Fracture and Their Predictive Value in Diagnosis of This Injury. J Trauma Nurs. 2018;25(5):301-306
+  citation: Solai CA, Domingues CA, Nogueira LS, de Sousa RMC. Clinical Signs of Basilar Skull Fracture and Their Predictive Value in Diagnosis of This Injury. J Trauma Nurs. 2018;25(5):301-306
+  doi: 10.1097/JTN.0000000000000392
+  pmid: '30216260'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1940
+  legacy_id: null
+  title: Phang SY, Whitehouse K, Lee L, Khalil H, McArdle P, Whitfield PC. Management of CSF leak in base of skull fractures in adults. Br J Neurosurg. 2016;30(6):596-604
+  citation: Phang SY, Whitehouse K, Lee L, Khalil H, McArdle P, Whitfield PC. Management of CSF leak in base of skull fractures in adults. Br J Neurosurg. 2016;30(6):596-604
+  doi: 10.1080/02688697.2016.1229746
+  pmid: '27666293'
+  pmcid: null
+  license_note: Br J Neurosurg（Taylor & Francis、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1941
+  legacy_id: null
+  title: 厚生労働省. 先進医療専門家会議資料・中央社会保険医療協議会資料（硬膜外自家血注入療法、適応症：脳脊髄液漏出症（髄液漏））ほか診療報酬改定関係資料
+  citation: 厚生労働省. 先進医療専門家会議資料・中央社会保険医療協議会資料（硬膜外自家血注入療法、適応症：脳脊髄液漏出症（髄液漏））ほか診療報酬改定関係資料
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約に基づく公的資料（要最終確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1942
+  legacy_id: null
+  title: 'Milner SA, Davis TR, Muir KR, Greenwood DC, Doherty M. Long-term outcome after tibial shaft fracture: is malunion important? J Bone Joint Surg Am. 2002;84(6):971-980'
+  citation: 'Milner SA, Davis TR, Muir KR, Greenwood DC, Doherty M. Long-term outcome after tibial shaft fracture: is malunion important? J Bone Joint Surg Am. 2002;84(6):971-980'
+  doi: 10.2106/00004623-200206000-00011
+  pmid: '12063331'
+  pmcid: null
+  license_note: The Journal of Bone and Joint Surgery（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1943
+  legacy_id: null
+  title: 'Rupp R, Biering-Sørensen F, Burns SP, et al. International Standards for Neurological Classification of Spinal Cord Injury: Revised 2019. Top Spinal Cord Inj Rehabil. 2021;27(2):1-22'
+  citation: 'Rupp R, Biering-Sørensen F, Burns SP, et al. International Standards for Neurological Classification of Spinal Cord Injury: Revised 2019. Top Spinal Cord Inj Rehabil. 2021;27(2):1-22'
+  doi: 10.46292/sci2702-1
+  pmid: '34108832'
+  pmcid: null
+  license_note: Topics in Spinal Cord Injury Rehabilitation（CC表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1944
+  legacy_id: null
+  title: 'van Middendorp JJ, Hosman AJ, Pouw MH, Van de Meent H; EM-SCI Study Group. Diagnostic criteria of traumatic central cord syndrome. Part 1: a systematic review of clinical descriptors and scores. Spinal Cord. 2010'
+  citation: 'van Middendorp JJ, Hosman AJ, Pouw MH, Van de Meent H; EM-SCI Study Group. Diagnostic criteria of traumatic central cord syndrome. Part 1: a systematic review of clinical descriptors and scores. Spinal Cord. 2010'
+  doi: 10.1038/sc.2009.155
+  pmid: '20048754'
+  pmcid: null
+  license_note: Spinal Cord（Springer Nature、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1945
+  legacy_id: null
+  title: 'Ditunno JF, Little JW, Tessler A, Burns AS. Spinal shock revisited: a four-phase model. Spinal Cord. 2004'
+  citation: 'Ditunno JF, Little JW, Tessler A, Burns AS. Spinal shock revisited: a four-phase model. Spinal Cord. 2004'
+  doi: 10.1038/sj.sc.3101603
+  pmid: '15037862'
+  pmcid: null
+  license_note: Spinal Cord（Springer Nature、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1946
+  legacy_id: null
+  title: 'Fehlings MG, Wilson JR, Tetreault LA, et al. A Clinical Practice Guideline for the Management of Patients With Acute Spinal Cord Injury: Recommendations on the Use of Methylprednisolone Sodium Succinate. Global Spine J. 2017;7(3 Suppl)'
+  citation: 'Fehlings MG, Wilson JR, Tetreault LA, et al. A Clinical Practice Guideline for the Management of Patients With Acute Spinal Cord Injury: Recommendations on the Use of Methylprednisolone Sodium Succinate. Global Spine J. 2017;7(3 Suppl)'
+  doi: 10.1177/2192568217703085
+  pmid: '29164025'
+  pmcid: null
+  license_note: Global Spine Journal（AO Spine ガイドライン、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1947
+  legacy_id: null
+  title: Hurlbert RJ, Hadley MN, Walters BC, et al. Pharmacological therapy for acute spinal cord injury. Neurosurgery. 2015;76 Suppl 1:S71-S83
+  citation: Hurlbert RJ, Hadley MN, Walters BC, et al. Pharmacological therapy for acute spinal cord injury. Neurosurgery. 2015;76 Suppl 1:S71-S83
+  doi: 10.1227/01.neu.0000462080.04196.f7
+  pmid: '25692371'
+  pmcid: null
+  license_note: Neurosurgery（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1948
+  legacy_id: null
+  title: 'Fehlings MG, Vaccaro A, Wilson JR, et al. Early versus delayed decompression for traumatic cervical spinal cord injury: results of the Surgical Timing in Acute Spinal Cord Injury Study (STASCIS). PLoS One. 2012;7(3):e32037'
+  citation: 'Fehlings MG, Vaccaro A, Wilson JR, et al. Early versus delayed decompression for traumatic cervical spinal cord injury: results of the Surgical Timing in Acute Spinal Cord Injury Study (STASCIS). PLoS One. 2012;7(3):e32037'
+  doi: 10.1371/journal.pone.0032037
+  pmid: '22384132'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1949
+  legacy_id: null
+  title: 'Vaccaro AR, Oner C, Kepler CK, et al. AOSpine thoracolumbar spine injury classification system: fracture description, neurological status, and key modifiers. Spine. 2013'
+  citation: 'Vaccaro AR, Oner C, Kepler CK, et al. AOSpine thoracolumbar spine injury classification system: fracture description, neurological status, and key modifiers. Spine. 2013'
+  doi: 10.1097/BRS.0b013e3182a8a381
+  pmid: '23970107'
+  pmcid: null
+  license_note: Spine（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1950
+  legacy_id: null
+  title: Serag I, Scherer J, Popescu EC, et al. A meta-analysis of the incidence of intra-abdominal injuries associated with thoracic or lumbar flexion-distraction injuries. Injury. 2025
+  citation: Serag I, Scherer J, Popescu EC, et al. A meta-analysis of the incidence of intra-abdominal injuries associated with thoracic or lumbar flexion-distraction injuries. Injury. 2025
+  doi: 10.1016/j.injury.2025.112337
+  pmid: '40273660'
+  pmcid: null
+  license_note: Injury（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1951
+  legacy_id: null
+  title: 'Coccolini F, Stahel PF, Montori G, et al. Pelvic trauma: WSES classification and guidelines. World J Emerg Surg. 2017;12:5'
+  citation: 'Coccolini F, Stahel PF, Montori G, et al. Pelvic trauma: WSES classification and guidelines. World J Emerg Surg. 2017;12:5'
+  doi: 10.1186/s13017-017-0117-6
+  pmid: '28115984'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1952
+  legacy_id: null
+  title: 'Einhorn TA, Gerstenfeld LC. Fracture healing: mechanisms and interventions. Nat Rev Rheumatol. 2015;11(1):45-54'
+  citation: 'Einhorn TA, Gerstenfeld LC. Fracture healing: mechanisms and interventions. Nat Rev Rheumatol. 2015;11(1):45-54'
+  doi: 10.1038/nrrheum.2014.164
+  pmid: '25266456'
+  pmcid: null
+  license_note: Nature Reviews Rheumatology（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1953
+  legacy_id: null
+  title: 'Beeharry MW, Ahmad B. Principles of Fracture Healing and Fixation: A Literature Review. Cureus. 2024'
+  citation: 'Beeharry MW, Ahmad B. Principles of Fracture Healing and Fixation: A Literature Review. Cureus. 2024'
+  doi: 10.7759/cureus.76250
+  pmid: '39717521'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1954
+  legacy_id: null
+  title: 'Gustilo RB, Mendoza RM, Williams DN. Problems in the management of type III (severe) open fractures: a new classification of type III open fractures. J Trauma. 1984;24(8):742-746'
+  citation: 'Gustilo RB, Mendoza RM, Williams DN. Problems in the management of type III (severe) open fractures: a new classification of type III open fractures. J Trauma. 1984;24(8):742-746'
+  doi: 10.1097/00005373-198408000-00009
+  pmid: '6471139'
+  pmcid: null
+  license_note: The Journal of Trauma（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1955
+  legacy_id: null
+  title: 'British Orthopaedic Association, British Association of Plastic, Reconstructive and Aesthetic Surgeons. British Orthopaedic Association Standard for Trauma (BOAST): Open Fractures. 2017'
+  citation: 'British Orthopaedic Association, British Association of Plastic, Reconstructive and Aesthetic Surgeons. British Orthopaedic Association Standard for Trauma (BOAST): Open Fractures. 2017'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 学会標準文書（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1956
+  legacy_id: null
+  title: 'Ivins D. Acute ankle sprain: an update. Am Fam Physician. 2006;74(10):1714-1720'
+  citation: 'Ivins D. Acute ankle sprain: an update. Am Fam Physician. 2006;74(10):1714-1720'
+  doi: null
+  pmid: '17137000'
+  pmcid: null
+  license_note: American Family Physician（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1957
+  legacy_id: null
+  title: Dubois B, Esculier JF. Soft-tissue injuries simply need PEACE and LOVE. Br J Sports Med. 2020;54(2):72-73
+  citation: Dubois B, Esculier JF. Soft-tissue injuries simply need PEACE and LOVE. Br J Sports Med. 2020;54(2):72-73
+  doi: 10.1136/bjsports-2019-101253
+  pmid: '31377722'
+  pmcid: null
+  license_note: British Journal of Sports Medicine（CC表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1958
+  legacy_id: null
+  title: 'Anderson DD, Chubinskaya S, Guilak F, et al. Post-traumatic osteoarthritis: improved understanding and opportunities for early intervention. J Orthop Res. 2011;29(6):802-809'
+  citation: 'Anderson DD, Chubinskaya S, Guilak F, et al. Post-traumatic osteoarthritis: improved understanding and opportunities for early intervention. J Orthop Res. 2011;29(6):802-809'
+  doi: 10.1002/jor.21359
+  pmid: '21520254'
+  pmcid: null
+  license_note: Journal of Orthopaedic Research（Wiley、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1959
+  legacy_id: null
+  title: 'Medina O, Arom GA, Yeranosian MG, et al. Vascular and nerve injury after knee dislocation: a systematic review. Clin Orthop Relat Res. 2014;472(9):2621-2637'
+  citation: 'Medina O, Arom GA, Yeranosian MG, et al. Vascular and nerve injury after knee dislocation: a systematic review. Clin Orthop Relat Res. 2014;472(9):2621-2637'
+  doi: 10.1007/s11999-014-3511-3
+  pmid: '24554457'
+  pmcid: null
+  license_note: Clinical Orthopaedics and Related Research（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1960
+  legacy_id: null
+  title: Campbell WW. Evaluation and management of peripheral nerve injury. Clin Neurophysiol. 2008;119(9):1951-1965
+  citation: Campbell WW. Evaluation and management of peripheral nerve injury. Clin Neurophysiol. 2008;119(9):1951-1965
+  doi: 10.1016/j.clinph.2008.03.018
+  pmid: '18482862'
+  pmcid: null
+  license_note: Clinical Neurophysiology（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1961
+  legacy_id: null
+  title: Duraku LS, Eberlin KR, Moore A, et al. Ten Myths in Nerve Surgery. Plast Reconstr Surg Glob Open. 2024
+  citation: Duraku LS, Eberlin KR, Moore A, et al. Ten Myths in Nerve Surgery. Plast Reconstr Surg Glob Open. 2024
+  doi: 10.1097/GOX.0000000000006017
+  pmid: '39534076'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1962
+  legacy_id: null
+  title: Kobayashi L, Coimbra R, Goes AMO, et al. American Association for the Surgery of Trauma-World Society of Emergency Surgery guidelines on diagnosis and management of peripheral vascular injuries. J Trauma Acute Care Surg. 2020;89(6):e175-e182
+  citation: Kobayashi L, Coimbra R, Goes AMO, et al. American Association for the Surgery of Trauma-World Society of Emergency Surgery guidelines on diagnosis and management of peripheral vascular injuries. J Trauma Acute Care Surg. 2020;89(6):e175-e182
+  doi: 10.1097/TA.0000000000002967
+  pmid: '33230048'
+  pmcid: null
+  license_note: The Journal of Trauma and Acute Care Surgery（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1963
+  legacy_id: null
+  title: 'Gifford SM, Aidinian G, Clouse WD, et al. Effect of temporary shunting on extremity vascular injury: an outcome analysis from the Global War on Terror vascular injury initiative. J Vasc Surg. 2009;50(3):595-600'
+  citation: 'Gifford SM, Aidinian G, Clouse WD, et al. Effect of temporary shunting on extremity vascular injury: an outcome analysis from the Global War on Terror vascular injury initiative. J Vasc Surg. 2009;50(3):595-600'
+  doi: 10.1016/j.jvs.2009.03.051
+  pmid: '19595542'
+  pmcid: null
+  license_note: Journal of Vascular Surgery（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1964
+  legacy_id: null
+  title: 'Järvinen TAH, Järvinen TLN, Kääriäinen M, Kalimo H, Järvinen M. Muscle injuries: biology and treatment. Am J Sports Med. 2005;33(5):745-764'
+  citation: 'Järvinen TAH, Järvinen TLN, Kääriäinen M, Kalimo H, Järvinen M. Muscle injuries: biology and treatment. Am J Sports Med. 2005;33(5):745-764'
+  doi: 10.1177/0363546505274714
+  pmid: '15851777'
+  pmcid: null
+  license_note: The American Journal of Sports Medicine（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1965
+  legacy_id: null
+  title: 'Garner MR, Taylor SA, Gausden E, Lyden JP. Compartment syndrome: diagnosis, management, and unique concerns in the twenty-first century. HSS J. 2014;10(2):143-151'
+  citation: 'Garner MR, Taylor SA, Gausden E, Lyden JP. Compartment syndrome: diagnosis, management, and unique concerns in the twenty-first century. HSS J. 2014;10(2):143-151'
+  doi: 10.1007/s11420-014-9386-8
+  pmid: '25050098'
+  pmcid: null
+  license_note: HSS Journal（Springer、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1966
+  legacy_id: null
+  title: McQueen MM, Court-Brown CM. Compartment monitoring in tibial fractures. The pressure threshold for decompression. J Bone Joint Surg Br. 1996;78(1):99-104
+  citation: McQueen MM, Court-Brown CM. Compartment monitoring in tibial fractures. The pressure threshold for decompression. J Bone Joint Surg Br. 1996;78(1):99-104
+  doi: 10.1302/0301-620X.78B1.0780099
+  pmid: '8898137'
+  pmcid: null
+  license_note: The Journal of Bone and Joint Surgery (Br)（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1967
+  legacy_id: null
+  title: Sever MS, Vanholder R; RDRTF of ISN Work Group on Recommendations for the Management of Crush Victims in Mass Disasters. Recommendation for the management of crush victims in mass disasters. Nephrol Dial Transplant. 2012;27 Suppl 1:i1-i67
+  citation: Sever MS, Vanholder R; RDRTF of ISN Work Group on Recommendations for the Management of Crush Victims in Mass Disasters. Recommendation for the management of crush victims in mass disasters. Nephrol Dial Transplant. 2012;27 Suppl 1:i1-i67
+  doi: 10.1093/ndt/gfs156
+  pmid: '22467763'
+  pmcid: null
+  license_note: Nephrology Dialysis Transplantation（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1968
+  legacy_id: null
+  title: 'Prucz RB, Friedrich JB. Upper extremity replantation: current concepts. Plast Reconstr Surg. 2014;133(2):e193-e203'
+  citation: 'Prucz RB, Friedrich JB. Upper extremity replantation: current concepts. Plast Reconstr Surg. 2014;133(2):e193-e203'
+  doi: 10.1097/01.prs.0000437254.93574.a8
+  pmid: '24469167'
+  pmcid: null
+  license_note: Plastic and Reconstructive Surgery（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1969
+  legacy_id: null
+  title: 'Dong H, Jenner EA, Theivendran K. Closed reduction techniques for acute anterior shoulder dislocation: a systematic review and meta-analysis. Eur J Trauma Emerg Surg. 2021;47(2):407-421'
+  citation: 'Dong H, Jenner EA, Theivendran K. Closed reduction techniques for acute anterior shoulder dislocation: a systematic review and meta-analysis. Eur J Trauma Emerg Surg. 2021;47(2):407-421'
+  doi: 10.1007/s00068-020-01427-9
+  pmid: '32607775'
+  pmcid: null
+  license_note: European Journal of Trauma and Emergency Surgery（Springer、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1970
+  legacy_id: null
+  title: 'Hovelius L, Olofsson A, Sandström B, Augustini BG, Krantz L, Fredin H, et al. Nonoperative treatment of primary anterior shoulder dislocation in patients forty years of age and younger: a prospective twenty-five-year follow-up. J Bone Joint Surg Am. 2008;90(5):945-952'
+  citation: 'Hovelius L, Olofsson A, Sandström B, Augustini BG, Krantz L, Fredin H, et al. Nonoperative treatment of primary anterior shoulder dislocation in patients forty years of age and younger: a prospective twenty-five-year follow-up. J Bone Joint Surg Am. 2008;90(5):945-952'
+  doi: 10.2106/JBJS.G.00070
+  pmid: '18451384'
+  pmcid: null
+  license_note: The Journal of Bone and Joint Surgery（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1971
+  legacy_id: null
+  title: Lin JD, Strauch RJ. Closed soft tissue extensor mechanism injuries (mallet, boutonniere, and sagittal band). J Hand Surg Am. 2014;39(5):1005-1011
+  citation: Lin JD, Strauch RJ. Closed soft tissue extensor mechanism injuries (mallet, boutonniere, and sagittal band). J Hand Surg Am. 2014;39(5):1005-1011
+  doi: 10.1016/j.jhsa.2013.11.018
+  pmid: '24766832'
+  pmcid: null
+  license_note: The Journal of Hand Surgery（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1972
+  legacy_id: null
+  title: 'Hanson ZC, Thompson RG, Andrews JR, Lourie GM. Boutonniere versus pseudoboutonniere deformities: pathoanatomy, diagnosis, and treatment. J Hand Surg Am. 2023;48(5):489-497'
+  citation: 'Hanson ZC, Thompson RG, Andrews JR, Lourie GM. Boutonniere versus pseudoboutonniere deformities: pathoanatomy, diagnosis, and treatment. J Hand Surg Am. 2023;48(5):489-497'
+  doi: 10.1016/j.jhsa.2022.10.019
+  pmid: '36593154'
+  pmcid: null
+  license_note: The Journal of Hand Surgery（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1973
+  legacy_id: null
+  title: 'Ekstrand J, Bengtsson H, Waldén M, Davison M, Khan KM, Hägglund M. Hamstring injury rates have increased during recent seasons and now constitute 24% of all injuries in men''s professional football: the UEFA Elite Club Injury Study from 2001/02 to 2021/22. Br J Sports Med. 2023;57(5):292-298（PMCID: PMC9985757）'
+  citation: 'Ekstrand J, Bengtsson H, Waldén M, Davison M, Khan KM, Hägglund M. Hamstring injury rates have increased during recent seasons and now constitute 24% of all injuries in men''s professional football: the UEFA Elite Club Injury Study from 2001/02 to 2021/22. Br J Sports Med. 2023;57(5):292-298（PMCID: PMC9985757）'
+  doi: 10.1136/bjsports-2021-105407
+  pmid: '36588400'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1974
+  legacy_id: null
+  title: 'Vuurberg G, Hoorntje A, Wink LM, van der Doelen BFW, van den Bekerom MP, Dekker R, et al. Diagnosis, treatment and prevention of ankle sprains: update of an evidence-based clinical guideline. Br J Sports Med. 2018;52(15):956'
+  citation: 'Vuurberg G, Hoorntje A, Wink LM, van der Doelen BFW, van den Bekerom MP, Dekker R, et al. Diagnosis, treatment and prevention of ankle sprains: update of an evidence-based clinical guideline. Br J Sports Med. 2018;52(15):956'
+  doi: 10.1136/bjsports-2017-098106
+  pmid: '29514819'
+  pmcid: null
+  license_note: British Journal of Sports Medicine（CC表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1975
+  legacy_id: null
+  title: 'Bachmann LM, Kolb E, Koller MT, Steurer J, ter Riet G. Accuracy of Ottawa ankle rules to exclude fractures of the ankle and mid-foot: systematic review. BMJ. 2003;326(7386):417（PMCID: PMC149439）'
+  citation: 'Bachmann LM, Kolb E, Koller MT, Steurer J, ter Riet G. Accuracy of Ottawa ankle rules to exclude fractures of the ankle and mid-foot: systematic review. BMJ. 2003;326(7386):417（PMCID: PMC149439）'
+  doi: 10.1136/bmj.326.7386.417
+  pmid: '12595378'
+  pmcid: null
+  license_note: BMJ（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1976
+  legacy_id: null
+  title: 'Nammour MA, Mauro CS, Bradley JP, Arner JW. Osteochondritis dissecans lesions of the knee: evidence-based treatment. J Am Acad Orthop Surg. 2024;32(13):587-596'
+  citation: 'Nammour MA, Mauro CS, Bradley JP, Arner JW. Osteochondritis dissecans lesions of the knee: evidence-based treatment. J Am Acad Orthop Surg. 2024;32(13):587-596'
+  doi: 10.5435/JAAOS-D-23-00494
+  pmid: '38295387'
+  pmcid: null
+  license_note: Journal of the American Academy of Orthopaedic Surgeons（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1977
+  legacy_id: null
+  title: Maruyama M, Takahara M, Satake H. Diagnosis and treatment of osteochondritis dissecans of the humeral capitellum. J Orthop Sci. 2018;23(2):213-219
+  citation: Maruyama M, Takahara M, Satake H. Diagnosis and treatment of osteochondritis dissecans of the humeral capitellum. J Orthop Sci. 2018;23(2):213-219
+  doi: 10.1016/j.jos.2017.11.013
+  pmid: '29276039'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1978
+  legacy_id: null
+  title: 'Benjaminse A, Gokeler A, van der Schans CP. Clinical diagnosis of an anterior cruciate ligament rupture: a meta-analysis. J Orthop Sports Phys Ther. 2006;36(5):267-288'
+  citation: 'Benjaminse A, Gokeler A, van der Schans CP. Clinical diagnosis of an anterior cruciate ligament rupture: a meta-analysis. J Orthop Sports Phys Ther. 2006;36(5):267-288'
+  doi: 10.2519/jospt.2006.2011
+  pmid: '16715828'
+  pmcid: null
+  license_note: Journal of Orthopaedic & Sports Physical Therapy（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1979
+  legacy_id: null
+  title: 'Frobell RB, Roos HP, Roos EM, Roemer FW, Ranstam J, Lohmander LS. Treatment for acute anterior cruciate ligament tear: five year outcome of randomised trial. BMJ. 2013;346:f232（PMCID: PMC3553934）'
+  citation: 'Frobell RB, Roos HP, Roos EM, Roemer FW, Ranstam J, Lohmander LS. Treatment for acute anterior cruciate ligament tear: five year outcome of randomised trial. BMJ. 2013;346:f232（PMCID: PMC3553934）'
+  doi: 10.1136/bmj.f232
+  pmid: '23349407'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1980
+  legacy_id: null
+  title: 'Nepple JJ, Dunn WR, Wright RW. Meniscal repair outcomes at greater than five years: a systematic literature review and meta-analysis. J Bone Joint Surg Am. 2012;94(24):2222-2227（PMCID: PMC3528023）'
+  citation: 'Nepple JJ, Dunn WR, Wright RW. Meniscal repair outcomes at greater than five years: a systematic literature review and meta-analysis. J Bone Joint Surg Am. 2012;94(24):2222-2227（PMCID: PMC3528023）'
+  doi: 10.2106/JBJS.K.01584
+  pmid: '23318612'
+  pmcid: null
+  license_note: The Journal of Bone and Joint Surgery（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1981
+  legacy_id: null
+  title: 'Maffulli N, et al. The clinical diagnosis of subcutaneous tear of the Achilles tendon: a prospective study in 174 patients. Am J Sports Med. 1998;26(2):266-270'
+  citation: 'Maffulli N, et al. The clinical diagnosis of subcutaneous tear of the Achilles tendon: a prospective study in 174 patients. Am J Sports Med. 1998;26(2):266-270'
+  doi: 10.1177/03635465980260021801
+  pmid: '9548122'
+  pmcid: null
+  license_note: The American Journal of Sports Medicine（SAGE、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1982
+  legacy_id: null
+  title: 'Soroceanu A, Sidhwa F, Aarabi S, Kaufman A, Glazebrook M. Surgical versus nonsurgical treatment of acute Achilles tendon rupture: a meta-analysis of randomized trials. J Bone Joint Surg Am. 2012;94(23):2136-2143（PMCID: PMC3509775）'
+  citation: 'Soroceanu A, Sidhwa F, Aarabi S, Kaufman A, Glazebrook M. Surgical versus nonsurgical treatment of acute Achilles tendon rupture: a meta-analysis of randomized trials. J Bone Joint Surg Am. 2012;94(23):2136-2143（PMCID: PMC3509775）'
+  doi: 10.2106/JBJS.K.00917
+  pmid: '23224384'
+  pmcid: null
+  license_note: The Journal of Bone and Joint Surgery（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1983
+  legacy_id: null
+  title: 'Tsai IT, Hsu CJ, Chen YH, Fong YC, Hsu HC, Tsai CH. Fat embolism syndrome in long bone fracture: clinical experience in a tertiary referral center in Taiwan. J Chin Med Assoc. 2010;73(8):407-410'
+  citation: 'Tsai IT, Hsu CJ, Chen YH, Fong YC, Hsu HC, Tsai CH. Fat embolism syndrome in long bone fracture: clinical experience in a tertiary referral center in Taiwan. J Chin Med Assoc. 2010;73(8):407-410'
+  doi: 10.1016/S1726-4901(10)70088-5
+  pmid: '20728851'
+  pmcid: null
+  license_note: Journal of the Chinese Medical Association（Elsevier、CC表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1984
+  legacy_id: null
+  title: Geerts WH, Jay RM, Code KI, Chen E, Szalai JP, Saibil EA, et al. A comparison of low-dose heparin with low-molecular-weight heparin as prophylaxis against venous thromboembolism after major trauma. N Engl J Med. 1996;335(10):701-707
+  citation: Geerts WH, Jay RM, Code KI, Chen E, Szalai JP, Saibil EA, et al. A comparison of low-dose heparin with low-molecular-weight heparin as prophylaxis against venous thromboembolism after major trauma. N Engl J Med. 1996;335(10):701-707
+  doi: 10.1056/NEJM199609053351003
+  pmid: '8703169'
+  pmcid: null
+  license_note: The New England Journal of Medicine（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1985
+  legacy_id: null
+  title: 'Schmal H, Brix M, Bue M, Ekman A, Ferreira N, Gottlieb H, et al. Nonunion: consensus from the 4th annual meeting of the Danish Orthopaedic Trauma Society. EFORT Open Rev. 2020;5(1):46-57（PMCID: PMC7017598）'
+  citation: 'Schmal H, Brix M, Bue M, Ekman A, Ferreira N, Gottlieb H, et al. Nonunion: consensus from the 4th annual meeting of the Danish Orthopaedic Trauma Society. EFORT Open Rev. 2020;5(1):46-57（PMCID: PMC7017598）'
+  doi: 10.1302/2058-5241.5.190037
+  pmid: '32071773'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1986
+  legacy_id: null
+  title: 'Wang F, Zhang QB, Zhou Y, Chen S, Huang PP, Liu Y, et al. The mechanisms and treatments of muscular pathological changes in immobilization-induced joint contracture: a literature review. Chin J Traumatol. 2019;22(2):93-98（PMCID: PMC6488749）'
+  citation: 'Wang F, Zhang QB, Zhou Y, Chen S, Huang PP, Liu Y, et al. The mechanisms and treatments of muscular pathological changes in immobilization-induced joint contracture: a literature review. Chin J Traumatol. 2019;22(2):93-98（PMCID: PMC6488749）'
+  doi: 10.1016/j.cjtee.2019.02.001
+  pmid: '30928194'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1987
+  legacy_id: null
+  title: 'Xu JL, Liang ZR, Xiong BL, Zou QZ, Lin TY, Yang P, et al. Risk factors associated with osteonecrosis of femoral head after internal fixation of femoral neck fracture: a systematic review and meta-analysis. BMC Musculoskelet Disord. 2019;20(1):632（PMCID: PMC6935498）'
+  citation: 'Xu JL, Liang ZR, Xiong BL, Zou QZ, Lin TY, Yang P, et al. Risk factors associated with osteonecrosis of femoral head after internal fixation of femoral neck fracture: a systematic review and meta-analysis. BMC Musculoskelet Disord. 2019;20(1):632（PMCID: PMC6935498）'
+  doi: 10.1186/s12891-019-2990-5
+  pmid: '31884960'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1988
+  legacy_id: null
+  title: 'Harden NR, Bruehl S, Perez RSGM, Birklein F, Marinus J, Maihofner C, et al. Validation of proposed diagnostic criteria (the "Budapest Criteria") for Complex Regional Pain Syndrome. Pain. 2010;150(2):268-274（PMCID: PMC2914601）'
+  citation: 'Harden NR, Bruehl S, Perez RSGM, Birklein F, Marinus J, Maihofner C, et al. Validation of proposed diagnostic criteria (the "Budapest Criteria") for Complex Regional Pain Syndrome. Pain. 2010;150(2):268-274（PMCID: PMC2914601）'
+  doi: 10.1016/j.pain.2010.04.030
+  pmid: '20493633'
+  pmcid: null
+  license_note: Pain（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1989
+  legacy_id: null
+  title: Kahle KT, et al. Paediatric hydrocephalus. Nat Rev Dis Primers. 2024;10(1):35
+  citation: Kahle KT, et al. Paediatric hydrocephalus. Nat Rev Dis Primers. 2024;10(1):35
+  doi: 10.1038/s41572-024-00519-9
+  pmid: '38755194'
+  pmcid: null
+  license_note: Nat Rev Dis Primers（Springer Nature、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1991
+  legacy_id: null
+  title: Mihalj M, et al. CSF tap test - Obsolete or appropriate test for predicting shunt responsiveness? A systemic review. J Neurol Sci. 2016;362:78-84
+  citation: Mihalj M, et al. CSF tap test - Obsolete or appropriate test for predicting shunt responsiveness? A systemic review. J Neurol Sci. 2016;362:78-84
+  doi: 10.1016/j.jns.2016.01.028
+  pmid: '26944123'
+  pmcid: null
+  license_note: J Neurol Sci（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1992
+  legacy_id: null
+  title: Kazui H, et al. Lumboperitoneal shunt surgery for idiopathic normal pressure hydrocephalus (SINPHONI-2). Lancet Neurol. 2015;14(6):585-594
+  citation: Kazui H, et al. Lumboperitoneal shunt surgery for idiopathic normal pressure hydrocephalus (SINPHONI-2). Lancet Neurol. 2015;14(6):585-594
+  doi: 10.1016/S1474-4422(15)00046-0
+  pmid: '25934242'
+  pmcid: null
+  license_note: Lancet Neurology（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1993
+  legacy_id: null
+  title: Governale LS. Craniosynostosis. Pediatr Neurol. 2015;53(5):394-401
+  citation: Governale LS. Craniosynostosis. Pediatr Neurol. 2015;53(5):394-401
+  doi: 10.1016/j.pediatrneurol.2015.07.006
+  pmid: '26371995'
+  pmcid: null
+  license_note: Pediatric Neurology（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1994
+  legacy_id: null
+  title: Markovic I, et al. Occipital Encephalocele. Curr Pediatr Rev. 2020;16(3):200-205
+  citation: Markovic I, et al. Occipital Encephalocele. Curr Pediatr Rev. 2020;16(3):200-205
+  doi: 10.2174/1573396315666191018161535
+  pmid: '31656152'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1995
+  legacy_id: null
+  title: 厚生労働省. 葉酸とサプリメント ‐神経管閉鎖障害のリスク低減に対する効果. e-ヘルスネット
+  citation: 厚生労働省. 葉酸とサプリメント ‐神経管閉鎖障害のリスク低減に対する効果. e-ヘルスネット
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 厚生労働省の公的ウェブサイト
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1996
+  legacy_id: null
+  title: Adzick NS, et al. A randomized trial of prenatal versus postnatal repair of myelomeningocele. N Engl J Med. 2011;364(11):993-1004
+  citation: Adzick NS, et al. A randomized trial of prenatal versus postnatal repair of myelomeningocele. N Engl J Med. 2011;364(11):993-1004
+  doi: 10.1056/NEJMoa1014379
+  pmid: '21306277'
+  pmcid: null
+  license_note: N Engl J Med（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1997
+  legacy_id: null
+  title: Lodhi MU, et al. An Atypical Clinical Presentation of Post-traumatic Syringomyelia. Cureus. 2017;9(11):e1852
+  citation: Lodhi MU, et al. An Atypical Clinical Presentation of Post-traumatic Syringomyelia. Cureus. 2017;9(11):e1852
+  doi: 10.7759/cureus.1852
+  pmid: '29372126'
+  pmcid: null
+  license_note: CC BY 4.0（誌の標準ライセンス）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-1998
+  legacy_id: null
+  title: Holly LT, Batzdorf U. Chiari malformation and syringomyelia. J Neurosurg Spine. 2019;31(5):619-628
+  citation: Holly LT, Batzdorf U. Chiari malformation and syringomyelia. J Neurosurg Spine. 2019;31(5):619-628
+  doi: 10.3171/2019.7.SPINE181139
+  pmid: '31675698'
+  pmcid: null
+  license_note: J Neurosurg Spine（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-2000
+  legacy_id: null
+  title: Henning AM, et al. Optic pathway glioma and the sex association in neurofibromatosis type 1. Orphanet J Rare Dis. 2021;16(1):489
+  citation: Henning AM, et al. Optic pathway glioma and the sex association in neurofibromatosis type 1. Orphanet J Rare Dis. 2021;16(1):489
+  doi: 10.1186/s13023-021-02121-8
+  pmid: '34809690'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-2001
+  legacy_id: null
+  title: Evans DG, et al. Malignant peripheral nerve sheath tumours in neurofibromatosis 1. J Med Genet. 2002;39(5):311-314
+  citation: Evans DG, et al. Malignant peripheral nerve sheath tumours in neurofibromatosis 1. J Med Genet. 2002;39(5):311-314
+  doi: 10.1136/jmg.39.5.311
+  pmid: '12011145'
+  pmcid: null
+  license_note: J Med Genet（BMJ、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-2003
+  legacy_id: null
+  title: Franz DN, et al. Efficacy and safety of everolimus for subependymal giant cell astrocytomas associated with tuberous sclerosis complex (EXIST-1). Lancet. 2013;381(9861):125-132
+  citation: Franz DN, et al. Efficacy and safety of everolimus for subependymal giant cell astrocytomas associated with tuberous sclerosis complex (EXIST-1). Lancet. 2013;381(9861):125-132
+  doi: 10.1016/S0140-6736(12)61134-9
+  pmid: '23158522'
+  pmcid: null
+  license_note: The Lancet（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-2004
+  legacy_id: null
+  title: French JA, et al. Adjunctive everolimus therapy for treatment-resistant focal-onset seizures associated with tuberous sclerosis (EXIST-3). Lancet. 2016;388(10056):2153-2163
+  citation: French JA, et al. Adjunctive everolimus therapy for treatment-resistant focal-onset seizures associated with tuberous sclerosis (EXIST-3). Lancet. 2016;388(10056):2153-2163
+  doi: 10.1016/S0140-6736(16)31419-2
+  pmid: '27613521'
+  pmcid: null
+  license_note: The Lancet（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-2005
+  legacy_id: null
+  title: Shirley MD, et al. Sturge-Weber syndrome and port-wine stains caused by somatic mutation in GNAQ. N Engl J Med. 2013;368(21):1971-1979
+  citation: Shirley MD, et al. Sturge-Weber syndrome and port-wine stains caused by somatic mutation in GNAQ. N Engl J Med. 2013;368(21):1971-1979
+  doi: 10.1056/NEJMoa1213507
+  pmid: '23656586'
+  pmcid: null
+  license_note: N Engl J Med（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-2006
+  legacy_id: null
+  title: 'Binderup MLM, et al. von Hippel-Lindau disease: Updated guideline for diagnosis and surveillance. Eur J Med Genet. 2022;65(8):104538'
+  citation: 'Binderup MLM, et al. von Hippel-Lindau disease: Updated guideline for diagnosis and surveillance. Eur J Med Genet. 2022;65(8):104538'
+  doi: 10.1016/j.ejmg.2022.104538
+  pmid: '35709961'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-2007
+  legacy_id: null
+  title: 'Ashwal S, et al. Practice parameter: Evaluation of the child with microcephaly. Neurology. 2009;73(11):887-897'
+  citation: 'Ashwal S, et al. Practice parameter: Evaluation of the child with microcephaly. Neurology. 2009;73(11):887-897'
+  doi: 10.1212/WNL.0b013e3181b783f7
+  pmid: '19752457'
+  pmcid: null
+  license_note: Neurology（AAN、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-2008
+  legacy_id: null
+  title: 'Rosenbaum P, et al. A report: the definition and classification of cerebral palsy April 2006. Dev Med Child Neurol Suppl. 2007;109:8-14'
+  citation: 'Rosenbaum P, et al. A report: the definition and classification of cerebral palsy April 2006. Dev Med Child Neurol Suppl. 2007;109:8-14'
+  doi: null
+  pmid: '17370477'
+  pmcid: null
+  license_note: Dev Med Child Neurol Suppl（Wiley、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-2009
+  legacy_id: null
+  title: Palisano R, et al. Development and reliability of a system to classify gross motor function in children with cerebral palsy. Dev Med Child Neurol. 1997;39(4):214-223
+  citation: Palisano R, et al. Development and reliability of a system to classify gross motor function in children with cerebral palsy. Dev Med Child Neurol. 1997;39(4):214-223
+  doi: 10.1111/j.1469-8749.1997.tb07414.x
+  pmid: '9183258'
+  pmcid: null
+  license_note: Dev Med Child Neurol（Wiley、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-2010
+  legacy_id: null
+  title: Blumetti FC, et al. Botulinum toxin type A in the treatment of lower limb spasticity in children with cerebral palsy. Cochrane Database Syst Rev. 2019;10(10):CD001408
+  citation: Blumetti FC, et al. Botulinum toxin type A in the treatment of lower limb spasticity in children with cerebral palsy. Cochrane Database Syst Rev. 2019;10(10):CD001408
+  doi: 10.1002/14651858.CD001408.pub2
+  pmid: '31591703'
+  pmcid: null
+  license_note: Cochrane Database Syst Rev（Wiley、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-28'
+    by: claude-code
+    change: 取り込み：raw/32_ns_e.md の出典マスター表から
