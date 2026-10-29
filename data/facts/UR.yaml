@@ -652,7 +652,7 @@
   uncertainty: 薬剤（セフトリアキソン、ドキシサイクリン）を含むカードである。本カードは米国の推奨であり、日本の性感染症の診断・治療の推奨とは用量・用法が異なる場合がある。両薬剤の国内の承認・保険適用の状況は、本調査では未確認である。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-345 (id: Jlvnl_c)'
-    kokushi: 医学各論 Ⅷ-5-D-①（淋菌性尿道炎、a）
+    kokushi: 医学各論 Ⅷ-5-D-①（淋菌性尿道炎、a）；医学各論 Ⅻ-2-B-⑥（淋菌感染症、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -663,6 +663,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-29'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑥ を足した（医学各論 Ⅷ-5-D-①（淋菌性尿道炎、a） → 医学各論 Ⅷ-5-D-①（淋菌性尿道炎、a）；医学各論 Ⅻ-2-B-⑥（淋菌感染症、a））。三原の承認による
 - id: UR-020
   domain: UR
   subdomain: 非淋菌性尿道炎
@@ -687,7 +690,7 @@
   uncertainty: 薬剤（ドキシサイクリン、アジスロマイシン、レボフロキサシン）を含むカードである。本カードは米国の推奨であり、日本の推奨とは異なる場合がある。各薬剤の国内の承認・保険適用の状況は、本調査では未確認である。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-345 (id: Jlvnl_c)'
-    kokushi: 医学各論 Ⅷ-5-D-②（非淋菌性尿道炎、a）
+    kokushi: 医学各論 Ⅷ-5-D-②（非淋菌性尿道炎、a）；医学各論 Ⅻ-2-A-②（性器クラミジア感染症、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -698,6 +701,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-29'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-A-② を足した（医学各論 Ⅷ-5-D-②（非淋菌性尿道炎、a） → 医学各論 Ⅷ-5-D-②（非淋菌性尿道炎、a）；医学各論 Ⅻ-2-A-②（性器クラミジア感染症、a））。三原の承認による
 - id: UR-021
   domain: UR
   subdomain: 性器ヘルペス

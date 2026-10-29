@@ -98,7 +98,7 @@
   uncertainty: 本カードは米国のガイドラインに基づく。メトロニダゾールの腟トリコモナス症に対する国内の承認・保険適用の状況は、本調査では添付文書等で確認していない。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-359 (id: JlvnmBM)；TBL-02-09-025 (id: JlAKppg)；TBL-02-09-018 (id: JlAKppA)'
-    kokushi: 医学各論 Ⅷ-5-C-①（腟炎、a）
+    kokushi: 医学各論 Ⅷ-5-C-①（腟炎、a）；医学各論 Ⅻ-4-A-⑪（トリコモナス症、b）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -112,6 +112,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: provenance.source_ref を SRC-751 から SRC-703 に付け替え（同じ文献 CDC 性感染症治療ガイドライン2021 の二重登録の解消。受け入れ検査 reports/accept_18_ku_d.md、SRC-485 と同じ扱い。主張文・数値は変更なし）
+  - date: '2026-10-29'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-4-A-⑪ を足した（医学各論 Ⅷ-5-C-①（腟炎、a） → 医学各論 Ⅷ-5-C-①（腟炎、a）；医学各論 Ⅻ-4-A-⑪（トリコモナス症、b））。三原の承認による
 - id: GY-004
   domain: GY
   subdomain: 骨盤内炎症性疾患（診断）

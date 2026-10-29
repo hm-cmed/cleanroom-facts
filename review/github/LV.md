@@ -1057,8 +1057,8 @@
 - 鑑別・補足：慢性肝炎、若年の神経・精神疾患
 - よくある誤解：Wilson病は銅の摂取過多で起こる
 - 出典：厚生労働省 指定難病171『ウィルソン病』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001174379.pdf)（区分 GOV_JP）
-- 出題基準：医学各論 Ⅵ-6-E-⑤（Wilson病、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-084&card_id=LV-084&version=a643769646)　（版 `a643769646`）
+- 出題基準：医学各論 Ⅵ-6-E-⑤（Wilson病、c）；医学各論 Ⅹ-9-E-①（Wilson病、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-084&card_id=LV-084&version=285eb4e94f)　（版 `285eb4e94f`）
 
 ### LV-085　出典照合済み・監修待ち
 
@@ -1091,8 +1091,8 @@
 - よくある誤解：ヘモクロマトーシスは日本人に多い
 - 不確実性：日本人での頻度は今回は未確認
 - 出典：MedlinePlus Genetics. Hereditary hemochromatosis（最終更新 2019-02-01）　[リンク](https://medlineplus.gov/genetics/condition/hereditary-hemochromatosis/)（区分 GOV_US）
-- 出題基準：医学各論 Ⅵ-6-E-④（ヘモクロマトーシス、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-087&card_id=LV-087&version=f29d1e0d8c)　（版 `f29d1e0d8c`）
+- 出題基準：医学各論 Ⅵ-6-E-④（ヘモクロマトーシス、c）；医学各論 Ⅹ-9-E-②（ヘモクロマトーシス、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-087&card_id=LV-087&version=bc7e65096b)　（版 `bc7e65096b`）
 
 ### LV-088　出典照合済み・監修待ち
 
@@ -1104,7 +1104,7 @@
 - 出題基準：医学各論 Ⅵ-6-E-④（ヘモクロマトーシス、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-088&card_id=LV-088&version=e99fcb3e1e)　（版 `e99fcb3e1e`）
 
-**[ここまでの 5 件（LV-084〜LV-088）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-084%E3%80%9CLV-088&cards=LV-084%20a643769646%0ALV-085%20c47a417bb5%0ALV-086%20d5b6a49d45%0ALV-087%20f29d1e0d8c%0ALV-088%20e99fcb3e1e)**
+**[ここまでの 5 件（LV-084〜LV-088）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-084%E3%80%9CLV-088&cards=LV-084%20285eb4e94f%0ALV-085%20c47a417bb5%0ALV-086%20d5b6a49d45%0ALV-087%20bc7e65096b%0ALV-088%20e99fcb3e1e)**
 
 ---
 

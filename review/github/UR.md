@@ -223,10 +223,10 @@
 - 条件：region: 米国／study: CDC性感染症治療ガイドライン2021年版の推奨レジメン
 - 不確実性：薬剤（セフトリアキソン、ドキシサイクリン）を含むカードである。本カードは米国の推奨であり、日本の性感染症の診断・治療の推奨とは用量・用法が異なる場合がある。両薬剤の国内の承認・保険適用の状況は、本調査では未確認である。
 - 出典：Workowski KA, Bachmann LH, Chan PA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187　[DOI 10.15585/mmwr.rr7004a1](https://doi.org/10.15585/mmwr.rr7004a1)　[PMID 34292926](https://pubmed.ncbi.nlm.nih.gov/34292926/)（区分 GOV_US）
-- 出題基準：医学各論 Ⅷ-5-D-①（淋菌性尿道炎、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-345 (id: Jlvnl_c)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-019&card_id=UR-019&version=476dfc76da)　（版 `476dfc76da`）
+- 出題基準：医学各論 Ⅷ-5-D-①（淋菌性尿道炎、a）；医学各論 Ⅻ-2-B-⑥（淋菌感染症、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-345 (id: Jlvnl_c)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-019&card_id=UR-019&version=077c7ac721)　（版 `077c7ac721`）
 
-**[ここまでの 1 件（UR-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-019&cards=UR-019%20476dfc76da)**
+**[ここまでの 1 件（UR-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-019&cards=UR-019%20077c7ac721)**
 
 ---
 
@@ -239,10 +239,10 @@
 - 条件：region: 米国／study: CDC性感染症治療ガイドライン2021年版の推奨レジメン
 - 不確実性：薬剤（ドキシサイクリン、アジスロマイシン、レボフロキサシン）を含むカードである。本カードは米国の推奨であり、日本の推奨とは異なる場合がある。各薬剤の国内の承認・保険適用の状況は、本調査では未確認である。
 - 出典：Workowski KA, Bachmann LH, Chan PA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187　[DOI 10.15585/mmwr.rr7004a1](https://doi.org/10.15585/mmwr.rr7004a1)　[PMID 34292926](https://pubmed.ncbi.nlm.nih.gov/34292926/)（区分 GOV_US）
-- 出題基準：医学各論 Ⅷ-5-D-②（非淋菌性尿道炎、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-345 (id: Jlvnl_c)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-020&card_id=UR-020&version=c083076379)　（版 `c083076379`）
+- 出題基準：医学各論 Ⅷ-5-D-②（非淋菌性尿道炎、a）；医学各論 Ⅻ-2-A-②（性器クラミジア感染症、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-345 (id: Jlvnl_c)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-020&card_id=UR-020&version=8fa1a037d7)　（版 `8fa1a037d7`）
 
-**[ここまでの 1 件（UR-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-020&cards=UR-020%20c083076379)**
+**[ここまでの 1 件（UR-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-020&cards=UR-020%208fa1a037d7)**
 
 ---
 

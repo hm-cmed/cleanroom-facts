@@ -161,7 +161,7 @@
     corroboration: null
   uncertainty: 髄液 14-3-3 蛋白や脳波の周期性同期性放電は従来の診断基準の要素であり、分子サブタイプにより有用性が異なることが同論文で示されている。数値（83%）は抄録から読み取った。
   curriculum:
-    kokushi: 医学各論 Ⅸ-3-B-①（Creutzfeldt-Jakob病、b）
+    kokushi: 医学各論 Ⅸ-3-B-①（Creutzfeldt-Jakob病、b）；医学各論 Ⅻ-4-A-⑱（プリオン病、c）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)'
   publication_info:
     created: '2026-10-28'
@@ -173,6 +173,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-29'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-4-A-⑱ を足した（医学各論 Ⅸ-3-B-①（Creutzfeldt-Jakob病、b） → 医学各論 Ⅸ-3-B-①（Creutzfeldt-Jakob病、b）；医学各論 Ⅻ-4-A-⑱（プリオン病、c））。三原の承認による
 - id: NI-006
   domain: NI
   subdomain: プリオン病
@@ -266,7 +269,7 @@
     corroboration: null
   uncertainty: ガイドライン本文（書籍）は未入手のため、記載内容は学会の公開資料および本ガイドラインを引用する公的資料で確認した範囲に限った。取り込み時に本文での最終確認を推奨する。
   curriculum:
-    kokushi: 医学各論 Ⅸ-3-A-②（髄膜炎、a）
+    kokushi: 医学各論 Ⅸ-3-A-②（髄膜炎、a）；医学各論 Ⅻ-1-A-⑱（ウイルス性髄膜炎、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)'
   publication_info:
     created: '2026-10-28'
@@ -278,6 +281,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-29'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-1-A-⑱ を足した（医学各論 Ⅸ-3-A-②（髄膜炎、a） → 医学各論 Ⅸ-3-A-②（髄膜炎、a）；医学各論 Ⅻ-1-A-⑱（ウイルス性髄膜炎、a））。三原の承認による
 - id: NI-009
   domain: NI
   subdomain: 細菌性髄膜炎

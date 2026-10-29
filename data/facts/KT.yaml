@@ -197,7 +197,7 @@
   uncertainty: ACE阻害薬は国内で承認された薬剤だが、強皮症腎クリーゼに対する国内の適応・保険適用は未確認（取り込み時に添付文書で確認が必要）。1980〜2005年の症例であり、現在の治療成績とは異なる可能性がある。境界の方針に沿い、腎クリーゼに絞った記載である。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
-    kokushi: 医学各論 Ⅷ-2-A-⑥（全身性強皮症、b）
+    kokushi: 医学各論 Ⅷ-2-A-⑥（全身性強皮症、b）；医学各論 Ⅷ-1-D-③（全身性強皮症、b）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -208,6 +208,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-29'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅷ-1-D-③ を足した（医学各論 Ⅷ-2-A-⑥（全身性強皮症、b） → 医学各論 Ⅷ-2-A-⑥（全身性強皮症、b）；医学各論 Ⅷ-1-D-③（全身性強皮症、b））。三原の承認による
 - id: KT-007
   domain: KT
   subdomain: 腎静脈血栓症

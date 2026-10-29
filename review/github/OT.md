@@ -401,8 +401,8 @@
 - 条件：region: 欧州／study: 診療ガイドライン（European Academy of Neurology）
 - 不確実性：カルバマゼピンおよびオクスカルバゼピンの国内承認・保険適用（三叉神経痛に対する適応）の状況は、本調査では個別に確認できなかったため未確認である。各薬剤の有効率や微小血管減圧術の成績などの具体的数値は抄録では確認できなかったため含めていない。急性増悪時にはホスフェニトインまたはリドカインの静脈内投与が用いられうることが抄録に記載されている。
 - 出典：Bendtsen L, Zakrzewska JM, Abbott J, Braschinsky M, Di Stefano G, Donnet A, Eide PK, Leal PRL, Maarbjerg S, May A, Nurmikko T, Obermann M, Jensen TS, Cruccu G. European Academy of Neurology guideline on trigeminal neuralgia. Eur J Neurol. 2019;26(6):831-849.　[DOI 10.1111/ene.13950](https://doi.org/10.1111/ene.13950)　[PMID 30860637](https://pubmed.ncbi.nlm.nih.gov/30860637/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅲ-8-C-②（三叉神経痛、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-037&card_id=OT-037&version=f690335521)　（版 `f690335521`）
+- 出題基準：医学各論 Ⅲ-8-C-②（三叉神経痛、a）；医学各論 Ⅸ-5-C-①（三叉神経痛、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-037&card_id=OT-037&version=09ffa5985e)　（版 `09ffa5985e`）
 
 ### OT-038　下書き（出典の照合前）
 
@@ -474,7 +474,7 @@
 - 出題基準：医学各論 Ⅲ-8-C-⑨（軟口蓋麻痺、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-044&card_id=OT-044&version=297492d295)　（版 `297492d295`）
 
-**[ここまでの 10 件（OT-035〜OT-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OT-035%E3%80%9COT-044&cards=OT-035%205246fdf8cf%0AOT-036%2027097ba91e%0AOT-037%20f690335521%0AOT-038%2098ee4c070c%0AOT-039%206d081641d2%0AOT-040%205662e34ec7%0AOT-041%20c4d959e5d8%0AOT-042%20dea3979f09%0AOT-043%20a3958bd7e5%0AOT-044%20297492d295)**
+**[ここまでの 10 件（OT-035〜OT-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OT-035%E3%80%9COT-044&cards=OT-035%205246fdf8cf%0AOT-036%2027097ba91e%0AOT-037%2009ffa5985e%0AOT-038%2098ee4c070c%0AOT-039%206d081641d2%0AOT-040%205662e34ec7%0AOT-041%20c4d959e5d8%0AOT-042%20dea3979f09%0AOT-043%20a3958bd7e5%0AOT-044%20297492d295)**
 
 ---
 

@@ -63,8 +63,8 @@
 - 条件：population: 小児欠神てんかんの小児／region: 国際
 - 不確実性：定型欠神に特徴的な約 3 Hz の全般性棘徐波と過呼吸による発作の誘発は、同文書の小児欠神てんかんの診断基準（本文）に位置づけられる特徴であるが、抄録では確認できなかったため、本カードの assertion には周波数と誘発法を入れていない。
 - 出典：Specchio N, Wirrell EC, Scheffer IE, et al. International League Against Epilepsy classification and definition of epilepsy syndromes with onset in childhood: Position paper by the ILAE Task Force on Nosology and Definitions. Epilepsia. 2022;63(6):1398-1442　[DOI 10.1111/epi.17241](https://doi.org/10.1111/epi.17241)　[PMID 35503717](https://pubmed.ncbi.nlm.nih.gov/35503717/)（区分 OPEN）
-- 出題基準：医学各論 Ⅸ-6-A-②（欠神発作<全般非運動発作>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-053 (id: Jlvnleo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-006&card_id=EP-006&version=fb29f9c232)　（版 `fb29f9c232`）
+- 出題基準：医学各論 Ⅸ-6-A-②（欠神発作<全般非運動発作>、a）；医学各論 Ⅸ-11-C-②（欠神発作<全般非運動発作>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-053 (id: Jlvnleo)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-006&card_id=EP-006&version=441194a26b)　（版 `441194a26b`）
 
 ### EP-007　下書き（出典の照合前）
 
@@ -106,7 +106,7 @@
 - 出題基準：医学各論 Ⅸ-6-B-①（単純部分発作<焦点意識保持発作>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-054 (id: Jlvnles)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-010&card_id=EP-010&version=8438ef6df2)　（版 `8438ef6df2`）
 
-**[ここまでの 10 件（EP-001〜EP-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EP-001%E3%80%9CEP-010&cards=EP-001%207a2e15e019%0AEP-002%203081bb17f2%0AEP-003%20a5f697b4d8%0AEP-004%209c387d6a8e%0AEP-005%2086a828face%0AEP-006%20fb29f9c232%0AEP-007%20a1b2f1fa87%0AEP-008%20bb377952ad%0AEP-009%20db250c13b2%0AEP-010%208438ef6df2)**
+**[ここまでの 10 件（EP-001〜EP-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EP-001%E3%80%9CEP-010&cards=EP-001%207a2e15e019%0AEP-002%203081bb17f2%0AEP-003%20a5f697b4d8%0AEP-004%209c387d6a8e%0AEP-005%2086a828face%0AEP-006%20441194a26b%0AEP-007%20a1b2f1fa87%0AEP-008%20bb377952ad%0AEP-009%20db250c13b2%0AEP-010%208438ef6df2)**
 
 ---
 

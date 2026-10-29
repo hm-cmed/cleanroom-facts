@@ -242,10 +242,10 @@
 - 条件：region: 日本
 - 不確実性：MeSH（米国国立医学図書館の統制語彙）の定義文。定義のみで、頻度・治療の記載はない。先天性横隔膜ヘルニアは小児（Ⅰ）の範囲。外傷性の左右差などは未作成
 - 出典：National Library of Medicine. MeSH Descriptor: Hernia, Diaphragmatic (D006548)　[リンク](https://meshb.nlm.nih.gov/record/ui?ui=D006548)（区分 GOV_US）
-- 出題基準：医学各論 Ⅳ-7-C-③（横隔膜ヘルニア、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-247 (id: Jlvnl14)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PL-018&card_id=PL-018&version=0865b1fc33)　（版 `0865b1fc33`）
+- 出題基準：医学各論 Ⅳ-7-C-③（横隔膜ヘルニア、b）；医学各論 Ⅵ-12-G-③（横隔膜ヘルニア、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-247 (id: Jlvnl14)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PL-018&card_id=PL-018&version=e57b920017)　（版 `e57b920017`）
 
-**[ここまでの 1 件（PL-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PL-018&cards=PL-018%200865b1fc33)**
+**[ここまでの 1 件（PL-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PL-018&cards=PL-018%20e57b920017)**
 
 ---
 

@@ -77,8 +77,8 @@
 - 条件：population: 急速進行性認知症の患者／region: 国際
 - 不確実性：髄液 14-3-3 蛋白や脳波の周期性同期性放電は従来の診断基準の要素であり、分子サブタイプにより有用性が異なることが同論文で示されている。数値（83%）は抄録から読み取った。
 - 出典：Zerr I, Kallenberg K, Summers DM, et al. Updated clinical diagnostic criteria for sporadic Creutzfeldt-Jakob disease. Brain. 2009;132(Pt 10):2659-2668　[DOI 10.1093/brain/awp191](https://doi.org/10.1093/brain/awp191)　[PMID 19773352](https://pubmed.ncbi.nlm.nih.gov/19773352/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅸ-3-B-①（Creutzfeldt-Jakob病、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-005&card_id=NI-005&version=783d1fd4a3)　（版 `783d1fd4a3`）
+- 出題基準：医学各論 Ⅸ-3-B-①（Creutzfeldt-Jakob病、b）；医学各論 Ⅻ-4-A-⑱（プリオン病、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-005&card_id=NI-005&version=5f4dafedc8)　（版 `5f4dafedc8`）
 
 ### NI-006　下書き（出典の照合前）
 
@@ -100,7 +100,7 @@
 - 出題基準：医学各論 Ⅸ-3-B-①（Creutzfeldt-Jakob病、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-007&card_id=NI-007&version=5a7b6781c7)　（版 `5a7b6781c7`）
 
-**[ここまでの 3 件（NI-005〜NI-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NI-005%E3%80%9CNI-007&cards=NI-005%20783d1fd4a3%0ANI-006%20b43dd4f723%0ANI-007%205a7b6781c7)**
+**[ここまでの 3 件（NI-005〜NI-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NI-005%E3%80%9CNI-007&cards=NI-005%205f4dafedc8%0ANI-006%20b43dd4f723%0ANI-007%205a7b6781c7)**
 
 ---
 
@@ -113,10 +113,10 @@
 - 条件：population: 髄膜炎が疑われる患者／region: 日本
 - 不確実性：ガイドライン本文（書籍）は未入手のため、記載内容は学会の公開資料および本ガイドラインを引用する公的資料で確認した範囲に限った。取り込み時に本文での最終確認を推奨する。
 - 出典：日本神経学会・日本神経治療学会・日本神経感染症学会 監修、「細菌性髄膜炎診療ガイドライン」作成委員会 編. 細菌性髄膜炎診療ガイドライン2014. 南江堂. 2014（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-3-A-②（髄膜炎、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-008&card_id=NI-008&version=490091f758)　（版 `490091f758`）
+- 出題基準：医学各論 Ⅸ-3-A-②（髄膜炎、a）；医学各論 Ⅻ-1-A-⑱（ウイルス性髄膜炎、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-008&card_id=NI-008&version=38a6fe8a65)　（版 `38a6fe8a65`）
 
-**[ここまでの 1 件（NI-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NI-008&cards=NI-008%20490091f758)**
+**[ここまでの 1 件（NI-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NI-008&cards=NI-008%2038a6fe8a65)**
 
 ---
 

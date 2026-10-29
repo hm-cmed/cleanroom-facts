@@ -45,10 +45,10 @@
 - 条件：region: 米国（CDC 性感染症治療ガイドライン2021）／study: ガイドラインの推奨レジメン（女性）と診断法の比較データ
 - 不確実性：本カードは米国のガイドラインに基づく。メトロニダゾールの腟トリコモナス症に対する国内の承認・保険適用の状況は、本調査では添付文書等で確認していない。
 - 出典：Workowski KA, Bachmann LH, Chan PA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187.　[DOI 10.15585/mmwr.rr7004a1](https://doi.org/10.15585/mmwr.rr7004a1)　[PMID 34292926](https://pubmed.ncbi.nlm.nih.gov/34292926/)（区分 GOV_US）
-- 出題基準：医学各論 Ⅷ-5-C-①（腟炎、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-01-00-359 (id: JlvnmBM)；TBL-02-09-025 (id: JlAKppg)；TBL-02-09-018 (id: JlAKppA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GY-003&card_id=GY-003&version=3e84c8de48)　（版 `3e84c8de48`）
+- 出題基準：医学各論 Ⅷ-5-C-①（腟炎、a）；医学各論 Ⅻ-4-A-⑪（トリコモナス症、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-01-00-359 (id: JlvnmBM)；TBL-02-09-025 (id: JlAKppg)；TBL-02-09-018 (id: JlAKppA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GY-003&card_id=GY-003&version=0ef02b9396)　（版 `0ef02b9396`）
 
-**[ここまでの 1 件（GY-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GY-003&cards=GY-003%203e84c8de48)**
+**[ここまでの 1 件（GY-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GY-003&cards=GY-003%200ef02b9396)**
 
 ---
 

@@ -99,8 +99,8 @@
 - 条件：population: 血管性認知症が疑われる患者／region: 国際
 - 不確実性：本基準は研究用の症例定義として作成されたものであり、抄録でも検証と改訂が前提とされている。脳小血管病を軸とする近年の概念（血管性認知障害）との対応はND-010を参照。
 - 出典：Román GC, et al. Vascular dementia: diagnostic criteria for research studies. Report of the NINDS-AIREN International Workshop. Neurology. 1993;43(2):250-260　[DOI 10.1212/WNL.43.2.250](https://doi.org/10.1212/WNL.43.2.250)　[PMID 8094895](https://pubmed.ncbi.nlm.nih.gov/8094895/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-4-A-②（脳血管性認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-039 (id: JlvnldY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-009&card_id=ND-009&version=7e5b5e2547)　（版 `7e5b5e2547`）
+- 出題基準：医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅸ-1-E-③（脳血管性認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-039 (id: JlvnldY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-009&card_id=ND-009&version=4551d4207d)　（版 `4551d4207d`）
 
 ### ND-010　下書き（出典の照合前）
 
@@ -122,7 +122,7 @@
 - 出題基準：医学各論 Ⅸ-4-A-②（脳血管性認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-039 (id: JlvnldY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-011&card_id=ND-011&version=7470271c08)　（版 `7470271c08`）
 
-**[ここまでの 3 件（ND-009〜ND-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-009%E3%80%9CND-011&cards=ND-009%207e5b5e2547%0AND-010%20206aab0fa4%0AND-011%207470271c08)**
+**[ここまでの 3 件（ND-009〜ND-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-009%E3%80%9CND-011&cards=ND-009%204551d4207d%0AND-010%20206aab0fa4%0AND-011%207470271c08)**
 
 ---
 

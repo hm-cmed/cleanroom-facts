@@ -301,7 +301,7 @@
     corroboration: null
   uncertainty: 本基準は研究用の症例定義として作成されたものであり、抄録でも検証と改訂が前提とされている。脳小血管病を軸とする近年の概念（血管性認知障害）との対応はND-010を参照。
   curriculum:
-    kokushi: 医学各論 Ⅸ-4-A-②（脳血管性認知症、a）
+    kokushi: 医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅸ-1-E-③（脳血管性認知症、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-039 (id: JlvnldY)'
   publication_info:
     created: '2026-10-28'
@@ -313,6 +313,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-29'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅸ-1-E-③ を足した（医学各論 Ⅸ-4-A-②（脳血管性認知症、a） → 医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅸ-1-E-③（脳血管性認知症、a））。三原の承認による
 - id: ND-010
   domain: ND
   subdomain: 脳血管性認知症

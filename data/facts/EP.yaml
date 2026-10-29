@@ -196,7 +196,7 @@
     corroboration: null
   uncertainty: 定型欠神に特徴的な約 3 Hz の全般性棘徐波と過呼吸による発作の誘発は、同文書の小児欠神てんかんの診断基準（本文）に位置づけられる特徴であるが、抄録では確認できなかったため、本カードの assertion には周波数と誘発法を入れていない。
   curriculum:
-    kokushi: 医学各論 Ⅸ-6-A-②（欠神発作<全般非運動発作>、a）
+    kokushi: 医学各論 Ⅸ-6-A-②（欠神発作<全般非運動発作>、a）；医学各論 Ⅸ-11-C-②（欠神発作<全般非運動発作>、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-053 (id: Jlvnleo)'
   publication_info:
     created: '2026-10-28'
@@ -208,6 +208,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-29'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅸ-11-C-② を足した（医学各論 Ⅸ-6-A-②（欠神発作<全般非運動発作>、a） → 医学各論 Ⅸ-6-A-②（欠神発作<全般非運動発作>、a）；医学各論 Ⅸ-11-C-②（欠神発作<全般非運動発作>、a））。三原の承認による
 - id: EP-007
   domain: EP
   subdomain: てんかん

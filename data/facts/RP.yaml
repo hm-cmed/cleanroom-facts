@@ -772,7 +772,7 @@
   uncertainty: 日本の診断基準（国内の学会基準）との差異は本調査では未確認である。思春期では超音波検査や AMH による多嚢胞性卵巣形態の判定は推奨されておらず、主張の基準値は成人を対象としたものである。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)；骨盤内臓器と腫瘍の画像診断 TBL-02-09-023 (id: JlAKppY)'
-    kokushi: 医学各論 Ⅷ-8-D-⑥（多囊胞性卵巣症候群<PCOS>、b）
+    kokushi: 医学各論 Ⅷ-8-D-⑥（多囊胞性卵巣症候群<PCOS>、b）；医学各論 Ⅹ-5-A-②（多囊胞性卵巣症候群<PCOS>、b）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -783,6 +783,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-29'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅹ-5-A-② を足した（医学各論 Ⅷ-8-D-⑥（多囊胞性卵巣症候群<PCOS>、b） → 医学各論 Ⅷ-8-D-⑥（多囊胞性卵巣症候群<PCOS>、b）；医学各論 Ⅹ-5-A-②（多囊胞性卵巣症候群<PCOS>、b））。三原の承認による
 - id: RP-023
   domain: RP
   subdomain: 多嚢胞性卵巣症候群

@@ -93,10 +93,10 @@
 - 条件：region: イタリア／study: 1980〜2005年に全身性強皮症で受診した606例の長期観察研究（腎クリーゼ発症20例）
 - 不確実性：ACE阻害薬は国内で承認された薬剤だが、強皮症腎クリーゼに対する国内の適応・保険適用は未確認（取り込み時に添付文書で確認が必要）。1980〜2005年の症例であり、現在の治療成績とは異なる可能性がある。境界の方針に沿い、腎クリーゼに絞った記載である。
 - 出典：Cozzi F, Marson P, Cardarelli S, Favaro M, Tison T, et al. Prognosis of scleroderma renal crisis: a long-term observational study. Nephrol Dial Transplant. 2012;27(12):4398-403　[DOI 10.1093/ndt/gfs317](https://doi.org/10.1093/ndt/gfs317)　[PMID 22859795](https://pubmed.ncbi.nlm.nih.gov/22859795/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅷ-2-A-⑥（全身性強皮症、b）　コアカリ：PS-02-09-05 (id: JkxnuRs)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-006&card_id=KT-006&version=056aeb60f4)　（版 `056aeb60f4`）
+- 出題基準：医学各論 Ⅷ-2-A-⑥（全身性強皮症、b）；医学各論 Ⅷ-1-D-③（全身性強皮症、b）　コアカリ：PS-02-09-05 (id: JkxnuRs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-006&card_id=KT-006&version=21d057511d)　（版 `21d057511d`）
 
-**[ここまでの 1 件（KT-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-006&cards=KT-006%20056aeb60f4)**
+**[ここまでの 1 件（KT-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-006&cards=KT-006%2021d057511d)**
 
 ---
 

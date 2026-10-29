@@ -269,8 +269,8 @@
 - 条件：region: 国際／study: 国際エビデンスに基づくガイドライン（2023年版）
 - 不確実性：日本の診断基準（国内の学会基準）との差異は本調査では未確認である。思春期では超音波検査や AMH による多嚢胞性卵巣形態の判定は推奨されておらず、主張の基準値は成人を対象としたものである。
 - 出典：Teede HJ, Tay CT, Laven J, et al. Recommendations from the 2023 International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome. Human Reproduction. 2023;38(9):1655-1679.　[DOI 10.1093/humrep/dead156](https://doi.org/10.1093/humrep/dead156)　[PMID 37580037](https://pubmed.ncbi.nlm.nih.gov/37580037/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅷ-8-D-⑥（多囊胞性卵巣症候群<PCOS>、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)；骨盤内臓器と腫瘍の画像診断 TBL-02-09-023 (id: JlAKppY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-022&card_id=RP-022&version=021e76d43c)　（版 `021e76d43c`）
+- 出題基準：医学各論 Ⅷ-8-D-⑥（多囊胞性卵巣症候群<PCOS>、b）；医学各論 Ⅹ-5-A-②（多囊胞性卵巣症候群<PCOS>、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)；骨盤内臓器と腫瘍の画像診断 TBL-02-09-023 (id: JlAKppY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-022&card_id=RP-022&version=4b216e75cc)　（版 `4b216e75cc`）
 
 ### RP-023　下書き（出典の照合前）
 
@@ -282,7 +282,7 @@
 - 出題基準：医学各論 Ⅷ-8-D-⑥（多囊胞性卵巣症候群<PCOS>、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-023&card_id=RP-023&version=056b363f00)　（版 `056b363f00`）
 
-**[ここまでの 2 件（RP-022〜RP-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-022%E3%80%9CRP-023&cards=RP-022%20021e76d43c%0ARP-023%20056b363f00)**
+**[ここまでの 2 件（RP-022〜RP-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-022%E3%80%9CRP-023&cards=RP-022%204b216e75cc%0ARP-023%20056b363f00)**
 
 ---
 
