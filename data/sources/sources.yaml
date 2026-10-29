@@ -24558,3 +24558,684 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/35_if_c.md の出典マスター表から
+- id: SRC-2146
+  legacy_id: null
+  title: World Health Organization. Tuberculosis（ファクトシート、2024年データ、2026-03-24更新）
+  citation: World Health Organization. Tuberculosis（ファクトシート、2024年データ、2026-03-24更新）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: WHO出版物の標準ライセンス（CC BY-NC-SA IGO系）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2147
+  legacy_id: null
+  title: 'Houben RMGJ, Dodd PJ. The Global Burden of Latent Tuberculosis Infection: A Re-estimation Using Mathematical Modelling. PLoS Med. 2016;13(10):e1002152'
+  citation: 'Houben RMGJ, Dodd PJ. The Global Burden of Latent Tuberculosis Infection: A Re-estimation Using Mathematical Modelling. PLoS Med. 2016;13(10):e1002152'
+  doi: 10.1371/journal.pmed.1002152
+  pmid: '27780211'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2148
+  legacy_id: null
+  title: Pai M, Behr MA, Dowdy D, et al. Tuberculosis. Nat Rev Dis Primers. 2016;2:16076
+  citation: Pai M, Behr MA, Dowdy D, et al. Tuberculosis. Nat Rev Dis Primers. 2016;2:16076
+  doi: 10.1038/nrdp.2016.76
+  pmid: '27784885'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2149
+  legacy_id: null
+  title: 'Prevots DR, Marras TK. Epidemiology of human pulmonary infection with nontuberculous mycobacteria: a review. Clin Chest Med. 2015;36(1)'
+  citation: 'Prevots DR, Marras TK. Epidemiology of human pulmonary infection with nontuberculous mycobacteria: a review. Clin Chest Med. 2015;36(1)'
+  doi: 10.1016/j.ccm.2014.10.002
+  pmid: '25676516'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2150
+  legacy_id: null
+  title: Falkinham JO 3rd. Environmental sources of nontuberculous mycobacteria. Clin Chest Med. 2015;36(1)
+  citation: Falkinham JO 3rd. Environmental sources of nontuberculous mycobacteria. Clin Chest Med. 2015;36(1)
+  doi: 10.1016/j.ccm.2014.10.003
+  pmid: '25676517'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2151
+  legacy_id: null
+  title: 国立健康危機管理研究機構（JIHS）感染症情報提供サイト. ハンセン病（詳細版）. 2016年改訂
+  citation: 国立健康危機管理研究機構（JIHS）感染症情報提供サイト. ハンセン病（詳細版）. 2016年改訂
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2152
+  legacy_id: null
+  title: Denning DW. Global incidence and mortality of severe fungal disease. Lancet Infect Dis. 2024;24(7)
+  citation: Denning DW. Global incidence and mortality of severe fungal disease. Lancet Infect Dis. 2024;24(7)
+  doi: 10.1016/S1473-3099(23)00692-8
+  pmid: '38224705'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2153
+  legacy_id: null
+  title: Latgé JP, Chamilos G. Aspergillus fumigatus and Aspergillosis in 2019. Clin Microbiol Rev. 2019;33(1):e00140-18
+  citation: Latgé JP, Chamilos G. Aspergillus fumigatus and Aspergillosis in 2019. Clin Microbiol Rev. 2019;33(1):e00140-18
+  doi: 10.1128/CMR.00140-18
+  pmid: '31722890'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2154
+  legacy_id: null
+  title: 'Rajasingham R, Govender NP, Jordan A, et al. The global burden of HIV-associated cryptococcal infection in adults in 2020: a modelling analysis. Lancet Infect Dis. 2022;22(12)'
+  citation: 'Rajasingham R, Govender NP, Jordan A, et al. The global burden of HIV-associated cryptococcal infection in adults in 2020: a modelling analysis. Lancet Infect Dis. 2022;22(12)'
+  doi: 10.1016/S1473-3099(22)00499-6
+  pmid: '36049486'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2155
+  legacy_id: null
+  title: de Hoog GS, Dukik K, Monod M, et al. Toward a Novel Multilocus Phylogenetic Taxonomy for the Dermatophytes. Mycopathologia. 2017;182(1-2):5-31.
+  citation: de Hoog GS, Dukik K, Monod M, et al. Toward a Novel Multilocus Phylogenetic Taxonomy for the Dermatophytes. Mycopathologia. 2017;182(1-2):5-31.
+  doi: 10.1007/s11046-016-0073-9
+  pmid: '27783317'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2156
+  legacy_id: null
+  title: Nakamura K, Fukuda T. 2021 Epidemiological Survey of Dermatomycoses in Japan. Med Mycol J. 2023;64(4):85-94.
+  citation: Nakamura K, Fukuda T. 2021 Epidemiological Survey of Dermatomycoses in Japan. Med Mycol J. 2023;64(4):85-94.
+  doi: 10.3314/mmj.23-00008
+  pmid: '38030276'
+  pmcid: null
+  license_note: CC表示なし（Crossref に license 欄なし、日本医真菌学会誌）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2157
+  legacy_id: null
+  title: Edman JC, Kovacs JA, Masur H, et al. Ribosomal RNA sequence shows Pneumocystis carinii to be a member of the fungi. Nature. 1988;334(6182):519-522.
+  citation: Edman JC, Kovacs JA, Masur H, et al. Ribosomal RNA sequence shows Pneumocystis carinii to be a member of the fungi. Nature. 1988;334(6182):519-522.
+  doi: 10.1038/334519a0
+  pmid: '2970013'
+  pmcid: null
+  license_note: CC表示なし（Crossref の license は TDM 用リンクのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2158
+  legacy_id: null
+  title: Apostolopoulou A, Fishman JA. The Pathogenesis and Diagnosis of Pneumocystis jiroveci Pneumonia. J Fungi. 2022;8(11):1167.
+  citation: Apostolopoulou A, Fishman JA. The Pathogenesis and Diagnosis of Pneumocystis jiroveci Pneumonia. J Fungi. 2022;8(11):1167.
+  doi: 10.3390/jof8111167
+  pmid: '36354934'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2159
+  legacy_id: null
+  title: 'World Health Organization. World malaria report 2024: addressing inequity in the global malaria response. Geneva: World Health Organization; 2024. ISBN 978-92-4-010444-0（電子版）'
+  citation: 'World Health Organization. World malaria report 2024: addressing inequity in the global malaria response. Geneva: World Health Organization; 2024. ISBN 978-92-4-010444-0（電子版）'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC-SA 3.0 IGO
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2160
+  legacy_id: null
+  title: 国立健康危機管理研究機構（JIHS）. わが国における輸入感染症としてのマラリア：2007～2025年. 病原微生物検出情報（IASR） Vol.47（2026）
+  citation: 国立健康危機管理研究機構（JIHS）. わが国における輸入感染症としてのマラリア：2007～2025年. 病原微生物検出情報（IASR） Vol.47（2026）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2161
+  legacy_id: null
+  title: Gaitanis G, Magiatis P, Hantschke M, Bassukas ID, Velegraki A. The Malassezia genus in skin and systemic diseases. Clin Microbiol Rev. 2012;25(1):106-141.
+  citation: Gaitanis G, Magiatis P, Hantschke M, Bassukas ID, Velegraki A. The Malassezia genus in skin and systemic diseases. Clin Microbiol Rev. 2012;25(1):106-141.
+  doi: 10.1128/CMR.00021-11
+  pmid: '22232373'
+  pmcid: null
+  license_note: © American Society for Microbiology（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2162
+  legacy_id: null
+  title: 'Hochberg NS, Hamer DH. Anisakidosis: Perils of the deep. Clin Infect Dis. 2010;51(7):806-12.'
+  citation: 'Hochberg NS, Hamer DH. Anisakidosis: Perils of the deep. Clin Infect Dis. 2010;51(7):806-12.'
+  doi: 10.1086/656238
+  pmid: '20804423'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2163
+  legacy_id: null
+  title: 国立健康危機管理研究機構（JIHS）感染症情報提供サイト「アニサキス症（詳細版）」（2014年5月改訂）
+  citation: 国立健康危機管理研究機構（JIHS）感染症情報提供サイト「アニサキス症（詳細版）」（2014年5月改訂）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2164
+  legacy_id: null
+  title: Shirley DT, Farr L, Watanabe K, Moonah S. A review of the global burden, new diagnostics, and current therapeutics for amebiasis. Open Forum Infect Dis. 2018;5(7):ofy161.
+  citation: Shirley DT, Farr L, Watanabe K, Moonah S. A review of the global burden, new diagnostics, and current therapeutics for amebiasis. Open Forum Infect Dis. 2018;5(7):ofy161.
+  doi: 10.1093/ofid/ofy161
+  pmid: '30046644'
+  pmcid: null
+  license_note: CC BY-NC-ND（Europe PMC で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2165
+  legacy_id: null
+  title: Montoya JG, Liesenfeld O. Toxoplasmosis. Lancet. 2004;363(9425):1965-76.
+  citation: Montoya JG, Liesenfeld O. Toxoplasmosis. Lancet. 2004;363(9425):1965-76.
+  doi: 10.1016/S0140-6736(04)16412-X
+  pmid: '15194258'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2166
+  legacy_id: null
+  title: Dold C, Holland CV. Ascaris and ascariasis. Microbes Infect. 2011;13(7):632-7.
+  citation: Dold C, Holland CV. Ascaris and ascariasis. Microbes Infect. 2011;13(7):632-7.
+  doi: 10.1016/j.micinf.2010.09.012
+  pmid: '20934531'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2167
+  legacy_id: null
+  title: Chai JY, Jung BK. General overview of the current status of human foodborne trematodiasis. Parasitology. 2022;149(10):1262-85.
+  citation: Chai JY, Jung BK. General overview of the current status of human foodborne trematodiasis. Parasitology. 2022;149(10):1262-85.
+  doi: 10.1017/S0031182022000725
+  pmid: '35591777'
+  pmcid: null
+  license_note: CC BY 4.0（Crossref で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2168
+  legacy_id: null
+  title: 国立感染症研究所. IASR 2019年特集：エキノコックス症.
+  citation: 国立感染症研究所. IASR 2019年特集：エキノコックス症.
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2169
+  legacy_id: null
+  title: 国立感染症研究所. IASR Vol.22, 2001（クリプトスポリジウム症・ジアルジア症の特集記事）.
+  citation: 国立感染症研究所. IASR Vol.22, 2001（クリプトスポリジウム症・ジアルジア症の特集記事）.
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2170
+  legacy_id: null
+  title: 'Adam RD. Giardia duodenalis: Biology and pathogenesis. Clin Microbiol Rev. 2021;34(4):e0002419.'
+  citation: 'Adam RD. Giardia duodenalis: Biology and pathogenesis. Clin Microbiol Rev. 2021;34(4):e0002419.'
+  doi: 10.1128/CMR.00024-19
+  pmid: '34378955'
+  pmcid: null
+  license_note: CCライセンス表示なし（Europe PMC でライセンス表示なしを確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/36_if_d.md の出典マスター表から
+- id: SRC-2186
+  legacy_id: null
+  title: Singer M, Deutschman CS, Seymour CW, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA. 2016;315(8):801-810.
+  citation: Singer M, Deutschman CS, Seymour CW, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA. 2016;315(8):801-810.
+  doi: 10.1001/jama.2016.0287
+  pmid: '26903338'
+  pmcid: PMC4968574
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/37_if_e.md の出典マスター表から
+  - date: '2026-10-30'
+    by: claude-code
+    change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2187
+  legacy_id: null
+  title: 'Prescott HC, Antonelli M, Alhazzani W, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026. Crit Care Med. 2026;54(4):725-812.'
+  citation: 'Prescott HC, Antonelli M, Alhazzani W, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026. Crit Care Med. 2026;54(4):725-812.'
+  doi: 10.1097/CCM.0000000000007075
+  pmid: '41869847'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/37_if_e.md の出典マスター表から
+  - date: '2026-10-30'
+    by: claude-code
+    change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2188
+  legacy_id: null
+  title: 'Rudd KE, Johnson SC, Agesa KM, et al. Global, regional, and national sepsis incidence and mortality, 1990-2017: analysis for the Global Burden of Disease Study. Lancet. 2020;395(10219):200-211.'
+  citation: 'Rudd KE, Johnson SC, Agesa KM, et al. Global, regional, and national sepsis incidence and mortality, 1990-2017: analysis for the Global Burden of Disease Study. Lancet. 2020;395(10219):200-211.'
+  doi: 10.1016/S0140-6736(19)32989-7
+  pmid: '31954465'
+  pmcid: PMC6970225
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/37_if_e.md の出典マスター表から
+  - date: '2026-10-30'
+    by: claude-code
+    change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2189
+  legacy_id: null
+  title: The Japanese Clinical Practice Guidelines for Management of Sepsis and Septic Shock 2024 (J-SSCG2024). J Intensive Care. 2025;13.
+  citation: The Japanese Clinical Practice Guidelines for Management of Sepsis and Septic Shock 2024 (J-SSCG2024). J Intensive Care. 2025;13.
+  doi: 10.1186/s40560-025-00776-0
+  pmid: '40087807'
+  pmcid: PMC11907869
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/37_if_e.md の出典マスター表から
+  - date: '2026-10-30'
+    by: claude-code
+    change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2190
+  legacy_id: null
+  title: Lamy B, Dargère S, Arendrup MC, Parienti JJ, Tattevin P. How to Optimize the Use of Blood Cultures for the Diagnosis of Bloodstream Infections? A State-of-the Art. Front Microbiol. 2016;7:697.
+  citation: Lamy B, Dargère S, Arendrup MC, Parienti JJ, Tattevin P. How to Optimize the Use of Blood Cultures for the Diagnosis of Bloodstream Infections? A State-of-the Art. Front Microbiol. 2016;7:697.
+  doi: 10.3389/fmicb.2016.00697
+  pmid: '27242721'
+  pmcid: PMC4863885
+  license_note: CC BY
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/37_if_e.md の出典マスター表から
+  - date: '2026-10-30'
+    by: claude-code
+    change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2191
+  legacy_id: null
+  title: 大城健哉. 血液培養検査における Diagnostic Stewardship. 日本臨床微生物学会雑誌. 2022;32(1).
+  citation: 大城健哉. 血液培養検査における Diagnostic Stewardship. 日本臨床微生物学会雑誌. 2022;32(1).
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: ©日本臨床微生物学会 2022（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/37_if_e.md の出典マスター表から
+  - date: '2026-10-30'
+    by: claude-code
+    change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2192
+  legacy_id: null
+  title: 'Miller JM, Binnicker MJ, Campbell S, et al. A Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2018 Update by the Infectious Diseases Society of America and the American Society for Microbiology. Clin Infect Dis. 2018;67(6):e1-e94.'
+  citation: 'Miller JM, Binnicker MJ, Campbell S, et al. A Guide to Utilization of the Microbiology Laboratory for Diagnosis of Infectious Diseases: 2018 Update by the Infectious Diseases Society of America and the American Society for Microbiology. Clin Infect Dis. 2018;67(6):e1-e94.'
+  doi: 10.1093/cid/ciy381
+  pmid: '29955859'
+  pmcid: PMC7108105
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/37_if_e.md の出典マスター表から
+  - date: '2026-10-30'
+    by: claude-code
+    change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2193
+  legacy_id: null
+  title: 厚生労働省. 抗微生物薬適正使用の手引き 第四版 医科・入院編. 2026年（令和8年1月16日発行）
+  citation: 厚生労働省. 抗微生物薬適正使用の手引き 第四版 医科・入院編. 2026年（令和8年1月16日発行）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府刊行物（厚生労働省）。本文テキストに利用規約の明記は確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/37_if_e.md の出典マスター表から
+  - date: '2026-10-30'
+    by: claude-code
+    change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2194
+  legacy_id: null
+  title: 'Barlam TF, Cosgrove SE, Abbo LM, et al. Implementing an Antibiotic Stewardship Program: Guidelines by the Infectious Diseases Society of America and the Society for Healthcare Epidemiology of America. Clin Infect Dis. 2016;62(10):e51-e77.'
+  citation: 'Barlam TF, Cosgrove SE, Abbo LM, et al. Implementing an Antibiotic Stewardship Program: Guidelines by the Infectious Diseases Society of America and the Society for Healthcare Epidemiology of America. Clin Infect Dis. 2016;62(10):e51-e77.'
+  doi: 10.1093/cid/ciw118
+  pmid: '27080992'
+  pmcid: PMC5006285
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/37_if_e.md の出典マスター表から
+  - date: '2026-10-30'
+    by: claude-code
+    change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2195
+  legacy_id: null
+  title: 'Antimicrobial Resistance Collaborators. Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis. Lancet. 2022;399(10325):629-655.'
+  citation: 'Antimicrobial Resistance Collaborators. Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis. Lancet. 2022;399(10325):629-655.'
+  doi: 10.1016/S0140-6736(21)02724-0
+  pmid: '35065702'
+  pmcid: PMC8841637
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/37_if_e.md の出典マスター表から
+  - date: '2026-10-30'
+    by: claude-code
+    change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2196
+  legacy_id: null
+  title: Tsuzuki S, Matsunaga N, Yahara K, et al. National trend of blood-stream infection attributable deaths caused by Staphylococcus aureus and Escherichia coli in Japan. J Infect Chemother. 2020;26(4):367-371.
+  citation: Tsuzuki S, Matsunaga N, Yahara K, et al. National trend of blood-stream infection attributable deaths caused by Staphylococcus aureus and Escherichia coli in Japan. J Infect Chemother. 2020;26(4):367-371.
+  doi: 10.1016/j.jiac.2019.10.017
+  pmid: '31801696'
+  pmcid: null
+  license_note: CCライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/37_if_e.md の出典マスター表から
+  - date: '2026-10-30'
+    by: claude-code
+    change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2197
+  legacy_id: null
+  title: 薬剤耐性（AMR）対策アクションプラン（2023-2027）概要. 厚生労働省. 2023.
+  citation: 薬剤耐性（AMR）対策アクションプラン（2023-2027）概要. 厚生労働省. 2023.
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府資料（厚生労働省）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/37_if_e.md の出典マスター表から
+  - date: '2026-10-30'
+    by: claude-code
+    change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2198
+  legacy_id: null
+  title: 'Siegel JD, Rhinehart E, Jackson M, Chiarello L; Healthcare Infection Control Practices Advisory Committee. 2007 Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in Health Care Settings. Am J Infect Control. 2007;35(10 Suppl 2):S65-S164.'
+  citation: 'Siegel JD, Rhinehart E, Jackson M, Chiarello L; Healthcare Infection Control Practices Advisory Committee. 2007 Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in Health Care Settings. Am J Infect Control. 2007;35(10 Suppl 2):S65-S164.'
+  doi: 10.1016/j.ajic.2007.10.007
+  pmid: '18068815'
+  pmcid: PMC7119119
+  license_note: Crossref の登録は Elsevier の TDM ライセンスのみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/37_if_e.md の出典マスター表から
+  - date: '2026-10-30'
+    by: claude-code
+    change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2199
+  legacy_id: null
+  title: 'World Health Organization. WHO Guidelines on Hand Hygiene in Health Care. Geneva: World Health Organization; 2009. ISBN 9789241597906'
+  citation: 'World Health Organization. WHO Guidelines on Hand Hygiene in Health Care. Geneva: World Health Organization; 2009. ISBN 9789241597906'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: All rights reserved（WHO 出版物ページの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/37_if_e.md の出典マスター表から
+  - date: '2026-10-30'
+    by: claude-code
+    change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2200
+  legacy_id: null
+  title: Magill SS, O'Leary E, Janelle SJ, et al.; Emerging Infections Program Hospital Prevalence Survey Team. Changes in Prevalence of Health Care-Associated Infections in U.S. Hospitals. N Engl J Med. 2018;379(18):1732-1744.
+  citation: Magill SS, O'Leary E, Janelle SJ, et al.; Emerging Infections Program Hospital Prevalence Survey Team. Changes in Prevalence of Health Care-Associated Infections in U.S. Hospitals. N Engl J Med. 2018;379(18):1732-1744.
+  doi: 10.1056/NEJMoa1801550
+  pmid: '30380384'
+  pmcid: PMC7978499
+  license_note: NEJM の利用条件のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/37_if_e.md の出典マスター表から
+  - date: '2026-10-30'
+    by: claude-code
+    change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2201
+  legacy_id: null
+  title: Dropulic LK, Lederman HM. Overview of Infections in the Immunocompromised Host. Microbiol Spectr. 2016;4(4).
+  citation: Dropulic LK, Lederman HM. Overview of Infections in the Immunocompromised Host. Microbiol Spectr. 2016;4(4).
+  doi: 10.1128/microbiolspec.DMIH2-0026-2016
+  pmid: '27726779'
+  pmcid: PMC8428766
+  license_note: Crossref の登録は ASM の非商用 TDM ライセンスのみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/37_if_e.md の出典マスター表から
+  - date: '2026-10-30'
+    by: claude-code
+    change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2202
+  legacy_id: null
+  title: Fishman JA. Infection in Organ Transplantation. Am J Transplant. 2017;17(4):856-879.
+  citation: Fishman JA. Infection in Organ Transplantation. Am J Transplant. 2017;17(4):856-879.
+  doi: 10.1111/ajt.14208
+  pmid: '28117944'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Crossref 登録）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/37_if_e.md の出典マスター表から
+  - date: '2026-10-30'
+    by: claude-code
+    change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
