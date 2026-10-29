@@ -1,0 +1,12 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round33_IF.md
+round: 37
+name: 感染性疾患 第37回（IG）
+id_start:
+  IG: 1
+src_range:
+- 2186
+- 2210
+target_cards:
+- 10
+- 25
+targets: []

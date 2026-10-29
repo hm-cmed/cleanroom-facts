@@ -1,0 +1,64 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round33_IF.md
+round: 34
+name: 感染性疾患 第34回（HV）
+id_start:
+  HV: 1
+src_range:
+- 2046
+- 2080
+target_cards:
+- 20
+- 40
+targets:
+- code: Ⅻ-1-A-⑩
+  name: 単純ヘルペスウイルス感染症
+  level: a
+  prefix: HV
+- code: Ⅻ-1-A-⑪
+  name: 水痘・帯状疱疹
+  level: a
+  prefix: HV
+- code: Ⅻ-1-A-⑮
+  name: ヒトパピローマウイルス<HPV>感染症
+  level: a
+  prefix: HV
+- code: Ⅻ-1-A-⑯
+  name: ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>
+  level: a
+  prefix: HV
+- code: Ⅻ-1-A-⑰
+  name: ウイルス性肝炎
+  level: a
+  prefix: HV
+- code: Ⅻ-1-A-㉑
+  name: 新型コロナウイルス感染症
+  level: a
+  prefix: HV
+- code: Ⅻ-1-A-㉒
+  name: デング熱
+  level: b
+  prefix: HV
+- code: Ⅻ-1-A-㉓
+  name: 伝染性軟属腫
+  level: b
+  prefix: HV
+- code: Ⅻ-1-A-㉔
+  name: ヒトT細胞白血病ウイルス<HTLV-Ⅰ>感染症
+  level: b
+  prefix: HV
+- code: Ⅻ-1-A-㉕
+  name: 急性灰白髄炎<ポリオ>
+  level: c
+  prefix: HV
+- code: Ⅻ-1-A-㉖
+  name: ジカウイルス感染症
+  level: c
+  prefix: HV
+- code: Ⅻ-1-A-㉗
+  name: エボラ出血熱
+  level: c
+  prefix: HV
+- code: Ⅻ-1-A-㉘
+  name: 日本脳炎
+  level: c
+  prefix: HV

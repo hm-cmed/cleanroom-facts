@@ -1,0 +1,68 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round33_IF.md
+round: 33
+name: 感染性疾患 第33回（VI）
+id_start:
+  VI: 1
+src_range:
+- 2011
+- 2045
+target_cards:
+- 20
+- 45
+targets:
+- code: Ⅻ-1-A-①
+  name: インフルエンザ
+  level: a
+  prefix: VI
+- code: Ⅻ-1-A-②
+  name: RSウイルス感染症
+  level: a
+  prefix: VI
+- code: Ⅻ-1-A-③
+  name: 流行性耳下腺炎<ムンプス>
+  level: a
+  prefix: VI
+- code: Ⅻ-1-A-④
+  name: 麻疹
+  level: a
+  prefix: VI
+- code: Ⅻ-1-A-⑤
+  name: 風疹
+  level: a
+  prefix: VI
+- code: Ⅻ-1-A-⑥
+  name: 突発性発疹
+  level: a
+  prefix: VI
+- code: Ⅻ-1-A-⑦
+  name: コクサッキーウイルス感染症、エコー<ECHO>ウイルス感染症
+  level: a
+  prefix: VI
+- code: Ⅻ-1-A-⑧
+  name: アデノウイルス感染症
+  level: a
+  prefix: VI
+- code: Ⅻ-1-A-⑨
+  name: ウイルス性下痢症
+  level: a
+  prefix: VI
+- code: Ⅻ-1-A-⑫
+  name: Epstein-Barr<EB>ウイルス感染症
+  level: a
+  prefix: VI
+- code: Ⅻ-1-A-⑬
+  name: パルボウイルスB19感染症
+  level: a
+  prefix: VI
+- code: Ⅻ-1-A-⑭
+  name: サイトメガロウイルス感染症
+  level: a
+  prefix: VI
+- code: Ⅻ-1-A-⑲
+  name: ノロウイルス感染症
+  level: a
+  prefix: VI
+- code: Ⅻ-1-A-⑳
+  name: ロタウイルス感染症
+  level: a
+  prefix: VI

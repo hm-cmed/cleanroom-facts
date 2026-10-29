@@ -1,4 +1,4 @@
-# 医師国家試験出題基準（令和6年版）医学各論の小項目（番号・名称・レベル）。Ⅲ・Ⅳ・Ⅷ・Ⅸ・Ⅹ は 2026-10-28、Ⅴ は 2026-10-25、Ⅵ は 2026-10-21 に転記
+# 医師国家試験出題基準（令和6年版）医学各論の小項目（番号・名称・レベル）。Ⅲ・Ⅳ・Ⅷ・Ⅸ・Ⅹ は 2026-10-28、Ⅻ は 2026-10-29、Ⅴ は 2026-10-25、Ⅵ は 2026-10-21 に転記
 # 出典：厚生労働省 医学各論 PDF https://www.mhlw.go.jp/content/10803000/001079484.pdf
 # 備考欄は転記していない。項目の構成（番号・名称・レベル）だけを、問題の分類と配分の計算に使う。
 # checked: 原本 PDF と人が照合したら true にする（2026-10-21 は Claude Code の読み取り結果からの転記で、未照合）。
@@ -1316,3 +1316,106 @@ chapters:
           - {code: Ⅸ-11-D-①, name: "小頭症", level: c}
           - {code: Ⅸ-11-E-①, name: "脳性麻痺", level: b}
           - {code: Ⅸ-11-E-②, name: "亜急性硬化性全脳炎<SSPE>", level: b}
+  - id: Ⅻ
+    name: 感染性疾患
+    note: 2026-10-29 に、Muse の読み取り（proposals/33_infection_division_proposal.md）と厚生労働省 PDF のテキスト層を突き合わせて転記。全87項目の番号・名称・レベルが一致した。レベルはすべて全角。丸数字は ㉛ まである（Ⅻ-1-A-㉘、Ⅻ-2-B-㉛）。人による原本照合は未了。
+    groups:
+      - id: "1"
+        name: ウイルス
+        items:
+          - {code: Ⅻ-1-A-①, name: "インフルエンザ", level: a}
+          - {code: Ⅻ-1-A-②, name: "RSウイルス感染症", level: a}
+          - {code: Ⅻ-1-A-③, name: "流行性耳下腺炎<ムンプス>", level: a}
+          - {code: Ⅻ-1-A-④, name: "麻疹", level: a}
+          - {code: Ⅻ-1-A-⑤, name: "風疹", level: a}
+          - {code: Ⅻ-1-A-⑥, name: "突発性発疹", level: a}
+          - {code: Ⅻ-1-A-⑦, name: "コクサッキーウイルス感染症、エコー<ECHO>ウイルス感染症", level: a}
+          - {code: Ⅻ-1-A-⑧, name: "アデノウイルス感染症", level: a}
+          - {code: Ⅻ-1-A-⑨, name: "ウイルス性下痢症", level: a}
+          - {code: Ⅻ-1-A-⑩, name: "単純ヘルペスウイルス感染症", level: a}
+          - {code: Ⅻ-1-A-⑪, name: "水痘・帯状疱疹", level: a}
+          - {code: Ⅻ-1-A-⑫, name: "Epstein-Barr<EB>ウイルス感染症", level: a}
+          - {code: Ⅻ-1-A-⑬, name: "パルボウイルスB19感染症", level: a}
+          - {code: Ⅻ-1-A-⑭, name: "サイトメガロウイルス感染症", level: a}
+          - {code: Ⅻ-1-A-⑮, name: "ヒトパピローマウイルス<HPV>感染症", level: a}
+          - {code: Ⅻ-1-A-⑯, name: "ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>", level: a}
+          - {code: Ⅻ-1-A-⑰, name: "ウイルス性肝炎", level: a}
+          - {code: Ⅻ-1-A-⑱, name: "ウイルス性髄膜炎", level: a}
+          - {code: Ⅻ-1-A-⑲, name: "ノロウイルス感染症", level: a}
+          - {code: Ⅻ-1-A-⑳, name: "ロタウイルス感染症", level: a}
+          - {code: Ⅻ-1-A-㉑, name: "新型コロナウイルス感染症", level: a}
+          - {code: Ⅻ-1-A-㉒, name: "デング熱", level: b}
+          - {code: Ⅻ-1-A-㉓, name: "伝染性軟属腫", level: b}
+          - {code: Ⅻ-1-A-㉔, name: "ヒトT細胞白血病ウイルス<HTLV-Ⅰ>感染症", level: b}
+          - {code: Ⅻ-1-A-㉕, name: "急性灰白髄炎<ポリオ>", level: c}
+          - {code: Ⅻ-1-A-㉖, name: "ジカウイルス感染症", level: c}
+          - {code: Ⅻ-1-A-㉗, name: "エボラ出血熱", level: c}
+          - {code: Ⅻ-1-A-㉘, name: "日本脳炎", level: c}
+      - id: "2"
+        name: 細菌
+        items:
+          - {code: Ⅻ-2-A-①, name: "クラミジア肺炎", level: a}
+          - {code: Ⅻ-2-A-②, name: "性器クラミジア感染症", level: a}
+          - {code: Ⅻ-2-A-③, name: "マイコプラズマ肺炎", level: a}
+          - {code: Ⅻ-2-A-④, name: "オウム病", level: b}
+          - {code: Ⅻ-2-A-⑤, name: "クラミジア結膜炎<トラコーマ>", level: b}
+          - {code: Ⅻ-2-A-⑥, name: "ツツガ虫病", level: b}
+          - {code: Ⅻ-2-A-⑦, name: "Q熱", level: c}
+          - {code: Ⅻ-2-B-①, name: "連鎖球菌感染症", level: a}
+          - {code: Ⅻ-2-B-②, name: "腸球菌感染症", level: a}
+          - {code: Ⅻ-2-B-③, name: "肺炎球菌感染症", level: a}
+          - {code: Ⅻ-2-B-④, name: "黄色ブドウ球菌感染症、メチシリン耐性黄色ブドウ球菌<MRSA>感染症", level: a}
+          - {code: Ⅻ-2-B-⑤, name: "表皮ブドウ球菌感染症", level: a}
+          - {code: Ⅻ-2-B-⑥, name: "淋菌感染症", level: a}
+          - {code: Ⅻ-2-B-⑦, name: "髄膜炎菌感染症", level: a}
+          - {code: Ⅻ-2-B-⑧, name: "ヘリコバクター・ピロリ感染症", level: a}
+          - {code: Ⅻ-2-B-⑨, name: "リステリア感染症", level: a}
+          - {code: Ⅻ-2-B-⑩, name: "モラクセラ・カタラリス感染症", level: a}
+          - {code: Ⅻ-2-B-⑪, name: "サルモネラ感染症", level: a}
+          - {code: Ⅻ-2-B-⑫, name: "百日咳", level: a}
+          - {code: Ⅻ-2-B-⑬, name: "大腸菌感染症", level: a}
+          - {code: Ⅻ-2-B-⑭, name: "クレブシエラ感染症", level: a}
+          - {code: Ⅻ-2-B-⑮, name: "セラチア感染症", level: a}
+          - {code: Ⅻ-2-B-⑯, name: "腸炎ビブリオ感染症", level: a}
+          - {code: Ⅻ-2-B-⑰, name: "レジオネラ症", level: a}
+          - {code: Ⅻ-2-B-⑱, name: "緑膿菌感染症", level: a}
+          - {code: Ⅻ-2-B-⑲, name: "アシネトバクター感染症", level: a}
+          - {code: Ⅻ-2-B-⑳, name: "ガス壊疽", level: a}
+          - {code: Ⅻ-2-B-㉑, name: "クロストリジウム・ディフィシル腸炎", level: a}
+          - {code: Ⅻ-2-B-㉒, name: "バクテロイデス感染症", level: a}
+          - {code: Ⅻ-2-B-㉓, name: "梅毒", level: a}
+          - {code: Ⅻ-2-B-㉔, name: "ヘモフィルス感染症", level: b}
+          - {code: Ⅻ-2-B-㉕, name: "細菌性赤痢", level: b}
+          - {code: Ⅻ-2-B-㉖, name: "コレラ", level: b}
+          - {code: Ⅻ-2-B-㉗, name: "破傷風", level: b}
+          - {code: Ⅻ-2-B-㉘, name: "ボツリヌス症", level: b}
+          - {code: Ⅻ-2-B-㉙, name: "放線菌症", level: b}
+          - {code: Ⅻ-2-B-㉚, name: "ノカルジア症", level: b}
+          - {code: Ⅻ-2-B-㉛, name: "ジフテリア", level: c}
+      - id: "3"
+        name: 抗酸菌<マイコバクテリア>
+        items:
+          - {code: Ⅻ-3-A-①, name: "結核", level: a}
+          - {code: Ⅻ-3-A-②, name: "非結核性抗酸菌症", level: a}
+          - {code: Ⅻ-3-A-③, name: "Hansen病", level: c}
+      - id: "4"
+        name: 真菌、寄生虫、その他の病原体
+        items:
+          - {code: Ⅻ-4-A-①, name: "カンジダ症", level: a}
+          - {code: Ⅻ-4-A-②, name: "アスペルギルス症", level: a}
+          - {code: Ⅻ-4-A-③, name: "白癬", level: a}
+          - {code: Ⅻ-4-A-④, name: "ニューモシスチス肺炎", level: a}
+          - {code: Ⅻ-4-A-⑤, name: "マラリア", level: a}
+          - {code: Ⅻ-4-A-⑥, name: "アニサキス症", level: a}
+          - {code: Ⅻ-4-A-⑦, name: "クリプトコックス症", level: b}
+          - {code: Ⅻ-4-A-⑧, name: "癜風", level: b}
+          - {code: Ⅻ-4-A-⑨, name: "アメーバ赤痢", level: b}
+          - {code: Ⅻ-4-A-⑩, name: "トキソプラズマ症", level: b}
+          - {code: Ⅻ-4-A-⑪, name: "トリコモナス症", level: b}
+          - {code: Ⅻ-4-A-⑫, name: "スポロトリコーシス", level: c}
+          - {code: Ⅻ-4-A-⑬, name: "回虫症", level: c}
+          - {code: Ⅻ-4-A-⑭, name: "吸虫症", level: c}
+          - {code: Ⅻ-4-A-⑮, name: "エキノコックス症", level: c}
+          - {code: Ⅻ-4-A-⑯, name: "クリプトスポリジウム症", level: c}
+          - {code: Ⅻ-4-A-⑰, name: "ジアルジア症", level: c}
+          - {code: Ⅻ-4-A-⑱, name: "プリオン病", level: c}

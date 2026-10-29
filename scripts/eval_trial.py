@@ -31,7 +31,7 @@ from ingest_round import parse_src_table, null_if_dash  # noqa: E402
 FACTS = ROOT / "data" / "facts"
 CUR = ROOT / "data" / "curriculum"
 SCHEMA = json.loads((ROOT / "schema" / "fact.schema.json").read_text(encoding="utf-8"))
-KOKUSHI_RE = re.compile(r"医学各論\s*([ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫ]+-\d+(?:-[A-Z])?(?:-[①-⑳])?)")
+KOKUSHI_RE = re.compile(r"医学各論\s*([ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫ]+-\d+(?:-[A-Z])?(?:-[①-⑳㉑-㉟])?)")
 CORE_RE = re.compile(r"\b(TBL-\d{2}-\d{2}-\d{3}|PS-\d{2}-\d{2}-\d{2})\s*\(id:\s*([A-Za-z0-9_\-]+)\)")
 OPEN_LIC = re.compile(r"creativecommons\.org/(licenses/by/|publicdomain/zero)", re.I)
 RESTRICTED_LIC = re.compile(r"creativecommons\.org/licenses/by-(nc|nd)", re.I)

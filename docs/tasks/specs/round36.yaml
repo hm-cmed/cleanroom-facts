@@ -1,0 +1,89 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round33_IF.md
+round: 36
+name: 感染性疾患 第36回（MY・FG）
+id_start:
+  MY: 1
+  FG: 1
+src_range:
+- 2146
+- 2185
+target_cards:
+- 20
+- 45
+targets:
+- code: Ⅻ-3-A-①
+  name: 結核
+  level: a
+  prefix: MY
+- code: Ⅻ-3-A-②
+  name: 非結核性抗酸菌症
+  level: a
+  prefix: MY
+- code: Ⅻ-3-A-③
+  name: Hansen病
+  level: c
+  prefix: MY
+- code: Ⅻ-4-A-①
+  name: カンジダ症
+  level: a
+  prefix: FG
+- code: Ⅻ-4-A-②
+  name: アスペルギルス症
+  level: a
+  prefix: FG
+- code: Ⅻ-4-A-③
+  name: 白癬
+  level: a
+  prefix: FG
+- code: Ⅻ-4-A-④
+  name: ニューモシスチス肺炎
+  level: a
+  prefix: FG
+- code: Ⅻ-4-A-⑤
+  name: マラリア
+  level: a
+  prefix: FG
+- code: Ⅻ-4-A-⑥
+  name: アニサキス症
+  level: a
+  prefix: FG
+- code: Ⅻ-4-A-⑦
+  name: クリプトコックス症
+  level: b
+  prefix: FG
+- code: Ⅻ-4-A-⑧
+  name: 癜風
+  level: b
+  prefix: FG
+- code: Ⅻ-4-A-⑨
+  name: アメーバ赤痢
+  level: b
+  prefix: FG
+- code: Ⅻ-4-A-⑩
+  name: トキソプラズマ症
+  level: b
+  prefix: FG
+- code: Ⅻ-4-A-⑫
+  name: スポロトリコーシス
+  level: c
+  prefix: FG
+- code: Ⅻ-4-A-⑬
+  name: 回虫症
+  level: c
+  prefix: FG
+- code: Ⅻ-4-A-⑭
+  name: 吸虫症
+  level: c
+  prefix: FG
+- code: Ⅻ-4-A-⑮
+  name: エキノコックス症
+  level: c
+  prefix: FG
+- code: Ⅻ-4-A-⑯
+  name: クリプトスポリジウム症
+  level: c
+  prefix: FG
+- code: Ⅻ-4-A-⑰
+  name: ジアルジア症
+  level: c
+  prefix: FG

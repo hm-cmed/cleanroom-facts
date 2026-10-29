@@ -66,3 +66,10 @@
 - {prefix: BO, name: 骨・軟部腫瘍と類似疾患, field: 神経・運動器}
 - {prefix: TJ, name: 神経・運動器の外傷, field: 神経・運動器}
 - {prefix: AN, name: 水頭症、脳・脊髄の形成異常、神経皮膚症候群、脳性麻痺, field: 神経・運動器}
+- {prefix: VI, name: ウイルス感染症（急性・小児・全身性）, field: 感染症}
+- {prefix: HV, name: ウイルス感染症（ヘルペス群・慢性・新興）, field: 感染症}
+- {prefix: CM, name: クラミジア・マイコプラズマ・リケッチアによる感染症, field: 感染症}
+- {prefix: BA, name: 細菌による感染症（抗酸菌を除く）, field: 感染症}
+- {prefix: MY, name: 抗酸菌による感染症, field: 感染症}
+- {prefix: FG, name: 真菌、寄生虫、その他の病原体による感染症, field: 感染症}
+- {prefix: IG, name: 感染症の総論（横断：敗血症・抗菌薬・感染対策など）, field: 感染症}
