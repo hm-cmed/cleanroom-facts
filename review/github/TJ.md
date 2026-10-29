@@ -1,8 +1,8 @@
 # TJ 神経・運動器の外傷 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-28
+[← 一覧に戻る](README.md)　更新：2026-10-29
 
-全 76 件のうち、監修済み 0 件。
+全 75 件のうち、監修済み 0 件。
 
 ## 頭部外傷総論
 
@@ -26,16 +26,6 @@
 - 出題基準：医学各論 Ⅸ-10-A-①（脳挫傷、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-002&card_id=TJ-002&version=f1aca7e94b)　（版 `f1aca7e94b`）
 
-### TJ-003　下書き（出典の照合前）
-
-> Glasgow Coma Scale（GCS）は、開眼（4段階）・言語反応（5段階）・運動反応（6段階）の3要素で意識障害の程度を評価する尺度であり、合計点は3〜15点である。
-
-- 条件：region: 国際／対象: 意識障害の評価対象となる患者
-- 不確実性：Teasdale と Jennett が1974年に提唱した原著。PubMed に抄録本文が収載されていないため、3要素の段階数は原著の尺度構成に基づく。（出典内の位置：原著論文の尺度定義）
-- 出典：Teasdale G, Jennett B. Assessment of coma and impaired consciousness. A practical scale. Lancet. 1974;2(7872):81-84　[DOI 10.1016/S0140-6736(74)91639-0](https://doi.org/10.1016/S0140-6736(74)91639-0)　[PMID 4136544](https://pubmed.ncbi.nlm.nih.gov/4136544/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-10-A-①（脳挫傷、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-003&card_id=TJ-003&version=5fa8d313f3)　（版 `5fa8d313f3`）
-
 ### TJ-004　下書き（出典の照合前）
 
 > 日本の頭部外傷診療では、日本脳神経外科学会・日本脳神経外傷学会が監修する『頭部外傷治療・管理のガイドライン第4版』（2019年、医学書院）が現行の標準的なガイドラインであり、重症度は GCS で評価され、GCS 13〜15は軽症頭部外傷とされる。
@@ -46,7 +36,7 @@
 - 出題基準：医学各論 Ⅸ-10-A-①（脳挫傷、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-004&card_id=TJ-004&version=a22211bde0)　（版 `a22211bde0`）
 
-**[ここまでの 4 件（TJ-001〜TJ-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TJ-001%E3%80%9CTJ-004&cards=TJ-001%20d830801126%0ATJ-002%20f1aca7e94b%0ATJ-003%205fa8d313f3%0ATJ-004%20a22211bde0)**
+**[ここまでの 3 件（TJ-001〜TJ-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TJ-001%E3%80%9CTJ-004&cards=TJ-001%20d830801126%0ATJ-002%20f1aca7e94b%0ATJ-004%20a22211bde0)**
 
 ---
 

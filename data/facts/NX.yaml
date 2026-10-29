@@ -21,8 +21,8 @@
     corroboration: null
   uncertainty: 1974年の原典の構成に基づく。日本では Japan Coma Scale も併用される（NX-002）。小児用などの派生版は本カードでは扱わない。
   curriculum:
-    kokushi: null
-    core_curriculum: 'PS-02-03-02 (id: JkxnuPo)；TBL-02-02-021 (id: JlAKpYw)'
+    kokushi: 医学各論 Ⅸ-10-A-①（脳挫傷、a）
+    core_curriculum: 'PS-02-03-02 (id: JkxnuPo)；TBL-02-02-021 (id: JlAKpYw)；PS-02-03-05 (id: JkxnuP0)'
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-29'
+    by: claude-code
+    change: 分野をまたぐ重複の統合：TJ-003 の出題基準・コアカリの番号をこのカードに足した（None → 医学各論 Ⅸ-10-A-①（脳挫傷、a））。TJ-003 は廃止してこのカードに誘導（三原の承認による）
 - id: NX-002
   domain: NX
   subdomain: 神経学的診察

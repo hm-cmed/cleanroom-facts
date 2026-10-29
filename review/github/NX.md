@@ -1,6 +1,6 @@
 # NX 神経・運動器の症候・検査・治療（横断） の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-28
+[← 一覧に戻る](README.md)　更新：2026-10-29
 
 全 17 件のうち、監修済み 0 件。
 
@@ -13,8 +13,8 @@
 - 条件：population: 意識障害のある患者／region: 国際
 - 不確実性：1974年の原典の構成に基づく。日本では Japan Coma Scale も併用される（NX-002）。小児用などの派生版は本カードでは扱わない。
 - 出典：Teasdale G, Jennett B. Assessment of coma and impaired consciousness. A practical scale. Lancet. 1974;2(7872):81-84　[DOI 10.1016/S0140-6736(74)91639-0](https://doi.org/10.1016/S0140-6736(74)91639-0)　[PMID 4136544](https://pubmed.ncbi.nlm.nih.gov/4136544/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-03-02 (id: JkxnuPo)；TBL-02-02-021 (id: JlAKpYw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-001&card_id=NX-001&version=e0a4f653be)　（版 `e0a4f653be`）
+- 出題基準：医学各論 Ⅸ-10-A-①（脳挫傷、a）　コアカリ：PS-02-03-02 (id: JkxnuPo)；TBL-02-02-021 (id: JlAKpYw)；PS-02-03-05 (id: JkxnuP0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-001&card_id=NX-001&version=59c054f3e4)　（版 `59c054f3e4`）
 
 ### NX-002　下書き（出典の照合前）
 
@@ -76,7 +76,7 @@
 - 出題基準：－　コアカリ：PS-02-03-02 (id: JkxnuPo)；TBL-02-02-027 (id: JlAKpY8)；TBL-02-02-031 (id: JlAKpZQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-007&card_id=NX-007&version=c3d7c17b63)　（版 `c3d7c17b63`）
 
-**[ここまでの 7 件（NX-001〜NX-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NX-001%E3%80%9CNX-007&cards=NX-001%20e0a4f653be%0ANX-002%20a1f34bf0d0%0ANX-003%20b110e0358f%0ANX-004%2000a63c6c90%0ANX-005%20e21a73a4e4%0ANX-006%2027428a4173%0ANX-007%20c3d7c17b63)**
+**[ここまでの 7 件（NX-001〜NX-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NX-001%E3%80%9CNX-007&cards=NX-001%2059c054f3e4%0ANX-002%20a1f34bf0d0%0ANX-003%20b110e0358f%0ANX-004%2000a63c6c90%0ANX-005%20e21a73a4e4%0ANX-006%2027428a4173%0ANX-007%20c3d7c17b63)**
 
 ---
 

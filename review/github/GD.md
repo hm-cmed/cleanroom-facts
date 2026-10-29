@@ -1,8 +1,8 @@
 # GD 胃・十二指腸 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-28
+[← 一覧に戻る](README.md)　更新：2026-10-29
 
-全 95 件のうち、監修済み 0 件。
+全 94 件のうち、監修済み 0 件。
 
 ## 機能性ディスペプシア
 
@@ -869,19 +869,7 @@
 - 出題基準：医学各論 Ⅵ-1-D-①（食道静脈瘤、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-072&card_id=GD-072&version=ea6755b147)　（版 `ea6755b147`）
 
-### GD-073　出典照合済み・監修待ち
-
-> 日本の肝硬変診療ガイドライン2020では、胃静脈瘤に対してB-RTOが有用とされ、国内研究ではNBCAを用いた内視鏡的硬化療法より再出血の予防に優れていた。
-
-- 条件：region: 日本／guideline: JSGE 肝硬変 GL 2020
-- 鑑別・補足：欧米ではシアノアクリレートやTIPSが中心
-- よくある誤解：胃静脈瘤にもEVLが第一選択
-- 不確実性：肝硬変GL 2025年版の推奨は未確認。ES-066 と対応（両方を残す）
-- 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
-- 出題基準：医学各論 Ⅵ-1-D-①（食道静脈瘤、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-034 (id: JlAKplU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-073&card_id=GD-073&version=2613ed0e8e)　（版 `2613ed0e8e`）
-
-**[ここまでの 2 件（GD-072〜GD-073）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-072%E3%80%9CGD-073&cards=GD-072%20ea6755b147%0AGD-073%202613ed0e8e)**
+**[ここまでの 1 件（GD-072）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-072&cards=GD-072%20ea6755b147)**
 
 ---
 

@@ -1,6 +1,6 @@
 # ES 食道 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-28
+[← 一覧に戻る](README.md)　更新：2026-10-29
 
 全 89 件のうち、監修済み 0 件。
 
@@ -867,10 +867,10 @@
 - よくある誤解：日本ではEISが今も選択肢であり、EVLに一本化されているわけではない
 - 不確実性：2025年版の推奨は未確認
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
-- 出題基準：医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-066&card_id=ES-066&version=5a9bf98e72)　（版 `5a9bf98e72`）
+- 出題基準：医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)；TBL-02-07-034 (id: JlAKplU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-066&card_id=ES-066&version=3f4fcc1ca2)　（版 `3f4fcc1ca2`）
 
-**[ここまでの 10 件（ES-057〜ES-066）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-057%E3%80%9CES-066&cards=ES-057%20a33f5a6767%0AES-058%20c93094ee02%0AES-059%20860bdad822%0AES-060%20e74f30fcb7%0AES-061%207c2c33fe11%0AES-062%20d4112acf97%0AES-063%2071afc8dbaa%0AES-064%2038cd8206c9%0AES-065%20b8f2d963ef%0AES-066%205a9bf98e72)**
+**[ここまでの 10 件（ES-057〜ES-066）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-057%E3%80%9CES-066&cards=ES-057%20a33f5a6767%0AES-058%20c93094ee02%0AES-059%20860bdad822%0AES-060%20e74f30fcb7%0AES-061%207c2c33fe11%0AES-062%20d4112acf97%0AES-063%2071afc8dbaa%0AES-064%2038cd8206c9%0AES-065%20b8f2d963ef%0AES-066%203f4fcc1ca2)**
 
 ---
 

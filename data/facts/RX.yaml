@@ -841,12 +841,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: RI-006
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-29'
+    by: claude-code
+    change: 廃止：RI-006（先に作成）と実質同じ内容のため、番号を RI-006 に移して誘導（分野をまたぐ重複の統合、三原の承認による）
 - id: RX-025
   domain: RX
   subdomain: 呼吸器疾患の統計

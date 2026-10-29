@@ -3813,8 +3813,8 @@
     created: '2026-10-12'
     verifier: null
     verified_at: null
-    status: verified_sources
-    superseded_by: null
+    status: retired
+    superseded_by: ES-066
   history:
   - date: '2026-10-13'
     by: claude-code
@@ -3834,6 +3834,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-29'
+    by: claude-code
+    change: 廃止：ES-066（先に作成）と実質同じ内容のため、番号を ES-066 に移して誘導（分野をまたぐ重複の統合、三原の承認による）
 - id: GD-074
   domain: GD
   subdomain: 胃切除後症候群

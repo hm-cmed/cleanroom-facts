@@ -208,6 +208,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-29'
+    by: claude-code
+    change: 分野をまたぐ重複の統合：RX-024 の出題基準・コアカリの番号をこのカードに足した（医学各論 Ⅳ-1-B-①（市中肺炎、a） → 医学各論 Ⅳ-1-B-①（市中肺炎、a））。RX-024 は廃止してこのカードに誘導（三原の承認による）
 - id: RI-007
   domain: RI
   subdomain: 市中肺炎

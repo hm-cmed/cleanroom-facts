@@ -1,8 +1,8 @@
 # RX 呼吸器の症候・検査・治療（横断） の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-28
+[← 一覧に戻る](README.md)　更新：2026-10-29
 
-全 25 件のうち、監修済み 0 件。
+全 24 件のうち、監修済み 0 件。
 
 ## 主要症候（血痰・喀血）
 
@@ -302,17 +302,6 @@
 
 ## 呼吸器疾患の統計
 
-### RX-024　下書き（出典の照合前）
-
-> 令和6年（2024年）の人口動態統計では、肺炎が死因の第5位（80,176人、人口10万対66.6）、誤嚥性肺炎が第6位（63,667人、52.9）、新型コロナウイルス感染症が第8位（35,865人）だった。
-
-- 条件：region: 日本
-- よくある誤解：肺炎と誤嚥性肺炎は人口動態統計で同じ死因として合算されている
-- 不確実性：表から読み取り。令和7年の確定数は2026年9月30日に公表されたが、死因別の死亡率などの詳細は2026年11月公表予定とされ、今回は令和6年の値を使った
-- 出典：厚生労働省. 令和6年（2024）人口動態統計（確定数）の概況 第8表 性別にみた死因順位（第10位まで）別死亡数・死亡率（人口10万対）・構成割合　[リンク](https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/kakutei24/dl/10_h8.pdf)（区分 GOV_JP）
-- 出題基準：－　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-208 (id: Jlvnlxc)；TBL-01-00-212 (id: Jlvnlx0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-024&card_id=RX-024&version=b6e0f2b8d4)　（版 `b6e0f2b8d4`）
-
 ### RX-025　下書き（出典の照合前）
 
 > 令和6年（2024年）の人口動態統計では、間質性肺疾患が男性の死因の第10位で、死亡数は16,024人（2023年は15,516人）だった。総数と女性の上位10位には入っていない。
@@ -323,7 +312,7 @@
 - 出題基準：－　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-218 (id: JlvnlyY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-025&card_id=RX-025&version=a18d92ad63)　（版 `a18d92ad63`）
 
-**[ここまでの 2 件（RX-024〜RX-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RX-024%E3%80%9CRX-025&cards=RX-024%20b6e0f2b8d4%0ARX-025%20a18d92ad63)**
+**[ここまでの 1 件（RX-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RX-025&cards=RX-025%20a18d92ad63)**
 
 ---
 

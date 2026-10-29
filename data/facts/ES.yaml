@@ -3885,7 +3885,7 @@
       notes: null
   uncertainty: 2025年版の推奨は未確認
   curriculum:
-    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)'
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)；TBL-02-07-034 (id: JlAKplU)'
     kokushi: 医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）
   publication_info:
     created: '2026-10-10'
@@ -3927,6 +3927,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
+  - date: '2026-10-29'
+    by: claude-code
+    change: 分野をまたぐ重複の統合：GD-073 の出題基準・コアカリの番号をこのカードに足した（医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a） → 医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a））。GD-073 は廃止してこのカードに誘導（三原の承認による）
 - id: ES-067
   domain: ES
   subdomain: その他（一次出典未取得：骨子のみ）
