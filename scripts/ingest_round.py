@@ -40,8 +40,10 @@ def parse_src_table(text: str) -> list[dict]:
     rows = []
     header = None
     for line in text.split("\n"):
-        if line.startswith("| SRC |"):
+        if re.match(r"^\|\s*SRC\s*(番号|ID|No\.?)?\s*\|", line):   # 見出しの「SRC番号」なども受け付ける
             header = [c.strip() for c in line.strip("|").split("|")]
+            header[0] = "SRC"
+            header = ["ライセンス表示" if h == "ライセンス" else h for h in header]
             continue
         m = re.match(r"^\|\s*(SRC-\d{3,4})\s*\|", line)
         if header and m:

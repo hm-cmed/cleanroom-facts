@@ -22998,3 +22998,468 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md の出典マスター表から
+- id: SRC-2011
+  legacy_id: null
+  title: Uyeki TM, Hui DS, Zambon M, Wentworth DE, et al. Influenza. Lancet. 2022;400(10353):693-706
+  citation: Uyeki TM, Hui DS, Zambon M, Wentworth DE, et al. Influenza. Lancet. 2022;400(10353):693-706
+  doi: 10.1016/S0140-6736(22)00982-5
+  pmid: '36030813'
+  pmcid: null
+  license_note: CC表示なし（Crossref の license 欄は TDM ライセンスのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2012
+  legacy_id: null
+  title: 'Dobson J, Whitley RJ, Pocock S, Monto AS. Oseltamivir treatment for influenza in adults: a meta-analysis of randomised controlled trials. Lancet. 2015;385(9979):1729-1737'
+  citation: 'Dobson J, Whitley RJ, Pocock S, Monto AS. Oseltamivir treatment for influenza in adults: a meta-analysis of randomised controlled trials. Lancet. 2015;385(9979):1729-1737'
+  doi: 10.1016/S0140-6736(14)62449-1
+  pmid: '25640810'
+  pmcid: null
+  license_note: CC表示なし（Crossref の license 欄は TDM ライセンスのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2013
+  legacy_id: null
+  title: 'Gao Y, Guyatt G, Uyeki TM, Liu M, et al. Antivirals for treatment of severe influenza: a systematic review and network meta-analysis of randomised controlled trials. Lancet. 2024;404(10454):753-763'
+  citation: 'Gao Y, Guyatt G, Uyeki TM, Liu M, et al. Antivirals for treatment of severe influenza: a systematic review and network meta-analysis of randomised controlled trials. Lancet. 2024;404(10454):753-763'
+  doi: 10.1016/S0140-6736(24)01307-2
+  pmid: '39181595'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2014
+  legacy_id: null
+  title: 'Li Y, Wang X, Blau DM, et al. Global, regional, and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in children younger than 5 years in 2019: a systematic analysis. Lancet. 2022;399(10340):2047-2064'
+  citation: 'Li Y, Wang X, Blau DM, et al. Global, regional, and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in children younger than 5 years in 2019: a systematic analysis. Lancet. 2022;399(10340):2047-2064'
+  doi: 10.1016/S0140-6736(22)00478-0
+  pmid: '35598608'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2015
+  legacy_id: null
+  title: 'Simões EAF, Madhi SA, Muller WJ, et al. Efficacy of nirsevimab against respiratory syncytial virus lower respiratory tract infections in preterm and term infants, and pharmacokinetic extrapolation to infants with congenital heart disease and chronic lung disease: a pooled analysis of randomised controlled trials. Lancet Child Adolesc Health. 2023;7(3):180-189'
+  citation: 'Simões EAF, Madhi SA, Muller WJ, et al. Efficacy of nirsevimab against respiratory syncytial virus lower respiratory tract infections in preterm and term infants, and pharmacokinetic extrapolation to infants with congenital heart disease and chronic lung disease: a pooled analysis of randomised controlled trials. Lancet Child Adolesc Health. 2023;7(3):180-189'
+  doi: 10.1016/S2352-4642(22)00321-2
+  pmid: '36634694'
+  pmcid: null
+  license_note: CC表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2016
+  legacy_id: null
+  title: 日本小児科学会. 日本におけるニルセビマブの使用について. 2024年5月22日（学会ウェブページ掲載の PDF）
+  citation: 日本小児科学会. 日本におけるニルセビマブの使用について. 2024年5月22日（学会ウェブページ掲載の PDF）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: CC表示なし（学会資料）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2017
+  legacy_id: null
+  title: Centers for Disease Control and Prevention. Clinical Overview of Mumps. CDC 公式ウェブページ（2025年1月17日版）
+  citation: Centers for Disease Control and Prevention. Clinical Overview of Mumps. CDC 公式ウェブページ（2025年1月17日版）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国政府資料
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2018
+  legacy_id: null
+  title: Moss WJ. Measles. Lancet. 2017;390(10111):2490-2502
+  citation: Moss WJ. Measles. Lancet. 2017;390(10111):2490-2502
+  doi: 10.1016/S0140-6736(17)31463-0
+  pmid: '28673424'
+  pmcid: null
+  license_note: CC表示なし（Crossref の license 欄は TDM ライセンスのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2019
+  legacy_id: null
+  title: 'McLean HQ, Fiebelkorn AP, Temte JL, Wallace GS. Prevention of measles, rubella, congenital rubella syndrome, and mumps, 2013: summary recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Recomm Rep. 2013;62(RR-04):1-34'
+  citation: 'McLean HQ, Fiebelkorn AP, Temte JL, Wallace GS. Prevention of measles, rubella, congenital rubella syndrome, and mumps, 2013: summary recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Recomm Rep. 2013;62(RR-04):1-34'
+  doi: null
+  pmid: '23760231'
+  pmcid: null
+  license_note: 米国政府資料
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2020
+  legacy_id: null
+  title: 国立感染症研究所（国立健康危機管理研究機構）. 麻しんの発生に関するリスクアセスメント（2026年第一版）. 2026
+  citation: 国立感染症研究所（国立健康危機管理研究機構）. 麻しんの発生に関するリスクアセスメント（2026年第一版）. 2026
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 日本の公的資料
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2021
+  legacy_id: null
+  title: Lambert N, Strebel P, Orenstein W, Icenogle J, Poland GA. Rubella. Lancet. 2015;385(9984):2297-2307
+  citation: Lambert N, Strebel P, Orenstein W, Icenogle J, Poland GA. Rubella. Lancet. 2015;385(9984):2297-2307
+  doi: 10.1016/S0140-6736(14)60539-0
+  pmid: '25576992'
+  pmcid: null
+  license_note: CC表示なし（Crossref の license 欄は TDM ライセンスのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2022
+  legacy_id: null
+  title: 国立感染症研究所. 風疹・先天性風疹症候群 2025年2月現在. 病原微生物検出情報（IASR）. 2025;46:73-75
+  citation: 国立感染症研究所. 風疹・先天性風疹症候群 2025年2月現在. 病原微生物検出情報（IASR）. 2025;46:73-75
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 日本の公的資料
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2023
+  legacy_id: null
+  title: Yamanishi K, Okuno T, Shiraki K, Takahashi M, Kondo T, Asano Y, et al. Identification of human herpesvirus-6 as a causal agent for exanthem subitum. Lancet. 1988;1(8594):1065-1067
+  citation: Yamanishi K, Okuno T, Shiraki K, Takahashi M, Kondo T, Asano Y, et al. Identification of human herpesvirus-6 as a causal agent for exanthem subitum. Lancet. 1988;1(8594):1065-1067
+  doi: 10.1016/S0140-6736(88)91893-4
+  pmid: '2896909'
+  pmcid: null
+  license_note: CC表示なし（Crossref は TDM ライセンスのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2024
+  legacy_id: null
+  title: 'Leung AKC, Lam JM, Barankin B, Leong KF, Hon KL. Roseola Infantum: An Updated Review. Curr Pediatr Rev. 2024;20(2):119-128'
+  citation: 'Leung AKC, Lam JM, Barankin B, Leong KF, Hon KL. Roseola Infantum: An Updated Review. Curr Pediatr Rev. 2024;20(2):119-128'
+  doi: 10.2174/1573396319666221118123844
+  pmid: '36411550'
+  pmcid: null
+  license_note: Crossref にライセンス表示なし（要確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2025
+  legacy_id: null
+  title: Zhu P, Ji W, Li D, Li Z, Chen Y, Dai B, et al. Current status of hand-foot-and-mouth disease. J Biomed Sci. 2023;30(1):15
+  citation: Zhu P, Ji W, Li D, Li Z, Chen Y, Dai B, et al. Current status of hand-foot-and-mouth disease. J Biomed Sci. 2023;30(1):15
+  doi: 10.1186/s12929-023-00908-4
+  pmid: '36829162'
+  pmcid: null
+  license_note: CC BY 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2026
+  legacy_id: null
+  title: Sawyer LA, Hershow RC, Pallansch MA, Fishbein DB, Pinsky PF, Broerman SF, et al. An epidemic of acute hemorrhagic conjunctivitis in American Samoa caused by coxsackievirus A24 variant. Am J Epidemiol. 1989;130(6):1187-1198
+  citation: Sawyer LA, Hershow RC, Pallansch MA, Fishbein DB, Pinsky PF, Broerman SF, et al. An epidemic of acute hemorrhagic conjunctivitis in American Samoa caused by coxsackievirus A24 variant. Am J Epidemiol. 1989;130(6):1187-1198
+  doi: 10.1093/oxfordjournals.aje.a115447
+  pmid: '2556026'
+  pmcid: null
+  license_note: CC表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2027
+  legacy_id: null
+  title: Koyama M, Hiroi S, Hirai Y, Kaida A. Prevalence of Human Adenovirus Type 3 Associated with Pharyngoconjunctival Fever in Children in Osaka, Japan during and after the COVID-19 Pandemic. Jpn J Infect Dis. 2024;77(5):292-295
+  citation: Koyama M, Hiroi S, Hirai Y, Kaida A. Prevalence of Human Adenovirus Type 3 Associated with Pharyngoconjunctival Fever in Children in Osaka, Japan during and after the COVID-19 Pandemic. Jpn J Infect Dis. 2024;77(5):292-295
+  doi: 10.7883/yoken.JJID.2024.035
+  pmid: '38825454'
+  pmcid: null
+  license_note: Crossref にライセンス表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2028
+  legacy_id: null
+  title: Jhanji V, Chan TCY, Li EYM, Agarwal K, Vajpayee RB. Adenoviral keratoconjunctivitis. Surv Ophthalmol. 2015;60(5):435-443
+  citation: Jhanji V, Chan TCY, Li EYM, Agarwal K, Vajpayee RB. Adenoviral keratoconjunctivitis. Surv Ophthalmol. 2015;60(5):435-443
+  doi: 10.1016/j.survophthal.2015.04.001
+  pmid: '26077630'
+  pmcid: null
+  license_note: CC表示なし（Crossref は TDM ライセンスのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2029
+  legacy_id: null
+  title: Flynn TG, Olortegui MP, Kosek MN. Viral gastroenteritis. Lancet. 2024;403(10429):862-876
+  citation: Flynn TG, Olortegui MP, Kosek MN. Viral gastroenteritis. Lancet. 2024;403(10429):862-876
+  doi: 10.1016/S0140-6736(23)02037-8
+  pmid: '38340741'
+  pmcid: null
+  license_note: CC表示なし（Crossref は TDM ライセンス等のみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2030
+  legacy_id: null
+  title: Glass RI, Parashar UD, Estes MK. Norovirus gastroenteritis. N Engl J Med. 2009;361(18):1776-1785
+  citation: Glass RI, Parashar UD, Estes MK. Norovirus gastroenteritis. N Engl J Med. 2009;361(18):1776-1785
+  doi: 10.1056/NEJMra0804575
+  pmid: '19864676'
+  pmcid: null
+  license_note: CC表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2031
+  legacy_id: null
+  title: Dunmire SK, Verghese PS, Balfour HH Jr. Primary Epstein-Barr virus infection. J Clin Virol. 2018;102:84-92
+  citation: Dunmire SK, Verghese PS, Balfour HH Jr. Primary Epstein-Barr virus infection. J Clin Virol. 2018;102:84-92
+  doi: 10.1016/j.jcv.2018.03.001
+  pmid: '29525635'
+  pmcid: null
+  license_note: CC表示なし（Crossref は TDM ライセンスのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2032
+  legacy_id: null
+  title: 'Sylvester JE, Buchanan BK, Silva TW. Infectious Mononucleosis: Rapid Evidence Review. Am Fam Physician. 2023;107(1):71-78'
+  citation: 'Sylvester JE, Buchanan BK, Silva TW. Infectious Mononucleosis: Rapid Evidence Review. Am Fam Physician. 2023;107(1):71-78'
+  doi: null
+  pmid: '36689975'
+  pmcid: null
+  license_note: CC表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2033
+  legacy_id: null
+  title: Heegaard ED, Brown KE. Human parvovirus B19. Clin Microbiol Rev. 2002;15(3):485-505
+  citation: Heegaard ED, Brown KE. Human parvovirus B19. Clin Microbiol Rev. 2002;15(3):485-505
+  doi: 10.1128/CMR.15.3.485-505.2002
+  pmid: '12097253'
+  pmcid: null
+  license_note: 'ASM誌（CC表示なし、PMCID: PMC118081）'
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2034
+  legacy_id: null
+  title: 'Enders M, Weidner A, Zoellner I, Searle K, Enders G. Fetal morbidity and mortality after acute human parvovirus B19 infection in pregnancy: prospective evaluation of 1018 cases. Prenat Diagn. 2004;24(7):513-518'
+  citation: 'Enders M, Weidner A, Zoellner I, Searle K, Enders G. Fetal morbidity and mortality after acute human parvovirus B19 infection in pregnancy: prospective evaluation of 1018 cases. Prenat Diagn. 2004;24(7):513-518'
+  doi: 10.1002/pd.940
+  pmid: '15300741'
+  pmcid: null
+  license_note: Wiley誌（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2035
+  legacy_id: null
+  title: 'Ito Y, Morioka I, Takahashi N, et al. Clinical Practice Guidelines for the Management of Congenital Cytomegalovirus Infection in Japan 2023: Executive Summary. Pediatr Infect Dis J. 2024;43(11):e390-e396'
+  citation: 'Ito Y, Morioka I, Takahashi N, et al. Clinical Practice Guidelines for the Management of Congenital Cytomegalovirus Infection in Japan 2023: Executive Summary. Pediatr Infect Dis J. 2024;43(11):e390-e396'
+  doi: 10.1097/INF.0000000000004489
+  pmid: '39079035'
+  pmcid: null
+  license_note: Wolters Kluwer誌（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2036
+  legacy_id: null
+  title: Kimberlin DW, Jester PM, Sánchez PJ, et al. Valganciclovir for symptomatic congenital cytomegalovirus disease. N Engl J Med. 2015;372(10):933-943
+  citation: Kimberlin DW, Jester PM, Sánchez PJ, et al. Valganciclovir for symptomatic congenital cytomegalovirus disease. N Engl J Med. 2015;372(10):933-943
+  doi: 10.1056/NEJMoa1404599
+  pmid: '25738669'
+  pmcid: null
+  license_note: 'NEJM（CC表示なし、PMCID: PMC4401811）'
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2037
+  legacy_id: null
+  title: 'Rawlinson WD, Boppana SB, Fowler KB, et al. Congenital cytomegalovirus infection in pregnancy and the neonate: consensus recommendations for prevention, diagnosis, and therapy. Lancet Infect Dis. 2017;17(6):e177-e188'
+  citation: 'Rawlinson WD, Boppana SB, Fowler KB, et al. Congenital cytomegalovirus infection in pregnancy and the neonate: consensus recommendations for prevention, diagnosis, and therapy. Lancet Infect Dis. 2017;17(6):e177-e188'
+  doi: 10.1016/S1473-3099(17)30143-3
+  pmid: '28291720'
+  pmcid: null
+  license_note: Elsevier誌（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2038
+  legacy_id: null
+  title: Hall AJ, Lopman BA, Payne DC, et al. Norovirus disease in the United States. Emerg Infect Dis. 2013;19(8):1198-1205
+  citation: Hall AJ, Lopman BA, Payne DC, et al. Norovirus disease in the United States. Emerg Infect Dis. 2013;19(8):1198-1205
+  doi: 10.3201/eid1908.130465
+  pmid: '23876403'
+  pmcid: null
+  license_note: 'CC BY（PMCID: PMC3739528）'
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2039
+  legacy_id: null
+  title: Robilotti E, Deresinski S, Pinsky BA. Norovirus. Clin Microbiol Rev. 2015;28(1):134-164
+  citation: Robilotti E, Deresinski S, Pinsky BA. Norovirus. Clin Microbiol Rev. 2015;28(1):134-164
+  doi: 10.1128/CMR.00075-14
+  pmid: '25567225'
+  pmcid: null
+  license_note: 'ASM誌（CC表示なし、PMCID: PMC4284304）'
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2040
+  legacy_id: null
+  title: Ruiz-Palacios GM, Pérez-Schael I, Velázquez FR, et al. Safety and efficacy of an attenuated vaccine against severe rotavirus gastroenteritis. N Engl J Med. 2006;354(1):11-22
+  citation: Ruiz-Palacios GM, Pérez-Schael I, Velázquez FR, et al. Safety and efficacy of an attenuated vaccine against severe rotavirus gastroenteritis. N Engl J Med. 2006;354(1):11-22
+  doi: 10.1056/NEJMoa052434
+  pmid: '16394298'
+  pmcid: null
+  license_note: NEJM（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2041
+  legacy_id: null
+  title: 厚生労働省. ロタウイルスワクチンに関するQ&A. 厚生労働省ウェブサイト
+  citation: 厚生労働省. ロタウイルスワクチンに関するQ&A. 厚生労働省ウェブサイト
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/33_if_a.md の出典マスター表から
