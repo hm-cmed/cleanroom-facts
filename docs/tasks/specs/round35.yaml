@@ -1,4 +1,5 @@
 # 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round33_IF.md
+# 2026-10-29：Ⅻ-2-B-⑬（IN-070〜073 が保持）と Ⅻ-2-B-㉑（IN-080〜084 が保持）は既存カードで受けるため対象から外した
 round: 35
 name: 感染性疾患 第35回（CM・BA）
 id_start:
@@ -75,10 +76,6 @@ targets:
   name: 百日咳
   level: a
   prefix: BA
-- code: Ⅻ-2-B-⑬
-  name: 大腸菌感染症
-  level: a
-  prefix: BA
 - code: Ⅻ-2-B-⑭
   name: クレブシエラ感染症
   level: a
@@ -105,10 +102,6 @@ targets:
   prefix: BA
 - code: Ⅻ-2-B-⑳
   name: ガス壊疽
-  level: a
-  prefix: BA
-- code: Ⅻ-2-B-㉑
-  name: クロストリジウム・ディフィシル腸炎
   level: a
   prefix: BA
 - code: Ⅻ-2-B-㉒

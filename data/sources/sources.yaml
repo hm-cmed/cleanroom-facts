@@ -23463,3 +23463,378 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/33_if_a.md の出典マスター表から
+- id: SRC-2046
+  legacy_id: null
+  title: Looker KJ, Magaret AS, May MT, et al. Global and Regional Estimates of Prevalent and Incident Herpes Simplex Virus Type 1 Infections in 2012. PLoS One. 2015;10(10):e0140765
+  citation: Looker KJ, Magaret AS, May MT, et al. Global and Regional Estimates of Prevalent and Incident Herpes Simplex Virus Type 1 Infections in 2012. PLoS One. 2015;10(10):e0140765
+  doi: 10.1371/journal.pone.0140765
+  pmid: '26510007'
+  pmcid: null
+  license_note: CC0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2047
+  legacy_id: null
+  title: Corey L, Wald A, Patel R, et al. Once-daily valacyclovir to reduce the risk of transmission of genital herpes. N Engl J Med. 2004;350(1):11-20
+  citation: Corey L, Wald A, Patel R, et al. Once-daily valacyclovir to reduce the risk of transmission of genital herpes. N Engl J Med. 2004;350(1):11-20
+  doi: 10.1056/NEJMoa035144
+  pmid: '14702423'
+  pmcid: null
+  license_note: CC表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2048
+  legacy_id: null
+  title: Gershon AA, Breuer J, Cohen JI, et al. Varicella zoster virus infection. Nat Rev Dis Primers. 2015;1:15016
+  citation: Gershon AA, Breuer J, Cohen JI, et al. Varicella zoster virus infection. Nat Rev Dis Primers. 2015;1:15016
+  doi: 10.1038/nrdp.2015.16
+  pmid: '27188665'
+  pmcid: null
+  license_note: CC表示なし（Crossref は TDM ライセンスのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2049
+  legacy_id: null
+  title: 'Kawai K, Gebremeskel BG, Acosta CJ. Systematic review of incidence and complications of herpes zoster: towards a global perspective. BMJ Open. 2014;4(6):e004833'
+  citation: 'Kawai K, Gebremeskel BG, Acosta CJ. Systematic review of incidence and complications of herpes zoster: towards a global perspective. BMJ Open. 2014;4(6):e004833'
+  doi: 10.1136/bmjopen-2014-004833
+  pmid: '24916088'
+  pmcid: null
+  license_note: CC BY-NC（Europe PMC の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2050
+  legacy_id: null
+  title: 厚生労働省. 帯状疱疹ワクチン（予防接種のページ）
+  citation: 厚生労働省. 帯状疱疹ワクチン（予防接種のページ）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ウェブサイト）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2051
+  legacy_id: null
+  title: Schiffman M, Doorbar J, Wentzensen N, et al. Carcinogenic human papillomavirus infection. Nat Rev Dis Primers. 2016;2:16086
+  citation: Schiffman M, Doorbar J, Wentzensen N, et al. Carcinogenic human papillomavirus infection. Nat Rev Dis Primers. 2016;2:16086
+  doi: 10.1038/nrdp.2016.86
+  pmid: '27905473'
+  pmcid: null
+  license_note: CC表示なし（Crossref は TDM ライセンスのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2052
+  legacy_id: null
+  title: 'de Sanjosé S, Quint WG, Alemany L, et al. Human papillomavirus genotype attribution in invasive cervical cancer: a retrospective cross-sectional worldwide study. Lancet Oncol. 2010;11(11):1048-1056'
+  citation: 'de Sanjosé S, Quint WG, Alemany L, et al. Human papillomavirus genotype attribution in invasive cervical cancer: a retrospective cross-sectional worldwide study. Lancet Oncol. 2010;11(11):1048-1056'
+  doi: 10.1016/S1470-2045(10)70230-8
+  pmid: '20952254'
+  pmcid: null
+  license_note: CC表示なし（Crossref は TDM ライセンスのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2056
+  legacy_id: null
+  title: Deeks SG, Overbaugh J, Phillips A, Buchbinder S. HIV infection. Nat Rev Dis Primers. 2015;1:15035
+  citation: Deeks SG, Overbaugh J, Phillips A, Buchbinder S. HIV infection. Nat Rev Dis Primers. 2015;1:15035
+  doi: 10.1038/nrdp.2015.35
+  pmid: '27188527'
+  pmcid: null
+  license_note: CC表示なし（Crossref の license 欄はテキストマイニング用ライセンスのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2057
+  legacy_id: null
+  title: INSIGHT START Study Group. Initiation of Antiretroviral Therapy in Early Asymptomatic HIV Infection. N Engl J Med. 2015;373(9):795-807
+  citation: INSIGHT START Study Group. Initiation of Antiretroviral Therapy in Early Asymptomatic HIV Infection. N Engl J Med. 2015;373(9):795-807
+  doi: 10.1056/NEJMoa1506816
+  pmid: '26192873'
+  pmcid: null
+  license_note: CC表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2058
+  legacy_id: null
+  title: 厚生労働省エイズ動向委員会. 令和6（2024）年エイズ発生動向年報（2025年9月26日報告）. 厚生労働省
+  citation: 厚生労働省エイズ動向委員会. 令和6（2024）年エイズ発生動向年報（2025年9月26日報告）. 厚生労働省
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2059
+  legacy_id: null
+  title: Kuhar DT, Henderson DK, Struble KA, et al. Updated US Public Health Service guidelines for the management of occupational exposures to human immunodeficiency virus and recommendations for postexposure prophylaxis. Infect Control Hosp Epidemiol. 2013;34(9):875-892
+  citation: Kuhar DT, Henderson DK, Struble KA, et al. Updated US Public Health Service guidelines for the management of occupational exposures to human immunodeficiency virus and recommendations for postexposure prophylaxis. Infect Control Hosp Epidemiol. 2013;34(9):875-892
+  doi: 10.1086/672271
+  pmid: '23917901'
+  pmcid: null
+  license_note: CC表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2060
+  legacy_id: null
+  title: 'Schillie S, Vellozzi C, Reingold A, et al. Prevention of Hepatitis B Virus Infection in the United States: Recommendations of the Advisory Committee on Immunization Practices. MMWR Recomm Rep. 2018;67(1):1-31'
+  citation: 'Schillie S, Vellozzi C, Reingold A, et al. Prevention of Hepatitis B Virus Infection in the United States: Recommendations of the Advisory Committee on Immunization Practices. MMWR Recomm Rep. 2018;67(1):1-31'
+  doi: 10.15585/mmwr.rr6701a1
+  pmid: '29939980'
+  pmcid: null
+  license_note: 米国政府資料
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2061
+  legacy_id: null
+  title: 厚生労働省. B型肝炎ワクチン（予防接種情報ページ）；国立健康危機管理研究機構. B型肝炎ワクチンの定期接種について
+  citation: 厚生労働省. B型肝炎ワクチン（予防接種情報ページ）；国立健康危機管理研究機構. B型肝炎ワクチンの定期接種について
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2062
+  legacy_id: null
+  title: Gessain A, Cassar O. Epidemiological Aspects and World Distribution of HTLV-1 Infection. Front Microbiol. 2012;3:388
+  citation: Gessain A, Cassar O. Epidemiological Aspects and World Distribution of HTLV-1 Infection. Front Microbiol. 2012;3:388
+  doi: 10.3389/fmicb.2012.00388
+  pmid: '23162541'
+  pmcid: null
+  license_note: CC BY（Europe PMC の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2063
+  legacy_id: null
+  title: 厚生労働省「HTLV-1総合対策」関係資料；HTLV-1母子感染予防対策マニュアル（第2版、こども家庭庁）
+  citation: 厚生労働省「HTLV-1総合対策」関係資料；HTLV-1母子感染予防対策マニュアル（第2版、こども家庭庁）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2066
+  legacy_id: null
+  title: Hu B, Guo H, Zhou P, Shi ZL. Characteristics of SARS-CoV-2 and COVID-19. Nat Rev Microbiol. 2021;19(3):141-154
+  citation: Hu B, Guo H, Zhou P, Shi ZL. Characteristics of SARS-CoV-2 and COVID-19. Nat Rev Microbiol. 2021;19(3):141-154
+  doi: 10.1038/s41579-020-00459-7
+  pmid: '33024307'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2067
+  legacy_id: null
+  title: Polack FP, Thomas SJ, Kitchin N, et al. Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine. N Engl J Med. 2020;383(27):2603-2615
+  citation: Polack FP, Thomas SJ, Kitchin N, et al. Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine. N Engl J Med. 2020;383(27):2603-2615
+  doi: 10.1056/NEJMoa2034577
+  pmid: '33301246'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2068
+  legacy_id: null
+  title: RECOVERY Collaborative Group. Dexamethasone in Hospitalized Patients with Covid-19. N Engl J Med. 2021;384(8):693-704
+  citation: RECOVERY Collaborative Group. Dexamethasone in Hospitalized Patients with Covid-19. N Engl J Med. 2021;384(8):693-704
+  doi: 10.1056/NEJMoa2021436
+  pmid: '32678530'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2069
+  legacy_id: null
+  title: Bhatt S, Gething PW, Brady OJ, et al. The global distribution and burden of dengue. Nature. 2013;496(7446):504-507
+  citation: Bhatt S, Gething PW, Brady OJ, et al. The global distribution and burden of dengue. Nature. 2013;496(7446):504-507
+  doi: 10.1038/nature12060
+  pmid: '23563266'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2070
+  legacy_id: null
+  title: Kutsuna S, Kato Y, Moi ML, et al. Autochthonous dengue fever, Tokyo, Japan, 2014. Emerg Infect Dis. 2015;21(3):517-520
+  citation: Kutsuna S, Kato Y, Moi ML, et al. Autochthonous dengue fever, Tokyo, Japan, 2014. Emerg Infect Dis. 2015;21(3):517-520
+  doi: 10.3201/eid2103.141662
+  pmid: '25695200'
+  pmcid: null
+  license_note: CC BY（Europe PMC の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2071
+  legacy_id: null
+  title: van der Wouden JC, van der Sande R, Kruithof EJ, Sollie A, van Suijlekom-Smit LW, Koning S. Interventions for cutaneous molluscum contagiosum. Cochrane Database Syst Rev. 2017;(5):CD004767
+  citation: van der Wouden JC, van der Sande R, Kruithof EJ, Sollie A, van Suijlekom-Smit LW, Koning S. Interventions for cutaneous molluscum contagiosum. Cochrane Database Syst Rev. 2017;(5):CD004767
+  doi: 10.1002/14651858.CD004767.pub4
+  pmid: '28513067'
+  pmcid: null
+  license_note: CC 表示なし（Europe PMC で OA でないことを確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2072
+  legacy_id: null
+  title: 厚生労働省. ポリオ（急性灰白髄炎）に関するQ&A. 厚生労働省ウェブサイト
+  citation: 厚生労働省. ポリオ（急性灰白髄炎）に関するQ&A. 厚生労働省ウェブサイト
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約の対象
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2073
+  legacy_id: null
+  title: Musso D, Gubler DJ. Zika Virus. Clin Microbiol Rev. 2016;29(3):487-524
+  citation: Musso D, Gubler DJ. Zika Virus. Clin Microbiol Rev. 2016;29(3):487-524
+  doi: 10.1128/CMR.00072-15
+  pmid: '27029595'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2074
+  legacy_id: null
+  title: Mulangu S, Dodd LE, Davey RT Jr, et al. A Randomized, Controlled Trial of Ebola Virus Disease Therapeutics. N Engl J Med. 2019;381(24):2293-2303
+  citation: Mulangu S, Dodd LE, Davey RT Jr, et al. A Randomized, Controlled Trial of Ebola Virus Disease Therapeutics. N Engl J Med. 2019;381(24):2293-2303
+  doi: 10.1056/NEJMoa1910993
+  pmid: '31774950'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
+- id: SRC-2075
+  legacy_id: null
+  title: 厚生労働省. 日本脳炎ワクチン. 厚生労働省ウェブサイト（予防接種ページ）
+  citation: 厚生労働省. 日本脳炎ワクチン. 厚生労働省ウェブサイト（予防接種ページ）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約の対象
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/34_if_b.md の出典マスター表から
