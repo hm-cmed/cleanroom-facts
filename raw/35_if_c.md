@@ -1,0 +1,1651 @@
+# 第35回 成果物（医学各論 Ⅻ 感染症・CM クラミジア/マイコプラズマ/リケッチア＋BA 細菌感染症）
+
+- 対象33項目（レベル a 21項目を含む）をすべてカバーし、レベル a の項目にはいずれも1件以上のカードを付けた。カードの ID に欠番はない（CM-001〜006、BA-001〜045、計51件）。
+- Ⅻ-2-B-㉑ クロストリジウム・ディフィシル腸炎は、既存の IN-080〜084 で充足しているため作っていない（2026-10-29 の決定どおり、受け入れ検査の対象外）。
+- Ⅻ-2-B-⑬ 大腸菌感染症は任意の不足分として3件（BA-020〜022）を作った。腸管出血性大腸菌は既存の IN-070〜073 の範囲とし、薬剤耐性・下痢原性大腸菌の分類・腸管外病原性大腸菌の側面に限っている。
+- 新規出典は SRC-2081〜2128 の48件で、既存の SRC-1439（連鎖球菌）・SRC-703（梅毒）・SRC-1180（ガス壊疽）を再利用した。割り当ての残り SRC-2129〜2145 は未使用（第36回は SRC-2146 から）。
+- 境界（依頼文 §1-1）：髄膜炎の臨床像（NI の範囲）、肺炎球菌ワクチンの制度（RI-027〜029 の範囲）、連鎖球菌の続発症（VD・GN の範囲）、トラコーマの眼所見（EY-012 の範囲）、ガス壊疽の軟部各論（SD-033・034 の範囲）、リステリアの周産期管理（Ⅰ の範囲）は作っていない。
+
+## 1. 出典ホワイトリスト（この回の出典）
+
+| SRC | 出典 | DOI | PMID | ライセンス表示 | source_class | 確認経路 |
+|---|---|---|---|---|---|---|
+| SRC-703 | Workowski KA, Bachmann LH, Chan PA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recommendations and Reports. 2021;70(4):1-187（既存・再利用） | 10.15585/mmwr.rr7004a1 | 34292926 | 米国政府資料（GOV_US） | GOV_US | 出典マスターの登録を確認し、CDC 公式ガイドラインページで梅毒の章の内容を確認 |
+| SRC-1180 | Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):147-159（既存・再利用） | 10.1093/cid/ciu296 | 24947530 | © The Author 2014, Oxford University Press（CC表示なし） | UNKNOWN | 出典マスターの登録を確認（第24回の取り込み由来。登録上の source_class は UNKNOWN） |
+| SRC-1439 | Shulman ST, Bisno AL, Clegg HW, et al. Clinical practice guideline for the diagnosis and management of group A streptococcal pharyngitis: 2012 update by the Infectious Diseases Society of America. Clin Infect Dis. 2012;55(10):e86-e102. | 10.1093/cid/cis629 | 22965026 | CCライセンス表示なし（学会ガイドライン） | RESTRICTED | 出典マスターの登録値（既存カードで使用済み） |
+| SRC-2081 | Burillo A, Bouza E. Chlamydophila pneumoniae. Infect Dis Clin North Am. 2010;24(1):61-71. | 10.1016/j.idc.2009.10.002 | 20171546 | CC表示なし（Elsevier 誌） | RESTRICTED | PubMed API で書誌・抄録を確認 |
+| SRC-2082 | Morozumi M, Tajima T, Sakuma M, et al. Sequence Type Changes Associated with Decreasing Macrolide-Resistant Mycoplasma pneumoniae, Japan. Emerg Infect Dis. 2020;26(9):2210-2213. | 10.3201/eid2609.191575 | 32818419 | CC BY | OPEN | PubMed API＋PMC 全文を確認 |
+| SRC-2083 | Hogerwerf L, de Gier B, Baan B, van der Hoek W. Chlamydia psittaci (psittacosis) as a cause of community-acquired pneumonia: a systematic review and meta-analysis. Epidemiol Infect. 2017;145(15):3096-3105. | 10.1017/S0950268817002060 | 28946931 | CC表示なし | RESTRICTED | PubMed API で書誌・抄録を確認 |
+| SRC-2084 | Solomon AW, Burton MJ, Gower EW, et al. Trachoma. Nat Rev Dis Primers. 2022;8(1):32. | 10.1038/s41572-022-00359-5 | 35618795 | CC表示なし | RESTRICTED | PubMed API で書誌・抄録を確認 |
+| SRC-2085 | Xu G, Walker DH, Jupiter D, Melby PC, Arcari CM. A review of the global epidemiology of scrub typhus. PLoS Negl Trop Dis. 2017;11(11):e0006062. | 10.1371/journal.pntd.0006062 | 29099844 | CC BY 4.0 | OPEN | PubMed API＋Crossref で確認 |
+| SRC-2086 | Eldin C, Mélenotte C, Mediannikov O, et al. From Q Fever to Coxiella burnetii Infection: a Paradigm Change. Clin Microbiol Rev. 2017;30(1):115-190. | 10.1128/CMR.00045-16 | 27856520 | CC表示なし | RESTRICTED | PubMed API で書誌・抄録を確認 |
+| SRC-2087 | Walker MJ, Barnett TC, McArthur JD, et al. Disease manifestations and pathogenic mechanisms of Group A Streptococcus. Clin Microbiol Rev. 2014;27(2):264-301. | 10.1128/CMR.00101-13 | 24696436 | CC表示なし | RESTRICTED | PubMed API で書誌・抄録を確認 |
+| SRC-2088 | 国立健康危機管理研究機構（JIHS）. IASR Vol.46（2025）特集 劇症型溶血性レンサ球菌感染症 2015年〜2025年6月. | なし | なし | 政府機関の公開情報 | GOV_JP | Web 検索で特集本文を確認 |
+| SRC-2089 | Arias CA, Murray BE. The rise of the Enterococcus: beyond vancomycin resistance. Nat Rev Microbiol. 2012. | 10.1038/nrmicro2761 | 22421879 | CC表示なし | RESTRICTED | PubMed API で書誌・抄録を確認 |
+| SRC-2090 | Tokano M, Tarumoto N, Sakai J, et al. Vancomycin-resistant Enterococcus faecium in Japan, 2007-2015: a molecular epidemiology analysis focused on examining strain characteristics over time. Microbiol Spectr. 2024;12(1):e0244423. | 10.1128/spectrum.02444-23 | 38100166 | CC BY 4.0 | OPEN | PubMed API＋PMC 全文を確認 |
+| SRC-2091 | Wahl B, O'Brien KL, Greenbaum A, et al. Burden of Streptococcus pneumoniae and Haemophilus influenzae type b disease in children in the era of conjugate vaccines: global, regional, and national estimates for 2000-15. Lancet Glob Health. 2018. | 10.1016/S2214-109X(18)30247-X | 29903376 | CC BY 4.0 | OPEN | PubMed API で抄録＋Crossref を確認 |
+| SRC-2092 | Fukusumi M, Chang B, Tanabe Y, et al. Invasive pneumococcal disease among adults in Japan, April 2013 to March 2015: disease characteristics and serotype distribution. BMC Infect Dis. 2017. | 10.1186/s12879-016-2113-y | 28049447 | CC BY | OPEN | PubMed API で書誌・抄録を確認 |
+| SRC-2093 | Tong SYC, Davis JS, Eichenberger E, Holland TL, Fowler VG Jr. Staphylococcus aureus infections: epidemiology, pathophysiology, clinical manifestations, and management. Clin Microbiol Rev. 2015. | 10.1128/CMR.00134-14 | 26016486 | CC表示なし | RESTRICTED | PubMed API で書誌・抄録を確認 |
+| SRC-2094 | 厚生労働省院内感染対策サーベイランス事業（JANIS）. 公開情報 2023年 年報（検査部門、全集計対象医療機関）. | なし | なし | 政府機関の公開情報 | GOV_JP | JANIS 年報。数値は厚生労働省の AMR 資料が同年報から引用した値で確認 |
+| SRC-2095 | Becker K, Heilmann C, Peters G. Coagulase-negative staphylococci. Clin Microbiol Rev. 2014. | 10.1128/CMR.00109-13 | 25278577 | CC表示なし | RESTRICTED | PubMed API で書誌・抄録を確認 |
+| SRC-2096 | Pardo de Santayana C, Tin Tin Htar M, Findlow J, Balmer P. Epidemiology of invasive meningococcal disease worldwide from 2010-2019: a literature review. Epidemiol Infect. 2023;151:e57 | 10.1017/S0950268823000328 | 37052295 | CC BY 4.0（Crossref license フィールド、VoR） | OPEN | PubMed API で書誌と抄録を確認。ライセンスは Crossref で確認 |
+| SRC-2097 | 国立健康危機管理研究機構. IASR Vol.47（2026年9月号）特集「侵襲性髄膜炎菌感染症 2013年4月～2026年4月」；感染症情報提供サイト「侵襲性髄膜炎菌感染症」 | なし | なし | 政府機関の公開ページ | GOV_JP | ページを直接開いて本文（届出数・曝露後予防・ワクチンの国内状況）を確認 |
+| SRC-2098 | de Noordhout CM, Devleesschauwer B, Angulo FJ, Verbeke G, Haagsma J, Kirk M, Havelaar A, Speybroeck N. The global burden of listeriosis: a systematic review and meta-analysis. Lancet Infect Dis. 2014;14(11):1073-1082 | 10.1016/S1473-3099(14)70870-9 | 25241232 | CC 表示なし（Crossref は TDM ライセンスのみ。© WHO / Elsevier） | RESTRICTED | PubMed API で書誌と抄録（数値を含む）を確認 |
+| SRC-2099 | 国立健康危機管理研究機構（JIHS）感染症情報提供サイト「リステリア症」；厚生労働省「リステリアによる食中毒」 | なし | なし | 政府機関の公開ページ | GOV_JP | JIHS ページを直接開いて確認。厚生労働省ページは検索結果で本文を確認 |
+| SRC-2100 | Murphy TF, Parameswaran GI. Moraxella catarrhalis, a human respiratory tract pathogen. Clin Infect Dis. 2009;49(1):124-131 | 10.1086/599375 | 19480579 | CC 表示なし（Crossref にライセンスフィールドなし） | RESTRICTED | PubMed API で書誌と抄録を確認 |
+| SRC-2101 | Ao TT, Feasey NA, Gordon MA, Keddy KH, Angulo FJ, Crump JA. Global burden of invasive nontyphoidal Salmonella disease, 2010. Emerg Infect Dis. 2015;21(6):941-949 | 10.3201/eid2106.140999 | 25860298 | CDC（Emerging Infectious Diseases は CDC の機関誌） | GOV_US | PubMed API で書誌と抄録（数値を含む）を確認 |
+| SRC-2102 | GBD 2017 Typhoid and Paratyphoid Collaborators. The global burden of typhoid and paratyphoid fevers: a systematic analysis for the Global Burden of Disease Study 2017. Lancet Infect Dis. 2019;19(4):369-381 | 10.1016/S1473-3099(18)30685-6 | 30792131 | CC BY 4.0（Crossref の VoR ライセンス） | OPEN | PubMed API で書誌と抄録（数値を含む）を確認 |
+| SRC-2103 | Kilgore PE, Salim AM, Zervos MJ, Schmitt HJ. Pertussis: Microbiology, Disease, Treatment, and Prevention. Clin Microbiol Rev. 2016;29(3):449-486 | 10.1128/CMR.00083-15 | 27029594 | ASM の非商用 TDM ライセンスのみ | RESTRICTED | PubMed API で書誌と抄録を確認 |
+| SRC-2104 | 国立健康危機管理研究機構（JIHS）. IDWR 2025年第22号＜注目すべき感染症＞百日咳；「感染症発生動向調査により届出された百日咳の概要，2018～2025年」 | なし | なし | 政府機関の公開ページ | GOV_JP | 検索結果で本文（届出数・年齢構成・家庭内感染）を確認 |
+| SRC-2105 | Poirel L, Madec JY, Lupo A, Schink AK, Kieffer N, Nordmann P, Schwarz S. Antimicrobial Resistance in Escherichia coli. Microbiol Spectr. 2018;6(4) | 10.1128/microbiolspec.ARBA-0026-2017 | 30003866 | ASM の非商用 TDM ライセンスのみ | RESTRICTED | PubMed API で書誌と抄録を確認 |
+| SRC-2106 | Nataro JP, Kaper JB. Diarrheagenic Escherichia coli. Clin Microbiol Rev. 1998;11(1):142-201 | 10.1128/CMR.11.1.142 | 9457432 | ASM の非商用 TDM ライセンスのみ | RESTRICTED | PubMed API で書誌と抄録を確認 |
+| SRC-2107 | Nicolas-Chanoine MH, Bertrand X, Madec JY. Escherichia coli ST131, an intriguing clonal group. Clin Microbiol Rev. 2014;27(3):543-574 | 10.1128/CMR.00125-13 | 24982321 | ASM の非商用 TDM ライセンスのみ | RESTRICTED | PubMed API で書誌と抄録を確認 |
+| SRC-2108 | Navon-Venezia S, Kondratyeva K, Carattoli A. Klebsiella pneumoniae: a major worldwide source and shuttle for antibiotic resistance. FEMS Microbiol Rev. 2017;41(3):252-275 | 10.1093/femsre/fux013 | 28521338 | CC 表示なし（© FEMS 2017） | RESTRICTED | PubMed API で書誌と抄録を確認 |
+| SRC-2109 | Cristina ML, Sartini M, Spagnolo AM. Serratia marcescens Infections in Neonatal Intensive Care Units (NICUs). Int J Environ Res Public Health. 2019;16(4):610 | 10.3390/ijerph16040610 | 30791509 | CC BY 4.0（Crossref license フィールド、VoR） | OPEN | PubMed API で書誌と抄録を確認 |
+| SRC-2110 | Letchumanan V, Chan KG, Lee LH. Vibrio parahaemolyticus: a review on the pathogenesis, prevalence, and advance molecular identification techniques. Front Microbiol. 2014;5:705 | 10.3389/fmicb.2014.00705 | 25566219 | CC BY（論文ページ末尾のライセンス表示を確認） | OPEN | PubMed API で書誌と抄録を確認し、論文ページで本文とライセンスを確認 |
+| SRC-2111 | 国立健康危機管理研究機構（JIHS）感染症情報提供サイト「腸炎ビブリオ感染症」 | なし | なし | 政府機関の公開ページ | GOV_JP | ページを直接開いて本文（食中毒の推移・潜伏期間・予防）を確認 |
+| SRC-2112 | Phin N, Parry-Ford F, Harrison T, et al. Epidemiology and clinical management of Legionnaires' disease. Lancet Infect Dis. 2014;14(10):1011-1021 | 10.1016/S1473-3099(14)70713-3 | 24970283 | CC表示なし | RESTRICTED | Europe PMC で書誌・抄録を確認 |
+| SRC-2113 | 病原微生物検出情報（IASR）45(7), 2024. 特集「レジオネラ症 2013〜2023年」. 国立健康危機管理研究機構 | なし | なし | 政府標準利用規約 | GOV_JP | JIHS サイトの本文を確認 |
+| SRC-2114 | Moradali MF, Ghods S, Rehm BHA. Pseudomonas aeruginosa Lifestyle: A Paradigm for Adaptation, Survival, and Persistence. Front Cell Infect Microbiol. 2017;7:39 | 10.3389/fcimb.2017.00039 | 28261568 | CC BY | OPEN | Europe PMC で書誌・抄録・ライセンスを確認 |
+| SRC-2115 | Lee CR, Lee JH, Park M, et al. Biology of Acinetobacter baumannii: Pathogenesis, Antibiotic Resistance Mechanisms, and Prospective Treatment Options. Front Cell Infect Microbiol. 2017;7:55 | 10.3389/fcimb.2017.00055 | 28348979 | CC BY | OPEN | Europe PMC で書誌・抄録・ライセンスを確認 |
+| SRC-2116 | Wexler HM. Bacteroides: the good, the bad, and the nitty-gritty. Clin Microbiol Rev. 2007;20(4):593-621 | 10.1128/CMR.00008-07 | 17934076 | CC表示なし | RESTRICTED | Europe PMC で書誌・抄録を確認 |
+| SRC-2117 | 国立健康危機管理研究機構. 梅毒のサーベイランス情報（感染症発生動向調査に基づく梅毒の動向）；病原微生物検出情報（IASR）44(12), 2024 特集「梅毒 2023年現在」 | なし | なし | 政府標準利用規約 | GOV_JP | JIHS サイトの本文を確認 |
+| SRC-2118 | Brown NE, Blain AE, Burzlaff K, et al. Racial Disparities in Invasive Haemophilus influenzae Disease—United States, 2008-2017. Clin Infect Dis. 2021;73(9):1617-1624 | 10.1093/cid/ciab449 | 33993217 | CC表示なし | RESTRICTED | PubMed で書誌・抄録を確認（米国の Active Bacterial Core surveillance の報告） |
+| SRC-2119 | 厚生労働省. Hib感染症（疾患ページ）；病原微生物検出情報（IASR）34(7), 2013 特集「侵襲性インフルエンザ菌感染症」 | なし | なし | 政府標準利用規約 | GOV_JP | 厚生労働省ページと JIHS の本文を確認 |
+| SRC-2120 | Khalil IA, Troeger C, Blacker BF, et al. Morbidity and mortality due to shigella and enterotoxigenic Escherichia coli diarrhoea: the Global Burden of Disease Study 1990-2016. Lancet Infect Dis. 2018;18(11):1229-1240 | 10.1016/S1473-3099(18)30475-4 | 30266330 | CC BY | OPEN | Europe PMC・PubMed で書誌・抄録・ライセンスを確認 |
+| SRC-2121 | Ali M, Nelson AR, Lopez AL, Sack DA. Updated global burden of cholera in endemic countries. PLoS Negl Trop Dis. 2015;9(6):e0003832 | 10.1371/journal.pntd.0003832 | 26043000 | CC BY | OPEN | Europe PMC・PubMed で書誌・抄録・ライセンスを確認 |
+| SRC-2122 | Sudarshan R, Sayo AR, Renner DR, et al. Tetanus: recognition and management. Lancet Infect Dis. 2025;25(11):e645-e657 | 10.1016/S1473-3099(25)00292-0 | 40543524 | CC BY | OPEN | Europe PMC で書誌・抄録・ライセンスを確認 |
+| SRC-2123 | 国立健康危機管理研究機構. 破傷風（詳細版） | なし | なし | 政府標準利用規約 | GOV_JP | JIHS サイトの本文を確認 |
+| SRC-2124 | Rao AK, Sobel J, Chatham-Stephens K, Luquez C. Clinical Guidelines for Diagnosis and Treatment of Botulism, 2021. MMWR Recomm Rep. 2021;70(2):1-30 | 10.15585/mmwr.rr7002a1 | 33956777 | 米国政府資料（CDC） | GOV_US | Europe PMC・PubMed で書誌・抄録を確認 |
+| SRC-2125 | 国立健康危機管理研究機構. ボツリヌス症（詳細版） | なし | なし | 政府標準利用規約 | GOV_JP | JIHS サイトの本文を確認 |
+| SRC-2126 | Valour F, Sénéchal A, Dupieux C, et al. Actinomycosis: etiology, clinical features, diagnosis, treatment, and management. Infect Drug Resist. 2014;7:183-197 | 10.2147/IDR.S39601 | 25045274 | CC BY-NC | RESTRICTED | Europe PMC で書誌・抄録・ライセンスを確認 |
+| SRC-2127 | Wilson JW. Nocardiosis: updates and clinical overview. Mayo Clin Proc. 2012;87(4):403-407 | 10.1016/j.mayocp.2011.11.016 | 22469352 | CC表示なし | RESTRICTED | Europe PMC で書誌・抄録を確認 |
+| SRC-2128 | Truelove SA, Keegan LT, Moss WJ, et al. Clinical and Epidemiological Aspects of Diphtheria: A Systematic Review and Pooled Analysis. Clin Infect Dis. 2020;71(1):89-97 | 10.1093/cid/ciz808 | 31425581 | CC表示なし | RESTRICTED | Europe PMC で書誌・抄録を確認 |
+
+## 2. 事実カード（YAML）
+
+```yaml
+- id: CM-001
+  domain: CM
+  subdomain: クラミジア肺炎
+  assertion:
+    plain_statement_ja: Chlamydophila pneumoniae は市中肺炎の約10%、気管支炎の約5%の原因と推定される病原体で、感染者の大多数は無症状か軽症である。潜伏期は約21日と長く、咳や倦怠感が抗菌薬治療後も数週間から数か月続くことがある。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2081
+    source: Burillo A, Bouza E. Chlamydophila pneumoniae. Infect Dis Clin North Am. 2010;24(1):61-71.
+    doi: 10.1016/j.idc.2009.10.002
+    pmid: '20171546'
+    pmcid: null
+    url: https://doi.org/10.1016/j.idc.2009.10.002
+    source_license: CC表示なし（Elsevier 誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 肺炎の診療そのものは呼吸器分野の範囲であり、本カードは病原体・疫学の側面に絞った。割合はいずれも推定値である。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-A-①（クラミジア肺炎、a）
+    core_curriculum: 'PS-01-03-06 (id: JkxnuLQ)；PS-03-03-01 (id: JkxnuUg)；TBL-01-00-592 (id: JlvnmXc)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: CM-002
+  domain: CM
+  subdomain: マイコプラズマ肺炎
+  assertion:
+    plain_statement_ja: 日本では、肺炎マイコプラズマ（Mycoplasma pneumoniae）のマクロライド耐性株の割合は2002–2005年の6.9%から2010–2013年には86.2%まで上昇したが、その後は減少し、2018–2019年には11.3%となった。耐性は主に23S rRNAのA2063G変異による。
+    condition:
+      region: 日本
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2082
+    source: Morozumi M, Tajima T, Sakuma M, et al. Sequence Type Changes Associated with Decreasing Macrolide-Resistant Mycoplasma pneumoniae, Japan. Emerg Infect Dis. 2020;26(9):2210-2213.
+    doi: 10.3201/eid2609.191575
+    pmid: '32818419'
+    pmcid: PMC7454074
+    url: https://doi.org/10.3201/eid2609.191575
+    source_license: CC BY
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 期間別の耐性率は、出典の全文の表に示された感受性株の割合から換算した値であり、表から読み取った値である。トスフロキサシンは、マクロライドで反応しないマクロライド耐性例の小児に対して国内で承認された経緯が出典本文に記載されている。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-A-③（マイコプラズマ肺炎、a）
+    core_curriculum: 'PS-01-03-06 (id: JkxnuLQ)；PS-03-03-04 (id: JkxnuUs)；TBL-01-00-592 (id: JlvnmXc)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: CM-003
+  domain: CM
+  subdomain: オウム病
+  assertion:
+    plain_statement_ja: オウム病の原因菌 Chlamydia psittaci が市中肺炎に占める割合は、各100例以上の57研究を集めたメタ解析で1.03%（95%信頼区間0.79–1.30）であり、研究間の範囲は0〜6.7%だった。
+    condition:
+      region: 国際
+      対象: 市中肺炎患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2083
+    source: 'Hogerwerf L, de Gier B, Baan B, van der Hoek W. Chlamydia psittaci (psittacosis) as a cause of community-acquired pneumonia: a systematic review and meta-analysis. Epidemiol Infect. 2017;145(15):3096-3105.'
+    doi: 10.1017/S0950268817002060
+    pmid: '28946931'
+    pmcid: PMC9148753
+    url: https://doi.org/10.1017/S0950268817002060
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 鳥類との接触歴や診断の詳細は本カードでは扱わず、市中肺炎における病原体としての位置づけに絞った。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-A-④（オウム病、b）
+    core_curriculum: 'PS-01-03-06 (id: JkxnuLQ)；PS-01-03-16 (id: JkxnuL8)；TBL-01-00-592 (id: JlvnmXc)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: CM-004
+  domain: CM
+  subdomain: クラミジア結膜炎
+  assertion:
+    plain_statement_ja: トラコーマは Chlamydia trachomatis の結膜感染株による疾患で、感染性の失明原因の第1位である。反復する感染の蓄積が病態の基盤で、生涯で少なくとも150回の感染エピソードが睫毛内反の発症に必要とされ、2021年6月時点で世界で180万人がトラコーマにより失明していた。
+    condition:
+      region: 国際
+      対象: 流行地域の住民
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2084
+    source: Solomon AW, Burton MJ, Gower EW, et al. Trachoma. Nat Rev Dis Primers. 2022;8(1):32.
+    doi: 10.1038/s41572-022-00359-5
+    pmid: '35618795'
+    pmcid: null
+    url: https://doi.org/10.1038/s41572-022-00359-5
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 眼所見そのものは眼科分野の既存カードの範囲とし、本カードは病原体・反復感染と世界の疫学に絞った。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-A-⑤（クラミジア結膜炎<トラコーマ>、b）
+    core_curriculum: 'PS-01-03-06 (id: JkxnuLQ)；PS-01-03-02 (id: JkxnuLA)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: CM-005
+  domain: CM
+  subdomain: ツツガ虫病
+  assertion:
+    plain_statement_ja: ツツガ虫病はアジア太平洋地域の公衆衛生上の問題であり、世界で10億人が感染リスクにさらされ、毎年100万人が発症するとされる。適切な治療がなければ致死率は最大で70%に達する。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2085
+    source: Xu G, Walker DH, Jupiter D, Melby PC, Arcari CM. A review of the global epidemiology of scrub typhus. PLoS Negl Trop Dis. 2017;11(11):e0006062.
+    doi: 10.1371/journal.pntd.0006062
+    pmid: '29099844'
+    pmcid: PMC5687757
+    url: https://doi.org/10.1371/journal.pntd.0006062
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 日本の届出状況は本カードでは扱わず、世界の疫学に絞った。発症数とリスク人口はいずれも推計値である。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-A-⑥（ツツガ虫病、b）
+    core_curriculum: 'PS-01-03-06 (id: JkxnuLQ)；PS-01-03-17 (id: JkxnuMA)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: CM-006
+  domain: CM
+  subdomain: Q熱
+  assertion:
+    plain_statement_ja: Q熱は1937年にオーストラリアで初めて記載された人獣共通感染症で、原因菌 Coxiella burnetii は世界各地に分布する。近年の知見では「急性Q熱／慢性Q熱」という二分法は見直され、持続感染には必ず感染巣が存在するとされる。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2086
+    source: 'Eldin C, Mélenotte C, Mediannikov O, et al. From Q Fever to Coxiella burnetii Infection: a Paradigm Change. Clin Microbiol Rev. 2017;30(1):115-190.'
+    doi: 10.1128/CMR.00045-16
+    pmid: '27856520'
+    pmcid: PMC5217791
+    url: https://doi.org/10.1128/CMR.00045-16
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 日本では4類感染症（全数把握）だが、日本の届出数の一次資料は確認できなかったため、届出数については主張に入れていない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-A-⑦（Q熱、c）
+    core_curriculum: 'PS-01-03-16 (id: JkxnuL8)；PS-03-03-01 (id: JkxnuUg)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-001
+  domain: BA
+  subdomain: 連鎖球菌感染症
+  assertion:
+    plain_statement_ja: A群レンサ球菌（Streptococcus pyogenes）は、咽頭炎や膿痂疹などの軽症感染から、壊死性筋膜炎やレンサ球菌性毒素性ショック症候群などの重症感染までを起こし、関連疾患全体で世界で年間50万人を超える死亡があるとされる。同菌はペニシリン系・セファロスポリン系抗菌薬に依然として感受性を保っている一方、その他の抗菌薬への耐性の上昇が世界的な課題になっている。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2087
+    source: Walker MJ, Barnett TC, McArthur JD, et al. Disease manifestations and pathogenic mechanisms of Group A Streptococcus. Clin Microbiol Rev. 2014;27(2):264-301.
+    doi: 10.1128/CMR.00101-13
+    pmid: '24696436'
+    pmcid: PMC3993104
+    url: https://doi.org/10.1128/CMR.00101-13
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 続発症（リウマチ熱、感染後急性糸球体腎炎）の詳細は既存分野の範囲とし、本カードは病原体と急性感染症の側面に絞った。主張中の抗菌薬は薬剤群の総称であり、個別製剤の国内承認・保険適用の確認は本カードでは行っていない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-①（連鎖球菌感染症、a）
+    core_curriculum: 'PS-01-03-04 (id: JkxnuLI)；PS-03-03-01 (id: JkxnuUg)；TBL-01-00-590 (id: JlvnmXM)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-002
+  domain: BA
+  subdomain: 連鎖球菌感染症
+  assertion:
+    plain_statement_ja: 日本の劇症型溶血性レンサ球菌感染症（感染症法の5類・全数把握）は2015年以降増加し、2024年に過去最多の届出数となった。2015年から2025年6月までの全届出8,751例のうち届出時点の死亡は2,253例（25.8%）で、患者の年齢中央値は73歳、起因菌はA群が45.3%で最も多く、2024年はA群のみで1,000例を超える届出があった。
+    condition:
+      region: 日本
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2088
+    source: 国立健康危機管理研究機構（JIHS）. IASR Vol.46（2025）特集 劇症型溶血性レンサ球菌感染症 2015年〜2025年6月.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://id-info.jihs.go.jp/surveillance/iasr/pathogens/vol46/547/547t.html
+    source_license: 政府機関の公開情報
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 2024年の届出総数には厚生労働省ページの速報値（1,888件）もあり、集計時点の違いで本出典の集計と一致しない。本カードの数値はすべて本出典（IASR特集）の集計に基づく。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-①（連鎖球菌感染症、a）
+    core_curriculum: 'PS-01-03-04 (id: JkxnuLI)；PS-03-03-01 (id: JkxnuUg)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-003
+  domain: BA
+  subdomain: 連鎖球菌感染症
+  assertion:
+    plain_statement_ja: 米国感染症学会（IDSA）は2012年に、A群レンサ球菌咽頭炎の診断と治療に関する診療ガイドラインを改訂した。このガイドラインは、咽頭炎の診断の進め方と治療方針を扱うものである。
+    condition:
+      region: 米国
+      対象: 咽頭炎患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1439
+    source: 'Shulman ST, Bisno AL, Clegg HW, et al. Clinical practice guideline for the diagnosis and management of group A streptococcal pharyngitis: 2012 update by the Infectious Diseases Society of America. Clin Infect Dis. 2012;55(10):e86-e102.'
+    doi: 10.1093/cid/cis629
+    pmid: '22965026'
+    pmcid: null
+    url: https://doi.org/10.1093/cid/cis629
+    source_license: CCライセンス表示なし（学会ガイドライン）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ガイドライン個別の推奨の数値は本リサーチでは抽出していないため、主張はガイドラインの位置づけの範囲にとどめた。国内の診療には日本の指針と承認状況が別途適用される。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-①（連鎖球菌感染症、a）
+    core_curriculum: 'PS-03-03-01 (id: JkxnuUg)；TBL-01-00-590 (id: JlvnmXM)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-004
+  domain: BA
+  subdomain: 腸球菌感染症
+  assertion:
+    plain_statement_ja: 腸球菌は院内感染の多剤耐性菌として最も重要なものの一つで、とくに Enterococcus faecium が新たに問題となっている。抗菌薬が腸内のグラム陰性菌を除去することがバンコマイシン耐性腸球菌の定着を助けることや、病院環境に適応した遺伝的系統（clonal complex 17系統を含む）の存在が示されている。
+    condition:
+      region: 国際
+      対象: 入院患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2089
+    source: 'Arias CA, Murray BE. The rise of the Enterococcus: beyond vancomycin resistance. Nat Rev Microbiol. 2012.'
+    doi: 10.1038/nrmicro2761
+    pmid: '22421879'
+    pmcid: PMC3621121
+    url: https://doi.org/10.1038/nrmicro2761
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: バンコマイシン耐性は菌の性質としての記述であり、治療薬の選択は本カードの範囲外とした。個別製剤の国内承認・保険適用の確認は本カードでは行っていない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-②（腸球菌感染症、a）
+    core_curriculum: 'PS-01-03-04 (id: JkxnuLI)；PS-03-03-02 (id: JkxnuUk)；PS-03-03-04 (id: JkxnuUs)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-005
+  domain: BA
+  subdomain: 腸球菌感染症
+  assertion:
+    plain_statement_ja: 日本で2007〜2015年に分離されたバンコマイシン耐性 Enterococcus faecium 29株の分子疫学解析では、ST78（44.8%）、ST1421（27.6%）、ST17（17.2%）が優勢で、いずれも clonal complex 17 に属していた。vanA を担う Tn1546 のバリアントは、異なるクローン背景の株にも見られた。
+    condition:
+      region: 日本
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2090
+    source: 'Tokano M, Tarumoto N, Sakai J, et al. Vancomycin-resistant Enterococcus faecium in Japan, 2007-2015: a molecular epidemiology analysis focused on examining strain characteristics over time. Microbiol Spectr. 2024;12(1):e0244423.'
+    doi: 10.1128/spectrum.02444-23
+    pmid: '38100166'
+    pmcid: PMC10783050
+    url: https://doi.org/10.1128/spectrum.02444-23
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 解析対象は29株と小規模であり、菌株コレクションに基づく結果である。バンコマイシン耐性は菌の性質としての記述で、治療薬の国内承認・保険適用は本カードの範囲外とした。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-②（腸球菌感染症、a）
+    core_curriculum: 'PS-03-03-02 (id: JkxnuUk)；PS-03-03-04 (id: JkxnuUs)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-006
+  domain: BA
+  subdomain: 肺炎球菌感染症
+  assertion:
+    plain_statement_ja: 2015年の世界の推計では、HIVに感染していない生後1〜59か月の小児の肺炎球菌による死亡は294,000人（不確実性範囲192,000〜366,000人）で、2000年から51%減少した。死亡した小児の81%は肺炎を呈していた。
+    condition:
+      region: 国際
+      対象: 小児（生後1〜59か月）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2091
+    source: 'Wahl B, O''Brien KL, Greenbaum A, et al. Burden of Streptococcus pneumoniae and Haemophilus influenzae type b disease in children in the era of conjugate vaccines: global, regional, and national estimates for 2000-15. Lancet Glob Health. 2018.'
+    doi: 10.1016/S2214-109X(18)30247-X
+    pmid: '29903376'
+    pmcid: PMC6005122
+    url: https://doi.org/10.1016/S2214-109X(18)30247-X
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 数値は結合型ワクチン導入期のモデル推計であり、不確実性範囲を併記した。肺炎球菌ワクチンの国内制度は呼吸器分野の既存カードの範囲とし、本カードでは作り直していない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-③（肺炎球菌感染症、a）
+    core_curriculum: 'PS-03-03-01 (id: JkxnuUg)；PS-03-03-16 (id: JkxnuVc)；TBL-01-00-617 (id: JlvnmZs)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-007
+  domain: BA
+  subdomain: 肺炎球菌感染症
+  assertion:
+    plain_statement_ja: 日本の成人の侵襲性肺炎球菌感染症について、2013年4月〜2015年3月に10都府県の強化サーベイランスで把握された291例では、年齢中央値は70歳、全体の致命率は20%だった。原因菌の血清型は3型（17%）、19A型（13%）、22F型（10%）の順に多く、PCV13対応型が46%、PPSV23対応型が66%を占めた。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2092
+    source: 'Fukusumi M, Chang B, Tanabe Y, et al. Invasive pneumococcal disease among adults in Japan, April 2013 to March 2015: disease characteristics and serotype distribution. BMC Infect Dis. 2017.'
+    doi: 10.1186/s12879-016-2113-y
+    pmid: '28049447'
+    pmcid: PMC5209803
+    url: https://doi.org/10.1186/s12879-016-2113-y
+    source_license: CC BY
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: ワクチンの国内制度そのものは呼吸器分野の既存カードの範囲とし、本カードは疾患の疫学と血清型分布に絞った。対象は10都府県の強化サーベイランスで把握された症例である。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-③（肺炎球菌感染症、a）
+    core_curriculum: 'PS-03-03-01 (id: JkxnuUg)；TBL-01-00-617 (id: JlvnmZs)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-008
+  domain: BA
+  subdomain: 黄色ブドウ球菌感染症
+  assertion:
+    plain_statement_ja: 黄色ブドウ球菌は菌血症と感染性心内膜炎の主要な原因菌であり、骨関節、皮膚軟部組織、胸膜肺、デバイス関連の感染も起こす。過去20年の疫学の変化として、医療関連感染（とくに感染性心内膜炎と人工物感染）の増加と、市中獲得型の皮膚軟部組織感染の流行がある。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2093
+    source: 'Tong SYC, Davis JS, Eichenberger E, Holland TL, Fowler VG Jr. Staphylococcus aureus infections: epidemiology, pathophysiology, clinical manifestations, and management. Clin Microbiol Rev. 2015.'
+    doi: 10.1128/CMR.00134-14
+    pmid: '26016486'
+    pmcid: PMC4451395
+    url: https://doi.org/10.1128/CMR.00134-14
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 皮膚・骨関節・心内膜炎の個別像は既存分野の範囲とし、本カードは全身像と疫学の変化に絞った。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-④（黄色ブドウ球菌感染症、メチシリン耐性黄色ブドウ球菌<MRSA>感染症、a）
+    core_curriculum: 'PS-01-03-04 (id: JkxnuLI)；PS-03-03-02 (id: JkxnuUk)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-009
+  domain: BA
+  subdomain: 黄色ブドウ球菌感染症
+  assertion:
+    plain_statement_ja: 日本の院内感染対策サーベイランス（JANIS）の2023年集計では、黄色ブドウ球菌に占めるMRSAの割合は入院検体で45.2%（200床以上の医療機関で44.0%、200床未満で54.1%）、外来検体で29.3%だった。
+    condition:
+      region: 日本
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2094
+    source: 厚生労働省院内感染対策サーベイランス事業（JANIS）. 公開情報 2023年 年報（検査部門、全集計対象医療機関）.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://janis.mhlw.go.jp/report/open_report/2023/3/2/zen_Open_Report_202300.pdf
+    source_license: 政府機関の公開情報
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 集計は、患者1人につき30日以内に最初に分離された株を対象とする条件つきの値である。数値は、厚生労働省のAMR資料がJANIS公開情報2023年年報から引用した値で確認した。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-④（黄色ブドウ球菌感染症、メチシリン耐性黄色ブドウ球菌<MRSA>感染症、a）
+    core_curriculum: 'PS-03-03-02 (id: JkxnuUk)；PS-03-03-04 (id: JkxnuUs)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-010
+  domain: BA
+  subdomain: 表皮ブドウ球菌感染症
+  assertion:
+    plain_statement_ja: コアグラーゼ陰性ブドウ球菌は主要な院内病原体の一つとなり、菌種では表皮ブドウ球菌（Staphylococcus epidermidis）と Staphylococcus haemolyticus が最も重要である。人工物関連感染と早産児の感染に大きく関与し、治療上の課題として、メチシリン耐性株の割合の高さと、グリコペプチドへの感受性低下を示す株の増加がある。
+    condition:
+      region: 国際
+      対象: 入院患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2095
+    source: Becker K, Heilmann C, Peters G. Coagulase-negative staphylococci. Clin Microbiol Rev. 2014.
+    doi: 10.1128/CMR.00109-13
+    pmid: '25278577'
+    pmcid: PMC4187637
+    url: https://doi.org/10.1128/CMR.00109-13
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: メチシリン耐性とグリコペプチド感受性低下は菌の性質としての記述であり、個別製剤の国内承認・保険適用の確認は本カードでは行っていない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑤（表皮ブドウ球菌感染症、a）
+    core_curriculum: 'PS-01-03-04 (id: JkxnuLI)；PS-03-03-02 (id: JkxnuUk)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-011
+  domain: BA
+  subdomain: 髄膜炎菌感染症
+  assertion:
+    plain_statement_ja: 侵襲性髄膜炎菌感染症の発症率は全体として低いが、地域と年齢によって大きく異なる。発症率が最も高いのは乳児で、次いで幼児と思春期・若年成人で高い。2010〜2019年の文献レビューでは、多くの国で B 群が優位であり、W 群と Y 群の増加が複数の地域でみられた。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2096
+    source: 'Pardo de Santayana C, Tin Tin Htar M, Findlow J, Balmer P. Epidemiology of invasive meningococcal disease worldwide from 2010-2019: a literature review. Epidemiol Infect. 2023;151:e57'
+    doi: 10.1017/S0950268823000328
+    pmid: '37052295'
+    pmcid: null
+    url: https://doi.org/10.1017/S0950268823000328
+    source_license: CC BY 4.0（Crossref license フィールド、VoR）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 著者は全員 Pfizer 社員であり、利益相反が抄録に明記されている。世界の疫学の記述的事実に限って用いた。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑦（髄膜炎菌感染症、a）
+    core_curriculum: 'PS-01-03-04 (id: JkxnuLI)；PS-03-03-01 (id: JkxnuUg)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-012
+  domain: BA
+  subdomain: 髄膜炎菌感染症
+  assertion:
+    plain_statement_ja: 日本では侵襲性髄膜炎菌感染症は2013年4月から感染症法の五類全数把握対象であり、届出数は2013〜2019年の年間20〜40例程度から2020〜2022年には年間1〜13例へ減少した後、2024年に68例、2025年に84例と増加した。患者との濃厚接触者には、可能な限り早期に抗菌薬による曝露後予防（リファンピシン、シプロフロキサシンなど）を行う。4価結合型ワクチン（MenACWY）は国内で承認されているが定期接種ではなく、B 群を対象とするワクチンは国内では承認されていない。
+    condition:
+      region: 日本
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2097
+    source: 国立健康危機管理研究機構. IASR Vol.47（2026年9月号）特集「侵襲性髄膜炎菌感染症 2013年4月～2026年4月」；感染症情報提供サイト「侵襲性髄膜炎菌感染症」
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://id-info.jihs.go.jp/surveillance/iasr/pathogens/vol47/559/559t.html
+    source_license: 政府機関の公開ページ
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 曝露後予防に用いる抗菌薬（リファンピシン、シプロフロキサシン、セフトリアキソン等）は国内承認薬であるが、曝露後予防を目的とした場合の保険適用の範囲は未確認である。4価ワクチンの保険給付は補体阻害薬投与患者に限定される旨は検索結果で確認した範囲であり、最新の適用範囲は未確認である。起因血清群の主因の記載は資料により異なり、感染症情報提供サイトでは X 群を含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑦（髄膜炎菌感染症、a）
+    core_curriculum: 'PS-01-03-02 (id: JkxnuLA)；PS-03-03-16 (id: JkxnuVc)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-013
+  domain: BA
+  subdomain: リステリア感染症
+  assertion:
+    plain_statement_ja: 2010年の世界推計では、リステリア症の罹患者数は23,150人（95%信用区間 6,061〜91,247）、死亡者数は5,463人、障害調整生命年は172,823年と推計され、周産期例が全体の20.7%を占めた。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2098
+    source: 'de Noordhout CM, Devleesschauwer B, Angulo FJ, Verbeke G, Haagsma J, Kirk M, Havelaar A, Speybroeck N. The global burden of listeriosis: a systematic review and meta-analysis. Lancet Infect Dis. 2014;14(11):1073-1082'
+    doi: 10.1016/S1473-3099(14)70870-9
+    pmid: '25241232'
+    pmcid: PMC4369580
+    url: https://doi.org/10.1016/S1473-3099(14)70870-9
+    source_license: CC 表示なし（Crossref は TDM ライセンスのみ。© WHO / Elsevier）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: モデルによる推計であり、罹患者数の信用区間は広く、不確実性が大きい。周産期管理の詳細は医学各論 Ⅰ の範囲として扱っていない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑨（リステリア感染症、a）
+    core_curriculum: 'PS-03-03-01 (id: JkxnuUg)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-014
+  domain: BA
+  subdomain: リステリア感染症
+  assertion:
+    plain_statement_ja: 日本ではリステリア症の集団発生は確認されておらず散発例にとどまり、推定患者数は年間200人程度とされる。感染は汚染食品の経口摂取によるものが主で、母子感染も起こり、潜伏期間は1日から1か月程度である。本症は感染症法の届出対象ではなく、食品衛生法における食中毒の病因物質に定められている。国内で承認されたワクチンはない。
+    condition:
+      region: 日本
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2099
+    source: 国立健康危機管理研究機構（JIHS）感染症情報提供サイト「リステリア症」；厚生労働省「リステリアによる食中毒」
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://id-info.jihs.go.jp/infectious-diseases/listeriosis/index.html
+    source_license: 政府機関の公開ページ
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 推定患者数（年間200人）は平成23年の食品安全委員会の評価書に基づく概数である。国内患者の年齢構成などの詳細は公的資料の本文では確認していない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑨（リステリア感染症、a）
+    core_curriculum: 'PS-01-03-02 (id: JkxnuLA)；PS-03-03-06 (id: JkxnuU0)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-015
+  domain: BA
+  subdomain: モラクセラ・カタラリス感染症
+  assertion:
+    plain_statement_ja: Moraxella catarrhalis はヒト専用の呼吸器病原体で、上気道の保菌率は乳幼児で高く、成人では大幅に低下する。小児の急性中耳炎エピソードの15〜20%の起因菌であり、成人では COPD 増悪の原因となり、米国で年間推定200万〜400万件の COPD 増悪を引き起こすとされる。ほとんどの株が β-ラクタマーゼを産生し、アンピシリンに耐性を示す。
+    condition:
+      region: 国際
+      対象: 小児・成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2100
+    source: Murphy TF, Parameswaran GI. Moraxella catarrhalis, a human respiratory tract pathogen. Clin Infect Dis. 2009;49(1):124-131
+    doi: 10.1086/599375
+    pmid: '19480579'
+    pmcid: null
+    url: https://doi.org/10.1086/599375
+    source_license: CC 表示なし（Crossref にライセンスフィールドなし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 予防ワクチンは研究・開発の段階にあり、国内承認の有無は未確認である。個別の呼吸器感染症の臨床像は本カードでは扱っていない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑩（モラクセラ・カタラリス感染症、a）
+    core_curriculum: 'PS-01-03-04 (id: JkxnuLI)；PS-03-03-01 (id: JkxnuUg)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-016
+  domain: BA
+  subdomain: サルモネラ感染症
+  assertion:
+    plain_statement_ja: 侵襲性非チフス性サルモネラ感染症は、2010年の世界推計で年間約340万例（範囲 210万〜650万例）とされ、発症率は人口10万人あたり49であった。アフリカで最も高く（10万人あたり227、約190万例）、乳児・幼児と若年成人が中心で、HIV 感染症の患者やマラリアに感染した小児が高リスクである。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2101
+    source: Ao TT, Feasey NA, Gordon MA, Keddy KH, Angulo FJ, Crump JA. Global burden of invasive nontyphoidal Salmonella disease, 2010. Emerg Infect Dis. 2015;21(6):941-949
+    doi: 10.3201/eid2106.140999
+    pmid: '25860298'
+    pmcid: PMC4451910
+    url: https://doi.org/10.3201/eid2106.140999
+    source_license: CDC（Emerging Infectious Diseases は CDC の機関誌）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 出版者が米国 CDC であることから GOV_US と判定したが、著者には CDC 以外の研究機関の所属者が含まれており、パブリックドメイン扱いの最終確認は登録側に委ねる。死亡数の推計（致命率20%の仮定で年間681,316人）は仮定に基づくため主張に入れていない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑪（サルモネラ感染症、a）
+    core_curriculum: 'PS-03-03-01 (id: JkxnuUg)；PS-03-03-06 (id: JkxnuU0)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-017
+  domain: BA
+  subdomain: サルモネラ感染症
+  assertion:
+    plain_statement_ja: 腸チフスとパラチフスを合わせた2017年の世界推計は1,430万例（95%不確実区間 1,250万〜1,630万例）で、うち腸チフス菌（Salmonella enterica serotype Typhi）によるものが76.3%を占めた。死亡は約13.6万人、全体の致命率は0.95%であり、患者数は1990年の2,590万例から44.6%減少した。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2102
+    source: 'GBD 2017 Typhoid and Paratyphoid Collaborators. The global burden of typhoid and paratyphoid fevers: a systematic analysis for the Global Burden of Disease Study 2017. Lancet Infect Dis. 2019;19(4):369-381'
+    doi: 10.1016/S1473-3099(18)30685-6
+    pmid: '30792131'
+    pmcid: null
+    url: https://doi.org/10.1016/S1473-3099(18)30685-6
+    source_license: CC BY 4.0（Crossref の VoR ライセンス）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 腸チフス・パラチフスの感染症法上の分類は本出典の対象外であり、一次資料で確認していないため主張に入れていない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑪（サルモネラ感染症、a）
+    core_curriculum: 'PS-03-03-01 (id: JkxnuUg)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-018
+  domain: BA
+  subdomain: 百日咳
+  assertion:
+    plain_statement_ja: 百日咳は Bordetella pertussis による呼吸器感染症で、2008年の世界推計では約1,600万例が発生し、195,000人の死亡に関連したとされる。感染やワクチンによる免疫は時間とともに減衰し、年長児・思春期・成人も発症して年少の同胞への感染源となりうることが、近年の再興の背景として重視されている。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2103
+    source: 'Kilgore PE, Salim AM, Zervos MJ, Schmitt HJ. Pertussis: Microbiology, Disease, Treatment, and Prevention. Clin Microbiol Rev. 2016;29(3):449-486'
+    doi: 10.1128/CMR.00083-15
+    pmid: '27029594'
+    pmcid: PMC4861987
+    url: https://doi.org/10.1128/CMR.00083-15
+    source_license: ASM の非商用 TDM ライセンスのみ
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 世界の患者数と死亡数は2008年時点の推計である。呼吸器の臨床像は本カードでは扱っていない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑫（百日咳、a）
+    core_curriculum: 'PS-03-03-01 (id: JkxnuUg)；PS-03-03-16 (id: JkxnuVc)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-019
+  domain: BA
+  subdomain: 百日咳
+  assertion:
+    plain_statement_ja: 日本では百日咳は2018年1月から感染症法の五類全数把握対象となり、届出数は2019年に16,847例となった後、2020〜2023年は年間3,000例未満にとどまったが、2024年後半から増加し、2025年は全数把握開始以降で最多となった。感染経路が把握された症例の大部分は、同胞や父母との接触による家庭内感染であった。予防の中核は定期接種の五種混合ワクチン（DPT-IPV-Hib）の4回接種であり、五種混合ワクチンは2024年4月から定期接種に導入された。11〜12歳の二種混合（DT）には百日咳成分は含まれない。
+    condition:
+      region: 日本
+      対象: 小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2104
+    source: 国立健康危機管理研究機構（JIHS）. IDWR 2025年第22号＜注目すべき感染症＞百日咳；「感染症発生動向調査により届出された百日咳の概要，2018～2025年」
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://id-info.jihs.go.jp/surveillance/idwr/featured/2025/22/index.html
+    source_license: 政府機関の公開ページ
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 2025年の届出数は集計方式により値が併存する（届出概要では89,387例、IASR 特集では第1〜44週で84,911例、届出ガイドライン準拠の確認済み症例の集計では同期間で83,793例）ため、本文では2025年の具体的な届出数を挙げていない。五種混合ワクチンは国内で承認され、定期接種として実施されている。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑫（百日咳、a）
+    core_curriculum: 'PS-01-03-15 (id: JkxnuL4)；PS-03-03-16 (id: JkxnuVc)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-020
+  domain: BA
+  subdomain: 大腸菌感染症
+  assertion:
+    plain_statement_ja: 大腸菌は本来、ほぼすべての臨床的に重要な抗菌薬に感性を示すが、水平遺伝子伝達によって耐性遺伝子を蓄積する能力が高い。問題となる耐性機序には、ESBL による広域セファロスポリン耐性、カルバペネマーゼによるカルバペネム耐性、プラスミド媒介性キノロン耐性、mcr 遺伝子によるポリミキシン耐性などがあり、プラスミドやトランスポゾン、インテグロンの遺伝子カセットなどの可動性遺伝因子が拡散に大きな役割を果たす。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2105
+    source: Poirel L, Madec JY, Lupo A, Schink AK, Kieffer N, Nordmann P, Schwarz S. Antimicrobial Resistance in Escherichia coli. Microbiol Spectr. 2018;6(4)
+    doi: 10.1128/microbiolspec.ARBA-0026-2017
+    pmid: '30003866'
+    pmcid: PMC11633601
+    url: https://doi.org/10.1128/microbiolspec.ARBA-0026-2017
+    source_license: ASM の非商用 TDM ライセンスのみ
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードは薬剤耐性機序の総論であり、個別の抗菌薬の国内承認・保険適用の状況は確認していない。本カードは既存の IN-070〜073（腸管出血性大腸菌）の不足分として作成した任意カードである。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑬（大腸菌感染症、a）
+    core_curriculum: 'PS-03-03-04 (id: JkxnuUs)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-021
+  domain: BA
+  subdomain: 大腸菌感染症
+  assertion:
+    plain_statement_ja: 下痢原性大腸菌は少なくとも6つのカテゴリーに分類され、それぞれ異なる病原様式を持つ。毒素原性大腸菌（ETEC）は旅行者下痢、腸管病原性大腸菌（EPEC）は乳児の水様性下痢、腸管凝集性大腸菌（EAEC）は遷延性下痢に関連する。これら全体で、世界の小児下痢の最も一般的な原因の一つと考えられている。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2106
+    source: Nataro JP, Kaper JB. Diarrheagenic Escherichia coli. Clin Microbiol Rev. 1998;11(1):142-201
+    doi: 10.1128/CMR.11.1.142
+    pmid: '9457432'
+    pmcid: PMC121379
+    url: https://doi.org/10.1128/CMR.11.1.142
+    source_license: ASM の非商用 TDM ライセンスのみ
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 腸管出血性大腸菌の臨床像は既存の IN-070〜073 の範囲であるため、本カードではカテゴリーの総論とそれ以外のカテゴリーに限った。本カードは不足分として作成した任意カードである。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑬（大腸菌感染症、a）
+    core_curriculum: 'PS-01-03-03 (id: JkxnuLE)；PS-03-03-01 (id: JkxnuUg)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-022
+  domain: BA
+  subdomain: 大腸菌感染症
+  assertion:
+    plain_statement_ja: 大腸菌 ST131 は2008年に3大陸で同定されたクローン群で、腸管外病原性大腸菌（ExPEC）の分離株の中で世界的に優位な系統である。CTX-M-15 などの ESBL を産生することが多く、ほぼすべてがフルオロキノロン耐性を示す。多数の病原性関連遺伝子を持ち、市中と院内の双方で多様な腸管外感染症を起こすため、尿路感染症や菌血症の主要な起因菌としての位置づけを持つ。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2107
+    source: Nicolas-Chanoine MH, Bertrand X, Madec JY. Escherichia coli ST131, an intriguing clonal group. Clin Microbiol Rev. 2014;27(3):543-574
+    doi: 10.1128/CMR.00125-13
+    pmid: '24982321'
+    pmcid: PMC4135899
+    url: https://doi.org/10.1128/CMR.00125-13
+    source_license: ASM の非商用 TDM ライセンスのみ
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 尿路感染症に占める大腸菌の割合などの数値は、照合した出典の抄録に含まれておらず未確認のため、主張に入れていない。尿路感染症の臨床像は本カードでは扱っていない。本カードは不足分として作成した任意カードである。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑬（大腸菌感染症、a）
+    core_curriculum: 'PS-03-03-04 (id: JkxnuUs)；TBL-01-00-591 (id: JlvnmXY)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-023
+  domain: BA
+  subdomain: クレブシエラ感染症
+  assertion:
+    plain_statement_ja: Klebsiella pneumoniae は重要な多剤耐性病原体であり、院内感染の主要な原因の一つである。染色体性とプラスミド性の耐性遺伝子を豊富に保持し、薬剤耐性の主要な供給源であり運び手とされる。抗菌薬の選択圧の下で耐性遺伝子を蓄積し続け、高度薬剤耐性（XDR）株が出現し、多剤耐性・XDR の高リスククローンは過去20年間に複数大陸でアウトブレイクと世界的な拡散を示した。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2108
+    source: 'Navon-Venezia S, Kondratyeva K, Carattoli A. Klebsiella pneumoniae: a major worldwide source and shuttle for antibiotic resistance. FEMS Microbiol Rev. 2017;41(3):252-275'
+    doi: 10.1093/femsre/fux013
+    pmid: '28521338'
+    pmcid: null
+    url: https://doi.org/10.1093/femsre/fux013
+    source_license: CC 表示なし（© FEMS 2017）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードは病原体と薬剤耐性の総論であり、治療薬の選択や個別薬剤の国内承認・保険適用の状況は扱っていない。尿路感染症の臨床像にも踏み込んでいない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑭（クレブシエラ感染症、a）
+    core_curriculum: 'PS-03-03-02 (id: JkxnuUk)；PS-03-03-04 (id: JkxnuUs)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-024
+  domain: BA
+  subdomain: セラチア感染症
+  assertion:
+    plain_statement_ja: Serratia marcescens は水・土壌など環境中に広く分布する腸内細菌科の菌で、病原性は比較的低いが、新生児集中治療室（NICU）で院内感染やアウトブレイクを起こす。新生児では無症候の定着から敗血症や血流感染まで幅広い病態をとり、感染部位は血流が最も多く、次いで呼吸器、消化管である。流行に関与した株は多剤耐性であることが多く、本菌は複数の抗菌薬クラスに内因性耐性を示す。医療従事者の汚染した手指が主要な伝播媒体と考えられ、定着・感染した新生児が主なリザーバーとなる。
+    condition:
+      region: 国際
+      対象: 新生児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2109
+    source: Cristina ML, Sartini M, Spagnolo AM. Serratia marcescens Infections in Neonatal Intensive Care Units (NICUs). Int J Environ Res Public Health. 2019;16(4):610
+    doi: 10.3390/ijerph16040610
+    pmid: '30791509'
+    pmcid: PMC6406414
+    url: https://doi.org/10.3390/ijerph16040610
+    source_license: CC BY 4.0（Crossref license フィールド、VoR）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: NICU の新生児を対象としたレビューの範囲であり、成人での感染像は扱っていない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑮（セラチア感染症、a）
+    core_curriculum: 'PS-01-03-04 (id: JkxnuLI)；PS-03-03-02 (id: JkxnuUk)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-025
+  domain: BA
+  subdomain: 腸炎ビブリオ感染症
+  assertion:
+    plain_statement_ja: Vibrio parahaemolyticus は河口域・海洋・沿岸環境に分布するグラム陰性の好塩性菌で、生や加熱不十分、または不適切に扱われた海産物の摂取による急性胃腸炎の主要な原因菌である。主な病原因子は耐熱性直接溶血毒（TDH）と TDH 関連溶血毒（TRH）で、2つの III 型分泌装置も持つ。臨床分離株の病原性と関連する一方、環境検体で tdh 遺伝子を持つ株は0〜6%程度にとどまる。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2110
+    source: 'Letchumanan V, Chan KG, Lee LH. Vibrio parahaemolyticus: a review on the pathogenesis, prevalence, and advance molecular identification techniques. Front Microbiol. 2014;5:705'
+    doi: 10.3389/fmicb.2014.00705
+    pmid: '25566219'
+    pmcid: PMC4263241
+    url: https://doi.org/10.3389/fmicb.2014.00705
+    source_license: CC BY（論文ページ末尾のライセンス表示を確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: tdh 遺伝子保有率の数値は総説の本文で確認した範囲に限る。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑯（腸炎ビブリオ感染症、a）
+    core_curriculum: 'PS-01-03-02 (id: JkxnuLA)；PS-01-03-03 (id: JkxnuLE)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-026
+  domain: BA
+  subdomain: 腸炎ビブリオ感染症
+  assertion:
+    plain_statement_ja: 日本では腸炎ビブリオは1980年代前半まで細菌性食中毒の半数を占めていたが、近年は年間数件から数十件程度に減少している。潜伏期間は12時間前後で、汚染された魚介類やその加工品の摂取による経口感染が主であり、加熱加工した食品が汚染した水や器具で二次汚染された事例もある。予防は魚介類の低温保存、十分な加熱、二次汚染の防止と手洗いの励行であり、国内で承認されたワクチンはない。本菌は食品衛生法における食中毒の病因物質に定められている。
+    condition:
+      region: 日本
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2111
+    source: 国立健康危機管理研究機構（JIHS）感染症情報提供サイト「腸炎ビブリオ感染症」
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://id-info.jihs.go.jp/infectious-diseases/vibrio-parahaemolyticus-enteritis/index.html
+    source_license: 政府機関の公開ページ
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 件数の推移は出典ページに記載された食中毒統計の範囲に限る。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑯（腸炎ビブリオ感染症、a）
+    core_curriculum: 'PS-01-03-02 (id: JkxnuLA)；PS-03-03-01 (id: JkxnuUg)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-027
+  domain: BA
+  subdomain: レジオネラ症
+  assertion:
+    plain_statement_ja: レジオネラ属菌はグラム陰性好気性菌で、レジオネラ肺炎（市中肺炎・院内肺炎の原因の一つ）などを起こす。欧州では Legionella pneumophila 血清群1によるものが最も多い。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2112
+    source: Phin N, Parry-Ford F, Harrison T, et al. Epidemiology and clinical management of Legionnaires' disease. Lancet Infect Dis. 2014;14(10):1011-1021.
+    doi: 10.1016/S1473-3099(14)70713-3
+    pmid: '24970283'
+    pmcid: null
+    url: https://doi.org/10.1016/S1473-3099(14)70713-3
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 呼吸器の臨床像は RI の範囲に寄せ、本カードでは病原体・疫学の側面に絞った。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑰（レジオネラ症、a）
+    core_curriculum: 'PS-03-03-01 (id: JkxnuUg)；PS-03-03-05 (id: JkxnuUw)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-028
+  domain: BA
+  subdomain: レジオネラ症
+  assertion:
+    plain_statement_ja: 日本ではレジオネラ症は4類感染症として全数届出の対象であり、2013〜2023年に20,378例が届け出られた。病型は肺炎型が94.3%を占め、患者は男性が81.9%、50歳以上が93.0%である。菌は20〜45℃の水環境でアメーバ等の原生動物を宿主として繁殖し、エアロゾルを生じる人工水系の衛生管理不備が感染リスクとなり、原則としてヒトからヒトへの感染はない。治療にはキノロン系・マクロライド系抗菌薬が使用される。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2113
+    source: 病原微生物検出情報（IASR）45(7), 2024. 特集「レジオネラ症 2013〜2023年」. 国立健康危機管理研究機構.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://id-info.jihs.go.jp/surveillance/iasr/pathogens/vol45/533/533t.html
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: キノロン系・マクロライド系抗菌薬は国内承認・保険適用のある抗菌薬だが、個別薬剤の添付文書レベルの確認は行っていない。2024年の届出数（2,419例）は集計時点の異なる別資料の値のため、本カードでは IASR 特集の年別集計（2023年まで）を主に使った。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑰（レジオネラ症、a）
+    core_curriculum: 'PS-03-03-01 (id: JkxnuUg)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-029
+  domain: BA
+  subdomain: 緑膿菌感染症
+  assertion:
+    plain_statement_ja: 緑膿菌は日和見病原体であり、嚢胞性線維症患者の罹患・死亡の主因の一つであるとともに、院内感染の主要な原因菌の一つである。多様な適応・生存・多剤耐性の機構を持ち、クオラムセンシング等の制御系が浮遊生活やバイオフィルム形成といった生活様式を調節する。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2114
+    source: 'Moradali MF, Ghods S, Rehm BHA. Pseudomonas aeruginosa Lifestyle: A Paradigm for Adaptation, Survival, and Persistence. Front Cell Infect Microbiol. 2017;7:39.'
+    doi: 10.3389/fcimb.2017.00039
+    pmid: '28261568'
+    pmcid: PMC5310132
+    url: https://doi.org/10.3389/fcimb.2017.00039
+    source_license: CC BY
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 薬剤耐性グラム陰性菌の治療に関する IDSA のガイダンスが存在するが、記載薬の国内承認・保険適用は未確認のため、本カードでは個別の薬剤名は扱わない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑱（緑膿菌感染症、a）
+    core_curriculum: 'PS-03-03-02 (id: JkxnuUk)；PS-03-03-04 (id: JkxnuUs)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-030
+  domain: BA
+  subdomain: アシネトバクター感染症
+  assertion:
+    plain_statement_ja: Acinetobacter baumannii は医療関連感染の主要な病原体の一つで、多剤耐性株による感染やアウトブレイクのため有効な抗菌薬が限られる。耐性機構には、βラクタマーゼの獲得、薬剤排出ポンプの亢進、アミノグリコシド修飾酵素、膜透過性の低下、標的部位の改変が含まれる。
+    condition:
+      region: 国際
+      対象: 入院患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2115
+    source: 'Lee CR, Lee JH, Park M, et al. Biology of Acinetobacter baumannii: Pathogenesis, Antibiotic Resistance Mechanisms, and Prospective Treatment Options. Front Cell Infect Microbiol. 2017;7:55.'
+    doi: 10.3389/fcimb.2017.00055
+    pmid: '28348979'
+    pmcid: PMC5346588
+    url: https://doi.org/10.3389/fcimb.2017.00055
+    source_license: CC BY
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: カルバペネム耐性株を含む薬剤耐性グラム陰性菌の治療に関する IDSA のガイダンスが存在するが、記載薬の国内承認・保険適用は未確認のため、本カードでは個別の薬剤名は扱わない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑲（アシネトバクター感染症、a）
+    core_curriculum: 'PS-03-03-02 (id: JkxnuUk)；PS-03-03-04 (id: JkxnuUs)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-031
+  domain: BA
+  subdomain: ガス壊疽
+  assertion:
+    plain_statement_ja: ウェルシュ菌（Clostridium perfringens）によるクロストリジウム性ガス壊疽（筋壊死）については、IDSA の皮膚軟部組織感染症ガイドライン2014年版に診断・治療の推奨が収められている。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1180
+    source: 'Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):147-159.'
+    doi: 10.1093/cid/ciu296
+    pmid: '24947530'
+    pmcid: null
+    url: https://doi.org/10.1093/cid/ciu296
+    source_license: © The Author 2014, Oxford University Press（CC表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 軟部感染症としての臨床像・治療の各論は SD-033・034 の範囲とし、本カードでは扱わない。source_class は出典マスターの登録どおり UNKNOWN とした。ウェルシュ菌のα毒素と筋壊死の関係を示す一次資料は照合できていない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑳（ガス壊疽、a）
+    core_curriculum: 'PS-01-03-03 (id: JkxnuLE)；TBL-01-00-595 (id: JlvnmXw)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-032
+  domain: BA
+  subdomain: バクテロイデス感染症
+  assertion:
+    plain_statement_ja: バクテロイデス属は腸管内では宿主と共生関係にあるが、腸管外へ逸脱すると菌血症や多部位の膿瘍を起こし、嫌気性菌感染症の大部分に関与する重要な病原体であり、関連死亡率は19%を超える。Bacteroides fragilis はヒト大腸の菌叢の約0.5%を占めるにすぎないが、最も頻繁に分離される嫌気性病原体である。またバクテロイデス属は嫌気性病原体の中で最も多くの耐性機構を持ち、セフォキシチン、クリンダマイシン、メトロニダゾール、カルバペネム、フルオロキノロン等への耐性の増加が報告されている。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2116
+    source: 'Wexler HM. Bacteroides: the good, the bad, and the nitty-gritty. Clin Microbiol Rev. 2007;20(4):593-621.'
+    doi: 10.1128/CMR.00008-07
+    pmid: '17934076'
+    pmcid: PMC2176045
+    url: https://doi.org/10.1128/CMR.00008-07
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本文に挙げた抗菌薬の国内承認・保険適用は未確認。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-㉒（バクテロイデス感染症、a）
+    core_curriculum: 'PS-01-03-07 (id: JkxnuLU)；PS-03-03-05 (id: JkxnuUw)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-033
+  domain: BA
+  subdomain: 梅毒
+  assertion:
+    plain_statement_ja: CDC の性感染症治療ガイドライン2021では、梅毒の第1期・第2期・早期潜伏梅毒にはベンザチンペニシリンG 240万単位の筋注単回投与が、後期潜伏梅毒・罹患時期不明の梅毒には240万単位を週1回・計3回投与することが推奨されている。先天梅毒については、母体の治療歴と児の評価に基づくシナリオ別の評価・治療が定められている。
+    condition:
+      region: 米国
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-703
+    source: Workowski KA, Bachmann LH, Chan PA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recommendations and Reports. 2021;70(4):1-187.
+    doi: 10.15585/mmwr.rr7004a1
+    pmid: '34292926'
+    pmcid: null
+    url: https://doi.org/10.15585/mmwr.rr7004a1
+    source_license: 米国政府資料（GOV_US）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 国内ではベンジルペニシリンベンザチン水和物（ステルイズ水性懸濁筋注）が2021年9月27日に製造販売承認され、同年11月25日に薬価収載された。適応症は「梅毒（神経梅毒を除く）」で、早期梅毒には240万単位単回筋注、後期梅毒には240万単位を週1回・計3回筋注とされ、本ガイドラインの推奨と同一用法の製剤が国内承認・保険適用されている（PMDA の添付文書・審査資料で確認）。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-㉓（梅毒、a）
+    core_curriculum: 'PS-01-03-06 (id: JkxnuLQ)；PS-03-03-01 (id: JkxnuUg)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-034
+  domain: BA
+  subdomain: 梅毒
+  assertion:
+    plain_statement_ja: 日本の梅毒の届出数（5類感染症・全数把握）は2011年頃から増加に転じ、2022年に13,258例、2023年に15,055例、2024年に14,829例であった。先天梅毒の届出数は2021年20例、2022年20例、2023年37例、2024年30例（暫定値）で、2023年以降30例を超えている。
+    condition:
+      region: 日本
+      対象: 全年齢
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2117
+    source: 国立健康危機管理研究機構. 梅毒のサーベイランス情報（感染症発生動向調査に基づく梅毒の動向）；病原微生物検出情報（IASR）44(12), 2024 特集「梅毒 2023年現在」.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://id-info.jihs.go.jp/surveillance/idss/target-diseases/syphilis/index.html
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 2024年の先天梅毒の届出数は暫定値である。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-㉓（梅毒、a）
+    core_curriculum: 'PS-01-03-06 (id: JkxnuLQ)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-035
+  domain: BA
+  subdomain: ヘモフィルス感染症
+  assertion:
+    plain_statement_ja: 米国では Hib 結合体ワクチンの導入後に侵襲性インフルエンザ菌感染症の疫学が変化した。Active Bacterial Core surveillance（10サイト、2008〜2017年、7,379例）では、全米の年間発生率は人口10万人あたり1.8で、無莢膜株（nontypeable）が同1.3と最大を占めた。小児では a 型（Hia）の新興がみられる。
+    condition:
+      region: 米国
+      対象: 全年齢
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2118
+    source: Brown NE, Blain AE, Burzlaff K, et al. Racial Disparities in Invasive Haemophilus influenzae Disease—United States, 2008-2017. Clin Infect Dis. 2021;73(9):1617-1624.
+    doi: 10.1093/cid/ciab449
+    pmid: '33993217'
+    pmcid: PMC11307574
+    url: https://doi.org/10.1093/cid/ciab449
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 米国のサーベイランスに基づく数値であり、日本の疫学とは異なる。軟性下疳は本カードでは扱わない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-㉔（ヘモフィルス感染症、b）
+    core_curriculum: 'PS-03-03-16 (id: JkxnuVc)；TBL-01-00-615 (id: JlvnmZk)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-036
+  domain: BA
+  subdomain: ヘモフィルス感染症
+  assertion:
+    plain_statement_ja: 日本では Hib ワクチン（乾燥ヘモフィルスb型ワクチン）の任意接種が2008年12月に始まり、2013年4月に定期接種（A類）となった。同時に侵襲性インフルエンザ菌感染症が5類感染症の全数届出対象に追加された。Hib を含むインフルエンザ菌髄膜炎の罹患率（5歳未満人口10万人あたり）は、2008〜2010年の7.7から定期接種化後の2014年には0.0となった。2024年4月からは五種混合ワクチン（DPT-IPV-Hib）も定期接種で使用できる。
+    condition:
+      region: 日本
+      対象: 小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2119
+    source: 厚生労働省. Hib感染症（疾患ページ）；病原微生物検出情報（IASR）34(7), 2013 特集「侵襲性インフルエンザ菌感染症」.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/hib/index.html
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 髄膜炎の臨床像は NI の範囲とし、本カードでは扱わない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-㉔（ヘモフィルス感染症、b）
+    core_curriculum: 'PS-03-03-16 (id: JkxnuVc)；TBL-01-00-615 (id: JlvnmZk)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-037
+  domain: BA
+  subdomain: 細菌性赤痢
+  assertion:
+    plain_statement_ja: GBD 2016 の推計では、赤痢菌は2016年の全下痢死亡の第2位の原因であり、死亡数は212,438（95%不確実性区間 136,979〜326,913）で全下痢死亡の約13.2%を占めた。5歳未満の死亡は63,713だった。
+    condition:
+      region: 国際
+      対象: 全年齢
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2120
+    source: 'Khalil IA, Troeger C, Blacker BF, et al. Morbidity and mortality due to shigella and enterotoxigenic Escherichia coli diarrhoea: the Global Burden of Disease Study 1990-2016. Lancet Infect Dis. 2018;18(11):1229-1240.'
+    doi: 10.1016/S1473-3099(18)30475-4
+    pmid: '30266330'
+    pmcid: PMC6202441
+    url: https://doi.org/10.1016/S1473-3099(18)30475-4
+    source_license: CC BY
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 国内の感染症法上の分類と近年の届出数（輸入例の割合を含む）は一次確認が未了のため、本カードでは扱わない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-㉕（細菌性赤痢、b）
+    core_curriculum: 'PS-03-03-01 (id: JkxnuUg)；PS-01-03-04 (id: JkxnuLI)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-038
+  domain: BA
+  subdomain: コレラ
+  assertion:
+    plain_statement_ja: コレラの常在国におけるリスク人口は約13億人で、年間約286万例（不確実性範囲 130万〜400万例）・約95,000死亡（同 21,000〜143,000）と推計され、負担の大半はサハラ以南アフリカにある。
+    condition:
+      region: 国際
+      対象: 全年齢
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2121
+    source: Ali M, Nelson AR, Lopez AL, Sack DA. Updated global burden of cholera in endemic countries. PLoS Negl Trop Dis. 2015;9(6):e0003832.
+    doi: 10.1371/journal.pntd.0003832
+    pmid: '26043000'
+    pmcid: PMC4455997
+    url: https://doi.org/10.1371/journal.pntd.0003832
+    source_license: CC BY
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 国内の感染症法上の分類と近年の届出数は一次確認が未了のため、本カードでは扱わない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-㉖（コレラ、b）
+    core_curriculum: 'PS-01-03-03 (id: JkxnuLE)；PS-03-03-01 (id: JkxnuUg)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-039
+  domain: BA
+  subdomain: 破傷風
+  assertion:
+    plain_statement_ja: 破傷風は、芽胞形成菌 Clostridium tetani が汚染された創傷・熱傷から感染し、その神経毒素により筋痙攣・硬直・自律神経障害を起こす疾患である。世界の破傷風死亡は1990〜2019年に約90%減少した。診断は主に臨床所見に基づき、治療は感染源の制御、抗菌薬、抗毒素と集中治療からなる。
+    condition:
+      region: 国際
+      対象: 全年齢
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2122
+    source: 'Sudarshan R, Sayo AR, Renner DR, et al. Tetanus: recognition and management. Lancet Infect Dis. 2025;25(11):e645-e657.'
+    doi: 10.1016/S1473-3099(25)00292-0
+    pmid: '40543524'
+    pmcid: PMC7617864
+    url: https://doi.org/10.1016/S1473-3099(25)00292-0
+    source_license: CC BY
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 抗毒素として破傷風免疫ヒトグロブリンが国内でも治療に用いられることを公的資料で確認した。個別の抗菌薬名は本カードでは扱わない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-㉗（破傷風、b）
+    core_curriculum: 'PS-01-03-03 (id: JkxnuLE)；TBL-01-00-618 (id: JlvnmZ0)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-040
+  domain: BA
+  subdomain: 破傷風
+  assertion:
+    plain_statement_ja: 日本では破傷風は、1952年の破傷風トキソイド導入と1968年の三種混合ワクチン（DPT）定期接種化により届出が激減し、近年の届出は年間約100例である。患者はワクチン接種歴のない高齢者が中心で、新生児破傷風は1995年以降国内で報告がない。現在の定期接種は五種混合ワクチン（DPT-IPV-Hib）および二種混合ワクチン（DT）による。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2123
+    source: 国立健康危機管理研究機構. 破傷風（詳細版）.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://id-info.jihs.go.jp/infectious-diseases/tetanus/detail/index.html
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 年別届出数（2012〜2018年は118〜134例）は出典本文で確認した範囲であり、直近年の確定値は本カードでは扱わない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-㉗（破傷風、b）
+    core_curriculum: 'PS-03-03-16 (id: JkxnuVc)；TBL-01-00-618 (id: JlvnmZ0)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-041
+  domain: BA
+  subdomain: ボツリヌス症
+  assertion:
+    plain_statement_ja: ボツリヌス症は神経毒素による生命を脅かす疾患で、毒素は神経筋接合部でアセチルコリンの放出を阻害する。産生菌は主に Clostridium botulinum（まれに C. baratii、C. butyricum）である。脳神経麻痺から始まる弛緩性の下降性麻痺を特徴とし、病型は食餌性、創傷性、乳児、成人腸管定着、医原性である。治療は支持療法（必要に応じ挿管・人工呼吸）と抗毒素投与である。
+    condition:
+      region: 米国
+      対象: 全年齢
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2124
+    source: Rao AK, Sobel J, Chatham-Stephens K, Luquez C. Clinical Guidelines for Diagnosis and Treatment of Botulism, 2021. MMWR Recomm Rep. 2021;70(2):1-30.
+    doi: 10.15585/mmwr.rr7002a1
+    pmid: '33956777'
+    pmcid: PMC8112830
+    url: https://doi.org/10.15585/mmwr.rr7002a1
+    source_license: 米国政府資料（CDC）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: ボツリヌス抗毒素の国内承認・備蓄については一次資料で確認できておらず、国内の承認・保険適用は未確認。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-㉘（ボツリヌス症、b）
+    core_curriculum: 'PS-01-03-03 (id: JkxnuLE)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-042
+  domain: BA
+  subdomain: ボツリヌス症
+  assertion:
+    plain_statement_ja: 日本の乳児ボツリヌス症は1986年に初めて報告され、2020年までに42例を数える（全例1歳未満、月齢の中央値6か月）。ハチミツが推定原因とされたのは13例で、1987年に1歳未満の乳児にハチミツを与えない旨の通知が出された。食餌性ボツリヌス症は国内では1984年以降、約30〜35件の事例報告にとどまる。
+    condition:
+      region: 日本
+      対象: 乳児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2125
+    source: 国立健康危機管理研究機構. ボツリヌス症（詳細版）.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://id-info.jihs.go.jp/infectious-diseases/botulism/detail/index.html
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: ボツリヌス症は国内では4類感染症である。2017年にはハチミツを摂取した5か月乳児の死亡例があったことも出典に記載がある。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-㉘（ボツリヌス症、b）
+    core_curriculum: 'PS-01-03-03 (id: JkxnuLE)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-043
+  domain: BA
+  subdomain: 放線菌症
+  assertion:
+    plain_statement_ja: 放線菌症は、口腔・消化管・女性生殖器に常在する嫌気性グラム陽性菌 Actinomyces 属によるまれな慢性疾患である。典型像は、歯性感染巣に続く頸顔面型、子宮内避妊具（IUD）を使用する女性の骨盤型、口腔衛生不良の喫煙者の肺型で、悪性腫瘍と紛らわしいことがある。診断の要は培養と病理で、黄色の硫黄顆粒とフィラメント状のグラム陽性菌が特徴的所見である。治療はペニシリンGまたはアモキシシリンの高用量・長期（6〜12か月）投与が基本である。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2126
+    source: 'Valour F, Sénéchal A, Dupieux C, et al. Actinomycosis: etiology, clinical features, diagnosis, treatment, and management. Infect Drug Resist. 2014;7:183-197.'
+    doi: 10.2147/IDR.S39601
+    pmid: '25045274'
+    pmcid: PMC4094581
+    url: https://doi.org/10.2147/IDR.S39601
+    source_license: CC BY-NC
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ペニシリンG・アモキシシリンは国内承認のある抗菌薬だが、放線菌症への保険適用の範囲は未確認。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-㉙（放線菌症、b）
+    core_curriculum: 'PS-01-03-04 (id: JkxnuLI)；PS-03-03-05 (id: JkxnuUw)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-044
+  domain: BA
+  subdomain: ノカルジア症
+  assertion:
+    plain_statement_ja: Nocardia は分枝状の菌糸様外観を示すグラム陽性桿菌で、記載された種は50を超える。ノカルジア症は主に細胞性免疫の抑制状態で発症するが、免疫正常者にも起こりうる。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2127
+    source: 'Wilson JW. Nocardiosis: updates and clinical overview. Mayo Clin Proc. 2012;87(4):403-407.'
+    doi: 10.1016/j.mayocp.2011.11.016
+    pmid: '22469352'
+    pmcid: PMC3498414
+    url: https://doi.org/10.1016/j.mayocp.2011.11.016
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 種ごとに薬剤感受性が異なるため分子同定が臨床管理に重要とされるが、その根拠とした総説（Brown-Elliott 2006）は今回の出典には含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-㉚（ノカルジア症、b）
+    core_curriculum: 'PS-01-03-04 (id: JkxnuLI)；PS-03-03-05 (id: JkxnuUw)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: BA-045
+  domain: BA
+  subdomain: ジフテリア
+  assertion:
+    plain_statement_ja: ジフテリアの系統的レビューと統合解析（対象266論文）では、潜伏期間の中央値は1.4日、未治療例の保菌期間は平均18.5日（95%確信区間 17.7〜19.4）で95%が48日以内に菌が消失し、基本再生産数は1.7〜4.3と推定された。ジフテリアトキソイド3回接種の発症予防効果は87%（95%確信区間 68〜97%）で、伝播を60%減らす。
+    condition:
+      region: 国際
+      対象: 全年齢
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2128
+    source: 'Truelove SA, Keegan LT, Moss WJ, et al. Clinical and Epidemiological Aspects of Diphtheria: A Systematic Review and Pooled Analysis. Clin Infect Dis. 2020;71(1):89-97.'
+    doi: 10.1093/cid/ciz808
+    pmid: '31425581'
+    pmcid: PMC7312233
+    url: https://doi.org/10.1093/cid/ciz808
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 国内では定期予防接種により患者数が減少し2000年以降は報告がないことが JIHS の疾患ページで確認できるが、本カードの主張は系統的レビューの数値に限った。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-㉛（ジフテリア、c）
+    core_curriculum: 'PS-01-03-03 (id: JkxnuLE)；TBL-01-00-618 (id: JlvnmZ0)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+```
+
+## 3. curriculum 対応表（依頼文 §7 の表の転記）
+
+| 項目 | 対応 | 件数 |
+|---|---|---|
+| 医学各論 Ⅻ-2-A-①（クラミジア肺炎、a） | 済 | 1 |
+| 医学各論 Ⅻ-2-A-③（マイコプラズマ肺炎、a） | 済 | 1 |
+| 医学各論 Ⅻ-2-A-④（オウム病、b） | 済 | 1 |
+| 医学各論 Ⅻ-2-A-⑤（クラミジア結膜炎<トラコーマ>、b） | 済 | 1 |
+| 医学各論 Ⅻ-2-A-⑥（ツツガ虫病、b） | 済 | 1 |
+| 医学各論 Ⅻ-2-A-⑦（Q熱、c） | 済 | 1 |
+| 医学各論 Ⅻ-2-B-①（連鎖球菌感染症、a） | 済 | 3 |
+| 医学各論 Ⅻ-2-B-②（腸球菌感染症、a） | 済 | 2 |
+| 医学各論 Ⅻ-2-B-③（肺炎球菌感染症、a） | 済 | 2 |
+| 医学各論 Ⅻ-2-B-④（黄色ブドウ球菌感染症、メチシリン耐性黄色ブドウ球菌<MRSA>感染症、a） | 済 | 2 |
+| 医学各論 Ⅻ-2-B-⑤（表皮ブドウ球菌感染症、a） | 済 | 1 |
+| 医学各論 Ⅻ-2-B-⑦（髄膜炎菌感染症、a） | 済 | 2 |
+| 医学各論 Ⅻ-2-B-⑨（リステリア感染症、a） | 済 | 2 |
+| 医学各論 Ⅻ-2-B-⑩（モラクセラ・カタラリス感染症、a） | 済 | 1 |
+| 医学各論 Ⅻ-2-B-⑪（サルモネラ感染症、a） | 済 | 2 |
+| 医学各論 Ⅻ-2-B-⑫（百日咳、a） | 済 | 2 |
+| 医学各論 Ⅻ-2-B-⑬（大腸菌感染症、a） | 済 | 3 |
+| 医学各論 Ⅻ-2-B-⑭（クレブシエラ感染症、a） | 済 | 1 |
+| 医学各論 Ⅻ-2-B-⑮（セラチア感染症、a） | 済 | 1 |
+| 医学各論 Ⅻ-2-B-⑯（腸炎ビブリオ感染症、a） | 済 | 2 |
+| 医学各論 Ⅻ-2-B-⑰（レジオネラ症、a） | 済 | 2 |
+| 医学各論 Ⅻ-2-B-⑱（緑膿菌感染症、a） | 済 | 1 |
+| 医学各論 Ⅻ-2-B-⑲（アシネトバクター感染症、a） | 済 | 1 |
+| 医学各論 Ⅻ-2-B-⑳（ガス壊疽、a） | 済 | 1 |
+| 医学各論 Ⅻ-2-B-㉑（クロストリジウム・ディフィシル腸炎、a） | 対象外（既存 IN-080〜084 で充足） | 0 |
+| 医学各論 Ⅻ-2-B-㉒（バクテロイデス感染症、a） | 済 | 1 |
+| 医学各論 Ⅻ-2-B-㉓（梅毒、a） | 済 | 2 |
+| 医学各論 Ⅻ-2-B-㉔（ヘモフィルス感染症、b） | 済 | 2 |
+| 医学各論 Ⅻ-2-B-㉕（細菌性赤痢、b） | 済 | 1 |
+| 医学各論 Ⅻ-2-B-㉖（コレラ、b） | 済 | 1 |
+| 医学各論 Ⅻ-2-B-㉗（破傷風、b） | 済 | 2 |
+| 医学各論 Ⅻ-2-B-㉘（ボツリヌス症、b） | 済 | 2 |
+| 医学各論 Ⅻ-2-B-㉙（放線菌症、b） | 済 | 1 |
+| 医学各論 Ⅻ-2-B-㉚（ノカルジア症、b） | 済 | 1 |
+| 医学各論 Ⅻ-2-B-㉛（ジフテリア、c） | 済 | 1 |
+
+## 4. 未確認・未解決事項
+
+- BA-016 の出典（Ao 2015、Emerging Infectious Diseases 誌）の source_class は、発行元が CDC の機関誌であることから GOV_US と判定した。登録側の最終確認をお願いしたい（不可なら RESTRICTED への読み替え）。
+- Q熱の日本の届出数（CM-006）、ボツリヌス抗毒素の国内承認・備蓄（BA-041）、細菌性赤痢・コレラの国内の感染症法分類と届出数（BA-037・038）、放線菌症へのペニシリン系の保険適用範囲（BA-043）は一次資料で確認できず、主張に入れていない（各カードの uncertainty に明記）。
+- 百日咳の2025年届出数は集計方式により値が併存するため、BA-019 の主張には具体数を入れず uncertainty に併記した。
+- 公的機関（JIHS）の出典表記の正式な扱いは登録側の確認を推奨する（この回では厚生労働省・感染研系の資料を GOV_JP とした）。
+
+## 5. 引き継ぎ
+
+- 番号付記の候補：肺炎球菌ワクチンの側面は既存の RI-027〜029 が担っているため、この回では制度のカードを作らなかった。Ⅻ-2-B-③ への番号付記は取り込み側の判断に委ねる。
+- 使わなかった候補（出典リサーチで照合済み）：Waites 2004（マイコプラズマ総説）、Varghese 2023（ツツガ虫病の併用療法試験）、IASR 2022（ツツガ虫病特集）、Munoz-Price 2013（クレブシエラ KPC）、Disson 2025（リステリア総説）、Cunha 2016（レジオネラ総説）、IDSA AMR ガイダンス（2026年版が既刊で、記載薬の国内承認が未確認のため出典化しなかった）、Kanungo 2022（コレラ総説）、Brown-Elliott 2006（ノカルジア）。必要なら補完の回で使える。
+- IDSA 皮膚軟部組織感染症ガイドラインの全文版は SRC-1180（要約版）と同一内容の別版になるため、新規登録していない。

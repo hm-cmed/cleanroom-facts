@@ -1,0 +1,210 @@
+- id: CM-001
+  domain: CM
+  subdomain: クラミジア肺炎
+  assertion:
+    plain_statement_ja: Chlamydophila pneumoniae は市中肺炎の約10%、気管支炎の約5%の原因と推定される病原体で、感染者の大多数は無症状か軽症である。潜伏期は約21日と長く、咳や倦怠感が抗菌薬治療後も数週間から数か月続くことがある。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2081
+    source: Burillo A, Bouza E. Chlamydophila pneumoniae. Infect Dis Clin North Am. 2010;24(1):61-71.
+    doi: 10.1016/j.idc.2009.10.002
+    pmid: '20171546'
+    pmcid: null
+    url: https://doi.org/10.1016/j.idc.2009.10.002
+    source_license: CC表示なし（Elsevier 誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 肺炎の診療そのものは呼吸器分野の範囲であり、本カードは病原体・疫学の側面に絞った。割合はいずれも推定値である。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-A-①（クラミジア肺炎、a）
+    core_curriculum: 'PS-01-03-06 (id: JkxnuLQ)；PS-03-03-01 (id: JkxnuUg)；TBL-01-00-592 (id: JlvnmXc)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/35_if_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: CM-002
+  domain: CM
+  subdomain: マイコプラズマ肺炎
+  assertion:
+    plain_statement_ja: 日本では、肺炎マイコプラズマ（Mycoplasma pneumoniae）のマクロライド耐性株の割合は2002–2005年の6.9%から2010–2013年には86.2%まで上昇したが、その後は減少し、2018–2019年には11.3%となった。耐性は主に23S rRNAのA2063G変異による。
+    condition:
+      region: 日本
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2082
+    source: Morozumi M, Tajima T, Sakuma M, et al. Sequence Type Changes Associated with Decreasing Macrolide-Resistant Mycoplasma pneumoniae, Japan. Emerg Infect Dis. 2020;26(9):2210-2213.
+    doi: 10.3201/eid2609.191575
+    pmid: '32818419'
+    pmcid: PMC7454074
+    url: https://doi.org/10.3201/eid2609.191575
+    source_license: CC BY
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 期間別の耐性率は、出典の全文の表に示された感受性株の割合から換算した値であり、表から読み取った値である。トスフロキサシンは、マクロライドで反応しないマクロライド耐性例の小児に対して国内で承認された経緯が出典本文に記載されている。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-A-③（マイコプラズマ肺炎、a）
+    core_curriculum: 'PS-01-03-06 (id: JkxnuLQ)；PS-03-03-04 (id: JkxnuUs)；TBL-01-00-592 (id: JlvnmXc)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/35_if_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: CM-003
+  domain: CM
+  subdomain: オウム病
+  assertion:
+    plain_statement_ja: オウム病の原因菌 Chlamydia psittaci が市中肺炎に占める割合は、各100例以上の57研究を集めたメタ解析で1.03%（95%信頼区間0.79–1.30）であり、研究間の範囲は0〜6.7%だった。
+    condition:
+      region: 国際
+      対象: 市中肺炎患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2083
+    source: 'Hogerwerf L, de Gier B, Baan B, van der Hoek W. Chlamydia psittaci (psittacosis) as a cause of community-acquired pneumonia: a systematic review and meta-analysis. Epidemiol Infect. 2017;145(15):3096-3105.'
+    doi: 10.1017/S0950268817002060
+    pmid: '28946931'
+    pmcid: PMC9148753
+    url: https://doi.org/10.1017/S0950268817002060
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 鳥類との接触歴や診断の詳細は本カードでは扱わず、市中肺炎における病原体としての位置づけに絞った。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-A-④（オウム病、b）
+    core_curriculum: 'PS-01-03-06 (id: JkxnuLQ)；PS-01-03-16 (id: JkxnuL8)；TBL-01-00-592 (id: JlvnmXc)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/35_if_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: CM-004
+  domain: CM
+  subdomain: クラミジア結膜炎
+  assertion:
+    plain_statement_ja: トラコーマは Chlamydia trachomatis の結膜感染株による疾患で、感染性の失明原因の第1位である。反復する感染の蓄積が病態の基盤で、生涯で少なくとも150回の感染エピソードが睫毛内反の発症に必要とされ、2021年6月時点で世界で180万人がトラコーマにより失明していた。
+    condition:
+      region: 国際
+      対象: 流行地域の住民
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2084
+    source: Solomon AW, Burton MJ, Gower EW, et al. Trachoma. Nat Rev Dis Primers. 2022;8(1):32.
+    doi: 10.1038/s41572-022-00359-5
+    pmid: '35618795'
+    pmcid: null
+    url: https://doi.org/10.1038/s41572-022-00359-5
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 眼所見そのものは眼科分野の既存カードの範囲とし、本カードは病原体・反復感染と世界の疫学に絞った。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-A-⑤（クラミジア結膜炎<トラコーマ>、b）
+    core_curriculum: 'PS-01-03-06 (id: JkxnuLQ)；PS-01-03-02 (id: JkxnuLA)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/35_if_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: CM-005
+  domain: CM
+  subdomain: ツツガ虫病
+  assertion:
+    plain_statement_ja: ツツガ虫病はアジア太平洋地域の公衆衛生上の問題であり、世界で10億人が感染リスクにさらされ、毎年100万人が発症するとされる。適切な治療がなければ致死率は最大で70%に達する。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2085
+    source: Xu G, Walker DH, Jupiter D, Melby PC, Arcari CM. A review of the global epidemiology of scrub typhus. PLoS Negl Trop Dis. 2017;11(11):e0006062.
+    doi: 10.1371/journal.pntd.0006062
+    pmid: '29099844'
+    pmcid: PMC5687757
+    url: https://doi.org/10.1371/journal.pntd.0006062
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 日本の届出状況は本カードでは扱わず、世界の疫学に絞った。発症数とリスク人口はいずれも推計値である。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-A-⑥（ツツガ虫病、b）
+    core_curriculum: 'PS-01-03-06 (id: JkxnuLQ)；PS-01-03-17 (id: JkxnuMA)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/35_if_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: CM-006
+  domain: CM
+  subdomain: Q熱
+  assertion:
+    plain_statement_ja: Q熱は1937年にオーストラリアで初めて記載された人獣共通感染症で、原因菌 Coxiella burnetii は世界各地に分布する。近年の知見では「急性Q熱／慢性Q熱」という二分法は見直され、持続感染には必ず感染巣が存在するとされる。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2086
+    source: 'Eldin C, Mélenotte C, Mediannikov O, et al. From Q Fever to Coxiella burnetii Infection: a Paradigm Change. Clin Microbiol Rev. 2017;30(1):115-190.'
+    doi: 10.1128/CMR.00045-16
+    pmid: '27856520'
+    pmcid: PMC5217791
+    url: https://doi.org/10.1128/CMR.00045-16
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 日本では4類感染症（全数把握）だが、日本の届出数の一次資料は確認できなかったため、届出数については主張に入れていない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-A-⑦（Q熱、c）
+    core_curriculum: 'PS-01-03-16 (id: JkxnuL8)；PS-03-03-01 (id: JkxnuUg)'
+  publication_info:
+    created: '2026-10-29'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-29'
+    by: claude-code
+    change: 取り込み：raw/35_if_c.md から（新形式。legal_basis・source_class は原本の値）

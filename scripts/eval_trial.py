@@ -53,7 +53,9 @@ def load_reference() -> dict:
     sources = yaml.safe_load((ROOT / "data" / "sources" / "sources.yaml").read_text(encoding="utf-8"))
     return {"kokushi": kok, "core": core, "existing": existing,
             "src_ids": {s["id"] for s in sources},
-            "src_doi": {str(s["doi"]).lower(): s["id"] for s in sources if s.get("doi")}}
+            # 同じ DOI の番号が複数ある（重複を整理して残した番号）ときは、小さい番号（統合先）を正とする
+            "src_doi": {d: i for d, i in sorted(((str(s["doi"]).lower(), s["id"]) for s in sources if s.get("doi")),
+                                                 key=lambda x: -int(x[1].split("-")[1]))}}
 
 
 def parse(path: Path) -> dict:
