@@ -1,0 +1,48 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round38_HM.md
+round: 41
+name: 血液・造血器 第41回（PB）
+id_start:
+  PB: 1
+src_range:
+- 2731
+- 2810
+target_cards:
+- 8
+- 25
+targets:
+- code: Ⅶ-5-A-①
+  name: ビタミンK欠乏症
+  level: a
+  prefix: PB
+- code: Ⅶ-5-A-②
+  name: サラセミア
+  level: b
+  prefix: PB
+- code: Ⅶ-5-A-③
+  name: 新生児出血性疾患
+  level: b
+  prefix: PB
+- code: Ⅶ-5-A-④
+  name: 異常ヘモグロビン症
+  level: c
+  prefix: PB
+- code: Ⅶ-5-A-⑤
+  name: 遺伝性球状赤血球症
+  level: c
+  prefix: PB
+- code: Ⅶ-5-A-⑥
+  name: 赤血球酵素異常症
+  level: c
+  prefix: PB
+- code: Ⅶ-5-A-⑦
+  name: 先天性血小板機能異常症
+  level: c
+  prefix: PB
+- code: Ⅶ-5-B-①
+  name: 白血病
+  level: a
+  prefix: PB
+- code: Ⅶ-5-B-②
+  name: 悪性リンパ腫
+  level: b
+  prefix: PB

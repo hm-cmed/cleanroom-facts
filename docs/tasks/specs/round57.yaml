@@ -1,0 +1,97 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round55_EV.md
+round: 57
+name: 生活環境・職業性 第57回（EV・OX）
+id_start:
+  EV: 1
+  OX: 1
+src_range:
+- 4116
+- 4210
+target_cards:
+- 25
+- 45
+targets:
+- code: ⅩⅢ-5-A-①
+  name: 熱中症
+  level: a
+  prefix: EV
+- code: ⅩⅢ-5-A-②
+  name: 偶発性低体温{症}
+  level: a
+  prefix: EV
+- code: ⅩⅢ-5-A-③
+  name: 凍傷・凍瘡
+  level: a
+  prefix: EV
+- code: ⅩⅢ-5-B-①
+  name: 騒音性難聴
+  level: a
+  prefix: EV
+- code: ⅩⅢ-5-C-①
+  name: 動揺病
+  level: b
+  prefix: EV
+- code: ⅩⅢ-5-C-②
+  name: 手腕振動障害
+  level: b
+  prefix: EV
+- code: ⅩⅢ-5-D-①
+  name: 減圧症
+  level: b
+  prefix: EV
+- code: ⅩⅢ-5-D-②
+  name: 高山病
+  level: b
+  prefix: EV
+- code: ⅩⅢ-5-E-①
+  name: 急性放射線障害
+  level: b
+  prefix: EV
+- code: ⅩⅢ-5-E-②
+  name: 放射線による発がん
+  level: b
+  prefix: EV
+- code: ⅩⅢ-5-F
+  name: 非電離放射線障害
+  level: b
+  prefix: EV
+- code: ⅩⅢ-5-G-①
+  name: 誤飲
+  level: a
+  prefix: EV
+- code: ⅩⅢ-5-G-②
+  name: 誤嚥
+  level: a
+  prefix: EV
+- code: ⅩⅢ-5-G-③
+  name: 創傷
+  level: a
+  prefix: EV
+- code: ⅩⅢ-5-G-④
+  name: 熱傷
+  level: a
+  prefix: EV
+- code: ⅩⅢ-5-G-⑤
+  name: 急性中毒
+  level: a
+  prefix: EV
+- code: ⅩⅢ-5-H-①
+  name: 化学物質過敏症
+  level: c
+  prefix: EV
+- code: ⅩⅢ-5-H-②
+  name: シックハウス症候群<シックビル症候群>
+  level: c
+  prefix: EV
+- code: ⅩⅢ-5-I-①
+  name: 交通事故
+  level: a
+  prefix: EV
+- code: ⅩⅢ-5-I-②
+  name: 家庭内事故
+  level: a
+  prefix: EV
+- code: ⅩⅢ-5-I-③
+  name: 自然災害
+  level: a
+  prefix: EV

@@ -1,0 +1,74 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round51_PS.md
+round: 53
+name: 精神・心身医学 第53回（DV・PR・PX）
+id_start:
+  DV: 1
+  PR: 1
+  PX: 1
+src_range:
+- 3831
+- 3960
+target_cards:
+- 25
+- 50
+targets:
+- code: Ⅱ-5-A
+  name: 知的障害<知的発達症><精神遅滞>
+  level: a
+  prefix: DV
+- code: Ⅱ-5-B-①
+  name: 限局性学習障害<発達性学習症>
+  level: b
+  prefix: DV
+- code: Ⅱ-5-C-①
+  name: 発達性協調運動症<発達性協調運動障害>
+  level: c
+  prefix: DV
+- code: Ⅱ-5-C-②
+  name: 常動運動症<常動運動障害>
+  level: c
+  prefix: DV
+- code: Ⅱ-5-D
+  name: 自閉スペクトラム症
+  level: a
+  prefix: DV
+- code: Ⅱ-5-E
+  name: 注意欠如多動性障害<注意欠如多動症><ADHD>
+  level: a
+  prefix: DV
+- code: Ⅱ-5-F-①
+  name: 素行障害<素行・非社会的行動症><行為障害>、反抗挑発症
+  level: b
+  prefix: DV
+- code: Ⅱ-5-G
+  name: 場面緘黙
+  level: c
+  prefix: DV
+- code: Ⅱ-5-H-①
+  name: Tourette障害<Tourette症>
+  level: c
+  prefix: DV
+- code: Ⅱ-5-I-①
+  name: 小児期発症流暢症<小児期発症流暢障害（吃音）>
+  level: c
+  prefix: DV
+- code: Ⅱ-5-J-①
+  name: 反応性アタッチメント症<反応性愛着障害>
+  level: c
+  prefix: DV
+- code: Ⅱ-5-J-②
+  name: 脱抑制性対人交流症<脱抑制型対人交流障害>
+  level: c
+  prefix: DV
+- code: Ⅱ-6-A-①
+  name: 境界性パーソナリティ障害<ボーダーラインパターン>
+  level: b
+  prefix: PR
+- code: Ⅱ-6-B-①
+  name: 放火症、窃盗症
+  level: c
+  prefix: PR
+- code: Ⅱ-6-C-①
+  name: 窃視症、露出症、窃触症、小児性愛、フェティシズム
+  level: c
+  prefix: PR

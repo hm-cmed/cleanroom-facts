@@ -1,0 +1,71 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round51_PS.md
+round: 51
+name: 精神・心身医学 第51回（OG・SB・SZ・MD）
+id_start:
+  OG: 1
+  SB: 1
+  SZ: 1
+  MD: 1
+src_range:
+- 3611
+- 3720
+target_cards:
+- 28
+- 55
+targets:
+- code: Ⅱ-1-B-①
+  name: Parkinson病、進行性核上性麻痺、Wernicke脳症、多発性硬化症
+  level: a
+  prefix: OG
+- code: Ⅱ-1-C-①
+  name: 肝性脳症、Wilson病、甲状腺機能障害、副腎皮質機能障害、全身性エリテマトーデス<SLE>
+  level: a
+  prefix: OG
+- code: Ⅱ-1-D
+  name: せん妄
+  level: a
+  prefix: OG
+- code: Ⅱ-1-E-①
+  name: アルコール依存症
+  level: a
+  prefix: SB
+- code: Ⅱ-1-E-②
+  name: 精神病性障害(アルコール精神病、覚醒剤精神病、大麻精神病)
+  level: b
+  prefix: SB
+- code: Ⅱ-1-E-③
+  name: ギャンブル障害<ギャンブル依存>、ゲーム依存
+  level: c
+  prefix: SB
+- code: Ⅱ-2-A-①
+  name: うつ病
+  level: a
+  prefix: MD
+- code: Ⅱ-2-A-②
+  name: 双極性障害<躁うつ病>
+  level: a
+  prefix: MD
+- code: Ⅱ-2-B-①
+  name: 妄想型統合失調症
+  level: a
+  prefix: SZ
+- code: Ⅱ-2-B-②
+  name: 破瓜型統合失調症
+  level: a
+  prefix: SZ
+- code: Ⅱ-2-B-③
+  name: 緊張型統合失調症
+  level: a
+  prefix: SZ
+- code: Ⅱ-2-C
+  name: 妄想性障害
+  level: b
+  prefix: SZ
+- code: Ⅱ-2-D
+  name: 急性一過性精神病性障害<非定型精神病>
+  level: b
+  prefix: SZ
+- code: Ⅱ-2-E
+  name: 統合失調感情障害
+  level: b
+  prefix: SZ

@@ -1,0 +1,68 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round42_IM.md
+round: 42
+name: アレルギー・膠原病・免疫 第42回（AL）
+id_start:
+  AL: 1
+src_range:
+- 2811
+- 2900
+target_cards:
+- 15
+- 35
+targets:
+- code: Ⅺ-1-A-①
+  name: アナフィラキシー
+  level: a
+  prefix: AL
+- code: Ⅺ-1-A-②
+  name: 薬物アレルギー
+  level: a
+  prefix: AL
+- code: Ⅺ-1-A-③
+  name: 食物アレルギー
+  level: a
+  prefix: AL
+- code: Ⅺ-1-A-④
+  name: 職業性アレルギー
+  level: b
+  prefix: AL
+- code: Ⅺ-1-A-⑤
+  name: 血清病
+  level: c
+  prefix: AL
+- code: Ⅺ-1-A-⑥
+  name: 昆虫・ダニアレルギー
+  level: c
+  prefix: AL
+- code: Ⅺ-1-B-①
+  name: アレルギー性結膜炎
+  level: a
+  prefix: AL
+- code: Ⅺ-1-B-②
+  name: 鼻アレルギー<アレルギー性鼻炎>
+  level: a
+  prefix: AL
+- code: Ⅺ-1-B-③
+  name: 花粉症
+  level: a
+  prefix: AL
+- code: Ⅺ-1-B-④
+  name: 蕁麻疹
+  level: a
+  prefix: AL
+- code: Ⅺ-1-B-⑥
+  name: アレルギー性接触皮膚炎
+  level: a
+  prefix: AL
+- code: Ⅺ-1-B-⑦
+  name: 血管性浮腫
+  level: a
+  prefix: AL
+- code: Ⅺ-1-C-②
+  name: アレルギー性気管支肺真菌症
+  level: b
+  prefix: AL
+- code: Ⅺ-1-C-③
+  name: 過敏性肺炎
+  level: b
+  prefix: AL

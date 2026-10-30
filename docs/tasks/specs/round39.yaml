@@ -1,0 +1,105 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round38_HM.md
+round: 39
+name: 血液・造血器 第39回（ML・LY）
+id_start:
+  ML: 1
+  LY: 1
+src_range:
+- 2551
+- 2640
+target_cards:
+- 35
+- 70
+targets:
+- code: Ⅶ-2-A-①
+  name: 薬剤性無顆粒球症
+  level: a
+  prefix: ML
+- code: Ⅶ-2-B-①
+  name: 急性骨髄性白血病
+  level: a
+  prefix: ML
+- code: Ⅶ-2-B-②
+  name: 慢性骨髄性白血病
+  level: a
+  prefix: ML
+- code: Ⅶ-2-B-③
+  name: 原発性骨髄線維症
+  level: b
+  prefix: ML
+- code: Ⅶ-2-B-④
+  name: 本態性血小板血症
+  level: b
+  prefix: ML
+- code: Ⅶ-2-B-⑤
+  name: 真性赤血球増加症
+  level: b
+  prefix: ML
+- code: Ⅶ-2-B-⑥
+  name: 慢性好酸球性白血病
+  level: c
+  prefix: ML
+- code: Ⅶ-2-C
+  name: 類白血病反応
+  level: b
+  prefix: ML
+- code: Ⅶ-3-A
+  name: 急性リンパ性白血病
+  level: a
+  prefix: LY
+- code: Ⅶ-3-B
+  name: Hodgkinリンパ腫
+  level: a
+  prefix: LY
+- code: Ⅶ-3-C-①
+  name: 慢性リンパ性白血病
+  level: b
+  prefix: LY
+- code: Ⅶ-3-C-②
+  name: 濾胞性リンパ腫
+  level: b
+  prefix: LY
+- code: Ⅶ-3-C-③
+  name: びまん性大細胞型B細胞リンパ腫
+  level: a
+  prefix: LY
+- code: Ⅶ-3-C-④
+  name: 多発性骨髄腫
+  level: a
+  prefix: LY
+- code: Ⅶ-3-C-⑤
+  name: 粘膜関連リンパ組織<MALT>リンパ腫
+  level: b
+  prefix: LY
+- code: Ⅶ-3-C-⑥
+  name: マクログロブリン血症
+  level: b
+  prefix: LY
+- code: Ⅶ-3-C-⑦
+  name: 意義不明の単クローン性免疫グロブリン血症<MGUS>
+  level: b
+  prefix: LY
+- code: Ⅶ-3-C-⑧
+  name: Burkittリンパ腫
+  level: c
+  prefix: LY
+- code: Ⅶ-3-C-⑨
+  name: 原発性アミロイドーシス
+  level: c
+  prefix: LY
+- code: Ⅶ-3-D-①
+  name: 成人T細胞白血病・リンパ腫
+  level: b
+  prefix: LY
+- code: Ⅶ-3-D-②
+  name: 末梢T細胞性リンパ腫
+  level: c
+  prefix: LY
+- code: Ⅶ-3-F-①
+  name: 血球貪食性リンパ組織球症<HLH>
+  level: c
+  prefix: LY
+- code: Ⅶ-3-G
+  name: 伝染性単核球症
+  level: a
+  prefix: LY

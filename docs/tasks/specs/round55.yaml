@@ -1,0 +1,89 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round55_EV.md
+round: 55
+name: 生活環境・職業性 第55回（FP・TX）
+id_start:
+  FP: 1
+  TX: 1
+src_range:
+- 3961
+- 4025
+target_cards:
+- 25
+- 45
+targets:
+- code: ⅩⅢ-1-A-①
+  name: 細菌性食中毒
+  level: a
+  prefix: FP
+- code: ⅩⅢ-1-A-②
+  name: ウイルス性食中毒
+  level: a
+  prefix: FP
+- code: ⅩⅢ-1-A-③
+  name: 化学性食中毒
+  level: b
+  prefix: FP
+- code: ⅩⅢ-1-A-④
+  name: 自然毒食中毒
+  level: b
+  prefix: FP
+- code: ⅩⅢ-1-B-①
+  name: 節足動物による疾患
+  level: b
+  prefix: FP
+- code: ⅩⅢ-1-B-②
+  name: 毒蛇咬傷
+  level: c
+  prefix: FP
+- code: ⅩⅢ-1-C-①
+  name: 旅行者下痢症
+  level: b
+  prefix: FP
+- code: ⅩⅢ-2-A-①
+  name: 急性アルコール中毒
+  level: a
+  prefix: TX
+- code: ⅩⅢ-2-A-②
+  name: アルコール依存症
+  level: a
+  prefix: TX
+- code: ⅩⅢ-2-A-③
+  name: アルコール精神病
+  level: a
+  prefix: TX
+- code: ⅩⅢ-2-A-④
+  name: 慢性アルコール性臓器障害
+  level: a
+  prefix: TX
+- code: ⅩⅢ-2-A-⑤
+  name: 妊婦・胎児への影響、胎児性アルコール症候群
+  level: b
+  prefix: TX
+- code: ⅩⅢ-2-B-①
+  name: 睡眠薬依存・中毒
+  level: a
+  prefix: TX
+- code: ⅩⅢ-2-B-②
+  name: 向精神薬依存・中毒
+  level: a
+  prefix: TX
+- code: ⅩⅢ-2-B-③
+  name: 解熱鎮痛薬依存・中毒
+  level: a
+  prefix: TX
+- code: ⅩⅢ-2-B-④
+  name: 麻薬依存・中毒
+  level: a
+  prefix: TX
+- code: ⅩⅢ-2-B-⑤
+  name: 覚醒剤依存・中毒
+  level: b
+  prefix: TX
+- code: ⅩⅢ-2-B-⑥
+  name: 有機溶剤依存・中毒
+  level: b
+  prefix: TX
+- code: ⅩⅢ-2-C
+  name: 毒劇物中毒
+  level: b
+  prefix: TX

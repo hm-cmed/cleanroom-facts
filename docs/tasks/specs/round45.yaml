@@ -1,0 +1,68 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round42_IM.md
+round: 45
+name: アレルギー・膠原病・免疫 第45回（ID）
+id_start:
+  ID: 1
+src_range:
+- 3081
+- 3160
+target_cards:
+- 10
+- 25
+targets:
+- code: Ⅺ-3-A-①
+  name: 重症複合免疫不全症
+  level: c
+  prefix: ID
+- code: Ⅺ-3-B-①
+  name: 選択的IgA欠損症
+  level: b
+  prefix: ID
+- code: Ⅺ-3-B-②
+  name: 無ガンマグロブリン血症
+  level: c
+  prefix: ID
+- code: Ⅺ-3-B-③
+  name: 高IgM症候群
+  level: c
+  prefix: ID
+- code: Ⅺ-3-C-①
+  name: Wiskott-Aldrich症候群
+  level: c
+  prefix: ID
+- code: Ⅺ-3-C-②
+  name: 毛細血管拡張性失調症<ataxia telangiectasia>
+  level: c
+  prefix: ID
+- code: Ⅺ-3-C-③
+  name: 胸腺低形成<DiGeorge症候群>
+  level: c
+  prefix: ID
+- code: Ⅺ-3-D-①
+  name: Chédiak-Higashi症候群
+  level: c
+  prefix: ID
+- code: Ⅺ-3-E-①
+  name: 慢性肉芽腫症、重症先天性好中球減少症
+  level: c
+  prefix: ID
+- code: Ⅺ-3-F-①
+  name: 遺伝性血管性浮腫
+  level: b
+  prefix: ID
+- code: Ⅺ-3-F-②
+  name: 先天性補体欠損症
+  level: c
+  prefix: ID
+- code: Ⅺ-4-B
+  name: 悪性腫瘍による免疫不全症
+  level: a
+  prefix: ID
+- code: Ⅺ-4-C
+  name: 自己免疫疾患による免疫不全症
+  level: a
+  prefix: ID
+- code: Ⅺ-4-D
+  name: 医原性免疫不全症
+  level: a
+  prefix: ID

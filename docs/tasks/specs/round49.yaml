@@ -1,0 +1,69 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round46_PN.md
+# id_start が null の接頭辞は前の回の続きの番号（前の回の取り込み後に決まる）。開始番号は検査せず、欠番だけを見る
+round: 49
+name: 周産期・先天・成長発達 第49回（NB）
+id_start:
+  NB: null
+src_range:
+- 3431
+- 3520
+target_cards:
+- 12
+- 30
+targets:
+- code: Ⅰ-3-E-①
+  name: 高ビリルビン血症
+  level: a
+  prefix: NB
+- code: Ⅰ-3-E-②
+  name: 新生児溶血性疾患
+  level: b
+  prefix: NB
+- code: Ⅰ-3-F-①
+  name: 低血糖、低カルシウム血症
+  level: b
+  prefix: NB
+- code: Ⅰ-3-G-①
+  name: 敗血症、髄膜炎
+  level: a
+  prefix: NB
+- code: Ⅰ-3-H-①
+  name: ビタミンK欠乏症
+  level: a
+  prefix: NB
+- code: Ⅰ-3-H-②
+  name: 頭蓋内出血
+  level: b
+  prefix: NB
+- code: Ⅰ-3-H-③
+  name: 帽状腱膜下出血
+  level: b
+  prefix: NB
+- code: Ⅰ-3-H-④
+  name: 頭血腫
+  level: b
+  prefix: NB
+- code: Ⅰ-3-H-⑤
+  name: 未熟児網膜症
+  level: b
+  prefix: NB
+- code: Ⅰ-3-H-⑥
+  name: 低体温症
+  level: c
+  prefix: NB
+- code: Ⅰ-3-H-⑦
+  name: 先天性甲状腺機能低下症
+  level: c
+  prefix: NB
+- code: Ⅰ-3-H-⑧
+  name: 未熟児貧血
+  level: c
+  prefix: NB
+- code: Ⅰ-3-H-⑨
+  name: 分娩外傷
+  level: c
+  prefix: NB
+- code: Ⅰ-3-H-⑩
+  name: 壊死性腸炎
+  level: c
+  prefix: NB

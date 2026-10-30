@@ -1,4 +1,4 @@
-# 医師国家試験出題基準（令和6年版）医学各論の小項目（番号・名称・レベル）。Ⅲ・Ⅳ・Ⅷ・Ⅸ・Ⅹ は 2026-10-28、Ⅻ は 2026-10-29、Ⅴ は 2026-10-25、Ⅵ は 2026-10-21 に転記
+# 医師国家試験出題基準（令和6年版）医学各論の小項目（番号・名称・レベル）。Ⅲ・Ⅳ・Ⅷ・Ⅸ・Ⅹ は 2026-10-28、Ⅻ は 2026-10-29、Ⅰ・Ⅱ・Ⅶ・Ⅺ・ⅩⅢ は 2026-10-31、Ⅴ は 2026-10-25、Ⅵ は 2026-10-21 に転記
 # 出典：厚生労働省 医学各論 PDF https://www.mhlw.go.jp/content/10803000/001079484.pdf
 # 備考欄は転記していない。項目の構成（番号・名称・レベル）だけを、問題の分類と配分の計算に使う。
 # checked: 原本 PDF と人が照合したら true にする（2026-10-21 は Claude Code の読み取り結果からの転記で、未照合）。
@@ -1419,3 +1419,426 @@ chapters:
           - {code: Ⅻ-4-A-⑯, name: "クリプトスポリジウム症", level: c}
           - {code: Ⅻ-4-A-⑰, name: "ジアルジア症", level: c}
           - {code: Ⅻ-4-A-⑱, name: "プリオン病", level: c}
+  - id: Ⅶ
+    name: 血液・造血器疾患
+    note: 2026-10-31 に、Muse の登録資料の下書き（proposals/38_hm_registration_draft.md）と厚生労働省 PDF のテキスト層を突き合わせて転記。全62項目の番号・名称・レベルが一致した。小項目の番号がない中項目は中項目の番号を code にした。原文の波括弧（省略可能な字）は外した。人による原本照合は未了。
+    groups:
+      - id: "1"
+        name: 赤血球系疾患
+        items:
+          - {code: Ⅶ-1-A-①, name: "鉄欠乏性貧血", level: a}
+          - {code: Ⅶ-1-A-②, name: "鉄過剰症", level: c}
+          - {code: Ⅶ-1-B-①, name: "ビタミンB12欠乏性貧血", level: a}
+          - {code: Ⅶ-1-B-②, name: "葉酸欠乏性貧血", level: c}
+          - {code: Ⅶ-1-C-①, name: "自己免疫性溶血性貧血", level: b}
+          - {code: Ⅶ-1-C-②, name: "冷式抗体による溶血性貧血", level: b}
+          - {code: Ⅶ-1-C-③, name: "赤血球破砕症候群", level: b}
+          - {code: Ⅶ-1-D-①, name: "再生不良性貧血", level: a}
+          - {code: Ⅶ-1-D-②, name: "骨髄異形成症候群<MDS>", level: a}
+          - {code: Ⅶ-1-D-③, name: "発作性夜間ヘモグロビン尿症", level: b}
+          - {code: Ⅶ-1-D-④, name: "赤芽球癆", level: c}
+          - {code: Ⅶ-1-E-①, name: "慢性疾患に伴う貧血<ACD>", level: a}
+          - {code: Ⅶ-1-E-②, name: "腎性貧血、内分泌異常による貧血", level: a}
+          - {code: Ⅶ-1-F, name: "出血性貧血", level: a}
+          - {code: Ⅶ-1-G, name: "二次性赤血球増加症", level: b}
+      - id: "2"
+        name: 白血球系疾患とその他の骨髄性疾患
+        items:
+          - {code: Ⅶ-2-A-①, name: "薬剤性無顆粒球症", level: a}
+          - {code: Ⅶ-2-B-①, name: "急性骨髄性白血病", level: a}
+          - {code: Ⅶ-2-B-②, name: "慢性骨髄性白血病", level: a}
+          - {code: Ⅶ-2-B-③, name: "原発性骨髄線維症", level: b}
+          - {code: Ⅶ-2-B-④, name: "本態性血小板血症", level: b}
+          - {code: Ⅶ-2-B-⑤, name: "真性赤血球増加症", level: b}
+          - {code: Ⅶ-2-B-⑥, name: "慢性好酸球性白血病", level: c}
+          - {code: Ⅶ-2-C, name: "類白血病反応", level: b}
+      - id: "3"
+        name: リンパ系疾患
+        items:
+          - {code: Ⅶ-3-A, name: "急性リンパ性白血病", level: a}
+          - {code: Ⅶ-3-B, name: "Hodgkinリンパ腫", level: a}
+          - {code: Ⅶ-3-C-①, name: "慢性リンパ性白血病", level: b}
+          - {code: Ⅶ-3-C-②, name: "濾胞性リンパ腫", level: b}
+          - {code: Ⅶ-3-C-③, name: "びまん性大細胞型B細胞リンパ腫", level: a}
+          - {code: Ⅶ-3-C-④, name: "多発性骨髄腫", level: a}
+          - {code: Ⅶ-3-C-⑤, name: "粘膜関連リンパ組織<MALT>リンパ腫", level: b}
+          - {code: Ⅶ-3-C-⑥, name: "マクログロブリン血症", level: b}
+          - {code: Ⅶ-3-C-⑦, name: "意義不明の単クローン性免疫グロブリン血症<MGUS>", level: b}
+          - {code: Ⅶ-3-C-⑧, name: "Burkittリンパ腫", level: c}
+          - {code: Ⅶ-3-C-⑨, name: "原発性アミロイドーシス", level: c}
+          - {code: Ⅶ-3-D-①, name: "成人T細胞白血病・リンパ腫", level: b}
+          - {code: Ⅶ-3-D-②, name: "末梢T細胞性リンパ腫", level: c}
+          - {code: Ⅶ-3-F-①, name: "血球貪食性リンパ組織球症<HLH>", level: c}
+          - {code: Ⅶ-3-G, name: "伝染性単核球症", level: a}
+      - id: "4"
+        name: 出血性疾患と血栓傾向
+        items:
+          - {code: Ⅶ-4-A-①, name: "免疫性血小板減少症<ITP>", level: a}
+          - {code: Ⅶ-4-A-②, name: "血栓性血小板減少性紫斑病<TTP>", level: a}
+          - {code: Ⅶ-4-A-③, name: "溶血性尿毒症症候群<HUS>", level: a}
+          - {code: Ⅶ-4-A-④, name: "ヘパリン起因性血小板減少症<HIT>", level: a}
+          - {code: Ⅶ-4-A-⑤, name: "二次性血小板減少症", level: b}
+          - {code: Ⅶ-4-A-⑥, name: "後天性血小板機能異常症", level: b}
+          - {code: Ⅶ-4-B-①, name: "血友病", level: a}
+          - {code: Ⅶ-4-B-②, name: "播種性血管内凝固<DIC>", level: a}
+          - {code: Ⅶ-4-B-③, name: "von Willebrand病", level: b}
+          - {code: Ⅶ-4-B-④, name: "自己免疫性後天性凝固因子欠乏症", level: b}
+          - {code: Ⅶ-4-B-⑤, name: "ビタミンK欠乏症", level: b}
+          - {code: Ⅶ-4-C-①, name: "IgA血管炎", level: b}
+          - {code: Ⅶ-4-C-②, name: "遺伝性出血性末梢血管拡張症<Osler病>", level: c}
+          - {code: Ⅶ-4-D-①, name: "先天性血栓形成傾向", level: b}
+          - {code: Ⅶ-4-D-②, name: "後天性血栓形成傾向", level: b}
+      - id: "5"
+        name: その他の重要な小児領域の疾患
+        items:
+          - {code: Ⅶ-5-A-①, name: "ビタミンK欠乏症", level: a}
+          - {code: Ⅶ-5-A-②, name: "サラセミア", level: b}
+          - {code: Ⅶ-5-A-③, name: "新生児出血性疾患", level: b}
+          - {code: Ⅶ-5-A-④, name: "異常ヘモグロビン症", level: c}
+          - {code: Ⅶ-5-A-⑤, name: "遺伝性球状赤血球症", level: c}
+          - {code: Ⅶ-5-A-⑥, name: "赤血球酵素異常症", level: c}
+          - {code: Ⅶ-5-A-⑦, name: "先天性血小板機能異常症", level: c}
+          - {code: Ⅶ-5-B-①, name: "白血病", level: a}
+          - {code: Ⅶ-5-B-②, name: "悪性リンパ腫", level: b}
+  - id: Ⅺ
+    name: アレルギー性疾患、膠原病、免疫病
+    note: 2026-10-31 に、Muse の登録資料の下書き（proposals/42_im_registration_draft.md）と厚生労働省 PDF のテキスト層を突き合わせて転記。全65項目の番号・名称・レベルが一致した。小項目の番号がない中項目は中項目の番号を code にした。原文の波括弧（省略可能な字）は外した。人による原本照合は未了。
+    groups:
+      - id: "1"
+        name: アレルギー性疾患
+        items:
+          - {code: Ⅺ-1-A-①, name: "アナフィラキシー", level: a}
+          - {code: Ⅺ-1-A-②, name: "薬物アレルギー", level: a}
+          - {code: Ⅺ-1-A-③, name: "食物アレルギー", level: a}
+          - {code: Ⅺ-1-A-④, name: "職業性アレルギー", level: b}
+          - {code: Ⅺ-1-A-⑤, name: "血清病", level: c}
+          - {code: Ⅺ-1-A-⑥, name: "昆虫・ダニアレルギー", level: c}
+          - {code: Ⅺ-1-B-①, name: "アレルギー性結膜炎", level: a}
+          - {code: Ⅺ-1-B-②, name: "鼻アレルギー<アレルギー性鼻炎>", level: a}
+          - {code: Ⅺ-1-B-③, name: "花粉症", level: a}
+          - {code: Ⅺ-1-B-④, name: "蕁麻疹", level: a}
+          - {code: Ⅺ-1-B-⑤, name: "アトピー性皮膚炎", level: a}
+          - {code: Ⅺ-1-B-⑥, name: "アレルギー性接触皮膚炎", level: a}
+          - {code: Ⅺ-1-B-⑦, name: "血管性浮腫", level: a}
+          - {code: Ⅺ-1-C-①, name: "気管支喘息", level: a}
+          - {code: Ⅺ-1-C-②, name: "アレルギー性気管支肺真菌症", level: b}
+          - {code: Ⅺ-1-C-③, name: "過敏性肺炎", level: b}
+      - id: "2"
+        name: 膠原病と類縁疾患
+        items:
+          - {code: Ⅺ-2-A-①, name: "関節リウマチ", level: a}
+          - {code: Ⅺ-2-A-②, name: "悪性関節リウマチ", level: b}
+          - {code: Ⅺ-2-A-③, name: "成人Still病", level: b}
+          - {code: Ⅺ-2-B-①, name: "体軸性脊椎関節炎、強直性脊椎炎", level: b}
+          - {code: Ⅺ-2-B-②, name: "末梢性脊椎関節炎", level: b}
+          - {code: Ⅺ-2-B-③, name: "掌蹠膿疱症性骨関節炎", level: b}
+          - {code: Ⅺ-2-C-①, name: "全身性エリテマトーデス<SLE>", level: a}
+          - {code: Ⅺ-2-C-②, name: "Sjögren症候群", level: a}
+          - {code: Ⅺ-2-C-③, name: "全身性強皮症", level: a}
+          - {code: Ⅺ-2-C-④, name: "皮膚筋炎、多発性筋炎", level: a}
+          - {code: Ⅺ-2-C-⑤, name: "混合性結合組織病", level: b}
+          - {code: Ⅺ-2-C-⑥, name: "抗リン脂質抗体症候群", level: b}
+          - {code: Ⅺ-2-D-①, name: "巨細胞性動脈炎", level: a}
+          - {code: Ⅺ-2-D-②, name: "顕微鏡的多発血管炎", level: a}
+          - {code: Ⅺ-2-D-③, name: "多発血管炎性肉芽腫症", level: a}
+          - {code: Ⅺ-2-D-④, name: "Behçet病", level: a}
+          - {code: Ⅺ-2-D-⑤, name: "リウマチ性多発筋痛症", level: a}
+          - {code: Ⅺ-2-D-⑥, name: "高安動脈炎", level: b}
+          - {code: Ⅺ-2-D-⑦, name: "結節性多発動脈炎", level: b}
+          - {code: Ⅺ-2-D-⑧, name: "好酸球性多発血管炎性肉芽腫症", level: b}
+          - {code: Ⅺ-2-D-⑨, name: "IgA血管炎", level: b}
+          - {code: Ⅺ-2-D-⑩, name: "クリオグロブリン血症性血管炎", level: c}
+          - {code: Ⅺ-2-D-⑪, name: "抗糸球体基底膜抗体病", level: c}
+          - {code: Ⅺ-2-E-①, name: "痛風", level: a}
+          - {code: Ⅺ-2-E-②, name: "偽痛風", level: a}
+          - {code: Ⅺ-2-F-①, name: "家族性地中海熱", level: b}
+          - {code: Ⅺ-2-G-①, name: "サルコイドーシス", level: a}
+          - {code: Ⅺ-2-G-②, name: "線維筋痛症", level: a}
+          - {code: Ⅺ-2-G-③, name: "再発性多発軟骨炎", level: c}
+          - {code: Ⅺ-2-G-④, name: "アミロイドーシス", level: b}
+          - {code: Ⅺ-2-G-⑤, name: "IgG4関連疾患", level: b}
+      - id: "3"
+        name: 原発性免疫不全症
+        items:
+          - {code: Ⅺ-3-A-①, name: "重症複合免疫不全症", level: c}
+          - {code: Ⅺ-3-B-①, name: "選択的IgA欠損症", level: b}
+          - {code: Ⅺ-3-B-②, name: "無ガンマグロブリン血症", level: c}
+          - {code: Ⅺ-3-B-③, name: "高IgM症候群", level: c}
+          - {code: Ⅺ-3-C-①, name: "Wiskott-Aldrich症候群", level: c}
+          - {code: Ⅺ-3-C-②, name: "毛細血管拡張性失調症<ataxia telangiectasia>", level: c}
+          - {code: Ⅺ-3-C-③, name: "胸腺低形成<DiGeorge症候群>", level: c}
+          - {code: Ⅺ-3-D-①, name: "Chédiak-Higashi症候群", level: c}
+          - {code: Ⅺ-3-E-①, name: "慢性肉芽腫症、重症先天性好中球減少症", level: c}
+          - {code: Ⅺ-3-F-①, name: "遺伝性血管性浮腫", level: b}
+          - {code: Ⅺ-3-F-②, name: "先天性補体欠損症", level: c}
+      - id: "4"
+        name: 続発性免疫不全症
+        items:
+          - {code: Ⅺ-4-A-①, name: "後天性免疫不全症候群<AIDS>", level: a}
+          - {code: Ⅺ-4-B, name: "悪性腫瘍による免疫不全症", level: a}
+          - {code: Ⅺ-4-C, name: "自己免疫疾患による免疫不全症", level: a}
+          - {code: Ⅺ-4-D, name: "医原性免疫不全症", level: a}
+      - id: "5"
+        name: その他の重要な小児領域の疾患
+        items:
+          - {code: Ⅺ-5-A-①, name: "川崎病", level: a}
+          - {code: Ⅺ-5-A-②, name: "若年性特発性関節炎<JIA>", level: b}
+          - {code: Ⅺ-5-A-③, name: "リウマチ熱", level: c}
+  - id: Ⅰ
+    name: 先天異常、周産期の異常、成長・発達の異常
+    note: 2026-10-31 に、Muse の登録資料の下書き（proposals/46_pn_registration_draft.md）と厚生労働省 PDF のテキスト層を突き合わせて転記。全82項目の番号・名称・レベルが一致した。小項目の番号がない中項目は中項目の番号を code にした。原文の波括弧（省略可能な字）は外した。人による原本照合は未了。
+    groups:
+      - id: "1"
+        name: 妊娠の異常
+        items:
+          - {code: Ⅰ-1-A-①, name: "妊娠悪阻", level: a}
+          - {code: Ⅰ-1-A-②, name: "異所性妊娠", level: a}
+          - {code: Ⅰ-1-A-③, name: "流産、切迫流産", level: a}
+          - {code: Ⅰ-1-A-④, name: "胞状奇胎", level: b}
+          - {code: Ⅰ-1-A-⑤, name: "頸管無力症", level: b}
+          - {code: Ⅰ-1-A-⑥, name: "不育症、習慣流産", level: b}
+          - {code: Ⅰ-1-B-①, name: "妊娠高血圧症候群、子癇、HELLP症候群、加重型妊娠高血圧腎症", level: a}
+          - {code: Ⅰ-1-B-②, name: "早産、切迫早産", level: a}
+          - {code: Ⅰ-1-B-③, name: "常位胎盤早期剝離", level: a}
+          - {code: Ⅰ-1-B-④, name: "前置胎盤、癒着胎盤", level: a}
+          - {code: Ⅰ-1-B-⑤, name: "多胎妊娠", level: b}
+          - {code: Ⅰ-1-B-⑥, name: "前期破水", level: b}
+          - {code: Ⅰ-1-B-⑦, name: "血液型不適合妊娠", level: b}
+          - {code: Ⅰ-1-B-⑧, name: "胎盤機能不全", level: b}
+          - {code: Ⅰ-1-B-⑨, name: "ハイリスク妊娠", level: c}
+          - {code: Ⅰ-1-B-⑩, name: "過期妊娠", level: c}
+          - {code: Ⅰ-1-B-⑪, name: "羊水過多症、羊水過少症", level: c}
+          - {code: Ⅰ-1-B-⑫, name: "絨毛膜羊膜炎", level: c}
+          - {code: Ⅰ-1-C-①, name: "耐糖能異常合併妊娠(妊娠糖尿病、糖尿病、妊娠中の明らかな糖尿病)", level: a}
+          - {code: Ⅰ-1-C-②, name: "妊娠貧血、鉄欠乏性貧血", level: b}
+          - {code: Ⅰ-1-C-③, name: "甲状腺機能異常合併妊娠(亢進症・低下症)", level: b}
+          - {code: Ⅰ-1-C-④, name: "免疫性血小板減少症<ITP>", level: c}
+          - {code: Ⅰ-1-C-⑤, name: "膠原病と類縁疾患", level: c}
+          - {code: Ⅰ-1-D-①, name: "HBV、HCV、HIV、HTLV-Ⅰ、パルボウイルスB19(伝染性紅斑)、B群連鎖球菌、TORCH症候群", level: b}
+      - id: "2"
+        name: 分娩・産褥の異常
+        items:
+          - {code: Ⅰ-2-A-①, name: "前期破水、早期破水", level: b}
+          - {code: Ⅰ-2-B-①, name: "微弱陣痛、過強陣痛", level: b}
+          - {code: Ⅰ-2-C-①, name: "児頭骨盤不均衡<CPD>、狭骨盤", level: b}
+          - {code: Ⅰ-2-D-①, name: "骨盤位、横位", level: b}
+          - {code: Ⅰ-2-E-①, name: "後方後頭位、低在横定位、高在縦定位", level: b}
+          - {code: Ⅰ-2-E-②, name: "不正軸進入", level: c}
+          - {code: Ⅰ-2-F-①, name: "癒着胎盤", level: b}
+          - {code: Ⅰ-2-G-①, name: "臍帯下垂、臍帯脱出", level: c}
+          - {code: Ⅰ-2-H-①, name: "遷延分娩、分娩停止、肩甲難産", level: b}
+          - {code: Ⅰ-2-I-①, name: "子宮破裂、頸管・腟・会陰裂傷", level: b}
+          - {code: Ⅰ-2-J-①, name: "弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症", level: a}
+          - {code: Ⅰ-2-J-②, name: "播種性血管内凝固<DIC>", level: a}
+          - {code: Ⅰ-2-K-①, name: "産褥期精神障害", level: a}
+          - {code: Ⅰ-2-K-②, name: "子宮復古不全、産褥熱", level: b}
+          - {code: Ⅰ-2-K-③, name: "乳腺炎、乳汁分泌不全", level: b}
+          - {code: Ⅰ-2-K-④, name: "産褥血栓症、肺塞栓症", level: b}
+      - id: "3"
+        name: 胎児・新生児の異常
+        items:
+          - {code: Ⅰ-3-A-①, name: "胎児機能不全", level: a}
+          - {code: Ⅰ-3-A-②, name: "多胎、双胎間輸血症候群", level: b}
+          - {code: Ⅰ-3-A-③, name: "胎児発育不全[fetal growth restriction<FGR>]", level: b}
+          - {code: Ⅰ-3-A-④, name: "胎児貧血", level: b}
+          - {code: Ⅰ-3-A-⑤, name: "肺低形成", level: b}
+          - {code: Ⅰ-3-A-⑥, name: "胎児新生児溶血性疾患<HDFN>、血液型不適合妊娠", level: c}
+          - {code: Ⅰ-3-A-⑦, name: "形態異常", level: c}
+          - {code: Ⅰ-3-A-⑧, name: "胎児水腫・胸水・腹水", level: c}
+          - {code: Ⅰ-3-A-⑨, name: "子宮内胎児死亡", level: c}
+          - {code: Ⅰ-3-B-①, name: "新生児仮死", level: a}
+          - {code: Ⅰ-3-C-①, name: "低出生体重児、早期産児", level: a}
+          - {code: Ⅰ-3-C-②, name: "巨大児", level: b}
+          - {code: Ⅰ-3-C-③, name: "過期産児", level: c}
+          - {code: Ⅰ-3-D-①, name: "呼吸窮迫症候群<RDS>", level: a}
+          - {code: Ⅰ-3-D-②, name: "胎便吸引症候群<MAS>", level: b}
+          - {code: Ⅰ-3-D-③, name: "一過性多呼吸", level: b}
+          - {code: Ⅰ-3-D-④, name: "未熟児無呼吸発作", level: b}
+          - {code: Ⅰ-3-D-⑤, name: "新生児慢性肺疾患", level: c}
+          - {code: Ⅰ-3-E-①, name: "高ビリルビン血症", level: a}
+          - {code: Ⅰ-3-E-②, name: "新生児溶血性疾患", level: b}
+          - {code: Ⅰ-3-F-①, name: "低血糖、低カルシウム血症", level: b}
+          - {code: Ⅰ-3-G-①, name: "敗血症、髄膜炎", level: a}
+          - {code: Ⅰ-3-H-①, name: "ビタミンK欠乏症", level: a}
+          - {code: Ⅰ-3-H-②, name: "頭蓋内出血", level: b}
+          - {code: Ⅰ-3-H-③, name: "帽状腱膜下出血", level: b}
+          - {code: Ⅰ-3-H-④, name: "頭血腫", level: b}
+          - {code: Ⅰ-3-H-⑤, name: "未熟児網膜症", level: b}
+          - {code: Ⅰ-3-H-⑥, name: "低体温症", level: c}
+          - {code: Ⅰ-3-H-⑦, name: "先天性甲状腺機能低下症", level: c}
+          - {code: Ⅰ-3-H-⑧, name: "未熟児貧血", level: c}
+          - {code: Ⅰ-3-H-⑨, name: "分娩外傷", level: c}
+          - {code: Ⅰ-3-H-⑩, name: "壊死性腸炎", level: c}
+          - {code: Ⅰ-3-H-⑪, name: "髄膜瘤", level: c}
+      - id: "4"
+        name: 性分化・染色体異常、先天異常および成長・発達の障害
+        items:
+          - {code: Ⅰ-4-A-①, name: "Down症候群", level: a}
+          - {code: Ⅰ-4-A-②, name: "Turner症候群", level: b}
+          - {code: Ⅰ-4-A-③, name: "Klinefelter症候群", level: b}
+          - {code: Ⅰ-4-A-④, name: "trisomy(13番、18番)", level: c}
+          - {code: Ⅰ-4-B-①, name: "腟欠損症、Mayer-Rokitansky-Küster-Hauser<MRKH>症候群", level: b}
+          - {code: Ⅰ-4-B-②, name: "性分化疾患", level: c}
+          - {code: Ⅰ-4-C-①, name: "アンドロゲン不応症<精巣性女性化症候群>", level: b}
+          - {code: Ⅰ-4-C-②, name: "先天性副腎皮質過形成", level: c}
+          - {code: Ⅰ-4-D, name: "成長・発達の障害", level: a}
+  - id: Ⅱ
+    name: 精神・心身医学的疾患
+    note: 2026-10-31 に、Muse の登録資料の下書き（proposals/51_ps_registration_draft.md）と厚生労働省 PDF のテキスト層を突き合わせて転記。全54項目の番号・名称・レベルが一致した。小項目の番号がない中項目は中項目の番号を code にした。原文の波括弧（省略可能な字）は外した。人による原本照合は未了。
+    groups:
+      - id: "1"
+        name: 症状性を含む器質性精神障害、精神作用物質使用による精神および行動障害
+        items:
+          - {code: Ⅱ-1-A-①, name: "Alzheimer型認知症", level: a}
+          - {code: Ⅱ-1-A-②, name: "脳血管性認知症", level: a}
+          - {code: Ⅱ-1-A-③, name: "Lewy小体型認知症", level: a}
+          - {code: Ⅱ-1-A-④, name: "前頭側頭葉変性症", level: b}
+          - {code: Ⅱ-1-B-①, name: "Parkinson病、進行性核上性麻痺、Wernicke脳症、多発性硬化症", level: a}
+          - {code: Ⅱ-1-C-①, name: "肝性脳症、Wilson病、甲状腺機能障害、副腎皮質機能障害、全身性エリテマトーデス<SLE>", level: a}
+          - {code: Ⅱ-1-D, name: "せん妄", level: a}
+          - {code: Ⅱ-1-E-①, name: "アルコール依存症", level: a}
+          - {code: Ⅱ-1-E-②, name: "精神病性障害(アルコール精神病、覚醒剤精神病、大麻精神病)", level: b}
+          - {code: Ⅱ-1-E-③, name: "ギャンブル障害<ギャンブル依存>、ゲーム依存", level: c}
+      - id: "2"
+        name: 気分障害、統合失調症と類縁疾患
+        items:
+          - {code: Ⅱ-2-A-①, name: "うつ病", level: a}
+          - {code: Ⅱ-2-A-②, name: "双極性障害<躁うつ病>", level: a}
+          - {code: Ⅱ-2-B-①, name: "妄想型統合失調症", level: a}
+          - {code: Ⅱ-2-B-②, name: "破瓜型統合失調症", level: a}
+          - {code: Ⅱ-2-B-③, name: "緊張型統合失調症", level: a}
+          - {code: Ⅱ-2-C, name: "妄想性障害", level: b}
+          - {code: Ⅱ-2-D, name: "急性一過性精神病性障害<非定型精神病>", level: b}
+          - {code: Ⅱ-2-E, name: "統合失調感情障害", level: b}
+      - id: "3"
+        name: 不安症、ストレス関連症、身体的苦痛症または身体的体験症
+        items:
+          - {code: Ⅱ-3-A-①, name: "パニック障害<パニック症>", level: a}
+          - {code: Ⅱ-3-A-②, name: "全般性不安障害<全般不安症>", level: b}
+          - {code: Ⅱ-3-A-③, name: "社交<社会>不安障害<社交不安症><社交恐怖>", level: b}
+          - {code: Ⅱ-3-A-④, name: "広場恐怖症", level: b}
+          - {code: Ⅱ-3-B-①, name: "強迫症、身体醜形症、抜毛症、心気症", level: b}
+          - {code: Ⅱ-3-C-①, name: "心的外傷後ストレス障害<心的外傷後ストレス症><PTSD>", level: a}
+          - {code: Ⅱ-3-C-②, name: "適応障害<適応反応症>", level: a}
+          - {code: Ⅱ-3-D-①, name: "解離性健忘、解離性同一性障害<解離性同一症>、離人感・現実感喪失症、転換<変換>症<解離性神経学的症状症>", level: b}
+          - {code: Ⅱ-3-E-①, name: "身体的苦痛症<身体症状症>", level: b}
+      - id: "4"
+        name: 生理的障害、身体的要因に関連した障害
+        items:
+          - {code: Ⅱ-4-A-①, name: "神経性やせ症<神経性無食欲症>", level: a}
+          - {code: Ⅱ-4-A-②, name: "神経性過食症<大食症>", level: a}
+          - {code: Ⅱ-4-B-①, name: "不眠症", level: a}
+          - {code: Ⅱ-4-B-②, name: "睡眠時無呼吸症候群", level: b}
+          - {code: Ⅱ-4-B-③, name: "むずむず脚症候群", level: b}
+          - {code: Ⅱ-4-B-④, name: "レム<REM>睡眠行動障害", level: b}
+          - {code: Ⅱ-4-B-⑤, name: "過眠症", level: c}
+          - {code: Ⅱ-4-B-⑥, name: "概日リズム障害", level: c}
+          - {code: Ⅱ-4-B-⑦, name: "睡眠時遊行症", level: c}
+          - {code: Ⅱ-4-B-⑧, name: "周期性四肢運動障害", level: c}
+          - {code: Ⅱ-4-C, name: "性機能不全", level: c}
+          - {code: Ⅱ-4-D, name: "心身症", level: a}
+      - id: "5"
+        name: 小児・青年期の精神・心身医学的疾患、成人の人格・行動障害
+        items:
+          - {code: Ⅱ-5-A, name: "知的障害<知的発達症><精神遅滞>", level: a}
+          - {code: Ⅱ-5-B-①, name: "限局性学習障害<発達性学習症>", level: b}
+          - {code: Ⅱ-5-C-①, name: "発達性協調運動症<発達性協調運動障害>", level: c}
+          - {code: Ⅱ-5-C-②, name: "常動運動症<常動運動障害>", level: c}
+          - {code: Ⅱ-5-D, name: "自閉スペクトラム症", level: a}
+          - {code: Ⅱ-5-E, name: "注意欠如多動性障害<注意欠如多動症><ADHD>", level: a}
+          - {code: Ⅱ-5-F-①, name: "素行障害<素行・非社会的行動症><行為障害>、反抗挑発症", level: b}
+          - {code: Ⅱ-5-G, name: "場面緘黙", level: c}
+          - {code: Ⅱ-5-H-①, name: "Tourette障害<Tourette症>", level: c}
+          - {code: Ⅱ-5-I-①, name: "小児期発症流暢症<小児期発症流暢障害（吃音）>", level: c}
+          - {code: Ⅱ-5-J-①, name: "反応性アタッチメント症<反応性愛着障害>", level: c}
+          - {code: Ⅱ-5-J-②, name: "脱抑制性対人交流症<脱抑制型対人交流障害>", level: c}
+      - id: "6"
+        name: 成人のパーソナリティ・行動障害
+        items:
+          - {code: Ⅱ-6-A-①, name: "境界性パーソナリティ障害<ボーダーラインパターン>", level: b}
+          - {code: Ⅱ-6-B-①, name: "放火症、窃盗症", level: c}
+          - {code: Ⅱ-6-C-①, name: "窃視症、露出症、窃触症、小児性愛、フェティシズム", level: c}
+  - id: ⅩⅢ
+    name: 生活環境因子・職業性因子による疾患
+    note: 2026-10-31 に、Muse の登録資料の下書き（proposals/55_ev_registration_draft.md）と厚生労働省 PDF のテキスト層を突き合わせて転記。全65項目の番号・名称・レベルが一致した。小項目の番号がない中項目は中項目の番号を code にした。原文の波括弧（省略可能な字）は外した。人による原本照合は未了。
+    groups:
+      - id: "1"
+        name: 食中毒、病害動物による疾患
+        items:
+          - {code: ⅩⅢ-1-A-①, name: "細菌性食中毒", level: a}
+          - {code: ⅩⅢ-1-A-②, name: "ウイルス性食中毒", level: a}
+          - {code: ⅩⅢ-1-A-③, name: "化学性食中毒", level: b}
+          - {code: ⅩⅢ-1-A-④, name: "自然毒食中毒", level: b}
+          - {code: ⅩⅢ-1-B-①, name: "節足動物による疾患", level: b}
+          - {code: ⅩⅢ-1-B-②, name: "毒蛇咬傷", level: c}
+          - {code: ⅩⅢ-1-C-①, name: "旅行者下痢症", level: b}
+      - id: "2"
+        name: アルコールによる障害、薬物依存・中毒
+        items:
+          - {code: ⅩⅢ-2-A-①, name: "急性アルコール中毒", level: a}
+          - {code: ⅩⅢ-2-A-②, name: "アルコール依存症", level: a}
+          - {code: ⅩⅢ-2-A-③, name: "アルコール精神病", level: a}
+          - {code: ⅩⅢ-2-A-④, name: "慢性アルコール性臓器障害", level: a}
+          - {code: ⅩⅢ-2-A-⑤, name: "妊婦・胎児への影響、胎児性アルコール症候群", level: b}
+          - {code: ⅩⅢ-2-B-①, name: "睡眠薬依存・中毒", level: a}
+          - {code: ⅩⅢ-2-B-②, name: "向精神薬依存・中毒", level: a}
+          - {code: ⅩⅢ-2-B-③, name: "解熱鎮痛薬依存・中毒", level: a}
+          - {code: ⅩⅢ-2-B-④, name: "麻薬依存・中毒", level: a}
+          - {code: ⅩⅢ-2-B-⑤, name: "覚醒剤依存・中毒", level: b}
+          - {code: ⅩⅢ-2-B-⑥, name: "有機溶剤依存・中毒", level: b}
+          - {code: ⅩⅢ-2-C, name: "毒劇物中毒", level: b}
+      - id: "3"
+        name: 喫煙による障害
+        items:
+          - {code: ⅩⅢ-3-A-①, name: "タバコ煙中の有害物質、未成年者の喫煙、受動喫煙", level: a}
+          - {code: ⅩⅢ-3-B-①, name: "タバコ依存", level: a}
+          - {code: ⅩⅢ-3-B-②, name: "呼吸器疾患(慢性閉塞性肺疾患<COPD>)、がん、循環器疾患", level: a}
+          - {code: ⅩⅢ-3-B-③, name: "妊婦・胎児への影響", level: a}
+      - id: "4"
+        name: 産業中毒とその他の職業性疾患
+        items:
+          - {code: ⅩⅢ-4-A-①, name: "金属中毒", level: b}
+          - {code: ⅩⅢ-4-A-②, name: "ガス中毒", level: b}
+          - {code: ⅩⅢ-4-A-③, name: "有機溶剤中毒", level: b}
+          - {code: ⅩⅢ-4-A-④, name: "化学物質中毒", level: b}
+          - {code: ⅩⅢ-4-A-⑤, name: "農薬中毒", level: b}
+          - {code: ⅩⅢ-4-B-①, name: "職業性腰痛", level: a}
+          - {code: ⅩⅢ-4-B-②, name: "頸肩腕障害", level: a}
+          - {code: ⅩⅢ-4-B-③, name: "VDT作業による障害", level: a}
+          - {code: ⅩⅢ-4-C-①, name: "脳血管疾患", level: a}
+          - {code: ⅩⅢ-4-C-②, name: "虚血性心疾患", level: a}
+          - {code: ⅩⅢ-4-C-③, name: "自殺", level: a}
+          - {code: ⅩⅢ-4-D-①, name: "適応障害", level: a}
+          - {code: ⅩⅢ-4-D-②, name: "心身症", level: a}
+          - {code: ⅩⅢ-4-D-③, name: "うつ病", level: a}
+          - {code: ⅩⅢ-4-E-①, name: "職業性喘息", level: b}
+          - {code: ⅩⅢ-4-E-②, name: "過敏性肺炎", level: b}
+          - {code: ⅩⅢ-4-E-③, name: "鼻アレルギー<アレルギー性鼻炎>", level: a}
+          - {code: ⅩⅢ-4-E-④, name: "アレルギー性接触皮膚炎", level: a}
+          - {code: ⅩⅢ-4-F-①, name: "職業がん", level: b}
+          - {code: ⅩⅢ-4-F-②, name: "じん肺", level: b}
+          - {code: ⅩⅢ-4-F-③, name: "酸素欠乏症", level: b}
+      - id: "5"
+        name: 物理的原因・生活環境因子による障害
+        items:
+          - {code: ⅩⅢ-5-A-①, name: "熱中症", level: a}
+          - {code: ⅩⅢ-5-A-②, name: "偶発性低体温{症}", level: a}
+          - {code: ⅩⅢ-5-A-③, name: "凍傷・凍瘡", level: a}
+          - {code: ⅩⅢ-5-B-①, name: "騒音性難聴", level: a}
+          - {code: ⅩⅢ-5-C-①, name: "動揺病", level: b}
+          - {code: ⅩⅢ-5-C-②, name: "手腕振動障害", level: b}
+          - {code: ⅩⅢ-5-D-①, name: "減圧症", level: b}
+          - {code: ⅩⅢ-5-D-②, name: "高山病", level: b}
+          - {code: ⅩⅢ-5-E-①, name: "急性放射線障害", level: b}
+          - {code: ⅩⅢ-5-E-②, name: "放射線による発がん", level: b}
+          - {code: ⅩⅢ-5-F, name: "非電離放射線障害", level: b}
+          - {code: ⅩⅢ-5-G-①, name: "誤飲", level: a}
+          - {code: ⅩⅢ-5-G-②, name: "誤嚥", level: a}
+          - {code: ⅩⅢ-5-G-③, name: "創傷", level: a}
+          - {code: ⅩⅢ-5-G-④, name: "熱傷", level: a}
+          - {code: ⅩⅢ-5-G-⑤, name: "急性中毒", level: a}
+          - {code: ⅩⅢ-5-H-①, name: "化学物質過敏症", level: c}
+          - {code: ⅩⅢ-5-H-②, name: "シックハウス症候群<シックビル症候群>", level: c}
+          - {code: ⅩⅢ-5-I-①, name: "交通事故", level: a}
+          - {code: ⅩⅢ-5-I-②, name: "家庭内事故", level: a}
+          - {code: ⅩⅢ-5-I-③, name: "自然災害", level: a}

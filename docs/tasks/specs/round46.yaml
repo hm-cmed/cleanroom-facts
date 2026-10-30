@@ -1,0 +1,80 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round46_PN.md
+round: 46
+name: 周産期・先天・成長発達 第46回（PG）
+id_start:
+  PG: 1
+src_range:
+- 3161
+- 3250
+target_cards:
+- 25
+- 50
+targets:
+- code: Ⅰ-1-A-①
+  name: 妊娠悪阻
+  level: a
+  prefix: PG
+- code: Ⅰ-1-A-②
+  name: 異所性妊娠
+  level: a
+  prefix: PG
+- code: Ⅰ-1-A-③
+  name: 流産、切迫流産
+  level: a
+  prefix: PG
+- code: Ⅰ-1-A-④
+  name: 胞状奇胎
+  level: b
+  prefix: PG
+- code: Ⅰ-1-A-⑤
+  name: 頸管無力症
+  level: b
+  prefix: PG
+- code: Ⅰ-1-B-①
+  name: 妊娠高血圧症候群、子癇、HELLP症候群、加重型妊娠高血圧腎症
+  level: a
+  prefix: PG
+- code: Ⅰ-1-B-②
+  name: 早産、切迫早産
+  level: a
+  prefix: PG
+- code: Ⅰ-1-B-③
+  name: 常位胎盤早期剝離
+  level: a
+  prefix: PG
+- code: Ⅰ-1-B-④
+  name: 前置胎盤、癒着胎盤
+  level: a
+  prefix: PG
+- code: Ⅰ-1-B-⑤
+  name: 多胎妊娠
+  level: b
+  prefix: PG
+- code: Ⅰ-1-B-⑥
+  name: 前期破水
+  level: b
+  prefix: PG
+- code: Ⅰ-1-B-⑦
+  name: 血液型不適合妊娠
+  level: b
+  prefix: PG
+- code: Ⅰ-1-B-⑧
+  name: 胎盤機能不全
+  level: b
+  prefix: PG
+- code: Ⅰ-1-B-⑨
+  name: ハイリスク妊娠
+  level: c
+  prefix: PG
+- code: Ⅰ-1-B-⑩
+  name: 過期妊娠
+  level: c
+  prefix: PG
+- code: Ⅰ-1-B-⑪
+  name: 羊水過多症、羊水過少症
+  level: c
+  prefix: PG
+- code: Ⅰ-1-B-⑫
+  name: 絨毛膜羊膜炎
+  level: c
+  prefix: PG

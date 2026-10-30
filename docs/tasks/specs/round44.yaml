@@ -1,0 +1,52 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round42_IM.md
+round: 44
+name: アレルギー・膠原病・免疫 第44回（SA）
+id_start:
+  SA: 1
+src_range:
+- 2991
+- 3080
+target_cards:
+- 10
+- 25
+targets:
+- code: Ⅺ-2-B-①
+  name: 体軸性脊椎関節炎、強直性脊椎炎
+  level: b
+  prefix: SA
+- code: Ⅺ-2-B-②
+  name: 末梢性脊椎関節炎
+  level: b
+  prefix: SA
+- code: Ⅺ-2-B-③
+  name: 掌蹠膿疱症性骨関節炎
+  level: b
+  prefix: SA
+- code: Ⅺ-2-F-①
+  name: 家族性地中海熱
+  level: b
+  prefix: SA
+- code: Ⅺ-2-G-①
+  name: サルコイドーシス
+  level: a
+  prefix: SA
+- code: Ⅺ-2-G-②
+  name: 線維筋痛症
+  level: a
+  prefix: SA
+- code: Ⅺ-2-G-③
+  name: 再発性多発軟骨炎
+  level: c
+  prefix: SA
+- code: Ⅺ-2-G-④
+  name: アミロイドーシス
+  level: b
+  prefix: SA
+- code: Ⅺ-2-G-⑤
+  name: IgG4関連疾患
+  level: b
+  prefix: SA
+- code: Ⅺ-5-A-③
+  name: リウマチ熱
+  level: c
+  prefix: SA

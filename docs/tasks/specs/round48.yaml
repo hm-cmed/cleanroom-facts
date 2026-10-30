@@ -1,0 +1,85 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round46_PN.md
+round: 48
+name: 周産期・先天・成長発達 第48回（FT・NB）
+id_start:
+  FT: 1
+  NB: 1
+src_range:
+- 3341
+- 3430
+target_cards:
+- 18
+- 40
+targets:
+- code: Ⅰ-3-A-①
+  name: 胎児機能不全
+  level: a
+  prefix: FT
+- code: Ⅰ-3-A-②
+  name: 多胎、双胎間輸血症候群
+  level: b
+  prefix: FT
+- code: Ⅰ-3-A-③
+  name: 胎児発育不全[fetal growth restriction<FGR>]
+  level: b
+  prefix: FT
+- code: Ⅰ-3-A-④
+  name: 胎児貧血
+  level: b
+  prefix: FT
+- code: Ⅰ-3-A-⑤
+  name: 肺低形成
+  level: b
+  prefix: FT
+- code: Ⅰ-3-A-⑥
+  name: 胎児新生児溶血性疾患<HDFN>、血液型不適合妊娠
+  level: c
+  prefix: FT
+- code: Ⅰ-3-A-⑦
+  name: 形態異常
+  level: c
+  prefix: FT
+- code: Ⅰ-3-A-⑧
+  name: 胎児水腫・胸水・腹水
+  level: c
+  prefix: FT
+- code: Ⅰ-3-A-⑨
+  name: 子宮内胎児死亡
+  level: c
+  prefix: FT
+- code: Ⅰ-3-B-①
+  name: 新生児仮死
+  level: a
+  prefix: NB
+- code: Ⅰ-3-C-①
+  name: 低出生体重児、早期産児
+  level: a
+  prefix: NB
+- code: Ⅰ-3-C-②
+  name: 巨大児
+  level: b
+  prefix: NB
+- code: Ⅰ-3-C-③
+  name: 過期産児
+  level: c
+  prefix: NB
+- code: Ⅰ-3-D-①
+  name: 呼吸窮迫症候群<RDS>
+  level: a
+  prefix: NB
+- code: Ⅰ-3-D-②
+  name: 胎便吸引症候群<MAS>
+  level: b
+  prefix: NB
+- code: Ⅰ-3-D-③
+  name: 一過性多呼吸
+  level: b
+  prefix: NB
+- code: Ⅰ-3-D-④
+  name: 未熟児無呼吸発作
+  level: b
+  prefix: NB
+- code: Ⅰ-3-D-⑤
+  name: 新生児慢性肺疾患
+  level: c
+  prefix: NB

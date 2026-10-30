@@ -1,0 +1,50 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round46_PN.md
+round: 50
+name: 周産期・先天・成長発達 第50回（CG・GR・PD）
+id_start:
+  CG: 1
+  GR: 1
+  PD: 1
+src_range:
+- 3521
+- 3610
+target_cards:
+- 15
+- 35
+targets:
+- code: Ⅰ-4-A-①
+  name: Down症候群
+  level: a
+  prefix: CG
+- code: Ⅰ-4-A-②
+  name: Turner症候群
+  level: b
+  prefix: CG
+- code: Ⅰ-4-A-③
+  name: Klinefelter症候群
+  level: b
+  prefix: CG
+- code: Ⅰ-4-A-④
+  name: trisomy(13番、18番)
+  level: c
+  prefix: CG
+- code: Ⅰ-4-B-①
+  name: 腟欠損症、Mayer-Rokitansky-Küster-Hauser<MRKH>症候群
+  level: b
+  prefix: CG
+- code: Ⅰ-4-B-②
+  name: 性分化疾患
+  level: c
+  prefix: CG
+- code: Ⅰ-4-C-①
+  name: アンドロゲン不応症<精巣性女性化症候群>
+  level: b
+  prefix: CG
+- code: Ⅰ-4-C-②
+  name: 先天性副腎皮質過形成
+  level: c
+  prefix: CG
+- code: Ⅰ-4-D
+  name: 成長・発達の障害
+  level: a
+  prefix: GR

@@ -113,6 +113,8 @@ def evaluate(label: str, p: dict, spec: dict, ref: dict) -> dict:
     id_bad, gaps = [], []
     for pf, st in starts.items():
         nums = sorted(int(i.split("-")[1]) for i in ids if i.startswith(pf + "-") and i.split("-")[1].isdigit())
+        if st is None:   # 前の回の続きの番号（取り込み後に決まる）。開始番号は検査せず、成果物の最小番号から欠番を見る
+            st = nums[0] if nums else 1
         id_bad += [f"{pf}-{x:03d}" for x in nums if x < st]
         if nums:
             gaps += [f"{pf}-{x:03d}" for x in range(st, max(nums) + 1) if x not in nums]

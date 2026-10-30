@@ -1,0 +1,73 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round38_HM.md
+round: 38
+name: 血液・造血器 第38回（RC・BL）
+id_start:
+  RC: 1
+  BL: 1
+src_range:
+- 2461
+- 2550
+target_cards:
+- 30
+- 60
+targets:
+- code: Ⅶ-1-A-①
+  name: 鉄欠乏性貧血
+  level: a
+  prefix: RC
+- code: Ⅶ-1-A-②
+  name: 鉄過剰症
+  level: c
+  prefix: RC
+- code: Ⅶ-1-B-①
+  name: ビタミンB12欠乏性貧血
+  level: a
+  prefix: RC
+- code: Ⅶ-1-B-②
+  name: 葉酸欠乏性貧血
+  level: c
+  prefix: RC
+- code: Ⅶ-1-C-①
+  name: 自己免疫性溶血性貧血
+  level: b
+  prefix: RC
+- code: Ⅶ-1-C-②
+  name: 冷式抗体による溶血性貧血
+  level: b
+  prefix: RC
+- code: Ⅶ-1-C-③
+  name: 赤血球破砕症候群
+  level: b
+  prefix: RC
+- code: Ⅶ-1-D-①
+  name: 再生不良性貧血
+  level: a
+  prefix: RC
+- code: Ⅶ-1-D-②
+  name: 骨髄異形成症候群<MDS>
+  level: a
+  prefix: RC
+- code: Ⅶ-1-D-③
+  name: 発作性夜間ヘモグロビン尿症
+  level: b
+  prefix: RC
+- code: Ⅶ-1-D-④
+  name: 赤芽球癆
+  level: c
+  prefix: RC
+- code: Ⅶ-1-E-①
+  name: 慢性疾患に伴う貧血<ACD>
+  level: a
+  prefix: RC
+- code: Ⅶ-1-E-②
+  name: 腎性貧血、内分泌異常による貧血
+  level: a
+  prefix: RC
+- code: Ⅶ-1-F
+  name: 出血性貧血
+  level: a
+  prefix: RC
+- code: Ⅶ-1-G
+  name: 二次性赤血球増加症
+  level: b
+  prefix: RC

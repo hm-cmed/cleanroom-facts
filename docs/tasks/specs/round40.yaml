@@ -1,0 +1,72 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round38_HM.md
+round: 40
+name: 血液・造血器 第40回（HS）
+id_start:
+  HS: 1
+src_range:
+- 2641
+- 2730
+target_cards:
+- 20
+- 50
+targets:
+- code: Ⅶ-4-A-①
+  name: 免疫性血小板減少症<ITP>
+  level: a
+  prefix: HS
+- code: Ⅶ-4-A-②
+  name: 血栓性血小板減少性紫斑病<TTP>
+  level: a
+  prefix: HS
+- code: Ⅶ-4-A-③
+  name: 溶血性尿毒症症候群<HUS>
+  level: a
+  prefix: HS
+- code: Ⅶ-4-A-④
+  name: ヘパリン起因性血小板減少症<HIT>
+  level: a
+  prefix: HS
+- code: Ⅶ-4-A-⑤
+  name: 二次性血小板減少症
+  level: b
+  prefix: HS
+- code: Ⅶ-4-A-⑥
+  name: 後天性血小板機能異常症
+  level: b
+  prefix: HS
+- code: Ⅶ-4-B-①
+  name: 血友病
+  level: a
+  prefix: HS
+- code: Ⅶ-4-B-②
+  name: 播種性血管内凝固<DIC>
+  level: a
+  prefix: HS
+- code: Ⅶ-4-B-③
+  name: von Willebrand病
+  level: b
+  prefix: HS
+- code: Ⅶ-4-B-④
+  name: 自己免疫性後天性凝固因子欠乏症
+  level: b
+  prefix: HS
+- code: Ⅶ-4-B-⑤
+  name: ビタミンK欠乏症
+  level: b
+  prefix: HS
+- code: Ⅶ-4-C-①
+  name: IgA血管炎
+  level: b
+  prefix: HS
+- code: Ⅶ-4-C-②
+  name: 遺伝性出血性末梢血管拡張症<Osler病>
+  level: c
+  prefix: HS
+- code: Ⅶ-4-D-①
+  name: 先天性血栓形成傾向
+  level: b
+  prefix: HS
+- code: Ⅶ-4-D-②
+  name: 後天性血栓形成傾向
+  level: b
+  prefix: HS

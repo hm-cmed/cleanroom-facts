@@ -1,0 +1,101 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round42_IM.md
+round: 43
+name: アレルギー・膠原病・免疫 第43回（CT・VA）
+id_start:
+  CT: 1
+  VA: 1
+src_range:
+- 2901
+- 2990
+target_cards:
+- 28
+- 55
+targets:
+- code: Ⅺ-2-A-①
+  name: 関節リウマチ
+  level: a
+  prefix: CT
+- code: Ⅺ-2-A-②
+  name: 悪性関節リウマチ
+  level: b
+  prefix: CT
+- code: Ⅺ-2-A-③
+  name: 成人Still病
+  level: b
+  prefix: CT
+- code: Ⅺ-2-C-①
+  name: 全身性エリテマトーデス<SLE>
+  level: a
+  prefix: CT
+- code: Ⅺ-2-C-②
+  name: Sjögren症候群
+  level: a
+  prefix: CT
+- code: Ⅺ-2-C-③
+  name: 全身性強皮症
+  level: a
+  prefix: CT
+- code: Ⅺ-2-C-④
+  name: 皮膚筋炎、多発性筋炎
+  level: a
+  prefix: CT
+- code: Ⅺ-2-C-⑤
+  name: 混合性結合組織病
+  level: b
+  prefix: CT
+- code: Ⅺ-2-C-⑥
+  name: 抗リン脂質抗体症候群
+  level: b
+  prefix: CT
+- code: Ⅺ-2-D-①
+  name: 巨細胞性動脈炎
+  level: a
+  prefix: VA
+- code: Ⅺ-2-D-②
+  name: 顕微鏡的多発血管炎
+  level: a
+  prefix: VA
+- code: Ⅺ-2-D-③
+  name: 多発血管炎性肉芽腫症
+  level: a
+  prefix: VA
+- code: Ⅺ-2-D-④
+  name: Behçet病
+  level: a
+  prefix: VA
+- code: Ⅺ-2-D-⑤
+  name: リウマチ性多発筋痛症
+  level: a
+  prefix: VA
+- code: Ⅺ-2-D-⑥
+  name: 高安動脈炎
+  level: b
+  prefix: VA
+- code: Ⅺ-2-D-⑦
+  name: 結節性多発動脈炎
+  level: b
+  prefix: VA
+- code: Ⅺ-2-D-⑧
+  name: 好酸球性多発血管炎性肉芽腫症
+  level: b
+  prefix: VA
+- code: Ⅺ-2-D-⑨
+  name: IgA血管炎
+  level: b
+  prefix: VA
+- code: Ⅺ-2-D-⑩
+  name: クリオグロブリン血症性血管炎
+  level: c
+  prefix: VA
+- code: Ⅺ-2-D-⑪
+  name: 抗糸球体基底膜抗体病
+  level: c
+  prefix: VA
+- code: Ⅺ-5-A-①
+  name: 川崎病
+  level: a
+  prefix: VA
+- code: Ⅺ-5-A-②
+  name: 若年性特発性関節炎<JIA>
+  level: b
+  prefix: CT

@@ -1,0 +1,97 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round51_PS.md
+round: 52
+name: 精神・心身医学 第52回（AX・PH）
+id_start:
+  AX: 1
+  PH: 1
+src_range:
+- 3721
+- 3830
+target_cards:
+- 30
+- 55
+targets:
+- code: Ⅱ-3-A-①
+  name: パニック障害<パニック症>
+  level: a
+  prefix: AX
+- code: Ⅱ-3-A-②
+  name: 全般性不安障害<全般不安症>
+  level: b
+  prefix: AX
+- code: Ⅱ-3-A-③
+  name: 社交<社会>不安障害<社交不安症><社交恐怖>
+  level: b
+  prefix: AX
+- code: Ⅱ-3-A-④
+  name: 広場恐怖症
+  level: b
+  prefix: AX
+- code: Ⅱ-3-B-①
+  name: 強迫症、身体醜形症、抜毛症、心気症
+  level: b
+  prefix: AX
+- code: Ⅱ-3-C-①
+  name: 心的外傷後ストレス障害<心的外傷後ストレス症><PTSD>
+  level: a
+  prefix: AX
+- code: Ⅱ-3-C-②
+  name: 適応障害<適応反応症>
+  level: a
+  prefix: AX
+- code: Ⅱ-3-D-①
+  name: 解離性健忘、解離性同一性障害<解離性同一症>、離人感・現実感喪失症、転換<変換>症<解離性神経学的症状症>
+  level: b
+  prefix: AX
+- code: Ⅱ-3-E-①
+  name: 身体的苦痛症<身体症状症>
+  level: b
+  prefix: AX
+- code: Ⅱ-4-A-①
+  name: 神経性やせ症<神経性無食欲症>
+  level: a
+  prefix: PH
+- code: Ⅱ-4-A-②
+  name: 神経性過食症<大食症>
+  level: a
+  prefix: PH
+- code: Ⅱ-4-B-①
+  name: 不眠症
+  level: a
+  prefix: PH
+- code: Ⅱ-4-B-②
+  name: 睡眠時無呼吸症候群
+  level: b
+  prefix: PH
+- code: Ⅱ-4-B-③
+  name: むずむず脚症候群
+  level: b
+  prefix: PH
+- code: Ⅱ-4-B-④
+  name: レム<REM>睡眠行動障害
+  level: b
+  prefix: PH
+- code: Ⅱ-4-B-⑤
+  name: 過眠症
+  level: c
+  prefix: PH
+- code: Ⅱ-4-B-⑥
+  name: 概日リズム障害
+  level: c
+  prefix: PH
+- code: Ⅱ-4-B-⑦
+  name: 睡眠時遊行症
+  level: c
+  prefix: PH
+- code: Ⅱ-4-B-⑧
+  name: 周期性四肢運動障害
+  level: c
+  prefix: PH
+- code: Ⅱ-4-C
+  name: 性機能不全
+  level: c
+  prefix: PH
+- code: Ⅱ-4-D
+  name: 心身症
+  level: a
+  prefix: PH

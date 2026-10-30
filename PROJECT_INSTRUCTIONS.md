@@ -78,6 +78,11 @@ Project指示文とスキーマに従い、最新の引き継ぎメモ（0(N-1)_
 | 23〜27 | 皮膚・頭頸部 | SK・DT／SD・HX／EY・RE／OT・NL／OR・TR | 依頼文は `docs/tasks/round23_DS.md`（分割案は Muse、受け入れ検査を通す） |
 | 28〜32 | 神経・運動器 | ST・BT・NI／ND・EP／PN・NM・SP・NX／BD・OS・BO／TJ・AN | 依頼文は `docs/tasks/round28_NS.md`（分割案は Muse、受け入れ検査を通す） |
 | 33〜37 | 感染症 | VI／HV／CM・BA／MY・FG／IG | 依頼文は `docs/tasks/round33_IF.md`（分割案は Muse、受け入れ検査を通す） |
+| 38〜41 | 血液・造血器 | RC・BL／ML・LY／HS／PB | 依頼文は `docs/tasks/round38_HM.md`（分割案は Muse、受け入れ検査を通す） |
+| 42〜45 | アレルギー・膠原病・免疫 | AL／CT・VA／SA／ID | 依頼文は `docs/tasks/round42_IM.md` |
+| 46〜50 | 周産期・先天・成長発達 | PG／PG・DL／FT・NB／NB／CG・GR・PD | 依頼文は `docs/tasks/round46_PN.md` |
+| 51〜53 | 精神・心身医学 | OG・SB・SZ・MD／AX・PH／DV・PR・PX | 依頼文は `docs/tasks/round51_PS.md` |
+| 55〜57 | 生活環境・職業性 | FP・TX／SM・OC／EV・OX | 依頼文は `docs/tasks/round55_EV.md` |
 
 ## 分野をまたぐ項目の扱い（2026-10-28 追加）
 

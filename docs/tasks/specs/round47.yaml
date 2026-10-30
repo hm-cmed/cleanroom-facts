@@ -1,0 +1,98 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round46_PN.md
+# id_start が null の接頭辞は前の回の続きの番号（前の回の取り込み後に決まる）。開始番号は検査せず、欠番だけを見る
+round: 47
+name: 周産期・先天・成長発達 第47回（PG・DL）
+id_start:
+  PG: null
+  DL: 1
+src_range:
+- 3251
+- 3340
+target_cards:
+- 28
+- 55
+targets:
+- code: Ⅰ-1-C-①
+  name: 耐糖能異常合併妊娠(妊娠糖尿病、糖尿病、妊娠中の明らかな糖尿病)
+  level: a
+  prefix: PG
+- code: Ⅰ-1-C-②
+  name: 妊娠貧血、鉄欠乏性貧血
+  level: b
+  prefix: PG
+- code: Ⅰ-1-C-③
+  name: 甲状腺機能異常合併妊娠(亢進症・低下症)
+  level: b
+  prefix: PG
+- code: Ⅰ-1-C-④
+  name: 免疫性血小板減少症<ITP>
+  level: c
+  prefix: PG
+- code: Ⅰ-1-C-⑤
+  name: 膠原病と類縁疾患
+  level: c
+  prefix: PG
+- code: Ⅰ-1-D-①
+  name: HBV、HCV、HIV、HTLV-Ⅰ、パルボウイルスB19(伝染性紅斑)、B群連鎖球菌、TORCH症候群
+  level: b
+  prefix: PG
+- code: Ⅰ-2-A-①
+  name: 前期破水、早期破水
+  level: b
+  prefix: DL
+- code: Ⅰ-2-B-①
+  name: 微弱陣痛、過強陣痛
+  level: b
+  prefix: DL
+- code: Ⅰ-2-C-①
+  name: 児頭骨盤不均衡<CPD>、狭骨盤
+  level: b
+  prefix: DL
+- code: Ⅰ-2-D-①
+  name: 骨盤位、横位
+  level: b
+  prefix: DL
+- code: Ⅰ-2-E-①
+  name: 後方後頭位、低在横定位、高在縦定位
+  level: b
+  prefix: DL
+- code: Ⅰ-2-E-②
+  name: 不正軸進入
+  level: c
+  prefix: DL
+- code: Ⅰ-2-G-①
+  name: 臍帯下垂、臍帯脱出
+  level: c
+  prefix: DL
+- code: Ⅰ-2-H-①
+  name: 遷延分娩、分娩停止、肩甲難産
+  level: b
+  prefix: DL
+- code: Ⅰ-2-I-①
+  name: 子宮破裂、頸管・腟・会陰裂傷
+  level: b
+  prefix: DL
+- code: Ⅰ-2-J-①
+  name: 弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症
+  level: a
+  prefix: DL
+- code: Ⅰ-2-J-②
+  name: 播種性血管内凝固<DIC>
+  level: a
+  prefix: DL
+- code: Ⅰ-2-K-①
+  name: 産褥期精神障害
+  level: a
+  prefix: DL
+- code: Ⅰ-2-K-②
+  name: 子宮復古不全、産褥熱
+  level: b
+  prefix: DL
+- code: Ⅰ-2-K-③
+  name: 乳腺炎、乳汁分泌不全
+  level: b
+  prefix: DL
+- code: Ⅰ-2-K-④
+  name: 産褥血栓症、肺塞栓症
+  level: b
+  prefix: DL
