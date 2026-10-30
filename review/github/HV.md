@@ -1,6 +1,6 @@
 # HV ウイルス感染症（ヘルペス群・慢性・新興） の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-29
+[← 一覧に戻る](README.md)　更新：2026-10-30
 
 全 26 件のうち、監修済み 0 件。
 
@@ -101,8 +101,8 @@
 - 条件：region: 国際／対象: 成人
 - 不確実性：抗HIV薬は国内で多数承認され保険適用があり、国内の標準的治療指針である日本エイズ学会「HIV感染症『治療の手引き』」（第29版、2025年12月）では初回治療で INSTI と NRTI の組合せが推奨の中心である（学会の公開資料で確認）。曝露前予防（PrEP）の国内承認状況は一次資料で確認できていないため主張に入れていない。HIV 関連中枢神経合併症は NI の範囲として本カードでは扱わない。
 - 出典：Deeks SG, Overbaugh J, Phillips A, Buchbinder S. HIV infection. Nat Rev Dis Primers. 2015;1:15035.　[DOI 10.1038/nrdp.2015.35](https://doi.org/10.1038/nrdp.2015.35)　[PMID 27188527](https://pubmed.ncbi.nlm.nih.gov/27188527/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）　コアカリ：PS-03-03-01 (id: JkxnuUg)；TBL-01-00-608 (id: JlvnmY8)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HV-008&card_id=HV-008&version=df6c94f388)　（版 `df6c94f388`）
+- 出題基準：医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a）　コアカリ：PS-03-03-01 (id: JkxnuUg)；TBL-01-00-608 (id: JlvnmY8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HV-008&card_id=HV-008&version=5fe6c26eba)　（版 `5fe6c26eba`）
 
 ### HV-009　下書き（出典の照合前）
 
@@ -111,8 +111,8 @@
 - 条件：region: 国際／対象: 成人
 - 不確実性：数値は抄録の Results で確認した（平均追跡 3.0 年）。抗HIV薬は国内で多数承認され保険適用がある（日本エイズ学会の公開資料で確認）。国内の治療指針における具体的な推奨レジメンは本カードの範囲外とした。
 - 出典：INSIGHT START Study Group. Initiation of Antiretroviral Therapy in Early Asymptomatic HIV Infection. N Engl J Med. 2015;373(9):795-807.　[DOI 10.1056/NEJMoa1506816](https://doi.org/10.1056/NEJMoa1506816)　[PMID 26192873](https://pubmed.ncbi.nlm.nih.gov/26192873/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）　コアカリ：PS-03-03-01 (id: JkxnuUg)；TBL-01-00-608 (id: JlvnmY8)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HV-009&card_id=HV-009&version=b3e1656c52)　（版 `b3e1656c52`）
+- 出題基準：医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a）　コアカリ：PS-03-03-01 (id: JkxnuUg)；TBL-01-00-608 (id: JlvnmY8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HV-009&card_id=HV-009&version=1ac81e6e69)　（版 `1ac81e6e69`）
 
 ### HV-010　下書き（出典の照合前）
 
@@ -121,8 +121,8 @@
 - 条件：region: 日本／対象: 成人
 - 不確実性：数値は厚生労働省エイズ動向委員会の年報概要（エイズ予防情報ネット掲載版）で確認した。HIV 感染症・後天性免疫不全症候群は感染症法の五類感染症（全数把握対象）であり年報はその届出の集計とされているが、法令文そのものの直接確認はしていない。
 - 出典：厚生労働省エイズ動向委員会. 令和6（2024）年エイズ発生動向年報（2025年9月26日報告）. 厚生労働省.　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/aids/)（区分 GOV_JP）
-- 出題基準：医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）　コアカリ：PS-03-03-01 (id: JkxnuUg)；TBL-01-00-608 (id: JlvnmY8)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HV-010&card_id=HV-010&version=7d2c28071b)　（版 `7d2c28071b`）
+- 出題基準：医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a）　コアカリ：PS-03-03-01 (id: JkxnuUg)；TBL-01-00-608 (id: JlvnmY8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HV-010&card_id=HV-010&version=6d4e8e8d36)　（版 `6d4e8e8d36`）
 
 ### HV-011　下書き（出典の照合前）
 
@@ -131,10 +131,10 @@
 - 条件：region: 米国／対象: 医療従事者
 - 不確実性：米国の公衆衛生局ガイドラインに基づく推奨であり、日本の医療機関における具体的な運用とは異なる場合がある。針刺し事故後の HIV PEP について国内の一次指針の文面確認は未了である。PEP に用いる抗HIV薬そのものは国内で承認され保険適用があるが、曝露後予防としての保険適用の扱いは本カードでは確認していない。
 - 出典：Kuhar DT, Henderson DK, Struble KA, et al. Updated US Public Health Service guidelines for the management of occupational exposures to human immunodeficiency virus and recommendations for postexposure prophylaxis. Infect Control Hosp Epidemiol. 2013;34(9):875-892.　[DOI 10.1086/672271](https://doi.org/10.1086/672271)　[PMID 23917901](https://pubmed.ncbi.nlm.nih.gov/23917901/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）　コアカリ：PS-03-03-17 (id: JkxnuVg)；TBL-01-00-608 (id: JlvnmY8)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HV-011&card_id=HV-011&version=1c50a74602)　（版 `1c50a74602`）
+- 出題基準：医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a）　コアカリ：PS-03-03-17 (id: JkxnuVg)；TBL-01-00-608 (id: JlvnmY8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HV-011&card_id=HV-011&version=2f3e98ef18)　（版 `2f3e98ef18`）
 
-**[ここまでの 4 件（HV-008〜HV-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HV-008%E3%80%9CHV-011&cards=HV-008%20df6c94f388%0AHV-009%20b3e1656c52%0AHV-010%207d2c28071b%0AHV-011%201c50a74602)**
+**[ここまでの 4 件（HV-008〜HV-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HV-008%E3%80%9CHV-011&cards=HV-008%205fe6c26eba%0AHV-009%201ac81e6e69%0AHV-010%206d4e8e8d36%0AHV-011%202f3e98ef18)**
 
 ---
 

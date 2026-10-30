@@ -1,6 +1,6 @@
 # RI 呼吸器感染症 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-29
+[← 一覧に戻る](README.md)　更新：2026-10-30
 
 全 57 件のうち、監修済み 0 件。
 
@@ -189,8 +189,8 @@
 - よくある誤解：65歳以上なら何歳でも定期接種として受けられる
 - 不確実性：2024年4月時点の情報。このページは2024年9月30日以降更新されていない。使用ワクチンは RI-028 を参照
 - 出典：厚生労働省. 肺炎球菌感染症（高齢者）（Q&A は2024年4月時点。2024年9月30日以降は更新停止と表示）　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/haienkyukin/index_1.html)（区分 GOV_JP）
-- 出題基準：医学各論 Ⅳ-1-B-①（市中肺炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-617 (id: JlvnmZs)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-027&card_id=RI-027&version=250b1ab559)　（版 `250b1ab559`）
+- 出題基準：医学各論 Ⅳ-1-B-①（市中肺炎、a）；医学各論 Ⅻ-2-B-③（肺炎球菌感染症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-617 (id: JlvnmZs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-027&card_id=RI-027&version=85d4ee9ae8)　（版 `85d4ee9ae8`）
 
 ### RI-028　下書き（出典の照合前）
 
@@ -199,8 +199,8 @@
 - 条件：guideline: 予防接種法にもとづく定期接種／region: 日本
 - 不確実性：札幌市保健所のページで確認した。変更の根拠となる厚生労働省の通知・告示は未確認で、確認が要る
 - 出典：札幌市保健所. 高齢者肺炎球菌予防接種（定期接種）について（2026年4月1日更新）　[リンク](https://www.city.sapporo.jp/hokenjo/f1kansen/koureihaienn.html)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅳ-1-B-①（市中肺炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-617 (id: JlvnmZs)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-028&card_id=RI-028&version=5922e6a1c8)　（版 `5922e6a1c8`）
+- 出題基準：医学各論 Ⅳ-1-B-①（市中肺炎、a）；医学各論 Ⅻ-2-B-③（肺炎球菌感染症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-617 (id: JlvnmZs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-028&card_id=RI-028&version=d0423a8530)　（版 `d0423a8530`）
 
 ### RI-029　下書き（出典の照合前）
 
@@ -209,10 +209,10 @@
 - 条件：guideline: CDC（ACIP）の推奨／region: 米国
 - 不確実性：日本の定期接種（RI-027・RI-028）とは対象年齢とワクチンが異なる
 - 出典：Centers for Disease Control and Prevention. Pneumococcal Vaccine Recommendations (last reviewed 2026 Feb 25)　[リンク](https://www.cdc.gov/pneumococcal/hcp/vaccine-recommendations/index.html)（区分 GOV_US）
-- 出題基準：医学各論 Ⅳ-1-B-①（市中肺炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-617 (id: JlvnmZs)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-029&card_id=RI-029&version=bc5674b600)　（版 `bc5674b600`）
+- 出題基準：医学各論 Ⅳ-1-B-①（市中肺炎、a）；医学各論 Ⅻ-2-B-③（肺炎球菌感染症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-617 (id: JlvnmZs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-029&card_id=RI-029&version=addb99eedc)　（版 `addb99eedc`）
 
-**[ここまでの 4 件（RI-015〜RI-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-015%E3%80%9CRI-029&cards=RI-015%20dd5e7c575a%0ARI-027%20250b1ab559%0ARI-028%205922e6a1c8%0ARI-029%20bc5674b600)**
+**[ここまでの 4 件（RI-015〜RI-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-015%E3%80%9CRI-029&cards=RI-015%20dd5e7c575a%0ARI-027%2085d4ee9ae8%0ARI-028%20d0423a8530%0ARI-029%20addb99eedc)**
 
 ---
 

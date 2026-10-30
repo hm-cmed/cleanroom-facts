@@ -1,6 +1,6 @@
 # OS 上肢・下肢の運動器疾患、非感染性骨・関節・四肢軟部疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-29
+[← 一覧に戻る](README.md)　更新：2026-10-30
 
 全 50 件のうち、監修済み 0 件。
 
@@ -59,8 +59,8 @@
 - 条件：population: 急性関節炎患者／region: 米国
 - 不確実性：米国のガイドラインに基づく。関節液結晶の性状は本ガイドラインおよび分類基準で確認した。
 - 出典：FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res (Hoboken). 2020;72(6):744-760.　[DOI 10.1002/acr.24180](https://doi.org/10.1002/acr.24180)　[PMID 32391934](https://pubmed.ncbi.nlm.nih.gov/32391934/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅸ-8-H-②（痛風、偽痛風、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-142 (id: JlvnloE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-005&card_id=OS-005&version=29b76f193c)　（版 `29b76f193c`）
+- 出題基準：医学各論 Ⅸ-8-H-②（痛風、偽痛風、a）；医学各論 Ⅺ-2-E-①（痛風、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-142 (id: JlvnloE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-005&card_id=OS-005&version=464a38b9de)　（版 `464a38b9de`）
 
 ### OS-006　下書き（出典の照合前）
 
@@ -69,8 +69,8 @@
 - 条件：population: 急性痛風関節炎患者／region: 米国
 - 不確実性：米国のガイドラインに基づく。NSAIDs、コルヒチン、副腎皮質ステロイドはいずれも国内承認され保険適用されている。尿酸代謝と降尿酸治療の総論は第21回（MT）を正とし、本票では関節炎としての治療に限った。
 - 出典：FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res (Hoboken). 2020;72(6):744-760.　[DOI 10.1002/acr.24180](https://doi.org/10.1002/acr.24180)　[PMID 32391934](https://pubmed.ncbi.nlm.nih.gov/32391934/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅸ-8-H-②（痛風、偽痛風、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-142 (id: JlvnloE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-006&card_id=OS-006&version=3b7909fa49)　（版 `3b7909fa49`）
+- 出題基準：医学各論 Ⅸ-8-H-②（痛風、偽痛風、a）；医学各論 Ⅺ-2-E-①（痛風、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-142 (id: JlvnloE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-006&card_id=OS-006&version=bded7911a1)　（版 `bded7911a1`）
 
 ### OS-007　下書き（出典の照合前）
 
@@ -79,10 +79,10 @@
 - 条件：population: CPPD病が疑われる患者／region: 国際
 - 不確実性：分類基準であり診断基準そのものではない。軟骨石灰化は無症候性にもみられるため、臨床像とあわせて解釈する。
 - 出典：Abhishek A, Tedeschi SK, Pascart T, et al. The 2023 ACR/EULAR classification criteria for calcium pyrophosphate deposition disease. Ann Rheum Dis. 2023;82(10):1248-1257　[DOI 10.1136/ard-2023-224575](https://doi.org/10.1136/ard-2023-224575)　[PMID 37495237](https://pubmed.ncbi.nlm.nih.gov/37495237/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-8-H-②（痛風、偽痛風、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-142 (id: JlvnloE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-007&card_id=OS-007&version=b63ce1c95f)　（版 `b63ce1c95f`）
+- 出題基準：医学各論 Ⅸ-8-H-②（痛風、偽痛風、a）；医学各論 Ⅺ-2-E-②（偽痛風、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-142 (id: JlvnloE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-007&card_id=OS-007&version=9b1a9ef260)　（版 `9b1a9ef260`）
 
-**[ここまでの 3 件（OS-005〜OS-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OS-005%E3%80%9COS-007&cards=OS-005%2029b76f193c%0AOS-006%203b7909fa49%0AOS-007%20b63ce1c95f)**
+**[ここまでの 3 件（OS-005〜OS-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OS-005%E3%80%9COS-007&cards=OS-005%20464a38b9de%0AOS-006%20bded7911a1%0AOS-007%209b1a9ef260)**
 
 ---
 

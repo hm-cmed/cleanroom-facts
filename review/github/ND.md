@@ -1,6 +1,6 @@
 # ND 神経変性・代謝性・脱髄疾患、中毒 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-29
+[← 一覧に戻る](README.md)　更新：2026-10-30
 
 全 56 件のうち、監修済み 0 件。
 
@@ -13,8 +13,8 @@
 - 条件：population: Alzheimer病の診断を受ける者（無症状者を含む）／region: 国際
 - 不確実性：本基準は診断・病期分類の原則を示すもので、具体的な診療手順や治療プロトコルを定めるものではないと基準自体が明記している。血漿バイオマーカーの国内臨床実装の状況は本作成では未確認。
 - 出典：Jack CR Jr, et al. Revised criteria for diagnosis and staging of Alzheimer's disease: Alzheimer's Association Workgroup. Alzheimers Dement. 2024;20(8):5143-5169　[DOI 10.1002/alz.13859](https://doi.org/10.1002/alz.13859)　[PMID 38934362](https://pubmed.ncbi.nlm.nih.gov/38934362/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-001&card_id=ND-001&version=ce7a5c768b)　（版 `ce7a5c768b`）
+- 出題基準：医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-001&card_id=ND-001&version=9c2b76a36a)　（版 `9c2b76a36a`）
 
 ### ND-002　下書き（出典の照合前）
 
@@ -23,8 +23,8 @@
 - 条件：population: 一般人口（全ライフコース）／region: 国際
 - 不確実性：約45%は集団寄与割合に基づく理論的推定であり、個人の予防効果を保証する値ではない。数値は本文で確認した（二次資料経由ではない）。
 - 出典：Livingston G, et al. Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission. Lancet. 2024;404(10452):572-628　[DOI 10.1016/S0140-6736(24)01296-0](https://doi.org/10.1016/S0140-6736(24)01296-0)　[PMID 39096926](https://pubmed.ncbi.nlm.nih.gov/39096926/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-002&card_id=ND-002&version=7d7f53ee54)　（版 `7d7f53ee54`）
+- 出題基準：医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-002&card_id=ND-002&version=434df483f2)　（版 `434df483f2`）
 
 ### ND-003　下書き（出典の照合前）
 
@@ -33,8 +33,8 @@
 - 条件：population: Alzheimer型認知症患者／region: 日本
 - 不確実性：上記4剤はいずれも国内でAlzheimer型認知症に対して承認され保険適用されている（個別の適応病期は各添付文書による）。本ガイドラインは2017年版であり、抗アミロイド抗体は収載されていない。
 - 出典：日本神経学会（監修）, 「認知症疾患診療ガイドライン」作成委員会（編）. 認知症疾患診療ガイドライン2017. 医学書院; 2017（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-003&card_id=ND-003&version=36b8af9f35)　（版 `36b8af9f35`）
+- 出題基準：医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-003&card_id=ND-003&version=995fee00f8)　（版 `995fee00f8`）
 
 ### ND-004　下書き（出典の照合前）
 
@@ -43,8 +43,8 @@
 - 条件：population: アミロイド病理を確認した早期Alzheimer病患者／region: 国際
 - 不確実性：数値は抄録で確認。ARIA-Hの発現率は抄録に記載がなく本カードには含めていない。レカネマブは国内で2023年9月に承認され保険適用されており、日本での適正使用の条件はND-006を参照。
 - 出典：van Dyck CH, et al. Lecanemab in Early Alzheimer's Disease. N Engl J Med. 2023;388(1):9-21　[DOI 10.1056/NEJMoa2212948](https://doi.org/10.1056/NEJMoa2212948)　[PMID 36449413](https://pubmed.ncbi.nlm.nih.gov/36449413/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-004&card_id=ND-004&version=510e70873a)　（版 `510e70873a`）
+- 出題基準：医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-004&card_id=ND-004&version=61745cc077)　（版 `61745cc077`）
 
 ### ND-005　下書き（出典の照合前）
 
@@ -53,8 +53,8 @@
 - 条件：population: アミロイド・タウ病理を有する早期症候性Alzheimer病患者／region: 国際
 - 不確実性：数値は抄録で確認。ドナネマブはアミロイド除去が確認されれば投与を完了する設計の薬剤である。国内では2024年9月に承認され同年11月に保険収載された（日本での条件はND-007を参照）。
 - 出典：Sims JR, et al. Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial. JAMA. 2023;330(6):512-527　[DOI 10.1001/jama.2023.13239](https://doi.org/10.1001/jama.2023.13239)　[PMID 37459141](https://pubmed.ncbi.nlm.nih.gov/37459141/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-005&card_id=ND-005&version=06d8eede50)　（版 `06d8eede50`）
+- 出題基準：医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-005&card_id=ND-005&version=675ff34336)　（版 `675ff34336`）
 
 ### ND-006　下書き（出典の照合前）
 
@@ -63,8 +63,8 @@
 - 条件：population: レカネマブ投与を検討する早期Alzheimer病患者／region: 日本
 - 不確実性：米国適正使用推奨（ND-008）が推奨するAPOE遺伝子型検査は、日本の承認・ガイドラインでは投与の要件とされていない点が地域差である。政府標準利用規約の適用区分（GOV_JP）は取り込み側での最終確認を要する。ガイドラインは改訂があり得るため使用時は最新版を確認する。
 - 出典：厚生労働省. レカネマブ（遺伝子組換え）製剤に係る最適使用推進ガイドライン（レケンビ点滴静注）（区分 GOV_JP）
-- 出題基準：医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-006&card_id=ND-006&version=a6f746a8bd)　（版 `a6f746a8bd`）
+- 出題基準：医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-006&card_id=ND-006&version=cac7d7b2bd)　（版 `cac7d7b2bd`）
 
 ### ND-007　下書き（出典の照合前）
 
@@ -73,8 +73,8 @@
 - 条件：population: ドナネマブ投与を検討する早期Alzheimer病患者／region: 日本
 - 不確実性：用量・投与完了基準は添付文書および最適使用推進ガイドラインの公表内容で確認した。18か月を超える投与については保険上の留意事項通知で再評価が求められる。GOV_JPの区分は取り込み側での最終確認を要する。
 - 出典：厚生労働省. ドナネマブ（遺伝子組換え）製剤に係る最適使用推進ガイドライン（ケサンラ点滴静注液）（区分 GOV_JP）
-- 出題基準：医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-007&card_id=ND-007&version=d5d20b08a5)　（版 `d5d20b08a5`）
+- 出題基準：医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-007&card_id=ND-007&version=40ec15fbbe)　（版 `40ec15fbbe`）
 
 ### ND-008　下書き（出典の照合前）
 
@@ -83,10 +83,10 @@
 - 条件：population: レカネマブ投与を検討する早期Alzheimer病患者／region: 米国
 - 不確実性：本推奨は米国の実地診療向けの専門家推奨であり、日本の最適使用推進ガイドライン（ND-006）とはAPOE検査の扱いなどが異なる。レカネマブは米国・日本とも承認・保険適用の対象であるが、運用条件は地域で異なる。
 - 出典：Cummings J, et al. Lecanemab: Appropriate Use Recommendations. J Prev Alzheimers Dis. 2023;10(3):362-377　[DOI 10.14283/jpad.2023.30](https://doi.org/10.14283/jpad.2023.30)　[PMID 37357276](https://pubmed.ncbi.nlm.nih.gov/37357276/)（区分 OPEN）
-- 出題基準：医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-008&card_id=ND-008&version=8cba163ff1)　（版 `8cba163ff1`）
+- 出題基準：医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-008&card_id=ND-008&version=b8e3f247a9)　（版 `b8e3f247a9`）
 
-**[ここまでの 8 件（ND-001〜ND-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-001%E3%80%9CND-008&cards=ND-001%20ce7a5c768b%0AND-002%207d7f53ee54%0AND-003%2036b8af9f35%0AND-004%20510e70873a%0AND-005%2006d8eede50%0AND-006%20a6f746a8bd%0AND-007%20d5d20b08a5%0AND-008%208cba163ff1)**
+**[ここまでの 8 件（ND-001〜ND-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-001%E3%80%9CND-008&cards=ND-001%209c2b76a36a%0AND-002%20434df483f2%0AND-003%20995fee00f8%0AND-004%2061745cc077%0AND-005%20675ff34336%0AND-006%20cac7d7b2bd%0AND-007%2040ec15fbbe%0AND-008%20b8e3f247a9)**
 
 ---
 
@@ -99,8 +99,8 @@
 - 条件：population: 血管性認知症が疑われる患者／region: 国際
 - 不確実性：本基準は研究用の症例定義として作成されたものであり、抄録でも検証と改訂が前提とされている。脳小血管病を軸とする近年の概念（血管性認知障害）との対応はND-010を参照。
 - 出典：Román GC, et al. Vascular dementia: diagnostic criteria for research studies. Report of the NINDS-AIREN International Workshop. Neurology. 1993;43(2):250-260　[DOI 10.1212/WNL.43.2.250](https://doi.org/10.1212/WNL.43.2.250)　[PMID 8094895](https://pubmed.ncbi.nlm.nih.gov/8094895/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅸ-1-E-③（脳血管性認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-039 (id: JlvnldY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-009&card_id=ND-009&version=4551d4207d)　（版 `4551d4207d`）
+- 出題基準：医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅸ-1-E-③（脳血管性認知症、a）；医学各論 Ⅱ-1-A-②（脳血管性認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-039 (id: JlvnldY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-009&card_id=ND-009&version=f34f7e0c5a)　（版 `f34f7e0c5a`）
 
 ### ND-010　下書き（出典の照合前）
 
@@ -109,8 +109,8 @@
 - 条件：population: 高齢者／region: 国際
 - 不確実性：本出典は研究用の画像用語・撮像・報告の標準であり、個々のマーカーの診断閾値までを定めるものではない。
 - 出典：Wardlaw JM, et al. Neuroimaging standards for research into small vessel disease and its contribution to ageing and neurodegeneration (STRIVE). Lancet Neurol. 2013;12(8):822-838　[DOI 10.1016/S1474-4422(13)70124-8](https://doi.org/10.1016/S1474-4422(13)70124-8)　[PMID 23867200](https://pubmed.ncbi.nlm.nih.gov/23867200/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-4-A-②（脳血管性認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-039 (id: JlvnldY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-010&card_id=ND-010&version=206aab0fa4)　（版 `206aab0fa4`）
+- 出題基準：医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅱ-1-A-②（脳血管性認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-039 (id: JlvnldY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-010&card_id=ND-010&version=4d57d77ef7)　（版 `4d57d77ef7`）
 
 ### ND-011　下書き（出典の照合前）
 
@@ -119,10 +119,10 @@
 - 条件：population: 高齢の認知症患者／region: 国際
 - 不確実性：約22%は本総説が引用する神経病理学的研究に基づく値で、抄録で確認した。Alzheimer病と血管性認知症は臨床像が重なるため、混合型の臨床診断は難しいとされる。
 - 出典：Custodio N, et al. Mixed dementia: A review of the evidence. Dement Neuropsychol. 2017;11(4):364-370　[DOI 10.1590/1980-57642016dn11-040005](https://doi.org/10.1590/1980-57642016dn11-040005)　[PMID 29354216](https://pubmed.ncbi.nlm.nih.gov/29354216/)（区分 OPEN）
-- 出題基準：医学各論 Ⅸ-4-A-②（脳血管性認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-039 (id: JlvnldY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-011&card_id=ND-011&version=7470271c08)　（版 `7470271c08`）
+- 出題基準：医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅱ-1-A-②（脳血管性認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-039 (id: JlvnldY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-011&card_id=ND-011&version=425fc19364)　（版 `425fc19364`）
 
-**[ここまでの 3 件（ND-009〜ND-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-009%E3%80%9CND-011&cards=ND-009%204551d4207d%0AND-010%20206aab0fa4%0AND-011%207470271c08)**
+**[ここまでの 3 件（ND-009〜ND-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-009%E3%80%9CND-011&cards=ND-009%20f34f7e0c5a%0AND-010%204d57d77ef7%0AND-011%20425fc19364)**
 
 ---
 
@@ -135,8 +135,8 @@
 - 条件：population: Lewy小体型認知症が疑われる患者／region: 国際
 - 不確実性：基準本文（PMC掲載の全文）で確認した。DAT画像・MIBG心筋シンチグラフィは国内でも保険診療で実施される検査である（個別の適用条件は診療報酬による）。
 - 出典：McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies: Fourth consensus report of the DLB Consortium. Neurology. 2017;89(1):88-100　[DOI 10.1212/WNL.0000000000004058](https://doi.org/10.1212/WNL.0000000000004058)　[PMID 28592453](https://pubmed.ncbi.nlm.nih.gov/28592453/)（区分 OPEN）
-- 出題基準：医学各論 Ⅸ-4-A-③（Lewy小体型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-038 (id: JlvnldQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-012&card_id=ND-012&version=751ceeb5d1)　（版 `751ceeb5d1`）
+- 出題基準：医学各論 Ⅸ-4-A-③（Lewy小体型認知症、a）；医学各論 Ⅱ-1-A-③（Lewy小体型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-038 (id: JlvnldQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-012&card_id=ND-012&version=d739c7525c)　（版 `d739c7525c`）
 
 ### ND-013　下書き（出典の照合前）
 
@@ -145,10 +145,10 @@
 - 条件：population: Lewy小体型認知症患者／region: 国際
 - 不確実性：DLBの無作為化試験は少なく、管理の推奨には専門家の意見に基づく部分が大きい（出典の記載）。国内ではドネペジルがLewy小体型認知症に対して承認され保険適用されている。
 - 出典：McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies: Fourth consensus report of the DLB Consortium. Neurology. 2017;89(1):88-100　[DOI 10.1212/WNL.0000000000004058](https://doi.org/10.1212/WNL.0000000000004058)　[PMID 28592453](https://pubmed.ncbi.nlm.nih.gov/28592453/)（区分 OPEN）
-- 出題基準：医学各論 Ⅸ-4-A-③（Lewy小体型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-038 (id: JlvnldQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-013&card_id=ND-013&version=ca212ad9c6)　（版 `ca212ad9c6`）
+- 出題基準：医学各論 Ⅸ-4-A-③（Lewy小体型認知症、a）；医学各論 Ⅱ-1-A-③（Lewy小体型認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-038 (id: JlvnldQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-013&card_id=ND-013&version=2a2ef27e9d)　（版 `2a2ef27e9d`）
 
-**[ここまでの 2 件（ND-012〜ND-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-012%E3%80%9CND-013&cards=ND-012%20751ceeb5d1%0AND-013%20ca212ad9c6)**
+**[ここまでの 2 件（ND-012〜ND-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-012%E3%80%9CND-013&cards=ND-012%20d739c7525c%0AND-013%202a2ef27e9d)**
 
 ---
 
@@ -161,8 +161,8 @@
 - 条件：population: 行動障害型前頭側頭型認知症が疑われる患者／region: 国際
 - 不確実性：前頭側頭葉変性症は若年性認知症の主要な原因の一つとされるが、発症年齢の分布そのものは本出典の抄録の範囲外のため本カードには含めていない。
 - 出典：Rascovsky K, et al. Sensitivity of revised diagnostic criteria for the behavioural variant of frontotemporal dementia. Brain. 2011;134(Pt 9):2456-2477　[DOI 10.1093/brain/awr179](https://doi.org/10.1093/brain/awr179)　[PMID 21810890](https://pubmed.ncbi.nlm.nih.gov/21810890/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-4-A-④（前頭側頭葉変性症、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-014&card_id=ND-014&version=909f237325)　（版 `909f237325`）
+- 出題基準：医学各論 Ⅸ-4-A-④（前頭側頭葉変性症、b）；医学各論 Ⅱ-1-A-④（前頭側頭葉変性症、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-014&card_id=ND-014&version=a6d15d2728)　（版 `a6d15d2728`）
 
 ### ND-015　下書き（出典の照合前）
 
@@ -171,10 +171,10 @@
 - 条件：population: 原発性進行性失語患者／region: 国際
 - 不確実性：本分類は臨床的特徴に基づく国際ワーキンググループの推奨（2011年）であり、各亜型と背景病理との対応づけは今後の課題とされている。
 - 出典：Gorno-Tempini ML, et al. Classification of primary progressive aphasia and its variants. Neurology. 2011;76(11):1006-1014　[DOI 10.1212/WNL.0b013e31821103e6](https://doi.org/10.1212/WNL.0b013e31821103e6)　[PMID 21325651](https://pubmed.ncbi.nlm.nih.gov/21325651/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-4-A-④（前頭側頭葉変性症、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-015&card_id=ND-015&version=05eedb52f6)　（版 `05eedb52f6`）
+- 出題基準：医学各論 Ⅸ-4-A-④（前頭側頭葉変性症、b）；医学各論 Ⅱ-1-A-④（前頭側頭葉変性症、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-015&card_id=ND-015&version=17121c02a4)　（版 `17121c02a4`）
 
-**[ここまでの 2 件（ND-014〜ND-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-014%E3%80%9CND-015&cards=ND-014%20909f237325%0AND-015%2005eedb52f6)**
+**[ここまでの 2 件（ND-014〜ND-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-014%E3%80%9CND-015&cards=ND-014%20a6d15d2728%0AND-015%2017121c02a4)**
 
 ---
 

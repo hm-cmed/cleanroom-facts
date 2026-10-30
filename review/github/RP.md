@@ -1,6 +1,6 @@
 # RP 月経異常・不妊・避妊・更年期 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-29
+[← 一覧に戻る](README.md)　更新：2026-10-30
 
 全 60 件のうち、監修済み 0 件。
 
@@ -855,10 +855,10 @@
 - 条件：region: 欧州／study: ガイドライン（ESHRE、2022年改訂版・2023年公表）
 - 不確実性：定義と頻度は欧州のガイドラインに基づく。日本の診療指針における不育症の定義（反復流産・習慣流産の区別を含む）や推奨検査項目との照合は未実施である。抗リン脂質抗体症候群に対する低用量アスピリンとヘパリンの併用など個別の治療の詳細は、2022年改訂で変更されなかった2017年版の推奨事項であり、本調査では補足表まで確認していないため主張文には入れていない。レボチロキシンとプロゲステロン製剤の国内承認・保険適用（不育症への適応の有無を含む）は未確認である。
 - 出典：ESHRE Guideline Group on RPL; Bender Atik R, Christiansen OB, Elson J, et al. ESHRE guideline: recurrent pregnancy loss: an update in 2022. Human Reproduction Open. 2023;2023(1):hoad002.　[DOI 10.1093/hropen/hoad002](https://doi.org/10.1093/hropen/hoad002)　[PMID 36873081](https://pubmed.ncbi.nlm.nih.gov/36873081/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅷ-8-E-⑤（不育症、c）　コアカリ：PS-02-10-05 (id: JkxnuSA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-061&card_id=RP-061&version=9a77ff7bdb)　（版 `9a77ff7bdb`）
+- 出題基準：医学各論 Ⅷ-8-E-⑤（不育症、c）；医学各論 Ⅰ-1-A-⑥（不育症、習慣流産、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-061&card_id=RP-061&version=f7ec8dd1f4)　（版 `f7ec8dd1f4`）
 
-**[ここまでの 1 件（RP-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-061&cards=RP-061%209a77ff7bdb)**
+**[ここまでの 1 件（RP-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-061&cards=RP-061%20f7ec8dd1f4)**
 
 ---
 

@@ -1,6 +1,6 @@
 # MT 脂質・蛋白・その他の代謝異常 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-29
+[← 一覧に戻る](README.md)　更新：2026-10-30
 
 全 36 件のうち、監修済み 0 件。
 
@@ -333,10 +333,10 @@
 - 条件：region: 日本／study: ガイドライン（日本痛風・尿酸核酸学会、2019年改訂第3版）
 - 不確実性：MSU結晶の同定による診断の位置づけは、本ガイドライン第3版が海外ガイドラインの定義として紹介している記述に基づく（日本の臨床診断基準そのものではない）。コルヒチン・NSAIDs・副腎皮質ステロイドはいずれも国内で使用される薬剤だが、個別製剤の適応・用量は本調査では添付文書で確認していない（未確認）。本カードは第3版（2019年改訂）の記載に基づく。
 - 出典：Hisatome I, Ichida K, Mineo I, et al. Japanese Society of Gout and Uric & Nucleic Acids 2019 Guidelines for Management of Hyperuricemia and Gout 3rd edition. Gout and Uric & Nucleic Acids. 2020;44(Suppl):1-40.　[リンク](https://www.jstage.jst.go.jp/article/gnamtsunyo/44/Supplement/44_sp-1/_article/-char/ja)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅹ-9-B-①（痛風、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-485 (id: JlvnmNE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-024&card_id=MT-024&version=deb16bfd5a)　（版 `deb16bfd5a`）
+- 出題基準：医学各論 Ⅹ-9-B-①（痛風、a）；医学各論 Ⅺ-2-E-①（痛風、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-485 (id: JlvnmNE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-024&card_id=MT-024&version=5d65aec458)　（版 `5d65aec458`）
 
-**[ここまでの 1 件（MT-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MT-024&cards=MT-024%20deb16bfd5a)**
+**[ここまでの 1 件（MT-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MT-024&cards=MT-024%205d65aec458)**
 
 ---
 
@@ -381,10 +381,10 @@
 - 条件：region: 米国／study: ガイドライン（米国リウマチ学会、2020年）
 - 不確実性：米国のガイドラインであり、日本の管理目標は日本のガイドライン（SRC-991）の6.0 mg/dL以下が基準となる。5 mg/dL未満の目標はEULAR 2016推奨の抄録で照合した内容である。アロプリノール・フェブキソスタットの国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
 - 出典：FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res (Hoboken). 2020;72(6):744-760.　[DOI 10.1002/acr.24180](https://doi.org/10.1002/acr.24180)　[PMID 32391934](https://pubmed.ncbi.nlm.nih.gov/32391934/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅹ-9-B-①（痛風、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-485 (id: JlvnmNE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-027&card_id=MT-027&version=2831500c23)　（版 `2831500c23`）
+- 出題基準：医学各論 Ⅹ-9-B-①（痛風、a）；医学各論 Ⅺ-2-E-①（痛風、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-485 (id: JlvnmNE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-027&card_id=MT-027&version=d2a793034e)　（版 `d2a793034e`）
 
-**[ここまでの 1 件（MT-027）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MT-027&cards=MT-027%202831500c23)**
+**[ここまでの 1 件（MT-027）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MT-027&cards=MT-027%20d2a793034e)**
 
 ---
 

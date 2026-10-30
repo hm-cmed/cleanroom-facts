@@ -22,7 +22,7 @@
   uncertainty: 重症度の具体的な評価指標や診断基準の細目は抄録の範囲では確認できず、定義と治療方針の骨格のみを抄録で確認した。全文での確認が望ましい。
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-066 (id: JlvnlgQ)'
-    kokushi: 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）
+    kokushi: 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-B-⑤ を足した（医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a） → 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a））。三原の承認による
 - id: SK-002
   domain: SK
   subdomain: アトピー性皮膚炎
@@ -57,7 +60,7 @@
   uncertainty: 薬剤（タクロリムス、デルゴシチニブ、ジファミラストなど）の国内承認・保険適用の個別確認は未実施のため未確認。各薬剤の強さの位置づけや使い分けの詳細は全文未確認であり、抄録に記載された薬剤名の範囲に限った。
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-066 (id: JlvnlgQ)'
-    kokushi: 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）
+    kokushi: 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -68,6 +71,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-B-⑤ を足した（医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a） → 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a））。三原の承認による
 - id: SK-003
   domain: SK
   subdomain: アトピー性皮膚炎
@@ -92,7 +98,7 @@
   uncertainty: 薬剤（シクロスポリン、生物学的製剤、JAK阻害薬）の国内承認・保険適用の個別確認は未実施のため未確認。適応となる重症度の基準や投与条件の詳細は全文未確認である。
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-066 (id: JlvnlgQ)'
-    kokushi: 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）
+    kokushi: 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -103,6 +109,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-B-⑤ を足した（医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a） → 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a））。三原の承認による
 - id: SK-004
   domain: SK
   subdomain: アトピー性皮膚炎
@@ -127,7 +136,7 @@
   uncertainty: 日本の有病率などの疫学数値は出典の抄録では確認できなかったため、本カードには疫学の数値を含めていない。病態の個別機序（バリア機能障害やサイトカイン経路の詳細）も抄録の範囲外であり、日本の疫学データとあわせて別出典での補完が望ましい。薬剤名を含むが、個別製剤の国内承認・保険適用は未確認。
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-066 (id: JlvnlgQ)'
-    kokushi: 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）
+    kokushi: 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -138,6 +147,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-B-⑤ を足した（医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a） → 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a））。三原の承認による
 - id: SK-005
   domain: SK
   subdomain: 接触皮膚炎
@@ -553,7 +565,7 @@
   uncertainty: 湿疹反応の総論としての記述は、アトピー性皮膚炎ガイドラインにおける定義と治療戦略の記載に基づいており、湿疹の形態学的な分類（急性・慢性の病変の要素など）の詳細は出典の抄録の範囲では確認できていない。
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-063 (id: JlvnlgE)；TBL-01-00-066 (id: JlvnlgQ)'
-    kokushi: 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）
+    kokushi: 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -564,6 +576,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-B-⑤ を足した（医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a） → 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a））。三原の承認による
 - id: SK-017
   domain: SK
   subdomain: 薬疹
@@ -1043,7 +1058,7 @@
   uncertainty: 本カードで触れるステロイドの国内の承認・保険適用は未確認。合併症の頻度の数値は、ガイドラインの該当箇所では確認できなかったため入れていない。内容の確認は日本語版ガイドライン2024の本文で行い、出典の書誌は英語版とした。
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)'
-    kokushi: 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）
+    kokushi: 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -1054,6 +1069,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-B-⑤ を足した（医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a） → 医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a））。三原の承認による
 - id: SK-031
   domain: SK
   subdomain: 皮脂欠乏性湿疹

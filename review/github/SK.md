@@ -1,6 +1,6 @@
 # SK 炎症性皮膚疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-29
+[← 一覧に戻る](README.md)　更新：2026-10-30
 
 全 30 件のうち、監修済み 0 件。
 
@@ -13,8 +13,8 @@
 - 条件：region: 日本／study: 診療ガイドライン（日本皮膚科学会、2024年版の英語版）
 - 不確実性：重症度の具体的な評価指標や診断基準の細目は抄録の範囲では確認できず、定義と治療方針の骨格のみを抄録で確認した。全文での確認が望ましい。
 - 出典：Saeki H, Ohya Y, Arakawa H, Ichiyama S, et al. English version of clinical practice guidelines for the management of atopic dermatitis 2024. The Journal of Dermatology. 2025;52(2):e70-e142.　[DOI 10.1111/1346-8138.17544](https://doi.org/10.1111/1346-8138.17544)　[PMID 39707640](https://pubmed.ncbi.nlm.nih.gov/39707640/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-066 (id: JlvnlgQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-001&card_id=SK-001&version=d865146320)　（版 `d865146320`）
+- 出題基準：医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-066 (id: JlvnlgQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-001&card_id=SK-001&version=e8657bd654)　（版 `e8657bd654`）
 
 ### SK-002　下書き（出典の照合前）
 
@@ -23,8 +23,8 @@
 - 条件：region: 日本／study: 診療ガイドライン（日本皮膚科学会、2024年版の英語版）
 - 不確実性：薬剤（タクロリムス、デルゴシチニブ、ジファミラストなど）の国内承認・保険適用の個別確認は未実施のため未確認。各薬剤の強さの位置づけや使い分けの詳細は全文未確認であり、抄録に記載された薬剤名の範囲に限った。
 - 出典：Saeki H, Ohya Y, Arakawa H, Ichiyama S, et al. English version of clinical practice guidelines for the management of atopic dermatitis 2024. The Journal of Dermatology. 2025;52(2):e70-e142.　[DOI 10.1111/1346-8138.17544](https://doi.org/10.1111/1346-8138.17544)　[PMID 39707640](https://pubmed.ncbi.nlm.nih.gov/39707640/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-066 (id: JlvnlgQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-002&card_id=SK-002&version=5c0280a945)　（版 `5c0280a945`）
+- 出題基準：医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-066 (id: JlvnlgQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-002&card_id=SK-002&version=2c7cfbccff)　（版 `2c7cfbccff`）
 
 ### SK-003　下書き（出典の照合前）
 
@@ -33,8 +33,8 @@
 - 条件：region: 日本／study: 診療ガイドライン（日本皮膚科学会、2024年版の英語版）
 - 不確実性：薬剤（シクロスポリン、生物学的製剤、JAK阻害薬）の国内承認・保険適用の個別確認は未実施のため未確認。適応となる重症度の基準や投与条件の詳細は全文未確認である。
 - 出典：Saeki H, Ohya Y, Arakawa H, Ichiyama S, et al. English version of clinical practice guidelines for the management of atopic dermatitis 2024. The Journal of Dermatology. 2025;52(2):e70-e142.　[DOI 10.1111/1346-8138.17544](https://doi.org/10.1111/1346-8138.17544)　[PMID 39707640](https://pubmed.ncbi.nlm.nih.gov/39707640/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-066 (id: JlvnlgQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-003&card_id=SK-003&version=481f46bab2)　（版 `481f46bab2`）
+- 出題基準：医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-066 (id: JlvnlgQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-003&card_id=SK-003&version=0252966e52)　（版 `0252966e52`）
 
 ### SK-004　下書き（出典の照合前）
 
@@ -43,10 +43,10 @@
 - 条件：region: 日本／study: 診療ガイドライン（日本皮膚科学会、2024年版の英語版）
 - 不確実性：日本の有病率などの疫学数値は出典の抄録では確認できなかったため、本カードには疫学の数値を含めていない。病態の個別機序（バリア機能障害やサイトカイン経路の詳細）も抄録の範囲外であり、日本の疫学データとあわせて別出典での補完が望ましい。薬剤名を含むが、個別製剤の国内承認・保険適用は未確認。
 - 出典：Saeki H, Ohya Y, Arakawa H, Ichiyama S, et al. English version of clinical practice guidelines for the management of atopic dermatitis 2024. The Journal of Dermatology. 2025;52(2):e70-e142.　[DOI 10.1111/1346-8138.17544](https://doi.org/10.1111/1346-8138.17544)　[PMID 39707640](https://pubmed.ncbi.nlm.nih.gov/39707640/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-066 (id: JlvnlgQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-004&card_id=SK-004&version=1bc52f76d0)　（版 `1bc52f76d0`）
+- 出題基準：医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-066 (id: JlvnlgQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-004&card_id=SK-004&version=017c4d87df)　（版 `017c4d87df`）
 
-**[ここまでの 4 件（SK-001〜SK-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-001%E3%80%9CSK-004&cards=SK-001%20d865146320%0ASK-002%205c0280a945%0ASK-003%20481f46bab2%0ASK-004%201bc52f76d0)**
+**[ここまでの 4 件（SK-001〜SK-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-001%E3%80%9CSK-004&cards=SK-001%20e8657bd654%0ASK-002%202c7cfbccff%0ASK-003%200252966e52%0ASK-004%20017c4d87df)**
 
 ---
 
@@ -197,10 +197,10 @@
 - 条件：region: 日本／study: 診療ガイドライン（日本皮膚科学会、2024年版の英語版）
 - 不確実性：湿疹反応の総論としての記述は、アトピー性皮膚炎ガイドラインにおける定義と治療戦略の記載に基づいており、湿疹の形態学的な分類（急性・慢性の病変の要素など）の詳細は出典の抄録の範囲では確認できていない。
 - 出典：Saeki H, Ohya Y, Arakawa H, Ichiyama S, et al. English version of clinical practice guidelines for the management of atopic dermatitis 2024. The Journal of Dermatology. 2025;52(2):e70-e142.　[DOI 10.1111/1346-8138.17544](https://doi.org/10.1111/1346-8138.17544)　[PMID 39707640](https://pubmed.ncbi.nlm.nih.gov/39707640/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-063 (id: JlvnlgE)；TBL-01-00-066 (id: JlvnlgQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-016&card_id=SK-016&version=ee4fb89d94)　（版 `ee4fb89d94`）
+- 出題基準：医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-063 (id: JlvnlgE)；TBL-01-00-066 (id: JlvnlgQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-016&card_id=SK-016&version=6f977cf5bc)　（版 `6f977cf5bc`）
 
-**[ここまでの 1 件（SK-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-016&cards=SK-016%20ee4fb89d94)**
+**[ここまでの 1 件（SK-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-016&cards=SK-016%206f977cf5bc)**
 
 ---
 
@@ -421,10 +421,10 @@
 - 条件：region: 日本／study: アトピー性皮膚炎診療ガイドライン2024（日本皮膚科学会・日本アレルギー学会）の診断基準表と CQ6 に基づく
 - 不確実性：本カードで触れるステロイドの国内の承認・保険適用は未確認。合併症の頻度の数値は、ガイドラインの該当箇所では確認できなかったため入れていない。内容の確認は日本語版ガイドライン2024の本文で行い、出典の書誌は英語版とした。
 - 出典：Saeki H, Ohya Y, Arakawa H, Ichiyama S, et al. English version of clinical practice guidelines for the management of atopic dermatitis 2024. The Journal of Dermatology. 2025;52(2):e70-e142.　[DOI 10.1111/1346-8138.17544](https://doi.org/10.1111/1346-8138.17544)　[PMID 39707640](https://pubmed.ncbi.nlm.nih.gov/39707640/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-030&card_id=SK-030&version=19c5542811)　（版 `19c5542811`）
+- 出題基準：医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-030&card_id=SK-030&version=f8362bac8d)　（版 `f8362bac8d`）
 
-**[ここまでの 1 件（SK-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-030&cards=SK-030%2019c5542811)**
+**[ここまでの 1 件（SK-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-030&cards=SK-030%20f8362bac8d)**
 
 ---
 

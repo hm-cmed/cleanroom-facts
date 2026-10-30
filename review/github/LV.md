@@ -1,6 +1,6 @@
 # LV 肝 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-29
+[← 一覧に戻る](README.md)　更新：2026-10-30
 
 全 104 件のうち、監修済み 0 件。
 
@@ -596,8 +596,8 @@
 - 鑑別・補足：B型・C型肝炎は血液を介して感染し、慢性化しうる
 - よくある誤解：A型肝炎は慢性肝炎に移行する
 - 出典：CDC. Clinical Overview of Hepatitis A（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-a/hcp/clinical-overview/index.html)（区分 GOV_US）
-- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-282 (id: Jlvnl50)；TBL-01-00-285 (id: Jlvnl6Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-052&card_id=LV-052&version=9471244074)　（版 `9471244074`）
+- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-282 (id: Jlvnl50)；TBL-01-00-285 (id: Jlvnl6Q)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-052&card_id=LV-052&version=226bdfe6b7)　（版 `226bdfe6b7`）
 
 ### LV-053　出典照合済み・監修待ち
 
@@ -606,8 +606,8 @@
 - 条件：source: CDC
 - よくある誤解：小児のA型肝炎は大人より重症になりやすい
 - 出典：CDC. Clinical Overview of Hepatitis A（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-a/hcp/clinical-overview/index.html)（区分 GOV_US）
-- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-282 (id: Jlvnl50)；TBL-01-00-285 (id: Jlvnl6Q)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-053&card_id=LV-053&version=2930d7ece0)　（版 `2930d7ece0`）
+- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-282 (id: Jlvnl50)；TBL-01-00-285 (id: Jlvnl6Q)；TBL-02-07-023 (id: JlAKpks)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-053&card_id=LV-053&version=2dacf32acc)　（版 `2dacf32acc`）
 
 ### LV-054　出典照合済み・監修待ち
 
@@ -616,8 +616,8 @@
 - 条件：source: CDC／region: 米国
 - よくある誤解：A型肝炎は誰が感染しても軽症で済む
 - 出典：CDC. Clinical Overview of Hepatitis A（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-a/hcp/clinical-overview/index.html)（区分 GOV_US）
-- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-282 (id: Jlvnl50)；TBL-01-00-287 (id: Jlvnl6g)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-054&card_id=LV-054&version=36cbacba8d)　（版 `36cbacba8d`）
+- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-282 (id: Jlvnl50)；TBL-01-00-287 (id: Jlvnl6g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-054&card_id=LV-054&version=3c44ddf895)　（版 `3c44ddf895`）
 
 ### LV-055　出典照合済み・監修待ち
 
@@ -627,8 +627,8 @@
 - 鑑別・補足：C型肝炎は成人でも半数以上が慢性化する
 - よくある誤解：成人のHBV感染は多くが慢性化する
 - 出典：CDC. Clinical Overview of Hepatitis B（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-b/hcp/clinical-overview/index.html)（区分 GOV_US）
-- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-285 (id: Jlvnl6Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-055&card_id=LV-055&version=768dff34ac)　（版 `768dff34ac`）
+- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-285 (id: Jlvnl6Q)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-055&card_id=LV-055&version=b07e7dbc24)　（版 `b07e7dbc24`）
 
 ### LV-056　出典照合済み・監修待ち
 
@@ -638,8 +638,8 @@
 - 鑑別・補足：A型肝炎（潜伏期平均28日）
 - よくある誤解：B型急性肝炎は曝露後数日で発症する
 - 出典：CDC. Clinical Overview of Hepatitis B（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-b/hcp/clinical-overview/index.html)（区分 GOV_US）
-- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-285 (id: Jlvnl6Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-056&card_id=LV-056&version=0161ec465e)　（版 `0161ec465e`）
+- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-285 (id: Jlvnl6Q)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-056&card_id=LV-056&version=333ec49737)　（版 `333ec49737`）
 
 ### LV-057　出典照合済み・監修待ち
 
@@ -648,8 +648,8 @@
 - 条件：source: CDC
 - よくある誤解：HBVキャリアは全員が肝硬変になる
 - 出典：CDC. Clinical Overview of Hepatitis B（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-b/hcp/clinical-overview/index.html)（区分 GOV_US）
-- 出題基準：医学各論 Ⅵ-6-B-③（慢性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-286 (id: Jlvnl6Y)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-057&card_id=LV-057&version=d0d4d81693)　（版 `d0d4d81693`）
+- 出題基準：医学各論 Ⅵ-6-B-③（慢性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-286 (id: Jlvnl6Y)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-057&card_id=LV-057&version=903c4634ec)　（版 `903c4634ec`）
 
 ### LV-058　出典照合済み・監修待ち
 
@@ -660,8 +660,8 @@
 - よくある誤解：HBs抗原が陰性なら再活性化は起こらない
 - 不確実性：日本の免疫抑制・化学療法時の再活性化対策ガイドラインは今回は未取得
 - 出典：CDC. Clinical Overview of Hepatitis B（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-b/hcp/clinical-overview/index.html)（区分 GOV_US）
-- 出題基準：医学各論 Ⅵ-6-B-②（劇症肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-02-07-027 (id: JlAKpk4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-058&card_id=LV-058&version=adefe9f32c)　（版 `adefe9f32c`）
+- 出題基準：医学各論 Ⅵ-6-B-②（劇症肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-02-07-027 (id: JlAKpk4)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-058&card_id=LV-058&version=a81c7b3946)　（版 `a81c7b3946`）
 
 ### LV-059　出典照合済み・監修待ち
 
@@ -671,8 +671,8 @@
 - 鑑別・補足：B型肝炎は成人感染の多くが治癒する
 - よくある誤解：C型肝炎は急性期に必ず症状が出る
 - 出典：CDC. Clinical Overview of Hepatitis C（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-c/hcp/clinical-overview/index.html)（区分 GOV_US）
-- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-01-00-285 (id: Jlvnl6Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-059&card_id=LV-059&version=95b79dce44)　（版 `95b79dce44`）
+- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-01-00-285 (id: Jlvnl6Q)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-059&card_id=LV-059&version=5495d47a36)　（版 `5495d47a36`）
 
 ### LV-060　出典照合済み・監修待ち
 
@@ -681,8 +681,8 @@
 - 条件：source: CDC
 - よくある誤解：慢性C型肝炎は数年で全例が肝硬変になる
 - 出典：CDC. Clinical Overview of Hepatitis C（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-c/hcp/clinical-overview/index.html)（区分 GOV_US）
-- 出題基準：医学各論 Ⅵ-6-B-③（慢性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-01-00-286 (id: Jlvnl6Y)；TBL-01-00-295 (id: Juyv1iM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-060&card_id=LV-060&version=9b614cf54a)　（版 `9b614cf54a`）
+- 出題基準：医学各論 Ⅵ-6-B-③（慢性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-01-00-286 (id: Jlvnl6Y)；TBL-01-00-295 (id: Juyv1iM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-060&card_id=LV-060&version=b39e8c7d13)　（版 `b39e8c7d13`）
 
 ### LV-061　出典照合済み・監修待ち
 
@@ -692,10 +692,10 @@
 - 鑑別・補足：HCV抗体陽性は既往感染でもみられる
 - よくある誤解：HCV抗体陽性なら現在感染していると判断してよい
 - 出典：CDC. Clinical Overview of Hepatitis C（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-c/hcp/clinical-overview/index.html)（区分 GOV_US）
-- 出題基準：医学各論 Ⅵ-6-B-③（慢性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-02-07-027 (id: JlAKpk4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-061&card_id=LV-061&version=af31deade5)　（版 `af31deade5`）
+- 出題基準：医学各論 Ⅵ-6-B-③（慢性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-02-07-027 (id: JlAKpk4)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-061&card_id=LV-061&version=705ed70414)　（版 `705ed70414`）
 
-**[ここまでの 10 件（LV-052〜LV-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-052%E3%80%9CLV-061&cards=LV-052%209471244074%0ALV-053%202930d7ece0%0ALV-054%2036cbacba8d%0ALV-055%20768dff34ac%0ALV-056%200161ec465e%0ALV-057%20d0d4d81693%0ALV-058%20adefe9f32c%0ALV-059%2095b79dce44%0ALV-060%209b614cf54a%0ALV-061%20af31deade5)**
+**[ここまでの 10 件（LV-052〜LV-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-052%E3%80%9CLV-061&cards=LV-052%20226bdfe6b7%0ALV-053%202dacf32acc%0ALV-054%203c44ddf895%0ALV-055%20b07e7dbc24%0ALV-056%20333ec49737%0ALV-057%20903c4634ec%0ALV-058%20a81c7b3946%0ALV-059%205495d47a36%0ALV-060%20b39e8c7d13%0ALV-061%20705ed70414)**
 
 ---
 
@@ -707,8 +707,8 @@
 - 鑑別・補足：インターフェロン治療は効果が低く副作用が多かった
 - よくある誤解：C型肝炎は治らない病気である
 - 出典：CDC. Clinical Overview of Hepatitis C（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-c/hcp/clinical-overview/index.html)（区分 GOV_US）
-- 出題基準：医学各論 Ⅵ-6-B-③（慢性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-01-00-286 (id: Jlvnl6Y)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-062&card_id=LV-062&version=ca50c8aedd)　（版 `ca50c8aedd`）
+- 出題基準：医学各論 Ⅵ-6-B-③（慢性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-01-00-286 (id: Jlvnl6Y)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-062&card_id=LV-062&version=74ac02c339)　（版 `74ac02c339`）
 
 ### LV-063　出典照合済み・監修待ち
 
@@ -718,8 +718,8 @@
 - 鑑別・補足：A型肝炎（貝類や汚染された水・食物）
 - よくある誤解：E型肝炎は輸入感染症に限られる
 - 出典：厚生労働省『E型肝炎に関するQ&A』　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/hepatitis-e-virus_qa.html)（区分 GOV_JP）
-- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-285 (id: Jlvnl6Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-063&card_id=LV-063&version=0feac9656a)　（版 `0feac9656a`）
+- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-285 (id: Jlvnl6Q)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-063&card_id=LV-063&version=efbc22f069)　（版 `efbc22f069`）
 
 ### LV-064　出典照合済み・監修待ち
 
@@ -729,8 +729,8 @@
 - よくある誤解：E型肝炎は全例で重症化する
 - 不確実性：Q&Aは慢性化しないと記載しているが、免疫抑制状態での慢性化については記載がない
 - 出典：厚生労働省『E型肝炎に関するQ&A』　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/hepatitis-e-virus_qa.html)（区分 GOV_JP）
-- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-285 (id: Jlvnl6Q)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-064&card_id=LV-064&version=a248e68917)　（版 `a248e68917`）
+- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-285 (id: Jlvnl6Q)；TBL-02-07-023 (id: JlAKpks)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-064&card_id=LV-064&version=9c153403aa)　（版 `9c153403aa`）
 
 ### LV-065　出典照合済み・監修待ち
 
@@ -740,8 +740,8 @@
 - 鑑別・補足：A型肝炎（同じく経口感染）
 - よくある誤解：E型肝炎は届出の必要がない
 - 出典：厚生労働省『E型肝炎に関するQ&A』　[リンク](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/hepatitis-e-virus_qa.html)（区分 GOV_JP）
-- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-285 (id: Jlvnl6Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-065&card_id=LV-065&version=510054008b)　（版 `510054008b`）
+- 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-285 (id: Jlvnl6Q)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-065&card_id=LV-065&version=598e42e4df)　（版 `598e42e4df`）
 
 ### LV-098　出典照合済み・監修待ち
 
@@ -795,7 +795,7 @@
 - 出題基準：医学各論 Ⅵ-6-B-②（劇症肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-02-07-027 (id: JlAKpk4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-102&card_id=LV-102&version=31c10838bd)　（版 `31c10838bd`）
 
-**[ここまでの 9 件（LV-062〜LV-102）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-062%E3%80%9CLV-102&cards=LV-062%20ca50c8aedd%0ALV-063%200feac9656a%0ALV-064%20a248e68917%0ALV-065%20510054008b%0ALV-098%20da44e62d68%0ALV-099%209e42f3b139%0ALV-100%20976e684580%0ALV-101%204860a41503%0ALV-102%2031c10838bd)**
+**[ここまでの 9 件（LV-062〜LV-102）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-062%E3%80%9CLV-102&cards=LV-062%2074ac02c339%0ALV-063%20efbc22f069%0ALV-064%209c153403aa%0ALV-065%20598e42e4df%0ALV-098%20da44e62d68%0ALV-099%209e42f3b139%0ALV-100%20976e684580%0ALV-101%204860a41503%0ALV-102%2031c10838bd)**
 
 ---
 

@@ -266,7 +266,7 @@
     corroboration: null
   uncertainty: 抗HIV薬は国内で多数承認され保険適用があり、国内の標準的治療指針である日本エイズ学会「HIV感染症『治療の手引き』」（第29版、2025年12月）では初回治療で INSTI と NRTI の組合せが推奨の中心である（学会の公開資料で確認）。曝露前予防（PrEP）の国内承認状況は一次資料で確認できていないため主張に入れていない。HIV 関連中枢神経合併症は NI の範囲として本カードでは扱わない。
   curriculum:
-    kokushi: 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）
+    kokushi: 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a）
     core_curriculum: 'PS-03-03-01 (id: JkxnuUg)；TBL-01-00-608 (id: JlvnmY8)'
   publication_info:
     created: '2026-10-29'
@@ -278,6 +278,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/34_if_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-4-A-① を足した（医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a） → 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a））。三原の承認による
 - id: HV-009
   domain: HV
   subdomain: ヒト免疫不全ウイルス感染症
@@ -301,7 +304,7 @@
     corroboration: null
   uncertainty: 数値は抄録の Results で確認した（平均追跡 3.0 年）。抗HIV薬は国内で多数承認され保険適用がある（日本エイズ学会の公開資料で確認）。国内の治療指針における具体的な推奨レジメンは本カードの範囲外とした。
   curriculum:
-    kokushi: 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）
+    kokushi: 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a）
     core_curriculum: 'PS-03-03-01 (id: JkxnuUg)；TBL-01-00-608 (id: JlvnmY8)'
   publication_info:
     created: '2026-10-29'
@@ -313,6 +316,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/34_if_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-4-A-① を足した（医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a） → 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a））。三原の承認による
 - id: HV-010
   domain: HV
   subdomain: ヒト免疫不全ウイルス感染症
@@ -336,7 +342,7 @@
     corroboration: null
   uncertainty: 数値は厚生労働省エイズ動向委員会の年報概要（エイズ予防情報ネット掲載版）で確認した。HIV 感染症・後天性免疫不全症候群は感染症法の五類感染症（全数把握対象）であり年報はその届出の集計とされているが、法令文そのものの直接確認はしていない。
   curriculum:
-    kokushi: 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）
+    kokushi: 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a）
     core_curriculum: 'PS-03-03-01 (id: JkxnuUg)；TBL-01-00-608 (id: JlvnmY8)'
   publication_info:
     created: '2026-10-29'
@@ -348,6 +354,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/34_if_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-4-A-① を足した（医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a） → 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a））。三原の承認による
 - id: HV-011
   domain: HV
   subdomain: ヒト免疫不全ウイルス感染症
@@ -371,7 +380,7 @@
     corroboration: null
   uncertainty: 米国の公衆衛生局ガイドラインに基づく推奨であり、日本の医療機関における具体的な運用とは異なる場合がある。針刺し事故後の HIV PEP について国内の一次指針の文面確認は未了である。PEP に用いる抗HIV薬そのものは国内で承認され保険適用があるが、曝露後予防としての保険適用の扱いは本カードでは確認していない。
   curriculum:
-    kokushi: 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）
+    kokushi: 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a）
     core_curriculum: 'PS-03-03-17 (id: JkxnuVg)；TBL-01-00-608 (id: JlvnmY8)'
   publication_info:
     created: '2026-10-29'
@@ -383,6 +392,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/34_if_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-4-A-① を足した（医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a） → 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a））。三原の承認による
 - id: HV-012
   domain: HV
   subdomain: ウイルス性肝炎

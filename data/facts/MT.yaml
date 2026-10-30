@@ -836,7 +836,7 @@
   uncertainty: MSU結晶の同定による診断の位置づけは、本ガイドライン第3版が海外ガイドラインの定義として紹介している記述に基づく（日本の臨床診断基準そのものではない）。コルヒチン・NSAIDs・副腎皮質ステロイドはいずれも国内で使用される薬剤だが、個別製剤の適応・用量は本調査では添付文書で確認していない（未確認）。本カードは第3版（2019年改訂）の記載に基づく。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-485 (id: JlvnmNE)'
-    kokushi: 医学各論 Ⅹ-9-B-①（痛風、a）
+    kokushi: 医学各論 Ⅹ-9-B-①（痛風、a）；医学各論 Ⅺ-2-E-①（痛風、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -847,6 +847,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-2-E-① を足した（医学各論 Ⅹ-9-B-①（痛風、a） → 医学各論 Ⅹ-9-B-①（痛風、a）；医学各論 Ⅺ-2-E-①（痛風、a））。三原の承認による
 - id: MT-025
   domain: MT
   subdomain: 高尿酸血症の分類と診断
@@ -941,7 +944,7 @@
   uncertainty: 米国のガイドラインであり、日本の管理目標は日本のガイドライン（SRC-991）の6.0 mg/dL以下が基準となる。5 mg/dL未満の目標はEULAR 2016推奨の抄録で照合した内容である。アロプリノール・フェブキソスタットの国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-485 (id: JlvnmNE)'
-    kokushi: 医学各論 Ⅹ-9-B-①（痛風、a）
+    kokushi: 医学各論 Ⅹ-9-B-①（痛風、a）；医学各論 Ⅺ-2-E-①（痛風、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -952,6 +955,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-2-E-① を足した（医学各論 Ⅹ-9-B-①（痛風、a） → 医学各論 Ⅹ-9-B-①（痛風、a）；医学各論 Ⅺ-2-E-①（痛風、a））。三原の承認による
 - id: MT-028
   domain: MT
   subdomain: ポルフィリン症

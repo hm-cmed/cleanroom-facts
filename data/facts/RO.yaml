@@ -547,7 +547,7 @@
   uncertainty: 英語版の要約（抄録）で確認した内容。最新版は JGL2024 だが、英語版の要約を確認できなかったため JGL2021 を出典にした。GINA（RO-021）とは段階数や発作治療薬の扱いが異なる
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)'
-    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）
+    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -558,6 +558,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-C-① を足した（医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a） → 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a））。三原の承認による
 - id: RO-017
   domain: RO
   subdomain: 気管支喘息
@@ -582,7 +585,7 @@
   uncertainty: 表から読み取り
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)'
-    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）
+    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -593,6 +596,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-C-① を足した（医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a） → 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a））。三原の承認による
 - id: RO-018
   domain: RO
   subdomain: 気管支喘息
@@ -617,7 +623,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)'
-    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）
+    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -628,6 +634,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-C-① を足した（医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a） → 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a））。三原の承認による
 - id: RO-019
   domain: RO
   subdomain: 気管支喘息
@@ -652,7 +661,7 @@
   uncertainty: 表から読み取り。小児の基準は異なる（FEV1 の増加12%以上など）
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)；TBL-02-06-021 (id: JlAKpiU)'
-    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）
+    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -663,6 +672,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-C-① を足した（医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a） → 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a））。三原の承認による
 - id: RO-020
   domain: RO
   subdomain: 気管支喘息
@@ -687,7 +699,7 @@
   uncertainty: 小児の目安は35 ppb を超える値。日本のガイドラインの呼気 NO の基準値はこの出典では確認していない
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)；TBL-02-06-022 (id: JvVZg-4)'
-    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）
+    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -698,6 +710,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-C-① を足した（医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a） → 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a））。三原の承認による
 - id: RO-021
   domain: RO
   subdomain: 気管支喘息
@@ -722,7 +737,7 @@
   uncertainty: 日本の JGL とは発作治療薬の推奨が異なる。日本での ICS・SABA 配合薬の承認状況は確認していない。Step 1〜4 の表は抽出できなかった
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)'
-    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）
+    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -733,6 +748,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-C-① を足した（医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a） → 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a））。三原の承認による
 - id: RO-022
   domain: RO
   subdomain: 気管支喘息
@@ -757,7 +775,7 @@
   uncertainty: 経口ステロイドの用量・期間はこの出典の抽出範囲に含まれない
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)；TBL-02-06-026 (id: JlAKpik)'
-    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）
+    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -768,6 +786,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-C-① を足した（医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a） → 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a））。三原の承認による
 - id: RO-023
   domain: RO
   subdomain: 気管支喘息
@@ -792,7 +813,7 @@
   uncertainty: 各製剤の適応基準（好酸球数・FeNO・IgE の値）は抽出できなかった。日本での各製剤の承認・保険適用は確認していない
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)'
-    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）
+    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -803,6 +824,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-C-① を足した（医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a） → 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a））。三原の承認による
 - id: RO-024
   domain: RO
   subdomain: 気管支喘息
@@ -827,7 +851,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)'
-    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）
+    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -838,6 +862,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-C-① を足した（医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a） → 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a））。三原の承認による
 - id: RO-025
   domain: RO
   subdomain: アトピー咳嗽
@@ -862,7 +889,7 @@
   uncertainty: 英語ダイジェストの抄録で確認した内容。2025年に改訂版（咳嗽・喀痰の診療ガイドライン2025）が出ているが、内容を確認できなかったため旧版を出典にした。遷延性と慢性の境界（週数）は抄録では確認できなかった
   curriculum:
     core_curriculum: 'PS-02-07-02 (id: JkxnuQ4)；TBL-02-06-011 (id: JlAKph0)'
-    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅳ-3-A-②（アトピー咳嗽、a）
+    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅳ-3-A-②（アトピー咳嗽、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -873,6 +900,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-C-① を足した（医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅳ-3-A-②（アトピー咳嗽、a） → 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅳ-3-A-②（アトピー咳嗽、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a））。三原の承認による
 - id: RO-026
   domain: RO
   subdomain: アトピー咳嗽
@@ -932,7 +962,7 @@
   uncertainty: 移行率は提唱者グループの小規模な観察研究の値で、追跡期間は出典で確認が要る
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)'
-    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅳ-3-A-②（アトピー咳嗽、a）
+    kokushi: 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅳ-3-A-②（アトピー咳嗽、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -943,6 +973,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-C-① を足した（医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅳ-3-A-②（アトピー咳嗽、a） → 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅳ-3-A-②（アトピー咳嗽、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a））。三原の承認による
 - id: RO-028
   domain: RO
   subdomain: 気管支拡張症

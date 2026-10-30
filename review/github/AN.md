@@ -1,6 +1,6 @@
 # AN 水頭症、脳・脊髄の形成異常、神経皮膚症候群、脳性麻痺 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-29
+[← 一覧に戻る](README.md)　更新：2026-10-30
 
 全 29 件のうち、監修済み 0 件。
 
@@ -137,8 +137,8 @@
 - 条件：region: 日本／対象: 妊娠の可能性がある女性・妊娠を計画している女性
 - 不確実性：葉酸は医薬品ではなく栄養補助食品としての摂取推奨であり、国内承認・保険適用の対象ではない。GOV_JP の区分（政府標準利用規約の適用）は取り込み側で最終確認を要する。海外の無作為化試験（MRC Vitamin Study 等）の効果量は本カードには含めていない。（出典内の位置：e-ヘルスネット「葉酸とサプリメント」の日本の対策に関する記述）
 - 出典：厚生労働省. 葉酸とサプリメント ‐神経管閉鎖障害のリスク低減に対する効果. e-ヘルスネット　[リンク](https://kennet.mhlw.go.jp/information/information/food/e-05-002)（区分 GOV_JP）
-- 出題基準：医学各論 Ⅸ-10-J-③（二分脊椎、髄膜瘤、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AN-011&card_id=AN-011&version=531dbda985)　（版 `531dbda985`）
+- 出題基準：医学各論 Ⅸ-10-J-③（二分脊椎、髄膜瘤、c）；医学各論 Ⅰ-3-H-⑪（髄膜瘤、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AN-011&card_id=AN-011&version=931adfd9f2)　（版 `931adfd9f2`）
 
 ### AN-012　下書き（出典の照合前）
 
@@ -147,10 +147,10 @@
 - 条件：region: 国際／対象: 脊髄髄膜瘤の胎児とその母体
 - 不確実性：髄膜瘤（嚢内に神経組織を含まないもの）と脊髄髄膜瘤の定義上の区別自体は本出典の抄録に明示がなく、裏付けは取り込み側で別途確認を要する。出生前診断（母体血清AFP等）については専用カードを作らなかった（申し送り）。（出典内の位置：抄録の Results）
 - 出典：Adzick NS, et al. A randomized trial of prenatal versus postnatal repair of myelomeningocele. N Engl J Med. 2011;364(11):993-1004　[DOI 10.1056/NEJMoa1014379](https://doi.org/10.1056/NEJMoa1014379)　[PMID 21306277](https://pubmed.ncbi.nlm.nih.gov/21306277/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-10-J-③（二分脊椎、髄膜瘤、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AN-012&card_id=AN-012&version=be8252dcd3)　（版 `be8252dcd3`）
+- 出題基準：医学各論 Ⅸ-10-J-③（二分脊椎、髄膜瘤、c）；医学各論 Ⅰ-3-H-⑪（髄膜瘤、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AN-012&card_id=AN-012&version=0ebf18c8e5)　（版 `0ebf18c8e5`）
 
-**[ここまでの 2 件（AN-011〜AN-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AN-011%E3%80%9CAN-012&cards=AN-011%20531dbda985%0AAN-012%20be8252dcd3)**
+**[ここまでの 2 件（AN-011〜AN-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AN-011%E3%80%9CAN-012&cards=AN-011%20931adfd9f2%0AAN-012%200ebf18c8e5)**
 
 ---
 

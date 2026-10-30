@@ -1,6 +1,6 @@
 # RO 気道・閉塞性肺疾患（COPD・喘息） の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-29
+[← 一覧に戻る](README.md)　更新：2026-10-30
 
 全 41 件のうち、監修済み 0 件。
 
@@ -182,8 +182,8 @@
 - よくある誤解：喘息の長期管理は症状のあるときだけ短時間作用性β2刺激薬を使えばよい
 - 不確実性：英語版の要約（抄録）で確認した内容。最新版は JGL2024 だが、英語版の要約を確認できなかったため JGL2021 を出典にした。GINA（RO-021）とは段階数や発作治療薬の扱いが異なる
 - 出典：Niimi A, Fukunaga K, Taniguchi M, et al. Executive summary: Japanese guidelines for adult asthma (JGL) 2021. Allergol Int 2023;72(2):207-226　[DOI 10.1016/j.alit.2023.02.006](https://doi.org/10.1016/j.alit.2023.02.006)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-016&card_id=RO-016&version=140dcd0cd5)　（版 `140dcd0cd5`）
+- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-016&card_id=RO-016&version=e8938fc4eb)　（版 `e8938fc4eb`）
 
 ### RO-017　下書き（出典の照合前）
 
@@ -192,8 +192,8 @@
 - 条件：region: 日本
 - 不確実性：表から読み取り
 - 出典：厚生労働省. 令和6年（2024）人口動態統計（確定数）の概況 第9表 死因簡単分類別にみた性別死亡数・死亡率（人口10万対）　[リンク](https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/kakutei24/dl/15_gaikyouR06.pdf)（区分 GOV_JP）
-- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-017&card_id=RO-017&version=dfaeac7770)　（版 `dfaeac7770`）
+- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-017&card_id=RO-017&version=f838140f03)　（版 `f838140f03`）
 
 ### RO-018　下書き（出典の照合前）
 
@@ -202,8 +202,8 @@
 - 条件：guideline: GINA 2026／region: 国際
 - よくある誤解：喘息の気流制限は常に固定している
 - 出典：Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2026 update (Strategy Report)　[リンク](https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-018&card_id=RO-018&version=de2b98898b)　（版 `de2b98898b`）
+- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-018&card_id=RO-018&version=7a222455d9)　（版 `7a222455d9`）
 
 ### RO-019　下書き（出典の照合前）
 
@@ -213,8 +213,8 @@
 - よくある誤解：気道可逆性がなければ喘息は否定できる
 - 不確実性：表から読み取り。小児の基準は異なる（FEV1 の増加12%以上など）
 - 出典：Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2026 update (Strategy Report)　[リンク](https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)；TBL-02-06-021 (id: JlAKpiU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-019&card_id=RO-019&version=b82eee28bd)　（版 `b82eee28bd`）
+- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)；TBL-02-06-021 (id: JlAKpiU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-019&card_id=RO-019&version=286248a372)　（版 `286248a372`）
 
 ### RO-020　下書き（出典の照合前）
 
@@ -224,8 +224,8 @@
 - よくある誤解：呼気 NO が正常なら喘息ではない
 - 不確実性：小児の目安は35 ppb を超える値。日本のガイドラインの呼気 NO の基準値はこの出典では確認していない
 - 出典：Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2026 update (Strategy Report)　[リンク](https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)；TBL-02-06-022 (id: JvVZg-4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-020&card_id=RO-020&version=58a6afeb3e)　（版 `58a6afeb3e`）
+- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)；TBL-02-06-022 (id: JvVZg-4)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-020&card_id=RO-020&version=40306d2879)　（版 `40306d2879`）
 
 ### RO-021　下書き（出典の照合前）
 
@@ -234,8 +234,8 @@
 - 条件：guideline: GINA 2026／region: 国際
 - 不確実性：日本の JGL とは発作治療薬の推奨が異なる。日本での ICS・SABA 配合薬の承認状況は確認していない。Step 1〜4 の表は抽出できなかった
 - 出典：Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2026 update (Strategy Report)　[リンク](https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-021&card_id=RO-021&version=0d904b00eb)　（版 `0d904b00eb`）
+- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-021&card_id=RO-021&version=7b4432353f)　（版 `7b4432353f`）
 
 ### RO-022　下書き（出典の照合前）
 
@@ -245,8 +245,8 @@
 - よくある誤解：喘息発作では SpO2 にかかわらず高流量酸素を続ける
 - 不確実性：経口ステロイドの用量・期間はこの出典の抽出範囲に含まれない
 - 出典：Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2026 update (Strategy Report)　[リンク](https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)；TBL-02-06-026 (id: JlAKpik)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-022&card_id=RO-022&version=ed5cfdff2f)　（版 `ed5cfdff2f`）
+- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)；TBL-02-06-026 (id: JlAKpik)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-022&card_id=RO-022&version=df50aa5cd4)　（版 `df50aa5cd4`）
 
 ### RO-023　下書き（出典の照合前）
 
@@ -255,8 +255,8 @@
 - 条件：guideline: GINA 2026／region: 国際
 - 不確実性：各製剤の適応基準（好酸球数・FeNO・IgE の値）は抽出できなかった。日本での各製剤の承認・保険適用は確認していない
 - 出典：Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2026 update (Strategy Report)　[リンク](https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-023&card_id=RO-023&version=5fc83af8f7)　（版 `5fc83af8f7`）
+- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-023&card_id=RO-023&version=cc1309a50c)　（版 `cc1309a50c`）
 
 ### RO-024　下書き（出典の照合前）
 
@@ -264,10 +264,10 @@
 
 - 条件：guideline: GINA 2026／region: 国際
 - 出典：Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2026 update (Strategy Report)　[リンク](https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-024&card_id=RO-024&version=b4525b2896)　（版 `b4525b2896`）
+- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-024&card_id=RO-024&version=7f1bfdf5bf)　（版 `7f1bfdf5bf`）
 
-**[ここまでの 9 件（RO-016〜RO-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-016%E3%80%9CRO-024&cards=RO-016%20140dcd0cd5%0ARO-017%20dfaeac7770%0ARO-018%20de2b98898b%0ARO-019%20b82eee28bd%0ARO-020%2058a6afeb3e%0ARO-021%200d904b00eb%0ARO-022%20ed5cfdff2f%0ARO-023%205fc83af8f7%0ARO-024%20b4525b2896)**
+**[ここまでの 9 件（RO-016〜RO-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-016%E3%80%9CRO-024&cards=RO-016%20e8938fc4eb%0ARO-017%20f838140f03%0ARO-018%207a222455d9%0ARO-019%20286248a372%0ARO-020%2040306d2879%0ARO-021%207b4432353f%0ARO-022%20df50aa5cd4%0ARO-023%20cc1309a50c%0ARO-024%207f1bfdf5bf)**
 
 ---
 
@@ -281,8 +281,8 @@
 - よくある誤解：長引く咳はまず抗菌薬で治療する
 - 不確実性：英語ダイジェストの抄録で確認した内容。2025年に改訂版（咳嗽・喀痰の診療ガイドライン2025）が出ているが、内容を確認できなかったため旧版を出典にした。遷延性と慢性の境界（週数）は抄録では確認できなかった
 - 出典：Mukae H, Kaneko T, Obase Y, et al. The Japanese respiratory society guidelines for the management of cough and sputum (digest edition). Respir Investig 2021;59(3):270-290　[DOI 10.1016/j.resinv.2021.01.007](https://doi.org/10.1016/j.resinv.2021.01.007)　[PMID 33642231](https://pubmed.ncbi.nlm.nih.gov/33642231/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅳ-3-A-②（アトピー咳嗽、a）　コアカリ：PS-02-07-02 (id: JkxnuQ4)；TBL-02-06-011 (id: JlAKph0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-025&card_id=RO-025&version=d8e4c03aa7)　（版 `d8e4c03aa7`）
+- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅳ-3-A-②（アトピー咳嗽、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）　コアカリ：PS-02-07-02 (id: JkxnuQ4)；TBL-02-06-011 (id: JlAKph0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-025&card_id=RO-025&version=866c1c5da5)　（版 `866c1c5da5`）
 
 ### RO-026　下書き（出典の照合前）
 
@@ -303,10 +303,10 @@
 - よくある誤解：咳喘息もアトピー咳嗽も同じ割合で典型的な喘息に移行する
 - 不確実性：移行率は提唱者グループの小規模な観察研究の値で、追跡期間は出典で確認が要る
 - 出典：Ogawa H, Fujimura M, Ohkura N, Makimura K. Atopic cough and fungal allergy. J Thorac Dis 2014;6(Suppl 7):S689-S698　[DOI 10.3978/j.issn.2072-1439.2014.09.25](https://doi.org/10.3978/j.issn.2072-1439.2014.09.25)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅳ-3-A-②（アトピー咳嗽、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-027&card_id=RO-027&version=aac7b6f66d)　（版 `aac7b6f66d`）
+- 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅳ-3-A-②（アトピー咳嗽、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-027&card_id=RO-027&version=d03859849f)　（版 `d03859849f`）
 
-**[ここまでの 3 件（RO-025〜RO-027）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-025%E3%80%9CRO-027&cards=RO-025%20d8e4c03aa7%0ARO-026%2010851a202a%0ARO-027%20aac7b6f66d)**
+**[ここまでの 3 件（RO-025〜RO-027）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-025%E3%80%9CRO-027&cards=RO-025%20866c1c5da5%0ARO-026%2010851a202a%0ARO-027%20d03859849f)**
 
 ---
 

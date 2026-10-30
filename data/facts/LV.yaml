@@ -2579,7 +2579,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-282 (id: Jlvnl50)；TBL-01-00-285 (id: Jlvnl6Q)'
-    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）
+    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2596,6 +2596,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-1-A-⑰ を足した（医学各論 Ⅵ-6-B-①（急性肝炎、a） → 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a））。三原の承認による
 - id: LV-053
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2625,7 +2628,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-282 (id: Jlvnl50)；TBL-01-00-285 (id: Jlvnl6Q)；TBL-02-07-023 (id: JlAKpks)'
-    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）
+    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2642,6 +2645,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-1-A-⑰ を足した（医学各論 Ⅵ-6-B-①（急性肝炎、a） → 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a））。三原の承認による
 - id: LV-054
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2672,7 +2678,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-282 (id: Jlvnl50)；TBL-01-00-287 (id: Jlvnl6g)'
-    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）
+    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2689,6 +2695,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-1-A-⑰ を足した（医学各論 Ⅵ-6-B-①（急性肝炎、a） → 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a））。三原の承認による
 - id: LV-055
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2718,7 +2727,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-285 (id: Jlvnl6Q)'
-    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）
+    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2735,6 +2744,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-1-A-⑰ を足した（医学各論 Ⅵ-6-B-①（急性肝炎、a） → 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a））。三原の承認による
 - id: LV-056
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2764,7 +2776,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-285 (id: Jlvnl6Q)'
-    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）
+    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2781,6 +2793,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-1-A-⑰ を足した（医学各論 Ⅵ-6-B-①（急性肝炎、a） → 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a））。三原の承認による
 - id: LV-057
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2810,7 +2825,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-286 (id: Jlvnl6Y)'
-    kokushi: 医学各論 Ⅵ-6-B-③（慢性肝炎、a）
+    kokushi: 医学各論 Ⅵ-6-B-③（慢性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2827,6 +2842,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-1-A-⑰ を足した（医学各論 Ⅵ-6-B-③（慢性肝炎、a） → 医学各論 Ⅵ-6-B-③（慢性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a））。三原の承認による
 - id: LV-058
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2856,7 +2874,7 @@
   uncertainty: 日本の免疫抑制・化学療法時の再活性化対策ガイドラインは今回は未取得
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-02-07-027 (id: JlAKpk4)'
-    kokushi: 医学各論 Ⅵ-6-B-②（劇症肝炎、a）
+    kokushi: 医学各論 Ⅵ-6-B-②（劇症肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2873,6 +2891,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-1-A-⑰ を足した（医学各論 Ⅵ-6-B-②（劇症肝炎、a） → 医学各論 Ⅵ-6-B-②（劇症肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a））。三原の承認による
 - id: LV-059
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2902,7 +2923,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-01-00-285 (id: Jlvnl6Q)'
-    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）
+    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2919,6 +2940,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-1-A-⑰ を足した（医学各論 Ⅵ-6-B-①（急性肝炎、a） → 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a））。三原の承認による
 - id: LV-060
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2948,7 +2972,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-01-00-286 (id: Jlvnl6Y)；TBL-01-00-295 (id: Juyv1iM)'
-    kokushi: 医学各論 Ⅵ-6-B-③（慢性肝炎、a）
+    kokushi: 医学各論 Ⅵ-6-B-③（慢性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2965,6 +2989,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-1-A-⑰ を足した（医学各論 Ⅵ-6-B-③（慢性肝炎、a） → 医学各論 Ⅵ-6-B-③（慢性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a））。三原の承認による
 - id: LV-061
   domain: LV
   subdomain: ウイルス性肝炎
@@ -2994,7 +3021,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-02-07-027 (id: JlAKpk4)'
-    kokushi: 医学各論 Ⅵ-6-B-③（慢性肝炎、a）
+    kokushi: 医学各論 Ⅵ-6-B-③（慢性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3011,6 +3038,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-1-A-⑰ を足した（医学各論 Ⅵ-6-B-③（慢性肝炎、a） → 医学各論 Ⅵ-6-B-③（慢性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a））。三原の承認による
 - id: LV-062
   domain: LV
   subdomain: ウイルス性肝炎
@@ -3041,7 +3071,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-01-00-286 (id: Jlvnl6Y)'
-    kokushi: 医学各論 Ⅵ-6-B-③（慢性肝炎、a）
+    kokushi: 医学各論 Ⅵ-6-B-③（慢性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3058,6 +3088,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-1-A-⑰ を足した（医学各論 Ⅵ-6-B-③（慢性肝炎、a） → 医学各論 Ⅵ-6-B-③（慢性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a））。三原の承認による
 - id: LV-063
   domain: LV
   subdomain: ウイルス性肝炎
@@ -3087,7 +3120,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-285 (id: Jlvnl6Q)'
-    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）
+    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3104,6 +3137,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-1-A-⑰ を足した（医学各論 Ⅵ-6-B-①（急性肝炎、a） → 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a））。三原の承認による
 - id: LV-064
   domain: LV
   subdomain: ウイルス性肝炎
@@ -3133,7 +3169,7 @@
   uncertainty: Q&Aは慢性化しないと記載しているが、免疫抑制状態での慢性化については記載がない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-285 (id: Jlvnl6Q)；TBL-02-07-023 (id: JlAKpks)'
-    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）
+    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3150,6 +3186,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-1-A-⑰ を足した（医学各論 Ⅵ-6-B-①（急性肝炎、a） → 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a））。三原の承認による
 - id: LV-065
   domain: LV
   subdomain: ウイルス性肝炎
@@ -3180,7 +3219,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-285 (id: Jlvnl6Q)'
-    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）
+    kokushi: 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3197,6 +3236,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅻ-1-A-⑰ を足した（医学各論 Ⅵ-6-B-①（急性肝炎、a） → 医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a））。三原の承認による
 - id: LV-066
   domain: LV
   subdomain: 体質性黄疸

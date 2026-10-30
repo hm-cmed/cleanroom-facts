@@ -21,7 +21,7 @@
     corroboration: null
   uncertainty: 本基準は診断・病期分類の原則を示すもので、具体的な診療手順や治療プロトコルを定めるものではないと基準自体が明記している。血漿バイオマーカーの国内臨床実装の状況は本作成では未確認。
   curriculum:
-    kokushi: 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）
+    kokushi: 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)'
   publication_info:
     created: '2026-10-28'
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅱ-1-A-① を足した（医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a） → 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a））。三原の承認による
 - id: ND-002
   domain: ND
   subdomain: Alzheimer型認知症
@@ -56,7 +59,7 @@
     corroboration: null
   uncertainty: 約45%は集団寄与割合に基づく理論的推定であり、個人の予防効果を保証する値ではない。数値は本文で確認した（二次資料経由ではない）。
   curriculum:
-    kokushi: 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）
+    kokushi: 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)'
   publication_info:
     created: '2026-10-28'
@@ -68,6 +71,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅱ-1-A-① を足した（医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a） → 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a））。三原の承認による
 - id: ND-003
   domain: ND
   subdomain: Alzheimer型認知症
@@ -91,7 +97,7 @@
     corroboration: null
   uncertainty: 上記4剤はいずれも国内でAlzheimer型認知症に対して承認され保険適用されている（個別の適応病期は各添付文書による）。本ガイドラインは2017年版であり、抗アミロイド抗体は収載されていない。
   curriculum:
-    kokushi: 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）
+    kokushi: 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)'
   publication_info:
     created: '2026-10-28'
@@ -103,6 +109,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅱ-1-A-① を足した（医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a） → 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a））。三原の承認による
 - id: ND-004
   domain: ND
   subdomain: Alzheimer型認知症
@@ -126,7 +135,7 @@
     corroboration: null
   uncertainty: 数値は抄録で確認。ARIA-Hの発現率は抄録に記載がなく本カードには含めていない。レカネマブは国内で2023年9月に承認され保険適用されており、日本での適正使用の条件はND-006を参照。
   curriculum:
-    kokushi: 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）
+    kokushi: 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)'
   publication_info:
     created: '2026-10-28'
@@ -138,6 +147,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅱ-1-A-① を足した（医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a） → 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a））。三原の承認による
 - id: ND-005
   domain: ND
   subdomain: Alzheimer型認知症
@@ -161,7 +173,7 @@
     corroboration: null
   uncertainty: 数値は抄録で確認。ドナネマブはアミロイド除去が確認されれば投与を完了する設計の薬剤である。国内では2024年9月に承認され同年11月に保険収載された（日本での条件はND-007を参照）。
   curriculum:
-    kokushi: 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）
+    kokushi: 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)'
   publication_info:
     created: '2026-10-28'
@@ -173,6 +185,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅱ-1-A-① を足した（医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a） → 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a））。三原の承認による
 - id: ND-006
   domain: ND
   subdomain: Alzheimer型認知症
@@ -196,7 +211,7 @@
     corroboration: null
   uncertainty: 米国適正使用推奨（ND-008）が推奨するAPOE遺伝子型検査は、日本の承認・ガイドラインでは投与の要件とされていない点が地域差である。政府標準利用規約の適用区分（GOV_JP）は取り込み側での最終確認を要する。ガイドラインは改訂があり得るため使用時は最新版を確認する。
   curriculum:
-    kokushi: 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）
+    kokushi: 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)'
   publication_info:
     created: '2026-10-28'
@@ -208,6 +223,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅱ-1-A-① を足した（医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a） → 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a））。三原の承認による
 - id: ND-007
   domain: ND
   subdomain: Alzheimer型認知症
@@ -231,7 +249,7 @@
     corroboration: null
   uncertainty: 用量・投与完了基準は添付文書および最適使用推進ガイドラインの公表内容で確認した。18か月を超える投与については保険上の留意事項通知で再評価が求められる。GOV_JPの区分は取り込み側での最終確認を要する。
   curriculum:
-    kokushi: 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）
+    kokushi: 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)'
   publication_info:
     created: '2026-10-28'
@@ -243,6 +261,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅱ-1-A-① を足した（医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a） → 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a））。三原の承認による
 - id: ND-008
   domain: ND
   subdomain: Alzheimer型認知症
@@ -266,7 +287,7 @@
     corroboration: null
   uncertainty: 本推奨は米国の実地診療向けの専門家推奨であり、日本の最適使用推進ガイドライン（ND-006）とはAPOE検査の扱いなどが異なる。レカネマブは米国・日本とも承認・保険適用の対象であるが、運用条件は地域で異なる。
   curriculum:
-    kokushi: 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）
+    kokushi: 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-037 (id: JlvnldM)'
   publication_info:
     created: '2026-10-28'
@@ -278,6 +299,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅱ-1-A-① を足した（医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a） → 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a））。三原の承認による
 - id: ND-009
   domain: ND
   subdomain: 脳血管性認知症
@@ -301,7 +325,7 @@
     corroboration: null
   uncertainty: 本基準は研究用の症例定義として作成されたものであり、抄録でも検証と改訂が前提とされている。脳小血管病を軸とする近年の概念（血管性認知障害）との対応はND-010を参照。
   curriculum:
-    kokushi: 医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅸ-1-E-③（脳血管性認知症、a）
+    kokushi: 医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅸ-1-E-③（脳血管性認知症、a）；医学各論 Ⅱ-1-A-②（脳血管性認知症、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-039 (id: JlvnldY)'
   publication_info:
     created: '2026-10-28'
@@ -316,6 +340,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅸ-1-E-③ を足した（医学各論 Ⅸ-4-A-②（脳血管性認知症、a） → 医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅸ-1-E-③（脳血管性認知症、a））。三原の承認による
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅱ-1-A-② を足した（医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅸ-1-E-③（脳血管性認知症、a） → 医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅸ-1-E-③（脳血管性認知症、a）；医学各論 Ⅱ-1-A-②（脳血管性認知症、a））。三原の承認による
 - id: ND-010
   domain: ND
   subdomain: 脳血管性認知症
@@ -339,7 +366,7 @@
     corroboration: null
   uncertainty: 本出典は研究用の画像用語・撮像・報告の標準であり、個々のマーカーの診断閾値までを定めるものではない。
   curriculum:
-    kokushi: 医学各論 Ⅸ-4-A-②（脳血管性認知症、a）
+    kokushi: 医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅱ-1-A-②（脳血管性認知症、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-039 (id: JlvnldY)'
   publication_info:
     created: '2026-10-28'
@@ -351,6 +378,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅱ-1-A-② を足した（医学各論 Ⅸ-4-A-②（脳血管性認知症、a） → 医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅱ-1-A-②（脳血管性認知症、a））。三原の承認による
 - id: ND-011
   domain: ND
   subdomain: 脳血管性認知症
@@ -374,7 +404,7 @@
     corroboration: null
   uncertainty: 約22%は本総説が引用する神経病理学的研究に基づく値で、抄録で確認した。Alzheimer病と血管性認知症は臨床像が重なるため、混合型の臨床診断は難しいとされる。
   curriculum:
-    kokushi: 医学各論 Ⅸ-4-A-②（脳血管性認知症、a）
+    kokushi: 医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅱ-1-A-②（脳血管性認知症、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-039 (id: JlvnldY)'
   publication_info:
     created: '2026-10-28'
@@ -386,6 +416,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅱ-1-A-② を足した（医学各論 Ⅸ-4-A-②（脳血管性認知症、a） → 医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅱ-1-A-②（脳血管性認知症、a））。三原の承認による
 - id: ND-012
   domain: ND
   subdomain: Lewy小体型認知症
@@ -409,7 +442,7 @@
     corroboration: null
   uncertainty: 基準本文（PMC掲載の全文）で確認した。DAT画像・MIBG心筋シンチグラフィは国内でも保険診療で実施される検査である（個別の適用条件は診療報酬による）。
   curriculum:
-    kokushi: 医学各論 Ⅸ-4-A-③（Lewy小体型認知症、a）
+    kokushi: 医学各論 Ⅸ-4-A-③（Lewy小体型認知症、a）；医学各論 Ⅱ-1-A-③（Lewy小体型認知症、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-038 (id: JlvnldQ)'
   publication_info:
     created: '2026-10-28'
@@ -421,6 +454,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅱ-1-A-③ を足した（医学各論 Ⅸ-4-A-③（Lewy小体型認知症、a） → 医学各論 Ⅸ-4-A-③（Lewy小体型認知症、a）；医学各論 Ⅱ-1-A-③（Lewy小体型認知症、a））。三原の承認による
 - id: ND-013
   domain: ND
   subdomain: Lewy小体型認知症
@@ -444,7 +480,7 @@
     corroboration: null
   uncertainty: DLBの無作為化試験は少なく、管理の推奨には専門家の意見に基づく部分が大きい（出典の記載）。国内ではドネペジルがLewy小体型認知症に対して承認され保険適用されている。
   curriculum:
-    kokushi: 医学各論 Ⅸ-4-A-③（Lewy小体型認知症、a）
+    kokushi: 医学各論 Ⅸ-4-A-③（Lewy小体型認知症、a）；医学各論 Ⅱ-1-A-③（Lewy小体型認知症、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-038 (id: JlvnldQ)'
   publication_info:
     created: '2026-10-28'
@@ -456,6 +492,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅱ-1-A-③ を足した（医学各論 Ⅸ-4-A-③（Lewy小体型認知症、a） → 医学各論 Ⅸ-4-A-③（Lewy小体型認知症、a）；医学各論 Ⅱ-1-A-③（Lewy小体型認知症、a））。三原の承認による
 - id: ND-014
   domain: ND
   subdomain: 前頭側頭葉変性症
@@ -479,7 +518,7 @@
     corroboration: null
   uncertainty: 前頭側頭葉変性症は若年性認知症の主要な原因の一つとされるが、発症年齢の分布そのものは本出典の抄録の範囲外のため本カードには含めていない。
   curriculum:
-    kokushi: 医学各論 Ⅸ-4-A-④（前頭側頭葉変性症、b）
+    kokushi: 医学各論 Ⅸ-4-A-④（前頭側頭葉変性症、b）；医学各論 Ⅱ-1-A-④（前頭側頭葉変性症、b）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)'
   publication_info:
     created: '2026-10-28'
@@ -491,6 +530,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅱ-1-A-④ を足した（医学各論 Ⅸ-4-A-④（前頭側頭葉変性症、b） → 医学各論 Ⅸ-4-A-④（前頭側頭葉変性症、b）；医学各論 Ⅱ-1-A-④（前頭側頭葉変性症、b））。三原の承認による
 - id: ND-015
   domain: ND
   subdomain: 前頭側頭葉変性症
@@ -514,7 +556,7 @@
     corroboration: null
   uncertainty: 本分類は臨床的特徴に基づく国際ワーキンググループの推奨（2011年）であり、各亜型と背景病理との対応づけは今後の課題とされている。
   curriculum:
-    kokushi: 医学各論 Ⅸ-4-A-④（前頭側頭葉変性症、b）
+    kokushi: 医学各論 Ⅸ-4-A-④（前頭側頭葉変性症、b）；医学各論 Ⅱ-1-A-④（前頭側頭葉変性症、b）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)'
   publication_info:
     created: '2026-10-28'
@@ -526,6 +568,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-30'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅱ-1-A-④ を足した（医学各論 Ⅸ-4-A-④（前頭側頭葉変性症、b） → 医学各論 Ⅸ-4-A-④（前頭側頭葉変性症、b）；医学各論 Ⅱ-1-A-④（前頭側頭葉変性症、b））。三原の承認による
 - id: ND-016
   domain: ND
   subdomain: Parkinson病
