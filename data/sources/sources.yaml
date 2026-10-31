@@ -29817,3 +29817,498 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/49_pn_d.md の出典マスター表から
+- id: SRC-2991
+  legacy_id: null
+  title: Sieper J, Poddubnyy D. Axial spondyloarthritis. Lancet. 2017;390(10089):73-84
+  citation: Sieper J, Poddubnyy D. Axial spondyloarthritis. Lancet. 2017;390(10089):73-84
+  doi: 10.1016/S0140-6736(16)31591-4
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/44_im_c.md の出典マスター表から
+- id: SRC-2992
+  legacy_id: null
+  title: Rudwaleit M, van der Heijde D, Landewé R, et al. The ASAS classification criteria for peripheral spondyloarthritis and for spondyloarthritis in general. Ann Rheum Dis. 2011;70(1):25-31
+  citation: Rudwaleit M, van der Heijde D, Landewé R, et al. The ASAS classification criteria for peripheral spondyloarthritis and for spondyloarthritis in general. Ann Rheum Dis. 2011;70(1):25-31
+  doi: 10.1136/ard.2010.133645
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/44_im_c.md の出典マスター表から
+- id: SRC-2993
+  legacy_id: null
+  title: 'Taylor W, et al. Classification criteria for psoriatic arthritis: development of new criteria from a large international study (CASPAR). Arthritis Rheum. 2006;54(8):2665-2673'
+  citation: 'Taylor W, et al. Classification criteria for psoriatic arthritis: development of new criteria from a large international study (CASPAR). Arthritis Rheum. 2006;54(8):2665-2673'
+  doi: 10.1002/art.21972
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/44_im_c.md の出典マスター表から
+- id: SRC-2994
+  legacy_id: null
+  title: 'Gossec L, et al. EULAR recommendations for the management of psoriatic arthritis with pharmacological therapies: 2023 update. Ann Rheum Dis. 2024;83(6):706-719'
+  citation: 'Gossec L, et al. EULAR recommendations for the management of psoriatic arthritis with pharmacological therapies: 2023 update. Ann Rheum Dis. 2024;83(6):706-719'
+  doi: 10.1136/ard-2024-225531
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/44_im_c.md の出典マスター表から
+- id: SRC-2995
+  legacy_id: null
+  title: Kishimoto M, et al. SAPHO syndrome and pustulotic arthro-osteitis. Mod Rheumatol. 2022;32(4):665-674
+  citation: Kishimoto M, et al. SAPHO syndrome and pustulotic arthro-osteitis. Mod Rheumatol. 2022;32(4):665-674
+  doi: 10.1093/mr/roab103
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/44_im_c.md の出典マスター表から
+- id: SRC-2996
+  legacy_id: null
+  title: 厚生労働省. 指定難病 266 家族性地中海熱 概要・診断基準等
+  citation: 厚生労働省. 指定難病 266 家族性地中海熱 概要・診断基準等
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/44_im_c.md の出典マスター表から
+- id: SRC-2997
+  legacy_id: null
+  title: 'Ozen S, Sağ E, Oton T, et al. EULAR/PReS endorsed recommendations for the management of familial Mediterranean fever (FMF): 2024 update. Ann Rheum Dis. 2025;84(6):899-909'
+  citation: 'Ozen S, Sağ E, Oton T, et al. EULAR/PReS endorsed recommendations for the management of familial Mediterranean fever (FMF): 2024 update. Ann Rheum Dis. 2025;84(6):899-909'
+  doi: 10.1016/j.ard.2025.01.028
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/44_im_c.md の出典マスター表から
+- id: SRC-2998
+  legacy_id: null
+  title: Baughman RP, Valeyre D, Korsten P, et al. ERS clinical practice guidelines on treatment of sarcoidosis. Eur Respir J. 2021;58(6):2004079
+  citation: Baughman RP, Valeyre D, Korsten P, et al. ERS clinical practice guidelines on treatment of sarcoidosis. Eur Respir J. 2021;58(6):2004079
+  doi: 10.1183/13993003.04079-2020
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/44_im_c.md の出典マスター表から
+- id: SRC-2999
+  legacy_id: null
+  title: Wolfe F, Clauw DJ, Fitzcharles MA, et al. 2016 Revisions to the 2010/2011 fibromyalgia diagnostic criteria. Semin Arthritis Rheum. 2016;46(3):319-329
+  citation: Wolfe F, Clauw DJ, Fitzcharles MA, et al. 2016 Revisions to the 2010/2011 fibromyalgia diagnostic criteria. Semin Arthritis Rheum. 2016;46(3):319-329
+  doi: 10.1016/j.semarthrit.2016.08.012
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/44_im_c.md の出典マスター表から
+- id: SRC-3000
+  legacy_id: null
+  title: Macfarlane GJ, Kronisch C, Dean LE, et al. EULAR revised recommendations for the management of fibromyalgia. Ann Rheum Dis. 2017;76(2):318-328
+  citation: Macfarlane GJ, Kronisch C, Dean LE, et al. EULAR revised recommendations for the management of fibromyalgia. Ann Rheum Dis. 2017;76(2):318-328
+  doi: 10.1136/annrheumdis-2016-209724
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/44_im_c.md の出典マスター表から
+- id: SRC-3001
+  legacy_id: null
+  title: 'Mertz P, Sparks J, Kobrin D, et al. Relapsing polychondritis: Best Practice & Clinical Rheumatology. Best Pract Res Clin Rheumatol. 2023;37(1):101867'
+  citation: 'Mertz P, Sparks J, Kobrin D, et al. Relapsing polychondritis: Best Practice & Clinical Rheumatology. Best Pract Res Clin Rheumatol. 2023;37(1):101867'
+  doi: 10.1016/j.berh.2023.101867
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/44_im_c.md の出典マスター表から
+- id: SRC-3002
+  legacy_id: null
+  title: 'Buxbaum JN, Dispenzieri A, Eisenberg DS, et al. Amyloid nomenclature 2022: update, novel proteins, and recommendations by the International Society of Amyloidosis (ISA) Nomenclature Committee. Amyloid. 2022;29(4):213-219'
+  citation: 'Buxbaum JN, Dispenzieri A, Eisenberg DS, et al. Amyloid nomenclature 2022: update, novel proteins, and recommendations by the International Society of Amyloidosis (ISA) Nomenclature Committee. Amyloid. 2022;29(4):213-219'
+  doi: 10.1080/13506129.2022.2147636
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/44_im_c.md の出典マスター表から
+- id: SRC-3003
+  legacy_id: null
+  title: Umehara H, Okazaki K, Kawa S, et al. The 2020 revised comprehensive diagnostic (RCD) criteria for IgG4-related disease (IgG4-RD). Mod Rheumatol. 2021;31(3):529-533
+  citation: Umehara H, Okazaki K, Kawa S, et al. The 2020 revised comprehensive diagnostic (RCD) criteria for IgG4-related disease (IgG4-RD). Mod Rheumatol. 2021;31(3):529-533
+  doi: 10.1080/14397595.2020.1859710
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/44_im_c.md の出典マスター表から
+- id: SRC-3004
+  legacy_id: null
+  title: 'Gewitz MH, Baltimore RS, Tani LY, et al. Revision of the Jones Criteria for the diagnosis of acute rheumatic fever in the era of Doppler echocardiography: a scientific statement from the American Heart Association. Circulation. 2015;131(20):1806-1818'
+  citation: 'Gewitz MH, Baltimore RS, Tani LY, et al. Revision of the Jones Criteria for the diagnosis of acute rheumatic fever in the era of Doppler echocardiography: a scientific statement from the American Heart Association. Circulation. 2015;131(20):1806-1818'
+  doi: 10.1161/CIR.0000000000000205
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/44_im_c.md の出典マスター表から
+- id: SRC-3521
+  legacy_id: null
+  title: Bull MJ, Trotter T, Santoro SL, et al; Council on Genetics. Health Supervision for Children and Adolescents With Down Syndrome. Pediatrics. 2022;149(5):e2022057010
+  citation: Bull MJ, Trotter T, Santoro SL, et al; Council on Genetics. Health Supervision for Children and Adolescents With Down Syndrome. Pediatrics. 2022;149(5):e2022057010
+  doi: 10.1542/peds.2022-057010
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3522
+  legacy_id: null
+  title: Antonarakis SE, Skotko BG, Rafii MS, et al. Down syndrome. Nat Rev Dis Primers. 2020;6(1):9
+  citation: Antonarakis SE, Skotko BG, Rafii MS, et al. Down syndrome. Nat Rev Dis Primers. 2020;6(1):9
+  doi: 10.1038/s41572-019-0143-7
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3523
+  legacy_id: null
+  title: Gravholt CH, Andersen NH, Christin-Maitre S, et al; International Turner Syndrome Consensus Group. Clinical practice guidelines for the care of girls and women with Turner syndrome. Eur J Endocrinol. 2024;190(6):G53-G151
+  citation: Gravholt CH, Andersen NH, Christin-Maitre S, et al; International Turner Syndrome Consensus Group. Clinical practice guidelines for the care of girls and women with Turner syndrome. Eur J Endocrinol. 2024;190(6):G53-G151
+  doi: 10.1093/ejendo/lvae050
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3524
+  legacy_id: null
+  title: Zitzmann M, Aksglaede L, Corona G, et al. European Academy of Andrology guidelines on Klinefelter Syndrome. Andrology. 2021;9(1):145-167
+  citation: Zitzmann M, Aksglaede L, Corona G, et al. European Academy of Andrology guidelines on Klinefelter Syndrome. Andrology. 2021;9(1):145-167
+  doi: 10.1111/andr.12909
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3525
+  legacy_id: null
+  title: Carey JC. Perspectives on the care and advances in the management of children with trisomy 13 and 18. Am J Med Genet C Semin Med Genet. 2016;172(3):249-250
+  citation: Carey JC. Perspectives on the care and advances in the management of children with trisomy 13 and 18. Am J Med Genet C Semin Med Genet. 2016;172(3):249-250
+  doi: 10.1002/ajmg.c.31527
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3526
+  legacy_id: null
+  title: 'Herlin MK, Petersen MB, Brännström M. Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome: a comprehensive update. Orphanet J Rare Dis. 2020;15:214'
+  citation: 'Herlin MK, Petersen MB, Brännström M. Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome: a comprehensive update. Orphanet J Rare Dis. 2020;15:214'
+  doi: 10.1186/s13023-020-01491-9
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3527
+  legacy_id: null
+  title: 'Cools M, Nordenström A, Robeva R, et al. Caring for individuals with a difference of sex development (DSD): a Consensus Statement. Nat Rev Endocrinol. 2018;14(7):415-429'
+  citation: 'Cools M, Nordenström A, Robeva R, et al. Caring for individuals with a difference of sex development (DSD): a Consensus Statement. Nat Rev Endocrinol. 2018;14(7):415-429'
+  doi: 10.1038/s41574-018-0010-8
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3528
+  legacy_id: null
+  title: 'Batista RL, Costa EMF, Rodrigues AS, et al. Androgen insensitivity syndrome: a review. Arch Endocrinol Metab. 2018;62(2):227-235'
+  citation: 'Batista RL, Costa EMF, Rodrigues AS, et al. Androgen insensitivity syndrome: a review. Arch Endocrinol Metab. 2018;62(2):227-235'
+  doi: 10.20945/2359-3997000000031
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3529
+  legacy_id: null
+  title: 'Lipkin PH, Macias MM; Council on Children With Disabilities. Promoting Optimal Development: Identifying Infants and Young Children With Developmental Disorders Through Developmental Surveillance and Screening. Pediatrics. 2020;145(1):e20193449'
+  citation: 'Lipkin PH, Macias MM; Council on Children With Disabilities. Promoting Optimal Development: Identifying Infants and Young Children With Developmental Disorders Through Developmental Surveillance and Screening. Pediatrics. 2020;145(1):e20193449'
+  doi: 10.1542/peds.2019-3449
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3530
+  legacy_id: null
+  title: 厚生労働省「妊婦に対する健康診査についての望ましい基準」（平成27年3月31日 厚生労働省告示第226号、令和2年改正）
+  citation: 厚生労働省「妊婦に対する健康診査についての望ましい基準」（平成27年3月31日 厚生労働省告示第226号、令和2年改正）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3531
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. Antepartum Fetal Surveillance: ACOG Practice Bulletin, Number 229. Obstet Gynecol. 2021;137(6):e116-e127'
+  citation: 'American College of Obstetricians and Gynecologists. Antepartum Fetal Surveillance: ACOG Practice Bulletin, Number 229. Obstet Gynecol. 2021;137(6):e116-e127'
+  doi: 10.1097/AOG.0000000000004410
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3532
+  legacy_id: null
+  title: 'Jeejeebhoy FM, Zelop CM, Lipman S, et al. Cardiac Arrest in Pregnancy: A Scientific Statement From the American Heart Association. Circulation. 2015;132(18):1747-1773'
+  citation: 'Jeejeebhoy FM, Zelop CM, Lipman S, et al. Cardiac Arrest in Pregnancy: A Scientific Statement From the American Heart Association. Circulation. 2015;132(18):1747-1773'
+  doi: 10.1161/CIR.0000000000000300
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3533
+  legacy_id: null
+  title: 厚生労働省 医政局「周産期医療提供体制の確保について」（令和6年6月26日 第1回妊娠・出産・産後における妊産婦等の支援策等に関する検討会 資料2-2）
+  citation: 厚生労働省 医政局「周産期医療提供体制の確保について」（令和6年6月26日 第1回妊娠・出産・産後における妊産婦等の支援策等に関する検討会 資料2-2）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3534
+  legacy_id: null
+  title: こども家庭庁「新生児マススクリーニングについて」（第2回こども家庭審議会成育医療等分科会 資料1-4、令和5年11月22日）
+  citation: こども家庭庁「新生児マススクリーニングについて」（第2回こども家庭審議会成育医療等分科会 資料1-4、令和5年11月22日）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3535
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. Screening for Fetal Chromosomal Abnormalities: ACOG Practice Bulletin, Number 226. Obstet Gynecol. 2020;136(4):e48-e69'
+  citation: 'American College of Obstetricians and Gynecologists. Screening for Fetal Chromosomal Abnormalities: ACOG Practice Bulletin, Number 226. Obstet Gynecol. 2020;136(4):e48-e69'
+  doi: 10.1097/AOG.0000000000004084
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3536
+  legacy_id: null
+  title: 日本医学会 出生前検査認証制度等運営委員会「NIPT等の出生前検査に関する情報提供及び施設（医療機関・検査分析機関）認証の指針」（令和4年2月）
+  citation: 日本医学会 出生前検査認証制度等運営委員会「NIPT等の出生前検査に関する情報提供及び施設（医療機関・検査分析機関）認証の指針」（令和4年2月）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3537
+  legacy_id: null
+  title: 厚生労働省「妊婦・授乳婦を対象とした薬の適正使用推進事業について」
+  citation: 厚生労働省「妊婦・授乳婦を対象とした薬の適正使用推進事業について」
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3538
+  legacy_id: null
+  title: Betrán AP, Torloni MR, Zhang JJ, Gülmezoglu AM; WHO Working Group on Caesarean Section. WHO Statement on Caesarean Section Rates. BJOG. 2016;123(5):667-670
+  citation: Betrán AP, Torloni MR, Zhang JJ, Gülmezoglu AM; WHO Working Group on Caesarean Section. WHO Statement on Caesarean Section Rates. BJOG. 2016;123(5):667-670
+  doi: 10.1111/1471-0528.13526
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3539
+  legacy_id: null
+  title: 'American Society of Anesthesiologists Task Force on Obstetric Anesthesia and the Society for Obstetric Anesthesia and Perinatology. Practice Guidelines for Obstetric Anesthesia: An Updated Report by the American Society of Anesthesiologists Task Force on Obstetric Anesthesia and the Society for Obstetric Anesthesia and Perinatology. Anesthesiology. 2016;124(2):270-300'
+  citation: 'American Society of Anesthesiologists Task Force on Obstetric Anesthesia and the Society for Obstetric Anesthesia and Perinatology. Practice Guidelines for Obstetric Anesthesia: An Updated Report by the American Society of Anesthesiologists Task Force on Obstetric Anesthesia and the Society for Obstetric Anesthesia and Perinatology. Anesthesiology. 2016;124(2):270-300'
+  doi: 10.1097/ALN.0000000000000935
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md の出典マスター表から

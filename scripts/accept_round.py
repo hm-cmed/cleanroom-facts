@@ -31,7 +31,7 @@ DRUG = re.compile(r"(マブ|ニブ|チニブ|リズマブ|シマブ|ナビル|�
                   r"ペニシリン|セフ[ァ-ヶー]+|マイシン|サイクリン|フロキサシン|コナゾール|インスリン|"
                   r"ワルファリン|ヘパリン|キサバン|ガトラン|アスピリン|クロピドグレル|[A-Za-z]+mab\b|[A-Za-z]+nib\b)")
 APPROVAL = re.compile(r"承認|保険適用|保険適応|適応外|薬価|添付文書|効能")
-NOT_ARTICLE = re.compile(r"(厚生労働省|消防庁|環境省|国立がん研究センター|国立健康危機管理研究機構|国立感染症研究所|JIHS|IASR|IDWR|難病情報センター|CDC|Centers for Disease|NIH|NCI|National Cancer|ATSDR|"
+NOT_ARTICLE = re.compile(r"(厚生労働省|消防庁|環境省|国立がん研究センター|国立健康危機管理研究機構|国立感染症研究所|JIHS|IASR|IDWR|難病情報センター|こども家庭庁|日本医学会|CDC|Centers for Disease|NIH|NCI|National Cancer|ATSDR|"
                          r"WHO|World Health|PDQ|MeSH|統計|白書|通知|告示|法律|ウェブ|Web|ページ|サイト)", re.I)
 
 

@@ -1,0 +1,385 @@
+- id: PD-001
+  domain: PD
+  subdomain: 妊婦健診と周産期管理の構成
+  assertion:
+    plain_statement_ja: 日本の妊婦健康診査は、母子保健法に基づく厚生労働省告示の望ましい基準により市町村が実施し、妊婦1人につき出産までに14回程度行われ、その実施に要する費用は市町村が負担する。頻度の目安は妊娠初期から23週までがおおむね4週間に1回、24週から35週までがおおむね2週間に1回、36週から出産までがおおむね1週間に1回で、各回に問診・診察と子宮底長、腹囲、血圧、浮腫、尿（糖及び蛋白）、体重等の検査を行い、妊娠週数に応じた時期に血液型等の検査、感染症等の血液検査、超音波検査（妊娠期間を通じて4回が目安）などの医学的検査を組み合わせる
+    condition:
+      region: 日本
+      対象: 妊婦
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3530
+    source: 厚生労働省「妊婦に対する健康診査についての望ましい基準」（平成27年3月31日 厚生労働省告示第226号、令和2年改正）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/web/t_doc?dataId=82ab4662&dataType=0&pageNo=1
+    source_license: 政府標準利用規約（厚生労働省）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 告示本文で確認した基準の枠組みに限る。実際の助成の細部は市町村の運用による。産科編2026の妊婦健診に関する記載は刊行版の本文未照合のため用いていない
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-11-01 (id: JkxnuSE)；PS-02-11-03 (id: JkxnuSM)；TBL-02-10-003 (id: JlAKpqA)；TBL-02-10-013 (id: JlAKpqo)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: PD-002
+  domain: PD
+  subdomain: 胎児評価法の方法論総論（NST・CTG・BPS）
+  assertion:
+    plain_statement_ja: 分娩前の胎児サーベイランスは死産のリスク低減を目的とし、胎児心拍パターンの評価（NST、CST）、超音波による biophysical profile（BPS）、臍帯動脈ドプラ血流計測などを組み合わせて胎児の状態を評価する。NST は20分間に2回以上の acceleration がみられる場合に reactive と判定され、BPS は5項目の合計スコアで8〜10が正常、6が equivocal、4以下が異常とされる
+    condition:
+      region: 米国
+      対象: 妊婦
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3531
+    source: 'American College of Obstetricians and Gynecologists. Antepartum Fetal Surveillance: ACOG Practice Bulletin, Number 229. Obstet Gynecol. 2021;137(6):e116-e127'
+    doi: 10.1097/AOG.0000000000004410
+    pmid: '34011889'
+    pmcid: null
+    url: https://doi.org/10.1097/AOG.0000000000004410
+    source_license: © 2021 ACOG
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ACOG Practice Bulletin No. 229（2021年）の抄録で確認した範囲に限る。個別の母体疾患・胎児疾患ごとのサーベイランス開始時期と頻度の詳細は本文未照合のため主張に入れていない。個別の胎児機能不全への適用は第48回 FT が正
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-11-03 (id: JkxnuSM)；TBL-02-10-013 (id: JlAKpqo)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: PD-003
+  domain: PD
+  subdomain: 胎児評価法の方法論総論（NST・CTG・BPS）
+  assertion:
+    plain_statement_ja: 分娩中の胎児評価は胎児心拍数陣痛図（CTG）のモニタリングを中心に行われ、ACOG の Clinical Practice Guideline No. 10（2025年）は分娩第1期・第2期の妊婦を対象に、用語と分類体系を標準化したうえで、波形の評価と管理に関する推奨をエビデンスの質と推奨の強さで格付けして提示する枠組みを示している
+    condition:
+      region: 米国
+      対象: 妊婦
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3341
+    source: 'American College of Obstetricians and Gynecologists Committee on Clinical Practice Guidelines–Obstetrics. ACOG Clinical Practice Guideline No. 10: Intrapartum Fetal Heart Rate Monitoring: Interpretation and Management. Obstet Gynecol. 2025;146(4):583-599'
+    doi: 10.1097/AOG.0000000000006049
+    pmid: '40966736'
+    pmcid: null
+    url: https://doi.org/10.1097/AOG.0000000000006049
+    source_license: © 2025 ACOG
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 第48回 FT-001 と同一出典で、方法論総論としての位置づけに限る。個別の波形パターンの分類基準値と推奨文の本文は未照合のため主張に入れていない
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-11-03 (id: JkxnuSM)；TBL-02-10-014 (id: JlAKpqs)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: PD-004
+  domain: PD
+  subdomain: 母体救急の初期対応総論
+  assertion:
+    plain_statement_ja: 妊婦の心停止では、妊娠子宮による大動脈・下大静脈の圧迫を解除するための用手的な子宮左方転位を蘇生を通じて継続し、低酸素血症に陥りやすいため気道確保と換気を迅速に行う。除細動のエネルギー量と蘇生に用いる薬剤は非妊婦と同様とし、蘇生に反応しない場合は蘇生開始から4分で蘇生子宮切開（perimortem cesarean delivery）に着手し5分までの娩出を目標として、搬送せず蘇生を行っている現場で実施する
+    condition:
+      region: 米国
+      対象: 妊産婦
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3532
+    source: 'Jeejeebhoy FM, Zelop CM, Lipman S, et al. Cardiac Arrest in Pregnancy: A Scientific Statement From the American Heart Association. Circulation. 2015;132(18):1747-1773'
+    doi: 10.1161/CIR.0000000000000300
+    pmid: '26443610'
+    pmcid: null
+    url: https://doi.org/10.1161/CIR.0000000000000300
+    source_license: © 2015 American Heart Association
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 米国心臓協会の科学ステートメント（2015年）に基づく母体心停止への初期対応の枠組みに限る。個別の薬剤名は主張に含めておらず、国内の母体救命システムの体制の詳細は本カードの対象外
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-11-02 (id: JkxnuSI)；PS-02-11-04 (id: JkxnuSQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: PD-005
+  domain: PD
+  subdomain: 母体搬送・新生児搬送
+  assertion:
+    plain_statement_ja: 日本の周産期医療体制では、母体・新生児搬送の受け皿として、リスクの高い妊娠への医療と高度な新生児医療を担う総合周産期母子医療センター（原則として三次医療圏に1か所）と、比較的高度な周産期医療と24時間体制での周産期救急を担う地域周産期母子医療センターが置かれ、平成29年度までに全都道府県へ配置された。施設数は令和6年4月1日現在で総合112か所・地域296か所であり、ハイリスクの母体と新生児はリスクに応じてこれらのセンターへ搬送される階層的な体制をとる
+    condition:
+      region: 日本
+      対象: 妊産婦・新生児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3533
+    source: 厚生労働省 医政局「周産期医療提供体制の確保について」（令和6年6月26日 第1回妊娠・出産・産後における妊産婦等の支援策等に関する検討会 資料2-2）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/12401000/001268283.pdf
+    source_license: 政府標準利用規約（厚生労働省）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 施設数は出典資料の令和6年4月1日現在の値で、その後変動しうる。core_curriculum は依頼文の当該テーマ行の近接候補から取った（申し送り参照）
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-11-04 (id: JkxnuSQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: PD-006
+  domain: PD
+  subdomain: 新生児マススクリーニングの総論
+  assertion:
+    plain_statement_ja: 日本の新生児マススクリーニング（先天性代謝異常等検査）は、都道府県及び指定都市を実施主体として全ての新生児を対象に血液による検査を行い、異常を早期に発見して治療・生活指導につなげることで知的障害等の発生を予防する事業である。対象は内分泌疾患2疾患（先天性甲状腺機能低下症、先天性副腎過形成症）、アミノ酸代謝異常症、有機酸代謝異常症、脂肪酸代謝異常症、糖代謝異常症（ガラクトース血症）の計20疾患で、タンデムマス法は平成26年度に全ての実施主体へ導入され、平成29年度にカルニチンパルミトイルトランスフェラーゼ-2欠損症が追加されて20疾患となった。重症複合免疫不全症と脊髄性筋萎縮症は令和5年度から実証事業としてモデル的に実施されており、標準の対象20疾患には含まれていない
+    condition:
+      region: 日本
+      対象: 新生児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3534
+    source: こども家庭庁「新生児マススクリーニングについて」（第2回こども家庭審議会成育医療等分科会 資料1-4、令和5年11月22日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/ce28e632-7504-4f83-86e7-7e0706090e3f/49ba4893/20231122_councils_shingikai_seiiku_iryou_tWs1V94m_06.pdf
+    source_license: 政府標準利用規約（こども家庭庁）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: こども家庭庁の審議会資料（令和5年11月22日）で確認した総論の枠組みに限る。代謝異常の区分ごとの疾患数の内訳は資料の表記どおりとし、個別疾患の詳細は NB・CG のカードに委ねる
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-12-02 (id: Jli53IY)；TBL-02-11-021 (id: Jli6Jns)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: PD-007
+  domain: PD
+  subdomain: 出生前診断・胎児スクリーニングの総論（NIPT を含む）
+  assertion:
+    plain_statement_ja: 出生前スクリーニングの体系では、全ての妊婦に対して年齢やリスクにかかわらず、染色体異数性のスクリーニング検査と診断的検査の双方の選択肢を提示すべきであり、母体血中の cell-free DNA を用いる検査は、一般的な染色体異数性に対するスクリーニング検査の中で最も感度・特異度が高い。スクリーニング検査の結果は診断ではなく、診断の確定には絨毛検査や羊水検査などの診断的検査が必要である
+    condition:
+      region: 米国
+      対象: 妊婦
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3535
+    source: 'American College of Obstetricians and Gynecologists. Screening for Fetal Chromosomal Abnormalities: ACOG Practice Bulletin, Number 226. Obstet Gynecol. 2020;136(4):e48-e69'
+    doi: 10.1097/AOG.0000000000004084
+    pmid: '32804883'
+    pmcid: null
+    url: https://doi.org/10.1097/AOG.0000000000004084
+    source_license: © 2020 ACOG
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ACOG Practice Bulletin No. 226（2020年）に基づく検査体系の総論に限る。国内の実施体制と認証制度は PD-008 が正で、個別の染色体異常の内容は CG のカードに委ねる
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-11-03 (id: JkxnuSM)；PS-03-01-03 (id: JkxnuUI)；PS-03-01-05 (id: JkxnuUQ)；TBL-02-10-013 (id: JlAKpqo)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: PD-008
+  domain: PD
+  subdomain: 出生前診断・胎児スクリーニングの総論（NIPT を含む）
+  assertion:
+    plain_statement_ja: 日本では、日本医学会に設置された出生前検査認証制度等運営委員会の指針（2022年2月）に基づき、NIPT を実施する医療機関と検査分析機関の認証制度が運用されている。認証医療機関は、遺伝カウンセリングから確定的検査とその後の対応までを自施設で担う基幹施設と、基幹施設との連携のもとで実施する連携施設に分かれ、NIPT の対象疾患は13トリソミー、18トリソミー、21トリソミーとされる。出生前検査は、それだけでは診断を確定できない非確定的検査と、結果に基づいて診断を確定できる確定的検査に大別され、受検には十分な説明と遺伝カウンセリングが不可欠とされ、マススクリーニングとして一律に実施することや推奨することは否定されている
+    condition:
+      region: 日本
+      対象: 妊婦
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3536
+    source: 日本医学会 出生前検査認証制度等運営委員会「NIPT等の出生前検査に関する情報提供及び施設（医療機関・検査分析機関）認証の指針」（令和4年2月）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/11908000/001049163.pdf
+    source_license: CC 表示なし（日本医学会）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 指針本文（厚生労働省の専門委員会の参考資料として公表された版）で確認した範囲に限る。認証施設数は変動が大きいため主張に入れていない
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-11-03 (id: JkxnuSM)；PS-03-01-04 (id: JkxnuUM)；PS-03-01-05 (id: JkxnuUQ)；TBL-02-10-013 (id: JlAKpqo)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: PD-009
+  domain: PD
+  subdomain: 妊娠中の薬物使用の注意総論
+  assertion:
+    plain_statement_ja: 妊娠中の医薬品使用では、胎児への影響を過剰に心配して医師等が必要と判断した薬物治療を控えたり、患者本人が自己判断で服薬を中止したりすると、母体の健康状態が悪化してかえって胎児に悪影響を及ぼすおそれがあるため、個別の薬剤のリスク評価に基づく判断が求められる。国内では、厚生労働省により平成17年10月に国立成育医療研究センターへ「妊娠と薬情報センター」が設置され、医薬品が胎児へ与える影響など最新のエビデンスの収集・評価と、妊婦や妊娠を希望する女性からの相談対応（全国47都道府県の拠点病院に「妊娠と薬外来」を設置）を行い、相談事例の蓄積は添付文書改訂の是非の検討（妊婦・授乳婦を対象とした薬の適正使用推進事業）にも活用されている
+    condition:
+      region: 日本
+      対象: 妊婦
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3537
+    source: 厚生労働省「妊婦・授乳婦を対象とした薬の適正使用推進事業について」
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/ninshin_00002.html
+    source_license: 政府標準利用規約（厚生労働省）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 総論の枠組みに限る。個別薬剤の使用可否は主張に含めておらず、各薬剤の国内承認・保険適用と添付文書の記載は薬剤ごとに確認が必要
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-11-04 (id: JkxnuSQ)；TBL-02-10-015 (id: JlAKpqw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: PD-010
+  domain: PD
+  subdomain: 帝王切開の適応と麻酔の総論
+  assertion:
+    plain_statement_ja: 帝王切開の適応判断の総論として、WHO の声明は、集団レベルでは帝王切開率が10%を超えても母体・新生児死亡率の低下とは関連しないとし、特定の率の達成を目指すのではなく、帝王切開を必要とする女性に確実に提供することを求めている。施設間や国際間の帝王切開率の監視と比較には、妊婦を5つの産科的特性によって10群に分ける Robson 分類を国際標準として用いることが提案されている
+    condition:
+      region: 国際
+      対象: 妊婦
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3538
+    source: Betrán AP, Torloni MR, Zhang JJ, Gülmezoglu AM; WHO Working Group on Caesarean Section. WHO Statement on Caesarean Section Rates. BJOG. 2016;123(5):667-670
+    doi: 10.1111/1471-0528.13526
+    pmid: '26681211'
+    pmcid: null
+    url: https://doi.org/10.1111/1471-0528.13526
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: WHO 声明の BJOG 掲載版（2016年）に基づく集団レベルの総論に限る。個々の妊婦の適応判断は各疾患・病態のカードに委ねる
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-11-04 (id: JkxnuSQ)；TBL-02-10-016 (id: JlAKpq0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: PD-011
+  domain: PD
+  subdomain: 帝王切開の適応と麻酔の総論
+  assertion:
+    plain_statement_ja: 帝王切開の麻酔について、米国麻酔科学会と産科麻酔・周産期学会の産科麻酔ガイドライン（2016年）は、大多数の帝王切開では全身麻酔よりも区域麻酔（脊髄くも膜下麻酔・硬膜外麻酔などの neuraxial technique）を優先するとし、麻酔法の選択は麻酔・産科・胎児のリスク要因、患者の希望、麻酔科医の判断によって個別化する。また、娩出までは子宮転位を維持する
+    condition:
+      region: 米国
+      対象: 妊婦
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3539
+    source: 'American Society of Anesthesiologists Task Force on Obstetric Anesthesia and the Society for Obstetric Anesthesia and Perinatology. Practice Guidelines for Obstetric Anesthesia: An Updated Report by the American Society of Anesthesiologists Task Force on Obstetric Anesthesia and the Society for Obstetric Anesthesia and Perinatology. Anesthesiology. 2016;124(2):270-300'
+    doi: 10.1097/ALN.0000000000000935
+    pmid: '26580836'
+    pmcid: null
+    url: https://doi.org/10.1097/ALN.0000000000000935
+    source_license: © 2015 American Society of Anesthesiologists
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 麻酔法の総論に限る。個別の麻酔薬名は主張に含めておらず、国内の麻酔実施体制の詳細は本カードの対象外
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-11-04 (id: JkxnuSQ)；TBL-02-10-016 (id: JlAKpq0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）

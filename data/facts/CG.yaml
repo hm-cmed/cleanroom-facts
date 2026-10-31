@@ -1,0 +1,350 @@
+- id: CG-001
+  domain: CG
+  subdomain: Down症候群
+  assertion:
+    plain_statement_ja: Down症候群の健康管理では、米国小児科学会の臨床報告（2022年版）が、出生前から21歳までを年齢帯（出生〜1か月、1か月〜1歳、1〜5歳、5〜12歳、12〜21歳）に分け、各時期に行う評価とスクリーニングを示している。新生児期には先天性心疾患の評価として心エコーが必須とされ、甲状腺機能については新生児スクリーニング結果の確認に加え、生後6か月・12か月の測定と以後毎年の測定が推奨される
+    condition:
+      region: 米国
+      対象: Down症候群の小児・青年
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3521
+    source: Bull MJ, Trotter T, Santoro SL, et al; Council on Genetics. Health Supervision for Children and Adolescents With Down Syndrome. Pediatrics. 2022;149(5):e2022057010
+    doi: 10.1542/peds.2022-057010
+    pmid: '35490285'
+    pmcid: null
+    url: https://doi.org/10.1542/peds.2022-057010
+    source_license: 表示なし（American Academy of Pediatrics の著作物）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 臨床報告の現行版は2022年版で、2011年版は旧版のため使っていない。報告本文の表は直接開いておらず、年齢帯の構成と心エコー・甲状腺測定の要点は、同報告を引用する AAFP の解説および大学クリニックの準拠資料で確認した（二次資料経由の確認を含む）。先天性心疾患の頻度（新生児の最大50%）も同じ経路で確認した数値であり、本文の表での再照合が望ましい
+  curriculum:
+    kokushi: 医学各論 Ⅰ-4-A-①（Down症候群、a）
+    core_curriculum: 'PS-03-01-03 (id: JkxnuUI)；TBL-01-00-441 (id: JlvnmJE)；PS-02-12-04 (id: Jli53IM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: CG-002
+  domain: CG
+  subdomain: Down症候群
+  assertion:
+    plain_statement_ja: Down症候群は、21番染色体の過剰なコピー（完全なトリソミーまたは部分的な過剰）によるトリソミー21を原因とし、出生後に生存可能な常染色体異数性の中で最も頻度が高い。21番染色体にはタンパク質をコードする遺伝子が200を超えて存在し、その過剰が知的障害や先天性心疾患をはじめとする多臓器にわたる臨床像の背景となる
+    condition:
+      region: 国際
+      対象: Down症候群の人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3522
+    source: Antonarakis SE, Skotko BG, Rafii MS, et al. Down syndrome. Nat Rev Dis Primers. 2020;6(1):9
+    doi: 10.1038/s41572-019-0143-7
+    pmid: '32029743'
+    pmcid: PMC8428796
+    url: https://doi.org/10.1038/s41572-019-0143-7
+    source_license: 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 抄録で確認した範囲に限る。合併症ごとの頻度の数値は本文を照合していないため主張に入れていない。成人期の診療ガイドライン（JAMA 2020）は書誌の一次照合が未了のため使っていない
+  curriculum:
+    kokushi: 医学各論 Ⅰ-4-A-①（Down症候群、a）
+    core_curriculum: 'PS-03-01-03 (id: JkxnuUI)；PS-03-01-05 (id: JkxnuUQ)；TBL-01-00-441 (id: JlvnmJE)；PS-02-12-04 (id: Jli53IM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: CG-003
+  domain: CG
+  subdomain: Turner症候群
+  assertion:
+    plain_statement_ja: Turner症候群は女性100,000人あたり50人にみられ、全ライフステージを通じて複数の臓器に影響するため、多職種によるケアが必要である。国際コンセンサスガイドラインの2024年版は、診断と遺伝、成長、思春期とエストロゲン治療、心血管の健康、移行期、妊孕性の評価とカウンセリング、合併症の生涯を通じたサーベイランス、神経認知と心理の8領域で構成される
+    condition:
+      region: 国際
+      対象: Turner症候群の女児・女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3523
+    source: Gravholt CH, Andersen NH, Christin-Maitre S, et al; International Turner Syndrome Consensus Group. Clinical practice guidelines for the care of girls and women with Turner syndrome. Eur J Endocrinol. 2024;190(6):G53-G151
+    doi: 10.1093/ejendo/lvae050
+    pmid: '38748847'
+    pmcid: PMC11759048
+    url: https://doi.org/10.1093/ejendo/lvae050
+    source_license: CC BY-NC 4.0（Crossref・Europe PMC の license 欄で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 国際ガイドラインの現行版は2024年版（Aarhus 会議の proceedings）で、2017年版は旧版のため使っていない。4つの臨床疑問には GRADE 評価が行われているが、個別推奨の強さは本文を照合していないため主張に入れていない
+  curriculum:
+    kokushi: 医学各論 Ⅰ-4-A-②（Turner症候群、b）
+    core_curriculum: 'PS-03-01-03 (id: JkxnuUI)；PS-02-12-04 (id: Jli53IM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: CG-004
+  domain: CG
+  subdomain: Turner症候群
+  assertion:
+    plain_statement_ja: Turner症候群のケアでは、低身長への対応として成長の領域で成長ホルモン治療が、卵巣機能不全への対応として思春期とエストロゲン治療の領域でエストロゲン補充による思春期の誘導と維持が、それぞれ独立した柱として扱われる。あわせて心血管の健康が独立の領域とされ、合併症のサーベイランスは小児期から成人期まで生涯を通じて継続する枠組みが2024年版ガイドラインで示されている
+    condition:
+      region: 国際
+      対象: Turner症候群の女児・女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3523
+    source: Gravholt CH, Andersen NH, Christin-Maitre S, et al; International Turner Syndrome Consensus Group. Clinical practice guidelines for the care of girls and women with Turner syndrome. Eur J Endocrinol. 2024;190(6):G53-G151
+    doi: 10.1093/ejendo/lvae050
+    pmid: '38748847'
+    pmcid: PMC11759048
+    url: https://doi.org/10.1093/ejendo/lvae050
+    source_license: CC BY-NC 4.0（Crossref・Europe PMC の license 欄で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 薬剤の国内承認：成長ホルモン（ソマトロピン）は、骨端線閉鎖を伴わないターナー症候群における低身長が国内承認適応に含まれ、保険適用がある（PMDA 添付文書で確認した先行リサーチに基づく）。エストロゲン製剤は国内承認薬であるが、個別製剤の効能・効果の文言は照合していない。各治療の用量・開始時期はガイドライン本文を照合していないため主張に入れていない
+  curriculum:
+    kokushi: 医学各論 Ⅰ-4-A-②（Turner症候群、b）
+    core_curriculum: 'PS-03-01-03 (id: JkxnuUI)；PS-02-12-04 (id: Jli53IM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: CG-005
+  domain: CG
+  subdomain: Klinefelter症候群
+  assertion:
+    plain_statement_ja: Klinefelter症候群（47,XXY）では、精子形成が著しく低下しライディッヒ細胞の機能障害を伴うため、無精子症と高ゴナドトロピン性性腺機能低下症が典型的な像である。欧州アンドロロジー学会のガイドライン（2021）は本症候群に対する初の国際ガイドラインであり、生殖機能だけでなく、心血管・代謝・骨の合併症の頻度上昇や神経認知・心理社会的側面を含む包括的な評価と管理を扱う。有病率に比べて診断率はなお低いとされる
+    condition:
+      region: 国際
+      対象: Klinefelter症候群の男性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3524
+    source: Zitzmann M, Aksglaede L, Corona G, et al. European Academy of Andrology guidelines on Klinefelter Syndrome. Andrology. 2021;9(1):145-167
+    doi: 10.1111/andr.12909
+    pmid: '32959490'
+    pmcid: null
+    url: https://doi.org/10.1111/andr.12909
+    source_license: CC BY-NC-ND 4.0（Crossref・Europe PMC の license 欄で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 頻度の具体値（新生男児約650人に1人）は別の総説の抄録で確認した値であり、本カードの出典の抄録には数値がないため主張に入れていない。2021年版以降の改訂の有無は未確認
+  curriculum:
+    kokushi: 医学各論 Ⅰ-4-A-③（Klinefelter症候群、b）
+    core_curriculum: 'PS-03-01-03 (id: JkxnuUI)；PS-02-12-04 (id: Jli53IM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: CG-006
+  domain: CG
+  subdomain: trisomy(13番、18番)
+  assertion:
+    plain_statement_ja: 13トリソミーと18トリソミーは、認識可能な多発先天異常のパターン、新生児期・乳児期の死亡率の上昇、生存した年長児における著明な認知・運動発達の障害を特徴とする、比較的頻度の高い染色体異常である。従来は新生児期・乳児期早期の技術的支援や手術を差し控える方針が主流だったが、近年は一律の差し控えではなく、緩和ケア中心の対応と、適切な症例への積極的介入の双方の位置づけを症例ごとに検討する議論が進んでいる
+    condition:
+      region: 国際
+      対象: 13トリソミーまたは18トリソミーの小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3525
+    source: Carey JC. Perspectives on the care and advances in the management of children with trisomy 13 and 18. Am J Med Genet C Semin Med Genet. 2016;172(3):249-250
+    doi: 10.1002/ajmg.c.31527
+    pmid: '27643592'
+    pmcid: null
+    url: https://doi.org/10.1002/ajmg.c.31527
+    source_license: 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 個別の生存率や手術成績の数値は、同じ特集号の各論文に分散しており本カードでは照合していないため主張に入れていない。18トリソミー単独の総説（Orphanet J Rare Dis 2012）は本カードでは使っていない
+  curriculum:
+    kokushi: 医学各論 Ⅰ-4-A-④（trisomy(13番、18番)、c）
+    core_curriculum: 'PS-03-01-03 (id: JkxnuUI)；PS-03-01-05 (id: JkxnuUQ)；PS-02-12-04 (id: Jli53IM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: CG-007
+  domain: CG
+  subdomain: 腟欠損症、Mayer-Rokitansky-Küster-Hauser<MRKH>症候群
+  assertion:
+    plain_statement_ja: MRKH症候群は、正常な二次性徴と正常な女性核型（46,XX）を持つ女性における子宮と腟上部の無形成（ミュラー管無形成）であり、出生女児5,000人に1人と推定される。原発性無月経の精査の過程で思春期に診断されることが多く、生殖器の異常のみの type I と、腎・骨格・耳・心などの生殖器外の合併異常を伴う type II に分類される
+    condition:
+      region: 国際
+      対象: MRKH症候群の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3526
+    source: 'Herlin MK, Petersen MB, Brännström M. Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome: a comprehensive update. Orphanet J Rare Dis. 2020;15:214'
+    doi: 10.1186/s13023-020-01491-9
+    pmid: '32819397'
+    pmcid: PMC7439721
+    url: https://doi.org/10.1186/s13023-020-01491-9
+    source_license: CC BY 4.0（Crossref・Europe PMC の license 欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 女性生殖器先天異常の分類のもう一つの根拠として ESHRE/ESGE コンセンサス分類（既存 SRC-799）があり、子宮形態分類の詳細はそちらが正となる。本カードは先天異常としての位置づけと診断の進め方に絞り、腟形成などの治療の詳細は婦人科側の範囲として扱っていない
+  curriculum:
+    kokushi: 医学各論 Ⅰ-4-B-①（腟欠損症、Mayer-Rokitansky-Küster-Hauser<MRKH>症候群、b）
+    core_curriculum: 'PS-02-10-01 (id: Jn46SWA)；TBL-02-09-001 (id: JlAKpnw)；TBL-02-09-006 (id: JlAKpoE)；PS-02-12-04 (id: Jli53IM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: CG-008
+  domain: CG
+  subdomain: 性分化疾患
+  assertion:
+    plain_statement_ja: 性分化疾患（DSD）は、性の決定と分化に影響する先天性疾患の総称である。小児期の専門施設では多職種による包括的ケアの推奨が広く実装されてきた一方で、思春期以降は成人ケアへのアクセスが難しく、長期経過に関するエビデンスも不足している。欧州の多職種専門家によるコンセンサス声明（2018）は、生涯を通じたケアとデータ収集の枠組みを示している
+    condition:
+      region: 国際
+      対象: 性分化疾患のある人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3527
+    source: 'Cools M, Nordenström A, Robeva R, et al. Caring for individuals with a difference of sex development (DSD): a Consensus Statement. Nat Rev Endocrinol. 2018;14(7):415-429'
+    doi: 10.1038/s41574-018-0010-8
+    pmid: '29769693'
+    pmcid: PMC7136158
+    url: https://doi.org/10.1038/s41574-018-0010-8
+    source_license: CC BY 4.0（Crossref・Europe PMC の license 欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 46,XY DSD・46,XX DSD・性染色体 DSD の3群分類は Chicago コンセンサス（2006）以来の枠組みであり、本カードの出典の抄録では確認していないため主張に入れていない（Lee らの2016年総説が候補）。個別疾患の評価手順の詳細は各論に譲る
+  curriculum:
+    kokushi: 医学各論 Ⅰ-4-B-②（性分化疾患、c）
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-001 (id: JlAKpnw)；PS-02-12-04 (id: Jli53IM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: CG-009
+  domain: CG
+  subdomain: アンドロゲン不応症<精巣性女性化症候群>
+  assertion:
+    plain_statement_ja: アンドロゲン不応症は、アンドロゲン受容体遺伝子の変化によるホルモン抵抗性を本態とし、46,XY における性分化疾患の最も多い原因である。表現型は完全型（CAIS）・部分型（PAIS）・軽症型（MAIS）の3型に分けられ、遺伝型と表現型の相関は乏しい。男性化が乏しいにもかかわらず LH とテストステロンが高値を示すことが、典型的な検査所見である
+    condition:
+      region: 国際
+      対象: アンドロゲン不応症の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3528
+    source: 'Batista RL, Costa EMF, Rodrigues AS, et al. Androgen insensitivity syndrome: a review. Arch Endocrinol Metab. 2018;62(2):227-235'
+    doi: 10.20945/2359-3997000000031
+    pmid: '29768628'
+    pmcid: PMC10118986
+    url: https://doi.org/10.20945/2359-3997000000031
+    source_license: CC BY 4.0（Europe PMC の license 欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 完全型の頻度の数値は一次資料で照合していないため主張に入れていない。性腺摘除の時期や養育する性の決定などの管理上の判断は個別の評価によるもので、本カードは病態と初期評価の骨格に留める
+  curriculum:
+    kokushi: 医学各論 Ⅰ-4-C-①（アンドロゲン不応症<精巣性女性化症候群>、b）
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-001 (id: JlAKpnw)；PS-02-12-04 (id: Jli53IM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: CG-010
+  domain: CG
+  subdomain: 先天性副腎皮質過形成
+  assertion:
+    plain_statement_ja: 先天性副腎皮質過形成の最も多い型である21-水酸化酵素欠損症は、新生児マススクリーニング（17-ヒドロキシプロゲステロンの測定）の対象疾患であり、Endocrine Society の診療ガイドライン（2018）はスクリーニングによる早期発見を前提に診療を組み立てている。古典的型のうち塩喪失型では生後早期に副腎クリーゼ（脱水・電解質異常・循環不全）を起こしうるため、スクリーニング陽性時は速やかな精査と全身状態の評価を行い、46,XX では外性器の男性化所見を性分化の評価として確認する
+    condition:
+      region: 国際
+      対象: 新生児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1030
+    source: 'Speiser PW, Arlt W, Auchus RJ, et al. Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2018;103(11):4043-4088'
+    doi: 10.1210/jc.2018-01865
+    pmid: '30272171'
+    pmcid: null
+    url: https://doi.org/10.1210/jc.2018-01865
+    source_license: © 2018 Endocrine Society（CC表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 本カードは新生児期の側面（スクリーニングで見つかる症例の初期対応と性分化の評価）に限る。長期管理は内分泌側（第20回）が正。薬剤の国内承認：副腎クリーゼに用いるヒドロコルチゾンは国内で承認されている副腎皮質ステロイド製剤で保険適用があるが、個別の効能・効果の文言は添付文書で未照合。ガイドラインの改訂版は確認できず、2018年版を現行として使った
+  curriculum:
+    kokushi: 医学各論 Ⅰ-4-C-②（先天性副腎皮質過形成、c）
+    core_curriculum: 'PS-02-12-02 (id: Jli53IY)；TBL-01-00-432 (id: JlvnmH0)；TBL-02-11-021 (id: Jli6Jns)；PS-02-12-04 (id: Jli53IM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
