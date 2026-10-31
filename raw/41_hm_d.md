@@ -1,0 +1,610 @@
+# 第41回（PB）血液・造血器疾患 事実票
+
+- 対象：医学各論 Ⅶ-5（小児血液疾患、PB 9項目）
+- 件数：18件（PB-001〜PB-018）で、依頼文の目安（約15件）に近い（レベル c の項目にも各1〜2件を置いたため）。ID の欠番はない
+- 新規出典は SRC-2731〜2743 の13件、既存出典の再利用はない。割り当ての残り SRC-2744〜2810 は未使用
+- これで第Ⅶ章（第38〜41回、計149件）が完結する
+
+## 1. 抽出元ホワイトリスト
+
+| SRC | DOI | 出典 | source_class |
+|---|---|---|---|
+| SRC-2731 | 10.1055/s-0037-1614494 | Sutor AH, von Kries R, Cornelissen EA, McNinch AW, Andrew M. Vitamin K deficiency bleeding (VKDB) in infancy. ISTH Pediatric/Perinatal Subcommittee. Thromb Haemost. 1999;81(3):456-461 | UNKNOWN |
+| SRC-2732 | 10.1016/j.blre.2008.06.001 | Shearer MJ. Vitamin K deficiency bleeding (VKDB) in early infancy. Blood Rev. 2009;23(2):49-59 | UNKNOWN |
+| SRC-2733 | null | 日本小児科学会新生児委員会. 新生児・乳児ビタミンK欠乏症出血症の予防法に関するQ&A. 日本小児科学会. 2021（関連学会・団体連名の提言「新生児と乳児のビタミンK欠乏性出血症発症予防に関する提言」2021-11-30 と一体の文書） | UNKNOWN |
+| SRC-2734 | 10.1097/HS9.0000000000000732 | Farmakis D, Porter J, Taher A, Cappellini MD, Angastiniotis M, Eleftheriou A. 2021 Thalassaemia International Federation Guidelines for the Management of Transfusion-dependent Thalassemia. Hemasphere. 2022;6(8):e732 | RESTRICTED |
+| SRC-2735 | 10.1016/S0140-6736(22)00536-0 | Kattamis A, Kwiatkowski JL, Aydinok Y. Thalassaemia. Lancet. 2022;399(10343):2310-2324 | UNKNOWN |
+| SRC-2736 | 10.1111/ped.70075 | Okubo R, Shirota C, Wada M, et al. Vitamin K deficiency bleeding and optimal prophylaxis methods in biliary atresia: a surveillance study in Japan. Pediatr Int. 2025;67(1):e70075 | RESTRICTED |
+| SRC-2737 | 10.1016/S2352-3026(23)00118-7 | GBD 2021 Sickle Cell Disease Collaborators. Global, regional, and national prevalence and mortality burden of sickle cell disease, 2000-2021: a systematic analysis from the Global Burden of Disease Study 2021. Lancet Haematol. 2023;10(8):e585-e599 | OPEN |
+| SRC-2738 | 10.1111/j.1365-2141.2011.08921.x | Bolton-Maggs PH, Langer JC, Iolascon A, Tittensor P, King MJ; General Haematology Task Force of the British Committee for Standards in Haematology. Guidelines for the diagnosis and management of hereditary spherocytosis--2011 update. Br J Haematol. 2012;156(1):37-49 | UNKNOWN |
+| SRC-2739 | 10.1182/blood.2019000944 | Luzzatto L, Ally M, Notaro R. Glucose-6-phosphate dehydrogenase deficiency. Blood. 2020;136(11):1225-1240 | UNKNOWN |
+| SRC-2740 | 10.1016/S2352-3026(23)00377-0 | Al-Samkari H, Shehata N, Lang-Robertson K, et al. Diagnosis and management of pyruvate kinase deficiency: international expert guidelines. Lancet Haematol. 2024;11(3):e228-e239 | UNKNOWN |
+| SRC-2741 | 10.1111/bjh.15409 | Grainger JD, Thachil J, Will AM. How we treat the platelet glycoprotein defects; Glanzmann thrombasthenia and Bernard Soulier syndrome in children and adults. Br J Haematol. 2018;182(5):621-632 | UNKNOWN |
+| SRC-2742 | なし（書籍） | 日本小児血液・がん学会 編. 小児白血病・リンパ腫診療ガイドライン 2016年版. 金原出版. 2016 | UNKNOWN |
+| SRC-2743 | 10.1200/JCO.2014.59.5827 | Minard-Colin V, Brugières L, Reiter A, et al. Non-Hodgkin Lymphoma in Children and Adolescents: Progress Through Effective Collaboration, Current Knowledge, and Challenges Ahead. J Clin Oncol. 2015;33(27):2963-2974 | UNKNOWN |
+
+## 2. 事実票
+
+```yaml
+- id: PB-001
+  domain: PB
+  subdomain: ビタミンK欠乏症
+  assertion:
+    plain_statement_ja: ビタミンK欠乏性出血症（VKDB）は、ビタミンK依存性凝固因子（II・VII・IX・X）の活性不足による出血で、ビタミンKの補充により是正されるものと定義され、発症時期により早発型（生後24時間以内）、古典型（生後1〜7日）、晩発型（生後1週以降〜6か月）に分類される。
+    condition:
+      region: 国際
+      対象: 乳児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2731
+    source: Sutor AH, von Kries R, Cornelissen EA, McNinch AW, Andrew M. Vitamin K deficiency bleeding (VKDB) in infancy. ISTH Pediatric/Perinatal Subcommittee. Thromb Haemost. 1999;81(3):456-461.
+    doi: 10.1055/s-0037-1614494
+    pmid: '10102477'
+    pmcid: null
+    url: https://doi.org/10.1055/s-0037-1614494
+    source_license: Crossref にライセンス登録なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: ISTH 小児・周産期分科会による定義と分類（1999年）に基づく。病因による特発性と二次性の区別も同文献にあるが、本カードは発症時期による分類に絞った。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-A-①（ビタミンK欠乏症、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-396 (id: JlvnmE0)；TBL-02-01-017 (id: JlAKpWk)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: PB-002
+  domain: PB
+  subdomain: ビタミンK欠乏症
+  assertion:
+    plain_statement_ja: 晩発型のビタミンK欠乏性出血症は生後3〜8週にピークがあり、典型的には頭蓋内出血で発症し、背景に未診断の胆汁うっ滞を伴うことが多い。診断には PIVKA-II の測定が有用で、ビタミンK予防投与が行われない場合の晩発型の発生率は欧州で出生10万あたり4〜7件とされる。
+    condition:
+      region: 国際
+      対象: 乳児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2732
+    source: Shearer MJ. Vitamin K deficiency bleeding (VKDB) in early infancy. Blood Rev. 2009;23(2):49-59.
+    doi: 10.1016/j.blre.2008.06.001
+    pmid: '18804903'
+    pmcid: null
+    url: https://doi.org/10.1016/j.blre.2008.06.001
+    source_license: Crossref の登録は Elsevier の TDM ライセンスのみ（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 発生率の数値は欧州の報告に基づくもので、日本の発生率は本出典では確認していない。古典型が生後1週以内に哺乳の遅れ・不足と関連して起こる点も同文献にある。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-A-①（ビタミンK欠乏症、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-396 (id: JlvnmE0)；TBL-02-01-014 (id: JlAKpWU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: PB-003
+  domain: PB
+  subdomain: ビタミンK欠乏症
+  assertion:
+    plain_statement_ja: 日本では、2021年に関連学会・団体の連名提言により、新生児・乳児のビタミンK欠乏性出血症の予防として、ビタミンK2シロップ1 mL（2 mg）を哺乳確立時に開始し、生後3か月まで週1回経口投与する「3か月法」（合計13回）への統一が提言された。1か月健診の時点で人工栄養が主体の場合は、それ以降の投与を中止してもよいとされる。
+    condition:
+      region: 日本
+      対象: 新生児・乳児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2733
+    source: 日本小児科学会新生児委員会. 新生児・乳児ビタミンK欠乏症出血症の予防法に関するQ&A. 日本小児科学会. 2021.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: http://www.jpeds.or.jp/uploads/files/20211130_VK_h.pdf
+    source_license: 学会文書（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 従来の標準であった2010年改訂ガイドラインの3回投与法からの変更である。ビタミンK2シロップ（ケイツーシロップ0.2%、メナテトレノン）は国内で販売されていることを確認したが、予防投与そのものの保険適用の扱いは未確認。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-A-①（ビタミンK欠乏症、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-396 (id: JlvnmE0)；TBL-02-01-014 (id: JlAKpWU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: PB-004
+  domain: PB
+  subdomain: サラセミア
+  assertion:
+    plain_statement_ja: 輸血依存性サラセミアは生涯にわたるケアを要する病態であり、専門施設での多職種によるフォローアップが必要とされる。Thalassaemia International Federation のガイドラインは2021年に第4版が刊行され、診断・治療・合併症管理・心理社会的課題までを含む。
+    condition:
+      region: 国際
+      対象: 小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2734
+    source: Farmakis D, Porter J, Taher A, Cappellini MD, Angastiniotis M, Eleftheriou A. 2021 Thalassaemia International Federation Guidelines for the Management of Transfusion-dependent Thalassemia. Hemasphere. 2022;6(8):e732.
+    doi: 10.1097/HS9.0000000000000732
+    pmid: '35928543'
+    pmcid: null
+    url: https://doi.org/10.1097/HS9.0000000000000732
+    source_license: CC BY-NC-ND 4.0（Europe PMC・Crossref で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本論文はガイドライン第4版の臨床実践に関する要約であり、個別の推奨の文面はガイドライン全文の確認が必要。日本国内のサラセミアの疫学と国内ガイドラインの有無は未確認。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-A-②（サラセミア、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: PB-005
+  domain: PB
+  subdomain: サラセミア
+  assertion:
+    plain_statement_ja: サラセミアはグロビン鎖合成の異常による遺伝性疾患群で、病態の中心はグロビン鎖産生のアンバランスであり、無効造血、溶血の増加、鉄恒常性の破綻を来す。治療は輸血と鉄キレート療法による保存的治療が中心で、根治的治療として同種造血幹細胞移植が適した患者に推奨される。
+    condition:
+      region: 国際
+      対象: 小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2735
+    source: Kattamis A, Kwiatkowski JL, Aydinok Y. Thalassaemia. Lancet. 2022;399(10343):2310-2324.
+    doi: 10.1016/S0140-6736(22)00536-0
+    pmid: '35691301'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(22)00536-0
+    source_license: Crossref の登録は Elsevier の TDM ライセンスのみ（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: ルスパテルセプトは米国・EU で β サラセミアに承認されているが、国内では骨髄異形成症候群に伴う貧血の適応のみ確認でき、サラセミアへの国内適応は未確認のため主張に入れていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-A-②（サラセミア、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-006 (id: JlAKpV0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: PB-006
+  domain: PB
+  subdomain: 新生児出血性疾患
+  assertion:
+    plain_statement_ja: 新生児期の出血がすべてビタミンK欠乏によるわけではなく、逆にビタミンK欠乏性出血症は生後4週を超えた乳児期にも起こるため、ISTH 小児・周産期分科会は従来の「新生児出血性疾患」という総称に代えて、ビタミンK欠乏性出血症（VKDB）の用語を用いることを提案した。
+    condition:
+      region: 国際
+      対象: 新生児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2731
+    source: Sutor AH, von Kries R, Cornelissen EA, McNinch AW, Andrew M. Vitamin K deficiency bleeding (VKDB) in infancy. ISTH Pediatric/Perinatal Subcommittee. Thromb Haemost. 1999;81(3):456-461.
+    doi: 10.1055/s-0037-1614494
+    pmid: '10102477'
+    pmcid: null
+    url: https://doi.org/10.1055/s-0037-1614494
+    source_license: Crossref にライセンス登録なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 新生児の出血性疾患全般（凝固因子欠乏、血小板異常、DIC など）を総論として扱うガイドライン級の一次資料は確認できなかったため、本項目は用語の整理と二次性の原因（PB-007）の範囲に絞った。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-A-③（新生児出血性疾患、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-02-01-014 (id: JlAKpWU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: PB-007
+  domain: PB
+  subdomain: 新生児出血性疾患
+  assertion:
+    plain_statement_ja: 胆道閉鎖症などの胆汁うっ滞性疾患は、ビタミンKの吸収不全を介して二次性のビタミンK欠乏性出血症の背景となる。日本の胆道閉鎖症登録研究では、3か月法による予防を行った群ではビタミンK欠乏性出血症の発生がなく、3回法の群より有意に少なかった。
+    condition:
+      region: 日本
+      対象: 乳児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2736
+    source: 'Okubo R, Shirota C, Wada M, et al. Vitamin K deficiency bleeding and optimal prophylaxis methods in biliary atresia: a surveillance study in Japan. Pediatr Int. 2025;67(1):e70075.'
+    doi: 10.1111/ped.70075
+    pmid: '40390459'
+    pmcid: null
+    url: https://doi.org/10.1111/ped.70075
+    source_license: CC BY-NC-ND 4.0（Europe PMC で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 日本胆道閉鎖症登録（2015〜2019年、解析対象289例）に基づく結果で、3回法との比較は傾向スコアマッチング解析（p=0.029）による。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-A-③（新生児出血性疾患、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-02-01-014 (id: JlAKpWU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: PB-008
+  domain: PB
+  subdomain: 異常ヘモグロビン症
+  assertion:
+    plain_statement_ja: 鎌状赤血球症を持って生まれた新生児は2021年に世界で515,000人と推計され、鎌状赤血球症とともに生きる人の総数は774万人に達する。5歳未満の死亡は2021年に81,100人と推計されており、小児の死亡負担が大きい疾患である。
+    condition:
+      region: 国際
+      対象: 小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2737
+    source: 'GBD 2021 Sickle Cell Disease Collaborators. Global, regional, and national prevalence and mortality burden of sickle cell disease, 2000-2021: a systematic analysis from the Global Burden of Disease Study 2021. Lancet Haematol. 2023;10(8):e585-e599.'
+    doi: 10.1016/S2352-3026(23)00118-7
+    pmid: '37331373'
+    pmcid: null
+    url: https://doi.org/10.1016/S2352-3026(23)00118-7
+    source_license: CC BY（Europe PMC で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 数値はいずれも Global Burden of Disease Study 2021 の推計値（出生数は95%不確実性区間 425,000〜614,000）。日本では鎌状赤血球症は極めてまれであり、国内の疫学の一次資料は未確認。鎌状赤血球症の標準的総説（Piel 2017）は抄録を照合できなかったため出典にしていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-A-④（異常ヘモグロビン症、c）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-02-01-006 (id: JlAKpV0)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: PB-009
+  domain: PB
+  subdomain: 遺伝性球状赤血球症
+  assertion:
+    plain_statement_ja: 遺伝性球状赤血球症の診断にはエオジン-5-マレイミド（EMA）結合試験が用いられ、非典型例では赤血球膜蛋白の生化学的検査や遺伝子解析が適応になることがある。脾摘については長期的なリスクが認識されており、軽症の小児における胆嚢摘出時の脾摘の同時実施の適応など、外科的管理の見直しが進められている。
+    condition:
+      region: 国際
+      対象: 小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2738
+    source: Bolton-Maggs PH, Langer JC, Iolascon A, Tittensor P, King MJ; General Haematology Task Force of the British Committee for Standards in Haematology. Guidelines for the diagnosis and management of hereditary spherocytosis--2011 update. Br J Haematol. 2012;156(1):37-49.
+    doi: 10.1111/j.1365-2141.2011.08921.x
+    pmid: '22055020'
+    pmcid: null
+    url: https://doi.org/10.1111/j.1365-2141.2011.08921.x
+    source_license: Crossref の登録は Wiley の利用条件のみ（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 英国血液学会（BCSH）の2011年改訂版ガイドラインに基づく内容で、2004年版を置き換える版である。日本小児血液・がん学会による本疾患単独のガイドラインの有無は未確認。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-A-⑤（遺伝性球状赤血球症、c）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: PB-010
+  domain: PB
+  subdomain: 赤血球酵素異常症
+  assertion:
+    plain_statement_ja: G6PD 欠損症は X 染色体上の G6PD 遺伝子の変異による最もありふれた酵素異常症の一つで、変異を持つ人は世界で約5億人とされる。大半は生涯無症候だが、欠損した赤血球は酸化ストレスに弱く、ソラマメの摂取、プリマキンやラスブリカーゼなどの薬剤、まれに感染を契機に急性溶血性貧血を起こしうる。
+    condition:
+      region: 国際
+      対象: 小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2739
+    source: Luzzatto L, Ally M, Notaro R. Glucose-6-phosphate dehydrogenase deficiency. Blood. 2020;136(11):1225-1240.
+    doi: 10.1182/blood.2019000944
+    pmid: '32702756'
+    pmcid: null
+    url: https://doi.org/10.1182/blood.2019000944
+    source_license: Crossref にライセンス登録なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: ラスブリカーゼは国内承認薬であるが、添付文書における G6PD 欠損症への禁忌・注意の記載は未照合。プリマキンの国内承認状況も未確認。一部の変異では慢性非球状性溶血性貧血を呈する点も同文献にある。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-A-⑥（赤血球酵素異常症、c）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: PB-011
+  domain: PB
+  subdomain: 赤血球酵素異常症
+  assertion:
+    plain_statement_ja: ピルビン酸キナーゼ欠損症は、常染色体劣性の解糖系酵素異常で、慢性先天性非球状性溶血性貧血の最も多い原因であり、有病率は10万〜30万人に1人と推定される。臨床像は胎児水腫から生涯輸血を要する例、完全に代償された溶血まで幅広く、2024年に国際専門家ガイドラインとして31の推奨がまとめられた。
+    condition:
+      region: 国際
+      対象: 小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2740
+    source: 'Al-Samkari H, Shehata N, Lang-Robertson K, et al. Diagnosis and management of pyruvate kinase deficiency: international expert guidelines. Lancet Haematol. 2024;11(3):e228-e239.'
+    doi: 10.1016/S2352-3026(23)00377-0
+    pmid: '38330977'
+    pmcid: null
+    url: https://doi.org/10.1016/S2352-3026(23)00377-0
+    source_license: Crossref の登録は Elsevier の TDM ライセンス等のみ（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: ミタピバト（ピルビン酸キナーゼ活性化薬）は米国で2022年、EU で2022年に成人のピルビン酸キナーゼ欠損症の溶血性貧血へ承認されているが、日本での承認は未確認のため主張に入れていない。治療の中心は輸血・脾摘・鉄キレートなどの支持療法である。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-A-⑥（赤血球酵素異常症、c）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: PB-012
+  domain: PB
+  subdomain: 先天性血小板機能異常症
+  assertion:
+    plain_statement_ja: 血小板無力症（Glanzmann thrombasthenia）と Bernard-Soulier 症候群は、先天性の血小板糖蛋白欠損による、まれだが長期管理を要する重要な出血性疾患であり、診断後は出血性疾患の専門施設へ紹介し、助言と継続管理を受けることが勧められる。
+    condition:
+      region: 国際
+      対象: 小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2741
+    source: Grainger JD, Thachil J, Will AM. How we treat the platelet glycoprotein defects; Glanzmann thrombasthenia and Bernard Soulier syndrome in children and adults. Br J Haematol. 2018;182(5):621-632.
+    doi: 10.1111/bjh.15409
+    pmid: '30117143'
+    pmcid: null
+    url: https://doi.org/10.1111/bjh.15409
+    source_license: Crossref の登録は Wiley の利用条件のみ（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 2018年の総説に基づく内容で、小児と成人を通じた管理の考え方を示したもの。日本国内の診療体制と疫学は未確認。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-A-⑦（先天性血小板機能異常症、c）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-02-01-017 (id: JlAKpWk)；TBL-02-01-014 (id: JlAKpWU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: PB-013
+  domain: PB
+  subdomain: 先天性血小板機能異常症
+  assertion:
+    plain_statement_ja: 血小板無力症と Bernard-Soulier 症候群では予防的（定期）治療は行わず、管理の中心は高リスク手技の前の予防的対応と非外科的出血イベントへの対応であり、対応は事故や侵襲的手技の種類、出血の程度、血小板不応の有無によってイベントごとに個別化される。女性では月経過多と妊娠の管理が課題となる。
+    condition:
+      region: 国際
+      対象: 小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2741
+    source: Grainger JD, Thachil J, Will AM. How we treat the platelet glycoprotein defects; Glanzmann thrombasthenia and Bernard Soulier syndrome in children and adults. Br J Haematol. 2018;182(5):621-632.
+    doi: 10.1111/bjh.15409
+    pmid: '30117143'
+    pmcid: null
+    url: https://doi.org/10.1111/bjh.15409
+    source_license: Crossref の登録は Wiley の利用条件のみ（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出血合併症の治療・予防に一貫した方法はないと同文献は述べており、個別の止血手段（製剤の選択など）の国内承認・保険適用の状況は未確認のため主張に入れていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-A-⑦（先天性血小板機能異常症、c）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-02-01-017 (id: JlAKpWk)；TBL-02-01-014 (id: JlAKpWU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: PB-014
+  domain: PB
+  subdomain: 白血病
+  assertion:
+    plain_statement_ja: 急性リンパ性白血病（ALL）は小児期の造血器悪性疾患の中で最も頻度が高く、2〜5歳に発症することが多い。日本では小児人口10万人あたり年間3〜4人の発症が見込まれ、年間約500人の新規診断患者が発生する。
+    condition:
+      region: 日本
+      対象: 小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2742
+    source: 日本小児血液・がん学会 編. 小児白血病・リンパ腫診療ガイドライン 2016年版. 金原出版. 2016.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 書籍（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 日本小児血液・がん学会のガイドラインは2016年版が現行とみられるが、同学会公式サイトの改修により公式一覧での直接確認は未了。数値は同ガイドラインの Web 公開版（2026年10月に公開終了）で確認したもので、書籍版での再照合が望ましい。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-B-①（白血病、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-394 (id: JlvnmEs)；TBL-02-01-016 (id: JlAKpWg)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: PB-015
+  domain: PB
+  subdomain: 白血病
+  assertion:
+    plain_statement_ja: 小児の急性リンパ性白血病の標準治療は、寛解導入療法、再寛解導入を含む強化療法、維持療法から構成され、年齢、初診時白血球数、中枢神経系・精巣浸潤の有無、免疫学的分類、染色体・遺伝子異常の検査と、寛解後の微小残存病変（MRD）検査によるリスクに応じた層別化治療が行われる。治療成績は向上し、長期生存率は80%を超え、80〜90%の患者で治癒が得られるようになった。
+    condition:
+      region: 日本
+      対象: 小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2742
+    source: 日本小児血液・がん学会 編. 小児白血病・リンパ腫診療ガイドライン 2016年版. 金原出版. 2016.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 書籍（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 日本小児血液・がん学会のガイドラインは2016年版が現行とみられるが、同学会公式サイトの改修により公式一覧での直接確認は未了。内容は同ガイドラインの Web 公開版（2026年10月に公開終了）で確認したもので、書籍版での再照合が望ましい。層別化の推奨は同ガイドライン CQ1 で推奨グレード1A とされている。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-B-①（白血病、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-394 (id: JlvnmEs)；TBL-02-01-018 (id: JlAKpWo)；TBL-02-01-021 (id: JlAKpW0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: PB-016
+  domain: PB
+  subdomain: 白血病
+  assertion:
+    plain_statement_ja: フィラデルフィア染色体陽性の小児急性リンパ性白血病は、チロシンキナーゼ阻害薬を併用した化学療法が有効で、他の病型とは別個のプロトコールで治療する。1歳未満の乳児の急性リンパ性白血病は KMT2A（MLL）遺伝子再構成を高率に伴うなど生物学的に特徴的で、1歳以上とは別のプロトコールで治療するのが一般的である。
+    condition:
+      region: 日本
+      対象: 小児（乳児を含む）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2742
+    source: 日本小児血液・がん学会 編. 小児白血病・リンパ腫診療ガイドライン 2016年版. 金原出版. 2016.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 書籍（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: チロシンキナーゼ阻害薬（イマチニブ等）の薬剤ごとの国内承認・保険適用の範囲は個別に未照合。ガイドラインの版の確認状況は PB-014 の uncertainty と同じ。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-B-①（白血病、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-394 (id: JlvnmEs)；TBL-02-01-021 (id: JlAKpW0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: PB-017
+  domain: PB
+  subdomain: 悪性リンパ腫
+  assertion:
+    plain_statement_ja: 非ホジキンリンパ腫は小児で4番目に多い悪性腫瘍で、思春期ではさらに頻度が高い。小児の組織型は Burkitt リンパ腫、びまん性大細胞型 B 細胞リンパ腫、リンパ芽球性リンパ腫、未分化大細胞型リンパ腫など少数の亜型に限られ、成人の病型構成とは大きく異なる。
+    condition:
+      region: 国際
+      対象: 小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2743
+    source: 'Minard-Colin V, Brugières L, Reiter A, et al. Non-Hodgkin Lymphoma in Children and Adolescents: Progress Through Effective Collaboration, Current Knowledge, and Challenges Ahead. J Clin Oncol. 2015;33(27):2963-2974.'
+    doi: 10.1200/JCO.2014.59.5827
+    pmid: '26304908'
+    pmcid: null
+    url: https://doi.org/10.1200/JCO.2014.59.5827
+    source_license: Crossref にライセンス登録なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 2015年の総説に基づく国際的な病型構成で、日本国内の小児リンパ腫の登録統計による裏づけは未確認。小児 Hodgkin リンパ腫に絞った総説級の一次資料は確認できなかったため、本項目は非ホジキンリンパ腫を中心に構成した。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-B-②（悪性リンパ腫、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-395 (id: JnekjMI)；TBL-02-01-012 (id: JlAKpWM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+- id: PB-018
+  domain: PB
+  subdomain: 悪性リンパ腫
+  assertion:
+    plain_statement_ja: 小児の Burkitt リンパ腫とびまん性大細胞型 B 細胞リンパ腫の多くは短期間の強力なパルス化学療法で治癒し、リンパ芽球性リンパ腫は白血病に準じた長期間の強力なプロトコールで治療される。未分化大細胞型リンパ腫では無イベント生存率約75%が得られており、小児非ホジキンリンパ腫全体の生存率は80%を超えるまで改善した。
+    condition:
+      region: 国際
+      対象: 小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2743
+    source: 'Minard-Colin V, Brugières L, Reiter A, et al. Non-Hodgkin Lymphoma in Children and Adolescents: Progress Through Effective Collaboration, Current Knowledge, and Challenges Ahead. J Clin Oncol. 2015;33(27):2963-2974.'
+    doi: 10.1200/JCO.2014.59.5827
+    pmid: '26304908'
+    pmcid: null
+    url: https://doi.org/10.1200/JCO.2014.59.5827
+    source_license: Crossref にライセンス登録なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: リツキシマブ追加の利益は原発性縦隔 B 細胞リンパ腫以外では確立していないと同文献（2015年）は述べており、その後の国際共同研究による更新は本カードでは未照合。個別薬剤の国内承認・保険適用の状況は主張に含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-5-B-②（悪性リンパ腫、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-395 (id: JnekjMI)；TBL-02-01-012 (id: JlAKpWM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+```
+
+## 3. カリキュラム対応の一覧
+
+| カードID | 出題基準 | コアカリ |
+|---|---|---|
+| PB-001 | 医学各論 Ⅶ-5-A-①（ビタミンK欠乏症、a） | PS-02-02-05 (id: JkxnuPc)；TBL-01-00-396 (id: JlvnmE0)；TBL-02-01-017 (id: JlAKpWk) |
+| PB-002 | 医学各論 Ⅶ-5-A-①（ビタミンK欠乏症、a） | PS-02-02-05 (id: JkxnuPc)；TBL-01-00-396 (id: JlvnmE0)；TBL-02-01-014 (id: JlAKpWU) |
+| PB-003 | 医学各論 Ⅶ-5-A-①（ビタミンK欠乏症、a） | PS-02-02-05 (id: JkxnuPc)；TBL-01-00-396 (id: JlvnmE0)；TBL-02-01-014 (id: JlAKpWU) |
+| PB-004 | 医学各論 Ⅶ-5-A-②（サラセミア、b） | PS-02-02-05 (id: JkxnuPc)；TBL-02-01-013 (id: JlAKpWQ) |
+| PB-005 | 医学各論 Ⅶ-5-A-②（サラセミア、b） | PS-02-02-05 (id: JkxnuPc)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-006 (id: JlAKpV0) |
+| PB-006 | 医学各論 Ⅶ-5-A-③（新生児出血性疾患、b） | PS-02-02-05 (id: JkxnuPc)；TBL-02-01-014 (id: JlAKpWU) |
+| PB-007 | 医学各論 Ⅶ-5-A-③（新生児出血性疾患、b） | PS-02-02-05 (id: JkxnuPc)；TBL-02-01-014 (id: JlAKpWU) |
+| PB-008 | 医学各論 Ⅶ-5-A-④（異常ヘモグロビン症、c） | PS-02-02-05 (id: JkxnuPc)；TBL-02-01-006 (id: JlAKpV0)；TBL-02-01-013 (id: JlAKpWQ) |
+| PB-009 | 医学各論 Ⅶ-5-A-⑤（遺伝性球状赤血球症、c） | PS-02-02-05 (id: JkxnuPc)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI) |
+| PB-010 | 医学各論 Ⅶ-5-A-⑥（赤血球酵素異常症、c） | PS-02-02-05 (id: JkxnuPc)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI) |
+| PB-011 | 医学各論 Ⅶ-5-A-⑥（赤血球酵素異常症、c） | PS-02-02-05 (id: JkxnuPc)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI) |
+| PB-012 | 医学各論 Ⅶ-5-A-⑦（先天性血小板機能異常症、c） | PS-02-02-05 (id: JkxnuPc)；TBL-02-01-017 (id: JlAKpWk)；TBL-02-01-014 (id: JlAKpWU) |
+| PB-013 | 医学各論 Ⅶ-5-A-⑦（先天性血小板機能異常症、c） | PS-02-02-05 (id: JkxnuPc)；TBL-02-01-017 (id: JlAKpWk)；TBL-02-01-014 (id: JlAKpWU) |
+| PB-014 | 医学各論 Ⅶ-5-B-①（白血病、a） | PS-02-02-05 (id: JkxnuPc)；TBL-01-00-394 (id: JlvnmEs)；TBL-02-01-016 (id: JlAKpWg) |
+| PB-015 | 医学各論 Ⅶ-5-B-①（白血病、a） | PS-02-02-05 (id: JkxnuPc)；TBL-01-00-394 (id: JlvnmEs)；TBL-02-01-018 (id: JlAKpWo)；TBL-02-01-021 (id: JlAKpW0) |
+| PB-016 | 医学各論 Ⅶ-5-B-①（白血病、a） | PS-02-02-05 (id: JkxnuPc)；TBL-01-00-394 (id: JlvnmEs)；TBL-02-01-021 (id: JlAKpW0) |
+| PB-017 | 医学各論 Ⅶ-5-B-②（悪性リンパ腫、b） | PS-02-02-05 (id: JkxnuPc)；TBL-01-00-395 (id: JnekjMI)；TBL-02-01-012 (id: JlAKpWM) |
+| PB-018 | 医学各論 Ⅶ-5-B-②（悪性リンパ腫、b） | PS-02-02-05 (id: JkxnuPc)；TBL-01-00-395 (id: JnekjMI)；TBL-02-01-012 (id: JlAKpWM) |
+
+## 4. 未解決事項
+
+1. **件数**：18件（目安15件をやや上回る）。内訳は依頼の配分どおりで、レベル a の2項目（Ⅶ-5-A-① 3件、Ⅶ-5-B-① 3件）は各3件ある。仮 SRC は SRC-2731〜2743 の13件を使い、SRC-2744〜2750 は未使用。既存出典の再利用はなし（候補の DOI は出典マスターと第38〜40回のホワイトリストの両方と照合し、重複なしを確認した）
+2. **JSPHO ガイドラインの版**：『小児白血病・リンパ腫診療ガイドライン』2016年版が現行とみられるが、同学会公式サイトの改修で公式一覧の直接確認が未了のため、PB-014〜016 の uncertainty にその旨を明記した。数値は Web 公開版（2026年10月に公開終了）の確認に基づくため、組み立て・取り込み時に書籍版での再照合が望ましい
+3. **ビタミンK欠乏症の切り分け**：PB は定義・分類（ISTH）、臨床像（Shearer）、日本の予防（2021年提言の3か月法）に絞り、第40回 HS-028（成人の総論、Mladěnka 2022）とは重複させていない。米国の AAP 推奨（出生時筋注、Hand 2022）は抄録で投与量等の具体を確認できなかったためカード化せず、地域差の補完候補として残す。2010年改訂ガイドライン（3回投与法）は現在の提言で置き換えられたため出典にせず、経緯のみ PB-003 の uncertainty に記した
+4. **新生児出血性疾患（A-③）**：総論級の独自資料が確認できなかったため、ISTH の用語整理（PB-006）と二次性 VKDB の背景としての胆汁うっ滞（PB-007）の2件に絞った。A-① とは出典（Sutor 1999）を共有するが主張は重ならない
+5. **異常ヘモグロビン症（A-④）は1件のみ**：数値的主張が可能な照合済み出典が GBD 2021 のみのため。Piel 2017（鎌状赤血球症の標準的総説）は抄録未照合のため出典にせず、本文照合ができれば病態・臨床像の補完候補になる
+6. **薬剤の国内承認が未確認のもの**：ミタピバト（PB-011）、ルスパテルセプトのサラセミア適応（PB-005）、チロシンキナーゼ阻害薬の個別の承認範囲（PB-016）、ラスブリカーゼの添付文書上の禁忌記載（PB-010）はいずれも主張に入れず uncertainty に明記した。ビタミンK2シロップの予防投与の保険適用の扱いも未確認（PB-003）
+7. **未使用の候補**：Hand 2022（AAP）、Grace & Barcellini 2020（PK欠損症の管理）、Blood Res 2022 の先天性血小板疾患の診断総説は、抄録未照合または重複回避のため今回は使っていない。A-⑤ 遺伝性球状赤血球症の国内疫学・国内ガイドラインの有無も未確認のままである
+8. **次回への引き継ぎ**：分野をまたぐ既存カードへの番号追加の対象は本回では発生しなかった。なお第39回 LY の伝染性単核球症・HLH 等は小児にも関係するが、番号は Ⅶ-3 のままで PB 側への併記はしていない（依頼文の境界に PB への併記の指定がないため）
+
+## 5. 次回への引き継ぎ
+
+- 第41回の未使用 SRC：SRC-2744〜2810（次回へは繰り越さない）
+- 対象9項目をすべてカバーした。レベル a の2項目（ビタミンK欠乏症・白血病）には各3件のカードがある
+- 境界の扱い：ビタミンK欠乏症は小児側（予防と乳児の出血症）に絞り、成人の総論（第40回 HS）と重複させていない。白血病・悪性リンパ腫は小児の臨床像と総論に絞り、成人の各論（第39回）と重複させていない
+- JSPHO『小児白血病・リンパ腫診療ガイドライン』2016年版の現行性は、学会サイト改修のため公式一覧での直接確認が未了（第4節の申し送り）

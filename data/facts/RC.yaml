@@ -1,0 +1,1155 @@
+- id: RC-001
+  domain: RC
+  subdomain: 鉄欠乏性貧血
+  assertion:
+    plain_statement_ja: 鉄欠乏の判定では血清フェリチンが最も特異的な検査であり、炎症がない状況では15 µg/L未満は貯蔵鉄の欠如を、30 µg/L未満は体内の鉄貯蔵が低い状態を示す。トランスフェリン飽和度20%未満は鉄制限の指標である。
+    condition:
+      region: 英国
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-164
+    source: Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut. 2021;70(11):2030-2051.
+    doi: 10.1136/gutjnl-2021-325210
+    pmid: '34497146'
+    pmcid: PMC8515119
+    url: https://doi.org/10.1136/gutjnl-2021-325210
+    source_license: CC BY-NC 4.0（Crossref・PubMed の著作権表示で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 英国BSGガイドラインの記載であり、日本の診療指針での基準値の照合は本パートでは未実施。炎症がある場合のフェリチンの解釈の詳細は主張に含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-001 (id: JlvnlXM)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-002
+  domain: RC
+  subdomain: 鉄欠乏性貧血
+  assertion:
+    plain_statement_ja: 成人男性と閉経後女性の鉄欠乏性貧血では、およそ3分の1に基礎疾患がみられ、最も多いのは消化管の病変であるため、原因検索として消化管の精査が位置づけられる。
+    condition:
+      region: 英国
+      対象: 成人男性と閉経後女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-164
+    source: Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut. 2021;70(11):2030-2051.
+    doi: 10.1136/gutjnl-2021-325210
+    pmid: '34497146'
+    pmcid: PMC8515119
+    url: https://doi.org/10.1136/gutjnl-2021-325210
+    source_license: CC BY-NC 4.0（Crossref・PubMed の著作権表示で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 英国BSGガイドラインの記載であり、日本における原因疾患の構成比ではない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-001 (id: JlvnlXM)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-003
+  domain: RC
+  subdomain: 鉄欠乏性貧血
+  assertion:
+    plain_statement_ja: 先進国では、成人男性と閉経後女性における鉄欠乏性貧血の時点有病率は2〜5%とされる。
+    condition:
+      region: 英国
+      対象: 成人男性と閉経後女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-164
+    source: Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut. 2021;70(11):2030-2051.
+    doi: 10.1136/gutjnl-2021-325210
+    pmid: '34497146'
+    pmcid: PMC8515119
+    url: https://doi.org/10.1136/gutjnl-2021-325210
+    source_license: CC BY-NC 4.0（Crossref・PubMed の著作権表示で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 英国BSGガイドライン本文に記載された先進国での推計であり、日本の疫学数値ではない。国内の有病率は未確認。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-001 (id: JlvnlXM)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-004
+  domain: RC
+  subdomain: 鉄欠乏性貧血
+  assertion:
+    plain_statement_ja: 鉄欠乏性貧血の初期治療では、経口鉄として元素鉄50〜100 mgを1日1回、空腹時に投与し、最初の4週間でヘモグロビンの反応を確認する。ヘモグロビンが正常化した後も、貯蔵鉄を補うため約3か月継続する。
+    condition:
+      region: 英国
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-164
+    source: Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut. 2021;70(11):2030-2051.
+    doi: 10.1136/gutjnl-2021-325210
+    pmid: '34497146'
+    pmcid: PMC8515119
+    url: https://doi.org/10.1136/gutjnl-2021-325210
+    source_license: CC BY-NC 4.0（Crossref・PubMed の著作権表示で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 薬剤（経口鉄剤）の用量と継続期間は英国BSGガイドラインの記載。国内の個別製剤の承認・用法は未確認であり、PMDA添付文書での確認が必要。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-001 (id: JlvnlXM)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-005
+  domain: RC
+  subdomain: 鉄過剰症
+  assertion:
+    plain_statement_ja: HFE遺伝子のp.Cys282Tyrホモ接合体では、血清鉄指標による暫定的な鉄過剰として、女性ではトランスフェリン飽和度45%超かつフェリチン200 µg/L超、男性と閉経後女性ではトランスフェリン飽和度50%超かつフェリチン300 µg/L超が診断の目安になる。
+    condition:
+      region: 欧州
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2461
+    source: European Association for the Study of the Liver. EASL Clinical Practice Guidelines on haemochromatosis. J Hepatol. 2022;77(2):479-502.
+    doi: 10.1016/j.jhep.2022.03.033
+    pmid: '35662478'
+    pmcid: null
+    url: https://doi.org/10.1016/j.jhep.2022.03.033
+    source_license: CC 表示なし（Crossref の登録は Elsevier の TDM ライセンスのみ）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は抄録で確認。それ以外のHFE遺伝子型では、MRIまたは肝生検で肝の鉄過剰を示すことが別途必要とされる点は主張に含めていない。肝障害の詳細は依頼文の境界により本パートでは扱わない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-A-②（鉄過剰症、c）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-006
+  domain: RC
+  subdomain: ビタミンB12欠乏性貧血
+  assertion:
+    plain_statement_ja: コバラミン欠乏を定義するゴールドスタンダードの検査は存在せず、検査結果の意義の判断では臨床像が最も重要な要素である。
+    condition:
+      region: 英国
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-988
+    source: Devalia V, Hamilton MS, Molloy AM; British Committee for Standards in Haematology. Guidelines for the diagnosis and treatment of cobalamin and folate disorders. Br J Haematol. 2014;166(4):496-513.
+    doi: 10.1111/bjh.12959
+    pmid: '24942828'
+    pmcid: null
+    url: https://doi.org/10.1111/bjh.12959
+    source_license: ライセンス表示を確認できず（© John Wiley & Sons）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 英国血液標準委員会（現 British Society for Haematology）ガイドライン2014年版の記載で、抄録で確認した。後継版の有無は本パートでは未確認。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-B-①（ビタミンB12欠乏性貧血、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-009 (id: JlvnlYM)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-007
+  domain: RC
+  subdomain: ビタミンB12欠乏性貧血
+  assertion:
+    plain_statement_ja: コバラミン欠乏の評価では血清コバラミンが第一選択であり、生化学的・機能的な欠乏の切り分けには第二選択として血漿メチルマロン酸が有用で、総ホモシステインはそれより特異度が低い。
+    condition:
+      region: 英国
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-988
+    source: Devalia V, Hamilton MS, Molloy AM; British Committee for Standards in Haematology. Guidelines for the diagnosis and treatment of cobalamin and folate disorders. Br J Haematol. 2014;166(4):496-513.
+    doi: 10.1111/bjh.12959
+    pmid: '24942828'
+    pmcid: null
+    url: https://doi.org/10.1111/bjh.12959
+    source_license: ライセンス表示を確認できず（© John Wiley & Sons）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 英国血液標準委員会ガイドライン2014年版の記載で、抄録で確認した。検査結果と欠乏を強く示す臨床像が乖離する場合は神経障害を避けるため治療を遅らせるべきではないとされる点は、同じガイドラインの別の記載であり本カードの主張には含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-B-①（ビタミンB12欠乏性貧血、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-009 (id: JlvnlYM)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-008
+  domain: RC
+  subdomain: ビタミンB12欠乏性貧血
+  assertion:
+    plain_statement_ja: コバラミン欠乏による神経精神異常の141例のうち40例（28%）は、貧血も大球性変化も伴っていなかった。
+    condition:
+      region: 米国
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1682
+    source: Lindenbaum J, Healton EB, Savage DG, et al. Neuropsychiatric disorders caused by cobalamin deficiency in the absence of anemia or macrocytosis. N Engl J Med. 1988;318(26):1720-1728.
+    doi: 10.1056/NEJM198806303182604
+    pmid: '3374544'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJM198806303182604
+    source_license: CC 表示なし（NEJM の利用条件）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 1988年の米国の症例集積の数値であり、現在の頻度をそのまま示すものではない。この群では血清メチルマロン酸と総ホモシステインの著明な上昇が診断に有用だった点は同じ論文の別の記載であり、本カードの主張には含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-B-①（ビタミンB12欠乏性貧血、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-009 (id: JlvnlYM)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-009
+  domain: RC
+  subdomain: 葉酸欠乏性貧血
+  assertion:
+    plain_statement_ja: 葉酸の状態の評価では血清葉酸が第一選択であり、赤血球葉酸と同等の診断能を持つ。
+    condition:
+      region: 英国
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-988
+    source: Devalia V, Hamilton MS, Molloy AM; British Committee for Standards in Haematology. Guidelines for the diagnosis and treatment of cobalamin and folate disorders. Br J Haematol. 2014;166(4):496-513.
+    doi: 10.1111/bjh.12959
+    pmid: '24942828'
+    pmcid: null
+    url: https://doi.org/10.1111/bjh.12959
+    source_license: ライセンス表示を確認できず（© John Wiley & Sons）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 英国血液標準委員会ガイドライン2014年版の記載で、抄録で確認した。同ガイドラインはコバラミンと葉酸の双方を扱い、Ⅶ-1-B-① のカードと出典を共用する。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-B-②（葉酸欠乏性貧血、c）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-010 (id: JlvnlYQ)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-010
+  domain: RC
+  subdomain: 葉酸欠乏性貧血
+  assertion:
+    plain_statement_ja: 巨赤芽球性貧血は、無効な赤血球産生と髄内溶血による大球性貧血であり、最も多い原因は葉酸（ビタミンB9）欠乏とコバラミン（ビタミンB12）欠乏である。
+    condition:
+      region: 米国
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2462
+    source: 'Socha DS, DeSouza SI, Flagg A, Sekeres M, Rogers HJ. Severe megaloblastic anemia: Vitamin deficiency and other causes. Cleve Clin J Med. 2020;87(3):153-164.'
+    doi: 10.3949/ccjm.87a.19072
+    pmid: '32127439'
+    pmcid: null
+    url: https://doi.org/10.3949/ccjm.87a.19072
+    source_license: CC 表示なし（© The Cleveland Clinic Foundation、Crossref にライセンス登録なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 米国の診療総説の記載で、抄録で確認した。葉酸欠乏以外の巨赤芽球性貧血の原因の詳細は主張に含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-B-②（葉酸欠乏性貧血、c）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-010 (id: JlvnlYQ)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-011
+  domain: RC
+  subdomain: 自己免疫性溶血性貧血
+  assertion:
+    plain_statement_ja: 自己免疫性溶血性貧血の診断は二段階であり、まず溶血性貧血の診断基準（貧血と黄疸を認め、ヘモグロビン濃度低下・網赤血球増加・血清間接ビリルビン値上昇・尿中・便中ウロビリン体増加・血清ハプトグロビン値低下・骨髄赤芽球増加の6項目のうち4項目以上を満たし、鑑別疾患を除外する）を満たし、次に広範囲抗血清による直接クームス試験の陽性（陰性例では赤血球結合IgGの高値）を確認する。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2463
+    source: 特発性造血障害に関する調査研究班. 自己免疫性溶血性貧血 診療の参照ガイド 令和7年度改訂版. 2026年3月.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf
+    source_license: 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 診断基準は参照ガイド令和7年度改訂版の表1・表2から読み取り（ガイドに収載されている診断基準の表は2022年度改訂と表示されている）。同ガイドの source_class は、厚生労働科学研究費による公的資料として GOV_JP とする判断もありうるため、取り込み側の最終判定に委ねる。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-C-①（自己免疫性溶血性貧血、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-008 (id: JlvnlXw)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-012
+  domain: RC
+  subdomain: 自己免疫性溶血性貧血
+  assertion:
+    plain_statement_ja: 温式自己免疫性溶血性貧血の治療の中心は副腎皮質ステロイドであり、リツキシマブは有効性が確立し、本邦でも保険償還が認められるようになっている。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2463
+    source: 特発性造血障害に関する調査研究班. 自己免疫性溶血性貧血 診療の参照ガイド 令和7年度改訂版. 2026年3月.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf
+    source_license: 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 薬剤名（副腎皮質ステロイド、リツキシマブ）を含むカード。保険償還に関する記述は参照ガイド令和7年度改訂版の緒言に基づくものであり、個別の効能・効果の文言はPMDA添付文書で未照合。令和4年度改訂版では温式AIHAへのリツキシマブ等の二次治療は国内適応外とされていたため、版による記述の差異に注意する。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-C-①（自己免疫性溶血性貧血、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-008 (id: JlvnlXw)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-013
+  domain: RC
+  subdomain: 冷式抗体による溶血性貧血
+  assertion:
+    plain_statement_ja: 冷式抗体による溶血性貧血は、抗体の反応至適温度が4℃の病型であり、寒冷凝集素症では血清中の寒冷凝集素価が上昇し、特異抗血清による直接クームス試験では補体成分が検出される。発作性寒冷ヘモグロビン尿症では、二相性溶血素（Donath-Landsteiner抗体）が検出される。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2463
+    source: 特発性造血障害に関する調査研究班. 自己免疫性溶血性貧血 診療の参照ガイド 令和7年度改訂版. 2026年3月.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf
+    source_license: 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 病型分類は参照ガイド令和7年度改訂版の表2から読み取り。寒冷凝集素価の上昇が溶血の程度と相関するとは限らない点（低力価寒冷凝集素症）は、同じ表の参考所見の記載であり本カードの主張には含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-C-②（冷式抗体による溶血性貧血、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-014
+  domain: RC
+  subdomain: 冷式抗体による溶血性貧血
+  assertion:
+    plain_statement_ja: 寒冷凝集素症では副腎皮質ステロイドの有効性は確立しておらず、寒冷回避（保温）が治療の基本である。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2463
+    source: 特発性造血障害に関する調査研究班. 自己免疫性溶血性貧血 診療の参照ガイド 令和7年度改訂版. 2026年3月.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf
+    source_license: 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 薬剤名（副腎皮質ステロイド）を含むカードで、記述は参照ガイド令和7年度改訂版の緒言に基づく。同ガイドでは寒冷凝集素症に新たな治療薬が適応になったとされ、薬物療法の項にスチムリマブが挙げられているが、効能・効果の文言はPMDA添付文書で未照合のため主張には含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-C-②（冷式抗体による溶血性貧血、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-015
+  domain: RC
+  subdomain: 赤血球破砕症候群
+  assertion:
+    plain_statement_ja: 破砕赤血球は、循環内での外因性の機械的損傷によって生じる赤血球の断片であり、その検出は血栓性微小血管症性貧血の診断における重要な形態学的手がかりである。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2464
+    source: Zini G, d'Onofrio G, Briggs C, et al. ICSH recommendations for identification, diagnostic value, and quantitation of schistocytes. Int J Lab Hematol. 2012;34(2):107-116.
+    doi: 10.1111/j.1751-553X.2011.01380.x
+    pmid: '22081912'
+    pmcid: null
+    url: https://doi.org/10.1111/j.1751-553X.2011.01380.x
+    source_license: CC 表示なし（© 2011 Blackwell Publishing Ltd）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ICSH勧告の抄録で確認した。血栓性微小血管症（TTP・HUS等）の病態・診断・治療の詳細は第40回HSの領域であり、本カードは破砕赤血球の形態学的意義に絞っている。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-C-③（赤血球破砕症候群、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-016
+  domain: RC
+  subdomain: 赤血球破砕症候群
+  assertion:
+    plain_statement_ja: 破砕赤血球の定量では、ほかに重度の赤血球形態異常がない場合に、1%が血栓性微小血管症性貧血の診断における確実な閾値とされる。形態の陽性基準には、ヘルメット細胞、小型で不整な三角形・三日月形の細胞、尖った突起、中心淡明の欠如が挙げられる。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2464
+    source: Zini G, d'Onofrio G, Briggs C, et al. ICSH recommendations for identification, diagnostic value, and quantitation of schistocytes. Int J Lab Hematol. 2012;34(2):107-116.
+    doi: 10.1111/j.1751-553X.2011.01380.x
+    pmid: '22081912'
+    pmcid: null
+    url: https://doi.org/10.1111/j.1751-553X.2011.01380.x
+    source_license: CC 表示なし（© 2011 Blackwell Publishing Ltd）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ICSH勧告の抄録で確認した。閾値1%は「ほかに重度の赤血球形態異常がない場合」という条件付きの値であり、新生児では扱いが異なる点は主張に含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-C-③（赤血球破砕症候群、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-017
+  domain: RC
+  subdomain: 再生不良性貧血
+  assertion:
+    plain_statement_ja: 再生不良性貧血の診断は、血液検査の3項目のうち2項目以上を満たすこと、骨髄検査で低形成を確認すること、鑑別診断を除外することの組み合わせで行う。血液検査の3項目は、ヘモグロビン 10.0 g/dL 未満、好中球 1500/µL 未満、血小板 10万/µL 未満である。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2465
+    source: 特発性造血障害に関する調査研究班『再生不良性貧血診療の参照ガイド 令和7年度改訂版』（令和8年＝2026年3月）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 令和7年度改訂で診断基準が A（血液検査）＋B（骨髄検査）＋C（鑑別診断の除外）の構造に刷新された。数値基準自体は旧基準と共通である。骨髄所見が必須項目になった点と、臨床症状が診断要件から外された点に注意。参照ガイドは厚生労働科学研究費による公的資料だが、PDF にライセンス表示が確認できなかったため source_class は UNKNOWN とし、GOV_JP とする判断は取り込み側に委ねる。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-D-①（再生不良性貧血、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-006 (id: JlvnlXg)；TBL-02-01-018 (id: JlAKpWo)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-023 (id: JlAKpW8)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-018
+  domain: RC
+  subdomain: 再生不良性貧血
+  assertion:
+    plain_statement_ja: 再生不良性貧血の重症度分類では、重症は網赤血球 40000/µL 未満、好中球 500/µL 未満、血小板 20000/µL 未満のうち2項目以上を満たすものであり、最重症は好中球 200/µL 未満に加えて網赤血球 20000/µL 未満または血小板 20000/µL 未満を満たすものである。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2465
+    source: 特発性造血障害に関する調査研究班『再生不良性貧血診療の参照ガイド 令和7年度改訂版』（令和8年＝2026年3月）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 重症度基準は平成29年度修正のままで、令和7年度版では stage 1 の定義文言のみ整備された。stage 2（中等症）・stage 3（やや重症）の基準は本カードの主張範囲外である。参照ガイドの source_class は RC-051 と同じ理由で UNKNOWN とした。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-D-①（再生不良性貧血、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-006 (id: JlvnlXg)；TBL-02-01-018 (id: JlAKpWo)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-023 (id: JlAKpW8)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-019
+  domain: RC
+  subdomain: 再生不良性貧血
+  assertion:
+    plain_statement_ja: 重症再生不良性貧血に対する標準的な免疫抑制療法にエルトロンボパグを追加すると、3か月時点の完全奏効率は 22% であり、追加しない場合の 10% より高い。
+    condition:
+      region: 国際
+      対象: 重症再生不良性貧血の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2466
+    source: Peffault de Latour R, et al. Eltrombopag Added to Immunosuppression in Severe Aplastic Anemia. N Engl J Med. 2022;386:11-23.
+    doi: 10.1056/NEJMoa2109965
+    pmid: '34986284'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa2109965
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: RACE 試験の抄録で確認した数値である。国内承認は PMDA 資料で確認済みで、エルトロンボパグは 2017-08-25 に再生不良性貧血の適応で承認され、2023-12-22 に 6 歳以上の小児用量が追加された。国内の承認内容と試験の対象の一致は組み立て時に添付文書で再確認すること。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-D-①（再生不良性貧血、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-006 (id: JlvnlXg)；TBL-02-01-018 (id: JlAKpWo)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-023 (id: JlAKpW8)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-020
+  domain: RC
+  subdomain: 骨髄異形成症候群<MDS>
+  assertion:
+    plain_statement_ja: 骨髄異形成症候群の診断は、必須基準をすべて満たし、かつ決定的基準のうち1つ以上を満たすことで確定する。確定できない場合は補助基準を適用し、疑診例は通常 6 か月の観察を行う。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2467
+    source: 特発性造血障害に関する調査研究班『骨髄異形成症候群診療の参照ガイド 令和7年改訂版』（2026年3月）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 診断基準の構造は令和7年改訂版の本文抜粋で確認した。数値の精読は令和4年度改訂版で行ったため、組み立て時に令和7年改訂版の全文で最終確認が必要である。急性骨髄性白血病への進展の詳細は作らず、ML の AML カードと相互参照に留める。参照ガイドの source_class は RC-051 と同じ理由で UNKNOWN とした。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-D-②（骨髄異形成症候群<MDS>、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-007 (id: JlvnlXs)；TBL-01-00-623 (id: JlvnmaQ)；TBL-02-01-018 (id: JlAKpWo)；TBL-02-01-021 (id: JlAKpW0)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-021
+  domain: RC
+  subdomain: 骨髄異形成症候群<MDS>
+  assertion:
+    plain_statement_ja: 骨髄異形成症候群の改訂国際予後スコアリングシステムでは、生存期間の中央値は Very low が 8.8 年、Low が 5.3 年、Intermediate が 3.0 年、High が 1.6 年、Very high が 0.8 年である。
+    condition:
+      region: 国際
+      対象: 骨髄異形成症候群の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2468
+    source: Greenberg PL, et al. Revised International Prognostic Scoring System for Myelodysplastic Syndromes. Blood. 2012;120(12):2454-2465.
+    doi: 10.1182/blood-2012-03-420489
+    pmid: '22740453'
+    pmcid: null
+    url: https://doi.org/10.1182/blood-2012-03-420489
+    source_license: OA でない
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 抄録で確認した数値である。ガイドの注記によれば、日本人データでは Intermediate が低リスク側に近い成績であるが、本カードの主張は国際版の数値に限る。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-D-②（骨髄異形成症候群<MDS>、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-007 (id: JlvnlXs)；TBL-01-00-623 (id: JlvnmaQ)；TBL-02-01-018 (id: JlAKpWo)；TBL-02-01-021 (id: JlAKpW0)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-022
+  domain: RC
+  subdomain: 骨髄異形成症候群<MDS>
+  assertion:
+    plain_statement_ja: 高リスク骨髄異形成症候群に対するアザシチジンは、従来の治療と比較して全生存期間の中央値を 24.5 か月まで延長し、従来治療の 15.0 か月より長かった。ハザード比は 0.58 であった。
+    condition:
+      region: 国際
+      対象: 高リスク骨髄異形成症候群の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2469
+    source: Fenaux P, et al. Efficacy of azacitidine compared with that of conventional care regimens in the treatment of higher-risk MDS. Lancet Oncol. 2009;10(3):223-232.
+    doi: 10.1016/S1470-2045(09)70003-8
+    pmid: '19230772'
+    pmcid: null
+    url: https://doi.org/10.1016/S1470-2045(09)70003-8
+    source_license: OA でない
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: AZA-001 試験の抄録で確認した数値である。アザシチジンは国内で骨髄異形成症候群に保険適用があることが参照ガイドに記載されている。国内の初回承認年の再確認は未実施のため、年は主張に入れていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-D-②（骨髄異形成症候群<MDS>、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-007 (id: JlvnlXs)；TBL-01-00-623 (id: JlvnmaQ)；TBL-02-01-018 (id: JlAKpWo)；TBL-02-01-021 (id: JlAKpW0)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-023
+  domain: RC
+  subdomain: 発作性夜間ヘモグロビン尿症
+  assertion:
+    plain_statement_ja: 発作性夜間ヘモグロビン尿症の診断は、フローサイトメトリーで PNH 型赤血球が 1% 以上であり、かつ血清 LDH が正常上限の 1.5 倍以上であることで確定する。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2470
+    source: 特発性造血障害に関する調査研究班『発作性夜間ヘモグロビン尿症診療の参照ガイド 令和4年度改訂版』（2023年3月）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 令和4年度改訂版の全文で確認した。令和7年度版の有無は未確認で、組み立て前に研究班サイトで再確認すること。参照ガイドの source_class は RC-051 と同じ理由で UNKNOWN とした。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-D-③（発作性夜間ヘモグロビン尿症、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-005 (id: JlvnlXY)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-024
+  domain: RC
+  subdomain: 発作性夜間ヘモグロビン尿症
+  assertion:
+    plain_statement_ja: 発作性夜間ヘモグロビン尿症に対するエクリズマブは、輸血なしのヘモグロビン安定化を 49% の患者で達成し、プラセボの 0% より高かった。赤血球輸血単位数の中央値はエクリズマブ群で 0 単位、プラセボ群で 10 単位であった。
+    condition:
+      region: 国際
+      対象: 発作性夜間ヘモグロビン尿症の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2471
+    source: Hillmen P, et al. The Complement Inhibitor Eculizumab in Paroxysmal Nocturnal Hemoglobinuria. N Engl J Med. 2006;355:1233-1243.
+    doi: 10.1056/NEJMoa061648
+    pmid: '16990386'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa061648
+    source_license: OA でない
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: TRIUMPH 試験の抄録で確認した数値である。エクリズマブは国内で発作性夜間ヘモグロビン尿症の標準治療として参照ガイドに記載されているが、国内の承認年はリサーチで未確認のため年は主張に入れていない。既存の SRC-638 は非典型溶血性尿毒症症候群のエクリズマブ試験であり、発作性夜間ヘモグロビン尿症では使っていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-D-③（発作性夜間ヘモグロビン尿症、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-005 (id: JlvnlXY)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-025
+  domain: RC
+  subdomain: 赤芽球癆
+  assertion:
+    plain_statement_ja: 赤芽球癆は、正球性から大球性の貧血、網赤血球の著減、骨髄の赤芽球の著減を特徴とし、白血球と血小板は通常正常である。日本の成人例では、成因は特発性が 69%、胸腺腫が 9.4% であった。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2472
+    source: 特発性造血障害に関する調査研究班『赤芽球癆診療の参照ガイド 令和4年度改訂版』（第7版、2023-01-16）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 令和4年度改訂版の全文で確認した。成因の割合は日本血液学会レジストリ 2012〜2019 年の 18 歳以上 1055 例の集計である。令和7年度版の有無は未確認で、組み立て前に研究班サイトで再確認すること。参照ガイドの source_class は RC-051 と同じ理由で UNKNOWN とした。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-D-④（赤芽球癆、c）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-026
+  domain: RC
+  subdomain: 慢性疾患に伴う貧血<ACD>
+  assertion:
+    plain_statement_ja: 慢性疾患に伴う貧血の病態の中心は、炎症性サイトカインと鉄恒常性の主調節因子であるヘプシジンであり、腸管からの鉄吸収が阻害され、網内系の細胞に鉄が貯留することで鉄制限性の赤血球造血が起こる。
+    condition:
+      region: 国際
+      対象: 慢性疾患の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2473
+    source: Weiss G, Ganz T, Goodnough LT. Anemia of inflammation. Blood. 2019;133(1):40-50.
+    doi: 10.1182/blood-2018-06-856500
+    pmid: '30401705'
+    pmcid: PMC6536698
+    url: https://doi.org/10.1182/blood-2018-06-856500
+    source_license: © The American Society of Hematology、CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 抄録で確認した内容である。ほかに、赤血球寿命の短縮、貧血に対するエリスロポエチン反応の抑制、炎症性メディエーターによる赤芽球系の分化抑制も寄与すると同抄録に記されているが、本カードの主張はヘプシジン中心の機序に限る。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-E-①（慢性疾患に伴う貧血<ACD>、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-004 (id: JuyvuDU)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-027
+  domain: RC
+  subdomain: 慢性疾患に伴う貧血<ACD>
+  assertion:
+    plain_statement_ja: 慢性疾患に伴う貧血の検査所見の特徴は低鉄血症と高フェリチン血症であり、鉄恒常性の変化が診断を支持する。ただし、真の鉄欠乏を合併した患者では診断が難しくなる。
+    condition:
+      region: 国際
+      対象: 慢性疾患の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2473
+    source: Weiss G, Ganz T, Goodnough LT. Anemia of inflammation. Blood. 2019;133(1):40-50.
+    doi: 10.1182/blood-2018-06-856500
+    pmid: '30401705'
+    pmcid: PMC6536698
+    url: https://doi.org/10.1182/blood-2018-06-856500
+    source_license: © The American Society of Hematology、CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 抄録で確認した内容である。別表1 の TBL-01-00-004 は疾患名が「二次性貧血」の近接候補であり、同名の行はない。対応づけの最終判断は取り込み側に委ねる。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-E-①（慢性疾患に伴う貧血<ACD>、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-004 (id: JuyvuDU)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-028
+  domain: RC
+  subdomain: 腎性貧血、内分泌異常による貧血
+  assertion:
+    plain_statement_ja: 成人の血液透析患者では、維持すべき目標ヘモグロビンは週初めの採血で 10〜12 g/dL であり、複数回の検査でヘモグロビン 10 g/dL 未満となった時点で腎性貧血治療を開始することが推奨される。推奨グレードは 1C である。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-649
+    source: 'Yamamoto H, Nishi S, Tomo T, et al. 2015 Japanese Society for Dialysis Therapy: Guidelines for Renal Anemia in Chronic Kidney Disease. Renal Replacement Therapy. 2017;3:36.'
+    doi: 10.1186/s41100-017-0114-y
+    pmid: null
+    pmcid: null
+    url: https://doi.org/10.1186/s41100-017-0114-y
+    source_license: CC BY 4.0（BioMed Central の論文ページで確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 2015 年版ガイドラインの全文で確認した。2025 年版については、学会公式一覧に掲載がなく、2025 年度後半の時点でも理事会で「案」の段階と記録されていることが補完調査で確認されたため、正式な公表版は存在しない前提で 2015 年版を正とした。詳細は申し送りを参照。出典マスターの SRC-649 の登録は source_class UNKNOWN だが、出版社ページで CC BY 4.0 を直接確認したため本パートでは OPEN とし、取り込み時の更新提案とする。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-E-②（腎性貧血、内分泌異常による貧血、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-003 (id: JlvnlYE)；TBL-02-01-003 (id: JlAKpVo)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-029
+  domain: RC
+  subdomain: 腎性貧血、内分泌異常による貧血
+  assertion:
+    plain_statement_ja: 長期透析患者の腎性貧血に対するロキサデュスタットは、エポエチン アルファに対して非劣性であり、ヘモグロビンの変化量はロキサデュスタット群で +0.7 g/dL、エポエチン アルファ群で +0.5 g/dL であった。
+    condition:
+      region: 国際
+      対象: 長期透析患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-650
+    source: Chen N, Hao C, Liu BC, et al. Roxadustat Treatment for Anemia in Patients Undergoing Long-Term Dialysis. N Engl J Med. 2019;381(11):1011-1022.
+    doi: 10.1056/NEJMoa1901713
+    pmid: '31340116'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1901713
+    source_license: NEJM の利用条件（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 中国の長期透析患者 305 例の無作為化試験の抄録で確認した数値である。国内承認は PMDA 資料と企業発表で確認済みで、ロキサデュスタットは 2019-09-20 に「透析施行中の腎性貧血」で承認され、同年 11 月に発売され、2020-11-27 に効能・効果が「腎性貧血」へ拡大された。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-E-②（腎性貧血、内分泌異常による貧血、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-003 (id: JlvnlYE)；TBL-02-01-003 (id: JlAKpVo)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-030
+  domain: RC
+  subdomain: 腎性貧血、内分泌異常による貧血
+  assertion:
+    plain_statement_ja: 甲状腺機能低下症に伴う貧血は正球性が最も多く、大球性と小球性はそれより少ない。機序としては、骨髄抑制、エリスロポエチン産生の低下、鉄・ビタミンB12・葉酸欠乏の合併が挙げられる。
+    condition:
+      region: 国際
+      対象: 甲状腺機能低下症の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2474
+    source: Szczepanek-Parulska E, Hernik A, Ruchała M. Anemia in thyroid diseases. Pol Arch Intern Med. 2017;127(5):352-360.
+    doi: 10.20452/pamw.3985
+    pmid: '28400547'
+    pmcid: null
+    url: https://doi.org/10.20452/pamw.3985
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 抄録で確認した内容である。自己免疫性甲状腺疾患では悪性貧血・萎縮性胃炎の合併が貧血のリスクになる点も同抄録に記されているが、本カードの主張範囲外である。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-E-②（腎性貧血、内分泌異常による貧血、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-003 (id: JlvnlYE)；TBL-02-01-003 (id: JlAKpVo)；TBL-02-01-013 (id: JlAKpWQ)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-031
+  domain: RC
+  subdomain: 出血性貧血
+  assertion:
+    plain_statement_ja: 血行動態が安定した入院成人患者では、ヘモグロビン濃度が 7 g/dL 未満のときに輸血を検討する制限的輸血戦略が推奨される。推奨の強さは強く、エビデンスの確実性は中等度である。
+    condition:
+      region: 国際
+      対象: 血行動態が安定した入院成人患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2475
+    source: 'Carson JL, et al. Red Blood Cell Transfusion: 2023 AABB International Guidelines. JAMA. 2023;330(19):1892-1902.'
+    doi: 10.1001/jama.2023.12914
+    pmid: '37824153'
+    pmcid: null
+    url: https://doi.org/10.1001/jama.2023.12914
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 抄録の推奨文で確認した。心臓手術では 7.5 g/dL、整形外科手術や既存の心血管疾患がある患者では 8 g/dL を閾値として選ぶことが同推奨に記されているが、本カードの主張は 7 g/dL の基本閾値に限る。血行動態が不安定な急性大量出血はこの推奨の対象外であり、閾値をそのまま適用しない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-F（出血性貧血、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-002 (id: JlvnlYA)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-014 (id: JlAKpWU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-032
+  domain: RC
+  subdomain: 出血性貧血
+  assertion:
+    plain_statement_ja: 重症外傷患者の約 3 分の 1 は来院時に凝固障害を伴う状態にあり、外傷後の大量出血と外傷性凝固障害は、適切に診断・管理されなければ予防可能な多臓器不全と死亡の主要な原因となる。
+    condition:
+      region: 欧州
+      対象: 重症外傷の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2476
+    source: 'Rossaint R, et al. The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition. Crit Care. 2023;27:80.'
+    doi: 10.1186/s13054-023-04327-7
+    pmid: '36859355'
+    pmcid: PMC9977110
+    url: https://doi.org/10.1186/s13054-023-04327-7
+    source_license: CC BY（Europe PMC で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 抄録で確認した内容である。同ガイドラインは 39 の臨床実践推奨からなる。個別の推奨文の逐語確認は組み立て時に行うこと。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-F（出血性貧血、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-002 (id: JlvnlYA)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-014 (id: JlAKpWU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RC-033
+  domain: RC
+  subdomain: 二次性赤血球増加症
+  assertion:
+    plain_statement_ja: 後天性赤血球増加症の原因には、中枢性低酸素（心肺疾患）や末梢性低酸素（腎動脈狭窄）、エリスロポエチン産生腫瘍（腎細胞癌）、薬剤（テストステロン、SGLT2 阻害薬、赤血球造血刺激因子製剤）がある。診断の第一歩は、JAK2 変異の検査（エクソン 12〜15）で真性赤血球増加症を除外することである。
+    condition:
+      region: 国際
+      対象: JAK2 変異陰性の赤血球増加症の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2477
+    source: 'Gangat N, Szuber N, Tefferi A. JAK2 Unmutated Erythrocytosis: 2026 Update on Diagnosis and Management. Am J Hematol. 2025;100(12):2333-2354.'
+    doi: 10.1002/ajh.70118
+    pmid: '41123216'
+    pmcid: null
+    url: https://doi.org/10.1002/ajh.70118
+    source_license: © Wiley、CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 抄録で確認した内容である。薬剤名の注記として、テストステロン製剤・SGLT2 阻害薬・赤血球造血刺激因子製剤はいずれも国内で承認された薬剤群であるが、赤血球増加症の治療としての承認ではない。管理面では、細胞減少療法は避け、症状コントロールのための瀉血や心血管リスクの最適化、低用量アスピリンが同総説に記されているが、本カードの主張範囲外である。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-1-G（二次性赤血球増加症、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-02-01-006 (id: JlAKpV0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）

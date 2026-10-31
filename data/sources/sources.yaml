@@ -25239,3 +25239,1947 @@
   - date: '2026-10-30'
     by: claude-code
     change: 第37回の出典表に PMID・ライセンス表示の列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2461
+  legacy_id: null
+  title: European Association for the Study of the Liver. EASL Clinical Practice Guidelines on haemochromatosis. J Hepatol. 2022;77(2):479-502.
+  citation: European Association for the Study of the Liver. EASL Clinical Practice Guidelines on haemochromatosis. J Hepatol. 2022;77(2):479-502.
+  doi: 10.1016/j.jhep.2022.03.033
+  pmid: '35662478'
+  pmcid: null
+  license_note: CC 表示なし（Crossref の登録は Elsevier の TDM ライセンスのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2462
+  legacy_id: null
+  title: 'Socha DS, DeSouza SI, Flagg A, Sekeres M, Rogers HJ. Severe megaloblastic anemia: Vitamin deficiency and other causes. Cleve Clin J Med. 2020;87(3):153-164.'
+  citation: 'Socha DS, DeSouza SI, Flagg A, Sekeres M, Rogers HJ. Severe megaloblastic anemia: Vitamin deficiency and other causes. Cleve Clin J Med. 2020;87(3):153-164.'
+  doi: 10.3949/ccjm.87a.19072
+  pmid: '32127439'
+  pmcid: null
+  license_note: CC 表示なし（© The Cleveland Clinic Foundation、Crossref にライセンス登録なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2463
+  legacy_id: null
+  title: 特発性造血障害に関する調査研究班. 自己免疫性溶血性貧血 診療の参照ガイド 令和7年度改訂版. 2026年3月.
+  citation: 特発性造血障害に関する調査研究班. 自己免疫性溶血性貧血 診療の参照ガイド 令和7年度改訂版. 2026年3月.
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2464
+  legacy_id: null
+  title: Zini G, d'Onofrio G, Briggs C, et al. ICSH recommendations for identification, diagnostic value, and quantitation of schistocytes. Int J Lab Hematol. 2012;34(2):107-116.
+  citation: Zini G, d'Onofrio G, Briggs C, et al. ICSH recommendations for identification, diagnostic value, and quantitation of schistocytes. Int J Lab Hematol. 2012;34(2):107-116.
+  doi: 10.1111/j.1751-553X.2011.01380.x
+  pmid: '22081912'
+  pmcid: null
+  license_note: CC 表示なし（© 2011 Blackwell Publishing Ltd）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2465
+  legacy_id: null
+  title: 特発性造血障害に関する調査研究班『再生不良性貧血診療の参照ガイド 令和7年度改訂版』（令和8年＝2026年3月）
+  citation: 特発性造血障害に関する調査研究班『再生不良性貧血診療の参照ガイド 令和7年度改訂版』（令和8年＝2026年3月）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2466
+  legacy_id: null
+  title: Peffault de Latour R, et al. Eltrombopag Added to Immunosuppression in Severe Aplastic Anemia. N Engl J Med. 2022;386:11-23.
+  citation: Peffault de Latour R, et al. Eltrombopag Added to Immunosuppression in Severe Aplastic Anemia. N Engl J Med. 2022;386:11-23.
+  doi: 10.1056/NEJMoa2109965
+  pmid: '34986284'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2467
+  legacy_id: null
+  title: 特発性造血障害に関する調査研究班『骨髄異形成症候群診療の参照ガイド 令和7年改訂版』（2026年3月）
+  citation: 特発性造血障害に関する調査研究班『骨髄異形成症候群診療の参照ガイド 令和7年改訂版』（2026年3月）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2468
+  legacy_id: null
+  title: Greenberg PL, et al. Revised International Prognostic Scoring System for Myelodysplastic Syndromes. Blood. 2012;120(12):2454-2465.
+  citation: Greenberg PL, et al. Revised International Prognostic Scoring System for Myelodysplastic Syndromes. Blood. 2012;120(12):2454-2465.
+  doi: 10.1182/blood-2012-03-420489
+  pmid: '22740453'
+  pmcid: null
+  license_note: OA でない
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2469
+  legacy_id: null
+  title: Fenaux P, et al. Efficacy of azacitidine compared with that of conventional care regimens in the treatment of higher-risk MDS. Lancet Oncol. 2009;10(3):223-232.
+  citation: Fenaux P, et al. Efficacy of azacitidine compared with that of conventional care regimens in the treatment of higher-risk MDS. Lancet Oncol. 2009;10(3):223-232.
+  doi: 10.1016/S1470-2045(09)70003-8
+  pmid: '19230772'
+  pmcid: null
+  license_note: OA でない
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2470
+  legacy_id: null
+  title: 特発性造血障害に関する調査研究班『発作性夜間ヘモグロビン尿症診療の参照ガイド 令和4年度改訂版』（2023年3月）
+  citation: 特発性造血障害に関する調査研究班『発作性夜間ヘモグロビン尿症診療の参照ガイド 令和4年度改訂版』（2023年3月）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2471
+  legacy_id: null
+  title: Hillmen P, et al. The Complement Inhibitor Eculizumab in Paroxysmal Nocturnal Hemoglobinuria. N Engl J Med. 2006;355:1233-1243.
+  citation: Hillmen P, et al. The Complement Inhibitor Eculizumab in Paroxysmal Nocturnal Hemoglobinuria. N Engl J Med. 2006;355:1233-1243.
+  doi: 10.1056/NEJMoa061648
+  pmid: '16990386'
+  pmcid: null
+  license_note: OA でない
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2472
+  legacy_id: null
+  title: 特発性造血障害に関する調査研究班『赤芽球癆診療の参照ガイド 令和4年度改訂版』（第7版、2023-01-16）
+  citation: 特発性造血障害に関する調査研究班『赤芽球癆診療の参照ガイド 令和4年度改訂版』（第7版、2023-01-16）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2473
+  legacy_id: null
+  title: Weiss G, Ganz T, Goodnough LT. Anemia of inflammation. Blood. 2019;133(1):40-50.
+  citation: Weiss G, Ganz T, Goodnough LT. Anemia of inflammation. Blood. 2019;133(1):40-50.
+  doi: 10.1182/blood-2018-06-856500
+  pmid: '30401705'
+  pmcid: PMC6536698
+  license_note: © The American Society of Hematology、CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2474
+  legacy_id: null
+  title: Szczepanek-Parulska E, Hernik A, Ruchała M. Anemia in thyroid diseases. Pol Arch Intern Med. 2017;127(5):352-360.
+  citation: Szczepanek-Parulska E, Hernik A, Ruchała M. Anemia in thyroid diseases. Pol Arch Intern Med. 2017;127(5):352-360.
+  doi: 10.20452/pamw.3985
+  pmid: '28400547'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2475
+  legacy_id: null
+  title: 'Carson JL, et al. Red Blood Cell Transfusion: 2023 AABB International Guidelines. JAMA. 2023;330(19):1892-1902.'
+  citation: 'Carson JL, et al. Red Blood Cell Transfusion: 2023 AABB International Guidelines. JAMA. 2023;330(19):1892-1902.'
+  doi: 10.1001/jama.2023.12914
+  pmid: '37824153'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2476
+  legacy_id: null
+  title: 'Rossaint R, et al. The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition. Crit Care. 2023;27:80.'
+  citation: 'Rossaint R, et al. The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition. Crit Care. 2023;27:80.'
+  doi: 10.1186/s13054-023-04327-7
+  pmid: '36859355'
+  pmcid: PMC9977110
+  license_note: CC BY（Europe PMC で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2477
+  legacy_id: null
+  title: 'Gangat N, Szuber N, Tefferi A. JAK2 Unmutated Erythrocytosis: 2026 Update on Diagnosis and Management. Am J Hematol. 2025;100(12):2333-2354.'
+  citation: 'Gangat N, Szuber N, Tefferi A. JAK2 Unmutated Erythrocytosis: 2026 Update on Diagnosis and Management. Am J Hematol. 2025;100(12):2333-2354.'
+  doi: 10.1002/ajh.70118
+  pmid: '41123216'
+  pmcid: null
+  license_note: © Wiley、CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2478
+  legacy_id: null
+  title: 'Seita J, Weissman IL. Hematopoietic stem cell: self-renewal versus differentiation. Wiley Interdiscip Rev Syst Biol Med. 2010;2(6):640-653'
+  citation: 'Seita J, Weissman IL. Hematopoietic stem cell: self-renewal versus differentiation. Wiley Interdiscip Rev Syst Biol Med. 2010;2(6):640-653'
+  doi: 10.1002/wsbm.86
+  pmid: '20890962'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2479
+  legacy_id: null
+  title: 'Cascio MJ, DeLoughery TG. Anemia: Evaluation and Diagnostic Tests. Med Clin North Am. 2017;101(2):263-284'
+  citation: 'Cascio MJ, DeLoughery TG. Anemia: Evaluation and Diagnostic Tests. Med Clin North Am. 2017;101(2):263-284'
+  doi: 10.1016/j.mcna.2016.09.003
+  pmid: '28189170'
+  pmcid: null
+  license_note: Crossref の登録は Elsevier の TDM ライセンスのみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2480
+  legacy_id: null
+  title: 'Tefferi A. Anemia in adults: a contemporary approach to diagnosis. Mayo Clin Proc. 2003;78(10):1274-1280'
+  citation: 'Tefferi A. Anemia in adults: a contemporary approach to diagnosis. Mayo Clin Proc. 2003;78(10):1274-1280'
+  doi: 10.4065/78.10.1274
+  pmid: '14531486'
+  pmcid: null
+  license_note: Crossref の登録は Elsevier の TDM ライセンスのみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2481
+  legacy_id: null
+  title: Adewoyin AS, Nwogoh B. Peripheral blood film - a review. Ann Ib Postgrad Med. 2014;12(2):71-79
+  citation: Adewoyin AS, Nwogoh B. Peripheral blood film - a review. Ann Ib Postgrad Med. 2014;12(2):71-79
+  doi: null
+  pmid: '25960697'
+  pmcid: PMC7127472
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2482
+  legacy_id: null
+  title: 特発性造血障害に関する調査研究班『自己免疫性溶血性貧血診療の参照ガイド 令和4年度改訂版』（2023年3月）
+  citation: 特発性造血障害に関する調査研究班『自己免疫性溶血性貧血診療の参照ガイド 令和4年度改訂版』（2023年3月）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2483
+  legacy_id: null
+  title: 日本輸血・細胞治療学会『輸血療法実践ガイド』（2026年6月、学会発行）
+  citation: 日本輸血・細胞治療学会『輸血療法実践ガイド』（2026年6月、学会発行）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 学会発行のガイド（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2484
+  legacy_id: null
+  title: Vlaar APJ, Toy P, Fung M, et al. A consensus redefinition of transfusion-related acute lung injury. Transfusion. 2019;59(7):2465-2476
+  citation: Vlaar APJ, Toy P, Fung M, et al. A consensus redefinition of transfusion-related acute lung injury. Transfusion. 2019;59(7):2465-2476
+  doi: 10.1111/trf.15311
+  pmid: '30993745'
+  pmcid: null
+  license_note: Crossref に CC BY-NC-ND 4.0 の登録あり
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2485
+  legacy_id: null
+  title: 'Wiersum-Osselton JC, et al. Revised international surveillance case definition of transfusion-associated circulatory overload: a classification system with procedural operational and provisional reporting rules. Lancet Haematol. 2019;6(7):e350-e358'
+  citation: 'Wiersum-Osselton JC, et al. Revised international surveillance case definition of transfusion-associated circulatory overload: a classification system with procedural operational and provisional reporting rules. Lancet Haematol. 2019;6(7):e350-e358'
+  doi: 10.1016/S2352-3026(19)30080-8
+  pmid: '31080132'
+  pmcid: null
+  license_note: Crossref は Elsevier の TDM ライセンスのみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2486
+  legacy_id: null
+  title: 日本赤十字社. Haemovigilance by JRCS 2024（日本赤十字社公式 PDF）
+  citation: 日本赤十字社. Haemovigilance by JRCS 2024（日本赤十字社公式 PDF）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 公的機関の年次報告（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2487
+  legacy_id: null
+  title: 'Holcomb JB, Tilley BC, Baraniuk S, et al. Transfusion of plasma, platelets, and red blood cells in a 1:1:1 vs a 1:1:2 ratio and mortality in patients with severe trauma: the PROPPR randomized clinical trial. JAMA. 2015;313(5):471-482'
+  citation: 'Holcomb JB, Tilley BC, Baraniuk S, et al. Transfusion of plasma, platelets, and red blood cells in a 1:1:1 vs a 1:1:2 ratio and mortality in patients with severe trauma: the PROPPR randomized clinical trial. JAMA. 2015;313(5):471-482'
+  doi: 10.1001/jama.2015.12
+  pmid: '25647203'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2488
+  legacy_id: null
+  title: 日本造血細胞移植データセンター／日本造血・免疫細胞療法学会『日本における造血細胞移植/細胞治療．2025年度 全国調査報告書』
+  citation: 日本造血細胞移植データセンター／日本造血・免疫細胞療法学会『日本における造血細胞移植/細胞治療．2025年度 全国調査報告書』
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 公的な全国調査報告（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2489
+  legacy_id: null
+  title: Kamal AH, Tefferi A, Pruthi RK. How to interpret and pursue an abnormal prothrombin time, activated partial thromboplastin time, and bleeding time in adults. Mayo Clin Proc. 2007;82(7):864-873
+  citation: Kamal AH, Tefferi A, Pruthi RK. How to interpret and pursue an abnormal prothrombin time, activated partial thromboplastin time, and bleeding time in adults. Mayo Clin Proc. 2007;82(7):864-873
+  doi: 10.4065/82.7.864
+  pmid: '17605969'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/38_hm_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2551
+  legacy_id: null
+  title: Andrès E, Lorenzo-Villalba N, Zulfiqar AA, et al. State of Art of Idiosyncratic Drug-Induced Neutropenia or Agranulocytosis, with a Focus on Biotherapies. J Clin Med. 2019;8(9):1351.
+  citation: Andrès E, Lorenzo-Villalba N, Zulfiqar AA, et al. State of Art of Idiosyncratic Drug-Induced Neutropenia or Agranulocytosis, with a Focus on Biotherapies. J Clin Med. 2019;8(9):1351.
+  doi: 10.3390/jcm8091351
+  pmid: '31480527'
+  pmcid: PMC6788182
+  license_note: CC BY 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2552
+  legacy_id: null
+  title: 'Freifeld AG, Bow EJ, Sepkowitz KA, et al. Clinical Practice Guideline for the Use of Antimicrobial Agents in Neutropenic Patients with Cancer: 2010 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2011;52(4):e56-e93.'
+  citation: 'Freifeld AG, Bow EJ, Sepkowitz KA, et al. Clinical Practice Guideline for the Use of Antimicrobial Agents in Neutropenic Patients with Cancer: 2010 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2011;52(4):e56-e93.'
+  doi: 10.1093/cid/cir073
+  pmid: '21258094'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2553
+  legacy_id: null
+  title: 'Döhner H, Wei AH, Appelbaum FR, et al. Diagnosis and management of AML in adults: 2022 recommendations from an international expert panel on behalf of the ELN. Blood. 2022;140(12):1345-1377.'
+  citation: 'Döhner H, Wei AH, Appelbaum FR, et al. Diagnosis and management of AML in adults: 2022 recommendations from an international expert panel on behalf of the ELN. Blood. 2022;140(12):1345-1377.'
+  doi: 10.1182/blood.2022016867
+  pmid: '35797463'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2554
+  legacy_id: null
+  title: DiNardo CD, Jonas BA, Pullarkat V, et al. Azacitidine and Venetoclax in Previously Untreated Acute Myeloid Leukemia. N Engl J Med. 2020;383(7):617-629.
+  citation: DiNardo CD, Jonas BA, Pullarkat V, et al. Azacitidine and Venetoclax in Previously Untreated Acute Myeloid Leukemia. N Engl J Med. 2020;383(7):617-629.
+  doi: 10.1056/NEJMoa2012971
+  pmid: '32786187'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2555
+  legacy_id: null
+  title: Stone RM, Mandrekar SJ, Sanford BL, et al. Midostaurin plus Chemotherapy for Acute Myeloid Leukemia with a FLT3 Mutation. N Engl J Med. 2017;377(5):454-464.
+  citation: Stone RM, Mandrekar SJ, Sanford BL, et al. Midostaurin plus Chemotherapy for Acute Myeloid Leukemia with a FLT3 Mutation. N Engl J Med. 2017;377(5):454-464.
+  doi: 10.1056/NEJMoa1614359
+  pmid: '28644114'
+  pmcid: PMC5754190
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2556
+  legacy_id: null
+  title: Lo-Coco F, Avvisati G, Vignetti M, et al. Retinoic Acid and Arsenic Trioxide for Acute Promyelocytic Leukemia. N Engl J Med. 2013;369(2):111-121.
+  citation: Lo-Coco F, Avvisati G, Vignetti M, et al. Retinoic Acid and Arsenic Trioxide for Acute Promyelocytic Leukemia. N Engl J Med. 2013;369(2):111-121.
+  doi: 10.1056/NEJMoa1300874
+  pmid: '23841729'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2557
+  legacy_id: null
+  title: Apperley JF, Milojkovic D, Cross NCP, et al. 2025 European LeukemiaNet recommendations for the management of chronic myeloid leukemia. Leukemia. 2025;39(8):1797-1813.
+  citation: Apperley JF, Milojkovic D, Cross NCP, et al. 2025 European LeukemiaNet recommendations for the management of chronic myeloid leukemia. Leukemia. 2025;39(8):1797-1813.
+  doi: 10.1038/s41375-025-02664-w
+  pmid: '40646132'
+  pmcid: PMC12310532
+  license_note: CC BY 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2558
+  legacy_id: null
+  title: Druker BJ, Guilhot F, O'Brien SG, et al. Five-year follow-up of patients receiving imatinib for chronic myeloid leukemia. N Engl J Med. 2006;355(23):2408-2417.
+  citation: Druker BJ, Guilhot F, O'Brien SG, et al. Five-year follow-up of patients receiving imatinib for chronic myeloid leukemia. N Engl J Med. 2006;355(23):2408-2417.
+  doi: 10.1056/NEJMoa062867
+  pmid: '17151364'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2559
+  legacy_id: null
+  title: 'Mahon FX, Réa D, Guilhot J, et al. Discontinuation of imatinib in patients with chronic myeloid leukaemia who have maintained complete molecular remission for at least 2 years: the prospective, multicentre Stop Imatinib (STIM) trial. Lancet Oncol. 2010;11(11):1029-1035.'
+  citation: 'Mahon FX, Réa D, Guilhot J, et al. Discontinuation of imatinib in patients with chronic myeloid leukaemia who have maintained complete molecular remission for at least 2 years: the prospective, multicentre Stop Imatinib (STIM) trial. Lancet Oncol. 2010;11(11):1029-1035.'
+  doi: 10.1016/S1470-2045(10)70233-3
+  pmid: '20965785'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2560
+  legacy_id: null
+  title: 'Passamonti F, Cervantes F, Vannucchi AM, et al. A dynamic prognostic model to predict survival in primary myelofibrosis: a study by the IWG-MRT (DIPSS). Blood. 2010;115(9):1703-1708.'
+  citation: 'Passamonti F, Cervantes F, Vannucchi AM, et al. A dynamic prognostic model to predict survival in primary myelofibrosis: a study by the IWG-MRT (DIPSS). Blood. 2010;115(9):1703-1708.'
+  doi: 10.1182/blood-2009-09-245837
+  pmid: '20008785'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2561
+  legacy_id: null
+  title: Verstovsek S, Mesa RA, Gotlib J, et al. A double-blind, placebo-controlled trial of ruxolitinib for myelofibrosis. N Engl J Med. 2012;366(9):799-807.
+  citation: Verstovsek S, Mesa RA, Gotlib J, et al. A double-blind, placebo-controlled trial of ruxolitinib for myelofibrosis. N Engl J Med. 2012;366(9):799-807.
+  doi: 10.1056/NEJMoa1110557
+  pmid: '22375971'
+  pmcid: PMC4822164
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2562
+  legacy_id: null
+  title: Barbui T, Finazzi G, Carobbio A, et al. Development and validation of an International Prognostic Score of thrombosis in World Health Organization-essential thrombocythemia (IPSET-thrombosis). Blood. 2012;120(26):5128-5133.
+  citation: Barbui T, Finazzi G, Carobbio A, et al. Development and validation of an International Prognostic Score of thrombosis in World Health Organization-essential thrombocythemia (IPSET-thrombosis). Blood. 2012;120(26):5128-5133.
+  doi: 10.1182/blood-2012-07-444067
+  pmid: '23033268'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2563
+  legacy_id: null
+  title: Barbui T, Vannucchi AM, Buxhofer-Ausch V, et al. Practice-relevant revision of IPSET-thrombosis based on 1019 patients with WHO-defined essential thrombocythemia. Blood Cancer J. 2015;5(11):e369.
+  citation: Barbui T, Vannucchi AM, Buxhofer-Ausch V, et al. Practice-relevant revision of IPSET-thrombosis based on 1019 patients with WHO-defined essential thrombocythemia. Blood Cancer J. 2015;5(11):e369.
+  doi: 10.1038/bcj.2015.94
+  pmid: '26617062'
+  pmcid: PMC4670947
+  license_note: CC BY 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2564
+  legacy_id: null
+  title: Baxter EJ, Scott LM, Campbell PJ, et al. Acquired mutation of the tyrosine kinase JAK2 in human myeloproliferative disorders. Lancet. 2005;365(9464):1054-1061.
+  citation: Baxter EJ, Scott LM, Campbell PJ, et al. Acquired mutation of the tyrosine kinase JAK2 in human myeloproliferative disorders. Lancet. 2005;365(9464):1054-1061.
+  doi: 10.1016/S0140-6736(05)71142-9
+  pmid: '15781101'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2565
+  legacy_id: null
+  title: Vannucchi AM, Kiladjian JJ, Griesshammer M, et al. Ruxolitinib versus standard therapy for the treatment of polycythemia vera. N Engl J Med. 2015;372(5):426-435.
+  citation: Vannucchi AM, Kiladjian JJ, Griesshammer M, et al. Ruxolitinib versus standard therapy for the treatment of polycythemia vera. N Engl J Med. 2015;372(5):426-435.
+  doi: 10.1056/NEJMoa1409002
+  pmid: '25629741'
+  pmcid: PMC4358820
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2566
+  legacy_id: null
+  title: Cools J, DeAngelo DJ, Gotlib J, et al. A tyrosine kinase created by fusion of the PDGFRA and FIP1L1 genes as a therapeutic target of imatinib in idiopathic hypereosinophilic syndrome. N Engl J Med. 2003;348(13):1201-1214.
+  citation: Cools J, DeAngelo DJ, Gotlib J, et al. A tyrosine kinase created by fusion of the PDGFRA and FIP1L1 genes as a therapeutic target of imatinib in idiopathic hypereosinophilic syndrome. N Engl J Med. 2003;348(13):1201-1214.
+  doi: 10.1056/NEJMoa025217
+  pmid: '12660384'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2567
+  legacy_id: null
+  title: Sakka V, Tsiodras S, Giamarellos-Bourboulis EJ, Giamarellou H. An update on the etiology and diagnostic evaluation of a leukemoid reaction. Eur J Intern Med. 2006;17(6):394-398.
+  citation: Sakka V, Tsiodras S, Giamarellos-Bourboulis EJ, Giamarellou H. An update on the etiology and diagnostic evaluation of a leukemoid reaction. Eur J Intern Med. 2006;17(6):394-398.
+  doi: 10.1016/j.ejim.2006.04.004
+  pmid: '16962944'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2568
+  legacy_id: null
+  title: 'Terwilliger T, Abdul-Hay M. Acute lymphoblastic leukemia: a comprehensive review and 2017 update. Blood Cancer J. 2017;7(6):e577.'
+  citation: 'Terwilliger T, Abdul-Hay M. Acute lymphoblastic leukemia: a comprehensive review and 2017 update. Blood Cancer J. 2017;7(6):e577.'
+  doi: 10.1038/bcj.2017.53
+  pmid: '28665419'
+  pmcid: PMC5520400
+  license_note: CC BY 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2569
+  legacy_id: null
+  title: 'Hatta Y, Izutsu K, Onizuka M, et al. JSH practical guidelines for hematological malignancies, 2023: leukemia-3. Acute lymphoblastic leukemia/lymphoblastic lymphoma: ALL/LBL. Int J Hematol. 2024;120(4):394-413.'
+  citation: 'Hatta Y, Izutsu K, Onizuka M, et al. JSH practical guidelines for hematological malignancies, 2023: leukemia-3. Acute lymphoblastic leukemia/lymphoblastic lymphoma: ALL/LBL. Int J Hematol. 2024;120(4):394-413.'
+  doi: 10.1007/s12185-024-03836-7
+  pmid: '39242492'
+  pmcid: null
+  license_note: Crossref の登録は Springer の TDM のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2570
+  legacy_id: null
+  title: 'Kusumoto S, Tomita A, et al. JSH practical guidelines for hematological malignancies, 2023: II. Lymphoma 10. Hodgkin lymphoma (HL). Int J Hematol. 2025;122(6):781-802.'
+  citation: 'Kusumoto S, Tomita A, et al. JSH practical guidelines for hematological malignancies, 2023: II. Lymphoma 10. Hodgkin lymphoma (HL). Int J Hematol. 2025;122(6):781-802.'
+  doi: 10.1007/s12185-025-04079-w
+  pmid: '41123791'
+  pmcid: null
+  license_note: Crossref の登録は Springer の TDM のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2571
+  legacy_id: null
+  title: Ansell SM, Radford J, Connors JM, et al. Overall Survival with Brentuximab Vedotin in Stage III or IV Hodgkin's Lymphoma. N Engl J Med. 2022;387(4):310-320.
+  citation: Ansell SM, Radford J, Connors JM, et al. Overall Survival with Brentuximab Vedotin in Stage III or IV Hodgkin's Lymphoma. N Engl J Med. 2022;387(4):310-320.
+  doi: 10.1056/NEJMoa2206125
+  pmid: '35830649'
+  pmcid: null
+  license_note: NEJM の利用条件のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2572
+  legacy_id: null
+  title: Herrera AF, LeBlanc M, Castellino SM, et al. Nivolumab+AVD in Advanced-Stage Classic Hodgkin's Lymphoma. N Engl J Med. 2024;391(15):1379-1389.
+  citation: Herrera AF, LeBlanc M, Castellino SM, et al. Nivolumab+AVD in Advanced-Stage Classic Hodgkin's Lymphoma. N Engl J Med. 2024;391(15):1379-1389.
+  doi: 10.1056/NEJMoa2405888
+  pmid: '39413375'
+  pmcid: null
+  license_note: NEJM の利用条件のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2573
+  legacy_id: null
+  title: Hallek M, Cheson BD, Catovsky D, et al. iwCLL guidelines for diagnosis, indications for treatment, response assessment, and supportive management of CLL. Blood. 2018;131(25):2745-2760.
+  citation: Hallek M, Cheson BD, Catovsky D, et al. iwCLL guidelines for diagnosis, indications for treatment, response assessment, and supportive management of CLL. Blood. 2018;131(25):2745-2760.
+  doi: 10.1182/blood-2017-09-806398
+  pmid: '29540348'
+  pmcid: null
+  license_note: Crossref にライセンス登録なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2574
+  legacy_id: null
+  title: 'Eichhorst B, Robak T, Montserrat E, et al. Chronic lymphocytic leukaemia: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2021;32(1):23-33.'
+  citation: 'Eichhorst B, Robak T, Montserrat E, et al. Chronic lymphocytic leukaemia: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2021;32(1):23-33.'
+  doi: 10.1016/j.annonc.2020.09.019
+  pmid: '33091559'
+  pmcid: null
+  license_note: Elsevier の利用ライセンスのみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2575
+  legacy_id: null
+  title: Marcus R, Davies A, Ando K, et al. Obinutuzumab for the First-Line Treatment of Follicular Lymphoma. N Engl J Med. 2017;377(14):1331-1344.
+  citation: Marcus R, Davies A, Ando K, et al. Obinutuzumab for the First-Line Treatment of Follicular Lymphoma. N Engl J Med. 2017;377(14):1331-1344.
+  doi: 10.1056/NEJMoa1614598
+  pmid: '28976863'
+  pmcid: null
+  license_note: NEJM の利用条件のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2576
+  legacy_id: null
+  title: 'Izutsu K, Fukuhara N, et al. JSH practical guidelines for hematological malignancies, 2023: II. Lymphoma-1. Follicular lymphoma (FL). Int J Hematol. 2025;121(5):577-585.'
+  citation: 'Izutsu K, Fukuhara N, et al. JSH practical guidelines for hematological malignancies, 2023: II. Lymphoma-1. Follicular lymphoma (FL). Int J Hematol. 2025;121(5):577-585.'
+  doi: 10.1007/s12185-025-03922-4
+  pmid: '39903435'
+  pmcid: null
+  license_note: Crossref の登録は Springer の TDM のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2577
+  legacy_id: null
+  title: Tilly H, Morschhauser F, Sehn LH, et al. Polatuzumab Vedotin in Previously Untreated Diffuse Large B-Cell Lymphoma. N Engl J Med. 2022;386(4):351-363.
+  citation: Tilly H, Morschhauser F, Sehn LH, et al. Polatuzumab Vedotin in Previously Untreated Diffuse Large B-Cell Lymphoma. N Engl J Med. 2022;386(4):351-363.
+  doi: 10.1056/NEJMoa2115304
+  pmid: '34904799'
+  pmcid: null
+  license_note: NEJM の利用条件のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2578
+  legacy_id: null
+  title: 'Ohmachi K, et al. JSH practical guidelines for hematological malignancies, 2023: II. Lymphoma 5. Diffuse large B-cell lymphoma, not otherwise specified (DLBCL, NOS). Int J Hematol. 2025;122(1):3-16.'
+  citation: 'Ohmachi K, et al. JSH practical guidelines for hematological malignancies, 2023: II. Lymphoma 5. Diffuse large B-cell lymphoma, not otherwise specified (DLBCL, NOS). Int J Hematol. 2025;122(1):3-16.'
+  doi: 10.1007/s12185-025-03997-z
+  pmid: '40434571'
+  pmcid: PMC12202654
+  license_note: CC BY 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2579
+  legacy_id: null
+  title: 'Yoshida I, et al. JSH Practical Guidelines for Hematological Malignancies, 2023: II. Lymphoma-2. Marginal zone lymphoma. Int J Hematol. 2025;121(6):725-739.'
+  citation: 'Yoshida I, et al. JSH Practical Guidelines for Hematological Malignancies, 2023: II. Lymphoma-2. Marginal zone lymphoma. Int J Hematol. 2025;121(6):725-739.'
+  doi: 10.1007/s12185-025-03947-9
+  pmid: '40091100'
+  pmcid: null
+  license_note: Crossref の登録は Springer の TDM のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2580
+  legacy_id: null
+  title: Treon SP, Tripsas CK, Meid K, et al. Ibrutinib in previously treated Waldenström's macroglobulinemia. N Engl J Med. 2015;372(15):1430-1440.
+  citation: Treon SP, Tripsas CK, Meid K, et al. Ibrutinib in previously treated Waldenström's macroglobulinemia. N Engl J Med. 2015;372(15):1430-1440.
+  doi: 10.1056/NEJMoa1501548
+  pmid: '25853747'
+  pmcid: null
+  license_note: NEJM の利用条件のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2581
+  legacy_id: null
+  title: Dunleavy K, Pittaluga S, Shovlin M, et al. Low-Intensity Therapy in Adults with Burkitt's Lymphoma. N Engl J Med. 2013;369(20):1915-1925.
+  citation: Dunleavy K, Pittaluga S, Shovlin M, et al. Low-Intensity Therapy in Adults with Burkitt's Lymphoma. N Engl J Med. 2013;369(20):1915-1925.
+  doi: 10.1056/NEJMoa1308392
+  pmid: '24224624'
+  pmcid: null
+  license_note: NEJM の利用条件のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2582
+  legacy_id: null
+  title: Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. Lancet Oncol. 2014;15(12):e538-e548
+  citation: Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. Lancet Oncol. 2014;15(12):e538-e548
+  doi: 10.1016/S1470-2045(14)70442-5
+  pmid: '25439696'
+  pmcid: null
+  license_note: CC 表示なし（Europe PMC で非OA を確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2583
+  legacy_id: null
+  title: 日本血液学会 編. 造血器腫瘍診療ガイドライン 第3.1版（2024年版）第Ⅲ章 骨髄腫. 日本血液学会ウェブサイト
+  citation: 日本血液学会 編. 造血器腫瘍診療ガイドライン 第3.1版（2024年版）第Ⅲ章 骨髄腫. 日本血液学会ウェブサイト
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 学会の著作物（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2584
+  legacy_id: null
+  title: 'Palumbo A, Avet-Loiseau H, Oliva S, et al. Revised International Staging System for Multiple Myeloma: A Report From International Myeloma Working Group. J Clin Oncol. 2015;33(26):2863-2869'
+  citation: 'Palumbo A, Avet-Loiseau H, Oliva S, et al. Revised International Staging System for Multiple Myeloma: A Report From International Myeloma Working Group. J Clin Oncol. 2015;33(26):2863-2869'
+  doi: 10.1200/JCO.2015.61.2267
+  pmid: '26240224'
+  pmcid: null
+  license_note: Crossref のライセンス欄は空（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2585
+  legacy_id: null
+  title: Kyle RA, Therneau TM, Rajkumar SV, et al. A long-term study of prognosis in monoclonal gammopathy of undetermined significance. N Engl J Med. 2002;346(8):564-569
+  citation: Kyle RA, Therneau TM, Rajkumar SV, et al. A long-term study of prognosis in monoclonal gammopathy of undetermined significance. N Engl J Med. 2002;346(8):564-569
+  doi: 10.1056/NEJMoa01133202
+  pmid: '11856795'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2586
+  legacy_id: null
+  title: Shimoyama M; Lymphoma Study Group. Diagnostic criteria and classification of clinical subtypes of adult T-cell leukaemia-lymphoma. Br J Haematol. 1991;79(3):428-437
+  citation: Shimoyama M; Lymphoma Study Group. Diagnostic criteria and classification of clinical subtypes of adult T-cell leukaemia-lymphoma. Br J Haematol. 1991;79(3):428-437
+  doi: 10.1111/j.1365-2141.1991.tb08051.x
+  pmid: '1751370'
+  pmcid: null
+  license_note: Wiley の利用条件のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2587
+  legacy_id: null
+  title: Katsuya H, Ishitsuka K, Utsunomiya A, et al. Treatment and survival among 1594 patients with ATL. Blood. 2015;126(24):2570-2577
+  citation: Katsuya H, Ishitsuka K, Utsunomiya A, et al. Treatment and survival among 1594 patients with ATL. Blood. 2015;126(24):2570-2577
+  doi: 10.1182/blood-2015-03-632489
+  pmid: '26361794'
+  pmcid: null
+  license_note: Crossref にライセンス登録なし（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2588
+  legacy_id: null
+  title: 'Horwitz S, O''Connor OA, Pro B, et al. Brentuximab vedotin with chemotherapy for CD30-positive peripheral T-cell lymphoma (ECHELON-2): a global, double-blind, randomised, phase 3 trial. Lancet. 2019;393(10168):229-240'
+  citation: 'Horwitz S, O''Connor OA, Pro B, et al. Brentuximab vedotin with chemotherapy for CD30-positive peripheral T-cell lymphoma (ECHELON-2): a global, double-blind, randomised, phase 3 trial. Lancet. 2019;393(10168):229-240'
+  doi: 10.1016/S0140-6736(18)32984-2
+  pmid: '30522922'
+  pmcid: null
+  license_note: Crossref の登録は Elsevier の TDM のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2589
+  legacy_id: null
+  title: 'Henter JI, Horne A, Aricó M, et al. HLH-2004: Diagnostic and therapeutic guidelines for hemophagocytic lymphohistiocytosis. Pediatr Blood Cancer. 2007;48(2):124-131'
+  citation: 'Henter JI, Horne A, Aricó M, et al. HLH-2004: Diagnostic and therapeutic guidelines for hemophagocytic lymphohistiocytosis. Pediatr Blood Cancer. 2007;48(2):124-131'
+  doi: 10.1002/pbc.21039
+  pmid: '16937360'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2590
+  legacy_id: null
+  title: Fardet L, Galicier L, Lambotte O, et al. Development and validation of the HScore, a score for the diagnosis of reactive hemophagocytic syndrome. Arthritis Rheumatol. 2014;66(9):2613-2620
+  citation: Fardet L, Galicier L, Lambotte O, et al. Development and validation of the HScore, a score for the diagnosis of reactive hemophagocytic syndrome. Arthritis Rheumatol. 2014;66(9):2613-2620
+  doi: 10.1002/art.38690
+  pmid: '24782338'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2641
+  legacy_id: null
+  title: 厚生労働科学研究費補助金（エイズ対策政策研究事業）研究班. 救急領域における止血機能異常症の診療ガイド 第2版（ITPの章）. 厚生労働省研究成果公開ページ掲載PDF.
+  citation: 厚生労働科学研究費補助金（エイズ対策政策研究事業）研究班. 救急領域における止血機能異常症の診療ガイド 第2版（ITPの章）. 厚生労働省研究成果公開ページ掲載PDF.
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 厚生労働省の研究事業成果物（政府資料）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2642
+  legacy_id: null
+  title: Neunert C, Terrell DR, Arnold DM, et al. American Society of Hematology 2019 guidelines for immune thrombocytopenia. Blood Adv. 2019;3(23):3829-3866.
+  citation: Neunert C, Terrell DR, Arnold DM, et al. American Society of Hematology 2019 guidelines for immune thrombocytopenia. Blood Adv. 2019;3(23):3829-3866.
+  doi: 10.1182/bloodadvances.2019000966
+  pmid: '31794604'
+  pmcid: PMC6963252
+  license_note: CC BY-NC-ND（誌の標準ライセンス。個別レコードでは license 表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2643
+  legacy_id: null
+  title: 'American Society of Hematology 2026 guidelines for immune thrombocytopenia: initial and second-line therapy for adults with primary ITP. Blood Adv. 2026;10:7076-7097.'
+  citation: 'American Society of Hematology 2026 guidelines for immune thrombocytopenia: initial and second-line therapy for adults with primary ITP. Blood Adv. 2026;10:7076-7097.'
+  doi: 10.1182/bloodadvances.2026021269
+  pmid: '42617047'
+  pmcid: null
+  license_note: CC BY-NC-ND（誌の標準ライセンス。個別レコードでは license 表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2644
+  legacy_id: null
+  title: Matsumoto M, Miyakawa Y, Kokame K, et al. Diagnostic and treatment guidelines for thrombotic thrombocytopenic purpura (TTP) in Japan 2023. Int J Hematol. 2023;118(5):529-546.
+  citation: Matsumoto M, Miyakawa Y, Kokame K, et al. Diagnostic and treatment guidelines for thrombotic thrombocytopenic purpura (TTP) in Japan 2023. Int J Hematol. 2023;118(5):529-546.
+  doi: 10.1007/s12185-023-03657-0
+  pmid: '37689812'
+  pmcid: null
+  license_note: CC BY 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2645
+  legacy_id: null
+  title: Zheng XL, Vesely SK, Cataland SR, et al. ISTH guidelines for the diagnosis of thrombotic thrombocytopenic purpura. J Thromb Haemost. 2020;18(10):2486-2495.
+  citation: Zheng XL, Vesely SK, Cataland SR, et al. ISTH guidelines for the diagnosis of thrombotic thrombocytopenic purpura. J Thromb Haemost. 2020;18(10):2486-2495.
+  doi: 10.1111/jth.15006
+  pmid: '32914582'
+  pmcid: PMC8146131
+  license_note: 出版社の著作物（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2646
+  legacy_id: null
+  title: Zheng XL, Vesely SK, Cataland SR, et al. ISTH guidelines for treatment of thrombotic thrombocytopenic purpura. J Thromb Haemost. 2020;18(10):2496-2502.
+  citation: Zheng XL, Vesely SK, Cataland SR, et al. ISTH guidelines for treatment of thrombotic thrombocytopenic purpura. J Thromb Haemost. 2020;18(10):2496-2502.
+  doi: 10.1111/jth.15010
+  pmid: '32914526'
+  pmcid: PMC8091490
+  license_note: 出版社の著作物（Elsevier の TDM ライセンスのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2647
+  legacy_id: null
+  title: Zheng XL, Al-Housni Z, Cataland SR, et al. 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura. J Thromb Haemost. 2025;23(11):3711-3732.
+  citation: Zheng XL, Al-Housni Z, Cataland SR, et al. 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura. J Thromb Haemost. 2025;23(11):3711-3732.
+  doi: 10.1016/j.jtha.2025.06.002
+  pmid: '40533296'
+  pmcid: PMC13470878
+  license_note: ライセンス表示を確認できず（購読誌）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2648
+  legacy_id: null
+  title: Kato H, Nangaku M, Hataya H, et al. Clinical guides for atypical hemolytic uremic syndrome in Japan. Clin Exp Nephrol. 2016;20(4):536-543.
+  citation: Kato H, Nangaku M, Hataya H, et al. Clinical guides for atypical hemolytic uremic syndrome in Japan. Clin Exp Nephrol. 2016;20(4):536-543.
+  doi: 10.1007/s10157-016-1276-6
+  pmid: '27422619'
+  pmcid: null
+  license_note: CC BY 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2649
+  legacy_id: null
+  title: Rondeau E, Scully M, Ariceta G, et al. The long-acting C5 inhibitor, ravulizumab, is effective and safe in adult patients with atypical hemolytic uremic syndrome naïve to complement inhibitor treatment. Kidney Int. 2020;97(6):1287-1296.
+  citation: Rondeau E, Scully M, Ariceta G, et al. The long-acting C5 inhibitor, ravulizumab, is effective and safe in adult patients with atypical hemolytic uremic syndrome naïve to complement inhibitor treatment. Kidney Int. 2020;97(6):1287-1296.
+  doi: 10.1016/j.kint.2020.01.035
+  pmid: '32299680'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Crossref・Europe PMC で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2650
+  legacy_id: null
+  title: 'Cuker A, Arepally GM, Chong BH, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia. Blood Adv. 2018;2(22):3360-3392.'
+  citation: 'Cuker A, Arepally GM, Chong BH, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia. Blood Adv. 2018;2(22):3360-3392.'
+  doi: 10.1182/bloodadvances.2018024489
+  pmid: '30482768'
+  pmcid: PMC6258919
+  license_note: © The American Society of Hematology（CCライセンスの明示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2651
+  legacy_id: null
+  title: 前田琢磨，宮田茂樹. ヘパリン起因性血小板減少症. 日本血栓止血学会誌. 2018;29(3):288-293.
+  citation: 前田琢磨，宮田茂樹. ヘパリン起因性血小板減少症. 日本血栓止血学会誌. 2018;29(3):288-293.
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 学会の著作物（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2652
+  legacy_id: null
+  title: 'Aster RH, Curtis BR, McFarland JG, Bougie DW. Drug-induced immune thrombocytopenia: pathogenesis, diagnosis, and management. J Thromb Haemost. 2009;7(6):911-918.'
+  citation: 'Aster RH, Curtis BR, McFarland JG, Bougie DW. Drug-induced immune thrombocytopenia: pathogenesis, diagnosis, and management. J Thromb Haemost. 2009;7(6):911-918.'
+  doi: 10.1111/j.1538-7836.2009.03360.x
+  pmid: '19344362'
+  pmcid: PMC2935185
+  license_note: 出版社の著作物（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2653
+  legacy_id: null
+  title: Altahan RM. Acquired platelet disorders. Front Med (Lausanne). 2025;12:1638994.
+  citation: Altahan RM. Acquired platelet disorders. Front Med (Lausanne). 2025;12:1638994.
+  doi: 10.3389/fmed.2025.1638994
+  pmid: '41306494'
+  pmcid: PMC12644035
+  license_note: CC BY 4.0（Frontiers の標準ライセンス）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2654
+  legacy_id: null
+  title: 小児慢性特定疾病情報センター. 先天性血液凝固因子異常症（血友病A・Bほか）の解説文書. 小児慢性特定疾病情報センター（shouman.jp）掲載 PDF
+  citation: 小児慢性特定疾病情報センター. 先天性血液凝固因子異常症（血友病A・Bほか）の解説文書. 小児慢性特定疾病情報センター（shouman.jp）掲載 PDF
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 厚労省関連の公的資料
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2655
+  legacy_id: null
+  title: 'Yamakawa K, Okamoto K, Seki Y, et al. Clinical practice guidelines for management of disseminated intravascular coagulation in Japan 2024. Part 1: sepsis. Int J Hematol. 2025;121(5):592-604'
+  citation: 'Yamakawa K, Okamoto K, Seki Y, et al. Clinical practice guidelines for management of disseminated intravascular coagulation in Japan 2024. Part 1: sepsis. Int J Hematol. 2025;121(5):592-604'
+  doi: 10.1007/s12185-024-03896-9
+  pmid: '39676120'
+  pmcid: null
+  license_note: Springer（購読制、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2656
+  legacy_id: null
+  title: 'Yamakawa K, Okamoto K, Seki Y, et al. Clinical practice guidelines for management of disseminated intravascular coagulation in Japan 2024. Part 2: hematologic malignancy. Int J Hematol. 2025;121(5):605-621'
+  citation: 'Yamakawa K, Okamoto K, Seki Y, et al. Clinical practice guidelines for management of disseminated intravascular coagulation in Japan 2024. Part 2: hematologic malignancy. Int J Hematol. 2025;121(5):605-621'
+  doi: 10.1007/s12185-024-03887-w
+  pmid: '39674834'
+  pmcid: null
+  license_note: Springer（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2657
+  legacy_id: null
+  title: 'Saito H, Maruyama I, Shimazaki S, et al. Efficacy and safety of recombinant human soluble thrombomodulin (ART-123) in disseminated intravascular coagulation: results of a phase III, randomized, double-blind clinical trial. J Thromb Haemost. 2007;5(1):31-41'
+  citation: 'Saito H, Maruyama I, Shimazaki S, et al. Efficacy and safety of recombinant human soluble thrombomodulin (ART-123) in disseminated intravascular coagulation: results of a phase III, randomized, double-blind clinical trial. J Thromb Haemost. 2007;5(1):31-41'
+  doi: 10.1111/j.1538-7836.2006.02267.x
+  pmid: '17059423'
+  pmcid: null
+  license_note: Elsevier の TDM ライセンスのみ（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2658
+  legacy_id: null
+  title: James PD, Connell NT, Ameer B, et al. ASH ISTH NHF WFH 2021 guidelines on the diagnosis of von Willebrand disease. Blood Adv. 2021;5(1):280-300
+  citation: James PD, Connell NT, Ameer B, et al. ASH ISTH NHF WFH 2021 guidelines on the diagnosis of von Willebrand disease. Blood Adv. 2021;5(1):280-300
+  doi: 10.1182/bloodadvances.2020003265
+  pmid: '33570651'
+  pmcid: PMC7805340
+  license_note: Blood Advances の標準ライセンスは CC BY-NC-ND（Crossref の license 欄は空）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2659
+  legacy_id: null
+  title: Connell NT, Flood VH, Brignardello-Petersen R, et al. ASH ISTH NHF WFH 2021 guidelines on the management of von Willebrand disease. Blood Adv. 2021;5(1):301-325
+  citation: Connell NT, Flood VH, Brignardello-Petersen R, et al. ASH ISTH NHF WFH 2021 guidelines on the management of von Willebrand disease. Blood Adv. 2021;5(1):301-325
+  doi: 10.1182/bloodadvances.2020003264
+  pmid: '33570647'
+  pmcid: null
+  license_note: Blood Advances の標準ライセンスは CC BY-NC-ND（Crossref の license 欄は空）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2660
+  legacy_id: null
+  title: Tiede A, Collins P, Knoebl P, et al. International recommendations on the diagnosis and treatment of acquired hemophilia A. Haematologica. 2020;105(7):1791-1801
+  citation: Tiede A, Collins P, Knoebl P, et al. International recommendations on the diagnosis and treatment of acquired hemophilia A. Haematologica. 2020;105(7):1791-1801
+  doi: 10.3324/haematol.2019.230771
+  pmid: '32381574'
+  pmcid: null
+  license_note: CC BY-NC（誌面表示。Crossref の license 欄は空）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2661
+  legacy_id: null
+  title: Mladěnka P, et al. Vitamin K - sources, physiological role, kinetics, deficiency, detection, therapeutic use, and toxicity. Nutr Rev. 2022
+  citation: Mladěnka P, et al. Vitamin K - sources, physiological role, kinetics, deficiency, detection, therapeutic use, and toxicity. Nutr Rev. 2022
+  doi: 10.1093/nutrit/nuab061
+  pmid: '34472618'
+  pmcid: PMC8907489
+  license_note: CC BY-NC-ND 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2662
+  legacy_id: null
+  title: 'Ozen S, Pistorio A, Iusan SM, et al. EULAR/PRINTO/PRES criteria for Henoch-Schönlein purpura, childhood polyarteritis nodosa, childhood Wegener granulomatosis and childhood Takayasu arteritis: Ankara 2008. Part II: Final classification criteria. Ann Rheum Dis. 2010;69(5):798-806'
+  citation: 'Ozen S, Pistorio A, Iusan SM, et al. EULAR/PRINTO/PRES criteria for Henoch-Schönlein purpura, childhood polyarteritis nodosa, childhood Wegener granulomatosis and childhood Takayasu arteritis: Ankara 2008. Part II: Final classification criteria. Ann Rheum Dis. 2010;69(5):798-806'
+  doi: 10.1136/ard.2009.116657
+  pmid: '20413568'
+  pmcid: null
+  license_note: Elsevier の TDM ライセンスのみ（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2663
+  legacy_id: null
+  title: Evidence-based guidelines for the diagnosis and management of adult-onset IgA vasculitis. Nat Rev Rheumatol. 2026;22:643-662
+  citation: Evidence-based guidelines for the diagnosis and management of adult-onset IgA vasculitis. Nat Rev Rheumatol. 2026;22:643-662
+  doi: 10.1038/s41584-026-01420-3
+  pmid: '42625065'
+  pmcid: null
+  license_note: Springer Nature の TDM ライセンスのみ（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2664
+  legacy_id: null
+  title: 'Middeldorp S, Nieuwlaat R, Baumann Kreuziger L, et al. American Society of Hematology 2023 guidelines for management of venous thromboembolism: thrombophilia testing. Blood Adv. 2023;7(22):7101-7138'
+  citation: 'Middeldorp S, Nieuwlaat R, Baumann Kreuziger L, et al. American Society of Hematology 2023 guidelines for management of venous thromboembolism: thrombophilia testing. Blood Adv. 2023;7(22):7101-7138'
+  doi: 10.1182/bloodadvances.2023010177
+  pmid: '37195076'
+  pmcid: PMC10709681
+  license_note: CC BY-NC-ND 4.0（抄録の著作権表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2665
+  legacy_id: null
+  title: Barbhaiya M, Zuily S, Naden R, et al. 2023 ACR/EULAR antiphospholipid syndrome classification criteria. Ann Rheum Dis. 2023;82(10):1258-1270
+  citation: Barbhaiya M, Zuily S, Naden R, et al. 2023 ACR/EULAR antiphospholipid syndrome classification criteria. Ann Rheum Dis. 2023;82(10):1258-1270
+  doi: 10.1136/ard-2023-224609
+  pmid: '37640450'
+  pmcid: null
+  license_note: BMJ（© Author(s) 2023、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2666
+  legacy_id: null
+  title: Tektonidou MG, Andreoli L, Limper M, et al. EULAR recommendations for the management of antiphospholipid syndrome in adults. Ann Rheum Dis. 2019;78(10):1296-1304
+  citation: Tektonidou MG, Andreoli L, Limper M, et al. EULAR recommendations for the management of antiphospholipid syndrome in adults. Ann Rheum Dis. 2019;78(10):1296-1304
+  doi: 10.1136/annrheumdis-2019-215213
+  pmid: '31092409'
+  pmcid: PMC11034817
+  license_note: BMJ（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/40_hm_c.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2731
+  legacy_id: null
+  title: Sutor AH, von Kries R, Cornelissen EA, McNinch AW, Andrew M. Vitamin K deficiency bleeding (VKDB) in infancy. ISTH Pediatric/Perinatal Subcommittee. Thromb Haemost. 1999;81(3):456-461
+  citation: Sutor AH, von Kries R, Cornelissen EA, McNinch AW, Andrew M. Vitamin K deficiency bleeding (VKDB) in infancy. ISTH Pediatric/Perinatal Subcommittee. Thromb Haemost. 1999;81(3):456-461
+  doi: 10.1055/s-0037-1614494
+  pmid: '10102477'
+  pmcid: null
+  license_note: Crossref にライセンス登録なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/41_hm_d.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2732
+  legacy_id: null
+  title: Shearer MJ. Vitamin K deficiency bleeding (VKDB) in early infancy. Blood Rev. 2009;23(2):49-59
+  citation: Shearer MJ. Vitamin K deficiency bleeding (VKDB) in early infancy. Blood Rev. 2009;23(2):49-59
+  doi: 10.1016/j.blre.2008.06.001
+  pmid: '18804903'
+  pmcid: null
+  license_note: Crossref の登録は Elsevier の TDM ライセンスのみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/41_hm_d.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2733
+  legacy_id: null
+  title: 日本小児科学会新生児委員会. 新生児・乳児ビタミンK欠乏症出血症の予防法に関するQ&A. 日本小児科学会. 2021（関連学会・団体連名の提言「新生児と乳児のビタミンK欠乏性出血症発症予防に関する提言」2021-11-30 と一体の文書）
+  citation: 日本小児科学会新生児委員会. 新生児・乳児ビタミンK欠乏症出血症の予防法に関するQ&A. 日本小児科学会. 2021（関連学会・団体連名の提言「新生児と乳児のビタミンK欠乏性出血症発症予防に関する提言」2021-11-30 と一体の文書）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 学会文書（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/41_hm_d.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2734
+  legacy_id: null
+  title: Farmakis D, Porter J, Taher A, Cappellini MD, Angastiniotis M, Eleftheriou A. 2021 Thalassaemia International Federation Guidelines for the Management of Transfusion-dependent Thalassemia. Hemasphere. 2022;6(8):e732
+  citation: Farmakis D, Porter J, Taher A, Cappellini MD, Angastiniotis M, Eleftheriou A. 2021 Thalassaemia International Federation Guidelines for the Management of Transfusion-dependent Thalassemia. Hemasphere. 2022;6(8):e732
+  doi: 10.1097/HS9.0000000000000732
+  pmid: '35928543'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Europe PMC・Crossref で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/41_hm_d.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2735
+  legacy_id: null
+  title: Kattamis A, Kwiatkowski JL, Aydinok Y. Thalassaemia. Lancet. 2022;399(10343):2310-2324
+  citation: Kattamis A, Kwiatkowski JL, Aydinok Y. Thalassaemia. Lancet. 2022;399(10343):2310-2324
+  doi: 10.1016/S0140-6736(22)00536-0
+  pmid: '35691301'
+  pmcid: null
+  license_note: Crossref の登録は Elsevier の TDM ライセンスのみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/41_hm_d.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2736
+  legacy_id: null
+  title: 'Okubo R, Shirota C, Wada M, et al. Vitamin K deficiency bleeding and optimal prophylaxis methods in biliary atresia: a surveillance study in Japan. Pediatr Int. 2025;67(1):e70075'
+  citation: 'Okubo R, Shirota C, Wada M, et al. Vitamin K deficiency bleeding and optimal prophylaxis methods in biliary atresia: a surveillance study in Japan. Pediatr Int. 2025;67(1):e70075'
+  doi: 10.1111/ped.70075
+  pmid: '40390459'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Europe PMC で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/41_hm_d.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2737
+  legacy_id: null
+  title: 'GBD 2021 Sickle Cell Disease Collaborators. Global, regional, and national prevalence and mortality burden of sickle cell disease, 2000-2021: a systematic analysis from the Global Burden of Disease Study 2021. Lancet Haematol. 2023;10(8):e585-e599'
+  citation: 'GBD 2021 Sickle Cell Disease Collaborators. Global, regional, and national prevalence and mortality burden of sickle cell disease, 2000-2021: a systematic analysis from the Global Burden of Disease Study 2021. Lancet Haematol. 2023;10(8):e585-e599'
+  doi: 10.1016/S2352-3026(23)00118-7
+  pmid: '37331373'
+  pmcid: null
+  license_note: CC BY（Europe PMC で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/41_hm_d.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2738
+  legacy_id: null
+  title: Bolton-Maggs PH, Langer JC, Iolascon A, Tittensor P, King MJ; General Haematology Task Force of the British Committee for Standards in Haematology. Guidelines for the diagnosis and management of hereditary spherocytosis--2011 update. Br J Haematol. 2012;156(1):37-49
+  citation: Bolton-Maggs PH, Langer JC, Iolascon A, Tittensor P, King MJ; General Haematology Task Force of the British Committee for Standards in Haematology. Guidelines for the diagnosis and management of hereditary spherocytosis--2011 update. Br J Haematol. 2012;156(1):37-49
+  doi: 10.1111/j.1365-2141.2011.08921.x
+  pmid: '22055020'
+  pmcid: null
+  license_note: Crossref の登録は Wiley の利用条件のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/41_hm_d.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2739
+  legacy_id: null
+  title: Luzzatto L, Ally M, Notaro R. Glucose-6-phosphate dehydrogenase deficiency. Blood. 2020;136(11):1225-1240
+  citation: Luzzatto L, Ally M, Notaro R. Glucose-6-phosphate dehydrogenase deficiency. Blood. 2020;136(11):1225-1240
+  doi: 10.1182/blood.2019000944
+  pmid: '32702756'
+  pmcid: null
+  license_note: Crossref にライセンス登録なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/41_hm_d.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2740
+  legacy_id: null
+  title: 'Al-Samkari H, Shehata N, Lang-Robertson K, et al. Diagnosis and management of pyruvate kinase deficiency: international expert guidelines. Lancet Haematol. 2024;11(3):e228-e239'
+  citation: 'Al-Samkari H, Shehata N, Lang-Robertson K, et al. Diagnosis and management of pyruvate kinase deficiency: international expert guidelines. Lancet Haematol. 2024;11(3):e228-e239'
+  doi: 10.1016/S2352-3026(23)00377-0
+  pmid: '38330977'
+  pmcid: null
+  license_note: Crossref の登録は Elsevier の TDM ライセンス等のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/41_hm_d.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2741
+  legacy_id: null
+  title: Grainger JD, Thachil J, Will AM. How we treat the platelet glycoprotein defects; Glanzmann thrombasthenia and Bernard Soulier syndrome in children and adults. Br J Haematol. 2018;182(5):621-632
+  citation: Grainger JD, Thachil J, Will AM. How we treat the platelet glycoprotein defects; Glanzmann thrombasthenia and Bernard Soulier syndrome in children and adults. Br J Haematol. 2018;182(5):621-632
+  doi: 10.1111/bjh.15409
+  pmid: '30117143'
+  pmcid: null
+  license_note: Crossref の登録は Wiley の利用条件のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/41_hm_d.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2742
+  legacy_id: null
+  title: 日本小児血液・がん学会 編. 小児白血病・リンパ腫診療ガイドライン 2016年版. 金原出版. 2016
+  citation: 日本小児血液・がん学会 編. 小児白血病・リンパ腫診療ガイドライン 2016年版. 金原出版. 2016
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 書籍（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/41_hm_d.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2743
+  legacy_id: null
+  title: 'Minard-Colin V, Brugières L, Reiter A, et al. Non-Hodgkin Lymphoma in Children and Adolescents: Progress Through Effective Collaboration, Current Knowledge, and Challenges Ahead. J Clin Oncol. 2015;33(27):2963-2974'
+  citation: 'Minard-Colin V, Brugières L, Reiter A, et al. Non-Hodgkin Lymphoma in Children and Adolescents: Progress Through Effective Collaboration, Current Knowledge, and Challenges Ahead. J Clin Oncol. 2015;33(27):2963-2974'
+  doi: 10.1200/JCO.2014.59.5827
+  pmid: '26304908'
+  pmcid: null
+  license_note: Crossref にライセンス登録なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/41_hm_d.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）

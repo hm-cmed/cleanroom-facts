@@ -1,0 +1,1120 @@
+- id: LY-001
+  domain: LY
+  subdomain: 急性リンパ性白血病
+  assertion:
+    plain_statement_ja: 成人の急性リンパ性白血病では、症例の75%がB細胞前駆細胞由来であり、残りはT細胞前駆細胞の腫瘍である。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2568
+    source: 'Terwilliger T, Abdul-Hay M. Acute lymphoblastic leukemia: a comprehensive review and 2017 update. Blood Cancer J. 2017;7(6):e577.'
+    doi: 10.1038/bcj.2017.53
+    pmid: '28665419'
+    pmcid: PMC5520400
+    url: https://doi.org/10.1038/bcj.2017.53
+    source_license: CC BY 4.0（Crossref の license 欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 出典は総説であり、米国の年間発症数（6,500例超）など地域で異なる疫学の数値は主張に入れていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-A（急性リンパ性白血病、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-621 (id: JlvnmaE)；TBL-02-01-021 (id: JlAKpW0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-002
+  domain: LY
+  subdomain: 急性リンパ性白血病
+  assertion:
+    plain_statement_ja: 急性リンパ性白血病のリスク層別化は、年齢・白血球数・化学療法への反応などの臨床因子に加え、再発性の遺伝子異常の同定によって精緻化されている。
+    condition:
+      region: 国際
+      対象: 急性リンパ性白血病患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2568
+    source: 'Terwilliger T, Abdul-Hay M. Acute lymphoblastic leukemia: a comprehensive review and 2017 update. Blood Cancer J. 2017;7(6):e577.'
+    doi: 10.1038/bcj.2017.53
+    pmid: '28665419'
+    pmcid: PMC5520400
+    url: https://doi.org/10.1038/bcj.2017.53
+    source_license: CC BY 4.0（Crossref の license 欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 個別の遺伝子異常ごとの予後の数値は抄録の範囲では確認していない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-A（急性リンパ性白血病、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-02-01-021 (id: JlAKpW0)；TBL-02-01-018 (id: JlAKpWo)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-003
+  domain: LY
+  subdomain: 急性リンパ性白血病
+  assertion:
+    plain_statement_ja: 日本血液学会『造血器腫瘍診療ガイドライン2023年版』では、急性リンパ性白血病／リンパ芽球性リンパ腫（ALL/LBL）が白血病の独立章として扱われ、国内の診療の枠組みとなっている。
+    condition:
+      region: 日本
+      対象: 急性リンパ性白血病／リンパ芽球性リンパ腫患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2569
+    source: 'Hatta Y, Izutsu K, Onizuka M, et al. JSH practical guidelines for hematological malignancies, 2023: leukemia-3. Acute lymphoblastic leukemia/lymphoblastic lymphoma: ALL/LBL. Int J Hematol. 2024;120(4):394-413.'
+    doi: 10.1007/s12185-024-03836-7
+    pmid: '39242492'
+    pmcid: null
+    url: https://doi.org/10.1007/s12185-024-03836-7
+    source_license: Crossref の登録は Springer の TDM のみ（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本章は抄録が収録されておらず、個別の推奨文は本文の照合が前提である。分類の現行版はWHO第5版（HAEM5、2022）であり、ガイドラインとの版のずれに注意すること。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-A（急性リンパ性白血病、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-04 (id: JkxnuPY)；TBL-01-00-621 (id: JlvnmaE)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-004
+  domain: LY
+  subdomain: Hodgkinリンパ腫
+  assertion:
+    plain_statement_ja: Hodgkinリンパ腫は欧米では全悪性リンパ腫の約10〜30%を占めるが、日本では約3〜6%にとどまる。
+    condition:
+      region: 日本
+      対象: 悪性リンパ腫患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2570
+    source: 'Kusumoto S, Tomita A, et al. JSH practical guidelines for hematological malignancies, 2023: II. Lymphoma 10. Hodgkin lymphoma (HL). Int J Hematol. 2025;122(6):781-802.'
+    doi: 10.1007/s12185-025-04079-w
+    pmid: '41123791'
+    pmcid: null
+    url: https://doi.org/10.1007/s12185-025-04079-w
+    source_license: Crossref の登録は Springer の TDM のみ（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値はガイドライン英語版章の掲載誌ページで確認した（出典リサーチメモによる）。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-B（Hodgkinリンパ腫、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-628 (id: Jlvnmas)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-005
+  domain: LY
+  subdomain: Hodgkinリンパ腫
+  assertion:
+    plain_statement_ja: 未治療のIII期・IV期古典的Hodgkinリンパ腫では、ブレンツキシマブ ベドチンとAVDの併用（A+AVD）はABVDに比べ、6年全生存割合が高かった（93.9%対89.4%、死亡のハザード比0.59）。
+    condition:
+      region: 国際
+      対象: 未治療のIII期またはIV期古典的Hodgkinリンパ腫患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2571
+    source: Ansell SM, Radford J, Connors JM, et al. Overall Survival with Brentuximab Vedotin in Stage III or IV Hodgkin's Lymphoma. N Engl J Med. 2022;387(4):310-320.
+    doi: 10.1056/NEJMoa2206125
+    pmid: '35830649'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa2206125
+    source_license: NEJM の利用条件のみ（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ブレンツキシマブ ベドチンは国内で2014年1月に再発・難治性のCD30陽性Hodgkinリンパ腫等で承認され、2018年9月に未治療のCD30陽性Hodgkinリンパ腫へのAVD併用の適応追加があった（製薬企業のプレスリリースで確認、出典リサーチメモによる）。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-B（Hodgkinリンパ腫、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-628 (id: Jlvnmas)；TBL-02-01-012 (id: JlAKpWM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-006
+  domain: LY
+  subdomain: Hodgkinリンパ腫
+  assertion:
+    plain_statement_ja: 12歳以上の未治療III期・IV期古典的Hodgkinリンパ腫では、ニボルマブとAVDの併用はブレンツキシマブ ベドチンとAVDの併用に比べ、2年無増悪生存割合が高かった（92%対83%、ハザード比0.45）。
+    condition:
+      region: 国際
+      対象: 12歳以上の未治療III期またはIV期古典的Hodgkinリンパ腫患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2572
+    source: Herrera AF, LeBlanc M, Castellino SM, et al. Nivolumab+AVD in Advanced-Stage Classic Hodgkin's Lymphoma. N Engl J Med. 2024;391(15):1379-1389.
+    doi: 10.1056/NEJMoa2405888
+    pmid: '39413375'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa2405888
+    source_license: NEJM の利用条件のみ（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ニボルマブは国内で2016年12月に再発・難治性の古典的Hodgkinリンパ腫で承認された（製薬企業のプレスリリースで確認、出典リサーチメモによる）。未治療の一次治療としてのニボルマブ併用（N+AVD）の国内承認は未確認である。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-B（Hodgkinリンパ腫、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-628 (id: Jlvnmas)；TBL-02-01-012 (id: JlAKpWM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-007
+  domain: LY
+  subdomain: 慢性リンパ性白血病
+  assertion:
+    plain_statement_ja: 慢性リンパ性白血病のiwCLLガイドラインは2018年に改訂され、効果判定基準の改訂、測定可能残存病変（MRD）評価の位置づけ、治療中のウイルス性疾患の評価・予防が盛り込まれた。
+    condition:
+      region: 国際
+      対象: 慢性リンパ性白血病患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2573
+    source: Hallek M, Cheson BD, Catovsky D, et al. iwCLL guidelines for diagnosis, indications for treatment, response assessment, and supportive management of CLL. Blood. 2018;131(25):2745-2760.
+    doi: 10.1182/blood-2017-09-806398
+    pmid: '29540348'
+    pmcid: null
+    url: https://doi.org/10.1182/blood-2017-09-806398
+    source_license: Crossref にライセンス登録なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 診断基準の数値（単クローン性Bリンパ球数など）は抄録の範囲では確認しておらず、本文照合が前提である。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-①（慢性リンパ性白血病、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-628 (id: Jlvnmas)；TBL-02-01-021 (id: JlAKpW0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-008
+  domain: LY
+  subdomain: 慢性リンパ性白血病
+  assertion:
+    plain_statement_ja: 慢性リンパ性白血病と小リンパ球性リンパ腫は、同一の疾患単位として扱われる。
+    condition:
+      region: 国際
+      対象: 慢性リンパ性白血病／小リンパ球性リンパ腫患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2574
+    source: 'Eichhorst B, Robak T, Montserrat E, et al. Chronic lymphocytic leukaemia: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2021;32(1):23-33.'
+    doi: 10.1016/j.annonc.2020.09.019
+    pmid: '33091559'
+    pmcid: null
+    url: https://doi.org/10.1016/j.annonc.2020.09.019
+    source_license: Elsevier の利用ライセンスのみ（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 診断基準の数値は出典の本文照合が前提であり、主張には入れていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-①（慢性リンパ性白血病、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-628 (id: Jlvnmas)；TBL-02-01-012 (id: JlAKpWM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-009
+  domain: LY
+  subdomain: 濾胞性リンパ腫
+  assertion:
+    plain_statement_ja: 未治療の進行期濾胞性リンパ腫では、オビヌツズマブ併用化学療法はリツキシマブ併用化学療法に比べ、3年無増悪生存割合の推定が高かった（80.0%対73.3%、ハザード比0.66）。
+    condition:
+      region: 国際
+      対象: 未治療の進行期濾胞性リンパ腫患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2575
+    source: Marcus R, Davies A, Ando K, et al. Obinutuzumab for the First-Line Treatment of Follicular Lymphoma. N Engl J Med. 2017;377(14):1331-1344.
+    doi: 10.1056/NEJMoa1614598
+    pmid: '28976863'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1614598
+    source_license: NEJM の利用条件のみ（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: オビヌツズマブはCD20陽性濾胞性リンパ腫で国内承認があるが、承認年は出典リサーチで一次資料を未照合である。Grade 3〜5の有害事象はオビヌツズマブ群で多かった（74.6%対67.8%）。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-②（濾胞性リンパ腫、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-628 (id: Jlvnmas)；TBL-02-01-012 (id: JlAKpWM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-010
+  domain: LY
+  subdomain: 濾胞性リンパ腫
+  assertion:
+    plain_statement_ja: 日本血液学会『造血器腫瘍診療ガイドライン2023年版』では、濾胞性リンパ腫がリンパ腫の独立章として扱われ、国内の診療の枠組みとなっている。
+    condition:
+      region: 日本
+      対象: 濾胞性リンパ腫患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2576
+    source: 'Izutsu K, Fukuhara N, et al. JSH practical guidelines for hematological malignancies, 2023: II. Lymphoma-1. Follicular lymphoma (FL). Int J Hematol. 2025;121(5):577-585.'
+    doi: 10.1007/s12185-025-03922-4
+    pmid: '39903435'
+    pmcid: null
+    url: https://doi.org/10.1007/s12185-025-03922-4
+    source_license: Crossref の登録は Springer の TDM のみ（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 分類の現行版はWHO第5版（HAEM5、2022）だが、本ガイドラインのリンパ腫章はWHO改訂第4版（2017）を基盤としており、版のずれがある。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-②（濾胞性リンパ腫、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-628 (id: Jlvnmas)；TBL-02-01-012 (id: JlAKpWM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-011
+  domain: LY
+  subdomain: びまん性大細胞型B細胞リンパ腫
+  assertion:
+    plain_statement_ja: 未治療の中・高リスクびまん性大細胞型B細胞リンパ腫では、ポラツズマブ ベドチン併用療法（pola-R-CHP）はR-CHOPに比べ2年無増悪生存割合が高かったが（76.7%対70.2%、ハザード比0.73）、2年全生存割合に有意差はなかった。
+    condition:
+      region: 国際
+      対象: 未治療の中・高リスクびまん性大細胞型B細胞リンパ腫患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2577
+    source: Tilly H, Morschhauser F, Sehn LH, et al. Polatuzumab Vedotin in Previously Untreated Diffuse Large B-Cell Lymphoma. N Engl J Med. 2022;386(4):351-363.
+    doi: 10.1056/NEJMoa2115304
+    pmid: '34904799'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa2115304
+    source_license: NEJM の利用条件のみ（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ポラツズマブ ベドチンは国内で再発・難治性のDLBCLに2021年に承認され、2022年8月24日に未治療DLBCLへの適応追加が承認された（製薬企業のプレスリリースで確認、出典リサーチメモによる）。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-③（びまん性大細胞型B細胞リンパ腫、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-628 (id: Jlvnmas)；TBL-02-01-009 (id: JlAKpWA)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-012
+  domain: LY
+  subdomain: びまん性大細胞型B細胞リンパ腫
+  assertion:
+    plain_statement_ja: びまん性大細胞型B細胞リンパ腫では、R-CHOP療法で治癒するのは患者の約60%にとどまる。
+    condition:
+      region: 国際
+      対象: びまん性大細胞型B細胞リンパ腫患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2577
+    source: Tilly H, Morschhauser F, Sehn LH, et al. Polatuzumab Vedotin in Previously Untreated Diffuse Large B-Cell Lymphoma. N Engl J Med. 2022;386(4):351-363.
+    doi: 10.1056/NEJMoa2115304
+    pmid: '34904799'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa2115304
+    source_license: NEJM の利用条件のみ（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 約60%という数値はPOLARIX試験論文の抄録の背景記述で確認した。リツキシマブの国内承認・保険適用の個別照合は本パートでは行っていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-③（びまん性大細胞型B細胞リンパ腫、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-628 (id: Jlvnmas)；TBL-02-01-012 (id: JlAKpWM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-013
+  domain: LY
+  subdomain: びまん性大細胞型B細胞リンパ腫
+  assertion:
+    plain_statement_ja: 日本血液学会『造血器腫瘍診療ガイドライン2023年版』では、びまん性大細胞型B細胞リンパ腫（DLBCL, NOS）がリンパ腫の独立章として扱われ、国内の診療の枠組みとなっている。
+    condition:
+      region: 日本
+      対象: びまん性大細胞型B細胞リンパ腫患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2578
+    source: 'Ohmachi K, et al. JSH practical guidelines for hematological malignancies, 2023: II. Lymphoma 5. Diffuse large B-cell lymphoma, not otherwise specified (DLBCL, NOS). Int J Hematol. 2025;122(1):3-16.'
+    doi: 10.1007/s12185-025-03997-z
+    pmid: '40434571'
+    pmcid: PMC12202654
+    url: https://doi.org/10.1007/s12185-025-03997-z
+    source_license: CC BY 4.0（Crossref の license 欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 分類の現行版はWHO第5版（HAEM5、2022）だが、本ガイドラインのリンパ腫章はWHO改訂第4版（2017）を基盤としており、版のずれがある。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-③（びまん性大細胞型B細胞リンパ腫、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-628 (id: Jlvnmas)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-014
+  domain: LY
+  subdomain: 粘膜関連リンパ組織<MALT>リンパ腫
+  assertion:
+    plain_statement_ja: 粘膜関連リンパ組織<MALT>リンパ腫は節外性辺縁帯リンパ腫の一病型であり、日本血液学会のガイドラインでは辺縁帯リンパ腫の章で一括して扱われる。
+    condition:
+      region: 日本
+      対象: 粘膜関連リンパ組織リンパ腫患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2579
+    source: 'Yoshida I, et al. JSH Practical Guidelines for Hematological Malignancies, 2023: II. Lymphoma-2. Marginal zone lymphoma. Int J Hematol. 2025;121(6):725-739.'
+    doi: 10.1007/s12185-025-03947-9
+    pmid: '40091100'
+    pmcid: null
+    url: https://doi.org/10.1007/s12185-025-03947-9
+    source_license: Crossref の登録は Springer の TDM のみ（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 消化管原発病変の局所の詳細（内視鏡所見・消化管限局例の治療）は境界により作っていない。除菌療法の効果などの数値は本文照合が前提で、主張には入れていない。分類はWHO第5版（HAEM5）とガイドライン（WHO改訂第4版基盤）で版のずれがある。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-⑤（粘膜関連リンパ組織<MALT>リンパ腫、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-628 (id: Jlvnmas)；TBL-02-01-012 (id: JlAKpWM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-015
+  domain: LY
+  subdomain: 粘膜関連リンパ組織<MALT>リンパ腫
+  assertion:
+    plain_statement_ja: 原発性肺MALTリンパ腫は、肺に原発する節外性辺縁帯リンパ腫（MALTリンパ腫）の一病型である。
+    condition:
+      region: 国際
+      対象: 原発性肺粘膜関連リンパ組織リンパ腫患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-547
+    source: Sapuppo G, Frazzetto S, Pirosa MC, Zucca E. Epidemiology, diagnosis, and treatment of primary pulmonary mucosa-associated lymphoid tissue lymphoma. Chin Clin Oncol. 2026;15(3):46.
+    doi: 10.21037/cco-2025-1-134
+    pmid: null
+    pmcid: null
+    url: https://doi.org/10.21037/cco-2025-1-134
+    source_license: CC BY-NC-ND 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本出典は原発性肺MALTリンパ腫に限る総説であり、肺病変の側面に限る補助出典として使う。消化管原発病変の局所の詳細は境界により作っていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-⑤（粘膜関連リンパ組織<MALT>リンパ腫、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-628 (id: Jlvnmas)；TBL-02-01-012 (id: JlAKpWM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-016
+  domain: LY
+  subdomain: マクログロブリン血症
+  assertion:
+    plain_statement_ja: 治療歴のある症候性マクログロブリン血症では、イブルチニブ投与により全奏効率90.5%・主要奏効率（major response）73.0%が得られ、血清IgMの低下とヘモグロビンの上昇を伴った。
+    condition:
+      region: 国際
+      対象: 治療歴のある症候性マクログロブリン血症患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2580
+    source: Treon SP, Tripsas CK, Meid K, et al. Ibrutinib in previously treated Waldenström's macroglobulinemia. N Engl J Med. 2015;372(15):1430-1440.
+    doi: 10.1056/NEJMoa1501548
+    pmid: '25853747'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1501548
+    source_license: NEJM の利用条件のみ（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: イブルチニブは国内で原発性マクログロブリン血症及びリンパ形質細胞リンパ腫の適応で承認されていることをPMDA資料で確認した（国内発売は2016年5月）。本試験は単群の前向き研究であり、対象は治療歴のある患者である。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-⑥（マクログロブリン血症、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-02-01-020 (id: JlAKpWw)；TBL-02-01-005 (id: JlAKpVw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-017
+  domain: LY
+  subdomain: Burkittリンパ腫
+  assertion:
+    plain_statement_ja: 成人Burkittリンパ腫では、低強度DA-EPOCH-R療法を受けたHIV陰性例で、追跡期間中央値86か月時点の無増悪割合95%・全生存割合100%であった。
+    condition:
+      region: 米国
+      対象: 成人Burkittリンパ腫患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2581
+    source: Dunleavy K, Pittaluga S, Shovlin M, et al. Low-Intensity Therapy in Adults with Burkitt's Lymphoma. N Engl J Med. 2013;369(20):1915-1925.
+    doi: 10.1056/NEJMoa1308392
+    pmid: '24224624'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1308392
+    source_license: NEJM の利用条件のみ（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: DA-EPOCH-Rは米国の研究のレジメンであり、構成薬の国内承認・保険適用の個別照合は本パートでは行っていない。Burkittリンパ腫に専用の国際ガイドラインは確認できなかった。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-⑧（Burkittリンパ腫、c）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-628 (id: Jlvnmas)；TBL-02-01-021 (id: JlAKpW0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-018
+  domain: LY
+  subdomain: 多発性骨髄腫
+  assertion:
+    plain_statement_ja: 多発性骨髄腫の診断では、クローナルな骨髄形質細胞の存在に加え、臓器障害（CRAB）に相当する事象だけでなく、検証済みのバイオマーカー（骨髄クローナル形質細胞60%以上、血清遊離軽鎖比100以上、MRIで2カ所以上の巣状病変）を満たす場合も骨髄腫と診断する。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2582
+    source: Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. Lancet Oncol. 2014;15(12):e538-e548.
+    doi: 10.1016/S1470-2045(14)70442-5
+    pmid: '25439696'
+    pmcid: null
+    url: https://doi.org/10.1016/S1470-2045(14)70442-5
+    source_license: CC 表示なし（Europe PMC で非OA を確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値の閾値は造血器腫瘍診療ガイドライン第3.1版第Ⅲ章の診断規準表から読み取り（IMWG 2014年改訂規準の転記）。Rajkumar 2014 の抄録ではバイオマーカー追加の根拠（CRAB 発症がほぼ必至）までを確認した。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-④（多発性骨髄腫、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-629 (id: Jlvnmaw)；TBL-02-01-020 (id: JlAKpWw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-019
+  domain: LY
+  subdomain: 多発性骨髄腫
+  assertion:
+    plain_statement_ja: 日本における多発性骨髄腫の発症率は人口10万人あたり約5人で、年間の死亡者数は4,000人前後であり、全造血器腫瘍の約10%を占める。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2583
+    source: 日本血液学会 編. 造血器腫瘍診療ガイドライン 第3.1版（2024年版）第Ⅲ章 骨髄腫. 日本血液学会ウェブサイト.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 学会の著作物（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は造血器腫瘍診療ガイドライン第3.1版第Ⅲ章の本文から読み取り。ガイドラインは Web 公開版であり、書籍版（2023年版、第3版）と版の対応は組み立て時に再確認する。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-④（多発性骨髄腫、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-629 (id: Jlvnmaw)；TBL-02-01-020 (id: JlAKpWw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-020
+  domain: LY
+  subdomain: 多発性骨髄腫
+  assertion:
+    plain_statement_ja: 改訂国際病期分類（R-ISS）は、ISSに高リスク染色体異常（del(17p)、t(4;14)、t(14;16)）と血清LDHを組み合わせた病期分類で、R-ISS I・II・IIIの5年全生存率はそれぞれ82%・62%・40%である。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2584
+    source: 'Palumbo A, Avet-Loiseau H, Oliva S, et al. Revised International Staging System for Multiple Myeloma: A Report From International Myeloma Working Group. J Clin Oncol. 2015;33(26):2863-2869.'
+    doi: 10.1200/JCO.2015.61.2267
+    pmid: '26240224'
+    pmcid: null
+    url: https://doi.org/10.1200/JCO.2015.61.2267
+    source_license: Crossref のライセンス欄は空（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は Palumbo 2015 の抄録から読み取り（11試験・4,445例の統合解析、追跡中央値46カ月）。後継の R2-ISS（2022）が報告されているが、本カードは R-ISS の記載に限る。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-④（多発性骨髄腫、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-629 (id: Jlvnmaw)；TBL-02-01-020 (id: JlAKpWw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-021
+  domain: LY
+  subdomain: 多発性骨髄腫
+  assertion:
+    plain_statement_ja: 症候性多発性骨髄腫に伴う急性腎障害の最多の機序は軽鎖円柱腎症であり、腎回復には補液と誘因の是正に加えて遊離軽鎖の産生を速やかに減らす治療が要り、新規診断例での標準はボルテゾミブと高用量デキサメタゾンの併用である。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-615
+    source: Bridoux F, Leung N, Belmouaz M, Royal V, Ronco P, Nasr SH. Management of acute kidney injury in symptomatic multiple myeloma. Kidney Int. 2021;99(3):570-580.
+    doi: 10.1016/j.kint.2020.11.010
+    pmid: '33440212'
+    pmcid: null
+    url: https://doi.org/10.1016/j.kint.2020.11.010
+    source_license: Elsevier の TDM 用ライセンスのみ（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本出典は腎障害の側面に限る補助候補であり、骨髄腫本体の出典にはしない（依頼文 §8）。ボルテゾミブは国内で多発性骨髄腫の適応で承認され保険適用があることは造血器腫瘍診療ガイドライン第3.1版に標準治療として記載されていることで確認したが、PMDA 添付文書での個別照合は未了。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-④（多発性骨髄腫、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-629 (id: Jlvnmaw)；TBL-02-01-020 (id: JlAKpWw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-022
+  domain: LY
+  subdomain: 意義不明の単クローン性免疫グロブリン血症<MGUS>
+  assertion:
+    plain_statement_ja: MGUSは、血清M蛋白が3 g/dL未満で骨髄のクローナルな形質細胞が10%未満にとどまり、骨髄腫に伴う臓器障害（CRAB）を欠く前駆状態として定義される。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2583
+    source: 日本血液学会 編. 造血器腫瘍診療ガイドライン 第3.1版（2024年版）第Ⅲ章 骨髄腫. 日本血液学会ウェブサイト.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 学会の著作物（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 定義の閾値は造血器腫瘍診療ガイドライン第3.1版第Ⅲ章の診断規準表から読み取り（IMWG 規準に基づく）。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-⑦（意義不明の単クローン性免疫グロブリン血症<MGUS>、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-02-01-020 (id: JlAKpWw)；TBL-02-01-005 (id: JlAKpVw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-023
+  domain: LY
+  subdomain: 意義不明の単クローン性免疫グロブリン血症<MGUS>
+  assertion:
+    plain_statement_ja: MGUSが多発性骨髄腫などの形質細胞腫瘍へ進行するリスクは平均して年約1%で、累積進行割合は10年で12%、20年で25%、25年で30%である。
+    condition:
+      region: 米国
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2585
+    source: Kyle RA, Therneau TM, Rajkumar SV, et al. A long-term study of prognosis in monoclonal gammopathy of undetermined significance. N Engl J Med. 2002;346(8):564-569.
+    doi: 10.1056/NEJMoa01133202
+    pmid: '11856795'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa01133202
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は Kyle 2002 の抄録から読み取り（米国ミネソタ州南東部の住民コホート1,384例、11,009人年の追跡）。日本人集団での進行率は本出典では確認していない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-⑦（意義不明の単クローン性免疫グロブリン血症<MGUS>、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-02-01-020 (id: JlAKpWw)；TBL-02-01-005 (id: JlAKpVw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-024
+  domain: LY
+  subdomain: 原発性アミロイドーシス
+  assertion:
+    plain_statement_ja: 全身性アミロイドーシスのうち最も多いのはALアミロイドーシスで、単クローン性免疫グロブリン軽鎖由来のアミロイド線維が臓器に沈着して障害を起こし、治療方針の決定にはアミロイド線維の型判定が重要である。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-979
+    source: Wechalekar AD, Gillmore JD, Hawkins PN. Systemic amyloidosis. Lancet. 2016;387:2641-2654.
+    doi: 10.1016/S0140-6736(15)01274-X
+    pmid: '26719234'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(15)01274-X
+    source_license: ライセンス表示を確認できず（出典マスター登録どおり）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 本カードは AL（原発性）の側面に限る。ATTR（タファミジスの対象、SRC-980）は病型が異なるため混同しない。出典マスターでは本出典の class は UNKNOWN で登録されている。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-⑨（原発性アミロイドーシス、c）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-01 (id: JkxnuPM)；TBL-02-01-020 (id: JlAKpWw)；TBL-02-01-005 (id: JlAKpVw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-025
+  domain: LY
+  subdomain: 原発性アミロイドーシス
+  assertion:
+    plain_statement_ja: ALアミロイドーシスでは腎障害が約70%にみられ、蛋白尿5 g/日超とeGFR 50 mL/min未満の組合せが透析への進行の高リスクを示し、腎反応は蛋白尿の30%以上の減少（または0.5 g/日未満への低下）で判定される。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-599
+    source: Palladini G, Hegenbart U, Milani P, et al. A staging system for renal outcome and early markers of renal response to chemotherapy in AL amyloidosis. Blood. 2014;124(15):2325-2332.
+    doi: 10.1182/blood-2014-04-570010
+    pmid: '25115890'
+    pmcid: null
+    url: https://doi.org/10.1182/blood-2014-04-570010
+    source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は Palladini 2014 の抄録から読み取り（Pavia 461例と Heidelberg 271例での検証）。本出典は腎病期と腎反応の早期マーカーに関するもので、心病期の分類には用いていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-C-⑨（原発性アミロイドーシス、c）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-01 (id: JkxnuPM)；TBL-02-01-020 (id: JlAKpWw)；TBL-02-01-005 (id: JlAKpVw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-026
+  domain: LY
+  subdomain: 成人T細胞白血病・リンパ腫
+  assertion:
+    plain_statement_ja: 成人T細胞白血病・リンパ腫（ATL）は、臨床像からくすぶり型・慢性型・リンパ腫型・急性型の4病型に分類され、病型ごとに末梢血の異常リンパ球の割合やLDH・補正カルシウム・臓器浸潤の有無による診断基準が定められている。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2586
+    source: Shimoyama M; Lymphoma Study Group. Diagnostic criteria and classification of clinical subtypes of adult T-cell leukaemia-lymphoma. Br J Haematol. 1991;79(3):428-437.
+    doi: 10.1111/j.1365-2141.1991.tb08051.x
+    pmid: '1751370'
+    pmcid: null
+    url: https://doi.org/10.1111/j.1365-2141.1991.tb08051.x
+    source_license: Wiley の利用条件のみ（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 病型分類と診断基準の枠組みは Shimoyama 1991 の抄録で確認。各病型の基準値の詳細は本文照合が前提であり、本カードには含めていない。HTLV-1 のウイルス学と母子感染予防は Ⅻ の範囲（SRC-2062・2063）であり、ここでは扱わない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-D-①（成人T細胞白血病・リンパ腫、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-624 (id: JlvnmaY)；TBL-02-01-012 (id: JlAKpWM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-027
+  domain: LY
+  subdomain: 成人T細胞白血病・リンパ腫
+  assertion:
+    plain_statement_ja: 日本のATL患者1,594例の解析では、生存期間中央値は急性型8.3か月・リンパ腫型10.6か月・慢性型31.5か月・くすぶり型55.0か月と、病型によって予後が大きく異なる。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2587
+    source: Katsuya H, Ishitsuka K, Utsunomiya A, et al. Treatment and survival among 1594 patients with ATL. Blood. 2015;126(24):2570-2577.
+    doi: 10.1182/blood-2015-03-632489
+    pmid: '26361794'
+    pmcid: null
+    url: https://doi.org/10.1182/blood-2015-03-632489
+    source_license: Crossref にライセンス登録なし（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は Katsuya 2015 の抄録から読み取り（2000〜2009年診断例）。ATL の生涯発症率（キャリアの何%が発症するか）は原推計の一次資料で未確認のため、本パートのカードには含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-D-①（成人T細胞白血病・リンパ腫、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-624 (id: JlvnmaY)；TBL-02-01-012 (id: JlAKpWM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-028
+  domain: LY
+  subdomain: 末梢T細胞性リンパ腫
+  assertion:
+    plain_statement_ja: 未治療のCD30陽性末梢T細胞リンパ腫では、ブレンツキシマブ ベドチンと化学療法（A+CHP）の併用はCHOP療法に比べて無増悪生存期間を延長し、中央値は48.2か月対20.8か月（ハザード比0.71）であった。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2588
+    source: 'Horwitz S, O’Connor OA, Pro B, et al. Brentuximab vedotin with chemotherapy for CD30-positive peripheral T-cell lymphoma (ECHELON-2): a global, double-blind, randomised, phase 3 trial. Lancet. 2019;393(10168):229-240.'
+    doi: 10.1016/S0140-6736(18)32984-2
+    pmid: '30522922'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(18)32984-2
+    source_license: Crossref の登録は Elsevier の TDM のみ（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は Horwitz 2019（ECHELON-2、452例）の抄録から読み取り。ブレンツキシマブ ベドチンは国内で2019年12月に末梢性T細胞リンパ腫の適応を取得したとされるが、本リサーチでは二次資料経由の確認であり、組み立て時に PMDA・販売元の一次資料で再確認すること。皮膚原発の側面は SRC-1122（皮膚原発リンパ腫ガイドライン2020の概要）の範囲であり、本カードには含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-D-②（末梢T細胞性リンパ腫、c）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-628 (id: Jlvnmas)；TBL-02-01-012 (id: JlAKpWM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-029
+  domain: LY
+  subdomain: 血球貪食性リンパ組織球症<HLH>
+  assertion:
+    plain_statement_ja: HLHの診断はHLH-2004基準により、発熱、脾腫、2系統以上の血球減少、高トリグリセリド血症または低フィブリノゲン血症、血球貪食像、NK細胞活性の低下または欠如、高フェリチン血症、可溶性IL-2受容体高値の8項目のうち5項目以上を満たすこと（またはHLHに合致する分子診断）で行う。
+    condition:
+      region: 国際
+      対象: 小児・成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2589
+    source: 'Henter JI, Horne A, Aricó M, et al. HLH-2004: Diagnostic and therapeutic guidelines for hemophagocytic lymphohistiocytosis. Pediatr Blood Cancer. 2007;48(2):124-131.'
+    doi: 10.1002/pbc.21039
+    pmid: '16937360'
+    pmcid: null
+    url: https://doi.org/10.1002/pbc.21039
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 基準の項目構成は Henter 2007 の抄録で確認。各項目の数値の閾値は本文照合が前提であり、本カードには含めていない。本カードは病態と診断に絞り、膠原病に伴うマクロファージ活性化症候群（MAS）としての全身管理は Ⅺ の範囲として扱わない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-F-①（血球貪食性リンパ組織球症<HLH>、c）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-024 (id: Jlvnlbw)；TBL-02-01-009 (id: JlAKpWA)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-030
+  domain: LY
+  subdomain: 血球貪食性リンパ組織球症<HLH>
+  assertion:
+    plain_statement_ja: 成人の反応性血球貪食症候群の診断にはHScoreが用いられ、9つの変数から算出されるスコアが90以下では発症確率は1%未満、250以上では99%を超えるとされる。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2590
+    source: Fardet L, Galicier L, Lambotte O, et al. Development and validation of the HScore, a score for the diagnosis of reactive hemophagocytic syndrome. Arthritis Rheumatol. 2014;66(9):2613-2620.
+    doi: 10.1002/art.38690
+    pmid: '24782338'
+    pmcid: null
+    url: https://doi.org/10.1002/art.38690
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値は Fardet 2014 の抄録から読み取り（312例の多施設後ろ向きコホートで開発・検証）。スコアの各変数の配点の詳細は本文照合が前提であり、本カードには含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-F-①（血球貪食性リンパ組織球症<HLH>、c）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-024 (id: Jlvnlbw)；TBL-02-01-009 (id: JlAKpWA)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-031
+  domain: LY
+  subdomain: 伝染性単核球症
+  assertion:
+    plain_statement_ja: 伝染性単核球症はEBウイルスの初感染によって起こり、末梢血のリンパ球増多、咽頭痛、リンパ節腫脹、倦怠感を特徴とし、症状は数週間続くことがある。
+    condition:
+      region: 国際
+      対象: 青年
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2031
+    source: Dunmire SK, Verghese PS, Balfour HH Jr. Primary Epstein-Barr virus infection. J Clin Virol. 2018;102:84-92.
+    doi: 10.1016/j.jcv.2018.03.001
+    pmid: '29525635'
+    pmcid: null
+    url: https://doi.org/10.1016/j.jcv.2018.03.001
+    source_license: CC 表示なし（Crossref は TDM ライセンスのみ）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードは血液・リンパ系の病像に絞ったもので、EBV感染症の総論は Ⅻ の範囲（VI-022・023）として作り直していない。異型リンパ球の割合など血液像の具体的な数値は、本出典と Luzuriaga 2010 のいずれでも抄録の範囲で確認できなかったため含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-G（伝染性単核球症、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；PS-02-02-03 (id: JkxnuPU)；TBL-02-01-012 (id: JlAKpWM)；TBL-02-01-009 (id: JlAKpWA)；TBL-02-01-016 (id: JlAKpWg)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: LY-032
+  domain: LY
+  subdomain: 伝染性単核球症
+  assertion:
+    plain_statement_ja: 伝染性単核球症の潜伏期は約6週間と長く、診断は異好性抗体検査とEBウイルス特異的抗体検査によって行われる。
+    condition:
+      region: 国際
+      対象: 青年
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2031
+    source: Dunmire SK, Verghese PS, Balfour HH Jr. Primary Epstein-Barr virus infection. J Clin Virol. 2018;102:84-92.
+    doi: 10.1016/j.jcv.2018.03.001
+    pmid: '29525635'
+    pmcid: null
+    url: https://doi.org/10.1016/j.jcv.2018.03.001
+    source_license: CC 表示なし（Crossref は TDM ライセンスのみ）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 潜伏期と検査法は Dunmire 2018 の抄録で確認。脾破裂の頻度や運動制限の期間など合併症の数値は抄録の範囲で確認できなかったため含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-3-G（伝染性単核球症、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；PS-02-02-03 (id: JkxnuPU)；TBL-02-01-012 (id: JlAKpWM)；TBL-02-01-009 (id: JlAKpWA)；TBL-02-01-016 (id: JlAKpWg)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）

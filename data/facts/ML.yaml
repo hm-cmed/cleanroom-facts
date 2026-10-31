@@ -1,0 +1,595 @@
+- id: ML-001
+  domain: ML
+  subdomain: 薬剤性無顆粒球症
+  assertion:
+    plain_statement_ja: 薬剤性無顆粒球症は、まれな特発性（idiosyncratic）の薬剤性有害事象であり、生物学的製剤を含むさまざまな薬剤が原因となりうる。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2551
+    source: Andrès E, Lorenzo-Villalba N, Zulfiqar AA, et al. State of Art of Idiosyncratic Drug-Induced Neutropenia or Agranulocytosis, with a Focus on Biotherapies. J Clin Med. 2019;8(9):1351.
+    doi: 10.3390/jcm8091351
+    pmid: '31480527'
+    pmcid: PMC6788182
+    url: https://doi.org/10.3390/jcm8091351
+    source_license: CC BY 4.0（Crossref の license 欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 総説（2010〜2019年の文献を対象）の抄録で確認した範囲である。個別薬剤ごとの頻度や国内での発症状況は本出典では確認していない。発熱を伴う場合の管理は ML-002 を参照。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-2-A-①（薬剤性無顆粒球症、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-023 (id: Jlvnlbs)；TBL-02-01-007 (id: JlAKpV4)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: ML-002
+  domain: ML
+  subdomain: 薬剤性無顆粒球症
+  assertion:
+    plain_statement_ja: 発熱性好中球減少症の管理では、合併症のリスクを高リスクと低リスクに層別化することが出発点となり、すべての患者に対してグラム陽性菌とグラム陰性菌の双方をカバーする広域抗菌薬を速やかに経験的に投与する。
+    condition:
+      region: 米国
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2552
+    source: 'Freifeld AG, Bow EJ, Sepkowitz KA, et al. Clinical Practice Guideline for the Use of Antimicrobial Agents in Neutropenic Patients with Cancer: 2010 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2011;52(4):e56-e93.'
+    doi: 10.1093/cid/cir073
+    pmid: '21258094'
+    pmcid: null
+    url: https://doi.org/10.1093/cid/cir073
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 米国感染症学会（IDSA）ガイドラインの抄録で確認した範囲である。発熱の定義は国内の発熱性好中球減少症診療ガイドライン（腋窩温37.5℃以上等）と異なるため、日本の診療では国内ガイドラインを併せて参照すること。個別の抗菌薬の国内承認・保険適用は本カードでは扱っていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-2-A-①（薬剤性無顆粒球症、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-023 (id: Jlvnlbs)；TBL-02-01-009 (id: JlAKpWA)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: ML-003
+  domain: ML
+  subdomain: 急性骨髄性白血病
+  assertion:
+    plain_statement_ja: ELNの2022年勧告では、急性骨髄性白血病の遺伝子リスク分類と治療効果判定の基準が改訂され、ゲノム診断と測定可能残存病変（MRD）の評価が診療に組み込まれた。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2553
+    source: 'Döhner H, Wei AH, Appelbaum FR, et al. Diagnosis and management of AML in adults: 2022 recommendations from an international expert panel on behalf of the ELN. Blood. 2022;140(12):1345-1377.'
+    doi: 10.1182/blood.2022016867
+    pmid: '35797463'
+    pmcid: null
+    url: https://doi.org/10.1182/blood.2022016867
+    source_license: CC BY-NC-ND 4.0（Crossref の license 欄で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 抄録で確認した範囲である。遺伝子リスク分類の個別の遺伝子異常の一覧は抄録の範囲外であり、主張に含めていない（組み立て時に全文で照合すること）。分類の土台にはWHO分類第5版（HAEM5、2022）とICC 2022も併存し、版による食い違いがありうる。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-2-B-①（急性骨髄性白血病、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；PS-02-02-04 (id: JkxnuPY)；TBL-01-00-621 (id: JlvnmaE)；TBL-02-01-021 (id: JlAKpW0)；TBL-02-01-018 (id: JlAKpWo)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: ML-004
+  domain: ML
+  subdomain: 急性骨髄性白血病
+  assertion:
+    plain_statement_ja: 強力化学療法が適応とならない未治療の急性骨髄性白血病では、アザシチジンにベネトクラクスを併用すると、アザシチジン単独と比べて全生存期間が延長し（中央値14.7か月対9.6か月、死亡のハザード比0.66）、完全寛解率も高かった（36.7%対17.9%）。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2554
+    source: DiNardo CD, Jonas BA, Pullarkat V, et al. Azacitidine and Venetoclax in Previously Untreated Acute Myeloid Leukemia. N Engl J Med. 2020;383(7):617-629.
+    doi: 10.1056/NEJMoa2012971
+    pmid: '32786187'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa2012971
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: VIALE-A試験（431例、年齢中央値76歳）の抄録で確認した数値である。発熱性好中球減少症は併用群で多かった（42%対19%）。ベネトクラクスは2021年3月23日に国内で急性骨髄性白血病の適応追加承認を取得している（発売元の発表で確認）。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-2-B-①（急性骨髄性白血病、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-04 (id: JkxnuPY)；TBL-01-00-621 (id: JlvnmaE)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: ML-005
+  domain: ML
+  subdomain: 急性骨髄性白血病
+  assertion:
+    plain_statement_ja: 新規診断のFLT3変異陽性急性骨髄性白血病では、標準化学療法にミドスタウリンを追加すると、全生存と無イベント生存がいずれも延長した（いずれもハザード比0.78）。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2555
+    source: Stone RM, Mandrekar SJ, Sanford BL, et al. Midostaurin plus Chemotherapy for Acute Myeloid Leukemia with a FLT3 Mutation. N Engl J Med. 2017;377(5):454-464.
+    doi: 10.1056/NEJMoa1614359
+    pmid: '28644114'
+    pmcid: PMC5754190
+    url: https://doi.org/10.1056/NEJMoa1614359
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: RATIFY試験（717例、18〜59歳）の抄録で確認した数値であり、効果はFLT3変異のサブタイプを通じて一貫していた。ミドスタウリンの国内承認は出典リサーチの範囲で確認できなかった（国内の適応は未確認）。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-2-B-①（急性骨髄性白血病、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-04 (id: JkxnuPY)；TBL-01-00-621 (id: JlvnmaE)；TBL-02-01-021 (id: JlAKpW0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: ML-006
+  domain: ML
+  subdomain: 急性骨髄性白血病
+  assertion:
+    plain_statement_ja: 低〜中間リスクの急性前骨髄球性白血病では、全トランスレチノイン酸と三酸化二ヒ素の併用は、全トランスレチノイン酸と化学療法の併用と比べて2年無イベント生存率が高く（97%対86%）、血液毒性と感染は少なかった。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2556
+    source: Lo-Coco F, Avvisati G, Vignetti M, et al. Retinoic Acid and Arsenic Trioxide for Acute Promyelocytic Leukemia. N Engl J Med. 2013;369(2):111-121.
+    doi: 10.1056/NEJMoa1300874
+    pmid: '23841729'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1300874
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: APL0406試験（白血球数10×10⁹/L以下の低〜中間リスクが対象）の抄録で確認した数値である。完全寛解は併用群で評価可能例の全例、化学療法群で95%であった。三酸化二ヒ素製剤の国内適応範囲（初回治療への拡大の有無）は未確認であり、組み立て時にPMDAで確認すること。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-2-B-①（急性骨髄性白血病、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-04 (id: JkxnuPY)；TBL-01-00-621 (id: JlvnmaE)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: ML-007
+  domain: ML
+  subdomain: 慢性骨髄性白血病
+  assertion:
+    plain_statement_ja: 慢性骨髄性白血病の管理に関するELNの2025年勧告は現行の国際指針であり、WHOによる慢性期と芽球期の2相への再分類を反映し、分子学的マイルストーン未達時の対応は一律の治療変更ではなく個別の事情を踏まえて判断するとした。
+    condition:
+      region: 欧州
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2557
+    source: Apperley JF, Milojkovic D, Cross NCP, et al. 2025 European LeukemiaNet recommendations for the management of chronic myeloid leukemia. Leukemia. 2025;39(8):1797-1813.
+    doi: 10.1038/s41375-025-02664-w
+    pmid: '40646132'
+    pmcid: PMC12310532
+    url: https://doi.org/10.1038/s41375-025-02664-w
+    source_license: CC BY 4.0（Crossref の license 欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 抄録で確認した範囲である。ELN 2020年勧告は旧版であり、本カードは2025年版に基づく。分類の版の食い違いとして、WHO分類第5版（HAEM5）では移行期を置かない2相性に整理された一方、国内ガイドライン（日本血液学会2023年版）の記載とはずれる部分がありうる。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-2-B-②（慢性骨髄性白血病、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-622 (id: JlvnmaM)；TBL-02-01-021 (id: JlAKpW0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: ML-008
+  domain: ML
+  subdomain: 慢性骨髄性白血病
+  assertion:
+    plain_statement_ja: 慢性骨髄性白血病の初回治療としてのイマチニブでは、60か月時点で完全細胞遺伝学的寛解の累積最良達成率は87%、全生存率は89%であり、移行期・芽球転化への進行は推定7%であった。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2558
+    source: Druker BJ, Guilhot F, O'Brien SG, et al. Five-year follow-up of patients receiving imatinib for chronic myeloid leukemia. N Engl J Med. 2006;355(23):2408-2417.
+    doi: 10.1056/NEJMoa062867
+    pmid: '17151364'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa062867
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: IRIS試験5年追跡の抄録で確認した数値である。イマチニブは国内承認・保険適用のある薬剤である（個別の承認年の照合はしていない）。SRC-033（イマチニブの消化管間質腫瘍の試験）は適応が異なるため本項目の出典にしていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-2-B-②（慢性骨髄性白血病、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-622 (id: JlvnmaM)；TBL-02-01-018 (id: JlAKpWo)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: ML-009
+  domain: ML
+  subdomain: 慢性骨髄性白血病
+  assertion:
+    plain_statement_ja: 完全分子学的寛解を少なくとも2年維持した慢性骨髄性白血病でイマチニブを中止すると、約6割が再発する（12か月時点の完全分子学的寛解維持率は41%）が、再発例は全例イマチニブの再開に反応した。
+    condition:
+      region: 欧州
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2559
+    source: 'Mahon FX, Réa D, Guilhot J, et al. Discontinuation of imatinib in patients with chronic myeloid leukaemia who have maintained complete molecular remission for at least 2 years: the prospective, multicentre Stop Imatinib (STIM) trial. Lancet Oncol. 2010;11(11):1029-1035.'
+    doi: 10.1016/S1470-2045(10)70233-3
+    pmid: '20965785'
+    pmcid: null
+    url: https://doi.org/10.1016/S1470-2045(10)70233-3
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: STIM試験（12か月以上追跡できた69例）の抄録で確認した数値であり、再発の大半は中止後6か月以内であった。イマチニブは国内承認・保険適用のある薬剤である。治療中止の判断はELN 2025年勧告などの現行指針に基づく。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-2-B-②（慢性骨髄性白血病、a）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-622 (id: JlvnmaM)；TBL-02-01-021 (id: JlAKpW0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: ML-010
+  domain: ML
+  subdomain: 原発性骨髄線維症
+  assertion:
+    plain_statement_ja: 原発性骨髄線維症のDIPSSは、年齢65歳超、ヘモグロビン10 g/dL未満、白血球数25×10⁹/L超、末梢血芽球1%以上、全身症状の5因子で低・中間-1・中間-2・高の4群に分ける動的予後モデルであり、診断時だけでなく経過中のどの時点でも適用できる。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2560
+    source: 'Passamonti F, Cervantes F, Vannucchi AM, et al. A dynamic prognostic model to predict survival in primary myelofibrosis: a study by the IWG-MRT (DIPSS). Blood. 2010;115(9):1703-1708.'
+    doi: 10.1182/blood-2009-09-245837
+    pmid: '20008785'
+    pmcid: null
+    url: https://doi.org/10.1182/blood-2009-09-245837
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 原発性骨髄線維症525例の検討に基づく原著の抄録で確認した内容である。各リスク群の生存期間の数値は抄録の範囲外であり、主張に含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-2-B-③（原発性骨髄線維症、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-627 (id: Jlvnmao)；TBL-02-01-018 (id: JlAKpWo)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: ML-011
+  domain: ML
+  subdomain: 原発性骨髄線維症
+  assertion:
+    plain_statement_ja: 中間-2〜高リスクの骨髄線維症では、ルキソリチニブはプラセボと比べて24週時点の脾容積35%以上の縮小（41.9%対0.7%）と総症状スコア50%以上の改善（45.9%対5.3%）をもたらし、死亡も少なかった（ハザード比0.50）。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2561
+    source: Verstovsek S, Mesa RA, Gotlib J, et al. A double-blind, placebo-controlled trial of ruxolitinib for myelofibrosis. N Engl J Med. 2012;366(9):799-807.
+    doi: 10.1056/NEJMoa1110557
+    pmid: '22375971'
+    pmcid: PMC4822164
+    url: https://doi.org/10.1056/NEJMoa1110557
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: COMFORT-I試験の抄録で確認した数値である。有害事象で最も多かったのは貧血と血小板減少であった。ルキソリチニブは骨髄線維症の適応で2014年7月4日に国内承認されている（製造販売業者の資料で確認）。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-2-B-③（原発性骨髄線維症、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-627 (id: Jlvnmao)；TBL-02-01-018 (id: JlAKpWo)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: ML-012
+  domain: ML
+  subdomain: 本態性血小板血症
+  assertion:
+    plain_statement_ja: 本態性血小板血症のIPSET-thrombosisは、血栓症の既往2点、JAK2 V617F変異2点、60歳超1点、心血管リスク因子1点の合計点で血栓症リスクを低・中間・高の3群に分けるスコアであり、血栓発症率は低リスク群で年1.03%、高リスク群で年2.35%であった。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2562
+    source: Barbui T, Finazzi G, Carobbio A, et al. Development and validation of an International Prognostic Score of thrombosis in World Health Organization-essential thrombocythemia (IPSET-thrombosis). Blood. 2012;120(26):5128-5133.
+    doi: 10.1182/blood-2012-07-444067
+    pmid: '23033268'
+    pmcid: null
+    url: https://doi.org/10.1182/blood-2012-07-444067
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: WHO定義の本態性血小板血症891例に基づく原著の抄録で確認した内容であり、配点も抄録の記載に基づく。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-2-B-④（本態性血小板血症、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-626 (id: Jlvnmak)；TBL-02-01-021 (id: JlAKpW0)；TBL-02-01-015 (id: JlAKpWY)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: ML-013
+  domain: ML
+  subdomain: 本態性血小板血症
+  assertion:
+    plain_statement_ja: IPSET-thrombosisには、WHO定義の本態性血小板血症1,019例に基づく実臨床向けの改訂版があり、血栓症リスクの層別が見直された。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2563
+    source: Barbui T, Vannucchi AM, Buxhofer-Ausch V, et al. Practice-relevant revision of IPSET-thrombosis based on 1019 patients with WHO-defined essential thrombocythemia. Blood Cancer J. 2015;5(11):e369.
+    doi: 10.1038/bcj.2015.94
+    pmid: '26617062'
+    pmcid: PMC4670947
+    url: https://doi.org/10.1038/bcj.2015.94
+    source_license: CC BY 4.0（Crossref の license 欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 改訂版の書誌は確認したが、PubMedに抄録がなく、リスク群の再編の詳細は未確認であるため主張に含めていない。詳細はPMC全文（PMC4670947）で照合できる。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-2-B-④（本態性血小板血症、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-626 (id: Jlvnmak)；TBL-02-01-015 (id: JlAKpWY)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: ML-014
+  domain: ML
+  subdomain: 真性赤血球増加症
+  assertion:
+    plain_statement_ja: JAK2 V617F変異は後天性の体細胞変異であり、陽性率は真性赤血球増加症で97%、本態性血小板血症で57%、特発性骨髄線維症で50%であった。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2564
+    source: Baxter EJ, Scott LM, Campbell PJ, et al. Acquired mutation of the tyrosine kinase JAK2 in human myeloproliferative disorders. Lancet. 2005;365(9464):1054-1061.
+    doi: 10.1016/S0140-6736(05)71142-9
+    pmid: '15781101'
+    pmcid: null
+    url: https://doi.org/10.1016/S0140-6736(05)71142-9
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 原著の抄録で確認した数値であり、各疾患の例数は真性赤血球増加症73例、本態性血小板血症51例、特発性骨髄線維症16例と小さい。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-2-B-⑤（真性赤血球増加症、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-625 (id: Jlvnmac)；TBL-02-01-021 (id: JlAKpW0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: ML-015
+  domain: ML
+  subdomain: 真性赤血球増加症
+  assertion:
+    plain_statement_ja: ハイドロキシウレアに抵抗性または不耐容で脾腫のある真性赤血球増加症では、ルキソリチニブは標準治療と比べて、32週時点のヘマトクリット制御と脾容積35%以上の縮小を合わせた主要評価項目の達成率が高かった（21%対1%）。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2565
+    source: Vannucchi AM, Kiladjian JJ, Griesshammer M, et al. Ruxolitinib versus standard therapy for the treatment of polycythemia vera. N Engl J Med. 2015;372(5):426-435.
+    doi: 10.1056/NEJMoa1409002
+    pmid: '25629741'
+    pmcid: PMC4358820
+    url: https://doi.org/10.1056/NEJMoa1409002
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: RESPONSE試験の抄録で確認した数値である。内訳はヘマトクリット制御60%対20%、脾容積35%以上の縮小38%対1%であった。ルキソリチニブの真性赤血球増加症への効能追加（既存治療が効果不十分又は不適当な場合に限る）は2015年9月に国内承認されている（製造販売業者の資料で確認）。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-2-B-⑤（真性赤血球増加症、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-625 (id: Jlvnmac)；TBL-02-01-021 (id: JlAKpW0)；TBL-02-01-015 (id: JlAKpWY)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: ML-016
+  domain: ML
+  subdomain: 慢性好酸球性白血病
+  assertion:
+    plain_statement_ja: FIP1L1とPDGFRAの融合遺伝子は恒常的に活性化したチロシンキナーゼを作りイマチニブで阻害され、特発性好酸球増多症候群16例中9例に検出され、イマチニブを投与された11例中9例で3か月を超える奏効（好酸球数の正常化）が得られた。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2566
+    source: Cools J, DeAngelo DJ, Gotlib J, et al. A tyrosine kinase created by fusion of the PDGFRA and FIP1L1 genes as a therapeutic target of imatinib in idiopathic hypereosinophilic syndrome. N Engl J Med. 2003;348(13):1201-1214.
+    doi: 10.1056/NEJMoa025217
+    pmid: '12660384'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa025217
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 原著の抄録で確認した内容である。融合遺伝子は染色体4q12の間質性欠失により生じる。イマチニブは国内承認・保険適用のある薬剤だが、好酸球増多症候群・慢性好酸球性白血病に対する国内適応の有無は未確認である。慢性好酸球性白血病とチロシンキナーゼ融合遺伝子で定義される腫瘍群との切り分けはWHO分類第5版（HAEM5）のカテゴリ構成に基づく。別表1には本項目に対応する行がないため付けていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-2-B-⑥（慢性好酸球性白血病、c）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-02-01-007 (id: JlAKpV4)；TBL-02-01-021 (id: JlAKpW0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: ML-017
+  domain: ML
+  subdomain: 類白血病反応
+  assertion:
+    plain_statement_ja: 類白血病反応は、白血病以外の原因による50,000/µLを超える持続的な好中球性白血球増多であり、診断は慢性骨髄性白血病と慢性好中球性白血病の除外と、重症感染症、中毒、悪性腫瘍、重篤な出血、急性溶血などの基礎原因の検出から進める。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2567
+    source: Sakka V, Tsiodras S, Giamarellos-Bourboulis EJ, Giamarellou H. An update on the etiology and diagnostic evaluation of a leukemoid reaction. Eur J Intern Med. 2006;17(6):394-398.
+    doi: 10.1016/j.ejim.2006.04.004
+    pmid: '16962944'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ejim.2006.04.004
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 総説の抄録で確認した範囲であり、定義の閾値も同総説に基づく。この項目にはガイドライン級の一次資料は見当たらなかった。別表1には本項目に対応する行がないため付けていない。
+  curriculum:
+    kokushi: 医学各論 Ⅶ-2-C（類白血病反応、b）
+    core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；PS-02-02-01 (id: JkxnuPM)；PS-02-02-03 (id: JkxnuPU)；TBL-02-01-007 (id: JlAKpV4)；TBL-02-01-016 (id: JlAKpWg)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
