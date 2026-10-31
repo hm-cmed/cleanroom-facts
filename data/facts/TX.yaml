@@ -295,9 +295,9 @@
     pmid: null
     pmcid: null
     url: https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/470034_2219403G1020_1_03
-    source_license: PMDA 医薬品添付文書情報（規制機関の公式情報提供）
+    source_license: 添付文書（製造販売業者の著作物。PMDA の掲載で閲覧。CC 表示なし）
     legal_basis: B
-    source_class: GOV_JP
+    source_class: UNKNOWN
     corroboration: null
   uncertainty: 添付文書の効能・効果、効能又は効果に関連する注意、用法・用量、禁忌・注意の記載に基づく。source_class は規制機関の公式情報提供として GOV_JP としたが、添付文書の class の最終判定は取り込み側に委ねる。系統的レビュー（Penninga 2016）ではフルマゼニル群で重篤な有害事象（痙攣・不整脈）のリスク上昇が報告されており、ルーチンに使う薬ではなく、場面を選ぶ解毒薬として位置づけられる。
   curriculum:
@@ -313,6 +313,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: source_class を GOV_JP から UNKNOWN に変更（添付文書の作成者は製造販売業者で、PMDA は掲載のみ。NG-039〜047 と同じ扱い。L1、三原の承認による）。source_license の表記もあわせて変更
 - id: TX-010
   domain: TX
   subdomain: 向精神薬依存・中毒
@@ -470,9 +473,9 @@
     pmid: null
     pmcid: null
     url: null
-    source_license: PMDA 医薬品添付文書情報（規制機関の公式情報提供）
+    source_license: 添付文書（製造販売業者の著作物。PMDA の掲載で閲覧。CC 表示なし）
     legal_basis: B
-    source_class: GOV_JP
+    source_class: UNKNOWN
     corroboration: null
   uncertainty: 添付文書の効能・効果、用法・用量、注意の記載に基づく。source_class は規制機関の公式情報提供として GOV_JP としたが、添付文書の class の最終判定は取り込み側に委ねる。点鼻製剤や一般向けの配布の仕組みは、国内では確認できていない。
   curriculum:
@@ -488,6 +491,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: source_class を GOV_JP から UNKNOWN に変更（添付文書の作成者は製造販売業者で、PMDA は掲載のみ。NG-039〜047 と同じ扱い。L1、三原の承認による）。source_license の表記もあわせて変更
 - id: TX-015
   domain: TX
   subdomain: 麻薬依存・中毒

@@ -32827,11 +32827,14 @@
   license_note: null
   legacy_basis_tag: null
   legal_basis: B
-  source_class: GOV_JP
+  source_class: UNKNOWN
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: source_class を GOV_JP から UNKNOWN に変更（添付文書の作成者は製造販売業者で、PMDA は掲載のみ。NG-039〜047 と同じ扱い。L1、三原の承認による）
 - id: SRC-3979
   legacy_id: null
   title: 'Kerr GW, McGuffie AC, Wilkie S. Tricyclic antidepressant overdose: a review. Emerg Med J. 2001;18(4):236-241'
@@ -32902,11 +32905,14 @@
   license_note: null
   legacy_basis_tag: null
   legal_basis: B
-  source_class: GOV_JP
+  source_class: UNKNOWN
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: source_class を GOV_JP から UNKNOWN に変更（添付文書の作成者は製造販売業者で、PMDA は掲載のみ。NG-039〜047 と同じ扱い。L1、三原の承認による）
 - id: SRC-3984
   legacy_id: null
   title: 'Walley AY, Xuan Z, Hackman HH, et al. Opioid overdose rates and implementation of overdose education and nasal naloxone distribution in Massachusetts: interrupted time series analysis. BMJ. 2013;346:f174'
