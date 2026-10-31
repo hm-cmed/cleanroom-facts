@@ -491,10 +491,10 @@
 - 条件：region: 米国／study: 陰嚢内腫瘤の評価に関する総説
 - 不確実性：出典論文（2008年）の DOI は PubMed 収載情報に付与が確認できず null とした。PMCID も確認できず null とした。
 - 出典：Tiemstra JD, Kapoor S. Evaluation of scrotal masses. Am Fam Physician. 2008;78(10):1165-1170　[PMID 19035065](https://pubmed.ncbi.nlm.nih.gov/19035065/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅷ-10-B-④（精巣・精索水瘤、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-01-00-350 (id: JlvnmAI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-035&card_id=GU-035&version=46ddc4fc3a)　（版 `46ddc4fc3a`）
+- 出題基準：医学各論 Ⅷ-10-B-④（精巣・精索水瘤、a）；医学各論 Ⅵ-12-G-⑤（精巣水瘤、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-01-00-350 (id: JlvnmAI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-035&card_id=GU-035&version=94e4d8bc44)　（版 `94e4d8bc44`）
 
-**[ここまでの 1 件（GU-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-035&cards=GU-035%2046ddc4fc3a)**
+**[ここまでの 1 件（GU-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-035&cards=GU-035%2094e4d8bc44)**
 
 ---
 

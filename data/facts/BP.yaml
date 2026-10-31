@@ -2250,7 +2250,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)；TBL-01-00-293 (id: Jlvnl7Q)'
-    kokushi: 医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）
+    kokushi: 医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）；医学各論 Ⅵ-6-C-②（肝内胆管癌、a）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -2261,6 +2261,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-6-C-② を足した（医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a） → 医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）；医学各論 Ⅵ-6-C-②（肝内胆管癌、a））。三原の承認による
 - id: BP-066
   domain: BP
   subdomain: 胆道癌

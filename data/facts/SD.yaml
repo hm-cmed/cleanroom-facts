@@ -1245,7 +1245,7 @@
   uncertainty: 各病変の頻度や治療レジメンは出典の抄録の範囲を超えるため含めていない。皮膚腺病と硬結性紅斑の対応づけは出典の皮膚結核の分類（直接感染による病型と過敏反応による病型）に基づく。
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-093 (id: Jlvnlj4)'
-    kokushi: 医学各論 Ⅲ-3-K-③（皮膚腺病、c）
+    kokushi: 医学各論 Ⅲ-3-K-③（皮膚腺病、c）；医学各論 Ⅲ-3-K-④（硬結性紅斑、c）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -1256,6 +1256,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅲ-3-K-④ を足した（医学各論 Ⅲ-3-K-③（皮膚腺病、c） → 医学各論 Ⅲ-3-K-③（皮膚腺病、c）；医学各論 Ⅲ-3-K-④（硬結性紅斑、c））。三原の承認による
 - id: SD-038
   domain: SD
   subdomain: 白癬、カンジダ症
@@ -1723,7 +1726,7 @@
   uncertainty: 出典は脛骨前粘液水腫の総説であり、アミロイド苔癬についての記述は出典の範囲外であるため、定義的な内容にとどめ、数値は入れていない。脛骨前粘液水腫の治療選択肢の詳細は本カードには含めていない。
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)'
-    kokushi: 医学各論 Ⅲ-3-R-②（脛骨前粘液水腫、c）
+    kokushi: 医学各論 Ⅲ-3-R-②（脛骨前粘液水腫、c）；医学各論 Ⅲ-3-S-①（アミロイド苔癬、b）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -1734,3 +1737,6 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅲ-3-S-① を足した（医学各論 Ⅲ-3-R-②（脛骨前粘液水腫、c） → 医学各論 Ⅲ-3-R-②（脛骨前粘液水腫、c）；医学各論 Ⅲ-3-S-①（アミロイド苔癬、b））。三原の承認による

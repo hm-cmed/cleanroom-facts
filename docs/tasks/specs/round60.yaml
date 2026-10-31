@@ -1,7 +1,7 @@
 # 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round58_SUPP.md
 # 既存の接頭辞は続き番号（--append で取り込む）。id_start は登録時点の最大番号＋1
 round: 60
-name: 補充 第60回（皮膚・頭頸部と循環器：EY・RE・AR・HF・HT・MP・VS）
+name: 補充 第60回（皮膚・頭頸部と循環器：EY・RE・AR・HF・HT・MP・VS・VD、小児外科の追加：PE）
 id_start:
   EY: 55
   RE: 29
@@ -10,12 +10,14 @@ id_start:
   HT: 21
   MP: 33
   VS: 47
+  VD: 33
+  PE: 32
 src_range:
 - 4371
 - 4430
 target_cards:
-- 13
-- 30
+- 16
+- 45
 targets:
 - code: Ⅲ-4-C-④
   name: 外転神経麻痺
@@ -69,3 +71,15 @@ targets:
   name: リンパ浮腫
   level: b
   prefix: VS
+- code: Ⅴ-4-C-③
+  name: 連合弁膜症
+  level: b
+  prefix: VD
+- code: Ⅵ-12-A-①
+  name: 先天性食道閉鎖症
+  level: b
+  prefix: PE
+- code: Ⅵ-12-G-①
+  name: 鼠径ヘルニア
+  level: a
+  prefix: PE

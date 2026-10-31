@@ -471,10 +471,10 @@
 - 条件：region: 国際（症例集積）／study: スコーピングレビュー
 - 不確実性：数値はいずれも抄録に記載された症例集積（135例）の結果である。本資料は第IX〜XII脳神経の合併麻痺を対象としており、軟口蓋麻痺単独の原因や頻度は確認できなかったため含めていない。症例報告の集積であるため、頻度の解釈には報告バイアスの可能性がある。
 - 出典：Aguilera-Pena MP, Castiblanco MA, Osejo-Arcos V, Aponte-Caballero R, Gutierrez-Gomez S, Abaunza-Camacho JF, Guevara-Moriones N, Benavides-Burbano CA, Riveros-Castillo WM, Saavedra JM. Collet-Sicard syndrome: a scoping review. Neurosurg Rev. 2023;46(1):244.　[DOI 10.1007/s10143-023-02145-7](https://doi.org/10.1007/s10143-023-02145-7)　[PMID 37707587](https://pubmed.ncbi.nlm.nih.gov/37707587/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅲ-8-C-⑨（軟口蓋麻痺、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-044&card_id=OT-044&version=297492d295)　（版 `297492d295`）
+- 出題基準：医学各論 Ⅲ-8-C-⑨（軟口蓋麻痺、c）；医学各論 Ⅲ-8-C-⑩（頸静脈孔症候群、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-044&card_id=OT-044&version=ba4e425104)　（版 `ba4e425104`）
 
-**[ここまでの 10 件（OT-035〜OT-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OT-035%E3%80%9COT-044&cards=OT-035%205246fdf8cf%0AOT-036%2027097ba91e%0AOT-037%2009ffa5985e%0AOT-038%2098ee4c070c%0AOT-039%206d081641d2%0AOT-040%205662e34ec7%0AOT-041%20c4d959e5d8%0AOT-042%20dea3979f09%0AOT-043%20a3958bd7e5%0AOT-044%20297492d295)**
+**[ここまでの 10 件（OT-035〜OT-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OT-035%E3%80%9COT-044&cards=OT-035%205246fdf8cf%0AOT-036%2027097ba91e%0AOT-037%2009ffa5985e%0AOT-038%2098ee4c070c%0AOT-039%206d081641d2%0AOT-040%205662e34ec7%0AOT-041%20c4d959e5d8%0AOT-042%20dea3979f09%0AOT-043%20a3958bd7e5%0AOT-044%20ba4e425104)**
 
 ---
 

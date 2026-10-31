@@ -1071,7 +1071,7 @@
     corroboration: null
   uncertainty: 現在使われている修正Bell分類（WalshとKliegmanによる修正を含む）の各病期の定義表そのものは本文で未照合のため、各病期の定義は主張に入れていない。壊死性腸炎の疫学（極低出生体重児における発生率など）の数値は、照合済みの出典では確認できていない
   curriculum:
-    kokushi: 医学各論 Ⅰ-3-H-⑩（壊死性腸炎、c）
+    kokushi: 医学各論 Ⅰ-3-H-⑩（壊死性腸炎、c）；医学各論 Ⅵ-12-C-②（新生児壊死性腸炎、b）
     core_curriculum: 'PS-02-12-04 (id: Jli53IM)'
   publication_info:
     created: '2026-10-31'
@@ -1083,3 +1083,6 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/49_pn_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-12-C-② を足した（医学各論 Ⅰ-3-H-⑩（壊死性腸炎、c） → 医学各論 Ⅰ-3-H-⑩（壊死性腸炎、c）；医学各論 Ⅵ-12-C-②（新生児壊死性腸炎、b））。三原の承認による

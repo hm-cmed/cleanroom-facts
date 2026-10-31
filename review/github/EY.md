@@ -97,8 +97,8 @@
 - 条件：region: 全般／study: 総説
 - 不確実性：薬剤（人工涙液・潤滑軟膏）について、国内での承認・保険適用の確認状況：未確認。出典は1998年の総説であり、主張は定義・症状・眼表面保護と手術という今も変わらない基本方針に限定した。術式別の成功率など最近の外科エビデンスは含めていない。DOI は当時の同誌論文に付与がなく null とした。
 - 出典：Carter SR. Eyelid disorders: diagnosis and management. Am Fam Physician. 1998;57(11):2695-2702　[PMID 9636333](https://pubmed.ncbi.nlm.nih.gov/9636333/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅲ-5-B-④（眼瞼内反、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-007&card_id=EY-007&version=bd9c670990)　（版 `bd9c670990`）
+- 出題基準：医学各論 Ⅲ-5-B-④（眼瞼内反、b）；医学各論 Ⅲ-5-B-⑤（眼瞼外反、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-007&card_id=EY-007&version=1c4b9fbacc)　（版 `1c4b9fbacc`）
 
 ### EY-008　下書き（出典の照合前）
 
@@ -110,7 +110,7 @@
 - 出題基準：－　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-008&card_id=EY-008&version=4217171eb3)　（版 `4217171eb3`）
 
-**[ここまでの 4 件（EY-005〜EY-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-005%E3%80%9CEY-008&cards=EY-005%20162e72a0d7%0AEY-006%200a1c7f8eaa%0AEY-007%20bd9c670990%0AEY-008%204217171eb3)**
+**[ここまでの 4 件（EY-005〜EY-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-005%E3%80%9CEY-008&cards=EY-005%20162e72a0d7%0AEY-006%200a1c7f8eaa%0AEY-007%201c4b9fbacc%0AEY-008%204217171eb3)**
 
 ---
 

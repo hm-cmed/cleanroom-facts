@@ -23,7 +23,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -43,6 +43,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-002
   domain: HP
   subdomain: null
@@ -66,7 +69,7 @@
   uncertainty: DOI・PMIDはPubMedのコメント記事（PMID 27210791）とClinicalTrials.gov NCT04901663の文献リストで確認。ライセンスは要確認
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -86,6 +89,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-003
   domain: HP
   subdomain: null
@@ -109,7 +115,7 @@
   uncertainty: 数値は原著本文で確認済み。ライセンスは要確認
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -126,6 +132,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-004
   domain: HP
   subdomain: null
@@ -149,7 +158,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -169,6 +178,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-005
   domain: HP
   subdomain: null
@@ -191,7 +203,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -211,6 +223,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-006
   domain: HP
   subdomain: null
@@ -235,7 +250,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -255,6 +270,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-007
   domain: HP
   subdomain: null
@@ -278,7 +296,7 @@
   uncertainty: 用量は保険診療上の用法と照合を要確認
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -298,6 +316,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-008
   domain: HP
   subdomain: null
@@ -321,7 +342,7 @@
   uncertainty: 推奨文の詳細は二次文献（Microbiota journal 2023 review）経由。原著で要確認
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -341,6 +362,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-009
   domain: HP
   subdomain: null
@@ -364,7 +388,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -384,6 +408,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-010
   domain: HP
   subdomain: null
@@ -405,7 +432,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -425,6 +452,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-011
   domain: HP
   subdomain: null
@@ -450,7 +480,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -470,6 +500,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-012
   domain: HP
   subdomain: null
@@ -494,7 +527,7 @@
   uncertainty: 日本のJSHR推奨期間との異同を要確認
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -514,6 +547,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-013
   domain: HP
   subdomain: null
@@ -535,7 +571,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -555,6 +591,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-014
   domain: HP
   subdomain: null
@@ -578,7 +617,7 @@
   uncertainty: RACに関する誤解例は専門医確認を要する
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -598,6 +637,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-015
   domain: HP
   subdomain: null
@@ -620,7 +662,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -640,6 +682,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-016
   domain: HP
   subdomain: null
@@ -663,7 +708,7 @@
   uncertainty: 推奨の強さとエビデンスレベルは要確認
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -683,6 +728,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-017
   domain: HP
   subdomain: null
@@ -704,7 +752,7 @@
   uncertainty: 『症状の有無にかかわらず』の表現は原著で要確認
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -721,6 +769,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-018
   domain: HP
   subdomain: null
@@ -744,7 +795,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -764,6 +815,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-019
   domain: HP
   subdomain: null
@@ -785,7 +839,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -805,6 +859,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
 - id: HP-020
   domain: HP
   subdomain: null
@@ -827,7 +884,7 @@
   uncertainty: 該当CQ番号、寛解率の数値、t(11;18)陽性例の扱いは要確認。完全寛解率の一次ソース（メタ解析PMID）は未取得
   curriculum:
     core_curriculum: null
-    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）
+    kokushi: 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -847,3 +904,6 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-⑧ を足した（なし → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による

@@ -376,8 +376,8 @@
 - 鑑別・補足：CIPO（神経節細胞は存在する）
 - よくある誤解：ヒルシュスプルング病では神経節細胞が過剰になる
 - 出典：厚生労働省 指定難病291『ヒルシュスプルング病（全結腸型又は小腸型）』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001212061.pdf)（区分 GOV_JP）
-- 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-276 (id: Jlvnl4c)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-027&card_id=NG-027&version=45a405c57e)　（版 `45a405c57e`）
+- 出題基準：医学各論 Ⅵ-12-C-⑦（Hirschsprung病<先天性巨大結腸症、腸管無神経節症>、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-276 (id: Jlvnl4c)；TBL-02-07-021 (id: JlAKpkY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-027&card_id=NG-027&version=3014fa6f7b)　（版 `3014fa6f7b`）
 
 ### NG-028　下書き（出典の照合前）
 
@@ -386,8 +386,8 @@
 - 条件：region: 日本
 - よくある誤解：ヒルシュスプルング病は成人の便秘では考えなくてよい
 - 出典：厚生労働省 指定難病291『ヒルシュスプルング病（全結腸型又は小腸型）』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001212061.pdf)（区分 GOV_JP）
-- 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-276 (id: Jlvnl4c)；TBL-02-07-021 (id: JlAKpkY)；TBL-02-07-024 (id: JlAKpko)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-028&card_id=NG-028&version=2ba0561fce)　（版 `2ba0561fce`）
+- 出題基準：医学各論 Ⅵ-12-C-⑦（Hirschsprung病<先天性巨大結腸症、腸管無神経節症>、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-276 (id: Jlvnl4c)；TBL-02-07-021 (id: JlAKpkY)；TBL-02-07-024 (id: JlAKpko)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-028&card_id=NG-028&version=b546c9470a)　（版 `b546c9470a`）
 
 ### NG-029　下書き（出典の照合前）
 
@@ -396,8 +396,8 @@
 - 条件：region: 日本／criteria: 指定難病の診断基準
 - よくある誤解：ヒルシュスプルング病は注腸造影だけで確定できる
 - 出典：厚生労働省 指定難病291『ヒルシュスプルング病（全結腸型又は小腸型）』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001212061.pdf)（区分 GOV_JP）
-- 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-276 (id: Jlvnl4c)；TBL-02-07-031 (id: JlAKplI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-029&card_id=NG-029&version=0982284069)　（版 `0982284069`）
+- 出題基準：医学各論 Ⅵ-12-C-⑦（Hirschsprung病<先天性巨大結腸症、腸管無神経節症>、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-276 (id: Jlvnl4c)；TBL-02-07-031 (id: JlAKplI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-029&card_id=NG-029&version=3179abefc7)　（版 `3179abefc7`）
 
 ### NG-030　下書き（出典の照合前）
 
@@ -407,10 +407,10 @@
 - よくある誤解：ヒルシュスプルング病は病型にかかわらず予後良好
 - 不確実性：出典が引用した全国調査の値（二次資料経由）
 - 出典：厚生労働省 指定難病291『ヒルシュスプルング病（全結腸型又は小腸型）』概要・診断基準等　[リンク](https://www.mhlw.go.jp/content/10905000/001212061.pdf)（区分 GOV_JP）
-- 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-276 (id: Jlvnl4c)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-030&card_id=NG-030&version=63f87fcb67)　（版 `63f87fcb67`）
+- 出題基準：医学各論 Ⅵ-12-C-⑦（Hirschsprung病<先天性巨大結腸症、腸管無神経節症>、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-276 (id: Jlvnl4c)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-030&card_id=NG-030&version=ca8c5083d6)　（版 `ca8c5083d6`）
 
-**[ここまでの 4 件（NG-027〜NG-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-027%E3%80%9CNG-030&cards=NG-027%2045a405c57e%0ANG-028%202ba0561fce%0ANG-029%200982284069%0ANG-030%2063f87fcb67)**
+**[ここまでの 4 件（NG-027〜NG-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-027%E3%80%9CNG-030&cards=NG-027%203014fa6f7b%0ANG-028%20b546c9470a%0ANG-029%203179abefc7%0ANG-030%20ca8c5083d6)**
 
 ---
 

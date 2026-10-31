@@ -1530,7 +1530,7 @@
   uncertainty: 数値はいずれも抄録に記載された症例集積（135例）の結果である。本資料は第IX〜XII脳神経の合併麻痺を対象としており、軟口蓋麻痺単独の原因や頻度は確認できなかったため含めていない。症例報告の集積であるため、頻度の解釈には報告バイアスの可能性がある。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
-    kokushi: 医学各論 Ⅲ-8-C-⑨（軟口蓋麻痺、c）
+    kokushi: 医学各論 Ⅲ-8-C-⑨（軟口蓋麻痺、c）；医学各論 Ⅲ-8-C-⑩（頸静脈孔症候群、c）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -1541,3 +1541,6 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅲ-8-C-⑩ を足した（医学各論 Ⅲ-8-C-⑨（軟口蓋麻痺、c） → 医学各論 Ⅲ-8-C-⑨（軟口蓋麻痺、c）；医学各論 Ⅲ-8-C-⑩（頸静脈孔症候群、c））。三原の承認による

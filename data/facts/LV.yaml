@@ -3268,7 +3268,7 @@
   uncertainty: 出典の最終更新は2012年。日本人の頻度は未確認
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)'
-    kokushi: 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）
+    kokushi: 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b）；医学各論 Ⅹ-9-D-①（体質性黄疸、b）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3285,6 +3285,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-12-E-② を足した（医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a） → 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅹ-9-D-① を足した（医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b） → 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b）；医学各論 Ⅹ-9-D-①（体質性黄疸、b））。三原の承認による
 - id: LV-067
   domain: LV
   subdomain: 体質性黄疸
@@ -3314,7 +3320,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)'
-    kokushi: 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）
+    kokushi: 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b）；医学各論 Ⅹ-9-D-①（体質性黄疸、b）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -3331,6 +3337,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-12-E-② を足した（医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a） → 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅹ-9-D-① を足した（医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b） → 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b）；医学各論 Ⅹ-9-D-①（体質性黄疸、b））。三原の承認による
 - id: LV-068
   domain: LV
   subdomain: 急性肝不全
@@ -4549,7 +4561,7 @@
   uncertainty: 抱合型ビリルビン優位であることは出典本文に明記されていない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)'
-    kokushi: 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）
+    kokushi: 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b）；医学各論 Ⅹ-9-D-①（体質性黄疸、b）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -4566,6 +4578,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-12-E-② を足した（医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a） → 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅹ-9-D-① を足した（医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b） → 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b）；医学各論 Ⅹ-9-D-①（体質性黄疸、b））。三原の承認による
 - id: LV-094
   domain: LV
   subdomain: 体質性黄疸
@@ -4595,7 +4613,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)'
-    kokushi: 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）
+    kokushi: 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b）；医学各論 Ⅹ-9-D-①（体質性黄疸、b）
   publication_info:
     created: '2026-10-13'
     verifier: null
@@ -4612,6 +4630,12 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-12-E-② を足した（医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a） → 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅹ-9-D-① を足した（医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b） → 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b）；医学各論 Ⅹ-9-D-①（体質性黄疸、b））。三原の承認による
 - id: LV-095
   domain: LV
   subdomain: 薬物性肝障害

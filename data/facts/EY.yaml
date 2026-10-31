@@ -232,7 +232,7 @@
   uncertainty: 薬剤（人工涙液・潤滑軟膏）について、国内での承認・保険適用の確認状況：未確認。出典は1998年の総説であり、主張は定義・症状・眼表面保護と手術という今も変わらない基本方針に限定した。術式別の成功率など最近の外科エビデンスは含めていない。DOI は当時の同誌論文に付与がなく null とした。
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
-    kokushi: 医学各論 Ⅲ-5-B-④（眼瞼内反、b）
+    kokushi: 医学各論 Ⅲ-5-B-④（眼瞼内反、b）；医学各論 Ⅲ-5-B-⑤（眼瞼外反、b）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -243,6 +243,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅲ-5-B-⑤ を足した（医学各論 Ⅲ-5-B-④（眼瞼内反、b） → 医学各論 Ⅲ-5-B-④（眼瞼内反、b）；医学各論 Ⅲ-5-B-⑤（眼瞼外反、b））。三原の承認による
 - id: EY-008
   domain: EY
   subdomain: 眼瞼

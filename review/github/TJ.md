@@ -563,8 +563,8 @@
 - 条件：region: 国際／対象: 四肢血管損傷患者
 - 不確実性：hard signs の列挙はガイドライン本文の評価アルゴリズムに基づく（抄録は身体所見の重要性と CT アンギオの位置づけまで）。 （出典内の位置：抄録およびガイドライン本文の評価アルゴリズム）
 - 出典：Kobayashi L, Coimbra R, Goes AMO, et al. American Association for the Surgery of Trauma-World Society of Emergency Surgery guidelines on diagnosis and management of peripheral vascular injuries. J Trauma Acute Care Surg. 2020;89(6):e175-e182　[DOI 10.1097/TA.0000000000002967](https://doi.org/10.1097/TA.0000000000002967)　[PMID 33230048](https://pubmed.ncbi.nlm.nih.gov/33230048/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-10-E-②（四肢血管損傷、a）　コアカリ：TBL-01-00-118 (id: Jlvnlm8)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-045&card_id=TJ-045&version=bbc6394859)　（版 `bbc6394859`）
+- 出題基準：医学各論 Ⅸ-10-E-②（四肢血管損傷、a）；医学各論 Ⅴ-6-G-②（血管損傷、c）　コアカリ：TBL-01-00-118 (id: Jlvnlm8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-045&card_id=TJ-045&version=98cde8b1f9)　（版 `98cde8b1f9`）
 
 ### TJ-046　下書き（出典の照合前）
 
@@ -573,10 +573,10 @@
 - 条件：region: 国際／対象: 四肢血管損傷患者
 - 不確実性：戦傷コホートの結果であり、市民外傷への外挿には注意を要する。損傷肢の虚血許容時間の具体的な数値は本出典では確認できなかったため、カードには含めていない。 （出典内の位置：抄録の Results・Conclusion）
 - 出典：Gifford SM, Aidinian G, Clouse WD, et al. Effect of temporary shunting on extremity vascular injury: an outcome analysis from the Global War on Terror vascular injury initiative. J Vasc Surg. 2009;50(3):595-600　[DOI 10.1016/j.jvs.2009.03.051](https://doi.org/10.1016/j.jvs.2009.03.051)　[PMID 19595542](https://pubmed.ncbi.nlm.nih.gov/19595542/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-10-E-②（四肢血管損傷、a）　コアカリ：TBL-01-00-118 (id: Jlvnlm8)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-046&card_id=TJ-046&version=8cda342f03)　（版 `8cda342f03`）
+- 出題基準：医学各論 Ⅸ-10-E-②（四肢血管損傷、a）；医学各論 Ⅴ-6-G-②（血管損傷、c）　コアカリ：TBL-01-00-118 (id: Jlvnlm8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-046&card_id=TJ-046&version=4400e7b7c9)　（版 `4400e7b7c9`）
 
-**[ここまでの 2 件（TJ-045〜TJ-046）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TJ-045%E3%80%9CTJ-046&cards=TJ-045%20bbc6394859%0ATJ-046%208cda342f03)**
+**[ここまでの 2 件（TJ-045〜TJ-046）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TJ-045%E3%80%9CTJ-046&cards=TJ-045%2098cde8b1f9%0ATJ-046%204400e7b7c9)**
 
 ---
 

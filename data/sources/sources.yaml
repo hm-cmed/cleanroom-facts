@@ -33558,3 +33558,438 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4301
+  legacy_id: null
+  title: 'Pandya S, Heiss K. Pyloric stenosis in pediatric surgery: an evidence-based review. Surg Clin North Am. 2012;92(3):527-539.'
+  citation: 'Pandya S, Heiss K. Pyloric stenosis in pediatric surgery: an evidence-based review. Surg Clin North Am. 2012;92(3):527-539.'
+  doi: 10.1016/j.suc.2012.03.006
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4302
+  legacy_id: null
+  title: 'Takeuchi M, Yasunaga H, Horiguchi H, Hashimoto H, Matsuda S. Pyloromyotomy versus i.v. atropine therapy for the treatment of infantile pyloric stenosis: nationwide hospital discharge database analysis. Pediatr Int. 2013;55(4):488-491.'
+  citation: 'Takeuchi M, Yasunaga H, Horiguchi H, Hashimoto H, Matsuda S. Pyloromyotomy versus i.v. atropine therapy for the treatment of infantile pyloric stenosis: nationwide hospital discharge database analysis. Pediatr Int. 2013;55(4):488-491.'
+  doi: 10.1111/ped.12100
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4303
+  legacy_id: null
+  title: 'Bethell GS, Long AM, Knight M, Hall NJ; BAPS-CASS. Congenital duodenal obstruction in the UK: a population-based study. Arch Dis Child Fetal Neonatal Ed. 2020;105(2):178-183.'
+  citation: 'Bethell GS, Long AM, Knight M, Hall NJ; BAPS-CASS. Congenital duodenal obstruction in the UK: a population-based study. Arch Dis Child Fetal Neonatal Ed. 2020;105(2):178-183.'
+  doi: 10.1136/archdischild-2019-317085
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4304
+  legacy_id: null
+  title: 'Bethell GS, Long AM, Knight M, Hall NJ; BAPS-CASS. One-year outcomes of congenital duodenal obstruction: a population-based study. J Pediatr Gastroenterol Nutr. 2021;72(2):239-243.'
+  citation: 'Bethell GS, Long AM, Knight M, Hall NJ; BAPS-CASS. One-year outcomes of congenital duodenal obstruction: a population-based study. J Pediatr Gastroenterol Nutr. 2021;72(2):239-243.'
+  doi: 10.1097/MPG.0000000000002921
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4305
+  legacy_id: null
+  title: 'Guarino A, Ashkenazi S, Gendrel D, Lo Vecchio A, Shamir R, Szajewska H. European Society for Pediatric Gastroenterology, Hepatology, and Nutrition/European Society for Pediatric Infectious Diseases evidence-based guidelines for the management of acute gastroenteritis in children in Europe: update 2014. J Pediatr Gastroenterol Nutr. 2014;59(1):132-152.'
+  citation: 'Guarino A, Ashkenazi S, Gendrel D, Lo Vecchio A, Shamir R, Szajewska H. European Society for Pediatric Gastroenterology, Hepatology, and Nutrition/European Society for Pediatric Infectious Diseases evidence-based guidelines for the management of acute gastroenteritis in children in Europe: update 2014. J Pediatr Gastroenterol Nutr. 2014;59(1):132-152.'
+  doi: 10.1097/MPG.0000000000000375
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4306
+  legacy_id: null
+  title: 日本小児救急医学会 監修. エビデンスに基づいた小児腸重積症の診療ガイドライン 改訂第2版. へるす出版. 2022.
+  citation: 日本小児救急医学会 監修. エビデンスに基づいた小児腸重積症の診療ガイドライン 改訂第2版. へるす出版. 2022.
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4307
+  legacy_id: null
+  title: Ito Y, Kusakawa I, Murata Y, et al.; Guideline Committee of the Japanese Society of Emergency Pediatrics. Japanese guidelines for the management of intussusception in children, 2011. Pediatr Int. 2012;54(6):948-958.
+  citation: Ito Y, Kusakawa I, Murata Y, et al.; Guideline Committee of the Japanese Society of Emergency Pediatrics. Japanese guidelines for the management of intussusception in children, 2011. Pediatr Int. 2012;54(6):948-958.
+  doi: 10.1111/j.1442-200X.2012.03622_1.x
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4308
+  legacy_id: null
+  title: Sadigh G, Zou KH, Razavi SA, Khan R, Applegate KE. Meta-analysis of air versus liquid enema for intussusception reduction in children. AJR Am J Roentgenol. 2015;205(5):W542-W549.
+  citation: Sadigh G, Zou KH, Razavi SA, Khan R, Applegate KE. Meta-analysis of air versus liquid enema for intussusception reduction in children. AJR Am J Roentgenol. 2015;205(5):W542-W549.
+  doi: 10.2214/AJR.14.14060
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4309
+  legacy_id: null
+  title: 'Schmedding A, Hutter M, Gfroerer S, Rolle U. Jejunoileal atresia: a national cohort study. Front Pediatr. 2021;9:665022.'
+  citation: 'Schmedding A, Hutter M, Gfroerer S, Rolle U. Jejunoileal atresia: a national cohort study. Front Pediatr. 2021;9:665022.'
+  doi: 10.3389/fped.2021.665022
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4310
+  legacy_id: null
+  title: Bethell GS, Hughes B, Varik RS, et al. Management and outcomes of jejunoileal atresia within the United Kingdom. J Pediatr Surg. 2025;60(7):162334.
+  citation: Bethell GS, Hughes B, Varik RS, et al. Management and outcomes of jejunoileal atresia within the United Kingdom. J Pediatr Surg. 2025;60(7):162334.
+  doi: 10.1016/j.jpedsurg.2025.162334
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4311
+  legacy_id: null
+  title: 'Shinar S, et al. Fetal Meconium Peritonitis - Prenatal Findings and Postnatal Outcome: A Case Series, Systematic Review, and Meta-Analysis. Ultraschall Med. 2022;43(2):194-203.'
+  citation: 'Shinar S, et al. Fetal Meconium Peritonitis - Prenatal Findings and Postnatal Outcome: A Case Series, Systematic Review, and Meta-Analysis. Ultraschall Med. 2022;43(2):194-203.'
+  doi: 10.1055/a-1194-4363
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4312
+  legacy_id: null
+  title: Nam SH, Kim SC, Kim DY, et al. Experience with meconium peritonitis. J Pediatr Surg. 2007;42(11):1822-1825.
+  citation: Nam SH, Kim SC, Kim DY, et al. Experience with meconium peritonitis. J Pediatr Surg. 2007;42(11):1822-1825.
+  doi: 10.1016/j.jpedsurg.2007.07.006
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4313
+  legacy_id: null
+  title: 日本小児外科学会 編. 腸回転異常症診療ガイドライン. 東京医学社. 2022.
+  citation: 日本小児外科学会 編. 腸回転異常症診療ガイドライン. 東京医学社. 2022.
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4314
+  legacy_id: null
+  title: Wood RJ, Levitt MA. Anorectal Malformations. Clin Colon Rectal Surg. 2018;31(2):61-70.
+  citation: Wood RJ, Levitt MA. Anorectal Malformations. Clin Colon Rectal Surg. 2018;31(2):61-70.
+  doi: 10.1055/s-0037-1609020
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4315
+  legacy_id: null
+  title: Holschneider A, Hutson J, Peña A, et al. Preliminary report on the International Conference for the Development of Standards for the Treatment of Anorectal Malformations. J Pediatr Surg. 2005;40(10):1521-1526.
+  citation: Holschneider A, Hutson J, Peña A, et al. Preliminary report on the International Conference for the Development of Standards for the Treatment of Anorectal Malformations. J Pediatr Surg. 2005;40(10):1521-1526.
+  doi: 10.1016/j.jpedsurg.2005.08.002
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4316
+  legacy_id: null
+  title: 'Fawaz R, et al. Guideline for the Evaluation of Cholestatic Jaundice in Infants: Joint Recommendations of NASPGHAN and ESPGHAN. J Pediatr Gastroenterol Nutr. 2017;64(1):154-168'
+  citation: 'Fawaz R, et al. Guideline for the Evaluation of Cholestatic Jaundice in Infants: Joint Recommendations of NASPGHAN and ESPGHAN. J Pediatr Gastroenterol Nutr. 2017;64(1):154-168'
+  doi: 10.1097/MPG.0000000000001334
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4317
+  legacy_id: null
+  title: Götze T, et al. Neonatal Cholestasis – Differential Diagnoses, Current Diagnostic Procedures, and Treatment. Front Pediatr. 2015;3:43
+  citation: Götze T, et al. Neonatal Cholestasis – Differential Diagnoses, Current Diagnostic Procedures, and Treatment. Front Pediatr. 2015;3:43
+  doi: 10.3389/fped.2015.00043
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4318
+  legacy_id: null
+  title: 'Meyers RL, et al. Risk-stratified staging in paediatric hepatoblastoma: a unified analysis from the Children''s Hepatic Tumors International Collaboration. Lancet Oncol. 2017;18(1):122-131'
+  citation: 'Meyers RL, et al. Risk-stratified staging in paediatric hepatoblastoma: a unified analysis from the Children''s Hepatic Tumors International Collaboration. Lancet Oncol. 2017;18(1):122-131'
+  doi: 10.1016/S1470-2045(16)30598-8
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4319
+  legacy_id: null
+  title: 'Hishiki T, et al. Outcome of hepatoblastomas treated using the Japanese Study Group for Pediatric Liver Tumor (JPLT) protocol-2: Report from the JPLT. Pediatr Surg Int. 2011;27(1):1-8'
+  citation: 'Hishiki T, et al. Outcome of hepatoblastomas treated using the Japanese Study Group for Pediatric Liver Tumor (JPLT) protocol-2: Report from the JPLT. Pediatr Surg Int. 2011;27(1):1-8'
+  doi: 10.1007/s00383-010-2708-0
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4320
+  legacy_id: null
+  title: Okubo R, Nio M, Sasaki H, Wada M. Japanese biliary atresia registry. World J Pediatr Surg. 2025;8(2):e001024
+  citation: Okubo R, Nio M, Sasaki H, Wada M. Japanese biliary atresia registry. World J Pediatr Surg. 2025;8(2):e001024
+  doi: 10.1136/wjps-2025-001024
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4321
+  legacy_id: null
+  title: 日本胆道閉鎖症研究会（編）. 胆道閉鎖症診療ガイドライン 第2版. へるす出版, 2024
+  citation: 日本胆道閉鎖症研究会（編）. 胆道閉鎖症診療ガイドライン 第2版. へるす出版, 2024
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4322
+  legacy_id: null
+  title: Zenitani M, Nose S, Oue T. Prevalence of urachal remnants in children according to age and their anatomic variants. Pediatr Surg Int. 2022;38(10):1495-1500
+  citation: Zenitani M, Nose S, Oue T. Prevalence of urachal remnants in children according to age and their anatomic variants. Pediatr Surg Int. 2022;38(10):1495-1500
+  doi: 10.1007/s00383-022-05183-2
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4323
+  legacy_id: null
+  title: Gleason JM, et al. A comprehensive review of pediatric urachal anomalies and predictive analysis for adult urachal adenocarcinoma. J Urol. 2015;193(2):632-636
+  citation: Gleason JM, et al. A comprehensive review of pediatric urachal anomalies and predictive analysis for adult urachal adenocarcinoma. J Urol. 2015;193(2):632-636
+  doi: 10.1016/j.juro.2014.09.004
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4324
+  legacy_id: null
+  title: 中神智和, ほか. 臍ヘルニアに対するスポンジ圧迫療法の検討. 日本小児外科学会雑誌. 2018;54(2):242-247
+  citation: 中神智和, ほか. 臍ヘルニアに対するスポンジ圧迫療法の検討. 日本小児外科学会雑誌. 2018;54(2):242-247
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4325
+  legacy_id: null
+  title: 'Zens T, Nichol PF, Cartmill R, Kohler JE. Management of asymptomatic pediatric umbilical hernias: a systematic review. J Pediatr Surg. 2017;52(11):1723-1731'
+  citation: 'Zens T, Nichol PF, Cartmill R, Kohler JE. Management of asymptomatic pediatric umbilical hernias: a systematic review. J Pediatr Surg. 2017;52(11):1723-1731'
+  doi: 10.1016/j.jpedsurg.2017.07.016
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4326
+  legacy_id: null
+  title: Corey KM, et al. Frequency of anomalies and hospital outcomes in infants with gastroschisis and omphalocele. Early Hum Dev. 2014;90(8):421-424
+  citation: Corey KM, et al. Frequency of anomalies and hospital outcomes in infants with gastroschisis and omphalocele. Early Hum Dev. 2014;90(8):421-424
+  doi: 10.1016/j.earlhumdev.2014.05.006
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4327
+  legacy_id: null
+  title: 'Hijkoop A, et al. Omphalocele: from diagnosis to growth and development at 2 years of age. Arch Dis Child Fetal Neonatal Ed. 2019;104(1):F18-F23'
+  citation: 'Hijkoop A, et al. Omphalocele: from diagnosis to growth and development at 2 years of age. Arch Dis Child Fetal Neonatal Ed. 2019;104(1):F18-F23'
+  doi: 10.1136/archdischild-2017-314700
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4328
+  legacy_id: null
+  title: 'Bhat V, Moront M, Bhandari V. Gastroschisis: A State-of-the-Art Review. Children (Basel). 2020;7(12):302'
+  citation: 'Bhat V, Moront M, Bhandari V. Gastroschisis: A State-of-the-Art Review. Children (Basel). 2020;7(12):302'
+  doi: 10.3390/children7120302
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から
+- id: SRC-4329
+  legacy_id: null
+  title: 'Hawkins RB, et al. Immediate versus silo closure for gastroschisis: Results of a large multicenter study. J Pediatr Surg. 2020;55(7):1280-1285'
+  citation: 'Hawkins RB, et al. Immediate versus silo closure for gastroschisis: Results of a large multicenter study. J Pediatr Surg. 2020;55(7):1280-1285'
+  doi: 10.1016/j.jpedsurg.2019.08.002
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/59_supp_b.md の出典マスター表から

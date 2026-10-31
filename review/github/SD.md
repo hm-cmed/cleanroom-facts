@@ -505,10 +505,10 @@
 - 条件：region: 国際
 - 不確実性：各病変の頻度や治療レジメンは出典の抄録の範囲を超えるため含めていない。皮膚腺病と硬結性紅斑の対応づけは出典の皮膚結核の分類（直接感染による病型と過敏反応による病型）に基づく。
 - 出典：Franco-Paredes C, Marcos LA, Henao-Martínez AF, et al. Cutaneous Mycobacterial Infections. Clin Microbiol Rev. 2019;32(1):e00069-18.　[DOI 10.1128/CMR.00069-18](https://doi.org/10.1128/CMR.00069-18)　[PMID 30429139](https://pubmed.ncbi.nlm.nih.gov/30429139/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅲ-3-K-③（皮膚腺病、c）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-093 (id: Jlvnlj4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-037&card_id=SD-037&version=13c8426e33)　（版 `13c8426e33`）
+- 出題基準：医学各論 Ⅲ-3-K-③（皮膚腺病、c）；医学各論 Ⅲ-3-K-④（硬結性紅斑、c）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-093 (id: Jlvnlj4)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-037&card_id=SD-037&version=bbd41cb4fd)　（版 `bbd41cb4fd`）
 
-**[ここまでの 1 件（SD-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-037&cards=SD-037%2013c8426e33)**
+**[ここまでの 1 件（SD-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-037&cards=SD-037%20bbd41cb4fd)**
 
 ---
 
@@ -717,10 +717,10 @@
 - 条件：region: 国際
 - 不確実性：出典は脛骨前粘液水腫の総説であり、アミロイド苔癬についての記述は出典の範囲外であるため、定義的な内容にとどめ、数値は入れていない。脛骨前粘液水腫の治療選択肢の詳細は本カードには含めていない。
 - 出典：Fatourechi V. Pretibial myxedema: pathophysiology and treatment options. Am J Clin Dermatol. 2005;6(5):295-309.　[DOI 10.2165/00128071-200506050-00003](https://doi.org/10.2165/00128071-200506050-00003)　[PMID 16252929](https://pubmed.ncbi.nlm.nih.gov/16252929/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅲ-3-R-②（脛骨前粘液水腫、c）　コアカリ：PS-02-04-05 (id: JkxnuQI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-051&card_id=SD-051&version=4b1efcb66d)　（版 `4b1efcb66d`）
+- 出題基準：医学各論 Ⅲ-3-R-②（脛骨前粘液水腫、c）；医学各論 Ⅲ-3-S-①（アミロイド苔癬、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-051&card_id=SD-051&version=1838a5a895)　（版 `1838a5a895`）
 
-**[ここまでの 1 件（SD-051）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-051&cards=SD-051%204b1efcb66d)**
+**[ここまでの 1 件（SD-051）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-051&cards=SD-051%201838a5a895)**
 
 ---
 

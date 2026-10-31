@@ -788,12 +788,16 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-276 (id: Jlvnl4c)；TBL-02-07-021 (id: JlAKpkY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-12-C-⑦（Hirschsprung病<先天性巨大結腸症、腸管無神経節症>、c）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-12-C-⑦ を足した（なし → 医学各論 Ⅵ-12-C-⑦（Hirschsprung病<先天性巨大結腸症、腸管無神経節症>、c））。三原の承認による
 - id: NG-028
   domain: NG
   subdomain: ヒルシュスプルング病
@@ -817,12 +821,16 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-276 (id: Jlvnl4c)；TBL-02-07-021 (id: JlAKpkY)；TBL-02-07-024 (id: JlAKpko)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-12-C-⑦（Hirschsprung病<先天性巨大結腸症、腸管無神経節症>、c）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-12-C-⑦ を足した（なし → 医学各論 Ⅵ-12-C-⑦（Hirschsprung病<先天性巨大結腸症、腸管無神経節症>、c））。三原の承認による
 - id: NG-029
   domain: NG
   subdomain: ヒルシュスプルング病
@@ -847,12 +855,16 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-276 (id: Jlvnl4c)；TBL-02-07-031 (id: JlAKplI)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-12-C-⑦（Hirschsprung病<先天性巨大結腸症、腸管無神経節症>、c）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-12-C-⑦ を足した（なし → 医学各論 Ⅵ-12-C-⑦（Hirschsprung病<先天性巨大結腸症、腸管無神経節症>、c））。三原の承認による
 - id: NG-030
   domain: NG
   subdomain: ヒルシュスプルング病
@@ -877,12 +889,16 @@
   uncertainty: 出典が引用した全国調査の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-276 (id: Jlvnl4c)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-12-C-⑦（Hirschsprung病<先天性巨大結腸症、腸管無神経節症>、c）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-12-C-⑦ を足した（なし → 医学各論 Ⅵ-12-C-⑦（Hirschsprung病<先天性巨大結腸症、腸管無神経節症>、c））。三原の承認による
 - id: NG-031
   domain: NG
   subdomain: IBSと腸脳相関

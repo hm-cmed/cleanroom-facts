@@ -1057,8 +1057,8 @@
 - よくある誤解：胃腺腫は経過観察だけでよい
 - 不確実性：日本の胃腺腫の扱い（出題基準 Ⅵ-2-D-③）は別のカードで扱う
 - 出典：Islam RS, et al. Gastric polyps: a review on clinical, endoscopic, histopathologic features and management decisions. Gastroenterol Hepatol (N Y) 2013 Oct　[PMID 24764778](https://pubmed.ncbi.nlm.nih.gov/24764778/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅵ-2-D-①（胃ポリープ、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-088&card_id=GD-088&version=cdff2a186d)　（版 `cdff2a186d`）
+- 出題基準：医学各論 Ⅵ-2-D-①（胃ポリープ、a）；医学各論 Ⅵ-2-D-③（胃腺腫、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-088&card_id=GD-088&version=5cfa9c1a30)　（版 `5cfa9c1a30`）
 
 ### GD-089　出典照合済み・監修待ち
 
@@ -1071,7 +1071,7 @@
 - 出題基準：医学各論 Ⅵ-2-D-①（胃ポリープ、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-089&card_id=GD-089&version=c8583d6ab6)　（版 `c8583d6ab6`）
 
-**[ここまでの 4 件（GD-086〜GD-089）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-086%E3%80%9CGD-089&cards=GD-086%2007e7e7a330%0AGD-087%20c5f2b49b40%0AGD-088%20cdff2a186d%0AGD-089%20c8583d6ab6)**
+**[ここまでの 4 件（GD-086〜GD-089）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-086%E3%80%9CGD-089&cards=GD-086%2007e7e7a330%0AGD-087%20c5f2b49b40%0AGD-088%205cfa9c1a30%0AGD-089%20c8583d6ab6)**
 
 ---
 

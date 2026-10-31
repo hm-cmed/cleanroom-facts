@@ -13,8 +13,8 @@
 - 条件：guideline: JCS 2022 安定冠動脈疾患 フォーカスアップデート 表7／region: 日本
 - よくある誤解：胸痛のある患者には最初から全例に冠動脈造影を行う
 - 出典：Nakano S, Kohsaka S, Chikamori T, et al. JCS 2022 Guideline Focused Update on Diagnosis and Treatment in Patients With Stable Coronary Artery Disease. Circ J 2022;86:882-915　[DOI 10.1253/circj.CJ-21-1041](https://doi.org/10.1253/circj.CJ-21-1041)　[PMID 35283401](https://pubmed.ncbi.nlm.nih.gov/35283401/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅴ-5-A-①（労作性狭心症、a）　コアカリ：PS-02-06-03 (id: JkxnuQo)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-029 (id: JlAKpgA)；TBL-02-05-028 (id: JlAKpf8)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-001&card_id=IH-001&version=49aea73df6)　（版 `49aea73df6`）
+- 出題基準：医学各論 Ⅴ-5-A-①（労作性狭心症、a）；医学各論 Ⅷ-9-B-⑤（冠動脈疾患、b）　コアカリ：PS-02-06-03 (id: JkxnuQo)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-029 (id: JlAKpgA)；TBL-02-05-028 (id: JlAKpf8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-001&card_id=IH-001&version=8c9a645c3e)　（版 `8c9a645c3e`）
 
 ### IH-002　下書き（出典の照合前）
 
@@ -24,8 +24,8 @@
 - よくある誤解：冠動脈造影で狭窄が強く見えれば虚血の評価なしにステントを入れてよい
 - 不確実性：CVIT-DEFER の数値はガイドラインが引用した研究による（二次資料経由）。
 - 出典：Nakano S, Kohsaka S, Chikamori T, et al. JCS 2022 Guideline Focused Update on Diagnosis and Treatment in Patients With Stable Coronary Artery Disease. Circ J 2022;86:882-915　[DOI 10.1253/circj.CJ-21-1041](https://doi.org/10.1253/circj.CJ-21-1041)　[PMID 35283401](https://pubmed.ncbi.nlm.nih.gov/35283401/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅴ-5-A-①（労作性狭心症、a）　コアカリ：PS-02-06-03 (id: JkxnuQo)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-030 (id: JlAKpgE)；TBL-02-05-031 (id: JlAKpgI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-002&card_id=IH-002&version=ce0ab50ea8)　（版 `ce0ab50ea8`）
+- 出題基準：医学各論 Ⅴ-5-A-①（労作性狭心症、a）；医学各論 Ⅷ-9-B-⑤（冠動脈疾患、b）　コアカリ：PS-02-06-03 (id: JkxnuQo)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-030 (id: JlAKpgE)；TBL-02-05-031 (id: JlAKpgI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-002&card_id=IH-002&version=24f8b40f5a)　（版 `24f8b40f5a`）
 
 ### IH-003　下書き（出典の照合前）
 
@@ -34,8 +34,8 @@
 - 条件：guideline: JCS 2022 安定冠動脈疾患 フォーカスアップデート 表10／region: 日本
 - よくある誤解：安定狭心症はすべてPCIで治療すべきである
 - 出典：Nakano S, Kohsaka S, Chikamori T, et al. JCS 2022 Guideline Focused Update on Diagnosis and Treatment in Patients With Stable Coronary Artery Disease. Circ J 2022;86:882-915　[DOI 10.1253/circj.CJ-21-1041](https://doi.org/10.1253/circj.CJ-21-1041)　[PMID 35283401](https://pubmed.ncbi.nlm.nih.gov/35283401/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅴ-5-A-①（労作性狭心症、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-031 (id: JlAKpgI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-003&card_id=IH-003&version=fb33f702e8)　（版 `fb33f702e8`）
+- 出題基準：医学各論 Ⅴ-5-A-①（労作性狭心症、a）；医学各論 Ⅷ-9-B-⑤（冠動脈疾患、b）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-031 (id: JlAKpgI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-003&card_id=IH-003&version=775d5ba82e)　（版 `775d5ba82e`）
 
 ### IH-004　下書き（出典の照合前）
 
@@ -58,7 +58,7 @@
 - 出題基準：医学各論 Ⅴ-5-A-①（労作性狭心症、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-031 (id: JlAKpgI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-005&card_id=IH-005&version=daab568333)　（版 `daab568333`）
 
-**[ここまでの 5 件（IH-001〜IH-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IH-001%E3%80%9CIH-005&cards=IH-001%2049aea73df6%0AIH-002%20ce0ab50ea8%0AIH-003%20fb33f702e8%0AIH-004%203721159a1f%0AIH-005%20daab568333)**
+**[ここまでの 5 件（IH-001〜IH-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IH-001%E3%80%9CIH-005&cards=IH-001%208c9a645c3e%0AIH-002%2024f8b40f5a%0AIH-003%20775d5ba82e%0AIH-004%203721159a1f%0AIH-005%20daab568333)**
 
 ---
 

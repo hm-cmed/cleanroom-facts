@@ -111,8 +111,8 @@
 - 条件：region: 海外／study: 総説
 - 不確実性：小児を対象とした総説に基づく。ボタン電池、磁石、鋭利な異物など、特定の異物ごとの対応の詳細は出典の範囲外。成人の異物は対象外。（本出典は割り当て枠超過分の仮番号 SRC-1476 を使用）
 - 出典：Karišik M. Foreign body aspiration and ingestion in children. Acta Clinica Croatica. 2023;62(Suppl 1):105-112.　[DOI 10.20471/acc.2023.62.s1.13](https://doi.org/10.20471/acc.2023.62.s1.13)　[PMID 38746610](https://pubmed.ncbi.nlm.nih.gov/38746610/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅲ-11-B-①（異物、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-535 (id: JlvnmRc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-008&card_id=TR-008&version=c440262c3b)　（版 `c440262c3b`）
+- 出題基準：医学各論 Ⅲ-11-B-①（異物、a）；医学各論 Ⅵ-11-C-①（消化管異物、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-535 (id: JlvnmRc)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-008&card_id=TR-008&version=f61e5ce846)　（版 `f61e5ce846`）
 
 ### TR-009　下書き（出典の照合前）
 
@@ -124,7 +124,7 @@
 - 出題基準：医学各論 Ⅲ-11-B-①（異物、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-535 (id: JlvnmRc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-009&card_id=TR-009&version=f319e0ba49)　（版 `f319e0ba49`）
 
-**[ここまでの 2 件（TR-008〜TR-009）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TR-008%E3%80%9CTR-009&cards=TR-008%20c440262c3b%0ATR-009%20f319e0ba49)**
+**[ここまでの 2 件（TR-008〜TR-009）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TR-008%E3%80%9CTR-009&cards=TR-008%20f61e5ce846%0ATR-009%20f319e0ba49)**
 
 ---
 
@@ -305,8 +305,8 @@
 - 条件：region: 国際／study: 総説
 - 不確実性：8群の分類の各型の名称と画像所見の詳細は同総説の本文と表にあり、本カードでは要点のみを扱った（分類表は本文から読み取り）。
 - 出典：Sennaroğlu L, Bajin MD. Classification and Current Management of Inner Ear Malformations. Balkan Med J. 2017;34(5):397-411.　[DOI 10.4274/balkanmedj.2017.0367](https://doi.org/10.4274/balkanmedj.2017.0367)　[PMID 28840850](https://pubmed.ncbi.nlm.nih.gov/28840850/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅲ-11-F-④（中耳奇形、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-025&card_id=TR-025&version=55294bcb73)　（版 `55294bcb73`）
+- 出題基準：医学各論 Ⅲ-11-F-④（中耳奇形、c）；医学各論 Ⅲ-11-F-⑤（内耳奇形、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-025&card_id=TR-025&version=96bb220704)　（版 `96bb220704`）
 
 ### TR-026　下書き（出典の照合前）
 
@@ -318,7 +318,7 @@
 - 出題基準：医学各論 Ⅲ-11-G-①（唇裂、口蓋裂、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-026&card_id=TR-026&version=9a96b6ba6b)　（版 `9a96b6ba6b`）
 
-**[ここまでの 5 件（TR-022〜TR-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TR-022%E3%80%9CTR-026&cards=TR-022%20a398697a1f%0ATR-023%204ee3c0345f%0ATR-024%20d503c3807c%0ATR-025%2055294bcb73%0ATR-026%209a96b6ba6b)**
+**[ここまでの 5 件（TR-022〜TR-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TR-022%E3%80%9CTR-026&cards=TR-022%20a398697a1f%0ATR-023%204ee3c0345f%0ATR-024%20d503c3807c%0ATR-025%2096bb220704%0ATR-026%209a96b6ba6b)**
 
 ---
 

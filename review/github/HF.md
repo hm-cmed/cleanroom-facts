@@ -14,8 +14,8 @@
 - よくある誤解：駆出率が正常なら心不全ではない
 - 不確実性：国際的な定義（Universal Definition）の原典の表記は本カードでは確認していない。
 - 出典：Kitai T, Kohsaka S, Kato T, et al. JCS/JHFS 2025 Guideline on Diagnosis and Treatment of Heart Failure. Circ J 2025;89:1278-1444（J Card Fail 2025;31:1164-1322 と同時掲載）　[DOI 10.1253/circj.CJ-25-0002](https://doi.org/10.1253/circj.CJ-25-0002)　[PMID 40159241](https://pubmed.ncbi.nlm.nih.gov/40159241/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅴ-2-A-④（慢性心不全、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-159 (id: Jlvnlr4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-001&card_id=HF-001&version=3f6bf7ab13)　（版 `3f6bf7ab13`）
+- 出題基準：医学各論 Ⅴ-2-A-④（慢性心不全、a）；医学各論 Ⅴ-2-A-①（左心不全、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-159 (id: Jlvnlr4)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-001&card_id=HF-001&version=3a6e06d691)　（版 `3a6e06d691`）
 
 ### HF-002　下書き（出典の照合前）
 
@@ -25,8 +25,8 @@
 - よくある誤解：心不全の大半は駆出率が低下したタイプである
 - 不確実性：69%・51%の値はガイドラインが引用した研究による（二次資料経由）。
 - 出典：Kitai T, Kohsaka S, Kato T, et al. JCS/JHFS 2025 Guideline on Diagnosis and Treatment of Heart Failure. Circ J 2025;89:1278-1444（J Card Fail 2025;31:1164-1322 と同時掲載）　[DOI 10.1253/circj.CJ-25-0002](https://doi.org/10.1253/circj.CJ-25-0002)　[PMID 40159241](https://pubmed.ncbi.nlm.nih.gov/40159241/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅴ-2-A-④（慢性心不全、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-159 (id: Jlvnlr4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-002&card_id=HF-002&version=c92c69552b)　（版 `c92c69552b`）
+- 出題基準：医学各論 Ⅴ-2-A-④（慢性心不全、a）；医学各論 Ⅴ-2-A-①（左心不全、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-159 (id: Jlvnlr4)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-002&card_id=HF-002&version=0fcb326a69)　（版 `0fcb326a69`）
 
 ### HF-003　下書き（出典の照合前）
 
@@ -113,7 +113,7 @@
 - 出題基準：医学各論 Ⅴ-2-A-④（慢性心不全、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-159 (id: Jlvnlr4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-017&card_id=HF-017&version=97ed31fea5)　（版 `97ed31fea5`）
 
-**[ここまでの 10 件（HF-001〜HF-017）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HF-001%E3%80%9CHF-017&cards=HF-001%203f6bf7ab13%0AHF-002%20c92c69552b%0AHF-003%203e3d255d2d%0AHF-004%20f94e99bd19%0AHF-005%200d8ed689db%0AHF-013%20177b11bce2%0AHF-014%20cde85e4785%0AHF-015%20d716267763%0AHF-016%204206a6128f%0AHF-017%2097ed31fea5)**
+**[ここまでの 10 件（HF-001〜HF-017）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HF-001%E3%80%9CHF-017&cards=HF-001%203a6e06d691%0AHF-002%200fcb326a69%0AHF-003%203e3d255d2d%0AHF-004%20f94e99bd19%0AHF-005%200d8ed689db%0AHF-013%20177b11bce2%0AHF-014%20cde85e4785%0AHF-015%20d716267763%0AHF-016%204206a6128f%0AHF-017%2097ed31fea5)**
 
 ---
 

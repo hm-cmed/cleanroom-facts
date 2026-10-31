@@ -267,7 +267,7 @@
   uncertainty: 小児を対象とした総説に基づく。ボタン電池、磁石、鋭利な異物など、特定の異物ごとの対応の詳細は出典の範囲外。成人の異物は対象外。（本出典は割り当て枠超過分の仮番号 SRC-1476 を使用）
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)；TBL-01-00-535 (id: JlvnmRc)'
-    kokushi: 医学各論 Ⅲ-11-B-①（異物、a）
+    kokushi: 医学各論 Ⅲ-11-B-①（異物、a）；医学各論 Ⅵ-11-C-①（消化管異物、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -278,6 +278,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-11-C-① を足した（医学各論 Ⅲ-11-B-①（異物、a） → 医学各論 Ⅲ-11-B-①（異物、a）；医学各論 Ⅵ-11-C-①（消化管異物、a））。三原の承認による
 - id: TR-009
   domain: TR
   subdomain: 異物
@@ -862,7 +865,7 @@
   uncertainty: 8群の分類の各型の名称と画像所見の詳細は同総説の本文と表にあり、本カードでは要点のみを扱った（分類表は本文から読み取り）。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
-    kokushi: 医学各論 Ⅲ-11-F-④（中耳奇形、c）
+    kokushi: 医学各論 Ⅲ-11-F-④（中耳奇形、c）；医学各論 Ⅲ-11-F-⑤（内耳奇形、c）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -873,6 +876,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅲ-11-F-⑤ を足した（医学各論 Ⅲ-11-F-④（中耳奇形、c） → 医学各論 Ⅲ-11-F-④（中耳奇形、c）；医学各論 Ⅲ-11-F-⑤（内耳奇形、c））。三原の承認による
 - id: TR-026
   domain: TR
   subdomain: 先天異常

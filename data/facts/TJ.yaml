@@ -1564,7 +1564,7 @@
     corroboration: null
   uncertainty: hard signs の列挙はガイドライン本文の評価アルゴリズムに基づく（抄録は身体所見の重要性と CT アンギオの位置づけまで）。 （出典内の位置：抄録およびガイドライン本文の評価アルゴリズム）
   curriculum:
-    kokushi: 医学各論 Ⅸ-10-E-②（四肢血管損傷、a）
+    kokushi: 医学各論 Ⅸ-10-E-②（四肢血管損傷、a）；医学各論 Ⅴ-6-G-②（血管損傷、c）
     core_curriculum: 'TBL-01-00-118 (id: Jlvnlm8)'
   publication_info:
     created: '2026-10-28'
@@ -1576,6 +1576,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅴ-6-G-② を足した（医学各論 Ⅸ-10-E-②（四肢血管損傷、a） → 医学各論 Ⅸ-10-E-②（四肢血管損傷、a）；医学各論 Ⅴ-6-G-②（血管損傷、c））。三原の承認による
 - id: TJ-046
   domain: TJ
   subdomain: 四肢血管損傷
@@ -1599,7 +1602,7 @@
     corroboration: null
   uncertainty: 戦傷コホートの結果であり、市民外傷への外挿には注意を要する。損傷肢の虚血許容時間の具体的な数値は本出典では確認できなかったため、カードには含めていない。 （出典内の位置：抄録の Results・Conclusion）
   curriculum:
-    kokushi: 医学各論 Ⅸ-10-E-②（四肢血管損傷、a）
+    kokushi: 医学各論 Ⅸ-10-E-②（四肢血管損傷、a）；医学各論 Ⅴ-6-G-②（血管損傷、c）
     core_curriculum: 'TBL-01-00-118 (id: Jlvnlm8)'
   publication_info:
     created: '2026-10-28'
@@ -1611,6 +1614,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅴ-6-G-② を足した（医学各論 Ⅸ-10-E-②（四肢血管損傷、a） → 医学各論 Ⅸ-10-E-②（四肢血管損傷、a）；医学各論 Ⅴ-6-G-②（血管損傷、c））。三原の承認による
 - id: TJ-047
   domain: TJ
   subdomain: 筋・腱損傷

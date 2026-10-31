@@ -579,7 +579,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-11-C-①（消化管異物、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -590,6 +590,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-11-C-① を足した（なし → 医学各論 Ⅵ-11-C-①（消化管異物、a））。三原の承認による
 - id: AB-018
   domain: AB
   subdomain: 緊急度の判断と緊急処置
@@ -1908,7 +1911,7 @@
   uncertainty: 数値はWSES ガイドラインが引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-②（虫垂炎、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -1919,6 +1922,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-3-B-② を足した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a））。三原の承認による
 - id: AB-056
   domain: AB
   subdomain: 急性虫垂炎
@@ -1942,7 +1948,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-②（虫垂炎、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -1953,6 +1959,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-3-B-② を足した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a））。三原の承認による
 - id: AB-057
   domain: AB
   subdomain: 急性虫垂炎
@@ -1976,7 +1985,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)；TBL-02-07-029 (id: JlAKplA)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-②（虫垂炎、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -1987,6 +1996,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-3-B-② を足した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a））。三原の承認による
 - id: AB-058
   domain: AB
   subdomain: 急性虫垂炎
@@ -2010,7 +2022,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-②（虫垂炎、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2021,6 +2033,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-3-B-② を足した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a））。三原の承認による
 - id: AB-059
   domain: AB
   subdomain: 急性虫垂炎
@@ -2044,7 +2059,7 @@
   uncertainty: 再発率はガイドラインが引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-②（虫垂炎、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2055,6 +2070,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-3-B-② を足した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a））。三原の承認による
 - id: AB-060
   domain: AB
   subdomain: 急性虫垂炎
@@ -2078,7 +2096,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-②（虫垂炎、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2089,6 +2107,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-3-B-② を足した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a））。三原の承認による
 - id: AB-061
   domain: AB
   subdomain: 急性虫垂炎
@@ -2112,7 +2133,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-②（虫垂炎、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2123,6 +2144,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-3-B-② を足した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a））。三原の承認による
 - id: AB-062
   domain: AB
   subdomain: 急性虫垂炎
@@ -2146,7 +2170,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-②（虫垂炎、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2157,6 +2181,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-3-B-② を足した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a））。三原の承認による
 - id: AB-063
   domain: AB
   subdomain: 癒着性小腸閉塞
@@ -2180,7 +2207,7 @@
   uncertainty: 数値はガイドラインが引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-10-A-①（単純性腸閉塞、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2191,6 +2218,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-A-① を足した（なし → 医学各論 Ⅵ-10-A-①（単純性腸閉塞、a））。三原の承認による
 - id: AB-064
   domain: AB
   subdomain: 癒着性小腸閉塞
@@ -2214,7 +2244,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)；TBL-02-07-029 (id: JlAKplA)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-10-D-②（絞扼性腸閉塞、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2225,6 +2255,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-② を足した（なし → 医学各論 Ⅵ-10-D-②（絞扼性腸閉塞、a））。三原の承認による
 - id: AB-065
   domain: AB
   subdomain: 癒着性小腸閉塞
@@ -2248,7 +2281,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-10-A-①（単純性腸閉塞、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2259,6 +2292,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-A-① を足した（なし → 医学各論 Ⅵ-10-A-①（単純性腸閉塞、a））。三原の承認による
 - id: AB-066
   domain: AB
   subdomain: 癒着性小腸閉塞
@@ -2282,7 +2318,7 @@
   uncertainty: 造影剤の量は本文に記載がない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)；TBL-02-07-029 (id: JlAKplA)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-10-A-①（単純性腸閉塞、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2293,6 +2329,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-A-① を足した（なし → 医学各論 Ⅵ-10-A-①（単純性腸閉塞、a））。三原の承認による
 - id: AB-067
   domain: AB
   subdomain: 癒着性小腸閉塞
@@ -2588,7 +2627,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-308 (id: Jlvnl70)'
-    kokushi: 医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）
+    kokushi: 医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）；医学各論 Ⅵ-10-C-①（急性腹膜炎、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2599,6 +2638,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-C-① を足した（医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a） → 医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）；医学各論 Ⅵ-10-C-①（急性腹膜炎、a））。三原の承認による
 - id: AB-076
   domain: AB
   subdomain: 腹膜炎・腹腔内感染症
@@ -2622,7 +2664,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-308 (id: Jlvnl70)'
-    kokushi: 医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）
+    kokushi: 医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）；医学各論 Ⅵ-10-C-①（急性腹膜炎、a）；医学各論 Ⅵ-10-E-①（消化管穿孔、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2633,6 +2675,12 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-C-① を足した（医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a） → 医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）；医学各論 Ⅵ-10-C-①（急性腹膜炎、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-E-① を足した（医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）；医学各論 Ⅵ-10-C-①（急性腹膜炎、a） → 医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）；医学各論 Ⅵ-10-C-①（急性腹膜炎、a）；医学各論 Ⅵ-10-E-①（消化管穿孔、a））。三原の承認による
 - id: AB-077
   domain: AB
   subdomain: 腹膜炎・腹腔内感染症
@@ -2656,7 +2704,7 @@
   uncertainty: 死亡率はガイドラインが引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-308 (id: Jlvnl70)'
-    kokushi: 医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）
+    kokushi: 医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）；医学各論 Ⅵ-10-C-①（急性腹膜炎、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2667,6 +2715,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-C-① を足した（医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a） → 医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）；医学各論 Ⅵ-10-C-①（急性腹膜炎、a））。三原の承認による
 - id: AB-078
   domain: AB
   subdomain: 急性腸間膜虚血
@@ -2690,7 +2741,7 @@
   uncertainty: NOMI の割合は本文で約20%と25%の2通りに書かれている。数値はガイドラインが引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-10-D-③（腸間膜動脈閉塞症、非閉塞性腸管虚血症<NOMI>、b）；医学各論 Ⅵ-10-D-④（腸間膜静脈血栓症、c）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2701,6 +2752,12 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-③ を足した（なし → 医学各論 Ⅵ-10-D-③（腸間膜動脈閉塞症、非閉塞性腸管虚血症<NOMI>、b））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-④ を足した（医学各論 Ⅵ-10-D-③（腸間膜動脈閉塞症、非閉塞性腸管虚血症<NOMI>、b） → 医学各論 Ⅵ-10-D-③（腸間膜動脈閉塞症、非閉塞性腸管虚血症<NOMI>、b）；医学各論 Ⅵ-10-D-④（腸間膜静脈血栓症、c））。三原の承認による
 - id: AB-079
   domain: AB
   subdomain: 急性腸間膜虚血
@@ -2792,7 +2849,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-10-D-③（腸間膜動脈閉塞症、非閉塞性腸管虚血症<NOMI>、b）；医学各論 Ⅵ-10-D-④（腸間膜静脈血栓症、c）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2803,6 +2860,12 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-③ を足した（なし → 医学各論 Ⅵ-10-D-③（腸間膜動脈閉塞症、非閉塞性腸管虚血症<NOMI>、b））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-④ を足した（医学各論 Ⅵ-10-D-③（腸間膜動脈閉塞症、非閉塞性腸管虚血症<NOMI>、b） → 医学各論 Ⅵ-10-D-③（腸間膜動脈閉塞症、非閉塞性腸管虚血症<NOMI>、b）；医学各論 Ⅵ-10-D-④（腸間膜静脈血栓症、c））。三原の承認による
 - id: AB-082
   domain: AB
   subdomain: 腹腔内圧上昇と腹部コンパートメント症候群
@@ -2894,7 +2957,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-11-A-①（腹部外傷、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2905,6 +2968,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-11-A-① を足した（なし → 医学各論 Ⅵ-11-A-①（腹部外傷、a））。三原の承認による
 - id: AB-085
   domain: AB
   subdomain: 腹部外傷の基本
@@ -2928,7 +2994,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-11-B-⑤（脾損傷、b）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2939,6 +3005,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-11-B-⑤ を足した（なし → 医学各論 Ⅵ-11-B-⑤（脾損傷、b））。三原の承認による
 - id: AB-086
   domain: AB
   subdomain: 腹部外傷の基本
@@ -2962,7 +3031,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-11-B-⑤（脾損傷、b）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2973,6 +3042,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-11-B-⑤ を足した（なし → 医学各論 Ⅵ-11-B-⑤（脾損傷、b））。三原の承認による
 - id: AB-087
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -2996,7 +3068,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a）；医学各論 Ⅵ-10-D-②（絞扼性腸閉塞、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -3007,6 +3079,12 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-① を足した（なし → 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-② を足した（医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a） → 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a）；医学各論 Ⅵ-10-D-②（絞扼性腸閉塞、a））。三原の承認による
 - id: AB-088
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3030,7 +3108,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a）；医学各論 Ⅵ-10-D-②（絞扼性腸閉塞、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -3041,6 +3119,12 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-① を足した（なし → 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a））。三原の承認による
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-② を足した（医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a） → 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a）；医学各論 Ⅵ-10-D-②（絞扼性腸閉塞、a））。三原の承認による
 - id: AB-089
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3064,7 +3148,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -3075,6 +3159,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-① を足した（なし → 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a））。三原の承認による
 - id: AB-090
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3098,7 +3185,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -3109,6 +3196,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-① を足した（なし → 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a））。三原の承認による
 - id: AB-091
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3132,7 +3222,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-308 (id: Jlvnl70)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -3143,6 +3233,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-① を足した（なし → 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a））。三原の承認による
 - id: AB-092
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3166,7 +3259,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-308 (id: Jlvnl70)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -3177,6 +3270,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-① を足した（なし → 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a））。三原の承認による
 - id: AB-093
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3200,7 +3296,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)'
-    kokushi: 医学各論 Ⅵ-9-A-②（鼠径ヘルニア、a）
+    kokushi: 医学各論 Ⅵ-9-A-②（鼠径ヘルニア、a）；医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -3211,6 +3307,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-① を足した（医学各論 Ⅵ-9-A-②（鼠径ヘルニア、a） → 医学各論 Ⅵ-9-A-②（鼠径ヘルニア、a）；医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a））。三原の承認による
 - id: AB-094
   domain: AB
   subdomain: 腹壁瘢痕ヘルニア

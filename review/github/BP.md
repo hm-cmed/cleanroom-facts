@@ -191,8 +191,8 @@
 - 鑑別・補足：膵頭部癌による遠位胆管閉塞
 - よくある誤解：胆管癌の多くは肝内に発生する
 - 出典：National Cancer Institute. Bile Duct Cancer (Cholangiocarcinoma) Treatment (PDQ)–Health Professional Version（最終更新 2025-03-28）　[リンク](https://www.cancer.gov/types/liver/hp/bile-duct-treatment-pdq)（区分 GOV_US）
-- 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)；TBL-01-00-293 (id: Jlvnl7Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-065&card_id=BP-065&version=e92ebae024)　（版 `e92ebae024`）
+- 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）；医学各論 Ⅵ-6-C-②（肝内胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)；TBL-01-00-293 (id: Jlvnl7Q)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-065&card_id=BP-065&version=3b3b928ab1)　（版 `3b3b928ab1`）
 
 ### BP-066　下書き（出典の照合前）
 
@@ -226,7 +226,7 @@
 - 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-068&card_id=BP-068&version=a60ca733ef)　（版 `a60ca733ef`）
 
-**[ここまでの 9 件（BP-011〜BP-068）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-011%E3%80%9CBP-068&cards=BP-011%20d2fd7a40de%0ABP-012%20cbab024af2%0ABP-062%202f271d3a90%0ABP-063%205db7d8e45c%0ABP-064%206aa087a917%0ABP-065%20e92ebae024%0ABP-066%20953dd81017%0ABP-067%20d925fefae6%0ABP-068%20a60ca733ef)**
+**[ここまでの 9 件（BP-011〜BP-068）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-011%E3%80%9CBP-068&cards=BP-011%20d2fd7a40de%0ABP-012%20cbab024af2%0ABP-062%202f271d3a90%0ABP-063%205db7d8e45c%0ABP-064%206aa087a917%0ABP-065%203b3b928ab1%0ABP-066%20953dd81017%0ABP-067%20d925fefae6%0ABP-068%20a60ca733ef)**
 
 ---
 

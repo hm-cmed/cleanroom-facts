@@ -810,8 +810,8 @@
 - よくある誤解：Gilbert症候群は肝障害を起こす病気である
 - 不確実性：出典の最終更新は2012年。日本人の頻度は未確認
 - 出典：MedlinePlus Genetics. Gilbert syndrome（最終更新 2012-02-01）　[リンク](https://medlineplus.gov/genetics/condition/gilbert-syndrome)（区分 GOV_US）
-- 出題基準：医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-066&card_id=LV-066&version=9c834fe667)　（版 `9c834fe667`）
+- 出題基準：医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b）；医学各論 Ⅹ-9-D-①（体質性黄疸、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-066&card_id=LV-066&version=0c0a9c119a)　（版 `0c0a9c119a`）
 
 ### LV-067　出典照合済み・監修待ち
 
@@ -821,8 +821,8 @@
 - 鑑別・補足：Dubin-Johnson症候群・Rotor症候群は抱合型（直接）ビリルビンが上昇する
 - よくある誤解：Gilbert症候群では直接ビリルビンが上昇する
 - 出典：MedlinePlus Genetics. Gilbert syndrome（最終更新 2012-02-01）　[リンク](https://medlineplus.gov/genetics/condition/gilbert-syndrome)（区分 GOV_US）
-- 出題基準：医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-067&card_id=LV-067&version=af199dce6d)　（版 `af199dce6d`）
+- 出題基準：医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b）；医学各論 Ⅹ-9-D-①（体質性黄疸、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-067&card_id=LV-067&version=147819bca7)　（版 `147819bca7`）
 
 ### LV-093　出典照合済み・監修待ち
 
@@ -833,8 +833,8 @@
 - よくある誤解：Dubin-Johnson症候群は進行性の肝疾患である
 - 不確実性：抱合型ビリルビン優位であることは出典本文に明記されていない
 - 出典：MedlinePlus Genetics. Dubin-Johnson syndrome（最終更新 2018-08-01）　[リンク](https://medlineplus.gov/genetics/condition/dubin-johnson-syndrome)（区分 GOV_US）
-- 出題基準：医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-093&card_id=LV-093&version=6f0e5159bf)　（版 `6f0e5159bf`）
+- 出題基準：医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b）；医学各論 Ⅹ-9-D-①（体質性黄疸、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-093&card_id=LV-093&version=3fca6aaf5b)　（版 `3fca6aaf5b`）
 
 ### LV-094　出典照合済み・監修待ち
 
@@ -844,10 +844,10 @@
 - 鑑別・補足：Dubin-Johnson症候群
 - よくある誤解：Rotor症候群は非抱合型ビリルビンだけが上昇する
 - 出典：MedlinePlus Genetics. Rotor syndrome（最終更新 2013-03-01）　[リンク](https://medlineplus.gov/genetics/condition/rotor-syndrome)（区分 GOV_US）
-- 出題基準：医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-094&card_id=LV-094&version=81a9693584)　（版 `81a9693584`）
+- 出題基準：医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b）；医学各論 Ⅹ-9-D-①（体質性黄疸、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-094&card_id=LV-094&version=129878e975)　（版 `129878e975`）
 
-**[ここまでの 4 件（LV-066〜LV-094）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-066%E3%80%9CLV-094&cards=LV-066%209c834fe667%0ALV-067%20af199dce6d%0ALV-093%206f0e5159bf%0ALV-094%2081a9693584)**
+**[ここまでの 4 件（LV-066〜LV-094）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-066%E3%80%9CLV-094&cards=LV-066%200c0a9c119a%0ALV-067%20147819bca7%0ALV-093%203fca6aaf5b%0ALV-094%20129878e975)**
 
 ---
 

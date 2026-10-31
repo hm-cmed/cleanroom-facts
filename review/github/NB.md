@@ -445,10 +445,10 @@
 - 条件：region: 国際／対象: 新生児
 - 不確実性：現在使われている修正Bell分類（WalshとKliegmanによる修正を含む）の各病期の定義表そのものは本文で未照合のため、各病期の定義は主張に入れていない。壊死性腸炎の疫学（極低出生体重児における発生率など）の数値は、照合済みの出典では確認できていない
 - 出典：Bell MJ, Ternberg JL, Feigin RD, et al. Neonatal necrotizing enterocolitis. Therapeutic decisions based upon clinical staging. Ann Surg. 1978;187(1):1-7　[DOI 10.1097/00000658-197801000-00001](https://doi.org/10.1097/00000658-197801000-00001)　[PMID 413500](https://pubmed.ncbi.nlm.nih.gov/413500/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅰ-3-H-⑩（壊死性腸炎、c）　コアカリ：PS-02-12-04 (id: Jli53IM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-031&card_id=NB-031&version=5a18310113)　（版 `5a18310113`）
+- 出題基準：医学各論 Ⅰ-3-H-⑩（壊死性腸炎、c）；医学各論 Ⅵ-12-C-②（新生児壊死性腸炎、b）　コアカリ：PS-02-12-04 (id: Jli53IM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-031&card_id=NB-031&version=441c601a2b)　（版 `441c601a2b`）
 
-**[ここまでの 1 件（NB-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NB-031&cards=NB-031%205a18310113)**
+**[ここまでの 1 件（NB-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NB-031&cards=NB-031%20441c601a2b)**
 
 ---
 
