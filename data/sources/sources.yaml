@@ -27186,3 +27186,345 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2811
+  legacy_id: null
+  title: Cardona V, et al. World Allergy Organization anaphylaxis guidance 2020. World Allergy Organ J. 2020;13(10):100472
+  citation: Cardona V, et al. World Allergy Organization anaphylaxis guidance 2020. World Allergy Organ J. 2020;13(10):100472
+  doi: 10.1016/j.waojou.2020.100472
+  pmid: '33204386'
+  pmcid: PMC7607509
+  license_note: CC BY-NC-ND 4.0（Europe PMC で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2812
+  legacy_id: null
+  title: 'Muraro A, et al. EAACI guidelines: Anaphylaxis (2021 update). Allergy. 2022;77(2):357-377'
+  citation: 'Muraro A, et al. EAACI guidelines: Anaphylaxis (2021 update). Allergy. 2022;77(2):357-377'
+  doi: 10.1111/all.15032
+  pmid: '34343358'
+  pmcid: null
+  license_note: 未確認（Crossref は Wiley の利用条件のみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2813
+  legacy_id: null
+  title: 'Sato S, et al. Current situation of anaphylaxis in Japan: Data from the anaphylaxis registry of training and teaching facilities certified by the Japanese Society of Allergology. Allergol Int. 2023;72(3):437-443'
+  citation: 'Sato S, et al. Current situation of anaphylaxis in Japan: Data from the anaphylaxis registry of training and teaching facilities certified by the Japanese Society of Allergology. Allergol Int. 2023;72(3):437-443'
+  doi: 10.1016/j.alit.2022.12.003
+  pmid: '36588001'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Europe PMC で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2814
+  legacy_id: null
+  title: Demoly P, et al. International Consensus (ICON) on drug allergy. Allergy. 2014;69(4):420-437
+  citation: Demoly P, et al. International Consensus (ICON) on drug allergy. Allergy. 2014;69(4):420-437
+  doi: 10.1111/all.12350
+  pmid: '24697291'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2815
+  legacy_id: null
+  title: 'Shenoy ES, et al. Evaluation and Management of Penicillin Allergy: A Review. JAMA. 2019;321(2):188-199'
+  citation: 'Shenoy ES, et al. Evaluation and Management of Penicillin Allergy: A Review. JAMA. 2019;321(2):188-199'
+  doi: 10.1001/jama.2018.19283
+  pmid: '30644987'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2816
+  legacy_id: null
+  title: Ebisawa M, et al. Japanese guidelines for food allergy 2020. Allergol Int. 2020;69(3):370-386
+  citation: Ebisawa M, et al. Japanese guidelines for food allergy 2020. Allergol Int. 2020;69(3):370-386
+  doi: 10.1016/j.alit.2020.03.004
+  pmid: '33289637'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Europe PMC で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2817
+  legacy_id: null
+  title: Santos AF, et al. EAACI guidelines on the diagnosis of IgE-mediated food allergy. Allergy. 2023;78(12):3057-3076
+  citation: Santos AF, et al. EAACI guidelines on the diagnosis of IgE-mediated food allergy. Allergy. 2023;78(12):3057-3076
+  doi: 10.1111/all.15902
+  pmid: '37815205'
+  pmcid: null
+  license_note: CC BY-NC 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2818
+  legacy_id: null
+  title: 'Kulthanan K, et al. Food-Dependent Exercise-Induced Wheals, Angioedema, and Anaphylaxis: A Systematic Review. J Allergy Clin Immunol Pract. 2022;10(9):2280-2296'
+  citation: 'Kulthanan K, et al. Food-Dependent Exercise-Induced Wheals, Angioedema, and Anaphylaxis: A Systematic Review. J Allergy Clin Immunol Pract. 2022;10(9):2280-2296'
+  doi: 10.1016/j.jaip.2022.06.008
+  pmid: '35752432'
+  pmcid: null
+  license_note: 未確認（Crossref は Elsevier の TDM ライセンスのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2819
+  legacy_id: null
+  title: Tarlo SM, Lemiere C. Occupational asthma. N Engl J Med. 2014;370(7):640-649
+  citation: Tarlo SM, Lemiere C. Occupational asthma. N Engl J Med. 2014;370(7):640-649
+  doi: 10.1056/NEJMra1301758
+  pmid: '24521110'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2820
+  legacy_id: null
+  title: 'Khalaf R, et al. Serum Sickness-Like Reactions Clinical Characteristics and Management: A Systematic Review. J Allergy Clin Immunol Pract. 2025;13(5):1068-1074'
+  citation: 'Khalaf R, et al. Serum Sickness-Like Reactions Clinical Characteristics and Management: A Systematic Review. J Allergy Clin Immunol Pract. 2025;13(5):1068-1074'
+  doi: 10.1016/j.jaip.2025.02.027
+  pmid: '40032232'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2821
+  legacy_id: null
+  title: 'Sturm GJ, et al. EAACI guidelines on allergen immunotherapy: Hymenoptera venom allergy. Allergy. 2018;73(4):744-764'
+  citation: 'Sturm GJ, et al. EAACI guidelines on allergen immunotherapy: Hymenoptera venom allergy. Allergy. 2018;73(4):744-764'
+  doi: 10.1111/all.13262
+  pmid: '28748641'
+  pmcid: null
+  license_note: 未確認（Crossref は Wiley の利用条件のみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2822
+  legacy_id: null
+  title: Warrington R, Watson W, Kim HL, Antonetti FR. An introduction to immunology and immunopathology. Allergy Asthma Clin Immunol. 2011;7 Suppl 1:S1
+  citation: Warrington R, Watson W, Kim HL, Antonetti FR. An introduction to immunology and immunopathology. Allergy Asthma Clin Immunol. 2011;7 Suppl 1:S1
+  doi: 10.1186/1710-1492-7-S1-S1
+  pmid: '22165815'
+  pmcid: PMC3245432
+  license_note: CC BY 2.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2823
+  legacy_id: null
+  title: Miyazaki D, Takamura E, Uchio E, et al. Japanese guidelines for allergic conjunctival diseases 2020. Allergol Int. 2020;69(3):346-355
+  citation: Miyazaki D, Takamura E, Uchio E, et al. Japanese guidelines for allergic conjunctival diseases 2020. Allergol Int. 2020;69(3):346-355
+  doi: 10.1016/j.alit.2020.03.005
+  pmid: '33211650'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Europe PMC の license 表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2824
+  legacy_id: null
+  title: Okano M, Okubo K, Gotoh M, et al. Practical guideline for the management of allergic rhinitis in Japan 2024. Auris Nasus Larynx. 2025;52(4):426-441
+  citation: Okano M, Okubo K, Gotoh M, et al. Practical guideline for the management of allergic rhinitis in Japan 2024. Auris Nasus Larynx. 2025;52(4):426-441
+  doi: 10.1016/j.anl.2025.05.005
+  pmid: '40544726'
+  pmcid: null
+  license_note: CC 表示なし（Crossref の license 欄は Elsevier の TDM 条件のみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2825
+  legacy_id: null
+  title: 松原篤、坂下雅文、後藤穣、ほか. 2019年全国疫学調査（鼻アレルギー）. 日本耳鼻咽喉科学会会報. 2020;123:485-490
+  citation: 松原篤、坂下雅文、後藤穣、ほか. 2019年全国疫学調査（鼻アレルギー）. 日本耳鼻咽喉科学会会報. 2020;123:485-490
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 未確認（日本語誌）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2826
+  legacy_id: null
+  title: 'Carlson G, Coop C. Pollen food allergy syndrome (PFAS): A review of current available literature. Ann Allergy Asthma Immunol. 2019;123(4):359-365'
+  citation: 'Carlson G, Coop C. Pollen food allergy syndrome (PFAS): A review of current available literature. Ann Allergy Asthma Immunol. 2019;123(4):359-365'
+  doi: 10.1016/j.anai.2019.07.022
+  pmid: '31376490'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2827
+  legacy_id: null
+  title: 日本皮膚科学会. 蕁麻疹診療ガイドライン2026（第4版）. 日本皮膚科学会. 2026
+  citation: 日本皮膚科学会. 蕁麻疹診療ガイドライン2026（第4版）. 日本皮膚科学会. 2026
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 学会ガイドライン（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2828
+  legacy_id: null
+  title: 'Caballero T, Ferrer M, Guilarte M, et al. Classification and Treatment of Angioedema without Wheals: A Spanish Delphi Consensus. Am J Clin Dermatol. 2023;24(1):135-141'
+  citation: 'Caballero T, Ferrer M, Guilarte M, et al. Classification and Treatment of Angioedema without Wheals: A Spanish Delphi Consensus. Am J Clin Dermatol. 2023;24(1):135-141'
+  doi: 10.1007/s40257-022-00735-7
+  pmid: '36310330'
+  pmcid: PMC9870958
+  license_note: CC BY-NC 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2829
+  legacy_id: null
+  title: 'Kesh S, Bernstein JA. Isolated angioedema: A review of classification and update on management. Ann Allergy Asthma Immunol. 2022;129(6):692-702'
+  citation: 'Kesh S, Bernstein JA. Isolated angioedema: A review of classification and update on management. Ann Allergy Asthma Immunol. 2022;129(6):692-702'
+  doi: 10.1016/j.anai.2022.08.003
+  pmid: '35988876'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/42_im_a.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
