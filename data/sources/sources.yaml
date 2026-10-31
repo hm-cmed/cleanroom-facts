@@ -27528,3 +27528,507 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2901
+  legacy_id: null
+  title: 'Smolen JS, Edwards CJ, Konzett V, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biologic disease-modifying antirheumatic drugs: 2025 update. Ann Rheum Dis. 2026;85(6):991-1009'
+  citation: 'Smolen JS, Edwards CJ, Konzett V, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biologic disease-modifying antirheumatic drugs: 2025 update. Ann Rheum Dis. 2026;85(6):991-1009'
+  doi: 10.1016/j.ard.2026.01.023
+  pmid: '41826212'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2902
+  legacy_id: null
+  title: 'Wang HF, Wang YY, Li ZY, et al. The prevalence and risk factors of rheumatoid arthritis-associated interstitial lung disease: a systematic review and meta-analysis. Ann Med. 2024;56(1):2332406'
+  citation: 'Wang HF, Wang YY, Li ZY, et al. The prevalence and risk factors of rheumatoid arthritis-associated interstitial lung disease: a systematic review and meta-analysis. Ann Med. 2024;56(1):2332406'
+  doi: 10.1080/07853890.2024.2332406
+  pmid: '38547537'
+  pmcid: PMC10984230
+  license_note: CC BY-NC 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2903
+  legacy_id: null
+  title: 厚生労働省. 指定難病 46 悪性関節リウマチ（概要・診断基準等）. 情報提供元：難治性血管炎に関する調査研究班
+  citation: 厚生労働省. 指定難病 46 悪性関節リウマチ（概要・診断基準等）. 情報提供元：難治性血管炎に関する調査研究班
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省の公的資料）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2904
+  legacy_id: null
+  title: Yamaguchi M, Ohta A, Tsunematsu T, et al. Preliminary criteria for classification of adult Still's disease. J Rheumatol. 1992;19(3):424-430
+  citation: Yamaguchi M, Ohta A, Tsunematsu T, et al. Preliminary criteria for classification of adult Still's disease. J Rheumatol. 1992;19(3):424-430
+  doi: null
+  pmid: '1578458'
+  pmcid: null
+  license_note: The Journal of Rheumatology（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2905
+  legacy_id: null
+  title: Fautrel B, Mitrovic S, De Matteis A, et al. EULAR/PReS recommendations for the diagnosis and management of Still's disease, comprising systemic juvenile idiopathic arthritis and adult-onset Still's disease. Ann Rheum Dis. 2024;83(12):1614-1627
+  citation: Fautrel B, Mitrovic S, De Matteis A, et al. EULAR/PReS recommendations for the diagnosis and management of Still's disease, comprising systemic juvenile idiopathic arthritis and adult-onset Still's disease. Ann Rheum Dis. 2024;83(12):1614-1627
+  doi: 10.1136/ard-2024-225851
+  pmid: '39317417'
+  pmcid: PMC11672000
+  license_note: CC BY-NC-ND（抄録末尾の権利表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2906
+  legacy_id: null
+  title: Aringer M, Costenbader K, Daikh D, et al. 2019 European League Against Rheumatism/American College of Rheumatology Classification Criteria for Systemic Lupus Erythematosus. Arthritis Rheumatol. 2019;71(9):1400-1412
+  citation: Aringer M, Costenbader K, Daikh D, et al. 2019 European League Against Rheumatism/American College of Rheumatology Classification Criteria for Systemic Lupus Erythematosus. Arthritis Rheumatol. 2019;71(9):1400-1412
+  doi: 10.1002/art.40930
+  pmid: '31385462'
+  pmcid: PMC6827566
+  license_note: CC表示は確認できず（Wiley の版の利用条件のみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+- id: SRC-2907
+  legacy_id: null
+  title: 'Fanouriakis A, Kostopoulou M, Andersen J, et al. EULAR recommendations for the management of systemic lupus erythematosus: 2023 update. Ann Rheum Dis. 2024;83(1):15-29'
+  citation: 'Fanouriakis A, Kostopoulou M, Andersen J, et al. EULAR recommendations for the management of systemic lupus erythematosus: 2023 update. Ann Rheum Dis. 2024;83(1):15-29'
+  doi: 10.1136/ard-2023-224762
+  pmid: '37827694'
+  pmcid: null
+  license_note: CC表示は確認できず（Elsevier の TDM／利用条件のみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2908
+  legacy_id: null
+  title: Morand EF, Furie R, Tanaka Y, et al. Trial of Anifrolumab in Active Systemic Lupus Erythematosus (TULIP-2). N Engl J Med. 2020;382(3):211-221
+  citation: Morand EF, Furie R, Tanaka Y, et al. Trial of Anifrolumab in Active Systemic Lupus Erythematosus (TULIP-2). N Engl J Med. 2020;382(3):211-221
+  doi: 10.1056/NEJMoa1912196
+  pmid: '31851795'
+  pmcid: null
+  license_note: CC表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2909
+  legacy_id: null
+  title: 'Shiboski CH, Shiboski SC, Seror R, et al. 2016 American College of Rheumatology/European League Against Rheumatism classification criteria for primary Sjögren''s syndrome: A consensus and data-driven methodology involving three international patient cohorts. Ann Rheum Dis. 2017;76(1):9-16'
+  citation: 'Shiboski CH, Shiboski SC, Seror R, et al. 2016 American College of Rheumatology/European League Against Rheumatism classification criteria for primary Sjögren''s syndrome: A consensus and data-driven methodology involving three international patient cohorts. Ann Rheum Dis. 2017;76(1):9-16'
+  doi: 10.1136/annrheumdis-2016-210571
+  pmid: '27789466'
+  pmcid: null
+  license_note: CC表示なし（Crossref の license 欄は TDM 用ライセンスと誌ポリシーのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2910
+  legacy_id: null
+  title: 'Fujibayashi T, Sugai S, Miyasaka N, et al. Revised Japanese criteria for Sjögren''s syndrome (1999): availability and validity. Mod Rheumatol. 2004;14(6):425-434'
+  citation: 'Fujibayashi T, Sugai S, Miyasaka N, et al. Revised Japanese criteria for Sjögren''s syndrome (1999): availability and validity. Mod Rheumatol. 2004;14(6):425-434'
+  doi: 10.3109/s10165-004-0338-x
+  pmid: '24387718'
+  pmcid: null
+  license_note: CC表示なし（Crossref の license 欄なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2911
+  legacy_id: null
+  title: 'van den Hoogen F, Khanna D, Fransen J, et al. 2013 classification criteria for systemic sclerosis: an American College of Rheumatology/European League against Rheumatism collaborative initiative. Ann Rheum Dis. 2013;72(11):1747-1755'
+  citation: 'van den Hoogen F, Khanna D, Fransen J, et al. 2013 classification criteria for systemic sclerosis: an American College of Rheumatology/European League against Rheumatism collaborative initiative. Ann Rheum Dis. 2013;72(11):1747-1755'
+  doi: 10.1136/annrheumdis-2013-204424
+  pmid: '24092682'
+  pmcid: null
+  license_note: CC表示なし（Crossref の license 欄は TDM 用ライセンスのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2912
+  legacy_id: null
+  title: 'Del Galdo F, Lescoat A, Conaghan PG, et al. EULAR recommendations for the treatment of systemic sclerosis: 2023 update. Ann Rheum Dis. 2025;84(1):29-40'
+  citation: 'Del Galdo F, Lescoat A, Conaghan PG, et al. EULAR recommendations for the treatment of systemic sclerosis: 2023 update. Ann Rheum Dis. 2025;84(1):29-40'
+  doi: 10.1136/ard-2024-226430
+  pmid: '39874231'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2913
+  legacy_id: null
+  title: 'Sato S, Hoshino K, Satoh T, et al. RNA helicase encoded by melanoma differentiation-associated gene 5 is a major autoantigen in patients with clinically amyopathic dermatomyositis: Association with rapidly progressive interstitial lung disease. Arthritis Rheum. 2009;60(7):2193-2200'
+  citation: 'Sato S, Hoshino K, Satoh T, et al. RNA helicase encoded by melanoma differentiation-associated gene 5 is a major autoantigen in patients with clinically amyopathic dermatomyositis: Association with rapidly progressive interstitial lung disease. Arthritis Rheum. 2009;60(7):2193-2200'
+  doi: 10.1002/art.24621
+  pmid: '19565506'
+  pmcid: null
+  license_note: Wiley の利用条件のみ（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2914
+  legacy_id: null
+  title: Aggarwal R, Charles-Schoeman C, Schessl J, et al. Trial of Intravenous Immune Globulin in Dermatomyositis. N Engl J Med. 2022;387(14):1264-1278
+  citation: Aggarwal R, Charles-Schoeman C, Schessl J, et al. Trial of Intravenous Immune Globulin in Dermatomyositis. N Engl J Med. 2022;387(14):1264-1278
+  doi: 10.1056/NEJMoa2117912
+  pmid: '36198179'
+  pmcid: null
+  license_note: NEJM の利用条件（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2915
+  legacy_id: null
+  title: 'Tanaka Y, Kuwana M, Fujii T, et al. 2019 Diagnostic criteria for mixed connective tissue disease (MCTD): From the Japan research committee of the ministry of health, labor, and welfare for systemic autoimmune diseases. Mod Rheumatol. 2021;31(1):29-33'
+  citation: 'Tanaka Y, Kuwana M, Fujii T, et al. 2019 Diagnostic criteria for mixed connective tissue disease (MCTD): From the Japan research committee of the ministry of health, labor, and welfare for systemic autoimmune diseases. Mod Rheumatol. 2021;31(1):29-33'
+  doi: 10.1080/14397595.2019.1709944
+  pmid: '31903831'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Crossref・Europe PMC で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2916
+  legacy_id: null
+  title: 'Petty RE, Southwood TR, Manners P, et al.; International League of Associations for Rheumatology. International League of Associations for Rheumatology classification of juvenile idiopathic arthritis: second revision, Edmonton, 2001. J Rheumatol. 2004;31(2):390-392'
+  citation: 'Petty RE, Southwood TR, Manners P, et al.; International League of Associations for Rheumatology. International League of Associations for Rheumatology classification of juvenile idiopathic arthritis: second revision, Edmonton, 2001. J Rheumatol. 2004;31(2):390-392'
+  doi: null
+  pmid: '14760812'
+  pmcid: null
+  license_note: J Rheumatol（CC表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2946
+  legacy_id: null
+  title: Ponte C, Grayson PC, Robson JC, et al. 2022 American College of Rheumatology/EULAR classification criteria for giant cell arteritis. Ann Rheum Dis. 2022;81(12):1647-1653
+  citation: Ponte C, Grayson PC, Robson JC, et al. 2022 American College of Rheumatology/EULAR classification criteria for giant cell arteritis. Ann Rheum Dis. 2022;81(12):1647-1653
+  doi: 10.1136/ard-2022-223480
+  pmid: '36351706'
+  pmcid: null
+  license_note: Crossref は TDM リンクのみで CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2947
+  legacy_id: null
+  title: 日本循環器学会ほか合同研究班. 2026年改訂版 大型血管炎診療ガイドライン. 2026年3月20日発行
+  citation: 日本循環器学会ほか合同研究班. 2026年改訂版 大型血管炎診療ガイドライン. 2026年3月20日発行
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: （無断転載を禁ずる）©日本循環器学会
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2948
+  legacy_id: null
+  title: 'Hellmich B, Sanchez-Alamo B, Schirmer JH, et al. EULAR recommendations for the management of ANCA-associated vasculitis: 2022 update. Ann Rheum Dis. 2024;83(1):30-47'
+  citation: 'Hellmich B, Sanchez-Alamo B, Schirmer JH, et al. EULAR recommendations for the management of ANCA-associated vasculitis: 2022 update. Ann Rheum Dis. 2024;83(1):30-47'
+  doi: 10.1136/ard-2022-223764
+  pmid: '36927642'
+  pmcid: null
+  license_note: Crossref の license 欄に CC の明示なし（TDM・出版社ポリシーへのリンクのみ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2949
+  legacy_id: null
+  title: 厚生労働省. 指定難病 56 ベーチェット病（概要・診断基準等）. 診断基準は厚生労働省ベーチェット病診断基準（2024年小改訂）
+  citation: 厚生労働省. 指定難病 56 ベーチェット病（概要・診断基準等）. 診断基準は厚生労働省ベーチェット病診断基準（2024年小改訂）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-2950
+  legacy_id: null
+  title: 'International Team for the Revision of the International Criteria for Behçet''s Disease (ITR-ICBD). The International Criteria for Behçet''s Disease (ICBD): a collaborative study of 27 countries on the sensitivity and specificity of the new criteria. J Eur Acad Dermatol Venereol. 2014;28(3):338-347'
+  citation: 'International Team for the Revision of the International Criteria for Behçet''s Disease (ITR-ICBD). The International Criteria for Behçet''s Disease (ICBD): a collaborative study of 27 countries on the sensitivity and specificity of the new criteria. J Eur Acad Dermatol Venereol. 2014;28(3):338-347'
+  doi: 10.1111/jdv.12107
+  pmid: '23441863'
+  pmcid: null
+  license_note: Wiley の利用規約（Crossref の license 欄。CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2951
+  legacy_id: null
+  title: 'Dasgupta B, Cimmino MA, Kremers HM, et al. 2012 provisional classification criteria for polymyalgia rheumatica: a EULAR/ACR collaborative initiative. Ann Rheum Dis. 2012;71(4):484-492'
+  citation: 'Dasgupta B, Cimmino MA, Kremers HM, et al. 2012 provisional classification criteria for polymyalgia rheumatica: a EULAR/ACR collaborative initiative. Ann Rheum Dis. 2012;71(4):484-492'
+  doi: 10.1136/annrheumdis-2011-200329
+  pmid: '22388996'
+  pmcid: null
+  license_note: Crossref は TDM リンクのみで CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2952
+  legacy_id: null
+  title: Mukhtyar CB, Bosch P, Dejaco C, et al. 2025 EULAR recommendations for the management of polymyalgia rheumatica and primary large vessel vasculitis. Ann Rheum Dis. 2026
+  citation: Mukhtyar CB, Bosch P, Dejaco C, et al. 2025 EULAR recommendations for the management of polymyalgia rheumatica and primary large vessel vasculitis. Ann Rheum Dis. 2026
+  doi: 10.1016/j.ard.2026.06.009
+  pmid: '42481270'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2953
+  legacy_id: null
+  title: Grayson PC, Ponte C, Suppiah R, et al. 2022 American College of Rheumatology/EULAR classification criteria for Takayasu arteritis. Ann Rheum Dis. 2022;81(12):1654-1660
+  citation: Grayson PC, Ponte C, Suppiah R, et al. 2022 American College of Rheumatology/EULAR classification criteria for Takayasu arteritis. Ann Rheum Dis. 2022;81(12):1654-1660
+  doi: 10.1136/ard-2022-223482
+  pmid: '36351705'
+  pmcid: null
+  license_note: Crossref は TDM リンクのみで CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2954
+  legacy_id: null
+  title: Chung SA, Gorelik M, Langford CA, et al. 2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Polyarteritis Nodosa. Arthritis Rheumatol. 2021;73(8):1384-1393
+  citation: Chung SA, Gorelik M, Langford CA, et al. 2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Polyarteritis Nodosa. Arthritis Rheumatol. 2021;73(8):1384-1393
+  doi: 10.1002/art.41776
+  pmid: '34235883'
+  pmcid: null
+  license_note: Wiley の利用規約のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2955
+  legacy_id: null
+  title: Jennette JC, Falk RJ, Bacon PA, et al. 2012 revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides. Arthritis Rheum. 2013;65(1):1-11
+  citation: Jennette JC, Falk RJ, Bacon PA, et al. 2012 revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides. Arthritis Rheum. 2013;65(1):1-11
+  doi: 10.1002/art.37715
+  pmid: '23045170'
+  pmcid: null
+  license_note: Wiley の利用規約のみ（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2956
+  legacy_id: null
+  title: Kobayashi T, Ayusawa M, Suzuki H, Abe J, Ito S, et al. Revision of diagnostic guidelines for Kawasaki disease (6th revised edition). Pediatr Int. 2020;62(10):1135-1138
+  citation: Kobayashi T, Ayusawa M, Suzuki H, Abe J, Ito S, et al. Revision of diagnostic guidelines for Kawasaki disease (6th revised edition). Pediatr Int. 2020;62(10):1135-1138
+  doi: 10.1111/ped.14326
+  pmid: '33001522'
+  pmcid: null
+  license_note: Wiley の利用規約（Crossref の license 欄。CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+- id: SRC-2957
+  legacy_id: null
+  title: Research Committee of the Japanese Society of Pediatric Cardiology and Cardiac Surgery, Committee for Development of Guidelines for Medical Treatment of Acute Kawasaki Disease. Guidelines for Medical Treatment of Acute Kawasaki Disease (2020 Revised Version). J Pediatr Cardiol Card Surg. 2021;5(1):41-73
+  citation: Research Committee of the Japanese Society of Pediatric Cardiology and Cardiac Surgery, Committee for Development of Guidelines for Medical Treatment of Acute Kawasaki Disease. Guidelines for Medical Treatment of Acute Kawasaki Disease (2020 Revised Version). J Pediatr Cardiol Card Surg. 2021;5(1):41-73
+  doi: 10.24509/jpccs.0501G1
+  pmid: null
+  pmcid: null
+  license_note: © Japanese Society of Pediatric Cardiology and Cardiac Surgery（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/43_im_b.md の出典マスター表から
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
