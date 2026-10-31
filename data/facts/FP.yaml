@@ -1,0 +1,455 @@
+- id: FP-001
+  domain: FP
+  subdomain: 細菌性食中毒
+  assertion:
+    plain_statement_ja: 令和7年（2025年）の食中毒は、事件数1,172件、患者数24,727人、死者数2人であった。病因物質別の事件数はノロウイルス462件（39.4パーセント）、アニサキス280件（23.9パーセント）、カンピロバクター・ジェジュニ／コリ220件（18.8パーセント）の順で多く、患者数はノロウイルス18,566人（75.1パーセント）が最も多かった。食中毒統計で病因物質は、細菌、ウイルス、寄生虫、化学物質、植物性自然毒、動物性自然毒などに区分される。原因施設別では飲食店が事件数の56.1パーセントを占めた。
+    condition:
+      region: 日本
+      対象: 食中毒の発生状況
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3961
+    source: 厚生労働省健康・生活衛生局食品監視安全課『令和7年食中毒発生状況の概要報告について』（資料1-1）・『令和7年食中毒発生状況の概要』（資料1-2）. 令和8年6月16日（資料出所は厚生労働省「食中毒統計調査」）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 政府標準利用規約に準拠（厚生労働省ウェブサイト利用規約）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 数値は厚生労働省「食中毒統計調査」に基づく令和7年分の確定値で、資料の表から読み取ったものを含む。サルモネラ属菌・黄色ブドウ球菌・腸炎ビブリオなど個別菌種の令和7年の事件数・患者数は、公表資料の図表からは読み取れなかったため主張に入れていない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-1-A-①（細菌性食中毒、a）
+    core_curriculum: 'PS-03-05-08 (id: Jkxnubw)；TBL-02-18-016 (id: JpeJNWw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: FP-002
+  domain: FP
+  subdomain: 細菌性食中毒
+  assertion:
+    plain_statement_ja: 食品衛生法第63条第1項により、医師は、食品等による中毒の患者を診断し、又はその死体を検案したときは、直ちに最寄りの保健所長に届け出なければならない。同条第2項により、保健所長は、届出を受けたとき等は速やかに都道府県知事等に報告し、政令で定めるところにより調査を行わなければならず、同条第3項により、都道府県知事等は、省令で定める数を超える中毒患者がある場合などには、直ちに厚生労働大臣に報告しなければならない。
+    condition:
+      region: 日本
+      対象: 食中毒の患者を診断した医師
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3962
+    source: 食品衛生法（昭和22年法律第233号）第63条
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 法令本文（著作権法第13条により著作権の目的とならない）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 条文は現行法で確認した。法律の文言は「直ちに」であり、診断から24時間以内に文書・電話・口頭で届け出るという期限は、食中毒統計作成要領（平成6年厚生労働省通知の別添）による運用の記述である（同要領は本カードの出典ではない）。改正前の旧法では届出は第58条に置かれていたが、現行の第58条は食品等の回収の届出の規定であり、混同しないこと。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-1-A-①（細菌性食中毒、a）
+    core_curriculum: 'PS-03-05-08 (id: Jkxnubw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: FP-003
+  domain: FP
+  subdomain: 細菌性食中毒
+  assertion:
+    plain_statement_ja: カンピロバクター食中毒は、わが国で発生している細菌性食中毒の中で近年発生件数が最も多く、年間200件、患者数1,000〜2,000人程度で推移し、令和7年は事件数220件、患者数1,226人であった。主な原因は、生の状態や加熱不足の鶏肉（鶏レバーやささみなどの刺身、鶏肉のタタキ、鶏わさなど）と、調理中の取扱い不備による二次汚染であり、殺菌不十分な井戸水・湧水等による水系感染の事例もある。潜伏期間は一般に1〜7日間とやや長く、下痢、腹痛、発熱などを呈し、多くの患者は1週間ほどで治癒するが、感染した数週間後にギラン・バレー症候群を発症する場合がある。予防は、食肉の中心部を75℃以上で1分間以上加熱すること、食肉は他の食品と調理器具や容器を分けて処理・保存すること、食肉を取り扱った後の手洗いと、食肉に触れた調理器具等の使用後の洗浄・殺菌である。
+    condition:
+      region: 日本
+      対象: カンピロバクター食中毒
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-059
+    source: 厚生労働省『カンピロバクター食中毒予防について（Q&A）』（作成：平成19年3月5日、最終改正：令和8年5月27日）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/campylobacterqa.html
+    source_license: 政府標準利用規約に準拠（厚生労働省ウェブサイト利用規約）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 出典は出典マスター登録済み（SRC-059）で、本体ページを直接開いて発生状況・潜伏期間・症状・原因食品・予防策の文言を確認した。年間の発生件数・患者数の数値は、Q&A に掲載された発生状況の表から読み取った。マスター登録には URL がないため、確認したページの URL をカード側に書き、マスターへの補完を申し送りに提案する。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-1-A-①（細菌性食中毒、a）
+    core_curriculum: 'PS-03-05-08 (id: Jkxnubw)；TBL-02-18-016 (id: JpeJNWw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: FP-004
+  domain: FP
+  subdomain: ウイルス性食中毒
+  assertion:
+    plain_statement_ja: ノロウイルスによる食中毒は、令和7年に事件数462件（全事件数の39.4パーセント）、患者数18,566人（全患者数の75.1パーセント）で、患者数が最も多い病因物質であった。潜伏期間は24〜48時間で、主症状は吐き気、嘔吐、下痢、腹痛、発熱は軽度であり、通常1〜2日で治癒する。食中毒としての感染経路には、感染した食品取扱者を介して汚染された食品を食べた場合（近年増加傾向にある）、汚染された二枚貝を生あるいは加熱不十分で食べた場合、汚染された井戸水等を消毒不十分で摂取した場合がある。対策として、二枚貝などの食品は中心部が85〜90℃で90秒以上の加熱が望まれ、消毒には次亜塩素酸ナトリウムなどが有効で、消毒用エタノールや逆性石鹸では不十分とされる。症状のある食品取扱者を食品を直接取り扱う作業に従事させないことが求められ、症状がなくなっても通常1週間程度、長いときには1か月程度ウイルスの排泄が続くことがある。ワクチンはなく、治療は対症療法に限られる。
+    condition:
+      region: 日本
+      対象: ノロウイルス食中毒
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-060
+    source: 厚生労働省『ノロウイルスに関するQ&A』（最終改定：令和3年11月19日。発生状況の表は令和8年6月30日更新）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 政府標準利用規約に準拠（厚生労働省ウェブサイト利用規約）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 出典は出典マスター登録済み（SRC-060）で、Q1〜Q18 の本文を確認した。Q&A 本体の最終改定は令和3年11月19日だが、発生状況の表は令和8年6月30日に更新されたものと明記されている。令和7年の事件数・患者数は同表および令和7年食中毒発生状況の概要から読み取った。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-1-A-②（ウイルス性食中毒、a）
+    core_curriculum: 'PS-03-05-08 (id: Jkxnubw)；TBL-02-18-016 (id: JpeJNWw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: FP-005
+  domain: FP
+  subdomain: ウイルス性食中毒
+  assertion:
+    plain_statement_ja: E型肝炎ウイルスは、豚、イノシシ、シカなどの肉や内臓の生食、あるいは加熱不十分な喫食によって食品を介して感染しうる。日本で食品の摂食とE型急性肝炎の直接の関係が初めて確認された事例では、生のシカ肉を食べた4名が6〜7週間後にE型肝炎を発症し、患者から検出されたウイルスと保存されていたシカ肉から検出されたウイルスの遺伝子配列が一致した。妊婦は感染すると劇症肝炎を発症し死亡する率が高いという研究結果があるため、野生動物の肉等の生食は避けることが望ましく、特に妊婦は控えるべきと周知されている。
+    condition:
+      region: 日本
+      対象: E型肝炎ウイルスの食品媒介感染
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-072
+    source: 厚生労働省『E型肝炎に関するQ&A』
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 政府標準利用規約に準拠（厚生労働省ウェブサイト利用規約）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 出典は出典マスター登録済み（SRC-072）で、事例と予防の記述は、この Q&A の元となった平成15年8月1日付け通知の本文で確認した。E型肝炎の疾患としての病態・診断・経過は肝炎の分野（第34回 HV）が正であり、本カードは食品媒介の曝露と予防の側面に限る。A型肝炎ウイルスの食品媒介の側面（潜伏期間が長く原因食品の特定が難しいこと、二枚貝と食品取扱者への対策）は本パートではカードにせず、接点として申し送りに残した。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-1-A-②（ウイルス性食中毒、a）
+    core_curriculum: 'PS-03-05-08 (id: Jkxnubw)；TBL-02-18-016 (id: JpeJNWw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: FP-006
+  domain: FP
+  subdomain: 化学性食中毒
+  assertion:
+    plain_statement_ja: ヒスタミン食中毒は、食品中のヒスチジンにヒスタミン産生菌（Morganella morganii など）の酵素が作用して生成したヒスタミンが、高濃度に蓄積された食品を食べることで発症するアレルギー様の食中毒である。主な原因食品は、ヒスチジンを多く含むマグロ、カジキ、カツオ、サバ、イワシ、サンマ、ブリ、アジなどの赤身魚とその加工品である。ヒスタミンは熱に安定で、調理加工の工程で除去できないため、一度生成されると食中毒を防ぐことはできず、予防は原材料の段階から喫食までの一貫した温度管理（速やかな冷蔵・冷凍、エラ・内臓の早期除去、鮮度が低下した魚を使わないこと）が中心になる。症状は摂取後数分から60分ほどで、口の周りや耳たぶの紅潮、頭痛、じんま疹、発熱などが現れる。発生は毎年続いており、令和7年は13件、患者数431人であった。
+    condition:
+      region: 日本
+      対象: ヒスタミン食中毒
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3963
+    source: 厚生労働省『ヒスタミンによる食中毒について』
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 政府標準利用規約に準拠（厚生労働省ウェブサイト利用規約）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: ヒスタミンの生成には細菌が関与するが、食中毒統計の病因物質の分類では「化学物質」に置かれるため、細菌性食中毒ではなく化学性食中毒として扱った。国内では食品中のヒスタミン濃度の基準値は設定されておらず、有害な物質を含む食品の販売等を禁じる食品衛生法第6条第2号と事業者の衛生管理によって管理されている点は、農林水産省『食品安全に関するリスクプロファイルシート（化学物質）ヒスタミン』（2025年11月28日更新）で確認した（同シートは本カードの出典ではない）。発症量（一般に食品100グラムあたり100ミリグラム以上とされる等）は食品安全委員会のファクトシート紹介資料に基づく二次的な確認のため、主張には入れていない。食物アレルギーとの鑑別はアレルギーの分野が正である。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-1-A-③（化学性食中毒、b）
+    core_curriculum: 'PS-03-05-09 (id: Jkxnub0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: FP-007
+  domain: FP
+  subdomain: 自然毒食中毒
+  assertion:
+    plain_statement_ja: フグはテトロドトキシンを保有し、その毒性は魚種と部位で大きく異なり、一般に肝臓、卵巣、皮膚で強いため、食べられる部位は種ごとに定められている。症状は食後20分から3時間で現れ、唇のしびれに始まって四肢・全身へ広がる麻痺を呈し、重症では呼吸困難により死亡する。テトロドトキシンに有効な治療薬・解毒剤はなく、人工呼吸による呼吸の確保と適切なケアが救命の中心であり、フグ毒は塩蔵、水晒し、加熱では無毒化しない。国内のフグ食中毒は近年おおむね年10件前後、患者も年10人前後で、年によって死亡例がある。予防の基本は法令等で定められた魚種・部位の遵守であり、釣ったフグの自家調理や譲渡による重症・死亡例があるため、素人による同定・調理は危険である。
+    condition:
+      region: 日本
+      対象: フグ毒による食中毒
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3964
+    source: 厚生労働省「自然毒のリスクプロファイル：魚類：フグ毒」
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 政府標準利用規約に準拠（厚生労働省ウェブサイト利用規約）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 厚生労働省のリスクプロファイル本文で確認した範囲。フグの取扱いは1983年の厚生労働省通知により、有毒部位を確実に除去できると認められた者・施設に限る扱いとされているが、通知本文の全文は未確認であり、免許・資格の形態は自治体ごとに異なるため、制度の詳細は主張に入れていない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-1-A-④（自然毒食中毒、b）
+    core_curriculum: 'PS-03-05-09 (id: Jkxnub0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: FP-008
+  domain: FP
+  subdomain: 自然毒食中毒
+  assertion:
+    plain_statement_ja: ドクツルタケの毒成分はアマトキシン類（α、β、γ、ε-アマニチン）とファロトキシン類で、アマトキシンは RNA ポリメラーゼ II を阻害する環状ペプチドであり、成熟したドクツルタケ1本に含まれる量で成人が死亡しうる。中毒の経過は、食後6〜24時間にコレラ様の症状（嘔吐、下痢、腹痛）が現れて約1日でいったん治まった後、24〜72時間で内臓細胞の破壊が進み、肝腫大、黄疸、消化管出血など肝・腎機能障害を呈して死亡することがある。ドクツルタケはシロマツタケモドキ、ハラタケ、ツクリタケなどと誤認されやすく、患者数が最も多いツキヨタケはヒラタケ、ムキタケ、シイタケと誤認される。予防の原則は、食用と確実に判断できないキノコは採らない、食べない、売らない、人にあげないことである。
+    condition:
+      region: 日本
+      対象: 毒キノコによる食中毒
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3965
+    source: 厚生労働省「自然毒のリスクプロファイル：ドクツルタケ」
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 政府標準利用規約に準拠（厚生労働省ウェブサイト利用規約）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 毒成分と中毒の経過、誤認しやすい食用種は厚生労働省のドクツルタケ種別ページで確認した。キノコ食中毒の集計については、厚生労働省リスクプロファイル掲載の表を転載した自治体資料で2015〜2024年の集計（事件237件、患者597人、死亡5人、内訳はツキヨタケ110件・患者305人など）を確認したが、表から読み取った数値であり、期間の異なる別集計（2016〜2025年）とは混用しないため主張には入れていない。海外の総説（Wennig 2020 など）は出典にしていない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-1-A-④（自然毒食中毒、b）
+    core_curriculum: 'PS-03-05-09 (id: Jkxnub0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: FP-009
+  domain: FP
+  subdomain: 節足動物による疾患
+  assertion:
+    plain_statement_ja: 重症熱性血小板減少症候群（SFTS）は、マダニにより媒介される SFTS ウイルスによる感染症で、国内では2013年1月に患者（2012年秋に発症）が初めて確認されて以降、2020年まで毎年60〜100名程度の患者が報告され、2021年以降は毎年100名を超え、2025年は過去最高の183名の患者が報告されている（2025年11月2日時点）。潜伏期間はマダニに刺されてから6日〜2週間程度とされ、発熱、全身倦怠感、消化器症状が主な初期症状で、血小板減少、白血球減少を伴い、重症化して死亡することもあり、日本の患者の致命率は27パーセントと報告されている。患者は西日本を中心に報告されてきたが、2025年に関東や北海道で感染した症例が報告され、全国的に感染リスクがあると考えられている。マダニは日本紅斑熱なども媒介する。予防は、特にマダニの活動が盛んな春から秋に、草むらや藪などに入る場合に肌の露出を少なくし、屋外活動後に入浴してマダニに刺されていないか確認することであり、吸血中のマダニに気付いた場合は無理に引き抜こうとせず、医療機関（皮膚科など）で除去してもらう。刺された後、数週間程度は体調の変化に注意し、発熱等の症状が現れた場合は速やかに受診して、マダニに刺されたことを医師に伝える。
+    condition:
+      region: 日本
+      対象: マダニ刺咬と SFTS
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3966
+    source: 厚生労働省『重症熱性血小板減少症候群（SFTS）に関するQ&A』（第9版、令和8年10月7日作成）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou19/sfts_qa.html
+    source_license: 政府標準利用規約に準拠（厚生労働省ウェブサイト利用規約）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 本体ページ（第9版）を直接開いて、発生状況（Q3、Q13）、致命率（Q18）、潜伏期間（Q22）、予防（Q14）と刺咬時の対応（Q15）を確認した。患者数は表からではなく本文の記述による。薬剤名については、抗ウイルス薬ファビピラビルが2024年6月に SFTS への適応で国内承認されていることを同じ Q&A（Q28）で確認した（治療の詳細は診療の手引きの範囲であり本カードでは扱わない）。日本紅斑熱の発生動向の詳細は感染症としての側面であり本カードでは扱わない（Otsuka 2023 は PMID が未確認のため出典にしていない）。ツツガムシ病は第35回 CM-005 で作成済みであり、作り直していない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-1-B-①（節足動物による疾患、b）
+    core_curriculum: 'PS-03-05-08 (id: Jkxnubw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: FP-010
+  domain: FP
+  subdomain: 節足動物による疾患
+  assertion:
+    plain_statement_ja: 日本で人を刺すハチ類には、スズメバチ類16種、アシナガバチ類11種、ミツバチ類2種、マルハナバチ類14種がある。ハチ刺症の受診例は8月にピークがあり、約90パーセントが7〜9月に集中する。死亡例の多くは毒そのものの致死量によるものではなく、I 型（IgE）アレルギーによるものと推測され、死亡は男性が女性の約3倍で、40歳以上の中高年や山間部に多く、農林業従事者が高リスクとされた。当時の厚生省への報告では、ハチ刺症による死亡は年により変動し年30〜40人程度であった。巣に遭遇した際の予防行動として、大声を出したり腕を振ったりせず、身をかがめて素早く離れることが挙げられている。
+    condition:
+      region: 日本
+      対象: ハチ刺傷
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3967
+    source: IASR（病原微生物検出情報）月報特集 Vol.18 No.8（No.210）. Hymenopteran stings in Japan（日本におけるハチ刺症）. 1997
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 政府標準利用規約に準拠（厚生労働省ウェブサイト利用規約）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 出典は1997年の特集であり、死亡数を含む数値は当時の報告である。近年の国内死亡数（年20人前後とする二次情報がある）は、人口動態統計の原表で確認できていないため主張に入れていない。ハチ刺傷のアナフィラキシーの一般論と毒免疫療法はアレルギーの分野（第42回 AL）が正であり、本カードは発生時期、高リスク者、回避行動という曝露の側面に限る。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-1-B-①（節足動物による疾患、b）
+    core_curriculum: 'PS-03-05-08 (id: Jkxnubw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: FP-011
+  domain: FP
+  subdomain: 毒蛇咬傷
+  assertion:
+    plain_statement_ja: 国内の毒蛇咬傷（マムシ、ハブ、ヤマカガシ）の診断に使える決定的なマーカーやキットはなく、診断はヘビの同定と毒による症状の観察に基づく。マムシ咬傷では腫脹と疼痛が徐々に広がり、毒の血小板凝集作用で血小板数が低下し、毒が直接血管内に入った場合は急激に低下しうる。ハブ咬傷では30分以内に腫脹が現れ、重症では嘔吐、チアノーゼ、意識消失、低血圧を伴う。ヤマカガシ咬傷は、線溶型の重症の播種性血管内凝固（低フィブリノゲン血症と FDP 上昇）を伴う、生命を脅かす出血症状を起こす。かつて推奨された応急処置としての緊縛、切開、吸引は強く推奨されない。3種とも抗毒素による治療が可能であり、副作用への備えが必要である。
+    condition:
+      region: 日本
+      対象: 毒蛇咬傷患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3968
+    source: 'Hifumi T, Sakai A, Kondo Y, Yamamoto A, Morine N, Ato M, Shibayama K, Umezawa K, Kiriu N, Kato H, Koido Y, Inoue J, Kawakita K, Kuroda Y. Venomous snake bites: clinical diagnosis and treatment. J Intensive Care. 2015;3(1):16'
+    doi: 10.1186/s40560-015-0081-8
+    pmid: '25866646'
+    pmcid: PMC4393627
+    url: https://doi.org/10.1186/s40560-015-0081-8
+    source_license: CC BY 4.0（論文全文の著作権表示で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: マムシとハブの抗毒素（乾燥まむしウマ抗毒素注射用6000単位、乾燥はぶウマ抗毒素注射用6000単位）は国内で承認された製剤であることを、それぞれの医薬品添付文書で確認した。ヤマカガシ抗毒素は国内では未承認であり、使用は適応外使用として臨床研究グループへの参加が必要とされる（出典の総説の記載による）。毒蛇咬傷には届出に基づく全国一本の公式統計がなく、発生数・死亡数は文献や調査ごとに幅があるため、単一の数値は主張に入れていない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-1-B-②（毒蛇咬傷、c）
+    core_curriculum: 'PS-03-05-08 (id: Jkxnubw)；PS-03-05-09 (id: Jkxnub0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: FP-012
+  domain: FP
+  subdomain: 旅行者下痢症
+  assertion:
+    plain_statement_ja: 旅行者下痢症は最も予測可能な旅行関連疾患で、罹患率は行き先と季節により、2週間で旅行者の30〜70パーセントに達する。「沸かす、調理する、皮をむく、でなければ食べない」という伝統的な食事の心得を守っても発症を確実には防げず、心得を守る人でも罹患するため、レストランの衛生状態と地域の衛生インフラが最大の要因と考えられている。予防として、飲食物の慎重な選択、石鹸による手洗い、手洗いができない場面での60パーセント以上のアルコール手指消毒が挙げられる。非抗菌薬の予防として次サリチル酸ビスマスはメキシコでの研究で旅行者下痢症の発生を約50パーセント減らしたが、禁忌が多く、一般に12歳未満には用いられない。予防的抗菌薬は、旧来の研究で罹患率を大きく下げたものの、ほぼすべての旅行者では副作用や耐性菌の保菌などのリスクが利益を上回るため、免疫不全や重大な併存疾患のある短期の高リスク旅行者にまれに検討するに留められる。
+    condition:
+      region: 国際
+      対象: 海外旅行者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3969
+    source: 'Connor BA, Leung DT. Travelers'' Diarrhea. In: CDC Yellow Book 2026. 米国疾病予防管理センター（ページ更新：2026年3月24日）'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 米国連邦政府の著作物（パブリックドメイン）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 出典は米国 CDC の Yellow Book 2026年版の章であり、記載は米国の制度と実践を前提とする。薬剤名については、次サリチル酸ビスマス（BSS）とリファキシミンの国内承認・保険適用の状況は本作成時点で未確認である。病原体の内訳や治療の一般論は感染症の分野が正であり、本カードは旅行という曝露の側面（リスク、飲食物と水の注意、予防の位置づけ）に限る。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-1-C-①（旅行者下痢症、b）
+    core_curriculum: 'PS-03-05-08 (id: Jkxnubw)；TBL-02-18-016 (id: JpeJNWw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: FP-013
+  domain: FP
+  subdomain: 旅行者下痢症
+  assertion:
+    plain_statement_ja: 旅行者下痢症の自己治療は機能的な重症度によって位置づけられる。軽症（我慢でき、支障がない）では抗菌薬は推奨されず、水分補給を基本に、次サリチル酸ビスマスやロペラミドを検討する。中等症（つらい、または支障がある）では抗菌薬を使用でき（アジスロマイシン、フルオロキノロン、非侵襲性の場合はリファキシミン）、ロペラミドは単独または補助として使う。重症（生活不能であり、血性下痢はすべて重症として扱う）では抗菌薬が勧められ、アジスロマイシンが優先され、ロペラミドは補助のみで、血便・発熱がある場合に単独では使わない。用量の例として、アジスロマイシン1,000ミリグラム単回（分割可）または500ミリグラムを1日1回、3日間が示されている。抗菌薬は細菌性の場合に経過を約1〜2日短縮するが、耐性菌の定着のリスクを上げる。
+    condition:
+      region: 国際
+      対象: 旅行者下痢症の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3970
+    source: 'Riddle MS, Connor BA, Beeching NJ, et al. Guidelines for the prevention and treatment of travelers'' diarrhea: a graded expert panel report. J Travel Med. 2017;24(Suppl 1):S57-S74'
+    doi: 10.1093/jtm/tax026
+    pmid: '28521004'
+    pmcid: PMC5731448
+    url: https://doi.org/10.1093/jtm/tax026
+    source_license: PMC 版の著作権表示に基づく米国政府職員の著作物（米国内ではパブリックドメイン）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 本出典は学術誌論文であるが、PMC 版の著作権表示が米国政府職員の著作物であることに基づき GOV_US とした。OPEN とする解釈もありうるため、source_class の最終判定は取り込み側に委ねる。薬剤名については、アジスロマイシンは国内で承認された抗菌薬であるが、旅行者下痢症に対する国内の適応・保険適用の範囲は未確認であり、リファキシミンと次サリチル酸ビスマスの国内承認・保険適用の状況も未確認である。本カードの推奨の枠組みは米国指針の記載として扱う。用量は出典の表から読み取った。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-1-C-①（旅行者下痢症、b）
+    core_curriculum: 'PS-03-05-08 (id: Jkxnubw)；TBL-02-18-016 (id: JpeJNWw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）

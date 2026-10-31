@@ -32562,3 +32562,423 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-3961
+  legacy_id: null
+  title: 厚生労働省健康・生活衛生局食品監視安全課『令和7年食中毒発生状況の概要報告について』（資料1-1）・『令和7年食中毒発生状況の概要』（資料1-2）. 令和8年6月16日（資料出所は厚生労働省「食中毒統計調査」）
+  citation: 厚生労働省健康・生活衛生局食品監視安全課『令和7年食中毒発生状況の概要報告について』（資料1-1）・『令和7年食中毒発生状況の概要』（資料1-2）. 令和8年6月16日（資料出所は厚生労働省「食中毒統計調査」）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3962
+  legacy_id: null
+  title: 食品衛生法（昭和22年法律第233号）第63条
+  citation: 食品衛生法（昭和22年法律第233号）第63条
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3963
+  legacy_id: null
+  title: 厚生労働省『ヒスタミンによる食中毒について』
+  citation: 厚生労働省『ヒスタミンによる食中毒について』
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3964
+  legacy_id: null
+  title: 厚生労働省「自然毒のリスクプロファイル：魚類：フグ毒」
+  citation: 厚生労働省「自然毒のリスクプロファイル：魚類：フグ毒」
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3965
+  legacy_id: null
+  title: 厚生労働省「自然毒のリスクプロファイル：ドクツルタケ」
+  citation: 厚生労働省「自然毒のリスクプロファイル：ドクツルタケ」
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3966
+  legacy_id: null
+  title: 厚生労働省『重症熱性血小板減少症候群（SFTS）に関するQ&A』（第9版、令和8年10月7日作成）
+  citation: 厚生労働省『重症熱性血小板減少症候群（SFTS）に関するQ&A』（第9版、令和8年10月7日作成）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3967
+  legacy_id: null
+  title: IASR（病原微生物検出情報）月報特集 Vol.18 No.8（No.210）. Hymenopteran stings in Japan（日本におけるハチ刺症）. 1997
+  citation: IASR（病原微生物検出情報）月報特集 Vol.18 No.8（No.210）. Hymenopteran stings in Japan（日本におけるハチ刺症）. 1997
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3968
+  legacy_id: null
+  title: 'Hifumi T, Sakai A, Kondo Y, Yamamoto A, Morine N, Ato M, Shibayama K, Umezawa K, Kiriu N, Kato H, Koido Y, Inoue J, Kawakita K, Kuroda Y. Venomous snake bites: clinical diagnosis and treatment. J Intensive Care. 2015;3(1):16'
+  citation: 'Hifumi T, Sakai A, Kondo Y, Yamamoto A, Morine N, Ato M, Shibayama K, Umezawa K, Kiriu N, Kato H, Koido Y, Inoue J, Kawakita K, Kuroda Y. Venomous snake bites: clinical diagnosis and treatment. J Intensive Care. 2015;3(1):16'
+  doi: 10.1186/s40560-015-0081-8
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3969
+  legacy_id: null
+  title: 'Connor BA, Leung DT. Travelers'' Diarrhea. In: CDC Yellow Book 2026. 米国疾病予防管理センター（ページ更新：2026年3月24日）'
+  citation: 'Connor BA, Leung DT. Travelers'' Diarrhea. In: CDC Yellow Book 2026. 米国疾病予防管理センター（ページ更新：2026年3月24日）'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3970
+  legacy_id: null
+  title: 'Riddle MS, Connor BA, Beeching NJ, et al. Guidelines for the prevention and treatment of travelers'' diarrhea: a graded expert panel report. J Travel Med. 2017;24(Suppl 1):S57-S74'
+  citation: 'Riddle MS, Connor BA, Beeching NJ, et al. Guidelines for the prevention and treatment of travelers'' diarrhea: a graded expert panel report. J Travel Med. 2017;24(Suppl 1):S57-S74'
+  doi: 10.1093/jtm/tax026
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3971
+  legacy_id: null
+  title: Mirijello A, Sestito L, Antonelli M, Gasbarrini A, Addolorato G. Identification and management of acute alcohol intoxication. Eur J Intern Med. 2023;108:1-8
+  citation: Mirijello A, Sestito L, Antonelli M, Gasbarrini A, Addolorato G. Identification and management of acute alcohol intoxication. Eur J Intern Med. 2023;108:1-8
+  doi: 10.1016/j.ejim.2022.08.013
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3972
+  legacy_id: null
+  title: 厚生労働省. 急性アルコール中毒. e-ヘルスネット（生活習慣病などの情報）
+  citation: 厚生労働省. 急性アルコール中毒. e-ヘルスネット（生活習慣病などの情報）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3973
+  legacy_id: null
+  title: Schuckit MA. Recognition and Management of Withdrawal Delirium (Delirium Tremens). N Engl J Med. 2014;371(22):2109-2113
+  citation: Schuckit MA. Recognition and Management of Withdrawal Delirium (Delirium Tremens). N Engl J Med. 2014;371(22):2109-2113
+  doi: 10.1056/NEJMra1407298
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3974
+  legacy_id: null
+  title: 'Jophlin LL, Singal AK, Bataller R, Wong RJ, Sauer BG, Terrault NA, Shah VH. ACG Clinical Guideline: Alcohol-Associated Liver Disease. Am J Gastroenterol. 2024;119(1):30-54'
+  citation: 'Jophlin LL, Singal AK, Bataller R, Wong RJ, Sauer BG, Terrault NA, Shah VH. ACG Clinical Guideline: Alcohol-Associated Liver Disease. Am J Gastroenterol. 2024;119(1):30-54'
+  doi: 10.14309/ajg.0000000000002572
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3975
+  legacy_id: null
+  title: 'Domínguez F, Adler E, García-Pavía P. Alcoholic cardiomyopathy: an update. Eur Heart J. 2024;45(26):2294-2305'
+  citation: 'Domínguez F, Adler E, García-Pavía P. Alcoholic cardiomyopathy: an update. Eur Heart J. 2024;45(26):2294-2305'
+  doi: 10.1093/eurheartj/ehae362
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3976
+  legacy_id: null
+  title: Centers for Disease Control and Prevention. About Alcohol Use During Pregnancy. Alcohol and Pregnancy. CDC
+  citation: Centers for Disease Control and Prevention. About Alcohol Use During Pregnancy. Alcohol and Pregnancy. CDC
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3977
+  legacy_id: null
+  title: Gunja N. The Clinical and Forensic Toxicology of Z-drugs. J Med Toxicol. 2013;9(2):155-162
+  citation: Gunja N. The Clinical and Forensic Toxicology of Z-drugs. J Med Toxicol. 2013;9(2):155-162
+  doi: 10.1007/s13181-013-0292-0
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3978
+  legacy_id: null
+  title: フルマゼニル静注0.5mgシリンジ「テルモ」添付文書（2023年12月改訂、第1版）. PMDA 医薬品添付文書情報
+  citation: フルマゼニル静注0.5mgシリンジ「テルモ」添付文書（2023年12月改訂、第1版）. PMDA 医薬品添付文書情報
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3979
+  legacy_id: null
+  title: 'Kerr GW, McGuffie AC, Wilkie S. Tricyclic antidepressant overdose: a review. Emerg Med J. 2001;18(4):236-241'
+  citation: 'Kerr GW, McGuffie AC, Wilkie S. Tricyclic antidepressant overdose: a review. Emerg Med J. 2001;18(4):236-241'
+  doi: 10.1136/emj.18.4.236
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3980
+  legacy_id: null
+  title: Pentel PR, Benowitz NL. Tricyclic antidepressant poisoning. Management of arrhythmias. Med Toxicol. 1986;1(2):101-121
+  citation: Pentel PR, Benowitz NL. Tricyclic antidepressant poisoning. Management of arrhythmias. Med Toxicol. 1986;1(2):101-121
+  doi: 10.1007/BF03259831
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3981
+  legacy_id: null
+  title: 'Dart RC, et al. Management of Acetaminophen Poisoning in the US and Canada: A Consensus Statement. JAMA Netw Open. 2023;6(8):e2327739'
+  citation: 'Dart RC, et al. Management of Acetaminophen Poisoning in the US and Canada: A Consensus Statement. JAMA Netw Open. 2023;6(8):e2327739'
+  doi: 10.1001/jamanetworkopen.2023.27739
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3982
+  legacy_id: null
+  title: 'Juurlink DN, et al.; EXTRIP Workgroup. Extracorporeal Treatment for Salicylate Poisoning: Systematic Review and Recommendations From the EXTRIP Workgroup. Ann Emerg Med. 2015;66(2):165-181'
+  citation: 'Juurlink DN, et al.; EXTRIP Workgroup. Extracorporeal Treatment for Salicylate Poisoning: Systematic Review and Recommendations From the EXTRIP Workgroup. Ann Emerg Med. 2015;66(2):165-181'
+  doi: 10.1016/j.annemergmed.2015.03.031
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3983
+  legacy_id: null
+  title: ナロキソン塩酸塩静注0.2mg「AFP」添付文書（2021年12月作成、第1版）. PMDA 医薬品添付文書情報
+  citation: ナロキソン塩酸塩静注0.2mg「AFP」添付文書（2021年12月作成、第1版）. PMDA 医薬品添付文書情報
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3984
+  legacy_id: null
+  title: 'Walley AY, Xuan Z, Hackman HH, et al. Opioid overdose rates and implementation of overdose education and nasal naloxone distribution in Massachusetts: interrupted time series analysis. BMJ. 2013;346:f174'
+  citation: 'Walley AY, Xuan Z, Hackman HH, et al. Opioid overdose rates and implementation of overdose education and nasal naloxone distribution in Massachusetts: interrupted time series analysis. BMJ. 2013;346:f174'
+  doi: 10.1136/bmj.f174
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3985
+  legacy_id: null
+  title: Coffin PO, Suen LW. Methamphetamine Toxicities and Clinical Management. NEJM Evid. 2023;2(12):EVIDra2300160
+  citation: Coffin PO, Suen LW. Methamphetamine Toxicities and Clinical Management. NEJM Evid. 2023;2(12):EVIDra2300160
+  doi: 10.1056/EVIDra2300160
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3986
+  legacy_id: null
+  title: 'Yücel M, Takagi M, Walterfang M, Lubman DI. Toluene misuse and long-term harms: a systematic review of the neuropsychological and neuroimaging literature. Neurosci Biobehav Rev. 2008;32(5):910-926'
+  citation: 'Yücel M, Takagi M, Walterfang M, Lubman DI. Toluene misuse and long-term harms: a systematic review of the neuropsychological and neuroimaging literature. Neurosci Biobehav Rev. 2008;32(5):910-926'
+  doi: 10.1016/j.neubiorev.2008.01.006
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3987
+  legacy_id: null
+  title: 厚生労働省. 毒劇物の通関の際における取扱要領（令和2年8月31日、令和6年9月20日改正）. 毒物及び劇物取締法（昭和25年法律第303号）
+  citation: 厚生労働省. 毒劇物の通関の際における取扱要領（令和2年8月31日、令和6年9月20日改正）. 毒物及び劇物取締法（昭和25年法律第303号）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-3988
+  legacy_id: null
+  title: 一般社団法人日本中毒学会（監修）. 新版 急性中毒標準診療ガイド. へるす出版. 2023. ISBN 9784867190715
+  citation: 一般社団法人日本中毒学会（監修）. 新版 急性中毒標準診療ガイド. へるす出版. 2023. ISBN 9784867190715
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/55_ev_a.md の出典マスター表から
