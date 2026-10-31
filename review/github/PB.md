@@ -33,10 +33,10 @@
 - 条件：region: 日本／対象: 新生児・乳児
 - 不確実性：従来の標準であった2010年改訂ガイドラインの3回投与法からの変更である。ビタミンK2シロップ（ケイツーシロップ0.2%、メナテトレノン）は国内で販売されていることを確認したが、予防投与そのものの保険適用の扱いは未確認。
 - 出典：日本小児科学会新生児委員会. 新生児・乳児ビタミンK欠乏症出血症の予防法に関するQ&A. 日本小児科学会. 2021.　[リンク](http://www.jpeds.or.jp/uploads/files/20211130_VK_h.pdf)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅶ-5-A-①（ビタミンK欠乏症、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；TBL-01-00-396 (id: JlvnmE0)；TBL-02-01-014 (id: JlAKpWU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PB-003&card_id=PB-003&version=6e75cb6913)　（版 `6e75cb6913`）
+- 出題基準：医学各論 Ⅶ-5-A-①（ビタミンK欠乏症、a）；医学各論 Ⅰ-3-H-①（ビタミンK欠乏症、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；TBL-01-00-396 (id: JlvnmE0)；TBL-02-01-014 (id: JlAKpWU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PB-003&card_id=PB-003&version=1106594be7)　（版 `1106594be7`）
 
-**[ここまでの 3 件（PB-001〜PB-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PB-001%E3%80%9CPB-003&cards=PB-001%205f9a4bf1f4%0APB-002%2080869d6d9d%0APB-003%206e75cb6913)**
+**[ここまでの 3 件（PB-001〜PB-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PB-001%E3%80%9CPB-003&cards=PB-001%205f9a4bf1f4%0APB-002%2080869d6d9d%0APB-003%201106594be7)**
 
 ---
 

@@ -91,7 +91,7 @@
     corroboration: null
   uncertainty: 従来の標準であった2010年改訂ガイドラインの3回投与法からの変更である。ビタミンK2シロップ（ケイツーシロップ0.2%、メナテトレノン）は国内で販売されていることを確認したが、予防投与そのものの保険適用の扱いは未確認。
   curriculum:
-    kokushi: 医学各論 Ⅶ-5-A-①（ビタミンK欠乏症、a）
+    kokushi: 医学各論 Ⅶ-5-A-①（ビタミンK欠乏症、a）；医学各論 Ⅰ-3-H-①（ビタミンK欠乏症、a）
     core_curriculum: 'PS-02-02-05 (id: JkxnuPc)；TBL-01-00-396 (id: JlvnmE0)；TBL-02-01-014 (id: JlAKpWU)'
   publication_info:
     created: '2026-10-31'
@@ -103,6 +103,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/41_hm_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅰ-3-H-① を足した（医学各論 Ⅶ-5-A-①（ビタミンK欠乏症、a） → 医学各論 Ⅶ-5-A-①（ビタミンK欠乏症、a）；医学各論 Ⅰ-3-H-①（ビタミンK欠乏症、a））。三原の承認による
 - id: PB-004
   domain: PB
   subdomain: サラセミア
