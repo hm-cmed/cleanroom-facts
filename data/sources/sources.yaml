@@ -31707,3 +31707,858 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md の出典マスター表から
+- id: SRC-4026
+  legacy_id: null
+  title: 'Li Y, Hecht SS. Carcinogenic components of tobacco and tobacco smoke: A 2022 update. Food Chem Toxicol. 2022;167:113179'
+  citation: 'Li Y, Hecht SS. Carcinogenic components of tobacco and tobacco smoke: A 2022 update. Food Chem Toxicol. 2022;167:113179'
+  doi: 10.1016/j.fct.2022.113179
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4027
+  legacy_id: null
+  title: 尾﨑米厚（研究代表者）. 厚生労働科学研究費補助金 総括研究報告書「喫煙、飲酒等生活習慣の実態把握及び生活習慣の改善に向けた研究」（2021年度中高生全国調査を含む）
+  citation: 尾﨑米厚（研究代表者）. 厚生労働科学研究費補助金 総括研究報告書「喫煙、飲酒等生活習慣の実態把握及び生活習慣の改善に向けた研究」（2021年度中高生全国調査を含む）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4028
+  legacy_id: null
+  title: 日本循環器学会・日本肺癌学会・日本癌学会・日本呼吸器学会. 禁煙治療のための標準手順書 第7版. 2020年4月
+  citation: 日本循環器学会・日本肺癌学会・日本癌学会・日本呼吸器学会. 禁煙治療のための標準手順書 第7版. 2020年4月
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4029
+  legacy_id: null
+  title: Livingstone-Banks J, Fanshawe TR, Thomas KH, Theodoulou A, Hajizadeh A, et al. Nicotine receptor partial agonists for smoking cessation. Cochrane Database Syst Rev. 2023;5(5):CD006103
+  citation: Livingstone-Banks J, Fanshawe TR, Thomas KH, Theodoulou A, Hajizadeh A, et al. Nicotine receptor partial agonists for smoking cessation. Cochrane Database Syst Rev. 2023;5(5):CD006103
+  doi: 10.1002/14651858.CD006103.pub8
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4030
+  legacy_id: null
+  title: 'Adeloye D, Song P, Zhu Y, Campbell H, Sheikh A, Rudan I. Global, regional, and national prevalence of, and risk factors for, chronic obstructive pulmonary disease (COPD) in 2019: a systematic review and modelling analysis. Lancet Respir Med. 2022;10(5):447-458'
+  citation: 'Adeloye D, Song P, Zhu Y, Campbell H, Sheikh A, Rudan I. Global, regional, and national prevalence of, and risk factors for, chronic obstructive pulmonary disease (COPD) in 2019: a systematic review and modelling analysis. Lancet Respir Med. 2022;10(5):447-458'
+  doi: 10.1016/S2213-2600(21)00511-7
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4031
+  legacy_id: null
+  title: Katanoda K, Hirabayashi M, Saito E, Hori M, Abe SK, et al. Burden of cancer attributable to tobacco smoke in Japan in 2015. GHM Open. 2021;1(2):43-50
+  citation: Katanoda K, Hirabayashi M, Saito E, Hori M, Abe SK, et al. Burden of cancer attributable to tobacco smoke in Japan in 2015. GHM Open. 2021;1(2):43-50
+  doi: 10.35772/ghmo.2021.01013
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4032
+  legacy_id: null
+  title: 'Hackshaw A, Morris JK, Boniface S, Tang JL, Milenković D. Low cigarette consumption and risk of coronary heart disease and stroke: meta-analysis of 141 cohort studies in 55 study reports. BMJ. 2018;360:j5855'
+  citation: 'Hackshaw A, Morris JK, Boniface S, Tang JL, Milenković D. Low cigarette consumption and risk of coronary heart disease and stroke: meta-analysis of 141 cohort studies in 55 study reports. BMJ. 2018;360:j5855'
+  doi: 10.1136/bmj.j5855
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4033
+  legacy_id: null
+  title: 'Kunori Y, Saijo Y, Yoshioka E, Sato Y, Kanaya T, Nakanishi K, et al. Evaluating association of smoking status during pregnancy with adverse birth outcomes using urinary cotinine concentration: The Japan Environment and Children''s Study (JECS). Environ Res. 2022;215(Pt 2):114302'
+  citation: 'Kunori Y, Saijo Y, Yoshioka E, Sato Y, Kanaya T, Nakanishi K, et al. Evaluating association of smoking status during pregnancy with adverse birth outcomes using urinary cotinine concentration: The Japan Environment and Children''s Study (JECS). Environ Res. 2022;215(Pt 2):114302'
+  doi: 10.1016/j.envres.2022.114302
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4034
+  legacy_id: null
+  title: Kosnett MJ, Wedeen RP, Rothenberg SJ, et al. Recommendations for medical management of adult lead exposure. Environ Health Perspect. 2007;115(3):463-471
+  citation: Kosnett MJ, Wedeen RP, Rothenberg SJ, et al. Recommendations for medical management of adult lead exposure. Environ Health Perspect. 2007;115(3):463-471
+  doi: 10.1289/ehp.9784
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4035
+  legacy_id: null
+  title: Vranová M, Štěpánková L, Kushkevych I, et al. Occupational injuries caused by exposure to hydrogen sulfide generated by microbial activity. Environ Occup Health Pract. 2026;8(1)
+  citation: Vranová M, Štěpánková L, Kushkevych I, et al. Occupational injuries caused by exposure to hydrogen sulfide generated by microbial activity. Environ Occup Health Pract. 2026;8(1)
+  doi: 10.1539/eohp.2025-0048
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4036
+  legacy_id: null
+  title: 有機溶剤中毒予防規則（昭和47年労働省令第36号）
+  citation: 有機溶剤中毒予防規則（昭和47年労働省令第36号）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4037
+  legacy_id: null
+  title: 厚生労働省. 化学物質による労働災害防止のための新たな規制について（労働安全衛生規則等の一部を改正する省令等の施行について、令和4年5月31日付け基発0531第9号に基づく解説資料）
+  citation: 厚生労働省. 化学物質による労働災害防止のための新たな規制について（労働安全衛生規則等の一部を改正する省令等の施行について、令和4年5月31日付け基発0531第9号に基づく解説資料）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4038
+  legacy_id: null
+  title: Eddleston M, Buckley NA, Eyer P, Dawson AH. Management of acute organophosphorus pesticide poisoning. Lancet. 2008;371(9612):597-607
+  citation: Eddleston M, Buckley NA, Eyer P, Dawson AH. Management of acute organophosphorus pesticide poisoning. Lancet. 2008;371(9612):597-607
+  doi: 10.1016/S0140-6736(07)61202-1
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4039
+  legacy_id: null
+  title: Gawarammana IB, Buckley NA. Medical management of paraquat ingestion. Br J Clin Pharmacol. 2011;72(5):745-757
+  citation: Gawarammana IB, Buckley NA. Medical management of paraquat ingestion. Br J Clin Pharmacol. 2011;72(5):745-757
+  doi: 10.1111/j.1365-2125.2011.04026.x
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4040
+  legacy_id: null
+  title: 厚生労働省労働基準局長通知「職場における腰痛予防対策の推進について」（平成25年6月18日、基発0618第1号）。別添「職場における腰痛予防対策指針及び解説」
+  citation: 厚生労働省労働基準局長通知「職場における腰痛予防対策の推進について」（平成25年6月18日、基発0618第1号）。別添「職場における腰痛予防対策指針及び解説」
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4041
+  legacy_id: null
+  title: 労働省労働基準局長通知「上肢作業に基づく疾病の業務上外の認定基準について」（平成9年2月3日、基発第65号）
+  citation: 労働省労働基準局長通知「上肢作業に基づく疾病の業務上外の認定基準について」（平成9年2月3日、基発第65号）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4042
+  legacy_id: null
+  title: 厚生労働省労働基準局長通知「情報機器作業における労働衛生管理のためのガイドラインについて」（令和元年7月12日、基発0712第3号。令和3年12月1日 基発1201第7号で一部改正）
+  citation: 厚生労働省労働基準局長通知「情報機器作業における労働衛生管理のためのガイドラインについて」（令和元年7月12日、基発0712第3号。令和3年12月1日 基発1201第7号で一部改正）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4043
+  legacy_id: null
+  title: 厚生労働省労働基準局長通知「血管病変等を著しく増悪させる業務による脳血管疾患及び虚血性心疾患等の認定基準について」（令和3年9月14日、基発0914第1号）
+  citation: 厚生労働省労働基準局長通知「血管病変等を著しく増悪させる業務による脳血管疾患及び虚血性心疾患等の認定基準について」（令和3年9月14日、基発0914第1号）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4044
+  legacy_id: null
+  title: 厚生労働省・都道府県労働局・労働基準監督署. 脳・心臓疾患の労災認定 ― 過労死等の労災補償（パンフレット、令和4年10月版）
+  citation: 厚生労働省・都道府県労働局・労働基準監督署. 脳・心臓疾患の労災認定 ― 過労死等の労災補償（パンフレット、令和4年10月版）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4045
+  legacy_id: null
+  title: 厚生労働省労働基準局長通知「心理的負荷による精神障害の認定基準について」（令和5年9月1日、基発0901第2号）
+  citation: 厚生労働省労働基準局長通知「心理的負荷による精神障害の認定基準について」（令和5年9月1日、基発0901第2号）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4046
+  legacy_id: null
+  title: 労働安全衛生法（昭和47年法律第57号）第66条の10（心理的な負担の程度を把握するための検査等）
+  citation: 労働安全衛生法（昭和47年法律第57号）第66条の10（心理的な負担の程度を把握するための検査等）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4047
+  legacy_id: null
+  title: Nicholson PJ, Cullinan P, Newman Taylor AJ, Burge PS, Boyle C. Evidence based guidelines for the prevention, identification, and management of occupational asthma. Occup Environ Med. 2005;62(5):290-299
+  citation: Nicholson PJ, Cullinan P, Newman Taylor AJ, Burge PS, Boyle C. Evidence based guidelines for the prevention, identification, and management of occupational asthma. Occup Environ Med. 2005;62(5):290-299
+  doi: 10.1136/oem.2004.016287
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4048
+  legacy_id: null
+  title: Ohkouchi S, Morimoto Y, Suganuma N, et al.; Occupational Respiratory Disease Study Group in Japan. Importance of early detection and treatment of occupational hypersensitivity pneumonitis. J Occup Health. 2025;67(1):uiaf026
+  citation: Ohkouchi S, Morimoto Y, Suganuma N, et al.; Occupational Respiratory Disease Study Group in Japan. Importance of early detection and treatment of occupational hypersensitivity pneumonitis. J Occup Health. 2025;67(1):uiaf026
+  doi: 10.1093/joccuh/uiaf026
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4049
+  legacy_id: null
+  title: Moscato G, Vandenplas O, Gerth van Wijk R, et al.; EAACI Task Force on Occupational Rhinitis. EAACI position paper on occupational rhinitis. Respir Res. 2009;10:16
+  citation: Moscato G, Vandenplas O, Gerth van Wijk R, et al.; EAACI Task Force on Occupational Rhinitis. EAACI position paper on occupational rhinitis. Respir Res. 2009;10:16
+  doi: 10.1186/1465-9921-10-16
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4050
+  legacy_id: null
+  title: 'Houle MC, Holness DL, DeKoven J. Occupational Contact Dermatitis: An Individualized Approach to the Worker with Dermatitis. Curr Dermatol Rep. 2021;10(4):182-191'
+  citation: 'Houle MC, Holness DL, DeKoven J. Occupational Contact Dermatitis: An Individualized Approach to the Worker with Dermatitis. Curr Dermatol Rep. 2021;10(4):182-191'
+  doi: 10.1007/s13671-021-00339-0
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4051
+  legacy_id: null
+  title: 厚生労働省. 「印刷事業場で発生した胆管がんの業務上外に関する検討会」報告書の概要及び厚生労働省における今後の対応について. 2013
+  citation: 厚生労働省. 「印刷事業場で発生した胆管がんの業務上外に関する検討会」報告書の概要及び厚生労働省における今後の対応について. 2013
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4052
+  legacy_id: null
+  title: 酸素欠乏症等防止規則（昭和47年9月30日労働省令第42号）
+  citation: 酸素欠乏症等防止規則（昭和47年9月30日労働省令第42号）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/56_ev_b.md の出典マスター表から
+- id: SRC-4116
+  legacy_id: null
+  title: 日本救急医学会 熱中症および低体温症に関する委員会（編）. 熱中症診療ガイドライン2024. 日本救急医学会. 2024
+  citation: 日本救急医学会 熱中症および低体温症に関する委員会（編）. 熱中症診療ガイドライン2024. 日本救急医学会. 2024
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4117
+  legacy_id: null
+  title: 総務省消防庁. 熱中症による救急搬送状況（令和7年5月〜9月）. 総務省消防庁. 2025
+  citation: 総務省消防庁. 熱中症による救急搬送状況（令和7年5月〜9月）. 総務省消防庁. 2025
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4118
+  legacy_id: null
+  title: 厚生労働省. 職場における熱中症対策の強化について（労働安全衛生規則改正、2025年6月1日施行）. 厚生労働省. 2025
+  citation: 厚生労働省. 職場における熱中症対策の強化について（労働安全衛生規則改正、2025年6月1日施行）. 厚生労働省. 2025
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4119
+  legacy_id: null
+  title: 'Paal P, Pasquier M, Darocha T, Lechner R, Kosinski S, Wallner B, Zafren K, Brugger H. Accidental Hypothermia: 2021 Update. Int J Environ Res Public Health. 2022;19(1):501'
+  citation: 'Paal P, Pasquier M, Darocha T, Lechner R, Kosinski S, Wallner B, Zafren K, Brugger H. Accidental Hypothermia: 2021 Update. Int J Environ Res Public Health. 2022;19(1):501'
+  doi: 10.3390/ijerph19010501
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4120
+  legacy_id: null
+  title: 'Regli IB, Oberhammer R, Zafren K, Brugger H, Strapazzon G. Frostbite treatment: a systematic review with meta-analyses. Scand J Trauma Resusc Emerg Med. 2023;31(1):96'
+  citation: 'Regli IB, Oberhammer R, Zafren K, Brugger H, Strapazzon G. Frostbite treatment: a systematic review with meta-analyses. Scand J Trauma Resusc Emerg Med. 2023;31(1):96'
+  doi: 10.1186/s13049-023-01160-3
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4121
+  legacy_id: null
+  title: 厚生労働省. 騒音障害防止のためのガイドライン（令和5年4月20日改訂、基発0420第2号）. 厚生労働省. 2023
+  citation: 厚生労働省. 騒音障害防止のためのガイドライン（令和5年4月20日改訂、基発0420第2号）. 厚生労働省. 2023
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4122
+  legacy_id: null
+  title: Golding JF, Gresty MA. Pathophysiology and treatment of motion sickness. Curr Opin Neurol. 2015;28(1):83-88
+  citation: Golding JF, Gresty MA. Pathophysiology and treatment of motion sickness. Curr Opin Neurol. 2015;28(1):83-88
+  doi: 10.1097/WCO.0000000000000163
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4123
+  legacy_id: null
+  title: 厚生労働省. 振動障害予防対策指針（平成21年7月改訂）および振動障害予防のための厚生労働省資料. 厚生労働省. 2009
+  citation: 厚生労働省. 振動障害予防対策指針（平成21年7月改訂）および振動障害予防のための厚生労働省資料. 厚生労働省. 2009
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4124
+  legacy_id: null
+  title: Jüttner B, Wölfel C, Camponovo C, et al. S2k guideline for diving accidents. Ger Med Sci. 2023;21:Doc01
+  citation: Jüttner B, Wölfel C, Camponovo C, et al. S2k guideline for diving accidents. Ger Med Sci. 2023;21:Doc01
+  doi: 10.3205/000315
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4125
+  legacy_id: null
+  title: 'Luks AM, Beidleman BA, Freer L, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention, Diagnosis, and Treatment of Acute Altitude Illness: 2024 Update. Wilderness Environ Med. 2024;35(1 Suppl):2S-19S'
+  citation: 'Luks AM, Beidleman BA, Freer L, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention, Diagnosis, and Treatment of Acute Altitude Illness: 2024 Update. Wilderness Environ Med. 2024;35(1 Suppl):2S-19S'
+  doi: 10.1016/j.wem.2023.05.013
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4126
+  legacy_id: null
+  title: López M, Martín M. Medical management of the acute radiation syndrome. Rep Pract Oncol Radiother. 2011;16(4):138-146
+  citation: López M, Martín M. Medical management of the acute radiation syndrome. Rep Pract Oncol Radiother. 2011;16(4):138-146
+  doi: 10.1016/j.rpor.2011.05.001
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4127
+  legacy_id: null
+  title: 'Ozasa K, Shimizu Y, Suyama A, et al. Studies of the mortality of atomic bomb survivors, Report 14, 1950-2003: an overview of cancer and noncancer diseases. Radiat Res. 2012;177(3):229-243'
+  citation: 'Ozasa K, Shimizu Y, Suyama A, et al. Studies of the mortality of atomic bomb survivors, Report 14, 1950-2003: an overview of cancer and noncancer diseases. Radiat Res. 2012;177(3):229-243'
+  doi: 10.1667/RR2629.1
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4128
+  legacy_id: null
+  title: International Commission on Non-Ionizing Radiation Protection (ICNIRP). ICNIRP Guidelines on Limits of Exposure to Laser Radiation of Wavelengths between 180 nm and 1,000 μm. Health Phys. 2013;105(3):271-295
+  citation: International Commission on Non-Ionizing Radiation Protection (ICNIRP). ICNIRP Guidelines on Limits of Exposure to Laser Radiation of Wavelengths between 180 nm and 1,000 μm. Health Phys. 2013;105(3):271-295
+  doi: 10.1097/HP.0b013e3182983fd4
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4129
+  legacy_id: null
+  title: 'Mubarak A, Benninga MA, Broekaert I, et al. Diagnosis, Management, and Prevention of Button Battery Ingestion in Childhood: A European Society for Paediatric Gastroenterology Hepatology and Nutrition Position Paper. Journal of Pediatric Gastroenterology and Nutrition. 2021;73(1):129-136'
+  citation: 'Mubarak A, Benninga MA, Broekaert I, et al. Diagnosis, Management, and Prevention of Button Battery Ingestion in Childhood: A European Society for Paediatric Gastroenterology Hepatology and Nutrition Position Paper. Journal of Pediatric Gastroenterology and Nutrition. 2021;73(1):129-136'
+  doi: 10.1097/MPG.0000000000003048
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4130
+  legacy_id: null
+  title: 消費者庁. 年末年始、高齢者の事故に注意しましょう！―思いがけない事故のリスクは事前に減らすことができます―（注意喚起、2025年12月23日公表。人口動態統計（令和6年）に基づく）
+  citation: 消費者庁. 年末年始、高齢者の事故に注意しましょう！―思いがけない事故のリスクは事前に減らすことができます―（注意喚起、2025年12月23日公表。人口動態統計（令和6年）に基づく）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4131
+  legacy_id: null
+  title: Singletary EM, Zideman DA, Bendall JC, et al. 2020 International Consensus on First Aid Science With Treatment Recommendations. Circulation. 2020;142(16_suppl_1):S284-S334
+  citation: Singletary EM, Zideman DA, Bendall JC, et al. 2020 International Consensus on First Aid Science With Treatment Recommendations. Circulation. 2020;142(16_suppl_1):S284-S334
+  doi: 10.1161/CIR.0000000000000897
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4132
+  legacy_id: null
+  title: 'Djärv T, Douma M, Palmieri T, et al. Duration of cooling with water for thermal burns as a first aid intervention: A systematic review. Burns. 2022;48(2):251-262'
+  citation: 'Djärv T, Douma M, Palmieri T, et al. Duration of cooling with water for thermal burns as a first aid intervention: A systematic review. Burns. 2022;48(2):251-262'
+  doi: 10.1016/j.burns.2021.10.007
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4133
+  legacy_id: null
+  title: 'Inoue Y, Kishibe M, Kuroyanagi M, et al. Japanese Society for Burn Injuries Burn Registry 2011: 10-year Analysis Report. Acute Medicine & Surgery. 2025;12(1):e70088'
+  citation: 'Inoue Y, Kishibe M, Kuroyanagi M, et al. Japanese Society for Burn Injuries Burn Registry 2011: 10-year Analysis Report. Acute Medicine & Surgery. 2025;12(1):e70088'
+  doi: 10.1002/ams2.70088
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4134
+  legacy_id: null
+  title: Valdez AL, Casavant MJ, Spiller HA, et al. Pediatric exposure to laundry detergent pods. Pediatrics. 2014;134(6):1127-1135
+  citation: Valdez AL, Casavant MJ, Spiller HA, et al. Pediatric exposure to laundry detergent pods. Pediatrics. 2014;134(6):1127-1135
+  doi: 10.1542/peds.2014-0057
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4135
+  legacy_id: null
+  title: Hojo S, Mizukoshi A, Azuma K, et al. New criteria for multiple chemical sensitivity based on the Quick Environmental Exposure and Sensitivity Inventory developed in response to rapid changes in ongoing chemical exposures among Japanese. PLoS One. 2019;14(4):e0215144
+  citation: Hojo S, Mizukoshi A, Azuma K, et al. New criteria for multiple chemical sensitivity based on the Quick Environmental Exposure and Sensitivity Inventory developed in response to rapid changes in ongoing chemical exposures among Japanese. PLoS One. 2019;14(4):e0215144
+  doi: 10.1371/journal.pone.0215144
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4136
+  legacy_id: null
+  title: 厚生労働省. 室内空気中化学物質の室内濃度指針値について（平成31年1月17日 薬生発0117第1号）
+  citation: 厚生労働省. 室内空気中化学物質の室内濃度指針値について（平成31年1月17日 薬生発0117第1号）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4137
+  legacy_id: null
+  title: 警察庁. 令和7年中の交通事故発生状況について／内閣府. 交通安全白書（令和8年版）
+  citation: 警察庁. 令和7年中の交通事故発生状況について／内閣府. 交通安全白書（令和8年版）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4138
+  legacy_id: null
+  title: 厚生労働省. 人口動態統計（確定数）上巻 死亡 第5-35表「家庭における主な不慮の事故による死因（三桁基本分類）別にみた年齢（特定階級）別死亡数及び百分率」
+  citation: 厚生労働省. 人口動態統計（確定数）上巻 死亡 第5-35表「家庭における主な不慮の事故による死因（三桁基本分類）別にみた年齢（特定階級）別死亡数及び百分率」
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4139
+  legacy_id: null
+  title: Sato K, Sakamoto K, Hashimoto Y, et al. Risk Factors and Prevalence of Deep Vein Thrombosis After the 2016 Kumamoto Earthquakes. Circulation Journal. 2019;83(6):1342-1348
+  citation: Sato K, Sakamoto K, Hashimoto Y, et al. Risk Factors and Prevalence of Deep Vein Thrombosis After the 2016 Kumamoto Earthquakes. Circulation Journal. 2019;83(6):1342-1348
+  doi: 10.1253/circj.CJ-18-1369
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4140
+  legacy_id: null
+  title: Zellner T, Prasa D, Färber E, et al. The Use of Activated Charcoal to Treat Intoxications. Dtsch Arztebl Int. 2019;116(18):311-317
+  citation: Zellner T, Prasa D, Färber E, et al. The Use of Activated Charcoal to Treat Intoxications. Dtsch Arztebl Int. 2019;116(18):311-317
+  doi: 10.3238/arztebl.2019.0311
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4141
+  legacy_id: null
+  title: 'Kim K, Kim J. A work-relatedness assessment in epidemiological case investigation of occupational cancers: I. Principles. Ann Occup Environ Med. 2020;32:e30'
+  citation: 'Kim K, Kim J. A work-relatedness assessment in epidemiological case investigation of occupational cancers: I. Principles. Ann Occup Environ Med. 2020;32:e30'
+  doi: 10.35371/aoem.2020.32.e30
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4142
+  legacy_id: null
+  title: 岡山労働局（厚生労働省）. 健康診断の種類及び報告義務
+  citation: 岡山労働局（厚生労働省）. 健康診断の種類及び報告義務
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4143
+  legacy_id: null
+  title: 労働者災害補償保険法（昭和22年法律第50号）
+  citation: 労働者災害補償保険法（昭和22年法律第50号）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4144
+  legacy_id: null
+  title: 環境省. 化学物質の環境リスク初期評価 第24次取りまとめ（2025年、『化学物質の環境リスク評価』第24巻）
+  citation: 環境省. 化学物質の環境リスク初期評価 第24次取りまとめ（2025年、『化学物質の環境リスク評価』第24巻）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から
+- id: SRC-4145
+  legacy_id: null
+  title: 厚生労働省. 労働安全衛生法の新たな化学物質規制に関する資料（化学物質のリスクアセスメントの的確な実施に向けた制度改善）
+  citation: 厚生労働省. 労働安全衛生法の新たな化学物質規制に関する資料（化学物質のリスクアセスメントの的確な実施に向けた制度改善）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md の出典マスター表から

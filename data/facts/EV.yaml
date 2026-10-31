@@ -1,0 +1,840 @@
+- id: EV-001
+  domain: EV
+  subdomain: 熱中症
+  assertion:
+    plain_statement_ja: 熱中症の重症度は、2024年版の国内ガイドラインではⅠ度からⅣ度の4段階に分類され、最重症のⅣ度が新たに加わった。Ⅳ度は深部体温40℃以上かつ重篤な意識障害を目安とする群であり、Ⅲ度とⅣ度では積極的冷却（アクティブクーリング）が推奨される。冷却の方法については複数の方法が検討されたが、特定の冷却法への明確な推奨は示されていない。
+    condition:
+      region: 日本
+      対象: 熱中症患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4116
+    source: 日本救急医学会 熱中症および低体温症に関する委員会（編）. 熱中症診療ガイドライン2024. 日本救急医学会. 2024
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: ガイドラインは単行の文書で、DOI・PMIDはない。Ⅳ度の目安や冷却の推奨は、ガイドライン本文を引用する医療記事・自治体資料で確認した範囲であり、ガイドライン本文そのものの逐語での確認はしていない。環境省『熱中症環境保健マニュアル2022』の重症度表は旧版（2015年版）の分類をもとにしており、2024年版とは段階が異なる。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-A-①（熱中症、a）
+    core_curriculum: 'PS-03-05-10 (id: Jkxnub4)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-002
+  domain: EV
+  subdomain: 熱中症
+  assertion:
+    plain_statement_ja: 熱中症による救急搬送人員は、2025年（令和7年）5月から9月の確定値で100,510人となり、消防庁の調査が始まった2008年以来最多となった。
+    condition:
+      region: 日本
+      対象: 熱中症で救急搬送された人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4117
+    source: 総務省消防庁. 熱中症による救急搬送状況（令和7年5月〜9月）. 総務省消防庁. 2025
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 消防庁の確定値（速報値ではない）に基づく。2026年（令和8年）5〜9月の確定値（77,638人、死者120人）は本カードには含めていない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-A-①（熱中症、a）
+    core_curriculum: 'PS-03-05-10 (id: Jkxnub4)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-003
+  domain: EV
+  subdomain: 熱中症
+  assertion:
+    plain_statement_ja: 2025年6月1日から、WBGT（暑さ指数）が28以上または気温が31℃以上の環境下で、連続1時間以上または1日合計4時間を超えて行われることが見込まれる作業については、事業者に熱中症対策が義務付けられた。義務の内容は、熱中症の発生を早期に把握するための報告体制の整備、重篤化を防ぐための手順の作成、関係者への周知である（労働安全衛生規則第612条の2）。
+    condition:
+      region: 日本
+      対象: 熱中症のおそれのある作業を行う事業者と労働者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4118
+    source: 厚生労働省. 職場における熱中症対策の強化について（労働安全衛生規則改正、2025年6月1日施行）. 厚生労働省. 2025
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 対象条件と義務の内容は厚生労働省資料および同資料を引用する解説で確認した。厚生労働省の熱中症対策ガイドライン本文そのものの版とURLの確定はしていない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-A-①（熱中症、a）
+    core_curriculum: 'PS-03-05-10 (id: Jkxnub4)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-004
+  domain: EV
+  subdomain: 偶発性低体温{症}
+  assertion:
+    plain_statement_ja: 偶発性低体温症は、深部体温が意図せず35℃未満に下がった状態である。心停止に至るリスクが高い目安として、深部体温30℃未満（高齢者や併存疾患の多い患者では32℃未満）、心室性不整脈の存在、収縮期血圧90 mmHg未満が挙げられ、これらに当たる患者や既に心停止した患者は、体外式生命維持（ECLS）ができる施設へ直接運ぶことが勧められる。復温には能動的体外復温が最もよく用いられ、ECLSによる復温は難治性の低体温や心停止の場合に行われる。
+    condition:
+      region: 国際
+      対象: 偶発性低体温症の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4119
+    source: 'Paal P, Pasquier M, Darocha T, Lechner R, Kosinski S, Wallner B, Zafren K, Brugger H. Accidental Hypothermia: 2021 Update. International Journal of Environmental Research and Public Health. 2022;19(1):501'
+    doi: 10.3390/ijerph19010501
+    pmid: '35010760'
+    pmcid: PMC8744717
+    url: https://doi.org/10.3390/ijerph19010501
+    source_license: CC BY 4.0（Europe PMC の表示で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 数値は出典の抄録で確認した範囲。Wilderness Medical Society の偶発性低体温ガイドラインは2019年版が現行で、2024年版は存在しない。国内に低体温症単独の学会ガイドラインがあるかは未確認。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-A-②（偶発性低体温{症}、a）
+    core_curriculum: 'PS-03-05-10 (id: Jkxnub4)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-005
+  domain: EV
+  subdomain: 凍傷・凍瘡
+  assertion:
+    plain_statement_ja: 重症凍傷の治療に関する系統的レビュー（対象71論文・978例）では、無作為化比較試験は1件しかなかった。その試験では、プロスタサイクリン類縁体のイロプロストが受傷後48時間以内の投与で有益であり、メタ解析では血栓溶解薬を受傷後24時間以内に投与した群で他の治療より転帰が良かった。一方で、その他の一般的な治療の効き目は確かめられていない。
+    condition:
+      region: 国際
+      対象: 重症凍傷の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4120
+    source: 'Regli IB, Oberhammer R, Zafren K, Brugger H, Strapazzon G. Frostbite treatment: a systematic review with meta-analyses. Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine. 2023;31(1):96'
+    doi: 10.1186/s13049-023-01160-3
+    pmid: '38072923'
+    pmcid: PMC10712146
+    url: https://doi.org/10.1186/s13049-023-01160-3
+    source_license: CC BY 4.0（Europe PMC の表示で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 再加温の手順など凍傷の基本的な治療は既存カード（TR-003）が扱っており、本カードは治療の効き目に関する研究の蓄積の側面に限る。凍瘡（しもやけ）の病態と管理は既存カード（SK-027）が扱う。アルテプラーゼなどの血栓溶解薬の凍傷への使用は国内では適応外である（国内の適応は虚血性脳血管障害の急性期と急性心筋梗塞のみ）。イロプロスト製剤の凍傷に対する国内承認は未確認であり、国内で使える治療としては書いていない。ニフェジピンの凍瘡への国内適応も未確認。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-A-③（凍傷・凍瘡、a）
+    core_curriculum: 'PS-03-05-10 (id: Jkxnub4)；TBL-01-00-117 (id: Jlvnlm4)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-006
+  domain: EV
+  subdomain: 騒音性難聴
+  assertion:
+    plain_statement_ja: 職場の騒音対策を示す厚生労働省のガイドラインは2023年4月に改訂され、1992年の旧ガイドラインは廃止された。改訂では、対象となる作業場の定義、騒音の測り方、聴覚保護具の選び方が見直された。運用では等価騒音レベル85 dBが管理の起点の一つとされ、騒音作業にいつも従事する労働者には、1,000 Hzと4,000 Hzの選別聴力検査を含む健康診断が示されている。
+    condition:
+      region: 日本
+      対象: 騒音作業に従事する労働者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4121
+    source: 厚生労働省. 騒音障害防止のためのガイドライン（令和5年4月20日改訂、基発0420第2号）. 厚生労働省. 2023
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 85 dBの位置づけと選別聴力検査の周波数は、ガイドラインの解説資料で確認した範囲で、ガイドライン本文での逐語確認はしていない。難聴そのものの耳科的な診断・治療は耳鼻咽喉科の分野（第26回）が正であり、本カードは騒音曝露・予防・健康診断の側面に限る。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-B-①（騒音性難聴、a）
+    core_curriculum: 'PS-03-05-11 (id: Jkxnub8)；TBL-02-15-010 (id: JlAKpwY)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-007
+  domain: EV
+  subdomain: 動揺病
+  assertion:
+    plain_statement_ja: 動揺病への対策で最も効くのは、繰り返し曝露による順応である。薬では、スコポラミンと抗ヒスタミン薬が確かな治療として挙げられている。動揺病は症状が多彩で個人差が大きく、単一の決定的な治療は期待しにくい。
+    condition:
+      region: 国際
+      対象: 動揺病の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4122
+    source: Golding JF, Gresty MA. Pathophysiology and treatment of motion sickness. Current Opinion in Neurology. 2015;28(1):83-88
+    doi: 10.1097/WCO.0000000000000163
+    pmid: '25502048'
+    pmcid: null
+    url: https://doi.org/10.1097/WCO.0000000000000163
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 国内で動揺病に使われる製剤（ジメンヒドリナート、メクリジン、スコポラミン含有製剤など）の国内承認・保険適用の状況は未確認。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-C-①（動揺病、b）
+    core_curriculum: 'PS-03-05-11 (id: Jkxnub8)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-008
+  domain: EV
+  subdomain: 手腕振動障害
+  assertion:
+    plain_statement_ja: 振動工具による障害を防ぐための作業管理では、日振動ばく露量A(8)を使う。A(8)の限界値は5.0 m/s²で、これを超えないよう ばく露時間を抑え、低振動工具を選ぶ。対策値は2.5 m/s²で、これを超える場合は同様の対策に努める。対象はチェーンソー、携帯用研削盤、インパクトレンチなどの振動工具を扱う業務である。
+    condition:
+      region: 日本
+      対象: 振動工具を扱う労働者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4123
+    source: 厚生労働省. 振動障害予防対策指針（平成21年7月改訂）および振動障害予防のための厚生労働省資料. 厚生労働省. 2009
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 振動障害の労災認定の基準そのものを示す通達は特定できておらず、本カードは予防対策の範囲に限る。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-C-②（手腕振動障害、b）
+    core_curriculum: 'PS-03-05-11 (id: Jkxnub8)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-009
+  domain: EV
+  subdomain: 減圧症
+  assertion:
+    plain_statement_ja: 減圧症を含むダイビング事故は、潜水や高圧環境で周囲の圧力が下がることで起こり、命に関わることがある。現場での初期対応は、100%酸素の投与、安静にして横になること、水分を取ること、ダイビング医学の専門家への相談である。重症例で確立した治療は高気圧酸素療法であり、代わりになる治療はなく、基本の治療条件として280 kPaでの高気圧酸素が推奨されている。
+    condition:
+      region: 国際
+      対象: 減圧症などダイビング事故の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4124
+    source: Jüttner B, Wölfel C, Camponovo C, et al. S2k guideline for diving accidents. GMS German Medical Science. 2023;21:Doc01
+    doi: 10.3205/000315
+    pmid: '37033772'
+    pmcid: PMC10073983
+    url: https://doi.org/10.3205/000315
+    source_license: CC BY 4.0（Europe PMC の表示で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 出典はドイツのS2kガイドライン（2023年）で、抄録で確認した範囲。国内の潜水・高気圧環境の制度（高気圧作業安全衛生規則など）との対応は確認していない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-D-①（減圧症、b）
+    core_curriculum: 'PS-03-05-11 (id: Jkxnub8)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-010
+  domain: EV
+  subdomain: 高山病
+  assertion:
+    plain_statement_ja: 急性高地疾患には急性高山病（AMS）、高地脳浮腫（HACE）、高地肺水腫（HAPE）が含まれ、順応していない人が2,500 mを超える高度へ上がると発症のリスクがある。予防の第一はゆっくり上がることで、3,000 mを超えたら睡眠高度の上昇を1日500 m以内にとどめ、3〜4日ごとに睡眠高度を上げない休息日を入れる。予防薬のアセタゾラミドは、成人では125 mgを12時間ごとの投与が基本の用量とされる。
+    condition:
+      region: 国際
+      対象: 高地へ旅行する人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4125
+    source: 'Luks AM, Beidleman BA, Freer L, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention, Diagnosis, and Treatment of Acute Altitude Illness: 2024 Update. Wilderness & Environmental Medicine. 2024;35(1 Suppl):2S-19S'
+    doi: 10.1016/j.wem.2023.05.013
+    pmid: '37833187'
+    pmcid: null
+    url: https://doi.org/10.1016/j.wem.2023.05.013
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: アセタゾラミドの高山病・高地疾患への使用は国内では適応外で、国内添付文書の効能・効果に高地疾患は含まれない（米国では急性高山病の予防・症状緩和が適応に含まれる）。デキサメタゾンとニフェジピン（HAPE関係）の高地疾患への国内適応は未確認。睡眠高度の上げ方などの数値はガイドラインの要約資料で確認した範囲で、HACE・HAPEでは薬は下山の代わりにならない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-D-②（高山病、b）
+    core_curriculum: 'PS-03-05-11 (id: Jkxnub8)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-011
+  domain: EV
+  subdomain: 急性放射線障害
+  assertion:
+    plain_statement_ja: 急性放射線症候群は、全身または広い範囲が照射された（目安として1 Gyを超える）後に起こり、古典的には造血器型が2〜3 Gy超、消化器型が5〜12 Gy、脳血管型が10〜20 Gyと区分される。経過は、前駆期（0〜2日）、潜伏期（2〜20日）、発症期（21〜60日）に分けられる。
+    condition:
+      region: 国際
+      対象: 急性放射線症候群の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4126
+    source: López M, Martín M. Medical management of the acute radiation syndrome. Reports of Practical Oncology and Radiotherapy. 2011;16(4):138-146
+    doi: 10.1016/j.rpor.2011.05.001
+    pmid: '24376971'
+    pmcid: PMC3863169
+    url: https://doi.org/10.1016/j.rpor.2011.05.001
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 線量区分の境目は資料によって幅がある。G-CSF（フィルグラスチム製剤）は国内で好中球減少症などの適応で承認されているが、急性放射線症候群（造血器型）に対する国内承認・保険適用は未確認のため、治療の主張には入れていない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-E-①（急性放射線障害、b）
+    core_curriculum: 'PS-03-06-02 (id: JkxnucI)；PS-03-06-03 (id: JkxnucM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-012
+  domain: EV
+  subdomain: 放射線による発がん
+  assertion:
+    plain_statement_ja: 広島・長崎の原爆被爆者を追跡した寿命調査（線量推定のある86,611人、1950〜2003年）では、固形がん死亡の過剰相対リスクは被ばく線量と直線的な関係を示した。30歳で被ばくし70歳に達した時点での全固形がんの過剰相対リスクは、男女平均で1 Gyあたり0.42（95%信頼区間0.32〜0.53）で、被ばく時年齢が10歳若くなるごとにリスクは約29%増えた。有意な過剰が認められた最も低い線量の範囲は0〜0.20 Gyだった。
+    condition:
+      region: 日本
+      対象: 原爆被爆者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4127
+    source: 'Ozasa K, Shimizu Y, Suyama A, et al. Studies of the mortality of atomic bomb survivors, Report 14, 1950-2003: an overview of cancer and noncancer diseases. Radiation Research. 2012;177(3):229-243'
+    doi: 10.1667/RR2629.1
+    pmid: '22171960'
+    pmcid: null
+    url: https://doi.org/10.1667/RR2629.1
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値は第14報（死亡の解析）の抄録で確認した範囲。固形がん罹患の解析（Grant 2017）やUNSCEARの福島第一原子力発電所事故の評価は本カードには含めていない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-E-②（放射線による発がん、b）
+    core_curriculum: 'PS-03-06-03 (id: JkxnucM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-013
+  domain: EV
+  subdomain: 非電離放射線障害
+  assertion:
+    plain_statement_ja: レーザー光（波長180 nm〜1,000 µm）への曝露の限度を示す国際指針は2013年に改訂された。改訂では、網膜の熱障害に対する限度の決め方が見直され、その根拠として、当たる光の範囲（スポットサイズ）への依存性、短いパルスでのパルス幅への依存性、1,200〜1,400 nm帯での波長への依存性が挙げられている。
+    condition:
+      region: 国際
+      対象: レーザーを扱う作業者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4128
+    source: International Commission on Non-Ionizing Radiation Protection (ICNIRP). ICNIRP Guidelines on Limits of Exposure to Laser Radiation of Wavelengths between 180 nm and 1,000 μm. Health Physics. 2013;105(3):271-295
+    doi: 10.1097/HP.0b013e3182983fd4
+    pmid: '30522251'
+    pmcid: null
+    url: https://doi.org/10.1097/HP.0b013e3182983fd4
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 紫外線の曝露限度はICNIRPの2004年の別の指針があり、紫外線による角膜炎（雪目など）は既存カード（TR-007）が扱う。赤外線に直接対応する国際指針は未確認。曝露限度の具体的な数値は抄録に含まれないため主張に入れていない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-F（非電離放射線障害、b）
+    core_curriculum: 'PS-03-06-03 (id: JkxnucM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-014
+  domain: EV
+  subdomain: 誤飲
+  assertion:
+    plain_statement_ja: ボタン電池の誤飲では、電池が食道に停滞すると放電に伴うアルカリ生成により食道や胃に化学的な損傷が生じ、生命を脅かす合併症に至ることがある。診断では電池の位置を直ちに確認することが重要であり、食道に停滞している場合は速やかに、望ましくは2時間以内に摘出する。摂取後12時間以内であれば、摘出を遅らせないことを前提に、蜂蜜やスクラルファートの投与が損傷軽減のために考慮できる。
+    condition:
+      region: 国際
+      対象: ボタン電池を誤飲した小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4129
+    source: 'Mubarak A, Benninga MA, Broekaert I, et al. Diagnosis, Management, and Prevention of Button Battery Ingestion in Childhood: A European Society for Paediatric Gastroenterology Hepatology and Nutrition Position Paper. Journal of Pediatric Gastroenterology and Nutrition. 2021;73(1):129-136'
+    doi: 10.1097/MPG.0000000000003048
+    pmid: '33555169'
+    pmcid: null
+    url: https://doi.org/10.1097/MPG.0000000000003048
+    source_license: CC 表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 国際的な小児消化器学会のポジションペーパーに基づく整理であり、国内の診療体制や受診経路にそのまま当てはまるものではない。スクラルファートは国内で消化性潰瘍等に承認されている既存薬であるが、ボタン電池誤飲時の損傷軽減を目的とする使用について国内の承認・保険適用は確認されていない。蜂蜜は食品である。小児の異物誤飲の総論は第27回（TR-008・009）が担い、本カードはボタン電池に伴う損傷・中毒の側面に限る。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-G-①（誤飲、a）
+    core_curriculum: 'PS-03-05-09 (id: Jkxnub0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-015
+  domain: EV
+  subdomain: 誤嚥
+  assertion:
+    plain_statement_ja: 人口動態統計（令和6年）では、気道閉塞を生じた食物の誤えんによる死亡は4,383人で、その約91%（3,992人）を65歳以上が占めており、食物による窒息は高齢者に集中している。事故防止のポイントとして、餅などの食品は小さく切ること、飲み物で喉を潤してから食べること、一口の量を無理のない量にしてゆっくりよく噛んで飲み込むことが示されている。
+    condition:
+      region: 日本
+      対象: 高齢者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4130
+    source: 消費者庁. 年末年始、高齢者の事故に注意しましょう！―思いがけない事故のリスクは事前に減らすことができます―（注意喚起、2025年12月23日公表。人口動態統計（令和6年）に基づく）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_084/
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 数値は消費者庁の注意喚起が引用する人口動態統計（令和6年）の値である。誤嚥性肺炎の診断・治療は本カードの範囲外であり、成人肺炎診療ガイドライン2024（SRC-352）が接点となる。神経疾患に伴う嚥下障害の側面は第Ⅸ章の範囲である。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-G-②（誤嚥、a）
+    core_curriculum: 'PS-03-05-04 (id: Jkxnubg)；TBL-01-00-212 (id: Jlvnlx0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-016
+  domain: EV
+  subdomain: 創傷
+  assertion:
+    plain_statement_ja: 応急処置に関する2020年の国際コンセンサスでは、生命を脅かす外出血のコントロールとして、直接圧迫に加えて止血帯（ターニケット）、止血ドレッシング、圧迫器具の使用が検討事項とされている。あわせて、閉鎖性の四肢関節損傷への圧迫ラップや、脱落した歯の一時的な保存も応急処置の検討範囲に含まれる。
+    condition:
+      region: 国際
+      対象: 創傷・外出血に対する応急処置
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4131
+    source: Singletary EM, Zideman DA, Bendall JC, et al. 2020 International Consensus on First Aid Science With Treatment Recommendations. Circulation. 2020;142(16_suppl_1):S284-S334
+    doi: 10.1161/CIR.0000000000000897
+    pmid: '33084394'
+    pmcid: null
+    url: https://doi.org/10.1161/CIR.0000000000000897
+    source_license: CC 表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 国際的な応急処置コンセンサスにおける検討範囲の整理であり、個別の手技の適応は傷病者の状態による。縫合、デブリードマン、感染治療などの創傷の本格的な治療は本カードの範囲外（第Ⅸ章の外傷の範囲）であり、創傷後の破傷風予防についても本カードでは扱わない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-G-③（創傷、a）
+    core_curriculum: 'PS-03-05-12 (id: Jkxir3g)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-017
+  domain: EV
+  subdomain: 熱傷
+  assertion:
+    plain_statement_ja: 熱傷の応急処置としての流水冷却について、冷却時間20分以上と20分未満を比較した系統的レビュー（観察研究4件）では、熱傷の大きさ・深さ、再上皮化、植皮のいずれの転帰でも20分以上の冷却による利益は認められず、エビデンスの確実性は非常に低いとされた。冷却を行うこと自体は標準的な応急処置として扱われるが、最適な冷却時間は現時点では確定していない。
+    condition:
+      region: 国際
+      対象: 熱傷の応急処置（流水冷却）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4132
+    source: 'Djärv T, Douma M, Palmieri T, et al. Duration of cooling with water for thermal burns as a first aid intervention: A systematic review. Burns. 2022;48(2):251-262'
+    doi: 10.1016/j.burns.2021.10.007
+    pmid: '34916091'
+    pmcid: null
+    url: https://doi.org/10.1016/j.burns.2021.10.007
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 冷却の開始時期や水温の詳細は本カードの出典では確定していない。熱傷の重症度評価（BI・PBI）や輸液蘇生は第27回（TR-001・002・027）の範囲であり、本カードは受傷直後の応急処置に限る。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-G-④（熱傷、a）
+    core_curriculum: 'PS-03-05-13 (id: JkxnucA)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-018
+  domain: EV
+  subdomain: 熱傷
+  assertion:
+    plain_statement_ja: 日本熱傷学会の熱傷登録は2011年に開始され、2022年3月末時点で120施設が参加し、累計登録は20,000件を超えた。2011年4月から2021年3月までの新規登録は18,626件（仮登録846件を含む）であり、登録制度は2023年4月に全面改訂されている。
+    condition:
+      region: 日本
+      対象: 日本の熱傷登録
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4133
+    source: 'Inoue Y, Kishibe M, Kuroyanagi M, et al. Japanese Society for Burn Injuries Burn Registry 2011: 10-year Analysis Report. Acute Medicine & Surgery. 2025;12(1):e70088'
+    doi: 10.1002/ams2.70088
+    pmid: '40989537'
+    pmcid: PMC12451064
+    url: https://doi.org/10.1002/ams2.70088
+    source_license: CC BY-NC
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 受傷原因別・年齢別の内訳は登録データの表を直接確認できていないため、本カードには含めていない。熱傷の予防策の効果検証も本カードの範囲外である。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-G-④（熱傷、a）
+    core_curriculum: 'PS-03-05-13 (id: JkxnucA)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-019
+  domain: EV
+  subdomain: 急性中毒
+  assertion:
+    plain_statement_ja: 米国では、洗濯用洗剤ポッド（パック型洗剤）への曝露で2012〜2013年に救急受診した6歳未満の小児は17,230人で、3歳未満が73.5%を占め、曝露経路は経口摂取が79.7%と最も多かった。入院は4.4%、中等度以上の転帰は7.5%で、気管挿管を要した例が102例（0.6%）、死亡が1例あった。家庭用製品による小児の中毒事故は、低年齢児の経口摂取が中心である。
+    condition:
+      region: 米国
+      対象: 6歳未満の小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4134
+    source: Valdez AL, Casavant MJ, Spiller HA, et al. Pediatric exposure to laundry detergent pods. Pediatrics. 2014;134(6):1127-1135
+    doi: 10.1542/peds.2014-0057
+    pmid: '25384489'
+    pmcid: null
+    url: https://doi.org/10.1542/peds.2014-0057
+    source_license: CC 表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 米国の製品・包装と中毒データシステムに基づく数値であり、日本の製品や発生状況にそのまま当てはまらない。個別物質の診療は第55回（TX）の範囲であり、初期対応と解毒薬の総論は OX の範囲である。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-G-⑤（急性中毒、a）
+    core_curriculum: 'PS-03-05-06 (id: Jkxnubo)；PS-03-05-07 (id: Jkxnubs)；PS-03-05-08 (id: Jkxnubw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-020
+  domain: EV
+  subdomain: 化学物質過敏症
+  assertion:
+    plain_statement_ja: 化学物質過敏症の評価に用いられる調査票 QEESI（Quick Environmental Exposure and Sensitivity Inventory）は10か国以上で使用されており、日本版の基準値は2003年に設定された。2012〜2015年の調査（医師により診断された患者111人、対照444人）では、日本の化学物質曝露の変化を踏まえた新しい組み合わせ基準値が検討されている。
+    condition:
+      region: 日本
+      対象: 化学物質過敏症が疑われる患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4135
+    source: Hojo S, Mizukoshi A, Azuma K, et al. New criteria for multiple chemical sensitivity based on the Quick Environmental Exposure and Sensitivity Inventory developed in response to rapid changes in ongoing chemical exposures among Japanese. PLoS One. 2019;14(4):e0215144
+    doi: 10.1371/journal.pone.0215144
+    pmid: '31026284'
+    pmcid: PMC6485617
+    url: https://doi.org/10.1371/journal.pone.0215144
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 化学物質過敏症については、確立した診断基準や治療法が定まっているわけではなく、病態や診断の位置づけには現在も議論がある。本カードは調査票と基準値研究の範囲に限る。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-H-①（化学物質過敏症、c）
+    core_curriculum: 'SO-01-04-02 (id: JkxoNtc)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-021
+  domain: EV
+  subdomain: シックハウス症候群<シックビル症候群>
+  assertion:
+    plain_statement_ja: 厚生労働省は、室内空気中化学物質について、生涯その濃度以下で曝露しても健康への有害な影響を受けないと判断される値として、13物質の室内濃度指針値を設定している。例えばホルムアルデヒドは100 µg/m³（0.08 ppm）、トルエンは260 µg/m³（0.07 ppm）、キシレンは200 µg/m³（0.05 ppm）、パラジクロロベンゼンは240 µg/m³（0.04 ppm）、アセトアルデヒドは48 µg/m³（0.03 ppm）であり、キシレン等の値は2019年1月17日の通知で改定された。
+    condition:
+      region: 日本
+      対象: 室内空気中化学物質への曝露
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4136
+    source: 厚生労働省. 室内空気中化学物質の室内濃度指針値について（平成31年1月17日 薬生発0117第1号）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 指針値は健康リスクの目安であり、シックハウス症候群の診断基準そのものではない。個別物質の指針値のその後の改定状況（エチルベンゼン等）は本カードでは扱っていない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-H-②（シックハウス症候群<シックビル症候群>、c）
+    core_curriculum: 'SO-01-04-02 (id: JkxoNtc)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-022
+  domain: EV
+  subdomain: 交通事故
+  assertion:
+    plain_statement_ja: 令和7年（2025年）の交通事故発生件数は287,023件（前年比1.3%減）、死者数は2,547人（同4.4%減）で、死者数は統計を取り始めた1948年以降で最少となった。負傷者数は338,508人であり、死者のうち65歳以上は1,423人で全体の55.9%を占めた。
+    condition:
+      region: 日本
+      対象: 交通事故の発生状況
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4137
+    source: 警察庁. 令和7年中の交通事故発生状況について／内閣府. 交通安全白書（令和8年版）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 警察庁の公表値であり、人口動態統計による交通事故死者数とは数え方の定義が異なる。状態別・事故類型別の内訳は本カードには含めていない。個別の外傷治療は第Ⅸ章の範囲である。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-I-①（交通事故、a）
+    core_curriculum: 'SO-01-05-01 (id: JkxoNtw)；PS-03-05-12 (id: Jkxir3g)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-023
+  domain: EV
+  subdomain: 家庭内事故
+  assertion:
+    plain_statement_ja: 人口動態統計（確定数）によれば、2025年の家庭における不慮の事故による死亡は16,797人で、65歳以上が15,005人（89.3%）と約9割を占めた。死因別では不慮の溺死及び溺水が47.3%（うち浴槽内での溺死及び溺水が43.9%）と最も多く、その他の不慮の窒息が19.5%、転倒・転落・墜落が15.7%と続いた。
+    condition:
+      region: 日本
+      対象: 家庭における不慮の事故による死亡
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4138
+    source: 厚生労働省. 人口動態統計（確定数）上巻 死亡 第5-35表「家庭における主な不慮の事故による死因（三桁基本分類）別にみた年齢（特定階級）別死亡数及び百分率」
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 数値は2025年（令和7年）の確定数に基づく。個別の事故類型（入浴中の溺水、食物による窒息等）の予防策は、消費者庁等の注意喚起が別に示している。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-I-②（家庭内事故、a）
+    core_curriculum: 'PS-03-05-12 (id: Jkxir3g)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-024
+  domain: EV
+  subdomain: 自然災害
+  assertion:
+    plain_statement_ja: 2016年の熊本地震では、発災後1か月間に80か所の避難所で移動型の下肢超音波検診が行われ、受診した1,673人のうち178人（10.6%）に深部静脈血栓症が検出された。多変量解析では70歳以上、睡眠薬の使用、下肢の浮腫、下肢静脈瘤が関連因子として示され、4つの因子をすべて持つ人では陽性率が71.4%であった。
+    condition:
+      region: 日本
+      対象: 地震後の避難所生活者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4139
+    source: Sato K, Sakamoto K, Hashimoto Y, et al. Risk Factors and Prevalence of Deep Vein Thrombosis After the 2016 Kumamoto Earthquakes. Circulation Journal. 2019;83(6):1342-1348
+    doi: 10.1253/circj.CJ-18-1369
+    pmid: '30956268'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-18-1369
+    source_license: CC 表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 単一の災害における避難所検診の結果であり、災害の種類や避難環境によって頻度は異なる。個別の外傷やクラッシュ症候群の治療は第Ⅸ章の範囲であり、災害関連死の認定基準は本カードでは扱わない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-I-③（自然災害、a）
+    core_curriculum: 'SO-01-05-01 (id: JkxoNtw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
