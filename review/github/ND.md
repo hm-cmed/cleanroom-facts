@@ -457,8 +457,8 @@
 - 条件：population: チアミン欠乏のリスクがある患者（アルコール依存者を含む）／region: 欧州
 - 不確実性：チアミン製剤は国内承認・保険収載されている。用量はEFNSガイドラインの推奨であり、国内の添付文書の用法とは別に判断される。古典的3徴（眼球運動障害・失調・意識障害）がすべてそろう例は一部にとどまるため、3徴の完備を診断の必須条件としない。
 - 出典：Galvin R, Bråthen G, Ivashynka A, et al. EFNS guidelines for diagnosis, therapy and prevention of Wernicke encephalopathy. Eur J Neurol. 2010;17(12):1408-1418　[DOI 10.1111/j.1468-1331.2010.03153.x](https://doi.org/10.1111/j.1468-1331.2010.03153.x)　[PMID 20642790](https://pubmed.ncbi.nlm.nih.gov/20642790/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅸ-4-D-②（Wernicke脳症、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-484 (id: JlvnmNA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-037&card_id=ND-037&version=d5612c5c28)　（版 `d5612c5c28`）
+- 出題基準：医学各論 Ⅸ-4-D-②（Wernicke脳症、b）；医学各論 Ⅱ-1-B-①（Parkinson病、進行性核上性麻痺、Wernicke脳症、多発性硬化症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-484 (id: JlvnmNA)；PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-02-16-003 (id: JlAKpy4)；TBL-02-16-005 (id: JlAKpzE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-037&card_id=ND-037&version=798b4fe66e)　（版 `798b4fe66e`）
 
 ### ND-038　下書き（出典の照合前）
 
@@ -470,7 +470,7 @@
 - 出題基準：医学各論 Ⅸ-4-D-②（Wernicke脳症、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-484 (id: JlvnmNA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-038&card_id=ND-038&version=fc034a8b84)　（版 `fc034a8b84`）
 
-**[ここまでの 2 件（ND-037〜ND-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-037%E3%80%9CND-038&cards=ND-037%20d5612c5c28%0AND-038%20fc034a8b84)**
+**[ここまでの 2 件（ND-037〜ND-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-037%E3%80%9CND-038&cards=ND-037%20798b4fe66e%0AND-038%20fc034a8b84)**
 
 ---
 

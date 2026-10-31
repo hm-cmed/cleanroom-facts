@@ -27,12 +27,15 @@
     created: '2026-10-31'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: ND-037
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/51_ps_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 廃止：ND-037（先に作成）と実質同じ内容のため、番号を ND-037 に移して誘導（分野をまたぐ重複の統合、三原の承認による）
 - id: OG-002
   domain: OG
   subdomain: Parkinson病、進行性核上性麻痺、Wernicke脳症、多発性硬化症

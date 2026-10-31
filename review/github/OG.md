@@ -2,19 +2,9 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-31
 
-全 7 件のうち、監修済み 0 件。
+全 6 件のうち、監修済み 0 件。
 
 ## Parkinson病、進行性核上性麻痺、Wernicke脳症、多発性硬化症
-
-### OG-001　下書き（出典の照合前）
-
-> Wernicke脳症はチアミン欠乏による急性の脳症で、予防と治療が可能でありながら生前に診断されないことが少なくない。アルコール依存症の患者では、食事欠乏、眼症状、小脳失調、精神状態の変化または軽度の記憶障害の4徴のうち2つ以上があれば臨床診断の根拠となり（EFNSガイドライン、推奨レベルB）、精神状態の変化そのものが診断の一要素になる。疑った場合は、炭水化物の投与前にチアミンを投与する（同ガイドラインでは静注200 mgを1日3回、推奨レベルC）。
-
-- 条件：region: 国際／対象: チアミン欠乏のリスクがある患者
-- 不確実性：本カードは精神症状の側面のみを扱い、Wernicke脳症そのものは第29回 ND（Ⅸ）が正。出典はマスター登録（SRC-1684）の書誌・class（UNKNOWN）をそのまま使った。チアミン製剤は国内で承認され薬価収載されている（ビタミンB1製剤）。
-- 出典：Galvin R, Bråthen G, Ivashynka A, et al. EFNS guidelines for diagnosis, therapy and prevention of Wernicke encephalopathy. Eur J Neurol. 2010;17(12):1408-1418　[DOI 10.1111/j.1468-1331.2010.03153.x](https://doi.org/10.1111/j.1468-1331.2010.03153.x)　[PMID 20642790](https://pubmed.ncbi.nlm.nih.gov/20642790/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅱ-1-B-①（Parkinson病、進行性核上性麻痺、Wernicke脳症、多発性硬化症、a）　コアカリ：PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-02-16-003 (id: JlAKpy4)；TBL-02-16-005 (id: JlAKpzE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OG-001&card_id=OG-001&version=0766884f84)　（版 `0766884f84`）
 
 ### OG-002　下書き（出典の照合前）
 
@@ -26,7 +16,7 @@
 - 出題基準：医学各論 Ⅱ-1-B-①（Parkinson病、進行性核上性麻痺、Wernicke脳症、多発性硬化症、a）　コアカリ：PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-02-16-003 (id: JlAKpy4)；TBL-02-16-005 (id: JlAKpzE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OG-002&card_id=OG-002&version=d91189b98a)　（版 `d91189b98a`）
 
-**[ここまでの 2 件（OG-001〜OG-002）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OG-001%E3%80%9COG-002&cards=OG-001%200766884f84%0AOG-002%20d91189b98a)**
+**[ここまでの 1 件（OG-002）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OG-002&cards=OG-002%20d91189b98a)**
 
 ---
 
