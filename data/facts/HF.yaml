@@ -876,3 +876,143 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-026
+  domain: HF
+  subdomain: 右心不全
+  assertion:
+    plain_statement_ja: 日本の心不全診療の現行の標準は、日本循環器学会と日本心不全学会の合同ガイドライン（2025年改訂版）であり、右心不全の診療もこの枠組みの中で原因疾患の評価と体液量の管理を軸に行われる。
+    condition:
+      region: 日本
+      対象: 右心不全の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-185
+    source: Kitai T, Kohsaka S, Kato T, et al. JCS/JHFS 2025 Guideline on Diagnosis and Treatment of Heart Failure. Circ J. 2025;89:1278-1444.
+    doi: 10.1253/circj.CJ-25-0002
+    pmid: '40159241'
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-25-0002
+    source_license: CC BY-NC-ND 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 右心不全に特化した記載の範囲を本文で直接確認できていないため、主張はガイドラインの位置づけの範囲に留めた。右心不全の原因・徴候・治療の具体的な内容は、AHA科学声明に基づくHF-027〜HF-029に置いた。肺高血圧症そのものの診断・治療は本項目の範囲外である。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-2-A-②（右心不全、a）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-157 (id: Jlvnlro)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-027
+  domain: HF
+  subdomain: 右心不全
+  assertion:
+    plain_statement_ja: 米国心臓協会の科学声明では、右心不全の原因は、右室心筋症などの右室自体の障害、右室の虚血と梗塞、先天性心疾患や弁膜症による容量負荷、肺動脈弁狭窄や肺高血圧（左心疾患に伴うものを含む）による圧負荷に整理される。
+    condition:
+      region: 米国
+      対象: 右心不全の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4380
+    source: Konstam MA, et al. Circulation. 2018;137(20):e578-e622.
+    doi: 10.1161/CIR.0000000000000560
+    pmid: '29650544'
+    pmcid: null
+    url: https://doi.org/10.1161/CIR.0000000000000560
+    source_license: CC表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 肺高血圧症自体の分類や治療は扱わない（Ⅳの肺高血圧の項目が正）。原因の整理は同声明の枠組みによる。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-2-A-②（右心不全、a）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-157 (id: Jlvnlro)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-028
+  domain: HF
+  subdomain: 右心不全
+  assertion:
+    plain_statement_ja: 右心不全の臨床像は、体静脈うっ血による徴候が主体であり、頸静脈怒張、肝腫大、腹水、下腿浮腫が中心となる。左心不全で中心となる肺うっ血の徴候には乏しいことが多い。
+    condition:
+      region: 米国
+      対象: 右心不全の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4380
+    source: Konstam MA, et al. Circulation. 2018;137(20):e578-e622.
+    doi: 10.1161/CIR.0000000000000560
+    pmid: '29650544'
+    pmcid: null
+    url: https://doi.org/10.1161/CIR.0000000000000560
+    source_license: CC表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 徴候の整理はAHA科学声明（2018年）に基づく。原因疾患によっては肺うっ血を合併する。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-2-A-②（右心不全、a）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-157 (id: Jlvnlro)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HF-029
+  domain: HF
+  subdomain: 右心不全
+  assertion:
+    plain_statement_ja: 慢性右心不全の管理の軸は、利尿薬による体液量の管理と原因疾患の治療であり、右室機能そのものを特異的に改善する確立した薬物療法はない。右室の大きさと機能の評価には心臓MRIが標準的な方法とされる。
+    condition:
+      region: 米国
+      対象: 慢性右心不全の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4380
+    source: Konstam MA, et al. Circulation. 2018;137(20):e578-e622.
+    doi: 10.1161/CIR.0000000000000560
+    pmid: '29650544'
+    pmcid: null
+    url: https://doi.org/10.1161/CIR.0000000000000560
+    source_license: CC表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 利尿薬は薬剤クラスとしての記載であり、個別製剤の国内承認・保険適用は各添付文書による。管理の枠組みはAHA科学声明（2018年）に基づく。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-2-A-②（右心不全、a）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-157 (id: Jlvnlro)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）

@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-31
 
-全 32 件のうち、監修済み 0 件。
+全 34 件のうち、監修済み 0 件。
 
 ## 僧帽弁閉鎖不全症
 
@@ -373,6 +373,32 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VD-023&card_id=VD-023&version=68ec334b03)　（版 `68ec334b03`）
 
 **[ここまでの 2 件（VD-022〜VD-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20VD-022%E3%80%9CVD-023&cards=VD-022%206dd12579cb%0AVD-023%2068ec334b03)**
+
+---
+
+## 連合弁膜症
+
+### VD-033　下書き（出典の照合前）
+
+> 連合弁膜症（2つ以上の弁に狭窄・閉鎖不全が併存する状態）の病態は、病変の組み合わせによって決まる。一方の病変が他方の血行動態を修飾するため、狭窄・逆流の重症度評価に用いられる心エコーの指標の多くは単弁病変で検証されたものであり、単弁病変の重症度基準をそのまま適用できず、複数の指標と所見を統合して評価する必要がある。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：連合弁膜症に特化した総説の抄録と総説全体の整理に基づく。病変の組み合わせごとの指標の使い分けの詳細は主張に入れていない。発生頻度などの数値は調査母集団への依存が大きいため主張に入れていない。source_class は、版元版が購読制で CC 表示がなく著者稿が PMC に公開されているため UNKNOWN とした（最終判定は取り込み側）。
+- 出典：Unger P, Clavel MA, Lindman BR, Mathieu P, Pibarot P. Pathophysiology and management of multivalvular disease. Nat Rev Cardiol. 2016;13(7):429-440.　[DOI 10.1038/nrcardio.2016.57](https://doi.org/10.1038/nrcardio.2016.57)　[PMID 27121305](https://pubmed.ncbi.nlm.nih.gov/27121305/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅴ-4-C-③（連合弁膜症、b）　コアカリ：PS-02-06-05 (id: JkxnuQw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VD-033&card_id=VD-033&version=016c967ff8)　（版 `016c967ff8`）
+
+### VD-034　下書き（出典の照合前）
+
+> 連合弁膜症では、介入の時期と方法は主病変を軸に、併存病変を含めた全体の重症度と手術リスクを踏まえて判断される。重症の大動脈弁狭窄に重症の一次性僧帽弁閉鎖不全を合併する場合は、外科的大動脈弁置換と僧帽弁手術の同時施行が基本とされ、手術リスクが高い場合は経カテーテル治療を段階的に組み合わせる選択肢がある。また、大動脈弁の狭窄と閉鎖不全が中等症同士で合併する混合性病変でも、左室機能低下があれば外科的大動脈弁置換の適応となりうる。
+
+- 条件：region: 米国／対象: 成人
+- 不確実性：米国のガイドラインの複合病変への推奨に基づく。国内の診療の正は弁膜症治療のガイドライン2020年改訂版（SRC-230）であり、個々の弁膜症の手術適応そのものは VD の既存カードが正で、本カードは複数病変が併存する場合の判断の範囲に限る。マスターの SRC-231 は PMID が null だが、PubMed で PMID 33332150 を確認したためカードには記載した（マスターへの補完は §3 の申し送りのとおり）。
+- 出典：Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease. Circulation. 2021;143(5):e72-e227.　[DOI 10.1161/CIR.0000000000000923](https://doi.org/10.1161/CIR.0000000000000923)　[PMID 33332150](https://pubmed.ncbi.nlm.nih.gov/33332150/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-4-C-③（連合弁膜症、b）　コアカリ：PS-02-06-05 (id: JkxnuQw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VD-034&card_id=VD-034&version=7ef7b28e6b)　（版 `7ef7b28e6b`）
+
+**[ここまでの 2 件（VD-033〜VD-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20VD-033%E3%80%9CVD-034&cards=VD-033%20016c967ff8%0AVD-034%207ef7b28e6b)**
 
 ---
 

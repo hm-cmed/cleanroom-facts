@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-31
 
-全 20 件のうち、監修済み 0 件。
+全 23 件のうち、監修済み 0 件。
 
 ## 本態性高血圧
 
@@ -245,6 +245,42 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HT-020&card_id=HT-020&version=6f3cd71e11)　（版 `6f3cd71e11`）
 
 **[ここまでの 2 件（HT-019〜HT-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HT-019%E3%80%9CHT-020&cards=HT-019%20a1d482704f%0AHT-020%206f3cd71e11)**
+
+---
+
+## 腎実質性高血圧症
+
+### HT-021　下書き（出典の照合前）
+
+> 高血圧治療ガイドライン2025（JSH2025）は、高血圧を診察室血圧140/90 mmHg以上と定義し（血圧分類は2019年版を踏襲）、降圧目標を原則130/80 mmHg未満とした。腎実質性高血圧は、二次性高血圧の一つとして同ガイドラインに位置づけられる。
+
+- 条件：region: 日本／対象: 腎実質性高血圧症の患者
+- 不確実性：腎血管性高血圧は別の項目であり、本カードの対象ではない。目標値は原則であり、個別の患者では併存症に応じて判断される。
+- 出典：Ohya Y, et al. The Japanese Society of Hypertension Guidelines for the management of elevated blood pressure and hypertension 2025 (JSH2025). Hypertens Res. 2026;49(1):9-235.　[DOI 10.1038/s41440-025-02462-y](https://doi.org/10.1038/s41440-025-02462-y)　[PMID 41476123](https://pubmed.ncbi.nlm.nih.gov/41476123/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-7-B-①（腎実質性高血圧症、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HT-021&card_id=HT-021&version=673660a748)　（版 `673660a748`）
+
+### HT-022　下書き（出典の照合前）
+
+> KDIGOのCKDにおける血圧管理ガイドライン（2021年）は、透析を受けていないCKD患者について、標準化された方法で測定した診察室収縮期血圧120 mmHg未満を降圧目標として推奨している（弱い推奨）。
+
+- 条件：region: 国際／対象: 透析を受けていないCKD患者
+- 不確実性：目標は標準化された診察室血圧測定を前提としており、日本のJSH2025の目標（130/80 mmHg未満）とは異なる。通常の診察室測定の値とそのまま比べられない点に注意する。
+- 出典：KDIGO Blood Pressure Work Group. KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in CKD. Kidney Int. 2021;99(3S):S1-S87.　[DOI 10.1016/j.kint.2020.11.003](https://doi.org/10.1016/j.kint.2020.11.003)　[PMID 33637192](https://pubmed.ncbi.nlm.nih.gov/33637192/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-7-B-①（腎実質性高血圧症、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HT-022&card_id=HT-022&version=7a4118c01a)　（版 `7a4118c01a`）
+
+### HT-023　下書き（出典の照合前）
+
+> KDIGOのCKDにおける血圧管理ガイドライン（2021年）は、アルブミン尿を伴うCKD患者では、レニン・アンジオテンシン系阻害薬による降圧治療を推奨している。
+
+- 条件：region: 国際／対象: アルブミン尿を伴うCKD患者
+- 不確実性：薬剤クラスとしての記載であり、個別製剤の国内承認・保険適用は各添付文書による。腎血管性高血圧と、CKD一般の血圧管理の詳細は本カードの対象外とした。
+- 出典：KDIGO Blood Pressure Work Group. KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in CKD. Kidney Int. 2021;99(3S):S1-S87.　[DOI 10.1016/j.kint.2020.11.003](https://doi.org/10.1016/j.kint.2020.11.003)　[PMID 33637192](https://pubmed.ncbi.nlm.nih.gov/33637192/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-7-B-①（腎実質性高血圧症、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HT-023&card_id=HT-023&version=9155e24dbc)　（版 `9155e24dbc`）
+
+**[ここまでの 3 件（HT-021〜HT-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HT-021%E3%80%9CHT-023&cards=HT-021%20673660a748%0AHT-022%207a4118c01a%0AHT-023%209155e24dbc)**
 
 ---
 

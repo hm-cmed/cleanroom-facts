@@ -1114,3 +1114,248 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: MP-033
+  domain: MP
+  subdomain: 虚血性心筋症
+  assertion:
+    plain_statement_ja: 虚血性心筋症は、慢性の冠動脈疾患（多くは心筋梗塞の既往）による心筋障害を背景に左室拡大と収縮機能低下を来した状態であり、特発性拡張型心筋症との鑑別には冠動脈造影などによる冠動脈疾患の確認が要る。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4383
+    source: 日本循環器学会・日本心不全学会. 心筋症診療ガイドライン（2018年改訂版）英語版. Circ J. 2021;85(9):1590-1689
+    doi: 10.1253/circj.CJ-20-0910
+    pmid: null
+    pmcid: null
+    url: https://doi.org/10.1253/circj.CJ-20-0910
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 「虚血性心筋症」の定義は文献により範囲が異なり、本カードは日本の心筋症診療ガイドライン（2018年改訂版）の定義に寄せた。出典の PMID は確認できなかったため null とした。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-6-C-④（虚血性心筋症、b）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: MP-034
+  domain: MP
+  subdomain: 虚血性心筋症
+  assertion:
+    plain_statement_ja: 左室駆出率35%以下で外科治療に適した冠動脈疾患をもつ患者では、CABG に薬物療法を併用する群は薬物療法単独群に比べ、5年時点の心血管死と心血管入院が少なかったが、全死亡には有意差がなかった（STICH試験）。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4384
+    source: Velazquez EJ, et al. Coronary-artery bypass surgery in patients with left ventricular dysfunction. N Engl J Med. 2011;364(17):1607-1616
+    doi: 10.1056/NEJMoa1100356
+    pmid: '21463150'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa1100356
+    source_license: 未確認（購読誌、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードは2011年本論文の5年時点の結果の範囲。10年追跡（延長追跡）では全死亡の低下が報告されているが、その書誌は本カードの出典には含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-6-C-④（虚血性心筋症、b）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: MP-035
+  domain: MP
+  subdomain: 虚血性心筋症
+  assertion:
+    plain_statement_ja: 重症の虚血性左室機能低下（左室駆出率35%以下）に対し、PCI に至適薬物療法を併用しても、至適薬物療法単独と比べて死亡と心不全入院に差はなかった（REVIVED-BCIS2試験）。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4385
+    source: Perera D, et al. Percutaneous revascularization for ischemic left ventricular dysfunction. N Engl J Med. 2022;387(15):1351-1360
+    doi: 10.1056/NEJMoa2206606
+    pmid: '36027563'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJMoa2206606
+    source_license: 未確認（購読誌、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本試験は英国の施設で実施された。血行再建の方法と適応は、病変の範囲や全身状態により個別に判断される。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-6-C-④（虚血性心筋症、b）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: MP-036
+  domain: MP
+  subdomain: 転移性腫瘍
+  assertion:
+    plain_statement_ja: 心臓への転移は剖検例の2.3〜18.3%にみられ、原発性心腫瘍（剖検例の0.001〜0.28%）よりはるかに多い。転移が多い原発には悪性黒色腫や縦隔腫瘍が含まれる。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4386
+    source: Bussani R, et al. Cardiac metastases. J Clin Pathol. 2007;60(1):27-34
+    doi: 10.1136/jcp.2005.035105
+    pmid: '17098886'
+    pmcid: null
+    url: https://doi.org/10.1136/jcp.2005.035105
+    source_license: 未確認（購読誌、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 頻度は剖検シリーズの対象や年代により幅が大きく、本カードでは範囲のまま記載した。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-6-F-②（転移性腫瘍、c）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: MP-037
+  domain: MP
+  subdomain: 転移性腫瘍
+  assertion:
+    plain_statement_ja: 心臓転移は原発性心腫瘍の20〜40倍多いとされ、多くは無症状で剖検時に発見される。症状が現れる場合は、心膜転移による心嚢液貯留・心タンポナーデや、心筋転移による不整脈・心不全の形をとる。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4387
+    source: 'Lucà F, et al. Cardiac metastasis: epidemiology, pathophysiology, and clinical management. Life (Basel). 2025;15(2):291'
+    doi: 10.3390/life15020291
+    pmid: '40003702'
+    pmcid: null
+    url: https://doi.org/10.3390/life15020291
+    source_license: CC BY 4.0（Crossref の license 欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 総説に基づく整理であり、症状の現れ方は原発巣と転移部位により異なる。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-6-F-②（転移性腫瘍、c）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: MP-038
+  domain: MP
+  subdomain: 心臓外傷
+  assertion:
+    plain_statement_ja: 鈍的心臓損傷が疑われる患者では入院時に心電図を記録し、心電図とトロポニンIがともに正常であれば鈍的心臓損傷は実質的に除外できる。
+    condition:
+      region: 米国
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4388
+    source: 'Clancy K, et al. Screening for blunt cardiac injury: an Eastern Association for the Surgery of Trauma practice management guideline. J Trauma Acute Care Surg. 2012;73(5 Suppl 4):S301-S306'
+    doi: 10.1097/TA.0b013e318270193a
+    pmid: '23114485'
+    pmcid: null
+    url: https://doi.org/10.1097/TA.0b013e318270193a
+    source_license: 未確認（購読誌、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 出典の EAST ガイドラインは鈍的外傷のみが対象で、穿通性心臓外傷には適用できない。日本の外傷診療ガイドラインでの心臓外傷の扱いは未確認。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-6-G-①（心臓外傷、c）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；PS-03-05-12 (id: Jkxir3g)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: MP-039
+  domain: MP
+  subdomain: 心臓外傷
+  assertion:
+    plain_statement_ja: 鈍的外傷後に新たな心電図異常（伝導障害・不整脈・ST変化）がみられる場合は、持続心電図モニタリング下の入院観察が推奨される。胸骨骨折があること自体は鈍的心臓損傷の予測因子にならない。
+    condition:
+      region: 米国
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4388
+    source: 'Clancy K, et al. Screening for blunt cardiac injury: an Eastern Association for the Surgery of Trauma practice management guideline. J Trauma Acute Care Surg. 2012;73(5 Suppl 4):S301-S306'
+    doi: 10.1097/TA.0b013e318270193a
+    pmid: '23114485'
+    pmcid: null
+    url: https://doi.org/10.1097/TA.0b013e318270193a
+    source_license: 未確認（購読誌、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 対象は鈍的外傷に限る（同ガイドライン）。心エコーは循環不安定・不整脈が持続する例に限られ、スクリーニングには用いないとされる。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-6-G-①（心臓外傷、c）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；PS-03-05-12 (id: Jkxir3g)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）

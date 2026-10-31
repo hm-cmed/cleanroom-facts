@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-31
 
-全 49 件のうち、監修済み 0 件。
+全 54 件のうち、監修済み 0 件。
 
 ## 眼球の構造と機能
 
@@ -689,6 +689,74 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-054&card_id=EY-054&version=47170689eb)　（版 `47170689eb`）
 
 **[ここまでの 1 件（EY-054）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-054&cards=EY-054%2047170689eb)**
+
+---
+
+## 外転神経麻痺
+
+### EY-055　下書き（出典の照合前）
+
+> 孤立性外転神経麻痺の原因構成は、韓国の三次医療機関で集積された807例では微小血管性36.7%が最多で、特発性17.7%、腫瘍性14.3%、血管異常10.2%、炎症性9.4%、外傷性4.3%の順であった。
+
+- 条件：region: 国際／対象: 韓国の三次医療機関で集積された孤立性外転神経麻痺の症例
+- 不確実性：三次医療機関への紹介例の集積であり、腫瘍性など重症原因の割合が一般診療の原因構成より高く出る可能性がある。
+- 出典：Kim HJ, et al. Eur J Neurol. 2023;30(8):2471-2480.　[DOI 10.1111/ene.15828](https://doi.org/10.1111/ene.15828)　[PMID 37154347](https://pubmed.ncbi.nlm.nih.gov/37154347/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-4-C-④（外転神経麻痺、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-055&card_id=EY-055&version=6f66e9f501)　（版 `6f66e9f501`）
+
+### EY-056　下書き（出典の照合前）
+
+> 米国ミネソタ州オルムステッド郡の人口ベース研究では、外転神経麻痺の発症率は人口10万人あたり年11.3人で、原因は原因不明26%、高血圧のみ19%、高血圧と糖尿病の合併12%、外傷12%、多発性硬化症7%、腫瘍5%、糖尿病のみ4%、脳血管障害4%であった。
+
+- 条件：region: 米国／対象: 米国ミネソタ州オルムステッド郡の住民
+- 不確実性：2004年公表の単一郡のデータであり、時代や地域によって発症率と原因構成は異なりうる。
+- 出典：Patel SV, et al. Ophthalmology. 2004;111(2):369-375.　[DOI 10.1016/j.ophtha.2003.05.024](https://doi.org/10.1016/j.ophtha.2003.05.024)　[PMID 15019392](https://pubmed.ncbi.nlm.nih.gov/15019392/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-4-C-④（外転神経麻痺、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-056&card_id=EY-056&version=06fdbe9207)　（版 `06fdbe9207`）
+
+**[ここまでの 2 件（EY-055〜EY-056）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-055%E3%80%9CEY-056&cards=EY-055%206f66e9f501%0AEY-056%2006fdbe9207)**
+
+---
+
+## 滑車神経麻痺
+
+### EY-057　下書き（出典の照合前）
+
+> 米国ミネソタ州オルムステッド郡の人口ベース研究では、滑車神経麻痺の原因は推定先天性49%が最多で、高血圧18%、外傷18%、高血圧と糖尿病の合併5%、脳神経外科手術後3%、糖尿病1%、腫瘍1%であり、両側例では外傷が75%を占めた。
+
+- 条件：region: 米国／対象: 米国ミネソタ州オルムステッド郡で滑車神経麻痺と診断された住民
+- 不確実性：最多の「先天性」は臨床経過からの推定分類であり、乳幼児期の発症が直接確認された分類ではない。
+- 出典：Dosunmu EO, et al. Am J Ophthalmol. 2018;185:110-114.　[DOI 10.1016/j.ajo.2017.10.019](https://doi.org/10.1016/j.ajo.2017.10.019)　[PMID 29102606](https://pubmed.ncbi.nlm.nih.gov/29102606/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-4-C-⑤（滑車神経麻痺、c）　コアカリ：PS-02-15-05 (id: JkxnuTU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-057&card_id=EY-057&version=aeaccf433c)　（版 `aeaccf433c`）
+
+**[ここまでの 1 件（EY-057）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-057&cards=EY-057%20aeaccf433c)**
+
+---
+
+## 角膜の色素沈着
+
+### EY-058　下書き（出典の照合前）
+
+> ビリルビン5 mg/dLを超える高ビリルビン血症患者750例の検討では、角膜沈着が13%にみられ、その内訳は真のKayser-Fleischer輪31.7%と偽性KF輪68.3%であった。偽性KF輪はビリルビンの角膜実質後層への沈着で、6か月以内に全例が消失した。前眼部OCTでは、真のKF輪がデスメ膜レベルの沈着として、偽性KF輪が実質の色調変化として区別できる。
+
+- 条件：region: 国際／対象: ビリルビン5 mg/dLを超える高ビリルビン血症患者
+- 不確実性：角膜所見に限ったカードであり、Wilson病自体の診断基準や治療は扱わない（消化器・代謝の既存カードが正）。数値は単施設の観察研究による。
+- 出典：Sabhapandit S, et al. Hepatol Commun. 2023;7(5):e0136.　[DOI 10.1097/HC9.0000000000000136](https://doi.org/10.1097/HC9.0000000000000136)　[PMID 37058122](https://pubmed.ncbi.nlm.nih.gov/37058122/)（区分 OPEN）
+- 出題基準：医学各論 Ⅲ-5-C-⑫（角膜の色素沈着、c）　コアカリ：PS-02-15-05 (id: JkxnuTU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-058&card_id=EY-058&version=1267fa728e)　（版 `1267fa728e`）
+
+### EY-059　下書き（出典の照合前）
+
+> アミオダロンを服用した105例では、細隙灯検査で98%に角膜の渦状沈着（渦状角膜症）がみられた。変化は用量に依存して数か月かけて進行し、服用中止後に消失し、永続的な後遺症はなかった。
+
+- 条件：region: 国際／対象: アミオダロン服用患者
+- 不確実性：アミオダロンは国内承認済みの抗不整脈薬である（PMDAの添付文書で効能・効果を確認した）。数値は1982年の症例集積による。
+- 出典：Ingram DV, et al. Br J Ophthalmol. 1982;66(10):676-679.　[DOI 10.1136/bjo.66.10.676](https://doi.org/10.1136/bjo.66.10.676)　[PMID 7115651](https://pubmed.ncbi.nlm.nih.gov/7115651/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-5-C-⑫（角膜の色素沈着、c）　コアカリ：PS-02-15-05 (id: JkxnuTU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-059&card_id=EY-059&version=b87a535ce6)　（版 `b87a535ce6`）
+
+**[ここまでの 2 件（EY-058〜EY-059）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-058%E3%80%9CEY-059&cards=EY-058%201267fa728e%0AEY-059%20b87a535ce6)**
 
 ---
 

@@ -1716,3 +1716,178 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-055
+  domain: EY
+  subdomain: 外転神経麻痺
+  assertion:
+    plain_statement_ja: 孤立性外転神経麻痺の原因構成は、韓国の三次医療機関で集積された807例では微小血管性36.7%が最多で、特発性17.7%、腫瘍性14.3%、血管異常10.2%、炎症性9.4%、外傷性4.3%の順であった。
+    condition:
+      region: 国際
+      対象: 韓国の三次医療機関で集積された孤立性外転神経麻痺の症例
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4371
+    source: Kim HJ, et al. Eur J Neurol. 2023;30(8):2471-2480.
+    doi: 10.1111/ene.15828
+    pmid: '37154347'
+    pmcid: null
+    url: https://doi.org/10.1111/ene.15828
+    source_license: CC表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 三次医療機関への紹介例の集積であり、腫瘍性など重症原因の割合が一般診療の原因構成より高く出る可能性がある。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-4-C-④（外転神経麻痺、b）
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-056
+  domain: EY
+  subdomain: 外転神経麻痺
+  assertion:
+    plain_statement_ja: 米国ミネソタ州オルムステッド郡の人口ベース研究では、外転神経麻痺の発症率は人口10万人あたり年11.3人で、原因は原因不明26%、高血圧のみ19%、高血圧と糖尿病の合併12%、外傷12%、多発性硬化症7%、腫瘍5%、糖尿病のみ4%、脳血管障害4%であった。
+    condition:
+      region: 米国
+      対象: 米国ミネソタ州オルムステッド郡の住民
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4372
+    source: Patel SV, et al. Ophthalmology. 2004;111(2):369-375.
+    doi: 10.1016/j.ophtha.2003.05.024
+    pmid: '15019392'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ophtha.2003.05.024
+    source_license: CC表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 2004年公表の単一郡のデータであり、時代や地域によって発症率と原因構成は異なりうる。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-4-C-④（外転神経麻痺、b）
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-057
+  domain: EY
+  subdomain: 滑車神経麻痺
+  assertion:
+    plain_statement_ja: 米国ミネソタ州オルムステッド郡の人口ベース研究では、滑車神経麻痺の原因は推定先天性49%が最多で、高血圧18%、外傷18%、高血圧と糖尿病の合併5%、脳神経外科手術後3%、糖尿病1%、腫瘍1%であり、両側例では外傷が75%を占めた。
+    condition:
+      region: 米国
+      対象: 米国ミネソタ州オルムステッド郡で滑車神経麻痺と診断された住民
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4373
+    source: Dosunmu EO, et al. Am J Ophthalmol. 2018;185:110-114.
+    doi: 10.1016/j.ajo.2017.10.019
+    pmid: '29102606'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ajo.2017.10.019
+    source_license: CC表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 最多の「先天性」は臨床経過からの推定分類であり、乳幼児期の発症が直接確認された分類ではない。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-4-C-⑤（滑車神経麻痺、c）
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-058
+  domain: EY
+  subdomain: 角膜の色素沈着
+  assertion:
+    plain_statement_ja: ビリルビン5 mg/dLを超える高ビリルビン血症患者750例の検討では、角膜沈着が13%にみられ、その内訳は真のKayser-Fleischer輪31.7%と偽性KF輪68.3%であった。偽性KF輪はビリルビンの角膜実質後層への沈着で、6か月以内に全例が消失した。前眼部OCTでは、真のKF輪がデスメ膜レベルの沈着として、偽性KF輪が実質の色調変化として区別できる。
+    condition:
+      region: 国際
+      対象: ビリルビン5 mg/dLを超える高ビリルビン血症患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4374
+    source: Sabhapandit S, et al. Hepatol Commun. 2023;7(5):e0136.
+    doi: 10.1097/HC9.0000000000000136
+    pmid: '37058122'
+    pmcid: null
+    url: https://doi.org/10.1097/HC9.0000000000000136
+    source_license: CC BY 4.0（Crossref のlicense欄で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 角膜所見に限ったカードであり、Wilson病自体の診断基準や治療は扱わない（消化器・代謝の既存カードが正）。数値は単施設の観察研究による。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-5-C-⑫（角膜の色素沈着、c）
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-059
+  domain: EY
+  subdomain: 角膜の色素沈着
+  assertion:
+    plain_statement_ja: アミオダロンを服用した105例では、細隙灯検査で98%に角膜の渦状沈着（渦状角膜症）がみられた。変化は用量に依存して数か月かけて進行し、服用中止後に消失し、永続的な後遺症はなかった。
+    condition:
+      region: 国際
+      対象: アミオダロン服用患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4375
+    source: Ingram DV, et al. Br J Ophthalmol. 1982;66(10):676-679.
+    doi: 10.1136/bjo.66.10.676
+    pmid: '7115651'
+    pmcid: null
+    url: https://doi.org/10.1136/bjo.66.10.676
+    source_license: CC表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: アミオダロンは国内承認済みの抗不整脈薬である（PMDAの添付文書で効能・効果を確認した）。数値は1982年の症例集積による。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-5-C-⑫（角膜の色素沈着、c）
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）

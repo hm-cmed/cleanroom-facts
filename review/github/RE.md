@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-31
 
-全 28 件のうち、監修済み 0 件。
+全 30 件のうち、監修済み 0 件。
 
 ## 糖尿病網膜症の分類
 
@@ -449,6 +449,32 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-028&card_id=RE-028&version=1511ef4474)　（版 `1511ef4474`）
 
 **[ここまでの 1 件（RE-028）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-028&cards=RE-028%201511ef4474)**
+
+---
+
+## 硝子体混濁
+
+### RE-029　下書き（出典の照合前）
+
+> 症候性飛蚊症に対する硝子体手術の国際的な症例集積（581眼）では、患者満足度92%、症状の完全消失86.3%であった一方、医原性網膜裂孔5%、網膜剥離2.4%、術後の白内障手術48.6%が報告された。
+
+- 条件：region: 国際／対象: 症候性飛蚊症に対して硝子体手術を受けた患者
+- 不確実性：手術に至った症例のみの集積であり、飛蚊症全体の自然経過や手術適応の判断にそのままは使えない。
+- 出典：European Vitreo-Retinal Society Floaters Study. Eye (Lond). 2020;34(5):825-834.　[DOI 10.1038/s41433-020-0825-0](https://doi.org/10.1038/s41433-020-0825-0)　[PMID 32313173](https://pubmed.ncbi.nlm.nih.gov/32313173/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-6-D-②（硝子体混濁、c）　コアカリ：PS-02-15-05 (id: JkxnuTU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-029&card_id=RE-029&version=d84312ac82)　（版 `d84312ac82`）
+
+### RE-030　下書き（出典の照合前）
+
+> スマートフォン利用者603人を対象とした電子調査では、76%が飛蚊症を自覚し、33%が視覚への明らかな支障を訴えた。中等度以上の飛蚊症の訴えは、正視の人に比べて近視で3.5倍、遠視で4.4倍多かった。
+
+- 条件：region: 国際／対象: スマートフォンアプリの調査に回答した603人
+- 不確実性：回答者がスマートフォン利用者に限られる自己選択集団の調査で選択バイアスが強く、これらの割合は一般人口の有病率ではない。ライセンス種別は Crossref 未登録のため確認できていない。
+- 出典：Webb BF, Webb JR, Schroeder MC, North CS. Int J Ophthalmol. 2013;6(3):402-405.　[DOI 10.3980/j.issn.2222-3959.2013.03.27](https://doi.org/10.3980/j.issn.2222-3959.2013.03.27)　[PMID 23826541](https://pubmed.ncbi.nlm.nih.gov/23826541/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-6-D-②（硝子体混濁、c）　コアカリ：PS-02-15-05 (id: JkxnuTU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-030&card_id=RE-030&version=edc2d9a17c)　（版 `edc2d9a17c`）
+
+**[ここまでの 2 件（RE-029〜RE-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-029%E3%80%9CRE-030&cards=RE-029%20d84312ac82%0ARE-030%20edc2d9a17c)**
 
 ---
 

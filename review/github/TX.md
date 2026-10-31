@@ -81,10 +81,10 @@
 - 条件：region: 国際／対象: アルコール性心筋症の患者
 - 不確実性：飲酒量の目安は出典の総説の記載であり、診断基準として確立した閾値ではない。心筋症そのものの診療は循環器分野の範囲であり、本カードはアルコールという原因の側面に限る。
 - 出典：Domínguez F, Adler E, García-Pavía P. Alcoholic cardiomyopathy: an update. Eur Heart J. 2024;45(26):2294-2305　[DOI 10.1093/eurheartj/ehae362](https://doi.org/10.1093/eurheartj/ehae362)　[PMID 38848133](https://pubmed.ncbi.nlm.nih.gov/38848133/)（区分 OPEN）
-- 出題基準：医学各論 ⅩⅢ-2-A-④（慢性アルコール性臓器障害、a）　コアカリ：PS-03-05-08 (id: Jkxnubw)；GE-04-01-06 (id: JkxpswA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TX-006&card_id=TX-006&version=c5a0cc749e)　（版 `c5a0cc749e`）
+- 出題基準：医学各論 ⅩⅢ-2-A-④（慢性アルコール性臓器障害、a）；医学各論 Ⅴ-6-C-③（アルコール性心筋症、b）　コアカリ：PS-03-05-08 (id: Jkxnubw)；GE-04-01-06 (id: JkxpswA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TX-006&card_id=TX-006&version=a47723c125)　（版 `a47723c125`）
 
-**[ここまでの 2 件（TX-005〜TX-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TX-005%E3%80%9CTX-006&cards=TX-005%20b435069b5f%0ATX-006%20c5a0cc749e)**
+**[ここまでの 2 件（TX-005〜TX-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TX-005%E3%80%9CTX-006&cards=TX-005%20b435069b5f%0ATX-006%20a47723c125)**
 
 ---
 

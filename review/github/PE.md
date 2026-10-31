@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-31
 
-全 31 件のうち、監修済み 0 件。
+全 37 件のうち、監修済み 0 件。
 
 ## 肥厚性幽門狭窄症
 
@@ -401,6 +401,78 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PE-031&card_id=PE-031&version=96ab83b331)　（版 `96ab83b331`）
 
 **[ここまでの 2 件（PE-030〜PE-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PE-030%E3%80%9CPE-031&cards=PE-030%20130238b813%0APE-031%2096ab83b331)**
+
+---
+
+## 先天性食道閉鎖症
+
+### PE-032　下書き（出典の照合前）
+
+> 先天性食道閉鎖症は出生3,000〜4,500例あたり約1例にみられ、Gross分類では上部食道が盲端となり下部食道が気管と瘻孔を形成するC型が約86%と最も多く、瘻のないA型が約7〜8%を占める。出生前には羊水過多と胃泡の消失・小さい胃泡が手がかりとなり、出生後は唾液の泡沫状の流出や、経鼻胃管が進まず反転することから疑われる。
+
+- 条件：region: 国際／対象: 新生児
+- 不確実性：型別頻度は Spitz 2007 の総説に基づく単一出典の値であり、報告により C型は85〜86%と幅がある。閉鎖のない E型（H型瘻）は本項目の対象外で、気管食道瘻の既存カード（PL-009）が正。合併奇形（VACTERL 連合など）の内訳は主張に入れていない。
+- 出典：Spitz L. Oesophageal atresia. Orphanet J Rare Dis. 2007;2:24.　[DOI 10.1186/1750-1172-2-24](https://doi.org/10.1186/1750-1172-2-24)　[PMID 17498283](https://pubmed.ncbi.nlm.nih.gov/17498283/)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-12-A-①（先天性食道閉鎖症、b）　コアカリ：PS-02-12-04 (id: Jli53IM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PE-032&card_id=PE-032&version=60700a1ec0)　（版 `60700a1ec0`）
+
+### PE-033　下書き（出典の照合前）
+
+> 欧州の専門家コンセンサス（ERNICA）では、先天性食道閉鎖症の術前評価として全例に心エコーを行い右側大動脈弓の有無を確認すること、手術では瘻の閉鎖に貫通縫合を、食道の吻合に単結節縫合を用いることが、完全な合意が得られた項目とされた。
+
+- 条件：region: 欧州／対象: 新生児
+- 不確実性：専門家コンセンサス文書であり、合意項目の根拠のエビデンスレベルは低いものが多い。主張は完全合意と明記された項目の範囲に限る。開胸と胸腔鏡の選択など施設により異なる点は主張に入れていない。
+- 出典：Dingemann C, Eaton S, Aksnes G, et al. ERNICA Consensus Conference on the Management of Patients with Esophageal Atresia and Tracheoesophageal Fistula: Diagnostics, Preoperative, Operative, and Postoperative Management. Eur J Pediatr Surg. 2020;30(4):326-336.　[DOI 10.1055/s-0039-1693116](https://doi.org/10.1055/s-0039-1693116)　[PMID 31266084](https://pubmed.ncbi.nlm.nih.gov/31266084/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-12-A-①（先天性食道閉鎖症、b）　コアカリ：PS-02-12-04 (id: Jli53IM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PE-033&card_id=PE-033&version=528de0d9ba)　（版 `528de0d9ba`）
+
+### PE-034　下書き（出典の照合前）
+
+> 日本の DPC データベースで一期的吻合を受けた先天性食道閉鎖症の431例（2010〜2016年）では、吻合部狭窄が35.7%、縫合不全が17.9%に生じた。先天性心疾患は27%に合併していたが、心疾患の合併自体は両合併症の有意な予測因子ではなく、縫合不全の有意な予測因子は麻酔時間であった。
+
+- 条件：region: 日本／対象: 新生児
+- 不確実性：数値は原著論文の抄録で確認した。本論文の PMID は本作成では表示を確認できなかったため null とした（取り込み側の照合での補完を申し送る）。2010〜2016年の登録例に基づく後方視的解析であり、その後の成績とは異なる可能性がある。
+- 出典：Ishimaru T, Fujiogi M, Michihata N, et al. Impact of congenital heart disease on outcomes after primary repair of esophageal atresia: a retrospective observational study using a nationwide database in Japan. Pediatr Surg Int. 2019;35(10):1077-1083.　[DOI 10.1007/s00383-019-04542-w](https://doi.org/10.1007/s00383-019-04542-w)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-12-A-①（先天性食道閉鎖症、b）　コアカリ：PS-02-12-04 (id: Jli53IM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PE-034&card_id=PE-034&version=0b49bd6ac3)　（版 `0b49bd6ac3`）
+
+**[ここまでの 3 件（PE-032〜PE-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PE-032%E3%80%9CPE-034&cards=PE-032%2060700a1ec0%0APE-033%20528de0d9ba%0APE-034%200b49bd6ac3)**
+
+---
+
+## 鼠径ヘルニア
+
+### PE-035　下書き（出典の照合前）
+
+> 小児の鼠径ヘルニアは、腹膜鞘状突起（女児では Nuck 管）の閉鎖不全による外鼠径（間接）ヘルニアがほぼすべてであり、腹壁の脆弱性による成人のヘルニアとは機序が異なる。自然治癒は期待できないため治療は手術が原則であり、成人と異なりメッシュは用いず、ヘルニア嚢の高位結紮（閉鎖）が手術の本体となる。
+
+- 条件：region: 日本／対象: 小児
+- 不確実性：国内ガイドライン第2版（2024年）の小児 CQ の個別の推奨文言は書籍本文の照合が未了のため主張に入れておらず、主張は疾患の機序と治療原則の範囲に留めた。成人の鼠径ヘルニア（AB-071・072）におけるメッシュ法や経過観察の考え方は小児には適用できない。
+- 出典：日本ヘルニア学会ガイドライン作成検討委員会 編. 鼠径部ヘルニア診療ガイドライン2024 第2版. 金原出版. 2024.（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-12-G-①（鼠径ヘルニア、a）　コアカリ：PS-02-12-04 (id: Jli53IM)；TBL-01-00-425 (id: JlvnmHI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PE-035&card_id=PE-035&version=9551997967)　（版 `9551997967`）
+
+### PE-036　下書き（出典の照合前）
+
+> 待機手術を待つ2歳未満の小児の鼠径ヘルニアでは、待機中の嵌頓が全体で11.9%に生じた。待機が14日以内の群では5.2%であったのに対し、1歳未満で14日を超えて待機した群では嵌頓のリスクが約2倍に高く、嵌頓の関連因子は1歳未満であることと女児であった。
+
+- 条件：region: 国際／対象: 2歳未満の乳幼児
+- 不確実性：カナダの行政データ（2歳未満1,065例）に基づく数値であり、日本での頻度として読まないこと。嵌頓した際の用手整復の可否や絞扼時の緊急手術の判断は、国内ガイドラインの本文確認が必要なため主張に入れていない。
+- 出典：Zamakhshary M, To T, Guan J, Langer JC. Risk of incarceration of inguinal hernia among infants and young children awaiting elective surgery. CMAJ. 2008;179(10):1001-1005.　[DOI 10.1503/cmaj.070923](https://doi.org/10.1503/cmaj.070923)　[PMID 18981440](https://pubmed.ncbi.nlm.nih.gov/18981440/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅵ-12-G-①（鼠径ヘルニア、a）　コアカリ：PS-02-12-04 (id: Jli53IM)；TBL-01-00-425 (id: JlvnmHI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PE-036&card_id=PE-036&version=4ba1840fde)　（版 `4ba1840fde`）
+
+### PE-037　下書き（出典の照合前）
+
+> 小児の鼠径ヘルニアに対する腹腔鏡下経皮的腹膜外閉鎖法（LPEC）と開腹法（高位結紮）を比較したメタ解析（10研究・約15,000例）では、再発率に有意差はなかった。一方、対側の異時性ヘルニアと術後の精巣挙上は LPEC で少なく、手術時間は片側では LPEC が約3分長く、両側では約6分短かった。
+
+- 条件：region: 国際／対象: 小児
+- 不確実性：対象研究は観察研究が中心である。RCT のみを対象とした別のメタ解析（Dreuning ら、2019年）では再発・合併症・対側異時性ヘルニアのいずれにも有意差が示されておらず、無症候の対側開存を全例で閉鎖すべきかは結論が出ていない。LPEC の原著シリーズ（Takehara ら、2006年、日本の3施設・972件）では再発率は0.73%で、水瘤・精巣萎縮はなかった。
+- 出典：Yamoto M, Takahashi T, Morotomi Y, Nagae I, Takehara H. Laparoscopic percutaneous extraperitoneal closure versus open repair in pediatric inguinal hernia: a systematic review and meta-analysis of comparative outcomes. Hernia. 2026;30(1):52.　[DOI 10.1007/s10029-025-03561-y](https://doi.org/10.1007/s10029-025-03561-y)　[PMID 41493600](https://pubmed.ncbi.nlm.nih.gov/41493600/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅵ-12-G-①（鼠径ヘルニア、a）　コアカリ：PS-02-12-04 (id: Jli53IM)；TBL-01-00-425 (id: JlvnmHI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PE-037&card_id=PE-037&version=fbfc114a27)　（版 `fbfc114a27`）
+
+**[ここまでの 3 件（PE-035〜PE-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PE-035%E3%80%9CPE-037&cards=PE-035%209551997967%0APE-036%204ba1840fde%0APE-037%20fbfc114a27)**
 
 ---
 

@@ -199,7 +199,7 @@
     corroboration: null
   uncertainty: 飲酒量の目安は出典の総説の記載であり、診断基準として確立した閾値ではない。心筋症そのものの診療は循環器分野の範囲であり、本カードはアルコールという原因の側面に限る。
   curriculum:
-    kokushi: 医学各論 ⅩⅢ-2-A-④（慢性アルコール性臓器障害、a）
+    kokushi: 医学各論 ⅩⅢ-2-A-④（慢性アルコール性臓器障害、a）；医学各論 Ⅴ-6-C-③（アルコール性心筋症、b）
     core_curriculum: 'PS-03-05-08 (id: Jkxnubw)；GE-04-01-06 (id: JkxpswA)'
   publication_info:
     created: '2026-10-31'
@@ -211,6 +211,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅴ-6-C-③ を足した（医学各論 ⅩⅢ-2-A-④（慢性アルコール性臓器障害、a） → 医学各論 ⅩⅢ-2-A-④（慢性アルコール性臓器障害、a）；医学各論 Ⅴ-6-C-③（アルコール性心筋症、b））。三原の承認による
 - id: TX-007
   domain: TX
   subdomain: 妊婦・胎児への影響、胎児性アルコール症候群

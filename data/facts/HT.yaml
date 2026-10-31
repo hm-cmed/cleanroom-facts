@@ -698,3 +698,108 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-021
+  domain: HT
+  subdomain: 腎実質性高血圧症
+  assertion:
+    plain_statement_ja: 高血圧治療ガイドライン2025（JSH2025）は、高血圧を診察室血圧140/90 mmHg以上と定義し（血圧分類は2019年版を踏襲）、降圧目標を原則130/80 mmHg未満とした。腎実質性高血圧は、二次性高血圧の一つとして同ガイドラインに位置づけられる。
+    condition:
+      region: 日本
+      対象: 腎実質性高血圧症の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4381
+    source: Ohya Y, et al. The Japanese Society of Hypertension Guidelines for the management of elevated blood pressure and hypertension 2025 (JSH2025). Hypertens Res. 2026;49(1):9-235.
+    doi: 10.1038/s41440-025-02462-y
+    pmid: '41476123'
+    pmcid: null
+    url: https://doi.org/10.1038/s41440-025-02462-y
+    source_license: CC表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 腎血管性高血圧は別の項目であり、本カードの対象ではない。目標値は原則であり、個別の患者では併存症に応じて判断される。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-7-B-①（腎実質性高血圧症、a）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-022
+  domain: HT
+  subdomain: 腎実質性高血圧症
+  assertion:
+    plain_statement_ja: KDIGOのCKDにおける血圧管理ガイドライン（2021年）は、透析を受けていないCKD患者について、標準化された方法で測定した診察室収縮期血圧120 mmHg未満を降圧目標として推奨している（弱い推奨）。
+    condition:
+      region: 国際
+      対象: 透析を受けていないCKD患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4382
+    source: KDIGO Blood Pressure Work Group. KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in CKD. Kidney Int. 2021;99(3S):S1-S87.
+    doi: 10.1016/j.kint.2020.11.003
+    pmid: '33637192'
+    pmcid: null
+    url: https://doi.org/10.1016/j.kint.2020.11.003
+    source_license: CC BY-NC-ND 4.0（Crossref のlicense欄で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 目標は標準化された診察室血圧測定を前提としており、日本のJSH2025の目標（130/80 mmHg未満）とは異なる。通常の診察室測定の値とそのまま比べられない点に注意する。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-7-B-①（腎実質性高血圧症、a）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: HT-023
+  domain: HT
+  subdomain: 腎実質性高血圧症
+  assertion:
+    plain_statement_ja: KDIGOのCKDにおける血圧管理ガイドライン（2021年）は、アルブミン尿を伴うCKD患者では、レニン・アンジオテンシン系阻害薬による降圧治療を推奨している。
+    condition:
+      region: 国際
+      対象: アルブミン尿を伴うCKD患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4382
+    source: KDIGO Blood Pressure Work Group. KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in CKD. Kidney Int. 2021;99(3S):S1-S87.
+    doi: 10.1016/j.kint.2020.11.003
+    pmid: '33637192'
+    pmcid: null
+    url: https://doi.org/10.1016/j.kint.2020.11.003
+    source_license: CC BY-NC-ND 4.0（Crossref のlicense欄で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 薬剤クラスとしての記載であり、個別製剤の国内承認・保険適用は各添付文書による。腎血管性高血圧と、CKD一般の血圧管理の詳細は本カードの対象外とした。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-7-B-①（腎実質性高血圧症、a）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）

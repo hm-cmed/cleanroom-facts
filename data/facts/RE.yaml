@@ -964,3 +964,73 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-029
+  domain: RE
+  subdomain: 硝子体混濁
+  assertion:
+    plain_statement_ja: 症候性飛蚊症に対する硝子体手術の国際的な症例集積（581眼）では、患者満足度92%、症状の完全消失86.3%であった一方、医原性網膜裂孔5%、網膜剥離2.4%、術後の白内障手術48.6%が報告された。
+    condition:
+      region: 国際
+      対象: 症候性飛蚊症に対して硝子体手術を受けた患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4376
+    source: European Vitreo-Retinal Society Floaters Study. Eye (Lond). 2020;34(5):825-834.
+    doi: 10.1038/s41433-020-0825-0
+    pmid: '32313173'
+    pmcid: null
+    url: https://doi.org/10.1038/s41433-020-0825-0
+    source_license: CC表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 手術に至った症例のみの集積であり、飛蚊症全体の自然経過や手術適応の判断にそのままは使えない。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-6-D-②（硝子体混濁、c）
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-030
+  domain: RE
+  subdomain: 硝子体混濁
+  assertion:
+    plain_statement_ja: スマートフォン利用者603人を対象とした電子調査では、76%が飛蚊症を自覚し、33%が視覚への明らかな支障を訴えた。中等度以上の飛蚊症の訴えは、正視の人に比べて近視で3.5倍、遠視で4.4倍多かった。
+    condition:
+      region: 国際
+      対象: スマートフォンアプリの調査に回答した603人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4377
+    source: Webb BF, Webb JR, Schroeder MC, North CS. Int J Ophthalmol. 2013;6(3):402-405.
+    doi: 10.3980/j.issn.2222-3959.2013.03.27
+    pmid: '23826541'
+    pmcid: PMC3693028
+    url: https://doi.org/10.3980/j.issn.2222-3959.2013.03.27
+    source_license: 未確認
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 回答者がスマートフォン利用者に限られる自己選択集団の調査で選択バイアスが強く、これらの割合は一般人口の有病率ではない。ライセンス種別は Crossref 未登録のため確認できていない。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-6-D-②（硝子体混濁、c）
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）

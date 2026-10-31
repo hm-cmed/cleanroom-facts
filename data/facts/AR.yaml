@@ -1222,3 +1222,73 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: AR-036
+  domain: AR
+  subdomain: 上室期外収縮
+  assertion:
+    plain_statement_ja: 55〜75歳の健康な678人を中央値6.3年追跡したコペンハーゲン・ホルター研究では、過度の上室性期外収縮活動（上室期外収縮30拍/時以上、または20拍以上の連発が1回以上）を示した群は、そうでない群に比べて死亡と脳卒中の複合エンドポイントのハザード比が1.64、心房細動による入院が2.78、脳卒中が2.79であった。
+    condition:
+      region: 国際
+      対象: 55〜75歳の健康な男女678人（ホルター心電図を記録）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4378
+    source: Binici Z, et al. Circulation. 2010;121:1904-1911.
+    doi: 10.1161/CIRCULATIONAHA.109.874982
+    pmid: '20404258'
+    pmcid: null
+    url: https://doi.org/10.1161/CIRCULATIONAHA.109.874982
+    source_license: CC表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 観察研究による関連であり、因果関係を示すものではない。「過度の上室性期外収縮活動」の定義は本研究独自の基準である。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-1-A-①（上室期外収縮、a）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-172 (id: JlvnltI)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: AR-037
+  domain: AR
+  subdomain: 上室期外収縮
+  assertion:
+    plain_statement_ja: 日本循環器学会と日本不整脈心電学会の合同ガイドライン（2022年版、不整脈の診断とリスク評価）は、心房期外収縮は加齢とともに増加し、頻発しても血行動態の破綻は来さないが、将来の心房細動発症との関連に注意すべきだとしている。
+    condition:
+      region: 日本
+      対象: 心房期外収縮のある人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4379
+    source: Takase B, Ikeda T, Shimizu W, et al; Japanese Circulation Society and Japanese Heart Rhythm Society Joint Working Group. JCS/JHRS 2022 Guideline on Diagnosis and Risk Assessment of Arrhythmia. J Arrhythm. 2024;40(4):655-752.
+    doi: 10.1002/joa3.13052
+    pmid: '39139890'
+    pmcid: PMC11317726
+    url: https://doi.org/10.1002/joa3.13052
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本ガイドラインは診断とリスク評価を扱う版であり、心房期外収縮の記述は運動耐容能に関する節（9.3）で確認した。英語版（J Arrhythm誌版）を出典とし、Circulation Journal誌版（DOI 10.1253/circj.CJ-22-0827）と二重掲載の関係にある。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-1-A-①（上室期外収縮、a）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-172 (id: JlvnltI)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）

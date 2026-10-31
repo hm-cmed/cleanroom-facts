@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-31
 
-全 46 件のうち、監修済み 0 件。
+全 51 件のうち、監修済み 0 件。
 
 ## 胸部大動脈瘤
 
@@ -509,6 +509,68 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-046&card_id=VS-046&version=595fa0049f)　（版 `595fa0049f`）
 
 **[ここまでの 5 件（VS-042〜VS-046）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20VS-042%E3%80%9CVS-046&cards=VS-042%20d5b5f58537%0AVS-043%20b2bdc01110%0AVS-044%20ed2b8c40a9%0AVS-045%2062ab8c6412%0AVS-046%20595fa0049f)**
+
+---
+
+## 胸腹部大動脈瘤
+
+### VS-047　下書き（出典の照合前）
+
+> 胸腹部大動脈瘤は、横隔膜をまたいで胸部下行大動脈から腹部大動脈へ連続する大動脈瘤で、進展範囲により Crawford 分類（extent I〜V）に分類される。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：国内ガイドライン（2020年版）の部位別分類に基づく。胸部のみ・腹部のみの大動脈瘤は既存カード（VS-001〜006）の範囲で、本カードは胸腹部に限る。
+- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅴ-8-A-③（胸腹部大動脈瘤、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-047&card_id=VS-047&version=8fe6d3fb66)　（版 `8fe6d3fb66`）
+
+### VS-048　下書き（出典の照合前）
+
+> 無症候性の下行大動脈瘤・胸腹部大動脈瘤では、最大径6.0 cm以上で修復が推奨され、経験豊富な多職種の大動脈センターでは5.5 cmでの修復も妥当とされる（2022年 ACC/AHA ガイドライン）。
+
+- 条件：region: 米国／対象: 成人
+- 不確実性：修復閾値の数値（6.0 cm／5.5 cm）はガイドラインの要約ページ経由で確認したもので、取り込み時にガイドライン本文での再確認が必要。国内ガイドライン（SRC-290）の扱いとは別に、米国の推奨として記載した。
+- 出典：Isselbacher EM, et al. 2022 ACC/AHA guideline for the diagnosis and management of aortic disease. Circulation. 2022;146(24):e334-e482　[DOI 10.1161/CIR.0000000000001106](https://doi.org/10.1161/CIR.0000000000001106)　[PMID 36322642](https://pubmed.ncbi.nlm.nih.gov/36322642/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-8-A-③（胸腹部大動脈瘤、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-048&card_id=VS-048&version=18a2ab4544)　（版 `18a2ab4544`）
+
+### VS-049　下書き（出典の照合前）
+
+> 胸腹部大動脈瘤に対する開胸開腹修復の大規模な単施設シリーズ（3,309例）では、30日死亡率4.9%、永続的対麻痺2.9%、腎不全5.7%であり、Crawford 分類の extent II は脊髄障害のリスクが最も高い範囲とされる。
+
+- 条件：region: 米国／対象: 成人
+- 不確実性：数値は原シリーズ（J Thorac Cardiovasc Surg. 2016;151:1323-1337）の値を2023年の総説が再掲したもので確認した。米国の単施設の成績であり、施設や症例の背景により差が大きい。
+- 出典：Coselli JS. Thoracoabdominal aortic aneurysm: a journey through the distal aorta. Indian J Thorac Cardiovasc Surg. 2023;39(Suppl 2):212-217　[DOI 10.1007/s12055-023-01634-0](https://doi.org/10.1007/s12055-023-01634-0)　[PMID 38093915](https://pubmed.ncbi.nlm.nih.gov/38093915/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-8-A-③（胸腹部大動脈瘤、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-049&card_id=VS-049&version=cdef193e51)　（版 `cdef193e51`）
+
+**[ここまでの 3 件（VS-047〜VS-049）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20VS-047%E3%80%9CVS-049&cards=VS-047%208fe6d3fb66%0AVS-048%2018a2ab4544%0AVS-049%20cdef193e51)**
+
+---
+
+## リンパ浮腫
+
+### VS-050　下書き（出典の照合前）
+
+> リンパ浮腫の治療の中心は複合的理学療法で、圧迫療法、圧迫下の運動療法、用手的リンパドレナージ、スキンケア、セルフケア指導を組み合わせる。国内ガイドラインの2024年版（第4版）は、続発性に加えて原発性リンパ浮腫も対象に含む。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：書籍のガイドラインのため DOI・PMID はない（ISBN 978-4-307-20477-4）。患者向け版は2025年に別途刊行されている。
+- 出典：日本リンパ浮腫学会 編. リンパ浮腫診療ガイドライン 2024年版 第4版. 金原出版. 2024（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-8-D-①（リンパ浮腫、b）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-198 (id: JlvnlwQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-050&card_id=VS-050&version=85c78a3b99)　（版 `85c78a3b99`）
+
+### VS-051　下書き（出典の照合前）
+
+> 国内では、リンパ浮腫の複合的理学療法にリンパ浮腫複合的治療料（重症200点、それ以外100点、1日あたり）が算定でき、弾性着衣等は療養費の対象になる。療養費の対象は、悪性腫瘍の手術に伴うリンパ節郭清後の四肢リンパ浮腫と原発性四肢リンパ浮腫で、支給上限（弾性ストッキング28,000円など）と、再購入は6か月以降という定めがある。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：点数・支給上限額は診療報酬改定や通知改正で変わりうるため、本カードの値は2026-10-31時点で厚生労働省の公開資料により確認したもので、使用時は最新の点数表・通知で再確認が必要。弾性着衣の上限は品目により異なる（弾性スリーブ16,000円、弾性グローブ15,000円など）。
+- 出典：厚生労働省. 診療報酬点数表 H007-4 リンパ浮腫複合的治療料／弾性着衣等に係る療養費について（保発0327第4号、2020年改正）（区分 GOV_JP）
+- 出題基準：医学各論 Ⅴ-8-D-①（リンパ浮腫、b）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-198 (id: JlvnlwQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-051&card_id=VS-051&version=9a849b36fe)　（版 `9a849b36fe`）
+
+**[ここまでの 2 件（VS-050〜VS-051）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20VS-050%E3%80%9CVS-051&cards=VS-050%2085c78a3b99%0AVS-051%209a849b36fe)**
 
 ---
 

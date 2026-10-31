@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-31
 
-全 35 件のうち、監修済み 0 件。
+全 37 件のうち、監修済み 0 件。
 
 ## 心房細動
 
@@ -438,6 +438,32 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AR-035&card_id=AR-035&version=7804f355d7)　（版 `7804f355d7`）
 
 **[ここまでの 2 件（AR-034〜AR-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AR-034%E3%80%9CAR-035&cards=AR-034%20981ba52e86%0AAR-035%207804f355d7)**
+
+---
+
+## 上室期外収縮
+
+### AR-036　下書き（出典の照合前）
+
+> 55〜75歳の健康な678人を中央値6.3年追跡したコペンハーゲン・ホルター研究では、過度の上室性期外収縮活動（上室期外収縮30拍/時以上、または20拍以上の連発が1回以上）を示した群は、そうでない群に比べて死亡と脳卒中の複合エンドポイントのハザード比が1.64、心房細動による入院が2.78、脳卒中が2.79であった。
+
+- 条件：region: 国際／対象: 55〜75歳の健康な男女678人（ホルター心電図を記録）
+- 不確実性：観察研究による関連であり、因果関係を示すものではない。「過度の上室性期外収縮活動」の定義は本研究独自の基準である。
+- 出典：Binici Z, et al. Circulation. 2010;121:1904-1911.　[DOI 10.1161/CIRCULATIONAHA.109.874982](https://doi.org/10.1161/CIRCULATIONAHA.109.874982)　[PMID 20404258](https://pubmed.ncbi.nlm.nih.gov/20404258/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-1-A-①（上室期外収縮、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-172 (id: JlvnltI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AR-036&card_id=AR-036&version=788ad5968d)　（版 `788ad5968d`）
+
+### AR-037　下書き（出典の照合前）
+
+> 日本循環器学会と日本不整脈心電学会の合同ガイドライン（2022年版、不整脈の診断とリスク評価）は、心房期外収縮は加齢とともに増加し、頻発しても血行動態の破綻は来さないが、将来の心房細動発症との関連に注意すべきだとしている。
+
+- 条件：region: 日本／対象: 心房期外収縮のある人
+- 不確実性：本ガイドラインは診断とリスク評価を扱う版であり、心房期外収縮の記述は運動耐容能に関する節（9.3）で確認した。英語版（J Arrhythm誌版）を出典とし、Circulation Journal誌版（DOI 10.1253/circj.CJ-22-0827）と二重掲載の関係にある。
+- 出典：Takase B, Ikeda T, Shimizu W, et al; Japanese Circulation Society and Japanese Heart Rhythm Society Joint Working Group. JCS/JHRS 2022 Guideline on Diagnosis and Risk Assessment of Arrhythmia. J Arrhythm. 2024;40(4):655-752.　[DOI 10.1002/joa3.13052](https://doi.org/10.1002/joa3.13052)　[PMID 39139890](https://pubmed.ncbi.nlm.nih.gov/39139890/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-1-A-①（上室期外収縮、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-172 (id: JlvnltI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AR-037&card_id=AR-037&version=992aa2acd6)　（版 `992aa2acd6`）
+
+**[ここまでの 2 件（AR-036〜AR-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AR-036%E3%80%9CAR-037&cards=AR-036%20788ad5968d%0AAR-037%20992aa2acd6)**
 
 ---
 

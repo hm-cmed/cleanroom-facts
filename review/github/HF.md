@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-31
 
-全 25 件のうち、監修済み 0 件。
+全 29 件のうち、監修済み 0 件。
 
 ## 慢性心不全
 
@@ -282,6 +282,52 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-025&card_id=HF-025&version=7144309982)　（版 `7144309982`）
 
 **[ここまでの 6 件（HF-020〜HF-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HF-020%E3%80%9CHF-025&cards=HF-020%207f7d99c9c0%0AHF-021%20434b078142%0AHF-022%20d40222bbae%0AHF-023%206cc46347bc%0AHF-024%20677176731b%0AHF-025%207144309982)**
+
+---
+
+## 右心不全
+
+### HF-026　下書き（出典の照合前）
+
+> 日本の心不全診療の現行の標準は、日本循環器学会と日本心不全学会の合同ガイドライン（2025年改訂版）であり、右心不全の診療もこの枠組みの中で原因疾患の評価と体液量の管理を軸に行われる。
+
+- 条件：region: 日本／対象: 右心不全の患者
+- 不確実性：右心不全に特化した記載の範囲を本文で直接確認できていないため、主張はガイドラインの位置づけの範囲に留めた。右心不全の原因・徴候・治療の具体的な内容は、AHA科学声明に基づくHF-027〜HF-029に置いた。肺高血圧症そのものの診断・治療は本項目の範囲外である。
+- 出典：Kitai T, Kohsaka S, Kato T, et al. JCS/JHFS 2025 Guideline on Diagnosis and Treatment of Heart Failure. Circ J. 2025;89:1278-1444.　[DOI 10.1253/circj.CJ-25-0002](https://doi.org/10.1253/circj.CJ-25-0002)　[PMID 40159241](https://pubmed.ncbi.nlm.nih.gov/40159241/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-2-A-②（右心不全、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-157 (id: Jlvnlro)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-026&card_id=HF-026&version=4de6ceb228)　（版 `4de6ceb228`）
+
+### HF-027　下書き（出典の照合前）
+
+> 米国心臓協会の科学声明では、右心不全の原因は、右室心筋症などの右室自体の障害、右室の虚血と梗塞、先天性心疾患や弁膜症による容量負荷、肺動脈弁狭窄や肺高血圧（左心疾患に伴うものを含む）による圧負荷に整理される。
+
+- 条件：region: 米国／対象: 右心不全の患者
+- 不確実性：肺高血圧症自体の分類や治療は扱わない（Ⅳの肺高血圧の項目が正）。原因の整理は同声明の枠組みによる。
+- 出典：Konstam MA, et al. Circulation. 2018;137(20):e578-e622.　[DOI 10.1161/CIR.0000000000000560](https://doi.org/10.1161/CIR.0000000000000560)　[PMID 29650544](https://pubmed.ncbi.nlm.nih.gov/29650544/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-2-A-②（右心不全、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-157 (id: Jlvnlro)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-027&card_id=HF-027&version=09bd74d42a)　（版 `09bd74d42a`）
+
+### HF-028　下書き（出典の照合前）
+
+> 右心不全の臨床像は、体静脈うっ血による徴候が主体であり、頸静脈怒張、肝腫大、腹水、下腿浮腫が中心となる。左心不全で中心となる肺うっ血の徴候には乏しいことが多い。
+
+- 条件：region: 米国／対象: 右心不全の患者
+- 不確実性：徴候の整理はAHA科学声明（2018年）に基づく。原因疾患によっては肺うっ血を合併する。
+- 出典：Konstam MA, et al. Circulation. 2018;137(20):e578-e622.　[DOI 10.1161/CIR.0000000000000560](https://doi.org/10.1161/CIR.0000000000000560)　[PMID 29650544](https://pubmed.ncbi.nlm.nih.gov/29650544/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-2-A-②（右心不全、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-157 (id: Jlvnlro)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-028&card_id=HF-028&version=b2ba8704d1)　（版 `b2ba8704d1`）
+
+### HF-029　下書き（出典の照合前）
+
+> 慢性右心不全の管理の軸は、利尿薬による体液量の管理と原因疾患の治療であり、右室機能そのものを特異的に改善する確立した薬物療法はない。右室の大きさと機能の評価には心臓MRIが標準的な方法とされる。
+
+- 条件：region: 米国／対象: 慢性右心不全の患者
+- 不確実性：利尿薬は薬剤クラスとしての記載であり、個別製剤の国内承認・保険適用は各添付文書による。管理の枠組みはAHA科学声明（2018年）に基づく。
+- 出典：Konstam MA, et al. Circulation. 2018;137(20):e578-e622.　[DOI 10.1161/CIR.0000000000000560](https://doi.org/10.1161/CIR.0000000000000560)　[PMID 29650544](https://pubmed.ncbi.nlm.nih.gov/29650544/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-2-A-②（右心不全、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-157 (id: Jlvnlro)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-029&card_id=HF-029&version=4a0412e2b5)　（版 `4a0412e2b5`）
+
+**[ここまでの 4 件（HF-026〜HF-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HF-026%E3%80%9CHF-029&cards=HF-026%204de6ceb228%0AHF-027%2009bd74d42a%0AHF-028%20b2ba8704d1%0AHF-029%204a0412e2b5)**
 
 ---
 

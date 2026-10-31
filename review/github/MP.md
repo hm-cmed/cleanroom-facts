@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-31
 
-全 32 件のうち、監修済み 0 件。
+全 39 件のうち、監修済み 0 件。
 
 ## 肥大型心筋症
 
@@ -409,6 +409,94 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-032&card_id=MP-032&version=8d64746fa1)　（版 `8d64746fa1`）
 
 **[ここまでの 2 件（MP-031〜MP-032）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-031%E3%80%9CMP-032&cards=MP-031%202f1945ef58%0AMP-032%208d64746fa1)**
+
+---
+
+## 虚血性心筋症
+
+### MP-033　下書き（出典の照合前）
+
+> 虚血性心筋症は、慢性の冠動脈疾患（多くは心筋梗塞の既往）による心筋障害を背景に左室拡大と収縮機能低下を来した状態であり、特発性拡張型心筋症との鑑別には冠動脈造影などによる冠動脈疾患の確認が要る。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：「虚血性心筋症」の定義は文献により範囲が異なり、本カードは日本の心筋症診療ガイドライン（2018年改訂版）の定義に寄せた。出典の PMID は確認できなかったため null とした。
+- 出典：日本循環器学会・日本心不全学会. 心筋症診療ガイドライン（2018年改訂版）英語版. Circ J. 2021;85(9):1590-1689　[DOI 10.1253/circj.CJ-20-0910](https://doi.org/10.1253/circj.CJ-20-0910)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅴ-6-C-④（虚血性心筋症、b）　コアカリ：PS-02-06-05 (id: JkxnuQw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-033&card_id=MP-033&version=2ff6089f86)　（版 `2ff6089f86`）
+
+### MP-034　下書き（出典の照合前）
+
+> 左室駆出率35%以下で外科治療に適した冠動脈疾患をもつ患者では、CABG に薬物療法を併用する群は薬物療法単独群に比べ、5年時点の心血管死と心血管入院が少なかったが、全死亡には有意差がなかった（STICH試験）。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：本カードは2011年本論文の5年時点の結果の範囲。10年追跡（延長追跡）では全死亡の低下が報告されているが、その書誌は本カードの出典には含めていない。
+- 出典：Velazquez EJ, et al. Coronary-artery bypass surgery in patients with left ventricular dysfunction. N Engl J Med. 2011;364(17):1607-1616　[DOI 10.1056/NEJMoa1100356](https://doi.org/10.1056/NEJMoa1100356)　[PMID 21463150](https://pubmed.ncbi.nlm.nih.gov/21463150/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-6-C-④（虚血性心筋症、b）　コアカリ：PS-02-06-05 (id: JkxnuQw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-034&card_id=MP-034&version=b273337f4a)　（版 `b273337f4a`）
+
+### MP-035　下書き（出典の照合前）
+
+> 重症の虚血性左室機能低下（左室駆出率35%以下）に対し、PCI に至適薬物療法を併用しても、至適薬物療法単独と比べて死亡と心不全入院に差はなかった（REVIVED-BCIS2試験）。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：本試験は英国の施設で実施された。血行再建の方法と適応は、病変の範囲や全身状態により個別に判断される。
+- 出典：Perera D, et al. Percutaneous revascularization for ischemic left ventricular dysfunction. N Engl J Med. 2022;387(15):1351-1360　[DOI 10.1056/NEJMoa2206606](https://doi.org/10.1056/NEJMoa2206606)　[PMID 36027563](https://pubmed.ncbi.nlm.nih.gov/36027563/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-6-C-④（虚血性心筋症、b）　コアカリ：PS-02-06-05 (id: JkxnuQw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-035&card_id=MP-035&version=86ce64a565)　（版 `86ce64a565`）
+
+**[ここまでの 3 件（MP-033〜MP-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-033%E3%80%9CMP-035&cards=MP-033%202ff6089f86%0AMP-034%20b273337f4a%0AMP-035%2086ce64a565)**
+
+---
+
+## 転移性腫瘍
+
+### MP-036　下書き（出典の照合前）
+
+> 心臓への転移は剖検例の2.3〜18.3%にみられ、原発性心腫瘍（剖検例の0.001〜0.28%）よりはるかに多い。転移が多い原発には悪性黒色腫や縦隔腫瘍が含まれる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：頻度は剖検シリーズの対象や年代により幅が大きく、本カードでは範囲のまま記載した。
+- 出典：Bussani R, et al. Cardiac metastases. J Clin Pathol. 2007;60(1):27-34　[DOI 10.1136/jcp.2005.035105](https://doi.org/10.1136/jcp.2005.035105)　[PMID 17098886](https://pubmed.ncbi.nlm.nih.gov/17098886/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-6-F-②（転移性腫瘍、c）　コアカリ：PS-02-06-05 (id: JkxnuQw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-036&card_id=MP-036&version=f435ec2da1)　（版 `f435ec2da1`）
+
+### MP-037　下書き（出典の照合前）
+
+> 心臓転移は原発性心腫瘍の20〜40倍多いとされ、多くは無症状で剖検時に発見される。症状が現れる場合は、心膜転移による心嚢液貯留・心タンポナーデや、心筋転移による不整脈・心不全の形をとる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：総説に基づく整理であり、症状の現れ方は原発巣と転移部位により異なる。
+- 出典：Lucà F, et al. Cardiac metastasis: epidemiology, pathophysiology, and clinical management. Life (Basel). 2025;15(2):291　[DOI 10.3390/life15020291](https://doi.org/10.3390/life15020291)　[PMID 40003702](https://pubmed.ncbi.nlm.nih.gov/40003702/)（区分 OPEN）
+- 出題基準：医学各論 Ⅴ-6-F-②（転移性腫瘍、c）　コアカリ：PS-02-06-05 (id: JkxnuQw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-037&card_id=MP-037&version=b50de1a241)　（版 `b50de1a241`）
+
+**[ここまでの 2 件（MP-036〜MP-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-036%E3%80%9CMP-037&cards=MP-036%20f435ec2da1%0AMP-037%20b50de1a241)**
+
+---
+
+## 心臓外傷
+
+### MP-038　下書き（出典の照合前）
+
+> 鈍的心臓損傷が疑われる患者では入院時に心電図を記録し、心電図とトロポニンIがともに正常であれば鈍的心臓損傷は実質的に除外できる。
+
+- 条件：region: 米国／対象: 成人
+- 不確実性：出典の EAST ガイドラインは鈍的外傷のみが対象で、穿通性心臓外傷には適用できない。日本の外傷診療ガイドラインでの心臓外傷の扱いは未確認。
+- 出典：Clancy K, et al. Screening for blunt cardiac injury: an Eastern Association for the Surgery of Trauma practice management guideline. J Trauma Acute Care Surg. 2012;73(5 Suppl 4):S301-S306　[DOI 10.1097/TA.0b013e318270193a](https://doi.org/10.1097/TA.0b013e318270193a)　[PMID 23114485](https://pubmed.ncbi.nlm.nih.gov/23114485/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-6-G-①（心臓外傷、c）　コアカリ：PS-02-06-05 (id: JkxnuQw)；PS-03-05-12 (id: Jkxir3g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-038&card_id=MP-038&version=75b41aa98d)　（版 `75b41aa98d`）
+
+### MP-039　下書き（出典の照合前）
+
+> 鈍的外傷後に新たな心電図異常（伝導障害・不整脈・ST変化）がみられる場合は、持続心電図モニタリング下の入院観察が推奨される。胸骨骨折があること自体は鈍的心臓損傷の予測因子にならない。
+
+- 条件：region: 米国／対象: 成人
+- 不確実性：対象は鈍的外傷に限る（同ガイドライン）。心エコーは循環不安定・不整脈が持続する例に限られ、スクリーニングには用いないとされる。
+- 出典：Clancy K, et al. Screening for blunt cardiac injury: an Eastern Association for the Surgery of Trauma practice management guideline. J Trauma Acute Care Surg. 2012;73(5 Suppl 4):S301-S306　[DOI 10.1097/TA.0b013e318270193a](https://doi.org/10.1097/TA.0b013e318270193a)　[PMID 23114485](https://pubmed.ncbi.nlm.nih.gov/23114485/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-6-G-①（心臓外傷、c）　コアカリ：PS-02-06-05 (id: JkxnuQw)；PS-03-05-12 (id: Jkxir3g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-039&card_id=MP-039&version=dfede8a6d6)　（版 `dfede8a6d6`）
+
+**[ここまでの 2 件（MP-038〜MP-039）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-038%E3%80%9CMP-039&cards=MP-038%2075b41aa98d%0AMP-039%20dfede8a6d6)**
 
 ---
 

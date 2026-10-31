@@ -1117,3 +1117,73 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: VD-033
+  domain: VD
+  subdomain: 連合弁膜症
+  assertion:
+    plain_statement_ja: 連合弁膜症（2つ以上の弁に狭窄・閉鎖不全が併存する状態）の病態は、病変の組み合わせによって決まる。一方の病変が他方の血行動態を修飾するため、狭窄・逆流の重症度評価に用いられる心エコーの指標の多くは単弁病変で検証されたものであり、単弁病変の重症度基準をそのまま適用できず、複数の指標と所見を統合して評価する必要がある。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4393
+    source: Unger P, Clavel MA, Lindman BR, Mathieu P, Pibarot P. Pathophysiology and management of multivalvular disease. Nat Rev Cardiol. 2016;13(7):429-440.
+    doi: 10.1038/nrcardio.2016.57
+    pmid: '27121305'
+    pmcid: PMC5129845
+    url: https://doi.org/10.1038/nrcardio.2016.57
+    source_license: 版元版は購読制（著者稿が PMC に公開）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 連合弁膜症に特化した総説の抄録と総説全体の整理に基づく。病変の組み合わせごとの指標の使い分けの詳細は主張に入れていない。発生頻度などの数値は調査母集団への依存が大きいため主張に入れていない。source_class は、版元版が購読制で CC 表示がなく著者稿が PMC に公開されているため UNKNOWN とした（最終判定は取り込み側）。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-4-C-③（連合弁膜症、b）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: VD-034
+  domain: VD
+  subdomain: 連合弁膜症
+  assertion:
+    plain_statement_ja: 連合弁膜症では、介入の時期と方法は主病変を軸に、併存病変を含めた全体の重症度と手術リスクを踏まえて判断される。重症の大動脈弁狭窄に重症の一次性僧帽弁閉鎖不全を合併する場合は、外科的大動脈弁置換と僧帽弁手術の同時施行が基本とされ、手術リスクが高い場合は経カテーテル治療を段階的に組み合わせる選択肢がある。また、大動脈弁の狭窄と閉鎖不全が中等症同士で合併する混合性病変でも、左室機能低下があれば外科的大動脈弁置換の適応となりうる。
+    condition:
+      region: 米国
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-231
+    source: Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease. Circulation. 2021;143(5):e72-e227.
+    doi: 10.1161/CIR.0000000000000923
+    pmid: '33332150'
+    pmcid: null
+    url: https://doi.org/10.1161/CIR.0000000000000923
+    source_license: © 2020 American College of Cardiology Foundation and American Heart Association（刊行版の表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 米国のガイドラインの複合病変への推奨に基づく。国内の診療の正は弁膜症治療のガイドライン2020年改訂版（SRC-230）であり、個々の弁膜症の手術適応そのものは VD の既存カードが正で、本カードは複数病変が併存する場合の判断の範囲に限る。マスターの SRC-231 は PMID が null だが、PubMed で PMID 33332150 を確認したためカードには記載した（マスターへの補完は §3 の申し送りのとおり）。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-4-C-③（連合弁膜症、b）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
