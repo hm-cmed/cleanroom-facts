@@ -2365,3 +2365,248 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+- id: BP-069
+  domain: BP
+  subdomain: 膵・胆管合流異常症
+  assertion:
+    plain_statement_ja: 膵・胆管合流異常症は、膵管と胆管が十二指腸壁外で合流し共通管が長くなる先天異常で、膵液の胆道への逆流が持続する。診断は、ERCP や MRCP などでの合流形態の描出による。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4230
+    source: Kamisawa T, Ando H, Suyama M, et al. Japanese clinical practice guidelines for pancreaticobiliary maljunction. J Gastroenterol. 2012;47(7):731-759.
+    doi: 10.1007/s00535-012-0611-2
+    pmid: '22722902'
+    pmcid: null
+    url: https://doi.org/10.1007/s00535-012-0611-2
+    source_license: 学会の著作物（CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ガイドラインの版は2012年の英語版で、改訂の有無は作成時に学会サイトで確認できていない点に注意。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-7-A-①（膵・胆管合流異常症、c）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-304 (id: Jlvnl5s)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: BP-070
+  domain: BP
+  subdomain: 膵・胆管合流異常症
+  assertion:
+    plain_statement_ja: 膵・胆管合流異常症は胆道癌の高リスク病態で、予防的手術が原則である。胆管拡張型では胆囊摘出と肝外胆管切除・分流手術、胆管非拡張型では予防的胆囊摘出が推奨される（いずれも推奨グレード1）。発癌部位は、胆管拡張型では胆管と胆囊の双方、胆管非拡張型では主に胆囊である。
+    condition:
+      region: 日本
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4230
+    source: Kamisawa T, Ando H, Suyama M, et al. Japanese clinical practice guidelines for pancreaticobiliary maljunction. J Gastroenterol. 2012;47(7):731-759.
+    doi: 10.1007/s00535-012-0611-2
+    pmid: '22722902'
+    pmcid: null
+    url: https://doi.org/10.1007/s00535-012-0611-2
+    source_license: 学会の著作物（CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 推奨グレードは同ガイドラインの表記どおり。2012年版以降の改訂の有無は未確認。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-7-A-①（膵・胆管合流異常症、c）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-304 (id: Jlvnl5s)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: BP-071
+  domain: BP
+  subdomain: 胆囊ポリープ
+  assertion:
+    plain_statement_ja: 胆囊ポリープの初期評価は腹部超音波検査である。大半はコレステロールポリープなどの偽ポリープで、悪性化しない。
+    condition:
+      region: 欧州
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4231
+    source: 'Foley KG, Lahaye MJ, Thoeni RF, et al. Management and follow-up of gallbladder polyps: updated joint guidelines between the ESGAR, EAES, EFISDS and ESGE. Eur Radiol. 2022;32(5):3358-3368.'
+    doi: 10.1007/s00330-021-08384-w
+    pmid: '34918177'
+    pmcid: null
+    url: https://doi.org/10.1007/s00330-021-08384-w
+    source_license: CC表示なし（学会合同ガイドライン・購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 日本の胆石症診療ガイドライン2021ではポリープの扱いが限定的なため、本カード群は欧州合同ガイドラインに基づく。国内の運用とは異なる場合がある。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-7-C-①（胆囊ポリープ、a）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)；TBL-01-00-302 (id: Jlvnl5g)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: BP-072
+  domain: BP
+  subdomain: 胆囊ポリープ
+  assertion:
+    plain_statement_ja: 胆囊ポリープは、径10mm以上で胆囊摘出を推奨する。6〜9mmでも、悪性リスク因子（60歳超、原発性硬化性胆管炎の既往、アジア人、無茎性、限局性壁肥厚4mm超）があれば胆囊摘出を推奨する。
+    condition:
+      region: 欧州
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4231
+    source: 'Foley KG, Lahaye MJ, Thoeni RF, et al. Management and follow-up of gallbladder polyps: updated joint guidelines between the ESGAR, EAES, EFISDS and ESGE. Eur Radiol. 2022;32(5):3358-3368.'
+    doi: 10.1007/s00330-021-08384-w
+    pmid: '34918177'
+    pmcid: null
+    url: https://doi.org/10.1007/s00330-021-08384-w
+    source_license: CC表示なし（学会合同ガイドライン・購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: リスク因子に「アジア人」が含まれる点は、日本の診療でも重要である。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-7-C-①（胆囊ポリープ、a）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)；TBL-01-00-302 (id: Jlvnl5g)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: BP-073
+  domain: BP
+  subdomain: 胆囊ポリープ
+  assertion:
+    plain_statement_ja: 悪性リスク因子のない6〜9mmの胆囊ポリープは、超音波検査で6か月後、1年後、2年後にフォローし、増大がなければフォローを終了する。悪性リスク因子のない5mm以下のポリープはフォロー不要である。
+    condition:
+      region: 欧州
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4231
+    source: 'Foley KG, Lahaye MJ, Thoeni RF, et al. Management and follow-up of gallbladder polyps: updated joint guidelines between the ESGAR, EAES, EFISDS and ESGE. Eur Radiol. 2022;32(5):3358-3368.'
+    doi: 10.1007/s00330-021-08384-w
+    pmid: '34918177'
+    pmcid: null
+    url: https://doi.org/10.1007/s00330-021-08384-w
+    source_license: CC表示なし（学会合同ガイドライン・購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: フォロー間隔と終了条件は同ガイドラインの推奨どおり。国内の診療ガイドラインでの扱いが限定的な点は BP-071 を参照。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-7-C-①（胆囊ポリープ、a）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)；TBL-01-00-302 (id: Jlvnl5g)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: BP-074
+  domain: BP
+  subdomain: 胆囊腺筋腫症
+  assertion:
+    plain_statement_ja: 胆囊腺筋腫症は、粘膜の壁内陥入（Rokitansky-Aschoff洞）を伴う胆囊壁の過形成性変化による良性病変である。超音波でのcomet-tail artifact、MRI や MRCP でのpearl-necklace sign が特徴的所見で、胆囊癌との鑑別が要点である。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4232
+    source: Hammad AY, Miura JT, Turaga KK, et al. A literature review of radiological findings to guide the diagnosis of gallbladder adenomyomatosis. HPB (Oxford). 2016;18(2):129-135.
+    doi: 10.1016/j.hpb.2015.09.006
+    pmid: '26902131'
+    pmcid: PMC4814619
+    url: https://doi.org/10.1016/j.hpb.2015.09.006
+    source_license: CC表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 出典は総説レベルで、専用の診療ガイドラインは存在しない。画像所見の主張に絞った。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-7-C-③（胆囊腺筋腫症、b）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: BP-075
+  domain: BP
+  subdomain: 胆囊腺筋腫症
+  assertion:
+    plain_statement_ja: 胆囊腺筋腫症には普遍的に受け入れられたガイドラインはなく、無症状で診断が確実な例では経過観察が原則である。胆囊摘出は有症状例、または画像で悪性を否定できない場合に限られ、分節型やびまん型では手術が検討される。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4233
+    source: 'Bonatti M, Vezzali N, Lombardo F, et al. Gallbladder adenomyomatosis: imaging findings, tricks and pitfalls. Insights Imaging. 2017;8(2):243-253.'
+    doi: 10.1007/s13244-017-0544-7
+    pmid: '28127678'
+    pmcid: PMC5359147
+    url: https://doi.org/10.1007/s13244-017-0544-7
+    source_license: CC BY 4.0（PMCページで確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 管理原則は同総説の本文に明記されている。出典はガイドラインではなく総説である点に注意。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-7-C-③（胆囊腺筋腫症、b）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）

@@ -4923,3 +4923,143 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+- id: GD-096
+  domain: GD
+  subdomain: 上腸間膜動脈性十二指腸閉塞症
+  assertion:
+    plain_statement_ja: 上腸間膜動脈症候群は、大動脈と上腸間膜動脈の間を走る十二指腸第3部が圧迫されて閉塞を生じる病態で、急激な体重減少に伴う腸間膜脂肪の減少が代表的な誘因である。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4211
+    source: 'Merrett ND, Wilson RB, Cosman P, Biankin AV. Superior mesenteric artery syndrome: diagnosis and treatment strategies. J Gastrointest Surg. 2009;13(2):287-292.'
+    doi: 10.1007/s11605-008-0695-4
+    pmid: '18810558'
+    pmcid: null
+    url: https://doi.org/10.1007/s11605-008-0695-4
+    source_license: CC表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 専用ガイドラインは存在せず、症例集積と総説に基づく記述である。機能性嘔吐との鑑別など過剰診断への注意が近年の論点である。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-2-A-①（上腸間膜動脈性十二指腸閉塞症<上腸間膜動脈症候群>、b）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GD-097
+  domain: GD
+  subdomain: 上腸間膜動脈性十二指腸閉塞症
+  assertion:
+    plain_statement_ja: 上腸間膜動脈症候群の診断は、造影CTでの大動脈と上腸間膜動脈のなす角が25度未満であることと両血管の距離が8から10 mm未満であること、口側の胃十二指腸の拡張で裏付けられ、腹臥位や膝胸位で症状が軽減するのが特徴である。治療はまず経鼻胃管減圧と栄養回復による保存的治療を行い、無効例には十二指腸空腸吻合術が標準術式である。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4212
+    source: 'Oka A, Awoniyi M, Hasegawa N, Yoshida Y, Tobita H, Ishimura N, Ishihara S. Superior mesenteric artery syndrome: diagnosis and management. World J Clin Cases. 2023;11(15):3369-3384.'
+    doi: 10.12998/wjcc.v11.i15.3369
+    pmid: '37383896'
+    pmcid: PMC10294176
+    url: https://doi.org/10.12998/wjcc.v11.i15.3369
+    source_license: CC BY-NC 4.0（出版社ページで確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 角度と距離の基準値は総説によるもので、専用ガイドラインの基準ではない。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-2-A-①（上腸間膜動脈性十二指腸閉塞症<上腸間膜動脈症候群>、b）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GD-098
+  domain: GD
+  subdomain: 十二指腸腫瘍
+  assertion:
+    plain_statement_ja: 非乳頭部十二指腸腺腫は癌化リスクが高いため、ESGEガイドラインは全例で内視鏡切除の検討を強く推奨する。6 mm未満の小病変にはコールドスネア切除、大きな腺腫には内視鏡的粘膜切除術が第一選択で、内視鏡的粘膜下層剥離術は熟練者に限られる。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4213
+    source: 'Vanbiervliet G, Moss A, Arvanitakis M, et al. Endoscopic management of superficial nonampullary duodenal tumors: European Society of Gastrointestinal Endoscopy (ESGE) Guideline. Endoscopy. 2021;53(5):522-534.'
+    doi: 10.1055/a-1442-2395
+    pmid: '33822331'
+    pmcid: null
+    url: https://doi.org/10.1055/a-1442-2395
+    source_license: © ESGE（Thieme出版社ページで確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 乳頭部腫瘍は ESGE の別ガイドラインの扱いで、本項目の範囲外に近い。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-2-D-④（十二指腸腫瘍、b）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GD-099
+  domain: GD
+  subdomain: 十二指腸腫瘍
+  assertion:
+    plain_statement_ja: 十二指腸腺癌の限局例では外科切除が基本で、十二指腸原発では膵頭十二指腸切除または部分切除が選択肢となる。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4214
+    source: Benson AB, Venook AP, Al-Hawary MM, et al. Small Bowel Adenocarcinoma, Version 1.2020, NCCN Clinical Practice Guidelines in Oncology. J Natl Compr Canc Netw. 2019;17(9):1109-1133.
+    doi: 10.6004/jnccn.2019.0043
+    pmid: '31487687'
+    pmcid: PMC10191182
+    url: https://doi.org/10.6004/jnccn.2019.0043
+    source_license: CC表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 引用は2019年の誌掲載版（Version 1.2020）で、現行版は Version 2.2026 である。切除術式の記述に版による変更がないかは組み立て時に再確認を要する。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-2-D-④（十二指腸腫瘍、b）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）

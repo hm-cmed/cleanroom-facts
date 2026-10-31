@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-31
 
-全 104 件のうち、監修済み 0 件。
+全 110 件のうち、監修済み 0 件。
 
 ## 肝硬変とその合併症
 
@@ -1223,6 +1223,84 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-104&card_id=LV-104&version=e708478ad6)　（版 `e708478ad6`）
 
 **[ここまでの 2 件（LV-103〜LV-104）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-103%E3%80%9CLV-104&cards=LV-103%20b33687b024%0ALV-104%20e708478ad6)**
+
+---
+
+## 肝囊胞
+
+### LV-105　下書き（出典の照合前）
+
+> 単純性肝囊胞の診断は超音波検査が第一選択である。無症状の単純性囊胞は治療不要である。囊胞壁や内容に異常がある複雑性の場合には、MRI などの追加画像を行う。
+
+- 条件：region: 欧州／対象: 成人
+- 不確実性：EASL 2022 は多発性肝囊胞や Caroli 病も含む包括的ガイドラインだが、本カードは単純性囊胞に限る。日本の診療ガイドラインでの扱いは未確認のため、国内の運用とは異なる場合がある。
+- 出典：European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of cystic liver diseases. J Hepatol. 2022;77(4):1083-1108.　[DOI 10.1016/j.jhep.2022.06.002](https://doi.org/10.1016/j.jhep.2022.06.002)　[PMID 35728731](https://pubmed.ncbi.nlm.nih.gov/35728731/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-6-A-①（肝囊胞、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-105&card_id=LV-105&version=7d8eefd4f3)　（版 `7d8eefd4f3`）
+
+**[ここまでの 1 件（LV-105）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-105&cards=LV-105%207d8eefd4f3)**
+
+---
+
+## 転移性肝癌
+
+### LV-106　下書き（出典の照合前）
+
+> 大腸癌の肝限局転移では、肝切除が長期生存をもたらしうる唯一の根治的治療選択肢である。切除可能性は、技術的切除可能性（R0 切除と十分な残肝）と腫瘍学的因子の両面から集学的チームが判断する。
+
+- 条件：region: 欧州／対象: 成人
+- 不確実性：本カードは本文照合済みの ESMO 2023年版に基づく。2026年改訂版の実在は書誌レベルで確認済みだが本文は未照合のため、改訂版への差し替えには肝転移の切除可能性・転換療法・周術期化学療法の該当箇所の本文再確認が必要。原発巣の大腸癌治療そのものは IN の既存カードの担当。
+- 出典：Cervantes A, Adam R, Roselló S, et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Ann Oncol. 2023;34(1):10-32.　[DOI 10.1016/j.annonc.2022.10.003](https://doi.org/10.1016/j.annonc.2022.10.003)　[PMID 36307056](https://pubmed.ncbi.nlm.nih.gov/36307056/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-6-C-③（転移性肝癌、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-106&card_id=LV-106&version=e97b5fb102)　（版 `e97b5fb102`）
+
+### LV-107　下書き（出典の照合前）
+
+> 当初は切除不能と判断された大腸癌肝転移でも、化学療法により腫瘍が縮小すれば、切除への転換（conversion）を改めて評価する。切除可能性の判断は、化学療法中も定期的に見直す。
+
+- 条件：region: 欧州／対象: 成人
+- 不確実性：本カードは ESMO 2023年版に基づく。2026年改訂版の本文は未照合（LV-106 の uncertainty を参照）。化学療法のレジメンと国内承認の扱いは LV-108 を参照。
+- 出典：Cervantes A, Adam R, Roselló S, et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Ann Oncol. 2023;34(1):10-32.　[DOI 10.1016/j.annonc.2022.10.003](https://doi.org/10.1016/j.annonc.2022.10.003)　[PMID 36307056](https://pubmed.ncbi.nlm.nih.gov/36307056/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-6-C-③（転移性肝癌、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-107&card_id=LV-107&version=aaee581293)　（版 `aaee581293`）
+
+### LV-108　下書き（出典の照合前）
+
+> 切除可能な大腸癌肝転移では、周術期または術後補助化学療法として FOLFOX などが再発抑制のために用いられる。
+
+- 条件：region: 欧州／対象: 成人
+- 不確実性：FOLFOX は大腸癌に対する国内承認レジメンの範囲で記載した。具体的な適応・用量は最新の添付文書と国内の大腸癌治療ガイドラインで確認すること。本カードは ESMO 2023年版に基づく。
+- 出典：Cervantes A, Adam R, Roselló S, et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Ann Oncol. 2023;34(1):10-32.　[DOI 10.1016/j.annonc.2022.10.003](https://doi.org/10.1016/j.annonc.2022.10.003)　[PMID 36307056](https://pubmed.ncbi.nlm.nih.gov/36307056/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-6-C-③（転移性肝癌、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-108&card_id=LV-108&version=b9ff7c8e03)　（版 `b9ff7c8e03`）
+
+**[ここまでの 3 件（LV-106〜LV-108）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-106%E3%80%9CLV-108&cards=LV-106%20e97b5fb102%0ALV-107%20aaee581293%0ALV-108%20b9ff7c8e03)**
+
+---
+
+## 肝血管腫
+
+### LV-109　下書き（出典の照合前）
+
+> 肝血管腫は最も多い良性肝腫瘍である。超音波で典型像（均一な高エコー腫瘤）が得られ、慢性肝疾患がなければ、それ以上の精査は不要なことが多い。MRI が感度・特異度とも最も高い検査である。
+
+- 条件：region: 欧州／対象: 成人
+- 不確実性：同ガイドラインは肝細胞腺腫・限局性結節性過形成も含むが、本カードは血管腫の節に限定した。ガイドラインの版は2016年とやや古いが、良性腫瘍の標準資料として安定している。
+- 出典：European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of benign liver tumours. J Hepatol. 2016;65(2):386-398.　[DOI 10.1016/j.jhep.2016.04.001](https://doi.org/10.1016/j.jhep.2016.04.001)　[PMID 27085809](https://pubmed.ncbi.nlm.nih.gov/27085809/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-6-C-④（肝血管腫、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-109&card_id=LV-109&version=da0bbdd844)　（版 `da0bbdd844`）
+
+### LV-110　下書き（出典の照合前）
+
+> 典型的な肝血管腫は良性経過のため画像フォローアップは不要で、経口避妊薬の使用や妊娠は禁忌ではない。切除などの介入は稀で、Kasabach-Merritt 症候群、増大、圧迫症状がある場合に専門施設へ紹介する。
+
+- 条件：region: 欧州／対象: 成人
+- 不確実性：経口避妊薬は禁忌でないという文脈で挙げたもので、個別製剤の国内承認状況は添付文書で確認すること。
+- 出典：European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of benign liver tumours. J Hepatol. 2016;65(2):386-398.　[DOI 10.1016/j.jhep.2016.04.001](https://doi.org/10.1016/j.jhep.2016.04.001)　[PMID 27085809](https://pubmed.ncbi.nlm.nih.gov/27085809/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-6-C-④（肝血管腫、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-110&card_id=LV-110&version=03df0f2dab)　（版 `03df0f2dab`）
+
+**[ここまでの 2 件（LV-109〜LV-110）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-109%E3%80%9CLV-110&cards=LV-109%20da0bbdd844%0ALV-110%2003df0f2dab)**
 
 ---
 

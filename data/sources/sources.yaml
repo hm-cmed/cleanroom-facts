@@ -32988,3 +32988,573 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md の出典マスター表から
+- id: SRC-4211
+  legacy_id: null
+  title: 'Merrett ND, Wilson RB, Cosman P, Biankin AV. Superior mesenteric artery syndrome: diagnosis and treatment strategies. J Gastrointest Surg. 2009;13(2):287-292.'
+  citation: 'Merrett ND, Wilson RB, Cosman P, Biankin AV. Superior mesenteric artery syndrome: diagnosis and treatment strategies. J Gastrointest Surg. 2009;13(2):287-292.'
+  doi: 10.1007/s11605-008-0695-4
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4212
+  legacy_id: null
+  title: 'Oka A, Awoniyi M, Hasegawa N, Yoshida Y, Tobita H, Ishimura N, Ishihara S. Superior mesenteric artery syndrome: diagnosis and management. World J Clin Cases. 2023;11(15):3369-3384.'
+  citation: 'Oka A, Awoniyi M, Hasegawa N, Yoshida Y, Tobita H, Ishimura N, Ishihara S. Superior mesenteric artery syndrome: diagnosis and management. World J Clin Cases. 2023;11(15):3369-3384.'
+  doi: 10.12998/wjcc.v11.i15.3369
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4213
+  legacy_id: null
+  title: 'Vanbiervliet G, Moss A, Arvanitakis M, et al. Endoscopic management of superficial nonampullary duodenal tumors: European Society of Gastrointestinal Endoscopy (ESGE) Guideline. Endoscopy. 2021;53(5):522-534.'
+  citation: 'Vanbiervliet G, Moss A, Arvanitakis M, et al. Endoscopic management of superficial nonampullary duodenal tumors: European Society of Gastrointestinal Endoscopy (ESGE) Guideline. Endoscopy. 2021;53(5):522-534.'
+  doi: 10.1055/a-1442-2395
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4214
+  legacy_id: null
+  title: Benson AB, Venook AP, Al-Hawary MM, et al. Small Bowel Adenocarcinoma, Version 1.2020, NCCN Clinical Practice Guidelines in Oncology. J Natl Compr Canc Netw. 2019;17(9):1109-1133.
+  citation: Benson AB, Venook AP, Al-Hawary MM, et al. Small Bowel Adenocarcinoma, Version 1.2020, NCCN Clinical Practice Guidelines in Oncology. J Natl Compr Canc Netw. 2019;17(9):1109-1133.
+  doi: 10.6004/jnccn.2019.0043
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4215
+  legacy_id: null
+  title: Theis VS, Sripadam R, Ramani V, Lal S. Chronic radiation enteritis. Clin Oncol (R Coll Radiol). 2010;22(1):70-83.
+  citation: Theis VS, Sripadam R, Ramani V, Lal S. Chronic radiation enteritis. Clin Oncol (R Coll Radiol). 2010;22(1):70-83.
+  doi: 10.1016/j.clon.2009.10.003
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4216
+  legacy_id: null
+  title: 'Debi U, Ravisankar V, Prasad KK, Sinha SK, Sharma AK. Abdominal tuberculosis of the gastrointestinal tract: revisited. World J Gastroenterol. 2014;20(40):14831-14840.'
+  citation: 'Debi U, Ravisankar V, Prasad KK, Sinha SK, Sharma AK. Abdominal tuberculosis of the gastrointestinal tract: revisited. World J Gastroenterol. 2014;20(40):14831-14840.'
+  doi: 10.3748/wjg.v20.i40.14831
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4217
+  legacy_id: null
+  title: 'Alhumairi AA, et al. Gastrointestinal tuberculosis: a systematic review of epidemiology, presentation, diagnosis and treatment. Saudi J Gastroenterol. 2021;27(5):261-274.'
+  citation: 'Alhumairi AA, et al. Gastrointestinal tuberculosis: a systematic review of epidemiology, presentation, diagnosis and treatment. Saudi J Gastroenterol. 2021;27(5):261-274.'
+  doi: 10.4103/sjg.sjg_148_21
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4218
+  legacy_id: null
+  title: 日本大腸肛門病学会 編『肛門疾患（痔核・痔瘻・裂肛）・直腸脱診療ガイドライン 2020年版（改訂第2版）』南江堂.
+  citation: 日本大腸肛門病学会 編『肛門疾患（痔核・痔瘻・裂肛）・直腸脱診療ガイドライン 2020年版（改訂第2版）』南江堂.
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4219
+  legacy_id: null
+  title: Gaertner WB, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Anorectal Abscess, Fistula-in-Ano, and Rectovaginal Fistula. Dis Colon Rectum. 2022;65(8):964-985.
+  citation: Gaertner WB, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Anorectal Abscess, Fistula-in-Ano, and Rectovaginal Fistula. Dis Colon Rectum. 2022;65(8):964-985.
+  doi: 10.1097/DCR.0000000000002473
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4220
+  legacy_id: null
+  title: 'Rao S, Guren MG, Khan K, et al. Anal cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2021;32(9):1087-1100.'
+  citation: 'Rao S, Guren MG, Khan K, et al. Anal cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2021;32(9):1087-1100.'
+  doi: 10.1016/j.annonc.2021.06.015
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4221
+  legacy_id: null
+  title: Davids JS, Hawkins AT, Bhama AR, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Anal Fissures. Dis Colon Rectum. 2023;66(2):190-199.
+  citation: Davids JS, Hawkins AT, Bhama AR, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Anal Fissures. Dis Colon Rectum. 2023;66(2):190-199.
+  doi: 10.1097/DCR.0000000000002664
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4222
+  legacy_id: null
+  title: 'Ruskoné-Fourmestraux A, Fischbach W, Aleman BMP, et al. EGILS consensus report: Gastric extranodal marginal zone B-cell lymphoma of MALT. Gut. 2011;60(6):747-758.'
+  citation: 'Ruskoné-Fourmestraux A, Fischbach W, Aleman BMP, et al. EGILS consensus report: Gastric extranodal marginal zone B-cell lymphoma of MALT. Gut. 2011;60(6):747-758.'
+  doi: 10.1136/gut.2010.224949
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4223
+  legacy_id: null
+  title: 'Nakamura S, Sugiyama T, Matsumoto T, et al. Long-term clinical outcome of gastric MALT lymphoma after eradication of Helicobacter pylori: a multicentre cohort follow-up study of 420 patients in Japan. Gut. 2012;61(4):507-513.'
+  citation: 'Nakamura S, Sugiyama T, Matsumoto T, et al. Long-term clinical outcome of gastric MALT lymphoma after eradication of Helicobacter pylori: a multicentre cohort follow-up study of 420 patients in Japan. Gut. 2012;61(4):507-513.'
+  doi: 10.1136/gutjnl-2011-300495
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4224
+  legacy_id: null
+  title: 'Tang MJ, Tay TY, Gibbs S, Niewiadomski O. Amyloidosis for the Gastroenterologist: A Comprehensive Systematic Review of Diagnosis and Management of Gastrointestinal Manifestations. J Gastroenterol Hepatol. 2025;40(12):2842-2856.'
+  citation: 'Tang MJ, Tay TY, Gibbs S, Niewiadomski O. Amyloidosis for the Gastroenterologist: A Comprehensive Systematic Review of Diagnosis and Management of Gastrointestinal Manifestations. J Gastroenterol Hepatol. 2025;40(12):2842-2856.'
+  doi: 10.1111/jgh.70083
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4225
+  legacy_id: null
+  title: 'Brandt LJ, Feuerstadt P, Longstreth GF, Boley SJ. ACG Clinical Guideline: Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, and Management of Colon Ischemia (CI). Am J Gastroenterol. 2015;110(1):18-44.'
+  citation: 'Brandt LJ, Feuerstadt P, Longstreth GF, Boley SJ. ACG Clinical Guideline: Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, and Management of Colon Ischemia (CI). Am J Gastroenterol. 2015;110(1):18-44.'
+  doi: 10.1038/ajg.2014.395
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4226
+  legacy_id: null
+  title: 'Gerson LB, Fidler JL, Cave DR, Leighton JA. ACG Clinical Guideline: Diagnosis and Management of Small Bowel Bleeding. Am J Gastroenterol. 2015;110(9):1265-1287.'
+  citation: 'Gerson LB, Fidler JL, Cave DR, Leighton JA. ACG Clinical Guideline: Diagnosis and Management of Small Bowel Bleeding. Am J Gastroenterol. 2015;110(9):1265-1287.'
+  doi: 10.1038/ajg.2015.246
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4227
+  legacy_id: null
+  title: European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of cystic liver diseases. J Hepatol. 2022;77(4):1083-1108.
+  citation: European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of cystic liver diseases. J Hepatol. 2022;77(4):1083-1108.
+  doi: 10.1016/j.jhep.2022.06.002
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4228
+  legacy_id: null
+  title: 'Cervantes A, Adam R, Roselló S, et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Ann Oncol. 2023;34(1):10-32.'
+  citation: 'Cervantes A, Adam R, Roselló S, et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Ann Oncol. 2023;34(1):10-32.'
+  doi: 10.1016/j.annonc.2022.10.003
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4229
+  legacy_id: null
+  title: European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of benign liver tumours. J Hepatol. 2016;65(2):386-398.
+  citation: European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of benign liver tumours. J Hepatol. 2016;65(2):386-398.
+  doi: 10.1016/j.jhep.2016.04.001
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4230
+  legacy_id: null
+  title: Kamisawa T, Ando H, Suyama M, et al. Japanese clinical practice guidelines for pancreaticobiliary maljunction. J Gastroenterol. 2012;47(7):731-759.
+  citation: Kamisawa T, Ando H, Suyama M, et al. Japanese clinical practice guidelines for pancreaticobiliary maljunction. J Gastroenterol. 2012;47(7):731-759.
+  doi: 10.1007/s00535-012-0611-2
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4231
+  legacy_id: null
+  title: 'Foley KG, Lahaye MJ, Thoeni RF, et al. Management and follow-up of gallbladder polyps: updated joint guidelines between the ESGAR, EAES, EFISDS and ESGE. Eur Radiol. 2022;32(5):3358-3368.'
+  citation: 'Foley KG, Lahaye MJ, Thoeni RF, et al. Management and follow-up of gallbladder polyps: updated joint guidelines between the ESGAR, EAES, EFISDS and ESGE. Eur Radiol. 2022;32(5):3358-3368.'
+  doi: 10.1007/s00330-021-08384-w
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4232
+  legacy_id: null
+  title: Hammad AY, Miura JT, Turaga KK, et al. A literature review of radiological findings to guide the diagnosis of gallbladder adenomyomatosis. HPB (Oxford). 2016;18(2):129-135.
+  citation: Hammad AY, Miura JT, Turaga KK, et al. A literature review of radiological findings to guide the diagnosis of gallbladder adenomyomatosis. HPB (Oxford). 2016;18(2):129-135.
+  doi: 10.1016/j.hpb.2015.09.006
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4233
+  legacy_id: null
+  title: 'Bonatti M, Vezzali N, Lombardo F, et al. Gallbladder adenomyomatosis: imaging findings, tricks and pitfalls. Insights Imaging. 2017;8(2):243-253.'
+  citation: 'Bonatti M, Vezzali N, Lombardo F, et al. Gallbladder adenomyomatosis: imaging findings, tricks and pitfalls. Insights Imaging. 2017;8(2):243-253.'
+  doi: 10.1007/s13244-017-0544-7
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4234
+  legacy_id: null
+  title: 'Sanders DL, Pawlak MM, Simons MP, et al. Midline incisional hernia guidelines: the European Hernia Society. Br J Surg. 2023;110(12):1732-1768.'
+  citation: 'Sanders DL, Pawlak MM, Simons MP, et al. Midline incisional hernia guidelines: the European Hernia Society. Br J Surg. 2023;110(12):1732-1768.'
+  doi: 10.1093/bjs/znad284
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4235
+  legacy_id: null
+  title: 日本腹膜播種研究会 編『腹膜播種診療ガイドライン 2021年版』金原出版、2021年
+  citation: 日本腹膜播種研究会 編『腹膜播種診療ガイドライン 2021年版』金原出版、2021年
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4236
+  legacy_id: null
+  title: 'Matsusaki K, Aridome K, Emoto S, et al. Clinical practice guideline for the treatment of malignant ascites: section summary in Clinical Practice Guideline for peritoneal dissemination (2021). Int J Clin Oncol. 2022;27(1):1-6.'
+  citation: 'Matsusaki K, Aridome K, Emoto S, et al. Clinical practice guideline for the treatment of malignant ascites: section summary in Clinical Practice Guideline for peritoneal dissemination (2021). Int J Clin Oncol. 2022;27(1):1-6.'
+  doi: 10.1007/s10147-021-02077-6
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4237
+  legacy_id: null
+  title: 'Ishigami H, Fujiwara Y, Fukushima R, et al. Phase III trial comparing intraperitoneal and intravenous paclitaxel plus S-1 versus cisplatin plus S-1 in patients with gastric cancer with peritoneal metastasis: PHOENIX-GC trial. J Clin Oncol. 2018;36(19):1922-1929.'
+  citation: 'Ishigami H, Fujiwara Y, Fukushima R, et al. Phase III trial comparing intraperitoneal and intravenous paclitaxel plus S-1 versus cisplatin plus S-1 in patients with gastric cancer with peritoneal metastasis: PHOENIX-GC trial. J Clin Oncol. 2018;36(19):1922-1929.'
+  doi: 10.1200/JCO.2018.77.8613
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4238
+  legacy_id: null
+  title: 'Kusamura S, Kepenekian V, Villeneuve L, et al. Peritoneal mesothelioma: PSOGI/EURACAN clinical practice guidelines for diagnosis, treatment and follow-up. Eur J Surg Oncol. 2021;47(1):36-59.'
+  citation: 'Kusamura S, Kepenekian V, Villeneuve L, et al. Peritoneal mesothelioma: PSOGI/EURACAN clinical practice guidelines for diagnosis, treatment and follow-up. Eur J Surg Oncol. 2021;47(1):36-59.'
+  doi: 10.1016/j.ejso.2020.02.011
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4239
+  legacy_id: null
+  title: 'Govaerts K, Lurvink RJ, De Hingh IHJT, et al. Appendiceal tumours and pseudomyxoma peritonei: literature review with PSOGI/EURACAN clinical practice guidelines for diagnosis and treatment. Eur J Surg Oncol. 2021;47(1):11-35.'
+  citation: 'Govaerts K, Lurvink RJ, De Hingh IHJT, et al. Appendiceal tumours and pseudomyxoma peritonei: literature review with PSOGI/EURACAN clinical practice guidelines for diagnosis and treatment. Eur J Surg Oncol. 2021;47(1):11-35.'
+  doi: 10.1016/j.ejso.2020.02.012
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4240
+  legacy_id: null
+  title: 'Gronchi A, Miah AB, Dei Tos AP, et al. Soft tissue and visceral sarcomas: ESMO-EURACAN-GENTURIS Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2021;32(11):1348-1365.'
+  citation: 'Gronchi A, Miah AB, Dei Tos AP, et al. Soft tissue and visceral sarcomas: ESMO-EURACAN-GENTURIS Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2021;32(11):1348-1365.'
+  doi: 10.1016/j.annonc.2021.07.006
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4241
+  legacy_id: null
+  title: Alavi K, Poylin V, Davids JS, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Colonic Volvulus and Acute Colonic Pseudo-Obstruction. Dis Colon Rectum. 2021;64(9):1046-1057.
+  citation: Alavi K, Poylin V, Davids JS, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Colonic Volvulus and Acute Colonic Pseudo-Obstruction. Dis Colon Rectum. 2021;64(9):1046-1057.
+  doi: 10.1097/DCR.0000000000002159
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4242
+  legacy_id: null
+  title: Tian BWCA, Vigutto G, Tan E, et al. WSES consensus guidelines on sigmoid volvulus management. World J Emerg Surg. 2023;18(1):34.
+  citation: Tian BWCA, Vigutto G, Tan E, et al. WSES consensus guidelines on sigmoid volvulus management. World J Emerg Surg. 2023;18(1):34.
+  doi: 10.1186/s13017-023-00502-x
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4243
+  legacy_id: null
+  title: Naveed M, Jamil LH, Fujii-Lau LL, et al. American Society for Gastrointestinal Endoscopy guideline on the role of endoscopy in the management of acute colonic pseudo-obstruction and colonic volvulus. Gastrointest Endosc. 2020;91(2):228-235.
+  citation: Naveed M, Jamil LH, Fujii-Lau LL, et al. American Society for Gastrointestinal Endoscopy guideline on the role of endoscopy in the management of acute colonic pseudo-obstruction and colonic volvulus. Gastrointest Endosc. 2020;91(2):228-235.
+  doi: 10.1016/j.gie.2019.09.007
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4244
+  legacy_id: null
+  title: 'Smyth L, Bendinelli C, Lee N, et al. WSES guidelines on blunt and penetrating bowel injury: diagnosis, investigations, and treatment. World J Emerg Surg. 2022;17(1):13.'
+  citation: 'Smyth L, Bendinelli C, Lee N, et al. WSES guidelines on blunt and penetrating bowel injury: diagnosis, investigations, and treatment. World J Emerg Surg. 2022;17(1):13.'
+  doi: 10.1186/s13017-022-00418-y
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4245
+  legacy_id: null
+  title: 'Coccolini F, Coimbra R, Ordonez C, et al. Liver trauma: WSES 2020 guidelines. World J Emerg Surg. 2020;15:24.'
+  citation: 'Coccolini F, Coimbra R, Ordonez C, et al. Liver trauma: WSES 2020 guidelines. World J Emerg Surg. 2020;15:24.'
+  doi: 10.1186/s13017-020-00302-7
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4246
+  legacy_id: null
+  title: 'Coccolini F, Kobayashi L, Kluger Y, et al. Duodeno-pancreatic and extrahepatic biliary tree trauma: WSES-AAST guidelines. World J Emerg Surg. 2019;14:56.'
+  citation: 'Coccolini F, Kobayashi L, Kluger Y, et al. Duodeno-pancreatic and extrahepatic biliary tree trauma: WSES-AAST guidelines. World J Emerg Surg. 2019;14:56.'
+  doi: 10.1186/s13017-019-0278-6
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4247
+  legacy_id: null
+  title: de'Angelis N, Catena F, Sapienza P, et al. 2020 WSES guidelines for the detection and management of bile duct injury during cholecystectomy. World J Emerg Surg. 2021;16:30.
+  citation: de'Angelis N, Catena F, Sapienza P, et al. 2020 WSES guidelines for the detection and management of bile duct injury during cholecystectomy. World J Emerg Surg. 2021;16:30.
+  doi: 10.1186/s13017-021-00369-w
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から
+- id: SRC-4248
+  legacy_id: null
+  title: 'WSES-AAST Expert Panel. Thoracic trauma: WSES-AAST guidelines. World J Emerg Surg. 2025;20:78.'
+  citation: 'WSES-AAST Expert Panel. Thoracic trauma: WSES-AAST guidelines. World J Emerg Surg. 2025;20:78.'
+  doi: 10.1186/s13017-025-00651-1
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md の出典マスター表から

@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-31
 
-全 89 件のうち、監修済み 0 件。
+全 110 件のうち、監修済み 0 件。
 
 ## 炎症性腸疾患
 
@@ -1061,6 +1061,282 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-088&card_id=IN-088&version=ebcf896bc0)　（版 `ebcf896bc0`）
 
 **[ここまでの 1 件（IN-088）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-088&cards=IN-088%20ebcf896bc0)**
+
+---
+
+## 放射線性腸炎
+
+### IN-090　下書き（出典の照合前）
+
+> 放射線性腸炎は、照射中から数週間後の急性期と、数か月から数年後の慢性期に分かれ、慢性型は進行性の閉塞性内血管炎と線維化を本態とする。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：2010年の総説が中心で版は古いが、疾患概念は安定している。放射線性直腸炎は別項目寄りのため、本カードは小腸病変に絞っている。
+- 出典：Theis VS, Sripadam R, Ramani V, Lal S. Chronic radiation enteritis. Clin Oncol (R Coll Radiol). 2010;22(1):70-83.　[DOI 10.1016/j.clon.2009.10.003](https://doi.org/10.1016/j.clon.2009.10.003)　[PMID 19897345](https://pubmed.ncbi.nlm.nih.gov/19897345/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-3-B-⑥（放射線性腸炎、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-090&card_id=IN-090&version=f33b403d9c)　（版 `f33b403d9c`）
+
+**[ここまでの 1 件（IN-090）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-090&cards=IN-090%20f33b403d9c)**
+
+---
+
+## 腸結核
+
+### IN-091　下書き（出典の照合前）
+
+> 腸結核の好発部位は回盲部で、腹痛、体重減少、発熱が主症状であり、Crohn病との鑑別が最大の論点である。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：日本の結核診療ガイドラインは肺結核中心で、腸結核の専用章はない。
+- 出典：Debi U, Ravisankar V, Prasad KK, Sinha SK, Sharma AK. Abdominal tuberculosis of the gastrointestinal tract: revisited. World J Gastroenterol. 2014;20(40):14831-14840.　[DOI 10.3748/wjg.v20.i40.14831](https://doi.org/10.3748/wjg.v20.i40.14831)　[PMID 25356043](https://pubmed.ncbi.nlm.nih.gov/25356043/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-3-B-⑦（腸結核、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-091&card_id=IN-091&version=8e619d41a5)　（版 `8e619d41a5`）
+
+### IN-092　下書き（出典の照合前）
+
+> 腸結核の診断は、内視鏡生検での乾酪性肉芽腫、抗酸菌、培養、核酸増幅の組み合わせで行い、単一検査の感度は低く陰性でも除外できない。治療は薬剤感受性結核として6か月レジメンが標準で、狭窄、穿孔、閉塞は手術適応である。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：抗結核薬（イソニアジド、リファンピシン、ピラジナミド、エタンブトール）は結核治療薬として国内で承認されているが、添付文書の効能文言の個別照合は未了。
+- 出典：Alhumairi AA, et al. Gastrointestinal tuberculosis: a systematic review of epidemiology, presentation, diagnosis and treatment. Saudi J Gastroenterol. 2021;27(5):261-274.　[DOI 10.4103/sjg.sjg_148_21](https://doi.org/10.4103/sjg.sjg_148_21)　[PMID 34213424](https://pubmed.ncbi.nlm.nih.gov/34213424/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-3-B-⑦（腸結核、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-092&card_id=IN-092&version=0561dcb99e)　（版 `0561dcb99e`）
+
+**[ここまでの 2 件（IN-091〜IN-092）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-091%E3%80%9CIN-092&cards=IN-091%208e619d41a5%0AIN-092%200561dcb99e)**
+
+---
+
+## 小腸癌
+
+### IN-093　下書き（出典の照合前）
+
+> 小腸腺癌は稀で、十二指腸に好発し、症状が非特異的で診断時進行例が多く、全例でミスマッチ修復欠損とマイクロサテライト不安定性の検査が推奨される。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：引用は2019年の誌掲載版（Version 1.2020）で、現行版は Version 2.2026 である。
+- 出典：Benson AB, Venook AP, Al-Hawary MM, et al. Small Bowel Adenocarcinoma, Version 1.2020, NCCN Clinical Practice Guidelines in Oncology. J Natl Compr Canc Netw. 2019;17(9):1109-1133.　[DOI 10.6004/jnccn.2019.0043](https://doi.org/10.6004/jnccn.2019.0043)　[PMID 31487687](https://pubmed.ncbi.nlm.nih.gov/31487687/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-3-C-③（小腸癌、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-093&card_id=IN-093&version=1f8c90f438)　（版 `1f8c90f438`）
+
+**[ここまでの 1 件（IN-093）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-093&cards=IN-093%201f8c90f438)**
+
+---
+
+## 直腸脱
+
+### IN-094　下書き（出典の照合前）
+
+> 完全直腸脱は直腸全層が肛門外へ脱出する病態で、高齢女性に多く、便失禁と排便困難を伴い、保存療法では治癒せず手術が基本である。粘膜のみの脱出とは区別する。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：国内ガイドライン（2020年改訂第2版）に基づく。痔核脱出や粘膜脱との区別は国内ガイドラインの分類による。
+- 出典：日本大腸肛門病学会 編『肛門疾患（痔核・痔瘻・裂肛）・直腸脱診療ガイドライン 2020年版（改訂第2版）』南江堂.（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-4-A-①（直腸脱、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-094&card_id=IN-094&version=4c2a7dddc7)　（版 `4c2a7dddc7`）
+
+### IN-095　下書き（出典の照合前）
+
+> 直腸脱の術式は、経腹的な直腸固定術などと、経会陰的なDelorme法やAltemeier法などに大別され、全身状態と脱出長で選択する。経会陰式は低侵襲だが再発率が比較的高い。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：術式選択の具体的な基準値は国内ガイドラインの記述による。
+- 出典：日本大腸肛門病学会 編『肛門疾患（痔核・痔瘻・裂肛）・直腸脱診療ガイドライン 2020年版（改訂第2版）』南江堂.（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-4-A-①（直腸脱、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-095&card_id=IN-095&version=46b56c7bcc)　（版 `46b56c7bcc`）
+
+**[ここまでの 2 件（IN-094〜IN-095）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-094%E3%80%9CIN-095&cards=IN-094%204c2a7dddc7%0AIN-095%2046b56c7bcc)**
+
+---
+
+## 肛門周囲膿瘍、痔瘻
+
+### IN-096　下書き（出典の照合前）
+
+> 肛門周囲膿瘍の治療は速やかな切開排膿が原則で、抗菌薬は蜂窩織炎、全身感染、免疫不全などの併存時に限る。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：抗菌薬の使用条件は ASCRS ガイドラインの推奨による。抗菌薬は薬剤名を特定していない。個別薬剤の国内承認・保険適用は、それぞれの添付文書で確認すること。
+- 出典：Gaertner WB, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Anorectal Abscess, Fistula-in-Ano, and Rectovaginal Fistula. Dis Colon Rectum. 2022;65(8):964-985.　[DOI 10.1097/DCR.0000000000002473](https://doi.org/10.1097/DCR.0000000000002473)　[PMID 35732009](https://pubmed.ncbi.nlm.nih.gov/35732009/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-4-B-①（肛門周囲膿瘍、痔瘻、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-096&card_id=IN-096&version=98238f648c)　（版 `98238f648c`）
+
+### IN-097　下書き（出典の照合前）
+
+> 肛門周囲膿瘍の後に一定割合が痔瘻へ移行する。痔瘻は肛門陰窩感染を原発口とする瘻管で、括約筋との関係で術式が変わる。単純痔瘻で括約筋機能が正常なら瘻管切開開放術が選択肢で、複雑痔瘻では括約筋温存術式を検討する。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：術式の選択は ASCRS ガイドラインの推奨による。
+- 出典：Gaertner WB, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Anorectal Abscess, Fistula-in-Ano, and Rectovaginal Fistula. Dis Colon Rectum. 2022;65(8):964-985.　[DOI 10.1097/DCR.0000000000002473](https://doi.org/10.1097/DCR.0000000000002473)　[PMID 35732009](https://pubmed.ncbi.nlm.nih.gov/35732009/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-4-B-①（肛門周囲膿瘍、痔瘻、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-267 (id: Jlvnl30)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-097&card_id=IN-097&version=91e280ff5b)　（版 `91e280ff5b`）
+
+### IN-098　下書き（出典の照合前）
+
+> Crohn病関連の痔瘻は、腺感染性の痔瘻とは分けて扱い、薬物療法と手術の併用が推奨される。インフリキシマブとアダリムマブは、Crohn病の肛門病変に対して国内承認があるとされる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：インフリキシマブとアダリムマブの国内承認は Crohn病の肛門病変に対するものとされるが、添付文書の効能文言の個別照合は未了。本項目の中心は腺感染性で、Crohn病関連は区別して扱う。
+- 出典：Gaertner WB, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Anorectal Abscess, Fistula-in-Ano, and Rectovaginal Fistula. Dis Colon Rectum. 2022;65(8):964-985.　[DOI 10.1097/DCR.0000000000002473](https://doi.org/10.1097/DCR.0000000000002473)　[PMID 35732009](https://pubmed.ncbi.nlm.nih.gov/35732009/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-4-B-①（肛門周囲膿瘍、痔瘻、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-267 (id: Jlvnl30)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-098&card_id=IN-098&version=f8ee61ee80)　（版 `f8ee61ee80`）
+
+**[ここまでの 3 件（IN-096〜IN-098）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-096%E3%80%9CIN-098&cards=IN-096%2098238f648c%0AIN-097%2091e280ff5b%0AIN-098%20f8ee61ee80)**
+
+---
+
+## 肛門癌、肛門管癌
+
+### IN-099　下書き（出典の照合前）
+
+> 肛門管癌の多くは扁平上皮癌で、ヒトパピローマウイルス（特に16型）感染が主要な原因である。局所進行例の標準治療は手術ではなく、フルオロウラシルとマイトマイシンCを併用する化学放射線療法で、肛門温存が可能である。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：フルオロウラシルとマイトマイシンCは国内承認薬だが、肛門癌への適応表記は添付文書での個別照合が未了で、レジメンとして慣用される位置づけである。
+- 出典：Rao S, Guren MG, Khan K, et al. Anal cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2021;32(9):1087-1100.　[DOI 10.1016/j.annonc.2021.06.015](https://doi.org/10.1016/j.annonc.2021.06.015)　[PMID 34175386](https://pubmed.ncbi.nlm.nih.gov/34175386/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-4-C-②（肛門癌、肛門管癌、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-099&card_id=IN-099&version=df543c1a06)　（版 `df543c1a06`）
+
+### IN-100　下書き（出典の照合前）
+
+> 肛門癌の化学放射線療法後に残存病変や局所再発がある場合は、救済手術として腹会陰式直腸切断術が適応となる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：救済手術の適応判断は ESMO ガイドラインの記述による。
+- 出典：Rao S, Guren MG, Khan K, et al. Anal cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2021;32(9):1087-1100.　[DOI 10.1016/j.annonc.2021.06.015](https://doi.org/10.1016/j.annonc.2021.06.015)　[PMID 34175386](https://pubmed.ncbi.nlm.nih.gov/34175386/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-4-C-②（肛門癌、肛門管癌、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-100&card_id=IN-100&version=b5be5f08a3)　（版 `b5be5f08a3`）
+
+**[ここまでの 2 件（IN-099〜IN-100）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-099%E3%80%9CIN-100&cards=IN-099%20df543c1a06%0AIN-100%20b5be5f08a3)**
+
+---
+
+## 裂肛
+
+### IN-101　下書き（出典の照合前）
+
+> 急性裂肛は保存療法が第一選択で、食物繊維の摂取、便軟化、坐浴で多くが治癒する。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：保存療法の第一選択は ASCRS ガイドラインの推奨による。
+- 出典：Davids JS, Hawkins AT, Bhama AR, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Anal Fissures. Dis Colon Rectum. 2023;66(2):190-199.　[DOI 10.1097/DCR.0000000000002664](https://doi.org/10.1097/DCR.0000000000002664)　[PMID 36321851](https://pubmed.ncbi.nlm.nih.gov/36321851/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-4-E-①（裂肛、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-101&card_id=IN-101&version=0aac016f4e)　（版 `0aac016f4e`）
+
+### IN-102　下書き（出典の照合前）
+
+> 慢性裂肛の薬物療法では、外用硝酸薬とカルシウム拮抗薬が同等の効果で、カルシウム拮抗薬は副作用が少ないため第一選択になりうる。薬物療法無効の慢性裂肛では、側方内括約筋切開術が最も治癒率が高い一方、便失禁リスクの評価が前提になる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：外用硝酸薬とカルシウム拮抗薬軟膏は、日本では裂肛に対する承認と保険適用が未確認で、国内実装は海外と異なる可能性がある。ボツリヌス毒素注射の裂肛への使用も国内適応外とされる。薬剤の国内承認状況は組み立て時に PMDA で再確認を要する。
+- 出典：Davids JS, Hawkins AT, Bhama AR, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Anal Fissures. Dis Colon Rectum. 2023;66(2):190-199.　[DOI 10.1097/DCR.0000000000002664](https://doi.org/10.1097/DCR.0000000000002664)　[PMID 36321851](https://pubmed.ncbi.nlm.nih.gov/36321851/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-4-E-①（裂肛、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-102&card_id=IN-102&version=5c83da2544)　（版 `5c83da2544`）
+
+**[ここまでの 2 件（IN-101〜IN-102）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-101%E3%80%9CIN-102&cards=IN-101%200aac016f4e%0AIN-102%205c83da2544)**
+
+---
+
+## 悪性リンパ腫
+
+### IN-103　下書き（出典の照合前）
+
+> 原発性消化管リンパ腫では胃原発が最も多く、胃MALTリンパ腫（節外性辺縁帯リンパ腫）はヘリコバクター・ピロリ感染と強く関連する。治療は病期を問わずヘリコバクター・ピロリ除菌療法が第一選択で、除菌後に組織学的残存のみの例では経過観察も許容される。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：リンパ腫の全身の病型・治療総論は第Ⅶ章（LY）の担当であり、本カードは消化管原発の側面に限る。除菌療法そのものの一般論は HP の既存カードの範囲で、ここでは重ねていない。ヘリコバクター・ピロリ除菌療法は国内で保険適用があり、胃MALTリンパ腫もその対象に含まれることを確認した（IN-111 の uncertainty も参照）。
+- 出典：Ruskoné-Fourmestraux A, Fischbach W, Aleman BMP, et al. EGILS consensus report: Gastric extranodal marginal zone B-cell lymphoma of MALT. Gut. 2011;60(6):747-758.　[DOI 10.1136/gut.2010.224949](https://doi.org/10.1136/gut.2010.224949)　[PMID 21317175](https://pubmed.ncbi.nlm.nih.gov/21317175/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-5-B-①（悪性リンパ腫、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)；TBL-01-00-628 (id: Jlvnmas)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-103&card_id=IN-103&version=71996f4a3a)　（版 `71996f4a3a`）
+
+### IN-104　下書き（出典の照合前）
+
+> 日本の多施設コホート（胃低悪性度MALTリンパ腫420例）では、ヘリコバクター・ピロリ除菌の成功後に77%が反応し、10年全生存率は95%であった。除菌抵抗性の独立予測因子は、ピロリ陰性、超音波内視鏡での粘膜下浸潤、t(11;18)/API2-MALT1転座である。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：数値は PubMed 抄録で確認した範囲。ヘリコバクター・ピロリ除菌療法は国内で保険適用があり、胃MALTリンパ腫もその対象に含まれることを確認した。具体的な薬剤・用量は最新の添付文書で確認すること。
+- 出典：Nakamura S, Sugiyama T, Matsumoto T, et al. Long-term clinical outcome of gastric MALT lymphoma after eradication of Helicobacter pylori: a multicentre cohort follow-up study of 420 patients in Japan. Gut. 2012;61(4):507-513.　[DOI 10.1136/gutjnl-2011-300495](https://doi.org/10.1136/gutjnl-2011-300495)　[PMID 21890816](https://pubmed.ncbi.nlm.nih.gov/21890816/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-5-B-①（悪性リンパ腫、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)；TBL-01-00-628 (id: Jlvnmas)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-104&card_id=IN-104&version=efdba65e87)　（版 `efdba65e87`）
+
+**[ここまでの 2 件（IN-103〜IN-104）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-103%E3%80%9CIN-104&cards=IN-103%2071996f4a3a%0AIN-104%20efdba65e87)**
+
+---
+
+## 消化管アミロイドーシス
+
+### IN-105　下書き（出典の照合前）
+
+> 消化管アミロイドーシスの病変はAL型で最も多く、主座は小腸である。症状は体重減少、腹痛、下痢、吸収不良、消化管出血、偽性腸閉塞などで非特異的であり、症状と沈着の程度は必ずしも相関しない。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：全身性アミロイドーシスの総論・全身管理は第44回（SA）の担当であり、本カードは消化管病変の側面に限る。出典は PMC にオープンアクセス版があるが、CC ライセンスの種別を確認できなかったため source_class は UNKNOWN とした。
+- 出典：Tang MJ, Tay TY, Gibbs S, Niewiadomski O. Amyloidosis for the Gastroenterologist: A Comprehensive Systematic Review of Diagnosis and Management of Gastrointestinal Manifestations. J Gastroenterol Hepatol. 2025;40(12):2842-2856.　[DOI 10.1111/jgh.70083](https://doi.org/10.1111/jgh.70083)　[PMID 41058263](https://pubmed.ncbi.nlm.nih.gov/41058263/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅵ-5-C-①（消化管アミロイドーシス、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-105&card_id=IN-105&version=fd96eaa694)　（版 `fd96eaa694`）
+
+### IN-106　下書き（出典の照合前）
+
+> 消化管アミロイドーシスの確定診断は、生検組織のCongo red染色で偏光下にapple-green birefringenceを示すことと、質量分析などによる型分類による。十二指腸生検が最も信頼できる診断部位とされる。治療は型ごとの原疾患治療（AL型では抗形質細胞療法、AA型では原炎症疾患の制御）が本体で、消化管症状への特異的治療はない。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：抗形質細胞療法は治療の枠組みとして挙げたもので、個別薬剤の国内承認・保険適用は多発性骨髄腫・ALアミロイドーシスに対する最新の添付文書で確認すること。全身管理の詳細は第44回（SA）の担当。
+- 出典：Tang MJ, Tay TY, Gibbs S, Niewiadomski O. Amyloidosis for the Gastroenterologist: A Comprehensive Systematic Review of Diagnosis and Management of Gastrointestinal Manifestations. J Gastroenterol Hepatol. 2025;40(12):2842-2856.　[DOI 10.1111/jgh.70083](https://doi.org/10.1111/jgh.70083)　[PMID 41058263](https://pubmed.ncbi.nlm.nih.gov/41058263/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅵ-5-C-①（消化管アミロイドーシス、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-106&card_id=IN-106&version=4e5666afed)　（版 `4e5666afed`）
+
+**[ここまでの 2 件（IN-105〜IN-106）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-105%E3%80%9CIN-106&cards=IN-105%20fd96eaa694%0AIN-106%204e5666afed)**
+
+---
+
+## 虚血性腸炎
+
+### IN-107　下書き（出典の照合前）
+
+> 大腸虚血の多くは動脈閉塞によらない非閉塞性（低灌流）で、分水嶺領域である脾彎曲部とS状結腸に好発する。背景には高齢、低血圧、便秘、血管収縮作用のある薬剤などがある。
+
+- 条件：region: 米国／対象: 成人
+- 不確実性：国内の診療ガイドラインはなく、米国の ACG ガイドラインに基づく。腸間膜動脈閉塞症（Ⅵ-10-D-③、AB の既存カード）とは別の疾患として、非閉塞性・一過性型が中心である。
+- 出典：Brandt LJ, Feuerstadt P, Longstreth GF, Boley SJ. ACG Clinical Guideline: Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, and Management of Colon Ischemia (CI). Am J Gastroenterol. 2015;110(1):18-44.　[DOI 10.1038/ajg.2014.395](https://doi.org/10.1038/ajg.2014.395)　[PMID 25559486](https://pubmed.ncbi.nlm.nih.gov/25559486/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-5-E-①（虚血性腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-271 (id: Jlvnl48)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-107&card_id=IN-107&version=46b257c7fa)　（版 `46b257c7fa`）
+
+### IN-108　下書き（出典の照合前）
+
+> 大腸虚血の典型像は、突然の軽い痙攣性腹痛と便意切迫に続いて24時間以内にみられる鮮紅色または暗赤色の血便・血性下痢である。初期の画像検査は造影CTで、確定診断には48時間以内の大腸内視鏡と生検が推奨されるが、腹膜炎や不可逆的な虚血が疑われる場合は内視鏡を避ける。
+
+- 条件：region: 米国／対象: 成人
+- 不確実性：臨床像と診断の手順は ACG ガイドラインの推奨文とベストプラクティス文に基づく。国内の実地運用とは異なる場合がある。
+- 出典：Brandt LJ, Feuerstadt P, Longstreth GF, Boley SJ. ACG Clinical Guideline: Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, and Management of Colon Ischemia (CI). Am J Gastroenterol. 2015;110(1):18-44.　[DOI 10.1038/ajg.2014.395](https://doi.org/10.1038/ajg.2014.395)　[PMID 25559486](https://pubmed.ncbi.nlm.nih.gov/25559486/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-5-E-①（虚血性腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-271 (id: Jlvnl48)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-108&card_id=IN-108&version=467002ba82)　（版 `467002ba82`）
+
+### IN-109　下書き（出典の照合前）
+
+> 大腸虚血の多くは、絶食と補液、背景疾患の是正による支持療法で軽快する一過性型である。中等症以上では抗菌薬の投与を検討し、腸管壊死・穿孔・右側結腸の虚血などでは外科へのコンサルトを行う。
+
+- 条件：region: 米国／対象: 成人
+- 不確実性：抗菌薬は薬剤名を特定していない。個別薬剤の国内承認・保険適用は、それぞれの添付文書で確認すること。
+- 出典：Brandt LJ, Feuerstadt P, Longstreth GF, Boley SJ. ACG Clinical Guideline: Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, and Management of Colon Ischemia (CI). Am J Gastroenterol. 2015;110(1):18-44.　[DOI 10.1038/ajg.2014.395](https://doi.org/10.1038/ajg.2014.395)　[PMID 25559486](https://pubmed.ncbi.nlm.nih.gov/25559486/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-5-E-①（虚血性腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-271 (id: Jlvnl48)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-109&card_id=IN-109&version=999b326870)　（版 `999b326870`）
+
+**[ここまでの 3 件（IN-107〜IN-109）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-107%E3%80%9CIN-109&cards=IN-107%2046b257c7fa%0AIN-108%20467002ba82%0AIN-109%20999b326870)**
+
+---
+
+## 毛細血管拡張症
+
+### IN-110　下書き（出典の照合前）
+
+> 消化管の血管拡張（angioectasia）は小腸出血の最も多い原因で、高齢者に多く、慢性の鉄欠乏性貧血や顕性の消化管出血で発見される。診断の第一線はカプセル内視鏡である。
+
+- 条件：region: 米国／対象: 成人
+- 不確実性：遺伝性出血性毛細血管拡張症（HHT、PV の既存カード）とは別物で、本カードは後天性・加齢性の血管拡張に限る。
+- 出典：Gerson LB, Fidler JL, Cave DR, Leighton JA. ACG Clinical Guideline: Diagnosis and Management of Small Bowel Bleeding. Am J Gastroenterol. 2015;110(9):1265-1287.　[DOI 10.1038/ajg.2015.246](https://doi.org/10.1038/ajg.2015.246)　[PMID 26303132](https://pubmed.ncbi.nlm.nih.gov/26303132/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-5-E-②（毛細血管拡張症<angioectasia>、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-110&card_id=IN-110&version=9f595c32d4)　（版 `9f595c32d4`）
+
+**[ここまでの 1 件（IN-110）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-110&cards=IN-110%209f595c32d4)**
 
 ---
 

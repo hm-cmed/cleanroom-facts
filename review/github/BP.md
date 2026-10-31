@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-31
 
-全 68 件のうち、監修済み 0 件。
+全 75 件のうち、監修済み 0 件。
 
 ## 胆石症・胆道感染症
 
@@ -793,6 +793,94 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-061&card_id=BP-061&version=ecccff2a48)　（版 `ecccff2a48`）
 
 **[ここまでの 9 件（BP-053〜BP-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-053%E3%80%9CBP-061&cards=BP-053%2027404cc711%0ABP-054%2000f0571a4b%0ABP-055%20c9d65b8085%0ABP-056%20d06fd43e01%0ABP-057%20dea1e2b89f%0ABP-058%2071164adadb%0ABP-059%2006088340b4%0ABP-060%20ef2b848cfd%0ABP-061%20ecccff2a48)**
+
+---
+
+## 膵・胆管合流異常症
+
+### BP-069　下書き（出典の照合前）
+
+> 膵・胆管合流異常症は、膵管と胆管が十二指腸壁外で合流し共通管が長くなる先天異常で、膵液の胆道への逆流が持続する。診断は、ERCP や MRCP などでの合流形態の描出による。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：ガイドラインの版は2012年の英語版で、改訂の有無は作成時に学会サイトで確認できていない点に注意。
+- 出典：Kamisawa T, Ando H, Suyama M, et al. Japanese clinical practice guidelines for pancreaticobiliary maljunction. J Gastroenterol. 2012;47(7):731-759.　[DOI 10.1007/s00535-012-0611-2](https://doi.org/10.1007/s00535-012-0611-2)　[PMID 22722902](https://pubmed.ncbi.nlm.nih.gov/22722902/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-7-A-①（膵・胆管合流異常症、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-304 (id: Jlvnl5s)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-069&card_id=BP-069&version=40e244af61)　（版 `40e244af61`）
+
+### BP-070　下書き（出典の照合前）
+
+> 膵・胆管合流異常症は胆道癌の高リスク病態で、予防的手術が原則である。胆管拡張型では胆囊摘出と肝外胆管切除・分流手術、胆管非拡張型では予防的胆囊摘出が推奨される（いずれも推奨グレード1）。発癌部位は、胆管拡張型では胆管と胆囊の双方、胆管非拡張型では主に胆囊である。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：推奨グレードは同ガイドラインの表記どおり。2012年版以降の改訂の有無は未確認。
+- 出典：Kamisawa T, Ando H, Suyama M, et al. Japanese clinical practice guidelines for pancreaticobiliary maljunction. J Gastroenterol. 2012;47(7):731-759.　[DOI 10.1007/s00535-012-0611-2](https://doi.org/10.1007/s00535-012-0611-2)　[PMID 22722902](https://pubmed.ncbi.nlm.nih.gov/22722902/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-7-A-①（膵・胆管合流異常症、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-304 (id: Jlvnl5s)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-070&card_id=BP-070&version=898cb282a8)　（版 `898cb282a8`）
+
+**[ここまでの 2 件（BP-069〜BP-070）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-069%E3%80%9CBP-070&cards=BP-069%2040e244af61%0ABP-070%20898cb282a8)**
+
+---
+
+## 胆囊ポリープ
+
+### BP-071　下書き（出典の照合前）
+
+> 胆囊ポリープの初期評価は腹部超音波検査である。大半はコレステロールポリープなどの偽ポリープで、悪性化しない。
+
+- 条件：region: 欧州／対象: 成人
+- 不確実性：日本の胆石症診療ガイドライン2021ではポリープの扱いが限定的なため、本カード群は欧州合同ガイドラインに基づく。国内の運用とは異なる場合がある。
+- 出典：Foley KG, Lahaye MJ, Thoeni RF, et al. Management and follow-up of gallbladder polyps: updated joint guidelines between the ESGAR, EAES, EFISDS and ESGE. Eur Radiol. 2022;32(5):3358-3368.　[DOI 10.1007/s00330-021-08384-w](https://doi.org/10.1007/s00330-021-08384-w)　[PMID 34918177](https://pubmed.ncbi.nlm.nih.gov/34918177/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-7-C-①（胆囊ポリープ、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)；TBL-01-00-302 (id: Jlvnl5g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-071&card_id=BP-071&version=2c75ee9bce)　（版 `2c75ee9bce`）
+
+### BP-072　下書き（出典の照合前）
+
+> 胆囊ポリープは、径10mm以上で胆囊摘出を推奨する。6〜9mmでも、悪性リスク因子（60歳超、原発性硬化性胆管炎の既往、アジア人、無茎性、限局性壁肥厚4mm超）があれば胆囊摘出を推奨する。
+
+- 条件：region: 欧州／対象: 成人
+- 不確実性：リスク因子に「アジア人」が含まれる点は、日本の診療でも重要である。
+- 出典：Foley KG, Lahaye MJ, Thoeni RF, et al. Management and follow-up of gallbladder polyps: updated joint guidelines between the ESGAR, EAES, EFISDS and ESGE. Eur Radiol. 2022;32(5):3358-3368.　[DOI 10.1007/s00330-021-08384-w](https://doi.org/10.1007/s00330-021-08384-w)　[PMID 34918177](https://pubmed.ncbi.nlm.nih.gov/34918177/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-7-C-①（胆囊ポリープ、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)；TBL-01-00-302 (id: Jlvnl5g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-072&card_id=BP-072&version=61a749f71a)　（版 `61a749f71a`）
+
+### BP-073　下書き（出典の照合前）
+
+> 悪性リスク因子のない6〜9mmの胆囊ポリープは、超音波検査で6か月後、1年後、2年後にフォローし、増大がなければフォローを終了する。悪性リスク因子のない5mm以下のポリープはフォロー不要である。
+
+- 条件：region: 欧州／対象: 成人
+- 不確実性：フォロー間隔と終了条件は同ガイドラインの推奨どおり。国内の診療ガイドラインでの扱いが限定的な点は BP-071 を参照。
+- 出典：Foley KG, Lahaye MJ, Thoeni RF, et al. Management and follow-up of gallbladder polyps: updated joint guidelines between the ESGAR, EAES, EFISDS and ESGE. Eur Radiol. 2022;32(5):3358-3368.　[DOI 10.1007/s00330-021-08384-w](https://doi.org/10.1007/s00330-021-08384-w)　[PMID 34918177](https://pubmed.ncbi.nlm.nih.gov/34918177/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-7-C-①（胆囊ポリープ、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)；TBL-01-00-302 (id: Jlvnl5g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-073&card_id=BP-073&version=b34a3ee29e)　（版 `b34a3ee29e`）
+
+**[ここまでの 3 件（BP-071〜BP-073）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-071%E3%80%9CBP-073&cards=BP-071%202c75ee9bce%0ABP-072%2061a749f71a%0ABP-073%20b34a3ee29e)**
+
+---
+
+## 胆囊腺筋腫症
+
+### BP-074　下書き（出典の照合前）
+
+> 胆囊腺筋腫症は、粘膜の壁内陥入（Rokitansky-Aschoff洞）を伴う胆囊壁の過形成性変化による良性病変である。超音波でのcomet-tail artifact、MRI や MRCP でのpearl-necklace sign が特徴的所見で、胆囊癌との鑑別が要点である。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：出典は総説レベルで、専用の診療ガイドラインは存在しない。画像所見の主張に絞った。
+- 出典：Hammad AY, Miura JT, Turaga KK, et al. A literature review of radiological findings to guide the diagnosis of gallbladder adenomyomatosis. HPB (Oxford). 2016;18(2):129-135.　[DOI 10.1016/j.hpb.2015.09.006](https://doi.org/10.1016/j.hpb.2015.09.006)　[PMID 26902131](https://pubmed.ncbi.nlm.nih.gov/26902131/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-7-C-③（胆囊腺筋腫症、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-074&card_id=BP-074&version=1890bddd2a)　（版 `1890bddd2a`）
+
+### BP-075　下書き（出典の照合前）
+
+> 胆囊腺筋腫症には普遍的に受け入れられたガイドラインはなく、無症状で診断が確実な例では経過観察が原則である。胆囊摘出は有症状例、または画像で悪性を否定できない場合に限られ、分節型やびまん型では手術が検討される。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：管理原則は同総説の本文に明記されている。出典はガイドラインではなく総説である点に注意。
+- 出典：Bonatti M, Vezzali N, Lombardo F, et al. Gallbladder adenomyomatosis: imaging findings, tricks and pitfalls. Insights Imaging. 2017;8(2):243-253.　[DOI 10.1007/s13244-017-0544-7](https://doi.org/10.1007/s13244-017-0544-7)　[PMID 28127678](https://pubmed.ncbi.nlm.nih.gov/28127678/)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-7-C-③（胆囊腺筋腫症、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-075&card_id=BP-075&version=8e81dcc58e)　（版 `8e81dcc58e`）
+
+**[ここまでの 2 件（BP-074〜BP-075）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-074%E3%80%9CBP-075&cards=BP-074%201890bddd2a%0ABP-075%208e81dcc58e)**
 
 ---
 

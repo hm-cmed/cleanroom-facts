@@ -5096,3 +5096,213 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目（docs/tasks/curriculum_reference.md）と照合（人間が2026-10-13にチャットで委任）
+- id: LV-105
+  domain: LV
+  subdomain: 肝囊胞
+  assertion:
+    plain_statement_ja: 単純性肝囊胞の診断は超音波検査が第一選択である。無症状の単純性囊胞は治療不要である。囊胞壁や内容に異常がある複雑性の場合には、MRI などの追加画像を行う。
+    condition:
+      region: 欧州
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4227
+    source: European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of cystic liver diseases. J Hepatol. 2022;77(4):1083-1108.
+    doi: 10.1016/j.jhep.2022.06.002
+    pmid: '35728731'
+    pmcid: null
+    url: https://doi.org/10.1016/j.jhep.2022.06.002
+    source_license: CC表示なし（学会ガイドライン・購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: EASL 2022 は多発性肝囊胞や Caroli 病も含む包括的ガイドラインだが、本カードは単純性囊胞に限る。日本の診療ガイドラインでの扱いは未確認のため、国内の運用とは異なる場合がある。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-6-A-①（肝囊胞、c）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: LV-106
+  domain: LV
+  subdomain: 転移性肝癌
+  assertion:
+    plain_statement_ja: 大腸癌の肝限局転移では、肝切除が長期生存をもたらしうる唯一の根治的治療選択肢である。切除可能性は、技術的切除可能性（R0 切除と十分な残肝）と腫瘍学的因子の両面から集学的チームが判断する。
+    condition:
+      region: 欧州
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4228
+    source: 'Cervantes A, Adam R, Roselló S, et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Ann Oncol. 2023;34(1):10-32.'
+    doi: 10.1016/j.annonc.2022.10.003
+    pmid: '36307056'
+    pmcid: null
+    url: https://doi.org/10.1016/j.annonc.2022.10.003
+    source_license: CC表示なし（学会ガイドライン・購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードは本文照合済みの ESMO 2023年版に基づく。2026年改訂版の実在は書誌レベルで確認済みだが本文は未照合のため、改訂版への差し替えには肝転移の切除可能性・転換療法・周術期化学療法の該当箇所の本文再確認が必要。原発巣の大腸癌治療そのものは IN の既存カードの担当。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-6-C-③（転移性肝癌、a）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: LV-107
+  domain: LV
+  subdomain: 転移性肝癌
+  assertion:
+    plain_statement_ja: 当初は切除不能と判断された大腸癌肝転移でも、化学療法により腫瘍が縮小すれば、切除への転換（conversion）を改めて評価する。切除可能性の判断は、化学療法中も定期的に見直す。
+    condition:
+      region: 欧州
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4228
+    source: 'Cervantes A, Adam R, Roselló S, et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Ann Oncol. 2023;34(1):10-32.'
+    doi: 10.1016/j.annonc.2022.10.003
+    pmid: '36307056'
+    pmcid: null
+    url: https://doi.org/10.1016/j.annonc.2022.10.003
+    source_license: CC表示なし（学会ガイドライン・購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードは ESMO 2023年版に基づく。2026年改訂版の本文は未照合（LV-106 の uncertainty を参照）。化学療法のレジメンと国内承認の扱いは LV-108 を参照。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-6-C-③（転移性肝癌、a）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: LV-108
+  domain: LV
+  subdomain: 転移性肝癌
+  assertion:
+    plain_statement_ja: 切除可能な大腸癌肝転移では、周術期または術後補助化学療法として FOLFOX などが再発抑制のために用いられる。
+    condition:
+      region: 欧州
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4228
+    source: 'Cervantes A, Adam R, Roselló S, et al. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Ann Oncol. 2023;34(1):10-32.'
+    doi: 10.1016/j.annonc.2022.10.003
+    pmid: '36307056'
+    pmcid: null
+    url: https://doi.org/10.1016/j.annonc.2022.10.003
+    source_license: CC表示なし（学会ガイドライン・購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: FOLFOX は大腸癌に対する国内承認レジメンの範囲で記載した。具体的な適応・用量は最新の添付文書と国内の大腸癌治療ガイドラインで確認すること。本カードは ESMO 2023年版に基づく。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-6-C-③（転移性肝癌、a）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: LV-109
+  domain: LV
+  subdomain: 肝血管腫
+  assertion:
+    plain_statement_ja: 肝血管腫は最も多い良性肝腫瘍である。超音波で典型像（均一な高エコー腫瘤）が得られ、慢性肝疾患がなければ、それ以上の精査は不要なことが多い。MRI が感度・特異度とも最も高い検査である。
+    condition:
+      region: 欧州
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4229
+    source: European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of benign liver tumours. J Hepatol. 2016;65(2):386-398.
+    doi: 10.1016/j.jhep.2016.04.001
+    pmid: '27085809'
+    pmcid: null
+    url: https://doi.org/10.1016/j.jhep.2016.04.001
+    source_license: CC表示なし（学会ガイドライン・購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 同ガイドラインは肝細胞腺腫・限局性結節性過形成も含むが、本カードは血管腫の節に限定した。ガイドラインの版は2016年とやや古いが、良性腫瘍の標準資料として安定している。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-6-C-④（肝血管腫、b）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: LV-110
+  domain: LV
+  subdomain: 肝血管腫
+  assertion:
+    plain_statement_ja: 典型的な肝血管腫は良性経過のため画像フォローアップは不要で、経口避妊薬の使用や妊娠は禁忌ではない。切除などの介入は稀で、Kasabach-Merritt 症候群、増大、圧迫症状がある場合に専門施設へ紹介する。
+    condition:
+      region: 欧州
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4229
+    source: European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of benign liver tumours. J Hepatol. 2016;65(2):386-398.
+    doi: 10.1016/j.jhep.2016.04.001
+    pmid: '27085809'
+    pmcid: null
+    url: https://doi.org/10.1016/j.jhep.2016.04.001
+    source_license: CC表示なし（学会ガイドライン・購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 経口避妊薬は禁忌でないという文脈で挙げたもので、個別製剤の国内承認状況は添付文書で確認すること。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-6-C-④（肝血管腫、b）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）

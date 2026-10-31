@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-31
 
-全 93 件のうち、監修済み 0 件。
+全 115 件のうち、監修済み 0 件。
 
 ## 急性腹症の定義と分類
 
@@ -1002,6 +1002,298 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-093&card_id=AB-093&version=8011163125)　（版 `8011163125`）
 
 **[ここまでの 7 件（AB-087〜AB-093）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-087%E3%80%9CAB-093&cards=AB-087%20624d489074%0AAB-088%20307ab37f9e%0AAB-089%20e18028c020%0AAB-090%20cc75ad0b88%0AAB-091%205309c1e2ea%0AAB-092%20ff1782bd5d%0AAB-093%208011163125)**
+
+---
+
+## 腹壁瘢痕ヘルニア
+
+### AB-094　下書き（出典の照合前）
+
+> 正中切開後の腹壁瘢痕ヘルニアの発生率は高く、14,000例超を含むメタ解析では術後2年時点の加重平均発生率は12.8%であった。危険因子として肥満、創感染、糖尿病、喫煙、閉腹法が挙げられ、修復後の再発率は23〜50%とされる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：数値は EHS ガイドライン2023 が引用するメタ解析の値で、ガイドライン本文で確認した。発生率は切開部位や追跡期間により幅がある。国内に専用ガイドラインはない。
+- 出典：Sanders DL, Pawlak MM, Simons MP, et al. Midline incisional hernia guidelines: the European Hernia Society. Br J Surg. 2023;110(12):1732-1768.　[DOI 10.1093/bjs/znad284](https://doi.org/10.1093/bjs/znad284)　[PMID 37727928](https://pubmed.ncbi.nlm.nih.gov/37727928/)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-9-A-⑤（腹壁瘢痕ヘルニア、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-094&card_id=AB-094&version=130a5b37bb)　（版 `130a5b37bb`）
+
+### AB-095　下書き（出典の照合前）
+
+> 腹壁瘢痕ヘルニアの修復では筋膜の閉鎖が推奨され、メッシュによるブリッジング（欠損を架橋するだけの修復）は避ける。メッシュの使用は再発を減らし、手術アプローチとメッシュの留置位置は欠損の大きさと汚染の有無に応じて選択する。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：筋膜閉鎖の推奨は EHS ガイドライン2023 の強い推奨（エビデンスの確実性は低い）に基づき、本文で確認した範囲の記述である。
+- 出典：Sanders DL, Pawlak MM, Simons MP, et al. Midline incisional hernia guidelines: the European Hernia Society. Br J Surg. 2023;110(12):1732-1768.　[DOI 10.1093/bjs/znad284](https://doi.org/10.1093/bjs/znad284)　[PMID 37727928](https://pubmed.ncbi.nlm.nih.gov/37727928/)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-9-A-⑤（腹壁瘢痕ヘルニア、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-095&card_id=AB-095&version=ea042212e9)　（版 `ea042212e9`）
+
+**[ここまでの 2 件（AB-094〜AB-095）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-094%E3%80%9CAB-095&cards=AB-094%20130a5b37bb%0AAB-095%20ea042212e9)**
+
+---
+
+## 横隔膜下・Douglas窩膿瘍
+
+### AB-096　下書き（出典の照合前）
+
+> 手術後や穿孔性腹膜炎の後に残存・再発する局在性腹腔内膿瘍（横隔膜下膿瘍、Douglas窩膿瘍など）は、持続する発熱や炎症反応で疑い、造影CTで診断する。治療の原則は感染源の制御（ソースコントロール）で、画像ガイド下の経皮ドレナージが第一選択となり、抗菌薬は補助的に用いる。ドレナージが不能・無効な場合、多房性の場合、壊死組織を含む場合は外科的ドレナージを検討する。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：WSES 腹腔内感染症ガイドライン2017 の範囲の記述。腹膜炎の総論は既存カードと重ならないよう、局在性膿瘍の発生部位とドレナージの適応に絞った。マスターの SRC-157 は PMID・PMCID が null 登録のため、カード側には PubMed で確認した値を記入した（マスター補完を申し送り）。
+- 出典：Sartelli M, Chichom-Mefire A, Labricciosa FM, et al. The management of intra-abdominal infections from a global perspective: 2017 WSES guidelines for management of intra-abdominal infections. World J Emerg Surg. 2017;12:29.　[DOI 10.1186/s13017-017-0141-6](https://doi.org/10.1186/s13017-017-0141-6)　[PMID 28702076](https://pubmed.ncbi.nlm.nih.gov/28702076/)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-9-B-②（横隔膜下・Douglas窩膿瘍、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-308 (id: Jlvnl70)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-096&card_id=AB-096&version=ea6155da46)　（版 `ea6155da46`）
+
+**[ここまでの 1 件（AB-096）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-096&cards=AB-096%20ea6155da46)**
+
+---
+
+## 癌性腹膜炎
+
+### AB-097　下書き（出典の照合前）
+
+> 腹膜播種は、消化器癌や卵巣癌などから腫瘍細胞が腹腔内に散布・着床した状態であり、悪性腹水、腸閉塞、疼痛などを来たし、一般に予後は不良である。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：「癌性腹膜炎」は腹膜播種とほぼ同義に用いられる用語である。書籍のため DOI・PMID はない。卵巣癌の進行期分類そのものは本カードの範囲外とした。主張はガイドラインの総論部分（定義・症状・予後の概略）で確認した範囲に限る。
+- 出典：日本腹膜播種研究会 編『腹膜播種診療ガイドライン 2021年版』金原出版、2021年（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-9-C-①（癌性腹膜炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)；TBL-01-00-308 (id: Jlvnl70)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-097&card_id=AB-097&version=6083e16b75)　（版 `6083e16b75`）
+
+### AB-098　下書き（出典の照合前）
+
+> 腹膜播種に伴う大量腹水は、骨盤底から横隔膜下まで連続する腹水と定義される。単純排液では1回あたり1〜3Lが安全域の目安とされる。腹水濾過濃縮再静注法（CART）は1981年から保険適用があるが実施施設は限られ、Denverシャントは多施設報告で症状緩和が83%にみられた一方、DIC・血栓症・感染などのリスクがある。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：定義と数値は『腹膜播種診療ガイドライン 2021年版』の悪性腹水セクション要約（Int J Clin Oncol 2022）の本文で確認した。CART は KM-CART による改良が行われているが、実施できる施設は限られる。
+- 出典：Matsusaki K, Aridome K, Emoto S, et al. Clinical practice guideline for the treatment of malignant ascites: section summary in Clinical Practice Guideline for peritoneal dissemination (2021). Int J Clin Oncol. 2022;27(1):1-6.　[DOI 10.1007/s10147-021-02077-6](https://doi.org/10.1007/s10147-021-02077-6)　[PMID 34800177](https://pubmed.ncbi.nlm.nih.gov/34800177/)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-9-C-①（癌性腹膜炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)；TBL-01-00-308 (id: Jlvnl70)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-098&card_id=AB-098&version=aae0fe2b46)　（版 `aae0fe2b46`）
+
+### AB-099　下書き（出典の照合前）
+
+> 胃癌腹膜転移に対する腹腔内パクリタキセル併用療法は、第III相試験（PHOENIX-GC、183例）で全生存期間の中央値が17.7か月対15.2か月と優越性が示されず、確立した標準治療ではない。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：腹腔内化学療法は日本では保険適用外の研究段階の治療である。パクリタキセル自体は胃癌などに国内承認があるが、腹腔内投与は承認された用法ではない。主要評価項目では優越性が示されず、腹水量の不均衡を調整した感度分析でのみ有益性が示唆された。
+- 出典：Ishigami H, Fujiwara Y, Fukushima R, et al. Phase III trial comparing intraperitoneal and intravenous paclitaxel plus S-1 versus cisplatin plus S-1 in patients with gastric cancer with peritoneal metastasis: PHOENIX-GC trial. J Clin Oncol. 2018;36(19):1922-1929.　[DOI 10.1200/JCO.2018.77.8613](https://doi.org/10.1200/JCO.2018.77.8613)　[PMID 29746229](https://pubmed.ncbi.nlm.nih.gov/29746229/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-9-C-①（癌性腹膜炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)；TBL-01-00-308 (id: Jlvnl70)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-099&card_id=AB-099&version=765f107344)　（版 `765f107344`）
+
+**[ここまでの 3 件（AB-097〜AB-099）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-097%E3%80%9CAB-099&cards=AB-097%206083e16b75%0AAB-098%20aae0fe2b46%0AAB-099%20765f107344)**
+
+---
+
+## 腹膜中皮腫
+
+### AB-100　下書き（出典の照合前）
+
+> 腹膜中皮腫は腹膜原発の稀な悪性腫瘍で、腹水や腹部膨満を主症状として発症する。アスベスト曝露との関連は胸膜中皮腫より弱い。診断は腹腔鏡下生検と免疫染色（中皮マーカー）によって行う。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：PSOGI/EURACAN ガイドライン（Eur J Surg Oncol 2021）の範囲の記述。胸膜中皮腫とは別の疾患として作成した。
+- 出典：Kusamura S, Kepenekian V, Villeneuve L, et al. Peritoneal mesothelioma: PSOGI/EURACAN clinical practice guidelines for diagnosis, treatment and follow-up. Eur J Surg Oncol. 2021;47(1):36-59.　[DOI 10.1016/j.ejso.2020.02.011](https://doi.org/10.1016/j.ejso.2020.02.011)　[PMID 32209311](https://pubmed.ncbi.nlm.nih.gov/32209311/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-9-C-②（腹膜中皮腫、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-100&card_id=AB-100&version=2020c2f9a2)　（版 `2020c2f9a2`）
+
+### AB-101　下書き（出典の照合前）
+
+> 腹膜中皮腫では、上皮型で播種が限局し全身状態が良好な選ばれた症例に対し、専門施設での腫瘍減量手術（CRS）と腹腔内温熱化学療法（HIPEC）の併用が検討される。切除不能例には胸膜中皮腫に準じた全身化学療法（ペメトレキセドとプラチナ製剤の併用など）が行われる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：HIPEC は日本では保険適用外であり、実施は一部の施設における研究レベルの治療にとどまる。ペメトレキセドの国内承認は悪性胸膜中皮腫と非小細胞肺癌であり、腹膜中皮腫への使用は適応外（保険適用外）である。
+- 出典：Kusamura S, Kepenekian V, Villeneuve L, et al. Peritoneal mesothelioma: PSOGI/EURACAN clinical practice guidelines for diagnosis, treatment and follow-up. Eur J Surg Oncol. 2021;47(1):36-59.　[DOI 10.1016/j.ejso.2020.02.011](https://doi.org/10.1016/j.ejso.2020.02.011)　[PMID 32209311](https://pubmed.ncbi.nlm.nih.gov/32209311/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-9-C-②（腹膜中皮腫、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-101&card_id=AB-101&version=12735820b7)　（版 `12735820b7`）
+
+**[ここまでの 2 件（AB-100〜AB-101）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-100%E3%80%9CAB-101&cards=AB-100%202020c2f9a2%0AAB-101%2012735820b7)**
+
+---
+
+## 腹膜偽粘液腫
+
+### AB-102　下書き（出典の照合前）
+
+> 腹膜偽粘液腫の多くは虫垂粘液性腫瘍（低異型度虫垂粘液性腫瘍 LAMN など）の破裂・播種によるもので、粘液性腹水の貯留を来たす。増殖活性は低く遠隔転移は稀だが腹腔内で進行するため、専門施設での完全な腫瘍減量手術（CRS）と腹腔内温熱化学療法（HIPEC）が標準治療とされ、完全減量の程度（CCスコア）が予後を規定する。病理組織の悪性度（低異型度・高異型度・印環細胞成分の有無）が治療方針と予後を左右する。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：PSOGI/EURACAN ガイドライン（Govaerts ら、Eur J Surg Oncol 2021）の範囲の記述。HIPEC は日本では保険適用外であり、実施は専門施設に限られる。癌性腹膜炎（腹膜播種）とは生物学的に別の疾患として扱う。
+- 出典：Govaerts K, Lurvink RJ, De Hingh IHJT, et al. Appendiceal tumours and pseudomyxoma peritonei: literature review with PSOGI/EURACAN clinical practice guidelines for diagnosis and treatment. Eur J Surg Oncol. 2021;47(1):11-35.　[DOI 10.1016/j.ejso.2020.02.012](https://doi.org/10.1016/j.ejso.2020.02.012)　[PMID 32199769](https://pubmed.ncbi.nlm.nih.gov/32199769/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-9-C-③（腹膜偽粘液腫、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-102&card_id=AB-102&version=7fc8c9c524)　（版 `7fc8c9c524`）
+
+**[ここまでの 1 件（AB-102）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-102&cards=AB-102%207fc8c9c524)**
+
+---
+
+## 後腹膜腫瘍
+
+### AB-103　下書き（出典の照合前）
+
+> 後腹膜腫瘍の代表は後腹膜肉腫（脂肪肉腫、平滑筋肉腫など）であり、後腹膜は広い空間であるため巨大化するまで無症状のことが多い。診断は造影CT・MRIによる評価と、経腹膜経路を避けて行うコア針生検による組織診断が基本となる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：ESMO-EURACAN-GENTURIS ガイドライン（Ann Oncol 2021）の後腹膜肉腫に関する範囲の記述。
+- 出典：Gronchi A, Miah AB, Dei Tos AP, et al. Soft tissue and visceral sarcomas: ESMO-EURACAN-GENTURIS Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2021;32(11):1348-1365.　[DOI 10.1016/j.annonc.2021.07.006](https://doi.org/10.1016/j.annonc.2021.07.006)　[PMID 34303806](https://pubmed.ncbi.nlm.nih.gov/34303806/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-9-C-④（後腹膜腫瘍、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-103&card_id=AB-103&version=e14da3fda4)　（版 `e14da3fda4`）
+
+**[ここまでの 1 件（AB-103）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-103&cards=AB-103%20e14da3fda4)**
+
+---
+
+## 腸管軸捻転症
+
+### AB-104　下書き（出典の照合前）
+
+> 大腸軸捻転症は、過長な腸管が腸間膜を軸に捻転して閉塞と絞扼を来たす疾患である。部位別では S状結腸が60〜75%、盲腸が25〜40%を占め、横行結腸・脾彎曲部は稀である。初期評価では病歴・身体所見・血液検査に加え、安定した症例では腹部単純X線とCTで部位の確定と虚血・穿孔の有無を確認する。腹膜炎・穿孔・ショックを伴う場合は緊急手術が優先される。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：ASCRS ガイドライン2021 の大腸軸捻転に関する範囲の記述。同ガイドラインは急性大腸偽性閉塞（ACPO）も対象とするが、本カードでは軸捻転の部分のみを用いた。腸閉塞の総論は既存カードと重ならないよう、軸捻転に特化した。
+- 出典：Alavi K, Poylin V, Davids JS, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Colonic Volvulus and Acute Colonic Pseudo-Obstruction. Dis Colon Rectum. 2021;64(9):1046-1057.　[DOI 10.1097/DCR.0000000000002159](https://doi.org/10.1097/DCR.0000000000002159)　[PMID 34016826](https://pubmed.ncbi.nlm.nih.gov/34016826/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-10-A-②（腸管軸捻転症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-104&card_id=AB-104&version=a1c9e72d7c)　（版 `a1c9e72d7c`）
+
+### AB-105　下書き（出典の照合前）
+
+> S状結腸軸捻転では、虚血や穿孔が疑われない場合に内視鏡的減圧（整復）が第一選択である。減圧に成功した後は再発予防のため S状結腸切除を提案し、可能であれば同一入院中に行うことが望ましい。内視鏡整復のみでは再発率が45〜71%と高い。CT の診断陽性率は89%とされる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：WSES コンセンサスガイドライン2023 の推奨4（内視鏡的減圧の第一選択）と推奨6（減圧後の切除提案）に基づく。いずれも強い推奨だがエビデンスの質は低い。国内に軸捻転症専用のガイドラインはない。
+- 出典：Tian BWCA, Vigutto G, Tan E, et al. WSES consensus guidelines on sigmoid volvulus management. World J Emerg Surg. 2023;18(1):34.　[DOI 10.1186/s13017-023-00502-x](https://doi.org/10.1186/s13017-023-00502-x)　[PMID 37189134](https://pubmed.ncbi.nlm.nih.gov/37189134/)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-10-A-②（腸管軸捻転症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-105&card_id=AB-105&version=c78916f52d)　（版 `c78916f52d`）
+
+### AB-106　下書き（出典の照合前）
+
+> 盲腸軸捻転では内視鏡的整復は穿孔のリスクが高く通常は行われず、区域切除（右半結腸切除）が標準治療である。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：ASGE ガイドライン2020 の盲腸軸捻転に関する範囲の記述。同ガイドラインは急性大腸偽性閉塞（ACPO）も対象とするが、本カードでは軸捻転の部分のみを用いた。
+- 出典：Naveed M, Jamil LH, Fujii-Lau LL, et al. American Society for Gastrointestinal Endoscopy guideline on the role of endoscopy in the management of acute colonic pseudo-obstruction and colonic volvulus. Gastrointest Endosc. 2020;91(2):228-235.　[DOI 10.1016/j.gie.2019.09.007](https://doi.org/10.1016/j.gie.2019.09.007)　[PMID 31791596](https://pubmed.ncbi.nlm.nih.gov/31791596/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-10-A-②（腸管軸捻転症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-106&card_id=AB-106&version=ba033f6a97)　（版 `ba033f6a97`）
+
+**[ここまでの 3 件（AB-104〜AB-106）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-104%E3%80%9CAB-106&cards=AB-104%20a1c9e72d7c%0AAB-105%20c78916f52d%0AAB-106%20ba033f6a97)**
+
+---
+
+## 消化管損傷
+
+### AB-107　下書き（出典の照合前）
+
+> 外傷による管腔臓器・腸間膜損傷の頻度は鈍的外傷の約1%、穿通性外傷の約17%とされる。シートベルトサインを認める場合はCT検査と高い臨床的疑いが必要である。管腔外のガスや造影剤の漏出、腸管壁の欠損など特異度の高いCT所見があれば試験開腹に進み、循環動態が保たれた症例で感度の高い所見がある場合は診断的腹腔鏡も選択肢となる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：WSES 腸管損傷ガイドライン2022 の範囲の記述で、頻度は同ガイドライン本文で確認した。外傷初期診療の総論は作り直さず、管腔臓器損傷の評価に絞った。
+- 出典：Smyth L, Bendinelli C, Lee N, et al. WSES guidelines on blunt and penetrating bowel injury: diagnosis, investigations, and treatment. World J Emerg Surg. 2022;17(1):13.　[DOI 10.1186/s13017-022-00418-y](https://doi.org/10.1186/s13017-022-00418-y)　[PMID 35246190](https://pubmed.ncbi.nlm.nih.gov/35246190/)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-11-B-①（消化管損傷、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-05-12 (id: Jkxir3g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-107&card_id=AB-107&version=59e1b49570)　（版 `59e1b49570`）
+
+### AB-108　下書き（出典の照合前）
+
+> 小腸損傷では可能な限り一期的修復が優先される。結腸損傷では、循環が安定し汚染が軽度な選ばれた症例では一期的吻合が可能であり、高リスク例やダメージコントロール手術の症例ではストーマ造設が安全な選択肢となる。診断の遅延は腹膜炎や敗血症を招くため、不確実な場合は診断的腹腔鏡や開腹をためらわないことが重要である。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：WSES 腸管損傷ガイドライン2022 の範囲の記述。臓器別の治療方針に絞り、外傷初期診療の総論とは重ならないようにした。
+- 出典：Smyth L, Bendinelli C, Lee N, et al. WSES guidelines on blunt and penetrating bowel injury: diagnosis, investigations, and treatment. World J Emerg Surg. 2022;17(1):13.　[DOI 10.1186/s13017-022-00418-y](https://doi.org/10.1186/s13017-022-00418-y)　[PMID 35246190](https://pubmed.ncbi.nlm.nih.gov/35246190/)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-11-B-①（消化管損傷、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-05-12 (id: Jkxir3g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-108&card_id=AB-108&version=7c2fe5365d)　（版 `7c2fe5365d`）
+
+**[ここまでの 2 件（AB-107〜AB-108）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-107%E3%80%9CAB-108&cards=AB-107%2059e1b49570%0AAB-108%207c2fe5365d)**
+
+---
+
+## 肝損傷
+
+### AB-109　下書き（出典の照合前）
+
+> 肝損傷の治療方針を決める軸は解剖学的な重症度ではなく循環動態である。AAST 分類で IV〜V 度の重症例でも、循環動態が安定していれば、手術室・血管造影・輸血の体制が整った施設では非手術的管理（NOM）が選択できる。重症度分類には AAST-OIS と WSES 分類（I〜IV）が併用される。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：WSES 肝外傷ガイドライン2020 の範囲の記述。日本の実臨床では日本外傷学会の肝損傷分類も併用される。
+- 出典：Coccolini F, Coimbra R, Ordonez C, et al. Liver trauma: WSES 2020 guidelines. World J Emerg Surg. 2020;15:24.　[DOI 10.1186/s13017-020-00302-7](https://doi.org/10.1186/s13017-020-00302-7)　[PMID 32228707](https://pubmed.ncbi.nlm.nih.gov/32228707/)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-11-B-②（肝損傷、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-05-12 (id: Jkxir3g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-109&card_id=AB-109&version=dd68c6465b)　（版 `dd68c6465b`）
+
+### AB-110　下書き（出典の照合前）
+
+> 循環不安定な肝損傷（WSES 分類 IV）では、パッキングや Pringle 法を含むダメージコントロール手術が優先される。非手術的管理中に活動性出血を認める場合は血管塞栓術が重要な補助手段となる。肝損傷に特異的な合併症として胆汁漏と遅発性出血がある。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：WSES 肝外傷ガイドライン2020 の範囲の記述。脾損傷の非手術的管理の既存カードとは、胆汁漏など肝特異的な観点で区別した。
+- 出典：Coccolini F, Coimbra R, Ordonez C, et al. Liver trauma: WSES 2020 guidelines. World J Emerg Surg. 2020;15:24.　[DOI 10.1186/s13017-020-00302-7](https://doi.org/10.1186/s13017-020-00302-7)　[PMID 32228707](https://pubmed.ncbi.nlm.nih.gov/32228707/)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-11-B-②（肝損傷、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-05-12 (id: Jkxir3g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-110&card_id=AB-110&version=baa33c8fd4)　（版 `baa33c8fd4`）
+
+**[ここまでの 2 件（AB-109〜AB-110）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-109%E3%80%9CAB-110&cards=AB-109%20dd68c6465b%0AAB-110%20baa33c8fd4)**
+
+---
+
+## 胆道損傷
+
+### AB-111　下書き（出典の照合前）
+
+> 外傷性肝外胆道損傷は稀な損傷で、他の臓器損傷を合併することが多い。中等度以上の損傷、循環不安定、腹膜炎を伴う場合は即時手術が優先される。内視鏡的逆行性胆管膵管造影（ERCP）は損傷の診断と治療の双方に用いることができる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：WSES-AAST ガイドライン2019（十二指腸・膵・肝外胆道外傷）の胆道損傷に関する範囲の記述。膵損傷の2件と同一出典を用い、臓器ごとにカードを分けた。
+- 出典：Coccolini F, Kobayashi L, Kluger Y, et al. Duodeno-pancreatic and extrahepatic biliary tree trauma: WSES-AAST guidelines. World J Emerg Surg. 2019;14:56.　[DOI 10.1186/s13017-019-0278-6](https://doi.org/10.1186/s13017-019-0278-6)　[PMID 31867050](https://pubmed.ncbi.nlm.nih.gov/31867050/)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-11-B-③（胆道損傷、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-05-12 (id: Jkxir3g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-111&card_id=AB-111&version=d48c38c142)　（版 `d48c38c142`）
+
+### AB-112　下書き（出典の照合前）
+
+> 臨床的に問題となる胆道損傷の多くは胆嚢摘出術に伴う医原性損傷である。術中に発見された場合は専門医による修復（肝管空腸吻合など）が原則で、不完全な修復は術後の狭窄や胆管炎を招く。術後に胆汁漏を認めた場合は、まずドレナージと胆道減圧（内視鏡的ステントなど）を行い、炎症が治まってから根治的な修復を行う。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：WSES ガイドライン（胆嚢摘出術中の胆管損傷の検出と管理、2021）の範囲の記述。外傷性損傷のカードと分けて、臨床的に頻度の高い医原性損傷を扱った。
+- 出典：de'Angelis N, Catena F, Sapienza P, et al. 2020 WSES guidelines for the detection and management of bile duct injury during cholecystectomy. World J Emerg Surg. 2021;16:30.　[DOI 10.1186/s13017-021-00369-w](https://doi.org/10.1186/s13017-021-00369-w)　[PMID 34112197](https://pubmed.ncbi.nlm.nih.gov/34112197/)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-11-B-③（胆道損傷、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-05-12 (id: Jkxir3g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-112&card_id=AB-112&version=1d877eb394)　（版 `1d877eb394`）
+
+**[ここまでの 2 件（AB-111〜AB-112）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-111%E3%80%9CAB-112&cards=AB-111%20d48c38c142%0AAB-112%201d877eb394)**
+
+---
+
+## 膵損傷
+
+### AB-113　下書き（出典の照合前）
+
+> 膵損傷の治療方針を分けるのは主膵管損傷の有無である。評価では受傷後3〜6時間以降に繰り返し測定するアミラーゼ・リパーゼと造影CTが中心となり、主膵管の評価には MRCP や ERCP を用いる。主膵管損傷のない軽症例では保存的治療やドレナージが管理の中心となる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：WSES-AAST ガイドライン2019 の膵損傷に関する範囲の記述。
+- 出典：Coccolini F, Kobayashi L, Kluger Y, et al. Duodeno-pancreatic and extrahepatic biliary tree trauma: WSES-AAST guidelines. World J Emerg Surg. 2019;14:56.　[DOI 10.1186/s13017-019-0278-6](https://doi.org/10.1186/s13017-019-0278-6)　[PMID 31867050](https://pubmed.ncbi.nlm.nih.gov/31867050/)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-11-B-④（膵損傷、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-05-12 (id: Jkxir3g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-113&card_id=AB-113&version=8c1a09f948)　（版 `8c1a09f948`）
+
+### AB-114　下書き（出典の照合前）
+
+> 膵体尾部の主膵管損傷（AAST 分類 III 度）では尾側膵切除が標準的な治療となる。膵頭部・十二指腸の破壊的損傷では、専門施設における段階的な膵頭十二指腸切除が検討される。ハンドル外傷やシートベルト外傷などの鈍的機序による膵損傷は、初期に所見が乏しく診断が遅れやすい。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：WSES-AAST ガイドライン2019 の膵損傷に関する範囲の記述。
+- 出典：Coccolini F, Kobayashi L, Kluger Y, et al. Duodeno-pancreatic and extrahepatic biliary tree trauma: WSES-AAST guidelines. World J Emerg Surg. 2019;14:56.　[DOI 10.1186/s13017-019-0278-6](https://doi.org/10.1186/s13017-019-0278-6)　[PMID 31867050](https://pubmed.ncbi.nlm.nih.gov/31867050/)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-11-B-④（膵損傷、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-05-12 (id: Jkxir3g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-114&card_id=AB-114&version=e45f8629f8)　（版 `e45f8629f8`）
+
+**[ここまでの 2 件（AB-113〜AB-114）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-113%E3%80%9CAB-114&cards=AB-113%208c1a09f948%0AAB-114%20e45f8629f8)**
+
+---
+
+## 横隔膜損傷
+
+### AB-115　下書き（出典の照合前）
+
+> 外傷性横隔膜損傷は、鈍的外傷では大きな裂傷となり、穿通性外傷では小さな裂傷となる。当初は1/3〜2/3が見逃され、数年後に横隔膜ヘルニアや絞扼として発症することがある（急性期・潜伏期・閉塞期の経過をたどる）。診断の標準は胸腹部CTで、全身状態が許せば横隔膜の修復を行うことが強く推奨される。急性期の修復は経腹アプローチで行い、修復後に胸腔ドレーンを留置する。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：WSES-AAST 胸部外傷ガイドライン2025 の横隔膜損傷セクションの範囲の記述。左胸腹部の刺創では診断的腹腔鏡が優先される場合がある。先天性横隔膜ヘルニアとは別の外傷性損傷である。
+- 出典：WSES-AAST Expert Panel. Thoracic trauma: WSES-AAST guidelines. World J Emerg Surg. 2025;20:78.　[DOI 10.1186/s13017-025-00651-1](https://doi.org/10.1186/s13017-025-00651-1)　[PMID 41094688](https://pubmed.ncbi.nlm.nih.gov/41094688/)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-11-B-⑥（横隔膜損傷、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-05-12 (id: Jkxir3g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-115&card_id=AB-115&version=fe24696777)　（版 `fe24696777`）
+
+**[ここまでの 1 件（AB-115）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-115&cards=AB-115%20fe24696777)**
 
 ---
 

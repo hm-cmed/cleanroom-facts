@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-31
 
-全 94 件のうち、監修済み 0 件。
+全 98 件のうち、監修済み 0 件。
 
 ## 機能性ディスペプシア
 
@@ -1154,6 +1154,58 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-095&card_id=GD-095&version=00b3e825dd)　（版 `00b3e825dd`）
 
 **[ここまでの 3 件（GD-093〜GD-095）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-093%E3%80%9CGD-095&cards=GD-093%20bb84a1b8a0%0AGD-094%20b7291fddcc%0AGD-095%2000b3e825dd)**
+
+---
+
+## 上腸間膜動脈性十二指腸閉塞症
+
+### GD-096　下書き（出典の照合前）
+
+> 上腸間膜動脈症候群は、大動脈と上腸間膜動脈の間を走る十二指腸第3部が圧迫されて閉塞を生じる病態で、急激な体重減少に伴う腸間膜脂肪の減少が代表的な誘因である。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：専用ガイドラインは存在せず、症例集積と総説に基づく記述である。機能性嘔吐との鑑別など過剰診断への注意が近年の論点である。
+- 出典：Merrett ND, Wilson RB, Cosman P, Biankin AV. Superior mesenteric artery syndrome: diagnosis and treatment strategies. J Gastrointest Surg. 2009;13(2):287-292.　[DOI 10.1007/s11605-008-0695-4](https://doi.org/10.1007/s11605-008-0695-4)　[PMID 18810558](https://pubmed.ncbi.nlm.nih.gov/18810558/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-2-A-①（上腸間膜動脈性十二指腸閉塞症<上腸間膜動脈症候群>、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-096&card_id=GD-096&version=5d43637805)　（版 `5d43637805`）
+
+### GD-097　下書き（出典の照合前）
+
+> 上腸間膜動脈症候群の診断は、造影CTでの大動脈と上腸間膜動脈のなす角が25度未満であることと両血管の距離が8から10 mm未満であること、口側の胃十二指腸の拡張で裏付けられ、腹臥位や膝胸位で症状が軽減するのが特徴である。治療はまず経鼻胃管減圧と栄養回復による保存的治療を行い、無効例には十二指腸空腸吻合術が標準術式である。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：角度と距離の基準値は総説によるもので、専用ガイドラインの基準ではない。
+- 出典：Oka A, Awoniyi M, Hasegawa N, Yoshida Y, Tobita H, Ishimura N, Ishihara S. Superior mesenteric artery syndrome: diagnosis and management. World J Clin Cases. 2023;11(15):3369-3384.　[DOI 10.12998/wjcc.v11.i15.3369](https://doi.org/10.12998/wjcc.v11.i15.3369)　[PMID 37383896](https://pubmed.ncbi.nlm.nih.gov/37383896/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-2-A-①（上腸間膜動脈性十二指腸閉塞症<上腸間膜動脈症候群>、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-097&card_id=GD-097&version=ac7504dacd)　（版 `ac7504dacd`）
+
+**[ここまでの 2 件（GD-096〜GD-097）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-096%E3%80%9CGD-097&cards=GD-096%205d43637805%0AGD-097%20ac7504dacd)**
+
+---
+
+## 十二指腸腫瘍
+
+### GD-098　下書き（出典の照合前）
+
+> 非乳頭部十二指腸腺腫は癌化リスクが高いため、ESGEガイドラインは全例で内視鏡切除の検討を強く推奨する。6 mm未満の小病変にはコールドスネア切除、大きな腺腫には内視鏡的粘膜切除術が第一選択で、内視鏡的粘膜下層剥離術は熟練者に限られる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：乳頭部腫瘍は ESGE の別ガイドラインの扱いで、本項目の範囲外に近い。
+- 出典：Vanbiervliet G, Moss A, Arvanitakis M, et al. Endoscopic management of superficial nonampullary duodenal tumors: European Society of Gastrointestinal Endoscopy (ESGE) Guideline. Endoscopy. 2021;53(5):522-534.　[DOI 10.1055/a-1442-2395](https://doi.org/10.1055/a-1442-2395)　[PMID 33822331](https://pubmed.ncbi.nlm.nih.gov/33822331/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-2-D-④（十二指腸腫瘍、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-098&card_id=GD-098&version=9cfa61ecea)　（版 `9cfa61ecea`）
+
+### GD-099　下書き（出典の照合前）
+
+> 十二指腸腺癌の限局例では外科切除が基本で、十二指腸原発では膵頭十二指腸切除または部分切除が選択肢となる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：引用は2019年の誌掲載版（Version 1.2020）で、現行版は Version 2.2026 である。切除術式の記述に版による変更がないかは組み立て時に再確認を要する。
+- 出典：Benson AB, Venook AP, Al-Hawary MM, et al. Small Bowel Adenocarcinoma, Version 1.2020, NCCN Clinical Practice Guidelines in Oncology. J Natl Compr Canc Netw. 2019;17(9):1109-1133.　[DOI 10.6004/jnccn.2019.0043](https://doi.org/10.6004/jnccn.2019.0043)　[PMID 31487687](https://pubmed.ncbi.nlm.nih.gov/31487687/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-2-D-④（十二指腸腫瘍、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-099&card_id=GD-099&version=6cdb039428)　（版 `6cdb039428`）
+
+**[ここまでの 2 件（GD-098〜GD-099）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-098%E3%80%9CGD-099&cards=GD-098%209cfa61ecea%0AGD-099%206cdb039428)**
 
 ---
 
