@@ -30312,3 +30312,318 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md の出典マスター表から
+- id: SRC-3611
+  legacy_id: null
+  title: 'Bertsias GK, Ioannidis JP, Aringer M, et al. EULAR recommendations for the management of systemic lupus erythematosus with neuropsychiatric manifestations: report of a task force of the EULAR standing committee for clinical affairs. Ann Rheum Dis. 2010;69(12):2074-2082'
+  citation: 'Bertsias GK, Ioannidis JP, Aringer M, et al. EULAR recommendations for the management of systemic lupus erythematosus with neuropsychiatric manifestations: report of a task force of the EULAR standing committee for clinical affairs. Ann Rheum Dis. 2010;69(12):2074-2082'
+  doi: 10.1136/ard.2010.130476
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3612
+  legacy_id: null
+  title: 'Oh ES, Fong TG, Hshieh TT, Inouye SK. Delirium in Older Persons: Advances in Diagnosis and Treatment. JAMA. 2017;318(12):1161-1174'
+  citation: 'Oh ES, Fong TG, Hshieh TT, Inouye SK. Delirium in Older Persons: Advances in Diagnosis and Treatment. JAMA. 2017;318(12):1161-1174'
+  doi: 10.1001/jama.2017.12067
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3613
+  legacy_id: null
+  title: 'Bellelli G, Morandi A, Davis DH, et al. Validation of the 4AT, a new instrument for rapid delirium screening: a study in 234 hospitalised older people. Age Ageing. 2014;43(4):496-502'
+  citation: 'Bellelli G, Morandi A, Davis DH, et al. Validation of the 4AT, a new instrument for rapid delirium screening: a study in 234 hospitalised older people. Age Ageing. 2014;43(4):496-502'
+  doi: 10.1093/ageing/afu021
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3614
+  legacy_id: null
+  title: Inouye SK, Bogardus ST Jr, Charpentier PA, et al. A multicomponent intervention to prevent delirium in hospitalized older patients. N Engl J Med. 1999;340(9):669-676
+  citation: Inouye SK, Bogardus ST Jr, Charpentier PA, et al. A multicomponent intervention to prevent delirium in hospitalized older patients. N Engl J Med. 1999;340(9):669-676
+  doi: 10.1056/NEJM199903043400901
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3615
+  legacy_id: null
+  title: 新アルコール・薬物使用障害の診断治療ガイドライン作成委員会（監修）, 樋口進, 齋藤利和, ほか（編）. 新アルコール・薬物使用障害の診断治療ガイドライン. 新興医学出版社; 2018
+  citation: 新アルコール・薬物使用障害の診断治療ガイドライン作成委員会（監修）, 樋口進, 齋藤利和, ほか（編）. 新アルコール・薬物使用障害の診断治療ガイドライン. 新興医学出版社; 2018
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3616
+  legacy_id: null
+  title: American Society of Addiction Medicine. The ASAM Clinical Practice Guideline on Alcohol Withdrawal Management. J Addict Med. 2020;14(3S Suppl 1):1-72
+  citation: American Society of Addiction Medicine. The ASAM Clinical Practice Guideline on Alcohol Withdrawal Management. J Addict Med. 2020;14(3S Suppl 1):1-72
+  doi: 10.1097/ADM.0000000000000668
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3617
+  legacy_id: null
+  title: 'Saunders JB, Aasland OG, Babor TF, de la Fuente JR, Grant M. Development of the Alcohol Use Disorders Identification Test (AUDIT): WHO collaborative project on early detection of persons with harmful alcohol consumption--II. Addiction. 1993;88(6):791-804'
+  citation: 'Saunders JB, Aasland OG, Babor TF, de la Fuente JR, Grant M. Development of the Alcohol Use Disorders Identification Test (AUDIT): WHO collaborative project on early detection of persons with harmful alcohol consumption--II. Addiction. 1993;88(6):791-804'
+  doi: 10.1111/j.1360-0443.1993.tb02093.x
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3618
+  legacy_id: null
+  title: McKetin R, McLaren J, Lubman DI, Hides L. The prevalence of psychotic symptoms among methamphetamine users. Addiction. 2006;101(10):1473-1478
+  citation: McKetin R, McLaren J, Lubman DI, Hides L. The prevalence of psychotic symptoms among methamphetamine users. Addiction. 2006;101(10):1473-1478
+  doi: 10.1111/j.1360-0443.2006.01496.x
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3619
+  legacy_id: null
+  title: 'Di Forti M, Quattrone D, Freeman TP, et al. The contribution of cannabis use to variation in the incidence of psychotic disorder across Europe (EU-GEI): a multicentre case-control study. Lancet Psychiatry. 2019;6(5):427-436'
+  citation: 'Di Forti M, Quattrone D, Freeman TP, et al. The contribution of cannabis use to variation in the incidence of psychotic disorder across Europe (EU-GEI): a multicentre case-control study. Lancet Psychiatry. 2019;6(5):427-436'
+  doi: 10.1016/S2215-0366(19)30048-3
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3620
+  legacy_id: null
+  title: Potenza MN, Balodis IM, Derevensky J, et al. Gambling disorder. Nat Rev Dis Primers. 2019;5(1):51
+  citation: Potenza MN, Balodis IM, Derevensky J, et al. Gambling disorder. Nat Rev Dis Primers. 2019;5(1):51
+  doi: 10.1038/s41572-019-0099-7
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3621
+  legacy_id: null
+  title: Tandon R, Gaebel W, Barch DM, et al. Definition and description of schizophrenia in the DSM-5. Schizophr Res. 2013;150(1):3-10
+  citation: Tandon R, Gaebel W, Barch DM, et al. Definition and description of schizophrenia in the DSM-5. Schizophr Res. 2013;150(1):3-10
+  doi: 10.1016/j.schres.2013.05.028
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3622
+  legacy_id: null
+  title: Japanese Society of Neuropsychopharmacology. Guideline for pharmacological treatment of schizophrenia 2022. Neuropsychopharmacol Rep. 2025;45(1):e12497
+  citation: Japanese Society of Neuropsychopharmacology. Guideline for pharmacological treatment of schizophrenia 2022. Neuropsychopharmacol Rep. 2025;45(1):e12497
+  doi: 10.1002/npr2.12497
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3623
+  legacy_id: null
+  title: 'Kane J, Honigfeld G, Singer J, Meltzer H. Clozapine for the treatment-resistant schizophrenic: a double-blind comparison with chlorpromazine. Arch Gen Psychiatry. 1988;45(9):789-796'
+  citation: 'Kane J, Honigfeld G, Singer J, Meltzer H. Clozapine for the treatment-resistant schizophrenic: a double-blind comparison with chlorpromazine. Arch Gen Psychiatry. 1988;45(9):789-796'
+  doi: 10.1001/archpsyc.1988.01800330013001
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3624
+  legacy_id: null
+  title: Muñoz-Negro JE, Gómez-Sierra FJ, Peralta V, et al. A systematic review of studies with clinician-rated scales on the pharmacological treatment of delusional disorder. Int Clin Psychopharmacol. 2020;35(3):129-136
+  citation: Muñoz-Negro JE, Gómez-Sierra FJ, Peralta V, et al. A systematic review of studies with clinician-rated scales on the pharmacological treatment of delusional disorder. Int Clin Psychopharmacol. 2020;35(3):129-136
+  doi: 10.1097/YIC.0000000000000306
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3625
+  legacy_id: null
+  title: Castagnini AC, Fusar-Poli P. Diagnostic validity of ICD-10 acute and transient psychotic disorders and DSM-5 brief psychotic disorder. Eur Psychiatry. 2017;45:104-113
+  citation: Castagnini AC, Fusar-Poli P. Diagnostic validity of ICD-10 acute and transient psychotic disorders and DSM-5 brief psychotic disorder. Eur Psychiatry. 2017;45:104-113
+  doi: 10.1016/j.eurpsy.2017.05.028
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3626
+  legacy_id: null
+  title: Malaspina D, Owen MJ, Heckers S, et al. Schizoaffective disorder in the DSM-5. Schizophr Res. 2013;150(1):21-25
+  citation: Malaspina D, Owen MJ, Heckers S, et al. Schizoaffective disorder in the DSM-5. Schizophr Res. 2013;150(1):21-25
+  doi: 10.1016/j.schres.2013.04.026
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3627
+  legacy_id: null
+  title: Lam RW, Kennedy SH, Adams C, et al. Canadian Network for Mood and Anxiety Treatments (CANMAT) 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults. Can J Psychiatry. 2024;69(9):641-687
+  citation: Lam RW, Kennedy SH, Adams C, et al. Canadian Network for Mood and Anxiety Treatments (CANMAT) 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults. Can J Psychiatry. 2024;69(9):641-687
+  doi: 10.1177/07067437241245384
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3628
+  legacy_id: null
+  title: 'Cipriani A, Furukawa TA, Salanti G, et al. Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis. Lancet. 2018;391(10128):1357-1366'
+  citation: 'Cipriani A, Furukawa TA, Salanti G, et al. Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis. Lancet. 2018;391(10128):1357-1366'
+  doi: 10.1016/S0140-6736(17)32802-7
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3629
+  legacy_id: null
+  title: 日本うつ病学会（監修）, うつ病診療ガイドライン作成ワーキンググループ（編）. 日本うつ病学会 うつ病診療ガイドライン2025. 医学書院; 2026
+  citation: 日本うつ病学会（監修）, うつ病診療ガイドライン作成ワーキンググループ（編）. 日本うつ病学会 うつ病診療ガイドライン2025. 医学書院; 2026
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3630
+  legacy_id: null
+  title: Kato T, Ogasawara K, Motomura K, et al. Practice guidelines for bipolar disorder by the JSMD (Japanese Society of Mood Disorders). Psychiatry Clin Neurosci. 2024;78(11):633-645
+  citation: Kato T, Ogasawara K, Motomura K, et al. Practice guidelines for bipolar disorder by the JSMD (Japanese Society of Mood Disorders). Psychiatry Clin Neurosci. 2024;78(11):633-645
+  doi: 10.1111/pcn.13724
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
+- id: SRC-3631
+  legacy_id: null
+  title: Yatham LN, Kennedy SH, Parikh SV, et al. Canadian Network for Mood and Anxiety Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) 2018 guidelines for the management of patients with bipolar disorder. Bipolar Disord. 2018;20(2):97-170
+  citation: Yatham LN, Kennedy SH, Parikh SV, et al. Canadian Network for Mood and Anxiety Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) 2018 guidelines for the management of patients with bipolar disorder. Bipolar Disord. 2018;20(2):97-170
+  doi: 10.1111/bdi.12609
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/51_ps_a.md の出典マスター表から
