@@ -27165,6 +27165,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 旧版：『小児がん(血液腫瘍・固形腫瘍)診療ガイドライン 2026年版』に統合・改訂済み（Minds でも2016年版は「旧版」表示）。PB-014〜016 は2026年版で再照合し、出典を差し替える予定
 - id: SRC-2743
   legacy_id: null
   title: 'Minard-Colin V, Brugières L, Reiter A, et al. Non-Hodgkin Lymphoma in Children and Adolescents: Progress Through Effective Collaboration, Current Knowledge, and Challenges Ahead. J Clin Oncol. 2015;33(27):2963-2974'

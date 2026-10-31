@@ -20,3 +20,4 @@
 ## 対応（2026-10-31、Claude Code）
 
 - 合格のため取り込んだ。出典表に PMID・ライセンス表示の列がなかったので、`scripts/fill_sources_from_cards.py` で出典マスターの空欄をカードの provenance から写した。
+- 2026-10-31：作り手の訂正申し送り（`raw/41_hm_d_jspho_errata.md`）を受け、PB-014〜016 の uncertainty を案Bの文言に差し替えた（2016年版は旧版）。2026年版で再照合した差分（出典差し替え）を作り手に依頼する。
