@@ -158,9 +158,9 @@
 
 - 条件：region: 国際／対象: 早産のリスクがある妊婦
 - 不確実性：コクランレビュー（27試験、女性11,272例・新生児11,925例）の抄録で数値を確認した。出典のライセンス表示を確認できなかったため source_class は UNKNOWN とした。出生前ステロイドの国内承認：ベタメタゾン（リンデロン注）は「早産が予期される場合における、母体投与による胎児肺成熟を介した新生児呼吸窮迫症候群の発症抑制」の効能・効果で2009年11月に国内承認されており、保険適用がある（厚生労働省の適正使用協力依頼通知で確認）
-- 出典：Roberts D, Brown J, Medley N, Dalziel SR. Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth. Cochrane Database Syst Rev. 2020;(12):CD004454　[DOI 10.1002/14651858.CD004454.pub4](https://doi.org/10.1002/14651858.CD004454.pub4)　[PMID 33368142](https://pubmed.ncbi.nlm.nih.gov/33368142/)（区分 UNKNOWN）
+- 出典：McGoldrick E, Stewart F, Parker R, Dalziel SR. Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth. Cochrane Database Syst Rev. 2020;(12):CD004454　[DOI 10.1002/14651858.CD004454.pub4](https://doi.org/10.1002/14651858.CD004454.pub4)　[PMID 33368142](https://pubmed.ncbi.nlm.nih.gov/33368142/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅰ-1-B-②（早産、切迫早産、a）　コアカリ：PS-02-11-05 (id: JkxnuSU)；PS-02-11-04 (id: JkxnuSQ)；TBL-01-00-367 (id: JlvnmCM)；TBL-01-00-369 (id: JlvnmCY)；TBL-02-10-014 (id: JlAKpqs)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PG-012&card_id=PG-012&version=507fcca773)　（版 `507fcca773`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PG-012&card_id=PG-012&version=5a01d098b9)　（版 `5a01d098b9`）
 
 ### PG-013　下書き（出典の照合前）
 
@@ -182,7 +182,7 @@
 - 出題基準：医学各論 Ⅰ-1-B-②（早産、切迫早産、a）　コアカリ：PS-02-11-05 (id: JkxnuSU)；PS-02-11-04 (id: JkxnuSQ)；TBL-01-00-367 (id: JlvnmCM)；TBL-01-00-369 (id: JlvnmCY)；TBL-02-10-014 (id: JlAKpqs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PG-014&card_id=PG-014&version=03bb0ca53d)　（版 `03bb0ca53d`）
 
-**[ここまでの 3 件（PG-012〜PG-014）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PG-012%E3%80%9CPG-014&cards=PG-012%20507fcca773%0APG-013%20e687ce09a7%0APG-014%2003bb0ca53d)**
+**[ここまでの 3 件（PG-012〜PG-014）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PG-012%E3%80%9CPG-014&cards=PG-012%205a01d098b9%0APG-013%20e687ce09a7%0APG-014%2003bb0ca53d)**
 
 ---
 

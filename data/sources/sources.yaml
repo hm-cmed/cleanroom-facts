@@ -28409,8 +28409,8 @@
     change: 取り込み：raw/46_pn_a.md の出典マスター表から
 - id: SRC-3168
   legacy_id: null
-  title: Roberts D, Brown J, Medley N, Dalziel SR. Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth. Cochrane Database Syst Rev. 2020;(12):CD004454
-  citation: Roberts D, Brown J, Medley N, Dalziel SR. Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth. Cochrane Database Syst Rev. 2020;(12):CD004454
+  title: McGoldrick E, Stewart F, Parker R, Dalziel SR. Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth. Cochrane Database Syst Rev. 2020;(12):CD004454
+  citation: McGoldrick E, Stewart F, Parker R, Dalziel SR. Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth. Cochrane Database Syst Rev. 2020;(12):CD004454
   doi: 10.1002/14651858.CD004454.pub4
   pmid: null
   pmcid: null
@@ -29217,3 +29217,603 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3341
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists Committee on Clinical Practice Guidelines–Obstetrics. ACOG Clinical Practice Guideline No. 10: Intrapartum Fetal Heart Rate Monitoring: Interpretation and Management. Obstet Gynecol. 2025;146(4):583-599'
+  citation: 'American College of Obstetricians and Gynecologists Committee on Clinical Practice Guidelines–Obstetrics. ACOG Clinical Practice Guideline No. 10: Intrapartum Fetal Heart Rate Monitoring: Interpretation and Management. Obstet Gynecol. 2025;146(4):583-599'
+  doi: 10.1097/AOG.0000000000006049
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3342
+  legacy_id: null
+  title: 'Ayres-de-Campos D, Spong CY, Chandraharan E; FIGO Intrapartum Fetal Monitoring Expert Consensus Panel. FIGO consensus guidelines on intrapartum fetal monitoring: Cardiotocography. Int J Gynaecol Obstet. 2015;131(1):13-24'
+  citation: 'Ayres-de-Campos D, Spong CY, Chandraharan E; FIGO Intrapartum Fetal Monitoring Expert Consensus Panel. FIGO consensus guidelines on intrapartum fetal monitoring: Cardiotocography. Int J Gynaecol Obstet. 2015;131(1):13-24'
+  doi: 10.1016/j.ijgo.2015.06.020
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3343
+  legacy_id: null
+  title: 'Hayashi M, Nakai A, Sekiguchi A, Takeshita T. Fetal heart rate classification proposed by the perinatology committee of the Japan Society of Obstetrics and Gynecology: reproducibility and clinical usefulness. J Nippon Med Sch. 2012;79(1):60-68'
+  citation: 'Hayashi M, Nakai A, Sekiguchi A, Takeshita T. Fetal heart rate classification proposed by the perinatology committee of the Japan Society of Obstetrics and Gynecology: reproducibility and clinical usefulness. J Nippon Med Sch. 2012;79(1):60-68'
+  doi: 10.1272/jnms.79.60
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3344
+  legacy_id: null
+  title: Quintero RA, Morales WJ, Allen MH, Bornick PW, Johnson PK, Kruger M. Staging of twin-twin transfusion syndrome. J Perinatol. 1999;19(8 Pt 1):550-555
+  citation: Quintero RA, Morales WJ, Allen MH, Bornick PW, Johnson PK, Kruger M. Staging of twin-twin transfusion syndrome. J Perinatol. 1999;19(8 Pt 1):550-555
+  doi: 10.1038/sj.jp.7200292
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3345
+  legacy_id: null
+  title: 'Society for Maternal-Fetal Medicine; Miller RS, Miller JL, Monson MA, et al. Society for Maternal-Fetal Medicine Consult Series #72: Twin-twin transfusion syndrome and twin anemia-polycythemia sequence. Am J Obstet Gynecol. 2024;231(4):B16-B37'
+  citation: 'Society for Maternal-Fetal Medicine; Miller RS, Miller JL, Monson MA, et al. Society for Maternal-Fetal Medicine Consult Series #72: Twin-twin transfusion syndrome and twin anemia-polycythemia sequence. Am J Obstet Gynecol. 2024;231(4):B16-B37'
+  doi: 10.1016/j.ajog.2024.07.017
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3346
+  legacy_id: null
+  title: 'Gordijn SJ, Beune IM, Thilaganathan B, et al. Consensus definition of fetal growth restriction: a Delphi procedure. Ultrasound Obstet Gynecol. 2016;48(3):333-339'
+  citation: 'Gordijn SJ, Beune IM, Thilaganathan B, et al. Consensus definition of fetal growth restriction: a Delphi procedure. Ultrasound Obstet Gynecol. 2016;48(3):333-339'
+  doi: 10.1002/uog.15884
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3347
+  legacy_id: null
+  title: 'Melamed N, Baschat A, Yinon Y, et al. FIGO (international Federation of Gynecology and Obstetrics) initiative on fetal growth: best practice advice for screening, diagnosis, and management of fetal growth restriction. Int J Gynaecol Obstet. 2021;152(Suppl 1):3-57'
+  citation: 'Melamed N, Baschat A, Yinon Y, et al. FIGO (international Federation of Gynecology and Obstetrics) initiative on fetal growth: best practice advice for screening, diagnosis, and management of fetal growth restriction. Int J Gynaecol Obstet. 2021;152(Suppl 1):3-57'
+  doi: 10.1002/ijgo.13522
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3348
+  legacy_id: null
+  title: Mari G, Deter RL, Carpenter RL, et al.; Collaborative Group for Doppler Assessment of the Blood Velocity in Anemic Fetuses. Noninvasive diagnosis by Doppler ultrasonography of fetal anemia due to maternal red-cell alloimmunization. N Engl J Med. 2000;342(1):9-14
+  citation: Mari G, Deter RL, Carpenter RL, et al.; Collaborative Group for Doppler Assessment of the Blood Velocity in Anemic Fetuses. Noninvasive diagnosis by Doppler ultrasonography of fetal anemia due to maternal red-cell alloimmunization. N Engl J Med. 2000;342(1):9-14
+  doi: 10.1056/NEJM200001063420102
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3349
+  legacy_id: null
+  title: Wylie BJ, D'Alton ME. Fetomaternal hemorrhage. Obstet Gynecol. 2010;115(5):1039-1051
+  citation: Wylie BJ, D'Alton ME. Fetomaternal hemorrhage. Obstet Gynecol. 2010;115(5):1039-1051
+  doi: 10.1097/AOG.0b013e3181da7929
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3350
+  legacy_id: null
+  title: Triebwasser JE, Treadwell MC. Prenatal prediction of pulmonary hypoplasia. Semin Fetal Neonatal Med. 2017;22(4):245-249
+  citation: Triebwasser JE, Treadwell MC. Prenatal prediction of pulmonary hypoplasia. Semin Fetal Neonatal Med. 2017;22(4):245-249
+  doi: 10.1016/j.siny.2017.03.001
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3351
+  legacy_id: null
+  title: Moise KJ Jr, Markham KB, Spinella PC, et al. A Clinical Practice Guideline for the Management of Pregnancy Alloimmunized to Red Blood Cell Antigens. JAMA Netw Open. 2025;8(11):e2544649
+  citation: Moise KJ Jr, Markham KB, Spinella PC, et al. A Clinical Practice Guideline for the Management of Pregnancy Alloimmunized to Red Blood Cell Antigens. JAMA Netw Open. 2025;8(11):e2544649
+  doi: 10.1001/jamanetworkopen.2025.44649
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3352
+  legacy_id: null
+  title: 'Salomon LJ, Alfirevic Z, Berghella V, et al. ISUOG Practice Guidelines (updated): performance of the routine mid-trimester fetal ultrasound scan. Ultrasound Obstet Gynecol. 2022;59(6):840-856'
+  citation: 'Salomon LJ, Alfirevic Z, Berghella V, et al. ISUOG Practice Guidelines (updated): performance of the routine mid-trimester fetal ultrasound scan. Ultrasound Obstet Gynecol. 2022;59(6):840-856'
+  doi: 10.1002/uog.24888
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3353
+  legacy_id: null
+  title: 'Society for Maternal-Fetal Medicine; Sparks TN, Norton ME, et al. Society for Maternal-Fetal Medicine Consult Series #75: Evaluation and management of non-immune hydrops fetalis. Pregnancy (Hoboken). 2026;2(2)'
+  citation: 'Society for Maternal-Fetal Medicine; Sparks TN, Norton ME, et al. Society for Maternal-Fetal Medicine Consult Series #75: Evaluation and management of non-immune hydrops fetalis. Pregnancy (Hoboken). 2026;2(2)'
+  doi: 10.1002/pmf2.70208
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3354
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists; Society for Maternal-Fetal Medicine. Management of Stillbirth: Obstetric Care Consensus No. 10. Obstet Gynecol. 2020;135(3):e110-e132'
+  citation: 'American College of Obstetricians and Gynecologists; Society for Maternal-Fetal Medicine. Management of Stillbirth: Obstetric Care Consensus No. 10. Obstet Gynecol. 2020;135(3):e110-e132'
+  doi: 10.1097/AOG.0000000000003719
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3355
+  legacy_id: null
+  title: 'Lee HC, Strand ML, Finan E, et al. Part 5: Neonatal Resuscitation: 2025 American Heart Association and American Academy of Pediatrics Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation. 2025;152(16_suppl_2):S385-S423'
+  citation: 'Lee HC, Strand ML, Finan E, et al. Part 5: Neonatal Resuscitation: 2025 American Heart Association and American Academy of Pediatrics Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation. 2025;152(16_suppl_2):S385-S423'
+  doi: 10.1161/CIR.0000000000001367
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3356
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists; American Academy of Pediatrics. Committee Opinion No. 644: The Apgar Score. Obstet Gynecol. 2015;126(4):e52-e55'
+  citation: 'American College of Obstetricians and Gynecologists; American Academy of Pediatrics. Committee Opinion No. 644: The Apgar Score. Obstet Gynecol. 2015;126(4):e52-e55'
+  doi: 10.1097/AOG.0000000000001108
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3357
+  legacy_id: null
+  title: 'Ohuma EO, Moller AB, Bradley E, et al. National, regional, and global estimates of preterm birth in 2020, with trends from 2010: a systematic analysis. Lancet. 2023;402(10409):1261-1271'
+  citation: 'Ohuma EO, Moller AB, Bradley E, et al. National, regional, and global estimates of preterm birth in 2020, with trends from 2010: a systematic analysis. Lancet. 2023;402(10409):1261-1271'
+  doi: 10.1016/S0140-6736(23)00878-4
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3358
+  legacy_id: null
+  title: '厚生労働省. 人口動態統計 確定数 出生 表4-28（性・単産−複産別にみた母の年齢（5歳階級）別出生数・2,500g未満の出生数及び割合）. 統計表ID: 0003411617（e-Stat）'
+  citation: '厚生労働省. 人口動態統計 確定数 出生 表4-28（性・単産−複産別にみた母の年齢（5歳階級）別出生数・2,500g未満の出生数及び割合）. 統計表ID: 0003411617（e-Stat）'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3359
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. Macrosomia: ACOG Practice Bulletin, Number 216. Obstet Gynecol. 2020;135(1):e18-e35'
+  citation: 'American College of Obstetricians and Gynecologists. Macrosomia: ACOG Practice Bulletin, Number 216. Obstet Gynecol. 2020;135(1):e18-e35'
+  doi: 10.1097/AOG.0000000000003606
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3360
+  legacy_id: null
+  title: 'Sweet DG, Carnielli VP, Greisen G, et al. European Consensus Guidelines on the Management of Respiratory Distress Syndrome: 2025. Neonatology. 2026;123(4):514-539'
+  citation: 'Sweet DG, Carnielli VP, Greisen G, et al. European Consensus Guidelines on the Management of Respiratory Distress Syndrome: 2025. Neonatology. 2026;123(4):514-539'
+  doi: 10.1159/000551062
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3361
+  legacy_id: null
+  title: 'Silveira RC, Panceri C, Muñoz NP, et al. Less invasive surfactant administration versus intubation-surfactant-extubation in the treatment of neonatal respiratory distress syndrome: a systematic review and meta-analyses. J Pediatr (Rio J). 2024;100(1):8-24'
+  citation: 'Silveira RC, Panceri C, Muñoz NP, et al. Less invasive surfactant administration versus intubation-surfactant-extubation in the treatment of neonatal respiratory distress syndrome: a systematic review and meta-analyses. J Pediatr (Rio J). 2024;100(1):8-24'
+  doi: 10.1016/j.jped.2023.05.008
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3362
+  legacy_id: null
+  title: 'Dini G, Ceccarelli S, Celi F, Semeraro CM, Gorello P, Verrotti A. Meconium aspiration syndrome: from pathophysiology to treatment. Ann Med Surg (Lond). 2024;86(4):2023-2031'
+  citation: 'Dini G, Ceccarelli S, Celi F, Semeraro CM, Gorello P, Verrotti A. Meconium aspiration syndrome: from pathophysiology to treatment. Ann Med Surg (Lond). 2024;86(4):2023-2031'
+  doi: 10.1097/MS9.0000000000001835
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3363
+  legacy_id: null
+  title: Alhassen Z, Vali P, Guglani L, Lakshminrusimha S, Ryan RM. Recent Advances in Pathophysiology and Management of Transient Tachypnea of Newborn. J Perinatol. 2021;41(1):6-16
+  citation: Alhassen Z, Vali P, Guglani L, Lakshminrusimha S, Ryan RM. Recent Advances in Pathophysiology and Management of Transient Tachypnea of Newborn. J Perinatol. 2021;41(1):6-16
+  doi: 10.1038/s41372-020-0757-3
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3364
+  legacy_id: null
+  title: Schmidt B, Roberts RS, Davis P, et al.; Caffeine for Apnea of Prematurity Trial Group. Caffeine therapy for apnea of prematurity. N Engl J Med. 2006;354(20):2112-2121
+  citation: Schmidt B, Roberts RS, Davis P, et al.; Caffeine for Apnea of Prematurity Trial Group. Caffeine therapy for apnea of prematurity. N Engl J Med. 2006;354(20):2112-2121
+  doi: 10.1056/NEJMoa054065
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3365
+  legacy_id: null
+  title: Ogawa Y. Chronic lung disease of the very low birth weight infant--is it preventable? Turk J Pediatr. 1998;40(1):35-44
+  citation: Ogawa Y. Chronic lung disease of the very low birth weight infant--is it preventable? Turk J Pediatr. 1998;40(1):35-44
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/48_pn_c.md の出典マスター表から
+- id: SRC-3431
+  legacy_id: null
+  title: 'Kemper AR, Newman TB, Slaughter JL, et al. Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation. Pediatrics. 2022;150(3):e2022058859'
+  citation: 'Kemper AR, Newman TB, Slaughter JL, et al. Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation. Pediatrics. 2022;150(3):e2022058859'
+  doi: 10.1542/peds.2022-058859
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/49_pn_d.md の出典マスター表から
+- id: SRC-3432
+  legacy_id: null
+  title: 'Morioka I. Hyperbilirubinemia in preterm infants in Japan: New treatment criteria. Pediatr Int. 2018;60(8):684-690'
+  citation: 'Morioka I. Hyperbilirubinemia in preterm infants in Japan: New treatment criteria. Pediatr Int. 2018;60(8):684-690'
+  doi: 10.1111/ped.13635
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/49_pn_d.md の出典マスター表から
+- id: SRC-3433
+  legacy_id: null
+  title: Zwiers C, Scheffer-Rath ME, Lopriore E, de Haas M, Liley HG. Immunoglobulin for alloimmune hemolytic disease in neonates. Cochrane Database Syst Rev. 2018;(3):CD003313
+  citation: Zwiers C, Scheffer-Rath ME, Lopriore E, de Haas M, Liley HG. Immunoglobulin for alloimmune hemolytic disease in neonates. Cochrane Database Syst Rev. 2018;(3):CD003313
+  doi: 10.1002/14651858.CD003313.pub2
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/49_pn_d.md の出典マスター表から
+- id: SRC-3434
+  legacy_id: null
+  title: Committee on Fetus and Newborn, Adamkin DH. Postnatal glucose homeostasis in late-preterm and term infants. Pediatrics. 2011;127(3):575-579
+  citation: Committee on Fetus and Newborn, Adamkin DH. Postnatal glucose homeostasis in late-preterm and term infants. Pediatrics. 2011;127(3):575-579
+  doi: 10.1542/peds.2010-3851
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/49_pn_d.md の出典マスター表から
+- id: SRC-3435
+  legacy_id: null
+  title: 'Vuralli D. Clinical Approach to Hypocalcemia in Newborn Period and Infancy: Who Should Be Treated? Int J Endocrinol. 2019;2019:4318075'
+  citation: 'Vuralli D. Clinical Approach to Hypocalcemia in Newborn Period and Infancy: Who Should Be Treated? Int J Endocrinol. 2019;2019:4318075'
+  doi: 10.1155/2019/4318075
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/49_pn_d.md の出典マスター表から
+- id: SRC-3436
+  legacy_id: null
+  title: Puopolo KM, Benitz WE, Zaoutis TE; Committee on Fetus and Newborn; Committee on Infectious Diseases. Management of Neonates Born at ≥35 0/7 Weeks' Gestation With Suspected or Proven Early-Onset Bacterial Sepsis. Pediatrics. 2018;142(6):e20182894
+  citation: Puopolo KM, Benitz WE, Zaoutis TE; Committee on Fetus and Newborn; Committee on Infectious Diseases. Management of Neonates Born at ≥35 0/7 Weeks' Gestation With Suspected or Proven Early-Onset Bacterial Sepsis. Pediatrics. 2018;142(6):e20182894
+  doi: 10.1542/peds.2018-2894
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/49_pn_d.md の出典マスター表から
+- id: SRC-3437
+  legacy_id: null
+  title: Puopolo KM, Lynfield R, Cummings JJ; Committee on Fetus and Newborn; Committee on Infectious Diseases. Management of Infants at Risk for Group B Streptococcal Disease. Pediatrics. 2019;144(2):e20191881
+  citation: Puopolo KM, Lynfield R, Cummings JJ; Committee on Fetus and Newborn; Committee on Infectious Diseases. Management of Infants at Risk for Group B Streptococcal Disease. Pediatrics. 2019;144(2):e20191881
+  doi: 10.1542/peds.2019-1881
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/49_pn_d.md の出典マスター表から
+- id: SRC-3438
+  legacy_id: null
+  title: Hand I, Noble L, Abrams SA; Committee on Fetus and Newborn; Section on Breastfeeding. Vitamin K and the Newborn Infant. Pediatrics. 2022;149(3):e2021056036
+  citation: Hand I, Noble L, Abrams SA; Committee on Fetus and Newborn; Section on Breastfeeding. Vitamin K and the Newborn Infant. Pediatrics. 2022;149(3):e2021056036
+  doi: 10.1542/peds.2021-056036
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/49_pn_d.md の出典マスター表から
+- id: SRC-3439
+  legacy_id: null
+  title: 'Ballabh P. Intraventricular hemorrhage in premature infants: mechanism of disease. Pediatr Res. 2010;67(1):1-8'
+  citation: 'Ballabh P. Intraventricular hemorrhage in premature infants: mechanism of disease. Pediatr Res. 2010;67(1):1-8'
+  doi: 10.1203/PDR.0b013e3181c1b176
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/49_pn_d.md の出典マスター表から
+- id: SRC-3440
+  legacy_id: null
+  title: 'Colditz MJ, Lai MM, Cartwright DW, Colditz PB. Subgaleal haemorrhage in the newborn: A call for early diagnosis and aggressive management. J Paediatr Child Health. 2015;51(2):140-146'
+  citation: 'Colditz MJ, Lai MM, Cartwright DW, Colditz PB. Subgaleal haemorrhage in the newborn: A call for early diagnosis and aggressive management. J Paediatr Child Health. 2015;51(2):140-146'
+  doi: 10.1111/jpc.12698
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/49_pn_d.md の出典マスター表から
+- id: SRC-3441
+  legacy_id: null
+  title: Urban S, Pearce J, Malcolm N, Eskandari R. A calcified cephalohematoma in a 1-month-old infant requiring surgery. SAGE Open Med Case Rep. 2025;13:2050313X251401111
+  citation: Urban S, Pearce J, Malcolm N, Eskandari R. A calcified cephalohematoma in a 1-month-old infant requiring surgery. SAGE Open Med Case Rep. 2025;13:2050313X251401111
+  doi: 10.1177/2050313X251401111
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/49_pn_d.md の出典マスター表から
+- id: SRC-3442
+  legacy_id: null
+  title: 'Lunze K, Bloom DE, Jamison DT, Hamer DH. The global burden of neonatal hypothermia: systematic review of a major challenge for newborn survival. BMC Med. 2013;11:24'
+  citation: 'Lunze K, Bloom DE, Jamison DT, Hamer DH. The global burden of neonatal hypothermia: systematic review of a major challenge for newborn survival. BMC Med. 2013;11:24'
+  doi: 10.1186/1741-7015-11-24
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/49_pn_d.md の出典マスター表から
+- id: SRC-3443
+  legacy_id: null
+  title: Kirpalani H, Bell EF, Hintz SR, et al. Higher or Lower Hemoglobin Transfusion Thresholds for Preterm Infants. N Engl J Med. 2020;383(27):2639-2651
+  citation: Kirpalani H, Bell EF, Hintz SR, et al. Higher or Lower Hemoglobin Transfusion Thresholds for Preterm Infants. N Engl J Med. 2020;383(27):2639-2651
+  doi: 10.1056/NEJMoa2020248
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/49_pn_d.md の出典マスター表から
+- id: SRC-3444
+  legacy_id: null
+  title: 'Suleiman FA, Almaaitah AA, Aqrabawi HE. Upper limb birth trauma in a Jordanian population: a prospective study at King Hussein Medical Centre, Amman, Jordan. J Pak Med Assoc. 2016;66(11):1422-1426'
+  citation: 'Suleiman FA, Almaaitah AA, Aqrabawi HE. Upper limb birth trauma in a Jordanian population: a prospective study at King Hussein Medical Centre, Amman, Jordan. J Pak Med Assoc. 2016;66(11):1422-1426'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/49_pn_d.md の出典マスター表から
+- id: SRC-3445
+  legacy_id: null
+  title: Bell MJ, Ternberg JL, Feigin RD, et al. Neonatal necrotizing enterocolitis. Therapeutic decisions based upon clinical staging. Ann Surg. 1978;187(1):1-7
+  citation: Bell MJ, Ternberg JL, Feigin RD, et al. Neonatal necrotizing enterocolitis. Therapeutic decisions based upon clinical staging. Ann Surg. 1978;187(1):1-7
+  doi: 10.1097/00000658-197801000-00001
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/49_pn_d.md の出典マスター表から

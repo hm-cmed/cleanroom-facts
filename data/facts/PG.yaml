@@ -395,7 +395,7 @@
     common_misconception: null
   provenance:
     source_ref: SRC-3168
-    source: Roberts D, Brown J, Medley N, Dalziel SR. Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth. Cochrane Database Syst Rev. 2020;(12):CD004454
+    source: McGoldrick E, Stewart F, Parker R, Dalziel SR. Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth. Cochrane Database Syst Rev. 2020;(12):CD004454
     doi: 10.1002/14651858.CD004454.pub4
     pmid: '33368142'
     pmcid: PMC8094626
@@ -418,6 +418,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/46_pn_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 出典の著者名を訂正（Roberts D ら → McGoldrick E ら）。DOI 10.1002/14651858.CD004454.pub4（2020年版）の著者は PMC の書誌（PMC8094626）で McGoldrick ら。Roberts ら は2017年版（pub3）の著者。作り手（第48回）の申し送りによる
 - id: PG-013
   domain: PG
   subdomain: 早産、切迫早産
