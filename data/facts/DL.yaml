@@ -1,0 +1,875 @@
+- id: DL-001
+  domain: DL
+  subdomain: 微弱陣痛、過強陣痛
+  assertion:
+    plain_statement_ja: 米国ACOGの分娩管理ガイドライン（2024）では、分娩第1期の活動期は子宮口6 cm開大からとし、潜伏期の遷延のみを理由とする帝王切開は避ける。第1期の進行遷延に対しては、オキシトシンによる陣痛増強が推奨される
+    condition:
+      region: 米国
+      対象: 分娩中の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3263
+    source: 'American College of Obstetricians and Gynecologists. First and Second Stage Labor Management: Clinical Practice Guideline No. 8. Obstet Gynecol. 2024;143(1):144-162'
+    doi: 10.1097/AOG.0000000000005447
+    pmid: '38096556'
+    pmcid: null
+    url: https://doi.org/10.1097/AOG.0000000000005447
+    source_license: CC 表示なし（© ACOG）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 「微弱陣痛」そのものの収縮回数・持続時間による国内定義は確認できなかった。日本の対応は産科編2026のCQ404（微弱陣痛による分娩進行遷延時の対応）が受け皿となるが、刊行版の本文は未照合。オキシトシンおよびプロスタグランジン製剤はいずれも国内承認・保険適用がある（出典リサーチで確認）
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-B-①（微弱陣痛、過強陣痛、b）
+    core_curriculum: 'PS-02-11-01 (id: JkxnuSE)；PS-02-11-05 (id: JkxnuSU)；TBL-01-00-370 (id: JlvnmCc)；TBL-02-10-004 (id: JlAKpqE)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-002
+  domain: DL
+  subdomain: 微弱陣痛、過強陣痛
+  assertion:
+    plain_statement_ja: 子宮頻収縮（tachysystole）は、30分で平均して10分間に5回を超える子宮収縮と定義され、胎児心拍数減少の有無を併記して評価する（NICHDの2008年ワークショップ報告）。「過刺激（hyperstimulation）」などの用語は定義が曖昧であるため用いないことが示された
+    condition:
+      region: 米国
+      対象: 分娩中の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3264
+    source: 'Macones GA, Hankins GDV, Spong CY, Hauth J, Moore T. The 2008 National Institute of Child Health and Human Development workshop report on electronic fetal monitoring: update on definitions, interpretation, and research guidelines. Obstet Gynecol. 2008;112(3):661-666'
+    doi: 10.1097/AOG.0b013e3181841395
+    pmid: '18757666'
+    pmcid: null
+    url: https://doi.org/10.1097/AOG.0b013e3181841395
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: '本定義は米国の分娩時モニタリングの用語標準であり、日本語の「過強陣痛」との厳密な用語対応は国内資料で未確認。子宮収縮薬の減量・中止の具体的基準は産科編2026のCQ413群（刊行版未照合）に委ねられる。同報告には J Obstet Gynecol Neonatal Nurs 同時掲載版（DOI: 10.1111/j.1552-6909.2008.00284.x）があり、本カードは Obstet Gynecol 版の識別子でそろえた'
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-B-①（微弱陣痛、過強陣痛、b）
+    core_curriculum: 'PS-02-11-01 (id: JkxnuSE)；PS-02-11-05 (id: JkxnuSU)；TBL-01-00-370 (id: JlvnmCc)；TBL-02-10-004 (id: JlAKpqE)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-003
+  domain: DL
+  subdomain: 児頭骨盤不均衡<CPD>、狭骨盤
+  assertion:
+    plain_statement_ja: 児頭骨盤不均衡（CPD）は、胎児頭と母体骨盤の大きさの不釣り合いによる機械的な分娩進行障害であり、未処置では閉塞性分娩となり母児双方を危険にさらす。画像による骨盤計測（radiologic pelvimetry）は分娩転帰との相関が低く予測能に乏しい一方、臨床的な骨盤診査にはなお位置づけがある
+    condition:
+      region: 国際
+      対象: 分娩中の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3265
+    source: 'Maharaj D. Assessing cephalopelvic disproportion: back to the basics. Obstet Gynecol Surv. 2010;65(6):387-395'
+    doi: 10.1097/OGX.0b013e3181ecdf0c
+    pmid: '20633305'
+    pmcid: null
+    url: https://doi.org/10.1097/OGX.0b013e3181ecdf0c
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: CPD・狭骨盤に特化した現行ガイドラインは確認できず、本カードは2010年の総説に基づく。日本での評価・分娩様式の判断は産科編2026の分娩管理CQ群（刊行版未照合）で確認が必要
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-C-①（児頭骨盤不均衡<CPD>、狭骨盤、b）
+    core_curriculum: 'PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)；TBL-02-10-016 (id: JlAKpq0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-004
+  domain: DL
+  subdomain: 骨盤位、横位
+  assertion:
+    plain_statement_ja: 正期産単胎骨盤位の分娩様式は、本人の希望と術者の経験を考慮して決める。頭位での経腟分娩を希望し禁忌がない妊婦には、予定帝王切開の代替として外回転術を提示すべきであり、外回転術は帝王切開が直ちに可能な施設でのみ試みる。施設のプロトコルに沿えば計画的な経腟骨盤位分娩も妥当な選択肢となりうるが、その場合はリスクについて文書による詳細な説明と同意が必要である
+    condition:
+      region: 米国
+      対象: 正期産単胎骨盤位の妊婦
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3266
+    source: 'American College of Obstetricians and Gynecologists. Mode of Term Singleton Breech Delivery: Committee Opinion No. 745. Obstet Gynecol. 2018;132(2):e60-e63'
+    doi: 10.1097/AOG.0000000000002755
+    pmid: '30045211'
+    pmcid: null
+    url: https://doi.org/10.1097/AOG.0000000000002755
+    source_license: CC 表示なし（© ACOG）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 本意見書（2018年、2023年 reaffirmed）の対象は骨盤位であり、横位そのものを扱う単独の現行ガイドラインは確認できなかった（横位は臍帯脱出の予防・対応の文脈で DL-008 と接点がある）。日本で骨盤位経腟分娩を選択する条件は産科編2026のCQ402（刊行版未照合）に委ねられる
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-D-①（骨盤位、横位、b）
+    core_curriculum: 'PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)；TBL-02-10-016 (id: JlAKpq0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-005
+  domain: DL
+  subdomain: 骨盤位、横位
+  assertion:
+    plain_statement_ja: 正期産の骨盤位に対する外回転術の試行は、出生時の非頭位提示、頭位経腟分娩の不達成、帝王切開をいずれも減らす（Cochrane系統的レビュー、2015年版）
+    condition:
+      region: 国際
+      対象: 正期産骨盤位の妊婦
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3267
+    source: Hofmeyr GJ, Kulier R, West HM. External cephalic version for breech presentation at term. Cochrane Database Syst Rev. 2015;(4):CD000083
+    doi: 10.1002/14651858.CD000083.pub3
+    pmid: '25828903'
+    pmcid: PMC6505738
+    url: https://doi.org/10.1002/14651858.CD000083.pub3
+    source_license: © Cochrane Collaboration（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 合併症は大規模観察研究ではまれとされるが、本カードは本レビューの抄録で確認した範囲に基づく。国内の実施要件（緊急帝王切開が可能な体制、児の成熟など）は産科編2026のCQ402（刊行版未照合）で確認が必要。計画的帝王切開と経腟分娩を比べた別のCochraneレビュー（CD000166）とは混同しない
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-D-①（骨盤位、横位、b）
+    core_curriculum: 'PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)；TBL-02-10-016 (id: JlAKpq0)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-006
+  domain: DL
+  subdomain: 後方後頭位、低在横定位、高在縦定位
+  assertion:
+    plain_statement_ja: 分娩中に後頭後方位（OP）と診断されても大半は自然に前方へ回旋し、出生時までOPのままであるのは診断例の4〜5%であり、後頭横方位（OT）では3〜8%である。OP・OTは分娩停止と器械分娩の主因のひとつであり、内診による胎向の臨床診断は不正確なことが多いため、経腹超音波による評価が標準的とされる。児頭下降度の指標として、angle of progression 116°超が児頭の嵌入を示唆し、head-perineum distance 35〜38 mmが嵌入の目安になる
+    condition:
+      region: 国際
+      対象: 分娩中の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3268
+    source: Dall'Asta A, et al. Intrapartum Ultrasound Guidance to Make Safer Any Obstetric Intervention. Clin Obstet Gynecol. 2024;67(4):730-738
+    doi: 10.1097/GRF.0000000000000891
+    pmid: '39431493'
+    pmcid: PMC11495479
+    url: https://doi.org/10.1097/GRF.0000000000000891
+    source_license: CC BY 4.0（PMC 本文で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 数値は出典の本文から読み取った（表・本文から読み取り）。「低在横定位」「高在縦定位」という下降度と胎向を組み合わせた日本の複合概念に直接対応する英語資料はなく、本カードは胎向評価と下降度指標に分解した内容に基づく。用手回転の予防的実施は自然経腟分娩率を上げなかったとする系統的レビュー（Burd 2022）があり、回旋異常への介入判断は別途検討が要る
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-E-①（後方後頭位、低在横定位、高在縦定位、b）
+    core_curriculum: 'PS-02-11-05 (id: JkxnuSU)；TBL-01-00-372 (id: JlvnmCo)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-007
+  domain: DL
+  subdomain: 不正軸進入
+  assertion:
+    plain_statement_ja: 不正軸進入（asynclitism）は分娩中の胎児頭の斜めの異常位置であり、軽度のものは骨盤径への適応として通常みられるが、著明なものは遷延・閉塞性分娩、器械分娩、帝王切開の原因のひとつとなり、横方位・後頭後方位などの胎頭異常位置に伴うことが多い。内診による従来の診断はバイアスが大きく、分娩時超音波（経腹・経会陰）の方が正確であることを示す証拠が蓄積している
+    condition:
+      region: 国際
+      対象: 分娩中の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3269
+    source: 'Malvasi A, et al. Asynclitism and Its Ultrasonographic Rediscovery in Labor Room to Date: A Systematic Review. Diagnostics (Basel). 2022;12(12):2998'
+    doi: 10.3390/diagnostics12122998
+    pmid: '36553005'
+    pmcid: PMC9776610
+    url: https://doi.org/10.3390/diagnostics12122998
+    source_license: CC BY（PMC 本文で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 日本語の「不正軸進入」と asynclitism の用語対応は本総説（および Malvasi 2015 の定義）に基づく。国内ガイドラインで不正軸進入を正面から扱う資料は確認できなかった
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-E-②（不正軸進入、c）
+    core_curriculum: 'PS-02-11-05 (id: JkxnuSU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-008
+  domain: DL
+  subdomain: 臍帯下垂、臍帯脱出
+  assertion:
+    plain_statement_ja: 臍帯脱出の発生率は全分娩の0.1〜0.6%で、非頭位・多胎・早産で高く、人工破膜などの医原性が最大で約50%を占める。診断後は分娩を急ぐのが原則で、通常は帝王切開とし、診断から分娩までの間隔は30分未満が理想とされる。分娩までの間、臍帯圧迫の解除には用手による先進部の挙上と膀胱充満（500〜700 mL）を用い、臍帯の過度の操作は血管攣縮を招くため避ける
+    condition:
+      region: 国際
+      対象: 分娩中・破水後の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3270
+    source: Sayed Ahmed WA, Hamdy MA. Optimal management of umbilical cord prolapse. Int J Womens Health. 2018;10:459-465
+    doi: 10.2147/IJWH.S130879
+    pmid: '30174462'
+    pmcid: PMC6109652
+    url: https://doi.org/10.2147/IJWH.S130879
+    source_license: CC BY-NC 3.0（PMC 本文で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 用語対応は本論文の定義に基づく（cord presentation が臍帯下垂に相当し破水の有無を問わない、prolapse が臍帯脱出）。国内の定義（破水の有無による区別）と完全一致するかは国内資料で未確認。診断から分娩まで30分未満という目標は RCOG Green-top Guideline No. 50（2014）の推奨として本論文が引用したもので、同ガイドライン自体の現行性は未確認のため出典にはしていない。横位・斜位・不安定胎位では37週0日以降の入院を協議するという予防の接点も同ガイドラインに基づく
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-G-①（臍帯下垂、臍帯脱出、c）
+    core_curriculum: 'PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-009
+  domain: DL
+  subdomain: 遷延分娩、分娩停止、肩甲難産
+  assertion:
+    plain_statement_ja: 分娩第1期活動期の停止は、子宮口6 cm以上開大し破水している状態で、十分な子宮収縮のもと4時間、またはオキシトシン増強下で収縮が不十分なまま6時間、頸管開大が進まないことと定義される（ACOG分娩管理ガイドライン、2024）。分娩第2期遷延の目安は、努責が未産婦で3時間を超える場合、経産婦で2時間を超える場合である
+    condition:
+      region: 米国
+      対象: 分娩中の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3263
+    source: 'American College of Obstetricians and Gynecologists. First and Second Stage Labor Management: Clinical Practice Guideline No. 8. Obstet Gynecol. 2024;143(1):144-162'
+    doi: 10.1097/AOG.0000000000005447
+    pmid: '38096556'
+    pmcid: null
+    url: https://doi.org/10.1097/AOG.0000000000005447
+    source_license: CC 表示なし（© ACOG）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 「十分な子宮収縮」の目安（子宮内圧カテーテルで200 Montevideo units超）は二次要約経由で確認した。日本における分娩遷延・停止の定義と帝王切開への移行判断は産科編2026（刊行版未照合）に委ねられる。オキシトシンは国内承認・保険適用がある
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-H-①（遷延分娩、分娩停止、肩甲難産、b）
+    core_curriculum: 'PS-02-11-05 (id: JkxnuSU)；TBL-01-00-371 (id: JlvnmCk)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-010
+  domain: DL
+  subdomain: 遷延分娩、分娩停止、肩甲難産
+  assertion:
+    plain_statement_ja: 肩甲難産は、児頭娩出後に通常の下方牽引では肩甲が娩出せず追加の産科手技を要する状態であり、頭位経腟分娩の0.2〜3%に起こる。予測も予防もできない産科緊急事態と位置づけられ、初期対応はMcRoberts手技と恥骨上圧迫であり、子宮底圧迫は避ける
+    condition:
+      region: 米国
+      対象: 経腟分娩中の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3271
+    source: 'American College of Obstetricians and Gynecologists. Shoulder Dystocia: Practice Bulletin No. 178. Obstet Gynecol. 2017;129(5):e123-e133'
+    doi: 10.1097/AOG.0000000000002043
+    pmid: '28426618'
+    pmcid: null
+    url: https://doi.org/10.1097/AOG.0000000000002043
+    source_license: CC 表示なし（© ACOG）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 発生率は定義により幅がある。本カードは2017年版（2024年に reaffirmed）の bulletin に基づく。日本での予測・対応手順（巨大児が疑われる場合の扱いを含む）は産科編2026のCQ313・CQ404等（刊行版未照合）で確認が必要
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-H-①（遷延分娩、分娩停止、肩甲難産、b）
+    core_curriculum: 'PS-02-11-05 (id: JkxnuSU)；TBL-01-00-371 (id: JlvnmCk)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-011
+  domain: DL
+  subdomain: 子宮破裂、頸管・腟・会陰裂傷
+  assertion:
+    plain_statement_ja: 帝王切開既往後の経腟分娩（TOLAC）における子宮破裂の頻度は、米国ACOGの資料では0.5〜0.9%とされ、複数回の帝王切開既往では0.9〜3.7%に上がる。TOLACの成功率（経腟分娩の達成）は60〜80%である
+    condition:
+      region: 米国
+      対象: 帝王切開既往のある妊婦
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3272
+    source: 'American College of Obstetricians and Gynecologists. Vaginal Birth After Cesarean Delivery: Practice Bulletin No. 205. Obstet Gynecol. 2019;133(2):e110-e127'
+    doi: 10.1097/AOG.0000000000003078
+    pmid: '30681543'
+    pmcid: null
+    url: https://doi.org/10.1097/AOG.0000000000003078
+    source_license: CC 表示なし（© ACOG）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 子宮破裂率は地域で幅があり、日本の産科編2026のCQ403では0.2〜0.7%とされる（パブリックコメント原案で確認した範囲。刊行版未照合のため日本の値は主張に入れていない）。日本でTOLACを行う条件（緊急帝王切開と子宮破裂に対する緊急手術が可能な体制、既往帝王切開が1回で子宮下節横切開・術後経過良好、子宮腔内に達する手術既往や子宮破裂の既往がないこと、胎児心拍数の連続モニタリング等）も同CQ403に基づき、刊行版での照合が必要。分娩誘発・促進時のプロスタグランジン製剤は国内承認薬であるが、TOLACでは使用しない扱いが同原案に示される
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-I-①（子宮破裂、頸管・腟・会陰裂傷、b）
+    core_curriculum: 'PS-02-11-05 (id: JkxnuSU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-012
+  domain: DL
+  subdomain: 子宮破裂、頸管・腟・会陰裂傷
+  assertion:
+    plain_statement_ja: 会陰裂傷は、1度（会陰皮膚のみ）、2度（会陰筋まで、肛門括約筋を含まない）、3度（肛門括約筋複合体まで。3aは外肛門括約筋の50%未満、3bは50%超、3cは内外両括約筋）、4度（括約筋複合体と肛門上皮・直腸粘膜まで）に分類され、3度・4度を産科的肛門括約筋損傷（OASIS）という。経腟分娩では53〜79%に何らかの会陰裂傷が生じる。第2期の温罨法は3・4度裂傷を減らすが、1・2度裂傷は減らさない
+    condition:
+      region: 米国
+      対象: 経腟分娩後の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3273
+    source: 'American College of Obstetricians and Gynecologists. Prevention and Management of Obstetric Lacerations at Vaginal Delivery: Practice Bulletin No. 198. Obstet Gynecol. 2018;132(3):e87-e102'
+    doi: 10.1097/AOG.0000000000002841
+    pmid: '30134424'
+    pmcid: null
+    url: https://doi.org/10.1097/AOG.0000000000002841
+    source_license: CC 表示なし（© ACOG）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 分類は同 bulletin（2018年版、2025年 reaffirmed）の分類表から読み取った（表から読み取り）。OASISの強い危険因子は鉗子分娩・吸引分娩・正中会陰切開・出生体重の増加とされる。頸管裂傷・腟裂傷を単独で扱う一次資料は確認できず、本カードは会陰裂傷の分類を本体とした（頸管・腟裂傷は出血源の確認という文脈で産科出血の資料と組み合わせる）
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-I-①（子宮破裂、頸管・腟・会陰裂傷、b）
+    core_curriculum: 'PS-02-11-05 (id: JkxnuSU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-013
+  domain: DL
+  subdomain: 弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症
+  assertion:
+    plain_statement_ja: 「産科危機的出血」は、分娩後異常出血が持続し、ショック指数（SI）1.5以上、非凝固性出血・乏尿・末梢冷感・バイタルサイン異常の出現、産科DICスコア8点以上、フィブリノゲン150 mg/dL未満（単独でも）のいずれかを認めた場合に宣言する。宣言後は、止血処置を行いつつ赤血球製剤と新鮮凍結血漿を1:1以上の比率で投与するか、高次施設へ搬送する。止血手技には子宮腔内バルーンタンポナーデ、子宮圧迫縫合、子宮動脈結紮、動脈塞栓術（IVR）、子宮摘出術があり、原因に応じて選択する
+    condition:
+      region: 日本
+      対象: 分娩時・分娩後の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3274
+    source: 日本産科婦人科学会・日本産婦人科医会・日本周産期・新生児医学会・日本麻酔科学会・日本輸血・細胞治療学会. 産科危機的出血への対応指針 2022
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 学会資料（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードの数値・手順は、産科編2026のCQ416-2のパブリックコメント原案で本指針の内容として確認した範囲であり、指針現物およびガイドライン刊行版での再照合が必要（登録時の決定9）。フィブリノゲン濃縮製剤は2021年9月に「産科危機的出血に伴う後天性低フィブリノゲン血症」で保険適用が認められている。トラネキサム酸の位置づけは DL-015、産科DICの診断は DL-018 を参照。一般の「危機的出血への対応ガイドライン」（2025年改訂）や『輸血療法実践ガイド』（2026）とは別の文書である
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-J-①（弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症、a）
+    core_curriculum: 'PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)；TBL-01-00-380 (id: JlvnmDc)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-014
+  domain: DL
+  subdomain: 弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症
+  assertion:
+    plain_statement_ja: 産後出血は、分娩後24時間以内の累積出血量1,000 mL以上、または分娩様式を問わず低容量血症の徴候・症状を伴う出血と定義される（ACOGのreVITALize定義）。経腟分娩では500 mLを超える出血は異常として原因検索を行う。子宮収縮薬が弛緩出血治療の第一選択であり、オキシトシンが第一選択薬である
+    condition:
+      region: 米国
+      対象: 分娩後の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3275
+    source: 'American College of Obstetricians and Gynecologists. Postpartum Hemorrhage: Practice Bulletin No. 183. Obstet Gynecol. 2017;130(4):e168-e186'
+    doi: 10.1097/AOG.0000000000002351
+    pmid: '28937571'
+    pmcid: null
+    url: https://doi.org/10.1097/AOG.0000000000002351
+    source_license: CC 表示なし（© ACOG）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 日本では出血量の絶対値よりもショック指数や産科DICスコア等を用いる産科危機的出血の宣言基準（DL-013）が実務の軸であり、定義の置き方が地域で異なる。オキシトシンをはじめとする子宮収縮薬は国内承認・保険適用がある
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-J-①（弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症、a）
+    core_curriculum: 'PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)；TBL-01-00-380 (id: JlvnmDc)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-015
+  domain: DL
+  subdomain: 弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症
+  assertion:
+    plain_statement_ja: 産後出血に対するトラネキサム酸1 g静注は、出血による死亡を減らした（トラネキサム酸群1.5%対プラセボ群1.9%、相対リスク0.81）。効果は出生後3時間以内の投与で大きく（相対リスク0.69）、子宮摘出は減らなかった。有害事象の増加は認められなかった（WOMAN試験、21か国193施設、20,060人）
+    condition:
+      region: 国際
+      対象: 産後出血の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3276
+    source: 'WOMAN Trial Collaborators. Effect of early tranexamic acid administration on mortality, hysterectomy, and other morbidities in women with post-partum haemorrhage (WOMAN): an international, randomised, double-blind, placebo-controlled trial. Lancet. 2017;389(10084):2105-2116'
+    doi: 10.1016/S0140-6736(17)30638-4
+    pmid: '28456509'
+    pmcid: PMC5446563
+    url: https://doi.org/10.1016/S0140-6736(17)30638-4
+    source_license: CC BY-NC-ND 4.0（PMC 全文に明記）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: トラネキサム酸の国内添付文書の効能は「全身性・局所性の線溶亢進が関与すると考えられる異常出血（性器出血を含む）」であり、「産後出血」としての明示的な適応は添付文書上で未確認。国内では産科危機的出血の文脈で、大量出血発症後3時間以内に1 gの投与が推奨される（産科編2026 CQ416-2 のパブリックコメント原案で確認。出血が続く場合や24時間以内の再出血では再投与を検討し、高用量では用量依存的な痙攣に注意する）
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-J-①（弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症、a）
+    core_curriculum: 'PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)；TBL-01-00-380 (id: JlvnmDc)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-016
+  domain: DL
+  subdomain: 弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症
+  assertion:
+    plain_statement_ja: 羊水塞栓症は臨床診断であり、確定にも除外にも使える特異的な検査はない（GRADE 1C）。分娩中または分娩直後の女性の突然の心肺虚脱では、鑑別診断に羊水塞栓症を含めるべきであり（GRADE 1C）、心停止例には標準的な一次・二次救命処置による質の高い心肺蘇生を直ちに行う（GRADE 1C）。発生率は約2〜6例/10万分娩とされる
+    condition:
+      region: 米国
+      対象: 分娩中・分娩直後の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3277
+    source: 'Society for Maternal-Fetal Medicine; Pacheco LD, Saade G, Hankins GDV, Clark SL. Amniotic fluid embolism: diagnosis and management. Am J Obstet Gynecol. 2016;215(2):B16-B24'
+    doi: 10.1016/j.ajog.2016.03.012
+    pmid: '26987420'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ajog.2016.03.012
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 発生率は資料により1.9〜6.1/10万分娩と幅があり、古典例の致死率は20〜40%以上とされる。研究用の症例定義基準（Clarkらの提案：突然の心肺停止または低血圧と呼吸障害、妊娠修正ISTHスコア3点以上の顕性DIC、分娩中または胎盤娩出後30分以内の発症、分娩中の発熱がないこと）は、本ガイドラインとは別の文献（Am J Obstet Gynecol. 2016;215(4):408-412）であり混同しない。日本では登録・血清診断事業に基づく臨床的診断基準が用いられるが、その正式な原典書誌は未確認。本邦の妊産婦死亡剖検例（1989〜2004年）では羊水塞栓症が24.3%で第1位だったとする報告がある
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-J-①（弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症、a）
+    core_curriculum: 'PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)；TBL-01-00-381 (id: JlvnmDg)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-017
+  domain: DL
+  subdomain: 弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症
+  assertion:
+    plain_statement_ja: 急性子宮内反症の発生率は、単施設の後方視的レビュー（40例/125,081分娩、カナダ）で経腟分娩1/3,737、帝王切開1/1,860であった。産後出血の合併が65%、輸血を要した割合が47.5%と、出血と低容量性ショックを伴いやすい
+    condition:
+      region: 国際
+      対象: 分娩後の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3278
+    source: 'Baskett TF. Acute uterine inversion: a review of 40 cases. J Obstet Gynaecol Can. 2002;24(12):953-956'
+    doi: 10.1016/S1701-2163(16)30594-1
+    pmid: '12464994'
+    pmcid: null
+    url: https://doi.org/10.1016/S1701-2163(16)30594-1
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 単施設（カナダ、1977〜2000年）の古い症例集積であり、分娩第3期の積極的管理の導入後に経腟分娩での発生率は低下したとされる。治療は用手的・外科的整復とショックへの蘇生が本体だが、本カードの数値は抄録で確認した範囲に基づく
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-J-①（弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症、a）
+    core_curriculum: 'PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-018
+  domain: DL
+  subdomain: 播種性血管内凝固<DIC>
+  assertion:
+    plain_statement_ja: 日本の産科DICの診断は、2022年7月の暫定版を経て2024年6月に最終版となった新基準で行い、基礎疾患、フィブリノゲン値、FDPまたはDダイマーで評価する。大量出血例（経腟分娩1,000 mL以上・帝王切開2,000 mL以上、212例）の検証では、新基準で産科DICと診断された群はフィブリノゲン150 mg/dL未満が90%（対照5%）、旧産科DICスコア8点以上が100%（対照10%）であり、新基準の妥当性が示された。旧スコア（1985年）は危機的出血の宣言・治療開始の目安として現行指針にも残る位置づけであり、診断基準そのものとは区別する
+    condition:
+      region: 日本
+      対象: 大量出血を伴う分娩後の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3279
+    source: Morikawa M, Takeda Y, Matsunaga S, et al. Effectiveness, reliability, and validity of new Japanese diagnostic criteria for obstetrical disseminated intravascular coagulation. Sci Rep. 2024;14:17677
+    doi: 10.1038/s41598-024-68298-7
+    pmid: '39085285'
+    pmcid: PMC11291721
+    url: https://doi.org/10.1038/s41598-024-68298-7
+    source_license: CC BY 4.0（掲載誌の公開ライセンス。プレプリント版でも CC BY 4.0 を確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 新基準の各項目の閾値の詳細は原典（暫定版：日本産婦人科・新生児血液学会誌. 2022;32:S13-S14、および同誌. 2023;32:43-49 の報告）での確認が必要。産科DICは線溶亢進型の病態が主体で分娩後異常出血時に発症しやすいとされる。DICの総論（敗血症・造血器腫瘍・固形がん側）は第40回 HS-035 が Ⅰ-2-J-② を両章併記済みであり、DL では産科DICに絞った
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-J-②（播種性血管内凝固<DIC>、a）
+    core_curriculum: 'PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)；TBL-01-00-382 (id: JlvnmDk)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-019
+  domain: DL
+  subdomain: 播種性血管内凝固<DIC>
+  assertion:
+    plain_statement_ja: 日本血栓止血学会のDIC診療ガイドライン2024の第4部（外傷・熱傷・産科・急性膵炎/肝不全ほか）は産科DICを明示的に対象とし、産科DICに対するフィブリノゲン濃縮製剤、アンチトロンビン濃縮製剤、トラネキサム酸の投与を推奨に含む
+    condition:
+      region: 日本
+      対象: 産科DICの女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3280
+    source: 'Hayakawa M, et al. Clinical practice guidelines for management of disseminated intravascular coagulation in Japan 2024: part 4 - trauma, burn, obstetrics, acute pancreatitis/liver failure, and others. Int J Hematol. 2025;121(5):633-652'
+    doi: 10.1007/s12185-025-03918-0
+    pmid: '39890756'
+    pmcid: null
+    url: https://doi.org/10.1007/s12185-025-03918-0
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出血が継続している非凝固性の分娩後異常出血では、産科編2026のCQ416-2（パブリックコメント原案）が遺伝子組換えトロンボモジュリンとアンチトロンビン製剤を原則として推奨せず、合成プロテアーゼ阻害薬（ガベキサート、ナファモスタット）も産科DICに対して使用しないことを推奨するとしている。DIC治療の文脈と止血不能の出血の文脈は異なるため混同しない。フィブリノゲン濃縮製剤は産科危機的出血に伴う後天性低フィブリノゲン血症で保険適用がある。アンチトロンビン濃縮製剤の個別の適応文言は添付文書での確認が必要。血小板濃厚液は血小板数5万/µLを維持するよう投与すると同CQ原案にある。遺伝子組換え活性型第VII因子製剤は適応外使用であり、生命の危険がある重篤例で通常の輸血治療に反応しない症例に限るとされる（同原案）
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-J-②（播種性血管内凝固<DIC>、a）
+    core_curriculum: 'PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)；TBL-01-00-382 (id: JlvnmDk)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-020
+  domain: DL
+  subdomain: 産褥期精神障害
+  assertion:
+    plain_statement_ja: 産後精神病の頻度は出生1,000あたり1〜2人で、発症は産後1〜4週（早ければ2〜3日目から）に多く、妄想、気分変動、混乱、解体した行動を呈する。対比として、産後うつは10〜13%、マタニティブルーズは50〜75%にみられる
+    condition:
+      region: 国際
+      対象: 産褥期の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3281
+    source: Sit D, Rothschild AJ, Wisner KL. A Review of Postpartum Psychosis. J Womens Health (Larchmt). 2006;15(4):352-368
+    doi: 10.1089/jwh.2006.15.352
+    pmid: '16724884'
+    pmcid: null
+    url: https://doi.org/10.1089/jwh.2006.15.352
+    source_license: CC 表示なし（PMC に著者原稿）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 産後精神病の頻度は系統的レビュー（VanderKruik 2017）で0.89〜2.6/1,000と研究間で幅がある。本カードは2006年のレビューの本文で確認した値に基づく。精神疾患としての分類・総論は第Ⅱ章（精神）が担当し、DL では産褥期の側面に絞った（登録時の決定7）
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-K-①（産褥期精神障害、a）
+    core_curriculum: 'PS-02-11-02 (id: JkxnuSI)；PS-02-11-05 (id: JkxnuSU)；TBL-02-10-006 (id: JlAKpqM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-021
+  domain: DL
+  subdomain: 産褥期精神障害
+  assertion:
+    plain_statement_ja: 米国の周産期メンタルヘルスの指針では、すべての妊産褥婦に検証済みの尺度でうつ・不安のスクリーニングを行う（初診時、妊娠後期、産後受診時）。産後精神病は即時の医療的対応（immediate medical attention）を要する状態である。抗うつ薬を開始する前に双極性障害のスクリーニングを行う（抗うつ薬単剤は躁・精神病・自殺リスクを悪化させうる）
+    condition:
+      region: 米国
+      対象: 妊産褥婦
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3282
+    source: 'American College of Obstetricians and Gynecologists. Screening and Diagnosis of Mental Health Conditions During Pregnancy and Postpartum: Clinical Practice Guideline No. 4. Obstet Gynecol. 2023;141(6):1232-1261'
+    doi: 10.1097/AOG.0000000000005200
+    pmid: '37486660'
+    pmcid: null
+    url: https://doi.org/10.1097/AOG.0000000000005200
+    source_license: CC 表示なし（© ACOG）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: '日本では産婦健康診査（2017年度開始）で産後2週間・1か月にEPDS等による評価が行われる（国内制度の詳細は産科編2026の関連CQでの照合が必要）。治療・管理の詳細は同じ指針の No. 5（Obstet Gynecol. 2023;141(6):1262-1288、PMID: 37486661）にある。向精神薬の個別の国内承認・授乳期の扱いは添付文書での確認が必要であり、zuranolone・brexanoloneの国内承認は未確認のため、国内承認があるとは書かない'
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-K-①（産褥期精神障害、a）
+    core_curriculum: 'PS-02-11-02 (id: JkxnuSI)；PS-02-11-05 (id: JkxnuSU)；TBL-02-10-006 (id: JlAKpqM)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-022
+  domain: DL
+  subdomain: 子宮復古不全、産褥熱
+  assertion:
+    plain_statement_ja: 産褥子宮内膜炎の抗菌薬治療では、クリンダマイシンとアミノグリコシド（ゲンタマイシン）の併用が適切であり、治療失敗はセファロスポリン系との比較で相対リスク0.69、ペニシリン系との比較で相対リスク0.65であった（42試験・4,240人）。静注で改善した単純性子宮内膜炎に経口抗菌薬を追加する利益は証明されていない
+    condition:
+      region: 国際
+      対象: 産褥子宮内膜炎の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3283
+    source: Mackeen AD, et al. Antibiotic regimens for postpartum endometritis. Cochrane Database Syst Rev. 2015;(2):CD001067
+    doi: 10.1002/14651858.CD001067.pub3
+    pmid: '25922861'
+    pmcid: PMC7050613
+    url: https://doi.org/10.1002/14651858.CD001067.pub3
+    source_license: © Cochrane Collaboration（CC 表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: クリンダマイシン・ゲンタマイシンの国内承認自体は一般的だが、「産褥子宮内膜炎」としての適応の明記は未確認。産褥子宮内膜炎は腟内細菌叢が分娩過程で子宮内膜腔へ侵入して起こり帝王切開後に多いとされるが、頻度（経腟分娩の最大3%、帝王切開の最大27%）は臨床要約の引用値で一次資料が未照合のため主張に入れていない
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-K-②（子宮復古不全、産褥熱、b）
+    core_curriculum: 'PS-02-11-05 (id: JkxnuSU)；TBL-01-00-378 (id: JlvnmDQ)；TBL-02-10-005 (id: JlAKpqI)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-023
+  domain: DL
+  subdomain: 子宮復古不全、産褥熱
+  assertion:
+    plain_statement_ja: '妊娠中・産褥期の敗血症と敗血症性ショックは医療緊急事態であり、治療と蘇生を直ちに開始する（GRADE 1B）。発熱がなくても、感染過程の存在下で説明のつかない臓器障害がある妊産褥婦では敗血症を鑑別に含める（GRADE 1B）。持続する低血圧・低灌流に対する第一選択の昇圧薬はノルエピネフリンである（SMFM Consult Series #47、2019）'
+    condition:
+      region: 米国
+      対象: 妊娠中・産褥期の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3284
+    source: 'Society for Maternal-Fetal Medicine; Plante LA, Pacheco LD, Louis JM. SMFM Consult Series #47: Sepsis during pregnancy and the puerperium. Am J Obstet Gynecol. 2019;220(4):B2-B10'
+    doi: 10.1016/j.ajog.2019.01.216
+    pmid: '30684460'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ajog.2019.01.216
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 子宮復古不全そのもの（定義・頻度・胎盤遺残との関係）に特化した一次資料は未確認であり、本カードは産褥熱の重症側面（敗血症）として扱った。復古不全は胎盤・胎胞遺残や子宮内膜炎の背景・鑑別として位置づけられる。ノルエピネフリンは国内承認のある昇圧薬だが、妊産褥婦の敗血症における国内の位置づけは国内資料での確認が必要。同文書には2021年の訂正（Am J Obstet Gynecol. 2021;224(2):224）がある
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-K-②（子宮復古不全、産褥熱、b）
+    core_curriculum: 'PS-02-11-05 (id: JkxnuSU)；TBL-01-00-377 (id: JlvnmDI)；TBL-01-00-378 (id: JlvnmDQ)；TBL-02-10-005 (id: JlAKpqI)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-024
+  domain: DL
+  subdomain: 乳腺炎、乳汁分泌不全
+  assertion:
+    plain_statement_ja: 産褥期の乳腺炎は単一疾患ではなく、乳管狭窄、炎症性乳腺炎、細菌性乳腺炎、蜂窩織炎・膿瘍、うっ滞・乳瘤・亜急性乳腺炎を含むスペクトラムとして捉え、病態の中心は乳腺の炎症と間質浮腫、乳腺のdysbiosisである。抗菌薬は細菌性乳腺炎に限って用い、炎症性乳腺炎への抗菌薬はマイクロバイオームを乱し細菌性への進展リスクを上げる。深部マッサージ、過度の搾乳、温罨法は推奨されず、氷冷、NSAIDs、需要に応じた授乳継続が基本である
+    condition:
+      region: 米国
+      対象: 授乳中の女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1020
+    source: 'Mitchell KB, Johnson HM, Rodríguez JM, et al. Academy of Breastfeeding Medicine Clinical Protocol #36: The Mastitis Spectrum, Revised 2022. Breastfeed Med. 2022;17(5):360-376'
+    doi: 10.1089/bfm.2022.29207.kbm
+    pmid: '35576513'
+    pmcid: null
+    url: https://doi.org/10.1089/bfm.2022.29207.kbm
+    source_license: ライセンス表示を確認できず（出典マスター登録どおり）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 本プロトコルは Academy of Breastfeeding Medicine の文書で、発行後5年で失効する旨が本文に明記される（2022年版は現行として使用可だが期限に留意）。米国の細菌性乳腺炎の経験的治療（ジクロキサシリン500 mg 1日4回、またはセファレキシン500 mg 1日4回、10〜14日間）は、ジクロキサシリンの国内での入手性・第一選択としての位置づけが未確認であり、国内の抗菌薬選択は添付文書・国内資料で確認が必要なため主張に入れていない。乳汁分泌不全に特化した一次資料は未確認で、本カードは乳腺炎の側面のみを扱った（国内側の受け皿候補は産科編2026のCQ418群だが本文未照合）。乳腺疾患一般は第22回 BR が正
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-K-③（乳腺炎、乳汁分泌不全、b）
+    core_curriculum: 'PS-02-11-05 (id: JkxnuSU)；TBL-01-00-379 (id: JlvnmDU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: DL-025
+  domain: DL
+  subdomain: 産褥血栓症、肺塞栓症
+  assertion:
+    plain_statement_ja: 妊娠中・産褥期の女性は非妊娠時に比べて血栓塞栓症のリスクが4〜5倍高く、妊娠関連の血栓塞栓症の約80%は静脈性で、頻度は妊婦1,000人あたり0.5〜2.0である。静脈血栓塞栓症は米国の母体死亡の9.3%を占める主要な死因のひとつであり、リスクと病態に応じた周産期の抗凝固管理（急性期治療と予防）が必要である。経口の直接トロンビン阻害薬および抗Xa薬は妊娠中・授乳期には避ける
+    condition:
+      region: 米国
+      対象: 妊産褥婦
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3285
+    source: 'American College of Obstetricians and Gynecologists. Thromboembolism in Pregnancy: ACOG Practice Bulletin No. 196. Obstet Gynecol. 2018;132(1):e1-e17'
+    doi: 10.1097/AOG.0000000000002706
+    pmid: '29939938'
+    pmcid: null
+    url: https://doi.org/10.1097/AOG.0000000000002706
+    source_license: CC 表示なし（© ACOG）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 日本の産褥期VTE予防の実務（脱水回避と早期離床、帝王切開での間欠的空気圧迫法・弾性ストッキング、未分画ヘパリン5,000単位1日2回皮下注の開始時期、低分子量ヘパリン・フォンダパリヌクスの予防の保険適用は原則として手術後24時間以降に限られ経腟分娩後の予防投与には保険適用がないこと等）は、産科編2026のCQ003-2・CQ003-3のパブリックコメント原案で確認した範囲であり、刊行版での照合が必要なため主張に入れていない。産褥期のVTEリスクは妊娠期の約5倍で産後最初の3週間がピークとする系統的レビューの報告がある（RCOG Green-top Guideline No. 37a の引用経由）。ワルファリン・ヘパリン類では授乳中止は不要とされるが、未分画ヘパリンの添付文書には禁忌の記載があるため説明が必要とされる（同原案）。Ⅰ-2-J-① 側の血栓塞栓症は、妊娠中・分娩直後の予防と危機的出血の文脈に限定し、産褥期の発症・予防は本カードに寄せて重複を避けた
+  curriculum:
+    kokushi: 医学各論 Ⅰ-2-K-④（産褥血栓症、肺塞栓症、b）
+    core_curriculum: 'PS-02-11-05 (id: JkxnuSU)'
+  publication_info:
+    created: '2026-10-31'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）

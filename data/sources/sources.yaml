@@ -28032,3 +28032,1188 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+- id: SRC-3081
+  legacy_id: null
+  title: Fischer A, Notarangelo LD, Neven B, Cavazzana M, Puck JM. Severe combined immunodeficiencies and related disorders. Nat Rev Dis Primers. 2015;1:15061
+  citation: Fischer A, Notarangelo LD, Neven B, Cavazzana M, Puck JM. Severe combined immunodeficiencies and related disorders. Nat Rev Dis Primers. 2015;1:15061
+  doi: 10.1038/nrdp.2015.61
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3082
+  legacy_id: null
+  title: Swain S, Selmi C, Gershwin ME, Teuber SS. The clinical implications of selective IgA deficiency. J Transl Autoimmun. 2019;2:100025
+  citation: Swain S, Selmi C, Gershwin ME, Teuber SS. The clinical implications of selective IgA deficiency. J Transl Autoimmun. 2019;2:100025
+  doi: 10.1016/j.jtauto.2019.100025
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3083
+  legacy_id: null
+  title: 'El-Sayed ZA, Abramova I, Aldave JC, et al. X-linked agammaglobulinemia (XLA): Phenotype, diagnosis, and therapeutic challenges around the world. World Allergy Organ J. 2019;12(3):100018'
+  citation: 'El-Sayed ZA, Abramova I, Aldave JC, et al. X-linked agammaglobulinemia (XLA): Phenotype, diagnosis, and therapeutic challenges around the world. World Allergy Organ J. 2019;12(3):100018'
+  doi: 10.1016/j.waojou.2019.100018
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3084
+  legacy_id: null
+  title: de la Morena MT. Clinical Phenotypes of Hyper-IgM Syndromes. J Allergy Clin Immunol Pract. 2016;4(6):1023-1036
+  citation: de la Morena MT. Clinical Phenotypes of Hyper-IgM Syndromes. J Allergy Clin Immunol Pract. 2016;4(6):1023-1036
+  doi: 10.1016/j.jaip.2016.09.013
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3085
+  legacy_id: null
+  title: Rivers E, Worth A, Thrasher AJ. How I manage patients with Wiskott Aldrich syndrome. Br J Haematol. 2019;185(4):647-655
+  citation: Rivers E, Worth A, Thrasher AJ. How I manage patients with Wiskott Aldrich syndrome. Br J Haematol. 2019;185(4):647-655
+  doi: 10.1111/bjh.15831
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3086
+  legacy_id: null
+  title: 'Rothblum-Oviatt C, Wright J, Lefton-Greif MA, et al. Ataxia telangiectasia: a review. Orphanet J Rare Dis. 2016;11:159'
+  citation: 'Rothblum-Oviatt C, Wright J, Lefton-Greif MA, et al. Ataxia telangiectasia: a review. Orphanet J Rare Dis. 2016;11:159'
+  doi: 10.1186/s13023-016-0543-7
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3087
+  legacy_id: null
+  title: McDonald-McGinn DM, Sullivan KE, Marino B, et al. 22q11.2 deletion syndrome. Nat Rev Dis Primers. 2015;1:15071
+  citation: McDonald-McGinn DM, Sullivan KE, Marino B, et al. 22q11.2 deletion syndrome. Nat Rev Dis Primers. 2015;1:15071
+  doi: 10.1038/nrdp.2015.71
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3088
+  legacy_id: null
+  title: Talbert ML, Malicdan MCV, Introne WJ. Chediak-Higashi syndrome. Curr Opin Hematol. 2023;30(4):144-151
+  citation: Talbert ML, Malicdan MCV, Introne WJ. Chediak-Higashi syndrome. Curr Opin Hematol. 2023;30(4):144-151
+  doi: 10.1097/MOH.0000000000000766
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3089
+  legacy_id: null
+  title: Gennery AR. Progress in treating chronic granulomatous disease. Br J Haematol. 2021;192(2):251-264
+  citation: Gennery AR. Progress in treating chronic granulomatous disease. Br J Haematol. 2021;192(2):251-264
+  doi: 10.1111/bjh.16939
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3090
+  legacy_id: null
+  title: Skokowa J, Dale DC, Touw IP, Zeidler C, Welte K. Severe congenital neutropenias. Nat Rev Dis Primers. 2017;3:17032
+  citation: Skokowa J, Dale DC, Touw IP, Zeidler C, Welte K. Severe congenital neutropenias. Nat Rev Dis Primers. 2017;3:17032
+  doi: 10.1038/nrdp.2017.32
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3091
+  legacy_id: null
+  title: 一般社団法人日本補体学会. 遺伝性血管性浮腫（Hereditary angioedema:HAE）診療ガイドライン 改訂2023年版. 補体. 2023;60(2)
+  citation: 一般社団法人日本補体学会. 遺伝性血管性浮腫（Hereditary angioedema:HAE）診療ガイドライン 改訂2023年版. 補体. 2023;60(2)
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3092
+  legacy_id: null
+  title: Vázquez DO, Giavina-Bianchi P, Josviack D, et al. The 2025 WAO Guidelines for the classification, diagnosis, and treatment of hereditary angioedema, with consideration of worldwide disparities. World Allergy Organ J. 2026;19(5):101335
+  citation: Vázquez DO, Giavina-Bianchi P, Josviack D, et al. The 2025 WAO Guidelines for the classification, diagnosis, and treatment of hereditary angioedema, with consideration of worldwide disparities. World Allergy Organ J. 2026;19(5):101335
+  doi: 10.1016/j.waojou.2026.101335
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3093
+  legacy_id: null
+  title: Ram S, Lewis LA, Rice PA. Infections of people with complement deficiencies and patients who have undergone splenectomy. Clin Microbiol Rev. 2010;23(4):740-780
+  citation: Ram S, Lewis LA, Rice PA. Infections of people with complement deficiencies and patients who have undergone splenectomy. Clin Microbiol Rev. 2010;23(4):740-780
+  doi: 10.1128/CMR.00048-09
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3094
+  legacy_id: null
+  title: 'Sánchez-Ramón S, Bermúdez A, González-Granado LI, et al. Primary and Secondary Immunodeficiency Diseases in Oncohaematology: Warning Signs, Diagnosis, and Management. Front Immunol. 2019;10:586'
+  citation: 'Sánchez-Ramón S, Bermúdez A, González-Granado LI, et al. Primary and Secondary Immunodeficiency Diseases in Oncohaematology: Warning Signs, Diagnosis, and Management. Front Immunol. 2019;10:586'
+  doi: 10.3389/fimmu.2019.00586
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3095
+  legacy_id: null
+  title: 'Blimark C, Holmberg E, Mellqvist UH, et al. Multiple myeloma and infections: a population-based study on 9253 multiple myeloma patients. Haematologica. 2015;100(1):107-113'
+  citation: 'Blimark C, Holmberg E, Mellqvist UH, et al. Multiple myeloma and infections: a population-based study on 9253 multiple myeloma patients. Haematologica. 2015;100(1):107-113'
+  doi: 10.3324/haematol.2014.107714
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3096
+  legacy_id: null
+  title: 'Danza A, Ruiz-Irastorza G. Infection risk in systemic lupus erythematosus patients: susceptibility factors and preventive strategies. Lupus. 2013;22(12):1286-1294'
+  citation: 'Danza A, Ruiz-Irastorza G. Infection risk in systemic lupus erythematosus patients: susceptibility factors and preventive strategies. Lupus. 2013;22(12):1286-1294'
+  doi: 10.1177/0961203313493032
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3097
+  legacy_id: null
+  title: 'Tuano KS, Seth N, Chinen J. Secondary immunodeficiencies: An overview. Ann Allergy Asthma Immunol. 2021;127(6):617-626'
+  citation: 'Tuano KS, Seth N, Chinen J. Secondary immunodeficiencies: An overview. Ann Allergy Asthma Immunol. 2021;127(6):617-626'
+  doi: 10.1016/j.anai.2021.08.413
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3098
+  legacy_id: null
+  title: Youssef J, Novosad SA, Winthrop KL. Infection Risk and Safety of Corticosteroid Use. Rheum Dis Clin North Am. 2016;42(1):157-176
+  citation: Youssef J, Novosad SA, Winthrop KL. Infection Risk and Safety of Corticosteroid Use. Rheum Dis Clin North Am. 2016;42(1):157-176
+  doi: 10.1016/j.rdc.2015.08.004
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/45_im_d.md の出典マスター表から
+- id: SRC-3161
+  legacy_id: null
+  title: 日本産科婦人科学会／日本産婦人科医会 編・監修. 産婦人科診療ガイドライン 産科編 2026. 東京：日本産科婦人科学会、2026
+  citation: 日本産科婦人科学会／日本産婦人科医会 編・監修. 産婦人科診療ガイドライン 産科編 2026. 東京：日本産科婦人科学会、2026
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3162
+  legacy_id: null
+  title: Nelson-Piercy C, Dean C, Shehmar M, et al.; Royal College of Obstetricians and Gynaecologists. The Management of Nausea and Vomiting in Pregnancy and Hyperemesis Gravidarum (Green-top Guideline No. 69). BJOG. 2024;131(7):e1-e30
+  citation: Nelson-Piercy C, Dean C, Shehmar M, et al.; Royal College of Obstetricians and Gynaecologists. The Management of Nausea and Vomiting in Pregnancy and Hyperemesis Gravidarum (Green-top Guideline No. 69). BJOG. 2024;131(7):e1-e30
+  doi: 10.1111/1471-0528.17739
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3163
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 193: Tubal Ectopic Pregnancy. Obstet Gynecol. 2018;131(3):e91-e103'
+  citation: 'American College of Obstetricians and Gynecologists. ACOG Practice Bulletin No. 193: Tubal Ectopic Pregnancy. Obstet Gynecol. 2018;131(3):e91-e103'
+  doi: 10.1097/AOG.0000000000002560
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3164
+  legacy_id: null
+  title: Schreiber CA, Creinin MD, Atrio J, et al. Mifepristone Pretreatment for the Medical Management of Early Pregnancy Loss. N Engl J Med. 2018;378(23):2161-2170
+  citation: Schreiber CA, Creinin MD, Atrio J, et al. Mifepristone Pretreatment for the Medical Management of Early Pregnancy Loss. N Engl J Med. 2018;378(23):2161-2170
+  doi: 10.1056/NEJMoa1715726
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3165
+  legacy_id: null
+  title: Watanabe K, Matsubara K, Nakamoto O, et al. Outline of the new definition and classification of "Hypertensive Disorders of Pregnancy (HDP)"; a revised JSSHP statement of 2005. Hypertens Res Pregnancy. 2018;6(2):33-37
+  citation: Watanabe K, Matsubara K, Nakamoto O, et al. Outline of the new definition and classification of "Hypertensive Disorders of Pregnancy (HDP)"; a revised JSSHP statement of 2005. Hypertens Res Pregnancy. 2018;6(2):33-37
+  doi: 10.14390/jsshp.HRP2018-014
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3166
+  legacy_id: null
+  title: 'The Magpie Trial Collaborative Group. Do women with pre-eclampsia, and their babies, benefit from magnesium sulphate? The Magpie Trial: a randomised placebo-controlled trial. Lancet. 2002;359(9321):1877-1890'
+  citation: 'The Magpie Trial Collaborative Group. Do women with pre-eclampsia, and their babies, benefit from magnesium sulphate? The Magpie Trial: a randomised placebo-controlled trial. Lancet. 2002;359(9321):1877-1890'
+  doi: 10.1016/S0140-6736(02)08778-0
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3167
+  legacy_id: null
+  title: 'Haram K, Svendsen E, Abildgaard U. The HELLP syndrome: clinical issues and management. A Review. BMC Pregnancy Childbirth. 2009;9:8'
+  citation: 'Haram K, Svendsen E, Abildgaard U. The HELLP syndrome: clinical issues and management. A Review. BMC Pregnancy Childbirth. 2009;9:8'
+  doi: 10.1186/1471-2393-9-8
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3168
+  legacy_id: null
+  title: Roberts D, Brown J, Medley N, Dalziel SR. Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth. Cochrane Database Syst Rev. 2020;(12):CD004454
+  citation: Roberts D, Brown J, Medley N, Dalziel SR. Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth. Cochrane Database Syst Rev. 2020;(12):CD004454
+  doi: 10.1002/14651858.CD004454.pub4
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3169
+  legacy_id: null
+  title: 'Romero R, Conde-Agudelo A, Da Fonseca E, et al. Vaginal progesterone for preventing preterm birth and adverse perinatal outcomes in singleton gestations with a short cervix: a meta-analysis of individual patient data. Am J Obstet Gynecol. 2018;218(2):161-180'
+  citation: 'Romero R, Conde-Agudelo A, Da Fonseca E, et al. Vaginal progesterone for preventing preterm birth and adverse perinatal outcomes in singleton gestations with a short cervix: a meta-analysis of individual patient data. Am J Obstet Gynecol. 2018;218(2):161-180'
+  doi: 10.1016/j.ajog.2017.11.576
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3170
+  legacy_id: null
+  title: Rouse DJ, Hirtz DG, Thom E, et al. A randomized, controlled trial of magnesium sulfate for the prevention of cerebral palsy. N Engl J Med. 2008;359(9):895-905
+  citation: Rouse DJ, Hirtz DG, Thom E, et al. A randomized, controlled trial of magnesium sulfate for the prevention of cerebral palsy. N Engl J Med. 2008;359(9):895-905
+  doi: 10.1056/NEJMoa0801187
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3171
+  legacy_id: null
+  title: 'Brandt JS, Ananth CV. Placental abruption at near-term and term gestations: pathophysiology, epidemiology, diagnosis, and management. Am J Obstet Gynecol. 2023;228(5S):S1313-S1329'
+  citation: 'Brandt JS, Ananth CV. Placental abruption at near-term and term gestations: pathophysiology, epidemiology, diagnosis, and management. Am J Obstet Gynecol. 2023;228(5S):S1313-S1329'
+  doi: 10.1016/j.ajog.2022.06.059
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3172
+  legacy_id: null
+  title: 'Society for Maternal-Fetal Medicine; Gyamfi-Bannerman C. SMFM Consult Series #44: Management of bleeding in the late preterm period. Am J Obstet Gynecol. 2018;218(1):B2-B8'
+  citation: 'Society for Maternal-Fetal Medicine; Gyamfi-Bannerman C. SMFM Consult Series #44: Management of bleeding in the late preterm period. Am J Obstet Gynecol. 2018;218(1):B2-B8'
+  doi: 10.1016/j.ajog.2017.10.019
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3173
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists; Society for Maternal-Fetal Medicine. Obstetric Care Consensus No. 7: Placenta Accreta Spectrum. Obstet Gynecol. 2018;132(6):e259-e275'
+  citation: 'American College of Obstetricians and Gynecologists; Society for Maternal-Fetal Medicine. Obstetric Care Consensus No. 7: Placenta Accreta Spectrum. Obstet Gynecol. 2018;132(6):e259-e275'
+  doi: 10.1097/AOG.0000000000002983
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3174
+  legacy_id: null
+  title: 'Jauniaux E, Bhide A, Hussein AM, et al.; Royal College of Obstetricians and Gynaecologists. Placenta Praevia and Placenta Accreta Spectrum: Diagnosis and Management: Green-Top Guideline No. 27a. BJOG. 2026;133(10):e93-e128'
+  citation: 'Jauniaux E, Bhide A, Hussein AM, et al.; Royal College of Obstetricians and Gynaecologists. Placenta Praevia and Placenta Accreta Spectrum: Diagnosis and Management: Green-Top Guideline No. 27a. BJOG. 2026;133(10):e93-e128'
+  doi: 10.1111/1471-0528.70239
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3175
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists; Society for Maternal-Fetal Medicine. Multifetal Gestations: Twin, Triplet, and Higher-Order Multifetal Pregnancies: ACOG Practice Bulletin, Number 231. Obstet Gynecol. 2021;137(6):e145-e175.'
+  citation: 'American College of Obstetricians and Gynecologists; Society for Maternal-Fetal Medicine. Multifetal Gestations: Twin, Triplet, and Higher-Order Multifetal Pregnancies: ACOG Practice Bulletin, Number 231. Obstet Gynecol. 2021;137(6):e145-e175.'
+  doi: 10.1097/AOG.0000000000004397
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3176
+  legacy_id: null
+  title: National Institute for Health and Care Excellence. Twin and triplet pregnancy. NICE guideline NG137. 2019（2024年4月9日最終更新）.
+  citation: National Institute for Health and Care Excellence. Twin and triplet pregnancy. NICE guideline NG137. 2019（2024年4月9日最終更新）.
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3177
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. Prelabor Rupture of Membranes: ACOG Practice Bulletin, Number 217. Obstet Gynecol. 2020;135(3):e80-e97.'
+  citation: 'American College of Obstetricians and Gynecologists. Prelabor Rupture of Membranes: ACOG Practice Bulletin, Number 217. Obstet Gynecol. 2020;135(3):e80-e97.'
+  doi: 10.1097/AOG.0000000000003700
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3178
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. Practice Bulletin No. 181: Prevention of Rh D Alloimmunization. Obstet Gynecol. 2017;130(2):e57-e70.'
+  citation: 'American College of Obstetricians and Gynecologists. Practice Bulletin No. 181: Prevention of Rh D Alloimmunization. Obstet Gynecol. 2017;130(2):e57-e70.'
+  doi: 10.1097/AOG.0000000000002232
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3179
+  legacy_id: null
+  title: 日本血液製剤機構. 抗D人免疫グロブリン筋注用1000倍「JB」（乾燥抗D（Rho）人免疫グロブリン）添付文書. 2023年11月改訂（第1版）.
+  citation: 日本血液製剤機構. 抗D人免疫グロブリン筋注用1000倍「JB」（乾燥抗D（Rho）人免疫グロブリン）添付文書. 2023年11月改訂（第1版）.
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3180
+  legacy_id: null
+  title: Burton GJ, Jauniaux E. Pathophysiology of placental-derived fetal growth restriction. Am J Obstet Gynecol. 2018;218(2S):S745-S761.
+  citation: Burton GJ, Jauniaux E. Pathophysiology of placental-derived fetal growth restriction. Am J Obstet Gynecol. 2018;218(2S):S745-S761.
+  doi: 10.1016/j.ajog.2017.11.577
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3181
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists; Society for Maternal-Fetal Medicine. Levels of Maternal Care: Obstetric Care Consensus No. 9. Obstet Gynecol. 2019;134(2):e41-e55.'
+  citation: 'American College of Obstetricians and Gynecologists; Society for Maternal-Fetal Medicine. Levels of Maternal Care: Obstetric Care Consensus No. 9. Obstet Gynecol. 2019;134(2):e41-e55.'
+  doi: 10.1097/AOG.0000000000003383
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3182
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. Practice Bulletin No. 146: Management of Late-Term and Postterm Pregnancies. Obstet Gynecol. 2014;124(2 Pt 1):390-396.'
+  citation: 'American College of Obstetricians and Gynecologists. Practice Bulletin No. 146: Management of Late-Term and Postterm Pregnancies. Obstet Gynecol. 2014;124(2 Pt 1):390-396.'
+  doi: 10.1097/01.AOG.0000452744.06088.48
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3183
+  legacy_id: null
+  title: 'Dashe JS, Pressman EK, Hibbard JU; Society for Maternal-Fetal Medicine. SMFM Consult Series #46: Evaluation and management of polyhydramnios. Am J Obstet Gynecol. 2018;219(4):B2-B8.'
+  citation: 'Dashe JS, Pressman EK, Hibbard JU; Society for Maternal-Fetal Medicine. SMFM Consult Series #46: Evaluation and management of polyhydramnios. Am J Obstet Gynecol. 2018;219(4):B2-B8.'
+  doi: 10.1016/j.ajog.2018.07.016
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3184
+  legacy_id: null
+  title: 'Magann EF, Chauhan SP, Bofill JA, Martin JN Jr. Toward consistent terminology: assessment and reporting of amniotic fluid volume. Semin Perinatol. 2013;37(5):349-353.'
+  citation: 'Magann EF, Chauhan SP, Bofill JA, Martin JN Jr. Toward consistent terminology: assessment and reporting of amniotic fluid volume. Semin Perinatol. 2013;37(5):349-353.'
+  doi: 10.1053/j.semperi.2013.06.016
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3185
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. Committee Opinion No. 712: Intrapartum Management of Intraamniotic Infection. Obstet Gynecol. 2017;130(2):e95-e101.'
+  citation: 'American College of Obstetricians and Gynecologists. Committee Opinion No. 712: Intrapartum Management of Intraamniotic Infection. Obstet Gynecol. 2017;130(2):e95-e101.'
+  doi: 10.1097/AOG.0000000000002236
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3186
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. ACOG Clinical Practice Update: Update on Criteria for Suspected Diagnosis of Intraamniotic Infection. Obstet Gynecol. 2024;144(1):e17-e19.'
+  citation: 'American College of Obstetricians and Gynecologists. ACOG Clinical Practice Update: Update on Criteria for Suspected Diagnosis of Intraamniotic Infection. Obstet Gynecol. 2024;144(1):e17-e19.'
+  doi: 10.1097/AOG.0000000000005593
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/46_pn_a.md の出典マスター表から
+- id: SRC-3251
+  legacy_id: null
+  title: 日本糖尿病学会・日本産科婦人科学会・日本糖尿病・妊娠学会. 妊娠中の糖代謝異常と診断基準（平成27年8月1日改訂、3学会統一基準）. 2015
+  citation: 日本糖尿病学会・日本産科婦人科学会・日本糖尿病・妊娠学会. 妊娠中の糖代謝異常と診断基準（平成27年8月1日改訂、3学会統一基準）. 2015
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3252
+  legacy_id: null
+  title: 'American Diabetes Association Professional Practice Committee. 15. Management of Diabetes in Pregnancy: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl.1):S321-S338'
+  citation: 'American Diabetes Association Professional Practice Committee. 15. Management of Diabetes in Pregnancy: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl.1):S321-S338'
+  doi: 10.2337/dc26-S015
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3253
+  legacy_id: null
+  title: 'World Health Organization. Guideline on haemoglobin cutoffs to define anaemia in individuals and populations. Geneva: WHO; 2024（ISBN 978-92-4-008854-2）'
+  citation: 'World Health Organization. Guideline on haemoglobin cutoffs to define anaemia in individuals and populations. Geneva: WHO; 2024（ISBN 978-92-4-008854-2）'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3254
+  legacy_id: null
+  title: Ubom AE, et al. FIGO Good Practice Recommendations on Anemia in Pregnancy. Int J Gynaecol Obstet. 2025;171(3):993-1007
+  citation: Ubom AE, et al. FIGO Good Practice Recommendations on Anemia in Pregnancy. Int J Gynaecol Obstet. 2025;171(3):993-1007
+  doi: 10.1002/ijgo.70529
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3255
+  legacy_id: null
+  title: Korevaar TIM, Leung AM, Alexander EK, et al. American Thyroid Association 2026 Guidelines for Thyroid Disease in Preconception, Pregnancy, and Postpartum. Thyroid. 2026;36(5):481-544
+  citation: Korevaar TIM, Leung AM, Alexander EK, et al. American Thyroid Association 2026 Guidelines for Thyroid Disease in Preconception, Pregnancy, and Postpartum. Thyroid. 2026;36(5):481-544
+  doi: 10.1177/10507256261445624
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3256
+  legacy_id: null
+  title: Provan D, Arnold DM, Bussel JB, et al. Updated international consensus report on the investigation and management of primary immune thrombocytopenia. Blood Adv. 2019;3(22):3780-3817
+  citation: Provan D, Arnold DM, Bussel JB, et al. Updated international consensus report on the investigation and management of primary immune thrombocytopenia. Blood Adv. 2019;3(22):3780-3817
+  doi: 10.1182/bloodadvances.2019000812
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3257
+  legacy_id: null
+  title: 'Rüegg L, et al. EULAR recommendations for use of antirheumatic drugs in reproduction, pregnancy and lactation: 2024 update. Ann Rheum Dis. 2025;84(6):910-926'
+  citation: 'Rüegg L, et al. EULAR recommendations for use of antirheumatic drugs in reproduction, pregnancy and lactation: 2024 update. Ann Rheum Dis. 2025;84(6):910-926'
+  doi: 10.1016/j.ard.2025.02.023
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3258
+  legacy_id: null
+  title: Andreoli L, Bertsias GK, Agmon-Levin N, et al. EULAR recommendations for women's health and the management of family planning, assisted reproduction, pregnancy and menopause in patients with systemic lupus erythematosus and/or antiphospholipid syndrome. Ann Rheum Dis. 2017;76(3):476-485
+  citation: Andreoli L, Bertsias GK, Agmon-Levin N, et al. EULAR recommendations for women's health and the management of family planning, assisted reproduction, pregnancy and menopause in patients with systemic lupus erythematosus and/or antiphospholipid syndrome. Ann Rheum Dis. 2017;76(3):476-485
+  doi: 10.1136/annrheumdis-2016-209770
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3259
+  legacy_id: null
+  title: 'Society for Maternal-Fetal Medicine. Consult Series #69: Hepatitis B in pregnancy: updated guidelines. Am J Obstet Gynecol. 2024;230(4):B2-B11'
+  citation: 'Society for Maternal-Fetal Medicine. Consult Series #69: Hepatitis B in pregnancy: updated guidelines. Am J Obstet Gynecol. 2024;230(4):B2-B11'
+  doi: 10.1016/j.ajog.2023.12.023
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3260
+  legacy_id: null
+  title: 'Society for Maternal-Fetal Medicine. Consult Series #56: Hepatitis C in pregnancy—updated guidelines. Am J Obstet Gynecol. 2021;225(3):B8-B18'
+  citation: 'Society for Maternal-Fetal Medicine. Consult Series #56: Hepatitis C in pregnancy—updated guidelines. Am J Obstet Gynecol. 2021;225(3):B8-B18'
+  doi: 10.1016/j.ajog.2021.06.008
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3261
+  legacy_id: null
+  title: Panel on Treatment of HIV During Pregnancy and Prevention of Perinatal Transmission. Recommendations for the Use of Antiretroviral Drugs During Pregnancy and Interventions to Reduce Perinatal HIV Transmission in the United States. U.S. Department of Health and Human Services（ウェブ版ガイドライン、clinicalinfo.hiv.gov）
+  citation: Panel on Treatment of HIV During Pregnancy and Prevention of Perinatal Transmission. Recommendations for the Use of Antiretroviral Drugs During Pregnancy and Interventions to Reduce Perinatal HIV Transmission in the United States. U.S. Department of Health and Human Services（ウェブ版ガイドライン、clinicalinfo.hiv.gov）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3262
+  legacy_id: null
+  title: Leruez-Ville M, et al. Consensus recommendation for prenatal, neonatal and postnatal management of congenital cytomegalovirus infection (ECCI). Lancet Reg Health Eur. 2024;40:100892
+  citation: Leruez-Ville M, et al. Consensus recommendation for prenatal, neonatal and postnatal management of congenital cytomegalovirus infection (ECCI). Lancet Reg Health Eur. 2024;40:100892
+  doi: 10.1016/j.lanepe.2024.100892
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3263
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. First and Second Stage Labor Management: Clinical Practice Guideline No. 8. Obstet Gynecol. 2024;143(1):144-162'
+  citation: 'American College of Obstetricians and Gynecologists. First and Second Stage Labor Management: Clinical Practice Guideline No. 8. Obstet Gynecol. 2024;143(1):144-162'
+  doi: 10.1097/AOG.0000000000005447
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3264
+  legacy_id: null
+  title: 'Macones GA, Hankins GDV, Spong CY, Hauth J, Moore T. The 2008 National Institute of Child Health and Human Development workshop report on electronic fetal monitoring: update on definitions, interpretation, and research guidelines. Obstet Gynecol. 2008;112(3):661-666'
+  citation: 'Macones GA, Hankins GDV, Spong CY, Hauth J, Moore T. The 2008 National Institute of Child Health and Human Development workshop report on electronic fetal monitoring: update on definitions, interpretation, and research guidelines. Obstet Gynecol. 2008;112(3):661-666'
+  doi: 10.1097/AOG.0b013e3181841395
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3265
+  legacy_id: null
+  title: 'Maharaj D. Assessing cephalopelvic disproportion: back to the basics. Obstet Gynecol Surv. 2010;65(6):387-395'
+  citation: 'Maharaj D. Assessing cephalopelvic disproportion: back to the basics. Obstet Gynecol Surv. 2010;65(6):387-395'
+  doi: 10.1097/OGX.0b013e3181ecdf0c
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3266
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. Mode of Term Singleton Breech Delivery: Committee Opinion No. 745. Obstet Gynecol. 2018;132(2):e60-e63'
+  citation: 'American College of Obstetricians and Gynecologists. Mode of Term Singleton Breech Delivery: Committee Opinion No. 745. Obstet Gynecol. 2018;132(2):e60-e63'
+  doi: 10.1097/AOG.0000000000002755
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3267
+  legacy_id: null
+  title: Hofmeyr GJ, Kulier R, West HM. External cephalic version for breech presentation at term. Cochrane Database Syst Rev. 2015;(4):CD000083
+  citation: Hofmeyr GJ, Kulier R, West HM. External cephalic version for breech presentation at term. Cochrane Database Syst Rev. 2015;(4):CD000083
+  doi: 10.1002/14651858.CD000083.pub3
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3268
+  legacy_id: null
+  title: Dall'Asta A, et al. Intrapartum Ultrasound Guidance to Make Safer Any Obstetric Intervention. Clin Obstet Gynecol. 2024;67(4):730-738
+  citation: Dall'Asta A, et al. Intrapartum Ultrasound Guidance to Make Safer Any Obstetric Intervention. Clin Obstet Gynecol. 2024;67(4):730-738
+  doi: 10.1097/GRF.0000000000000891
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3269
+  legacy_id: null
+  title: 'Malvasi A, et al. Asynclitism and Its Ultrasonographic Rediscovery in Labor Room to Date: A Systematic Review. Diagnostics (Basel). 2022;12(12):2998'
+  citation: 'Malvasi A, et al. Asynclitism and Its Ultrasonographic Rediscovery in Labor Room to Date: A Systematic Review. Diagnostics (Basel). 2022;12(12):2998'
+  doi: 10.3390/diagnostics12122998
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3270
+  legacy_id: null
+  title: Sayed Ahmed WA, Hamdy MA. Optimal management of umbilical cord prolapse. Int J Womens Health. 2018;10:459-465
+  citation: Sayed Ahmed WA, Hamdy MA. Optimal management of umbilical cord prolapse. Int J Womens Health. 2018;10:459-465
+  doi: 10.2147/IJWH.S130879
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3271
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. Shoulder Dystocia: Practice Bulletin No. 178. Obstet Gynecol. 2017;129(5):e123-e133'
+  citation: 'American College of Obstetricians and Gynecologists. Shoulder Dystocia: Practice Bulletin No. 178. Obstet Gynecol. 2017;129(5):e123-e133'
+  doi: 10.1097/AOG.0000000000002043
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3272
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. Vaginal Birth After Cesarean Delivery: Practice Bulletin No. 205. Obstet Gynecol. 2019;133(2):e110-e127'
+  citation: 'American College of Obstetricians and Gynecologists. Vaginal Birth After Cesarean Delivery: Practice Bulletin No. 205. Obstet Gynecol. 2019;133(2):e110-e127'
+  doi: 10.1097/AOG.0000000000003078
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3273
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. Prevention and Management of Obstetric Lacerations at Vaginal Delivery: Practice Bulletin No. 198. Obstet Gynecol. 2018;132(3):e87-e102'
+  citation: 'American College of Obstetricians and Gynecologists. Prevention and Management of Obstetric Lacerations at Vaginal Delivery: Practice Bulletin No. 198. Obstet Gynecol. 2018;132(3):e87-e102'
+  doi: 10.1097/AOG.0000000000002841
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3274
+  legacy_id: null
+  title: 日本産科婦人科学会・日本産婦人科医会・日本周産期・新生児医学会・日本麻酔科学会・日本輸血・細胞治療学会. 産科危機的出血への対応指針 2022
+  citation: 日本産科婦人科学会・日本産婦人科医会・日本周産期・新生児医学会・日本麻酔科学会・日本輸血・細胞治療学会. 産科危機的出血への対応指針 2022
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3275
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. Postpartum Hemorrhage: Practice Bulletin No. 183. Obstet Gynecol. 2017;130(4):e168-e186'
+  citation: 'American College of Obstetricians and Gynecologists. Postpartum Hemorrhage: Practice Bulletin No. 183. Obstet Gynecol. 2017;130(4):e168-e186'
+  doi: 10.1097/AOG.0000000000002351
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3276
+  legacy_id: null
+  title: 'WOMAN Trial Collaborators. Effect of early tranexamic acid administration on mortality, hysterectomy, and other morbidities in women with post-partum haemorrhage (WOMAN): an international, randomised, double-blind, placebo-controlled trial. Lancet. 2017;389(10084):2105-2116'
+  citation: 'WOMAN Trial Collaborators. Effect of early tranexamic acid administration on mortality, hysterectomy, and other morbidities in women with post-partum haemorrhage (WOMAN): an international, randomised, double-blind, placebo-controlled trial. Lancet. 2017;389(10084):2105-2116'
+  doi: 10.1016/S0140-6736(17)30638-4
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3277
+  legacy_id: null
+  title: 'Society for Maternal-Fetal Medicine; Pacheco LD, Saade G, Hankins GDV, Clark SL. Amniotic fluid embolism: diagnosis and management. Am J Obstet Gynecol. 2016;215(2):B16-B24'
+  citation: 'Society for Maternal-Fetal Medicine; Pacheco LD, Saade G, Hankins GDV, Clark SL. Amniotic fluid embolism: diagnosis and management. Am J Obstet Gynecol. 2016;215(2):B16-B24'
+  doi: 10.1016/j.ajog.2016.03.012
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3278
+  legacy_id: null
+  title: 'Baskett TF. Acute uterine inversion: a review of 40 cases. J Obstet Gynaecol Can. 2002;24(12):953-956'
+  citation: 'Baskett TF. Acute uterine inversion: a review of 40 cases. J Obstet Gynaecol Can. 2002;24(12):953-956'
+  doi: 10.1016/S1701-2163(16)30594-1
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3279
+  legacy_id: null
+  title: Morikawa M, Takeda Y, Matsunaga S, et al. Effectiveness, reliability, and validity of new Japanese diagnostic criteria for obstetrical disseminated intravascular coagulation. Sci Rep. 2024;14:17677
+  citation: Morikawa M, Takeda Y, Matsunaga S, et al. Effectiveness, reliability, and validity of new Japanese diagnostic criteria for obstetrical disseminated intravascular coagulation. Sci Rep. 2024;14:17677
+  doi: 10.1038/s41598-024-68298-7
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3280
+  legacy_id: null
+  title: 'Hayakawa M, et al. Clinical practice guidelines for management of disseminated intravascular coagulation in Japan 2024: part 4 - trauma, burn, obstetrics, acute pancreatitis/liver failure, and others. Int J Hematol. 2025;121(5):633-652'
+  citation: 'Hayakawa M, et al. Clinical practice guidelines for management of disseminated intravascular coagulation in Japan 2024: part 4 - trauma, burn, obstetrics, acute pancreatitis/liver failure, and others. Int J Hematol. 2025;121(5):633-652'
+  doi: 10.1007/s12185-025-03918-0
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3281
+  legacy_id: null
+  title: Sit D, Rothschild AJ, Wisner KL. A Review of Postpartum Psychosis. J Womens Health (Larchmt). 2006;15(4):352-368
+  citation: Sit D, Rothschild AJ, Wisner KL. A Review of Postpartum Psychosis. J Womens Health (Larchmt). 2006;15(4):352-368
+  doi: 10.1089/jwh.2006.15.352
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3282
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. Screening and Diagnosis of Mental Health Conditions During Pregnancy and Postpartum: Clinical Practice Guideline No. 4. Obstet Gynecol. 2023;141(6):1232-1261'
+  citation: 'American College of Obstetricians and Gynecologists. Screening and Diagnosis of Mental Health Conditions During Pregnancy and Postpartum: Clinical Practice Guideline No. 4. Obstet Gynecol. 2023;141(6):1232-1261'
+  doi: 10.1097/AOG.0000000000005200
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3283
+  legacy_id: null
+  title: Mackeen AD, et al. Antibiotic regimens for postpartum endometritis. Cochrane Database Syst Rev. 2015;(2):CD001067
+  citation: Mackeen AD, et al. Antibiotic regimens for postpartum endometritis. Cochrane Database Syst Rev. 2015;(2):CD001067
+  doi: 10.1002/14651858.CD001067.pub3
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3284
+  legacy_id: null
+  title: 'Society for Maternal-Fetal Medicine; Plante LA, Pacheco LD, Louis JM. SMFM Consult Series #47: Sepsis during pregnancy and the puerperium. Am J Obstet Gynecol. 2019;220(4):B2-B10'
+  citation: 'Society for Maternal-Fetal Medicine; Plante LA, Pacheco LD, Louis JM. SMFM Consult Series #47: Sepsis during pregnancy and the puerperium. Am J Obstet Gynecol. 2019;220(4):B2-B10'
+  doi: 10.1016/j.ajog.2019.01.216
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
+- id: SRC-3285
+  legacy_id: null
+  title: 'American College of Obstetricians and Gynecologists. Thromboembolism in Pregnancy: ACOG Practice Bulletin No. 196. Obstet Gynecol. 2018;132(1):e1-e17'
+  citation: 'American College of Obstetricians and Gynecologists. Thromboembolism in Pregnancy: ACOG Practice Bulletin No. 196. Obstet Gynecol. 2018;132(1):e1-e17'
+  doi: 10.1097/AOG.0000000000002706
+  pmid: null
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-10-31'
+    by: claude-code
+    change: 取り込み：raw/47_pn_b.md の出典マスター表から
