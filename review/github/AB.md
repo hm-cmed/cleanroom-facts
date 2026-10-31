@@ -36,8 +36,8 @@
 - 鑑別・補足：偽性腸閉塞症（機械的閉塞がないのに閉塞症状を繰り返す）
 - よくある誤解：イレウスと腸閉塞は同じ意味である
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-003&card_id=AB-003&version=662ae34197)　（版 `662ae34197`）
+- 出題基準：医学各論 Ⅵ-10-B-①（麻痺性イレウス、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-003&card_id=AB-003&version=5c42e31e40)　（版 `5c42e31e40`）
 
 ### AB-004　下書き（出典の照合前）
 
@@ -47,8 +47,8 @@
 - 鑑別・補足：機械的腸閉塞
 - よくある誤解：手術が必要なのは機械的腸閉塞だけである
 - 出典：急性腹症診療ガイドライン2025改訂出版委員会編『急性腹症診療ガイドライン2025 第2版』医学書院、2025年3月（Minds 本文公開 2026年9月1日）　[リンク](https://minds.jcqhc.or.jp/summary/c00901/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-004&card_id=AB-004&version=01d2f2e658)　（版 `01d2f2e658`）
+- 出題基準：医学各論 Ⅵ-10-B-①（麻痺性イレウス、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-004&card_id=AB-004&version=c45beb89ec)　（版 `c45beb89ec`）
 
 ### AB-005　下書き（出典の照合前）
 
@@ -60,7 +60,7 @@
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-005&card_id=AB-005&version=718471c36a)　（版 `718471c36a`）
 
-**[ここまでの 5 件（AB-001〜AB-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-001%E3%80%9CAB-005&cards=AB-001%2063b4c61598%0AAB-002%207054773e9b%0AAB-003%20662ae34197%0AAB-004%2001d2f2e658%0AAB-005%20718471c36a)**
+**[ここまでの 5 件（AB-001〜AB-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-001%E3%80%9CAB-005&cards=AB-001%2063b4c61598%0AAB-002%207054773e9b%0AAB-003%205c42e31e40%0AAB-004%20c45beb89ec%0AAB-005%20718471c36a)**
 
 ---
 

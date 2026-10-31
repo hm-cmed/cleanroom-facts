@@ -106,3 +106,4 @@
 - {prefix: OC, name: "産業中毒とその他の職業性疾患", field: 生活環境・職業性}
 - {prefix: EV, name: "物理的原因・生活環境因子による障害", field: 生活環境・職業性}
 - {prefix: OX, name: "生活環境・職業性の横断項目", field: 生活環境・職業性}
+- {prefix: PE, name: "小児外科（消化器の小児外科疾患）", field: 消化器}

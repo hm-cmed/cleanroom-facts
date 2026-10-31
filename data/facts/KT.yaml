@@ -92,7 +92,7 @@
   uncertainty: 境界の方針に沿い、腎の側の評価（腎機能と画像）に絞った記載で、高血圧そのものの管理や血行再建の適応判断は循環器側の範囲として扱っていない。各画像検査の感度・特異度の数値はこの出典の抄録では確認していない。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-328 (id: Jlvnl94)'
-    kokushi: 医学各論 Ⅷ-2-A-②（腎血管性高血圧症、b）
+    kokushi: 医学各論 Ⅷ-2-A-②（腎血管性高血圧症、b）；医学各論 Ⅷ-9-B-④（動脈硬化、b）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -103,6 +103,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅷ-9-B-④ を足した（医学各論 Ⅷ-2-A-②（腎血管性高血圧症、b） → 医学各論 Ⅷ-2-A-②（腎血管性高血圧症、b）；医学各論 Ⅷ-9-B-④（動脈硬化、b））。三原の承認による
 - id: KT-004
   domain: KT
   subdomain: 腎梗塞
@@ -162,7 +165,7 @@
   uncertainty: スタチンと転帰の関連は観察研究の解析であり、因果関係を示すものではない。スタチンを含む治療薬の国内の承認・保険適用は本カードでは確認していない（取り込み時に確認が必要）。2007年の研究であり、現在の治療環境とは異なる可能性がある。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
-    kokushi: 医学各論 Ⅷ-2-A-⑤（コレステロール塞栓症、b）
+    kokushi: 医学各論 Ⅷ-2-A-⑤（コレステロール塞栓症、b）；医学各論 Ⅷ-9-B-④（動脈硬化、b）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -173,6 +176,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅷ-9-B-④ を足した（医学各論 Ⅷ-2-A-⑤（コレステロール塞栓症、b） → 医学各論 Ⅷ-2-A-⑤（コレステロール塞栓症、b）；医学各論 Ⅷ-9-B-④（動脈硬化、b））。三原の承認による
 - id: KT-006
   domain: KT
   subdomain: 強皮症腎クリーゼ

@@ -161,7 +161,7 @@
     corroboration: null
   uncertainty: 米国のガイドライン（2024年）に基づく。国内の診断基準は日本肝臓学会『アルコール性肝障害（アルコール関連肝疾患）診療ガイド 2022』に整理されているが、基準本文の逐語確認ができていないため、本カードの主張には含めていない。ステロイドは薬剤群としての記載であり、個別製剤の国内適応は添付文書で確認する前提である。
   curriculum:
-    kokushi: 医学各論 ⅩⅢ-2-A-④（慢性アルコール性臓器障害、a）
+    kokushi: 医学各論 ⅩⅢ-2-A-④（慢性アルコール性臓器障害、a）；医学各論 Ⅵ-6-E-③（アルコール性肝障害、a）
     core_curriculum: 'PS-03-05-08 (id: Jkxnubw)；GE-04-01-06 (id: JkxpswA)；TBL-01-00-289 (id: Jlvnl64)'
   publication_info:
     created: '2026-10-31'
@@ -173,6 +173,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-6-E-③ を足した（医学各論 ⅩⅢ-2-A-④（慢性アルコール性臓器障害、a） → 医学各論 ⅩⅢ-2-A-④（慢性アルコール性臓器障害、a）；医学各論 Ⅵ-6-E-③（アルコール性肝障害、a））。三原の承認による
 - id: TX-006
   domain: TX
   subdomain: 慢性アルコール性臓器障害

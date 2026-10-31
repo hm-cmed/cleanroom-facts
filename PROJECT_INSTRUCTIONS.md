@@ -83,6 +83,7 @@ Project指示文とスキーマに従い、最新の引き継ぎメモ（0(N-1)_
 | 46〜50 | 周産期・先天・成長発達 | PG／PG・DL／FT・NB／NB／CG・GR・PD | 依頼文は `docs/tasks/round46_PN.md` |
 | 51〜53 | 精神・心身医学 | OG・SB・SZ・MD／AX・PH／DV・PR・PX | 依頼文は `docs/tasks/round51_PS.md` |
 | 55〜57 | 生活環境・職業性 | FP・TX／SM・OC／EV・OX | 依頼文は `docs/tasks/round55_EV.md` |
+| 58〜60 | 補充回（未カバー項目） | GD・IN・LV・BP・AB／PE（新設）／EY・RE・AR・HF・HT・MP・VS | 依頼文は `docs/tasks/round58_SUPP.md` |
 
 ## 分野をまたぐ項目の扱い（2026-10-28 追加）
 

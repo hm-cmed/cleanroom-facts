@@ -1,0 +1,73 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round58_SUPP.md
+# 既存の接頭辞は続き番号（--append で取り込む）。id_start は登録時点の最大番号＋1
+round: 59
+name: 補充 第59回（小児外科：PE）
+id_start:
+  PE: 1
+src_range:
+- 4301
+- 4370
+target_cards:
+- 15
+- 40
+targets:
+- code: Ⅵ-12-B-①
+  name: 肥厚性幽門狭窄症
+  level: b
+  prefix: PE
+- code: Ⅵ-12-B-②
+  name: 先天性十二指腸閉鎖・狭窄症
+  level: c
+  prefix: PE
+- code: Ⅵ-12-C-①
+  name: 乳児下痢症
+  level: b
+  prefix: PE
+- code: Ⅵ-12-C-③
+  name: 腸重積症
+  level: b
+  prefix: PE
+- code: Ⅵ-12-C-④
+  name: 先天性小腸狭窄・閉鎖症
+  level: c
+  prefix: PE
+- code: Ⅵ-12-C-⑤
+  name: 胎便性腹膜炎
+  level: c
+  prefix: PE
+- code: Ⅵ-12-C-⑥
+  name: 腸回転異常症
+  level: c
+  prefix: PE
+- code: Ⅵ-12-D-①
+  name: 鎖肛
+  level: c
+  prefix: PE
+- code: Ⅵ-12-E-①
+  name: 新生児肝炎
+  level: b
+  prefix: PE
+- code: Ⅵ-12-E-③
+  name: 肝芽腫
+  level: c
+  prefix: PE
+- code: Ⅵ-12-F-①
+  name: 胆道閉鎖症
+  level: b
+  prefix: PE
+- code: Ⅵ-12-G-②
+  name: 尿膜管遺残
+  level: b
+  prefix: PE
+- code: Ⅵ-12-G-④
+  name: 臍ヘルニア
+  level: b
+  prefix: PE
+- code: Ⅵ-12-G-⑥
+  name: 臍帯ヘルニア
+  level: c
+  prefix: PE
+- code: Ⅵ-12-G-⑦
+  name: 腹壁破裂
+  level: c
+  prefix: PE

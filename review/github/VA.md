@@ -91,8 +91,8 @@
 - 条件：region: 日本／対象: 成人
 - 不確実性：診断基準の本文は厚労省公式 PDF で確認した。国内の診療ガイドラインは『ベーチェット病診療ガイドライン2020』が現行だが、本カードは診断基準の公的資料に基づく。眼病変の詳細は眼科分野の既存カードを正とする。
 - 出典：厚生労働省. 指定難病 56 ベーチェット病（概要・診断基準等）. 診断基準は厚生労働省ベーチェット病診断基準（2024年小改訂）.（区分 GOV_JP）
-- 出題基準：医学各論 Ⅺ-2-D-④（Behçet病、a）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；TBL-01-00-565 (id: JmxLo04)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VA-007&card_id=VA-007&version=471130ed86)　（版 `471130ed86`）
+- 出題基準：医学各論 Ⅺ-2-D-④（Behçet病、a）；医学各論 Ⅵ-5-A-③（消化管Behçet、c）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；TBL-01-00-565 (id: JmxLo04)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VA-007&card_id=VA-007&version=1424255ab5)　（版 `1424255ab5`）
 
 ### VA-008　下書き（出典の照合前）
 
@@ -104,7 +104,7 @@
 - 出題基準：医学各論 Ⅺ-2-D-④（Behçet病、a）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；TBL-01-00-565 (id: JmxLo04)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VA-008&card_id=VA-008&version=c1fc8915c1)　（版 `c1fc8915c1`）
 
-**[ここまでの 2 件（VA-007〜VA-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20VA-007%E3%80%9CVA-008&cards=VA-007%20471130ed86%0AVA-008%20c1fc8915c1)**
+**[ここまでの 2 件（VA-007〜VA-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20VA-007%E3%80%9CVA-008&cards=VA-007%201424255ab5%0AVA-008%20c1fc8915c1)**
 
 ---
 

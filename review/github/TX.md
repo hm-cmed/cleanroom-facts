@@ -71,8 +71,8 @@
 - 条件：region: 米国／対象: アルコール関連肝疾患の患者
 - 不確実性：米国のガイドライン（2024年）に基づく。国内の診断基準は日本肝臓学会『アルコール性肝障害（アルコール関連肝疾患）診療ガイド 2022』に整理されているが、基準本文の逐語確認ができていないため、本カードの主張には含めていない。ステロイドは薬剤群としての記載であり、個別製剤の国内適応は添付文書で確認する前提である。
 - 出典：Jophlin LL, Singal AK, Bataller R, Wong RJ, Sauer BG, Terrault NA, Shah VH. ACG Clinical Guideline: Alcohol-Associated Liver Disease. Am J Gastroenterol. 2024;119(1):30-54　[DOI 10.14309/ajg.0000000000002572](https://doi.org/10.14309/ajg.0000000000002572)　[PMID 38174913](https://pubmed.ncbi.nlm.nih.gov/38174913/)（区分 RESTRICTED）
-- 出題基準：医学各論 ⅩⅢ-2-A-④（慢性アルコール性臓器障害、a）　コアカリ：PS-03-05-08 (id: Jkxnubw)；GE-04-01-06 (id: JkxpswA)；TBL-01-00-289 (id: Jlvnl64)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TX-005&card_id=TX-005&version=07b2c7d3cc)　（版 `07b2c7d3cc`）
+- 出題基準：医学各論 ⅩⅢ-2-A-④（慢性アルコール性臓器障害、a）；医学各論 Ⅵ-6-E-③（アルコール性肝障害、a）　コアカリ：PS-03-05-08 (id: Jkxnubw)；GE-04-01-06 (id: JkxpswA)；TBL-01-00-289 (id: Jlvnl64)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TX-005&card_id=TX-005&version=b435069b5f)　（版 `b435069b5f`）
 
 ### TX-006　下書き（出典の照合前）
 
@@ -84,7 +84,7 @@
 - 出題基準：医学各論 ⅩⅢ-2-A-④（慢性アルコール性臓器障害、a）　コアカリ：PS-03-05-08 (id: Jkxnubw)；GE-04-01-06 (id: JkxpswA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TX-006&card_id=TX-006&version=c5a0cc749e)　（版 `c5a0cc749e`）
 
-**[ここまでの 2 件（TX-005〜TX-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TX-005%E3%80%9CTX-006&cards=TX-005%2007b2c7d3cc%0ATX-006%20c5a0cc749e)**
+**[ここまでの 2 件（TX-005〜TX-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TX-005%E3%80%9CTX-006&cards=TX-005%20b435069b5f%0ATX-006%20c5a0cc749e)**
 
 ---
 
@@ -122,7 +122,7 @@
 
 - 条件：region: 日本／対象: ベンゾジアゼピン系薬剤を大量に服薬した中毒患者
 - 不確実性：添付文書の効能・効果、効能又は効果に関連する注意、用法・用量、禁忌・注意の記載に基づく。source_class は規制機関の公式情報提供として GOV_JP としたが、添付文書の class の最終判定は取り込み側に委ねる。系統的レビュー（Penninga 2016）ではフルマゼニル群で重篤な有害事象（痙攣・不整脈）のリスク上昇が報告されており、ルーチンに使う薬ではなく、場面を選ぶ解毒薬として位置づけられる。
-- 出典：フルマゼニル静注0.5mgシリンジ「テルモ」添付文書（2023年12月改訂、第1版）. 医薬品医療機器総合機構（PMDA）医薬品添付文書情報　[リンク](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/470034_2219403G1020_1_03)（区分 GOV_JP）
+- 出典：フルマゼニル静注0.5mgシリンジ「テルモ」添付文書（2023年12月改訂、第1版）. 医薬品医療機器総合機構（PMDA）医薬品添付文書情報　[リンク](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/470034_2219403G1020_1_03)（区分 UNKNOWN）
 - 出題基準：医学各論 ⅩⅢ-2-B-①（睡眠薬依存・中毒、a）　コアカリ：PS-03-05-08 (id: Jkxnubw)；TBL-01-00-552 (id: JlvnmTg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TX-009&card_id=TX-009&version=b7fd5032c7)　（版 `b7fd5032c7`）
 
@@ -190,7 +190,7 @@
 
 - 条件：region: 日本／対象: 麻薬による呼吸抑制の患者
 - 不確実性：添付文書の効能・効果、用法・用量、注意の記載に基づく。source_class は規制機関の公式情報提供として GOV_JP としたが、添付文書の class の最終判定は取り込み側に委ねる。点鼻製剤や一般向けの配布の仕組みは、国内では確認できていない。
-- 出典：ナロキソン塩酸塩静注0.2mg「AFP」添付文書（2021年12月作成、第1版）. 医薬品医療機器総合機構（PMDA）医薬品添付文書情報（区分 GOV_JP）
+- 出典：ナロキソン塩酸塩静注0.2mg「AFP」添付文書（2021年12月作成、第1版）. 医薬品医療機器総合機構（PMDA）医薬品添付文書情報（区分 UNKNOWN）
 - 出題基準：医学各論 ⅩⅢ-2-B-④（麻薬依存・中毒、a）　コアカリ：PS-03-05-08 (id: Jkxnubw)；TBL-01-00-552 (id: JlvnmTg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TX-014&card_id=TX-014&version=f0abf5bf42)　（版 `f0abf5bf42`）
 

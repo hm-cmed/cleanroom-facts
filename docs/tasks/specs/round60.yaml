@@ -1,0 +1,71 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round58_SUPP.md
+# 既存の接頭辞は続き番号（--append で取り込む）。id_start は登録時点の最大番号＋1
+round: 60
+name: 補充 第60回（皮膚・頭頸部と循環器：EY・RE・AR・HF・HT・MP・VS）
+id_start:
+  EY: 55
+  RE: 29
+  AR: 36
+  HF: 26
+  HT: 21
+  MP: 33
+  VS: 47
+src_range:
+- 4371
+- 4430
+target_cards:
+- 13
+- 30
+targets:
+- code: Ⅲ-4-C-④
+  name: 外転神経麻痺
+  level: b
+  prefix: EY
+- code: Ⅲ-4-C-⑤
+  name: 滑車神経麻痺
+  level: c
+  prefix: EY
+- code: Ⅲ-5-C-⑫
+  name: 角膜の色素沈着
+  level: c
+  prefix: EY
+- code: Ⅲ-6-D-②
+  name: 硝子体混濁
+  level: c
+  prefix: RE
+- code: Ⅴ-1-A-①
+  name: 上室期外収縮
+  level: a
+  prefix: AR
+- code: Ⅴ-2-A-②
+  name: 右心不全
+  level: a
+  prefix: HF
+- code: Ⅴ-7-B-①
+  name: 腎実質性高血圧症
+  level: a
+  prefix: HT
+- code: Ⅴ-6-C-③
+  name: アルコール性心筋症
+  level: b
+  prefix: MP
+- code: Ⅴ-6-C-④
+  name: 虚血性心筋症
+  level: b
+  prefix: MP
+- code: Ⅴ-6-F-②
+  name: 転移性腫瘍
+  level: c
+  prefix: MP
+- code: Ⅴ-6-G-①
+  name: 心臓外傷
+  level: c
+  prefix: MP
+- code: Ⅴ-8-A-③
+  name: 胸腹部大動脈瘤
+  level: a
+  prefix: VS
+- code: Ⅴ-8-D-①
+  name: リンパ浮腫
+  level: b
+  prefix: VS

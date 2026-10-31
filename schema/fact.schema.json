@@ -8,11 +8,11 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^(HP|UG|ES|GD|IN|LV|BP|AB|XS|NG|AR|HF|CH|VD|IH|MP|HT|VS|CX|RI|RO|IL|PV|LC|PL|RX|GN|KT|KF|KX|UR|GU|GY|RP|EN|TH|DM|MT|BR|IE|EX|SK|DT|SD|HX|EY|RE|OT|NL|OR|TR|ST|BT|NI|ND|EP|PN|NM|SP|NX|BD|OS|BO|TJ|AN|VI|HV|CM|BA|MY|FG|IG|RC|BL|ML|LY|HS|PB|AL|CT|VA|SA|ID|PG|DL|FT|NB|CG|GR|PD|OG|SB|SZ|MD|AX|PH|DV|PR|PX|FP|TX|SM|OC|EV|OX)-[0-9]{3}$"
+      "pattern": "^(HP|UG|ES|GD|IN|LV|BP|AB|XS|NG|AR|HF|CH|VD|IH|MP|HT|VS|CX|RI|RO|IL|PV|LC|PL|RX|GN|KT|KF|KX|UR|GU|GY|RP|EN|TH|DM|MT|BR|IE|EX|SK|DT|SD|HX|EY|RE|OT|NL|OR|TR|ST|BT|NI|ND|EP|PN|NM|SP|NX|BD|OS|BO|TJ|AN|VI|HV|CM|BA|MY|FG|IG|RC|BL|ML|LY|HS|PB|AL|CT|VA|SA|ID|PG|DL|FT|NB|CG|GR|PD|OG|SB|SZ|MD|AX|PH|DV|PR|PX|FP|TX|SM|OC|EV|OX|PE)-[0-9]{3}$"
     },
     "domain": {
       "type": "string",
-      "enum": ["HP", "UG", "ES", "GD", "IN", "LV", "BP", "AB", "XS", "NG", "AR", "HF", "CH", "VD", "IH", "MP", "HT", "VS", "CX", "RI", "RO", "IL", "PV", "LC", "PL", "RX", "GN", "KT", "KF", "KX", "UR", "GU", "GY", "RP", "EN", "TH", "DM", "MT", "BR", "IE", "EX", "SK", "DT", "SD", "HX", "EY", "RE", "OT", "NL", "OR", "TR", "ST", "BT", "NI", "ND", "EP", "PN", "NM", "SP", "NX", "BD", "OS", "BO", "TJ", "AN", "VI", "HV", "CM", "BA", "MY", "FG", "IG", "RC", "BL", "ML", "LY", "HS", "PB", "AL", "CT", "VA", "SA", "ID", "PG", "DL", "FT", "NB", "CG", "GR", "PD", "OG", "SB", "SZ", "MD", "AX", "PH", "DV", "PR", "PX", "FP", "TX", "SM", "OC", "EV", "OX"]
+      "enum": ["HP", "UG", "ES", "GD", "IN", "LV", "BP", "AB", "XS", "NG", "AR", "HF", "CH", "VD", "IH", "MP", "HT", "VS", "CX", "RI", "RO", "IL", "PV", "LC", "PL", "RX", "GN", "KT", "KF", "KX", "UR", "GU", "GY", "RP", "EN", "TH", "DM", "MT", "BR", "IE", "EX", "SK", "DT", "SD", "HX", "EY", "RE", "OT", "NL", "OR", "TR", "ST", "BT", "NI", "ND", "EP", "PN", "NM", "SP", "NX", "BD", "OS", "BO", "TJ", "AN", "VI", "HV", "CM", "BA", "MY", "FG", "IG", "RC", "BL", "ML", "LY", "HS", "PB", "AL", "CT", "VA", "SA", "ID", "PG", "DL", "FT", "NB", "CG", "GR", "PD", "OG", "SB", "SZ", "MD", "AX", "PH", "DV", "PR", "PX", "FP", "TX", "SM", "OC", "EV", "OX", "PE"]
     },
     "subdomain": { "type": ["string", "null"] },
     "assertion": {

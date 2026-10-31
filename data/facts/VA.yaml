@@ -231,7 +231,7 @@
     corroboration: null
   uncertainty: 診断基準の本文は厚労省公式 PDF で確認した。国内の診療ガイドラインは『ベーチェット病診療ガイドライン2020』が現行だが、本カードは診断基準の公的資料に基づく。眼病変の詳細は眼科分野の既存カードを正とする。
   curriculum:
-    kokushi: 医学各論 Ⅺ-2-D-④（Behçet病、a）
+    kokushi: 医学各論 Ⅺ-2-D-④（Behçet病、a）；医学各論 Ⅵ-5-A-③（消化管Behçet、c）
     core_curriculum: 'PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；TBL-01-00-565 (id: JmxLo04)'
   publication_info:
     created: '2026-10-31'
@@ -243,6 +243,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅵ-5-A-③ を足した（医学各論 Ⅺ-2-D-④（Behçet病、a） → 医学各論 Ⅺ-2-D-④（Behçet病、a）；医学各論 Ⅵ-5-A-③（消化管Behçet、c））。三原の承認による
 - id: VA-008
   domain: VA
   subdomain: Behçet病

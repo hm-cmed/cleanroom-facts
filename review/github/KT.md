@@ -45,10 +45,10 @@
 - 条件：region: 米国／study: 総説（2015年）
 - 不確実性：境界の方針に沿い、腎の側の評価（腎機能と画像）に絞った記載で、高血圧そのものの管理や血行再建の適応判断は循環器側の範囲として扱っていない。各画像検査の感度・特異度の数値はこの出典の抄録では確認していない。
 - 出典：Tafur-Soto JD, White CJ. Renal artery stenosis. Cardiol Clin. 2015;33(1):59-73　[DOI 10.1016/j.ccl.2014.09.006](https://doi.org/10.1016/j.ccl.2014.09.006)　[PMID 25439331](https://pubmed.ncbi.nlm.nih.gov/25439331/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅷ-2-A-②（腎血管性高血圧症、b）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-328 (id: Jlvnl94)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-003&card_id=KT-003&version=e5c8876565)　（版 `e5c8876565`）
+- 出題基準：医学各論 Ⅷ-2-A-②（腎血管性高血圧症、b）；医学各論 Ⅷ-9-B-④（動脈硬化、b）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-328 (id: Jlvnl94)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-003&card_id=KT-003&version=6d46e74a68)　（版 `6d46e74a68`）
 
-**[ここまでの 1 件（KT-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-003&cards=KT-003%20e5c8876565)**
+**[ここまでの 1 件（KT-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-003&cards=KT-003%206d46e74a68)**
 
 ---
 
@@ -77,10 +77,10 @@
 - 条件：region: 欧州／study: イタリアの多施設で登録されたアテローム塞栓性腎疾患354例の前向きコホート（平均追跡2年）
 - 不確実性：スタチンと転帰の関連は観察研究の解析であり、因果関係を示すものではない。スタチンを含む治療薬の国内の承認・保険適用は本カードでは確認していない（取り込み時に確認が必要）。2007年の研究であり、現在の治療環境とは異なる可能性がある。
 - 出典：Scolari F, Ravani P, Gaggi R, Santostefano M, Rollino C, et al. The challenge of diagnosing atheroembolic renal disease: clinical features and prognostic factors. Circulation. 2007;116(3):298-304　[DOI 10.1161/CIRCULATIONAHA.106.680991](https://doi.org/10.1161/CIRCULATIONAHA.106.680991)　[PMID 17606842](https://pubmed.ncbi.nlm.nih.gov/17606842/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅷ-2-A-⑤（コレステロール塞栓症、b）　コアカリ：PS-02-09-05 (id: JkxnuRs)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-005&card_id=KT-005&version=fdc845e437)　（版 `fdc845e437`）
+- 出題基準：医学各論 Ⅷ-2-A-⑤（コレステロール塞栓症、b）；医学各論 Ⅷ-9-B-④（動脈硬化、b）　コアカリ：PS-02-09-05 (id: JkxnuRs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-005&card_id=KT-005&version=37a349babd)　（版 `37a349babd`）
 
-**[ここまでの 1 件（KT-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-005&cards=KT-005%20fdc845e437)**
+**[ここまでの 1 件（KT-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-005&cards=KT-005%2037a349babd)**
 
 ---
 
