@@ -409,8 +409,8 @@
     corroboration: null
   uncertainty: 境界の方針に沿い、腎障害（円柱腎症）に絞った記載で、骨髄腫そのものの診断や血液学的な治療体系は扱っていない。ボルテゾミブやデキサメタゾンを含む治療薬の国内の承認・保険適用は本カードでは確認していない（取り込み時に PMDA の添付文書で確認が必要）。
   curriculum:
-    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
-    kokushi: 医学各論 Ⅷ-2-B-③（骨髄腫腎、b）
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-629 (id: Jlvnmaw)；TBL-02-01-020 (id: JlAKpWw)'
+    kokushi: 医学各論 Ⅷ-2-B-③（骨髄腫腎、b）；医学各論 Ⅶ-3-C-④（多発性骨髄腫、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -421,6 +421,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ重複の統合：LY-021 の出題基準・コアカリの番号をこのカードに足した（医学各論 Ⅷ-2-B-③（骨髄腫腎、b） → 医学各論 Ⅷ-2-B-③（骨髄腫腎、b）；医学各論 Ⅶ-3-C-④（多発性骨髄腫、a））。LY-021 は廃止してこのカードに誘導（三原の承認による）
 - id: KT-013
   domain: KT
   subdomain: 慢性間質性腎炎

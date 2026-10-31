@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-31
 
-全 32 件のうち、監修済み 0 件。
+全 31 件のうち、監修済み 0 件。
 
 ## 急性リンパ性白血病
 
@@ -254,17 +254,7 @@
 - 出題基準：医学各論 Ⅶ-3-C-④（多発性骨髄腫、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-629 (id: Jlvnmaw)；TBL-02-01-020 (id: JlAKpWw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LY-020&card_id=LY-020&version=65904dd1db)　（版 `65904dd1db`）
 
-### LY-021　下書き（出典の照合前）
-
-> 症候性多発性骨髄腫に伴う急性腎障害の最多の機序は軽鎖円柱腎症であり、腎回復には補液と誘因の是正に加えて遊離軽鎖の産生を速やかに減らす治療が要り、新規診断例での標準はボルテゾミブと高用量デキサメタゾンの併用である。
-
-- 条件：region: 国際／対象: 成人
-- 不確実性：本出典は腎障害の側面に限る補助候補であり、骨髄腫本体の出典にはしない（依頼文 §8）。ボルテゾミブは国内で多発性骨髄腫の適応で承認され保険適用があることは造血器腫瘍診療ガイドライン第3.1版に標準治療として記載されていることで確認したが、PMDA 添付文書での個別照合は未了。
-- 出典：Bridoux F, Leung N, Belmouaz M, Royal V, Ronco P, Nasr SH. Management of acute kidney injury in symptomatic multiple myeloma. Kidney Int. 2021;99(3):570-580.　[DOI 10.1016/j.kint.2020.11.010](https://doi.org/10.1016/j.kint.2020.11.010)　[PMID 33440212](https://pubmed.ncbi.nlm.nih.gov/33440212/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅶ-3-C-④（多発性骨髄腫、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-629 (id: Jlvnmaw)；TBL-02-01-020 (id: JlAKpWw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LY-021&card_id=LY-021&version=5d7aa41537)　（版 `5d7aa41537`）
-
-**[ここまでの 4 件（LY-018〜LY-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LY-018%E3%80%9CLY-021&cards=LY-018%20abb4668dd6%0ALY-019%2065a2efb929%0ALY-020%2065904dd1db%0ALY-021%205d7aa41537)**
+**[ここまでの 3 件（LY-018〜LY-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LY-018%E3%80%9CLY-020&cards=LY-018%20abb4668dd6%0ALY-019%2065a2efb929%0ALY-020%2065904dd1db)**
 
 ---
 

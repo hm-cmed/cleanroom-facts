@@ -727,12 +727,15 @@
     created: '2026-10-31'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: KT-012
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 廃止：KT-012（先に作成）と実質同じ内容のため、番号を KT-012 に移して誘導（分野をまたぐ重複の統合、三原の承認による）
 - id: LY-022
   domain: LY
   subdomain: 意義不明の単クローン性免疫グロブリン血症<MGUS>

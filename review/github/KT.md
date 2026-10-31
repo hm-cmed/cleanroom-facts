@@ -183,10 +183,10 @@
 - 条件：region: 国際／study: 総説（2021年）
 - 不確実性：境界の方針に沿い、腎障害（円柱腎症）に絞った記載で、骨髄腫そのものの診断や血液学的な治療体系は扱っていない。ボルテゾミブやデキサメタゾンを含む治療薬の国内の承認・保険適用は本カードでは確認していない（取り込み時に PMDA の添付文書で確認が必要）。
 - 出典：Bridoux F, Leung N, Belmouaz M, Royal V, Ronco P, Nasr SH. Management of acute kidney injury in symptomatic multiple myeloma. Kidney Int. 2021;99(3):570-580　[DOI 10.1016/j.kint.2020.11.010](https://doi.org/10.1016/j.kint.2020.11.010)　[PMID 33440212](https://pubmed.ncbi.nlm.nih.gov/33440212/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅷ-2-B-③（骨髄腫腎、b）　コアカリ：PS-02-09-05 (id: JkxnuRs)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-012&card_id=KT-012&version=bbd9d10bbd)　（版 `bbd9d10bbd`）
+- 出題基準：医学各論 Ⅷ-2-B-③（骨髄腫腎、b）；医学各論 Ⅶ-3-C-④（多発性骨髄腫、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-629 (id: Jlvnmaw)；TBL-02-01-020 (id: JlAKpWw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-012&card_id=KT-012&version=a9350250bf)　（版 `a9350250bf`）
 
-**[ここまでの 1 件（KT-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-012&cards=KT-012%20bbd9d10bbd)**
+**[ここまでの 1 件（KT-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-012&cards=KT-012%20a9350250bf)**
 
 ---
 
