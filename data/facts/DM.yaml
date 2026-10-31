@@ -438,11 +438,11 @@
     source_license: Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 診断基準の原典：SRC-3251（日本糖尿病学会・日本産科婦人科学会・日本糖尿病・妊娠学会. 妊娠中の糖代謝異常と診断基準（平成27年8月1日改訂、3学会統一基準）. 2015）。統合した PG-033 の出典で、75g OGTT の基準値と明らかな糖尿病の基準が一致
   uncertainty: 診断値と管理目標はガイドラインの表から読み取った。本カードは糖尿病としての分類と血糖管理に絞り、分娩や胎児の管理など妊娠管理の詳細は範囲外とした。インスリン療法への言及はガイドラインに基づく記載であり、個別製剤の国内承認・保険適用の確認は本調査では行っていない。
   curriculum:
-    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
-    kokushi: 医学各論 Ⅹ-6-A-④（妊娠糖尿病、b）
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；PS-02-11-05 (id: JkxnuSU)；PS-02-11-03 (id: JkxnuSM)；TBL-01-00-384 (id: JlvnmDs)；TBL-02-10-013 (id: JlAKpqo)'
+    kokushi: 医学各論 Ⅹ-6-A-④（妊娠糖尿病、b）；医学各論 Ⅰ-1-C-①（耐糖能異常合併妊娠(妊娠糖尿病、糖尿病、妊娠中の明らかな糖尿病)、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -453,6 +453,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 分野をまたぐ重複の統合：PG-033 の出題基準・コアカリの番号をこのカードに足した（医学各論 Ⅹ-6-A-④（妊娠糖尿病、b） → 医学各論 Ⅹ-6-A-④（妊娠糖尿病、b）；医学各論 Ⅰ-1-C-①（耐糖能異常合併妊娠(妊娠糖尿病、糖尿病、妊娠中の明らかな糖尿病)、a））。PG-033 は廃止してこのカードに誘導（三原の承認による）
+  - date: '2026-10-31'
+    by: claude-code
+    change: provenance.corroboration に、統合した PG-033 の出典（3学会統一基準、SRC-3251）を診断基準の原典として記録（F1、三原の承認による）
 - id: DM-014
   domain: DM
   subdomain: 高齢者の糖尿病

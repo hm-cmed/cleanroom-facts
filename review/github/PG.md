@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-10-31
 
-全 48 件のうち、監修済み 0 件。
+全 47 件のうち、監修済み 0 件。
 
 ## 妊娠悪阻
 
@@ -428,16 +428,6 @@
 
 ## 耐糖能異常合併妊娠(妊娠糖尿病、糖尿病、妊娠中の明らかな糖尿病)
 
-### PG-033　下書き（出典の照合前）
-
-> 妊娠中の糖代謝異常は妊娠糖尿病（GDM）、妊娠中の明らかな糖尿病、糖尿病合併妊娠の3つに分類される。GDM は75g経口ブドウ糖負荷試験で空腹時血糖92 mg/dL以上、1時間値180 mg/dL以上、2時間値153 mg/dL以上のいずれか1点以上を満たす場合に診断する。妊娠中の明らかな糖尿病は空腹時血糖126 mg/dL以上またはHbA1c 6.5%以上で診断する
-
-- 条件：region: 日本／対象: 妊婦
-- 不確実性：診断基準そのものは3学会統一基準で確認した。スクリーニングの手順（妊娠初期の随時血糖、妊娠24〜28週の50gブドウ糖負荷試験など）は産科編2026の CQ004-1 に委ねられる範囲で、本カードでは扱わない
-- 出典：日本糖尿病学会・日本産科婦人科学会・日本糖尿病・妊娠学会. 妊娠中の糖代謝異常と診断基準（平成27年8月1日改訂、3学会統一基準）. 2015（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅰ-1-C-①（耐糖能異常合併妊娠(妊娠糖尿病、糖尿病、妊娠中の明らかな糖尿病)、a）　コアカリ：PS-02-11-05 (id: JkxnuSU)；PS-02-11-03 (id: JkxnuSM)；TBL-01-00-384 (id: JlvnmDs)；TBL-02-10-013 (id: JlAKpqo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PG-033&card_id=PG-033&version=c3229ed1a6)　（版 `c3229ed1a6`）
-
 ### PG-034　下書き（出典の照合前）
 
 > 糖代謝異常合併妊娠の血糖管理目標は、空腹時血糖95 mg/dL未満かつ食後1時間値140 mg/dL未満、あるいは空腹時血糖95 mg/dL未満かつ食後2時間値120 mg/dL未満で、HbA1c 6.5%未満、グリコアルブミン15.8%未満が参考指標とされる。まず食事療法を行い、目標に達しない場合はインスリン療法を行う。分娩中の母体血糖は70〜120 mg/dLを目標とし、GDM妊婦には分娩後6〜12週に75g経口ブドウ糖負荷試験が勧められる
@@ -458,7 +448,7 @@
 - 出題基準：医学各論 Ⅰ-1-C-①（耐糖能異常合併妊娠(妊娠糖尿病、糖尿病、妊娠中の明らかな糖尿病)、a）　コアカリ：PS-02-11-05 (id: JkxnuSU)；PS-02-11-03 (id: JkxnuSM)；TBL-01-00-384 (id: JlvnmDs)；TBL-02-10-013 (id: JlAKpqo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PG-035&card_id=PG-035&version=2d40921139)　（版 `2d40921139`）
 
-**[ここまでの 3 件（PG-033〜PG-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PG-033%E3%80%9CPG-035&cards=PG-033%20c3229ed1a6%0APG-034%20c80931642e%0APG-035%202d40921139)**
+**[ここまでの 2 件（PG-034〜PG-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PG-034%E3%80%9CPG-035&cards=PG-034%20c80931642e%0APG-035%202d40921139)**
 
 ---
 

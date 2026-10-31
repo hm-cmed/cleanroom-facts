@@ -1147,12 +1147,15 @@
     created: '2026-10-31'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: DM-013
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-10-31'
+    by: claude-code
+    change: 廃止：DM-013（先に作成）と実質同じ内容のため、番号を DM-013 に移して誘導（分野をまたぐ重複の統合、三原の承認による）
 - id: PG-034
   domain: PG
   subdomain: 耐糖能異常合併妊娠(妊娠糖尿病、糖尿病、妊娠中の明らかな糖尿病)

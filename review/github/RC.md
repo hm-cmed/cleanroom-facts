@@ -145,12 +145,12 @@
 > 温式自己免疫性溶血性貧血の治療の中心は副腎皮質ステロイドであり、リツキシマブは有効性が確立し、本邦でも保険償還が認められるようになっている。
 
 - 条件：region: 日本／対象: 成人
-- 不確実性：薬剤名（副腎皮質ステロイド、リツキシマブ）を含むカード。保険償還に関する記述は参照ガイド令和7年度改訂版の緒言に基づくものであり、個別の効能・効果の文言はPMDA添付文書で未照合。令和4年度改訂版では温式AIHAへのリツキシマブ等の二次治療は国内適応外とされていたため、版による記述の差異に注意する。
+- 不確実性：薬剤名（副腎皮質ステロイド、リツキシマブ）を含むカード。リツキシマブは2026年に自己免疫性溶血性貧血（温式・冷式を含む、公知申請）の効能追加が承認された（PMDA 審査報告書で効能追加を確認。承認日は添付文書で未照合）。令和4年度改訂版の参照ガイドが「国内適応外」としていたのは、効能追加の前の記述である。
 - 出典：特発性造血障害に関する調査研究班. 自己免疫性溶血性貧血 診療の参照ガイド 令和7年度改訂版. 2026年3月.　[リンク](http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅶ-1-C-①（自己免疫性溶血性貧血、b）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-008 (id: JlvnlXw)；TBL-02-01-013 (id: JlAKpWQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-012&card_id=RC-012&version=92036dd0b1)　（版 `92036dd0b1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-012&card_id=RC-012&version=05f81dcc9a)　（版 `05f81dcc9a`）
 
-**[ここまでの 2 件（RC-011〜RC-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RC-011%E3%80%9CRC-012&cards=RC-011%200a2066aa20%0ARC-012%2092036dd0b1)**
+**[ここまでの 2 件（RC-011〜RC-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RC-011%E3%80%9CRC-012&cards=RC-011%200a2066aa20%0ARC-012%2005f81dcc9a)**
 
 ---
 
@@ -171,12 +171,12 @@
 > 寒冷凝集素症では副腎皮質ステロイドの有効性は確立しておらず、寒冷回避（保温）が治療の基本である。
 
 - 条件：region: 日本／対象: 成人
-- 不確実性：薬剤名（副腎皮質ステロイド）を含むカードで、記述は参照ガイド令和7年度改訂版の緒言に基づく。同ガイドでは寒冷凝集素症に新たな治療薬が適応になったとされ、薬物療法の項にスチムリマブが挙げられているが、効能・効果の文言はPMDA添付文書で未照合のため主張には含めていない。
+- 不確実性：薬剤名（副腎皮質ステロイド）を含むカードで、記述は参照ガイド令和7年度改訂版の緒言に基づく。同ガイドでは寒冷凝集素症に新たな治療薬が適応になったとされ、薬物療法の項にスチムリマブが挙げられている。スチムリマブは国内で承認されている（PMDA 審査報告書で確認。承認日と効能・効果の文言は未照合）が、主張には含めていない。
 - 出典：特発性造血障害に関する調査研究班. 自己免疫性溶血性貧血 診療の参照ガイド 令和7年度改訂版. 2026年3月.　[リンク](http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅶ-1-C-②（冷式抗体による溶血性貧血、b）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-014&card_id=RC-014&version=c18d9d57e7)　（版 `c18d9d57e7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-014&card_id=RC-014&version=4ef00705ce)　（版 `4ef00705ce`）
 
-**[ここまでの 2 件（RC-013〜RC-014）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RC-013%E3%80%9CRC-014&cards=RC-013%2080ac94a786%0ARC-014%20c18d9d57e7)**
+**[ここまでの 2 件（RC-013〜RC-014）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RC-013%E3%80%9CRC-014&cards=RC-013%2080ac94a786%0ARC-014%204ef00705ce)**
 
 ---
 

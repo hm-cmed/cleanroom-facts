@@ -205,10 +205,10 @@
 - 条件：region: 日本／study: 日本糖尿病学会「糖尿病診療ガイドライン2019」英語版（第17章 妊娠）
 - 不確実性：診断値と管理目標はガイドラインの表から読み取った。本カードは糖尿病としての分類と血糖管理に絞り、分娩や胎児の管理など妊娠管理の詳細は範囲外とした。インスリン療法への言及はガイドラインに基づく記載であり、個別製剤の国内承認・保険適用の確認は本調査では行っていない。
 - 出典：Araki E, et al. Japanese Clinical Practice Guideline for Diabetes 2019. J Diabetes Investig. 2020;11(4):1020–1076.　[DOI 10.1111/jdi.13306](https://doi.org/10.1111/jdi.13306)　[PMID 33021749](https://pubmed.ncbi.nlm.nih.gov/33021749/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅹ-6-A-④（妊娠糖尿病、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-013&card_id=DM-013&version=8abcc2d08f)　（版 `8abcc2d08f`）
+- 出題基準：医学各論 Ⅹ-6-A-④（妊娠糖尿病、b）；医学各論 Ⅰ-1-C-①（耐糖能異常合併妊娠(妊娠糖尿病、糖尿病、妊娠中の明らかな糖尿病)、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；PS-02-11-05 (id: JkxnuSU)；PS-02-11-03 (id: JkxnuSM)；TBL-01-00-384 (id: JlvnmDs)；TBL-02-10-013 (id: JlAKpqo)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-013&card_id=DM-013&version=150fd55231)　（版 `150fd55231`）
 
-**[ここまでの 1 件（DM-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DM-013&cards=DM-013%208abcc2d08f)**
+**[ここまでの 1 件（DM-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DM-013&cards=DM-013%20150fd55231)**
 
 ---
 
