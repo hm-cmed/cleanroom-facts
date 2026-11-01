@@ -13,10 +13,10 @@
 - 条件：region: 国際／対象: 急性中毒患者
 - 不確実性：本カードの適応・用量はドイツ語圏の中毒センターによる総説に基づく国際的な整理であり、薬用炭の解毒目的の効能・用法は国内の添付文書では未確認である。拮抗薬・解毒薬の国内承認状況は、ヒドロキソコバラミン（効能はシアン及びシアン化合物による中毒）、ナロキソン塩酸塩（効能は麻薬による呼吸抑制ならびに覚醒遅延の改善、投与は静脈内注射）、経口アセチルシステイン（アセトアミノフェン中毒）、フルマゼニル（ベンゾジアゼピン系薬剤による鎮静の解除及び呼吸抑制の改善）が承認されている一方、アセチルシステイン静注製剤の同適応、プラリドキシムヨウ化メチル、メチレンブルー、グルカゴン、炭酸水素ナトリウムの解毒目的の効能は添付文書で未確認であり、適応外使用となる場合がある。急性中毒の標準診療の枠組み自体は第55回（TX-019）が急性中毒標準診療ガイド（SRC-3988）で作成済みであり、本カードは消化管除染の側面に限る。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】薬用炭については、PMDA収載の添付文書（薬用炭「日医工」）の効能・効果に「自家中毒・薬物中毒における吸着及び解毒」が含まれていることを確認した（用法は1日2〜20g）。経口アセチルシステイン内用液も「アセトアミノフェン過量摂取時の解毒」の承認薬（承認番号21400AMZ00471000）であり、「国内の添付文書では未確認」は失効
 - 出典：Zellner T, Prasa D, Färber E, et al. The Use of Activated Charcoal to Treat Intoxications. Dtsch Arztebl Int. 2019;116(18):311-317　[DOI 10.3238/arztebl.2019.0311](https://doi.org/10.3238/arztebl.2019.0311)　[PMID 31219028](https://pubmed.ncbi.nlm.nih.gov/31219028/)（区分 UNKNOWN）
-- 出題基準：－　コアカリ：PS-03-05-06 (id: Jkxnubo)；PS-03-05-07 (id: Jkxnubs)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OX-001&card_id=OX-001&version=ce6ba88991)　（版 `ce6ba88991`）
+- 出題基準：医学各論 ⅩⅢ-5-G-⑤（急性中毒、a）；医学各論 ⅩⅢ-2-C（毒劇物中毒、b）　コアカリ：PS-03-05-06 (id: Jkxnubo)；PS-03-05-07 (id: Jkxnubs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OX-001&card_id=OX-001&version=df302b7023)　（版 `df302b7023`）
 
-**[ここまでの 1 件（OX-001）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OX-001&cards=OX-001%20ce6ba88991)**
+**[ここまでの 1 件（OX-001）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OX-001&cards=OX-001%20df302b7023)**
 
 ---
 

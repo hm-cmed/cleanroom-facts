@@ -5,6 +5,7 @@
     plain_statement_ja: Rome IVは、従来の機能性消化管疾患（FGID）を「腸脳相関の障害（disorders of gut-brain interaction：DGBI）」と言い換えるのが適切だとした。症状は、腸内細菌叢の乱れ、粘膜免疫の変化、内臓知覚過敏などの腸のシグナル伝達の変化、中枢神経系による腸のシグナルと運動の調節の異常などが組み合わさって生じると説明されている。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: 器質的疾患（炎症、腫瘍、構造異常）
     common_misconception: 機能性消化管疾患は気のせいで、身体的な異常はない
   provenance:
@@ -27,6 +28,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-002
   domain: NG
   subdomain: 腸脳相関病（DGBI）の概念と分類
@@ -34,6 +39,7 @@
     plain_statement_ja: Rome IVは機能性消化管疾患を、A 食道疾患、B 胃十二指腸疾患、C 腸疾患、D 中枢性に介在される消化管の痛み、E 胆嚢およびOddi括約筋の疾患、F 肛門直腸疾患、G 新生児・乳幼児の機能性消化管疾患、H 小児・思春期の機能性消化管疾患、の8群に分け、成人33、小児17の疾患を定義している。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: null
     common_misconception: 機能性消化管疾患はIBSと機能性ディスペプシアの2つだけである
   provenance:
@@ -56,6 +62,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-003
   domain: NG
   subdomain: 腸脳相関病（DGBI）の概念と分類
@@ -63,6 +73,7 @@
     plain_statement_ja: Rome IVはRome IIIの10年後に公表され、オピオイド誘発性便秘、麻薬性腸症候群（narcotic bowel syndrome）、カンナビノイド悪阻症候群、逆流過敏症（reflux hypersensitivity）を新たに取り上げた。機能性腹痛症候群は中枢介在性腹痛症候群に名称が変わり、Oddi括約筋機能不全のⅠ型とⅢ型は機能性消化管疾患から外された。IBSの病型分類は一般人口の基準データにもとづいて改められた。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: null
     common_misconception: Rome IVはRome IIIの診断名をそのまま引き継いだ
   provenance:
@@ -85,6 +96,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-004
   domain: NG
   subdomain: 日本神経消化器病学会
@@ -150,6 +165,7 @@
     plain_statement_ja: Rome Foundation Global Studyは、6大陸33か国の成人73,076人を、インターネット調査（26か国、54,127人）と対面の世帯調査（9か国、18,949人）で調べた。Rome IV基準で何らかの機能性消化管疾患をもつ人の割合は、インターネット調査で40.3%、世帯調査で20.7%だった。
     condition:
       source: Rome Foundation Global Study（2021）
+      region: 日本
     differential: 調査方法によって有病率が大きく異なる
     common_misconception: 機能性消化管疾患はまれな病気である
   provenance:
@@ -172,6 +188,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高）。三原の承認による
 - id: NG-007
   domain: NG
   subdomain: DGBIの疫学
@@ -179,6 +199,7 @@
     plain_statement_ja: 同じ調査で、疾患別の有病率（インターネット調査対世帯調査）は、機能性便秘11.7%対6.6%、機能性ディスペプシア7.2%対4.8%、機能性下痢4.7%対1.2%、IBS（Rome IV）4.1%対1.5%、機能性腹部膨満3.5%対1.2%だった。
     condition:
       source: Rome Foundation Global Study（2021）
+      region: 日本
     differential: null
     common_misconception: 機能性消化管疾患で最も多いのはIBSである
   provenance:
@@ -201,6 +222,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高）。三原の承認による
 - id: NG-008
   domain: NG
   subdomain: DGBIの疫学
@@ -208,6 +233,7 @@
     plain_statement_ja: 機能性消化管疾患は女性に多く、何らかの疾患をもつ割合はインターネット調査で女性46.5%、男性34.2%（オッズ比1.7）だった。IBS（Rome IV）の女性対男性のオッズ比は1.8（インターネット）と2.0（世帯）だった。
     condition:
       source: Rome Foundation Global Study（2021）
+      region: 日本
     differential: null
     common_misconception: 機能性消化管疾患に性差はない
   provenance:
@@ -230,6 +256,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高）。三原の承認による
 - id: NG-009
   domain: NG
   subdomain: DGBIの疫学
@@ -237,6 +267,7 @@
     plain_statement_ja: 機能性消化管疾患をもつ人は、身体面・精神面の生活の質（PROMIS-10）が低く、腸の症状で医師を受診した割合も高かった（インターネット調査で46.5%対27.1%）。
     condition:
       source: Rome Foundation Global Study（2021）
+      region: 日本
     differential: null
     common_misconception: 機能性消化管疾患は生活の質や受診行動に影響しない
   provenance:
@@ -259,6 +290,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高）。三原の承認による
 - id: NG-010
   domain: NG
   subdomain: DGBIの疫学
@@ -463,12 +498,16 @@
   uncertainty: 成人の頻度は不明とされる。出典の最終レビューは2017年
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅹ-10-B-①（アセトン血性嘔吐症<周期性嘔吐症>、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-10-B-①（アセトン血性嘔吐症<周期性嘔吐症>、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-017
   domain: NG
   subdomain: 周期性嘔吐症候群
@@ -476,6 +515,7 @@
     plain_statement_ja: 周期性嘔吐症候群は、片頭痛やその家族歴がある人、長期の大麻使用歴がある人に起こりやすい。
     condition:
       source: NIDDK
+      region: 米国
     differential: null
     common_misconception: 周期性嘔吐症候群は心因性の嘔吐と同じである
   provenance:
@@ -492,12 +532,19 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅹ-10-B-①（アセトン血性嘔吐症<周期性嘔吐症>、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-10-B-①（アセトン血性嘔吐症<周期性嘔吐症>、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「米国」を入れた（作り手の候補、確度高）。三原の承認による
 - id: NG-018
   domain: NG
   subdomain: 周期性嘔吐症候群
@@ -522,12 +569,16 @@
   uncertainty: 日本での保険適用は添付文書で確認する
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅹ-10-B-①（アセトン血性嘔吐症<周期性嘔吐症>、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-10-B-①（アセトン血性嘔吐症<周期性嘔吐症>、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-019
   domain: NG
   subdomain: 便失禁
@@ -535,6 +586,7 @@
     plain_statement_ja: 便失禁は、固形便・液状便・粘液を意図せず肛門から漏らすことで、最も多いのは便意を我慢できない切迫性便失禁であり、気づかないうちに漏れる漏出性便失禁もある。
     condition:
       source: NIDDK
+      region: 米国
     differential: null
     common_misconception: 便失禁は高齢者の避けられない老化現象である
   provenance:
@@ -557,6 +609,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「米国」を入れた（作り手の候補、確度高）。三原の承認による
 - id: NG-020
   domain: NG
   subdomain: 便失禁
@@ -906,6 +962,7 @@
     plain_statement_ja: IBSは腸脳相関の問題を伴い、食物が消化管を速すぎたり遅すぎたり移動したり、通常量のガスや便で痛みを感じたりする。幼少期のつらい出来事（虐待など）、うつ病・不安症・身体症状症、消化管の細菌感染、小腸内細菌異常増殖（SIBO）、食物不耐症、遺伝的要因がIBSに関わると考えられている。
     condition:
       source: NIDDK
+      region: 米国
     differential: 感染後IBS（IN-019）
     common_misconception: IBSの原因はストレスだけである
   provenance:
@@ -922,12 +979,19 @@
   uncertainty: 出典の最終レビューは2017年
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-005 (id: JlAKpjg)；TBL-02-07-015 (id: JlAKpkI)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「米国」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-032
   domain: NG
   subdomain: IBSと腸脳相関
@@ -952,12 +1016,16 @@
   uncertainty: 出典の最終レビューは2017年
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-033
   domain: NG
   subdomain: IBSと腸脳相関
@@ -982,12 +1050,16 @@
   uncertainty: 米国の情報（2017年時点）。日本の承認・保険適用は添付文書で確認する
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-022 (id: JlAKpkc)；TBL-02-07-021 (id: JlAKpkY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-034
   domain: NG
   subdomain: 腸内細菌叢とプロバイオティクス
@@ -995,6 +1067,7 @@
     plain_statement_ja: プロバイオティクスは健康効果を意図して摂取する生きた微生物で、プレバイオティクスは有用な微生物の栄養となる難消化性の食品成分、シンバイオティクスは両者を組み合わせたものである。
     condition:
       source: NCCIH
+      region: 米国
     differential: null
     common_misconception: プロバイオティクスとプレバイオティクスは同じものである
   provenance:
@@ -1017,6 +1090,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「米国」を入れた（作り手の候補、確度高）。三原の承認による
 - id: NG-035
   domain: NG
   subdomain: 腸内細菌叢とプロバイオティクス
@@ -1024,6 +1101,7 @@
     plain_statement_ja: 抗菌薬とプロバイオティクスの併用は、抗菌薬関連下痢症の起こりやすさを約半分に減らすと報告され（2017年のレビュー）、抗菌薬投与中の小児と成人でC. difficile下痢症のリスクを下げることは中等度の確実性があるとされる。一方、IBSに対しては全般症状や腹痛を改善する可能性はあるものの、効果について明確な結論は出ていない。
     condition:
       source: NCCIH
+      region: 米国
     differential: null
     common_misconception: プロバイオティクスはIBSの確立した治療である
   provenance:
@@ -1046,6 +1124,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「米国」を入れた（作り手の候補、確度高）。三原の承認による
 - id: NG-036
   domain: NG
   subdomain: 腸内細菌叢とプロバイオティクス
@@ -1083,6 +1165,7 @@
     plain_statement_ja: Rome IVは2016年5月のGastroenterology特集号として19章で公表され、各疾患群の章に加えて、神経消化器病学の基礎科学、生理・運動と知覚、腸内微小環境、薬理学、年齢・性差、多文化的側面、生物心理社会的側面、臨床試験のデザイン、成人用診断質問票の章を含む。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: null
     common_misconception: Rome IVは診断基準の一覧表だけである
   provenance:
@@ -1105,6 +1188,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-038
   domain: NG
   subdomain: 腸脳相関病（DGBI）の概念と分類
@@ -1112,6 +1199,7 @@
     plain_statement_ja: 多次元臨床プロファイル（MDCP）は、DGBIを、カテゴリー診断、臨床的修飾因子、生活への影響、心理社会的修飾因子、生理学的修飾因子の5つの次元で捉え、患者ごとの病態を多面的に記述するための枠組みである。
     condition:
       criteria: Rome Foundation MDCP
+      region: 国際
     differential: null
     common_misconception: DGBIの評価はRome基準の診断名だけで十分
   provenance:
@@ -1134,6 +1222,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-039
   domain: NG
   subdomain: DGBIの国内承認薬
@@ -1244,12 +1336,16 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-022 (id: JlAKpkc)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-043
   domain: NG
   subdomain: DGBIの国内承認薬
@@ -1273,12 +1369,16 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-022 (id: JlAKpkc)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-044
   domain: NG
   subdomain: DGBIの国内承認薬
@@ -1302,12 +1402,16 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-021 (id: JlAKpkY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）；医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）；医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-045
   domain: NG
   subdomain: DGBIの国内承認薬
@@ -1331,12 +1435,16 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-021 (id: JlAKpkY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-046
   domain: NG
   subdomain: DGBIの国内承認薬
@@ -1360,12 +1468,16 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-021 (id: JlAKpkY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分C、名称は項目表に合わせた）。三原の承認による
 - id: NG-047
   domain: NG
   subdomain: DGBIの国内承認薬
@@ -1402,6 +1514,7 @@
     plain_statement_ja: げっぷ障害は、胃内の空気が上がってくる過剰な胃げっぷと、食道に吸い込んだ空気がすぐに吐き出される胃上部げっぷ（supragastric belching）に分けられる。診断には24時間食道インピーダンス・pHモニタリング（MII-pH）が最も信頼できる方法とされ、胃上部げっぷが24時間に13回を超えると病的とする研究がある。
     condition:
       source: Sawada & Fujiwara 2024
+      region: 国際
     differential: GERDに伴うげっぷ
     common_misconception: げっぷはすべて胃の空気によるものである
   provenance:
@@ -1424,6 +1537,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-049
   domain: NG
   subdomain: げっぷ障害・反芻症候群
@@ -1431,6 +1548,7 @@
     plain_statement_ja: 胃上部げっぷには、認知行動療法や言語療法が有効で、50〜80%の患者で症状とげっぷの回数が改善すると報告されている。
     condition:
       source: Sawada & Fujiwara 2024
+      region: 国際
     differential: null
     common_misconception: げっぷ障害の治療は酸分泌抑制薬である
   provenance:
@@ -1453,6 +1571,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-050
   domain: NG
   subdomain: げっぷ障害・反芻症候群
@@ -1460,6 +1582,7 @@
     plain_statement_ja: 反芻症候群は、食べたばかりの食物が力まずに繰り返し口まで逆流する病態である。食後の高解像度インピーダンス内圧検査（HRIM）が診断の標準とされ、逆流に先立つ胃内圧の上昇（30 mmHg超）が目安として提案されている。
     condition:
       source: Sawada & Fujiwara 2024
+      region: 国際
     differential: 嘔吐（悪心と嘔吐運動を伴う）、GERD、胃不全麻痺
     common_misconception: 反芻症候群は嘔吐と同じである
   provenance:
@@ -1482,6 +1605,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-051
   domain: NG
   subdomain: げっぷ障害・反芻症候群
@@ -1489,6 +1616,7 @@
     plain_statement_ja: 反芻症候群の第一選択は、横隔膜呼吸を用いた認知行動療法であり、バイオフィードバックと組み合わせた認知行動療法で反芻の回数が約70%減ったとの報告がある。バクロフェン（10 mgを1日3回、2週間）で回数が減ったとする比較試験もある。インターネット調査による世界の有病率は、げっぷ障害1%、反芻症候群2.8%とされる。
     condition:
       source: Sawada & Fujiwara 2024
+      region: 国際
     differential: null
     common_misconception: 反芻症候群は制吐薬で治る
   provenance:
@@ -1511,6 +1639,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-052
   domain: NG
   subdomain: 直腸肛門機能検査
@@ -1518,6 +1650,7 @@
     plain_statement_ja: 国際肛門直腸生理ワーキンググループ（IAPWG）の標準検査プロトコルは、高解像度直腸肛門内圧検査（安静時圧、随意収縮、持続収縮、咳嗽、怒責、直腸肛門抑制反射）、直腸感覚検査（初発感覚、便意、最大耐容量の各容量）、50 mLの温水を入れたバルーンの排出検査（排出までの時間）の3つで構成される。
     condition:
       source: IAPWG 2020
+      region: 国際
     differential: null
     common_misconception: 直腸肛門機能は直腸診だけで評価できる
   provenance:
@@ -1540,6 +1673,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-053
   domain: NG
   subdomain: 直腸肛門機能検査
@@ -1547,6 +1684,7 @@
     plain_statement_ja: ロンドン分類は、直腸肛門の機能障害を、Part 1 直腸肛門抑制反射の障害、Part 2 肛門の緊張と収縮力の障害、Part 3 直腸肛門の協調の障害、Part 4 直腸感覚の障害、の4部に分けて記述する。
     condition:
       source: IAPWG 2020
+      region: 国際
     differential: null
     common_misconception: 直腸肛門の機能障害は1つの病名にまとめられる
   provenance:
@@ -1569,6 +1707,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-054
   domain: NG
   subdomain: 腸内細菌叢とプロバイオティクス
@@ -1637,6 +1779,7 @@
     plain_statement_ja: パーキンソン病とパーキンソン症候群の患者を調べた研究では、何らかの便秘がパーキンソン病の約80%、パーキンソン症候群の約92%、健常対照の約55%にみられ、重い便秘はパーキンソン症候群（20.5%）でパーキンソン病（6.8%）より多かった。
     condition:
       source: Frazzitta 2019
+      region: 国際
     differential: null
     common_misconception: パーキンソン病の便秘はまれである
   provenance:
@@ -1659,6 +1802,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度高）。三原の承認による
 - id: NG-057
   domain: NG
   subdomain: 神経疾患と消化管機能
@@ -1666,6 +1813,7 @@
     plain_statement_ja: 同じ研究で、パーキンソン病の便秘の重さと独立して関連したのは年齢と運動障害の重症度（UPDRS）で、歩行距離が短い患者ほど便秘が重かった。
     condition:
       source: Frazzitta 2019
+      region: 国際
     differential: null
     common_misconception: パーキンソン病の便秘は抗パーキンソン病薬だけが原因である
   provenance:
@@ -1688,6 +1836,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度高）。三原の承認による
 - id: NG-058
   domain: NG
   subdomain: 機能性食道疾患
@@ -1695,6 +1847,7 @@
     plain_statement_ja: Rome IVの機能性食道疾患は、構造的・炎症性の異常、主要な食道運動障害、病的な酸逆流がないのに食道症状が出る疾患群で、内臓知覚過敏と過覚醒（hypervigilance）が症状に関わると考えられている。いずれも症状が最近3か月続き、診断の6か月以上前に始まっていることを求め、アカラシア、EGJ通過障害、収縮消失、遠位食道痙攣、ジャックハンマー食道は除外するが、無効食道運動などの境界的な所見は除外しない。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: GERD、好酸球性食道炎、主要な食道運動障害（ES-025〜031）
     common_misconception: 内視鏡で異常がなければ食道の症状は気のせいである
   provenance:
@@ -1717,6 +1870,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-059
   domain: NG
   subdomain: 機能性食道疾患
@@ -1724,6 +1881,7 @@
     plain_statement_ja: 機能性胸痛は、食道由来と考えられる説明のつかない胸骨後部痛が週1回以上繰り返すもので、心臓の原因を先に除外する。非心臓性胸痛は一般人口の19〜33%にみられ、そのうち機能性胸痛は32〜35%とされる。精神科的併存症は最大75%にみられ、治療は抗うつ薬（三環系、SSRI、SNRI、トラゾドン）が第一選択で、認知行動療法や催眠療法を併用する。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: 虚血性心疾患、GERD、食道運動障害
     common_misconception: 心臓に異常がない胸痛は治療の必要がない
   provenance:
@@ -1746,6 +1904,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-060
   domain: NG
   subdomain: 機能性食道疾患
@@ -1753,6 +1915,7 @@
     plain_statement_ja: 機能性胸やけは、十分な酸分泌抑制治療で改善しない胸骨後部の灼熱感が週2回以上あり、GERD、好酸球性食道炎、組織学的異常、主要な運動障害がないものである。PPI無効例の約50%、有効例の約25%に機能性胸やけが見つかると報告されている。逆流防止手術への移行は避け、低用量の三環系抗うつ薬やSSRIが選択肢となる。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: 逆流過敏症（逆流と症状が関連する）
     common_misconception: PPIが効かない胸やけには逆流防止手術を行う
   provenance:
@@ -1775,6 +1938,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-061
   domain: NG
   subdomain: 機能性食道疾患
@@ -1782,6 +1949,7 @@
     plain_statement_ja: 逆流過敏症は、内視鏡所見と酸曝露時間が正常なのに、逆流によって胸やけや胸痛が誘発されるもので、症状は週2回以上ある。酸分泌抑制治療が効いても診断は否定されない。NERD患者329例の研究では、逆流過敏症36%、真のNERD 40%、機能性胸やけ24%だった。治療は説明と保証、PPI、疼痛調節薬（三環系、SSRI、SNRI、ガバペンチノイド）が中心である。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: NERD（酸曝露が異常）、機能性胸やけ（逆流との関連なし）
     common_misconception: 逆流過敏症はPPIが効けば否定できる
   provenance:
@@ -1804,6 +1972,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-062
   domain: NG
   subdomain: 機能性食道疾患
@@ -1811,6 +1983,7 @@
     plain_statement_ja: 食道球（globus）は、甲状軟骨と胸骨切痕の間の正中に、痛みのない塊や異物の感覚が持続的または間欠的に生じ、嚥下障害や嚥下痛を伴わず、食事の合間に感じるものである。健康な人の最大46%が経験し、75%で3年以上続く。治療の中心は説明と保証で、まず4〜8週間のPPI投与を試みる。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: 咽喉頭の腫瘍、頸部食道の胃粘膜異所、GERD
     common_misconception: のどの異物感はすべて心因性である
   provenance:
@@ -1833,6 +2006,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-063
   domain: NG
   subdomain: 機能性食道疾患
@@ -1840,6 +2017,7 @@
     plain_statement_ja: 機能性嚥下障害は、器質的・粘膜・運動の異常がないのに、食塊が食道を通る感覚の異常を週1回以上感じるもので、機能性食道疾患の中で最も少ない。間欠的な固形物のつかえに50〜54Fのブジーで経験的に拡張すると68〜85%が改善したとの報告がある。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: 好酸球性食道炎、アカラシア、食道癌
     common_misconception: 嚥下障害は内視鏡で異常がなければ放置してよい
   provenance:
@@ -1862,6 +2040,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-064
   domain: NG
   subdomain: 機能性ディスペプシアのRome IV分類
@@ -1869,6 +2051,7 @@
     plain_statement_ja: Rome IVの機能性ディスペプシアは、食後のもたれ感や早期飽満感が週3日以上ある食後愁訴症候群（PDS）と、心窩部痛や心窩部灼熱感が週1日以上ある心窩部痛症候群（EPS）に分けられ、両者は重なりうる。機能性ディスペプシア患者の25〜35%に胃排出遅延がある。PPIはPDSの症状には効かず、アコチアミドはPDSに有効でEPSには効かない（NNT 6）とされる。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: 日本のFD診療GL 2021はRome基準の4症状に限定しない（GD-001）
     common_misconception: 機能性ディスペプシアの治療はPPIだけで十分
   provenance:
@@ -1891,6 +2074,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-065
   domain: NG
   subdomain: 悪心・嘔吐症
@@ -1898,6 +2085,7 @@
     plain_statement_ja: 慢性悪心嘔吐症候群（CNVS）は、悪心が週1日以上、または嘔吐が週1回以上あり、自己誘発性嘔吐、摂食障害、吐出、反芻を除外したものである。原因不明の嘔吐が月1回以上ある人は女性の約2%、男性の約3%とされる。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: 周期性嘔吐症候群、カンナビノイド悪阻症候群、胃不全麻痺
     common_misconception: 慢性の嘔吐は必ず器質的疾患による
   provenance:
@@ -1920,6 +2108,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-066
   domain: NG
   subdomain: 周期性嘔吐症候群
@@ -1927,6 +2119,7 @@
     plain_statement_ja: Rome IVの周期性嘔吐症候群は、急に始まり1週間未満で治まる型どおりの嘔吐発作が、1週間以上の無症状期をはさんで繰り返すものである。原因不明の悪心・嘔吐で紹介された成人の3〜14%を占め、成人では診断までに救急外来を中央値15回受診し、発症から5〜6年かかるとの報告がある。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: null
     common_misconception: 周期性嘔吐症候群はすぐに診断がつく
   provenance:
@@ -1943,12 +2136,19 @@
   uncertainty: 数値はRome IVの章が引用した研究の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅹ-10-B-①（アセトン血性嘔吐症<周期性嘔吐症>、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-10-B-①（アセトン血性嘔吐症<周期性嘔吐症>、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-067
   domain: NG
   subdomain: 周期性嘔吐症候群
@@ -1956,6 +2156,7 @@
     plain_statement_ja: カンナビノイド悪阻症候群は、長期間の過剰な大麻使用の後に周期性嘔吐症候群に似た発作を起こすもので、典型例は1日3〜5回の使用を2年以上続けた男性である。嘔吐期に熱いシャワーや入浴で症状が和らぎ、大麻を継続的に中止すると治まる。周期性嘔吐症候群と考えられた患者の約3分の1が大麻使用を報告している。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: null
     common_misconception: 大麻は嘔吐を止めるので悪化の原因にはならない
   provenance:
@@ -1978,6 +2179,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-068
   domain: NG
   subdomain: げっぷ障害・反芻症候群
@@ -1985,6 +2190,7 @@
     plain_statement_ja: Rome IVでは、過剰で厄介なげっぷが週3日を超える場合をげっぷ障害とし、食道からの胃上部げっぷと胃からの過剰な胃げっぷに分ける。胃上部げっぷは1分間に最大20回に達することがある。反芻症候群は、えずきを伴わずに直前に食べた食物が口まで逆流し、毎食後に起こることが多く、横隔膜呼吸による習慣逆転法が主な治療で、PPIは反芻を長引かせることがある。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: 嘔吐、GERD
     common_misconception: 反芻症候群にはPPIが有効である
   provenance:
@@ -2007,6 +2213,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-069
   domain: NG
   subdomain: 機能性腸疾患（Rome IV）
@@ -2014,6 +2224,7 @@
     plain_statement_ja: Rome IVは、IBS、機能性便秘、機能性下痢、機能性腹部膨満などの機能性腸疾患を、はっきり分かれた病気ではなく連続したスペクトラムととらえ、互いに大きく重なりうるとしている。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: null
     common_misconception: 機能性腸疾患の病名は互いに独立して重ならない
   provenance:
@@ -2036,6 +2247,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-070
   domain: NG
   subdomain: 機能性腸疾患（Rome IV）
@@ -2043,6 +2258,7 @@
     plain_statement_ja: Rome IVのIBSは、最近3か月間に平均して週1日以上の腹痛があり、排便との関連、排便頻度の変化、便形状の変化のうち2つ以上を伴うものである。病型はブリストル便形状尺度で決め、硬便（タイプ1〜2）が排便の25%を超え軟便（タイプ6〜7）が25%未満ならIBS-C、その逆ならIBS-D、どちらも25%を超えればIBS-Mとする。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: null
     common_misconception: IBSの診断には大腸内視鏡で異常がないことだけで十分
   provenance:
@@ -2059,12 +2275,19 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-017 (id: JlAKpkM)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-071
   domain: NG
   subdomain: 機能性腸疾患（Rome IV）
@@ -2072,6 +2295,7 @@
     plain_statement_ja: 機能性下痢は、腹痛や厄介な膨満が主でないまま、軟便・水様便が排便の25%を超えるもので、IBS-Dの基準を満たすものは除く。有病率は報告により1.5〜17%と幅がある。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: IBS-D、胆汁酸性下痢、顕微鏡的大腸炎、セリアック病
     common_misconception: 腹痛のない慢性下痢もIBSと診断する
   provenance:
@@ -2094,6 +2318,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-072
   domain: NG
   subdomain: 機能性腸疾患（Rome IV）
@@ -2101,6 +2329,7 @@
     plain_statement_ja: 機能性腹部膨満（膨満感・腹部膨隆）は、週1日以上の膨満感や腹部膨隆が他の症状より目立ち、IBS、機能性便秘、機能性下痢、食後愁訴症候群の基準を満たさないものである。膨満感を訴える人のうち実際に腹囲の膨隆が測定されるのは約50〜60%で、米国の電話調査では成人の15.9%（女性19.2%、男性10.5%）が過去1か月に膨満を報告した。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: null
     common_misconception: 膨満感があれば必ず腹部が膨らんでいる
   provenance:
@@ -2123,6 +2352,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-073
   domain: NG
   subdomain: 機能性腸疾患（Rome IV）
@@ -2130,6 +2363,7 @@
     plain_statement_ja: オピオイド誘発性便秘は、オピオイドの開始や増量の後に新たに生じるか悪化した便秘で、Rome IVは独立した機能性腸疾患ではなくオピオイドの有害作用として扱うが、機能性便秘と重なることが多いとしている。がん以外の慢性疼痛でオピオイドを使う患者の約41%に起こると報告されている。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: 治療薬はナルデメジン（NG-046）など
     common_misconception: オピオイドによる便秘は耐性ができて自然に治る
   provenance:
@@ -2146,12 +2380,19 @@
   uncertainty: 頻度はRome IVの章が引用したシステマティックレビューの値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分C、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-074
   domain: NG
   subdomain: 中枢介在性の消化管の痛み
@@ -2159,6 +2400,7 @@
     plain_statement_ja: 中枢介在性腹痛症候群（CAPS）は、ほぼ持続的または頻繁に繰り返す腹痛で、食事、排便、月経などの生理的な出来事とはほとんど関係せず、仕事や家庭生活などの日常機能を一部損なうものである。症状は診断の6か月以上前に始まり、最近3か月基準を満たす必要がある。有病率は0.5〜2.1%で、女性に1.5〜2倍多く、40歳代に多い。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: IBS（腹痛が排便と関連する）
     common_misconception: 中枢介在性腹痛は心因性の詐病である
   provenance:
@@ -2181,6 +2423,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-075
   domain: NG
   subdomain: 中枢介在性の消化管の痛み
@@ -2188,6 +2434,7 @@
     plain_statement_ja: 麻薬性腸症候群（narcotic bowel syndrome、オピオイド誘発性消化管痛覚過敏）は、高用量または長期のオピオイドで治療中の腹痛が、オピオイドの継続や増量で悪化または十分に改善せず、効果が切れると悪化し再投与で和らぐなどの特徴をもつものである。多くは経口モルヒネ換算で1日75 mg以上を使っている。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: 消化管閉塞、慢性膵炎などの器質的な腹痛
     common_misconception: オピオイドで改善しない腹痛にはさらに増量すべき
   provenance:
@@ -2210,6 +2457,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-076
   domain: NG
   subdomain: 中枢介在性の消化管の痛み
@@ -2217,6 +2468,7 @@
     plain_statement_ja: 中枢介在性の消化管の痛みの治療では、神経調節薬として三環系抗うつ薬が最も研究され（IBSでの改善の相対リスク1.93）、認知行動療法、精神力動的対人関係療法、マインドフルネス、催眠療法などの心理療法が有望とされる。麻薬性腸症候群にはオピオイドの完全な離脱が勧められ、39例の7日間入院離脱プログラムでは89.7%が完了し、60%が改善した。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: null
     common_misconception: 慢性の腹痛にはオピオイドが最も有効である
   provenance:
@@ -2239,6 +2491,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-077
   domain: NG
   subdomain: 機能性肛門直腸疾患
@@ -2246,6 +2502,7 @@
     plain_statement_ja: 機能性肛門直腸痛には、恥骨直腸筋の牽引で圧痛があり30分以上続く慢性・反復性の直腸痛（肛門挙筋症候群）、同じ症状で圧痛のない非特異的機能性肛門直腸痛、数秒から最長30分の突然の激しい直腸痛で間欠期に痛みのない一過性直腸痛（proctalgia fugax）がある。一過性直腸痛の有病率は8〜18%とされる。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: 痔核、裂肛、肛門周囲膿瘍、直腸癌
     common_misconception: 肛門痛は必ず痔によるものである
   provenance:
@@ -2268,6 +2525,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-078
   domain: NG
   subdomain: 機能性肛門直腸疾患
@@ -2275,6 +2536,7 @@
     plain_statement_ja: 機能性排便障害は、機能性便秘またはIBS-Cの基準を満たし、バルーン排出検査、直腸肛門内圧検査または肛門筋電図、画像による排出評価の3つのうち2つ以上で異常を示すもので、内圧検査で推進力が不十分な排便推進力不全と、推進力は十分だが排便時に骨盤底筋が不適切に収縮する排便協調障害に分けられる。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: 大腸通過遅延型便秘
     common_misconception: 排便困難は下剤を増やせば解決する
   provenance:
@@ -2297,6 +2559,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-079
   domain: NG
   subdomain: 機能性肛門直腸疾患
@@ -2304,6 +2570,7 @@
     plain_statement_ja: 排便協調障害にはバイオフィードバック療法が第一選択とされ、無作為化試験では3か月後に協調障害が改善したのはバイオフィードバック群79%、偽フィードバック群4%、標準治療群6%だった。肛門挙筋症候群でも、バイオフィードバックで87%が十分な疼痛緩和を得たとの報告がある（電気刺激45%、マッサージ22%）。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: null
     common_misconception: 排便協調障害に有効な治療はない
   provenance:
@@ -2326,6 +2593,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-080
   domain: NG
   subdomain: 小児の機能性消化管疾患
@@ -2333,6 +2604,7 @@
     plain_statement_ja: 乳児の吐き戻し（乳児逆流症）は、生後3週から12か月の健康な乳児で1日2回以上の吐き戻しが3週間以上続き、えずき、吐血、誤嚥、無呼吸、体重増加不良などがないものである。生後4か月の健康な乳児の41〜67%で1日1回を超える吐き戻しがあり、約90%は12か月までに自然に治まる。PPIは乳児の吐き戻しに有効でなく、感染症などの危険があるため、不要な酸分泌抑制は避ける。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: 乳児GERD、肥厚性幽門狭窄症、牛乳アレルギー
     common_misconception: 乳児の吐き戻しにはPPIを使うべきである
   provenance:
@@ -2355,6 +2627,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-081
   domain: NG
   subdomain: 小児の機能性消化管疾患
@@ -2362,6 +2638,7 @@
     plain_statement_ja: 乳児疝痛（コリック）は、生後5か月未満の乳児が明らかな原因なく長く泣き続け、養育者がなだめられない状態で、5〜19%にみられ、多くは生後3〜5か月で治まる。薬物療法の有効性は示されておらず、養育者の支援が治療の中心である。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: null
     common_misconception: 乳児疝痛には薬物治療が必要である
   provenance:
@@ -2384,6 +2661,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-082
   domain: NG
   subdomain: 小児の機能性消化管疾患
@@ -2391,6 +2672,7 @@
     plain_statement_ja: 乳幼児の機能性便秘は、週2回以下の排便、痛みを伴う硬い便、直腸の大きな便塊などのうち2つ以上が1か月続くもので、有病率は生後1年目で約2.9%、2年目で約10.1%とされる。治療は養育者への説明から始め、非刺激性下剤の毎日投与とトイレトレーニングの行動的な工夫を組み合わせる。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: null
     common_misconception: 乳幼児の便秘は浣腸だけで治療する
   provenance:
@@ -2407,12 +2689,19 @@
   uncertainty: 有病率はRome IVの章が引用した値（二次資料経由）。日本の小児慢性機能性便秘症診療GLは今回未参照
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-083
   domain: NG
   subdomain: 小児の機能性消化管疾患
@@ -2420,6 +2709,7 @@
     plain_statement_ja: 腹部片頭痛は、臍周囲・正中・びまん性の1時間以上続く激しい腹痛発作が2回以上あり、発作は型どおりで日常生活ができないほど強く、食欲不振、悪心、嘔吐、頭痛、光過敏、顔面蒼白のうち2つ以上を伴い、数週から数か月の無症状期をはさむものである。有病率は基準により1〜23%と幅がある。予防にはピゾチフェン、アミトリプチリン、プロプラノロール、シプロヘプタジンが使われている。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: 周期性嘔吐症候群、腸回転異常症、尿路閉塞
     common_misconception: 小児の反復性腹痛はすべて心因性である
   provenance:
@@ -2442,6 +2732,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-084
   domain: NG
   subdomain: 小児の機能性消化管疾患
@@ -2449,6 +2743,7 @@
     plain_statement_ja: 小児・思春期の機能性便秘の有病率はシステマティックレビューで平均14%とされ、トイレトレーニングの時期に多い。Rome IVは症状の持続期間を2か月から1か月に短縮した。治療は便塞栓の除去と維持療法の2段階で、ポリエチレングリコールが第一選択であり、定時の排便、排便日誌、報酬などの教育も薬と同じく重要である。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: null
     common_misconception: 小児の便秘は成長すれば自然に治るので治療は不要
   provenance:
@@ -2465,12 +2760,19 @@
   uncertainty: 有病率はRome IVの章が引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-085
   domain: NG
   subdomain: 小児の機能性消化管疾患
@@ -2478,6 +2780,7 @@
     plain_statement_ja: 小学生の35〜38%が毎週腹痛を訴えるが、機能性腹痛症の基準を満たすのはその約3分の1である。小児の機能性腹痛症の治療は行動療法・心理療法が中心で、催眠療法と認知行動療法で短期・長期の効果が示されている。思春期の抗うつ薬には、米国FDAによる自殺念慮の枠付き警告がある。
     condition:
       criteria: Rome IV（2016）
+      region: 国際
     differential: null
     common_misconception: 小児の機能性腹痛には鎮痛薬が第一選択である
   provenance:
@@ -2500,6 +2803,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-086
   domain: NG
   subdomain: IBSの病態（日本のGL）
@@ -2524,12 +2831,16 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-005 (id: JlAKpjg)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-087
   domain: NG
   subdomain: IBSの病態（日本のGL）
@@ -2554,12 +2865,16 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-088
   domain: NG
   subdomain: IBSの病態（日本のGL）
@@ -2584,12 +2899,16 @@
   uncertainty: GLが引用したメタ解析の所見（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-005 (id: JlAKpjg)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-089
   domain: NG
   subdomain: IBSの病態（日本のGL）
@@ -2614,12 +2933,16 @@
   uncertainty: GLが引用した研究の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-090
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -2644,12 +2967,16 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-091
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -2674,12 +3001,16 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-022 (id: JlAKpkc)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-092
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -2704,12 +3035,16 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-021 (id: JlAKpkY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-093
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -2734,12 +3069,16 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-094
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -2764,12 +3103,16 @@
   uncertainty: NNTはGLが引用したメタ解析の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-095
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -2794,12 +3137,16 @@
   uncertainty: RCTの数値はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-096
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -2824,12 +3171,16 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-097
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -2854,12 +3205,16 @@
   uncertainty: 抗アレルギー薬の具体的な薬剤名と保険適用は本文で確認する
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-098
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -2884,12 +3239,16 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-099
   domain: NG
   subdomain: 慢性便秘症（日本の便通異常症GL）
@@ -2914,12 +3273,16 @@
   uncertainty: 刊行版（第4刷）のBQ2-2（16頁）、BQ3-4（34頁）で文言・推奨度を照合済み（2026-10-18）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-021 (id: JlAKpkY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-100
   domain: NG
   subdomain: 慢性便秘症（日本の便通異常症GL）
@@ -2944,12 +3307,16 @@
   uncertainty: 刊行版（第4刷）のBQ2-3（18頁）、BQ2-4（20頁）で文言・推奨度を照合済み（2026-10-18）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-101
   domain: NG
   subdomain: 慢性便秘症（日本の便通異常症GL）
@@ -2974,12 +3341,16 @@
   uncertainty: 刊行版（第4刷）のCQ4-1（55頁）、BQ4-3（53頁）で文言・推奨度を照合済み（2026-10-18）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-030 (id: JlAKplE)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-102
   domain: NG
   subdomain: 慢性便秘症（日本の便通異常症GL）
@@ -3004,12 +3375,16 @@
   uncertainty: 刊行版（第4刷）のCQ4-2（56頁）、CQ4-3（58頁、強い推奨・合意率74%・B）、CQ4-4（60頁）、BQ4-4（62頁）、BQ4-5（65頁）で文言・推奨度を照合済み（2026-10-18）。Rome V の腸疾患の章は、大腸通過時間検査を排便障害を除外した後の治療抵抗例で考慮するとしている（NG-141）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-029 (id: JlAKplA)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-103
   domain: NG
   subdomain: 慢性便秘症（日本の便通異常症GL）
@@ -3034,12 +3409,16 @@
   uncertainty: 刊行版（第4刷）のCQ5-1（77頁、強い推奨・合意率100%・A）、BQ5-5（81頁）で文言・推奨度を照合済み（2026-10-18）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-104
   domain: NG
   subdomain: 慢性便秘症（日本の便通異常症GL）
@@ -3064,12 +3443,16 @@
   uncertainty: 刊行版（第4刷）のBQ5-7（95頁）で文言・推奨度を照合済み（2026-10-18）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-105
   domain: NG
   subdomain: 慢性便秘症（日本の便通異常症GL）
@@ -3094,12 +3477,16 @@
   uncertainty: 刊行版（第4刷）のCQ5-4（101頁、推奨なし・C）で文言・推奨度を照合済み（2026-10-18）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-021 (id: JlAKpkY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分C、名称は項目表に合わせた）。三原の承認による
 - id: NG-106
   domain: NG
   subdomain: 慢性便秘症（日本の便通異常症GL）
@@ -3124,12 +3511,16 @@
   uncertainty: 刊行版（第4刷）のBQ5-10（105頁）、BQ5-12（108頁）、CQ5-5（112頁、強い推奨・合意率73%・B）で文言・推奨度を照合済み（2026-10-18）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-011 (id: JlAKpj4)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-107
   domain: NG
   subdomain: 慢性便秘症（日本の便通異常症GL）
@@ -3154,12 +3545,16 @@
   uncertainty: 刊行版（第4刷）のFRQ1-1（10頁）、CQ5-6（114頁、強い推奨・合意率73%・B）で文言・推奨度を照合済み（2026-10-18）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-108
   domain: NG
   subdomain: 慢性便秘症（日本の便通異常症GL）
@@ -3184,12 +3579,16 @@
   uncertainty: 刊行版（第4刷）のBQ3-6（39頁）、CQ3-3（41頁）、CQ3-4（46頁）で文言・推奨度を照合済み（2026-10-18）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-015 (id: JlAKpkI)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NG-109
   domain: NG
   subdomain: 消化管機能検査
@@ -3197,6 +3596,7 @@
     plain_statement_ja: EndoFLIP（functional lumen imaging probe）は、カテーテルのバルーン内でインピーダンス平面計測法により断面積を、センサーで内圧を測り、食道胃接合部の伸展性（mm²/mmHg）を求める検査で、アカラシアの治療前後の評価や筋層切開術・噴門形成術の術中評価に使われる。40 mL充満時の伸展性は、未治療のアカラシアで1.6 mm²/mmHg以下、治療後で3.4 mm²/mmHg以上と報告されている。
     condition:
       source: Chen & Rubenstein 2017
+      region: 国際
     differential: 高解像度食道内圧検査（Chicago分類、ES-025〜031）
     common_misconception: EndoFLIPの数値は確立した診断基準値である
   provenance:
@@ -3219,6 +3619,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-110
   domain: NG
   subdomain: Rome V（2026）
@@ -3226,6 +3630,7 @@
     plain_statement_ja: Rome V（腸脳相関障害の第5版）は2026年に公表され、27か国の140人を超える専門家が作成に加わった。基準の要約はGastroenterology 2026年第170巻に18本の論文として掲載された。
     condition:
       criteria: Rome V（2026）
+      region: 国際
     differential: Rome IVは2016年に公表された（NG-002・NG-037）
     common_misconception: Rome IVが現在も最新の国際基準である
   provenance:
@@ -3248,6 +3653,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-111
   domain: NG
   subdomain: Rome V（2026）
@@ -3255,6 +3664,7 @@
     plain_statement_ja: Rome Vの編集は、共同上級編集者のDouglas A. DrossmanとJan Tackが務め、第1巻に8、第2巻に11の章委員会が置かれた。成人用教科書2巻のほか、小児版、プライマリケア版、質問票・表の巻、診断アルゴリズム、多次元臨床プロファイル（MDCP）が刊行物として用意されている。
     condition:
       criteria: Rome V（2026）
+      region: 国際
     differential: null
     common_misconception: Rome基準は診断基準の表だけで構成される
   provenance:
@@ -3277,6 +3687,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-112
   domain: NG
   subdomain: Rome V（2026）
@@ -3284,6 +3698,7 @@
     plain_statement_ja: Gastroenterology誌に掲載されたRome Vの18本の論文には、各疾患群の章に加えて、基礎科学、生理学と臨床、腸内微小環境、薬理学、患者体験・性・年齢・人種と健康の社会的決定要因、社会文化的側面、成人と小児の生物心理社会的側面、治療試験のデザイン、診断質問票の開発が含まれる。
     condition:
       criteria: Rome V（2026）
+      region: 国際
     differential: Rome IVの章構成（NG-037）
     common_misconception: Rome Vは診断基準の変更だけを扱う
   provenance:
@@ -3306,6 +3721,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-113
   domain: NG
   subdomain: Rome V（2026）
@@ -3313,6 +3732,7 @@
     plain_statement_ja: Rome Vは「機能性（functional）」という用語をできるだけ使わず、病態生理に即した表現に改めたが、機能性下痢、機能性胸痛、機能性胸やけでは用語が残された。
     condition:
       criteria: Rome V（2026）
+      region: 国際
     differential: null
     common_misconception: Rome Vでは「機能性」という語が完全に廃止された
   provenance:
@@ -3335,6 +3755,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-114
   domain: NG
   subdomain: Rome V（2026）
@@ -3342,6 +3766,7 @@
     plain_statement_ja: Rome Vは、定められた閾値と標準化された評価項目を用いる研究用の基準と、症状の煩わしさ（bothersomeness）や生活機能への影響を取り入れ、臨床判断に応じて柔軟に使える臨床用の基準を、正式に分けた。
     condition:
       criteria: Rome V（2026）
+      region: 国際
     differential: Rome IVの基準は症状の持続期間（3か月、発症6か月以上前）を一律に求めた（NG-058）
     common_misconception: Rome Vの臨床用基準も研究用と同じ期間要件を満たす必要がある
   provenance:
@@ -3364,6 +3789,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-115
   domain: NG
   subdomain: Rome V（2026）
@@ -3371,6 +3800,7 @@
     plain_statement_ja: Rome Vでは、IBSの診断要件に腹痛に加えて「腹部不快感」が再び含められ、症状の頻度の閾値がRome IVの週1日以上から月3日以上に下げられた。
     condition:
       criteria: Rome V（2026）
+      region: 国際
     differential: Rome IVのIBS基準（NG-070）
     common_misconception: Rome VでもIBSは週1日以上の腹痛が必要である
   provenance:
@@ -3387,12 +3817,19 @@
   uncertainty: 腸疾患の章（NG-127）で、持続痛の除外と、月経だけに限らないという補助基準を確認した
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-017 (id: JlAKpkM)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-116
   domain: NG
   subdomain: Rome V（2026）
@@ -3400,6 +3837,7 @@
     plain_statement_ja: Rome Vで新たに取り上げられた疾患には、げっぷができない症候群（逆行性輪状咽頭筋機能不全、R-CPD）、成人の腹部片頭痛、直腸肛門の感覚機能障害がある。
     condition:
       criteria: Rome V（2026）
+      region: 国際
     differential: Rome IVでは腹部片頭痛は小児の疾患だった（NG-083）
     common_misconception: 腹部片頭痛は小児だけの病気である
   provenance:
@@ -3422,6 +3860,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-117
   domain: NG
   subdomain: Rome V（2026）
@@ -3429,6 +3871,7 @@
     plain_statement_ja: Rome Vの小児の基準は、年齢区分（新生児・乳幼児、小児・思春期）ではなく、解剖学的領域（上部消化管と、下部消化管・胆道）によって再編された。各章には、食事療法や行動療法を含む多職種のケアが組み込まれている。
     condition:
       criteria: Rome V（2026）
+      region: 国際
     differential: Rome IVの小児の2群（NG-002）
     common_misconception: Rome Vでも小児は年齢で分類される
   provenance:
@@ -3451,6 +3894,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-118
   domain: NG
   subdomain: Rome V 小児上部消化管
@@ -3458,6 +3905,7 @@
     plain_statement_ja: Rome Vの小児上部消化管の腸脳相関障害は、G1 食道疾患（逆流過敏症、逆流陰性食道痛障害、食道の空気通過障害［空気嚥下症候群、胃上部げっぷ症候群］）、G2 機能性小児摂食障害（過敏性嚥下障害、予期性制限摂食、空腹調節障害［空腹感の低下・過剰］、医療に誘発された機能性摂食障害）、G3 胃十二指腸疾患（反芻症候群、周期性嘔吐症候群［カンナビノイド悪阻の亜群を含む］、慢性悪心症候群、機能性ディスペプシア［PDS、EPS］）に分けられる。
     condition:
       criteria: Rome V（2026）
+      region: 国際
     differential: null
     common_misconception: 小児の上部消化管症状は乳児逆流症と機能性ディスペプシアだけで分類できる
   provenance:
@@ -3480,6 +3928,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-119
   domain: NG
   subdomain: Rome V 小児上部消化管
@@ -3487,6 +3939,7 @@
     plain_statement_ja: Rome Vの小児の基準では、嘔吐を定義から外した「慢性悪心症候群」という用語が使われる。逆流陰性食道痛障害は、成人の機能性胸やけに相当するものとされる。
     condition:
       criteria: Rome V（2026）
+      region: 国際
     differential: 成人の慢性悪心嘔吐症候群（NG-065）
     common_misconception: 小児の悪心は嘔吐を伴わなければ診断名がつかない
   provenance:
@@ -3509,6 +3962,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-120
   domain: NG
   subdomain: Rome V 小児上部消化管
@@ -3516,6 +3973,7 @@
     plain_statement_ja: Rome Vの小児上部消化管の章は、回避・制限性食物摂取症（ARFID）という用語を廃止し、より正確な用語（機能性小児摂食障害の各亜型）に置き換えることを提案している。摂食障害の基準は週3回以上、1か月以上の持続を求める。
     condition:
       criteria: Rome V（2026）
+      region: 国際
     differential: null
     common_misconception: 小児の摂食の問題はすべてARFIDと診断する
   provenance:
@@ -3538,6 +3996,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-121
   domain: NG
   subdomain: Rome V 小児上部消化管
@@ -3545,6 +4007,7 @@
     plain_statement_ja: Rome Vの小児の食後愁訴症候群は、症状の頻度が週1回から週3回以上に引き上げられ、食後の症状を食事から2時間以内に起こるものと定義した。心窩部痛症候群は週1日以上を求める。逆流過敏症、逆流陰性食道痛障害、反芻症候群、周期性嘔吐症候群は、症状が2か月以上続くことを求める。
     condition:
       criteria: Rome V（2026）
+      region: 国際
     differential: Rome IVの成人のPDSは週3日以上（NG-064）
     common_misconception: 小児の機能性ディスペプシアの基準はRome IVから変わっていない
   provenance:
@@ -3567,6 +4030,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-122
   domain: NG
   subdomain: Rome V 小児上部消化管
@@ -3574,6 +4041,7 @@
     plain_statement_ja: Rome Vの小児の反芻症候群の基準は年齢を問わず統一され、生後3か月以降の発症を求める。カンナビノイド悪阻の亜群では、大麻を6か月以上継続して中止した後に嘔吐が消えることを求める。空気嚥下症候群では、放屁の増加が主要基準から補助的な所見に変わった。
     condition:
       criteria: Rome V（2026）
+      region: 国際
     differential: Rome IVのカンナビノイド悪阻症候群（NG-067）
     common_misconception: 大麻の中止後すぐに嘔吐が消えなければカンナビノイド悪阻は否定できる
   provenance:
@@ -3596,6 +4064,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-123
   domain: NG
   subdomain: Rome V（2026）
@@ -3604,6 +4076,7 @@
     condition:
       criteria: Rome V（2026）
       source: Staller ら 2026
+      region: 英国
     differential: null
     common_misconception: Rome Vで診断されるIBSはRome IVと同じ重症度の集団である
   provenance:
@@ -3620,12 +4093,19 @@
   uncertainty: 原著は未取得で、AGAのニュース記事（二次資料経由）で確認。Rome Vは持続痛の除外を明記したとされる。Rome V の基準そのものは腸疾患の章（NG-127）で確認済み
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分C、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「英国」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-124
   domain: NG
   subdomain: Rome V（2026）
@@ -3634,6 +4114,7 @@
     condition:
       criteria: Rome V（2026）
       source: 総説（Maev ら 2026）
+      region: 国際
     differential: Rome IVの機能性食道疾患（NG-058〜063）、EndoFLIP（NG-109）
     common_misconception: 機能性食道疾患は症状だけで診断できる
   provenance:
@@ -3656,6 +4137,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-125
   domain: NG
   subdomain: Rome V（2026）
@@ -3664,6 +4149,7 @@
     condition:
       criteria: Rome V（2026）
       source: 総説（Maev ら 2026）
+      region: 国際
     differential: null
     common_misconception: Rome VのIBSでは持続する腹痛も含まれる
   provenance:
@@ -3680,12 +4166,19 @@
   uncertainty: 総説の抄録による（二次資料経由）。内容は腸疾患の章（NG-127）で確認済み。本カードは corroboration として扱う
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-17'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分C、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-126
   domain: NG
   subdomain: Rome V 腸疾患
@@ -3694,6 +4187,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: Rome IVの機能性腸疾患（NG-069）
     common_misconception: Rome Vでも機能性便秘という診断名が使われる
   provenance:
@@ -3716,6 +4210,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-127
   domain: NG
   subdomain: Rome V 腸疾患
@@ -3724,6 +4222,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: Rome IVのIBS（週1日以上の腹痛、NG-070）、中枢介在性腹痛症候群（持続痛）、月経に伴う症状
     common_misconception: Rome VのIBSも週1日以上の腹痛を必要とする
   provenance:
@@ -3740,12 +4239,19 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-017 (id: JlAKpkM)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-128
   domain: NG
   subdomain: Rome V 腸疾患
@@ -3754,6 +4260,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: null
     common_misconception: Rome IVで有病率が下がったのは主に不快感を外したためである
   provenance:
@@ -3770,12 +4277,19 @@
   uncertainty: 有病率低下の理由はRome Foundation Global Studyの解析による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-129
   domain: NG
   subdomain: Rome V 腸疾患
@@ -3784,6 +4298,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: null
     common_misconception: IBSの病型は下剤を飲んでいる間の便の状態で決めてよい
   provenance:
@@ -3800,12 +4315,19 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-011 (id: JlAKpj4)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-130
   domain: NG
   subdomain: Rome V 腸疾患
@@ -3814,6 +4336,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: null
     common_misconception: IBSはあらゆる器質的疾患を検査で否定してから診断する
   provenance:
@@ -3830,12 +4353,19 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-131
   domain: NG
   subdomain: Rome V 腸疾患
@@ -3844,6 +4374,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: null
     common_misconception: 便中カルプロテクチンが上がっていれば炎症性腸疾患と診断できる
   provenance:
@@ -3860,12 +4391,19 @@
   uncertainty: 数値は章が引用したメタ解析による（二次資料経由）。添付のまとめにあった「<100・100〜250・≥250」の区分は、腸疾患の章には記載がない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-022 (id: JlAKpkc)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-132
   domain: NG
   subdomain: Rome V 腸疾患
@@ -3874,6 +4412,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: null
     common_misconception: IBSの患者には全例で小腸細菌異常増殖の呼気試験を行う
   provenance:
@@ -3890,12 +4429,19 @@
   uncertainty: セリアック病の頻度は章が引用したメタ解析による（二次資料経由）。日本での頻度は別に確認する
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-133
   domain: NG
   subdomain: Rome V 腸疾患
@@ -3904,6 +4450,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: null
     common_misconception: IBSの大腸内視鏡では生検は不要である
   provenance:
@@ -3920,12 +4467,19 @@
   uncertainty: 章が引用した単一研究の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-022 (id: JlAKpkc)；TBL-02-07-031 (id: JlAKplI)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-134
   domain: NG
   subdomain: Rome V 腸疾患
@@ -3934,6 +4488,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: null
     common_misconception: IBSは心理的な原因だけで起こる
   provenance:
@@ -3950,12 +4505,19 @@
   uncertainty: 数値は章が引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-135
   domain: NG
   subdomain: Rome V 腸疾患
@@ -3964,6 +4526,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: null
     common_misconception: IBSにはどの食物繊維でも同じ効果がある
   provenance:
@@ -3980,12 +4543,19 @@
   uncertainty: 章が引用したメタ解析の値（二次資料経由）。低FODMAP食の3段階は小児の章に記載がある（NG-219）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-136
   domain: NG
   subdomain: Rome V 腸疾患
@@ -3994,6 +4564,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: 日本のIBS診療ガイドライン2020（NG-093）
     common_misconception: SSRIはIBSの腹痛に三環系抗うつ薬と同じように効く
   provenance:
@@ -4010,12 +4581,19 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-017 (id: JlAKpkM)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-137
   domain: NG
   subdomain: Rome V 腸疾患
@@ -4024,6 +4602,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: FMTの安全性（NG-054、NG-055）
     common_misconception: IBSにはFMTが確立した治療である
   provenance:
@@ -4040,12 +4619,19 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-138
   domain: NG
   subdomain: Rome V 腸疾患
@@ -4054,6 +4640,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: 日本のIBS診療ガイドライン2020（NG-094）
     common_misconception: IBSの心理療法には根拠がない
   provenance:
@@ -4070,12 +4657,19 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-139
   domain: NG
   subdomain: Rome V 腸疾患
@@ -4084,6 +4678,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: 便秘型IBS、オピオイド誘発性便秘症、日本の慢性便秘症の診断基準（NG-099〜108）
     common_misconception: 慢性便秘症の患者には腹痛がまったくない
   provenance:
@@ -4100,12 +4695,19 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-021 (id: JlAKpkY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-140
   domain: NG
   subdomain: Rome V 腸疾患
@@ -4114,6 +4716,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: null
     common_misconception: 日本の便秘の有病率は世界で最も低い
   provenance:
@@ -4130,12 +4733,19 @@
   uncertainty: 章が引用した調査の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分C、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-141
   domain: NG
   subdomain: Rome V 腸疾患
@@ -4144,6 +4754,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: 日本の便通異常症GL2023は放射線不透過マーカー法を推奨している（NG-102）
     common_misconception: 慢性便秘症では最初に大腸通過時間検査を行う
   provenance:
@@ -4160,12 +4771,19 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-011 (id: JlAKpj4)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-142
   domain: NG
   subdomain: Rome V 腸疾患
@@ -4174,6 +4792,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: 日本の便通異常症GL2023は刺激性下剤を必要最小限・頓用にとどめるとしている（NG-103）
     common_misconception: 刺激性下剤は必ず大腸を傷める
   provenance:
@@ -4190,12 +4809,19 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-021 (id: JlAKpkY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-143
   domain: NG
   subdomain: Rome V 腸疾患
@@ -4204,6 +4830,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: Rome IVの機能性下痢（NG-071）、日本の慢性下痢症（狭義）
     common_misconception: 機能性下痢と下痢型IBSは腹痛の有無に関係なく同じ診断である
   provenance:
@@ -4226,6 +4853,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-144
   domain: NG
   subdomain: Rome V 腸疾患
@@ -4234,6 +4865,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: null
     common_misconception: 機能性下痢の第一選択は抗うつ薬である
   provenance:
@@ -4256,6 +4888,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-145
   domain: NG
   subdomain: Rome V 腸疾患
@@ -4264,6 +4900,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: Rome IVの機能性腹部膨満（NG-072）
     common_misconception: 腹部膨満は必ずガスがたまって起こる
   provenance:
@@ -4286,6 +4923,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-146
   domain: NG
   subdomain: Rome V 腸疾患
@@ -4294,6 +4935,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: null
     common_misconception: 腹部膨満の患者は腸内ガスが多い
   provenance:
@@ -4316,6 +4958,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-147
   domain: NG
   subdomain: Rome V 腸疾患
@@ -4324,6 +4970,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: null
     common_misconception: 分類不能の腸疾患は軽症なので治療は要らない
   provenance:
@@ -4346,6 +4993,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-148
   domain: NG
   subdomain: Rome V 腸疾患
@@ -4354,6 +5005,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 腸疾患の章
+      region: 国際
     differential: Rome IVのオピオイド誘発性便秘（NG-073）、麻薬性腸症候群
     common_misconception: オピオイド誘発性便秘症とオピオイドによる腹痛の増悪は同じ病態である
   provenance:
@@ -4370,12 +5022,19 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分C、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-149
   domain: NG
   subdomain: Rome V 中枢介在性の消化管の痛み
@@ -4384,6 +5043,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 中枢介在性の消化管の痛みの章
+      region: 国際
     differential: Rome IVの中枢介在性の痛み（NG-074、NG-075）
     common_misconception: 腹部片頭痛は小児にしかない
   provenance:
@@ -4406,6 +5066,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-150
   domain: NG
   subdomain: Rome V 中枢介在性の消化管の痛み
@@ -4414,6 +5078,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 中枢介在性の消化管の痛みの章
+      region: 国際
     differential: Rome IVのCAPS（NG-074）、IBS（間欠的な痛み）
     common_misconception: 食事や排便で痛みが変わればCAPSではない
   provenance:
@@ -4436,6 +5101,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-151
   domain: NG
   subdomain: Rome V 中枢介在性の消化管の痛み
@@ -4444,6 +5113,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 中枢介在性の消化管の痛みの章
+      region: 国際
     differential: null
     common_misconception: CAPSは極めてまれなので専門外来でも出会わない
   provenance:
@@ -4466,6 +5136,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-152
   domain: NG
   subdomain: Rome V 中枢介在性の消化管の痛み
@@ -4474,6 +5148,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 中枢介在性の消化管の痛みの章
+      region: 国際
     differential: 腹壁痛（前皮神経絞扼症候群）、慢性腸間膜虚血、正中弓状靱帯症候群
     common_misconception: 閉眼徴候があれば器質的疾患は否定できる
   provenance:
@@ -4496,6 +5171,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-153
   domain: NG
   subdomain: Rome V 中枢介在性の消化管の痛み
@@ -4504,6 +5183,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 中枢介在性の消化管の痛みの章
+      region: 国際
     differential: Rome IVの中枢介在性の痛みの治療（NG-076）
     common_misconception: CAPSの強い腹痛にはオピオイドを使う
   provenance:
@@ -4526,6 +5206,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-154
   domain: NG
   subdomain: Rome V 中枢介在性の消化管の痛み
@@ -4534,6 +5218,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 中枢介在性の消化管の痛みの章
+      region: 国際
     differential: 小児の腹部片頭痛（NG-083）、周期性嘔吐症候群（NG-066）、IBS
     common_misconception: 腹部片頭痛は小児だけの病気で、成人では診断しない
   provenance:
@@ -4556,6 +5241,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-155
   domain: NG
   subdomain: Rome V 中枢介在性の消化管の痛み
@@ -4564,6 +5253,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 中枢介在性の消化管の痛みの章
+      region: 国際
     differential: null
     common_misconception: 腹部片頭痛の発作は食事で誘発される
   provenance:
@@ -4586,6 +5276,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-156
   domain: NG
   subdomain: Rome V 中枢介在性の消化管の痛み
@@ -4594,6 +5288,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 中枢介在性の消化管の痛みの章
+      region: 国際
     differential: Rome IVの麻薬性腸症候群（NG-075）、オピオイド誘発性便秘症
     common_misconception: 麻薬性腸症候群はRome Vで新しく加わった疾患である
   provenance:
@@ -4616,6 +5311,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-157
   domain: NG
   subdomain: Rome V 中枢介在性の消化管の痛み
@@ -4624,6 +5323,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 中枢介在性の消化管の痛みの章
+      region: 国際
     differential: null
     common_misconception: 麻薬性腸症候群の腹痛にはオピオイドを増やせばよい
   provenance:
@@ -4646,6 +5346,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-158
   domain: NG
   subdomain: Rome V 肛門直腸疾患
@@ -4654,6 +5358,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 肛門直腸疾患の章
+      region: 国際
     differential: Rome IVの機能性肛門直腸疾患（NG-077〜079）
     common_misconception: 肛門直腸疾患はすべて症状だけで診断できる
   provenance:
@@ -4676,6 +5381,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-159
   domain: NG
   subdomain: Rome V 肛門直腸疾患
@@ -4684,6 +5393,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 肛門直腸疾患の章
+      region: 国際
     differential: 便失禁の一般的な説明（NG-019〜021）
     common_misconception: 便失禁は週に何度もなければ治療の対象にならない
   provenance:
@@ -4706,6 +5416,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-160
   domain: NG
   subdomain: Rome V 肛門直腸疾患
@@ -4714,6 +5428,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 肛門直腸疾患の章
+      region: 国際
     differential: null
     common_misconception: 便失禁はまれで、尋ねなくても患者が訴える
   provenance:
@@ -4736,6 +5451,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-161
   domain: NG
   subdomain: Rome V 肛門直腸疾患
@@ -4744,6 +5463,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 肛門直腸疾患の章
+      region: 国際
     differential: Rome IVの機能性排便障害（2つ以上の検査異常、NG-078）
     common_misconception: 排便協調障害の診断には3種類の検査すべてが必要である
   provenance:
@@ -4766,6 +5486,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-162
   domain: NG
   subdomain: Rome V 肛門直腸疾患
@@ -4774,6 +5498,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 肛門直腸疾患の章
+      region: 国際
     differential: バイオフィードバック療法（NG-079、NG-106）
     common_misconception: 排便協調障害は下剤で治す
   provenance:
@@ -4796,6 +5521,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-163
   domain: NG
   subdomain: Rome V 肛門直腸疾患
@@ -4804,6 +5533,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 肛門直腸疾患の章
+      region: 国際
     differential: Rome IVの機能性肛門直腸痛（NG-077）
     common_misconception: 肛門挙筋症候群には坐浴や筋弛緩薬が有効である
   provenance:
@@ -4826,6 +5556,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-164
   domain: NG
   subdomain: Rome V 肛門直腸疾患
@@ -4834,6 +5568,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 肛門直腸疾患の章
+      region: 国際
     differential: null
     common_misconception: 便意を感じないのは便秘の結果にすぎず治療できない
   provenance:
@@ -4856,6 +5591,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-165
   domain: NG
   subdomain: Rome V 肛門直腸疾患
@@ -4864,6 +5603,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 肛門直腸疾患の章
+      region: 国際
     differential: IBSの内臓知覚過敏（NG-087）
     common_misconception: 直腸感覚過敏は検査をしなくても症状だけで診断できる
   provenance:
@@ -4886,6 +5626,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-166
   domain: NG
   subdomain: Rome V 生物心理社会的ケア
@@ -4894,6 +5638,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 生物心理社会的側面の章
+      region: 国際
     differential: null
     common_misconception: 心理的なケアは精神科に紹介してから始めればよい
   provenance:
@@ -4916,6 +5661,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-167
   domain: NG
   subdomain: Rome V 生物心理社会的ケア
@@ -4924,6 +5673,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 生物心理社会的側面の章
+      region: 国際
     differential: 日本のIBS診療ガイドライン2020の心理療法（NG-094）
     common_misconception: 心理療法は心の病気がある患者にだけ有効である
   provenance:
@@ -4946,6 +5696,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-168
   domain: NG
   subdomain: Rome V 生物心理社会的ケア
@@ -4954,6 +5708,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 生物心理社会的側面の章
+      region: 国際
     differential: null
     common_misconception: 抗うつ薬を勧めるのは症状が気のせいだと考えているからである
   provenance:
@@ -4976,6 +5731,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-169
   domain: NG
   subdomain: Rome V 生物心理社会的ケア
@@ -4984,6 +5743,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 生物心理社会的側面の章
+      region: 国際
     differential: null
     common_misconception: 抗うつ薬という名前のままでも患者の受け止め方は変わらない
   provenance:
@@ -5006,6 +5766,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-170
   domain: NG
   subdomain: Rome V 診断質問票
@@ -5014,6 +5778,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 診断質問票の開発
+      region: 国際
     differential: null
     common_misconception: Rome Vで新たに加わった成人の疾患には麻薬性腸症候群が含まれる
   provenance:
@@ -5036,6 +5801,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-171
   domain: NG
   subdomain: Rome V 診断質問票
@@ -5044,6 +5813,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 診断質問票の開発
+      region: 国際
     differential: null
     common_misconception: 回答を1日単位にするほど症状の頻度は正確にわかる
   provenance:
@@ -5066,6 +5836,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-172
   domain: NG
   subdomain: Rome V 診断質問票
@@ -5074,6 +5848,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 診断質問票の開発
+      region: 国際
     differential: Rome IVの世界調査（NG-006〜010）、英国の登録データの比較（NG-123）
     common_misconception: Rome Vで腸脳相関障害の有病率は大きく変わった
   provenance:
@@ -5096,6 +5871,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-173
   domain: NG
   subdomain: Rome V 診断質問票
@@ -5104,6 +5883,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 診断質問票の開発
+      region: 国際
     differential: null
     common_misconception: Rome Vの便失禁の基準はRome IVより厳しくなった
   provenance:
@@ -5126,6 +5906,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-174
   domain: NG
   subdomain: Rome V 診断質問票
@@ -5134,6 +5918,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 診断質問票の開発
+      region: 国際
     differential: Rome IVの小児の分類（NG-080〜085）、Rome Vの小児上部消化管（NG-118）
     common_misconception: Rome Vの小児の疾患はRome IVとほぼ同じである
   provenance:
@@ -5156,6 +5941,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-175
   domain: NG
   subdomain: Rome V 診断質問票
@@ -5164,6 +5953,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 診断質問票の開発
+      region: 国際
     differential: null
     common_misconception: FICAIはRome Vの小児の診断基準の一部である
   provenance:
@@ -5186,6 +5976,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-176
   domain: NG
   subdomain: Rome V 診断質問票
@@ -5194,6 +5988,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 診断質問票の開発
+      region: 国際
     differential: 小児の機能性便秘の有病率（NG-084）
     common_misconception: 小児のIBSは便秘より多い
   provenance:
@@ -5216,6 +6011,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-177
   domain: NG
   subdomain: Rome V 小児上部消化管
@@ -5223,6 +6022,7 @@
     plain_statement_ja: Rome Vの小児上部消化管の章によれば、小児の逆流過敏症では酸分泌抑制薬の経験的な試験は8週間までに限り、改善しなければ内視鏡、pHインピーダンス検査などに進む。機能性悪心または食後愁訴症候群の小児57人にミルタザピンを使った報告では、反応率は82%だった。
     condition:
       criteria: Rome V（2026）
+      region: 国際
     differential: null
     common_misconception: 小児の胸やけには酸分泌抑制薬を効くまで続ける
   provenance:
@@ -5245,6 +6045,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-178
   domain: NG
   subdomain: 慢性下痢症（日本の便通異常症GL）
@@ -5493,6 +6297,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 食道疾患の章
+      region: 国際
     differential: Rome IVの機能性食道疾患（NG-058）、GERD、アカラシア、好酸球性食道炎
     common_misconception: 機能性食道疾患は症状だけで診断できる
   provenance:
@@ -5515,6 +6320,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-187
   domain: NG
   subdomain: Rome V 食道疾患
@@ -5523,6 +6332,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 食道疾患の章
+      region: 国際
     differential: null
     common_misconception: 機能性胸痛では全例で食道生検が必要である
   provenance:
@@ -5545,6 +6355,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-188
   domain: NG
   subdomain: Rome V 食道疾患
@@ -5553,6 +6367,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 食道疾患の章
+      region: 国際
     differential: Rome IVの機能性胸痛（NG-059）、虚血性心疾患
     common_misconception: 胸痛の原因は問診で心臓か食道かを区別できる
   provenance:
@@ -5575,6 +6390,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-189
   domain: NG
   subdomain: Rome V 食道疾患
@@ -5583,6 +6402,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 食道疾患の章
+      region: 国際
     differential: null
     common_misconception: 非心臓性胸痛の多くは機能性胸痛である
   provenance:
@@ -5605,6 +6425,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-190
   domain: NG
   subdomain: Rome V 食道疾患
@@ -5613,6 +6437,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 食道疾患の章
+      region: 国際
     differential: null
     common_misconception: 機能性胸痛にはPPIを増量し続ければよい
   provenance:
@@ -5635,6 +6460,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-191
   domain: NG
   subdomain: Rome V 食道疾患
@@ -5643,6 +6472,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 食道疾患の章
+      region: 国際
     differential: Rome IVの機能性胸やけ（NG-060）、逆流過敏症、非びらん性逆流症（NERD）
     common_misconception: PPIが効かない胸やけはすべてGERDの難治例である
   provenance:
@@ -5665,6 +6495,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-192
   domain: NG
   subdomain: Rome V 食道疾患
@@ -5673,6 +6507,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 食道疾患の章
+      region: 国際
     differential: null
     common_misconception: PPIを飲んだまま内視鏡をすればGERDを否定できる
   provenance:
@@ -5695,6 +6530,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-193
   domain: NG
   subdomain: Rome V 食道疾患
@@ -5703,6 +6542,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 食道疾患の章
+      region: 国際
     differential: null
     common_misconception: 機能性胸やけには逆流防止手術が有効である
   provenance:
@@ -5725,6 +6565,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-194
   domain: NG
   subdomain: Rome V 食道疾患
@@ -5733,6 +6577,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 食道疾患の章
+      region: 国際
     differential: Rome IVの逆流過敏症（NG-061）、機能性胸やけ（逆流との関連が陰性）
     common_misconception: 逆流過敏症は酸曝露時間が長いGERDである
   provenance:
@@ -5755,6 +6600,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-195
   domain: NG
   subdomain: Rome V 食道疾患
@@ -5763,6 +6612,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 食道疾患の章
+      region: 国際
     differential: Rome IVの食道球（NG-062）、頭頸部腫瘍、食道入口部の胃粘膜異所
     common_misconception: 食道球には胃粘膜異所の焼灼が確立した治療である
   provenance:
@@ -5785,6 +6635,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-196
   domain: NG
   subdomain: Rome V 食道疾患
@@ -5793,6 +6647,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 食道疾患の章
+      region: 国際
     differential: Rome IVの機能性嚥下障害（NG-063）、EndoFLIP（NG-109）、好酸球性食道炎
     common_misconception: 内圧検査が正常なら嚥下障害は機能性と断定できる
   provenance:
@@ -5815,6 +6670,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-197
   domain: NG
   subdomain: Rome V 胃十二指腸疾患
@@ -5823,6 +6682,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 胃十二指腸疾患の章
+      region: 国際
     differential: Rome IVの胃十二指腸疾患（NG-064〜068）
     common_misconception: 胃十二指腸の腸脳相関障害は機能性ディスペプシアだけである
   provenance:
@@ -5845,6 +6705,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-198
   domain: NG
   subdomain: Rome V 胃十二指腸疾患
@@ -5853,6 +6717,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 胃十二指腸疾患の章
+      region: 国際
     differential: Rome IVの機能性ディスペプシア（NG-064）、二次性ディスペプシア、GD-001〜018
     common_misconception: 機能性ディスペプシアは除外診断でしか付けられない病名である
   provenance:
@@ -5875,6 +6740,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-199
   domain: NG
   subdomain: Rome V 胃十二指腸疾患
@@ -5883,6 +6752,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 胃十二指腸疾患の章
+      region: 国際
     differential: Rome IVのPDS（週3日以上、NG-064）、小児のPDS（週3回以上、NG-121）
     common_misconception: 食後の心窩部痛があれば心窩部痛症候群と診断する
   provenance:
@@ -5905,6 +6775,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-200
   domain: NG
   subdomain: Rome V 胃十二指腸疾患
@@ -5913,6 +6787,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 胃十二指腸疾患の章
+      region: 国際
     differential: null
     common_misconception: 心窩部痛症候群の痛みは食事と関係しない
   provenance:
@@ -5935,6 +6810,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-201
   domain: NG
   subdomain: Rome V 胃十二指腸疾患
@@ -5943,6 +6822,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 胃十二指腸疾患の章
+      region: 国際
     differential: ピロリ菌関連ディスペプシア（GD-001〜018）
     common_misconception: 機能性ディスペプシアの診断には全例で内視鏡が必要である
   provenance:
@@ -5965,6 +6845,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-202
   domain: NG
   subdomain: Rome V 胃十二指腸疾患
@@ -5973,6 +6857,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 胃十二指腸疾患の章
+      region: 国際
     differential: null
     common_misconception: 機能性ディスペプシアは胃の運動が遅いことだけで説明できる
   provenance:
@@ -5995,6 +6880,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-203
   domain: NG
   subdomain: Rome V 胃十二指腸疾患
@@ -6003,6 +6892,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 胃十二指腸疾患の章
+      region: 国際
     differential: アコチアミドの添付文書（NG-039〜041）
     common_misconception: 機能性ディスペプシアにはPPIを効くまで増量する
   provenance:
@@ -6025,6 +6915,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-204
   domain: NG
   subdomain: Rome V 胃十二指腸疾患
@@ -6033,6 +6927,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 胃十二指腸疾患の章
+      region: 国際
     differential: 胃不全麻痺（NG-011〜015）
     common_misconception: 胃排出が遅ければ胃不全麻痺と診断する
   provenance:
@@ -6055,6 +6950,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-205
   domain: NG
   subdomain: Rome V 胃十二指腸疾患
@@ -6063,6 +6962,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 胃十二指腸疾患の章
+      region: 国際
     differential: Rome IVの慢性悪心嘔吐症候群（NG-065）、小児の慢性悪心症候群（NG-119）
     common_misconception: 嘔吐がなければ慢性悪心嘔吐症候群とは診断しない
   provenance:
@@ -6085,6 +6985,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-206
   domain: NG
   subdomain: Rome V 胃十二指腸疾患
@@ -6093,6 +6997,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 胃十二指腸疾患の章
+      region: 国際
     differential: Rome IVの周期性嘔吐症候群（NG-066）、NG-016〜018
     common_misconception: 発作の間に少しでも嘔吐があれば周期性嘔吐症候群ではない
   provenance:
@@ -6109,12 +7014,19 @@
   uncertainty: 治療効果と日本の有病率は章が引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅹ-10-B-①（アセトン血性嘔吐症<周期性嘔吐症>、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-10-B-①（アセトン血性嘔吐症<周期性嘔吐症>、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-207
   domain: NG
   subdomain: Rome V 胃十二指腸疾患
@@ -6123,6 +7035,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 胃十二指腸疾患の章
+      region: 国際
     differential: Rome IVのカンナビノイド悪阻症候群（NG-067）、小児の基準（NG-122）
     common_misconception: 大麻を数日やめて嘔吐が続けばカンナビノイド悪阻症候群は否定できる
   provenance:
@@ -6145,6 +7058,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-208
   domain: NG
   subdomain: Rome V 胃十二指腸疾患
@@ -6153,6 +7070,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 胃十二指腸疾患の章
+      region: 国際
     differential: Rome IVのげっぷ障害（NG-068）、NG-048〜051
     common_misconception: げっぷが多いのは空気を多く飲み込んでいるからで、消泡剤で治る
   provenance:
@@ -6175,6 +7093,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-209
   domain: NG
   subdomain: Rome V 胃十二指腸疾患
@@ -6183,6 +7105,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 胃十二指腸疾患の章
+      region: 国際
     differential: げっぷ障害、GERD、アカラシア
     common_misconception: げっぷが出ないのは病気ではない
   provenance:
@@ -6205,6 +7128,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-210
   domain: NG
   subdomain: Rome V 胃十二指腸疾患
@@ -6213,6 +7140,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 胃十二指腸疾患の章
+      region: 国際
     differential: Rome IVの反芻症候群（NG-068）、NG-048〜051、GERD、胃不全麻痺、摂食障害
     common_misconception: 反芻症候群は嘔吐の一種で制吐薬が効く
   provenance:
@@ -6235,6 +7163,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-211
   domain: NG
   subdomain: 神経消化器病学の基礎（Rome V）
@@ -6243,6 +7175,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 基礎科学の章
+      region: 国際
     differential: null
     common_misconception: 消化管の痛みはすべて迷走神経が伝える
   provenance:
@@ -6265,6 +7198,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-212
   domain: NG
   subdomain: 神経消化器病学の基礎（Rome V）
@@ -6273,6 +7210,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 基礎科学の章
+      region: 国際
     differential: null
     common_misconception: 腸の運動は平滑筋だけで決まる
   provenance:
@@ -6295,6 +7233,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-213
   domain: NG
   subdomain: 神経消化器病学の基礎（Rome V）
@@ -6303,6 +7245,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 基礎科学の章
+      region: 国際
     differential: IBSの病態（NG-086〜089）
     common_misconception: IBSは消化管の免疫とは無関係である
   provenance:
@@ -6325,6 +7268,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-214
   domain: NG
   subdomain: 神経消化器病学の基礎（Rome V）
@@ -6333,6 +7280,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 基礎科学の章
+      region: 国際
     differential: 5-HT3拮抗薬の臨床（NG-091、NG-042・043）
     common_misconception: 体内のセロトニンの大部分は脳で作られる
   provenance:
@@ -6355,6 +7303,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-215
   domain: NG
   subdomain: 神経消化器病学の基礎（Rome V）
@@ -6363,6 +7315,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 基礎科学の章
+      region: 国際
     differential: 腸内細菌叢とプロバイオティクス（NG-034〜036）
     common_misconception: 腸内細菌は消化にしか関わらない
   provenance:
@@ -6385,6 +7338,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-216
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道
@@ -6393,6 +7350,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 小児下部消化管・胆道の章
+      region: 国際
     differential: Rome IVの小児の分類（NG-080〜085）、小児上部消化管（NG-118）
     common_misconception: Rome Vでも小児の腸脳相関障害は新生児・乳幼児と小児・思春期に分けて分類する
   provenance:
@@ -6415,6 +7373,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-217
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道
@@ -6423,6 +7385,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 小児下部消化管・胆道の章
+      region: 国際
     differential: 成人のIBS（月3日以上、NG-127）、小児の機能性便秘
     common_misconception: 小児のIBSは便秘を治療して腹痛が残るかどうかで診断する
   provenance:
@@ -6439,12 +7402,19 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-017 (id: JlAKpkM)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-218
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道
@@ -6453,6 +7423,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 小児下部消化管・胆道の章
+      region: 国際
     differential: 成人のIBSの治療（NG-135〜138）
     common_misconception: 小児のIBSには抗菌薬がよく効く
   provenance:
@@ -6469,12 +7440,19 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-219
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道
@@ -6483,6 +7461,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 小児下部消化管・胆道の章
+      region: 国際
     differential: 成人のIBSの食事療法（NG-135）
     common_misconception: 低FODMAP食は症状が消えるまで長く続けるのがよい
   provenance:
@@ -6499,12 +7478,19 @@
   uncertainty: 再導入期と個別化期の期間は章に記載がない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分C、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-220
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道
@@ -6513,6 +7499,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 小児下部消化管・胆道の章
+      region: 国際
     differential: 小児の機能性腹痛（NG-085）
     common_misconception: 小児の腹痛は持続か間欠かを区別しなくてよい
   provenance:
@@ -6535,6 +7522,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-221
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道
@@ -6543,6 +7534,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 小児下部消化管・胆道の章
+      region: 国際
     differential: null
     common_misconception: 小児の胆道痛には胆嚢駆出率で手術を決める
   provenance:
@@ -6565,6 +7557,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-222
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道
@@ -6573,6 +7569,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 小児下部消化管・胆道の章
+      region: 国際
     differential: 成人の腹部片頭痛（NG-154）、小児の腹部片頭痛（NG-083）
     common_misconception: 小児の腹部片頭痛には承認された治療薬がある
   provenance:
@@ -6595,6 +7592,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-223
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道
@@ -6603,6 +7604,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 小児下部消化管・胆道の章
+      region: 国際
     differential: 成人のCAPS（NG-150）
     common_misconception: CAPSは成人だけの病気である
   provenance:
@@ -6625,6 +7627,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-224
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道
@@ -6633,6 +7639,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 小児下部消化管・胆道の章
+      region: 国際
     differential: Rome IVの乳幼児・小児の機能性便秘（NG-082、NG-084）
     common_misconception: 小児の便秘の多くは器質的な病気が原因である
   provenance:
@@ -6649,12 +7656,19 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-02-07-011 (id: JlAKpj4)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-225
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道
@@ -6663,6 +7677,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 小児下部消化管・胆道の章
+      region: 国際
     differential: 成人の慢性便秘症の治療（NG-142）
     common_misconception: 小児の便秘には成人の新しい便秘薬がどれも使える
   provenance:
@@ -6679,12 +7694,19 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-①（便秘症、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-226
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道
@@ -6693,6 +7715,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 小児下部消化管・胆道の章
+      region: 国際
     differential: null
     common_misconception: 便を漏らす子どもにはまず下剤を使う
   provenance:
@@ -6715,6 +7738,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-227
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道
@@ -6723,6 +7750,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 小児下部消化管・胆道の章
+      region: 国際
     differential: null
     common_misconception: 乳児がいきんで泣くのは便秘なので浣腸が必要である
   provenance:
@@ -6745,6 +7773,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-228
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道
@@ -6753,6 +7785,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 小児下部消化管・胆道の章
+      region: 国際
     differential: 成人の機能性下痢（NG-143）
     common_misconception: 小児の機能性下痢は乳幼児だけの病気である
   provenance:
@@ -6775,6 +7808,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-229
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道
@@ -6783,6 +7820,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 小児下部消化管・胆道の章
+      region: 国際
     differential: 成人の機能性腹部膨満（NG-145）、成人の消散性直腸痛（NG-163）
     common_misconception: 腹部膨満や直腸痛の腸脳相関障害は成人にしかない
   provenance:
@@ -6805,6 +7843,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-230
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道
@@ -6813,6 +7855,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 小児下部消化管・胆道の章
+      region: 国際
     differential: Rome IVの乳児疝痛（NG-081）
     common_misconception: 乳児の激しい泣きは大腸の痛みが原因である
   provenance:
@@ -6835,6 +7878,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-231
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道
@@ -6843,6 +7890,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 小児下部消化管・胆道の章
+      region: 国際
     differential: null
     common_misconception: 乳児の激しい泣きには胃酸を抑える薬が効く
   provenance:
@@ -6865,6 +7913,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-232
   domain: NG
   subdomain: Rome V（2026）
@@ -6873,6 +7925,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 序論
+      region: 国際
     differential: Rome IVの概念（NG-001）
     common_misconception: 腸脳相関障害は心の問題であって、体の異常はない
   provenance:
@@ -6895,6 +7948,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-233
   domain: NG
   subdomain: Rome V（2026）
@@ -6903,6 +7960,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 序論
+      region: 国際
     differential: Rome IVの分類（成人33、小児17、NG-002）
     common_misconception: Rome Vの疾患数はRome IVと同じである
   provenance:
@@ -6925,6 +7983,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-234
   domain: NG
   subdomain: Rome V（2026）
@@ -6933,6 +7995,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 序論
+      region: 国際
     differential: 研究用の基準（6か月以上前の発症、最近3か月）
     common_misconception: Rome基準を満たすまで6か月待たないと腸脳相関障害と診断できない
   provenance:
@@ -6955,6 +8018,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-235
   domain: NG
   subdomain: Rome V（2026）
@@ -6963,6 +8030,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 序論
+      region: 国際
     differential: null
     common_misconception: Rome基準を満たさない消化管症状は治療しなくてよい
   provenance:
@@ -6985,6 +8053,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-236
   domain: NG
   subdomain: Rome V（2026）
@@ -6993,6 +8065,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 序論
+      region: 国際
     differential: null
     common_misconception: 腸脳相関障害は1人に1つしか起こらない
   provenance:
@@ -7015,6 +8088,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-237
   domain: NG
   subdomain: Rome V（2026）
@@ -7023,6 +8100,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 序論
+      region: 国際
     differential: 小児の胆道痛症候群（NG-221）
     common_misconception: 胆嚢駆出率が低ければ胆嚢摘出術を行う
   provenance:
@@ -7045,6 +8123,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-238
   domain: NG
   subdomain: Rome V（2026）
@@ -7053,6 +8135,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 序論
+      region: 国際
     differential: Rome V の心理社会的ケアの3段階（NG-166）
     common_misconception: IBSの治療は重症度にかかわらず同じである
   provenance:
@@ -7069,12 +8152,19 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-239
   domain: NG
   subdomain: Rome V（2026）
@@ -7083,6 +8173,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 序論
+      region: 国際
     differential: null
     common_misconception: 腸脳相関障害の診療では検査を繰り返すことが患者の安心につながる
   provenance:
@@ -7105,6 +8196,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: NG-240
   domain: NG
   subdomain: Rome V（2026）
@@ -7113,6 +8208,7 @@
     condition:
       criteria: Rome V（2026）
       source: Rome V 序論
+      region: 国際
     differential: 基礎科学（NG-211〜215）、脳機能画像（NG-088）
     common_misconception: 腸の痛みの強さは腸の異常の程度だけで決まる
   provenance:
@@ -7135,3 +8231,7 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による

@@ -696,7 +696,7 @@
   uncertainty: 米国の指針。肺癌の切除前後と肺移植は指針の範囲外。COPD の呼吸リハビリテーションの詳細は第11回（RO）の範囲。DOI は本文に記載がなく未確認
   curriculum:
     core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-02-06-025 (id: JlAKpig)；TBL-01-00-215 (id: JlvnlyE)；TBL-01-00-218 (id: JlvnlyY)'
-    kokushi: null
+    kokushi: 医学各論 Ⅳ-2-C-①（慢性閉塞性肺疾患<COPD>、喘息COPDオーバーラップ<ACO>、a）；医学各論 Ⅳ-5-C-②（肺動脈性肺高血圧症、b）；医学各論 Ⅳ-4-A-①（特発性肺線維症<IPF>、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -707,6 +707,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅳ-2-C-①（慢性閉塞性肺疾患<COPD>、喘息COPDオーバーラップ<ACO>、a）；医学各論 Ⅳ-5-C-②（肺動脈性肺高血圧症、b）；医学各論 Ⅳ-4-A-①（特発性肺線維症<IPF>、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: RX-021
   domain: RX
   subdomain: 喫煙と禁煙治療
@@ -731,7 +734,7 @@
   uncertainty: 令和4年の調査。令和5年以降の調査で喫煙の項目が公表されているかは未確認。加熱式たばこの使用割合はこの資料に記載がない
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
-    kokushi: null
+    kokushi: 医学各論 ⅩⅢ-3-A-①（タバコ煙中の有害物質、未成年者の喫煙、受動喫煙、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -742,6 +745,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 ⅩⅢ-3-A-①（タバコ煙中の有害物質、未成年者の喫煙、受動喫煙、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: RX-022
   domain: RX
   subdomain: 喫煙と禁煙治療
@@ -766,7 +772,7 @@
   uncertainty: 令和4年の調査
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
-    kokushi: null
+    kokushi: 医学各論 ⅩⅢ-3-A-①（タバコ煙中の有害物質、未成年者の喫煙、受動喫煙、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -777,6 +783,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 ⅩⅢ-3-A-①（タバコ煙中の有害物質、未成年者の喫煙、受動喫煙、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: RX-023
   domain: RX
   subdomain: 喫煙と禁煙治療
@@ -801,7 +810,7 @@
   uncertainty: 平成28年度改定時点の中医協資料。TDS の判定点数（5点以上）は資料に記載がなく主張文に含めていない。令和6年度改定後の要件、加熱式たばこの扱い、バレニクリンの供給状況は未確認
   curriculum:
     core_curriculum: 'PS-02-07-04 (id: JkxnuRA)'
-    kokushi: null
+    kokushi: 医学各論 ⅩⅢ-3-B-①（タバコ依存、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -812,6 +821,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 ⅩⅢ-3-B-①（タバコ依存、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: RX-024
   domain: RX
   subdomain: 呼吸器疾患の統計

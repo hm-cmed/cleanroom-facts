@@ -1610,6 +1610,7 @@
     plain_statement_ja: 2024年の京都ガイドラインは、2017年の国際コンセンサスを改訂してIPMNの新しい管理アルゴリズムを示し、high-risk stigmataとworrisome featuresの評価にEUS所見とEUS-FNAの細胞診を加えた。5年間変化のない小さな分枝型IPMNでは、サーベイランスを終了するか、併存膵癌に備えて継続するかの2つの選択肢を示している。
     condition:
       guideline: Kyoto IPMN guidelines 2024
+      region: 国際
     differential: MCN（女性の膵体尾部に多い）
     common_misconception: 分枝型IPMNは生涯にわたり同じ間隔で検査を続けなければならない
   provenance:
@@ -1637,6 +1638,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: BP-048
   domain: BP
   subdomain: 膵神経内分泌腫瘍
@@ -1679,6 +1683,7 @@
     plain_statement_ja: インスリノーマは悪性より良性のことがはるかに多く（悪性は約10%）、約1割は多発する。外因性インスリンがないのに空腹時低血糖（40 mg/dL未満）とインスリン高値を示すことが特徴的である。
     condition:
       source: NCI PDQ
+      region: 米国
     differential: インスリン自己投与、スルホニル尿素薬による低血糖
     common_misconception: インスリノーマの多くは悪性である
   provenance:
@@ -1706,6 +1711,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「米国」を入れた（作り手の候補、確度高）。三原の承認による
 - id: BP-050
   domain: BP
   subdomain: 膵神経内分泌腫瘍
@@ -1713,6 +1721,7 @@
     plain_statement_ja: ガストリノーマ（Zollinger-Ellison症候群）は消化性潰瘍の1%未満の原因で、15〜35%がMEN1に伴い、最大50%が悪性である。85%はいわゆるガストリノーマ三角に見つかり、膵実質内は15%にとどまる。
     condition:
       source: NCI PDQ
+      region: 米国
     differential: H. pylori・NSAIDによる通常の消化性潰瘍
     common_misconception: ガストリノーマは膵実質内に発生することが多い
   provenance:
@@ -1740,6 +1749,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「米国」を入れた（作り手の候補、確度高）。三原の承認による
 - id: BP-051
   domain: BP
   subdomain: 膵神経内分泌腫瘍
@@ -1747,6 +1759,7 @@
     plain_statement_ja: グルカゴノーマは約75%が悪性で、血清グルカゴン1,000 pg/mL超で診断が確定する。VIPomaは水様下痢・低カリウム血症・無酸症（WDHA症候群）を起こし、血清VIP 200 pg/mL超で診断される。
     condition:
       source: NCI PDQ
+      region: 米国
     differential: null
     common_misconception: VIPomaは便秘を起こす
   provenance:
@@ -1774,6 +1787,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「米国」を入れた（作り手の候補、確度高）。三原の承認による
 - id: BP-052
   domain: BP
   subdomain: 膵神経内分泌腫瘍
@@ -1781,6 +1797,7 @@
     plain_statement_ja: MEN1は11q13のMEN1遺伝子による常染色体顕性（優性）遺伝の症候群で、患者の85%に膵内分泌腫瘍、90%に副甲状腺機能亢進症、65%に下垂体腫瘍がみられる。膵神経内分泌腫瘍の治療は外科切除が唯一の根治法である。
     condition:
       source: NCI PDQ
+      region: 米国
     differential: null
     common_misconception: MEN1の膵腫瘍は散発例と同様に切除で治癒しやすい
   provenance:
@@ -1808,6 +1825,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「米国」を入れた（作り手の候補、確度高）。三原の承認による
 - id: BP-053
   domain: BP
   subdomain: 胆石症
@@ -2165,6 +2185,7 @@
     plain_statement_ja: 偶然見つかった胆嚢癌の再切除では、遺残病変がT1bで12%（リンパ節転移）、T2で57%、T3で77%にみられたと報告されている。T2以上では、肝部分切除と肝門部リンパ節郭清を伴う拡大切除が選択肢になる。
     condition:
       source: NCI PDQ
+      region: 米国
     differential: null
     common_misconception: 胆嚢摘出術で偶然見つかった癌は追加治療が不要
   provenance:
@@ -2192,6 +2213,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「米国」を入れた（作り手の候補、確度高）。三原の承認による
 - id: BP-064
   domain: BP
   subdomain: 胆道癌
@@ -2234,6 +2258,7 @@
     plain_statement_ja: 胆管癌は、肝門部領域に約50%、遠位胆管に約40%、肝内に約10%が発生し、多くは多発性で切除できないことが多い。危険因子には原発性硬化性胆管炎、潰瘍性大腸炎、先天性胆道拡張症（総胆管嚢腫）、肝吸虫（Clonorchis sinensis）感染がある。
     condition:
       source: NCI PDQ
+      region: 米国
     differential: 膵頭部癌による遠位胆管閉塞
     common_misconception: 胆管癌の多くは肝内に発生する
   provenance:
@@ -2264,6 +2289,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-6-C-② を足した（医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a） → 医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）；医学各論 Ⅵ-6-C-②（肝内胆管癌、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「米国」を入れた（作り手の候補、確度高）。三原の承認による
 - id: BP-066
   domain: BP
   subdomain: 胆道癌
@@ -2271,6 +2299,7 @@
     plain_statement_ja: 遠位胆管癌の25〜30%は完全切除が可能で、より肝門側の腫瘍ほど切除率は低い。肝門部胆管癌に積極的な手術を行った場合の5年生存率は20〜50%と報告されている。
     condition:
       source: NCI PDQ
+      region: 米国
     differential: null
     common_misconception: 胆管癌は全例で切除可能
   provenance:
@@ -2298,6 +2327,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「米国」を入れた（作り手の候補、確度高）。三原の承認による
 - id: BP-067
   domain: BP
   subdomain: 胆道癌
@@ -2341,6 +2373,7 @@
     condition:
       source: NCI PDQ
       staging: AJCC 第8版
+      region: 米国
     differential: null
     common_misconception: 胆管癌のT分類は腫瘍径だけで決まる
   provenance:
@@ -2368,6 +2401,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「米国」を入れた（作り手の候補、確度高）。三原の承認による
 - id: BP-069
   domain: BP
   subdomain: 膵・胆管合流異常症

@@ -56,7 +56,7 @@
     corroboration: null
   uncertainty: 収載薬剤には国内未承認の薬剤が含まれうる。個別薬剤の国内承認・適応・保険適用は本カードでは確認していない（未確認）。個別疾患での使い方は各疾患のカードの範囲であり、悪性症候群は既存カード（ND-056）で作成済みのため本カードでは扱わない。
   curriculum:
-    kokushi: null
+    kokushi: 医学各論 Ⅱ-2-B-①（妄想型統合失調症、a）；医学各論 Ⅱ-2-B-②（破瓜型統合失調症、a）；医学各論 Ⅱ-2-B-③（緊張型統合失調症、a）
     core_curriculum: 'PS-02-17-04 (id: JkxnuT4)；TBL-02-16-017 (id: JuX-PEs)；PS-02-17-05 (id: JkxnuT8)'
   publication_info:
     created: '2026-10-31'
@@ -68,6 +68,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅱ-2-B-①（妄想型統合失調症、a）；医学各論 Ⅱ-2-B-②（破瓜型統合失調症、a）；医学各論 Ⅱ-2-B-③（緊張型統合失調症、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: PX-003
   domain: PX
   subdomain: 精神科薬物療法の総論
@@ -91,7 +94,7 @@
     corroboration: null
   uncertainty: 本出典は第51回で登録済みの既存出典（SRC-3628）であり、新しい番号は付けていない。収載21剤には国内未承認の薬剤が含まれ、国内で使用できる抗うつ薬とその適応は薬剤ごとに異なる。個別薬剤の国内承認・適応の確認は各疾患のカードの範囲とする。
   curriculum:
-    kokushi: null
+    kokushi: 医学各論 Ⅱ-2-A-①（うつ病、a）
     core_curriculum: 'PS-02-17-04 (id: JkxnuT4)；TBL-02-16-017 (id: JuX-PEs)；PS-02-17-05 (id: JkxnuT8)'
   publication_info:
     created: '2026-10-31'
@@ -103,6 +106,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅱ-2-A-①（うつ病、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: PX-004
   domain: PX
   subdomain: 電気けいれん療法<ECT>
@@ -371,7 +377,7 @@
     corroboration: null
   uncertainty: 認知症そのものの診断・治療と、せん妄そのものの評価は本カードの範囲外である（いずれも既存の疾患別カードが正）。境界情報として、国内の認知症疾患診療ガイドラインは2026年版が現行である。高齢者のうつ病評価の尺度（GDS、Cornell Scale）の原著は未使用の候補として申し送りに残した。
   curriculum:
-    kokushi: null
+    kokushi: 医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-②（脳血管性認知症、a）；医学各論 Ⅱ-1-A-③（Lewy小体型認知症、a）；医学各論 Ⅱ-1-A-④（前頭側頭葉変性症、b）
     core_curriculum: 'PS-02-17-02 (id: JkxnuTw)；PS-02-17-03 (id: JkxnuT0)；TBL-02-16-003 (id: JlAKpy4)；TBL-02-16-012 (id: JlAKpzk)；PS-02-17-05 (id: JkxnuT8)'
   publication_info:
     created: '2026-10-31'
@@ -383,6 +389,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-②（脳血管性認知症、a）；医学各論 Ⅱ-1-A-③（Lewy小体型認知症、a）；医学各論 Ⅱ-1-A-④（前頭側頭葉変性症、b）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: PX-012
   domain: PX
   subdomain: 小児・青年期の精神科評価の総論

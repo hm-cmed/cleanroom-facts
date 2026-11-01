@@ -29,10 +29,10 @@
 - 条件：region: 国際／study: 低張性多尿の成人を対象とした前向き多施設診断研究（2018年、11施設、144人）
 - 不確実性：コペプチン測定は国内のすべての施設で実施できるわけではなく、保険適用の状況は本調査では確認していない。数値は抄録とその報道で確認した範囲。
 - 出典：Fenske W, Refardt J, Chifu I, Schnyder I, Winzeler B, Drummond J, Ribeiro-Oliveira A Jr, Drescher T, Bilz S, Vogt DR, Malzahn U, Kroiss M, Christ E, Henzen C, Fischli S, Tönjes A, Mueller B, Schopohl J, Flitsch J, Brabant G, Fassnacht M, Christ-Crain M. A Copeptin-Based Approach in the Diagnosis of Diabetes Insipidus. N Engl J Med. 2018;379(5):428-439　[DOI 10.1056/NEJMoa1803760](https://doi.org/10.1056/NEJMoa1803760)　[PMID 30067922](https://pubmed.ncbi.nlm.nih.gov/30067922/)（区分 UNKNOWN）
-- 出題基準：－　コアカリ：PS-02-14-02 (id: JkxnuS0)；TBL-02-13-015 (id: JlAKps0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-002&card_id=EX-002&version=99e3a2775d)　（版 `99e3a2775d`）
+- 出題基準：医学各論 Ⅹ-1-B-⑦（中枢性尿崩症、b）；医学各論 Ⅷ-2-C-③（腎性尿崩症、c）　コアカリ：PS-02-14-02 (id: JkxnuS0)；TBL-02-13-015 (id: JlAKps0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-002&card_id=EX-002&version=95ccce2b12)　（版 `95ccce2b12`）
 
-**[ここまでの 1 件（EX-002）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-002&cards=EX-002%2099e3a2775d)**
+**[ここまでの 1 件（EX-002）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-002&cards=EX-002%2095ccce2b12)**
 
 ---
 
@@ -93,10 +93,10 @@
 - 条件：region: 国際／study: 原発性副腎不全の診断と治療の診療ガイドライン（Endocrine Society、2016年）
 - 不確実性：薬の注記：ヒドロコルチゾン注射薬は国内で承認・保険収載されている薬剤だが、本カードでは個別の添付文書による確認は行っていない（未確認）。クリーゼ時の具体的な投与量の段階付けはガイドライン本文の表に依存し、抄録で確認できた範囲を超える用量は書いていない。
 - 出典：Bornstein SR, Allolio B, Arlt W, Barthel A, Don-Wauchope A, Hammer GD, Husebye ES, Merke DP, Murad MH, Stratakis CA, Torpy DJ. Diagnosis and Treatment of Primary Adrenal Insufficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2016;101(2):364-389.　[DOI 10.1210/jc.2015-1710](https://doi.org/10.1210/jc.2015-1710)　[PMID 26760044](https://pubmed.ncbi.nlm.nih.gov/26760044/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-006&card_id=EX-006&version=ccd01d214f)　（版 `ccd01d214f`）
+- 出題基準：医学各論 Ⅹ-4-A-④（急性副腎不全、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-006&card_id=EX-006&version=a870dca89c)　（版 `a870dca89c`）
 
-**[ここまでの 1 件（EX-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-006&cards=EX-006%20ccd01d214f)**
+**[ここまでの 1 件（EX-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-006&cards=EX-006%20a870dca89c)**
 
 ---
 
@@ -109,10 +109,10 @@
 - 条件：region: 米国／study: 甲状腺中毒症の診断と管理のガイドライン（米国甲状腺学会、2016年）
 - 不確実性：薬の注記：プロピルチオウラシル、メチマゾール（チアマゾール）、ヨウ化カリウム、ヒドロコルチゾン、β遮断薬の国内承認・保険適用は、本カードでは個別の添付文書で確認していない（未確認）。用量はガイドラインの表から読み取った値で、日本の甲状腺クリーゼ診療指針の用量とは異なる場合がある。
 - 出典：Ross DS, Burch HB, Cooper DS, Greenlee MC, Laurberg P, Maia AL, Rivkees SA, Samuels M, Sosa JA, Stan MN, Walter MA. 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis. Thyroid. 2016;26(10):1343-1421.　[DOI 10.1089/thy.2016.0229](https://doi.org/10.1089/thy.2016.0229)　[PMID 27521067](https://pubmed.ncbi.nlm.nih.gov/27521067/)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-007&card_id=EX-007&version=00256575c7)　（版 `00256575c7`）
+- 出題基準：医学各論 Ⅹ-2-A-①（甲状腺機能亢進症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-007&card_id=EX-007&version=6e3f18950e)　（版 `6e3f18950e`）
 
-**[ここまでの 1 件（EX-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-007&cards=EX-007%2000256575c7)**
+**[ここまでの 1 件（EX-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-007&cards=EX-007%206e3f18950e)**
 
 ---
 
@@ -125,10 +125,10 @@
 - 条件：region: 国際／study: 粘液水腫性昏睡の総説（2011年）
 - 不確実性：薬の注記：レボチロキシン等の甲状腺ホルモン製剤とヒドロコルチゾンの国内承認・保険適用は、本カードでは個別の添付文書で確認していない（未確認）。静注用甲状腺ホルモン製剤の国内での入手可能性も未確認。出典は2011年の総説で、熱帯地域では低体温が目立たない場合があると述べている。
 - 出典：Mathew V, Misgar RA, Ghosh S, Mukhopadhyay P, Roychowdhury P, Pandit K, Mukhopadhyay S, Chowdhury S. Myxedema Coma: A New Look into an Old Crisis. J Thyroid Res. 2011;2011:493462.　[DOI 10.4061/2011/493462](https://doi.org/10.4061/2011/493462)　[PMID 21941682](https://pubmed.ncbi.nlm.nih.gov/21941682/)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-008&card_id=EX-008&version=cb7ecc485e)　（版 `cb7ecc485e`）
+- 出題基準：医学各論 Ⅹ-2-A-②（甲状腺機能低下症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-008&card_id=EX-008&version=14cc09c6e3)　（版 `14cc09c6e3`）
 
-**[ここまでの 1 件（EX-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-008&cards=EX-008%20cb7ecc485e)**
+**[ここまでの 1 件（EX-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-008&cards=EX-008%2014cc09c6e3)**
 
 ---
 
@@ -141,10 +141,10 @@
 - 条件：region: 米国／study: 高カルシウム血症クリーゼの臨床総説（2015年）
 - 不確実性：薬の注記：カルシトニンやビスホスホネート系薬などの国内承認・保険適用は、本カードでは個別の添付文書で確認していない（未確認）。クリーゼの定義（カルシウム値の基準）は文献により統一されておらず、本カードでは特定の数値基準を採用していない。
 - 出典：Ahmad S, Kuraganti G, Steenkamp D. Hypercalcemic Crisis: A Clinical Review. Am J Med. 2015;128(3):239-245　[DOI 10.1016/j.amjmed.2014.09.030](https://doi.org/10.1016/j.amjmed.2014.09.030)　[PMID 25447624](https://pubmed.ncbi.nlm.nih.gov/25447624/)（区分 UNKNOWN）
-- 出題基準：－　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-009&card_id=EX-009&version=c38552864a)　（版 `c38552864a`）
+- 出題基準：医学各論 Ⅹ-3-A-①（副甲状腺<上皮小体>機能亢進症、b）；医学各論 Ⅹ-3-B-③（悪性腫瘍に伴う高カルシウム血症、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-009&card_id=EX-009&version=deaebd32ae)　（版 `deaebd32ae`）
 
-**[ここまでの 1 件（EX-009）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-009&cards=EX-009%20c38552864a)**
+**[ここまでの 1 件（EX-009）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-009&cards=EX-009%20deaebd32ae)**
 
 ---
 
@@ -157,10 +157,10 @@
 - 条件：region: 国際／study: 低血糖リスクの高い糖尿病患者の管理の診療ガイドライン（Endocrine Society、2023年）
 - 不確実性：薬の注記：グルカゴン製剤（注射用・点鼻）やブドウ糖注射液の国内承認・保険適用と、製剤ごとの国内での発売状況は、本カードでは個別の添付文書で確認していない（未確認）。静脈内ブドウ糖の具体的な投与量は出典の抄録で確認できなかったため書いていない。
 - 出典：McCall AL, Lieb DC, Gianchandani R, MacMaster H, Maynard GA, Murad MH, Seaquist E, Wolfsdorf JI, Wright RF, Wiercioch W. Management of Individuals With Diabetes at High Risk for Hypoglycemia: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2023;108(3):529-562　[DOI 10.1210/clinem/dgac596](https://doi.org/10.1210/clinem/dgac596)　[PMID 36477488](https://pubmed.ncbi.nlm.nih.gov/36477488/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-14-05 (id: JkxnuTA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-010&card_id=EX-010&version=6dcff2ad6c)　（版 `6dcff2ad6c`）
+- 出題基準：医学各論 Ⅹ-6-D-②（薬剤による低血糖、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-010&card_id=EX-010&version=ce7cfb501c)　（版 `ce7cfb501c`）
 
-**[ここまでの 1 件（EX-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-010&cards=EX-010%206dcff2ad6c)**
+**[ここまでの 1 件（EX-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-010&cards=EX-010%20ce7cfb501c)**
 
 ---
 
@@ -173,10 +173,10 @@
 - 条件：region: 日本／study: 令和6年国民健康・栄養調査（厚生労働省）。対象は全国から層化無作為抽出された地区の世帯員で、割合は20歳以上・全国補正値、推計人数は人口推計を用いた全国推計
 - 不確実性：政府統計のため DOI・PMID はない。数値はいずれも厚生労働省の概要 PDF から直接読み取った。推計人数は割合に人口推計を掛けた全国推計で、実測の人数ではない。
 - 出典：厚生労働省. 令和6年国民健康・栄養調査結果の概要. 2025年公表　[リンク](https://www.mhlw.go.jp/content/10900000/001603146.pdf)（区分 GOV_JP）
-- 出題基準：－　コアカリ：PS-02-14-05 (id: JkxnuTA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-011&card_id=EX-011&version=ac2971e5b4)　（版 `ac2971e5b4`）
+- 出題基準：医学各論 Ⅹ-6-A-②（2型糖尿病、a）；医学各論 Ⅹ-7-B-①（単純性肥満、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-011&card_id=EX-011&version=144beb314b)　（版 `144beb314b`）
 
-**[ここまでの 1 件（EX-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-011&cards=EX-011%20ac2971e5b4)**
+**[ここまでの 1 件（EX-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-011&cards=EX-011%20144beb314b)**
 
 ---
 
@@ -205,10 +205,10 @@
 - 条件：region: 国際／study: 副腎不全患者の周術期グルココルチコイド管理ガイドライン（英国、2020年）
 - 不確実性：薬の注記：ヒドロコルチゾン等の国内承認・保険適用は、本カードでは個別の添付文書で確認していない（未確認）。出典は副腎不全とステロイド使用患者が中心で、甲状腺や糖尿病の周術期管理の詳細は各論に委ねる。具体的なストレス量の段階表はガイドライン本文の表に依存し、抄録で確認できた範囲を超える用量は書いていない。
 - 出典：Woodcock T, Barker P, Daniel S, et al. Guidelines for the management of glucocorticoids during the peri-operative period for patients with adrenal insufficiency: Guidelines from the Association of Anaesthetists, the Royal College of Physicians and the Society for Endocrinology UK. Anaesthesia. 2020;75(5):654-663　[DOI 10.1111/anae.14963](https://doi.org/10.1111/anae.14963)　[PMID 32017012](https://pubmed.ncbi.nlm.nih.gov/32017012/)（区分 UNKNOWN）
-- 出題基準：－　コアカリ：PS-02-14-05 (id: JkxnuTA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-013&card_id=EX-013&version=90cf05da23)　（版 `90cf05da23`）
+- 出題基準：医学各論 Ⅹ-4-A-③（慢性副腎不全<Addison病>、a）；医学各論 Ⅹ-4-A-⑤（医原性副腎皮質機能低下症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-013&card_id=EX-013&version=f8890713d6)　（版 `f8890713d6`）
 
-**[ここまでの 1 件（EX-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-013&cards=EX-013%2090cf05da23)**
+**[ここまでの 1 件（EX-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-013&cards=EX-013%20f8890713d6)**
 
 ---
 
@@ -221,10 +221,10 @@
 - 条件：region: 国際／study: 原発性アルドステロン症の症例発見・診断・治療の診療ガイドライン（Endocrine Society、2016年）
 - 不確実性：ARR のカットオフや確認試験の手順は測定法に依存し、国内のガイドラインと異なる場合があるため、本カードでは具体的なカットオフ値を書いていない。褐色細胞腫やクッシング症候群の検査の詳細は各論に委ねる。
 - 出典：Funder JW, Carey RM, Mantero F, Murad MH, Reincke M, Shibata H, Stowasser M, Young WF Jr. The Management of Primary Aldosteronism: Case Detection, Diagnosis, and Treatment: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2016;101(5):1889-1916.　[DOI 10.1210/jc.2015-4061](https://doi.org/10.1210/jc.2015-4061)　[PMID 26934393](https://pubmed.ncbi.nlm.nih.gov/26934393/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-014&card_id=EX-014&version=1de5859bd4)　（版 `1de5859bd4`）
+- 出題基準：医学各論 Ⅹ-4-A-②（アルドステロン過剰症、原発性アルドステロン症、a）；医学各論 Ⅴ-7-B-③（内分泌性高血圧症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-014&card_id=EX-014&version=bb8f12a5cb)　（版 `bb8f12a5cb`）
 
-**[ここまでの 1 件（EX-014）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-014&cards=EX-014%201de5859bd4)**
+**[ここまでの 1 件（EX-014）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-014&cards=EX-014%20bb8f12a5cb)**
 
 ---
 

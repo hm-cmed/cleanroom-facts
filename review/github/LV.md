@@ -21,65 +21,65 @@
 
 > 肝硬変患者の栄養量は、糖や蛋白の不耐症がなければ、エネルギー25〜35 kcal/kg（標準体重）/日、蛋白1.0〜1.5 g/kg/日（BCAA製剤を含む）とされる。
 
-- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ3-4
+- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ3-4／region: 日本
 - 鑑別・補足：肝性脳症の急性期には一時的に蛋白制限を行うことがある
 - よくある誤解：肝硬変では常に厳しい蛋白制限が必要
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-④（肝硬変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)；TBL-02-07-032 (id: JlAKplM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-002&card_id=LV-002&version=b59536595f)　（版 `b59536595f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-002&card_id=LV-002&version=b862a2f5f9)　（版 `b862a2f5f9`）
 
 ### LV-003　出典照合済み・監修待ち
 
 > 肝硬変では、就寝前の軽食（LES）が病態を改善するとされ、1日4〜7回の分割食とLESが推奨されている。
 
-- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ3-2、CQ3-2
+- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ3-2、CQ3-2／region: 日本
 - 鑑別・補足：肝硬変は夜間の飢餓状態になりやすい
 - よくある誤解：肝硬変の食事は1日3回に限るべき
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-④（肝硬変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-003&card_id=LV-003&version=abc4be1465)　（版 `abc4be1465`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-003&card_id=LV-003&version=5e5ea051e0)　（版 `5e5ea051e0`）
 
 ### LV-004　出典照合済み・監修待ち
 
 > 蛋白・エネルギー低栄養のある肝硬変患者には分岐鎖アミノ酸（BCAA）製剤を投与する。BMI 18.5 kg/m²未満では低栄養やサルコペニアのリスクが高く、血清アルブミン3.5 g/dL未満を低アルブミン血症とする。
 
-- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ3-3、図2
+- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ3-3、図2／region: 日本
 - よくある誤解：BCAA製剤は全ての肝硬変患者に必要
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-④（肝硬変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)；TBL-02-07-032 (id: JlAKplM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-004&card_id=LV-004&version=0bae7becc1)　（版 `0bae7becc1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-004&card_id=LV-004&version=71be36e4d1)　（版 `71be36e4d1`）
 
 ### LV-005　出典照合済み・監修待ち
 
 > サルコペニアは肝硬変の予後を悪くするため評価することが推奨され（強い推奨、エビデンスレベルA）、運動療法と栄養療法が提案されている（弱い推奨、エビデンスレベルC）。
 
-- 条件：guideline: JSGE/JSH 肝硬変GL 2020 CQ4-18、CQ4-19
+- 条件：guideline: JSGE/JSH 肝硬変GL 2020 CQ4-18、CQ4-19／region: 日本
 - よくある誤解：肝硬変患者には安静が第一で運動は避ける
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-④（肝硬変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-005&card_id=LV-005&version=3db30561d2)　（版 `3db30561d2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-005&card_id=LV-005&version=6dc1627693)　（版 `6dc1627693`）
 
 ### LV-006　出典照合済み・監修待ち
 
 > 血清-腹水アルブミン濃度勾配（SAAG）が1.1 g/dL以上であれば、腹水の原因は門脈圧亢進症と判断される。
 
-- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ4-3
+- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ4-3／region: 日本
 - 鑑別・補足：SAAGが低い腹水は癌性腹膜炎や結核性腹膜炎などを考える
 - よくある誤解：腹水の総蛋白濃度だけで成因を判断できる
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-④（肝硬変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)；TBL-02-07-024 (id: JlAKpko)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-006&card_id=LV-006&version=32db52c62e)　（版 `32db52c62e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-006&card_id=LV-006&version=13a6b8176e)　（版 `13a6b8176e`）
 
 ### LV-007　出典照合済み・監修待ち
 
 > 特発性細菌性腹膜炎（SBP）は、腹水培養が陽性か、培養が陰性でも腹水中の好中球数が250/mm³以上の場合に診断する。SBP発症後の1年生存率は約40%とされる。
 
-- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ4-3、BQ4-10
+- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ4-3、BQ4-10／region: 日本
 - 鑑別・補足：二次性細菌性腹膜炎（消化管穿孔など）
 - よくある誤解：SBPの診断には腹水培養陽性が必須
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-④（肝硬変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-007&card_id=LV-007&version=f829788101)　（版 `f829788101`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-007&card_id=LV-007&version=866bb24b78)　（版 `866bb24b78`）
 
 ### LV-008　出典照合済み・監修待ち
 
@@ -95,24 +95,24 @@
 
 > 肝硬変の腹水に対する塩分制限は1日5〜7 gとし、この程度であれば食欲を損なわずに有効とされる。
 
-- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ4-4
+- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ4-4／region: 日本
 - よくある誤解：腹水では塩分をできるだけゼロに近づける
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-④（肝硬変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)；TBL-02-07-024 (id: JlAKpko)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-009&card_id=LV-009&version=ce3fc98d0b)　（版 `ce3fc98d0b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-009&card_id=LV-009&version=4371eeba3e)　（版 `4371eeba3e`）
 
 ### LV-010　出典照合済み・監修待ち
 
 > 肝硬変の腹水の利尿薬治療は、スピロノラクトン（25〜50 mg/日）を第一選択とし、効果が不十分ならループ利尿薬（フロセミド20〜40 mg/日）を加える。
 
-- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ4-6、図4
+- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ4-6、図4／region: 日本
 - 鑑別・補足：欧米ではより高用量を用いる
 - よくある誤解：ループ利尿薬単独を第一選択とする
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-④（肝硬変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)；TBL-02-07-024 (id: JlAKpko)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-010&card_id=LV-010&version=34d116cee0)　（版 `34d116cee0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-010&card_id=LV-010&version=dce64d2fd5)　（版 `dce64d2fd5`）
 
-**[ここまでの 10 件（LV-001〜LV-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-001%E3%80%9CLV-010&cards=LV-001%20b110f7f5e8%0ALV-002%20b59536595f%0ALV-003%20abc4be1465%0ALV-004%200bae7becc1%0ALV-005%203db30561d2%0ALV-006%2032db52c62e%0ALV-007%20f829788101%0ALV-008%2015852fe5ba%0ALV-009%20ce3fc98d0b%0ALV-010%2034d116cee0)**
+**[ここまでの 10 件（LV-001〜LV-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-001%E3%80%9CLV-010&cards=LV-001%20b110f7f5e8%0ALV-002%20b862a2f5f9%0ALV-003%205e5ea051e0%0ALV-004%2071be36e4d1%0ALV-005%206dc1627693%0ALV-006%2013a6b8176e%0ALV-007%20866bb24b78%0ALV-008%2015852fe5ba%0ALV-009%204371eeba3e%0ALV-010%20dce64d2fd5)**
 
 ---
 
@@ -130,11 +130,11 @@
 
 > 低アルブミン血症のある肝硬変ではアルブミンを利尿薬と併用すると予後が改善し、大量腹水穿刺の際のアルブミン投与は穿刺後循環不全（PICD）を防ぐ。
 
-- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ4-5、BQ4-8
+- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ4-5、BQ4-8／region: 日本
 - よくある誤解：大量腹水穿刺は補液なしで安全に行える
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-④（肝硬変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-012&card_id=LV-012&version=85c63065d7)　（版 `85c63065d7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-012&card_id=LV-012&version=2ad9d86186)　（版 `2ad9d86186`）
 
 ### LV-013　出典照合済み・監修待ち
 
@@ -151,44 +151,44 @@
 
 > 肝腎症候群には、ノルアドレナリンとアルブミンの併用が提案されている（弱い推奨、エビデンスレベルB）。肝移植は肝腎症候群の予後を改善する。肝硬変の死亡リスクは、感染症の合併で3.75倍、肝腎症候群の合併で7.6倍に高まると報告されている。
 
-- 条件：guideline: JSGE/JSH 肝硬変GL 2020 CQ4-11、BQ4-12、CQ5-1
+- 条件：guideline: JSGE/JSH 肝硬変GL 2020 CQ4-11、BQ4-12、CQ5-1／region: 日本
 - 鑑別・補足：腎前性腎不全（脱水、利尿薬過量）
 - よくある誤解：肝腎症候群は輸液だけで改善する
 - 不確実性：死亡リスクの倍率はGLが引用した値（二次資料経由）
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-④（肝硬変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-014&card_id=LV-014&version=128504e586)　（版 `128504e586`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-014&card_id=LV-014&version=6ef265601d)　（版 `6ef265601d`）
 
 ### LV-015　出典照合済み・監修待ち
 
 > 肝性脳症の基本治療は合成二糖類である。リファキシミンなどの難吸収性抗菌薬は、初発と再発の肝性脳症の基本治療として推奨される（強い推奨、エビデンスレベルA）。
 
-- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ4-13、CQ4-13
+- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ4-13、CQ4-13／region: 日本
 - 鑑別・補足：低血糖、電解質異常、頭蓋内病変
 - よくある誤解：肝性脳症の治療は蛋白制限だけ
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-④（肝硬変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-297 (id: Jlvnl6s)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-015&card_id=LV-015&version=20dbd71d06)　（版 `20dbd71d06`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-015&card_id=LV-015&version=876d8d15bd)　（版 `876d8d15bd`）
 
 ### LV-016　出典照合済み・監修待ち
 
 > 顕性肝性脳症に進むリスクが高い患者では、不顕性（潜在性）肝性脳症も治療することが提案される（弱い推奨、エビデンスレベルB）。
 
-- 条件：guideline: JSGE/JSH 肝硬変GL 2020 CQ4-12
+- 条件：guideline: JSGE/JSH 肝硬変GL 2020 CQ4-12／region: 日本
 - よくある誤解：症状のない肝性脳症は治療の対象にならない
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-④（肝硬変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-297 (id: Jlvnl6s)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-016&card_id=LV-016&version=b28fae2e37)　（版 `b28fae2e37`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-016&card_id=LV-016&version=7d0d45dcb4)　（版 `7d0d45dcb4`）
 
 ### LV-017　出典照合済み・監修待ち
 
 > 亜鉛欠乏が疑われる肝性脳症には亜鉛補充が、カルニチン欠乏が疑われる場合にはカルニチン補充が提案される（いずれも弱い推奨、エビデンスレベルB）。プロバイオティクスは肝性脳症には推奨されない。
 
-- 条件：guideline: JSGE/JSH 肝硬変GL 2020 CQ4-14〜CQ4-16
+- 条件：guideline: JSGE/JSH 肝硬変GL 2020 CQ4-14〜CQ4-16／region: 日本
 - よくある誤解：プロバイオティクスは肝性脳症の標準治療である
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-④（肝硬変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-297 (id: Jlvnl6s)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-017&card_id=LV-017&version=3c897e8b3e)　（版 `3c897e8b3e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-017&card_id=LV-017&version=ba23eadae0)　（版 `ba23eadae0`）
 
 ### LV-018　出典照合済み・監修待ち
 
@@ -206,25 +206,25 @@
 
 > 門脈血栓症は肝硬変患者の10〜25%にみられ、予後への影響を考えて抗凝固療法が提案されている（弱い推奨、エビデンスレベルB）。
 
-- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ4-15、CQ4-17
+- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ4-15、CQ4-17／region: 日本
 - 鑑別・補足：肝細胞癌による門脈腫瘍栓
 - よくある誤解：肝硬変では出血傾向があるため抗凝固療法は禁忌
 - 不確実性：頻度はGLが引用した値（二次資料経由）
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-D-①（門脈圧亢進症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-296 (id: Jlvnl6k)；TBL-01-00-295 (id: Juyv1iM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-019&card_id=LV-019&version=8172b65c0f)　（版 `8172b65c0f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-019&card_id=LV-019&version=db9c5a2236)　（版 `db9c5a2236`）
 
 ### LV-020　出典照合済み・監修待ち
 
 > 肝硬変の予後予測にはChild-Pugh分類が有用で、非代償性肝硬変の短期予後にはMELDスコアが有用とされる。
 
-- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ5-1
+- 条件：guideline: JSGE/JSH 肝硬変GL 2020 BQ5-1／region: 日本
 - よくある誤解：Child-Pugh分類は肝癌の病期分類である
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-④（肝硬変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-020&card_id=LV-020&version=b3a863358f)　（版 `b3a863358f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-020&card_id=LV-020&version=efccb20e0d)　（版 `efccb20e0d`）
 
-**[ここまでの 10 件（LV-011〜LV-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-011%E3%80%9CLV-020&cards=LV-011%202936798970%0ALV-012%2085c63065d7%0ALV-013%20f54856efed%0ALV-014%20128504e586%0ALV-015%2020dbd71d06%0ALV-016%20b28fae2e37%0ALV-017%203c897e8b3e%0ALV-018%20370b0980fa%0ALV-019%208172b65c0f%0ALV-020%20b3a863358f)**
+**[ここまでの 10 件（LV-011〜LV-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-011%E3%80%9CLV-020&cards=LV-011%202936798970%0ALV-012%202ad9d86186%0ALV-013%20f54856efed%0ALV-014%206ef265601d%0ALV-015%20876d8d15bd%0ALV-016%207d0d45dcb4%0ALV-017%20ba23eadae0%0ALV-018%20370b0980fa%0ALV-019%20db9c5a2236%0ALV-020%20efccb20e0d)**
 
 ---
 
@@ -232,25 +232,25 @@
 
 > C型肝硬変でSVR（ウイルス排除）が得られた後も、画像検査と腫瘍マーカーによる肝細胞癌のサーベイランスを続けることが推奨される（強い推奨、エビデンスレベルA）。DAAで治癒した肝硬変でも、肝細胞癌の年間発生率は1.8〜2.5%と報告されている。
 
-- 条件：guideline: JSGE/JSH 肝硬変GL 2020 CQ3-4
+- 条件：guideline: JSGE/JSH 肝硬変GL 2020 CQ3-4／region: 日本
 - よくある誤解：ウイルスが排除されれば肝癌の心配はない
 - 不確実性：発生率はGLが引用した値（二次資料経由）
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-C-①（肝細胞癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)；TBL-01-00-284 (id: Jlvnl6A)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-021&card_id=LV-021&version=1e5daafae8)　（版 `1e5daafae8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-021&card_id=LV-021&version=0e68fd1bc8)　（版 `0e68fd1bc8`）
 
 ### LV-022　出典照合済み・監修待ち
 
 > 肝硬変で1年間の酸分泌抑制薬の投与は肝性脳症を有意に悪化させたと報告されており、長期の酸分泌抑制はSBPの増加とも関連する。食道静脈瘤治療後の再発予防には短期間の酸分泌抑制が提案されている。
 
-- 条件：guideline: JSGE/JSH 肝硬変GL 2020 CQ4-4
+- 条件：guideline: JSGE/JSH 肝硬変GL 2020 CQ4-4／region: 日本
 - よくある誤解：肝硬変ではPPIを漫然と長期投与してよい
 - 不確実性：肝性脳症悪化の報告はGLが引用した研究（二次資料経由）
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-④（肝硬変、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-295 (id: Juyv1iM)；TBL-01-00-297 (id: Jlvnl6s)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-022&card_id=LV-022&version=1046296a00)　（版 `1046296a00`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-022&card_id=LV-022&version=7223f26815)　（版 `7223f26815`）
 
-**[ここまでの 2 件（LV-021〜LV-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-021%E3%80%9CLV-022&cards=LV-021%201e5daafae8%0ALV-022%201046296a00)**
+**[ここまでの 2 件（LV-021〜LV-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-021%E3%80%9CLV-022&cards=LV-021%200e68fd1bc8%0ALV-022%207223f26815)**
 
 ---
 
@@ -271,56 +271,56 @@
 
 > 日本のNAFLD/NASH診療ガイドライン2020では、「非アルコール性」を飲酒量が男性30 g/日、女性20 g/日までと定義している。
 
-- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020
+- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020／region: 日本
 - 鑑別・補足：MASLDの新しい命名法ではMetALDという中間区分がある（LV-037）
 - よくある誤解：少しでも飲酒があればNAFLDとは診断できない
 - 出典：Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963　[DOI 10.1007/s00535-021-01796-x](https://doi.org/10.1007/s00535-021-01796-x)　[PMID 34533632](https://pubmed.ncbi.nlm.nih.gov/34533632/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-E-②（脂肪肝、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-024&card_id=LV-024&version=7859ed4baa)　（版 `7859ed4baa`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-024&card_id=LV-024&version=9d1648657c)　（版 `9d1648657c`）
 
 ### LV-025　出典照合済み・監修待ち
 
 > NASHの診断のゴールドスタンダードは肝生検である。肝線維化の程度は、全死亡と肝関連死亡の両方と強く関連する（エビデンスレベルA、推奨の強さ1）。
 
-- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020
+- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020／region: 日本
 - よくある誤解：NAFLDの予後は脂肪化の程度で決まる
 - 出典：Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963　[DOI 10.1007/s00535-021-01796-x](https://doi.org/10.1007/s00535-021-01796-x)　[PMID 34533632](https://pubmed.ncbi.nlm.nih.gov/34533632/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-E-②（脂肪肝、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-025&card_id=LV-025&version=fb935c8ae7)　（版 `fb935c8ae7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-025&card_id=LV-025&version=27f187f2bf)　（版 `27f187f2bf`）
 
 ### LV-026　出典照合済み・監修待ち
 
 > 日本のNAFLD/NASH診療ガイドライン2020は、FIB-4 indexによる線維化評価の流れ図を2つ示している。一般医による一次スクリーニングでは1.3未満を低リスク、1.3〜3.25を中間リスク、3.25を超えるものを高リスクとし、消化器専門医による二次スクリーニングでは1.3未満を低リスク、1.3〜2.66を中等度線維化の疑い、2.67以上を高度線維化の疑いとする。
 
-- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020
+- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020／region: 日本
 - 鑑別・補足：高齢者ではFIB-4が高く出やすい
 - よくある誤解：FIB-4が正常範囲なら肝生検が必要
 - 不確実性：low（GL本文で照合）。NAFLD/MASLD では高度線維化の目安として 2.67 が広く用いられ、1.45・3.25 は C 型肝炎で用いられる閾値である。65歳以上で低リスクの閾値を 2.0 とする年齢調整は、このGL本文では確認していない
 - 出典：Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963　[DOI 10.1007/s00535-021-01796-x](https://doi.org/10.1007/s00535-021-01796-x)　[PMID 34533632](https://pubmed.ncbi.nlm.nih.gov/34533632/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-E-②（脂肪肝、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-026&card_id=LV-026&version=514dd9af1f)　（版 `514dd9af1f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-026&card_id=LV-026&version=62f3620321)　（版 `62f3620321`）
 
 ### LV-027　出典照合済み・監修待ち
 
 > NAFLDでは、体重の5%以上の減量で脂肪化が改善し、7%以上の減量でNAFLD活動性スコアが改善すると報告されている。10%以上減量した患者では、45%で線維化が改善し、90%で脂肪性肝炎が消失したとの報告がある。
 
-- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020
+- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020／region: 日本
 - よくある誤解：脂肪肝は少しの減量では改善しない
 - 不確実性：GLが引用した研究の値（二次資料経由）で、原著は未照合
 - 出典：Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963　[DOI 10.1007/s00535-021-01796-x](https://doi.org/10.1007/s00535-021-01796-x)　[PMID 34533632](https://pubmed.ncbi.nlm.nih.gov/34533632/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-E-②（脂肪肝、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-027&card_id=LV-027&version=951449e9eb)　（版 `951449e9eb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-027&card_id=LV-027&version=cc99679851)　（版 `cc99679851`）
 
 ### LV-028　出典照合済み・監修待ち
 
 > インスリン抵抗性のあるNASHにはピオグリタゾンが推奨される（エビデンスレベルA、推奨の強さ2）。ビタミンEもNASHに推奨されるが、心血管疾患、心不全、膀胱癌のある患者での長期の安全性は十分に評価されていない。
 
-- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020
+- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020／region: 日本
 - よくある誤解：NASHに有効な薬物は存在しない
 - 不確実性：日本ではいずれもNASHの保険適用はない点を本文で確認する
 - 出典：Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963　[DOI 10.1007/s00535-021-01796-x](https://doi.org/10.1007/s00535-021-01796-x)　[PMID 34533632](https://pubmed.ncbi.nlm.nih.gov/34533632/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-E-②（脂肪肝、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-028&card_id=LV-028&version=c8f86426f4)　（版 `c8f86426f4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-028&card_id=LV-028&version=afc21fd722)　（版 `afc21fd722`）
 
 ### LV-029　出典照合済み・監修待ち
 
@@ -337,35 +337,35 @@
 
 > NAFLD/NASHに対して、通常用量のウルソデオキシコール酸やビグアナイド薬は、肝機能や組織像を改善しないため推奨されない。
 
-- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020
+- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020／region: 日本
 - よくある誤解：脂肪肝にはウルソデオキシコール酸が標準治療
 - 出典：Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963　[DOI 10.1007/s00535-021-01796-x](https://doi.org/10.1007/s00535-021-01796-x)　[PMID 34533632](https://pubmed.ncbi.nlm.nih.gov/34533632/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-E-②（脂肪肝、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-030&card_id=LV-030&version=0b97121be0)　（版 `0b97121be0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-030&card_id=LV-030&version=8d6ee18dd1)　（版 `8d6ee18dd1`）
 
 ### LV-031　出典照合済み・監修待ち
 
 > 肝細胞癌の発生率は、NAFLDで1,000人年あたり0.44、NASHで5.29と報告されている。NAFLD関連肝硬変では年2〜3%とされる。
 
-- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020
+- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020／region: 日本
 - 鑑別・補足：ウイルス性肝硬変からの発癌率はより高い
 - よくある誤解：肝硬変に至らなければNASHから肝癌は発生しない
 - 不確実性：GLが引用したメタ解析の値（二次資料経由）
 - 出典：Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963　[DOI 10.1007/s00535-021-01796-x](https://doi.org/10.1007/s00535-021-01796-x)　[PMID 34533632](https://pubmed.ncbi.nlm.nih.gov/34533632/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-C-①（肝細胞癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-288 (id: Jlvnl7c)；TBL-01-00-298 (id: Jlvnl6w)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-031&card_id=LV-031&version=5e0cca52dd)　（版 `5e0cca52dd`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-031&card_id=LV-031&version=f0c7613f36)　（版 `f0c7613f36`）
 
 ### LV-032　出典照合済み・監修待ち
 
 > NAFLDの肝細胞癌サーベイランスとして、肝硬変（F4）では6か月ごとの超音波検査と腫瘍マーカー、F2・F3の男性とF3の女性では6〜12か月ごとの超音波検査を考慮する。F0〜1では発癌スクリーニングは行わず、1年後に線維化を再評価する。
 
-- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020
+- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020／region: 日本
 - よくある誤解：NAFLDは全例で6か月ごとの肝癌検査が必要
 - 出典：Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963　[DOI 10.1007/s00535-021-01796-x](https://doi.org/10.1007/s00535-021-01796-x)　[PMID 34533632](https://pubmed.ncbi.nlm.nih.gov/34533632/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-C-①（肝細胞癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-288 (id: Jlvnl7c)；TBL-01-00-298 (id: Jlvnl6w)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-032&card_id=LV-032&version=26793a5691)　（版 `26793a5691`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-032&card_id=LV-032&version=79dbe0e16a)　（版 `79dbe0e16a`）
 
-**[ここまでの 10 件（LV-023〜LV-032）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-023%E3%80%9CLV-032&cards=LV-023%202ba05a0eb4%0ALV-024%207859ed4baa%0ALV-025%20fb935c8ae7%0ALV-026%20514dd9af1f%0ALV-027%20951449e9eb%0ALV-028%20c8f86426f4%0ALV-029%20f829b51ed5%0ALV-030%200b97121be0%0ALV-031%205e0cca52dd%0ALV-032%2026793a5691)**
+**[ここまでの 10 件（LV-023〜LV-032）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-023%E3%80%9CLV-032&cards=LV-023%202ba05a0eb4%0ALV-024%209d1648657c%0ALV-025%2027f187f2bf%0ALV-026%2062f3620321%0ALV-027%20cc99679851%0ALV-028%20afc21fd722%0ALV-029%20f829b51ed5%0ALV-030%208d6ee18dd1%0ALV-031%20f0c7613f36%0ALV-032%2079dbe0e16a)**
 
 ---
 
@@ -373,57 +373,57 @@
 
 > NAFLD患者の死因で最も多いのは心血管疾患であり、とくに線維化が進んだ例で心血管イベントが増える（エビデンスレベルA、推奨の強さ1）。
 
-- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020
+- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020／region: 日本
 - よくある誤解：NAFLD患者の主な死因は肝疾患である
 - 出典：Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963　[DOI 10.1007/s00535-021-01796-x](https://doi.org/10.1007/s00535-021-01796-x)　[PMID 34533632](https://pubmed.ncbi.nlm.nih.gov/34533632/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-E-②（脂肪肝、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-033&card_id=LV-033&version=7d03b6f7ec)　（版 `7d03b6f7ec`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-033&card_id=LV-033&version=d05f33875b)　（版 `d05f33875b`）
 
 ### LV-034　出典照合済み・監修待ち
 
 > NAFLDでは、1回30〜60分、週3〜4回、4〜12週間の運動で肝脂肪が改善すると報告されている（エビデンスレベルB、推奨の強さ2）。
 
-- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020
+- 条件：guideline: JSGE/JSH NAFLD/NASH GL 2020／region: 日本
 - よくある誤解：体重が減らなければ運動は脂肪肝に効果がない
 - 不確実性：GLが引用した研究の値（二次資料経由）
 - 出典：Tokushige K, et al. Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020. J Gastroenterol 2021;56:951-963　[DOI 10.1007/s00535-021-01796-x](https://doi.org/10.1007/s00535-021-01796-x)　[PMID 34533632](https://pubmed.ncbi.nlm.nih.gov/34533632/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-E-②（脂肪肝、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-034&card_id=LV-034&version=96fc78a45a)　（版 `96fc78a45a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-034&card_id=LV-034&version=0cf657416e)　（版 `0cf657416e`）
 
 ### LV-035　出典照合済み・監修待ち
 
 > 2023年の多学会Delphiコンセンサスは、脂肪が肝に蓄積する病態全体を脂肪性肝疾患（SLD）と呼び、そのうち肝脂肪化に心代謝系危険因子を1つ以上伴い他の原因がないものを代謝機能障害関連脂肪性肝疾患（MASLD）、脂肪性肝炎を伴うものをMASHと命名した。
 
-- 条件：source: Multisociety Delphi consensus 2023
+- 条件：source: Multisociety Delphi consensus 2023／region: 国際
 - 鑑別・補足：危険因子も原因もない脂肪化はcryptogenic SLDとする
 - よくある誤解：MASLDはNAFLDと全く別の患者集団を指す
 - 出典：Rinella ME, et al. A multisociety Delphi consensus statement on new fatty liver disease nomenclature. J Hepatol 2023;79:1542-1556　[DOI 10.1016/j.jhep.2023.06.003](https://doi.org/10.1016/j.jhep.2023.06.003)　[PMID 37364790](https://pubmed.ncbi.nlm.nih.gov/37364790/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-6-E-②（脂肪肝、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-035&card_id=LV-035&version=281a5bef18)　（版 `281a5bef18`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-035&card_id=LV-035&version=a89e505298)　（版 `a89e505298`）
 
 ### LV-036　出典照合済み・監修待ち
 
 > MASLDの成人の心代謝系危険因子は、①BMI 25 kg/m²以上（アジアでは23以上）または腹囲の基準超過、②空腹時血糖100 mg/dL以上、負荷後2時間血糖140 mg/dL以上、HbA1c 5.7%以上、2型糖尿病またはその治療、③血圧130/85 mmHg以上または降圧治療、④中性脂肪150 mg/dL以上または脂質低下治療、⑤HDLコレステロールが男性40 mg/dL以下・女性50 mg/dL以下または脂質低下治療、の5つである。
 
-- 条件：source: Multisociety Delphi consensus 2023
+- 条件：source: Multisociety Delphi consensus 2023／region: 国際
 - よくある誤解：MASLDの診断には肥満が必須
 - 不確実性：low（論文の図で照合）
 - 出典：Rinella ME, et al. A multisociety Delphi consensus statement on new fatty liver disease nomenclature. J Hepatol 2023;79:1542-1556　[DOI 10.1016/j.jhep.2023.06.003](https://doi.org/10.1016/j.jhep.2023.06.003)　[PMID 37364790](https://pubmed.ncbi.nlm.nih.gov/37364790/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-6-E-②（脂肪肝、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-036&card_id=LV-036&version=57fd8da9fc)　（版 `57fd8da9fc`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-036&card_id=LV-036&version=81a2345320)　（版 `81a2345320`）
 
 ### LV-037　出典照合済み・監修待ち
 
 > MASLDで飲酒量が多いもの（女性で週140〜350 g、男性で週210〜420 g）はMetALDと呼ぶ。
 
-- 条件：source: Multisociety Delphi consensus 2023
+- 条件：source: Multisociety Delphi consensus 2023／region: 国際
 - 鑑別・補足：日本のNAFLD GL 2020の「非アルコール性」の基準（LV-024）
 - よくある誤解：飲酒があればアルコール性肝疾患に分類される
 - 出典：Rinella ME, et al. A multisociety Delphi consensus statement on new fatty liver disease nomenclature. J Hepatol 2023;79:1542-1556　[DOI 10.1016/j.jhep.2023.06.003](https://doi.org/10.1016/j.jhep.2023.06.003)　[PMID 37364790](https://pubmed.ncbi.nlm.nih.gov/37364790/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-6-E-②（脂肪肝、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-037&card_id=LV-037&version=4cb40f636a)　（版 `4cb40f636a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-037&card_id=LV-037&version=8ffe068b68)　（版 `8ffe068b68`）
 
-**[ここまでの 5 件（LV-033〜LV-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-033%E3%80%9CLV-037&cards=LV-033%207d03b6f7ec%0ALV-034%2096fc78a45a%0ALV-035%20281a5bef18%0ALV-036%2057fd8da9fc%0ALV-037%204cb40f636a)**
+**[ここまでの 5 件（LV-033〜LV-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-033%E3%80%9CLV-037&cards=LV-033%20d05f33875b%0ALV-034%200cf657416e%0ALV-035%20a89e505298%0ALV-036%2081a2345320%0ALV-037%208ffe068b68)**
 
 ---
 
@@ -464,12 +464,12 @@
 
 > 典型的な肝細胞癌は、ダイナミックCT・MRIで動脈相に濃染し、門脈相から平衡相で周囲より低吸収（ウォッシュアウト）を示す。EOB-MRIは、乏血性の早期肝細胞癌の診断に有用とされる。造影CT・MRIが禁忌の場合は造影超音波検査が勧められる。
 
-- 条件：guideline: JSH 肝癌診療GL 2021
+- 条件：guideline: JSH 肝癌診療GL 2021／region: 日本
 - 鑑別・補足：血管腫は辺縁から求心性に濃染する
 - よくある誤解：肝細胞癌は全て動脈相で濃染する
 - 出典：日本肝臓学会 Clinical Practice Guidelines for Hepatocellular Carcinoma 2021（英語版PDF、第1・2・3分冊）　[リンク](https://www.jsh.or.jp/English/examination_en)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-6-C-①（肝細胞癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)；TBL-02-07-029 (id: JlAKplA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-041&card_id=LV-041&version=646fa1fca8)　（版 `646fa1fca8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-041&card_id=LV-041&version=6fbf25dd14)　（版 `6fbf25dd14`）
 
 ### LV-042　出典照合済み・監修待ち
 
@@ -517,25 +517,25 @@
 
 > 切除やRFAの適応がない多血性の肝細胞癌（4個以上、または3個以下で径3 cm超）で、Child-Pugh A・Bの患者には、TACEまたはTAEが推奨される（強い推奨、エビデンスレベルA）。Child-Pugh Cや肝外転移のある例には推奨されない。
 
-- 条件：guideline: JSH 肝癌診療GL 2021 CQ33
+- 条件：guideline: JSH 肝癌診療GL 2021 CQ33／region: 日本
 - よくある誤解：TACEは肝機能にかかわらず実施できる
 - 出典：日本肝臓学会 Clinical Practice Guidelines for Hepatocellular Carcinoma 2021（英語版PDF、第1・2・3分冊）　[リンク](https://www.jsh.or.jp/English/examination_en)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-6-C-①（肝細胞癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)；TBL-02-07-034 (id: JlAKplU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-046&card_id=LV-046&version=e78059c25f)　（版 `e78059c25f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-046&card_id=LV-046&version=92b641fcd3)　（版 `92b641fcd3`）
 
 ### LV-047　出典照合済み・監修待ち
 
 > 切除、移植、焼灼療法、TACEの適応がない進行肝細胞癌で、全身状態がよくChild-Pugh Aの患者には薬物療法が推奨される。一次治療はアテゾリズマブとベバシズマブの併用が推奨され、適応がない場合（自己免疫疾患など）はソラフェニブまたはレンバチニブが推奨される（いずれも強い推奨、エビデンスレベルA）。
 
-- 条件：guideline: JSH 肝癌診療GL 2021 CQ38、CQ39
+- 条件：guideline: JSH 肝癌診療GL 2021 CQ38、CQ39／region: 日本
 - 鑑別・補足：2021年版以降に承認された併用療法（デュルバルマブとトレメリムマブなど）は本版に含まれない
 - よくある誤解：進行肝細胞癌の一次治療はソラフェニブ単剤に限られる
 - 不確実性：ガイドラインの改訂状況は確認が必要
 - 出典：日本肝臓学会 Clinical Practice Guidelines for Hepatocellular Carcinoma 2021（英語版PDF、第1・2・3分冊）　[リンク](https://www.jsh.or.jp/English/examination_en)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-6-C-①（肝細胞癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-047&card_id=LV-047&version=d04434f868)　（版 `d04434f868`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-047&card_id=LV-047&version=6c62f61151)　（版 `6c62f61151`）
 
-**[ここまでの 10 件（LV-038〜LV-047）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-038%E3%80%9CLV-047&cards=LV-038%20f5bc21e209%0ALV-039%20527a93dd58%0ALV-040%2036000d4771%0ALV-041%20646fa1fca8%0ALV-042%204b160cd416%0ALV-043%2071b56a3801%0ALV-044%204ad7becb45%0ALV-045%20af8b73e60d%0ALV-046%20e78059c25f%0ALV-047%20d04434f868)**
+**[ここまでの 10 件（LV-038〜LV-047）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-038%E3%80%9CLV-047&cards=LV-038%20f5bc21e209%0ALV-039%20527a93dd58%0ALV-040%2036000d4771%0ALV-041%206fbf25dd14%0ALV-042%204b160cd416%0ALV-043%2071b56a3801%0ALV-044%204ad7becb45%0ALV-045%20af8b73e60d%0ALV-046%2092b641fcd3%0ALV-047%206c62f61151)**
 
 ---
 
@@ -543,11 +543,11 @@
 
 > ソラフェニブ後の二次治療以降には、レゴラフェニブ、ラムシルマブ（AFP 400 ng/mL以上の場合）、カボザンチニブが推奨される（強い推奨、エビデンスレベルA）。
 
-- 条件：guideline: JSH 肝癌診療GL 2021 CQ40
+- 条件：guideline: JSH 肝癌診療GL 2021 CQ40／region: 日本
 - よくある誤解：ラムシルマブはAFPにかかわらず使用できる
 - 出典：日本肝臓学会 Clinical Practice Guidelines for Hepatocellular Carcinoma 2021（英語版PDF、第1・2・3分冊）　[リンク](https://www.jsh.or.jp/English/examination_en)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-6-C-①（肝細胞癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)；TBL-02-07-028 (id: JlAKpk8)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-048&card_id=LV-048&version=803f3c94f0)　（版 `803f3c94f0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-048&card_id=LV-048&version=99284928cf)　（版 `99284928cf`）
 
 ### LV-049　出典照合済み・監修待ち
 
@@ -582,7 +582,7 @@
 - 出題基準：医学各論 Ⅵ-6-C-①（肝細胞癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-298 (id: Jlvnl6w)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-051&card_id=LV-051&version=a49c11fa8e)　（版 `a49c11fa8e`）
 
-**[ここまでの 4 件（LV-048〜LV-051）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-048%E3%80%9CLV-051&cards=LV-048%20803f3c94f0%0ALV-049%20f44c213e52%0ALV-050%200c1f76280c%0ALV-051%20a49c11fa8e)**
+**[ここまでの 4 件（LV-048〜LV-051）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-048%E3%80%9CLV-051&cards=LV-048%2099284928cf%0ALV-049%20f44c213e52%0ALV-050%200c1f76280c%0ALV-051%20a49c11fa8e)**
 
 ---
 
@@ -592,22 +592,22 @@
 
 > A型肝炎は主に糞口感染で広がり、潜伏期は平均28日（15〜50日）である。慢性化はしない。
 
-- 条件：source: CDC
+- 条件：source: CDC／region: 米国
 - 鑑別・補足：B型・C型肝炎は血液を介して感染し、慢性化しうる
 - よくある誤解：A型肝炎は慢性肝炎に移行する
 - 出典：CDC. Clinical Overview of Hepatitis A（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-a/hcp/clinical-overview/index.html)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-282 (id: Jlvnl50)；TBL-01-00-285 (id: Jlvnl6Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-052&card_id=LV-052&version=226bdfe6b7)　（版 `226bdfe6b7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-052&card_id=LV-052&version=a90a209773)　（版 `a90a209773`）
 
 ### LV-053　出典照合済み・監修待ち
 
 > A型肝炎は6歳未満の小児では70%が無症状で、年少児では黄疸はまれだが、年長児や成人では多くが黄疸を伴う。症状のある人の10〜15%は、最長6か月にわたり症状が遷延・再燃する。
 
-- 条件：source: CDC
+- 条件：source: CDC／region: 米国
 - よくある誤解：小児のA型肝炎は大人より重症になりやすい
 - 出典：CDC. Clinical Overview of Hepatitis A（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-a/hcp/clinical-overview/index.html)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-282 (id: Jlvnl50)；TBL-01-00-285 (id: Jlvnl6Q)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-053&card_id=LV-053&version=2dacf32acc)　（版 `2dacf32acc`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-053&card_id=LV-053&version=1ebbf3bbb4)　（版 `1ebbf3bbb4`）
 
 ### LV-054　出典照合済み・監修待ち
 
@@ -623,79 +623,79 @@
 
 > HBVに感染した場合、乳児の約90%、1〜5歳の小児の約30%が慢性感染に移行するが、成人では約95%が完全に回復する。
 
-- 条件：source: CDC
+- 条件：source: CDC／region: 国際
 - 鑑別・補足：C型肝炎は成人でも半数以上が慢性化する
 - よくある誤解：成人のHBV感染は多くが慢性化する
 - 出典：CDC. Clinical Overview of Hepatitis B（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-b/hcp/clinical-overview/index.html)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-285 (id: Jlvnl6Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-055&card_id=LV-055&version=b07e7dbc24)　（版 `b07e7dbc24`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-055&card_id=LV-055&version=a5e394bfd8)　（版 `a5e394bfd8`）
 
 ### LV-056　出典照合済み・監修待ち
 
 > HBV曝露からALT上昇までの期間は平均60日（40〜90日）、症状が出るまでは平均90日（60〜150日）である。HBVは環境表面で少なくとも7日間感染性を保つ。
 
-- 条件：source: CDC
+- 条件：source: CDC／region: 国際
 - 鑑別・補足：A型肝炎（潜伏期平均28日）
 - よくある誤解：B型急性肝炎は曝露後数日で発症する
 - 出典：CDC. Clinical Overview of Hepatitis B（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-b/hcp/clinical-overview/index.html)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-285 (id: Jlvnl6Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-056&card_id=LV-056&version=333ec49737)　（版 `333ec49737`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-056&card_id=LV-056&version=167cca576c)　（版 `167cca576c`）
 
 ### LV-057　出典照合済み・監修待ち
 
 > 慢性HBV感染者の約15〜25%が、肝硬変、肝不全、肝癌などの慢性肝疾患を発症する。
 
-- 条件：source: CDC
+- 条件：source: CDC／region: 国際
 - よくある誤解：HBVキャリアは全員が肝硬変になる
 - 出典：CDC. Clinical Overview of Hepatitis B（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-b/hcp/clinical-overview/index.html)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-6-B-③（慢性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-01-00-286 (id: Jlvnl6Y)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-057&card_id=LV-057&version=903c4634ec)　（版 `903c4634ec`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-057&card_id=LV-057&version=3692017ceb)　（版 `3692017ceb`）
 
 ### LV-058　出典照合済み・監修待ち
 
 > HBs抗原とHBc抗体がともに陽性の人は、HBc抗体とHBs抗体が陽性の人よりHBV再活性化のリスクが高い。再活性化は重症化して死に至ることがある。
 
-- 条件：source: CDC
+- 条件：source: CDC／region: 国際
 - 鑑別・補足：既往感染（HBs抗原陰性・HBc抗体陽性）でも再活性化は起こりうる
 - よくある誤解：HBs抗原が陰性なら再活性化は起こらない
 - 不確実性：日本の免疫抑制・化学療法時の再活性化対策ガイドラインは今回は未取得
 - 出典：CDC. Clinical Overview of Hepatitis B（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-b/hcp/clinical-overview/index.html)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-6-B-②（劇症肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-283 (id: Jlvnl54)；TBL-02-07-027 (id: JlAKpk4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-058&card_id=LV-058&version=a81c7b3946)　（版 `a81c7b3946`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-058&card_id=LV-058&version=126d259a72)　（版 `126d259a72`）
 
 ### LV-059　出典照合済み・監修待ち
 
 > HCVは主に注射器具の共用など血液への経皮的曝露で感染し、感染者の半数以上が慢性感染に移行する。症状が出る場合は曝露後2〜12週（2〜26週）で、HCV RNAは曝露後1〜2週で検出できる。
 
-- 条件：source: CDC
+- 条件：source: CDC／region: 米国
 - 鑑別・補足：B型肝炎は成人感染の多くが治癒する
 - よくある誤解：C型肝炎は急性期に必ず症状が出る
 - 出典：CDC. Clinical Overview of Hepatitis C（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-c/hcp/clinical-overview/index.html)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-6-B-①（急性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-01-00-285 (id: Jlvnl6Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-059&card_id=LV-059&version=5495d47a36)　（版 `5495d47a36`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-059&card_id=LV-059&version=876b6380ff)　（版 `876b6380ff`）
 
 ### LV-060　出典照合済み・監修待ち
 
 > 慢性C型肝炎の約5〜25%が、10〜20年の経過で肝硬変に進む。
 
-- 条件：source: CDC
+- 条件：source: CDC／region: 米国
 - よくある誤解：慢性C型肝炎は数年で全例が肝硬変になる
 - 出典：CDC. Clinical Overview of Hepatitis C（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-c/hcp/clinical-overview/index.html)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-6-B-③（慢性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-01-00-286 (id: Jlvnl6Y)；TBL-01-00-295 (id: Juyv1iM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-060&card_id=LV-060&version=b39e8c7d13)　（版 `b39e8c7d13`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-060&card_id=LV-060&version=bdc50e29e5)　（版 `bdc50e29e5`）
 
 ### LV-061　出典照合済み・監修待ち
 
 > C型肝炎の検査は、HCV抗体検査から始め、陽性ならHCV RNA（核酸増幅検査）を追加する。
 
-- 条件：source: CDC
+- 条件：source: CDC／region: 米国
 - 鑑別・補足：HCV抗体陽性は既往感染でもみられる
 - よくある誤解：HCV抗体陽性なら現在感染していると判断してよい
 - 出典：CDC. Clinical Overview of Hepatitis C（2025-08-29更新）　[リンク](https://www.cdc.gov/hepatitis-c/hcp/clinical-overview/index.html)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-6-B-③（慢性肝炎、a）；医学各論 Ⅻ-1-A-⑰（ウイルス性肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-284 (id: Jlvnl6A)；TBL-02-07-027 (id: JlAKpk4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-061&card_id=LV-061&version=705ed70414)　（版 `705ed70414`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-061&card_id=LV-061&version=08973fa7e6)　（版 `08973fa7e6`）
 
-**[ここまでの 10 件（LV-052〜LV-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-052%E3%80%9CLV-061&cards=LV-052%20226bdfe6b7%0ALV-053%202dacf32acc%0ALV-054%203c44ddf895%0ALV-055%20b07e7dbc24%0ALV-056%20333ec49737%0ALV-057%20903c4634ec%0ALV-058%20a81c7b3946%0ALV-059%205495d47a36%0ALV-060%20b39e8c7d13%0ALV-061%20705ed70414)**
+**[ここまでの 10 件（LV-052〜LV-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-052%E3%80%9CLV-061&cards=LV-052%20a90a209773%0ALV-053%201ebbf3bbb4%0ALV-054%203c44ddf895%0ALV-055%20a5e394bfd8%0ALV-056%20167cca576c%0ALV-057%203692017ceb%0ALV-058%20126d259a72%0ALV-059%20876b6380ff%0ALV-060%20bdc50e29e5%0ALV-061%2008973fa7e6)**
 
 ---
 
@@ -805,49 +805,49 @@
 
 > Gilbert症候群は非抱合型（間接）高ビリルビン血症を特徴とし、脱水、絶食、病気、激しい運動、月経などのストレスで値が上がるが、黄疸が出ることはまれである。米国人の3〜7%にみられ、約30%は無症状で、血液検査で偶然見つかる。
 
-- 条件：source: MedlinePlus Genetics
+- 条件：source: MedlinePlus Genetics／region: 米国
 - 鑑別・補足：溶血性貧血による間接ビリルビン上昇
 - よくある誤解：Gilbert症候群は肝障害を起こす病気である
 - 不確実性：出典の最終更新は2012年。日本人の頻度は未確認
 - 出典：MedlinePlus Genetics. Gilbert syndrome（最終更新 2012-02-01）　[リンク](https://medlineplus.gov/genetics/condition/gilbert-syndrome)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b）；医学各論 Ⅹ-9-D-①（体質性黄疸、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-066&card_id=LV-066&version=0c0a9c119a)　（版 `0c0a9c119a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-066&card_id=LV-066&version=154555f5d7)　（版 `154555f5d7`）
 
 ### LV-067　出典照合済み・監修待ち
 
 > Gilbert症候群はUGT1A1遺伝子の変化によって起こり、ビリルビンを抱合する酵素の働きは正常の約30%に低下している。両方のアレルに病的変化があり酵素活性がより低いものはCrigler-Najjar症候群である。
 
-- 条件：source: MedlinePlus Genetics
+- 条件：source: MedlinePlus Genetics／region: 米国
 - 鑑別・補足：Dubin-Johnson症候群・Rotor症候群は抱合型（直接）ビリルビンが上昇する
 - よくある誤解：Gilbert症候群では直接ビリルビンが上昇する
 - 出典：MedlinePlus Genetics. Gilbert syndrome（最終更新 2012-02-01）　[リンク](https://medlineplus.gov/genetics/condition/gilbert-syndrome)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b）；医学各論 Ⅹ-9-D-①（体質性黄疸、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-067&card_id=LV-067&version=147819bca7)　（版 `147819bca7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-067&card_id=LV-067&version=89466011c1)　（版 `89466011c1`）
 
 ### LV-093　出典照合済み・監修待ち
 
 > Dubin-Johnson症候群は、ABCC2遺伝子の変化による常染色体潜性（劣性）遺伝の体質性黄疸で、黄疸は思春期から成人早期に現れることが多い。肝に色素が沈着して画像で黒く見えるが、肝機能は損なわれない。
 
-- 条件：source: MedlinePlus Genetics
+- 条件：source: MedlinePlus Genetics／region: 米国
 - 鑑別・補足：Rotor症候群には肝の色素沈着がない
 - よくある誤解：Dubin-Johnson症候群は進行性の肝疾患である
 - 不確実性：抱合型ビリルビン優位であることは出典本文に明記されていない
 - 出典：MedlinePlus Genetics. Dubin-Johnson syndrome（最終更新 2018-08-01）　[リンク](https://medlineplus.gov/genetics/condition/dubin-johnson-syndrome)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b）；医学各論 Ⅹ-9-D-①（体質性黄疸、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-093&card_id=LV-093&version=3fca6aaf5b)　（版 `3fca6aaf5b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-093&card_id=LV-093&version=d6a7d7bfae)　（版 `d6a7d7bfae`）
 
 ### LV-094　出典照合済み・監修待ち
 
 > Rotor症候群は、抱合型と非抱合型の両方のビリルビンが上昇し、抱合型が主体となる軽症の体質性黄疸である。SLCO1B1とSLCO1B3の両方の遺伝子に変化があるときに起こる常染色体潜性（劣性）遺伝で、眼球結膜の黄染が唯一の症状であることが多い。
 
-- 条件：source: MedlinePlus Genetics
+- 条件：source: MedlinePlus Genetics／region: 米国
 - 鑑別・補足：Dubin-Johnson症候群
 - よくある誤解：Rotor症候群は非抱合型ビリルビンだけが上昇する
 - 出典：MedlinePlus Genetics. Rotor syndrome（最終更新 2013-03-01）　[リンク](https://medlineplus.gov/genetics/condition/rotor-syndrome)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅵ-12-E-②（体質性黄疸、b）；医学各論 Ⅹ-9-D-①（体質性黄疸、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-094&card_id=LV-094&version=129878e975)　（版 `129878e975`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-094&card_id=LV-094&version=adf4ff3042)　（版 `adf4ff3042`）
 
-**[ここまでの 4 件（LV-066〜LV-094）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-066%E3%80%9CLV-094&cards=LV-066%200c0a9c119a%0ALV-067%20147819bca7%0ALV-093%203fca6aaf5b%0ALV-094%20129878e975)**
+**[ここまでの 4 件（LV-066〜LV-094）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-066%E3%80%9CLV-094&cards=LV-066%20154555f5d7%0ALV-067%2089466011c1%0ALV-093%20d6a7d7bfae%0ALV-094%20adf4ff3042)**
 
 ---
 
@@ -1098,13 +1098,13 @@
 
 > 遺伝性ヘモクロマトーシスでは鉄が皮膚、心臓、肝臓、膵臓、関節に沈着し、進行すると関節炎、肝硬変や肝癌、糖尿病、心臓の異常、皮膚の色素沈着をきたす。
 
-- 条件：source: MedlinePlus Genetics
+- 条件：source: MedlinePlus Genetics／region: 米国
 - よくある誤解：鉄沈着は肝臓だけに起こる
 - 出典：MedlinePlus Genetics. Hereditary hemochromatosis（最終更新 2019-02-01）　[リンク](https://medlineplus.gov/genetics/condition/hereditary-hemochromatosis/)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-6-E-④（ヘモクロマトーシス、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-088&card_id=LV-088&version=e99fcb3e1e)　（版 `e99fcb3e1e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-088&card_id=LV-088&version=a45c71dafa)　（版 `a45c71dafa`）
 
-**[ここまでの 5 件（LV-084〜LV-088）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-084%E3%80%9CLV-088&cards=LV-084%20285eb4e94f%0ALV-085%20c47a417bb5%0ALV-086%20d5b6a49d45%0ALV-087%20bc7e65096b%0ALV-088%20e99fcb3e1e)**
+**[ここまでの 5 件（LV-084〜LV-088）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-084%E3%80%9CLV-088&cards=LV-084%20285eb4e94f%0ALV-085%20c47a417bb5%0ALV-086%20d5b6a49d45%0ALV-087%20bc7e65096b%0ALV-088%20a45c71dafa)**
 
 ---
 
@@ -1165,12 +1165,12 @@
 
 > 薬物性肝障害は、ALTとALPをそれぞれ基準値上限の倍数で表した比（R＝ALT/ALP）で病型を分ける。ALTが基準値上限の2倍を超えるかR≧5のものを肝細胞障害型、ALPが基準値上限の2倍を超えるかR≦2のものを胆汁うっ滞型、ALTが2倍を超え2＜R＜5のものを混合型とする。
 
-- 条件：source: Tajiri 2008 WJG
+- 条件：source: Tajiri 2008 WJG／region: 日本
 - 鑑別・補足：病型によって予後と経過が異なる
 - よくある誤解：薬物性肝障害の病型はALTの値だけで決まる
 - 出典：Tajiri K, Shimizu Y. Practical guidelines for diagnosis and early management of drug-induced liver injury. World J Gastroenterol 2008;14:6774-6785　[DOI 10.3748/wjg.14.6774](https://doi.org/10.3748/wjg.14.6774)　[PMID 19058303](https://pubmed.ncbi.nlm.nih.gov/19058303/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-6-B-⑥（薬物性肝障害、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-290 (id: Jlvnl68)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-095&card_id=LV-095&version=5d17fd3c30)　（版 `5d17fd3c30`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-095&card_id=LV-095&version=e112830a9f)　（版 `e112830a9f`）
 
 ### LV-096　出典照合済み・監修待ち
 
@@ -1194,7 +1194,7 @@
 - 出題基準：医学各論 Ⅵ-6-B-⑥（薬物性肝障害、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-290 (id: Jlvnl68)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-097&card_id=LV-097&version=4ec53d6e67)　（版 `4ec53d6e67`）
 
-**[ここまでの 3 件（LV-095〜LV-097）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-095%E3%80%9CLV-097&cards=LV-095%205d17fd3c30%0ALV-096%201231b38fc6%0ALV-097%204ec53d6e67)**
+**[ここまでの 3 件（LV-095〜LV-097）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-095%E3%80%9CLV-097&cards=LV-095%20e112830a9f%0ALV-096%201231b38fc6%0ALV-097%204ec53d6e67)**
 
 ---
 

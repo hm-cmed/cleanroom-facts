@@ -651,7 +651,7 @@
     corroboration: null
   uncertainty: 主張は抄録で確認できる範囲に限る。移植後の時期区分の具体的な月数は抄録の範囲では確認できなかったため主張に入れていない（本文は購読制で未照合）。移植受者では薬物毒性と免疫抑制薬との相互作用が起こりやすいため、微生物学的診断を具体的に確定することが重要である点も同出典の抄録で確認している。
   curriculum:
-    kokushi: null
+    kokushi: 医学各論 Ⅺ-4-D（医原性免疫不全症、a）
     core_curriculum: 'PS-03-03-03 (id: JkxnuUo)'
   publication_info:
     created: '2026-10-29'
@@ -663,3 +663,6 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/37_if_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅺ-4-D（医原性免疫不全症、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による

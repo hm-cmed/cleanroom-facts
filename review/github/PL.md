@@ -375,11 +375,12 @@
 
 > 症状のある一側横隔膜麻痺（横隔神経麻痺）では、吸気筋力の低下は麻痺側だけにとどまらない。努力肺活量（FVC）が予測値の80%未満の一側横隔膜麻痺27例（右9例・左18例）と健常対照20例の比較では、最大吸気圧は右麻痺群-57.4±16.9 cmH2O、左麻痺群-67.1±28.5 cmH2Oと、対照群の-103.1±30.4 cmH2Oより小さく、磁気刺激による横隔膜圧（PdiTw）も右麻痺群5.7±4 cmH2O、左麻痺群4.8±2.3 cmH2Oと対照群の15.3±5.7 cmH2Oより低かった。PdiTwは麻痺していない側を刺激しても低下しており、胃内圧の寄与が対照群の約50%に対して約30%と小さいことが関係していた。
 
+- 条件：region: ブラジル
 - よくある誤解：一側の横隔膜麻痺では、吸気筋力の低下は麻痺した側の横隔膜だけが原因である
 - 不確実性：対象は単一施設で FVC が予測値の80%未満の有症状の一側横隔膜麻痺に限られ、無症状例と両側麻痺は含まれない
 - 出典：Caleffi-Pereira M, et al. Unilateral diaphragm paralysis: a dysfunction restricted not just to one hemidiaphragm. BMC Pulm Med 2018;18:126　[DOI 10.1186/s12890-018-0698-1](https://doi.org/10.1186/s12890-018-0698-1)　[PMID 30068327](https://pubmed.ncbi.nlm.nih.gov/30068327/)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-7-C-④（横隔神経麻痺、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-246 (id: Jlvnl10)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PL-028&card_id=PL-028&version=069a7550b7)　（版 `069a7550b7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PL-028&card_id=PL-028&version=2af21239f9)　（版 `2af21239f9`）
 
 ### PL-030　下書き（出典の照合前）
 
@@ -393,7 +394,7 @@
 - 出題基準：医学各論 Ⅳ-7-C-④（横隔神経麻痺、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-246 (id: Jlvnl10)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PL-030&card_id=PL-030&version=de4253b497)　（版 `de4253b497`）
 
-**[ここまでの 2 件（PL-028〜PL-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PL-028%E3%80%9CPL-030&cards=PL-028%20069a7550b7%0APL-030%20de4253b497)**
+**[ここまでの 2 件（PL-028〜PL-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PL-028%E3%80%9CPL-030&cards=PL-028%202af21239f9%0APL-030%20de4253b497)**
 
 ---
 

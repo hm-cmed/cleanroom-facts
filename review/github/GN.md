@@ -153,8 +153,8 @@
 - 条件：region: 日本／study: 日本腎臓学会などのエビデンスに基づくネフローゼ症候群診療ガイドライン2014（英語版2016年掲載）
 - 不確実性：定義の数値はガイドラインの表から読み取ったものである（表から読み取り）。小児では定義が異なり、高度蛋白尿と血清アルブミン2.5 g/dL以下が用いられる。
 - 出典：Nishi S, Ubara Y, Utsunomiya Y, Okada K, Obata Y, Kai H, et al. Evidence-based clinical practice guidelines for nephrotic syndrome 2014. Clin Exp Nephrol. 2016;20(3):342-370　[DOI 10.1007/s10157-015-1216-x](https://doi.org/10.1007/s10157-015-1216-x)　[PMID 27099136](https://pubmed.ncbi.nlm.nih.gov/27099136/)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-09-05 (id: JkxnuRs)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-010&card_id=GN-010&version=4b2a449ab9)　（版 `4b2a449ab9`）
+- 出題基準：医学各論 Ⅷ-1-B-①（微小変化群、a）；医学各論 Ⅷ-1-B-②（巣状分節性糸球体硬化症、a）；医学各論 Ⅷ-1-B-③（膜性腎症、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-010&card_id=GN-010&version=b756845308)　（版 `b756845308`）
 
 ### GN-011　下書き（出典の照合前）
 
@@ -163,8 +163,8 @@
 - 条件：region: 国際／study: KDIGO 2021 糸球体疾患ガイドライン（ネフローゼ症候群の章）
 - 不確実性：本カードはガイドラインに基づく管理の総論であり、合併症の頻度などの個別の数値は扱っていない。免疫抑制薬や利尿薬、レニン・アンジオテンシン系阻害薬は国内承認薬だが、疾患ごとの適応・保険適用の確認は個別のカードで行う。
 - 出典：Kidney Disease: Improving Global Outcomes (KDIGO) Glomerular Diseases Work Group. KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases. Kidney Int. 2021;100(4S):S1-S276　[DOI 10.1016/j.kint.2021.05.021](https://doi.org/10.1016/j.kint.2021.05.021)　[PMID 34556256](https://pubmed.ncbi.nlm.nih.gov/34556256/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-09-05 (id: JkxnuRs)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-011&card_id=GN-011&version=c6dd3c59b4)　（版 `c6dd3c59b4`）
+- 出題基準：医学各論 Ⅷ-1-B-①（微小変化群、a）；医学各論 Ⅷ-1-B-②（巣状分節性糸球体硬化症、a）；医学各論 Ⅷ-1-B-③（膜性腎症、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-011&card_id=GN-011&version=fbb31db7c4)　（版 `fbb31db7c4`）
 
 ### GN-018　下書き（出典の照合前）
 
@@ -176,7 +176,7 @@
 - 出題基準：医学各論 Ⅷ-1-B-①（微小変化群、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-427 (id: JlvnmHU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-018&card_id=GN-018&version=3744973e47)　（版 `3744973e47`）
 
-**[ここまでの 3 件（GN-010〜GN-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GN-010%E3%80%9CGN-018&cards=GN-010%204b2a449ab9%0AGN-011%20c6dd3c59b4%0AGN-018%203744973e47)**
+**[ここまでの 3 件（GN-010〜GN-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GN-010%E3%80%9CGN-018&cards=GN-010%20b756845308%0AGN-011%20fbb31db7c4%0AGN-018%203744973e47)**
 
 ---
 

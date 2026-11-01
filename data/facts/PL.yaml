@@ -963,7 +963,8 @@
   subdomain: 横隔神経麻痺
   assertion:
     plain_statement_ja: 症状のある一側横隔膜麻痺（横隔神経麻痺）では、吸気筋力の低下は麻痺側だけにとどまらない。努力肺活量（FVC）が予測値の80%未満の一側横隔膜麻痺27例（右9例・左18例）と健常対照20例の比較では、最大吸気圧は右麻痺群-57.4±16.9 cmH2O、左麻痺群-67.1±28.5 cmH2Oと、対照群の-103.1±30.4 cmH2Oより小さく、磁気刺激による横隔膜圧（PdiTw）も右麻痺群5.7±4 cmH2O、左麻痺群4.8±2.3 cmH2Oと対照群の15.3±5.7 cmH2Oより低かった。PdiTwは麻痺していない側を刺激しても低下しており、胃内圧の寄与が対照群の約50%に対して約30%と小さいことが関係していた。
-    condition: null
+    condition:
+      region: ブラジル
     differential: null
     common_misconception: 一側の横隔膜麻痺では、吸気筋力の低下は麻痺した側の横隔膜だけが原因である
   provenance:
@@ -991,6 +992,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「ブラジル」を入れた（作り手の候補、確度中。condition が空だったので新設した）。三原の承認による
 - id: PL-029
   domain: PL
   subdomain: 横隔膜弛緩症

@@ -332,13 +332,13 @@
 
 > 好酸球性肺炎は、肺組織や気管支肺胞洗浄（BAL）液への好酸球の著明な集積を特徴とする疾患群で、主要な病型は急性好酸球性肺炎（AEP）と慢性好酸球性肺炎（CEP）である。AEP は喫煙の開始・再開・増量といった喫煙習慣の変化や、粉塵などの吸入曝露と関連することが多く、発熱・咳嗽・呼吸困難が急性に出現して数日で進み、低酸素血症や呼吸不全を来しうる。初診時の末梢血好酸球増多は約3割の症例にとどまる一方、BAL では好酸球が通常40%を超え、診断には BAL 好酸球25%超などが目安とされる。画像では両側のすりガラス影と浸潤影、小葉間隔壁の肥厚がみられ、胸水を伴うことが多い。副腎皮質ステロイドに速やかに反応し、軽度の低酸素血症の症例では自然軽快もみられ、禁煙すれば再発は通常ない。CEP は数か月にわたり咳嗽や呼吸困難が遷延する病型で、女性に多く（男性の約2倍）、アレルギー疾患の合併が半数を超える。末梢血好酸球増多と IgE の上昇が多くの症例でみられ、BAL の好酸球は平均40〜60%で、画像では末梢側に優位な浸潤影が特徴的である。治療の中心は副腎皮質ステロイドで、プレドニゾロン換算で体重1 kgあたり0.5 mg程度から開始し6〜12か月かけて漸減するが、自然軽快は1割未満とまれで、再発が頻繁にみられる。両病型とも、薬剤や寄生虫・真菌などの感染といった既知の原因による二次性の好酸球性肺炎を除外して診断する。
 
-- 条件：対象: 成人
+- 条件：region: 国際／対象: 成人
 - 不確実性：副腎皮質ステロイド（プレドニゾロン）は国内で承認されている薬剤だが、添付文書の効能・効果に好酸球性肺炎の明記は確認しておらず、本疾患への投与が適応外使用として位置づけられる可能性がある。用量と漸減期間は出典（Suzuki & Suda 2019）の記載に基づく。PMID は本作業では確認できなかったため null とした（DOI で文献は一意に特定できる）。既存の IL-026 は単一コホートの疫学のみであり、本カードは疾患の一般像を担う
 - 出典：Suzuki Y, Suda T. Eosinophilic pneumonia: A review of the previous literature, causes, diagnosis, and management. Allergol Int. 2019;68(4):413-419　[DOI 10.1016/j.alit.2019.05.006](https://doi.org/10.1016/j.alit.2019.05.006)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-3-A-③（好酸球性肺炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-229 (id: Jlvnlzw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-062&card_id=IL-062&version=368f3cbb25)　（版 `368f3cbb25`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-062&card_id=IL-062&version=da87baee4e)　（版 `da87baee4e`）
 
-**[ここまでの 2 件（IL-026〜IL-062）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-026%E3%80%9CIL-062&cards=IL-026%205f9fb5fe8b%0AIL-062%20368f3cbb25)**
+**[ここまでの 2 件（IL-026〜IL-062）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-026%E3%80%9CIL-062&cards=IL-026%205f9fb5fe8b%0AIL-062%20da87baee4e)**
 
 ---
 
@@ -608,11 +608,12 @@
 
 > 原発性肺リンパ腫は肺腫瘍の1%未満を占めるまれなリンパ腫で、肺にみられるリンパ腫の大半は全身性リンパ腫の二次性肺病変である。原発性肺リンパ腫の内訳はMALTリンパ腫が70〜90%と最も多く、次いでびまん性大細胞型B細胞リンパ腫が10〜20%を占める。約半数は無症状で画像の異常を契機に見つかり、MALTリンパ腫の5年全生存率は80%を超える。
 
+- 条件：region: 国際
 - よくある誤解：肺にみられるリンパ腫の多くは原発性である
 - 不確実性：割合はいずれもレビューが引用する複数報告の集約であり、単一コホートの値ではない。
 - 出典：Cherian SV, Tang VK, Vijhani P, Ambelil M, Estrada-Y-Martin RM. Primary pulmonary lymphoproliferative neoplasms. Lung India 2018;35:220　[DOI 10.4103/lungindia.lungindia_381_17](https://doi.org/10.4103/lungindia.lungindia_381_17)　[PMID 29697079](https://pubmed.ncbi.nlm.nih.gov/29697079/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-3-B-⑥（悪性リンパ腫、白血病、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-049&card_id=IL-049&version=8ffd010423)　（版 `8ffd010423`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-049&card_id=IL-049&version=efec357ccc)　（版 `efec357ccc`）
 
 ### IL-057　下書き（出典の照合前）
 
@@ -626,7 +627,7 @@
 - 出題基準：医学各論 Ⅳ-3-B-⑥（悪性リンパ腫、白血病、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-057&card_id=IL-057&version=3c371c761e)　（版 `3c371c761e`）
 
-**[ここまでの 2 件（IL-049〜IL-057）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-049%E3%80%9CIL-057&cards=IL-049%208ffd010423%0AIL-057%203c371c761e)**
+**[ここまでの 2 件（IL-049〜IL-057）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-049%E3%80%9CIL-057&cards=IL-049%20efec357ccc%0AIL-057%203c371c761e)**
 
 ---
 
@@ -636,10 +637,11 @@
 
 > 肺Langerhans細胞組織球症は主に喫煙する若年成人に起こり、細気管支周囲にできた星芒状の結節が空洞化して厚壁・薄壁の嚢胞へと進む。高分解能CTでは上・中肺野に優位で肺底部が比較的保たれる結節と嚢胞の混在が特徴で、初期は結節優位、後期は嚢胞優位になる。治療の基本は禁煙である。
 
+- 条件：region: 国際
 - 不確実性：ライセンス表示を Crossref で確認できなかったため、source_class は UNKNOWN とした。
 - 出典：Abbott GF, Rosado-de-Christenson ML, Franks TJ, Frazier AA, Galvin JR. From the archives of the AFIP: Pulmonary Langerhans cell histiocytosis. RadioGraphics 2004;24:821-841　[DOI 10.1148/rg.243045005](https://doi.org/10.1148/rg.243045005)　[PMID 15143231](https://pubmed.ncbi.nlm.nih.gov/15143231/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅳ-3-B-⑦（Langerhans細胞組織球症、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-050&card_id=IL-050&version=0a45e56a9e)　（版 `0a45e56a9e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-050&card_id=IL-050&version=31caa4f342)　（版 `31caa4f342`）
 
 ### IL-058　下書き（出典の照合前）
 
@@ -653,7 +655,7 @@
 - 出題基準：医学各論 Ⅳ-3-B-⑦（Langerhans細胞組織球症、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-058&card_id=IL-058&version=878d8a55e3)　（版 `878d8a55e3`）
 
-**[ここまでの 2 件（IL-050〜IL-058）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-050%E3%80%9CIL-058&cards=IL-050%200a45e56a9e%0AIL-058%20878d8a55e3)**
+**[ここまでの 2 件（IL-050〜IL-058）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-050%E3%80%9CIL-058&cards=IL-050%2031caa4f342%0AIL-058%20878d8a55e3)**
 
 ---
 
@@ -690,12 +692,13 @@
 
 > 特発性器質化肺炎（COP）は、感染・薬剤・膠原病などの原因が特定できない器質化肺炎で、典型的には呼吸困難と咳嗽で発症し、画像では多発性の斑状の肺胞陰影を示す。確定診断は肺生検で遠位気腔内に肉芽組織の芽を確認することによる。副腎皮質ステロイドが速やかに効くが、減量や中止の際に再発が多い。
 
+- 条件：region: 国際
 - よくある誤解：細菌性肺炎であり抗菌薬が有効である
 - 出典：Cordier JF. Cryptogenic organizing pneumonia. Clin Chest Med 2004;25:727-738　[DOI 10.1016/j.ccm.2004.06.003](https://doi.org/10.1016/j.ccm.2004.06.003)　[PMID 15564018](https://pubmed.ncbi.nlm.nih.gov/15564018/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-A-③（特発性器質化肺炎<COP>、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-218 (id: JlvnlyY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-052&card_id=IL-052&version=47c8073050)　（版 `47c8073050`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-052&card_id=IL-052&version=930f4680c0)　（版 `930f4680c0`）
 
-**[ここまでの 1 件（IL-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-052&cards=IL-052%2047c8073050)**
+**[ここまでの 1 件（IL-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-052&cards=IL-052%20930f4680c0)**
 
 ---
 
@@ -733,13 +736,13 @@
 
 > 酸素の肺毒性は吸入酸素分画と曝露時間で決まり、1気圧では吸入酸素分画が0.60を超える酸素を24時間を超えて投与すると肺に毒性が生じうる。肺毒性の経過は気管気管支炎、ARDS、肺の間質性線維化の段階をとり、毒性を抑える目安として吸入酸素分画を0.40〜0.5未満に保つことが挙げられる。
 
-- 条件：pressure: 1気圧（常圧）
+- 条件：pressure: 1気圧（常圧）／region: 国際
 - 不確実性：吸入酸素分画と時間の値はレビューが引用する既報の集約であり、個々の患者での厳密な安全域を示すものではない。
 - 出典：Lius EE, Syafaah I. Hyperoxia in the management of respiratory failure: A literature review. Ann Med Surg 2022;81:104393　[DOI 10.1016/j.amsu.2022.104393](https://doi.org/10.1016/j.amsu.2022.104393)　[PMID 36147110](https://pubmed.ncbi.nlm.nih.gov/36147110/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-C-④（酸素中毒、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-054&card_id=IL-054&version=39aa638aba)　（版 `39aa638aba`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-054&card_id=IL-054&version=2b75b22ac2)　（版 `2b75b22ac2`）
 
-**[ここまでの 1 件（IL-054）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-054&cards=IL-054%2039aa638aba)**
+**[ここまでの 1 件（IL-054）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-054&cards=IL-054%202b75b22ac2)**
 
 ---
 
@@ -765,13 +768,14 @@
 
 > 肺胞微石症は、SLC34A2遺伝子の機能喪失型変異による常染色体劣性遺伝疾患で、肺胞内にリン酸カルシウムの微小結石が広範に沈着し、世界で約1,100例が報告されている。胸部画像では砂嵐様のびまん性微小石灰化が特徴で、画像所見の広がりに比べて症状が軽いという乖離が大きい。根治的な治療はなく、一部の進行例では肺移植が必要になる。
 
+- 条件：region: 国際
 - よくある誤解：血清カルシウムやリンの異常が原因である
 - 不確実性：DOI は Crossref の検索と ID 変換のいずれでも確認できなかったため null とした。誌面のページ範囲も未確認。
 - 出典：Enemark A, Jönsson ÅLM, Kronborg-White S, Bendstrup E. Pulmonary Alveolar Microlithiasis – A Review. Yale J Biol Med 2021;94　[PMID 34970102](https://pubmed.ncbi.nlm.nih.gov/34970102/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-F-①（肺胞微石症、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-056&card_id=IL-056&version=6ae1e4e56d)　（版 `6ae1e4e56d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-056&card_id=IL-056&version=e2e54bf3bc)　（版 `e2e54bf3bc`）
 
-**[ここまでの 1 件（IL-056）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-056&cards=IL-056%206ae1e4e56d)**
+**[ここまでの 1 件（IL-056）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-056&cards=IL-056%20e2e54bf3bc)**
 
 ---
 

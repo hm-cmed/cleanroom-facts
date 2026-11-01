@@ -380,13 +380,13 @@
 
 > 閉塞性細気管支炎（狭窄性細気管支炎）は、細気管支の線維化による狭窄・閉塞で閉塞性換気障害を来す病態である。原因は多様で、有毒ガスの吸入（二酸化窒素によるサイロ充填者肺が古典的とされる）、薬剤、呼吸器感染の後遺症（アデノウイルス感染後など）、膠原病、同種造血幹細胞移植や肺移植後の合併症（閉塞性細気管支炎症候群）などがある。進行性の呼吸困難と咳嗽を呈し、胸部X線は正常か非特異的な所見にとどまることが多い。診断では呼気相の高分解能CTが重要で、モザイク状の低吸収域と血管影の減少、呼気相で強調されるエアトラッピングが特徴的である。多くの場合、副腎皮質ステロイドへの反応に乏しく進行性で、気流制限が進めば呼吸不全に至る。移植後の症例では免疫抑制の増強がしばしば無効で、再移植の検討が必要になることがある。
 
-- 条件：対象: 成人
+- 条件：region: 国際／対象: 成人
 - 不確実性：原因は分類の水準で記し、個別の薬剤名は主張に入れていない。副腎皮質ステロイドと免疫抑制薬への言及は、国内で承認のある薬剤の分類名による経過・反応性の記述であり、治療の推奨ではない。既存の RO-031 は用語集による定義のみで原因別の記述を含まないため、本カードは総説に基づき原因・病像・診断・経過を補う
 - 出典：Ryu JH, Myers JL, Swensen SJ. Bronchiolar disorders. Am J Respir Crit Care Med. 2003;168(11):1277-1292　[DOI 10.1164/rccm.200301-053SO](https://doi.org/10.1164/rccm.200301-053SO)　[PMID 14644923](https://pubmed.ncbi.nlm.nih.gov/14644923/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-2-A-③（閉塞性細気管支炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-043&card_id=RO-043&version=684983d420)　（版 `684983d420`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-043&card_id=RO-043&version=3fadff04e7)　（版 `3fadff04e7`）
 
-**[ここまでの 2 件（RO-031〜RO-043）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-031%E3%80%9CRO-043&cards=RO-031%209c5d57be24%0ARO-043%20684983d420)**
+**[ここまでの 2 件（RO-031〜RO-043）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-031%E3%80%9CRO-043&cards=RO-031%209c5d57be24%0ARO-043%203fadff04e7)**
 
 ---
 
@@ -396,23 +396,25 @@
 
 > 成人の気道異物は右主気管支に多く、右主気管支が左より短く太く、気管からの角度が垂直に近いことが理由とされる。主な症状は慢性の咳（60〜85%）で、呼吸困難、片側性の喘鳴、血痰、同じ肺葉の肺炎の反復もみられる。むせた病歴がないことが多く、見逃されやすい。
 
+- 条件：region: 国際
 - よくある誤解：気道異物は必ずむせた病歴がある
 - 不確実性：成人を対象とした総説の記述。小児の気道異物は小児の回で扱う
 - 出典：Chi J, Bai Y. Bronchoscopic management of airway foreign bodies in adults: a narrative educational review. Front Med 2026;13:1779715　[DOI 10.3389/fmed.2026.1779715](https://doi.org/10.3389/fmed.2026.1779715)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅳ-2-A-④（気道異物、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-032&card_id=RO-032&version=e310a6ce77)　（版 `e310a6ce77`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-032&card_id=RO-032&version=0055214c59)　（版 `0055214c59`）
 
 ### RO-033　下書き（出典の照合前）
 
 > 成人の気道異物の診断は CT が第一で、統合した感度は98.8%、特異度は96.6%と報告されているが、X線透過性の有機物は見逃されることがある。間接所見として過膨張（エアトラッピング）、無気肺、閉塞後肺炎がある。末梢の異物には全身麻酔下の軟性気管支鏡が選ばれることが多く（成功率約90%）、大きい・鋭い・中枢の異物には硬性気管支鏡が標準とされる。
 
+- 条件：region: 国際
 - よくある誤解：CT で異物が見えなければ気道異物は否定できる
 - 不確実性：感度・特異度と成功率は総説が引用したメタ解析の値で、原著は未確認。二次資料経由
 - 出典：Chi J, Bai Y. Bronchoscopic management of airway foreign bodies in adults: a narrative educational review. Front Med 2026;13:1779715　[DOI 10.3389/fmed.2026.1779715](https://doi.org/10.3389/fmed.2026.1779715)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅳ-2-A-④（気道異物、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-02-06-024 (id: JlAKpic)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-033&card_id=RO-033&version=73573bc74f)　（版 `73573bc74f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-033&card_id=RO-033&version=c09296475d)　（版 `c09296475d`）
 
-**[ここまでの 2 件（RO-032〜RO-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-032%E3%80%9CRO-033&cards=RO-032%20e310a6ce77%0ARO-033%2073573bc74f)**
+**[ここまでの 2 件（RO-032〜RO-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-032%E3%80%9CRO-033&cards=RO-032%200055214c59%0ARO-033%20c09296475d)**
 
 ---
 
@@ -422,23 +424,24 @@
 
 > 巨大気腫性ブラは片側胸郭の3分の1以上を占める含気腔で、全般的な肺気腫で壊された肺に生じる。胸部X線では気胸と紛らわしく、ブラを気胸と誤って胸腔ドレーンを入れた例が報告されているため、CT で区別する。高度の呼吸困難や感染・気胸などの合併症があれば、切除やビデオ胸腔鏡手術などの外科治療の適応となる。
 
+- 条件：region: 国際
 - よくある誤解：胸部X線で肺の外側に透亮像があれば必ず気胸として胸腔ドレーンを入れる
 - 不確実性：症例報告にもとづく記述。ブラ（1 cm 以上）とブレブ（臓側胸膜内）の大きさ・位置による定義はこの出典で確認できなかった
 - 出典：Goldberg C, Carey KE. Bullous Lung Disease. West J Emerg Med 2013;14(5):450-　[リンク](https://westjem.com/articles/bullous-lung-disease.html)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅳ-2-B-①（気腫性囊胞<ブラ、ブレブ>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-216 (id: JlvnlyM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-034&card_id=RO-034&version=04558b388d)　（版 `04558b388d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-034&card_id=RO-034&version=1d7aec95f7)　（版 `1d7aec95f7`）
 
 ### RO-044　下書き（出典の照合前）
 
 > ブレブは、臓側胸膜の内・外弾性板の間に空気が入って生じる胸膜の膨らみで、通常は直径1 cm未満である。ブラは、壁の厚さが1 mm以下の薄い壁で明瞭に境された、直径1 cmを超える含気腔である。原発性自然気胸は、既知の肺疾患のない若年者に典型的に起こり、胸膜直下のブレブやブラの破裂によって空気が胸腔内に漏れることが原因と考えられている。
 
-- 条件：対象: 成人
+- 条件：region: 国際／対象: 成人
 - 不確実性：定義と気胸との関係は本文（2.4節）で確認した。同論文は、ブレブやブラが破裂していない状態で見つかることも多く、胸膜の多孔性（pleural porosity）という別の機序も紹介しているため、破裂が確立した唯一の機序ではない。既存の RO-034 は巨大ブラと気胸との鑑別や外科治療を担い、本カードは定義の区別と原発性自然気胸との関係に絞った
 - 出典：Hallifax R. Aetiology of Primary Spontaneous Pneumothorax. J Clin Med. 2022;11(3):490　[DOI 10.3390/jcm11030490](https://doi.org/10.3390/jcm11030490)　[PMID 35159942](https://pubmed.ncbi.nlm.nih.gov/35159942/)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-2-B-①（気腫性囊胞<ブラ、ブレブ>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-216 (id: JlvnlyM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-044&card_id=RO-044&version=e18f2c5f22)　（版 `e18f2c5f22`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-044&card_id=RO-044&version=e8a5f30817)　（版 `e8a5f30817`）
 
-**[ここまでの 2 件（RO-034〜RO-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-034%E3%80%9CRO-044&cards=RO-034%2004558b388d%0ARO-044%20e18f2c5f22)**
+**[ここまでの 2 件（RO-034〜RO-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-034%E3%80%9CRO-044&cards=RO-034%201d7aec95f7%0ARO-044%20e8a5f30817)**
 
 ---
 
@@ -464,13 +467,14 @@
 
 > 外傷性の気管・気管支損傷は胸部・頸部外傷の0.5〜2%に起こり、鈍的外傷では75〜80%が気管分岐部から2.5 cm以内に生じる。皮下気腫が最も多い所見（最大87%）で、胸腔ドレーンを入れても大量の空気漏れが続く、または肺が再膨張しない場合は強く疑う。部位の確認と重症度の評価には気管支鏡が第一の検査で、治療は一次修復が原則である。
 
+- 条件：region: 国際
 - よくある誤解：胸部X線が正常なら気管・気管支損傷は否定できる
 - 不確実性：胸部X線で異常がない例が10〜20%あるとされる。数値は総説が引用した文献の値で、原著は未確認。二次資料経由
 - 出典：Prokakis C, Koletsis EN, Dedeilias P, et al. Airway trauma: a review on epidemiology, mechanisms of injury, diagnosis and treatment. J Cardiothorac Surg 2014;9:117　[DOI 10.1186/1749-8090-9-117](https://doi.org/10.1186/1749-8090-9-117)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅳ-2-D-①（気管・気管支損傷、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-036&card_id=RO-036&version=4e917dc03c)　（版 `4e917dc03c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-036&card_id=RO-036&version=4994336319)　（版 `4994336319`）
 
-**[ここまでの 1 件（RO-036）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-036&cards=RO-036%204e917dc03c)**
+**[ここまでの 1 件（RO-036）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-036&cards=RO-036%204994336319)**
 
 ---
 
@@ -524,10 +528,11 @@
 
 > 肺挫傷は鈍的胸部外傷の25〜35%に生じ、肺組織の裂傷を伴わずに肺胞の毛細血管が損傷して血液や液体が肺組織内にたまり、ガス交換が障害される病態である。治療は支持療法が中心で、酸素投与と、適応がある場合の人工呼吸を行う。
 
+- 条件：region: 国際
 - 不確実性：DOI は誌面と抄録ページの表示で確認できなかったため null とした。出典のライセンスも未確認。本文中で引用されていた死亡率10〜25%は二次引用のため、主張文には採用していない。
 - 出典：Ganie FA, Lone H, Lone GN, Wani ML, Singh S, Dar AM, Wani N, Wani SN, Nazeer N. Lung Contusion: A Clinico-Pathological Entity with Unpredictable Clinical Course. Bull Emerg Trauma. 2013;1(1):7-16　[PMID 27162815](https://pubmed.ncbi.nlm.nih.gov/27162815/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅳ-2-D-②（肺損傷、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-039&card_id=RO-039&version=d92bdc918c)　（版 `d92bdc918c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-039&card_id=RO-039&version=eaebee45a1)　（版 `eaebee45a1`）
 
 ### RO-041　下書き（出典の照合前）
 
@@ -541,7 +546,7 @@
 - 出題基準：医学各論 Ⅳ-2-D-②（肺損傷、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-041&card_id=RO-041&version=155d2ad91b)　（版 `155d2ad91b`）
 
-**[ここまでの 2 件（RO-039〜RO-041）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-039%E3%80%9CRO-041&cards=RO-039%20d92bdc918c%0ARO-041%20155d2ad91b)**
+**[ここまでの 2 件（RO-039〜RO-041）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-039%E3%80%9CRO-041&cards=RO-039%20eaebee45a1%0ARO-041%20155d2ad91b)**
 
 ---
 

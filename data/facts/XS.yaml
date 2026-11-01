@@ -302,7 +302,7 @@
   uncertainty: 有病率はガイドラインが引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-03 (id: JkxnuRQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -313,6 +313,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/07_cross_sectional.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: XS-010
   domain: XS
   subdomain: 鉄欠乏性貧血と消化管の精査
@@ -337,7 +340,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-03 (id: JkxnuRQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -348,6 +351,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/07_cross_sectional.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: XS-011
   domain: XS
   subdomain: 鉄欠乏性貧血と消化管の精査
@@ -372,7 +378,7 @@
   uncertainty: 癌と病変の頻度はガイドラインが引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)'
-    kokushi: null
+    kokushi: 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -383,6 +389,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/07_cross_sectional.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: XS-012
   domain: XS
   subdomain: 鉄欠乏性貧血と消化管の精査
@@ -407,7 +416,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)'
-    kokushi: null
+    kokushi: 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -418,6 +427,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/07_cross_sectional.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: XS-013
   domain: XS
   subdomain: 鉄欠乏性貧血と消化管の精査
@@ -442,7 +454,7 @@
   uncertainty: セリアック病の頻度はガイドラインが引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-03 (id: JkxnuRQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -453,6 +465,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/07_cross_sectional.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: XS-014
   domain: XS
   subdomain: 鉄欠乏性貧血と消化管の精査
@@ -477,7 +492,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)'
-    kokushi: null
+    kokushi: 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -488,6 +503,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/07_cross_sectional.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: XS-015
   domain: XS
   subdomain: 鉄欠乏性貧血と消化管の精査
@@ -512,7 +530,7 @@
   uncertainty: 英国の製剤を前提とした記述。日本の製剤と用量は添付文書で確認する
   curriculum:
     core_curriculum: 'PS-02-08-04 (id: JkxnuRU)'
-    kokushi: null
+    kokushi: 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -523,6 +541,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/07_cross_sectional.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: XS-016
   domain: XS
   subdomain: 抗血栓薬服用者の内視鏡
@@ -930,7 +951,7 @@
   uncertainty: 有病率はガイドラインが引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-023 (id: JlAKpks)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅹ-9-D-①（体質性黄疸、b）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -941,6 +962,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/07_cross_sectional.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅹ-9-D-①（体質性黄疸、b）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: XS-028
   domain: XS
   subdomain: 肝機能検査値の異常と黄疸
@@ -1000,7 +1024,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-03 (id: JkxnuRQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-6-E-②（脂肪肝、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -1011,6 +1035,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/07_cross_sectional.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-6-E-②（脂肪肝、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: XS-030
   domain: XS
   subdomain: 肝機能検査値の異常と黄疸
@@ -1053,6 +1080,7 @@
     plain_statement_ja: GLIM 基準による低栄養の診断は2段階で、まず妥当性が確かめられたスクリーニング法で低栄養のリスクがある人を見つけ、次に診断と重症度の判定を行う。診断には、表現型の基準（体重減少、低い BMI、筋肉量の減少）と病因の基準（食事摂取量・吸収の低下、炎症・疾患の負担）を少なくとも1つずつ満たす必要がある。
     condition:
       guideline: GLIM 基準 2019
+      region: 国際
     differential: null
     common_misconception: BMI が正常なら低栄養ではない
   provenance:
@@ -1080,6 +1108,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/07_cross_sectional.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: XS-032
   domain: XS
   subdomain: 低栄養の診断（GLIM）
@@ -1087,6 +1118,7 @@
     plain_statement_ja: GLIM 基準の表現型の基準は、体重減少が6か月以内で5%超か6か月を超えて10%超、BMI が70歳未満で20未満・70歳以上で22未満（アジアでは70歳未満で18.5未満・70歳以上で20未満）、体組成の測定などでの筋肉量の減少である。
     condition:
       guideline: GLIM 基準 2019
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -1114,6 +1146,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/07_cross_sectional.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: XS-033
   domain: XS
   subdomain: 低栄養の診断（GLIM）
@@ -1121,6 +1156,7 @@
     plain_statement_ja: GLIM 基準の病因の基準のうち摂取量の低下は、必要エネルギーの50%以下が1週間を超えて続く、何らかの低下が2週間を超えて続く、または吸収を妨げる慢性の消化管の病態がある場合をいう。重症度は表現型の基準で分け、重度（ステージ2）は6か月以内の体重減少10%超か6か月超で20%超、BMI 70歳未満18.5未満・70歳以上20未満などとする。
     condition:
       guideline: GLIM 基準 2019
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -1148,6 +1184,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/07_cross_sectional.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: XS-034
   domain: XS
   subdomain: 周術期の栄養管理

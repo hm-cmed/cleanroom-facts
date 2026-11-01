@@ -223,10 +223,10 @@
 - 条件：region: 国際／対象: 臓器移植受者
 - 不確実性：主張は抄録で確認できる範囲に限る。移植後の時期区分の具体的な月数は抄録の範囲では確認できなかったため主張に入れていない（本文は購読制で未照合）。移植受者では薬物毒性と免疫抑制薬との相互作用が起こりやすいため、微生物学的診断を具体的に確定することが重要である点も同出典の抄録で確認している。
 - 出典：Fishman JA. Infection in Organ Transplantation. Am J Transplant. 2017;17(4):856-879.　[DOI 10.1111/ajt.14208](https://doi.org/10.1111/ajt.14208)　[PMID 28117944](https://pubmed.ncbi.nlm.nih.gov/28117944/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-03-03-03 (id: JkxnuUo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IG-019&card_id=IG-019&version=f82db293a7)　（版 `f82db293a7`）
+- 出題基準：医学各論 Ⅺ-4-D（医原性免疫不全症、a）　コアカリ：PS-03-03-03 (id: JkxnuUo)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IG-019&card_id=IG-019&version=a22921b725)　（版 `a22921b725`）
 
-**[ここまでの 2 件（IG-018〜IG-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IG-018%E3%80%9CIG-019&cards=IG-018%209caa40f91d%0AIG-019%20f82db293a7)**
+**[ここまでの 2 件（IG-018〜IG-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IG-018%E3%80%9CIG-019&cards=IG-018%209caa40f91d%0AIG-019%20a22921b725)**
 
 ---
 

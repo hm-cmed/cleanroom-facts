@@ -6,6 +6,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ1
       evidence_certainty: D
+      region: 日本
     differential: 慢性腹痛、腸脳相関障害による腹痛
     common_misconception: 急性腹症は手術が必要な腹部の病気だけを指す
   provenance:
@@ -33,6 +34,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-002
   domain: AB
   subdomain: 急性腹症の定義と分類
@@ -40,6 +44,7 @@
     plain_statement_ja: 急性腹症の痛みの病態は、壁側腹膜の炎症（体性痛）、管腔臓器の閉塞（内臓痛）、血管障害（体性痛と内臓痛）、非特異的腹痛（内臓痛と関連痛）の4つに整理できる。前の2つ（腹膜の炎症と血管障害）では緊急手術や血管内治療（IVR）を考え、管腔臓器の閉塞と非特異的腹痛ではドレナージや保存的治療を考える。
     condition:
       guideline: 急性腹症診療GL2025 BQ1 本文
+      region: 日本
     differential: null
     common_misconception: 痛みの強さだけで緊急手術の要否が決まる
   provenance:
@@ -67,6 +72,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-003
   domain: AB
   subdomain: 急性腹症の定義と分類
@@ -74,6 +82,7 @@
     plain_statement_ja: 日本のガイドラインは、機械的な閉塞を伴うものを「腸閉塞症」、機械的な閉塞がなく腸の蠕動や運動の欠如によるものを「イレウス」として、明確に区別して定義している。日本では両者を区別せずに使ってきた経緯があり、英語の ileus を「腸閉塞」と訳す誤りがしばしばみられる。
     condition:
       guideline: 急性腹症診療GL2025 BQ2
+      region: 日本
     differential: 偽性腸閉塞症（機械的閉塞がないのに閉塞症状を繰り返す）
     common_misconception: イレウスと腸閉塞は同じ意味である
   provenance:
@@ -104,6 +113,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-B-① を足した（なし → 医学各論 Ⅵ-10-B-①（麻痺性イレウス、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-004
   domain: AB
   subdomain: 急性腹症の定義と分類
@@ -111,6 +123,7 @@
     plain_statement_ja: 機械的な閉塞のない偽性腸閉塞症は、分類上はイレウス（機械的閉塞を伴わない）に入るが、閉塞症状を繰り返し、腸切除などの手術が必要になることも多い疾患群である。
     condition:
       guideline: 急性腹症診療GL2025 BQ2
+      region: 日本
     differential: 機械的腸閉塞
     common_misconception: 手術が必要なのは機械的腸閉塞だけである
   provenance:
@@ -141,6 +154,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-B-① を足した（なし → 医学各論 Ⅵ-10-B-①（麻痺性イレウス、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-005
   domain: AB
   subdomain: 急性腹症の定義と分類
@@ -148,6 +164,7 @@
     plain_statement_ja: 急性虫垂炎は、組織学的にカタル性、蜂窩織炎性、壊疽性に分けられ、臨床的には単純性、複雑性、汎発性腹膜炎を伴うものに分けられる。ただし、手術前にこれらを正確に分類することは難しい。
     condition:
       guideline: 急性腹症診療GL2025 BQ3
+      region: 日本
     differential: null
     common_misconception: 画像検査で術前に虫垂炎の病期を正確に判定できる
   provenance:
@@ -164,7 +181,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-②（虫垂炎、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -175,6 +192,12 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-006
   domain: AB
   subdomain: 急性腹症の疫学と予後
@@ -183,6 +206,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ4
       evidence_certainty: B
+      region: 日本
     differential: null
     common_misconception: 急性腹症の原因は年齢や性別によらずほぼ同じである
   provenance:
@@ -210,6 +234,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-007
   domain: AB
   subdomain: 急性腹症の疫学と予後
@@ -217,6 +244,7 @@
     plain_statement_ja: 日本の DPC データ（2009〜2011年）では、急性腹症で最も多かったのは男女とも腸管感染症（男性11.5%、女性11.0%）だった。男性では急性虫垂炎9.2%、腸閉塞9.1%、腹膜炎6.4%が続き、女性では腸閉塞8.0%、子宮・卵巣の腫瘍7.9%、急性虫垂炎7.2%が続いた。
     condition:
       guideline: 急性腹症診療GL2025 BQ4 本文 表Ⅳ-1
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -244,6 +272,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-008
   domain: AB
   subdomain: 急性腹症の疫学と予後
@@ -251,6 +282,7 @@
     plain_statement_ja: 日本で手術を受けた急性腹症1,456例の年齢別の検討では、7〜17歳の87.7%が急性虫垂炎で、65歳以上では腸閉塞が44.7%で最も多かった。
     condition:
       guideline: 急性腹症診療GL2025 BQ4 本文 表Ⅳ-2
+      region: 日本
     differential: null
     common_misconception: 高齢者の急性腹症で最も多いのも虫垂炎である
   provenance:
@@ -278,6 +310,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-009
   domain: AB
   subdomain: 急性腹症の疫学と予後
@@ -286,6 +321,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ8・BQ9
       evidence_certainty: B（BQ8）、C（BQ9）
+      region: 日本
     differential: null
     common_misconception: 救急外来の腹痛の大半は手術が必要である
   provenance:
@@ -313,6 +349,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-010
   domain: AB
   subdomain: 急性腹症の疫学と予後
@@ -321,6 +360,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ10・BQ11
       evidence_certainty: C
+      region: 日本
     differential: null
     common_misconception: 初診で診断がつかない腹痛は心配いらない
   provenance:
@@ -348,6 +388,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-011
   domain: AB
   subdomain: 急性腹症の疫学と予後
@@ -356,6 +399,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ6・BQ7
       evidence_certainty: C
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -383,6 +427,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-012
   domain: AB
   subdomain: 急性腹症の疫学と予後
@@ -390,6 +437,7 @@
     plain_statement_ja: 消化管穿孔では、食道穿孔と下部消化管穿孔の死亡率が、胃・十二指腸穿孔より一般に高い。高齢者と、発症から時間がたった患者は予後が悪い。
     condition:
       guideline: 急性腹症診療GL2025 BQ13
+      region: 日本
     differential: 胃・十二指腸穿孔
     common_misconception: 消化管穿孔の予後は穿孔部位によらない
   provenance:
@@ -417,6 +465,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-013
   domain: AB
   subdomain: 急性腹症の疫学と予後
@@ -425,6 +476,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ14
       evidence_certainty: C（症例数）、D（読影）
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -452,6 +504,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-014
   domain: AB
   subdomain: 急性腹症の疫学と予後
@@ -460,6 +515,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ73
       evidence_certainty: C
+      region: 日本
     differential: null
     common_misconception: 医療訴訟になりやすいのは手術の合併症だけである
   provenance:
@@ -487,6 +543,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-015
   domain: AB
   subdomain: 緊急度の判断と緊急処置
@@ -494,6 +553,7 @@
     plain_statement_ja: 緊急手術の対象になるのは、一般に、血管の破裂、腹腔内出血、腸管の虚血・壊死、汎発性腹膜炎、炎症性の急性腹症などである。
     condition:
       guideline: 急性腹症診療GL2025 BQ12
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -521,6 +581,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-016
   domain: AB
   subdomain: 緊急度の判断と緊急処置
@@ -529,6 +592,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ15・BQ58
       evidence_certainty: C（BQ58）
+      region: 日本
     differential: null
     common_misconception: 腹痛でショックがあれば消化管穿孔である
   provenance:
@@ -556,6 +620,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-017
   domain: AB
   subdomain: 緊急度の判断と緊急処置
@@ -563,6 +630,7 @@
     plain_statement_ja: 緊急の内視鏡検査や処置が必要になる腹痛の原因として、消化管出血、急性胆管炎、消化管異物、腸閉塞症がある。緊急の血管造影や血管内治療が必要になる病態には、出血に対する塞栓術（腫瘍破裂、内視鏡で止血できない消化管出血、内臓動脈瘤破裂など）、腸間膜動脈閉塞などに対する血管形成術、腹部大動脈瘤に対するステントグラフト内挿術、急性腸間膜虚血に対する動注療法がある。
     condition:
       guideline: 急性腹症診療GL2025 BQ16・BQ17
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -593,6 +661,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-11-C-① を足した（なし → 医学各論 Ⅵ-11-C-①（消化管異物、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-018
   domain: AB
   subdomain: 緊急度の判断と緊急処置
@@ -601,6 +672,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ75
       evidence_certainty: C
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -628,6 +700,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-019
   domain: AB
   subdomain: 緊急度の判断と緊急処置
@@ -636,6 +711,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ76・BQ77
       evidence_certainty: C
+      region: 日本
     differential: null
     common_misconception: 昇圧薬は中心静脈路を確保してからでなければ始められない
   provenance:
@@ -663,6 +739,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-020
   domain: AB
   subdomain: 緊急度の判断と緊急処置
@@ -672,6 +751,7 @@
       guideline: 急性腹症診療GL2025 CQ13・BQ43
       recommendation: 強い推奨（CQ13）
       evidence_certainty: C
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -699,6 +779,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-021
   domain: AB
   subdomain: 急性腹症の医療面接と身体診察
@@ -706,6 +789,7 @@
     plain_statement_ja: 急性腹症の病歴では、腹痛の性状、警告症状（red flag sign）、疾患に特異性の高い病歴を聴く。随伴症状として、悪心・嘔吐、食欲不振、排便習慣の変化、血便・黒色便、発熱と悪寒・戦慄、性器出血を確認する。患者背景は SAMPLE（症状、アレルギー、薬、既往歴・妊娠、最終食事、経過）に沿って聴く。
     condition:
       guideline: 急性腹症診療GL2025 BQ18・BQ19・BQ20
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -733,6 +817,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-022
   domain: AB
   subdomain: 急性腹症の医療面接と身体診察
@@ -741,6 +828,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ21・BQ22・BQ23
       evidence_certainty: D
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -768,6 +856,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-023
   domain: AB
   subdomain: 急性腹症の医療面接と身体診察
@@ -776,6 +867,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ24
       evidence_certainty: B・C
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -803,6 +895,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-024
   domain: AB
   subdomain: 急性腹症の医療面接と身体診察
@@ -810,6 +905,7 @@
     plain_statement_ja: 腹部の視診では、手術瘢痕、皮膚所見、腹部膨満、腹壁ヘルニア、拍動、腫瘤、呼吸に伴う腹壁の動きを確認する。腹部膨満、腸の蠕動の亢進、手術瘢痕は腸閉塞の可能性を高める。
     condition:
       guideline: 急性腹症診療GL2025 BQ25
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -837,6 +933,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-025
   domain: AB
   subdomain: 急性腹症の医療面接と身体診察
@@ -844,6 +943,7 @@
     plain_statement_ja: 腸蠕動音はよく伝わるので、聴診は1か所で十分とされる。急性腹症での聴診の臨床的意義は限られるため、蠕動音が聞こえないときに聴診部位を増やしたり時間を延ばしたりすることは勧められていない。異常な腸蠕動音は腸閉塞の診断に役立つが、血管雑音の意義ははっきりしない。
     condition:
       guideline: 急性腹症診療GL2025 BQ26・BQ27
+      region: 日本
     differential: null
     common_misconception: 腸蠕動音の消失を確認するには4か所で数分ずつ聴く必要がある
   provenance:
@@ -871,6 +971,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-026
   domain: AB
   subdomain: 急性腹症の医療面接と身体診察
@@ -878,6 +981,7 @@
     plain_statement_ja: 小腸閉塞の患者50例の報告では、腸蠕動音の亢進が50%、減弱または消失が24%にみられた。
     condition:
       guideline: 急性腹症診療GL2025 BQ27 本文
+      region: 日本
     differential: null
     common_misconception: 腸閉塞では必ず金属音が聴取される
   provenance:
@@ -894,7 +998,7 @@
   uncertainty: 数値はガイドラインが引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-10-A-①（単純性腸閉塞、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -905,6 +1009,12 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-10-A-①（単純性腸閉塞、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-027
   domain: AB
   subdomain: 急性腹症の医療面接と身体診察
@@ -912,6 +1022,7 @@
     plain_statement_ja: 腹膜刺激徴候は、炎症などが壁側・臓側腹膜に及んで刺激されたときに出る徴候で、直接みる手技に筋性防御、筋強直（板状硬）、反跳痛、打診痛があり、間接的にみる手技に咳嗽試験と踵落とし試験がある。腹膜刺激徴候は腹膜炎の検出に役立ち、打診痛が陽性なら反跳痛をあえて誘発する必要はない。
     condition:
       guideline: 急性腹症診療GL2025 BQ31・BQ32
+      region: 日本
     differential: null
     common_misconception: 腹膜炎の確認には反跳痛を必ず誘発する
   provenance:
@@ -939,6 +1050,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-028
   domain: AB
   subdomain: 急性腹症の医療面接と身体診察
@@ -946,6 +1060,7 @@
     plain_statement_ja: 腹膜刺激徴候がなくても、臨床的に腹膜炎や腸間膜虚血が疑われる場合は画像検査を追加する。高齢の腹膜炎患者で筋性防御や板状硬がみられたのは34%にとどまったという報告がある。
     condition:
       guideline: 急性腹症診療GL2025 BQ32・BQ21 本文
+      region: 日本
     differential: null
     common_misconception: 腹膜刺激徴候がなければ腹膜炎は否定できる
   provenance:
@@ -973,6 +1088,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-029
   domain: AB
   subdomain: 急性腹症の医療面接と身体診察
@@ -981,6 +1099,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ30
       evidence_certainty: C・D
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -1008,6 +1127,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-030
   domain: AB
   subdomain: 急性腹症の医療面接と身体診察
@@ -1016,6 +1138,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ33
       evidence_certainty: D
+      region: 日本
     differential: 腹腔内臓器の炎症
     common_misconception: 腹壁を緊張させると腹腔内の病変の圧痛も強まる
   provenance:
@@ -1043,6 +1166,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-031
   domain: AB
   subdomain: 急性腹症の医療面接と身体診察
@@ -1051,6 +1177,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ34・BQ35
       evidence_certainty: C（BQ34）、B（BQ35）
+      region: 日本
     differential: null
     common_misconception: 急性腹症では全例に直腸診を行うべきである
   provenance:
@@ -1078,6 +1205,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-032
   domain: AB
   subdomain: 急性腹症の医療面接と身体診察
@@ -1086,6 +1216,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ64・BQ78
       evidence_certainty: A（BQ64）、C（BQ78）
+      region: 日本
     differential: null
     common_misconception: 鎮痛薬を使うと所見が隠れて診断を誤るので、診断がつくまで使わない
   provenance:
@@ -1113,6 +1244,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-033
   domain: AB
   subdomain: 急性腹症の医療面接と身体診察
@@ -1121,6 +1255,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ78
       evidence_certainty: C
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -1148,6 +1283,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-034
   domain: AB
   subdomain: 急性腹症の医療面接と身体診察
@@ -1155,6 +1293,7 @@
     plain_statement_ja: 血液検査や画像検査は偽陰性になることがあるため、急性腹症は病歴と身体所見を含めて総合的に判断する。
     condition:
       guideline: 急性腹症診療GL2025 BQ36・BQ37
+      region: 日本
     differential: null
     common_misconception: 血液検査と CT が正常なら急性腹症は否定できる
   provenance:
@@ -1182,6 +1321,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-035
   domain: AB
   subdomain: 急性腹症の検査
@@ -1191,6 +1333,7 @@
       guideline: 急性腹症診療GL2025 CQ2・CQ3
       recommendation: 弱い推奨
       evidence_certainty: C・B
+      region: 日本
     differential: null
     common_misconception: 乳酸値が正常なら腸管虚血は否定できる
   provenance:
@@ -1218,6 +1361,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-036
   domain: AB
   subdomain: 急性腹症の検査
@@ -1227,6 +1373,7 @@
       guideline: 急性腹症診療GL2025 CQ4
       recommendation: 弱い推奨
       evidence_certainty: C
+      region: 日本
     differential: null
     common_misconception: 白血球数と CRP が正常なら虫垂炎は否定できる
   provenance:
@@ -1243,7 +1390,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-3-B-②（虫垂炎、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -1254,6 +1401,12 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-037
   domain: AB
   subdomain: 急性腹症の検査
@@ -1263,6 +1416,7 @@
       guideline: 急性腹症診療GL2025 CQ5
       recommendation: 弱い推奨
       evidence_certainty: B
+      region: 日本
     differential: 急性膵炎の診断基準は BP 側のカードで扱い済み
     common_misconception: 急性腹症ではアミラーゼを測れば多くの疾患を鑑別できる
   provenance:
@@ -1279,7 +1433,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-8-A-①（急性膵炎、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -1290,6 +1444,12 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-8-A-①（急性膵炎、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-038
   domain: AB
   subdomain: 急性腹症の検査
@@ -1297,6 +1457,7 @@
     plain_statement_ja: 心窩部痛があり虚血性心疾患の危険因子がある患者では、心筋梗塞を考えて心電図をとる。腸間膜、脾臓、腎臓の虚血や梗塞を疑うときは心房細動の有無を確認し、急性腹症で心房細動があれば腸間膜虚血、脾梗塞、腎梗塞を考える。
     condition:
       guideline: 急性腹症診療GL2025 BQ38・BQ39
+      region: 日本
     differential: null
     common_misconception: 腹痛の患者に心電図は不要である
   provenance:
@@ -1324,6 +1485,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-039
   domain: AB
   subdomain: 急性腹症の検査
@@ -1331,6 +1495,7 @@
     plain_statement_ja: 妊娠しうる年齢の女性で妊娠を否定できない場合は、急性腹症の評価に妊娠反応検査が役立つ。尿の定性検査は尿管結石、尿路感染症、糖尿病性ケトアシドーシスの診断に役立ち、尿中ポルホビリノゲンは急性ポルフィリン症の診断に役立つ。
     condition:
       guideline: 急性腹症診療GL2025 BQ40・BQ41
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -1358,6 +1523,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-040
   domain: AB
   subdomain: 急性腹症の検査
@@ -1367,6 +1535,7 @@
       guideline: 急性腹症診療GL2025 BQ44・CQ7
       recommendation: 弱い推奨（CQ7）
       evidence_certainty: C
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -1394,6 +1563,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-041
   domain: AB
   subdomain: 急性腹症の検査
@@ -1403,6 +1575,7 @@
       guideline: 急性腹症診療GL2025 CQ14
       recommendation: 弱い推奨
       evidence_certainty: C
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -1430,6 +1603,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-042
   domain: AB
   subdomain: 急性腹症の検査
@@ -1437,6 +1613,7 @@
     plain_statement_ja: 腹部単純 X 線検査の診断能は限られ、急性腹症のルーチン検査として行う意義は乏しい。超音波検査や CT ができない環境で、腸閉塞、イレウス、消化管穿孔、尿路結石、気腫性病変、異物などを疑う場合には行う。
     condition:
       guideline: 急性腹症診療GL2025 BQ45
+      region: 日本
     differential: null
     common_misconception: 急性腹症ではまず腹部単純 X 線を撮る
   provenance:
@@ -1464,6 +1641,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-043
   domain: AB
   subdomain: 急性腹症の検査
@@ -1473,6 +1653,7 @@
       guideline: 急性腹症診療GL2025 BQ46・CQ8
       recommendation: 強い推奨（CQ8）
       evidence_certainty: B
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -1500,6 +1681,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-044
   domain: AB
   subdomain: 急性腹症の検査
@@ -1509,6 +1693,7 @@
       guideline: 急性腹症診療GL2025 CQ9・CQ10
       recommendation: 弱い推奨
       evidence_certainty: B
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -1536,6 +1721,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-045
   domain: AB
   subdomain: 急性腹症の検査
@@ -1545,6 +1733,7 @@
       guideline: 急性腹症診療GL2025 CQ12・FRQ3
       recommendation: 弱い推奨（CQ12）
       evidence_certainty: C
+      region: 日本
     differential: null
     common_misconception: 妊婦には CT を一切撮ってはいけない
   provenance:
@@ -1572,6 +1761,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-046
   domain: AB
   subdomain: 急性腹症の鑑別診断
@@ -1580,6 +1772,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ49〜BQ57
       evidence_certainty: C
+      region: 日本
     differential: null
     common_misconception: 右下腹部痛はほぼ虫垂炎である
   provenance:
@@ -1607,6 +1800,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-047
   domain: AB
   subdomain: 急性腹症の鑑別診断
@@ -1615,6 +1811,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ48
       evidence_certainty: C
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -1642,6 +1839,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-048
   domain: AB
   subdomain: 急性腹症の鑑別診断
@@ -1650,6 +1850,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ61
       evidence_certainty: C
+      region: 日本
     differential: null
     common_misconception: 高齢者は所見が軽ければ重症ではない
   provenance:
@@ -1677,6 +1878,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-049
   domain: AB
   subdomain: 急性腹症の鑑別診断
@@ -1685,6 +1889,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ62・BQ63・BQ66
       evidence_certainty: C・D
+      region: 日本
     differential: null
     common_misconception: 発熱がなければ腹膜炎は考えにくい
   provenance:
@@ -1712,6 +1917,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-050
   domain: AB
   subdomain: 急性腹症の鑑別診断
@@ -1720,6 +1928,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ65・BQ74
       evidence_certainty: C（BQ74）
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -1747,6 +1956,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-051
   domain: AB
   subdomain: 急性腹症の鑑別診断
@@ -1755,6 +1967,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ60
       evidence_certainty: C
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -1782,6 +1995,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-052
   domain: AB
   subdomain: 急性腹症の鑑別診断
@@ -1790,6 +2006,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ69
       evidence_certainty: A
+      region: 日本
     differential: null
     common_misconception: 妊娠反応が陽性で腹痛があれば正常妊娠の症状である
   provenance:
@@ -1806,7 +2023,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)'
-    kokushi: null
+    kokushi: 医学各論 Ⅰ-1-A-②（異所性妊娠、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -1817,6 +2034,12 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅰ-1-A-②（異所性妊娠、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-053
   domain: AB
   subdomain: 急性腹症の鑑別診断
@@ -1825,6 +2048,7 @@
     condition:
       guideline: 急性腹症診療GL2025 BQ59
       evidence_certainty: C・D
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -1852,6 +2076,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-054
   domain: AB
   subdomain: 急性腹症の鑑別診断
@@ -1861,6 +2088,7 @@
       guideline: 急性腹症診療GL2025 BQ71・CQ6
       recommendation: 弱い推奨（CQ6）
       evidence_certainty: C
+      region: 日本
     differential: null
     common_misconception: null
   provenance:
@@ -1877,7 +2105,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)'
-    kokushi: null
+    kokushi: 医学各論 Ⅷ-4-A-①（腎結石、尿管結石、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -1888,6 +2116,12 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅷ-4-A-①（腎結石、尿管結石、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-055
   domain: AB
   subdomain: 急性虫垂炎
@@ -1895,6 +2129,7 @@
     plain_statement_ja: 急性虫垂炎の生涯リスクは米国で9%、欧州で8%、アフリカで2%と報告されている。
     condition:
       guideline: WSES Jerusalem GL 2020
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -1925,6 +2160,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-3-B-② を足した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-056
   domain: AB
   subdomain: 急性虫垂炎
@@ -1932,6 +2170,7 @@
     plain_statement_ja: WSES 2020 は、成人の急性虫垂炎の予測に AIR スコアと AAS スコアを使うことを推奨し、Alvarado スコアは虫垂炎の確定には使わないよう提案している。Alvarado スコア5点未満は感度99%で除外に使える。小児では臨床スコアだけで診断しないよう提案している。
     condition:
       guideline: WSES Jerusalem GL 2020
+      region: 国際
     differential: null
     common_misconception: Alvarado スコアが高ければ虫垂炎と確定できる
   provenance:
@@ -1962,6 +2201,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-3-B-② を足した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-057
   domain: AB
   subdomain: 急性虫垂炎
@@ -1969,6 +2211,7 @@
     plain_statement_ja: WSES 2020 は、成人・小児とも最初の画像検査としてベッドサイドの超音波検査（POCUS）を推奨し、CT を撮る場合は標準線量より低線量の造影 CT を推奨している。小児では CT を最初の画像検査としてルーチンに使わないよう提案している。
     condition:
       guideline: WSES Jerusalem GL 2020
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -1999,6 +2242,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-3-B-② を足した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-058
   domain: AB
   subdomain: 急性虫垂炎
@@ -2006,6 +2252,7 @@
     plain_statement_ja: 妊婦で虫垂炎を疑う場合、WSES 2020 は最初に段階的圧迫法の経腹超音波検査を行い、診断がつかなければ MRI を行うことを提案している。妊娠中の虫垂炎は抗菌薬による非手術的治療を行わず、手術は腹腔鏡下で行うことを提案している。
     condition:
       guideline: WSES Jerusalem GL 2020
+      region: 国際
     differential: null
     common_misconception: 妊娠中の虫垂炎はまず抗菌薬で治療する
   provenance:
@@ -2036,6 +2283,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-3-B-② を足した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-059
   domain: AB
   subdomain: 急性虫垂炎
@@ -2043,6 +2293,7 @@
     plain_statement_ja: WSES 2020 は、糞石のない単純性虫垂炎の一部の患者には、抗菌薬による非手術的治療を手術に代わる選択肢として話し合うことを推奨している。ただし1年以内の再発は27.4%、APPAC 試験の5年追跡では遅発性の再発の可能性が39.1%と報告され、糞石は治療失敗の独立した危険因子である。
     condition:
       guideline: WSES Jerusalem GL 2020
+      region: 国際
     differential: null
     common_misconception: 抗菌薬で治った虫垂炎は再発しない
   provenance:
@@ -2073,6 +2324,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-3-B-② を足した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-060
   domain: AB
   subdomain: 急性虫垂炎
@@ -2080,6 +2334,7 @@
     plain_statement_ja: WSES 2020 は、手術が必要な虫垂炎では24時間以内の次の手術枠で腹腔鏡下虫垂切除術を予定し、24時間を超えて遅らせないことを推奨している。小児の複雑性虫垂炎では8時間以内の早期手術を勧めている。術式は、設備と技術があれば開腹より腹腔鏡下を推奨している。
     condition:
       guideline: WSES Jerusalem GL 2020
+      region: 国際
     differential: null
     common_misconception: 虫垂炎は診断したら夜間でも直ちに手術しなければならない
   provenance:
@@ -2110,6 +2365,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-3-B-② を足した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-061
   domain: AB
   subdomain: 急性虫垂炎
@@ -2117,6 +2375,7 @@
     plain_statement_ja: WSES 2020 は、急性虫垂炎の手術前に広域抗菌薬を1回投与し、単純性虫垂炎では術後の抗菌薬を投与しないことを推奨している。複雑性虫垂炎でも感染源の制御が十分なら、術後の抗菌薬を3〜5日より延ばさないことを推奨している。
     condition:
       guideline: WSES Jerusalem GL 2020
+      region: 国際
     differential: null
     common_misconception: 虫垂切除後は全例に抗菌薬を数日続ける
   provenance:
@@ -2147,6 +2406,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-3-B-② を足した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-062
   domain: AB
   subdomain: 急性虫垂炎
@@ -2154,6 +2416,7 @@
     plain_statement_ja: WSES 2020 は、膿瘍を伴う虫垂炎では、腹腔鏡の技術がない施設では抗菌薬と（可能なら）経皮的ドレナージによる非手術的治療を提案している。40歳未満と小児では非手術的治療のあとにルーチンの待機的虫垂切除術を行わないことを推奨し、40歳以上では大腸内視鏡と造影 CT で腫瘍を確認することを提案している。
     condition:
       guideline: WSES Jerusalem GL 2020
+      region: 国際
     differential: null
     common_misconception: 膿瘍形成性虫垂炎は治癒後に全例で待機的虫垂切除術を行う
   provenance:
@@ -2184,6 +2447,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-3-B-② を足した（なし → 医学各論 Ⅵ-3-B-②（虫垂炎、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-063
   domain: AB
   subdomain: 癒着性小腸閉塞
@@ -2191,6 +2457,7 @@
     plain_statement_ja: 小腸閉塞の原因で最も多いのは術後の癒着で、約60%を占める。大腸切除後には10人に1人が3年以内に少なくとも1回の小腸閉塞を起こす。
     condition:
       guideline: Bologna ASBO GL 2017 update（WSES）
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -2221,6 +2488,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-A-① を足した（なし → 医学各論 Ⅵ-10-A-①（単純性腸閉塞、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-064
   domain: AB
   subdomain: 癒着性小腸閉塞
@@ -2228,6 +2498,7 @@
     plain_statement_ja: 癒着性小腸閉塞では、CT は絞扼と緊急手術の必要性を約90%の精度で予測する。閉鎖ループ、腸管虚血の所見、腹水は、手術を遅らせるべきでないことを示す。
     condition:
       guideline: Bologna ASBO GL 2017 update（WSES）
+      region: 国際
     differential: null
     common_misconception: 腸閉塞の手術適応は腹部単純 X 線で判断する
   provenance:
@@ -2258,6 +2529,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-② を足した（なし → 医学各論 Ⅵ-10-D-②（絞扼性腸閉塞、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-065
   domain: AB
   subdomain: 癒着性小腸閉塞
@@ -2265,6 +2539,7 @@
     plain_statement_ja: 腹膜炎、絞扼、腸管虚血の徴候がない癒着性小腸閉塞は、絶飲食と経鼻胃管または長いイレウス管による減圧で、まず非手術的治療を行う。成功率は約70〜90%で、改善しない場合に手術に移るまでの期間は72時間が安全で適切とされている。
     condition:
       guideline: Bologna ASBO GL 2017 update（WSES）
+      region: 国際
     differential: null
     common_misconception: 癒着性腸閉塞は改善するまで何日でも保存的治療を続けてよい
   provenance:
@@ -2295,6 +2570,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-A-① を足した（なし → 医学各論 Ⅵ-10-A-①（単純性腸閉塞、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-066
   domain: AB
   subdomain: 癒着性小腸閉塞
@@ -2302,6 +2580,7 @@
     plain_statement_ja: 癒着性小腸閉塞では水溶性造影剤を投与し、24時間後の腹部 X 線で造影剤が大腸に達していなければ、非手術的治療の失敗を強く示唆する。水溶性造影剤の検査は手術の必要性を予測し、入院期間を短くし、手術の必要性を減らすとする報告もある。
     condition:
       guideline: Bologna ASBO GL 2017 update（WSES）
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -2332,6 +2611,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-A-① を足した（なし → 医学各論 Ⅵ-10-A-①（単純性腸閉塞、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-067
   domain: AB
   subdomain: 癒着性小腸閉塞
@@ -2339,6 +2621,7 @@
     plain_statement_ja: 癒着性小腸閉塞の再発は、非手術的治療後で1年12%・5年20%、手術後で1年8%・5年16%と報告されている。ヒアルロン酸・カルボキシメチルセルロースの癒着防止材は、癒着の形成と、癒着性小腸閉塞による再手術を減らす（大腸手術での再手術の相対リスク0.49）。
     condition:
       guideline: Bologna ASBO GL 2017 update（WSES）
+      region: 国際
     differential: null
     common_misconception: 癒着性腸閉塞は一度治れば再発しにくい
   provenance:
@@ -2355,7 +2638,7 @@
   uncertainty: 数値はガイドラインが引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-10-A-①（単純性腸閉塞、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2366,6 +2649,12 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-10-A-①（単純性腸閉塞、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-068
   domain: AB
   subdomain: 癒着性小腸閉塞
@@ -2373,6 +2662,7 @@
     plain_statement_ja: 癒着性小腸閉塞の手術では、選ばれた症例で腹腔鏡下の癒着剝離術が合併症を減らす可能性がある。ただし腸管損傷が6.3〜26.9%に起きたとする報告がある。
     condition:
       guideline: Bologna ASBO GL 2017 update（WSES）
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -2389,7 +2679,7 @@
   uncertainty: 腸管損傷の頻度はガイドラインが引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-265 (id: Jlvnl3o)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-10-A-①（単純性腸閉塞、a）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2400,6 +2690,12 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-10-A-①（単純性腸閉塞、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-069
   domain: AB
   subdomain: 鼠径部ヘルニア
@@ -2407,6 +2703,7 @@
     plain_statement_ja: 鼠径部ヘルニアの生涯の発生率は、男性で27〜43%、女性で3〜6%と報告されている。
     condition:
       guideline: HerniaSurge 国際GL 2018
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -2434,6 +2731,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度高）。三原の承認による
 - id: AB-070
   domain: AB
   subdomain: 鼠径部ヘルニア
@@ -2441,6 +2741,7 @@
     plain_statement_ja: 鼠径部ヘルニアの多くは身体診察で診断でき、超音波検査が必要になることはまれである。再発ヘルニアが疑われる場合は、診察に超音波検査を組み合わせることが勧められている。
     condition:
       guideline: HerniaSurge 国際GL 2018
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -2468,6 +2769,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度高）。三原の承認による
 - id: AB-071
   domain: AB
   subdomain: 鼠径部ヘルニア
@@ -2475,6 +2779,7 @@
     plain_statement_ja: 症状がないか軽い男性の鼠径ヘルニアは、経過観察（watchful waiting）で管理してよい。ただし経過観察した患者の多くは最終的に手術を受け、5年で54%、10年で推定68%が手術に移行したと報告されている。
     condition:
       guideline: HerniaSurge 国際GL 2018
+      region: 国際
     differential: null
     common_misconception: 鼠径ヘルニアは見つけたら全例すぐに手術が必要である
   provenance:
@@ -2502,6 +2807,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度高）。三原の承認による
 - id: AB-072
   domain: AB
   subdomain: 鼠径部ヘルニア
@@ -2509,6 +2817,7 @@
     plain_statement_ja: 鼠径ヘルニアの修復はメッシュを使う方法が第1選択で、開腹（Lichtenstein 法など）でも腹腔鏡・内視鏡下でもよい。腹腔鏡・内視鏡下の修復は、資源と技術があれば回復が早く、慢性疼痛が少なく、費用対効果もよい。
     condition:
       guideline: HerniaSurge 国際GL 2018
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -2536,6 +2845,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度高）。三原の承認による
 - id: AB-073
   domain: AB
   subdomain: 鼠径部ヘルニア
@@ -2543,6 +2855,7 @@
     plain_statement_ja: 嵌頓・絞扼の危険因子には、女性、大腿ヘルニア、鼠径部ヘルニアによる入院歴がある。大腿ヘルニアは、技術があれば腹腔鏡・内視鏡下のメッシュ修復を時機を逃さず行うことが提案されている。
     condition:
       guideline: HerniaSurge 国際GL 2018
+      region: 国際
     differential: null
     common_misconception: 大腿ヘルニアも症状がなければ経過観察でよい
   provenance:
@@ -2570,6 +2883,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度高）。三原の承認による
 - id: AB-074
   domain: AB
   subdomain: 鼠径部ヘルニア
@@ -2577,6 +2893,7 @@
     plain_statement_ja: 鼠径部ヘルニアの緊急手術は待機手術より合併症と死亡が多い。プールした解析では、待機手術の合併症は約8%・死亡0.2〜0.5%、緊急手術では合併症約32%・死亡4〜5.5%と報告されている。
     condition:
       guideline: HerniaSurge 国際GL 2018
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -2604,6 +2921,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度高）。三原の承認による
 - id: AB-075
   domain: AB
   subdomain: 腹膜炎・腹腔内感染症
@@ -2611,6 +2931,7 @@
     plain_statement_ja: 腹腔内感染症は、感染が1つの臓器にとどまり腹膜に及んでいない「単純性」と、臓器を越えて限局性または汎発性の腹膜炎を起こした「複雑性」に分けられる。
     condition:
       guideline: WSES 腹腔内感染症 GL 2017
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -2641,6 +2962,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-C-① を足した（医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a） → 医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）；医学各論 Ⅵ-10-C-①（急性腹膜炎、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度高）。三原の承認による
 - id: AB-076
   domain: AB
   subdomain: 腹膜炎・腹腔内感染症
@@ -2648,6 +2972,7 @@
     plain_statement_ja: 腹膜炎は、消化管の連続性が保たれたまま起こる一次性（特発性細菌性腹膜炎など）、最も多い二次性（消化管穿孔などによる）、一次性または二次性の腹膜炎のあとに再燃する三次性に分けられる。
     condition:
       guideline: WSES 腹腔内感染症 GL 2017
+      region: 国際
     differential: 特発性細菌性腹膜炎の診断は LV 側のカードで扱い済み
     common_misconception: 腹膜炎の多くは特発性細菌性腹膜炎である
   provenance:
@@ -2681,6 +3006,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-E-① を足した（医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）；医学各論 Ⅵ-10-C-①（急性腹膜炎、a） → 医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）；医学各論 Ⅵ-10-C-①（急性腹膜炎、a）；医学各論 Ⅵ-10-E-①（消化管穿孔、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度高）。三原の承認による
 - id: AB-077
   domain: AB
   subdomain: 腹膜炎・腹腔内感染症
@@ -2688,6 +3016,7 @@
     plain_statement_ja: 腹腔内感染症の治療では、感染源の制御を可能な限り早く完全に行うことが重要で、手術などの処置が遅れたり不十分だったりすると転帰が大きく悪化する。適切な抗菌薬を早く始めることも治療の柱の1つである。世界の多施設研究（WISS）では、腹腔内感染症の全体の死亡率は9.2%だった。
     condition:
       guideline: WSES 腹腔内感染症 GL 2017
+      region: 国際
     differential: null
     common_misconception: 腹膜炎は抗菌薬だけで治せる
   provenance:
@@ -2718,6 +3047,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-C-① を足した（医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a） → 医学各論 Ⅵ-9-B-①（細菌性腹膜炎、a）；医学各論 Ⅵ-10-C-①（急性腹膜炎、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度高）。三原の承認による
 - id: AB-078
   domain: AB
   subdomain: 急性腸間膜虚血
@@ -2725,6 +3057,7 @@
     plain_statement_ja: 急性腸間膜虚血は、緊急外科入院の0.09〜0.2%とまれだが、年齢とともに増え、死亡率は50%を超える。原因は、上腸間膜動脈の塞栓症が約50%、血栓症が15〜25%、静脈血栓症が5〜15%で、非閉塞性腸間膜虚血（NOMI）は約20%を占める。
     condition:
       guideline: WSES 急性腸間膜虚血 GL 2022
+      region: 国際
     differential: null
     common_misconception: 腸間膜虚血は血管が詰まった場合にしか起こらない
   provenance:
@@ -2758,6 +3091,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-④ を足した（医学各論 Ⅵ-10-D-③（腸間膜動脈閉塞症、非閉塞性腸管虚血症<NOMI>、b） → 医学各論 Ⅵ-10-D-③（腸間膜動脈閉塞症、非閉塞性腸管虚血症<NOMI>、b）；医学各論 Ⅵ-10-D-④（腸間膜静脈血栓症、c））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-079
   domain: AB
   subdomain: 急性腸間膜虚血
@@ -2765,6 +3101,7 @@
     plain_statement_ja: 身体所見に比べて不釣り合いに強い腹痛は、否定されるまで急性腸間膜虚血として扱うことが強く推奨されている。乳酸値2 mmol/L 超は不可逆的な腸管虚血と関連するが、単独で診断できるほど正確なバイオマーカーはない。
     condition:
       guideline: WSES 急性腸間膜虚血 GL 2022
+      region: 国際
     differential: null
     common_misconception: 乳酸値が正常なら腸間膜虚血は否定できる
   provenance:
@@ -2781,7 +3118,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-10-D-③（腸間膜動脈閉塞症、非閉塞性腸管虚血症<NOMI>、b）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2792,6 +3129,12 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-10-D-③（腸間膜動脈閉塞症、非閉塞性腸管虚血症<NOMI>、b）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-080
   domain: AB
   subdomain: 急性腸間膜虚血
@@ -2799,6 +3142,7 @@
     plain_statement_ja: 急性腸間膜虚血を疑ったら、遅滞なく CT 血管造影を行うことが強く推奨されている。診断（CT 血管造影）が6時間遅れるごとに死亡率が2倍になると述べられている。
     condition:
       guideline: WSES 急性腸間膜虚血 GL 2022
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -2815,7 +3159,7 @@
   uncertainty: 死亡率の倍増はガイドラインの記述による
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-02-07-029 (id: JlAKplA)'
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-10-D-③（腸間膜動脈閉塞症、非閉塞性腸管虚血症<NOMI>、b）
   publication_info:
     created: '2026-10-18'
     verifier: null
@@ -2826,6 +3170,12 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-10-D-③（腸間膜動脈閉塞症、非閉塞性腸管虚血症<NOMI>、b）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-081
   domain: AB
   subdomain: 急性腸間膜虚血
@@ -2833,6 +3183,7 @@
     plain_statement_ja: 急性腸間膜虚血の治療では、動脈閉塞には技術があれば血管内治療による血行再建を第1選択とし、壊死した腸はすぐに切除する。再開腹（セカンドルック）は多くの場合24〜48時間以内に行う。腸間膜静脈血栓症は未分画ヘパリンの持続投与で治療できることが多い。
     condition:
       guideline: WSES 急性腸間膜虚血 GL 2022
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -2866,6 +3217,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-④ を足した（医学各論 Ⅵ-10-D-③（腸間膜動脈閉塞症、非閉塞性腸管虚血症<NOMI>、b） → 医学各論 Ⅵ-10-D-③（腸間膜動脈閉塞症、非閉塞性腸管虚血症<NOMI>、b）；医学各論 Ⅵ-10-D-④（腸間膜静脈血栓症、c））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-082
   domain: AB
   subdomain: 腹腔内圧上昇と腹部コンパートメント症候群
@@ -2873,6 +3227,7 @@
     plain_statement_ja: 重症成人の腹腔内圧は通常5〜7 mmHg である。腹腔内高血圧は12 mmHg 以上が持続または反復する状態と定義され、12〜15（I度）、16〜20（II度）、21〜25（III度）、25超（IV度）に分けられる。腹部コンパートメント症候群は、腹腔内圧が20 mmHg を超えて持続し、新たな臓器障害を伴う状態をいう。
     condition:
       guideline: WSACS 合意定義 2013
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -2900,6 +3255,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-083
   domain: AB
   subdomain: 腹腔内圧上昇と腹部コンパートメント症候群
@@ -2907,6 +3265,7 @@
     plain_statement_ja: 腹腔内圧は膀胱内圧で測るのが標準で、滅菌生理食塩水を最大25 mL 注入し、仰臥位で腹筋の収縮がないことを確かめ、中腋窩線で零点を合わせ、呼気終末に mmHg で表す。腹部灌流圧は平均動脈圧から腹腔内圧を引いて求める。明らかな腹部コンパートメント症候群には減圧開腹術が推奨されている。
     condition:
       guideline: WSACS 合意定義 2013
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -2934,6 +3293,9 @@
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/06_abdomen.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-084
   domain: AB
   subdomain: 腹部外傷の基本
@@ -2941,6 +3303,7 @@
     plain_statement_ja: 腹部外傷では、E-FAST（拡大した迅速超音波検査）が腹腔内の液体貯留を速やかに見つけるのに有効で、循環が安定しているか安定化した患者では造影 CT が標準の検査である。循環動態の不安定は、来院時の収縮期血圧90 mmHg 未満で皮膚の血管収縮を伴う状態などで定義される。
     condition:
       guideline: WSES 脾損傷 GL 2017
+      region: 国際
     differential: null
     common_misconception: 腹部外傷では循環が不安定でもまず CT を撮る
   provenance:
@@ -2971,6 +3334,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-11-A-① を足した（なし → 医学各論 Ⅵ-11-A-①（腹部外傷、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-085
   domain: AB
   subdomain: 腹部外傷の基本
@@ -2978,6 +3344,7 @@
     plain_statement_ja: 循環が安定し、ほかに手術を要する損傷がない脾損傷では、損傷の程度にかかわらず、まず非手術的治療を試みることが勧められている。CT で造影剤の血管外漏出がある安定した患者では、血管造影・塞栓術を第1の介入として考えてよい。
     condition:
       guideline: WSES 脾損傷 GL 2017
+      region: 国際
     differential: null
     common_misconception: 脾損傷は重症度が高ければ全例で脾摘出術を行う
   provenance:
@@ -3008,6 +3375,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-11-B-⑤ を足した（なし → 医学各論 Ⅵ-11-B-⑤（脾損傷、b））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-086
   domain: AB
   subdomain: 腹部外傷の基本
@@ -3015,6 +3385,7 @@
     plain_statement_ja: 脾摘出術後のワクチン接種は術後14日以降に始めることが提案されている。脾摘出術や脾動脈塞栓術のあと15日より前に退院する場合は、退院前の接種が望ましい。
     condition:
       guideline: WSES 脾損傷 GL 2017
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -3045,6 +3416,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-11-B-⑤ を足した（なし → 医学各論 Ⅵ-11-B-⑤（脾損傷、b））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-087
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3052,6 +3426,7 @@
     plain_statement_ja: 嵌頓ヘルニアは脱出した内容が還納できなくなった状態で、腸閉塞を伴うことがある。絞扼ヘルニアは、脱出した大網や腸管への血流が障害された状態をいう。腹壁ヘルニアは、鼠径部ヘルニア（鼠径ヘルニア、大腿ヘルニア）と腹壁瘢痕ヘルニア・臍ヘルニアなどの腹側ヘルニアに分けられる。
     condition:
       guideline: WSES 腹壁ヘルニア緊急修復 GL（Hernia 2020 要約版）
+      region: 国際
     differential: null
     common_misconception: 還納できないヘルニアはすべて絞扼している
   provenance:
@@ -3085,6 +3460,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-② を足した（医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a） → 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a）；医学各論 Ⅵ-10-D-②（絞扼性腸閉塞、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-088
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3092,6 +3470,7 @@
     plain_statement_ja: 腸管の絞扼が疑われるヘルニアは直ちに緊急手術を行うことが推奨されている（推奨度 1C）。全身性炎症反応症候群（SIRS）、造影 CT の所見、乳酸、CPK、D ダイマーは腸管の絞扼の予測に役立つ（1C）。腹壁の硬さや SIRS などの臨床所見だけでは、嵌頓から絞扼への進行を見つけるには不十分である。
     condition:
       guideline: WSES 腹壁ヘルニア緊急修復 GL（Hernia 2020 要約版）
+      region: 国際
     differential: null
     common_misconception: 嵌頓ヘルニアは痛みが強くなるまで様子をみてよい
   provenance:
@@ -3125,6 +3504,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-② を足した（医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a） → 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a）；医学各論 Ⅵ-10-D-②（絞扼性腸閉塞、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-089
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3132,6 +3514,7 @@
     plain_statement_ja: 自然に還納した絞扼性の鼠径部ヘルニアでは、腸管の生存性を確かめるために診断的腹腔鏡が役立つことがある（推奨度 2B）。絞扼がなく腸切除の必要も疑われない嵌頓ヘルニアは、腹側・鼠径部とも腹腔鏡で修復してよいが、腸切除が疑われる場合は開腹の腹膜前到達法がよいとされる（2C）。
     condition:
       guideline: WSES 腹壁ヘルニア緊急修復 GL（Hernia 2020 要約版）
+      region: 国際
     differential: null
     common_misconception: 嵌頓ヘルニアが自然に戻れば腸管の評価は不要である
   provenance:
@@ -3162,6 +3545,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-① を足した（なし → 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-090
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3169,6 +3555,7 @@
     plain_statement_ja: 汚染のない術野（米国 CDC の創分類 I）で、絞扼や腸切除を伴わない嵌頓ヘルニアには、合成メッシュによる修復が推奨されている（推奨度 1A）。腸管の絞扼や腸切除があっても腸内容の大量の漏れがなければ（創分類 II）、合成メッシュで修復でき、30日以内の創合併症を増やさずに再発を減らせる（1A）。
     condition:
       guideline: WSES 腹壁ヘルニア緊急修復 GL（Hernia 2020 要約版）
+      region: 国際
     differential: null
     common_misconception: 腸切除を伴うヘルニア手術ではメッシュを使ってはいけない
   provenance:
@@ -3199,6 +3586,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-① を足した（なし → 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-091
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3206,6 +3596,7 @@
     plain_statement_ja: 腸管壊死や腸内容の大量の漏れ（創分類 III）、腸穿孔による腹膜炎（創分類 IV）を伴う絞扼ヘルニアでは、循環が安定していれば、ヘルニア門が3 cm 未満なら直接縫合による修復が推奨される（推奨度 2C）。直接縫合ができなければ生体由来メッシュを使ってよく、手に入らない場合は吸収性メッシュか、創を開放して後日修復する方法がある（2C）。
     condition:
       guideline: WSES 腹壁ヘルニア緊急修復 GL（Hernia 2020 要約版）
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -3236,6 +3627,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-① を足した（なし → 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-092
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3243,6 +3637,7 @@
     plain_statement_ja: 重症敗血症や敗血症性ショックで循環が不安定な患者では、腹部コンパートメント症候群を防ぐため開腹管理（open abdomen）が推奨され、術中に腹腔内圧を測ってもよい（推奨度 2C）。安定したら早期の閉腹を目指し、筋膜を閉じられなければ皮膚だけを閉じて、後日合成メッシュで修復する方法がある（1C）。
     condition:
       guideline: WSES 腹壁ヘルニア緊急修復 GL（Hernia 2020 要約版）
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -3273,6 +3668,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-① を足した（なし → 医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-093
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3280,6 +3678,7 @@
     plain_statement_ja: 嵌頓ヘルニアの手術の抗菌薬は、虚血も腸切除もない場合（創分類 I）は短期間の予防投与、絞扼や腸切除を伴う場合（創分類 II・III）は48時間の予防投与、腹膜炎（創分類 IV）では治療としての投与が推奨されている（推奨度 2C）。腸の壊死がない鼠径ヘルニアの緊急手術では局所麻酔も使え、術後の合併症が少ない（1C）。
     condition:
       guideline: WSES 腹壁ヘルニア緊急修復 GL（Hernia 2020 要約版）
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -3310,6 +3709,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-10-D-① を足した（医学各論 Ⅵ-9-A-②（鼠径ヘルニア、a） → 医学各論 Ⅵ-9-A-②（鼠径ヘルニア、a）；医学各論 Ⅵ-10-D-①（嵌頓ヘルニア、a））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: AB-094
   domain: AB
   subdomain: 腹壁瘢痕ヘルニア

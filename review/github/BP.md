@@ -165,12 +165,12 @@
 
 > 偶然見つかった胆嚢癌の再切除では、遺残病変がT1bで12%（リンパ節転移）、T2で57%、T3で77%にみられたと報告されている。T2以上では、肝部分切除と肝門部リンパ節郭清を伴う拡大切除が選択肢になる。
 
-- 条件：source: NCI PDQ
+- 条件：source: NCI PDQ／region: 米国
 - よくある誤解：胆嚢摘出術で偶然見つかった癌は追加治療が不要
 - 不確実性：PDQが引用した研究の値（二次資料経由）
 - 出典：National Cancer Institute. Gallbladder Cancer Treatment (PDQ)–Health Professional Version　[リンク](https://www.cancer.gov/types/gallbladder/hp/gallbladder-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-063&card_id=BP-063&version=5db7d8e45c)　（版 `5db7d8e45c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-063&card_id=BP-063&version=9a64c8f109)　（版 `9a64c8f109`）
 
 ### BP-064　下書き（出典の照合前）
 
@@ -187,23 +187,23 @@
 
 > 胆管癌は、肝門部領域に約50%、遠位胆管に約40%、肝内に約10%が発生し、多くは多発性で切除できないことが多い。危険因子には原発性硬化性胆管炎、潰瘍性大腸炎、先天性胆道拡張症（総胆管嚢腫）、肝吸虫（Clonorchis sinensis）感染がある。
 
-- 条件：source: NCI PDQ
+- 条件：source: NCI PDQ／region: 米国
 - 鑑別・補足：膵頭部癌による遠位胆管閉塞
 - よくある誤解：胆管癌の多くは肝内に発生する
 - 出典：National Cancer Institute. Bile Duct Cancer (Cholangiocarcinoma) Treatment (PDQ)–Health Professional Version（最終更新 2025-03-28）　[リンク](https://www.cancer.gov/types/liver/hp/bile-duct-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）；医学各論 Ⅵ-6-C-②（肝内胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)；TBL-01-00-293 (id: Jlvnl7Q)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-065&card_id=BP-065&version=3b3b928ab1)　（版 `3b3b928ab1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-065&card_id=BP-065&version=3868eb6f5e)　（版 `3868eb6f5e`）
 
 ### BP-066　下書き（出典の照合前）
 
 > 遠位胆管癌の25〜30%は完全切除が可能で、より肝門側の腫瘍ほど切除率は低い。肝門部胆管癌に積極的な手術を行った場合の5年生存率は20〜50%と報告されている。
 
-- 条件：source: NCI PDQ
+- 条件：source: NCI PDQ／region: 米国
 - よくある誤解：胆管癌は全例で切除可能
 - 不確実性：PDQが引用した研究の値（二次資料経由）
 - 出典：National Cancer Institute. Bile Duct Cancer (Cholangiocarcinoma) Treatment (PDQ)–Health Professional Version（最終更新 2025-03-28）　[リンク](https://www.cancer.gov/types/liver/hp/bile-duct-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-066&card_id=BP-066&version=953dd81017)　（版 `953dd81017`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-066&card_id=BP-066&version=be98725236)　（版 `be98725236`）
 
 ### BP-067　下書き（出典の照合前）
 
@@ -220,13 +220,13 @@
 
 > AJCC第8版では、遠位胆管癌のT分類を胆管壁への浸潤の深さで決め、5 mm未満をT1、5〜12 mmをT2、12 mmを超えるものをT3とする。肝内胆管癌では、脈管侵襲のない単発で5 cm以下をT1a、5 cmを超えるものをT1bとする。
 
-- 条件：source: NCI PDQ／staging: AJCC 第8版
+- 条件：source: NCI PDQ／staging: AJCC 第8版／region: 米国
 - よくある誤解：胆管癌のT分類は腫瘍径だけで決まる
 - 出典：National Cancer Institute. Bile Duct Cancer (Cholangiocarcinoma) Treatment (PDQ)–Health Professional Version（最終更新 2025-03-28）　[リンク](https://www.cancer.gov/types/liver/hp/bile-duct-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-068&card_id=BP-068&version=a60ca733ef)　（版 `a60ca733ef`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-068&card_id=BP-068&version=10cc508514)　（版 `10cc508514`）
 
-**[ここまでの 9 件（BP-011〜BP-068）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-011%E3%80%9CBP-068&cards=BP-011%20d2fd7a40de%0ABP-012%20cbab024af2%0ABP-062%202f271d3a90%0ABP-063%205db7d8e45c%0ABP-064%206aa087a917%0ABP-065%203b3b928ab1%0ABP-066%20953dd81017%0ABP-067%20d925fefae6%0ABP-068%20a60ca733ef)**
+**[ここまでの 9 件（BP-011〜BP-068）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-011%E3%80%9CBP-068&cards=BP-011%20d2fd7a40de%0ABP-012%20cbab024af2%0ABP-062%202f271d3a90%0ABP-063%209a64c8f109%0ABP-064%206aa087a917%0ABP-065%203868eb6f5e%0ABP-066%20be98725236%0ABP-067%20d925fefae6%0ABP-068%2010cc508514)**
 
 ---
 
@@ -620,15 +620,15 @@
 
 > 2024年の京都ガイドラインは、2017年の国際コンセンサスを改訂してIPMNの新しい管理アルゴリズムを示し、high-risk stigmataとworrisome featuresの評価にEUS所見とEUS-FNAの細胞診を加えた。5年間変化のない小さな分枝型IPMNでは、サーベイランスを終了するか、併存膵癌に備えて継続するかの2つの選択肢を示している。
 
-- 条件：guideline: Kyoto IPMN guidelines 2024
+- 条件：guideline: Kyoto IPMN guidelines 2024／region: 国際
 - 鑑別・補足：MCN（女性の膵体尾部に多い）
 - よくある誤解：分枝型IPMNは生涯にわたり同じ間隔で検査を続けなければならない
 - 不確実性：抄録のみ参照。high-risk stigmata・worrisome featuresの具体的な項目は未取得
 - 出典：Ohtsuka T, et al. International evidence-based Kyoto guidelines for the management of intraductal papillary mucinous neoplasm of the pancreas. Pancreatology 2024;24:255-270　[DOI 10.1016/j.pan.2023.12.009](https://doi.org/10.1016/j.pan.2023.12.009)　[PMID 38182527](https://pubmed.ncbi.nlm.nih.gov/38182527/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-8-B-②（膵囊胞性腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-654 (id: JlvnmdM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-047&card_id=BP-047&version=26993db4d4)　（版 `26993db4d4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-047&card_id=BP-047&version=37cc25e067)　（版 `37cc25e067`）
 
-**[ここまでの 1 件（BP-047）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-047&cards=BP-047%2026993db4d4)**
+**[ここまでの 1 件（BP-047）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-047&cards=BP-047%2037cc25e067)**
 
 ---
 
@@ -649,45 +649,45 @@
 
 > インスリノーマは悪性より良性のことがはるかに多く（悪性は約10%）、約1割は多発する。外因性インスリンがないのに空腹時低血糖（40 mg/dL未満）とインスリン高値を示すことが特徴的である。
 
-- 条件：source: NCI PDQ
+- 条件：source: NCI PDQ／region: 米国
 - 鑑別・補足：インスリン自己投与、スルホニル尿素薬による低血糖
 - よくある誤解：インスリノーマの多くは悪性である
 - 出典：National Cancer Institute. Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ)–Health Professional Version（最終更新 2025-05-09）　[リンク](https://www.cancer.gov/types/pancreatic/hp/pnet-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-8-B-③（膵神経内分泌腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-653 (id: JlvnmdE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-049&card_id=BP-049&version=d258dee896)　（版 `d258dee896`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-049&card_id=BP-049&version=2ac73d63c0)　（版 `2ac73d63c0`）
 
 ### BP-050　下書き（出典の照合前）
 
 > ガストリノーマ（Zollinger-Ellison症候群）は消化性潰瘍の1%未満の原因で、15〜35%がMEN1に伴い、最大50%が悪性である。85%はいわゆるガストリノーマ三角に見つかり、膵実質内は15%にとどまる。
 
-- 条件：source: NCI PDQ
+- 条件：source: NCI PDQ／region: 米国
 - 鑑別・補足：H. pylori・NSAIDによる通常の消化性潰瘍
 - よくある誤解：ガストリノーマは膵実質内に発生することが多い
 - 出典：National Cancer Institute. Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ)–Health Professional Version（最終更新 2025-05-09）　[リンク](https://www.cancer.gov/types/pancreatic/hp/pnet-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-8-B-③（膵神経内分泌腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-653 (id: JlvnmdE)；TBL-01-00-672 (id: Jlvnme4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-050&card_id=BP-050&version=8e376552cf)　（版 `8e376552cf`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-050&card_id=BP-050&version=6880e7d4e5)　（版 `6880e7d4e5`）
 
 ### BP-051　下書き（出典の照合前）
 
 > グルカゴノーマは約75%が悪性で、血清グルカゴン1,000 pg/mL超で診断が確定する。VIPomaは水様下痢・低カリウム血症・無酸症（WDHA症候群）を起こし、血清VIP 200 pg/mL超で診断される。
 
-- 条件：source: NCI PDQ
+- 条件：source: NCI PDQ／region: 米国
 - よくある誤解：VIPomaは便秘を起こす
 - 出典：National Cancer Institute. Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ)–Health Professional Version（最終更新 2025-05-09）　[リンク](https://www.cancer.gov/types/pancreatic/hp/pnet-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-8-B-③（膵神経内分泌腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-653 (id: JlvnmdE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-051&card_id=BP-051&version=bc5e0399c0)　（版 `bc5e0399c0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-051&card_id=BP-051&version=7d7058fa6c)　（版 `7d7058fa6c`）
 
 ### BP-052　下書き（出典の照合前）
 
 > MEN1は11q13のMEN1遺伝子による常染色体顕性（優性）遺伝の症候群で、患者の85%に膵内分泌腫瘍、90%に副甲状腺機能亢進症、65%に下垂体腫瘍がみられる。膵神経内分泌腫瘍の治療は外科切除が唯一の根治法である。
 
-- 条件：source: NCI PDQ
+- 条件：source: NCI PDQ／region: 米国
 - よくある誤解：MEN1の膵腫瘍は散発例と同様に切除で治癒しやすい
 - 出典：National Cancer Institute. Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ)–Health Professional Version（最終更新 2025-05-09）　[リンク](https://www.cancer.gov/types/pancreatic/hp/pnet-treatment-pdq)（区分 GOV_US）
 - 出題基準：医学各論 Ⅵ-8-B-③（膵神経内分泌腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-653 (id: JlvnmdE)；TBL-01-00-672 (id: Jlvnme4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-052&card_id=BP-052&version=66a19e53a5)　（版 `66a19e53a5`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-052&card_id=BP-052&version=07fe81dd16)　（版 `07fe81dd16`）
 
-**[ここまでの 5 件（BP-048〜BP-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-048%E3%80%9CBP-052&cards=BP-048%20c6caf40c0f%0ABP-049%20d258dee896%0ABP-050%208e376552cf%0ABP-051%20bc5e0399c0%0ABP-052%2066a19e53a5)**
+**[ここまでの 5 件（BP-048〜BP-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BP-048%E3%80%9CBP-052&cards=BP-048%20c6caf40c0f%0ABP-049%202ac73d63c0%0ABP-050%206880e7d4e5%0ABP-051%207d7058fa6c%0ABP-052%2007fe81dd16)**
 
 ---
 

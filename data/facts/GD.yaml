@@ -1784,6 +1784,7 @@
     plain_statement_ja: 胃癌のN分類は、所属リンパ節の転移個数で決まる。N1は1〜2個、N2は3〜6個、N3aは7〜15個、N3bは16個以上である。
     condition:
       classification: 胃癌取扱い規約第15版＝UICC TNM第8版
+      region: 日本 vs 欧米
     differential: No.13リンパ節は通常M1だが、十二指腸浸潤例では所属リンパ節として扱う
     common_misconception: N分類は転移したリンパ節の部位で決まる
   provenance:
@@ -1832,6 +1833,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-036
   domain: GD
   subdomain: 胃癌
@@ -1839,6 +1843,7 @@
     plain_statement_ja: 内視鏡治療の適応判断では、乳頭腺癌と高・中分化管状腺癌を分化型、低分化腺癌と印環細胞癌を未分化型とする。両者が混在する場合は量的に優勢な組織型で分類する。粘膜下層に粘液癌がある場合は未分化型として扱う。
     condition:
       guideline: JGCA 第7版
+      region: 日本 vs 欧米
     differential: 潰瘍所見（UL）は生検瘢痕と区別が難しい場合、UL1とする
     common_misconception: 印環細胞癌は分化型に含まれる
   provenance:
@@ -1887,6 +1892,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-037
   domain: GD
   subdomain: 胃癌
@@ -1894,6 +1902,7 @@
     plain_statement_ja: 早期胃癌の内視鏡切除の絶対適応は次のとおりである。EMRまたはESDの絶対適応は、潰瘍所見のない（UL0）cT1aの分化型で長径2 cm以下のもの。ESDの絶対適応は、UL0のcT1a分化型で2 cmを超えるもの、潰瘍所見のある（UL1）cT1a分化型で3 cm以下のもの、UL0のcT1a未分化型で2 cm以下のものである。
     condition:
       guideline: JGCA 第6版・第7版で同一
+      region: 日本 vs 欧米
     differential: 絶対適応はリンパ節転移の可能性が1%未満で外科切除と同等の効果が期待できるもの
     common_misconception: 未分化型は大きさにかかわらず内視鏡切除の適応外
   provenance:
@@ -1942,6 +1951,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-038
   domain: GD
   subdomain: 胃癌
@@ -1949,6 +1961,7 @@
     plain_statement_ja: 内視鏡切除の適応拡大病変は、絶対適応の分化型病変を初回切除してeCuraC-1となり、その後に局所再発したcT1aの病変である。絶対適応・適応拡大のいずれにも当たらない病変でも、高齢や重い併存疾患で手術が勧められない場合は、リンパ節転移の残存リスクを説明したうえで相対適応として内視鏡切除を選べる。
     condition:
       guideline: JGCA 第7版
+      region: 日本 vs 欧米
     differential: 相対適応の標準治療は外科切除
     common_misconception: 高齢者には絶対適応外の病変でも常に内視鏡切除が標準
   provenance:
@@ -1997,6 +2010,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-039
   domain: GD
   subdomain: 胃癌
@@ -2004,6 +2020,7 @@
     plain_statement_ja: 第7版では、一括切除・HM0・VM0・Ly0・V0を前提に、UL0のpT1aで分化型優位なら大きさを問わず、未分化型優位なら2 cm以下の場合をeCuraAとする。UL1のpT1a分化型優位で3 cm以下も、分化型優位で3 cm以下のpT1b1（SM1、粘膜筋板から500 µm未満）もeCuraAとなる。
     condition:
       guideline: JGCA 第7版（第6版ではSM1病変はeCuraBだった）
+      region: 日本 vs 欧米
     differential: 未分化成分が2 cmを超える場合や、SM浸潤部に未分化成分がある場合はeCuraC-2
     common_misconception: SM浸潤があれば常に非治癒切除
   provenance:
@@ -2052,6 +2069,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-040
   domain: GD
   subdomain: 胃癌
@@ -2059,6 +2079,7 @@
     plain_statement_ja: eCuraC-1は、分化型で、分割切除または水平断端陽性であることを除けばeCuraAまたはBの条件を満たすものである。それ以外のeCuraCはeCuraC-2とする。eCuraC-1では再ESD、外科切除、焼灼効果を期待した厳重経過観察、レーザーやAPCによる焼灼から選べる。eCuraC-2ではリンパ節郭清を伴う胃切除が標準となる。
     condition:
       guideline: JGCA 第7版
+      region: 日本 vs 欧米
     differential: 第7版のeCuraBは、適応拡大病変（局所再発）の切除で条件を満たすもの
     common_misconception: eCuraC-1は全例で追加外科切除が必要
   provenance:
@@ -2107,6 +2128,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-041
   domain: GD
   subdomain: 胃癌
@@ -2114,6 +2138,7 @@
     plain_statement_ja: eCuraAの切除後は年1回の内視鏡で経過を観察する。eCuraA・Bのいずれでも、H. pyloriを検査して陽性なら除菌することが推奨される。異時性胃癌のリスクは長く続くため、長期の経過観察が必要である。
     condition:
       guideline: JGCA 第7版
+      region: 日本 vs 欧米
     differential: eCuraBでは年1〜2回の内視鏡に加え腹部超音波またはCTで転移を検索する
     common_misconception: 除菌すれば内視鏡の経過観察は不要
   provenance:
@@ -2162,6 +2187,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-042
   domain: GD
   subdomain: 胃癌
@@ -2169,6 +2197,7 @@
     plain_statement_ja: 定型胃切除は、胃の3分の2以上の切除とD2リンパ節郭清を行う手術である。D2郭清はcT2〜T4とcT1N+の根治切除可能例に、D1またはD1+郭清はcT1N0に適応する。cT1aで内視鏡切除の適応外のものと、分化型で1.5 cm以下のcT1bN0にはD1郭清を行う。
     condition:
       guideline: JGCA 第7版
+      region: 日本 vs 欧米
     differential: 術前・術中の深達度とリンパ節の診断は不確実なため、転移を否定できなければD2を行う
     common_misconception: 早期胃癌でも全例D2郭清が必要
   provenance:
@@ -2217,6 +2246,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-043
   domain: GD
   subdomain: 胃癌
@@ -2224,6 +2256,7 @@
     plain_statement_ja: 根治切除の口側断端距離は、T2以深では限局型（1型・2型）で3 cm以上、浸潤型（3型・4型）で5 cm以上を確保する。T1では肉眼で2 cmの断端を確保する。確保できない場合は断端の術中迅速診断を行う。
     condition:
       guideline: JGCA 第7版
+      region: 日本 vs 欧米
     differential: 食道浸潤例では5 cm超は必須ではなく、迅速診断でR0を確認する
     common_misconception: 断端距離は肉眼型に関係なく一律
   provenance:
@@ -2272,6 +2305,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-044
   domain: GD
   subdomain: 胃癌
@@ -2279,6 +2315,7 @@
     plain_statement_ja: 大彎に浸潤しない胃上部の進行癌に対する胃全摘では、脾臓を温存することが強く推奨されている（エビデンスA）。大彎浸潤例では脾摘または脾門リンパ節郭清が弱く推奨されている。
     condition:
       guideline: JGCA 第6版 CQ7（JCOG0110）
+      region: 日本
     differential: 膵浸潤で膵脾合併切除が必要な場合は部位にかかわらず胃全摘
     common_misconception: 胃上部の進行癌では脾摘を標準とする
   provenance:
@@ -2324,6 +2361,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: GD-045
   domain: GD
   subdomain: 胃癌
@@ -2331,6 +2371,7 @@
     plain_statement_ja: 肝転移や腹膜転移など非治癒因子があり、出血・狭窄などの症状がない患者に腫瘍量を減らす目的で行う減量手術は、国際共同RCT（REGATTA、JCOG0705/KGCA01）で生存上の利益が示されなかった。化学療法が可能な患者には行わないよう勧められている。
     condition:
       guideline: JGCA 第7版
+      region: 日本 vs 欧米
     differential: 出血や狭窄に対する姑息手術、化学療法奏効後のconversion surgeryは別の概念
     common_misconception: 切除できる非治癒胃癌は原発巣を切除した方が生存が延びる
   provenance:
@@ -2379,6 +2420,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-046
   domain: GD
   subdomain: 胃癌
@@ -2386,6 +2430,7 @@
     plain_statement_ja: 第7版は、腹腔鏡下幽門側胃切除をStageⅡ以上の進行癌も含めて標準治療の一つとして強く推奨している（エビデンスA）。cStageⅠに対する腹腔鏡下胃全摘・噴門側胃切除も強く推奨され、進行癌に対する腹腔鏡下胃全摘とロボット支援胃切除は弱く推奨されている。
     condition:
       guideline: JGCA 第7版 CQ1-1〜1-3（第6版ではcStageⅡ/Ⅲは推奨なし）
+      region: 日本 vs 欧米
     differential: 根拠：JCOG0912、KLASS-01、KLASS-02、CLASS-01、JLSSG0901
     common_misconception: 腹腔鏡手術は早期胃癌に限られる
   provenance:
@@ -2434,6 +2479,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-047
   domain: GD
   subdomain: 胃癌
@@ -2441,6 +2489,7 @@
     plain_statement_ja: cT1N0の胃中部の癌で、腫瘍の遠位端が幽門から4 cm以上離れている場合は、幽門保存胃切除が選択肢となる（弱い推奨）。
     condition:
       guideline: JGCA 第7版 CQ2-1
+      region: 日本 vs 欧米
     differential: 胃上部の早期癌には噴門側胃切除、胃上部でわずかでも胃を残せる場合は亜全摘
     common_misconception: 幽門保存胃切除は進行癌にも適応
   provenance:
@@ -2489,6 +2538,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-048
   domain: GD
   subdomain: 胃癌
@@ -2496,6 +2548,7 @@
     plain_statement_ja: 食道胃接合部癌（腫瘍中心が接合部の上下2 cm以内）のcT2以深では、食道浸潤長に応じて郭清範囲を決める。浸潤長が2 cmを超えれば下縦隔の、4 cmを超えれば上・中・下縦隔のリンパ節郭清が弱く推奨されている。浸潤長4 cm以下なら経裂孔的腹部アプローチを選べる。
     condition:
       guideline: JGCA 第6版 CQ12（日本胃癌学会・日本食道学会の前向き研究に基づく）
+      region: 日本
     differential: 組織型は腺癌でも扁平上皮癌でもよい
     common_misconception: 食道胃接合部癌は常に開胸手術が必要
   provenance:
@@ -2541,6 +2594,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
 - id: GD-049
   domain: GD
   subdomain: 胃癌
@@ -2548,6 +2604,7 @@
     plain_statement_ja: pStageⅡ胃癌には、術後補助化学療法としてS-1の1年間投与が推奨される。JCOG1104試験では、S-1を1年間投与した群の3年無再発生存率は93.1%、3年全生存率は96.1%だった。
     condition:
       guideline: JGCA 第7版
+      region: 日本 vs 欧米
     differential: pStageⅢでは併用療法が推奨される
     common_misconception: pStageⅡにもドセタキセル併用が標準
   provenance:
@@ -2596,6 +2653,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-050
   domain: GD
   subdomain: 胃癌
@@ -2603,6 +2663,7 @@
     plain_statement_ja: pStageⅢ胃癌の術後補助化学療法には、S-1＋ドセタキセル、CapeOX、SOXなどの併用療法が推奨され、S-1単独は条件付き推奨となる。併用療法どうしの直接比較はない。ATTRACTION-5試験では、術後補助化学療法へのニボルマブ追加の効果は認められなかった。
     condition:
       guideline: JGCA 第7版（根拠：JACCRO GC-07、CLASSIC、ARTIST2）
+      region: 日本 vs 欧米
     differential: 食道癌の術後ニボルマブ（CheckMate 577）とは対象が異なる
     common_misconception: 胃癌の術後補助療法にも免疫チェックポイント阻害薬が標準
   provenance:
@@ -2651,6 +2712,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-051
   domain: GD
   subdomain: 胃癌
@@ -2714,6 +2778,7 @@
     plain_statement_ja: 切除不能進行・再発胃癌では、一次化学療法の開始前にHER2、CLDN18、PD-L1（CPS）、MSI/MMRの4つのバイオマーカーを測定し、結果に基づいて治療を選ぶことが望ましいとされる。
     condition:
       guideline: JGCA 第7版 CQ13-1（日本胃癌学会のバイオマーカー検査の手引き第1.1版に対応）
+      region: 日本 vs 欧米
     differential: 第6版で一次治療前に必須とされたのはHER2のみ
     common_misconception: 一次治療前に調べればよいのはHER2だけである
   provenance:
@@ -2762,6 +2827,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-053
   domain: GD
   subdomain: 胃癌
@@ -2769,6 +2837,7 @@
     plain_statement_ja: HER2陽性は、免疫染色3+、または免疫染色2+かつISH陽性で定義され、切除不能進行・再発胃癌の17.8%を占めると報告されている。HER2陽性例にはトラスツズマブをフッ化ピリミジン＋プラチナ製剤と併用する。
     condition:
       guideline: JGCA 第7版（根拠：ToGA試験のサブグループ解析）
+      region: 日本 vs 欧米
     differential: 免疫染色2+でISH陰性はHER2陰性として扱う
     common_misconception: 免疫染色1+でもトラスツズマブの適応になる
   provenance:
@@ -2817,6 +2886,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-054
   domain: GD
   subdomain: 胃癌
@@ -2824,6 +2896,7 @@
     plain_statement_ja: HER2陰性の切除不能進行・再発胃癌の一次治療では、化学療法とニボルマブまたはペムブロリズマブの併用、CLDN18陽性例では化学療法とゾルベツキシマブの併用が推奨される。プラチナ製剤はシスプラチンよりオキサリプラチンを用いる併用が好ましいとされる。CLDN18陰性でCPSが低い例では化学療法単独も考慮する。
     condition:
       guideline: JGCA 第7版
+      region: 日本 vs 欧米
     differential: 免疫チェックポイント阻害薬とゾルベツキシマブを直接比較した研究はない
     common_misconception: CPSが低くても免疫チェックポイント阻害薬の上乗せ効果は高CPSと同じ
   provenance:
@@ -2872,6 +2945,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-055
   domain: GD
   subdomain: 胃癌
@@ -3024,6 +3100,7 @@
     plain_statement_ja: 切除不能進行・再発胃癌の二次治療では、パクリタキセル＋ラムシルマブが推奨レジメンである。MSI-Highは進行・再発胃癌の約3〜5%で、一次治療で免疫チェックポイント阻害薬を使っていない場合に限り、二次治療としてペムブロリズマブ単剤が推奨される。
     condition:
       guideline: JGCA 第7版（根拠：RAINBOW、KEYNOTE-158）
+      region: 日本 vs 欧米
     differential: パクリタキセル＋ラムシルマブが不適なら単剤（パクリタキセル、nab-パクリタキセル、ドセタキセル、イリノテカン、ラムシルマブ）
     common_misconception: 一次治療でニボルマブを使っていても二次治療でペムブロリズマブを使える
   provenance:
@@ -3072,6 +3149,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-059
   domain: GD
   subdomain: 胃癌
@@ -3079,6 +3159,7 @@
     plain_statement_ja: 三次治療以降では、ニボルマブ、イリノテカン、トリフルリジン・チピラシルの単剤が推奨され、互いの優先順位は明らかでない。ニボルマブは免疫チェックポイント阻害薬の使用歴がない場合に限られる。HER2陽性胃癌の三次治療ではトラスツズマブ デルクステカンが優先される。病勢進行後のトラスツズマブ継続は行わないよう強く推奨されている。
     condition:
       guideline: JGCA 第7版（根拠：ATTRACTION-2、TAGS、DESTINY-Gastric01、WJOG7112G）
+      region: 日本 vs 欧米
     differential: 二次治療のHER2陽性例はHER2陰性と同じレジメン
     common_misconception: HER2陽性例では進行後もトラスツズマブを継続する
   provenance:
@@ -3127,6 +3208,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-060
   domain: GD
   subdomain: 胃癌
@@ -3134,6 +3218,7 @@
     plain_statement_ja: 切除不能進行・再発胃癌に対する国内外の臨床試験での生存期間中央値は、およそ17〜18か月である。化学療法の目的は、症状の出現を遅らせることと生存の延長である。
     condition:
       guideline: JGCA 第7版（第6版では約15か月）
+      region: 日本 vs 欧米
     differential: MSI-HighやHER2陽性では著効によりconversion surgeryに至る例がある
     common_misconception: 化学療法で多くの切除不能胃癌が治癒する
   provenance:
@@ -3182,6 +3267,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-061
   domain: GD
   subdomain: 胃癌
@@ -3189,6 +3277,7 @@
     plain_statement_ja: 胃癌の根治切除後は原則5年間経過を観察する。CT、腫瘍マーカー（CEAとCA19-9）、内視鏡が再発や重複癌の発見に有用と考えられ、腫瘍マーカーは画像所見より2〜3か月早く上昇することがある。ただし定期的な経過観察が生存を延ばすというエビデンスは乏しい。
     condition:
       guideline: JGCA 第7版
+      region: 日本 vs 欧米
     differential: 5年以降にも再発や異時性多発癌がみられる
     common_misconception: 定期フォローで生存率が改善することが証明されている
   provenance:
@@ -3237,6 +3326,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-062
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -3294,6 +3386,7 @@
     plain_statement_ja: GISTの約95%は免疫染色でKIT陽性で、DOG1もGISTの大多数（約95%）で陽性となる。KIT陰性のGIST（最大5%）の多くは胃原発、類上皮型で、PDGFRA変異をもつ。CD34は60〜80%で陽性である。
     condition:
       guideline: JSCO GIST GL 2022
+      region: 日本
     differential: 平滑筋腫はデスミンがびまん性に陽性、神経鞘腫はS-100がびまん性に陽性
     common_misconception: KIT陰性ならGISTは否定できる
   provenance:
@@ -3336,6 +3429,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-064
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -3343,6 +3439,7 @@
     plain_statement_ja: GISTの70〜80%はc-kitエクソン11変異をもつ。c-kitエクソン9変異は5〜10%で主に小腸に、PDGFRA変異は約10%で主に胃の類上皮型にみられる。PDGFRAエクソン18のD842V変異、SDH欠損型、NF1関連のGISTは通常イマチニブに抵抗性である。
     condition:
       guideline: JSCO GIST GL 2022
+      region: 日本
     differential: c-kitとPDGFRAのどちらの変異もないGISTが約10%
     common_misconception: すべてのGISTにイマチニブが効く
   provenance:
@@ -3385,6 +3482,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-065
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -3392,6 +3492,7 @@
     plain_statement_ja: GISTの発生部位は胃が最も多く（50〜70%）、十二指腸・小腸（20〜30%）、大腸（5〜10%、多くは直腸）と続く。胃以外のGISTは胃GISTより再発リスクが高いとされる。
     condition:
       guideline: JSCO GIST GL 2022
+      region: 日本
     differential: 食道・腸間膜・大網はまれ
     common_misconception: GISTは小腸に最も多い
   provenance:
@@ -3434,6 +3535,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-066
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -3441,6 +3545,7 @@
     plain_statement_ja: GISTの再発リスクは、腫瘍径と核分裂像数を組み合わせて超低・低・中・高リスクに分類する。Miettinen分類は部位を、modified Fletcher（Joensuu）分類はさらに腫瘍破裂を加える。核分裂像は顕微鏡の視野数によらず5 mm²あたりで数えることが推奨される。
     condition:
       guideline: JSCO GIST GL 2022
+      region: 日本
     differential: SDH欠損型GISTは従来の分類で転移を予測しにくい
     common_misconception: GISTは良性か悪性かに二分できる
   provenance:
@@ -3483,6 +3588,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-067
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -3490,6 +3598,7 @@
     plain_statement_ja: 切除可能な限局性GISTの標準術式は、系統的リンパ節郭清を行わない局所切除である。腫瘍破裂を避けて完全切除することが重要で、臓器機能温存手術が強く推奨されている。10 cm以上の大きな腫瘍などには術前イマチニブが提案され、術前・術中に破裂した例では術後イマチニブが推奨される。
     condition:
       guideline: JSCO GIST GL 2022
+      region: 日本
     differential: 胃癌の定型手術（D2郭清）とは異なる
     common_misconception: GISTの手術では胃癌と同様にリンパ節郭清が必要
   provenance:
@@ -3532,6 +3641,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-068
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -3539,6 +3651,7 @@
     plain_statement_ja: 5 cm以上の粘膜下腫瘍に腹腔鏡手術を行うことが弱く推奨されている（エビデンスD）。ただし根拠となったメタ解析では8 cmを超える腫瘍に開腹手術が多く選ばれており、非常に大きな腫瘍への腹腔鏡手術は推奨されない。
     condition:
       guideline: JSCO GIST GL 2022 Surgery 3（CQ）
+      region: 日本
     differential: 2〜5 cmでGISTまたは悪性が強く疑われる粘膜下腫瘍は手術が強く推奨される
     common_misconception: 大きさにかかわらず腹腔鏡手術が標準
   provenance:
@@ -3581,6 +3694,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-069
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -3588,6 +3704,7 @@
     plain_statement_ja: 再発高リスクGISTの完全切除後のイマチニブ補助療法は、3年間投与が1年間投与より生存を延長した。中央判定でGISTと確認され肉眼的転移のない集団の5年生存率は93.4%対86.8%（HR 0.53）だった。
     condition:
       population: modified NIH基準で高リスク、KIT陽性、肉眼的完全切除（SSG XVIII/AIO）
+      region: 国際
     differential: 低・中リスクGISTでは補助療法の有効性は確立していない
     common_misconception: 補助イマチニブは1年で十分
   provenance:
@@ -3627,6 +3744,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: GD-070
   domain: GD
   subdomain: GIST・粘膜下腫瘍
@@ -3634,6 +3754,7 @@
     plain_statement_ja: 転移・再発GISTの初回治療の原則はイマチニブ投与である。薬物療法の効果判定では、腫瘍径10%以上の縮小またはCT値15%以上の低下を部分奏効とする修正基準（Choi基準）が用いられる。
     condition:
       guideline: JSCO GIST GL 2022
+      region: 日本
     differential: RECISTは腫瘍径のみで判定し、嚢胞化などの内部変化を反映しにくい
     common_misconception: GISTは腫瘍が縮小しなければ効いていない
   provenance:
@@ -3679,6 +3800,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-071
   domain: GD
   subdomain: 胃神経内分泌腫瘍
@@ -3686,6 +3810,7 @@
     plain_statement_ja: 胃神経内分泌腫瘍（NET）は背景病態で型が分かれる。自己免疫性の胃底腺萎縮による高ガストリン血症を背景とするものがI型、Zollinger-Ellison症候群（多くはMEN1）を背景とするものがII型である。
     condition:
       guideline: ENETS 2023（II型は同ガイダンスの対象外）
+      region: 国際
     differential: III型は高ガストリン血症を伴わない散発性
     common_misconception: 胃NETはすべて同じ予後である
   provenance:
@@ -3728,6 +3853,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: GD-072
   domain: GD
   subdomain: 胃静脈瘤
@@ -3844,6 +3972,7 @@
     plain_statement_ja: 早期ダンピング症候群は食後1時間以内に起こる。腹痛、腹部膨満、腹鳴、悪心、下痢などの消化器症状と、顔面紅潮、動悸、頻脈、まれに失神などの血管運動症状が出る。幽門の機能や胃の貯留能が失われ、未消化の高浸透圧の内容物が急速に小腸へ流入し、血漿から腸管内への水分移動や消化管ホルモンの放出が起こることが原因とされる。
     condition:
       guideline: 国際コンセンサス 2020
+      region: 国際
     differential: 後期ダンピング（食後1〜3時間の低血糖）
     common_misconception: 早期ダンピングの主因は低血糖である
   provenance:
@@ -3886,6 +4015,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: GD-075
   domain: GD
   subdomain: 胃切除後症候群
@@ -3893,6 +4025,7 @@
     plain_statement_ja: 後期ダンピング症候群は通常食後1〜3時間に起こり、反応性の低血糖を特徴とする。糖の急速な吸収に対する過剰なインスリン分泌が原因で、GLP-1の過剰な反応が主要な仲介因子と考えられている。
     condition:
       guideline: 国際コンセンサス 2020
+      region: 国際
     differential: 早期ダンピング（食後1時間以内の消化器・血管運動症状）
     common_misconception: 後期ダンピングは高血糖で起こる
   provenance:
@@ -3935,6 +4068,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: GD-076
   domain: GD
   subdomain: 胃切除後症候群
@@ -3942,6 +4078,7 @@
     plain_statement_ja: ダンピング症候群の頻度は、迷走神経切離＋幽門形成術後で約20%、胃切除後で最大40%、食道切除後で最大50%と報告されている。胃癌手術後には、後期ダンピング単独の症状が最大25%にみられるとされる。
     condition:
       guideline: 国際コンセンサス 2020
+      region: 国際
     differential: 肥満手術（RYGB、スリーブ状胃切除）後にも起こる
     common_misconception: ダンピング症候群は胃全摘でしか起こらない
   provenance:
@@ -3984,6 +4121,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: GD-077
   domain: GD
   subdomain: 胃切除後症候群
@@ -3991,6 +4131,7 @@
     plain_statement_ja: ダンピング症候群の診断には修正75 g経口ブドウ糖負荷試験が用いられる。30分でヘマトクリットが3%を超えて上昇するか脈拍が10回/分を超えて増加すれば早期ダンピング、60〜180分に血糖が50 mg/dL未満となれば後期ダンピングを示す。Sigstadスコアは7を超えるとダンピングを示唆するが、質問票や胃排出検査は診断法として推奨されていない。
     condition:
       guideline: 国際コンセンサス 2020
+      region: 国際
     differential: 血糖60 mg/dLの基準は採用されなかった
     common_misconception: 胃排出シンチグラフィで診断が確定する
   provenance:
@@ -4033,6 +4174,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: GD-078
   domain: GD
   subdomain: 胃切除後症候群
@@ -4040,6 +4184,7 @@
     plain_statement_ja: ダンピング症候群の第一選択は食事療法である。1回の食事量を減らし、水分は食後30分以上あけて摂り、吸収の速い炭水化物を避け、食物繊維と蛋白質の多い食品をよく噛んでゆっくり食べる。食後30分間横になる指導や、グアーガムなどの増粘剤は推奨されなかった。
     condition:
       guideline: 国際コンセンサス 2020
+      region: 国際
     differential: 薬物療法は食事療法で改善しない場合
     common_misconception: 食事中に水分を多く摂ると症状が和らぐ
   provenance:
@@ -4082,6 +4227,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: GD-079
   domain: GD
   subdomain: 胃切除後症候群
@@ -4089,6 +4237,7 @@
     plain_statement_ja: 食事療法で改善しないダンピング症候群では、後期ダンピングにα-グルコシダーゼ阻害薬のアカルボース（50〜100 mgを1日3回食事とともに）が有効とされ、主な副作用は放屁である。それでも改善しない場合はソマトスタチンアナログが選択される。再手術や膵切除、ジアゾキシドは推奨されていない。
     condition:
       guideline: 国際コンセンサス 2020
+      region: 国際
     differential: アカルボースの早期ダンピングへの効果は確立していない
     common_misconception: 難治例には再手術が標準
   provenance:
@@ -4131,6 +4280,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: GD-080
   domain: GD
   subdomain: 胃切除後症候群
@@ -4138,6 +4290,7 @@
     plain_statement_ja: 胃癌手術で迷走神経前幹の肝枝や後幹の腹腔枝を温存すると、術後の胆石形成、下痢、体重減少が減り、術後のQOL改善に寄与すると報告されている。
     condition:
       guideline: JGCA 第7版（本文の記述。CQとしての推奨度はない）
+      region: 日本 vs 欧米
     differential: 幽門保存胃切除では幽門機能を温存する
     common_misconception: 胃切除後の胆石は迷走神経と無関係である
   provenance:
@@ -4186,6 +4339,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本 vs 欧米」を入れた（作り手の候補、確度高）。三原の承認による
 - id: GD-081
   domain: GD
   subdomain: 胃アニサキス症
@@ -4439,6 +4595,7 @@
     plain_statement_ja: 胃底腺ポリープは最も多い胃ポリープの一つで、PPI使用者に多い（使用者23%対非使用者12%と報告）。散発性の胃底腺ポリープの悪性化はまれ（1%未満）だが、家族性大腸腺腫症では20〜100%に生じ、その25〜41%に異形成を伴う。
     condition:
       source: 2013年の総説
+      region: 国際
     differential: H. pylori未感染の胃にみられることが多い
     common_misconception: 胃底腺ポリープは前癌病変として全例切除する
   provenance:
@@ -4481,6 +4638,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: GD-087
   domain: GD
   subdomain: 胃ポリープ
@@ -4488,6 +4648,7 @@
     plain_statement_ja: 過形成性ポリープは、H. pylori胃炎や萎縮性胃炎などの慢性胃炎を背景に生じ、H. pyloriが原因の場合は除菌後に約80%が退縮すると報告されている。異形成は1.9〜19%、腺癌は0.6〜2.1%にみられると報告されている。
     condition:
       source: 2013年の総説
+      region: 国際
     differential: 切除する大きさの基準は0.5 cm超から2 cm以上まで報告により異なる
     common_misconception: 過形成性ポリープは癌化しない
   provenance:
@@ -4530,6 +4691,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: GD-088
   domain: GD
   subdomain: 胃ポリープ
@@ -4537,6 +4701,7 @@
     plain_statement_ja: 胃腺腫は真の腫瘍で胃癌の前駆病変であり、完全切除が勧められる。2 cmを超え絨毛成分をもつものでは腫瘍化のリスクが高いと報告されている。
     condition:
       source: 2013年の総説（欧米の頻度は胃ポリープの6〜10%）
+      region: 国際
     differential: 過形成性ポリープ、胃底腺ポリープ
     common_misconception: 胃腺腫は経過観察だけでよい
   provenance:
@@ -4582,6 +4747,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-D-③ を足した（医学各論 Ⅵ-2-D-①（胃ポリープ、a） → 医学各論 Ⅵ-2-D-①（胃ポリープ、a）；医学各論 Ⅵ-2-D-③（胃腺腫、b））。三原の承認による
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: GD-089
   domain: GD
   subdomain: 胃ポリープ

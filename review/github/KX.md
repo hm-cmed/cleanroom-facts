@@ -13,10 +13,10 @@
 - 条件：region: 米国／study: 2013年の総説（プライマリケア向けの鑑別診断）
 - 不確実性：本誌の論文には DOI の付与を PubMed 収載頁・誌面のいずれでも確認できなかったため doi は null とした。原因薬剤として挙げた薬効群（カルシウム拮抗薬など）は国内承認薬の範囲であるが、個別製剤の適応・保険適用の確認はしていない。米国のプライマリケア向け総説であり、日本の診療での検査の優先順位と同一とは限らない。
 - 出典：Trayes KP, Studdiford JS, Pickle S, Tully AS. Edema: diagnosis and management. Am Fam Physician. 2013;88(2):102-110　[PMID 23939641](https://pubmed.ncbi.nlm.nih.gov/23939641/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-09-02 (id: JkxnuRg)；TBL-02-08-009 (id: JlAKpmk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-001&card_id=KX-001&version=13d460cca9)　（版 `13d460cca9`）
+- 出題基準：医学各論 Ⅷ-3-E-①（脱水と浮腫、a）　コアカリ：PS-02-09-02 (id: JkxnuRg)；TBL-02-08-009 (id: JlAKpmk)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-001&card_id=KX-001&version=4e077046d6)　（版 `4e077046d6`）
 
-**[ここまでの 1 件（KX-001）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-001&cards=KX-001%2013d460cca9)**
+**[ここまでの 1 件（KX-001）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-001&cards=KX-001%204e077046d6)**
 
 ---
 
@@ -29,10 +29,10 @@
 - 条件：region: 国際／study: 2016年の総説（AKI の診断と精査。診断基準は KDIGO の定義に基づく）
 - 不確実性：診断基準の数値は KDIGO の定義を総説が引用したものである。本カードは AKI 全般の初期評価の枠組みであり、乏尿・無尿だけを対象集団とした数値ではない。個別の原因疾患ごとの対応は各疾患のカードに譲る。
 - 出典：Ostermann M, Joannidis M. Acute kidney injury 2016: diagnosis and diagnostic workup. Crit Care. 2016;20:299　[DOI 10.1186/s13054-016-1478-z](https://doi.org/10.1186/s13054-016-1478-z)　[PMID 27670788](https://pubmed.ncbi.nlm.nih.gov/27670788/)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-09-02 (id: JkxnuRg)；TBL-02-08-012 (id: JlAKpms)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-002&card_id=KX-002&version=ca12e8dc4f)　（版 `ca12e8dc4f`）
+- 出題基準：医学各論 Ⅷ-3-A-①（急性腎障害(腎前性・腎性・腎後性)、a）　コアカリ：PS-02-09-02 (id: JkxnuRg)；TBL-02-08-012 (id: JlAKpms)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-002&card_id=KX-002&version=56c0e22792)　（版 `56c0e22792`）
 
-**[ここまでの 1 件（KX-002）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-002&cards=KX-002%20ca12e8dc4f)**
+**[ここまでの 1 件（KX-002）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-002&cards=KX-002%2056c0e22792)**
 
 ---
 
@@ -45,10 +45,10 @@
 - 条件：region: 国際／study: 2021年の総説（尿崩症の実践的な管理）
 - 不確実性：原著では治療薬としてデスモプレシン、サイアザイド系利尿薬、アミロライドが挙げられているが、本カードでは用法・用量は扱っていない。これらの薬剤の国内承認・保険適用（尿崩症への適応を含む）は未確認である。多尿の閾値は総説の記載に基づく目安であり、診断は尿・血清浸透圧と水制限試験などの総合評価による。
 - 出典：Priya G, Kalra S, Dasgupta A, Grewal E. Diabetes insipidus: a pragmatic approach to management. Cureus. 2021;13(1):e12498　[DOI 10.7759/cureus.12498](https://doi.org/10.7759/cureus.12498)　[PMID 33425560](https://pubmed.ncbi.nlm.nih.gov/33425560/)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-09-02 (id: JkxnuRg)；TBL-02-08-012 (id: JlAKpms)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-003&card_id=KX-003&version=442706be3b)　（版 `442706be3b`）
+- 出題基準：医学各論 Ⅹ-1-B-⑦（中枢性尿崩症、b）；医学各論 Ⅷ-2-C-③（腎性尿崩症、c）　コアカリ：PS-02-09-02 (id: JkxnuRg)；TBL-02-08-012 (id: JlAKpms)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-003&card_id=KX-003&version=b1c1bd4a2e)　（版 `b1c1bd4a2e`）
 
-**[ここまでの 1 件（KX-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-003&cards=KX-003%20442706be3b)**
+**[ここまでの 1 件（KX-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-003&cards=KX-003%20b1c1bd4a2e)**
 
 ---
 
@@ -61,10 +61,10 @@
 - 条件：region: 国際／study: 2014年の臨床総説（男性の下部尿路症状）
 - 不確実性：本カードは男性の下部尿路症状を対象とした総説に基づいており、女性の排尿障害にはそのまま適用できない。IPSS の境界値は総説の記載に基づく。治療薬（α遮断薬など）の国内承認・保険適用は本カードでは扱っておらず未確認である。
 - 出典：Hollingsworth JM, Wilt TJ. Lower urinary tract symptoms in men. BMJ. 2014;349:g4474　[DOI 10.1136/bmj.g4474](https://doi.org/10.1136/bmj.g4474)　[PMID 25125424](https://pubmed.ncbi.nlm.nih.gov/25125424/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-09-02 (id: JkxnuRg)；TBL-02-08-012 (id: JlAKpms)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-004&card_id=KX-004&version=d0147d489f)　（版 `d0147d489f`）
+- 出題基準：医学各論 Ⅷ-6-C-①（前立腺肥大症、a）　コアカリ：PS-02-09-02 (id: JkxnuRg)；TBL-02-08-012 (id: JlAKpms)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-004&card_id=KX-004&version=73c718b9a2)　（版 `73c718b9a2`）
 
-**[ここまでの 1 件（KX-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-004&cards=KX-004%20d0147d489f)**
+**[ここまでの 1 件（KX-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-004&cards=KX-004%2073c718b9a2)**
 
 ---
 
@@ -77,10 +77,10 @@
 - 条件：region: 国際／study: 2024年の総説（尿沈渣の診断的利用）
 - 不確実性：本カードは症候としての鑑別に絞り、個別の糸球体疾患は扱っていない（第15回の対象）。有棘赤血球などの所見の診断精度（感度・特異度）の数値は、SRC の枠数の都合で本カードの出典には含めなかったため記載していない。沈渣所見の判定は検者の熟練度に依存する。
 - 出典：Gaggar P, Raju SB. Diagnostic utility of urine microscopy in kidney diseases. Indian J Nephrol. 2024;34(3):213-221　[DOI 10.25259/ijn_362_23](https://doi.org/10.25259/ijn_362_23)　[PMID 39114391](https://pubmed.ncbi.nlm.nih.gov/39114391/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-09-02 (id: JkxnuRg)；TBL-02-08-010 (id: JlAKpmc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-005&card_id=KX-005&version=617195b43d)　（版 `617195b43d`）
+- 出題基準：医学各論 Ⅷ-1-E-①（血尿、a）　コアカリ：PS-02-09-02 (id: JkxnuRg)；TBL-02-08-010 (id: JlAKpmc)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-005&card_id=KX-005&version=1df1fef411)　（版 `1df1fef411`）
 
-**[ここまでの 1 件（KX-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-005&cards=KX-005%20617195b43d)**
+**[ここまでの 1 件（KX-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-005&cards=KX-005%201df1fef411)**
 
 ---
 
@@ -93,10 +93,10 @@
 - 条件：region: 国際／study: KDIGO 2024 CKD 評価・管理ガイドライン
 - 不確実性：アルブミン尿区分の境界値はガイドラインの表から読み取ったものである（表から読み取り）。日本の特定健診などで用いる試験紙法の判定区分とは方式が異なり、試験紙の半定量値と ACR は直接は対応しない。
 - 出典：Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024;105(4S):S117-S314　[DOI 10.1016/j.kint.2023.10.018](https://doi.org/10.1016/j.kint.2023.10.018)　[PMID 38490803](https://pubmed.ncbi.nlm.nih.gov/38490803/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-09-03 (id: JkxnuRk)；TBL-02-08-011 (id: JlAKpmg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-006&card_id=KX-006&version=bcb1c1f72f)　（版 `bcb1c1f72f`）
+- 出題基準：医学各論 Ⅷ-1-E-②（蛋白尿、a）；医学各論 Ⅷ-3-B（慢性腎臓病<CKD>、a）　コアカリ：PS-02-09-03 (id: JkxnuRk)；TBL-02-08-011 (id: JlAKpmg)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-006&card_id=KX-006&version=afec592921)　（版 `afec592921`）
 
-**[ここまでの 1 件（KX-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-006&cards=KX-006%20bcb1c1f72f)**
+**[ここまでの 1 件（KX-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-006&cards=KX-006%20afec592921)**
 
 ---
 
@@ -173,10 +173,10 @@
 - 条件：region: 国際／study: 2016年の総説（腎結石の画像検査技術の概観）
 - 不確実性：本カードの出典は尿路結石の画像検査を主題とした総説であり、腎腫瘍や感染症など他の疾患の画像選択にはそのまま適用できない。各検査の感度・特異度の具体的な数値は原著の本文表に依存するため、本カードには数値を入れていない。
 - 出典：Brisbane W, Bailey MR, Sorensen MD. An overview of kidney stone imaging techniques. Nat Rev Urol. 2016;13(11):654-662　[DOI 10.1038/nrurol.2016.154](https://doi.org/10.1038/nrurol.2016.154)　[PMID 27578040](https://pubmed.ncbi.nlm.nih.gov/27578040/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-09-03 (id: JkxnuRk)；TBL-02-08-016 (id: JlAKpm4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-011&card_id=KX-011&version=99743762eb)　（版 `99743762eb`）
+- 出題基準：医学各論 Ⅷ-4-A-①（腎結石、尿管結石、a）　コアカリ：PS-02-09-03 (id: JkxnuRk)；TBL-02-08-016 (id: JlAKpm4)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-011&card_id=KX-011&version=79eb07f3bc)　（版 `79eb07f3bc`）
 
-**[ここまでの 1 件（KX-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-011&cards=KX-011%2099743762eb)**
+**[ここまでの 1 件（KX-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-011&cards=KX-011%2079eb07f3bc)**
 
 ---
 
@@ -189,10 +189,10 @@
 - 条件：region: 日本／study: 日本透析医学会の維持血液透析導入ガイドライン（2015年）
 - 不確実性：GFR の閾値と推奨グレードは抄録に記載されたステートメントに基づく。ガイドラインは2015年のものであり、その後の診療報酬や国内の診療実態の変化は反映していない。腹膜透析の導入時期は本ガイドラインの主題ではない。
 - 出典：Watanabe Y, Yamagata K, Nishi S, Hirakata H, Maruyama S, Saito C, et al.; Japanese Society for Dialysis Therapy Clinical Guideline Work Group. Japanese Society for Dialysis Therapy clinical guideline for "hemodialysis initiation for maintenance hemodialysis". Ther Apher Dial. 2015;19 Suppl 1:93-107　[DOI 10.1111/1744-9987.12293](https://doi.org/10.1111/1744-9987.12293)　[PMID 25817934](https://pubmed.ncbi.nlm.nih.gov/25817934/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-012&card_id=KX-012&version=4811d6d1a6)　（版 `4811d6d1a6`）
+- 出題基準：医学各論 Ⅷ-3-B（慢性腎臓病<CKD>、a）　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-012&card_id=KX-012&version=19c89123a0)　（版 `19c89123a0`）
 
-**[ここまでの 1 件（KX-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-012&cards=KX-012%204811d6d1a6)**
+**[ここまでの 1 件（KX-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-012&cards=KX-012%2019c89123a0)**
 
 ---
 
@@ -205,10 +205,10 @@
 - 条件：region: 国際／study: 2023年の系統的レビュー・メタ解析（糖尿病性腎不全における HD と PD の比較。中国の経験を中心とする集積）
 - 不確実性：対象は糖尿病性腎不全の患者に限られ、非糖尿病の患者集団への一般化には注意がいる。数値はメタ解析の統合値であり、含まれる研究の実施地域や時代背景の影響を受ける。生存率については研究間で結果が一致せず、本カードでは優劣を断定していない。
 - 出典：Wei Z, Jin Y, Cheng J, Han X, Liu J, Liu S. Chinese experience on comparison of clinical efficacy and safety of hemodialysis and peritoneal dialysis in the treatment of diabetic kidney failure: a systematic review and meta-analysis. Front Med (Lausanne). 2023;10:1116103　[DOI 10.3389/fmed.2023.1116103](https://doi.org/10.3389/fmed.2023.1116103)　[PMID 37636569](https://pubmed.ncbi.nlm.nih.gov/37636569/)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-013&card_id=KX-013&version=ac3d2ed713)　（版 `ac3d2ed713`）
+- 出題基準：医学各論 Ⅷ-3-B（慢性腎臓病<CKD>、a）　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-013&card_id=KX-013&version=60eed1b374)　（版 `60eed1b374`）
 
-**[ここまでの 1 件（KX-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-013&cards=KX-013%20ac3d2ed713)**
+**[ここまでの 1 件（KX-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-013&cards=KX-013%2060eed1b374)**
 
 ---
 
@@ -237,10 +237,10 @@
 - 条件：region: 国際／study: 2018年の総説（急性中毒に対する体外除去。集中治療医向け）
 - 不確実性：急性腎障害に対する腎代替療法の開始時期を比較した大規模無作為化試験の結果（早期開始と標準開始で転帰に差がなかったことなど）は、SRC の枠数の都合で本カードの出典には含めなかったため、数値は記載していない。個別の毒物の血中濃度の閾値は EXTRIP の毒物ごとの推奨を別途確認する必要がある。国内の中毒診療の体制（中毒情報センター等）は本カードでは扱っていない。
 - 出典：Jha VK, Padmaprakash KV. Extracorporeal treatment in the management of acute poisoning: what an intensivist should know? Indian J Crit Care Med. 2018;22(12):862-869　[DOI 10.4103/ijccm.IJCCM_425_18](https://doi.org/10.4103/ijccm.IJCCM_425_18)　[PMID 30662226](https://pubmed.ncbi.nlm.nih.gov/30662226/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-015&card_id=KX-015&version=fb964fba75)　（版 `fb964fba75`）
+- 出題基準：医学各論 Ⅷ-3-A-①（急性腎障害(腎前性・腎性・腎後性)、a）；医学各論 ⅩⅢ-5-G-⑤（急性中毒、a）　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-015&card_id=KX-015&version=7735ec78bd)　（版 `7735ec78bd`）
 
-**[ここまでの 1 件（KX-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-015&cards=KX-015%20fb964fba75)**
+**[ここまでの 1 件（KX-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-015&cards=KX-015%207735ec78bd)**
 
 ---
 
@@ -285,10 +285,10 @@
 - 条件：region: 国際／study: 保存的腎臓管理と透析を比較した観察研究25件の系統的レビュー（2021年、Murtagh ら2007年の75歳超のコホートを含む）
 - 不確実性：対象研究はすべて観察研究で研究間の異質性が大きく、透析に有利な方向のバイアスが指摘されている。統合ハザード比は透析群と保存的管理群の死亡比較として出典の抄録に記載された値であり、個々の患者の予後をそのまま示すものではない。症状緩和に用いる個別の薬剤名は本カードに記載しておらず、その国内の承認・保険適用は未確認である。
 - 出典：Buur LE, Madsen JK, Eidemak I, Krarup E, Lauridsen TG, Taasti LH, Finderup J. Does conservative kidney management offer a quantity or quality of life benefit compared to dialysis? A systematic review. BMC Nephrol. 2021;22:307　[DOI 10.1186/s12882-021-02516-6](https://doi.org/10.1186/s12882-021-02516-6)　[PMID 34507554](https://pubmed.ncbi.nlm.nih.gov/34507554/)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-018&card_id=KX-018&version=6fc812b038)　（版 `6fc812b038`）
+- 出題基準：医学各論 Ⅷ-3-B（慢性腎臓病<CKD>、a）　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-018&card_id=KX-018&version=23f058c083)　（版 `23f058c083`）
 
-**[ここまでの 1 件（KX-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-018&cards=KX-018%206fc812b038)**
+**[ここまでの 1 件（KX-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-018&cards=KX-018%2023f058c083)**
 
 ---
 
@@ -333,10 +333,10 @@
 - 条件：region: 日本／study: 日本の移植登録の集計に基づく推計研究（1964〜2023年）
 - 不確実性：レシピエント数31,552人と8.4%は、移植登録の集計と時代ごとの移植腎生存率に基づく推計値であり、個々の症例を追跡して数えた実数ではない。レシピエントの適否を決める医学的基準の詳細は本出典では確認できないため記載していない。
 - 出典：Komaba H, Nakagawa Y, Koizumi M, Tomita Y, Nakamura M. Estimated Number of Prevalent Kidney Transplant Recipients in Japan From 1964 to 2023. Transpl Int. 2025;38:15732　[DOI 10.3389/ti.2025.15732](https://doi.org/10.3389/ti.2025.15732)　[PMID 41480389](https://pubmed.ncbi.nlm.nih.gov/41480389/)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-021&card_id=KX-021&version=f7c8a4d31e)　（版 `f7c8a4d31e`）
+- 出題基準：医学各論 Ⅷ-3-B（慢性腎臓病<CKD>、a）　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-021&card_id=KX-021&version=1474d620bb)　（版 `1474d620bb`）
 
-**[ここまでの 1 件（KX-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-021&cards=KX-021%20f7c8a4d31e)**
+**[ここまでの 1 件（KX-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-021&cards=KX-021%201474d620bb)**
 
 ---
 
@@ -429,10 +429,10 @@
 - 条件：region: 国際／study: 造影剤腎症の予防に関する総説（2014年）
 - 不確実性：2014年の総説に基づく記載で、メトホルミンの休薬や再開の具体的な基準（腎機能の値や期間）は出典のまとめでは数値で示されておらず確認していない。その後の国内外のガイドライン改訂による推奨の変化も確認していない。非ステロイド性抗炎症薬とメトホルミンの国内の承認・保険適用は未確認で、取り込み時に添付文書で確認が必要である。
 - 出典：Ludwig U, Keller F. Prophylaxis of Contrast-Induced Nephrotoxicity. Biomed Res Int. 2014;2014:308316　[DOI 10.1155/2014/308316](https://doi.org/10.1155/2014/308316)　[PMID 24812612](https://pubmed.ncbi.nlm.nih.gov/24812612/)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-09-04 (id: JkxnuRo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-027&card_id=KX-027&version=2ddb5414e1)　（版 `2ddb5414e1`）
+- 出題基準：医学各論 Ⅷ-3-A-①（急性腎障害(腎前性・腎性・腎後性)、a）　コアカリ：PS-02-09-04 (id: JkxnuRo)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-027&card_id=KX-027&version=aef6ca8c08)　（版 `aef6ca8c08`）
 
-**[ここまでの 1 件（KX-027）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-027&cards=KX-027%202ddb5414e1)**
+**[ここまでの 1 件（KX-027）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-027&cards=KX-027%20aef6ca8c08)**
 
 ---
 
@@ -461,10 +461,10 @@
 - 条件：region: 国際／study: 成人の先行的移植と透析後移植を比較した観察研究の系統的レビュー・メタ解析（76件、登録年1968〜2019年）
 - 不確実性：対象はすべて観察研究で無作為化試験はなく、先行群に状態のよい患者が集まる選択バイアスなどの残余交絡を否定できないため、差が先行という時期そのものによるものかは確定しない。小児のみの研究と多臓器同時移植は出典の対象外である。
 - 出典：Azegami T, Kounoue N, Sofue T, et al. Efficacy of pre-emptive kidney transplantation for adults with end-stage kidney disease: a systematic review and meta-analysis. Ren Fail. 2023;45(1):2169618　[DOI 10.1080/0886022X.2023.2169618](https://doi.org/10.1080/0886022X.2023.2169618)　[PMID 36705051](https://pubmed.ncbi.nlm.nih.gov/36705051/)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-029&card_id=KX-029&version=c1116c914a)　（版 `c1116c914a`）
+- 出題基準：医学各論 Ⅷ-3-B（慢性腎臓病<CKD>、a）　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-029&card_id=KX-029&version=3f75a0e265)　（版 `3f75a0e265`）
 
-**[ここまでの 1 件（KX-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-029&cards=KX-029%20c1116c914a)**
+**[ここまでの 1 件（KX-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-029&cards=KX-029%203f75a0e265)**
 
 ---
 
@@ -509,10 +509,10 @@
 - 条件：region: 国際／study: 保存的腎臓管理と透析を比較した観察研究25件の系統的レビュー（2021年、80歳以上のサブグループと併存症の多い高齢者を含む）
 - 不確実性：対象研究はすべて観察研究で研究間の異質性が大きく、透析に有利な方向のバイアスが指摘されている。フレイルを指標として直接測定した比較は出典では確認できなかったため、フレイルそのものの数値は記載していない。症状緩和に用いる個別の薬剤名は本カードに記載しておらず、その国内の承認・保険適用は未確認である。
 - 出典：Buur LE, Madsen JK, Eidemak I, Krarup E, Lauridsen TG, Taasti LH, Finderup J. Does conservative kidney management offer a quantity or quality of life benefit compared to dialysis? A systematic review. BMC Nephrol. 2021;22:307　[DOI 10.1186/s12882-021-02516-6](https://doi.org/10.1186/s12882-021-02516-6)　[PMID 34507554](https://pubmed.ncbi.nlm.nih.gov/34507554/)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-032&card_id=KX-032&version=de53fc9d0f)　（版 `de53fc9d0f`）
+- 出題基準：医学各論 Ⅷ-3-B（慢性腎臓病<CKD>、a）　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-032&card_id=KX-032&version=a5a8394bf4)　（版 `a5a8394bf4`）
 
-**[ここまでの 1 件（KX-032）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-032&cards=KX-032%20de53fc9d0f)**
+**[ここまでの 1 件（KX-032）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-032&cards=KX-032%20a5a8394bf4)**
 
 ---
 

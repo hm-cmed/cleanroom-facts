@@ -224,8 +224,8 @@
 - 条件：guideline: JCS/JACR 2021 心血管疾患リハビリテーション GL／region: 日本
 - 不確実性：数値はガイドラインが引用した研究による（二次資料経由）。心不全への心臓リハビリテーションの推奨クラスは今回の抽出範囲になく未確認
 - 出典：日本循環器学会・日本心臓リハビリテーション学会ほか. 心血管疾患におけるリハビリテーションに関するガイドライン（2021年改訂版）. 2021年3月27日発行　[リンク](https://www.jacr.jp/cms/wp-content/uploads/2015/04/JCS2021_Makita2.pdf)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-02-05-033 (id: JlAKpgQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CX-020&card_id=CX-020&version=9401354f06)　（版 `9401354f06`）
+- 出題基準：医学各論 Ⅴ-2-A-④（慢性心不全、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-02-05-033 (id: JlAKpgQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CX-020&card_id=CX-020&version=c6d4a71c80)　（版 `c6d4a71c80`）
 
 ### CX-021　下書き（出典の照合前）
 
@@ -236,7 +236,7 @@
 - 出題基準：－　コアカリ：PS-02-06-03 (id: JkxnuQo)；PS-02-06-04 (id: JkxnuQs)；TBL-02-05-033 (id: JlAKpgQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CX-021&card_id=CX-021&version=895b400afe)　（版 `895b400afe`）
 
-**[ここまでの 5 件（CX-017〜CX-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20CX-017%E3%80%9CCX-021&cards=CX-017%20876c43919f%0ACX-018%2094d9ace11c%0ACX-019%20ac29724edd%0ACX-020%209401354f06%0ACX-021%20895b400afe)**
+**[ここまでの 5 件（CX-017〜CX-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20CX-017%E3%80%9CCX-021&cards=CX-017%20876c43919f%0ACX-018%2094d9ace11c%0ACX-019%20ac29724edd%0ACX-020%20c6d4a71c80%0ACX-021%20895b400afe)**
 
 ---
 

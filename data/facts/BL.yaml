@@ -196,7 +196,7 @@
     corroboration: null
   uncertainty: 数値はガイドライン本文（PMC 全文）で確認した。英国の成人診療の基準であり、日本の診療指針の基準値とは別に扱うこと。出典マスターではこの文献の PMID が未登録のため、PMID 34497146 の補完を取り込み側に提案する
   curriculum:
-    kokushi: null
+    kokushi: 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）
     core_curriculum: 'PS-02-02-03 (id: JkxnuPU)；TBL-02-01-006 (id: JlAKpV0)'
   publication_info:
     created: '2026-10-31'
@@ -208,6 +208,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: BL-007
   domain: BL
   subdomain: 輸血の適応と血液製剤

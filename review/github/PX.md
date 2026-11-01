@@ -29,8 +29,8 @@
 - 条件：region: 国際／対象: 統合失調症の成人（急性期）
 - 不確実性：収載薬剤には国内未承認の薬剤が含まれうる。個別薬剤の国内承認・適応・保険適用は本カードでは確認していない（未確認）。個別疾患での使い方は各疾患のカードの範囲であり、悪性症候群は既存カード（ND-056）で作成済みのため本カードでは扱わない。
 - 出典：Huhn M, Nikolakopoulou A, Schneider-Thoma J, et al. Comparative efficacy and tolerability of 32 oral antipsychotics for the acute treatment of adults with multi-episode schizophrenia: a systematic review and network meta-analysis. Lancet. 2019;394(10202):939-951　[DOI 10.1016/S0140-6736(19)31135-3](https://doi.org/10.1016/S0140-6736(19)31135-3)　[PMID 31303314](https://pubmed.ncbi.nlm.nih.gov/31303314/)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-17-04 (id: JkxnuT4)；TBL-02-16-017 (id: JuX-PEs)；PS-02-17-05 (id: JkxnuT8)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PX-002&card_id=PX-002&version=f6b7cb6ec0)　（版 `f6b7cb6ec0`）
+- 出題基準：医学各論 Ⅱ-2-B-①（妄想型統合失調症、a）；医学各論 Ⅱ-2-B-②（破瓜型統合失調症、a）；医学各論 Ⅱ-2-B-③（緊張型統合失調症、a）　コアカリ：PS-02-17-04 (id: JkxnuT4)；TBL-02-16-017 (id: JuX-PEs)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PX-002&card_id=PX-002&version=502e20857f)　（版 `502e20857f`）
 
 ### PX-003　下書き（出典の照合前）
 
@@ -39,10 +39,10 @@
 - 条件：region: 国際／対象: 大うつ病性障害の成人（急性期）
 - 不確実性：本出典は第51回で登録済みの既存出典（SRC-3628）であり、新しい番号は付けていない。収載21剤には国内未承認の薬剤が含まれ、国内で使用できる抗うつ薬とその適応は薬剤ごとに異なる。個別薬剤の国内承認・適応の確認は各疾患のカードの範囲とする。
 - 出典：Cipriani A, Furukawa TA, Salanti G, et al. Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis. Lancet. 2018;391(10128):1357-1366　[DOI 10.1016/S0140-6736(17)32802-7](https://doi.org/10.1016/S0140-6736(17)32802-7)　[PMID 29477251](https://pubmed.ncbi.nlm.nih.gov/29477251/)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-17-04 (id: JkxnuT4)；TBL-02-16-017 (id: JuX-PEs)；PS-02-17-05 (id: JkxnuT8)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PX-003&card_id=PX-003&version=d3b463703e)　（版 `d3b463703e`）
+- 出題基準：医学各論 Ⅱ-2-A-①（うつ病、a）　コアカリ：PS-02-17-04 (id: JkxnuT4)；TBL-02-16-017 (id: JuX-PEs)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PX-003&card_id=PX-003&version=922e51758c)　（版 `922e51758c`）
 
-**[ここまでの 2 件（PX-002〜PX-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PX-002%E3%80%9CPX-003&cards=PX-002%20f6b7cb6ec0%0APX-003%20d3b463703e)**
+**[ここまでの 2 件（PX-002〜PX-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PX-002%E3%80%9CPX-003&cards=PX-002%20502e20857f%0APX-003%20922e51758c)**
 
 ---
 
@@ -167,10 +167,10 @@
 - 条件：region: 国際／対象: 高齢者の認知機能評価
 - 不確実性：認知症そのものの診断・治療と、せん妄そのものの評価は本カードの範囲外である（いずれも既存の疾患別カードが正）。境界情報として、国内の認知症疾患診療ガイドラインは2026年版が現行である。高齢者のうつ病評価の尺度（GDS、Cornell Scale）の原著は未使用の候補として申し送りに残した。
 - 出典：Tsoi KKF, Chan JYC, Hirai HW, Wong SYS, Kwok TCY. Cognitive Tests to Detect Dementia: A Systematic Review and Meta-analysis. JAMA Intern Med. 2015;175(9):1450-1458　[DOI 10.1001/jamainternmed.2015.2152](https://doi.org/10.1001/jamainternmed.2015.2152)　[PMID 26052687](https://pubmed.ncbi.nlm.nih.gov/26052687/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-17-02 (id: JkxnuTw)；PS-02-17-03 (id: JkxnuT0)；TBL-02-16-003 (id: JlAKpy4)；TBL-02-16-012 (id: JlAKpzk)；PS-02-17-05 (id: JkxnuT8)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PX-011&card_id=PX-011&version=6bb3d8b71b)　（版 `6bb3d8b71b`）
+- 出題基準：医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-②（脳血管性認知症、a）；医学各論 Ⅱ-1-A-③（Lewy小体型認知症、a）；医学各論 Ⅱ-1-A-④（前頭側頭葉変性症、b）　コアカリ：PS-02-17-02 (id: JkxnuTw)；PS-02-17-03 (id: JkxnuT0)；TBL-02-16-003 (id: JlAKpy4)；TBL-02-16-012 (id: JlAKpzk)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PX-011&card_id=PX-011&version=0860cee277)　（版 `0860cee277`）
 
-**[ここまでの 1 件（PX-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PX-011&cards=PX-011%206bb3d8b71b)**
+**[ここまでの 1 件（PX-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PX-011&cards=PX-011%200860cee277)**
 
 ---
 

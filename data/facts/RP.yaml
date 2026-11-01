@@ -22,7 +22,7 @@
   uncertainty: FIGOの定義は国際的な合意に基づくものであり、日本の診療で用いられる月経異常の定義（日本産科婦人科学会の用語集など）と細部が異なる可能性がある。日本の定義との対応は本調査では未確認である。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-021 (id: JlAKppQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅷ-8-D-②（機能性子宮出血、a）；医学各論 Ⅷ-8-B-②（過多月経、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅷ-8-D-②（機能性子宮出血、a）；医学各論 Ⅷ-8-B-②（過多月経、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: RP-002
   domain: RP
   subdomain: 視床下部・下垂体・卵巣系の調節
@@ -57,7 +60,7 @@
   uncertainty: WHOの排卵障害分類は不妊診療の文脈で用いられる分類であり、月経異常の原因分類（PALM-COEINのAUB-Oなど）とは目的が異なる。GnRHパルス頻度の具体的な数値は出典の抄録では確認できなかったため主張に含めていない。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)'
-    kokushi: null
+    kokushi: 医学各論 Ⅷ-8-A-①（視床下部性無月経、a）；医学各論 Ⅷ-8-A-③（卵巣性無月経、b）；医学各論 Ⅷ-8-D-⑥（多囊胞性卵巣症候群<PCOS>、b）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -68,6 +71,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅷ-8-A-①（視床下部性無月経、a）；医学各論 Ⅷ-8-A-③（卵巣性無月経、b）；医学各論 Ⅷ-8-D-⑥（多囊胞性卵巣症候群<PCOS>、b）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: RP-003
   domain: RP
   subdomain: 子宮内膜の周期性変化
@@ -667,7 +673,7 @@
   uncertainty: 出典は機能性視床下部性無月経に特化したガイドラインであり、初期検査の項目立てはその文脈に基づく。月経異常全般に対する日本の検査指針との対応は未確認である。各ホルモンの基準値や測定のタイミング（周期何日目か）の詳細は主張に含めていない。AMHなどの検査の日本での保険適用の状況は未確認である。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)'
-    kokushi: null
+    kokushi: 医学各論 Ⅷ-8-A-①（視床下部性無月経、a）；医学各論 Ⅷ-8-A-②（下垂体性無月経、b）；医学各論 Ⅷ-8-A-③（卵巣性無月経、b）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -678,6 +684,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅷ-8-A-①（視床下部性無月経、a）；医学各論 Ⅷ-8-A-②（下垂体性無月経、b）；医学各論 Ⅷ-8-A-③（卵巣性無月経、b）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: RP-020
   domain: RP
   subdomain: 卵巣の構造と加齢変化（基礎）
@@ -702,7 +711,7 @@
   uncertainty: 卵胞数の具体的な数（出生時・思春期・閉経時の残存数）は出典の抄録では確認できなかったため主張に含めていない。卵巣予備能検査による自然妊娠や閉経年齢の予測精度には限界があることが出典でも指摘されている。出典のライセンス表示は確認できなかった。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)'
-    kokushi: null
+    kokushi: 医学各論 Ⅷ-9-A（更年期障害、a）；医学各論 Ⅷ-8-E-①（女性不妊症、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -713,6 +722,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅷ-9-A（更年期障害、a）；医学各論 Ⅷ-8-E-①（女性不妊症、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: RP-021
   domain: RP
   subdomain: 排卵障害
@@ -1207,7 +1219,7 @@
   uncertainty: 本出典の対象は抗レトロウイルス薬との相互作用に限られ、抗てんかん薬やリファンピシン系抗菌薬など他の酵素誘導薬との相互作用は扱っていないため、主張はその範囲に限った。国内のホルモン避妊薬の承認・保険適用の状況は未確認である。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)'
-    kokushi: null
+    kokushi: 医学各論 Ⅷ-8-F（避妊、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -1218,6 +1230,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅷ-8-F（避妊、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: RP-035
   domain: RP
   subdomain: 手術療法
@@ -1242,7 +1257,7 @@
   uncertainty: レビューの対象は、腔外の3cm未満の筋腫を除き既知の子宮病変のない過多月経であり、器質的疾患がある場合は適応が異なる。国内での子宮内膜アブレーションの実施状況や保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】子宮内膜アブレーションは2012年4月に保険収載され（K863-3 子宮鏡下子宮内膜焼灼術、マイクロ波子宮内膜アブレーションを含む）、過多月経に対して保険診療で実施されている（マイクロ波手術研究会の実施要項、診療報酬資料）。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅷ-8-B-②（過多月経、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -1256,6 +1271,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅷ-8-B-②（過多月経、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: RP-036
   domain: RP
   subdomain: 性分化疾患
@@ -1423,7 +1441,7 @@
   uncertainty: 甲状腺ホルモン製剤や抗甲状腺薬の国内承認・保険適用は未確認である。TSH などの基準値や、自己免疫性甲状腺疾患と不妊治療成績の関係の数値は、確認した範囲を超えるため主張には含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】レボチロキシン（チラーヂンS）、チアマゾール（メルカゾール）、プロピルチオウラシル（プロパジール）はいずれも長期に承認されている医薬品。「未確認」は解消できる
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)'
-    kokushi: null
+    kokushi: 医学各論 Ⅹ-2-A-①（甲状腺機能亢進症、a）；医学各論 Ⅹ-2-A-②（甲状腺機能低下症、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -1437,6 +1455,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-2-A-①（甲状腺機能亢進症、a）；医学各論 Ⅹ-2-A-②（甲状腺機能低下症、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: RP-041
   domain: RP
   subdomain: 避妊法の総論
@@ -1636,7 +1657,7 @@
   uncertainty: 日本産科婦人科学会による閉経の定義の文言そのものは本出典では確認しておらず、STRAW+10 の枠組みに基づく記述である。若年での無月経など、ホルモン測定を要する場面の詳細は扱っていない。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)'
-    kokushi: null
+    kokushi: 医学各論 Ⅷ-9-A（更年期障害、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -1647,6 +1668,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅷ-9-A（更年期障害、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: RP-047
   domain: RP
   subdomain: 更年期の生理
@@ -1671,7 +1695,7 @@
   uncertainty: 各ホルモンの具体的な数値基準は本文の段階表に依存し、本カードでは確認した範囲（月経基準と変化の方向）にとどめた。各段階の持続期間の詳細は入れていない。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)'
-    kokushi: null
+    kokushi: 医学各論 Ⅷ-9-A（更年期障害、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -1682,6 +1706,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅷ-9-A（更年期障害、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: RP-048
   domain: RP
   subdomain: 更年期障害の病態と症状
@@ -2234,7 +2261,7 @@
   uncertainty: 評価開始の目安のうち「乳房発育の開始から5年」は、本出典（2013年）の本文の記載による。元のカードの「3年」は本出典では確認できなかったため、出典の記載どおり5年とした。評価時期の基準は、資料の発行年や発行団体により異なる可能性がある。Am Fam Physician はDOIを付与していないためDOIはnullとした。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-021 (id: JlAKppQ)；TBL-02-09-022 (id: JlAKppU)'
-    kokushi: null
+    kokushi: 医学各論 Ⅷ-8-A-③（卵巣性無月経、b）；医学各論 Ⅷ-8-A-④（子宮性無月経、b）；医学各論 Ⅰ-4-A-②（Turner症候群、b）；医学各論 Ⅰ-4-B-①（腟欠損症、Mayer-Rokitansky-Küster-Hauser<MRKH>症候群、b）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -2245,6 +2272,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅷ-8-A-③（卵巣性無月経、b）；医学各論 Ⅷ-8-A-④（子宮性無月経、b）；医学各論 Ⅰ-4-A-②（Turner症候群、b）；医学各論 Ⅰ-4-B-①（腟欠損症、Mayer-Rokitansky-Küster-Hauser<MRKH>症候群、b）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: RP-066
   domain: RP
   subdomain: 続発性無月経

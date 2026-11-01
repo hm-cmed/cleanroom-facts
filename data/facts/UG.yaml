@@ -22,7 +22,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -39,6 +39,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「© ACG」：制限的な記載（©）を含む。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: UG-002
   domain: UG
   subdomain: null
@@ -60,7 +63,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -77,6 +80,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「© ACG」：制限的な記載（©）を含む。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: UG-003
   domain: UG
   subdomain: null
@@ -102,7 +108,7 @@
   uncertainty: 心血管疾患合併例の具体的な閾値（8 g/dL等）は要確認
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -119,6 +125,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「© ACG」：制限的な記載（©）を含む。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: UG-004
   domain: UG
   subdomain: null
@@ -139,7 +148,7 @@
   uncertainty: PMIDはPubMedの検索結果で確認。DOIは要確認｜［取り込み時］DOIは原本で「要確認」のためnull
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -156,6 +165,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 識別子を null 化：DOIは原本で「要確認」のためnull
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: UG-005
   domain: UG
   subdomain: null
@@ -176,7 +188,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -193,6 +205,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「© ACG」：制限的な記載（©）を含む。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: UG-006
   domain: UG
   subdomain: null
@@ -216,7 +231,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -233,6 +248,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「Wiley標準条件／未確認」：制限的な記載（Wiley）を含む。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: UG-007
   domain: UG
   subdomain: null
@@ -256,7 +274,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -273,6 +291,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「Wiley標準条件」：制限的な記載（Wiley）を含む。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: UG-008
   domain: UG
   subdomain: null
@@ -296,7 +317,7 @@
   uncertainty: 日本での保険適用外使用である点を要確認
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -313,6 +334,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B を legal_basis に移行。source_class=UNKNOWN（source_license「未確認」：未確認・要確認の記載を含む。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: UG-009
   domain: UG
   subdomain: null
@@ -336,7 +360,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -353,6 +377,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「未確認／© ACG」：制限的な記載（©）を含む。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: UG-010
   domain: UG
   subdomain: null
@@ -377,7 +404,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -394,6 +421,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B を legal_basis に移行。source_class=UNKNOWN（source_license「未確認」：未確認・要確認の記載を含む。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: UG-011
   domain: UG
   subdomain: null
@@ -414,7 +444,7 @@
   uncertainty: 今回取得した資料では文言を確認できていない。要確認
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -431,6 +461,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「未確認／© ACG」：制限的な記載（©）を含む。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: UG-012
   domain: UG
   subdomain: null
@@ -452,7 +485,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -469,6 +502,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B を legal_basis に移行。source_class=OPEN（source_license「CC BY 4.0」：CC BY / CC0 のみ。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: UG-013
   domain: UG
   subdomain: null
@@ -493,7 +529,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -510,6 +546,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B を legal_basis に移行。source_class=OPEN（source_license「CC BY 4.0（引用元）」：CC BY / CC0 のみ。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: UG-014
   domain: UG
   subdomain: null
@@ -531,7 +570,7 @@
   uncertainty: 原文の推奨強度は要確認
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -548,6 +587,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B を legal_basis に移行。source_class=RESTRICTED（source_license「© ACG」：制限的な記載（©）を含む。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: UG-015
   domain: UG
   subdomain: null
@@ -570,7 +612,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -587,6 +629,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B を legal_basis に移行。source_class=UNKNOWN（source_license「未確認」：未確認・要確認の記載を含む。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: UG-016
   domain: UG
   subdomain: null
@@ -611,7 +656,7 @@
   uncertainty: 最新版での再開時期（即時／3日以内等）は要確認
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -628,6 +673,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B を legal_basis に移行。source_class=UNKNOWN（source_license「未確認」：未確認・要確認の記載を含む。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: UG-017
   domain: UG
   subdomain: null
@@ -651,7 +699,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -668,6 +716,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B を legal_basis に移行。source_class=UNKNOWN（source_license「未確認」：未確認・要確認の記載を含む。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: UG-018
   domain: UG
   subdomain: null
@@ -689,7 +740,7 @@
   uncertainty: null
   curriculum:
     core_curriculum: null
-    kokushi: null
+    kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
   publication_info:
     created: '2026-10-10'
     verifier: null
@@ -706,3 +757,6 @@
   - date: '2026-10-12'
     by: claude-code
     change: basis_tag B を legal_basis に移行。source_class=UNKNOWN（source_license「未確認」：未確認・要確認の記載を含む。CLAUDE.md 2-3 パイロット規則）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による

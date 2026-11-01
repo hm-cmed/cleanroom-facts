@@ -256,10 +256,10 @@
 - よくある誤解：間質性肺疾患では呼吸リハビリテーションの効果は期待できない
 - 不確実性：米国の指針。肺癌の切除前後と肺移植は指針の範囲外。COPD の呼吸リハビリテーションの詳細は第11回（RO）の範囲。DOI は本文に記載がなく未確認
 - 出典：Rochester CL, Alison JA, Carlin B, et al. Pulmonary Rehabilitation for Adults with Chronic Respiratory Disease: An Official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med 2023;208(4):e7-e26　[リンク](https://documentserver.uhasselt.be/bitstream/1942/41607/1/Pulmonary%20Rehabilitation%20for%20Adults%20with%20Chronic%20Respiratory%20Disease_%20An%20Official%20American%20Thoracic%20Society%20Clinical%20Practice%20Guideline.pdf)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-07-04 (id: JkxnuRA)；TBL-02-06-025 (id: JlAKpig)；TBL-01-00-215 (id: JlvnlyE)；TBL-01-00-218 (id: JlvnlyY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-020&card_id=RX-020&version=9cee3deb57)　（版 `9cee3deb57`）
+- 出題基準：医学各論 Ⅳ-2-C-①（慢性閉塞性肺疾患<COPD>、喘息COPDオーバーラップ<ACO>、a）；医学各論 Ⅳ-5-C-②（肺動脈性肺高血圧症、b）；医学各論 Ⅳ-4-A-①（特発性肺線維症<IPF>、a）　コアカリ：PS-02-07-04 (id: JkxnuRA)；TBL-02-06-025 (id: JlAKpig)；TBL-01-00-215 (id: JlvnlyE)；TBL-01-00-218 (id: JlvnlyY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-020&card_id=RX-020&version=efd49ef3c6)　（版 `efd49ef3c6`）
 
-**[ここまでの 1 件（RX-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RX-020&cards=RX-020%209cee3deb57)**
+**[ここまでの 1 件（RX-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RX-020&cards=RX-020%20efd49ef3c6)**
 
 ---
 
@@ -272,8 +272,8 @@
 - 条件：region: 日本
 - 不確実性：令和4年の調査。令和5年以降の調査で喫煙の項目が公表されているかは未確認。加熱式たばこの使用割合はこの資料に記載がない
 - 出典：厚生労働省. 令和4年国民健康・栄養調査結果の概要（2024年8月28日公表）　[リンク](https://www.mhlw.go.jp/content/10901000/001325269.pdf)（区分 GOV_JP）
-- 出題基準：－　コアカリ：PS-02-07-05 (id: JkxnuRE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-021&card_id=RX-021&version=6506c96275)　（版 `6506c96275`）
+- 出題基準：医学各論 ⅩⅢ-3-A-①（タバコ煙中の有害物質、未成年者の喫煙、受動喫煙、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-021&card_id=RX-021&version=b6b4a79437)　（版 `b6b4a79437`）
 
 ### RX-022　下書き（出典の照合前）
 
@@ -282,8 +282,8 @@
 - 条件：region: 日本
 - 不確実性：令和4年の調査
 - 出典：厚生労働省. 令和4年国民健康・栄養調査結果の概要（2024年8月28日公表）　[リンク](https://www.mhlw.go.jp/content/10901000/001325269.pdf)（区分 GOV_JP）
-- 出題基準：－　コアカリ：PS-02-07-05 (id: JkxnuRE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-022&card_id=RX-022&version=4205f5d82b)　（版 `4205f5d82b`）
+- 出題基準：医学各論 ⅩⅢ-3-A-①（タバコ煙中の有害物質、未成年者の喫煙、受動喫煙、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-022&card_id=RX-022&version=09a4f5fd54)　（版 `09a4f5fd54`）
 
 ### RX-023　下書き（出典の照合前）
 
@@ -293,10 +293,10 @@
 - よくある誤解：禁煙治療を保険で受けるには、年齢にかかわらず喫煙指数200以上が必要である
 - 不確実性：平成28年度改定時点の中医協資料。TDS の判定点数（5点以上）は資料に記載がなく主張文に含めていない。令和6年度改定後の要件、加熱式たばこの扱い、バレニクリンの供給状況は未確認
 - 出典：厚生労働省. 中央社会保険医療協議会 検-4-2参考「平成28年度診療報酬改定 重症化予防の取組の推進②（ニコチン依存症管理料の対象患者の拡大）」（平成29年11月10日）　[リンク](https://www.mhlw.go.jp/file/05-Shingikai-12404000-Hokenkyoku-Iryouka/0000184204.pdf)（区分 GOV_JP）
-- 出題基準：－　コアカリ：PS-02-07-04 (id: JkxnuRA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-023&card_id=RX-023&version=266fdec049)　（版 `266fdec049`）
+- 出題基準：医学各論 ⅩⅢ-3-B-①（タバコ依存、a）　コアカリ：PS-02-07-04 (id: JkxnuRA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-023&card_id=RX-023&version=1e0167c77e)　（版 `1e0167c77e`）
 
-**[ここまでの 3 件（RX-021〜RX-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RX-021%E3%80%9CRX-023&cards=RX-021%206506c96275%0ARX-022%204205f5d82b%0ARX-023%20266fdec049)**
+**[ここまでの 3 件（RX-021〜RX-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RX-021%E3%80%9CRX-023&cards=RX-021%20b6b4a79437%0ARX-022%2009a4f5fd54%0ARX-023%201e0167c77e)**
 
 ---
 

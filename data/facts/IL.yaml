@@ -1686,7 +1686,8 @@
   subdomain: 悪性リンパ腫、白血病
   assertion:
     plain_statement_ja: 原発性肺リンパ腫は肺腫瘍の1%未満を占めるまれなリンパ腫で、肺にみられるリンパ腫の大半は全身性リンパ腫の二次性肺病変である。原発性肺リンパ腫の内訳はMALTリンパ腫が70〜90%と最も多く、次いでびまん性大細胞型B細胞リンパ腫が10〜20%を占める。約半数は無症状で画像の異常を契機に見つかり、MALTリンパ腫の5年全生存率は80%を超える。
-    condition: null
+    condition:
+      region: 国際
     differential: null
     common_misconception: 肺にみられるリンパ腫の多くは原発性である
   provenance:
@@ -1714,12 +1715,16 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。condition が空だったので新設した）。三原の承認による
 - id: IL-050
   domain: IL
   subdomain: Langerhans細胞組織球症
   assertion:
     plain_statement_ja: 肺Langerhans細胞組織球症は主に喫煙する若年成人に起こり、細気管支周囲にできた星芒状の結節が空洞化して厚壁・薄壁の嚢胞へと進む。高分解能CTでは上・中肺野に優位で肺底部が比較的保たれる結節と嚢胞の混在が特徴で、初期は結節優位、後期は嚢胞優位になる。治療の基本は禁煙である。
-    condition: null
+    condition:
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -1747,6 +1752,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。condition が空だったので新設した）。三原の承認による
 - id: IL-051
   domain: IL
   subdomain: アミロイドーシス
@@ -1787,7 +1795,8 @@
   subdomain: 特発性器質化肺炎
   assertion:
     plain_statement_ja: 特発性器質化肺炎（COP）は、感染・薬剤・膠原病などの原因が特定できない器質化肺炎で、典型的には呼吸困難と咳嗽で発症し、画像では多発性の斑状の肺胞陰影を示す。確定診断は肺生検で遠位気腔内に肉芽組織の芽を確認することによる。副腎皮質ステロイドが速やかに効くが、減量や中止の際に再発が多い。
-    condition: null
+    condition:
+      region: 国際
     differential: null
     common_misconception: 細菌性肺炎であり抗菌薬が有効である
   provenance:
@@ -1815,6 +1824,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。condition が空だったので新設した）。三原の承認による
 - id: IL-053
   domain: IL
   subdomain: 化学薬品、重金属などによる肺障害
@@ -1857,6 +1869,7 @@
     plain_statement_ja: 酸素の肺毒性は吸入酸素分画と曝露時間で決まり、1気圧では吸入酸素分画が0.60を超える酸素を24時間を超えて投与すると肺に毒性が生じうる。肺毒性の経過は気管気管支炎、ARDS、肺の間質性線維化の段階をとり、毒性を抑える目安として吸入酸素分画を0.40〜0.5未満に保つことが挙げられる。
     condition:
       pressure: 1気圧（常圧）
+      region: 国際
     differential: null
     common_misconception: null
   provenance:
@@ -1884,6 +1897,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
 - id: IL-055
   domain: IL
   subdomain: パラコート中毒
@@ -1923,7 +1939,8 @@
   subdomain: 肺胞微石症
   assertion:
     plain_statement_ja: 肺胞微石症は、SLC34A2遺伝子の機能喪失型変異による常染色体劣性遺伝疾患で、肺胞内にリン酸カルシウムの微小結石が広範に沈着し、世界で約1,100例が報告されている。胸部画像では砂嵐様のびまん性微小石灰化が特徴で、画像所見の広がりに比べて症状が軽いという乖離が大きい。根治的な治療はなく、一部の進行例では肺移植が必要になる。
-    condition: null
+    condition:
+      region: 国際
     differential: null
     common_misconception: 血清カルシウムやリンの異常が原因である
   provenance:
@@ -1951,6 +1968,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。condition が空だったので新設した）。三原の承認による
 - id: IL-057
   domain: IL
   subdomain: 悪性リンパ腫、白血病
@@ -2154,7 +2174,7 @@
   assertion:
     plain_statement_ja: 好酸球性肺炎は、肺組織や気管支肺胞洗浄（BAL）液への好酸球の著明な集積を特徴とする疾患群で、主要な病型は急性好酸球性肺炎（AEP）と慢性好酸球性肺炎（CEP）である。AEP は喫煙の開始・再開・増量といった喫煙習慣の変化や、粉塵などの吸入曝露と関連することが多く、発熱・咳嗽・呼吸困難が急性に出現して数日で進み、低酸素血症や呼吸不全を来しうる。初診時の末梢血好酸球増多は約3割の症例にとどまる一方、BAL では好酸球が通常40%を超え、診断には BAL 好酸球25%超などが目安とされる。画像では両側のすりガラス影と浸潤影、小葉間隔壁の肥厚がみられ、胸水を伴うことが多い。副腎皮質ステロイドに速やかに反応し、軽度の低酸素血症の症例では自然軽快もみられ、禁煙すれば再発は通常ない。CEP は数か月にわたり咳嗽や呼吸困難が遷延する病型で、女性に多く（男性の約2倍）、アレルギー疾患の合併が半数を超える。末梢血好酸球増多と IgE の上昇が多くの症例でみられ、BAL の好酸球は平均40〜60%で、画像では末梢側に優位な浸潤影が特徴的である。治療の中心は副腎皮質ステロイドで、プレドニゾロン換算で体重1 kgあたり0.5 mg程度から開始し6〜12か月かけて漸減するが、自然軽快は1割未満とまれで、再発が頻繁にみられる。両病型とも、薬剤や寄生虫・真菌などの感染といった既知の原因による二次性の好酸球性肺炎を除外して診断する。
     condition:
-      region: null
+      region: 国際
       対象: 成人
     differential: null
     common_misconception: null
@@ -2183,3 +2203,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による

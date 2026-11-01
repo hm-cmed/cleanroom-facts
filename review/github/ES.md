@@ -106,13 +106,13 @@
 
 > Lyon consensus 2.0では、酸分泌抑制薬を中止して行う逆流モニタリングで、酸曝露時間（AET）が6%を超えればGERDの確定的根拠、4%未満なら生理的範囲、4〜6%は判定保留とする。内視鏡ではLA分類B以上の逆流性食道炎も確定的根拠とされた。
 
-- 条件：24時間pH（・インピーダンス）検査、または延長ワイヤレスpH検査（2日以上で基準を満たす）
+- 条件：対象: 24時間pH（・インピーダンス）検査、または延長ワイヤレスpH検査（2日以上で基準を満たす）／region: 国際
 - 鑑別・補足：逆流過敏性食道、機能性胸やけ
 - よくある誤解：LA分類Aは単独ではGERDの確定根拠にならない
 - 不確実性：アジアでAET 4%超を確定閾値とする提案は、Wong & Chen, Gut Liver 2025（PMID 40905050）およびAliment Pharmacol Ther誌のレター（DOI 10.1111/apt.70755）による。Lyon 2.0本体のPMIDは未取得
 - 出典：Gyawali CP, et al. Updates to the modern diagnosis of GERD: Lyon consensus 2.0. Gut 2024;73(2):361-371　[DOI 10.1136/gutjnl-2023-330616](https://doi.org/10.1136/gutjnl-2023-330616)　[PMID 37734911](https://pubmed.ncbi.nlm.nih.gov/37734911/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-009&card_id=ES-009&version=afcb5d3154)　（版 `afcb5d3154`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-009&card_id=ES-009&version=6c1961acd4)　（版 `6c1961acd4`）
 
 ### ES-010　出典照合済み・監修待ち
 
@@ -126,7 +126,7 @@
 - 出題基準：医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-010&card_id=ES-010&version=ab6bb937d7)　（版 `ab6bb937d7`）
 
-**[ここまでの 10 件（ES-001〜ES-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-001%E3%80%9CES-010&cards=ES-001%20702f2b2548%0AES-002%20217db10c7a%0AES-003%20c1d0538a48%0AES-004%20c6c7411190%0AES-005%2049fdf8c169%0AES-006%206f6609c429%0AES-007%20ac7444426f%0AES-008%206af43e3303%0AES-009%20afcb5d3154%0AES-010%20ab6bb937d7)**
+**[ここまでの 10 件（ES-001〜ES-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-001%E3%80%9CES-010&cards=ES-001%20702f2b2548%0AES-002%20217db10c7a%0AES-003%20c1d0538a48%0AES-004%20c6c7411190%0AES-005%2049fdf8c169%0AES-006%206f6609c429%0AES-007%20ac7444426f%0AES-008%206af43e3303%0AES-009%206c1961acd4%0AES-010%20ab6bb937d7)**
 
 ---
 
@@ -218,15 +218,15 @@
 
 > 薬物抵抗性GERDに対するARMSとESD-Gは、2022年4月の診療報酬改定で「内視鏡的逆流防止粘膜切除術」（K653-6、12,000点）として保険収載された。
 
-- 条件：国内の保険診療
+- 条件：対象: 国内の保険診療／region: 日本
 - 鑑別・補足：腹腔鏡下噴門形成術（Nissen法・Toupet法）、ARMA（APC焼灼）
 - よくある誤解：ARMAが同じ点数で収載されているかは別途確認が必要
 - 不確実性：low（令和8年版点数表でも12,000点）
 - 出典：診療報酬点数表 K653-6（令和4年新設）　[リンク](https://www.jstage.jst.go.jp/article/gee/65/6/65_1085/_html/-char/ja)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-093&card_id=ES-093&version=060583fa34)　（版 `060583fa34`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-093&card_id=ES-093&version=b8fd6c4e81)　（版 `b8fd6c4e81`）
 
-**[ここまでの 8 件（ES-011〜ES-093）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-011%E3%80%9CES-093&cards=ES-011%2064e32ef016%0AES-012%2045ee4b913b%0AES-013%2073df396574%0AES-014%20b4c661ff19%0AES-015%20b80b5517d5%0AES-016%20c1480ee0ef%0AES-017%20d96ac087ab%0AES-093%20060583fa34)**
+**[ここまでの 8 件（ES-011〜ES-093）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-011%E3%80%9CES-093&cards=ES-011%2064e32ef016%0AES-012%2045ee4b913b%0AES-013%2073df396574%0AES-014%20b4c661ff19%0AES-015%20b80b5517d5%0AES-016%20c1480ee0ef%0AES-017%20d96ac087ab%0AES-093%20b8fd6c4e81)**
 
 ---
 
@@ -296,51 +296,51 @@
 
 > 12歳以上の好酸球性食道炎で、デュピルマブ300mgの週1回皮下投与は、プラセボに比べ24週時の組織学的寛解率を高め、嚥下障害の症状スコアを改善した。
 
-- 条件：生検で確定したEoE（好酸球15/HPF以上）
+- 条件：対象: 生検で確定したEoE（好酸球15/HPF以上）／region: 国際
 - 鑑別・補足：PPI、局所ステロイド、食物除去
 - よくある誤解：隔週投与でも同等の症状改善が示されたわけではない
 - 不確実性：本文未閲覧。症状スコアの数値は未確認
 - 出典：Dellon ES, et al. NEJM 2022;387:2317-2330　[DOI 10.1056/NEJMoa2205982](https://doi.org/10.1056/NEJMoa2205982)　[PMID 36546624](https://pubmed.ncbi.nlm.nih.gov/36546624/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-023&card_id=ES-023&version=9b111fa990)　（版 `9b111fa990`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-023&card_id=ES-023&version=2a831e0bb7)　（版 `2a831e0bb7`）
 
 ### ES-024　下書き（出典の照合前）
 
 > デュピルマブは米国FDAで2022年5月20日に12歳以上（体重40kg以上）のEoEに承認され、2024年1月に1〜11歳（体重15kg以上）へ適応が拡大された。日本では今回の調査でEoEへの承認の記録を確認できなかった。
 
-- 条件：国内の薬事承認状況
+- 条件：対象: 国内の薬事承認状況／region: 日本
 - 鑑別・補足：国内で既承認のアトピー性皮膚炎、喘息、COPDなど
 - よくある誤解：海外で承認されていても国内で保険適用されるとは限らない
 - 不確実性：PMDA添付文書の効能・効果欄を全文照合していない。FDA承認日は企業発表で確認したもので、米国政府資料では未照合
 - 出典：デュピクセント 医薬品インタビューフォーム（2026年3月改訂 第20版）、サノフィ国内申請報道　[リンク](https://pro.campus.sanofi/dam/jcr:59fc0e22-fb30-4a68-84c8-25bae10089cf/dupixent_if.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-024&card_id=ES-024&version=ce133ebc63)　（版 `ce133ebc63`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-024&card_id=ES-024&version=812cad0c30)　（版 `812cad0c30`）
 
 ### ES-088　出典照合済み・監修待ち
 
 > EREFSは、EoEの4つの主要な内視鏡所見（浮腫、輪状溝、白斑、縦走溝）と追加所見（狭窄、crepe paper esophagus）を等級化する分類である。修正版では、主要4所見の観察者間一致はκ 0.40〜0.54と良好だった。
 
-- 条件：EoEの内視鏡評価・治療効果判定
+- 条件：対象: EoEの内視鏡評価・治療効果判定／region: 国際
 - 鑑別・補足：カンジダ食道炎の白苔（白斑との鑑別）
 - よくある誤解：内視鏡所見が乏しければEoEは否定できると考える
 - 不確実性：low（抄録で照合）
 - 出典：Hirano I, et al. Endoscopic assessment of the oesophageal features of eosinophilic oesophagitis: validation of a novel classification and grading system. Gut 2013;62:489-495　[DOI 10.1136/gutjnl-2011-301817](https://doi.org/10.1136/gutjnl-2011-301817)　[PMID 22619364](https://pubmed.ncbi.nlm.nih.gov/22619364/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-088&card_id=ES-088&version=083c78b2df)　（版 `083c78b2df`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-088&card_id=ES-088&version=890016f310)　（版 `890016f310`）
 
 ### ES-091　下書き（出典の照合前）
 
 > 日本では、局所ステロイド（嚥下するブデソニドやフルチカゾン）を含め、EoEを効能とする保険適用薬は2024年時点で存在しない。
 
-- 条件：国内の保険診療
+- 条件：対象: 国内の保険診療／region: 日本
 - 鑑別・補足：PPI（EoEの初期治療として用いられる）
 - よくある誤解：吸入ステロイドの嚥下による使用は適応外使用である
 - 不確実性：low〜medium（2026年10月時点の検索でも国内のEoE承認の記録なし。PMDAの承認一覧での直接照合は未了）
 - 出典：慶應義塾大学病院 KOMPAS 好酸球性消化管疾患（2024年5月）　[リンク](https://kompas.hosp.keio.ac.jp/presentation/202405/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-091&card_id=ES-091&version=33cd780d6d)　（版 `33cd780d6d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-091&card_id=ES-091&version=403b6de772)　（版 `403b6de772`）
 
-**[ここまでの 9 件（ES-018〜ES-091）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-018%E3%80%9CES-091&cards=ES-018%2053ecca8685%0AES-019%2063e644243d%0AES-020%203f82d7b35d%0AES-021%204e184286a7%0AES-022%206d7c7ef645%0AES-023%209b111fa990%0AES-024%20ce133ebc63%0AES-088%20083c78b2df%0AES-091%2033cd780d6d)**
+**[ここまでの 9 件（ES-018〜ES-091）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-018%E3%80%9CES-091&cards=ES-018%2053ecca8685%0AES-019%2063e644243d%0AES-020%203f82d7b35d%0AES-021%204e184286a7%0AES-022%206d7c7ef645%0AES-023%202a831e0bb7%0AES-024%20812cad0c30%0AES-088%20890016f310%0AES-091%20403b6de772)**
 
 ---
 
@@ -398,13 +398,13 @@
 
 > Chicago分類v4.0では、DCIが450〜8,000 mmHg·s·cmを正常収縮、100以上450未満を弱収縮、100未満を失敗収縮、8,000超を過収縮とする。遠位潜時（DL）が4.5秒未満でDCIが450以上の収縮を早期（攣縮性）収縮とする。
 
-- 条件：高解像度食道内圧検査（HRM）
+- 条件：対象: 高解像度食道内圧検査（HRM）／region: 国際
 - 鑑別・補足：遠位食道攣縮、III型アカラシア
 - よくある誤解：DL 4.5秒未満でもDCIが450未満なら早期収縮ではなく無効収縮に分類される
 - 不確実性：なし（閾値は本文で確認）
 - 出典：Yadlapati R, et al. Chicago Classification v4.0. Neurogastroenterol Motil 2021　[DOI 10.1111/nmo.14058](https://doi.org/10.1111/nmo.14058)　[PMID 33373111](https://pubmed.ncbi.nlm.nih.gov/33373111/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-A-①（食道アカラシア、b）　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-029&card_id=ES-029&version=bca4c3d4d6)　（版 `bca4c3d4d6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-029&card_id=ES-029&version=17103ab074)　（版 `17103ab074`）
 
 ### ES-030　出典照合済み・監修待ち
 
@@ -422,25 +422,25 @@
 
 > Chicago分類v4.0は、オピオイドがIII型アカラシアと関連するとし、可能であればオピオイドを中止した状態でHRMを行うよう勧めている。EGJ流出路障害（EGJOO）の一部もオピオイド使用に関連する。
 
-- 条件：オピオイド使用中のHRM
+- 条件：対象: オピオイド使用中のHRM／region: 国際
 - 鑑別・補足：原発性アカラシア
 - よくある誤解：内圧所見だけで原発性アカラシアと断定しない
 - 不確実性：low（本文で照合）
 - 出典：Chicago Classification v4.0（PMC8034247）　[DOI 10.1111/nmo.14058](https://doi.org/10.1111/nmo.14058)　[PMID 33373111](https://pubmed.ncbi.nlm.nih.gov/33373111/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-A-①（食道アカラシア、b）　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-031&card_id=ES-031&version=550171b3d4)　（版 `550171b3d4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-031&card_id=ES-031&version=2796779325)　（版 `2796779325`）
 
 ### ES-032　出典照合済み・監修待ち
 
 > アカラシアでは、POEMは腹腔鏡下Heller筋層切開＋Dor噴門形成術に対して2年時の治療成功で非劣性を示した。逆流性食道炎はPOEM群で多かった。
 
-- 条件：症候性アカラシア
+- 条件：対象: 症候性アカラシア／region: 欧州
 - 鑑別・補足：空気圧拡張術
 - よくある誤解：POEMは逆流を起こさない手技ではない
 - 不確実性：本文未閲覧のため数値は主張文に含めない
 - 出典：Werner YB, et al. NEJM 2019;381:2219-2229　[DOI 10.1056/NEJMoa1905380](https://doi.org/10.1056/NEJMoa1905380)　[PMID 31800987](https://pubmed.ncbi.nlm.nih.gov/31800987/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-A-①（食道アカラシア、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-032&card_id=ES-032&version=6ea4a11d01)　（版 `6ea4a11d01`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-032&card_id=ES-032&version=96191d650d)　（版 `96191d650d`）
 
 ### ES-033　出典照合済み・監修待ち
 
@@ -466,7 +466,7 @@
 - 出題基準：医学各論 Ⅵ-1-A-①（食道アカラシア、b）　コアカリ：PS-02-08-04 (id: JkxnuRU)；TBL-02-07-004 (id: JlAKpjc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-034&card_id=ES-034&version=ddd1071bf1)　（版 `ddd1071bf1`）
 
-**[ここまでの 10 件（ES-025〜ES-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-025%E3%80%9CES-034&cards=ES-025%207e97360406%0AES-026%2050f64fb932%0AES-027%20af13ccd8e4%0AES-028%20c7ecbc677b%0AES-029%20bca4c3d4d6%0AES-030%2052ce989043%0AES-031%20550171b3d4%0AES-032%206ea4a11d01%0AES-033%20d0fb6469b2%0AES-034%20ddd1071bf1)**
+**[ここまでの 10 件（ES-025〜ES-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-025%E3%80%9CES-034&cards=ES-025%207e97360406%0AES-026%2050f64fb932%0AES-027%20af13ccd8e4%0AES-028%20c7ecbc677b%0AES-029%2017103ab074%0AES-030%2052ce989043%0AES-031%202796779325%0AES-032%2096191d650d%0AES-033%20d0fb6469b2%0AES-034%20ddd1071bf1)**
 
 ---
 
@@ -476,13 +476,13 @@
 
 > 日本の食道癌は、2023年に25,889例（男性20,977例、女性4,912例）が診断され、2024年に10,638人（男性8,572人、女性2,066人）が死亡した。罹患・死亡とも男性が約4倍多い。
 
-- 条件：全国がん登録（罹患）、人口動態統計（死亡）
+- 条件：対象: 全国がん登録（罹患）、人口動態統計（死亡）／region: 日本
 - 鑑別・補足：胃癌（2023年罹患104,864例）
 - よくある誤解：予測値（2025年の罹患予測26,900例）と実測値を混同しない
 - 不確実性：ganjoho.jpの利用規約の確認が残る（数値の利用のみ）
 - 出典：国立がん研究センター がん情報サービス 食道（罹患2026年3月23日更新、死亡2026年1月7日更新）　[リンク](https://ganjoho.jp/reg_stat/statistics/stat/cancer/4_esophagus.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-035&card_id=ES-035&version=df022f8fe2)　（版 `df022f8fe2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-035&card_id=ES-035&version=1c8f333ebf)　（版 `1c8f333ebf`）
 
 ### ES-037　出典照合済み・監修待ち
 
@@ -592,7 +592,7 @@
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-046&card_id=ES-046&version=9abe8479c7)　（版 `9abe8479c7`）
 
-**[ここまでの 10 件（ES-035〜ES-046）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-035%E3%80%9CES-046&cards=ES-035%20df022f8fe2%0AES-037%20bec48ad562%0AES-038%20b83c5b10a2%0AES-039%204dd5626244%0AES-040%20537b8edece%0AES-041%208d5fa6e857%0AES-043%207c29248ee6%0AES-044%20c124023fe4%0AES-045%204a45eea6d7%0AES-046%209abe8479c7)**
+**[ここまでの 10 件（ES-035〜ES-046）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-035%E3%80%9CES-046&cards=ES-035%201c8f333ebf%0AES-037%20bec48ad562%0AES-038%20b83c5b10a2%0AES-039%204dd5626244%0AES-040%20537b8edece%0AES-041%208d5fa6e857%0AES-043%207c29248ee6%0AES-044%20c124023fe4%0AES-045%204a45eea6d7%0AES-046%209abe8479c7)**
 
 ---
 
@@ -624,13 +624,13 @@
 
 > 切除可能な局所進行食道扁平上皮癌の術前療法として、ドセタキセルを加えた3剤併用（DCF）はシスプラチン＋5-FU（CF）より全生存を改善した。CFに放射線を加えた群（CF-RT）はCFに対する生存上の優越性を示さなかった。登録は601例（2012年12月〜2018年7月、1:1:1割付）。
 
-- 条件：cStage IB〜III（UICC第7版）の切除可能な食道扁平上皮癌
+- 条件：対象: cStage IB〜III（UICC第7版）の切除可能な食道扁平上皮癌／region: 日本
 - 鑑別・補足：術前化学放射線療法（欧米の標準）
 - よくある誤解：放射線を加えれば必ず生存が延びるわけではない
 - 不確実性：有害事象の割合はニュース照合のみのため主張文に含めない
 - 出典：Kato K, et al. JCOG1109 NExT. Lancet 2024;404(10447):55-66　[DOI 10.1016/S0140-6736(24)00745-1](https://doi.org/10.1016/S0140-6736(24)00745-1)　[PMID 38876133](https://pubmed.ncbi.nlm.nih.gov/38876133/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-049&card_id=ES-049&version=e7556ccf63)　（版 `e7556ccf63`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-049&card_id=ES-049&version=44dd577d87)　（版 `44dd577d87`）
 
 ### ES-050　下書き（出典の照合前）
 
@@ -648,25 +648,25 @@
 
 > 術前化学放射線療法と切除の後に病理学的残存病変がある食道癌・食道胃接合部癌で、術後ニボルマブはプラセボに比べて無病生存期間を延長した（中央値22.4か月対11.0か月）。最終解析の全生存は統計学的有意差に達しなかった。
 
-- 条件：術前CRT後に病理学的完全奏効が得られなかった切除例
+- 条件：対象: 術前CRT後に病理学的完全奏効が得られなかった切除例／region: 国際
 - 鑑別・補足：日本の標準である術前化学療法（DCF）後の症例は対象外
 - よくある誤解：DFSの改善がそのまま全生存の有意な延長を意味するわけではない
 - 不確実性：PMIDは照合不能のため削除。OSの数値はASCO抄録（Kelly RJ, JCO 2025;43(16_suppl):4000, DOI 10.1200/JCO.2025.43.16_suppl.4000）で確認：中央値51.7対35.3か月、HR 0.85（95.87%CI 0.70–1.04）。5年OS 46%対41%は未確認
 - 出典：Kelly RJ, et al. CheckMate 577. NEJM 2021;384:1191-1203。OS: JCO 2025;43(16_suppl):4000　[DOI 10.1056/NEJMoa2032125](https://doi.org/10.1056/NEJMoa2032125)　[PMID 33789008](https://pubmed.ncbi.nlm.nih.gov/33789008/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-051&card_id=ES-051&version=dbf7d2c428)　（版 `dbf7d2c428`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-051&card_id=ES-051&version=98ff180b41)　（版 `98ff180b41`）
 
 ### ES-052　出典照合済み・監修待ち
 
 > 切除不能な進行・再発食道扁平上皮癌の一次治療で、ニボルマブ＋化学療法とニボルマブ＋イピリムマブは、化学療法単独に比べて全生存を延長した。
 
-- 条件：未治療の進行食道扁平上皮癌
+- 条件：対象: 未治療の進行食道扁平上皮癌／region: 国際
 - 鑑別・補足：KEYNOTE-590（ペムブロリズマブ＋化学療法）
 - よくある誤解：腫瘍PD-L1の発現にかかわらず効果が同じというわけではない
 - 不確実性：low（抄録で照合）
 - 出典：Doki Y, et al. CheckMate 648. NEJM 2022;386:449-462　[DOI 10.1056/NEJMoa2111380](https://doi.org/10.1056/NEJMoa2111380)　[PMID 35108470](https://pubmed.ncbi.nlm.nih.gov/35108470/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-052&card_id=ES-052&version=d9456bca1d)　（版 `d9456bca1d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-052&card_id=ES-052&version=9495e809b3)　（版 `9495e809b3`）
 
 ### ES-053　出典照合済み・監修待ち
 
@@ -684,13 +684,13 @@
 
 > 進行食道癌の一次治療で、ペムブロリズマブ＋化学療法はプラセボ＋化学療法より全生存を改善した。追跡中央値58.8か月での5年全生存率は10.6%対3.0%だった。
 
-- 条件：未治療の進行・転移性食道癌（扁平上皮癌、腺癌、Siewert I型の食道胃接合部腺癌）
+- 条件：対象: 未治療の進行・転移性食道癌（扁平上皮癌、腺癌、Siewert I型の食道胃接合部腺癌）／region: 国際
 - 鑑別・補足：CheckMate 648
 - よくある誤解：5年時点でも生存者は少数であり、長期生存の確率が上がったという意味にとどまる
 - 不確実性：low（5年生存率は5年追跡論文の抄録で照合）
 - 出典：Metges JP, et al. KEYNOTE-590 5-year extended follow-up. ESMO Open 2025;10(12):105854（原著：Sun JM, Lancet 2021;398:759-771, PMID 34454674）　[DOI 10.1016/j.esmoop.2025.105854](https://doi.org/10.1016/j.esmoop.2025.105854)　[PMID 41259897](https://pubmed.ncbi.nlm.nih.gov/41259897/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-054&card_id=ES-054&version=bfd1f6e0a0)　（版 `bfd1f6e0a0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-054&card_id=ES-054&version=499706fc72)　（版 `499706fc72`）
 
 ### ES-055　出典照合済み・監修待ち
 
@@ -716,7 +716,7 @@
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-056&card_id=ES-056&version=ad4ff592c3)　（版 `ad4ff592c3`）
 
-**[ここまでの 10 件（ES-047〜ES-056）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-047%E3%80%9CES-056&cards=ES-047%20f48ffcda9e%0AES-048%2092cf044ee1%0AES-049%20e7556ccf63%0AES-050%20b4abffb1d6%0AES-051%20dbf7d2c428%0AES-052%20d9456bca1d%0AES-053%209aec9e957b%0AES-054%20bfd1f6e0a0%0AES-055%20d2b95687a6%0AES-056%20ad4ff592c3)**
+**[ここまでの 10 件（ES-047〜ES-056）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-047%E3%80%9CES-056&cards=ES-047%20f48ffcda9e%0AES-048%2092cf044ee1%0AES-049%2044dd577d87%0AES-050%20b4abffb1d6%0AES-051%2098ff180b41%0AES-052%209495e809b3%0AES-053%209aec9e957b%0AES-054%20499706fc72%0AES-055%20d2b95687a6%0AES-056%20ad4ff592c3)**
 
 ---
 
@@ -724,13 +724,13 @@
 
 > 日本では、ニボルマブの「食道癌における術後補助療法」の効能・効果が2021年11月25日に承認された。
 
-- 条件：国内の薬事承認
+- 条件：対象: 国内の薬事承認／region: 日本
 - 鑑別・補足：根治切除不能な進行・再発食道癌への適応（2020年2月）
 - よくある誤解：術前化学療法（DCF）後の症例への有効性は、CheckMate 577では直接検証されていない
 - 不確実性：PMDA添付文書の改訂履歴での確認は未実施
 - 出典：小野薬品工業・BMS 食道癌適正使用委員会 文書（2021-11-26）　[リンク](https://www.esophagus.jp/files/opdivo_20211201.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-090&card_id=ES-090&version=19f1c8981d)　（版 `19f1c8981d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-090&card_id=ES-090&version=48fc6093b4)　（版 `48fc6093b4`）
 
 ### ES-092　下書き（出典の照合前）
 
@@ -744,7 +744,7 @@
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-092&card_id=ES-092&version=b52fa3a854)　（版 `b52fa3a854`）
 
-**[ここまでの 2 件（ES-090〜ES-092）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-090%E3%80%9CES-092&cards=ES-090%2019f1c8981d%0AES-092%20b52fa3a854)**
+**[ここまでの 2 件（ES-090〜ES-092）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-090%E3%80%9CES-092&cards=ES-090%2048fc6093b4%0AES-092%20b52fa3a854)**
 
 ---
 
@@ -802,13 +802,13 @@
 
 > 日本の食道・胃静脈瘤内視鏡所見記載基準は、占居部位（L）、形態（F）、色調（C）、発赤所見（RC）、出血所見（BS）、粘膜所見（MF）の6項目で記載する。食道ではLs・Lm・Li、F0〜F3、Cw・Cb、RC0〜3（ミミズ腫れ・チェリーレッドスポット・血マメ）を用いる。
 
-- 条件：門脈圧亢進症取扱い規約 第3版（2013年）
+- 条件：対象: 門脈圧亢進症取扱い規約 第3版（2013年）／region: 日本
 - 鑑別・補足：胃静脈瘤の部位分類（Lg-c、Lg-cf、Lg-f）
 - よくある誤解：F0でも発赤所見があればRC1〜3で記載する
 - 不確実性：取扱い規約の最新版（第4版の有無）は要確認
 - 出典：日本門脈圧亢進症学会 門脈圧亢進症取扱い規約 第3版（記載基準表を日消誌116(5):395、日内会誌103(5):1187で確認）　[リンク](https://www.jstage.jst.go.jp/article/nisshoshi/116/5/116_395/_pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-061&card_id=ES-061&version=7c2c33fe11)　（版 `7c2c33fe11`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-061&card_id=ES-061&version=d4a6c5e1c4)　（版 `d4a6c5e1c4`）
 
 ### ES-062　出典照合済み・監修待ち
 
@@ -826,13 +826,13 @@
 
 > 急性上部消化管出血では、Hb 7 g/dL未満で輸血する制限的輸血戦略が、9 g/dL未満で輸血する自由輸血戦略より転帰が良かった。
 
-- 条件：急性上部消化管出血（静脈瘤出血を含む）
+- 条件：対象: 急性上部消化管出血（静脈瘤出血を含む）／region: スペイン
 - 鑑別・補足：虚血性心疾患合併例
 - よくある誤解：出血例では高いHbを目標にすべきとは限らない
 - 不確実性：本文未閲覧。転帰の数値は主張文に含めない
 - 出典：Villanueva C, et al. NEJM 2013;368(1):11-21　[DOI 10.1056/NEJMoa1211801](https://doi.org/10.1056/NEJMoa1211801)　[PMID 23281973](https://pubmed.ncbi.nlm.nih.gov/23281973/)（区分 RESTRICTED）
 - 出題基準：医学総論 Ⅸ-3-B-①（輸血の適応と一般的注意、-）；医学総論 Ⅵ-5-F-①（吐血、-）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-019 (id: JlAKpkg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-063&card_id=ES-063&version=71afc8dbaa)　（版 `71afc8dbaa`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-063&card_id=ES-063&version=33f006459f)　（版 `33f006459f`）
 
 ### ES-064　出典照合済み・監修待ち
 
@@ -850,27 +850,27 @@
 
 > 急性静脈瘤出血を起こした高リスクの肝硬変（Child-Pugh C 10〜13点、またはBで活動性出血）では、72時間以内の早期TIPSが標準治療に比べ生存を改善した。
 
-- 条件：高リスクの急性静脈瘤出血
+- 条件：対象: 高リスクの急性静脈瘤出血／region: 国際
 - 鑑別・補足：救済（rescue）TIPS
 - よくある誤解：全例に早期TIPSが適応になるわけではない
 - 不確実性：PMIDは依頼者提示の値で、本セッションでは独立に照合していない
 - 出典：García-Pagán JC, et al. NEJM 2010　[DOI 10.1056/NEJMoa0910102](https://doi.org/10.1056/NEJMoa0910102)　[PMID 20573925](https://pubmed.ncbi.nlm.nih.gov/20573925/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-019 (id: JlAKpkg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-065&card_id=ES-065&version=b8f2d963ef)　（版 `b8f2d963ef`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-065&card_id=ES-065&version=0157e67614)　（版 `0157e67614`）
 
 ### ES-066　下書き（出典の照合前）
 
 > 日本の肝硬変診療ガイドライン2020では、食道静脈瘤の初回出血予防にEVLとNSBBがともに有用とされる。再発予防ではEVLとEISの両方が提案されている。胃静脈瘤にはB-RTOが有用とされ、国内研究ではNBCAによるEISより再出血の予防に優れていた。
 
-- 条件：肝硬変に伴う食道・胃静脈瘤
+- 条件：対象: 肝硬変に伴う食道・胃静脈瘤／region: 日本
 - 鑑別・補足：Baveno VII（カルベジロールを優先する国際コンセンサス）
 - よくある誤解：日本ではEISが今も選択肢であり、EVLに一本化されているわけではない
 - 不確実性：2025年版の推奨は未確認
 - 出典：Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619　[DOI 10.1007/s00535-021-01788-x](https://doi.org/10.1007/s00535-021-01788-x)　[PMID 34231046](https://pubmed.ncbi.nlm.nih.gov/34231046/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)；TBL-02-07-034 (id: JlAKplU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-066&card_id=ES-066&version=3f4fcc1ca2)　（版 `3f4fcc1ca2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-066&card_id=ES-066&version=b76bd58c47)　（版 `b76bd58c47`）
 
-**[ここまでの 10 件（ES-057〜ES-066）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-057%E3%80%9CES-066&cards=ES-057%20a33f5a6767%0AES-058%20c93094ee02%0AES-059%20860bdad822%0AES-060%20e74f30fcb7%0AES-061%207c2c33fe11%0AES-062%20d4112acf97%0AES-063%2071afc8dbaa%0AES-064%2038cd8206c9%0AES-065%20b8f2d963ef%0AES-066%203f4fcc1ca2)**
+**[ここまでの 10 件（ES-057〜ES-066）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-057%E3%80%9CES-066&cards=ES-057%20a33f5a6767%0AES-058%20c93094ee02%0AES-059%20860bdad822%0AES-060%20e74f30fcb7%0AES-061%20d4a6c5e1c4%0AES-062%20d4112acf97%0AES-063%2033f006459f%0AES-064%2038cd8206c9%0AES-065%200157e67614%0AES-066%20b76bd58c47)**
 
 ---
 
@@ -928,75 +928,75 @@
 
 > 腐食性物質を飲み込んだときは、嘔吐を誘発しない。胃洗浄もしない（再曝露で食道傷害が増える）。弱酸・弱アルカリによる中和は発熱反応で傷害を悪化させるおそれがあり推奨されない。
 
-- 条件：酸・アルカリの誤飲・自殺企図
+- 条件：対象: 酸・アルカリの誤飲・自殺企図／region: 国際
 - 鑑別・補足：非腐食性の中毒（活性炭の適応を検討）
 - よくある誤解：牛乳や活性炭は後の内視鏡の観察を妨げるため使わない
 - 不確実性：medium（DOI・PMIDはAPIで確定。PMCでは抄録しか読めず、本文の記述は未照合）
 - 出典：Contini S, Scarpignato C. Caustic injury of the upper GI tract: a comprehensive review. World J Gastroenterol 2013;19(25):3918　[DOI 10.3748/wjg.v19.i25.3918](https://doi.org/10.3748/wjg.v19.i25.3918)　[PMID 23840136](https://pubmed.ncbi.nlm.nih.gov/23840136/)（区分 RESTRICTED）
 - 出題基準：該当なし　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-073&card_id=ES-073&version=e0b304f032)　（版 `e0b304f032`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-073&card_id=ES-073&version=5db5014be2)　（版 `5db5014be2`）
 
 ### ES-074　出典照合済み・監修待ち
 
 > 腐食性食道傷害の重症度はZargar分類で評価する。0（正常）、1（浮腫・発赤）、2a（表在性潰瘍・びらん・滲出物）、2b（2aに加え深い限局性または全周性の潰瘍）、3a（限局性壊死）、3b（広範な壊死）に分ける。
 
-- 条件：受傷後早期の上部内視鏡
+- 条件：対象: 受傷後早期の上部内視鏡／region: 国際
 - 鑑別・補足：CTによる重症度評価
 - よくある誤解：grade 4（穿孔）を加えた改変版もある
 - 不確実性：Zargar原著（Gastrointest Endosc 1991）は未閲覧
 - 出典：Cheng HT, et al. Caustic ingestion in adults. BMC Gastroenterol 2008（表1）　[DOI 10.1186/1471-230X-8-31](https://doi.org/10.1186/1471-230X-8-31)　[PMID 18655708](https://pubmed.ncbi.nlm.nih.gov/18655708/)（区分 RESTRICTED）
 - 出題基準：該当なし　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-074&card_id=ES-074&version=2de9f25cd6)　（版 `2de9f25cd6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-074&card_id=ES-074&version=ae70a85801)　（版 `ae70a85801`）
 
 ### ES-075　下書き（出典の照合前）
 
 > 腐食性食道傷害後の狭窄は、Zargar 2bで約71%、3でほぼ100%と報告されている。重症度が高いほど狭窄のリスクが高い。
 
-- 条件：腐食性食道傷害の晩期合併症
+- 条件：対象: 腐食性食道傷害の晩期合併症／region: 国際
 - 鑑別・補足：腐食性傷害後の食道癌（長期の合併症）
 - よくある誤解：急性期を乗り切っても狭窄の経過観察が必要
 - 不確実性：medium（報告によって2bは40〜60%とする記載もあり幅がある。PMCでは抄録しか読めず本文は未照合）
 - 出典：Contini 2013 WJG　[DOI 10.3748/wjg.v19.i25.3918](https://doi.org/10.3748/wjg.v19.i25.3918)　[PMID 23840136](https://pubmed.ncbi.nlm.nih.gov/23840136/)（区分 RESTRICTED）
 - 出題基準：該当なし　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-075&card_id=ES-075&version=a15f677508)　（版 `a15f677508`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-075&card_id=ES-075&version=01a73c8bd3)　（版 `01a73c8bd3`）
 
 ### ES-076　出典照合済み・監修待ち
 
 > 食道裂孔ヘルニアで最も多いのはI型（滑脱型）で、横隔食道膜の弛緩により胃噴門部が縦隔へ脱出する。軸方向のずれが2 cmを超えれば、バリウム造影、内視鏡、内圧検査で診断できる。
 
-- 条件：成人の食道裂孔ヘルニア
+- 条件：対象: 成人の食道裂孔ヘルニア／region: 国際
 - 鑑別・補足：傍食道型（II型）・混合型（III型）・他臓器を含むIV型（本出典の抄録には記載なし）
 - よくある誤解：小さな滑脱型ヘルニアも内視鏡や造影で常に確実に診断できると考える
 - 不確実性：low（抄録で照合）。II〜IV型の定義は未収載
 - 出典：Kahrilas PJ, et al. Approaches to the diagnosis and grading of hiatal hernia. Best Pract Res Clin Gastroenterol 2008;22:601-616　[DOI 10.1016/j.bpg.2007.12.007](https://doi.org/10.1016/j.bpg.2007.12.007)　[PMID 18656819](https://pubmed.ncbi.nlm.nih.gov/18656819/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-9-A-①（食道裂孔ヘルニア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-076&card_id=ES-076&version=6ec46a7132)　（版 `6ec46a7132`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-076&card_id=ES-076&version=3fe9baeafd)　（版 `3fe9baeafd`）
 
 ### ES-077　下書き（出典の照合前）
 
 > 薬剤性食道炎の原因薬には、抗菌薬（テトラサイクリン系、特にドキシサイクリン）、ビスホスホネート、NSAIDs、塩化カリウム、鉄剤などがある。症状は胸骨後部痛、胸やけ、嚥下痛、嚥下障害で、多くは原因薬の中止と支持療法で改善する。
 
-- 条件：内服薬による直接的な食道粘膜傷害
+- 条件：対象: 内服薬による直接的な食道粘膜傷害／region: 国際
 - 鑑別・補足：逆流性食道炎、感染性食道炎
 - よくある誤解：少量の水で服用してすぐ横になっても問題ないと考える
 - 不確実性：low（PMC本文で照合）。ライセンスは Phase 3 の照合で確定
 - 出典：Abdi S, et al. Drug-induced esophagitis and helpful management for healthcare providers. Gastroenterol Hepatol Bed Bench 2022;15:219-224　[DOI 10.22037/ghfbb.v15i3.2591](https://doi.org/10.22037/ghfbb.v15i3.2591)　[PMID 36311965](https://pubmed.ncbi.nlm.nih.gov/36311965/)（区分 UNKNOWN）
 - 出題基準：医学総論 Ⅵ-5-B（嚥下障害（嚥下痛・通過障害・誤嚥）、-）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-077&card_id=ES-077&version=7b6309d537)　（版 `7b6309d537`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-077&card_id=ES-077&version=9c8fb49e1e)　（版 `9c8fb49e1e`）
 
 ### ES-078　出典照合済み・監修待ち
 
 > 台湾の健診受診者（HIV陰性）11,802例では、生検で確認したカンジダ食道炎は0.4%だった。多変量解析での独立した危険因子は、高齢、慢性腎臓病、飲酒、ステロイド使用だった。
 
-- 条件：HIV陰性の成人（健診の上部消化管内視鏡）
+- 条件：対象: HIV陰性の成人（健診の上部消化管内視鏡）／region: 台湾
 - 鑑別・補足：HIV感染者などの免疫不全者では頻度が高い。EoEの白斑との鑑別
 - よくある誤解：カンジダ食道炎は免疫不全者にしか起こらないと考える
 - 不確実性：low（抄録で照合）。単施設の健診データ
 - 出典：Chen YH, et al. Prevalence and risk factors for Candida esophagitis among human immunodeficiency virus-negative individuals. World J Clin Cases 2022;10:10896-10905　[DOI 10.12998/wjcc.v10.i30.10896](https://doi.org/10.12998/wjcc.v10.i30.10896)　[PMID 36338217](https://pubmed.ncbi.nlm.nih.gov/36338217/)（区分 UNKNOWN）
 - 出題基準：該当なし　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-078&card_id=ES-078&version=6dce7a8acf)　（版 `6dce7a8acf`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-078&card_id=ES-078&version=72bba87272)　（版 `72bba87272`）
 
-**[ここまでの 10 件（ES-069〜ES-078）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-069%E3%80%9CES-078&cards=ES-069%204807f4c732%0AES-070%206dfdf700c6%0AES-071%20232b993928%0AES-072%2092be8a9d1b%0AES-073%20e0b304f032%0AES-074%202de9f25cd6%0AES-075%20a15f677508%0AES-076%206ec46a7132%0AES-077%207b6309d537%0AES-078%206dce7a8acf)**
+**[ここまでの 10 件（ES-069〜ES-078）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-069%E3%80%9CES-078&cards=ES-069%204807f4c732%0AES-070%206dfdf700c6%0AES-071%20232b993928%0AES-072%2092be8a9d1b%0AES-073%205db5014be2%0AES-074%20ae70a85801%0AES-075%2001a73c8bd3%0AES-076%203fe9baeafd%0AES-077%209c8fb49e1e%0AES-078%2072bba87272)**
 
 ---
 
@@ -1004,123 +1004,123 @@
 
 > ヘルペス（HSV）食道炎では、ウイルス性の細胞変化（多核化、核の圧排、すりガラス状の核、Cowdry A型封入体）は潰瘍辺縁の扁平上皮に見られるため、辺縁から生検する。CMV食道炎の変化は潰瘍底の内皮細胞・間質細胞に見られるため、底部から生検する。
 
-- 条件：免疫不全者の食道潰瘍
+- 条件：対象: 免疫不全者の食道潰瘍／region: 国際
 - 鑑別・補足：カンジダ食道炎、薬剤性食道炎
 - よくある誤解：潰瘍の同じ部位を生検すれば両方が診断できるわけではない
 - 不確実性：なし（2資料で一致）
 - 出典：Esophageal CMV and HSV co-infection: case report and review. IDCases 2020　[DOI 10.1016/j.idcr.2020.e00925](https://doi.org/10.1016/j.idcr.2020.e00925)　[PMID 33005566](https://pubmed.ncbi.nlm.nih.gov/33005566/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅻ-1-A-⑩（単純ヘルペスウイルス感染症、a）；医学各論 Ⅻ-1-A-⑭（サイトメガロウイルス感染症、a）　コアカリ：PS-03-03-03 (id: JkxnuUo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-079&card_id=ES-079&version=5382539c95)　（版 `5382539c95`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-079&card_id=ES-079&version=e1941f3afa)　（版 `e1941f3afa`）
 
 ### ES-080　出典照合済み・監修待ち
 
 > 内視鏡所見では、HSV食道炎は孤立性の潰瘍、小水疱、辺縁の隆起した（shouldered）潰瘍が多い。CMV食道炎は深い打ち抜き様の潰瘍、蛇行状の潰瘍、全周性の分布が多い。
 
-- 条件：ウイルス性食道炎
+- 条件：対象: ウイルス性食道炎／region: 国際
 - 鑑別・補足：カンジダ（白苔）
 - よくある誤解：肉眼所見だけで確定せず、病理・免疫染色で確認する
 - 不確実性：単一の後ろ向き研究
 - 出典：Can endoscopists differentiate CMV esophagitis from HSV esophagitis? Medicine 2019　[DOI 10.1097/MD.0000000000015845](https://doi.org/10.1097/MD.0000000000015845)　[PMID 31169688](https://pubmed.ncbi.nlm.nih.gov/31169688/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅻ-1-A-⑩（単純ヘルペスウイルス感染症、a）；医学各論 Ⅻ-1-A-⑭（サイトメガロウイルス感染症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-080&card_id=ES-080&version=59c9ce069f)　（版 `59c9ce069f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-080&card_id=ES-080&version=eb4c1a98bc)　（版 `eb4c1a98bc`）
 
 ### ES-081　出典照合済み・監修待ち
 
 > HSV食道炎の治療薬はアシクロビル、CMV食道炎の治療薬はガンシクロビル（または経口のバルガンシクロビル）である。
 
-- 条件：ウイルス性食道炎
+- 条件：対象: ウイルス性食道炎／region: 国際
 - 鑑別・補足：アシクロビル耐性HSV（ホスカルネット）
 - よくある誤解：アシクロビルはCMVに十分な効果がない
 - 不確実性：投与期間は未確認
 - 出典：Medicine 2019（確定診断後の治療薬）　[DOI 10.1097/MD.0000000000015845](https://doi.org/10.1097/MD.0000000000015845)　[PMID 31169688](https://pubmed.ncbi.nlm.nih.gov/31169688/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅻ-1-A-⑩（単純ヘルペスウイルス感染症、a）；医学各論 Ⅻ-1-A-⑭（サイトメガロウイルス感染症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-081&card_id=ES-081&version=fa41e024d9)　（版 `fa41e024d9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-081&card_id=ES-081&version=15844ab00e)　（版 `15844ab00e`）
 
 ### ES-082　出典照合済み・監修待ち
 
 > Plummer-Vinson症候群は、嚥下障害、鉄欠乏性貧血、食道web（膜様狭窄）の三徴を示すまれな疾患で、中年の女性に多い。治療は鉄補充と、必要に応じたwebの拡張である。咽頭・食道の扁平上皮癌のリスクが高いため経過観察が必要である。
 
-- 条件：鉄欠乏を伴う頸部食道のweb
+- 条件：対象: 鉄欠乏を伴う頸部食道のweb／region: 国際
 - 鑑別・補足：食道癌、好酸球性食道炎による狭窄
 - よくある誤解：鉄欠乏を補正すれば発癌リスクの経過観察は不要と考える
 - 不確実性：low（抄録で照合）
 - 出典：Novacek G. Plummer-Vinson syndrome. Orphanet J Rare Dis 2006;1:36　[DOI 10.1186/1750-1172-1-36](https://doi.org/10.1186/1750-1172-1-36)　[PMID 16978405](https://pubmed.ncbi.nlm.nih.gov/16978405/)（区分 OPEN）
 - 出題基準：医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）；医学総論 Ⅵ-5-B（嚥下障害（嚥下痛・通過障害・誤嚥）、-）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-082&card_id=ES-082&version=e6495e99b9)　（版 `e6495e99b9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-082&card_id=ES-082&version=b742ce5a3e)　（版 `b742ce5a3e`）
 
 ### ES-083　出典照合済み・監修待ち
 
 > Zenker憩室は、下咽頭収縮筋の斜走部と輪状咽頭筋の間の脆弱部（Killian三角）から粘膜・粘膜下層が後方へ突出する圧出性憩室で、下咽頭憩室で最も多い。70〜80歳代の男性に多く、嚥下障害が80〜90%にみられる。治療の要点は輪状咽頭筋の切開である。
 
-- 条件：高齢者の嚥下障害・未消化物の逆流
+- 条件：対象: 高齢者の嚥下障害・未消化物の逆流／region: 国際
 - 鑑別・補足：食道中部の牽引性憩室、横隔膜上憩室
 - よくある誤解：憩室を切除するだけで輪状咽頭筋を処理しなくてよいと考える
 - 不確実性：low（PMC本文で照合）
 - 出典：Dell'Anna G, et al. The endoscopic management of Zenker's diverticulum: a comprehensive review. Diagnostics (Basel) 2024;14:2155　[DOI 10.3390/diagnostics14192155](https://doi.org/10.3390/diagnostics14192155)　[PMID 39410559](https://pubmed.ncbi.nlm.nih.gov/39410559/)（区分 OPEN）
 - 出題基準：医学総論 Ⅵ-5-B（嚥下障害（嚥下痛・通過障害・誤嚥）、-）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-083&card_id=ES-083&version=7c57d9b11f)　（版 `7c57d9b11f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-083&card_id=ES-083&version=07da34bccb)　（版 `07da34bccb`）
 
 ### ES-084　出典照合済み・監修待ち
 
 > Mallory-Weiss症候群（嘔吐などによる食道胃接合部の粘膜裂創）は多くが自然に止血し、緊急の内視鏡治療を要しないことが多い。ドイツの全国入院データ（2010〜2019年、59,291例）では、内視鏡的止血は局注13.7%、クリップ12.8%、外科治療は0.1%で、院内死亡率は2.7%だった。
 
-- 条件：嘔吐・えずきの後の吐血
+- 条件：対象: 嘔吐・えずきの後の吐血／region: 国際
 - 鑑別・補足：Boerhaave症候群（全層性破裂、ES-085〜087）、静脈瘤出血
 - よくある誤解：Mallory-Weiss症候群は全例で内視鏡的止血が必要と考える
 - 不確実性：low（抄録で照合）
 - 出典：Mertens A, et al. A systematic analysis of incidence, therapeutic strategies, and in-hospital mortality of Mallory-Weiss syndrome in Germany. J Clin Gastroenterol 2024;58:640-649　[DOI 10.1097/MCG.0000000000001918](https://doi.org/10.1097/MCG.0000000000001918)　[PMID 37668412](https://pubmed.ncbi.nlm.nih.gov/37668412/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅵ-1-E-①（Mallory-Weiss症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-084&card_id=ES-084&version=c369e61d76)　（版 `c369e61d76`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-084&card_id=ES-084&version=ad7876eaba)　（版 `ad7876eaba`）
 
 ### ES-085　下書き（出典の照合前）
 
 > Boerhaave症候群（特発性食道破裂）が疑われるとき、経口造影剤を併用した造影CTが優先される検査であり、感度は92〜100%と報告されている。CTでは縦隔気腫、縦隔の液体貯留、胸水、縦隔炎の評価もできる。
 
-- 条件：激しい嘔吐の後の胸痛・縦隔気腫
+- 条件：対象: 激しい嘔吐の後の胸痛・縦隔気腫／region: 国際
 - 鑑別・補足：急性冠症候群、大動脈解離、特発性縦隔気腫
 - よくある誤解：胸部単純X線で異常がなくても否定できない
 - 不確実性：感度は総説が引用した値で、原著は未確認
 - 出典：Boerhaave Syndrome—Narrative Review. Diagnostics 2025;15(19):2463　[DOI 10.3390/diagnostics15192463](https://doi.org/10.3390/diagnostics15192463)　[PMID 41095682](https://pubmed.ncbi.nlm.nih.gov/41095682/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-E-②（食道穿孔・破裂（備考：Boerhaave症候群）、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-085&card_id=ES-085&version=2871f36b1e)　（版 `2871f36b1e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-085&card_id=ES-085&version=cd34942ac8)　（版 `cd34942ac8`）
 
 ### ES-086　出典照合済み・監修待ち
 
 > 食道破裂を疑って食道造影を行う場合は、バリウムが縦隔に漏れると重い縦隔炎を起こすため、水溶性造影剤を使う。水溶性造影剤では22〜50%の穿孔を見逃すことがあるため、陰性でも否定はできない。
 
-- 条件：食道穿孔の疑い
+- 条件：対象: 食道穿孔の疑い／region: 国際
 - 鑑別・補足：誤嚥の危険がある例
 - よくある誤解：造影が陰性でも穿孔は否定できない
 - 不確実性：なし
 - 出典：Diagnostics 2025;15(19):2463　[DOI 10.3390/diagnostics15192463](https://doi.org/10.3390/diagnostics15192463)　[PMID 41095682](https://pubmed.ncbi.nlm.nih.gov/41095682/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-E-②（食道穿孔・破裂（備考：Boerhaave症候群）、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-086&card_id=ES-086&version=04ca11ae26)　（版 `04ca11ae26`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-086&card_id=ES-086&version=dad868b42d)　（版 `dad868b42d`）
 
 ### ES-087　下書き（出典の照合前）
 
 > Boerhaave症候群の治療は、穿孔の早期の閉鎖・制御と感染（縦隔・胸腔）のドレナージが原則である。現在は、外科的修復に加え、ステントや内視鏡的陰圧閉鎖療法などの低侵襲治療を組み合わせる。
 
-- 条件：特発性食道破裂
+- 条件：対象: 特発性食道破裂／region: 国際
 - 鑑別・補足：医原性穿孔
 - よくある誤解：治療の遅れは死亡率を大きく高める
 - 不確実性：治療の選択基準と死亡率の数値は未確認
 - 出典：Diagnostics 2025;15(19):2463　[DOI 10.3390/diagnostics15192463](https://doi.org/10.3390/diagnostics15192463)　[PMID 41095682](https://pubmed.ncbi.nlm.nih.gov/41095682/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-E-②（食道穿孔・破裂（備考：Boerhaave症候群）、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-087&card_id=ES-087&version=251c5092ea)　（版 `251c5092ea`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-087&card_id=ES-087&version=5d0ddffdd4)　（版 `5d0ddffdd4`）
 
 ### ES-089　下書き（出典の照合前）
 
 > ヨード（ルゴール）染色では、グリコーゲンを含む正常な扁平上皮が褐色に染まり、扁平上皮癌や異形成は不染帯となる。多発する不染帯（まだら食道）は食道癌の高リスクの指標となる。
 
-- 条件：食道扁平上皮癌のスクリーニング・範囲診断
+- 条件：対象: 食道扁平上皮癌のスクリーニング・範囲診断／region: 日本
 - 鑑別・補足：NBI拡大観察（JES分類）
 - よくある誤解：不染帯がすべて癌というわけではない
 - 不確実性：該当箇所の照合が未了
 - 出典：要確認（JGES食道ESD/EMR GL 2020＝B、本文の該当CQを未照合）　[DOI 10.1111/den.13654](https://doi.org/10.1111/den.13654)　[PMID 32072683](https://pubmed.ncbi.nlm.nih.gov/32072683/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-C-①（食道癌、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-089&card_id=ES-089&version=1cf80507e1)　（版 `1cf80507e1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-089&card_id=ES-089&version=fce3051675)　（版 `fce3051675`）
 
-**[ここまでの 10 件（ES-079〜ES-089）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-079%E3%80%9CES-089&cards=ES-079%205382539c95%0AES-080%2059c9ce069f%0AES-081%20fa41e024d9%0AES-082%20e6495e99b9%0AES-083%207c57d9b11f%0AES-084%20c369e61d76%0AES-085%202871f36b1e%0AES-086%2004ca11ae26%0AES-087%20251c5092ea%0AES-089%201cf80507e1)**
+**[ここまでの 10 件（ES-079〜ES-089）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-079%E3%80%9CES-089&cards=ES-079%20e1941f3afa%0AES-080%20eb4c1a98bc%0AES-081%2015844ab00e%0AES-082%20b742ce5a3e%0AES-083%2007da34bccb%0AES-084%20ad7876eaba%0AES-085%20cd34942ac8%0AES-086%20dad868b42d%0AES-087%205d0ddffdd4%0AES-089%20fce3051675)**
 
 ---
 

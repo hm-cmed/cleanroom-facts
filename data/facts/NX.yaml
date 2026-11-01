@@ -202,7 +202,7 @@
     corroboration: null
   uncertainty: ISNCSCI は脊髄損傷の分類のための標準化された評価法であり、デルマトーム評価の枠組みとして示した。デルマトームの分布には重なりと個人差がある。
   curriculum:
-    kokushi: null
+    kokushi: 医学各論 Ⅸ-10-B-①（頸髄・胸髄・腰髄損傷、a）
     core_curriculum: 'PS-02-03-02 (id: JkxnuPo)；TBL-02-02-008 (id: JlAKpXw)；TBL-02-02-028 (id: JlAKpZA)'
   publication_info:
     created: '2026-10-28'
@@ -214,6 +214,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅸ-10-B-①（頸髄・胸髄・腰髄損傷、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: NX-007
   domain: NX
   subdomain: 神経学的診察
@@ -412,7 +415,7 @@
     corroboration: null
   uncertainty: 本カードは成人の基準であり、小児では同ガイドラインの小児用アルゴリズムで一部異なる。抗菌薬の具体的な薬剤名は挙げていない。
   curriculum:
-    kokushi: null
+    kokushi: 医学各論 Ⅸ-3-C-①（細菌性髄膜炎、a）；医学各論 Ⅸ-3-A-②（髄膜炎、a）
     core_curriculum: 'PS-02-03-03 (id: JkxnuPs)；TBL-02-02-035 (id: JlAKpZg)'
   publication_info:
     created: '2026-10-28'
@@ -424,6 +427,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅸ-3-C-①（細菌性髄膜炎、a）；医学各論 Ⅸ-3-A-②（髄膜炎、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NX-013
   domain: NX
   subdomain: 髄液検査
@@ -447,7 +453,7 @@
     corroboration: null
   uncertainty: 基準値と所見の型は同ガイドラインに掲載された標準的な髄液所見表に基づく。新生児・乳児では基準値が異なる。海外ガイドライン（IDSA）の示す細菌性髄膜炎の典型値（初圧200〜500mmH2O、白血球1000〜5000/mm³、蛋白100〜500mg/dL）とも大枠で一致する。
   curriculum:
-    kokushi: null
+    kokushi: 医学各論 Ⅸ-3-C-①（細菌性髄膜炎、a）；医学各論 Ⅻ-1-A-⑱（ウイルス性髄膜炎、a）；医学各論 Ⅸ-3-A-②（髄膜炎、a）
     core_curriculum: 'PS-02-03-03 (id: JkxnuPs)'
   publication_info:
     created: '2026-10-28'
@@ -459,6 +465,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅸ-3-C-①（細菌性髄膜炎、a）；医学各論 Ⅻ-1-A-⑱（ウイルス性髄膜炎、a）；医学各論 Ⅸ-3-A-②（髄膜炎、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NX-014
   domain: NX
   subdomain: 電気生理検査
@@ -482,7 +491,7 @@
     corroboration: null
   uncertainty: 数値は単施設の連続症例の後ろ向き検討による。通常脳波のてんかん診断における感度・特異度そのものは本カードでは扱わない。
   curriculum:
-    kokushi: null
+    kokushi: 医学各論 Ⅸ-6-D-①（てんかん重積状態、a）
     core_curriculum: 'PS-02-03-03 (id: JkxnuPs)；TBL-02-02-036 (id: JlAKpZk)'
   publication_info:
     created: '2026-10-28'
@@ -494,6 +503,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅸ-6-D-①（てんかん重積状態、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NX-015
   domain: NX
   subdomain: 電気生理検査
@@ -517,7 +529,7 @@
     corroboration: null
   uncertainty: 分類基準の具体的な数値カットオフは用いる基準により異なり、本カードでは扱わない。針筋電図は神経原性変化と筋原性変化の鑑別や病期の評価に用いられるが、所見の詳細は各論を参照。
   curriculum:
-    kokushi: null
+    kokushi: 医学各論 Ⅸ-5-A-①（多発ニューロパチー、a）；医学各論 Ⅸ-5-A-②（Guillain-Barré症候群、慢性炎症性脱髄性多発根ニューロパチー、b）
     core_curriculum: 'PS-02-03-03 (id: JkxnuPs)；TBL-02-02-036 (id: JlAKpZk)'
   publication_info:
     created: '2026-10-28'
@@ -529,6 +541,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅸ-5-A-①（多発ニューロパチー、a）；医学各論 Ⅸ-5-A-②（Guillain-Barré症候群、慢性炎症性脱髄性多発根ニューロパチー、b）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: NX-016
   domain: NX
   subdomain: 画像検査
@@ -552,7 +567,7 @@
     corroboration: null
   uncertainty: 本カードは急性期脳梗塞を念頭に置いた一般論であり、疾患ごとの画像選択（くも膜下出血での血管評価など）は各論のカードを参照。撮像プロトコルの詳細は扱わない。
   curriculum:
-    kokushi: null
+    kokushi: 医学各論 Ⅸ-1-C-①（心原性脳塞栓症、a）；医学各論 Ⅸ-1-C-②（アテローム血栓性脳梗塞、a）；医学各論 Ⅸ-1-C-③（ラクナ梗塞、a）
     core_curriculum: 'PS-02-03-03 (id: JkxnuPs)；TBL-02-02-035 (id: JlAKpZg)'
   publication_info:
     created: '2026-10-28'
@@ -564,6 +579,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅸ-1-C-①（心原性脳塞栓症、a）；医学各論 Ⅸ-1-C-②（アテローム血栓性脳梗塞、a）；医学各論 Ⅸ-1-C-③（ラクナ梗塞、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: NX-017
   domain: NX
   subdomain: リハビリテーション

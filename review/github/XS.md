@@ -103,8 +103,8 @@
 - 条件：guideline: BSG 鉄欠乏性貧血 GL 2021／region: 英国の診療を前提とした推奨
 - 不確実性：有病率はガイドラインが引用した研究による（二次資料経由）
 - 出典：Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051　[DOI 10.1136/gutjnl-2021-325210](https://doi.org/10.1136/gutjnl-2021-325210)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-009&card_id=XS-009&version=bbe18bd214)　（版 `bbe18bd214`）
+- 出題基準：医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）　コアカリ：PS-02-08-03 (id: JkxnuRQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-009&card_id=XS-009&version=703ff7851d)　（版 `703ff7851d`）
 
 ### XS-010　下書き（出典の照合前）
 
@@ -113,8 +113,8 @@
 - 条件：guideline: BSG 鉄欠乏性貧血 GL 2021／region: 英国の診療を前提とした推奨
 - よくある誤解：フェリチンが正常範囲なら鉄欠乏は否定できる
 - 出典：Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051　[DOI 10.1136/gutjnl-2021-325210](https://doi.org/10.1136/gutjnl-2021-325210)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-010&card_id=XS-010&version=dc3a06a1b2)　（版 `dc3a06a1b2`）
+- 出題基準：医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）　コアカリ：PS-02-08-03 (id: JkxnuRQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-010&card_id=XS-010&version=ee7f0b8e93)　（版 `ee7f0b8e93`）
 
 ### XS-011　下書き（出典の照合前）
 
@@ -124,8 +124,8 @@
 - よくある誤解：鉄欠乏性貧血は鉄剤を出して経過をみればよい
 - 不確実性：癌と病変の頻度はガイドラインが引用した研究による（二次資料経由）
 - 出典：Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051　[DOI 10.1136/gutjnl-2021-325210](https://doi.org/10.1136/gutjnl-2021-325210)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-011&card_id=XS-011&version=a5e3b9681f)　（版 `a5e3b9681f`）
+- 出題基準：医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-011&card_id=XS-011&version=30deda9abc)　（版 `30deda9abc`）
 
 ### XS-012　下書き（出典の照合前）
 
@@ -134,8 +134,8 @@
 - 条件：guideline: BSG 鉄欠乏性貧血 GL 2021／region: 英国の診療を前提とした推奨
 - よくある誤解：鉄欠乏性貧血は年齢や性別にかかわらず全員内視鏡を行う
 - 出典：Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051　[DOI 10.1136/gutjnl-2021-325210](https://doi.org/10.1136/gutjnl-2021-325210)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-012&card_id=XS-012&version=5280f8fddf)　（版 `5280f8fddf`）
+- 出題基準：医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-012&card_id=XS-012&version=6fd6716dbe)　（版 `6fd6716dbe`）
 
 ### XS-013　下書き（出典の照合前）
 
@@ -145,8 +145,8 @@
 - よくある誤解：便潜血が陰性なら鉄欠乏性貧血の大腸の精査は不要である
 - 不確実性：セリアック病の頻度はガイドラインが引用した研究による（二次資料経由）
 - 出典：Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051　[DOI 10.1136/gutjnl-2021-325210](https://doi.org/10.1136/gutjnl-2021-325210)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-013&card_id=XS-013&version=7df616ba7f)　（版 `7df616ba7f`）
+- 出題基準：医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）　コアカリ：PS-02-08-03 (id: JkxnuRQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-013&card_id=XS-013&version=987a930b69)　（版 `987a930b69`）
 
 ### XS-014　下書き（出典の照合前）
 
@@ -154,8 +154,8 @@
 
 - 条件：guideline: BSG 鉄欠乏性貧血 GL 2021／region: 英国の診療を前提とした推奨
 - 出典：Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051　[DOI 10.1136/gutjnl-2021-325210](https://doi.org/10.1136/gutjnl-2021-325210)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-014&card_id=XS-014&version=a038a11dfd)　（版 `a038a11dfd`）
+- 出題基準：医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-014&card_id=XS-014&version=15b392e994)　（版 `15b392e994`）
 
 ### XS-015　下書き（出典の照合前）
 
@@ -165,10 +165,10 @@
 - よくある誤解：鉄剤は多く飲むほど早く効くので1日に何回も飲む
 - 不確実性：英国の製剤を前提とした記述。日本の製剤と用量は添付文書で確認する
 - 出典：Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut 2021;70:2030-2051　[DOI 10.1136/gutjnl-2021-325210](https://doi.org/10.1136/gutjnl-2021-325210)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-08-04 (id: JkxnuRU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-015&card_id=XS-015&version=ac664cfe68)　（版 `ac664cfe68`）
+- 出題基準：医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）　コアカリ：PS-02-08-04 (id: JkxnuRU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-015&card_id=XS-015&version=53f6b03fc8)　（版 `53f6b03fc8`）
 
-**[ここまでの 7 件（XS-009〜XS-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-009%E3%80%9CXS-015&cards=XS-009%20bbe18bd214%0AXS-010%20dc3a06a1b2%0AXS-011%20a5e3b9681f%0AXS-012%205280f8fddf%0AXS-013%207df616ba7f%0AXS-014%20a038a11dfd%0AXS-015%20ac664cfe68)**
+**[ここまでの 7 件（XS-009〜XS-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-009%E3%80%9CXS-015&cards=XS-009%20703ff7851d%0AXS-010%20ee7f0b8e93%0AXS-011%2030deda9abc%0AXS-012%206fd6716dbe%0AXS-013%20987a930b69%0AXS-014%2015b392e994%0AXS-015%2053f6b03fc8)**
 
 ---
 
@@ -301,8 +301,8 @@
 - よくある誤解：ビリルビン高値は必ず肝障害を意味する
 - 不確実性：有病率はガイドラインが引用した研究による（二次資料経由）
 - 出典：Newsome PN, Cramb R, Davison SM, et al. Guidelines on the management of abnormal liver blood tests. Gut 2018;67:6-19　[DOI 10.1136/gutjnl-2017-314924](https://doi.org/10.1136/gutjnl-2017-314924)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-023 (id: JlAKpks)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-027&card_id=XS-027&version=3a090bcc89)　（版 `3a090bcc89`）
+- 出題基準：医学各論 Ⅵ-6-E-①（ビリルビン代謝の異常、a）；医学各論 Ⅹ-9-D-①（体質性黄疸、b）　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-023 (id: JlAKpks)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-027&card_id=XS-027&version=680d3e8a9a)　（版 `680d3e8a9a`）
 
 ### XS-028　下書き（出典の照合前）
 
@@ -321,8 +321,8 @@
 - 条件：guideline: BSG 肝機能検査値異常 GL 2018／region: 英国の診療を前提とした推奨
 - 鑑別・補足：高齢者では FIB-4 が高く出やすい
 - 出典：Newsome PN, Cramb R, Davison SM, et al. Guidelines on the management of abnormal liver blood tests. Gut 2018;67:6-19　[DOI 10.1136/gutjnl-2017-314924](https://doi.org/10.1136/gutjnl-2017-314924)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-029&card_id=XS-029&version=9c536b1ccd)　（版 `9c536b1ccd`）
+- 出題基準：医学各論 Ⅵ-6-E-②（脂肪肝、a）　コアカリ：PS-02-08-03 (id: JkxnuRQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-029&card_id=XS-029&version=05d2c70f42)　（版 `05d2c70f42`）
 
 ### XS-030　下書き（出典の照合前）
 
@@ -334,7 +334,7 @@
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-023 (id: JlAKpks)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-030&card_id=XS-030&version=80ba8f122c)　（版 `80ba8f122c`）
 
-**[ここまでの 7 件（XS-024〜XS-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-024%E3%80%9CXS-030&cards=XS-024%20db674b2531%0AXS-025%20f740069325%0AXS-026%20a9165409d8%0AXS-027%203a090bcc89%0AXS-028%20f65a3191a7%0AXS-029%209c536b1ccd%0AXS-030%2080ba8f122c)**
+**[ここまでの 7 件（XS-024〜XS-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-024%E3%80%9CXS-030&cards=XS-024%20db674b2531%0AXS-025%20f740069325%0AXS-026%20a9165409d8%0AXS-027%20680d3e8a9a%0AXS-028%20f65a3191a7%0AXS-029%2005d2c70f42%0AXS-030%2080ba8f122c)**
 
 ---
 
@@ -344,33 +344,33 @@
 
 > GLIM 基準による低栄養の診断は2段階で、まず妥当性が確かめられたスクリーニング法で低栄養のリスクがある人を見つけ、次に診断と重症度の判定を行う。診断には、表現型の基準（体重減少、低い BMI、筋肉量の減少）と病因の基準（食事摂取量・吸収の低下、炎症・疾患の負担）を少なくとも1つずつ満たす必要がある。
 
-- 条件：guideline: GLIM 基準 2019
+- 条件：guideline: GLIM 基準 2019／region: 国際
 - よくある誤解：BMI が正常なら低栄養ではない
 - 出典：Cederholm T, Jensen GL, Correia MITD, et al. GLIM criteria for the diagnosis of malnutrition - A consensus report from the global clinical nutrition community. Clin Nutr 2019;38:1-9　[DOI 10.1016/j.clnu.2018.08.002](https://doi.org/10.1016/j.clnu.2018.08.002)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-02 (id: JkxnuRM)；TBL-02-07-032 (id: JlAKplM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-031&card_id=XS-031&version=02f72db71c)　（版 `02f72db71c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-031&card_id=XS-031&version=f97c1988ee)　（版 `f97c1988ee`）
 
 ### XS-032　下書き（出典の照合前）
 
 > GLIM 基準の表現型の基準は、体重減少が6か月以内で5%超か6か月を超えて10%超、BMI が70歳未満で20未満・70歳以上で22未満（アジアでは70歳未満で18.5未満・70歳以上で20未満）、体組成の測定などでの筋肉量の減少である。
 
-- 条件：guideline: GLIM 基準 2019
+- 条件：guideline: GLIM 基準 2019／region: 国際
 - 不確実性：不等号（以上・以下）は著者最終稿の抽出で一部欠けており、刊行版で確認する
 - 出典：Cederholm T, Jensen GL, Correia MITD, et al. GLIM criteria for the diagnosis of malnutrition - A consensus report from the global clinical nutrition community. Clin Nutr 2019;38:1-9　[DOI 10.1016/j.clnu.2018.08.002](https://doi.org/10.1016/j.clnu.2018.08.002)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-02 (id: JkxnuRM)；TBL-02-07-032 (id: JlAKplM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-032&card_id=XS-032&version=770e0c4b12)　（版 `770e0c4b12`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-032&card_id=XS-032&version=9f98e2d7d0)　（版 `9f98e2d7d0`）
 
 ### XS-033　下書き（出典の照合前）
 
 > GLIM 基準の病因の基準のうち摂取量の低下は、必要エネルギーの50%以下が1週間を超えて続く、何らかの低下が2週間を超えて続く、または吸収を妨げる慢性の消化管の病態がある場合をいう。重症度は表現型の基準で分け、重度（ステージ2）は6か月以内の体重減少10%超か6か月超で20%超、BMI 70歳未満18.5未満・70歳以上20未満などとする。
 
-- 条件：guideline: GLIM 基準 2019
+- 条件：guideline: GLIM 基準 2019／region: 国際
 - 不確実性：不等号は著者最終稿の抽出で一部欠けており、刊行版で確認する
 - 出典：Cederholm T, Jensen GL, Correia MITD, et al. GLIM criteria for the diagnosis of malnutrition - A consensus report from the global clinical nutrition community. Clin Nutr 2019;38:1-9　[DOI 10.1016/j.clnu.2018.08.002](https://doi.org/10.1016/j.clnu.2018.08.002)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-02 (id: JkxnuRM)；TBL-02-07-032 (id: JlAKplM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-033&card_id=XS-033&version=f167340239)　（版 `f167340239`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-033&card_id=XS-033&version=46244cd116)　（版 `46244cd116`）
 
-**[ここまでの 3 件（XS-031〜XS-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-031%E3%80%9CXS-033&cards=XS-031%2002f72db71c%0AXS-032%20770e0c4b12%0AXS-033%20f167340239)**
+**[ここまでの 3 件（XS-031〜XS-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-031%E3%80%9CXS-033&cards=XS-031%20f97c1988ee%0AXS-032%209f98e2d7d0%0AXS-033%2046244cd116)**
 
 ---
 

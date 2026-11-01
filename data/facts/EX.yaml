@@ -60,7 +60,7 @@
   uncertainty: コペプチン測定は国内のすべての施設で実施できるわけではなく、保険適用の状況は本調査では確認していない。数値は抄録とその報道で確認した範囲。
   curriculum:
     core_curriculum: 'PS-02-14-02 (id: JkxnuS0)；TBL-02-13-015 (id: JlAKps0)'
-    kokushi: null
+    kokushi: 医学各論 Ⅹ-1-B-⑦（中枢性尿崩症、b）；医学各論 Ⅷ-2-C-③（腎性尿崩症、c）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -71,6 +71,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-1-B-⑦（中枢性尿崩症、b）；医学各論 Ⅷ-2-C-③（腎性尿崩症、c）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: EX-003
   domain: EX
   subdomain: 体重減少の評価（内分泌の視点）
@@ -203,7 +206,7 @@
   uncertainty: 薬の注記：ヒドロコルチゾン注射薬は国内で承認・保険収載されている薬剤だが、本カードでは個別の添付文書による確認は行っていない（未確認）。クリーゼ時の具体的な投与量の段階付けはガイドライン本文の表に依存し、抄録で確認できた範囲を超える用量は書いていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)'
-    kokushi: null
+    kokushi: 医学各論 Ⅹ-4-A-④（急性副腎不全、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -214,6 +217,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-4-A-④（急性副腎不全、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: EX-007
   domain: EX
   subdomain: 甲状腺クリーゼの初期対応
@@ -238,7 +244,7 @@
   uncertainty: 薬の注記：プロピルチオウラシル、メチマゾール（チアマゾール）、ヨウ化カリウム、ヒドロコルチゾン、β遮断薬の国内承認・保険適用は、本カードでは個別の添付文書で確認していない（未確認）。用量はガイドラインの表から読み取った値で、日本の甲状腺クリーゼ診療指針の用量とは異なる場合がある。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)'
-    kokushi: null
+    kokushi: 医学各論 Ⅹ-2-A-①（甲状腺機能亢進症、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -249,6 +255,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-2-A-①（甲状腺機能亢進症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: EX-008
   domain: EX
   subdomain: 粘液水腫性昏睡の初期対応
@@ -273,7 +282,7 @@
   uncertainty: 薬の注記：レボチロキシン等の甲状腺ホルモン製剤とヒドロコルチゾンの国内承認・保険適用は、本カードでは個別の添付文書で確認していない（未確認）。静注用甲状腺ホルモン製剤の国内での入手可能性も未確認。出典は2011年の総説で、熱帯地域では低体温が目立たない場合があると述べている。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)'
-    kokushi: null
+    kokushi: 医学各論 Ⅹ-2-A-②（甲状腺機能低下症、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -284,6 +293,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-2-A-②（甲状腺機能低下症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
 - id: EX-009
   domain: EX
   subdomain: 高カルシウム血症クリーゼの初期対応
@@ -308,7 +320,7 @@
   uncertainty: 薬の注記：カルシトニンやビスホスホネート系薬などの国内承認・保険適用は、本カードでは個別の添付文書で確認していない（未確認）。クリーゼの定義（カルシウム値の基準）は文献により統一されておらず、本カードでは特定の数値基準を採用していない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)'
-    kokushi: null
+    kokushi: 医学各論 Ⅹ-3-A-①（副甲状腺<上皮小体>機能亢進症、b）；医学各論 Ⅹ-3-B-③（悪性腫瘍に伴う高カルシウム血症、b）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -319,6 +331,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-3-A-①（副甲状腺<上皮小体>機能亢進症、b）；医学各論 Ⅹ-3-B-③（悪性腫瘍に伴う高カルシウム血症、b）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: EX-010
   domain: EX
   subdomain: 重症低血糖の初期対応
@@ -343,7 +358,7 @@
   uncertainty: 薬の注記：グルカゴン製剤（注射用・点鼻）やブドウ糖注射液の国内承認・保険適用と、製剤ごとの国内での発売状況は、本カードでは個別の添付文書で確認していない（未確認）。静脈内ブドウ糖の具体的な投与量は出典の抄録で確認できなかったため書いていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
-    kokushi: null
+    kokushi: 医学各論 Ⅹ-6-D-②（薬剤による低血糖、b）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -354,6 +369,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-6-D-②（薬剤による低血糖、b）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: EX-011
   domain: EX
   subdomain: 日本の糖尿病・肥満の統計
@@ -378,7 +396,7 @@
   uncertainty: 政府統計のため DOI・PMID はない。数値はいずれも厚生労働省の概要 PDF から直接読み取った。推計人数は割合に人口推計を掛けた全国推計で、実測の人数ではない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
-    kokushi: null
+    kokushi: 医学各論 Ⅹ-6-A-②（2型糖尿病、a）；医学各論 Ⅹ-7-B-①（単純性肥満、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -389,6 +407,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-6-A-②（2型糖尿病、a）；医学各論 Ⅹ-7-B-①（単純性肥満、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: EX-012
   domain: EX
   subdomain: 内分泌疾患と電解質異常（総論）
@@ -448,7 +469,7 @@
   uncertainty: 薬の注記：ヒドロコルチゾン等の国内承認・保険適用は、本カードでは個別の添付文書で確認していない（未確認）。出典は副腎不全とステロイド使用患者が中心で、甲状腺や糖尿病の周術期管理の詳細は各論に委ねる。具体的なストレス量の段階表はガイドライン本文の表に依存し、抄録で確認できた範囲を超える用量は書いていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
-    kokushi: null
+    kokushi: 医学各論 Ⅹ-4-A-③（慢性副腎不全<Addison病>、a）；医学各論 Ⅹ-4-A-⑤（医原性副腎皮質機能低下症、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -459,6 +480,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-4-A-③（慢性副腎不全<Addison病>、a）；医学各論 Ⅹ-4-A-⑤（医原性副腎皮質機能低下症、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: EX-014
   domain: EX
   subdomain: 二次性高血圧の評価（内分泌の視点）
@@ -483,7 +507,7 @@
   uncertainty: ARR のカットオフや確認試験の手順は測定法に依存し、国内のガイドラインと異なる場合があるため、本カードでは具体的なカットオフ値を書いていない。褐色細胞腫やクッシング症候群の検査の詳細は各論に委ねる。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)'
-    kokushi: null
+    kokushi: 医学各論 Ⅹ-4-A-②（アルドステロン過剰症、原発性アルドステロン症、a）；医学各論 Ⅴ-7-B-③（内分泌性高血圧症、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -494,3 +518,6 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-4-A-②（アルドステロン過剰症、原発性アルドステロン症、a）；医学各論 Ⅴ-7-B-③（内分泌性高血圧症、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による

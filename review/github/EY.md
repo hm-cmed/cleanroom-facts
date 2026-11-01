@@ -61,10 +61,10 @@
 - 条件：region: 全般／study: 総説
 - 不確実性：抄録で確認できた範囲（機序・異物の種類・合併症によって転帰が異なること、画像診断と外科的除去が中心であること）に限定した。発生率や術式別の成績などの数値は含めていない。
 - 出典：Loporchio D, Mukkamala L, Gorukanti K, Zarbin MA, Langer P, Bhagat N. Intraocular foreign bodies: A review. Surv Ophthalmol. 2016;61(5):582-596　[DOI 10.1016/j.survophthal.2016.03.005](https://doi.org/10.1016/j.survophthal.2016.03.005)　[PMID 26994871](https://pubmed.ncbi.nlm.nih.gov/26994871/)（区分 UNKNOWN）
-- 出題基準：－　コアカリ：PS-02-15-05 (id: JkxnuTU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-004&card_id=EY-004&version=ce007dd725)　（版 `ce007dd725`）
+- 出題基準：医学各論 Ⅲ-11-B-①（異物、a）；医学各論 Ⅲ-11-B-③（鋭的眼外傷、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-004&card_id=EY-004&version=ef5b471837)　（版 `ef5b471837`）
 
-**[ここまでの 1 件（EY-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-004&cards=EY-004%20ce007dd725)**
+**[ここまでの 1 件（EY-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-004&cards=EY-004%20ef5b471837)**
 
 ---
 

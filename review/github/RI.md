@@ -327,8 +327,8 @@
 - 条件：guideline: 成人肺炎診療ガイドライン2024（日本呼吸器学会）／region: 日本
 - よくある誤解：誤嚥性肺炎は抗菌薬で肺炎を治せば再発しない
 - 出典：日本呼吸器学会 成人肺炎診療ガイドライン2024作成委員会. 成人肺炎診療ガイドライン2024（学会サイト掲載 PDF：推奨一覧・フローチャート・用語の定義・第1〜2章の一部）　[リンク](https://www.jrs.or.jp/publication/file/adult_pneumonia_2024v5.pdf)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-212 (id: Jlvnlx0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-024&card_id=RI-024&version=43ec9ab765)　（版 `43ec9ab765`）
+- 出題基準：医学各論 Ⅳ-1-B-③（医療・介護関連肺炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-212 (id: Jlvnlx0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-024&card_id=RI-024&version=38ab3779c0)　（版 `38ab3779c0`）
 
 ### RI-025　下書き（出典の照合前）
 
@@ -338,8 +338,8 @@
 - よくある誤解：誤嚥性肺炎では必ず嫌気性菌をカバーしなければならない
 - 不確実性：CQ18 は3回の投票で推奨決定の条件（委員の7割以上の賛成）を満たさなかった
 - 出典：日本呼吸器学会 成人肺炎診療ガイドライン2024作成委員会. 成人肺炎診療ガイドライン2024（学会サイト掲載 PDF：推奨一覧・フローチャート・用語の定義・第1〜2章の一部）　[リンク](https://www.jrs.or.jp/publication/file/adult_pneumonia_2024v5.pdf)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-212 (id: Jlvnlx0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-025&card_id=RI-025&version=5c11fdf58a)　（版 `5c11fdf58a`）
+- 出題基準：医学各論 Ⅳ-1-B-③（医療・介護関連肺炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-212 (id: Jlvnlx0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-025&card_id=RI-025&version=0c4b19dcf8)　（版 `0c4b19dcf8`）
 
 ### RI-026　下書き（出典の照合前）
 
@@ -348,10 +348,10 @@
 - 条件：guideline: 成人肺炎診療ガイドライン2024（日本呼吸器学会）／region: 日本
 - 不確実性：ACP を始める目安として、1年以内に亡くなっても驚かないかを問う Surprise Question が挙げられている
 - 出典：日本呼吸器学会 成人肺炎診療ガイドライン2024作成委員会. 成人肺炎診療ガイドライン2024（学会サイト掲載 PDF：推奨一覧・フローチャート・用語の定義・第1〜2章の一部）　[リンク](https://www.jrs.or.jp/publication/file/adult_pneumonia_2024v5.pdf)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-212 (id: Jlvnlx0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-026&card_id=RI-026&version=182bedb835)　（版 `182bedb835`）
+- 出題基準：医学各論 Ⅳ-1-B-③（医療・介護関連肺炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-212 (id: Jlvnlx0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-026&card_id=RI-026&version=356a75108c)　（版 `356a75108c`）
 
-**[ここまでの 3 件（RI-024〜RI-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-024%E3%80%9CRI-026&cards=RI-024%2043ec9ab765%0ARI-025%205c11fdf58a%0ARI-026%20182bedb835)**
+**[ここまでの 3 件（RI-024〜RI-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-024%E3%80%9CRI-026&cards=RI-024%2038ab3779c0%0ARI-025%200c4b19dcf8%0ARI-026%20356a75108c)**
 
 ---
 
@@ -604,10 +604,10 @@
 - 条件：region: 日本
 - 不確実性：表から読み取り。COVID-19 は出題基準 Ⅳ の表にないため、出題基準の番号は付けていない
 - 出典：厚生労働省. 令和6年（2024）人口動態統計（確定数）の概況 第8表 性別にみた死因順位（第10位まで）別死亡数・死亡率（人口10万対）・構成割合　[リンク](https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/kakutei24/dl/15_gaikyouR06.pdf)（区分 GOV_JP）
-- 出題基準：－　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-620 (id: JlvnmaA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-051&card_id=RI-051&version=8beb088162)　（版 `8beb088162`）
+- 出題基準：医学各論 Ⅻ-1-A-㉑（新型コロナウイルス感染症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-620 (id: JlvnmaA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-051&card_id=RI-051&version=10e93c9f20)　（版 `10e93c9f20`）
 
-**[ここまでの 3 件（RI-049〜RI-051）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-049%E3%80%9CRI-051&cards=RI-049%20ae3ddf4723%0ARI-050%2048de1786f4%0ARI-051%208beb088162)**
+**[ここまでの 3 件（RI-049〜RI-051）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-049%E3%80%9CRI-051&cards=RI-049%20ae3ddf4723%0ARI-050%2048de1786f4%0ARI-051%2010e93c9f20)**
 
 ---
 
@@ -661,13 +661,13 @@
 
 > 肺吸虫症は、喀痰中の虫卵の証明で診断できた例と、便中の虫卵でのみ証明できた例があり、プラジカンテル75 mg/kg/日を2日間経口投与した報告では、投与を完遂した7例中6例で90日までに喀痰と便の虫卵が陰性化し、残る1例も120日までに陰性化した。
 
-- 条件：study: 1985年の症例シリーズ（8例）と総説
+- 条件：study: 1985年の症例シリーズ（8例）と総説／region: 国際
 - 不確実性：1985年の報告であり、現在の国内の標準治療・承認状況は確認していない。出典のライセンスも未確認のため、取り込み時に確認が必要。
 - 出典：Johnson RJ, Jong EC, Dunning SB, Carberry WL, Minshew BH. Paragonimiasis: diagnosis and the use of praziquantel in treatment. Rev Infect Dis. 1985;7(2):200-206　[DOI 10.1093/clinids/7.2.200](https://doi.org/10.1093/clinids/7.2.200)　[PMID 4001715](https://pubmed.ncbi.nlm.nih.gov/4001715/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅳ-1-F-①（吸虫症、線虫症、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-054&card_id=RI-054&version=bb105085b4)　（版 `bb105085b4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-054&card_id=RI-054&version=a03e8c0bbd)　（版 `a03e8c0bbd`）
 
-**[ここまでの 1 件（RI-054）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-054&cards=RI-054%20bb105085b4)**
+**[ここまでの 1 件（RI-054）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-054&cards=RI-054%20a03e8c0bbd)**
 
 ---
 

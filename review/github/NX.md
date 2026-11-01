@@ -63,8 +63,8 @@
 - 条件：population: 感覚障害のある患者／region: 国際
 - 不確実性：ISNCSCI は脊髄損傷の分類のための標準化された評価法であり、デルマトーム評価の枠組みとして示した。デルマトームの分布には重なりと個人差がある。
 - 出典：Kirshblum SC, Burns SP, Biering-Sorensen F, et al. International standards for neurological classification of spinal cord injury (revised 2011). J Spinal Cord Med. 2011;34(6):535-546　[DOI 10.1179/204577211X13207446293695](https://doi.org/10.1179/204577211X13207446293695)　[PMID 22330108](https://pubmed.ncbi.nlm.nih.gov/22330108/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-03-02 (id: JkxnuPo)；TBL-02-02-008 (id: JlAKpXw)；TBL-02-02-028 (id: JlAKpZA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-006&card_id=NX-006&version=27428a4173)　（版 `27428a4173`）
+- 出題基準：医学各論 Ⅸ-10-B-①（頸髄・胸髄・腰髄損傷、a）　コアカリ：PS-02-03-02 (id: JkxnuPo)；TBL-02-02-008 (id: JlAKpXw)；TBL-02-02-028 (id: JlAKpZA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-006&card_id=NX-006&version=d21e6a3940)　（版 `d21e6a3940`）
 
 ### NX-007　下書き（出典の照合前）
 
@@ -76,7 +76,7 @@
 - 出題基準：－　コアカリ：PS-02-03-02 (id: JkxnuPo)；TBL-02-02-027 (id: JlAKpY8)；TBL-02-02-031 (id: JlAKpZQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-007&card_id=NX-007&version=c3d7c17b63)　（版 `c3d7c17b63`）
 
-**[ここまでの 7 件（NX-001〜NX-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NX-001%E3%80%9CNX-007&cards=NX-001%2059c054f3e4%0ANX-002%20dfa78b53df%0ANX-003%20b110e0358f%0ANX-004%2000a63c6c90%0ANX-005%20e21a73a4e4%0ANX-006%2027428a4173%0ANX-007%20c3d7c17b63)**
+**[ここまでの 7 件（NX-001〜NX-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NX-001%E3%80%9CNX-007&cards=NX-001%2059c054f3e4%0ANX-002%20dfa78b53df%0ANX-003%20b110e0358f%0ANX-004%2000a63c6c90%0ANX-005%20e21a73a4e4%0ANX-006%20d21e6a3940%0ANX-007%20c3d7c17b63)**
 
 ---
 
@@ -147,8 +147,8 @@
 - 条件：population: 細菌性髄膜炎が疑われる成人／region: 国際
 - 不確実性：本カードは成人の基準であり、小児では同ガイドラインの小児用アルゴリズムで一部異なる。抗菌薬の具体的な薬剤名は挙げていない。
 - 出典：Tunkel AR, Hartman BJ, Kaplan SL, et al. Practice guidelines for the management of bacterial meningitis. Clin Infect Dis. 2004;39(9):1267-1284　[DOI 10.1086/425368](https://doi.org/10.1086/425368)　[PMID 15494903](https://pubmed.ncbi.nlm.nih.gov/15494903/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-03-03 (id: JkxnuPs)；TBL-02-02-035 (id: JlAKpZg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-012&card_id=NX-012&version=fdf3f2dd76)　（版 `fdf3f2dd76`）
+- 出題基準：医学各論 Ⅸ-3-C-①（細菌性髄膜炎、a）；医学各論 Ⅸ-3-A-②（髄膜炎、a）　コアカリ：PS-02-03-03 (id: JkxnuPs)；TBL-02-02-035 (id: JlAKpZg)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-012&card_id=NX-012&version=4c5aea2c8e)　（版 `4c5aea2c8e`）
 
 ### NX-013　下書き（出典の照合前）
 
@@ -157,10 +157,10 @@
 - 条件：population: 髄液検査を受ける患者／region: 日本
 - 不確実性：基準値と所見の型は同ガイドラインに掲載された標準的な髄液所見表に基づく。新生児・乳児では基準値が異なる。海外ガイドライン（IDSA）の示す細菌性髄膜炎の典型値（初圧200〜500mmH2O、白血球1000〜5000/mm³、蛋白100〜500mg/dL）とも大枠で一致する。
 - 出典：日本神経学会・日本神経治療学会・日本神経感染症学会 監修、「細菌性髄膜炎診療ガイドライン」作成委員会 編『細菌性髄膜炎診療ガイドライン2014』南江堂. 2014（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-03-03 (id: JkxnuPs)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-013&card_id=NX-013&version=2d56c0d055)　（版 `2d56c0d055`）
+- 出題基準：医学各論 Ⅸ-3-C-①（細菌性髄膜炎、a）；医学各論 Ⅻ-1-A-⑱（ウイルス性髄膜炎、a）；医学各論 Ⅸ-3-A-②（髄膜炎、a）　コアカリ：PS-02-03-03 (id: JkxnuPs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-013&card_id=NX-013&version=2278fb9c6f)　（版 `2278fb9c6f`）
 
-**[ここまでの 2 件（NX-012〜NX-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NX-012%E3%80%9CNX-013&cards=NX-012%20fdf3f2dd76%0ANX-013%202d56c0d055)**
+**[ここまでの 2 件（NX-012〜NX-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NX-012%E3%80%9CNX-013&cards=NX-012%204c5aea2c8e%0ANX-013%202278fb9c6f)**
 
 ---
 
@@ -173,8 +173,8 @@
 - 条件：population: 重症患者（意識障害・てんかん重積状態の後など）／region: 国際
 - 不確実性：数値は単施設の連続症例の後ろ向き検討による。通常脳波のてんかん診断における感度・特異度そのものは本カードでは扱わない。
 - 出典：Claassen J, Mayer SA, Kowalski RG, Emerson RG, Hirsch LJ. Detection of electrographic seizures with continuous EEG monitoring in critically ill patients. Neurology. 2004;62(10):1743-1748　[DOI 10.1212/01.wnl.0000125184.88797.62](https://doi.org/10.1212/01.wnl.0000125184.88797.62)　[PMID 15159471](https://pubmed.ncbi.nlm.nih.gov/15159471/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-03-03 (id: JkxnuPs)；TBL-02-02-036 (id: JlAKpZk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-014&card_id=NX-014&version=ea8147dd2c)　（版 `ea8147dd2c`）
+- 出題基準：医学各論 Ⅸ-6-D-①（てんかん重積状態、a）　コアカリ：PS-02-03-03 (id: JkxnuPs)；TBL-02-02-036 (id: JlAKpZk)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-014&card_id=NX-014&version=5fb3c0d698)　（版 `5fb3c0d698`）
 
 ### NX-015　下書き（出典の照合前）
 
@@ -183,10 +183,10 @@
 - 条件：population: 末梢神経障害が疑われる患者／region: 国際
 - 不確実性：分類基準の具体的な数値カットオフは用いる基準により異なり、本カードでは扱わない。針筋電図は神経原性変化と筋原性変化の鑑別や病期の評価に用いられるが、所見の詳細は各論を参照。
 - 出典：Hadden RD, Cornblath DR, Hughes RA, et al.; Plasma Exchange/Sandoglobulin Guillain-Barré Syndrome Trial Group. Electrophysiological classification of Guillain-Barré syndrome: clinical associations and outcome. Ann Neurol. 1998;44(5):780-788　[DOI 10.1002/ana.410440512](https://doi.org/10.1002/ana.410440512)　[PMID 9818934](https://pubmed.ncbi.nlm.nih.gov/9818934/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-03-03 (id: JkxnuPs)；TBL-02-02-036 (id: JlAKpZk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-015&card_id=NX-015&version=2606f39521)　（版 `2606f39521`）
+- 出題基準：医学各論 Ⅸ-5-A-①（多発ニューロパチー、a）；医学各論 Ⅸ-5-A-②（Guillain-Barré症候群、慢性炎症性脱髄性多発根ニューロパチー、b）　コアカリ：PS-02-03-03 (id: JkxnuPs)；TBL-02-02-036 (id: JlAKpZk)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-015&card_id=NX-015&version=f3e27ab0b9)　（版 `f3e27ab0b9`）
 
-**[ここまでの 2 件（NX-014〜NX-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NX-014%E3%80%9CNX-015&cards=NX-014%20ea8147dd2c%0ANX-015%202606f39521)**
+**[ここまでの 2 件（NX-014〜NX-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NX-014%E3%80%9CNX-015&cards=NX-014%205fb3c0d698%0ANX-015%20f3e27ab0b9)**
 
 ---
 
@@ -199,10 +199,10 @@
 - 条件：population: 急性期脳梗塞が疑われる患者／region: 国際
 - 不確実性：本カードは急性期脳梗塞を念頭に置いた一般論であり、疾患ごとの画像選択（くも膜下出血での血管評価など）は各論のカードを参照。撮像プロトコルの詳細は扱わない。
 - 出典：Powers WJ, Rabinstein AA, Ackerson T, et al. Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update. Stroke. 2019;50(12):e344-e418　[DOI 10.1161/STR.0000000000000211](https://doi.org/10.1161/STR.0000000000000211)　[PMID 31662037](https://pubmed.ncbi.nlm.nih.gov/31662037/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-03-03 (id: JkxnuPs)；TBL-02-02-035 (id: JlAKpZg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-016&card_id=NX-016&version=76bd36ac5b)　（版 `76bd36ac5b`）
+- 出題基準：医学各論 Ⅸ-1-C-①（心原性脳塞栓症、a）；医学各論 Ⅸ-1-C-②（アテローム血栓性脳梗塞、a）；医学各論 Ⅸ-1-C-③（ラクナ梗塞、a）　コアカリ：PS-02-03-03 (id: JkxnuPs)；TBL-02-02-035 (id: JlAKpZg)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-016&card_id=NX-016&version=b9fbb5f07f)　（版 `b9fbb5f07f`）
 
-**[ここまでの 1 件（NX-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NX-016&cards=NX-016%2076bd36ac5b)**
+**[ここまでの 1 件（NX-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NX-016&cards=NX-016%20b9fbb5f07f)**
 
 ---
 

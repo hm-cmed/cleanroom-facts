@@ -13,10 +13,10 @@
 - 条件：region: 国際／study: FIGO分類に基づく総説（2023年）
 - 不確実性：FIGOの定義は国際的な合意に基づくものであり、日本の診療で用いられる月経異常の定義（日本産科婦人科学会の用語集など）と細部が異なる可能性がある。日本の定義との対応は本調査では未確認である。
 - 出典：Jain V, Munro MG, Critchley HOD. Contemporary evaluation of women and girls with abnormal uterine bleeding: FIGO Systems 1 and 2. Int J Gynaecol Obstet. 2023;162 Suppl 2:29-42.　[DOI 10.1002/ijgo.14946](https://doi.org/10.1002/ijgo.14946)　[PMID 37538019](https://pubmed.ncbi.nlm.nih.gov/37538019/)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-021 (id: JlAKppQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-001&card_id=RP-001&version=5cc6326035)　（版 `5cc6326035`）
+- 出題基準：医学各論 Ⅷ-8-D-②（機能性子宮出血、a）；医学各論 Ⅷ-8-B-②（過多月経、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-021 (id: JlAKppQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-001&card_id=RP-001&version=71b4849027)　（版 `71b4849027`）
 
-**[ここまでの 1 件（RP-001）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-001&cards=RP-001%205cc6326035)**
+**[ここまでの 1 件（RP-001）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-001&cards=RP-001%2071b4849027)**
 
 ---
 
@@ -29,10 +29,10 @@
 - 条件：region: 国際／study: 総説（2019年）
 - 不確実性：WHOの排卵障害分類は不妊診療の文脈で用いられる分類であり、月経異常の原因分類（PALM-COEINのAUB-Oなど）とは目的が異なる。GnRHパルス頻度の具体的な数値は出典の抄録では確認できなかったため主張に含めていない。
 - 出典：Mikhael S, Punjala-Patel A, Gavrilova-Jordan L. Hypothalamic-Pituitary-Ovarian Axis Disorders Impacting Female Fertility. Biomedicines. 2019;7(1):5.　[DOI 10.3390/biomedicines7010005](https://doi.org/10.3390/biomedicines7010005)　[PMID 30621143](https://pubmed.ncbi.nlm.nih.gov/30621143/)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-002&card_id=RP-002&version=51f53b5770)　（版 `51f53b5770`）
+- 出題基準：医学各論 Ⅷ-8-A-①（視床下部性無月経、a）；医学各論 Ⅷ-8-A-③（卵巣性無月経、b）；医学各論 Ⅷ-8-D-⑥（多囊胞性卵巣症候群<PCOS>、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-002&card_id=RP-002&version=202c776069)　（版 `202c776069`）
 
-**[ここまでの 1 件（RP-002）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-002&cards=RP-002%2051f53b5770)**
+**[ここまでの 1 件（RP-002）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-002&cards=RP-002%20202c776069)**
 
 ---
 
@@ -221,10 +221,10 @@
 - 条件：region: 米国／study: 内分泌学会診療ガイドライン（2017年、機能性視床下部性無月経）
 - 不確実性：出典は機能性視床下部性無月経に特化したガイドラインであり、初期検査の項目立てはその文脈に基づく。月経異常全般に対する日本の検査指針との対応は未確認である。各ホルモンの基準値や測定のタイミング（周期何日目か）の詳細は主張に含めていない。AMHなどの検査の日本での保険適用の状況は未確認である。
 - 出典：Gordon CM, Ackerman KE, Berga SL, Kaplan JR, Mastorakos G, Misra M, Murad MH, Santoro NF, Warren MP. Functional Hypothalamic Amenorrhea: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2017;102(5):1413-1439.　[DOI 10.1210/jc.2017-00131](https://doi.org/10.1210/jc.2017-00131)　[PMID 28368518](https://pubmed.ncbi.nlm.nih.gov/28368518/)（区分 UNKNOWN）
-- 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-019&card_id=RP-019&version=fef09073f6)　（版 `fef09073f6`）
+- 出題基準：医学各論 Ⅷ-8-A-①（視床下部性無月経、a）；医学各論 Ⅷ-8-A-②（下垂体性無月経、b）；医学各論 Ⅷ-8-A-③（卵巣性無月経、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-019&card_id=RP-019&version=9dbb3aead2)　（版 `9dbb3aead2`）
 
-**[ここまでの 1 件（RP-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-019&cards=RP-019%20fef09073f6)**
+**[ここまでの 1 件（RP-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-019&cards=RP-019%209dbb3aead2)**
 
 ---
 
@@ -237,10 +237,10 @@
 - 条件：region: 国際／study: 総説（2009年）
 - 不確実性：卵胞数の具体的な数（出生時・思春期・閉経時の残存数）は出典の抄録では確認できなかったため主張に含めていない。卵巣予備能検査による自然妊娠や閉経年齢の予測精度には限界があることが出典でも指摘されている。出典のライセンス表示は確認できなかった。
 - 出典：Broekmans FJ, Soules MR, Fauser BC. Ovarian aging: mechanisms and clinical consequences. Endocr Rev. 2009;30(5):465-493.　[DOI 10.1210/er.2009-0006](https://doi.org/10.1210/er.2009-0006)　[PMID 19589949](https://pubmed.ncbi.nlm.nih.gov/19589949/)（区分 UNKNOWN）
-- 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-020&card_id=RP-020&version=c6b7a2f5bc)　（版 `c6b7a2f5bc`）
+- 出題基準：医学各論 Ⅷ-9-A（更年期障害、a）；医学各論 Ⅷ-8-E-①（女性不妊症、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-020&card_id=RP-020&version=95f2dfb35d)　（版 `95f2dfb35d`）
 
-**[ここまでの 1 件（RP-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-020&cards=RP-020%20c6b7a2f5bc)**
+**[ここまでの 1 件（RP-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-020&cards=RP-020%2095f2dfb35d)**
 
 ---
 
@@ -455,10 +455,10 @@
 - 条件：region: 国際／study: 系統的レビュー（2024年）
 - 不確実性：本出典の対象は抗レトロウイルス薬との相互作用に限られ、抗てんかん薬やリファンピシン系抗菌薬など他の酵素誘導薬との相互作用は扱っていないため、主張はその範囲に限った。国内のホルモン避妊薬の承認・保険適用の状況は未確認である。
 - 出典：Todd CS, Lorenzetti L, Mussa A, et al. Drug-drug interactions between antiretrovirals and hormonal contraception: an updated systematic review. Contraception. 2024;138:110490.　[DOI 10.1016/j.contraception.2024.110490](https://doi.org/10.1016/j.contraception.2024.110490)　[PMID 38762199](https://pubmed.ncbi.nlm.nih.gov/38762199/)（区分 OPEN）
-- 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-034&card_id=RP-034&version=2b2b9bd674)　（版 `2b2b9bd674`）
+- 出題基準：医学各論 Ⅷ-8-F（避妊、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-034&card_id=RP-034&version=29ef81dea9)　（版 `29ef81dea9`）
 
-**[ここまでの 1 件（RP-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-034&cards=RP-034%202b2b9bd674)**
+**[ここまでの 1 件（RP-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-034&cards=RP-034%2029ef81dea9)**
 
 ---
 
@@ -471,10 +471,10 @@
 - 条件：region: 国際／study: 系統的レビュー（2019年、Cochrane）
 - 不確実性：レビューの対象は、腔外の3cm未満の筋腫を除き既知の子宮病変のない過多月経であり、器質的疾患がある場合は適応が異なる。国内での子宮内膜アブレーションの実施状況や保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】子宮内膜アブレーションは2012年4月に保険収載され（K863-3 子宮鏡下子宮内膜焼灼術、マイクロ波子宮内膜アブレーションを含む）、過多月経に対して保険診療で実施されている（マイクロ波手術研究会の実施要項、診療報酬資料）。
 - 出典：Bofill Rodriguez M, Lethaby A, Grigore M, et al. Endometrial resection and ablation techniques for heavy menstrual bleeding. Cochrane Database of Systematic Reviews. 2019;(1):CD001501.　[DOI 10.1002/14651858.CD001501.pub5](https://doi.org/10.1002/14651858.CD001501.pub5)　[PMID 30667064](https://pubmed.ncbi.nlm.nih.gov/30667064/)（区分 UNKNOWN）
-- 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-035&card_id=RP-035&version=280678f9f8)　（版 `280678f9f8`）
+- 出題基準：医学各論 Ⅷ-8-B-②（過多月経、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-035&card_id=RP-035&version=7632c7b8bb)　（版 `7632c7b8bb`）
 
-**[ここまでの 1 件（RP-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-035&cards=RP-035%20280678f9f8)**
+**[ここまでの 1 件（RP-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-035&cards=RP-035%207632c7b8bb)**
 
 ---
 
@@ -551,10 +551,10 @@
 - 条件：region: 国際／study: 総説（2010年）
 - 不確実性：甲状腺ホルモン製剤や抗甲状腺薬の国内承認・保険適用は未確認である。TSH などの基準値や、自己免疫性甲状腺疾患と不妊治療成績の関係の数値は、確認した範囲を超えるため主張には含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】レボチロキシン（チラーヂンS）、チアマゾール（メルカゾール）、プロピルチオウラシル（プロパジール）はいずれも長期に承認されている医薬品。「未確認」は解消できる
 - 出典：Krassas GE, Poppe K, Glinoer D. Thyroid function and human reproductive health. Endocrine Reviews. 2010;31(5):702-755.　[DOI 10.1210/er.2009-0041](https://doi.org/10.1210/er.2009-0041)　[PMID 20573783](https://pubmed.ncbi.nlm.nih.gov/20573783/)（区分 UNKNOWN）
-- 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-040&card_id=RP-040&version=067b8b1103)　（版 `067b8b1103`）
+- 出題基準：医学各論 Ⅹ-2-A-①（甲状腺機能亢進症、a）；医学各論 Ⅹ-2-A-②（甲状腺機能低下症、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-040&card_id=RP-040&version=655e306df0)　（版 `655e306df0`）
 
-**[ここまでの 1 件（RP-040）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-040&cards=RP-040%20067b8b1103)**
+**[ここまでの 1 件（RP-040）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-040&cards=RP-040%20655e306df0)**
 
 ---
 
@@ -647,10 +647,10 @@
 - 条件：region: 国際／study: 生殖加齢の段階分類に関する国際ワークショップの合意文書（STRAW+10、2012年）
 - 不確実性：日本産科婦人科学会による閉経の定義の文言そのものは本出典では確認しておらず、STRAW+10 の枠組みに基づく記述である。若年での無月経など、ホルモン測定を要する場面の詳細は扱っていない。
 - 出典：Harlow SD, Gass M, Hall JE, et al. Executive summary of the Stages of Reproductive Aging Workshop + 10: addressing the unfinished agenda of staging reproductive aging. Menopause. 2012;19(4):387-395.　[DOI 10.1097/gme.0b013e31824d8f40](https://doi.org/10.1097/gme.0b013e31824d8f40)　[PMID 22343510](https://pubmed.ncbi.nlm.nih.gov/22343510/)（区分 UNKNOWN）
-- 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-046&card_id=RP-046&version=ba69b1d0d3)　（版 `ba69b1d0d3`）
+- 出題基準：医学各論 Ⅷ-9-A（更年期障害、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-046&card_id=RP-046&version=b3000c6170)　（版 `b3000c6170`）
 
-**[ここまでの 1 件（RP-046）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-046&cards=RP-046%20ba69b1d0d3)**
+**[ここまでの 1 件（RP-046）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-046&cards=RP-046%20b3000c6170)**
 
 ---
 
@@ -663,10 +663,10 @@
 - 条件：region: 国際／study: 生殖加齢の段階分類に関する国際ワークショップの合意文書（STRAW+10、2012年）
 - 不確実性：各ホルモンの具体的な数値基準は本文の段階表に依存し、本カードでは確認した範囲（月経基準と変化の方向）にとどめた。各段階の持続期間の詳細は入れていない。
 - 出典：Harlow SD, Gass M, Hall JE, et al. Executive summary of the Stages of Reproductive Aging Workshop + 10: addressing the unfinished agenda of staging reproductive aging. Menopause. 2012;19(4):387-395.　[DOI 10.1097/gme.0b013e31824d8f40](https://doi.org/10.1097/gme.0b013e31824d8f40)　[PMID 22343510](https://pubmed.ncbi.nlm.nih.gov/22343510/)（区分 UNKNOWN）
-- 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-047&card_id=RP-047&version=1cc4fd9109)　（版 `1cc4fd9109`）
+- 出題基準：医学各論 Ⅷ-9-A（更年期障害、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-047&card_id=RP-047&version=bfd6443634)　（版 `bfd6443634`）
 
-**[ここまでの 1 件（RP-047）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-047&cards=RP-047%201cc4fd9109)**
+**[ここまでの 1 件（RP-047）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-047&cards=RP-047%20bfd6443634)**
 
 ---
 
@@ -919,10 +919,10 @@
 - 条件：region: 米国／study: 総説（無月経の診断・管理アプローチ。本文で定義を確認）
 - 不確実性：評価開始の目安のうち「乳房発育の開始から5年」は、本出典（2013年）の本文の記載による。元のカードの「3年」は本出典では確認できなかったため、出典の記載どおり5年とした。評価時期の基準は、資料の発行年や発行団体により異なる可能性がある。Am Fam Physician はDOIを付与していないためDOIはnullとした。
 - 出典：Klein DA, Poth MA. Amenorrhea: An Approach to Diagnosis and Management. Am Fam Physician. 2013;87(11):781-788.　[PMID 23939500](https://pubmed.ncbi.nlm.nih.gov/23939500/)（区分 UNKNOWN）
-- 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-021 (id: JlAKppQ)；TBL-02-09-022 (id: JlAKppU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-065&card_id=RP-065&version=99472b360d)　（版 `99472b360d`）
+- 出題基準：医学各論 Ⅷ-8-A-③（卵巣性無月経、b）；医学各論 Ⅷ-8-A-④（子宮性無月経、b）；医学各論 Ⅰ-4-A-②（Turner症候群、b）；医学各論 Ⅰ-4-B-①（腟欠損症、Mayer-Rokitansky-Küster-Hauser<MRKH>症候群、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-021 (id: JlAKppQ)；TBL-02-09-022 (id: JlAKppU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-065&card_id=RP-065&version=beacc614c0)　（版 `beacc614c0`）
 
-**[ここまでの 1 件（RP-065）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-065&cards=RP-065%2099472b360d)**
+**[ここまでの 1 件（RP-065）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-065&cards=RP-065%20beacc614c0)**
 
 ---
 

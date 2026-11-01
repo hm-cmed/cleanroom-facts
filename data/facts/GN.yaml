@@ -337,7 +337,7 @@
   uncertainty: 定義の数値はガイドラインの表から読み取ったものである（表から読み取り）。小児では定義が異なり、高度蛋白尿と血清アルブミン2.5 g/dL以下が用いられる。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
-    kokushi: null
+    kokushi: 医学各論 Ⅷ-1-B-①（微小変化群、a）；医学各論 Ⅷ-1-B-②（巣状分節性糸球体硬化症、a）；医学各論 Ⅷ-1-B-③（膜性腎症、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -348,6 +348,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅷ-1-B-①（微小変化群、a）；医学各論 Ⅷ-1-B-②（巣状分節性糸球体硬化症、a）；医学各論 Ⅷ-1-B-③（膜性腎症、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: GN-011
   domain: GN
   subdomain: ネフローゼ症候群
@@ -372,7 +375,7 @@
   uncertainty: 本カードはガイドラインに基づく管理の総論であり、合併症の頻度などの個別の数値は扱っていない。免疫抑制薬や利尿薬、レニン・アンジオテンシン系阻害薬は国内承認薬だが、疾患ごとの適応・保険適用の確認は個別のカードで行う。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
-    kokushi: null
+    kokushi: 医学各論 Ⅷ-1-B-①（微小変化群、a）；医学各論 Ⅷ-1-B-②（巣状分節性糸球体硬化症、a）；医学各論 Ⅷ-1-B-③（膜性腎症、a）
   publication_info:
     created: '2026-10-28'
     verifier: null
@@ -383,6 +386,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅷ-1-B-①（微小変化群、a）；医学各論 Ⅷ-1-B-②（巣状分節性糸球体硬化症、a）；医学各論 Ⅷ-1-B-③（膜性腎症、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
 - id: GN-012
   domain: GN
   subdomain: 微小変化群

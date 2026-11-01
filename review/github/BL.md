@@ -87,10 +87,10 @@
 - 条件：region: 欧州／対象: 成人
 - 不確実性：数値はガイドライン本文（PMC 全文）で確認した。英国の成人診療の基準であり、日本の診療指針の基準値とは別に扱うこと。出典マスターではこの文献の PMID が未登録のため、PMID 34497146 の補完を取り込み側に提案する
 - 出典：Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. Gut. 2021;70(11):2030-2051.　[DOI 10.1136/gutjnl-2021-325210](https://doi.org/10.1136/gutjnl-2021-325210)　[PMID 34497146](https://pubmed.ncbi.nlm.nih.gov/34497146/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PS-02-02-03 (id: JkxnuPU)；TBL-02-01-006 (id: JlAKpV0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BL-006&card_id=BL-006&version=73beccb24e)　（版 `73beccb24e`）
+- 出題基準：医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）　コアカリ：PS-02-02-03 (id: JkxnuPU)；TBL-02-01-006 (id: JlAKpV0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BL-006&card_id=BL-006&version=07bc10e4d3)　（版 `07bc10e4d3`）
 
-**[ここまでの 1 件（BL-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BL-006&cards=BL-006%2073beccb24e)**
+**[ここまでの 1 件（BL-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BL-006&cards=BL-006%2007bc10e4d3)**
 
 ---
 

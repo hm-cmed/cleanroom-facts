@@ -421,92 +421,92 @@
 
 > 胃癌のN分類は、所属リンパ節の転移個数で決まる。N1は1〜2個、N2は3〜6個、N3aは7〜15個、N3bは16個以上である。
 
-- 条件：classification: 胃癌取扱い規約第15版＝UICC TNM第8版
+- 条件：classification: 胃癌取扱い規約第15版＝UICC TNM第8版／region: 日本 vs 欧米
 - 鑑別・補足：No.13リンパ節は通常M1だが、十二指腸浸潤例では所属リンパ節として扱う
 - よくある誤解：N分類は転移したリンパ節の部位で決まる
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-035&card_id=GD-035&version=12fdf39536)　（版 `12fdf39536`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-035&card_id=GD-035&version=16fae8b164)　（版 `16fae8b164`）
 
 ### GD-036　出典照合済み・監修待ち
 
 > 内視鏡治療の適応判断では、乳頭腺癌と高・中分化管状腺癌を分化型、低分化腺癌と印環細胞癌を未分化型とする。両者が混在する場合は量的に優勢な組織型で分類する。粘膜下層に粘液癌がある場合は未分化型として扱う。
 
-- 条件：guideline: JGCA 第7版
+- 条件：guideline: JGCA 第7版／region: 日本 vs 欧米
 - 鑑別・補足：潰瘍所見（UL）は生検瘢痕と区別が難しい場合、UL1とする
 - よくある誤解：印環細胞癌は分化型に含まれる
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-036&card_id=GD-036&version=c4e56edc23)　（版 `c4e56edc23`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-036&card_id=GD-036&version=891fc5ebe9)　（版 `891fc5ebe9`）
 
 ### GD-037　出典照合済み・監修待ち
 
 > 早期胃癌の内視鏡切除の絶対適応は次のとおりである。EMRまたはESDの絶対適応は、潰瘍所見のない（UL0）cT1aの分化型で長径2 cm以下のもの。ESDの絶対適応は、UL0のcT1a分化型で2 cmを超えるもの、潰瘍所見のある（UL1）cT1a分化型で3 cm以下のもの、UL0のcT1a未分化型で2 cm以下のものである。
 
-- 条件：guideline: JGCA 第6版・第7版で同一
+- 条件：guideline: JGCA 第6版・第7版で同一／region: 日本 vs 欧米
 - 鑑別・補足：絶対適応はリンパ節転移の可能性が1%未満で外科切除と同等の効果が期待できるもの
 - よくある誤解：未分化型は大きさにかかわらず内視鏡切除の適応外
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-037&card_id=GD-037&version=e21f1eed98)　（版 `e21f1eed98`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-037&card_id=GD-037&version=22cd0ff931)　（版 `22cd0ff931`）
 
 ### GD-038　出典照合済み・監修待ち
 
 > 内視鏡切除の適応拡大病変は、絶対適応の分化型病変を初回切除してeCuraC-1となり、その後に局所再発したcT1aの病変である。絶対適応・適応拡大のいずれにも当たらない病変でも、高齢や重い併存疾患で手術が勧められない場合は、リンパ節転移の残存リスクを説明したうえで相対適応として内視鏡切除を選べる。
 
-- 条件：guideline: JGCA 第7版
+- 条件：guideline: JGCA 第7版／region: 日本 vs 欧米
 - 鑑別・補足：相対適応の標準治療は外科切除
 - よくある誤解：高齢者には絶対適応外の病変でも常に内視鏡切除が標準
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-038&card_id=GD-038&version=8c0eb5fef3)　（版 `8c0eb5fef3`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-038&card_id=GD-038&version=1b23232f81)　（版 `1b23232f81`）
 
 ### GD-039　出典照合済み・監修待ち
 
 > 第7版では、一括切除・HM0・VM0・Ly0・V0を前提に、UL0のpT1aで分化型優位なら大きさを問わず、未分化型優位なら2 cm以下の場合をeCuraAとする。UL1のpT1a分化型優位で3 cm以下も、分化型優位で3 cm以下のpT1b1（SM1、粘膜筋板から500 µm未満）もeCuraAとなる。
 
-- 条件：guideline: JGCA 第7版（第6版ではSM1病変はeCuraBだった）
+- 条件：guideline: JGCA 第7版（第6版ではSM1病変はeCuraBだった）／region: 日本 vs 欧米
 - 鑑別・補足：未分化成分が2 cmを超える場合や、SM浸潤部に未分化成分がある場合はeCuraC-2
 - よくある誤解：SM浸潤があれば常に非治癒切除
 - 不確実性：第6版からの分類変更点。第7版本文で確認済みだが、教材では版を明記すること
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-039&card_id=GD-039&version=5d8dfea094)　（版 `5d8dfea094`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-039&card_id=GD-039&version=82cf442b54)　（版 `82cf442b54`）
 
 ### GD-040　出典照合済み・監修待ち
 
 > eCuraC-1は、分化型で、分割切除または水平断端陽性であることを除けばeCuraAまたはBの条件を満たすものである。それ以外のeCuraCはeCuraC-2とする。eCuraC-1では再ESD、外科切除、焼灼効果を期待した厳重経過観察、レーザーやAPCによる焼灼から選べる。eCuraC-2ではリンパ節郭清を伴う胃切除が標準となる。
 
-- 条件：guideline: JGCA 第7版
+- 条件：guideline: JGCA 第7版／region: 日本 vs 欧米
 - 鑑別・補足：第7版のeCuraBは、適応拡大病変（局所再発）の切除で条件を満たすもの
 - よくある誤解：eCuraC-1は全例で追加外科切除が必要
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-040&card_id=GD-040&version=c59a2fdcb4)　（版 `c59a2fdcb4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-040&card_id=GD-040&version=a2b9f22106)　（版 `a2b9f22106`）
 
 ### GD-041　出典照合済み・監修待ち
 
 > eCuraAの切除後は年1回の内視鏡で経過を観察する。eCuraA・Bのいずれでも、H. pyloriを検査して陽性なら除菌することが推奨される。異時性胃癌のリスクは長く続くため、長期の経過観察が必要である。
 
-- 条件：guideline: JGCA 第7版
+- 条件：guideline: JGCA 第7版／region: 日本 vs 欧米
 - 鑑別・補足：eCuraBでは年1〜2回の内視鏡に加え腹部超音波またはCTで転移を検索する
 - よくある誤解：除菌すれば内視鏡の経過観察は不要
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-033 (id: JlAKplQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-041&card_id=GD-041&version=ac8155d3e8)　（版 `ac8155d3e8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-041&card_id=GD-041&version=8a3a021dd0)　（版 `8a3a021dd0`）
 
 ### GD-042　出典照合済み・監修待ち
 
 > 定型胃切除は、胃の3分の2以上の切除とD2リンパ節郭清を行う手術である。D2郭清はcT2〜T4とcT1N+の根治切除可能例に、D1またはD1+郭清はcT1N0に適応する。cT1aで内視鏡切除の適応外のものと、分化型で1.5 cm以下のcT1bN0にはD1郭清を行う。
 
-- 条件：guideline: JGCA 第7版
+- 条件：guideline: JGCA 第7版／region: 日本 vs 欧米
 - 鑑別・補足：術前・術中の深達度とリンパ節の診断は不確実なため、転移を否定できなければD2を行う
 - よくある誤解：早期胃癌でも全例D2郭清が必要
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-042&card_id=GD-042&version=16d1b5ecf9)　（版 `16d1b5ecf9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-042&card_id=GD-042&version=31e044bb41)　（版 `31e044bb41`）
 
-**[ここまでの 10 件（GD-033〜GD-042）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-033%E3%80%9CGD-042&cards=GD-033%200855801c79%0AGD-034%20cf6b240633%0AGD-035%2012fdf39536%0AGD-036%20c4e56edc23%0AGD-037%20e21f1eed98%0AGD-038%208c0eb5fef3%0AGD-039%205d8dfea094%0AGD-040%20c59a2fdcb4%0AGD-041%20ac8155d3e8%0AGD-042%2016d1b5ecf9)**
+**[ここまでの 10 件（GD-033〜GD-042）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-033%E3%80%9CGD-042&cards=GD-033%200855801c79%0AGD-034%20cf6b240633%0AGD-035%2016fae8b164%0AGD-036%20891fc5ebe9%0AGD-037%2022cd0ff931%0AGD-038%201b23232f81%0AGD-039%2082cf442b54%0AGD-040%20a2b9f22106%0AGD-041%208a3a021dd0%0AGD-042%2031e044bb41)**
 
 ---
 
@@ -514,90 +514,90 @@
 
 > 根治切除の口側断端距離は、T2以深では限局型（1型・2型）で3 cm以上、浸潤型（3型・4型）で5 cm以上を確保する。T1では肉眼で2 cmの断端を確保する。確保できない場合は断端の術中迅速診断を行う。
 
-- 条件：guideline: JGCA 第7版
+- 条件：guideline: JGCA 第7版／region: 日本 vs 欧米
 - 鑑別・補足：食道浸潤例では5 cm超は必須ではなく、迅速診断でR0を確認する
 - よくある誤解：断端距離は肉眼型に関係なく一律
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-043&card_id=GD-043&version=37eff9a400)　（版 `37eff9a400`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-043&card_id=GD-043&version=be27c0ad5b)　（版 `be27c0ad5b`）
 
 ### GD-044　出典照合済み・監修待ち
 
 > 大彎に浸潤しない胃上部の進行癌に対する胃全摘では、脾臓を温存することが強く推奨されている（エビデンスA）。大彎浸潤例では脾摘または脾門リンパ節郭清が弱く推奨されている。
 
-- 条件：guideline: JGCA 第6版 CQ7（JCOG0110）
+- 条件：guideline: JGCA 第6版 CQ7（JCOG0110）／region: 日本
 - 鑑別・補足：膵浸潤で膵脾合併切除が必要な場合は部位にかかわらず胃全摘
 - よくある誤解：胃上部の進行癌では脾摘を標準とする
 - 出典：Japanese Gastric Cancer Association. Japanese Gastric Cancer Treatment Guidelines 2021 (6th edition). Gastric Cancer 2023;26:1-25　[DOI 10.1007/s10120-022-01331-8](https://doi.org/10.1007/s10120-022-01331-8)　[PMID 36342574](https://pubmed.ncbi.nlm.nih.gov/36342574/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-044&card_id=GD-044&version=659a7e9186)　（版 `659a7e9186`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-044&card_id=GD-044&version=82d8692886)　（版 `82d8692886`）
 
 ### GD-045　出典照合済み・監修待ち
 
 > 肝転移や腹膜転移など非治癒因子があり、出血・狭窄などの症状がない患者に腫瘍量を減らす目的で行う減量手術は、国際共同RCT（REGATTA、JCOG0705/KGCA01）で生存上の利益が示されなかった。化学療法が可能な患者には行わないよう勧められている。
 
-- 条件：guideline: JGCA 第7版
+- 条件：guideline: JGCA 第7版／region: 日本 vs 欧米
 - 鑑別・補足：出血や狭窄に対する姑息手術、化学療法奏効後のconversion surgeryは別の概念
 - よくある誤解：切除できる非治癒胃癌は原発巣を切除した方が生存が延びる
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-045&card_id=GD-045&version=dbbce8a7bc)　（版 `dbbce8a7bc`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-045&card_id=GD-045&version=3dd4e7413f)　（版 `3dd4e7413f`）
 
 ### GD-046　出典照合済み・監修待ち
 
 > 第7版は、腹腔鏡下幽門側胃切除をStageⅡ以上の進行癌も含めて標準治療の一つとして強く推奨している（エビデンスA）。cStageⅠに対する腹腔鏡下胃全摘・噴門側胃切除も強く推奨され、進行癌に対する腹腔鏡下胃全摘とロボット支援胃切除は弱く推奨されている。
 
-- 条件：guideline: JGCA 第7版 CQ1-1〜1-3（第6版ではcStageⅡ/Ⅲは推奨なし）
+- 条件：guideline: JGCA 第7版 CQ1-1〜1-3（第6版ではcStageⅡ/Ⅲは推奨なし）／region: 日本 vs 欧米
 - 鑑別・補足：根拠：JCOG0912、KLASS-01、KLASS-02、CLASS-01、JLSSG0901
 - よくある誤解：腹腔鏡手術は早期胃癌に限られる
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-046&card_id=GD-046&version=56231f7a23)　（版 `56231f7a23`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-046&card_id=GD-046&version=ed4ee0894a)　（版 `ed4ee0894a`）
 
 ### GD-047　出典照合済み・監修待ち
 
 > cT1N0の胃中部の癌で、腫瘍の遠位端が幽門から4 cm以上離れている場合は、幽門保存胃切除が選択肢となる（弱い推奨）。
 
-- 条件：guideline: JGCA 第7版 CQ2-1
+- 条件：guideline: JGCA 第7版 CQ2-1／region: 日本 vs 欧米
 - 鑑別・補足：胃上部の早期癌には噴門側胃切除、胃上部でわずかでも胃を残せる場合は亜全摘
 - よくある誤解：幽門保存胃切除は進行癌にも適応
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-047&card_id=GD-047&version=95012f8ead)　（版 `95012f8ead`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-047&card_id=GD-047&version=fcc2fa0efb)　（版 `fcc2fa0efb`）
 
 ### GD-048　出典照合済み・監修待ち
 
 > 食道胃接合部癌（腫瘍中心が接合部の上下2 cm以内）のcT2以深では、食道浸潤長に応じて郭清範囲を決める。浸潤長が2 cmを超えれば下縦隔の、4 cmを超えれば上・中・下縦隔のリンパ節郭清が弱く推奨されている。浸潤長4 cm以下なら経裂孔的腹部アプローチを選べる。
 
-- 条件：guideline: JGCA 第6版 CQ12（日本胃癌学会・日本食道学会の前向き研究に基づく）
+- 条件：guideline: JGCA 第6版 CQ12（日本胃癌学会・日本食道学会の前向き研究に基づく）／region: 日本
 - 鑑別・補足：組織型は腺癌でも扁平上皮癌でもよい
 - よくある誤解：食道胃接合部癌は常に開胸手術が必要
 - 出典：Japanese Gastric Cancer Association. Japanese Gastric Cancer Treatment Guidelines 2021 (6th edition). Gastric Cancer 2023;26:1-25　[DOI 10.1007/s10120-022-01331-8](https://doi.org/10.1007/s10120-022-01331-8)　[PMID 36342574](https://pubmed.ncbi.nlm.nih.gov/36342574/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-048&card_id=GD-048&version=8828777c1d)　（版 `8828777c1d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-048&card_id=GD-048&version=eca1525cd2)　（版 `eca1525cd2`）
 
 ### GD-049　出典照合済み・監修待ち
 
 > pStageⅡ胃癌には、術後補助化学療法としてS-1の1年間投与が推奨される。JCOG1104試験では、S-1を1年間投与した群の3年無再発生存率は93.1%、3年全生存率は96.1%だった。
 
-- 条件：guideline: JGCA 第7版
+- 条件：guideline: JGCA 第7版／region: 日本 vs 欧米
 - 鑑別・補足：pStageⅢでは併用療法が推奨される
 - よくある誤解：pStageⅡにもドセタキセル併用が標準
 - 不確実性：数値はGL本文の引用値。JCOG1104原著は未照合
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-049&card_id=GD-049&version=4cec2e6573)　（版 `4cec2e6573`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-049&card_id=GD-049&version=672e669729)　（版 `672e669729`）
 
 ### GD-050　出典照合済み・監修待ち
 
 > pStageⅢ胃癌の術後補助化学療法には、S-1＋ドセタキセル、CapeOX、SOXなどの併用療法が推奨され、S-1単独は条件付き推奨となる。併用療法どうしの直接比較はない。ATTRACTION-5試験では、術後補助化学療法へのニボルマブ追加の効果は認められなかった。
 
-- 条件：guideline: JGCA 第7版（根拠：JACCRO GC-07、CLASSIC、ARTIST2）
+- 条件：guideline: JGCA 第7版（根拠：JACCRO GC-07、CLASSIC、ARTIST2）／region: 日本 vs 欧米
 - 鑑別・補足：食道癌の術後ニボルマブ（CheckMate 577）とは対象が異なる
 - よくある誤解：胃癌の術後補助療法にも免疫チェックポイント阻害薬が標準
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-050&card_id=GD-050&version=b6f597dc03)　（版 `b6f597dc03`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-050&card_id=GD-050&version=9ae5946c06)　（版 `9ae5946c06`）
 
 ### GD-051　出典照合済み・監修待ち
 
@@ -614,14 +614,14 @@
 
 > 切除不能進行・再発胃癌では、一次化学療法の開始前にHER2、CLDN18、PD-L1（CPS）、MSI/MMRの4つのバイオマーカーを測定し、結果に基づいて治療を選ぶことが望ましいとされる。
 
-- 条件：guideline: JGCA 第7版 CQ13-1（日本胃癌学会のバイオマーカー検査の手引き第1.1版に対応）
+- 条件：guideline: JGCA 第7版 CQ13-1（日本胃癌学会のバイオマーカー検査の手引き第1.1版に対応）／region: 日本 vs 欧米
 - 鑑別・補足：第6版で一次治療前に必須とされたのはHER2のみ
 - よくある誤解：一次治療前に調べればよいのはHER2だけである
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-030 (id: JlAKplE)；TBL-02-07-031 (id: JlAKplI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-052&card_id=GD-052&version=73e30f128e)　（版 `73e30f128e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-052&card_id=GD-052&version=2c2922d92a)　（版 `2c2922d92a`）
 
-**[ここまでの 10 件（GD-043〜GD-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-043%E3%80%9CGD-052&cards=GD-043%2037eff9a400%0AGD-044%20659a7e9186%0AGD-045%20dbbce8a7bc%0AGD-046%2056231f7a23%0AGD-047%2095012f8ead%0AGD-048%208828777c1d%0AGD-049%204cec2e6573%0AGD-050%20b6f597dc03%0AGD-051%20c3812051f1%0AGD-052%2073e30f128e)**
+**[ここまでの 10 件（GD-043〜GD-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-043%E3%80%9CGD-052&cards=GD-043%20be27c0ad5b%0AGD-044%2082d8692886%0AGD-045%203dd4e7413f%0AGD-046%20ed4ee0894a%0AGD-047%20fcc2fa0efb%0AGD-048%20eca1525cd2%0AGD-049%20672e669729%0AGD-050%209ae5946c06%0AGD-051%20c3812051f1%0AGD-052%202c2922d92a)**
 
 ---
 
@@ -629,23 +629,23 @@
 
 > HER2陽性は、免疫染色3+、または免疫染色2+かつISH陽性で定義され、切除不能進行・再発胃癌の17.8%を占めると報告されている。HER2陽性例にはトラスツズマブをフッ化ピリミジン＋プラチナ製剤と併用する。
 
-- 条件：guideline: JGCA 第7版（根拠：ToGA試験のサブグループ解析）
+- 条件：guideline: JGCA 第7版（根拠：ToGA試験のサブグループ解析）／region: 日本 vs 欧米
 - 鑑別・補足：免疫染色2+でISH陰性はHER2陰性として扱う
 - よくある誤解：免疫染色1+でもトラスツズマブの適応になる
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-02-07-030 (id: JlAKplE)；TBL-02-07-031 (id: JlAKplI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-053&card_id=GD-053&version=9d88d40f16)　（版 `9d88d40f16`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-053&card_id=GD-053&version=fb78ba9b0d)　（版 `fb78ba9b0d`）
 
 ### GD-054　出典照合済み・監修待ち
 
 > HER2陰性の切除不能進行・再発胃癌の一次治療では、化学療法とニボルマブまたはペムブロリズマブの併用、CLDN18陽性例では化学療法とゾルベツキシマブの併用が推奨される。プラチナ製剤はシスプラチンよりオキサリプラチンを用いる併用が好ましいとされる。CLDN18陰性でCPSが低い例では化学療法単独も考慮する。
 
-- 条件：guideline: JGCA 第7版
+- 条件：guideline: JGCA 第7版／region: 日本 vs 欧米
 - 鑑別・補足：免疫チェックポイント阻害薬とゾルベツキシマブを直接比較した研究はない
 - よくある誤解：CPSが低くても免疫チェックポイント阻害薬の上乗せ効果は高CPSと同じ
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-054&card_id=GD-054&version=42e39894fe)　（版 `42e39894fe`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-054&card_id=GD-054&version=336509319f)　（版 `336509319f`）
 
 ### GD-055　出典照合済み・監修待ち
 
@@ -687,47 +687,47 @@
 
 > 切除不能進行・再発胃癌の二次治療では、パクリタキセル＋ラムシルマブが推奨レジメンである。MSI-Highは進行・再発胃癌の約3〜5%で、一次治療で免疫チェックポイント阻害薬を使っていない場合に限り、二次治療としてペムブロリズマブ単剤が推奨される。
 
-- 条件：guideline: JGCA 第7版（根拠：RAINBOW、KEYNOTE-158）
+- 条件：guideline: JGCA 第7版（根拠：RAINBOW、KEYNOTE-158）／region: 日本 vs 欧米
 - 鑑別・補足：パクリタキセル＋ラムシルマブが不適なら単剤（パクリタキセル、nab-パクリタキセル、ドセタキセル、イリノテカン、ラムシルマブ）
 - よくある誤解：一次治療でニボルマブを使っていても二次治療でペムブロリズマブを使える
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-058&card_id=GD-058&version=6d6fbe00ea)　（版 `6d6fbe00ea`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-058&card_id=GD-058&version=0d21e2eac4)　（版 `0d21e2eac4`）
 
 ### GD-059　出典照合済み・監修待ち
 
 > 三次治療以降では、ニボルマブ、イリノテカン、トリフルリジン・チピラシルの単剤が推奨され、互いの優先順位は明らかでない。ニボルマブは免疫チェックポイント阻害薬の使用歴がない場合に限られる。HER2陽性胃癌の三次治療ではトラスツズマブ デルクステカンが優先される。病勢進行後のトラスツズマブ継続は行わないよう強く推奨されている。
 
-- 条件：guideline: JGCA 第7版（根拠：ATTRACTION-2、TAGS、DESTINY-Gastric01、WJOG7112G）
+- 条件：guideline: JGCA 第7版（根拠：ATTRACTION-2、TAGS、DESTINY-Gastric01、WJOG7112G）／region: 日本 vs 欧米
 - 鑑別・補足：二次治療のHER2陽性例はHER2陰性と同じレジメン
 - よくある誤解：HER2陽性例では進行後もトラスツズマブを継続する
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-059&card_id=GD-059&version=b1056bedd1)　（版 `b1056bedd1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-059&card_id=GD-059&version=14cd2cc768)　（版 `14cd2cc768`）
 
 ### GD-060　出典照合済み・監修待ち
 
 > 切除不能進行・再発胃癌に対する国内外の臨床試験での生存期間中央値は、およそ17〜18か月である。化学療法の目的は、症状の出現を遅らせることと生存の延長である。
 
-- 条件：guideline: JGCA 第7版（第6版では約15か月）
+- 条件：guideline: JGCA 第7版（第6版では約15か月）／region: 日本 vs 欧米
 - 鑑別・補足：MSI-HighやHER2陽性では著効によりconversion surgeryに至る例がある
 - よくある誤解：化学療法で多くの切除不能胃癌が治癒する
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-060&card_id=GD-060&version=86d87d6433)　（版 `86d87d6433`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-060&card_id=GD-060&version=040bfe2cfe)　（版 `040bfe2cfe`）
 
 ### GD-061　出典照合済み・監修待ち
 
 > 胃癌の根治切除後は原則5年間経過を観察する。CT、腫瘍マーカー（CEAとCA19-9）、内視鏡が再発や重複癌の発見に有用と考えられ、腫瘍マーカーは画像所見より2〜3か月早く上昇することがある。ただし定期的な経過観察が生存を延ばすというエビデンスは乏しい。
 
-- 条件：guideline: JGCA 第7版
+- 条件：guideline: JGCA 第7版／region: 日本 vs 欧米
 - 鑑別・補足：5年以降にも再発や異時性多発癌がみられる
 - よくある誤解：定期フォローで生存率が改善することが証明されている
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-D-②（胃癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-061&card_id=GD-061&version=06f1990bf3)　（版 `06f1990bf3`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-061&card_id=GD-061&version=ae212f2ad0)　（版 `ae212f2ad0`）
 
-**[ここまでの 9 件（GD-053〜GD-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-053%E3%80%9CGD-061&cards=GD-053%209d88d40f16%0AGD-054%2042e39894fe%0AGD-055%20e8c3785b92%0AGD-056%20ed34f21516%0AGD-057%2057c63ebd9c%0AGD-058%206d6fbe00ea%0AGD-059%20b1056bedd1%0AGD-060%2086d87d6433%0AGD-061%2006f1990bf3)**
+**[ここまでの 9 件（GD-053〜GD-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-053%E3%80%9CGD-061&cards=GD-053%20fb78ba9b0d%0AGD-054%20336509319f%0AGD-055%20e8c3785b92%0AGD-056%20ed34f21516%0AGD-057%2057c63ebd9c%0AGD-058%200d21e2eac4%0AGD-059%2014cd2cc768%0AGD-060%20040bfe2cfe%0AGD-061%20ae212f2ad0)**
 
 ---
 
@@ -748,92 +748,92 @@
 
 > GISTの約95%は免疫染色でKIT陽性で、DOG1もGISTの大多数（約95%）で陽性となる。KIT陰性のGIST（最大5%）の多くは胃原発、類上皮型で、PDGFRA変異をもつ。CD34は60〜80%で陽性である。
 
-- 条件：guideline: JSCO GIST GL 2022
+- 条件：guideline: JSCO GIST GL 2022／region: 日本
 - 鑑別・補足：平滑筋腫はデスミンがびまん性に陽性、神経鞘腫はS-100がびまん性に陽性
 - よくある誤解：KIT陰性ならGISTは否定できる
 - 出典：Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680　[DOI 10.1007/s10147-024-02488-1](https://doi.org/10.1007/s10147-024-02488-1)　[PMID 38609732](https://pubmed.ncbi.nlm.nih.gov/38609732/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-063&card_id=GD-063&version=3ccbc46a1e)　（版 `3ccbc46a1e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-063&card_id=GD-063&version=ff9a00a8e8)　（版 `ff9a00a8e8`）
 
 ### GD-064　出典照合済み・監修待ち
 
 > GISTの70〜80%はc-kitエクソン11変異をもつ。c-kitエクソン9変異は5〜10%で主に小腸に、PDGFRA変異は約10%で主に胃の類上皮型にみられる。PDGFRAエクソン18のD842V変異、SDH欠損型、NF1関連のGISTは通常イマチニブに抵抗性である。
 
-- 条件：guideline: JSCO GIST GL 2022
+- 条件：guideline: JSCO GIST GL 2022／region: 日本
 - 鑑別・補足：c-kitとPDGFRAのどちらの変異もないGISTが約10%
 - よくある誤解：すべてのGISTにイマチニブが効く
 - 出典：Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680　[DOI 10.1007/s10147-024-02488-1](https://doi.org/10.1007/s10147-024-02488-1)　[PMID 38609732](https://pubmed.ncbi.nlm.nih.gov/38609732/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-064&card_id=GD-064&version=5b5238047c)　（版 `5b5238047c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-064&card_id=GD-064&version=c6f7d4d83d)　（版 `c6f7d4d83d`）
 
 ### GD-065　出典照合済み・監修待ち
 
 > GISTの発生部位は胃が最も多く（50〜70%）、十二指腸・小腸（20〜30%）、大腸（5〜10%、多くは直腸）と続く。胃以外のGISTは胃GISTより再発リスクが高いとされる。
 
-- 条件：guideline: JSCO GIST GL 2022
+- 条件：guideline: JSCO GIST GL 2022／region: 日本
 - 鑑別・補足：食道・腸間膜・大網はまれ
 - よくある誤解：GISTは小腸に最も多い
 - 出典：Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680　[DOI 10.1007/s10147-024-02488-1](https://doi.org/10.1007/s10147-024-02488-1)　[PMID 38609732](https://pubmed.ncbi.nlm.nih.gov/38609732/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-065&card_id=GD-065&version=9dd1cb7383)　（版 `9dd1cb7383`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-065&card_id=GD-065&version=c0ba456dcf)　（版 `c0ba456dcf`）
 
 ### GD-066　出典照合済み・監修待ち
 
 > GISTの再発リスクは、腫瘍径と核分裂像数を組み合わせて超低・低・中・高リスクに分類する。Miettinen分類は部位を、modified Fletcher（Joensuu）分類はさらに腫瘍破裂を加える。核分裂像は顕微鏡の視野数によらず5 mm²あたりで数えることが推奨される。
 
-- 条件：guideline: JSCO GIST GL 2022
+- 条件：guideline: JSCO GIST GL 2022／region: 日本
 - 鑑別・補足：SDH欠損型GISTは従来の分類で転移を予測しにくい
 - よくある誤解：GISTは良性か悪性かに二分できる
 - 出典：Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680　[DOI 10.1007/s10147-024-02488-1](https://doi.org/10.1007/s10147-024-02488-1)　[PMID 38609732](https://pubmed.ncbi.nlm.nih.gov/38609732/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-066&card_id=GD-066&version=311bfdb11c)　（版 `311bfdb11c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-066&card_id=GD-066&version=6ba50e1a9c)　（版 `6ba50e1a9c`）
 
 ### GD-067　出典照合済み・監修待ち
 
 > 切除可能な限局性GISTの標準術式は、系統的リンパ節郭清を行わない局所切除である。腫瘍破裂を避けて完全切除することが重要で、臓器機能温存手術が強く推奨されている。10 cm以上の大きな腫瘍などには術前イマチニブが提案され、術前・術中に破裂した例では術後イマチニブが推奨される。
 
-- 条件：guideline: JSCO GIST GL 2022
+- 条件：guideline: JSCO GIST GL 2022／region: 日本
 - 鑑別・補足：胃癌の定型手術（D2郭清）とは異なる
 - よくある誤解：GISTの手術では胃癌と同様にリンパ節郭清が必要
 - 出典：Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680　[DOI 10.1007/s10147-024-02488-1](https://doi.org/10.1007/s10147-024-02488-1)　[PMID 38609732](https://pubmed.ncbi.nlm.nih.gov/38609732/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-067&card_id=GD-067&version=d5dac4d42e)　（版 `d5dac4d42e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-067&card_id=GD-067&version=1a724f170e)　（版 `1a724f170e`）
 
 ### GD-068　出典照合済み・監修待ち
 
 > 5 cm以上の粘膜下腫瘍に腹腔鏡手術を行うことが弱く推奨されている（エビデンスD）。ただし根拠となったメタ解析では8 cmを超える腫瘍に開腹手術が多く選ばれており、非常に大きな腫瘍への腹腔鏡手術は推奨されない。
 
-- 条件：guideline: JSCO GIST GL 2022 Surgery 3（CQ）
+- 条件：guideline: JSCO GIST GL 2022 Surgery 3（CQ）／region: 日本
 - 鑑別・補足：2〜5 cmでGISTまたは悪性が強く疑われる粘膜下腫瘍は手術が強く推奨される
 - よくある誤解：大きさにかかわらず腹腔鏡手術が標準
 - 出典：Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680　[DOI 10.1007/s10147-024-02488-1](https://doi.org/10.1007/s10147-024-02488-1)　[PMID 38609732](https://pubmed.ncbi.nlm.nih.gov/38609732/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-068&card_id=GD-068&version=8a8b41cd86)　（版 `8a8b41cd86`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-068&card_id=GD-068&version=f42108e396)　（版 `f42108e396`）
 
 ### GD-069　出典照合済み・監修待ち
 
 > 再発高リスクGISTの完全切除後のイマチニブ補助療法は、3年間投与が1年間投与より生存を延長した。中央判定でGISTと確認され肉眼的転移のない集団の5年生存率は93.4%対86.8%（HR 0.53）だった。
 
-- 条件：population: modified NIH基準で高リスク、KIT陽性、肉眼的完全切除（SSG XVIII/AIO）
+- 条件：population: modified NIH基準で高リスク、KIT陽性、肉眼的完全切除（SSG XVIII/AIO）／region: 国際
 - 鑑別・補足：低・中リスクGISTでは補助療法の有効性は確立していない
 - よくある誤解：補助イマチニブは1年で十分
 - 出典：Joensuu H, et al. Adjuvant imatinib for high-risk GI stromal tumor: analysis of a randomized trial. J Clin Oncol 2016;34:244-250　[DOI 10.1200/JCO.2015.62.9170](https://doi.org/10.1200/JCO.2015.62.9170)　[PMID 26527782](https://pubmed.ncbi.nlm.nih.gov/26527782/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-069&card_id=GD-069&version=12a46f3920)　（版 `12a46f3920`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-069&card_id=GD-069&version=a71d52900b)　（版 `a71d52900b`）
 
 ### GD-070　出典照合済み・監修待ち
 
 > 転移・再発GISTの初回治療の原則はイマチニブ投与である。薬物療法の効果判定では、腫瘍径10%以上の縮小またはCT値15%以上の低下を部分奏効とする修正基準（Choi基準）が用いられる。
 
-- 条件：guideline: JSCO GIST GL 2022
+- 条件：guideline: JSCO GIST GL 2022／region: 日本
 - 鑑別・補足：RECISTは腫瘍径のみで判定し、嚢胞化などの内部変化を反映しにくい
 - よくある誤解：GISTは腫瘍が縮小しなければ効いていない
 - 不確実性：GL本文は基準名（Choi基準）を明記せず、腫瘍径10%以上の縮小または CT 値15%以上の低下と記載
 - 出典：Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680　[DOI 10.1007/s10147-024-02488-1](https://doi.org/10.1007/s10147-024-02488-1)　[PMID 38609732](https://pubmed.ncbi.nlm.nih.gov/38609732/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-B-②（消化管粘膜下腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-070&card_id=GD-070&version=5f71e69e95)　（版 `5f71e69e95`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-070&card_id=GD-070&version=5d4310a427)　（版 `5d4310a427`）
 
-**[ここまでの 9 件（GD-062〜GD-070）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-062%E3%80%9CGD-070&cards=GD-062%20a6c9a4c487%0AGD-063%203ccbc46a1e%0AGD-064%205b5238047c%0AGD-065%209dd1cb7383%0AGD-066%20311bfdb11c%0AGD-067%20d5dac4d42e%0AGD-068%208a8b41cd86%0AGD-069%2012a46f3920%0AGD-070%205f71e69e95)**
+**[ここまでの 9 件（GD-062〜GD-070）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-062%E3%80%9CGD-070&cards=GD-062%20a6c9a4c487%0AGD-063%20ff9a00a8e8%0AGD-064%20c6f7d4d83d%0AGD-065%20c0ba456dcf%0AGD-066%206ba50e1a9c%0AGD-067%201a724f170e%0AGD-068%20f42108e396%0AGD-069%20a71d52900b%0AGD-070%205d4310a427)**
 
 ---
 
@@ -843,15 +843,15 @@
 
 > 胃神経内分泌腫瘍（NET）は背景病態で型が分かれる。自己免疫性の胃底腺萎縮による高ガストリン血症を背景とするものがI型、Zollinger-Ellison症候群（多くはMEN1）を背景とするものがII型である。
 
-- 条件：guideline: ENETS 2023（II型は同ガイダンスの対象外）
+- 条件：guideline: ENETS 2023（II型は同ガイダンスの対象外）／region: 国際
 - 鑑別・補足：III型は高ガストリン血症を伴わない散発性
 - よくある誤解：胃NETはすべて同じ予後である
 - 不確実性：本文未閲覧。抄録とPDF断片で確認した型の定義のみを記載。III型の記述は本文で要確認
 - 出典：Panzuto F, et al. ENETS 2023 guidance paper for gastroduodenal neuroendocrine tumours (NETs) G1-G3. J Neuroendocrinol 2023;35:e13306　[DOI 10.1111/jne.13306](https://doi.org/10.1111/jne.13306)　[PMID 37401795](https://pubmed.ncbi.nlm.nih.gov/37401795/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-B-④（消化管神経内分泌腫瘍、c）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-071&card_id=GD-071&version=2229d160c6)　（版 `2229d160c6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-071&card_id=GD-071&version=b69d20bc1f)　（版 `b69d20bc1f`）
 
-**[ここまでの 1 件（GD-071）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-071&cards=GD-071%202229d160c6)**
+**[ここまでの 1 件（GD-071）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-071&cards=GD-071%20b69d20bc1f)**
 
 ---
 
@@ -879,82 +879,82 @@
 
 > 早期ダンピング症候群は食後1時間以内に起こる。腹痛、腹部膨満、腹鳴、悪心、下痢などの消化器症状と、顔面紅潮、動悸、頻脈、まれに失神などの血管運動症状が出る。幽門の機能や胃の貯留能が失われ、未消化の高浸透圧の内容物が急速に小腸へ流入し、血漿から腸管内への水分移動や消化管ホルモンの放出が起こることが原因とされる。
 
-- 条件：guideline: 国際コンセンサス 2020
+- 条件：guideline: 国際コンセンサス 2020／region: 国際
 - 鑑別・補足：後期ダンピング（食後1〜3時間の低血糖）
 - よくある誤解：早期ダンピングの主因は低血糖である
 - 出典：Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466　[DOI 10.1038/s41574-020-0357-5](https://doi.org/10.1038/s41574-020-0357-5)　[PMID 32457534](https://pubmed.ncbi.nlm.nih.gov/32457534/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-②（胃切除後症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-074&card_id=GD-074&version=edadf35c34)　（版 `edadf35c34`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-074&card_id=GD-074&version=677be587ee)　（版 `677be587ee`）
 
 ### GD-075　出典照合済み・監修待ち
 
 > 後期ダンピング症候群は通常食後1〜3時間に起こり、反応性の低血糖を特徴とする。糖の急速な吸収に対する過剰なインスリン分泌が原因で、GLP-1の過剰な反応が主要な仲介因子と考えられている。
 
-- 条件：guideline: 国際コンセンサス 2020
+- 条件：guideline: 国際コンセンサス 2020／region: 国際
 - 鑑別・補足：早期ダンピング（食後1時間以内の消化器・血管運動症状）
 - よくある誤解：後期ダンピングは高血糖で起こる
 - 出典：Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466　[DOI 10.1038/s41574-020-0357-5](https://doi.org/10.1038/s41574-020-0357-5)　[PMID 32457534](https://pubmed.ncbi.nlm.nih.gov/32457534/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-②（胃切除後症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-075&card_id=GD-075&version=450763fa95)　（版 `450763fa95`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-075&card_id=GD-075&version=dbd3bf7d56)　（版 `dbd3bf7d56`）
 
 ### GD-076　出典照合済み・監修待ち
 
 > ダンピング症候群の頻度は、迷走神経切離＋幽門形成術後で約20%、胃切除後で最大40%、食道切除後で最大50%と報告されている。胃癌手術後には、後期ダンピング単独の症状が最大25%にみられるとされる。
 
-- 条件：guideline: 国際コンセンサス 2020
+- 条件：guideline: 国際コンセンサス 2020／region: 国際
 - 鑑別・補足：肥満手術（RYGB、スリーブ状胃切除）後にも起こる
 - よくある誤解：ダンピング症候群は胃全摘でしか起こらない
 - 不確実性：頻度はコンセンサス論文が引用した値（二次資料経由）で、原著は未照合
 - 出典：Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466　[DOI 10.1038/s41574-020-0357-5](https://doi.org/10.1038/s41574-020-0357-5)　[PMID 32457534](https://pubmed.ncbi.nlm.nih.gov/32457534/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-②（胃切除後症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-076&card_id=GD-076&version=3443fd1726)　（版 `3443fd1726`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-076&card_id=GD-076&version=2560d3c367)　（版 `2560d3c367`）
 
 ### GD-077　出典照合済み・監修待ち
 
 > ダンピング症候群の診断には修正75 g経口ブドウ糖負荷試験が用いられる。30分でヘマトクリットが3%を超えて上昇するか脈拍が10回/分を超えて増加すれば早期ダンピング、60〜180分に血糖が50 mg/dL未満となれば後期ダンピングを示す。Sigstadスコアは7を超えるとダンピングを示唆するが、質問票や胃排出検査は診断法として推奨されていない。
 
-- 条件：guideline: 国際コンセンサス 2020
+- 条件：guideline: 国際コンセンサス 2020／region: 国際
 - 鑑別・補足：血糖60 mg/dLの基準は採用されなかった
 - よくある誤解：胃排出シンチグラフィで診断が確定する
 - 出典：Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466　[DOI 10.1038/s41574-020-0357-5](https://doi.org/10.1038/s41574-020-0357-5)　[PMID 32457534](https://pubmed.ncbi.nlm.nih.gov/32457534/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-②（胃切除後症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-077&card_id=GD-077&version=f32d5d080e)　（版 `f32d5d080e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-077&card_id=GD-077&version=7f8ff39359)　（版 `7f8ff39359`）
 
 ### GD-078　出典照合済み・監修待ち
 
 > ダンピング症候群の第一選択は食事療法である。1回の食事量を減らし、水分は食後30分以上あけて摂り、吸収の速い炭水化物を避け、食物繊維と蛋白質の多い食品をよく噛んでゆっくり食べる。食後30分間横になる指導や、グアーガムなどの増粘剤は推奨されなかった。
 
-- 条件：guideline: 国際コンセンサス 2020
+- 条件：guideline: 国際コンセンサス 2020／region: 国際
 - 鑑別・補足：薬物療法は食事療法で改善しない場合
 - よくある誤解：食事中に水分を多く摂ると症状が和らぐ
 - 出典：Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466　[DOI 10.1038/s41574-020-0357-5](https://doi.org/10.1038/s41574-020-0357-5)　[PMID 32457534](https://pubmed.ncbi.nlm.nih.gov/32457534/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-②（胃切除後症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-078&card_id=GD-078&version=315d0f8ead)　（版 `315d0f8ead`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-078&card_id=GD-078&version=ce5e9c949b)　（版 `ce5e9c949b`）
 
 ### GD-079　出典照合済み・監修待ち
 
 > 食事療法で改善しないダンピング症候群では、後期ダンピングにα-グルコシダーゼ阻害薬のアカルボース（50〜100 mgを1日3回食事とともに）が有効とされ、主な副作用は放屁である。それでも改善しない場合はソマトスタチンアナログが選択される。再手術や膵切除、ジアゾキシドは推奨されていない。
 
-- 条件：guideline: 国際コンセンサス 2020
+- 条件：guideline: 国際コンセンサス 2020／region: 国際
 - 鑑別・補足：アカルボースの早期ダンピングへの効果は確立していない
 - よくある誤解：難治例には再手術が標準
 - 不確実性：アカルボースの用量は海外の記載。国内の保険適用は未確認
 - 出典：Scarpellini E, et al. International consensus on the diagnosis and management of dumping syndrome. Nat Rev Endocrinol 2020;16:448-466　[DOI 10.1038/s41574-020-0357-5](https://doi.org/10.1038/s41574-020-0357-5)　[PMID 32457534](https://pubmed.ncbi.nlm.nih.gov/32457534/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-②（胃切除後症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-079&card_id=GD-079&version=2f19f9fef6)　（版 `2f19f9fef6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-079&card_id=GD-079&version=b69b6cbbdb)　（版 `b69b6cbbdb`）
 
 ### GD-080　出典照合済み・監修待ち
 
 > 胃癌手術で迷走神経前幹の肝枝や後幹の腹腔枝を温存すると、術後の胆石形成、下痢、体重減少が減り、術後のQOL改善に寄与すると報告されている。
 
-- 条件：guideline: JGCA 第7版（本文の記述。CQとしての推奨度はない）
+- 条件：guideline: JGCA 第7版（本文の記述。CQとしての推奨度はない）／region: 日本 vs 欧米
 - 鑑別・補足：幽門保存胃切除では幽門機能を温存する
 - よくある誤解：胃切除後の胆石は迷走神経と無関係である
 - 出典：Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299　[DOI 10.1007/s10120-025-01698-4](https://doi.org/10.1007/s10120-025-01698-4)　[PMID 41569370](https://pubmed.ncbi.nlm.nih.gov/41569370/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-B-②（胃切除後症候群、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-080&card_id=GD-080&version=d20bcfb543)　（版 `d20bcfb543`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-080&card_id=GD-080&version=fcfbe46d57)　（版 `fcfbe46d57`）
 
-**[ここまでの 7 件（GD-074〜GD-080）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-074%E3%80%9CGD-080&cards=GD-074%20edadf35c34%0AGD-075%20450763fa95%0AGD-076%203443fd1726%0AGD-077%20f32d5d080e%0AGD-078%20315d0f8ead%0AGD-079%202f19f9fef6%0AGD-080%20d20bcfb543)**
+**[ここまでの 7 件（GD-074〜GD-080）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-074%E3%80%9CGD-080&cards=GD-074%20677be587ee%0AGD-075%20dbd3bf7d56%0AGD-076%202560d3c367%0AGD-077%207f8ff39359%0AGD-078%20ce5e9c949b%0AGD-079%20b69b6cbbdb%0AGD-080%20fcfbe46d57)**
 
 ---
 
@@ -1028,37 +1028,37 @@
 
 > 胃底腺ポリープは最も多い胃ポリープの一つで、PPI使用者に多い（使用者23%対非使用者12%と報告）。散発性の胃底腺ポリープの悪性化はまれ（1%未満）だが、家族性大腸腺腫症では20〜100%に生じ、その25〜41%に異形成を伴う。
 
-- 条件：source: 2013年の総説
+- 条件：source: 2013年の総説／region: 国際
 - 鑑別・補足：H. pylori未感染の胃にみられることが多い
 - よくある誤解：胃底腺ポリープは前癌病変として全例切除する
 - 不確実性：数値は総説が引用した値（二次資料経由）で、原著は未照合。GD-028（PPI長期使用と胃底腺ポリープ）と関連
 - 出典：Islam RS, et al. Gastric polyps: a review on clinical, endoscopic, histopathologic features and management decisions. Gastroenterol Hepatol (N Y) 2013 Oct　[PMID 24764778](https://pubmed.ncbi.nlm.nih.gov/24764778/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-D-①（胃ポリープ、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-086&card_id=GD-086&version=07e7e7a330)　（版 `07e7e7a330`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-086&card_id=GD-086&version=5b15a87a5f)　（版 `5b15a87a5f`）
 
 ### GD-087　出典照合済み・監修待ち
 
 > 過形成性ポリープは、H. pylori胃炎や萎縮性胃炎などの慢性胃炎を背景に生じ、H. pyloriが原因の場合は除菌後に約80%が退縮すると報告されている。異形成は1.9〜19%、腺癌は0.6〜2.1%にみられると報告されている。
 
-- 条件：source: 2013年の総説
+- 条件：source: 2013年の総説／region: 国際
 - 鑑別・補足：切除する大きさの基準は0.5 cm超から2 cm以上まで報告により異なる
 - よくある誤解：過形成性ポリープは癌化しない
 - 不確実性：数値は総説が引用した値（二次資料経由）で、原著は未照合。日本のH. pylori GLでの位置づけは未確認
 - 出典：Islam RS, et al. Gastric polyps: a review on clinical, endoscopic, histopathologic features and management decisions. Gastroenterol Hepatol (N Y) 2013 Oct　[PMID 24764778](https://pubmed.ncbi.nlm.nih.gov/24764778/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-D-①（胃ポリープ、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-087&card_id=GD-087&version=c5f2b49b40)　（版 `c5f2b49b40`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-087&card_id=GD-087&version=ea13d3310f)　（版 `ea13d3310f`）
 
 ### GD-088　出典照合済み・監修待ち
 
 > 胃腺腫は真の腫瘍で胃癌の前駆病変であり、完全切除が勧められる。2 cmを超え絨毛成分をもつものでは腫瘍化のリスクが高いと報告されている。
 
-- 条件：source: 2013年の総説（欧米の頻度は胃ポリープの6〜10%）
+- 条件：source: 2013年の総説（欧米の頻度は胃ポリープの6〜10%）／region: 国際
 - 鑑別・補足：過形成性ポリープ、胃底腺ポリープ
 - よくある誤解：胃腺腫は経過観察だけでよい
 - 不確実性：日本の胃腺腫の扱い（出題基準 Ⅵ-2-D-③）は別のカードで扱う
 - 出典：Islam RS, et al. Gastric polyps: a review on clinical, endoscopic, histopathologic features and management decisions. Gastroenterol Hepatol (N Y) 2013 Oct　[PMID 24764778](https://pubmed.ncbi.nlm.nih.gov/24764778/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-D-①（胃ポリープ、a）；医学各論 Ⅵ-2-D-③（胃腺腫、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-088&card_id=GD-088&version=5cfa9c1a30)　（版 `5cfa9c1a30`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-088&card_id=GD-088&version=0a69db9232)　（版 `0a69db9232`）
 
 ### GD-089　出典照合済み・監修待ち
 
@@ -1071,7 +1071,7 @@
 - 出題基準：医学各論 Ⅵ-2-D-①（胃ポリープ、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-089&card_id=GD-089&version=c8583d6ab6)　（版 `c8583d6ab6`）
 
-**[ここまでの 4 件（GD-086〜GD-089）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-086%E3%80%9CGD-089&cards=GD-086%2007e7e7a330%0AGD-087%20c5f2b49b40%0AGD-088%205cfa9c1a30%0AGD-089%20c8583d6ab6)**
+**[ここまでの 4 件（GD-086〜GD-089）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GD-086%E3%80%9CGD-089&cards=GD-086%205b15a87a5f%0AGD-087%20ea13d3310f%0AGD-088%200a69db9232%0AGD-089%20c8583d6ab6)**
 
 ---
 

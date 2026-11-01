@@ -480,7 +480,9 @@
   subdomain: GERD・NERD・Barrett食道
   assertion:
     plain_statement_ja: Lyon consensus 2.0では、酸分泌抑制薬を中止して行う逆流モニタリングで、酸曝露時間（AET）が6%を超えればGERDの確定的根拠、4%未満なら生理的範囲、4〜6%は判定保留とする。内視鏡ではLA分類B以上の逆流性食道炎も確定的根拠とされた。
-    condition: 24時間pH（・インピーダンス）検査、または延長ワイヤレスpH検査（2日以上で基準を満たす）
+    condition:
+      対象: 24時間pH（・インピーダンス）検査、または延長ワイヤレスpH検査（2日以上で基準を満たす）
+      region: 国際
     differential: 逆流過敏性食道、機能性胸やけ
     common_misconception: LA分類Aは単独ではGERDの確定根拠にならない
   provenance:
@@ -544,6 +546,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-010
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -1314,7 +1319,9 @@
   subdomain: 好酸球性食道炎（EoE）
   assertion:
     plain_statement_ja: 12歳以上の好酸球性食道炎で、デュピルマブ300mgの週1回皮下投与は、プラセボに比べ24週時の組織学的寛解率を高め、嚥下障害の症状スコアを改善した。
-    condition: 生検で確定したEoE（好酸球15/HPF以上）
+    condition:
+      対象: 生検で確定したEoE（好酸球15/HPF以上）
+      region: 国際
     differential: PPI、局所ステロイド、食物除去
     common_misconception: 隔週投与でも同等の症状改善が示されたわけではない
   provenance:
@@ -1381,12 +1388,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''好酸球性食道炎''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-024
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
   assertion:
     plain_statement_ja: デュピルマブは米国FDAで2022年5月20日に12歳以上（体重40kg以上）のEoEに承認され、2024年1月に1〜11歳（体重15kg以上）へ適応が拡大された。日本では今回の調査でEoEへの承認の記録を確認できなかった。
-    condition: 国内の薬事承認状況
+    condition:
+      対象: 国内の薬事承認状況
+      region: 日本
     differential: 国内で既承認のアトピー性皮膚炎、喘息、COPDなど
     common_misconception: 海外で承認されていても国内で保険適用されるとは限らない
   provenance:
@@ -1441,6 +1453,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''好酸球性食道炎''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-025
   domain: ES
   subdomain: 食道運動障害
@@ -1666,7 +1681,9 @@
   subdomain: 食道運動障害
   assertion:
     plain_statement_ja: Chicago分類v4.0では、DCIが450〜8,000 mmHg·s·cmを正常収縮、100以上450未満を弱収縮、100未満を失敗収縮、8,000超を過収縮とする。遠位潜時（DL）が4.5秒未満でDCIが450以上の収縮を早期（攣縮性）収縮とする。
-    condition: 高解像度食道内圧検査（HRM）
+    condition:
+      対象: 高解像度食道内圧検査（HRM）
+      region: 国際
     differential: 遠位食道攣縮、III型アカラシア
     common_misconception: DL 4.5秒未満でもDCIが450未満なら早期収縮ではなく無効収縮に分類される
   provenance:
@@ -1745,6 +1762,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道アカラシア・食道運動障害''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度高。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-030
   domain: ES
   subdomain: 食道運動障害
@@ -1805,7 +1825,9 @@
   subdomain: 食道運動障害
   assertion:
     plain_statement_ja: Chicago分類v4.0は、オピオイドがIII型アカラシアと関連するとし、可能であればオピオイドを中止した状態でHRMを行うよう勧めている。EGJ流出路障害（EGJOO）の一部もオピオイド使用に関連する。
-    condition: オピオイド使用中のHRM
+    condition:
+      対象: オピオイド使用中のHRM
+      region: 国際
     differential: 原発性アカラシア
     common_misconception: 内圧所見だけで原発性アカラシアと断定しない
   provenance:
@@ -1881,12 +1903,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道アカラシア・食道運動障害''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度高。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-032
   domain: ES
   subdomain: 食道運動障害
   assertion:
     plain_statement_ja: アカラシアでは、POEMは腹腔鏡下Heller筋層切開＋Dor噴門形成術に対して2年時の治療成功で非劣性を示した。逆流性食道炎はPOEM群で多かった。
-    condition: 症候性アカラシア
+    condition:
+      対象: 症候性アカラシア
+      region: 欧州
     differential: 空気圧拡張術
     common_misconception: POEMは逆流を起こさない手技ではない
   provenance:
@@ -1950,6 +1977,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道アカラシア・食道運動障害''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「欧州」を入れた（作り手の候補、確度高。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-033
   domain: ES
   subdomain: 食道運動障害
@@ -2071,7 +2101,9 @@
   subdomain: 食道癌
   assertion:
     plain_statement_ja: 日本の食道癌は、2023年に25,889例（男性20,977例、女性4,912例）が診断され、2024年に10,638人（男性8,572人、女性2,066人）が死亡した。罹患・死亡とも男性が約4倍多い。
-    condition: 全国がん登録（罹患）、人口動態統計（死亡）
+    condition:
+      対象: 全国がん登録（罹患）、人口動態統計（死亡）
+      region: 日本
     differential: 胃癌（2023年罹患104,864例）
     common_misconception: 予測値（2025年の罹患予測26,900例）と実測値を混同しない
   provenance:
@@ -2132,6 +2164,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-036
   domain: ES
   subdomain: 食道癌
@@ -2792,7 +2827,9 @@
   subdomain: 食道癌
   assertion:
     plain_statement_ja: 切除可能な局所進行食道扁平上皮癌の術前療法として、ドセタキセルを加えた3剤併用（DCF）はシスプラチン＋5-FU（CF）より全生存を改善した。CFに放射線を加えた群（CF-RT）はCFに対する生存上の優越性を示さなかった。登録は601例（2012年12月〜2018年7月、1:1:1割付）。
-    condition: cStage IB〜III（UICC第7版）の切除可能な食道扁平上皮癌
+    condition:
+      対象: cStage IB〜III（UICC第7版）の切除可能な食道扁平上皮癌
+      region: 日本
     differential: 術前化学放射線療法（欧米の標準）
     common_misconception: 放射線を加えれば必ず生存が延びるわけではない
   provenance:
@@ -2862,6 +2899,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-050
   domain: ES
   subdomain: 食道癌
@@ -2928,7 +2968,9 @@
   subdomain: 食道癌
   assertion:
     plain_statement_ja: 術前化学放射線療法と切除の後に病理学的残存病変がある食道癌・食道胃接合部癌で、術後ニボルマブはプラセボに比べて無病生存期間を延長した（中央値22.4か月対11.0か月）。最終解析の全生存は統計学的有意差に達しなかった。
-    condition: 術前CRT後に病理学的完全奏効が得られなかった切除例
+    condition:
+      対象: 術前CRT後に病理学的完全奏効が得られなかった切除例
+      region: 国際
     differential: 日本の標準である術前化学療法（DCF）後の症例は対象外
     common_misconception: DFSの改善がそのまま全生存の有意な延長を意味するわけではない
   provenance:
@@ -3001,12 +3043,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-052
   domain: ES
   subdomain: 食道癌
   assertion:
     plain_statement_ja: 切除不能な進行・再発食道扁平上皮癌の一次治療で、ニボルマブ＋化学療法とニボルマブ＋イピリムマブは、化学療法単独に比べて全生存を延長した。
-    condition: 未治療の進行食道扁平上皮癌
+    condition:
+      対象: 未治療の進行食道扁平上皮癌
+      region: 国際
     differential: KEYNOTE-590（ペムブロリズマブ＋化学療法）
     common_misconception: 腫瘍PD-L1の発現にかかわらず効果が同じというわけではない
   provenance:
@@ -3075,6 +3122,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-053
   domain: ES
   subdomain: 食道癌
@@ -3144,7 +3194,9 @@
   subdomain: 食道癌
   assertion:
     plain_statement_ja: 進行食道癌の一次治療で、ペムブロリズマブ＋化学療法はプラセボ＋化学療法より全生存を改善した。追跡中央値58.8か月での5年全生存率は10.6%対3.0%だった。
-    condition: 未治療の進行・転移性食道癌（扁平上皮癌、腺癌、Siewert I型の食道胃接合部腺癌）
+    condition:
+      対象: 未治療の進行・転移性食道癌（扁平上皮癌、腺癌、Siewert I型の食道胃接合部腺癌）
+      region: 国際
     differential: CheckMate 648
     common_misconception: 5年時点でも生存者は少数であり、長期生存の確率が上がったという意味にとどまる
   provenance:
@@ -3220,6 +3272,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度高。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-055
   domain: ES
   subdomain: 食道癌
@@ -3532,7 +3587,9 @@
   subdomain: 食道静脈瘤・門脈圧亢進症
   assertion:
     plain_statement_ja: 日本の食道・胃静脈瘤内視鏡所見記載基準は、占居部位（L）、形態（F）、色調（C）、発赤所見（RC）、出血所見（BS）、粘膜所見（MF）の6項目で記載する。食道ではLs・Lm・Li、F0〜F3、Cw・Cb、RC0〜3（ミミズ腫れ・チェリーレッドスポット・血マメ）を用いる。
-    condition: 門脈圧亢進症取扱い規約 第3版（2013年）
+    condition:
+      対象: 門脈圧亢進症取扱い規約 第3版（2013年）
+      region: 日本
     differential: 胃静脈瘤の部位分類（Lg-c、Lg-cf、Lg-f）
     common_misconception: F0でも発赤所見があればRC1〜3で記載する
   provenance:
@@ -3590,6 +3647,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-062
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3662,7 +3722,9 @@
   subdomain: 食道静脈瘤・門脈圧亢進症
   assertion:
     plain_statement_ja: 急性上部消化管出血では、Hb 7 g/dL未満で輸血する制限的輸血戦略が、9 g/dL未満で輸血する自由輸血戦略より転帰が良かった。
-    condition: 急性上部消化管出血（静脈瘤出血を含む）
+    condition:
+      対象: 急性上部消化管出血（静脈瘤出血を含む）
+      region: スペイン
     differential: 虚血性心疾患合併例
     common_misconception: 出血例では高いHbを目標にすべきとは限らない
   provenance:
@@ -3729,6 +3791,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「スペイン」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-064
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3801,7 +3866,9 @@
   subdomain: 食道静脈瘤・門脈圧亢進症
   assertion:
     plain_statement_ja: 急性静脈瘤出血を起こした高リスクの肝硬変（Child-Pugh C 10〜13点、またはBで活動性出血）では、72時間以内の早期TIPSが標準治療に比べ生存を改善した。
-    condition: 高リスクの急性静脈瘤出血
+    condition:
+      対象: 高リスクの急性静脈瘤出血
+      region: 国際
     differential: 救済（rescue）TIPS
     common_misconception: 全例に早期TIPSが適応になるわけではない
   provenance:
@@ -3858,12 +3925,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-066
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
   assertion:
     plain_statement_ja: 日本の肝硬変診療ガイドライン2020では、食道静脈瘤の初回出血予防にEVLとNSBBがともに有用とされる。再発予防ではEVLとEISの両方が提案されている。胃静脈瘤にはB-RTOが有用とされ、国内研究ではNBCAによるEISより再出血の予防に優れていた。
-    condition: 肝硬変に伴う食道・胃静脈瘤
+    condition:
+      対象: 肝硬変に伴う食道・胃静脈瘤
+      region: 日本
     differential: Baveno VII（カルベジロールを優先する国際コンセンサス）
     common_misconception: 日本ではEISが今も選択肢であり、EVLに一本化されているわけではない
   provenance:
@@ -3930,6 +4002,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ重複の統合：GD-073 の出題基準・コアカリの番号をこのカードに足した（医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a） → 医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a））。GD-073 は廃止してこのカードに誘導（三原の承認による）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-067
   domain: ES
   subdomain: その他（一次出典未取得：骨子のみ）
@@ -4248,7 +4323,9 @@
   subdomain: その他の食道疾患
   assertion:
     plain_statement_ja: 腐食性物質を飲み込んだときは、嘔吐を誘発しない。胃洗浄もしない（再曝露で食道傷害が増える）。弱酸・弱アルカリによる中和は発熱反応で傷害を悪化させるおそれがあり推奨されない。
-    condition: 酸・アルカリの誤飲・自殺企図
+    condition:
+      対象: 酸・アルカリの誤飲・自殺企図
+      region: 国際
     differential: 非腐食性の中毒（活性炭の適応を検討）
     common_misconception: 牛乳や活性炭は後の内視鏡の観察を妨げるため使わない
   provenance:
@@ -4311,12 +4388,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-074
   domain: ES
   subdomain: その他の食道疾患
   assertion:
     plain_statement_ja: 腐食性食道傷害の重症度はZargar分類で評価する。0（正常）、1（浮腫・発赤）、2a（表在性潰瘍・びらん・滲出物）、2b（2aに加え深い限局性または全周性の潰瘍）、3a（限局性壊死）、3b（広範な壊死）に分ける。
-    condition: 受傷後早期の上部内視鏡
+    condition:
+      対象: 受傷後早期の上部内視鏡
+      region: 国際
     differential: CTによる重症度評価
     common_misconception: grade 4（穿孔）を加えた改変版もある
   provenance:
@@ -4380,12 +4462,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-075
   domain: ES
   subdomain: その他の食道疾患
   assertion:
     plain_statement_ja: 腐食性食道傷害後の狭窄は、Zargar 2bで約71%、3でほぼ100%と報告されている。重症度が高いほど狭窄のリスクが高い。
-    condition: 腐食性食道傷害の晩期合併症
+    condition:
+      対象: 腐食性食道傷害の晩期合併症
+      region: 国際
     differential: 腐食性傷害後の食道癌（長期の合併症）
     common_misconception: 急性期を乗り切っても狭窄の経過観察が必要
   provenance:
@@ -4449,12 +4536,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-076
   domain: ES
   subdomain: その他の食道疾患
   assertion:
     plain_statement_ja: 食道裂孔ヘルニアで最も多いのはI型（滑脱型）で、横隔食道膜の弛緩により胃噴門部が縦隔へ脱出する。軸方向のずれが2 cmを超えれば、バリウム造影、内視鏡、内圧検査で診断できる。
-    condition: 成人の食道裂孔ヘルニア
+    condition:
+      対象: 成人の食道裂孔ヘルニア
+      region: 国際
     differential: 傍食道型（II型）・混合型（III型）・他臓器を含むIV型（本出典の抄録には記載なし）
     common_misconception: 小さな滑脱型ヘルニアも内視鏡や造影で常に確実に診断できると考える
   provenance:
@@ -4493,12 +4585,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': None, ''kokushi'': None}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-077
   domain: ES
   subdomain: その他の食道疾患
   assertion:
     plain_statement_ja: 薬剤性食道炎の原因薬には、抗菌薬（テトラサイクリン系、特にドキシサイクリン）、ビスホスホネート、NSAIDs、塩化カリウム、鉄剤などがある。症状は胸骨後部痛、胸やけ、嚥下痛、嚥下障害で、多くは原因薬の中止と支持療法で改善する。
-    condition: 内服薬による直接的な食道粘膜傷害
+    condition:
+      対象: 内服薬による直接的な食道粘膜傷害
+      region: 国際
     differential: 逆流性食道炎、感染性食道炎
     common_misconception: 少量の水で服用してすぐ横になっても問題ないと考える
   provenance:
@@ -4534,12 +4631,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': None, ''kokushi'': None}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-078
   domain: ES
   subdomain: その他の食道疾患
   assertion:
     plain_statement_ja: 台湾の健診受診者（HIV陰性）11,802例では、生検で確認したカンジダ食道炎は0.4%だった。多変量解析での独立した危険因子は、高齢、慢性腎臓病、飲酒、ステロイド使用だった。
-    condition: HIV陰性の成人（健診の上部消化管内視鏡）
+    condition:
+      対象: HIV陰性の成人（健診の上部消化管内視鏡）
+      region: 台湾
     differential: HIV感染者などの免疫不全者では頻度が高い。EoEの白斑との鑑別
     common_misconception: カンジダ食道炎は免疫不全者にしか起こらないと考える
   provenance:
@@ -4578,12 +4680,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': None, ''kokushi'': None}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「台湾」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-079
   domain: ES
   subdomain: その他の食道疾患
   assertion:
     plain_statement_ja: ヘルペス（HSV）食道炎では、ウイルス性の細胞変化（多核化、核の圧排、すりガラス状の核、Cowdry A型封入体）は潰瘍辺縁の扁平上皮に見られるため、辺縁から生検する。CMV食道炎の変化は潰瘍底の内皮細胞・間質細胞に見られるため、底部から生検する。
-    condition: 免疫不全者の食道潰瘍
+    condition:
+      対象: 免疫不全者の食道潰瘍
+      region: 国際
     differential: カンジダ食道炎、薬剤性食道炎
     common_misconception: 潰瘍の同じ部位を生検すれば両方が診断できるわけではない
   provenance:
@@ -4644,12 +4751,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-080
   domain: ES
   subdomain: その他の食道疾患
   assertion:
     plain_statement_ja: 内視鏡所見では、HSV食道炎は孤立性の潰瘍、小水疱、辺縁の隆起した（shouldered）潰瘍が多い。CMV食道炎は深い打ち抜き様の潰瘍、蛇行状の潰瘍、全周性の分布が多い。
-    condition: ウイルス性食道炎
+    condition:
+      対象: ウイルス性食道炎
+      region: 国際
     differential: カンジダ（白苔）
     common_misconception: 肉眼所見だけで確定せず、病理・免疫染色で確認する
   provenance:
@@ -4712,12 +4824,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-081
   domain: ES
   subdomain: その他の食道疾患
   assertion:
     plain_statement_ja: HSV食道炎の治療薬はアシクロビル、CMV食道炎の治療薬はガンシクロビル（または経口のバルガンシクロビル）である。
-    condition: ウイルス性食道炎
+    condition:
+      対象: ウイルス性食道炎
+      region: 国際
     differential: アシクロビル耐性HSV（ホスカルネット）
     common_misconception: アシクロビルはCMVに十分な効果がない
   provenance:
@@ -4781,12 +4898,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-082
   domain: ES
   subdomain: その他の食道疾患
   assertion:
     plain_statement_ja: Plummer-Vinson症候群は、嚥下障害、鉄欠乏性貧血、食道web（膜様狭窄）の三徴を示すまれな疾患で、中年の女性に多い。治療は鉄補充と、必要に応じたwebの拡張である。咽頭・食道の扁平上皮癌のリスクが高いため経過観察が必要である。
-    condition: 鉄欠乏を伴う頸部食道のweb
+    condition:
+      対象: 鉄欠乏を伴う頸部食道のweb
+      region: 国際
     differential: 食道癌、好酸球性食道炎による狭窄
     common_misconception: 鉄欠乏を補正すれば発癌リスクの経過観察は不要と考える
   provenance:
@@ -4828,12 +4950,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': None, ''kokushi'': None}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-083
   domain: ES
   subdomain: その他の食道疾患
   assertion:
     plain_statement_ja: Zenker憩室は、下咽頭収縮筋の斜走部と輪状咽頭筋の間の脆弱部（Killian三角）から粘膜・粘膜下層が後方へ突出する圧出性憩室で、下咽頭憩室で最も多い。70〜80歳代の男性に多く、嚥下障害が80〜90%にみられる。治療の要点は輪状咽頭筋の切開である。
-    condition: 高齢者の嚥下障害・未消化物の逆流
+    condition:
+      対象: 高齢者の嚥下障害・未消化物の逆流
+      region: 国際
     differential: 食道中部の牽引性憩室、横隔膜上憩室
     common_misconception: 憩室を切除するだけで輪状咽頭筋を処理しなくてよいと考える
   provenance:
@@ -4872,12 +4999,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': None, ''kokushi'': None}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-084
   domain: ES
   subdomain: その他の食道疾患
   assertion:
     plain_statement_ja: Mallory-Weiss症候群（嘔吐などによる食道胃接合部の粘膜裂創）は多くが自然に止血し、緊急の内視鏡治療を要しないことが多い。ドイツの全国入院データ（2010〜2019年、59,291例）では、内視鏡的止血は局注13.7%、クリップ12.8%、外科治療は0.1%で、院内死亡率は2.7%だった。
-    condition: 嘔吐・えずきの後の吐血
+    condition:
+      対象: 嘔吐・えずきの後の吐血
+      region: 国際
     differential: Boerhaave症候群（全層性破裂、ES-085〜087）、静脈瘤出血
     common_misconception: Mallory-Weiss症候群は全例で内視鏡的止血が必要と考える
   provenance:
@@ -4916,12 +5048,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': None, ''kokushi'': None}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-085
   domain: ES
   subdomain: その他の食道疾患
   assertion:
     plain_statement_ja: Boerhaave症候群（特発性食道破裂）が疑われるとき、経口造影剤を併用した造影CTが優先される検査であり、感度は92〜100%と報告されている。CTでは縦隔気腫、縦隔の液体貯留、胸水、縦隔炎の評価もできる。
-    condition: 激しい嘔吐の後の胸痛・縦隔気腫
+    condition:
+      対象: 激しい嘔吐の後の胸痛・縦隔気腫
+      region: 国際
     differential: 急性冠症候群、大動脈解離、特発性縦隔気腫
     common_misconception: 胸部単純X線で異常がなくても否定できない
   provenance:
@@ -4979,12 +5116,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-086
   domain: ES
   subdomain: その他の食道疾患
   assertion:
     plain_statement_ja: 食道破裂を疑って食道造影を行う場合は、バリウムが縦隔に漏れると重い縦隔炎を起こすため、水溶性造影剤を使う。水溶性造影剤では22〜50%の穿孔を見逃すことがあるため、陰性でも否定はできない。
-    condition: 食道穿孔の疑い
+    condition:
+      対象: 食道穿孔の疑い
+      region: 国際
     differential: 誤嚥の危険がある例
     common_misconception: 造影が陰性でも穿孔は否定できない
   provenance:
@@ -5045,12 +5187,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-087
   domain: ES
   subdomain: その他の食道疾患
   assertion:
     plain_statement_ja: Boerhaave症候群の治療は、穿孔の早期の閉鎖・制御と感染（縦隔・胸腔）のドレナージが原則である。現在は、外科的修復に加え、ステントや内視鏡的陰圧閉鎖療法などの低侵襲治療を組み合わせる。
-    condition: 特発性食道破裂
+    condition:
+      対象: 特発性食道破裂
+      region: 国際
     differential: 医原性穿孔
     common_misconception: 治療の遅れは死亡率を大きく高める
   provenance:
@@ -5104,12 +5251,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-088
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
   assertion:
     plain_statement_ja: EREFSは、EoEの4つの主要な内視鏡所見（浮腫、輪状溝、白斑、縦走溝）と追加所見（狭窄、crepe paper esophagus）を等級化する分類である。修正版では、主要4所見の観察者間一致はκ 0.40〜0.54と良好だった。
-    condition: EoEの内視鏡評価・治療効果判定
+    condition:
+      対象: EoEの内視鏡評価・治療効果判定
+      region: 国際
     differential: カンジダ食道炎の白苔（白斑との鑑別）
     common_misconception: 内視鏡所見が乏しければEoEは否定できると考える
   provenance:
@@ -5148,12 +5300,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': None, ''kokushi'': None}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-089
   domain: ES
   subdomain: その他の食道疾患
   assertion:
     plain_statement_ja: ヨード（ルゴール）染色では、グリコーゲンを含む正常な扁平上皮が褐色に染まり、扁平上皮癌や異形成は不染帯となる。多発する不染帯（まだら食道）は食道癌の高リスクの指標となる。
-    condition: 食道扁平上皮癌のスクリーニング・範囲診断
+    condition:
+      対象: 食道扁平上皮癌のスクリーニング・範囲診断
+      region: 日本
     differential: NBI拡大観察（JES分類）
     common_misconception: 不染帯がすべて癌というわけではない
   provenance:
@@ -5201,12 +5358,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-090
   domain: ES
   subdomain: 食道癌
   assertion:
     plain_statement_ja: 日本では、ニボルマブの「食道癌における術後補助療法」の効能・効果が2021年11月25日に承認された。
-    condition: 国内の薬事承認
+    condition:
+      対象: 国内の薬事承認
+      region: 日本
     differential: 根治切除不能な進行・再発食道癌への適応（2020年2月）
     common_misconception: 術前化学療法（DCF）後の症例への有効性は、CheckMate 577では直接検証されていない
   provenance:
@@ -5258,12 +5420,17 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-091
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
   assertion:
     plain_statement_ja: 日本では、局所ステロイド（嚥下するブデソニドやフルチカゾン）を含め、EoEを効能とする保険適用薬は2024年時点で存在しない。
-    condition: 国内の保険診療
+    condition:
+      対象: 国内の保険診療
+      region: 日本
     differential: PPI（EoEの初期治療として用いられる）
     common_misconception: 吸入ステロイドの嚥下による使用は適応外使用である
   provenance:
@@ -5312,6 +5479,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-092
   domain: ES
   subdomain: 食道癌
@@ -5380,7 +5550,9 @@
   subdomain: GERD・NERD・Barrett食道
   assertion:
     plain_statement_ja: 薬物抵抗性GERDに対するARMSとESD-Gは、2022年4月の診療報酬改定で「内視鏡的逆流防止粘膜切除術」（K653-6、12,000点）として保険収載された。
-    condition: 国内の保険診療
+    condition:
+      対象: 国内の保険診療
+      region: 日本
     differential: 腹腔鏡下噴門形成術（Nissen法・Toupet法）、ARMA（APC焼灼）
     common_misconception: ARMAが同じ点数で収載されているかは別途確認が必要
   provenance:
@@ -5435,6 +5607,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''要確認''}'
+  - date: '2026-11-01'
+    by: claude-code
+    change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
 - id: ES-094
   domain: ES
   subdomain: Mallory-Weiss症候群

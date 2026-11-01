@@ -237,10 +237,10 @@
 - 条件：region: 米国／study: 無作為化非劣性試験（SCORE2）
 - 不確実性：数値はいずれも出典の抄録で確認した6か月時点の結果である。出典自体が、ベバシズマブはこの病態に対して適応外で使用されていることを明記している。ベバシズマブの硝子体内投与およびアフリベルセプトの網膜中心静脈閉塞症に伴う黄斑浮腫に対する国内の承認・保険適用は未確認である。糖尿病黄斑浮腫など他の原因による黄斑浮腫の治療は RE-003 など別カードの範囲である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アフリベルセプトは網膜中心静脈閉塞症に伴う黄斑浮腫で2013年11月22日に適応追加（2015年6月26日に網膜静脈閉塞症に伴う黄斑浮腫として整理）されており「未確認」は失効。一方、ベバシズマブの硝子体内投与は適応外のままで、この部分は現行どおり
 - 出典：Scott IU, VanVeldhuisen PC, Ip MS, et al. Effect of Bevacizumab vs Aflibercept on Visual Acuity Among Patients With Macular Edema Due to Central Retinal Vein Occlusion: The SCORE2 Randomized Clinical Trial. JAMA. 2017;317(20):2072-2087.　[DOI 10.1001/jama.2017.4568](https://doi.org/10.1001/jama.2017.4568)　[PMID 28492910](https://pubmed.ncbi.nlm.nih.gov/28492910/)（区分 UNKNOWN）
-- 出題基準：－　コアカリ：PS-02-15-05 (id: JkxnuTU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-015&card_id=RE-015&version=71885b1e98)　（版 `71885b1e98`）
+- 出題基準：医学各論 Ⅲ-6-C-③（網膜静脈閉塞症、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-015&card_id=RE-015&version=df2644da9f)　（版 `df2644da9f`）
 
-**[ここまでの 1 件（RE-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-015&cards=RE-015%2071885b1e98)**
+**[ここまでの 1 件（RE-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-015&cards=RE-015%20df2644da9f)**
 
 ---
 
