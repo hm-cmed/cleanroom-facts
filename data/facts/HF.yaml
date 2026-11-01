@@ -905,12 +905,15 @@
     created: '2026-10-31'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: HF-030
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 廃止：同じ出典（SRC-185）の本文にもとづく HF-030（定義・原因）・HF-031（治療）に置き換え（M2、三原の承認）
 - id: HF-027
   domain: HF
   subdomain: 右心不全

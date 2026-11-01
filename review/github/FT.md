@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 16 件のうち、監修済み 0 件。
+全 15 件のうち、監修済み 0 件。
 
 ## 胎児機能不全
 
@@ -124,17 +124,7 @@
 - 出題基準：医学各論 Ⅰ-3-A-④（胎児貧血、b）　コアカリ：PS-02-11-05 (id: JkxnuSU)；PS-02-11-03 (id: JkxnuSM)；TBL-02-10-013 (id: JlAKpqo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20FT-015&card_id=FT-015&version=92a31a3586)　（版 `92a31a3586`）
 
-### FT-016　下書き（出典の照合前）
-
-> 母体赤血球同種免疫で胎児貧血のリスクがある妊娠111例を対象に、中大脳動脈収縮期最大血流速度（MCA-PSV）と、臍帯穿刺で得た胎児ヘモグロビン値を比較した原著研究では、貧血のない例が41例、軽症が35例、中等症が4例、重症が31例（うち胎児水腫12例）だった。中等症と重症の貧血に対する MCA-PSV 上昇の感度は、水腫のない例でも100%（95%信頼区間 86〜100%）であり、偽陽性率は12%だった。正常胎児265例では、胎児ヘモグロビン値は妊娠週数とともに増加した。
-
-- 条件：region: 国際／対象: 母体赤血球同種免疫のある妊婦
-- 不確実性：既存の FT-008 は同じ原著について「MCA-PSV の上昇は中等度・重度の胎児貧血を感度100%で予測し、偽陽性率は12%」という結論を既に扱っており、本カードは症例の内訳と推定の精度（信頼区間）を補う位置づけで、重複と判断されれば FT-008 への統合が望ましい。対象は同種免疫による貧血であり、他の原因による胎児貧血への外挿は本研究では検証されていない。管理の閾値である中央値の1.5倍という数値は本論文の抄録にはなく、FT-015（SMFM ガイドライン
-- 出典：Mari G, Deter RL, Carpenter RL, et al.; Collaborative Group for Doppler Assessment of the Blood Velocity in Anemic Fetuses. Noninvasive diagnosis by Doppler ultrasonography of fetal anemia due to maternal red-cell alloimmunization. N Engl J Med. 2000;342(1):9-14　[DOI 10.1056/NEJM200001063420102](https://doi.org/10.1056/NEJM200001063420102)　[PMID 10620643](https://pubmed.ncbi.nlm.nih.gov/10620643/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅰ-3-A-④（胎児貧血、b）　コアカリ：PS-02-11-05 (id: JkxnuSU)；PS-02-11-03 (id: JkxnuSM)；TBL-02-10-013 (id: JlAKpqo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20FT-016&card_id=FT-016&version=ed99878759)　（版 `ed99878759`）
-
-**[ここまでの 4 件（FT-008〜FT-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20FT-008%E3%80%9CFT-016&cards=FT-008%209284ffe4e9%0AFT-009%205b7f5be125%0AFT-015%2092a31a3586%0AFT-016%20ed99878759)**
+**[ここまでの 3 件（FT-008〜FT-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20FT-008%E3%80%9CFT-015&cards=FT-008%209284ffe4e9%0AFT-009%205b7f5be125%0AFT-015%2092a31a3586)**
 
 ---
 

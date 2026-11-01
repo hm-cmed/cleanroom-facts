@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 31 件のうち、監修済み 0 件。
+全 30 件のうち、監修済み 0 件。
 
 ## 慢性心不全
 
@@ -287,16 +287,6 @@
 
 ## 右心不全
 
-### HF-026　下書き（出典の照合前）
-
-> 日本の心不全診療の現行の標準は、日本循環器学会と日本心不全学会の合同ガイドライン（2025年改訂版）であり、右心不全の診療もこの枠組みの中で原因疾患の評価と体液量の管理を軸に行われる。
-
-- 条件：region: 日本／対象: 右心不全の患者
-- 不確実性：右心不全に特化した記載の範囲を本文で直接確認できていないため、主張はガイドラインの位置づけの範囲に留めた。右心不全の原因・徴候・治療の具体的な内容は、AHA科学声明に基づくHF-027〜HF-029に置いた。肺高血圧症そのものの診断・治療は本項目の範囲外である。
-- 出典：Kitai T, Kohsaka S, Kato T, et al. JCS/JHFS 2025 Guideline on Diagnosis and Treatment of Heart Failure. Circ J. 2025;89:1278-1444.　[DOI 10.1253/circj.CJ-25-0002](https://doi.org/10.1253/circj.CJ-25-0002)　[PMID 40159241](https://pubmed.ncbi.nlm.nih.gov/40159241/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅴ-2-A-②（右心不全、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-157 (id: Jlvnlro)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-026&card_id=HF-026&version=4de6ceb228)　（版 `4de6ceb228`）
-
 ### HF-027　下書き（出典の照合前）
 
 > 米国心臓協会の科学声明では、右心不全の原因は、右室心筋症などの右室自体の障害、右室の虚血と梗塞、先天性心疾患や弁膜症による容量負荷、肺動脈弁狭窄や肺高血圧（左心疾患に伴うものを含む）による圧負荷に整理される。
@@ -347,7 +337,7 @@
 - 出題基準：医学各論 Ⅴ-2-A-②（右心不全、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-157 (id: Jlvnlro)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-031&card_id=HF-031&version=8dfa6674c8)　（版 `8dfa6674c8`）
 
-**[ここまでの 6 件（HF-026〜HF-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HF-026%E3%80%9CHF-031&cards=HF-026%204de6ceb228%0AHF-027%2009bd74d42a%0AHF-028%20b2ba8704d1%0AHF-029%204a0412e2b5%0AHF-030%202b6e757d8f%0AHF-031%208dfa6674c8)**
+**[ここまでの 5 件（HF-027〜HF-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HF-027%E3%80%9CHF-031&cards=HF-027%2009bd74d42a%0AHF-028%20b2ba8704d1%0AHF-029%204a0412e2b5%0AHF-030%202b6e757d8f%0AHF-031%208dfa6674c8)**
 
 ---
 

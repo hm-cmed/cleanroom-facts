@@ -278,6 +278,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/48_pn_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 分野をまたぐ重複の統合：FT-016 の出題基準・コアカリの番号をこのカードに足した（医学各論 Ⅰ-3-A-④（胎児貧血、b） → 医学各論 Ⅰ-3-A-④（胎児貧血、b））。FT-016 は廃止してこのカードに誘導（三原の承認による）
 - id: FT-009
   domain: FT
   subdomain: 胎児貧血
@@ -552,9 +555,12 @@
     created: '2026-11-01'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: FT-008
   history:
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 廃止：FT-008（先に作成）と実質同じ内容のため、番号を FT-008 に移して誘導（分野をまたぐ重複の統合、三原の承認による）
