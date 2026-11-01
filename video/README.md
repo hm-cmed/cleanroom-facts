@@ -41,8 +41,10 @@
 | `org` | 画面左上に出す団体名（任意）。書かなければ表示しない。全原稿に同じ名前を出すときは `python make_all.py --org "団体名"` |
 | `narration` | 画面の字幕 |
 | `speech` | 読み上げ用の文（例：Rome V → ローマ・ファイブ） |
-| `cards` | 根拠のカードID。字幕の数字は、カードにある数字でなければ不合格 |
+| `cards` | 根拠のカードID。字幕・絵の文字（`label`・`items`）の数字は、カードにある数字でなければ不合格 |
 | `visual` | 絵の種類。現在は question / gutbrain / calendar / check / doctor の5種類（`render.py` の `ILL`） |
+| `label` | 絵の中に描く1行の文（任意）。question は下部、calendar は上部、doctor は建物の下に出る。書かなければ絵に文字は入らない |
+| `items` | check の絵の3項目（任意、文字列の配列）。書かなければ項目は空欄 |
 
 ## ファイル
 

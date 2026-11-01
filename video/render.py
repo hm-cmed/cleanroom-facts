@@ -38,23 +38,27 @@ def wrap(text, font, maxw, draw):
     return lines
 
 # ---------- イラスト（2倍で描いて縮小） ----------
+# 絵の中の文字は原稿の場面から渡す（label：1行の文、items：check の項目）。書かなければ文字なし（無地）。
+# 特定の病気やテーマの文言を、ここに固定で書かないこと。
+def label(s):
+    return ((s or {}).get("label") or "").strip()
+
 def canvas():
     im = Image.new("RGBA", (1200, 1200), (0, 0, 0, 0)); return im, ImageDraw.Draw(im)
 
-def ill_question():
+def ill_question(s=None):
     im, d = canvas()
     d.rounded_rectangle((180, 260, 760, 1000), 48, fill=WHITE, outline=INK, width=10)
     d.rounded_rectangle((360, 210, 580, 310), 30, fill=ACC, outline=INK, width=10)
-    f = F(BOLD, 64); d.text((470, 400), "検査結果", font=f, fill=INK, anchor="mm")
     for y in (520, 620, 720):
         d.line((260, y, 520, y), fill=(190, 198, 204), width=12)
         d.text((640, y), "✓", font=F(BOLD, 60), fill=ACC, anchor="mm")
-    d.text((470, 880), "異常なし", font=F(BOLD, 76), fill=ACC, anchor="mm")
+    if label(s): d.text((470, 880), label(s), font=F(BOLD, 76), fill=ACC, anchor="mm")
     d.ellipse((720, 300, 1080, 660), fill=ACC2)
     d.text((900, 470), "？", font=F(BLACK, 240), fill=WHITE, anchor="mm")
     return im
 
-def ill_gutbrain():
+def ill_gutbrain(s=None):
     im, d = canvas()
     # 脳
     d.ellipse((380, 90, 820, 430), fill=LIGHT, outline=ACC, width=12)
@@ -77,12 +81,12 @@ def ill_gutbrain():
         else: d.polygon([(x, 715), (x - 34, 665), (x + 34, 665)], fill=ACC2)
     return im
 
-def ill_calendar():
+def ill_calendar(s=None):
     im, d = canvas()
     d.rounded_rectangle((170, 200, 1030, 1060), 40, fill=WHITE, outline=INK, width=10)
     d.rounded_rectangle((170, 200, 1030, 340), 40, fill=ACC)
     d.rectangle((170, 300, 1030, 340), fill=ACC)
-    d.text((600, 270), "1か月", font=F(BOLD, 70), fill=WHITE, anchor="mm")
+    if label(s): d.text((600, 270), label(s), font=F(BOLD, 70), fill=WHITE, anchor="mm")
     marked = {(1, 1), (3, 2), (5, 3)}
     for r in range(5):
         for c in range(7):
@@ -93,20 +97,22 @@ def ill_calendar():
                 d.rounded_rectangle((x + 14, y + 14, x + 66, y + 66), 10, fill=(232, 228, 220))
     return im
 
-def ill_check():
+def ill_check(s=None):
     im, d = canvas()
-    items = [("警告症状がない", ACC), ("検査は必要な分だけ", ACC), ("症状から診断", ACC2)]
-    for k, (t, col) in enumerate(items):
+    texts = ((s or {}).get("items") or [])[:3]
+    texts += [""] * (3 - len(texts))
+    for k, t in enumerate(texts):
+        col = ACC2 if k == 2 else ACC
         y = 180 + k * 340
         d.rounded_rectangle((150, y, 1050, y + 220), 110, fill=WHITE, outline=col, width=12)
         d.ellipse((190, y + 40, 330, y + 180), fill=col)
         d.text((260, y + 110), "✓", font=F(BOLD, 90), fill=WHITE, anchor="mm")
-        d.text((700, y + 110), t, font=F(BOLD, 66), fill=INK, anchor="mm")
+        if t: d.text((700, y + 110), t, font=F(BOLD, 66), fill=INK, anchor="mm")
         if k < 2:
             d.polygon([(600, y + 300), (560, y + 250), (640, y + 250)], fill=GREY)
     return im
 
-def ill_doctor():
+def ill_doctor(s=None):
     im, d = canvas()
     # 医療機関の建物（赤十字に似た十字は使わない）
     d.polygon([(200, 430), (600, 200), (1000, 430)], fill=ACC)
@@ -116,7 +122,7 @@ def ill_doctor():
             x = 320 + c * 210; y = 500 + r * 170
             d.rounded_rectangle((x, y, x + 140, y + 110), 14, fill=LIGHT, outline=ACC, width=6)
     d.rounded_rectangle((520, 840, 680, 1000), 12, fill=ACC2)
-    d.text((600, 1090), "消化器の専門医に相談", font=F(BOLD, 64), fill=INK, anchor="mm")
+    if label(s): d.text((600, 1090), label(s), font=F(BOLD, 64), fill=INK, anchor="mm")
     return im
 
 ILL = {"question": ill_question, "gutbrain": ill_gutbrain, "calendar": ill_calendar, "check": ill_check, "doctor": ill_doctor}
@@ -184,7 +190,7 @@ def render(script, durations, wav, out_mp4, review=True, stills_dir=None):
     ff = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     for i, s in enumerate(scenes):
         base = base_layer(i); cap = caption_layer(i); sub = subtitle_layer(i)
-        ill = ILL[s["visual"]]().resize((600, 600), Image.LANCZOS)
+        ill = ILL[s["visual"]](s).resize((600, 600), Image.LANCZOS)
         for t in range(round(s["dur"] * FPS)):
             sec = t / FPS
             fr = base.copy()
