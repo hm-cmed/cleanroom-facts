@@ -73,8 +73,8 @@
 - 条件：population: 新規に診断された小児欠神てんかんの小児／region: 国際
 - 不確実性：エトスクシミドは国内承認薬（欠神発作の適応あり）であり、保険適用の範囲内である。バルプロ酸とラモトリギンも国内承認薬である。
 - 出典：Glauser TA, Cnaan A, Shinnar S, et al. Ethosuximide, valproic acid, and lamotrigine in childhood absence epilepsy. N Engl J Med. 2010;362(9):790-799　[DOI 10.1056/NEJMoa0902014](https://doi.org/10.1056/NEJMoa0902014)　[PMID 20200383](https://pubmed.ncbi.nlm.nih.gov/20200383/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-6-A-②（欠神発作<全般非運動発作>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-053 (id: Jlvnleo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-007&card_id=EP-007&version=a1b2f1fa87)　（版 `a1b2f1fa87`）
+- 出題基準：医学各論 Ⅸ-6-A-②（欠神発作<全般非運動発作>、a）；医学各論 Ⅸ-11-C-②（欠神発作<全般非運動発作>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-053 (id: Jlvnleo)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-007&card_id=EP-007&version=b89b4896fc)　（版 `b89b4896fc`）
 
 ### EP-008　下書き（出典の照合前）
 
@@ -83,8 +83,8 @@
 - 条件：population: 新規に診断された小児欠神てんかんの小児／region: 国際
 - 不確実性：有害事象による中止の割合には 3 剤間で有意差はなかった。エトスクシミド・バルプロ酸はいずれも国内承認薬で保険適用の範囲内である。
 - 出典：Glauser TA, Cnaan A, Shinnar S, et al. Ethosuximide, valproic acid, and lamotrigine in childhood absence epilepsy. N Engl J Med. 2010;362(9):790-799　[DOI 10.1056/NEJMoa0902014](https://doi.org/10.1056/NEJMoa0902014)　[PMID 20200383](https://pubmed.ncbi.nlm.nih.gov/20200383/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-6-A-②（欠神発作<全般非運動発作>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-053 (id: Jlvnleo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-008&card_id=EP-008&version=bb377952ad)　（版 `bb377952ad`）
+- 出題基準：医学各論 Ⅸ-6-A-②（欠神発作<全般非運動発作>、a）；医学各論 Ⅸ-11-C-②（欠神発作<全般非運動発作>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-053 (id: Jlvnleo)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-008&card_id=EP-008&version=39be38a350)　（版 `39be38a350`）
 
 ### EP-009　下書き（出典の照合前）
 
@@ -106,7 +106,7 @@
 - 出題基準：医学各論 Ⅸ-6-B-①（単純部分発作<焦点意識保持発作>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-054 (id: Jlvnles)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-010&card_id=EP-010&version=8438ef6df2)　（版 `8438ef6df2`）
 
-**[ここまでの 10 件（EP-001〜EP-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EP-001%E3%80%9CEP-010&cards=EP-001%207a2e15e019%0AEP-002%203081bb17f2%0AEP-003%20a5f697b4d8%0AEP-004%209c387d6a8e%0AEP-005%2086a828face%0AEP-006%20441194a26b%0AEP-007%20a1b2f1fa87%0AEP-008%20bb377952ad%0AEP-009%20db250c13b2%0AEP-010%208438ef6df2)**
+**[ここまでの 10 件（EP-001〜EP-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EP-001%E3%80%9CEP-010&cards=EP-001%207a2e15e019%0AEP-002%203081bb17f2%0AEP-003%20a5f697b4d8%0AEP-004%209c387d6a8e%0AEP-005%2086a828face%0AEP-006%20441194a26b%0AEP-007%20b89b4896fc%0AEP-008%2039be38a350%0AEP-009%20db250c13b2%0AEP-010%208438ef6df2)**
 
 ---
 

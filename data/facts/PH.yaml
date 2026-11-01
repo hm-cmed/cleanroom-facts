@@ -301,7 +301,7 @@
     corroboration: null
   uncertainty: 出典は出典マスター登録（SRC-495）の書誌・source_class をそのまま使った。2020年版が現行版であり、後継版・改訂版は本作成時点で確認できていない。本カードは成人の診断の流れに限り、小児の閉塞性睡眠呼吸障害の詳細は扱わない。
   curriculum:
-    kokushi: 医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b）
+    kokushi: 医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b）；医学各論 Ⅴ-7-B-④（睡眠時無呼吸症候群、a）
     core_curriculum: 'PS-02-17-05 (id: JkxnuT8)；TBL-01-00-233 (id: Jlvnl0I)'
   publication_info:
     created: '2026-10-31'
@@ -313,6 +313,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/52_ps_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅴ-7-B-④ を足した（医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b） → 医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b）；医学各論 Ⅴ-7-B-④（睡眠時無呼吸症候群、a））。三原の承認による
 - id: PH-010
   domain: PH
   subdomain: 睡眠時無呼吸症候群
@@ -336,7 +339,7 @@
     corroboration: null
   uncertainty: 出典は循環器疾患における睡眠呼吸障害のガイドラインであり、数値はその本文（診断・保険基準の節）で確認した。本カードは保険基準の事実のみを扱い、循環器疾患に特化した睡眠呼吸障害の管理は扱わない。ピトリサントは CPAP 治療中の閉塞性睡眠時無呼吸症候群に伴う日中の過度の眠気にも適応を持つが、気道閉塞そのものの治療ではない。
   curriculum:
-    kokushi: 医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b）
+    kokushi: 医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b）；医学各論 Ⅴ-7-B-④（睡眠時無呼吸症候群、a）
     core_curriculum: 'PS-02-17-05 (id: JkxnuT8)；TBL-01-00-233 (id: Jlvnl0I)'
   publication_info:
     created: '2026-10-31'
@@ -348,6 +351,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/52_ps_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅴ-7-B-④ を足した（医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b） → 医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b）；医学各論 Ⅴ-7-B-④（睡眠時無呼吸症候群、a））。三原の承認による
 - id: PH-011
   domain: PH
   subdomain: 睡眠時無呼吸症候群
@@ -371,7 +377,7 @@
     corroboration: null
   uncertainty: 本出典は国内ガイドライン2020年版の英語ジャーナル版であり、登録時の決定により書籍版（SRC-495）とは別の文献として扱う。英語版は治療・管理のクリニカルクエスチョン（CQ16〜36）のみの掲載で、診断側の CQ は含まれない。治療抵抗性高血圧に対する CPAP の血圧低下効果は既存カード HT-016 の範囲であり、本カードでは扱わない。
   curriculum:
-    kokushi: 医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b）
+    kokushi: 医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b）；医学各論 Ⅴ-7-B-④（睡眠時無呼吸症候群、a）
     core_curriculum: 'PS-02-17-05 (id: JkxnuT8)；TBL-01-00-233 (id: Jlvnl0I)'
   publication_info:
     created: '2026-10-31'
@@ -383,6 +389,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/52_ps_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 分野をまたぐ項目：出題基準の番号 Ⅴ-7-B-④ を足した（医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b） → 医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b）；医学各論 Ⅴ-7-B-④（睡眠時無呼吸症候群、a））。三原の承認による
 - id: PH-012
   domain: PH
   subdomain: むずむず脚症候群

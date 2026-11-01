@@ -1313,7 +1313,7 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-1366
+    source_ref: SRC-1277
     source: 'Kanagalingam S, Miller NR. Horner syndrome: clinical perspectives. Eye Brain. 2015;7:35-46.'
     doi: 10.2147/EB.S63633
     pmid: '28539793'
@@ -1337,6 +1337,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 出典番号を SRC-1366 から SRC-1277 に付け替え（同じ文献の重複番号の整理。小さい番号を正とする。N1、三原の承認）
 - id: OT-039
   domain: OT
   subdomain: 脳神経疾患
@@ -1771,7 +1774,7 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-1366
+    source_ref: SRC-1277
     source: 'Kanagalingam S, Miller NR. Horner syndrome: clinical perspectives. Eye Brain. 2015;7:35-46'
     doi: 10.2147/EB.S63633
     pmid: '28539793'
@@ -1795,3 +1798,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 出典番号を SRC-1366 から SRC-1277 に付け替え（同じ文献の重複番号の整理。小さい番号を正とする。N1、三原の承認）

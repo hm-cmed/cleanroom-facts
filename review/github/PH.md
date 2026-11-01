@@ -111,8 +111,8 @@
 - 条件：region: 日本／対象: 成人の睡眠時無呼吸症候群患者
 - 不確実性：出典は出典マスター登録（SRC-495）の書誌・source_class をそのまま使った。2020年版が現行版であり、後継版・改訂版は本作成時点で確認できていない。本カードは成人の診断の流れに限り、小児の閉塞性睡眠呼吸障害の詳細は扱わない。
 - 出典：日本呼吸器学会・厚生労働科学研究費補助金難治性疾患政策研究事業「難治性呼吸器疾患・肺高血圧症に関する調査研究」班（監修）. 睡眠時無呼吸症候群（SAS）の診療ガイドライン2020（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b）　コアカリ：PS-02-17-05 (id: JkxnuT8)；TBL-01-00-233 (id: Jlvnl0I)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-009&card_id=PH-009&version=77d12a8921)　（版 `77d12a8921`）
+- 出題基準：医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b）；医学各論 Ⅴ-7-B-④（睡眠時無呼吸症候群、a）　コアカリ：PS-02-17-05 (id: JkxnuT8)；TBL-01-00-233 (id: Jlvnl0I)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-009&card_id=PH-009&version=e38f3b4cdc)　（版 `e38f3b4cdc`）
 
 ### PH-010　下書き（出典の照合前）
 
@@ -121,8 +121,8 @@
 - 条件：region: 日本／対象: 睡眠時無呼吸症候群患者
 - 不確実性：出典は循環器疾患における睡眠呼吸障害のガイドラインであり、数値はその本文（診断・保険基準の節）で確認した。本カードは保険基準の事実のみを扱い、循環器疾患に特化した睡眠呼吸障害の管理は扱わない。ピトリサントは CPAP 治療中の閉塞性睡眠時無呼吸症候群に伴う日中の過度の眠気にも適応を持つが、気道閉塞そのものの治療ではない。
 - 出典：Japanese Circulation Society. JCS 2023 Guideline on Diagnosis and Treatment of Sleep Disordered Breathing in Cardiovascular Disease. Circ J. 2024;88(11):1865-1935.　[DOI 10.1253/circj.CJ-23-0489](https://doi.org/10.1253/circj.CJ-23-0489)　[PMID 39183026](https://pubmed.ncbi.nlm.nih.gov/39183026/)（区分 UNKNOWN）
-- 出題基準：医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b）　コアカリ：PS-02-17-05 (id: JkxnuT8)；TBL-01-00-233 (id: Jlvnl0I)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-010&card_id=PH-010&version=a5ca2bfcac)　（版 `a5ca2bfcac`）
+- 出題基準：医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b）；医学各論 Ⅴ-7-B-④（睡眠時無呼吸症候群、a）　コアカリ：PS-02-17-05 (id: JkxnuT8)；TBL-01-00-233 (id: Jlvnl0I)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-010&card_id=PH-010&version=934ae579eb)　（版 `934ae579eb`）
 
 ### PH-011　下書き（出典の照合前）
 
@@ -131,10 +131,10 @@
 - 条件：region: 日本／対象: 成人の閉塞性睡眠時無呼吸患者
 - 不確実性：本出典は国内ガイドライン2020年版の英語ジャーナル版であり、登録時の決定により書籍版（SRC-495）とは別の文献として扱う。英語版は治療・管理のクリニカルクエスチョン（CQ16〜36）のみの掲載で、診断側の CQ は含まれない。治療抵抗性高血圧に対する CPAP の血圧低下効果は既存カード HT-016 の範囲であり、本カードでは扱わない。
 - 出典：Akashiba T, Inoue Y, Uchimura N, et al. Sleep Apnea Syndrome (SAS) Clinical Practice Guidelines 2020. Sleep Biol Rhythms. 2022;20(1):5-37.　[DOI 10.1007/s41105-021-00353-6](https://doi.org/10.1007/s41105-021-00353-6)　[PMID 38469064](https://pubmed.ncbi.nlm.nih.gov/38469064/)（区分 OPEN）
-- 出題基準：医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b）　コアカリ：PS-02-17-05 (id: JkxnuT8)；TBL-01-00-233 (id: Jlvnl0I)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-011&card_id=PH-011&version=f490c137ce)　（版 `f490c137ce`）
+- 出題基準：医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b）；医学各論 Ⅴ-7-B-④（睡眠時無呼吸症候群、a）　コアカリ：PS-02-17-05 (id: JkxnuT8)；TBL-01-00-233 (id: Jlvnl0I)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-011&card_id=PH-011&version=172754b747)　（版 `172754b747`）
 
-**[ここまでの 3 件（PH-009〜PH-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PH-009%E3%80%9CPH-011&cards=PH-009%2077d12a8921%0APH-010%20a5ca2bfcac%0APH-011%20f490c137ce)**
+**[ここまでの 3 件（PH-009〜PH-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PH-009%E3%80%9CPH-011&cards=PH-009%20e38f3b4cdc%0APH-010%20934ae579eb%0APH-011%20172754b747)**
 
 ---
 
