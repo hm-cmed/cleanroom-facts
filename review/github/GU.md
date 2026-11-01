@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 39 件のうち、監修済み 0 件。
+全 43 件のうち、監修済み 0 件。
 
 ## 腎細胞癌
 
@@ -462,7 +462,17 @@
 - 出題基準：医学各論 Ⅷ-10-B-②（包茎、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-033&card_id=GU-033&version=ef83d6947c)　（版 `ef83d6947c`）
 
-**[ここまでの 1 件（GU-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-033&cards=GU-033%20ef83d6947c)**
+### GU-040　下書き（出典の照合前）
+
+> 小児の包茎は、包皮口が柔軟で瘢痕がなく、年齢とともに翻転できるようになる生理的包茎と、遠位部に瘢痕化（収縮した白色の線維性輪）を伴う病的包茎とに分けられる。生理的包茎で包皮が翻転できない子の割合は、3歳で10%、6歳で8%、16歳で1%と年齢とともに低下する。病的包茎の原因としては閉塞性乾皮性亀頭炎（硬化性苔癬）が多く、ステロイド外用に反応しにくい。包皮を無理に翻転すると微小な裂け目が生じて瘢痕化を招くため、無理な翻転は避ける。瘢痕のない包皮口へのステロイド外用（0.1%トリアムシノロンクリームを1日2回、6〜8週間）により、約80%で包皮口の組織が緩む。翻転した包皮が戻らなくなった嵌頓包茎は緊急の病態であり、浮腫を圧迫して用手的に整復し、重症例では背面切開を行う。包皮環切除の唯一の絶対適応は病的包茎である。
+
+- 条件：region: 国際／対象: 小児
+- 不確実性：薬剤（トリアムシノロン外用）を含むカードである。副腎皮質ステロイド外用薬は国内で承認された薬効群であるが、包茎へのステロイド外用は添付文書上の適応ではなく適応外使用にあたる（個別製剤の添付文書では確認していない）。年齢別の割合は本総説が引用する Oster（1968年）のコホートの数値である。出典は2007年の総説であり、本カードは依頼文の指定どおり生理的包茎の自然経過と病的包茎の鑑別・保存的治療に範囲を限った。後天性包茎と亀頭炎の頻度は既存の GU-033（SRC-742）が担う。本論文の書誌（PMC・PubMed）に DOI の記載がなく、null とした。出典内の位置：本文の生理的包茎・病的包茎・嵌頓包茎の各項。
+- 出典：McGregor TB, Pike JG, Leonard MP. Pathologic and physiologic phimosis: approach to the phimotic foreskin. Can Fam Physician. 2007;53(3):445-448　[PMID 17872680](https://pubmed.ncbi.nlm.nih.gov/17872680/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅷ-10-B-②（包茎、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-040&card_id=GU-040&version=e3d59fb5c9)　（版 `e3d59fb5c9`）
+
+**[ここまでの 2 件（GU-033〜GU-040）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-033%E3%80%9CGU-040&cards=GU-033%20ef83d6947c%0AGU-040%20e3d59fb5c9)**
 
 ---
 
@@ -494,7 +504,17 @@
 - 出題基準：医学各論 Ⅷ-10-B-④（精巣・精索水瘤、a）；医学各論 Ⅵ-12-G-⑤（精巣水瘤、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-01-00-350 (id: JlvnmAI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-035&card_id=GU-035&version=94e4d8bc44)　（版 `94e4d8bc44`）
 
-**[ここまでの 1 件（GU-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-035&cards=GU-035%2094e4d8bc44)**
+### GU-041　下書き（出典の照合前）
+
+> 成人の精巣水瘤は精巣鞘膜内に漿液が貯留したもので、典型的には無痛性の陰嚢腫脹として現れ、不快感を伴うことがある。腹膜鞘状突起が開存して腹腔と陰嚢が交通する交通性と、交通がなく鞘膜内の分泌と吸収の不均衡によって生じる非交通性に分類され、分類と原因の同定が管理の方針に関わる。管理では、水腫切除術が主な外科的治療であり、大きく持続する水瘤に対して推奨される。穿刺吸引と硬化療法は低侵襲で安価な代替手段であるが、再発などの合併症がありうる。水腫切除術の術後合併症には、陰嚢浮腫、血腫、慢性疼痛、感染などがある。
+
+- 条件：region: 米国／study: 骨盤・鼠径部の水瘤の分類・病因・評価・管理に関する総説（Current Urology、2017年）
+- 不確実性：既存出典 SRC-749（Tiemstra 2008）は透光性などの臨床像・評価は担うが水腫切除術など管理の記載が本文に確認できなかったため、本カードは管理まで扱う本総説を新規出典とした。透光性と新生児例の自然消失については既存カード GU-035 が担う。出版社のオープンアクセス条件（CC BY-NC-ND の適用有無）は本文の表示では確定できず、取り込み側での最終確認を要する。
+- 出典：Dagur G, Gandhi J, Suh Y, et al. Classifying Hydroceles of the Pelvis and Groin: An Overview of Etiology, Secondary Complications, Evaluation, and Management. Curr Urol. 2017;10(1):1-14　[DOI 10.1159/000447145](https://doi.org/10.1159/000447145)　[PMID 28559772](https://pubmed.ncbi.nlm.nih.gov/28559772/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅷ-10-B-④（精巣・精索水瘤、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-01-00-350 (id: JlvnmAI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-041&card_id=GU-041&version=cb35f65d0c)　（版 `cb35f65d0c`）
+
+**[ここまでの 2 件（GU-035〜GU-041）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-035%E3%80%9CGU-041&cards=GU-035%2094e4d8bc44%0AGU-041%20cb35f65d0c)**
 
 ---
 
@@ -526,7 +546,17 @@
 - 出題基準：医学各論 Ⅷ-10-B-⑥（精巣捻転症、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-01-00-351 (id: JlvnmAQ)；TBL-01-00-350 (id: JlvnmAI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-037&card_id=GU-037&version=32281279fd)　（版 `32281279fd`）
 
-**[ここまでの 1 件（GU-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-037&cards=GU-037%2032281279fd)**
+### GU-042　下書き（出典の照合前）
+
+> 精巣捻転症の精巣温存は、発症から捻転解除までの時間に強く依存する。症例集積30研究・2,116例の系統的レビューでは、治療までの時間ごとの精巣生存率は、0〜6時間で97.2%、7〜12時間で79.3%、13〜18時間で61.3%、19〜24時間で42.5%、25〜48時間で24.4%、48時間超で7.4%であり、累積では12時間以内で90.4%、13〜24時間で54.0%、24時間超で18.1%だった。したがって、捻転が疑われる例では速やかな外科的対応が原則であり、発症から長時間を経た例でも生存の可能性が残るため、積極的な対応が推奨される。なお、ここでの生存率は、その後の精巣萎縮や機能の有無を問わない定義による。
+
+- 条件：region: 国際／対象: 精巣捻転症の患者（主に小児・思春期。症例集積2,116例の系統的レビュー）
+- 不確実性：数値は系統的レビューの抄録で確認した範囲であり、対象は小児・思春期の症例集積が中心である。「画像検査で手術を遅らせない」という原則そのものはガイドライン側の記載で、本出典（系統的レビュー）には含まれないため主張には入れていない。既存の GU-037 の出典 SRC-750（超音波の総説）では時間と温存率の数値が確認できなかったため、本カードは新規出典によった。
+- 出典：Mellick LB, Sinex JE, Gibson RW, Mears K. A Systematic Review of Testicle Survival Time After a Torsion Event. Pediatr Emerg Care. 2019;35(12):821-825　[DOI 10.1097/PEC.0000000000001287](https://doi.org/10.1097/PEC.0000000000001287)　[PMID 28953100](https://pubmed.ncbi.nlm.nih.gov/28953100/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅷ-10-B-⑥（精巣捻転症、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-01-00-351 (id: JlvnmAQ)；TBL-01-00-350 (id: JlvnmAI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-042&card_id=GU-042&version=e637072dab)　（版 `e637072dab`）
+
+**[ここまでの 2 件（GU-037〜GU-042）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-037%E3%80%9CGU-042&cards=GU-037%2032281279fd%0AGU-042%20e637072dab)**
 
 ---
 
@@ -558,7 +588,17 @@
 - 出題基準：医学各論 Ⅷ-10-E-③（精巣損傷、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-039&card_id=GU-039&version=223b624e8d)　（版 `223b624e8d`）
 
-**[ここまでの 1 件（GU-039）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-039&cards=GU-039%20223b624e8d)**
+### GU-043　下書き（出典の照合前）
+
+> 精巣損傷は機序により鈍的外傷と穿通外傷に分けられ、鈍的陰嚢外傷では精巣脱臼、精巣周囲の血瘤、精巣破裂、陰嚢血腫が生じうる。精巣破裂は、精巣が下恥骨枝や恥骨結合に強く圧迫されて白膜が断裂した状態で、直後の疼痛、悪心、嘔吐、ときに失神を伴う。精巣外傷の診断では陰嚢超音波検査が第一選択である。管理は損傷の型で異なり、血瘤が対側精巣の3倍未満であれば保存的に経過をみて、大きければ外科的に検索する。精巣破裂が疑われる場合と、超音波検査で結論が得られない場合は精巣を外科的に検索し、破裂では血腫と壊死した精細管を除去して白膜を閉鎖する。精巣脱臼は用手整復に続く二次的な精巣固定術で治療し、用手整復ができなければ即時の精巣固定術を行う。穿通外傷では外科的検索と保存的なデブリードマンを行い、精巣と陰嚢の一次再建が可能なことが多いが、再建できない場合は精巣摘除が適応となる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：出典は欧州泌尿器科学会（EAU）の尿路外傷ガイドライン（2025年3月 limited text update）の Genital Trauma の節で確認した。EAU の公式ページでは2026年版が2025年版の全面再構成であると案内されており、取り込み時に最新版での照合が望ましい。薬剤名は含まない。既存の GU-039（SRC-750）は単施設の超音波所見の後ろ向き検討であり、分類と保存・手術の判断の一般論は本出典で補った。出典内の位置：Genital Trauma の Blunt scrotal trauma、Penetrating scrotal trauma、Table 1（testicular trauma）、Recommendations for the management of genital trauma。
+- 出典：European Association of Urology. EAU Guidelines on Urological Trauma. EAU Guidelines Office. 2025 (Limited text update March 2025)　[リンク](https://uroweb.org/guidelines/urological-trauma)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅷ-10-E-③（精巣損傷、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-043&card_id=GU-043&version=34d2616a85)　（版 `34d2616a85`）
+
+**[ここまでの 2 件（GU-039〜GU-043）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-039%E3%80%9CGU-043&cards=GU-039%20223b624e8d%0AGU-043%2034d2616a85)**
 
 ---
 

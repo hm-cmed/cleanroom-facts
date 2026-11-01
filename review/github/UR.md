@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 34 件のうち、監修済み 0 件。
+全 43 件のうち、監修済み 0 件。
 
 ## 尿路結石症
 
@@ -242,7 +242,17 @@
 - 出題基準：医学各論 Ⅷ-5-D-②（非淋菌性尿道炎、a）；医学各論 Ⅻ-2-A-②（性器クラミジア感染症、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-345 (id: Jlvnl_c)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-020&card_id=UR-020&version=8fa1a037d7)　（版 `8fa1a037d7`）
 
-**[ここまでの 1 件（UR-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-020&cards=UR-020%208fa1a037d7)**
+### UR-041　下書き（出典の照合前）
+
+> 非淋菌性尿道炎は、尿道分泌物の鏡検で炎症が確認され、グラム陰性双球菌などの淋菌の所見がない尿道炎であり、原因の内訳はクラミジア・トラコマティスが15〜40%、Mycoplasma genitalium が10〜25%、腟トリコモナスが1〜8%を占め、精密な検査を行っても約半数では病原体が特定できない。診断では、尿道炎の客観的所見（粘液性・粘膿性・膿性の分泌物、尿道分泌物の染色標本で油浸視野あたり2個以上の白血球、初尿の白血球エステラーゼ陽性または初尿沈渣で高倍率視野あたり10個以上の白血球）を確認したうえで、全例にクラミジアと淋菌の核酸増幅検査を行う。治療の推奨レジメンはドキシサイクリン100mgを1日2回7日間経口であり、アジスロマイシン1g単回経口などは代替である。症状が持続・再発する場合の最も多い原因は M. genitalium であり、核酸増幅検査で確認し、薬剤耐性検査が利用できない場合はドキシサイクリン7日間投与に続けてモキシフロキサシン400mgを1日1回7日間投与する2段階治療を行う。腟トリコモナスの関与が考えられる持続例ではメトロニダゾール2g単回投与を考慮する。過去60日以内のセックスパートナーは評価・検査とクラミジアに有効な治療のために紹介し、本人とパートナーの治療が完了するまで性交を控える。クラミジアによる男性の合併症には、精巣上体炎、前立腺炎、反応性関節炎がある。
+
+- 条件：region: 米国／対象: 成人男性
+- 不確実性：薬剤（ドキシサイクリン、アジスロマイシン、モキシフロキサシン、メトロニダゾール）を含むカードである。本カードは米国CDCの性感染症治療ガイドライン2021年版の記載であり、日本の性感染症の診断・治療の推奨とは薬剤選択や用量が異なる場合がある。ドキシサイクリンは国内承認薬で適応症に尿道炎を含み、アジスロマイシンはクラミジア性尿道炎が、メトロニダゾール内服薬はトリコモナス症が、それぞれ適応症に含まれる。一方、モキシフロキサシンは国内承認薬だが、尿道炎・M. genitalium 感染症は適応症に含まれず、本カードに基づく使用は適応外となる。性器クラミジア感染症そのものの臨床像・合併症・日本の位置づけは本カードの対象外とした（第64回の CM-007 が担う範囲）。出典内の位置：Diseases Characterized by Urethritis and Cervicitis の Urethritis、Nongonococcal Urethritis、Persistent or Recurrent Nongonococcal Urethritis の各節。
+- 出典：Workowski KA, Bachmann LH, Chan PA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187　[DOI 10.15585/mmwr.rr7004a1](https://doi.org/10.15585/mmwr.rr7004a1)　[PMID 34292926](https://pubmed.ncbi.nlm.nih.gov/34292926/)（区分 GOV_US）
+- 出題基準：医学各論 Ⅷ-5-D-②（非淋菌性尿道炎、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-345 (id: Jlvnl_c)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-041&card_id=UR-041&version=4cea355316)　（版 `4cea355316`）
+
+**[ここまでの 2 件（UR-020〜UR-041）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-020%E3%80%9CUR-041&cards=UR-020%208fa1a037d7%0AUR-041%204cea355316)**
 
 ---
 
@@ -258,7 +268,17 @@
 - 出題基準：医学各論 Ⅷ-5-D-③（性器ヘルペス、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-021&card_id=UR-021&version=133e406918)　（版 `133e406918`）
 
-**[ここまでの 1 件（UR-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-021&cards=UR-021%20133e406918)**
+### UR-042　下書き（出典の照合前）
+
+> 性器ヘルペスの診断は臨床所見だけでは不十分で、病変部からの型特異的なウイルス学的検査（核酸増幅検査またはウイルス培養）で確認する。核酸増幅検査が最も感度が高く、再発と無症候性のウイルス排泄は単純ヘルペスウイルス2型で1型より格段に多いため型別が重要であり、病変がない場合の診断には型特異的血清学的検査が補助となる。症候性の初発の2型感染ではほぼ全例がその後再発し、抗ウイルス薬による治療は再発のたびに投与する発症時療法か、連日投与する抑制療法のいずれかで行う。抑制療法は再発頻度の高い例で再発を70〜80%減らし、頻度の低い例にも有効で、そのレジメンはアシクロビル400mgを1日2回、バラシクロビル500mgを1日1回または1gを1日1回である。不一致カップルでは、バラシクロビル500mgを1日1回の抑制療法が2型の伝播を減らす。妊娠では、分娩間近に性器ヘルペスに初感染すると新生児への伝播リスクは30〜50%と高いのに対し、妊娠前から再発歴がある場合や妊娠前半の感染では1%未満である。妊娠36週からアシクロビル400mgを1日3回またはバラシクロビル500mgを1日2回の抑制療法を行うと分娩時の再発と帝王切開が減り、分娩開始時に再発病変がある女性は帝王切開とし、病変も前駆症状もなければ経腟分娩ができる。
+
+- 条件：region: 米国／対象: 成人（妊婦を含む）
+- 不確実性：薬剤（アシクロビル、バラシクロビル）を含むカードである。バラシクロビルは国内で「性器ヘルペスの再発抑制」の承認適応があり（バルトレックス錠500、通常は成人に1回500mgを1日1回経口投与、PMDA の添付文書情報で確認）、CDC の抑制療法の用法の一部は国内適応の範囲内である。一方、アシクロビルの国内適応は単純疱疹、帯状疱疹、造血幹細胞移植における単純ヘルペスウイルス感染症の発症抑制などであり、成人への性器ヘルペス再発抑制の明示的な適応はバラシクロビルにあるため、CDC 記載のアシクロビル抑制療法（400mgを1日2回）と妊娠36週からの抑制療法は国内の承認用法と異なり、適応外使用となる場合がある。ファムシクロビルは CDC の抑制療法の選択肢に挙がるが、性器ヘルペス再発抑制の国内適応を確認していないため主張には含めなかった。出典は米国 CDC の性感染症治療ガイドライン2021年版であり、日本の性感染症ガイドラインにおける位置づけは本カードの範囲外である。初発例の治療レジメンは既存の UR-021 が担う。出典内の位置：Genital Herpes の Diagnosis、再発と抑制療法、Genital Herpes During Pregnancy の各項。
+- 出典：Workowski KA, Bachmann LH, Chan PA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187　[DOI 10.15585/mmwr.rr7004a1](https://doi.org/10.15585/mmwr.rr7004a1)　[PMID 34292926](https://pubmed.ncbi.nlm.nih.gov/34292926/)（区分 GOV_US）
+- 出題基準：医学各論 Ⅷ-5-D-③（性器ヘルペス、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-042&card_id=UR-042&version=e8e96b2f41)　（版 `e8e96b2f41`）
+
+**[ここまでの 2 件（UR-021〜UR-042）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-021%E3%80%9CUR-042&cards=UR-021%20133e406918%0AUR-042%20e8e96b2f41)**
 
 ---
 
@@ -290,7 +310,17 @@
 - 出題基準：医学各論 Ⅷ-10-A-①（重複腎盂尿管、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-429 (id: JlvnmHg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-023&card_id=UR-023&version=6a00c9ba58)　（版 `6a00c9ba58`）
 
-**[ここまでの 1 件（UR-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-023&cards=UR-023%206a00c9ba58)**
+### UR-035　下書き（出典の照合前）
+
+> 重複腎盂尿管に伴う尿管瘤や逆流の評価では、超音波検査で上腎・下腎の拡張と膀胱内の尿管瘤を確認し、排尿時膀胱尿道造影で同側・対側の膀胱尿管逆流と膀胱頸部の状態を、DMSAなどの腎シンチグラフィで上腎・下腎の分腎機能を、MR尿路造影で形態を評価する。尿管瘤は女児に多く、その約80%は重複系の上極尿管に伴う。無症状で膀胱出口部閉塞がなく、上腎の水尿管腎症が軽度で、逆流が低グレード（III度未満）の場合は、予防的抗菌薬投与を含めた保存的管理を継続でき、長期の経過観察が必要である。尿路敗血症や膀胱頸部の閉塞がある場合は直ちにドレナージを行い、分腎機能が低下した例では腎機能の温存や尿路感染の予防のために手術を検討する。追加手術は、内視鏡的減圧、上腎部分切除や尿管尿管吻合などの上位アプローチ、尿管再植などの下位アプローチから、臨床状態、年齢、上腎の機能、逆流や閉塞の有無などによって選ぶ。
+
+- 条件：region: 国際／対象: 重複腎盂尿管の小児
+- 不確実性：出典のEAU小児泌尿器ガイドライン（2026年版）第19章に基づく。同章は重複系の閉塞性病態（尿管瘤と異所開口）を中心に扱い、完全重複と不完全重複の定義そのものや不完全重複に特有の経過は扱っていないため、本カードは尿管瘤や逆流を伴う重複系の評価と管理に限った。本カードでは予防的抗菌薬を系統の記載にとどめ、特定の薬剤名は含まない。
+- 出典：European Association of Urology. EAU Guidelines on Paediatric Urology. EAU Guidelines Office, Arnhem, The Netherlands. 2026　[リンク](https://uroweb.org/guidelines/paediatric-urology/chapter/ureterocele-and-ectopic-ureter)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅷ-10-A-①（重複腎盂尿管、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-429 (id: JlvnmHg)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-035&card_id=UR-035&version=da2874955d)　（版 `da2874955d`）
+
+**[ここまでの 2 件（UR-023〜UR-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-023%E3%80%9CUR-035&cards=UR-023%206a00c9ba58%0AUR-035%20da2874955d)**
 
 ---
 
@@ -306,7 +336,17 @@
 - 出題基準：医学各論 Ⅷ-10-A-②（異所性尿管開口、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-429 (id: JlvnmHg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-024&card_id=UR-024&version=cbd97898d3)　（版 `cbd97898d3`）
 
-**[ここまでの 1 件（UR-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-024&cards=UR-024%20cbd97898d3)**
+### UR-036　下書き（出典の照合前）
+
+> 異所性尿管開口は、尿管の開口が膀胱頸部や尿道、尿路の外にあるもので、約80%は完全重複腎盂尿管の上極尿管に伴い、女児に多い（男女比1対5）。女児の開口部位は尿道、前庭、腟、子宮や卵管で、括約筋より遠位に開口すると、正常な排尿ができるにもかかわらず尿が持続的に滴る。男児の開口は後部尿道、精嚢、射精管などで、外括約筋より遠位にはならないため失禁は生じず、反復する精巣上体炎などが手がかりとなる。診断では、超音波検査、DMSAやMAG3による腎シンチグラフィ、排尿時膀胱尿道造影、MRIで、分腎機能、逆流、同側下腎への圧迫を評価する。治療は、上腎の機能が温存に値する場合は尿管尿管吻合や尿管再植などの再建術を、機能のない上腎で感染を繰り返す場合や、女児で尿の持続的な滴りがある場合は上腎の部分切除（上極半腎切除）などの手術を検討する。
+
+- 条件：region: 国際／対象: 異所性尿管開口の小児
+- 不確実性：出典のEAU小児泌尿器ガイドライン（2026年版）第19章の異所性尿管の節に基づく。単施設の治療成績ではなくガイドラインの一般論であり、術式の選択は症例ごとの解剖と分腎機能による。本カードに薬剤名は含まれない。
+- 出典：European Association of Urology. EAU Guidelines on Paediatric Urology. EAU Guidelines Office, Arnhem, The Netherlands. 2026　[リンク](https://uroweb.org/guidelines/paediatric-urology/chapter/ureterocele-and-ectopic-ureter)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅷ-10-A-②（異所性尿管開口、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-429 (id: JlvnmHg)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-036&card_id=UR-036&version=8420825c94)　（版 `8420825c94`）
+
+**[ここまでの 2 件（UR-024〜UR-036）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-024%E3%80%9CUR-036&cards=UR-024%20cbd97898d3%0AUR-036%208420825c94)**
 
 ---
 
@@ -322,7 +362,17 @@
 - 出題基準：医学各論 Ⅷ-10-A-③（膀胱瘤、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-025&card_id=UR-025&version=155e0f7293)　（版 `155e0f7293`）
 
-**[ここまでの 1 件（UR-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-025&cards=UR-025%20155e0f7293)**
+### UR-037　下書き（出典の照合前）
+
+> 骨盤臓器脱の評価では、脱出・尿路・排便・性機能に関する症状の病歴をとり、診察で骨盤内腫瘤を除外したうえで、前方・中央・後方の各区画の脱出の有無と程度を POP-Q システムで評価・記録する。治療は無治療・非手術的治療・手術の選択肢を、本人の希望、脱出の部位、併存症、出産希望を踏まえて検討する。症状のある POP-Q ステージ1または2の脱出には、少なくとも16週間の指導付き骨盤底筋訓練を第一の選択肢として検討し、症候性の脱出には腟ペッサリー（単独または指導付き骨盤底筋訓練との併用）を検討する。非手術的治療で症状が改善しない場合、または本人が非手術的治療を望まない場合に手術を提案し、前腟壁脱出に対してはメッシュを用いない前方修復術を提案する。
+
+- 条件：region: 英国／study: NICE ガイドライン NG123（尿失禁と骨盤臓器脱の管理、2019年）
+- 不確実性：出典は英国のガイドラインであり、主張はその推奨本文（§1.6〜§1.8）で確認した範囲である。POP-Q のステージ判定の具体的な測定基準は同ガイドライン本文に明記されておらず含めていない。NICE の権利表示（Notice of rights、OGL の適用範囲を含む）の最終確認は取り込み側に委ねる。
+- 出典：National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. 2019　[リンク](https://www.nice.org.uk/guidance/ng123)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅷ-10-A-③（膀胱瘤、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-037&card_id=UR-037&version=8d4b979f99)　（版 `8d4b979f99`）
+
+**[ここまでの 2 件（UR-025〜UR-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-025%E3%80%9CUR-037&cards=UR-025%20155e0f7293%0AUR-037%208d4b979f99)**
 
 ---
 
@@ -434,7 +484,17 @@
 - 出題基準：医学各論 Ⅷ-10-D-③（腹圧性尿失禁、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-032&card_id=UR-032&version=2fcb49536e)　（版 `2fcb49536e`）
 
-**[ここまでの 1 件（UR-032）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-032&cards=UR-032%202fcb49536e)**
+### UR-038　下書き（出典の照合前）
+
+> 女性の尿失禁は初回評価で腹圧性・混合性・切迫性に分類し、混合性尿失禁では主たる症状を治療の対象とする。腹圧性尿失禁に対する第一選択の治療は、少なくとも3か月間の指導付き骨盤底筋訓練であり、BMI が30を超える場合は減量を助言する。非手術的管理で改善せず本人が手術を希望する場合は、膀胱頸部吊り上げ術（開腹または腹腔鏡下）、自家腹直筋筋膜スリング、恥骨後方中部尿道メッシュスリングの中から選択肢を提示する。代替となる手術手技が適さない、または本人が受け入れられない場合は尿道周囲への増量剤注入を検討するが、その効果は限定的で持続しない。侵襲的な治療手技を行う場合は、地域の多職種チームで提案された治療を検討する。
+
+- 条件：region: 英国／study: NICE ガイドライン NG123（尿失禁と骨盤臓器脱の管理、2019年）
+- 不確実性：出典は英国のガイドラインであり、主張はその推奨本文（§1.3〜§1.5）で確認した範囲である。個々の術式の国内での実施状況・保険適用の扱いは同ガイドラインでは分からず、本カードには含めていない。同ガイドラインにはデュロキセチンを腹圧性尿失禁の第一選択としない旨の記載があるが、国内では腹圧性尿失禁への適応がないため主張には含めなかった。
+- 出典：National Institute for Health and Care Excellence. Urinary incontinence and pelvic organ prolapse in women: management. NICE guideline NG123. 2019　[リンク](https://www.nice.org.uk/guidance/ng123)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅷ-10-D-③（腹圧性尿失禁、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-038&card_id=UR-038&version=da4b4d2219)　（版 `da4b4d2219`）
+
+**[ここまでの 2 件（UR-032〜UR-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-032%E3%80%9CUR-038&cards=UR-032%202fcb49536e%0AUR-038%20da4b4d2219)**
 
 ---
 
@@ -450,7 +510,17 @@
 - 出題基準：医学各論 Ⅷ-10-E-①（腎・尿路損傷、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-340 (id: Jlvnl_E)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-033&card_id=UR-033&version=f489a114e7)　（版 `f489a114e7`）
 
-**[ここまでの 1 件（UR-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-033&cards=UR-033%20f489a114e7)**
+### UR-039　下書き（出典の照合前）
+
+> 腎・尿路外傷の画像評価の選択は血行動態の状態によって決まり、血行動態が安定している、または安定化した患者では、遅延尿路相を含む造影CTが診断のゴールドスタンダードである（推奨度1A）。腎損傷の重症度はAAST臓器損傷スケール（グレードI〜V）で分類し、これに血行動態を組み合わせたWSES分類では、安定したAASTグレードI〜IIを軽症、安定したグレードIIIを中等症、安定したグレードIV〜V（または主血管の解離・閉塞を伴う実質損傷）を重症、血行動態が不安定な場合を最重症として管理方針を立てる。血行動態が安定した軽症から重症までの損傷では非手術的管理が治療の第一選択であり（推奨度1B）、その前提としてCTによる正確な分類が必須である。血行動態が回復した重症損傷では、血管塞栓術によって非手術的管理を継続できる場合がある。
+
+- 条件：region: 国際／study: WSES-AASTの腎・尿路外傷ガイドライン（2019年）
+- 不確実性：AAST グレードごとの解剖学的な定義は出典論文では図（Figure 2）に示されており、本文テキストでは確認できなかったため、グレード別の基準は含めていない。血尿は腎外傷の88〜94%にみられるが損傷グレードの予測にはならないこと、E-FAST は腎外傷に対する感度・特異度が低いことも同ガイドラインに記載がある。
+- 出典：Coccolini F, Moore EE, Kluger Y, et al; WSES-AAST Expert Panel. Kidney and uro-trauma: WSES-AAST guidelines. World J Emerg Surg. 2019;14:54　[DOI 10.1186/s13017-019-0274-x](https://doi.org/10.1186/s13017-019-0274-x)　[PMID 31827593](https://pubmed.ncbi.nlm.nih.gov/31827593/)（区分 OPEN）
+- 出題基準：医学各論 Ⅷ-10-E-①（腎・尿路損傷、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-340 (id: Jlvnl_E)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-039&card_id=UR-039&version=58d44575a8)　（版 `58d44575a8`）
+
+**[ここまでの 2 件（UR-033〜UR-039）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-033%E3%80%9CUR-039&cards=UR-033%20f489a114e7%0AUR-039%2058d44575a8)**
 
 ---
 
@@ -467,6 +537,32 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-034&card_id=UR-034&version=5bd34169ce)　（版 `5bd34169ce`）
 
 **[ここまでの 1 件（UR-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-034&cards=UR-034%205bd34169ce)**
+
+---
+
+## 膀胱結石、尿道結石
+
+### UR-040　下書き（出典の照合前）
+
+> 膀胱結石は全尿路結石の約5%を占め、男性は女性の4〜10倍多い。分類は、水分摂取や栄養の不足した小児にみられる原発性（風土性）、下部尿路閉塞・神経因性膀胱・慢性細菌尿・異物・膀胱憩室などの異常を背景とする二次性、上部尿路から下降した移動性に分けられ、成人の膀胱結石の45〜79%では下部尿路閉塞が原因である。症状は頻尿、終末時血尿、排尿の終わりに最も強い排尿痛・恥骨上部痛であり、再発性の尿路感染が唯一の症状のこともあり、約10%は無症状に偶然発見される。診断の画像検査では、単純X線の感度が21〜78%、超音波検査の感度が20〜83%・特異度が98〜100%で、CT と膀胱鏡はこれらより感度が高い。治療に先立ち、尿流量測定、残尿測定、尿pHと尿培養、代謝評価、結石分析で結石の原因を評価する。無症状の移動性結石は治療せずに済むことがあるが、原発性と二次性は通常症候性で積極的治療の対象であり、尿酸結石は尿pHを6.5超に保つ経口アルカリ化で溶解できる。結石の除去は開腹・腹腔鏡・ロボット支援・内視鏡（経尿道的または経皮的）による手術、または体外衝撃波砕石術で行われ、経尿道的砕石術では高い結石消失率が得られる。
+
+- 条件：region: 国際／対象: 成人・小児
+- 不確実性：出典は欧州泌尿器科学会（EAU）の膀胱結石ガイドライン（2021年版、2021年3月 limited update）の本文で確認した。感度・特異度や原因の割合は同ガイドラインの記載範囲の数値である。薬剤名は含まない（尿アルカリ化薬の具体名は本カードでは特定しなかった）。既存の UR-004（SRC-694）は成人男性の疫学と関連因子であり、症状・診断・治療の一般論は本出典で補った。同じ出題項目の尿道結石の側面は UR-043（仮）（SRC-9744）が担う。出典内の位置：本文の Prevalence, aetiology and risk factors、Presentation、Diagnostic evaluation、Disease Management の各項。
+- 出典：Türk C, Donaldson JF, Petřík A, et al. EAU Guidelines on Bladder Stones. European Association of Urology. 2021 (Limited update March 2021)　[リンク](https://d56bochluxqnz.cloudfront.net/documents/EAU-Pocket-on-Bladder-Stones-2021.pdf)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅷ-4-A-②（膀胱結石、尿道結石、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-341 (id: Jlvnl_I)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-040&card_id=UR-040&version=805079f733)　（版 `805079f733`）
+
+### UR-043　下書き（出典の照合前）
+
+> 尿道結石は全尿路結石の1%未満とまれである。2000年から2019年の症例を集めた系統的レビュー（74論文・95例）では、所見として触知可能な尿道の腫瘤が57.9%、排尿症状が41.1%、疼痛が40.0%、急性尿閉が32.6%にみられた。最初の検査は単純X線が63.2%で最も多く、結石の98.3%がX線不透過性だった。背景に尿道病変を伴う例が53.7%あり、うち尿道憩室が33.7%、尿道狭窄が13.7%だった。結石は尿道の閉塞の近位や憩室内に原発性に生じる場合と、膀胱や上部尿路から移動して嵌頓する場合がある。治療は外的な尿道切石術が31.6%、結石を逆行性に押し戻す操作が22.1%、内視鏡下でその場で砕く in situ 砕石術が17.9%で、その選択は結石の大きさ、形、位置と尿道病変の有無によって決まる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：数値は症例報告と症例集積の系統的レビュー（95例）の集計であり、頻度の解釈には報告バイアスの影響がありうる。同レビューでは膀胱・上部尿路結石の併存割合が抄録（16.8%）と Table 1（33.7%）で異なるため、その数値は主張に含めなかった。薬剤名は含まない。同じ出題項目の膀胱結石の側面は UR-040（仮）（SRC-9743）が担う。出典内の位置：抄録および本文の臨床像・検査・Table 1・治療の各項。
+- 出典：Morton A, Tariq A, Dunglison N, Esler R, Roberts MJ. Etiology and management of urethral calculi: a systematic review of contemporary series. Asian J Urol. 2024;11(1):10-18　[DOI 10.1016/j.ajur.2021.12.011](https://doi.org/10.1016/j.ajur.2021.12.011)　[PMID 38312816](https://pubmed.ncbi.nlm.nih.gov/38312816/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅷ-4-A-②（膀胱結石、尿道結石、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-341 (id: Jlvnl_I)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-043&card_id=UR-043&version=f0e8f32780)　（版 `f0e8f32780`）
+
+**[ここまでの 2 件（UR-040〜UR-043）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UR-040%E3%80%9CUR-043&cards=UR-040%20805079f733%0AUR-043%20f0e8f32780)**
 
 ---
 

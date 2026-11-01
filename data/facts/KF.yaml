@@ -1390,3 +1390,38 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/16_ku_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: KF-041
+  domain: KF
+  subdomain: 脱水と浮腫
+  assertion:
+    plain_statement_ja: 浮腫は、毛細血管からの濾過がリンパドレナージの限界を上回り、間質に液体が貯留した状態である。原因の評価は、分布（片側か両側か、全身性か）と経過（急性か慢性か）、圧痕の有無で分けて進める。急速に生じた全身性の圧痕性浮腫は全身性疾患を示唆し、速やかな原因の診断と管理を要する。片側または両側の下腿に慢性的にみられる浮腫では静脈不全が多く、体位依存性の浮腫やヘモジデリン沈着が手がかりになる。硬く圧痕を残さない浮腫はリンパ浮腫の特徴で、二次性リンパ浮腫の原因には腫瘍、外傷、骨盤内手術、鼠径リンパ節郭清、放射線治療などがある。睡眠時無呼吸は、肺高血圧を伴わない場合でも両側下腿浮腫の原因となりうる。深部静脈血栓症の疑いが二重超音波検査の陰性結果の後も残る場合は、骨盤内や大腿近位部の静脈血栓・圧迫をMR静脈造影で評価することがある。
+    condition:
+      region: 米国
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-665
+    source: 'Trayes KP, Studdiford JS, Pickle S, Tully AS. Edema: diagnosis and management. Am Fam Physician. 2013;88(2):102-110'
+    doi: null
+    pmid: '23939641'
+    pmcid: null
+    url: https://www.ncbi.nlm.nih.gov/pubmed/23939641
+    source_license: 出版社（米国家庭医学会）の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードの記載は抄録で確認できた範囲であり、薬剤性浮腫を含む原因表の詳細は抄録では確認していないため主張に入れていない。浮腫の鑑別の総論（両側性・片側性での分け方と検査の手がかり）は KX-001 が同じ出典で担っており、本カードは Ⅷ-3-E-① の2件目として、機序、リンパ浮腫の二次性原因、睡眠時無呼吸との関連など KX-001 にない側面を中心に置いた。既存の KF-028 が脱水の身体所見を担い、本カードで項目の浮腫側を補う。
+  curriculum:
+    kokushi: 医学各論 Ⅷ-3-E-①（脱水と浮腫、a）
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-02-08-013 (id: JlAKpmo)；TBL-02-08-009 (id: JlAKpmk)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/64_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

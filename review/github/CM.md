@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 6 件のうち、監修済み 0 件。
+全 7 件のうち、監修済み 0 件。
 
 ## クラミジア肺炎
 
@@ -97,6 +97,22 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CM-006&card_id=CM-006&version=2cc5a4ec79)　（版 `2cc5a4ec79`）
 
 **[ここまでの 1 件（CM-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20CM-006&cards=CM-006%202cc5a4ec79)**
+
+---
+
+## 性器クラミジア感染症
+
+### CM-007　下書き（出典の照合前）
+
+> 性器クラミジア感染症は日本で最も多い性感染症であり、性活動の活発な若年層、とくに女性に多い。男性では尿道炎が最も多く、潜伏期間は2〜3週間と淋菌性尿道炎より長く、排尿痛や尿道の不快感、掻痒感を生じ、若年男性では精巣上体炎の原因となる。女性では子宮頸管炎を起こし、上行感染により骨盤内炎症性疾患やFitz-Hugh-Curtis症候群、不妊の原因となるが、無症状のことも多い。咽頭感染も起こる。妊婦が感染していると、産道感染により新生児に結膜炎や肺炎を起こす。診断は培養法が最も確実だが時間を要するため、実際には抗原検出法や核酸増幅法などの遺伝子検出法が用いられ、核酸検査は菌の生死にかかわらず陽性が続くため治療後の治癒判定には注意が要る。治療にはテトラサイクリン系、マクロライド系、ニューキノロン系の抗菌薬を用い、再感染を防ぐためパートナーと同時に治療することが重要である。
+
+- 条件：region: 日本／対象: 性器クラミジア感染症の患者
+- 不確実性：出典ページの基になる資料は2004年時点の感染症発生動向調査週報（IDWR）で、ページには更新作業中の表示がある。具体的な用法・用量は同ページでは薬剤の系統名のみが示されており、現行の日本性感染症学会『性感染症 診断・治療ガイドライン2026』で確認する必要がある（同書の本文は本パートでは照合できていない）。薬剤について、テトラサイクリン系のドキシサイクリンは国内で承認され保険適用があり、JAID/JSC感染症治療ガイドラインの尿道炎の部ではクラミジア性尿道炎に対しドキシサイクリン100mgを1日2回7日間投与することが挙げられ、治癒判定として治療後2〜3週に核酸増幅法で陰転化を確認することが望ましいとされている。
+- 出典：国立健康危機管理研究機構（JIHS）感染症情報提供サイト「性器クラミジア感染症（詳細版）」　[リンク](https://id-info.jihs.go.jp/infectious-diseases/chlamydia-std/detail/index.html)（区分 GOV_JP）
+- 出題基準：医学各論 Ⅻ-2-A-②（性器クラミジア感染症、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-345 (id: Jlvnl_c)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CM-007&card_id=CM-007&version=effade305c)　（版 `effade305c`）
+
+**[ここまでの 1 件（CM-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20CM-007&cards=CM-007%20effade305c)**
 
 ---
 

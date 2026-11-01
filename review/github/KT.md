@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 28 件のうち、監修済み 0 件。
+全 30 件のうち、監修済み 0 件。
 
 ## 高血圧性腎硬化症
 
@@ -16,7 +16,17 @@
 - 出題基準：医学各論 Ⅷ-2-A-①（高血圧性腎硬化症、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-327 (id: Jlvnl90)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-001&card_id=KT-001&version=48040eeafa)　（版 `48040eeafa`）
 
-**[ここまでの 1 件（KT-001）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-001&cards=KT-001%2048040eeafa)**
+### KT-029　下書き（出典の照合前）
+
+> 高血圧性腎硬化症（高血圧性腎症）は、糖尿病に次いで多い進行性慢性腎臓病の原因とされる。長期の高血圧に伴ってアルブミン尿と腎機能低下が緩徐に進行し、末期腎不全に至りうる。治療の要点はアルブミン尿の低減と血圧管理であり、レニン・アンジオテンシン・アルドステロン系阻害薬を中心に、カルシウム拮抗薬や利尿薬などを組み合わせた積極的な降圧が、末期腎不全への進行を遅らせるうえで重要とされる。同総説では、血圧目標として130 mmHg未満が論じられている。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：本カードは2010年の総説に基づく。血圧目標の数値は同総説の記載であり、その後のガイドライン（KDIGO 2021 の慢性腎臓病における血圧管理ガイドライン（既存 SRC-4382）など）では異なる目標が示されているため、本カードの数値は出典の範囲として読むこと。薬剤について、ACE阻害薬・ARBなどのレニン・アンジオテンシン・アルドステロン系阻害薬、カルシウム拮抗薬、利尿薬はいずれも国内で高血圧症に対して承認・保険適用のある薬剤クラスである（個別製剤の効能・効果の範囲は添付文書による）。既存の KT-001 の出典 SRC-605（腎硬化症の総説）は論点整理が中心で治療・予後の記載が薄かったため、本カードは新規出典によった。
+- 出典：Hart PD, Bakris GL. Hypertensive nephropathy: prevention and treatment recommendations. Expert Opin Pharmacother. 2010;11(16):2675-2686　[DOI 10.1517/14656566.2010.485612](https://doi.org/10.1517/14656566.2010.485612)　[PMID 20718588](https://pubmed.ncbi.nlm.nih.gov/20718588/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅷ-2-A-①（高血圧性腎硬化症、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-327 (id: Jlvnl90)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-029&card_id=KT-029&version=2925fec582)　（版 `2925fec582`）
+
+**[ここまでの 2 件（KT-001〜KT-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-001%E3%80%9CKT-029&cards=KT-001%2048040eeafa%0AKT-029%202925fec582)**
 
 ---
 
@@ -144,7 +154,17 @@
 - 出題基準：医学各論 Ⅷ-2-B-①（急性尿細管壊死、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-009&card_id=KT-009&version=a7f7003cb9)　（版 `a7f7003cb9`）
 
-**[ここまでの 1 件（KT-009）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-009&cards=KT-009%20a7f7003cb9)**
+### KT-030　下書き（出典の照合前）
+
+> 急性尿細管壊死と他の急性腎障害の鑑別では、尿沈渣と尿中電解質が手がかりになる。尿沈渣で尿細管細胞や、壊死した尿細管細胞がタム・ホルスフォール蛋白と集まった泥状褐色（muddy brown）円柱がみられれば、尿細管障害を示す。一方、FENa 1%未満、尿中尿酸排泄率12%未満、尿素排泄率34%未満という低値と正常な尿沈渣の組み合わせは、腎前性（機能的）急性腎障害を支持する。ただし、尿中電解質の単回測定の鑑別能は限られ、慢性腎臓病、利尿薬の使用、敗血症などでは典型的な所見が修飾されるため、典型所見を欠くことでは腎前性を除外できない。腎後性（閉塞性）は腎超音波で尿路閉塞の有無を評価して除外し、赤血球円柱や変形赤血球は糸球体性、白血球円柱は間質性・感染性の病変を示唆する。
+
+- 条件：region: 国際／対象: 急性腎障害の患者（重症患者を中心とする総説）
+- 不確実性：FENa 等の閾値と尿沈渣の解釈は本文の尿中電解質の項と尿沈渣の表から読み取った（表から読み取り）。同総説は重症患者を主な対象としており、利尿薬は治療薬としてではなく診断指標への影響因子として挙げられている。急性尿細管壊死の原因分類（虚血性・腎毒性）の一般像は既存の KT-009（SRC-613）が担い、本カードは鑑別に絞った。管理・透析適応は本カードの出典の範囲外である。
+- 出典：Ostermann M, Joannidis M. Acute kidney injury 2016: diagnosis and diagnostic workup. Crit Care. 2016;20:299　[DOI 10.1186/s13054-016-1478-z](https://doi.org/10.1186/s13054-016-1478-z)　[PMID 27670788](https://pubmed.ncbi.nlm.nih.gov/27670788/)（区分 OPEN）
+- 出題基準：医学各論 Ⅷ-2-B-①（急性尿細管壊死、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-030&card_id=KT-030&version=a46acd61a0)　（版 `a46acd61a0`）
+
+**[ここまでの 2 件（KT-009〜KT-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-009%E3%80%9CKT-030&cards=KT-009%20a7f7003cb9%0AKT-030%20a46acd61a0)**
 
 ---
 

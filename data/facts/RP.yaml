@@ -2315,3 +2315,73 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: RP-068
+  domain: RP
+  subdomain: 視床下部性無月経
+  assertion:
+    plain_statement_ja: 機能性視床下部性無月経は、器質的な原因が特定できない慢性の無排卵であり、ストレス、体重減少、過度の運動、またはその組み合わせによるエネルギーバランスの負の偏りに関連する。診断は除外診断であり、評価では妊娠を除外したうえで、食事、摂食障害、運動、体重変動、心理的ストレス要因などを含む詳細な病歴を聴取し、全身性・内分泌性の他の原因を除外する。合併症には骨量減少と不妊があり、6か月以上の無月経がある思春期・成人女性では、DXAによるベースラインの骨密度測定が勧められる（重度の栄養欠乏や骨の脆弱性が疑われる場合はより早期に）。管理の基本は、摂取量の増加、栄養の改善、運動量の減少によってエネルギー不足を是正し、視床下部-下垂体-卵巣系の機能を改善することであり、しばしば体重増加を要する。認知行動療法などの心理的支援も併せて行う。月経の回復や骨密度の改善だけを目的とした経口避妊薬の使用は勧められず、骨密度の改善を目的としたビスホスホネート、デノスマブ、テストステロン、レプチンの使用も行わない。栄養、心理、運動への介入を十分な期間行っても月経が回復しない場合は、経皮エストラジオールと周期的な経口プロゲスチンの短期使用が選択肢として示唆される。
+    condition:
+      region: 米国
+      対象: 思春期・成人女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-817
+    source: 'Gordon CM, Ackerman KE, Berga SL, Kaplan JR, Mastorakos G, Misra M, Murad MH, Santoro NF, Warren MP. Functional Hypothalamic Amenorrhea: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2017;102(5):1413-1439'
+    doi: 10.1210/jc.2017-00131
+    pmid: '28368518'
+    pmcid: null
+    url: https://doi.org/10.1210/jc.2017-00131
+    source_license: Endocrine Societyのガイドライン。CC表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 薬剤（経皮エストラジオール、経口プロゲスチン、経口避妊薬）を含むカードである。エストラジオール製剤は国内で承認されているが、機能性視床下部性無月経を効能・効果とする製剤はなく、本ガイドラインに基づく経皮エストラジオールの使用は適応外となる。無月経の診断・初期検査（ホルモン検査と解釈）の側面は、同じ出典に基づく既存の RP-019 が担っているため、本カードは原因・骨への影響・管理に絞った。出典内の位置：抄録（Conclusions）と、骨密度評価および治療（エネルギー不足の是正、心理的支援、経口避妊薬・骨作用薬・経皮エストラジオール）に関する推奨。治療推奨の細部はガイドラインの推奨要約で確認した範囲である。
+  curriculum:
+    kokushi: 医学各論 Ⅷ-8-A-①（視床下部性無月経、a）
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/64_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: RP-069
+  domain: RP
+  subdomain: 過多月経
+  assertion:
+    plain_statement_ja: 過多月経の評価では、出血の性状に加えて、持続する月経間期出血や骨盤痛・圧迫症状など、子宮内腔の異常、組織学的異常、子宮腺筋症、子宮筋腫を示唆する関連症状の有無と、生活の質への影響を聴取する。関連症状を伴う場合や、検査・レボノルゲストレル放出子宮内システム装着の前には診察を行う。血液検査では、治療と並行して全例に全血算を行い、初経時から過多月経があり凝固障害を示唆する個人歴・家族歴がある女性では凝固障害の検査を考慮する一方、血清フェリチンと女性ホルモンの測定は定型としては行わない。原因検索では、病歴と診察に応じて子宮鏡または超音波検査を第一選択とし、粘膜下筋腫・ポリープ・子宮内膜病変が疑われる場合は外来子宮鏡を、子宮が腹部から触知できる場合、骨盤内腫瘤が疑われる場合、診察が困難・不十分な場合は骨盤超音波を行い、内膜病変の高リスク例では子宮鏡の際に内膜生検を併せて行う。治療の選択では本人の希望、併存疾患、筋腫・ポリープ・内膜病変・腺筋症の有無を考慮し、病変がない場合、子宮内腔の変形を伴わない直径3cm未満の筋腫の場合、子宮腺筋症が疑われる・診断された場合には、レボノルゲストレル放出子宮内システムを最初の治療として検討する。これを希望しない、または適さない場合は、非ホルモン薬のトラネキサム酸またはNSAIDs、ホルモン療法の低用量エストロゲン・プロゲスチン配合剤または周期型経口プロゲスチンを検討する。治療が奏効しない場合、本人が薬物療法を希望しない場合、症状が重い場合は専門施設へ紹介し、第2世代の子宮内膜アブレーションや子宮摘出などの外科的選択肢を検討する。
+    condition:
+      region: 英国
+      対象: 成人女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4733
+    source: 'National Institute for Health and Care Excellence. Heavy menstrual bleeding: assessment and management. NICE Guideline, No. 88. 2018'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.nice.org.uk/guidance/ng88
+    source_license: © National Institute for Health and Care Excellence（CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 薬剤（トラネキサム酸、NSAIDs、低用量エストロゲン・プロゲスチン配合剤、周期型経口プロゲスチン）を含むカードである。レボノルゲストレル放出子宮内システム（ミレーナ52mg）は、国内で過多月経が効能・効果に含まれ、承認・保険適用がある（添付文書で確認）。トラネキサム酸は国内承認薬で、性器出血を含む異常出血が効能・効果に含まれる。周期型経口プロゲスチンのノルエチステロンは、効能・効果の月経量異常に過多月経が含まれる（添付文書で確認）。一方、NSAIDs と、低用量エストロゲン・プロゲスチン配合剤（国内での承認は避妊または月経困難症）には過多月経の効能はなく、本ガイドラインに基づく使用は適応外となる。過多月経の定義と FIGO の PALM-COEIN 分類は既存の RP-009（SRC-818）が担っているため、本カードは評価と治療に絞った。ガイドライン文書には DOI・PMID は付与されていない。出典内の位置：1.2（病歴・診察・臨床検査）、1.3（原因検索のための検査）、1.5（過多月経の管理）の各項。
+  curriculum:
+    kokushi: 医学各論 Ⅷ-8-B-②（過多月経、a）
+    core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-016 (id: JlAKpo4)；TBL-02-09-021 (id: JlAKppQ)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/64_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

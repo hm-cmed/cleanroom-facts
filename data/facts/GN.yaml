@@ -1407,3 +1407,38 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: GN-041
+  domain: GN
+  subdomain: 蛋白尿
+  assertion:
+    plain_statement_ja: 蛋白尿・アルブミン尿の定量では、初回検査として随時尿のアルブミン・クレアチニン比（ACR）を第一選択とし、総蛋白を測る場合は蛋白・クレアチニン比（PCR）を用いる。試験紙で陽性の場合は定量法で確認し、ACR 30 mg/g以上の陽性は早朝第一尿の検体で再検して確認する。血尿、月経、運動、尿路感染はACRやPCRを一過性に上昇させうるため、解釈の際に考慮する。アルブミン用の試験紙は、免疫グロブリン軽鎖などの非アルブミン蛋白を見逃しうる。原因の評価では、尿沈渣、単クローン性蛋白による腎障害を調べる血清・尿の蛋白電気泳動と免疫固定、血清遊離軽鎖、抗PLA2R抗体、ANCA、抗GBM抗体などの検査を追加し、腎生検は光学顕微鏡、蛍光抗体法、電子顕微鏡による所見から、正確な診断、病変の活動性と慢性化の評価、治療方針の決定に用いる。
+    condition:
+      region: 国際
+      対象: 蛋白尿・アルブミン尿の評価を受ける人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-573
+    source: 'Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024;105(4S):S117-S314'
+    doi: 10.1016/j.kint.2023.10.018
+    pmid: '38490803'
+    pmcid: null
+    url: https://doi.org/10.1016/j.kint.2023.10.018
+    source_license: 出版社の著作物（CC の表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: KDIGO 2024 CKDガイドライン第1章のPractice Point 1.3.1.1〜1.3.1.2、Table 6、Table 16の記載に基づく。同ガイドラインは、蛋白尿の原因を糸球体性・尿細管性・溢出性に分ける三分法や、ネフローゼ域蛋白尿の数値定義を直接には示していないため、それらは本カードの主張に含めていない。本カードに薬剤名は含まれない。
+  curriculum:
+    kokushi: 医学各論 Ⅷ-1-E-②（蛋白尿、a）
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-02-08-011 (id: JlAKpmg)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/64_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

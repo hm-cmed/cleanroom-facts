@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 40 件のうち、監修済み 0 件。
+全 41 件のうち、監修済み 0 件。
 
 ## AKIの定義と病期分類
 
@@ -424,7 +424,17 @@
 - 出題基準：医学各論 Ⅷ-3-E-①（脱水と浮腫、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-02-08-013 (id: JlAKpmo)；TBL-02-08-009 (id: JlAKpmk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KF-028&card_id=KF-028&version=09a8dae6db)　（版 `09a8dae6db`）
 
-**[ここまでの 1 件（KF-028）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KF-028&cards=KF-028%2009a8dae6db)**
+### KF-041　下書き（出典の照合前）
+
+> 浮腫は、毛細血管からの濾過がリンパドレナージの限界を上回り、間質に液体が貯留した状態である。原因の評価は、分布（片側か両側か、全身性か）と経過（急性か慢性か）、圧痕の有無で分けて進める。急速に生じた全身性の圧痕性浮腫は全身性疾患を示唆し、速やかな原因の診断と管理を要する。片側または両側の下腿に慢性的にみられる浮腫では静脈不全が多く、体位依存性の浮腫やヘモジデリン沈着が手がかりになる。硬く圧痕を残さない浮腫はリンパ浮腫の特徴で、二次性リンパ浮腫の原因には腫瘍、外傷、骨盤内手術、鼠径リンパ節郭清、放射線治療などがある。睡眠時無呼吸は、肺高血圧を伴わない場合でも両側下腿浮腫の原因となりうる。深部静脈血栓症の疑いが二重超音波検査の陰性結果の後も残る場合は、骨盤内や大腿近位部の静脈血栓・圧迫をMR静脈造影で評価することがある。
+
+- 条件：region: 米国／対象: 成人
+- 不確実性：本カードの記載は抄録で確認できた範囲であり、薬剤性浮腫を含む原因表の詳細は抄録では確認していないため主張に入れていない。浮腫の鑑別の総論（両側性・片側性での分け方と検査の手がかり）は KX-001 が同じ出典で担っており、本カードは Ⅷ-3-E-① の2件目として、機序、リンパ浮腫の二次性原因、睡眠時無呼吸との関連など KX-001 にない側面を中心に置いた。既存の KF-028 が脱水の身体所見を担い、本カードで項目の浮腫側を補う。
+- 出典：Trayes KP, Studdiford JS, Pickle S, Tully AS. Edema: diagnosis and management. Am Fam Physician. 2013;88(2):102-110　[PMID 23939641](https://pubmed.ncbi.nlm.nih.gov/23939641/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅷ-3-E-①（脱水と浮腫、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-02-08-013 (id: JlAKpmo)；TBL-02-08-009 (id: JlAKpmk)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KF-041&card_id=KF-041&version=c80048ee05)　（版 `c80048ee05`）
+
+**[ここまでの 2 件（KF-028〜KF-041）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KF-028%E3%80%9CKF-041&cards=KF-028%2009a8dae6db%0AKF-041%20c80048ee05)**
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 40 件のうち、監修済み 0 件。
+全 41 件のうち、監修済み 0 件。
 
 ## 血尿
 
@@ -32,7 +32,17 @@
 - 出題基準：医学各論 Ⅷ-1-E-②（蛋白尿、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-02-08-011 (id: JlAKpmg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-002&card_id=GN-002&version=f4657673e2)　（版 `f4657673e2`）
 
-**[ここまでの 1 件（GN-002）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GN-002&cards=GN-002%20f4657673e2)**
+### GN-041　下書き（出典の照合前）
+
+> 蛋白尿・アルブミン尿の定量では、初回検査として随時尿のアルブミン・クレアチニン比（ACR）を第一選択とし、総蛋白を測る場合は蛋白・クレアチニン比（PCR）を用いる。試験紙で陽性の場合は定量法で確認し、ACR 30 mg/g以上の陽性は早朝第一尿の検体で再検して確認する。血尿、月経、運動、尿路感染はACRやPCRを一過性に上昇させうるため、解釈の際に考慮する。アルブミン用の試験紙は、免疫グロブリン軽鎖などの非アルブミン蛋白を見逃しうる。原因の評価では、尿沈渣、単クローン性蛋白による腎障害を調べる血清・尿の蛋白電気泳動と免疫固定、血清遊離軽鎖、抗PLA2R抗体、ANCA、抗GBM抗体などの検査を追加し、腎生検は光学顕微鏡、蛍光抗体法、電子顕微鏡による所見から、正確な診断、病変の活動性と慢性化の評価、治療方針の決定に用いる。
+
+- 条件：region: 国際／対象: 蛋白尿・アルブミン尿の評価を受ける人
+- 不確実性：KDIGO 2024 CKDガイドライン第1章のPractice Point 1.3.1.1〜1.3.1.2、Table 6、Table 16の記載に基づく。同ガイドラインは、蛋白尿の原因を糸球体性・尿細管性・溢出性に分ける三分法や、ネフローゼ域蛋白尿の数値定義を直接には示していないため、それらは本カードの主張に含めていない。本カードに薬剤名は含まれない。
+- 出典：Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024;105(4S):S117-S314　[DOI 10.1016/j.kint.2023.10.018](https://doi.org/10.1016/j.kint.2023.10.018)　[PMID 38490803](https://pubmed.ncbi.nlm.nih.gov/38490803/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅷ-1-E-②（蛋白尿、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-02-08-011 (id: JlAKpmg)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-041&card_id=GN-041&version=47fb497d8f)　（版 `47fb497d8f`）
+
+**[ここまでの 2 件（GN-002〜GN-041）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GN-002%E3%80%9CGN-041&cards=GN-002%20f4657673e2%0AGN-041%2047fb497d8f)**
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 62 件のうち、監修済み 0 件。
+全 63 件のうち、監修済み 0 件。
 
 ## 細菌性腟症
 
@@ -314,7 +314,17 @@
 - 出題基準：医学各論 Ⅷ-7-C-⑤（子宮内膜異型増殖症、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-01-00-661 (id: Jlvnmd4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GY-020&card_id=GY-020&version=84b1c27830)　（版 `84b1c27830`）
 
-**[ここまでの 2 件（GY-019〜GY-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GY-019%E3%80%9CGY-020&cards=GY-019%208a95cd935d%0AGY-020%2084b1c27830)**
+### GY-063　下書き（出典の照合前）
+
+> 子宮内膜増殖症は、改訂2014年WHO分類で、細胞異型の有無により異型のない増殖症と異型増殖症の2群に分けることが推奨されている。診断には子宮内膜組織の病理組織学的検査が必要で、外来での子宮内膜生検が経過観察を含めた基本となり、外来採取が失敗・診断不能な場合や、ポリープなどの局所病変内に増殖症が見つかった場合は子宮鏡による直視下の生検を検討する。異型のない増殖症は、20年間で子宮内膜癌へ進展するリスクが5%未満で、多くは経過観察中に自然に退縮する。管理では肥満やホルモン補充療法などの可逆的な危険因子への対応が基本で、観察のみで退縮しない場合や異常子宮出血の症状がある場合にプロゲスチン療法が適応となる。第一選択はレボノルゲストレル放出子宮内システムであり、経口プロゲスチンより退縮率が高く、出血の性状が好ましく、有害事象も少ない。これを希望しない場合は、メドロキシプロゲステロン10〜20mg/日またはノルエチステロン10〜15mg/日の連日経口投与を用い、周期投与は退縮効果が劣るため用いない。治療は組織学的退縮を得るために最低6か月行い、少なくとも6か月ごとの子宮内膜生検で経過をみる。子宮摘出は異型のない増殖症の第一選択ではなく、妊孕性の温存を希望しない女性で、経過中に異型増殖症へ進行した場合、12か月治療しても組織学的退縮がない場合、治療終了後に再発した場合、出血症状が続く場合、経過観察や内服治療を希望しない場合に適応となる。異型増殖症では、潜在する悪性腫瘍の合併や癌への進行のリスクがあるため、全子宮摘出術が推奨される。異型増殖症で妊孕性温存を希望する場合は、まずレボノルゲストレル放出子宮内システムを第一選択とし（経口プロゲスチンは次善）、3か月ごとの生検で経過をみて、妊孕性が不要になれば子宮摘出を提示する。
+
+- 条件：region: 英国／対象: 成人女性
+- 不確実性：薬剤（レボノルゲストレル放出子宮内システム、メドロキシプロゲステロン、ノルエチステロン）を含むカードである。レボノルゲストレル放出子宮内システム（ミレーナ52mg）は国内で承認されているが、効能・効果は避妊・過多月経・月経困難症であり、子宮内膜増殖症は含まれないため、本ガイドラインに基づく使用は適応外となる。経口プロゲスチン製剤も国内承認薬であるが、子宮内膜増殖症そのものは効能・効果に明記されていない（ノルエチステロンの添付文書で確認）。本ガイドラインは2016年の初版であり、RCOGの公式ページには改訂版が開発中である旨が記載されている（2026-11-01確認）。ガイドライン文書自体にはDOI・PMIDが付与されておらず、Crossref・PubMedで確認できなかったため null とした。出典内の位置：Executive summary of recommendations の分類・診断・異型のない増殖症の管理・異型増殖症の管理の各項。
+- 出典：Royal College of Obstetricians and Gynaecologists; British Society for Gynaecological Endoscopy. Management of Endometrial Hyperplasia. Green-top Guideline No. 67. 2016　[リンク](https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/management-of-endometrial-hyperplasia-green-top-guideline-no-67/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅷ-7-C-①（子宮内膜増殖症、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-01-00-661 (id: Jlvnmd4)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GY-063&card_id=GY-063&version=4210675aa4)　（版 `4210675aa4`）
+
+**[ここまでの 3 件（GY-019〜GY-063）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GY-019%E3%80%9CGY-063&cards=GY-019%208a95cd935d%0AGY-020%2084b1c27830%0AGY-063%204210675aa4)**
 
 ---
 

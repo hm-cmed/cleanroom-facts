@@ -1576,3 +1576,38 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/35_if_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: BA-046
+  domain: BA
+  subdomain: 淋菌感染症
+  assertion:
+    plain_statement_ja: 淋菌は、男性の尿道炎、女性の子宮頸管炎のほか、精巣上体炎、骨盤内炎症性疾患、咽頭・直腸・結膜の感染、播種性淋菌感染症を起こす。咽頭と直腸の感染は多くが無症状で、感染源となる。男性の尿道炎は感染機会から3〜7日で発症し、多量の黄白色の膿性分泌物と強い排尿痛を呈する。診断にはグラム染色による鏡検、培養、核酸増幅法が用いられ、多剤耐性化が進んでいるため、可能な限り培養と薬剤感受性試験を行う。日本ではペニシリン系はほぼ感受性がなく、テトラサイクリン系とフルオロキノロン系では70〜80%が耐性で、保険適用があり確実に有効な薬剤はセフトリアキソンとスペクチノマイシンのみであり、セフトリアキソン耐性株は2009年に世界で初めて日本から報告された。日本の推奨では、男性の淋菌性尿道炎にセフトリアキソン1g単回点滴静注が第一選択、スペクチノマイシン2g単回筋注が第二選択であり、咽頭感染に有効なのはセフトリアキソンのみである。淋菌性尿道炎の20〜30%にクラミジア感染が合併し、パートナーの検査と同時治療が重要である。
+    condition:
+      region: 日本
+      対象: 淋菌感染症の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4722
+    source: Hamasuna R, Yasuda M, Takahashi S, Uehara S, Kawai Y, Miyairi I, Arakawa S, Kiyota H; JAID/JSC Guide/Guidelines Committee. The JAID/JSC guidelines to Clinical Management of Infectious Disease 2017 concerning male urethritis and related disorders. J Infect Chemother. 2021;27(4):546-554
+    doi: 10.1016/j.jiac.2019.12.001
+    pmid: '33516669'
+    pmcid: null
+    url: https://doi.org/10.1016/j.jiac.2019.12.001
+    source_license: CC BY-NC-ND 4.0（論文中の表示で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 出典はJAID/JSC感染症治療ガイドラインの尿道炎の部（日本語版は感染症学雑誌2018年、英語版は2021年）で、詳細なレジメンは主に男性の尿道炎と精巣上体炎を対象とし、子宮頸管炎や播種性淋菌感染症の記載は同ガイドラインの淋菌感染症の総論に基づく。薬剤について、セフトリアキソンとスペクチノマイシンは淋菌感染症に対し国内で承認され保険適用がある（同ガイドラインの記載による）。セフトリアキソンの添付文書の用法では、尿道炎、子宮頸管炎、咽頭炎、直腸炎には1g単回静脈内投与、精巣上体炎と骨盤内炎症性疾患には1gを1日1回投与する。現行の日本性感染症学会『性感染症 診断・治療ガイドライン2026』の本文とは照合できておらず、同書での確認が望ましい。
+  curriculum:
+    kokushi: 医学各論 Ⅷ-5-D-①（淋菌性尿道炎、a）；医学各論 Ⅻ-2-B-⑥（淋菌感染症、a）
+    core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-345 (id: Jlvnl_c)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/64_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
