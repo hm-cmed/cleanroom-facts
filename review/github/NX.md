@@ -1,6 +1,6 @@
 # NX 神経・運動器の症候・検査・治療（横断） の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-31
+[← 一覧に戻る](README.md)　更新：2026-11-01
 
 全 17 件のうち、監修済み 0 件。
 
@@ -22,9 +22,9 @@
 
 - 条件：population: 意識障害のある患者／region: 日本
 - 不確実性：JCS の原典（太田ら、1974年）の書誌情報は PubMed・Crossref で照合できなかったため、本カードは同ガイドラインに掲載された JCS の評価表に基づく。脳死判定では深昏睡の目安として JCS 300 または GCS 3 が用いられる。
-- 出典：日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画（区分 RESTRICTED）
+- 出典：日本脳卒中学会 脳卒中ガイドライン委員会 編. 脳卒中治療ガイドライン2021〔改訂2025〕（第3版）. 協和企画. 2025（ISBN 978-4-87794-241-0）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-03-02 (id: JkxnuPo)；TBL-02-02-021 (id: JlAKpYw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-002&card_id=NX-002&version=a1f34bf0d0)　（版 `a1f34bf0d0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-002&card_id=NX-002&version=dfa78b53df)　（版 `dfa78b53df`）
 
 ### NX-003　下書き（出典の照合前）
 
@@ -76,7 +76,7 @@
 - 出題基準：－　コアカリ：PS-02-03-02 (id: JkxnuPo)；TBL-02-02-027 (id: JlAKpY8)；TBL-02-02-031 (id: JlAKpZQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-007&card_id=NX-007&version=c3d7c17b63)　（版 `c3d7c17b63`）
 
-**[ここまでの 7 件（NX-001〜NX-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NX-001%E3%80%9CNX-007&cards=NX-001%2059c054f3e4%0ANX-002%20a1f34bf0d0%0ANX-003%20b110e0358f%0ANX-004%2000a63c6c90%0ANX-005%20e21a73a4e4%0ANX-006%2027428a4173%0ANX-007%20c3d7c17b63)**
+**[ここまでの 7 件（NX-001〜NX-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NX-001%E3%80%9CNX-007&cards=NX-001%2059c054f3e4%0ANX-002%20dfa78b53df%0ANX-003%20b110e0358f%0ANX-004%2000a63c6c90%0ANX-005%20e21a73a4e4%0ANX-006%2027428a4173%0ANX-007%20c3d7c17b63)**
 
 ---
 
@@ -214,11 +214,11 @@
 
 - 条件：population: 脳卒中後の患者／region: 日本
 - 不確実性：脳卒中の個別疾患の治療と後遺症（嚥下障害など）の扱いは第28回 ST のカードを参照。回復期リハビリテーション病棟の対象疾患・算定要件など制度面の詳細は本カードでは扱わない。
-- 出典：日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画（区分 RESTRICTED）
+- 出典：日本脳卒中学会 脳卒中ガイドライン委員会 編. 脳卒中治療ガイドライン2021〔改訂2025〕（第3版）. 協和企画. 2025（ISBN 978-4-87794-241-0）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-03-04 (id: JkxnuPw)；TBL-02-02-037 (id: JlAKpZo)；TBL-02-04-018 (id: JlAKpc0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-017&card_id=NX-017&version=876c7c8665)　（版 `876c7c8665`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NX-017&card_id=NX-017&version=5d5d241dc3)　（版 `5d5d241dc3`）
 
-**[ここまでの 1 件（NX-017）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NX-017&cards=NX-017%20876c7c8665)**
+**[ここまでの 1 件（NX-017）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NX-017&cards=NX-017%205d5d241dc3)**
 
 ---
 

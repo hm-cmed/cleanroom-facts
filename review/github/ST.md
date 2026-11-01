@@ -1,6 +1,6 @@
 # ST 脳血管障害 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-31
+[← 一覧に戻る](README.md)　更新：2026-11-01
 
 全 50 件のうち、監修済み 0 件。
 
@@ -22,9 +22,9 @@
 
 - 条件：population: 脳内出血患者／region: 日本
 - 不確実性：ガイドラインの症候の記載に基づく。個別の頻度は示していない。
-- 出典：日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画（区分 RESTRICTED）
+- 出典：日本脳卒中学会 脳卒中ガイドライン委員会 編. 脳卒中治療ガイドライン2021〔改訂2025〕（第3版）. 協和企画. 2025（ISBN 978-4-87794-241-0）（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-1-A-①（高血圧性脳出血、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-026 (id: JlvnlcA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ST-002&card_id=ST-002&version=fedba1feb1)　（版 `fedba1feb1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ST-002&card_id=ST-002&version=3a87c3935d)　（版 `3a87c3935d`）
 
 ### ST-003　下書き（出典の照合前）
 
@@ -48,13 +48,13 @@
 
 ### ST-005　下書き（出典の照合前）
 
-> 日本の脳卒中治療ガイドライン2021（改訂2023）は、脳出血急性期の血圧高値に対して、ニカルジピンの持続静注により収縮期血圧を140 mmHg未満に安定して保つことを妥当としている。
+> 日本の脳卒中治療ガイドライン2021〔改訂2025〕は、脳出血急性期の血圧高値に対して、ニカルジピンの持続静注により収縮期血圧を140 mmHg未満に安定して保つことを妥当としている。
 
 - 条件：population: 脳出血急性期の患者／region: 日本
-- 不確実性：ガイドラインの推奨文に基づく。ニカルジピンは国内承認薬である。なお2025年に改訂2025が公開されており、同じ趣旨の推奨が維持されていることを公開テキストで確認した。
-- 出典：日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画（区分 RESTRICTED）
+- 不確実性：改訂2025の推奨文（学会公式の改訂抜粋 PDF で作り手が照合）：早期に収縮期140 mmHg未満へ降圧することは妥当（推奨度B、エビデンスレベル高）、Ca拮抗薬等の微量持続静注による安定的な降圧は妥当（B、中）、ニカルジピンを適切に用いた降圧療法は考慮しても良い（C、中）。ニカルジピンは国内承認薬である。
+- 出典：日本脳卒中学会 脳卒中ガイドライン委員会 編. 脳卒中治療ガイドライン2021〔改訂2025〕（第3版）. 協和企画. 2025（ISBN 978-4-87794-241-0）（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-1-A-①（高血圧性脳出血、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-026 (id: JlvnlcA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ST-005&card_id=ST-005&version=191360f546)　（版 `191360f546`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ST-005&card_id=ST-005&version=924689affe)　（版 `924689affe`）
 
 ### ST-006　下書き（出典の照合前）
 
@@ -76,7 +76,7 @@
 - 出題基準：医学各論 Ⅸ-1-A-①（高血圧性脳出血、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-026 (id: JlvnlcA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ST-007&card_id=ST-007&version=8fc498c1fc)　（版 `8fc498c1fc`）
 
-**[ここまでの 7 件（ST-001〜ST-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ST-001%E3%80%9CST-007&cards=ST-001%209b3938edf3%0AST-002%20fedba1feb1%0AST-003%2032fa8cdbf4%0AST-004%2093952c12e3%0AST-005%20191360f546%0AST-006%203d83073482%0AST-007%208fc498c1fc)**
+**[ここまでの 7 件（ST-001〜ST-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ST-001%E3%80%9CST-007&cards=ST-001%209b3938edf3%0AST-002%203a87c3935d%0AST-003%2032fa8cdbf4%0AST-004%2093952c12e3%0AST-005%20924689affe%0AST-006%203d83073482%0AST-007%208fc498c1fc)**
 
 ---
 
@@ -190,15 +190,15 @@
 
 ### ST-019　下書き（出典の照合前）
 
-> ニモジピンは日本では承認されていないため、日本の脳卒中治療ガイドライン2021（改訂2023）では、遅発性脳血管攣縮に対してクラゾセンタン、ファスジル、オザグレルナトリウムの静脈内投与を行うことが妥当とされている。
+> ニモジピンは日本では承認されていないため、日本の脳卒中治療ガイドライン2021〔改訂2025〕では、遅発性脳血管攣縮に対してクラゾセンタン、ファスジル、オザグレルナトリウムの静脈内投与を行うことが妥当とされている。
 
 - 条件：population: 動脈瘤性くも膜下出血患者／region: 日本
-- 不確実性：推奨文は改訂2025の公開テキストでも同じ趣旨であることを確認した。クラゾセンタン、塩酸ファスジル、オザグレルナトリウムはいずれも国内承認薬である。ニモジピンの国内未承認は国内の学会資料でも明記されている。
-- 出典：日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画（区分 RESTRICTED）
+- 不確実性：改訂2025の推奨文（学会公式の改訂抜粋 PDF で作り手が照合）：クラゾセンタン（推奨度B、エビデンスレベル中）、ファスジル・オザグレルナトリウム（B、低）。いずれも国内承認薬である。ニモジピンの国内未承認は改訂2025の解説にも明記されている。
+- 出典：日本脳卒中学会 脳卒中ガイドライン委員会 編. 脳卒中治療ガイドライン2021〔改訂2025〕（第3版）. 協和企画. 2025（ISBN 978-4-87794-241-0）（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-1-B-①（脳動脈瘤、解離性脳動脈瘤、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-027 (id: JlvnlcE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ST-019&card_id=ST-019&version=4afe1122f1)　（版 `4afe1122f1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ST-019&card_id=ST-019&version=ca63b60a8a)　（版 `ca63b60a8a`）
 
-**[ここまでの 8 件（ST-011〜ST-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ST-011%E3%80%9CST-019&cards=ST-011%204fd46fe238%0AST-012%20488d453c21%0AST-013%20466b00dfc4%0AST-014%2089662d7914%0AST-016%203756c2ab39%0AST-017%20441e31343c%0AST-018%202f7edd02f8%0AST-019%204afe1122f1)**
+**[ここまでの 8 件（ST-011〜ST-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ST-011%E3%80%9CST-019&cards=ST-011%204fd46fe238%0AST-012%20488d453c21%0AST-013%20466b00dfc4%0AST-014%2089662d7914%0AST-016%203756c2ab39%0AST-017%20441e31343c%0AST-018%202f7edd02f8%0AST-019%20ca63b60a8a)**
 
 ---
 
@@ -278,13 +278,13 @@
 
 ### ST-025　下書き（出典の照合前）
 
-> 日本の脳卒中治療ガイドライン2021（改訂2023）では、心原性脳塞栓症の二次予防として心房細動に対してDOACを含む経口抗凝固療法を行い、抗血小板薬の併用は原則として行わない。
+> 日本の脳卒中治療ガイドライン2021〔改訂2025〕では、心原性脳塞栓症の二次予防として心房細動に対してDOACを含む経口抗凝固療法を行い、抗血小板薬の併用は原則として行わない。
 
 - 条件：population: 心房細動による心原性脳塞栓症患者／region: 日本
 - 不確実性：DOAC・ワルファリンは日本で承認・保険適用がある。機械弁・中等度以上の僧帽弁狭窄ではワルファリンが対象となる。
-- 出典：日本脳卒中学会 脳卒中治療ガイドライン2021［改訂2023］（書籍）（区分 RESTRICTED）
+- 出典：日本脳卒中学会 脳卒中ガイドライン委員会 編. 脳卒中治療ガイドライン2021〔改訂2025〕（第3版）. 協和企画. 2025（ISBN 978-4-87794-241-0）（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-1-C-①（心原性脳塞栓症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ST-025&card_id=ST-025&version=fd72d96fc7)　（版 `fd72d96fc7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ST-025&card_id=ST-025&version=a3bfe7fc11)　（版 `a3bfe7fc11`）
 
 ### ST-026　下書き（出典の照合前）
 
@@ -355,7 +355,7 @@
 - 出題基準：医学各論 Ⅸ-1-C-②（アテローム血栓性脳梗塞、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ST-032&card_id=ST-032&version=3083fcc8dd)　（版 `3083fcc8dd`）
 
-**[ここまでの 10 件（ST-023〜ST-032）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ST-023%E3%80%9CST-032&cards=ST-023%207efc1aad92%0AST-024%208a75220ea5%0AST-025%20fd72d96fc7%0AST-026%205e5e321bc6%0AST-027%20391f6975f7%0AST-028%20f90d3ad377%0AST-029%2099a64c8dbe%0AST-030%202c62438f7c%0AST-031%202c7d510d27%0AST-032%203083fcc8dd)**
+**[ここまでの 10 件（ST-023〜ST-032）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ST-023%E3%80%9CST-032&cards=ST-023%207efc1aad92%0AST-024%208a75220ea5%0AST-025%20a3bfe7fc11%0AST-026%205e5e321bc6%0AST-027%20391f6975f7%0AST-028%20f90d3ad377%0AST-029%2099a64c8dbe%0AST-030%202c62438f7c%0AST-031%202c7d510d27%0AST-032%203083fcc8dd)**
 
 ---
 
@@ -546,10 +546,10 @@
 > 偽性球麻痺は両側の皮質延髄路障害により生じ、構音障害・嚥下障害・舌運動障害を来すが、球麻痺と異なり舌の萎縮・線維束攣縮はなく、強制笑い・強制泣きを伴うことがある。
 
 - 条件：population: 多発性脳梗塞等の両側大脳病変患者／region: 日本
-- 不確実性：嚥下評価・訓練の横断的総論は本カードの範囲外とし、脳卒中後の嚥下障害として扱った。
-- 出典：日本脳卒中学会 脳卒中治療ガイドライン2021［改訂2023］（書籍）（区分 RESTRICTED）
+- 不確実性：嚥下評価・訓練の横断的総論は本カードの範囲外とし、脳卒中後の嚥下障害として扱った。　出典は改訂2025に付け替えた。該当箇所が改訂項目（Ⅶ章2-7 摂食嚥下障害）にあたる場合は書籍本文での照合が望ましい（作り手の申し送り）。
+- 出典：日本脳卒中学会 脳卒中ガイドライン委員会 編. 脳卒中治療ガイドライン2021〔改訂2025〕（第3版）. 協和企画. 2025（ISBN 978-4-87794-241-0）（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-1-E-①（偽性球麻痺、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ST-049&card_id=ST-049&version=ee3b733fee)　（版 `ee3b733fee`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ST-049&card_id=ST-049&version=794d292f78)　（版 `794d292f78`）
 
 ### ST-050　下書き（出典の照合前）
 
@@ -561,7 +561,7 @@
 - 出題基準：医学各論 Ⅸ-1-E-②（廃用性萎縮、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ST-050&card_id=ST-050&version=dace0a49d2)　（版 `dace0a49d2`）
 
-**[ここまでの 2 件（ST-049〜ST-050）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ST-049%E3%80%9CST-050&cards=ST-049%20ee3b733fee%0AST-050%20dace0a49d2)**
+**[ここまでの 2 件（ST-049〜ST-050）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ST-049%E3%80%9CST-050&cards=ST-049%20794d292f78%0AST-050%20dace0a49d2)**
 
 ---
 

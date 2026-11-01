@@ -1,6 +1,6 @@
 # NL 鼻腔・副鼻腔・喉頭疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-10-31
+[← 一覧に戻る](README.md)　更新：2026-11-01
 
 全 21 件のうち、監修済み 0 件。
 
@@ -37,10 +37,10 @@
 > アレルギー性鼻炎は鼻粘膜のI型アレルギー疾患で、発作性反復性のくしゃみ、水様性鼻漏、鼻閉を3主徴とする。原因抗原により季節性と通年性に分類され、症状の病型として、ヒスタミンが主に関与するくしゃみ・鼻漏型、ロイコトリエンなどの脂質メディエーターが主に関与する鼻閉型、両方の特徴を併せ持つ充全型に分けられる。感作された鼻粘膜で抗原がIgE抗体と反応すると、肥満細胞からヒスタミンやロイコトリエンが放出される即時相反応が起こり、6〜10時間後には好酸球などの細胞浸潤による遅発相反応が続く。確定診断は、3主徴に加え、鼻汁好酸球検査の陽性と、皮膚反応または血清特異的IgE抗体測定による原因抗原の同定に基づいて行う。
 
 - 条件：region: 日本／study: 学会ガイドライン（英語版）
-- 不確実性：日本アレルギー学会のガイドライン英語版（鼻アレルギー診療ガイドライン2016年版を基にした改訂版）の本文で確認した範囲に限定した。
-- 出典：Okubo K, Kurono Y, Ichimura K, Enomoto T, Okamoto Y, Kawauchi H, Fujieda S, Masuyama K; Japanese Society of Allergology. Japanese guidelines for allergic rhinitis 2020. Allergol Int. 2020;69(3):331-345　[DOI 10.1016/j.alit.2020.04.001](https://doi.org/10.1016/j.alit.2020.04.001)　[PMID 32473790](https://pubmed.ncbi.nlm.nih.gov/32473790/)（区分 RESTRICTED）
+- 不確実性：出典を2024年版（改訂第10版）に付け替えた。定義・3主徴・病型分類・確定診断の骨格は第10版でも維持されている（作り手が英語要約版〈Auris Nasus Larynx 2025〉と学会誌の解説で確認）。第10版で分類に加わった局所アレルギー性鼻炎（LAR）は本カードでは扱っていない。
+- 出典：日本耳鼻咽喉科免疫アレルギー感染症学会 編. 鼻アレルギー診療ガイドライン―通年性鼻炎と花粉症―2024年版（改訂第10版）. 金原出版. 2024（ISBN 978-4-307-37140-7）（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-9-A-②（鼻炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-511 (id: JlvnmQA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-003&card_id=NL-003&version=e1dd63132a)　（版 `e1dd63132a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-003&card_id=NL-003&version=4447653343)　（版 `4447653343`）
 
 ### NL-004　下書き（出典の照合前）
 
@@ -62,7 +62,7 @@
 - 出題基準：医学各論 Ⅲ-9-A-②（鼻炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-511 (id: JlvnmQA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-021&card_id=NL-021&version=cc726a7ca0)　（版 `cc726a7ca0`）
 
-**[ここまでの 4 件（NL-002〜NL-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NL-002%E3%80%9CNL-021&cards=NL-002%20c217a4cc69%0ANL-003%20e1dd63132a%0ANL-004%2091e576e7e3%0ANL-021%20cc726a7ca0)**
+**[ここまでの 4 件（NL-002〜NL-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NL-002%E3%80%9CNL-021&cards=NL-002%20c217a4cc69%0ANL-003%204447653343%0ANL-004%2091e576e7e3%0ANL-021%20cc726a7ca0)**
 
 ---
 

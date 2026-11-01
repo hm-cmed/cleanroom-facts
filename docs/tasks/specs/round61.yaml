@@ -1,0 +1,39 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round61_BRUSHUP.md
+# 既存の接頭辞の続き番号（--append で取り込む）。id_start は登録時点の最大番号＋1
+round: 61
+name: ブラッシュアップ 第61回（見送り分・宿題・版の書き換え）
+id_start:
+  IN: 111
+  LV: 111
+  AB: 116
+  MP: 40
+  DV: 21
+  FT: 15
+  SA: 21
+  HF: 30
+  PE: 38
+  NL: 22
+  SK: 33
+  ND: 57
+src_range:
+- 4441
+- 4520
+target_cards:
+- 15
+- 40
+targets:
+- {code: Ⅵ-3-B-⑥, name: 放射線性腸炎, level: c, prefix: IN}
+- {code: Ⅵ-3-C-③, name: 小腸癌, level: c, prefix: IN}
+- {code: Ⅵ-5-E-②, name: 毛細血管拡張症<angioectasia>, level: c, prefix: IN}
+- {code: Ⅵ-6-A-①, name: 肝囊胞, level: c, prefix: LV}
+- {code: Ⅵ-9-C-④, name: 後腹膜腫瘍, level: c, prefix: AB}
+- {code: Ⅴ-6-G-①, name: 心臓外傷, level: c, prefix: MP}
+- {code: Ⅱ-5-E, name: 注意欠如多動性障害<注意欠如多動症><ADHD>, level: a, prefix: DV}
+- {code: Ⅰ-3-A-④, name: 胎児貧血, level: b, prefix: FT}
+- {code: Ⅺ-2-B-②, name: 末梢性脊椎関節炎, level: b, prefix: SA}
+- {code: Ⅴ-2-A-②, name: 右心不全, level: a, prefix: HF}
+- {code: Ⅵ-12-A-①, name: 先天性食道閉鎖症, level: b, prefix: PE}
+- {code: Ⅵ-12-G-①, name: 鼠径ヘルニア, level: a, prefix: PE}
+- {code: Ⅲ-9-A-②, name: 鼻炎, level: a, prefix: NL}
+- {code: Ⅲ-1-B-①, name: 血管性浮腫, level: a, prefix: SK}
+- {code: Ⅸ-4-H-①, name: 多発性硬化症, level: b, prefix: ND}
