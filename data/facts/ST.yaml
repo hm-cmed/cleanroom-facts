@@ -44,13 +44,13 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-1561
-    source: 日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画
+    source_ref: SRC-4431
+    source: 日本脳卒中学会 脳卒中ガイドライン委員会 編. 脳卒中治療ガイドライン2021〔改訂2025〕（第3版）. 協和企画. 2025（ISBN 978-4-87794-241-0）
     doi: null
     pmid: null
     pmcid: null
     url: null
-    source_license: 日本脳卒中学会の著作物（書籍、CC表示なし）
+    source_license: 書籍（学会の著作物、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
@@ -68,6 +68,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 出典を新しい版に付け替え：SRC-1561（日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画） → SRC-4431（提案B、三原の承認）
 - id: ST-003
   domain: ST
   subdomain: 脳内出血
@@ -142,24 +145,24 @@
   domain: ST
   subdomain: 脳内出血
   assertion:
-    plain_statement_ja: 日本の脳卒中治療ガイドライン2021（改訂2023）は、脳出血急性期の血圧高値に対して、ニカルジピンの持続静注により収縮期血圧を140 mmHg未満に安定して保つことを妥当としている。
+    plain_statement_ja: 日本の脳卒中治療ガイドライン2021〔改訂2025〕は、脳出血急性期の血圧高値に対して、ニカルジピンの持続静注により収縮期血圧を140 mmHg未満に安定して保つことを妥当としている。
     condition:
       population: 脳出血急性期の患者
       region: 日本
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-1561
-    source: 日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画
+    source_ref: SRC-4431
+    source: 日本脳卒中学会 脳卒中ガイドライン委員会 編. 脳卒中治療ガイドライン2021〔改訂2025〕（第3版）. 協和企画. 2025（ISBN 978-4-87794-241-0）
     doi: null
     pmid: null
     pmcid: null
     url: null
-    source_license: 日本脳卒中学会の著作物（書籍、CC表示なし）
+    source_license: 書籍（学会の著作物、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: ガイドラインの推奨文に基づく。ニカルジピンは国内承認薬である。なお2025年に改訂2025が公開されており、同じ趣旨の推奨が維持されていることを公開テキストで確認した。
+  uncertainty: 改訂2025の推奨文（学会公式の改訂抜粋 PDF で作り手が照合）：早期に収縮期140 mmHg未満へ降圧することは妥当（推奨度B、エビデンスレベル高）、Ca拮抗薬等の微量持続静注による安定的な降圧は妥当（B、中）、ニカルジピンを適切に用いた降圧療法は考慮しても良い（C、中）。ニカルジピンは国内承認薬である。
   curriculum:
     kokushi: 医学各論 Ⅸ-1-A-①（高血圧性脳出血、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-026 (id: JlvnlcA)'
@@ -173,6 +176,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 出典を新しい版に付け替え：SRC-1561（日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画） → SRC-4431（提案B、三原の承認）。主張文の版の表記「2021（改訂2023）」を「2021〔改訂2025〕」に更新（推奨の骨格は改訂2025でも維持されることを作り手が改訂抜粋 PDF で照合）。uncertainty を更新（旧：ガイドラインの推奨文に基づく。ニカルジピンは国内承認薬である。なお2025年に改訂2025が公開されており、同じ趣旨の推奨が維持されていることを公開テキストで確認した。）
 - id: ST-006
   domain: ST
   subdomain: 脳内出血
@@ -632,24 +638,24 @@
   domain: ST
   subdomain: くも膜下出血
   assertion:
-    plain_statement_ja: ニモジピンは日本では承認されていないため、日本の脳卒中治療ガイドライン2021（改訂2023）では、遅発性脳血管攣縮に対してクラゾセンタン、ファスジル、オザグレルナトリウムの静脈内投与を行うことが妥当とされている。
+    plain_statement_ja: ニモジピンは日本では承認されていないため、日本の脳卒中治療ガイドライン2021〔改訂2025〕では、遅発性脳血管攣縮に対してクラゾセンタン、ファスジル、オザグレルナトリウムの静脈内投与を行うことが妥当とされている。
     condition:
       population: 動脈瘤性くも膜下出血患者
       region: 日本
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-1561
-    source: 日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画
+    source_ref: SRC-4431
+    source: 日本脳卒中学会 脳卒中ガイドライン委員会 編. 脳卒中治療ガイドライン2021〔改訂2025〕（第3版）. 協和企画. 2025（ISBN 978-4-87794-241-0）
     doi: null
     pmid: null
     pmcid: null
     url: null
-    source_license: 日本脳卒中学会の著作物（書籍、CC表示なし）
+    source_license: 書籍（学会の著作物、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: 推奨文は改訂2025の公開テキストでも同じ趣旨であることを確認した。クラゾセンタン、塩酸ファスジル、オザグレルナトリウムはいずれも国内承認薬である。ニモジピンの国内未承認は国内の学会資料でも明記されている。
+  uncertainty: 改訂2025の推奨文（学会公式の改訂抜粋 PDF で作り手が照合）：クラゾセンタン（推奨度B、エビデンスレベル中）、ファスジル・オザグレルナトリウム（B、低）。いずれも国内承認薬である。ニモジピンの国内未承認は改訂2025の解説にも明記されている。
   curriculum:
     kokushi: 医学各論 Ⅸ-1-B-①（脳動脈瘤、解離性脳動脈瘤、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-027 (id: JlvnlcE)'
@@ -663,6 +669,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 出典を新しい版に付け替え：SRC-1561（日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画） → SRC-4431（提案B、三原の承認）。主張文の版の表記「2021（改訂2023）」を「2021〔改訂2025〕」に更新（推奨の骨格は改訂2025でも維持されることを作り手が改訂抜粋 PDF で照合）。uncertainty を更新（旧：推奨文は改訂2025の公開テキストでも同じ趣旨であることを確認した。クラゾセンタン、塩酸ファスジル、オザグレルナトリウムはいずれも国内承認薬である。ニモジピンの国内未承認は国内の学会資料でも明記されている。）
 - id: ST-020
   domain: ST
   subdomain: 脳動脈瘤
@@ -842,20 +851,20 @@
   domain: ST
   subdomain: 脳梗塞
   assertion:
-    plain_statement_ja: 日本の脳卒中治療ガイドライン2021（改訂2023）では、心原性脳塞栓症の二次予防として心房細動に対してDOACを含む経口抗凝固療法を行い、抗血小板薬の併用は原則として行わない。
+    plain_statement_ja: 日本の脳卒中治療ガイドライン2021〔改訂2025〕では、心原性脳塞栓症の二次予防として心房細動に対してDOACを含む経口抗凝固療法を行い、抗血小板薬の併用は原則として行わない。
     condition:
       population: 心房細動による心原性脳塞栓症患者
       region: 日本
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-1581
-    source: 日本脳卒中学会 脳卒中治療ガイドライン2021［改訂2023］（書籍）
+    source_ref: SRC-4431
+    source: 日本脳卒中学会 脳卒中ガイドライン委員会 編. 脳卒中治療ガイドライン2021〔改訂2025〕（第3版）. 協和企画. 2025（ISBN 978-4-87794-241-0）
     doi: null
     pmid: null
     pmcid: null
     url: null
-    source_license: 日本脳卒中学会ガイドライン（書籍、CC表示なし）
+    source_license: 書籍（学会の著作物、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
@@ -873,6 +882,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 出典を新しい版に付け替え：SRC-1581（日本脳卒中学会 脳卒中治療ガイドライン2021［改訂2023］（書籍）） → SRC-4431（提案B、三原の承認）。主張文の版の表記「2021（改訂2023）」を「2021〔改訂2025〕」に更新（推奨の骨格は改訂2025でも維持されることを作り手が改訂抜粋 PDF で照合）
 - id: ST-026
   domain: ST
   subdomain: 脳梗塞
@@ -1689,17 +1701,17 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-1581
-    source: 日本脳卒中学会 脳卒中治療ガイドライン2021［改訂2023］（書籍）
+    source_ref: SRC-4431
+    source: 日本脳卒中学会 脳卒中ガイドライン委員会 編. 脳卒中治療ガイドライン2021〔改訂2025〕（第3版）. 協和企画. 2025（ISBN 978-4-87794-241-0）
     doi: null
     pmid: null
     pmcid: null
     url: null
-    source_license: 日本脳卒中学会ガイドライン（書籍、CC表示なし）
+    source_license: 書籍（学会の著作物、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: 嚥下評価・訓練の横断的総論は本カードの範囲外とし、脳卒中後の嚥下障害として扱った。
+  uncertainty: 嚥下評価・訓練の横断的総論は本カードの範囲外とし、脳卒中後の嚥下障害として扱った。　出典は改訂2025に付け替えた。該当箇所が改訂項目（Ⅶ章2-7 摂食嚥下障害）にあたる場合は書籍本文での照合が望ましい（作り手の申し送り）。
   curriculum:
     kokushi: 医学各論 Ⅸ-1-E-①（偽性球麻痺、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
@@ -1713,6 +1725,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 出典を新しい版に付け替え：SRC-1581（日本脳卒中学会 脳卒中治療ガイドライン2021［改訂2023］（書籍）） → SRC-4431（提案B、三原の承認）。uncertainty を更新（旧：嚥下評価・訓練の横断的総論は本カードの範囲外とし、脳卒中後の嚥下障害として扱った。）
 - id: ST-050
   domain: ST
   subdomain: 脳卒中後遺症

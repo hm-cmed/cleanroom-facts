@@ -34428,3 +34428,48 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md の出典マスター表から
+- id: SRC-4431
+  legacy_id: null
+  title: 日本脳卒中学会 脳卒中ガイドライン委員会 編. 脳卒中治療ガイドライン2021〔改訂2025〕（第3版）. 協和企画. 2025（ISBN 978-4-87794-241-0）
+  citation: 日本脳卒中学会 脳卒中ガイドライン委員会 編. 脳卒中治療ガイドライン2021〔改訂2025〕（第3版）. 協和企画. 2025（ISBN 978-4-87794-241-0）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 書籍（学会の著作物、CC 表示なし）。書誌は作り手が出版社・国立国会図書館で確認（ISBN）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 登録：作り手のブラッシュアップ提案B（版の差し替え）による。三原の承認（2026-11-01）
+- id: SRC-4432
+  legacy_id: null
+  title: 日本耳鼻咽喉科免疫アレルギー感染症学会 編. 鼻アレルギー診療ガイドライン―通年性鼻炎と花粉症―2024年版（改訂第10版）. 金原出版. 2024（ISBN 978-4-307-37140-7）
+  citation: 日本耳鼻咽喉科免疫アレルギー感染症学会 編. 鼻アレルギー診療ガイドライン―通年性鼻炎と花粉症―2024年版（改訂第10版）. 金原出版. 2024（ISBN 978-4-307-37140-7）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 書籍（学会の著作物、CC 表示なし）。書誌は作り手が出版社ページで確認（ISBN）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 登録：作り手のブラッシュアップ提案B（版の差し替え）による。三原の承認（2026-11-01）
+- id: SRC-4433
+  legacy_id: null
+  title: 'Montalban X, Lebrun-Frénay C, Oh J, et al. Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria. Lancet Neurol. 2025;24(10):850-865'
+  citation: 'Montalban X, Lebrun-Frénay C, Oh J, et al. Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria. Lancet Neurol. 2025;24(10):850-865'
+  doi: 10.1016/S1474-4422(25)00270-4
+  pmid: '40975101'
+  pmcid: null
+  license_note: 購読誌（CC 表示は未確認）。DOI・PMID は Duke 大学の書誌（PubMed リンク）で確認、PC の照合で再確認する
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 登録：作り手のブラッシュアップ提案B（版の差し替え）による。三原の承認（2026-11-01）

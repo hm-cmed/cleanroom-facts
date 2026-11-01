@@ -79,17 +79,17 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-1373
-    source: Okubo K, Kurono Y, Ichimura K, Enomoto T, Okamoto Y, Kawauchi H, Fujieda S, Masuyama K; Japanese Society of Allergology. Japanese guidelines for allergic rhinitis 2020. Allergol Int. 2020;69(3):331-345
-    doi: 10.1016/j.alit.2020.04.001
-    pmid: '32473790'
+    source_ref: SRC-4432
+    source: 日本耳鼻咽喉科免疫アレルギー感染症学会 編. 鼻アレルギー診療ガイドライン―通年性鼻炎と花粉症―2024年版（改訂第10版）. 金原出版. 2024（ISBN 978-4-307-37140-7）
+    doi: null
+    pmid: null
     pmcid: null
-    url: https://www.jstage.jst.go.jp/article/allergolint/69/3/69_331/_pdf
-    source_license: CC BY-NC-ND 4.0
+    url: null
+    source_license: 書籍（学会の著作物、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: 日本アレルギー学会のガイドライン英語版（鼻アレルギー診療ガイドライン2016年版を基にした改訂版）の本文で確認した範囲に限定した。
+  uncertainty: 出典を2024年版（改訂第10版）に付け替えた。定義・3主徴・病型分類・確定診断の骨格は第10版でも維持されている（作り手が英語要約版〈Auris Nasus Larynx 2025〉と学会誌の解説で確認）。第10版で分類に加わった局所アレルギー性鼻炎（LAR）は本カードでは扱っていない。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)；TBL-01-00-511 (id: JlvnmQA)'
     kokushi: 医学各論 Ⅲ-9-A-②（鼻炎、a）
@@ -103,6 +103,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 出典を新しい版に付け替え：SRC-1373（Okubo K, Kurono Y, Ichimura K, Enomoto T, Okamoto Y, Kawauch） → SRC-4432（提案B、三原の承認）。uncertainty を更新（旧：日本アレルギー学会のガイドライン英語版（鼻アレルギー診療ガイドライン2016年版を基にした改訂版）の本文で確認した範囲に限定した。）
 - id: NL-004
   domain: NL
   subdomain: 鼻炎
