@@ -488,3 +488,73 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/48_pn_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: FT-015
+  domain: FT
+  subdomain: 胎児貧血
+  assertion:
+    plain_statement_ja: 米国母体胎児医学会のガイドライン
+    condition:
+      region: 米国
+      対象: 胎児貧血のリスクがある妊婦
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4446
+    source: 'Society for Maternal-Fetal Medicine (SMFM); Mari G, Norton ME, Stone J, et al. Society for Maternal-Fetal Medicine (SMFM) Clinical Guideline #8: the fetus at risk for anemia--diagnosis and management. Am J Obstet Gynecol. 2015;212(6):697-710'
+    doi: 10.1016/j.ajog.2015.01.059
+    pmid: '25824811'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ajog.2015.01.059
+    source_license: CC 表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本ガイドラインは米国の学会のものであり、日本の産科ガイドラインで同じ閾値（MCA-PSV が中央値の1.5倍超）がどう位置づけられているかは別途の確認が要る。2015年の公表で、学会は2025年に現行として再確認（reaffirmed）している。推奨文には、妊娠週数が進み分娩のリスクが手技のリスクを下回る場合は分娩を優先する旨の留保がある。羊水の ΔOD450 は胎児貧血の診断に用いないことも同ガイドラインの推奨である。
+  curriculum:
+    kokushi: 医学各論 Ⅰ-3-A-④（胎児貧血、b）
+    core_curriculum: 'PS-02-11-05 (id: JkxnuSU)；PS-02-11-03 (id: JkxnuSM)；TBL-02-10-013 (id: JlAKpqo)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+- id: FT-016
+  domain: FT
+  subdomain: 胎児貧血
+  assertion:
+    plain_statement_ja: 母体赤血球同種免疫で胎児貧血のリスクがある妊娠111例を対象に、中大脳動脈収縮期最大血流速度（MCA-PSV）と、臍帯穿刺で得た胎児ヘモグロビン値を比較した原著研究では、貧血のない例が41例、軽症が35例、中等症が4例、重症が31例（うち胎児水腫12例）だった。中等症と重症の貧血に対する MCA-PSV 上昇の感度は、水腫のない例でも100%（95%信頼区間 86〜100%）であり、偽陽性率は12%だった。正常胎児265例では、胎児ヘモグロビン値は妊娠週数とともに増加した。
+    condition:
+      region: 国際
+      対象: 母体赤血球同種免疫のある妊婦
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3348
+    source: Mari G, Deter RL, Carpenter RL, et al.; Collaborative Group for Doppler Assessment of the Blood Velocity in Anemic Fetuses. Noninvasive diagnosis by Doppler ultrasonography of fetal anemia due to maternal red-cell alloimmunization. N Engl J Med. 2000;342(1):9-14
+    doi: 10.1056/NEJM200001063420102
+    pmid: '10620643'
+    pmcid: null
+    url: https://doi.org/10.1056/NEJM200001063420102
+    source_license: CC 表示なし（NEJM）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 既存の FT-008 は同じ原著について「MCA-PSV の上昇は中等度・重度の胎児貧血を感度100%で予測し、偽陽性率は12%」という結論を既に扱っており、本カードは症例の内訳と推定の精度（信頼区間）を補う位置づけで、重複と判断されれば FT-008 への統合が望ましい。対象は同種免疫による貧血であり、他の原因による胎児貧血への外挿は本研究では検証されていない。管理の閾値である中央値の1.5倍という数値は本論文の抄録にはなく、FT-015（SMFM ガイドライン
+  curriculum:
+    kokushi: 医学各論 Ⅰ-3-A-④（胎児貧血、b）
+    core_curriculum: 'PS-02-11-05 (id: JkxnuSU)；PS-02-11-03 (id: JkxnuSM)；TBL-02-10-013 (id: JlAKpqo)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）

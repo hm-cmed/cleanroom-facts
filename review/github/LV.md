@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 110 件のうち、監修済み 0 件。
+全 111 件のうち、監修済み 0 件。
 
 ## 肝硬変とその合併症
 
@@ -1238,7 +1238,17 @@
 - 出題基準：医学各論 Ⅵ-6-A-①（肝囊胞、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-105&card_id=LV-105&version=7d8eefd4f3)　（版 `7d8eefd4f3`）
 
-**[ここまでの 1 件（LV-105）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-105&cards=LV-105%207d8eefd4f3)**
+### LV-111　下書き（出典の照合前）
+
+> 有症状で胆管との交通のない単純性肝囊胞には、穿刺吸引・硬化療法や腹腔鏡下囊胞開窓術など、施設で実施可能な最良の囊胞減量治療を行う（強い推奨）。囊胞感染には、フルオロキノロン系薬または第3世代セフェム系薬を経験的治療の第一選択とし、4〜6週間投与する（強い推奨）。
+
+- 条件：region: 欧州／対象: 成人
+- 不確実性：抗菌薬はガイドライン本文が例示するシプロフロキサシン（フルオロキノロン系）をはじめ、レボフロキサシン、セフトリアキソン（第3世代セフェム系）などはいずれも国内で承認されている抗菌薬である。ただし、添付文書の効能・効果に肝囊胞感染は含まれておらず、保険適用上は適応外使用にあたる。減量治療の手技の使い分けは施設の体制により、ガイドラインは施設で最良の方法を推奨している。診断と無症状例の扱いは LV-105 が担当する。
+- 出典：European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of cystic liver diseases. J Hepatol. 2022;77(4):1083-1108.　[DOI 10.1016/j.jhep.2022.06.002](https://doi.org/10.1016/j.jhep.2022.06.002)　[PMID 35728731](https://pubmed.ncbi.nlm.nih.gov/35728731/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-6-A-①（肝囊胞、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-111&card_id=LV-111&version=828ed06369)　（版 `828ed06369`）
+
+**[ここまでの 2 件（LV-105〜LV-111）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-105%E3%80%9CLV-111&cards=LV-105%207d8eefd4f3%0ALV-111%20828ed06369)**
 
 ---
 

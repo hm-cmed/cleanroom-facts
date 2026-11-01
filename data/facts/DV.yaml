@@ -698,3 +698,73 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: DV-021
+  domain: DV
+  subdomain: 注意欠如多動性障害<注意欠如多動症><ADHD>
+  assertion:
+    plain_statement_ja: 国内の診断・治療ガイドライン第5版（2022年）では、注意欠如・多動症（ADHD）の診断は DSM-5 の診断基準に準拠し、不注意と多動性・衝動性の2つの症状領域について、症状の数、6か月以上の持続、12歳以前からの存在、家庭や学校など2つ以上の状況での出現、社会的・学業的機能の障害を確認する枠組みである。診断は、生育歴・発達歴の聴取と行動観察、学校などからの情報をあわせ、他の病態を除外しながら総合的に行う。
+    condition:
+      region: 日本
+      対象: 小児および成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4445
+    source: ADHDの診断・治療指針に関する研究会 編（齊藤万比古・飯田順三 編集）. 注意欠如・多動症―ADHD―の診断・治療ガイドライン 第5版. じほう. 2022年. ISBN 978-4-8407-5467-5
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: CC 表示なし（書籍）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードは書籍本文を直接確認できていない。書誌は出版社のページ、CiNii 書誌、国立国会図書館サーチで照合し、診断の枠組みは、日本小児精神神経学会の公開資料（同ガイドラインを参考文献に挙げ、DSM の基準に準じた診断手順を示すもの）で実際に確認できた範囲に限った。評価尺度の個別の推奨や診断手順の細部は本文未確認のため含めていない。既存の DV-010 は DSM-5-TR の診断基準 A〜E の項目そのものを扱っており、本カードは国内ガイドラインの枠組みを示すもので、一部に重なりがある。
+  curriculum:
+    kokushi: 医学各論 Ⅱ-5-E（注意欠如多動性障害<注意欠如多動症><ADHD>、a）
+    core_curriculum: 'PS-02-17-05 (id: JkxnuT8)；PS-02-12-04 (id: Jli53IM)；TBL-01-00-550 (id: Juyv-TM)；TBL-01-00-435 (id: JlvnmII)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+- id: DV-022
+  domain: DV
+  subdomain: 注意欠如多動性障害<注意欠如多動症><ADHD>
+  assertion:
+    plain_statement_ja: 国内の診断・治療ガイドライン第5版に基づく注意欠如・多動症（ADHD）の治療・支援は、心理社会的治療から開始することが原則であり、環境調整、保護者へのガイダンスとペアレントトレーニング、学校など関係機関との連携、本人の特性に応じた療育や認知行動療法を含む。症状が強く周囲との関係が悪化する場合や、二次障害の恐れがある場合には、薬物療法を組み合わせる。国内で用いられる治療薬は、メチルフェニデート徐放錠、アトモキセチン、グアンファシン塩酸塩徐放錠、リスデキサンフェタミンの4剤である。
+    condition:
+      region: 日本
+      対象: 小児および成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4445
+    source: ADHDの診断・治療指針に関する研究会 編（齊藤万比古・飯田順三 編集）. 注意欠如・多動症―ADHD―の診断・治療ガイドライン 第5版. じほう. 2022年. ISBN 978-4-8407-5467-5
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: CC 表示なし（書籍）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: メチルフェニデート徐放錠、アトモキセチン、グアンファシン塩酸塩徐放錠、リスデキサンフェタミンはいずれも国内で注意欠如・多動症を適応として承認され、保険適用がある。このうちメチルフェニデート徐放錠とリスデキサンフェタミンは、ADHD 適正流通管理システムに登録した医師のみが処方できる。年齢による適応の範囲は薬剤ごとに異なるが、個別の年齢適応は本カードでは確認していない。本カードは書籍本文を直接確認できておらず、治療の枠組みは学会の公開資料で実際に確認できた範囲に限る。
+  curriculum:
+    kokushi: 医学各論 Ⅱ-5-E（注意欠如多動性障害<注意欠如多動症><ADHD>、a）
+    core_curriculum: 'PS-02-17-05 (id: JkxnuT8)；PS-02-12-04 (id: Jli53IM)；TBL-01-00-550 (id: Juyv-TM)；TBL-01-00-435 (id: JlvnmII)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）

@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 39 件のうち、監修済み 0 件。
+全 42 件のうち、監修済み 0 件。
 
 ## 肥大型心筋症
 
@@ -496,7 +496,37 @@
 - 出題基準：医学各論 Ⅴ-6-G-①（心臓外傷、c）　コアカリ：PS-02-06-05 (id: JkxnuQw)；PS-03-05-12 (id: Jkxir3g)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-039&card_id=MP-039&version=dfede8a6d6)　（版 `dfede8a6d6`）
 
-**[ここまでの 2 件（MP-038〜MP-039）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-038%E3%80%9CMP-039&cards=MP-038%2075b41aa98d%0AMP-039%20dfede8a6d6)**
+### MP-040　下書き（出典の照合前）
+
+> 穿通性心臓外傷はまれだが致死的な外傷で、民間では銃創と刺創が主な原因であり、医療行為に伴うものもある。いずれの心腔の損傷でも、心膜腔への出血が急速に心タンポナーデを来たして死因になりうる一方、心膜が血液を封じ込めれば病院到着まで生存しうる。臨床像はタンポナーデによる血行動態の不安定が中心で、Beck の三徴（心音減弱、頸静脈怒張、低血圧）がそろうのはタンポナーデ例の約10%にとどまる。初期診断の標準は心エコーで心囊液（心囊内出血）を確認することであり、精度は96〜97%、感度と特異度はほぼ100%と報告される。心エコーが使えない場合は剣状突起下心膜開窓や心囊穿刺が選択肢になるが、時間を要する。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：穿通性心臓外傷を包括する診療ガイドラインはなく、本カードは総説に基づく。海外の集積は銃器損傷の比率が高く、刺創の比率が高い日本の実情とは受傷機転の構成が異なる。損傷部位別の頻度は、総説の中で単一の数値としては確認できなかったため主張に入れていない。
+- 出典：Hromalik LR Jr, Wall MJ Jr, Mattox KL, Tsai PI. Penetrating cardiac injury: a narrative review. Mediastinum. 2023;7:15　[DOI 10.21037/med-22-18](https://doi.org/10.21037/med-22-18)　[PMID 37261091](https://pubmed.ncbi.nlm.nih.gov/37261091/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-6-G-①（心臓外傷、c）　コアカリ：PS-02-06-05 (id: JkxnuQw)；PS-03-05-12 (id: Jkxir3g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-040&card_id=MP-040&version=59ef67bccd)　（版 `59ef67bccd`）
+
+### MP-041　下書き（出典の照合前）
+
+> EAST の診療ガイドラインは、重症外傷後に脈拍を触れない患者への救急室開胸について、GRADE に基づく推奨を示している。穿通性胸部外傷後に脈拍を触れず生命徴候がある患者では救急室開胸を強く推奨し、生命徴候がない場合も条件付きで推奨する。根拠となった集積（救急室開胸10,238例）では、穿通性胸部外傷で生命徴候があった群の生存率は21.3%、なかった群では8.3%だった。鈍的外傷後に脈拍を触れず生命徴候もない患者では、救急室開胸を条件付きで推奨しないとされる。
+
+- 条件：region: 米国／対象: 外傷後に脈拍を触れない患者
+- 不確実性：本ガイドラインの射程は救急室開胸の患者選択に限られ、穿通性心臓外傷全体の管理を包括するガイドラインはない。集積は海外の外傷センターのもので、銃器損傷の比率が高く日本の実情とは受傷機転の構成が異なる。WTA の Critical Decisions（2012年）も受傷機転と生命徴候から開胸適応を決めるアルゴリズムを示すが、本カードの出典は EAST ガイドラインのみとし、WTA は独立カードにしなかった。
+- 出典：Seamon MJ, Haut ER, Van Arendonk K, et al. An evidence-based approach to patient selection for emergency department thoracotomy: A practice management guideline from the Eastern Association for the Surgery of Trauma. J Trauma Acute Care Surg. 2015;79(1):159-173　[DOI 10.1097/TA.0000000000000648](https://doi.org/10.1097/TA.0000000000000648)　[PMID 26091330](https://pubmed.ncbi.nlm.nih.gov/26091330/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-6-G-①（心臓外傷、c）　コアカリ：PS-02-06-05 (id: JkxnuQw)；PS-03-05-12 (id: Jkxir3g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-041&card_id=MP-041&version=74409737d5)　（版 `74409737d5`）
+
+### MP-042　下書き（出典の照合前）
+
+> 穿通性心臓外傷の修復では、まず指による圧迫で出血を抑え、複数の裂傷には皮膚ステープルによる一時的な止血も使われる。大きな欠損には、Foley カテーテルのバルーンを心腔内で膨らませて壁に押し当て、内側から閉塞する方法があるが、牽引が強すぎると裂傷が拡大するため注意を要する。心室の修復はプレジェット付き水平マットレス縫合が基本であり、心房の欠損は血管鉗子で把持して連続縫合で閉じる。冠動脈に近い損傷にはステープルは使えず、冠動脈損傷と心筋虚血の評価が要る。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：本カードは手術手技の総説に基づく整理で、穿通性心臓外傷を包括する診療ガイドラインはない。海外の集積は銃器損傷の比率が高く日本の実情とは受傷機転の構成が異なる。大きな心室欠損で上下大静脈をクランプして心拍を落としてから縫合する手順など、個別手技の細部は本カードに含めていない。
+- 出典：Ball CG, Lee A, Kaminsky M, et al. Technical considerations in the management of penetrating cardiac injury. Can J Surg. 2022;65(5):E580-E592　[DOI 10.1503/cjs.008521](https://doi.org/10.1503/cjs.008521)　[PMID 36302130](https://pubmed.ncbi.nlm.nih.gov/36302130/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-6-G-①（心臓外傷、c）　コアカリ：PS-02-06-05 (id: JkxnuQw)；PS-03-05-12 (id: Jkxir3g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-042&card_id=MP-042&version=63c25dd690)　（版 `63c25dd690`）
+
+**[ここまでの 5 件（MP-038〜MP-042）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-038%E3%80%9CMP-042&cards=MP-038%2075b41aa98d%0AMP-039%20dfede8a6d6%0AMP-040%2059ef67bccd%0AMP-041%2074409737d5%0AMP-042%2063c25dd690)**
 
 ---
 

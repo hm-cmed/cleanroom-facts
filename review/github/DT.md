@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 36 件のうち、監修済み 0 件。
+全 38 件のうち、監修済み 0 件。
 
 ## 神経線維腫症1型
 
@@ -234,7 +234,17 @@
 - 出題基準：医学各論 Ⅲ-2-F-②（基底細胞癌、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-634 (id: JlvnmbQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-021&card_id=DT-021&version=e6febb2afb)　（版 `e6febb2afb`）
 
-**[ここまでの 1 件（DT-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-021&cards=DT-021%20e6febb2afb)**
+### DT-044　下書き（出典の照合前）
+
+> 基底細胞癌は転移が極めてまれで死亡率も低い一方、局所で破壊的に増大し再発しうる腫瘍である。発症にはヘッジホッグ経路の異常な活性化が関与し、最大の危険因子は紫外線曝露で、色の白い皮膚、高齢、家族歴、PTCH1遺伝子変異（基底細胞母斑症候群）なども危険因子となる。臨床像は、真珠様の光沢をもつ丘疹・結節で、辺縁が堤防状に隆起し、樹枝状の血管拡張を伴い、中央にびらんや潰瘍を生じるものが典型的である。治療の主体は外科的切除であり、手術が困難な進行例ではヘッジホッグ経路阻害薬が海外で用いられる。
+
+- 条件：region: 全般／対象: 基底細胞癌患者
+- 不確実性：ヘッジホッグ経路阻害薬のビスモデギブとソニデギブは海外で手術・放射線治療が困難な進行基底細胞癌に承認されているが、いずれも国内未承認で日本では使用できない（皮膚悪性腫瘍診療ガイドラインの基底細胞癌の項で確認）。好発部位について、同総説では紫外線曝露との関連は明示されるが「顔面好発」の形の記述は確認できなかったため、本カードでは部位の好発は主張していない。
+- 出典：Niculet E, et al. Basal cell carcinoma: Comprehensive clinical and histopathological aspects, novel imaging tools and therapeutic approaches (Review). Exp Ther Med. 2022;23(1):60.　[DOI 10.3892/etm.2021.10982](https://doi.org/10.3892/etm.2021.10982)　[PMID 34917186](https://pubmed.ncbi.nlm.nih.gov/34917186/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-2-F-②（基底細胞癌、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-634 (id: JlvnmbQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-044&card_id=DT-044&version=1ca478eb5a)　（版 `1ca478eb5a`）
+
+**[ここまでの 2 件（DT-021〜DT-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-021%E3%80%9CDT-044&cards=DT-021%20e6febb2afb%0ADT-044%201ca478eb5a)**
 
 ---
 
@@ -386,7 +396,17 @@
 - 出題基準：医学各論 Ⅲ-2-G-①（菌状息肉症、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-637 (id: Jlvnmbg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-030&card_id=DT-030&version=805e77def0)　（版 `805e77def0`）
 
-**[ここまでの 1 件（DT-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-030&cards=DT-030%20805e77def0)**
+### DT-045　下書き（出典の照合前）
+
+> 菌状息肉症は原発性皮膚T細胞リンパ腫の中で最も頻度が高く、腫瘍細胞の表皮への浸潤を特徴とする。経過は緩徐で、数年から数十年をかけて、落屑を伴う紅斑のみられる紅斑期、浸潤を触れる局面状病変の扁平浸潤期、腫瘤を形成する腫瘤期へと進行する。治療は初期には外用ステロイドや紫外線療法を中心として長期の経過観察を行い、腫瘤期以降の進行例では全身療法を要する。病期IAでは生存は年齢・性を一致させた対照と差がないと報告される一方、進行期では予後が悪化する。紅皮症に血中への腫瘍細胞の出現を伴うものはセザリー症候群とされる。
+
+- 条件：region: 日本／対象: 菌状息肉症患者
+- 不確実性：本カードは皮膚リンパ腫診療ガイドライン2020年版（登録済み出典）に基づく。日本皮膚科学会のガイドライン一覧には2025年版が掲載されており、次版での再照合が望ましい。病期の呼称は同ガイドラインの「紅斑期・扁平浸潤期・腫瘤期」に従った（一般に局面期・腫瘍期とも呼ばれる）。治療に挙げた外用ステロイド薬は国内で承認・保険適用のある製剤であり、個別製剤の効能・効果の範囲は添付文書による。
+- 出典：Ohtsuka M, Hamada T, Miyagaki T, et al. Outlines of the Japanese guidelines for the management of primary cutaneous lymphomas 2020. The Journal of Dermatology. 2021;48(2):e49-e71.　[DOI 10.1111/1346-8138.15707](https://doi.org/10.1111/1346-8138.15707)　[PMID 33245165](https://pubmed.ncbi.nlm.nih.gov/33245165/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-2-G-①（菌状息肉症、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-637 (id: Jlvnmbg)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-045&card_id=DT-045&version=25e287ed91)　（版 `25e287ed91`）
+
+**[ここまでの 2 件（DT-030〜DT-045）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-030%E3%80%9CDT-045&cards=DT-030%20805e77def0%0ADT-045%2025e287ed91)**
 
 ---
 

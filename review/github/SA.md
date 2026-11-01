@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 20 件のうち、監修済み 0 件。
+全 22 件のうち、監修済み 0 件。
 
 ## 体軸性脊椎関節炎、強直性脊椎炎
 
@@ -261,6 +261,32 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-020&card_id=SA-020&version=6a8d7be937)　（版 `6a8d7be937`）
 
 **[ここまでの 1 件（SA-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SA-020&cards=SA-020%206a8d7be937)**
+
+---
+
+## 反応性関節炎
+
+### SA-021　下書き（出典の照合前）
+
+> 反応性関節炎は、感染を契機として生じる炎症性関節炎であり、脊椎関節炎の一群に分類される。発症には、宿主の感受性と病原体の相互作用が関わると考えられている。診断は、先行する感染の後に生じる関節炎という合致する臨床症候群と、起因病原体の微生物学的確認に基づいて行う。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：反応性関節炎に特化した診療ガイドラインは、国際的にも国内にも存在せず、本カードは総説に基づく。起因病原体の個別の頻度や、HLA-B27 との関連の強さは、総説の抄録では確認できなかったため主張に入れていない。
+- 出典：Schmitt SK. Reactive Arthritis. Infect Dis Clin North Am. 2017;31(2):265-277　[DOI 10.1016/j.idc.2017.01.002](https://doi.org/10.1016/j.idc.2017.01.002)　[PMID 28292540](https://pubmed.ncbi.nlm.nih.gov/28292540/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅺ-2-B-②（末梢性脊椎関節炎、b）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；TBL-01-00-576 (id: JlvnmVI)；TBL-02-17-009 (id: JlAKp10)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-021&card_id=SA-021&version=fd1d7f7d2e)　（版 `fd1d7f7d2e`）
+
+### SA-022　下書き（出典の照合前）
+
+> 反応性関節炎の治療では、クラミジアを契機とする例では抗菌薬が有用とされる一方、腸管病原体を契機とする例では抗菌薬の役割は明確でない。腫瘍壊死因子（TNF）阻害薬の位置づけは、まだ定まっていない。経過は数か月で収束する例が多いが、関節外の病変を伴ったり、経過が遷延したりする例もある。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：反応性関節炎に特化した診療ガイドラインは存在せず、本カードは総説に基づく。抗 TNF 薬は国内では反応性関節炎を適応として承認されておらず、抗菌薬の使用は起因病原体ごとの感染症としての国内承認の範囲による。NSAIDs など対症療法の個別の位置づけは、総説の抄録では確認できなかったため本カードには含めていない。
+- 出典：Schmitt SK. Reactive Arthritis. Infect Dis Clin North Am. 2017;31(2):265-277　[DOI 10.1016/j.idc.2017.01.002](https://doi.org/10.1016/j.idc.2017.01.002)　[PMID 28292540](https://pubmed.ncbi.nlm.nih.gov/28292540/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅺ-2-B-②（末梢性脊椎関節炎、b）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；TBL-01-00-576 (id: JlvnmVI)；TBL-02-17-009 (id: JlAKp10)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-022&card_id=SA-022&version=d2dcc635f8)　（版 `d2dcc635f8`）
+
+**[ここまでの 2 件（SA-021〜SA-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SA-021%E3%80%9CSA-022&cards=SA-021%20fd1d7f7d2e%0ASA-022%20d2dcc635f8)**
 
 ---
 

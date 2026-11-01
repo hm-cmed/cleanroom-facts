@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 51 件のうち、監修済み 0 件。
+全 61 件のうち、監修済み 0 件。
 
 ## 先天性・遺伝性水疱症
 
@@ -312,7 +312,17 @@
 - 出題基準：医学各論 Ⅲ-3-I-①（多汗症、無汗症、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-108 (id: Jlvnlls)；TBL-01-00-109 (id: Jlvnll0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-024&card_id=SD-024&version=bf5fd1118a)　（版 `bf5fd1118a`）
 
-**[ここまでの 1 件（SD-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-024&cards=SD-024%20bf5fd1118a)**
+### SD-053　下書き（出典の照合前）
+
+> 原発性局所多汗症の治療は、部位と重症度に応じた段階的治療である。塩化アルミニウム外用療法がまず行われる治療であり、掌蹠多汗症では水道水イオントフォレーシス療法が勧められる。腋窩や手掌では外用抗コリン薬が選択肢となり、これらが不十分な場合にA型ボツリヌス毒素の局所注射を考慮する。手掌多汗症で他の治療が無効な場合は内視鏡的胸部交感神経遮断術（ETS）が最終選択となるが、代償性発汗などの合併症に注意する必要がある。
+
+- 条件：region: 日本／対象: 原発性局所多汗症患者
+- 不確実性：A型ボツリヌス毒素製剤（ボトックス注用）は重度の原発性腋窩多汗症でのみ国内承認・保険適用があり（2012年承認）、手掌など他部位への局注は保険適用外である。塩化アルミニウム外用は処置薬として保険適用外である（同ガイドラインの診療アルゴリズムの注記による）。外用抗コリン薬では、ソフピロニウム臭化物ゲル（エクロックゲル、2020年承認）とグリコピロニウムトシル酸塩水和物ワイプ（ラピフォートワイプ、2022年承認）が原発性腋窩多汗症で承認され、オキシブチニン塩酸塩ローション（アポハイド）は原発性手掌多汗症で承認されているが、本ガイドライン2023年改訂版には未収載である。
+- 出典：原発性局所多汗症診療ガイドライン策定委員会. 原発性局所多汗症診療ガイドライン2023年改訂版. 日本皮膚科学会雑誌. 2023;133(2):157-188.　[リンク](https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/takansho2023.pdf)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-3-I-①（多汗症、無汗症、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-108 (id: Jlvnlls)；TBL-01-00-109 (id: Jlvnll0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-053&card_id=SD-053&version=454d4f393a)　（版 `454d4f393a`）
+
+**[ここまでの 2 件（SD-024〜SD-053）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-024%E3%80%9CSD-053&cards=SD-024%20bf5fd1118a%0ASD-053%20454d4f393a)**
 
 ---
 
@@ -412,7 +422,17 @@
 - 出題基準：医学各論 Ⅲ-3-J-⑤（伝染性膿痂疹、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-085 (id: JlvnljA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-031&card_id=SD-031&version=eea8fc9033)　（版 `eea8fc9033`）
 
-**[ここまでの 1 件（SD-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-031&cards=SD-031%20eea8fc9033)**
+### SD-054　下書き（出典の照合前）
+
+> 伝染性膿痂疹は表皮の表在性細菌感染症で、水疱を生じる水疱性と、痂皮を主体とする痂皮性（非水疱性）に分けられる。水疱性は黄色ブドウ球菌が産生する表皮剥脱毒素によって生じ、痂皮性は黄色ブドウ球菌やA群溶連菌による。治療は、病変が限局すれば外用抗菌薬を用い、病変が多数の場合や集団発生時には感染拡大を抑えるため、黄色ブドウ球菌に有効な経口抗菌薬（セファレキシンなど）を用いる。
+
+- 条件：region: 海外／対象: 伝染性膿痂疹患者
+- 不確実性：本ガイドラインは米国のものである。同ガイドラインが推奨するムピロシン外用は、国内では鼻腔内MRSA除菌用の鼻腔用軟膏のみが承認されており、膿痂疹に対する皮膚用の外用製剤はない。レタパムリン外用とジクロキサシリンは国内未発売である。経口薬のセファレキシンは国内で承認され、皮膚感染症に用いられる。
+- 出典：Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):147-159.　[DOI 10.1093/cid/ciu296](https://doi.org/10.1093/cid/ciu296)　[PMID 24947530](https://pubmed.ncbi.nlm.nih.gov/24947530/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-3-J-⑤（伝染性膿痂疹、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-085 (id: JlvnljA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-054&card_id=SD-054&version=57cbb60643)　（版 `57cbb60643`）
+
+**[ここまでの 2 件（SD-031〜SD-054）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-031%E3%80%9CSD-054&cards=SD-031%20eea8fc9033%0ASD-054%2057cbb60643)**
 
 ---
 
@@ -428,7 +448,17 @@
 - 出題基準：医学各論 Ⅲ-3-J-⑥（ブドウ球菌性熱傷様皮膚症候群、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-089 (id: Jlvnljg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-032&card_id=SD-032&version=c0f5572ea3)　（版 `c0f5572ea3`）
 
-**[ここまでの 1 件（SD-032）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-032&cards=SD-032%20c0f5572ea3)**
+### SD-055　下書き（出典の照合前）
+
+> ブドウ球菌性熱傷様皮膚症候群（SSSS）は、黄色ブドウ球菌の表皮剥脱毒素が局所の感染巣から血行性に広がり、デスモグレイン1を切断して表皮の浅い剥離を起こす疾患で、新生児・乳幼児に多い。治療は、毒素産生源となる感染巣の治療とともに、抗ブドウ球菌性抗菌薬の静脈投与を速やかに開始し、MRSAが疑われる場合はバンコマイシンなどを用いる。あわせて、剥離した皮膚からの水分・電解質喪失に対する補液や創部管理などの支持療法が重要である。死亡率は小児で10%未満とされる一方、成人では40〜63%と高い。
+
+- 条件：region: 全般／対象: ブドウ球菌性熱傷様皮膚症候群の患者
+- 不確実性：本総説が挙げるナフシリンとオキサシリンは国内未発売であり、国内ではセファゾリンなど承認済みの抗ブドウ球菌性βラクタム薬が用いられる。バンコマイシンとクリンダマイシンは国内で承認されている。免疫グロブリン静注については、本総説は入院期間の延長と関連した報告を紹介しており、推奨は後退している。
+- 出典：Handler MZ, Schwartz RA. Staphylococcal scalded skin syndrome: diagnosis and management in children and adults. J Eur Acad Dermatol Venereol. 2014;28(11):1418-1423.　[DOI 10.1111/jdv.12541](https://doi.org/10.1111/jdv.12541)　[PMID 24841497](https://pubmed.ncbi.nlm.nih.gov/24841497/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-3-J-⑥（ブドウ球菌性熱傷様皮膚症候群、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-089 (id: Jlvnljg)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-055&card_id=SD-055&version=0ab95e0b35)　（版 `0ab95e0b35`）
+
+**[ここまでの 2 件（SD-032〜SD-055）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-032%E3%80%9CSD-055&cards=SD-032%20c0f5572ea3%0ASD-055%200ab95e0b35)**
 
 ---
 
@@ -444,7 +474,17 @@
 - 出題基準：医学各論 Ⅲ-3-J-⑦（壊死性筋膜炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-091 (id: Jlvnljs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-033&card_id=SD-033&version=83f60aaab6)　（版 `83f60aaab6`）
 
-**[ここまでの 1 件（SD-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-033&cards=SD-033%2083f60aaab6)**
+### SD-056　下書き（出典の照合前）
+
+> 壊死性筋膜炎の診断は臨床所見が中心である。初期は皮膚所見に乏しく、所見に不釣り合いな強い疼痛が主症状のこともあるが、進行すると浮腫と紅斑が拡大し、皮膚は暗紫色となって水疱（出血性水疱を含む）や壊死を生じ、低血圧などの全身毒性を伴う。蜂窩織炎との鑑別には、所見に不釣り合いな疼痛、皮膚壊死、出血性水疱、低血圧が手がかりとなる。画像では組織内のガス像が外科的介入を急ぐ所見であり、MRIでは筋膜の肥厚や高信号がみられる。血液検査に基づくLRINECスコアは補助的に用いられるが、確定診断は手術で筋膜を直接確認することによる。
+
+- 条件：region: 全般／対象: 壊死性筋膜炎が疑われる患者
+- 不確実性：LRINECスコアは主に成人での検討に基づいており、本総説は小児の壊死性筋膜炎ではスコア中央値が3.7にとどまった報告を紹介しているため、低値でも本症を否定できない。本カードは診断の手がかりに限定し、治療は既存カードSD-033が担う。
+- 出典：Stevens DL, Bryant AE. Necrotizing Soft-Tissue Infections. N Engl J Med. 2017;377(23):2253-2265.　[DOI 10.1056/NEJMra1600673](https://doi.org/10.1056/NEJMra1600673)　[PMID 29211672](https://pubmed.ncbi.nlm.nih.gov/29211672/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-3-J-⑦（壊死性筋膜炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-091 (id: Jlvnljs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-056&card_id=SD-056&version=c61f927e4f)　（版 `c61f927e4f`）
+
+**[ここまでの 2 件（SD-033〜SD-056）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-033%E3%80%9CSD-056&cards=SD-033%2083f60aaab6%0ASD-056%20c61f927e4f)**
 
 ---
 
@@ -608,7 +648,17 @@
 - 出題基準：医学各論 Ⅲ-3-N-①（単純ヘルペス、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-096 (id: JlvnlkE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-044&card_id=SD-044&version=cf56e45619)　（版 `cf56e45619`）
 
-**[ここまでの 1 件（SD-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-044&cards=SD-044%20cf56e45619)**
+### SD-057　下書き（出典の照合前）
+
+> 単純ヘルペスウイルス（HSV）感染症では、皮膚・粘膜に疼痛や瘙痒を伴う小水疱が群集して生じ、びらん・潰瘍を経て治癒する。ウイルスは知覚神経節に潜伏感染し、発熱や紫外線・ストレスなどを契機に再活性化するため、同じ部位に再発を繰り返すことが多い。治療は抗ウイルス薬が中心で、アシクロビルやそのプロドラッグであるバラシクロビルなどが用いられ、重症例や免疫抑制状態の患者ではアシクロビルの静注投与が行われる。
+
+- 条件：region: 国際／対象: 単純ヘルペス患者
+- 不確実性：出典の本文は購読制で開放的な全文がなく、本カードの記述は抄録で確認できる総説の対象範囲（粘膜皮膚のHSV感染症の病因・症状・管理）に基づく定性的な内容に限った。アシクロビルとバラシクロビルは、いずれも国内で単純疱疹の効能で承認され保険適用がある（PMDAの添付文書で確認）。
+- 出典：Fatahzadeh M, Schwartz RA. Human herpes simplex virus infections: epidemiology, pathogenesis, symptomatology, diagnosis, and management. J Am Acad Dermatol. 2007;57(5):737-763.　[DOI 10.1016/j.jaad.2007.06.027](https://doi.org/10.1016/j.jaad.2007.06.027)　[PMID 17939933](https://pubmed.ncbi.nlm.nih.gov/17939933/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-3-N-①（単純ヘルペス、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-096 (id: JlvnlkE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-057&card_id=SD-057&version=389716d644)　（版 `389716d644`）
+
+**[ここまでの 2 件（SD-044〜SD-057）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-044%E3%80%9CSD-057&cards=SD-044%20cf56e45619%0ASD-057%20389716d644)**
 
 ---
 
@@ -624,7 +674,17 @@
 - 出題基準：医学各論 Ⅲ-3-N-②（カポジ水痘様発疹症、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-096 (id: JlvnlkE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-045&card_id=SD-045&version=8da15d8b52)　（版 `8da15d8b52`）
 
-**[ここまでの 1 件（SD-045）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-045&cards=SD-045%208da15d8b52)**
+### SD-058　下書き（出典の照合前）
+
+> カポジ水痘様発疹症（eczema herpeticum）は、アトピー性皮膚炎の湿疹病変を中心に、群集しない小水疱や膿疱が広範に多発し、2〜7日でびらん化する。発熱、倦怠感、頭痛、リンパ節腫脹などの全身症状を伴い、細菌の二次感染（ブドウ球菌、連鎖球菌）によって悪化しうるほか、ヘルペス脳炎やヘルペス肝炎などの生命を脅かす合併症を来すことがある。治療の標準はアシクロビルの静脈内投与（5〜10 mg/kg、7日間）で、範囲や併存症、免疫状態に応じて用量を調整する。再発性の軽症の増悪ではバラシクロビル内服（1回1000 mg、1日3回、7日間）が用いられることがあり、アシクロビル耐性の場合はホスカルネットが代替となる。
+
+- 条件：region: 国際／対象: アトピー性皮膚炎患者
+- 不確実性：眼合併症（角膜炎など）は本出典の本文に記載を確認できなかったため、本カードには含めていない。アシクロビルとバラシクロビルは国内で単純疱疹の効能で承認され保険適用がある（PMDAの添付文書で確認）が、カポジ水痘様発疹症としての個別の効能・効果ではない。また、静注の用量は出典（海外の総説）の記載であり、国内の添付文書の用法とは別に確認が要る。
+- 出典：Traidl S, Roesner L, Zeitvogel J, Werfel T. Eczema herpeticum in atopic dermatitis. Allergy. 2021;76(10):3017-3027.　[DOI 10.1111/all.14853](https://doi.org/10.1111/all.14853)　[PMID 33844308](https://pubmed.ncbi.nlm.nih.gov/33844308/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-3-N-②（カポジ水痘様発疹症、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-096 (id: JlvnlkE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-058&card_id=SD-058&version=a39c8eb691)　（版 `a39c8eb691`）
+
+**[ここまでの 2 件（SD-045〜SD-058）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-045%E3%80%9CSD-058&cards=SD-045%208da15d8b52%0ASD-058%20a39c8eb691)**
 
 ---
 
@@ -640,7 +700,17 @@
 - 出題基準：医学各論 Ⅲ-3-N-③（尋常性疣贅、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-098 (id: JlvnlkQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-046&card_id=SD-046&version=76edc65d14)　（版 `76edc65d14`）
 
-**[ここまでの 1 件（SD-046）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-046&cards=SD-046%2076edc65d14)**
+### SD-059　下書き（出典の照合前）
+
+> 皮膚疣贅はヒト乳頭腫ウイルス（HPV）が角化細胞に感染し、表皮の肥厚と過角化を生じて数週間から数か月後に可視化する病変で、HPVには150を超える型がある。病型として尋常性疣贅のほか扁平疣贅、足底疣贅、糸状疣贅などがあり、尋常性疣贅の多くはHPV 1、2、4、27、57型、扁平疣贅は3、10型による。足底では鶏眼や胼胝と紛らわしいが、削って詳しく観察することで鑑別できることが多い。治療は、免疫能が保たれた患者では無治療で自然消退を待つことも許容され、治療を行う場合はサリチル酸外用と液体窒素による凍結療法が根拠と推奨の最も強い選択肢である。サリチル酸は角質溶解薬として通常少なくとも3か月程度継続し、効果がなければ凍結療法が選択肢となる。本ガイドラインが引用する集計では、サリチル酸の治癒率は平均49%でプラセボの23%を上回った。
+
+- 条件：region: 英国／対象: 皮膚疣贅の患者
+- 不確実性：英国のガイドラインであり、治療の進め方は日本の診療と異なる場合がある。治癒率の数値（サリチル酸で平均49%、プラセボで23%）は本ガイドライン本文が引用する集計の値である。サリチル酸は国内では50%絆創膏製剤が疣贅・鶏眼・胼胝腫の角質剥離の効能で承認され保険適用がある（PMDAの添付文書で確認）。
+- 出典：Sterling JC, Gibbs S, Haque Hussain SS, Mohd Mustapa MF, et al. British Association of Dermatologists' guidelines for the management of cutaneous warts 2014. Br J Dermatol. 2014;171(4):696-712.　[DOI 10.1111/bjd.13310](https://doi.org/10.1111/bjd.13310)　[PMID 25273231](https://pubmed.ncbi.nlm.nih.gov/25273231/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-3-N-③（尋常性疣贅、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-098 (id: JlvnlkQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-059&card_id=SD-059&version=c9f68b0782)　（版 `c9f68b0782`）
+
+**[ここまでの 2 件（SD-046〜SD-059）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-046%E3%80%9CSD-059&cards=SD-046%2076edc65d14%0ASD-059%20c9f68b0782)**
 
 ---
 
@@ -672,7 +742,27 @@
 - 出題基準：医学各論 Ⅲ-3-P-①（円形脱毛症、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-048&card_id=SD-048&version=c245489633)　（版 `c245489633`）
 
-**[ここまでの 1 件（SD-048）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-048&cards=SD-048%20c245489633)**
+### SD-060　下書き（出典の照合前）
+
+> 日本皮膚科学会の円形脱毛症診療ガイドライン2024では、ステロイド外用療法とステロイド局所注射がいずれも推奨の強さ1（エビデンスの強さB）とされている。ステロイド外用は単発型から融合しない多発型までを対象に、強力以上のクラスの製剤を1日1〜2回用いる。ステロイド局所注射は成人の単発型・多発型で、原則として脱毛範囲が分類S1以下の限局した例に行い、トリアムシノロンアセトニド10 mg/mLを1回総量10 mg程度を目安に4〜6週間隔で注射するもので、小児には原則として行わない。接触免疫療法（SADBE、DPCP）は推奨の強さ2で、脱毛範囲がS2以上の多発型・全頭型・汎発型の固定期に年齢を問わず行ってよいが、保険適用はなく、同意の取得と施設内の手続きが必要である。
+
+- 条件：region: 日本／対象: 円形脱毛症患者
+- 不確実性：推奨の強さとエビデンスの強さは、本ガイドラインのCQ一覧とCQ1（ステロイド局所注射）、CQ2（接触免疫療法）、CQ3（ステロイド外用）の本文で確認した。ステロイド外用薬とトリアムシノロンアセトニドは国内の承認薬だが、円形脱毛症への効能・保険適用の範囲は製剤によって異なるため、個別の製剤については添付文書での確認が要る。接触免疫療法に用いるSADBEとDPCPは保険適用がなく、院内製剤として用いられる（ガイドライン本文の記載）。
+- 出典：日本皮膚科学会 円形脱毛症診療ガイドライン2024. 日本皮膚科学会雑誌. 2024;134(10):2491-2526.　[DOI 10.14924/dermatol.134.2491](https://doi.org/10.14924/dermatol.134.2491)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-3-P-①（円形脱毛症、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-060&card_id=SD-060&version=e86a937753)　（版 `e86a937753`）
+
+### SD-061　下書き（出典の照合前）
+
+> 日本皮膚科学会の円形脱毛症診療ガイドライン2024は、経口JAK阻害薬等の使用を推奨の強さ1（エビデンスの強さA）としているが、行うのは、診療経験の豊富な医師と実施可能な設備のある施設であること、患者が添付文書の適応をすべて満たしベネフィットがリスクを上回ること、治療方針についての共同意思決定が保たれること、の3点をすべて満たす場合に限るとしている。国内ではバリシチニブとリトレシチニブが、脱毛部位が広範囲に及ぶ難治の円形脱毛症に対して承認され保険適用がある。バリシチニブの国際共同試験（BRAVE-AA2、546例）では、投与36週時点で頭皮の脱毛が20%以下（SALTスコア20以下）に達した割合が、4 mg群で35.9%、2 mg群で19.4%であり、プラセボ群の3.3%を上回った。
+
+- 条件：region: 日本／対象: 重症・難治の円形脱毛症患者
+- 不確実性：推奨の条件と試験の数値は、本ガイドラインのCQ6の本文と解説で確認した。バリシチニブ（オルミエント）は2022年6月20日に円形脱毛症（ただし、脱毛部位が広範囲に及ぶ難治の場合に限る）の適応が追加承認された薬剤で、成人が対象であり、通常は1日1回4 mg、状態に応じて2 mgに減量する。開始にあたっては頭皮の脱毛が概ね50%以上に及び約6か月間自然回復がみられないことが条件に含まれる。リトレシチニブ（リットフーロカプセル50 mg）は2023年6月26日に同じ趣旨の適応で承認された薬剤で、成人および12歳以上の小児が対象であり、1日1回50 mgを服用する。いずれも国内で承認され保険適用がある（PMDAの資料で確認）。
+- 出典：日本皮膚科学会 円形脱毛症診療ガイドライン2024. 日本皮膚科学会雑誌. 2024;134(10):2491-2526.　[DOI 10.14924/dermatol.134.2491](https://doi.org/10.14924/dermatol.134.2491)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-3-P-①（円形脱毛症、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-061&card_id=SD-061&version=a78700b963)　（版 `a78700b963`）
+
+**[ここまでの 3 件（SD-048〜SD-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-048%E3%80%9CSD-061&cards=SD-048%20c245489633%0ASD-060%20e86a937753%0ASD-061%20a78700b963)**
 
 ---
 
@@ -721,6 +811,22 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-051&card_id=SD-051&version=1838a5a895)　（版 `1838a5a895`）
 
 **[ここまでの 1 件（SD-051）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-051&cards=SD-051%201838a5a895)**
+
+---
+
+## 水疱性類天疱瘡
+
+### SD-052　下書き（出典の照合前）
+
+> 水疱性類天疱瘡は高齢者に好発する自己免疫性水疱症で、瘙痒を伴う紅斑の上に、破れにくい緊満性水疱とびらんが多発する。診断は、病理組織での表皮下水疱の確認に加え、蛍光抗体直接法で表皮基底膜部へのIgGや補体の線状沈着を認めること、血清中の抗BP180抗体をELISA法などで検出することを組み合わせて行う。
+
+- 条件：region: 日本／対象: 水疱性類天疱瘡患者
+- 不確実性：診断項目は同ガイドラインの診断基準（臨床症状、病理組織所見、免疫学的所見の組み合わせ）に基づく。2023年にDPP-4阻害薬関連の類天疱瘡を扱う補遺版が公開されており、DPP-4阻害薬内服例では抗BP180NC16a抗体が陰性のことがあって、全長BP180を抗原とする測定法などが有用とされる。
+- 出典：Ujiie H, Iwata H, Yamagami J, Nakama T, Aoyama Y, Ikeda S, et al. Japanese guidelines for the management of pemphigoid (including epidermolysis bullosa acquisita). The Journal of Dermatology. 2019;46(12):1102-1135.　[DOI 10.1111/1346-8138.15111](https://doi.org/10.1111/1346-8138.15111)　[PMID 31646663](https://pubmed.ncbi.nlm.nih.gov/31646663/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-3-B-②（水疱性類天疱瘡、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-052&card_id=SD-052&version=c38af0fd70)　（版 `c38af0fd70`）
+
+**[ここまでの 1 件（SD-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-052&cards=SD-052%20c38af0fd70)**
 
 ---
 

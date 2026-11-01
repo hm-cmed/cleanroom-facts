@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 37 件のうち、監修済み 0 件。
+全 40 件のうち、監修済み 0 件。
 
 ## 肥厚性幽門狭窄症
 
@@ -436,7 +436,27 @@
 - 出題基準：医学各論 Ⅵ-12-A-①（先天性食道閉鎖症、b）　コアカリ：PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PE-034&card_id=PE-034&version=0b49bd6ac3)　（版 `0b49bd6ac3`）
 
-**[ここまでの 3 件（PE-032〜PE-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PE-032%E3%80%9CPE-034&cards=PE-032%2060700a1ec0%0APE-033%20528de0d9ba%0APE-034%200b49bd6ac3)**
+### PE-038　下書き（出典の照合前）
+
+> 欧州の専門家コンセンサス（ERNICA）のフォローアップに関する合意では、先天性食道閉鎖症・気管食道瘻の術後は学際的なフォローアッププログラムで経過をみることが基本とされ、フォローアップで扱う25項目について合意が形成された（うち17項目は ESPGHAN-NASPGHAN の声明と一致）。体制面では、症例の集約化、多職種によるアプローチ、患者団体の関与が基本的な枠組みとされた。
+
+- 条件：region: 欧州／対象: 小児
+- 不確実性：専門家コンセンサス文書であり、合意項目の根拠のエビデンスレベルは低いものが多い。主張は抄録で確認した合意の範囲に限り、個別項目の詳細は本文未確認のため含めていない。登録済みの ERNICA の診断・手術編（SRC-4395）とは別文献である。
+- 出典：Dingemann C, Eaton S, Aksnes G, et al. ERNICA Consensus Conference on the Management of Patients with Esophageal Atresia and Tracheoesophageal Fistula: Follow-up and Framework. Eur J Pediatr Surg. 2020;30(6):475-482.　[DOI 10.1055/s-0039-3400284](https://doi.org/10.1055/s-0039-3400284)　[PMID 31777030](https://pubmed.ncbi.nlm.nih.gov/31777030/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-12-A-①（先天性食道閉鎖症、b）　コアカリ：PS-02-12-04 (id: Jli53IM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PE-038&card_id=PE-038&version=c9b3797e86)　（版 `c9b3797e86`）
+
+### PE-039　下書き（出典の照合前）
+
+> 食道閉鎖症・気管食道瘻の小児では、術後の長期合併症として胃食道逆流、嚥下障害、吻合部狭窄、哺乳・摂食の困難などがみられ、ESPGHAN-NASPGHAN のガイドラインはこれらの消化器・栄養面の合併症の評価と治療を36の臨床課題として扱っている。症状のある例では好酸球性食道炎や合併する消化管奇形を除外することも求められ、生活の質への配慮と、成人診療への系統的な移行も課題に含まれる。
+
+- 条件：region: 国際／対象: 小児
+- 不確実性：ガイドラインの文献検索は2014年3月までであり、それ以降の改訂版は確認できなかったため、現行の最新版として扱った。主張は抄録で確認した臨床課題の範囲に限り、個別の推奨の強さや治療の細目は本文未確認のため含めていない。
+- 出典：Krishnan U, Mousa H, Dall'Oglio L, et al. ESPGHAN-NASPGHAN Guidelines for the Evaluation and Treatment of Gastrointestinal and Nutritional Complications in Children With Esophageal Atresia-Tracheoesophageal Fistula. J Pediatr Gastroenterol Nutr. 2016;63(5):550-570.　[DOI 10.1097/MPG.0000000000001401](https://doi.org/10.1097/MPG.0000000000001401)　[PMID 27579697](https://pubmed.ncbi.nlm.nih.gov/27579697/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-12-A-①（先天性食道閉鎖症、b）　コアカリ：PS-02-12-04 (id: Jli53IM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PE-039&card_id=PE-039&version=73e065131c)　（版 `73e065131c`）
+
+**[ここまでの 5 件（PE-032〜PE-039）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PE-032%E3%80%9CPE-039&cards=PE-032%2060700a1ec0%0APE-033%20528de0d9ba%0APE-034%200b49bd6ac3%0APE-038%20c9b3797e86%0APE-039%2073e065131c)**
 
 ---
 
@@ -472,7 +492,17 @@
 - 出題基準：医学各論 Ⅵ-12-G-①（鼠径ヘルニア、a）　コアカリ：PS-02-12-04 (id: Jli53IM)；TBL-01-00-425 (id: JlvnmHI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PE-037&card_id=PE-037&version=fbfc114a27)　（版 `fbfc114a27`）
 
-**[ここまでの 3 件（PE-035〜PE-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PE-035%E3%80%9CPE-037&cards=PE-035%209551997967%0APE-036%204ba1840fde%0APE-037%20fbfc114a27)**
+### PE-040　下書き（出典の照合前）
+
+> 小児の鼠径ヘルニアに対する腹腔鏡下経皮的腹膜外閉鎖法（LPEC）は、臍部から腹腔鏡を挿入し、専用の針で内鼠径輪を腹膜外に周回縫合して閉鎖する手技である。日本の3施設で生後18日から19歳の711例・972件に行われた報告では、手術時間は片側・両側とも10〜30分で、術中合併症はなく、経過観察5か月〜10年での再発率は0.73%であり、術後の精索水腫・精巣萎縮もみられなかった。
+
+- 条件：region: 日本／対象: 小児
+- 不確実性：開発施設を含む日本の3施設の症例集積であり、比較試験ではないため、他の術式との優劣はこの出典からは言えない。数値は抄録で確認した範囲である。
+- 出典：Takehara H, Yakabe S, Kameoka K. Laparoscopic percutaneous extraperitoneal closure for inguinal hernia in children: clinical outcome of 972 repairs done in 3 pediatric surgical institutions. J Pediatr Surg. 2006;41(12):1999-2003.　[DOI 10.1016/j.jpedsurg.2006.08.032](https://doi.org/10.1016/j.jpedsurg.2006.08.032)　[PMID 17161191](https://pubmed.ncbi.nlm.nih.gov/17161191/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-12-G-①（鼠径ヘルニア、a）　コアカリ：PS-02-12-04 (id: Jli53IM)；TBL-01-00-425 (id: JlvnmHI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PE-040&card_id=PE-040&version=52aa9f5be2)　（版 `52aa9f5be2`）
+
+**[ここまでの 4 件（PE-035〜PE-040）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PE-035%E3%80%9CPE-040&cards=PE-035%209551997967%0APE-036%204ba1840fde%0APE-037%20fbfc114a27%0APE-040%2052aa9f5be2)**
 
 ---
 

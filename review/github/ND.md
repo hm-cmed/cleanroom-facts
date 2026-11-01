@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 56 件のうち、監修済み 0 件。
+全 60 件のうち、監修済み 0 件。
 
 ## Alzheimer型認知症
 
@@ -628,16 +628,6 @@
 
 ## 多発性硬化症
 
-### ND-050　下書き（出典の照合前）
-
-> 2017年改訂McDonald基準では、典型的なclinically isolated syndromeを呈し空間的多発が臨床的またはMRIで示される患者では、髄液特異的オリゴクローナルバンドの存在をもって時間的多発を代替し、多発性硬化症と診断できる。
-
-- 条件：population: clinically isolated syndromeを呈する患者／region: 国際
-- 不確実性：2024年改訂のMcDonald基準がLancet Neurology誌に2025年公表されており、視神経が空間的多発の第5の部位に追加され、κ遊離軽鎖指数がオリゴクローナルバンドの代替として認められた。本カードは2017年基準に基づくもので、最新版への切り替えは取り込み側の判断を要する。
-- 出典：Thompson AJ, Banwell BL, Barkhof F, et al. Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria. Lancet Neurol. 2018;17(2):162-173　[DOI 10.1016/S1474-4422(17)30470-2](https://doi.org/10.1016/S1474-4422(17)30470-2)　[PMID 29275977](https://pubmed.ncbi.nlm.nih.gov/29275977/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅸ-4-H-①（多発性硬化症、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-036 (id: JlvnldE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-050&card_id=ND-050&version=49ead48ce3)　（版 `49ead48ce3`）
-
 ### ND-051　下書き（出典の照合前）
 
 > 日本では、多発性硬化症の疾患修飾薬として、インターフェロンβ製剤、フィンゴリモド、フマル酸ジメチル、ナタリズマブ、シポニモド、オファツムマブ、オクレリズマブが承認されており、診療ガイドライン2023が疾患活動性に応じた選択を示している。
@@ -648,7 +638,57 @@
 - 出題基準：医学各論 Ⅸ-4-H-①（多発性硬化症、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-036 (id: JlvnldE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-051&card_id=ND-051&version=6acf95c4fe)　（版 `6acf95c4fe`）
 
-**[ここまでの 2 件（ND-050〜ND-051）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-050%E3%80%9CND-051&cards=ND-050%2049ead48ce3%0AND-051%206acf95c4fe)**
+### ND-057　下書き（出典の照合前）
+
+> 2024年改訂McDonald基準では、典型的な clinically isolated syndrome を呈し空間的多発が臨床的またはMRIで示される患者では、髄液特異的オリゴクローナルバンドの存在、またはκ遊離軽鎖指数の陽性をもって時間的多発を代替し、多発性硬化症と診断できる。
+
+- 条件：region: 国際／対象: clinically isolated syndromeを呈する患者
+- 不確実性：旧カード（ND-050、2017年改訂基準）の主張は2024年改訂でも維持され、髄液陽性の定義にκ遊離軽鎖指数が加わった形で書き換えた。κ遊離軽鎖指数の具体的なカットオフ値など細部は、基準論文の本文（購読制）で確認できていない。
+- 出典：Montalban X, Lebrun-Frénay C, Oh J, et al. Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria. Lancet Neurol. 2025;24(10):850-865.　[DOI 10.1016/S1474-4422(25)00270-4](https://doi.org/10.1016/S1474-4422(25)00270-4)　[PMID 40975101](https://pubmed.ncbi.nlm.nih.gov/40975101/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅸ-4-H-①（多発性硬化症、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-036 (id: JlvnldE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-057&card_id=ND-057&version=853dc11f88)　（版 `853dc11f88`）
+
+### ND-058　下書き（出典の照合前）
+
+> 2024年改訂McDonald基準では、空間的多発の評価部位に視神経が第5の部位として加わった。空間的多発は、脳室周囲、皮質・皮質近傍、テント下、脊髄、視神経の5部位のうち2部位以上に病変が示されることで満たされる。視神経病変は、眼窩MRI、光干渉断層撮影（OCT）、視覚誘発電位（VEP）で評価できる。
+
+- 条件：region: 国際／対象: 多発性硬化症が疑われる患者
+- 不確実性：視神経を第5の部位とすることと評価法（MRI・OCT・VEP）は、基準論文の抄録と解説で確認した。評価法ごとの判定の細部は基準論文の本文（購読制）で確認できていない。
+- 出典：Montalban X, Lebrun-Frénay C, Oh J, et al. Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria. Lancet Neurol. 2025;24(10):850-865.　[DOI 10.1016/S1474-4422(25)00270-4](https://doi.org/10.1016/S1474-4422(25)00270-4)　[PMID 40975101](https://pubmed.ncbi.nlm.nih.gov/40975101/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅸ-4-H-①（多発性硬化症、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-036 (id: JlvnldE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-058&card_id=ND-058&version=e0f6917f36)　（版 `e0f6917f36`）
+
+### ND-059　下書き（出典の照合前）
+
+> 2024年改訂McDonald基準では、診断経路が拡張された。典型的な臨床像で空間的多発の5部位中4部位以上に病変がある場合は、時間的多発の証明なしに多発性硬化症と診断できる。clinically isolated syndrome では、髄液陽性と central vein sign、髄液陽性と paramagnetic rim lesion、時間的多発と central vein sign、時間的多発と paramagnetic rim lesion の各組み合わせでも、再発寛解型多発性硬化症と診断できる。
+
+- 条件：region: 国際／対象: 多発性硬化症が疑われる患者
+- 不確実性：4部位以上の場合に時間的多発を要しないことは基準論文の抄録で確認した。各組み合わせの適用条件の細部は解説・総説で確認した範囲であり、基準論文の本文（購読制）の照合はしていない。
+- 出典：Montalban X, Lebrun-Frénay C, Oh J, et al. Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria. Lancet Neurol. 2025;24(10):850-865.　[DOI 10.1016/S1474-4422(25)00270-4](https://doi.org/10.1016/S1474-4422(25)00270-4)　[PMID 40975101](https://pubmed.ncbi.nlm.nih.gov/40975101/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅸ-4-H-①（多発性硬化症、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-036 (id: JlvnldE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-059&card_id=ND-059&version=eb56b5f0da)　（版 `eb56b5f0da`）
+
+### ND-060　下書き（出典の照合前）
+
+> 2024年改訂McDonald基準では、放射線学的孤立症候群（radiologically isolated syndrome）でも多発性硬化症と診断できるようになった。空間的多発を満たしたうえで、central vein sign、髄液陽性（オリゴクローナルバンドまたはκ遊離軽鎖指数の陽性）、時間的多発のいずれかを伴う場合に診断できる。
+
+- 条件：region: 国際／対象: 放射線学的孤立症候群の患者
+- 不確実性：放射線学的孤立症候群で診断できることと付帯条件の組み合わせは、基準論文の抄録と解説で確認した。central vein sign の個数の基準など適用条件の細部は解説経由の確認であり、基準論文の本文（購読制）の照合はしていない。
+- 出典：Montalban X, Lebrun-Frénay C, Oh J, et al. Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria. Lancet Neurol. 2025;24(10):850-865.　[DOI 10.1016/S1474-4422(25)00270-4](https://doi.org/10.1016/S1474-4422(25)00270-4)　[PMID 40975101](https://pubmed.ncbi.nlm.nih.gov/40975101/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅸ-4-H-①（多発性硬化症、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-036 (id: JlvnldE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-060&card_id=ND-060&version=1d521931fe)　（版 `1d521931fe`）
+
+### ND-061　下書き（出典の照合前）
+
+> 2024年改訂McDonald基準では、central vein sign と paramagnetic rim lesions が、多発性硬化症の特異度を高める補助所見として位置づけられた。central vein sign の陽性は、中心静脈を伴う病変が6個以上あること（Select-6）で判定する。
+
+- 条件：region: 国際／対象: 多発性硬化症が疑われる患者
+- 不確実性：補助所見としての位置づけは基準論文の抄録と解説で確認した。Select-6 の「6個以上」という判定の数値は解説経由の確認であり、基準論文の本文（購読制）の照合はしていない。
+- 出典：Montalban X, Lebrun-Frénay C, Oh J, et al. Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria. Lancet Neurol. 2025;24(10):850-865.　[DOI 10.1016/S1474-4422(25)00270-4](https://doi.org/10.1016/S1474-4422(25)00270-4)　[PMID 40975101](https://pubmed.ncbi.nlm.nih.gov/40975101/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅸ-4-H-①（多発性硬化症、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-036 (id: JlvnldE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-061&card_id=ND-061&version=5c8d9e3876)　（版 `5c8d9e3876`）
+
+**[ここまでの 6 件（ND-051〜ND-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-051%E3%80%9CND-061&cards=ND-051%206acf95c4fe%0AND-057%20853dc11f88%0AND-058%20e0f6917f36%0AND-059%20eb56b5f0da%0AND-060%201d521931fe%0AND-061%205c8d9e3876)**
 
 ---
 

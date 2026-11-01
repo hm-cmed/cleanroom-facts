@@ -4080,3 +4080,38 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: AB-116
+  domain: AB
+  subdomain: 後腹膜腫瘍
+  assertion:
+    plain_statement_ja: 原発性後腹膜肉腫の治療は、専門施設で多診療科チームのもとに行うことが前提で、標準治療は腫瘍と癒着・近接する臓器を含めた一括（コンパートメント）切除である。再発様式は組織型で異なり、脂肪肉腫では局所再発が中心で死因ともなり、平滑筋肉腫では遠隔転移のリスクが高い。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4441
+    source: 'Swallow CJ, Strauss DC, Bonvalot S, et al. Management of Primary Retroperitoneal Sarcoma (RPS) in the Adult: An Updated Consensus Approach from the Transatlantic Australasian RPS Working Group. Ann Surg Oncol. 2021;28(12):7873-7888.'
+    doi: 10.1245/s10434-021-09654-z
+    pmid: '33852100'
+    pmcid: PMC9257997
+    url: https://doi.org/10.1245/s10434-021-09654-z
+    source_license: テキストマイニング用ライセンスのみで CC 表示なし（Crossref の license 欄で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: TARPSWG コンセンサス（Ann Surg Oncol 2021）の範囲の記述で、海外の専門施設の体制を前提とする。鑑別にはリンパ腫が含まれ、生検でリンパ腫と判明した場合は化学療法が治療の主体となる。疾患像と診断は AB-115 が担当する。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-9-C-④（後腹膜腫瘍、c）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）

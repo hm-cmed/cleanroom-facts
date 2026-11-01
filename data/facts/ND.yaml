@@ -1793,12 +1793,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: ND-057
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 廃止：出典の新しい版にもとづく作り直し（第61回、提案B の区分C）。後継は ND-057（三原の承認）
 - id: ND-051
   domain: ND
   subdomain: 多発性硬化症
@@ -2012,3 +2015,181 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+- id: ND-057
+  domain: ND
+  subdomain: 多発性硬化症
+  assertion:
+    plain_statement_ja: 2024年改訂McDonald基準では、典型的な clinically isolated syndrome を呈し空間的多発が臨床的またはMRIで示される患者では、髄液特異的オリゴクローナルバンドの存在、またはκ遊離軽鎖指数の陽性をもって時間的多発を代替し、多発性硬化症と診断できる。
+    condition:
+      region: 国際
+      対象: clinically isolated syndromeを呈する患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4433
+    source: 'Montalban X, Lebrun-Frénay C, Oh J, et al. Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria. Lancet Neurol. 2025;24(10):850-865.'
+    doi: 10.1016/S1474-4422(25)00270-4
+    pmid: '40975101'
+    pmcid: null
+    url: https://doi.org/10.1016/S1474-4422(25)00270-4
+    source_license: 購読誌（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 旧カード（ND-050、2017年改訂基準）の主張は2024年改訂でも維持され、髄液陽性の定義にκ遊離軽鎖指数が加わった形で書き換えた。κ遊離軽鎖指数の具体的なカットオフ値など細部は、基準論文の本文（購読制）で確認できていない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-4-H-①（多発性硬化症、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-036 (id: JlvnldE)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: ND-050 の作り直しとして作成（第61回）。ND-050 は廃止
+- id: ND-058
+  domain: ND
+  subdomain: 多発性硬化症
+  assertion:
+    plain_statement_ja: 2024年改訂McDonald基準では、空間的多発の評価部位に視神経が第5の部位として加わった。空間的多発は、脳室周囲、皮質・皮質近傍、テント下、脊髄、視神経の5部位のうち2部位以上に病変が示されることで満たされる。視神経病変は、眼窩MRI、光干渉断層撮影（OCT）、視覚誘発電位（VEP）で評価できる。
+    condition:
+      region: 国際
+      対象: 多発性硬化症が疑われる患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4433
+    source: 'Montalban X, Lebrun-Frénay C, Oh J, et al. Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria. Lancet Neurol. 2025;24(10):850-865.'
+    doi: 10.1016/S1474-4422(25)00270-4
+    pmid: '40975101'
+    pmcid: null
+    url: https://doi.org/10.1016/S1474-4422(25)00270-4
+    source_license: 購読誌（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 視神経を第5の部位とすることと評価法（MRI・OCT・VEP）は、基準論文の抄録と解説で確認した。評価法ごとの判定の細部は基準論文の本文（購読制）で確認できていない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-4-H-①（多発性硬化症、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-036 (id: JlvnldE)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+- id: ND-059
+  domain: ND
+  subdomain: 多発性硬化症
+  assertion:
+    plain_statement_ja: 2024年改訂McDonald基準では、診断経路が拡張された。典型的な臨床像で空間的多発の5部位中4部位以上に病変がある場合は、時間的多発の証明なしに多発性硬化症と診断できる。clinically isolated syndrome では、髄液陽性と central vein sign、髄液陽性と paramagnetic rim lesion、時間的多発と central vein sign、時間的多発と paramagnetic rim lesion の各組み合わせでも、再発寛解型多発性硬化症と診断できる。
+    condition:
+      region: 国際
+      対象: 多発性硬化症が疑われる患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4433
+    source: 'Montalban X, Lebrun-Frénay C, Oh J, et al. Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria. Lancet Neurol. 2025;24(10):850-865.'
+    doi: 10.1016/S1474-4422(25)00270-4
+    pmid: '40975101'
+    pmcid: null
+    url: https://doi.org/10.1016/S1474-4422(25)00270-4
+    source_license: 購読誌（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 4部位以上の場合に時間的多発を要しないことは基準論文の抄録で確認した。各組み合わせの適用条件の細部は解説・総説で確認した範囲であり、基準論文の本文（購読制）の照合はしていない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-4-H-①（多発性硬化症、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-036 (id: JlvnldE)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+- id: ND-060
+  domain: ND
+  subdomain: 多発性硬化症
+  assertion:
+    plain_statement_ja: 2024年改訂McDonald基準では、放射線学的孤立症候群（radiologically isolated syndrome）でも多発性硬化症と診断できるようになった。空間的多発を満たしたうえで、central vein sign、髄液陽性（オリゴクローナルバンドまたはκ遊離軽鎖指数の陽性）、時間的多発のいずれかを伴う場合に診断できる。
+    condition:
+      region: 国際
+      対象: 放射線学的孤立症候群の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4433
+    source: 'Montalban X, Lebrun-Frénay C, Oh J, et al. Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria. Lancet Neurol. 2025;24(10):850-865.'
+    doi: 10.1016/S1474-4422(25)00270-4
+    pmid: '40975101'
+    pmcid: null
+    url: https://doi.org/10.1016/S1474-4422(25)00270-4
+    source_license: 購読誌（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 放射線学的孤立症候群で診断できることと付帯条件の組み合わせは、基準論文の抄録と解説で確認した。central vein sign の個数の基準など適用条件の細部は解説経由の確認であり、基準論文の本文（購読制）の照合はしていない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-4-H-①（多発性硬化症、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-036 (id: JlvnldE)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+- id: ND-061
+  domain: ND
+  subdomain: 多発性硬化症
+  assertion:
+    plain_statement_ja: 2024年改訂McDonald基準では、central vein sign と paramagnetic rim lesions が、多発性硬化症の特異度を高める補助所見として位置づけられた。central vein sign の陽性は、中心静脈を伴う病変が6個以上あること（Select-6）で判定する。
+    condition:
+      region: 国際
+      対象: 多発性硬化症が疑われる患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4433
+    source: 'Montalban X, Lebrun-Frénay C, Oh J, et al. Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria. Lancet Neurol. 2025;24(10):850-865.'
+    doi: 10.1016/S1474-4422(25)00270-4
+    pmid: '40975101'
+    pmcid: null
+    url: https://doi.org/10.1016/S1474-4422(25)00270-4
+    source_license: 購読誌（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 補助所見としての位置づけは基準論文の抄録と解説で確認した。Select-6 の「6個以上」という判定の数値は解説経由の確認であり、基準論文の本文（購読制）の照合はしていない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-4-H-①（多発性硬化症、b）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-036 (id: JlvnldE)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）

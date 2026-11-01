@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 30 件のうち、監修済み 0 件。
+全 37 件のうち、監修済み 0 件。
 
 ## アトピー性皮膚炎
 
@@ -140,22 +140,6 @@
 
 ---
 
-## 遺伝性血管性浮腫
-
-### SK-013　下書き（出典の照合前）
-
-> 遺伝性血管性浮腫は、C1インヒビターの欠損（1型）または機能不全（2型）によるまれな疾患である。国際ガイドライン（WAO/EAACI、2021年改訂版）では、発作に対しては静脈内C1インヒビター製剤、エカランタイド、またはイカチバントによる早期のオンデマンド治療が推奨され、早期に治療するほど速やかに改善する。上気道に及ぶ発作は特に速やかな治療を要する。長期予防としては、皮下C1インヒビター製剤、ラナデルマブ、ベロトラルスタットなどが選択肢となる。
-
-- 条件：region: 国際／study: 国際ガイドライン（WAO/EAACI、2021年改訂版）
-- 不確実性：薬剤（C1インヒビター製剤、イカチバント、エカランタイド、ラナデルマブ、ベロトラルスタット）の国内承認・保険適用は未確認であり、承認状況は地域により異なる（エカランタイドなど）。推奨事項と薬剤名はガイドライン全文（PMC の WAOJ 版）で確認した。診断の検査手順の細目は本カードには含めていない。
-- 出典：Maurer M, Magerl M, Betschel S, Aberer W, et al. The international WAO/EAACI guideline for the management of hereditary angioedema - The 2021 revision and update. World Allergy Organization Journal. 2022;15(3):100627.　[DOI 10.1016/j.waojou.2022.100627](https://doi.org/10.1016/j.waojou.2022.100627)　[PMID 35497649](https://pubmed.ncbi.nlm.nih.gov/35497649/)（区分 RESTRICTED）
-- 出題基準：医学各論 Ⅲ-1-B-①（血管性浮腫、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-013&card_id=SK-013&version=4061776dbf)　（版 `4061776dbf`）
-
-**[ここまでの 1 件（SK-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-013&cards=SK-013%204061776dbf)**
-
----
-
 ## 結節性痒疹
 
 ### SK-014　下書き（出典の照合前）
@@ -168,7 +152,17 @@
 - 出題基準：医学各論 Ⅲ-1-C-①（結節性痒疹、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-064 (id: Jlvnlmk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-014&card_id=SK-014&version=f3727af6a0)　（版 `f3727af6a0`）
 
-**[ここまでの 1 件（SK-014）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-014&cards=SK-014%20f3727af6a0)**
+### SK-035　下書き（出典の照合前）
+
+> 結節性痒疹は慢性痒疹の一病型で、強い瘙痒を伴う丘疹（1 cm未満）・結節（1 cm以上）・局面を呈し、瘙痒は他の慢性瘙痒性疾患より強く、睡眠障害を伴うことが多い。診断は臨床像による。背景疾患の検索として、血算・白血球分画、CRP、肝機能（AST、ALT、γ-GTP、ALP）、腎機能（クレアチニン、eGFR）、LDH、TSHを調べ、瘙痒の経過が1年未満の場合やB症状（発熱、6か月で10%を超える体重減少、盗汗）がある場合は悪性腫瘍を除外するための画像検査（リンパ節・腹部の超音波検査、胸部X線など）を行う。従来治療は段階的に進め、第1段階は外用コルチコステロイド、外用カルシニューリン阻害薬、H1抗ヒスタミン薬、第2段階は外用カプサイシン、コルチコステロイドの病変内注射、紫外線療法（ナローバンドUVB、PUVA）、第3段階は神経障害性の要素にはガバペンチン・プレガバリンや抗うつ薬、炎症性の要素にはシクロスポリンやメトトレキサートを用いる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：臨床像・背景疾患検索の検査項目・段階的治療は出典の本文で確認した。外用カプサイシン製剤は国内では承認された医療用医薬品がない。その他の薬剤（外用コルチコステロイド、外用タクロリムス、H1抗ヒスタミン薬、ガバペンチン、プレガバリン、シクロスポリン、メトトレキサート）はいずれも国内で承認された医薬品だが、結節性痒疹自体を適応とする承認ではなく、各薬剤の承認適応の範囲での使用が前提となる。既存のSK-014（慢性痒疹の定義とデュピルマブ等の生物学的製剤）と重複しないよう、本カードは臨床像・背景検索・従来治療に絞った。
+- 出典：Müller S, Zeidler C, Ständer S. Chronic Prurigo Including Prurigo Nodularis: New Insights and Treatments. American Journal of Clinical Dermatology. 2024;25(1):15-33.　[DOI 10.1007/s40257-023-00818-z](https://doi.org/10.1007/s40257-023-00818-z)　[PMID 37717255](https://pubmed.ncbi.nlm.nih.gov/37717255/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-1-C-①（結節性痒疹、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-064 (id: Jlvnlmk)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-035&card_id=SK-035&version=ad0db68f81)　（版 `ad0db68f81`）
+
+**[ここまでの 2 件（SK-014〜SK-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-014%E3%80%9CSK-035&cards=SK-014%20f3727af6a0%0ASK-035%20ad0db68f81)**
 
 ---
 
@@ -264,7 +258,17 @@
 - 出題基準：医学各論 Ⅲ-1-E-②（結節性紅斑、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-073 (id: JlvnlhI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-020&card_id=SK-020&version=742596dce6)　（版 `742596dce6`）
 
-**[ここまでの 1 件（SK-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-020&cards=SK-020%20742596dce6)**
+### SK-039　下書き（出典の照合前）
+
+> 結節性紅斑の治療は、基礎疾患が同定されればその治療を行い、原因薬剤が疑われれば可能な範囲で中止することが前提となる。対症療法として圧迫包帯と下肢挙上が浮腫と疼痛の軽減に用いられる。薬物療法ではNSAIDs（インドメタシン1日100-150 mg、ナプロキセン1日500-1,000 mgなど）が用いられるが、炎症性腸疾患の病勢を悪化させることがあるため注意する。難治例にはヨウ化カリウム（1日300-900 mg）が、Behçet病に伴うものなどにはコルヒチン（1日1-2 mg）やダプソン（1日50-75 mg）が選択肢となり、重症例では感染症や悪性腫瘍を除外したうえで経口コルチコステロイド（プレドニゾン1日40-60 mg程度）が用いられる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：薬剤の用量は出典の治療の表から読み取り、本文の記述と併せて確認した。インドメタシン、ナプロキセン、コルヒチン、ダプソン、プレドニゾンはいずれも国内で承認された医薬品である。ヨウ化カリウムは国内で承認された医薬品だが結節性紅斑への適応はなく、本カードの用量は海外の総説に基づく。既存のSK-020（定義・原因・基礎疾患検索・自然経過）と重複しないよう、本カードは治療に絞った。
+- 出典：Pérez-Garza DM, Chavez-Alvarez S, Ocampo-Candiani J, Gomez-Flores M. Erythema Nodosum: A Practical Approach and Diagnostic Algorithm. American Journal of Clinical Dermatology. 2021;22(3):367-378.　[DOI 10.1007/s40257-021-00592-w](https://doi.org/10.1007/s40257-021-00592-w)　[PMID 33683567](https://pubmed.ncbi.nlm.nih.gov/33683567/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-1-E-②（結節性紅斑、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-073 (id: JlvnlhI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-039&card_id=SK-039&version=1635a15160)　（版 `1635a15160`）
+
+**[ここまでの 2 件（SK-020〜SK-039）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-020%E3%80%9CSK-039&cards=SK-020%20742596dce6%0ASK-039%201635a15160)**
 
 ---
 
@@ -280,7 +284,27 @@
 - 出題基準：医学各論 Ⅲ-1-D-①（Stevens-Johnson症候群、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-078 (id: Jlvnlh8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-021&card_id=SK-021&version=a6737bc054)　（版 `a6737bc054`）
 
-**[ここまでの 1 件（SK-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-021&cards=SK-021%20a6737bc054)**
+### SK-036　下書き（出典の照合前）
+
+> Stevens-Johnson症候群（SJS）は、主に薬剤を原因として発症する重症の薬疹で、高熱と、眼・口唇・外陰部などの皮膚粘膜移行部の重症粘膜病変、表皮壊死によるびらん・水疱を伴う紅斑を特徴とする。診断の主要所見は、出血性びらんを伴う重症の粘膜病変、全身に広がる表皮壊死によるびらん・水疱（体表面積の10%未満）、発熱、病理組織学的な表皮壊死であり、多形滲出性紅斑重症型は除外される。分類は、日本では表皮剥離面積が体表面積の10%未満をSJS、10%以上を中毒性表皮壊死症（TEN）とし、国際分類では10%未満がSJS、10%以上30%未満がSJS/TENオーバーラップ、30%以上がTENとされる。国内調査におけるSJSの被疑薬は抗菌薬（16.3%）、解熱鎮痛薬（14.6%）、抗てんかん薬（14.0%）の順に多く、薬剤のほかマイコプラズマやウイルス感染も発症契機となりうる。臨床像として高熱、全身倦怠感、食欲不振を伴い、滲出性紅斑や紫紅色斑、水疱、口唇・口腔の出血性痂皮、結膜充血・偽膜形成・眼表面の上皮欠損などの眼症状を呈し、上気道や消化管の粘膜に及ぶこともある。
+
+- 条件：region: 日本／対象: 成人および小児
+- 不確実性：分類・診断の主要所見・臨床像は出典の本文で、被疑薬の割合は出典が引用する国内調査の値として確認した。原因薬剤として挙げた抗菌薬・解熱鎮痛薬・抗てんかん薬はいずれも国内で承認された医薬品であり、その承認・保険適用の有無は本カードの論点ではない（重症薬疹の原因としての位置づけ）。同ガイドラインには2025年の補遺があるが、本カードは2016年版の本文で確認した範囲に限る。既存のSK-021（米国の疫学・死亡）と重複しないよう、本カードは定義・分類・原因・臨床像に絞った。
+- 出典：重症多形滲出性紅斑ガイドライン作成委員会. 日本皮膚科学会ガイドライン 重症多形滲出性紅斑 スティーヴンス・ジョンソン症候群・中毒性表皮壊死症診療ガイドライン. 日本皮膚科学会雑誌. 2016;126(9):1637-1685.　[リンク](https://www.dermatol.or.jp/uploads/uploads/files/EM%20major(1).pdf)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-1-D-①（Stevens-Johnson症候群、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-078 (id: Jlvnlh8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-036&card_id=SK-036&version=fe4a495a7d)　（版 `fe4a495a7d`）
+
+### SK-037　下書き（出典の照合前）
+
+> SJSおよびTENの治療の第一歩は被疑薬の速やかな中止である。治療は皮膚科専門医のいる入院施設で行い、輸液・栄養管理などの全身管理（TENでは熱傷に準じた管理）、進行する炎症の抑制、皮膚・粘膜病変の感染予防、厳密な眼科的管理を原則とする。第一選択は早期の副腎皮質ステロイド全身投与で、発症後おおよそ7日以内に開始し、プレドニゾロン換算で中等症0.5-1.0 mg/kg/日、重症1-2 mg/kg/日を用い、重症例・急速進行例や重症の眼症状がある場合はメチルプレドニゾロン500-1,000 mg/日のパルス療法を3日間行う。補助療法としてヒト免疫グロブリン400 mg/kg/日を5日間投与する大量静注療法があり、ステロイドや免疫グロブリンで効果が得られない場合やステロイドの使用が難しい場合には血漿交換を行う。皮膚の局所管理は熱傷に準じて無菌的に行い、感染のない水疱蓋は早期には除去しない。眼表面の上皮欠損や偽膜がある例は眼科的に重症であり、0.1%ベタメタゾン点眼・眼軟膏を1日6-10回と抗菌薬点眼を行う。
+
+- 条件：region: 日本／対象: 成人および小児
+- 不確実性：治療原則と用量は出典の診療ガイドライン（2016年の治療指針を含む）の本文で確認した。副腎皮質ステロイド（プレドニゾロン、メチルプレドニゾロン、ベタメタゾン）はいずれも国内で承認された医薬品である。ヒト免疫グロブリン製剤には国内でSJS・TEN（ステロイド剤で効果不十分な場合）の適応がある。同ガイドラインには2025年の補遺があるが、本カードは2016年版の本文で確認した範囲に限る。
+- 出典：重症多形滲出性紅斑ガイドライン作成委員会. 日本皮膚科学会ガイドライン 重症多形滲出性紅斑 スティーヴンス・ジョンソン症候群・中毒性表皮壊死症診療ガイドライン. 日本皮膚科学会雑誌. 2016;126(9):1637-1685.　[リンク](https://www.dermatol.or.jp/uploads/uploads/files/EM%20major(1).pdf)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-1-D-①（Stevens-Johnson症候群、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-078 (id: Jlvnlh8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-037&card_id=SK-037&version=0411b542c1)　（版 `0411b542c1`）
+
+**[ここまでの 3 件（SK-021〜SK-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-021%E3%80%9CSK-037&cards=SK-021%20a6737bc054%0ASK-036%20fe4a495a7d%0ASK-037%200411b542c1)**
 
 ---
 
@@ -312,7 +336,17 @@
 - 出題基準：医学各論 Ⅲ-1-D-③（薬剤性過敏症症候群<drug-induced hypersensitivity syndrome>、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-080 (id: JlvnliI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-023&card_id=SK-023&version=32204d0d1b)　（版 `32204d0d1b`）
 
-**[ここまでの 1 件（SK-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-023&cards=SK-023%2032204d0d1b)**
+### SK-038　下書き（出典の照合前）
+
+> 薬剤性過敏症症候群（DiHS）は、限られた種類の薬剤により発症する重症薬疹である。日本の診断基準は、(1) 限られた薬剤の投与開始後3週以降に生じる斑状丘疹状の皮疹、(2) 原因薬剤の中止後も遷延する臨床症状、(3) 38℃を超える発熱、(4) 肝障害（ALT 100 U/L超）などの臓器障害、(5) 白血球異常（白血球増多 11×10⁹/L超、異型リンパ球 5%超、好酸球増多 1.5×10⁹/L超のうち1つ以上）、(6) リンパ節腫脹、(7) HHV-6の再活性化、の7項目からなり、7項目すべてを満たすものを典型DiHS、(1)から(5)の5項目を満たすものを非典型DiHSとする。初期には顔面・眼窩周囲の浮腫が特徴的で、リンパ節腫脹は頸部・腋窩・鼠径部に多い。原因となりやすい薬剤はカルバマゼピン、フェニトイン、フェノバルビタール、ゾニサミド、メキシレチン、ラモトリギン、ダプソン、サラゾスルファピリジン、アロプリノール、ミノサイクリンなどであり、抗てんかん薬が中心である。治療の中心は全身性コルチコステロイド投与であり、多くの症例で有効だが、一部に治療抵抗性の症例がある。
+
+- 条件：region: 日本／対象: 成人および小児
+- 不確実性：診断基準は出典の本文の表（日本のコンセンサス診断基準）、原因薬剤は出典の本文の表（DiHS/DRESSを起こしやすい薬剤の一覧）から読み取り、治療は出典の結論部で確認した。原因薬剤として挙げた薬剤（カルバマゼピン、フェニトイン、フェノバルビタール、ゾニサミド、メキシレチン、ラモトリギン、ダプソン、サラゾスルファピリジン、アロプリノール、ミノサイクリン）はいずれも国内で承認された医薬品であり、その承認状況は本カードの論点ではない（重症薬疹の原因薬剤としての位置づけ）。治療に挙げた全身性コルチコステロイドも国内で承認された医薬品である。既存のSK-023（DRESSと同一概念であること、ウイルス再活性化、合併症、重症度スコア）と重複しないよう、本カードは診断基準・原因薬剤・治療に絞った。
+- 出典：Shiohara T, Mizukawa Y. Drug-induced hypersensitivity syndrome (DiHS)/drug reaction with eosinophilia and systemic symptoms (DRESS): An update in 2019. Allergol Int. 2019;68(3):301-308.　[DOI 10.1016/j.alit.2019.03.006](https://doi.org/10.1016/j.alit.2019.03.006)　[PMID 31000444](https://pubmed.ncbi.nlm.nih.gov/31000444/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-1-D-③（薬剤性過敏症症候群<drug-induced hypersensitivity syndrome>、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-080 (id: JlvnliI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-038&card_id=SK-038&version=3cf95b2b74)　（版 `3cf95b2b74`）
+
+**[ここまでの 2 件（SK-023〜SK-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-023%E3%80%9CSK-038&cards=SK-023%2032204d0d1b%0ASK-038%203cf95b2b74)**
 
 ---
 
@@ -360,7 +394,17 @@
 - 出題基準：医学各論 Ⅲ-1-G-①（血栓性静脈炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-026&card_id=SK-026&version=0e08a924ed)　（版 `0e08a924ed`）
 
-**[ここまでの 1 件（SK-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-026&cards=SK-026%200e08a924ed)**
+### SK-040　下書き（出典の照合前）
+
+> 表在性静脈血栓症（血栓性静脈炎）は、表在静脈に血栓が形成され周囲に炎症を伴う病態で、多くは静脈瘤のある静脈に自然発症し、疼痛と圧痛を伴う索状の硬結として現れ、発赤と熱感を伴って大伏在静脈の走行に沿ってみられることが多い。良性疾患とみなされがちだが、前向き観察研究（POST）では診断時点で約25%に深部静脈系への血栓の進展または肺塞栓症が既にみられ、3か月以内に約10%が血栓塞栓性の合併症を生じたとされ、深部静脈との接合部に近い病変、広範な血栓、悪性腫瘍に伴うものではリスクが高い。診断には下肢全体の超音波検査で血栓の範囲を確認し、無症候性の深部静脈血栓症を除外することが推奨される。抗凝固療法の適応は血栓の長さと接合部からの距離で決まり、長さ5 cm未満で高リスク所見（悪性腫瘍、血栓性素因、深部静脈系への近接）のない孤立性病変には抗凝固療法は推奨されず、接合部から3 cm以上離れ長さ5 cm以上の病変にはフォンダパリヌクス2.5 mgの1日1回投与を45日間行うことが推奨され（代替として低分子量ヘパリンの中間用量）、接合部から3 cm以内の病変には治療量の抗凝固療法が推奨される。高リスクの臨床的・解剖学的特徴がある場合は3か月間の抗凝固療法が考慮される。
+
+- 条件：region: 欧州／対象: 成人
+- 不確実性：表在性静脈血栓症の節（病態・臨床像・血栓塞栓リスク）と推奨43-49を出典の全文で確認した。出典の本文中にあるCALISTO試験の紹介文にはフォンダパリヌクス2.5 mg 1日2回とあるが、推奨45の正式な表記である1日1回に従った。フォンダパリヌクスは国内では静脈血栓塞栓症の発症抑制（下肢整形外科手術・腹部手術施行患者）と急性深部静脈血栓症・急性肺血栓塞栓症の治療の適応のみであり、表在性静脈血栓症への適応・保険適用はない（欧州では表在静脈血栓症の適応がある）。低分子量ヘパリンも国内では表在性静脈血栓症を適応としていない。既存のSK-026（CALISTO試験の結果）と重複しないよう、本カードは定義・臨床像・進展リスクと抗凝固療法の適応の原則に絞った。
+- 出典：Kakkos SK, Gohel M, Baekgaard N, Bauersachs R, Bellmunt-Montoya S, Black SA, ten Cate-Hoek A, Elalamy I, Enzmann FK, Geroulakos G, Gottsäter A, Hunt BJ, Mansilha A, Nicolaides A, Sandset PM, Stansby G. Editor's Choice – European Society for Vascular Surgery (ESVS) 2021 Clinical Practice Guidelines on the Management of Venous Thrombosis. Eur J Vasc Endovasc Surg. 2021;61(1):9-82.　[DOI 10.1016/j.ejvs.2020.09.023](https://doi.org/10.1016/j.ejvs.2020.09.023)　[PMID 33334670](https://pubmed.ncbi.nlm.nih.gov/33334670/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-1-G-①（血栓性静脈炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-040&card_id=SK-040&version=11126ee47f)　（版 `11126ee47f`）
+
+**[ここまでの 2 件（SK-026〜SK-040）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-026%E3%80%9CSK-040&cards=SK-026%200e08a924ed%0ASK-040%2011126ee47f)**
 
 ---
 
@@ -440,7 +484,17 @@
 - 出題基準：医学各論 Ⅲ-1-A-④（皮脂欠乏性湿疹、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-069 (id: Jlvnlgk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-031&card_id=SK-031&version=c105629b7f)　（版 `c105629b7f`）
 
-**[ここまでの 1 件（SK-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-031&cards=SK-031%20c105629b7f)**
+### SK-034　下書き（出典の照合前）
+
+> 皮脂欠乏症（皮脂欠乏性湿疹）の管理は保湿剤によるスキンケアを基本とする。軽度の鱗屑や皮膚の粗糙化のみで痒みがない一過性の軽症例では、環境因子の除去や患者指導とセルフメディケーションによる経過観察が可能な場合があるが、明らかな鱗屑や掻破痕がみられれば痒みがなくても医療用保湿剤による治療を検討する。保湿剤にはモイスチャライザー型（ヘパリン類似物質、尿素など）と皮膚を被覆するエモリエント型（白色ワセリンなど）がある。保湿剤を用いても湿疹化する場合には、外用コルチコステロイド等の抗炎症薬を追加する。患者指導では、入浴後に保湿剤を塗布すること、ナイロンタオルやブラシで擦らず石鹸をよく泡立てて手で優しく洗うこと、石鹸の過剰な使用と洗い残しを避けること、冬季の暖房使用時の加湿、ウールなど刺激のある衣類を避けることを伝える。予後は良好だが、保湿剤の中止や季節変化で再燃することがある。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：出典の第3章（治療・患者指導）で確認した。ヘパリン類似物質製剤・尿素製剤・白色ワセリンはいずれも国内で承認された医療用医薬品であり、外用コルチコステロイドも国内で承認された外用剤である。既存のSK-008（定義・臨床像）とSK-031（保湿外用軟膏の小規模臨床研究の結果）と重複しないよう、本カードは一般的な管理と患者指導の側面に絞った。
+- 出典：皮脂欠乏症診療の手引き作成委員会. 皮脂欠乏症診療の手引き2021. 日本皮膚科学会雑誌. 2021;131(10):2255-2270.　[DOI 10.14924/dermatol.131.2255](https://doi.org/10.14924/dermatol.131.2255)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-1-A-④（皮脂欠乏性湿疹、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-069 (id: Jlvnlgk)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-034&card_id=SK-034&version=adf57d8e47)　（版 `adf57d8e47`）
+
+**[ここまでの 2 件（SK-031〜SK-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-031%E3%80%9CSK-034&cards=SK-031%20c105629b7f%0ASK-034%20adf57d8e47)**
 
 ---
 
@@ -457,6 +511,22 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-032&card_id=SK-032&version=917c69a3a9)　（版 `917c69a3a9`）
 
 **[ここまでの 1 件（SK-032）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-032&cards=SK-032%20917c69a3a9)**
+
+---
+
+## 遺伝性血管性浮腫
+
+### SK-033　下書き（出典の照合前）
+
+> 遺伝性血管性浮腫のうち、C1インヒビターの欠損または機能不全によるものは HAE-C1-INH と分類され、従来の1型・2型はこの分類に統合された。C1インヒビターが正常な型は HAE-nC1-INH として整理される。WAO の2025年ガイドラインでは、発作に対しては静脈内C1インヒビター製剤、イカチバント、または経口のセベトラルスタットによる早期のオンデマンド治療が第一選択とされ、早期に治療するほど速やかに改善する。エカランタイドも有効な発作時治療薬とされる。上気道に及ぶ発作は特に速やかな治療を要する。長期予防の第一選択としては、皮下C1インヒビター製剤、ラナデルマブ、ベロトラルスタット、ガラダシマブ、ドニダロルセンが選択肢となり、治療目標は完全な疾患コントロールとされる。
+
+- 条件：region: 国際／対象: 遺伝性血管性浮腫の患者
+- 不確実性：ガラダシマブ（アナエブリ）は2025年2月20日に、セベトラルスタット（エクテリー錠300mg）は2025年12月22日に国内承認され、セベトラルスタットは2026年3月18日に薬価収載・発売された。セベトラルスタットの国内の承認用量は1回300mg（2時間以上あけて追加300mgまで）で、WAO 2025 本文の用量表記（600mg）とは異なる。ドニダロルセンは米国・EUで承認済みだが国内では未承認（開発中）である。エカランタイドは国内未承認である。静脈内および皮下のC1インヒビター製剤、イカチバント、ラナデルマブ、ベロトラルスタットは国内で承認されている。HAE-nC1-INH の遺伝子型ごとの細目は本カードには含めていない。
+- 出典：Vázquez DO, Giavina-Bianchi P, Josviack D, et al. The 2025 WAO Guidelines for the classification, diagnosis, and treatment of hereditary angioedema, with consideration of worldwide disparities. World Allergy Organ J. 2026;19(5):101335.　[DOI 10.1016/j.waojou.2026.101335](https://doi.org/10.1016/j.waojou.2026.101335)　[PMID 42165046](https://pubmed.ncbi.nlm.nih.gov/42165046/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-1-B-①（血管性浮腫、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-033&card_id=SK-033&version=484e37fc94)　（版 `484e37fc94`）
+
+**[ここまでの 1 件（SK-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-033&cards=SK-033%20484e37fc94)**
 
 ---
 

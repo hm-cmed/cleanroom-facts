@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 115 件のうち、監修済み 0 件。
+全 116 件のうち、監修済み 0 件。
 
 ## 急性腹症の定義と分類
 
@@ -1140,7 +1140,17 @@
 - 出題基準：医学各論 Ⅵ-9-C-④（後腹膜腫瘍、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-103&card_id=AB-103&version=e14da3fda4)　（版 `e14da3fda4`）
 
-**[ここまでの 1 件（AB-103）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-103&cards=AB-103%20e14da3fda4)**
+### AB-116　下書き（出典の照合前）
+
+> 原発性後腹膜肉腫の治療は、専門施設で多診療科チームのもとに行うことが前提で、標準治療は腫瘍と癒着・近接する臓器を含めた一括（コンパートメント）切除である。再発様式は組織型で異なり、脂肪肉腫では局所再発が中心で死因ともなり、平滑筋肉腫では遠隔転移のリスクが高い。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：TARPSWG コンセンサス（Ann Surg Oncol 2021）の範囲の記述で、海外の専門施設の体制を前提とする。鑑別にはリンパ腫が含まれ、生検でリンパ腫と判明した場合は化学療法が治療の主体となる。疾患像と診断は AB-115 が担当する。
+- 出典：Swallow CJ, Strauss DC, Bonvalot S, et al. Management of Primary Retroperitoneal Sarcoma (RPS) in the Adult: An Updated Consensus Approach from the Transatlantic Australasian RPS Working Group. Ann Surg Oncol. 2021;28(12):7873-7888.　[DOI 10.1245/s10434-021-09654-z](https://doi.org/10.1245/s10434-021-09654-z)　[PMID 33852100](https://pubmed.ncbi.nlm.nih.gov/33852100/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-9-C-④（後腹膜腫瘍、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-116&card_id=AB-116&version=86e79d3ad5)　（版 `86e79d3ad5`）
+
+**[ここまでの 2 件（AB-103〜AB-116）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-103%E3%80%9CAB-116&cards=AB-103%20e14da3fda4%0AAB-116%2086e79d3ad5)**
 
 ---
 

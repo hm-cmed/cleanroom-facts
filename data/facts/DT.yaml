@@ -1527,3 +1527,73 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+- id: DT-044
+  domain: DT
+  subdomain: 基底細胞癌
+  assertion:
+    plain_statement_ja: 基底細胞癌は転移が極めてまれで死亡率も低い一方、局所で破壊的に増大し再発しうる腫瘍である。発症にはヘッジホッグ経路の異常な活性化が関与し、最大の危険因子は紫外線曝露で、色の白い皮膚、高齢、家族歴、PTCH1遺伝子変異（基底細胞母斑症候群）なども危険因子となる。臨床像は、真珠様の光沢をもつ丘疹・結節で、辺縁が堤防状に隆起し、樹枝状の血管拡張を伴い、中央にびらんや潰瘍を生じるものが典型的である。治療の主体は外科的切除であり、手術が困難な進行例ではヘッジホッグ経路阻害薬が海外で用いられる。
+    condition:
+      region: 全般
+      対象: 基底細胞癌患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4524
+    source: 'Niculet E, et al. Basal cell carcinoma: Comprehensive clinical and histopathological aspects, novel imaging tools and therapeutic approaches (Review). Exp Ther Med. 2022;23(1):60.'
+    doi: 10.3892/etm.2021.10982
+    pmid: '34917186'
+    pmcid: PMC8630439
+    url: https://doi.org/10.3892/etm.2021.10982
+    source_license: CC BY-NC-ND 4.0（PMC全文ページで確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ヘッジホッグ経路阻害薬のビスモデギブとソニデギブは海外で手術・放射線治療が困難な進行基底細胞癌に承認されているが、いずれも国内未承認で日本では使用できない（皮膚悪性腫瘍診療ガイドラインの基底細胞癌の項で確認）。好発部位について、同総説では紫外線曝露との関連は明示されるが「顔面好発」の形の記述は確認できなかったため、本カードでは部位の好発は主張していない。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-2-F-②（基底細胞癌、a）
+    core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-634 (id: JlvnmbQ)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/62_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: DT-045
+  domain: DT
+  subdomain: 菌状息肉症
+  assertion:
+    plain_statement_ja: 菌状息肉症は原発性皮膚T細胞リンパ腫の中で最も頻度が高く、腫瘍細胞の表皮への浸潤を特徴とする。経過は緩徐で、数年から数十年をかけて、落屑を伴う紅斑のみられる紅斑期、浸潤を触れる局面状病変の扁平浸潤期、腫瘤を形成する腫瘤期へと進行する。治療は初期には外用ステロイドや紫外線療法を中心として長期の経過観察を行い、腫瘤期以降の進行例では全身療法を要する。病期IAでは生存は年齢・性を一致させた対照と差がないと報告される一方、進行期では予後が悪化する。紅皮症に血中への腫瘍細胞の出現を伴うものはセザリー症候群とされる。
+    condition:
+      region: 日本
+      対象: 菌状息肉症患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1122
+    source: Ohtsuka M, Hamada T, Miyagaki T, et al. Outlines of the Japanese guidelines for the management of primary cutaneous lymphomas 2020. The Journal of Dermatology. 2021;48(2):e49-e71.
+    doi: 10.1111/1346-8138.15707
+    pmid: '33245165'
+    pmcid: null
+    url: https://doi.org/10.1111/1346-8138.15707
+    source_license: © 2020 Japanese Dermatological Association（CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードは皮膚リンパ腫診療ガイドライン2020年版（登録済み出典）に基づく。日本皮膚科学会のガイドライン一覧には2025年版が掲載されており、次版での再照合が望ましい。病期の呼称は同ガイドラインの「紅斑期・扁平浸潤期・腫瘤期」に従った（一般に局面期・腫瘍期とも呼ばれる）。治療に挙げた外用ステロイド薬は国内で承認・保険適用のある製剤であり、個別製剤の効能・効果の範囲は添付文書による。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-2-G-①（菌状息肉症、a）
+    core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-637 (id: Jlvnmbg)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/62_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

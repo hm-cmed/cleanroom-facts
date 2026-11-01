@@ -1359,3 +1359,108 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: MP-040
+  domain: MP
+  subdomain: 心臓外傷
+  assertion:
+    plain_statement_ja: 穿通性心臓外傷はまれだが致死的な外傷で、民間では銃創と刺創が主な原因であり、医療行為に伴うものもある。いずれの心腔の損傷でも、心膜腔への出血が急速に心タンポナーデを来たして死因になりうる一方、心膜が血液を封じ込めれば病院到着まで生存しうる。臨床像はタンポナーデによる血行動態の不安定が中心で、Beck の三徴（心音減弱、頸静脈怒張、低血圧）がそろうのはタンポナーデ例の約10%にとどまる。初期診断の標準は心エコーで心囊液（心囊内出血）を確認することであり、精度は96〜97%、感度と特異度はほぼ100%と報告される。心エコーが使えない場合は剣状突起下心膜開窓や心囊穿刺が選択肢になるが、時間を要する。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4442
+    source: 'Hromalik LR Jr, Wall MJ Jr, Mattox KL, Tsai PI. Penetrating cardiac injury: a narrative review. Mediastinum. 2023;7:15'
+    doi: 10.21037/med-22-18
+    pmid: '37261091'
+    pmcid: PMC10226890
+    url: https://doi.org/10.21037/med-22-18
+    source_license: CC BY-NC-ND 4.0（本文の Open Access Statement で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 穿通性心臓外傷を包括する診療ガイドラインはなく、本カードは総説に基づく。海外の集積は銃器損傷の比率が高く、刺創の比率が高い日本の実情とは受傷機転の構成が異なる。損傷部位別の頻度は、総説の中で単一の数値としては確認できなかったため主張に入れていない。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-6-G-①（心臓外傷、c）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；PS-03-05-12 (id: Jkxir3g)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+- id: MP-041
+  domain: MP
+  subdomain: 心臓外傷
+  assertion:
+    plain_statement_ja: EAST の診療ガイドラインは、重症外傷後に脈拍を触れない患者への救急室開胸について、GRADE に基づく推奨を示している。穿通性胸部外傷後に脈拍を触れず生命徴候がある患者では救急室開胸を強く推奨し、生命徴候がない場合も条件付きで推奨する。根拠となった集積（救急室開胸10,238例）では、穿通性胸部外傷で生命徴候があった群の生存率は21.3%、なかった群では8.3%だった。鈍的外傷後に脈拍を触れず生命徴候もない患者では、救急室開胸を条件付きで推奨しないとされる。
+    condition:
+      region: 米国
+      対象: 外傷後に脈拍を触れない患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4443
+    source: 'Seamon MJ, Haut ER, Van Arendonk K, et al. An evidence-based approach to patient selection for emergency department thoracotomy: A practice management guideline from the Eastern Association for the Surgery of Trauma. J Trauma Acute Care Surg. 2015;79(1):159-173'
+    doi: 10.1097/TA.0000000000000648
+    pmid: '26091330'
+    pmcid: null
+    url: https://doi.org/10.1097/TA.0000000000000648
+    source_license: CC 表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本ガイドラインの射程は救急室開胸の患者選択に限られ、穿通性心臓外傷全体の管理を包括するガイドラインはない。集積は海外の外傷センターのもので、銃器損傷の比率が高く日本の実情とは受傷機転の構成が異なる。WTA の Critical Decisions（2012年）も受傷機転と生命徴候から開胸適応を決めるアルゴリズムを示すが、本カードの出典は EAST ガイドラインのみとし、WTA は独立カードにしなかった。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-6-G-①（心臓外傷、c）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；PS-03-05-12 (id: Jkxir3g)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+- id: MP-042
+  domain: MP
+  subdomain: 心臓外傷
+  assertion:
+    plain_statement_ja: 穿通性心臓外傷の修復では、まず指による圧迫で出血を抑え、複数の裂傷には皮膚ステープルによる一時的な止血も使われる。大きな欠損には、Foley カテーテルのバルーンを心腔内で膨らませて壁に押し当て、内側から閉塞する方法があるが、牽引が強すぎると裂傷が拡大するため注意を要する。心室の修復はプレジェット付き水平マットレス縫合が基本であり、心房の欠損は血管鉗子で把持して連続縫合で閉じる。冠動脈に近い損傷にはステープルは使えず、冠動脈損傷と心筋虚血の評価が要る。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4444
+    source: Ball CG, Lee A, Kaminsky M, et al. Technical considerations in the management of penetrating cardiac injury. Can J Surg. 2022;65(5):E580-E592
+    doi: 10.1503/cjs.008521
+    pmid: '36302130'
+    pmcid: PMC9451503
+    url: https://doi.org/10.1503/cjs.008521
+    source_license: CC BY-NC-ND 4.0（本文のライセンス表示で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードは手術手技の総説に基づく整理で、穿通性心臓外傷を包括する診療ガイドラインはない。海外の集積は銃器損傷の比率が高く日本の実情とは受傷機転の構成が異なる。大きな心室欠損で上下大静脈をクランプして心拍を落としてから縫合する手順など、個別手技の細部は本カードに含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅴ-6-G-①（心臓外傷、c）
+    core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；PS-03-05-12 (id: Jkxir3g)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）

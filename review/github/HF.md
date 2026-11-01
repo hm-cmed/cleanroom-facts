@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 29 件のうち、監修済み 0 件。
+全 31 件のうち、監修済み 0 件。
 
 ## 慢性心不全
 
@@ -327,7 +327,27 @@
 - 出題基準：医学各論 Ⅴ-2-A-②（右心不全、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-157 (id: Jlvnlro)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-029&card_id=HF-029&version=4a0412e2b5)　（版 `4a0412e2b5`）
 
-**[ここまでの 4 件（HF-026〜HF-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HF-026%E3%80%9CHF-029&cards=HF-026%204de6ceb228%0AHF-027%2009bd74d42a%0AHF-028%20b2ba8704d1%0AHF-029%204a0412e2b5)**
+### HF-030　下書き（出典の照合前）
+
+> 右心不全は、心臓の構造的または機能的な障害により、右室の充満や右室から前方への血液の拍出が障害される臨床症候群である。原因として最も頻度が高いのは左心不全による後方障害（左心疾患に伴う肺高血圧症）であり、そのほか機序別に、後負荷の増大（肺血栓塞栓症、慢性血栓塞栓性肺高血圧症、肺動脈性肺高血圧症、慢性肺疾患など）、収縮機能の低下（右室梗塞、心筋炎、不整脈原性右室心筋症など）、前負荷の異常（心タンポナーデ、左右シャント、三尖弁閉鎖不全など）、心膜疾患、調律の異常が挙げられる。症状・徴候は、前方障害による低灌流症状（全身倦怠感、運動耐容能の低下）と、後方障害による体うっ血（四肢の浮腫、腹部膨満、食欲低下、頸静脈圧の上昇、肝腫大、腹水など）に分けられる。
+
+- 条件：region: 日本／対象: 右心不全の患者
+- 不確実性：登録出典（英語版）の日本語版全文 PDF で確認した範囲であり、出典内の位置は第2章§3.2「右心不全」（25〜26頁）。原因の機序別分類と症状・徴候は同節の表9・表10から読み取った。肺高血圧症そのものの診断・治療の詳細は本カードの範囲外である。
+- 出典：Kitai T, Kohsaka S, Kato T, et al. JCS/JHFS 2025 Guideline on Diagnosis and Treatment of Heart Failure. Circ J. 2025;89:1278-1444.　[DOI 10.1253/circj.CJ-25-0002](https://doi.org/10.1253/circj.CJ-25-0002)　[PMID 40159241](https://pubmed.ncbi.nlm.nih.gov/40159241/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-2-A-②（右心不全、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-157 (id: Jlvnlro)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-030&card_id=HF-030&version=2b6e757d8f)　（版 `2b6e757d8f`）
+
+### HF-031　下書き（出典の照合前）
+
+> 右心不全の治療は原因となる病態生理によって異なり、体うっ血がある場合には特に利尿薬を用い、うっ血がない場合には慎重に輸液を行う。末梢の低灌流や持続する低血圧がある場合には強心薬を用い、それでも改善しなければ腎代替療法や右室補助人工心臓（RVAD）を含む機械的サポートを考慮する。
+
+- 条件：region: 日本／対象: 右心不全の患者
+- 不確実性：登録出典（英語版）の日本語版全文 PDF で確認した範囲であり、出典内の位置は第2章§3.2「右心不全」（25〜26頁）。本カードの薬剤は利尿薬・強心薬という薬剤クラスの範囲の記述であり、当該節では個別の薬剤名は特定されていないため、個別薬剤の国内承認・保険適用の注記は行っていない。用量や薬剤の選択は原因疾患ごとの治療に委ねられる。
+- 出典：Kitai T, Kohsaka S, Kato T, et al. JCS/JHFS 2025 Guideline on Diagnosis and Treatment of Heart Failure. Circ J. 2025;89:1278-1444.　[DOI 10.1253/circj.CJ-25-0002](https://doi.org/10.1253/circj.CJ-25-0002)　[PMID 40159241](https://pubmed.ncbi.nlm.nih.gov/40159241/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-2-A-②（右心不全、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-157 (id: Jlvnlro)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-031&card_id=HF-031&version=8dfa6674c8)　（版 `8dfa6674c8`）
+
+**[ここまでの 6 件（HF-026〜HF-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HF-026%E3%80%9CHF-031&cards=HF-026%204de6ceb228%0AHF-027%2009bd74d42a%0AHF-028%20b2ba8704d1%0AHF-029%204a0412e2b5%0AHF-030%202b6e757d8f%0AHF-031%208dfa6674c8)**
 
 ---
 

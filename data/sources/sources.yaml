@@ -34473,3 +34473,258 @@
   - date: '2026-11-01'
     by: claude-code
     change: 登録：作り手のブラッシュアップ提案B（版の差し替え）による。三原の承認（2026-11-01）
+- id: SRC-4441
+  legacy_id: null
+  title: 'Swallow CJ, Strauss DC, Bonvalot S, et al. Management of Primary Retroperitoneal Sarcoma (RPS) in the Adult: An Updated Consensus Approach from the Transatlantic Australasian RPS Working Group. Ann Surg Oncol. 2021;28(12):7873-7888.'
+  citation: 'Swallow CJ, Strauss DC, Bonvalot S, et al. Management of Primary Retroperitoneal Sarcoma (RPS) in the Adult: An Updated Consensus Approach from the Transatlantic Australasian RPS Working Group. Ann Surg Oncol. 2021;28(12):7873-7888.'
+  doi: 10.1245/s10434-021-09654-z
+  pmid: '33852100'
+  pmcid: null
+  license_note: テキストマイニング用ライセンスのみで CC 表示なし（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md の出典マスター表から
+- id: SRC-4442
+  legacy_id: null
+  title: 'Hromalik LR Jr, Wall MJ Jr, Mattox KL, Tsai PI. Penetrating cardiac injury: a narrative review. Mediastinum. 2023;7:15'
+  citation: 'Hromalik LR Jr, Wall MJ Jr, Mattox KL, Tsai PI. Penetrating cardiac injury: a narrative review. Mediastinum. 2023;7:15'
+  doi: 10.21037/med-22-18
+  pmid: '37261091'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（本文の Open Access Statement）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md の出典マスター表から
+- id: SRC-4443
+  legacy_id: null
+  title: 'Seamon MJ, Haut ER, Van Arendonk K, et al. An evidence-based approach to patient selection for emergency department thoracotomy: A practice management guideline from the Eastern Association for the Surgery of Trauma. J Trauma Acute Care Surg. 2015;79(1):159-173'
+  citation: 'Seamon MJ, Haut ER, Van Arendonk K, et al. An evidence-based approach to patient selection for emergency department thoracotomy: A practice management guideline from the Eastern Association for the Surgery of Trauma. J Trauma Acute Care Surg. 2015;79(1):159-173'
+  doi: 10.1097/TA.0000000000000648
+  pmid: '26091330'
+  pmcid: null
+  license_note: CC 表示なし（購読誌）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md の出典マスター表から
+- id: SRC-4444
+  legacy_id: null
+  title: Ball CG, Lee A, Kaminsky M, et al. Technical considerations in the management of penetrating cardiac injury. Can J Surg. 2022;65(5):E580-E592
+  citation: Ball CG, Lee A, Kaminsky M, et al. Technical considerations in the management of penetrating cardiac injury. Can J Surg. 2022;65(5):E580-E592
+  doi: 10.1503/cjs.008521
+  pmid: '36302130'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（本文のライセンス表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md の出典マスター表から
+- id: SRC-4445
+  legacy_id: null
+  title: ADHDの診断・治療指針に関する研究会 編（齊藤万比古・飯田順三 編集）. 注意欠如・多動症―ADHD―の診断・治療ガイドライン 第5版. じほう. 2022年. ISBN 978-4-8407-5467-5
+  citation: ADHDの診断・治療指針に関する研究会 編（齊藤万比古・飯田順三 編集）. 注意欠如・多動症―ADHD―の診断・治療ガイドライン 第5版. じほう. 2022年. ISBN 978-4-8407-5467-5
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: CC 表示なし（書籍）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md の出典マスター表から
+- id: SRC-4446
+  legacy_id: null
+  title: 'Society for Maternal-Fetal Medicine (SMFM); Mari G, Norton ME, Stone J, et al. Society for Maternal-Fetal Medicine (SMFM) Clinical Guideline #8: the fetus at risk for anemia--diagnosis and management. Am J Obstet Gynecol. 2015;212(6):697-710'
+  citation: 'Society for Maternal-Fetal Medicine (SMFM); Mari G, Norton ME, Stone J, et al. Society for Maternal-Fetal Medicine (SMFM) Clinical Guideline #8: the fetus at risk for anemia--diagnosis and management. Am J Obstet Gynecol. 2015;212(6):697-710'
+  doi: 10.1016/j.ajog.2015.01.059
+  pmid: '25824811'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md の出典マスター表から
+- id: SRC-4447
+  legacy_id: null
+  title: Schmitt SK. Reactive Arthritis. Infect Dis Clin North Am. 2017;31(2):265-277
+  citation: Schmitt SK. Reactive Arthritis. Infect Dis Clin North Am. 2017;31(2):265-277
+  doi: 10.1016/j.idc.2017.01.002
+  pmid: '28292540'
+  pmcid: null
+  license_note: CC 表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md の出典マスター表から
+- id: SRC-4448
+  legacy_id: null
+  title: 'Dingemann C, Eaton S, Aksnes G, et al. ERNICA Consensus Conference on the Management of Patients with Esophageal Atresia and Tracheoesophageal Fistula: Follow-up and Framework. Eur J Pediatr Surg. 2020;30(6):475-482'
+  citation: 'Dingemann C, Eaton S, Aksnes G, et al. ERNICA Consensus Conference on the Management of Patients with Esophageal Atresia and Tracheoesophageal Fistula: Follow-up and Framework. Eur J Pediatr Surg. 2020;30(6):475-482'
+  doi: 10.1055/s-0039-3400284
+  pmid: '31777030'
+  pmcid: null
+  license_note: 購読誌（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md の出典マスター表から
+- id: SRC-4449
+  legacy_id: null
+  title: Krishnan U, Mousa H, Dall'Oglio L, et al. ESPGHAN-NASPGHAN Guidelines for the Evaluation and Treatment of Gastrointestinal and Nutritional Complications in Children With Esophageal Atresia-Tracheoesophageal Fistula. J Pediatr Gastroenterol Nutr. 2016;63(5):550-570
+  citation: Krishnan U, Mousa H, Dall'Oglio L, et al. ESPGHAN-NASPGHAN Guidelines for the Evaluation and Treatment of Gastrointestinal and Nutritional Complications in Children With Esophageal Atresia-Tracheoesophageal Fistula. J Pediatr Gastroenterol Nutr. 2016;63(5):550-570
+  doi: 10.1097/MPG.0000000000001401
+  pmid: '27579697'
+  pmcid: null
+  license_note: 購読誌（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md の出典マスター表から
+- id: SRC-4450
+  legacy_id: null
+  title: 'Takehara H, Yakabe S, Kameoka K. Laparoscopic percutaneous extraperitoneal closure for inguinal hernia in children: clinical outcome of 972 repairs done in 3 pediatric surgical institutions. J Pediatr Surg. 2006;41(12):1999-2003'
+  citation: 'Takehara H, Yakabe S, Kameoka K. Laparoscopic percutaneous extraperitoneal closure for inguinal hernia in children: clinical outcome of 972 repairs done in 3 pediatric surgical institutions. J Pediatr Surg. 2006;41(12):1999-2003'
+  doi: 10.1016/j.jpedsurg.2006.08.032
+  pmid: '17161191'
+  pmcid: null
+  license_note: 購読誌（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md の出典マスター表から
+- id: SRC-4521
+  legacy_id: null
+  title: 皮脂欠乏症診療の手引き作成委員会. 皮脂欠乏症診療の手引き2021. 日本皮膚科学会雑誌. 2021;131(10):2255-2270.
+  citation: 皮脂欠乏症診療の手引き作成委員会. 皮脂欠乏症診療の手引き2021. 日本皮膚科学会雑誌. 2021;131(10):2255-2270.
+  doi: 10.14924/dermatol.131.2255
+  pmid: null
+  pmcid: null
+  license_note: 日本皮膚科学会の著作物（CCライセンス表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/62_brushup_a.md の出典マスター表から
+- id: SRC-4522
+  legacy_id: null
+  title: 重症多形滲出性紅斑ガイドライン作成委員会. 日本皮膚科学会ガイドライン 重症多形滲出性紅斑 スティーヴンス・ジョンソン症候群・中毒性表皮壊死症診療ガイドライン. 日本皮膚科学会雑誌. 2016;126(9):1637-1685.
+  citation: 重症多形滲出性紅斑ガイドライン作成委員会. 日本皮膚科学会ガイドライン 重症多形滲出性紅斑 スティーヴンス・ジョンソン症候群・中毒性表皮壊死症診療ガイドライン. 日本皮膚科学会雑誌. 2016;126(9):1637-1685.
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 日本皮膚科学会の著作物（CCライセンス表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/62_brushup_a.md の出典マスター表から
+- id: SRC-4523
+  legacy_id: null
+  title: Kakkos SK, Gohel M, Baekgaard N, Bauersachs R, Bellmunt-Montoya S, Black SA, ten Cate-Hoek A, Elalamy I, Enzmann FK, Geroulakos G, Gottsäter A, Hunt BJ, Mansilha A, Nicolaides A, Sandset PM, Stansby G. Editor's Choice – European Society for Vascular Surgery (ESVS) 2021 Clinical Practice Guidelines on the Management of Venous Thrombosis. Eur J Vasc Endovasc Surg. 2021;61(1):9-82.
+  citation: Kakkos SK, Gohel M, Baekgaard N, Bauersachs R, Bellmunt-Montoya S, Black SA, ten Cate-Hoek A, Elalamy I, Enzmann FK, Geroulakos G, Gottsäter A, Hunt BJ, Mansilha A, Nicolaides A, Sandset PM, Stansby G. Editor's Choice – European Society for Vascular Surgery (ESVS) 2021 Clinical Practice Guidelines on the Management of Venous Thrombosis. Eur J Vasc Endovasc Surg. 2021;61(1):9-82.
+  doi: 10.1016/j.ejvs.2020.09.023
+  pmid: '33334670'
+  pmcid: null
+  license_note: Elsevier（CCライセンス表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/62_brushup_a.md の出典マスター表から
+- id: SRC-4524
+  legacy_id: null
+  title: 'Niculet E, et al. Basal cell carcinoma: Comprehensive clinical and histopathological aspects, novel imaging tools and therapeutic approaches (Review). Exp Ther Med. 2022;23(1):60.'
+  citation: 'Niculet E, et al. Basal cell carcinoma: Comprehensive clinical and histopathological aspects, novel imaging tools and therapeutic approaches (Review). Exp Ther Med. 2022;23(1):60.'
+  doi: 10.3892/etm.2021.10982
+  pmid: '34917186'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/62_brushup_a.md の出典マスター表から
+- id: SRC-4525
+  legacy_id: null
+  title: 原発性局所多汗症診療ガイドライン策定委員会. 原発性局所多汗症診療ガイドライン2023年改訂版. 日本皮膚科学会雑誌. 2023;133(2):157-188.
+  citation: 原発性局所多汗症診療ガイドライン策定委員会. 原発性局所多汗症診療ガイドライン2023年改訂版. 日本皮膚科学会雑誌. 2023;133(2):157-188.
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 日本皮膚科学会雑誌（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/62_brushup_a.md の出典マスター表から
+- id: SRC-4526
+  legacy_id: null
+  title: Traidl S, Roesner L, Zeitvogel J, Werfel T. Eczema herpeticum in atopic dermatitis. Allergy. 2021;76(10):3017-3027.
+  citation: Traidl S, Roesner L, Zeitvogel J, Werfel T. Eczema herpeticum in atopic dermatitis. Allergy. 2021;76(10):3017-3027.
+  doi: 10.1111/all.14853
+  pmid: '33844308'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（Crossref の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/62_brushup_a.md の出典マスター表から
+- id: SRC-4527
+  legacy_id: null
+  title: 日本皮膚科学会 円形脱毛症診療ガイドライン2024. 日本皮膚科学会雑誌. 2024;134(10):2491-2526.
+  citation: 日本皮膚科学会 円形脱毛症診療ガイドライン2024. 日本皮膚科学会雑誌. 2024;134(10):2491-2526.
+  doi: 10.14924/dermatol.134.2491
+  pmid: null
+  pmcid: null
+  license_note: © 日本皮膚科学会（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/62_brushup_a.md の出典マスター表から

@@ -135,12 +135,15 @@
     created: '2026-10-28'
     verifier: null
     verified_at: null
-    status: draft
-    superseded_by: null
+    status: retired
+    superseded_by: NL-022
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 廃止：出典の新しい版にもとづく作り直し（第61回、提案B の区分C）。後継は NL-022（三原の承認）
 - id: NL-005
   domain: NL
   subdomain: 副鼻腔炎
@@ -739,3 +742,41 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+- id: NL-022
+  domain: NL
+  subdomain: 鼻炎
+  assertion:
+    plain_statement_ja: 花粉症は、花粉抗原による季節性アレルギー性鼻炎であり、アレルギー性結膜炎を合併することが多い。2019年の全国疫学調査では、アレルギー性鼻炎全体の有病率は49.2%で、2008年の39.4%から増加した。花粉症全体の有病率は42.5%、スギ花粉症は38.8%であり、スギ花粉症は1998年の16.2%、2008年の26.5%から増加が続いている。年齢別では、5歳以上のすべての年齢層でスギ花粉症が最も多く、0〜4歳でのみ通年性アレルギー性鼻炎が最多である。
+    condition:
+      region: 日本
+      対象: 一般住民
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-2825
+    source: 松原篤、坂下雅文、後藤穣、ほか. 2019年全国疫学調査（鼻アレルギー）. 日本耳鼻咽喉科学会会報. 2020;123:485-490.
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 未確認（日本語誌）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 数値は2019年全国疫学調査（松原ほか、2020）の抄録と公表資料で確認した値で、質問紙調査に基づく。旧カード（NL-004）にあった年齢別の記述（通年性アレルギー性鼻炎は若年層に多く、スギ花粉症は中年層に多い）は2019年調査の結果と合わないため引き継いでいない。2020年以降の全国調査による有病率の更新は未確認である。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-9-A-②（鼻炎、a）
+    core_curriculum: 'PS-02-16-05 (id: JkxnuTo)；TBL-01-00-511 (id: JlvnmQA)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: NL-004 の作り直しとして作成（第61回）。NL-004 は廃止

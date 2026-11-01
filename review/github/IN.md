@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 110 件のうち、監修済み 0 件。
+全 113 件のうち、監修済み 0 件。
 
 ## 炎症性腸疾患
 
@@ -1076,7 +1076,17 @@
 - 出題基準：医学各論 Ⅵ-3-B-⑥（放射線性腸炎、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-090&card_id=IN-090&version=f33b403d9c)　（版 `f33b403d9c`）
 
-**[ここまでの 1 件（IN-090）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-090&cards=IN-090%20f33b403d9c)**
+### IN-111　下書き（出典の照合前）
+
+> 慢性放射線性腸炎は、狭窄、瘻孔、穿孔、出血、吸収不良などの合併症を来し、評価では原疾患である悪性腫瘍の再発の除外が重要である。治療は栄養管理を含む対症療法が中心で、手術は閉塞・穿孔・瘻孔などの合併症例に限られるが、術後合併症や再手術の頻度が高い。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：2010年の総説に基づく記述で、同総説も治療のエビデンスは限定的としている。本カードは小腸病変の合併症と管理が中心で、放射線性直腸炎は扱っていない。病態と経過は IN-090 が担当する。
+- 出典：Theis VS, Sripadam R, Ramani V, Lal S. Chronic radiation enteritis. Clin Oncol (R Coll Radiol). 2010;22(1):70-83.　[DOI 10.1016/j.clon.2009.10.003](https://doi.org/10.1016/j.clon.2009.10.003)　[PMID 19897345](https://pubmed.ncbi.nlm.nih.gov/19897345/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-3-B-⑥（放射線性腸炎、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-111&card_id=IN-111&version=7b66de29f5)　（版 `7b66de29f5`）
+
+**[ここまでの 2 件（IN-090〜IN-111）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-090%E3%80%9CIN-111&cards=IN-090%20f33b403d9c%0AIN-111%207b66de29f5)**
 
 ---
 
@@ -1118,7 +1128,17 @@
 - 出題基準：医学各論 Ⅵ-3-C-③（小腸癌、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-093&card_id=IN-093&version=1f8c90f438)　（版 `1f8c90f438`）
 
-**[ここまでの 1 件（IN-093）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-093&cards=IN-093%201f8c90f438)**
+### IN-112　下書き（出典の照合前）
+
+> 小腸腺癌の治療は、限局例では外科切除が基本であり、進行例の初回全身療法には FOLFOX や CAPEOX などのオキサリプラチン併用レジメンが用いられる。ミスマッチ修復欠損（dMMR）またはマイクロサテライト不安定性が高い（MSI-H）進行例では、後方ラインの選択肢としてペムブロリズマブなどの抗PD-1療法が位置づけられている。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：出典は NCCN ガイドライン Version 1.2020（2019年公表）で、現行は Version 2.2026 であり、現行版では免疫療法の位置づけが拡大している（初回治療を含む位置づけの追加、治療ラインを問わないチェックポイント阻害薬の表の新設など）。本カードの主張は Version 1.2020 の範囲に限る。ペムブロリズマブは国内で「がん化学療法後に増悪した進行・再発のMSI-Hを有する固形癌（標準的な治療が困難な場合に限る）」の適応で承認されている。一方、FOLFOX・CAPEOX の構成薬（オキサリプラチン、フルオロウラチル、カペシタビンなど）は結腸・直腸癌などでは承認されているが、小腸癌は国内の適応に含まれず、保険適用上は適応外使用にあたる。疾患の概要と MMR・MSI 検査の推奨は IN-094 が担当する。
+- 出典：Benson AB, Venook AP, Al-Hawary MM, et al. Small Bowel Adenocarcinoma, Version 1.2020, NCCN Clinical Practice Guidelines in Oncology. J Natl Compr Canc Netw. 2019;17(9):1109-1133.　[DOI 10.6004/jnccn.2019.0043](https://doi.org/10.6004/jnccn.2019.0043)　[PMID 31487687](https://pubmed.ncbi.nlm.nih.gov/31487687/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-3-C-③（小腸癌、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-112&card_id=IN-112&version=d19a7f7753)　（版 `d19a7f7753`）
+
+**[ここまでの 2 件（IN-093〜IN-112）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-093%E3%80%9CIN-112&cards=IN-093%201f8c90f438%0AIN-112%20d19a7f7753)**
 
 ---
 
@@ -1336,7 +1356,17 @@
 - 出題基準：医学各論 Ⅵ-5-E-②（毛細血管拡張症<angioectasia>、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-110&card_id=IN-110&version=9f595c32d4)　（版 `9f595c32d4`）
 
-**[ここまでの 1 件（IN-110）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-110&cards=IN-110%209f595c32d4)**
+### IN-113　下書き（出典の照合前）
+
+> 小腸の血管拡張（angioectasia）による出血では、出血源が同定され貧血や活動性出血が続く場合に、バルーン内視鏡などを用いた内視鏡的治療（アルゴンプラズマ凝固やクリップによる止血など）を行う。大動脈弁狭窄症に血管拡張を合併するHeyde症候群で出血が持続する場合は、大動脈弁置換を検討することが条件付きで推奨される。
+
+- 条件：region: 米国／対象: 成人
+- 不確実性：内視鏡的治療の具体的手技（アルゴンプラズマ凝固、クリップなど）はガイドライン本文の記載による。Heyde症候群への大動脈弁置換は条件付き推奨（中等度の質のエビデンス）で、適応判断は専門施設での評価による。本カードは後天性の血管拡張に限り、遺伝性出血性毛細血管拡張症（HHT）は対象外（疾患像は IN-117 が担当する）。
+- 出典：Gerson LB, Fidler JL, Cave DR, Leighton JA. ACG Clinical Guideline: Diagnosis and Management of Small Bowel Bleeding. Am J Gastroenterol. 2015;110(9):1265-1287.　[DOI 10.1038/ajg.2015.246](https://doi.org/10.1038/ajg.2015.246)　[PMID 26303132](https://pubmed.ncbi.nlm.nih.gov/26303132/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-5-E-②（毛細血管拡張症<angioectasia>、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-113&card_id=IN-113&version=6b5e119818)　（版 `6b5e119818`）
+
+**[ここまでの 2 件（IN-110〜IN-113）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-110%E3%80%9CIN-113&cards=IN-110%209f595c32d4%0AIN-113%206b5e119818)**
 
 ---
 
