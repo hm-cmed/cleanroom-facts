@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 28 件のうち、監修済み 0 件。
+全 31 件のうち、監修済み 0 件。
 
 ## 熱傷
 
@@ -335,6 +335,54 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-028&card_id=TR-028&version=69efa22cbc)　（版 `69efa22cbc`）
 
 **[ここまでの 1 件（TR-028）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TR-028&cards=TR-028%2069efa22cbc)**
+
+---
+
+## 凍傷・凍瘡
+
+### TR-029　下書き（出典の照合前）
+
+> 凍傷は組織の凍結による損傷であり、重症度は伝統的に4段階に分類される。1度はしびれと発赤を生じ、白または黄色の硬くわずかに隆起した局面ができ、組織の死は生じない。2度は透明または乳白色の液体を含む表在性の水疱で、発赤と炎症を伴う。3度は血疱（出血性の水疱）で、損傷が真皮の深層まで及んだことを示す。4度は皮膚の全層を超えて脂肪、筋、腱、骨などの深部組織に及ぶ。現場での分類としては、再加温の後、画像評価の前に、組織喪失が皆無か最小限にとどまる「表在性」（1〜2度に相当）と、組織喪失が見込まれる「深部」（3〜4度に相当）の2つに分ける方法が推奨される。なお、凍結を伴わない表在性の寒冷損傷である frostnip は凍傷とは区別される。
+
+- 条件：region: 米国／対象: 凍傷（診療ガイドライン2024年改訂版）
+- 不確実性：分類の記載は WMS ガイドライン2024年改訂版の公式要約で確認した（分類の読み取りに相当）。深さと予後の対応は、現場向け2分類の定義（組織喪失の見込みの有無）に基づく。凍瘡（しもやけ）そのものの臨床像は同ガイドラインの主対象ではなく、本カードでは扱っていない。薬剤名は含めていない（治療は TR-003 が担う）。
+- 出典：McIntosh SE, Freer L, Grissom CK, Rodway GW, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update. Wilderness & Environmental Medicine. 2024;35(2):183-197.　[DOI 10.1177/10806032231222359](https://doi.org/10.1177/10806032231222359)　[PMID 38577729](https://pubmed.ncbi.nlm.nih.gov/38577729/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-11-A-②（凍傷・凍瘡、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-029&card_id=TR-029&version=07dfa6ab40)　（版 `07dfa6ab40`）
+
+**[ここまでの 1 件（TR-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TR-029&cards=TR-029%2007dfa6ab40)**
+
+---
+
+## 電撃傷
+
+### TR-030　下書き（出典の照合前）
+
+> 電撃傷の重症度は、電圧、電流の種類、接触時間、体内での電流の経路によって決まる。低電圧損傷は1000V未満、高電圧損傷は1000V超の曝露と定義される。交流は強直性の筋収縮を引き起こして接触時間を延ばすため、より危険である。電流は神経、筋、血管など伝導性の高い組織を通って流れ、縦方向の経路では脳、心臓、肺、呼吸筋が巻き込まれて広範な損傷となりうる。不整脈の多くは受傷後数時間以内に生じ、心室細動、心室頻拍、心静止も報告される。初期評価では全例で心電図を記録し、心電図の異常、意識消失、心疾患の既往、高電圧または落雷による受傷がある例では少なくとも24時間のモニタリングを行う。一方、心疾患がなく、意識消失がなく、来院時の心電図が正常な低電圧損傷では、入院での心臓モニタリングは不要とされる。深部の筋損傷は皮膚所見を大きく上回ることがあり、筋細胞の融解によってクレアチンキナーゼとミオグロビンが放出され、横紋筋融解症、急性腎障害、コンパートメント症候群を来す。血清クレアチンキナーゼは来院時に測定して経過を追い、四肢の診察は最初の24〜48時間は1〜2時間ごとに行い、適応があれば筋膜切開を行う。
+
+- 条件：region: 米国／対象: 成人（救急部門向け総説、2026年）
+- 不確実性：2026年刊行の総説であり、PMID は確認できなかったため null とし、DOI と出版社 PDF 本文で文献を特定した。電圧の境界（1000V）、モニタリングの時間（24時間）、四肢診察の間隔（1〜2時間）は出典本文から読み取った値である。対象は成人であり、小児の電撃傷への適用は出典の範囲外。薬剤名は含めていない。
+- 出典：Smith I, Kidd S, Kim S, Tennill RM. Assessment and Management of Electrical Injuries in Adults in the Emergency Department. Cureus. 2026;18(4):e107162.　[DOI 10.7759/cureus.107162](https://doi.org/10.7759/cureus.107162)（区分 OPEN）
+- 出題基準：医学各論 Ⅲ-11-A-③（電撃傷、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-030&card_id=TR-030&version=6b98bfde99)　（版 `6b98bfde99`）
+
+**[ここまでの 1 件（TR-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TR-030&cards=TR-030%206b98bfde99)**
+
+---
+
+## 角・結膜化学損傷
+
+### TR-031　下書き（出典の照合前）
+
+> 眼の化学損傷の重症度分類として Roper-Hall 分類が広く用いられ、角膜の混濁の程度と角膜輪部の虚血の範囲によって4つのグレードに分ける。グレードIは角膜上皮の障害のみで輪部虚血がなく予後は良好、グレードIIは角膜に混濁があっても虹彩の詳細が見え、輪部虚血が3分の1未満で予後は良好、グレードIIIは上皮の全欠損と実質の混濁で虹彩の詳細が見えず、輪部虚血が3分の1から2分の1で予後は要注意、グレードIVは角膜が不透明で虹彩と瞳孔が見えず、輪部虚血が2分の1を超え予後は不良である。急性期治療で最も重要な介入は即時の洗浄であり、等張食塩水または乳酸リンゲル液を用い、pHが生理的な範囲に中和されるまで続け、少なくとも1Lの液量と30分以上の洗浄が推奨される。洗浄液の選択のために洗浄の開始を遅らせてはならず、入手できなければ水道水でもよい。円蓋部に残った固形の異物は除去し、上眼瞼を二重に翻転して残留物を確認する。洗浄後も最大で1時間はpHを繰り返し確認する。
+
+- 条件：region: 国際／対象: 総説（眼化学外傷）
+- 不確実性：Roper-Hall 分類は出典の表（Table 1）から読み取ったものである。洗浄の液量・時間と pH 確認の進め方は同総説の洗浄療法の節の記載に基づく（本文から読み取り）。Dua 分類も臨床で用いられるが、本カードでは Roper-Hall 分類に絞った。PMCID は PMC 本文で確認した（出典マスターでは null のため補完候補）。薬剤名は含めていない。
+- 出典：Bizrah M, Yusuf A, Ahmad S. An update on chemical eye burns. Eye (London). 2019;33(9):1362-1377.　[DOI 10.1038/s41433-019-0456-5](https://doi.org/10.1038/s41433-019-0456-5)　[PMID 31086244](https://pubmed.ncbi.nlm.nih.gov/31086244/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-11-A-⑤（角・結膜化学損傷、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-031&card_id=TR-031&version=12301ebeab)　（版 `12301ebeab`）
+
+**[ここまでの 1 件（TR-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TR-031&cards=TR-031%2012301ebeab)**
 
 ---
 

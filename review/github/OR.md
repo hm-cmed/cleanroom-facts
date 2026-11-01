@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 32 件のうち、監修済み 0 件。
+全 44 件のうち、監修済み 0 件。
 
 ## 口腔粘膜疾患
 
@@ -172,7 +172,17 @@
 - 出題基準：医学各論 Ⅲ-10-C-①（咽頭炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-513 (id: JlvnmQU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-012&card_id=OR-012&version=f9e5802347)　（版 `f9e5802347`）
 
-**[ここまでの 1 件（OR-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OR-012&cards=OR-012%20f9e5802347)**
+### OR-038　下書き（出典の照合前）
+
+> A群溶連菌性咽頭炎の診断では、臨床所見と疫学的特徴を組み合わせた臨床スコア（Centor基準など）が、溶連菌感染の可能性を予測するのに有用であり、可能性がきわめて低い患者では咽頭培養や迅速抗原検査が通常不要となる。一方で、臨床医は溶連菌が原因である確率を大きく過大評価する傾向があり、正確な診断には検査による確認が不可欠である。鼻汁、咳、口腔内潰瘍、嗄声などウイルス性を強く示唆する特徴がある患者には、通常、溶連菌の検査は推奨されない。抗菌薬は検査で確認されたA群溶連菌性咽頭炎に投与し、ペニシリンアレルギーのない患者ではペニシリンまたはアモキシシリンが第一選択で、投与期間は通常10日間である。この自然に軽快する疾患への治療の主な根拠は化膿性・非化膿性の合併症の予防であり、発症から9日以内に治療を始めれば急性リウマチ熱を予防できるが、溶連菌感染後糸球体腎炎の発症は治療によって防げない。
+
+- 条件：region: 国際／対象: IDSAガイドライン2012年版
+- 不確実性：ガイドライン本文では臨床スコアは総称として論じられており、Centor基準（1981年）はその参考文献の一つであるため、主張では「Centor基準など」とした。A群溶連菌の占める割合と検査で確認する方針は OR-012 が担当する。ペニシリンとアモキシシリンはいずれも国内で承認され保険適用されており、溶連菌感染症は適応に含まれる。
+- 出典：Shulman ST, Bisno AL, Clegg HW, et al. Clinical practice guideline for the diagnosis and management of group A streptococcal pharyngitis: 2012 update by the Infectious Diseases Society of America. Clin Infect Dis. 2012;55(10):e86-e102.　[DOI 10.1093/cid/cis629](https://doi.org/10.1093/cid/cis629)　[PMID 22965026](https://pubmed.ncbi.nlm.nih.gov/22965026/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-10-C-①（咽頭炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-513 (id: JlvnmQU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-038&card_id=OR-038&version=4c4bf877c3)　（版 `4c4bf877c3`）
+
+**[ここまでの 2 件（OR-012〜OR-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OR-012%E3%80%9COR-038&cards=OR-012%20f9e5802347%0AOR-038%204c4bf877c3)**
 
 ---
 
@@ -411,6 +421,182 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-032&card_id=OR-032&version=078022c1e4)　（版 `078022c1e4`）
 
 **[ここまでの 5 件（OR-028〜OR-032）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OR-028%E3%80%9COR-032&cards=OR-028%2098c9c4e08b%0AOR-029%203b2c08281c%0AOR-030%20c14bd2f615%0AOR-031%205a03bde78c%0AOR-032%20078022c1e4)**
+
+---
+
+## 口角炎、舌炎
+
+### OR-033　下書き（出典の照合前）
+
+> 舌炎のうち萎縮性舌炎は、舌背の糸状乳頭が部分性または完全に消失した状態で、舌が平滑にみえる。背景にはリボフラビン、ナイアシン、ピリドキシン、ビタミンB12、葉酸、鉄、亜鉛、ビタミンEなどの栄養素の欠乏があり、タンパク・カロリー栄養障害、口腔カンジダ症、ヘリコバクター・ピロリの定着、口腔乾燥症、糖尿病なども原因となりうる。萎縮性舌炎患者1,064例の検討では、貧血が19.0%、鉄欠乏が16.9%、ビタミンB12欠乏が5.3%、葉酸欠乏が2.3%、高ホモシステイン血症が11.9%にみられ、胃壁細胞抗体陽性は26.7%であった。欠乏している造血因子を補充すると一部の患者で口腔症状と萎縮性舌炎の完全寛解が得られるため、治療を始める前に血算、血清の造血因子、ホモシステイン、自己抗体を調べることが重要である。
+
+- 条件：region: 国際／対象: 総説
+- 不確実性：数値は台湾の研究グループによる萎縮性舌炎1,064例の集積に基づき、抄録で確認した範囲である。口角炎については OR-001 が担当する。欠乏の補充に用いるビタミンB12製剤、鉄剤、葉酸製剤はいずれも国内で欠乏症や貧血を適応として承認され保険適用されている。
+- 出典：Chiang CP, Chang JYF, Wang YP, Wu YH, Wu YC, Sun A. Atrophic glossitis: Etiology, serum autoantibodies, anemia, hematinic deficiencies, hyperhomocysteinemia, and management. J Formos Med Assoc. 2020;119(4):774-780.　[DOI 10.1016/j.jfma.2019.04.015](https://doi.org/10.1016/j.jfma.2019.04.015)　[PMID 31076315](https://pubmed.ncbi.nlm.nih.gov/31076315/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-10-A-①（口角炎、舌炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-523 (id: JlvnmQ8)；TBL-01-00-525 (id: JlvnmRM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-033&card_id=OR-033&version=7ab705ff3a)　（版 `7ab705ff3a`）
+
+**[ここまでの 1 件（OR-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OR-033&cards=OR-033%207ab705ff3a)**
+
+---
+
+## アフタ性口内炎
+
+### OR-034　下書き（出典の照合前）
+
+> 再発性アフタ性口内炎の治療は、潰瘍の症状の重症度、頻度、大きさ、個数に応じて選ぶ。偶発的な小さいアフタでは、保護性の軟膏や局所麻酔薬などの外用療法で症状が緩和されることが多い。より頻度が高い例や重症例では、外用グルココルチコイドが潰瘍の大きさと治癒期間を縮小させるのに有効で、病変の発生早期に使うと効果的である。大きく治癒の遅い大アフタでは、ステロイドの病変内注射が治癒期間の短縮に用いられることもある。外用療法のみでは新しい病変の形成は抑えられないため、大アフタや頻回に多発する例では全身療法を検討するが、全身性ステロイドの長期使用は重篤な副作用のためまれである。
+
+- 条件：region: 国際／対象: 総説
+- 不確実性：出典は米国の総説で、本文に挙がる外用薬の一部（アンレキサノクスなど）は国内では販売されていない。外用ステロイドについては、国内ではトリアムシノロンアセトニド口腔用軟膏やデキサメタゾン口腔用軟膏が、びらん・潰瘍を伴う難治性口内炎および舌炎などを適応として承認され保険適用されている。分類と治療目標は OR-002 が担当し、本カードは重症度に応じた治療の具体に絞った。
+- 出典：Akintoye SO, Greenberg MS. Recurrent aphthous stomatitis. Dent Clin North Am. 2014;58(2):281-297.　[DOI 10.1016/j.cden.2013.12.002](https://doi.org/10.1016/j.cden.2013.12.002)　[PMID 24655523](https://pubmed.ncbi.nlm.nih.gov/24655523/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-10-A-②（アフタ性口内炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-524 (id: JlvnmRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-034&card_id=OR-034&version=528cdf639d)　（版 `528cdf639d`）
+
+**[ここまでの 1 件（OR-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OR-034&cards=OR-034%20528cdf639d)**
+
+---
+
+## 急性ヘルペス性口内炎
+
+### OR-035　下書き（出典の照合前）
+
+> 原発性ヘルペス性歯肉口内炎は、単純ヘルペスウイルス1型の初感染が症状を呈する病型で、初感染の13〜30%に生じ、発症のピークは6か月〜5歳の小児と若年成人にある。潜伏期2〜15日の後、発熱、倦怠感、食欲低下などの前駆症状が現れ、1〜3日後に歯肉、口唇粘膜、口蓋を中心に1〜2mmの小水疱が集簇して生じ、速やかに破れて黄灰色の偽膜を伴う痛みの強い不規則なびらん・潰瘍となる。歯肉の腫脹、口臭、よだれ、発熱を伴い、病変は瘢痕を残さず10〜14日で治癒する。口腔内の疼痛のため飲水・摂食が制限され、脱水のために入院を要することがある。治療は補液と疼痛管理などの支持療法が基本で、発症後72時間以内のアシクロビル経口投与が用いられるが、その有効性を支持するエビデンスは弱いとされる。
+
+- 条件：region: 国際／対象: 系統的レビュー（小児・若年成人）
+- 不確実性：出典の系統的レビューが対象とした研究は5件・364例で、アシクロビルに有効性（口腔病変の治癒の改善と症状期間の短縮）を示した研究は1件のみであり、そのエビデンスは弱いと評価されている。入院例における症状頻度は OR-003 が担当する。アシクロビルは国内で単純疱疹を効能・効果として承認され保険適用されており、本症はその一病型である。
+- 出典：Coppola N, Cantile T, Adamo D, et al. Supportive care and antiviral treatments in primary herpetic gingivostomatitis: a systematic review. Clin Oral Investig. 2023;27(11):6333-6344.　[DOI 10.1007/s00784-023-05250-5](https://doi.org/10.1007/s00784-023-05250-5)　[PMID 37733027](https://pubmed.ncbi.nlm.nih.gov/37733027/)（区分 OPEN）
+- 出題基準：医学各論 Ⅲ-10-A-③（急性ヘルペス性口内炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-524 (id: JlvnmRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-035&card_id=OR-035&version=581b5988ca)　（版 `581b5988ca`）
+
+**[ここまでの 1 件（OR-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OR-035&cards=OR-035%20581b5988ca)**
+
+---
+
+## ヘルパンギーナ
+
+### OR-036　下書き（出典の照合前）
+
+> ヘルパンギーナは、発熱と口腔粘膜に現れる水疱性の発疹を特徴とする急性のウイルス性咽頭炎で、乳幼児を中心に夏季に流行する。原因の大多数はエンテロウイルス属のウイルスで、主としてコクサッキーウイルスA群である。2〜4日の潜伏期の後、突然の発熱に続いて咽頭痛が現れ、口腔内、主として軟口蓋から口蓋弓にかけて、直径1〜2mm（大きいものでは5mmほど）の紅暈で囲まれた小水疱が出現し、やがて破れて浅い潰瘍を形成して疼痛を伴う。発熱は2〜4日間程度で解熱し、粘膜疹もそれにやや遅れて消失するなど、ほとんどは予後良好である。口腔内の疼痛のため不機嫌、拒食、哺乳障害を来し、脱水症を呈することがある。特異的な治療法はなく通常は対症療法のみであり、ときに脱水に対する治療が必要になる。手足口病とは原因ウイルスが共通するが、手足口病ではヘルパンギーナよりも口腔内の前方に水疱疹がみられ、手や足にも水疱疹がある点が異なる。
+
+- 条件：region: 日本／対象: 乳幼児
+- 不確実性：年齢分布については、国内では患者の5歳以下が全体の90%以上を占め、1歳代が最も多いと同出典に記載されている。発熱や頭痛に対してアセトアミノフェンを用いることもあるとされ、アセトアミノフェンは国内で解熱・鎮痛を適応として承認され保険適用されている。中国の単一の集団発生の内訳は OR-004 が担当する。
+- 出典：国立健康危機管理研究機構 感染症情報提供サイト「ヘルパンギーナ」（2014年7月23日改訂）　[リンク](https://www.niid.go.jp/niid/ja/kansennohanashi/515-herpangina.html)（区分 GOV_JP）
+- 出題基準：医学各論 Ⅲ-10-A-④（ヘルパンギーナ、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-036&card_id=OR-036&version=884836e790)　（版 `884836e790`）
+
+**[ここまでの 1 件（OR-036）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OR-036&cards=OR-036%20884836e790)**
+
+---
+
+## 顎関節症
+
+### OR-037　下書き（出典の照合前）
+
+> 顎関節症は、顎関節複合体とその周囲の筋・骨に及ぶ筋骨格系・神経筋系の状態の総称で、成人の最大15%にみられ、発症のピークは20〜40歳である。関節内（関節内部の異常）と関節外（周囲の筋の異常）に分類される。主な症状は顎の痛みや機能障害、耳痛、頭痛、顔面痛で、診察では咀嚼筋の圧痛、開口制限、関節音（クリックやクレピタス）がみられることがある（開口量30〜35mm未満は異常とされる）。診断は主として病歴と身体診察に基づき、咬合異常や関節内異常が疑われる場合に画像検査が有用となる。多くの患者は、患者教育、セルフケア、認知行動療法、薬物療法、理学療法、咬合装置などの非侵襲的治療の組み合わせで改善する。薬物療法では非ステロイド性抗炎症薬が初期に推奨され、筋の攣縮があれば筋弛緩薬の追加が推奨される。保存的治療が無効な例や顎の機能制限・持続する痛みがある例では、口腔顎顔面外科への紹介が適応となる。
+
+- 条件：region: 国際／対象: 総説
+- 不確実性：出典は米国の総説（2015年）で、主張は抄録と本文の診察所見・推奨要約で確認した範囲である。診断基準 DC/TMD の性能は OR-010 が担当する。非ステロイド性抗炎症薬と筋弛緩薬はいずれも国内で承認され保険適用されている薬剤のクラスだが、顎関節症は各製剤の添付文書の効能・効果に明記されておらず、国内ではこの病名では適応外の位置づけで用いられることがある。
+- 出典：Gauer RL, Semidey MJ. Diagnosis and Treatment of Temporomandibular Disorders. Am Fam Physician. 2015;91(6):378-386.　[PMID 25822556](https://pubmed.ncbi.nlm.nih.gov/25822556/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-10-B-①（顎関節症、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-529 (id: JlvnmR8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-037&card_id=OR-037&version=dce4260566)　（版 `dce4260566`）
+
+**[ここまでの 1 件（OR-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OR-037&cards=OR-037%20dce4260566)**
+
+---
+
+## 口蓋扁桃肥大症、咽頭扁桃増殖症
+
+### OR-039　下書き（出典の照合前）
+
+> 小児の閉塞性睡眠呼吸障害は、睡眠中の上気道機能障害の症候群で、いびきや呼吸努力の増大を特徴とする。上気道閉塞に関連する症状として、頻回の大きな音のいびき、目撃される無呼吸、不穏な睡眠、口呼吸が挙げられる。口蓋扁桃肥大と咽頭扁桃（アデノイド）増殖は、その素因となる主な異常の一つである。治療は、素因となるすべての異常に対処する段階的な方法で行い、各介入の後に残存する病変を再評価する。閉塞性睡眠時無呼吸症候群がありアデノイド・扁桃肥大を伴う小児では、口蓋扁桃摘出術とアデノイド切除術の併施が適応となり、無呼吸低呼吸指数が5回/時を超える例で睡眠ポリグラフ所見の改善が最も得られやすく、もともと健康な非肥満の小児での成功率（無呼吸低呼吸指数1回/時未満）は約75%とされる。
+
+- 条件：region: 欧州／対象: 2〜18歳の小児（ERSステートメント2016年）
+- 不確実性：記載はERSステートメント（2016年）本文のステップ1（上気道閉塞に関連する症状）とステップ6（アデノトンシレクトミーの適応）の要約に基づく。重症度の客観的評価と段階的治療の総論は OR-013 が担当する。
+- 出典：Kaditis AG, Alonso Alvarez ML, Boudewyns A, et al. Obstructive sleep disordered breathing in 2- to 18-year-old children: diagnosis and management. Eur Respir J. 2016;47(1):69-94.　[DOI 10.1183/13993003.00385-2015](https://doi.org/10.1183/13993003.00385-2015)　[PMID 26541535](https://pubmed.ncbi.nlm.nih.gov/26541535/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-10-C-②（口蓋扁桃肥大症、咽頭扁桃<アデノイド>増殖症、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-520 (id: JlvnmSo)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-039&card_id=OR-039&version=66d6c5f607)　（版 `66d6c5f607`）
+
+**[ここまでの 1 件（OR-039）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OR-039&cards=OR-039%2066d6c5f607)**
+
+---
+
+## 急性扁桃炎
+
+### OR-040　下書き（出典の照合前）
+
+> A群溶連菌による咽頭・扁桃炎は主に5〜15歳にみられ、突然発症の咽頭痛、嚥下時痛、発熱を呈し、扁桃・咽頭の発赤や滲出物、圧痛を伴う前頸部リンパ節腫脹がみられる。小児では頭痛、悪心・嘔吐、腹痛を伴うこともある。咳嗽、鼻汁、嗄声、結膜炎などの所見が目立つ場合はウイルス性が示唆される。臨床所見だけでは両者を確実に鑑別できないため、咽頭拭い液による迅速抗原検査や培養で診断を確認することが推奨される。合併症には、扁桃周囲膿瘍、頸部リンパ節炎、乳様突起炎などの化膿性合併症と、急性リウマチ熱、溶連菌感染後糸球体腎炎などの非化膿性合併症がある。
+
+- 条件：region: 国際／対象: IDSAガイドライン2012年版
+- 不確実性：記載は2012年版ガイドライン本文で確認した範囲（臨床像は同ガイドラインの特徴の表、合併症は序文と推奨の根拠の節）。同ガイドラインでは咽頭炎と扁桃炎は一体として扱われる。治療薬は OR-014 が担うため本カードには薬剤名を含めていない。PMCID は PMC 本文で確認した（出典マスターでは null のため補完候補）。
+- 出典：Shulman ST, Bisno AL, Clegg HW, et al. Clinical practice guideline for the diagnosis and management of group A streptococcal pharyngitis: 2012 update by the Infectious Diseases Society of America. Clin Infect Dis. 2012;55(10):e86-e102.　[DOI 10.1093/cid/cis629](https://doi.org/10.1093/cid/cis629)　[PMID 22965026](https://pubmed.ncbi.nlm.nih.gov/22965026/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-10-C-③（急性扁桃炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-517 (id: JlvnmQM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-040&card_id=OR-040&version=2d1791997a)　（版 `2d1791997a`）
+
+**[ここまでの 1 件（OR-040）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OR-040&cards=OR-040%202d1791997a)**
+
+---
+
+## 扁桃周囲炎・膿瘍
+
+### OR-041　下書き（出典の照合前）
+
+> 扁桃周囲膿瘍は頭頸部の深部感染症の中で最も頻度が高く、主に若年成人に生じ、米国での発症率は人口10万人あたり年約30人とされる。多くは複合菌感染であり、A群溶連菌と口腔内の嫌気性菌が関与する。発熱、強い咽頭痛、嚥下障害、開口障害、含み声（hot potato voice）がみられ、患側の軟口蓋の腫脹・発赤と、口蓋垂の対側への偏位が特徴的である。診断は主として臨床所見と診察による。治療の柱は膿瘍のドレナージ、抗菌薬療法、輸液と疼痛管理などの支持療法であり、ドレナージの方法（穿刺吸引、切開排膿、即時扁桃摘出）はいずれも有効で、患者転帰に有意差はなかったとされる。即時扁桃摘出は、反復性扁桃炎の既往がある例や、局所麻酔下のドレナージ手技に耐えにくい小児などで考慮される。認識と治療の開始が遅れると、気道閉塞や深頸部組織への感染の進展などの重篤な合併症を来しうる。
+
+- 条件：region: 米国／対象: 総説（扁桃周囲膿瘍）
+- 不確実性：発症率（10万人あたり年約30人）と年齢分布は米国の総説本文の記載に基づく。症状・所見とドレナージ法の比較は同総説の本文と表で確認した。本文から読み取りに相当する数値を含む。薬剤については、A群溶連菌と口腔嫌気性菌に有効な抗菌薬が第一選択である旨と副腎皮質ステロイド併用の可能性が同総説に記載されているが、本カードでは個別の薬剤名・用量を含めていないため、個別薬剤の国内承認・保険適用の確認は行っていない。
+- 出典：Galioto NJ. Peritonsillar Abscess. Am Fam Physician. 2017;95(8):501-506.　[PMID 28409615](https://pubmed.ncbi.nlm.nih.gov/28409615/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-10-C-④（扁桃周囲炎・膿瘍、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-518 (id: JlvnmQk)；TBL-01-00-519 (id: JlvnmQs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-041&card_id=OR-041&version=fefce0fb8a)　（版 `fefce0fb8a`）
+
+**[ここまでの 1 件（OR-041）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OR-041&cards=OR-041%20fefce0fb8a)**
+
+---
+
+## 頸部リンパ節炎
+
+### OR-042　下書き（出典の照合前）
+
+> 小児の頸部リンパ節腫脹の原因は多岐にわたる。ウイルス感染が最も頻度が高く、両側性に腫脹することが多い。急性の細菌性リンパ節炎では黄色ブドウ球菌とA群溶連菌が40〜80%を占め、片側性の有痛性腫脹を呈することが多い。慢性の経過をとる細菌性リンパ節炎では非結核性抗酸菌が主な原因で、次いで猫ひっかき病の原因菌（Bartonella）、結核菌、ブルセラなどが挙がる。川崎病では、前頸部の急性で非化膿性、比較的無痛性のリンパ節腫脹がみられる。悪性腫瘍を示唆する所見は、2〜2.5cmを超える大きさ、硬い性状、鎖骨上窩の部位、圧痛がないこと、可動性が低いこと、進行性の経過、B症状である。診断は病歴と診察を基礎とし、超音波検査が鑑別の中心的な画像検査であり、悪性が疑われる場合は穿刺吸引細胞診よりもリンパ節全体の摘出による組織診断が優先される。
+
+- 条件：region: 国際／対象: 小児（総説）
+- 不確実性：出典は小児を対象とするドイツの総説であり、原因の頻度構成は小児のもので、成人では異なる。割合（40〜80%）と大きさの基準（2〜2.5cm）は出典本文から読み取った値である。薬剤名は含めていない。
+- 出典：Lang S, Kansy B. Cervical lymph node diseases in children. GMS Curr Top Otorhinolaryngol Head Neck Surg. 2014;13:Doc08.　[DOI 10.3205/cto000111](https://doi.org/10.3205/cto000111)　[PMID 25587368](https://pubmed.ncbi.nlm.nih.gov/25587368/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-10-E-①（頸部リンパ節炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-530 (id: JlvnmS4)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-042&card_id=OR-042&version=0a75ad4ec4)　（版 `0a75ad4ec4`）
+
+**[ここまでの 1 件（OR-042）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OR-042&cards=OR-042%200a75ad4ec4)**
+
+---
+
+## 頸部膿瘍
+
+### OR-043　下書き（出典の照合前）
+
+> 深頸部感染症（頸部膿瘍を含む）は頸部の筋膜間隙に生じる化膿性感染症で、内科・外科の緊急事態である。原因は歯原性と扁桃原性が最も多く、起因菌は好気性菌と嫌気性菌の複合感染が多い。主な症状は嚥下痛、嚥下障害、開口障害、よだれであり、発熱、頸部の腫脹・発赤、頸部硬直が持続的な所見となる。感染は下方へ進展して降下性壊死性縦隔炎を来し、予後不良となりうる。その他の合併症には、内頸静脈血栓症、気道閉塞、急性呼吸促迫症候群、敗血症、播種性血管内凝固がある。CTは病変の性状と関与する間隙の同定に有用で診断の中心とされ、初期評価では気道の評価が優先される。治療は、頸部間隙の開放ドレナージと壊死組織のデブリードマン、好気性菌と嫌気性菌をカバーする経験的抗菌薬療法を組み合わせ、集学的チームで対応する。
+
+- 条件：region: 国際／対象: 深頸部感染症（スコーピングレビュー、2025年）
+- 不確実性：出典は降下性壊死性縦隔炎を伴う深頸部感染症に焦点を当てたスコーピングレビューであり、縦隔炎を伴わない頸部膿瘍一般の経過とは重症度が異なる場合がある。薬剤名は含めていない（抗菌薬は対象菌の範囲の水準で記載し、国内で承認された抗菌薬製剤を用いる）。
+- 出典：Cobzeanu BM, Moisii L, Palade OD, et al. Management of Deep Neck Infection Associated with Descending Necrotizing Mediastinitis: A Scoping Review. Medicina (Kaunas). 2025;61(2):325.　[DOI 10.3390/medicina61020325](https://doi.org/10.3390/medicina61020325)　[PMID 40005441](https://pubmed.ncbi.nlm.nih.gov/40005441/)（区分 OPEN）
+- 出題基準：医学各論 Ⅲ-10-E-②（頸部膿瘍、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-531 (id: JlvnmTA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-043&card_id=OR-043&version=98bc1c5901)　（版 `98bc1c5901`）
+
+**[ここまでの 1 件（OR-043）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OR-043&cards=OR-043%2098bc1c5901)**
+
+---
+
+## リンパ節転移
+
+### OR-044　下書き（出典の照合前）
+
+> 成人の頸部腫瘤は、他の原因が証明されるまでは悪性と考えるべきであり、無症候の頸部腫瘤が頭頸部癌の初発の、または唯一の所見であることがある。悪性のリスクが高いと判断する手がかりは、感染性の病歴がなく2週間以上持続する腫瘤（または期間が不明な腫瘤）と、周囲組織への固定、硬い性状、1.5cmを超える大きさ、被覆皮膚の潰瘍といった診察所見である。リスクが高い例では、造影CT（またはMRI）を頭蓋底から胸郭入口部まで撮影し、診断がなお不明な場合は開創生検ではなく穿刺吸引細胞診（FNA）を行う。FNAの正確度は頸部腫瘤全体で93.1%、リンパ節では感度92.5%と報告される。頸部リンパ節のレベル分類は、診察と画像で転移の分布を記載する枠組みとして用いられる。嚢胞性の腫瘤であっても良性と決めつけず、診断が確定するまで評価を続ける。
+
+- 条件：region: 米国／対象: 成人（診療ガイドライン）
+- 不確実性：正確度・感度と大きさの基準（1.5cm）はガイドライン本文から読み取った値である。レベル分類の各レベルの境界の定義は同ガイドラインの図（Figure 7）に示されるが、図の細部は本文で確認できないため主張には含めていない。本出典は既存マスターに SRC-1210 として登録済みであり、本カードはその再利用である。対象は成人で、小児の頸部腫瘤には適用されない。薬剤名は含めていない。
+- 出典：Pynnonen MA, Gillespie MB, Roman B, Rosenfeld RM, et al. Clinical Practice Guideline: Evaluation of the Neck Mass in Adults. Otolaryngol Head Neck Surg. 2017;157(2_suppl):S1-S30.　[DOI 10.1177/0194599817722550](https://doi.org/10.1177/0194599817722550)　[PMID 28891406](https://pubmed.ncbi.nlm.nih.gov/28891406/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-10-E-③（リンパ節転移、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-527 (id: JlvnmTI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-044&card_id=OR-044&version=c6d2ed220b)　（版 `c6d2ed220b`）
+
+**[ここまでの 1 件（OR-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OR-044&cards=OR-044%20c6d2ed220b)**
 
 ---
 

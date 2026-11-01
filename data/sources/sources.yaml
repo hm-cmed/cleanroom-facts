@@ -34728,3 +34728,228 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/62_brushup_a.md の出典マスター表から
+- id: SRC-4621
+  legacy_id: null
+  title: 'García-Montero M, Felipe-Márquez G, Arriola-Villalobos P, Garzón N. Pseudomyopia: A Review. Vision (Basel). 2022;6(1):17'
+  citation: 'García-Montero M, Felipe-Márquez G, Arriola-Villalobos P, Garzón N. Pseudomyopia: A Review. Vision (Basel). 2022;6(1):17'
+  doi: 10.3390/vision6010017
+  pmid: '35324602'
+  pmcid: null
+  license_note: CC BY 4.0（PMC掲載ページで表示を確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md の出典マスター表から
+- id: SRC-4622
+  legacy_id: null
+  title: 'Hatemi G, Ramiro S, Ozguler Y, et al. EULAR recommendations for the management of Behçet''s syndrome: 2025 update. Ann Rheum Dis. 2026;85(6):1010-1025'
+  citation: 'Hatemi G, Ramiro S, Ozguler Y, et al. EULAR recommendations for the management of Behçet''s syndrome: 2025 update. Ann Rheum Dis. 2026;85(6):1010-1025'
+  doi: 10.1016/j.ard.2026.02.009
+  pmid: '41876291'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md の出典マスター表から
+- id: SRC-4623
+  legacy_id: null
+  title: Heim SW, Maughan KL. Foreign bodies in the ear, nose, and throat. Am Fam Physician. 2007;76(8):1185-1189
+  citation: Heim SW, Maughan KL. Foreign bodies in the ear, nose, and throat. Am Fam Physician. 2007;76(8):1185-1189
+  doi: null
+  pmid: '17990843'
+  pmcid: null
+  license_note: ライセンス表示を確認できず
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md の出典マスター表から
+- id: SRC-4624
+  legacy_id: null
+  title: 'Schacht J, Talaska AE, Rybak LP. Cisplatin and aminoglycoside antibiotics: hearing loss and its prevention. Anat Rec (Hoboken). 2012;295(11):1837-1850'
+  citation: 'Schacht J, Talaska AE, Rybak LP. Cisplatin and aminoglycoside antibiotics: hearing loss and its prevention. Anat Rec (Hoboken). 2012;295(11):1837-1850'
+  doi: 10.1002/ar.22578
+  pmid: '23045231'
+  pmcid: null
+  license_note: © Wiley（PMC掲載は著者原稿で、CC表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md の出典マスター表から
+- id: SRC-4625
+  legacy_id: null
+  title: Ferguson MA, Sarant JZ, Bennett RJ, McIlhiney P, Badcock N, Bothe E. Hearing aids for mild to moderate hearing loss in adults. Cochrane Database Syst Rev. 2026;8(8):CD012023
+  citation: Ferguson MA, Sarant JZ, Bennett RJ, McIlhiney P, Badcock N, Bothe E. Hearing aids for mild to moderate hearing loss in adults. Cochrane Database Syst Rev. 2026;8(8):CD012023
+  doi: 10.1002/14651858.CD012023.pub3
+  pmid: '42644645'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（PMC掲載ページで表示を確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md の出典マスター表から
+- id: SRC-4626
+  legacy_id: null
+  title: 'Bae CH, Na HG, Choi YS. Current diagnosis and treatment of vestibular neuritis: a narrative review. Yeungnam Univ J Med. 2022;39(2):81-88'
+  citation: 'Bae CH, Na HG, Choi YS. Current diagnosis and treatment of vestibular neuritis: a narrative review. Yeungnam Univ J Med. 2022;39(2):81-88'
+  doi: 10.12701/yujm.2021.01228
+  pmid: '34411472'
+  pmcid: null
+  license_note: CC BY-NC 4.0（PMC掲載ページで表示を確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md の出典マスター表から
+- id: SRC-4627
+  legacy_id: null
+  title: 'Sheik-Ali S, Sheik-Ali S, Sheik-Ali A. Nasal vestibular furunculosis: Summarised case series. World J Otorhinolaryngol Head Neck Surg. 2022;8(3):217-223'
+  citation: 'Sheik-Ali S, Sheik-Ali S, Sheik-Ali A. Nasal vestibular furunculosis: Summarised case series. World J Otorhinolaryngol Head Neck Surg. 2022;8(3):217-223'
+  doi: 10.1016/j.wjorl.2020.12.003
+  pmid: '36159901'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（PMC掲載ページで表示を確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md の出典マスター表から
+- id: SRC-4628
+  legacy_id: null
+  title: 'Chiang CP, Chang JYF, Wang YP, Wu YH, Wu YC, Sun A. Atrophic glossitis: Etiology, serum autoantibodies, anemia, hematinic deficiencies, hyperhomocysteinemia, and management. J Formos Med Assoc. 2020;119(4):774-780.'
+  citation: 'Chiang CP, Chang JYF, Wang YP, Wu YH, Wu YC, Sun A. Atrophic glossitis: Etiology, serum autoantibodies, anemia, hematinic deficiencies, hyperhomocysteinemia, and management. J Formos Med Assoc. 2020;119(4):774-780.'
+  doi: 10.1016/j.jfma.2019.04.015
+  pmid: '31076315'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md の出典マスター表から
+- id: SRC-4629
+  legacy_id: null
+  title: 'Coppola N, Cantile T, Adamo D, et al. Supportive care and antiviral treatments in primary herpetic gingivostomatitis: a systematic review. Clin Oral Investig. 2023;27(11):6333-6344.'
+  citation: 'Coppola N, Cantile T, Adamo D, et al. Supportive care and antiviral treatments in primary herpetic gingivostomatitis: a systematic review. Clin Oral Investig. 2023;27(11):6333-6344.'
+  doi: 10.1007/s00784-023-05250-5
+  pmid: '37733027'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md の出典マスター表から
+- id: SRC-4630
+  legacy_id: null
+  title: 国立健康危機管理研究機構 感染症情報提供サイト「ヘルパンギーナ」（2014年7月23日改訂）
+  citation: 国立健康危機管理研究機構 感染症情報提供サイト「ヘルパンギーナ」（2014年7月23日改訂）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府機関の公開ページ
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md の出典マスター表から
+- id: SRC-4631
+  legacy_id: null
+  title: Gauer RL, Semidey MJ. Diagnosis and Treatment of Temporomandibular Disorders. Am Fam Physician. 2015;91(6):378-386.
+  citation: Gauer RL, Semidey MJ. Diagnosis and Treatment of Temporomandibular Disorders. Am Fam Physician. 2015;91(6):378-386.
+  doi: null
+  pmid: '25822556'
+  pmcid: null
+  license_note: CC表示なし（© American Academy of Family Physicians）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md の出典マスター表から
+- id: SRC-4632
+  legacy_id: null
+  title: Galioto NJ. Peritonsillar Abscess. Am Fam Physician. 2017;95(8):501-506.
+  citation: Galioto NJ. Peritonsillar Abscess. Am Fam Physician. 2017;95(8):501-506.
+  doi: null
+  pmid: '28409615'
+  pmcid: null
+  license_note: © 2017 American Academy of Family Physicians（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md の出典マスター表から
+- id: SRC-4633
+  legacy_id: null
+  title: Lang S, Kansy B. Cervical lymph node diseases in children. GMS Curr Top Otorhinolaryngol Head Neck Surg. 2014;13:Doc08.
+  citation: Lang S, Kansy B. Cervical lymph node diseases in children. GMS Curr Top Otorhinolaryngol Head Neck Surg. 2014;13:Doc08.
+  doi: 10.3205/cto000111
+  pmid: '25587368'
+  pmcid: null
+  license_note: CC BY-NC-ND 3.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md の出典マスター表から
+- id: SRC-4634
+  legacy_id: null
+  title: 'Cobzeanu BM, Moisii L, Palade OD, et al. Management of Deep Neck Infection Associated with Descending Necrotizing Mediastinitis: A Scoping Review. Medicina (Kaunas). 2025;61(2):325.'
+  citation: 'Cobzeanu BM, Moisii L, Palade OD, et al. Management of Deep Neck Infection Associated with Descending Necrotizing Mediastinitis: A Scoping Review. Medicina (Kaunas). 2025;61(2):325.'
+  doi: 10.3390/medicina61020325
+  pmid: '40005441'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md の出典マスター表から
+- id: SRC-4635
+  legacy_id: null
+  title: Smith I, Kidd S, Kim S, Tennill RM. Assessment and Management of Electrical Injuries in Adults in the Emergency Department. Cureus. 2026;18(4):e107162.
+  citation: Smith I, Kidd S, Kim S, Tennill RM. Assessment and Management of Electrical Injuries in Adults in the Emergency Department. Cureus. 2026;18(4):e107162.
+  doi: 10.7759/cureus.107162
+  pmid: null
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md の出典マスター表から

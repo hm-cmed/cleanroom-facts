@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 54 件のうち、監修済み 0 件。
+全 56 件のうち、監修済み 0 件。
 
 ## 眼球の構造と機能
 
@@ -464,7 +464,17 @@
 - 出題基準：医学各論 Ⅲ-4-B-①（うっ血乳頭、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-495 (id: JlvnmOc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-038&card_id=EY-038&version=883a6889c2)　（版 `883a6889c2`）
 
-**[ここまでの 1 件（EY-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-038&cards=EY-038%20883a6889c2)**
+### EY-061　下書き（出典の照合前）
+
+> うっ血乳頭の治療は、原因疾患への対応が基本である。特発性頭蓋内圧亢進症では、多くの患者が減量と経口アセタゾラミドに反応する。来院時に中心視力の低下と視野狭窄がある患者、およびアセタゾラミドに反応しない患者では外科的治療を検討し、通常は脳室腹腔シャントが選択される手技である。
+
+- 条件：region: グローバル／対象: うっ血乳頭の患者（特発性頭蓋内圧亢進症を含む）
+- 不確実性：主張の治療内容は出典（総説）の抄録で確認した範囲であり、薬剤の用量などの詳細は抄録に含まれていない。アセタゾラミドは国内で承認されている薬剤だが、その承認効能・効果は緑内障、てんかん（他の抗てんかん薬で効果不十分な場合に付加）、肺気腫における呼吸性アシドーシスの改善、心性浮腫、肝性浮腫、月経前緊張症、メニエル病及びメニエル症候群、睡眠時無呼吸症候群（錠剤）であり、特発性頭蓋内圧亢進症は承認効能に含まれないため、同症への使用は適応外使用となる。
+- 出典：Xie JS, Donaldson L, Margolin E. Papilledema: A review of etiology, pathophysiology, diagnosis, and management. Surv Ophthalmol. 2022;67(4):1135-1159　[DOI 10.1016/j.survophthal.2021.11.007](https://doi.org/10.1016/j.survophthal.2021.11.007)　[PMID 34813854](https://pubmed.ncbi.nlm.nih.gov/34813854/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅲ-4-B-①（うっ血乳頭、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-495 (id: JlvnmOc)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-061&card_id=EY-061&version=b3c9c860ea)　（版 `b3c9c860ea`）
+
+**[ここまでの 2 件（EY-038〜EY-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-038%E3%80%9CEY-061&cards=EY-038%20883a6889c2%0AEY-061%20b3c9c860ea)**
 
 ---
 
@@ -757,6 +767,22 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-059&card_id=EY-059&version=b87a535ce6)　（版 `b87a535ce6`）
 
 **[ここまでの 2 件（EY-058〜EY-059）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-058%E3%80%9CEY-059&cards=EY-058%201267fa728e%0AEY-059%20b87a535ce6)**
+
+---
+
+## 調節異常
+
+### EY-060　下書き（出典の照合前）
+
+> 仮性近視は、調節の過剰な働き（調節緊張）によって眼の屈折力が増し、遠見視力が下がって近視のように見える状態で、毛様体筋が光学的無限遠でも十分に弛緩しないために生じる。完全な調節麻痺下の屈折検査では消失し、通常の屈折値と調節麻痺下の屈折値との差が診断の手がかりになる。症状は遠見のぼやけや変動、頭痛などで、視力・検影・瞳孔の変動として観察されることがある。近業の後には0.2〜0.6ジオプトリー程度の一過性の近視化がみられることがあり、未矯正の遠視、間欠性外斜視、情緒・心理的要因、頭部外傷を含む脳損傷との関連も報告されている。縮瞳や輻湊の痙攣を伴う近見反射痙攣の形をとることもあれば、単独で生じることもある。
+
+- 条件：region: 全般／対象: 調節緊張（仮性近視）の患者
+- 不確実性：出典は仮性近視に特化した総説であり、調節麻痺そのものの成因・経過・治療は本文で扱われていない。本カードは調節緊張（仮性近視）の側面に限り、調節麻痺については一次資料級の総説を確認できなかったため含めていない。数値（近業後の一過性近視化0.2〜0.6ジオプトリー）は総説本文の記載に基づく。本カードには薬剤名を含めていない（調節麻痺下検査に用いる薬剤の個別の承認状況は記載していない）。
+- 出典：García-Montero M, Felipe-Márquez G, Arriola-Villalobos P, Garzón N. Pseudomyopia: A Review. Vision (Basel). 2022;6(1):17　[DOI 10.3390/vision6010017](https://doi.org/10.3390/vision6010017)　[PMID 35324602](https://pubmed.ncbi.nlm.nih.gov/35324602/)（区分 OPEN）
+- 出題基準：医学各論 Ⅲ-4-A-③（調節異常、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-489 (id: JlvnmNk)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-060&card_id=EY-060&version=86e9c0b56a)　（版 `86e9c0b56a`）
+
+**[ここまでの 1 件（EY-060）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-060&cards=EY-060%2086e9c0b56a)**
 
 ---
 

@@ -1550,3 +1550,248 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅲ-8-C-⑩ を足した（医学各論 Ⅲ-8-C-⑨（軟口蓋麻痺、c） → 医学各論 Ⅲ-8-C-⑨（軟口蓋麻痺、c）；医学各論 Ⅲ-8-C-⑩（頸静脈孔症候群、c））。三原の承認による
+- id: OT-045
+  domain: OT
+  subdomain: 外耳道異物
+  assertion:
+    plain_statement_ja: 外耳道異物の摘出には鉗子、水洗、吸引カテーテルなどの方法があり、成否は異物の位置、材質、把持できる形かどうか、患者の協力に左右される。生きた昆虫は、摘出の前にアルコール、2％リドカイン液、鉱物油などを注入して速やかに殺すが、鼓膜に穿孔がある場合はこの注入を行わない。ボタン電池では水洗を行わない（電流や電池の内容物によって液状化壊死を起こしうるため、速やかな摘出を要する）。最初の摘出の試みが最も重要で、失敗を繰り返すと成功率が下がり合併症が増えるため、鎮静や麻酔が必要な場合、外耳道や鼓膜に損傷がある場合、把持できない異物が外耳道の内側に強く嵌頓している場合、ガラスなど鋭利な異物の場合、摘出に失敗した場合は、専門科への紹介を検討する。
+    condition:
+      region: 米国
+      対象: 外耳道異物の患者（小児に多い）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4623
+    source: Heim SW, Maughan KL. Foreign bodies in the ear, nose, and throat. Am Fam Physician. 2007;76(8):1185-1189
+    doi: null
+    pmid: '17990843'
+    pmcid: null
+    url: https://www.aafp.org/pubs/afp/issues/2007/1015/p1185.html
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 出典は米国の家庭医療向け総説（2007年）で、摘出法ごとの推奨を裏づけるエビデンスは出典自体が不十分としている。リドカインは国内承認薬（局所麻酔薬など）だが、外耳道内の昆虫を殺す目的での注入は承認された効能・効果ではなく、出典の記載に基づく使用法である。植物性の異物が水で膨らむため水洗を避けるという注意は、本出典の本文では確認できなかったため本カードには含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-7-A-①（外耳道異物、a）
+    core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: OT-046
+  domain: OT
+  subdomain: 滲出性中耳炎
+  assertion:
+    plain_statement_ja: 滲出性中耳炎では、ことばや学習の問題のリスクが高い児かどうかを判定し、リスクのある児は、そのリスク状態が診断された時点と生後12〜18か月の時点で評価する。滲出性中耳炎が3か月以上持続する場合、またはリスクのある児では持続期間にかかわらず、年齢に応じた聴力検査を行う。両側の滲出性中耳炎で難聴が記録された児の家族には、会話や言語の発達への影響について説明する。慢性の滲出性中耳炎は3〜6か月間隔で再評価する。手術を行う場合、4歳未満の児では鼓膜チューブ留置が推奨され、アデノイド切除は鼻閉や慢性アデノイド炎など別の適応がある場合に限る。4歳以上の児では、鼓膜チューブ留置、アデノイド切除、またはその両方が推奨される。
+    condition:
+      region: 米国
+      対象: 生後2か月から12歳の小児
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1349
+    source: 'Rosenfeld RM, Shin JJ, Schwartz SR, et al. Clinical Practice Guideline: Otitis Media with Effusion (Update). Otolaryngol Head Neck Surg. 2016;154(1 Suppl):S1-S41'
+    doi: 10.1177/0194599815623467
+    pmid: '26832942'
+    pmcid: null
+    url: https://doi.org/10.1177/0194599815623467
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 主張は出典（米国の診療ガイドライン、2016年改訂版）の抄録に掲載されたアクションステートメントで確認した範囲である。日本の小児滲出性中耳炎の診療ガイドラインとの推奨の差異は確認していない。本カードには薬剤名を含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-7-C-②（滲出性中耳炎、a）
+    core_curriculum: 'PS-02-16-05 (id: JkxnuTo)；TBL-01-00-501 (id: JlvnmO0)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: OT-047
+  domain: OT
+  subdomain: 薬剤性難聴
+  assertion:
+    plain_statement_ja: 薬剤性難聴（聴器毒性）の現れ方は原因薬剤によって異なる。白金製剤のシスプラチンは蝸牛のみを障害し、前庭障害はほとんどみられない。その難聴は両側性で、蝸牛の基底回転にある外有毛細胞の障害により高音域から始まり、投与が続くと低い音域へ広がる。アミノグリコシド系抗菌薬では、薬剤によって蝸牛毒性と前庭毒性の偏りが異なり、ゲンタマイシンは前庭毒性が強く、アミカシンとネオマイシンは主に蝸牛を障害する傾向があり、毒性の強さはネオマイシンが最も強い部類とされる。アミノグリコシドによる障害も両側性で高音域から始まり、症状は投与開始から数日〜数週間遅れて現れ、投与中止後も進行することがある。フロセミドなどのループ利尿薬は、単独では一過性の内耳への影響にとどまるが、アミノグリコシドと併用すると障害が著しく強まる。
+    condition:
+      region: 全般
+      対象: 聴器毒性のある薬剤の投与を受ける患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4624
+    source: 'Schacht J, Talaska AE, Rybak LP. Cisplatin and aminoglycoside antibiotics: hearing loss and its prevention. Anat Rec (Hoboken). 2012;295(11):1837-1850'
+    doi: 10.1002/ar.22578
+    pmid: '23045231'
+    pmcid: PMC3596108
+    url: https://doi.org/10.1002/ar.22578
+    source_license: © Wiley（PMC掲載は著者原稿で、CC表示を確認できず）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 本カードに挙げた薬剤（シスプラチン、ゲンタマイシン、アミカシン、ネオマイシン、フロセミド）はいずれも国内で承認されている薬剤であり、本カードは各薬剤の適応や用法を述べたものではなく、承認された治療に伴って生じうる聴器毒性の特徴を、原因薬剤としての観点から列挙したものである。個別薬剤の効能・効果と用法・用量は各製剤の添付文書による。ループ利尿薬については、出典の記載が単独投与時の一過性の影響とアミノグリコシド併用時の障害の増強にとどまるため、その範囲で記載した。聴器毒性の頻度の見積もりは研究間で差が大きいため、本カードには数値を含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-8-A-②（薬剤性難聴、a）
+    core_curriculum: 'PS-02-16-05 (id: JkxnuTo)；TBL-01-00-503 (id: JlvnmPI)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: OT-048
+  domain: OT
+  subdomain: 老人性難聴
+  assertion:
+    plain_statement_ja: 補聴器は、軽度から中等度の難聴に対する主たる臨床的介入であり、聞こえの困難を訴える成人への第一選択の管理として広く提供されている。Cochrane系統的レビューの2026年改訂版では、ランダム化比較試験16件（参加者2,261人、各研究の参加者の平均年齢58〜83歳）を統合し、補聴器の使用によって、日常生活への参加に関する聴覚特異的な健康関連QOLが大きく改善し（標準化平均差 −1.25、95%信頼区間 −1.63〜−0.87。8件、1,683人。エビデンスの確実性は中等度）、聞き取り能力も大きく改善した（標準化平均差 −1.28。5件、622人。中等度）。全般的な健康関連QOLへの効果は小さく、孤独感と作業記憶については効果が示されなかった。
+    condition:
+      region: 国際
+      対象: 軽度から中等度の難聴のある成人（加齢性難聴を含む）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4625
+    source: Ferguson MA, Sarant JZ, Bennett RJ, McIlhiney P, Badcock N, Bothe E. Hearing aids for mild to moderate hearing loss in adults. Cochrane Database Syst Rev. 2026;8(8):CD012023
+    doi: 10.1002/14651858.CD012023.pub3
+    pmid: '42644645'
+    pmcid: PMC13509011
+    url: https://doi.org/10.1002/14651858.CD012023.pub3
+    source_license: CC BY-NC-ND 4.0（PMC掲載ページで表示を確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 出典の系統的レビューは加齢性難聴に限定したものではなく、軽度から中等度の難聴のある成人一般を対象とするが、含まれる研究の参加者は平均年齢58〜83歳で高齢者が中心である。本カードでは、当初候補だった2017年版（CD012023.pub2）ではなく、PMCで更新表示を確認した2026年改訂版（CD012023.pub3）を採用し、数値は改訂版の抄録で照合した。補聴器は薬剤ではなく管理医療機器であり、本カードには薬剤名を含めていない。国内では補聴器の購入は健康保険の給付対象ではなく、障害者総合支援法に基づく補装具費の支給は、身体障害者手帳の対象となる聴覚障害の場合などに限られる。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-8-A-③（老人性難聴、a）
+    core_curriculum: 'PS-02-16-05 (id: JkxnuTo)；TBL-01-00-503 (id: JlvnmPI)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: OT-049
+  domain: OT
+  subdomain: 前庭神経炎
+  assertion:
+    plain_statement_ja: 前庭神経炎は、末梢性のめまい疾患の中で良性発作性頭位めまい症とメニエール病に次いで頻度が高く、24時間以上続く突然の回転性めまいを特徴とし、難聴や耳鳴などの蝸牛症状や、その他の神経症状を伴わない。めまいは数時間をかけて増強して初日にピークに達し、悪心・嘔吐を伴うが、通常は1〜3日で大きく軽快する。障害側と反対向きの水平・回旋混合性の自発眼振がみられ、頭部インパルス試験では障害側への頭部回転で修正サッケードが現れる。診断の補助には、頭部インパルス試験のほか温度眼振検査や前庭誘発筋電位（VEMP）が用いられる。治療は対症療法が中心で、急性期には前庭抑制薬と制吐薬を用い、摂食が困難な場合には輸液などの支持療法を行う。前庭抑制薬の長期使用は中枢代償を遅らせるため急性期の使用にとどめ、回復に向けて前庭リハビリテーションによる代償の促進も行われる。
+    condition:
+      region: 全般
+      対象: 前庭神経炎の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4626
+    source: 'Bae CH, Na HG, Choi YS. Current diagnosis and treatment of vestibular neuritis: a narrative review. Yeungnam Univ J Med. 2022;39(2):81-88'
+    doi: 10.12701/yujm.2021.01228
+    pmid: '34411472'
+    pmcid: PMC8913909
+    url: https://doi.org/10.12701/yujm.2021.01228
+    source_license: CC BY-NC 4.0（PMC掲載ページで表示を確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ステロイド治療の効果については既存カードOT-032（ステロイド治療のメタ解析）が扱っているため、本カードでは触れていない。出典の総説が前庭抑制薬の代表例として挙げる薬剤のうち、ジメンヒドリナートには国内で動揺病やメニエール症候群などに伴う悪心・嘔吐・眩暈への効能で承認された医療用製剤（ドラマミン錠）があり、メクリジン塩酸塩は国内の一般用乗り物酔い薬の配合成分として用いられている。ただし、いずれも前庭神経炎自体を効能・効果とするものではなく、本カードでの記載は急性期の対症療法としての位置づけである。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-8-B-③（前庭神経炎、a）
+    core_curriculum: 'PS-02-16-05 (id: JkxnuTo)；TBL-01-00-508 (id: JlvnmPs)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: OT-050
+  domain: OT
+  subdomain: 動揺病
+  assertion:
+    plain_statement_ja: 動揺病の薬物療法では、抗コリン薬と抗ヒスタミン薬が最も有効な予防薬とされ、動揺への曝露前に投与して予防する使い方が中心である。抗コリン薬のスコポラミンは、ランダム化比較試験14件の系統的レビューでプラセボより予防効果に優れたが、抗ヒスタミン薬に対する優越性は示されなかった。剤形には経口剤のほか、耳介後部に貼付して長時間作用する経皮吸収型製剤がある。有効な抗ヒスタミン薬は、ジメンヒドリナート、メクリジン、プロメタジンなど第1世代のH1受容体拮抗薬であり、第2世代の抗ヒスタミン薬は有効でなかった。これらの薬剤では、眠気などの鎮静作用が使用上の制約になる。
+    condition:
+      region: 全般
+      対象: 動揺病の予防・治療の対象者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1363
+    source: 'Zhang LL, Wang JQ, Qi RR, Pan LL, Li M, Cai YL. Motion Sickness: Current Knowledge and Recent Advance. CNS Neurosci Ther. 2016;22(1):15-24'
+    doi: 10.1111/cns.12468
+    pmid: '26452639'
+    pmcid: PMC6492910
+    url: https://doi.org/10.1111/cns.12468
+    source_license: © John Wiley & Sons（CC表示は Crossref・PMC で確認できず）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: スコポラミン貼付剤（経皮吸収型製剤）は国内では未承認で市販されていない（国内の文献とPMDAの公開情報で確認）。国内のスコポラミンは、臭化水素酸塩水和物として一部の一般用乗り物酔い薬の配合成分や、注射剤の形で用いられている。ジメンヒドリナートには、動揺病などに伴う悪心・嘔吐・眩暈への効能で国内承認された医療用製剤（ドラマミン錠50mg）があり、メクリジン塩酸塩は国内の一般用乗り物酔い薬の配合成分として用いられ、プロメタジン塩酸塩（ヒベルナ）は効能・効果に動揺病を含む国内承認薬である。スコポラミン貼付剤の効果持続時間（72時間）は、出典の薬剤表から読み取った数値である。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-8-B-⑤（動揺病、a）
+    core_curriculum: 'PS-02-16-05 (id: JkxnuTo)；TBL-01-00-505 (id: JlvnmPc)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: OT-051
+  domain: OT
+  subdomain: Horner症候群
+  assertion:
+    plain_statement_ja: Horner症候群の原因は、眼交感神経路の障害部位によって異なる。1次ニューロン（中枢性）の障害では視床下部・脳幹・頸髄の病変が原因となり、延髄外側梗塞（Wallenberg症候群）、脳幹や脊髄の腫瘍・脱髄・梗塞などが含まれる。2次ニューロン（節前性）の障害では肺尖部腫瘍が代表的で、非小細胞肺癌によるPancoast症候群を呈することがあり、そのほか外傷や、肺・縦隔の手術などによる医原性の交感神経幹の損傷も原因となる。3次ニューロン（節後性）の障害では内頸動脈解離が代表的で、頭頸部痛を伴い、顔面の発汗を担う線維が温存されるため無汗症を欠くことが多い。そのほか、内頸動脈の動脈瘤などの血管病変、海綿静脈洞病変、群発頭痛なども原因となる。
+    condition:
+      region: 全般
+      対象: Horner症候群の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1366
+    source: 'Kanagalingam S, Miller NR. Horner syndrome: clinical perspectives. Eye Brain. 2015;7:35-46'
+    doi: 10.2147/EB.S63633
+    pmid: '28539793'
+    pmcid: PMC5398733
+    url: https://doi.org/10.2147/EB.S63633
+    source_license: CC BY-NC 3.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 部位別の原因は、出典（総説）の局在診断に関する各項（1次・2次・3次ニューロンの障害）の本文を直接照合して記載した。原因が同定された症例集積における部位別の割合などの数値は、本カードには含めていない。本カードには薬剤名を含めていない（薬理学的検査に用いる点眼薬の詳細は既存カードOT-038の扱う範囲に関連する）。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-8-C-③（Horner症候群、a）
+    core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 21 件のうち、監修済み 0 件。
+全 22 件のうち、監修済み 0 件。
 
 ## 鼻・外鼻疾患
 
@@ -253,6 +253,22 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-020&card_id=NL-020&version=16e041f1fa)　（版 `16e041f1fa`）
 
 **[ここまでの 3 件（NL-015〜NL-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NL-015%E3%80%9CNL-020&cards=NL-015%2024cb043a43%0ANL-016%20388fcdab4b%0ANL-020%2016e041f1fa)**
+
+---
+
+## 鼻せつ
+
+### NL-023　下書き（出典の照合前）
+
+> 鼻せつ（鼻前庭せつ）は、鼻前庭の皮膚の毛包に生じる急性の限局性感染症で、原因菌は黄色ブドウ球菌が多い。主な臨床像は、鼻尖の発赤、腫脹、圧痛である。治療は温罨法などの保存的対応が基本で、ムピロシンの鼻腔内への外用が頻用され、症例によって経口抗菌薬が併用され、多くは7日以内に軽快する。合併症はまれだが、膿瘍の形成のほか、眼静脈血栓症、海綿静脈洞血栓症、眼窩膿瘍といった重篤な合併症が起こりうるため、注意を要する。
+
+- 条件：region: 全般／対象: 鼻せつ（鼻前庭せつ）の患者
+- 不確実性：出典は症例集積と文献レビューをまとめた総説であり、鼻せつを対象としたランダム化比較試験は存在しないことが出典自体に明記されているため、本カードの主張は一般像と管理の原則の範囲にとどめた。顔面の静脈交通（いわゆる危険領域）を介する波及の機序は出典に明示されていないため、合併症は出典の列挙の範囲で記載した。ムピロシンの国内製剤は鼻腔用軟膏2%（バクトロバン鼻腔用軟膏）のみで、その承認効能は対象者を限定した鼻腔内のMRSAの除菌であり、皮膚用のムピロシン軟膏は国内で販売されていない。したがって、出典に記載された鼻せつの治療としてのムピロシン外用は、国内では承認効能とは目的の異なる使用にあたる。出典で一部の症例に併用されたフシジン酸ナトリウム経口剤については、国内の承認・販売の状況を本調査では確認できなかった。
+- 出典：Sheik-Ali S, Sheik-Ali S, Sheik-Ali A. Nasal vestibular furunculosis: Summarised case series. World J Otorhinolaryngol Head Neck Surg. 2022;8(3):217-223　[DOI 10.1016/j.wjorl.2020.12.003](https://doi.org/10.1016/j.wjorl.2020.12.003)　[PMID 36159901](https://pubmed.ncbi.nlm.nih.gov/36159901/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-9-A-①（鼻せつ、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-023&card_id=NL-023&version=f43870e6a9)　（版 `f43870e6a9`）
+
+**[ここまでの 1 件（NL-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NL-023&cards=NL-023%20f43870e6a9)**
 
 ---
 

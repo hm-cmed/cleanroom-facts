@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 30 件のうち、監修済み 0 件。
+全 31 件のうち、監修済み 0 件。
 
 ## 糖尿病網膜症の分類
 
@@ -475,6 +475,22 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-030&card_id=RE-030&version=edc2d9a17c)　（版 `edc2d9a17c`）
 
 **[ここまでの 2 件（RE-029〜RE-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-029%E3%80%9CRE-030&cards=RE-029%20d84312ac82%0ARE-030%20edc2d9a17c)**
+
+---
+
+## Behçet病
+
+### RE-031　下書き（出典の照合前）
+
+> Behçet病のぶどう膜炎では、全例に、臨床的寛解と蛍光眼底造影上の寛解の達成と維持を目標として免疫抑制療法を行う。後眼部の炎症が視力を脅かす場合には、モノクローナル抗TNFα抗体を用い、他の免疫抑制薬との併用でインフリキシマブが望ましいとされる。グルココルチコイドは炎症を速やかに抑えるのに有用で、0.5〜1 mg/kg/日で開始されるが、単独療法としては用いない。比較的軽症のぶどう膜炎ではアザチオプリンやシクロスポリンAなどの従来型免疫抑制薬で開始し、寛解が得られなければ生物学的製剤への切替えや追加を検討する余地がある。
+
+- 条件：region: 欧州（EULAR推奨）／対象: Behçet病のぶどう膜炎患者
+- 不確実性：主張はEULAR推奨2025年改訂版の Recommendation 4 とその解説本文の記載に基づく（グルココルチコイドの開始用量0.5〜1 mg/kg/日は本文の記載）。インフリキシマブは国内で「既存治療で効果不十分なベーチェット病による難治性網膜ぶどう膜炎」に承認され保険適用がある（厚生労働省の薬剤情報で確認）。同推奨で抗TNFα抗体として併せて論じられるアダリムマブは、国内では既存治療で効果不十分な非感染性の中間部・後部・汎ぶどう膜炎などに承認がある。ただし国内承認はいずれも既存治療で効果不十分な場合などに限られ、推奨における視力脅威例への早期使用の位置づけとは適用範囲が一致しない。日本のBehçet病診療ガイドラインとの推奨の差異は確認していない。出典の書誌は、誌面では2026年掲載（85巻6号）で、題名は「2025 update」である。
+- 出典：Hatemi G, Ramiro S, Ozguler Y, et al. EULAR recommendations for the management of Behçet's syndrome: 2025 update. Ann Rheum Dis. 2026;85(6):1010-1025　[DOI 10.1016/j.ard.2026.02.009](https://doi.org/10.1016/j.ard.2026.02.009)　[PMID 41876291](https://pubmed.ncbi.nlm.nih.gov/41876291/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅲ-6-A-①（Behçet病、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-496 (id: JlvnmOY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-031&card_id=RE-031&version=6b5a0314a0)　（版 `6b5a0314a0`）
+
+**[ここまでの 1 件（RE-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-031&cards=RE-031%206b5a0314a0)**
 
 ---
 

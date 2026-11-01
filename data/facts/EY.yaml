@@ -1897,3 +1897,73 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-060
+  domain: EY
+  subdomain: 調節異常
+  assertion:
+    plain_statement_ja: 仮性近視は、調節の過剰な働き（調節緊張）によって眼の屈折力が増し、遠見視力が下がって近視のように見える状態で、毛様体筋が光学的無限遠でも十分に弛緩しないために生じる。完全な調節麻痺下の屈折検査では消失し、通常の屈折値と調節麻痺下の屈折値との差が診断の手がかりになる。症状は遠見のぼやけや変動、頭痛などで、視力・検影・瞳孔の変動として観察されることがある。近業の後には0.2〜0.6ジオプトリー程度の一過性の近視化がみられることがあり、未矯正の遠視、間欠性外斜視、情緒・心理的要因、頭部外傷を含む脳損傷との関連も報告されている。縮瞳や輻湊の痙攣を伴う近見反射痙攣の形をとることもあれば、単独で生じることもある。
+    condition:
+      region: 全般
+      対象: 調節緊張（仮性近視）の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4621
+    source: 'García-Montero M, Felipe-Márquez G, Arriola-Villalobos P, Garzón N. Pseudomyopia: A Review. Vision (Basel). 2022;6(1):17'
+    doi: 10.3390/vision6010017
+    pmid: '35324602'
+    pmcid: PMC8950661
+    url: https://doi.org/10.3390/vision6010017
+    source_license: CC BY 4.0（PMC掲載ページで表示を確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 出典は仮性近視に特化した総説であり、調節麻痺そのものの成因・経過・治療は本文で扱われていない。本カードは調節緊張（仮性近視）の側面に限り、調節麻痺については一次資料級の総説を確認できなかったため含めていない。数値（近業後の一過性近視化0.2〜0.6ジオプトリー）は総説本文の記載に基づく。本カードには薬剤名を含めていない（調節麻痺下検査に用いる薬剤の個別の承認状況は記載していない）。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-4-A-③（調節異常、a）
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-489 (id: JlvnmNk)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-061
+  domain: EY
+  subdomain: うっ血乳頭
+  assertion:
+    plain_statement_ja: うっ血乳頭の治療は、原因疾患への対応が基本である。特発性頭蓋内圧亢進症では、多くの患者が減量と経口アセタゾラミドに反応する。来院時に中心視力の低下と視野狭窄がある患者、およびアセタゾラミドに反応しない患者では外科的治療を検討し、通常は脳室腹腔シャントが選択される手技である。
+    condition:
+      region: グローバル
+      対象: うっ血乳頭の患者（特発性頭蓋内圧亢進症を含む）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1276
+    source: 'Xie JS, Donaldson L, Margolin E. Papilledema: A review of etiology, pathophysiology, diagnosis, and management. Surv Ophthalmol. 2022;67(4):1135-1159'
+    doi: 10.1016/j.survophthal.2021.11.007
+    pmid: '34813854'
+    pmcid: null
+    url: https://doi.org/10.1016/j.survophthal.2021.11.007
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 主張の治療内容は出典（総説）の抄録で確認した範囲であり、薬剤の用量などの詳細は抄録に含まれていない。アセタゾラミドは国内で承認されている薬剤だが、その承認効能・効果は緑内障、てんかん（他の抗てんかん薬で効果不十分な場合に付加）、肺気腫における呼吸性アシドーシスの改善、心性浮腫、肝性浮腫、月経前緊張症、メニエル病及びメニエル症候群、睡眠時無呼吸症候群（錠剤）であり、特発性頭蓋内圧亢進症は承認効能に含まれないため、同症への使用は適応外使用となる。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-4-B-①（うっ血乳頭、a）
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-495 (id: JlvnmOc)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

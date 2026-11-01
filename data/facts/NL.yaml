@@ -780,3 +780,38 @@
   - date: '2026-11-01'
     by: claude-code
     change: NL-004 の作り直しとして作成（第61回）。NL-004 は廃止
+- id: NL-023
+  domain: NL
+  subdomain: 鼻せつ
+  assertion:
+    plain_statement_ja: 鼻せつ（鼻前庭せつ）は、鼻前庭の皮膚の毛包に生じる急性の限局性感染症で、原因菌は黄色ブドウ球菌が多い。主な臨床像は、鼻尖の発赤、腫脹、圧痛である。治療は温罨法などの保存的対応が基本で、ムピロシンの鼻腔内への外用が頻用され、症例によって経口抗菌薬が併用され、多くは7日以内に軽快する。合併症はまれだが、膿瘍の形成のほか、眼静脈血栓症、海綿静脈洞血栓症、眼窩膿瘍といった重篤な合併症が起こりうるため、注意を要する。
+    condition:
+      region: 全般
+      対象: 鼻せつ（鼻前庭せつ）の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4627
+    source: 'Sheik-Ali S, Sheik-Ali S, Sheik-Ali A. Nasal vestibular furunculosis: Summarised case series. World J Otorhinolaryngol Head Neck Surg. 2022;8(3):217-223'
+    doi: 10.1016/j.wjorl.2020.12.003
+    pmid: '36159901'
+    pmcid: PMC9479471
+    url: https://doi.org/10.1016/j.wjorl.2020.12.003
+    source_license: CC BY-NC-ND 4.0（PMC掲載ページで表示を確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 出典は症例集積と文献レビューをまとめた総説であり、鼻せつを対象としたランダム化比較試験は存在しないことが出典自体に明記されているため、本カードの主張は一般像と管理の原則の範囲にとどめた。顔面の静脈交通（いわゆる危険領域）を介する波及の機序は出典に明示されていないため、合併症は出典の列挙の範囲で記載した。ムピロシンの国内製剤は鼻腔用軟膏2%（バクトロバン鼻腔用軟膏）のみで、その承認効能は対象者を限定した鼻腔内のMRSAの除菌であり、皮膚用のムピロシン軟膏は国内で販売されていない。したがって、出典に記載された鼻せつの治療としてのムピロシン外用は、国内では承認効能とは目的の異なる使用にあたる。出典で一部の症例に併用されたフシジン酸ナトリウム経口剤については、国内の承認・販売の状況を本調査では確認できなかった。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-9-A-①（鼻せつ、a）
+    core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

@@ -1052,3 +1052,38 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: RE-031
+  domain: RE
+  subdomain: Behçet病
+  assertion:
+    plain_statement_ja: Behçet病のぶどう膜炎では、全例に、臨床的寛解と蛍光眼底造影上の寛解の達成と維持を目標として免疫抑制療法を行う。後眼部の炎症が視力を脅かす場合には、モノクローナル抗TNFα抗体を用い、他の免疫抑制薬との併用でインフリキシマブが望ましいとされる。グルココルチコイドは炎症を速やかに抑えるのに有用で、0.5〜1 mg/kg/日で開始されるが、単独療法としては用いない。比較的軽症のぶどう膜炎ではアザチオプリンやシクロスポリンAなどの従来型免疫抑制薬で開始し、寛解が得られなければ生物学的製剤への切替えや追加を検討する余地がある。
+    condition:
+      region: 欧州（EULAR推奨）
+      対象: Behçet病のぶどう膜炎患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4622
+    source: 'Hatemi G, Ramiro S, Ozguler Y, et al. EULAR recommendations for the management of Behçet''s syndrome: 2025 update. Ann Rheum Dis. 2026;85(6):1010-1025'
+    doi: 10.1016/j.ard.2026.02.009
+    pmid: '41876291'
+    pmcid: null
+    url: https://doi.org/10.1016/j.ard.2026.02.009
+    source_license: ライセンス表示を確認できず
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 主張はEULAR推奨2025年改訂版の Recommendation 4 とその解説本文の記載に基づく（グルココルチコイドの開始用量0.5〜1 mg/kg/日は本文の記載）。インフリキシマブは国内で「既存治療で効果不十分なベーチェット病による難治性網膜ぶどう膜炎」に承認され保険適用がある（厚生労働省の薬剤情報で確認）。同推奨で抗TNFα抗体として併せて論じられるアダリムマブは、国内では既存治療で効果不十分な非感染性の中間部・後部・汎ぶどう膜炎などに承認がある。ただし国内承認はいずれも既存治療で効果不十分な場合などに限られ、推奨における視力脅威例への早期使用の位置づけとは適用範囲が一致しない。日本のBehçet病診療ガイドラインとの推奨の差異は確認していない。出典の書誌は、誌面では2026年掲載（85巻6号）で、題名は「2025 update」である。
+  curriculum:
+    kokushi: 医学各論 Ⅲ-6-A-①（Behçet病、a）
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-496 (id: JlvnmOY)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
