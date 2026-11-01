@@ -124,7 +124,9 @@ ILL = {"question": ill_question, "gutbrain": ill_gutbrain, "calendar": ill_calen
 # ---------- 場面ごとの静的レイヤ ----------
 def base_layer(i):
     im = Image.new("RGB", (W, H), BG); d = ImageDraw.Draw(im)
-    d.text((60, 90), "日本神経消化器病学会", font=F(BOLD, 40), fill=INK)
+    org = (sc.get("org") or "").strip()  # 左上の団体名。原稿の org 欄か --org で指定。空なら出さない
+    if org:
+        d.text((60, 90), org, font=F(BOLD, 40), fill=INK)
     if REVIEW:
         d.rounded_rectangle((760, 80, 1020, 146), 33, outline=ACC2, width=4)
         d.text((890, 113), "監修前サンプル", font=F(BOLD, 32), fill=ACC2, anchor="mm")

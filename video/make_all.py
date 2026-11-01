@@ -17,6 +17,7 @@ import check
 import render
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
+ORG = ""  # 動画の左上に出す団体名の既定値（--org で指定）
 LEAD, TAIL, LAST_TAIL, SR = 0.4, 0.5, 1.8, 48000
 
 
@@ -66,6 +67,7 @@ def build_one(path, cards, tts, force):
         return name, "作成済み（変更なし）", None
     os.makedirs(od, exist_ok=True)
     sc = json.load(open(path, encoding="utf-8"))
+    sc.setdefault("org", ORG)  # 原稿に org 欄がなければ --org の値（既定は空＝団体名を出さない）
     res = check.content_checks(sc, cards)
     if check.failed(res):
         json.dump(res, open(os.path.join(od, "check.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
@@ -91,7 +93,10 @@ def main():
                     default="windows" if platform.system() == "Windows" else "dummy")
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--only", default="")
+    ap.add_argument("--org", default="", help="動画の左上に出す団体名（原稿の org 欄が優先。既定は表示なし）")
     a = ap.parse_args()
+    global ORG
+    ORG = a.org
     if not shutil.which("ffmpeg"): sys.exit("ffmpeg が見つかりません（README の準備を参照）")
     cards = {}
     for f in glob.glob(os.path.join(ROOT, "..", "data", "facts", "*.yaml")):  # リポジトリの事実カード（正本）を直接読む
