@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 30 件のうち、監修済み 0 件。
+全 31 件のうち、監修済み 0 件。
 
 ## 労作性狭心症
 
@@ -304,7 +304,17 @@
 - 出題基準：医学各論 Ⅴ-5-D（無痛性虚血性心疾患、a）　コアカリ：PS-02-06-03 (id: JkxnuQo)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-028 (id: JlAKpf8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-024&card_id=IH-024&version=039cae483a)　（版 `039cae483a`）
 
-**[ここまでの 1 件（IH-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IH-024&cards=IH-024%20039cae483a)**
+### IH-031　下書き（出典の照合前）
+
+> 無症候性（無痛性）心筋虚血は、狭心症やその同等症状がないにもかかわらず心筋虚血が客観的に証明される状態であり、心筋虚血発作の50〜70%は無症候とされる。一般人口での頻度は2〜4%と推定され、糖尿病や安定狭心症の患者で高い。Cohn の分類では、虚血性心疾患の症状が全くない I 型、心筋梗塞の既往があり無症候である II 型、狭心症に加えて無症候の虚血発作を伴う III 型に分ける。検出には運動負荷試験、負荷心エコー、心筋血流イメージング（SPECT・PET）、心臓 MRI などが用いられるが、欧州心臓病学会の慢性冠症候群ガイドラインは無症候の一般集団への機能的画像検査によるスクリーニングを推奨せず、糖尿病・冠動脈疾患の強い家族歴・高リスクの場合に限って弱い推奨（IIb・レベル C）とする。無症候性心筋梗塞は心臓突然死のリスク上昇と関連し、心筋梗塞後や不安定狭心症に伴う無症候性虚血は予後不良の指標となる。管理は危険因子の是正と至適な薬物治療が基本で、抗虚血薬とアスピリンの使用が主要有害心血管イベントの減少と関連した小規模な無作為化試験がある一方、至適薬物治療への PCI の上乗せ効果は COURAGE 試験の事後解析では示されず、血行再建は左主幹部病変や左室機能低下を伴う多枝病変など予後改善が見込まれる解剖学的条件で検討される。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：総説（Biomedicines 誌、2024年）に基づく国際的な総論であり、日本に特化した数値ではない。頻度2〜4%は一般人口での推定値で、出典の記述範囲に限る。無症候性心筋梗塞と心臓突然死の関連は同総説が引く ARIC・CHS 研究の統合ハザード比2.65に基づく。アスピリンは国内では虚血性心疾患に対する抗血小板療法として承認・保険適用がある。既存の IH-024（DIAD 試験）は無症候の2型糖尿病へのスクリーニングの帰結を扱い、本カードは疾患の総論を担う。PMCID は確認できず null とした。
+- 出典：Theofilis P, Antonopoulos AS, Sagris M, Papanikolaou A, Oikonomou E, Tsioufis K, Tousoulis D. Silent Myocardial Ischemia: From Pathophysiology to Diagnosis and Treatment. Biomedicines. 2024;12(2):259.　[DOI 10.3390/biomedicines12020259](https://doi.org/10.3390/biomedicines12020259)　[PMID 38397860](https://pubmed.ncbi.nlm.nih.gov/38397860/)（区分 OPEN）
+- 出題基準：医学各論 Ⅴ-5-D（無痛性虚血性心疾患、a）　コアカリ：PS-02-06-03 (id: JkxnuQo)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-028 (id: JlAKpf8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-031&card_id=IH-031&version=b02fbeb425)　（版 `b02fbeb425`）
+
+**[ここまでの 2 件（IH-024〜IH-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IH-024%E3%80%9CIH-031&cards=IH-024%20039cae483a%0AIH-031%20b02fbeb425)**
 
 ---
 

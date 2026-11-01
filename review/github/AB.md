@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 116 件のうち、監修済み 0 件。
+全 119 件のうち、監修済み 0 件。
 
 ## 急性腹症の定義と分類
 
@@ -1307,6 +1307,54 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-115&card_id=AB-115&version=fe24696777)　（版 `fe24696777`）
 
 **[ここまでの 1 件（AB-115）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-115&cards=AB-115%20fe24696777)**
+
+---
+
+## 消化管穿孔
+
+### AB-117　下書き（出典の照合前）
+
+> 二次性腹膜炎は腹腔内臓器の完全性の喪失によって生じ、その代表的な機序が消化管の穿孔である。原因には消化性潰瘍の穿孔（胃十二指腸穿孔）のほか、大腸の非憩室性穿孔、小腸穿孔、外傷性穿孔、術後の吻合部縫合不全などがある。国際的な腹腔内感染症の調査（WISS）では、感染源の内訳として胃十二指腸穿孔が11%、大腸の非憩室性穿孔が5.9%、小腸穿孔が5.4%、外傷後穿孔が2.5%であった。診断はまず臨床評価に基づいて行われ、腹痛と腹部の硬直が手がかりとなり、診断が不確かな場合などにCTが有用で、高所得国では画像診断の標準とされる。治療の柱は、早期の認識、適切な蘇生、早期の適切な抗菌薬投与、早期かつ有効な感染源制御であり、外科的な感染源制御には病変部・穿孔部の切除や縫合閉鎖が含まれる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：出典は既存登録SRC-157（WSES腹腔内感染症ガイドライン2017、AB-075・076の出典）の再利用で、書誌と識別子はAB-076の登録にそろえた。依頼表の側面のうち画像所見としての腹腔内遊離ガスは、本ガイドラインに遊離ガス自体の記載が確認できなかったため主張に含めず、CTの位置づけまでにとどめた。感染源の割合はガイドライン本文中のWISS研究（4,553例）の表から読み取った数値である。抗菌薬は薬効群としての言及で、個別の薬剤名は含めていない。
+- 出典：Sartelli M, Chichom-Mefire A, Labricciosa FM, et al. The management of intra-abdominal infections from a global perspective: 2017 WSES guidelines for management of intra-abdominal infections. World J Emerg Surg 2017;12:29　[DOI 10.1186/s13017-017-0141-6](https://doi.org/10.1186/s13017-017-0141-6)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-10-E-①（消化管穿孔、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-308 (id: Jlvnl70)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-117&card_id=AB-117&version=bc1b09988b)　（版 `bc1b09988b`）
+
+**[ここまでの 1 件（AB-117）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-117&cards=AB-117%20bc1b09988b)**
+
+---
+
+## 腹部外傷
+
+### AB-118　下書き（出典の照合前）
+
+> 腹部外傷の治療方針は、解剖学的な損傷の程度だけでなく、循環動態と合併損傷をあわせて判断する。来院時の診断手続きは循環動態によって決まり、E-FASTは腹腔内遊離液体の迅速な検出に有効である（推奨グレード1A）。循環が安定し、手術を要する他の腹腔内損傷がない患者では、軽症から重症（WSES分類I〜III）まで非手術的管理（NOM）が治療の第一選択となり（推奨グレード2A）、その間は臨床所見と検査の反復評価で状態の変化を捉えることが必須とされる（推奨グレード2A）。CTで動脈性の造影剤漏出を認める安定した患者では、血管造影・動脈塞栓術が第一選択の介入となりうる（推奨グレード2B）。一方、輸液・輸血に反応しない循環不安定な患者（WSES分類IV）は手術的管理の対象であり（推奨グレード2A）、手術の第一の目的は出血と胆汁漏の制御と、できるだけ早期のダメージコントロール蘇生の開始とされる（推奨グレード2A）。不安定な患者のダメージコントロール手術では解剖学的切除は避け、肝臓のパッキングなどの一時的な止血手段や、二期的手術を前提とした一時的な腹壁閉鎖が用いられる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：出典は既存登録SRC-4245（WSES肝損傷ガイドライン2020、AB-109の出典）の再利用で、肝損傷に限らない総論的なステートメント（循環動態による方針決定、NOMと手術的管理の適応、ダメージコントロールの考え方）の範囲で用いた。腹膜炎所見そのものを開腹の適応として明示した文は本ガイドラインにはないため、NOMの条件はガイドラインの文言どおり「手術を要する他の腹腔内損傷がないこと」とした（腹膜炎をNOMの禁忌として明示するのは脾損傷ガイドラインSRC-161の記載であり、初期評価のAB-084側の範囲）。ダメージコントロール手術の細部（パッキング、一時的閉腹）は本文の手術管理の節に基づく。
+- 出典：Coccolini F, Coimbra R, Ordonez C, et al. Liver trauma: WSES 2020 guidelines. World J Emerg Surg. 2020;15:24.　[DOI 10.1186/s13017-020-00302-7](https://doi.org/10.1186/s13017-020-00302-7)　[PMID 32228707](https://pubmed.ncbi.nlm.nih.gov/32228707/)（区分 OPEN）
+- 出題基準：医学各論 Ⅵ-11-A-①（腹部外傷、a）　コアカリ：－
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-118&card_id=AB-118&version=34e50b6a9c)　（版 `34e50b6a9c`）
+
+**[ここまでの 1 件（AB-118）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-118&cards=AB-118%2034e50b6a9c)**
+
+---
+
+## 大腿ヘルニア
+
+### AB-119　下書き（出典の照合前）
+
+> 大腿ヘルニアは、内臓または脂肪組織が大腿管を通って脱出する鼠径部ヘルニアである。待機的・緊急をあわせた大腿ヘルニア修復術は、全鼠径部ヘルニア修復術のおよそ2〜4%を占める。大腿ヘルニアは鼠径ヘルニアより嵌頓・絞扼のリスクが高く、嵌頓・絞扼の危険因子として女性であることと大腿ヘルニア自体が挙げられ、女性の鼠径部ヘルニアでは約17%が緊急修復を要するとされる。絞扼や腸管切除といった重篤で致死的となりうる合併症のリスクが許容できないほど高いため、無症状の大腿ヘルニアでも経過観察は勧められず、症状が曖昧な場合や無症状の場合でも時期を逸しない手術が推奨される。緊急修復は待機的修復に比べて小腸切除のリスクが高く、在院期間も長い。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：出典は既存登録SRC-158（HerniaSurge国際ガイドライン2018、AB-069・073の出典）の再利用で、第17章（大腿ヘルニア）と全体要約に基づき、書誌と識別子は既存登録にそろえた。依頼表の側面のうち大腿輪の境界（前方の鼠径靱帯、内側の裂孔靱帯、後方の恥骨筋膜・クーパー靱帯、外側の大腿静脈）などの解剖の細部は、本ガイドラインに記載が確認できなかったため主張に含めず、大腿管を介する脱出という定義の範囲にとどめた。2〜4%は修復術に占める割合であり、真の発生頻度はこれより低いとガイドラインは述べている。
+- 出典：HerniaSurge Group. International guidelines for groin hernia management. Hernia 2018;22:1-165　[DOI 10.1007/s10029-017-1668-x](https://doi.org/10.1007/s10029-017-1668-x)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-9-A-③（大腿ヘルニア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AB-119&card_id=AB-119&version=e0f52071cb)　（版 `e0f52071cb`）
+
+**[ここまでの 1 件（AB-119）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AB-119&cards=AB-119%20e0f52071cb)**
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 37 件のうち、監修済み 0 件。
+全 42 件のうち、監修済み 0 件。
 
 ## 心房細動
 
@@ -225,7 +225,17 @@
 - 出題基準：医学各論 Ⅴ-1-A-④（心房粗動、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-167 (id: Jlvnlso)；TBL-02-05-032 (id: JlAKpgM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AR-020&card_id=AR-020&version=b6e43e1fb2)　（版 `b6e43e1fb2`）
 
-**[ここまでの 1 件（AR-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AR-020&cards=AR-020%20b6e43e1fb2)**
+### AR-039　下書き（出典の照合前）
+
+> 心房粗動は心房のマクロリエントリーによる頻拍で、心房拍数は規則的で 240〜440/分（典型例では約300/分）である。通常型（下大静脈‐三尖弁間峡部依存性で反時計回りのもの）では、下壁誘導で陰性の鋸歯状の粗動波がみられ、V1 誘導の粗動波は陽性である。血行動態が安定した心房粗動のレートコントロールには、ジルチアゼムまたはベラパミルの静注・経口投与が推奨される（クラスI、レベルA）。抗凝固療法の考え方は心房細動に準じ、除細動を行う場合は施行前3週間と施行後少なくとも4週間の抗凝固を行う。
+
+- 条件：region: 日本／対象: 心房粗動の患者
+- 不確実性：出典は JCS/JHRS 2020 不整脈薬物治療ガイドライン第VI章2節で、心房拍数の範囲と粗動波の所見は病態生理の記述、推奨のクラスとレベルは表54から読み取った。薬剤の国内承認：ジルチアゼム注射剤とベラパミルには頻脈性不整脈の適応がある。抗凝固薬（ワルファリン、直接経口抗凝固薬）の国内の効能・効果は心房細動における血栓塞栓症の抑制であり、心房粗動に対する抗凝固は心房細動に準じた位置づけである。典型的心房粗動へのアブレーション推奨は既存カード AR-020 が担う。
+- 出典：Ono K, Iwasaki YK, Akao M, et al. JCS/JHRS 2020 Guideline on Pharmacotherapy of Cardiac Arrhythmias. J Arrhythm 2022;38:833-973（Circ J 2022;86:1790-1924 と同時掲載）　[DOI 10.1002/joa3.12714](https://doi.org/10.1002/joa3.12714)　[PMID 36524037](https://pubmed.ncbi.nlm.nih.gov/36524037/)（区分 OPEN）
+- 出題基準：医学各論 Ⅴ-1-A-④（心房粗動、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-167 (id: Jlvnlso)；TBL-02-05-032 (id: JlAKpgM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AR-039&card_id=AR-039&version=d30df2be9e)　（版 `d30df2be9e`）
+
+**[ここまでの 2 件（AR-020〜AR-039）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AR-020%E3%80%9CAR-039&cards=AR-020%20b6e43e1fb2%0AAR-039%20d30df2be9e)**
 
 ---
 
@@ -241,7 +251,17 @@
 - 出題基準：医学各論 Ⅴ-1-A-②（発作性上室頻拍、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-168 (id: Jlvnlsw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AR-021&card_id=AR-021&version=c2a74d7d99)　（版 `c2a74d7d99`）
 
-**[ここまでの 1 件（AR-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AR-021&cards=AR-021%20c2a74d7d99)**
+### AR-038　下書き（出典の照合前）
+
+> 発作性上室頻拍は機序により、房室結節リエントリー性頻拍、副伝導路を介する房室リエントリー性頻拍、心房頻拍に分類される。発作が短く自然に収まる場合は予防療法は必ずしも必要ないが、急性期治療を要する発作には、根治が期待できるカテーテルアブレーションが第一選択の予防療法として推奨され（クラスI、レベルB）、成功率は90%以上とされる。アブレーションを希望しない場合や不成功の場合は、経口のベラパミル、ジルチアゼム、β遮断薬による薬物予防が推奨される（クラスI、レベルA）。
+
+- 条件：region: 日本／対象: 発作性上室頻拍の患者
+- 不確実性：出典は JCS/JHRS 2020 不整脈薬物治療ガイドライン第IV章で、推奨のクラスとレベルは同ガイドラインの表16から読み取った。薬剤の国内承認：ベラパミル（経口）は頻脈性不整脈（発作性上室性頻拍を含む）に適応がある。ジルチアゼムは注射剤に頻脈性不整脈の適応があり、経口剤の適応は狭心症・本態性高血圧症である。β遮断薬の不整脈への適応は薬剤ごとに異なる。発作停止法は既存カード AR-021、WPW 症候群側のアブレーションは AR-022・AR-023 が担う。
+- 出典：Ono K, Iwasaki YK, Akao M, et al. JCS/JHRS 2020 Guideline on Pharmacotherapy of Cardiac Arrhythmias. J Arrhythm 2022;38:833-973（Circ J 2022;86:1790-1924 と同時掲載）　[DOI 10.1002/joa3.12714](https://doi.org/10.1002/joa3.12714)　[PMID 36524037](https://pubmed.ncbi.nlm.nih.gov/36524037/)（区分 OPEN）
+- 出題基準：医学各論 Ⅴ-1-A-②（発作性上室頻拍、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-168 (id: Jlvnlsw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AR-038&card_id=AR-038&version=885213fd76)　（版 `885213fd76`）
+
+**[ここまでの 2 件（AR-021〜AR-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AR-021%E3%80%9CAR-038&cards=AR-021%20c2a74d7d99%0AAR-038%20885213fd76)**
 
 ---
 
@@ -310,7 +330,17 @@
 - 出題基準：医学各論 Ⅴ-1-B-②（心室頻拍、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-169 (id: Jlvnls0)；TBL-02-05-032 (id: JlAKpgM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AR-026&card_id=AR-026&version=1c9bf70067)　（版 `1c9bf70067`）
 
-**[ここまでの 1 件（AR-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AR-026&cards=AR-026%201c9bf70067)**
+### AR-040　下書き（出典の照合前）
+
+> 心室頻拍は His 束分岐部より末梢に起源を持つ頻拍で、30秒以上持続するか介入を要するものを持続性、30秒未満で自然に停止するものを非持続性と定義する。器質的心疾患に伴うものと、明らかな心疾患のない特発性心室頻拍に大別される。特発性心室頻拍の代表型は、流出路起源のもの（左脚ブロック型・下方軸が典型で、異常自動能や撃発活動が機序）と、左脚の Purkinje 網が関わるベラパミル感受性の左室頻拍（右脚ブロック型・左軸偏位が典型）であり、器質的心疾患に伴うものより一般に予後は良好である。器質的心疾患に伴う持続性心室頻拍は、多くは単形性の幅広い QRS 頻拍として現れる。
+
+- 条件：region: 日本／対象: 心室頻拍の患者
+- 不確実性：出典は JCS/JHRS 2020 不整脈薬物治療ガイドライン第VII章。治療（直流通電・ICD・アブレーション・静注薬）は既存カード AR-026 が担う。「ベラパミル感受性」は機序に基づく呼称であり、本カードはベラパミルの投与法を主張しない。ベラパミルの国内承認の効能・効果は頻脈性不整脈（心房細動・粗動、発作性上室性頻拍）等で、心室頻拍は適応に含まれない。
+- 出典：Ono K, Iwasaki YK, Akao M, et al. JCS/JHRS 2020 Guideline on Pharmacotherapy of Cardiac Arrhythmias. J Arrhythm 2022;38:833-973（Circ J 2022;86:1790-1924 と同時掲載）　[DOI 10.1002/joa3.12714](https://doi.org/10.1002/joa3.12714)　[PMID 36524037](https://pubmed.ncbi.nlm.nih.gov/36524037/)（区分 OPEN）
+- 出題基準：医学各論 Ⅴ-1-B-②（心室頻拍、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-169 (id: Jlvnls0)；TBL-02-05-032 (id: JlAKpgM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AR-040&card_id=AR-040&version=a33460971a)　（版 `a33460971a`）
+
+**[ここまでの 2 件（AR-026〜AR-040）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AR-026%E3%80%9CAR-040&cards=AR-026%201c9bf70067%0AAR-040%20a33460971a)**
 
 ---
 
@@ -369,7 +399,17 @@
 - 出題基準：医学各論 Ⅴ-1-C-①（洞不全症候群、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-164 (id: JlvnlsU)；TBL-02-05-032 (id: JlAKpgM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AR-030&card_id=AR-030&version=3102652f73)　（版 `3102652f73`）
 
-**[ここまでの 1 件（AR-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AR-030&cards=AR-030%203102652f73)**
+### AR-041　下書き（出典の照合前）
+
+> 日本循環器学会と日本不整脈心電学会の合同ガイドライン（2022年版、不整脈の診断とリスク評価）によれば、洞不全症候群は洞結節機能の慢性的な障害により Stokes-Adams 発作・心不全・易疲労感などを来す病態で、Rubenstein 分類では I 型を持続する洞徐脈（50/分以下）、II 型を洞停止（PP 間隔が基本 PP 間隔の150%以上に突然延長）または洞房ブロック（PP 間隔が基本の整数倍に延長）、III 型を徐脈頻脈症候群（頻脈は心房細動が多く、夜間に洞停止を伴うことが多い）とする。診断の要は心電図所見と症状の対応を直接確認することであり、12誘導心電図で捉えられない場合はホルター心電図・体外式イベントレコーダ・植込み型心電図計による長期記録を用い、運動負荷心電図では年齢予測最大心拍数（220から年齢を引いた値）の85%に到達できない変時性不全を評価する。原因は自律神経・薬剤・電解質異常・内分泌疾患・頭蓋内圧亢進・低体温などの一過性で可逆的ないし生理的なものと、虚血性心疾患・高血圧・心筋症・心アミロイドーシスなどの器質的で慢性的なものに分けられる。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：分類の数値基準はガイドライン本文と図で確認した（洞徐脈の閾値は図では50/分未満、本文では50/分以下の持続と表記される）。英語版（J Arrhythm 誌版）を出典とし、Circulation Journal 誌版（DOI 10.1253/circj.CJ-22-0827）と二重掲載の関係にある。ペースメーカーの適応そのものは既存の AR-030 が担い、本カードは分類と診断の枠組みに限る。原因として挙げた薬剤は分類上の総称で、個別の薬剤名は含まない。
+- 出典：Takase B, Ikeda T, Shimizu W, et al; Japanese Circulation Society and Japanese Heart Rhythm Society Joint Working Group. JCS/JHRS 2022 Guideline on Diagnosis and Risk Assessment of Arrhythmia. J Arrhythm. 2024;40(4):655-752.　[DOI 10.1002/joa3.13052](https://doi.org/10.1002/joa3.13052)　[PMID 39139890](https://pubmed.ncbi.nlm.nih.gov/39139890/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-1-C-①（洞不全症候群、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-164 (id: JlvnlsU)；TBL-02-05-032 (id: JlAKpgM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AR-041&card_id=AR-041&version=958cd63f04)　（版 `958cd63f04`）
+
+**[ここまでの 2 件（AR-030〜AR-041）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AR-030%E3%80%9CAR-041&cards=AR-030%203102652f73%0AAR-041%20958cd63f04)**
 
 ---
 
@@ -385,7 +425,17 @@
 - 出題基準：医学各論 Ⅴ-1-C-②（房室ブロック、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-165 (id: Jlvnlsc)；TBL-02-05-032 (id: JlAKpgM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AR-031&card_id=AR-031&version=294df1023d)　（版 `294df1023d`）
 
-**[ここまでの 1 件（AR-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AR-031&cards=AR-031%20294df1023d)**
+### AR-042　下書き（出典の照合前）
+
+> 同ガイドラインによれば、房室ブロックは房室結節・ヒス束・ヒス-プルキンエ系における伝導の遅延または中断であり、1度（PR 間隔0.2秒超、0.3秒超は病的）、2度（PR 間隔が漸次延長して脱落する Wenckebach 型［Mobitz I 型］、PR 延長の前触れなく突然脱落する Mobitz II 型、2:1 ブロック、伝導比3:1以上の高度房室ブロック）、3度（完全房室ブロック、房室解離）に分類される。発作的に現れるため12誘導心電図で捉えられることは少なく、ホルター心電図・イベントレコーダ・植込み型心電図計による記録で確認する。ブロック部位が末梢（ヒス-プルキンエ系寄り）であるほど逸脱リズムが不安定で重症であり、部位の判定が難しい2:1 ブロックでは運動負荷でブロックが出現・悪化すれば房室結節より末梢のブロックを示唆し、それでも不明な場合は心臓電気生理検査を行う。1度房室ブロックと Wenckebach 型は夜間の迷走神経優位時には生理的にもみられる。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：ガイドライン英語版の本文にはブロック部位に関する訳語の不統一がみられる箇所があり、アトロピンへの反応に関する記述は本カードに含めなかった。部位診断の記述は同ガイドラインの検査手順（運動負荷心電図・心臓電気生理検査）の論理に沿って標準的な表現に整えた。ペースメーカーの適応は既存の AR-031 が担い、本カードは分類・心電図所見・部位診断に限る。
+- 出典：Takase B, Ikeda T, Shimizu W, et al; Japanese Circulation Society and Japanese Heart Rhythm Society Joint Working Group. JCS/JHRS 2022 Guideline on Diagnosis and Risk Assessment of Arrhythmia. J Arrhythm. 2024;40(4):655-752.　[DOI 10.1002/joa3.13052](https://doi.org/10.1002/joa3.13052)　[PMID 39139890](https://pubmed.ncbi.nlm.nih.gov/39139890/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-1-C-②（房室ブロック、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-165 (id: Jlvnlsc)；TBL-02-05-032 (id: JlAKpgM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AR-042&card_id=AR-042&version=3125aa8f20)　（版 `3125aa8f20`）
+
+**[ここまでの 2 件（AR-031〜AR-042）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AR-031%E3%80%9CAR-042&cards=AR-031%20294df1023d%0AAR-042%203125aa8f20)**
 
 ---
 

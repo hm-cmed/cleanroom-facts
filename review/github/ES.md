@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 89 件のうち、監修済み 0 件。
+全 91 件のうち、監修済み 0 件。
 
 ## GERD・NERD・Barrett食道
 
@@ -1121,6 +1121,38 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-089&card_id=ES-089&version=1cf80507e1)　（版 `1cf80507e1`）
 
 **[ここまでの 10 件（ES-079〜ES-089）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-079%E3%80%9CES-089&cards=ES-079%205382539c95%0AES-080%2059c9ce069f%0AES-081%20fa41e024d9%0AES-082%20e6495e99b9%0AES-083%207c57d9b11f%0AES-084%20c369e61d76%0AES-085%202871f36b1e%0AES-086%2004ca11ae26%0AES-087%20251c5092ea%0AES-089%201cf80507e1)**
+
+---
+
+## Mallory-Weiss症候群
+
+### ES-094　下書き（出典の照合前）
+
+> Mallory-Weiss症候群では自然止血が多い一方、抗血栓薬の使用や肝硬変などの出血しやすい背景がある例では出血が遷延しうる。出血が遷延する例や高リスク例に対しては、機械的止血法による内視鏡的止血が強く推奨される（推奨グレード1、エビデンスレベルC）。機械的止血にはクリッピングと内視鏡的結紮術があり、責任血管が食道側にある場合は、食道の筋層が薄く局所注射や凝固法では穿孔の危険があるため機械的止血が優先される。局所注射は心疾患のある例では循環器系への影響にも注意が要る。内視鏡的止血が困難なまれな例ではIVRや外科治療が検討される。再出血予防は消化性潰瘍出血に準じ、絶食と輸液管理の後に酸分泌抑制薬と粘膜保護薬を投与し、症状と血液検査所見に応じて経口摂取を再開する。初期対応の一般原則として、高リスクの非静脈瘤性上部消化管出血では循環動態の安定化後24時間以内の内視鏡が強く推奨され（推奨グレード1、エビデンスレベルA）、心血管疾患のない例の輸血はHb 8 g/dLを目標上限として過剰な輸血を避けることが強く推奨される（推奨グレード1、エビデンスレベルA）。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：出典は日本消化器内視鏡学会の非静脈瘤性上部消化管出血における内視鏡診療ガイドライン第2版で、Mallory-Weiss症候群の扱いはCQ11と同節の解説、内視鏡のタイミングと輸血は同ガイドラインのCQ3・CQ4（非静脈瘤性上部消化管出血全般へのステートメント）に基づく（出版社サイトの全文で確認）。PMIDは、他文献の引用リストでPubMedへのリンクが示され収載自体はうかがえたが、番号を確認できなかったためnullとした（DOIで一意に特定可能）。ESGEの2021年改訂は内視鏡的止血の推奨を消化性潰瘍出血に限定し、それ以外の病因は2015年版に委ねており、2026年改訂も潰瘍出血が対象のため、現行の国内ガイドラインを出典とした。薬剤は酸分泌抑制薬・粘膜保護薬を薬効群としてのみ言及し、個別の薬剤名は主張に含めていない。
+- 出典：Fujishiro M, Iguchi M, Ono S, et al. Guidelines for endoscopic management of nonvariceal upper gastrointestinal bleeding (second edition). Dig Endosc. 2025;37(5):447-469　[DOI 10.1111/den.15019](https://doi.org/10.1111/den.15019)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-1-E-①（Mallory-Weiss症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-094&card_id=ES-094&version=e278f13b8a)　（版 `e278f13b8a`）
+
+**[ここまでの 1 件（ES-094）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-094&cards=ES-094%20e278f13b8a)**
+
+---
+
+## 食道裂孔ヘルニア
+
+### ES-095　下書き（出典の照合前）
+
+> 食道裂孔ヘルニアは型によって分類される。I型（滑脱型）は胃食道接合部が裂孔より上方に位置するもの、II型は胃食道接合部が正常な位置にあるまま胃底部が裂孔より上方へ突出するもの、III型はその混合で胃食道接合部と胃の両方が裂孔より上方にあるもの、IV型は胃に加えて他の臓器も脱出するものである。外科的修復の検討対象は主にII〜IV型（傍食道型）である。無症状のII〜IV型については、修復術を受けた患者では貧血（24〜57%）、呼吸困難（21〜67%）、胸痛（40〜60%）が高率にみられるため、まず本当に無症状かどうかを確認することが前提とされる。症状がヘルニアに帰属する場合や客観的な逆流・微小誤嚥の所見がある場合は、手術に耐えられる患者に修復術を提示でき、精査で異常がなく患者が胃軸捻転のリスクを受け入れる場合は経過観察も妥当であり、共有意思決定が重要とされる（エキスパートオピニオン）。II〜IV型の修復術に噴門形成術を併施することは、条件付きで推奨される（エビデンスの確実性は低い）。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：出典はSAGESの食道裂孔ヘルニア外科治療ガイドライン（2024）で、型分類は同ガイドラインの定義、無症状例への対応はKQ2（エキスパートオピニオン）、噴門形成術はKQ3の条件付き推奨に基づく。メッシュ使用については推奨・反対のいずれの推奨も出されていない（KQ1）ため主張に含めなかった。I型（滑脱型）を逆流症として管理する方針は、本ガイドラインでは推奨として明記されておらず（序文で裂孔ヘルニアと逆流症の関連に触れるのみ）、未収載とした。症状の割合はガイドライン本文が引用する修復術シリーズの範囲である。
+- 出典：Daly S, Kumar SS, Collings AT, et al. SAGES guidelines for the surgical treatment of hiatal hernias. Surg Endosc. 2024;38(9):4765-4775　[DOI 10.1007/s00464-024-11092-3](https://doi.org/10.1007/s00464-024-11092-3)　[PMID 39080063](https://pubmed.ncbi.nlm.nih.gov/39080063/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-9-A-①（食道裂孔ヘルニア、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-095&card_id=ES-095&version=3f4284b5cb)　（版 `3f4284b5cb`）
+
+**[ここまでの 1 件（ES-095）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-095&cards=ES-095%203f4284b5cb)**
 
 ---
 

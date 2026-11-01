@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 22 件のうち、監修済み 0 件。
+全 24 件のうち、監修済み 0 件。
 
 ## 体軸性脊椎関節炎、強直性脊椎炎
 
@@ -287,6 +287,32 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-022&card_id=SA-022&version=d2dcc635f8)　（版 `d2dcc635f8`）
 
 **[ここまでの 2 件（SA-021〜SA-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SA-021%E3%80%9CSA-022&cards=SA-021%20fd1d7f7d2e%0ASA-022%20d2dcc635f8)**
+
+---
+
+## 偽痛風
+
+### SA-023　下書き（出典の照合前）
+
+> 急性CPP結晶関節炎（偽痛風）は、急性発症の単関節炎または少関節炎で、罹患関節の熱感・発赤・腫脹を伴い、痛風発作や化膿性関節炎と鑑別が困難なことが多い。罹患関節は膝関節が最も多く、次いで手関節であり、第1中足趾節関節の痛風様発作はまれである。発熱・悪寒などの全身症状を伴うことが多く、発作の持続は痛風の数日〜1週間より長く、数週間〜数か月に及ぶことがある。急性型は CPPD 病全体の約25%を占める。
+
+- 条件：region: 国際／対象: CPPD病の患者
+- 不確実性：主張は PMC に収載された著者稿の全文で確認した（出版版は購読制）。急性型が約25%という割合は、同総説が引用する推計に基づく。CPP 結晶の同定と分類基準は OS-007 が担い、急性発作の治療は SA-024 が担う。
+- 出典：Rosenthal AK, Ryan LM. Calcium pyrophosphate deposition disease. N Engl J Med. 2016;374(26):2575-2584.　[DOI 10.1056/NEJMra1511117](https://doi.org/10.1056/NEJMra1511117)　[PMID 27355536](https://pubmed.ncbi.nlm.nih.gov/27355536/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅺ-2-E-②（偽痛風、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-142 (id: JlvnloE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-023&card_id=SA-023&version=8c53cbfd2e)　（版 `8c53cbfd2e`）
+
+### SA-024　下書き（出典の照合前）
+
+> 急性CPP結晶関節炎の治療は非薬物療法と薬物療法の組み合わせが最適であり、冷却、関節の一時的な安静、関節穿刺とステロイド関節内注射の組み合わせで十分なことが多い。他の手段が不適当な場合や反応しない場合の急性発作には、経口または非経口の副腎皮質ステロイドを用いる。発作の予防と慢性炎症性関節炎には、消化管保護を併用した経口NSAIDsや低用量コルヒチン（0.5〜1.0 mg/日）が選択肢となり、無症候性の CPPD には治療は不要である。
+
+- 条件：region: 欧州／対象: CPPD病の患者
+- 不確実性：主張は EULAR 推奨2011年版（Part II、全9推奨、合意度79〜95%）の抄録で確認できた範囲に基づく。国内承認の状況：コルヒチンの効能・効果は痛風発作の緩解及び予防と家族性地中海熱であり、CPPD への適応はなく適応外使用にあたる。NSAIDs と副腎皮質ステロイドは国内承認のある抗炎症薬だが、CPPD 専用の効能・効果はない。臨床像は SA-023 が担う。
+- 出典：Zhang W, Doherty M, Pascual E, et al. EULAR recommendations for calcium pyrophosphate deposition. Part II: Management. Ann Rheum Dis. 2011;70(4):571-575.　[DOI 10.1136/ard.2010.139360](https://doi.org/10.1136/ard.2010.139360)　[PMID 21257614](https://pubmed.ncbi.nlm.nih.gov/21257614/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅺ-2-E-②（偽痛風、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-142 (id: JlvnloE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-024&card_id=SA-024&version=fdbc9ece1d)　（版 `fdbc9ece1d`）
+
+**[ここまでの 2 件（SA-023〜SA-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SA-023%E3%80%9CSA-024&cards=SA-023%208c53cbfd2e%0ASA-024%20fdbc9ece1d)**
 
 ---
 

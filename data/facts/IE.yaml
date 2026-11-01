@@ -593,3 +593,38 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: IE-018
+  domain: IE
+  subdomain: アセトン血性嘔吐症
+  assertion:
+    plain_statement_ja: 小児の周期性嘔吐症候群の発作時治療では、片頭痛の個人歴・家族歴がある場合に抗片頭痛薬（トリプタン系薬・NSAIDs）による発作の頓挫が強く推奨され、5-HT3受容体拮抗薬（オンダンセトロン）も頓挫に用いられる。外来での頓挫療法が奏効しない場合は早期に受診させ直ちに静脈内輸液を開始し、急性期は静脈内輸液による水分補給を行う。発作予防にはβ遮断薬（プロプラノロール）、5-HT2A受容体拮抗薬（シプロヘプタジン）、NK1受容体拮抗薬（アプレピタント）、三環系抗うつ薬（アミトリプチリン）が条件付きで推奨され、三環系抗うつ薬は発作が頻回・重症でより安全な選択肢に反応しない場合に用い、抗てんかん薬は難治例を除き予防に用いない。
+    condition:
+      region: 北米
+      対象: 小児の周期性嘔吐症候群患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4970
+    source: Karrento K, Rosen JM, Gelfand AA, et al. North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition 2025 guidelines for management of cyclic vomiting syndrome in children. J Pediatr Gastroenterol Nutr. 2025;80(6):1028-1061.
+    doi: 10.1002/jpn3.70020
+    pmid: '40223700'
+    pmcid: null
+    url: https://doi.org/10.1002/jpn3.70020
+    source_license: Wiley（CC表示を確認できず）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 推奨の強さはガイドライン本文で確認した（強い推奨は抗片頭痛薬による頓挫のみで、他の薬剤はいずれも条件付き推奨、エビデンスの確実性は低い〜非常に低い）。国内承認の状況：オンダンセトロンは国内で抗悪性腫瘍剤投与に伴う悪心・嘔吐や術後の悪心・嘔吐に承認されているが、周期性嘔吐症候群への適応はない。トリプタン系薬は片頭痛への承認であり、プロプラノロール・シプロヘプタジン・アプレピタント・アミトリプチリンにも周期性嘔吐症候群への国内適応はなく、本カードの用法はいずれも適応外使用にあたる。誌面 PDF にはオープンアクセスである旨の表示があるが CC ライセンスの種別は確認できなかったため、診断編の SRC-1032 と同様に UNKNOWN とした。定義・診断は IE-008（SRC-1032、診断編ガイドライン）が担う。
+  curriculum:
+    kokushi: 医学各論 Ⅹ-10-B-①（アセトン血性嘔吐症<周期性嘔吐症>、a）
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

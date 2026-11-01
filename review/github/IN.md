@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 113 件のうち、監修済み 0 件。
+全 114 件のうち、監修済み 0 件。
 
 ## 炎症性腸疾患
 
@@ -1060,7 +1060,17 @@
 - 出題基準：医学各論 Ⅵ-4-D-①（痔核、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-267 (id: Jlvnl30)；TBL-02-07-020 (id: JlAKpkk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-088&card_id=IN-088&version=ebcf896bc0)　（版 `ebcf896bc0`）
 
-**[ここまでの 1 件（IN-088）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-088&cards=IN-088%20ebcf896bc0)**
+### IN-114　下書き（出典の照合前）
+
+> 内痔核は脱出の程度によりGoligher分類で4度に分けられる。I度は出血するが脱出しないもの、II度は排便時のいきみで脱出するが自然に還納するもの、III度は脱出して用手的な還納を要するもの、IV度は常に脱出して還納できないもので、急性の血栓性・嵌頓性の内痔核もIV度に含まれる。症状として最も多いのは排便に伴う無痛性の鮮紅色の直腸出血で、脱出に伴う粘液の分泌やかゆみを伴うことがあり、疼痛は血栓が形成されたとき（とくに外痔核）やIV度の絞扼のときに生じるのが通常である。治療は重症度に応じて段階的に選択され、食事・生活習慣の改善は全ての重症度に適用される。食物繊維の補給は、症状の持続と出血のリスクをおよそ50%下げるが、脱出・疼痛・かゆみには効果がなかった。薬物療法はI〜II度（とIII度の一部）に、硬化療法と赤外線凝固法はI〜II度に、ゴムバンド結紮はI〜II度とIII度の一部に用いられ、非手術的治療の中で優先される方法とされる。痔核切除術はIII度・IV度とII度の一部が適応で、急性の血栓形成・絞扼の際には緊急手術の適応となる。環状切除術（stapled hemorrhoidopexy）はII〜III度に用いられる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：出典はLohsiriwatの痔核の総説（2012）で、グレード別の治療法の対応は同総説の表から読み取った。血栓性外痔核については、疼痛が血栓形成時に生じるという症状面までは確認したが、切除の適応や時期といった扱いの詳細は本総説の記載が乏しく、主張に含めなかった。国内には日本大腸肛門病学会の肛門疾患（痔核・痔瘻・裂肛）・直腸脱診療ガイドライン2020年版（改訂第2版）があるが、本文を照合していないため出典には用いず、今後の差し替え候補とする。個別の薬剤名は主張に含めていない。
+- 出典：Lohsiriwat V. Hemorrhoids: From basic pathophysiology to clinical management. World J Gastroenterol. 2012;18(17):2009-2017　[DOI 10.3748/wjg.v18.i17.2009](https://doi.org/10.3748/wjg.v18.i17.2009)　[PMID 22563187](https://pubmed.ncbi.nlm.nih.gov/22563187/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅵ-4-D-①（痔核、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-267 (id: Jlvnl30)；TBL-02-07-020 (id: JlAKpkk)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-114&card_id=IN-114&version=f962477ef2)　（版 `f962477ef2`）
+
+**[ここまでの 2 件（IN-088〜IN-114）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IN-088%E3%80%9CIN-114&cards=IN-088%20ebcf896bc0%0AIN-114%20f962477ef2)**
 
 ---
 

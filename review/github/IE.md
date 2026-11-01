@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 17 件のうち、監修済み 0 件。
+全 18 件のうち、監修済み 0 件。
 
 ## 成長ホルモン分泌不全性低身長
 
@@ -271,6 +271,22 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IE-017&card_id=IE-017&version=9645a166ab)　（版 `9645a166ab`）
 
 **[ここまでの 1 件（IE-017）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IE-017&cards=IE-017%209645a166ab)**
+
+---
+
+## アセトン血性嘔吐症
+
+### IE-018　下書き（出典の照合前）
+
+> 小児の周期性嘔吐症候群の発作時治療では、片頭痛の個人歴・家族歴がある場合に抗片頭痛薬（トリプタン系薬・NSAIDs）による発作の頓挫が強く推奨され、5-HT3受容体拮抗薬（オンダンセトロン）も頓挫に用いられる。外来での頓挫療法が奏効しない場合は早期に受診させ直ちに静脈内輸液を開始し、急性期は静脈内輸液による水分補給を行う。発作予防にはβ遮断薬（プロプラノロール）、5-HT2A受容体拮抗薬（シプロヘプタジン）、NK1受容体拮抗薬（アプレピタント）、三環系抗うつ薬（アミトリプチリン）が条件付きで推奨され、三環系抗うつ薬は発作が頻回・重症でより安全な選択肢に反応しない場合に用い、抗てんかん薬は難治例を除き予防に用いない。
+
+- 条件：region: 北米／対象: 小児の周期性嘔吐症候群患者
+- 不確実性：推奨の強さはガイドライン本文で確認した（強い推奨は抗片頭痛薬による頓挫のみで、他の薬剤はいずれも条件付き推奨、エビデンスの確実性は低い〜非常に低い）。国内承認の状況：オンダンセトロンは国内で抗悪性腫瘍剤投与に伴う悪心・嘔吐や術後の悪心・嘔吐に承認されているが、周期性嘔吐症候群への適応はない。トリプタン系薬は片頭痛への承認であり、プロプラノロール・シプロヘプタジン・アプレピタント・アミトリプチリンにも周期性嘔吐症候群への国内適応はなく、本カードの用法はいずれも適応外使用にあたる。誌面 PDF にはオープンアクセスである旨の表示があるが CC ライセンスの種別は確認できなかったため、診断編の SRC-1032 と同様に UNKNOWN とした。定義・診断は IE-008（SRC-1032、診断編ガイドライン）が担う。
+- 出典：Karrento K, Rosen JM, Gelfand AA, et al. North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition 2025 guidelines for management of cyclic vomiting syndrome in children. J Pediatr Gastroenterol Nutr. 2025;80(6):1028-1061.　[DOI 10.1002/jpn3.70020](https://doi.org/10.1002/jpn3.70020)　[PMID 40223700](https://pubmed.ncbi.nlm.nih.gov/40223700/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅹ-10-B-①（アセトン血性嘔吐症<周期性嘔吐症>、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IE-018&card_id=IE-018&version=382bfaeaad)　（版 `382bfaeaad`）
+
+**[ここまでの 1 件（IE-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IE-018&cards=IE-018%20382bfaeaad)**
 
 ---
 

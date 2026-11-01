@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 38 件のうち、監修済み 0 件。
+全 40 件のうち、監修済み 0 件。
 
 ## 1型糖尿病の病態と診断
 
@@ -378,7 +378,17 @@
 - 出題基準：医学各論 Ⅹ-6-B-③（乳酸アシドーシス、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-477 (id: JlvnmMM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-024&card_id=DM-024&version=f2413f6b02)　（版 `f2413f6b02`）
 
-**[ここまでの 1 件（DM-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DM-024&cards=DM-024%20f2413f6b02)**
+### DM-039　下書き（出典の照合前）
+
+> 乳酸アシドーシスは、原因によって組織低酸素を伴うA型と、組織低酸素を伴わないB型に分けられ、最も多い原因は心原性・循環血液量減少性ショック、重症心不全、重症外傷、敗血症である。診断の確定には血中乳酸値の上昇が必須であり（正常範囲はおおよそ0.5 mmol/Lから上限1.0〜2.2 mmol/Lで、上限は測定系により異なる）、アニオンギャップの上昇、とくに30 mmol/Lを超える場合は診断を支持する。治療で有効なのは原因となった病態を制御することのみであり、組織灌流の回復が要となり、薬剤や毒物が原因の場合はその中止と、除去のための透析が原因別の手段となる。重症のアシデミア（pH 7.2未満）に対する重炭酸塩投与の有効性は証明されていない。
+
+- 条件：region: 米国／対象: 乳酸アシドーシスの患者
+- 不確実性：主張は総説の全文で確認した範囲に基づく。同総説では、旧来の定義（pH 7.35以下かつ重炭酸 20 mmol/L以下）は併存病態によりアシデミアが隠れるため必須要件とされていない。メトホルミン関連乳酸アシドーシスの機序・頻度・死亡率は DM-024 が担い、本カードは乳酸アシドーシス全般を扱う。薬剤名のある記載について：メトホルミンは国内で2型糖尿病に承認・保険適用があり、同総説の原因表ではメトホルミンを含む薬剤・毒物の除去に透析が有益とされる。
+- 出典：Kraut JA, Madias NE. Lactic acidosis. N Engl J Med. 2014;371(24):2309-2319.　[DOI 10.1056/NEJMra1309483](https://doi.org/10.1056/NEJMra1309483)　[PMID 25494270](https://pubmed.ncbi.nlm.nih.gov/25494270/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅹ-6-B-③（乳酸アシドーシス、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-477 (id: JlvnmMM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-039&card_id=DM-039&version=499f021b59)　（版 `499f021b59`）
+
+**[ここまでの 2 件（DM-024〜DM-039）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DM-024%E3%80%9CDM-039&cards=DM-024%20f2413f6b02%0ADM-039%20499f021b59)**
 
 ---
 
@@ -394,7 +404,17 @@
 - 出題基準：医学各論 Ⅹ-6-C-①（糖尿病腎症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-479 (id: JlvnmMY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-025&card_id=DM-025&version=794395bc50)　（版 `794395bc50`）
 
-**[ここまでの 1 件（DM-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DM-025&cards=DM-025%20794395bc50)**
+### DM-040　下書き（出典の照合前）
+
+> 日本では、糖尿病患者にみられる慢性腎臓病のうち、糖尿病および糖尿病に関連する状態・合併症・治療の影響を受けうるものを糖尿病関連腎臓病（DKD）と定義し、糸球体腎炎や多発性嚢胞腎など他の明確な慢性腎臓病がある場合は DKD に含めず鑑別する。糖尿病性腎症は DKD の中で最も臨床的に重要な病態であり、その評価には尿中アルブミンと eGFR に基づく病期分類（2014年分類、2023年に小改訂）が用いられ、尿中アルブミンが予後と介入の主要な指標となる。正常アルブミン尿であっても、eGFR が 45 mL/min/1.73m2 未満の例、または eGFR が 45 以上60未満で近年の年間低下速度が 3 mL/min/1.73m2 を超える例は、高リスクの DKD として監視する。
+
+- 条件：region: 日本／対象: 糖尿病患者
+- 不確実性：本カードは病期分類の枠組みと診断の進め方に限定し、病期ごとの数値境界（尿アルブミン・クレアチニン比と eGFR の対応表）は GN-021（SRC-589、糖尿病性腎症病期分類2014の合同委員会報告）が担うため再掲しない。2023年の小改訂では病期名が正常アルブミン尿期・微量アルブミン尿期・顕性アルブミン尿期・GFR高度低下・末期腎不全期・腎代替療法期へ変更された（枠組みと数値は不変）。この病期名は放送大学教材の追補で確認したが、合同委員会の原報告本文での照合は未了。DKD の定義は出典によれば学術的定義であり、それ自体は診断基準ではない。血糖・血圧管理と薬物療法は DM-025 が担う。
+- 出典：Kanasaki K, Ueki K, Nangaku M. Diabetic kidney disease: the kidney disease relevant to individuals with diabetes. Clin Exp Nephrol. 2024;28(12):1213-1220.　[DOI 10.1007/s10157-024-02537-z](https://doi.org/10.1007/s10157-024-02537-z)　[PMID 39031296](https://pubmed.ncbi.nlm.nih.gov/39031296/)（区分 OPEN）
+- 出題基準：医学各論 Ⅹ-6-C-①（糖尿病腎症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-479 (id: JlvnmMY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-040&card_id=DM-040&version=0a25bbd012)　（版 `0a25bbd012`）
+
+**[ここまでの 2 件（DM-025〜DM-040）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DM-025%E3%80%9CDM-040&cards=DM-025%20794395bc50%0ADM-040%200a25bbd012)**
 
 ---
 

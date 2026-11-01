@@ -1145,3 +1145,73 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: TH-033
+  domain: TH
+  subdomain: 慢性甲状腺炎
+  assertion:
+    plain_statement_ja: 慢性甲状腺炎（橋本病）の診断は、適切な臨床像を背景に、甲状腺抗原に対する血中抗体（主に抗甲状腺ペルオキシダーゼ抗体と抗サイログロブリン抗体）の証明と、甲状腺超音波検査でのエコー輝度の低下を組み合わせて行う。発症時の甲状腺機能は正常のことも甲状腺機能高進のこともあるが、多くの病型は最終的に甲状腺機能低下症へ進展する。
+    condition:
+      region: 国際
+      対象: 慢性甲状腺炎が疑われる患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4971
+    source: 'Caturegli P, De Remigis A, Rose NR. Hashimoto thyroiditis: Clinical and diagnostic criteria. Autoimmun Rev. 2014;13(4-5):391-397.'
+    doi: 10.1016/j.autrev.2014.01.007
+    pmid: '24434360'
+    pmcid: null
+    url: https://doi.org/10.1016/j.autrev.2014.01.007
+    source_license: Elsevier（購読制、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 主張は抄録で確認できた範囲に基づく（本文は購読制）。国内の関連ガイドラインの診断基準との照合はしていない。定義・疫学・組織像と甲状腺機能低下時の治療は TH-007 が担う。
+  curriculum:
+    kokushi: 医学各論 Ⅹ-2-B-①（慢性甲状腺炎<橋本病>、a）
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-464 (id: JlvnmLE)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: TH-034
+  domain: TH
+  subdomain: 亜急性甲状腺炎
+  assertion:
+    plain_statement_ja: 亜急性甲状腺炎は破壊性甲状腺炎の一つで、甲状腺中毒期（通常3〜6週間）、甲状腺機能低下期（最長6か月）、回復という三相性の経過をたどり、多くは発症から12か月以内に甲状腺機能正常に戻るが、5〜15%は永続性甲状腺機能低下に至り、再発は1〜4%とされる。検査では赤血球沈降速度やCRPの上昇がみられ、軽度の貧血と白血球数の上昇もよく伴い、甲状腺中毒期には放射性ヨウ素摂取率は低値となる。治療は、軽症ではβ遮断薬とNSAIDsを最初に用い、NSAIDsに反応しない場合や中等度〜重度の疼痛・甲状腺中毒症状で発症した場合は、NSAIDsに代えて副腎皮質ステロイドを用いる（強い推奨、エビデンスの質は低い）。
+    condition:
+      region: 米国
+      対象: 亜急性甲状腺炎患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-902
+    source: Ross DS, Burch HB, Cooper DS, Greenlee MC, Laurberg P, Maia AL, Rivkees SA, Samuels M, Sosa JA, Stan MN, Walter MA. 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis. Thyroid. 2016;26(10):1343-1421.
+    doi: 10.1089/thy.2016.0229
+    pmid: '27521067'
+    pmcid: null
+    url: https://doi.org/10.1089/thy.2016.0229
+    source_license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 経過・検査所見は同ガイドラインの [W1] 節、治療は推奨117に基づき、全文 PDF で確認した。国内承認の状況：プレドニゾロンの効能・効果には亜急性甲状腺炎が含まれ承認・保険適用がある（添付文書で確認）。ただし同ガイドラインが示す用量（プレドニゾン40 mg/日）は国内の通常用量と異なる場合がある。NSAIDs とβ遮断薬は国内承認のある薬剤だが、亜急性甲状腺炎専用の効能・効果ではない。発症率と永続性機能低下の割合（15%）は TH-008（単一地域コホート）が担い、本カードの 5〜15% はガイドラインが総説する範囲である。
+  curriculum:
+    kokushi: 医学各論 Ⅹ-2-B-②（亜急性甲状腺炎、a）
+    core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-464 (id: JlvnmLE)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

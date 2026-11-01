@@ -5292,3 +5292,38 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+- id: IN-114
+  domain: IN
+  subdomain: 痔核
+  assertion:
+    plain_statement_ja: 内痔核は脱出の程度によりGoligher分類で4度に分けられる。I度は出血するが脱出しないもの、II度は排便時のいきみで脱出するが自然に還納するもの、III度は脱出して用手的な還納を要するもの、IV度は常に脱出して還納できないもので、急性の血栓性・嵌頓性の内痔核もIV度に含まれる。症状として最も多いのは排便に伴う無痛性の鮮紅色の直腸出血で、脱出に伴う粘液の分泌やかゆみを伴うことがあり、疼痛は血栓が形成されたとき（とくに外痔核）やIV度の絞扼のときに生じるのが通常である。治療は重症度に応じて段階的に選択され、食事・生活習慣の改善は全ての重症度に適用される。食物繊維の補給は、症状の持続と出血のリスクをおよそ50%下げるが、脱出・疼痛・かゆみには効果がなかった。薬物療法はI〜II度（とIII度の一部）に、硬化療法と赤外線凝固法はI〜II度に、ゴムバンド結紮はI〜II度とIII度の一部に用いられ、非手術的治療の中で優先される方法とされる。痔核切除術はIII度・IV度とII度の一部が適応で、急性の血栓形成・絞扼の際には緊急手術の適応となる。環状切除術（stapled hemorrhoidopexy）はII〜III度に用いられる。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4968
+    source: 'Lohsiriwat V. Hemorrhoids: From basic pathophysiology to clinical management. World J Gastroenterol. 2012;18(17):2009-2017'
+    doi: 10.3748/wjg.v18.i17.2009
+    pmid: '22563187'
+    pmcid: PMC3342598
+    url: https://doi.org/10.3748/wjg.v18.i17.2009
+    source_license: 未確認（PMC収載版・出版社ページともCC表示なし）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 出典はLohsiriwatの痔核の総説（2012）で、グレード別の治療法の対応は同総説の表から読み取った。血栓性外痔核については、疼痛が血栓形成時に生じるという症状面までは確認したが、切除の適応や時期といった扱いの詳細は本総説の記載が乏しく、主張に含めなかった。国内には日本大腸肛門病学会の肛門疾患（痔核・痔瘻・裂肛）・直腸脱診療ガイドライン2020年版（改訂第2版）があるが、本文を照合していないため出典には用いず、今後の差し替え候補とする。個別の薬剤名は主張に含めていない。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-4-D-①（痔核、a）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-267 (id: Jlvnl30)；TBL-02-07-020 (id: JlAKpkk)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

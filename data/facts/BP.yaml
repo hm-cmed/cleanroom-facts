@@ -2613,3 +2613,73 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: BP-076
+  domain: BP
+  subdomain: 肝内胆管癌
+  assertion:
+    plain_statement_ja: 肝内胆管癌を含む胆道癌の診断では、非外科的治療の前にコア生検で病理診断を得ることが勧められ、進行例では全身療法の適応となる患者に分子プロファイリングが推奨される。腫瘍マーカーCA19-9の高値は予後不良と関連し、治療効果の評価に利用できる。根治を目指す治療はリンパ節郭清を含む外科切除のみであり、切除後はS-1またはカペシタビンによる補助化学療法が検討される。手術ができない肝限局の小さい腫瘍（3 cm以下）ではアブレーションが選択肢となる。進行例の一次治療は、ゲムシタビンとシスプラチンにデュルバルマブまたはペムブロリズマブを併用する治療が標準とされる。
+    condition:
+      region: 国際
+      対象: 肝内胆管癌の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4969
+    source: Chen LT, Vogel A, Hsu C, et al. Pan-Asian adapted ESMO Clinical Practice Guidelines for the diagnosis, treatment and follow-up of patients with biliary tract cancer. ESMO Open. 2024;9(8):103647
+    doi: 10.1016/j.esmoop.2024.103647
+    pmid: '39232586'
+    pmcid: PMC11410730
+    url: https://doi.org/10.1016/j.esmoop.2024.103647
+    source_license: CC BY-NC-ND 4.0（PMC のライセンス表示で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: ESMO ガイドラインのアジア適応版（2024年、日本腫瘍学会を含むアジアの学会が参加）に基づく。推奨の多くは胆道癌全体に対するもので、肝内胆管癌に特化した推奨（3 cm 以下の腫瘍へのアブレーション等）と併せて記載した。症状については同ガイドラインにまとまった記載がなく、主張に含めていない。同ガイドラインには訂正（ESMO Open. 2025;10(1):104074）が出ている。薬剤の国内承認：デュルバルマブとゲムシタビン・シスプラチンの併用は根治切除不能な胆道癌に対して国内承認済み（2022年）で、ペムブロリズマブの同併用も切除不能な胆道癌に対して国内承認済みである。S-1 は国内で胆道癌に承認があり、ASCOT 試験（切除後の3年生存割合は S-1 群77.1%に対して経過観察群67.6%）に基づいて術後補助療法の標準とされる一方、カペシタビンには胆道癌の国内適応はなく、術後補助療法としては保険適用外である。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-6-C-②（肝内胆管癌、a）
+    core_curriculum: 'PS-03-04-14 (id: JkxnuYE)；TBL-01-00-651 (id: Jlvnmc4)；TBL-01-00-293 (id: Jlvnl7Q)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: BP-077
+  domain: BP
+  subdomain: 胆囊炎
+  assertion:
+    plain_statement_ja: 急性胆嚢炎の診断基準（東京ガイドライン2018）は、A：局所炎症所見（Murphy徴候、右上腹部の腫瘤・疼痛・圧痛）、B：全身炎症所見（発熱、CRP上昇、白血球数増加）、C：画像所見（急性胆嚢炎に特徴的な所見）の3群からなり、AとBから1項目ずつを満たせば疑診、A・B・Cすべてを満たせば確診とする。画像所見には胆嚢壁肥厚（4 mm以上）、胆嚢腫大、胆嚢結石やデブリ、胆嚢周囲の液体貯留などがあり、超音波検査が第一選択である。治療は、初期治療として抗菌薬と全身管理を行い（抗菌薬開始前に血液培養の採取を考慮する）、重症度と手術リスク（Charlson併存疾患指数とASA身体状態分類）で方針を決める。低リスクの軽症・中等症では早期の腹腔鏡下胆嚢摘出術が基本となり、手術リスクが高い場合は胆嚢ドレナージを先行させて炎症の改善後に待機的に摘出する。重症では臓器障害への支持療法と緊急の胆嚢ドレナージが優先され、早期手術は高次施設で厳格な条件を満たす場合に限られる。
+    condition:
+      region: 日本
+      対象: 急性胆嚢炎の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-094
+    source: 日本肝胆膵外科学会ほか編『TG18新基準掲載 急性胆管炎・胆嚢炎診療ガイドライン2018（第3版）』医学図書出版、2018
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 著作権は著者・出版社に帰属（Mindsは私的利用の範囲に限ると明記）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 診断基準は TG18 の診断基準表で確認した。重症度の判定項目そのものは既存カード BP-006 が担う。手術リスクの閾値（Charlson併存疾患指数5以下・ASA身体状態分類II以下）は TG18 フローチャートの図注と抄録で確認した（図表から読み取りを含む）。抗菌薬の具体的な薬剤選択は同ガイドラインの抗菌薬療法の項によるべきもので、本カードでは薬剤名を挙げていない。内容の確認は TG18 の英語版ガイドライン論文（診断基準は Yokoe ら 2018、治療フローチャートは Okamoto ら 2018）で行い、日本語版ガイドライン本体と同一版であることを照合した。
+  curriculum:
+    kokushi: 医学各論 Ⅵ-7-B-①（胆囊炎、a）
+    core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-300 (id: Jlvnl5U)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

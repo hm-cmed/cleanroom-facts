@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 32 件のうち、監修済み 0 件。
+全 34 件のうち、監修済み 0 件。
 
 ## Basedow病
 
@@ -106,7 +106,17 @@
 - 出題基準：医学各論 Ⅹ-2-B-①（慢性甲状腺炎<橋本病>、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-464 (id: JlvnmLE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-007&card_id=TH-007&version=100bb68341)　（版 `100bb68341`）
 
-**[ここまでの 1 件（TH-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TH-007&cards=TH-007%20100bb68341)**
+### TH-033　下書き（出典の照合前）
+
+> 慢性甲状腺炎（橋本病）の診断は、適切な臨床像を背景に、甲状腺抗原に対する血中抗体（主に抗甲状腺ペルオキシダーゼ抗体と抗サイログロブリン抗体）の証明と、甲状腺超音波検査でのエコー輝度の低下を組み合わせて行う。発症時の甲状腺機能は正常のことも甲状腺機能高進のこともあるが、多くの病型は最終的に甲状腺機能低下症へ進展する。
+
+- 条件：region: 国際／対象: 慢性甲状腺炎が疑われる患者
+- 不確実性：主張は抄録で確認できた範囲に基づく（本文は購読制）。国内の関連ガイドラインの診断基準との照合はしていない。定義・疫学・組織像と甲状腺機能低下時の治療は TH-007 が担う。
+- 出典：Caturegli P, De Remigis A, Rose NR. Hashimoto thyroiditis: Clinical and diagnostic criteria. Autoimmun Rev. 2014;13(4-5):391-397.　[DOI 10.1016/j.autrev.2014.01.007](https://doi.org/10.1016/j.autrev.2014.01.007)　[PMID 24434360](https://pubmed.ncbi.nlm.nih.gov/24434360/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅹ-2-B-①（慢性甲状腺炎<橋本病>、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-464 (id: JlvnmLE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-033&card_id=TH-033&version=58e3669647)　（版 `58e3669647`）
+
+**[ここまでの 2 件（TH-007〜TH-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TH-007%E3%80%9CTH-033&cards=TH-007%20100bb68341%0ATH-033%2058e3669647)**
 
 ---
 
@@ -122,7 +132,17 @@
 - 出題基準：医学各論 Ⅹ-2-B-②（亜急性甲状腺炎、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-464 (id: JlvnmLE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-008&card_id=TH-008&version=78d0b93c81)　（版 `78d0b93c81`）
 
-**[ここまでの 1 件（TH-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TH-008&cards=TH-008%2078d0b93c81)**
+### TH-034　下書き（出典の照合前）
+
+> 亜急性甲状腺炎は破壊性甲状腺炎の一つで、甲状腺中毒期（通常3〜6週間）、甲状腺機能低下期（最長6か月）、回復という三相性の経過をたどり、多くは発症から12か月以内に甲状腺機能正常に戻るが、5〜15%は永続性甲状腺機能低下に至り、再発は1〜4%とされる。検査では赤血球沈降速度やCRPの上昇がみられ、軽度の貧血と白血球数の上昇もよく伴い、甲状腺中毒期には放射性ヨウ素摂取率は低値となる。治療は、軽症ではβ遮断薬とNSAIDsを最初に用い、NSAIDsに反応しない場合や中等度〜重度の疼痛・甲状腺中毒症状で発症した場合は、NSAIDsに代えて副腎皮質ステロイドを用いる（強い推奨、エビデンスの質は低い）。
+
+- 条件：region: 米国／対象: 亜急性甲状腺炎患者
+- 不確実性：経過・検査所見は同ガイドラインの [W1] 節、治療は推奨117に基づき、全文 PDF で確認した。国内承認の状況：プレドニゾロンの効能・効果には亜急性甲状腺炎が含まれ承認・保険適用がある（添付文書で確認）。ただし同ガイドラインが示す用量（プレドニゾン40 mg/日）は国内の通常用量と異なる場合がある。NSAIDs とβ遮断薬は国内承認のある薬剤だが、亜急性甲状腺炎専用の効能・効果ではない。発症率と永続性機能低下の割合（15%）は TH-008（単一地域コホート）が担い、本カードの 5〜15% はガイドラインが総説する範囲である。
+- 出典：Ross DS, Burch HB, Cooper DS, Greenlee MC, Laurberg P, Maia AL, Rivkees SA, Samuels M, Sosa JA, Stan MN, Walter MA. 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis. Thyroid. 2016;26(10):1343-1421.　[DOI 10.1089/thy.2016.0229](https://doi.org/10.1089/thy.2016.0229)　[PMID 27521067](https://pubmed.ncbi.nlm.nih.gov/27521067/)（区分 OPEN）
+- 出題基準：医学各論 Ⅹ-2-B-②（亜急性甲状腺炎、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-464 (id: JlvnmLE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-034&card_id=TH-034&version=cbbb3b883a)　（版 `cbbb3b883a`）
+
+**[ここまでの 2 件（TH-008〜TH-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TH-008%E3%80%9CTH-034&cards=TH-008%2078d0b93c81%0ATH-034%20cbbb3b883a)**
 
 ---
 

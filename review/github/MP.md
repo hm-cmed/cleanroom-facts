@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 42 件のうち、監修済み 0 件。
+全 44 件のうち、監修済み 0 件。
 
 ## 肥大型心筋症
 
@@ -310,7 +310,17 @@
 - 出題基準：医学各論 Ⅴ-6-E（心タンポナーデ、a）；医学各論 Ⅴ-6-D-②（心囊液貯留、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-184 (id: Jlvnluw)；TBL-02-05-027 (id: JlAKpf4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-025&card_id=MP-025&version=834c3d6cd9)　（版 `834c3d6cd9`）
 
-**[ここまでの 1 件（MP-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-025&cards=MP-025%20834c3d6cd9)**
+### MP-044　下書き（出典の照合前）
+
+> 同ガイドライン（2025年版）によれば、心タンポナーデは心囊液貯留が心臓の拡張期充満を妨げて心拍出量が低下した状態で、診断は示唆的な病歴・症状・徴候に基づく臨床診断に心エコーによる確認を組み合わせて行う。身体所見では頻脈、低血圧（収縮期血圧90 mmHg 未満。亜急性・慢性では低下が軽いこともある）、頸静脈圧の上昇を伴う怒張、吸気時の収縮期血圧低下が10 mmHg 以上の奇脈、心音の減弱がみられる。低血圧・頸静脈怒張・心音減弱の Beck の三徴は、外傷や心筋・大動脈破裂による急性の心囊内出血（外科的タンポナーデ）で同定されたもので、緩徐に貯留する内科的タンポナーデでは欠けることがある。心電図では頻脈のほか QRS 低電位と電気的交互脈がみられる。心エコー所見としては、大きな貯留と心臓の揺れ（swinging heart）、右房の虚脱（持続時間が心周期の0.34を超える場合は特異度が高い）、右室の拡張期虚脱、僧帽弁 E 波速度の呼吸性変動25〜30%超と三尖弁 E 波速度の呼吸性変動40〜60%超、下大静脈の拡張（20 mm 超）と呼吸性変動の減弱（径の減少が50%未満）が挙げられる。心膜は硬く伸展性に乏しいため、急速な貯留では200〜300 mL でタンポナーデに至り、緩徐な貯留では1〜2 L に達することもある。
+
+- 条件：region: 欧州／対象: 成人
+- 不確実性：心エコー所見の感度・特異度に関わる数値（右房虚脱の持続時間の比0.34、下大静脈の感度など）はガイドラインの表17から読み取り。右房の虚脱について、ガイドラインの表は位相を限定しないため本カードも位相を特定しない表現にした（依頼文の表の見込みは「右房の収縮期虚脱」）。Beck の三徴は全例にそろう所見ではない。緊急心膜穿刺の適応は既存の MP-025 が担い、本カードは診断に限る。
+- 出典：Schulz-Menger J, Collini V, Gröschel J, et al; ESC Scientific Document Group. 2025 ESC Guidelines for the management of myocarditis and pericarditis. Eur Heart J. 2025;46(40):3952-4041.　[DOI 10.1093/eurheartj/ehaf192](https://doi.org/10.1093/eurheartj/ehaf192)　[PMID 40878297](https://pubmed.ncbi.nlm.nih.gov/40878297/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-6-E（心タンポナーデ、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-184 (id: Jlvnluw)；TBL-02-05-027 (id: JlAKpf4)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-044&card_id=MP-044&version=7f0b429f92)　（版 `7f0b429f92`）
+
+**[ここまでの 2 件（MP-025〜MP-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-025%E3%80%9CMP-044&cards=MP-025%20834c3d6cd9%0AMP-044%207f0b429f92)**
 
 ---
 
@@ -527,6 +537,22 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-042&card_id=MP-042&version=63c25dd690)　（版 `63c25dd690`）
 
 **[ここまでの 5 件（MP-038〜MP-042）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-038%E3%80%9CMP-042&cards=MP-038%2075b41aa98d%0AMP-039%20dfede8a6d6%0AMP-040%2059ef67bccd%0AMP-041%2074409737d5%0AMP-042%2063c25dd690)**
+
+---
+
+## 心囊液貯留
+
+### MP-043　下書き（出典の照合前）
+
+> 欧州心臓病学会の心筋炎・心膜炎ガイドライン（2025年版）によれば、正常の心膜液は10〜50 mL で、心エコー上の拡張末期の無エコー域の最大幅で中等量を10〜20 mm、大量を20 mm 超とする。先進国における中等量〜大量の心囊液貯留の原因の内訳は、特発性が最大50%、悪性腫瘍が10〜32%、感染症が15〜30%、医原性が15〜20%、結合組織病が5〜15%で、結核が流行する地域では結核が60%超を占める。甲状腺機能低下症などの内科疾患に伴うものも多く、最大60%が既知・未知の内科疾患と関連する。貯留の相当部分は無症候で偶然に発見される。治療は原因への対応が基本で、心膜の炎症所見（CRP 上昇や画像上の炎症）がない場合の抗炎症治療は推奨されない。無症候で心膜炎を伴わない慢性の特発性大量貯留は保存的に経過をみることができ（タンポナーデの発症は年2.2%）、症状の出現や心エコーでの血行動態への影響が現れた場合にドレナージを行う。中等量以上の無症候の貯留は6か月ごとの経過観察が勧められ、軽度の無症候性特発性貯留は原則として特別な経過観察を要しない。予後は主として原因に依存する。
+
+- 条件：region: 欧州／対象: 成人
+- 不確実性：心エコーによる大きさの区分はガイドラインの表10から読み取り（中等量10〜20 mm・大量20 mm 超）。小規模（10 mm 未満）の区分は本カードの主張に含めていない。原因の割合は中等量〜大量の貯留を対象とした先進国のシリーズに基づく数値である。再発時の管理は、経過観察の間隔と症状・血行動態の変化に応じたドレナージの判断として含めた。既存の MP-025 は2015年版ガイドラインの要約論文（SRC-252）に基づくが、本カードは現行の一次ガイドラインである2025年版を出典とした。
+- 出典：Schulz-Menger J, Collini V, Gröschel J, et al; ESC Scientific Document Group. 2025 ESC Guidelines for the management of myocarditis and pericarditis. Eur Heart J. 2025;46(40):3952-4041.　[DOI 10.1093/eurheartj/ehaf192](https://doi.org/10.1093/eurheartj/ehaf192)　[PMID 40878297](https://pubmed.ncbi.nlm.nih.gov/40878297/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-6-D-②（心囊液貯留、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-184 (id: Jlvnluw)；TBL-02-05-027 (id: JlAKpf4)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-043&card_id=MP-043&version=bd467995f9)　（版 `bd467995f9`）
+
+**[ここまでの 1 件（MP-043）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-043&cards=MP-043%20bd467995f9)**
 
 ---
 

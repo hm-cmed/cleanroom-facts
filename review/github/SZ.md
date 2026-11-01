@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 8 件のうち、監修済み 0 件。
+全 10 件のうち、監修済み 0 件。
 
 ## 統合失調症
 
@@ -105,6 +105,38 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SZ-008&card_id=SZ-008&version=2b16f7f3e2)　（版 `2b16f7f3e2`）
 
 **[ここまでの 1 件（SZ-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SZ-008&cards=SZ-008%202b16f7f3e2)**
+
+---
+
+## 破瓜型統合失調症
+
+### SZ-009　下書き（出典の照合前）
+
+> 破瓜型統合失調症は ICD-10（F20.1）における統合失調症の一亜型で、感情の変化が目立ち、気分は浅薄で場にそぐわず、思考は解体して会話はまとまりを欠く。妄想や幻覚はあっても一過性で断片的にとどまり、行動は無責任で予測しがたく、衒奇的な振る舞いが多く、社会的孤立に陥りやすい。通常は青年期から若年成人に診断される。感情の平板化や意欲の喪失といった陰性症状が急速に進展するため、予後は一般に不良である。
+
+- 条件：region: 国際／対象: 破瓜型統合失調症（ICD-10 F20.1）の患者
+- 不確実性：本カードは ICD-10 第1巻（分類表）の F20.1 の定義文に基づく。依頼表の側面に挙げられた潜行性の発症については、採用した定義文に発症様式の明記がないため主張に含めなかった。亜型分類そのものの位置づけ（DSM-5・ICD-11 では不採用）は既存カード SZ-001 が担う。
+- 出典：World Health Organization. ICD-10: International Statistical Classification of Diseases and Related Health Problems, 10th Revision, Volume 1: Tabular List. Chapter V: Mental and Behavioural Disorders, F20.1 Hebephrenic Schizophrenia. Geneva: World Health Organization　[リンク](https://classbrowser.nhs.uk/ICD-10-5TH-Edition/vol1/block-f20-f29.htm)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-2-B-②（破瓜型統合失調症、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；PS-02-17-03 (id: JkxnuT0)；PS-02-17-04 (id: JkxnuT4)；TBL-01-00-538 (id: JlvnmUA)；TBL-02-16-005 (id: JlAKpzE)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SZ-009&card_id=SZ-009&version=a623147c63)　（版 `a623147c63`）
+
+**[ここまでの 1 件（SZ-009）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SZ-009&cards=SZ-009%20a623147c63)**
+
+---
+
+## 緊張型統合失調症
+
+### SZ-010　下書き（出典の照合前）
+
+> 緊張型統合失調症の実体である緊張病症候群では、昏迷、カタレプシー（受動的にとらされた姿勢の保持）、蝋屈症、無言症、拒絶症、姿勢保持、衒奇症、常同症、興奮、しかめ面、反響言語・反響動作などの精神運動性の徴候がみられる。悪性症候群はドパミン拮抗薬（抗精神病薬など）への曝露後に生じるまれな反応で、意識の変化、著しい筋強剛、発熱、自律神経機能障害を伴い、緊張病の悪性型とは臨床的に区別が難しいことが多い。緊張病の治療の第一選択はベンゾジアゼピン系薬および／または修正型電気けいれん療法で、ベンゾジアゼピン系薬で寛解が得られない場合は電気けいれん療法を行う。
+
+- 条件：region: 国際／対象: 緊張病症候群を呈する患者
+- 不確実性：出典は英国精神薬理学会（BAP）の緊張病ガイドライン（2023年）で、緊張病は統合失調症に限らず気分障害や身体疾患にも伴う症候群として扱われている。本カードは緊張型統合失調症の項目として、緊張病症候群の一般像を記載した。薬剤の国内承認：ベンゾジアゼピン系薬の代表であるロラゼパムは国内で承認されているが、効能・効果は神経症等における不安・緊張等であり、緊張病への使用は適応外となる。修正型電気けいれん療法は国内で保険適用のある治療手技である。
+- 出典：Rogers JP, Oldham MA, Fricchione G, et al. Evidence-based consensus guidelines for the management of catatonia: Recommendations from the British Association for Psychopharmacology. J Psychopharmacol. 2023;37(4):327-369　[DOI 10.1177/02698811231158232](https://doi.org/10.1177/02698811231158232)　[PMID 37039129](https://pubmed.ncbi.nlm.nih.gov/37039129/)（区分 OPEN）
+- 出題基準：医学各論 Ⅱ-2-B-③（緊張型統合失調症、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；PS-02-17-03 (id: JkxnuT0)；PS-02-17-04 (id: JkxnuT4)；TBL-01-00-538 (id: JlvnmUA)；TBL-02-16-005 (id: JlAKpzE)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SZ-010&card_id=SZ-010&version=a7d3ebab01)　（版 `a7d3ebab01`）
+
+**[ここまでの 1 件（SZ-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SZ-010&cards=SZ-010%20a7d3ebab01)**
 
 ---
 

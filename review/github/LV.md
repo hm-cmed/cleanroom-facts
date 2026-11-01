@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 111 件のうち、監修済み 0 件。
+全 112 件のうち、監修済み 0 件。
 
 ## 肝硬変とその合併症
 
@@ -1311,6 +1311,22 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-110&card_id=LV-110&version=03df0f2dab)　（版 `03df0f2dab`）
 
 **[ここまでの 2 件（LV-109〜LV-110）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-109%E3%80%9CLV-110&cards=LV-109%20da0bbdd844%0ALV-110%2003df0f2dab)**
+
+---
+
+## アルコール性肝障害
+
+### LV-112　下書き（出典の照合前）
+
+> アルコール関連肝疾患の診断は、慢性の有害な飲酒を飲酒歴の聴取やアルコールバイオマーカーで同定し、他の肝疾患を除外することによって行う。線維化の評価には FIB-4 や肝エラストグラフィなどの非侵襲的検査がまず用いられる。重症度評価では、アルコール性肝炎について MELD スコア（20を超えると重症の目安）に加えて Maddrey の判別関数（discriminant function）が歴史的に用いられてきた指標であり、32以上では30日死亡率がおよそ20〜50%とされる。管理の基盤は断酒であり、肝臓専門医と依存症の専門家を含む集学的な統合ケアの中で、行動療法と薬物療法を組み合わせたアルコール使用障害の治療を行うことが強く推奨される。アルコール性肝炎では栄養療法も重要で、エネルギー35 kcal/kg/日・タンパク質1.2〜1.5 g/kg/日が目標とされ、摂取量が21 kcal/kg/日未満の場合は経口・経腸栄養による補充が勧められる。
+
+- 条件：region: 米国／対象: アルコール関連肝疾患の患者
+- 不確実性：米国のガイドライン（ACG、2024年）に基づく。国内の診断基準は日本肝臓学会『アルコール性肝障害（アルコール関連肝疾患）診療ガイド 2022』に整理されているが、基準本文の逐語確認ができていないため、本カードの主張には含めていない（既存カード TX-005 と同じ事情）。重症アルコール性肝炎の薬物治療（ステロイド等）は TX-005 が担う。AST/ALT 比は ACG が参照する NIAAA の臨床診断基準の表に含まれる項目だが、本確認ではその表の数値を本文テキストで逐語確認できなかったため、主張には含めていない。栄養の目標量はアルコール性肝炎に対する推奨であり、重症でない例への当てはめには注意が要る。断酒の薬物療法の国内承認：アカンプロサートはアルコール依存症の断酒維持補助として国内承認済みだが、ナルトレキソンは国内未承認、バクロフェンは国内では痙性麻痺の適応のみでアルコール使用障害には適応外である。ジスルフィラムは国内で抗酒薬として承認があるが、肝毒性のため ACG は肝疾患患者では禁忌としている。
+- 出典：Jophlin LL, Singal AK, Bataller R, Wong RJ, Sauer BG, Terrault NA, Shah VH. ACG Clinical Guideline: Alcohol-Associated Liver Disease. Am J Gastroenterol. 2024;119(1):30-54　[DOI 10.14309/ajg.0000000000002572](https://doi.org/10.14309/ajg.0000000000002572)　[PMID 38174913](https://pubmed.ncbi.nlm.nih.gov/38174913/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅵ-6-E-③（アルコール性肝障害、a）　コアカリ：PS-03-05-08 (id: Jkxnubw)；GE-04-01-06 (id: JkxpswA)；TBL-01-00-289 (id: Jlvnl64)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-112&card_id=LV-112&version=395793413b)　（版 `395793413b`）
+
+**[ここまでの 1 件（LV-112）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-112&cards=LV-112%20395793413b)**
 
 ---
 

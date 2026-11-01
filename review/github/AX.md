@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 19 件のうち、監修済み 0 件。
+全 20 件のうち、監修済み 0 件。
 
 ## パニック障害
 
@@ -220,7 +220,17 @@
 - 出題基準：医学各論 Ⅱ-3-C-②（適応障害<適応反応症>、a）　コアカリ：PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-02-16-002 (id: JlAKpy0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AX-016&card_id=AX-016&version=df9d94b1c2)　（版 `df9d94b1c2`）
 
-**[ここまでの 1 件（AX-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AX-016&cards=AX-016%20df9d94b1c2)**
+### AX-020　下書き（出典の照合前）
+
+> 適応障害は、同定可能な心理社会的ストレス因への不適応な情動面・行動面の反応で、ストレス因の強さに不釣り合いな苦痛や、社会的・職業的機能の障害として現れる。DSM-5 では症状はストレス因から3か月以内に始まり、ストレス因とその結果が消退した後は6か月を超えて持続しないとされる（ICD-11 では発症はストレス因から1か月以内とされる）。症状には、ストレス因へのとらわれ（反芻や過度の心配）、睡眠障害や集中困難といった適応の失敗、不安や抑うつなどが含まれる。治療については心理的介入を中心に研究されてきたが、2018年の系統的レビューでは心理療法・薬物療法のいずれもエビデンスの質は低〜非常に低く、確立した薬物療法はない。
+
+- 条件：region: 国際／対象: 適応障害患者
+- 不確実性：経過の期間（DSM-5 の3か月・6か月、ICD-11 の1か月）は本総説の診断基準の比較記述と表で確認した。依頼表の側面にある「支持的精神療法・環境調整が中心で、薬物療法は補助的」という位置づけのうち、環境調整への明示的な言及は本総説では確認できなかったため、治療はエビデンスの状況として記載した。適応障害を効能・効果とする国内承認薬はない。概念面（診断概念への批判と ICD-11／DSM-5 の定義の差異）は既存カード AX-016 が担う。
+- 出典：O'Donnell ML, Agathos JA, Metcalf O, et al. Adjustment Disorder: Current Developments and Future Directions. Int J Environ Res Public Health. 2019;16(14):2537　[DOI 10.3390/ijerph16142537](https://doi.org/10.3390/ijerph16142537)　[PMID 31315203](https://pubmed.ncbi.nlm.nih.gov/31315203/)（区分 OPEN）
+- 出題基準：医学各論 Ⅱ-3-C-②（適応障害<適応反応症>、a）　コアカリ：PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-02-16-002 (id: JlAKpy0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AX-020&card_id=AX-020&version=e0ebd03e0f)　（版 `e0ebd03e0f`）
+
+**[ここまでの 2 件（AX-016〜AX-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AX-016%E3%80%9CAX-020&cards=AX-016%20df9d94b1c2%0AAX-020%20e0ebd03e0f)**
 
 ---
 

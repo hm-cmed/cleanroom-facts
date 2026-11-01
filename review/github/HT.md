@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 23 件のうち、監修済み 0 件。
+全 25 件のうち、監修済み 0 件。
 
 ## 本態性高血圧
 
@@ -108,7 +108,17 @@
 - 出題基準：医学各論 Ⅴ-7-C（高血圧緊急症、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-200 (id: Jlvnlwg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HT-009&card_id=HT-009&version=0dffd3d12e)　（版 `0dffd3d12e`）
 
-**[ここまでの 1 件（HT-009）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HT-009&cards=HT-009%200dffd3d12e)**
+### HT-025　下書き（出典の照合前）
+
+> 高血圧治療ガイドライン2025（JSH2025）第16章によれば、高血圧緊急症は著しい血圧上昇（通常180/120 mmHg 以上）に伴い脳・心臓・腎臓・大血管などの標的臓器に急性の障害とその進行を来した状態で、高血圧性脳症・子癇・大動脈解離は血圧の絶対値が高くなくても急峻な上昇自体により緊急症に含まれる。急速な臓器障害の進行を伴わない重症高血圧は高血圧切迫症として区別される。緊急症では原則として入院のうえ集中治療室での直接血圧モニタリングが望ましく、速効性で調節可能な静注降圧薬を用いる。降圧の速度と目標は、最初の1時間は基礎値の25%以内の低下にとどめ、続く2〜6時間で160/100 mmHg 程度、24〜48時間で140/90 mmHg 未満へと段階的に下げることが原則で、過度に急速な降圧は臓器の虚血を招く。在宅・外来ではなく病院での治療が前提であり、日本では代替となる薬剤がない場合にニカルジピン静注が頻用され、急性心不全や急性冠症候群を伴う重症高血圧にはニトログリセリン持続静注が適する。臓器別の例外として、大動脈解離では収縮期血圧を直ちに120 mmHg 未満（目標100〜120 mmHg、心拍数60/分未満、禁忌がなければ静注β遮断薬を先行）まで、急性期脳出血では収縮期血圧140 mmHg 未満へ速やかに（110 mmHg 超を維持し、90 mmHg 超の低下は避ける）、重症高血圧を伴う急性冠症候群では収縮期血圧140 mmHg 未満へ速やかに下げる。体液過剰がない場合のループ利尿薬は推奨されず、初期目標の達成後は経口薬へ移行する。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：降圧目標と臓器別の例外は JSH2025 第16章の本文で確認した。ニカルジピン注射薬は国内で高血圧性緊急症の適応で承認されている。ニトログリセリン静注薬は国内では急性心不全・不安定狭心症等の適応で承認されており、本カードの記述はそれらを合併する重症高血圧への使用である。β遮断薬とループ利尿薬はクラス単位の記述で個別の薬剤名は含まない。既存の HT-009 は切迫症側の外来対応を担い、本カードは緊急症の初期対応に限る。
+- 出典：Ohya Y, et al. The Japanese Society of Hypertension Guidelines for the management of elevated blood pressure and hypertension 2025 (JSH2025). Hypertens Res. 2026;49(1):9-235.　[DOI 10.1038/s41440-025-02462-y](https://doi.org/10.1038/s41440-025-02462-y)　[PMID 41476123](https://pubmed.ncbi.nlm.nih.gov/41476123/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅴ-7-C（高血圧緊急症、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-200 (id: Jlvnlwg)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HT-025&card_id=HT-025&version=75d67495ba)　（版 `75d67495ba`）
+
+**[ここまでの 2 件（HT-009〜HT-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HT-009%E3%80%9CHT-025&cards=HT-009%200dffd3d12e%0AHT-025%2075d67495ba)**
 
 ---
 
@@ -192,7 +202,17 @@
 - 出題基準：医学各論 Ⅴ-7-B-④（睡眠時無呼吸症候群、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HT-016&card_id=HT-016&version=24b9ad2a82)　（版 `24b9ad2a82`）
 
-**[ここまでの 1 件（HT-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HT-016&cards=HT-016%2024b9ad2a82)**
+### HT-024　下書き（出典の照合前）
+
+> 睡眠時無呼吸症候群（SAS）の診療ガイドライン2020（英語誌版）によれば、閉塞性睡眠時無呼吸は二次性高血圧の主な原因の一つであり（エビデンス A）、閉塞性睡眠時無呼吸の患者の約50%に高血圧が合併し、高血圧患者の約30%に閉塞性睡眠時無呼吸がみられる。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：本カードは、依頼表が求める定義・診断・重症度・治療の総論のうち、既存の PH-009〜011 と PL-019〜024 のいずれも具体的な位置づけや数値を収載していない「高血圧との合併」に厳密に限る。総論の側面は PH-009（診断の進め方とガイドライン全体像、SRC-495）、PH-010（CPAP の保険基準）、PH-011（CPAP 第一選択と口腔内装置、SRC-3746）と、呼吸器の PL-019（診断基準）・PL-020（AHI による重症度）・PL-022（治療の推奨）が既に担っており、新規の総論カードを作ると実質重複になるため作らなかった（対応表と番号追加の申し送りは引き継ぎメモに記載）。合併の頻度は英語誌版の CQ17 で確認したもので、日本語版ガイドラインの対応する記述の逐語照合はしていない。主張に薬剤名は含まない。
+- 出典：Akashiba T, Inoue Y, Uchimura N, et al. Sleep Apnea Syndrome (SAS) Clinical Practice Guidelines 2020. Sleep Biol Rhythms. 2022;20(1):5-37.　[DOI 10.1007/s41105-021-00353-6](https://doi.org/10.1007/s41105-021-00353-6)　[PMID 38469064](https://pubmed.ncbi.nlm.nih.gov/38469064/)（区分 OPEN）
+- 出題基準：医学各論 Ⅴ-7-B-④（睡眠時無呼吸症候群、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HT-024&card_id=HT-024&version=dd2b93a80d)　（版 `dd2b93a80d`）
+
+**[ここまでの 2 件（HT-016〜HT-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HT-016%E3%80%9CHT-024&cards=HT-016%2024b9ad2a82%0AHT-024%20dd2b93a80d)**
 
 ---
 

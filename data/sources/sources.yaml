@@ -35628,3 +35628,228 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/66_brushup_a.md の出典マスター表から
+- id: SRC-4961
+  legacy_id: null
+  title: 'World Health Organization. ICD-10: International Statistical Classification of Diseases and Related Health Problems, 10th Revision, Volume 1: Tabular List. Chapter V: Mental and Behavioural Disorders, F20.1 Hebephrenic Schizophrenia. Geneva: World Health Organization'
+  citation: 'World Health Organization. ICD-10: International Statistical Classification of Diseases and Related Health Problems, 10th Revision, Volume 1: Tabular List. Chapter V: Mental and Behavioural Disorders, F20.1 Hebephrenic Schizophrenia. Geneva: World Health Organization'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © World Health Organization（All rights reserved、CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md の出典マスター表から
+- id: SRC-4962
+  legacy_id: null
+  title: 'Rogers JP, Oldham MA, Fricchione G, et al. Evidence-based consensus guidelines for the management of catatonia: Recommendations from the British Association for Psychopharmacology. J Psychopharmacol. 2023;37(4):327-369'
+  citation: 'Rogers JP, Oldham MA, Fricchione G, et al. Evidence-based consensus guidelines for the management of catatonia: Recommendations from the British Association for Psychopharmacology. J Psychopharmacol. 2023;37(4):327-369'
+  doi: 10.1177/02698811231158232
+  pmid: '37039129'
+  pmcid: null
+  license_note: CC BY 4.0（PMC の本文ページのライセンス表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md の出典マスター表から
+- id: SRC-4963
+  legacy_id: null
+  title: 'O''Donnell ML, Agathos JA, Metcalf O, et al. Adjustment Disorder: Current Developments and Future Directions. Int J Environ Res Public Health. 2019;16(14):2537'
+  citation: 'O''Donnell ML, Agathos JA, Metcalf O, et al. Adjustment Disorder: Current Developments and Future Directions. Int J Environ Res Public Health. 2019;16(14):2537'
+  doi: 10.3390/ijerph16142537
+  pmid: '31315203'
+  pmcid: null
+  license_note: CC BY 4.0（MDPI の論文ページのライセンス表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md の出典マスター表から
+- id: SRC-4964
+  legacy_id: null
+  title: 'Theofilis P, Antonopoulos AS, Sagris M, Papanikolaou A, Oikonomou E, Tsioufis K, Tousoulis D. Silent Myocardial Ischemia: From Pathophysiology to Diagnosis and Treatment. Biomedicines. 2024;12(2):259.'
+  citation: 'Theofilis P, Antonopoulos AS, Sagris M, Papanikolaou A, Oikonomou E, Tsioufis K, Tousoulis D. Silent Myocardial Ischemia: From Pathophysiology to Diagnosis and Treatment. Biomedicines. 2024;12(2):259.'
+  doi: 10.3390/biomedicines12020259
+  pmid: '38397860'
+  pmcid: null
+  license_note: CC BY 4.0（誌のオープンアクセス表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md の出典マスター表から
+- id: SRC-4965
+  legacy_id: null
+  title: Schulz-Menger J, Collini V, Gröschel J, et al; ESC Scientific Document Group. 2025 ESC Guidelines for the management of myocarditis and pericarditis. Eur Heart J. 2025;46(40):3952-4041.
+  citation: Schulz-Menger J, Collini V, Gröschel J, et al; ESC Scientific Document Group. 2025 ESC Guidelines for the management of myocarditis and pericarditis. Eur Heart J. 2025;46(40):3952-4041.
+  doi: 10.1093/eurheartj/ehaf192
+  pmid: '40878297'
+  pmcid: null
+  license_note: © The European Society of Cardiology 2025（All rights reserved）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md の出典マスター表から
+- id: SRC-4966
+  legacy_id: null
+  title: Fujishiro M, Iguchi M, Ono S, et al. Guidelines for endoscopic management of nonvariceal upper gastrointestinal bleeding (second edition). Dig Endosc. 2025;37(5):447-469
+  citation: Fujishiro M, Iguchi M, Ono S, et al. Guidelines for endoscopic management of nonvariceal upper gastrointestinal bleeding (second edition). Dig Endosc. 2025;37(5):447-469
+  doi: 10.1111/den.15019
+  pmid: null
+  pmcid: null
+  license_note: CC 表示なし（日本消化器内視鏡学会のガイドライン）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md の出典マスター表から
+- id: SRC-4967
+  legacy_id: null
+  title: Daly S, Kumar SS, Collings AT, et al. SAGES guidelines for the surgical treatment of hiatal hernias. Surg Endosc. 2024;38(9):4765-4775
+  citation: Daly S, Kumar SS, Collings AT, et al. SAGES guidelines for the surgical treatment of hiatal hernias. Surg Endosc. 2024;38(9):4765-4775
+  doi: 10.1007/s00464-024-11092-3
+  pmid: '39080063'
+  pmcid: null
+  license_note: CC 表示なし（Springer、学会ガイドライン）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md の出典マスター表から
+- id: SRC-4968
+  legacy_id: null
+  title: 'Lohsiriwat V. Hemorrhoids: From basic pathophysiology to clinical management. World J Gastroenterol. 2012;18(17):2009-2017'
+  citation: 'Lohsiriwat V. Hemorrhoids: From basic pathophysiology to clinical management. World J Gastroenterol. 2012;18(17):2009-2017'
+  doi: 10.3748/wjg.v18.i17.2009
+  pmid: '22563187'
+  pmcid: null
+  license_note: 未確認（PMC 収載版・出版社ページとも CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md の出典マスター表から
+- id: SRC-4969
+  legacy_id: null
+  title: Chen LT, Vogel A, Hsu C, et al. Pan-Asian adapted ESMO Clinical Practice Guidelines for the diagnosis, treatment and follow-up of patients with biliary tract cancer. ESMO Open. 2024;9(8):103647
+  citation: Chen LT, Vogel A, Hsu C, et al. Pan-Asian adapted ESMO Clinical Practice Guidelines for the diagnosis, treatment and follow-up of patients with biliary tract cancer. ESMO Open. 2024;9(8):103647
+  doi: 10.1016/j.esmoop.2024.103647
+  pmid: '39232586'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（PMC のライセンス表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md の出典マスター表から
+- id: SRC-4970
+  legacy_id: null
+  title: Karrento K, Rosen JM, Gelfand AA, et al. North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition 2025 guidelines for management of cyclic vomiting syndrome in children. J Pediatr Gastroenterol Nutr. 2025;80(6):1028-1061
+  citation: Karrento K, Rosen JM, Gelfand AA, et al. North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition 2025 guidelines for management of cyclic vomiting syndrome in children. J Pediatr Gastroenterol Nutr. 2025;80(6):1028-1061
+  doi: 10.1002/jpn3.70020
+  pmid: '40223700'
+  pmcid: null
+  license_note: Wiley（CC表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md の出典マスター表から
+- id: SRC-4971
+  legacy_id: null
+  title: 'Caturegli P, De Remigis A, Rose NR. Hashimoto thyroiditis: Clinical and diagnostic criteria. Autoimmun Rev. 2014;13(4-5):391-397'
+  citation: 'Caturegli P, De Remigis A, Rose NR. Hashimoto thyroiditis: Clinical and diagnostic criteria. Autoimmun Rev. 2014;13(4-5):391-397'
+  doi: 10.1016/j.autrev.2014.01.007
+  pmid: '24434360'
+  pmcid: null
+  license_note: Elsevier（購読制、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md の出典マスター表から
+- id: SRC-4972
+  legacy_id: null
+  title: Kraut JA, Madias NE. Lactic acidosis. N Engl J Med. 2014;371(24):2309-2319
+  citation: Kraut JA, Madias NE. Lactic acidosis. N Engl J Med. 2014;371(24):2309-2319
+  doi: 10.1056/NEJMra1309483
+  pmid: '25494270'
+  pmcid: null
+  license_note: Massachusetts Medical Society（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md の出典マスター表から
+- id: SRC-4973
+  legacy_id: null
+  title: 'Kanasaki K, Ueki K, Nangaku M. Diabetic kidney disease: the kidney disease relevant to individuals with diabetes. Clin Exp Nephrol. 2024;28(12):1213-1220'
+  citation: 'Kanasaki K, Ueki K, Nangaku M. Diabetic kidney disease: the kidney disease relevant to individuals with diabetes. Clin Exp Nephrol. 2024;28(12):1213-1220'
+  doi: 10.1007/s10157-024-02537-z
+  pmid: '39031296'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md の出典マスター表から
+- id: SRC-4974
+  legacy_id: null
+  title: Rosenthal AK, Ryan LM. Calcium pyrophosphate deposition disease. N Engl J Med. 2016;374(26):2575-2584
+  citation: Rosenthal AK, Ryan LM. Calcium pyrophosphate deposition disease. N Engl J Med. 2016;374(26):2575-2584
+  doi: 10.1056/NEJMra1511117
+  pmid: '27355536'
+  pmcid: null
+  license_note: Massachusetts Medical Society（著者稿が PMC に収載）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md の出典マスター表から
+- id: SRC-4975
+  legacy_id: null
+  title: 'Zhang W, Doherty M, Pascual E, et al. EULAR recommendations for calcium pyrophosphate deposition. Part II: Management. Ann Rheum Dis. 2011;70(4):571-575'
+  citation: 'Zhang W, Doherty M, Pascual E, et al. EULAR recommendations for calcium pyrophosphate deposition. Part II: Management. Ann Rheum Dis. 2011;70(4):571-575'
+  doi: 10.1136/ard.2010.139360
+  pmid: '21257614'
+  pmcid: null
+  license_note: BMJ（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/67_brushup_a.md の出典マスター表から
