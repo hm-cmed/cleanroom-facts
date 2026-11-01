@@ -36,3 +36,8 @@
 - 第61回を登録（docs/tasks/round61_BRUSHUP.md、specs/round61.yaml、SRC-4441〜4520）。取り込み後に NL-004・SK-013・ND-050 を retired にする。HF-026 の扱いは取り込み後に判断。
 - 届いていない作り手のファイル：F の判定表（brushup_f_result1〜3.md）、A の章別結果、E のデータ（brushup_e_*.json と null 仕分け結果）。
 - 残った小さな訂正：ID-011（セベトラルスタットの発売は確定済み）、LV-108（ESMO 2026 の一文）。F の一括訂正とあわせて処理する。
+
+## 提案E：DOI が 404 になる出典の点検（2026-11-01、作り手の報告）
+
+- SRC-4377（RE-030、Webb 2013、Int J Ophthalmol）：DOI は原論文の PDF の印字と一致し、他の論文の引用でも同じ DOI。404 は Crossref に登録されていないためとみられる。DOI は変えない。点検の依頼は取り下げ（作り手のメモ brushup_e_doi404_followup_20261101.md は未受領）。
+- SRC-252：文献は実在するが、DOI の末尾までは照合できていない。カードは変えず、宿題として残す。PC での照合（--online）でも確かめる。
