@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 9 件のうち、監修済み 0 件。
+全 10 件のうち、監修済み 0 件。
 
 ## タバコ煙中の有害物質、未成年者の喫煙、受動喫煙
 
@@ -114,7 +114,17 @@
 - 出題基準：医学各論 ⅩⅢ-3-B-③（妊婦・胎児への影響、a）　コアカリ：GE-04-01-06 (id: JkxpswA)；PS-02-11-05 (id: JkxnuSU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SM-009&card_id=SM-009&version=b6ff51dff3)　（版 `b6ff51dff3`）
 
-**[ここまでの 1 件（SM-009）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SM-009&cards=SM-009%20b6ff51dff3)**
+### SM-010　下書き（出典の照合前）
+
+> 妊娠中の禁煙支援として薬物を使わない心理社会的介入（カウンセリング、健康教育、胎児への影響のフィードバック、禁煙へのインセンティブ、社会的支援、運動）があり、Cochrane 系統的レビューの2026年版では127件の研究（喫煙中または最近禁煙した妊婦47,361人）が統合された。カウンセリングと金銭的インセンティブは妊娠後期の禁煙を増やす可能性が高く、健康教育、フィードバック、社会的支援も禁煙を増やす可能性がある一方、運動にはほとんど差がない可能性が高い。心理社会的介入全体では、低出生体重児（2500 g未満）の割合が減り、平均出生体重が増え、新生児集中治療室への入院が減る可能性があるが、死産にはほとんど差がない可能性が高く、早産への影響は明らかでない。これらの知見は、民族的マイノリティや先住民族の女性では研究が少なく当てはまりが確認できていない。
+
+- 条件：region: 国際／対象: 妊娠中に喫煙している、または最近禁煙した女性
+- 不確実性：本カードは2026年版（pub6）の平易要約・著者結論と試験数に基づく。刊行元のページでは抄録の Main results が旧版（2017年版）の集計のまま表示されていたため、旧版のリスク比等の数値は含めていない。2026年版の PMID・PMCID は作成時点で確認できず null とした（版は DOI で特定した）。薬剤について：本レビューは薬物を使わない介入のみを対象とし薬物療法の効果は評価していない。国内ではニコチン製剤（ニコチンパッチ・ガム）は妊婦・授乳婦に禁忌とされており、妊娠中の禁煙支援は行動支援が中心となる（禁煙治療のための標準手順書第7版に基づく既存カード SM-009 の記載による）。能動喫煙・受動喫煙の転帰そのものは既存カード SM-009 が担う。
+- 出典：Freijah I, Jones KA, Coleman T, Perlen SM, Kennedy M, Passey ME, McKenzie JE, Chamberlain C. Psychosocial interventions for supporting women to stop smoking in pregnancy. Cochrane Database of Systematic Reviews. 2026;(4):CD001055　[DOI 10.1002/14651858.CD001055.pub6](https://doi.org/10.1002/14651858.CD001055.pub6)（区分 UNKNOWN）
+- 出題基準：医学各論 ⅩⅢ-3-B-③（妊婦・胎児への影響、a）　コアカリ：GE-04-01-06 (id: JkxpswA)；PS-02-11-05 (id: JkxnuSU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SM-010&card_id=SM-010&version=b62360b867)　（版 `b62360b867`）
+
+**[ここまでの 2 件（SM-009〜SM-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SM-009%E3%80%9CSM-010&cards=SM-009%20b6ff51dff3%0ASM-010%20b62360b867)**
 
 ---
 

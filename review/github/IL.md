@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 60 件のうち、監修済み 0 件。
+全 61 件のうち、監修済み 0 件。
 
 ## 特発性間質性肺炎
 
@@ -328,7 +328,17 @@
 - 出題基準：医学各論 Ⅳ-3-A-③（好酸球性肺炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-229 (id: Jlvnlzw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-026&card_id=IL-026&version=5f9fb5fe8b)　（版 `5f9fb5fe8b`）
 
-**[ここまでの 1 件（IL-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-026&cards=IL-026%205f9fb5fe8b)**
+### IL-062　下書き（出典の照合前）
+
+> 好酸球性肺炎は、肺組織や気管支肺胞洗浄（BAL）液への好酸球の著明な集積を特徴とする疾患群で、主要な病型は急性好酸球性肺炎（AEP）と慢性好酸球性肺炎（CEP）である。AEP は喫煙の開始・再開・増量といった喫煙習慣の変化や、粉塵などの吸入曝露と関連することが多く、発熱・咳嗽・呼吸困難が急性に出現して数日で進み、低酸素血症や呼吸不全を来しうる。初診時の末梢血好酸球増多は約3割の症例にとどまる一方、BAL では好酸球が通常40%を超え、診断には BAL 好酸球25%超などが目安とされる。画像では両側のすりガラス影と浸潤影、小葉間隔壁の肥厚がみられ、胸水を伴うことが多い。副腎皮質ステロイドに速やかに反応し、軽度の低酸素血症の症例では自然軽快もみられ、禁煙すれば再発は通常ない。CEP は数か月にわたり咳嗽や呼吸困難が遷延する病型で、女性に多く（男性の約2倍）、アレルギー疾患の合併が半数を超える。末梢血好酸球増多と IgE の上昇が多くの症例でみられ、BAL の好酸球は平均40〜60%で、画像では末梢側に優位な浸潤影が特徴的である。治療の中心は副腎皮質ステロイドで、プレドニゾロン換算で体重1 kgあたり0.5 mg程度から開始し6〜12か月かけて漸減するが、自然軽快は1割未満とまれで、再発が頻繁にみられる。両病型とも、薬剤や寄生虫・真菌などの感染といった既知の原因による二次性の好酸球性肺炎を除外して診断する。
+
+- 条件：対象: 成人
+- 不確実性：副腎皮質ステロイド（プレドニゾロン）は国内で承認されている薬剤だが、添付文書の効能・効果に好酸球性肺炎の明記は確認しておらず、本疾患への投与が適応外使用として位置づけられる可能性がある。用量と漸減期間は出典（Suzuki & Suda 2019）の記載に基づく。PMID は本作業では確認できなかったため null とした（DOI で文献は一意に特定できる）。既存の IL-026 は単一コホートの疫学のみであり、本カードは疾患の一般像を担う
+- 出典：Suzuki Y, Suda T. Eosinophilic pneumonia: A review of the previous literature, causes, diagnosis, and management. Allergol Int. 2019;68(4):413-419　[DOI 10.1016/j.alit.2019.05.006](https://doi.org/10.1016/j.alit.2019.05.006)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-3-A-③（好酸球性肺炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-229 (id: Jlvnlzw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-062&card_id=IL-062&version=368f3cbb25)　（版 `368f3cbb25`）
+
+**[ここまでの 2 件（IL-026〜IL-062）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-026%E3%80%9CIL-062&cards=IL-026%205f9fb5fe8b%0AIL-062%20368f3cbb25)**
 
 ---
 

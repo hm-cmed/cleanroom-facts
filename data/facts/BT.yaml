@@ -666,3 +666,73 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-020
+  domain: BT
+  subdomain: 転移性脳腫瘍
+  assertion:
+    plain_statement_ja: 脳転移は全癌患者の約20%に生じると推定され、原発巣の多くは肺癌、乳癌、大腸癌、悪性黒色腫、腎細胞癌である。
+    condition:
+      region: 国際
+      対象: 癌患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4813
+    source: Achrol AS, Rennert RC, Anders C, et al. Brain metastases. Nat Rev Dis Primers. 2019;5(1):5
+    doi: 10.1038/s41572-018-0055-y
+    pmid: '30655533'
+    pmcid: null
+    url: https://doi.org/10.1038/s41572-018-0055-y
+    source_license: Nature Reviews Disease Primers（Springer Nature、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 頻度と原発巣の構成は総説の抄録で確認。原発巣としては肺癌が最も多いことが疫学として知られているが、本総説の抄録では原発巣別の割合の数値を確認できなかったため、主張に順位と割合の数値は含めていない（既存カード BT-017 の uncertainty も同じ事情を記している）。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-C-①（転移性脳腫瘍、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-633 (id: JlvnmbI)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: BT-021
+  domain: BT
+  subdomain: 転移性脳腫瘍
+  assertion:
+    plain_statement_ja: 転移性脳腫瘍の診断では造影MRIが中心的な画像検査であり、病変の大きさ・形態・個数を評価する。治療方針は転移の個数にも左右されるため個数の正確な把握が必要であり、確定診断には生検を要することもある。
+    condition:
+      region: 国際
+      対象: 転移性脳腫瘍が疑われる患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4814
+    source: 'Tong E, McCullagh KL, Iv M. Advanced Imaging of Brain Metastases: From Augmenting Visualization and Improving Diagnosis to Evaluating Treatment Response. Front Neurol. 2020;11:270'
+    doi: 10.3389/fneur.2020.00270
+    pmid: '32351445'
+    pmcid: PMC7174761
+    url: https://doi.org/10.3389/fneur.2020.00270
+    source_license: CC BY 4.0（Frontiers in Neurology、PMC のライセンス表示で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 造影MRIが診断で優先される画像検査であること、造影T1強調像とT2強調FLAIR像が標準的に用いられることは総説本文で確認した。原発巣の検索の進め方や髄膜癌腫症の評価など診断手順の全体は本カードの範囲外。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-2-C-①（転移性脳腫瘍、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-633 (id: JlvnmbI)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

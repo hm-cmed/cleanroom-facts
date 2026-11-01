@@ -1611,3 +1611,213 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/64_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: BA-047
+  domain: BA
+  subdomain: 表皮ブドウ球菌感染症
+  assertion:
+    plain_statement_ja: コアグラーゼ陰性ブドウ球菌はカテーテル関連血流感染の最も多い原因菌であると同時に、血液培養で最も多いコンタミネーションの原因でもあるため、陽性となった場合の解釈が重要になる。血液培養が1セットのみ陽性の場合は、抗菌薬の開始やカテーテル抜去の前に、カテーテル採血と末梢静脈採血による追加培養で真の血流感染かどうかを確認する。カテーテル関連血流感染の確定診断には、末梢血培養とカテーテル先端培養で同一菌が発育すること、またはカテーテル採血の培養陽性化が末梢血より2時間以上早いこと（陽性化時間差）などが用いられる。本菌の多くはメチシリン耐性であり、経験的治療にはバンコマイシンが推奨される。合併症のない例では、カテーテルを抜去した場合は5〜7日間、温存する場合は抗菌薬ロック療法を併用して10〜14日間の治療を行い、感染性心内膜炎、化膿性血栓性静脈炎、適切な治療でも72時間を超えて持続する菌血症がある場合はカテーテルを抜去する。
+    condition:
+      region: 国際
+      対象: 血管内カテーテル留置患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4883
+    source: 'Mermel LA, Allon M, Bouza E, Craven DE, Flynn P, O''Grady NP, Raad II, Rijnders BJ, Sherertz RJ, Warren DK. Clinical practice guidelines for the diagnosis and management of intravascular catheter-related infection: 2009 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2009;49(1):1-45'
+    doi: 10.1086/599376
+    pmid: '19489710'
+    pmcid: PMC4039170
+    url: https://doi.org/10.1086/599376
+    source_license: Infectious Diseases Society of America（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: バンコマイシンは国内で承認されており、添付文書の適応菌種にメチシリン耐性コアグラーゼ陰性ブドウ球菌（MRCNS）を含み、敗血症や感染性心内膜炎などへの保険適用があることを PMDA の添付文書で確認した。出典は IDSA の2009年ガイドラインで、人工物感染としては血管内デバイスを中心に扱っており、人工関節・人工弁など他のデバイス感染の診断・治療の詳細は対象外のため主張に含めていない。なお同ガイドラインでは Staphylococcus lugdunensis は黄色ブドウ球菌と同様に扱うとしている。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑤（表皮ブドウ球菌感染症、a）
+    core_curriculum: 'PS-01-03-04 (id: JkxnuLI)；PS-03-03-02 (id: JkxnuUk)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: BA-048
+  domain: BA
+  subdomain: クレブシエラ感染症
+  assertion:
+    plain_statement_ja: クレブシエラ・ニューモニエの古典株は主に医療機関で、基礎疾患や免疫抑制のある患者、体内デバイスの留置や手術創などバリアの破綻がある患者に感染を起こす日和見病原体である。一方、過毒力株はアジア太平洋地域に多く、基礎疾患のない人にも市中感染を起こし、胆道疾患のない肝膿瘍を代表的な病像として、複数部位への播種や眼内炎・髄膜炎などの転移性感染を来すことがある。糖尿病は過毒力株感染の危険因子とされ、血糖管理不良は転移性合併症の増加と関連する。治療は感受性結果が判明するまでは効果が予測できる抗菌薬を経験的に選び、判明後に狭域化すること、膿瘍ではドレナージなどのソースコントロールを併用することが原則である。ESBL 産生株は第3世代セフェムなどに耐性を示し、カルバペネマーゼ産生株はカルバペネムを含む広範な β-ラクタムに耐性を示す。カルバペネマーゼ産生株に対してはセフタジジム・アビバクタム、コリスチン、チゲサイクリンが試験管内で活性を示すが、メタロ-β-ラクタマーゼ産生株はセフタジジム・アビバクタムの対象外である。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4884
+    source: Russo TA, Marr CM. Hypervirulent Klebsiella pneumoniae. Clin Microbiol Rev. 2019;32(3):e00001-19
+    doi: 10.1128/CMR.00001-19
+    pmid: '31092506'
+    pmcid: PMC6589860
+    url: https://doi.org/10.1128/CMR.00001-19
+    source_license: American Society for Microbiology（CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: セフタジジム・アビバクタム（ザビセフタ）は2024年6月に国内で製造販売承認され、カルバペネム耐性腸内細菌目細菌による感染症に用いられるが、メタロ-β-ラクタマーゼ産生株には有効でなく、国内で最も多い IMP 型の産生株ではアズトレオナムとの併用が推奨されていることを厚生労働省の通知で確認した。コリスチンとチゲサイクリンも国内で承認されているが、多剤耐性菌による感染症への使用には適正使用上の制約がある。過毒力株の治療には対照試験がなく、治療の考え方は出典の総説が示す経験的な原則に拠った。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑭（クレブシエラ感染症、a）
+    core_curriculum: 'PS-03-03-02 (id: JkxnuUk)；PS-03-03-04 (id: JkxnuUs)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: BA-049
+  domain: BA
+  subdomain: セラチア感染症
+  assertion:
+    plain_statement_ja: セラチア感染症は成人では主として医療関連感染としてみられ、尿路感染症、肺炎、血流感染などを起こし、院内アウトブレイクの原因にもなる。Serratia marcescens はペニシリンG、アンピシリン、アモキシシリン・クラブラン酸、セフロキシムを含む狭域のセファロスポリン、コリスチン、ニトロフラントインに内因性耐性を示す。染色体性の誘導型 AmpC 型β-ラクタマーゼを持つため、第3世代セファロスポリンによる治療中に脱抑制変異株が出現して耐性化することがあり、治療は感受性結果に応じて調整する。経験的治療にはピペラシリン・タゾバクタム、フルオロキノロン系薬、アミノグリコシド系薬、カルバペネム系薬などが用いられ、カルバペネム系薬には原則として感性を示す（カルバペネマーゼ産生株の報告はある）。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4885
+    source: 'Mahlen SD. Serratia infections: from military experiments to current practice. Clin Microbiol Rev. 2011;24(4):755-791.'
+    doi: 10.1128/CMR.00017-11
+    pmid: '21976608'
+    pmcid: PMC3194826
+    url: https://doi.org/10.1128/CMR.00017-11
+    source_license: © American Society for Microbiology（PMC 収載版の版権表示で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 薬剤の国内承認：ピペラシリン・タゾバクタム、フルオロキノロン系薬（シプロフロキサシン、レボフロキサシン）、アミノグリコシド系薬（アミカシンなど）、カルバペネム系薬（メロペネム、イミペネム・シラスタチン）はいずれも国内承認薬である。コリスチン（コリスチンメタンスルホン酸ナトリウム、販売名オルドレブ）は2015年に国内承認されたが、セラチア属は添付文書上も抗菌活性を示さない菌種とされており、本菌感染症の治療薬にはならない。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑮（セラチア感染症、a）
+    core_curriculum: 'PS-01-03-04 (id: JkxnuLI)；PS-03-03-02 (id: JkxnuUk)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: BA-050
+  domain: BA
+  subdomain: 緑膿菌感染症
+  assertion:
+    plain_statement_ja: 緑膿菌は、重症患者や免疫不全患者における院内感染の主要な原因菌の一つである。臨床像は菌血症、肺炎（人工呼吸器関連肺炎を含む）、尿路感染症、皮膚・軟部組織感染症など多様で、好中球減少患者の菌血症では壊疽性膿瘡（皮膚の壊死性病変）を伴うことがある。熱傷創部感染では、感受性が判明するまで抗緑膿菌薬の経験的併用療法を行い、デブリードマンが適応となる場合がある。治療は、ピペラシリン・タゾバクタム、セフタジジム、セフエピム、カルバペネム系薬、アズトレオナムなどのβ-ラクタム系薬、シプロフロキサシンやレボフロキサシンなどのフルオロキノロン系薬、アミノグリコシド系薬の中から感受性に応じて選択し、重症例では併用療法が検討される。薬剤耐性株に対してはセフトロザン・タゾバクタムやセフタジジム・アビバクタムが選択肢となる。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4886
+    source: Bassetti M, Vena A, Croxatto A, Righi E, Guery B. How to manage Pseudomonas aeruginosa infections. Drugs Context. 2018;7:212527.
+    doi: 10.7573/dic.212527
+    pmid: '29872449'
+    pmcid: PMC5978525
+    url: https://doi.org/10.7573/dic.212527
+    source_license: CC BY-NC-ND 4.0（PMC 収載版の表示で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 依頼表で臨床像に挙げられた悪性外耳道炎は本出典では扱われておらず、本カードには含めていない。薬剤の国内承認：ピペラシリン・タゾバクタム、セフタジジム、セフエピム、イミペネム・シラスタチン、メロペネム、シプロフロキサシン、レボフロキサシン、アズトレオナム、アミノグリコシド系薬（トブラマイシン、アミカシンなど）はいずれも国内承認薬である。セフトロザン・タゾバクタム（販売名ザバクサ）は2019年に国内承認され、適応菌種に緑膿菌を含む。セフタジジム・アビバクタム（販売名ザビセフタ）は2024年6月に国内承認された（カルバペネム耐性菌感染症を中心に適正使用を求める通知がある）。コリスチン（販売名オルドレブ）は2015年に国内承認され適応菌種に緑膿菌を含むが、他の抗菌薬に耐性を示した菌株に限られる。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑱（緑膿菌感染症、a）
+    core_curriculum: 'PS-03-03-02 (id: JkxnuUk)；PS-03-03-04 (id: JkxnuUs)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: BA-051
+  domain: BA
+  subdomain: アシネトバクター感染症
+  assertion:
+    plain_statement_ja: アシネトバクター感染症は主として院内感染であり、誤嚥性肺炎（人工呼吸器関連肺炎を含む）とカテーテル関連血流感染が代表的で、皮膚軟部組織感染や尿路感染症も起こす。集中治療室での発生が多く、本菌は乾燥に強く環境表面で長期間生存するため、環境表面や医療従事者の手指を介した伝播によりアウトブレイクの原因となる。広範囲薬剤耐性株による感染では死亡率が高く、有効な抗菌薬による初期治療が予後を左右する。治療では、スルバクタムが本菌に対して直接の抗菌活性を持つことを踏まえ、カルバペネム系薬やスルバクタムを軸とする併用療法が検討され、コリスチン、チゲサイクリン、ミノサイクリンなどが代替の選択肢となる。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4887
+    source: 'Wong D, Nielsen TB, Bonomo RA, Pantapalangkoor P, Luna B, Spellberg B. Clinical and pathophysiological overview of Acinetobacter infections: a century of challenges. Clin Microbiol Rev. 2017;30(1):409-447.'
+    doi: 10.1128/CMR.00058-16
+    pmid: '27974412'
+    pmcid: PMC5217799
+    url: https://doi.org/10.1128/CMR.00058-16
+    source_license: © American Society for Microbiology（PMC 収載版の版権表示で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本出典は2017年の総説であり、スルバクタム・デュロバクタムなどの新しい配合剤は扱われていない。薬剤の国内承認：メロペネム、イミペネム・シラスタチン、ミノサイクリンは国内承認薬である。スルバクタムは国内ではアンピシリンとの配合剤（販売名ユナシン-Sなど）として承認されているが、適応菌種にアシネトバクター属は含まれず、本菌感染症への使用は適応外となる。コリスチン（販売名オルドレブ）は2015年に国内承認され、適応菌種にアシネトバクター属を含むが、他の抗菌薬に耐性を示した菌株に限られる。チゲサイクリン（販売名タイガシル）は2012年に国内承認され、適応菌種にアシネトバクター属を含むが、他の抗菌薬に耐性を示した菌株に限られ、適応症は深在性皮膚感染症や腹腔内感染症などである。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑲（アシネトバクター感染症、a）
+    core_curriculum: 'PS-03-03-02 (id: JkxnuUk)；PS-03-03-04 (id: JkxnuUs)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: BA-052
+  domain: BA
+  subdomain: ガス壊疽
+  assertion:
+    plain_statement_ja: ウェルシュ菌（Clostridium perfringens）A型によるガス壊疽（クロストリジウム性筋壊死）の病原性の中心は、染色体にコードされるα毒素とパーフリンゴリジンOである。α毒素はホスホリパーゼCとスフィンゴミエリナーゼの活性を持つ酵素で、α毒素を欠く変異株は筋壊死を起こさないことから、筋壊死の成立に必須の毒素である。α毒素の作用により組織壊死と血栓形成が生じ、感染部位への多形核白血球の浸潤が欠如する。パーフリンゴリジンOは単独では必須ではないが、α毒素と協調して白血球の血管内停留を来し、血流を障害して壊死の進展に関与する。病変組織の顕微鏡所見では、筋線維の壊死と、好中球が血管内に停留する一方で血管外の組織への浸潤が乏しい像がみられる。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4888
+    source: Uzal FA, Freedman JC, Shrestha A, Theoret JR, Garcia J, Awad MM, Adams V, Moore RJ, Rood JI, McClane BA. Towards an understanding of the role of Clostridium perfringens toxins in human and animal disease. Future Microbiol. 2014;9(3):361-377.
+    doi: 10.2217/fmb.13.168
+    pmid: '24762309'
+    pmcid: PMC4155746
+    url: https://doi.org/10.2217/fmb.13.168
+    source_license: © 2014 Future Medicine Ltd（PMC 収載の著者原稿の表示で確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 臨床像・治療は SD-034 が担うため本カードでは扱わない（登録時の決定による）。検査所見として収載したのは病変組織の顕微鏡所見の範囲であり、創部滲出液のグラム染色や培養などの細菌学的検査所見は本出典では扱われていない。出典の PMC 収載版は著者原稿で、版元版は Future Microbiology 誌の掲載版である。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-2-B-⑳（ガス壊疽、a）
+    core_curriculum: 'PS-01-03-03 (id: JkxnuLE)；TBL-01-00-595 (id: JlvnmXw)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

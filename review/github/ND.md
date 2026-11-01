@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 60 件のうち、監修済み 0 件。
+全 63 件のうち、監修済み 0 件。
 
 ## Alzheimer型認知症
 
@@ -122,7 +122,17 @@
 - 出題基準：医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅱ-1-A-②（脳血管性認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-039 (id: JlvnldY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-011&card_id=ND-011&version=425fc19364)　（版 `425fc19364`）
 
-**[ここまでの 3 件（ND-009〜ND-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-009%E3%80%9CND-011&cards=ND-009%20f34f7e0c5a%0AND-010%204d57d77ef7%0AND-011%20425fc19364)**
+### ND-062　下書き（出典の照合前）
+
+> 脳血管性認知症はアルツハイマー病に次いで多い認知症で、認知症全体の約15%を占める。病型は病変の部位と成り立ちで分けられ、皮質の多発梗塞による多発梗塞性、小血管病による皮質下血管性（ラクナと広範な白質病変）、視床など戦略的部位の単一梗塞によるもの、分水嶺梗塞などの低灌流性、出血性、CADASIL などの遺伝性、アルツハイマー病に脳血管疾患が合併する混合型などがある。病理学的には大きな皮質梗塞よりも皮質下の血管病変が多数を占め、皮質下病変では前頭葉と線条体の回路の障害により注意・情報処理・遂行機能の障害が目立ち、記憶障害が前景に出ないことがある。診断では画像で脳血管病変（梗塞や白質病変）を示すことが支えとなる。血管性認知症に認可された治療薬はなく、管理の中心は併存症の把握と対応、血管危険因子の最適な管理、非認知症状への対応、患者と介護者への心理社会的支援であり、脳卒中再発予防を含む血管危険因子の管理が中核となる。
+
+- 条件：region: 国際／対象: 脳血管性認知症の患者
+- 不確実性：コリンエステラーゼ阻害薬（ドネペジル、リバスチグミン、ガランタミン）とメマンチンは小さい効果が示されたにとどまり、規制当局やガイドラインは血管性認知症への適応を認めていない。これらの薬剤は国内ではアルツハイマー型認知症（ドネペジルはレビー小体型認知症も）に承認・保険適用があるが、血管性認知症への適応はない。国内の認知症疾患診療ガイドラインは2026年版が現行だが、その本文は照合できなかったため、本カードは国際的な総説に基づく。脳小血管病の MRI マーカーそのものは ND-010 が担い、本カードでは扱わない。（出典内の位置：本文の病型表（Table 1）、認知機能の節、管理の節）
+- 出典：O'Brien JT, Thomas A. Vascular dementia. Lancet. 2015;386(10004):1698-1706　[DOI 10.1016/S0140-6736(15)00463-8](https://doi.org/10.1016/S0140-6736(15)00463-8)　[PMID 26595643](https://pubmed.ncbi.nlm.nih.gov/26595643/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅸ-1-E-③（脳血管性認知症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-039 (id: JlvnldY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-062&card_id=ND-062&version=1ac201f845)　（版 `1ac201f845`）
+
+**[ここまでの 4 件（ND-009〜ND-062）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-009%E3%80%9CND-062&cards=ND-009%20f34f7e0c5a%0AND-010%204d57d77ef7%0AND-011%20425fc19364%0AND-062%201ac201f845)**
 
 ---
 
@@ -730,7 +740,17 @@
 - 出題基準：医学各論 Ⅸ-4-I-①（一酸化炭素中毒<CO中毒>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-054&card_id=ND-054&version=a0b43b1127)　（版 `a0b43b1127`）
 
-**[ここまでの 1 件（ND-054）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-054&cards=ND-054%20a0b43b1127)**
+### ND-063　下書き（出典の照合前）
+
+> 一酸化炭素中毒の診断は、中毒に矛盾しない症状、最近の曝露歴、血中カルボキシヘモグロビン（COHb）の上昇の3点に基づく。症状は頭痛、めまい、倦怠感、悪心・嘔吐、意識障害などが多く、通常のパルスオキシメータでは COHb と酸素化ヘモグロビンを区別できない。COHb の異常高値の目安は非喫煙者で2%以上、喫煙者で10%以上とされる。治療は100%酸素投与が基本であり、CO の消失半減期は室内気での約320分から常圧100%酸素で約74分に、高気圧酸素（2.5〜3気圧）では約20分に短縮する。回復後、数日から数週間を経て遅発性の神経障害が現れることがある。
+
+- 条件：region: 国際／対象: 一酸化炭素中毒の患者
+- 不確実性：COHb の目安値と消失半減期の数値は総説（SRC-1698）の本文で確認した。高気圧酸素療法の位置づけについては、無作為化比較試験の系統的レビュー（Buckley NA, et al. Cochrane Database Syst Rev. 2011;(4):CD002041、出典表には未収載）で神経学的転帰の改善は確立しておらず、その適応は定まっていない。SRC-1698 の PMCID は PMC5363978 が候補（マスターでは null のため本カードも null とし、補完は取り込み側の照合に委ねる）。神経認知障害の頻度などの予後は既存カード ND-054 が担い、本カードでは扱わない。
+- 出典：Rose JJ, Wang L, Xu Q, et al. Carbon Monoxide Poisoning: Pathogenesis, Management, and Future Directions of Therapy. Am J Respir Crit Care Med. 2017　[DOI 10.1164/rccm.201606-1275CI](https://doi.org/10.1164/rccm.201606-1275CI)　[PMID 27753502](https://pubmed.ncbi.nlm.nih.gov/27753502/)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅸ-4-I-①（一酸化炭素中毒<CO中毒>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-063&card_id=ND-063&version=71f65a6e13)　（版 `71f65a6e13`）
+
+**[ここまでの 2 件（ND-054〜ND-063）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-054%E3%80%9CND-063&cards=ND-054%20a0b43b1127%0AND-063%2071f65a6e13)**
 
 ---
 
@@ -746,7 +766,17 @@
 - 出題基準：医学各論 Ⅸ-4-I-②（低酸素脳症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-02-02-021 (id: JlAKpYw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-055&card_id=ND-055&version=7344adc22b)　（版 `7344adc22b`）
 
-**[ここまでの 1 件（ND-055）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-055&cards=ND-055%207344adc22b)**
+### ND-064　下書き（出典の照合前）
+
+> 心停止後症候群は、心停止後の低酸素虚血性脳障害、心筋機能障害、全身の虚血再灌流応答、持続する心停止の原因病態から構成される。神経学的予後評価は単一の指標では正確に行えないため、鎮静や体温管理などの交絡因子を除いたうえで複数の指標を組み合わせて行う。自己心拍再開後72時間以上の時点で昏睡が続き最良運動反応がモータースコア3以下（異常屈曲以下）の患者では、72時間以上での瞳孔反射と角膜反射の両側消失、24時間以上での体性感覚誘発電位 N20 波の両側消失、24時間以降の高度悪性脳波パターン、48時間および/または72時間での神経特異エノラーゼ60 µg/L超、72時間以内の持続性ミオクローヌス、頭部CT・MRIでの広範な低酸素性脳障害のうち2つ以上がそろえば転帰不良の可能性が高い。体温管理については、同ガイドラインは昏睡患者で32〜36℃の一定の目標体温を少なくとも24時間維持すること、自己心拍再開後少なくとも72時間は37.7℃を超える発熱を避けることを推奨した。
+
+- 条件：region: 欧州／対象: 心停止後に自己心拍が再開した昏睡状態の成人患者
+- 不確実性：予後評価の指標と組み合わせの基準はガイドライン本文で確認した。体温管理の推奨文は、ガイドライン本文の推奨ボックスがテキストとして抽出できなかったため、NICE の資料に引用された同ガイドラインの推奨文で確認した。2022年には ILCOR の更新で37.5℃以下を目標とする積極的な発熱予防が提案され、ERC/ESICM も同年に発熱予防を重視する体温管理の改訂声明を出しており、現在の位置づけは発熱予防が中心である。33℃を目標とする管理が発熱予防中心の平温管理より死亡率を下げなかったことは既存カード ND-055（TTM2試験）が担う。
+- 出典：Nolan JP, Sandroni C, Böttiger BW, et al. European Resuscitation Council and European Society of Intensive Care Medicine Guidelines 2021: Post-resuscitation care. Resuscitation. 2021;161:220-269　[DOI 10.1016/j.resuscitation.2021.02.012](https://doi.org/10.1016/j.resuscitation.2021.02.012)　[PMID 33773827](https://pubmed.ncbi.nlm.nih.gov/33773827/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅸ-4-I-②（低酸素脳症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-02-02-021 (id: JlAKpYw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-064&card_id=ND-064&version=ca6a683687)　（版 `ca6a683687`）
+
+**[ここまでの 2 件（ND-055〜ND-064）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-055%E3%80%9CND-064&cards=ND-055%207344adc22b%0AND-064%20ca6a683687)**
 
 ---
 

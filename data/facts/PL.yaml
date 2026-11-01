@@ -1064,3 +1064,108 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: PL-031
+  domain: PL
+  subdomain: 縦隔気腫、皮下気腫
+  assertion:
+    plain_statement_ja: 自然縦隔気腫は、肺胞の破裂で漏れた空気が気管支・肺血管周囲の鞘に沿って縦隔へ入り込むこと（Macklin効果）で生じ、若年に多く、男性が約76%を占める。症状は胸痛が中心で頻度は60〜100%（胸骨後の痛みで頸部や背部へ放散する）、呼吸困難75%、咳嗽80%、頸部痛36%を伴い、空気が頸部や皮下へ広がった皮下気腫を約70%に認める。心拍に同期して前胸部に捻髪音様の所見を聴く Hamman 徴候が手がかりとなる。経過は多くは良好で、安静、鎮痛、鎮咳などの保存的治療で軽快し、酸素投与は空気の吸収を助ける。
+    condition:
+      region: 国際
+      対象: 自然縦隔気腫の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4893
+    source: Kouritas VK, Papagiannopoulos K, Lazaridis G, et al. Pneumomediastinum. J Thorac Dis. 2015;7(Suppl 1):S44-S49
+    doi: 10.3978/j.issn.2072-1439.2015.01.11
+    pmid: '25774307'
+    pmcid: PMC4332083
+    url: https://doi.org/10.3978/j.issn.2072-1439.2015.01.11
+    source_license: © 2015 Journal of Thoracic Disease. All rights reserved（PMC 掲載ページの表示、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 症状・所見の頻度は総説が集計した自然縦隔気腫の症例報告・症例シリーズに基づく数値で、報告により幅があり（胸痛60〜100%など）、総説本文から読み取り。外傷性や食道破裂などに伴う二次性縦隔気腫の管理は本カードでは扱わない。個別の薬剤名は主張に含まない（鎮痛・鎮咳は保存的治療の要素としての記述）。
+  curriculum:
+    kokushi: 医学各論 Ⅳ-7-B-①（縦隔気腫、皮下気腫、a）
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-242 (id: Jlvnl1U)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: PL-032
+  domain: PL
+  subdomain: 気管食道瘻、食道気管瘻
+  assertion:
+    plain_statement_ja: 成人の後天性気管食道瘻は悪性と良性がほぼ半々を占める。悪性では食道癌が最も多く（207例の集積では77%）、次いで肺癌で、放射線治療や化学療法による腫瘍の壊死で瘻が生じることもある。良性の最多の原因は気管挿管・気管切開チューブのカフによる圧迫壊死で、良性例の約75%が医原性とされる。臨床像は咳嗽56%、誤嚥37%、発熱25%、嚥下困難19%、肺炎5%などで、嚥下で咳嗽が悪化する Ono 徴候が既知例の81%にみられ、反復する肺炎の原因となる。診断は食道造影（約70%で欠損が描出される）と、気管支鏡・上部消化管内視鏡による直接の確認を組み合わせる。治療は、悪性ではステント留置が緩和的治療の中心となり、良性では根治的手術が可能で、ステントは手術までの橋渡しに用いられる。
+    condition:
+      region: 国際
+      対象: 成人の後天性気管食道瘻の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4894
+    source: Kim HS, Khemasuwan D, Diaz-Mendoza J, Mehta AC. Management of tracheo-oesophageal fistula in adults. Eur Respir Rev. 2020;29(158):200094
+    doi: 10.1183/16000617.0094-2020
+    pmid: '33153989'
+    pmcid: PMC9488631
+    url: https://doi.org/10.1183/16000617.0094-2020
+    source_license: CC BY-NC 4.0（PMC 掲載ページで確認）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 症状の頻度は総説本文が引用する Burt らの200例を超える集積（悪性が中心）に基づく数値で、本文から読み取り。依頼文が見込みとしていた ESGE 2021 は悪性瘻へのステント推奨が中心のため採用せず、後天性の原因・臨床像・診断・治療を通して確認できる本総説を単独の出典とした。悪性例の生存期間の中央値は診断後3か月未満と本文にあるが、予後は本カードの主張には含めていない。先天性（食道閉鎖に伴うもの）は小児の領域のため扱わない。個別の薬剤名は主張に含まない。
+  curriculum:
+    kokushi: 医学各論 Ⅳ-7-B-②（気管食道瘻、食道気管瘻、a）
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: PL-033
+  domain: PL
+  subdomain: 反回神経麻痺
+  assertion:
+    plain_statement_ja: 一側性の声帯麻痺は左側に多く、台湾の3次施設の後方視研究（原因の確定した194例のうち一側性178例）では左側が122例（69%）で右側56例（31%）の約2倍であった。これは、左反回神経が胸腔内を下行して大動脈弓の下を回ってから上行する長い走行をとり、障害を受ける区間が長いためと説明される。原因全体では手術が61.3%と最多である一方、胸部領域の原因として腫瘍性病変が17.5%を占め、その内訳では肺癌（15例）が最も多く、15例中14例が左側であった。心血管疾患によるものも2%あり、大動脈弓近傍での神経の圧迫（Ortner 症候群）が機序となる。
+    condition:
+      region: 国際
+      対象: 一側性声帯麻痺の成人患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4895
+    source: Wang HW, Lu CC, Chao PZ, Lee FP. Causes of Vocal Fold Paralysis. Ear Nose Throat J. 2022;101(7):NP294-NP298
+    doi: 10.1177/0145561320965212
+    pmid: null
+    pmcid: null
+    url: https://doi.org/10.1177/0145561320965212
+    source_license: 未確認（誌面・PDF で CC 表示を確認できず。© The Author(s) 2020、再利用は出版社の許可手続きによる旨の表示あり）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 割合は台湾の3次施設の後方視研究（2010〜2019年、原因の確定した194例）の集計で、原著の表から読み取り。単施設の集計のため、施設・地域による偏りがありうる。項目の側面に挙がる大動脈瘤・左房拡大などの個別の心血管性原因は、本出典では内訳が示されなかったため主張には含めていない（心血管性は全体の2%であることのみ確認した）。PMID は作成時点で確認できず null とした（文献は DOI で特定できる）。ライセンスは CC 表示を確認できなかったため UNKNOWN とし、取り込み時の確認に委ねる。頸部の手術・腫瘍など原因の大勢と評価の進め方は既存カード OT-042 が担う。
+  curriculum:
+    kokushi: 医学各論 Ⅳ-7-B-④（反回神経麻痺、a）
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

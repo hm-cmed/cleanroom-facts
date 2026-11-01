@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 46 件のうち、監修済み 0 件。
+全 52 件のうち、監修済み 0 件。
 
 ## 連鎖球菌感染症
 
@@ -130,7 +130,17 @@
 - 出題基準：医学各論 Ⅻ-2-B-⑤（表皮ブドウ球菌感染症、a）　コアカリ：PS-01-03-04 (id: JkxnuLI)；PS-03-03-02 (id: JkxnuUk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BA-010&card_id=BA-010&version=a66352dc5b)　（版 `a66352dc5b`）
 
-**[ここまでの 1 件（BA-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BA-010&cards=BA-010%20a66352dc5b)**
+### BA-047　下書き（出典の照合前）
+
+> コアグラーゼ陰性ブドウ球菌はカテーテル関連血流感染の最も多い原因菌であると同時に、血液培養で最も多いコンタミネーションの原因でもあるため、陽性となった場合の解釈が重要になる。血液培養が1セットのみ陽性の場合は、抗菌薬の開始やカテーテル抜去の前に、カテーテル採血と末梢静脈採血による追加培養で真の血流感染かどうかを確認する。カテーテル関連血流感染の確定診断には、末梢血培養とカテーテル先端培養で同一菌が発育すること、またはカテーテル採血の培養陽性化が末梢血より2時間以上早いこと（陽性化時間差）などが用いられる。本菌の多くはメチシリン耐性であり、経験的治療にはバンコマイシンが推奨される。合併症のない例では、カテーテルを抜去した場合は5〜7日間、温存する場合は抗菌薬ロック療法を併用して10〜14日間の治療を行い、感染性心内膜炎、化膿性血栓性静脈炎、適切な治療でも72時間を超えて持続する菌血症がある場合はカテーテルを抜去する。
+
+- 条件：region: 国際／対象: 血管内カテーテル留置患者
+- 不確実性：バンコマイシンは国内で承認されており、添付文書の適応菌種にメチシリン耐性コアグラーゼ陰性ブドウ球菌（MRCNS）を含み、敗血症や感染性心内膜炎などへの保険適用があることを PMDA の添付文書で確認した。出典は IDSA の2009年ガイドラインで、人工物感染としては血管内デバイスを中心に扱っており、人工関節・人工弁など他のデバイス感染の診断・治療の詳細は対象外のため主張に含めていない。なお同ガイドラインでは Staphylococcus lugdunensis は黄色ブドウ球菌と同様に扱うとしている。
+- 出典：Mermel LA, Allon M, Bouza E, Craven DE, Flynn P, O'Grady NP, Raad II, Rijnders BJ, Sherertz RJ, Warren DK. Clinical practice guidelines for the diagnosis and management of intravascular catheter-related infection: 2009 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2009;49(1):1-45　[DOI 10.1086/599376](https://doi.org/10.1086/599376)　[PMID 19489710](https://pubmed.ncbi.nlm.nih.gov/19489710/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅻ-2-B-⑤（表皮ブドウ球菌感染症、a）　コアカリ：PS-01-03-04 (id: JkxnuLI)；PS-03-03-02 (id: JkxnuUk)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BA-047&card_id=BA-047&version=f595381d26)　（版 `f595381d26`）
+
+**[ここまでの 2 件（BA-010〜BA-047）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BA-010%E3%80%9CBA-047&cards=BA-010%20a66352dc5b%0ABA-047%20f595381d26)**
 
 ---
 
@@ -302,7 +312,17 @@
 - 出題基準：医学各論 Ⅻ-2-B-⑭（クレブシエラ感染症、a）　コアカリ：PS-03-03-02 (id: JkxnuUk)；PS-03-03-04 (id: JkxnuUs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BA-023&card_id=BA-023&version=29d3513b12)　（版 `29d3513b12`）
 
-**[ここまでの 1 件（BA-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BA-023&cards=BA-023%2029d3513b12)**
+### BA-048　下書き（出典の照合前）
+
+> クレブシエラ・ニューモニエの古典株は主に医療機関で、基礎疾患や免疫抑制のある患者、体内デバイスの留置や手術創などバリアの破綻がある患者に感染を起こす日和見病原体である。一方、過毒力株はアジア太平洋地域に多く、基礎疾患のない人にも市中感染を起こし、胆道疾患のない肝膿瘍を代表的な病像として、複数部位への播種や眼内炎・髄膜炎などの転移性感染を来すことがある。糖尿病は過毒力株感染の危険因子とされ、血糖管理不良は転移性合併症の増加と関連する。治療は感受性結果が判明するまでは効果が予測できる抗菌薬を経験的に選び、判明後に狭域化すること、膿瘍ではドレナージなどのソースコントロールを併用することが原則である。ESBL 産生株は第3世代セフェムなどに耐性を示し、カルバペネマーゼ産生株はカルバペネムを含む広範な β-ラクタムに耐性を示す。カルバペネマーゼ産生株に対してはセフタジジム・アビバクタム、コリスチン、チゲサイクリンが試験管内で活性を示すが、メタロ-β-ラクタマーゼ産生株はセフタジジム・アビバクタムの対象外である。
+
+- 条件：region: 国際／対象: 一般
+- 不確実性：セフタジジム・アビバクタム（ザビセフタ）は2024年6月に国内で製造販売承認され、カルバペネム耐性腸内細菌目細菌による感染症に用いられるが、メタロ-β-ラクタマーゼ産生株には有効でなく、国内で最も多い IMP 型の産生株ではアズトレオナムとの併用が推奨されていることを厚生労働省の通知で確認した。コリスチンとチゲサイクリンも国内で承認されているが、多剤耐性菌による感染症への使用には適正使用上の制約がある。過毒力株の治療には対照試験がなく、治療の考え方は出典の総説が示す経験的な原則に拠った。
+- 出典：Russo TA, Marr CM. Hypervirulent Klebsiella pneumoniae. Clin Microbiol Rev. 2019;32(3):e00001-19　[DOI 10.1128/CMR.00001-19](https://doi.org/10.1128/CMR.00001-19)　[PMID 31092506](https://pubmed.ncbi.nlm.nih.gov/31092506/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅻ-2-B-⑭（クレブシエラ感染症、a）　コアカリ：PS-03-03-02 (id: JkxnuUk)；PS-03-03-04 (id: JkxnuUs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BA-048&card_id=BA-048&version=15cb456ad7)　（版 `15cb456ad7`）
+
+**[ここまでの 2 件（BA-023〜BA-048）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BA-023%E3%80%9CBA-048&cards=BA-023%2029d3513b12%0ABA-048%2015cb456ad7)**
 
 ---
 
@@ -318,7 +338,17 @@
 - 出題基準：医学各論 Ⅻ-2-B-⑮（セラチア感染症、a）　コアカリ：PS-01-03-04 (id: JkxnuLI)；PS-03-03-02 (id: JkxnuUk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BA-024&card_id=BA-024&version=12c7429d17)　（版 `12c7429d17`）
 
-**[ここまでの 1 件（BA-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BA-024&cards=BA-024%2012c7429d17)**
+### BA-049　下書き（出典の照合前）
+
+> セラチア感染症は成人では主として医療関連感染としてみられ、尿路感染症、肺炎、血流感染などを起こし、院内アウトブレイクの原因にもなる。Serratia marcescens はペニシリンG、アンピシリン、アモキシシリン・クラブラン酸、セフロキシムを含む狭域のセファロスポリン、コリスチン、ニトロフラントインに内因性耐性を示す。染色体性の誘導型 AmpC 型β-ラクタマーゼを持つため、第3世代セファロスポリンによる治療中に脱抑制変異株が出現して耐性化することがあり、治療は感受性結果に応じて調整する。経験的治療にはピペラシリン・タゾバクタム、フルオロキノロン系薬、アミノグリコシド系薬、カルバペネム系薬などが用いられ、カルバペネム系薬には原則として感性を示す（カルバペネマーゼ産生株の報告はある）。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：薬剤の国内承認：ピペラシリン・タゾバクタム、フルオロキノロン系薬（シプロフロキサシン、レボフロキサシン）、アミノグリコシド系薬（アミカシンなど）、カルバペネム系薬（メロペネム、イミペネム・シラスタチン）はいずれも国内承認薬である。コリスチン（コリスチンメタンスルホン酸ナトリウム、販売名オルドレブ）は2015年に国内承認されたが、セラチア属は添付文書上も抗菌活性を示さない菌種とされており、本菌感染症の治療薬にはならない。
+- 出典：Mahlen SD. Serratia infections: from military experiments to current practice. Clin Microbiol Rev. 2011;24(4):755-791.　[DOI 10.1128/CMR.00017-11](https://doi.org/10.1128/CMR.00017-11)　[PMID 21976608](https://pubmed.ncbi.nlm.nih.gov/21976608/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅻ-2-B-⑮（セラチア感染症、a）　コアカリ：PS-01-03-04 (id: JkxnuLI)；PS-03-03-02 (id: JkxnuUk)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BA-049&card_id=BA-049&version=890b0c81df)　（版 `890b0c81df`）
+
+**[ここまでの 2 件（BA-024〜BA-049）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BA-024%E3%80%9CBA-049&cards=BA-024%2012c7429d17%0ABA-049%20890b0c81df)**
 
 ---
 
@@ -386,7 +416,17 @@
 - 出題基準：医学各論 Ⅻ-2-B-⑱（緑膿菌感染症、a）　コアカリ：PS-03-03-02 (id: JkxnuUk)；PS-03-03-04 (id: JkxnuUs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BA-029&card_id=BA-029&version=47de4f3866)　（版 `47de4f3866`）
 
-**[ここまでの 1 件（BA-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BA-029&cards=BA-029%2047de4f3866)**
+### BA-050　下書き（出典の照合前）
+
+> 緑膿菌は、重症患者や免疫不全患者における院内感染の主要な原因菌の一つである。臨床像は菌血症、肺炎（人工呼吸器関連肺炎を含む）、尿路感染症、皮膚・軟部組織感染症など多様で、好中球減少患者の菌血症では壊疽性膿瘡（皮膚の壊死性病変）を伴うことがある。熱傷創部感染では、感受性が判明するまで抗緑膿菌薬の経験的併用療法を行い、デブリードマンが適応となる場合がある。治療は、ピペラシリン・タゾバクタム、セフタジジム、セフエピム、カルバペネム系薬、アズトレオナムなどのβ-ラクタム系薬、シプロフロキサシンやレボフロキサシンなどのフルオロキノロン系薬、アミノグリコシド系薬の中から感受性に応じて選択し、重症例では併用療法が検討される。薬剤耐性株に対してはセフトロザン・タゾバクタムやセフタジジム・アビバクタムが選択肢となる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：依頼表で臨床像に挙げられた悪性外耳道炎は本出典では扱われておらず、本カードには含めていない。薬剤の国内承認：ピペラシリン・タゾバクタム、セフタジジム、セフエピム、イミペネム・シラスタチン、メロペネム、シプロフロキサシン、レボフロキサシン、アズトレオナム、アミノグリコシド系薬（トブラマイシン、アミカシンなど）はいずれも国内承認薬である。セフトロザン・タゾバクタム（販売名ザバクサ）は2019年に国内承認され、適応菌種に緑膿菌を含む。セフタジジム・アビバクタム（販売名ザビセフタ）は2024年6月に国内承認された（カルバペネム耐性菌感染症を中心に適正使用を求める通知がある）。コリスチン（販売名オルドレブ）は2015年に国内承認され適応菌種に緑膿菌を含むが、他の抗菌薬に耐性を示した菌株に限られる。
+- 出典：Bassetti M, Vena A, Croxatto A, Righi E, Guery B. How to manage Pseudomonas aeruginosa infections. Drugs Context. 2018;7:212527.　[DOI 10.7573/dic.212527](https://doi.org/10.7573/dic.212527)　[PMID 29872449](https://pubmed.ncbi.nlm.nih.gov/29872449/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅻ-2-B-⑱（緑膿菌感染症、a）　コアカリ：PS-03-03-02 (id: JkxnuUk)；PS-03-03-04 (id: JkxnuUs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BA-050&card_id=BA-050&version=19814c1a48)　（版 `19814c1a48`）
+
+**[ここまでの 2 件（BA-029〜BA-050）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BA-029%E3%80%9CBA-050&cards=BA-029%2047de4f3866%0ABA-050%2019814c1a48)**
 
 ---
 
@@ -402,7 +442,17 @@
 - 出題基準：医学各論 Ⅻ-2-B-⑲（アシネトバクター感染症、a）　コアカリ：PS-03-03-02 (id: JkxnuUk)；PS-03-03-04 (id: JkxnuUs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BA-030&card_id=BA-030&version=183d2978f4)　（版 `183d2978f4`）
 
-**[ここまでの 1 件（BA-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BA-030&cards=BA-030%20183d2978f4)**
+### BA-051　下書き（出典の照合前）
+
+> アシネトバクター感染症は主として院内感染であり、誤嚥性肺炎（人工呼吸器関連肺炎を含む）とカテーテル関連血流感染が代表的で、皮膚軟部組織感染や尿路感染症も起こす。集中治療室での発生が多く、本菌は乾燥に強く環境表面で長期間生存するため、環境表面や医療従事者の手指を介した伝播によりアウトブレイクの原因となる。広範囲薬剤耐性株による感染では死亡率が高く、有効な抗菌薬による初期治療が予後を左右する。治療では、スルバクタムが本菌に対して直接の抗菌活性を持つことを踏まえ、カルバペネム系薬やスルバクタムを軸とする併用療法が検討され、コリスチン、チゲサイクリン、ミノサイクリンなどが代替の選択肢となる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：本出典は2017年の総説であり、スルバクタム・デュロバクタムなどの新しい配合剤は扱われていない。薬剤の国内承認：メロペネム、イミペネム・シラスタチン、ミノサイクリンは国内承認薬である。スルバクタムは国内ではアンピシリンとの配合剤（販売名ユナシン-Sなど）として承認されているが、適応菌種にアシネトバクター属は含まれず、本菌感染症への使用は適応外となる。コリスチン（販売名オルドレブ）は2015年に国内承認され、適応菌種にアシネトバクター属を含むが、他の抗菌薬に耐性を示した菌株に限られる。チゲサイクリン（販売名タイガシル）は2012年に国内承認され、適応菌種にアシネトバクター属を含むが、他の抗菌薬に耐性を示した菌株に限られ、適応症は深在性皮膚感染症や腹腔内感染症などである。
+- 出典：Wong D, Nielsen TB, Bonomo RA, Pantapalangkoor P, Luna B, Spellberg B. Clinical and pathophysiological overview of Acinetobacter infections: a century of challenges. Clin Microbiol Rev. 2017;30(1):409-447.　[DOI 10.1128/CMR.00058-16](https://doi.org/10.1128/CMR.00058-16)　[PMID 27974412](https://pubmed.ncbi.nlm.nih.gov/27974412/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅻ-2-B-⑲（アシネトバクター感染症、a）　コアカリ：PS-03-03-02 (id: JkxnuUk)；PS-03-03-04 (id: JkxnuUs)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BA-051&card_id=BA-051&version=37aa730d51)　（版 `37aa730d51`）
+
+**[ここまでの 2 件（BA-030〜BA-051）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BA-030%E3%80%9CBA-051&cards=BA-030%20183d2978f4%0ABA-051%2037aa730d51)**
 
 ---
 
@@ -418,7 +468,17 @@
 - 出題基準：医学各論 Ⅻ-2-B-⑳（ガス壊疽、a）　コアカリ：PS-01-03-03 (id: JkxnuLE)；TBL-01-00-595 (id: JlvnmXw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BA-031&card_id=BA-031&version=69a0a5df80)　（版 `69a0a5df80`）
 
-**[ここまでの 1 件（BA-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BA-031&cards=BA-031%2069a0a5df80)**
+### BA-052　下書き（出典の照合前）
+
+> ウェルシュ菌（Clostridium perfringens）A型によるガス壊疽（クロストリジウム性筋壊死）の病原性の中心は、染色体にコードされるα毒素とパーフリンゴリジンOである。α毒素はホスホリパーゼCとスフィンゴミエリナーゼの活性を持つ酵素で、α毒素を欠く変異株は筋壊死を起こさないことから、筋壊死の成立に必須の毒素である。α毒素の作用により組織壊死と血栓形成が生じ、感染部位への多形核白血球の浸潤が欠如する。パーフリンゴリジンOは単独では必須ではないが、α毒素と協調して白血球の血管内停留を来し、血流を障害して壊死の進展に関与する。病変組織の顕微鏡所見では、筋線維の壊死と、好中球が血管内に停留する一方で血管外の組織への浸潤が乏しい像がみられる。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：臨床像・治療は SD-034 が担うため本カードでは扱わない（登録時の決定による）。検査所見として収載したのは病変組織の顕微鏡所見の範囲であり、創部滲出液のグラム染色や培養などの細菌学的検査所見は本出典では扱われていない。出典の PMC 収載版は著者原稿で、版元版は Future Microbiology 誌の掲載版である。
+- 出典：Uzal FA, Freedman JC, Shrestha A, Theoret JR, Garcia J, Awad MM, Adams V, Moore RJ, Rood JI, McClane BA. Towards an understanding of the role of Clostridium perfringens toxins in human and animal disease. Future Microbiol. 2014;9(3):361-377.　[DOI 10.2217/fmb.13.168](https://doi.org/10.2217/fmb.13.168)　[PMID 24762309](https://pubmed.ncbi.nlm.nih.gov/24762309/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅻ-2-B-⑳（ガス壊疽、a）　コアカリ：PS-01-03-03 (id: JkxnuLE)；TBL-01-00-595 (id: JlvnmXw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BA-052&card_id=BA-052&version=ae91fc06b0)　（版 `ae91fc06b0`）
+
+**[ここまでの 2 件（BA-031〜BA-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BA-031%E3%80%9CBA-052&cards=BA-031%2069a0a5df80%0ABA-052%20ae91fc06b0)**
 
 ---
 

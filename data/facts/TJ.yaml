@@ -2667,3 +2667,143 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+- id: TJ-077
+  domain: TJ
+  subdomain: 骨盤骨折
+  assertion:
+    plain_statement_ja: 骨盤骨折の分類には AO/OTA、Tile、Young-Burgess などがあり、Young-Burgess 分類が広く用いられ ATLS にも取り入れられている。安定性の観点では、Young-Burgess の前後圧迫（APC）I型と側方圧迫（LC）I型が安定型で、それ以外は不安定型とされ、垂直剪断型は転帰が最も不良である。治療は安定性に応じて選択され、不安定型の再建手術が議論の中心で、安定型は手術を要しない管理が前提となり、低エネルギー骨折の患者は通常は介助なしに歩行できる。合併損傷として尿生殖器系の損傷があり、尿道口の血液、血尿、陰嚢血腫などがあれば尿道損傷を疑って逆行性尿道造影や膀胱造影を検討し、直腸診では出血・血腫と前立腺の高位を確かめる。開放骨折で直腸損傷が疑われる場合は人工肛門造設を考慮する。
+    condition:
+      region: 国際
+      対象: 骨盤骨折患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4809
+    source: Mostafa AHAM, Kyriacou H, Chimutengwende-Gordon M, Khan WS. An overview of the key principles and guidelines in the management of pelvic fractures. J Perioper Pract. 2021;31(9):341-348
+    doi: 10.1177/1750458920947358
+    pmid: '32894996'
+    pmcid: PMC8406373
+    url: https://doi.org/10.1177/1750458920947358
+    source_license: CC BY 4.0（PMC ページのライセンス表示で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 本総説は英国のガイダンス（NICE、BOA など）を要約したもので、安定型の治療の記述は「不安定型の再建が手術の中心である」という本文の構成から読み取った範囲である。尿生殖器損傷の頻度の数値は本文が引用するコホート研究の値であり、主張には含めていない。血行動態不安定例の止血は TJ-034（WSES ガイドライン）が担い、寛骨臼骨折は対象外である。（出典内の位置：本文の分類、治療原則、合併損傷の節）
+  curriculum:
+    kokushi: 医学各論 Ⅸ-10-C-②（骨盤骨折、a）
+    core_curriculum: 'TBL-01-00-118 (id: Jlvnlm8)；TBL-01-00-120 (id: Jlvnlnk)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: TJ-078
+  domain: TJ
+  subdomain: 脱臼、亜脱臼
+  assertion:
+    plain_statement_ja: 関節脱臼は、激しい疼痛、目視・触知できる関節の転位、可動域と機能の喪失を呈する外傷である。スポーツ外傷では肩関節（肩甲肱骨関節）、膝蓋大腿関節、指節間関節に多く、高校のスポーツでは関節脱臼のうち肩が55%、手と手指が17%、膝が16%を占めた。骨折を伴う場合（骨折脱臼）は骨性の圧痛や変形が加わり、診察所見だけでは単独の脱臼と区別しにくいことがある。閉鎖整復の一般的な手順は、整復前評価（脱臼の確認、骨折など禁忌の評価、神経血管の完全性の評価と記録、画像検査と疼痛管理の検討、利益とリスクを説明した上での同意）、整復、整復後再評価（神経血管の再評価、初回脱臼では全例で整復後の画像検査）、整復後ケア（適切な肢位での固定、記録、フォローアップ）の4段階である。迅速な整復は整復の成功率を高め、疼痛の軽減や関節の完全性、機能予後に有利とされる一方、骨折の徴候、裂創や腱断裂などの随伴損傷、成長板損傷の疑いがある場合は現場での整復を行わず、固定して医療機関へ搬送する。神経血管障害があること自体は閉鎖整復の禁忌ではないが試行は愛護的に限られ、医師向けの推奨では閉鎖整復の試行は最大2回までで、失敗すれば全身麻酔下または外科的整復に移行する。合併症や随伴損傷の一般像として神経血管損傷、随伴骨折、軟部組織損傷があり、肩関節脱臼では神経障害が約12%にみられ腋窩神経が最多である。
+    condition:
+      region: 国際
+      対象: 関節脱臼の患者（アスリートを含む）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4810
+    source: Wright CJ, Brandon BA, Reisman EJ. Closed-Reduction Techniques for Glenohumeral-, Patellofemoral-, and Interphalangeal-Joint Dislocations. J Athl Train. 2020;55(8):757-767
+    doi: 10.4085/1062-6050-0311.19
+    pmid: '32688375'
+    pmcid: PMC7462174
+    url: https://doi.org/10.4085/1062-6050-0311.19
+    source_license: Journal of Athletic Training（National Athletic Trainers' Association、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本出典はアスレティックトレーナーの業務範囲を念頭に置いた臨床総説であり、好発部位の割合は高校スポーツの疫学に基づく。脱臼と亜脱臼を分ける定義（関節面の接触が完全に失われるか、部分的に残るか）の体系的な記述は本総説にはなく、主張に定義文は含めていない。分類についても方向と随伴骨折の有無による整理の範囲にとどまる。部位別の整復手技そのものは扱わず、代表関節である肩関節脱臼の詳細は TJ-052〜054 が担う。（出典内の位置：抄録、一般的手順の表（Table 1）、単独脱臼と骨折脱臼の対比表（Table 2）、本文の整復の根拠と肩関節の節）
+  curriculum:
+    kokushi: 医学各論 Ⅸ-10-D-③（脱臼、亜脱臼、a）
+    core_curriculum: 'TBL-01-00-121 (id: JlvnlnE)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: TJ-079
+  domain: TJ
+  subdomain: 筋断裂、腱断裂
+  assertion:
+    plain_statement_ja: 急性の腱断裂の背景には既存の腱の変性があることが多く、変性は急性断裂の危険因子とされる。フルオロキノロン系抗菌薬の使用も腱断裂との関連が指摘されている。腱内部の病変は MRI や超音波検査で検出できる。断裂した腱の治癒は、炎症期、増殖期（III型コラーゲンが主体となる）、再構築期（およそ6週から始まり、成熟にはおよそ1年を要する）が重なり合う3相で進む。治癒には、腱周囲組織から細胞が入り込む外因性治癒と、腱実質（腱上膜）の細胞による内因性治癒があり、断裂腱の治癒は腱上膜の細胞だけでも達成しうる。外因性治癒では癒着が形成されて腱の滑走が妨げられるため、修復では内因性治癒を活かし癒着を抑えることが目標となり、治癒した腱が正常な腱の性質を取り戻すことはない。
+    condition:
+      region: 国際
+      対象: 腱断裂の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4811
+    source: 'Sharma P, Maffulli N. Tendon injury and tendinopathy: healing and repair. J Bone Joint Surg Am. 2005;87(1):187-202'
+    doi: 10.2106/JBJS.D.01850
+    pmid: '15634833'
+    pmcid: null
+    url: https://doi.org/10.2106/JBJS.D.01850
+    source_license: The Journal of Bone and Joint Surgery American Volume（CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: フルオロキノロン系抗菌薬（レボフロキサシン、シプロフロキサシンなど）は国内で承認され保険適用のある抗菌薬であり、本カードはその使用と腱断裂との関連を述べるものである。本総説の主題は腱の治癒と修復の生物学であり、断裂部の陥凹の触知や部位別の機能テストといった身体診察の具体、一次縫合の手技や時期の詳細は扱われていないため、主張には含めていない。部位別の詳細（アキレス腱断裂は TJ-067・068）が担う範囲は対象外である。（出典内の位置：抄録、本文の治癒と修復の節）
+  curriculum:
+    kokushi: 医学各論 Ⅸ-10-E-③（筋断裂、腱断裂、a）
+    core_curriculum: 'TBL-01-00-123 (id: Jlvnlno)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: TJ-080
+  domain: TJ
+  subdomain: 挫滅症候群
+  assertion:
+    plain_statement_ja: 挫滅症候群への具体的な対応は、災害時の国際推奨（ISN）で次のように示される。輸液は救出中から等張食塩液を成人で 1000 mL/h で開始し、救出に2時間を超える場合は 500 mL/h 以下に減らす。救出後はできるだけ速やかに開始し、救出前に投与がなければ成人 1000 mL/h（小児 15〜20 mL/kg/h）で、およそ6時間で 3〜6 L を目安に、尿量や循環動態を確かめながら個別に調整する。乏尿・無尿が循環血液量の不足によらず輸液に反応しない場合は、前日の喪失量に 500〜1000 mL/日 を加えた量に制限し、カリウムを含む輸液は避ける。高カリウム血症は直ちに治療し（グルコン酸カルシウム、グルコース・インスリン療法、重炭酸ナトリウム、β2刺激薬など）、最も有効な治療は血液透析である。血液浄化の絶対的な適応は、血清カリウム 6.5 mmol/L 以上または他の治療に反応しない急速な上昇、pH 7.1 以下、BUN 100 mg/dL 以上またはクレアチニン 8 mg/dL 以上、尿毒症の症状（体液過剰、心膜炎、出血、原因不明の意識の変化）、十分な輸液でも続く乏尿・無尿である。筋膜切開はルーチンには行わず、区画内圧が 30 mmHg を超えて6時間以内に低下傾向がない場合や、区画内圧と拡張期血圧の差が 30 mmHg 未満の場合に緊急に行い、区画内圧が上昇する場合はマンニトールを考慮して、1時間以内に明らかな改善がなければ外科的筋膜切開に移る。
+    condition:
+      region: 国際
+      対象: 挫滅症候群患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1967
+    source: Sever MS, Vanholder R; RDRTF of ISN Work Group on Recommendations for the Management of Crush Victims in Mass Disasters. Recommendation for the management of crush victims in mass disasters. Nephrol Dial Transplant. 2012;27 Suppl 1:i1-i67
+    doi: 10.1093/ndt/gfs156
+    pmid: '22467763'
+    pmcid: null
+    url: https://doi.org/10.1093/ndt/gfs156
+    source_license: Nephrology Dialysis Transplantation（CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値はいずれも推奨集本文の推奨文に基づき、一部は本文の表（Table 8、高カリウム血症の重症度と治療）から読み取った。災害時の多数傷病者を主対象とした推奨であり、日常診療における単発の挫滅症候群への適用は状況に応じて判断される。薬剤については、グルコン酸カルシウム、重炭酸ナトリウム、ポリスチレンスルホン酸ナトリウム（ケイキサレート）はいずれも国内で承認された薬剤で、このうちポリスチレンスルホン酸ナトリウムには高カリウム血症そのものの適応がある。一方、グルコースとインスリンの点滴による高カリウム血症治療、β2刺激薬の高カリウム血症への使用、マンニトールの区画内圧上昇の予防への使用は、国内の添付文書の適応には含まれない使い方である。（出典内の位置：推奨文 II.4.A、II.6、III.2.D、IV.1、V.3 と Table 8）
+  curriculum:
+    kokushi: 医学各論 Ⅸ-10-E-⑤（挫滅<圧挫>症候群<crush syndrome>、a）
+    core_curriculum: 'TBL-01-00-123 (id: Jlvnlno)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

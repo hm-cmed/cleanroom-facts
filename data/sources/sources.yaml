@@ -35148,3 +35148,483 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/64_brushup_a.md の出典マスター表から
+- id: SRC-4801
+  legacy_id: null
+  title: Freijah I, Jones KA, Coleman T, Perlen SM, Kennedy M, Passey ME, McKenzie JE, Chamberlain C. Psychosocial interventions for supporting women to stop smoking in pregnancy. Cochrane Database of Systematic Reviews. 2026;(4):CD001055
+  citation: Freijah I, Jones KA, Coleman T, Perlen SM, Kennedy M, Passey ME, McKenzie JE, Chamberlain C. Psychosocial interventions for supporting women to stop smoking in pregnancy. Cochrane Database of Systematic Reviews. 2026;(4):CD001055
+  doi: 10.1002/14651858.CD001055.pub6
+  pmid: null
+  pmcid: null
+  license_note: 未確認（刊行元のページで CC 表示を確認できず）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+- id: SRC-4802
+  legacy_id: null
+  title: 厚生労働省. 労働者の心の健康の保持増進のための指針（平成18年3月31日健康保持増進のための指針公示第3号、平成27年11月30日改正・健康保持増進のための指針公示第6号）
+  citation: 厚生労働省. 労働者の心の健康の保持増進のための指針（平成18年3月31日健康保持増進のための指針公示第3号、平成27年11月30日改正・健康保持増進のための指針公示第6号）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+- id: SRC-4803
+  legacy_id: null
+  title: 'International Federation of Red Cross and Red Crescent Societies. International First Aid, Resuscitation and Education Guidelines 2020. Geneva: IFRC, 2020'
+  citation: 'International Federation of Red Cross and Red Crescent Societies. International First Aid, Resuscitation and Education Guidelines 2020. Geneva: IFRC, 2020'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: CC 表示なし（© IFRC 2020）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+- id: SRC-4804
+  legacy_id: null
+  title: Centers for Disease Control and Prevention. Clinical Guidance for Wound Management to Prevent Tetanus
+  citation: Centers for Disease Control and Prevention. Clinical Guidance for Wound Management to Prevent Tetanus
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国政府著作物（CDC）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+- id: SRC-4805
+  legacy_id: null
+  title: 消費者庁. 視聴覚資料「家庭用品等による中毒事故を防ぐために」指導者用解説書（平成21・22年度消費者庁委託業務に基づき作成。日本中毒情報センターの集積データによる）
+  citation: 消費者庁. 視聴覚資料「家庭用品等による中毒事故を防ぐために」指導者用解説書（平成21・22年度消費者庁委託業務に基づき作成。日本中毒情報センターの集積データによる）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+- id: SRC-4806
+  legacy_id: null
+  title: 内閣府. 防災白書（令和8年版）／内閣府政策統括官（防災担当）付参事官（被災者行政担当）付. 災害関連死について
+  citation: 内閣府. 防災白書（令和8年版）／内閣府政策統括官（防災担当）付参事官（被災者行政担当）付. 災害関連死について
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+- id: SRC-4807
+  legacy_id: null
+  title: Parry SM, Puthucheary ZA. The impact of extended bed rest on the musculoskeletal system in the critical care environment. Extrem Physiol Med. 2015;4:16
+  citation: Parry SM, Puthucheary ZA. The impact of extended bed rest on the musculoskeletal system in the critical care environment. Extrem Physiol Med. 2015;4:16
+  doi: 10.1186/s13728-015-0036-7
+  pmid: '26457181'
+  pmcid: null
+  license_note: CC BY 4.0（PMC ページのライセンス表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+- id: SRC-4808
+  legacy_id: null
+  title: O'Brien JT, Thomas A. Vascular dementia. Lancet. 2015;386(10004):1698-1706
+  citation: O'Brien JT, Thomas A. Vascular dementia. Lancet. 2015;386(10004):1698-1706
+  doi: 10.1016/S0140-6736(15)00463-8
+  pmid: '26595643'
+  pmcid: null
+  license_note: Lancet（Elsevier、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+- id: SRC-4809
+  legacy_id: null
+  title: Mostafa AHAM, Kyriacou H, Chimutengwende-Gordon M, Khan WS. An overview of the key principles and guidelines in the management of pelvic fractures. J Perioper Pract. 2021;31(9):341-348
+  citation: Mostafa AHAM, Kyriacou H, Chimutengwende-Gordon M, Khan WS. An overview of the key principles and guidelines in the management of pelvic fractures. J Perioper Pract. 2021;31(9):341-348
+  doi: 10.1177/1750458920947358
+  pmid: '32894996'
+  pmcid: null
+  license_note: CC BY 4.0（PMC ページのライセンス表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+- id: SRC-4810
+  legacy_id: null
+  title: Wright CJ, Brandon BA, Reisman EJ. Closed-Reduction Techniques for Glenohumeral-, Patellofemoral-, and Interphalangeal-Joint Dislocations. J Athl Train. 2020;55(8):757-767
+  citation: Wright CJ, Brandon BA, Reisman EJ. Closed-Reduction Techniques for Glenohumeral-, Patellofemoral-, and Interphalangeal-Joint Dislocations. J Athl Train. 2020;55(8):757-767
+  doi: 10.4085/1062-6050-0311.19
+  pmid: '32688375'
+  pmcid: null
+  license_note: Journal of Athletic Training（National Athletic Trainers' Association、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+- id: SRC-4811
+  legacy_id: null
+  title: 'Sharma P, Maffulli N. Tendon injury and tendinopathy: healing and repair. J Bone Joint Surg Am. 2005;87(1):187-202'
+  citation: 'Sharma P, Maffulli N. Tendon injury and tendinopathy: healing and repair. J Bone Joint Surg Am. 2005;87(1):187-202'
+  doi: 10.2106/JBJS.D.01850
+  pmid: '15634833'
+  pmcid: null
+  license_note: The Journal of Bone and Joint Surgery American Volume（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+- id: SRC-4812
+  legacy_id: null
+  title: 'Hirsch E, French J, Scheffer IE, et al. ILAE definition of the Idiopathic Generalized Epilepsy Syndromes: Position statement by the ILAE Task Force on Nosology and Definitions. Epilepsia. 2022;63(6):1475-1499'
+  citation: 'Hirsch E, French J, Scheffer IE, et al. ILAE definition of the Idiopathic Generalized Epilepsy Syndromes: Position statement by the ILAE Task Force on Nosology and Definitions. Epilepsia. 2022;63(6):1475-1499'
+  doi: 10.1111/epi.17236
+  pmid: '35503716'
+  pmcid: null
+  license_note: CC BY 4.0（Epilepsia、Europe PMC の license 欄で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+- id: SRC-4813
+  legacy_id: null
+  title: Achrol AS, Rennert RC, Anders C, et al. Brain metastases. Nat Rev Dis Primers. 2019;5(1):5
+  citation: Achrol AS, Rennert RC, Anders C, et al. Brain metastases. Nat Rev Dis Primers. 2019;5(1):5
+  doi: 10.1038/s41572-018-0055-y
+  pmid: '30655533'
+  pmcid: null
+  license_note: Nature Reviews Disease Primers（Springer Nature、CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+- id: SRC-4814
+  legacy_id: null
+  title: 'Tong E, McCullagh KL, Iv M. Advanced Imaging of Brain Metastases: From Augmenting Visualization and Improving Diagnosis to Evaluating Treatment Response. Front Neurol. 2020;11:270'
+  citation: 'Tong E, McCullagh KL, Iv M. Advanced Imaging of Brain Metastases: From Augmenting Visualization and Improving Diagnosis to Evaluating Treatment Response. Front Neurol. 2020;11:270'
+  doi: 10.3389/fneur.2020.00270
+  pmid: '32351445'
+  pmcid: null
+  license_note: CC BY 4.0（Frontiers in Neurology、PMC のライセンス表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+- id: SRC-4815
+  legacy_id: null
+  title: 'van de Beek D, Cabellos C, Dzupova O, et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. Clin Microbiol Infect. 2016;22 Suppl 3:S37-S62'
+  citation: 'van de Beek D, Cabellos C, Dzupova O, et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. Clin Microbiol Infect. 2016;22 Suppl 3:S37-S62'
+  doi: 10.1016/j.cmi.2016.01.007
+  pmid: '27062097'
+  pmcid: null
+  license_note: © European Society of Clinical Microbiology and Infectious Diseases（Elsevier、CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+- id: SRC-4816
+  legacy_id: null
+  title: 'Nolan JP, Sandroni C, Böttiger BW, et al. European Resuscitation Council and European Society of Intensive Care Medicine Guidelines 2021: Post-resuscitation care. Resuscitation. 2021;161:220-269'
+  citation: 'Nolan JP, Sandroni C, Böttiger BW, et al. European Resuscitation Council and European Society of Intensive Care Medicine Guidelines 2021: Post-resuscitation care. Resuscitation. 2021;161:220-269'
+  doi: 10.1016/j.resuscitation.2021.02.012
+  pmid: '33773827'
+  pmcid: null
+  license_note: © European Resuscitation Council / European Society of Intensive Care Medicine（Elsevier、CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+- id: SRC-4817
+  legacy_id: null
+  title: 'Middleton K, Fish DE. Lumbar spondylosis: clinical presentation and treatment approaches. Curr Rev Musculoskelet Med. 2009;2(2):94-104'
+  citation: 'Middleton K, Fish DE. Lumbar spondylosis: clinical presentation and treatment approaches. Curr Rev Musculoskelet Med. 2009;2(2):94-104'
+  doi: 10.1007/s12178-009-9051-x
+  pmid: '19468872'
+  pmcid: null
+  license_note: CC BY-NC（Springer、PMC のライセンス表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+- id: SRC-4881
+  legacy_id: null
+  title: 'Wright WF, Pinto CN, Palisoc K, Baghli S. Viral (aseptic) meningitis: A review. J Neurol Sci. 2019;398:176-183'
+  citation: 'Wright WF, Pinto CN, Palisoc K, Baghli S. Viral (aseptic) meningitis: A review. J Neurol Sci. 2019;398:176-183'
+  doi: 10.1016/j.jns.2019.01.050
+  pmid: '30731305'
+  pmcid: null
+  license_note: CC表示なし
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md の出典マスター表から
+- id: SRC-4882
+  legacy_id: null
+  title: Waites KB, Xiao L, Liu Y, Balish MF, Atkinson TP. Mycoplasma pneumoniae from the Respiratory Tract and Beyond. Clin Microbiol Rev. 2017;30(3):747-809
+  citation: Waites KB, Xiao L, Liu Y, Balish MF, Atkinson TP. Mycoplasma pneumoniae from the Respiratory Tract and Beyond. Clin Microbiol Rev. 2017;30(3):747-809
+  doi: 10.1128/CMR.00114-16
+  pmid: '28539503'
+  pmcid: null
+  license_note: American Society for Microbiology（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md の出典マスター表から
+- id: SRC-4883
+  legacy_id: null
+  title: 'Mermel LA, Allon M, Bouza E, Craven DE, Flynn P, O''Grady NP, Raad II, Rijnders BJ, Sherertz RJ, Warren DK. Clinical practice guidelines for the diagnosis and management of intravascular catheter-related infection: 2009 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2009;49(1):1-45'
+  citation: 'Mermel LA, Allon M, Bouza E, Craven DE, Flynn P, O''Grady NP, Raad II, Rijnders BJ, Sherertz RJ, Warren DK. Clinical practice guidelines for the diagnosis and management of intravascular catheter-related infection: 2009 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2009;49(1):1-45'
+  doi: 10.1086/599376
+  pmid: '19489710'
+  pmcid: null
+  license_note: Infectious Diseases Society of America（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md の出典マスター表から
+- id: SRC-4884
+  legacy_id: null
+  title: Russo TA, Marr CM. Hypervirulent Klebsiella pneumoniae. Clin Microbiol Rev. 2019;32(3):e00001-19
+  citation: Russo TA, Marr CM. Hypervirulent Klebsiella pneumoniae. Clin Microbiol Rev. 2019;32(3):e00001-19
+  doi: 10.1128/CMR.00001-19
+  pmid: '31092506'
+  pmcid: null
+  license_note: American Society for Microbiology（CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md の出典マスター表から
+- id: SRC-4885
+  legacy_id: null
+  title: 'Mahlen SD. Serratia infections: from military experiments to current practice. Clin Microbiol Rev. 2011;24(4):755-791'
+  citation: 'Mahlen SD. Serratia infections: from military experiments to current practice. Clin Microbiol Rev. 2011;24(4):755-791'
+  doi: 10.1128/CMR.00017-11
+  pmid: '21976608'
+  pmcid: null
+  license_note: © American Society for Microbiology（PMC 収載版の版権表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md の出典マスター表から
+- id: SRC-4886
+  legacy_id: null
+  title: Bassetti M, Vena A, Croxatto A, Righi E, Guery B. How to manage Pseudomonas aeruginosa infections. Drugs Context. 2018;7:212527
+  citation: Bassetti M, Vena A, Croxatto A, Righi E, Guery B. How to manage Pseudomonas aeruginosa infections. Drugs Context. 2018;7:212527
+  doi: 10.7573/dic.212527
+  pmid: '29872449'
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（PMC 収載版の表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md の出典マスター表から
+- id: SRC-4887
+  legacy_id: null
+  title: 'Wong D, Nielsen TB, Bonomo RA, Pantapalangkoor P, Luna B, Spellberg B. Clinical and pathophysiological overview of Acinetobacter infections: a century of challenges. Clin Microbiol Rev. 2017;30(1):409-447'
+  citation: 'Wong D, Nielsen TB, Bonomo RA, Pantapalangkoor P, Luna B, Spellberg B. Clinical and pathophysiological overview of Acinetobacter infections: a century of challenges. Clin Microbiol Rev. 2017;30(1):409-447'
+  doi: 10.1128/CMR.00058-16
+  pmid: '27974412'
+  pmcid: null
+  license_note: © American Society for Microbiology（PMC 収載版の版権表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md の出典マスター表から
+- id: SRC-4888
+  legacy_id: null
+  title: Uzal FA, Freedman JC, Shrestha A, Theoret JR, Garcia J, Awad MM, Adams V, Moore RJ, Rood JI, McClane BA. Towards an understanding of the role of Clostridium perfringens toxins in human and animal disease. Future Microbiol. 2014;9(3):361-377
+  citation: Uzal FA, Freedman JC, Shrestha A, Theoret JR, Garcia J, Awad MM, Adams V, Moore RJ, Rood JI, McClane BA. Towards an understanding of the role of Clostridium perfringens toxins in human and animal disease. Future Microbiol. 2014;9(3):361-377
+  doi: 10.2217/fmb.13.168
+  pmid: '24762309'
+  pmcid: null
+  license_note: © 2014 Future Medicine Ltd（PMC 収載の著者原稿の表示で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md の出典マスター表から
+- id: SRC-4889
+  legacy_id: null
+  title: Ryu JH, Myers JL, Swensen SJ. Bronchiolar disorders. Am J Respir Crit Care Med. 2003;168(11):1277-1292
+  citation: Ryu JH, Myers JL, Swensen SJ. Bronchiolar disorders. Am J Respir Crit Care Med. 2003;168(11):1277-1292
+  doi: 10.1164/rccm.200301-053SO
+  pmid: '14644923'
+  pmcid: null
+  license_note: CC 表示なし（購読誌）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md の出典マスター表から
+- id: SRC-4890
+  legacy_id: null
+  title: Hallifax R. Aetiology of Primary Spontaneous Pneumothorax. J Clin Med. 2022;11(3):490
+  citation: Hallifax R. Aetiology of Primary Spontaneous Pneumothorax. J Clin Med. 2022;11(3):490
+  doi: 10.3390/jcm11030490
+  pmid: '35159942'
+  pmcid: null
+  license_note: CC BY 4.0（論文と PMC ページの表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md の出典マスター表から
+- id: SRC-4891
+  legacy_id: null
+  title: 'Suzuki Y, Suda T. Eosinophilic pneumonia: A review of the previous literature, causes, diagnosis, and management. Allergol Int. 2019;68(4):413-419'
+  citation: 'Suzuki Y, Suda T. Eosinophilic pneumonia: A review of the previous literature, causes, diagnosis, and management. Allergol Int. 2019;68(4):413-419'
+  doi: 10.1016/j.alit.2019.05.006
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0（論文の表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md の出典マスター表から
+- id: SRC-4892
+  legacy_id: null
+  title: 'Hutchinson CB, Wang E. Primary mediastinal (thymic) large B-cell lymphoma: a short review with brief discussion of mediastinal gray zone lymphoma. Arch Pathol Lab Med. 2011;135(3):394-398'
+  citation: 'Hutchinson CB, Wang E. Primary mediastinal (thymic) large B-cell lymphoma: a short review with brief discussion of mediastinal gray zone lymphoma. Arch Pathol Lab Med. 2011;135(3):394-398'
+  doi: 10.5858/2009-0463-RSR.1
+  pmid: '21366467'
+  pmcid: null
+  license_note: College of American Pathologists（Archives of Pathology & Laboratory Medicine、CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md の出典マスター表から
+- id: SRC-4893
+  legacy_id: null
+  title: Kouritas VK, Papagiannopoulos K, Lazaridis G, et al. Pneumomediastinum. J Thorac Dis. 2015;7(Suppl 1):S44-S49
+  citation: Kouritas VK, Papagiannopoulos K, Lazaridis G, et al. Pneumomediastinum. J Thorac Dis. 2015;7(Suppl 1):S44-S49
+  doi: 10.3978/j.issn.2072-1439.2015.01.11
+  pmid: '25774307'
+  pmcid: null
+  license_note: © 2015 Journal of Thoracic Disease. All rights reserved（PMC 掲載ページの表示、CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md の出典マスター表から
+- id: SRC-4894
+  legacy_id: null
+  title: Kim HS, Khemasuwan D, Diaz-Mendoza J, Mehta AC. Management of tracheo-oesophageal fistula in adults. Eur Respir Rev. 2020;29(158):200094
+  citation: Kim HS, Khemasuwan D, Diaz-Mendoza J, Mehta AC. Management of tracheo-oesophageal fistula in adults. Eur Respir Rev. 2020;29(158):200094
+  doi: 10.1183/16000617.0094-2020
+  pmid: '33153989'
+  pmcid: null
+  license_note: CC BY-NC 4.0（PMC 掲載ページで確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md の出典マスター表から
+- id: SRC-4895
+  legacy_id: null
+  title: Wang HW, Lu CC, Chao PZ, Lee FP. Causes of Vocal Fold Paralysis. Ear Nose Throat J. 2022;101(7):NP294-NP298
+  citation: Wang HW, Lu CC, Chao PZ, Lee FP. Causes of Vocal Fold Paralysis. Ear Nose Throat J. 2022;101(7):NP294-NP298
+  doi: 10.1177/0145561320965212
+  pmid: null
+  pmcid: null
+  license_note: 未確認（誌面・PDF で CC 表示を確認できず。© The Author(s) 2020、再利用は出版社の許可手続きによる旨の表示あり）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md の出典マスター表から

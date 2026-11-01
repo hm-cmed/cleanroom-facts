@@ -803,3 +803,108 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/56_ev_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: OC-024
+  domain: OC
+  subdomain: 頸肩腕障害
+  assertion:
+    plain_statement_ja: 上肢作業に基づく疾病の認定基準は、上肢等に負担のかかる作業として、①上肢の反復動作の多い作業、②上肢を上げた状態で行う作業、③頸部・肩の動きが少なく姿勢が拘束される作業、④上肢等の特定の部位に負担のかかる状態で行う作業、の4類型を挙げる。過重な業務とは、同一事業場における同種の労働者と比較しておおむね10％以上業務量が増加し、その状態が発症直前3か月程度にわたる場合や、1日の業務量が通常のおおむね20％以上増加した日が1か月のうち10日程度ある場合、1日の労働時間の3分の1程度にわたって通常のおおむね20％以上の業務量増加が1か月のうち10日程度ある場合などをいう。負担のかかる業務への従事期間（相当期間）は、原則として6か月程度以上とされる。
+    condition:
+      region: 日本
+      対象: 上肢作業に従事する労働者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4041
+    source: 労働省労働基準局長通知「上肢作業に基づく疾病の業務上外の認定基準について」（平成9年2月3日、基発第65号）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 本カードは依頼文の指定する「予防と作業管理」の側面に対し、認定基準が定める負荷作業・過重業務の定義（作業管理の目安となる公的な定義）の範囲に限定した。作業時間・休憩・姿勢・作業環境の具体的な管理基準を示す厚生労働省の専用の予防指針は、本パートの調査では確認できなかった（情報機器作業に限れば既存カード OC-009 のガイドラインが作業管理を担う）。認定の3要件と頸肩腕症候群の定義は既存カード OC-008 が担う。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-4-B-②（頸肩腕障害、a）
+    core_curriculum: 'SO-01-04-03 (id: JkxoNtg)；TBL-02-04-014 (id: Jlvnlp8)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: OC-025
+  domain: OC
+  subdomain: 虚血性心疾患
+  assertion:
+    plain_statement_ja: 脳・心臓疾患の労災認定で「長期間の過重業務」は、発症前おおむね6か月間を評価期間とし、発症時における疲労の蓄積の観点から判断される。労働時間の目安として、発症前1か月間におおむね100時間を超える時間外労働、または発症前2か月間ないし6か月間にわたって1か月当たりおおむね80時間を超える時間外労働が認められる場合は、業務と発症との関連性が強いと評価できる。1か月当たりおおむね45時間を超えない場合は関連性が弱く、45時間を超えて長くなるほど関連性は徐々に強まるとされる。上記の水準に至らなくても、これに近い時間外労働に加えて一定の労働時間以外の負荷要因が認められるときは、総合的に評価して関連性が強いと評価できる。パンフレットの認定事例でも、心筋梗塞を発症したトラック運転手について、時間外労働は関連性が強いと評価できる水準には至らないものの、勤務時間の不規則性などの負荷要因をあわせて関連性が強いと評価され認定されている。「短期間の過重業務」の評価期間は発症前おおむね1週間で、過重な負荷は発症に近いほど影響が強いとして、発症直前から前日までの業務が特に過重かどうか、それが認められなくても発症前おおむね1週間以内に過重な業務が継続していたかどうかがみられる。関連性が強い例として、発症直前から前日までの特に過度の長時間労働や、発症前おおむね1週間継続して深夜時間帯に及ぶ時間外労働などが挙げられる（労働密度が特に低い場合を除く）。
+    condition:
+      region: 日本
+      対象: 労働者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4044
+    source: 厚生労働省・都道府県労働局・労働基準監督署. 脳・心臓疾患の労災認定 ― 過労死等の労災補償（パンフレット、令和4年10月版）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: http://www.mhlw.go.jp/new-info/kobetu/roudou/gyousei/dl/2207252-1.pdf
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: パンフレット（令和4年10月版）の全文で確認した範囲に限る。時間の数値（45・80・100時間）はパンフレットの図・本文の記載に基づき、80・100時間は厚生労働省の認定基準改正ポイント資料でも確認した。認定事例に示された時間外労働時間数などの個別の数値はパンフレットの図中にあり読み取れなかったため含めていない。認定基準の通達（基発0914第1号）本文の逐語照合は未了（既存カード OC-011 と同様）。対象疾病と枠組み、労働時間以外の負荷要因は既存カード OC-011 が担う。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-4-C-②（虚血性心疾患、a）
+    core_curriculum: 'SO-01-04-03 (id: JkxoNtg)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: OC-026
+  domain: OC
+  subdomain: 心身症
+  assertion:
+    plain_statement_ja: 労働者の心の健康の保持増進のための指針（労働安全衛生法第70条の2第1項に基づく）では、事業者は衛生委員会等において調査審議を行い、「心の健康づくり計画」を策定・実施することとされる。メンタルヘルス不調を未然に防止する一次予防、早期に発見し適切な措置を行う二次予防、職場復帰を支援する三次予防が円滑に行われるよう、4つのケアを継続的かつ計画的に行う。4つのケアとは、労働者自身がストレスに気づき対処する「セルフケア」、管理監督者が職場環境等の改善や労働者に対する相談対応を行う「ラインによるケア」、事業場内の産業医等が心の健康づくり対策の提言と推進を担い労働者と管理監督者を支援する「事業場内産業保健スタッフ等によるケア」、事業場外の機関や専門家を活用する「事業場外資源によるケア」である。職場復帰支援では、職場復帰支援プログラムを策定する（休業の開始から通常業務への復帰までの一連の標準的な流れと、それに対応する手順・内容・関係者の役割を定める）こと、その実施に関する体制や規程を整備し労働者に周知すること、組織的かつ計画的に取り組むこと、事業場内産業保健スタッフ等を中心に労働者と管理監督者が理解と協力を行い主治医との連携を図ることが示される。
+    condition:
+      region: 日本
+      対象: 労働者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4802
+    source: 厚生労働省. 労働者の心の健康の保持増進のための指針（平成18年3月31日健康保持増進のための指針公示第3号、平成27年11月30日改正・健康保持増進のための指針公示第6号）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/11201250/001249074.pdf
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 指針の全文（厚生労働省の資料 PDF に収められた公示本文）で確認した範囲に限る。本項目に心身症に固有の認定基準・指針はなく、本カードは職場のメンタルヘルス対策の一般像として本指針を充てた。心身症そのものの診断・治療は扱わない。ストレスチェック制度そのものは既存カード OC-014 が担う。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-4-D-②（心身症、a）
+    core_curriculum: 'PS-02-17-05 (id: JkxnuT8)；TBL-01-00-546 (id: JlvnmUc)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

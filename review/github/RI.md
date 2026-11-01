@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 57 件のうち、監修済み 0 件。
+全 59 件のうち、監修済み 0 件。
 
 ## 感冒<かぜ症候群>、上気道炎
 
@@ -17,7 +17,17 @@
 - 出題基準：医学各論 Ⅳ-1-A-①（感冒<かぜ症候群>、上気道炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-204 (id: JlvnlxA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-001&card_id=RI-001&version=ee03ad527e)　（版 `ee03ad527e`）
 
-**[ここまでの 1 件（RI-001）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-001&cards=RI-001%20ee03ad527e)**
+### RI-058　下書き（出典の照合前）
+
+> 感冒（かぜ症候群）は、鼻症状・咽頭症状・下気道症状の3系統の症状が同時に、同程度に存在するウイルス性の急性気道感染症で、非特異的上気道炎・普通感冒と同義である。厚生労働省の手引きによれば、急性気道感染症の原因微生物の約9割はライノウイルスやコロナウイルスなどのウイルスである。同手引きは急性気道感染症を感冒・急性鼻副鼻腔炎・急性咽頭炎・急性気管支炎の4病型に分けて鑑別する枠組みを示し、インフルエンザは全身症状が比較的強く、発症後早期から咳が多い点で感冒と区別される。感冒の治療は対症療法が中心である。
+
+- 条件：region: 日本／対象: 成人
+- 不確実性：対症療法に用いる解熱鎮痛薬（アセトアミノフェン等）は、国内で解熱・鎮痛の効能・効果で承認されている。手引きは感冒に使われる対症療法薬の多くで有効性の根拠が限られる点にも触れており、個別の薬剤の推奨は主張に含めていない。既存の RI-001 が経過と「感冒に抗菌薬を投与しない」推奨を担うため、本カードは定義・原因・鑑別と治療の位置づけに絞った
+- 出典：厚生労働省健康・生活衛生局感染症対策部感染症対策課. 抗微生物薬適正使用の手引き 第三版（2023年）　[リンク](https://www.mhlw.go.jp/content/10900000/001169116.pdf)（区分 GOV_JP）
+- 出題基準：医学各論 Ⅳ-1-A-①（感冒<かぜ症候群>、上気道炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-204 (id: JlvnlxA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-058&card_id=RI-058&version=e2c69cc138)　（版 `e2c69cc138`）
+
+**[ここまでの 2 件（RI-001〜RI-058）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-001%E3%80%9CRI-058&cards=RI-001%20ee03ad527e%0ARI-058%20e2c69cc138)**
 
 ---
 
@@ -614,7 +624,17 @@
 - 出題基準：医学各論 Ⅳ-1-G-①（胸膜炎、a）；医学各論 Ⅳ-1-G-②（膿胸、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-213 (id: Jlvnlx4)；TBL-01-00-240 (id: Jlvnl08)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-052&card_id=RI-052&version=2ce76aa52b)　（版 `2ce76aa52b`）
 
-**[ここまでの 1 件（RI-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-052&cards=RI-052%202ce76aa52b)**
+### RI-059　下書き（出典の照合前）
+
+> 胸水を来す原因は多岐にわたり、感染（肺炎随伴性・結核性など）、悪性腫瘍、心不全、肺塞栓などが代表的である。英国胸部学会（BTS）の2023年ガイドラインが示す片側胸水の診断の進め方では、注意深い病歴聴取と身体診察が最も重要な第一歩とされ、胸部X線と胸部超音波による評価に続いて診断のための胸腔穿刺を行う。さらに胸膜の評価を含む造影CTを行い、それでも原因が判明しない場合は画像ガイド下の胸膜生検や胸腔鏡検査を検討する。原因が分からない場合は、肺塞栓・結核・慢性心不全・リンパ腫など治療可能な原因を見落としていないか再考することが求められる。
+
+- 条件：region: 英国／対象: 成人
+- 不確実性：原因・病型の代表例と診断の進め方に絞った。胸水の漏出性・滲出性の判定（Light の基準）は症候側の既存カード RX-003 が、肺炎随伴性胸水・胸膜感染症のドレナージの閾値は既存の RI-052 が担う。結核性胸膜炎に特化した診断（胸水中の ADA 測定など）は、本ガイドラインで確認した範囲には含まれないため主張に入れていない
+- 出典：Roberts ME, Rahman NM, Maskell NA, et al. British Thoracic Society Guideline for pleural disease. Thorax 2023;78:1143-1156　[DOI 10.1136/thorax-2023-220304](https://doi.org/10.1136/thorax-2023-220304)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-1-G-①（胸膜炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-213 (id: Jlvnlx4)；TBL-01-00-240 (id: Jlvnl08)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-059&card_id=RI-059&version=5fe79dc136)　（版 `5fe79dc136`）
+
+**[ここまでの 2 件（RI-052〜RI-059）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-052%E3%80%9CRI-059&cards=RI-052%202ce76aa52b%0ARI-059%205fe79dc136)**
 
 ---
 

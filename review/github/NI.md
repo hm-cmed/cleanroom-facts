@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 29 件のうち、監修済み 0 件。
+全 30 件のうち、監修済み 0 件。
 
 ## 脳炎
 
@@ -116,7 +116,17 @@
 - 出題基準：医学各論 Ⅸ-3-A-②（髄膜炎、a）；医学各論 Ⅻ-1-A-⑱（ウイルス性髄膜炎、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-008&card_id=NI-008&version=38a6fe8a65)　（版 `38a6fe8a65`）
 
-**[ここまでの 1 件（NI-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NI-008&cards=NI-008%2038a6fe8a65)**
+### NI-030　下書き（出典の照合前）
+
+> 成人の細菌性髄膜炎で最も多い臨床所見は発熱、頭痛、項部硬直、意識障害であり、発熱・項部硬直・意識障害の古典的三徴がそろうのは患者の半数以下で、個々の所見が欠けても細菌性髄膜炎は否定できない。診断の確定には腰椎穿刺による髄液検査が中心となる。穿刺に先立って頭部CTを行うのは、局所神経脱落所見（脳神経麻痺を除く）、新規発症のけいれん、Glasgow Coma Scale 10未満の高度の意識障害、高度の免疫不全のいずれかがある場合に限られ、これらがなければCTを待たずに穿刺する。穿刺が遅れる場合は血液培養を採取したうえで経験的抗菌薬投与を先行させ、抗菌薬投与は来院後1時間以内が目標とされる。
+
+- 条件：region: 欧州／対象: 細菌性髄膜炎が疑われる成人
+- 不確実性：本カードは ESCMID ガイドライン（2016年）の本文で確認した範囲に基づく。既存カード NI-008 の出典である細菌性髄膜炎診療ガイドライン2014（国内）は本文未入手のため、臨床像と初期評価の逐語確認が可能な本ガイドラインを新規出典とした。Kernig 徴候・Brudzinski 徴候などの髄膜刺激徴候は感度が低く診断への寄与は限られることが同ガイドラインに記載されている。小児では発熱・頭痛・項部硬直・嘔吐が多いとされるが、本カードは成人の所見に絞った。経験的抗菌薬の具体的な薬剤選択は既存カード NI-009〜011 が担い、本カードでは薬剤名は含めていない（国内で承認された抗菌薬製剤を用いる）。
+- 出典：van de Beek D, Cabellos C, Dzupova O, et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. Clin Microbiol Infect. 2016;22 Suppl 3:S37-S62　[DOI 10.1016/j.cmi.2016.01.007](https://doi.org/10.1016/j.cmi.2016.01.007)　[PMID 27062097](https://pubmed.ncbi.nlm.nih.gov/27062097/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅸ-3-A-②（髄膜炎、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-030&card_id=NI-030&version=d977608525)　（版 `d977608525`）
+
+**[ここまでの 2 件（NI-008〜NI-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NI-008%E3%80%9CNI-030&cards=NI-008%2038a6fe8a65%0ANI-030%20d977608525)**
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 24 件のうち、監修済み 0 件。
+全 25 件のうち、監修済み 0 件。
 
 ## 多発ニューロパチー
 
@@ -313,6 +313,22 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PN-024&card_id=PN-024&version=217e9d19ac)　（版 `217e9d19ac`）
 
 **[ここまでの 1 件（PN-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PN-024&cards=PN-024%20217e9d19ac)**
+
+---
+
+## 三叉神経痛
+
+### PN-025　下書き（出典の照合前）
+
+> 三叉神経痛の発作は、三叉神経の支配領域に限局する片側性の電撃様の痛みが突然始まり突然終わる発作で、持続は1秒未満から2分以内であり、洗顔、咀嚼、歯磨きなどの無害な刺激で誘発される。病型は、神経血管接触による一次性（古典的または特発性）と、それ以外の病変による二次性に分けられ、臨床像だけでは二次性を除外できないため、鑑別にはMRIが必要である。
+
+- 条件：region: 欧州／対象: 三叉神経痛の患者
+- 不確実性：発作の臨床像（電撃様、短時間、無害な刺激による誘発、三叉神経支配領域に限局）は、欧州神経学会ガイドラインが使用を推奨する国際頭痛分類第3版（ICHD-3）の三叉神経痛の記述と診断基準で確認した。分類とMRIの必要性は同ガイドラインの抄録で確認した。二次性の背景病変としては多発性硬化症や腫瘍などが知られるが、本カードの主張には個別の病変名を含めていない。治療薬（カルバマゼピン等）と手術は既存カード OT-037 が担い、本カードでは扱わない。
+- 出典：Bendtsen L, Zakrzewska JM, Abbott J, et al. European Academy of Neurology guideline on trigeminal neuralgia. Eur J Neurol. 2019;26(6):831-849　[DOI 10.1111/ene.13950](https://doi.org/10.1111/ene.13950)　[PMID 30860637](https://pubmed.ncbi.nlm.nih.gov/30860637/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅸ-5-C-①（三叉神経痛、a）；医学各論 Ⅲ-8-C-②（三叉神経痛、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PN-025&card_id=PN-025&version=110e39a359)　（版 `110e39a359`）
+
+**[ここまでの 1 件（PN-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PN-025&cards=PN-025%20110e39a359)**
 
 ---
 

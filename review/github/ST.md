@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 50 件のうち、監修済み 0 件。
+全 51 件のうち、監修済み 0 件。
 
 ## 脳内出血
 
@@ -562,6 +562,22 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ST-050&card_id=ST-050&version=dace0a49d2)　（版 `dace0a49d2`）
 
 **[ここまでの 2 件（ST-049〜ST-050）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ST-049%E3%80%9CST-050&cards=ST-049%20794d292f78%0AST-050%20dace0a49d2)**
+
+---
+
+## 廃用性萎縮
+
+### ST-051　下書き（出典の照合前）
+
+> 廃用症候群（廃用性萎縮を含む）は、長期の不動・臥床によって筋や骨をはじめ多臓器に生じる有害な変化の総体である。不動による筋量と骨密度の低下は速く、臥床開始後1週間以内に明らかになり、重症病態ではさらに増悪する。筋萎縮の病態には筋タンパクの合成と分解のバランスの崩れが関わり、細胞内シグナル伝達の変化の面から検討されている。予防の基本は不動の期間をできるだけ短くすることであり、早期からの活動・離床とリハビリテーションを進めることが対策の中心となる。
+
+- 条件：region: 国際／対象: 長期臥床・不動の患者（重症患者を含む）
+- 不確実性：重症患者（集中治療環境）を中心とした総説に基づいており、一般病棟や在宅での臥床への当てはめは程度の問題として判断される。主張は抄録で確認できる範囲に限った。拘縮をはじめとする個々の症候の頻度や回復の時間経過の数値はこの総説では確認できず、主張に含めていない。脳卒中急性期の超早期離床の負荷については ST-050（AVERT 試験）が担う。（出典内の位置：抄録）
+- 出典：Parry SM, Puthucheary ZA. The impact of extended bed rest on the musculoskeletal system in the critical care environment. Extrem Physiol Med. 2015;4:16　[DOI 10.1186/s13728-015-0036-7](https://doi.org/10.1186/s13728-015-0036-7)　[PMID 26457181](https://pubmed.ncbi.nlm.nih.gov/26457181/)（区分 OPEN）
+- 出題基準：医学各論 Ⅸ-1-E-②（廃用性萎縮、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ST-051&card_id=ST-051&version=694e77e27a)　（版 `694e77e27a`）
+
+**[ここまでの 1 件（ST-051）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ST-051&cards=ST-051%20694e77e27a)**
 
 ---
 

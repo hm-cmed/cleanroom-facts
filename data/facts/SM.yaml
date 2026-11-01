@@ -313,3 +313,38 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/56_ev_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: SM-010
+  domain: SM
+  subdomain: 妊婦・胎児への影響
+  assertion:
+    plain_statement_ja: 妊娠中の禁煙支援として薬物を使わない心理社会的介入（カウンセリング、健康教育、胎児への影響のフィードバック、禁煙へのインセンティブ、社会的支援、運動）があり、Cochrane 系統的レビューの2026年版では127件の研究（喫煙中または最近禁煙した妊婦47,361人）が統合された。カウンセリングと金銭的インセンティブは妊娠後期の禁煙を増やす可能性が高く、健康教育、フィードバック、社会的支援も禁煙を増やす可能性がある一方、運動にはほとんど差がない可能性が高い。心理社会的介入全体では、低出生体重児（2500 g未満）の割合が減り、平均出生体重が増え、新生児集中治療室への入院が減る可能性があるが、死産にはほとんど差がない可能性が高く、早産への影響は明らかでない。これらの知見は、民族的マイノリティや先住民族の女性では研究が少なく当てはまりが確認できていない。
+    condition:
+      region: 国際
+      対象: 妊娠中に喫煙している、または最近禁煙した女性
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4801
+    source: Freijah I, Jones KA, Coleman T, Perlen SM, Kennedy M, Passey ME, McKenzie JE, Chamberlain C. Psychosocial interventions for supporting women to stop smoking in pregnancy. Cochrane Database of Systematic Reviews. 2026;(4):CD001055
+    doi: 10.1002/14651858.CD001055.pub6
+    pmid: null
+    pmcid: null
+    url: https://doi.org/10.1002/14651858.CD001055.pub6
+    source_license: 未確認（刊行元のページで CC 表示を確認できず）
+    legal_basis: B
+    source_class: UNKNOWN
+    corroboration: null
+  uncertainty: 本カードは2026年版（pub6）の平易要約・著者結論と試験数に基づく。刊行元のページでは抄録の Main results が旧版（2017年版）の集計のまま表示されていたため、旧版のリスク比等の数値は含めていない。2026年版の PMID・PMCID は作成時点で確認できず null とした（版は DOI で特定した）。薬剤について：本レビューは薬物を使わない介入のみを対象とし薬物療法の効果は評価していない。国内ではニコチン製剤（ニコチンパッチ・ガム）は妊婦・授乳婦に禁忌とされており、妊娠中の禁煙支援は行動支援が中心となる（禁煙治療のための標準手順書第7版に基づく既存カード SM-009 の記載による）。能動喫煙・受動喫煙の転帰そのものは既存カード SM-009 が担う。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-3-B-③（妊婦・胎児への影響、a）
+    core_curriculum: 'GE-04-01-06 (id: JkxpswA)；PS-02-11-05 (id: JkxnuSU)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

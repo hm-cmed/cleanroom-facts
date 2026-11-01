@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 44 件のうち、監修済み 0 件。
+全 45 件のうち、監修済み 0 件。
 
 ## てんかん
 
@@ -499,6 +499,22 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-042&card_id=EP-042&version=ba83681cba)　（版 `ba83681cba`）
 
 **[ここまでの 4 件（EP-039〜EP-042）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EP-039%E3%80%9CEP-042&cards=EP-039%20fc67acb6f9%0AEP-040%203ad2dd1289%0AEP-041%206cb01bebb8%0AEP-042%20ba83681cba)**
+
+---
+
+## 欠神発作
+
+### EP-045　下書き（出典の照合前）
+
+> 小児欠神てんかんは2〜12歳（ピーク5〜7歳）に発症し、定型欠神発作は数秒から20秒程度の意識・反応の消失が突然始まり突然終わる発作で、1日に何十回も繰り返し、過呼吸で誘発される。診断には定型欠神発作に加え、発作開始時に3 Hz（範囲2.5〜4 Hz）の全般性棘徐波が脳波で認められることが必須とされる。欠神発作は思春期頃までに消失することが多い。
+
+- 条件：region: 国際／対象: 小児欠神てんかんの小児
+- 不確実性：発症年齢、発作の持続・頻度、過呼吸による誘発、脳波の必須所見は、ILAE の特発性全般てんかん症候群の定義（2022年）の小児欠神てんかんの診断基準と臨床像の記述で確認した。思春期頃までに消失することが多い点は定性的な予後の記述として入れたもので、寛解率の数値は含めていない。症候群分類上の位置づけは既存カード EP-006（SRC-1717）が担う。
+- 出典：Hirsch E, French J, Scheffer IE, et al. ILAE definition of the Idiopathic Generalized Epilepsy Syndromes: Position statement by the ILAE Task Force on Nosology and Definitions. Epilepsia. 2022;63(6):1475-1499　[DOI 10.1111/epi.17236](https://doi.org/10.1111/epi.17236)　[PMID 35503716](https://pubmed.ncbi.nlm.nih.gov/35503716/)（区分 OPEN）
+- 出題基準：医学各論 Ⅸ-11-C-②（欠神発作<全般非運動発作>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-053 (id: Jlvnleo)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-045&card_id=EP-045&version=11d1140cc2)　（版 `11d1140cc2`）
+
+**[ここまでの 1 件（EP-045）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EP-045&cards=EP-045%2011d1140cc2)**
 
 ---
 

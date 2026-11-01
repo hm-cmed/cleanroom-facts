@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 32 件のうち、監修済み 0 件。
+全 33 件のうち、監修済み 0 件。
 
 ## インフルエンザ
 
@@ -405,6 +405,22 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VI-032&card_id=VI-032&version=1598570fd6)　（版 `1598570fd6`）
 
 **[ここまでの 2 件（VI-031〜VI-032）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20VI-031%E3%80%9CVI-032&cards=VI-031%208e656407a0%0AVI-032%201598570fd6)**
+
+---
+
+## ウイルス性髄膜炎
+
+### VI-033　下書き（出典の照合前）
+
+> ウイルス性髄膜炎は、髄膜の炎症に急性の髄膜症状と発熱を伴い、髄液の細胞増多を認めるが通常の細菌培養では菌が発育しない病態である。原因ウイルスは年齢や地域で異なり、非ポリオエンテロウイルスが最も多く、ムンプスウイルス、リンパ球性脈絡髄膜炎ウイルス、ヘルペスウイルス属などが知られる。髄液の核酸増幅検査の導入で病原体の検出が進み、不必要な抗菌薬投与や入院の削減につながっている。特異的治療のないウイルスが多く、治療の中心は支持療法であり、原因の一部はワクチンで予防できる。
+
+- 条件：region: 国際／対象: 一般
+- 不確実性：本文は購読制のため、主張は抄録と出版社ページのハイライトで確認できた範囲に限った。ヘルペスウイルスが否定できない場合の抗ウイルス薬の扱いや予後の具体的数値は確認範囲に含まれないため主張に入れていない。髄液所見の型と細菌性髄膜炎との対比は既存カード NI-008 が担う。
+- 出典：Wright WF, Pinto CN, Palisoc K, Baghli S. Viral (aseptic) meningitis: A review. J Neurol Sci. 2019;398:176-183　[DOI 10.1016/j.jns.2019.01.050](https://doi.org/10.1016/j.jns.2019.01.050)　[PMID 30731305](https://pubmed.ncbi.nlm.nih.gov/30731305/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅻ-1-A-⑱（ウイルス性髄膜炎、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VI-033&card_id=VI-033&version=296d5bd056)　（版 `296d5bd056`）
+
+**[ここまでの 1 件（VI-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20VI-033&cards=VI-033%20296d5bd056)**
 
 ---
 

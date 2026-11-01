@@ -1022,3 +1022,38 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: NI-030
+  domain: NI
+  subdomain: 髄膜炎
+  assertion:
+    plain_statement_ja: 成人の細菌性髄膜炎で最も多い臨床所見は発熱、頭痛、項部硬直、意識障害であり、発熱・項部硬直・意識障害の古典的三徴がそろうのは患者の半数以下で、個々の所見が欠けても細菌性髄膜炎は否定できない。診断の確定には腰椎穿刺による髄液検査が中心となる。穿刺に先立って頭部CTを行うのは、局所神経脱落所見（脳神経麻痺を除く）、新規発症のけいれん、Glasgow Coma Scale 10未満の高度の意識障害、高度の免疫不全のいずれかがある場合に限られ、これらがなければCTを待たずに穿刺する。穿刺が遅れる場合は血液培養を採取したうえで経験的抗菌薬投与を先行させ、抗菌薬投与は来院後1時間以内が目標とされる。
+    condition:
+      region: 欧州
+      対象: 細菌性髄膜炎が疑われる成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4815
+    source: 'van de Beek D, Cabellos C, Dzupova O, et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. Clin Microbiol Infect. 2016;22 Suppl 3:S37-S62'
+    doi: 10.1016/j.cmi.2016.01.007
+    pmid: '27062097'
+    pmcid: null
+    url: https://doi.org/10.1016/j.cmi.2016.01.007
+    source_license: © European Society of Clinical Microbiology and Infectious Diseases（Elsevier、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本カードは ESCMID ガイドライン（2016年）の本文で確認した範囲に基づく。既存カード NI-008 の出典である細菌性髄膜炎診療ガイドライン2014（国内）は本文未入手のため、臨床像と初期評価の逐語確認が可能な本ガイドラインを新規出典とした。Kernig 徴候・Brudzinski 徴候などの髄膜刺激徴候は感度が低く診断への寄与は限られることが同ガイドラインに記載されている。小児では発熱・頭痛・項部硬直・嘔吐が多いとされるが、本カードは成人の所見に絞った。経験的抗菌薬の具体的な薬剤選択は既存カード NI-009〜011 が担い、本カードでは薬剤名は含めていない（国内で承認された抗菌薬製剤を用いる）。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-3-A-②（髄膜炎、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

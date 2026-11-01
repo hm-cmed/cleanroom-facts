@@ -1086,3 +1086,38 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: PV-032
+  domain: PV
+  subdomain: 左心系疾患に伴う肺高血圧症
+  assertion:
+    plain_statement_ja: 左心系疾患に伴う肺高血圧症（臨床分類の第2群）は毛細血管後性で、血行動態の定義は平均肺動脈圧20 mmHg超かつ肺動脈楔入圧15 mmHg超であり、肺血管抵抗2 Wood単位以下を孤立性毛細血管後性、2 Wood単位を超える場合を混合性毛細血管後性として区別する。管理の基本は基礎にある左心疾患の治療を最適化することであり（推奨クラスI、エビデンスレベルA）、肺動脈性肺高血圧症に承認された薬剤は本群には推奨されない（クラスIII、レベルA）。
+    condition:
+      region: 国際
+      対象: 左心系疾患に伴う肺高血圧症の成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-444
+    source: Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879
+    doi: 10.1183/13993003.00879-2022
+    pmid: '36028254'
+    pmcid: null
+    url: https://doi.org/10.1183/13993003.00879-2022
+    source_license: Publisher holds Copyright（ERS、リポジトリの表示）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 閾値（平均肺動脈圧・肺動脈楔入圧・肺血管抵抗）と推奨クラスは ESC/ERS 2022 ガイドライン本文（第8章の定義と推奨表22A）から読み取り。PV-020 が「楔入圧・肺血管抵抗の閾値は本文で確認してからカードを追加する」としていた血行動態の定義を本カードで補った。薬剤について、主張は肺動脈性肺高血圧症の承認薬というクラス単位の記述で個別の薬剤名は含まない。これらの薬剤は国内では肺動脈性肺高血圧症（第1群）に承認されており、左心系疾患に伴う肺高血圧症（第2群）への適応はない。心不全そのものの治療内容は循環器のカードが担う。
+  curriculum:
+    kokushi: 医学各論 Ⅳ-5-C-①（左心系疾患に伴う肺高血圧症、a）
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

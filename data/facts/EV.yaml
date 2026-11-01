@@ -838,3 +838,248 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/57_ev_c.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-025
+  domain: EV
+  subdomain: 偶発性低体温{症}
+  assertion:
+    plain_statement_ja: 偶発性低体温症の古典的な病期分類（欧州蘇生協議会2021）では、HT I（軽症）は深部体温35〜32℃で意識がありシバリングを伴い、HT II（中等症）は32℃未満〜28℃で意識障害がありシバリングはあってもなくてもよく、HT III（重症）は28℃未満で意識はないがバイタルサインがあり、HT IV は古典的には24℃未満でバイタルサインがなく見かけ上の死亡とされる。復温は、軽症（HT I）では寒冷環境からの離脱、保温、温かい飲食、能動的な運動による受動的復温で通常は十分であり、中等症・重症（HT II・III）では能動的復温が必要で全身を保温する。復温速度の目安は、受動的復温と能動的体外復温が毎時0.5〜4℃、体外式生命維持（ECLS）が毎時約4〜10℃である。注意点として、突然の体動などの機械的刺激が心停止の引き金になりうるため患者は穏やかに扱うこと、復温を始めた後も深部体温がさらに下がることがあり（アフタードロップ。主因は冷えた体部位の再灌流とされる）、歩行はアフタードロップを増やすため水平位で発見された患者は食事をとり約30分シバリングするまで歩かせないことが挙げられる。病院内では、循環が安定していれば受動的復温と能動的体外復温を行い、心停止のリスクがある場合や循環が不安定な場合は ECLS を待機させ必要時に速やかに開始し、心停止例では ECLS（ECMO が優先される）が能動的体内復温として用いられる。
+    condition:
+      region: 国際
+      対象: 偶発性低体温症の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4119
+    source: 'Paal P, Pasquier M, Darocha T, Lechner R, Kosinski S, Wallner B, Zafren K, Brugger H. Accidental Hypothermia: 2021 Update. International Journal of Environmental Research and Public Health. 2022;19(1):501'
+    doi: 10.3390/ijerph19010501
+    pmid: '35010760'
+    pmcid: PMC8744717
+    url: https://doi.org/10.3390/ijerph19010501
+    source_license: CC BY 4.0（Europe PMC の表示で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 病期分類と復温速度は出典の表から読み取り（病期分類の表は欧州蘇生協議会2021の転載）。出典の全文で確認した範囲に限る。定義と ECLS ができる施設への搬送基準は既存カード EV-004 が担うため本カードでは繰り返さない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-A-②（偶発性低体温{症}、a）
+    core_curriculum: 'PS-03-05-10 (id: Jkxnub4)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-026
+  domain: EV
+  subdomain: 騒音性難聴
+  assertion:
+    plain_statement_ja: 騒音障害防止のためのガイドライン（2023年改訂）では、作業環境測定（A測定・B測定）の結果を A測定平均値と B測定の組み合わせで第Ⅰ〜第Ⅲ管理区分に区分する。A測定平均値が85 dB未満では B測定85 dB未満が第Ⅰ管理区分、85 dB以上90 dB未満が第Ⅱ管理区分、90 dB以上が第Ⅲ管理区分となり、A測定平均値が85 dB以上90 dB未満では第Ⅱまたは第Ⅲ管理区分、90 dB以上ではすべて第Ⅲ管理区分となる。措置は、第Ⅰ管理区分では作業環境の継続的維持に努め、第Ⅱ管理区分では標識で明示し、施設・設備・作業工程・作業方法を点検して改善措置を講じ第Ⅰ管理区分となるよう努め、必要に応じて聴覚保護具を使用させ、第Ⅲ管理区分では標識で明示し、点検と改善措置（第Ⅰまたは第Ⅱ管理区分となるよう努め、改善後は再測定で効果を確認する）を講じ、聴覚保護具を使用させて管理者に使用状況を確認させ掲示する。定点測定や個人ばく露測定では等価騒音レベルで評価し、85 dB未満は作業環境の継続的維持に努め、85 dB以上90 dB未満は点検・改善して85 dB未満となるよう努め必要に応じて聴覚保護具を使用させ、90 dB以上は点検・改善（85 dB未満を目標とし再測定で効果を確認する）と聴覚保護具の使用・確認・掲示を行う。作業時間の管理として、改善措置を講じても第Ⅰ管理区分とならない、または等価騒音レベルが85 dB未満とならない場合は、日本産業衛生学会の騒音の許容基準の表を参考に、騒音作業に従事する時間の短縮を検討する（85 dBで1日8時間、90 dBで2時間30分、95 dBで47分、100 dBで15分）。健康診断の事後措置として、前駆期の症状が認められる者や軽度の聴力低下が認められる者には、第Ⅱ管理区分の場所または等価騒音レベル85 dB以上90 dB未満の場所においても聴覚保護具を使用させるほか必要な措置を講じ、中等度以上の聴力低下が認められる者には、聴覚保護具を使用させるほか、騒音作業に従事する時間の短縮、配置転換その他必要な措置を講じる。
+    condition:
+      region: 日本
+      対象: 騒音作業に従事する労働者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4121
+    source: 厚生労働省. 騒音障害防止のためのガイドライン（令和5年4月20日改訂、基発0420第2号）. 厚生労働省. 2023
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/001089239.pdf
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 管理区分の対応と許容基準の時間（85 dBで1日8時間など）はガイドライン本文の表から読み取り。ガイドライン本文・別紙で逐語確認した範囲に限る（既存カード EV-006 は解説資料ベースだった）。健康診断の項目と頻度の枠組みは既存カード EV-006 が担うため、本カードは管理区分・措置と事後措置を中心に記載した。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-B-①（騒音性難聴、a）
+    core_curriculum: 'PS-03-05-11 (id: Jkxnub8)；TBL-02-15-010 (id: JlAKpwY)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-027
+  domain: EV
+  subdomain: 誤嚥
+  assertion:
+    plain_statement_ja: 気道異物による窒息への応急処置は重症度で分ける。軽症（咳ができる）では咳を促し、改善するまで観察する。重症（咳・発声・呼吸ができない）では、成人・小児には肩甲骨の間への背部叩打を最大5回行い、除去できなければ腹部突き上げ（肋骨と臍の間に拳を当て、もう一方の手で内側かつ上方へ鋭く引く）を最大5回行う。それでも除去できなければ直ちに救急要請し、除去できるか意識を失うまで背部叩打と腹部突き上げを交互に繰り返す。乳児には腹部突き上げは行わず、背部叩打を最大5回、次いで胸部突き上げ（胸の中央を鋭く下方へ押す）を最大5回行い、交互に繰り返す。意識を失った場合は通常の心肺蘇生を開始する。口内の固形物は見えている場合にのみ指で除去し、見えないまま指で探ることはしない。重症例では腹部突き上げによる内臓損傷や異物の残存がありうるため、救急要請して医療機関の評価につなげる。
+    condition:
+      region: 国際
+      対象: 気道異物による窒息の傷病者（成人・小児・乳児）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4803
+    source: 'International Federation of Red Cross and Red Crescent Societies. International First Aid, Resuscitation and Education Guidelines 2020. Geneva: IFRC, 2020'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.globalfirstaidcentre.org/fr/resource/internationalfirstaidresuscitationandeducationguidelines-2020-2/
+    source_license: CC 表示なし（© IFRC 2020）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 出典は赤十字赤新月社連盟（IFRC）の国際的な応急処置ガイドライン2020年版で、窒息の章の本文で手順を確認した。既存 EV-016 の出典（ILCOR 応急処置コンセンサス2020、SRC-4131）の抄録に窒息時の手技の手順は含まれず確認できなかったため、新規出典とした。日本の JRC 蘇生ガイドライン2020でも背部叩打と腹部突き上げを組み合わせる手順が示されているが、その逐語確認は本カードの出典では行っていない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-G-②（誤嚥、a）
+    core_curriculum: 'PS-03-05-04 (id: Jkxnubg)；TBL-01-00-212 (id: Jlvnlx0)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-028
+  domain: EV
+  subdomain: 創傷
+  assertion:
+    plain_statement_ja: 創傷後の破傷風予防は、創の性状と接種歴で判断する。すべての創を洗浄し、汚物・異物を除去し、壊死組織をデブリードマンする。破傷風の予防を目的とした抗菌薬投与は推奨されない。創は、清潔で軽微な創と、それ以外の汚染・重度創（刺創・貫通創、土壌・糞便・唾液で汚染された創、壊死組織を含む熱傷・複合骨折・挫滅創・凍傷など）に分ける。基礎免疫（初回接種シリーズ）が完了し、最終接種から5年未満であれば、創の種類を問わず追加接種は不要である。接種歴不明・未接種・基礎免疫未完了の場合は、すべての創でトキソイドの接種が推奨される。基礎免疫が完了している場合は、清潔で軽微な創では最終接種から10年以上、それ以外の創では5年以上経過していれば追加接種を行う。抗破傷風免疫グロブリン（TIG）は清潔で軽微な創には用いず、それ以外の創で接種歴不明・未接種・基礎免疫未完了の場合、および HIV 感染・重度免疫不全のある場合に適応となり、用量は250単位を筋肉内投与する。
+    condition:
+      region: 米国
+      対象: 創傷のある患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4804
+    source: Centers for Disease Control and Prevention. Clinical Guidance for Wound Management to Prevent Tetanus
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html
+    source_license: 米国政府著作物（CDC）
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 判断基準は米国 CDC の臨床指針に基づく。本カードで扱う沈降破傷風トキソイドと抗破傷風人免疫グロブリン製剤（テタノブリン等）は国内でも承認・販売されているが、国内の定期接種歴に応じた実施判断は国内の指針・添付文書での確認が別途必要である。日本の破傷風の疫学・臨床像は既存の感染症側のカード（SRC-2122・SRC-2123 の出典群）が接点となる。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-G-③（創傷、a）
+    core_curriculum: 'PS-03-05-12 (id: Jkxir3g)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-029
+  domain: EV
+  subdomain: 急性中毒
+  assertion:
+    plain_statement_ja: 日本中毒情報センターへの問い合わせの集計では、5歳以下の小児の急性中毒事故は1999年から2008年の10年間に268,784件（年2万5千件以上、1日平均70件以上）寄せられ、人口当たりの件数では成人（20〜64歳）の70倍以上であった。原因物質は家庭用品等が75.8%を占め、医療用医薬品12.6%、一般用医薬品10.1%、自然毒1.2%、農薬0.3%と続いた。曝露経路は誤飲・誤食が95.7%と大半を占め、皮膚についた・触った2.2%、吸い込んだ1.2%、目に入った0.9%であった。問い合わせの多い家庭用品は、たばこ（31,939件）が最多で、乾燥剤・鮮度保持剤、芳香剤・消臭剤・脱臭剤、石けん、ピレスロイド含有殺虫剤、保冷剤が続いた。医療機関での診療が必要な事例や実際に受診した事例は2割以上を占めた。
+    condition:
+      region: 日本
+      対象: 5歳以下の小児の急性中毒事故
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4805
+    source: 消費者庁. 視聴覚資料「家庭用品等による中毒事故を防ぐために」指導者用解説書（平成21・22年度消費者庁委託業務に基づき作成。日本中毒情報センターの集積データによる）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.caa.go.jp/policies/policy/consumer_safety/other/information_005/pdf/120511kouhyou_2.pdf
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 数値は日本中毒情報センターへの電話問い合わせの集計であり、実際の発生件数そのものではない。原因物質・曝露経路の割合は同資料の図1-1・図1-2から、品目別の件数は表1から読み取った。対象期間は1999〜2008年と古く、加熱式たばこ等の新しい製品の動向は含まれない。同資料には65歳以上の高齢者についても1996〜2009年に19,128件の問い合わせがあり原因の約7割が家庭用品等であったことが示されているが、本カードの内訳数値は5歳以下に限った。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-G-⑤（急性中毒、a）
+    core_curriculum: 'PS-03-05-06 (id: Jkxnubo)；PS-03-05-07 (id: Jkxnubs)；PS-03-05-08 (id: Jkxnubw)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-030
+  domain: EV
+  subdomain: 交通事故
+  assertion:
+    plain_statement_ja: 令和7年の交通事故死者（2,547人）を状態別にみると、歩行中が867人で最も多く、うち65歳以上が608人（70.1%）を占めた。自転車乗用中は301人で、うち65歳以上が197人であった。歩行中死者の約6割には法令違反があり、高齢の歩行中死者では横断中が442人（72.7%）と大半を占め、そのうち横断歩道以外の横断が283人であった。飲酒運転（第1当事者が一般原付以上の事故）による死亡事故は125件で、飲酒運転の場合の死亡事故率は飲酒なしの場合の約7.1倍であった。
+    condition:
+      region: 日本
+      対象: 交通事故の発生状況（状態別・要因別の内訳）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4137
+    source: 警察庁. 令和7年中の交通事故発生状況について／内閣府. 交通安全白書（令和8年版）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 状態別・飲酒運転の数値は警察庁「令和7年における交通事故の発生状況について」の図表から読み取った（歩行中・自転車乗用中の年齢内訳を含む）。発生件数・死者数・負傷者数の総数は EV-022 が担う。自動車乗車中・二輪車乗車中の死者数は、同資料の図からの読み取りが確実でなかったため本カードには含めていない。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-I-①（交通事故、a）
+    core_curriculum: 'SO-01-05-01 (id: JkxoNtw)；PS-03-05-12 (id: Jkxir3g)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: EV-031
+  domain: EV
+  subdomain: 自然災害
+  assertion:
+    plain_statement_ja: 災害関連死とは、当該災害による負傷の悪化又は避難生活等における身体的負担による疾病により死亡し、災害弔慰金の支給等に関する法律に基づき災害が原因で死亡したものと認められたものをいい、認定は市町村が行う。平成28年熊本地震では、死者270人のうち215人がこの災害関連死として認められたもので、警察が検視により確認した死者50人を大きく上回った（平成31年3月時点）。認定事例には、避難中の車内での疲労による心疾患、避難所生活に伴う肺炎、エコノミークラス症候群の疑い、栄養障害や持病の悪化などが含まれる。災害関連死を減らすため、避難所の生活環境の改善（簡易ベッド・簡易台所などの設備の整備）が市町村の取組として進められ、国は被災者の命に関わる生活必需品等のプッシュ型支援を行う。災害時の保健医療福祉の体制としては、災害派遣医療チーム（DMAT）、災害派遣精神医療チーム（DPAT）、災害支援ナース、災害派遣福祉チーム（DWAT）などの派遣チームの体制整備や、都道府県の保健医療福祉調整本部への支援、災害時保健医療福祉活動支援システム（D24H）による情報の統合が進められている。
+    condition:
+      region: 日本
+      対象: 災害時の健康被害と保健医療福祉体制
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4806
+    source: 内閣府. 防災白書（令和8年版）／内閣府政策統括官（防災担当）付参事官（被災者行政担当）付. 災害関連死について
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.bousai.go.jp/taisaku/kyuujo/pdf/r01kaigi/siryo8.pdf
+    source_license: 政府標準利用規約
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 本カードは公的資料2件の併記を出典とする（SRC-4137 と同様の方式）。災害関連死の定義・認定の仕組み・熊本地震の内訳は「災害関連死について」で、保健医療福祉の体制は防災白書（令和8年版）第3部の施策記載で確認した。熊本地震の数値は平成31年3月13日発表の熊本県の被害状況（第288報）に基づく当時の値であり、その後の認定の進展で関連死の認定数はさらに増えている。能登半島地震の災害関連死の最新認定数や東日本大震災の震災関連死の総数は本カードの出典では確認していないため含めていない。避難所の健康管理の具体策は内閣府「避難所における良好な生活環境の確保に向けた取組指針」が別に示す。
+  curriculum:
+    kokushi: 医学各論 ⅩⅢ-5-I-③（自然災害、a）
+    core_curriculum: 'SO-01-05-01 (id: JkxoNtw)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

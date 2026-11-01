@@ -1118,3 +1118,38 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/33_if_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: VI-033
+  domain: VI
+  subdomain: ウイルス性髄膜炎
+  assertion:
+    plain_statement_ja: ウイルス性髄膜炎は、髄膜の炎症に急性の髄膜症状と発熱を伴い、髄液の細胞増多を認めるが通常の細菌培養では菌が発育しない病態である。原因ウイルスは年齢や地域で異なり、非ポリオエンテロウイルスが最も多く、ムンプスウイルス、リンパ球性脈絡髄膜炎ウイルス、ヘルペスウイルス属などが知られる。髄液の核酸増幅検査の導入で病原体の検出が進み、不必要な抗菌薬投与や入院の削減につながっている。特異的治療のないウイルスが多く、治療の中心は支持療法であり、原因の一部はワクチンで予防できる。
+    condition:
+      region: 国際
+      対象: 一般
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4881
+    source: 'Wright WF, Pinto CN, Palisoc K, Baghli S. Viral (aseptic) meningitis: A review. J Neurol Sci. 2019;398:176-183'
+    doi: 10.1016/j.jns.2019.01.050
+    pmid: '30731305'
+    pmcid: null
+    url: https://doi.org/10.1016/j.jns.2019.01.050
+    source_license: CC表示なし
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 本文は購読制のため、主張は抄録と出版社ページのハイライトで確認できた範囲に限った。ヘルペスウイルスが否定できない場合の抗ウイルス薬の扱いや予後の具体的数値は確認範囲に含まれないため主張に入れていない。髄液所見の型と細菌性髄膜炎との対比は既存カード NI-008 が担う。
+  curriculum:
+    kokushi: 医学各論 Ⅻ-1-A-⑱（ウイルス性髄膜炎、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

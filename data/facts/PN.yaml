@@ -841,3 +841,38 @@
   - date: '2026-10-28'
     by: claude-code
     change: 出典の重複を整理：SRC-1760 は SRC-1721（第29回で登録済み）と同じ文献（DOI 同一）のため、SRC-1721 に付け替え（機械的な修正）
+- id: PN-025
+  domain: PN
+  subdomain: 三叉神経痛
+  assertion:
+    plain_statement_ja: 三叉神経痛の発作は、三叉神経の支配領域に限局する片側性の電撃様の痛みが突然始まり突然終わる発作で、持続は1秒未満から2分以内であり、洗顔、咀嚼、歯磨きなどの無害な刺激で誘発される。病型は、神経血管接触による一次性（古典的または特発性）と、それ以外の病変による二次性に分けられ、臨床像だけでは二次性を除外できないため、鑑別にはMRIが必要である。
+    condition:
+      region: 欧州
+      対象: 三叉神経痛の患者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-1365
+    source: Bendtsen L, Zakrzewska JM, Abbott J, et al. European Academy of Neurology guideline on trigeminal neuralgia. Eur J Neurol. 2019;26(6):831-849
+    doi: 10.1111/ene.13950
+    pmid: '30860637'
+    pmcid: null
+    url: https://doi.org/10.1111/ene.13950
+    source_license: © European Academy of Neurology（CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 発作の臨床像（電撃様、短時間、無害な刺激による誘発、三叉神経支配領域に限局）は、欧州神経学会ガイドラインが使用を推奨する国際頭痛分類第3版（ICHD-3）の三叉神経痛の記述と診断基準で確認した。分類とMRIの必要性は同ガイドラインの抄録で確認した。二次性の背景病変としては多発性硬化症や腫瘍などが知られるが、本カードの主張には個別の病変名を含めていない。治療薬（カルバマゼピン等）と手術は既存カード OT-037 が担い、本カードでは扱わない。
+  curriculum:
+    kokushi: 医学各論 Ⅸ-5-C-①（三叉神経痛、a）；医学各論 Ⅲ-8-C-②（三叉神経痛、a）
+    core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

@@ -1763,3 +1763,38 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+- id: ST-051
+  domain: ST
+  subdomain: 廃用性萎縮
+  assertion:
+    plain_statement_ja: 廃用症候群（廃用性萎縮を含む）は、長期の不動・臥床によって筋や骨をはじめ多臓器に生じる有害な変化の総体である。不動による筋量と骨密度の低下は速く、臥床開始後1週間以内に明らかになり、重症病態ではさらに増悪する。筋萎縮の病態には筋タンパクの合成と分解のバランスの崩れが関わり、細胞内シグナル伝達の変化の面から検討されている。予防の基本は不動の期間をできるだけ短くすることであり、早期からの活動・離床とリハビリテーションを進めることが対策の中心となる。
+    condition:
+      region: 国際
+      対象: 長期臥床・不動の患者（重症患者を含む）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4807
+    source: Parry SM, Puthucheary ZA. The impact of extended bed rest on the musculoskeletal system in the critical care environment. Extrem Physiol Med. 2015;4:16
+    doi: 10.1186/s13728-015-0036-7
+    pmid: '26457181'
+    pmcid: PMC4600281
+    url: https://doi.org/10.1186/s13728-015-0036-7
+    source_license: CC BY 4.0（PMC ページのライセンス表示で確認）
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: 重症患者（集中治療環境）を中心とした総説に基づいており、一般病棟や在宅での臥床への当てはめは程度の問題として判断される。主張は抄録で確認できる範囲に限った。拘縮をはじめとする個々の症候の頻度や回復の時間経過の数値はこの総説では確認できず、主張に含めていない。脳卒中急性期の超早期離床の負荷については ST-050（AVERT 試験）が担う。（出典内の位置：抄録）
+  curriculum:
+    kokushi: 医学各論 Ⅸ-1-E-②（廃用性萎縮、a）
+    core_curriculum: 'PS-02-03-05 (id: JkxnuP0)；TBL-01-00-028 (id: JlvnlcQ)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

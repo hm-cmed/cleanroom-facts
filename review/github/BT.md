@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 19 件のうち、監修済み 0 件。
+全 21 件のうち、監修済み 0 件。
 
 ## 神経膠腫
 
@@ -224,7 +224,27 @@
 - 出題基準：医学各論 Ⅸ-2-C-①（転移性脳腫瘍、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-633 (id: JlvnmbI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BT-017&card_id=BT-017&version=8d173a0177)　（版 `8d173a0177`）
 
-**[ここまでの 1 件（BT-017）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BT-017&cards=BT-017%208d173a0177)**
+### BT-020　下書き（出典の照合前）
+
+> 脳転移は全癌患者の約20%に生じると推定され、原発巣の多くは肺癌、乳癌、大腸癌、悪性黒色腫、腎細胞癌である。
+
+- 条件：region: 国際／対象: 癌患者
+- 不確実性：頻度と原発巣の構成は総説の抄録で確認。原発巣としては肺癌が最も多いことが疫学として知られているが、本総説の抄録では原発巣別の割合の数値を確認できなかったため、主張に順位と割合の数値は含めていない（既存カード BT-017 の uncertainty も同じ事情を記している）。
+- 出典：Achrol AS, Rennert RC, Anders C, et al. Brain metastases. Nat Rev Dis Primers. 2019;5(1):5　[DOI 10.1038/s41572-018-0055-y](https://doi.org/10.1038/s41572-018-0055-y)　[PMID 30655533](https://pubmed.ncbi.nlm.nih.gov/30655533/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅸ-2-C-①（転移性脳腫瘍、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-633 (id: JlvnmbI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BT-020&card_id=BT-020&version=dd57e673b5)　（版 `dd57e673b5`）
+
+### BT-021　下書き（出典の照合前）
+
+> 転移性脳腫瘍の診断では造影MRIが中心的な画像検査であり、病変の大きさ・形態・個数を評価する。治療方針は転移の個数にも左右されるため個数の正確な把握が必要であり、確定診断には生検を要することもある。
+
+- 条件：region: 国際／対象: 転移性脳腫瘍が疑われる患者
+- 不確実性：造影MRIが診断で優先される画像検査であること、造影T1強調像とT2強調FLAIR像が標準的に用いられることは総説本文で確認した。原発巣の検索の進め方や髄膜癌腫症の評価など診断手順の全体は本カードの範囲外。
+- 出典：Tong E, McCullagh KL, Iv M. Advanced Imaging of Brain Metastases: From Augmenting Visualization and Improving Diagnosis to Evaluating Treatment Response. Front Neurol. 2020;11:270　[DOI 10.3389/fneur.2020.00270](https://doi.org/10.3389/fneur.2020.00270)　[PMID 32351445](https://pubmed.ncbi.nlm.nih.gov/32351445/)（区分 OPEN）
+- 出題基準：医学各論 Ⅸ-2-C-①（転移性脳腫瘍、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-633 (id: JlvnmbI)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BT-021&card_id=BT-021&version=e244df3751)　（版 `e244df3751`）
+
+**[ここまでの 3 件（BT-017〜BT-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BT-017%E3%80%9CBT-021&cards=BT-017%208d173a0177%0ABT-020%20dd57e673b5%0ABT-021%20e244df3751)**
 
 ---
 

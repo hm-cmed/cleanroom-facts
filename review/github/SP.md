@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 29 件のうち、監修済み 0 件。
+全 30 件のうち、監修済み 0 件。
 
 ## 椎間板ヘルニア
 
@@ -52,7 +52,17 @@
 - 出題基準：医学各論 Ⅸ-7-A-②（変形性脊椎症、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-138 (id: JlvnlpU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-004&card_id=SP-004&version=b2a52abaf8)　（版 `b2a52abaf8`）
 
-**[ここまでの 1 件（SP-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SP-004&cards=SP-004%20b2a52abaf8)**
+### SP-030　下書き（出典の照合前）
+
+> 変形性脊椎症は、椎間板、椎体および椎間関節の変性変化を総称する概念である。病態は椎間板の変性から始まる段階的な経過（変性カスケード）をたどり、椎間板の狭小化や線維化とともに骨棘形成が進んで安定化に向かう。臨床像は軸性疼痛が中心で、神経根症や、脊柱管狭窄による神経性跛行（立位・歩行で増悪し座位・臥位で軽快する下肢痛やしびれ）を伴うことがある。治療に確立した標準はなく、運動療法を中心とする保存療法が基本であり、手術は保存療法が奏効しない場合に検討される。
+
+- 条件：region: 国際／対象: 変形性脊椎症の患者
+- 不確実性：出典は腰椎の変形性脊椎症を対象とした総説であり、本カードの記述も腰椎の病態・臨床像に基づく（項目自体は脊椎全体の変形性脊椎症を指す）。運動療法以外の保存療法として NSAIDs や手技療法、日常の身体活動の維持が同総説に挙げられている。NSAIDs は国内で疼痛・炎症性疾患の適応で広く承認されている薬剤群であり、変形性脊椎症に固有の適応ではない。画像所見のみで症状の原因と判断できない点は既存カード SP-004 が担う。
+- 出典：Middleton K, Fish DE. Lumbar spondylosis: clinical presentation and treatment approaches. Curr Rev Musculoskelet Med. 2009;2(2):94-104　[DOI 10.1007/s12178-009-9051-x](https://doi.org/10.1007/s12178-009-9051-x)　[PMID 19468872](https://pubmed.ncbi.nlm.nih.gov/19468872/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅸ-7-A-②（変形性脊椎症、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-138 (id: JlvnlpU)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-030&card_id=SP-030&version=0ec1474f68)　（版 `0ec1474f68`）
+
+**[ここまでの 2 件（SP-004〜SP-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SP-004%E3%80%9CSP-030&cards=SP-004%20b2a52abaf8%0ASP-030%200ec1474f68)**
 
 ---
 

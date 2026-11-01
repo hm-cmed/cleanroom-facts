@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 24 件のうち、監修済み 0 件。
+全 31 件のうち、監修済み 0 件。
 
 ## 熱中症
 
@@ -52,7 +52,17 @@
 - 出題基準：医学各論 ⅩⅢ-5-A-②（偶発性低体温{症}、a）　コアカリ：PS-03-05-10 (id: Jkxnub4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-004&card_id=EV-004&version=3768120aa9)　（版 `3768120aa9`）
 
-**[ここまでの 1 件（EV-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EV-004&cards=EV-004%203768120aa9)**
+### EV-025　下書き（出典の照合前）
+
+> 偶発性低体温症の古典的な病期分類（欧州蘇生協議会2021）では、HT I（軽症）は深部体温35〜32℃で意識がありシバリングを伴い、HT II（中等症）は32℃未満〜28℃で意識障害がありシバリングはあってもなくてもよく、HT III（重症）は28℃未満で意識はないがバイタルサインがあり、HT IV は古典的には24℃未満でバイタルサインがなく見かけ上の死亡とされる。復温は、軽症（HT I）では寒冷環境からの離脱、保温、温かい飲食、能動的な運動による受動的復温で通常は十分であり、中等症・重症（HT II・III）では能動的復温が必要で全身を保温する。復温速度の目安は、受動的復温と能動的体外復温が毎時0.5〜4℃、体外式生命維持（ECLS）が毎時約4〜10℃である。注意点として、突然の体動などの機械的刺激が心停止の引き金になりうるため患者は穏やかに扱うこと、復温を始めた後も深部体温がさらに下がることがあり（アフタードロップ。主因は冷えた体部位の再灌流とされる）、歩行はアフタードロップを増やすため水平位で発見された患者は食事をとり約30分シバリングするまで歩かせないことが挙げられる。病院内では、循環が安定していれば受動的復温と能動的体外復温を行い、心停止のリスクがある場合や循環が不安定な場合は ECLS を待機させ必要時に速やかに開始し、心停止例では ECLS（ECMO が優先される）が能動的体内復温として用いられる。
+
+- 条件：region: 国際／対象: 偶発性低体温症の患者
+- 不確実性：病期分類と復温速度は出典の表から読み取り（病期分類の表は欧州蘇生協議会2021の転載）。出典の全文で確認した範囲に限る。定義と ECLS ができる施設への搬送基準は既存カード EV-004 が担うため本カードでは繰り返さない。
+- 出典：Paal P, Pasquier M, Darocha T, Lechner R, Kosinski S, Wallner B, Zafren K, Brugger H. Accidental Hypothermia: 2021 Update. International Journal of Environmental Research and Public Health. 2022;19(1):501　[DOI 10.3390/ijerph19010501](https://doi.org/10.3390/ijerph19010501)　[PMID 35010760](https://pubmed.ncbi.nlm.nih.gov/35010760/)（区分 OPEN）
+- 出題基準：医学各論 ⅩⅢ-5-A-②（偶発性低体温{症}、a）　コアカリ：PS-03-05-10 (id: Jkxnub4)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-025&card_id=EV-025&version=060f8b598d)　（版 `060f8b598d`）
+
+**[ここまでの 2 件（EV-004〜EV-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EV-004%E3%80%9CEV-025&cards=EV-004%203768120aa9%0AEV-025%20060f8b598d)**
 
 ---
 
@@ -84,7 +94,17 @@
 - 出題基準：医学各論 ⅩⅢ-5-B-①（騒音性難聴、a）　コアカリ：PS-03-05-11 (id: Jkxnub8)；TBL-02-15-010 (id: JlAKpwY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-006&card_id=EV-006&version=9e52b3b8b1)　（版 `9e52b3b8b1`）
 
-**[ここまでの 1 件（EV-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EV-006&cards=EV-006%209e52b3b8b1)**
+### EV-026　下書き（出典の照合前）
+
+> 騒音障害防止のためのガイドライン（2023年改訂）では、作業環境測定（A測定・B測定）の結果を A測定平均値と B測定の組み合わせで第Ⅰ〜第Ⅲ管理区分に区分する。A測定平均値が85 dB未満では B測定85 dB未満が第Ⅰ管理区分、85 dB以上90 dB未満が第Ⅱ管理区分、90 dB以上が第Ⅲ管理区分となり、A測定平均値が85 dB以上90 dB未満では第Ⅱまたは第Ⅲ管理区分、90 dB以上ではすべて第Ⅲ管理区分となる。措置は、第Ⅰ管理区分では作業環境の継続的維持に努め、第Ⅱ管理区分では標識で明示し、施設・設備・作業工程・作業方法を点検して改善措置を講じ第Ⅰ管理区分となるよう努め、必要に応じて聴覚保護具を使用させ、第Ⅲ管理区分では標識で明示し、点検と改善措置（第Ⅰまたは第Ⅱ管理区分となるよう努め、改善後は再測定で効果を確認する）を講じ、聴覚保護具を使用させて管理者に使用状況を確認させ掲示する。定点測定や個人ばく露測定では等価騒音レベルで評価し、85 dB未満は作業環境の継続的維持に努め、85 dB以上90 dB未満は点検・改善して85 dB未満となるよう努め必要に応じて聴覚保護具を使用させ、90 dB以上は点検・改善（85 dB未満を目標とし再測定で効果を確認する）と聴覚保護具の使用・確認・掲示を行う。作業時間の管理として、改善措置を講じても第Ⅰ管理区分とならない、または等価騒音レベルが85 dB未満とならない場合は、日本産業衛生学会の騒音の許容基準の表を参考に、騒音作業に従事する時間の短縮を検討する（85 dBで1日8時間、90 dBで2時間30分、95 dBで47分、100 dBで15分）。健康診断の事後措置として、前駆期の症状が認められる者や軽度の聴力低下が認められる者には、第Ⅱ管理区分の場所または等価騒音レベル85 dB以上90 dB未満の場所においても聴覚保護具を使用させるほか必要な措置を講じ、中等度以上の聴力低下が認められる者には、聴覚保護具を使用させるほか、騒音作業に従事する時間の短縮、配置転換その他必要な措置を講じる。
+
+- 条件：region: 日本／対象: 騒音作業に従事する労働者
+- 不確実性：管理区分の対応と許容基準の時間（85 dBで1日8時間など）はガイドライン本文の表から読み取り。ガイドライン本文・別紙で逐語確認した範囲に限る（既存カード EV-006 は解説資料ベースだった）。健康診断の項目と頻度の枠組みは既存カード EV-006 が担うため、本カードは管理区分・措置と事後措置を中心に記載した。
+- 出典：厚生労働省. 騒音障害防止のためのガイドライン（令和5年4月20日改訂、基発0420第2号）. 厚生労働省. 2023　[リンク](https://www.mhlw.go.jp/content/001089239.pdf)（区分 GOV_JP）
+- 出題基準：医学各論 ⅩⅢ-5-B-①（騒音性難聴、a）　コアカリ：PS-03-05-11 (id: Jkxnub8)；TBL-02-15-010 (id: JlAKpwY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-026&card_id=EV-026&version=81fb4d159f)　（版 `81fb4d159f`）
+
+**[ここまでの 2 件（EV-006〜EV-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EV-006%E3%80%9CEV-026&cards=EV-006%209e52b3b8b1%0AEV-026%2081fb4d159f)**
 
 ---
 
@@ -228,7 +248,17 @@
 - 出題基準：医学各論 ⅩⅢ-5-G-②（誤嚥、a）　コアカリ：PS-03-05-04 (id: Jkxnubg)；TBL-01-00-212 (id: Jlvnlx0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-015&card_id=EV-015&version=8ebbc6d437)　（版 `8ebbc6d437`）
 
-**[ここまでの 1 件（EV-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EV-015&cards=EV-015%208ebbc6d437)**
+### EV-027　下書き（出典の照合前）
+
+> 気道異物による窒息への応急処置は重症度で分ける。軽症（咳ができる）では咳を促し、改善するまで観察する。重症（咳・発声・呼吸ができない）では、成人・小児には肩甲骨の間への背部叩打を最大5回行い、除去できなければ腹部突き上げ（肋骨と臍の間に拳を当て、もう一方の手で内側かつ上方へ鋭く引く）を最大5回行う。それでも除去できなければ直ちに救急要請し、除去できるか意識を失うまで背部叩打と腹部突き上げを交互に繰り返す。乳児には腹部突き上げは行わず、背部叩打を最大5回、次いで胸部突き上げ（胸の中央を鋭く下方へ押す）を最大5回行い、交互に繰り返す。意識を失った場合は通常の心肺蘇生を開始する。口内の固形物は見えている場合にのみ指で除去し、見えないまま指で探ることはしない。重症例では腹部突き上げによる内臓損傷や異物の残存がありうるため、救急要請して医療機関の評価につなげる。
+
+- 条件：region: 国際／対象: 気道異物による窒息の傷病者（成人・小児・乳児）
+- 不確実性：出典は赤十字赤新月社連盟（IFRC）の国際的な応急処置ガイドライン2020年版で、窒息の章の本文で手順を確認した。既存 EV-016 の出典（ILCOR 応急処置コンセンサス2020、SRC-4131）の抄録に窒息時の手技の手順は含まれず確認できなかったため、新規出典とした。日本の JRC 蘇生ガイドライン2020でも背部叩打と腹部突き上げを組み合わせる手順が示されているが、その逐語確認は本カードの出典では行っていない。
+- 出典：International Federation of Red Cross and Red Crescent Societies. International First Aid, Resuscitation and Education Guidelines 2020. Geneva: IFRC, 2020　[リンク](https://www.globalfirstaidcentre.org/fr/resource/internationalfirstaidresuscitationandeducationguidelines-2020-2/)（区分 RESTRICTED）
+- 出題基準：医学各論 ⅩⅢ-5-G-②（誤嚥、a）　コアカリ：PS-03-05-04 (id: Jkxnubg)；TBL-01-00-212 (id: Jlvnlx0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-027&card_id=EV-027&version=a413127796)　（版 `a413127796`）
+
+**[ここまでの 2 件（EV-015〜EV-027）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EV-015%E3%80%9CEV-027&cards=EV-015%208ebbc6d437%0AEV-027%20a413127796)**
 
 ---
 
@@ -244,7 +274,17 @@
 - 出題基準：医学各論 ⅩⅢ-5-G-③（創傷、a）　コアカリ：PS-03-05-12 (id: Jkxir3g)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-016&card_id=EV-016&version=2fb5f9fb03)　（版 `2fb5f9fb03`）
 
-**[ここまでの 1 件（EV-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EV-016&cards=EV-016%202fb5f9fb03)**
+### EV-028　下書き（出典の照合前）
+
+> 創傷後の破傷風予防は、創の性状と接種歴で判断する。すべての創を洗浄し、汚物・異物を除去し、壊死組織をデブリードマンする。破傷風の予防を目的とした抗菌薬投与は推奨されない。創は、清潔で軽微な創と、それ以外の汚染・重度創（刺創・貫通創、土壌・糞便・唾液で汚染された創、壊死組織を含む熱傷・複合骨折・挫滅創・凍傷など）に分ける。基礎免疫（初回接種シリーズ）が完了し、最終接種から5年未満であれば、創の種類を問わず追加接種は不要である。接種歴不明・未接種・基礎免疫未完了の場合は、すべての創でトキソイドの接種が推奨される。基礎免疫が完了している場合は、清潔で軽微な創では最終接種から10年以上、それ以外の創では5年以上経過していれば追加接種を行う。抗破傷風免疫グロブリン（TIG）は清潔で軽微な創には用いず、それ以外の創で接種歴不明・未接種・基礎免疫未完了の場合、および HIV 感染・重度免疫不全のある場合に適応となり、用量は250単位を筋肉内投与する。
+
+- 条件：region: 米国／対象: 創傷のある患者
+- 不確実性：判断基準は米国 CDC の臨床指針に基づく。本カードで扱う沈降破傷風トキソイドと抗破傷風人免疫グロブリン製剤（テタノブリン等）は国内でも承認・販売されているが、国内の定期接種歴に応じた実施判断は国内の指針・添付文書での確認が別途必要である。日本の破傷風の疫学・臨床像は既存の感染症側のカード（SRC-2122・SRC-2123 の出典群）が接点となる。
+- 出典：Centers for Disease Control and Prevention. Clinical Guidance for Wound Management to Prevent Tetanus　[リンク](https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html)（区分 GOV_US）
+- 出題基準：医学各論 ⅩⅢ-5-G-③（創傷、a）　コアカリ：PS-03-05-12 (id: Jkxir3g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-028&card_id=EV-028&version=a85d5667ec)　（版 `a85d5667ec`）
+
+**[ここまでの 2 件（EV-016〜EV-028）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EV-016%E3%80%9CEV-028&cards=EV-016%202fb5f9fb03%0AEV-028%20a85d5667ec)**
 
 ---
 
@@ -286,7 +326,17 @@
 - 出題基準：医学各論 ⅩⅢ-5-G-⑤（急性中毒、a）　コアカリ：PS-03-05-06 (id: Jkxnubo)；PS-03-05-07 (id: Jkxnubs)；PS-03-05-08 (id: Jkxnubw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-019&card_id=EV-019&version=5d09b4208a)　（版 `5d09b4208a`）
 
-**[ここまでの 1 件（EV-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EV-019&cards=EV-019%205d09b4208a)**
+### EV-029　下書き（出典の照合前）
+
+> 日本中毒情報センターへの問い合わせの集計では、5歳以下の小児の急性中毒事故は1999年から2008年の10年間に268,784件（年2万5千件以上、1日平均70件以上）寄せられ、人口当たりの件数では成人（20〜64歳）の70倍以上であった。原因物質は家庭用品等が75.8%を占め、医療用医薬品12.6%、一般用医薬品10.1%、自然毒1.2%、農薬0.3%と続いた。曝露経路は誤飲・誤食が95.7%と大半を占め、皮膚についた・触った2.2%、吸い込んだ1.2%、目に入った0.9%であった。問い合わせの多い家庭用品は、たばこ（31,939件）が最多で、乾燥剤・鮮度保持剤、芳香剤・消臭剤・脱臭剤、石けん、ピレスロイド含有殺虫剤、保冷剤が続いた。医療機関での診療が必要な事例や実際に受診した事例は2割以上を占めた。
+
+- 条件：region: 日本／対象: 5歳以下の小児の急性中毒事故
+- 不確実性：数値は日本中毒情報センターへの電話問い合わせの集計であり、実際の発生件数そのものではない。原因物質・曝露経路の割合は同資料の図1-1・図1-2から、品目別の件数は表1から読み取った。対象期間は1999〜2008年と古く、加熱式たばこ等の新しい製品の動向は含まれない。同資料には65歳以上の高齢者についても1996〜2009年に19,128件の問い合わせがあり原因の約7割が家庭用品等であったことが示されているが、本カードの内訳数値は5歳以下に限った。
+- 出典：消費者庁. 視聴覚資料「家庭用品等による中毒事故を防ぐために」指導者用解説書（平成21・22年度消費者庁委託業務に基づき作成。日本中毒情報センターの集積データによる）　[リンク](https://www.caa.go.jp/policies/policy/consumer_safety/other/information_005/pdf/120511kouhyou_2.pdf)（区分 GOV_JP）
+- 出題基準：医学各論 ⅩⅢ-5-G-⑤（急性中毒、a）　コアカリ：PS-03-05-06 (id: Jkxnubo)；PS-03-05-07 (id: Jkxnubs)；PS-03-05-08 (id: Jkxnubw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-029&card_id=EV-029&version=c43d09da49)　（版 `c43d09da49`）
+
+**[ここまでの 2 件（EV-019〜EV-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EV-019%E3%80%9CEV-029&cards=EV-019%205d09b4208a%0AEV-029%20c43d09da49)**
 
 ---
 
@@ -334,7 +384,17 @@
 - 出題基準：医学各論 ⅩⅢ-5-I-①（交通事故、a）　コアカリ：SO-01-05-01 (id: JkxoNtw)；PS-03-05-12 (id: Jkxir3g)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-022&card_id=EV-022&version=b05685dbd2)　（版 `b05685dbd2`）
 
-**[ここまでの 1 件（EV-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EV-022&cards=EV-022%20b05685dbd2)**
+### EV-030　下書き（出典の照合前）
+
+> 令和7年の交通事故死者（2,547人）を状態別にみると、歩行中が867人で最も多く、うち65歳以上が608人（70.1%）を占めた。自転車乗用中は301人で、うち65歳以上が197人であった。歩行中死者の約6割には法令違反があり、高齢の歩行中死者では横断中が442人（72.7%）と大半を占め、そのうち横断歩道以外の横断が283人であった。飲酒運転（第1当事者が一般原付以上の事故）による死亡事故は125件で、飲酒運転の場合の死亡事故率は飲酒なしの場合の約7.1倍であった。
+
+- 条件：region: 日本／対象: 交通事故の発生状況（状態別・要因別の内訳）
+- 不確実性：状態別・飲酒運転の数値は警察庁「令和7年における交通事故の発生状況について」の図表から読み取った（歩行中・自転車乗用中の年齢内訳を含む）。発生件数・死者数・負傷者数の総数は EV-022 が担う。自動車乗車中・二輪車乗車中の死者数は、同資料の図からの読み取りが確実でなかったため本カードには含めていない。
+- 出典：警察庁. 令和7年中の交通事故発生状況について／内閣府. 交通安全白書（令和8年版）（区分 GOV_JP）
+- 出題基準：医学各論 ⅩⅢ-5-I-①（交通事故、a）　コアカリ：SO-01-05-01 (id: JkxoNtw)；PS-03-05-12 (id: Jkxir3g)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-030&card_id=EV-030&version=7633c4a573)　（版 `7633c4a573`）
+
+**[ここまでの 2 件（EV-022〜EV-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EV-022%E3%80%9CEV-030&cards=EV-022%20b05685dbd2%0AEV-030%207633c4a573)**
 
 ---
 
@@ -366,7 +426,17 @@
 - 出題基準：医学各論 ⅩⅢ-5-I-③（自然災害、a）　コアカリ：SO-01-05-01 (id: JkxoNtw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-024&card_id=EV-024&version=982a93a0bd)　（版 `982a93a0bd`）
 
-**[ここまでの 1 件（EV-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EV-024&cards=EV-024%20982a93a0bd)**
+### EV-031　下書き（出典の照合前）
+
+> 災害関連死とは、当該災害による負傷の悪化又は避難生活等における身体的負担による疾病により死亡し、災害弔慰金の支給等に関する法律に基づき災害が原因で死亡したものと認められたものをいい、認定は市町村が行う。平成28年熊本地震では、死者270人のうち215人がこの災害関連死として認められたもので、警察が検視により確認した死者50人を大きく上回った（平成31年3月時点）。認定事例には、避難中の車内での疲労による心疾患、避難所生活に伴う肺炎、エコノミークラス症候群の疑い、栄養障害や持病の悪化などが含まれる。災害関連死を減らすため、避難所の生活環境の改善（簡易ベッド・簡易台所などの設備の整備）が市町村の取組として進められ、国は被災者の命に関わる生活必需品等のプッシュ型支援を行う。災害時の保健医療福祉の体制としては、災害派遣医療チーム（DMAT）、災害派遣精神医療チーム（DPAT）、災害支援ナース、災害派遣福祉チーム（DWAT）などの派遣チームの体制整備や、都道府県の保健医療福祉調整本部への支援、災害時保健医療福祉活動支援システム（D24H）による情報の統合が進められている。
+
+- 条件：region: 日本／対象: 災害時の健康被害と保健医療福祉体制
+- 不確実性：本カードは公的資料2件の併記を出典とする（SRC-4137 と同様の方式）。災害関連死の定義・認定の仕組み・熊本地震の内訳は「災害関連死について」で、保健医療福祉の体制は防災白書（令和8年版）第3部の施策記載で確認した。熊本地震の数値は平成31年3月13日発表の熊本県の被害状況（第288報）に基づく当時の値であり、その後の認定の進展で関連死の認定数はさらに増えている。能登半島地震の災害関連死の最新認定数や東日本大震災の震災関連死の総数は本カードの出典では確認していないため含めていない。避難所の健康管理の具体策は内閣府「避難所における良好な生活環境の確保に向けた取組指針」が別に示す。
+- 出典：内閣府. 防災白書（令和8年版）／内閣府政策統括官（防災担当）付参事官（被災者行政担当）付. 災害関連死について　[リンク](https://www.bousai.go.jp/taisaku/kyuujo/pdf/r01kaigi/siryo8.pdf)（区分 GOV_JP）
+- 出題基準：医学各論 ⅩⅢ-5-I-③（自然災害、a）　コアカリ：SO-01-05-01 (id: JkxoNtw)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-031&card_id=EV-031&version=e7c6f4df11)　（版 `e7c6f4df11`）
+
+**[ここまでの 2 件（EV-024〜EV-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EV-024%E3%80%9CEV-031&cards=EV-024%20982a93a0bd%0AEV-031%20e7c6f4df11)**
 
 ---
 

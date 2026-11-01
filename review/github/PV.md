@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 31 件のうち、監修済み 0 件。
+全 32 件のうち、監修済み 0 件。
 
 ## 心原性肺水腫
 
@@ -373,6 +373,22 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-031&card_id=PV-031&version=d3c35698ce)　（版 `d3c35698ce`）
 
 **[ここまでの 3 件（PV-029〜PV-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PV-029%E3%80%9CPV-031&cards=PV-029%20b258167bc7%0APV-030%20801841d36f%0APV-031%20d3c35698ce)**
+
+---
+
+## 左心系疾患に伴う肺高血圧症
+
+### PV-032　下書き（出典の照合前）
+
+> 左心系疾患に伴う肺高血圧症（臨床分類の第2群）は毛細血管後性で、血行動態の定義は平均肺動脈圧20 mmHg超かつ肺動脈楔入圧15 mmHg超であり、肺血管抵抗2 Wood単位以下を孤立性毛細血管後性、2 Wood単位を超える場合を混合性毛細血管後性として区別する。管理の基本は基礎にある左心疾患の治療を最適化することであり（推奨クラスI、エビデンスレベルA）、肺動脈性肺高血圧症に承認された薬剤は本群には推奨されない（クラスIII、レベルA）。
+
+- 条件：region: 国際／対象: 左心系疾患に伴う肺高血圧症の成人
+- 不確実性：閾値（平均肺動脈圧・肺動脈楔入圧・肺血管抵抗）と推奨クラスは ESC/ERS 2022 ガイドライン本文（第8章の定義と推奨表22A）から読み取り。PV-020 が「楔入圧・肺血管抵抗の閾値は本文で確認してからカードを追加する」としていた血行動態の定義を本カードで補った。薬剤について、主張は肺動脈性肺高血圧症の承認薬というクラス単位の記述で個別の薬剤名は含まない。これらの薬剤は国内では肺動脈性肺高血圧症（第1群）に承認されており、左心系疾患に伴う肺高血圧症（第2群）への適応はない。心不全そのものの治療内容は循環器のカードが担う。
+- 出典：Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879　[DOI 10.1183/13993003.00879-2022](https://doi.org/10.1183/13993003.00879-2022)　[PMID 36028254](https://pubmed.ncbi.nlm.nih.gov/36028254/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-5-C-①（左心系疾患に伴う肺高血圧症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-032&card_id=PV-032&version=bd54c90f6d)　（版 `bd54c90f6d`）
+
+**[ここまでの 1 件（PV-032）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PV-032&cards=PV-032%20bd54c90f6d)**
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 7 件のうち、監修済み 0 件。
+全 9 件のうち、監修済み 0 件。
 
 ## クラミジア肺炎
 
@@ -16,7 +16,17 @@
 - 出題基準：医学各論 Ⅻ-2-A-①（クラミジア肺炎、a）　コアカリ：PS-01-03-06 (id: JkxnuLQ)；PS-03-03-01 (id: JkxnuUg)；TBL-01-00-592 (id: JlvnmXc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CM-001&card_id=CM-001&version=16417962ec)　（版 `16417962ec`）
 
-**[ここまでの 1 件（CM-001）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20CM-001&cards=CM-001%2016417962ec)**
+### CM-008　下書き（出典の照合前）
+
+> Chlamydophila pneumoniae 感染症の診断は、鼻咽頭検体の培養、血清抗体価の測定、分子生物学的手法によるが、結果は発症や治療開始の時点から遅れて得られることが多く、正確で標準化された迅速診断法は確立していない。治療の第一選択はエリスロマイシン、テトラサイクリン、ドキシサイクリンであり、北米のガイドラインは急性の C. pneumoniae 呼吸器感染症への抗菌薬治療を推奨している。ただし非定型病原体による市中肺炎への治療が転帰を改善するかについては否定的な報告もある。
+
+- 条件：region: 国際／対象: 一般
+- 不確実性：エリスロマイシン、テトラサイクリン、ドキシサイクリンはいずれも国内で承認された抗菌薬である。ドキシサイクリンは国内の添付文書でクラミジア属を適応菌種に含み肺炎への適応があることを PMDA の資料で確認した。他の2剤の適応菌種の範囲は製剤ごとの添付文書による。出典は2010年の総説で、主張は抄録で確認した範囲に限った。集団発生の側面は抄録では確認できず、主張に入れていない。
+- 出典：Burillo A, Bouza E. Chlamydophila pneumoniae. Infect Dis Clin North Am. 2010;24(1):61-71　[DOI 10.1016/j.idc.2009.10.002](https://doi.org/10.1016/j.idc.2009.10.002)　[PMID 20171546](https://pubmed.ncbi.nlm.nih.gov/20171546/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅻ-2-A-①（クラミジア肺炎、a）　コアカリ：PS-01-03-06 (id: JkxnuLQ)；PS-03-03-01 (id: JkxnuUg)；TBL-01-00-592 (id: JlvnmXc)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CM-008&card_id=CM-008&version=c5a9ef74e7)　（版 `c5a9ef74e7`）
+
+**[ここまでの 2 件（CM-001〜CM-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20CM-001%E3%80%9CCM-008&cards=CM-001%2016417962ec%0ACM-008%20c5a9ef74e7)**
 
 ---
 
@@ -32,7 +42,17 @@
 - 出題基準：医学各論 Ⅻ-2-A-③（マイコプラズマ肺炎、a）　コアカリ：PS-01-03-06 (id: JkxnuLQ)；PS-03-03-04 (id: JkxnuUs)；TBL-01-00-592 (id: JlvnmXc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CM-002&card_id=CM-002&version=d663a50ddc)　（版 `d663a50ddc`）
 
-**[ここまでの 1 件（CM-002）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20CM-002&cards=CM-002%20d663a50ddc)**
+### CM-009　下書き（出典の照合前）
+
+> 肺炎マイコプラズマ感染症は学童期から青年期に多く、最も多い病像は気管気管支炎で、乾性咳嗽や粘液性の痰を伴う咳嗽が数週間にわたり遷延することが特徴である。潜伏期は約3週間と長く、家庭内など濃厚接触の場で緩やかに広がる。中枢神経系をはじめとする肺外症状を伴うことがある。診断は核酸増幅検査が中心的な方法で、血清診断では発症後2週間以上あけて採取したペア血清で4倍以上の抗体価上昇が最も確実であり、単一検体では偽陰性・偽陽性がありうる。治療はマクロライド系抗菌薬が第一選択で、マクロライド耐性や無効例ではテトラサイクリン系（ミノサイクリン、ドキシサイクリン）やフルオロキノロン系（レボフロキサシンなど）が代替薬となる。
+
+- 条件：region: 国際／対象: 一般
+- 不確実性：ミノサイクリンとレボフロキサシンは、国内の添付文書で肺炎マイコプラズマ（マイコプラズマ・ニューモニエ）を適応菌種に含み肺炎への適応があることを PMDA の添付文書で確認した。同じテトラサイクリン系でもドキシサイクリンは国内の添付文書の適応菌種にマイコプラズマを含まないため、本症への使用は適応外となる。マクロライド耐性率は地域と時期で大きく異なり、日本の耐性率の推移そのものは既存カード CM-002 が担う。
+- 出典：Waites KB, Xiao L, Liu Y, Balish MF, Atkinson TP. Mycoplasma pneumoniae from the Respiratory Tract and Beyond. Clin Microbiol Rev. 2017;30(3):747-809　[DOI 10.1128/CMR.00114-16](https://doi.org/10.1128/CMR.00114-16)　[PMID 28539503](https://pubmed.ncbi.nlm.nih.gov/28539503/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅻ-2-A-③（マイコプラズマ肺炎、a）　コアカリ：PS-01-03-06 (id: JkxnuLQ)；PS-03-03-04 (id: JkxnuUs)；TBL-01-00-592 (id: JlvnmXc)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CM-009&card_id=CM-009&version=b982368cb8)　（版 `b982368cb8`）
+
+**[ここまでの 2 件（CM-002〜CM-009）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20CM-002%E3%80%9CCM-009&cards=CM-002%20d663a50ddc%0ACM-009%20b982368cb8)**
 
 ---
 

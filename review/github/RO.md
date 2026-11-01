@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 41 件のうち、監修済み 0 件。
+全 44 件のうち、監修済み 0 件。
 
 ## 慢性閉塞性肺疾患
 
@@ -323,7 +323,17 @@
 - 出題基準：医学各論 Ⅳ-2-A-①（気管支拡張症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-234 (id: Jlvnl0U)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-028&card_id=RO-028&version=bb82c4d2ed)　（版 `bb82c4d2ed`）
 
-**[ここまでの 1 件（RO-028）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-028&cards=RO-028%20bb82c4d2ed)**
+### RO-042　下書き（出典の照合前）
+
+> 気管支拡張症は、気管支の永続的な拡張と、それに伴う特徴的な臨床症候群によって定義され、診断は高分解能CTで拡張した気管支を確認することによる。背景となる病態は幅広く、感染、免疫異常、自己免疫・アレルギー性の病態、遺伝性疾患などが関わりうる。欧州呼吸器学会（ERS）の2025年ガイドラインは、新規に診断されたすべての患者について、血清免疫グロブリン（IgG・IgM・IgA）の測定による免疫不全の検索、アレルギー性気管支肺アスペルギルス症の検索（総IgE、アスペルギルス特異的IgG・IgE、血中好酸球数）、非結核性抗酸菌の検索（抗酸菌の顕微鏡検査と培養）を行うことを示している。
+
+- 条件：region: 欧州／対象: 成人
+- 不確実性：定義・原因・診断に絞り、治療の推奨は既存の RO-028 が担う。内容は ERJ のガイドライン本文ページと学会の臨床サマリーで確認した。特発性の症例が占める割合などの数値は二次的な解説で見られたものであるため、主張に含めていない。出典のライセンス表示は既存登録（SRC-378）のとおり未確認である
+- 出典：Chalmers JD, Haworth CS, Flume P, et al. European Respiratory Society Clinical Practice Guideline for the Management of Adult Bronchiectasis (2025)　[DOI 10.1183/13993003.01126-2025](https://doi.org/10.1183/13993003.01126-2025)（区分 UNKNOWN）
+- 出題基準：医学各論 Ⅳ-2-A-①（気管支拡張症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-234 (id: Jlvnl0U)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-042&card_id=RO-042&version=ad2ccb6bc6)　（版 `ad2ccb6bc6`）
+
+**[ここまでの 2 件（RO-028〜RO-042）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-028%E3%80%9CRO-042&cards=RO-028%20bb82c4d2ed%0ARO-042%20ad2ccb6bc6)**
 
 ---
 
@@ -366,7 +376,17 @@
 - 出題基準：医学各論 Ⅳ-2-A-③（閉塞性細気管支炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-031&card_id=RO-031&version=9c5d57be24)　（版 `9c5d57be24`）
 
-**[ここまでの 1 件（RO-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-031&cards=RO-031%209c5d57be24)**
+### RO-043　下書き（出典の照合前）
+
+> 閉塞性細気管支炎（狭窄性細気管支炎）は、細気管支の線維化による狭窄・閉塞で閉塞性換気障害を来す病態である。原因は多様で、有毒ガスの吸入（二酸化窒素によるサイロ充填者肺が古典的とされる）、薬剤、呼吸器感染の後遺症（アデノウイルス感染後など）、膠原病、同種造血幹細胞移植や肺移植後の合併症（閉塞性細気管支炎症候群）などがある。進行性の呼吸困難と咳嗽を呈し、胸部X線は正常か非特異的な所見にとどまることが多い。診断では呼気相の高分解能CTが重要で、モザイク状の低吸収域と血管影の減少、呼気相で強調されるエアトラッピングが特徴的である。多くの場合、副腎皮質ステロイドへの反応に乏しく進行性で、気流制限が進めば呼吸不全に至る。移植後の症例では免疫抑制の増強がしばしば無効で、再移植の検討が必要になることがある。
+
+- 条件：対象: 成人
+- 不確実性：原因は分類の水準で記し、個別の薬剤名は主張に入れていない。副腎皮質ステロイドと免疫抑制薬への言及は、国内で承認のある薬剤の分類名による経過・反応性の記述であり、治療の推奨ではない。既存の RO-031 は用語集による定義のみで原因別の記述を含まないため、本カードは総説に基づき原因・病像・診断・経過を補う
+- 出典：Ryu JH, Myers JL, Swensen SJ. Bronchiolar disorders. Am J Respir Crit Care Med. 2003;168(11):1277-1292　[DOI 10.1164/rccm.200301-053SO](https://doi.org/10.1164/rccm.200301-053SO)　[PMID 14644923](https://pubmed.ncbi.nlm.nih.gov/14644923/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-2-A-③（閉塞性細気管支炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-043&card_id=RO-043&version=684983d420)　（版 `684983d420`）
+
+**[ここまでの 2 件（RO-031〜RO-043）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-031%E3%80%9CRO-043&cards=RO-031%209c5d57be24%0ARO-043%20684983d420)**
 
 ---
 
@@ -408,7 +428,17 @@
 - 出題基準：医学各論 Ⅳ-2-B-①（気腫性囊胞<ブラ、ブレブ>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-216 (id: JlvnlyM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-034&card_id=RO-034&version=04558b388d)　（版 `04558b388d`）
 
-**[ここまでの 1 件（RO-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-034&cards=RO-034%2004558b388d)**
+### RO-044　下書き（出典の照合前）
+
+> ブレブは、臓側胸膜の内・外弾性板の間に空気が入って生じる胸膜の膨らみで、通常は直径1 cm未満である。ブラは、壁の厚さが1 mm以下の薄い壁で明瞭に境された、直径1 cmを超える含気腔である。原発性自然気胸は、既知の肺疾患のない若年者に典型的に起こり、胸膜直下のブレブやブラの破裂によって空気が胸腔内に漏れることが原因と考えられている。
+
+- 条件：対象: 成人
+- 不確実性：定義と気胸との関係は本文（2.4節）で確認した。同論文は、ブレブやブラが破裂していない状態で見つかることも多く、胸膜の多孔性（pleural porosity）という別の機序も紹介しているため、破裂が確立した唯一の機序ではない。既存の RO-034 は巨大ブラと気胸との鑑別や外科治療を担い、本カードは定義の区別と原発性自然気胸との関係に絞った
+- 出典：Hallifax R. Aetiology of Primary Spontaneous Pneumothorax. J Clin Med. 2022;11(3):490　[DOI 10.3390/jcm11030490](https://doi.org/10.3390/jcm11030490)　[PMID 35159942](https://pubmed.ncbi.nlm.nih.gov/35159942/)（区分 OPEN）
+- 出題基準：医学各論 Ⅳ-2-B-①（気腫性囊胞<ブラ、ブレブ>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-216 (id: JlvnlyM)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-044&card_id=RO-044&version=e18f2c5f22)　（版 `e18f2c5f22`）
+
+**[ここまでの 2 件（RO-034〜RO-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RO-034%E3%80%9CRO-044&cards=RO-034%2004558b388d%0ARO-044%20e18f2c5f22)**
 
 ---
 

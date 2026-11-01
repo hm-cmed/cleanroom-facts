@@ -1910,3 +1910,38 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+- id: LC-055
+  domain: LC
+  subdomain: 悪性リンパ腫
+  assertion:
+    plain_statement_ja: 縦隔原発のリンパ腫の代表は、胸腺に発生する原発性縦隔（胸腺）大細胞型B細胞リンパ腫と古典的Hodgkinリンパ腫である。原発性縦隔大細胞型B細胞リンパ腫はびまん性大細胞型B細胞リンパ腫の亜型で非Hodgkinリンパ腫の約5%を占め、若年成人（発症年齢の中央値30〜40歳）に多く、女性が男性の約2倍である。前縦隔上部の大きな腫瘤として現れ、局所浸潤・圧迫による呼吸困難、咳嗽、胸痛、嚥下困難、嗄声や、上大静脈症候群をはじめとする静脈閉塞の症状を生じ、胸水や心囊水を伴うことがある。結節硬化型の古典的Hodgkinリンパ腫との鑑別が問題となり、両者の中間的な像を示すものは縦隔グレイゾーンリンパ腫とされる。診断は組織の採取（生検）と免疫組織化学による。
+    condition:
+      region: 国際
+      対象: 縦隔腫瘤を呈する若年成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4892
+    source: 'Hutchinson CB, Wang E. Primary mediastinal (thymic) large B-cell lymphoma: a short review with brief discussion of mediastinal gray zone lymphoma. Arch Pathol Lab Med. 2011;135(3):394-398'
+    doi: 10.5858/2009-0463-RSR.1
+    pmid: '21366467'
+    pmcid: null
+    url: https://doi.org/10.5858/2009-0463-RSR.1
+    source_license: College of American Pathologists（Archives of Pathology & Laboratory Medicine、CC 表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 臨床像（若年発症、女性優位、圧迫症状の内訳）は総説本文に基づく。非Hodgkinリンパ腫に占める割合（約5%）は本総説の記載で、他の資料では2〜4%とするものもある。書誌・PMID・DOI は PubMed レコードで確認し、DOI は他論文の参考文献の表記とも一致した。治療（化学療法のレジメンなど）は本カードでは扱わず、悪性リンパ腫の他のカードが担う。個別の薬剤名は主張に含まない。
+  curriculum:
+    kokushi: 医学各論 Ⅳ-6-C-①（悪性リンパ腫、a）
+    core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-646 (id: JlvnmcY)'
+  publication_info:
+    created: '2026-11-01'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-01'
+    by: claude-code
+    change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）

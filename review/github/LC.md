@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-01
 
-全 54 件のうち、監修済み 0 件。
+全 55 件のうち、監修済み 0 件。
 
 ## 肺癌
 
@@ -649,6 +649,22 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-052&card_id=LC-052&version=f06a4fa878)　（版 `f06a4fa878`）
 
 **[ここまでの 2 件（LC-039〜LC-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LC-039%E3%80%9CLC-052&cards=LC-039%20f5e4d4788b%0ALC-052%20f06a4fa878)**
+
+---
+
+## 悪性リンパ腫
+
+### LC-055　下書き（出典の照合前）
+
+> 縦隔原発のリンパ腫の代表は、胸腺に発生する原発性縦隔（胸腺）大細胞型B細胞リンパ腫と古典的Hodgkinリンパ腫である。原発性縦隔大細胞型B細胞リンパ腫はびまん性大細胞型B細胞リンパ腫の亜型で非Hodgkinリンパ腫の約5%を占め、若年成人（発症年齢の中央値30〜40歳）に多く、女性が男性の約2倍である。前縦隔上部の大きな腫瘤として現れ、局所浸潤・圧迫による呼吸困難、咳嗽、胸痛、嚥下困難、嗄声や、上大静脈症候群をはじめとする静脈閉塞の症状を生じ、胸水や心囊水を伴うことがある。結節硬化型の古典的Hodgkinリンパ腫との鑑別が問題となり、両者の中間的な像を示すものは縦隔グレイゾーンリンパ腫とされる。診断は組織の採取（生検）と免疫組織化学による。
+
+- 条件：region: 国際／対象: 縦隔腫瘤を呈する若年成人
+- 不確実性：臨床像（若年発症、女性優位、圧迫症状の内訳）は総説本文に基づく。非Hodgkinリンパ腫に占める割合（約5%）は本総説の記載で、他の資料では2〜4%とするものもある。書誌・PMID・DOI は PubMed レコードで確認し、DOI は他論文の参考文献の表記とも一致した。治療（化学療法のレジメンなど）は本カードでは扱わず、悪性リンパ腫の他のカードが担う。個別の薬剤名は主張に含まない。
+- 出典：Hutchinson CB, Wang E. Primary mediastinal (thymic) large B-cell lymphoma: a short review with brief discussion of mediastinal gray zone lymphoma. Arch Pathol Lab Med. 2011;135(3):394-398　[DOI 10.5858/2009-0463-RSR.1](https://doi.org/10.5858/2009-0463-RSR.1)　[PMID 21366467](https://pubmed.ncbi.nlm.nih.gov/21366467/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅳ-6-C-①（悪性リンパ腫、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-646 (id: JlvnmcY)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-055&card_id=LC-055&version=a2bc3bfcf4)　（版 `a2bc3bfcf4`）
+
+**[ここまでの 1 件（LC-055）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LC-055&cards=LC-055%20a2bc3bfcf4)**
 
 ---
 
