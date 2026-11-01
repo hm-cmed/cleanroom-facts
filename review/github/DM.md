@@ -591,12 +591,12 @@
 > 乳糖不耐症は、小腸で乳糖を分解するラクターゼが不足して乳糖の消化吸収ができない状態（乳糖吸収不良）がある人に、乳糖の摂取後に腹痛、腹部膨満、下痢などの腹部症状が現れるものをいう。症状の出やすさは、摂取した乳糖の量、ラクターゼの発現量、腸内細菌叢によって変わる。成人のラクターゼ活性の持続は、LCT遺伝子の-13910位のCからTへの多型と関連する。ラクターゼ欠乏には一次性のもののほか、感染などによる小腸粘膜の障害で起こる二次性のものがある。診断には遺伝子検査、内視鏡的検査、生理学的検査が用いられ、管理は低乳糖食とラクターゼ製剤の補充が中心である。
 
 - 条件：region: 欧州／study: 総説
-- 不確実性：本カードは抄録で確認できた範囲に基づく。呼気試験など個別の診断法の判定基準の数値は、抄録の範囲では確認できなかったため書いていない。ラクターゼ製剤の国内承認・保険適用は未確認である。
+- 不確実性：本カードは抄録で確認できた範囲に基づく。呼気試験など個別の診断法の判定基準の数値は、抄録の範囲では確認できなかったため書いていない。ラクターゼ製剤の国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】β-ガラクトシダーゼ製剤（ガランターゼ散50％、承認1971年／ミルラクト細粒）は医療用医薬品として承認・保険適用あり。ただし効能は「乳児の乳糖不耐による消化不良の改善」と「経管栄養食等摂取時の乳糖不耐による下痢の改善」で、成人の原発性乳糖不耐症そのものは表示の範囲外（PMDA添付文書、承認番号22000AMX02150）
 - 出典：Misselwitz B, Butter M, Verbeke K, Fox MR. Update on lactose malabsorption and intolerance: pathogenesis, diagnosis and clinical management. Gut. 2019;68(11):2080-2091.　[DOI 10.1136/gutjnl-2019-318404](https://doi.org/10.1136/gutjnl-2019-318404)　[PMID 31427404](https://pubmed.ncbi.nlm.nih.gov/31427404/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-6-E-①（乳糖分解酵素障害症<乳糖不耐症>、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-038&card_id=DM-038&version=4fd0c29619)　（版 `4fd0c29619`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-038&card_id=DM-038&version=b4cc7fab82)　（版 `b4cc7fab82`）
 
-**[ここまでの 1 件（DM-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DM-038&cards=DM-038%204fd0c29619)**
+**[ここまでの 1 件（DM-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DM-038&cards=DM-038%20b4cc7fab82)**
 
 ---
 

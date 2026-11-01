@@ -717,12 +717,12 @@
 > 悪性症候群は、抗精神病薬などのドパミン遮断に伴う稀な薬物有害反応であり、発熱、筋強剛、自律神経症状、横紋筋融解（CK上昇）を呈する。治療の第一は原因薬の中止と支持療法であり、ダントロレンやブロモクリプチンなどの薬物療法が併用されることがある。
 
 - 条件：population: 抗精神病薬等のドパミン遮断薬を使用中の患者／region: 国際
-- 不確実性：頻度と死亡率は抄録で確認（文献集計に基づく値）。鑑別すべきセロトニン症候群では、クローヌス（誘発性・自発性・眼球）と反射亢進が診断の中核徴候となる（Dunkley EJ, et al. QJM. 2003;96(9):635-642、Hunter Serotonin Toxicity Criteria。出典表には未収載）点が、鉛管様の筋強剛を呈する悪性症候群と異なる。ダントロレン、ブロモクリプチンはいずれも国内承認薬だが、悪性症候群への使用は適応外の場合があり保険適用の詳細は添付文書による。
+- 不確実性：頻度と死亡率は抄録で確認（文献集計に基づく値）。鑑別すべきセロトニン症候群では、クローヌス（誘発性・自発性・眼球）と反射亢進が診断の中核徴候となる（Dunkley EJ, et al. QJM. 2003;96(9):635-642、Hunter Serotonin Toxicity Criteria。出典表には未収載）点が、鉛管様の筋強剛を呈する悪性症候群と異なる。ダントロレン、ブロモクリプチンはいずれも国内承認薬だが、悪性症候群への使用は適応外の場合があり保険適用の詳細は添付文書による。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ダントロレン（ダントリウム静注用・カプセル）は効能・効果に悪性症候群を明記しており、同症への使用は適応内である。一方、ブロモクリプチンには悪性症候群の国内適応はない（厚労省『重篤副作用疾患別対応マニュアル』に「我が国での適応はない」と明記）。「いずれも適応外の場合があり」という注記はダントロレンについては失効しており、2剤を分けて書き直す必要がある。
 - 出典：Pileggi DJ, Cook AM. Neuroleptic Malignant Syndrome. Ann Pharmacother. 2016　[DOI 10.1177/1060028016657553](https://doi.org/10.1177/1060028016657553)　[PMID 27423483](https://pubmed.ncbi.nlm.nih.gov/27423483/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅸ-4-I-③（悪性症候群、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-056&card_id=ND-056&version=64082b6db0)　（版 `64082b6db0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-056&card_id=ND-056&version=d8bf635eea)　（版 `d8bf635eea`）
 
-**[ここまでの 1 件（ND-056）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-056&cards=ND-056%2064082b6db0)**
+**[ここまでの 1 件（ND-056）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-056&cards=ND-056%20d8bf635eea)**
 
 ---
 

@@ -54,7 +54,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: 追跡期間中央値25.2か月時点の結果である。ニボルマブ、イピリムマブ、スニチニブの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。
+  uncertainty: 追跡期間中央値25.2か月時点の結果である。ニボルマブ、イピリムマブ、スニチニブの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ニボルマブ＋イピリムマブ併用療法は化学療法未治療の進行腎細胞癌に対して2018年8月に承認され、スニチニブも腎細胞癌の適応で承認・保険適用あり（PMDA最適使用推進ガイドライン、承認時資料）。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-656 (id: JlvnmdY)'
     kokushi: 医学各論 Ⅷ-6-A-①（腎細胞癌、a）
@@ -68,6 +68,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: GU-003
   domain: GU
   subdomain: 腎細胞癌
@@ -124,7 +127,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: 欧州のガイドラインの推奨文に基づく記述である。リスク分類の具体的な判定項目と数値閾値はガイドライン本文の表から読み取る必要があるため本カードには含めていない。プラチナ製剤とニボルマブの国内の承認・保険適用は未確認である。
+  uncertainty: 欧州のガイドラインの推奨文に基づく記述である。リスク分類の具体的な判定項目と数値閾値はガイドライン本文の表から読み取る必要があるため本カードには含めていない。プラチナ製剤とニボルマブの国内の承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ニボルマブは「尿路上皮癌における術後補助療法」を2022年3月28日に国内承認（腎盂・尿管原発を含む）。根治切除不能な尿路上皮癌への併用療法も2024年12月27日に承認。プラチナ製剤は標準の承認薬（PMDA承認情報、2026-10-31確認）
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-657 (id: Jlvnmdg)'
     kokushi: 医学各論 Ⅷ-6-A-②（腎盂・尿管癌、a）
@@ -138,6 +141,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: GU-005
   domain: GU
   subdomain: 腎盂・尿管癌
@@ -159,7 +165,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: 術後補助化学療法の成績であり、術前化学療法の成績ではない。ゲムシタビン、シスプラチン、カルボプラチンの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。
+  uncertainty: 術後補助化学療法の成績であり、術前化学療法の成績ではない。ゲムシタビン、シスプラチン、カルボプラチンの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ゲムシタビン（ジェムザール）は尿路上皮癌の効能・効果を有する承認薬であり、シスプラチン・カルボプラチンも長期承認済み。「承認・保険適用は未確認」は解消できる
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-657 (id: Jlvnmdg)'
     kokushi: 医学各論 Ⅷ-6-A-②（腎盂・尿管癌、a）
@@ -173,6 +179,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: GU-006
   domain: GU
   subdomain: 膀胱癌
@@ -229,7 +238,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: MVAC療法の各薬剤の国内の承認・保険適用は未確認である。ゲムシタビンとシスプラチンの併用など現在のレジメンとの直接比較は本試験の範囲外である。
+  uncertainty: MVAC療法の各薬剤の国内の承認・保険適用は未確認である。ゲムシタビンとシスプラチンの併用など現在のレジメンとの直接比較は本試験の範囲外である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】MVAC療法（メトトレキサート、ビンブラスチン、ドキソルビシン、シスプラチン）は膀胱癌・尿路上皮癌の標準治療として保険診療で実施されている（国立がん研究センター系・大学病院の公開資料。個別薬剤の効能記載は製剤により異なる点に留意）。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-657 (id: Jlvnmdg)'
     kokushi: 医学各論 Ⅷ-6-B-①（膀胱癌、a）
@@ -243,6 +252,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: GU-008
   domain: GU
   subdomain: 膀胱癌
@@ -509,7 +521,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: アビラテロンとプレドニゾンの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。対象は新規診断の高リスク転移性去勢感受性前立腺癌に限られる。
+  uncertainty: アビラテロンとプレドニゾンの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。対象は新規診断の高リスク転移性去勢感受性前立腺癌に限られる。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アビラテロン（ザイティガ）は2014年に去勢抵抗性前立腺癌で承認され、その後適応が拡大している。併用のプレドニゾン（プレドニゾロン）も承認薬。「未確認」は解消できる
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-658 (id: Jlvnmdk)'
     kokushi: 医学各論 Ⅷ-6-C-②（前立腺癌、a）
@@ -523,6 +535,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: GU-016
   domain: GU
   subdomain: 前立腺癌
@@ -544,7 +559,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: エンザルタミドの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。数値は中間解析（データカットオフ時点）を含む結果である。
+  uncertainty: エンザルタミドの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。数値は中間解析（データカットオフ時点）を含む結果である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】エンザルタミド（イクスタンジ）は2014-03-24に去勢抵抗性前立腺癌で承認され、その後「遠隔転移を有する前立腺癌」も追加され（2020年、PMDA審査報告書）、承認・保険適用あり。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-658 (id: Jlvnmdk)'
     kokushi: 医学各論 Ⅷ-6-C-②（前立腺癌、a）
@@ -558,6 +573,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: GU-017
   domain: GU
   subdomain: 前立腺癌
@@ -614,7 +632,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: 上部尿路原発は登録全体の約2割に制限された試験であり、上部尿路原発のみでの効果量は限定的である。ニボルマブの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。
+  uncertainty: 上部尿路原発は登録全体の約2割に制限された試験であり、上部尿路原発のみでの効果量は限定的である。ニボルマブの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】GU-004と同じ：ニボルマブの尿路上皮癌術後補助療法は2022年3月28日に国内承認済み（PMDA承認情報、2026-10-31確認）
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-657 (id: Jlvnmdg)'
     kokushi: 医学各論 Ⅷ-6-B-①（膀胱癌、a）
@@ -628,6 +646,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: GU-019
   domain: GU
   subdomain: セミノーマの治療

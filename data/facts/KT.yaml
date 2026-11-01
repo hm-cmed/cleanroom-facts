@@ -661,7 +661,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: 出典本文では、原因遺伝子が同定できるのは全体の70〜80%程度とされ、残りは原因未同定がありうる。アルカリ療法に用いる製剤の国内の承認・保険適用は本調査では確認していない（国内の適応は未確認）。
+  uncertainty: 出典本文では、原因遺伝子が同定できるのは全体の70〜80%程度とされ、残りは原因未同定がありうる。アルカリ療法に用いる製剤の国内の承認・保険適用は本調査では確認していない（国内の適応は未確認）。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アルカリ療法に用いる炭酸水素ナトリウム、クエン酸カリウム・クエン酸ナトリウム配合剤はいずれも承認薬で、アシドーシスの改善・尿アルカリ化等の適応で保険適用がある。ただし遠位型尿細管性アシドーシスそのものを効能・効果に掲げる製剤はない（各添付文書）。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-329 (id: Jlvnl-A)；TBL-02-08-005 (id: JlAKpmM)；TBL-02-08-006 (id: JlAKpmQ)'
     kokushi: 医学各論 Ⅷ-2-C-①（尿細管性アシドーシス、b）
@@ -675,6 +675,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: KT-020
   domain: KT
   subdomain: 近位型尿細管性アシドーシス
@@ -696,7 +699,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: 原因薬として挙げたイホスファミド、バルプロ酸、テノホビルなどの国内の承認・保険適用の状況は、本調査では個別に確認していない（国内の適応は未確認）。
+  uncertainty: 原因薬として挙げたイホスファミド、バルプロ酸、テノホビルなどの国内の承認・保険適用の状況は、本調査では個別に確認していない（国内の適応は未確認）。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】原因薬として挙げられたイホスファミド・バルプロ酸・テノホビルはいずれも国内承認薬である（PMDA添付文書情報、2026-10-31確認）
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-329 (id: Jlvnl-A)；TBL-02-08-005 (id: JlAKpmM)；TBL-02-08-006 (id: JlAKpmQ)'
     kokushi: 医学各論 Ⅷ-2-C-①（尿細管性アシドーシス、b）
@@ -710,6 +713,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: KT-021
   domain: KT
   subdomain: Fanconi症候群
@@ -731,7 +737,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: システアミンの国内の承認・保険適用は本調査では確認していない（国内の適応は未確認）。後天性Fanconi症候群（薬剤性など）の細目は本カードの出典の範囲外である。
+  uncertainty: システアミンの国内の承認・保険適用は本調査では確認していない（国内の適応は未確認）。後天性Fanconi症候群（薬剤性など）の細目は本カードの出典の範囲外である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】システアミン（ニシスタゴンカプセル）は2014年7月4日に腎性シスチン症で承認され保険適用がある（点眼剤シスタドロップスも2024年3月26日に承認）。「国内の適応は未確認」は失効
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-02-08-005 (id: JlAKpmM)'
     kokushi: null
@@ -745,6 +751,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: KT-022
   domain: KT
   subdomain: シスチン尿症
@@ -766,7 +775,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: 結石予防に用いる薬剤の国内の承認・保険適用は本調査では確認していない（国内の適応は未確認）。有病率などの疫学数値は資料により差があるため、本カードには記載していない。
+  uncertainty: 結石予防に用いる薬剤の国内の承認・保険適用は本調査では確認していない（国内の適応は未確認）。有病率などの疫学数値は資料により差があるため、本カードには記載していない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】チオプロニン（チオラ錠100）の効能・効果に「シスチン尿症」が含まれており（2002-07-05承認、PMDA再審査資料）、結石予防に承認・保険適用あり。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-02-08-005 (id: JlAKpmM)'
     kokushi: 医学各論 Ⅷ-2-C-②（シスチン尿症、b）
@@ -780,6 +789,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: KT-023
   domain: KT
   subdomain: 腎性尿崩症
@@ -801,7 +813,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: 原因薬として挙げたリチウム製剤の国内の承認・保険適用は、本調査では確認していない（国内の適応は未確認）。水制限試験などの診断手順の数値基準は本カードには記載していない。
+  uncertainty: 原因薬として挙げたリチウム製剤の国内の承認・保険適用は、本調査では確認していない（国内の適応は未確認）。水制限試験などの診断手順の数値基準は本カードには記載していない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】炭酸リチウムは躁病・躁うつ病の躁状態の適応で国内承認済み（PMDA添付文書情報、2026-10-31確認）
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-02-08-005 (id: JlAKpmM)'
     kokushi: 医学各論 Ⅷ-2-C-③（腎性尿崩症、c）
@@ -815,6 +827,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: KT-024
   domain: KT
   subdomain: 腎性尿崩症

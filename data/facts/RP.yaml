@@ -734,7 +734,7 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
-  uncertainty: 本出典は PCOS による無排卵を中心に扱っており、視床下部性や高プロラクチン血症など他の排卵障害の分類の詳細は本文で確認していないため、主張は PCOS 中心の範囲に限った。排卵誘発薬の国内承認・保険適用は未確認である。
+  uncertainty: 本出典は PCOS による無排卵を中心に扱っており、視床下部性や高プロラクチン血症など他の排卵障害の分類の詳細は本文で確認していないため、主張は PCOS 中心の範囲に限った。排卵誘発薬の国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】2022年4月から一般不妊治療・生殖補助医療が保険適用となり、排卵誘発薬（クロミフェンクエン酸塩は公知申請で「生殖補助医療における調節卵巣刺激」を追加、HMG・FSH製剤等）も薬事承認の範囲で保険適用となった（こども家庭庁・厚労省資料、日本生殖医学会の保険適用情報）。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)'
     kokushi: 医学各論 Ⅷ-8-D-③（無排卵、b）
@@ -748,6 +748,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: RP-022
   domain: RP
   subdomain: 多嚢胞性卵巣症候群
@@ -807,7 +810,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: レトロゾールは排卵誘発の目的では多くの国で適応外使用とされており、日本での承認・保険適用の状況は本調査では未確認である。クロミフェン、メトホルミン、ゴナドトロピン製剤についても、国内の承認・保険適用は未確認である。
+  uncertainty: レトロゾールは排卵誘発の目的では多くの国で適応外使用とされており、日本での承認・保険適用の状況は本調査では未確認である。クロミフェン、メトホルミン、ゴナドトロピン製剤についても、国内の承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】レトロゾールは公知申請で「生殖補助医療における調節卵巣刺激」を2022年2月25日に承認取得し、「多嚢胞性卵巣症候群における排卵誘発」等は2022年4月1日から保険適用（現在は添付文書の効能に収載）。メトホルミンも公知申請で2022年9月に同領域の効能が追加承認され保険適用あり（肥満・耐糖能異常・インスリン抵抗性のいずれかを呈する患者に限る）。クロミフェン・ゴナドトロピン製剤も承認・保険適用あり（厚生労働省公知申請資料・PMDA添付文書、2026-10-31確認）
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)'
     kokushi: 医学各論 Ⅷ-8-D-⑥（多囊胞性卵巣症候群<PCOS>、b）
@@ -821,6 +824,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: RP-024
   domain: RP
   subdomain: 早発卵巣不全
@@ -912,7 +918,7 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
-  uncertainty: 個別の診断法（子宮内膜生検やプロゲステロン値の閾値など）の評価は抄録で確認した範囲を超えるため、主張には含めていない。プロゲステロン製剤を用いる場合の国内承認・保険適用は未確認である。
+  uncertainty: 個別の診断法（子宮内膜生検やプロゲステロン値の閾値など）の評価は抄録で確認した範囲を超えるため、主張には含めていない。プロゲステロン製剤を用いる場合の国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】プロゲステロン製剤は生殖補助医療における黄体補充等の適応で保険適用がある（ウトロゲスタン腟用カプセル200mgは2022-04-01から保険適用、日本生殖医学会の保険適用情報）。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)'
     kokushi: 医学各論 Ⅷ-8-D-④（黄体機能不全、b）
@@ -926,6 +932,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: RP-027
   domain: RP
   subdomain: 卵胞発育障害
@@ -947,7 +956,7 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
-  uncertainty: 本出典は PCOS に伴う卵胞発育障害が中心であり、早発卵巣不全や視床下部性の卵胞発育障害は対象外である。排卵誘発薬やゴナドトロピン製剤の国内承認・保険適用は未確認である。
+  uncertainty: 本出典は PCOS に伴う卵胞発育障害が中心であり、早発卵巣不全や視床下部性の卵胞発育障害は対象外である。排卵誘発薬やゴナドトロピン製剤の国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】排卵誘発薬・ゴナドトロピン製剤は承認・保険適用あり。hCG製剤等の効能に無排卵症・一般不妊治療における排卵誘発が含まれ、不妊治療の保険適用拡大（2022年4月1日）で生殖補助医療の適応も追加された（PMDA審査報告書・厚生労働省通知、2026-10-31確認）
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；骨盤内臓器と腫瘍の画像診断 TBL-02-09-023 (id: JlAKppY)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)'
     kokushi: 医学各論 Ⅷ-8-E-①（女性不妊症、a）
@@ -961,6 +970,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: RP-028
   domain: RP
   subdomain: 子宮内膜因子
@@ -1227,7 +1239,7 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
-  uncertainty: レビューの対象は、腔外の3cm未満の筋腫を除き既知の子宮病変のない過多月経であり、器質的疾患がある場合は適応が異なる。国内での子宮内膜アブレーションの実施状況や保険適用は未確認である。
+  uncertainty: レビューの対象は、腔外の3cm未満の筋腫を除き既知の子宮病変のない過多月経であり、器質的疾患がある場合は適応が異なる。国内での子宮内膜アブレーションの実施状況や保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】子宮内膜アブレーションは2012年4月に保険収載され（K863-3 子宮鏡下子宮内膜焼灼術、マイクロ波子宮内膜アブレーションを含む）、過多月経に対して保険診療で実施されている（マイクロ波手術研究会の実施要項、診療報酬資料）。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)'
     kokushi: null
@@ -1241,6 +1253,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: RP-036
   domain: RP
   subdomain: 性分化疾患
@@ -1297,7 +1312,7 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
-  uncertainty: レトロゾールの排卵誘発目的での国内承認・保険適用は未確認であり、国内では適応外使用となる可能性がある（取り込み側で添付文書・PMDA の確認が必要）。クロミフェンの国内承認状況も未確認である。対象は PCOS に限られ、他の原因による排卵障害へそのまま一般化はできない。
+  uncertainty: レトロゾールの排卵誘発目的での国内承認・保険適用は未確認であり、国内では適応外使用となる可能性がある（取り込み側で添付文書・PMDA の確認が必要）。クロミフェンの国内承認状況も未確認である。対象は PCOS に限られ、他の原因による排卵障害へそのまま一般化はできない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】レトロゾールはRP-023のとおり2022年に承認・保険適用済み。クロミフェンも排卵障害に基づく不妊症の適応で承認済み（厚生労働省公知申請資料・PMDA添付文書、2026-10-31確認）
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)'
     kokushi: 医学各論 Ⅷ-8-D-③（無排卵、b）
@@ -1311,6 +1326,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: RP-038
   domain: RP
   subdomain: 女性不妊総論
@@ -1402,7 +1420,7 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
-  uncertainty: 甲状腺ホルモン製剤や抗甲状腺薬の国内承認・保険適用は未確認である。TSH などの基準値や、自己免疫性甲状腺疾患と不妊治療成績の関係の数値は、確認した範囲を超えるため主張には含めていない。
+  uncertainty: 甲状腺ホルモン製剤や抗甲状腺薬の国内承認・保険適用は未確認である。TSH などの基準値や、自己免疫性甲状腺疾患と不妊治療成績の関係の数値は、確認した範囲を超えるため主張には含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】レボチロキシン（チラーヂンS）、チアマゾール（メルカゾール）、プロピルチオウラシル（プロパジール）はいずれも長期に承認されている医薬品。「未確認」は解消できる
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)'
     kokushi: null
@@ -1416,6 +1434,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: RP-041
   domain: RP
   subdomain: 避妊法の総論

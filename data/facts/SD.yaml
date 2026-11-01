@@ -358,7 +358,7 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
-  uncertainty: 主張は出典の抄録で確認できた範囲に限定した。本カードは皮膚病変と病態を扱い、関節病変の詳細は扱わない。患者数は抄録の「世界で約1億2,500万人」という記載に基づく。本カードで触れた生物学的製剤の個別薬剤の国内承認・保険適用は未確認。
+  uncertainty: 主張は出典の抄録で確認できた範囲に限定した。本カードは皮膚病変と病態を扱い、関節病変の詳細は扱わない。患者数は抄録の「世界で約1億2,500万人」という記載に基づく。本カードで触れた生物学的製剤の個別薬剤の国内承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】乾癬の生物学的製剤（セクキヌマブ、イキセキズマブ、グセルクマブ、リサンキズマブ、ウステキヌマブ等）は尋常性乾癬等の適応で承認済み。「未確認」は解消できる
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-082 (id: Jlvnlio)'
     kokushi: 医学各論 Ⅲ-3-D-①（乾癬、a）
@@ -372,6 +372,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: SD-012
   domain: SD
   subdomain: 乾癬
@@ -1038,7 +1041,7 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
-  uncertainty: 数値は出典の抄録に記載された統合リスク比である。ムピロシンやフシジン酸など個別の外用薬の国内の承認・保険適用は未確認である。広範囲な膿痂疹で外用と経口のどちらが優れるかは出典でも結論が出ていない。
+  uncertainty: 数値は出典の抄録に記載された統合リスク比である。ムピロシンやフシジン酸など個別の外用薬の国内の承認・保険適用は未確認である。広範囲な膿痂疹で外用と経口のどちらが優れるかは出典でも結論が出ていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ムピロシン（バクトロバン）、フシジン酸（フシジンレオ）はいずれも伝染性膿痂疹を含む適応で承認済み。「未確認」は解消できる
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-085 (id: JlvnljA)'
     kokushi: 医学各論 Ⅲ-3-J-⑤（伝染性膿痂疹、a）
@@ -1052,6 +1055,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: SD-032
   domain: SD
   subdomain: ブドウ球菌性熱傷様皮膚症候群
@@ -1313,7 +1319,7 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
-  uncertainty: 出典は DOI が付与されていない（PubMed レコードで確認）。テルビナフィンなど個別薬剤の国内の承認・保険適用は未確認である。カンジダ症の治療の詳細は出典の主対象の範囲外のため含めていない。
+  uncertainty: 出典は DOI が付与されていない（PubMed レコードで確認）。テルビナフィンなど個別薬剤の国内の承認・保険適用は未確認である。カンジダ症の治療の詳細は出典の主対象の範囲外のため含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】テルビナフィンは白癬（爪白癬を含む）の適応で国内承認・保険収載済み（PMDA添付文書情報、2026-10-31確認）
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-092 (id: Jlvnljw)'
     kokushi: 医学各論 Ⅲ-3-L-①（白癬、カンジダ症、a）
@@ -1327,6 +1333,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: SD-040
   domain: SD
   subdomain: 癜風
@@ -1347,7 +1356,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: 個別の抗真菌薬の国内の承認・保険適用は未確認である。色素異常が治癒後も残る期間などの詳細は出典の抄録の範囲を超えるため含めていない。
+  uncertainty: 個別の抗真菌薬の国内の承認・保険適用は未確認である。色素異常が治癒後も残る期間などの詳細は出典の抄録の範囲を超えるため含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】癜風に用いる外用抗真菌薬（ケトコナゾール、テルビナフィン、ルリコナゾール等）は承認済み。「未確認」は解消できる
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-092 (id: Jlvnljw)'
     kokushi: 医学各論 Ⅲ-3-L-②（癜風、b）
@@ -1361,6 +1370,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: SD-041
   domain: SD
   subdomain: スポロトリコーシス
@@ -1381,7 +1393,7 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
-  uncertainty: イトラコナゾールの国内の承認・保険適用は未確認である。用量と投与期間は出典の抄録に記載がなく含めていない。ネコを介する流行はブラジルでの報告が中心であり、日本の疫学とは限らない。
+  uncertainty: イトラコナゾールの国内の承認・保険適用は未確認である。用量と投与期間は出典の抄録に記載がなく含めていない。ネコを介する流行はブラジルでの報告が中心であり、日本の疫学とは限らない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】イトラコナゾールの効能・効果に深在性皮膚真菌症（スポロトリコーシス、クロモミコーシス）が含まれており、承認・保険適用あり（PMDA添付文書）。
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)'
     kokushi: 医学各論 Ⅲ-3-L-③（スポロトリコーシス、b）
@@ -1395,6 +1407,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: SD-042
   domain: SD
   subdomain: 疥癬
@@ -1483,7 +1498,7 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
-  uncertainty: 本カードは総説の抄録で確認できる範囲の定性的な記述に限った。治療に用いられる抗ウイルス薬（アシクロビル、バラシクロビル等）の国内の承認・保険適用は未確認である。
+  uncertainty: 本カードは総説の抄録で確認できる範囲の定性的な記述に限った。治療に用いられる抗ウイルス薬（アシクロビル、バラシクロビル等）の国内の承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アシクロビル・バラシクロビルは単純ヘルペスの適応で国内承認・保険収載済み（PMDA添付文書情報、2026-10-31確認）
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-096 (id: JlvnlkE)'
     kokushi: 医学各論 Ⅲ-3-N-①（単純ヘルペス、a）
@@ -1497,6 +1512,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: SD-045
   domain: SD
   subdomain: カポジ水痘様発疹症
@@ -1586,7 +1604,7 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
-  uncertainty: 本ガイドラインは米国における痤瘡の管理を対象としており、本文に名前の出る薬剤（イソトレチノイン、ドキシサイクリン、過酸化ベンゾイル、外用レチノイド等）の国内の承認・保険適用は未確認である。酒皶様皮膚炎は本ガイドラインの対象外のため、その部分は定義的な記述に限った。
+  uncertainty: 本ガイドラインは米国における痤瘡の管理を対象としており、本文に名前の出る薬剤（イソトレチノイン、ドキシサイクリン、過酸化ベンゾイル、外用レチノイド等）の国内の承認・保険適用は未確認である。酒皶様皮膚炎は本ガイドラインの対象外のため、その部分は定義的な記述に限った。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ドキシサイクリン、過酸化ベンゾイル（2015年承認）、外用レチノイド（アダパレンは2008年承認等）は痤瘡等の適応で承認済み。一方、イソトレチノインは国内未承認のままで、注記のこの部分は現行どおり
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-110 (id: Jlvnll4)；TBL-01-00-111 (id: JlvnlmA)'
     kokushi: 医学各論 Ⅲ-3-O-①（尋常性痤瘡、酒皶様皮膚炎、a）
@@ -1600,6 +1618,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: SD-048
   domain: SD
   subdomain: 円形脱毛症

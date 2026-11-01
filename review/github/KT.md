@@ -293,12 +293,12 @@
 > 原発性遠位型尿細管性アシドーシスは、集合管のA型介在細胞の障害により尿の酸性化が進まないために生じ、全身の代謝性アシドーシスがあるにもかかわらず尿pHを十分に下げることができない。高塩素血症と正常のアニオンギャップを伴い、高カルシウム尿、低クエン酸尿、腎石灰化、腎結石、成長遅延、くる病を来しうる。原因遺伝子は、水素イオンATPaseのサブユニットをコードするATP6V1B1とATP6V0A4、および陰イオン交換体AE1をコードするSLC4A1で、治療には早期からの十分な量のアルカリ投与が必要である。
 
 - 条件：region: 日本／study: 日本の著者による総説（原発性遠位型が対象）
-- 不確実性：出典本文では、原因遺伝子が同定できるのは全体の70〜80%程度とされ、残りは原因未同定がありうる。アルカリ療法に用いる製剤の国内の承認・保険適用は本調査では確認していない（国内の適応は未確認）。
+- 不確実性：出典本文では、原因遺伝子が同定できるのは全体の70〜80%程度とされ、残りは原因未同定がありうる。アルカリ療法に用いる製剤の国内の承認・保険適用は本調査では確認していない（国内の適応は未確認）。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アルカリ療法に用いる炭酸水素ナトリウム、クエン酸カリウム・クエン酸ナトリウム配合剤はいずれも承認薬で、アシドーシスの改善・尿アルカリ化等の適応で保険適用がある。ただし遠位型尿細管性アシドーシスそのものを効能・効果に掲げる製剤はない（各添付文書）。
 - 出典：Watanabe T. Improving outcomes for patients with distal renal tubular acidosis: recent advances and challenges ahead. Pediatric Health Med Ther. 2018;9:181-190　[DOI 10.2147/PHMT.S174459](https://doi.org/10.2147/PHMT.S174459)　[PMID 30588151](https://pubmed.ncbi.nlm.nih.gov/30588151/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-2-C-①（尿細管性アシドーシス、b）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-329 (id: Jlvnl-A)；TBL-02-08-005 (id: JlAKpmM)；TBL-02-08-006 (id: JlAKpmQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-019&card_id=KT-019&version=e4c57e64a4)　（版 `e4c57e64a4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-019&card_id=KT-019&version=9f8ba90ea3)　（版 `9f8ba90ea3`）
 
-**[ここまでの 1 件（KT-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-019&cards=KT-019%20e4c57e64a4)**
+**[ここまでの 1 件（KT-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-019&cards=KT-019%209f8ba90ea3)**
 
 ---
 
@@ -309,12 +309,12 @@
 > 近位型尿細管性アシドーシスは、近位尿細管での重炭酸再吸収の障害により、尿中へ重炭酸が喪失する病態である。重炭酸だけの単独の輸送障害はまれで、多くはリン酸、尿酸、糖、アミノ酸、低分子量蛋白も失うFanconi症候群に伴う。遺伝性は常染色体潜性遺伝が多く、基底膜側のナトリウム重炭酸共輸送体NBCe1の変異と関連する。後天性では薬剤性が最も多く、イホスファミド、バルプロ酸、テノホビルなどが、Fanconi症候群を伴う近位型の原因として報告されている。
 
 - 条件：region: 国際／study: 2012年の総説
-- 不確実性：原因薬として挙げたイホスファミド、バルプロ酸、テノホビルなどの国内の承認・保険適用の状況は、本調査では個別に確認していない（国内の適応は未確認）。
+- 不確実性：原因薬として挙げたイホスファミド、バルプロ酸、テノホビルなどの国内の承認・保険適用の状況は、本調査では個別に確認していない（国内の適応は未確認）。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】原因薬として挙げられたイホスファミド・バルプロ酸・テノホビルはいずれも国内承認薬である（PMDA添付文書情報、2026-10-31確認）
 - 出典：Haque SK, Ariceta G, Batlle D. Proximal renal tubular acidosis: a not so rare disorder of multiple etiologies. Nephrol Dial Transplant. 2012;27(12):4273-4287　[DOI 10.1093/ndt/gfs493](https://doi.org/10.1093/ndt/gfs493)　[PMID 23235953](https://pubmed.ncbi.nlm.nih.gov/23235953/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-2-C-①（尿細管性アシドーシス、b）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-329 (id: Jlvnl-A)；TBL-02-08-005 (id: JlAKpmM)；TBL-02-08-006 (id: JlAKpmQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-020&card_id=KT-020&version=2be7bc7f03)　（版 `2be7bc7f03`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-020&card_id=KT-020&version=c5a2f3fb85)　（版 `c5a2f3fb85`）
 
-**[ここまでの 1 件（KT-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-020&cards=KT-020%202be7bc7f03)**
+**[ここまでの 1 件（KT-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-020&cards=KT-020%20c5a2f3fb85)**
 
 ---
 
@@ -325,12 +325,12 @@
 > Fanconi症候群は、近位尿細管の再吸収機能が全般に障害され、重炭酸、リン酸、糖、アミノ酸、低分子量蛋白などが尿中に失われる病態である。遺伝性Fanconi症候群の代表的な原因であるシスチノーシスは、リソソームのシスチン輸送体シスチノシンの欠損による常染色体潜性遺伝の蓄積症で、腎Fanconi症候群が生後1年以内に初発症状として現れることが多い。システアミン治療はリソソーム内のシスチンを減らして腎不全への進行を大きく遅らせるが、確立したFanconi症候群そのものは是正できない。
 
 - 条件：region: 国際／study: シスチノーシスに伴う腎Fanconi症候群に関する総説
-- 不確実性：システアミンの国内の承認・保険適用は本調査では確認していない（国内の適応は未確認）。後天性Fanconi症候群（薬剤性など）の細目は本カードの出典の範囲外である。
+- 不確実性：システアミンの国内の承認・保険適用は本調査では確認していない（国内の適応は未確認）。後天性Fanconi症候群（薬剤性など）の細目は本カードの出典の範囲外である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】システアミン（ニシスタゴンカプセル）は2014年7月4日に腎性シスチン症で承認され保険適用がある（点眼剤シスタドロップスも2024年3月26日に承認）。「国内の適応は未確認」は失効
 - 出典：Cherqui S, Courtoy PJ. The renal Fanconi syndrome in cystinosis: pathogenic insights and therapeutic perspectives. Nat Rev Nephrol. 2017;13(2):115-131　[DOI 10.1038/nrneph.2016.182](https://doi.org/10.1038/nrneph.2016.182)　[PMID 27990015](https://pubmed.ncbi.nlm.nih.gov/27990015/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-02-08-005 (id: JlAKpmM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-021&card_id=KT-021&version=82a9ee7ffb)　（版 `82a9ee7ffb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-021&card_id=KT-021&version=38f15b8e16)　（版 `38f15b8e16`）
 
-**[ここまでの 1 件（KT-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-021&cards=KT-021%2082a9ee7ffb)**
+**[ここまでの 1 件（KT-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-021&cards=KT-021%2038f15b8e16)**
 
 ---
 
@@ -341,12 +341,12 @@
 > シスチン尿症は、アミノ酸輸送系b0,+を構成するrBATとb0,+ATの2つのサブユニットをコードする遺伝子の変異による、原発性の遺伝性アミノ酸尿で、多くは常染色体潜性遺伝である。近位尿細管で濾過されたシスチンと二塩基性アミノ酸の再吸収が障害され、溶解度の低いシスチンが析出して結石を形成する。小児の腎結石の原因として一定の割合を占め、治療は再発するシスチン結石の予防を目的に行われる。
 
 - 条件：region: 国際／study: 2010年の総説
-- 不確実性：結石予防に用いる薬剤の国内の承認・保険適用は本調査では確認していない（国内の適応は未確認）。有病率などの疫学数値は資料により差があるため、本カードには記載していない。
+- 不確実性：結石予防に用いる薬剤の国内の承認・保険適用は本調査では確認していない（国内の適応は未確認）。有病率などの疫学数値は資料により差があるため、本カードには記載していない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】チオプロニン（チオラ錠100）の効能・効果に「シスチン尿症」が含まれており（2002-07-05承認、PMDA再審査資料）、結石予防に承認・保険適用あり。
 - 出典：Chillarón J, Font-Llitjós M, Fort J, Zorzano A, Goldfarb DS, Nunes V, Palacín M. Pathophysiology and treatment of cystinuria. Nat Rev Nephrol. 2010;6(7):424-434　[DOI 10.1038/nrneph.2010.69](https://doi.org/10.1038/nrneph.2010.69)　[PMID 20517292](https://pubmed.ncbi.nlm.nih.gov/20517292/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-2-C-②（シスチン尿症、b）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-02-08-005 (id: JlAKpmM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-022&card_id=KT-022&version=77c1151b07)　（版 `77c1151b07`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-022&card_id=KT-022&version=ae5e109660)　（版 `ae5e109660`）
 
-**[ここまでの 1 件（KT-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-022&cards=KT-022%2077c1151b07)**
+**[ここまでの 1 件（KT-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-022&cards=KT-022%20ae5e109660)**
 
 ---
 
@@ -357,10 +357,10 @@
 > 腎性尿崩症は、集合管がアルギニンバソプレシンに反応できず、アクアポリンを介した水の再吸収が実質的に欠けた状態になるため、尿を濃縮できず、希釈尿が持続的に多量に排泄される病態である。一次性は、バソプレシンV2受容体をコードするAVPR2と、水チャネルであるアクアポリン2をコードするAQP2の変異による。二次性は、生化学的な異常や閉塞性尿路障害、薬剤、とくにリチウムと関連する。治療の方針は、原因を同定することによって決まる。
 
 - 条件：region: 国際／study: 2015年の総説
-- 不確実性：原因薬として挙げたリチウム製剤の国内の承認・保険適用は、本調査では確認していない（国内の適応は未確認）。水制限試験などの診断手順の数値基準は本カードには記載していない。
+- 不確実性：原因薬として挙げたリチウム製剤の国内の承認・保険適用は、本調査では確認していない（国内の適応は未確認）。水制限試験などの診断手順の数値基準は本カードには記載していない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】炭酸リチウムは躁病・躁うつ病の躁状態の適応で国内承認済み（PMDA添付文書情報、2026-10-31確認）
 - 出典：Bockenhauer D, Bichet DG. Pathophysiology, diagnosis and management of nephrogenic diabetes insipidus. Nat Rev Nephrol. 2015;11(10):576-588　[DOI 10.1038/nrneph.2015.89](https://doi.org/10.1038/nrneph.2015.89)　[PMID 26077742](https://pubmed.ncbi.nlm.nih.gov/26077742/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-2-C-③（腎性尿崩症、c）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-02-08-005 (id: JlAKpmM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-023&card_id=KT-023&version=85533f2559)　（版 `85533f2559`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-023&card_id=KT-023&version=cb18e71546)　（版 `cb18e71546`）
 
 ### KT-024　下書き（出典の照合前）
 
@@ -372,7 +372,7 @@
 - 出題基準：医学各論 Ⅷ-2-C-③（腎性尿崩症、c）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-02-08-005 (id: JlAKpmM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KT-024&card_id=KT-024&version=b2147eedb0)　（版 `b2147eedb0`）
 
-**[ここまでの 2 件（KT-023〜KT-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-023%E3%80%9CKT-024&cards=KT-023%2085533f2559%0AKT-024%20b2147eedb0)**
+**[ここまでの 2 件（KT-023〜KT-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KT-023%E3%80%9CKT-024&cards=KT-023%20cb18e71546%0AKT-024%20b2147eedb0)**
 
 ---
 

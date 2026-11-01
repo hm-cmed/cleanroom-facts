@@ -363,12 +363,12 @@
 > 未熟児網膜症は、未熟な網膜組織に起こる病理過程であり、牽引性網膜剥離へと進展して、視力障害や失明の原因になる。重症の未熟児網膜症に対する有効な治療は30年以上前から存在するが、治療が効果を上げるためには、リスクのある早産児を適切な時期と間隔で連続的に検査し、破壊的になる前に変化を捉える必要がある。米国小児科学会の2018年改訂の政策声明は、初回検査と経過観察の時期を含む、効果的な検出プログラムの要件を示したものである
 
 - 条件：region: 米国／対象: 早産児
-- 不確実性：スクリーニング対象の具体的な基準値（出生体重・在胎週数の閾値）は本文の表で確認が必要なため主張に入れていない。日本のスクリーニング基準の原典文書は未確認である。治療の適応の詳細は本カードの範囲外だが、硝子体内抗VEGF薬のアフリベルセプトは未熟児網膜症の適応で2022年9月に国内承認されていることを出典リサーチで確認した（ラニビズマブの同じ適応での国内承認は未確認）
+- 不確実性：スクリーニング対象の具体的な基準値（出生体重・在胎週数の閾値）は本文の表で確認が必要なため主張に入れていない。日本のスクリーニング基準の原典文書は未確認である。治療の適応の詳細は本カードの範囲外だが、硝子体内抗VEGF薬のアフリベルセプトは未熟児網膜症の適応で2022年9月に国内承認されていることを出典リサーチで確認した（ラニビズマブの同じ適応での国内承認は未確認）　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ラニビズマブは未熟児網膜症の適応で2019年11月22日に国内承認済み（バイアル製剤、1回0.2mg。PMDA再審査報告書・承認情報）。「ラニビズマブの同じ適応での国内承認は未確認」は誤り。アフリベルセプトの2022年9月承認は注記どおり
 - 出典：Fierson WM; American Academy of Pediatrics Section on Ophthalmology; American Academy of Ophthalmology; American Association for Pediatric Ophthalmology and Strabismus; American Association of Certified Orthoptists. Screening Examination of Premature Infants for Retinopathy of Prematurity. Pediatrics. 2018;142(6):e20183061　[DOI 10.1542/peds.2018-3061](https://doi.org/10.1542/peds.2018-3061)　[PMID 30478242](https://pubmed.ncbi.nlm.nih.gov/30478242/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅰ-3-H-⑤（未熟児網膜症、b）　コアカリ：PS-02-12-02 (id: Jli53IY)；PS-02-12-04 (id: Jli53IM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-026&card_id=NB-026&version=a71f1eddb7)　（版 `a71f1eddb7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-026&card_id=NB-026&version=9ccbc47639)　（版 `9ccbc47639`）
 
-**[ここまでの 1 件（NB-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NB-026&cards=NB-026%20a71f1eddb7)**
+**[ここまでの 1 件（NB-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NB-026&cards=NB-026%209ccbc47639)**
 
 ---
 

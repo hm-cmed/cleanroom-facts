@@ -43,12 +43,12 @@
 > HIV 関連神経認知障害は、無症候性神経認知障害、軽度神経認知障害、HIV 関連認知症の 3 段階に分類され、抗レトロウイルス療法の時代にも軽症型が残存する。
 
 - 条件：population: HIV 感染症患者／region: 国際
-- 不確実性：本分類は研究用の操作的定義であり、臨床現場では他の認知症原因の除外を前提とする。 抗レトロウイルス薬の個別薬剤の国内承認・保険適用は未確認（本分類そのものは特定の薬剤に依存しない）。
+- 不確実性：本分類は研究用の操作的定義であり、臨床現場では他の認知症原因の除外を前提とする。 抗レトロウイルス薬の個別薬剤の国内承認・保険適用は未確認（本分類そのものは特定の薬剤に依存しない）。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】抗レトロウイルス薬はHIV感染症の適応で国内承認・保険収載済みの薬剤群である（PMDA添付文書情報、2026-10-31確認）
 - 出典：Antinori A, Arendt G, Becker JT, et al. Updated research nosology for HIV-associated neurocognitive disorders. Neurology. 2007;69(18):1789-1799　[DOI 10.1212/01.WNL.0000287431.88658.8b](https://doi.org/10.1212/01.WNL.0000287431.88658.8b)　[PMID 17914061](https://pubmed.ncbi.nlm.nih.gov/17914061/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅸ-3-A-④（AIDS認知症<HIV脳症>、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-003&card_id=NI-003&version=3d86ff3645)　（版 `3d86ff3645`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-003&card_id=NI-003&version=9fb0ce2136)　（版 `9fb0ce2136`）
 
-**[ここまでの 1 件（NI-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NI-003&cards=NI-003%203d86ff3645)**
+**[ここまでの 1 件（NI-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NI-003&cards=NI-003%209fb0ce2136)**
 
 ---
 

@@ -301,12 +301,12 @@
 > HIF-2α阻害薬ベルズチファンは、直ちに手術を要しない VHL 病関連の腎細胞癌、中枢神経系血管芽腫、膵神経内分泌腫瘍を有する成人患者を対象として、米国 FDA に承認された（2022年のデンマーク VHL ガイドライン時点）。
 
 - 条件：region: 米国／対象: VHL 病関連腫瘍を有する成人患者
-- 不確実性：国内では2025年6月に「フォン・ヒッペル・リンドウ病関連腫瘍」として承認された（販売名ウェリレグ錠40mg、一般名ベルズチファン。MSD の公表資料および添付文書で確認）。本カードの出典（2022年）の時点では国内未承認であった。（出典内の位置：抄録の治療に関する記述）
+- 不確実性：国内では2025年6月に「フォン・ヒッペル・リンドウ病関連腫瘍」として承認された（販売名ウェリレグ錠40mg、一般名ベルズチファン。MSD の公表資料および添付文書で確認）。本カードの出典（2022年）の時点では国内未承認であった。（出典内の位置：抄録の治療に関する記述）　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ウェリレグ錠40mg（ベルズチファン）が2025-06-24にフォン・ヒッペル・リンドウ病関連腫瘍等の効能で承認され、2025-08-14薬価収載、2025-08-18発売。「出典時点で国内未承認」という注記の前提は崩れた（PMDA医薬品情報、MSD発表2025-06-24）。
 - 出典：Binderup MLM, et al. von Hippel-Lindau disease: Updated guideline for diagnosis and surveillance. Eur J Med Genet. 2022;65(8):104538　[DOI 10.1016/j.ejmg.2022.104538](https://doi.org/10.1016/j.ejmg.2022.104538)　[PMID 35709961](https://pubmed.ncbi.nlm.nih.gov/35709961/)（区分 OPEN）
 - 出題基準：医学各論 Ⅸ-10-K-④（von Hippel-Lindau病、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AN-024&card_id=AN-024&version=97851e1450)　（版 `97851e1450`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AN-024&card_id=AN-024&version=dca6ecc71c)　（版 `dca6ecc71c`）
 
-**[ここまでの 2 件（AN-023〜AN-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AN-023%E3%80%9CAN-024&cards=AN-023%203ba0df61a7%0AAN-024%2097851e1450)**
+**[ここまでの 2 件（AN-023〜AN-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AN-023%E3%80%9CAN-024&cards=AN-023%203ba0df61a7%0AAN-024%20dca6ecc71c)**
 
 ---
 

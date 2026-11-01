@@ -11,12 +11,12 @@
 > 内分泌検査では、ホルモンは分泌調節（フィードバック）の中で対にして読むのが原則で、末梢ホルモンとその調節ホルモン（例：コルチゾールとACTH）を同時に見て、過剰か欠乏か、一次なのか中枢側なのかを判断する。基礎値だけでは決めにくいときは負荷試験を使い、欠乏が疑わしければ刺激試験で分泌予備能を、過剰が疑わしければ抑制試験でフィードバックが働くかを見る。解釈では採血の時刻（日内変動）、薬剤（例：デキサメタゾンの代謝を早めるCYP3A4誘導薬）や結合蛋白の変化による偽の結果に注意する。例として、クッシング症候群の低用量デキサメタゾン抑制試験では、48時間法の後にコルチゾールが1.8 µg/dL（50 nmol/L）を超えて抑制されなければ内因性クッシング症候群が示唆される。
 
 - 条件：region: 国際／study: 内分泌負荷試験の総説（副腎・性腺を中心に小児と成人を対象）
-- 不確実性：この出典は副腎と性腺の負荷試験が中心で、甲状腺や副甲状腺など他の軸の負荷試験の手順までは扱っていない。数値は出典の表に示された解釈基準を読み取ったもの。 本カードに名前の出る薬剤（デキサメタゾン等）の国内の承認・保険適用は未確認。
+- 不確実性：この出典は副腎と性腺の負荷試験が中心で、甲状腺や副甲状腺など他の軸の負荷試験の手順までは扱っていない。数値は出典の表に示された解釈基準を読み取ったもの。 本カードに名前の出る薬剤（デキサメタゾン等）の国内の承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】デキサメタゾンは国内承認薬であり、抑制試験等の負荷試験は保険診療で実施される標準的検査である（PMDA添付文書情報、2026-10-31確認）
 - 出典：Goyal A, Kubihal S, Gupta Y, Jyotsna VP, Khadgawat R. Dynamic Testing for Evaluation of Adrenal and Gonadal Function in Pediatric and Adult Endocrinology: An Overview. Indian J Endocrinol Metab. 2019;23(6):593-601　[DOI 10.4103/ijem.IJEM_553_19](https://doi.org/10.4103/ijem.IJEM_553_19)　[PMID 32042694](https://pubmed.ncbi.nlm.nih.gov/32042694/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-017 (id: JlAKps8)；TBL-02-13-018 (id: JlAKptA)；TBL-02-13-002 (id: JlAKpsA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-001&card_id=EX-001&version=d8a7cea79e)　（版 `d8a7cea79e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-001&card_id=EX-001&version=63f7402754)　（版 `63f7402754`）
 
-**[ここまでの 1 件（EX-001）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-001&cards=EX-001%20d8a7cea79e)**
+**[ここまでの 1 件（EX-001）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-001&cards=EX-001%2063f7402754)**
 
 ---
 
@@ -59,12 +59,12 @@
 > 体重増加の評価では、まず薬剤性（糖質コルチコイドなど）と生活習慣を確認し、内分泌の原因は手がかりのある場合に絞って調べる。甲状腺機能低下症による体重増加は軽度で、主にはむくみの分とされる。逆に、肥満そのものが原因で TSH が軽く上がることも多く、TSH の軽度上昇だけで甲状腺機能低下症を体重増加の原因と決めない。クッシング症候群は、中心性肥満や高血圧のような非特異的な所見ではなく、あざができやすい、顔の紅潮、近位筋力低下、赤紫色の皮膚線条といった特異的な所見があるときに疑う。
 
 - 条件：region: 国際／study: 成人の肥満の背景原因を探す診断アプローチの総説（2019年）
-- 不確実性：本文は PMC で公開されているが、CC ライセンスの表示を本文中で確認できなかったため source_class は UNKNOWN とした。対象は成人で、小児の二次性肥満の評価とは異なる。 本カードに名前の出る薬剤（糖質コルチコイド等）の国内の承認・保険適用は未確認。
+- 不確実性：本文は PMC で公開されているが、CC ライセンスの表示を本文中で確認できなかったため source_class は UNKNOWN とした。対象は成人で、小児の二次性肥満の評価とは異なる。 本カードに名前の出る薬剤（糖質コルチコイド等）の国内の承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】糖質コルチコイドは長期に承認されている医療用医薬品であり、「承認・保険適用は未確認」は解消できる
 - 出典：van der Valk ES, van den Akker ELT, Savas M, Kleinendorst L, Visser JA, Van Haelst MM, Sharma AM, van Rossum EFC. A comprehensive diagnostic approach to detect underlying causes of obesity in adults. Obes Rev. 2019;20(6):795-804　[DOI 10.1111/obr.12836](https://doi.org/10.1111/obr.12836)　[PMID 30821060](https://pubmed.ncbi.nlm.nih.gov/30821060/)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-14-02 (id: JkxnuS0)；TBL-02-13-011 (id: JlAKpsk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-004&card_id=EX-004&version=a41e37c003)　（版 `a41e37c003`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-004&card_id=EX-004&version=e0dd87d2b4)　（版 `e0dd87d2b4`）
 
-**[ここまでの 1 件（EX-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-004&cards=EX-004%20a41e37c003)**
+**[ここまでの 1 件（EX-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EX-004&cards=EX-004%20e0dd87d2b4)**
 
 ---
 

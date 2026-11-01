@@ -57,10 +57,10 @@
 > アレルギー性接触皮膚炎は、既に感作された個体がアレルゲンと接触することで起こるIV型の遅発型過敏反応であり、急性期には紅斑、浮腫、小水疱、びらんと強い瘙痒を伴う湿疹病変を呈し、アレルゲンが同定・除去されなければ慢性化して苔癬化する。アレルギー性と刺激性を合わせた接触皮膚炎は、職業性皮膚障害の約90%を占めるとされる。頻度の高いアレルゲンは、金属（特にニッケル）、香料、防腐剤（イソチアゾリノン類）、パラフェニレンジアミンなどである。治療の目標は、原因物質との接触回避と、外用または全身のコルチコステロイドによる炎症の制御である。
 
 - 条件：region: 国際／study: 総説（病態から治療まで）
-- 不確実性：薬剤（外用・全身コルチコステロイド）の国内承認・保険適用は未確認。約90%という数値は出典の抄録に基づく（アレルギー性と刺激性の合計としての記載）。
+- 不確実性：薬剤（外用・全身コルチコステロイド）の国内承認・保険適用は未確認。約90%という数値は出典の抄録に基づく（アレルギー性と刺激性の合計としての記載）。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】外用コルチコステロイドの効能・効果には湿疹・皮膚炎群（接触皮膚炎を含む）が含まれ、承認・保険収載済み（PMDA添付文書情報、2026-10-31確認）
 - 出典：Tramontana M, Hansel K, Bianchi L, Sensini C, et al. Advancing the understanding of allergic contact dermatitis: from pathophysiology to novel therapeutic approaches. Frontiers in Medicine. 2023;10:1184289.　[DOI 10.3389/fmed.2023.1184289](https://doi.org/10.3389/fmed.2023.1184289)　[PMID 37283623](https://pubmed.ncbi.nlm.nih.gov/37283623/)（区分 OPEN）
 - 出題基準：医学各論 Ⅲ-1-A-②（接触皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-065 (id: JlvnlgM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-005&card_id=SK-005&version=866dc66002)　（版 `866dc66002`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-005&card_id=SK-005&version=94d2d1e933)　（版 `94d2d1e933`）
 
 ### SK-006　下書き（出典の照合前）
 
@@ -72,7 +72,7 @@
 - 出題基準：医学各論 Ⅲ-1-A-②（接触皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-065 (id: JlvnlgM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-006&card_id=SK-006&version=05f7e940e0)　（版 `05f7e940e0`）
 
-**[ここまでの 2 件（SK-005〜SK-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-005%E3%80%9CSK-006&cards=SK-005%20866dc66002%0ASK-006%2005f7e940e0)**
+**[ここまでの 2 件（SK-005〜SK-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-005%E3%80%9CSK-006&cards=SK-005%2094d2d1e933%0ASK-006%2005f7e940e0)**
 
 ---
 
@@ -163,12 +163,12 @@
 > 慢性痒疹は、6週を超える慢性の瘙痒、繰り返す掻破、および掻破に伴う痒疹病変によって定義される神経炎症性・線維性の皮膚症であり、結節型（結節性痒疹）が最も多い亜型である。デュピルマブは、結節性痒疹に対して欧州医薬品庁（EMA）と米国食品医薬品局（FDA）で承認された最初の全身療法である。ネモリズマブをはじめとする生物学的製剤や小分子薬が、臨床試験で検討されている。
 
 - 条件：region: 国際／study: 総説（慢性痒疹の最新知見と治療）
-- 不確実性：薬剤（デュピルマブ、ネモリズマブなど）の国内承認・保険適用は未確認。デュピルマブの承認に関する記載は EMA と FDA におけるものであり、日本で結節性痒疹に適用があるかどうかは出典では確認していない。
+- 不確実性：薬剤（デュピルマブ、ネモリズマブなど）の国内承認・保険適用は未確認。デュピルマブの承認に関する記載は EMA と FDA におけるものであり、日本で結節性痒疹に適用があるかどうかは出典では確認していない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】デュピルマブ（デュピクセント）は2023年6月26日に「既存治療で効果不十分な結節性痒疹」の適応追加、ネモリズマブ（ミチーガ）は2024年3月26日に結節性痒疹（成人および13歳以上の小児）で承認済み
 - 出典：Müller S, Zeidler C, Ständer S. Chronic Prurigo Including Prurigo Nodularis: New Insights and Treatments. American Journal of Clinical Dermatology. 2024;25(1):15-33.　[DOI 10.1007/s40257-023-00818-z](https://doi.org/10.1007/s40257-023-00818-z)　[PMID 37717255](https://pubmed.ncbi.nlm.nih.gov/37717255/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-C-①（結節性痒疹、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-064 (id: Jlvnlmk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-014&card_id=SK-014&version=5ba3bc7a4b)　（版 `5ba3bc7a4b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-014&card_id=SK-014&version=f3727af6a0)　（版 `f3727af6a0`）
 
-**[ここまでの 1 件（SK-014）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-014&cards=SK-014%205ba3bc7a4b)**
+**[ここまでの 1 件（SK-014）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-014&cards=SK-014%20f3727af6a0)**
 
 ---
 
@@ -419,12 +419,12 @@
 > アトピー性皮膚炎の重要な合併症として、日本皮膚科学会の診断基準では、眼症状（白内障、網膜剝離など：とくに顔面の重症例）、伝染性軟属腫、伝染性膿痂疹、カポジ水痘様発疹症が挙げられている。診療ガイドライン2024では、主な眼合併症として眼瞼炎、角結膜炎、円錐角膜、白内障、緑内障、網膜剝離、細菌およびウイルス感染症等が示され（CQ6）、重症のアトピー性皮膚炎、特に顔面の皮疹が重症な症例では、適宜眼科医の診察を受けさせることが望ましいとしている。また、眼合併症の予防のためには、顔面、とくに眼囲の皮疹を早期に十分にコントロールすることが重要とされる。網膜剝離はステロイドの影響ではなく、眼を擦る・叩くといった物理的刺激と関連するとされる。
 
 - 条件：region: 日本／study: アトピー性皮膚炎診療ガイドライン2024（日本皮膚科学会・日本アレルギー学会）の診断基準表と CQ6 に基づく
-- 不確実性：本カードで触れるステロイドの国内の承認・保険適用は未確認。合併症の頻度の数値は、ガイドラインの該当箇所では確認できなかったため入れていない。内容の確認は日本語版ガイドライン2024の本文で行い、出典の書誌は英語版とした。
+- 不確実性：本カードで触れるステロイドの国内の承認・保険適用は未確認。合併症の頻度の数値は、ガイドラインの該当箇所では確認できなかったため入れていない。内容の確認は日本語版ガイドライン2024の本文で行い、出典の書誌は英語版とした。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アトピー性皮膚炎の合併症に触れるステロイド（外用・全身）はいずれも承認薬であり、「未確認」は解消できる
 - 出典：Saeki H, Ohya Y, Arakawa H, Ichiyama S, et al. English version of clinical practice guidelines for the management of atopic dermatitis 2024. The Journal of Dermatology. 2025;52(2):e70-e142.　[DOI 10.1111/1346-8138.17544](https://doi.org/10.1111/1346-8138.17544)　[PMID 39707640](https://pubmed.ncbi.nlm.nih.gov/39707640/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-A-①（アトピー性皮膚炎、a）；医学各論 Ⅺ-1-B-⑤（アトピー性皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-030&card_id=SK-030&version=f8362bac8d)　（版 `f8362bac8d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-030&card_id=SK-030&version=e865cee4c6)　（版 `e865cee4c6`）
 
-**[ここまでの 1 件（SK-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-030&cards=SK-030%20f8362bac8d)**
+**[ここまでの 1 件（SK-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SK-030&cards=SK-030%20e865cee4c6)**
 
 ---
 

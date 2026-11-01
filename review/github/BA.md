@@ -555,10 +555,10 @@
 > ボツリヌス症は神経毒素による生命を脅かす疾患で、毒素は神経筋接合部でアセチルコリンの放出を阻害する。産生菌は主に Clostridium botulinum（まれに C. baratii、C. butyricum）である。脳神経麻痺から始まる弛緩性の下降性麻痺を特徴とし、病型は食餌性、創傷性、乳児、成人腸管定着、医原性である。治療は支持療法（必要に応じ挿管・人工呼吸）と抗毒素投与である。
 
 - 条件：region: 米国／対象: 全年齢
-- 不確実性：ボツリヌス抗毒素の国内承認・備蓄については一次資料で確認できておらず、国内の承認・保険適用は未確認。
+- 不確実性：ボツリヌス抗毒素の国内承認・備蓄については一次資料で確認できておらず、国内の承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】乾燥ボツリヌスウマ抗毒素は承認薬（承認番号22100AMX02240）であり、国の備蓄品（国有ワクチン・抗毒素）として全国の拠点に備蓄され、医療機関から都道府県への依頼で供給される体制がある（PMDA製品情報・厚生労働省資料、2026-10-31確認）。「一次資料で確認できていない」は失効
 - 出典：Rao AK, Sobel J, Chatham-Stephens K, Luquez C. Clinical Guidelines for Diagnosis and Treatment of Botulism, 2021. MMWR Recomm Rep. 2021;70(2):1-30.　[DOI 10.15585/mmwr.rr7002a1](https://doi.org/10.15585/mmwr.rr7002a1)　[PMID 33956777](https://pubmed.ncbi.nlm.nih.gov/33956777/)（区分 GOV_US）
 - 出題基準：医学各論 Ⅻ-2-B-㉘（ボツリヌス症、b）　コアカリ：PS-01-03-03 (id: JkxnuLE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BA-041&card_id=BA-041&version=ae4ef17f57)　（版 `ae4ef17f57`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BA-041&card_id=BA-041&version=1ea699c062)　（版 `1ea699c062`）
 
 ### BA-042　下書き（出典の照合前）
 
@@ -570,7 +570,7 @@
 - 出題基準：医学各論 Ⅻ-2-B-㉘（ボツリヌス症、b）　コアカリ：PS-01-03-03 (id: JkxnuLE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BA-042&card_id=BA-042&version=51417a1d8a)　（版 `51417a1d8a`）
 
-**[ここまでの 2 件（BA-041〜BA-042）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BA-041%E3%80%9CBA-042&cards=BA-041%20ae4ef17f57%0ABA-042%2051417a1d8a)**
+**[ここまでの 2 件（BA-041〜BA-042）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BA-041%E3%80%9CBA-042&cards=BA-041%201ea699c062%0ABA-042%2051417a1d8a)**
 
 ---
 

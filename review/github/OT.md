@@ -127,10 +127,10 @@
 > 慢性化膿性中耳炎は、急性中耳炎に続発して鼓膜穿孔を通し中耳から持続的な耳漏が続く状態で、発展途上国を中心に予防可能な難聴の重要な原因である。診断は耳鏡で鼓膜穿孔と耳漏、中耳粘膜の変化を確認して行う。管理の目標は感染の根絶と鼓膜穿孔の閉鎖であり、耳処置（aural toilet）と点耳治療が基本となる。点耳キノロン薬は他の点耳抗菌薬より耳漏の消失に有効で、耳毒性の危険がないとされる。なお、小児の急性中耳炎の多くは2〜3か月で治癒するため、耳漏が2週間を超えただけでは本症と確定できない。
 
 - 条件：region: 全世界／study: WHOモノグラフ（公的資料）
-- 不確実性：出典は2004年のWHOモノグラフで、現在の各国の診療実態と異なる可能性がある。点耳キノロン薬の国内承認・保険適用は未確認。
+- 不確実性：出典は2004年のWHOモノグラフで、現在の各国の診療実態と異なる可能性がある。点耳キノロン薬の国内承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】点耳キノロン製剤（オフロキサシン点耳液等）は外耳炎・中耳炎の適応で承認され、保険適用がある（各添付文書の効能・効果）。
 - 出典：Acuin J. Chronic suppurative otitis media: burden of illness and management options. Geneva: World Health Organization; 2004. ISBN 92-4-159158-7.　[リンク](https://iris.who.int/handle/10665/42941)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅲ-7-C-③（慢性穿孔性<化膿性>中耳炎、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-501 (id: JlvnmO0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-012&card_id=OT-012&version=e47997523c)　（版 `e47997523c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-012&card_id=OT-012&version=b09e3c329a)　（版 `b09e3c329a`）
 
 ### OT-013　下書き（出典の照合前）
 
@@ -172,7 +172,7 @@
 - 出題基準：医学各論 Ⅲ-7-C-⑦（耳硬化症、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-503 (id: JlvnmPI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-016&card_id=OT-016&version=44dd10152b)　（版 `44dd10152b`）
 
-**[ここまでの 9 件（OT-008〜OT-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OT-008%E3%80%9COT-016&cards=OT-008%2051e96ed3b5%0AOT-009%20c19baaaba3%0AOT-010%20c9a8958d20%0AOT-011%20a4df300877%0AOT-012%20e47997523c%0AOT-013%205bf42eb2be%0AOT-014%2020b6684ae1%0AOT-015%20af414a0205%0AOT-016%2044dd10152b)**
+**[ここまでの 9 件（OT-008〜OT-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OT-008%E3%80%9COT-016&cards=OT-008%2051e96ed3b5%0AOT-009%20c19baaaba3%0AOT-010%20c9a8958d20%0AOT-011%20a4df300877%0AOT-012%20b09e3c329a%0AOT-013%205bf42eb2be%0AOT-014%2020b6684ae1%0AOT-015%20af414a0205%0AOT-016%2044dd10152b)**
 
 ---
 
@@ -223,10 +223,10 @@
 > 特発性突発性感音難聴の初期治療として、発症後2週間以内であれば副腎皮質ステロイドを提案してもよいとされる（選択肢）。ステロイドと併用する高気圧酸素療法は、発症後2週間以内の初期治療、または発症後1か月以内のサルベージ治療として提案してもよい。発症後2〜6週間で回復が不完全な患者には、鼓室内ステロイド療法を提案する。一方、抗ウイルス薬、血栓溶解薬、血管拡張薬、血管作動薬のルーチン投与は行わないことが強く推奨されている。
 
 - 条件：region: 米国／study: 診療ガイドライン
-- 不確実性：出典は米国の診療ガイドラインで、日本の突発性難聴の診断基準・治療実態との差異は確認していない。ステロイドなどの国内承認・保険適用は未確認（突発性難聴への適応を含む）。
+- 不確実性：出典は米国の診療ガイドラインで、日本の突発性難聴の診断基準・治療実態との差異は確認していない。ステロイドなどの国内承認・保険適用は未確認（突発性難聴への適応を含む）。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ステロイド製剤自体は承認薬であり「未確認」は解消できる。ただし突発性難聴への適応は添付文書の効能・効果に含まれず、その使用は適応外の位置づけが続く
 - 出典：Chandrasekhar SS, Tsai Do BS, Schwartz SR, Bontempo LJ, Faucett EA, Finestone SA, et al. Clinical Practice Guideline: Sudden Hearing Loss (Update). Otolaryngology–Head and Neck Surgery. 2019;161(1 Suppl):S1-S45.　[DOI 10.1177/0194599819859885](https://doi.org/10.1177/0194599819859885)　[PMID 31369359](https://pubmed.ncbi.nlm.nih.gov/31369359/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅲ-8-A-④（突発性難聴、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-503 (id: JlvnmPI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-021&card_id=OT-021&version=f4f8b3e938)　（版 `f4f8b3e938`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-021&card_id=OT-021&version=cd06f8b589)　（版 `cd06f8b589`）
 
 ### OT-022　下書き（出典の照合前）
 
@@ -278,7 +278,7 @@
 - 出題基準：医学各論 Ⅲ-8-A-⑨（遺伝性難聴、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-026&card_id=OT-026&version=535c3b694b)　（版 `535c3b694b`）
 
-**[ここまでの 10 件（OT-017〜OT-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OT-017%E3%80%9COT-026&cards=OT-017%2014966f6b24%0AOT-018%206a2206cc98%0AOT-019%2058bd327dd4%0AOT-020%209742bf8b6b%0AOT-021%20f4f8b3e938%0AOT-022%2051b4f27a73%0AOT-023%20d420a792dd%0AOT-024%2044792e20fc%0AOT-025%20f3ad4ba24b%0AOT-026%20535c3b694b)**
+**[ここまでの 10 件（OT-017〜OT-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20OT-017%E3%80%9COT-026&cards=OT-017%2014966f6b24%0AOT-018%206a2206cc98%0AOT-019%2058bd327dd4%0AOT-020%209742bf8b6b%0AOT-021%20cd06f8b589%0AOT-022%2051b4f27a73%0AOT-023%20d420a792dd%0AOT-024%2044792e20fc%0AOT-025%20f3ad4ba24b%0AOT-026%20535c3b694b)**
 
 ---
 

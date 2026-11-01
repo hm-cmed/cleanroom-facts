@@ -129,10 +129,10 @@
 > 乾癬は慢性の炎症性皮膚疾患で、局面型の尋常性乾癬が最も多い病型である。世界で約1億2,500万人が罹患するとされ、病態にはTNF-α、IL-17、IL-23などのサイトカイン経路が関与し、これらを標的とする生物学的製剤が治療に用いられている。乾癬性関節炎、心血管代謝性疾患、うつ病などの合併症との関連が知られている。
 
 - 条件：region: 全世界
-- 不確実性：主張は出典の抄録で確認できた範囲に限定した。本カードは皮膚病変と病態を扱い、関節病変の詳細は扱わない。患者数は抄録の「世界で約1億2,500万人」という記載に基づく。本カードで触れた生物学的製剤の個別薬剤の国内承認・保険適用は未確認。
+- 不確実性：主張は出典の抄録で確認できた範囲に限定した。本カードは皮膚病変と病態を扱い、関節病変の詳細は扱わない。患者数は抄録の「世界で約1億2,500万人」という記載に基づく。本カードで触れた生物学的製剤の個別薬剤の国内承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】乾癬の生物学的製剤（セクキヌマブ、イキセキズマブ、グセルクマブ、リサンキズマブ、ウステキヌマブ等）は尋常性乾癬等の適応で承認済み。「未確認」は解消できる
 - 出典：Armstrong AW, Read C. Pathophysiology, Clinical Presentation, and Treatment of Psoriasis: A Review. JAMA. 2020;323(19):1945-1960.　[DOI 10.1001/jama.2020.4006](https://doi.org/10.1001/jama.2020.4006)　[PMID 32427307](https://pubmed.ncbi.nlm.nih.gov/32427307/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅲ-3-D-①（乾癬、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-082 (id: Jlvnlio)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-011&card_id=SD-011&version=e84f338d62)　（版 `e84f338d62`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-011&card_id=SD-011&version=ee012fdb16)　（版 `ee012fdb16`）
 
 ### SD-012　下書き（出典の照合前）
 
@@ -154,7 +154,7 @@
 - 出題基準：医学各論 Ⅲ-3-D-①（乾癬、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-082 (id: Jlvnlio)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-013&card_id=SD-013&version=c848ec1d5a)　（版 `c848ec1d5a`）
 
-**[ここまでの 3 件（SD-011〜SD-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-011%E3%80%9CSD-013&cards=SD-011%20e84f338d62%0ASD-012%202e8d67bb6d%0ASD-013%20c848ec1d5a)**
+**[ここまでの 3 件（SD-011〜SD-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-011%E3%80%9CSD-013&cards=SD-011%20ee012fdb16%0ASD-012%202e8d67bb6d%0ASD-013%20c848ec1d5a)**
 
 ---
 
@@ -407,12 +407,12 @@
 > 伝染性膿痂疹は小児に多い表在性の細菌性皮膚感染症である。システマティックレビューでは、外用抗菌薬はプラセボより治癒率が高く（統合リスク比 2.24、95%信頼区間 1.61〜3.13）、ムピロシン外用とフシジン酸外用は同等の効果で、経口治療と同等かそれ以上の効果が示された。一方、消毒薬による処置の有効性を支持する根拠は乏しく、ペニシリンは他の多くの抗菌薬より効果が劣っていた。
 
 - 条件：region: 国際
-- 不確実性：数値は出典の抄録に記載された統合リスク比である。ムピロシンやフシジン酸など個別の外用薬の国内の承認・保険適用は未確認である。広範囲な膿痂疹で外用と経口のどちらが優れるかは出典でも結論が出ていない。
+- 不確実性：数値は出典の抄録に記載された統合リスク比である。ムピロシンやフシジン酸など個別の外用薬の国内の承認・保険適用は未確認である。広範囲な膿痂疹で外用と経口のどちらが優れるかは出典でも結論が出ていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ムピロシン（バクトロバン）、フシジン酸（フシジンレオ）はいずれも伝染性膿痂疹を含む適応で承認済み。「未確認」は解消できる
 - 出典：Koning S, van der Sande R, Verhagen AP, et al. Interventions for impetigo. Cochrane Database Syst Rev. 2012;(1):CD003261.　[DOI 10.1002/14651858.CD003261.pub3](https://doi.org/10.1002/14651858.CD003261.pub3)　[PMID 22258953](https://pubmed.ncbi.nlm.nih.gov/22258953/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅲ-3-J-⑤（伝染性膿痂疹、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-085 (id: JlvnljA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-031&card_id=SD-031&version=87d4268acf)　（版 `87d4268acf`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-031&card_id=SD-031&version=eea8fc9033)　（版 `eea8fc9033`）
 
-**[ここまでの 1 件（SD-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-031&cards=SD-031%2087d4268acf)**
+**[ここまでの 1 件（SD-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-031&cards=SD-031%20eea8fc9033)**
 
 ---
 
@@ -529,12 +529,12 @@
 > 体部白癬、股部白癬、足白癬は通常、安価な外用抗真菌薬に反応する。広範囲な病変、外用で改善しない場合、免疫不全がある場合、頭部白癬のように毛包への波及がある場合には経口抗真菌薬が適応となる。経口テルビナフィンは忍容性と有効性から頭部白癬と爪真菌症の第一選択とされる。抗真菌薬と副腎皮質ステロイドの合剤は使用を避けることが、抗真菌薬スチュワードシップとして求められる。
 
 - 条件：region: 国際
-- 不確実性：出典は DOI が付与されていない（PubMed レコードで確認）。テルビナフィンなど個別薬剤の国内の承認・保険適用は未確認である。カンジダ症の治療の詳細は出典の主対象の範囲外のため含めていない。
+- 不確実性：出典は DOI が付与されていない（PubMed レコードで確認）。テルビナフィンなど個別薬剤の国内の承認・保険適用は未確認である。カンジダ症の治療の詳細は出典の主対象の範囲外のため含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】テルビナフィンは白癬（爪白癬を含む）の適応で国内承認・保険収載済み（PMDA添付文書情報、2026-10-31確認）
 - 出典：Caplan AS, Gold JAW, Smith DJ, Ely JW. Diagnosis and Management of Tinea Infections. Am Fam Physician. 2025;112(4):382-392.　[PMID 41118183](https://pubmed.ncbi.nlm.nih.gov/41118183/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅲ-3-L-①（白癬、カンジダ症、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-092 (id: Jlvnljw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-039&card_id=SD-039&version=a3323cf125)　（版 `a3323cf125`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-039&card_id=SD-039&version=845e2f1d88)　（版 `845e2f1d88`）
 
-**[ここまでの 2 件（SD-038〜SD-039）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-038%E3%80%9CSD-039&cards=SD-038%202290827138%0ASD-039%20a3323cf125)**
+**[ここまでの 2 件（SD-038〜SD-039）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-038%E3%80%9CSD-039&cards=SD-038%202290827138%0ASD-039%20845e2f1d88)**
 
 ---
 
@@ -545,12 +545,12 @@
 > 癜風は Malassezia 属（主に M. globosa、M. furfur、M. sympodialis）による表在性真菌症で、体幹上部、頸部、上腕に、鱗屑を伴う色素脱失斑または色素沈着斑を生じる。診断は特徴的な臨床像によることが多く、必要に応じ KOH 標本で、胞子の集簇に混じる多数の短い菌糸を確認する。治療は安全性と費用の面から外用抗真菌薬が第一選択で、経口抗真菌薬は広範囲、頻回再発、難治の場合に用い、再発を繰り返す場合は間欠的な予防投与を考慮する。
 
 - 条件：region: 国際
-- 不確実性：個別の抗真菌薬の国内の承認・保険適用は未確認である。色素異常が治癒後も残る期間などの詳細は出典の抄録の範囲を超えるため含めていない。
+- 不確実性：個別の抗真菌薬の国内の承認・保険適用は未確認である。色素異常が治癒後も残る期間などの詳細は出典の抄録の範囲を超えるため含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】癜風に用いる外用抗真菌薬（ケトコナゾール、テルビナフィン、ルリコナゾール等）は承認済み。「未確認」は解消できる
 - 出典：Leung AKC, Barankin B, Lam JM, Leong KF, Hon KL. Tinea versicolor: an updated review. Drugs Context. 2022;11:2022-9-2.　[DOI 10.7573/dic.2022-9-2](https://doi.org/10.7573/dic.2022-9-2)　[PMID 36452877](https://pubmed.ncbi.nlm.nih.gov/36452877/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-L-②（癜風、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-092 (id: Jlvnljw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-040&card_id=SD-040&version=10319919e7)　（版 `10319919e7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-040&card_id=SD-040&version=8ebca4d1ae)　（版 `8ebca4d1ae`）
 
-**[ここまでの 1 件（SD-040）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-040&cards=SD-040%2010319919e7)**
+**[ここまでの 1 件（SD-040）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-040&cards=SD-040%208ebca4d1ae)**
 
 ---
 
@@ -561,12 +561,12 @@
 > スポロトリコーシスは二形性真菌 Sporothrix schenckii による感染症で、菌に汚染された土壌、植物、有機物の外傷性接種によって感染し、花卉栽培や農業などの作業との関連が知られる。病変は通常、皮膚、皮下組織と近傍のリンパ管に限局する。診断のゴールドスタンダードは培養であり、ヒトとネコのいずれでも第一選択の治療はイトラコナゾールである。
 
 - 条件：region: 国際
-- 不確実性：イトラコナゾールの国内の承認・保険適用は未確認である。用量と投与期間は出典の抄録に記載がなく含めていない。ネコを介する流行はブラジルでの報告が中心であり、日本の疫学とは限らない。
+- 不確実性：イトラコナゾールの国内の承認・保険適用は未確認である。用量と投与期間は出典の抄録に記載がなく含めていない。ネコを介する流行はブラジルでの報告が中心であり、日本の疫学とは限らない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】イトラコナゾールの効能・効果に深在性皮膚真菌症（スポロトリコーシス、クロモミコーシス）が含まれており、承認・保険適用あり（PMDA添付文書）。
 - 出典：Barros MBL, de Almeida Paes R, Schubach AO. Sporothrix schenckii and Sporotrichosis. Clin Microbiol Rev. 2011;24(4):633-654.　[DOI 10.1128/CMR.00007-11](https://doi.org/10.1128/CMR.00007-11)　[PMID 21976602](https://pubmed.ncbi.nlm.nih.gov/21976602/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅲ-3-L-③（スポロトリコーシス、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-041&card_id=SD-041&version=37c4856654)　（版 `37c4856654`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-041&card_id=SD-041&version=140712d15a)　（版 `140712d15a`）
 
-**[ここまでの 1 件（SD-041）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-041&cards=SD-041%2037c4856654)**
+**[ここまでの 1 件（SD-041）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-041&cards=SD-041%20140712d15a)**
 
 ---
 
@@ -603,12 +603,12 @@
 > 単純ヘルペスウイルス（HSV）感染症は一般人口の中に大きな感染源のプールを持つ伝染性の感染症で、口唇や性器などの粘膜皮膚病変を繰り返し来す。免疫抑制状態の宿主では重篤な合併症を生じうる。Fatahzadeh と Schwartz の総説は、粘膜皮膚の HSV 感染症について疫学、病因、症状、診断の特徴と管理の方策をまとめている。
 
 - 条件：region: 国際
-- 不確実性：本カードは総説の抄録で確認できる範囲の定性的な記述に限った。治療に用いられる抗ウイルス薬（アシクロビル、バラシクロビル等）の国内の承認・保険適用は未確認である。
+- 不確実性：本カードは総説の抄録で確認できる範囲の定性的な記述に限った。治療に用いられる抗ウイルス薬（アシクロビル、バラシクロビル等）の国内の承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アシクロビル・バラシクロビルは単純ヘルペスの適応で国内承認・保険収載済み（PMDA添付文書情報、2026-10-31確認）
 - 出典：Fatahzadeh M, Schwartz RA. Human herpes simplex virus infections: epidemiology, pathogenesis, symptomatology, diagnosis, and management. J Am Acad Dermatol. 2007;57(5):737-763.　[DOI 10.1016/j.jaad.2007.06.027](https://doi.org/10.1016/j.jaad.2007.06.027)　[PMID 17939933](https://pubmed.ncbi.nlm.nih.gov/17939933/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅲ-3-N-①（単純ヘルペス、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-096 (id: JlvnlkE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-044&card_id=SD-044&version=87d82f8c67)　（版 `87d82f8c67`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-044&card_id=SD-044&version=cf56e45619)　（版 `cf56e45619`）
 
-**[ここまでの 1 件（SD-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-044&cards=SD-044%2087d82f8c67)**
+**[ここまでの 1 件（SD-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-044&cards=SD-044%20cf56e45619)**
 
 ---
 
@@ -651,12 +651,12 @@
 > 尋常性痤瘡は思春期以降に広くみられる疾患で、米国皮膚科学会の診療ガイドライン（2024年）は、過酸化ベンゾイル、外用レチノイド、外用抗菌薬、ドキシサイクリン内服を強い推奨とし、重症で瘢痕を残すものや標準治療に反応しないものにはイソトレチノイン内服を強く推奨している。作用機序の異なる外用薬の併用と、全身性抗菌薬の使用を抑えることも推奨の要点である。酒皶様皮膚炎は、顔面へのステロイド外用などを契機に痤瘡様・酒皶様の変化を生じる病態を指す。
 
 - 条件：region: 米国
-- 不確実性：本ガイドラインは米国における痤瘡の管理を対象としており、本文に名前の出る薬剤（イソトレチノイン、ドキシサイクリン、過酸化ベンゾイル、外用レチノイド等）の国内の承認・保険適用は未確認である。酒皶様皮膚炎は本ガイドラインの対象外のため、その部分は定義的な記述に限った。
+- 不確実性：本ガイドラインは米国における痤瘡の管理を対象としており、本文に名前の出る薬剤（イソトレチノイン、ドキシサイクリン、過酸化ベンゾイル、外用レチノイド等）の国内の承認・保険適用は未確認である。酒皶様皮膚炎は本ガイドラインの対象外のため、その部分は定義的な記述に限った。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ドキシサイクリン、過酸化ベンゾイル（2015年承認）、外用レチノイド（アダパレンは2008年承認等）は痤瘡等の適応で承認済み。一方、イソトレチノインは国内未承認のままで、注記のこの部分は現行どおり
 - 出典：Reynolds RV, Yeung H, Cheng CE, Cook-Bolden F, et al. Guidelines of care for the management of acne vulgaris. J Am Acad Dermatol. 2024;90(5):1006.e1-1006.e30.　[DOI 10.1016/j.jaad.2023.12.017](https://doi.org/10.1016/j.jaad.2023.12.017)　[PMID 38300170](https://pubmed.ncbi.nlm.nih.gov/38300170/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅲ-3-O-①（尋常性痤瘡、酒皶様皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-110 (id: Jlvnll4)；TBL-01-00-111 (id: JlvnlmA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-047&card_id=SD-047&version=3eebe16ac4)　（版 `3eebe16ac4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-047&card_id=SD-047&version=c1879fc28f)　（版 `c1879fc28f`）
 
-**[ここまでの 1 件（SD-047）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-047&cards=SD-047%203eebe16ac4)**
+**[ここまでの 1 件（SD-047）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SD-047&cards=SD-047%20c1879fc28f)**
 
 ---
 

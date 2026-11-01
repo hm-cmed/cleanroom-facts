@@ -59,12 +59,12 @@
 > 乳癌診療ガイドラインの一般的事項では、病期はDCIS（TisN0M0、stage 0）、早期乳癌（stage I〜IIIA）、局所進行乳癌（stage IIIB・IIIC）などに分けられる。早期乳癌の治療方針は、ホルモン受容体やHER2といった予測因子と、臨床病期や組織学的グレードなどの予後因子を総合的に評価して決める。ホルモン受容体とHER2の状態の組み合わせが、内分泌療法や抗HER2療法など薬物療法を選択する基盤になる。
 
 - 条件：region: 日本／population: 乳癌患者
-- 不確実性：病期の区分と治療方針の決め方は、出典の一般的事項の本文で確認した。個々の分子サブタイプ（ルミナルA様・B様など）の定義やKi67のカットオフはこの出典の一般的事項には含まれないため、主張には書いていない。 本カードで触れる薬物療法（内分泌療法・抗HER2療法）の各薬剤の国内の承認・保険適用は未確認。
+- 不確実性：病期の区分と治療方針の決め方は、出典の一般的事項の本文で確認した。個々の分子サブタイプ（ルミナルA様・B様など）の定義やKi67のカットオフはこの出典の一般的事項には含まれないため、主張には書いていない。 本カードで触れる薬物療法（内分泌療法・抗HER2療法）の各薬剤の国内の承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】内分泌療法薬（タモキシフェン、アロマターゼ阻害薬等）・抗HER2療法薬（トラスツズマブ等）はいずれも乳癌の適応で国内承認・保険収載済み（PMDA添付文書情報、2026-10-31確認）
 - 出典：Yamamoto Y, Yamauchi C, Toyama T, et al. The Japanese Breast Cancer Society Clinical Practice Guidelines for Breast Cancer, 2022 Edition: changes from the 2018 edition and general statements on breast cancer treatment. Breast Cancer. 2024;31(3):340-346.　[DOI 10.1007/s12282-024-01566-6](https://doi.org/10.1007/s12282-024-01566-6)　[PMID 38570435](https://pubmed.ncbi.nlm.nih.gov/38570435/)（区分 OPEN）
 - 出題基準：医学各論 Ⅹ-11-B-①（乳癌、a）　コアカリ：PS-02-13-05 (id: JkxnuSs)；TBL-01-00-665 (id: JlvnmeQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BR-004&card_id=BR-004&version=49ec06242c)　（版 `49ec06242c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BR-004&card_id=BR-004&version=c97dc6363f)　（版 `c97dc6363f`）
 
-**[ここまでの 1 件（BR-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BR-004&cards=BR-004%2049ec06242c)**
+**[ここまでの 1 件（BR-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BR-004&cards=BR-004%20c97dc6363f)**
 
 ---
 

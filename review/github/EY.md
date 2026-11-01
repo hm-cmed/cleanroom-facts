@@ -539,12 +539,12 @@
 > 斜視は視線の偏位の方向によって、内方への偏位である内斜視、外方への偏位である外斜視に分けられ、上下方向の偏位を伴うこともある。常に偏位が顕れる顕性斜視と、融合によって制御され普段は偏位が顕れない斜位とは区別される。外斜視は人口の約1%にみられ、間欠性外斜視が最も多い型である。遠視に伴う調節性内斜視では、まず屈折誤差の矯正が初期治療となり、治療の選択肢には二重焦点眼鏡、プリズム療法、外眼筋手術、ボツリヌス毒素注射などがある。斜視に伴う弱視の治療は、一般に斜視の手術に先行して行われる。
 
 - 条件：region: 米国／study: 学会ガイドライン（Preferred Practice Pattern、小児が主対象）
-- 不確実性：外斜視の頻度（約1%、間欠性が最多）と内斜視では屈折矯正が初期治療であることはガイドライン本文で確認した。本ガイドラインの主対象は水平斜視であり、上下斜視の詳細な分類は本文の主眼ではないため、主張文では偏位方向の分類にとどめた。ボツリヌス毒素は薬剤名にあたるため注記する。斜視に対するボツリヌス毒素注射の国内の承認・保険適用は未確認である。本ガイドラインは米国の小児診療を前提としており、日本の診療実態との差異は未確認である。
+- 不確実性：外斜視の頻度（約1%、間欠性が最多）と内斜視では屈折矯正が初期治療であることはガイドライン本文で確認した。本ガイドラインの主対象は水平斜視であり、上下斜視の詳細な分類は本文の主眼ではないため、主張文では偏位方向の分類にとどめた。ボツリヌス毒素は薬剤名にあたるため注記する。斜視に対するボツリヌス毒素注射の国内の承認・保険適用は未確認である。本ガイドラインは米国の小児診療を前提としており、日本の診療実態との差異は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】A型ボツリヌス毒素（ボトックス）の「斜視」は2015年6月26日に効能追加承認済み（成人および12歳以上の小児、厚生労働省通知 薬食審査発0626第1号）で、現行の添付文書にも収載されている
 - 出典：Sprunger DT, Lambert SR, Hercinovic A, Morse CL, Repka MX, Hutchinson AK, Cruz OA, Wallace DK; American Academy of Ophthalmology Preferred Practice Pattern Pediatric Ophthalmology/Strabismus Panel. Esotropia and Exotropia Preferred Practice Pattern®. Ophthalmology. 2023;130(3):P179-P221.　[DOI 10.1016/j.ophtha.2022.11.002](https://doi.org/10.1016/j.ophtha.2022.11.002)　[PMID 36526451](https://pubmed.ncbi.nlm.nih.gov/36526451/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-4-C-①（斜視、斜位、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-045&card_id=EY-045&version=645adce7f5)　（版 `645adce7f5`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-045&card_id=EY-045&version=e6c658fc11)　（版 `e6c658fc11`）
 
-**[ここまでの 1 件（EY-045）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-045&cards=EY-045%20645adce7f5)**
+**[ここまでの 1 件（EY-045）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-045&cards=EY-045%20e6c658fc11)**
 
 ---
 
@@ -651,12 +651,12 @@
 > 春季カタル（春季角結膜炎）は小児と若年成人に多い慢性のアレルギー性角結膜炎で、男児に多く、思春期に軽快する傾向がある。強いかゆみと粘稠な眼脂を呈し、上眼瞼結膜の巨大乳頭や、点状表層角膜症、シールド潰瘍などの角膜合併症を伴うことがある。治療は重症度に応じて段階的に行い、肥満細胞安定薬と抗ヒスタミン薬が軽症から中等症の基本となり、重症例ではステロイド点眼がレスキューとして用いられ、シクロスポリンやタクロリムスなどの免疫抑制薬の局所投与も検討される。
 
 - 条件：region: 国際／study: 春季角結膜炎の管理に関する総説
-- 不確実性：疫学的な特徴と角膜合併症、治療の段階づけは抄録と本文で確認した。本カードには薬剤のクラス名とシクロスポリン、タクロリムスという薬剤名を含むが、これらの春季カタルに対する国内の承認・保険適用は未確認である。用量や投与期間の具体的な数値は含めていない。
+- 不確実性：疫学的な特徴と角膜合併症、治療の段階づけは抄録と本文で確認した。本カードには薬剤のクラス名とシクロスポリン、タクロリムスという薬剤名を含むが、これらの春季カタルに対する国内の承認・保険適用は未確認である。用量や投与期間の具体的な数値は含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】シクロスポリン点眼液（パピロックミニ）は2005年に春季カタル（抗アレルギー剤が効果不十分な場合）で承認、タクロリムス点眼液（タリムス）は2008年1月25日に同適応で承認。いずれも保険適用あり
 - 出典：Leonardi A. Management of vernal keratoconjunctivitis. Ophthalmol Ther. 2013;2(2):73-88.　[DOI 10.1007/s40123-013-0019-y](https://doi.org/10.1007/s40123-013-0019-y)　[PMID 25135808](https://pubmed.ncbi.nlm.nih.gov/25135808/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-C-⑥（春季カタル、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-052&card_id=EY-052&version=b597011961)　（版 `b597011961`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-052&card_id=EY-052&version=9e6b7be105)　（版 `9e6b7be105`）
 
-**[ここまでの 1 件（EY-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-052&cards=EY-052%20b597011961)**
+**[ここまでの 1 件（EY-052）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-052&cards=EY-052%209e6b7be105)**
 
 ---
 

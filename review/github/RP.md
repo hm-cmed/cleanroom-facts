@@ -251,12 +251,12 @@
 > 排卵障害は無排卵や希発排卵として現れ、無月経・希発月経などの月経異常の主要な原因である。無排卵性不妊に占める多嚢胞性卵巣症候群（PCOS）の割合は約80%とされ、排卵障害の評価では原因の鑑別が中心となる。治療は段階的に行い、肥満がある場合は生活習慣への介入を先行させ、薬物による排卵誘発、さらに体外受精へと進む。
 
 - 条件：region: 国際／study: WHO ガイダンス策定のためのエビデンス分析（2016年）
-- 不確実性：本出典は PCOS による無排卵を中心に扱っており、視床下部性や高プロラクチン血症など他の排卵障害の分類の詳細は本文で確認していないため、主張は PCOS 中心の範囲に限った。排卵誘発薬の国内承認・保険適用は未確認である。
+- 不確実性：本出典は PCOS による無排卵を中心に扱っており、視床下部性や高プロラクチン血症など他の排卵障害の分類の詳細は本文で確認していないため、主張は PCOS 中心の範囲に限った。排卵誘発薬の国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】2022年4月から一般不妊治療・生殖補助医療が保険適用となり、排卵誘発薬（クロミフェンクエン酸塩は公知申請で「生殖補助医療における調節卵巣刺激」を追加、HMG・FSH製剤等）も薬事承認の範囲で保険適用となった（こども家庭庁・厚労省資料、日本生殖医学会の保険適用情報）。
 - 出典：Balen AH, Morley LC, Misso M, et al. The management of anovulatory infertility in women with polycystic ovary syndrome: an analysis of the evidence to support the development of global WHO guidance. Human Reproduction Update. 2016;22(6):687-708.　[DOI 10.1093/humupd/dmw025](https://doi.org/10.1093/humupd/dmw025)　[PMID 27511809](https://pubmed.ncbi.nlm.nih.gov/27511809/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅷ-8-D-③（無排卵、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-021&card_id=RP-021&version=a3aacdc5ef)　（版 `a3aacdc5ef`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-021&card_id=RP-021&version=584097821d)　（版 `584097821d`）
 
-**[ここまでの 1 件（RP-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-021&cards=RP-021%20a3aacdc5ef)**
+**[ここまでの 1 件（RP-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-021&cards=RP-021%20584097821d)**
 
 ---
 
@@ -277,12 +277,12 @@
 > PCOS の管理では、健康的な生活習慣がすべての患者で基盤となる。不妊治療では、他の不妊因子のない無排卵の女性に対する排卵誘発の第一選択薬はレトロゾールで、クロミフェン（メトホルミンとの併用を含む）も用いられる。ゴナドトロピン療法や卵巣手術は主に第二選択、体外受精は第三選択と位置づけられる。あわせて、心血管リスク因子や糖代謝の評価を診断時に行うことが求められる。
 
 - 条件：region: 国際／study: 国際エビデンスに基づくガイドライン（2023年版）
-- 不確実性：レトロゾールは排卵誘発の目的では多くの国で適応外使用とされており、日本での承認・保険適用の状況は本調査では未確認である。クロミフェン、メトホルミン、ゴナドトロピン製剤についても、国内の承認・保険適用は未確認である。
+- 不確実性：レトロゾールは排卵誘発の目的では多くの国で適応外使用とされており、日本での承認・保険適用の状況は本調査では未確認である。クロミフェン、メトホルミン、ゴナドトロピン製剤についても、国内の承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】レトロゾールは公知申請で「生殖補助医療における調節卵巣刺激」を2022年2月25日に承認取得し、「多嚢胞性卵巣症候群における排卵誘発」等は2022年4月1日から保険適用（現在は添付文書の効能に収載）。メトホルミンも公知申請で2022年9月に同領域の効能が追加承認され保険適用あり（肥満・耐糖能異常・インスリン抵抗性のいずれかを呈する患者に限る）。クロミフェン・ゴナドトロピン製剤も承認・保険適用あり（厚生労働省公知申請資料・PMDA添付文書、2026-10-31確認）
 - 出典：Teede HJ, Tay CT, Laven J, et al. Recommendations from the 2023 International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome. Human Reproduction. 2023;38(9):1655-1679.　[DOI 10.1093/humrep/dead156](https://doi.org/10.1093/humrep/dead156)　[PMID 37580037](https://pubmed.ncbi.nlm.nih.gov/37580037/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-D-⑥（多囊胞性卵巣症候群<PCOS>、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-023&card_id=RP-023&version=056b363f00)　（版 `056b363f00`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-023&card_id=RP-023&version=611ce66503)　（版 `611ce66503`）
 
-**[ここまでの 2 件（RP-022〜RP-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-022%E3%80%9CRP-023&cards=RP-022%204b216e75cc%0ARP-023%20056b363f00)**
+**[ここまでの 2 件（RP-022〜RP-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-022%E3%80%9CRP-023&cards=RP-022%204b216e75cc%0ARP-023%20611ce66503)**
 
 ---
 
@@ -325,12 +325,12 @@
 > 黄体機能不全（黄体期欠乏）は、黄体期の長さが10日以下と短い状態を指す臨床診断であり、プロゲステロンの分泌期間や量の不足、子宮内膜のプロゲステロンへの反応性低下が機序として挙げられる。ただし、黄体機能不全が不妊や反復流産の独立した原因であることは証明されておらず、診断に提案されてきた各種測定の妥当性や、治療が転帰を改善するかどうかについても結論は一致していない。健康で月経が正常な妊娠可能な女性にもみられることがある。
 
 - 条件：region: 米国／study: 学会委員会意見（2021年）
-- 不確実性：個別の診断法（子宮内膜生検やプロゲステロン値の閾値など）の評価は抄録で確認した範囲を超えるため、主張には含めていない。プロゲステロン製剤を用いる場合の国内承認・保険適用は未確認である。
+- 不確実性：個別の診断法（子宮内膜生検やプロゲステロン値の閾値など）の評価は抄録で確認した範囲を超えるため、主張には含めていない。プロゲステロン製剤を用いる場合の国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】プロゲステロン製剤は生殖補助医療における黄体補充等の適応で保険適用がある（ウトロゲスタン腟用カプセル200mgは2022-04-01から保険適用、日本生殖医学会の保険適用情報）。
 - 出典：Practice Committee of the American Society for Reproductive Medicine. Diagnosis and treatment of luteal phase deficiency: a committee opinion. Fertility and Sterility. 2021;115(6):1416-1423.　[DOI 10.1016/j.fertnstert.2021.02.010](https://doi.org/10.1016/j.fertnstert.2021.02.010)　[PMID 33827766](https://pubmed.ncbi.nlm.nih.gov/33827766/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅷ-8-D-④（黄体機能不全、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-026&card_id=RP-026&version=cdf73c9a0b)　（版 `cdf73c9a0b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-026&card_id=RP-026&version=88f3542862)　（版 `88f3542862`）
 
-**[ここまでの 1 件（RP-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-026&cards=RP-026%20cdf73c9a0b)**
+**[ここまでの 1 件（RP-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-026&cards=RP-026%2088f3542862)**
 
 ---
 
@@ -341,12 +341,12 @@
 > 卵胞発育障害は排卵障害の一形態であり、PCOS では卵胞の発育が成熟に至らず無排卵となることが多く、無排卵性不妊の約80%は PCOS による。治療は段階的で、肥満がある場合は生活習慣への介入を先行させ、薬物による排卵誘発（クロミフェンやレトロゾール）を行い、第二選択としてゴナドトロピン療法や腹腔鏡下卵巣手術、その他の不妊因子がある場合や治療が不成功の場合には体外受精が検討される。
 
 - 条件：region: 国際／study: WHO ガイダンス策定のためのエビデンス分析（2016年）
-- 不確実性：本出典は PCOS に伴う卵胞発育障害が中心であり、早発卵巣不全や視床下部性の卵胞発育障害は対象外である。排卵誘発薬やゴナドトロピン製剤の国内承認・保険適用は未確認である。
+- 不確実性：本出典は PCOS に伴う卵胞発育障害が中心であり、早発卵巣不全や視床下部性の卵胞発育障害は対象外である。排卵誘発薬やゴナドトロピン製剤の国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】排卵誘発薬・ゴナドトロピン製剤は承認・保険適用あり。hCG製剤等の効能に無排卵症・一般不妊治療における排卵誘発が含まれ、不妊治療の保険適用拡大（2022年4月1日）で生殖補助医療の適応も追加された（PMDA審査報告書・厚生労働省通知、2026-10-31確認）
 - 出典：Balen AH, Morley LC, Misso M, et al. The management of anovulatory infertility in women with polycystic ovary syndrome: an analysis of the evidence to support the development of global WHO guidance. Human Reproduction Update. 2016;22(6):687-708.　[DOI 10.1093/humupd/dmw025](https://doi.org/10.1093/humupd/dmw025)　[PMID 27511809](https://pubmed.ncbi.nlm.nih.gov/27511809/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅷ-8-E-①（女性不妊症、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；骨盤内臓器と腫瘍の画像診断 TBL-02-09-023 (id: JlAKppY)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-027&card_id=RP-027&version=83da580b6a)　（版 `83da580b6a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-027&card_id=RP-027&version=dd1f66d5a3)　（版 `dd1f66d5a3`）
 
-**[ここまでの 1 件（RP-027）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-027&cards=RP-027%2083da580b6a)**
+**[ここまでの 1 件（RP-027）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-027&cards=RP-027%20dd1f66d5a3)**
 
 ---
 
@@ -469,12 +469,12 @@
 > 過多月経に対する手術療法の一つに、子宮を温存する子宮内膜アブレーション（内膜の切除・破壊）がある。28件のランダム化比較試験（4287人）をまとめたレビューでは、第2世代の手技は第1世代（子宮鏡下）の手技と比べて無月経率や出血の改善が同等であり、手術時間が短く、局所麻酔で行われることが多かった。子宮摘出は確実な治療であるが費用が高くリスクも伴うため、薬物療法で十分な改善が得られない場合の選択肢としてアブレーションが位置づけられる。
 
 - 条件：region: 国際／study: 系統的レビュー（2019年、Cochrane）
-- 不確実性：レビューの対象は、腔外の3cm未満の筋腫を除き既知の子宮病変のない過多月経であり、器質的疾患がある場合は適応が異なる。国内での子宮内膜アブレーションの実施状況や保険適用は未確認である。
+- 不確実性：レビューの対象は、腔外の3cm未満の筋腫を除き既知の子宮病変のない過多月経であり、器質的疾患がある場合は適応が異なる。国内での子宮内膜アブレーションの実施状況や保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】子宮内膜アブレーションは2012年4月に保険収載され（K863-3 子宮鏡下子宮内膜焼灼術、マイクロ波子宮内膜アブレーションを含む）、過多月経に対して保険診療で実施されている（マイクロ波手術研究会の実施要項、診療報酬資料）。
 - 出典：Bofill Rodriguez M, Lethaby A, Grigore M, et al. Endometrial resection and ablation techniques for heavy menstrual bleeding. Cochrane Database of Systematic Reviews. 2019;(1):CD001501.　[DOI 10.1002/14651858.CD001501.pub5](https://doi.org/10.1002/14651858.CD001501.pub5)　[PMID 30667064](https://pubmed.ncbi.nlm.nih.gov/30667064/)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-035&card_id=RP-035&version=9520e85cbd)　（版 `9520e85cbd`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-035&card_id=RP-035&version=280678f9f8)　（版 `280678f9f8`）
 
-**[ここまでの 1 件（RP-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-035&cards=RP-035%209520e85cbd)**
+**[ここまでの 1 件（RP-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-035&cards=RP-035%20280678f9f8)**
 
 ---
 
@@ -501,12 +501,12 @@
 > PCOS による無排卵性不妊に対する排卵誘発について、750人を対象とした多施設二重盲検ランダム化比較試験では、レトロゾール群がクロミフェン群より累積出生率（27.5%対19.1%）と累積排卵率（61.7%対48.3%）が高かった。先天異常の頻度には有意な差はみられなかった。
 
 - 条件：region: 米国／study: 多施設ランダム化比較試験（2014年、対象は PCOS）
-- 不確実性：レトロゾールの排卵誘発目的での国内承認・保険適用は未確認であり、国内では適応外使用となる可能性がある（取り込み側で添付文書・PMDA の確認が必要）。クロミフェンの国内承認状況も未確認である。対象は PCOS に限られ、他の原因による排卵障害へそのまま一般化はできない。
+- 不確実性：レトロゾールの排卵誘発目的での国内承認・保険適用は未確認であり、国内では適応外使用となる可能性がある（取り込み側で添付文書・PMDA の確認が必要）。クロミフェンの国内承認状況も未確認である。対象は PCOS に限られ、他の原因による排卵障害へそのまま一般化はできない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】レトロゾールはRP-023のとおり2022年に承認・保険適用済み。クロミフェンも排卵障害に基づく不妊症の適応で承認済み（厚生労働省公知申請資料・PMDA添付文書、2026-10-31確認）
 - 出典：Legro RS, Brzyski RG, Diamond MP, et al. Letrozole versus clomiphene for infertility in the polycystic ovary syndrome. New England Journal of Medicine. 2014;371(2):119-129.　[DOI 10.1056/NEJMoa1313517](https://doi.org/10.1056/NEJMoa1313517)　[PMID 25006718](https://pubmed.ncbi.nlm.nih.gov/25006718/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅷ-8-D-③（無排卵、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-037&card_id=RP-037&version=15f6056c10)　（版 `15f6056c10`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-037&card_id=RP-037&version=6c38c748e2)　（版 `6c38c748e2`）
 
-**[ここまでの 1 件（RP-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-037&cards=RP-037%2015f6056c10)**
+**[ここまでの 1 件（RP-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-037&cards=RP-037%206c38c748e2)**
 
 ---
 
@@ -549,12 +549,12 @@
 > 甲状腺機能異常は月経異常の原因となる。甲状腺中毒症（機能亢進）では主に過少月経と頻発月経（多月経）が、甲状腺機能低下症では主に希発月経がみられる。甲状腺機能異常は妊孕性の低下とも関連しており、月経異常や不妊の評価では甲状腺機能の確認が対象となる。
 
 - 条件：region: 国際／study: 総説（2010年）
-- 不確実性：甲状腺ホルモン製剤や抗甲状腺薬の国内承認・保険適用は未確認である。TSH などの基準値や、自己免疫性甲状腺疾患と不妊治療成績の関係の数値は、確認した範囲を超えるため主張には含めていない。
+- 不確実性：甲状腺ホルモン製剤や抗甲状腺薬の国内承認・保険適用は未確認である。TSH などの基準値や、自己免疫性甲状腺疾患と不妊治療成績の関係の数値は、確認した範囲を超えるため主張には含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】レボチロキシン（チラーヂンS）、チアマゾール（メルカゾール）、プロピルチオウラシル（プロパジール）はいずれも長期に承認されている医薬品。「未確認」は解消できる
 - 出典：Krassas GE, Poppe K, Glinoer D. Thyroid function and human reproductive health. Endocrine Reviews. 2010;31(5):702-755.　[DOI 10.1210/er.2009-0041](https://doi.org/10.1210/er.2009-0041)　[PMID 20573783](https://pubmed.ncbi.nlm.nih.gov/20573783/)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-040&card_id=RP-040&version=c772c79269)　（版 `c772c79269`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-040&card_id=RP-040&version=067b8b1103)　（版 `067b8b1103`）
 
-**[ここまでの 1 件（RP-040）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-040&cards=RP-040%20c772c79269)**
+**[ここまでの 1 件（RP-040）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RP-040&cards=RP-040%20067b8b1103)**
 
 ---
 

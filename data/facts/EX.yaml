@@ -19,7 +19,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: この出典は副腎と性腺の負荷試験が中心で、甲状腺や副甲状腺など他の軸の負荷試験の手順までは扱っていない。数値は出典の表に示された解釈基準を読み取ったもの。 本カードに名前の出る薬剤（デキサメタゾン等）の国内の承認・保険適用は未確認。
+  uncertainty: この出典は副腎と性腺の負荷試験が中心で、甲状腺や副甲状腺など他の軸の負荷試験の手順までは扱っていない。数値は出典の表に示された解釈基準を読み取ったもの。 本カードに名前の出る薬剤（デキサメタゾン等）の国内の承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】デキサメタゾンは国内承認薬であり、抑制試験等の負荷試験は保険診療で実施される標準的検査である（PMDA添付文書情報、2026-10-31確認）
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-02-13-017 (id: JlAKps8)；TBL-02-13-018 (id: JlAKptA)；TBL-02-13-002 (id: JlAKpsA)'
     kokushi: null
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: EX-002
   domain: EX
   subdomain: 口渇・多尿の評価
@@ -124,7 +127,7 @@
     legal_basis: B
     source_class: UNKNOWN
     corroboration: null
-  uncertainty: 本文は PMC で公開されているが、CC ライセンスの表示を本文中で確認できなかったため source_class は UNKNOWN とした。対象は成人で、小児の二次性肥満の評価とは異なる。 本カードに名前の出る薬剤（糖質コルチコイド等）の国内の承認・保険適用は未確認。
+  uncertainty: 本文は PMC で公開されているが、CC ライセンスの表示を本文中で確認できなかったため source_class は UNKNOWN とした。対象は成人で、小児の二次性肥満の評価とは異なる。 本カードに名前の出る薬剤（糖質コルチコイド等）の国内の承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】糖質コルチコイドは長期に承認されている医療用医薬品であり、「承認・保険適用は未確認」は解消できる
   curriculum:
     core_curriculum: 'PS-02-14-02 (id: JkxnuS0)；TBL-02-13-011 (id: JlAKpsk)'
     kokushi: null
@@ -138,6 +141,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: EX-005
   domain: EX
   subdomain: 甲状腺腫の評価

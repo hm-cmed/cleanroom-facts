@@ -103,10 +103,10 @@
 > 副鼻腔真菌症は、真菌の菌糸が組織へ浸潤するかどうかによって非浸潤性と浸潤性に大別される。非浸潤性には真菌球（fungal ball）やアレルギー性真菌性副鼻腔炎などがあり、浸潤性には急性浸潤性（経過4週間以内）、慢性浸潤性、慢性肉芽腫性浸潤性がある。真菌球は免疫能が正常な患者に生じ、上顎洞に最も多く（94%）、原因真菌はアスペルギルスが90%以上を占める。CTでは洞内の高吸収域や石灰化が手がかりとなり、治療は内視鏡下手術による真菌塊の除去で、抗真菌薬は適応とならない。一方、急性浸潤性真菌性副鼻腔炎は、糖尿病患者（約半数を占め、特にケトアシドーシスに合併）や好中球減少・血液悪性腫瘍などの免疫不全患者に生じ、ムーコル目やアスペルギルスが神経や血管の構造へ浸潤して血栓と壊死を起こし、眼窩や頭蓋内へ進展しうる。致死率は約50%（報告により最大80%）と高く、素因の是正、壊死組織の外科的デブリードマン、全身抗真菌薬投与の3つを組み合わせた迅速な治療が必要で、抗真菌薬の中心はアムホテリシンBである。
 
 - 条件：region: 全般／study: 総説
-- 不確実性：割合（94%、90%以上、約50%、最大80%）はいずれも総説の本文で確認した値で、引用元の研究により幅がある。アムホテリシンBなど抗真菌薬の国内承認・保険適用は未確認である。
+- 不確実性：割合（94%、90%以上、約50%、最大80%）はいずれも総説の本文で確認した値で、引用元の研究により幅がある。アムホテリシンBなど抗真菌薬の国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アムホテリシンB（ファンギゾン、リポソーム製剤アムビゾーム）は真菌症の適応で承認済み。「未確認」は解消できる
 - 出典：Deutsch PG, Whittaker J, Prasad S. Invasive and Non-Invasive Fungal Rhinosinusitis—A Review and Update of the Evidence. Medicina (Kaunas). 2019;55(7):319　[DOI 10.3390/medicina55070319](https://doi.org/10.3390/medicina55070319)　[PMID 31261788](https://pubmed.ncbi.nlm.nih.gov/31261788/)（区分 OPEN）
 - 出題基準：医学各論 Ⅲ-9-A-⑤（副鼻腔真菌症、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-510 (id: JlvnmP4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-008&card_id=NL-008&version=49b00ee01c)　（版 `49b00ee01c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-008&card_id=NL-008&version=06e9ef9731)　（版 `06e9ef9731`）
 
 ### NL-009　下書き（出典の照合前）
 
@@ -118,7 +118,7 @@
 - 出題基準：医学各論 Ⅲ-9-A-⑥（術後副鼻腔囊胞、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-510 (id: JlvnmP4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-009&card_id=NL-009&version=8e21fa3cec)　（版 `8e21fa3cec`）
 
-**[ここまでの 5 件（NL-005〜NL-009）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NL-005%E3%80%9CNL-009&cards=NL-005%200a7cc62175%0ANL-006%203f2e212005%0ANL-007%209e4e3bdd3c%0ANL-008%2049b00ee01c%0ANL-009%208e21fa3cec)**
+**[ここまでの 5 件（NL-005〜NL-009）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NL-005%E3%80%9CNL-009&cards=NL-005%200a7cc62175%0ANL-006%203f2e212005%0ANL-007%209e4e3bdd3c%0ANL-008%2006e9ef9731%0ANL-009%208e21fa3cec)**
 
 ---
 

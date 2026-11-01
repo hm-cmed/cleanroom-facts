@@ -27,12 +27,12 @@
 > 国際眼科学会（ICO）の糖尿病眼ケアガイドラインは、糖尿病網膜症についてスクリーニング、紹介、経過観察の間隔と、視力を脅かす病態への治療を医療資源の水準に応じて示している。視力を脅かす糖尿病網膜症と糖尿病黄斑浮腫への治療には、レーザー光凝固と硝子体内抗 VEGF 薬が含まれ、特定の状況では硝子体内ステロイドも用いられる。妊娠中や白内障を合併した患者への対応も別途示されている。
 
 - 条件：region: 国際
-- 不確実性：本カードはガイドラインの抄録で確認できた治療の枠組みのみを記載し、病期ごとの具体的な治療適応や投与間隔は含めていない。本文中に抗 VEGF 薬とステロイドの硝子体内投与が挙げられているが、各薬剤の糖尿病網膜症・糖尿病黄斑浮腫に対する国内の承認・保険適用は未確認である。血糖・血圧などの全身管理は本カードの範囲外（DM-028 を正とする）。
+- 不確実性：本カードはガイドラインの抄録で確認できた治療の枠組みのみを記載し、病期ごとの具体的な治療適応や投与間隔は含めていない。本文中に抗 VEGF 薬とステロイドの硝子体内投与が挙げられているが、各薬剤の糖尿病網膜症・糖尿病黄斑浮腫に対する国内の承認・保険適用は未確認である。血糖・血圧などの全身管理は本カードの範囲外（DM-028 を正とする）。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ラニビズマブは糖尿病黄斑浮腫の適応で2014年2月21日に承認済みで、アフリベルセプト・トリアムシノロンアセトニドも糖尿病黄斑浮腫の承認薬である（PMDA再審査資料・日本眼科学会ガイドライン、2026-10-31確認）
 - 出典：Wong TY, Sun J, Kawasaki R, et al. Guidelines on Diabetic Eye Care: The International Council of Ophthalmology Recommendations for Screening, Follow-up, Referral, and Treatment Based on Resource Settings. Ophthalmology. 2018;125(10):1608-1622.　[DOI 10.1016/j.ophtha.2018.04.007](https://doi.org/10.1016/j.ophtha.2018.04.007)　[PMID 29776671](https://pubmed.ncbi.nlm.nih.gov/29776671/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅲ-6-C-①（糖尿病網膜症、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-497 (id: JlvnmOQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-002&card_id=RE-002&version=d48ac6832a)　（版 `d48ac6832a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-002&card_id=RE-002&version=a710f53bde)　（版 `a710f53bde`）
 
-**[ここまでの 1 件（RE-002）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-002&cards=RE-002%20d48ac6832a)**
+**[ここまでの 1 件（RE-002）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-002&cards=RE-002%20a710f53bde)**
 
 ---
 
@@ -43,12 +43,12 @@
 > 中心窩に及ぶ糖尿病黄斑浮腫に対する硝子体内抗 VEGF 療法の無作為化比較試験（Protocol T、660例）では、1年後の視力改善はアフリベルセプト群で平均13.3文字、ベバシズマブ群で9.7文字、ラニビズマブ群で11.2文字だった。全体ではアフリベルセプトが優れたが、この差は主に試験開始時の視力が悪い（文字スコア69未満、約20/50以下）群で生じており、その群では改善がアフリベルセプト18.9文字、ラニビズマブ14.2文字、ベバシズマブ11.8文字だった。開始時視力の低下が軽い群では3剤間に明らかな差はなかった。重篤な有害事象の頻度に群間の有意差はなかった。
 
 - 条件：region: 国際／study: 無作為化比較試験（DRCR.net Protocol T）
-- 不確実性：数値はいずれも出典の抄録で確認した1年後の結果である。用量はアフリベルセプト2.0 mg、ベバシズマブ1.25 mg、ラニビズマブ0.3 mg（米国の試験用量）であり、国内の承認用量とは限らない。各薬剤の糖尿病黄斑浮腫に対する国内の承認・保険適用は未確認である（ベバシズマブの硝子体内投与は出典の試験でも適応外使用の位置づけ）。
+- 不確実性：数値はいずれも出典の抄録で確認した1年後の結果である。用量はアフリベルセプト2.0 mg、ベバシズマブ1.25 mg、ラニビズマブ0.3 mg（米国の試験用量）であり、国内の承認用量とは限らない。各薬剤の糖尿病黄斑浮腫に対する国内の承認・保険適用は未確認である（ベバシズマブの硝子体内投与は出典の試験でも適応外使用の位置づけ）。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アフリベルセプトは糖尿病黄斑浮腫で2014年11月18日に適応追加され、ラニビズマブ・ファリシマブも同適応で承認済み。一方、ベバシズマブの硝子体内投与は適応外のままで、注記のこの部分は現行どおり
 - 出典：Diabetic Retinopathy Clinical Research Network; Wells JA, Glassman AR, Ayala AR, et al. Aflibercept, bevacizumab, or ranibizumab for diabetic macular edema. N Engl J Med. 2015;372(13):1193-1203.　[DOI 10.1056/NEJMoa1414264](https://doi.org/10.1056/NEJMoa1414264)　[PMID 25692915](https://pubmed.ncbi.nlm.nih.gov/25692915/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅲ-6-C-①（糖尿病網膜症、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-497 (id: JlvnmOQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-003&card_id=RE-003&version=47fd9b8c9c)　（版 `47fd9b8c9c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-003&card_id=RE-003&version=c618018a6c)　（版 `c618018a6c`）
 
-**[ここまでの 1 件（RE-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-003&cards=RE-003%2047fd9b8c9c)**
+**[ここまでの 1 件（RE-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-003&cards=RE-003%20c618018a6c)**
 
 ---
 
@@ -59,12 +59,12 @@
 > 網膜静脈分枝閉塞症に伴う黄斑浮腫に対しては、ラニビズマブの硝子体内投与が有効である。第III相試験（BRAVO、397例）で月1回投与を6か月行ったところ、最高矯正視力の改善はラニビズマブ0.3 mg群で平均16.6文字、0.5 mg群で18.3文字、シャム群で7.3文字だった。15文字以上の視力改善を得た割合は0.3 mg群55.2%、0.5 mg群61.1%、シャム群28.8%だった。
 
 - 条件：region: 国際／study: 無作為化比較試験（BRAVO）
-- 不確実性：数値はいずれも出典の抄録で確認した6か月後の主要評価項目である。ラニビズマブの網膜静脈分枝閉塞症に伴う黄斑浮腫に対する国内の承認・保険適用は未確認である。虚血型・非虚血型の区別や無血管野へのレーザー治療の適応は本カードには含めていない。
+- 不確実性：数値はいずれも出典の抄録で確認した6か月後の主要評価項目である。ラニビズマブの網膜静脈分枝閉塞症に伴う黄斑浮腫に対する国内の承認・保険適用は未確認である。虚血型・非虚血型の区別や無血管野へのレーザー治療の適応は本カードには含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ラニビズマブ（ルセンティス）は網膜静脈閉塞症に伴う黄斑浮腫（網膜静脈分枝閉塞症を含む）の適応で2013年8月に承認され、保険適用がある（PMDA添付文書）。
 - 出典：Campochiaro PA, Heier JS, Feiner L, et al. Ranibizumab for macular edema following branch retinal vein occlusion: six-month primary end point results of a phase III study. Ophthalmology. 2010;117(6):1102-1112.e1.　[DOI 10.1016/j.ophtha.2010.02.021](https://doi.org/10.1016/j.ophtha.2010.02.021)　[PMID 20398941](https://pubmed.ncbi.nlm.nih.gov/20398941/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅲ-6-C-③（網膜静脈閉塞症、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-500 (id: JlvnmOo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-004&card_id=RE-004&version=b845811e41)　（版 `b845811e41`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-004&card_id=RE-004&version=c557ab6a8c)　（版 `c557ab6a8c`）
 
-**[ここまでの 1 件（RE-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-004&cards=RE-004%20b845811e41)**
+**[ここまでの 1 件（RE-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-004&cards=RE-004%20c557ab6a8c)**
 
 ---
 
@@ -75,12 +75,12 @@
 > 網膜中心静脈閉塞症に伴う黄斑浮腫に対しては、ラニビズマブの硝子体内投与が有効である。第III相試験（CRUISE、392例）で月1回投与を6か月行ったところ、最高矯正視力の改善はラニビズマブ0.3 mg群で平均12.7文字、0.5 mg群で14.9文字、シャム群で0.8文字だった。15文字以上の視力改善を得た割合は0.3 mg群46.2%、0.5 mg群47.7%、シャム群16.9%だった。
 
 - 条件：region: 国際／study: 無作為化比較試験（CRUISE）
-- 不確実性：数値はいずれも出典の抄録で確認した6か月後の主要評価項目である。ラニビズマブの網膜中心静脈閉塞症に伴う黄斑浮腫に対する国内の承認・保険適用は未確認である。虹彩・隅角新生血管や血管新生緑内障の監視といった合併症管理は本カードには含めていない。
+- 不確実性：数値はいずれも出典の抄録で確認した6か月後の主要評価項目である。ラニビズマブの網膜中心静脈閉塞症に伴う黄斑浮腫に対する国内の承認・保険適用は未確認である。虹彩・隅角新生血管や血管新生緑内障の監視といった合併症管理は本カードには含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ラニビズマブは網膜静脈閉塞症に伴う黄斑浮腫の適応で2013年8月20日に承認済み（PMDA再審査資料、2026-10-31確認）
 - 出典：Brown DM, Campochiaro PA, Singh RP, et al. Ranibizumab for macular edema following central retinal vein occlusion: six-month primary end point results of a phase III study. Ophthalmology. 2010;117(6):1124-1133.e1.　[DOI 10.1016/j.ophtha.2010.02.022](https://doi.org/10.1016/j.ophtha.2010.02.022)　[PMID 20381871](https://pubmed.ncbi.nlm.nih.gov/20381871/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅲ-6-C-③（網膜静脈閉塞症、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-500 (id: JlvnmOo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-005&card_id=RE-005&version=48b278ea8a)　（版 `48b278ea8a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-005&card_id=RE-005&version=b92b4a441e)　（版 `b92b4a441e`）
 
-**[ここまでの 1 件（RE-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-005&cards=RE-005%2048b278ea8a)**
+**[ここまでの 1 件（RE-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-005&cards=RE-005%20b92b4a441e)**
 
 ---
 
@@ -187,12 +187,12 @@
 > 新生血管を伴う加齢黄斑変性に対するラニビズマブの硝子体内投与は、視力低下を防ぎ平均視力を改善する。シャム対照試験（MARINA、716例、中心窩下の脈絡膜新生血管）では、12か月時点で15文字未満の視力低下にとどまった割合はラニビズマブ0.3 mg群94.5%、0.5 mg群94.6%、シャム群62.2%だった。15文字以上の視力改善は0.3 mg群24.8%、0.5 mg群33.8%、シャム群5.0%だった。24か月間で、注射に伴う眼内炎は1.0%、重篤なぶどう膜炎は1.3%に認められた。
 
 - 条件：region: 国際／study: 無作為化比較試験（MARINA）
-- 不確実性：数値はいずれも出典の抄録で確認した。対象は minimally classic 型または occult 型の脈絡膜新生血管であり、classic 型主体の病変への結果は別の試験の範囲である。ラニビズマブ以外の抗 VEGF 薬や現在の投与プロトコル（treat-and-extend 等）は本カードには含めていない。ラニビズマブの加齢黄斑変性に対する国内の承認・保険適用は未確認である。
+- 不確実性：数値はいずれも出典の抄録で確認した。対象は minimally classic 型または occult 型の脈絡膜新生血管であり、classic 型主体の病変への結果は別の試験の範囲である。ラニビズマブ以外の抗 VEGF 薬や現在の投与プロトコル（treat-and-extend 等）は本カードには含めていない。ラニビズマブの加齢黄斑変性に対する国内の承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ラニビズマブ（ルセンティス）は中心窩下脈絡膜新生血管を伴う加齢黄斑変性の適応で2009年1月に承認され、保険適用がある（PMDA添付文書）。
 - 出典：Rosenfeld PJ, Brown DM, Heier JS, et al. Ranibizumab for neovascular age-related macular degeneration. N Engl J Med. 2006;355(14):1419-1431.　[DOI 10.1056/NEJMoa054481](https://doi.org/10.1056/NEJMoa054481)　[PMID 17021318](https://pubmed.ncbi.nlm.nih.gov/17021318/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅲ-6-C-⑥（加齢黄斑変性、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-499 (id: JlvnmOI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-012&card_id=RE-012&version=a33a6324df)　（版 `a33a6324df`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-012&card_id=RE-012&version=408c18d16c)　（版 `408c18d16c`）
 
-**[ここまでの 1 件（RE-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-012&cards=RE-012%20a33a6324df)**
+**[ここまでの 1 件（RE-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-012&cards=RE-012%20408c18d16c)**
 
 ---
 
@@ -235,12 +235,12 @@
 > 網膜中心静脈閉塞症（半側静脈閉塞症を含む）に伴う黄斑浮腫への抗 VEGF 療法では、ベバシズマブはアフリベルセプトに対して視力の点で非劣性である。無作為化試験（SCORE2、362例）で4週ごとの硝子体内投与を6か月行ったところ、視力文字スコアの改善はベバシズマブ1.25 mg群で平均18.6文字、アフリベルセプト2.0 mg群で18.9文字であり、非劣性マージン5文字の基準を満たした。
 
 - 条件：region: 米国／study: 無作為化非劣性試験（SCORE2）
-- 不確実性：数値はいずれも出典の抄録で確認した6か月時点の結果である。出典自体が、ベバシズマブはこの病態に対して適応外で使用されていることを明記している。ベバシズマブの硝子体内投与およびアフリベルセプトの網膜中心静脈閉塞症に伴う黄斑浮腫に対する国内の承認・保険適用は未確認である。糖尿病黄斑浮腫など他の原因による黄斑浮腫の治療は RE-003 など別カードの範囲である。
+- 不確実性：数値はいずれも出典の抄録で確認した6か月時点の結果である。出典自体が、ベバシズマブはこの病態に対して適応外で使用されていることを明記している。ベバシズマブの硝子体内投与およびアフリベルセプトの網膜中心静脈閉塞症に伴う黄斑浮腫に対する国内の承認・保険適用は未確認である。糖尿病黄斑浮腫など他の原因による黄斑浮腫の治療は RE-003 など別カードの範囲である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アフリベルセプトは網膜中心静脈閉塞症に伴う黄斑浮腫で2013年11月22日に適応追加（2015年6月26日に網膜静脈閉塞症に伴う黄斑浮腫として整理）されており「未確認」は失効。一方、ベバシズマブの硝子体内投与は適応外のままで、この部分は現行どおり
 - 出典：Scott IU, VanVeldhuisen PC, Ip MS, et al. Effect of Bevacizumab vs Aflibercept on Visual Acuity Among Patients With Macular Edema Due to Central Retinal Vein Occlusion: The SCORE2 Randomized Clinical Trial. JAMA. 2017;317(20):2072-2087.　[DOI 10.1001/jama.2017.4568](https://doi.org/10.1001/jama.2017.4568)　[PMID 28492910](https://pubmed.ncbi.nlm.nih.gov/28492910/)（区分 UNKNOWN）
 - 出題基準：－　コアカリ：PS-02-15-05 (id: JkxnuTU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-015&card_id=RE-015&version=b738b10d39)　（版 `b738b10d39`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-015&card_id=RE-015&version=71885b1e98)　（版 `71885b1e98`）
 
-**[ここまでの 1 件（RE-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-015&cards=RE-015%20b738b10d39)**
+**[ここまでの 1 件（RE-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-015&cards=RE-015%2071885b1e98)**
 
 ---
 

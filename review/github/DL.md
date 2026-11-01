@@ -271,12 +271,12 @@
 > 米国の周産期メンタルヘルスの指針では、すべての妊産褥婦に検証済みの尺度でうつ・不安のスクリーニングを行う（初診時、妊娠後期、産後受診時）。産後精神病は即時の医療的対応（immediate medical attention）を要する状態である。抗うつ薬を開始する前に双極性障害のスクリーニングを行う（抗うつ薬単剤は躁・精神病・自殺リスクを悪化させうる）
 
 - 条件：region: 米国／対象: 妊産褥婦
-- 不確実性：日本では産婦健康診査（2017年度開始）で産後2週間・1か月にEPDS等による評価が行われる（国内制度の詳細は産科編2026の関連CQでの照合が必要）。治療・管理の詳細は同じ指針の No. 5（Obstet Gynecol. 2023;141(6):1262-1288、PMID: 37486661）にある。向精神薬の個別の国内承認・授乳期の扱いは添付文書での確認が必要であり、zuranolone・brexanoloneの国内承認は未確認のため、国内承認があるとは書かない
+- 不確実性：日本では産婦健康診査（2017年度開始）で産後2週間・1か月にEPDS等による評価が行われる（国内制度の詳細は産科編2026の関連CQでの照合が必要）。治療・管理の詳細は同じ指針の No. 5（Obstet Gynecol. 2023;141(6):1262-1288、PMID: 37486661）にある。向精神薬の個別の国内承認・授乳期の扱いは添付文書での確認が必要であり、zuranolone・brexanoloneの国内承認は未確認のため、国内承認があるとは書かない　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ズラノロン（ザズベイカプセル30mg）が2025年12月22日に「うつ病・うつ状態」で承認され、2026年3月に発売（承認番号30700AMX00258000）。産褥期うつ病専用の適応ではないが、産褥期の患者がうつ病・うつ状態と診断されれば表示の範囲内。一方ブレキサノロンは国内未承認のまま
 - 出典：American College of Obstetricians and Gynecologists. Screening and Diagnosis of Mental Health Conditions During Pregnancy and Postpartum: Clinical Practice Guideline No. 4. Obstet Gynecol. 2023;141(6):1232-1261　[DOI 10.1097/AOG.0000000000005200](https://doi.org/10.1097/AOG.0000000000005200)　[PMID 37486660](https://pubmed.ncbi.nlm.nih.gov/37486660/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅰ-2-K-①（産褥期精神障害、a）　コアカリ：PS-02-11-02 (id: JkxnuSI)；PS-02-11-05 (id: JkxnuSU)；TBL-02-10-006 (id: JlAKpqM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-021&card_id=DL-021&version=831a24339c)　（版 `831a24339c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-021&card_id=DL-021&version=c26923494f)　（版 `c26923494f`）
 
-**[ここまでの 2 件（DL-020〜DL-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DL-020%E3%80%9CDL-021&cards=DL-020%202a47f2aa1d%0ADL-021%20831a24339c)**
+**[ここまでの 2 件（DL-020〜DL-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DL-020%E3%80%9CDL-021&cards=DL-020%202a47f2aa1d%0ADL-021%20c26923494f)**
 
 ---
 

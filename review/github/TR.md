@@ -21,22 +21,22 @@
 > 広範囲熱傷の初期には、熱傷ショックに対する輸液蘇生が救命的であるが、過剰な輸液は全身の浮腫形成を助長し、かえって罹患率と死亡率を高めうる（輸液の過剰投与による弊害）。近年の研究では、内皮グリコカリックスの障害（熱傷性内皮障害）が浮腫形成の重要な機序とされ、晶質液に加えてアルブミンや血漿、高用量アスコルビン酸を用いる方法や、新しいモニタリングと蘇生の評価指標が検討されてきたが、いずれの方法も転帰を明確に改善する証明は得られていない。初期輸液は必要量を見積もりつつ、反応をみて過剰にならないよう調整することが重要である。
 
 - 条件：region: 海外／study: 総説
-- 不確実性：米国の熱傷学会の最新知見をまとめた総説に基づく。輸液量の具体的な計算式（体重と受傷面積を用いる方法）の数値は出典の抄録の範囲外のため含めていない。アルブミン製剤等の国内承認・保険適用は未確認。受傷直後の冷却などの応急処置は出典の対象外。
+- 不確実性：米国の熱傷学会の最新知見をまとめた総説に基づく。輸液量の具体的な計算式（体重と受傷面積を用いる方法）の数値は出典の抄録の範囲外のため含めていない。アルブミン製剤等の国内承認・保険適用は未確認。受傷直後の冷却などの応急処置は出典の対象外。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アルブミン製剤は承認・保険適用のある血液製剤であり、「未確認」は解消できる
 - 出典：Cartotto R, Burmeister DM, Kubasiak JC. Burn Shock and Resuscitation: Review and State of the Science. Journal of Burn Care & Research. 2022;43(3):567-585.　[DOI 10.1093/jbcr/irac025](https://doi.org/10.1093/jbcr/irac025)　[PMID 35218662](https://pubmed.ncbi.nlm.nih.gov/35218662/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅲ-11-A-①（熱傷、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-002&card_id=TR-002&version=10b26f1631)　（版 `10b26f1631`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-002&card_id=TR-002&version=e0d1758e40)　（版 `e0d1758e40`）
 
 ### TR-027　下書き（出典の照合前）
 
 > 重症熱傷の初期輸液蘇生は、modified Brooke 法や Parkland 法などの予測式を用いて開始し、尿量をはじめとする指標を見ながら1時間ごとに輸液速度を調整する。過剰な輸液は合併症を増やすため避けるべきであり、プロトコルやフローシート、診療ガイドラインに沿った管理は、投与輸液量と合併症の減少に関連するとされる。
 
 - 条件：region: 米国／study: 総説
-- 不確実性：予測式の具体的な係数や尿量目標の数値は抄録で確認できなかったため含めていない。日本の熱傷診療ガイドラインの推奨との対照は未実施。本カードで触れた輸液製剤等の国内の承認・保険適用は未確認。
+- 不確実性：予測式の具体的な係数や尿量目標の数値は抄録で確認できなかったため含めていない。日本の熱傷診療ガイドラインの推奨との対照は未実施。本カードで触れた輸液製剤等の国内の承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】輸液製剤（晶質液等）はいずれも承認・保険適用のある医薬品であり、「未確認」は解消できる
 - 出典：Cancio LC, Salinas J, Kramer GC. Protocolized Resuscitation of Burn Patients. Crit Care Clin. 2016;32(4):599-610.　[DOI 10.1016/j.ccc.2016.06.008](https://doi.org/10.1016/j.ccc.2016.06.008)　[PMID 27600131](https://pubmed.ncbi.nlm.nih.gov/27600131/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅲ-11-A-①（熱傷、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-027&card_id=TR-027&version=3f50f36bf4)　（版 `3f50f36bf4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-027&card_id=TR-027&version=312db34d67)　（版 `312db34d67`）
 
-**[ここまでの 3 件（TR-001〜TR-027）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TR-001%E3%80%9CTR-027&cards=TR-001%208ba0d7d4ba%0ATR-002%2010b26f1631%0ATR-027%203f50f36bf4)**
+**[ここまでの 3 件（TR-001〜TR-027）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TR-001%E3%80%9CTR-027&cards=TR-001%208ba0d7d4ba%0ATR-002%20e0d1758e40%0ATR-027%20312db34d67)**
 
 ---
 

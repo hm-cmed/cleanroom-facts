@@ -203,12 +203,12 @@
 > 原発性巣状分節性糸球体硬化症の初期治療は高用量のグルココルチコイドであり、蛋白尿の寛解を目指して十分な期間継続し、反応をみて漸減する。ステロイドに抵抗性または不耐の例では、カルシニューリン阻害薬などの免疫抑制療法が検討される。これに対して二次性のものでは免疫抑制療法は行わず、原因への対処と血圧管理、レニン・アンジオテンシン系阻害による腎保護が中心となる。
 
 - 条件：region: 国際／study: KDIGO 2021 糸球体疾患ガイドライン（FSGS の章）
-- 不確実性：グルココルチコイドとカルシニューリン阻害薬はいずれも国内承認薬だが、原発性FSGSに対する用量と投与期間の国内の適応・保険適用は未確認である。
+- 不確実性：グルココルチコイドとカルシニューリン阻害薬はいずれも国内承認薬だが、原発性FSGSに対する用量と投与期間の国内の適応・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】シクロスポリンはネフローゼ症候群の適応で承認済みであり、副腎皮質ステロイドは同症候群の標準治療として保険診療で用いられる（PMDA添付文書情報、2026-10-31確認）
 - 出典：Kidney Disease: Improving Global Outcomes (KDIGO) Glomerular Diseases Work Group. KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases. Kidney Int. 2021;100(4S):S1-S276　[DOI 10.1016/j.kint.2021.05.021](https://doi.org/10.1016/j.kint.2021.05.021)　[PMID 34556256](https://pubmed.ncbi.nlm.nih.gov/34556256/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-1-B-②（巣状分節性糸球体硬化症、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-324 (id: Jlvnl9g)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-014&card_id=GN-014&version=3f408fbf3d)　（版 `3f408fbf3d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-014&card_id=GN-014&version=02a028ef53)　（版 `02a028ef53`）
 
-**[ここまでの 2 件（GN-013〜GN-014）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GN-013%E3%80%9CGN-014&cards=GN-013%2062ce54b107%0AGN-014%203f408fbf3d)**
+**[ここまでの 2 件（GN-013〜GN-014）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GN-013%E3%80%9CGN-014&cards=GN-013%2062ce54b107%0AGN-014%2002a028ef53)**
 
 ---
 
@@ -471,12 +471,12 @@
 > 関節リウマチの患者に腎生検を行った156例（1990〜2019年）の解析では、腎病変の主なものは膜性腎症、腎硬化症、AA アミロイドーシス、IgA 腎症の4つだった。AA アミロイドーシスは21例にみられ、時期別では1990年代に7例、2000年代に10例、2010年代に4例で、2015年以降は新たな例がなかった。AA アミロイドーシスの21例はいずれも生物学的製剤やメトトレキサートによる治療を受けておらず、そのうち15例が透析を必要とし、13例が死亡した。生物学的製剤やメトトレキサートが使われるようになった時代には、ほかの腎病変も含めて透析への進行は減った。
 
 - 条件：region: 日本／study: 単一施設で腎生検を受けた関節リウマチ患者156例の後方視解析
-- 不確実性：腎生検を受けた患者に限った集計であり、関節リウマチ全体での腎障害の頻度を示すものではない。薬剤性の腎障害（鎮痛薬や抗リウマチ薬による間質性腎炎など）は、この生検集計では主要な病変としては扱われていない。メトトレキサートや生物学的製剤の国内の承認・保険適用は未確認。
+- 不確実性：腎生検を受けた患者に限った集計であり、関節リウマチ全体での腎障害の頻度を示すものではない。薬剤性の腎障害（鎮痛薬や抗リウマチ薬による間質性腎炎など）は、この生検集計では主要な病変としては扱われていない。メトトレキサートや生物学的製剤の国内の承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】メトトレキサート・生物学的製剤はいずれも関節リウマチの適応で国内承認・保険収載済み（PMDA添付文書情報、2026-10-31確認）
 - 出典：Sawamura M, Sawa N, Yamanouchi M, Ikuma D, Sekine A, Mizuno H, et al. Use of biologic agents and methotrexate improves renal manifestation and outcome in patients with rheumatoid arthritis: a retrospective analysis. Clin Exp Nephrol. 2022;26(4):341-349　[DOI 10.1007/s10157-021-02160-2](https://doi.org/10.1007/s10157-021-02160-2)　[PMID 34846624](https://pubmed.ncbi.nlm.nih.gov/34846624/)（区分 OPEN）
 - 出題基準：医学各論 Ⅷ-1-D-④（関節リウマチ、c）　コアカリ：PS-02-09-05 (id: JkxnuRs)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-035&card_id=GN-035&version=dd3725168b)　（版 `dd3725168b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-035&card_id=GN-035&version=7d10f6d361)　（版 `7d10f6d361`）
 
-**[ここまでの 1 件（GN-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GN-035&cards=GN-035%20dd3725168b)**
+**[ここまでの 1 件（GN-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GN-035&cards=GN-035%207d10f6d361)**
 
 ---
 

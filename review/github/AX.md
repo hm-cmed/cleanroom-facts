@@ -47,10 +47,10 @@
 > 日本には全般性不安障害の診療ガイドラインがなく、臨床では多様な国際ガイドラインが使われている。精神科専門医を対象とした国内調査では、回答者の96.8%が全般性不安障害の治療にSSRIを使用し、79.2%がSSRIを第一選択としていた。日本における全般性不安障害の生涯有病率は2.6%と報告されている（世界精神保健調査に基づく値）。
 
 - 条件：region: 日本／対象: 日本の全般性不安障害患者
-- 不確実性：全般性不安障害を効能とする国内承認薬は確認できておらず、SSRIの使用は適応外の位置づけになる。有病率2.6%は世界精神保健調査に基づく値として出典に記載されたものである。
+- 不確実性：全般性不安障害を効能とする国内承認薬は確認できておらず、SSRIの使用は適応外の位置づけになる。有病率2.6%は世界精神保健調査に基づく値として出典に記載されたものである。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ベンラファキシン（イフェクサーSRカプセル）が2026年3月に全般不安症の適応で国内初の承認を取得（PMDA審議結果報告書、2026年3月10日時点では「GADに対して適応を有している薬剤はない」と審査されていた）。「全般性不安障害を効能とする国内承認薬は確認できていない」は失効
 - 出典：Nomoto K, Takashio O, Matsuyama S, et al. Diagnosis and Treatment of Generalized Anxiety Disorder in Japan: Psychiatric Specialist Survey. Neuropsychiatr Dis Treat. 2024;20:1001-1010　[DOI 10.2147/NDT.S456276](https://doi.org/10.2147/NDT.S456276)　[PMID 38764746](https://pubmed.ncbi.nlm.nih.gov/38764746/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅱ-3-A-②（全般性不安障害<全般不安症>、b）　コアカリ：PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-02-16-002 (id: JlAKpy0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AX-004&card_id=AX-004&version=41ebf37077)　（版 `41ebf37077`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AX-004&card_id=AX-004&version=5146989e93)　（版 `5146989e93`）
 
 ### AX-005　下書き（出典の照合前）
 
@@ -62,7 +62,7 @@
 - 出題基準：医学各論 Ⅱ-3-A-②（全般性不安障害<全般不安症>、b）　コアカリ：PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-02-16-002 (id: JlAKpy0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AX-005&card_id=AX-005&version=5231f552c7)　（版 `5231f552c7`）
 
-**[ここまでの 2 件（AX-004〜AX-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AX-004%E3%80%9CAX-005&cards=AX-004%2041ebf37077%0AAX-005%205231f552c7)**
+**[ここまでの 2 件（AX-004〜AX-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AX-004%E3%80%9CAX-005&cards=AX-004%205146989e93%0AAX-005%205231f552c7)**
 
 ---
 

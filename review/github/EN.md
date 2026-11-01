@@ -43,12 +43,12 @@
 > 先天性低ゴナドトロピン性性腺機能低下症は、GnRH の産生・分泌・作用の欠損によって思春期発来の欠如と不妊を呈するまれな疾患で、原因遺伝子は25種類以上が同定されている。嗅覚の障害（無嗅覚症・嗅覚低下）を伴うものが Kallmann 症候群で、全体の約50%を占める。体質性の思春期遅発との鑑別が難しいことがある。専門的な治療で思春期の誘導と妊孕性の獲得が可能な場合が多い一方、約10〜20%の患者では生殖機能の自然回復がみられるため、長期の経過観察が必要である。
 
 - 条件：region: 欧州／study: コンセンサス声明（European Consensus Statement、2015年）
-- 不確実性：数値（原因遺伝子25種類以上、嗅覚障害約50%、自然回復約10〜20%）は出典の抄録で確認した。個別の遺伝子の頻度や、日本における遺伝子診断の実施体制は未確認である。治療に用いるゴナドトロピン製剤などの国内承認・保険適用は未確認である。
+- 不確実性：数値（原因遺伝子25種類以上、嗅覚障害約50%、自然回復約10〜20%）は出典の抄録で確認した。個別の遺伝子の頻度や、日本における遺伝子診断の実施体制は未確認である。治療に用いるゴナドトロピン製剤などの国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ゴナドトロピン製剤は承認・保険適用あり：hCG製剤の効能に無排卵症・下垂体性男子性腺機能不全症等が含まれ、ホリトロピンアルファには低ゴナドトロピン性男子性腺機能低下症における精子形成の誘導の効能がある（PMDA審査報告書・厚生労働省通知、2026-10-31確認）。遺伝子診断の実施体制の部分は本確認の対象外
 - 出典：Boehm U, Bouloux PM, Dattani MT, et al. Expert Consensus Document: European Consensus Statement on Congenital Hypogonadotropic Hypogonadism—Pathogenesis, Diagnosis and Treatment. Nature Reviews Endocrinology. 2015;11(9):547-564.　[DOI 10.1038/nrendo.2015.112](https://doi.org/10.1038/nrendo.2015.112)　[PMID 26194704](https://pubmed.ncbi.nlm.nih.gov/26194704/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-A-③（低ゴナドトロピン性性腺機能低下症、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-003&card_id=EN-003&version=551b0c4682)　（版 `551b0c4682`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-003&card_id=EN-003&version=ebc4b681e1)　（版 `ebc4b681e1`）
 
-**[ここまでの 1 件（EN-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EN-003&cards=EN-003%20551b0c4682)**
+**[ここまでの 1 件（EN-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EN-003&cards=EN-003%20ebc4b681e1)**
 
 ---
 
@@ -137,12 +137,12 @@
 > 下垂体腺腫の治療は腫瘍型によって異なる。プロラクチノーマではドパミン作動薬（カベルゴリン、ブロモクリプチン）が第一選択であり、それ以外の腺腫では経蝶形骨洞手術が第一選択となる。手術で治癒しない場合は薬物療法や放射線治療が追加される。圧迫症状のない非機能性腺腫が偶然見つかった場合は、画像で経過観察することもできる。
 
 - 条件：region: 米国／study: 総説（JAMA、2017年）
-- 不確実性：治療の原則は出典の抄録で確認した。各腺腫型の薬物療法の詳細（薬剤の選択順位や有効率）は抄録の範囲を超えるため主張文には入れていない。ドパミン作動薬など個別薬剤の国内承認・保険適用は未確認である。
+- 不確実性：治療の原則は出典の抄録で確認した。各腺腫型の薬物療法の詳細（薬剤の選択順位や有効率）は抄録の範囲を超えるため主張文には入れていない。ドパミン作動薬など個別薬剤の国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】カベルゴリン（カバサール）は高プロラクチン血性下垂体腺腫等、ブロモクリプチン（パーロデル）は下垂体性プロラクチン分泌異常等の適応で承認済み。「ドパミン作動薬の承認・保険適用は未確認」は解消できる
 - 出典：Molitch ME. Diagnosis and Treatment of Pituitary Adenomas: A Review. JAMA. 2017;317(5):516-524.　[DOI 10.1001/jama.2016.19699](https://doi.org/10.1001/jama.2016.19699)　[PMID 28170483](https://pubmed.ncbi.nlm.nih.gov/28170483/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅹ-1-B-③（下垂体腫瘍、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-461 (id: JlvnmK0)；TBL-01-00-669 (id: Jlvnmek)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-010&card_id=EN-010&version=1767182cb3)　（版 `1767182cb3`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-010&card_id=EN-010&version=d4253195e6)　（版 `d4253195e6`）
 
-**[ここまでの 2 件（EN-009〜EN-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EN-009%E3%80%9CEN-010&cards=EN-009%20e29d081e29%0AEN-010%201767182cb3)**
+**[ここまでの 2 件（EN-009〜EN-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EN-009%E3%80%9CEN-010&cards=EN-009%20e29d081e29%0AEN-010%20d4253195e6)**
 
 ---
 
@@ -535,12 +535,12 @@
 > 膵神経内分泌腫瘍は、神経内分泌腫瘍（NEN）の一型である。NENは全悪性腫瘍の約2%を占めるまれで多様な腫瘍群で、臨床経過、組織像、増殖能に基づいて、高分化型の神経内分泌腫瘍（NET）と低分化型の神経内分泌癌（NEC）に大別され、この区別は治療方針と予後を大きく左右する。膵NETには、過剰に分泌されるホルモンによる症候を呈する機能性腫瘍（インスリノーマ、ガストリノーマなど）と、ホルモン症候を呈さない非機能性腫瘍がある。また膵島腫瘍は多発性内分泌腫瘍症1型（MEN1）の主徴の一つであり、遺伝性疾患に合併する膵NETでは、その背景を踏まえた評価が必要である。
 
 - 条件：region: 国際／study: 神経内分泌腫瘍の総説（2017年）
-- 不確実性：「全悪性腫瘍の約2%」は抄録に引用された先行報告に基づく値で、米国の有病者数（200,000人未満）も同抄録の記載による。MEN1の主徴としての膵島腫瘍の位置づけは EN-034 の出典（SRC-896）で確認した内容であり、本カードの出典はNEN全般の総説である。膵NETの個別の治療薬（ソマトスタチンアナログなど）の有効性の数値と国内承認・保険適用は未確認で、主張文には含めていない。
+- 不確実性：「全悪性腫瘍の約2%」は抄録に引用された先行報告に基づく値で、米国の有病者数（200,000人未満）も同抄録の記載による。MEN1の主徴としての膵島腫瘍の位置づけは EN-034 の出典（SRC-896）で確認した内容であり、本カードの出典はNEN全般の総説である。膵NETの個別の治療薬（ソマトスタチンアナログなど）の有効性の数値と国内承認・保険適用は未確認で、主張文には含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ソマトスタチンアナログ（オクトレオチド徐放製剤、ランレオチド）は神経内分泌腫瘍の適応で承認済みで、エベロリムス・スニチニブも膵神経内分泌腫瘍の適応を持つ（PMDA添付文書情報、2026-10-31確認）
 - 出典：Oronsky B, Ma PC, Morgensztern D, Carter CA. Nothing But NET: A Review of Neuroendocrine Tumors and Carcinomas. Neoplasia. 2017;19(12):991-1002.　[DOI 10.1016/j.neo.2017.09.002](https://doi.org/10.1016/j.neo.2017.09.002)　[PMID 29091800](https://pubmed.ncbi.nlm.nih.gov/29091800/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-5-B-②（膵神経内分泌腫瘍、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-036&card_id=EN-036&version=6458ccf271)　（版 `6458ccf271`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-036&card_id=EN-036&version=1703ebd1db)　（版 `1703ebd1db`）
 
-**[ここまでの 1 件（EN-036）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EN-036&cards=EN-036%206458ccf271)**
+**[ここまでの 1 件（EN-036）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EN-036&cards=EN-036%201703ebd1db)**
 
 ---
 

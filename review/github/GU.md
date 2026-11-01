@@ -37,12 +37,12 @@
 > 未治療の進行腎細胞癌でIMDC分類の中リスク・高リスクの患者を対象とした第III相試験では、ニボルマブとイピリムマブの併用はスニチニブ単独に比べ、18か月時点の全生存割合が75%対60%、死亡のハザード比0.63、奏効率42%対27%、完全奏効率9%対1%であった。グレード3〜4の治療関連有害事象は併用群46%対単独群63%であった。
 
 - 条件：region: 国際／study: 第III相ランダム化比較試験（CheckMate 214、1096例登録、中・高リスク集団での主要評価）
-- 不確実性：追跡期間中央値25.2か月時点の結果である。ニボルマブ、イピリムマブ、スニチニブの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。
+- 不確実性：追跡期間中央値25.2か月時点の結果である。ニボルマブ、イピリムマブ、スニチニブの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ニボルマブ＋イピリムマブ併用療法は化学療法未治療の進行腎細胞癌に対して2018年8月に承認され、スニチニブも腎細胞癌の適応で承認・保険適用あり（PMDA最適使用推進ガイドライン、承認時資料）。
 - 出典：Motzer RJ, Tannir NM, McDermott DF, et al. Nivolumab plus Ipilimumab versus Sunitinib in Advanced Renal-Cell Carcinoma. N Engl J Med. 2018;378(14):1277-1290　[DOI 10.1056/NEJMoa1712126](https://doi.org/10.1056/NEJMoa1712126)　[PMID 29562145](https://pubmed.ncbi.nlm.nih.gov/29562145/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-6-A-①（腎細胞癌、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-656 (id: JlvnmdY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-002&card_id=GU-002&version=fabc724357)　（版 `fabc724357`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-002&card_id=GU-002&version=12577e0c8a)　（版 `12577e0c8a`）
 
-**[ここまでの 1 件（GU-002）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-002&cards=GU-002%20fabc724357)**
+**[ここまでの 1 件（GU-002）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-002&cards=GU-002%2012577e0c8a)**
 
 ---
 
@@ -53,22 +53,22 @@
 > 上部尿路尿路上皮癌は診断時に約60%が浸潤性であり、組織型と画像検査を含む臨床評価によるリスク層別化と、リンチ症候群のリスク評価が管理の指針となる。低リスクの腫瘍では、対側の腎が健常でも腎温存治療を第一の選択肢として提示する。高リスクの腫瘍では根治的腎尿管全摘が基本となり、術後のプラチナ製剤による化学療法が選択肢となり、化学療法を受けられない、または希望しない患者では術後ニボルマブも選択肢となる。
 
 - 条件：region: 欧州／study: EAUガイドライン（上部尿路尿路上皮癌、2023年改訂版）
-- 不確実性：欧州のガイドラインの推奨文に基づく記述である。リスク分類の具体的な判定項目と数値閾値はガイドライン本文の表から読み取る必要があるため本カードには含めていない。プラチナ製剤とニボルマブの国内の承認・保険適用は未確認である。
+- 不確実性：欧州のガイドラインの推奨文に基づく記述である。リスク分類の具体的な判定項目と数値閾値はガイドライン本文の表から読み取る必要があるため本カードには含めていない。プラチナ製剤とニボルマブの国内の承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ニボルマブは「尿路上皮癌における術後補助療法」を2022年3月28日に国内承認（腎盂・尿管原発を含む）。根治切除不能な尿路上皮癌への併用療法も2024年12月27日に承認。プラチナ製剤は標準の承認薬（PMDA承認情報、2026-10-31確認）
 - 出典：Rouprêt M, Seisen T, Birtle AJ, et al. European Association of Urology Guidelines on Upper Urinary Tract Urothelial Carcinoma: 2023 Update. Eur Urol. 2023;84(1):49-64　[DOI 10.1016/j.eururo.2023.03.013](https://doi.org/10.1016/j.eururo.2023.03.013)　[PMID 36967359](https://pubmed.ncbi.nlm.nih.gov/36967359/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-6-A-②（腎盂・尿管癌、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-657 (id: Jlvnmdg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-004&card_id=GU-004&version=1d667d841f)　（版 `1d667d841f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-004&card_id=GU-004&version=d7fc1eb3a9)　（版 `d7fc1eb3a9`）
 
 ### GU-005　下書き（出典の照合前）
 
 > 腎尿管全摘後の病理学的病期pT2〜T4またはリンパ節転移陽性の上部尿路尿路上皮癌261例を対象とした第III相試験では、術後90日以内に開始したゲムシタビンとプラチナ製剤（シスプラチン、腎機能が低い場合はカルボプラチン）の併用4サイクルは、経過観察に比べ3年無病生存割合が71%対46%、無病生存のハザード比0.45と良好であった。
 
 - 条件：region: 英国／study: 第III相ランダム化比較試験（POUT試験、英国71施設）
-- 不確実性：術後補助化学療法の成績であり、術前化学療法の成績ではない。ゲムシタビン、シスプラチン、カルボプラチンの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。
+- 不確実性：術後補助化学療法の成績であり、術前化学療法の成績ではない。ゲムシタビン、シスプラチン、カルボプラチンの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ゲムシタビン（ジェムザール）は尿路上皮癌の効能・効果を有する承認薬であり、シスプラチン・カルボプラチンも長期承認済み。「承認・保険適用は未確認」は解消できる
 - 出典：Birtle A, Johnson M, Chester J, et al. Adjuvant chemotherapy in upper tract urothelial carcinoma (the POUT trial): a phase 3, open-label, randomised controlled trial. Lancet. 2020;395(10232):1268-1277　[DOI 10.1016/S0140-6736(20)30415-3](https://doi.org/10.1016/S0140-6736(20)30415-3)　[PMID 32145825](https://pubmed.ncbi.nlm.nih.gov/32145825/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-6-A-②（腎盂・尿管癌、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-657 (id: Jlvnmdg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-005&card_id=GU-005&version=6c3ae005c1)　（版 `6c3ae005c1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-005&card_id=GU-005&version=a727eddb73)　（版 `a727eddb73`）
 
-**[ここまでの 2 件（GU-004〜GU-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-004%E3%80%9CGU-005&cards=GU-004%201d667d841f%0AGU-005%206c3ae005c1)**
+**[ここまでの 2 件（GU-004〜GU-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-004%E3%80%9CGU-005&cards=GU-004%20d7fc1eb3a9%0AGU-005%20a727eddb73)**
 
 ---
 
@@ -89,10 +89,10 @@
 > 局所進行膀胱癌（T2〜T4a、転移なし）307例を対象としたランダム化試験では、根治的膀胱全摘の前にMVAC療法（メトトレキサート、ビンブラスチン、ドキソルビシン、シスプラチン）を3サイクル行った群は全摘単独群に比べ、生存期間中央値が77か月対46か月、全摘標本で残存癌を認めない割合が38%対15%であった。
 
 - 条件：region: 米国／study: ランダム化比較試験（SWOG 8710）
-- 不確実性：MVAC療法の各薬剤の国内の承認・保険適用は未確認である。ゲムシタビンとシスプラチンの併用など現在のレジメンとの直接比較は本試験の範囲外である。
+- 不確実性：MVAC療法の各薬剤の国内の承認・保険適用は未確認である。ゲムシタビンとシスプラチンの併用など現在のレジメンとの直接比較は本試験の範囲外である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】MVAC療法（メトトレキサート、ビンブラスチン、ドキソルビシン、シスプラチン）は膀胱癌・尿路上皮癌の標準治療として保険診療で実施されている（国立がん研究センター系・大学病院の公開資料。個別薬剤の効能記載は製剤により異なる点に留意）。
 - 出典：Grossman HB, Natale RB, Tangen CM, et al. Neoadjuvant chemotherapy plus cystectomy compared with cystectomy alone for locally advanced bladder cancer. N Engl J Med. 2003;349(9):859-866　[DOI 10.1056/NEJMoa022148](https://doi.org/10.1056/NEJMoa022148)　[PMID 12944571](https://pubmed.ncbi.nlm.nih.gov/12944571/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-6-B-①（膀胱癌、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-657 (id: Jlvnmdg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-007&card_id=GU-007&version=101b287a2e)　（版 `101b287a2e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-007&card_id=GU-007&version=3a5e026640)　（版 `3a5e026640`）
 
 ### GU-008　下書き（出典の照合前）
 
@@ -109,12 +109,12 @@
 > 根治的手術後の再発高リスクの筋層浸潤尿路上皮癌709例を対象としたCheckMate 274試験では、術後のニボルマブ（240 mgを2週ごと、最長1年）はプラセボに比べ、無病生存期間中央値が20.8か月対10.8か月、6か月時点で再発なく生存している割合が74.9%対60.3%（ハザード比0.70）であった。腫瘍のPD-L1発現が1%以上の集団ではハザード比0.55であった。グレード3以上の治療関連有害事象は17.9%対7.2%であった。
 
 - 条件：region: 国際／study: 第III相ランダム化比較試験（CheckMate 274、膀胱・尿管・腎盂原発を含む）
-- 不確実性：上部尿路原発は登録全体の約2割に制限された試験であり、上部尿路原発のみでの効果量は限定的である。ニボルマブの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。
+- 不確実性：上部尿路原発は登録全体の約2割に制限された試験であり、上部尿路原発のみでの効果量は限定的である。ニボルマブの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】GU-004と同じ：ニボルマブの尿路上皮癌術後補助療法は2022年3月28日に国内承認済み（PMDA承認情報、2026-10-31確認）
 - 出典：Bajorin DF, Witjes JA, Gschwend JE, et al. Adjuvant Nivolumab versus Placebo in Muscle-Invasive Urothelial Carcinoma. N Engl J Med. 2021;384(22):2102-2114　[DOI 10.1056/NEJMoa2034442](https://doi.org/10.1056/NEJMoa2034442)　[PMID 34077643](https://pubmed.ncbi.nlm.nih.gov/34077643/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-6-B-①（膀胱癌、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-657 (id: Jlvnmdg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-018&card_id=GU-018&version=4cfe757dd2)　（版 `4cfe757dd2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-018&card_id=GU-018&version=2c5c91d354)　（版 `2c5c91d354`）
 
-**[ここまでの 4 件（GU-006〜GU-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-006%E3%80%9CGU-018&cards=GU-006%20cdfb2cffbf%0AGU-007%20101b287a2e%0AGU-008%2006b204d2b7%0AGU-018%204cfe757dd2)**
+**[ここまでの 4 件（GU-006〜GU-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-006%E3%80%9CGU-018&cards=GU-006%20cdfb2cffbf%0AGU-007%203a5e026640%0AGU-008%2006b204d2b7%0AGU-018%202c5c91d354)**
 
 ---
 
@@ -197,20 +197,20 @@
 > 新規に診断された高リスクの転移性去勢感受性前立腺癌1199例を対象としたLATITUDE試験では、アンドロゲン除去療法にアビラテロンとプレドニゾンを併用すると、全生存期間中央値は未到達対34.7か月（死亡のハザード比0.62）、画像的無増悪生存期間中央値は33.0か月対14.8か月（ハザード比0.47）であった。グレード3の高血圧と低カリウム血症は併用群で多かった。
 
 - 条件：region: 国際／study: 第III相ランダム化比較試験（LATITUDE、追跡期間中央値30.4か月）
-- 不確実性：アビラテロンとプレドニゾンの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。対象は新規診断の高リスク転移性去勢感受性前立腺癌に限られる。
+- 不確実性：アビラテロンとプレドニゾンの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。対象は新規診断の高リスク転移性去勢感受性前立腺癌に限られる。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アビラテロン（ザイティガ）は2014年に去勢抵抗性前立腺癌で承認され、その後適応が拡大している。併用のプレドニゾン（プレドニゾロン）も承認薬。「未確認」は解消できる
 - 出典：Fizazi K, Tran N, Fein L, et al.; LATITUDE Investigators. Abiraterone plus Prednisone in Metastatic, Castration-Sensitive Prostate Cancer. N Engl J Med. 2017;377(4):352-360　[DOI 10.1056/NEJMoa1704174](https://doi.org/10.1056/NEJMoa1704174)　[PMID 28578607](https://pubmed.ncbi.nlm.nih.gov/28578607/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-6-C-②（前立腺癌、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-01-00-658 (id: Jlvnmdk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-015&card_id=GU-015&version=e40c6b3ff5)　（版 `e40c6b3ff5`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-015&card_id=GU-015&version=f9b4f9fcaf)　（版 `f9b4f9fcaf`）
 
 ### GU-016　下書き（出典の照合前）
 
 > 化学療法歴のない転移性去勢抵抗性前立腺癌1717例を対象としたPREVAIL試験では、エンザルタミドはプラセボに比べ、12か月時点の画像的無増悪生存割合が65%対14%（ハザード比0.19）、死亡のハザード比0.71であり、化学療法の開始までの期間も延長した。
 
 - 条件：region: 国際／study: 第III相ランダム化比較試験（PREVAIL）
-- 不確実性：エンザルタミドの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。数値は中間解析（データカットオフ時点）を含む結果である。
+- 不確実性：エンザルタミドの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。数値は中間解析（データカットオフ時点）を含む結果である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】エンザルタミド（イクスタンジ）は2014-03-24に去勢抵抗性前立腺癌で承認され、その後「遠隔転移を有する前立腺癌」も追加され（2020年、PMDA審査報告書）、承認・保険適用あり。
 - 出典：Beer TM, Armstrong AJ, Rathkopf DE, et al.; PREVAIL Investigators. Enzalutamide in Metastatic Prostate Cancer before Chemotherapy. N Engl J Med. 2014;371(5):424-433　[DOI 10.1056/NEJMoa1405095](https://doi.org/10.1056/NEJMoa1405095)　[PMID 24881730](https://pubmed.ncbi.nlm.nih.gov/24881730/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-6-C-②（前立腺癌、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-01-00-658 (id: Jlvnmdk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-016&card_id=GU-016&version=c8e3149dca)　（版 `c8e3149dca`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-016&card_id=GU-016&version=89afc13ce4)　（版 `89afc13ce4`）
 
 ### GU-017　下書き（出典の照合前）
 
@@ -222,7 +222,7 @@
 - 出題基準：医学各論 Ⅷ-6-C-②（前立腺癌、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-01-00-658 (id: Jlvnmdk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-017&card_id=GU-017&version=70ae168237)　（版 `70ae168237`）
 
-**[ここまでの 6 件（GU-012〜GU-017）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-012%E3%80%9CGU-017&cards=GU-012%2075f90bf6f9%0AGU-013%20b27908e49e%0AGU-014%203f932b7e42%0AGU-015%20e40c6b3ff5%0AGU-016%20c8e3149dca%0AGU-017%2070ae168237)**
+**[ここまでの 6 件（GU-012〜GU-017）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GU-012%E3%80%9CGU-017&cards=GU-012%2075f90bf6f9%0AGU-013%20b27908e49e%0AGU-014%203f932b7e42%0AGU-015%20f9b4f9fcaf%0AGU-016%2089afc13ce4%0AGU-017%2070ae168237)**
 
 ---
 

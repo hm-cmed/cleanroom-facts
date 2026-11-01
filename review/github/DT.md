@@ -213,12 +213,12 @@
 > 切除不能な進行期皮膚有棘細胞癌に対する抗PD-1抗体セミプリマブの第2相試験では、転移性コホートの奏効率は47%（28/59例）であり、奏効例の82%でデータカットオフ時点まで奏効が持続していた。
 
 - 条件：region: 国際／study: 第1相・第2相試験
-- 不確実性：セミプリマブの国内の承認・保険適用は未確認。数値は抄録に記載された第2相試験の転移性コホートの結果であり、追跡期間の中央値は7.9か月である。
+- 不確実性：セミプリマブの国内の承認・保険適用は未確認。数値は抄録に記載された第2相試験の転移性コホートの結果であり、追跡期間の中央値は7.9か月である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】セミプリマブ（リブタヨ）が2026年8月24日に「根治切除不能な進行・再発の有棘細胞癌」および「再発リスクが高い有棘細胞癌における術後補助療法」の適応追加を取得（PMDA最適使用推進ガイドライン、同日付）
 - 出典：Migden MR, Rischin D, Schmults CD, et al. PD-1 Blockade with Cemiplimab in Advanced Cutaneous Squamous-Cell Carcinoma. New England Journal of Medicine. 2018;379(4):341-351.　[DOI 10.1056/NEJMoa1805131](https://doi.org/10.1056/NEJMoa1805131)　[PMID 29863979](https://pubmed.ncbi.nlm.nih.gov/29863979/)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅲ-2-F-①（有棘細胞癌、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-635 (id: JlvnmbU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-020&card_id=DT-020&version=2e56ca500b)　（版 `2e56ca500b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-020&card_id=DT-020&version=287fea6afa)　（版 `287fea6afa`）
 
-**[ここまでの 2 件（DT-019〜DT-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-019%E3%80%9CDT-020&cards=DT-019%205befb9b2b7%0ADT-020%202e56ca500b)**
+**[ここまでの 2 件（DT-019〜DT-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DT-019%E3%80%9CDT-020&cards=DT-019%205befb9b2b7%0ADT-020%20287fea6afa)**
 
 ---
 

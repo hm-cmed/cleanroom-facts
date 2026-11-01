@@ -124,7 +124,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: 全般性不安障害を効能とする国内承認薬は確認できておらず、SSRIの使用は適応外の位置づけになる。有病率2.6%は世界精神保健調査に基づく値として出典に記載されたものである。
+  uncertainty: 全般性不安障害を効能とする国内承認薬は確認できておらず、SSRIの使用は適応外の位置づけになる。有病率2.6%は世界精神保健調査に基づく値として出典に記載されたものである。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ベンラファキシン（イフェクサーSRカプセル）が2026年3月に全般不安症の適応で国内初の承認を取得（PMDA審議結果報告書、2026年3月10日時点では「GADに対して適応を有している薬剤はない」と審査されていた）。「全般性不安障害を効能とする国内承認薬は確認できていない」は失効
   curriculum:
     kokushi: 医学各論 Ⅱ-3-A-②（全般性不安障害<全般不安症>、b）
     core_curriculum: 'PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-02-16-002 (id: JlAKpy0)'
@@ -138,6 +138,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/52_ps_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-01'
+    by: claude-code
+    change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
 - id: AX-005
   domain: AX
   subdomain: 全般性不安障害

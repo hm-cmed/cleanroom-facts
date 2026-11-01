@@ -162,10 +162,10 @@
 
 - 条件：region: 国際（多施設共同試験）
 - よくある誤解：EGFR 変異陽性肺癌の初回治療では、どの EGFR チロシンキナーゼ阻害薬を選んでも全生存期間は変わらない
-- 不確実性：ハザード比は抄録で0.799（95.05% CI 0.641〜0.997）、本文では上限が0.996と記載が異なる。無増悪生存期間の主解析（Soria 2018）は別の文献で未取得。オシメルチニブの国内承認・保険適用は未確認
+- 不確実性：ハザード比は抄録で0.799（95.05% CI 0.641〜0.997）、本文では上限が0.996と記載が異なる。無増悪生存期間の主解析（Soria 2018）は別の文献で未取得。オシメルチニブの国内承認・保険適用は未確認　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】オシメルチニブ（タグリッソ）は2016年3月28日に承認され、2016年5月25日に薬価収載・発売。その後、一次治療・術後補助療法等へ適応拡大済み
 - 出典：Ramalingam SS, Vansteenkiste J, Planchard D, et al. Overall Survival with Osimertinib in Untreated, EGFR-Mutated Advanced NSCLC. N Engl J Med 2020;382:41-50　[DOI 10.1056/NEJMoa1913662](https://doi.org/10.1056/NEJMoa1913662)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-04 (id: JkxnuRA)；TBL-01-00-643 (id: JlvnmcI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-015&card_id=LC-015&version=14e4f59a91)　（版 `14e4f59a91`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-015&card_id=LC-015&version=6e862d3205)　（版 `6e862d3205`）
 
 ### LC-031　下書き（出典の照合前）
 
@@ -219,7 +219,7 @@
 - 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-043&card_id=LC-043&version=819c7499b6)　（版 `819c7499b6`）
 
-**[ここまでの 10 件（LC-011〜LC-043）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LC-011%E3%80%9CLC-043&cards=LC-011%20d6feb4276b%0ALC-012%2083b1989e33%0ALC-013%20e006a3fb56%0ALC-014%209d30ff0fad%0ALC-015%2014e4f59a91%0ALC-031%20613b26bd0a%0ALC-040%20c9c9d22aeb%0ALC-041%20ca50a65601%0ALC-042%20dbf73fbc00%0ALC-043%20819c7499b6)**
+**[ここまでの 10 件（LC-011〜LC-043）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LC-011%E3%80%9CLC-043&cards=LC-011%20d6feb4276b%0ALC-012%2083b1989e33%0ALC-013%20e006a3fb56%0ALC-014%209d30ff0fad%0ALC-015%206e862d3205%0ALC-031%20613b26bd0a%0ALC-040%20c9c9d22aeb%0ALC-041%20ca50a65601%0ALC-042%20dbf73fbc00%0ALC-043%20819c7499b6)**
 
 ---
 

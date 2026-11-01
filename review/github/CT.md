@@ -73,12 +73,12 @@
 > EULAR/PReS 推奨（2024）は、全身型若年性特発性関節炎と成人発症 Still 病は同一疾患であり単一の名称「Still 病」とすべきとし、治療目標を臨床的不活動性疾患と、その6か月以上の維持である寛解に置く。最適な治療戦略は、IL-1 阻害薬または IL-6 阻害薬の早期使用と短期間の糖質コルチコイド併用に基づくとされる。
 
 - 条件：region: 国際／対象: Still病（全身型若年性特発性関節炎・成人発症Still病）の患者
-- 不確実性：トシリズマブは2019年に、IL-1 阻害薬のカナキヌマブは2025年3月に、いずれも「既存治療で効果不十分な成人発症スチル病（成人Still病）」の適応で国内承認・保険適用を取得したことを確認した。アナキンラの国内承認は未確認。内容は抄録で確認した。
+- 不確実性：トシリズマブは2019年に、IL-1 阻害薬のカナキヌマブは2025年3月に、いずれも「既存治療で効果不十分な成人発症スチル病（成人Still病）」の適応で国内承認・保険適用を取得したことを確認した。アナキンラの国内承認は未確認。内容は抄録で確認した。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】キネレット皮下注100mgシリンジ（アナキンラ）が2026-06-19に全身型若年性特発性関節炎・成人発症スチル病の効能で承認され、2026-08-13薬価収載（23,702円/筒）、2026-08-20発売。「国内承認は未確認」の状態は解消し、承認済みとなった（PMDA医薬品情報、厚労省新医薬品一覧2026-08-13、Sobi Japan発表）。
 - 出典：Fautrel B, Mitrovic S, De Matteis A, et al. EULAR/PReS recommendations for the diagnosis and management of Still's disease, comprising systemic juvenile idiopathic arthritis and adult-onset Still's disease. Ann Rheum Dis. 2024;83(12):1614-1627　[DOI 10.1136/ard-2024-225851](https://doi.org/10.1136/ard-2024-225851)　[PMID 39317417](https://pubmed.ncbi.nlm.nih.gov/39317417/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-A-③（成人Still病、b）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-03-02-02 (id: JnGUA2Y)；TBL-01-00-559 (id: JmxLo0c)；TBL-02-17-001 (id: JlAKp1U)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CT-006&card_id=CT-006&version=b763f69b35)　（版 `b763f69b35`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CT-006&card_id=CT-006&version=1c66460641)　（版 `1c66460641`）
 
-**[ここまでの 2 件（CT-005〜CT-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20CT-005%E3%80%9CCT-006&cards=CT-005%20f8102a3a3b%0ACT-006%20b763f69b35)**
+**[ここまでの 2 件（CT-005〜CT-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20CT-005%E3%80%9CCT-006&cards=CT-005%20f8102a3a3b%0ACT-006%201c66460641)**
 
 ---
 

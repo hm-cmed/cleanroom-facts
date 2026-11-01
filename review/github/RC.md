@@ -145,12 +145,12 @@
 > 温式自己免疫性溶血性貧血の治療の中心は副腎皮質ステロイドであり、リツキシマブは有効性が確立し、本邦でも保険償還が認められるようになっている。
 
 - 条件：region: 日本／対象: 成人
-- 不確実性：薬剤名（副腎皮質ステロイド、リツキシマブ）を含むカード。リツキシマブは2026年に自己免疫性溶血性貧血（温式・冷式を含む、公知申請）の効能追加が承認された（PMDA 審査報告書で効能追加を確認。承認日は添付文書で未照合）。令和4年度改訂版の参照ガイドが「国内適応外」としていたのは、効能追加の前の記述である。
+- 不確実性：薬剤名（副腎皮質ステロイド、リツキシマブ）を含むカード。リツキシマブは2026年に自己免疫性溶血性貧血（温式・冷式を含む、公知申請）の効能追加が承認された（PMDA 審査報告書で効能追加を確認。承認日は添付文書で未照合）。令和4年度改訂版の参照ガイドが「国内適応外」としていたのは、効能追加の前の記述である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】リツキシマブの自己免疫性溶血性貧血への効能追加は2026-02-19に承認された（公知申請。作り手が PMDA の承認品目一覧で確認）。
 - 出典：特発性造血障害に関する調査研究班. 自己免疫性溶血性貧血 診療の参照ガイド 令和7年度改訂版. 2026年3月.　[リンク](http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf)（区分 UNKNOWN）
 - 出題基準：医学各論 Ⅶ-1-C-①（自己免疫性溶血性貧血、b）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-008 (id: JlvnlXw)；TBL-02-01-013 (id: JlAKpWQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-012&card_id=RC-012&version=05f81dcc9a)　（版 `05f81dcc9a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-012&card_id=RC-012&version=f39c7e084c)　（版 `f39c7e084c`）
 
-**[ここまでの 2 件（RC-011〜RC-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RC-011%E3%80%9CRC-012&cards=RC-011%200a2066aa20%0ARC-012%2005f81dcc9a)**
+**[ここまでの 2 件（RC-011〜RC-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RC-011%E3%80%9CRC-012&cards=RC-011%200a2066aa20%0ARC-012%20f39c7e084c)**
 
 ---
 

@@ -103,10 +103,10 @@
 > 限局性ジャーミノーマは放射線感受性が高く、化学療法後に全脳室照射と局所追加照射を行う治療で5年無イベント生存率が90%を超え、転移性ジャーミノーマは全頭蓋脊髄照射で治癒が期待できる。
 
 - 条件：population: 頭蓋内ジャーミノーマ患者／region: 国際
-- 不確実性：数値は抄録で確認（5年無イベント生存率90%超は限局性ジャーミノーマに対する化学療法＋全脳室照射の成績）。NGGCTの5年無イベント生存率は70%超と同抄録に記載されている。 化学療法の個別薬剤の国内承認・保険適用は未確認。
+- 不確実性：数値は抄録で確認（5年無イベント生存率90%超は限局性ジャーミノーマに対する化学療法＋全脳室照射の成績）。NGGCTの5年無イベント生存率は70%超と同抄録に記載されている。 化学療法の個別薬剤の国内承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】カードの主張の中心は放射線治療で化学療法薬は名指しされていないが、ジャーミノーマの標準化学療法（カルボプラチン＋エトポシドを中心とするレジメン）に用いる薬剤はいずれも国内承認薬であり、「個別薬剤の承認・保険適用は未確認」は解消できる
 - 出典：Frappaz D, et al. EANO, SNO and Euracan consensus review on the current management and future development of intracranial germ cell tumors in adolescents and young adults. Neuro Oncol. 2022;24(4):516-527　[DOI 10.1093/neuonc/noab252](https://doi.org/10.1093/neuonc/noab252)　[PMID 34724065](https://pubmed.ncbi.nlm.nih.gov/34724065/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-2-A-③（胚細胞腫瘍、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BT-009&card_id=BT-009&version=1d1302dc85)　（版 `1d1302dc85`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BT-009&card_id=BT-009&version=48fee246fa)　（版 `48fee246fa`）
 
 ### BT-010　下書き（出典の照合前）
 
@@ -118,7 +118,7 @@
 - 出題基準：医学各論 Ⅸ-2-A-③（胚細胞腫瘍、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BT-010&card_id=BT-010&version=a2d2e7b169)　（版 `a2d2e7b169`）
 
-**[ここまでの 3 件（BT-008〜BT-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BT-008%E3%80%9CBT-010&cards=BT-008%20322de323f6%0ABT-009%201d1302dc85%0ABT-010%20a2d2e7b169)**
+**[ここまでの 3 件（BT-008〜BT-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BT-008%E3%80%9CBT-010&cards=BT-008%20322de323f6%0ABT-009%2048fee246fa%0ABT-010%20a2d2e7b169)**
 
 ---
 

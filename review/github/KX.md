@@ -347,12 +347,12 @@
 > 腎移植では免疫抑制薬の併用を移植前または移植時に開始し、初期免疫抑制には生物学的製剤による導入療法を含めることが勧められる。導入療法ではインターロイキン2受容体拮抗薬が第一選択とされ、免疫学的リスクが高いレシピエントではリンパ球除去薬の使用が提案される。維持療法はカルシニューリン阻害薬と増殖抑制薬の併用を基本とし、副腎皮質ステロイドは併用する場合としない場合がある。カルシニューリン阻害薬ではタクロリムスが、増殖抑制薬ではミコフェノール酸がそれぞれ第一選択として提案され、カルシニューリン阻害薬は移植腎機能の発現を待たず、移植前または移植時に開始する。免疫学的リスクが低く導入療法を受けた患者では、副腎皮質ステロイドを移植後1週間以内に中止できる場合がある。
 
 - 条件：region: 国際／study: KDIGO 腎移植レシピエント診療ガイドライン 2009
-- 不確実性：本出典は2009年のガイドラインであり、その後に導入された薬剤や現在の日本の標準的なレジメンとの差異は本出典では確認できない。本文に挙げた薬剤（タクロリムス、ミコフェノール酸製剤、インターロイキン2受容体拮抗薬、リンパ球除去薬、副腎皮質ステロイド）について、国内の承認・保険適用は未確認。
+- 不確実性：本出典は2009年のガイドラインであり、その後に導入された薬剤や現在の日本の標準的なレジメンとの差異は本出典では確認できない。本文に挙げた薬剤（タクロリムス、ミコフェノール酸製剤、インターロイキン2受容体拮抗薬、リンパ球除去薬、副腎皮質ステロイド）について、国内の承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】タクロリムス（プログラフ）、ミコフェノール酸モフェチル（セルセプト）、バシリキシマブ（シムレクト）はいずれも腎移植の適応で承認済みで、副腎皮質ステロイドも承認薬。「未確認」は解消できる
 - 出典：Kidney Disease: Improving Global Outcomes (KDIGO) Transplant Work Group. KDIGO clinical practice guideline for the care of kidney transplant recipients. Am J Transplant. 2009;9 Suppl 3:S1-S155　[DOI 10.1111/j.1600-6143.2009.02834.x](https://doi.org/10.1111/j.1600-6143.2009.02834.x)　[PMID 19845597](https://pubmed.ncbi.nlm.nih.gov/19845597/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-022&card_id=KX-022&version=e131499d12)　（版 `e131499d12`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-022&card_id=KX-022&version=bcc0ddd90d)　（版 `bcc0ddd90d`）
 
-**[ここまでの 1 件（KX-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-022&cards=KX-022%20e131499d12)**
+**[ここまでの 1 件（KX-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-022&cards=KX-022%20bcc0ddd90d)**
 
 ---
 
@@ -411,12 +411,12 @@
 > 血液透析で除去される薬は、次の投与まで有効な血中濃度を保つため、透析後に投与するのが原則である。腎不全に合わせて調整した維持量に、透析で除去された分を補う補充量を透析後に加えることを検討する。透析膜の性能が上がったため、古い研究に基づく推奨量は血液透析の影響を過小評価している可能性があり、用量を経験的に25〜50%増やす必要がある場合がある。低フラックスの膜での研究から得た補充量は、高フラックスの合成膜を用いる場合には経験的に少なくとも50%増やすとされる。治療域の狭い薬では、血中濃度測定を用いて用量を決める。
 
 - 条件：region: 国際／study: 腎臓病患者の薬用量調整に関する国際会議の臨床アップデート（2011年）。血液透析時の薬用量に関する推奨
-- 不確実性：出典自体が、あらゆる腎代替療法の形態について薬物動態の研究が不十分だと指摘しており、個別薬剤ごとの透析性（除去率）の数値はこの出典では確認していない。2011年の報告であり、その後のダイアライザや透析条件の変化は反映されていない。出典で血中濃度測定の例として挙がるアミノグリコシド系薬やバンコマイシンなどの国内の承認・保険適用は未確認で、取り込み時に添付文書で確認が必要である。
+- 不確実性：出典自体が、あらゆる腎代替療法の形態について薬物動態の研究が不十分だと指摘しており、個別薬剤ごとの透析性（除去率）の数値はこの出典では確認していない。2011年の報告であり、その後のダイアライザや透析条件の変化は反映されていない。出典で血中濃度測定の例として挙がるアミノグリコシド系薬やバンコマイシンなどの国内の承認・保険適用は未確認で、取り込み時に添付文書で確認が必要である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アミノグリコシド系薬・バンコマイシンはいずれも国内承認薬（血中濃度モニタリングの対象薬として薬価収載）。「未確認」は解消できる
 - 出典：Matzke GR, Aronoff GR, Atkinson AJ Jr, Bennett WM, Decker BS, et al. Drug dosing consideration in patients with acute and chronic kidney disease—a clinical update from Kidney Disease: Improving Global Outcomes (KDIGO). Kidney Int. 2011;80(11):1122-1137　[DOI 10.1038/ki.2011.322](https://doi.org/10.1038/ki.2011.322)　[PMID 21918498](https://pubmed.ncbi.nlm.nih.gov/21918498/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-026&card_id=KX-026&version=8a27120ee0)　（版 `8a27120ee0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-026&card_id=KX-026&version=307f9e76c4)　（版 `307f9e76c4`）
 
-**[ここまでの 1 件（KX-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-026&cards=KX-026%208a27120ee0)**
+**[ここまでの 1 件（KX-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-026&cards=KX-026%20307f9e76c4)**
 
 ---
 
@@ -443,12 +443,12 @@
 > 透析患者は免疫機能の低下のためB型肝炎ウイルスの感染リスクが高い。日本の2施設の前向き観察研究では、進行した慢性腎臓病の患者113例（非透析63例、維持血液透析50例）にB型肝炎ワクチン10マイクログラムを0、1、6か月の3回接種し、3回目の1〜3か月後にB型肝炎表面抗原に対する抗体が10 IU/mL以上となった割合は、血液透析患者で54.2%、非透析患者で64.3%と、両群に有意な差はなかった。この標準的な接種方法では抗体獲得が十分とはいえず、より高用量の接種や新しい世代のワクチン、より早い慢性腎臓病の段階での接種など、より有効な方法が必要とされた。
 
 - 条件：region: 日本／study: 2021〜2024年に2施設で行われた前向き観察研究（進行した慢性腎臓病113例。ワクチン3回接種後の抗体陽転率を比較）
-- 不確実性：単一の観察研究（2施設、113例）の結果であり、接種したワクチンの製品名は抄録では確認していない。B型肝炎ワクチンの国内の承認・保険適用は未確認で、取り込み時に添付文書で確認が必要である。B型肝炎以外の感染症（肺炎球菌、インフルエンザなど）に対するワクチンの効果や、透析患者の感染症の頻度の数値は、この出典では確認していない。
+- 不確実性：単一の観察研究（2施設、113例）の結果であり、接種したワクチンの製品名は抄録では確認していない。B型肝炎ワクチンの国内の承認・保険適用は未確認で、取り込み時に添付文書で確認が必要である。B型肝炎以外の感染症（肺炎球菌、インフルエンザなど）に対するワクチンの効果や、透析患者の感染症の頻度の数値は、この出典では確認していない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】B型肝炎ワクチン（ビームゲン、ヘプタバックス-II）は国内承認済み。透析患者への接種は日本透析医学会が推奨するが、予防目的の接種は保険給付の対象外（原則自費）であり、「未確認」は確認可能な現況に置き換えられる（学会公開情報・添付文書、2026-10-31確認）
 - 出典：Fujikura T, Isobe S, Oikawa S, Ishigaki S, Katahashi N, et al. Comparison of seroconversion rates after hepatitis B vaccination in patients with advanced chronic kidney disease and those receiving maintenance hemodialysis. Clin Exp Nephrol. 2025;29(8):1045-1052　[DOI 10.1007/s10157-025-02648-1](https://doi.org/10.1007/s10157-025-02648-1)　[PMID 40035977](https://pubmed.ncbi.nlm.nih.gov/40035977/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-028&card_id=KX-028&version=ca8258d81d)　（版 `ca8258d81d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-028&card_id=KX-028&version=a185e17067)　（版 `a185e17067`）
 
-**[ここまでの 1 件（KX-028）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-028&cards=KX-028%20ca8258d81d)**
+**[ここまでの 1 件（KX-028）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-028&cards=KX-028%20a185e17067)**
 
 ---
 
@@ -475,12 +475,12 @@
 > 日本では献腎の不足を背景に、1989年からABO血液型不適合の生体腎移植が行われてきた。1989年1月から2001年12月までにこの移植を受けた441例では、患者生存率が移植後1年93％、3年89％、5年87％、7年85％、9年84％、移植腎生着率がそれぞれ84％、80％、71％、65％、59％であった。移植腎生着率は29歳以下で30歳以上より高く、抗凝固療法を受けた群で受けなかった群より高かった。A型不適合とB型不適合の間で転帰に有意差はなく、移植後1年の移植腎生着率は生体腎移植の歴史的対照1055例よりわずかに低かったが有意差はなかった。
 
 - 条件：region: 日本／study: 日本のABO不適合生体腎移植441例の集計と生体腎移植の歴史的対照1055例との比較（対象期間1989〜2001年）
-- 不確実性：対象は1989〜2001年の症例であり、当時の免疫抑制療法や脾摘を含む前処置は現在の方法と異なるため、現在の成績へそのまま当てはめることはできない。この移植で用いる免疫抑制薬などについて、国内の承認・保険適用は未確認である。
+- 不確実性：対象は1989〜2001年の症例であり、当時の免疫抑制療法や脾摘を含む前処置は現在の方法と異なるため、現在の成績へそのまま当てはめることはできない。この移植で用いる免疫抑制薬などについて、国内の承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ABO血液型不適合腎移植で用いる免疫抑制薬（タクロリムス、ミコフェノール酸製剤、ステロイド等）はいずれも腎移植の適応で承認済み。「未確認」は解消できる
 - 出典：Takahashi K, Saito K, Takahara S, et al.; Japanese ABO-Incompatible Kidney Transplantation Committee. Excellent long-term outcome of ABO-incompatible living donor kidney transplantation in Japan. Am J Transplant. 2004;4(7):1089-1096　[DOI 10.1111/j.1600-6143.2004.00464.x](https://doi.org/10.1111/j.1600-6143.2004.00464.x)　[PMID 15196066](https://pubmed.ncbi.nlm.nih.gov/15196066/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-09-04 (id: JkxnuRo)；TBL-02-08-019 (id: JlAKpnE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-030&card_id=KX-030&version=85d0ac9b86)　（版 `85d0ac9b86`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KX-030&card_id=KX-030&version=9110744007)　（版 `9110744007`）
 
-**[ここまでの 1 件（KX-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-030&cards=KX-030%2085d0ac9b86)**
+**[ここまでの 1 件（KX-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20KX-030&cards=KX-030%209110744007)**
 
 ---
 
