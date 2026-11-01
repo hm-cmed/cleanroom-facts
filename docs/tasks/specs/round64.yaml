@@ -1,0 +1,109 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round62_BRUSHUP_A.md
+# 既存の接頭辞の続き番号（--append）。id_start が null の接頭辞は、前の回の取り込み後に決まる続き番号（開始番号は検査しない）
+round: 64
+name: ブラッシュアップ 第64回（レベル a の増強：腎・泌尿器・生殖器（Ⅷ）と性感染症（Ⅻ-2-A-②・Ⅻ-2-B-⑥））
+id_start:
+  CM: 7
+  BA: 46
+  GN: 41
+  UR: 35
+  GU: 40
+  KT: 29
+  KF: 41
+  GY: 63
+  RP: 68
+src_range:
+- 4721
+- 4800
+target_cards:
+- 22
+- 66
+targets:
+- code: Ⅻ-2-A-②
+  name: 性器クラミジア感染症
+  level: a
+  prefix: CM
+- code: Ⅻ-2-B-⑥
+  name: 淋菌感染症
+  level: a
+  prefix: BA
+- code: Ⅷ-1-E-②
+  name: 蛋白尿
+  level: a
+  prefix: GN
+- code: Ⅷ-10-A-①
+  name: 重複腎盂尿管
+  level: a
+  prefix: UR
+- code: Ⅷ-10-A-②
+  name: 異所性尿管開口
+  level: a
+  prefix: UR
+- code: Ⅷ-10-A-③
+  name: 膀胱瘤
+  level: a
+  prefix: UR
+- code: Ⅷ-10-B-②
+  name: 包茎
+  level: a
+  prefix: GU
+- code: Ⅷ-10-B-④
+  name: 精巣・精索水瘤
+  level: a
+  prefix: GU
+- code: Ⅷ-10-B-⑥
+  name: 精巣捻転症
+  level: a
+  prefix: GU
+- code: Ⅷ-10-D-③
+  name: 腹圧性尿失禁
+  level: a
+  prefix: UR
+- code: Ⅷ-10-E-①
+  name: 腎・尿路損傷
+  level: a
+  prefix: UR
+- code: Ⅷ-10-E-③
+  name: 精巣損傷
+  level: a
+  prefix: GU
+- code: Ⅷ-2-A-①
+  name: 高血圧性腎硬化症
+  level: a
+  prefix: KT
+- code: Ⅷ-2-B-①
+  name: 急性尿細管壊死
+  level: a
+  prefix: KT
+- code: Ⅷ-3-E-①
+  name: 脱水と浮腫
+  level: a
+  prefix: KF
+- code: Ⅷ-4-A-②
+  name: 膀胱結石、尿道結石
+  level: a
+  prefix: UR
+- code: Ⅷ-5-D-①
+  name: 淋菌性尿道炎
+  level: a
+  prefix: UR
+- code: Ⅷ-5-D-②
+  name: 非淋菌性尿道炎
+  level: a
+  prefix: UR
+- code: Ⅷ-5-D-③
+  name: 性器ヘルペス
+  level: a
+  prefix: UR
+- code: Ⅷ-7-C-①
+  name: 子宮内膜増殖症
+  level: a
+  prefix: GY
+- code: Ⅷ-8-A-①
+  name: 視床下部性無月経
+  level: a
+  prefix: RP
+- code: Ⅷ-8-B-②
+  name: 過多月経
+  level: a
+  prefix: RP

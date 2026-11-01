@@ -1,0 +1,119 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round62_BRUSHUP_A.md
+# 既存の接頭辞の続き番号（--append）。id_start が null の接頭辞は、前の回の取り込み後に決まる続き番号（開始番号は検査しない）
+round: 65
+name: ブラッシュアップ 第65回（レベル a の増強：神経・運動器（Ⅸ）と生活環境・職業性（ⅩⅢ））
+id_start:
+  SM: 10
+  OC: 24
+  EV: 25
+  ST: 51
+  ND: null
+  TJ: 77
+  EP: 45
+  BT: 20
+  NI: 30
+  PN: 25
+  SP: 30
+src_range:
+- 4801
+- 4880
+target_cards:
+- 24
+- 72
+targets:
+- code: ⅩⅢ-3-B-③
+  name: 妊婦・胎児への影響
+  level: a
+  prefix: SM
+- code: ⅩⅢ-4-B-②
+  name: 頸肩腕障害
+  level: a
+  prefix: OC
+- code: ⅩⅢ-4-C-②
+  name: 虚血性心疾患
+  level: a
+  prefix: OC
+- code: ⅩⅢ-4-D-②
+  name: 心身症
+  level: a
+  prefix: OC
+- code: ⅩⅢ-5-A-②
+  name: 偶発性低体温{症}
+  level: a
+  prefix: EV
+- code: ⅩⅢ-5-B-①
+  name: 騒音性難聴
+  level: a
+  prefix: EV
+- code: ⅩⅢ-5-G-②
+  name: 誤嚥
+  level: a
+  prefix: EV
+- code: ⅩⅢ-5-G-③
+  name: 創傷
+  level: a
+  prefix: EV
+- code: ⅩⅢ-5-G-⑤
+  name: 急性中毒
+  level: a
+  prefix: EV
+- code: ⅩⅢ-5-I-①
+  name: 交通事故
+  level: a
+  prefix: EV
+- code: ⅩⅢ-5-I-③
+  name: 自然災害
+  level: a
+  prefix: EV
+- code: Ⅸ-1-E-②
+  name: 廃用性萎縮
+  level: a
+  prefix: ST
+- code: Ⅸ-1-E-③
+  name: 脳血管性認知症
+  level: a
+  prefix: ND
+- code: Ⅸ-10-C-②
+  name: 骨盤骨折
+  level: a
+  prefix: TJ
+- code: Ⅸ-10-D-③
+  name: 脱臼、亜脱臼
+  level: a
+  prefix: TJ
+- code: Ⅸ-10-E-③
+  name: 筋断裂、腱断裂
+  level: a
+  prefix: TJ
+- code: Ⅸ-10-E-⑤
+  name: 挫滅<圧挫>症候群<crush syndrome>
+  level: a
+  prefix: TJ
+- code: Ⅸ-11-C-②
+  name: 欠神発作<全般非運動発作>
+  level: a
+  prefix: EP
+- code: Ⅸ-2-C-①
+  name: 転移性脳腫瘍
+  level: a
+  prefix: BT
+- code: Ⅸ-3-A-②
+  name: 髄膜炎
+  level: a
+  prefix: NI
+- code: Ⅸ-4-I-①
+  name: 一酸化炭素中毒<CO中毒>
+  level: a
+  prefix: ND
+- code: Ⅸ-4-I-②
+  name: 低酸素脳症
+  level: a
+  prefix: ND
+- code: Ⅸ-5-C-①
+  name: 三叉神経痛
+  level: a
+  prefix: PN
+- code: Ⅸ-7-A-②
+  name: 変形性脊椎症
+  level: a
+  prefix: SP

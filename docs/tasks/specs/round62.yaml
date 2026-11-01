@@ -1,0 +1,83 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round62_BRUSHUP_A.md
+# 既存の接頭辞の続き番号（--append）。id_start が null の接頭辞は、前の回の取り込み後に決まる続き番号（開始番号は検査しない）
+round: 62
+name: ブラッシュアップ 第62回（レベル a の増強：皮膚（Ⅲ-1〜3））
+id_start:
+  SK: null
+  DT: 44
+  SD: 52
+src_range:
+- 4521
+- 4620
+target_cards:
+- 17
+- 51
+targets:
+- code: Ⅲ-1-A-④
+  name: 皮脂欠乏性湿疹
+  level: a
+  prefix: SK
+- code: Ⅲ-1-C-①
+  name: 結節性痒疹
+  level: a
+  prefix: SK
+- code: Ⅲ-1-D-①
+  name: Stevens-Johnson症候群
+  level: a
+  prefix: SK
+- code: Ⅲ-1-D-③
+  name: 薬剤性過敏症症候群<drug-induced hypersensitivity syndrome>
+  level: a
+  prefix: SK
+- code: Ⅲ-1-E-②
+  name: 結節性紅斑
+  level: a
+  prefix: SK
+- code: Ⅲ-1-G-①
+  name: 血栓性静脈炎
+  level: a
+  prefix: SK
+- code: Ⅲ-2-F-②
+  name: 基底細胞癌
+  level: a
+  prefix: DT
+- code: Ⅲ-2-G-①
+  name: 菌状息肉症
+  level: a
+  prefix: DT
+- code: Ⅲ-3-B-②
+  name: 水疱性類天疱瘡
+  level: a
+  prefix: SD
+- code: Ⅲ-3-I-①
+  name: 多汗症、無汗症
+  level: a
+  prefix: SD
+- code: Ⅲ-3-J-⑤
+  name: 伝染性膿痂疹
+  level: a
+  prefix: SD
+- code: Ⅲ-3-J-⑥
+  name: ブドウ球菌性熱傷様皮膚症候群
+  level: a
+  prefix: SD
+- code: Ⅲ-3-J-⑦
+  name: 壊死性筋膜炎
+  level: a
+  prefix: SD
+- code: Ⅲ-3-N-①
+  name: 単純ヘルペス
+  level: a
+  prefix: SD
+- code: Ⅲ-3-N-②
+  name: カポジ水痘様発疹症
+  level: a
+  prefix: SD
+- code: Ⅲ-3-N-③
+  name: 尋常性疣贅
+  level: a
+  prefix: SD
+- code: Ⅲ-3-P-①
+  name: 円形脱毛症
+  level: a
+  prefix: SD

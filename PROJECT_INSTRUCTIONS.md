@@ -85,6 +85,7 @@ Project指示文とスキーマに従い、最新の引き継ぎメモ（0(N-1)_
 | 55〜57 | 生活環境・職業性 | FP・TX／SM・OC／EV・OX | 依頼文は `docs/tasks/round55_EV.md` |
 | 58〜60 | 補充回（未カバー項目） | GD・IN・LV・BP・AB／PE（新設）／EY・RE・AR・HF・HT・MP・VS | 依頼文は `docs/tasks/round58_SUPP.md` |
 | 61 | ブラッシュアップ（見送り分・宿題・版の書き換え） | IN・LV・AB・MP・DV・FT・SA・HF・PE・NL・SK・ND の続き番号 | 依頼文は `docs/tasks/round61_BRUSHUP.md` |
+| 62〜67 | ブラッシュアップ A（レベル a の増強、137項目） | 既存の接頭辞の続き番号 | 依頼文は `docs/tasks/round62_BRUSHUP_A.md` |
 
 ## 分野をまたぐ項目の扱い（2026-10-28 追加）
 

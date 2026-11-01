@@ -1,0 +1,122 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round62_BRUSHUP_A.md
+# 既存の接頭辞の続き番号（--append）。id_start が null の接頭辞は、前の回の取り込み後に決まる続き番号（開始番号は検査しない）
+round: 63
+name: ブラッシュアップ 第63回（レベル a の増強：眼・耳・鼻・口腔・外傷（Ⅲ-4〜11））
+id_start:
+  EY: 60
+  RE: 31
+  OT: 45
+  NL: null
+  OR: 33
+  TR: 29
+src_range:
+- 4621
+- 4720
+target_cards:
+- 26
+- 78
+targets:
+- code: Ⅲ-4-A-③
+  name: 調節異常
+  level: a
+  prefix: EY
+- code: Ⅲ-4-B-①
+  name: うっ血乳頭
+  level: a
+  prefix: EY
+- code: Ⅲ-6-A-①
+  name: Behçet病
+  level: a
+  prefix: RE
+- code: Ⅲ-7-A-①
+  name: 外耳道異物
+  level: a
+  prefix: OT
+- code: Ⅲ-7-C-②
+  name: 滲出性中耳炎
+  level: a
+  prefix: OT
+- code: Ⅲ-8-A-②
+  name: 薬剤性難聴
+  level: a
+  prefix: OT
+- code: Ⅲ-8-A-③
+  name: 老人性難聴
+  level: a
+  prefix: OT
+- code: Ⅲ-8-B-③
+  name: 前庭神経炎
+  level: a
+  prefix: OT
+- code: Ⅲ-8-B-⑤
+  name: 動揺病
+  level: a
+  prefix: OT
+- code: Ⅲ-8-C-③
+  name: Horner症候群
+  level: a
+  prefix: OT
+- code: Ⅲ-9-A-①
+  name: 鼻せつ
+  level: a
+  prefix: NL
+- code: Ⅲ-10-A-①
+  name: 口角炎、舌炎
+  level: a
+  prefix: OR
+- code: Ⅲ-10-A-②
+  name: アフタ性口内炎
+  level: a
+  prefix: OR
+- code: Ⅲ-10-A-③
+  name: 急性ヘルペス性口内炎
+  level: a
+  prefix: OR
+- code: Ⅲ-10-A-④
+  name: ヘルパンギーナ
+  level: a
+  prefix: OR
+- code: Ⅲ-10-B-①
+  name: 顎関節症
+  level: a
+  prefix: OR
+- code: Ⅲ-10-C-①
+  name: 咽頭炎
+  level: a
+  prefix: OR
+- code: Ⅲ-10-C-②
+  name: 口蓋扁桃肥大症、咽頭扁桃<アデノイド>増殖症
+  level: a
+  prefix: OR
+- code: Ⅲ-10-C-③
+  name: 急性扁桃炎
+  level: a
+  prefix: OR
+- code: Ⅲ-10-C-④
+  name: 扁桃周囲炎・膿瘍
+  level: a
+  prefix: OR
+- code: Ⅲ-10-E-①
+  name: 頸部リンパ節炎
+  level: a
+  prefix: OR
+- code: Ⅲ-10-E-②
+  name: 頸部膿瘍
+  level: a
+  prefix: OR
+- code: Ⅲ-10-E-③
+  name: リンパ節転移
+  level: a
+  prefix: OR
+- code: Ⅲ-11-A-②
+  name: 凍傷・凍瘡
+  level: a
+  prefix: TR
+- code: Ⅲ-11-A-③
+  name: 電撃傷
+  level: a
+  prefix: TR
+- code: Ⅲ-11-A-⑤
+  name: 角・結膜化学損傷
+  level: a
+  prefix: TR

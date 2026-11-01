@@ -1,0 +1,101 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round62_BRUSHUP_A.md
+# 既存の接頭辞の続き番号（--append）。id_start が null の接頭辞は、前の回の取り込み後に決まる続き番号（開始番号は検査しない）
+round: 66
+name: ブラッシュアップ 第66回（レベル a の増強：感染症（Ⅻ）と呼吸器（Ⅳ））
+id_start:
+  VI: 33
+  CM: null
+  BA: null
+  RI: 58
+  RO: 42
+  IL: 62
+  PV: 32
+  LC: 55
+  PL: 31
+src_range:
+- 4881
+- 4960
+target_cards:
+- 20
+- 60
+targets:
+- code: Ⅻ-1-A-⑱
+  name: ウイルス性髄膜炎
+  level: a
+  prefix: VI
+- code: Ⅻ-2-A-①
+  name: クラミジア肺炎
+  level: a
+  prefix: CM
+- code: Ⅻ-2-A-③
+  name: マイコプラズマ肺炎
+  level: a
+  prefix: CM
+- code: Ⅻ-2-B-⑤
+  name: 表皮ブドウ球菌感染症
+  level: a
+  prefix: BA
+- code: Ⅻ-2-B-⑭
+  name: クレブシエラ感染症
+  level: a
+  prefix: BA
+- code: Ⅻ-2-B-⑮
+  name: セラチア感染症
+  level: a
+  prefix: BA
+- code: Ⅻ-2-B-⑱
+  name: 緑膿菌感染症
+  level: a
+  prefix: BA
+- code: Ⅻ-2-B-⑲
+  name: アシネトバクター感染症
+  level: a
+  prefix: BA
+- code: Ⅻ-2-B-⑳
+  name: ガス壊疽
+  level: a
+  prefix: BA
+- code: Ⅳ-1-A-①
+  name: 感冒<かぜ症候群>、上気道炎
+  level: a
+  prefix: RI
+- code: Ⅳ-1-G-①
+  name: 胸膜炎
+  level: a
+  prefix: RI
+- code: Ⅳ-2-A-①
+  name: 気管支拡張症
+  level: a
+  prefix: RO
+- code: Ⅳ-2-A-③
+  name: 閉塞性細気管支炎
+  level: a
+  prefix: RO
+- code: Ⅳ-2-B-①
+  name: 気腫性囊胞<ブラ、ブレブ>
+  level: a
+  prefix: RO
+- code: Ⅳ-3-A-③
+  name: 好酸球性肺炎
+  level: a
+  prefix: IL
+- code: Ⅳ-5-C-①
+  name: 左心系疾患に伴う肺高血圧症
+  level: a
+  prefix: PV
+- code: Ⅳ-6-C-①
+  name: 悪性リンパ腫
+  level: a
+  prefix: LC
+- code: Ⅳ-7-B-①
+  name: 縦隔気腫、皮下気腫
+  level: a
+  prefix: PL
+- code: Ⅳ-7-B-②
+  name: 気管食道瘻、食道気管瘻
+  level: a
+  prefix: PL
+- code: Ⅳ-7-B-④
+  name: 反回神経麻痺
+  level: a
+  prefix: PL
