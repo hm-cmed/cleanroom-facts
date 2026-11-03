@@ -41,3 +41,9 @@
 
 - SRC-4377（RE-030、Webb 2013、Int J Ophthalmol）：DOI は原論文の PDF の印字と一致し、他の論文の引用でも同じ DOI。404 は Crossref に登録されていないためとみられる。DOI は変えない。点検の依頼は取り下げ（作り手のメモ brushup_e_doi404_followup_20261101.md は未受領）。
 - SRC-252：文献は実在するが、DOI の末尾までは照合できていない。カードは変えず、宿題として残す。PC での照合（--online）でも確かめる。
+
+## 一次資料の共有置き場（2026-11-03 決定）
+- 三原さんは作業中のチャット（Muse でも Claude でも）に PDF を貼る。受け取った側が書誌を同定し、SHA-256 を計算して、Google ドライブの「cleanroom-sources」フォルダ（ID 12NX0VCQqW80yhWRZVbYDKY-w8rIJ2_Vw）に書誌名で保存し、同フォルダの INTAKE_LOG.md（ID 1axdJxrK8EKvq1SdZy1eBCA7DHiDYSMf6）に IN-xxxx を追記する。
+- もう一方の AI は必要なときにそこから読み、SHA-256 で同一性を確かめる。PDF はレポジトリに入れない（§1-1）。
+- IN-0001〜0003（Rome IV、Rome V Bowel Disorders、Rome V 総論）は台帳に転記済み。PDF 本体は Muse の作業領域にあり、ドライブには未保管。
+- 承認の流れ：Claude が日本語の承認票を出し、三原さんはチャットで承認する。GitHub の差分確認は任意。日付だけの更新は承認不要で月次報告、Minor は一括承認、Major は1件ずつ。
