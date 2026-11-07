@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-07
 
-全 13 件のうち、監修済み 0 件。
+全 20 件のうち、監修済み 0 件。
 
 ## うつ病
 
@@ -96,7 +96,41 @@
 - 出題基準：医学各論 Ⅱ-2-A-①（うつ病、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；PS-02-17-03 (id: JkxnuT0)；TBL-01-00-536 (id: JlvnmT0)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MD-013&card_id=MD-013&version=c11c8e2cff)　（版 `c11c8e2cff`）
 
-**[ここまでの 9 件（MD-001〜MD-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MD-001%E3%80%9CMD-013&cards=MD-001%20a975277a7f%0AMD-002%20aa16657aeb%0AMD-003%20d77da34f75%0AMD-004%208695cf1c89%0AMD-009%208bab6998ca%0AMD-010%20d95704d763%0AMD-011%20e569951894%0AMD-012%200565b4572e%0AMD-013%20c11c8e2cff)**
+### MD-018　下書き（出典の照合前）
+
+> CANMAT 2023 ガイドラインは、大うつ病エピソードに対して、運動・身体活動の増加、より健康的な食事、禁煙、睡眠衛生といった生活習慣の修正が有益であるとしている。運動については、監督下の運動（低〜中等強度、1回30〜40分、週3〜4回、最低9週間）が、軽症うつ病に対する第一選択の単独療法、中等症に対する第二選択の補助療法と位置づけられている。睡眠については、睡眠衛生の指導が有益と考えられ、不眠に特化した認知行動療法（CBT-I）も有望とされる一方、断眠（覚醒）療法は第三選択とされる。光療法は、季節性（冬季）うつ病に対する第一選択の単独療法、非季節性の軽症うつ病に対する第二選択、中等症に対する薬物療法への併用と位置づけられている。食事については地中海式食事が第三選択とされ、プロバイオティクスは推奨する根拠が不十分とされる
+
+- 条件：region: 国際／対象: 大うつ病性障害の成人
+- 不確実性：ガイドライン本文（PMC 全文）の Q.2 の生活習慣介入の項および Table 2.4 で確認した範囲に限る。運動の具体的な処方（強度・時間・頻度・最低期間）と各介入の選択順位（第一選択・第二選択・第三選択）は本文の記載どおりである。光療法の標準的な実施方法（10,000ルクス、起床後の朝30分）は本文に記載があるが、本カードの主張には含めていない。睡眠衛生の指導は臨床試験のエビデンスが限られる中で「有益と考えられる」と本文が述べる位置づけであり、CBT-I の効果は小規模な無作為化比較試験に基づく「有望」の段階である。各介入の国内での実施体制や保険適用は本カードでは扱っていない
+- 出典：Lam RW, Kennedy SH, Adams C, et al. Canadian Network for Mood and Anxiety Treatments (CANMAT) 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults. Can J Psychiatry. 2024;69(9):641-687　[DOI 10.1177/07067437241245384](https://doi.org/10.1177/07067437241245384)　[PMID 38711351](https://pubmed.ncbi.nlm.nih.gov/38711351/)（区分 OPEN）
+- 出題基準：医学各論 Ⅱ-2-A-①（うつ病、a）　コアカリ：PS-02-17-04 (id: JkxnuT4)；TBL-01-00-536 (id: JlvnmT0)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MD-018&card_id=MD-018&version=f12ca898fb)　（版 `f12ca898fb`）
+
+**[ここまでの 10 件（MD-001〜MD-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MD-001%E3%80%9CMD-018&cards=MD-001%20a975277a7f%0AMD-002%20aa16657aeb%0AMD-003%20d77da34f75%0AMD-004%208695cf1c89%0AMD-009%208bab6998ca%0AMD-010%20d95704d763%0AMD-011%20e569951894%0AMD-012%200565b4572e%0AMD-013%20c11c8e2cff%0AMD-018%20f12ca898fb)**
+
+---
+
+### MD-019　下書き（出典の照合前）
+
+> CANMAT 2023 ガイドラインでは、症状の寛解が得られた後も抗うつ薬を6〜12か月間維持することが推奨され、維持期の薬物療法はプラセボと比べて再発率を約50%低下させるとされる。再発の危険因子（残遺症状、小児期の被虐待歴、エピソードの重症度や回数の多さ、慢性の経過、併存疾患、社会的支援の乏しさ、持続するストレスなど）がある人では、抗うつ薬を2年以上継続することが示されている。維持期の心理療法（認知行動療法、マインドフルネス認知療法、対人関係療法など）も再発予防に有効で、その過程では定期的なブースターセッションが用いられることがある。寛解の維持には、症状の定期的なモニタリングと、運動・食事・睡眠などの生活習慣への注意も重要とされる
+
+- 条件：region: 国際／対象: 寛解した大うつ病性障害の成人
+- 不確実性：ガイドライン本文（PMC 全文）の Q.6 の各項および Table 6.1・6.2 で確認した範囲に限る。寛解後の維持期間6〜12か月は、2016年版の6〜9か月から本文で変更された推奨であり、再発率の約50%低下は維持薬物療法とプラセボの比較に関する本文の記載に基づく。再発危険因子のうち残遺症状と小児期の被虐待歴は、本文で頑健なエビデンスのある危険因子と区別されている。本カードは薬剤クラス名（抗うつ薬）のみを用い個別の薬剤名は扱っていないが、国内で使用できる抗うつ薬とその適応・保険適用は薬剤ごとに異なり、本カードでは個別薬剤の国内承認状況は扱っていない。抗うつ薬の中止方法（漸減の進め方など）の詳細は本文 Q.6 の別項にあり、本カードの主張には含めていない
+- 出典：Lam RW, Kennedy SH, Adams C, et al. Canadian Network for Mood and Anxiety Treatments (CANMAT) 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults. Can J Psychiatry. 2024;69(9):641-687　[DOI 10.1177/07067437241245384](https://doi.org/10.1177/07067437241245384)　[PMID 38711351](https://pubmed.ncbi.nlm.nih.gov/38711351/)（区分 OPEN）
+- 出題基準：医学各論 Ⅱ-2-A-①（うつ病、a）　コアカリ：PS-02-17-04 (id: JkxnuT4)；TBL-01-00-536 (id: JlvnmT0)；TBL-02-16-016 (id: JuX-PEk)；TBL-02-16-017 (id: JuX-PEs)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MD-019&card_id=MD-019&version=6ac78d0c10)　（版 `6ac78d0c10`）
+
+### MD-020　下書き（出典の照合前）
+
+> うつ病に対する運動の効果を検討した系統的レビューとネットワークメタ解析（218研究、参加者14,170人）では、能動対照（通常ケアやプラセボ錠など）と比べて、ウォーキングまたはジョギング（Hedges g −0.62）、ヨガ（同 −0.55）、筋力トレーニング（同 −0.49）、混合有酸素運動（同 −0.43）、太極拳・気功（同 −0.42）で中等度の抑うつ症状の軽減が認められ、運動の効果は処方された強度に比例していた。一方で、ネットワークメタ解析の確信度（CINeMA）はウォーキング・ジョギングで低く、その他の運動では非常に低く、バイアスリスクが低いと判定された研究は1件のみだった
+
+- 条件：region: 国際／対象: 大うつ病の臨床的カットオフを満たす人
+- 不確実性：抄録で確認した範囲に限る。本論文の訂正（BMJ. 2024;385:q1024）は効果量の標準化方法を説明した一文の削除で、訂正告知は所見に実質的な変更はないとしている（改訂された数値は示されていない。取り込み側で確認、2026-11-08）。確信度が低いため、効果量は割り引いて読む必要がある。対象は大うつ病の臨床的カットオフを満たす参加者であり、年齢層の内訳は抄録では確認していない。抗うつ薬や心理療法との直接の優劣は本カードでは扱っていない。PMCID は API 未照合（--online での照合待ち）
+- 出典：Noetel M, Sanders T, Gallardo-Gómez D, et al. Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ. 2024;384:e075847　[DOI 10.1136/bmj-2023-075847](https://doi.org/10.1136/bmj-2023-075847)　[PMID 38355154](https://pubmed.ncbi.nlm.nih.gov/38355154/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-2-A-①（うつ病、a）　コアカリ：PS-02-17-04 (id: JkxnuT4)；TBL-01-00-536 (id: JlvnmT0)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MD-020&card_id=MD-020&version=bdba90aba2)　（版 `bdba90aba2`）
+
+**[ここまでの 2 件（MD-019〜MD-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MD-019%E3%80%9CMD-020&cards=MD-019%206ac78d0c10%0AMD-020%20bdba90aba2)**
 
 ---
 
@@ -142,7 +176,47 @@
 - 出題基準：医学各論 Ⅱ-2-A-②（双極性障害<躁うつ病>、a）　コアカリ：PS-02-17-04 (id: JkxnuT4)；TBL-01-00-537 (id: JlvnmT4)；TBL-02-16-017 (id: JuX-PEs)；PS-02-17-05 (id: JkxnuT8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MD-008&card_id=MD-008&version=bef3b3367a)　（版 `bef3b3367a`）
 
-**[ここまでの 4 件（MD-005〜MD-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MD-005%E3%80%9CMD-008&cards=MD-005%2000c7aeb561%0AMD-006%20b54759f582%0AMD-007%20db2cfddc1a%0AMD-008%20bef3b3367a)**
+### MD-014　下書き（出典の照合前）
+
+> DSM-5-TR の診断基準では、躁病エピソードは、異常で持続的な気分の高揚・開放（拡張）・易怒性と、活動またはエネルギーの増加が、1日の大半、ほぼ毎日、少なくとも1週間続く期間と定義される。同じ期間に、誇大性・自尊心の肥大、睡眠欲求の減少、多弁・話し続けようとする切迫感、観念奔逸、易転導性、目標志向性活動の増加または精神運動焦燥、悪い結果を招く可能性が高い活動への過度の関与、の7症状のうち3つ以上（気分が易怒性のみの場合は4つ以上）が、それまでの状態からの明確な変化として認められることが求められる。あわせて、気分の障害が社会的・職業的機能に著しい障害を起こすか、入院を必要とするほど重いこと、または精神病性の特徴を伴うこと、そのエピソードが物質や他の身体疾患の生理学的作用では説明されないことが求められる
+
+- 条件：region: 国際／対象: 躁病エピソードの診断評価を受ける人
+- 不確実性：書籍のため DOI・PMID はない。書誌は MD-009 登録時に奥付で確認済み（American Psychiatric Association Publishing、2022年、ISBN 978-0-89042-575-6（Hardcover）／978-0-89042-576-3（Paperback））。基準の構造（気分と活動・エネルギーの増加が少なくとも1週間、7症状のうち3つ以上・易怒性のみの場合は4つ以上、著しい障害を起こす重さ）は、DSM-5 のエピソード基準の概要を Table 1 に転載した McCormick U, et al.（J Am Assoc Nurse Pract. 2015、PMC5034840）の PMC 全文で照合した。本下書きでは書籍本文を直接照合していないため、7症状の項目レベルの文言、入院・精神病性の特徴に関する基準Cの文言、除外（基準D）の文言は、登録時に書籍本文（Bipolar and Related Disorders 章）で最終照合すること。DSM-5 から DSM-5-TR への基準変更の有無もあわせて確認すること。DSM の「入院を必要とする場合は期間を問わない」という期間の例外は主張に含まれていない（書籍本文で確認のうえ、必要なら追記を提案する。取り込み側の申し送り、2026-11-08）
+- 出典：American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-2-A-②（双極性障害<躁うつ病>、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；TBL-01-00-537 (id: JlvnmT4)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MD-014&card_id=MD-014&version=baef5311bf)　（版 `baef5311bf`）
+
+### MD-015　下書き（出典の照合前）
+
+> DSM-5-TR の診断基準では、軽躁病エピソードは、異常で持続的な気分の高揚・開放（拡張）・易怒性と、活動またはエネルギーの増加が、1日の大半、ほぼ毎日、少なくとも4日連続で続く期間と定義される。症状の構成は躁病エピソードと同じで、7症状のうち3つ以上（気分が易怒性のみの場合は4つ以上）が求められるが、躁病エピソードと異なり、そのエピソードは普段のその人とは明確に異なる機能の変化を伴い、気分の障害と機能の変化は他者からも観察できるものでなければならない。一方で、社会的・職業的機能に著しい障害を起こしたり入院を必要としたりするほど重くはなく、精神病性の特徴を伴わない（精神病性の特徴を伴えば躁病エピソードとする）。エピソードが物質や他の身体疾患の生理学的作用では説明されないことも求められる
+
+- 条件：region: 国際／対象: 軽躁病エピソードの診断評価を受ける人
+- 不確実性：書籍のため DOI・PMID はない。基準の構造（少なくとも4日、躁病エピソードと同じ症状構成、他者から観察できる変化、著しい障害を起こすほど重くない）は McCormick U, et al.（J Am Assoc Nurse Pract. 2015、PMC5034840）の PMC 全文（Table 1 の転載）で照合した。本下書きでは書籍本文を直接照合していないため、項目レベルの文言、「精神病性の特徴を伴えば躁病エピソードとする」という定義上の振り分け、その他の除外（他の精神病性障害との区別）の文言は、登録時に書籍本文（Bipolar and Related Disorders 章）で最終照合すること
+- 出典：American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-2-A-②（双極性障害<躁うつ病>、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；TBL-01-00-537 (id: JlvnmT4)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MD-015&card_id=MD-015&version=73a2e95826)　（版 `73a2e95826`）
+
+### MD-016　下書き（出典の照合前）
+
+> DSM-5-TR では、双極性障害は双極I型障害と双極II型障害に分けられる。双極I型障害は躁病エピソードによって定義され、診断には少なくとも1回の躁病エピソードの既往が必要で、大うつ病エピソードの既往は必須ではない。双極II型障害は、少なくとも1回の軽躁病エピソードと少なくとも1回の大うつ病エピソードの既往によって定義され、躁病エピソードの既往がないことが条件になる。WHO 世界精神保健調査（11か国、地域在住成人61,392人、DSM-IV 基準による面接調査）では、生涯有病率は双極I型障害0.6%、双極II型障害0.4%、閾値未満の双極性状態1.4%、これらを合わせた双極スペクトラム障害2.4%と推定された
+
+- 条件：region: 国際／対象: 双極性障害の診断評価を受ける人
+- 不確実性：類型の定義は DSM-5-TR（SRC-4976）に基づき、エピソードの組み合わせによる定義の骨格（I型には躁病エピソードが少なくとも1回必要、II型には軽躁病エピソードと大うつ病エピソードが必要）は McCormick U, et al.（J Am Assoc Nurse Pract. 2015、PMC5034840）の PMC 全文で照合した。一方、生涯有病率の数値は Merikangas KR, et al.（Arch Gen Psychiatry. 2011;68(3):241-251、PMID 21383262）の抄録で確認したもので、出典表の「新規（仮）」に別掲した。本カードは定義（書籍）と有病率（疫学調査）の複合出典になっており、登録時に、provenance をどちらに置くか、または有病率部分を別カードに分けるかを登録側で判断すること。有病率は DSM-IV 基準による11か国の統合値であり、国別の数値や DSM-5-TR 基準での再推定値は主張に含めていない
+- 出典：American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-2-A-②（双極性障害<躁うつ病>、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；TBL-01-00-537 (id: JlvnmT4)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MD-016&card_id=MD-016&version=71096bd592)　（版 `71096bd592`）
+
+### MD-017　下書き（出典の照合前）
+
+> 双極性障害のうつ病エピソードは、DSM-5-TR では大うつ病性障害（単極性うつ病）の大うつ病エピソードと同じ基準で定義されるため、うつ状態の症状だけからは両者を区別できず、鑑別は過去の躁病・軽躁病エピソードの病歴を確認できるかにかかる。米国の双極性障害の当事者団体（National Depressive and Manic-Depressive Association）の2000年調査（双極性障害と診断された回答者600人）では、69%が当初誤診を受けており、最も多い誤診は単極性うつ病だった。誤診を受けた人は、正しい診断を受けるまでに平均4人の医師にかかり、3分の1を超える人が正確な診断まで10年以上を要した
+
+- 条件：region: 米国／対象: 双極性障害と診断された人
+- 不確実性：数値（69%・平均4人・3分の1超が10年以上）は抄録で確認した範囲に限る。この調査は当事者団体の支援グループ参加者に配布された自己記入式アンケートで、最初に返送された600人を解析対象としており、回答は回顧的な自己報告に基づく。対象は2000年の米国の集団であり、日本の患者集団への当てはめには限界がある。冒頭の「うつ病エピソードの基準は単極性うつ病と同じで、区別は躁・軽躁の病歴による」という点は DSM-5-TR の基準構造（SRC-4976）に基づき、McCormick U, et al.（J Am Assoc Nurse Pract. 2015、PMC5034840）の PMC 全文でも同旨を確認した。本カードの provenance は数値の出典である Hirschfeld 2003 を主出典としており、登録時に基準構造の部分を SRC-4976 側へ分けるかは登録側で判断すること
+- 出典：Hirschfeld RMA, Lewis L, Vornik LA. Perceptions and impact of bipolar disorder: how far have we really come? Results of the national depressive and manic-depressive association 2000 survey of individuals with bipolar disorder. J Clin Psychiatry. 2003;64(2):161-174　[DOI 10.4088/jcp.v64n0207](https://doi.org/10.4088/jcp.v64n0207)　[PMID 12633125](https://pubmed.ncbi.nlm.nih.gov/12633125/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-2-A-②（双極性障害<躁うつ病>、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；TBL-01-00-537 (id: JlvnmT4)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MD-017&card_id=MD-017&version=54588bb27b)　（版 `54588bb27b`）
+
+**[ここまでの 8 件（MD-005〜MD-017）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MD-005%E3%80%9CMD-017&cards=MD-005%2000c7aeb561%0AMD-006%20b54759f582%0AMD-007%20db2cfddc1a%0AMD-008%20bef3b3367a%0AMD-014%20baef5311bf%0AMD-015%2073a2e95826%0AMD-016%2071096bd592%0AMD-017%2054588bb27b)**
 
 ---
 

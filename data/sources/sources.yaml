@@ -35928,3 +35928,48 @@
   pmid: '10695693'
   source_class: RESTRICTED
   title: Canaris GJ, Manowitz NR, Mayor G, Ridgway EC. The Colorado thyroid disease prevalence study. Arch Intern Med. 2000;160(4):526-534
+- citation: 'Noetel M, Sanders T, Gallardo-Gómez D, et al. Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ. 2024;384:e075847'
+  doi: 10.1136/bmj-2023-075847
+  history:
+  - by: claude-code
+    change: 取り込み：raw/md_extra2_20261108.md の出典表から（三原の承認 2026-11-08）
+    date: '2026-11-08'
+  id: SRC-4981
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY-NC 4.0。PMCID は API 未照合
+  pmcid: PMC10870815
+  pmid: '38355154'
+  source_class: RESTRICTED
+  title: 'Noetel M, Sanders T, Gallardo-Gómez D, et al. Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ. 2024;384:e075847'
+- citation: Merikangas KR, Jin R, He JP, et al. Prevalence and correlates of bipolar spectrum disorder in the world mental health survey initiative. Arch Gen Psychiatry. 2011;68(3):241-251
+  doi: 10.1001/archgenpsychiatry.2011.12
+  history:
+  - by: claude-code
+    change: 取り込み：raw/md_bipolar_20261108.md の出典表から（三原の承認 2026-11-08）
+    date: '2026-11-08'
+  id: SRC-4982
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC表示なし（購読誌。PMC 収載は著者稿）。PMCID は API 未照合
+  pmcid: PMC3486639
+  pmid: '21383262'
+  source_class: RESTRICTED
+  title: Merikangas KR, Jin R, He JP, et al. Prevalence and correlates of bipolar spectrum disorder in the world mental health survey initiative. Arch Gen Psychiatry. 2011;68(3):241-251
+- citation: 'Hirschfeld RMA, Lewis L, Vornik LA. Perceptions and impact of bipolar disorder: how far have we really come? Results of the national depressive and manic-depressive association 2000 survey of individuals with bipolar disorder. J Clin Psychiatry. 2003;64(2):161-174'
+  doi: 10.4088/jcp.v64n0207
+  history:
+  - by: claude-code
+    change: 取り込み：raw/md_bipolar_20261108.md の出典表から（三原の承認 2026-11-08）
+    date: '2026-11-08'
+  id: SRC-4983
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC表示なし（購読誌）
+  pmcid: null
+  pmid: '12633125'
+  source_class: RESTRICTED
+  title: 'Hirschfeld RMA, Lewis L, Vornik LA. Perceptions and impact of bipolar disorder: how far have we really come? Results of the national depressive and manic-depressive association 2000 survey of individuals with bipolar disorder. J Clin Psychiatry. 2003;64(2):161-174'
