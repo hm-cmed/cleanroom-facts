@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-07
 
-全 34 件のうち、監修済み 0 件。
+全 37 件のうち、監修済み 0 件。
 
 ## Basedow病
 
@@ -74,7 +74,37 @@
 - 出題基準：医学各論 Ⅹ-2-A-②（甲状腺機能低下症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-463 (id: JlvnmLA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-005&card_id=TH-005&version=bccea50f37)　（版 `bccea50f37`）
 
-**[ここまでの 1 件（TH-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TH-005&cards=TH-005%20bccea50f37)**
+### TH-035　下書き（出典の照合前）
+
+> 甲状腺機能低下症の臨床像は、症状・徴候がまったくないものから生命を脅かすものまで幅が広い。成人の甲状腺機能低下症で最も多い症状は、疲労、無気力、耐寒性低下、体重増加、便秘、声の変化、皮膚乾燥であり、このほかに脱毛、記憶力の低下、気分の障害など多様な症状がみられ、徴候には徐脈も含まれる。現れ方は年齢や性別、発症から診断までの期間などによって異なる
+
+- 条件：region: 国際／design: 総説（セミナー論文）
+- 不確実性：抄録および PMC 全文（著者稿）の "Signs and symptoms" の項と Table 1（Clinical presentation and implications）で確認した範囲に限る。最も多い症状の列挙は抄録・本文の記載どおりで、脱毛・記憶力低下・気分の障害・徐脈は Table 1 の一般的所見の欄に基づく。浮腫（粘液水腫）は Table 1 で頻度の低い所見として区別されていたため、代表的な臨床像の主張には含めていない。PMC 収載は出版社版ではなく著者稿であり、登録時に出版社版本文で最終照合すること。PMCID は作り手が PubMed レコードで確認したもので、API では未照合（--online での照合待ち）
+- 出典：Chaker L, Bianco AC, Jonklaas J, Peeters RP. Hypothyroidism. Lancet. 2017;390(10101):1550-1562　[DOI 10.1016/S0140-6736(17)30703-1](https://doi.org/10.1016/S0140-6736(17)30703-1)　[PMID 28336049](https://pubmed.ncbi.nlm.nih.gov/28336049/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅹ-2-A-②（甲状腺機能低下症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-463 (id: JlvnmLA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-035&card_id=TH-035&version=e70298d09e)　（版 `e70298d09e`）
+
+### TH-036　下書き（出典の照合前）
+
+> 甲状腺機能低下症の伝統的な症状は、甲状腺機能低下の人では甲状腺機能正常の人よりも多く報告されるものの、個々の症状の感度は低く、症状の有無だけでは甲状腺機能低下を識別できない。一方、複数の甲状腺症状を訴える人については、血清甲状腺検査を行うことが正当化される（米国コロラド州の健康フェア参加者25,862人を対象に、TSH・総サイロキシン測定と甲状腺機能低下症状の質問票を組み合わせた横断研究）
+
+- 条件：region: 米国／design: 横断研究（地域住民対象）
+- 不確実性：抄録で確認した範囲に限る。各症状の頻度や感度の具体的な数値は本文（購読誌）を確認していないため主張に含めていない。対象は1995年の米国コロラド州の健康フェア参加者であり、日本の一般人口や受診患者への当てはめの可否は登録時に検討すること。症状の特異性の乏しさについては、症例対照研究（Carlé A, et al. Eur J Endocrinol. 2014;171:593-602）でも同様の方向が報告されており、裏付け候補として申し送る（本下書きではその数値は採用していない）
+- 出典：Canaris GJ, Manowitz NR, Mayor G, Ridgway EC. The Colorado thyroid disease prevalence study. Arch Intern Med. 2000;160(4):526-534　[DOI 10.1001/archinte.160.4.526](https://doi.org/10.1001/archinte.160.4.526)　[PMID 10695693](https://pubmed.ncbi.nlm.nih.gov/10695693/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅹ-2-A-②（甲状腺機能低下症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-463 (id: JlvnmLA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-036&card_id=TH-036&version=148dcf67ca)　（版 `148dcf67ca`）
+
+### TH-037　下書き（出典の照合前）
+
+> 甲状腺機能低下症の定義は主として生化学的である。原発性甲状腺機能低下症では、顕性（臨床的）甲状腺機能低下症は TSH が基準範囲を超えて高く、遊離サイロキシン（遊離T4）が基準範囲を下回る状態と定義され、潜在性（軽症）甲状腺機能低下症は TSH が基準範囲を超えて高く、遊離T4が基準範囲内にある状態と定義される。定義が生化学を基本とするのは、臨床像の現れ方が多様で症状に特異性が乏しいためであり、症状は検査を行う手がかりという位置づけになる
+
+- 条件：region: 国際／design: 総説（セミナー論文）
+- 不確実性：定義の文言は PMC 全文（著者稿）の定義の段落で直接確認した。TSH の基準範囲の具体的な上限値は、検査法や集団によって異なるため主張に含めていない。既存の TH-018 は潜在性甲状腺機能異常の位置づけ（顕性疾患へ進みうる軽度の機能障害）と治療方針の判断軸を主張するカードであり、本カードの生化学的定義（顕性＝TSH高値＋遊離T4低値、潜在性＝TSH高値＋遊離T4正常）とは主張が異なるため、実質的な重複には当たらないと判断した。PMC 収載は著者稿であり、登録時に出版社版本文で最終照合すること。PMCID は作り手が PubMed レコードで確認したもので、API では未照合（--online での照合待ち）
+- 出典：Chaker L, Bianco AC, Jonklaas J, Peeters RP. Hypothyroidism. Lancet. 2017;390(10101):1550-1562　[DOI 10.1016/S0140-6736(17)30703-1](https://doi.org/10.1016/S0140-6736(17)30703-1)　[PMID 28336049](https://pubmed.ncbi.nlm.nih.gov/28336049/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅹ-2-A-②（甲状腺機能低下症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-463 (id: JlvnmLA)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-037&card_id=TH-037&version=5fdefc628e)　（版 `5fdefc628e`）
+
+**[ここまでの 4 件（TH-005〜TH-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TH-005%E3%80%9CTH-037&cards=TH-005%20bccea50f37%0ATH-035%20e70298d09e%0ATH-036%20148dcf67ca%0ATH-037%205fdefc628e)**
 
 ---
 

@@ -35901,3 +35901,30 @@
   pmid: '32515813'
   source_class: RESTRICTED
   title: 'Levis B, Sun Y, He C, et al. Accuracy of the PHQ-2 Alone and in Combination With the PHQ-9 for Screening to Detect Major Depression: Systematic Review and Meta-analysis. JAMA. 2020;323(22):2290-2300'
+- citation: Chaker L, Bianco AC, Jonklaas J, Peeters RP. Hypothyroidism. Lancet. 2017;390(10101):1550-1562
+  doi: 10.1016/S0140-6736(17)30703-1
+  history: &id002
+  - by: claude-code
+    change: 取り込み：raw/th_extra_20261108.md の出典表から（三原の依頼 2026-11-08）
+    date: '2026-11-08'
+  id: SRC-4979
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC表示なし（購読誌。PMC 収載は著者稿）。PMCID は API 未照合
+  pmcid: PMC6619426
+  pmid: '28336049'
+  source_class: RESTRICTED
+  title: Chaker L, Bianco AC, Jonklaas J, Peeters RP. Hypothyroidism. Lancet. 2017;390(10101):1550-1562
+- citation: Canaris GJ, Manowitz NR, Mayor G, Ridgway EC. The Colorado thyroid disease prevalence study. Arch Intern Med. 2000;160(4):526-534
+  doi: 10.1001/archinte.160.4.526
+  history: *id002
+  id: SRC-4980
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC表示なし（購読誌）
+  pmcid: null
+  pmid: '10695693'
+  source_class: RESTRICTED
+  title: Canaris GJ, Manowitz NR, Mayor G, Ridgway EC. The Colorado thyroid disease prevalence study. Arch Intern Med. 2000;160(4):526-534
