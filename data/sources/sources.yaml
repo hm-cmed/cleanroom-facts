@@ -35862,3 +35862,42 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/67_brushup_a.md の出典マスター表から
+- citation: 'American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022'
+  doi: null
+  history: &id001
+  - by: claude-code
+    change: 取り込み：raw/md_extra_20261107.md の出典表から（三原の承認 2026-11-07）
+    date: '2026-11-07'
+  id: SRC-4976
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: 表示なし（書籍）。ISBN 978-0-89042-575-6（Hardcover）／978-0-89042-576-3（Paperback）
+  pmcid: null
+  pmid: null
+  source_class: RESTRICTED
+  title: 'American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022'
+- citation: 'Levis B, Benedetti A, Thombs BD, et al. Accuracy of Patient Health Questionnaire-9 (PHQ-9) for screening to detect major depression: individual participant data meta-analysis. BMJ. 2019;365:l1476'
+  doi: 10.1136/bmj.l1476
+  history: *id001
+  id: SRC-4977
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY-NC 4.0。PMCID は API 未照合
+  pmcid: PMC6454318
+  pmid: '30967483'
+  source_class: RESTRICTED
+  title: 'Levis B, Benedetti A, Thombs BD, et al. Accuracy of Patient Health Questionnaire-9 (PHQ-9) for screening to detect major depression: individual participant data meta-analysis. BMJ. 2019;365:l1476'
+- citation: 'Levis B, Sun Y, He C, et al. Accuracy of the PHQ-2 Alone and in Combination With the PHQ-9 for Screening to Detect Major Depression: Systematic Review and Meta-analysis. JAMA. 2020;323(22):2290-2300'
+  doi: 10.1001/jama.2020.6504
+  history: *id001
+  id: SRC-4978
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC表示なし（購読誌）。PMCID は API 未照合
+  pmcid: PMC7284301
+  pmid: '32515813'
+  source_class: RESTRICTED
+  title: 'Levis B, Sun Y, He C, et al. Accuracy of the PHQ-2 Alone and in Combination With the PHQ-9 for Screening to Detect Major Depression: Systematic Review and Meta-analysis. JAMA. 2020;323(22):2290-2300'

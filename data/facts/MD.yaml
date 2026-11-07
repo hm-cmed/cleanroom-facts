@@ -278,3 +278,187 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/51_ps_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: MD-009
+  domain: MD
+  subdomain: うつ病
+  assertion:
+    plain_statement_ja: DSM-5-TR の大うつ病性障害の診断基準では、大うつ病エピソードは、同じ2週間の期間に、それまでの機能からの変化として9つの症状のうち5つ以上がほぼ毎日存在し、そのうち少なくとも1つが中核症状（抑うつ気分、または興味・喜びの喪失）であることとされる。9症状は中核症状の2つに加えて、体重・食欲の変化、睡眠障害（不眠または過眠）、精神運動の焦燥または制止、易疲労性・気力の減退、無価値感・過度の罪責感、思考力・集中力の低下または決断困難、死についての反復思考・自殺念慮である。あわせて、症状が臨床的に意味のある苦痛、または社会的・職業的などの重要な機能領域の障害を引き起こしていること、そのエピソードが物質や他の身体疾患の生理学的作用では説明されないこと、他の精神病性障害でよりよく説明されないこと、躁病エピソードまたは軽躁病エピソードの既往がないことが求められる
+    condition:
+      region: 国際
+      対象: うつ病エピソードの診断評価を受ける人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4976
+    source: 'American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 表示なし（書籍）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 書籍のため DOI・PMID はない。書誌は DSM-5-TR の奥付で確認した（American Psychiatric Association Publishing、2022年、ISBN 978-0-89042-575-6（Hardcover）／978-0-89042-576-3（Paperback））。基準Aの症状構成（9症状・5つ以上・2週間・中核症状の必須）は、DSM-5 基準を明示した Tolentino & Schmidt 2018（Front Psychiatry. 2018;9:450、CC BY）で照合し、基準B〜Eの文言は DSM-5-TR 基準を転載した Specialist Link Primary Care Pathway（Alberta 州、2025年7月29日更新）および Veterans Affairs Canada の DSM-5-TR 準拠ガイドで照合した。本下書きでは書籍本文（Depressive Disorders 章、大うつ病性障害の基準は p.183 開始）を直接照合していないため、登録時に本文で最終照合すること
+  curriculum:
+    kokushi: 医学各論 Ⅱ-2-A-①（うつ病、a）
+    core_curriculum: 'PS-02-17-02 (id: JkxnuTw)；PS-02-17-03 (id: JkxnuT0)；TBL-01-00-536 (id: JlvnmT0)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)'
+  publication_info:
+    created: '2026-11-07'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-07'
+    by: claude-code
+    change: 取り込み：raw/md_extra_20261107.md（作り手の下書き MD-仮1）から。ID を MD-009 に、出典を SRC-4976 に確定し、core_curriculum を登録依頼文（round51_PS.md）の Ⅱ-2-A-① の行から付けた。三原の承認（2026-11-07）による
+- id: MD-010
+  domain: MD
+  subdomain: うつ病
+  assertion:
+    plain_statement_ja: うつ病のスクリーニング尺度 PHQ-9（9項目の自己記入式質問票）について、PHQ-9 のスコアを検証済みの診断面接による大うつ病の診断と照合した研究の個人参加者データメタ解析（58研究、参加者17,357人）では、半構造化面接を参照基準とした研究群（29研究、6,725人）において、カットオフ10点以上で感度0.88（95%信頼区間0.83〜0.92）、特異度0.85（同0.82〜0.88）と推定され、10点以上が感度と特異度の和を最大化するカットオフだった
+    condition:
+      region: 国際
+      対象: 大うつ病のスクリーニングを受ける成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4977
+    source: 'Levis B, Benedetti A, Thombs BD, on behalf of the DEPRESsion Screening Data (DEPRESSD) Collaboration. Accuracy of Patient Health Questionnaire-9 (PHQ-9) for screening to detect major depression: individual participant data meta-analysis. BMJ. 2019;365:l1476'
+    doi: 10.1136/bmj.l1476
+    pmid: '30967483'
+    pmcid: PMC6454318
+    url: https://doi.org/10.1136/bmj.l1476
+    source_license: CC BY-NC 4.0
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 抄録で確認した範囲に限る。数値は半構造化面接を参照基準とした研究群での推定であり、完全構造化面接や MINI を参照基準とした研究群では感度が低く出ることが同論文で示されている。本論文の訂正（BMJ. 2019;365:l1781）は DEPRESSD Collaboration のメンバー名の記載漏れの訂正で、数値には影響しない（取り込み側で訂正告知を確認、2026-11-07）。PHQ-9 の日本語版の検証状況や国内の健診・診療での位置づけは本カードでは扱っていない。PMCID は作り手が第三者のサイトで確認したもので、API では未照合（--online での照合待ち）
+  curriculum:
+    kokushi: 医学各論 Ⅱ-2-A-①（うつ病、a）
+    core_curriculum: 'PS-02-17-02 (id: JkxnuTw)；PS-02-17-03 (id: JkxnuT0)；TBL-01-00-536 (id: JlvnmT0)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)'
+  publication_info:
+    created: '2026-11-07'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-07'
+    by: claude-code
+    change: 取り込み：raw/md_extra_20261107.md（作り手の下書き MD-仮2）から。ID を MD-010 に、出典を SRC-4977 に確定し、core_curriculum を登録依頼文（round51_PS.md）の Ⅱ-2-A-① の行から付けた。三原の承認（2026-11-07）による
+  - date: '2026-11-07'
+    by: claude-code
+    change: uncertainty の訂正（Erratum）の記述を、取り込み側の確認結果（数値に影響なし）に置き換えた
+  - date: '2026-11-07'
+    by: claude-code
+    change: uncertainty に PMCID が API 未照合であることを追記した
+- id: MD-011
+  domain: MD
+  subdomain: うつ病
+  assertion:
+    plain_statement_ja: PHQ-9 の最初の2項目（抑うつ気分と、興味・喜びの喪失）からなる PHQ-2 は、大うつ病スクリーニングの第一段階として用いられる。PHQ スコアを診断面接と照合した研究の個人参加者データメタ解析（100研究、参加者44,318人）では、半構造化面接を参照基準とした場合、PHQ-2 のカットオフ2点以上で感度0.91（95%信頼区間0.88〜0.94）、特異度0.67（同0.64〜0.71）だった。PHQ-2（2点以上）に続けて PHQ-9（10点以上）を行う二段階法は、PHQ-9 単独（10点以上）と比べて感度は同等（0.82 対 0.86）で特異度がやや高く（0.87 対 0.85）、PHQ-9 の全項目の実施が必要な人数を57%減らすと推定された
+    condition:
+      region: 国際
+      対象: 大うつ病のスクリーニングを受ける成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4978
+    source: 'Levis B, Sun Y, He C, et al. Accuracy of the PHQ-2 Alone and in Combination With the PHQ-9 for Screening to Detect Major Depression: Systematic Review and Meta-analysis. JAMA. 2020;323(22):2290-2300'
+    doi: 10.1001/jama.2020.6504
+    pmid: '32515813'
+    pmcid: PMC7284301
+    url: https://doi.org/10.1001/jama.2020.6504
+    source_license: CC表示なし（購読誌）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 抄録で確認した範囲に限る。二段階法と PHQ-9 単独の比較の数値は、PHQ-2 と PHQ-9 の両方の項目スコアが得られた44研究（10,627人、半構造化面接を参照基準）での推定。参照基準の種類によって感度は異なる。国内での PHQ-2 の位置づけは本カードでは扱っていない。PMCID は作り手が第三者のサイトで確認したもので、API では未照合（--online での照合待ち）
+  curriculum:
+    kokushi: 医学各論 Ⅱ-2-A-①（うつ病、a）
+    core_curriculum: 'PS-02-17-02 (id: JkxnuTw)；PS-02-17-03 (id: JkxnuT0)；TBL-01-00-536 (id: JlvnmT0)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)'
+  publication_info:
+    created: '2026-11-07'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-07'
+    by: claude-code
+    change: 取り込み：raw/md_extra_20261107.md（作り手の下書き MD-仮3）から。ID を MD-011 に、出典を SRC-4978 に確定し、core_curriculum を登録依頼文（round51_PS.md）の Ⅱ-2-A-① の行から付けた。三原の承認（2026-11-07）による
+  - date: '2026-11-07'
+    by: claude-code
+    change: uncertainty に PMCID が API 未照合であることを追記した
+- id: MD-012
+  domain: MD
+  subdomain: うつ病
+  assertion:
+    plain_statement_ja: CANMAT 2023 ガイドラインは、うつ病のスクリーニングについて、すべての成人への一律の実施ではなく、うつ病の危険因子のある人を対象に、検証済みの尺度を用いて行うよう推奨している。具体的な手順として、まず PHQ-2 を行い、陽性の場合に PHQ-9 を行う方法が示されている。ただしこの推奨は、スクリーニングの後に十分な診断評価と治療につなげるための体制と資源があることを前提としている
+    condition:
+      region: 国際
+      対象: うつ病の危険因子のある成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3627
+    source: Lam RW, Kennedy SH, Adams C, et al. Canadian Network for Mood and Anxiety Treatments (CANMAT) 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults. Can J Psychiatry. 2024;69(9):641-687
+    doi: 10.1177/07067437241245384
+    pmid: '38711351'
+    pmcid: PMC11351064
+    url: https://doi.org/10.1177/07067437241245384
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: ガイドライン本文の Q.1.b（スクリーニング）および CANMAT 公式サイトの推奨要約で確認した範囲に限る。危険因子の具体的な一覧はガイドライン本文の表（Table 1.1）にあり、本カードの主張には含めていない。国内の健診制度でのうつ病スクリーニングの位置づけは本カードでは扱っていない
+  curriculum:
+    kokushi: 医学各論 Ⅱ-2-A-①（うつ病、a）
+    core_curriculum: 'PS-02-17-02 (id: JkxnuTw)；PS-02-17-03 (id: JkxnuT0)；TBL-01-00-536 (id: JlvnmT0)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)'
+  publication_info:
+    created: '2026-11-07'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-07'
+    by: claude-code
+    change: 取り込み：raw/md_extra_20261107.md（作り手の下書き MD-仮4）から。ID を MD-012 に、出典を SRC-3627 に確定し、core_curriculum を登録依頼文（round51_PS.md）の Ⅱ-2-A-① の行から付けた。三原の承認（2026-11-07）による
+- id: MD-013
+  domain: MD
+  subdomain: うつ病
+  assertion:
+    plain_statement_ja: CANMAT 2023 ガイドラインでは、スクリーニング尺度はうつ病の診断そのものではなく、陽性の結果は包括的な診断評価につなげるものと位置づけられている。診断は DSM-5-TR のような診断枠組みに基づく包括的評価によって行われ、その評価には、症状が物質や他の身体疾患の影響では説明されないこと、躁病エピソードまたは軽躁病エピソードの既往がないこと（双極性障害との区別）など、診断基準に組み込まれた除外の確認が含まれる
+    condition:
+      region: 国際
+      対象: うつ病の診断評価を受ける成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-3627
+    source: Lam RW, Kennedy SH, Adams C, et al. Canadian Network for Mood and Anxiety Treatments (CANMAT) 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults. Can J Psychiatry. 2024;69(9):641-687
+    doi: 10.1177/07067437241245384
+    pmid: '38711351'
+    pmcid: PMC11351064
+    url: https://doi.org/10.1177/07067437241245384
+    source_license: CC BY 4.0
+    legal_basis: B
+    source_class: OPEN
+    corroboration: null
+  uncertainty: ガイドライン本文の Q.1.b・Q.1.d（スクリーニング陽性後は包括的な診断評価を行うこと、診断は DSM-5-TR 等の枠組みに基づくこと）および CANMAT 公式サイトの推奨要約で確認した範囲に限る。除外の具体的内容は DSM-5-TR の診断基準（基準C〜E）の構造に基づく。身体疾患の鑑別のための個別の検査項目はガイドライン本文を直接照合していないため主張に含めていない
+  curriculum:
+    kokushi: 医学各論 Ⅱ-2-A-①（うつ病、a）
+    core_curriculum: 'PS-02-17-02 (id: JkxnuTw)；PS-02-17-03 (id: JkxnuT0)；TBL-01-00-536 (id: JlvnmT0)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)'
+  publication_info:
+    created: '2026-11-07'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-07'
+    by: claude-code
+    change: 取り込み：raw/md_extra_20261107.md（作り手の下書き MD-仮5）から。ID を MD-013 に、出典を SRC-3627 に確定し、core_curriculum を登録依頼文（round51_PS.md）の Ⅱ-2-A-① の行から付けた。三原の承認（2026-11-07）による

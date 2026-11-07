@@ -1,8 +1,8 @@
 # MD 気分<感情>障害 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-01
+[← 一覧に戻る](README.md)　更新：2026-11-07
 
-全 8 件のうち、監修済み 0 件。
+全 13 件のうち、監修済み 0 件。
 
 ## うつ病
 
@@ -46,7 +46,57 @@
 - 出題基準：医学各論 Ⅱ-2-A-①（うつ病、a）　コアカリ：PS-02-17-04 (id: JkxnuT4)；TBL-01-00-536 (id: JlvnmT0)；TBL-02-16-017 (id: JuX-PEs)；PS-02-17-05 (id: JkxnuT8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MD-004&card_id=MD-004&version=8695cf1c89)　（版 `8695cf1c89`）
 
-**[ここまでの 4 件（MD-001〜MD-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MD-001%E3%80%9CMD-004&cards=MD-001%20a975277a7f%0AMD-002%20aa16657aeb%0AMD-003%20d77da34f75%0AMD-004%208695cf1c89)**
+### MD-009　下書き（出典の照合前）
+
+> DSM-5-TR の大うつ病性障害の診断基準では、大うつ病エピソードは、同じ2週間の期間に、それまでの機能からの変化として9つの症状のうち5つ以上がほぼ毎日存在し、そのうち少なくとも1つが中核症状（抑うつ気分、または興味・喜びの喪失）であることとされる。9症状は中核症状の2つに加えて、体重・食欲の変化、睡眠障害（不眠または過眠）、精神運動の焦燥または制止、易疲労性・気力の減退、無価値感・過度の罪責感、思考力・集中力の低下または決断困難、死についての反復思考・自殺念慮である。あわせて、症状が臨床的に意味のある苦痛、または社会的・職業的などの重要な機能領域の障害を引き起こしていること、そのエピソードが物質や他の身体疾患の生理学的作用では説明されないこと、他の精神病性障害でよりよく説明されないこと、躁病エピソードまたは軽躁病エピソードの既往がないことが求められる
+
+- 条件：region: 国際／対象: うつ病エピソードの診断評価を受ける人
+- 不確実性：書籍のため DOI・PMID はない。書誌は DSM-5-TR の奥付で確認した（American Psychiatric Association Publishing、2022年、ISBN 978-0-89042-575-6（Hardcover）／978-0-89042-576-3（Paperback））。基準Aの症状構成（9症状・5つ以上・2週間・中核症状の必須）は、DSM-5 基準を明示した Tolentino & Schmidt 2018（Front Psychiatry. 2018;9:450、CC BY）で照合し、基準B〜Eの文言は DSM-5-TR 基準を転載した Specialist Link Primary Care Pathway（Alberta 州、2025年7月29日更新）および Veterans Affairs Canada の DSM-5-TR 準拠ガイドで照合した。本下書きでは書籍本文（Depressive Disorders 章、大うつ病性障害の基準は p.183 開始）を直接照合していないため、登録時に本文で最終照合すること
+- 出典：American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-2-A-①（うつ病、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；PS-02-17-03 (id: JkxnuT0)；TBL-01-00-536 (id: JlvnmT0)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MD-009&card_id=MD-009&version=8bab6998ca)　（版 `8bab6998ca`）
+
+### MD-010　下書き（出典の照合前）
+
+> うつ病のスクリーニング尺度 PHQ-9（9項目の自己記入式質問票）について、PHQ-9 のスコアを検証済みの診断面接による大うつ病の診断と照合した研究の個人参加者データメタ解析（58研究、参加者17,357人）では、半構造化面接を参照基準とした研究群（29研究、6,725人）において、カットオフ10点以上で感度0.88（95%信頼区間0.83〜0.92）、特異度0.85（同0.82〜0.88）と推定され、10点以上が感度と特異度の和を最大化するカットオフだった
+
+- 条件：region: 国際／対象: 大うつ病のスクリーニングを受ける成人
+- 不確実性：抄録で確認した範囲に限る。数値は半構造化面接を参照基準とした研究群での推定であり、完全構造化面接や MINI を参照基準とした研究群では感度が低く出ることが同論文で示されている。本論文の訂正（BMJ. 2019;365:l1781）は DEPRESSD Collaboration のメンバー名の記載漏れの訂正で、数値には影響しない（取り込み側で訂正告知を確認、2026-11-07）。PHQ-9 の日本語版の検証状況や国内の健診・診療での位置づけは本カードでは扱っていない。PMCID は作り手が第三者のサイトで確認したもので、API では未照合（--online での照合待ち）
+- 出典：Levis B, Benedetti A, Thombs BD, on behalf of the DEPRESsion Screening Data (DEPRESSD) Collaboration. Accuracy of Patient Health Questionnaire-9 (PHQ-9) for screening to detect major depression: individual participant data meta-analysis. BMJ. 2019;365:l1476　[DOI 10.1136/bmj.l1476](https://doi.org/10.1136/bmj.l1476)　[PMID 30967483](https://pubmed.ncbi.nlm.nih.gov/30967483/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-2-A-①（うつ病、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；PS-02-17-03 (id: JkxnuT0)；TBL-01-00-536 (id: JlvnmT0)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MD-010&card_id=MD-010&version=d95704d763)　（版 `d95704d763`）
+
+### MD-011　下書き（出典の照合前）
+
+> PHQ-9 の最初の2項目（抑うつ気分と、興味・喜びの喪失）からなる PHQ-2 は、大うつ病スクリーニングの第一段階として用いられる。PHQ スコアを診断面接と照合した研究の個人参加者データメタ解析（100研究、参加者44,318人）では、半構造化面接を参照基準とした場合、PHQ-2 のカットオフ2点以上で感度0.91（95%信頼区間0.88〜0.94）、特異度0.67（同0.64〜0.71）だった。PHQ-2（2点以上）に続けて PHQ-9（10点以上）を行う二段階法は、PHQ-9 単独（10点以上）と比べて感度は同等（0.82 対 0.86）で特異度がやや高く（0.87 対 0.85）、PHQ-9 の全項目の実施が必要な人数を57%減らすと推定された
+
+- 条件：region: 国際／対象: 大うつ病のスクリーニングを受ける成人
+- 不確実性：抄録で確認した範囲に限る。二段階法と PHQ-9 単独の比較の数値は、PHQ-2 と PHQ-9 の両方の項目スコアが得られた44研究（10,627人、半構造化面接を参照基準）での推定。参照基準の種類によって感度は異なる。国内での PHQ-2 の位置づけは本カードでは扱っていない。PMCID は作り手が第三者のサイトで確認したもので、API では未照合（--online での照合待ち）
+- 出典：Levis B, Sun Y, He C, et al. Accuracy of the PHQ-2 Alone and in Combination With the PHQ-9 for Screening to Detect Major Depression: Systematic Review and Meta-analysis. JAMA. 2020;323(22):2290-2300　[DOI 10.1001/jama.2020.6504](https://doi.org/10.1001/jama.2020.6504)　[PMID 32515813](https://pubmed.ncbi.nlm.nih.gov/32515813/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-2-A-①（うつ病、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；PS-02-17-03 (id: JkxnuT0)；TBL-01-00-536 (id: JlvnmT0)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MD-011&card_id=MD-011&version=e569951894)　（版 `e569951894`）
+
+### MD-012　下書き（出典の照合前）
+
+> CANMAT 2023 ガイドラインは、うつ病のスクリーニングについて、すべての成人への一律の実施ではなく、うつ病の危険因子のある人を対象に、検証済みの尺度を用いて行うよう推奨している。具体的な手順として、まず PHQ-2 を行い、陽性の場合に PHQ-9 を行う方法が示されている。ただしこの推奨は、スクリーニングの後に十分な診断評価と治療につなげるための体制と資源があることを前提としている
+
+- 条件：region: 国際／対象: うつ病の危険因子のある成人
+- 不確実性：ガイドライン本文の Q.1.b（スクリーニング）および CANMAT 公式サイトの推奨要約で確認した範囲に限る。危険因子の具体的な一覧はガイドライン本文の表（Table 1.1）にあり、本カードの主張には含めていない。国内の健診制度でのうつ病スクリーニングの位置づけは本カードでは扱っていない
+- 出典：Lam RW, Kennedy SH, Adams C, et al. Canadian Network for Mood and Anxiety Treatments (CANMAT) 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults. Can J Psychiatry. 2024;69(9):641-687　[DOI 10.1177/07067437241245384](https://doi.org/10.1177/07067437241245384)　[PMID 38711351](https://pubmed.ncbi.nlm.nih.gov/38711351/)（区分 OPEN）
+- 出題基準：医学各論 Ⅱ-2-A-①（うつ病、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；PS-02-17-03 (id: JkxnuT0)；TBL-01-00-536 (id: JlvnmT0)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MD-012&card_id=MD-012&version=0565b4572e)　（版 `0565b4572e`）
+
+### MD-013　下書き（出典の照合前）
+
+> CANMAT 2023 ガイドラインでは、スクリーニング尺度はうつ病の診断そのものではなく、陽性の結果は包括的な診断評価につなげるものと位置づけられている。診断は DSM-5-TR のような診断枠組みに基づく包括的評価によって行われ、その評価には、症状が物質や他の身体疾患の影響では説明されないこと、躁病エピソードまたは軽躁病エピソードの既往がないこと（双極性障害との区別）など、診断基準に組み込まれた除外の確認が含まれる
+
+- 条件：region: 国際／対象: うつ病の診断評価を受ける成人
+- 不確実性：ガイドライン本文の Q.1.b・Q.1.d（スクリーニング陽性後は包括的な診断評価を行うこと、診断は DSM-5-TR 等の枠組みに基づくこと）および CANMAT 公式サイトの推奨要約で確認した範囲に限る。除外の具体的内容は DSM-5-TR の診断基準（基準C〜E）の構造に基づく。身体疾患の鑑別のための個別の検査項目はガイドライン本文を直接照合していないため主張に含めていない
+- 出典：Lam RW, Kennedy SH, Adams C, et al. Canadian Network for Mood and Anxiety Treatments (CANMAT) 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults. Can J Psychiatry. 2024;69(9):641-687　[DOI 10.1177/07067437241245384](https://doi.org/10.1177/07067437241245384)　[PMID 38711351](https://pubmed.ncbi.nlm.nih.gov/38711351/)（区分 OPEN）
+- 出題基準：医学各論 Ⅱ-2-A-①（うつ病、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；PS-02-17-03 (id: JkxnuT0)；TBL-01-00-536 (id: JlvnmT0)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MD-013&card_id=MD-013&version=c11c8e2cff)　（版 `c11c8e2cff`）
+
+**[ここまでの 9 件（MD-001〜MD-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MD-001%E3%80%9CMD-013&cards=MD-001%20a975277a7f%0AMD-002%20aa16657aeb%0AMD-003%20d77da34f75%0AMD-004%208695cf1c89%0AMD-009%208bab6998ca%0AMD-010%20d95704d763%0AMD-011%20e569951894%0AMD-012%200565b4572e%0AMD-013%20c11c8e2cff)**
 
 ---
 
