@@ -1,8 +1,8 @@
 # SZ 統合失調症と類縁疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-07
+[← 一覧に戻る](README.md)　更新：2026-11-08
 
-全 10 件のうち、監修済み 0 件。
+全 13 件のうち、監修済み 0 件。
 
 ## 統合失調症
 
@@ -56,7 +56,37 @@
 - 出題基準：医学各論 Ⅱ-2-B-①（妄想型統合失調症、a）　コアカリ：PS-02-17-04 (id: JkxnuT4)；TBL-01-00-538 (id: JlvnmUA)；TBL-02-16-008 (id: JlAKpzU)；TBL-02-16-017 (id: JuX-PEs)；PS-02-17-05 (id: JkxnuT8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SZ-005&card_id=SZ-005&version=c6a27398ba)　（版 `c6a27398ba`）
 
-**[ここまでの 5 件（SZ-001〜SZ-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SZ-001%E3%80%9CSZ-005&cards=SZ-001%205f515ae339%0ASZ-002%205d9968f043%0ASZ-003%20d32d33d89c%0ASZ-004%20e53c4a308a%0ASZ-005%20c6a27398ba)**
+### SZ-011　下書き（出典の照合前）
+
+> 統合失調症の中心的な症状は、DSM-5-TR の診断基準Aに挙がる5つの領域で現れる。妄想は、周囲から見ると根拠のない確信（誰かに狙われている、見張られている、など）として現れる。幻覚は、実際にはいない人の声が聞こえるなど、実在しないものを現実のように感じる体験である。まとまりのない発話では、話が途中で脱線したり、質問と答えがかみ合わなかったりして、会話が成り立ちにくくなる。ひどくまとまりのない行動は、場にそぐわない振る舞いや予測できない興奮として現れ、身の回りのことなどの日常生活の動作も難しくなることがあり、緊張病性の行動では、呼びかけに反応しない、同じ姿勢を保ち続けるといった形をとることがある。陰性症状は、感情の表出が乏しくなること（表情や声の抑揚が減る）や、意欲の低下（物事への関心が向きにくく、活動を始められない）として現れる。診断基準では、この5領域のうち2つ以上が1か月の大半に存在し、そのうち少なくとも1つは妄想・幻覚・まとまりのない発話のいずれかであることが求められる
+
+- 条件：region: 国際／対象: 統合失調症の人
+- 不確実性：書籍のため DOI・PMID はない。書誌は出典マスターの SRC-4976 の登録内容どおり（American Psychiatric Association Publishing、2022年、ISBN 978-0-89042-575-6（Hardcover）／978-0-89042-576-3（Paperback））。基準Aの5項目の構成（2つ以上・1か月・少なくとも1つは妄想・幻覚・まとまりのない発話）と各症状の現れ方は、DSM-5 の診断を解説した国内ガイドライン英語版（統合失調症薬物治療ガイドライン2022 の英語版、Neuropsychopharmacol Rep. 2025、既存 SRC-3622）の PMC 全文の診断の章で照合した（幻覚・解体した言語・著しく異常な精神運動行動・陰性症状として感情表出の減少と意欲低下、の記述）。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。既存の SZ-002 は同じ基準Aを診断手順の一部として簡潔に述べるカードであり、本カードは症状そのものの具体像（日常生活で見られる形）を主張するもので、主張の焦点が異なるため実質的な重複には当たらないと判断した。末尾の基準Aの要件（5領域のうち2つ以上・1か月の大半・少なくとも1つは妄想・幻覚・まとまりのない発話）は SZ-002 と重なる。妄想・幻覚などの日常の例（誰かに狙われている、など）が出典に書かれた例か、作り手の言い換えかは、取り込み側では確認していない（監修で確認する。取り込み側の申し送り、2026-11-08）
+- 出典：American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-2-B-①（妄想型統合失調症、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；TBL-01-00-538 (id: JlvnmUA)；TBL-02-16-005 (id: JlAKpzE)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SZ-011&card_id=SZ-011&version=383add03f1)　（版 `383add03f1`）
+
+### SZ-012　下書き（出典の照合前）
+
+> 統合失調症では、明らかな精神病症状が現れる前に、前駆期と呼ばれる時期の変化が先行することが多い。前駆期の変化は最初は非特異的で、家に引きこもる・人付き合いが減るといった社会的引きこもり、学校の成績や仕事の能率の低下、注意力・集中力の低下、不安や気分の落ち込み、睡眠の乱れ、イライラなどがみられる。その後に、疑い深さ（被害的な考え）、奇妙な考えやまとまりにくい話し方、知覚の違和感、場にそぐわない振る舞いなど、弱い形（減衰型）の精神病様の症状が現れることがある。これらの変化は統合失調症以外の原因でも起こりうるため、変化があるだけでは診断はできないが、それまでと比べて持続する変化に周囲や本人が気づくことが、早期に受診する手がかりになる
+
+- 条件：region: 国際／対象: 統合失調症の発症前・発症初期の人
+- 不確実性：PMC 全文で確認した範囲に限る（前駆症状としての不安・抑うつ・気分変動・睡眠の乱れ・イライラ、微細な変化としての社会的引きこもり・学業遂行の低下、減衰型陽性症状としての関係念慮・奇妙な信念や思考・知覚の障害・被害念慮・奇妙な行動や外見、認知面の変化としての記憶・注意・集中の障害）。ライセンスは PMC ページ表示の CC BY-NC-SA 4.0（NC を含むため RESTRICTED）。本出典は総説であり、個々の変化の頻度や感度・特異度などの数値は主張に含めていない。前駆期の変化は発症後に振り返って同定されることが多く、前駆期にある人がすべて統合失調症を発症するわけではない。移行率などの数値は本下書きでは照合していないため、登録時に必要なら別途一次資料で確認すること。PMCID は API 未照合（--online での照合待ち）
+- 出典：George M, Maheshwari S, Chandran S, Manohar JS, Sathyanarayana Rao TS. Understanding the schizophrenia prodrome. Indian J Psychiatry. 2017;59(4):505-509　[DOI 10.4103/psychiatry.IndianJPsychiatry_464_17](https://doi.org/10.4103/psychiatry.IndianJPsychiatry_464_17)　[PMID 29497198](https://pubmed.ncbi.nlm.nih.gov/29497198/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-2-B-①（妄想型統合失調症、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；TBL-01-00-538 (id: JlvnmUA)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SZ-012&card_id=SZ-012&version=21bc0d2231)　（版 `21bc0d2231`）
+
+### SZ-013　下書き（出典の照合前）
+
+> 精神病症状が現れてから適切な治療が始まるまでの期間は未治療期間（DUP）と呼ばれる。統合失調症を対象とした系統的レビュー・メタ解析（33サンプル）では、DUP が長いことは、全般的な症状の転帰の悪さ、より重い陽性症状・陰性症状、寛解に至る可能性の低さ、社会機能と全般的転帰の悪さと、統計学的に有意に関連していた（相関係数 0.13〜0.18 で、関連は小さいが一貫していた）。一方で、就労、生活の質、入院治療との関連は認められなかった。DUP は修正可能な数少ない転帰予測因子の一つと位置づけられており、早期発見・早期介入が長期経過に少なくともわずかな良い影響を与えうる根拠の一つとされる
+
+- 条件：region: 国際／対象: 統合失調症の人
+- 不確実性：抄録で確認した範囲に限る。相関係数 0.13〜0.18 と関連のあった・なかった転帰の内訳は抄録の記載どおりで、各転帰ごとの個別の相関係数や、組み入れ研究ごとの DUP の定義・長短の区切りは本文（購読誌）を確認していないため主張に含めていない。本メタ解析の示すのは観察研究の相関であり、DUP を短縮する介入そのものが転帰を改善するかどうかは介入試験で検証すべき論点である（出典の結論も「少なくともわずかな良い影響を与えうる」という表現にとどまる）。裏付け候補として、初回エピソード精神病の前向きコホート26研究・4,490人を対象とした系統的レビュー（Marshall M, et al. Arch Gen Psychiatry. 2005;62(9):975-983、DOI 10.1001/archpsyc.62.9.975、PMID 16143729）があり、DUP が長い群では寛解に至る可能性が有意に低かったことが抄録で確認できた（本下書きの主出典にはしていない）
+- 出典：Penttilä M, Jääskeläinen E, Hirvonen N, Isohanni M, Miettunen J. Duration of untreated psychosis as predictor of long-term outcome in schizophrenia: systematic review and meta-analysis. Br J Psychiatry. 2014;205(2):88-94　[DOI 10.1192/bjp.bp.113.127753](https://doi.org/10.1192/bjp.bp.113.127753)　[PMID 25252316](https://pubmed.ncbi.nlm.nih.gov/25252316/)（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-2-B-①（妄想型統合失調症、a）　コアカリ：PS-02-17-04 (id: JkxnuT4)；TBL-01-00-538 (id: JlvnmUA)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SZ-013&card_id=SZ-013&version=2cbb4a8eda)　（版 `2cbb4a8eda`）
+
+**[ここまでの 8 件（SZ-001〜SZ-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SZ-001%E3%80%9CSZ-013&cards=SZ-001%205f515ae339%0ASZ-002%205d9968f043%0ASZ-003%20d32d33d89c%0ASZ-004%20e53c4a308a%0ASZ-005%20c6a27398ba%0ASZ-011%20383add03f1%0ASZ-012%2021bc0d2231%0ASZ-013%202cbb4a8eda)**
 
 ---
 

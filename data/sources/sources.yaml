@@ -35973,3 +35973,33 @@
   pmid: '12633125'
   source_class: RESTRICTED
   title: 'Hirschfeld RMA, Lewis L, Vornik LA. Perceptions and impact of bipolar disorder: how far have we really come? Results of the national depressive and manic-depressive association 2000 survey of individuals with bipolar disorder. J Clin Psychiatry. 2003;64(2):161-174'
+- citation: George M, Maheshwari S, Chandran S, Manohar JS, Sathyanarayana Rao TS. Understanding the schizophrenia prodrome. Indian J Psychiatry. 2017;59(4):505-509
+  doi: 10.4103/psychiatry.IndianJPsychiatry_464_17
+  history:
+  - by: claude-code
+    change: 取り込み：raw/sz_extra_20261108.md の出典表から（三原の承認 2026-11-08）
+    date: '2026-11-08'
+  id: SRC-4984
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY-NC-SA 4.0（PMC ページ表示）。PMCID は API 未照合
+  pmcid: PMC5806335
+  pmid: '29497198'
+  source_class: RESTRICTED
+  title: George M, Maheshwari S, Chandran S, Manohar JS, Sathyanarayana Rao TS. Understanding the schizophrenia prodrome. Indian J Psychiatry. 2017;59(4):505-509
+- citation: 'Penttilä M, Jääskeläinen E, Hirvonen N, Isohanni M, Miettunen J. Duration of untreated psychosis as predictor of long-term outcome in schizophrenia: systematic review and meta-analysis. Br J Psychiatry. 2014;205(2):88-94'
+  doi: 10.1192/bjp.bp.113.127753
+  history:
+  - by: claude-code
+    change: 取り込み：raw/sz_extra_20261108.md の出典表から（三原の承認 2026-11-08）
+    date: '2026-11-08'
+  id: SRC-4985
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC表示なし（購読誌）
+  pmcid: null
+  pmid: '25252316'
+  source_class: RESTRICTED
+  title: 'Penttilä M, Jääskeläinen E, Hirvonen N, Isohanni M, Miettunen J. Duration of untreated psychosis as predictor of long-term outcome in schizophrenia: systematic review and meta-analysis. Br J Psychiatry. 2014;205(2):88-94'
