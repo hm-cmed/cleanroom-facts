@@ -1,0 +1,317 @@
+# 事実票：C1_C5_mrsa_treatment_uk2021
+# 自動生成（scripts/build_cards.py, 2026-11-08）。以後はこのファイルを直接編集してレビューする。
+# normalized_statement は原文の転載ではなく、事実を独自の表現で記載したもの。
+cards:
+- fact_id: UK-MRSA-BSI-001
+  courses:
+  - C1
+  topic: MRSA菌血症の第一選択
+  normalized_statement: 非複雑性のMRSA菌血症では、VCMの静脈内投与を用いる（英国ガイドライン）。
+  evidence_class: guideline_recommendation
+  population: &id001
+    age_group:
+    - adult
+    infection_type:
+    - MRSA感染症
+    setting:
+    - hospital
+    - community
+  conditions:
+  - 非複雑性菌血症
+  exclusions: []
+  recommendation_strength: strong
+  certainty_of_evidence: null
+  source:
+    source_id: UK_MRSA_GL_2021
+    location: 4.4 Bacteraemia
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: &id002
+  - 英国MRSA治療ガイドラインの改訂
+  review_notes: 英国の推奨であることを表示。日本のガイドラインとの異同は監修で確認
+  version: '0.1'
+- fact_id: UK-MRSA-BSI-002
+  courses:
+  - C1
+  topic: VCMが使えない場合の菌血症
+  normalized_statement: MRSA菌血症でVCMが禁忌の場合は、リネゾリドを代替の第一選択とする（英国ガイドライン）。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - VCMが禁忌
+  exclusions: []
+  recommendation_strength: strong
+  certainty_of_evidence: null
+  source:
+    source_id: UK_MRSA_GL_2021
+    location: 4.4 Bacteraemia
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: UK-MRSA-BSI-003
+  courses:
+  - C1
+  topic: 第一選択薬が使えない場合の菌血症
+  normalized_statement: MRSA菌血症で第一選択薬が禁忌の場合は、ダプトマイシンまたはテイコプラニンを考慮する（英国ガイドライン）。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - 第一選択薬が禁忌
+  exclusions: []
+  recommendation_strength: weak
+  certainty_of_evidence: null
+  source:
+    source_id: UK_MRSA_GL_2021
+    location: 4.4 Bacteraemia
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: UK-MRSA-BSI-004
+  courses:
+  - C5
+  topic: MRSA菌血症の治療期間
+  normalized_statement: MRSA菌血症の抗菌薬治療期間は、非複雑性で最低14日間、複雑性で最低28日間を考慮する（英国ガイドライン）。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: weak
+  certainty_of_evidence: null
+  source:
+    source_id: UK_MRSA_GL_2021
+    location: 4.4 Bacteraemia
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: 複雑性・非複雑性の定義は別カードが必要（GAP-C5-SAB-DEF）
+  version: '0.1'
+- fact_id: UK-MRSA-PNA-001
+  courses:
+  - C1
+  topic: 院内肺炎の第一選択
+  normalized_statement: MRSAによる院内肺炎では、VCMまたはリネゾリドの静脈内投与を第一選択とする（英国ガイドライン。リネゾリドの優越性を確認する追加試験がないため）。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: weak
+  certainty_of_evidence: null
+  source:
+    source_id: UK_MRSA_GL_2021
+    location: 4.6.2 Nosocomial pneumonia
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: UK-MRSA-PNA-002
+  courses:
+  - C1
+  - C3
+  topic: 肺炎にダプトマイシンを使わない
+  normalized_statement: ダプトマイシンは肺サーファクタントで不活化されるため、MRSAによる院内肺炎の治療に用いない（英国ガイドライン）。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: strong
+  certainty_of_evidence: null
+  source:
+    source_id: UK_MRSA_GL_2021
+    location: 4.6.2 Nosocomial pneumonia
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: UK-MRSA-PNA-003
+  courses:
+  - C1
+  topic: 壊死性肺炎
+  normalized_statement: MRSAによる壊死性肺炎では、VCMまたはリネゾリドの静脈内投与を用いる（英国ガイドライン）。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: strong
+  certainty_of_evidence: null
+  source:
+    source_id: UK_MRSA_GL_2021
+    location: Necrotizing pneumonia
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: UK-MRSA-SSTI-001
+  courses:
+  - C1
+  topic: 重症の皮膚軟部組織感染症
+  normalized_statement: MRSAによる重症の蜂窩織炎・軟部組織感染症では、グリコペプチド系（VCMまたはテイコプラニン）の静脈内投与を用い、代替としてリネゾリド（経口または静注）またはダプトマイシン（静注）を用いる（英国ガイドライン）。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - 重症
+  exclusions: []
+  recommendation_strength: strong
+  certainty_of_evidence: null
+  source:
+    source_id: UK_MRSA_GL_2021
+    location: SSTI
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: UK-MRSA-UTI-001
+  courses:
+  - C1
+  topic: MRSA尿路感染症
+  normalized_statement: 尿からMRSAが分離された場合は、治療開始前に菌血症の有無を確認する。複雑性尿路感染症ではグリコペプチド系の静脈内投与を第一選択として考慮し、リネゾリドは腎からの排泄が少ないため推奨しない（英国ガイドライン）。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: weak
+  certainty_of_evidence: null
+  source:
+    source_id: UK_MRSA_GL_2021
+    location: UTI
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: UK-MRSA-BJI-001
+  courses:
+  - C1
+  topic: 骨・関節感染症
+  normalized_statement: MRSAによる骨・関節感染症の治療は、必要に応じた手術やドレナージを含む多職種チームで行う（英国ガイドライン）。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: strong
+  certainty_of_evidence: null
+  source:
+    source_id: UK_MRSA_GL_2021
+    location: Bone and joint infection
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'

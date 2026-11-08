@@ -1,0 +1,198 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Anti-MRSA Educational Scenario",
+  "type": "object",
+  "required": [
+    "scenario_id",
+    "title",
+    "educational_scope",
+    "fictional_case",
+    "learner_targets",
+    "initial_information",
+    "decision_points",
+    "approved_answers",
+    "critical_errors",
+    "sources",
+    "review_status",
+    "version"
+  ],
+  "properties": {
+    "scenario_id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "educational_scope": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "mrsa_coverage_decision",
+          "drug_selection",
+          "vcm_initial_dosing",
+          "tdm",
+          "monitoring",
+          "source_control",
+          "de_escalation",
+          "expert_philosophy"
+        ]
+      }
+    },
+    "fictional_case": {
+      "type": "boolean",
+      "const": true
+    },
+    "learner_targets": {
+      "type": "object",
+      "properties": {
+        "professions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "levels": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "settings": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "initial_information": {
+      "type": "object"
+    },
+    "hidden_information": {
+      "type": "object"
+    },
+    "decision_points": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "decision_id",
+          "prompt",
+          "information_available"
+        ],
+        "properties": {
+          "decision_id": {
+            "type": "string"
+          },
+          "prompt": {
+            "type": "string"
+          },
+          "information_available": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "allowed_actions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "time_limit_seconds": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "approved_answers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "decision_id",
+          "classification",
+          "rationale"
+        ],
+        "properties": {
+          "decision_id": {
+            "type": "string"
+          },
+          "classification": {
+            "type": "string",
+            "enum": [
+              "most_appropriate",
+              "conditionally_appropriate",
+              "acceptable_with_caution",
+              "inappropriate",
+              "critical_error"
+            ]
+          },
+          "answer_pattern": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "rationale": {
+            "type": "string"
+          },
+          "evidence_fact_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "expert_survey_refs": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "critical_errors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "practice_mode": {
+      "type": "object"
+    },
+    "osce_mode": {
+      "type": "object"
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "reviewers": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "review_status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "under_review",
+        "approved",
+        "deprecated",
+        "retired"
+      ]
+    },
+    "version": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}

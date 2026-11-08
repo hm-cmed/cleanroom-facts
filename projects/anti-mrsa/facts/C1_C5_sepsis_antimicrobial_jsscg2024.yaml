@@ -1,0 +1,373 @@
+# 事実票：C1_C5_sepsis_antimicrobial_jsscg2024
+# 自動生成（scripts/build_cards.py, 2026-11-08）。以後はこのファイルを直接編集してレビューする。
+# normalized_statement は原文の転載ではなく、事実を独自の表現で記載したもの。
+cards:
+- fact_id: SEP-ABX-001
+  courses:
+  - C1
+  topic: 血液培養
+  normalized_statement: 敗血症が疑われる患者では、抗菌薬投与前に少なくとも2セットの血液培養を採取する。
+  evidence_class: guideline_recommendation
+  population: &id001
+    age_group:
+    - adult
+    - pediatric
+    infection_type:
+    - 敗血症・敗血症性ショック
+    setting:
+    - hospital
+    - ICU
+  conditions: []
+  exclusions: []
+  recommendation_strength: Good Practice Statement
+  certainty_of_evidence: null
+  source:
+    source_id: JSSCG_2024_JIC
+    location: CQ1-4
+    page: null
+    cq: CQ1-4
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: &id002
+  - 日本版敗血症診療ガイドラインの改訂
+  review_notes: null
+  version: '0.1'
+- fact_id: SEP-ABX-002
+  courses:
+  - C1
+  topic: 感染巣の培養
+  normalized_statement: 敗血症が疑われる患者では、抗菌薬投与前に感染が疑われる部位からも培養検体を採取する。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: Good Practice Statement
+  certainty_of_evidence: null
+  source:
+    source_id: JSSCG_2024_JIC
+    location: CQ1-4
+    page: null
+    cq: CQ1-4
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: SEP-ABX-003
+  courses:
+  - C1
+  topic: グラム染色
+  normalized_statement: 敗血症の経験的抗菌薬の選択にグラム染色を用いることが提案されている。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: 2C
+  certainty_of_evidence: null
+  source:
+    source_id: JSSCG_2024_JIC
+    location: CQ2-1
+    page: null
+    cq: CQ2-1
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: SEP-ABX-004
+  courses:
+  - C1
+  topic: 抗菌薬投与開始のタイミング
+  normalized_statement: 敗血症と診断したらできるだけ早く抗菌薬を開始するが、1時間以内という厳格な時間目標を設けないことが提案されている。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: 2C
+  certainty_of_evidence: null
+  source:
+    source_id: JSSCG_2024_JIC
+    location: CQ2-2
+    page: null
+    cq: CQ2-2
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: SEP-ABX-005
+  courses:
+  - C1
+  topic: 経験的抗菌薬の選び方
+  normalized_statement: 経験的抗菌薬は、推定される感染巣と想定される菌に基づき、患者背景、地域・施設の疫学、迅速検査、組織移行性、耐性菌のリスクを考慮して選ぶ。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: Background Question
+  certainty_of_evidence: null
+  source:
+    source_id: JSSCG_2024_JIC
+    location: CQ2-3
+    page: null
+    cq: CQ2-3
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: SEP-ABX-006
+  courses:
+  - C1
+  topic: 抗MRSA薬を経験的に加える場面
+  normalized_statement: 感染巣、患者背景、微生物学的情報からMRSAの関与が疑われる場合に、経験的治療に抗MRSA薬を加える（推奨度を付さない背景情報として記載）。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: Background Question
+  certainty_of_evidence: null
+  source:
+    source_id: JSSCG_2024_JIC
+    location: CQ2-5
+    page: null
+    cq: CQ2-5
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: どの患者背景をMRSAのリスクとみなすかの具体的な基準はない（GAP-C1-RISK）
+  version: '0.1'
+- fact_id: SEP-ABX-007
+  courses:
+  - C2
+  topic: 腎機能に応じた投与量調整
+  normalized_statement: 敗血症では、腎機能の推移、体液量の変化、腎代替療法などの体外循環の有無を踏まえて抗菌薬の投与量を調整する。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: Background Question
+  certainty_of_evidence: null
+  source:
+    source_id: JSSCG_2024_JIC
+    location: CQ2-6
+    page: null
+    cq: CQ2-6
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: SEP-ABX-008
+  courses:
+  - C2
+  topic: グリコペプチド系の持続・延長投与
+  normalized_statement: グリコペプチド系抗菌薬（VCMなど）では、持続投与・延長投与を行わないことが提案されている（β-ラクタム系では行うことが提案されている：2B）。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: 2C
+  certainty_of_evidence: null
+  source:
+    source_id: JSSCG_2024_JIC
+    location: CQ2-7
+    page: null
+    cq: CQ2-7
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: SEP-ABX-009
+  courses:
+  - C2
+  topic: TDMに基づく投与
+  normalized_statement: 敗血症の抗菌薬治療では、TDMに基づいて投与量を調整することが提案されている。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: 2D
+  certainty_of_evidence: null
+  source:
+    source_id: JSSCG_2024_JIC
+    location: CQ2-8
+    page: null
+    cq: CQ2-8
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: SEP-ABX-010
+  courses:
+  - C5
+  topic: デエスカレーション
+  normalized_statement: 培養・感受性の結果に基づいてデエスカレーションを行うことが提案されている。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: 2C
+  certainty_of_evidence: null
+  source:
+    source_id: JSSCG_2024_JIC
+    location: CQ2-9
+    page: null
+    cq: CQ2-9
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: SEP-ABX-011
+  courses:
+  - C5
+  topic: プロカルシトニンによる中止判断
+  normalized_statement: 抗菌薬の中止判断の指標としてプロカルシトニンを用いることが提案されている。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: 2A
+  certainty_of_evidence: null
+  source:
+    source_id: JSSCG_2024_JIC
+    location: CQ2-11
+    page: null
+    cq: CQ2-11
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: SEP-ABX-012
+  courses:
+  - C5
+  topic: 治療期間
+  normalized_statement: 敗血症の抗菌薬治療では、7日以内の短期間治療が提案されている。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: 2C
+  certainty_of_evidence: null
+  source:
+    source_id: JSSCG_2024_JIC
+    location: CQ2-12
+    page: null
+    cq: CQ2-12
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: 黄色ブドウ球菌菌血症など長期治療が必要な病態への誤った適用を防ぐ注記が必要（UK-MRSA-BSI-004と併せて提示）
+  version: '0.1'

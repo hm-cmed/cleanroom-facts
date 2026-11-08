@@ -1,0 +1,105 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Knowledge Gap / Expert Input Item",
+  "description": "教育コンテンツに必要だが、CCライセンス資料の事実票ではカバーできない項目。専門家意見・許諾・規制情報・データ取得などで補う。",
+  "type": "object",
+  "required": [
+    "gap_id",
+    "course",
+    "topic",
+    "needed_content",
+    "why_not_covered",
+    "proposed_resolution",
+    "priority",
+    "status"
+  ],
+  "properties": {
+    "gap_id": {
+      "type": "string",
+      "pattern": "^GAP-[A-Z0-9-]+$"
+    },
+    "course": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "C1",
+          "C2",
+          "C3",
+          "C4",
+          "C5"
+        ]
+      }
+    },
+    "topic": {
+      "type": "string"
+    },
+    "needed_content": {
+      "type": "string"
+    },
+    "why_not_covered": {
+      "type": "string"
+    },
+    "cc_sources_checked": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "noncc_sources": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "proposed_resolution": {
+      "enum": [
+        "expert_opinion",
+        "permission_request",
+        "regulatory_fact",
+        "data_retrieval",
+        "extraction_pending",
+        "out_of_scope_v1"
+      ]
+    },
+    "expert_questions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "response_format": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "display_label_if_expert": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "priority": {
+      "enum": [
+        "high",
+        "medium",
+        "low"
+      ]
+    },
+    "status": {
+      "enum": [
+        "open",
+        "in_review",
+        "resolved",
+        "deferred"
+      ]
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "additionalProperties": false
+}

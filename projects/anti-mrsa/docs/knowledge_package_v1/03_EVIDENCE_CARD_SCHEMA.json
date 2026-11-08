@@ -1,0 +1,192 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Anti-MRSA Evidence Card",
+  "type": "object",
+  "required": [
+    "fact_id",
+    "topic",
+    "normalized_statement",
+    "evidence_class",
+    "population",
+    "conditions",
+    "source",
+    "copyright_handling",
+    "review_status",
+    "version"
+  ],
+  "properties": {
+    "fact_id": {
+      "type": "string",
+      "pattern": "^[A-Z0-9_\\-]+$"
+    },
+    "topic": {
+      "type": "string"
+    },
+    "normalized_statement": {
+      "type": "string",
+      "description": "原文を転載せず、医学的事実を独自表現で記載する"
+    },
+    "evidence_class": {
+      "type": "string",
+      "enum": [
+        "guideline_recommendation",
+        "regulatory_information",
+        "peer_reviewed_evidence",
+        "expert_survey_tendency",
+        "local_rule",
+        "educational_simplification",
+        "unresolved"
+      ]
+    },
+    "population": {
+      "type": "object",
+      "properties": {
+        "age_group": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "infection_type": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "setting": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+    "conditions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "exclusions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "recommendation_strength": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "certainty_of_evidence": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "source_id",
+        "location"
+      ],
+      "properties": {
+        "source_id": {
+          "type": "string"
+        },
+        "location": {
+          "type": "string"
+        },
+        "page": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "cq": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "table_or_figure": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "copyright_handling": {
+      "type": "object",
+      "required": [
+        "mode",
+        "verbatim_quote"
+      ],
+      "properties": {
+        "mode": {
+          "type": "string",
+          "enum": [
+            "fact_paraphrase",
+            "short_quotation",
+            "licensed_reuse",
+            "internal_only"
+          ]
+        },
+        "verbatim_quote": {
+          "type": "boolean"
+        },
+        "quotation_text": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "quotation_reason": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "clinical_use_prohibited": {
+      "type": "boolean",
+      "const": true
+    },
+    "review_status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "under_review",
+        "approved",
+        "deprecated",
+        "retired"
+      ]
+    },
+    "reviewers": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "created_at": {
+      "type": "string"
+    },
+    "last_reviewed_at": {
+      "type": "string"
+    },
+    "expiry_trigger": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "version": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}

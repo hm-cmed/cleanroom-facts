@@ -1,0 +1,102 @@
+# 事実票：C3_linezolid_tdm
+# 自動生成（scripts/build_cards.py, 2026-11-08）。以後はこのファイルを直接編集してレビューする。
+# normalized_statement は原文の転載ではなく、事実を独自の表現で記載したもの。
+cards:
+- fact_id: LZD-TDM-001
+  courses:
+  - C3
+  topic: リネゾリドの目標トラフ値（海外コンセンサス）
+  normalized_statement: 中国の専門家コンセンサスでは、リネゾリドのTDMを推奨し、目標トラフ値を2〜8 mg/Lとしている。
+  evidence_class: peer_reviewed_evidence
+  population: &id001
+    age_group:
+    - adult
+    infection_type:
+    - MRSA感染症
+    setting:
+    - hospital
+  conditions: []
+  exclusions: []
+  recommendation_strength: null
+  certainty_of_evidence: null
+  source:
+    source_id: LIN_LZD_CONSENSUS_2022
+    location: Expert panel recommendations (1)(2)
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: &id002
+  - リネゾリドTDMに関する国内ガイドラインの公表
+  review_notes: LIN_LZD_CONSENSUS_2022。国内の推奨ではないことを明示。日本での目標値は専門家意見で確認（GAP-C3-LZD）
+  version: '0.1'
+- fact_id: LZD-SAFE-001
+  courses:
+  - C3
+  topic: リネゾリドの排泄と腎機能
+  normalized_statement: リネゾリドとその主な代謝物は約65%が腎以外の経路で排泄されるため、腎機能低下時の用量調節は通常不要とされるが、腎機能低下患者では血液毒性の頻度が高いことが報告されている。
+  evidence_class: peer_reviewed_evidence
+  population: *id001
+  conditions:
+  - 腎機能低下
+  exclusions: []
+  recommendation_strength: null
+  certainty_of_evidence: null
+  source:
+    source_id: LZD_RENAL_BMCPT_2022
+    location: Background / Conclusion
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: LZD_RENAL_BMCPT_2022。安全なトラフ値の目安（6〜7 μg/mL以下）を併記するか監修で判断
+  version: '0.1'
+- fact_id: LZD-SAFE-002
+  courses:
+  - C3
+  topic: リネゾリドによる血小板減少の危険因子
+  normalized_statement: 63治療例の多変量解析で、治療期間10日以上とトラフ値8 mg/L超が血小板減少の独立した危険因子であった。
+  evidence_class: peer_reviewed_evidence
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: null
+  certainty_of_evidence: null
+  source:
+    source_id: THIROT_LZD_2024
+    location: Results
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: THIROT_LZD_2024
+  version: '0.1'
