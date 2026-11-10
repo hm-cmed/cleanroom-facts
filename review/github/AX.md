@@ -306,15 +306,15 @@
 
 ### AX-023　下書き（出典の照合前）
 
-> パニック発作には、明らかなきっかけや引き金がある「予期される発作」と、明らかなきっかけがなく起こる「予期しない発作」がある。予期しない発作には、睡眠中に起こって目覚める夜間パニック発作も含まれる。パニック症の診断の対象になるのは予期しない発作の繰り返しである。また、強い恐怖の高まりがあっても症状が4つ未満にとどまる「症状限定発作」もあり
+> パニック発作には、明らかなきっかけや引き金がある「予期される発作」と、明らかなきっかけがなく起こる「予期しない発作」がある。予期しない発作には、睡眠中に起こって目覚める夜間パニック発作も含まれる。パニック症の診断の対象になるのは予期しない発作の繰り返しである。また、強い恐怖の高まりがあっても症状が4つ未満にとどまる「症状限定発作」もある
 
 - 条件：region: 国際／対象: パニック発作のある人
 - 不確実性：書籍のため DOI・PMID はない。予期される／予期しない発作の区別、夜間パニック発作が予期しない発作に含まれること、症状限定発作（limited-symptom attack）の定義は、DSM-5-TR の基準とその解説を転載した資料で照合した。本下書きでは書籍本文を直接照合していないため、登録時に本文で最終照合すること。作り手の下書きにあった「症状の数だけで発作の重さを判断することはできない」は、出典の記述ではなく推論のため、登録時に削った
 - 出典：American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅱ-3-A-①（パニック障害<パニック症>、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；TBL-01-00-545 (id: JlvnmUM)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AX-023&card_id=AX-023&version=c6fa27f14a)　（版 `c6fa27f14a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AX-023&card_id=AX-023&version=c36c9c5406)　（版 `c36c9c5406`）
 
-**[ここまでの 3 件（AX-021〜AX-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AX-021%E3%80%9CAX-023&cards=AX-021%2075406b78e7%0AAX-022%2010600cfe3a%0AAX-023%20c6fa27f14a)**
+**[ここまでの 3 件（AX-021〜AX-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AX-021%E3%80%9CAX-023&cards=AX-021%2075406b78e7%0AAX-022%2010600cfe3a%0AAX-023%20c36c9c5406)**
 
 ---
 
