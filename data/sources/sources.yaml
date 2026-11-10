@@ -36003,3 +36003,18 @@
   pmid: '25252316'
   source_class: RESTRICTED
   title: 'Penttilä M, Jääskeläinen E, Hirvonen N, Isohanni M, Miettunen J. Duration of untreated psychosis as predictor of long-term outcome in schizophrenia: systematic review and meta-analysis. Br J Psychiatry. 2014;205(2):88-94'
+- citation: 'Feltner C, Peat C, Reddy S, et al. Screening for Eating Disorders in Adolescents and Adults: An Evidence Review for the U.S. Preventive Services Task Force. Evidence Synthesis No. 212. AHRQ Publication No. 21-05284-EF-1. Rockville, MD: Agency for Healthcare Research and Quality; 2022 Mar. NCBI Bookshelf NBK578988'
+  doi: null
+  history:
+  - by: claude-code
+    change: 登録：作り手の提案（proposals/uspstf_20261111/muse_proposal.md）による。Bookshelf の「This publication is in the public domain.」の表示は三原が目視で確認（2026-11-11）。JAMA 掲載版（© AMA）とは別物で、出典にするのは AHRQ／Bookshelf 版に限る
+    date: '2026-11-11'
+  id: SRC-4986
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: Public domain（米国政府著作物、Bookshelf の表示を三原が確認 2026-11-11）。https://www.ncbi.nlm.nih.gov/books/NBK578988/ 。報告書内に転載された第三者の資料は対象外
+  pmcid: null
+  pmid: null
+  source_class: GOV_US
+  title: 'Feltner C, Peat C, Reddy S, et al. Screening for Eating Disorders in Adolescents and Adults: An Evidence Review for the U.S. Preventive Services Task Force. Evidence Synthesis No. 212. AHRQ Publication No. 21-05284-EF-1. Rockville, MD: Agency for Healthcare Research and Quality; 2022 Mar. NCBI Bookshelf NBK578988'

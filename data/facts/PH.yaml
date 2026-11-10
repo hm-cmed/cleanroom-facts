@@ -762,7 +762,7 @@
     source_license: 表示なし（書籍）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: SRC-4986（USPSTF エビデンスレビュー、AHRQ 2022、GOV_US）の Appendix A Table 1（DSM-5 の摂食障害の診断基準の要約）で、神経性やせ症の基準の構成が一致することを作り手が照合（2026-11-11）
   uncertainty: 書籍のため DOI・PMID はない。書誌は出典マスターの SRC-4976 の登録内容どおり（American Psychiatric Association Publishing、2022年）。基準A〜Cと2つの病型（制限型／むちゃ食い・排出型）の構成は、DSM-5-TR の基準を引用した MSD マニュアル（プロフェッショナル版）の診断の節と USPSTF エビデンスレビューの基準要約表で照合した。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。重症度（BMI による区分）は本カードには含めていない。評価・紹介の進め方は既存カード PH-001、治療の目標と心理療法は PH-002 が担う
   curriculum:
     kokushi: 医学各論 Ⅱ-4-A-①（神経性やせ症<神経性無食欲症>、a）
@@ -780,6 +780,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: DSM 由来カードを「構造だけを述べる」形に見直す件と、書籍本文での照合の対象
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に SRC-4986（USPSTF エビデンスレビュー、GOV_US）を追記した。主出典は SRC-4976 のまま。三原の承認（2026-11-11）による
 - id: PH-023
   domain: PH
   subdomain: 神経性過食症<大食症>
@@ -800,7 +803,7 @@
     source_license: 表示なし（書籍）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: SRC-4986（USPSTF エビデンスレビュー、AHRQ 2022、GOV_US）の Appendix A Table 1（DSM-5 の摂食障害の診断基準の要約）で、神経性過食症の基準の構成が一致することを作り手が照合（2026-11-11）
   uncertainty: 書籍のため DOI・PMID はない。基準A〜E（むちゃ食いの定義、代償行動、週1回以上・3か月、自己評価への体型・体重の影響、神経性やせ症の期間中のみではないこと）の構成は、DSM-5-TR の基準を引用した MSD マニュアル（プロフェッショナル版）の診断の節で照合した。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。治療の進め方（ガイデッドセルフヘルプ、CBT-ED など）は既存カード PH-004 が担い、本カードには含めていない
   curriculum:
     kokushi: 医学各論 Ⅱ-4-A-②（神経性過食症<大食症>、a）
@@ -818,6 +821,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: DSM 由来カードを「構造だけを述べる」形に見直す件と、書籍本文での照合の対象
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に SRC-4986（USPSTF エビデンスレビュー、GOV_US）を追記した。主出典は SRC-4976 のまま。三原の承認（2026-11-11）による
 - id: PH-024
   domain: PH
   subdomain: 過食性障害
@@ -838,7 +844,7 @@
     source_license: 表示なし（書籍）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: SRC-4986（USPSTF エビデンスレビュー、AHRQ 2022、GOV_US）の Appendix A Table 1（DSM-5 の摂食障害の診断基準の要約）で、過食性障害の基準の構成が一致することを作り手が照合（2026-11-11）
   uncertainty: 書籍のため DOI・PMID はない。むちゃ食いの定義、随伴する5項目のうち3つ以上、著しい苦痛、週1回以上・3か月、代償行動を伴わないことの構成は、DSM-5-TR の基準を引用した MSD マニュアル（プロフェッショナル版）の診断の節で照合した。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。既存の PH カードには過食性障害そのものを扱うものはなく、本カードが初めての範囲になる。重症度（週あたりのエピソード数による区分）は本カードには含めていない
   curriculum:
     kokushi: null
@@ -856,3 +862,6 @@
   - date: '2026-11-11'
     by: claude-code
     change: DSM 由来カードを「構造だけを述べる」形に見直す件と、書籍本文での照合の対象
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に SRC-4986（USPSTF エビデンスレビュー、GOV_US）を追記した。主出典は SRC-4976 のまま。三原の承認（2026-11-11）による
