@@ -812,3 +812,76 @@
   - date: '2026-11-10'
     by: claude-code
     change: 主張文の末尾「症状の数だけで発作の重さを判断することはできない」を削った（出典の記述ではないため。三原の承認 2026-11-10）。uncertainty も合わせて直した。削ったことで文末が「もあり」で切れたため「もある」に整えた
+- id: AX-024
+  domain: AX
+  subdomain: 社交不安障害
+  assertion:
+    plain_statement_ja: 社交不安障害は、他人に注視される可能性のある社交場面への、著しい恐怖や不安を中核とする。その場面には、初対面の人と会う・会話をするといった対人交流、人前で食べたり飲んだりするなど観察されること、人前で話すなどの行為が含まれる。中心にあるのは、自分の振る舞いや不安の表れが否定的に評価されること、すなわち恥をかく・困惑する・拒絶される・他人を不快にさせることへの恐れである。社交場面はほぼ常に恐怖や不安を引き起こし、避けられるか、強い恐怖を伴って耐えられる。恐怖は実際の脅威と釣り合いが取れておらず、6か月以上持続し、社会的・職業的な機能の障害や著しい苦痛を引き起こす。物質や他の身体疾患の影響によるものではなく、他の精神疾患ではうまく説明できないことが求められる
+    condition:
+      region: 国際
+      対象: 社交不安障害の人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4976
+    source: 'American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 表示なし（書籍）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 書籍のため DOI・PMID はない。書誌は出典マスターの SRC-4976 の登録内容どおり（American Psychiatric Association Publishing、2022年）。基準の構成は DSM-5-TR の基準を引用した MSD マニュアル（プロフェッショナル版）の診断の節で照合した。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。有病率（生涯13%）は既存カード AX-007 が担い、本カードには含めていない。単なる内気・あがり症との線引きは「持続期間・機能障害・釣り合いのなさ」の組み合わせで判断されるものであり、本カードの範囲を超える解釈は含めていない。DSM の診断基準の構成をほぼすべて順に述べており、DSM 由来カードを「構造だけを述べる」形に見直す件の対象（取り込み側の申し送り、2026-11-10）
+  curriculum:
+    kokushi: 医学各論 Ⅱ-3-A-③（社交<社会>不安障害<社交不安症><社交恐怖>、b）
+    core_curriculum: 'PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-01-00-545 (id: JlvnmUM)；TBL-02-16-002 (id: JlAKpy0)'
+  publication_info:
+    created: '2026-11-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-10'
+    by: claude-code
+    change: 取り込み：raw/ax_sad_20261110.md（作り手の下書き AX-仮1）から。ID を AX-024 に確定し、curriculum を既存 AX-006 にそろえて付けた。三原の承認（2026-11-10）による
+  - date: '2026-11-10'
+    by: claude-code
+    change: uncertainty に、DSM 由来カードの見直し対象である旨を追記した
+- id: AX-025
+  domain: AX
+  subdomain: 社交不安障害
+  assertion:
+    plain_statement_ja: 社交不安障害で恐怖の対象になる場面は、大きく3つの型に分けられる。会話をする・初対面の人に会うといった「対人交流」の場面、食事や飲水の様子などを見られる「観察される」場面、スピーチなど「人前で行為をする」場面である。恐怖が人前での行為（パフォーマンス）の場面に限られる「行為状況限定型（performance only）」という特定子もある。どの型でも、恐れの中心は場面そのものではなく、その場面で否定的に評価されることにある
+    condition:
+      region: 国際
+      対象: 社交不安障害の人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4976
+    source: 'American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 表示なし（書籍）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 書籍のため DOI・PMID はない。場面の3型は DSM-5-TR の診断基準Aの例示（social interactions、being observed、performing in front of others）の区分であり、行為状況限定型の特定子の存在も同書の基準による。本下書きでは書籍本文を直接照合していないため、登録時に本文で最終照合すること。日常生活の具体例（会議での発言、電話をかける等）は基準Aの例示の範囲を超えるため主張には含めていない（動画化の際の言い換えは AX-仮1 の範囲で別途判断する）
+  curriculum:
+    kokushi: 医学各論 Ⅱ-3-A-③（社交<社会>不安障害<社交不安症><社交恐怖>、b）
+    core_curriculum: 'PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-01-00-545 (id: JlvnmUM)；TBL-02-16-002 (id: JlAKpy0)'
+  publication_info:
+    created: '2026-11-10'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-10'
+    by: claude-code
+    change: 取り込み：raw/ax_sad_20261110.md（作り手の下書き AX-仮2）から。ID を AX-025 に確定し、curriculum を既存 AX-006 にそろえて付けた。三原の承認（2026-11-10）による

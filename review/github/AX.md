@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-10
 
-全 23 件のうち、監修済み 0 件。
+全 25 件のうち、監修済み 0 件。
 
 ## パニック障害
 
@@ -88,7 +88,27 @@
 - 出題基準：医学各論 Ⅱ-3-A-③（社交<社会>不安障害<社交不安症><社交恐怖>、b）　コアカリ：PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-01-00-545 (id: JlvnmUM)；TBL-02-16-002 (id: JlAKpy0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AX-007&card_id=AX-007&version=aca0553028)　（版 `aca0553028`）
 
-**[ここまでの 2 件（AX-006〜AX-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AX-006%E3%80%9CAX-007&cards=AX-006%20cb57b58ca9%0AAX-007%20aca0553028)**
+### AX-024　下書き（出典の照合前）
+
+> 社交不安障害は、他人に注視される可能性のある社交場面への、著しい恐怖や不安を中核とする。その場面には、初対面の人と会う・会話をするといった対人交流、人前で食べたり飲んだりするなど観察されること、人前で話すなどの行為が含まれる。中心にあるのは、自分の振る舞いや不安の表れが否定的に評価されること、すなわち恥をかく・困惑する・拒絶される・他人を不快にさせることへの恐れである。社交場面はほぼ常に恐怖や不安を引き起こし、避けられるか、強い恐怖を伴って耐えられる。恐怖は実際の脅威と釣り合いが取れておらず、6か月以上持続し、社会的・職業的な機能の障害や著しい苦痛を引き起こす。物質や他の身体疾患の影響によるものではなく、他の精神疾患ではうまく説明できないことが求められる
+
+- 条件：region: 国際／対象: 社交不安障害の人
+- 不確実性：書籍のため DOI・PMID はない。書誌は出典マスターの SRC-4976 の登録内容どおり（American Psychiatric Association Publishing、2022年）。基準の構成は DSM-5-TR の基準を引用した MSD マニュアル（プロフェッショナル版）の診断の節で照合した。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。有病率（生涯13%）は既存カード AX-007 が担い、本カードには含めていない。単なる内気・あがり症との線引きは「持続期間・機能障害・釣り合いのなさ」の組み合わせで判断されるものであり、本カードの範囲を超える解釈は含めていない。DSM の診断基準の構成をほぼすべて順に述べており、DSM 由来カードを「構造だけを述べる」形に見直す件の対象（取り込み側の申し送り、2026-11-10）
+- 出典：American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-3-A-③（社交<社会>不安障害<社交不安症><社交恐怖>、b）　コアカリ：PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-01-00-545 (id: JlvnmUM)；TBL-02-16-002 (id: JlAKpy0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AX-024&card_id=AX-024&version=919c85828b)　（版 `919c85828b`）
+
+### AX-025　下書き（出典の照合前）
+
+> 社交不安障害で恐怖の対象になる場面は、大きく3つの型に分けられる。会話をする・初対面の人に会うといった「対人交流」の場面、食事や飲水の様子などを見られる「観察される」場面、スピーチなど「人前で行為をする」場面である。恐怖が人前での行為（パフォーマンス）の場面に限られる「行為状況限定型（performance only）」という特定子もある。どの型でも、恐れの中心は場面そのものではなく、その場面で否定的に評価されることにある
+
+- 条件：region: 国際／対象: 社交不安障害の人
+- 不確実性：書籍のため DOI・PMID はない。場面の3型は DSM-5-TR の診断基準Aの例示（social interactions、being observed、performing in front of others）の区分であり、行為状況限定型の特定子の存在も同書の基準による。本下書きでは書籍本文を直接照合していないため、登録時に本文で最終照合すること。日常生活の具体例（会議での発言、電話をかける等）は基準Aの例示の範囲を超えるため主張には含めていない（動画化の際の言い換えは AX-仮1 の範囲で別途判断する）
+- 出典：American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-3-A-③（社交<社会>不安障害<社交不安症><社交恐怖>、b）　コアカリ：PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-01-00-545 (id: JlvnmUM)；TBL-02-16-002 (id: JlAKpy0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AX-025&card_id=AX-025&version=d6d471f807)　（版 `d6d471f807`）
+
+**[ここまでの 4 件（AX-006〜AX-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AX-006%E3%80%9CAX-025&cards=AX-006%20cb57b58ca9%0AAX-007%20aca0553028%0AAX-024%20919c85828b%0AAX-025%20d6d471f807)**
 
 ---
 
