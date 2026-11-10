@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-10
 
-全 21 件のうち、監修済み 0 件。
+全 24 件のうち、監修済み 0 件。
 
 ## 神経性やせ症<神経性無食欲症>
 
@@ -36,7 +36,17 @@
 - 出題基準：医学各論 Ⅱ-4-A-①（神経性やせ症<神経性無食欲症>、a）　コアカリ：PS-02-17-05 (id: JkxnuT8)；TBL-01-00-547 (id: JlvnmU0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-003&card_id=PH-003&version=5a8d45bc87)　（版 `5a8d45bc87`）
 
-**[ここまでの 3 件（PH-001〜PH-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PH-001%E3%80%9CPH-003&cards=PH-001%20c417987fff%0APH-002%209c903be086%0APH-003%205a8d45bc87)**
+### PH-022　下書き（出典の照合前）
+
+> 神経性やせ症は、必要な量に比べてエネルギー摂取を制限し、年齢・性別・発達の経過・身体の健康からみて著しく低い体重に至ることを中核とする。著しく低い体重であっても、体重が増えることや太ることへの強い恐怖があるか、体重増加を妨げる行動が持続する。あわせて、自分の体重や体型の感じ方に歪みがある、体重や体型が自己評価に過度に影響する、あるいは現在の低体重の深刻さを認識し続けることができない、のいずれかがみられる。直近3か月にむちゃ食いや排出行動（自己誘発性嘔吐、下剤・利尿薬・浣腸の誤用）が繰り返されていない場合は制限型、繰り返されている場合はむちゃ食い・排出型とされる
+
+- 条件：region: 国際／対象: 神経性やせ症の人
+- 不確実性：書籍のため DOI・PMID はない。書誌は出典マスターの SRC-4976 の登録内容どおり（American Psychiatric Association Publishing、2022年）。基準A〜Cと2つの病型（制限型／むちゃ食い・排出型）の構成は、DSM-5-TR の基準を引用した MSD マニュアル（プロフェッショナル版）の診断の節と USPSTF エビデンスレビューの基準要約表で照合した。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。重症度（BMI による区分）は本カードには含めていない。評価・紹介の進め方は既存カード PH-001、治療の目標と心理療法は PH-002 が担う
+- 出典：American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-4-A-①（神経性やせ症<神経性無食欲症>、a）　コアカリ：PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-01-00-547 (id: JlvnmU0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-022&card_id=PH-022&version=c0766d2340)　（版 `c0766d2340`）
+
+**[ここまでの 4 件（PH-001〜PH-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PH-001%E3%80%9CPH-022&cards=PH-001%20c417987fff%0APH-002%209c903be086%0APH-003%205a8d45bc87%0APH-022%20c0766d2340)**
 
 ---
 
@@ -62,7 +72,17 @@
 - 出題基準：医学各論 Ⅱ-4-A-②（神経性過食症<大食症>、a）　コアカリ：PS-02-17-05 (id: JkxnuT8)；TBL-01-00-547 (id: JlvnmU0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-005&card_id=PH-005&version=88cc02050f)　（版 `88cc02050f`）
 
-**[ここまでの 2 件（PH-004〜PH-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PH-004%E3%80%9CPH-005&cards=PH-004%203495b74f66%0APH-005%2088cc02050f)**
+### PH-023　下書き（出典の照合前）
+
+> 神経性過食症は、むちゃ食いのエピソードが繰り返されることを中核とする。むちゃ食いとは、一定の時間内（例えば2時間以内）に、ほとんどの人が同じ状況で食べる量より明らかに多い量を食べ、その間に食べることをコントロールできない感覚（食べるのをやめられない、食べる物や量を制御できない感じ）を伴うものである。これに加えて、体重増加を防ぐための不適切な代償行動（自己誘発性嘔吐、下剤・利尿薬・その他の医薬品の誤用、絶食、過剰な運動）が繰り返される。むちゃ食いと代償行動はどちらも平均して週に1回以上、3か月にわたって起こり、自己評価は体型と体重に過度に影響される。この乱れは神経性やせ症のエピソードの期間中にのみ起こるものではない
+
+- 条件：region: 国際／対象: 神経性過食症の人
+- 不確実性：書籍のため DOI・PMID はない。基準A〜E（むちゃ食いの定義、代償行動、週1回以上・3か月、自己評価への体型・体重の影響、神経性やせ症の期間中のみではないこと）の構成は、DSM-5-TR の基準を引用した MSD マニュアル（プロフェッショナル版）の診断の節で照合した。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。治療の進め方（ガイデッドセルフヘルプ、CBT-ED など）は既存カード PH-004 が担い、本カードには含めていない
+- 出典：American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-4-A-②（神経性過食症<大食症>、a）　コアカリ：PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-01-00-547 (id: JlvnmU0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-023&card_id=PH-023&version=fbaf549bfd)　（版 `fbaf549bfd`）
+
+**[ここまでの 3 件（PH-004〜PH-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PH-004%E3%80%9CPH-023&cards=PH-004%203495b74f66%0APH-005%2088cc02050f%0APH-023%20fbaf549bfd)**
 
 ---
 
@@ -283,6 +303,22 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-021&card_id=PH-021&version=6fb801ac38)　（版 `6fb801ac38`）
 
 **[ここまでの 2 件（PH-020〜PH-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PH-020%E3%80%9CPH-021&cards=PH-020%20db4454b5dd%0APH-021%206fb801ac38)**
+
+---
+
+## 過食性障害
+
+### PH-024　下書き（出典の照合前）
+
+> 過食性障害は、むちゃ食いのエピソードが繰り返されることを中核とし、神経性過食症と違って不適切な代償行動を伴わない点で区別される。むちゃ食いのエピソードには、普段よりずっと速く食べる、不快なほど満腹になるまで食べる、身体的には空腹でないのに大量に食べる、食べているところを見られる恥ずかしさのために一人で食べる、食べ過ぎた後に自己嫌悪・抑うつ気分・強い罪悪感を抱く、のうち3つ以上が伴い、むちゃ食いについての著しい苦痛がある。むちゃ食いは平均して週に1回以上、3か月にわたって起こり、神経性過食症や神経性やせ症の経過中にのみ起こるものではない
+
+- 条件：region: 国際／対象: 過食性障害の人
+- 不確実性：書籍のため DOI・PMID はない。むちゃ食いの定義、随伴する5項目のうち3つ以上、著しい苦痛、週1回以上・3か月、代償行動を伴わないことの構成は、DSM-5-TR の基準を引用した MSD マニュアル（プロフェッショナル版）の診断の節で照合した。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。既存の PH カードには過食性障害そのものを扱うものはなく、本カードが初めての範囲になる。重症度（週あたりのエピソード数による区分）は本カードには含めていない
+- 出典：American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022（区分 RESTRICTED）
+- 出題基準：－　コアカリ：PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-01-00-547 (id: JlvnmU0)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-024&card_id=PH-024&version=6196f4b06f)　（版 `6196f4b06f`）
+
+**[ここまでの 1 件（PH-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PH-024&cards=PH-024%206196f4b06f)**
 
 ---
 

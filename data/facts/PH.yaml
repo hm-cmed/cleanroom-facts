@@ -742,3 +742,117 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/52_ps_b.md から（新形式。legal_basis・source_class は原本の値）
+- id: PH-022
+  domain: PH
+  subdomain: 神経性やせ症<神経性無食欲症>
+  assertion:
+    plain_statement_ja: 神経性やせ症は、必要な量に比べてエネルギー摂取を制限し、年齢・性別・発達の経過・身体の健康からみて著しく低い体重に至ることを中核とする。著しく低い体重であっても、体重が増えることや太ることへの強い恐怖があるか、体重増加を妨げる行動が持続する。あわせて、自分の体重や体型の感じ方に歪みがある、体重や体型が自己評価に過度に影響する、あるいは現在の低体重の深刻さを認識し続けることができない、のいずれかがみられる。直近3か月にむちゃ食いや排出行動（自己誘発性嘔吐、下剤・利尿薬・浣腸の誤用）が繰り返されていない場合は制限型、繰り返されている場合はむちゃ食い・排出型とされる
+    condition:
+      region: 国際
+      対象: 神経性やせ症の人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4976
+    source: 'American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 表示なし（書籍）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 書籍のため DOI・PMID はない。書誌は出典マスターの SRC-4976 の登録内容どおり（American Psychiatric Association Publishing、2022年）。基準A〜Cと2つの病型（制限型／むちゃ食い・排出型）の構成は、DSM-5-TR の基準を引用した MSD マニュアル（プロフェッショナル版）の診断の節と USPSTF エビデンスレビューの基準要約表で照合した。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。重症度（BMI による区分）は本カードには含めていない。評価・紹介の進め方は既存カード PH-001、治療の目標と心理療法は PH-002 が担う
+  curriculum:
+    kokushi: 医学各論 Ⅱ-4-A-①（神経性やせ症<神経性無食欲症>、a）
+    core_curriculum: 'PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-01-00-547 (id: JlvnmU0)'
+  publication_info:
+    created: '2026-11-11'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-11'
+    by: claude-code
+    change: 取り込み：raw/ph_eating_20261111.md（作り手の下書き PH-仮1）から。ID を PH-022 に確定し、curriculum を既存 PH-001・PH-004 にそろえて付けた。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: DSM 由来カードを「構造だけを述べる」形に見直す件と、書籍本文での照合の対象
+- id: PH-023
+  domain: PH
+  subdomain: 神経性過食症<大食症>
+  assertion:
+    plain_statement_ja: 神経性過食症は、むちゃ食いのエピソードが繰り返されることを中核とする。むちゃ食いとは、一定の時間内（例えば2時間以内）に、ほとんどの人が同じ状況で食べる量より明らかに多い量を食べ、その間に食べることをコントロールできない感覚（食べるのをやめられない、食べる物や量を制御できない感じ）を伴うものである。これに加えて、体重増加を防ぐための不適切な代償行動（自己誘発性嘔吐、下剤・利尿薬・その他の医薬品の誤用、絶食、過剰な運動）が繰り返される。むちゃ食いと代償行動はどちらも平均して週に1回以上、3か月にわたって起こり、自己評価は体型と体重に過度に影響される。この乱れは神経性やせ症のエピソードの期間中にのみ起こるものではない
+    condition:
+      region: 国際
+      対象: 神経性過食症の人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4976
+    source: 'American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 表示なし（書籍）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 書籍のため DOI・PMID はない。基準A〜E（むちゃ食いの定義、代償行動、週1回以上・3か月、自己評価への体型・体重の影響、神経性やせ症の期間中のみではないこと）の構成は、DSM-5-TR の基準を引用した MSD マニュアル（プロフェッショナル版）の診断の節で照合した。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。治療の進め方（ガイデッドセルフヘルプ、CBT-ED など）は既存カード PH-004 が担い、本カードには含めていない
+  curriculum:
+    kokushi: 医学各論 Ⅱ-4-A-②（神経性過食症<大食症>、a）
+    core_curriculum: 'PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-01-00-547 (id: JlvnmU0)'
+  publication_info:
+    created: '2026-11-11'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-11'
+    by: claude-code
+    change: 取り込み：raw/ph_eating_20261111.md（作り手の下書き PH-仮2）から。ID を PH-023 に確定し、curriculum を既存 PH-001・PH-004 にそろえて付けた。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: DSM 由来カードを「構造だけを述べる」形に見直す件と、書籍本文での照合の対象
+- id: PH-024
+  domain: PH
+  subdomain: 過食性障害
+  assertion:
+    plain_statement_ja: 過食性障害は、むちゃ食いのエピソードが繰り返されることを中核とし、神経性過食症と違って不適切な代償行動を伴わない点で区別される。むちゃ食いのエピソードには、普段よりずっと速く食べる、不快なほど満腹になるまで食べる、身体的には空腹でないのに大量に食べる、食べているところを見られる恥ずかしさのために一人で食べる、食べ過ぎた後に自己嫌悪・抑うつ気分・強い罪悪感を抱く、のうち3つ以上が伴い、むちゃ食いについての著しい苦痛がある。むちゃ食いは平均して週に1回以上、3か月にわたって起こり、神経性過食症や神経性やせ症の経過中にのみ起こるものではない
+    condition:
+      region: 国際
+      対象: 過食性障害の人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-4976
+    source: 'American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022'
+    doi: null
+    pmid: null
+    pmcid: null
+    url: null
+    source_license: 表示なし（書籍）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 書籍のため DOI・PMID はない。むちゃ食いの定義、随伴する5項目のうち3つ以上、著しい苦痛、週1回以上・3か月、代償行動を伴わないことの構成は、DSM-5-TR の基準を引用した MSD マニュアル（プロフェッショナル版）の診断の節で照合した。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。既存の PH カードには過食性障害そのものを扱うものはなく、本カードが初めての範囲になる。重症度（週あたりのエピソード数による区分）は本カードには含めていない
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-01-00-547 (id: JlvnmU0)'
+  publication_info:
+    created: '2026-11-11'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-11'
+    by: claude-code
+    change: 取り込み：raw/ph_eating_20261111.md（作り手の下書き PH-仮3）から。ID を PH-024 に確定し、curriculum を既存 PH-001・PH-004 にそろえて付けた（過食性障害は出題基準に項目がないため kokushi は null）。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: DSM 由来カードを「構造だけを述べる」形に見直す件と、書籍本文での照合の対象
