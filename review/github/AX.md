@@ -1,8 +1,8 @@
 # AX 不安症、ストレス関連症、身体的苦痛症または身体的体験症 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-08
+[← 一覧に戻る](README.md)　更新：2026-11-10
 
-全 20 件のうち、監修済み 0 件。
+全 23 件のうち、監修済み 0 件。
 
 ## パニック障害
 
@@ -279,6 +279,42 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AX-019&card_id=AX-019&version=ca1cb16c35)　（版 `ca1cb16c35`）
 
 **[ここまでの 1 件（AX-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AX-019&cards=AX-019%20ca1cb16c35)**
+
+---
+
+## パニック症
+
+### AX-021　下書き（出典の照合前）
+
+> パニック発作は、強い恐怖または強い不快感が突然高まり、数分以内にピークに達するもので、その間に次の13の症状のうち4つ以上が現れる。動悸・心悸亢進・心拍数の増加、発汗、身震いや震え、息切れ感や息苦しさ、窒息感、胸部の痛みや不快感、嘔気や腹部の不快感、めまい感・不安定感・頭がふらつく感じ・気が遠くなる感じ、悪寒や熱感、異常感覚（麻痺した感じやうずく感じ）、現実感消失（現実でない感じ）や離人感（自分から離れている感じ）、コントロールを失うのではないか・気が狂うのではないかという恐怖、死ぬのではないかという恐怖、である。発作は落ち着いている状態からでも、不安な状態からでも起こりうる。パニック発作そのものは独立した疾患ではなく、他の精神疾患にも付随しうる特定子（スペシファイア）として位置づけられる
+
+- 条件：region: 国際／対象: パニック発作のある人
+- 不確実性：書籍のため DOI・PMID はない。書誌は出典マスターの SRC-4976 の登録内容どおり（American Psychiatric Association Publishing、2022年）。13症状の列挙と「4つ以上」「数分以内にピーク」の構成は DSM-5-TR のパニック発作の基準を転載した公的資料（カナダ退役軍人省 Anxiety Disorders EEG、2025年1月版）で照合した。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。文化特異的な症状（耳鳴り、首の痛み、頭痛、抑えられない叫び・号泣など）は必要な4症状には数えないとされる点は、主張には含めていない。13症状を基準の順にすべて列挙しており、DSM の診断基準の項目の選択・配列をそのまま写す形になっている。DSM 由来のカード（MD-009・014・015、SZ-011 など）を「構造だけを述べる」形に見直すときに、あわせて扱う（取り込み側の申し送り、2026-11-10）
+- 出典：American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-3-A-①（パニック障害<パニック症>、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；TBL-01-00-545 (id: JlvnmUM)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AX-021&card_id=AX-021&version=75406b78e7)　（版 `75406b78e7`）
+
+### AX-022　下書き（出典の照合前）
+
+> パニック症（パニック障害）は、予期しないパニック発作が繰り返し起こることを中核とする。発作のうち少なくとも1回については、その後1か月以上にわたり、次のどちらか（または両方）が続くことが求められる。追加の発作が起こることや、その結果（コントロールを失う、心筋梗塞を起こす、気が狂うなど）についての持続的な心配、あるいは発作に関連した不適応的な行動の変化（発作を避けようとして運動や未知の状況を避けるなど）である。さらに、発作が物質（薬物・医薬品など）や他の身体疾患（甲状腺機能亢進症、心肺疾患など）の影響によるものではなく、他の精神疾患ではうまく説明できないことが求められる
+
+- 条件：region: 国際／対象: パニック症の人
+- 不確実性：書籍のため DOI・PMID はない。基準A（反復する予期しない発作）・基準B（1か月以上の心配または行動の変化）・基準C（物質・身体疾患の除外）・基準D（他の精神疾患による説明の除外）の構成は、DSM-5-TR の基準を転載した公的資料（カナダ退役軍人省 Anxiety Disorders EEG、2025年1月版）で照合した。本下書きでは書籍本文を直接照合していないため、登録時に本文で最終照合すること。症状の個別の数値（有病率など）は既存カード AX-008 が担い、本カードには含めていない。国内の診療ガイドライン2025（既存 AX-001）もパニック症を対象とするが、日本語名称「パニック症」の採用経緯そのものは本カードの主張に含めていない
+- 出典：American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-3-A-①（パニック障害<パニック症>、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；TBL-01-00-545 (id: JlvnmUM)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AX-022&card_id=AX-022&version=10600cfe3a)　（版 `10600cfe3a`）
+
+### AX-023　下書き（出典の照合前）
+
+> パニック発作には、明らかなきっかけや引き金がある「予期される発作」と、明らかなきっかけがなく起こる「予期しない発作」がある。予期しない発作には、睡眠中に起こって目覚める夜間パニック発作も含まれる。パニック症の診断の対象になるのは予期しない発作の繰り返しである。また、強い恐怖の高まりがあっても症状が4つ未満にとどまる「症状限定発作」もあり
+
+- 条件：region: 国際／対象: パニック発作のある人
+- 不確実性：書籍のため DOI・PMID はない。予期される／予期しない発作の区別、夜間パニック発作が予期しない発作に含まれること、症状限定発作（limited-symptom attack）の定義は、DSM-5-TR の基準とその解説を転載した資料で照合した。本下書きでは書籍本文を直接照合していないため、登録時に本文で最終照合すること。作り手の下書きにあった「症状の数だけで発作の重さを判断することはできない」は、出典の記述ではなく推論のため、登録時に削った
+- 出典：American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022（区分 RESTRICTED）
+- 出題基準：医学各論 Ⅱ-3-A-①（パニック障害<パニック症>、a）　コアカリ：PS-02-17-02 (id: JkxnuTw)；TBL-01-00-545 (id: JlvnmUM)；TBL-02-16-002 (id: JlAKpy0)；PS-02-17-05 (id: JkxnuT8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AX-023&card_id=AX-023&version=c6fa27f14a)　（版 `c6fa27f14a`）
+
+**[ここまでの 3 件（AX-021〜AX-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20AX-021%E3%80%9CAX-023&cards=AX-021%2075406b78e7%0AAX-022%2010600cfe3a%0AAX-023%20c6fa27f14a)**
 
 ---
 
