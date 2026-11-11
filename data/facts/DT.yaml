@@ -710,7 +710,7 @@
     source_license: © Massachusetts Medical Society（CC表示なし）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_JP（PMDA、公共データ利用規約第1.0版。要約して記載）、作り手の調査 2026-11-11）：PMDA 審議結果報告書（セミプリマブ）：2026-08-24 に根治切除不能な進行・再発の有棘細胞癌と、再発リスクが高い有棘細胞癌の術後補助療法の適応追加
   uncertainty: セミプリマブの国内の承認・保険適用は未確認。数値は抄録に記載された第2相試験の転移性コホートの結果であり、追跡期間の中央値は7.9か月である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】セミプリマブ（リブタヨ）が2026年8月24日に「根治切除不能な進行・再発の有棘細胞癌」および「再発リスクが高い有棘細胞癌における術後補助療法」の適応追加を取得（PMDA最適使用推進ガイドライン、同日付）
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-635 (id: JlvnmbU)'
@@ -728,6 +728,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP（PMDA、公共データ利用規約第1.0版。要約して記載）、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: DT-021
   domain: DT
   subdomain: 基底細胞癌
