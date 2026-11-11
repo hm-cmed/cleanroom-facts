@@ -74,7 +74,7 @@
 
 - 条件：region: 英国／対象: 成人
 - 不確実性：英国血液標準委員会（現 British Society for Haematology）ガイドライン2014年版の記載で、抄録で確認した。後継版の有無は本パートでは未確認。
-- 出典：Devalia V, Hamilton MS, Molloy AM; British Committee for Standards in Haematology. Guidelines for the diagnosis and treatment of cobalamin and folate disorders. Br J Haematol. 2014;166(4):496-513.　[DOI 10.1111/bjh.12959](https://doi.org/10.1111/bjh.12959)　[PMID 24942828](https://pubmed.ncbi.nlm.nih.gov/24942828/)（区分 UNKNOWN）
+- 出典：Devalia V, Hamilton MS, Molloy AM; British Committee for Standards in Haematology. Guidelines for the diagnosis and treatment of cobalamin and folate disorders. Br J Haematol. 2014;166(4):496-513.　[DOI 10.1111/bjh.12959](https://doi.org/10.1111/bjh.12959)　[PMID 24942828](https://pubmed.ncbi.nlm.nih.gov/24942828/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-1-B-①（ビタミンB12欠乏性貧血、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-009 (id: JlvnlYM)；TBL-02-01-013 (id: JlAKpWQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-006&card_id=RC-006&version=b8c2fb4a5a)　（版 `b8c2fb4a5a`）
 
@@ -84,7 +84,7 @@
 
 - 条件：region: 英国／対象: 成人
 - 不確実性：英国血液標準委員会ガイドライン2014年版の記載で、抄録で確認した。検査結果と欠乏を強く示す臨床像が乖離する場合は神経障害を避けるため治療を遅らせるべきではないとされる点は、同じガイドラインの別の記載であり本カードの主張には含めていない。
-- 出典：Devalia V, Hamilton MS, Molloy AM; British Committee for Standards in Haematology. Guidelines for the diagnosis and treatment of cobalamin and folate disorders. Br J Haematol. 2014;166(4):496-513.　[DOI 10.1111/bjh.12959](https://doi.org/10.1111/bjh.12959)　[PMID 24942828](https://pubmed.ncbi.nlm.nih.gov/24942828/)（区分 UNKNOWN）
+- 出典：Devalia V, Hamilton MS, Molloy AM; British Committee for Standards in Haematology. Guidelines for the diagnosis and treatment of cobalamin and folate disorders. Br J Haematol. 2014;166(4):496-513.　[DOI 10.1111/bjh.12959](https://doi.org/10.1111/bjh.12959)　[PMID 24942828](https://pubmed.ncbi.nlm.nih.gov/24942828/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-1-B-①（ビタミンB12欠乏性貧血、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-009 (id: JlvnlYM)；TBL-02-01-013 (id: JlAKpWQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-007&card_id=RC-007&version=d228fbcf74)　（版 `d228fbcf74`）
 
@@ -110,7 +110,7 @@
 
 - 条件：region: 英国／対象: 成人
 - 不確実性：英国血液標準委員会ガイドライン2014年版の記載で、抄録で確認した。同ガイドラインはコバラミンと葉酸の双方を扱い、Ⅶ-1-B-① のカードと出典を共用する。
-- 出典：Devalia V, Hamilton MS, Molloy AM; British Committee for Standards in Haematology. Guidelines for the diagnosis and treatment of cobalamin and folate disorders. Br J Haematol. 2014;166(4):496-513.　[DOI 10.1111/bjh.12959](https://doi.org/10.1111/bjh.12959)　[PMID 24942828](https://pubmed.ncbi.nlm.nih.gov/24942828/)（区分 UNKNOWN）
+- 出典：Devalia V, Hamilton MS, Molloy AM; British Committee for Standards in Haematology. Guidelines for the diagnosis and treatment of cobalamin and folate disorders. Br J Haematol. 2014;166(4):496-513.　[DOI 10.1111/bjh.12959](https://doi.org/10.1111/bjh.12959)　[PMID 24942828](https://pubmed.ncbi.nlm.nih.gov/24942828/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-1-B-②（葉酸欠乏性貧血、c）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-010 (id: JlvnlYQ)；TBL-02-01-013 (id: JlAKpWQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-009&card_id=RC-009&version=070af36eca)　（版 `070af36eca`）
 
@@ -260,9 +260,9 @@
 
 - 条件：region: 国際／対象: 骨髄異形成症候群の患者
 - 不確実性：抄録で確認した数値である。ガイドの注記によれば、日本人データでは Intermediate が低リスク側に近い成績であるが、本カードの主張は国際版の数値に限る。
-- 出典：Greenberg PL, et al. Revised International Prognostic Scoring System for Myelodysplastic Syndromes. Blood. 2012;120(12):2454-2465.　[DOI 10.1182/blood-2012-03-420489](https://doi.org/10.1182/blood-2012-03-420489)　[PMID 22740453](https://pubmed.ncbi.nlm.nih.gov/22740453/)（区分 RESTRICTED）
+- 出典：Jain AG, Elmariah H. Front Oncol. 2021（IPSS-R の群別生存中央値を再掲する CC BY 総説。題名は --online で確認）　[リンク](https://pmc.ncbi.nlm.nih.gov/articles/PMC8770277/)（区分 OPEN）
 - 出題基準：医学各論 Ⅶ-1-D-②（骨髄異形成症候群<MDS>、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；TBL-01-00-007 (id: JlvnlXs)；TBL-01-00-623 (id: JlvnmaQ)；TBL-02-01-018 (id: JlAKpWo)；TBL-02-01-021 (id: JlAKpW0)；TBL-02-01-013 (id: JlAKpWQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-021&card_id=RC-021&version=65ed4ccadf)　（版 `65ed4ccadf`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-021&card_id=RC-021&version=6a73b99746)　（版 `6a73b99746`）
 
 ### RC-022　下書き（出典の照合前）
 
@@ -270,11 +270,11 @@
 
 - 条件：region: 国際／対象: 高リスク骨髄異形成症候群の患者
 - 不確実性：AZA-001 試験の抄録で確認した数値である。アザシチジンは国内で骨髄異形成症候群に保険適用があることが参照ガイドに記載されている。国内の初回承認年の再確認は未実施のため、年は主張に入れていない。
-- 出典：Fenaux P, et al. Efficacy of azacitidine compared with that of conventional care regimens in the treatment of higher-risk MDS. Lancet Oncol. 2009;10(3):223-232.　[DOI 10.1016/S1470-2045(09)70003-8](https://doi.org/10.1016/S1470-2045(09)70003-8)　[PMID 19230772](https://pubmed.ncbi.nlm.nih.gov/19230772/)（区分 RESTRICTED）
+- 出典：ClinicalTrials.gov NCT00071799（AZA-001）結果登録　[リンク](https://clinicaltrials.gov/study/NCT00071799)（区分 GOV_US）
 - 出題基準：医学各論 Ⅶ-1-D-②（骨髄異形成症候群<MDS>、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；TBL-01-00-007 (id: JlvnlXs)；TBL-01-00-623 (id: JlvnmaQ)；TBL-02-01-018 (id: JlAKpWo)；TBL-02-01-021 (id: JlAKpW0)；TBL-02-01-013 (id: JlAKpWQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-022&card_id=RC-022&version=f4d5240ccf)　（版 `f4d5240ccf`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-022&card_id=RC-022&version=e5eaa27c99)　（版 `e5eaa27c99`）
 
-**[ここまでの 3 件（RC-020〜RC-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RC-020%E3%80%9CRC-022&cards=RC-020%2060d3d56ed6%0ARC-021%2065ed4ccadf%0ARC-022%20f4d5240ccf)**
+**[ここまでの 3 件（RC-020〜RC-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RC-020%E3%80%9CRC-022&cards=RC-020%2060d3d56ed6%0ARC-021%206a73b99746%0ARC-022%20e5eaa27c99)**
 
 ---
 

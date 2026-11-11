@@ -1,0 +1,45 @@
+{
+ "class": [
+  [
+   "SRC-988",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [
+  [
+   "RC-021",
+   "SRC-2468",
+   "SRC-5006"
+  ],
+  [
+   "RC-022",
+   "SRC-2469",
+   "SRC-5007"
+  ]
+ ],
+ "B": [
+  "RC-001",
+  "RC-005",
+  "RC-007",
+  "RC-010",
+  "RC-012",
+  "RC-013",
+  "RC-014",
+  "RC-015",
+  "RC-026",
+  "RC-027",
+  "RC-031",
+  "RC-033"
+ ],
+ "new_src": [
+  [
+   "SRC-5006",
+   "Jain AG, Elmariah H. BCL-2 Inhibition in Acute Myeloid Leukemia and Myelodysplas"
+  ],
+  [
+   "SRC-5007",
+   "ClinicalTrials.gov NCT00071799（AZA-001）結果登録"
+  ]
+ ]
+}

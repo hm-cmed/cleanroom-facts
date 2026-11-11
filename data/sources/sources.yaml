@@ -11923,14 +11923,17 @@
   doi: 10.1111/bjh.12959
   pmid: '24942828'
   pmcid: null
-  license_note: ライセンス表示を確認できず（© John Wiley & Sons）
+  license_note: Wiley の利用条件（CC ではない、Crossref の version-of-record と Europe PMC の非OA 表示）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず（© John Wiley & Sons）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-989
   legacy_id: null
   title: 'Maxfield L, Daley SF, Crane JS. Vitamin C Deficiency. In: StatPearls. Treasure Island (FL): StatPearls Publishing; Bookshelf ID: NBK493187.'
@@ -36453,3 +36456,33 @@
   pmid: '39810761'
   source_class: OPEN
   title: Bomback AS, Charu V, Fakhouri F. Challenges in the Diagnosis and Management of Immune Complex-Mediated Membranoproliferative Glomerulonephritis and Complement 3 Glomerulopathy. Kidney Int Rep. 2025
+- citation: Jain AG, Elmariah H. Front Oncol. 2021（IPSS-R の群別生存中央値を再掲する CC BY 総説。題名は --online で確認）
+  doi: null
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5006
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC8770277/
+  pmcid: PMC8770277
+  pmid: null
+  source_class: OPEN
+  title: Jain AG, Elmariah H. Front Oncol. 2021（IPSS-R の群別生存中央値を再掲する CC BY 総説。題名は --online で確認）
+- citation: ClinicalTrials.gov NCT00071799（AZA-001）結果登録
+  doi: null
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5007
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: 米国連邦政府の著作物。ライセンスの根拠：https://clinicaltrials.gov/study/NCT00071799
+  pmcid: null
+  pmid: null
+  source_class: GOV_US
+  title: ClinicalTrials.gov NCT00071799（AZA-001）結果登録

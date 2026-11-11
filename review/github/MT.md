@@ -316,7 +316,7 @@
 
 - 条件：region: 英国／study: ガイドライン（英国血液学会基準委員会、2014年）
 - 不確実性：英国のガイドラインであり、第二選択検査（メチルマロン酸、ホロトランスコバラミン）の実施可能性や保険適用は日本と異なる可能性がある。巨赤芽球性貧血との関係は出典表の確認経路に記した文献で照合した。ビタミンB12製剤・葉酸製剤の国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
-- 出典：Devalia V, Hamilton MS, Molloy AM; British Committee for Standards in Haematology. Guidelines for the diagnosis and treatment of cobalamin and folate disorders. Br J Haematol. 2014;166(4):496-513.　[DOI 10.1111/bjh.12959](https://doi.org/10.1111/bjh.12959)　[PMID 24942828](https://pubmed.ncbi.nlm.nih.gov/24942828/)（区分 UNKNOWN）
+- 出典：Devalia V, Hamilton MS, Molloy AM; British Committee for Standards in Haematology. Guidelines for the diagnosis and treatment of cobalamin and folate disorders. Br J Haematol. 2014;166(4):496-513.　[DOI 10.1111/bjh.12959](https://doi.org/10.1111/bjh.12959)　[PMID 24942828](https://pubmed.ncbi.nlm.nih.gov/24942828/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-9-A-①（ビタミン欠乏症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-021&card_id=MT-021&version=3da5c95eef)　（版 `3da5c95eef`）
 

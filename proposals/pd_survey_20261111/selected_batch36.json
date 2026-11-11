@@ -1,0 +1,90 @@
+{
+ "A": [
+  {
+   "card": "RC-021",
+   "class": "OPEN",
+   "title": "Jain AG, Elmariah H. Front Oncol. 2021（IPSS-R の群別生存中央値を再掲する CC BY 総説。題名は --online で確認）",
+   "doi": null,
+   "pmid": null,
+   "pmcid": "PMC8770277",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8770277/",
+   "why": "IPSS-R 5群の生存中央値（8.8・5.3・3.0・1.6・0.8年）が CC BY の全文に同じ値で載る（作り手の調査バッチ36）"
+  },
+  {
+   "card": "RC-022",
+   "class": "GOV_US",
+   "title": "ClinicalTrials.gov NCT00071799（AZA-001）結果登録",
+   "doi": null,
+   "pmid": null,
+   "pmcid": null,
+   "url": "https://clinicaltrials.gov/study/NCT00071799",
+   "why": "全生存期間中央値 24.46 対 15.02 か月、HR 0.58（95%CI 0.43〜0.77）が登録の結果とカードで一致（作り手の調査バッチ36）"
+  }
+ ],
+ "B": [
+  {
+   "card": "RC-001",
+   "label": "OPEN、作り手の調査バッチ36 2026-11-11",
+   "text": "Nairz M, et al. Wien Med Wochenschr. 2016（CC BY、PMC5065583、新規 SRC 候補）。裏づける部分と留保：フェリチン30 µg/L未満が鉄欠乏の診断精度の高い指標であることは一致。「15未満は貯蔵鉄の欠如」とトランスフェリン飽和度20%未満はその形では載らない"
+  },
+  {
+   "card": "RC-005",
+   "label": "OPEN、作り手の調査バッチ36 2026-11-11",
+   "text": "Chatzikalil E, et al. Int J Lab Hematol. 2026（CC BY 4.0、PMC13357651、新規 SRC 候補）。裏づける部分と留保：トランスフェリン飽和度45%超とフェリチン上限（女性200・男性300 µg/L）は一致。男性の飽和度はカード（EASL）50%、総説45%（両値記録）。性別で組み合わせた暫定基準の形は載らない"
+  },
+  {
+   "card": "RC-007",
+   "label": "OPEN、作り手の調査バッチ36 2026-11-11",
+   "text": "Andrès E, et al. J Clin Med. 2025（CC BY、PMC12027676、新規 SRC 候補）。裏づける部分と留保：血清コバラミンが初期スクリーニングで、メチルマロン酸とホモシステインが代謝性の欠乏の評価に有用なことは一致。ホモシステインの特異度の順位づけは明記なし"
+  },
+  {
+   "card": "RC-010",
+   "label": "OPEN、作り手の調査バッチ36 2026-11-11",
+   "text": "Parakh N, Dewan P. Front Nutr. 2026（CC BY、PMC13508813、新規 SRC 候補）。裏づける部分と留保：無効造血と髄内での赤血球破壊を伴う大球性貧血という定義の部分は整合。総説は B12 欠乏に特化"
+  },
+  {
+   "card": "RC-012",
+   "label": "OPEN、作り手の調査バッチ36 2026-11-11",
+   "text": "Barcellini W, Fattizzo B. Front Immunol. 2020（CC BY、PMC7325906、新規 SRC 候補）。裏づける部分と留保：ステロイドが治療の主軸であることとリツキシマブの有効性は一致。国内の保険償還はカードに記録済みの PMDA の確認による"
+  },
+  {
+   "card": "RC-013",
+   "label": "OPEN、作り手の調査バッチ36 2026-11-11",
+   "text": "Berentsen S. Front Immunol. 2020（CC BY、PMC7154122、新規 SRC 候補）。裏づける部分と留保：冷式で直接クームス試験により補体成分（C3d）が検出されること、寒冷凝集素価（4℃で64以上）は一致。「至適温度4℃」の表現と Donath-Landsteiner 抗体の部分は未確認。作り手が併記した難病情報センターのページは政府資料でないため使わない"
+  },
+  {
+   "card": "RC-014",
+   "label": "OPEN、作り手の調査バッチ36 2026-11-11",
+   "text": "Berentsen S. Front Immunol. 2020（同上）。裏づける部分と留保：寒冷凝集素症でステロイドが一般に無効であること、非薬物療法の基本が保温（寒冷回避）であることは一致"
+  },
+  {
+   "card": "RC-015",
+   "label": "OPEN、作り手の調査バッチ36 2026-11-11",
+   "text": "Ratnaningsih T, et al. Anemia. 2025（CC BY、PMC12303650、新規 SRC 候補）。裏づける部分と留保：ICSH の命名に基づく破砕赤血球の形態の定義（小型の断片、鋭角の辺縁、三日月形、ヘルメット細胞）は一致。機械的損傷という成因と TMA の手がかりという位置づけは載らない"
+  },
+  {
+   "card": "RC-026",
+   "label": "OPEN、作り手の調査バッチ36 2026-11-11",
+   "text": "Duminuco A, et al. Biomolecules. 2026（CC BY、PMC13407002、新規 SRC 候補）。裏づける部分と留保：IL-6 によるヘプシジン上昇、腸管での吸収低下とマクロファージへの鉄の貯留、鉄制限性の造血という機序の中核は一致"
+  },
+  {
+   "card": "RC-027",
+   "label": "OPEN、作り手の調査バッチ36 2026-11-11",
+   "text": "Duminuco A, et al. Biomolecules. 2026（同上）。裏づける部分と留保：低鉄血症・低トランスフェリン飽和度・フェリチン正常〜高値の組み合わせは一致（カードの「高フェリチン血症」とは表記差）。真の鉄欠乏が合併したときの難しさは明記なし"
+  },
+  {
+   "card": "RC-031",
+   "label": "OPEN、作り手の調査バッチ36 2026-11-11",
+   "text": "Dreher D, et al. Br J Anaesth. 2026（CC BY、PMC13494083、新規 SRC 候補）。裏づける部分と留保：制限的輸血の閾値 7 g/dL が多くの国際ガイドラインで採用されていることは一致。AABB の推奨の強さ・確実性と対象の限定は明記なし"
+  },
+  {
+   "card": "RC-033",
+   "label": "OPEN、作り手の調査バッチ36 2026-11-11",
+   "text": "Gangat N, Szuber N, Pardanani A, Tefferi A. Leukemia. 2021（CC BY、PMC8324477、新規 SRC 候補）。裏づける部分と留保：低酸素の原因（心肺疾患・腎動脈狭窄）、EPO 産生腫瘍、薬剤（テストステロン・ESA）と JAK2 のスクリーニングの進め方は一致。SGLT2 阻害薬とエクソン12〜15の具体化は2026年版の要素で載らない"
+  }
+ ],
+ "rest_fix": {
+  "SRC-988": "Wiley の利用条件（CC ではない、Crossref の version-of-record と Europe PMC の非OA 表示）"
+ },
+ "open_fix": []
+}
