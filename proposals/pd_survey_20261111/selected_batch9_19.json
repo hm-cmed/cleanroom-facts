@@ -1,0 +1,402 @@
+{
+ "A": [
+  {
+   "card": "LV-035",
+   "class": "OPEN",
+   "title": "EASL-EASD-EASO Clinical Practice Guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD). Diabetologia. 2024;67(11)",
+   "doi": "10.1007/s00125-024-06196-3",
+   "pmid": "38869512",
+   "pmcid": "PMC11519095",
+   "url": "https://europepmc.org/article/MED/38869512",
+   "why": "CC BY のガイドラインの抄録・本文で MASLD の定義と命名の全要素を確認"
+  }
+ ],
+ "B": [
+  {
+   "card": "RP-004",
+   "label": "作り手の調査バッチ9 2026-11-11",
+   "text": "OpenStax. Anatomy and Physiology 2e. 第27章（Ovarian Cycle／Physiology of the Female Sexual System）（CC BY 4.0）＝新規SRC登録を提案（https://open.oregonstate.education/anatomy2e/chapter/physiology-female-sexual-system/）。裏づける部分：卵胞期に三級卵胞が成長してエストロゲンを分泌すること、主席卵胞の産生するエストロゲンが陽性フィードバックを起こしてLHサージを招くこと、LHサージが卵胞壁のタンパク分解を介して卵子を腹腔内へ放出させること（排卵）、残った卵胞が黄体化してプロゲステロンを産生すること、まで教科書本文に記載。数値の照合：数値なし（「次回月経の約14日前」の形での明示は未確認）"
+  },
+  {
+   "card": "RP-009",
+   "label": "作り手の調査バッチ9 2026-11-11",
+   "text": "Jain V, Munro MG, Critchley HOD. Contemporary evaluation of women and girls with abnormal uterine bleeding: FIGO Systems 1 and 2. Int J Gynaecol Obstet. 2023;162 Suppl 2:29-42（既存のSRC-811、CC BY 4.0）の本文（https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10952771/fullTextXML）。裏づける部分：PALM-COEINの全カテゴリ（PALM＝ポリープ・子宮腺筋症・子宮筋腫・悪性腫瘍と子宮内膜増殖症、COEIN＝凝固障害・排卵障害・子宮内膜性・医原性・未分類）を構造的原因と非構造的原因の区別とともに本文で列挙し、生殖年齢の非妊娠女性の異常子宮出血の分類として提示している。数値の照合：数値なし"
+  },
+  {
+   "card": "RP-018",
+   "label": "作り手の調査バッチ9 2026-11-11",
+   "text": "MedlinePlus健康トピック「Premenstrual Syndrome」（米国国立医学図書館）（https://medlineplus.gov/premenstrualsyndrome.html）。裏づける部分：症状は月経の1〜2週間前に始まり月経開始後に消失すること、身体症状（乳房の腫脹と圧痛、腹部膨満と体重増加、頭痛など）と精神症状（易怒性、気分の変動、抑うつ、不安など）の列挙、多くの女性に少なくとも何らかの症状があること、まで記載され、月経随伴症状の総称としての骨格と周期性を裏づける。数値の照合：数値なし"
+  },
+  {
+   "card": "RP-025",
+   "label": "作り手の調査バッチ9 2026-11-11",
+   "text": "National Institute of Diabetes and Digestive and Kidney Diseases（NIDDK）「Prolactinoma」（米国国立衛生研究所）（https://www.niddk.nih.gov/health-information/endocrine-diseases/prolactinoma）。裏づける部分：プロラクチンの過剰が性ホルモンの低下を介して月経の変化（不規則・無月経）・不妊・乳汁漏出を起こすこと、プロラクチンが上がる要因として薬剤を含む原因の鑑別が要ること、治療の目標はプロラクチン値の正常化・腫瘍の縮小・月経の問題などの是正であること、ドパミン作動薬が治療の中心で「カベルゴリンはブロモクリプチンより有効で副作用が少なく優先される」と明記されていること、まで記載。数値の照合：数値なし"
+  },
+  {
+   "card": "RP-038",
+   "label": "作り手の調査バッチ9 2026-11-11",
+   "text": "CDC「Infertility: Frequently Asked Questions」（米国疾病予防管理センター）と現出典のPubMed抄録レコードの組み合わせ（抄録レコードの部分は使わない）（https://www.cdc.gov/reproductive-health/infertility-faq/?CDC_AAref_Val=https://www.cdc.gov/reproductivehealth/features/what-is-infertility/index.html）。裏づける部分：評価は系統的・迅速・費用対効果の高い進め方で頻度の高い原因から侵襲の少ない方法で全因子を同定するという原則は現出典SRC-830の抄録に明記。原因が多岐にわたること（排卵の問題、卵管の閉塞、子宮の異常、子宮内膜症などの女性側の原因、男性側の原因、原因が特定できない場合があること）はCDCの不妊FAQの原因・リスク解説と併せて大枠を裏づける。数値の照合：数値なし"
+  },
+  {
+   "card": "RP-039",
+   "label": "作り手の調査バッチ9 2026-11-11",
+   "text": "CDC「Infertility: Frequently Asked Questions」（米国疾病予防管理センター）（https://www.cdc.gov/reproductive-health/infertility-faq/?CDC_AAref_Val=https://www.cdc.gov/reproductivehealth/features/what-is-infertility/index.html）。裏づける部分：不妊は避妊をしない性交を1年続けても妊娠しないことと定義され、35歳以上の女性は6か月の避妊なしの性交の後に評価・治療に進むこと、35歳未満は少なくとも1年試してから、35歳以上は6か月で医療機関を受診すること、40歳を超える場合はより即時の評価を検討すること、までCDCが明記。数値の照合：12か月・6か月：CDCの記載と一致"
+  },
+  {
+   "card": "RP-045",
+   "label": "作り手の調査バッチ9 2026-11-11",
+   "text": "CDC「About Contraception」（米国疾病予防管理センター）（https://www.cdc.gov/contraception/about/index.html）。裏づける部分：バリア法と妊孕性認識法（自然法）は使用のたびの正しい実践が必要で、方法ごとに典型使用での失敗が大きく異なることがCDCの避妊法別有効性の表示で裏づけられ、卵管手術と精管切除は「永久的（permanent）」な方法として区分されている。数値の照合：CDC表示の典型使用の失敗率（例：男性コンドーム約13/100人、妊孕性認識法2〜23/100人）は、主張の定性的な内容（完全使用と典型使用の差が大きい方法群）と矛盾しない"
+  },
+  {
+   "card": "RP-046",
+   "label": "作り手の調査バッチ9 2026-11-11",
+   "text": "MedlinePlus健康トピック「Menopause」（米国国立医学図書館）と現出典（STRAW+10）のPubMed抄録レコードの組み合わせ（抄録レコードの部分は使わない）（https://medlineplus.gov/menopause.html）。裏づける部分：MedlinePlusに「月経が12か月なければ閉経に達した（You have reached menopause when you have not had a period for 12 months）」と明記され、最終月経後に12か月間月経がないことをもって遡って判定するという核心を裏づける。STRAW+10の抄録は最終月経の前後の段階と月経・内分泌マーカーによる段階判定の枠組みを裏づける。数値の照合：12か月：MedlinePlusの記載と一致"
+  },
+  {
+   "card": "LV-036",
+   "label": "作り手の調査バッチ10 2026-11-11",
+   "text": "European Association for the Study of the Liver (EASL); European Association for the Study of Diabetes (EASD); European Association for the Study of Obesity (EASO). EASL-EASD-EASO Clinical Practice Guidelines on the management of metabolic dysfunction-associated steatotic liver disease. Diabetologia. 2024;67(11).（新規 SRC 登録を提案）（https://europepmc.org/article/MED/38869512）。裏づける部分：心血管代謝リスク因子が MASLD 定義に必須であることと、5項目の構成（BMI・血糖・血圧・中性脂肪・HDL）は裏づけられる。各閾値そのも…"
+  },
+  {
+   "card": "LV-038",
+   "label": "作り手の調査バッチ10 2026-11-11",
+   "text": "National Cancer Institute. Primary Liver Cancer Treatment (PDQ®) — Health Professional Version. PDQ Adult Treatment Editorial Board.（米国政府資料）（https://www.cancer.gov/types/liver/hp/adult-liver-treatment-pdq）。裏づける部分：危険因子（HBV・HCV の慢性感染、肝硬変、アルコール、NASH）が PDQ の Risk Factors に明記され、スクリーニング要約も存在する。6か月ごとの超音波＋3マーカー併用、超高危険群での3〜4か月間隔という日本の運用の細部は裏づけられない。数値の照合：サーベイランス間隔（6か月・3〜4か月）は未照合"
+  },
+  {
+   "card": "LV-039",
+   "label": "作り手の調査バッチ10 2026-11-11",
+   "text": "National Cancer Institute. Primary Liver Cancer Treatment (PDQ®) — Health Professional Version. PDQ Adult Treatment Editorial Board.（米国政府資料）（https://www.cancer.gov/types/liver/hp/adult-liver-treatment-pdq）。裏づける部分：高危険患者で1 cmを超える病変には dynamic CT/MRI で診断するという流れは PDQ の Diagnostic Factors と一致する。マーカー上昇を契機とする日本の閾値運用は裏づけられない。数値の照合：AFP 200 ng/mL・PIVKA-II 40 mAU/mL・AFP-L3 15%（精密検査の契機の閾値）は未照合"
+  },
+  {
+   "card": "LV-041",
+   "label": "作り手の調査バッチ10 2026-11-11",
+   "text": "National Cancer Institute. Primary Liver Cancer Treatment (PDQ®) — Health Professional Version. PDQ Adult Treatment Editorial Board.（米国政府資料）（https://www.cancer.gov/types/liver/hp/adult-liver-treatment-pdq）。裏づける部分：動脈相の増強と静脈相の washout が単一の dynamic 検査で HCC に高度に特異的（1〜3 cm で特異度95–100%）であり、生検なしに診断しうることが PDQ に明記され、カードの核心と一致する。EOB-MRI の位置づけは対象外。数値の照合：特異度95–100% は PDQ 側の数値（カードに数値の主張なし）"
+  },
+  {
+   "card": "LV-043",
+   "label": "作り手の調査バッチ10 2026-11-11",
+   "text": "National Cancer Institute. Primary Liver Cancer Treatment (PDQ®) — Health Professional Version. PDQ Adult Treatment Editorial Board.（米国政府資料）（https://www.cancer.gov/types/liver/hp/adult-liver-treatment-pdq）。裏づける部分：肝機能（Child-Pugh）と腫瘍の広がりによって切除・移植・焼灼・TACE・薬物療法へ振り分ける治療体系の骨格は PDQ の治療選択肢と一致する。日本の治療アルゴリズム図そのものと根拠レベルの表記は裏づけられない。数値の照合：数値なし（体系の主張）"
+  },
+  {
+   "card": "LV-044",
+   "label": "作り手の調査バッチ10 2026-11-11",
+   "text": "National Cancer Institute. Primary Liver Cancer Treatment (PDQ®) — Health Professional Version. PDQ Adult Treatment Editorial Board.（米国政府資料）（https://www.cancer.gov/types/liver/hp/adult-liver-treatment-pdq）。裏づける部分：早期 HCC への切除が根治的選択肢であること、肝予備能（Child-Pugh）が適応判断を左右することは PDQ と一致する。ICGR15 に基づく切除範囲の決定や系統的亜区域切除の位置づけは日本固有で裏づけられない。数値の照合：数値なし"
+  },
+  {
+   "card": "LV-045",
+   "label": "作り手の調査バッチ10 2026-11-11",
+   "text": "National Cancer Institute. Primary Liver Cancer Treatment (PDQ®) — Health Professional Version. PDQ Adult Treatment Editorial Board.（米国政府資料）（https://www.cancer.gov/types/liver/hp/adult-liver-treatment-pdq）。裏づける部分：Milan 基準（単発5 cm未満、または2〜3個で各3 cm未満）が PDQ に明記されカードと一致する。5-5-500基準は日本固有で裏づけられない。数値の照合：Milan 基準の数値：PDQ と一致。5-5-500基準：未照合"
+  },
+  {
+   "card": "LV-046",
+   "label": "作り手の調査バッチ10 2026-11-11",
+   "text": "National Cancer Institute. Primary Liver Cancer Treatment (PDQ®) — Health Professional Version. PDQ Adult Treatment Editorial Board.（米国政府資料）（https://www.cancer.gov/types/liver/hp/adult-liver-treatment-pdq）。裏づける部分：早期 HCC への焼灼療法（RFA 等）が根治的選択肢の一つであることは PDQ と一致する。3個以下・3 cm以下という日本の適応の線引きそのものは裏づけられない。数値の照合：3個以下・3 cm以下：未照合（PDQ は早期例への焼灼一般を扱う）"
+  },
+  {
+   "card": "LV-047",
+   "label": "作り手の調査バッチ10 2026-11-11",
+   "text": "National Cancer Institute. Primary Liver Cancer Treatment (PDQ®) — Health Professional Version. PDQ Adult Treatment Editorial Board.（米国政府資料）（https://www.cancer.gov/types/liver/hp/adult-liver-treatment-pdq）。裏づける部分：切除不能で遠隔転移のない例への TAE/TACE の位置づけは PDQ の治療選択肢と一致する。日本の適応・除外の細部は裏づけられない。数値の照合：数値なし"
+  },
+  {
+   "card": "LV-048",
+   "label": "作り手の調査バッチ10 2026-11-11",
+   "text": "National Cancer Institute. Primary Liver Cancer Treatment (PDQ®) — Health Professional Version. PDQ Adult Treatment Editorial Board.（米国政府資料）（https://www.cancer.gov/types/liver/hp/adult-liver-treatment-pdq）。裏づける部分：一次治療としての atezolizumab＋bevacizumab が PDQ の first-line systemic therapy に明記される。レンバチニブ・ソラフェニブも一次選択肢として併記される枠組みであり、カードの『標準』表現と矛盾しない。数値の照合：数値なし"
+  },
+  {
+   "card": "LV-049",
+   "label": "作り手の調査バッチ10 2026-11-11",
+   "text": "National Cancer Institute. Primary Liver Cancer Treatment (PDQ®) — Health Professional Version. PDQ Adult Treatment Editorial Board.（米国政府資料）（https://www.cancer.gov/types/liver/hp/adult-liver-treatment-pdq）。裏づける部分：二次治療として regorafenib・cabozantinib・ramucirumab が PDQ に明記され、ramucirumab は AFP 400 ng/mL 以上に限ることも一致する。PDQ はソラフェニブ後の文脈で記載しており、一次治療の内容を問わない日本の位置づけとは枠組みがやや異なる。数値の照合：AFP 400 ng/mL：PDQ と一致"
+  },
+  {
+   "card": "LV-095",
+   "label": "作り手の調査バッチ10 2026-11-11",
+   "text": "LiverTox: Clinical and Research Information on Drug-Induced Liver Injury. Roussel Uclaf Causality Assessment Method (RUCAM) in Drug Induced Liver Injury. National Institute of Diabetes and Digestive and Kidney Diseases.（米国政府資料、Bookshelf NBK548272）（新規 SRC 登録を提案）（https://www.ncbi.nlm.nih.gov/books/NBK548272/）。裏づける部分：R 値の定義（ALT と ALP の ULN 比）と3型分類、さらに ALT のみが ULN の2倍を超えて上昇し ALP が正常なら肝細胞障害型、ALP のみが2倍を超え ALT が正常なら胆汁うっ滞型とする補助規則まで LiverTox（RUCAM 章）の本文と一…"
+  },
+  {
+   "card": "LV-106",
+   "label": "作り手の調査バッチ10 2026-11-11",
+   "text": "National Cancer Institute. Colon Cancer Treatment (PDQ®) — Health Professional Version. PDQ Adult Treatment Editorial Board.（米国政府資料、Bookshelf NBK65858）（https://www.ncbi.nlm.nih.gov/books/NBK65858/）。裏づける部分：肝のみ（および肺のみ）の転移では外科切除が可能なら唯一の根治的治療であることが PDQ に明記され、カードと一致する。数値の照合：数値なし"
+  },
+  {
+   "card": "LV-107",
+   "label": "作り手の調査バッチ10 2026-11-11",
+   "text": "National Cancer Institute. Colon Cancer Treatment (PDQ®) — Health Professional Version. PDQ Adult Treatment Editorial Board.（米国政府資料、Bookshelf NBK65858）（https://www.ncbi.nlm.nih.gov/books/NBK65858/）。裏づける部分：切除不能と判断された肝転移でも化学療法への良好な反応で切除可能になることがあり、その場合の5年生存は最初から切除可能だった例と同等であることが PDQ に明記される。数値の照合：5年生存『同等』：PDQ の記述と一致"
+  },
+  {
+   "card": "LV-108",
+   "label": "作り手の調査バッチ10 2026-11-11",
+   "text": "National Cancer Institute. Colon Cancer Treatment (PDQ®) — Health Professional Version. PDQ Adult Treatment Editorial Board.（米国政府資料、Bookshelf NBK65858）（https://www.ncbi.nlm.nih.gov/books/NBK65858/）。裏づける部分：肝転移切除の前後に FOLFOX を用いる周術期・術後補助化学療法の試みと位置づけが PDQ に記載される（有益性は確立していないとの留保つき）。日本の運用表現の裏づけとしては部分的。数値の照合：数値なし"
+  },
+  {
+   "card": "SD-002",
+   "label": "作り手の調査バッチ11 2026-11-11",
+   "text": "National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS). Epidermolysis Bullosa（米国政府資料）（https://www.niams.nih.gov/health-topics/epidermolysis-bullosa）。裏づける部分：NIAMS のページが『4つの主要なタイプ』を剥離レベルと対応づけて明記する：単純型（表皮下部）、接合部型（基底膜上部）、栄養障害型（真皮上部）、Kindler症候群（基底膜を含む複数層）。皮膚の脆弱性により軽微な外力で水疱・びらんを生じる遺伝性疾患群という定義も一致する。数値の照合：数値なし"
+  },
+  {
+   "card": "BP-001",
+   "label": "作り手の調査バッチ12 2026-11-11",
+   "text": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK). Definition & Facts for Gallstones（米国政府資料）（https://www.niddk.nih.gov/health-information/digestive-diseases/gallstones/definition-facts）。裏づける部分：胆石は米国の人口の10〜15%にみられ、大半は無症状（silent gallstones）のままで治療を要しないという骨格。数値の照合：有病率「約10%」は NIDDK の10〜15%の範囲内。有症状化率「5〜10年で約40%（年1〜3%）」は NIDDK に記載がなく裏づけられない（両値記録）。胆石症GL2021の「10年で10〜20%」（BP-054）との食い違いは既存の申し送り事項"
+  },
+  {
+   "card": "BP-004",
+   "label": "作り手の調査バッチ12 2026-11-11",
+   "text": "Sperna Weiland CJ, Busch CBE, Bhalla A, et al. Performance of diagnostic tools for acute cholangitis in patients with suspected biliary obstruction. J Hepatobiliary Pancreat Sci. 2022.（Europe PMC の license 表示（cc by））。裏づける部分：オランダの全国前向きコホート（胆道閉塞疑い794例）で Charcot 三徴の感度46%（95%CI 38〜56）。三徴がそろわない例が多いことの裏づけになる。数値の照合：カードの「50〜70%にしかそろわない」とは指標（感度 vs そろい率）と母集団が異なる別の値であり、両値を記録する。Murphy徴候の感度50〜70%・特異度79〜96%は自由な出典で確認できなかった"
+  },
+  {
+   "card": "BP-013",
+   "label": "作り手の調査バッチ12 2026-11-11",
+   "text": "Leppäniemi A, Tolonen M, Tarasconi A, et al. 2019 WSES guidelines for the management of severe acute pancreatitis. World J Emerg Surg. 2019;14:27.（Europe PMC の license 表示（cc by））。裏づける部分：WSES 全文：診断には (i) 疾患に一致する腹痛、(ii) 血中アミラーゼ/リパーゼが基準値上限の3倍を超える、(iii) 画像上の特徴的所見、の3つのうち2つ以上を要する（改訂アトランタ分類）。「3項目のうち2項目」という診断の組み立ては日本の診断基準と一致する。数値の照合：相違を両記録：日本の基準は膵酵素の「上昇」に3倍の閾値がなく、他の膵疾患と急性腹症の除外および慢性膵炎の急性増悪の包含を含む（WSES/アトランタにはない要素）。主張は変えていない"
+  },
+  {
+   "card": "BP-017",
+   "label": "作り手の調査バッチ12 2026-11-11",
+   "text": "Leppäniemi A, et al. 2019 WSES guidelines for the management of severe acute pancreatitis. World J Emerg Surg. 2019;14:27.（Europe PMC の license 表示（cc by））。裏づける部分：WSES 全文：早期輸液蘇生が適応で等張晶質液が望ましい（グレード1B）。血行動態の頻回な再評価に基づいて投与し、過剰輸液は有害。乳酸リンゲルは抗炎症作用の可能性はあるが生理食塩液に対する優位の RCT 根拠は弱い。数値の照合：数値なし"
+  },
+  {
+   "card": "BP-018",
+   "label": "作り手の調査バッチ12 2026-11-11",
+   "text": "Leppäniemi A, et al. 2019 WSES guidelines for the management of severe acute pancreatitis. World J Emerg Surg. 2019;14:27.（Europe PMC の license 表示（cc by））。裏づける部分：WSES 全文：「ルーチンの予防的抗菌薬は急性膵炎の全患者にはもはや推奨されない（グレード1A）」。予防的投与で予後・感染性合併症の改善が証明されていないという議論の要約もカード後半と整合する。数値の照合：数値なし"
+  },
+  {
+   "card": "BP-019",
+   "label": "作り手の調査バッチ12 2026-11-11",
+   "text": "Leppäniemi A, et al. 2019 WSES guidelines for the management of severe acute pancreatitis. World J Emerg Surg. 2019;14:27.（Europe PMC の license 表示（cc by））。裏づける部分：WSES 全文：「経腸栄養は腸管機能不全と感染性合併症の予防のために推奨される（グレード1A）」。経静脈栄養は避けるべきとされる。数値の照合：「入院後48時間以内に少量からでも開始」という開始時点と量の具体は日本のガイドラインの文面であり、WSES のステートメントにはない（方向性のみ裏づけ）"
+  },
+  {
+   "card": "BP-020",
+   "label": "作り手の調査バッチ12 2026-11-11",
+   "text": "Leppäniemi A, et al. 2019 WSES guidelines for the management of severe acute pancreatitis. World J Emerg Surg. 2019;14:27.（Europe PMC の license 表示（cc by））。裏づける部分：WSES 全文のステートメント：急性胆石性膵炎に胆管炎を合併する場合は ERCP の適応（グレード1B）、総胆管閉塞がある場合は適応（グレード2B）、ルーチンの ERCP は適応でない（グレード1A）。数値の照合：数値なし"
+  },
+  {
+   "card": "BP-021",
+   "label": "作り手の調査バッチ12 2026-11-11",
+   "text": "Leppäniemi A, et al. 2019 WSES guidelines for the management of severe acute pancreatitis. World J Emerg Surg. 2019;14:27.（Europe PMC の license 表示（cc by））。裏づける部分：WSES 全文：軽症の急性胆石性膵炎では入院中の胆嚢摘出術を推奨（グレード1A）。膵周囲液体貯留を伴う場合は、貯留が消退するまで胆嚢摘出を延期する。数値の照合：重症例の「発症から4〜6週以降」という週数は WSES に明示がなく（延期の原則のみ）、裏づけの対象外"
+  },
+  {
+   "card": "BP-022",
+   "label": "作り手の調査バッチ12 2026-11-11",
+   "text": "Leppäniemi A, et al. 2019 WSES guidelines for the management of severe acute pancreatitis. World J Emerg Surg. 2019;14:27.（Europe PMC の license 表示（cc by））。裏づける部分：WSES 全文：状態が悪化する感染性壊死では経皮的または内視鏡的ドレナージから始めるステップアップ・アプローチが適応。手術介入を発症後4週を超えて延期すると死亡率が低い（グレード2B）。被包化した壊死（WON）への介入が前提とされる。数値の照合：4週：WSES の「発症後4週超への延期」と整合（カードの「通常は発症4週以降」と対応）"
+  },
+  {
+   "card": "EY-029",
+   "label": "作り手の調査バッチ13 2026-11-11",
+   "text": "Chou R, Selph S, Blazina I, et al. Screening for Glaucoma in Adults: A Systematic Review for the U.S. Preventive Services Task Force. Evidence Synthesis No. 214. Rockville (MD): Agency for Healthcare Research and Quality (US); 2022 May. AHRQ Publication No. 21-05286-EF-1.（NCBI Bookshelf: NBK581087）（Bookshelf の public domain 表示は未目視。目視確認後に主出典の置き換えを検討）（https://www.ncbi.nlm.nih.gov/books/NBK581087/）。裏づける部分：現出典（JAMA 版）と同一の AHRQ エビデンスレビュー本体。緑内障の診断精度の統合…"
+  },
+  {
+   "card": "EY-003",
+   "label": "作り手の調査バッチ13 2026-11-11",
+   "text": "NEI『Presbyopia』（GOV_US）。裏づける部分：老視は屈折異常の一種で、加齢で水晶体が硬く柔軟性を失い近見に焦点を合わせにくくなり、近用補正で対応するという骨格"
+  },
+  {
+   "card": "EY-009",
+   "label": "作り手の調査バッチ13 2026-11-11",
+   "text": "CDC 結膜炎ページ群（GOV_US）。裏づける部分：アデノウイルス性が代表、水様性眼脂、片眼→両眼、手指・タオルを介した感染拡大と衛生管理、対症療法中心の骨格。HSV の所見や濾胞反応などの細部は対象外"
+  },
+  {
+   "card": "EY-010",
+   "label": "作り手の調査バッチ13 2026-11-11",
+   "text": "CDC 結膜炎ページ群（GOV_US）。裏づける部分：強いかゆみが特徴で両眼性、アレルゲン回避と抗アレルギー点眼が基本という骨格。乳頭反応・病型分類は対象外"
+  },
+  {
+   "card": "EY-011",
+   "label": "作り手の調査バッチ13 2026-11-11",
+   "text": "CDC 結膜炎ページ群（GOV_US）。裏づける部分：膿性〜粘液膿性の眼脂と局所抗菌薬の骨格。淋菌性の重症像は対象外"
+  },
+  {
+   "card": "EY-012",
+   "label": "作り手の調査バッチ13 2026-11-11",
+   "text": "CDC 結膜炎ページ群＋性感染症ガイドライン（GOV_US）。裏づける部分：全身の抗菌薬治療と性パートナーの評価が必要という骨格。成人／新生児の所見対比は対象外"
+  },
+  {
+   "card": "EY-013",
+   "label": "作り手の調査バッチ13 2026-11-11",
+   "text": "CDC 結膜炎ページ群（GOV_US）。裏づける部分：眼脂の性状とかゆみによる鑑別の骨格。濾胞反応・耳前リンパ節腫脹・樹枝状病変などの所見レベルの対応は対象外"
+  },
+  {
+   "card": "EY-019",
+   "label": "作り手の調査バッチ13 2026-11-11",
+   "text": "MedlinePlus Genetics『Keratoconus』（GOV_US）。裏づける部分：角膜の菲薄化と円錐状突出という病態の骨格。診断に必須の3所見はコンセンサス固有。第2版刊行の申し送りつき"
+  },
+  {
+   "card": "EY-023",
+   "label": "作り手の調査バッチ13 2026-11-11",
+   "text": "NEI『Cataracts』（GOV_US）＋現出典抄録（抄録レコードの部分は使わない）。裏づける部分：失明の主因という位置づけは抄録、部位による3分類と原因の列挙は NEI が定性的に支持"
+  },
+  {
+   "card": "EY-024",
+   "label": "作り手の調査バッチ13 2026-11-11",
+   "text": "NEI『Cataracts』（GOV_US）。裏づける部分：症状と検査による評価、日常生活への支障で手術を判断する骨格。細隙灯による部位・程度の確認は範囲外"
+  },
+  {
+   "card": "EY-025",
+   "label": "作り手の調査バッチ13 2026-11-11",
+   "text": "現出典（Lam 2015）の抄録レコード＋NEI『Cataracts』（抄録レコードの部分は使わない）。裏づける部分：「治療は手術のみ」「超音波乳化吸引が標準」は抄録に明記。適応の判断基準は NEI が支持"
+  },
+  {
+   "card": "EY-042",
+   "label": "作り手の調査バッチ13 2026-11-11",
+   "text": "NEI『Amblyopia (Lazy Eye)』（GOV_US）。裏づける部分：定義、原因による分類（屈折性・斜視性・遮断性）、屈折矯正→遮閉／アトロピンの骨格。中等度で1日2時間遮閉という具体は PPP 固有"
+  },
+  {
+   "card": "EY-045",
+   "label": "作り手の調査バッチ13 2026-11-11",
+   "text": "NEI・MedlinePlus の斜視ページ（GOV_US）。裏づける部分：方向による分類、顕性斜視と斜位の区別、調節性内斜視では屈折矯正が初期治療という骨格。外斜視の頻度「約1%」は確認できず"
+  },
+  {
+   "card": "EY-048",
+   "label": "作り手の調査バッチ13 2026-11-11",
+   "text": "NEI の眼瞼炎解説（GOV_US）。裏づける部分：前部／後部の分類と、後部の主因がマイボーム腺の問題であること、眼瞼衛生が基本という骨格。経過や使い分けの細部は PPP 固有"
+  },
+  {
+   "card": "EY-050",
+   "label": "作り手の調査バッチ13 2026-11-11",
+   "text": "現出典（Tarlan 2013）の抄録レコード＋MedlinePlus『Subconjunctival hemorrhage』（抄録レコードの部分は使わない）。裏づける部分：年齢層別の危険因子と再発・持続時の評価項目は抄録、無痛と2〜3週間での吸収は MedlinePlus が支持。静脈うっ血と抗凝固・抗血小板療法の関連は本文範囲"
+  },
+  {
+   "card": "EY-052",
+   "label": "作り手の調査バッチ13 2026-11-11",
+   "text": "現出典（Leonardi 2013）の抄録レコード＋Children 2026 総説（CC BY、新規 SRC 提案）（抄録レコードの部分は使わない）。裏づける部分：治療の段階づけは現出典抄録、臨床像（男児に多い、強いかゆみ、巨大乳頭、シールド潰瘍など）は CC BY 総説（PMID 41897048）が支持"
+  },
+  {
+   "card": "ND-002",
+   "label": "作り手の調査バッチ14 2026-11-11",
+   "text": "CDC『Reducing Risk for Dementia』（GOV_US）。裏づける部分：「認知症のほぼ45%は予防・遅らせうる」とし典拠として Lancet Commission 2024年報告を明示。14項目という数と追加2項目（視力低下・高 LDL）の列挙は CDC ページになし"
+  },
+  {
+   "card": "ND-029",
+   "label": "作り手の調査バッチ14 2026-11-11",
+   "text": "MedlinePlus Genetics（GOV_US）＋現出典の抄録レコード（抄録レコードの部分は使わない）。裏づける部分：遺伝形式・原因遺伝子・臨床像は抄録、CAG 36〜39（浸透率低下）・40以上（完全浸透）は MedlinePlus Genetics。正常範囲の切り方は両値記録（発見9）"
+  },
+  {
+   "card": "ND-044",
+   "label": "作り手の調査バッチ14 2026-11-11",
+   "text": "Ferullo 2024（Brain Sci、CC BY、新規 SRC 提案）。裏づける部分：Gold Coast 基準の要件（進行性運動障害、1領域で上下徴候または2領域以上で下位徴候、他疾患の除外）を全文がそのまま再掲。原典には PubMed 抄録自体がない"
+  },
+  {
+   "card": "ND-056",
+   "label": "作り手の調査バッチ14 2026-11-11",
+   "text": "NIH GARD（GOV_US）＋現出典の抄録レコード（抄録レコードの部分は使わない）。裏づける部分：臨床像（発熱・筋強剛・自律神経症状・横紋筋融解）は GARD、治療の第一（原因薬中止・支持療法・ダントロレン／ブロモクリプチン）は抄録が支持"
+  },
+  {
+   "card": "ST-001",
+   "label": "作り手の調査バッチ15 2026-11-11",
+   "text": "PMID 40392372（CC BY、新規 SRC 提案）。裏づける部分：抄録に「高血圧性出血は深部構造、特に大脳基底核・内嚢・視床・脳幹・小脳に生じる」と明記。現出典ガイドライン（SRC-1562）は抄録未収載"
+  },
+  {
+   "card": "ST-010",
+   "label": "作り手の調査バッチ15 2026-11-11",
+   "text": "PMID 42927341（CC BY、新規 SRC 提案）。裏づける部分：全文で、CAA の再発性脳葉出血等は高い出血脆弱性を示し抗凝固が増幅しうること。「衡量して慎重に判断」の枠組み自体はガイドラインの文言"
+  },
+  {
+   "card": "ST-011",
+   "label": "作り手の調査バッチ15 2026-11-11",
+   "text": "MedlinePlus『Subarachnoid hemorrhage』（GOV_US、新規 SRC 提案）。裏づける部分：雷鳴頭痛（人生最悪の頭痛）、嘔吐、意識低下、痙攣発作が症状の節に明記"
+  },
+  {
+   "card": "ST-013",
+   "label": "作り手の調査バッチ15 2026-11-11",
+   "text": "PMID 42587568（CC BY、新規 SRC 提案）。裏づける部分：modified Fisher が脳室内出血の有無で分類し血管攣縮リスクと関わること。各グレードの定義はガイドラインの表の内容"
+  },
+  {
+   "card": "ST-023",
+   "label": "作り手の調査バッチ15 2026-11-11",
+   "text": "PMID 42394924（CC BY、新規 SRC 提案）。裏づける部分：抄録に「心房細動は心原性脳塞栓症の主要な原因」。突発発症・重症化の臨床像は候補にない。現出典ガイドライン（SRC-1585）は抄録未収載"
+  },
+  {
+   "card": "GY-015",
+   "label": "作り手の調査バッチ16 2026-11-11",
+   "text": "現出典の抄録レコード＋厚労省指針・国民生活基礎調査（GOV_JP、新規 SRC 提案）（抄録レコードの部分は使わない）。裏づける部分：20〜69歳・2年ごと細胞診と受診率43.7%（2019年調査と一致）は裏づけ可。ASC-US トリアージの分岐は本文範囲。HPV 検査単独法は2024年4月に指針へ追加済み（発見4）"
+  },
+  {
+   "card": "GY-016",
+   "label": "作り手の調査バッチ16 2026-11-11",
+   "text": "現出典の抄録レコード＋厚労省 HPV ワクチン情報ページ（GOV_JP）（抄録レコードの部分は使わない）。裏づける部分：差し控え・再開・キャッチアップの骨格は両経路で一致。接種率0.3%は本文範囲。キャッチアップは2025年3月で終了（発見4）"
+  },
+  {
+   "card": "GY-017",
+   "label": "作り手の調査バッチ16 2026-11-11",
+   "text": "NCI PDQ『Cervical Cancer Treatment』（NBK66058、GOV_US、新規 SRC 提案）。裏づける部分：FIGO 2018 の IB 細分と IIIC1/IIIC2・r/p 付記を含む病期表。現出典の抄録は総論のみ。病期表の細部は登録時に目視確認"
+  },
+  {
+   "card": "GY-018",
+   "label": "作り手の調査バッチ16 2026-11-11",
+   "text": "NCI PDQ『Cervical Cancer Treatment』（GOV_US、新規 SRC 提案）。裏づける部分：病期別の治療選択肢で原則の骨格を支持。C 型の術式指定や IB3〜IIA2 での CCRT 優先の細部は本文範囲"
+  },
+  {
+   "card": "GY-025",
+   "label": "作り手の調査バッチ16 2026-11-11",
+   "text": "MedlinePlus『Uterine fibroids』（GOV_US、新規 SRC 提案）。裏づける部分：過多月経・頻尿・超音波による確認を収載。鉄欠乏性貧血との結びつきは現出典の症例提示にも現れる"
+  },
+  {
+   "card": "GY-030",
+   "label": "作り手の調査バッチ16 2026-11-11",
+   "text": "Rev Bras Ginecol Obstet 2014 の子宮肉腫総説（SciELO、CC BY、新規 SRC 提案）。裏づける部分：Abeler の内訳を引用（63%・21%・6%・6%）。両値記録：カードは62%・20%・6%・5.5%で丸めが異なる。原著抄録に百分率は載らない。ライセンスは登録時に SciELO ページで目視確認"
+  },
+  {
+   "card": "GY-038",
+   "label": "作り手の調査バッチ16 2026-11-11",
+   "text": "NCI PDQ『Ovarian Epithelial, Fallopian Tube, and Primary Peritoneal Cancers Treatment』（GOV_US、新規 SRC 提案）。裏づける部分：共通 FIGO 分類の病期定義（IC1〜IC3、IIIA1 の細分を含む）を収載する想定。現出典は抄録未収載。病期表は登録時に目視確認"
+  },
+  {
+   "card": "GY-043",
+   "label": "作り手の調査バッチ16 2026-11-11",
+   "text": "Case Rep Obstet Gynecol 2022（CC BY、PMID 35531128、新規 SRC 提案）。裏づける部分：捻転解除による温存・超音波第一選択を支持。割合は「婦人科緊急症の2.7〜7.4%」と幅のある表現で、CMAJ の「外科的緊急症の2.7%」の切り分けは原典固有（両値記録）"
+  },
+  {
+   "card": "GY-045",
+   "label": "作り手の調査バッチ16 2026-11-11",
+   "text": "NCI PDQ（GY-038 と同一候補、GOV_US）。裏づける部分：卵巣癌・卵管癌・原発性腹膜癌を共通の FIGO 分類で扱う枠組み。現出典は抄録未収載"
+  },
+  {
+   "card": "OS-011",
+   "label": "作り手の調査バッチ17 2026-11-11",
+   "text": "MedlinePlus『Osteoarthritis』（GOV_US、新規 SRC 提案）。裏づける部分：危険因子（加齢・肥満・関節外傷・遺伝）と軟骨変性中心の病態の骨格。候補ページは未目視で登録時確認。一次性・二次性の区別と画像所見の列挙は部分的な裏づけ。現出典の抄録は管理中心で裏づけにならない"
+  },
+  {
+   "card": "OS-020",
+   "label": "作り手の調査バッチ17 2026-11-11",
+   "text": "現出典（Hurst 2009）の抄録レコード＋MedlinePlus『Dupuytren's contracture』（新規 SRC 提案）（抄録レコードの部分は使わない）。裏づける部分：抄録はコラゲナーゼ注射が非手術的選択肢で拘縮を改善した点と手術が標準治療である点。MedlinePlus は腱膜の結節・索状肥厚と危険因子の骨格（未目視、登録時確認）。ザイアフレックスは2020年に米国外市場から撤退し国内でも使用不可（発見2）"
+  },
+  {
+   "card": "PG-020",
+   "label": "作り手の調査バッチ18 2026-11-11",
+   "text": "膜性判定の超音波研究（BMC Pregnancy Childbirth 2025、CC BY、新規 SRC 提案）。裏づける部分：胎盤の数・羊膜の有無と厚さ・lambda/T サインによる判定方法の部分。第1三半期の実施、膜性でリスクが決まること、未確定時は単絨毛膜として管理することは対象外。現出典 NICE NG137 は OGL で区分枠の外"
+  },
+  {
+   "card": "PG-036",
+   "label": "作り手の調査バッチ18 2026-11-11",
+   "text": "Fiji の妊婦貧血症例対照研究の抄録レコード（BMC Pregnancy Childbirth 2026、CC BY、新規 SRC 提案）（抄録レコードの部分は使わない）。裏づける部分：第1・第3三半期 Hb 11.0 g/dL 未満・第2三半期 10.5 g/dL 未満という WHO カットオフの運用値。日本の基準との整合部分は対象外。WHO 本体は CC BY-NC-SA で対象外（発見7）"
+  },
+  {
+   "card": "PG-038",
+   "label": "作り手の調査バッチ18 2026-11-11",
+   "text": "ATA 2026／RCOG 2025 解説論文（Case Rep Womens Health 2026、CC BY、新規 SRC 提案）。裏づける部分：三半期別 TSH 目標の不使用、基準範囲が得られない場合の診断閾値4.0、治療目標0.5〜2.5、TSH 10超は治療適応、第1三半期はプロピルチオウラシル第一選択、レボチロキシン20〜30%増量の全変更点。解説論文であり本文の逐語確認の代替にはならない"
+  },
+  {
+   "card": "PG-043",
+   "label": "作り手の調査バッチ18 2026-11-11",
+   "text": "厚生労働省告示第226号（妊婦に対する健康診査についての望ましい基準）・実施通知（GOV_JP、新規 SRC 提案）。裏づける部分：妊娠初期検査（B型肝炎抗原・C型肝炎抗体・HIV抗体・梅毒血清反応・風疹ウイルス抗体）、HTLV-1抗体は初期〜30週の間に1回、GBS は妊娠後期の培養。CMV の啓発の部分は学会固有で、政府基準では項目に含まれないことと整合するにとどまる"
+  },
+  {
+   "card": "OT-050",
+   "label": "作り手の調査バッチ19 2026-11-11",
+   "text": "CDC Travelers' Health『Motion Sickness』ページ（新規 SRC 提案）。裏づける部分：動揺病の薬は予防にも治療にも用いられ、一般的に使われる薬としてジフェンヒドラミン・ジメンヒドリナート・スコポラミンが挙げられること、多くの薬が眠気を引き起こすことという骨格 スコポラミンが系統的レビュー（RCT 14件）でプラセボより予防効果に優れたこと、経皮吸収型製剤（耳介後部貼付）の剤形、第1世代 H1 受容体拮抗薬が有効で第2世代は有効でなかったという比較の部分は CDC ページに記載がなく対象外。カード側の注記どおり、スコポラミン貼付剤は国内未承認・未市販で、ジメンヒドリナートには国内承認製剤があることと食い違いはない"
+  }
+ ],
+ "open_fix": [
+  "SRC-074",
+  "SRC-088",
+  "SRC-089",
+  "SRC-097",
+  "SRC-4231"
+ ],
+ "rest_fix": {
+  "SRC-1262": "CC BY-NC-ND 4.0",
+  "SRC-1697": "CC BY-NC-ND 4.0",
+  "SRC-1880": "CC BY-NC",
+  "SRC-3174": "Wiley の利用条件（CC ではない）",
+  "SRC-3257": "CC BY-NC-ND",
+  "SRC-1341": "CC BY-NC 4.0",
+  "SRC-1352": "CC BY-NC-ND 4.0"
+ }
+}

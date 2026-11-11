@@ -710,7 +710,7 @@
 
 - 条件：population: 視神経脊髄炎スペクトラム障害が疑われる患者／region: 国際
 - 不確実性：抗体陰性例に求められる追加の画像所見などの詳細は基準本文による。MOG抗体関連疾患は本基準の対象とは区別して扱われる。
-- 出典：Wingerchuk DM, Banwell B, Bennett JL, et al.; International Panel for NMO Diagnosis. International consensus diagnostic criteria for neuromyelitis optica spectrum disorders. Neurology. 2015;85(2):177-189　[DOI 10.1212/WNL.0000000000001729](https://doi.org/10.1212/WNL.0000000000001729)　[PMID 26092914](https://pubmed.ncbi.nlm.nih.gov/26092914/)（区分 UNKNOWN）
+- 出典：Wingerchuk DM, Banwell B, Bennett JL, et al.; International Panel for NMO Diagnosis. International consensus diagnostic criteria for neuromyelitis optica spectrum disorders. Neurology. 2015;85(2):177-189　[DOI 10.1212/WNL.0000000000001729](https://doi.org/10.1212/WNL.0000000000001729)　[PMID 26092914](https://pubmed.ncbi.nlm.nih.gov/26092914/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-4-H-②（視神経脊髄炎、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-052&card_id=ND-052&version=99b711c1f7)　（版 `99b711c1f7`）
 

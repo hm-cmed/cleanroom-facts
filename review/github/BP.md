@@ -375,7 +375,7 @@
 - 条件：guideline: JSGE 慢性膵炎GL 2021／region: 日本
 - よくある誤解：慢性膵炎は腹部単純X線の膵石だけで診断する
 - 不確実性：感度・特異度はGLが引用したメタ解析の値（二次資料経由）
-- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
+- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)；TBL-02-07-029 (id: JlAKplA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-025&card_id=BP-025&version=99d65ea2c7)　（版 `99d65ea2c7`）
 
@@ -386,7 +386,7 @@
 - 条件：guideline: JSGE 慢性膵炎GL 2021／region: 日本
 - よくある誤解：早期慢性膵炎の大半は数年で確診例に進む
 - 不確実性：早期慢性膵炎の診断項目の詳細はGL本文で確認が必要
-- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
+- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-026&card_id=BP-026&version=d5652cc10b)　（版 `d5652cc10b`）
 
@@ -397,7 +397,7 @@
 - 条件：guideline: JSGE 慢性膵炎GL 2021／region: 日本
 - よくある誤解：慢性膵炎の危険因子は飲酒だけである
 - 不確実性：GLが引用した研究の値（二次資料経由）
-- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
+- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-027&card_id=BP-027&version=b0c82e1ad2)　（版 `b0c82e1ad2`）
 
@@ -407,7 +407,7 @@
 
 - 条件：guideline: JSGE 慢性膵炎GL 2021／region: 日本
 - よくある誤解：禁煙は慢性膵炎の経過に影響しない
-- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
+- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-028&card_id=BP-028&version=a340ecb42a)　（版 `a340ecb42a`）
 
@@ -417,7 +417,7 @@
 
 - 条件：guideline: JSGE 慢性膵炎GL 2021／region: 日本
 - よくある誤解：慢性膵炎の疼痛には最初から強オピオイドを使う
-- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
+- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)；TBL-02-07-017 (id: JlAKpkM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-029&card_id=BP-029&version=24cfb352ab)　（版 `24cfb352ab`）
 
@@ -427,7 +427,7 @@
 
 - 条件：guideline: JSGE 慢性膵炎GL 2021／region: 日本
 - よくある誤解：消化酵素薬は慢性膵炎の痛みに有効
-- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
+- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)；TBL-02-07-009 (id: JlAKpjw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-030&card_id=BP-030&version=409420d6d2)　（版 `409420d6d2`）
 
@@ -437,7 +437,7 @@
 
 - 条件：guideline: JSGE 慢性膵炎GL 2021／region: 日本
 - よくある誤解：慢性膵炎では脂肪を厳しく制限すべき
-- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
+- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-031&card_id=BP-031&version=9fc51d1bad)　（版 `9fc51d1bad`）
 
@@ -449,7 +449,7 @@
 - 鑑別・補足：2型糖尿病と異なり、グルカゴン分泌も低下し低血糖を起こしやすい
 - よくある誤解：膵性糖尿病は経口血糖降下薬で十分にコントロールできる
 - 不確実性：使用率はGLが引用した調査の値（二次資料経由）
-- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
+- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-032&card_id=BP-032&version=d1252be0aa)　（版 `d1252be0aa`）
 
@@ -459,7 +459,7 @@
 
 - 条件：guideline: JSGE 慢性膵炎GL 2021／region: 日本
 - よくある誤解：膵石があれば無症状でも内視鏡治療を行う
-- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
+- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-306 (id: Jlvnl7o)；TBL-02-07-033 (id: JlAKplQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-033&card_id=BP-033&version=820877bbee)　（版 `820877bbee`）
 
@@ -470,7 +470,7 @@
 - 条件：guideline: JSGE 慢性膵炎GL 2021／region: 日本
 - よくある誤解：慢性膵炎は膵癌のリスクにならない
 - 不確実性：GLが引用した研究の値（二次資料経由）
-- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 UNKNOWN）
+- 出典：日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）　[DOI 10.1007/s00535-022-01911-6](https://doi.org/10.1007/s00535-022-01911-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-8-A-②（慢性膵炎・膵石症、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-306 (id: Jlvnl7o)；TBL-01-00-655 (id: JlvnmdQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-034&card_id=BP-034&version=30ac807a32)　（版 `30ac807a32`）
 
@@ -533,7 +533,7 @@
 
 - 条件：guideline: 日本膵臓学会 膵癌診療GL 2022／region: 日本
 - よくある誤解：糖尿病の悪化は膵癌と無関係
-- 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 UNKNOWN）
+- 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-8-B-①（膵癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-655 (id: JlvnmdQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-039&card_id=BP-039&version=a54f0079ac)　（版 `a54f0079ac`）
 
@@ -543,7 +543,7 @@
 
 - 条件：guideline: 日本膵臓学会 膵癌診療GL 2022／region: 日本
 - よくある誤解：膵癌の診断にはPETが最も有用
-- 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 UNKNOWN）
+- 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-8-B-①（膵癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-655 (id: JlvnmdQ)；TBL-02-07-029 (id: JlAKplA)；TBL-02-07-031 (id: JlAKplI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-040&card_id=BP-040&version=bf3b573c43)　（版 `bf3b573c43`）
 
@@ -553,7 +553,7 @@
 
 - 条件：guideline: 日本膵臓学会 膵癌診療GL 2022／region: 日本
 - よくある誤解：切除できれば術後化学療法は不要
-- 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 UNKNOWN）
+- 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-8-B-①（膵癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-655 (id: JlvnmdQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-041&card_id=BP-041&version=66bf8f9d02)　（版 `66bf8f9d02`）
 
@@ -563,7 +563,7 @@
 
 - 条件：guideline: 日本膵臓学会 膵癌診療GL 2022／region: 日本
 - よくある誤解：転移性膵癌に有効な化学療法はない
-- 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 UNKNOWN）
+- 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-8-B-①（膵癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-655 (id: JlvnmdQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-042&card_id=BP-042&version=ce6160bf7d)　（版 `ce6160bf7d`）
 
@@ -573,7 +573,7 @@
 
 - 条件：guideline: 日本膵臓学会 膵癌診療GL 2022／region: 日本
 - よくある誤解：膵癌では遺伝子検査は治療選択に関係しない
-- 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 UNKNOWN）
+- 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-8-B-①（膵癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-655 (id: JlvnmdQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-043&card_id=BP-043&version=38e0ddbbe0)　（版 `38e0ddbbe0`）
 
@@ -583,7 +583,7 @@
 
 - 条件：guideline: 日本膵臓学会 膵癌診療GL 2022／region: 日本
 - よくある誤解：拡大郭清ほど予後がよくなる
-- 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 UNKNOWN）
+- 出典：Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511　[DOI 10.1007/s10147-023-02317-x](https://doi.org/10.1007/s10147-023-02317-x)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-8-B-①（膵癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-655 (id: JlvnmdQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-044&card_id=BP-044&version=925f774642)　（版 `925f774642`）
 
@@ -701,7 +701,7 @@
 - 鑑別・補足：肝内結石はビリルビンカルシウム石が多い
 - よくある誤解：胆石はすべてコレステロール石である
 - 不確実性：GL本文のBQ1-2の要旨。石の種類別の頻度は今回未取得
-- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
+- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-7-D-①（胆石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-053&card_id=BP-053&version=27404cc711)　（版 `27404cc711`）
 
@@ -713,7 +713,7 @@
 - 鑑別・補足：急性胆管炎・胆嚢炎診療GL 2018はより高い有症状化率を挙げている（BP-001）
 - よくある誤解：無症状胆石の大半は数年で症状が出る
 - 不確実性：GLが引用した研究の値（二次資料経由）。BP-001の値と食い違うため、人間が原典で確認する
-- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
+- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-7-D-①（胆石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-054&card_id=BP-054&version=00f0571a4b)　（版 `00f0571a4b`）
 
@@ -724,7 +724,7 @@
 - 条件：region: 日本／guideline: JSGE 胆石症GL 2021
 - よくある誤解：無症状胆石は高率に急性膵炎を起こす
 - 不確実性：GLが引用した研究の値（二次資料経由）。観察期間はGL本文で確認する
-- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
+- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-7-D-①（胆石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)；TBL-01-00-300 (id: Jlvnl5U)；TBL-01-00-305 (id: Jlvnl7k)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-055&card_id=BP-055&version=c9d65b8085)　（版 `c9d65b8085`）
 
@@ -734,7 +734,7 @@
 
 - 条件：region: 日本／guideline: JSGE 胆石症GL 2021
 - よくある誤解：胆石があれば全例に胆嚢摘出術を行う
-- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
+- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-7-D-①（胆石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)；TBL-01-00-651 (id: Jlvnmc4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-056&card_id=BP-056&version=d06fd43e01)　（版 `d06fd43e01`）
 
@@ -746,7 +746,7 @@
 - 鑑別・補足：胆嚢癌患者には高率に胆石がみられる
 - よくある誤解：胆石は胆嚢癌の確立した原因である
 - 不確実性：胆嚢癌患者の胆石保有率はGL本文の中で69〜96%と40〜70%の2つの値が示されており不整合があるため主張文に入れていない
-- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
+- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-7-C-②（胆囊癌、胆管癌、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-299 (id: Jlvnl5M)；TBL-01-00-651 (id: Jlvnmc4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-057&card_id=BP-057&version=dea1e2b89f)　（版 `dea1e2b89f`）
 
@@ -757,7 +757,7 @@
 - 条件：region: 日本／guideline: JSGE 胆石症GL 2021
 - よくある誤解：総胆管結石の疑いがあれば全例にまず診断的ERCPを行う
 - 不確実性：感度・特異度はGLが引用したメタ解析の値（二次資料経由）
-- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
+- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-7-D-①（胆石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)；TBL-01-00-301 (id: Jlvnl5Y)；TBL-02-07-030 (id: JlAKplE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-058&card_id=BP-058&version=71164adadb)　（版 `71164adadb`）
 
@@ -767,7 +767,7 @@
 
 - 条件：region: 日本／guideline: JSGE 胆石症GL 2021
 - よくある誤解：肝内結石は良性疾患で癌との関係はない
-- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
+- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-7-D-①（胆石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)；TBL-01-00-651 (id: Jlvnmc4)；TBL-02-07-028 (id: JlAKpk8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-059&card_id=BP-059&version=06088340b4)　（版 `06088340b4`）
 
@@ -777,7 +777,7 @@
 
 - 条件：region: 日本／guideline: JSGE 胆石症GL 2021
 - よくある誤解：胆嚢結石の標準治療は経口溶解療法である
-- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
+- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-7-D-①（胆石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-060&card_id=BP-060&version=ef2b848cfd)　（版 `ef2b848cfd`）
 
@@ -788,7 +788,7 @@
 - 条件：region: 日本／guideline: JSGE 胆石症GL 2021
 - よくある誤解：総胆管結石の治療は内視鏡治療以外に選択肢がない
 - 不確実性：GLのコラムの記述で、推奨文ではない
-- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 UNKNOWN）
+- 出典：Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833　[DOI 10.1007/s00535-023-02014-6](https://doi.org/10.1007/s00535-023-02014-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-7-D-①（胆石症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)；TBL-02-07-033 (id: JlAKplQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-061&card_id=BP-061&version=ecccff2a48)　（版 `ecccff2a48`）
 
@@ -830,7 +830,7 @@
 
 - 条件：region: 欧州／対象: 成人
 - 不確実性：日本の胆石症診療ガイドライン2021ではポリープの扱いが限定的なため、本カード群は欧州合同ガイドラインに基づく。国内の運用とは異なる場合がある。
-- 出典：Foley KG, Lahaye MJ, Thoeni RF, et al. Management and follow-up of gallbladder polyps: updated joint guidelines between the ESGAR, EAES, EFISDS and ESGE. Eur Radiol. 2022;32(5):3358-3368.　[DOI 10.1007/s00330-021-08384-w](https://doi.org/10.1007/s00330-021-08384-w)　[PMID 34918177](https://pubmed.ncbi.nlm.nih.gov/34918177/)（区分 RESTRICTED）
+- 出典：Foley KG, Lahaye MJ, Thoeni RF, et al. Management and follow-up of gallbladder polyps: updated joint guidelines between the ESGAR, EAES, EFISDS and ESGE. Eur Radiol. 2022;32(5):3358-3368.　[DOI 10.1007/s00330-021-08384-w](https://doi.org/10.1007/s00330-021-08384-w)　[PMID 34918177](https://pubmed.ncbi.nlm.nih.gov/34918177/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-7-C-①（胆囊ポリープ、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)；TBL-01-00-302 (id: Jlvnl5g)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-071&card_id=BP-071&version=2c75ee9bce)　（版 `2c75ee9bce`）
 
@@ -840,7 +840,7 @@
 
 - 条件：region: 欧州／対象: 成人
 - 不確実性：リスク因子に「アジア人」が含まれる点は、日本の診療でも重要である。
-- 出典：Foley KG, Lahaye MJ, Thoeni RF, et al. Management and follow-up of gallbladder polyps: updated joint guidelines between the ESGAR, EAES, EFISDS and ESGE. Eur Radiol. 2022;32(5):3358-3368.　[DOI 10.1007/s00330-021-08384-w](https://doi.org/10.1007/s00330-021-08384-w)　[PMID 34918177](https://pubmed.ncbi.nlm.nih.gov/34918177/)（区分 RESTRICTED）
+- 出典：Foley KG, Lahaye MJ, Thoeni RF, et al. Management and follow-up of gallbladder polyps: updated joint guidelines between the ESGAR, EAES, EFISDS and ESGE. Eur Radiol. 2022;32(5):3358-3368.　[DOI 10.1007/s00330-021-08384-w](https://doi.org/10.1007/s00330-021-08384-w)　[PMID 34918177](https://pubmed.ncbi.nlm.nih.gov/34918177/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-7-C-①（胆囊ポリープ、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)；TBL-01-00-302 (id: Jlvnl5g)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-072&card_id=BP-072&version=61a749f71a)　（版 `61a749f71a`）
 
@@ -850,7 +850,7 @@
 
 - 条件：region: 欧州／対象: 成人
 - 不確実性：フォロー間隔と終了条件は同ガイドラインの推奨どおり。国内の診療ガイドラインでの扱いが限定的な点は BP-071 を参照。
-- 出典：Foley KG, Lahaye MJ, Thoeni RF, et al. Management and follow-up of gallbladder polyps: updated joint guidelines between the ESGAR, EAES, EFISDS and ESGE. Eur Radiol. 2022;32(5):3358-3368.　[DOI 10.1007/s00330-021-08384-w](https://doi.org/10.1007/s00330-021-08384-w)　[PMID 34918177](https://pubmed.ncbi.nlm.nih.gov/34918177/)（区分 RESTRICTED）
+- 出典：Foley KG, Lahaye MJ, Thoeni RF, et al. Management and follow-up of gallbladder polyps: updated joint guidelines between the ESGAR, EAES, EFISDS and ESGE. Eur Radiol. 2022;32(5):3358-3368.　[DOI 10.1007/s00330-021-08384-w](https://doi.org/10.1007/s00330-021-08384-w)　[PMID 34918177](https://pubmed.ncbi.nlm.nih.gov/34918177/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-7-C-①（胆囊ポリープ、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；PS-03-04-14 (id: JkxnuYE)；TBL-01-00-302 (id: Jlvnl5g)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-073&card_id=BP-073&version=b34a3ee29e)　（版 `b34a3ee29e`）
 

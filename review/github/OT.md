@@ -12,7 +12,7 @@
 
 - 条件：region: 韓国／study: 後方視的研究（単施設、411例）
 - 不確実性：数値は韓国の単施設の後方視的検討に基づく値で、日本の疫学データではない。
-- 出典：Kim SH, Lee DS, Choi SW, Oh SJ, Lee IW, Lee HM. Epidemiological characteristics and surgical management of external auditory canal foreign bodies: A 16-year single center retrospective study. American Journal of Otolaryngology. 2026;47(3):104774.　[DOI 10.1016/j.amjoto.2025.104774](https://doi.org/10.1016/j.amjoto.2025.104774)　[PMID 42068661](https://pubmed.ncbi.nlm.nih.gov/42068661/)（区分 UNKNOWN）
+- 出典：Kim SH, Lee DS, Choi SW, Oh SJ, Lee IW, Lee HM. Epidemiological characteristics and surgical management of external auditory canal foreign bodies: A 16-year single center retrospective study. American Journal of Otolaryngology. 2026;47(3):104774.　[DOI 10.1016/j.amjoto.2025.104774](https://doi.org/10.1016/j.amjoto.2025.104774)　[PMID 42068661](https://pubmed.ncbi.nlm.nih.gov/42068661/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-7-A-①（外耳道異物、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-001&card_id=OT-001&version=8f0c465c97)　（版 `8f0c465c97`）
 
@@ -148,7 +148,7 @@
 
 - 条件：region: 日本／study: 総説
 - 不確実性：診断基準の個別の判定項目は出典の抄録の範囲外で記載していない。ステロイド・生物学的製剤の国内承認・保険適用は未確認（好酸球性中耳炎への適応を含む）。
-- 出典：Iino Y. Eosinophilic otitis media; state-of-the-art diagnosis and treatment. Auris Nasus Larynx. 2023;50(4):479-489.　[DOI 10.1016/j.anl.2022.11.004](https://doi.org/10.1016/j.anl.2022.11.004)　[PMID 36528403](https://pubmed.ncbi.nlm.nih.gov/36528403/)（区分 UNKNOWN）
+- 出典：Iino Y. Eosinophilic otitis media; state-of-the-art diagnosis and treatment. Auris Nasus Larynx. 2023;50(4):479-489.　[DOI 10.1016/j.anl.2022.11.004](https://doi.org/10.1016/j.anl.2022.11.004)　[PMID 36528403](https://pubmed.ncbi.nlm.nih.gov/36528403/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-7-C-⑤（好酸球性中耳炎、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-501 (id: JlvnmO0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-014&card_id=OT-014&version=20b6684ae1)　（版 `20b6684ae1`）
 

@@ -1184,14 +1184,17 @@
   doi: 10.1007/s00535-012-0624-x
   pmid: null
   pmcid: null
-  license_note: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/04_liver.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
   source: 'Sugawara K, Nakayama N, Mochida S. Acute liver failure in Japan: definition, classification, and prediction of the outcome. J Gastroenterol 2012;47:849-861'
 - id: SRC-075
   legacy_id: null
@@ -1408,14 +1411,17 @@
   doi: 10.1007/s00535-022-01911-6
   pmid: null
   pmcid: null
-  license_note: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
   source: 日本消化器病学会. Evidence-based clinical practice guidelines for chronic pancreatitis 2021. J Gastroenterol 2022（著者・巻・頁はCrossrefで確定）
 - id: SRC-089
   legacy_id: null
@@ -1424,14 +1430,17 @@
   doi: 10.1007/s10147-023-02317-x
   pmid: null
   pmcid: null
-  license_note: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
   source: 'Okusaka T, et al. Clinical Practice Guidelines for Pancreatic Cancer 2022 from the Japan Pancreas Society: a synopsis. Int J Clin Oncol 2023;28:493-511'
 - id: SRC-090
   legacy_id: null
@@ -1552,14 +1561,17 @@
   doi: 10.1007/s00535-023-02014-6
   pmid: null
   pmcid: null
-  license_note: Springer OA（記事ページでライセンス表示を確認できず。Crossrefで確認）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：Springer OA（記事ページでライセンス表示を確認できず。Crossrefで確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
   source: Fujita N, et al. Evidence-based clinical practice guidelines for cholelithiasis 2021. J Gastroenterol 2023;58:801-833
 - id: SRC-098
   legacy_id: null
@@ -14698,14 +14710,17 @@
   doi: 10.1097/ICO.0000000000003420
   pmid: '38359414'
   pmcid: null
-  license_note: © Wolters Kluwer（PMC 収載版で CC 表示を確認できず）
+  license_note: CC BY-NC-ND 4.0（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© Wolters Kluwer（PMC 収載版で CC 表示を確認できず）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1263
   legacy_id: null
   title: 'Gupta Y, Kishore A, Kumari P, Balakrishnan N, Lomi N, Gupta N, Vanathi M, Tandon R. Peripheral ulcerative keratitis: A comprehensive review. Surv Ophthalmol. 2021;66(6):977-998'
@@ -15463,14 +15478,17 @@
   doi: 10.1016/j.amjoto.2025.104774
   pmid: '42068661'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: CC BY-NC 4.0（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1342
   legacy_id: null
   title: 'Goswami Y, Gaurkar SS. Ramsay Hunt Syndrome: An Introduction, Signs and Symptoms, and Treatment. Cureus. 2023;15(1):e33688.'
@@ -15628,14 +15646,17 @@
   doi: 10.1016/j.anl.2022.11.004
   pmid: '36528403'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: CC BY-NC-ND 4.0（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1353
   legacy_id: null
   title: 'Chau IJ, McCray LR, Nguyen SA, Labadie RF, Der C, Dillard LK, et al. Interventions for the Diagnosis and Management of Otosclerosis: An Umbrella Review. Otolaryngology–Head and Neck Surgery. 2026;174(4):904-915.'
@@ -18772,14 +18793,17 @@
   doi: 10.1212/WNL.0000000000001729
   pmid: '26092914'
   pmcid: null
-  license_note: null
+  license_note: CC BY-NC-ND 4.0（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1698
   legacy_id: null
   title: 'Rose JJ, Wang L, Xu Q, et al. Carbon Monoxide Poisoning: Pathogenesis, Management, and Future Directions of Therapy. Am J Respir Crit Care Med. 2017'
@@ -21208,14 +21232,17 @@
   doi: 10.1007/s11999-010-1292-x
   pmid: '20224959'
   pmcid: null
-  license_note: null
+  license_note: CC BY-NC（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1881
   legacy_id: null
   title: Ando W, Sakai T, Fukushima W, et al. Japanese Orthopaedic Association 2019 Guidelines for osteonecrosis of the femoral head. J Orthop Sci. 2021;26(1):46-68
@@ -28576,14 +28603,17 @@
   doi: 10.1111/1471-0528.70239
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: Wiley の利用条件（CC ではない）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/46_pn_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-3175
   legacy_id: null
   title: 'American College of Obstetricians and Gynecologists; Society for Maternal-Fetal Medicine. Multifetal Gestations: Twin, Triplet, and Higher-Order Multifetal Pregnancies: ACOG Practice Bulletin, Number 231. Obstet Gynecol. 2021;137(6):e145-e175.'
@@ -28861,14 +28891,17 @@
   doi: 10.1016/j.ard.2025.02.023
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: CC BY-NC-ND（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-3258
   legacy_id: null
   title: Andreoli L, Bertsias GK, Agmon-Levin N, et al. EULAR recommendations for women's health and the management of family planning, assisted reproduction, pregnancy and menopause in patients with systemic lupus erythematosus and/or antiphospholipid syndrome. Ann Rheum Dis. 2017;76(3):476-485
@@ -33370,14 +33403,17 @@
   doi: 10.1007/s00330-021-08384-w
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: RESTRICTED
+  source_class: OPEN
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を RESTRICTED から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
 - id: SRC-4232
   legacy_id: null
   title: Hammad AY, Miura JT, Turaga KK, et al. A literature review of radiological findings to guide the diagnosis of gallbladder adenomyomatosis. HPB (Oxford). 2016;18(2):129-135.
@@ -36309,3 +36345,18 @@
   pmid: '40123677'
   source_class: OPEN
   title: 'Uchida Y, Kawabata M, Kumazawa Y, et al. Severity-dependent recovery time in acute lateral ankle sprains: an ultrasonographic assessment of talofibular displacement. J Exp Orthop. 2025;12:e70204'
+- citation: EASL-EASD-EASO Clinical Practice Guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD). Diabetologia. 2024;67(11)
+  doi: 10.1007/s00125-024-06196-3
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5002
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://europepmc.org/article/MED/38869512
+  pmcid: PMC11519095
+  pmid: '38869512'
+  source_class: OPEN
+  title: EASL-EASD-EASO Clinical Practice Guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD). Diabetologia. 2024;67(11)

@@ -488,7 +488,7 @@
 
 - 条件：population: 日本の特発性大腿骨頭壊死症患者／region: 日本
 - 不確実性：2004年の受診患者に基づく調査である。ステロイド関連例の基礎疾患では全身性エリテマトーデスが最も多かった（31%）点は本カードに含めていない
-- 出典：Fukushima W, Fujioka M, Kubo T, et al. Nationwide epidemiologic survey of idiopathic osteonecrosis of the femoral head. Clin Orthop Relat Res. 2010;468(10):2715-2724　[DOI 10.1007/s11999-010-1292-x](https://doi.org/10.1007/s11999-010-1292-x)　[PMID 20224959](https://pubmed.ncbi.nlm.nih.gov/20224959/)（区分 UNKNOWN）
+- 出典：Fukushima W, Fujioka M, Kubo T, et al. Nationwide epidemiologic survey of idiopathic osteonecrosis of the femoral head. Clin Orthop Relat Res. 2010;468(10):2715-2724　[DOI 10.1007/s11999-010-1292-x](https://doi.org/10.1007/s11999-010-1292-x)　[PMID 20224959](https://pubmed.ncbi.nlm.nih.gov/20224959/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-8-D-④（特発性大腿骨頭壊死症、b）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-136 (id: JlvnlrA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-036&card_id=OS-036&version=5b41b3df06)　（版 `5b41b3df06`）
 

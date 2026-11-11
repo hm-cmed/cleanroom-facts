@@ -88,7 +88,7 @@
     source_license: © Deutscher Ärzte-Verlag（PMC 収載版で CC 表示を確認できず）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：NEI『Presbyopia』（GOV_US）。裏づける部分：老視は屈折異常の一種で、加齢で水晶体が硬く柔軟性を失い近見に焦点を合わせにくくなり、近用補正で対応するという骨格
   uncertainty: 出典では老視は屈折異常の総説の中で「加齢に伴う典型的な光学的障害」として扱われており、調節力低下の定量値や補正手段の詳細は本カードに含めていない。
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-489 (id: JlvnmNk)'
@@ -103,6 +103,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
 - id: EY-004
   domain: EY
   subdomain: 眼内異物
@@ -304,7 +307,7 @@
     source_license: © American Academy of Ophthalmology / Elsevier
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：CDC 結膜炎ページ群（GOV_US）。裏づける部分：アデノウイルス性が代表、水様性眼脂、片眼→両眼、手指・タオルを介した感染拡大と衛生管理、対症療法中心の骨格。HSV の所見や濾胞反応などの細部は対象外
   uncertainty: 薬剤（抗ウイルス薬）について、国内での承認・保険適用の確認状況：未確認。アデノウイルスの型別の病型（流行性角結膜炎と咽頭結膜熱の型の対応）は、ガイドライン本文の該当箇所を本調査で逐語確認できていないため含めていない。
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)'
@@ -319,6 +322,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
 - id: EY-010
   domain: EY
   subdomain: 結膜
@@ -339,7 +345,7 @@
     source_license: © American Academy of Ophthalmology / Elsevier
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：CDC 結膜炎ページ群（GOV_US）。裏づける部分：強いかゆみが特徴で両眼性、アレルゲン回避と抗アレルギー点眼が基本という骨格。乳頭反応・病型分類は対象外
   uncertainty: 薬剤（抗アレルギー点眼薬）について、国内での承認・保険適用の確認状況：未確認。春季カタルやアトピー性角結膜炎など重症型の詳細は本カードに含めていない。
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)'
@@ -354,6 +360,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
 - id: EY-011
   domain: EY
   subdomain: 結膜
@@ -374,7 +383,7 @@
     source_license: © American Academy of Ophthalmology / Elsevier
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：CDC 結膜炎ページ群（GOV_US）。裏づける部分：膿性〜粘液膿性の眼脂と局所抗菌薬の骨格。淋菌性の重症像は対象外
   uncertainty: 薬剤（局所抗菌薬）について、国内での承認・保険適用の確認状況：未確認。起炎菌の内訳（黄色ブドウ球菌、肺炎球菌、インフルエンザ菌など）の頻度は本カードに含めていない。
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)'
@@ -389,6 +398,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
 - id: EY-012
   domain: EY
   subdomain: 結膜
@@ -409,7 +421,7 @@
     source_license: © American Academy of Ophthalmology / Elsevier
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：CDC 結膜炎ページ群＋性感染症ガイドライン（GOV_US）。裏づける部分：全身の抗菌薬治療と性パートナーの評価が必要という骨格。成人／新生児の所見対比は対象外
   uncertainty: 薬剤（全身投与の抗菌薬）について、国内での承認・保険適用の確認状況：未確認。トラコーマ（反復感染による瘢痕性病変）としての側面は本カードに含めていない。
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)'
@@ -424,6 +436,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
 - id: EY-013
   domain: EY
   subdomain: 結膜
@@ -444,7 +459,7 @@
     source_license: © American Academy of Ophthalmology / Elsevier
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：CDC 結膜炎ページ群（GOV_US）。裏づける部分：眼脂の性状とかゆみによる鑑別の骨格。濾胞反応・耳前リンパ節腫脹・樹枝状病変などの所見レベルの対応は対象外
   uncertainty: 鑑別の要点はガイドラインの病型別所見対照表に基づく。迅速抗原検査や PCR などの検査の感度・特異度の数値は本カードに含めていない。
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)'
@@ -459,6 +474,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
 - id: EY-014
   domain: EY
   subdomain: 角膜
@@ -654,7 +672,7 @@
     source_license: © Wolters Kluwer（CC 表示なし）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：MedlinePlus Genetics『Keratoconus』（GOV_US）。裏づける部分：角膜の菲薄化と円錐状突出という病態の骨格。診断に必須の3所見はコンセンサス固有。第2版刊行の申し送りつき
   uncertainty: 出題項目に含まれる角膜上皮びらんと Herbert 小窩については、本カードの出典（円錐角膜の国際コンセンサス）では確認できず含めていない。Herbert 小窩はトラコーマの輪部所見である。上皮びらんを主症状とする疾患群は EY-020 の出典（IC3D 第3版、SRC-1262）が扱っている。コンセンサスには後継の第2版が存在する可能性があり、その公表状況は未確認である。
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
@@ -669,6 +687,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
 - id: EY-020
   domain: EY
   subdomain: 角膜
@@ -688,7 +709,7 @@
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10906208/
     source_license: © Wolters Kluwer（PMC 収載版で CC 表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 個別のジストロフィの遺伝子・変異の網羅的な列挙は行わず、分類の枠組みと代表例に限定した。角膜変性（加齢や炎症など二次性の変化）の個別病型は出典の対象外である。
   curriculum:
@@ -704,6 +725,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1262 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: EY-021
   domain: EY
   subdomain: 角膜
@@ -794,7 +818,7 @@
     source_license: © Nature Portfolio (Springer Nature)
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：NEI『Cataracts』（GOV_US）＋現出典抄録（抄録レコードの部分は使わない）。裏づける部分：失明の主因という位置づけは抄録、部位による3分類と原因の列挙は NEI が定性的に支持
   uncertainty: 定義（水晶体の進行性混濁）と「失明原因の首位」という位置づけは要約で確認した。分類と原因の詳細は購読制の本文を本調査で逐語確認できておらず、一般的な枠組みの範囲に留めたため、取り込み側での本文確認が望ましい。薬剤（副腎皮質ステロイド）は原因として挙げたもので、本カードでは国内の承認・保険適用の対象ではない。
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-493 (id: JlvnmN4)'
@@ -809,6 +833,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
 - id: EY-024
   domain: EY
   subdomain: 水晶体
@@ -829,7 +856,7 @@
     source_license: © Nature Portfolio (Springer Nature)
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：NEI『Cataracts』（GOV_US）。裏づける部分：症状と検査による評価、日常生活への支障で手術を判断する骨格。細隙灯による部位・程度の確認は範囲外
   uncertainty: 診断手順の詳細は購読制の本文を本調査で逐語確認できておらず、標準的な枠組みの範囲に留めたため、取り込み側での本文確認が望ましい。混濁の程度分類（LOCS など）の詳細は含めていない。
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-493 (id: JlvnmN4)'
@@ -844,6 +871,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
 - id: EY-025
   domain: EY
   subdomain: 水晶体
@@ -864,7 +894,7 @@
     source_license: © Nature Portfolio (Springer Nature)
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：現出典（Lam 2015）の抄録レコード＋NEI『Cataracts』（抄録レコードの部分は使わない）。裏づける部分：「治療は手術のみ」「超音波乳化吸引が標準」は抄録に明記。適応の判断基準は NEI が支持
   uncertainty: 術式の詳細と合併症は購読制の本文を本調査で逐語確認できておらず、標準的な枠組みの範囲に留めたため、取り込み側での本文確認が望ましい。周術期の点眼薬には触れていないため、薬剤の承認・保険適用の注記は付けていない。
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-493 (id: JlvnmN4)'
@@ -879,6 +909,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
 - id: EY-026
   domain: EY
   subdomain: 角膜
@@ -1004,7 +1037,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：Chou R, Selph S, Blazina I, et al. Screening for Glaucoma in Adults: A Systematic Review for the U.S. Preventive Services Task Force. Evidence Synthesis No. 214. Rockville (MD): Agency for Healthcare Research and Quality (US); 2022 May. AHRQ Publication No. 21-05286-EF-1.（NCBI Bookshelf: NBK581087）（Bookshelf の public domain 表示は未目視。目視確認後に主出典の置き換えを検討）（https://www.ncbi.nlm.nih.gov/books/NBK581087/）。裏づける部分：現出典（JAMA 版）と同一の AHRQ エビデンスレビュー本体。緑内障の診断精度の統合…'
   uncertainty: 数値は抄録で確認した。対象は原発開放隅角緑内障のスクリーニング文脈であり、臨床診断の場面とは母集団が異なる。
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-494 (id: JlvnmN8)'
@@ -1019,6 +1052,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
 - id: EY-030
   domain: EY
   subdomain: 緑内障の治療
@@ -1284,7 +1320,7 @@
     source_license: CC表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：NEI『Amblyopia (Lazy Eye)』（GOV_US）。裏づける部分：定義、原因による分類（屈折性・斜視性・遮断性）、屈折矯正→遮閉／アトロピンの骨格。中等度で1日2時間遮閉という具体は PPP 固有
   uncertainty: 定義・分類・治療の要点はいずれもガイドライン本文で確認した。視力の範囲（20/40〜20/80）と遮閉時間（1日2時間）は本文の要点表の記載に基づく。本ガイドラインは米国の診療を前提としており、日本の診療実態との差異は未確認である。アトロピンは薬剤名にあたるため注記する。弱視治療を目的としたアトロピン点眼の国内の承認・保険適用は未確認である。デジタル治療薬の国内の承認状況も未確認である。
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
@@ -1299,6 +1335,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
 - id: EY-043
   domain: EY
   subdomain: 色覚異常の分類・遺伝と検査
@@ -1389,7 +1428,7 @@
     source_license: CC表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：NEI・MedlinePlus の斜視ページ（GOV_US）。裏づける部分：方向による分類、顕性斜視と斜位の区別、調節性内斜視では屈折矯正が初期治療という骨格。外斜視の頻度「約1%」は確認できず
   uncertainty: 外斜視の頻度（約1%、間欠性が最多）と内斜視では屈折矯正が初期治療であることはガイドライン本文で確認した。本ガイドラインの主対象は水平斜視であり、上下斜視の詳細な分類は本文の主眼ではないため、主張文では偏位方向の分類にとどめた。ボツリヌス毒素は薬剤名にあたるため注記する。斜視に対するボツリヌス毒素注射の国内の承認・保険適用は未確認である。本ガイドラインは米国の小児診療を前提としており、日本の診療実態との差異は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】A型ボツリヌス毒素（ボトックス）の「斜視」は2015年6月26日に効能追加承認済み（成人および12歳以上の小児、厚生労働省通知 薬食審査発0626第1号）で、現行の添付文書にも収載されている
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
@@ -1407,6 +1446,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
 - id: EY-046
   domain: EY
   subdomain: 動眼神経麻痺の原因と瞳孔所見
@@ -1497,7 +1539,7 @@
     source_license: © 2023 American Academy of Ophthalmology（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：NEI の眼瞼炎解説（GOV_US）。裏づける部分：前部／後部の分類と、後部の主因がマイボーム腺の問題であること、眼瞼衛生が基本という骨格。経過や使い分けの細部は PPP 固有
   uncertainty: 内容はガイドライン全文（公式 PDF）で確認した。ガイドライン本文には局所抗菌薬等の薬剤の記載があるが、個別薬剤名は本カードに含めておらず、それらの国内の承認・保険適用は未確認である。ブドウ球菌性・脂漏性といった伝統的な細分類の臨床所見の対比はガイドラインの表に示される内容であり、本カードでは部位による分類にとどめた。
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
@@ -1512,6 +1554,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
 - id: EY-049
   domain: EY
   subdomain: 眼瞼腫瘍
@@ -1567,7 +1612,7 @@
     source_license: CC BY-NC 3.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：現出典（Tarlan 2013）の抄録レコード＋MedlinePlus『Subconjunctival hemorrhage』（抄録レコードの部分は使わない）。裏づける部分：年齢層別の危険因子と再発・持続時の評価項目は抄録、無痛と2〜3週間での吸収は MedlinePlus が支持。静脈うっ血と抗凝固・抗血小板療法の関連は本文範囲
   uncertainty: 危険因子と再発時の評価の必要性は抄録で確認し、2〜3週間での吸収と抗凝固・抗血小板療法との関連は本文で確認した。抗凝固薬・抗血小板薬はクラス名の記載にとどめ、個別薬剤の国内の承認・保険適用は未確認である（本カードはそれらの使用を推奨するものではない）。発症頻度の具体的な数値は出典の本文中で他研究の引用として示されるものであり、本カードには含めていない。
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
@@ -1582,6 +1627,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
 - id: EY-051
   domain: EY
   subdomain: 涙道狭窄・閉塞
@@ -1637,7 +1685,7 @@
     source_license: CC BY-NC
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：現出典（Leonardi 2013）の抄録レコード＋Children 2026 総説（CC BY、新規 SRC 提案）（抄録レコードの部分は使わない）。裏づける部分：治療の段階づけは現出典抄録、臨床像（男児に多い、強いかゆみ、巨大乳頭、シールド潰瘍など）は CC BY 総説（PMID 41897048）が支持
   uncertainty: 疫学的な特徴と角膜合併症、治療の段階づけは抄録と本文で確認した。本カードには薬剤のクラス名とシクロスポリン、タクロリムスという薬剤名を含むが、これらの春季カタルに対する国内の承認・保険適用は未確認である。用量や投与期間の具体的な数値は含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】シクロスポリン点眼液（パピロックミニ）は2005年に春季カタル（抗アレルギー剤が効果不十分な場合）で承認、タクロリムス点眼液（タリムス）は2008年1月25日に同適応で承認。いずれも保険適用あり
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
@@ -1655,6 +1703,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
 - id: EY-053
   domain: EY
   subdomain: 強膜炎

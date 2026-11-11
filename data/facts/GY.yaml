@@ -529,7 +529,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ16 2026-11-11）：現出典の抄録レコード＋厚労省指針・国民生活基礎調査（GOV_JP、新規 SRC 提案）（抄録レコードの部分は使わない）。裏づける部分：20〜69歳・2年ごと細胞診と受診率43.7%（2019年調査と一致）は裏づけ可。ASC-US トリアージの分岐は本文範囲。HPV 検査単独法は2024年4月に指針へ追加済み（発見4）
   uncertainty: 検診方式の記述は費用効果分析論文中の現行制度の要約に基づき、日本産科婦人科学会等のガイドライン原文そのものは本調査では直接確認していない。受診率43.7%は論文記載時点の値である。HPV 検査単独法の導入など制度変更の最新状況は未確認である。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-660 (id: Jlvnmdw)'
@@ -544,6 +544,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/18_ku_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ16 2026-11-11）。三原の承認（2026-11-11）による
 - id: GY-016
   domain: GY
   subdomain: HPVワクチン（日本）
@@ -564,7 +567,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ16 2026-11-11）：現出典の抄録レコード＋厚労省 HPV ワクチン情報ページ（GOV_JP）（抄録レコードの部分は使わない）。裏づける部分：差し控え・再開・キャッチアップの骨格は両経路で一致。接種率0.3%は本文範囲。キャッチアップは2025年3月で終了（発見4）
   uncertainty: 出典の執筆時点では定期・キャッチアップ接種に用いられていたのは2価・4価ワクチンで9価ワクチンは未導入であったが、その後9価ワクチンが導入されたとする別資料があり、対象年齢や実施期間を含む制度の最新状況は取り込み側での再確認を要する。接種率0.3%は2016年の対象年齢女性における値である。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-660 (id: Jlvnmdw)'
@@ -579,6 +582,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/18_ku_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ16 2026-11-11）。三原の承認（2026-11-11）による
 - id: GY-017
   domain: GY
   subdomain: 子宮頸癌の病期分類
@@ -599,7 +605,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ16 2026-11-11）：NCI PDQ『Cervical Cancer Treatment』（NBK66058、GOV_US、新規 SRC 提案）。裏づける部分：FIGO 2018 の IB 細分と IIIC1/IIIC2・r/p 付記を含む病期表。現出典の抄録は総論のみ。病期表の細部は登録時に目視確認
   uncertainty: 本カードは2018年改訂の FIGO 分類に基づく。日本で用いられる日産婦の進行期分類との細部の対応は本調査では確認していない。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-660 (id: Jlvnmdw)'
@@ -614,6 +620,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/18_ku_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ16 2026-11-11）。三原の承認（2026-11-11）による
 - id: GY-018
   domain: GY
   subdomain: 子宮頸癌の治療
@@ -634,7 +643,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ16 2026-11-11）：NCI PDQ『Cervical Cancer Treatment』（GOV_US、新規 SRC 提案）。裏づける部分：病期別の治療選択肢で原則の骨格を支持。C 型の術式指定や IB3〜IIA2 での CCRT 優先の細部は本文範囲
   uncertainty: 本カードは国際的な総説に基づく病期別の原則である。CCRT に用いるシスプラチン等のプラチナ製剤の国内の承認・保険適用の状況は、本調査では添付文書等で個別に確認していない。日本では子宮頸癌治療ガイドラインに基づく個別の治療選択が行われる。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-660 (id: Jlvnmdw)'
@@ -649,6 +658,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/18_ku_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ16 2026-11-11）。三原の承認（2026-11-11）による
 - id: GY-019
   domain: GY
   subdomain: 子宮内膜増殖症
@@ -879,7 +891,7 @@
     source_license: CCライセンス表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ16 2026-11-11）：MedlinePlus『Uterine fibroids』（GOV_US、新規 SRC 提案）。裏づける部分：過多月経・頻尿・超音波による確認を収載。鉄欠乏性貧血との結びつきは現出典の症例提示にも現れる
   uncertainty: 50歳までの有病割合（黒人女性で80%超、白人女性で約70%）は著者の所属機関の広報資料に示された数値で、原著本文で直接確認できなかったため主張には含めていない。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-357 (id: JlvnmBA)'
@@ -894,6 +906,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/18_ku_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ16 2026-11-11）。三原の承認（2026-11-11）による
 - id: GY-026
   domain: GY
   subdomain: 子宮筋腫
@@ -1054,7 +1069,7 @@
     source_license: CCライセンス表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ16 2026-11-11）：Rev Bras Ginecol Obstet 2014 の子宮肉腫総説（SciELO、CC BY、新規 SRC 提案）。裏づける部分：Abeler の内訳を引用（63%・21%・6%・6%）。両値記録：カードは62%・20%・6%・5.5%で丸めが異なる。原著抄録に百分率は載らない。ライセンスは登録時に SciELO ページで目視確認
   uncertainty: 組織型の割合は原著抄録ではなく、原著データを引用した複数の総説で一致を確認した。分類は2003年WHO分類に基づいており、現在の分類とは区分が異なる場合がある。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)'
@@ -1069,6 +1084,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/18_ku_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ16 2026-11-11）。三原の承認（2026-11-11）による
 - id: GY-031
   domain: GY
   subdomain: 外陰癌
@@ -1334,7 +1352,7 @@
     source_license: 出版社（Wiley）の利用条件（TDM ライセンス。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ16 2026-11-11）：NCI PDQ『Ovarian Epithelial, Fallopian Tube, and Primary Peritoneal Cancers Treatment』（GOV_US、新規 SRC 提案）。裏づける部分：共通 FIGO 分類の病期定義（IC1〜IC3、IIIA1 の細分を含む）を収載する想定。現出典は抄録未収載。病期表は登録時に目視確認
   uncertainty: 病期の定義と細分は論文の分類表から読み取り。外科治療（腫瘍減量術の意義や残存腫瘍と予後の関係）の詳細は本出典の対象外で、未確認事項に残した。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-662 (id: JlvnmeA)'
@@ -1349,6 +1367,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/18_ku_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ16 2026-11-11）。三原の承認（2026-11-11）による
 - id: GY-039
   domain: GY
   subdomain: 卵巣癌
@@ -1509,7 +1530,7 @@
     source_license: ライセンス表示を確認できず（PMC 収載、著作権表示のみ）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ16 2026-11-11）：Case Rep Obstet Gynecol 2022（CC BY、PMID 35531128、新規 SRC 提案）。裏づける部分：捻転解除による温存・超音波第一選択を支持。割合は「婦人科緊急症の2.7〜7.4%」と幅のある表現で、CMAJ の「外科的緊急症の2.7%」の切り分けは原典固有（両値記録）
   uncertainty: 頻度2.7%はレビューが引用した文献に基づく数値であり、二次資料経由の値として扱うこと。出典のライセンス表示は未確認（取り込み時に出版社ページで確認が必要）。国内のガイドラインとの整合は未確認。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)'
@@ -1524,6 +1545,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/18_ku_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ16 2026-11-11）。三原の承認（2026-11-11）による
 - id: GY-044
   domain: GY
   subdomain: 胚細胞腫瘍
@@ -1579,7 +1603,7 @@
     source_license: 出版社（Wiley）の利用条件（TDM ライセンス。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ16 2026-11-11）：NCI PDQ（GY-038 と同一候補、GOV_US）。裏づける部分：卵巣癌・卵管癌・原発性腹膜癌を共通の FIGO 分類で扱う枠組み。現出典は抄録未収載
   uncertainty: 3者を1つの分類に統合した根拠の詳細は論文本文の説明に基づいており、PubMed レコードに抄録は収載されていない。高悪性度漿液性癌の卵管起源説そのものは GY-041 の出典を参照。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-662 (id: JlvnmeA)'
@@ -1594,6 +1618,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/18_ku_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ16 2026-11-11）。三原の承認（2026-11-11）による
 - id: GY-046
   domain: GY
   subdomain: 二次性卵巣腫瘍

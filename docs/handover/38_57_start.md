@@ -81,3 +81,4 @@
 - 使わなかったもの：PubMed の抄録（先例 A を含む）、DailyMed、MedlinePlus 医学百科、ACOG・Cochrane の抄録、VA/DoD の DSM 転載部分、CMS の LCD、兵庫県サイト、JJID（SRC-2027、CC BY の原文確認待ち）、PMDA 審査報告書（利用条件の確認待ち）。
 - 残り：①識別子の補完（各バッチの候補、--online で照合後）②カードとマスターの区分の食い違い18件（reports/source_class_mismatch_20261111.md。ほかにパイロット・第1回の ES・HP・UG の86件は source_ref 自体が空の旧形式）③内容の確認（PH-010 の CPAP 基準の令和8年度改定、NG-086・095・078・225、AB-044・045、IN-012・068・084、GD-044・048 の版、VI-021 の潜伏期）④作り手への再調査依頼（BL・GR・HF・PV の15件）。
 - 外傷バッチ8を反映（置き換え3・裏づけ15・区分明確化2、2026-11-11）。TJ-032 の Chance 型を B2→B1 に訂正（承認）。TJ-004 は第5版で作り直す依頼（docs/tasks/request_TJ004_head_injury_gl5.md）。
+- パブリックドメイン調査バッチ9〜19を反映（2026-11-11、これまでと同じ基準）：区分の訂正12出典（SRC-074・088・089・097・4231 を OPEN、NC 系7出典を RESTRICTED）、置き換え1（LV-035）、裏づけ74。抄録・添付文書・難病情報センター・PMDA（利用条件の確認待ち）は使わなかった。内容の確認事項は proposals/pd_survey_20261111/content_review_20261111.md にまとめた。

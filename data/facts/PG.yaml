@@ -615,7 +615,7 @@
     url: https://doi.org/10.1111/1471-0528.70239
     source_license: Europe PMC に CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: RCOG Green-top Guideline No. 27a の第5版（2026年）の推奨本文は未照合で、本カードの主張は RCOG の更新告知で確認した範囲に限る。前置胎盤の定義（胎盤辺縁が内子宮口から20mm未満の場合を低置胎盤とする）や分娩時期の数値は2018年版（第4版）のもので、2026年版のものとして書いていない。出典のライセンス表示を確認できなかったため source_class は UNKNOWN とした
   curriculum:
@@ -631,6 +631,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/46_pn_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3174 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: PG-019
   domain: PG
   subdomain: 多胎妊娠
@@ -686,7 +689,7 @@
     source_license: © NICE（CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ18 2026-11-11）：膜性判定の超音波研究（BMC Pregnancy Childbirth 2025、CC BY、新規 SRC 提案）。裏づける部分：胎盤の数・羊膜の有無と厚さ・lambda/T サインによる判定方法の部分。第1三半期の実施、膜性でリスクが決まること、未確定時は単絨毛膜として管理することは対象外。現出典 NICE NG137 は OGL で区分枠の外
   uncertainty: NICE（英国）のガイドライン NG137 の推奨に基づく。膜性ごとの監視間隔や計画分娩の時期の詳細は本カードでは扱っていない。日本の健診体制での扱いは産婦人科診療ガイドライン産科編2026の該当 CQ との突き合わせが要るが、刊行版の文言は未照合である。
   curriculum:
     kokushi: 医学各論 Ⅰ-1-B-⑤（多胎妊娠、b）
@@ -701,6 +704,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/46_pn_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ18 2026-11-11）。三原の承認（2026-11-11）による
 - id: PG-021
   domain: PG
   subdomain: 前期破水
@@ -1249,7 +1255,7 @@
     source_license: CC BY-NC-SA 3.0 IGO
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ18 2026-11-11）：Fiji の妊婦貧血症例対照研究の抄録レコード（BMC Pregnancy Childbirth 2026、CC BY、新規 SRC 提案）（抄録レコードの部分は使わない）。裏づける部分：第1・第3三半期 Hb 11.0 g/dL 未満・第2三半期 10.5 g/dL 未満という WHO カットオフの運用値。日本の基準との整合部分は対象外。WHO 本体は CC BY-NC-SA で対象外（発見7）
   uncertainty: WHO 2024 の公式 PDF で版・ISBN・ライセンスを確認した。日本の数値は産科編の2023年版 CQ002 の系統で確認したもので、2026年版の刊行版での再照合は未了。全三半期で統一する FIGO 2025 の基準との違いは PG-037 を参照
   curriculum:
     kokushi: 医学各論 Ⅰ-1-C-②（妊娠貧血、鉄欠乏性貧血、b）
@@ -1264,6 +1270,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ18 2026-11-11）。三原の承認（2026-11-11）による
 - id: PG-037
   domain: PG
   subdomain: 妊娠貧血、鉄欠乏性貧血
@@ -1319,7 +1328,7 @@
     source_license: CC表示未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ18 2026-11-11）：ATA 2026／RCOG 2025 解説論文（Case Rep Womens Health 2026、CC BY、新規 SRC 提案）。裏づける部分：三半期別 TSH 目標の不使用、基準範囲が得られない場合の診断閾値4.0、治療目標0.5〜2.5、TSH 10超は治療適応、第1三半期はプロピルチオウラシル第一選択、レボチロキシン20〜30%増量の全変更点。解説論文であり本文の逐語確認の代替にはならない
   uncertainty: 2026年版の変更点は解説論文・ガイドライン要約で確認した範囲で、本文の逐語確認は未了。レボチロキシン・プロピルチオウラシル・チアマゾールはいずれも国内承認薬で、レボチロキシンは国内承認・保険適用がある。日本の産科診療での扱いは PG-039 を参照
   curriculum:
     kokushi: 医学各論 Ⅰ-1-C-③（甲状腺機能異常合併妊娠(亢進症・低下症)、b）
@@ -1334,6 +1343,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ18 2026-11-11）。三原の承認（2026-11-11）による
 - id: PG-039
   domain: PG
   subdomain: 甲状腺機能異常合併妊娠(亢進症・低下症)
@@ -1423,7 +1435,7 @@
     url: https://doi.org/10.1016/j.ard.2025.02.023
     source_license: CC表示未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録で確認した範囲で、個別の推奨文の逐語確認は未了。個別薬剤の国内承認・保険適用は薬剤ごとに異なり、例えばヒドロキシクロロキンは全身性エリテマトーデス・皮膚エリテマトーデスで国内承認・保険適用がある（2015年承認）。膠原病の疾患本体は第Ⅺ章が正
   curriculum:
@@ -1439,6 +1451,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3257 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: PG-042
   domain: PG
   subdomain: 膠原病と類縁疾患
@@ -1494,7 +1509,7 @@
     source_license: 学会の著作物（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ18 2026-11-11）：厚生労働省告示第226号（妊婦に対する健康診査についての望ましい基準）・実施通知（GOV_JP、新規 SRC 提案）。裏づける部分：妊娠初期検査（B型肝炎抗原・C型肝炎抗体・HIV抗体・梅毒血清反応・風疹ウイルス抗体）、HTLV-1抗体は初期〜30週の間に1回、GBS は妊娠後期の培養。CMV の啓発の部分は学会固有で、政府基準では項目に含まれないことと整合するにとどまる
   uncertainty: 学会公式のパブリックコメント原案の CQ002 で確認した範囲であり、2026年版の刊行版本文での再照合は未了。各病原体の周産期管理の詳細は PG-044〜048 と既存の感染症分野（第33・34回）のカードが正
   curriculum:
     kokushi: 医学各論 Ⅰ-1-D-①（HBV、HCV、HIV、HTLV-Ⅰ、パルボウイルスB19(伝染性紅斑)、B群連鎖球菌、TORCH症候群、b）
@@ -1509,6 +1524,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ18 2026-11-11）。三原の承認（2026-11-11）による
 - id: PG-044
   domain: PG
   subdomain: HBV、HCV、HIV、HTLV-Ⅰ、パルボウイルスB19(伝染性紅斑)、B群連鎖球菌、TORCH症候群

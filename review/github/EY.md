@@ -218,7 +218,7 @@
 
 - 条件：region: 全般／study: 国際分類（IC3D 第3版）
 - 不確実性：個別のジストロフィの遺伝子・変異の網羅的な列挙は行わず、分類の枠組みと代表例に限定した。角膜変性（加齢や炎症など二次性の変化）の個別病型は出典の対象外である。
-- 出典：Weiss JS, Rapuano CJ, Seitz B, Busin M, Kivelä TT, Bouheraoua N, Bredrup C, Nischal KK, Chawla H, Borderie V, Kenyon KR, Kim EK, Møller HU, Munier FL, Berger T, Lisch W. IC3D Classification of Corneal Dystrophies—Edition 3. Cornea. 2024;43(4):466-527　[DOI 10.1097/ICO.0000000000003420](https://doi.org/10.1097/ICO.0000000000003420)　[PMID 38359414](https://pubmed.ncbi.nlm.nih.gov/38359414/)（区分 UNKNOWN）
+- 出典：Weiss JS, Rapuano CJ, Seitz B, Busin M, Kivelä TT, Bouheraoua N, Bredrup C, Nischal KK, Chawla H, Borderie V, Kenyon KR, Kim EK, Møller HU, Munier FL, Berger T, Lisch W. IC3D Classification of Corneal Dystrophies—Edition 3. Cornea. 2024;43(4):466-527　[DOI 10.1097/ICO.0000000000003420](https://doi.org/10.1097/ICO.0000000000003420)　[PMID 38359414](https://pubmed.ncbi.nlm.nih.gov/38359414/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-020&card_id=EY-020&version=f4f2c5063a)　（版 `f4f2c5063a`）
 

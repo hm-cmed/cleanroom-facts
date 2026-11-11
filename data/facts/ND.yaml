@@ -56,7 +56,7 @@
     source_license: Elsevier（The Lancet、テキストマイニング用ライセンスのみ、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ14 2026-11-11）：CDC『Reducing Risk for Dementia』（GOV_US）。裏づける部分：「認知症のほぼ45%は予防・遅らせうる」とし典拠として Lancet Commission 2024年報告を明示。14項目という数と追加2項目（視力低下・高 LDL）の列挙は CDC ページになし
   uncertainty: 約45%は集団寄与割合に基づく理論的推定であり、個人の予防効果を保証する値ではない。数値は本文で確認した（二次資料経由ではない）。
   curriculum:
     kokushi: 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a）
@@ -74,6 +74,9 @@
   - date: '2026-10-30'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅱ-1-A-① を足した（医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a） → 医学各論 Ⅸ-4-A-①（Alzheimer型認知症、a）；医学各論 Ⅱ-1-A-①（Alzheimer型認知症、a））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ14 2026-11-11）。三原の承認（2026-11-11）による
 - id: ND-003
   domain: ND
   subdomain: Alzheimer型認知症
@@ -1046,7 +1049,7 @@
     source_license: Nature Reviews Disease Primers（CC 表示なし）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ14 2026-11-11）：MedlinePlus Genetics（GOV_US）＋現出典の抄録レコード（抄録レコードの部分は使わない）。裏づける部分：遺伝形式・原因遺伝子・臨床像は抄録、CAG 36〜39（浸透率低下）・40以上（完全浸透）は MedlinePlus Genetics。正常範囲の切り方は両値記録（発見9）
   uncertainty: CAGリピート長は発症年齢と相関するが、個人の発症年齢を正確には予測できない。発症前遺伝子診断の手順（遺伝カウンセリングを含む専門的支援体制）は本カードでは扱わず、別途一次資料での確認を要する。確立した疾患修飾療法はない（出典公表時点）。
   curriculum:
     kokushi: 医学各論 Ⅸ-4-C-①（Huntington病、b）
@@ -1061,6 +1064,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ14 2026-11-11）。三原の承認（2026-11-11）による
 - id: ND-030
   domain: ND
   subdomain: ジストニア
@@ -1574,7 +1580,7 @@
     source_license: Elsevier（テキストマイニング用ライセンスのみ）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ14 2026-11-11）：Ferullo 2024（Brain Sci、CC BY、新規 SRC 提案）。裏づける部分：Gold Coast 基準の要件（進行性運動障害、1領域で上下徴候または2領域以上で下位徴候、他疾患の除外）を全文がそのまま再掲。原典には PubMed 抄録自体がない
   uncertainty: 出典論文の抄録はPubMedに収載されていないため、基準の文言は同基準を引用した公開レビュー全文（PMC）でも照合した。改訂El Escorial基準との使い分けは診療ガイドラインによる。
   curriculum:
     kokushi: 医学各論 Ⅸ-4-G-①（筋萎縮性側索硬化症<ALS>、a）
@@ -1589,6 +1595,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ14 2026-11-11）。三原の承認（2026-11-11）による
 - id: ND-045
   domain: ND
   subdomain: 筋萎縮性側索硬化症
@@ -1856,7 +1865,7 @@
     url: https://doi.org/10.1212/WNL.0000000000001729
     source_license: Neurology（American Academy of Neurology、CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抗体陰性例に求められる追加の画像所見などの詳細は基準本文による。MOG抗体関連疾患は本基準の対象とは区別して扱われる。
   curriculum:
@@ -1872,6 +1881,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1697 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: ND-053
   domain: ND
   subdomain: 視神経脊髄炎
@@ -1997,7 +2009,7 @@
     source_license: Annals of Pharmacotherapy（SAGE、CC 表示なし）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ14 2026-11-11）：NIH GARD（GOV_US）＋現出典の抄録レコード（抄録レコードの部分は使わない）。裏づける部分：臨床像（発熱・筋強剛・自律神経症状・横紋筋融解）は GARD、治療の第一（原因薬中止・支持療法・ダントロレン／ブロモクリプチン）は抄録が支持
   uncertainty: 頻度と死亡率は抄録で確認（文献集計に基づく値）。鑑別すべきセロトニン症候群では、クローヌス（誘発性・自発性・眼球）と反射亢進が診断の中核徴候となる（Dunkley EJ, et al. QJM. 2003;96(9):635-642、Hunter Serotonin Toxicity Criteria。出典表には未収載）点が、鉛管様の筋強剛を呈する悪性症候群と異なる。ダントロレン、ブロモクリプチンはいずれも国内承認薬だが、悪性症候群への使用は適応外の場合があり保険適用の詳細は添付文書による。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ダントロレン（ダントリウム静注用・カプセル）は効能・効果に悪性症候群を明記しており、同症への使用は適応内である。一方、ブロモクリプチンには悪性症候群の国内適応はない（厚労省『重篤副作用疾患別対応マニュアル』に「我が国での適応はない」と明記）。「いずれも適応外の場合があり」という注記はダントロレンについては失効しており、2剤を分けて書き直す必要がある。
   curriculum:
     kokushi: 医学各論 Ⅸ-4-I-③（悪性症候群、a）
@@ -2015,6 +2027,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ14 2026-11-11）。三原の承認（2026-11-11）による
 - id: ND-057
   domain: ND
   subdomain: 多発性硬化症

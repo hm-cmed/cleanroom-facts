@@ -397,9 +397,9 @@
 - 条件：source: Multisociety Delphi consensus 2023／region: 国際
 - 鑑別・補足：危険因子も原因もない脂肪化はcryptogenic SLDとする
 - よくある誤解：MASLDはNAFLDと全く別の患者集団を指す
-- 出典：Rinella ME, et al. A multisociety Delphi consensus statement on new fatty liver disease nomenclature. J Hepatol 2023;79:1542-1556　[DOI 10.1016/j.jhep.2023.06.003](https://doi.org/10.1016/j.jhep.2023.06.003)　[PMID 37364790](https://pubmed.ncbi.nlm.nih.gov/37364790/)（区分 RESTRICTED）
+- 出典：EASL-EASD-EASO Clinical Practice Guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD). Diabetologia. 2024;67(11)　[DOI 10.1007/s00125-024-06196-3](https://doi.org/10.1007/s00125-024-06196-3)　[PMID 38869512](https://pubmed.ncbi.nlm.nih.gov/38869512/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-E-②（脂肪肝、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-035&card_id=LV-035&version=a89e505298)　（版 `a89e505298`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-035&card_id=LV-035&version=e07c15dd6e)　（版 `e07c15dd6e`）
 
 ### LV-036　出典照合済み・監修待ち
 
@@ -423,7 +423,7 @@
 - 出題基準：医学各論 Ⅵ-6-E-②（脂肪肝、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-288 (id: Jlvnl7c)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-037&card_id=LV-037&version=8ffe068b68)　（版 `8ffe068b68`）
 
-**[ここまでの 5 件（LV-033〜LV-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-033%E3%80%9CLV-037&cards=LV-033%20d05f33875b%0ALV-034%200cf657416e%0ALV-035%20a89e505298%0ALV-036%2081a2345320%0ALV-037%208ffe068b68)**
+**[ここまでの 5 件（LV-033〜LV-037）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LV-033%E3%80%9CLV-037&cards=LV-033%20d05f33875b%0ALV-034%200cf657416e%0ALV-035%20e07c15dd6e%0ALV-036%2081a2345320%0ALV-037%208ffe068b68)**
 
 ---
 
@@ -861,7 +861,7 @@
 - 鑑別・補足：慢性肝疾患の急性増悪（ACLF）
 - よくある誤解：急性肝不全の診断には肝性脳症が必須
 - 不確実性：low（2011年基準の原典の抄録で照合）
-- 出典：Sugawara K, Nakayama N, Mochida S. Acute liver failure in Japan: definition, classification, and prediction of the outcome. J Gastroenterol 2012;47:849-861　[DOI 10.1007/s00535-012-0624-x](https://doi.org/10.1007/s00535-012-0624-x)　[PMID 22825549](https://pubmed.ncbi.nlm.nih.gov/22825549/)（区分 UNKNOWN）
+- 出典：Sugawara K, Nakayama N, Mochida S. Acute liver failure in Japan: definition, classification, and prediction of the outcome. J Gastroenterol 2012;47:849-861　[DOI 10.1007/s00535-012-0624-x](https://doi.org/10.1007/s00535-012-0624-x)　[PMID 22825549](https://pubmed.ncbi.nlm.nih.gov/22825549/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-②（劇症肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-287 (id: Jlvnl6g)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-068&card_id=LV-068&version=285c61667b)　（版 `285c61667b`）
 
@@ -873,7 +873,7 @@
 - 鑑別・補足：劇症肝炎（従来の概念は肝炎による昏睡型に限る）
 - よくある誤解：LOHFは急性肝不全の亜急性型と同じ
 - 不確実性：low（日数は2011年基準の原典の抄録で照合）
-- 出典：Sugawara K, Nakayama N, Mochida S. Acute liver failure in Japan: definition, classification, and prediction of the outcome. J Gastroenterol 2012;47:849-861　[DOI 10.1007/s00535-012-0624-x](https://doi.org/10.1007/s00535-012-0624-x)　[PMID 22825549](https://pubmed.ncbi.nlm.nih.gov/22825549/)（区分 UNKNOWN）
+- 出典：Sugawara K, Nakayama N, Mochida S. Acute liver failure in Japan: definition, classification, and prediction of the outcome. J Gastroenterol 2012;47:849-861　[DOI 10.1007/s00535-012-0624-x](https://doi.org/10.1007/s00535-012-0624-x)　[PMID 22825549](https://pubmed.ncbi.nlm.nih.gov/22825549/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-②（劇症肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-287 (id: Jlvnl6g)；TBL-01-00-297 (id: Jlvnl6s)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-069&card_id=LV-069&version=4630e03fb9)　（版 `4630e03fb9`）
 
@@ -885,7 +885,7 @@
 - 鑑別・補足：欧米ではアセトアミノフェンが主な成因
 - よくある誤解：日本の急性肝不全はアセトアミノフェンによるものが最も多い
 - 不確実性：総説が引用した全国調査の値（二次資料経由）
-- 出典：Sugawara K, Nakayama N, Mochida S. Acute liver failure in Japan: definition, classification, and prediction of the outcome. J Gastroenterol 2012;47:849-861　[DOI 10.1007/s00535-012-0624-x](https://doi.org/10.1007/s00535-012-0624-x)　[PMID 22825549](https://pubmed.ncbi.nlm.nih.gov/22825549/)（区分 UNKNOWN）
+- 出典：Sugawara K, Nakayama N, Mochida S. Acute liver failure in Japan: definition, classification, and prediction of the outcome. J Gastroenterol 2012;47:849-861　[DOI 10.1007/s00535-012-0624-x](https://doi.org/10.1007/s00535-012-0624-x)　[PMID 22825549](https://pubmed.ncbi.nlm.nih.gov/22825549/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-②（劇症肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-287 (id: Jlvnl6g)；TBL-01-00-283 (id: Jlvnl54)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-070&card_id=LV-070&version=54cc84eaa8)　（版 `54cc84eaa8`）
 
@@ -896,7 +896,7 @@
 - 条件：region: 日本／year: 2004〜2009年調査
 - よくある誤解：劇症肝炎は発症が急なほど予後が悪い
 - 不確実性：総説が引用した全国調査の値（二次資料経由）
-- 出典：Sugawara K, Nakayama N, Mochida S. Acute liver failure in Japan: definition, classification, and prediction of the outcome. J Gastroenterol 2012;47:849-861　[DOI 10.1007/s00535-012-0624-x](https://doi.org/10.1007/s00535-012-0624-x)　[PMID 22825549](https://pubmed.ncbi.nlm.nih.gov/22825549/)（区分 UNKNOWN）
+- 出典：Sugawara K, Nakayama N, Mochida S. Acute liver failure in Japan: definition, classification, and prediction of the outcome. J Gastroenterol 2012;47:849-861　[DOI 10.1007/s00535-012-0624-x](https://doi.org/10.1007/s00535-012-0624-x)　[PMID 22825549](https://pubmed.ncbi.nlm.nih.gov/22825549/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-B-②（劇症肝炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-287 (id: Jlvnl6g)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LV-071&card_id=LV-071&version=8c893d7891)　（版 `8c893d7891`）
 

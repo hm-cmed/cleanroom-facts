@@ -230,7 +230,7 @@
 
 - 条件：region: 英国／対象: 妊婦
 - 不確実性：RCOG Green-top Guideline No. 27a の第5版（2026年）の推奨本文は未照合で、本カードの主張は RCOG の更新告知で確認した範囲に限る。前置胎盤の定義（胎盤辺縁が内子宮口から20mm未満の場合を低置胎盤とする）や分娩時期の数値は2018年版（第4版）のもので、2026年版のものとして書いていない。出典のライセンス表示を確認できなかったため source_class は UNKNOWN とした
-- 出典：Jauniaux E, Bhide A, Hussein AM, et al.; Royal College of Obstetricians and Gynaecologists. Placenta Praevia and Placenta Accreta Spectrum: Diagnosis and Management: Green-Top Guideline No. 27a. BJOG. 2026;133(10):e93-e128　[DOI 10.1111/1471-0528.70239](https://doi.org/10.1111/1471-0528.70239)　[PMID 42374711](https://pubmed.ncbi.nlm.nih.gov/42374711/)（区分 UNKNOWN）
+- 出典：Jauniaux E, Bhide A, Hussein AM, et al.; Royal College of Obstetricians and Gynaecologists. Placenta Praevia and Placenta Accreta Spectrum: Diagnosis and Management: Green-Top Guideline No. 27a. BJOG. 2026;133(10):e93-e128　[DOI 10.1111/1471-0528.70239](https://doi.org/10.1111/1471-0528.70239)　[PMID 42374711](https://pubmed.ncbi.nlm.nih.gov/42374711/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-1-B-④（前置胎盤、癒着胎盤、a）　コアカリ：PS-02-11-05 (id: JkxnuSU)；PS-02-11-03 (id: JkxnuSM)；TBL-01-00-373 (id: JlvnmCw)；TBL-01-00-374 (id: JlvnmC4)；TBL-02-10-013 (id: JlAKpqo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PG-018&card_id=PG-018&version=58411958b2)　（版 `58411958b2`）
 
@@ -528,7 +528,7 @@
 
 - 条件：region: 国際／対象: 膠原病・類縁疾患を有する妊婦・妊娠を計画する患者
 - 不確実性：抄録で確認した範囲で、個別の推奨文の逐語確認は未了。個別薬剤の国内承認・保険適用は薬剤ごとに異なり、例えばヒドロキシクロロキンは全身性エリテマトーデス・皮膚エリテマトーデスで国内承認・保険適用がある（2015年承認）。膠原病の疾患本体は第Ⅺ章が正
-- 出典：Rüegg L, et al. EULAR recommendations for use of antirheumatic drugs in reproduction, pregnancy and lactation: 2024 update. Ann Rheum Dis. 2025;84(6):910-926　[DOI 10.1016/j.ard.2025.02.023](https://doi.org/10.1016/j.ard.2025.02.023)　[PMID 40287311](https://pubmed.ncbi.nlm.nih.gov/40287311/)（区分 UNKNOWN）
+- 出典：Rüegg L, et al. EULAR recommendations for use of antirheumatic drugs in reproduction, pregnancy and lactation: 2024 update. Ann Rheum Dis. 2025;84(6):910-926　[DOI 10.1016/j.ard.2025.02.023](https://doi.org/10.1016/j.ard.2025.02.023)　[PMID 40287311](https://pubmed.ncbi.nlm.nih.gov/40287311/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-1-C-⑤（膠原病と類縁疾患、c）　コアカリ：PS-02-11-05 (id: JkxnuSU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PG-041&card_id=PG-041&version=13a02ebf68)　（版 `13a02ebf68`）
 

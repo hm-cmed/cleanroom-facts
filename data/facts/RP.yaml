@@ -129,7 +129,7 @@
     source_license: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ9 2026-11-11）：OpenStax. Anatomy and Physiology 2e. 第27章（Ovarian Cycle／Physiology of the Female Sexual System）（CC BY 4.0）＝新規SRC登録を提案（https://open.oregonstate.education/anatomy2e/chapter/physiology-female-sexual-system/）。裏づける部分：卵胞期に三級卵胞が成長してエストロゲンを分泌すること、主席卵胞の産生するエストロゲンが陽性フィードバックを起こしてLHサージを招くこと、LHサージが卵胞壁のタンパク分解を介して卵子を腹腔内へ放出させること（排卵）、残った卵胞が黄体化してプロゲステロンを産生すること、まで教科書本文に記載。数値の照合：数値なし（「次回月経の約14日前」の形での明示は未確認）
   uncertainty: StatPearlsの章にはDOIが付与されておらず、PubMedレコードにもDOIの記載がないことを確認したためDOIはnullとした。LHサージ開始から排卵までの時間などの詳細な数値は、確認した抜粋の範囲に含まれなかったため主張に含めていない。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-021 (id: JlAKppQ)'
@@ -147,6 +147,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した RP-063 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ9 2026-11-11）。三原の承認（2026-11-11）による
 - id: RP-005
   domain: RP
   subdomain: 思春期と初経
@@ -316,7 +319,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（作り手の調査バッチ9 2026-11-11）：Jain V, Munro MG, Critchley HOD. Contemporary evaluation of women and girls with abnormal uterine bleeding: FIGO Systems 1 and 2. Int J Gynaecol Obstet. 2023;162 Suppl 2:29-42（既存のSRC-811、CC BY 4.0）の本文（https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10952771/fullTextXML）。裏づける部分：PALM-COEINの全カテゴリ（PALM＝ポリープ・子宮腺筋症・子宮筋腫・悪性腫瘍と子宮内膜増殖症、COEIN＝凝固障害・排卵障害・子宮内膜性・医原性・未分類）を構造的原因と非構造的原因の区別とともに本文で列挙し、生殖年齢の非妊娠女性の異常子宮出血の分類として提示している。数値の照合：数値なし'
   uncertainty: 過多月経の定義は患者の生活の質への影響に基づくものであり、客観的な出血量（従来の80mL超など）の基準とは異なる。PALM-COEINの各項目の詳細な下位分類は本カードでは扱っていない。出典のライセンス表示は確認できなかった。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-016 (id: JlAKpo4)；TBL-02-09-021 (id: JlAKppQ)'
@@ -331,6 +334,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ9 2026-11-11）。三原の承認（2026-11-11）による
 - id: RP-010
   domain: RP
   subdomain: 過少月経
@@ -634,7 +640,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ9 2026-11-11）：MedlinePlus健康トピック「Premenstrual Syndrome」（米国国立医学図書館）（https://medlineplus.gov/premenstrualsyndrome.html）。裏づける部分：症状は月経の1〜2週間前に始まり月経開始後に消失すること、身体症状（乳房の腫脹と圧痛、腹部膨満と体重増加、頭痛など）と精神症状（易怒性、気分の変動、抑うつ、不安など）の列挙、多くの女性に少なくとも何らかの症状があること、まで記載され、月経随伴症状の総称としての骨格と周期性を裏づける。数値の照合：数値なし
   uncertainty: 出典は月経前障害に焦点を当てた総説であり、月経時そのものに随伴する症状（月経痛に伴う症状など）の全体像は扱っていない。各症状の頻度は出典では確認できなかったため主張に含めていない。出典のライセンス表示は確認できなかった。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)'
@@ -649,6 +655,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ9 2026-11-11）。三原の承認（2026-11-11）による
 - id: RP-019
   domain: RP
   subdomain: 月経異常のホルモン検査と解釈
@@ -894,7 +903,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ9 2026-11-11）：National Institute of Diabetes and Digestive and Kidney Diseases（NIDDK）「Prolactinoma」（米国国立衛生研究所）（https://www.niddk.nih.gov/health-information/endocrine-diseases/prolactinoma）。裏づける部分：プロラクチンの過剰が性ホルモンの低下を介して月経の変化（不規則・無月経）・不妊・乳汁漏出を起こすこと、プロラクチンが上がる要因として薬剤を含む原因の鑑別が要ること、治療の目標はプロラクチン値の正常化・腫瘍の縮小・月経の問題などの是正であること、ドパミン作動薬が治療の中心で「カベルゴリンはブロモクリプチンより有効で副作用が少なく優先される」と明記されていること、まで記載。数値の照合：数値なし
   uncertainty: カベルゴリンとブロモクリプチンの国内承認・保険適用（適応症の範囲を含む）は本調査では未確認である。用量や正常化率などの数値は確認した範囲を超えるため主張には含めていない。2011年のガイドラインであり、その後の改訂の有無は未確認である。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)'
@@ -909,6 +918,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ9 2026-11-11）。三原の承認（2026-11-11）による
 - id: RP-026
   domain: RP
   subdomain: 黄体機能不全
@@ -1367,7 +1379,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（作り手の調査バッチ9 2026-11-11）：CDC「Infertility: Frequently Asked Questions」（米国疾病予防管理センター）と現出典のPubMed抄録レコードの組み合わせ（抄録レコードの部分は使わない）（https://www.cdc.gov/reproductive-health/infertility-faq/?CDC_AAref_Val=https://www.cdc.gov/reproductivehealth/features/what-is-infertility/index.html）。裏づける部分：評価は系統的・迅速・費用対効果の高い進め方で頻度の高い原因から侵襲の少ない方法で全因子を同定するという原則は現出典SRC-830の抄録に明記。原因が多岐にわたること（排卵の問題、卵管の閉塞、子宮の異常、子宮内膜症などの女性側の原因、男性側の原因、原因が特定できない場合があること）はCDCの不妊FAQの原因・リスク解説と併せて大枠を裏づける。数値の照合：数値なし'
   uncertainty: 各原因が占める割合の具体的数値は、出典の抄録では確認できず（地域や対象集団によっても異なるため）、主張には数値を含めていない。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)'
@@ -1382,6 +1394,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ9 2026-11-11）。三原の承認（2026-11-11）による
 - id: RP-039
   domain: RP
   subdomain: 不妊症の評価
@@ -1402,7 +1417,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（作り手の調査バッチ9 2026-11-11）：CDC「Infertility: Frequently Asked Questions」（米国疾病予防管理センター）（https://www.cdc.gov/reproductive-health/infertility-faq/?CDC_AAref_Val=https://www.cdc.gov/reproductivehealth/features/what-is-infertility/index.html）。裏づける部分：不妊は避妊をしない性交を1年続けても妊娠しないことと定義され、35歳以上の女性は6か月の避妊なしの性交の後に評価・治療に進むこと、35歳未満は少なくとも1年試してから、35歳以上は6か月で医療機関を受診すること、40歳を超える場合はより即時の評価を検討すること、までCDCが明記。数値の照合：12か月・6か月：CDCの記載と一致'
   uncertainty: 評価開始時期の基準は米国の学会意見に基づくもので、日本の診療での運用や、不妊治療の保険適用の要件（年齢・回数など）は本調査では未確認である。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)；骨盤内臓器と腫瘍の画像診断 TBL-02-09-023 (id: JlAKppY)'
@@ -1417,6 +1432,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ9 2026-11-11）。三原の承認（2026-11-11）による
 - id: RP-040
   domain: RP
   subdomain: 甲状腺機能異常
@@ -1618,7 +1636,7 @@
     source_license: 出版社ページ・Crossref に CC ライセンスの表示なし（PMC 収載は著者原稿）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ9 2026-11-11）：CDC「About Contraception」（米国疾病予防管理センター）（https://www.cdc.gov/contraception/about/index.html）。裏づける部分：バリア法と妊孕性認識法（自然法）は使用のたびの正しい実践が必要で、方法ごとに典型使用での失敗が大きく異なることがCDCの避妊法別有効性の表示で裏づけられ、卵管手術と精管切除は「永久的（permanent）」な方法として区分されている。数値の照合：CDC表示の典型使用の失敗率（例：男性コンドーム約13/100人、妊孕性認識法2〜23/100人）は、主張の定性的な内容（完全使用と典型使用の差が大きい方法群）と矛盾しない
   uncertainty: 方法ごとの個別の妊娠率の数値は抄録に含まれず本文の表を確認していないため、主張文には定性的な表現にとどめた。外科的避妊の再疎通の可否や日本での実施状況は本出典では確認していない。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)'
@@ -1633,6 +1651,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ9 2026-11-11）。三原の承認（2026-11-11）による
 - id: RP-046
   domain: RP
   subdomain: 閉経の定義
@@ -1653,7 +1674,7 @@
     source_license: PMC 収載は著者原稿で CC ライセンスの表示なし
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ9 2026-11-11）：MedlinePlus健康トピック「Menopause」（米国国立医学図書館）と現出典（STRAW+10）のPubMed抄録レコードの組み合わせ（抄録レコードの部分は使わない）（https://medlineplus.gov/menopause.html）。裏づける部分：MedlinePlusに「月経が12か月なければ閉経に達した（You have reached menopause when you have not had a period for 12 months）」と明記され、最終月経後に12か月間月経がないことをもって遡って判定するという核心を裏づける。STRAW+10の抄録は最終月経の前後の段階と月経・内分泌マーカーによる段階判定の枠組みを裏づける。数値の照合：12か月：MedlinePlusの記載と一致
   uncertainty: 日本産科婦人科学会による閉経の定義の文言そのものは本出典では確認しておらず、STRAW+10 の枠組みに基づく記述である。若年での無月経など、ホルモン測定を要する場面の詳細は扱っていない。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)'
@@ -1671,6 +1692,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅷ-9-A（更年期障害、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ9 2026-11-11）。三原の承認（2026-11-11）による
 - id: RP-047
   domain: RP
   subdomain: 更年期の生理

@@ -18,7 +18,7 @@
     source_license: 著作権は著者・出版社に帰属（Mindsは私的利用の範囲に限ると明記）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ12 2026-11-11）：National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK). Definition & Facts for Gallstones（米国政府資料）（https://www.niddk.nih.gov/health-information/digestive-diseases/gallstones/definition-facts）。裏づける部分：胆石は米国の人口の10〜15%にみられ、大半は無症状（silent gallstones）のままで治療を要しないという骨格。数値の照合：有病率「約10%」は NIDDK の10〜15%の範囲内。有症状化率「5〜10年で約40%（年1〜3%）」は NIDDK に記載がなく裏づけられない（両値記録）。胆石症GL2021の「10年で10〜20%」（BP-054）との食い違いは既存の申し送り事項
   uncertainty: GLが引用した研究の値（二次資料経由）。日本の報告では有症状化率に15.5〜51%と幅がある。同GLは急性胆管炎0.3〜1.6%、急性胆嚢炎3.8〜12%という値も挙げるが、分母（全胆石保有者か有症状化例か）が本文から読み取れないため主張文に入れていない。胆石症GL 2021の値（10年で10〜20%）と食い違うため、人間が原典で確認する
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-299 (id: Jlvnl5M)；TBL-01-00-300 (id: Jlvnl5U)；TBL-01-00-301 (id: Jlvnl5Y)'
@@ -33,6 +33,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ12 2026-11-11）。三原の承認（2026-11-11）による
 - id: BP-002
   domain: BP
   subdomain: 胆石症・胆道感染症
@@ -123,7 +126,7 @@
     source_license: 著作権は著者・出版社に帰属（Mindsは私的利用の範囲に限ると明記）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ12 2026-11-11）：Sperna Weiland CJ, Busch CBE, Bhalla A, et al. Performance of diagnostic tools for acute cholangitis in patients with suspected biliary obstruction. J Hepatobiliary Pancreat Sci. 2022.（Europe PMC の license 表示（cc by））。裏づける部分：オランダの全国前向きコホート（胆道閉塞疑い794例）で Charcot 三徴の感度46%（95%CI 38〜56）。三徴がそろわない例が多いことの裏づけになる。数値の照合：カードの「50〜70%にしかそろわない」とは指標（感度 vs そろい率）と母集団が異なる別の値であり、両値を記録する。Murphy徴候の感度50〜70%・特異度79〜96%は自由な出典で確認できなかった
   uncertainty: GLが引用した研究の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-301 (id: Jlvnl5Y)；TBL-01-00-300 (id: Jlvnl5U)；TBL-02-07-017 (id: JlAKpkM)；TBL-02-07-023 (id: JlAKpks)'
@@ -138,6 +141,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ12 2026-11-11）。三原の承認（2026-11-11）による
 - id: BP-005
   domain: BP
   subdomain: 胆石症・胆道感染症
@@ -436,7 +442,7 @@
     source_license: 学会・出版社の著作物（非CC）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ12 2026-11-11）：Leppäniemi A, Tolonen M, Tarasconi A, et al. 2019 WSES guidelines for the management of severe acute pancreatitis. World J Emerg Surg. 2019;14:27.（Europe PMC の license 表示（cc by））。裏づける部分：WSES 全文：診断には (i) 疾患に一致する腹痛、(ii) 血中アミラーゼ/リパーゼが基準値上限の3倍を超える、(iii) 画像上の特徴的所見、の3つのうち2つ以上を要する（改訂アトランタ分類）。「3項目のうち2項目」という診断の組み立ては日本の診断基準と一致する。数値の照合：相違を両記録：日本の基準は膵酵素の「上昇」に3倍の閾値がなく、他の膵疾患と急性腹症の除外および慢性膵炎の急性増悪の包含を含む（WSES/アトランタにはない要素）。主張は変えていない
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)；TBL-02-07-017 (id: JlAKpkM)'
@@ -451,6 +457,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ12 2026-11-11）。三原の承認（2026-11-11）による
 - id: BP-014
   domain: BP
   subdomain: 急性膵炎
@@ -576,7 +585,7 @@
     source_license: 学会・出版社の著作物（非CC）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ12 2026-11-11）：Leppäniemi A, et al. 2019 WSES guidelines for the management of severe acute pancreatitis. World J Emerg Surg. 2019;14:27.（Europe PMC の license 表示（cc by））。裏づける部分：WSES 全文：早期輸液蘇生が適応で等張晶質液が望ましい（グレード1B）。血行動態の頻回な再評価に基づいて投与し、過剰輸液は有害。乳酸リンゲルは抗炎症作用の可能性はあるが生理食塩液に対する優位の RCT 根拠は弱い。数値の照合：数値なし
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)'
@@ -591,6 +600,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ12 2026-11-11）。三原の承認（2026-11-11）による
 - id: BP-018
   domain: BP
   subdomain: 急性膵炎
@@ -611,7 +623,7 @@
     source_license: 学会・出版社の著作物（非CC）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ12 2026-11-11）：Leppäniemi A, et al. 2019 WSES guidelines for the management of severe acute pancreatitis. World J Emerg Surg. 2019;14:27.（Europe PMC の license 表示（cc by））。裏づける部分：WSES 全文：「ルーチンの予防的抗菌薬は急性膵炎の全患者にはもはや推奨されない（グレード1A）」。予防的投与で予後・感染性合併症の改善が証明されていないという議論の要約もカード後半と整合する。数値の照合：数値なし
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)'
@@ -626,6 +638,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ12 2026-11-11）。三原の承認（2026-11-11）による
 - id: BP-019
   domain: BP
   subdomain: 急性膵炎
@@ -646,7 +661,7 @@
     source_license: 学会・出版社の著作物（非CC）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ12 2026-11-11）：Leppäniemi A, et al. 2019 WSES guidelines for the management of severe acute pancreatitis. World J Emerg Surg. 2019;14:27.（Europe PMC の license 表示（cc by））。裏づける部分：WSES 全文：「経腸栄養は腸管機能不全と感染性合併症の予防のために推奨される（グレード1A）」。経静脈栄養は避けるべきとされる。数値の照合：「入院後48時間以内に少量からでも開始」という開始時点と量の具体は日本のガイドラインの文面であり、WSES のステートメントにはない（方向性のみ裏づけ）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)；TBL-02-07-032 (id: JlAKplM)'
@@ -661,6 +676,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ12 2026-11-11）。三原の承認（2026-11-11）による
 - id: BP-020
   domain: BP
   subdomain: 急性膵炎
@@ -681,7 +699,7 @@
     source_license: 学会・出版社の著作物（非CC）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ12 2026-11-11）：Leppäniemi A, et al. 2019 WSES guidelines for the management of severe acute pancreatitis. World J Emerg Surg. 2019;14:27.（Europe PMC の license 表示（cc by））。裏づける部分：WSES 全文のステートメント：急性胆石性膵炎に胆管炎を合併する場合は ERCP の適応（グレード1B）、総胆管閉塞がある場合は適応（グレード2B）、ルーチンの ERCP は適応でない（グレード1A）。数値の照合：数値なし
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)；TBL-01-00-299 (id: Jlvnl5M)；TBL-02-07-033 (id: JlAKplQ)'
@@ -696,6 +714,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ12 2026-11-11）。三原の承認（2026-11-11）による
 - id: BP-021
   domain: BP
   subdomain: 急性膵炎
@@ -716,7 +737,7 @@
     source_license: 学会・出版社の著作物（非CC）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ12 2026-11-11）：Leppäniemi A, et al. 2019 WSES guidelines for the management of severe acute pancreatitis. World J Emerg Surg. 2019;14:27.（Europe PMC の license 表示（cc by））。裏づける部分：WSES 全文：軽症の急性胆石性膵炎では入院中の胆嚢摘出術を推奨（グレード1A）。膵周囲液体貯留を伴う場合は、貯留が消退するまで胆嚢摘出を延期する。数値の照合：重症例の「発症から4〜6週以降」という週数は WSES に明示がなく（延期の原則のみ）、裏づけの対象外
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)；TBL-01-00-299 (id: Jlvnl5M)'
@@ -731,6 +752,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ12 2026-11-11）。三原の承認（2026-11-11）による
 - id: BP-022
   domain: BP
   subdomain: 急性膵炎
@@ -751,7 +775,7 @@
     source_license: 学会・出版社の著作物（非CC）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ12 2026-11-11）：Leppäniemi A, et al. 2019 WSES guidelines for the management of severe acute pancreatitis. World J Emerg Surg. 2019;14:27.（Europe PMC の license 表示（cc by））。裏づける部分：WSES 全文：状態が悪化する感染性壊死では経皮的または内視鏡的ドレナージから始めるステップアップ・アプローチが適応。手術介入を発症後4週を超えて延期すると死亡率が低い（グレード2B）。被包化した壊死（WON）への介入が前提とされる。数値の照合：4週：WSES の「発症後4週超への延期」と整合（カードの「通常は発症4週以降」と対応）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-305 (id: Jlvnl7k)；TBL-02-07-033 (id: JlAKplQ)'
@@ -766,6 +790,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ12 2026-11-11）。三原の承認（2026-11-11）による
 - id: BP-023
   domain: BP
   subdomain: 急性膵炎
@@ -853,9 +880,9 @@
     pmid: null
     pmcid: PMC9522716
     url: https://link.springer.com/article/10.1007/s00535-022-01911-6
-    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 感度・特異度はGLが引用したメタ解析の値（二次資料経由）
   curriculum:
@@ -871,6 +898,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-088 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-026
   domain: BP
   subdomain: 慢性膵炎
@@ -888,9 +918,9 @@
     pmid: null
     pmcid: PMC9522716
     url: https://link.springer.com/article/10.1007/s00535-022-01911-6
-    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 早期慢性膵炎の診断項目の詳細はGL本文で確認が必要
   curriculum:
@@ -906,6 +936,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-088 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-027
   domain: BP
   subdomain: 慢性膵炎
@@ -923,9 +956,9 @@
     pmid: null
     pmcid: PMC9522716
     url: https://link.springer.com/article/10.1007/s00535-022-01911-6
-    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: GLが引用した研究の値（二次資料経由）
   curriculum:
@@ -941,6 +974,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-088 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-028
   domain: BP
   subdomain: 慢性膵炎
@@ -958,9 +994,9 @@
     pmid: null
     pmcid: PMC9522716
     url: https://link.springer.com/article/10.1007/s00535-022-01911-6
-    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: null
   curriculum:
@@ -976,6 +1012,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-088 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-029
   domain: BP
   subdomain: 慢性膵炎
@@ -993,9 +1032,9 @@
     pmid: null
     pmcid: PMC9522716
     url: https://link.springer.com/article/10.1007/s00535-022-01911-6
-    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: null
   curriculum:
@@ -1011,6 +1050,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-088 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-030
   domain: BP
   subdomain: 慢性膵炎
@@ -1028,9 +1070,9 @@
     pmid: null
     pmcid: PMC9522716
     url: https://link.springer.com/article/10.1007/s00535-022-01911-6
-    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: null
   curriculum:
@@ -1046,6 +1088,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-088 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-031
   domain: BP
   subdomain: 慢性膵炎
@@ -1063,9 +1108,9 @@
     pmid: null
     pmcid: PMC9522716
     url: https://link.springer.com/article/10.1007/s00535-022-01911-6
-    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: null
   curriculum:
@@ -1081,6 +1126,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-088 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-032
   domain: BP
   subdomain: 慢性膵炎
@@ -1098,9 +1146,9 @@
     pmid: null
     pmcid: PMC9522716
     url: https://link.springer.com/article/10.1007/s00535-022-01911-6
-    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 使用率はGLが引用した調査の値（二次資料経由）
   curriculum:
@@ -1116,6 +1164,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-088 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-033
   domain: BP
   subdomain: 慢性膵炎
@@ -1133,9 +1184,9 @@
     pmid: null
     pmcid: PMC9522716
     url: https://link.springer.com/article/10.1007/s00535-022-01911-6
-    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: null
   curriculum:
@@ -1151,6 +1202,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-088 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-034
   domain: BP
   subdomain: 慢性膵炎
@@ -1168,9 +1222,9 @@
     pmid: null
     pmcid: PMC9522716
     url: https://link.springer.com/article/10.1007/s00535-022-01911-6
-    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: GLが引用した研究の値（二次資料経由）
   curriculum:
@@ -1186,6 +1240,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-088 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-035
   domain: BP
   subdomain: 自己免疫性膵炎・IgG4関連疾患
@@ -1340,9 +1397,9 @@
     pmid: null
     pmcid: PMC10066137
     url: https://link.springer.com/10.1007/s10147-023-02317-x
-    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: null
   curriculum:
@@ -1358,6 +1415,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-089 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-040
   domain: BP
   subdomain: 膵癌
@@ -1375,9 +1435,9 @@
     pmid: null
     pmcid: PMC10066137
     url: https://link.springer.com/10.1007/s10147-023-02317-x
-    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: null
   curriculum:
@@ -1393,6 +1453,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-089 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-041
   domain: BP
   subdomain: 膵癌
@@ -1410,9 +1473,9 @@
     pmid: null
     pmcid: PMC10066137
     url: https://link.springer.com/10.1007/s10147-023-02317-x
-    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: null
   curriculum:
@@ -1428,6 +1491,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-089 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-042
   domain: BP
   subdomain: 膵癌
@@ -1445,9 +1511,9 @@
     pmid: null
     pmcid: PMC10066137
     url: https://link.springer.com/10.1007/s10147-023-02317-x
-    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: null
   curriculum:
@@ -1463,6 +1529,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-089 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-043
   domain: BP
   subdomain: 膵癌
@@ -1480,9 +1549,9 @@
     pmid: null
     pmcid: PMC10066137
     url: https://link.springer.com/10.1007/s10147-023-02317-x
-    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: null
   curriculum:
@@ -1498,6 +1567,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-089 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-044
   domain: BP
   subdomain: 膵癌
@@ -1515,9 +1587,9 @@
     pmid: null
     pmcid: PMC10066137
     url: https://link.springer.com/10.1007/s10147-023-02317-x
-    source_license: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: null
   curriculum:
@@ -1533,6 +1605,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-089 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-045
   domain: BP
   subdomain: 膵癌
@@ -1845,9 +1920,9 @@
     pmid: null
     pmcid: PMC10423145
     url: https://link.springer.com/article/10.1007/s00535-023-02014-6
-    source_license: Springer OA（記事ページでライセンス表示を確認できず。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: GL本文のBQ1-2の要旨。石の種類別の頻度は今回未取得
   curriculum:
@@ -1863,6 +1938,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-097 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-054
   domain: BP
   subdomain: 胆石症
@@ -1880,9 +1958,9 @@
     pmid: null
     pmcid: PMC10423145
     url: https://link.springer.com/article/10.1007/s00535-023-02014-6
-    source_license: Springer OA（記事ページでライセンス表示を確認できず。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: GLが引用した研究の値（二次資料経由）。BP-001の値と食い違うため、人間が原典で確認する
   curriculum:
@@ -1898,6 +1976,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-097 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-055
   domain: BP
   subdomain: 胆石症
@@ -1915,9 +1996,9 @@
     pmid: null
     pmcid: PMC10423145
     url: https://link.springer.com/article/10.1007/s00535-023-02014-6
-    source_license: Springer OA（記事ページでライセンス表示を確認できず。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: GLが引用した研究の値（二次資料経由）。観察期間はGL本文で確認する
   curriculum:
@@ -1933,6 +2014,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-097 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-056
   domain: BP
   subdomain: 胆石症
@@ -1950,9 +2034,9 @@
     pmid: null
     pmcid: PMC10423145
     url: https://link.springer.com/article/10.1007/s00535-023-02014-6
-    source_license: Springer OA（記事ページでライセンス表示を確認できず。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: null
   curriculum:
@@ -1968,6 +2052,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-097 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-057
   domain: BP
   subdomain: 胆石症
@@ -1985,9 +2072,9 @@
     pmid: null
     pmcid: PMC10423145
     url: https://link.springer.com/article/10.1007/s00535-023-02014-6
-    source_license: Springer OA（記事ページでライセンス表示を確認できず。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 胆嚢癌患者の胆石保有率はGL本文の中で69〜96%と40〜70%の2つの値が示されており不整合があるため主張文に入れていない
   curriculum:
@@ -2003,6 +2090,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-097 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-058
   domain: BP
   subdomain: 胆石症
@@ -2020,9 +2110,9 @@
     pmid: null
     pmcid: PMC10423145
     url: https://link.springer.com/article/10.1007/s00535-023-02014-6
-    source_license: Springer OA（記事ページでライセンス表示を確認できず。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 感度・特異度はGLが引用したメタ解析の値（二次資料経由）
   curriculum:
@@ -2038,6 +2128,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-097 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-059
   domain: BP
   subdomain: 胆石症
@@ -2055,9 +2148,9 @@
     pmid: null
     pmcid: PMC10423145
     url: https://link.springer.com/article/10.1007/s00535-023-02014-6
-    source_license: Springer OA（記事ページでライセンス表示を確認できず。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: null
   curriculum:
@@ -2073,6 +2166,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-097 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-060
   domain: BP
   subdomain: 胆石症
@@ -2090,9 +2186,9 @@
     pmid: null
     pmcid: PMC10423145
     url: https://link.springer.com/article/10.1007/s00535-023-02014-6
-    source_license: Springer OA（記事ページでライセンス表示を確認できず。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: null
   curriculum:
@@ -2108,6 +2204,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-097 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-061
   domain: BP
   subdomain: 胆石症
@@ -2125,9 +2224,9 @@
     pmid: null
     pmcid: PMC10423145
     url: https://link.springer.com/article/10.1007/s00535-023-02014-6
-    source_license: Springer OA（記事ページでライセンス表示を確認できず。Crossrefで確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: GLのコラムの記述で、推奨文ではない
   curriculum:
@@ -2143,6 +2242,9 @@
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-097 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-062
   domain: BP
   subdomain: 胆道癌
@@ -2491,9 +2593,9 @@
     pmid: '34918177'
     pmcid: null
     url: https://doi.org/10.1007/s00330-021-08384-w
-    source_license: CC表示なし（学会合同ガイドライン・購読誌）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: RESTRICTED
+    source_class: OPEN
     corroboration: null
   uncertainty: 日本の胆石症診療ガイドライン2021ではポリープの扱いが限定的なため、本カード群は欧州合同ガイドラインに基づく。国内の運用とは異なる場合がある。
   curriculum:
@@ -2509,6 +2611,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-4231 の区分の訂正にあわせて provenance.source_class を RESTRICTED から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-072
   domain: BP
   subdomain: 胆囊ポリープ
@@ -2526,9 +2631,9 @@
     pmid: '34918177'
     pmcid: null
     url: https://doi.org/10.1007/s00330-021-08384-w
-    source_license: CC表示なし（学会合同ガイドライン・購読誌）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: RESTRICTED
+    source_class: OPEN
     corroboration: null
   uncertainty: リスク因子に「アジア人」が含まれる点は、日本の診療でも重要である。
   curriculum:
@@ -2544,6 +2649,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-4231 の区分の訂正にあわせて provenance.source_class を RESTRICTED から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-073
   domain: BP
   subdomain: 胆囊ポリープ
@@ -2561,9 +2669,9 @@
     pmid: '34918177'
     pmcid: null
     url: https://doi.org/10.1007/s00330-021-08384-w
-    source_license: CC表示なし（学会合同ガイドライン・購読誌）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: RESTRICTED
+    source_class: OPEN
     corroboration: null
   uncertainty: フォロー間隔と終了条件は同ガイドラインの推奨どおり。国内の診療ガイドラインでの扱いが限定的な点は BP-071 を参照。
   curriculum:
@@ -2579,6 +2687,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-4231 の区分の訂正にあわせて provenance.source_class を RESTRICTED から OPEN にした。三原の承認（2026-11-11）による
 - id: BP-074
   domain: BP
   subdomain: 胆囊腺筋腫症

@@ -18,7 +18,7 @@
     source_license: AHA/ASAガイドライン（Stroke誌、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ15 2026-11-11）：PMID 40392372（CC BY、新規 SRC 提案）。裏づける部分：抄録に「高血圧性出血は深部構造、特に大脳基底核・内嚢・視床・脳幹・小脳に生じる」と明記。現出典ガイドライン（SRC-1562）は抄録未収載
   uncertainty: 部位の列挙はガイドライン本文の記載に基づく。各部位の頻度の数値は本カードでは扱わない。
   curriculum:
     kokushi: 医学各論 Ⅸ-1-A-①（高血圧性脳出血、a）
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ15 2026-11-11）。三原の承認（2026-11-11）による
 - id: ST-002
   domain: ST
   subdomain: 脳内出血
@@ -339,7 +342,7 @@
     source_license: AHA/ASAガイドライン（Stroke誌、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ15 2026-11-11）：PMID 42927341（CC BY、新規 SRC 提案）。裏づける部分：全文で、CAA の再発性脳葉出血等は高い出血脆弱性を示し抗凝固が増幅しうること。「衡量して慎重に判断」の枠組み自体はガイドラインの文言
   uncertainty: ガイドラインの記載に基づく一般論であり、個別の再発率の数値は本カードでは扱わない。抗血栓薬の国内承認・保険適用は薬剤ごとに添付文書での確認が必要である。
   curriculum:
     kokushi: 医学各論 Ⅸ-1-A-②（アミロイドアンギオパチー、b）
@@ -354,6 +357,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ15 2026-11-11）。三原の承認（2026-11-11）による
 - id: ST-011
   domain: ST
   subdomain: くも膜下出血
@@ -374,7 +380,7 @@
     source_license: AHA/ASAガイドライン（Stroke誌、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ15 2026-11-11）：MedlinePlus『Subarachnoid hemorrhage』（GOV_US、新規 SRC 提案）。裏づける部分：雷鳴頭痛（人生最悪の頭痛）、嘔吐、意識低下、痙攣発作が症状の節に明記
   uncertainty: ガイドラインの臨床像の記載に基づく。
   curriculum:
     kokushi: 医学各論 Ⅸ-1-B-①（脳動脈瘤、解離性脳動脈瘤、a）
@@ -389,6 +395,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ15 2026-11-11）。三原の承認（2026-11-11）による
 - id: ST-012
   domain: ST
   subdomain: くも膜下出血
@@ -444,7 +453,7 @@
     source_license: AHA/ASAガイドライン（Stroke誌、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ15 2026-11-11）：PMID 42587568（CC BY、新規 SRC 提案）。裏づける部分：modified Fisher が脳室内出血の有無で分類し血管攣縮リスクと関わること。各グレードの定義はガイドラインの表の内容
   uncertainty: 分類の構成はガイドラインの表から読み取り。各グレードの定義の詳細は表による。
   curriculum:
     kokushi: 医学各論 Ⅸ-1-B-①（脳動脈瘤、解離性脳動脈瘤、a）
@@ -459,6 +468,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ15 2026-11-11）。三原の承認（2026-11-11）による
 - id: ST-014
   domain: ST
   subdomain: くも膜下出血
@@ -797,7 +809,7 @@
     source_license: AHA/ASAガイドライン（出版社著作物、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ15 2026-11-11）：PMID 42394924（CC BY、新規 SRC 提案）。裏づける部分：抄録に「心房細動は心原性脳塞栓症の主要な原因」。突発発症・重症化の臨床像は候補にない。現出典ガイドライン（SRC-1585）は抄録未収載
   uncertainty: 心房細動の抗凝固療法そのものの詳細は循環器領域のカードに譲る。
   curriculum:
     kokushi: 医学各論 Ⅸ-1-C-①（心原性脳塞栓症、a）
@@ -812,6 +824,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ15 2026-11-11）。三原の承認（2026-11-11）による
 - id: ST-024
   domain: ST
   subdomain: 脳梗塞
