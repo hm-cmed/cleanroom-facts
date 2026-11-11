@@ -58,9 +58,9 @@
 
 - 条件：region: 国際／対象: 未治療のIII期またはIV期古典的Hodgkinリンパ腫患者
 - 不確実性：ブレンツキシマブ ベドチンは国内で2014年1月に再発・難治性のCD30陽性Hodgkinリンパ腫等で承認され、2018年9月に未治療のCD30陽性Hodgkinリンパ腫へのAVD併用の適応追加があった（製薬企業のプレスリリースで確認、出典リサーチメモによる）。
-- 出典：Ansell SM, Radford J, Connors JM, et al. Overall Survival with Brentuximab Vedotin in Stage III or IV Hodgkin's Lymphoma. N Engl J Med. 2022;387(4):310-320.　[DOI 10.1056/NEJMoa2206125](https://doi.org/10.1056/NEJMoa2206125)　[PMID 35830649](https://pubmed.ncbi.nlm.nih.gov/35830649/)（区分 RESTRICTED）
+- 出典：Barefah AS. Advances in First-Line Treatment of Classical Hodgkin Lymphoma in the Era of Novel Agents. J Clin Med. 2026　[DOI 10.3390/jcm15135075](https://doi.org/10.3390/jcm15135075)　[PMID 42452536](https://pubmed.ncbi.nlm.nih.gov/42452536/)（区分 OPEN）
 - 出題基準：医学各論 Ⅶ-3-B（Hodgkinリンパ腫、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-628 (id: Jlvnmas)；TBL-02-01-012 (id: JlAKpWM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LY-005&card_id=LY-005&version=60fab162b1)　（版 `60fab162b1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LY-005&card_id=LY-005&version=fc85cdf695)　（版 `fc85cdf695`）
 
 ### LY-006　下書き（出典の照合前）
 
@@ -68,11 +68,11 @@
 
 - 条件：region: 国際／対象: 12歳以上の未治療III期またはIV期古典的Hodgkinリンパ腫患者
 - 不確実性：ニボルマブは国内で2016年12月に再発・難治性の古典的Hodgkinリンパ腫で承認された（製薬企業のプレスリリースで確認、出典リサーチメモによる）。未治療の一次治療としてのニボルマブ併用（N+AVD）の国内承認は未確認である。
-- 出典：Herrera AF, LeBlanc M, Castellino SM, et al. Nivolumab+AVD in Advanced-Stage Classic Hodgkin's Lymphoma. N Engl J Med. 2024;391(15):1379-1389.　[DOI 10.1056/NEJMoa2405888](https://doi.org/10.1056/NEJMoa2405888)　[PMID 39413375](https://pubmed.ncbi.nlm.nih.gov/39413375/)（区分 RESTRICTED）
+- 出典：Barefah AS. Advances in First-Line Treatment of Classical Hodgkin Lymphoma in the Era of Novel Agents. J Clin Med. 2026　[DOI 10.3390/jcm15135075](https://doi.org/10.3390/jcm15135075)　[PMID 42452536](https://pubmed.ncbi.nlm.nih.gov/42452536/)（区分 OPEN）
 - 出題基準：医学各論 Ⅶ-3-B（Hodgkinリンパ腫、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；TBL-01-00-628 (id: Jlvnmas)；TBL-02-01-012 (id: JlAKpWM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LY-006&card_id=LY-006&version=8536231e15)　（版 `8536231e15`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LY-006&card_id=LY-006&version=9358c9d50b)　（版 `9358c9d50b`）
 
-**[ここまでの 3 件（LY-004〜LY-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LY-004%E3%80%9CLY-006&cards=LY-004%20c4be863deb%0ALY-005%2060fab162b1%0ALY-006%208536231e15)**
+**[ここまでの 3 件（LY-004〜LY-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LY-004%E3%80%9CLY-006&cards=LY-004%20c4be863deb%0ALY-005%20fc85cdf695%0ALY-006%209358c9d50b)**
 
 ---
 
@@ -94,11 +94,11 @@
 
 - 条件：region: 国際／対象: 慢性リンパ性白血病／小リンパ球性リンパ腫患者
 - 不確実性：診断基準の数値は出典の本文照合が前提であり、主張には入れていない。
-- 出典：Eichhorst B, Robak T, Montserrat E, et al. Chronic lymphocytic leukaemia: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2021;32(1):23-33.　[DOI 10.1016/j.annonc.2020.09.019](https://doi.org/10.1016/j.annonc.2020.09.019)　[PMID 33091559](https://pubmed.ncbi.nlm.nih.gov/33091559/)（区分 RESTRICTED）
+- 出典：Chang SA, Cheong XK, Tan JK, et al. Identifying Chronic Lymphocytic Leukaemia and Small Lymphocytic Lymphoma: An Uncommon Case of Ocular Adnexal Lymphoma. Cureus. 2026　[DOI 10.7759/cureus.103586](https://doi.org/10.7759/cureus.103586)　[PMID 41853444](https://pubmed.ncbi.nlm.nih.gov/41853444/)（区分 OPEN）
 - 出題基準：医学各論 Ⅶ-3-C-①（慢性リンパ性白血病、b）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-628 (id: Jlvnmas)；TBL-02-01-012 (id: JlAKpWM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LY-008&card_id=LY-008&version=e9dfcb06cb)　（版 `e9dfcb06cb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LY-008&card_id=LY-008&version=d0082f1621)　（版 `d0082f1621`）
 
-**[ここまでの 2 件（LY-007〜LY-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LY-007%E3%80%9CLY-008&cards=LY-007%206c6c6c8432%0ALY-008%20e9dfcb06cb)**
+**[ここまでの 2 件（LY-007〜LY-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LY-007%E3%80%9CLY-008&cards=LY-007%206c6c6c8432%0ALY-008%20d0082f1621)**
 
 ---
 
@@ -182,11 +182,11 @@
 
 - 条件：region: 国際／対象: 原発性肺粘膜関連リンパ組織リンパ腫患者
 - 不確実性：本出典は原発性肺MALTリンパ腫に限る総説であり、肺病変の側面に限る補助出典として使う。消化管原発病変の局所の詳細は境界により作っていない。
-- 出典：Sapuppo G, Frazzetto S, Pirosa MC, Zucca E. Epidemiology, diagnosis, and treatment of primary pulmonary mucosa-associated lymphoid tissue lymphoma. Chin Clin Oncol. 2026;15(3):46.　[DOI 10.21037/cco-2025-1-134](https://doi.org/10.21037/cco-2025-1-134)（区分 RESTRICTED）
+- 出典：Tang J, Yang B, Bai Y. Diagnostic challenges and management strategies of pulmonary mucosa-associated lymphoid tissue lymphoma: a case report and literature review. Front Med. 2025　[DOI 10.3389/fmed.2025.1719542](https://doi.org/10.3389/fmed.2025.1719542)　[PMID 41488067](https://pubmed.ncbi.nlm.nih.gov/41488067/)（区分 OPEN）
 - 出題基準：医学各論 Ⅶ-3-C-⑤（粘膜関連リンパ組織<MALT>リンパ腫、b）　コアカリ：PS-02-02-05 (id: JkxnuPc)；TBL-01-00-628 (id: Jlvnmas)；TBL-02-01-012 (id: JlAKpWM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LY-015&card_id=LY-015&version=b29c830e00)　（版 `b29c830e00`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LY-015&card_id=LY-015&version=9c9546af48)　（版 `9c9546af48`）
 
-**[ここまでの 2 件（LY-014〜LY-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LY-014%E3%80%9CLY-015&cards=LY-014%20206eb56f32%0ALY-015%20b29c830e00)**
+**[ここまでの 2 件（LY-014〜LY-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LY-014%E3%80%9CLY-015&cards=LY-014%20206eb56f32%0ALY-015%209c9546af48)**
 
 ---
 
@@ -292,7 +292,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：本カードは AL（原発性）の側面に限る。ATTR（タファミジスの対象、SRC-980）は病型が異なるため混同しない。出典マスターでは本出典の class は UNKNOWN で登録されている。
-- 出典：Wechalekar AD, Gillmore JD, Hawkins PN. Systemic amyloidosis. Lancet. 2016;387:2641-2654.　[DOI 10.1016/S0140-6736(15)01274-X](https://doi.org/10.1016/S0140-6736(15)01274-X)　[PMID 26719234](https://pubmed.ncbi.nlm.nih.gov/26719234/)（区分 UNKNOWN）
+- 出典：Wechalekar AD, Gillmore JD, Hawkins PN. Systemic amyloidosis. Lancet. 2016;387:2641-2654.　[DOI 10.1016/S0140-6736(15)01274-X](https://doi.org/10.1016/S0140-6736(15)01274-X)　[PMID 26719234](https://pubmed.ncbi.nlm.nih.gov/26719234/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-3-C-⑨（原発性アミロイドーシス、c）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-01 (id: JkxnuPM)；TBL-02-01-020 (id: JlAKpWw)；TBL-02-01-005 (id: JlAKpVw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LY-024&card_id=LY-024&version=3df45e2fd7)　（版 `3df45e2fd7`）
 
@@ -328,11 +328,11 @@
 
 - 条件：region: 日本／対象: 成人
 - 不確実性：数値は Katsuya 2015 の抄録から読み取り（2000〜2009年診断例）。ATL の生涯発症率（キャリアの何%が発症するか）は原推計の一次資料で未確認のため、本パートのカードには含めていない。
-- 出典：Katsuya H, Ishitsuka K, Utsunomiya A, et al. Treatment and survival among 1594 patients with ATL. Blood. 2015;126(24):2570-2577.　[DOI 10.1182/blood-2015-03-632489](https://doi.org/10.1182/blood-2015-03-632489)　[PMID 26361794](https://pubmed.ncbi.nlm.nih.gov/26361794/)（区分 RESTRICTED）
+- 出典：Kato T, Imaizumi Y, Miyazaki Y. Nationwide Hospital-Based Survey of Adult T-Cell Leukemia/Lymphoma in Japan. Viruses. 2022　[DOI 10.3390/v14040791](https://doi.org/10.3390/v14040791)　[PMID 35458521](https://pubmed.ncbi.nlm.nih.gov/35458521/)（区分 OPEN）
 - 出題基準：医学各論 Ⅶ-3-D-①（成人T細胞白血病・リンパ腫、b）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-624 (id: JlvnmaY)；TBL-02-01-012 (id: JlAKpWM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LY-027&card_id=LY-027&version=0d0ca5ac91)　（版 `0d0ca5ac91`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LY-027&card_id=LY-027&version=2b7f123f5c)　（版 `2b7f123f5c`）
 
-**[ここまでの 2 件（LY-026〜LY-027）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LY-026%E3%80%9CLY-027&cards=LY-026%20bdc63d41d8%0ALY-027%200d0ca5ac91)**
+**[ここまでの 2 件（LY-026〜LY-027）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LY-026%E3%80%9CLY-027&cards=LY-026%20bdc63d41d8%0ALY-027%202b7f123f5c)**
 
 ---
 

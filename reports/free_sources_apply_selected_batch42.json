@@ -1,0 +1,75 @@
+{
+ "class": [
+  [
+   "SRC-979",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [
+  [
+   "LY-005",
+   "SRC-2571",
+   "SRC-5013"
+  ],
+  [
+   "LY-006",
+   "SRC-2572",
+   "SRC-5013"
+  ],
+  [
+   "LY-008",
+   "SRC-2574",
+   "SRC-5014"
+  ],
+  [
+   "LY-015",
+   "SRC-547",
+   "SRC-5015"
+  ],
+  [
+   "LY-027",
+   "SRC-2587",
+   "SRC-5016"
+  ]
+ ],
+ "B": [
+  "LY-009",
+  "LY-011",
+  "LY-012",
+  "LY-014",
+  "LY-016",
+  "LY-017",
+  "LY-018",
+  "LY-020",
+  "LY-021",
+  "LY-022",
+  "LY-023",
+  "LY-024",
+  "LY-025",
+  "LY-026",
+  "LY-028",
+  "LY-029",
+  "LY-030",
+  "LY-031",
+  "LY-032"
+ ],
+ "new_src": [
+  [
+   "SRC-5013",
+   "Barefah AS. Advances in First-Line Treatment of Classical Hodgkin Lymphoma in th"
+  ],
+  [
+   "SRC-5014",
+   "Chang SA, Cheong XK, Tan JK, et al. Identifying Chronic Lymphocytic Leukaemia an"
+  ],
+  [
+   "SRC-5015",
+   "Tang J, Yang B, Bai Y. Diagnostic challenges and management strategies of pulmon"
+  ],
+  [
+   "SRC-5016",
+   "Kato T, Imaizumi Y, Miyazaki Y. Nationwide Hospital-Based Survey of Adult T-Cell"
+  ]
+ ]
+}

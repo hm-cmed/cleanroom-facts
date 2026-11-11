@@ -11848,14 +11848,17 @@
   doi: 10.1016/S0140-6736(15)01274-X
   pmid: '26719234'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: Elsevier の TDM 表示のみ（CC ではない、Crossref の version-of-record と Europe PMC の非OA）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-980
   legacy_id: null
   title: Maurer MS, Schwartz JH, Gundapaneni B, et al. Tafamidis Treatment for Patients with Transthyretin Amyloid Cardiomyopathy (ATTR-ACT). The New England Journal of Medicine. 2018;379(11):1007-1016.
@@ -36576,3 +36579,63 @@
   pmid: '42796070'
   source_class: OPEN
   title: Raffo C, Giacoppo D, Capodanno D, Greco A. Antithrombotic Therapy in Patients with Atrial Fibrillation Undergoing Percutaneous Coronary Intervention. J Clin Med. 2026
+- citation: Barefah AS. Advances in First-Line Treatment of Classical Hodgkin Lymphoma in the Era of Novel Agents. J Clin Med. 2026
+  doi: 10.3390/jcm15135075
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5013
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://europepmc.org/article/MED/42452536
+  pmcid: PMC13363359
+  pmid: '42452536'
+  source_class: OPEN
+  title: Barefah AS. Advances in First-Line Treatment of Classical Hodgkin Lymphoma in the Era of Novel Agents. J Clin Med. 2026
+- citation: 'Chang SA, Cheong XK, Tan JK, et al. Identifying Chronic Lymphocytic Leukaemia and Small Lymphocytic Lymphoma: An Uncommon Case of Ocular Adnexal Lymphoma. Cureus. 2026'
+  doi: 10.7759/cureus.103586
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5014
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://europepmc.org/article/MED/41853444
+  pmcid: PMC12991904
+  pmid: '41853444'
+  source_class: OPEN
+  title: 'Chang SA, Cheong XK, Tan JK, et al. Identifying Chronic Lymphocytic Leukaemia and Small Lymphocytic Lymphoma: An Uncommon Case of Ocular Adnexal Lymphoma. Cureus. 2026'
+- citation: 'Tang J, Yang B, Bai Y. Diagnostic challenges and management strategies of pulmonary mucosa-associated lymphoid tissue lymphoma: a case report and literature review. Front Med. 2025'
+  doi: 10.3389/fmed.2025.1719542
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5015
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://europepmc.org/article/MED/41488067
+  pmcid: PMC12756079
+  pmid: '41488067'
+  source_class: OPEN
+  title: 'Tang J, Yang B, Bai Y. Diagnostic challenges and management strategies of pulmonary mucosa-associated lymphoid tissue lymphoma: a case report and literature review. Front Med. 2025'
+- citation: Kato T, Imaizumi Y, Miyazaki Y. Nationwide Hospital-Based Survey of Adult T-Cell Leukemia/Lymphoma in Japan. Viruses. 2022
+  doi: 10.3390/v14040791
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5016
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://europepmc.org/article/MED/35458521
+  pmcid: PMC9028037
+  pmid: '35458521'
+  source_class: OPEN
+  title: Kato T, Imaizumi Y, Miyazaki Y. Nationwide Hospital-Based Survey of Adult T-Cell Leukemia/Lymphoma in Japan. Viruses. 2022

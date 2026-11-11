@@ -1,0 +1,155 @@
+{
+ "A": [
+  {
+   "card": "LY-005",
+   "class": "OPEN",
+   "title": "Barefah AS. Advances in First-Line Treatment of Classical Hodgkin Lymphoma in the Era of Novel Agents. J Clin Med. 2026",
+   "doi": "10.3390/jcm15135075",
+   "pmid": "42452536",
+   "pmcid": "PMC13363359",
+   "url": "https://europepmc.org/article/MED/42452536",
+   "why": "主張全体：候補の表と本文に、未治療の III〜IV 期古典的 Hodgkin リンパ腫を対象とする ECHELON-1 で、BV-AVD が ABVD に対し 6 年全生存 93.9% 対 89.4%（ハザード比 0.59）を示したことが明記される。数値：6 年全生存 93.9%・89.4%、死亡のハザード比 0.59 は候補と一致。登録レコード（NCT01712490）の全生存は早期のデータカット（約4年時点、ハザード比 0.728）の掲載で、カードの 6 年値とはカット時点が異なる（両値を記録）（作り手の調査バッチ42）"
+  },
+  {
+   "card": "LY-006",
+   "class": "OPEN",
+   "title": "Barefah AS. Advances in First-Line Treatment of Classical Hodgkin Lymphoma in the Era of Novel Agents. J Clin Med. 2026",
+   "doi": "10.3390/jcm15135075",
+   "pmid": "42452536",
+   "pmcid": "PMC13363359",
+   "url": "https://europepmc.org/article/MED/42452536",
+   "why": "主張全体：候補に、SWOG S1826 は 12 歳以上の III〜IV 期古典的 Hodgkin リンパ腫を登録した試験で、ニボルマブ+AVD の 2 年無増悪生存が 92% 対 83%（ハザード比 0.45）でブレンツキシマブ ベドチン+AVD より優れたことが明記される。数値：2 年無増悪生存 92%・83%、ハザード比 0.45 は候補と一致。S1826 登録（NCT03907488）の無増悪生存は 2 年時点のイベント件数（41 対 81）の表示で、割合・ハザード比の掲載はない（作り手の調査バッチ42）"
+  },
+  {
+   "card": "LY-008",
+   "class": "OPEN",
+   "title": "Chang SA, Cheong XK, Tan JK, et al. Identifying Chronic Lymphocytic Leukaemia and Small Lymphocytic Lymphoma: An Uncommon Case of Ocular Adnexal Lymphoma. Cureus. 2026",
+   "doi": "10.7759/cureus.103586",
+   "pmid": "41853444",
+   "pmcid": "PMC12991904",
+   "url": "https://europepmc.org/article/MED/41853444",
+   "why": "主張全体：候補の序文に「CLL と SLL は本質的に同一の疾患で、現れ方が異なり、同様に管理される」と明記される。数値：数値なし（該当なし）（作り手の調査バッチ42）"
+  },
+  {
+   "card": "LY-015",
+   "class": "OPEN",
+   "title": "Tang J, Yang B, Bai Y. Diagnostic challenges and management strategies of pulmonary mucosa-associated lymphoid tissue lymphoma: a case report and literature review. Front Med. 2025",
+   "doi": "10.3389/fmed.2025.1719542",
+   "pmid": "41488067",
+   "pmcid": "PMC12756079",
+   "url": "https://europepmc.org/article/MED/41488067",
+   "why": "主張全体：候補の序文に「肺 MALT リンパ腫は、気管支関連リンパ組織に由来する節外性辺縁帯 B 細胞リンパ腫であり、原発性肺リンパ腫の主要な病型である」と明記され、原発性肺 MALT リンパ腫が節外性辺縁帯リンパ腫の一病型であることがそのまま裏づけられる。数値：数値なし（該当なし）（作り手の調査バッチ42）"
+  },
+  {
+   "card": "LY-027",
+   "class": "OPEN",
+   "title": "Kato T, Imaizumi Y, Miyazaki Y. Nationwide Hospital-Based Survey of Adult T-Cell Leukemia/Lymphoma in Japan. Viruses. 2022",
+   "doi": "10.3390/v14040791",
+   "pmid": "35458521",
+   "pmcid": "PMC9028037",
+   "url": "https://europepmc.org/article/MED/35458521",
+   "why": "主張全体：候補の表と本文に、2015 年の報告（Katsuya ら、1,594 例）の病型別の生存期間中央値が、急性型 8.3 か月・リンパ腫型 10.6 か月・慢性型 31.5 か月・くすぶり型 55.0 か月と明記され、対象例数も 1,594 例と一致する。数値：1,594 例、生存期間中央値 8.3・10.6・31.5・55.0 か月はすべてカードと一致（作り手の調査バッチ42）"
+  }
+ ],
+ "B": [
+  {
+   "card": "LY-009",
+   "label": "GOV_US、作り手の調査バッチ42 2026-11-11",
+   "text": "ClinicalTrials.gov 登録・結果レコード NCT01332968（GALLIUM）（GOV_US、https://clinicaltrials.gov/study/NCT01332968、新規 SRC 候補）。裏づける部分：登録の主要評価項目（濾胞性リンパ腫集団、治験責任医師判定の無増悪生存）にハザード比 0.66 が掲載され、治療の方向と効果量は登録で裏づけられる。数値の照合：ハザード比 0.66 は登録と一致。登録のイベント割合（約4年7か月の累積）は 16.8% 対 24.0% で、カードの 3 年無増悪生存割合の推定（80.0% 対 73.3%）そのものは登録に掲載がないため B。留保：オビヌツズマブの国内承認はカードの uncertainty に一次資料未照合とあり、本調査では判定に使っていない"
+  },
+  {
+   "card": "LY-011",
+   "label": "OPEN、作り手の調査バッチ42 2026-11-11",
+   "text": "Skafi M, Caserta S, Vigna E, et al. Frontline Therapy in Diffuse Large B-Cell Lymphoma: Evolving Standards, Biological Insights, and Future Directions. Eur J Haematol. 2026（CC BY、PMID 41631494、DOI 10.1111/ejh.70129、PMC13050678、新規 SRC 候補）。裏づける部分：候補に、未治療の中・高リスク DLBCL を対象とする POLARIX で、2 年無増悪生存が 76.7% 対 70.2%（ハザード比 0.73）であったことが明記される。数値の照合：2 年無増悪生存 76.7%・70.2%、ハザード比 0.73 は候補と一致。「2 年全生存割合に有意差はなかった」という要素は候補に明記がなく、その部分を留保して B。POLARIX 登録（NCT03274492）には結果が未掲載。留保：主出典（SRC-2577）には PMCID PMC11702892（著者稿）があり補完候補"
+  },
+  {
+   "card": "LY-012",
+   "label": "OPEN、作り手の調査バッチ42 2026-11-11",
+   "text": "Skafi M, Caserta S, Vigna E, et al. Frontline Therapy in Diffuse Large B-Cell Lymphoma: Evolving Standards, Biological Insights, and Future Directions. Eur J Haematol. 2026（CC BY、PMID 41631494、DOI 10.1111/ejh.70129、PMC13050678、新規 SRC 候補）。裏づける部分：候補に「R-CHOP では約30〜40%の患者が治癒に至らない」と明記され、治癒が 60〜70% という範囲としてカードの「約60%」と整合する。数値の照合：カードの約60%は候補の「治癒しない約30〜40%」の補集合（60〜70%）の下限に相当する。NCI PDQ（Adult NHL）は「aggressive NHL の70%以上が治癒しうる」と述べており、対象の範囲が異なる（両値を記録）。留保：候補は治癒率そのものではなく失敗率の形で述べており、範囲の裏づけにとどまるため B"
+  },
+  {
+   "card": "LY-014",
+   "label": "GOV_US、作り手の調査バッチ42 2026-11-11",
+   "text": "NCI PDQ「Adult Non-Hodgkin Lymphoma Treatment (PDQ®) – Health Professional Version」（cancer.gov）（GOV_US、https://www.cancer.gov/types/lymphoma/hp/adult-nhl-treatment-pdq、新規 SRC 候補）。裏づける部分：PDQ の分類一覧に「粘膜関連リンパ組織（MALT）型の節外性辺縁帯 B 細胞リンパ腫」が独立の病型として明記され、MALT リンパ腫が節外性辺縁帯リンパ腫の一病型であるという分類の要素は裏づけられる。数値の照合：数値なし（該当なし）。留保：「日本血液学会のガイドラインでは辺縁帯リンパ腫の章で一括して扱われる」という国内ガイドラインの扱いの要素は自由な全文になく、その部分を留保して B。主出典の章（SRC-2579）は TDM のみ・Europe PMC 収載なし"
+  },
+  {
+   "card": "LY-016",
+   "label": "GOV_US、作り手の調査バッチ42 2026-11-11",
+   "text": "ClinicalTrials.gov 登録・結果レコード NCT01614821（Ibrutinib in Waldenstrom's Macroglobulinemia）（GOV_US、https://clinicaltrials.gov/study/NCT01614821、新規 SRC 候補）。裏づける部分：登録の結果レコードに、対象 63 人中の奏効 57 人（全奏効率 90.5% に相当）が掲載され、全奏効率は登録で裏づけられる。数値の照合：全奏効率 90.5%（57/63人）は登録と一致。主要奏効率は登録が 49/63人（77.8%、4 年時点の集計）で、カードの 73.0% と異なる（両値を記録）。血清 IgM の低下とヘモグロビンの上昇は登録の評価項目になく、その部分を留保して B。留保：イブルチニブの国内承認はカードの uncertainty に PMDA 資料で確認済みとあり、本調査の判定には使っていない"
+  },
+  {
+   "card": "LY-017",
+   "label": "OPEN、作り手の調査バッチ42 2026-11-11",
+   "text": "Lap CJ, Dunleavy K. Novel Molecular Insights and Evolution of Less Toxic Therapeutic Strategies in Burkitt Lymphoma. Cancers. 2025（CC BY、PMID 41154426、DOI 10.3390/cancers17203372、PMC12564111、新規 SRC 候補）。裏づける部分：候補の治療成績の表に、DA-EPOCH-R の第II相試験（19人、HIV 陰性例のコホート）の 7 年無増悪割合 95%・7 年全生存割合 100% が明記される。数値の照合：無増悪割合 95%・全生存割合 100% はカードと一致。カードの「追跡期間中央値 86 か月」は候補では 7 年時点の割合として表され、その形では再掲がないため B。留保：主出典（SRC-2581）には PMCID PMC3901044（著者稿）があり補完候補"
+  },
+  {
+   "card": "LY-018",
+   "label": "GOV_US、作り手の調査バッチ42 2026-11-11",
+   "text": "NCI PDQ「Plasma Cell Neoplasms (Including Multiple Myeloma) Treatment (PDQ®) – Health Professional Version」（cancer.gov、2025-04-25 更新）（GOV_US、https://www.cancer.gov/types/myeloma/hp/myeloma-treatment-pdq、新規 SRC 候補）。裏づける部分：PDQ に骨髄腫を定義する事象の一覧があり、CRAB の各要素に加え、バイオマーカー（骨髄クローナル形質細胞 60% 以上、血清遊離軽鎖比 100 以上、MRI で 5 mm 以上の巣状病変が 2 つ以上）がすべて閾値つきで明記される。数値の照合：骨髄形質細胞 60% 以上、遊離軽鎖比 100 以上、MRI 巣状病変 2 つ以上（候補は「more than one」）はカードと一致。留保：全要素が PDQ にあるが、PDQ では「くすぶり型骨髄腫の定義（骨髄腫を定義する事象を欠くこと）」の文脈で提示されるため、診断基準としての枠組みの違いを留保して B（バッチ30〜32 の PDQ の扱いに同じ）"
+  },
+  {
+   "card": "LY-020",
+   "label": "GOV_US、作り手の調査バッチ42 2026-11-11",
+   "text": "NCI PDQ「Plasma Cell Neoplasms (Including Multiple Myeloma) Treatment (PDQ®) – Health Professional Version」（cancer.gov、2025-04-25 更新）（GOV_US、https://www.cancer.gov/types/myeloma/hp/myeloma-treatment-pdq、新規 SRC 候補）。裏づける部分：PDQ の病期表に、R-ISS が ISS に高リスク染色体異常（del(17p)、t(4;14)、t(14;16)）と血清 LDH を組み合わせた分類であることが、病期 III の定義まで含めて明記される。数値の照合：分類の構成要素はカードと一致。生存は PDQ では中央値（病期 I 未到達・II 83 か月・III 43 か月）の表示で、カードの 5 年全生存率（82%・62%・40%）は PDQ に再掲がなく、その部分を留保して B。留保：主出典（SRC-2584）には PMCID PMC4846284（著者稿）があり補完候補。後継の R2-ISS（2022）の存在はカードの uncertainty に記録済み"
+  },
+  {
+   "card": "LY-021",
+   "label": "OPEN、作り手の調査バッチ42 2026-11-11",
+   "text": "Kundu S, Jha SB, Rivera AP, et al. Multiple Myeloma and Renal Failure: Mechanisms, Diagnosis, and Management. Cureus. 2022（CC BY、PMID 35371791、DOI 10.7759/cureus.22585、PMC8958144、新規 SRC 候補）。裏づける部分：候補に、免疫グロブリン関連の腎障害の機序のうち最も多いのは軽鎖円柱腎症（生検シリーズで 40〜63%）であること、一般的対策としての補液と誘因の回避、遊離軽鎖を減らす治療とボルテゾミブの役割が明記される。数値の照合：数値の主張は機序の順位が中心で、候補の生検シリーズの割合（40〜63%）と矛盾しない。「新規診断例での標準はボルテゾミブと高用量デキサメタゾンの併用」という推奨の形は候補に再掲がなく、その部分を留保して B。留保：Crossref のライセンス欄は空で、CC BY 4.0 は Europe PMC の表示と全文のライセンス表示で確認"
+  },
+  {
+   "card": "LY-022",
+   "label": "GOV_US、作り手の調査バッチ42 2026-11-11",
+   "text": "NCI PDQ「Plasma Cell Neoplasms (Including Multiple Myeloma) Treatment (PDQ®) – Health Professional Version」（cancer.gov、2025-04-25 更新）（GOV_US、https://www.cancer.gov/types/myeloma/hp/myeloma-treatment-pdq、新規 SRC 候補）。裏づける部分：PDQ に、MGUS は血清 M 蛋白を有し骨髄腫等の所見を欠く状態で、骨髄の形質細胞が 10% 未満であり、無症状の前駆状態として扱われることが明記される。数値の照合：骨髄形質細胞 10% 未満はカードと一致。M 蛋白 3 g/dL 未満という閾値は、PDQ では くすぶり型の定義（30 g/L 以上）からの対比としては示されるが、MGUS の基準としてその形では明記されず、その部分を留保して B。留保：定義の残りの要素（CRAB を欠くこと）は PDQ の「骨髄腫の所見を欠く」という記述で概ね裏づけられる"
+  },
+  {
+   "card": "LY-023",
+   "label": "GOV_US、作り手の調査バッチ42 2026-11-11",
+   "text": "NCI PDQ「Plasma Cell Neoplasms (Including Multiple Myeloma) Treatment (PDQ®) – Health Professional Version」（cancer.gov、2025-04-25 更新）（GOV_US、https://www.cancer.gov/types/myeloma/hp/myeloma-treatment-pdq、新規 SRC 候補）。裏づける部分：PDQ に、MGUS からリンパ系・形質細胞腫瘍への年間の進行リスクは住民コホートで 0.5〜1.0% であることが明記され、「平均して年約1%」という要素は裏づけられる。数値の照合：カードの年約1%は PDQ の範囲（0.5〜1.0%）の上限に相当する。累積進行割合（10 年 12%・20 年 25%・25 年 30%）は自由な全文に再掲がなく、その部分を留保して B。留保：日本人集団での進行率でない点はカードの uncertainty に記録済み"
+  },
+  {
+   "card": "LY-024",
+   "label": "OPEN、作り手の調査バッチ42 2026-11-11",
+   "text": "Desport E, Bridoux F, Sirac C, et al. Al amyloidosis. Orphanet J Rare Dis. 2012（CC BY、PMID 22909024、DOI 10.1186/1750-1172-7-54、PMC3495844、新規 SRC 候補）。裏づける部分：候補に、AL アミロイドーシスは先進国における全身性アミロイドーシスの最も多い型であること、単クローン性免疫グロブリン軽鎖からなる線維が沈着して臓器障害を起こすこと、アミロイドの型判定の手順と誤診への注意が明記される。補助候補として、既登録の厚生労働省・指定難病 28 の診断基準等（SRC-247、GOV_JP）にも AL の定義があり、PDQ も型判定の必要性を述べる。数値の照合：数値なし（該当なし）。候補の「最も多い」は「先進国における」という限定つきで、カードには地域の限定がない（両者の違いを記録）。留保：主出典（SRC-979）は Crossref の VoR が Elsevier の TDM のみで Europe PMC でも非オープンアクセスのため、UNKNOWN から RESTRICTED への区分の明確化が適切である（バッチ23・36 の扱いに倣い D には数えず、申し送りとする）。本誌では Crossref のライセンス欄は未登録で、CC BY は Europe PMC の表示により確認"
+  },
+  {
+   "card": "LY-025",
+   "label": "OPEN、作り手の調査バッチ42 2026-11-11",
+   "text": "Sprangers B, Cohen C, Gnemmi V, et al. Executive summary of the European consensus report on the diagnosis and treatment of monoclonal gammopathy of renal significance. Clin Kidney J. 2026（CC BY、PMID 42338690、DOI 10.1093/ckj/sfag163、PMC13284707、新規 SRC 候補）。裏づける部分：候補（欧州コンセンサス報告の要約）に、蛋白尿 5 g/日超または eGFR 50 mL/min/1.73m² 未満の重症腎障害は末期腎不全への進行のリスクが非常に高いこと、腎反応の段階的定義（蛋白尿の 30% 超〜60% 以下の減少を部分反応とする）が明記される。数値の照合：蛋白尿 5 g/日超・eGFR 50 未満という閾値と、腎反応の 30% という区切りは候補と一致。ただし候補の高リスクの記述は「または」の形で、カードの腎病期（両者の組合せによる段階付け）とは構成が異なる。腎障害の頻度（約70%）と、腎反応の代替定義（0.5 g/日未満への低下）は候補になく、その部分を留保して B。留保：候補のライセンスは Europe PMC と Crossref の VoR の両方で CC BY 4.0 を確認"
+  },
+  {
+   "card": "LY-026",
+   "label": "OPEN、作り手の調査バッチ42 2026-11-11",
+   "text": "Nosaka K, Fukushima T. JSH practical guidelines for hematological malignancies, 2023: II. lymphoma 9-adult T-cell leukemia-lymphoma (ATL). Int J Hematol. 2025（CC BY、PMID 40465105、DOI 10.1007/s12185-025-04011-2、PMC12304038、新規 SRC 候補）。裏づける部分：候補（JSH ガイドライン 2023 年版英語版の ATL 章）に、Shimoyama らが 4 つの臨床病型（急性型・リンパ腫型・慢性型・くすぶり型）を提唱したことと、その診断基準表（Table 1）が章内に収載されていることが本文で確認できる。数値の照合：4 病型の構成はカードと一致。病型ごとの基準値は Table 1 の範囲だが、表は HTML・PMC のいずれでも画像形式で、セル内の値をテキストとして照合できなかったため B とした。留保：同じ JSH ガイドライン英語版でも、本章は Crossref・Europe PMC の両経路で CC BY 4.0 を確認できた一方、LY-003・010・014 の各章は TDM のみで自由利用ではない（章ごとに扱いが異なる）"
+  },
+  {
+   "card": "LY-028",
+   "label": "GOV_US、作り手の調査バッチ42 2026-11-11",
+   "text": "ClinicalTrials.gov 登録・結果レコード NCT01777152（ECHELON-2）（GOV_US、https://clinicaltrials.gov/study/NCT01777152、新規 SRC 候補）。裏づける部分：登録の主要評価項目（独立評価機関判定の無増悪生存）に中央値 48.2 か月（A+CHP 群）対 20.8 か月（CHOP 群）が掲載される。数値の照合：無増悪生存期間中央値 48.2 か月・20.8 か月はカードと一致。ハザード比 0.71 は登録に解析値の掲載がなく、その部分を留保して B。留保：主出典（SRC-2588）には PMCID PMC6436818（著者稿）があり補完候補。ブレンツキシマブ ベドチンの末梢性 T 細胞リンパ腫への国内承認はカードの uncertainty に一次資料での再確認事項として記録済み"
+  },
+  {
+   "card": "LY-029",
+   "label": "OPEN、作り手の調査バッチ42 2026-11-11",
+   "text": "Chinnici A, Beneforti L, Pegoraro F, et al. Approaching hemophagocytic lymphohistiocytosis. Front Immunol. 2023（CC BY、PMID 37426667、DOI 10.3389/fimmu.2023.1210041、PMC10324660、新規 SRC 候補）。裏づける部分：候補の比較表（Table 2）に HLH-2004 の 8 項目すべてが閾値つきで再掲される（発熱 38.5°C 以上、脾腫、2 系統以上の血球減少、トリグリセリド 3.0 mmol/L 以上またはフィブリノゲン 150 mg/dL 以下、血球貪食像、NK 細胞活性の低下または欠如、フェリチン 500 µg/L 以上、可溶性 IL-2 受容体 2,400 U/mL 以上）。数値の照合：8 項目と各閾値はカードの項目構成と一致。「8 項目中 5 項目以上」という充足条件と、分子診断による代替の経路は候補の本文・表に明記がなく、その部分を留保して B。留保：候補のライセンスは Europe PMC と Crossref の VoR の両方で CC BY 4.0 を確認"
+  },
+  {
+   "card": "LY-030",
+   "label": "OPEN、作り手の調査バッチ42 2026-11-11",
+   "text": "Shiga T, Nozaki Y, Tsuchimoto S, et al. Diagnostic performance of HScore for macrophage activation syndrome complicating Still's disease in adults: a multicentre case-control study. Rheumatology (Oxford). 2026（CC BY、PMID 42671130、DOI 10.1093/rheumatology/keag473、PMC13570798、新規 SRC 候補）。裏づける部分：候補に HScore の評点表が再掲され、9 つの変数（発熱、臓器腫大、血球減少の系統数、フェリチン、トリグリセリド、フィブリノゲン、AST、骨髄の血球貪食像、免疫抑制状態）と配点の構成が確認できる。数値の照合：9 変数という構成はカードと一致。スコアと発症確率の対応（90 以下で 1% 未満、250 以上で 99% 超）は候補を含む CC BY の全文に再掲がなく、その部分を留保して B。留保：候補のライセンスは Europe PMC と Crossref の VoR の両方で CC BY 4.0 を確認。主出典（SRC-2590）は Wiley の VoR 利用条件のみで RESTRICTED が正しい"
+  },
+  {
+   "card": "LY-031",
+   "label": "GOV_US、作り手の調査バッチ42 2026-11-11",
+   "text": "CDC「About Infectious Mononucleosis」（Epstein-Barr virus and Infectious Mononucleosis、2024-05-09 版）（GOV_US、https://www.cdc.gov/epstein-barr/about/mononucleosis.html、新規 SRC 候補）。裏づける部分：CDC のページに、伝染性単核球症は主に EB ウイルスによって起こること、症状として強い倦怠感・咽頭痛・頸部や腋窩のリンパ節腫脹があり、血液ではリンパ球の増加がみられること、多くは 2〜4 週間で回復するが倦怠感が数週間続くことがあることが明記される。数値の照合：症状の持続（数週間）は候補と整合。「EB ウイルスの初感染によって起こる」という限定は CDC のページにはなく、CDC は他のウイルスでも起こりうるとしているため、その部分を留保して B。留保：主出典（SRC-2031）は Crossref で TDM ライセンスのみで、RESTRICTED が正しい"
+  },
+  {
+   "card": "LY-032",
+   "label": "GOV_US、作り手の調査バッチ42 2026-11-11",
+   "text": "CDC「About Infectious Mononucleosis」（2024-05-09 版）および CDC「Clinical Overview of Epstein-Barr Virus (EBV)」（医療者向け、2024-04-10 版）（GOV_US、https://www.cdc.gov/epstein-barr/hcp/clinical-overview/index.html、新規 SRC 候補）。裏づける部分：潜伏期間は「About Infectious Mononucleosis」に「感染後 4〜6 週間で症状が通常出現する」とあり、検査は「Clinical Overview」に、抗体を検出する血液検査で最近の感染か過去の感染かを区別できると明記される。数値の照合：潜伏期間は CDC が 4〜6 週間とし、カードの約 6 週間はその上限と整合する。異好性抗体検査（Monospot）の名称は現行の CDC ページには記載がなく（CDC の旧・検査ページ（2014 年版、アーカイブ）には記載がある）、その部分を留保して B。留保：LY-031 と同じ CDC ページ群による裏づけ"
+  }
+ ],
+ "rest_fix": {
+  "SRC-979": "Elsevier の TDM 表示のみ（CC ではない、Crossref の version-of-record と Europe PMC の非OA）"
+ },
+ "open_fix": []
+}

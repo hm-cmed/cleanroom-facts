@@ -204,7 +204,7 @@
 
 - 条件：region: 国際／study: 総説（Seminar、全身性アミロイドーシス、2016年）
 - 不確実性：内容は総説の抄録で確認した。AL型の臓器障害の頻度や病期分類の数値は本カードでは確認していない。国内の指定難病としての診断基準は厚生労働省の資料（出典マスターのSRC-247）があるが、本カードの出典には含めていない。薬剤の名前は出ないため、国内承認に関する注記は不要である。
-- 出典：Wechalekar AD, Gillmore JD, Hawkins PN. Systemic amyloidosis. The Lancet. 2016;387:2641-2654.　[DOI 10.1016/S0140-6736(15)01274-X](https://doi.org/10.1016/S0140-6736(15)01274-X)　[PMID 26719234](https://pubmed.ncbi.nlm.nih.gov/26719234/)（区分 UNKNOWN）
+- 出典：Wechalekar AD, Gillmore JD, Hawkins PN. Systemic amyloidosis. The Lancet. 2016;387:2641-2654.　[DOI 10.1016/S0140-6736(15)01274-X](https://doi.org/10.1016/S0140-6736(15)01274-X)　[PMID 26719234](https://pubmed.ncbi.nlm.nih.gov/26719234/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-8-B-①（全身性アミロイドーシス、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-486 (id: JlvnmNM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-014&card_id=MT-014&version=3d662d9683)　（版 `3d662d9683`）
 

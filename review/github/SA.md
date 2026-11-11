@@ -204,7 +204,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：全身性アミロイドーシスの総論の出典として再利用した。原発性（AL）アミロイドーシスの各論は第39回（LY）で作成済みであり、本カードは総論に限る。腎病変は GN、アミロイドニューロパチーは PN が正で、ATTR 心筋症の治療試験（SRC-980）は病型が異なるため混同しないこと。
-- 出典：Wechalekar AD, Gillmore JD, Hawkins PN. Systemic amyloidosis. The Lancet. 2016;387:2641-2654　[DOI 10.1016/S0140-6736(15)01274-X](https://doi.org/10.1016/S0140-6736(15)01274-X)　[PMID 26719234](https://pubmed.ncbi.nlm.nih.gov/26719234/)（区分 UNKNOWN）
+- 出典：Wechalekar AD, Gillmore JD, Hawkins PN. Systemic amyloidosis. The Lancet. 2016;387:2641-2654　[DOI 10.1016/S0140-6736(15)01274-X](https://doi.org/10.1016/S0140-6736(15)01274-X)　[PMID 26719234](https://pubmed.ncbi.nlm.nih.gov/26719234/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-G-④（アミロイドーシス、b）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-016&card_id=SA-016&version=2fe2c05d2f)　（版 `2fe2c05d2f`）
 

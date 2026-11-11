@@ -96,3 +96,4 @@
 - バッチ38（HF）・39（MP）を反映：置き換え1（MP-034 を ClinicalTrials.gov STICH に）、裏づけ29（HF 10・MP 19）、区分の訂正3（SRC-254 を OPEN、SRC-243〔PMDA 審査報告書〕を GOV_JP、SRC-253 を RESTRICTED に明確化）（2026-11-11）。HF の11月8日の記録のうち StatPearls（HF-010・012）と結果未掲載の登録（HF-019・022）は参考扱いに改め、HF-014・018 は添付文書に頼った部分を数えない旨を追記。
 - バッチ40（XS）を反映：置き換え1（XS-031 を CC BY の GLIM 総説に）、裏づけ16、区分の明確化2（SRC-167・169 を RESTRICTED）（2026-11-11）。抗血栓薬と内視鏡（XS-016〜021）は全件見つからず。GLIM 5年アップデート（CC BY）を content_review に追記。
 - バッチ41（IH）を反映：置き換え2（IH-005 を ClinicalTrials.gov ISCHEMIA に、IH-021 を CC BY 総説に）、裏づけ22（2026-11-11）。2025 ACC/AHA ACS ガイドライン、AHA 川崎病 2024、MI 普遍的定義 第5版を content_review に追記。
+- バッチ42（LY）を反映：置き換え5（LY-005・006 を cHL 一次治療の CC BY 総説、LY-008・015 を CC BY 症例報告の序文、LY-027 を CC BY の ATL 全国調査に）、裏づけ19（NCI PDQ 骨髄腫・NHL、ClinicalTrials.gov 3試験、CDC の EBV ページ、CC BY 総説）、SRC-979 を RESTRICTED に明確化（2026-11-11）。
