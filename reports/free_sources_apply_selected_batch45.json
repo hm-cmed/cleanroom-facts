@@ -1,0 +1,46 @@
+{
+ "class": [
+  [
+   "SRC-3363",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [
+  [
+   "NB-007",
+   "SRC-3360",
+   "SRC-5021"
+  ],
+  [
+   "NB-029",
+   "SRC-3443",
+   "SRC-5022"
+  ]
+ ],
+ "B": [
+  "NB-002",
+  "NB-005",
+  "NB-009",
+  "NB-010",
+  "NB-011",
+  "NB-013",
+  "NB-019",
+  "NB-020",
+  "NB-021",
+  "NB-022",
+  "NB-023",
+  "NB-026",
+  "NB-031"
+ ],
+ "new_src": [
+  [
+   "SRC-5021",
+   "Sweet DG, Carnielli VP, Greisen G, et al. European Consensus Guidelines on the M"
+  ],
+  [
+   "SRC-5022",
+   "ClinicalTrials.gov 登録・結果レコード NCT01702805（Transfusion of Prematures Trial、TOP 試験）"
+  ]
+ ]
+}

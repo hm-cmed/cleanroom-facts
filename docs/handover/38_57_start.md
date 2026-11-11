@@ -99,3 +99,4 @@
 - バッチ42（LY）を反映：置き換え5（LY-005・006 を cHL 一次治療の CC BY 総説、LY-008・015 を CC BY 症例報告の序文、LY-027 を CC BY の ATL 全国調査に）、裏づけ19（NCI PDQ 骨髄腫・NHL、ClinicalTrials.gov 3試験、CDC の EBV ページ、CC BY 総説）、SRC-979 を RESTRICTED に明確化（2026-11-11）。
 - バッチ43（HS）を反映：置き換え2（HS-007 を TTP 治療の CC BY 総説、HS-035 を APS の CC BY 総説に）、裏づけ15、区分の明確化2（SRC-2650・449 を RESTRICTED）（2026-11-11）。難病情報センターだけに頼る HS-026・027・031 は見合わせ、HS-006 は CC BY の部分のみ。厚労省 PDF での再確認依頼に追加。
 - バッチ44（RE）を反映：置き換え2（RE-004 BRAVO・RE-005 CRUISE を ClinicalTrials.gov の結果登録に）、裏づけ20（ClinicalTrials.gov 2、NEI 2、NCI PDQ 1、CC BY 15）、SRC-1278 を RESTRICTED に明確化（2026-11-11）。
+- バッチ45（NB）を反映：置き換え2（NB-029 TOP 試験を ClinicalTrials.gov に、NB-007 を欧州 RDS GL 2022年版〔CC BY〕に）、裏づけ13（CDC 3〔GBS 2010・VKDB・MMWR 2013〕、NEI 1、CC BY 9）、SRC-3363 を RESTRICTED に明確化（2026-11-11）。

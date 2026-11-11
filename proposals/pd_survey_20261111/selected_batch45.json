@@ -1,0 +1,95 @@
+{
+ "A": [
+  {
+   "card": "NB-007",
+   "class": "OPEN",
+   "title": "Sweet DG, Carnielli VP, Greisen G, et al. European Consensus Guidelines on the Management of Respiratory Distress Syndrome: 2022 Update. Neonatology. 2023",
+   "doi": "10.1159/000528914",
+   "pmid": "36863329",
+   "pmcid": "PMC10064400",
+   "url": "https://europepmc.org/article/MED/36863329",
+   "why": "主張全体：候補（同一ガイドラインの前版・2022年版、CC BY）の全文に、周産期の最適化（早産リスクの予測、周産期センターへの母体搬送、出生前ステロイドの適時使用）、体温を36.5〜37.5℃に維持すること、臍帯結紮前の自発呼吸の開始と臍帯結紮遅延、出生直後からの非侵襲的呼吸サポート、肺保護管理としての早期サーファクタント投与と挿管の回避、細径カテーテルによる低侵襲投与（LISA）で死亡または気管支肺異形成の複合転帰が減ることが明記され、カードの主張の全要素と一致する。数値：体温の維持範囲36.5〜37.5℃は候補の推奨表と一致。カードに版固有の数値は含まれない（作り手の調査バッチ45）。候補は同じガイドラインの前版（2022年版、CC BY）で、現行の2025年版（SRC-3360、CC BY-NC）は corroboration に残す"
+  },
+  {
+   "card": "NB-029",
+   "class": "GOV_US",
+   "title": "ClinicalTrials.gov 登録・結果レコード NCT01702805（Transfusion of Prematures Trial、TOP 試験）",
+   "doi": null,
+   "pmid": null,
+   "pmcid": null,
+   "url": "https://clinicaltrials.gov/study/NCT01702805",
+   "why": "主張全体：登録・結果レコードに、登録症例数1,824例（実施値）、主要評価項目「死亡または神経発達障害」の発生数が高閾値群423/845例・低閾値群422/847例として掲載され、割合は50.1%・49.8%とカードと一致する。統計解析の欄には出生体重と施設で層別調整した相対リスク1.00（95%信頼区間0.92〜1.10、p=0.93）が掲載され、カードの全数値と一致する。数値：1,824例、50.1% 対 49.8%、調整相対リスク1.00（0.92〜1.10）はいずれも登録と一致（作り手の調査バッチ45）"
+  }
+ ],
+ "B": [
+  {
+   "card": "NB-002",
+   "label": "OPEN、作り手の調査バッチ45 2026-11-11",
+   "text": "Dalili H, Nili F, Sheikh M, et al. Comparison of the Four Proposed Apgar Scoring Systems in the Assessment of Birth Asphyxia and Adverse Early Neurologic Outcomes. PLoS One. 2015（CC BY、PMID 25811904、DOI 10.1371/journal.pone.0122116、PMC4374718、新規 SRC 候補）。裏づける部分：候補（CC BY の前向きコホート研究）の本文に、AAP・ACOG の委員会意見を引いて「5分値の従来型 Apgar は将来の神経学的転帰と相関が乏しく、神経学的・有害な新生児転帰の予測に用いるべきでない」ことが明記され、蘇生・挿管中に付けたスコアは児の状態を正確に反映しないこと、蘇生介入を記録するための拡大 Apgar（Expanded Apgar）が提案されていることが述べられる。数値の照合：—。留保：「Apgar 単独では仮死の証拠とはみなされない」という文言そのものと、拡大 Apgar 記録様式の「使用の推奨」（候補では提案の紹介にとどまる）は候補にその形ではなく、その部分を留保して B。主出典の PMID 26393460 はカード側に記載があるがマスター未登録のため補完候補（申し送り参照）。主出典は両経路でライセンス表示がなく RESTRICTED と矛盾しない"
+  },
+  {
+   "card": "NB-005",
+   "label": "OPEN、作り手の調査バッチ45 2026-11-11",
+   "text": "Tsikouras P, Kotanidou S, Nikolettos K, et al. Shoulder Dystocia: A Comprehensive Literature Review on Diagnosis, Prevention, Complications, Prognosis, and Management. J Pers Med. 2024;14(6):586（CC BY、PMID 38929807、DOI 10.3390/jpm14060586、PMC11204412、新規 SRC 候補）。裏づける部分：候補（CC BY の肩甲難産の包括的総説）に、巨大児の診断の閾値は出生体重4,000〜4,500 g 以上であり、普遍的な合意は得られていないことが明記され、巨大児が肩甲難産の危険因子であること、肩甲難産が新生児の永続的障害を避けるため迅速な認識と対応を要することが述べられる。数値の照合：—。留保：LGA（在胎期間に対する出生体重90パーセンタイル以上）との区別の文言は候補の全文で確認できず、その部分を留保して B。主出典の PMID 31856124 はカード側に記載があるがマスター未登録のため補完候補（申し送り参照）"
+  },
+  {
+   "card": "NB-009",
+   "label": "OPEN、作り手の調査バッチ45 2026-11-11",
+   "text": "Abbasi H, Shelton J, Chandrasekharan P, Rawat M, et al. Impact of Change in Neonatal Resuscitation Program Guidelines for Infants Born Through Meconium-Stained Amniotic Fluid. Children (Basel). 2025;12(8):1072（CC BY、PMID 40868523、DOI 10.3390/children12081072、PMC12384250、新規 SRC 候補）。裏づける部分：候補（CC BY の前後比較研究）の全文に、2016年に新生児蘇生プログラムが胎便汚染羊水で出生した活発でない児への気管内吸引の推奨を変更したことが明記され（活発な児へのルーチン吸引はそれ以前に推奨されなくなっている）、胎便吸引症候群の発症・重症度・死亡が転帰として扱われる。数値の照合：該当なし。留保：支持療法を土台にサーファクタント、吸入一酸化窒素、高頻度換気で転帰が改善するという治療の要素と、正期産・過期産児の罹患と死亡の重要な原因という位置づけは候補に明記がなく、その部分を留保して B。主出典（SRC-3362）は Crossref・Europe PMC の双方で CC BY-NC-SA を確認し、RESTRICTED が正しい。主出典の PMID 38576961 と PMCID PMC10990371 はカード側に記載があるがマスター未登録のため補完候補（申し送り参照）"
+  },
+  {
+   "card": "NB-010",
+   "label": "OPEN、作り手の調査バッチ45 2026-11-11",
+   "text": "Phattraprayoon N, Koonrungsesomboon N, Na Takuathung M. Efficacy of nebulized salbutamol in transient tachypnea of the newborn: A systematic review and meta-analysis. PLoS One. 2026（CC BY、PMID 42821532、DOI 10.1371/journal.pone.0359663、PMC13630241、新規 SRC 候補）。裏づける部分：候補（CC BY の系統的レビュー・メタ解析）の導入部に、新生児一過性多呼吸の病態は胎児肺液のクリアランスの障害であること、罹患した児は酸素投与や CPAP を含む呼吸サポートを要しうることが明記される。数値の照合：該当なし。留保：正期産児の呼吸窮迫の最も多い原因という位置づけ、NICU 入院・母児分離・不要な抗菌薬曝露・入院期間の延長という帰結、肺超音波の診断的有用性、CPAP による早期管理が悪化を防ぐという要素は候補になく、その部分を留保して B。主出典（SRC-3363）は Crossref が Springer の TDM のみで、PMC の著者稿（PMCID PMC11867197）にもライセンス表示がないため自由利用ではなく、UNKNOWN から RESTRICTED への区分の明確化が適切と考えられる（申し送り参照）。主出典の PMID 32753712 と PMCID はカード側に記載があるがマスター未登録のため補完候補"
+  },
+  {
+   "card": "NB-011",
+   "label": "OPEN、作り手の調査バッチ45 2026-11-11",
+   "text": "Neamțu AV, Zlatian OM, Manda CV, et al. Methylxanthines: The Major Impact of Caffeine in Clinical Practice in Patients Diagnosed with Apnea of Prematurity. J Clin Med. 2025;14(23):8417（CC BY、PMID 41375719、DOI 10.3390/jcm14238417、PMC12693140、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、CAP 試験（n=2,006）でカフェインが気管支肺異形成を減らし（36.3% 対 46.9%、調整オッズ比0.63）、修正在胎36週時点で酸素を要した割合がカフェイン群36%・プラセボ群47%であったこと、陽圧換気の中止が中央値で1週早かったことが CAP 試験の結果として再掲される。数値の照合：2,006人、36% 対 47%（候補では36.3% 対 46.9%とも表記）、調整オッズ比0.63、陽圧換気中止が1週早いことはいずれもカードと一致。留保：調整オッズ比の95%信頼区間（0.52〜0.76）と生の分母・分子（350/963人、447/954人）は候補に再掲がなく、その部分を留保して B（A に近い B）。CAP 試験の ClinicalTrials.gov 登録・結果レコードは確認できなかった。主出典の PMID 16707748 はカード側に記載があるがマスター未登録のため補完候補（申し送り参照）。カフェインクエン酸塩の国内承認はカード側で記録済み"
+  },
+  {
+   "card": "NB-013",
+   "label": "OPEN、作り手の調査バッチ45 2026-11-11",
+   "text": "Sakaleshpur Kumar V, Gadgeesh PB, Naik P, Mathew G. Impact of the 2022 American Academy of Pediatrics Hyperbilirubinemia Guideline on Phototherapy Utilization. Cureus. 2025;17(11):e97846（CC BY、PMID 41458674、DOI 10.7759/cureus.97846、PMC12742236、新規 SRC 候補）。裏づける部分：候補（CC BY のガイドライン影響評価研究）の全文に、2022年版ガイドラインが光線療法と交換輸血の閾値を2004年版より引き上げたこと、在胎週数と神経毒性リスク因子を分けたリスク区分を用いること、神経毒性リスク因子に相当する項目（溶血、G6PD欠乏症、敗血症、嗜眠、体温不安定、代謝性アシドーシス、血清アルブミン3.0 g/dL未満）が列記される。数値の照合：血清アルブミン3.0 g/dL未満を含むリスク因子の列記はカードと一致。留保：閾値が「生後時間に応じた曲線として在胎週数ごとに細分化」されている具体と、引き上げが「狭い範囲」で行われたという表現は候補にその形ではなく、その部分を留保して B。主出典の PMID 35927462 はカード側に記載があるがマスター未登録のため補完候補（申し送り参照）。主出典は両経路でライセンス表示がなく、UNKNOWN の据え置きが妥当"
+  },
+  {
+   "card": "NB-019",
+   "label": "OPEN、作り手の調査バッチ45 2026-11-11",
+   "text": "Paraparambil Vellamgot A, Thyvilayil Salim S, Salameh K, et al. Safety and effectiveness of the Kaiser Permanente early-onset neonatal sepsis calculator in Qatar. Front Pediatr. 2025（CC BY、PMID 41357808、DOI 10.3389/fped.2025.1637914、PMC12679295、新規 SRC 候補）。裏づける部分：候補（CC BY の検証研究）の全文に、早発型敗血症のリスク計算ツールが米国小児科学会に支持された3つのエビデンスに基づく方法の1つであること、母体の危険因子（発熱、破水の持続、GBS 保菌など）と児の臨床所見を組み合わせてリスクのある児を同定し抗菌薬投与の判断に用いる枠組みであることが明記され、敗血症の発生率が低下する一方で新生児への抗菌薬使用が多いことが背景として述べられる。数値の照合：候補の施設での早発型敗血症の発生率は出生1,000あたり0.88で、カードに発生率の数値は含まれないため照合の対象外。留保：発生率の減少の主因が分娩時抗菌薬投与の普及であることと、検査室検査だけでは感度も特異度も不十分であることは候補に明記がなく、その部分を留保して B。主出典の PMID 30455342 はカード側に記載があるがマスター未登録のため補完候補（申し送り参照）"
+  },
+  {
+   "card": "NB-020",
+   "label": "GOV_US、作り手の調査バッチ45 2026-11-11",
+   "text": "Verani JR, McGee L, Schrag SJ; Division of Bacterial Diseases, National Center for Immunization and Respiratory Diseases, Centers for Disease Control and Prevention (CDC). Prevention of Perinatal Group B Streptococcal Disease: Revised Guidelines from CDC, 2010. MMWR Recomm Rep. 2010;59(RR-10):1-36（GOV_US、PMID 21088663、https://pubmed.ncbi.nlm.nih.gov/21088663/、新規 SRC 候補）。裏づける部分：候補（CDC のガイドライン、MMWR は全資料がパブリックドメイン）に、在胎35〜37週の普遍的な出生前培養検査とそれに基づく分娩時抗菌薬予防投与が早発型 GBS 疾患予防の要であること、認可された GBS ワクチンがない現状ではこれが唯一の有効な予防戦略であること、分娩時予防投与は遅発型疾患を防がないこと、このガイドラインが米国産科婦人科学会と米国小児科学会を含む関係学会に支持されたことが明記される。数値の照合：該当なし（カードに数値は含まれない）。留保：GBS が新生児の早発型敗血症の最も多い原因であり若年乳児の遅発型敗血症の重要な原因であるという疫学の文言は、候補では早発型予防が中心で遅発型は予防できない対象として扱われ、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補。主出典の PMID 31285392 はカード側に記載があるがマスター未登録のため補完候補（申し送り参照）"
+  },
+  {
+   "card": "NB-021",
+   "label": "GOV_US、作り手の調査バッチ45 2026-11-11",
+   "text": "Centers for Disease Control and Prevention (CDC). About Vitamin K Deficiency Bleeding／How to Protect Babies from Life-threatening Bleeding（CDC の医療者向け・一般向けページ、2025-01-16 更新）（GOV_US、https://www.cdc.gov/vitamin-k-deficiency/hcp/fact-sheet/index.html、新規 SRC 候補）。裏づける部分：候補（CDC のページ、GOV_US）に、古典型ビタミンK欠乏性出血症は生後2日〜1週に起こること、乳児は出生時にビタミンKの貯蔵がごく少ないこと、母乳はビタミンKの含有量が低く母乳栄養児がリスクになること、ビタミンK欠乏性出血症は出生時の1回の注射で予防できることが明記される。数値の照合：古典型の時期（生後2日〜1週）はカードの「生後1週以内」と一致。留保：「哺乳の遅れや不足と関連する」という要素は CDC のページに明記がなく、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補。主出典（SRC-2732）の PMID はマスター登録済みで、Crossref は Elsevier の TDM のみ（マスターの記録どおり）"
+  },
+  {
+   "card": "NB-022",
+   "label": "GOV_US、作り手の調査バッチ45 2026-11-11",
+   "text": "Centers for Disease Control and Prevention (CDC). Notes from the Field: Late Vitamin K Deficiency Bleeding in Infants Whose Parents Declined Vitamin K Prophylaxis — Tennessee, 2013. MMWR Morb Mortal Wkly Rep. 2013;62(45):901-902（GOV_US、PMID 24226627、PMC4585350、https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6245a4.htm、新規 SRC 候補）。裏づける部分：候補（CDC の MMWR 報告、パブリックドメイン）の全文に、米国では出生時のビタミンK筋肉内投与が1961年の米国小児科学会の推奨以来の標準的ケアであること、2013年にテネシー州で、保護者が出生時のビタミンK投与を断った児に限って遅発型ビタミンK欠乏性出血症4例の集積が起きたことが明記される。数値の照合：予防投与なしの早発型・古典型の発生（出生の0.25〜1.7%）と遅発型（10万人あたり4.4〜7.2）は候補の背景値で、カードの主張の数値ではないため照合の対象外。留保：発生が「増加傾向」にあるという経年変化の裏づけと、代替の投与方法の効果が低いという要素は候補になく、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補。主出典の PMID 35190810 はカード側に記載があるがマスター未登録のため補完候補（申し送り参照）"
+  },
+  {
+   "card": "NB-023",
+   "label": "OPEN、作り手の調査バッチ45 2026-11-11",
+   "text": "Bell AH, Miller SL, Castillo-Melendez M, Malhotra A. The Neurovascular Unit: Effects of Brain Insults During the Perinatal Period. Front Neurosci. 2020;13:1452（CC BY、PMID 32038147、DOI 10.3389/fnins.2019.01452、PMC6987380、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、胚芽基質で内皮の増殖が他の部位より活発であること、胚芽基質では GFAP 陽性の星状膠細胞の足突起による血管の被覆が在胎23〜34週で他の部位より低いこと、VEGF とアンジオポエチン2が血管新生を促す因子として上昇すること、周皮細胞と基底膜を含む神経血管単位の未熟性が扱われる。数値の照合：該当なし。留保：病因の中心が脳血流の変動であることと、基底膜の未熟さの文言は候補では部分的な扱いで、その部分を留保して B。主出典の PMID 19816235 と PMCID PMC2799187 はカード側に記載があるがマスター未登録のため補完候補（申し送り参照）"
+  },
+  {
+   "card": "NB-026",
+   "label": "GOV_US、作り手の調査バッチ45 2026-11-11",
+   "text": "National Eye Institute (NEI). Retinopathy of Prematurity（NEI の疾患ページ、2025-08-06 更新）（GOV_US、https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinopathy-prematurity、新規 SRC 候補）。裏づける部分：候補（NEI のページ、GOV_US）に、未熟児網膜症は未熟な網膜に異常な血管が増える病態で、網膜剥離に進むと視力障害や失明の原因になること、治療（レーザー、注射、手術）が存在し視力を守るには早期の発見と治療が最善であること、リスクのある児は出生後4〜9週に初回検査を受け、以後1〜3週ごとの経過観察を予定どおり受ける重要性が明記される。数値の照合：初回検査の時期（出生後4〜9週）と経過観察の間隔（1〜3週ごと）は、カードが基準値そのものを含まないため照合は枠組みの一致にとどまる。留保：「重症例への有効な治療は30年以上前から存在する」という期間の要素と、米国小児科学会の2018年改訂の政策声明そのものへの言及は候補になく、その部分を留保して B。なお同一の主出典（SRC-1295）は眼科側の RE-016 でも使われ、バッチ44で CC BY 総説による B となっている。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NB-031",
+   "label": "OPEN、作り手の調査バッチ45 2026-11-11",
+   "text": "Devi U, Weitkamp JH, Shenberger JS, Garg PM. Diagnosis and Staging of Necrotizing Enterocolitis: Current Controversies and a Phenotype-Based Framework. Children (Basel). 2026;13(6):758（CC BY、PMID 42353928、DOI 10.3390/children13060758、PMC13297174、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、修正 Bell 分類が臨床と研究で最も広く使われる枠組みであること、Bell の原分類はもともと診断のためではなく病期に応じて治療方針を決めるために作られたことが明記され、病期と治療（支持療法・内科的治療・手術）の対応というカードの主張の骨格が裏づけられる。数値の照合：該当なし（原典の転帰の数値は候補に再掲がない）。留保：原典の症例集積の数値（48例、病期Iは全例生存、病期II・IIIの38例中32例・85%が急性期を生存）は候補に再掲がなく、その部分を留保して B。主出典の PMID 413500 はカード側に記載があるがマスター未登録のため補完候補（申し送り参照）"
+  }
+ ],
+ "rest_fix": {
+  "SRC-3363": "Springer の TDM 表示のみ（CC ではない。PMC の著者稿にもライセンス表示なし）"
+ },
+ "open_fix": []
+}

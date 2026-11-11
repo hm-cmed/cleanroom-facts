@@ -96,9 +96,9 @@
 
 - 条件：region: 国際／対象: 早産児
 - 不確実性：出典は欧州コンセンサスガイドラインの2025年版（第7版）で、CC BY-NC のため RESTRICTED とした。前版の2022年版は CC BY（OPEN）であり、版とライセンスが対応しない。肺サーファクタント製剤は国内ではサーファクテン気管注入用120mg（ウシ肺由来）が新生児呼吸窮迫症候群治療剤として薬価基準に収載され保険適用がある（製造販売承認は2025年1月に田辺三菱製薬から富士製薬工業へ承継された）。効能・効果の正確な文言と用法・用量は現行の電子添付文書での照合が未了である
-- 出典：Sweet DG, Carnielli VP, Greisen G, et al. European Consensus Guidelines on the Management of Respiratory Distress Syndrome: 2025. Neonatology. 2026;123(4):514-539　[DOI 10.1159/000551062](https://doi.org/10.1159/000551062)　[PMID 41802129](https://pubmed.ncbi.nlm.nih.gov/41802129/)（区分 RESTRICTED）
+- 出典：Sweet DG, Carnielli VP, Greisen G, et al. European Consensus Guidelines on the Management of Respiratory Distress Syndrome: 2022 Update. Neonatology. 2023　[DOI 10.1159/000528914](https://doi.org/10.1159/000528914)　[PMID 36863329](https://pubmed.ncbi.nlm.nih.gov/36863329/)（区分 OPEN）
 - 出題基準：医学各論 Ⅰ-3-D-①（呼吸窮迫症候群<RDS>、a）　コアカリ：PS-02-12-01 (id: Jli53Ic)；PS-02-12-03 (id: Jli53IQ)；TBL-01-00-443 (id: JlvnmJU)；TBL-02-11-007 (id: Jli6JmY)；PS-02-12-04 (id: Jli53IM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-007&card_id=NB-007&version=3a08b0941a)　（版 `3a08b0941a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-007&card_id=NB-007&version=2058245509)　（版 `2058245509`）
 
 ### NB-008　下書き（出典の照合前）
 
@@ -110,7 +110,7 @@
 - 出題基準：医学各論 Ⅰ-3-D-①（呼吸窮迫症候群<RDS>、a）　コアカリ：PS-02-12-01 (id: Jli53Ic)；PS-02-12-03 (id: Jli53IQ)；TBL-01-00-443 (id: JlvnmJU)；TBL-02-11-007 (id: Jli6JmY)；PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-008&card_id=NB-008&version=ad5bfa0373)　（版 `ad5bfa0373`）
 
-**[ここまでの 2 件（NB-007〜NB-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NB-007%E3%80%9CNB-008&cards=NB-007%203a08b0941a%0ANB-008%20ad5bfa0373)**
+**[ここまでの 2 件（NB-007〜NB-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NB-007%E3%80%9CNB-008&cards=NB-007%202058245509%0ANB-008%20ad5bfa0373)**
 
 ---
 
@@ -138,7 +138,7 @@
 
 - 条件：region: 国際／対象: 正期産児
 - 不確実性：出典のライセンス表示を確認できなかったため source_class は UNKNOWN とした
-- 出典：Alhassen Z, Vali P, Guglani L, Lakshminrusimha S, Ryan RM. Recent Advances in Pathophysiology and Management of Transient Tachypnea of Newborn. J Perinatol. 2021;41(1):6-16　[DOI 10.1038/s41372-020-0757-3](https://doi.org/10.1038/s41372-020-0757-3)　[PMID 32753712](https://pubmed.ncbi.nlm.nih.gov/32753712/)（区分 UNKNOWN）
+- 出典：Alhassen Z, Vali P, Guglani L, Lakshminrusimha S, Ryan RM. Recent Advances in Pathophysiology and Management of Transient Tachypnea of Newborn. J Perinatol. 2021;41(1):6-16　[DOI 10.1038/s41372-020-0757-3](https://doi.org/10.1038/s41372-020-0757-3)　[PMID 32753712](https://pubmed.ncbi.nlm.nih.gov/32753712/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-3-D-③（一過性多呼吸、b）　コアカリ：PS-02-12-01 (id: Jli53Ic)；TBL-01-00-447 (id: JlvnmJs)；TBL-02-11-007 (id: Jli6JmY)；PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-010&card_id=NB-010&version=1c1940a361)　（版 `1c1940a361`）
 
@@ -412,11 +412,11 @@
 
 - 条件：region: 国際／対象: 極低出生体重児
 - 不確実性：未熟児貧血の定義や、生理的貧血との違い、鉄補充の基準を示す総論級の一次資料は確認できていない。エリスロポエチン製剤の未熟児貧血への国内承認・保険適用は未確認である。神経保護目的の高用量エリスロポエチンの試験（PENUT試験）は貧血の治療を目的とした試験ではないため、本カードでは扱っていない
-- 出典：Kirpalani H, Bell EF, Hintz SR, et al. Higher or Lower Hemoglobin Transfusion Thresholds for Preterm Infants. N Engl J Med. 2020;383(27):2639-2651　[DOI 10.1056/NEJMoa2020248](https://doi.org/10.1056/NEJMoa2020248)　[PMID 33382931](https://pubmed.ncbi.nlm.nih.gov/33382931/)（区分 UNKNOWN）
+- 出典：ClinicalTrials.gov 登録・結果レコード NCT01702805（Transfusion of Prematures Trial、TOP 試験）　[リンク](https://clinicaltrials.gov/study/NCT01702805)（区分 GOV_US）
 - 出題基準：医学各論 Ⅰ-3-H-⑧（未熟児貧血、c）　コアカリ：PS-02-12-04 (id: Jli53IM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-029&card_id=NB-029&version=f97fb82182)　（版 `f97fb82182`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-029&card_id=NB-029&version=3745a72e7e)　（版 `3745a72e7e`）
 
-**[ここまでの 1 件（NB-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NB-029&cards=NB-029%20f97fb82182)**
+**[ここまでの 1 件（NB-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NB-029&cards=NB-029%203745a72e7e)**
 
 ---
 
