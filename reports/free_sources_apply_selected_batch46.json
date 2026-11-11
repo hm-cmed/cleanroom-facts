@@ -1,0 +1,40 @@
+{
+ "class": [
+  [
+   "SRC-367",
+   "UNKNOWN",
+   "OPEN"
+  ],
+  [
+   "SRC-352",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [
+  [
+   "RI-016",
+   "SRC-353",
+   "SRC-5023"
+  ]
+ ],
+ "B": [
+  "RI-007",
+  "RI-014",
+  "RI-015",
+  "RI-022",
+  "RI-024",
+  "RI-025",
+  "RI-028",
+  "RI-052",
+  "RI-053",
+  "RI-054",
+  "RI-055"
+ ],
+ "new_src": [
+  [
+   "SRC-5023",
+   "Miron M, Blaj M, Ristescu AI, et al. Hospital-Acquired Pneumonia and Ventilator-"
+  ]
+ ]
+}

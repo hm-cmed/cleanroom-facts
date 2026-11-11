@@ -157,7 +157,7 @@
     url: https://doi.org/10.1016/j.resinv.2025.06.014
     source_license: 未確認（ScienceDirect の取得に失敗。富山大学の研究者情報ページに OA・ライセンスの表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 英語版の抄録で確認した内容。本文は未確認
   curriculum:
@@ -173,6 +173,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-352 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: RI-006
   domain: RI
   subdomain: 市中肺炎
@@ -231,7 +234,7 @@
     source_license: CC の表示なし（学会の著作物。抽出できた範囲に転載条件の個別表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ46 2026-11-11）：Anderson R, Feldman C. The Global Burden of Community-Acquired Pneumonia in Adults, Encompassing Invasive Pneumococcal Disease and the Prevalence of Its Associated Cardiovascular Events, with a Focus on Pneumolysin and Macrolide Antibiotics in Pathogenesis and Therapy. Int J Mol Sci. 2023;24(13):11038（CC BY、PMID 37446214、DOI 10.3390/ijms241311038、PMC10341596、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、肺炎球菌が市中肺炎の最も多い細菌性原因菌であること、系統的レビューで最も多く同定された原因菌が肺炎球菌とインフルエンザ菌であったことが明記される。数値の照合：—。留保：肺炎マイコプラズマが多く検出されることと、成人肺炎診療ガイドライン2024のシステマティックレビューによる肺炎球菌15〜20%という集計値は候補に再掲がなく、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補
   uncertainty: 15〜20%は原因菌を検索した研究の集計にもとづく値で、原因菌が特定できない例を含めた割合かどうかは本文で確認が要る
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-208 (id: Jlvnlxc)；TBL-01-00-592 (id: JlvnmXc)'
@@ -246,6 +249,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ46 2026-11-11）。三原の承認（2026-11-11）による
 - id: RI-008
   domain: RI
   subdomain: 市中肺炎
@@ -476,7 +482,7 @@
     source_license: CC の表示なし（学会の著作物。抽出できた範囲に転載条件の個別表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ46 2026-11-11）：Anderson R, Feldman C. The Global Burden of Community-Acquired Pneumonia in Adults, Encompassing Invasive Pneumococcal Disease and the Prevalence of Its Associated Cardiovascular Events, with a Focus on Pneumolysin and Macrolide Antibiotics in Pathogenesis and Therapy. Int J Mol Sci. 2023;24(13):11038（CC BY、PMID 37446214、DOI 10.3390/ijms241311038、PMC10341596、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、β-ラクタム系薬とマクロライド系薬の併用が重症市中肺炎を含む入院例に対する現行ガイドラインの戦略として位置づけられ、併用の死亡利益が重症例で示され非重症例では示されなかった観察研究が引用される。数値の照合：—。留保：成人肺炎診療ガイドライン2024の弱い推奨そのものと確実性 C は候補になく、その部分を留保して B。候補は RI-007 と同一で、出典マスター未登録のため新規 SRC 登録候補
   uncertainty: 具体的な薬剤名・用量の推奨は今回抽出できた範囲に含まれない
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-208 (id: Jlvnlxc)；TBL-01-00-592 (id: JlvnmXc)'
@@ -491,6 +497,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ46 2026-11-11）。三原の承認（2026-11-11）による
 - id: RI-015
   domain: RI
   subdomain: 市中肺炎
@@ -511,7 +520,7 @@
     source_license: CC の表示なし（学会の著作物。抽出できた範囲に転載条件の個別表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ46 2026-11-11）：Fujishima S. Current corticosteroid therapeutic strategy for community-acquired pneumonia in adults: indications, dosage, and timing. J Intensive Care. 2025;13(1)（CC BY、PMID 40598558、DOI 10.1186/s40560-025-00809-8、PMC12210833、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、重症市中肺炎では全身性ステロイドが主要ガイドラインで概ね支持され、重症度（低酸素・呼吸不全の程度）に応じて個別化すべきことが明記され、日本の成人肺炎診療ガイドライン2024を含む各ガイドラインの重症の定義が対照される。数値の照合：—。留保：成人肺炎診療ガイドライン2024の弱い推奨（重症例では併用し、非重症例では併用しない）と確実性 C は候補になく、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: ステロイドの種類・量・期間は今回抽出できた範囲に含まれない
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-208 (id: Jlvnlxc)；TBL-01-00-592 (id: JlvnmXc)'
@@ -526,6 +535,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ46 2026-11-11）。三原の承認（2026-11-11）による
 - id: RI-016
   domain: RI
   subdomain: 院内肺炎
@@ -537,16 +549,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-353
-    source: 日本呼吸器学会 成人肺炎診療ガイドライン2024作成委員会. 成人肺炎診療ガイドライン2024（学会サイト掲載 PDF：推奨一覧・フローチャート・用語の定義・第1〜2章の一部）
-    doi: null
-    pmid: null
-    pmcid: null
-    url: https://www.jrs.or.jp/publication/file/adult_pneumonia_2024v5.pdf
-    source_license: CC の表示なし（学会の著作物。抽出できた範囲に転載条件の個別表示なし）
+    source_ref: SRC-5023
+    source: 'Miron M, Blaj M, Ristescu AI, et al. Hospital-Acquired Pneumonia and Ventilator-Associated Pneumonia: A Literature Review. Microorganisms. 2024;12(1):213'
+    doi: 10.3390/microorganisms12010213
+    pmid: '38276198'
+    pmcid: PMC10820465
+    url: https://europepmc.org/article/MED/38276198
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-353（日本呼吸器学会 成人肺炎診療ガイドライン2024作成委員会. 成人肺炎診療ガイドライン2024（学会サイト掲載 PDF：推奨一覧・フローチャート・用語の定義・第1〜2章の一部））
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-599 (id: JlvnmYE)'
@@ -561,6 +573,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-353 から自由に使える資料 SRC-5023 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：主張全体：候補（CC BY の総説）の全文に、院内肺炎（HAP）は入院後少なくとも48時間以降に現れる肺実質の感染であること、人工呼吸器関連肺炎（VAP）は気管挿管と人工呼吸を少なくとも48時間要した集中治療室の患者に生じることが明記され、VAP が HAP の亜型であることも述べられる。カードの2要素と一致する（作り手の調査バッチ46））。三原の承認（2026-11-11）による
 - id: RI-017
   domain: RI
   subdomain: 院内肺炎
@@ -755,8 +770,8 @@
     url: https://doi.org/10.1016/j.resinv.2025.06.014
     source_license: 未確認（ScienceDirect の取得に失敗。富山大学の研究者情報ページに OA・ライセンスの表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ46 2026-11-11）：Ukai T, Maruyama T, Tomioka S, et al. Predictors of hospital mortality and multidrug-resistant pathogens in hospitalized pneumonia patients residing in the community. Heliyon. 2023;9(12):e22303（CC BY、PMID 38125533、DOI 10.1016/j.heliyon.2023.e22303、PMC10730438、新規 SRC 候補）。裏づける部分：候補（CC BY の日本の大規模データ研究）の全文に、2019年の ATS/IDSA ガイドラインが医療ケア関連肺炎（HCAP）の概念を廃止したこと、その背景に耐性菌リスクの過大評価による広域抗菌薬の過剰使用への懸念があったことが明記される。数値の照合：—。留保：NHCAP が HCAP を日本向けに改変した分類であることと、2024年版が高齢者のために NHCAP を残し抗菌薬の使い方を絞ったという日本側の経緯は候補になく、その部分を留保して B。主出典（SRC-352）は CC BY-NC-ND で自由利用ではない。候補は出典マスター未登録のため新規 SRC 登録候補
   uncertainty: 英語版の抄録で確認した内容
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-599 (id: JlvnmYE)'
@@ -771,6 +786,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-352 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ46 2026-11-11）。三原の承認（2026-11-11）による
 - id: RI-023
   domain: RI
   subdomain: 医療・介護関連肺炎
@@ -826,7 +847,7 @@
     source_license: CC の表示なし（学会の著作物。抽出できた範囲に転載条件の個別表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ46 2026-11-11）：Ueda A, Nohara K. Swallowing rehabilitation in aspiration pneumonia: A scoping review of compensatory strategies and exercise training effectiveness. J Gen Fam Med. 2025;26(6)（CC BY、PMID 41195042、DOI 10.1002/jgf2.70047、PMC12585819、新規 SRC 候補）。裏づける部分：候補（CC BY のスコーピングレビュー）の全文に、誤嚥性肺炎の嚥下障害がフレイル・認知障害・併存疾患を含む多因子性のものであること、管理に嚥下リハビリテーションと口腔ケアを含む多面的な取り組みが要ることが明記される。数値の照合：—。留保：「嚥下機能障害のある人に生じた肺炎」という成人肺炎診療ガイドライン2024の定義の文言と「明確な診断基準はない」こと、中枢神経・頭頸部・胃食道の腫瘍などの器質的疾患の除外は候補になく、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-212 (id: Jlvnlx0)'
@@ -844,6 +865,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅳ-1-B-③（医療・介護関連肺炎、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ46 2026-11-11）。三原の承認（2026-11-11）による
 - id: RI-025
   domain: RI
   subdomain: 誤嚥性肺炎
@@ -864,7 +888,7 @@
     source_license: CC の表示なし（学会の著作物。抽出できた範囲に転載条件の個別表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ46 2026-11-11）：Funahara M, Sakamoto Y, Funahara R, Soutome S. Oral Care Strategies to Suppress Salivary Bacterial Growth for the Prevention of Aspiration Pneumonia in Older Individuals Requiring Long-Term Care. Cureus. 2025;17(8):e90547（CC BY、PMID 40978903、DOI 10.7759/cureus.90547、PMC12447250、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、口腔ケアの介入が誤嚥性肺炎の発症を有意に減らすこと（専門的な口腔ケアで肺炎のリスクが下がった系統的レビュー・メタ解析の結果を含む）が明記される。数値の照合：—。留保：誤嚥性肺炎への嫌気性菌カバーの推奨決定不能（CQ18 は3回の投票で委員の7割以上の賛成を満たさなかった）はガイドライン固有で候補になく、口腔ケアの弱い推奨の部分の裏づけとして B。候補は出典マスター未登録のため新規 SRC 登録候補
   uncertainty: CQ18 は3回の投票で推奨決定の条件（委員の7割以上の賛成）を満たさなかった
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-212 (id: Jlvnlx0)'
@@ -882,6 +906,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅳ-1-B-③（医療・介護関連肺炎、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ46 2026-11-11）。三原の承認（2026-11-11）による
 - id: RI-026
   domain: RI
   subdomain: 誤嚥性肺炎
@@ -978,7 +1005,7 @@
     source_license: 未確認（札幌市ホームページ。利用規約の表示は未確認）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_JP、作り手の調査バッチ46 2026-11-11）：厚生労働省. 高齢者の肺炎球菌ワクチン（Q&A は2026年2月20日版）（GOV_JP、https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/vaccine/pneumococcus-senior/index.html、新規 SRC 候補）。裏づける部分：候補（厚生労働省のページ、政府標準利用規約に基づく GOV_JP）に、令和8年度より定期接種で用いるワクチンが23価肺炎球菌莢膜ポリサッカライドワクチン（PPSV23）から沈降20価肺炎球菌結合型ワクチン（PCV20）に変更になったこと、定期接種は対象者に1回接種であることが明記され、カードの uncertainty にあった「変更の根拠となる厚生労働省の通知・告示は未確認」はこの範囲で解消する。数値の照合：—。留保：「すでに定期接種を受けた人は再度定期接種を受けることはできない」という文言そのものは候補のページでは確認できず（1回接種であることは明記される）、その部分を留保して B。候補のページは出典マスター未登録。なお厚生労働省の旧 Q&A ページは SRC-356（GOV_JP）として登録済みで、本ページはその後継にあたるため、SRC-356 の差し替えとして扱うか新規登録かは登録側の判断に委ねる（申し送り参照）
   uncertainty: 札幌市保健所のページで確認した。変更の根拠となる厚生労働省の通知・告示は未確認で、確認が要る
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-617 (id: JlvnmZs)'
@@ -996,6 +1023,9 @@
   - date: '2026-10-30'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-2-B-③ を足した（医学各論 Ⅳ-1-B-①（市中肺炎、a） → 医学各論 Ⅳ-1-B-①（市中肺炎、a）；医学各論 Ⅻ-2-B-③（肺炎球菌感染症、a））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP、作り手の調査バッチ46 2026-11-11）。三原の承認（2026-11-11）による
 - id: RI-029
   domain: RI
   subdomain: 市中肺炎
@@ -1646,9 +1676,9 @@
     pmid: null
     pmcid: null
     url: https://wwwnc.cdc.gov/eid/article/22/6/pdfs/15-1086.pdf
-    source_license: 未確認（CDC 刊行の雑誌。取得した PDF に著作権・利用条件の表示なし）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 呼吸器学会認定施設へのアンケート（回答率62.3%）と、結核との比率からの推計値
   curriculum:
@@ -1664,6 +1694,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-367 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: RI-048
   domain: RI
   subdomain: 非結核性抗酸菌症
@@ -1681,9 +1714,9 @@
     pmid: null
     pmcid: null
     url: https://wwwnc.cdc.gov/eid/article/22/6/pdfs/15-1086.pdf
-    source_license: 未確認（CDC 刊行の雑誌。取得した PDF に著作権・利用条件の表示なし）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 全国調査にもとづく推計
   curriculum:
@@ -1699,6 +1732,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-367 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: RI-049
   domain: RI
   subdomain: インフルエンザ、サイトメガロウイルス肺炎
@@ -1827,7 +1863,7 @@
     source_license: © Author(s) (or their employer(s)) 2023. No commercial re-use（論文 PDF の表示）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ46 2026-11-11）：Pearce C, Crapnell A, Bedawi EO, Rahman NM, Corcoran JP. Pleural Infection: Diagnosis, Management, and Future Directions. J Clin Med. 2025;14(5):1685（CC BY、PMID 40095674、DOI 10.3390/jcm14051685、PMC11899816、新規 SRC 候補）。裏づける部分：候補（CC BY の総説。BTS 胸膜疾患ガイドラインの共著者を含む）の全文に、BTS ガイドラインに基づく胸水 pH の判断表が再掲される：明らかな膿が引けない場合に pH を測り、7.2以下ではドレナージの適応、7.2超〜7.4未満では LDH が900 IU/L を超えるときドレナージを考慮、7.4以上では直ちには不要。pH が測れない場合は胸水の糖が3.3 mmol/L 未満を代替に使えること、局所麻酔薬やヘパリンの混入で pH が低く出ることも明記される。数値の照合：pH 7.2、LDH 900 IU/L、糖3.3 mmol/L はいずれもカードの値と一致。留保：BTS の強い推奨という推奨の強さそのものは候補になく、その部分を留保して B。主出典（SRC-370）の PMID 37553157 は出典マスター・カードのいずれにも記載がなく、Europe PMC の個別レコードでタイトル・著者の一致を確認した補完候補（申し送り参照）。SRC-370 は既知の二重登録（SRC-485 と同一文献）で付け替え済みであり、新規の重複ではない。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 局所麻酔薬やヘパリンの混入で pH は低く、測定が遅れると高く出る。糖3.3 mmol/L は約60 mg/dL に相当する。表から読み取り
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-213 (id: Jlvnlx4)；TBL-01-00-240 (id: Jlvnl08)'
@@ -1842,6 +1878,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ46 2026-11-11）。三原の承認（2026-11-11）による
 - id: RI-053
   domain: RI
   subdomain: 膿胸
@@ -1862,7 +1901,7 @@
     source_license: © Author(s) (or their employer(s)) 2023. No commercial re-use（論文 PDF の表示）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ46 2026-11-11）：Pearce C, Crapnell A, Bedawi EO, Rahman NM, Corcoran JP. Pleural Infection: Diagnosis, Management, and Future Directions. J Clin Med. 2025;14(5):1685（CC BY、PMID 40095674、DOI 10.3390/jcm14051685、PMC11899816、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、感染した胸水への初回の胸腔ドレーンには細径（14 Fr 以下）が推奨されること、MIST2 試験で組織プラスミノーゲン活性化因子（tPA）と DNase の併用のみが転帰を改善し、どちらか一方だけの投与では改善しなかったこと、ストレプトキナーゼは MIST1 試験で利益が示されなかったこと、外科治療（胸腔鏡手術を含む）を胸膜感染症の初期治療として位置づけるべきでないことが、最近のガイドラインの記載として明記される。数値の照合：—。留保：BTS の推奨の文言そのものは候補になく、その部分を留保して B。候補は RI-052 と同一で新規 SRC 登録候補。tPA・DNase の胸腔内投与の日本での承認・保険適用はカード側でも未確認で、本調査でも政府の全文文書では確定できなかったため、登録時の確認事項として残す（申し送り参照）'
   uncertainty: tPA・DNase の胸腔内投与の日本での承認・保険適用は確認していない
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-213 (id: Jlvnlx4)；TBL-01-00-240 (id: Jlvnl08)'
@@ -1877,6 +1916,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ46 2026-11-11）。三原の承認（2026-11-11）による
 - id: RI-054
   domain: RI
   subdomain: 肺吸虫症
@@ -1897,7 +1939,7 @@
     source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ46 2026-11-11）：Lane MA, Marcos LA, Onen NF, et al. Paragonimus kellicotti flukes in Missouri, USA. Emerg Infect Dis. 2012;18(8)（CC BY、PMID 22840191、DOI 10.3201/eid1808.120335、PMC3414046、新規 SRC 候補）。裏づける部分：候補（CDC の学術誌 Emerging Infectious Diseases の症例集積、CC BY）の全文に、喀痰中の虫卵の同定による診断が特異的であること、便中の虫卵の検査も行われること、プラジカンテル75 mg/kg（3分割）・2日間が肺吸虫症の治療の選択であることが明記される。CDC の DPDx の肺吸虫症ページ（GOV_US）にも、虫卵が喀痰中に排出され、または嚥下されて便とともに排出されることが記載される。数値の照合：プラジカンテル75 mg/kg/日・2日間はカードの用量と一致。留保：Johnson ら 1985 の症例集積の転帰（投与を完遂した7例中6例で90日までに喀痰と便の虫卵が陰性化し、残る1例も120日までに陰性化）は候補に再掲がなく、その部分を留保して B。プラジカンテルの現在の国内の標準治療・承認状況はカード側で未確認のままで、本調査でも政府の全文文書では確定できなかった（申し送り参照）。候補は出典マスター未登録のため新規 SRC 登録候補
   uncertainty: 1985年の報告であり、現在の国内の標準治療・承認状況は確認していない。出典のライセンスも未確認のため、取り込み時に確認が必要。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
@@ -1915,6 +1957,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ46 2026-11-11）。三原の承認（2026-11-11）による
 - id: RI-055
   domain: RI
   subdomain: 縦隔炎
@@ -1933,7 +1978,7 @@
     source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ46 2026-11-11）：Avgoustou C, Avgoustou C. Recognizing Descending Necrotizing Mediastinitis in Adults: A Narrative Review of Diagnostic Dilemmas and Barriers. Cureus. 2026;18(7):e112582（CC BY、PMID 42592242、DOI 10.7759/cureus.112582、PMC13464360、新規 SRC 候補）。裏づける部分：候補（CC BY の叙述的総説）の全文に、口腔咽頭の感染が深頸部の間隙を下行して縦隔へ広がる重篤な縦隔炎であること、現代の集学的な医科・外科協働の管理で生存が改善すること、外科的ドレナージの不足が転帰を悪くすること、重症例では集中治療下での管理が前提になることが述べられる。数値の照合：死亡率はカードが「約20%」（主出典 SRC-531 の総説の記載）に対し、候補は「最大で40%に達しうる」としており、両値を記録する。カードの値は主出典に基づくもので、誤りとは断定しない（主張チェック）。留保：縦隔の進展範囲に応じたドレナージの使い分けの具体は候補では分類名を伴う形では扱われず、その部分を留保して B。主出典（SRC-531）は Crossref・Europe PMC のいずれでもライセンス表示がなく、UNKNOWN の据え置きが妥当。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 単一施設の実践を含む総説であり、死亡率約20%はその総説の記載に基づく。出典のライセンスは未確認のため、取り込み時に確認が必要。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-244 (id: Jlvnl1o)'
@@ -1948,6 +1993,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ46 2026-11-11）。三原の承認（2026-11-11）による
 - id: RI-056
   domain: RI
   subdomain: 吸虫症、線虫症

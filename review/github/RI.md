@@ -77,7 +77,7 @@
 
 - 条件：guideline: 成人肺炎診療ガイドライン2024（日本呼吸器学会）／region: 日本
 - 不確実性：英語版の抄録で確認した内容。本文は未確認
-- 出典：Mukae H, Iwanaga N, Horita N, et al. The JRS guideline for the management of pneumonia in adults 2024. Respir Investig 2025;63(5):811-828　[DOI 10.1016/j.resinv.2025.06.014](https://doi.org/10.1016/j.resinv.2025.06.014)　[PMID 40614556](https://pubmed.ncbi.nlm.nih.gov/40614556/)（区分 UNKNOWN）
+- 出典：Mukae H, Iwanaga N, Horita N, et al. The JRS guideline for the management of pneumonia in adults 2024. Respir Investig 2025;63(5):811-828　[DOI 10.1016/j.resinv.2025.06.014](https://doi.org/10.1016/j.resinv.2025.06.014)　[PMID 40614556](https://pubmed.ncbi.nlm.nih.gov/40614556/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-1-B-①（市中肺炎、a）；医学各論 Ⅳ-1-B-③（医療・介護関連肺炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-208 (id: Jlvnlxc)；TBL-01-00-212 (id: Jlvnlx0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-005&card_id=RI-005&version=a68a4a1ac5)　（版 `a68a4a1ac5`）
 
@@ -233,9 +233,9 @@
 > 院内肺炎（HAP）は入院後48時間以上たってから新たに発症した肺炎をいい、人工呼吸器関連肺炎（VAP）は気管挿管による人工呼吸の開始から48時間以降に新たに発症した院内肺炎をいう。
 
 - 条件：guideline: 成人肺炎診療ガイドライン2024（日本呼吸器学会）／region: 日本
-- 出典：日本呼吸器学会 成人肺炎診療ガイドライン2024作成委員会. 成人肺炎診療ガイドライン2024（学会サイト掲載 PDF：推奨一覧・フローチャート・用語の定義・第1〜2章の一部）　[リンク](https://www.jrs.or.jp/publication/file/adult_pneumonia_2024v5.pdf)（区分 RESTRICTED）
+- 出典：Miron M, Blaj M, Ristescu AI, et al. Hospital-Acquired Pneumonia and Ventilator-Associated Pneumonia: A Literature Review. Microorganisms. 2024;12(1):213　[DOI 10.3390/microorganisms12010213](https://doi.org/10.3390/microorganisms12010213)　[PMID 38276198](https://pubmed.ncbi.nlm.nih.gov/38276198/)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-1-B-②（院内肺炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-599 (id: JlvnmYE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-016&card_id=RI-016&version=e079a1b7c0)　（版 `e079a1b7c0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-016&card_id=RI-016&version=30364bc161)　（版 `30364bc161`）
 
 ### RI-017　下書き（出典の照合前）
 
@@ -267,7 +267,7 @@
 - 出題基準：医学各論 Ⅳ-1-B-②（院内肺炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-599 (id: JlvnmYE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-019&card_id=RI-019&version=bcd15be2fe)　（版 `bcd15be2fe`）
 
-**[ここまでの 4 件（RI-016〜RI-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-016%E3%80%9CRI-019&cards=RI-016%20e079a1b7c0%0ARI-017%20ac6a4235ca%0ARI-018%200dfb6deae1%0ARI-019%20bcd15be2fe)**
+**[ここまでの 4 件（RI-016〜RI-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RI-016%E3%80%9CRI-019&cards=RI-016%2030364bc161%0ARI-017%20ac6a4235ca%0ARI-018%200dfb6deae1%0ARI-019%20bcd15be2fe)**
 
 ---
 
@@ -300,7 +300,7 @@
 - 条件：guideline: 成人肺炎診療ガイドライン2024（日本呼吸器学会）／region: 日本
 - よくある誤解：NHCAP は国際的に共通の肺炎分類である
 - 不確実性：英語版の抄録で確認した内容
-- 出典：Mukae H, Iwanaga N, Horita N, et al. The JRS guideline for the management of pneumonia in adults 2024. Respir Investig 2025;63(5):811-828　[DOI 10.1016/j.resinv.2025.06.014](https://doi.org/10.1016/j.resinv.2025.06.014)　[PMID 40614556](https://pubmed.ncbi.nlm.nih.gov/40614556/)（区分 UNKNOWN）
+- 出典：Mukae H, Iwanaga N, Horita N, et al. The JRS guideline for the management of pneumonia in adults 2024. Respir Investig 2025;63(5):811-828　[DOI 10.1016/j.resinv.2025.06.014](https://doi.org/10.1016/j.resinv.2025.06.014)　[PMID 40614556](https://pubmed.ncbi.nlm.nih.gov/40614556/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-1-B-③（医療・介護関連肺炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-599 (id: JlvnmYE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-022&card_id=RI-022&version=e66b1dcfbb)　（版 `e66b1dcfbb`）
 
@@ -556,7 +556,7 @@
 - 条件：region: 日本
 - よくある誤解：日本では非結核性抗酸菌症は結核よりまれである
 - 不確実性：呼吸器学会認定施設へのアンケート（回答率62.3%）と、結核との比率からの推計値
-- 出典：Namkoong H, Kurashima A, Morimoto K, et al. Epidemiology of pulmonary nontuberculous mycobacterial disease, Japan. Emerg Infect Dis 2016;22(6):1116-1117　[DOI 10.3201/eid2206.151086](https://doi.org/10.3201/eid2206.151086)（区分 UNKNOWN）
+- 出典：Namkoong H, Kurashima A, Morimoto K, et al. Epidemiology of pulmonary nontuberculous mycobacterial disease, Japan. Emerg Infect Dis 2016;22(6):1116-1117　[DOI 10.3201/eid2206.151086](https://doi.org/10.3201/eid2206.151086)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-1-D-②（非結核性抗酸菌症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-210 (id: Jlvnlxo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-047&card_id=RI-047&version=faaac610e0)　（版 `faaac610e0`）
 
@@ -566,7 +566,7 @@
 
 - 条件：region: 日本
 - 不確実性：全国調査にもとづく推計
-- 出典：Namkoong H, Kurashima A, Morimoto K, et al. Epidemiology of pulmonary nontuberculous mycobacterial disease, Japan. Emerg Infect Dis 2016;22(6):1116-1117　[DOI 10.3201/eid2206.151086](https://doi.org/10.3201/eid2206.151086)（区分 UNKNOWN）
+- 出典：Namkoong H, Kurashima A, Morimoto K, et al. Epidemiology of pulmonary nontuberculous mycobacterial disease, Japan. Emerg Infect Dis 2016;22(6):1116-1117　[DOI 10.3201/eid2206.151086](https://doi.org/10.3201/eid2206.151086)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-1-D-②（非結核性抗酸菌症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-210 (id: Jlvnlxo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-048&card_id=RI-048&version=48e7f37b67)　（版 `48e7f37b67`）
 

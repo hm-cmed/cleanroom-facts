@@ -4255,14 +4255,17 @@
   doi: 10.1016/j.resinv.2025.06.014
   pmid: '40614556'
   pmcid: null
-  license_note: 未確認（ScienceDirect の取得に失敗。富山大学の研究者情報ページに OA・ライセンスの表示なし）
+  license_note: CC BY-NC-ND 4.0（Crossref の version-of-record と Europe PMC）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（ScienceDirect の取得に失敗。富山大学の研究者情報ページに OA・ライセンスの表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-353
   legacy_id: null
   title: 日本呼吸器学会 成人肺炎診療ガイドライン2024作成委員会. 成人肺炎診療ガイドライン2024（学会サイト掲載 PDF：推奨一覧・フローチャート・用語の定義・第1〜2章の一部）
@@ -4480,14 +4483,17 @@
   doi: 10.3201/eid2206.151086
   pmid: null
   pmcid: null
-  license_note: 未確認（CDC 刊行の雑誌。取得した PDF に著作権・利用条件の表示なし）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（CDC 刊行の雑誌。取得した PDF に著作権・利用条件の表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
 - id: SRC-368
   legacy_id: null
   title: 'Centers for Disease Control and Prevention. Influenza Antiviral Medications: Summary for Clinicians (last reviewed 2026 Mar 10)'
@@ -36741,3 +36747,18 @@
   pmid: null
   source_class: GOV_US
   title: ClinicalTrials.gov 登録・結果レコード NCT01702805（Transfusion of Prematures Trial、TOP 試験）
+- citation: 'Miron M, Blaj M, Ristescu AI, et al. Hospital-Acquired Pneumonia and Ventilator-Associated Pneumonia: A Literature Review. Microorganisms. 2024;12(1):213'
+  doi: 10.3390/microorganisms12010213
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5023
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://europepmc.org/article/MED/38276198
+  pmcid: PMC10820465
+  pmid: '38276198'
+  source_class: OPEN
+  title: 'Miron M, Blaj M, Ristescu AI, et al. Hospital-Acquired Pneumonia and Ventilator-Associated Pneumonia: A Literature Review. Microorganisms. 2024;12(1):213'
