@@ -1,0 +1,167 @@
+{
+ "A": [
+  {
+   "card": "MP-034",
+   "class": "GOV_US",
+   "title": "ClinicalTrials.gov NCT00023595（STICH）結果登録",
+   "doi": null,
+   "pmid": null,
+   "pmcid": null,
+   "url": "https://clinicaltrials.gov/study/NCT00023595",
+   "why": "登録の適格基準（LVEF 35%以下、CABG に適した冠動脈疾患）と仮説1の結果（全死亡 HR 0.86〔0.72–1.04〕p=0.12、心血管死 HR 0.81〔0.66–1.00〕、死亡または心血管入院 HR 0.74〔0.64–0.85〕）で主張の全要素を確認（作り手の調査バッチ39）"
+  }
+ ],
+ "B": [
+  {
+   "card": "HF-001",
+   "label": "OPEN、作り手の調査バッチ38 2026-11-11",
+   "text": "Romanò M. J Clin Med. 2025（CC BY、PMID 40725784、DOI 10.3390/jcm14145090、PMC12295242、新規 SRC 候補）。裏づける部分と留保：駆出率による3区分（HFrEF 40%以下、HFmrEF 41〜49%、HFpEF 50%以上）と HFimpEF の基準（初回の LVEF 低下、10ポイント以上の改善、再測定で40%超）は一致。HFimpEF の初回値はカード「40%以下」、総説「40%未満」（等号のみの差、両値記録）。JCS/JHFS 2025 への帰属は対象外"
+  },
+  {
+   "card": "HF-007",
+   "label": "OPEN、作り手の調査バッチ38 2026-11-11",
+   "text": "Cao Z, Jia Y, Zhu B. Int J Mol Sci. 2019（CC BY、PMID 31013779、DOI 10.3390/ijms20081820、PMC6515513、新規 SRC 候補）。裏づける部分と留保：NT-proBNP の年齢別カットオフ（50歳未満450、50〜75歳900、75歳超1,800 pg/mL）と年齢によらない除外の300 pg/mL は一致。感度90%・特異度84%・陰性的中率98%は載らない"
+  },
+  {
+   "card": "HF-008",
+   "label": "OPEN、作り手の調査バッチ38 2026-11-11",
+   "text": "Urtiga R, Zarpelon LFB. ESC Heart Fail. 2026（CC BY、PMID 42657639、DOI 10.1093/eschf/xvag226、PMC13639474、新規 SRC 候補）。裏づける部分と留保：うっ血と低灌流の有無で分ける4プロファイル（warm/cold × wet/dry）の枠組みは一致。452人でのプロファイル B・C の予後は載らない"
+  },
+  {
+   "card": "HF-010",
+   "label": "OPEN、作り手の調査バッチ38 2026-11-11",
+   "text": "Sotoudeheian M, et al. Egypt Heart J. 2026（CC BY、PMID 42758371、DOI 10.1186/s43044-026-00780-1、PMC13589015、新規 SRC 候補）。裏づける部分と留保：うっ血のある急性心不全で静注利尿薬が初期管理の中心で、血管拡張薬はうっ血・灌流・血圧に応じて選ぶという骨格は一致。トルバプタン・サイアザイドの併用と血管拡張薬の禁忌は範囲外"
+  },
+  {
+   "card": "HF-011",
+   "label": "OPEN、作り手の調査バッチ38 2026-11-11",
+   "text": "Chaudhary F, et al. Cardiol Cardiovasc Med. 2026（CC BY、PMID 42799284、DOI 10.26502/fccm.92920505、PMC13614691、新規 SRC 候補）。裏づける部分と留保：急性心原性肺水腫への NPPV が気管挿管を減らすという無作為化試験の裏づけは一致。開始の目安（呼吸数25/分超、SpO2 90%未満）と酸素療法の閾値は載らない"
+  },
+  {
+   "card": "HF-012",
+   "label": "OPEN、作り手の調査バッチ38 2026-11-11",
+   "text": "Chaudhary F, et al. Cardiol Cardiovasc Med. 2026（同上）。裏づける部分と留保：ショックを伴う急性非代償性心不全での強心薬（ドブタミン等）と血管収縮薬（ノルアドレナリン）の役割は一致。低灌流のない患者への使用を勧めない部分（クラスIII）とクラス表記は範囲外"
+  },
+  {
+   "card": "HF-013",
+   "label": "OPEN、作り手の調査バッチ38 2026-11-11",
+   "text": "Luedde M, et al. Eur J Heart Fail. 2025（CC BY、PMID 41123042、DOI 10.1002/ejhf.70069、PMC12765466、新規 SRC 候補）。裏づける部分と留保：HFrEF 治療の4本柱（β遮断薬、ACE 阻害薬／ARB／ARNI、MRA、SGLT2 阻害薬〔ダパグリフロジン・エンパグリフロジン〕）は一致。ARNI への切り替えの推奨、JCS のクラス表記、β遮断薬の個別薬剤の指定は範囲外"
+  },
+  {
+   "card": "HF-015",
+   "label": "OPEN、作り手の調査バッチ38 2026-11-11",
+   "text": "Tkaczyszyn M, et al. ESC Heart Fail. 2026（CC BY、PMID 42172672、DOI 10.1093/eschf/xvag141、PMC13395091、新規 SRC 候補）。裏づける部分と留保：DAPA-HF の効果が糖尿病の有無で一貫していたことは一致（登録にはサブグループ結果がない）。割合は概数（16%対21%）"
+  },
+  {
+   "card": "HF-016",
+   "label": "OPEN、作り手の調査バッチ38 2026-11-11",
+   "text": "Tkaczyszyn M, et al. ESC Heart Fail. 2026（同上）。裏づける部分と留保：RALES の駆出率35%以下の1,663人で、死亡 284（35%）対 386（46%）、相対リスク0.70（0.60–0.82）、心不全悪化の約35%低下は一致。女性化乳房・乳房痛10%とスピロノラクトン25 mg は載らない"
+  },
+  {
+   "card": "HF-020",
+   "label": "OPEN、作り手の調査バッチ38 2026-11-11",
+   "text": "Siopi SA, et al. Cureus. 2024（CC BY、PMID 39575019、PMC11581444、既存の裏づけ）。裏づける部分と留保：心係数の閾値（SCAI C 期・SHOCK 基準として2.2 L/分/m²未満）。カードの「2.2以下」とは等号のみの差（両値記録）。輸液量と CPO 0.6 W は載らない"
+  },
+  {
+   "card": "MP-001",
+   "label": "OPEN、作り手の調査バッチ39 2026-11-11",
+   "text": "Vio R, et al. Hypertrophic Cardiomyopathy and Primary Restrictive Cardiomyopathy: Similarities, Differences and Synergies. J Clin Med. 2021（CC BY、PMID 34062949、DOI 10.3390/jcm10091954、PMC8125617、新規 SRC 候補）。裏づける部分と留保：HCM の定義（他の疾患で説明できない左室肥大）、最大壁厚15 mm以上（家族例13 mm以上）、二次性原因の除外は一致。JCS 2018 への帰属は対象外"
+  },
+  {
+   "card": "MP-002",
+   "label": "OPEN、作り手の調査バッチ39 2026-11-11",
+   "text": "Vio R, et al. J Clin Med. 2021（同上）。裏づける部分と留保：左室流出路圧較差30 mmHg超を閉塞の目安とし、安静時に約1/3、誘発でさらに約1/3が閉塞を示すことは一致。5型分類そのものは JCS 2018 固有で載らない"
+  },
+  {
+   "card": "MP-003",
+   "label": "OPEN、作り手の調査バッチ39 2026-11-11",
+   "text": "Vio R, et al. J Clin Med. 2021（同上）。裏づける部分と留保：有病率約500人に1人は一致。1998年の全国調査（10万人あたり17.3人）、心尖部肥大型の割合（日本約15%・米国約3%）、心室中部閉塞性約10%は載らない"
+  },
+  {
+   "card": "MP-004",
+   "label": "OPEN、作り手の調査バッチ39 2026-11-11",
+   "text": "Vio R, et al. J Clin Med. 2021（同上）。裏づける部分と留保：常染色体優性遺伝、サルコメア遺伝子変異、MYH7・MYBPC3 が最多（同定変異の約80%）、TNNT2・TNNI3 は一致。家族歴約60%と変異の検出率40〜60%は載らない"
+  },
+  {
+   "card": "MP-005",
+   "label": "OPEN、作り手の調査バッチ39 2026-11-11",
+   "text": "Costantino S, et al. Personalized Sudden Cardiac Death Risk Stratification in Hypertrophic Cardiomyopathy. J Pers Med. 2026（CC BY、PMID 42346598、DOI 10.3390/jpm16060287、PMC13301690、新規 SRC 候補）。裏づける部分と留保：原因不明の失神、非持続性心室頻拍、運動時の血圧反応異常が従来のリスクモデルの変数で、広範な LGE が追加のリスク修飾因子であることは一致。「血圧上昇25 mmHg未満」の閾値と推奨クラス表記は未確認"
+  },
+  {
+   "card": "MP-012",
+   "label": "GOV_JP、作り手の調査バッチ39 2026-11-11",
+   "text": "SRC-247（厚生労働省 指定難病28 全身性アミロイドーシス 概要、診断基準等、GOV_JP）と Yi, et al. Closing the diagnostic gap in transthyretin cardiac amyloidosis. Front Cardiovasc Med. 2026（CC BY、PMID 42871521、DOI 10.3389/fcvm.2026.1935800、PMC13658949、新規 SRC 候補）。裏づける部分と留保：病型分類（AL、ATTRwt〔旧称 老人性全身性アミロイドーシス〕、ATTRv）と ATTRwt が高齢男性に多いことは一致。年齢はカード「主に60歳以上」、総説「70歳超」（両値記録）。ATTRv の国内の集積地と AA 型の心病変は範囲外"
+  },
+  {
+   "card": "MP-014",
+   "label": "OPEN、作り手の調査バッチ39 2026-11-11",
+   "text": "Yi, et al. Front Cardiovasc Med. 2026（同上）。裏づける部分と留保：骨シンチグラフィ（99mTc-ピロリン酸）の Grade 2以上の心筋集積が、M蛋白スクリーニング陰性を条件に ATTR 型の非生検診断を支持することは一致。H/CL 比1.5以上は載らない"
+  },
+  {
+   "card": "MP-015",
+   "label": "OPEN、作り手の調査バッチ39 2026-11-11",
+   "text": "Yi, et al. Front Cardiovasc Med. 2026（同上）。裏づける部分と留保：ATTRwt の診断に AL 型の除外が必要で、M蛋白スクリーニング（血清免疫固定法・血清遊離軽鎖・尿免疫固定法）の構成、MGUS の併存、腹壁脂肪吸引を先に行い必要なら心筋生検という手順は一致。MGUS 併存の割合（10〜18%）は載らない"
+  },
+  {
+   "card": "MP-016",
+   "label": "GOV_JP、作り手の調査バッチ39 2026-11-11",
+   "text": "SRC-247（厚生労働省 指定難病28 全身性アミロイドーシス 概要、診断基準等、GOV_JP）。裏づける部分と留保：タファミジスが TTR 四量体安定化薬で、ATTRv で保険収載され、ATTRwt の心症状への有効性が示され適応追加となったことは一致。承認・収載の年月（2013年11月、2019年3月）は載らない（PMDA で確認）"
+  },
+  {
+   "card": "MP-022",
+   "label": "OPEN、作り手の調査バッチ39 2026-11-11",
+   "text": "Briglio, et al. Fulminant Myocarditis and Venoarterial Extracorporeal Membrane Oxygenation: A Systematic Review. Cureus. 2024（CC BY、PMID 38524063、DOI 10.7759/cureus.54711、PMC10960644、新規 SRC 候補）。裏づける部分と留保：Aoyama 2002 の集計（PCPS で治療した52人中30人〔57.7%〕が救命・日常生活に復帰、平均962日の追跡で死亡10%）が表に再掲され一致。再入院10%は載らない"
+  },
+  {
+   "card": "MP-023",
+   "label": "OPEN、作り手の調査バッチ39 2026-11-11",
+   "text": "Kim, et al. Pericardial Diseases in Cardiovascular Medicine: Contemporary Diagnosis, Risk Stratification, Management. Rev Cardiovasc Med. 2026（CC BY、PMID 42416575、DOI 10.31083/RCM50417、PMC13339194、新規 SRC 候補）。裏づける部分と留保：急性心膜炎の診断が4項目（特徴的な胸痛、心膜摩擦音、特徴的な心電図変化、新規または増悪した心膜液）のうち2つ以上によること、支持所見（炎症マーカー、画像上の炎症）は一致。心電図変化の内訳は総括的な記載のみ。ESC 2025 での照合直しは未"
+  },
+  {
+   "card": "MP-024",
+   "label": "OPEN、作り手の調査バッチ39 2026-11-11",
+   "text": "Kim, et al. Pericardial Diseases in Cardiovascular Medicine: Contemporary Diagnosis, Risk Stratification, Management. Rev Cardiovasc Med. 2026（CC BY、PMID 42416575、DOI 10.31083/RCM50417、PMC13339194、新規 SRC 候補）。裏づける部分と留保：アスピリン・NSAIDs へのコルヒチン併用、体重調整用量（70 kg未満は0.5〜0.6 mg 1日1回、70 kg以上は1日2回）、急性期約3か月、ステロイドを第一選択にしないこと、高リスク例の入院管理は一致。予後不良因子の列挙と推奨クラスは載らない。コルヒチンの国内適応は未確認"
+  },
+  {
+   "card": "MP-025",
+   "label": "OPEN、作り手の調査バッチ39 2026-11-11",
+   "text": "Kim, et al. Pericardial Diseases in Cardiovascular Medicine: Contemporary Diagnosis, Risk Stratification, Management. Rev Cardiovasc Med. 2026（CC BY、PMID 42416575、DOI 10.31083/RCM50417、PMC13339194、新規 SRC 候補）。裏づける部分と留保：心膜液の評価をまず心エコーで行い、タンポナーデ・悪性・限局性の貯留では心膜穿刺や外科的ドレナージ（剣状突起下の開窓を含む）を検討するという骨格は一致。緊急穿刺の適応の細部は限定的"
+  },
+  {
+   "card": "MP-026",
+   "label": "OPEN、作り手の調査バッチ39 2026-11-11",
+   "text": "Kim, et al. Pericardial Diseases in Cardiovascular Medicine: Contemporary Diagnosis, Risk Stratification, Management. Rev Cardiovasc Med. 2026（CC BY、PMID 42416575、DOI 10.31083/RCM50417、PMC13339194、新規 SRC 候補）。裏づける部分と留保：一過性（炎症性）の収縮は内科治療で改善しうること、慢性の収縮性心膜炎では心膜切除術が決定的な治療であること、結核性は慢性収縮への移行リスクが高いこと、画像は心エコーを第一に CT・MRI を併用することは一致。ウイルス性・特発性との対比、3〜6か月の区切り、心臓カテーテル検査の位置づけは載らない"
+  },
+  {
+   "card": "MP-027",
+   "label": "OPEN、作り手の調査バッチ39 2026-11-11",
+   "text": "Radkova, et al. Takotsubo Syndrome: Clinical and Diagnostic Characteristics of 26 Consecutively Hospitalized Patients. Cardiol Res. 2026（CC BY、PMID 42730459、DOI 10.14740/cr2249、PMC13568789、新規 SRC 候補）。裏づける部分と留保：InterTAK で女性が89.8%を占めたことは一致。平均年齢は概数（67歳、カード66.8歳）。誘因の内訳と神経・精神疾患の合併は載らない"
+  },
+  {
+   "card": "MP-028",
+   "label": "OPEN、作り手の調査バッチ39 2026-11-11",
+   "text": "Hayman, et al. The Takotsubo Syndrome: Where the Sympathetic Stress Reflex and the Dive Reflex Conflict. Cureus. 2026（CC BY、PMID 42708018、DOI 10.7759/cureus.114143、PMC13549085、新規 SRC 候補）。裏づける部分と留保：長期の全死亡が1人年あたり約5.6%、主要心脳血管イベントが約9.9%、院内死亡が STEMI に匹敵することは一致。入院時 LVEF と院内合併症の予測因子は載らない"
+  },
+  {
+   "card": "MP-035",
+   "label": "OPEN、作り手の調査バッチ39 2026-11-11",
+   "text": "Lacalle, et al. Role of Coronary Revascularization in Patients with Ischemic Heart Disease and Heart Failure with Reduced Ejection Fraction. J Clin Med. 2026（CC BY、PMID 41827358、DOI 10.3390/jcm15051941、PMC12985967、新規 SRC 候補）。裏づける部分と留保：REVIVED-BCIS2 の700人（PCI 347・薬物療法 353）、追跡中央値41か月、死亡と心不全入院に差なし（HR 0.99、0.78–1.27）は表に一致。登録 NCT01920048 は結果未掲載"
+  },
+  {
+   "card": "MP-036",
+   "label": "OPEN、作り手の調査バッチ39 2026-11-11",
+   "text": "Cureus 2026 の症例報告「Cardiac Metastasis From Lung Cancer: A Hidden Cardioembolic Source of Acute Ischemic Stroke」（CC BY、PMID 42861291、DOI 10.7759/cureus.116107、PMC13654582、新規 SRC 候補。著者は --online で確認）。裏づける部分と留保：心臓転移が剖検の2.3〜18.3%にみられ、原発性心腫瘍よりはるかに多いことは序文で一致。原発性心腫瘍の頻度と転移の多い原発の名指しは載らない"
+  },
+  {
+   "card": "MP-038",
+   "label": "OPEN、作り手の調査バッチ39 2026-11-11",
+   "text": "Kyriazidis, et al. Accuracy of diagnostic tests in cardiac injury after blunt chest trauma: a systematic review and meta-analysis. World J Emerg Surg. 2023（CC BY、PMID 37245048、DOI 10.1186/s13017-023-00504-9、PMC10225099、新規 SRC 候補）。裏づける部分と留保：心電図とトロポニンIの併用が除外に実用的という結論は、カードの骨格と一致。EAST の推奨文そのものは対象外"
+  }
+ ],
+ "rest_fix": {
+  "SRC-253": "ライセンス表示なし（Europe PMC で非OA、NEJM の著作物）"
+ },
+ "open_fix": [
+  "SRC-254"
+ ]
+}

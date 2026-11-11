@@ -74,7 +74,7 @@
 
 - 条件：region: 日本／framework: 医薬品の承認審査
 - 不確実性：承認日は抜粋に記載がなく未確認（令和7年3月6日の部会で承認可とされ、報告書は同年3月7日付）。添付文書の LVEF の監視や併用薬・遺伝子型による用量調節の記載は未確認
-- 出典：医薬品医療機器総合機構. カムザイオスカプセル（マバカムテン）審査報告書. 令和7年3月7日　[リンク](https://www.pmda.go.jp/drugs/2025/P20250403002/670605000_30700AMX00075_A100_2.pdf)（区分 UNKNOWN）
+- 出典：医薬品医療機器総合機構. カムザイオスカプセル（マバカムテン）審査報告書. 令和7年3月7日　[リンク](https://www.pmda.go.jp/drugs/2025/P20250403002/670605000_30700AMX00075_A100_2.pdf)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅴ-6-B-①（肥大型心筋症、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-178 (id: JlvnluA)；PS-02-06-04 (id: JkxnuQs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-007&card_id=MP-007&version=a008f6b6e3)　（版 `a008f6b6e3`）
 
@@ -351,7 +351,7 @@
 - 鑑別・補足：急性冠症候群
 - よくある誤解：たこつぼ症候群の誘因はほとんどが精神的ストレスである
 - 不確実性：ライセンスは未確認
-- 出典：Templin C, Ghadri JR, Diekmann J, et al. Clinical Features and Outcomes of Takotsubo (Stress) Cardiomyopathy. N Engl J Med 2015;373:929-938　[DOI 10.1056/NEJMoa1406761](https://doi.org/10.1056/NEJMoa1406761)（区分 UNKNOWN）
+- 出典：Templin C, Ghadri JR, Diekmann J, et al. Clinical Features and Outcomes of Takotsubo (Stress) Cardiomyopathy. N Engl J Med 2015;373:929-938　[DOI 10.1056/NEJMoa1406761](https://doi.org/10.1056/NEJMoa1406761)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-6-H-①（たこつぼ心筋症、b）　コアカリ：PS-02-06-05 (id: JkxnuQw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-027&card_id=MP-027&version=bc675b4058)　（版 `bc675b4058`）
 
@@ -362,7 +362,7 @@
 - 条件：population: InterTAK 登録／region: 欧州・米国
 - よくある誤解：たこつぼ症候群は予後のよい良性の病態である
 - 不確実性：ライセンスは未確認
-- 出典：Templin C, Ghadri JR, Diekmann J, et al. Clinical Features and Outcomes of Takotsubo (Stress) Cardiomyopathy. N Engl J Med 2015;373:929-938　[DOI 10.1056/NEJMoa1406761](https://doi.org/10.1056/NEJMoa1406761)（区分 UNKNOWN）
+- 出典：Templin C, Ghadri JR, Diekmann J, et al. Clinical Features and Outcomes of Takotsubo (Stress) Cardiomyopathy. N Engl J Med 2015;373:929-938　[DOI 10.1056/NEJMoa1406761](https://doi.org/10.1056/NEJMoa1406761)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-6-H-①（たこつぼ心筋症、b）　コアカリ：PS-02-06-05 (id: JkxnuQw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-028&card_id=MP-028&version=fbdae0344c)　（版 `fbdae0344c`）
 
@@ -379,7 +379,7 @@
 - 条件：region: 米国（登録研究）
 - よくある誤解：心臓震盪は胸部に強い外傷や骨折があるときに起こる
 - 不確実性：総説の記載で、元の登録研究・動物実験の論文は未確認（二次資料経由）。ライセンスの種類は未確認
-- 出典：Peng T, Trollinger Derry L, Yogeswaran V, et al. Commotio Cordis in 2023. Sports Med 2023;53:1527-1536　[DOI 10.1007/s40279-023-01873-6](https://doi.org/10.1007/s40279-023-01873-6)（区分 UNKNOWN）
+- 出典：Peng T, Trollinger Derry L, Yogeswaran V, et al. Commotio Cordis in 2023. Sports Med 2023;53:1527-1536　[DOI 10.1007/s40279-023-01873-6](https://doi.org/10.1007/s40279-023-01873-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅴ-6-H-②（心臓震盪、b）；医学各論 Ⅴ-1-B-③（心室細動、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-171 (id: JlvnltA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-029&card_id=MP-029&version=35fcc10c37)　（版 `35fcc10c37`）
 
@@ -389,7 +389,7 @@
 
 - 条件：region: 米国（登録研究）
 - 不確実性：総説の記載で、元の登録研究の論文は未確認（二次資料経由）
-- 出典：Peng T, Trollinger Derry L, Yogeswaran V, et al. Commotio Cordis in 2023. Sports Med 2023;53:1527-1536　[DOI 10.1007/s40279-023-01873-6](https://doi.org/10.1007/s40279-023-01873-6)（区分 UNKNOWN）
+- 出典：Peng T, Trollinger Derry L, Yogeswaran V, et al. Commotio Cordis in 2023. Sports Med 2023;53:1527-1536　[DOI 10.1007/s40279-023-01873-6](https://doi.org/10.1007/s40279-023-01873-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅴ-6-H-②（心臓震盪、b）；医学各論 Ⅴ-1-B-③（心室細動、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-171 (id: JlvnltA)；TBL-02-05-032 (id: JlAKpgM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-030&card_id=MP-030&version=eb8e240fbb)　（版 `eb8e240fbb`）
 
@@ -440,9 +440,9 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：本カードは2011年本論文の5年時点の結果の範囲。10年追跡（延長追跡）では全死亡の低下が報告されているが、その書誌は本カードの出典には含めていない。
-- 出典：Velazquez EJ, et al. Coronary-artery bypass surgery in patients with left ventricular dysfunction. N Engl J Med. 2011;364(17):1607-1616　[DOI 10.1056/NEJMoa1100356](https://doi.org/10.1056/NEJMoa1100356)　[PMID 21463150](https://pubmed.ncbi.nlm.nih.gov/21463150/)（区分 RESTRICTED）
+- 出典：ClinicalTrials.gov NCT00023595（STICH）結果登録　[リンク](https://clinicaltrials.gov/study/NCT00023595)（区分 GOV_US）
 - 出題基準：医学各論 Ⅴ-6-C-④（虚血性心筋症、b）　コアカリ：PS-02-06-05 (id: JkxnuQw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-034&card_id=MP-034&version=b273337f4a)　（版 `b273337f4a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-034&card_id=MP-034&version=bb2b65639e)　（版 `bb2b65639e`）
 
 ### MP-035　下書き（出典の照合前）
 
@@ -454,7 +454,7 @@
 - 出題基準：医学各論 Ⅴ-6-C-④（虚血性心筋症、b）　コアカリ：PS-02-06-05 (id: JkxnuQw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-035&card_id=MP-035&version=86ce64a565)　（版 `86ce64a565`）
 
-**[ここまでの 3 件（MP-033〜MP-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-033%E3%80%9CMP-035&cards=MP-033%202ff6089f86%0AMP-034%20b273337f4a%0AMP-035%2086ce64a565)**
+**[ここまでの 3 件（MP-033〜MP-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-033%E3%80%9CMP-035&cards=MP-033%202ff6089f86%0AMP-034%20bb2b65639e%0AMP-035%2086ce64a565)**
 
 ---
 

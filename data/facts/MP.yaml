@@ -18,7 +18,7 @@
     source_license: 「無断転載を禁ずる」の表示。CC の表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Vio R, et al. Hypertrophic Cardiomyopathy and Primary Restrictive Cardiomyopathy: Similarities, Differences and Synergies. J Clin Med. 2021（CC BY、PMID 34062949、DOI 10.3390/jcm10091954、PMC8125617、新規 SRC 候補）。裏づける部分と留保：HCM の定義（他の疾患で説明できない左室肥大）、最大壁厚15 mm以上（家族例13 mm以上）、二次性原因の除外は一致。JCS 2018 への帰属は対象外'
   uncertainty: 日本語版で確認した。英語版での該当箇所は未確認
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-178 (id: JlvnluA)；TBL-02-05-027 (id: JlAKpf4)'
@@ -33,6 +33,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-002
   domain: MP
   subdomain: 肥大型心筋症
@@ -53,7 +56,7 @@
     source_license: 「無断転載を禁ずる」の表示。CC の表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Vio R, et al. J Clin Med. 2021（同上）。裏づける部分と留保：左室流出路圧較差30 mmHg超を閉塞の目安とし、安静時に約1/3、誘発でさらに約1/3が閉塞を示すことは一致。5型分類そのものは JCS 2018 固有で載らない
   uncertainty: 日本語版で確認した。英語版での該当箇所は未確認
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-178 (id: JlvnluA)；TBL-02-05-027 (id: JlAKpf4)'
@@ -68,6 +71,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-003
   domain: MP
   subdomain: 肥大型心筋症
@@ -88,7 +94,7 @@
     source_license: 「無断転載を禁ずる」の表示。CC の表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Vio R, et al. J Clin Med. 2021（同上）。裏づける部分と留保：有病率約500人に1人は一致。1998年の全国調査（10万人あたり17.3人）、心尖部肥大型の割合（日本約15%・米国約3%）、心室中部閉塞性約10%は載らない
   uncertainty: 数値はガイドラインが引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-178 (id: JlvnluA)'
@@ -103,6 +109,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-004
   domain: MP
   subdomain: 肥大型心筋症
@@ -123,7 +132,7 @@
     source_license: 「無断転載を禁ずる」の表示。CC の表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Vio R, et al. J Clin Med. 2021（同上）。裏づける部分と留保：常染色体優性遺伝、サルコメア遺伝子変異、MYH7・MYBPC3 が最多（同定変異の約80%）、TNNT2・TNNI3 は一致。家族歴約60%と変異の検出率40〜60%は載らない
   uncertainty: 数値はガイドラインが引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-178 (id: JlvnluA)'
@@ -138,6 +147,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-005
   domain: MP
   subdomain: 肥大型心筋症
@@ -158,7 +170,7 @@
     source_license: 「無断転載を禁ずる」の表示。CC の表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Costantino S, et al. Personalized Sudden Cardiac Death Risk Stratification in Hypertrophic Cardiomyopathy. J Pers Med. 2026（CC BY、PMID 42346598、DOI 10.3390/jpm16060287、PMC13301690、新規 SRC 候補）。裏づける部分と留保：原因不明の失神、非持続性心室頻拍、運動時の血圧反応異常が従来のリスクモデルの変数で、広範な LGE が追加のリスク修飾因子であることは一致。「血圧上昇25 mmHg未満」の閾値と推奨クラス表記は未確認
   uncertainty: 推奨クラスI・エビデンスレベルA の対象となる推奨文（表16）の文言は未確認。ICD の推奨と、最大壁厚などその他の危険因子は取得範囲外で未確認
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-178 (id: JlvnluA)；TBL-02-05-029 (id: JlAKpgA)；TBL-02-05-017 (id: JlAKpfo)'
@@ -173,6 +185,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-006
   domain: MP
   subdomain: 肥大型心筋症
@@ -225,9 +240,9 @@
     pmid: null
     pmcid: null
     url: https://www.pmda.go.jp/drugs/2025/P20250403002/670605000_30700AMX00075_A100_2.pdf
-    source_license: 未確認（PMDA の利用規約を確認していない）
+    source_license: 公共データ利用規約第1.0版（PMDA）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: GOV_JP
     corroboration: null
   uncertainty: 承認日は抜粋に記載がなく未確認（令和7年3月6日の部会で承認可とされ、報告書は同年3月7日付）。添付文書の LVEF の監視や併用薬・遺伝子型による用量調節の記載は未確認
   curriculum:
@@ -243,6 +258,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-243 の区分の訂正にあわせて provenance.source_class を UNKNOWN から GOV_JP にした。三原の承認（2026-11-11）による
 - id: MP-008
   domain: MP
   subdomain: 拡張型心筋症
@@ -403,7 +421,7 @@
     source_license: 「無断転載を禁ずる」の表示。CC の表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_JP、作り手の調査バッチ39 2026-11-11）：SRC-247（厚生労働省 指定難病28 全身性アミロイドーシス 概要、診断基準等、GOV_JP）と Yi, et al. Closing the diagnostic gap in transthyretin cardiac amyloidosis. Front Cardiovasc Med. 2026（CC BY、PMID 42871521、DOI 10.3389/fcvm.2026.1935800、PMC13658949、新規 SRC 候補）。裏づける部分と留保：病型分類（AL、ATTRwt〔旧称 老人性全身性アミロイドーシス〕、ATTRv）と ATTRwt が高齢男性に多いことは一致。年齢はカード「主に60歳以上」、総説「70歳超」（両値記録）。ATTRv の国内の集積地と AA 型の心病変は範囲外
   uncertainty: 日本語版で確認した。英語版での該当箇所は未確認
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-179 (id: JlvnluU)'
@@ -418,6 +436,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-013
   domain: MP
   subdomain: 心アミロイドーシス
@@ -473,7 +494,7 @@
     source_license: 「無断転載を禁ずる」の表示。CC の表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Yi, et al. Front Cardiovasc Med. 2026（同上）。裏づける部分と留保：骨シンチグラフィ（99mTc-ピロリン酸）の Grade 2以上の心筋集積が、M蛋白スクリーニング陰性を条件に ATTR 型の非生検診断を支持することは一致。H/CL 比1.5以上は載らない
   uncertainty: 保険適用は2020年時点の記載で、その後の状況は未確認。推奨の強さ（CQ1）の表は取得範囲外で未確認
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-179 (id: JlvnluU)；TBL-02-05-028 (id: JlAKpf8)'
@@ -488,6 +509,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-015
   domain: MP
   subdomain: 心アミロイドーシス
@@ -508,7 +532,7 @@
     source_license: 「無断転載を禁ずる」の表示。CC の表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Yi, et al. Front Cardiovasc Med. 2026（同上）。裏づける部分と留保：ATTRwt の診断に AL 型の除外が必要で、M蛋白スクリーニング（血清免疫固定法・血清遊離軽鎖・尿免疫固定法）の構成、MGUS の併存、腹壁脂肪吸引を先に行い必要なら心筋生検という手順は一致。MGUS 併存の割合（10〜18%）は載らない
   uncertainty: MGUS 併存の割合はガイドラインが引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-179 (id: JlvnluU)'
@@ -523,6 +547,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-016
   domain: MP
   subdomain: 心アミロイドーシス
@@ -543,7 +570,7 @@
     source_license: 「無断転載を禁ずる」の表示。CC の表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_JP、作り手の調査バッチ39 2026-11-11）：SRC-247（厚生労働省 指定難病28 全身性アミロイドーシス 概要、診断基準等、GOV_JP）。裏づける部分と留保：タファミジスが TTR 四量体安定化薬で、ATTRv で保険収載され、ATTRwt の心症状への有効性が示され適応追加となったことは一致。承認・収載の年月（2013年11月、2019年3月）は載らない（PMDA で確認）
   uncertainty: 推奨の強さと施設・医師の要件（表38）は取得範囲外で未確認。日本語版で確認した。英語版での該当箇所は未確認
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-179 (id: JlvnluU)；PS-02-06-04 (id: JkxnuQs)'
@@ -558,6 +585,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-017
   domain: MP
   subdomain: 心アミロイドーシス
@@ -752,7 +782,7 @@
     source_license: © 2002 The Japanese Circulation Society（Free Access。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Briglio, et al. Fulminant Myocarditis and Venoarterial Extracorporeal Membrane Oxygenation: A Systematic Review. Cureus. 2024（CC BY、PMID 38524063、DOI 10.7759/cureus.54711、PMC10960644、新規 SRC 候補）。裏づける部分と留保：Aoyama 2002 の集計（PCPS で治療した52人中30人〔57.7%〕が救命・日常生活に復帰、平均962日の追跡で死亡10%）が表に再掲され一致。再入院10%は載らない'
   uncertainty: 現在の補助循環（IMPELLA など）を含む治療成績とは異なる可能性がある。2023年改訂版の心筋炎ガイドラインの本文は取得できず未確認
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-180 (id: JlvnluY)；PS-02-06-04 (id: JkxnuQs)'
@@ -767,6 +797,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-023
   domain: MP
   subdomain: 急性心膜炎
@@ -787,7 +820,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Kim, et al. Pericardial Diseases in Cardiovascular Medicine: Contemporary Diagnosis, Risk Stratification, Management. Rev Cardiovasc Med. 2026（CC BY、PMID 42416575、DOI 10.31083/RCM50417、PMC13339194、新規 SRC 候補）。裏づける部分と留保：急性心膜炎の診断が4項目（特徴的な胸痛、心膜摩擦音、特徴的な心電図変化、新規または増悪した心膜液）のうち2つ以上によること、支持所見（炎症マーカー、画像上の炎症）は一致。心電図変化の内訳は総括的な記載のみ。ESC 2025 での照合直しは未'
   uncertainty: ESC 2015 ガイドラインの本文ではなく要約論文で確認した（二次資料経由）。2025年に ESC の心筋炎・心膜炎ガイドラインが公表されている
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-182 (id: Jlvnluk)；TBL-02-05-021 (id: JlAKpfI)'
@@ -802,6 +835,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-024
   domain: MP
   subdomain: 急性心膜炎
@@ -822,7 +858,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Kim, et al. Pericardial Diseases in Cardiovascular Medicine: Contemporary Diagnosis, Risk Stratification, Management. Rev Cardiovasc Med. 2026（CC BY、PMID 42416575、DOI 10.31083/RCM50417、PMC13339194、新規 SRC 候補）。裏づける部分と留保：アスピリン・NSAIDs へのコルヒチン併用、体重調整用量（70 kg未満は0.5〜0.6 mg 1日1回、70 kg以上は1日2回）、急性期約3か月、ステロイドを第一選択にしないこと、高リスク例の入院管理は一致。予後不良因子の列挙と推奨クラスは載らない。コルヒチンの国内適応は未確認'
   uncertainty: ESC 2015 ガイドラインの要約論文で確認した（二次資料経由）。国内でのコルヒチンの心膜炎への保険適用は確認していない
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-182 (id: Jlvnluk)；PS-02-06-04 (id: JkxnuQs)'
@@ -837,6 +873,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-025
   domain: MP
   subdomain: 心タンポナーデ
@@ -857,7 +896,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Kim, et al. Pericardial Diseases in Cardiovascular Medicine: Contemporary Diagnosis, Risk Stratification, Management. Rev Cardiovasc Med. 2026（CC BY、PMID 42416575、DOI 10.31083/RCM50417、PMC13339194、新規 SRC 候補）。裏づける部分と留保：心膜液の評価をまず心エコーで行い、タンポナーデ・悪性・限局性の貯留では心膜穿刺や外科的ドレナージ（剣状突起下の開窓を含む）を検討するという骨格は一致。緊急穿刺の適応の細部は限定的'
   uncertainty: ESC 2015 ガイドラインの要約論文で確認した（二次資料経由）。奇脈などの身体所見の記載は要約になく未確認
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-184 (id: Jlvnluw)；TBL-02-05-027 (id: JlAKpf4)'
@@ -872,6 +911,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-026
   domain: MP
   subdomain: 収縮性心膜炎
@@ -892,7 +934,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: MP-011（拘束型心筋症）
+    corroboration: 'MP-011（拘束型心筋症）。自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Kim, et al. Pericardial Diseases in Cardiovascular Medicine: Contemporary Diagnosis, Risk Stratification, Management. Rev Cardiovasc Med. 2026（CC BY、PMID 42416575、DOI 10.31083/RCM50417、PMC13339194、新規 SRC 候補）。裏づける部分と留保：一過性（炎症性）の収縮は内科治療で改善しうること、慢性の収縮性心膜炎では心膜切除術が決定的な治療であること、結核性は慢性収縮への移行リスクが高いこと、画像は心エコーを第一に CT・MRI を併用することは一致。ウイルス性・特発性との対比、3〜6か月の区切り、心臓カテーテル検査の位置づけは載らない'
   uncertainty: ESC 2015 ガイドラインの要約論文で確認した（二次資料経由）。原因別の発症率の数値は要約になく未確認
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-183 (id: Jlvnlus)；TBL-02-05-027 (id: JlAKpf4)；TBL-02-05-030 (id: JlAKpgE)'
@@ -907,6 +949,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-027
   domain: MP
   subdomain: たこつぼ心筋症
@@ -926,8 +971,8 @@
     url: https://doi.org/10.1056/NEJMoa1406761
     source_license: 未確認（リポジトリに表示なし。出版社の著作物と考えられる）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Radkova, et al. Takotsubo Syndrome: Clinical and Diagnostic Characteristics of 26 Consecutively Hospitalized Patients. Cardiol Res. 2026（CC BY、PMID 42730459、DOI 10.14740/cr2249、PMC13568789、新規 SRC 候補）。裏づける部分と留保：InterTAK で女性が89.8%を占めたことは一致。平均年齢は概数（67歳、カード66.8歳）。誘因の内訳と神経・精神疾患の合併は載らない'
   uncertainty: ライセンスは未確認
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
@@ -942,6 +987,12 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-253 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-028
   domain: MP
   subdomain: たこつぼ心筋症
@@ -961,8 +1012,8 @@
     url: https://doi.org/10.1056/NEJMoa1406761
     source_license: 未確認（リポジトリに表示なし。出版社の著作物と考えられる）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Hayman, et al. The Takotsubo Syndrome: Where the Sympathetic Stress Reflex and the Dive Reflex Conflict. Cureus. 2026（CC BY、PMID 42708018、DOI 10.7759/cureus.114143、PMC13549085、新規 SRC 候補）。裏づける部分と留保：長期の全死亡が1人年あたり約5.6%、主要心脳血管イベントが約9.9%、院内死亡が STEMI に匹敵することは一致。入院時 LVEF と院内合併症の予測因子は載らない'
   uncertainty: ライセンスは未確認
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
@@ -977,6 +1028,12 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-253 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-029
   domain: MP
   subdomain: 心臓震盪
@@ -993,9 +1050,9 @@
     pmid: null
     pmcid: null
     url: https://doi.org/10.1007/s40279-023-01873-6
-    source_license: Open access（© The Author(s)）。CC の種類は未確認
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 総説の記載で、元の登録研究・動物実験の論文は未確認（二次資料経由）。ライセンスの種類は未確認
   curriculum:
@@ -1011,6 +1068,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-254 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: MP-030
   domain: MP
   subdomain: 心臓震盪
@@ -1027,9 +1087,9 @@
     pmid: null
     pmcid: null
     url: https://doi.org/10.1007/s40279-023-01873-6
-    source_license: Open access（© The Author(s)）。CC の種類は未確認
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 総説の記載で、元の登録研究の論文は未確認（二次資料経由）
   curriculum:
@@ -1045,6 +1105,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-254 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: MP-031
   domain: MP
   subdomain: 粘液腫
@@ -1160,16 +1223,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-4384
-    source: Velazquez EJ, et al. Coronary-artery bypass surgery in patients with left ventricular dysfunction. N Engl J Med. 2011;364(17):1607-1616
-    doi: 10.1056/NEJMoa1100356
-    pmid: '21463150'
+    source_ref: SRC-5009
+    source: ClinicalTrials.gov NCT00023595（STICH）結果登録
+    doi: null
+    pmid: null
     pmcid: null
-    url: https://doi.org/10.1056/NEJMoa1100356
-    source_license: 未確認（購読誌、CC 表示なし）
+    url: https://clinicaltrials.gov/study/NCT00023595
+    source_license: 米国連邦政府の著作物
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: GOV_US
+    corroboration: 元の主出典：SRC-4384（Velazquez EJ, et al. Coronary-artery bypass surgery in patients with left ventricular dysfunction. N Engl J Med. 2011;364(17):1607-1616）
   uncertainty: 本カードは2011年本論文の5年時点の結果の範囲。10年追跡（延長追跡）では全死亡の低下が報告されているが、その書誌は本カードの出典には含めていない。
   curriculum:
     kokushi: 医学各論 Ⅴ-6-C-④（虚血性心筋症、b）
@@ -1184,6 +1247,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-4384 から自由に使える資料 SRC-5009 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：登録の適格基準（LVEF 35%以下、CABG に適した冠動脈疾患）と仮説1の結果（全死亡 HR 0.86〔0.72–1.04〕p=0.12、心血管死 HR 0.81〔0.66–1.00〕、死亡または心血管入院 HR 0.74〔0.64–0.85〕）で主張の全要素を確認（作り手の調査バッチ39））。三原の承認（2026-11-11）による
 - id: MP-035
   domain: MP
   subdomain: 虚血性心筋症
@@ -1204,7 +1270,7 @@
     source_license: 未確認（購読誌、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Lacalle, et al. Role of Coronary Revascularization in Patients with Ischemic Heart Disease and Heart Failure with Reduced Ejection Fraction. J Clin Med. 2026（CC BY、PMID 41827358、DOI 10.3390/jcm15051941、PMC12985967、新規 SRC 候補）。裏づける部分と留保：REVIVED-BCIS2 の700人（PCI 347・薬物療法 353）、追跡中央値41か月、死亡と心不全入院に差なし（HR 0.99、0.78–1.27）は表に一致。登録 NCT01920048 は結果未掲載
   uncertainty: 本試験は英国の施設で実施された。血行再建の方法と適応は、病変の範囲や全身状態により個別に判断される。
   curriculum:
     kokushi: 医学各論 Ⅴ-6-C-④（虚血性心筋症、b）
@@ -1219,6 +1285,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-036
   domain: MP
   subdomain: 転移性腫瘍
@@ -1239,7 +1308,7 @@
     source_license: 未確認（購読誌、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Cureus 2026 の症例報告「Cardiac Metastasis From Lung Cancer: A Hidden Cardioembolic Source of Acute Ischemic Stroke」（CC BY、PMID 42861291、DOI 10.7759/cureus.116107、PMC13654582、新規 SRC 候補。著者は --online で確認）。裏づける部分と留保：心臓転移が剖検の2.3〜18.3%にみられ、原発性心腫瘍よりはるかに多いことは序文で一致。原発性心腫瘍の頻度と転移の多い原発の名指しは載らない'
   uncertainty: 頻度は剖検シリーズの対象や年代により幅が大きく、本カードでは範囲のまま記載した。
   curriculum:
     kokushi: 医学各論 Ⅴ-6-F-②（転移性腫瘍、c）
@@ -1254,6 +1323,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-037
   domain: MP
   subdomain: 転移性腫瘍
@@ -1309,7 +1381,7 @@
     source_license: 未確認（購読誌、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Kyriazidis, et al. Accuracy of diagnostic tests in cardiac injury after blunt chest trauma: a systematic review and meta-analysis. World J Emerg Surg. 2023（CC BY、PMID 37245048、DOI 10.1186/s13017-023-00504-9、PMC10225099、新規 SRC 候補）。裏づける部分と留保：心電図とトロポニンIの併用が除外に実用的という結論は、カードの骨格と一致。EAST の推奨文そのものは対象外'
   uncertainty: 出典の EAST ガイドラインは鈍的外傷のみが対象で、穿通性心臓外傷には適用できない。日本の外傷診療ガイドラインでの心臓外傷の扱いは未確認。
   curriculum:
     kokushi: 医学各論 Ⅴ-6-G-①（心臓外傷、c）
@@ -1324,6 +1396,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
 - id: MP-039
   domain: MP
   subdomain: 心臓外傷
