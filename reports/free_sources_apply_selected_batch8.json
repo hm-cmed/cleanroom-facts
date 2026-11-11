@@ -1,0 +1,62 @@
+{
+ "class": [
+  [
+   "SRC-1943",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1957",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [
+  [
+   "TJ-003",
+   "SRC-1806",
+   "SRC-4999"
+  ],
+  [
+   "TJ-012",
+   "SRC-1930",
+   "SRC-5000"
+  ],
+  [
+   "TJ-039",
+   "SRC-1956",
+   "SRC-5001"
+  ]
+ ],
+ "B": [
+  "TJ-004",
+  "TJ-007",
+  "TJ-008",
+  "TJ-050",
+  "TJ-014",
+  "TJ-028",
+  "TJ-030",
+  "TJ-045",
+  "TJ-048",
+  "TJ-055",
+  "TJ-056",
+  "TJ-071",
+  "TJ-079",
+  "TJ-080",
+  "TJ-012"
+ ],
+ "new_src": [
+  [
+   "SRC-4999",
+   "Chou R, Totten AM, Pappas M, et al. Glasgow Coma Scale for Field Triage of Traum"
+  ],
+  [
+   "SRC-5000",
+   "Douglas DB, Ro T, Toffoli T, et al. Neuroimaging of Traumatic Brain Injury. Med "
+  ],
+  [
+   "SRC-5001",
+   "Uchida Y, Kawabata M, Kumazawa Y, et al. Severity-dependent recovery time in acu"
+  ]
+ ]
+}

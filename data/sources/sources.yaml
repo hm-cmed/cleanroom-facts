@@ -22093,14 +22093,17 @@
   doi: 10.46292/sci2702-1
   pmid: '34108832'
   pmcid: null
-  license_note: Topics in Spinal Cord Injury Rehabilitation（CC表示を確認できず）
+  license_note: © ASIA, All rights reserved（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Topics in Spinal Cord Injury Rehabilitation（CC表示を確認できず）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1944
   legacy_id: null
   title: 'van Middendorp JJ, Hosman AJ, Pouw MH, Van de Meent H; EM-SCI Study Group. Diagnostic criteria of traumatic central cord syndrome. Part 1: a systematic review of clinical descriptors and scores. Spinal Cord. 2010'
@@ -22303,14 +22306,17 @@
   doi: 10.1136/bjsports-2019-101253
   pmid: '31377722'
   pmcid: null
-  license_note: British Journal of Sports Medicine（CC表示を確認できず）
+  license_note: © BMJ、商用再利用不可（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：British Journal of Sports Medicine（CC表示を確認できず）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1958
   legacy_id: null
   title: 'Anderson DD, Chubinskaya S, Guilak F, et al. Post-traumatic osteoarthritis: improved understanding and opportunities for early intervention. J Orthop Res. 2011;29(6):802-809'
@@ -36258,3 +36264,48 @@
   pmid: null
   source_class: GOV_US
   title: ClinicalTrials.gov 結果登録 NCT04576988（STELLAR、ソタテルセプト MK-7962-003、米国国立医学図書館）
+- citation: 'Chou R, Totten AM, Pappas M, et al. Glasgow Coma Scale for Field Triage of Trauma: A Systematic Review. Comparative Effectiveness Review No. 182. Rockville (MD): Agency for Healthcare Research and Quality; 2017 Jan. NCBI Bookshelf NBK410021'
+  doi: null
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-4999
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: 米国連邦政府の著作物。ライセンスの根拠：https://www.ncbi.nlm.nih.gov/books/NBK410021/
+  pmcid: null
+  pmid: '28125195'
+  source_class: GOV_US
+  title: 'Chou R, Totten AM, Pappas M, et al. Glasgow Coma Scale for Field Triage of Trauma: A Systematic Review. Comparative Effectiveness Review No. 182. Rockville (MD): Agency for Healthcare Research and Quality; 2017 Jan. NCBI Bookshelf NBK410021'
+- citation: Douglas DB, Ro T, Toffoli T, et al. Neuroimaging of Traumatic Brain Injury. Med Sci (Basel). 2018;7(1):2
+  doi: 10.3390/medsci7010002
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5000
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC6358760/
+  pmcid: PMC6358760
+  pmid: '30577545'
+  source_class: OPEN
+  title: Douglas DB, Ro T, Toffoli T, et al. Neuroimaging of Traumatic Brain Injury. Med Sci (Basel). 2018;7(1):2
+- citation: 'Uchida Y, Kawabata M, Kumazawa Y, et al. Severity-dependent recovery time in acute lateral ankle sprains: an ultrasonographic assessment of talofibular displacement. J Exp Orthop. 2025;12:e70204'
+  doi: 10.1002/jeo2.70204
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5001
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC11929031/
+  pmcid: PMC11929031
+  pmid: '40123677'
+  source_class: OPEN
+  title: 'Uchida Y, Kawabata M, Kumazawa Y, et al. Severity-dependent recovery time in acute lateral ankle sprains: an ultrasonographic assessment of talofibular displacement. J Exp Orthop. 2025;12:e70204'

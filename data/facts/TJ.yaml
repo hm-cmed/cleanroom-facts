@@ -79,16 +79,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-1806
-    source: Teasdale G, Jennett B. Assessment of coma and impaired consciousness. A practical scale. Lancet. 1974;2(7872):81-84
-    doi: 10.1016/S0140-6736(74)91639-0
-    pmid: '4136544'
+    source_ref: SRC-4999
+    source: 'Chou R, Totten AM, Pappas M, et al. Glasgow Coma Scale for Field Triage of Trauma: A Systematic Review. Comparative Effectiveness Review No. 182. Rockville (MD): Agency for Healthcare Research and Quality; 2017 Jan. NCBI Bookshelf NBK410021'
+    doi: null
+    pmid: '28125195'
     pmcid: null
-    url: https://doi.org/10.1016/S0140-6736(74)91639-0
-    source_license: The Lancet（Elsevier、テキストマイニング用ライセンスのみでCC表示なし）
+    url: https://www.ncbi.nlm.nih.gov/books/NBK410021/
+    source_license: 米国連邦政府の著作物
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: GOV_US
+    corroboration: 元の主出典：SRC-1806（Teasdale G, Jennett B. Assessment of coma and impaired consciousness. A practical scale. Lancet. 1974;2(7872):81-84）
   uncertainty: Teasdale と Jennett が1974年に提唱した原著。PubMed に抄録本文が収載されていないため、3要素の段階数は原著の尺度構成に基づく。（出典内の位置：原著論文の尺度定義）
   curriculum:
     kokushi: 医学各論 Ⅸ-10-A-①（脳挫傷、a）
@@ -106,6 +106,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 廃止：NX-001（先に作成）と実質同じ内容のため、番号を NX-001 に移して誘導（分野をまたぐ重複の統合、三原の承認による）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-1806 から自由に使える資料 SRC-4999 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：AHRQ の報告書の Executive Summary に GCS の構成と配点の全体）。三原の承認（2026-11-11）による
 - id: TJ-004
   domain: TJ
   subdomain: 頭部外傷総論
@@ -126,8 +129,8 @@
     source_license: 学会ガイドライン書籍（医学書院、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
-  uncertainty: 書籍のため DOI・PMID はない。第4版の正式書名は『頭部外傷治療・管理のガイドライン』であり、第3版までの『重症頭部外傷治療・管理のガイドライン』から改題されている。軽症の定義（GCS 13〜15）は同ガイドライン第4版に基づく解説論文（J-STAGE）で確認した。（出典内の位置：ガイドライン第4版の総論・重症度分類）
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ8 2026-11-11）：Chou R, et al. Glasgow Coma Scale for Field Triage of Trauma: A Systematic Review. AHRQ; 2017（Comparative Effectiveness Reviews, No. 182）Bookshelf ID: NBK410021（https://www.ncbi.nlm.nih.gov/books/NBK410021/）。裏づける部分：「GCS 13〜15は軽症」という重症度分類の部分のみ裏づけ（同報告書に mild 13–15 の分類あり）。日本のガイドライン第4版が現行の標準である点は政府資料では裏づけられない'
+  uncertainty: 書籍のため DOI・PMID はない。第4版の正式書名は『頭部外傷治療・管理のガイドライン』であり、第3版までの『重症頭部外傷治療・管理のガイドライン』から改題されている。軽症の定義（GCS 13〜15）は同ガイドライン第4版に基づく解説論文（J-STAGE）で確認した。（出典内の位置：ガイドライン第4版の総論・重症度分類）。『頭部外傷治療・管理のガイドライン第5版』が2026年10月に刊行された（作り手の調査バッチ8、ISBN 978-4-260-06661-7。取り込み側は未照合）。第5版で新しいカードを作り、本カードは廃止する予定（三原の承認 2026-11-11）
   curriculum:
     kokushi: 医学各論 Ⅸ-10-A-①（脳挫傷、a）
     core_curriculum: 'PS-02-03-05 (id: JkxnuP0)'
@@ -141,6 +144,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ8 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: uncertainty に第5版刊行と作り直しの予定を追記した（三原の承認 2026-11-11）
 - id: TJ-005
   domain: TJ
   subdomain: 脳挫傷
@@ -231,7 +240,7 @@
     source_license: CC BY-NC 4.0（© Author(s) 2023、No commercial re-use の表示）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ8 2026-11-11）：Centers for Disease Control and Prevention (CDC). HEADS UP: Responding to a Sports-related Concussion / What to do After a Concussion（CDC公式ページ、2025-09-15更新）（https://www.cdc.gov/heads-up/response/index.html）。裏づける部分：頭部・身体への打撃で生じる脳損傷である点、大部分は脳画像検査を要しない（＝標準画像で通常異常を示さない）点の骨格のみ。『主に機能的障害』という定義文言と、第6回国際コンセンサス声明の定義としての同一性はCDCページでは裏づけられない'
   uncertainty: 定義は同コンセンサス声明本文の定義の節に基づく。本調査では抄録と声明PDFで声明の枠組み（第6版、2022年アムステルダム会議）を確認した。（出典内の位置：声明本文の定義の節）
   curriculum:
     kokushi: 医学各論 Ⅸ-10-A-②（脳振盪、a）
@@ -246,6 +255,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ8 2026-11-11）。三原の承認（2026-11-11）による
 - id: TJ-008
   domain: TJ
   subdomain: 脳振盪
@@ -266,7 +278,7 @@
     source_license: CC BY-NC 4.0（© Author(s) 2023、No commercial re-use の表示）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ8 2026-11-11）：Centers for Disease Control and Prevention (CDC). HEADS UP: Responding to a Sports-related Concussion（CDC公式ページ。復帰プロセスの出典として第6回コンセンサス声明自体を引用している）（https://www.cdc.gov/heads-up/response/index.html）。裏づける部分：競技復帰が多段階プロセスである点、復帰プロトコルを終える前に通常の非スポーツ活動（学習を含む）へ完全復帰しているべき点は裏づけられる。ただし進行を制限する基準である『現在の脳振盪症状の軽度で短時間の増悪を超えない範囲』という具体はCDCページにない'
   uncertainty: 段階ごとの所要時間などの運用の詳細は声明の表に示されるが、本票では数値を扱っていない。RTL と RTS は並行して進めうることが声明に明記されている。（出典内の位置：声明本文の復帰戦略の節）
   curriculum:
     kokushi: 医学各論 Ⅸ-10-A-②（脳振盪、a）
@@ -281,6 +293,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ8 2026-11-11）。三原の承認（2026-11-11）による
 - id: TJ-009
   domain: TJ
   subdomain: 脳振盪
@@ -397,16 +412,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-1930
-    source: Bullock MR, Chesnut R, Ghajar J, et al. Surgical management of acute epidural hematomas. Neurosurgery. 2006;58(3 Suppl):S7-15
-    doi: 10.1227/01.NEU.0000210363.91172.A8
-    pmid: '16710967'
-    pmcid: null
-    url: https://doi.org/10.1227/01.NEU.0000210363.91172.A8
-    source_license: Neurosurgery（Lippincott Williams & Wilkins、CC表示なし）
+    source_ref: SRC-5000
+    source: Douglas DB, Ro T, Toffoli T, et al. Neuroimaging of Traumatic Brain Injury. Med Sci (Basel). 2018;7(1):2
+    doi: 10.3390/medsci7010002
+    pmid: '30577545'
+    pmcid: PMC6358760
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6358760/
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-1930（Bullock MR, Chesnut R, Ghajar J, et al. Surgical management of acute epidural hematomas. Neurosurgery. 2006;58(3 Suppl):S7-15）。自由に使える資料による裏づけ（OPEN、作り手の調査バッチ8 2026-11-11）：De Stefano F, Fiani B, Mayo T. Cureus. 2020;12(11):e11636（CC BY、PMC7755598）：側頭骨骨折に伴う中硬膜動脈の損傷が典型的な出血源である点
   uncertainty: 中硬膜動脈の関与・意識清明期・凸レンズ型の記述は同ガイドライン本文の病態・臨床像の記述に基づく。本調査では抄録で手術適応（TJ-013）を確認しており、本票の特徴の記述は取り込み側での本文照合を推奨する。（出典内の位置：ガイドライン本文の総論部分）
   curriculum:
     kokushi: 医学各論 Ⅸ-10-A-④（急性硬膜外血腫、a）
@@ -421,6 +436,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-1930 から自由に使える資料 SRC-5000 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：CC BY 総説の全文で両凸型・lucid interval などを確認（中硬膜動脈・側頭骨骨折は Cureus 2020 の CC BY 総説で補う））。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ8 2026-11-11）。三原の承認（2026-11-11）による
 - id: TJ-013
   domain: TJ
   subdomain: 急性硬膜外血腫
@@ -476,7 +497,7 @@
     source_license: Neurosurgery（Lippincott Williams & Wilkins、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ8 2026-11-11）：De Stefano F, Fiani B, Mayo T. A Foundational "Survival Guide" Overview of Sports-Related Head Injuries. Cureus. 2020;12(11):e11636／Douglas DB, et al. Neuroimaging of Traumatic Brain Injury. Med Sci (Basel). 2018;7(1):2（いずれもCC BY）（https://pmc.ncbi.nlm.nih.gov/articles/PMC7755598/）。裏づける部分：架橋静脈の断裂・破裂（両論文）、CTで三日月型（Cureus：crescent、急性期は均一な高吸収）、脳実質挫傷の合併が多いこと（Cureus）・EDHより高度の基礎脳損傷を伴うこと（Med Sci）は裏づけられる。ただし『EDHに比べて転帰が不良』という比較の明示は両論文にはなく（CureusはSDHが死亡・重度障害…
   uncertainty: 架橋静脈の断裂と三日月型の形状は同ガイドライン本文等の標準的記述に基づく。本調査では抄録で手術適応（TJ-015）を確認しており、本票の特徴の記述は取り込み側での本文照合を推奨する。転帰の比較は定性的な記述であり、死亡率の数値は扱っていない。（出典内の位置：ガイドライン本文の総論部分）
   curriculum:
     kokushi: 医学各論 Ⅸ-10-A-⑤（急性硬膜下血腫、慢性硬膜下血腫、a）
@@ -491,6 +512,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ8 2026-11-11）。三原の承認（2026-11-11）による
 - id: TJ-015
   domain: TJ
   subdomain: 急性硬膜下血腫
@@ -895,7 +919,7 @@
     url: https://doi.org/10.46292/sci2702-1
     source_license: Topics in Spinal Cord Injury Rehabilitation（CC表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 標準文書そのものを出典としており抄録はない。AIS 各グレードの定義は本文の分類表に基づく。 （出典内の位置：ISNCSCI 改訂2019年版（ASIA の国際標準文書））
   curriculum:
@@ -911,6 +935,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1943 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: TJ-027
   domain: TJ
   subdomain: 脊髄損傷
@@ -966,7 +993,7 @@
     source_license: Spinal Cord（Springer Nature、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ8 2026-11-11）：Spinal Shock: Clinical Pearls. IntechOpen chapter. 2023（CC BY）（https://www.intechopen.com/chapters/87009）。裏づける部分：IntechOpen 章が「損傷レベル以下の脊髄反射活動のすべてまたは一部の一過性の消失・障害」「Ditunno らの4相モデル（I相 0〜1日 無反射、II相 1〜3日 反射の初期回復、III相 初期反射亢進、IV相 1〜12か月 反射亢進・痙性）」を明示し、主張の骨格（定義＋4相）を支持。球海綿体反射は脊髄ショック期に消失する反射として同章抄録にも登場する。'
   uncertainty: 4相モデルの各相の詳細は本文に基づく。排尿障害の詳細は神経因性膀胱（第16回 KX）の領域として本カードでは扱わない。 （出典内の位置：抄録および本文の4相モデル）
   curriculum:
     kokushi: 医学各論 Ⅸ-10-B-①（頸髄・胸髄・腰髄損傷、a）
@@ -981,6 +1008,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ8 2026-11-11）。三原の承認（2026-11-11）による
 - id: TJ-029
   domain: TJ
   subdomain: 脊髄損傷
@@ -1036,7 +1066,7 @@
     source_license: Neurosurgery（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ8 2026-11-11）：Picetti E, et al. Early management of adult traumatic spinal cord injury in patients with polytrauma: a consensus and clinical recommendations jointly developed by the World Society of Emergency Surgery (WSES) & the European Association of Neurosurgical Societies (EANS). World J Emerg Surg. 2024;19:4（CC BY 4.0）＝新規 SRC 登録を提案（https://pmc.ncbi.nlm.nih.gov/articles/PMC10795357/）。裏づける部分：WSES/EANS 2024 は推奨15で『tSCI＋多発外傷患者への大量コルチコステロイド療法（NASCIS I-III）に反対…'
   uncertainty: 同章には抄録がないため、推奨文は AANS/CNS ガイドラインの公式要約で確認した。薬剤の国内承認・保険適用の状況は TJ-029 と同じ。AO Spine ガイドラインとは推奨が異なる（TJ-029）。 （出典内の位置：ガイドライン章（Pharmacological therapy for acute spinal cord injury））
   curriculum:
     kokushi: 医学各論 Ⅸ-10-B-①（頸髄・胸髄・腰髄損傷、a）
@@ -1051,6 +1081,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ8 2026-11-11）。三原の承認（2026-11-11）による
 - id: TJ-031
   domain: TJ
   subdomain: 脊髄損傷
@@ -1090,7 +1123,7 @@
   domain: TJ
   subdomain: 脊椎骨折
   assertion:
-    plain_statement_ja: AO Spine 胸腰椎損傷分類は、骨折の形態（圧迫型 A、後方緊張帯の損傷型 B、転位・脱臼型 C）、神経学的状態、症例特異的な修飾因子の3要素で損傷を記述する分類であり、破裂骨折は A3（不完全破裂）・A4（完全破裂）、Chance 型の屈曲伸展損傷は B2 に分類される。
+    plain_statement_ja: AO Spine 胸腰椎損傷分類は、骨折の形態（圧迫型 A、後方緊張帯の損傷型 B、転位・脱臼型 C）、神経学的状態、症例特異的な修飾因子の3要素で損傷を記述する分類であり、破裂骨折は A3（不完全破裂）・A4（完全破裂）、Chance 型の屈曲伸展損傷は B1 に分類される。
     condition:
       region: 国際
       対象: 胸腰椎損傷患者
@@ -1107,7 +1140,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: null
-  uncertainty: A3/A4・B2 などの細分類は分類表本体に基づく（抄録は分類の3構成要素まで）。骨粗鬆症性の椎体骨折は対象としない（BD 側の領域）。 （出典内の位置：抄録（分類の構成）および分類表本体）
+  uncertainty: A3/A4・B1 などの細分類は分類表本体に基づく（抄録は分類の3構成要素まで）。骨粗鬆症性の椎体骨折は対象としない（BD 側の領域）。 （出典内の位置：抄録（分類の構成）および分類表本体）。Chance 型の記号は当初 B2 と書いていたが、原典（Vaccaro 2013 本文）と AO の資料では B1（骨を通る後方緊張帯の断裂）で、B2 は骨性要素の有無を問わない後方緊張帯の断裂（作り手のバッチ8の指摘、2026-11-11）
   curriculum:
     kokushi: 医学各論 Ⅸ-10-C-①（脊椎骨折、a）
     core_curriculum: 'TBL-01-00-118 (id: Jlvnlm8)；TBL-01-00-120 (id: Jlvnlnk)'
@@ -1121,6 +1154,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主張文の「Chance 型…は B2」を「B1」に訂正した（原典・AO の分類との食い違い。作り手のバッチ8の指摘、三原の承認 2026-11-11）。uncertainty も合わせて直した
 - id: TJ-033
   domain: TJ
   subdomain: 脊椎骨折
@@ -1342,16 +1378,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-1956
-    source: 'Ivins D. Acute ankle sprain: an update. Am Fam Physician. 2006;74(10):1714-1720'
-    doi: null
-    pmid: '17137000'
-    pmcid: null
-    url: null
-    source_license: American Family Physician（CC表示なし）
+    source_ref: SRC-5001
+    source: 'Uchida Y, Kawabata M, Kumazawa Y, et al. Severity-dependent recovery time in acute lateral ankle sprains: an ultrasonographic assessment of talofibular displacement. J Exp Orthop. 2025;12:e70204'
+    doi: 10.1002/jeo2.70204
+    pmid: '40123677'
+    pmcid: PMC11929031
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11929031/
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: '元の主出典：SRC-1956（Ivins D. Acute ankle sprain: an update. Am Fam Physician. 2006;74(10):1714-1720）'
   uncertainty: 重症度分類表は足関節捻挫について示されたもので、靱帯損傷一般の重症度概念として用いた。急性期の PRICE（保護・安静・冷却・圧迫・挙上）は同論文で確立したプロトコルとされる（現在の位置づけは TJ-040）。 （出典内の位置：原著の Table 1（Grades of Ankle Sprain）および抄録）
   curriculum:
     kokushi: 医学各論 Ⅸ-10-D-①（捻挫<靱帯損傷>、a）
@@ -1366,6 +1402,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-1956 から自由に使える資料 SRC-5001 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：CC BY 論文の全文で Grade I〜III を確認）。三原の承認（2026-11-11）による
 - id: TJ-040
   domain: TJ
   subdomain: 捻挫
@@ -1385,7 +1424,7 @@
     url: https://doi.org/10.1136/bjsports-2019-101253
     source_license: British Journal of Sports Medicine（CC表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 編集記事としての提言であり、ランダム化比較試験に基づくものではない。アイシングや抗炎症薬を避ける点など、従来の PRICE と異なる要素を含む。 （出典内の位置：編集記事（editorial）本文の頭字語の定義）
   curriculum:
@@ -1401,6 +1440,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1957 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: TJ-041
   domain: TJ
   subdomain: 関節内骨折
@@ -1561,7 +1603,7 @@
     source_license: The Journal of Trauma and Acute Care Surgery（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ8 2026-11-11）：Pereira BM, Chiara O, Ramponi F, et al. WSES position paper on vascular emergency surgery. World J Emerg Surg. 2015;10:47（CC BY）＝新規 SRC 登録を提案（WSES 文書の本体側）。併せて現出典 AAST-WSES ガイドライン（J Trauma 2020）の PubMed 抄録レコード（https://pmc.ncbi.nlm.nih.gov/articles/PMC4618918/）。裏づける部分：WSES 2015（CC BY）は hard/soft signs 表を掲げ、hard signs（外出血、急速に拡大する血腫、スリル、雑音、明らかな動脈閉塞＝6P：脈なし・蒼白・知覚異常・麻痺・冷感）を『直ちに手術を要する』とし、臨床所見の診察が最重要と述べ、カード前段（hard signs があれば直ちに手術的修復）を強く支持。カード後段（所見が不確かで安定し…
   uncertainty: hard signs の列挙はガイドライン本文の評価アルゴリズムに基づく（抄録は身体所見の重要性と CT アンギオの位置づけまで）。 （出典内の位置：抄録およびガイドライン本文の評価アルゴリズム）
   curriculum:
     kokushi: 医学各論 Ⅸ-10-E-②（四肢血管損傷、a）；医学各論 Ⅴ-6-G-②（血管損傷、c）
@@ -1579,6 +1621,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅴ-6-G-② を足した（医学各論 Ⅸ-10-E-②（四肢血管損傷、a） → 医学各論 Ⅸ-10-E-②（四肢血管損傷、a）；医学各論 Ⅴ-6-G-②（血管損傷、c））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ8 2026-11-11）。三原の承認（2026-11-11）による
 - id: TJ-046
   domain: TJ
   subdomain: 四肢血管損傷
@@ -1672,7 +1717,7 @@
     source_license: HSS Journal（Springer、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ8 2026-11-11）：Kastanis GE, et al. Acute Compartment Syndrome of the Hand Following Multiple Metacarpal Fractures: Current Concepts. Cureus. 2024;16(12):e75714（CC BY）（https://pmc.ncbi.nlm.nih.gov/articles/PMC11646446/）。裏づける部分：現出典（Garner 2014）の抄録が定義（区画内圧上昇による循環障害）・最も多い原因は外傷・診断遅延の後遺症の重大さ・緊急介入の必要性を支持するが、5P の列挙は抄録にない。Cureus（CC BY）論文が『Reichman の 5P：痛み・知覚異常・蒼白・麻痺・脈拍消失』を明記し、『全徴候の出現を待つと永続的で重大な後遺症を招く、早期診断が第一の目標』と述べ、5P と早期介入の要素を補う。同誌の手の急性区画症候群の系統的レビューも定義・5P・外傷（骨折合併）が最多原因…'
   uncertainty: 5P は古典的な徴候の列挙であり、脈拍消失や麻痺は進行期の所見である。臨床所見の詳細は総説本文の臨床経過の節に基づく。診断の客観的基準（差圧）は TJ-049 を参照。 （出典内の位置：抄録（病態と診断遅延の重大性）および本文（臨床経過の節））
   curriculum:
     kokushi: 医学各論 Ⅸ-10-E-④（区画<コンパートメント>症候群、a）
@@ -1687,6 +1732,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ8 2026-11-11）。三原の承認（2026-11-11）による
 - id: TJ-049
   domain: TJ
   subdomain: コンパートメント症候群
@@ -1742,7 +1790,7 @@
     source_license: Nephrology Dialysis Transplantation（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ8 2026-11-11）：Centers for Disease Control and Prevention (CDC). Crush Injury and Crush Syndrome. Blast Injury Fact Sheet. U.S. Department of Health and Human Services, June 2009（GOV_US。ACEP サイト掲載の CDC ファクトシートで確認）（https://www.acep.org/imports/clinical-and-practice-management/resources/ems-and-disaster-preparedness/disaster-preparedness-grant-projects/cdc---blast-injury/cdc-blast-injury-fact-sheets/crush-injury-and-crush-syndrome）。裏づける部分：CDC ファクトシートが一般論部分を支持：挫滅症…
   uncertainty: 推奨の具体的内容は推奨集本文の推奨項目に基づく（抄録は推奨集の目的と策定過程のみ）。災害時の多数傷病者を主対象とした推奨であり、日常診療における単発の挫滅症候群への適用は状況に応じて判断される。 （出典内の位置：推奨集本文の推奨項目（輸液と全身合併症への対応））
   curriculum:
     kokushi: 医学各論 Ⅸ-10-E-⑤（挫滅<圧挫>症候群<crush syndrome>、a）
@@ -1757,6 +1805,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ8 2026-11-11）。三原の承認（2026-11-11）による
 - id: TJ-051
   domain: TJ
   subdomain: 外傷性切断
@@ -1917,7 +1968,7 @@
     source_license: The Journal of Hand Surgery（Elsevier、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ8 2026-11-11）：Demmer W, et al. Reconstruction of Chronic Soft Tissue Mallet Fingers: Outcomes of Step-Plasty vs. Purse-String Suture. J Funct Morphol Kinesiol. 2024;9(3):144（https://pmc.ncbi.nlm.nih.gov/articles/PMC11417831/）。裏づける部分：一部のみ。現出典の抄録はゾーンI損傷＝槌指という骨格のみ。CC BY候補の抄録が『DIP関節部の伸筋腱断裂が槌指であり伸展障害を来す』を裏づける。『閉鎖性』『DIPが屈曲位となる』姿位の明示は候補抄録にはない'
   uncertainty: 本出典の抄録は、ゾーンI（槌指）・ゾーンIII（ボタン穴変形）・ゾーンVの閉鎖性伸筋機構損傷の所見と治療を総説する範囲を示しており、変形の機序の記述は本文に基づく。（出典内の位置：抄録および本文のゾーンIの項）
   curriculum:
     kokushi: 医学各論 Ⅸ-10-G-②（突き指、a）
@@ -1932,6 +1983,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ8 2026-11-11）。三原の承認（2026-11-11）による
 - id: TJ-056
   domain: TJ
   subdomain: ボタン穴変形
@@ -1952,7 +2006,7 @@
     source_license: The Journal of Hand Surgery（Elsevier、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ8 2026-11-11）：Chu EC, Lin AFC, Mok S, Piong SZ, Ng G. A Central Slip Injury in a Professional Basketball Player. Cureus. 2023;15(2):e35197（https://pmc.ncbi.nlm.nih.gov/articles/PMC9940132/）。裏づける部分：一部のみ。現出典の抄録はゾーンIII損傷＝ボタン穴変形という骨格のみ。CC BY候補（Cureus）の抄録が中央索損傷でボタン穴変形を呈した症例を裏づける。側索の掌側移動・PIP屈曲＋DIP過伸展の機序そのものは候補抄録に記載なし
   uncertainty: 変形の機序（中央索断裂後の側索の掌側移動）は本総説の本文に基づく。抄録ではゾーンIIIの損傷としてボタン穴変形を扱うことが示されている。（出典内の位置：抄録および本文のゾーンIIIの項）
   curriculum:
     kokushi: 医学各論 Ⅸ-10-G-②（突き指、a）
@@ -1967,6 +2021,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ8 2026-11-11）。三原の承認（2026-11-11）による
 - id: TJ-057
   domain: TJ
   subdomain: 掌側板損傷
@@ -2477,7 +2534,7 @@
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ8 2026-11-11）：Shelby H, Bergren S, Wier J, Schwarz EM, Lieberman JR. The Osteoimmunologic Basis of Biologic and Bioengineered Scaffolds in Fracture Healing. Bioengineering. 2026;13(2):223（https://pmc.ncbi.nlm.nih.gov/articles/PMC12937764/）。裏づける部分：主張の前半（古典的定義）のみCC BY候補の抄録が裏づける（受傷後9か月癒合せず、または3か月間進展なし）。後半（期間のみで定めず『追加介入なしには癒合しない骨折』と捉えるコンセンサス）は現出典SRC-1985自体の抄録に明記されており、その部分は抄録レコードで裏づけられる。両者を合わせても単一の自由な出典で全要素とはならないためB
   uncertainty: 9か月と3か月という期間は一般に米国FDAの定義として引用されるが、本出典の本文ではFDAへの帰属の明記は確認できなかった。偽関節は全骨折の約1.9%に生じると同出典は述べる。（出典内の位置：抄録および本文の定義の項）
   curriculum:
     kokushi: 医学各論 Ⅸ-10-H-②（偽関節、b）
@@ -2492,6 +2549,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ8 2026-11-11）。三原の承認（2026-11-11）による
 - id: TJ-072
   domain: TJ
   subdomain: 偽関節
@@ -2757,7 +2817,7 @@
     source_license: The Journal of Bone and Joint Surgery American Volume（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ8 2026-11-11）：Li ZJ, Yang QQ, Zhou YL. Biological and Mechanical Factors and Epigenetic Regulation Involved in Tendon Healing. Stem Cells Int. 2023;2023:4387630（https://pmc.ncbi.nlm.nih.gov/articles/PMC9842431/）。裏づける部分：骨格のみ。CC BY総説の抄録が『腱治癒は炎症・増殖・再構築の過程を含む』『内因性（endogenous）と外因性（exogenous）の治癒の不均衡が癒着を来す』を裏づける。現出典の抄録が裏づけるのは『既存の変性が急性断裂の危険因子』のみ
   uncertainty: フルオロキノロン系抗菌薬（レボフロキサシン、シプロフロキサシンなど）は国内で承認され保険適用のある抗菌薬であり、本カードはその使用と腱断裂との関連を述べるものである。本総説の主題は腱の治癒と修復の生物学であり、断裂部の陥凹の触知や部位別の機能テストといった身体診察の具体、一次縫合の手技や時期の詳細は扱われていないため、主張には含めていない。部位別の詳細（アキレス腱断裂は TJ-067・068）が担う範囲は対象外である。（出典内の位置：抄録、本文の治癒と修復の節）
   curriculum:
     kokushi: 医学各論 Ⅸ-10-E-③（筋断裂、腱断裂、a）
@@ -2772,6 +2832,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ8 2026-11-11）。三原の承認（2026-11-11）による
 - id: TJ-080
   domain: TJ
   subdomain: 挫滅症候群
@@ -2792,7 +2855,7 @@
     source_license: Nephrology Dialysis Transplantation（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ8 2026-11-11）：Usuda D, et al. Crush syndrome: a review for prehospital providers and emergency clinicians. J Transl Med. 2023;21:584（https://pmc.ncbi.nlm.nih.gov/articles/PMC10472640/）。裏づける部分：抄録ではなくCC BY本文で裏づけられる範囲: 救出前からの早期・積極的な輸液開始、カリウム含有液の回避、尿量300 mL/h以上を目安とする輸液（最初の24時間）、マンニトール・重炭酸は条件付きで用いること、高カリウム血症への迅速対応と透析の必要性一般、筋膜切開をめぐる議論があること。足りない範囲: 成人1000 mL/h開始・2時間超で500 mL/h以下への減量、6時間で3〜6 L、小児15〜20 mL/kg/h、乏尿時の制限式（前日喪失量＋500〜1000 mL/日）、血液浄化の絶対適応の数値（K 6.5 mmol/L以上、pH …'
   uncertainty: 数値はいずれも推奨集本文の推奨文に基づき、一部は本文の表（Table 8、高カリウム血症の重症度と治療）から読み取った。災害時の多数傷病者を主対象とした推奨であり、日常診療における単発の挫滅症候群への適用は状況に応じて判断される。薬剤については、グルコン酸カルシウム、重炭酸ナトリウム、ポリスチレンスルホン酸ナトリウム（ケイキサレート）はいずれも国内で承認された薬剤で、このうちポリスチレンスルホン酸ナトリウムには高カリウム血症そのものの適応がある。一方、グルコースとインスリンの点滴による高カリウム血症治療、β2刺激薬の高カリウム血症への使用、マンニトールの区画内圧上昇の予防への使用は、国内の添付文書の適応には含まれない使い方である。（出典内の位置：推奨文 II.4.A、II.6、III.2.D、IV.1、V.3 と Table 8）
   curriculum:
     kokushi: 医学各論 Ⅸ-10-E-⑤（挫滅<圧挫>症候群<crush syndrome>、a）
@@ -2807,3 +2870,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ8 2026-11-11）。三原の承認（2026-11-11）による

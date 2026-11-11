@@ -31,12 +31,12 @@
 > 日本の頭部外傷診療では、日本脳神経外科学会・日本脳神経外傷学会が監修する『頭部外傷治療・管理のガイドライン第4版』（2019年、医学書院）が現行の標準的なガイドラインであり、重症度は GCS で評価され、GCS 13〜15は軽症頭部外傷とされる。
 
 - 条件：region: 日本／対象: 日本で頭部外傷診療を受ける患者
-- 不確実性：書籍のため DOI・PMID はない。第4版の正式書名は『頭部外傷治療・管理のガイドライン』であり、第3版までの『重症頭部外傷治療・管理のガイドライン』から改題されている。軽症の定義（GCS 13〜15）は同ガイドライン第4版に基づく解説論文（J-STAGE）で確認した。（出典内の位置：ガイドライン第4版の総論・重症度分類）
+- 不確実性：書籍のため DOI・PMID はない。第4版の正式書名は『頭部外傷治療・管理のガイドライン』であり、第3版までの『重症頭部外傷治療・管理のガイドライン』から改題されている。軽症の定義（GCS 13〜15）は同ガイドライン第4版に基づく解説論文（J-STAGE）で確認した。（出典内の位置：ガイドライン第4版の総論・重症度分類）。『頭部外傷治療・管理のガイドライン第5版』が2026年10月に刊行された（作り手の調査バッチ8、ISBN 978-4-260-06661-7。取り込み側は未照合）。第5版で新しいカードを作り、本カードは廃止する予定（三原の承認 2026-11-11）
 - 出典：日本脳神経外科学会・日本脳神経外傷学会（監）. 頭部外傷治療・管理のガイドライン 第4版. 医学書院; 2019（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-10-A-①（脳挫傷、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-004&card_id=TJ-004&version=a22211bde0)　（版 `a22211bde0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-004&card_id=TJ-004&version=2969175f23)　（版 `2969175f23`）
 
-**[ここまでの 3 件（TJ-001〜TJ-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TJ-001%E3%80%9CTJ-004&cards=TJ-001%20d830801126%0ATJ-002%20f1aca7e94b%0ATJ-004%20a22211bde0)**
+**[ここまでの 3 件（TJ-001〜TJ-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TJ-001%E3%80%9CTJ-004&cards=TJ-001%20d830801126%0ATJ-002%20f1aca7e94b%0ATJ-004%202969175f23)**
 
 ---
 
@@ -136,9 +136,9 @@
 
 - 条件：region: 国際／対象: 急性硬膜外血腫の患者
 - 不確実性：中硬膜動脈の関与・意識清明期・凸レンズ型の記述は同ガイドライン本文の病態・臨床像の記述に基づく。本調査では抄録で手術適応（TJ-013）を確認しており、本票の特徴の記述は取り込み側での本文照合を推奨する。（出典内の位置：ガイドライン本文の総論部分）
-- 出典：Bullock MR, Chesnut R, Ghajar J, et al. Surgical management of acute epidural hematomas. Neurosurgery. 2006;58(3 Suppl):S7-15　[DOI 10.1227/01.NEU.0000210363.91172.A8](https://doi.org/10.1227/01.NEU.0000210363.91172.A8)　[PMID 16710967](https://pubmed.ncbi.nlm.nih.gov/16710967/)（区分 RESTRICTED）
+- 出典：Douglas DB, Ro T, Toffoli T, et al. Neuroimaging of Traumatic Brain Injury. Med Sci (Basel). 2018;7(1):2　[DOI 10.3390/medsci7010002](https://doi.org/10.3390/medsci7010002)　[PMID 30577545](https://pubmed.ncbi.nlm.nih.gov/30577545/)（区分 OPEN）
 - 出題基準：医学各論 Ⅸ-10-A-④（急性硬膜外血腫、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-059 (id: JlvnlfU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-012&card_id=TJ-012&version=1ccd660959)　（版 `1ccd660959`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-012&card_id=TJ-012&version=f02daa1150)　（版 `f02daa1150`）
 
 ### TJ-013　下書き（出典の照合前）
 
@@ -150,7 +150,7 @@
 - 出題基準：医学各論 Ⅸ-10-A-④（急性硬膜外血腫、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-059 (id: JlvnlfU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-013&card_id=TJ-013&version=6f84d1b154)　（版 `6f84d1b154`）
 
-**[ここまでの 2 件（TJ-012〜TJ-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TJ-012%E3%80%9CTJ-013&cards=TJ-012%201ccd660959%0ATJ-013%206f84d1b154)**
+**[ここまでの 2 件（TJ-012〜TJ-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TJ-012%E3%80%9CTJ-013&cards=TJ-012%20f02daa1150%0ATJ-013%206f84d1b154)**
 
 ---
 
@@ -318,7 +318,7 @@
 
 - 条件：region: 国際／対象: 脊髄損傷患者
 - 不確実性：標準文書そのものを出典としており抄録はない。AIS 各グレードの定義は本文の分類表に基づく。 （出典内の位置：ISNCSCI 改訂2019年版（ASIA の国際標準文書））
-- 出典：Rupp R, Biering-Sørensen F, Burns SP, et al. International Standards for Neurological Classification of Spinal Cord Injury: Revised 2019. Top Spinal Cord Inj Rehabil. 2021;27(2):1-22　[DOI 10.46292/sci2702-1](https://doi.org/10.46292/sci2702-1)　[PMID 34108832](https://pubmed.ncbi.nlm.nih.gov/34108832/)（区分 UNKNOWN）
+- 出典：Rupp R, Biering-Sørensen F, Burns SP, et al. International Standards for Neurological Classification of Spinal Cord Injury: Revised 2019. Top Spinal Cord Inj Rehabil. 2021;27(2):1-22　[DOI 10.46292/sci2702-1](https://doi.org/10.46292/sci2702-1)　[PMID 34108832](https://pubmed.ncbi.nlm.nih.gov/34108832/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-10-B-①（頸髄・胸髄・腰髄損傷、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-119 (id: Jlvnlpc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-026&card_id=TJ-026&version=8af11b180e)　（版 `8af11b180e`）
 
@@ -380,13 +380,13 @@
 
 ### TJ-032　下書き（出典の照合前）
 
-> AO Spine 胸腰椎損傷分類は、骨折の形態（圧迫型 A、後方緊張帯の損傷型 B、転位・脱臼型 C）、神経学的状態、症例特異的な修飾因子の3要素で損傷を記述する分類であり、破裂骨折は A3（不完全破裂）・A4（完全破裂）、Chance 型の屈曲伸展損傷は B2 に分類される。
+> AO Spine 胸腰椎損傷分類は、骨折の形態（圧迫型 A、後方緊張帯の損傷型 B、転位・脱臼型 C）、神経学的状態、症例特異的な修飾因子の3要素で損傷を記述する分類であり、破裂骨折は A3（不完全破裂）・A4（完全破裂）、Chance 型の屈曲伸展損傷は B1 に分類される。
 
 - 条件：region: 国際／対象: 胸腰椎損傷患者
-- 不確実性：A3/A4・B2 などの細分類は分類表本体に基づく（抄録は分類の3構成要素まで）。骨粗鬆症性の椎体骨折は対象としない（BD 側の領域）。 （出典内の位置：抄録（分類の構成）および分類表本体）
+- 不確実性：A3/A4・B1 などの細分類は分類表本体に基づく（抄録は分類の3構成要素まで）。骨粗鬆症性の椎体骨折は対象としない（BD 側の領域）。 （出典内の位置：抄録（分類の構成）および分類表本体）。Chance 型の記号は当初 B2 と書いていたが、原典（Vaccaro 2013 本文）と AO の資料では B1（骨を通る後方緊張帯の断裂）で、B2 は骨性要素の有無を問わない後方緊張帯の断裂（作り手のバッチ8の指摘、2026-11-11）
 - 出典：Vaccaro AR, Oner C, Kepler CK, et al. AOSpine thoracolumbar spine injury classification system: fracture description, neurological status, and key modifiers. Spine. 2013　[DOI 10.1097/BRS.0b013e3182a8a381](https://doi.org/10.1097/BRS.0b013e3182a8a381)　[PMID 23970107](https://pubmed.ncbi.nlm.nih.gov/23970107/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-10-C-①（脊椎骨折、a）　コアカリ：TBL-01-00-118 (id: Jlvnlm8)；TBL-01-00-120 (id: Jlvnlnk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-032&card_id=TJ-032&version=966d932569)　（版 `966d932569`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-032&card_id=TJ-032&version=9b648220b7)　（版 `9b648220b7`）
 
 ### TJ-033　下書き（出典の照合前）
 
@@ -398,7 +398,7 @@
 - 出題基準：医学各論 Ⅸ-10-C-①（脊椎骨折、a）　コアカリ：TBL-01-00-118 (id: Jlvnlm8)；TBL-01-00-120 (id: Jlvnlnk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-033&card_id=TJ-033&version=e5f92a5532)　（版 `e5f92a5532`）
 
-**[ここまでの 2 件（TJ-032〜TJ-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TJ-032%E3%80%9CTJ-033&cards=TJ-032%20966d932569%0ATJ-033%20e5f92a5532)**
+**[ここまでの 2 件（TJ-032〜TJ-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TJ-032%E3%80%9CTJ-033&cards=TJ-032%209b648220b7%0ATJ-033%20e5f92a5532)**
 
 ---
 
@@ -488,9 +488,9 @@
 
 - 条件：region: 国際／対象: 捻挫（靱帯損傷）患者
 - 不確実性：重症度分類表は足関節捻挫について示されたもので、靱帯損傷一般の重症度概念として用いた。急性期の PRICE（保護・安静・冷却・圧迫・挙上）は同論文で確立したプロトコルとされる（現在の位置づけは TJ-040）。 （出典内の位置：原著の Table 1（Grades of Ankle Sprain）および抄録）
-- 出典：Ivins D. Acute ankle sprain: an update. Am Fam Physician. 2006;74(10):1714-1720　[PMID 17137000](https://pubmed.ncbi.nlm.nih.gov/17137000/)（区分 RESTRICTED）
+- 出典：Uchida Y, Kawabata M, Kumazawa Y, et al. Severity-dependent recovery time in acute lateral ankle sprains: an ultrasonographic assessment of talofibular displacement. J Exp Orthop. 2025;12:e70204　[DOI 10.1002/jeo2.70204](https://doi.org/10.1002/jeo2.70204)　[PMID 40123677](https://pubmed.ncbi.nlm.nih.gov/40123677/)（区分 OPEN）
 - 出題基準：医学各論 Ⅸ-10-D-①（捻挫<靱帯損傷>、a）　コアカリ：TBL-01-00-122 (id: JlvnlnQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-039&card_id=TJ-039&version=d8f8f87b62)　（版 `d8f8f87b62`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-039&card_id=TJ-039&version=67afcc7d46)　（版 `67afcc7d46`）
 
 ### TJ-040　下書き（出典の照合前）
 
@@ -498,11 +498,11 @@
 
 - 条件：region: 国際／対象: 軟部組織損傷患者
 - 不確実性：編集記事としての提言であり、ランダム化比較試験に基づくものではない。アイシングや抗炎症薬を避ける点など、従来の PRICE と異なる要素を含む。 （出典内の位置：編集記事（editorial）本文の頭字語の定義）
-- 出典：Dubois B, Esculier JF. Soft-tissue injuries simply need PEACE and LOVE. Br J Sports Med. 2020;54(2):72-73　[DOI 10.1136/bjsports-2019-101253](https://doi.org/10.1136/bjsports-2019-101253)　[PMID 31377722](https://pubmed.ncbi.nlm.nih.gov/31377722/)（区分 UNKNOWN）
+- 出典：Dubois B, Esculier JF. Soft-tissue injuries simply need PEACE and LOVE. Br J Sports Med. 2020;54(2):72-73　[DOI 10.1136/bjsports-2019-101253](https://doi.org/10.1136/bjsports-2019-101253)　[PMID 31377722](https://pubmed.ncbi.nlm.nih.gov/31377722/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-10-D-①（捻挫<靱帯損傷>、a）　コアカリ：TBL-01-00-122 (id: JlvnlnQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-040&card_id=TJ-040&version=fe64486133)　（版 `fe64486133`）
 
-**[ここまでの 2 件（TJ-039〜TJ-040）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TJ-039%E3%80%9CTJ-040&cards=TJ-039%20d8f8f87b62%0ATJ-040%20fe64486133)**
+**[ここまでの 2 件（TJ-039〜TJ-040）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TJ-039%E3%80%9CTJ-040&cards=TJ-039%2067afcc7d46%0ATJ-040%20fe64486133)**
 
 ---
 

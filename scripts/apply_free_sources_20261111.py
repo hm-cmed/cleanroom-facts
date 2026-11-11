@@ -20,7 +20,10 @@ REST_FIX = {"SRC-2481": "CC BY-NC 3.0", "SRC-424": "CC BY-NC", "SRC-426": "CC BY
 
 
 def main() -> None:
-    sel = json.loads((ROOT / "proposals/pd_survey_20261111/selected.json").read_text(encoding="utf-8"))
+    import sys
+    sel = json.loads((ROOT / (sys.argv[1] if len(sys.argv) > 1 else "proposals/pd_survey_20261111/selected.json")).read_text(encoding="utf-8"))
+    REST_FIX.update(sel.get("rest_fix", {}))
+    OPEN_FIX.update(sel.get("open_fix", []))
     files = {p: yaml.safe_load(p.read_text(encoding="utf-8")) for p in (ROOT / "data/facts").glob("*.yaml")}
     cards = {c["id"]: c for cs in files.values() for c in cs}
     sp = ROOT / "data/sources/sources.yaml"
@@ -97,7 +100,7 @@ def main() -> None:
     sp.write_text(yaml.safe_dump(S, allow_unicode=True, sort_keys=False, width=10000), encoding="utf-8")
     for p, cs in files.items():
         p.write_text(yaml.safe_dump(cs, allow_unicode=True, sort_keys=False, width=10000), encoding="utf-8")
-    (ROOT / "reports/free_sources_apply_20261111.json").write_text(json.dumps(log, ensure_ascii=False, indent=1), encoding="utf-8")
+    (ROOT / ("reports/free_sources_apply_" + Path(sys.argv[1]).stem + ".json" if len(sys.argv) > 1 else "reports/free_sources_apply_20261111.json")).write_text(json.dumps(log, ensure_ascii=False, indent=1), encoding="utf-8")
     print({k: len(v) for k, v in log.items()})
 
 

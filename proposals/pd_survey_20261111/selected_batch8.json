@@ -1,0 +1,115 @@
+{
+ "A": [
+  {
+   "card": "TJ-003",
+   "class": "GOV_US",
+   "title": "Chou R, Totten AM, Pappas M, et al. Glasgow Coma Scale for Field Triage of Trauma: A Systematic Review. Comparative Effectiveness Review No. 182. Rockville (MD): Agency for Healthcare Research and Quality; 2017 Jan. NCBI Bookshelf NBK410021",
+   "doi": null,
+   "pmid": "28125195",
+   "pmcid": null,
+   "url": "https://www.ncbi.nlm.nih.gov/books/NBK410021/",
+   "why": "AHRQ の報告書の Executive Summary に GCS の構成と配点の全体"
+  },
+  {
+   "card": "TJ-012",
+   "class": "OPEN",
+   "title": "Douglas DB, Ro T, Toffoli T, et al. Neuroimaging of Traumatic Brain Injury. Med Sci (Basel). 2018;7(1):2",
+   "doi": "10.3390/medsci7010002",
+   "pmid": "30577545",
+   "pmcid": "PMC6358760",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6358760/",
+   "why": "CC BY 総説の全文で両凸型・lucid interval などを確認（中硬膜動脈・側頭骨骨折は Cureus 2020 の CC BY 総説で補う）"
+  },
+  {
+   "card": "TJ-039",
+   "class": "OPEN",
+   "title": "Uchida Y, Kawabata M, Kumazawa Y, et al. Severity-dependent recovery time in acute lateral ankle sprains: an ultrasonographic assessment of talofibular displacement. J Exp Orthop. 2025;12:e70204",
+   "doi": "10.1002/jeo2.70204",
+   "pmid": "40123677",
+   "pmcid": "PMC11929031",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11929031/",
+   "why": "CC BY 論文の全文で Grade I〜III を確認"
+  }
+ ],
+ "B": [
+  {
+   "card": "TJ-004",
+   "label": "GOV_US、作り手の調査バッチ8 2026-11-11",
+   "text": "Chou R, et al. Glasgow Coma Scale for Field Triage of Trauma: A Systematic Review. AHRQ; 2017（Comparative Effectiveness Reviews, No. 182）Bookshelf ID: NBK410021（https://www.ncbi.nlm.nih.gov/books/NBK410021/）。裏づける部分：「GCS 13〜15は軽症」という重症度分類の部分のみ裏づけ（同報告書に mild 13–15 の分類あり）。日本のガイドライン第4版が現行の標準である点は政府資料では裏づけられない"
+  },
+  {
+   "card": "TJ-007",
+   "label": "GOV_US、作り手の調査バッチ8 2026-11-11",
+   "text": "Centers for Disease Control and Prevention (CDC). HEADS UP: Responding to a Sports-related Concussion / What to do After a Concussion（CDC公式ページ、2025-09-15更新）（https://www.cdc.gov/heads-up/response/index.html）。裏づける部分：頭部・身体への打撃で生じる脳損傷である点、大部分は脳画像検査を要しない（＝標準画像で通常異常を示さない）点の骨格のみ。『主に機能的障害』という定義文言と、第6回国際コンセンサス声明の定義としての同一性はCDCページでは裏づけられない"
+  },
+  {
+   "card": "TJ-008",
+   "label": "GOV_US、作り手の調査バッチ8 2026-11-11",
+   "text": "Centers for Disease Control and Prevention (CDC). HEADS UP: Responding to a Sports-related Concussion（CDC公式ページ。復帰プロセスの出典として第6回コンセンサス声明自体を引用している）（https://www.cdc.gov/heads-up/response/index.html）。裏づける部分：競技復帰が多段階プロセスである点、復帰プロトコルを終える前に通常の非スポーツ活動（学習を含む）へ完全復帰しているべき点は裏づけられる。ただし進行を制限する基準である『現在の脳振盪症状の軽度で短時間の増悪を超えない範囲』という具体はCDCページにない"
+  },
+  {
+   "card": "TJ-050",
+   "label": "GOV_US、作り手の調査バッチ8 2026-11-11",
+   "text": "Centers for Disease Control and Prevention (CDC). Crush Injury and Crush Syndrome. Blast Injury Fact Sheet. U.S. Department of Health and Human Services, June 2009（GOV_US。ACEP サイト掲載の CDC ファクトシートで確認）（https://www.acep.org/imports/clinical-and-practice-management/resources/ems-and-disaster-preparedness/disaster-preparedness-grant-projects/cdc---blast-injury/cdc-blast-injury-fact-sheets/crush-injury-and-crush-syndrome）。裏づける部分：CDC ファクトシートが一般論部分を支持：挫滅症…"
+  },
+  {
+   "card": "TJ-014",
+   "label": "OPEN、作り手の調査バッチ8 2026-11-11",
+   "text": "De Stefano F, Fiani B, Mayo T. A Foundational \"Survival Guide\" Overview of Sports-Related Head Injuries. Cureus. 2020;12(11):e11636／Douglas DB, et al. Neuroimaging of Traumatic Brain Injury. Med Sci (Basel). 2018;7(1):2（いずれもCC BY）（https://pmc.ncbi.nlm.nih.gov/articles/PMC7755598/）。裏づける部分：架橋静脈の断裂・破裂（両論文）、CTで三日月型（Cureus：crescent、急性期は均一な高吸収）、脳実質挫傷の合併が多いこと（Cureus）・EDHより高度の基礎脳損傷を伴うこと（Med Sci）は裏づけられる。ただし『EDHに比べて転帰が不良』という比較の明示は両論文にはなく（CureusはSDHが死亡・重度障害…"
+  },
+  {
+   "card": "TJ-028",
+   "label": "OPEN、作り手の調査バッチ8 2026-11-11",
+   "text": "Spinal Shock: Clinical Pearls. IntechOpen chapter. 2023（CC BY）（https://www.intechopen.com/chapters/87009）。裏づける部分：IntechOpen 章が「損傷レベル以下の脊髄反射活動のすべてまたは一部の一過性の消失・障害」「Ditunno らの4相モデル（I相 0〜1日 無反射、II相 1〜3日 反射の初期回復、III相 初期反射亢進、IV相 1〜12か月 反射亢進・痙性）」を明示し、主張の骨格（定義＋4相）を支持。球海綿体反射は脊髄ショック期に消失する反射として同章抄録にも登場する。"
+  },
+  {
+   "card": "TJ-030",
+   "label": "OPEN、作り手の調査バッチ8 2026-11-11",
+   "text": "Picetti E, et al. Early management of adult traumatic spinal cord injury in patients with polytrauma: a consensus and clinical recommendations jointly developed by the World Society of Emergency Surgery (WSES) & the European Association of Neurosurgical Societies (EANS). World J Emerg Surg. 2024;19:4（CC BY 4.0）＝新規 SRC 登録を提案（https://pmc.ncbi.nlm.nih.gov/articles/PMC10795357/）。裏づける部分：WSES/EANS 2024 は推奨15で『tSCI＋多発外傷患者への大量コルチコステロイド療法（NASCIS I-III）に反対…"
+  },
+  {
+   "card": "TJ-045",
+   "label": "OPEN、作り手の調査バッチ8 2026-11-11",
+   "text": "Pereira BM, Chiara O, Ramponi F, et al. WSES position paper on vascular emergency surgery. World J Emerg Surg. 2015;10:47（CC BY）＝新規 SRC 登録を提案（WSES 文書の本体側）。併せて現出典 AAST-WSES ガイドライン（J Trauma 2020）の PubMed 抄録レコード（https://pmc.ncbi.nlm.nih.gov/articles/PMC4618918/）。裏づける部分：WSES 2015（CC BY）は hard/soft signs 表を掲げ、hard signs（外出血、急速に拡大する血腫、スリル、雑音、明らかな動脈閉塞＝6P：脈なし・蒼白・知覚異常・麻痺・冷感）を『直ちに手術を要する』とし、臨床所見の診察が最重要と述べ、カード前段（hard signs があれば直ちに手術的修復）を強く支持。カード後段（所見が不確かで安定し…"
+  },
+  {
+   "card": "TJ-048",
+   "label": "OPEN、作り手の調査バッチ8 2026-11-11",
+   "text": "Kastanis GE, et al. Acute Compartment Syndrome of the Hand Following Multiple Metacarpal Fractures: Current Concepts. Cureus. 2024;16(12):e75714（CC BY）（https://pmc.ncbi.nlm.nih.gov/articles/PMC11646446/）。裏づける部分：現出典（Garner 2014）の抄録が定義（区画内圧上昇による循環障害）・最も多い原因は外傷・診断遅延の後遺症の重大さ・緊急介入の必要性を支持するが、5P の列挙は抄録にない。Cureus（CC BY）論文が『Reichman の 5P：痛み・知覚異常・蒼白・麻痺・脈拍消失』を明記し、『全徴候の出現を待つと永続的で重大な後遺症を招く、早期診断が第一の目標』と述べ、5P と早期介入の要素を補う。同誌の手の急性区画症候群の系統的レビューも定義・5P・外傷（骨折合併）が最多原因…"
+  },
+  {
+   "card": "TJ-055",
+   "label": "OPEN、作り手の調査バッチ8 2026-11-11",
+   "text": "Demmer W, et al. Reconstruction of Chronic Soft Tissue Mallet Fingers: Outcomes of Step-Plasty vs. Purse-String Suture. J Funct Morphol Kinesiol. 2024;9(3):144（https://pmc.ncbi.nlm.nih.gov/articles/PMC11417831/）。裏づける部分：一部のみ。現出典の抄録はゾーンI損傷＝槌指という骨格のみ。CC BY候補の抄録が『DIP関節部の伸筋腱断裂が槌指であり伸展障害を来す』を裏づける。『閉鎖性』『DIPが屈曲位となる』姿位の明示は候補抄録にはない"
+  },
+  {
+   "card": "TJ-056",
+   "label": "OPEN、作り手の調査バッチ8 2026-11-11",
+   "text": "Chu EC, Lin AFC, Mok S, Piong SZ, Ng G. A Central Slip Injury in a Professional Basketball Player. Cureus. 2023;15(2):e35197（https://pmc.ncbi.nlm.nih.gov/articles/PMC9940132/）。裏づける部分：一部のみ。現出典の抄録はゾーンIII損傷＝ボタン穴変形という骨格のみ。CC BY候補（Cureus）の抄録が中央索損傷でボタン穴変形を呈した症例を裏づける。側索の掌側移動・PIP屈曲＋DIP過伸展の機序そのものは候補抄録に記載なし"
+  },
+  {
+   "card": "TJ-071",
+   "label": "OPEN、作り手の調査バッチ8 2026-11-11",
+   "text": "Shelby H, Bergren S, Wier J, Schwarz EM, Lieberman JR. The Osteoimmunologic Basis of Biologic and Bioengineered Scaffolds in Fracture Healing. Bioengineering. 2026;13(2):223（https://pmc.ncbi.nlm.nih.gov/articles/PMC12937764/）。裏づける部分：主張の前半（古典的定義）のみCC BY候補の抄録が裏づける（受傷後9か月癒合せず、または3か月間進展なし）。後半（期間のみで定めず『追加介入なしには癒合しない骨折』と捉えるコンセンサス）は現出典SRC-1985自体の抄録に明記されており、その部分は抄録レコードで裏づけられる。両者を合わせても単一の自由な出典で全要素とはならないためB"
+  },
+  {
+   "card": "TJ-079",
+   "label": "OPEN、作り手の調査バッチ8 2026-11-11",
+   "text": "Li ZJ, Yang QQ, Zhou YL. Biological and Mechanical Factors and Epigenetic Regulation Involved in Tendon Healing. Stem Cells Int. 2023;2023:4387630（https://pmc.ncbi.nlm.nih.gov/articles/PMC9842431/）。裏づける部分：骨格のみ。CC BY総説の抄録が『腱治癒は炎症・増殖・再構築の過程を含む』『内因性（endogenous）と外因性（exogenous）の治癒の不均衡が癒着を来す』を裏づける。現出典の抄録が裏づけるのは『既存の変性が急性断裂の危険因子』のみ"
+  },
+  {
+   "card": "TJ-080",
+   "label": "OPEN、作り手の調査バッチ8 2026-11-11",
+   "text": "Usuda D, et al. Crush syndrome: a review for prehospital providers and emergency clinicians. J Transl Med. 2023;21:584（https://pmc.ncbi.nlm.nih.gov/articles/PMC10472640/）。裏づける部分：抄録ではなくCC BY本文で裏づけられる範囲: 救出前からの早期・積極的な輸液開始、カリウム含有液の回避、尿量300 mL/h以上を目安とする輸液（最初の24時間）、マンニトール・重炭酸は条件付きで用いること、高カリウム血症への迅速対応と透析の必要性一般、筋膜切開をめぐる議論があること。足りない範囲: 成人1000 mL/h開始・2時間超で500 mL/h以下への減量、6時間で3〜6 L、小児15〜20 mL/kg/h、乏尿時の制限式（前日喪失量＋500〜1000 mL/日）、血液浄化の絶対適応の数値（K 6.5 mmol/L以上、pH …"
+  },
+  {
+   "card": "TJ-012",
+   "label": "OPEN、作り手の調査バッチ8 2026-11-11",
+   "text": "De Stefano F, Fiani B, Mayo T. Cureus. 2020;12(11):e11636（CC BY、PMC7755598）：側頭骨骨折に伴う中硬膜動脈の損傷が典型的な出血源である点"
+  }
+ ],
+ "rest_fix": {
+  "SRC-1943": "© ASIA, All rights reserved",
+  "SRC-1957": "© BMJ、商用再利用不可"
+ }
+}
