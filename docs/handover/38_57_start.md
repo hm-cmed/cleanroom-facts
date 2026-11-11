@@ -79,4 +79,4 @@
 - BL・GR・HF・PV の調査と、パブリックドメイン出典の調査バッチ1〜7を、scripts/apply_free_sources_20261111.py で反映した（選別結果は proposals/pd_survey_20261111/selected.json、記録は reports/free_sources_apply_20261111.json）。
 - 区分の訂正18出典（日本の学会ガイドライン英語版など12出典を OPEN、NC 系6出典を RESTRICTED に明確化）。主出典の置き換え28件、裏づけの追加138件、新規出典12件（SRC-4987〜）。
 - 使わなかったもの：PubMed の抄録（先例 A を含む）、DailyMed、MedlinePlus 医学百科、ACOG・Cochrane の抄録、VA/DoD の DSM 転載部分、CMS の LCD、兵庫県サイト、JJID（SRC-2027、CC BY の原文確認待ち）、PMDA 審査報告書（利用条件の確認待ち）。
-- 残り：①識別子の補完（各バッチの候補、--online で照合後）②カードとマスターの区分の食い違い104件（reports/source_class_mismatch_20261111.md）③内容の確認（PH-010 の CPAP 基準の令和8年度改定、NG-086・095・078・225、AB-044・045、IN-012・068・084、GD-044・048 の版、VI-021 の潜伏期）④作り手への再調査依頼（BL・GR・HF・PV の15件）。
+- 残り：①識別子の補完（各バッチの候補、--online で照合後）②カードとマスターの区分の食い違い18件（reports/source_class_mismatch_20261111.md。ほかにパイロット・第1回の ES・HP・UG の86件は source_ref 自体が空の旧形式）③内容の確認（PH-010 の CPAP 基準の令和8年度改定、NG-086・095・078・225、AB-044・045、IN-012・068・084、GD-044・048 の版、VI-021 の潜伏期）④作り手への再調査依頼（BL・GR・HF・PV の15件）。
