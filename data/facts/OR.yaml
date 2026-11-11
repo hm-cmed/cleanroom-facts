@@ -158,7 +158,7 @@
     source_license: CCライセンス表示なし（学会ガイドライン）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ22 2026-11-11）：CDC「Treatment of Candidiasis」：重症度別の枠組み（軽症〜中等症は局所抗真菌薬7〜14日、重症は経口・静注薬）。フルコナゾールの用量は対象外
   uncertainty: 薬剤名（クロトリマゾール、フルコナゾール）を含む。国内の承認・保険適用は未確認。記載は2016年版ガイドライン本文に基づく。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
@@ -173,6 +173,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ22 2026-11-11）。三原の承認（2026-11-11）による
 - id: OR-006
   domain: OR
   subdomain: 前癌病変
@@ -228,7 +231,7 @@
     source_license: ライセンス未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ22 2026-11-11）：USPSTF「Screening for Oral Cancer: Clinical Summary」：主要な危険因子が喫煙と飲酒であること。相対リスクなどの数値は対象外'
   uncertainty: 米国の2002年時点の疫学データに基づく。国内の疫学とは頻度や構成が異なる可能性がある。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)；TBL-01-00-674 (id: JlvnmfE)'
@@ -243,6 +246,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ22 2026-11-11）。三原の承認（2026-11-11）による
 - id: OR-008
   domain: OR
   subdomain: 口腔癌
@@ -263,7 +269,7 @@
     source_license: ライセンス未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ22 2026-11-11）：NCI PDQ「Lip and Oral Cavity Cancer Treatment」：確定診断は生検、進展とリンパ節の評価に CT・MRI。頸部リンパ節転移約30%とブラシ細胞診の位置づけは対象外
   uncertainty: 2002年の総説に基づく診断の原則であり、現在の画像診断や病期分類の運用とは異なる場合がある。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)；TBL-01-00-674 (id: JlvnmfE)'
@@ -278,6 +284,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ22 2026-11-11）。三原の承認（2026-11-11）による
 - id: OR-009
   domain: OR
   subdomain: 口腔癌
@@ -298,7 +307,7 @@
     source_license: ライセンス未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ22 2026-11-11）：NCI PDQ「Lip and Oral Cavity Cancer Treatment」：治療の基本は手術と放射線、進行例は併用、選択は部位・進展とリンパ節で決まる
   uncertainty: 2002年の総説に基づく治療の原則であり、その後の薬物療法（免疫チェックポイント阻害薬など）の位置づけは含まない。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)；TBL-01-00-674 (id: JlvnmfE)'
@@ -313,6 +322,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ22 2026-11-11）。三原の承認（2026-11-11）による
 - id: OR-010
   domain: OR
   subdomain: 顎関節
@@ -403,7 +415,7 @@
     source_license: CCライセンス表示なし（学会ガイドライン）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ22 2026-11-11）：CDC「Clinical Guidance for Group A Streptococcal Pharyngitis」：最も多い細菌性原因、割合（小児20〜30%・成人5〜15%）がカードと一致、臨床所見だけでは鑑別できない、迅速抗原検査・培養で確認
   uncertainty: 記載は2012年版ガイドライン本文に基づく。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)；TBL-01-00-513 (id: JlvnmQU)'
@@ -418,6 +430,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ22 2026-11-11）。三原の承認（2026-11-11）による
 - id: OR-013
   domain: OR
   subdomain: 扁桃・アデノイド
@@ -473,7 +488,7 @@
     source_license: CCライセンス表示なし（学会ガイドライン）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ22 2026-11-11）：CDC「Clinical Guidance for Group A Streptococcal Pharyngitis」：ペニシリン・アモキシシリンが第一選択
   uncertainty: 薬剤名（ペニシリン、アモキシシリン、クリンダマイシン）を含む。国内の承認・保険適用は未確認。記載は2012年版ガイドライン本文に基づく。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)；TBL-01-00-517 (id: JlvnmQM)'
@@ -488,6 +503,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ22 2026-11-11）。三原の承認（2026-11-11）による
 - id: OR-015
   domain: OR
   subdomain: 深頸部感染症
@@ -507,7 +525,7 @@
     url: https://doi.org/10.1016/j.anpedi.2018.09.014
     source_license: ライセンス未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: スペイン単一施設における小児例の後方視的検討に基づく。成人の頻度や治療成績とは異なる可能性がある。
   curriculum:
@@ -523,6 +541,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1441 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: OR-016
   domain: OR
   subdomain: 深頸部感染症
@@ -542,7 +563,7 @@
     url: https://doi.org/10.1016/j.anpedi.2018.09.014
     source_license: ライセンス未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は深頸部膿瘍全体の検討であり、咽後膿瘍は12例である。単一施設の小児例に基づく。
   curriculum:
@@ -558,6 +579,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1441 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: OR-017
   domain: OR
   subdomain: 扁桃炎
@@ -788,7 +812,7 @@
     source_license: ライセンス未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ22 2026-11-11）：USPSTF「Screening for Oral Cancer: Clinical Summary」：無症状の成人への一律スクリーニングはエビデンス不十分（I statement）。米国癌協会の検診と1998年調査の数値は対象外'
   uncertainty: 米国の2002年時点の推奨と調査に基づく。国内の検診体制や推奨とは異なる。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)；TBL-01-00-674 (id: JlvnmfE)'
@@ -803,6 +827,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ22 2026-11-11）。三原の承認（2026-11-11）による
 - id: OR-024
   domain: OR
   subdomain: 唾液腺疾患
@@ -928,7 +955,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ22 2026-11-11）：NCI PDQ「Salivary Gland Cancer Treatment」：治療の中心は外科的切除、術後放射線の適応（高悪性度・断端陽性・神経周囲浸潤）、腺様嚢胞癌の神経周囲浸潤。ASCO 固有の細目は対象外
   uncertainty: 米国のガイドライン本文（推奨文）で確認した範囲の記載。全身療法の個別薬剤名は含めておらず、関連薬剤の国内承認・保険適用は未確認。日本の診療体制や保険制度への適合は出典の範囲外。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
@@ -943,6 +970,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ22 2026-11-11）。三原の承認（2026-11-11）による
 - id: OR-028
   domain: OR
   subdomain: 頸部疾患
@@ -1313,7 +1343,7 @@
     source_license: CCライセンス表示なし（学会ガイドライン）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ22 2026-11-11）：CDC「Clinical Guidance for Group A Streptococcal Pharyngitis」：ウイルス性を示唆する所見では通常検査不要、検査で確認された例に抗菌薬、ペニシリン・アモキシシリンが第一選択。Centor 基準そのもの、投与期間10日、リウマチ熱予防の期限は対象外
   uncertainty: ガイドライン本文では臨床スコアは総称として論じられており、Centor基準（1981年）はその参考文献の一つであるため、主張では「Centor基準など」とした。A群溶連菌の占める割合と検査で確認する方針は OR-012 が担当する。ペニシリンとアモキシシリンはいずれも国内で承認され保険適用されており、溶連菌感染症は適応に含まれる。
   curriculum:
     kokushi: 医学各論 Ⅲ-10-C-①（咽頭炎、a）
@@ -1328,6 +1358,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ22 2026-11-11）。三原の承認（2026-11-11）による
 - id: OR-039
   domain: OR
   subdomain: 口蓋扁桃肥大症、咽頭扁桃増殖症
@@ -1383,7 +1416,7 @@
     source_license: CCライセンス表示なし（学会ガイドライン）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ22 2026-11-11）：CDC「Clinical Guidance for Group A Streptococcal Pharyngitis」：5〜15歳に多いこと、臨床像、ウイルス性を示唆する所見、検査による確認、化膿性・非化膿性の合併症
   uncertainty: 記載は2012年版ガイドライン本文で確認した範囲（臨床像は同ガイドラインの特徴の表、合併症は序文と推奨の根拠の節）。同ガイドラインでは咽頭炎と扁桃炎は一体として扱われる。治療薬は OR-014 が担うため本カードには薬剤名を含めていない。PMCID は PMC 本文で確認した（出典マスターでは null のため補完候補）。
   curriculum:
     kokushi: 医学各論 Ⅲ-10-C-③（急性扁桃炎、a）
@@ -1398,6 +1431,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ22 2026-11-11）。三原の承認（2026-11-11）による
 - id: OR-041
   domain: OR
   subdomain: 扁桃周囲炎・膿瘍

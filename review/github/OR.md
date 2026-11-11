@@ -236,7 +236,7 @@
 
 - 条件：region: スペイン／対象: 小児（単一施設、2002〜2016年）
 - 不確実性：スペイン単一施設における小児例の後方視的検討に基づく。成人の頻度や治療成績とは異なる可能性がある。
-- 出典：Ruiz de la Cuesta F, et al. Deep neck space abscesses in children: 15 years of experience in a children’s ENT referral unit. An Pediatr (Engl Ed). 2019;91(1):30-36.　[DOI 10.1016/j.anpedi.2018.09.014](https://doi.org/10.1016/j.anpedi.2018.09.014)　[PMID 30392823](https://pubmed.ncbi.nlm.nih.gov/30392823/)（区分 UNKNOWN）
+- 出典：Ruiz de la Cuesta F, et al. Deep neck space abscesses in children: 15 years of experience in a children’s ENT referral unit. An Pediatr (Engl Ed). 2019;91(1):30-36.　[DOI 10.1016/j.anpedi.2018.09.014](https://doi.org/10.1016/j.anpedi.2018.09.014)　[PMID 30392823](https://pubmed.ncbi.nlm.nih.gov/30392823/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-C-④（扁桃周囲炎・膿瘍、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-518 (id: JlvnmQk)；TBL-01-00-519 (id: JlvnmQs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-015&card_id=OR-015&version=65204e772a)　（版 `65204e772a`）
 
@@ -246,7 +246,7 @@
 
 - 条件：region: スペイン／対象: 小児（単一施設、2002〜2016年）
 - 不確実性：出典は深頸部膿瘍全体の検討であり、咽後膿瘍は12例である。単一施設の小児例に基づく。
-- 出典：Ruiz de la Cuesta F, et al. Deep neck space abscesses in children: 15 years of experience in a children’s ENT referral unit. An Pediatr (Engl Ed). 2019;91(1):30-36.　[DOI 10.1016/j.anpedi.2018.09.014](https://doi.org/10.1016/j.anpedi.2018.09.014)　[PMID 30392823](https://pubmed.ncbi.nlm.nih.gov/30392823/)（区分 UNKNOWN）
+- 出典：Ruiz de la Cuesta F, et al. Deep neck space abscesses in children: 15 years of experience in a children’s ENT referral unit. An Pediatr (Engl Ed). 2019;91(1):30-36.　[DOI 10.1016/j.anpedi.2018.09.014](https://doi.org/10.1016/j.anpedi.2018.09.014)　[PMID 30392823](https://pubmed.ncbi.nlm.nih.gov/30392823/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-C-⑤（咽後膿瘍、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-016&card_id=OR-016&version=988f2667f2)　（版 `988f2667f2`）
 

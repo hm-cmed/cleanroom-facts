@@ -16357,14 +16357,17 @@
   doi: 10.1016/j.anpedi.2018.09.014
   pmid: '30392823'
   pmcid: null
-  license_note: ライセンス未確認
+  license_note: CC BY-NC-ND 4.0（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス未確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1442
   legacy_id: null
   title: 'Lee SJ, Lee SY, et al. Clinical characteristics, pathological distribution, and prognostic factors in non-Hodgkin lymphoma of Waldeyer''s ring: nationwide Korean study. Korean J Intern Med. 2014;29(3):352-360.'

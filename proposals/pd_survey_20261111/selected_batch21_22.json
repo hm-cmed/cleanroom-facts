@@ -1,0 +1,93 @@
+{
+ "A": [],
+ "B": [
+  {
+   "card": "EP-027",
+   "label": "OPEN、作り手の調査バッチ21 2026-11-11",
+   "text": "Onan D, et al. Debate: differences and similarities between tension-type headache and migraine. J Headache Pain. 2023（CC BY、PMID 37474899、PMC10360340）の Table 3：前兆のない片頭痛の基準の構成と数値が一致（ICHD-3 の基準表の転載部分は国際頭痛学会の素材の可能性があり、主出典の置き換えには使わない。事実の照合として記録）"
+  },
+  {
+   "card": "EP-028",
+   "label": "OPEN、作り手の調査バッチ21 2026-11-11",
+   "text": "Onan D, et al. Debate: differences and similarities between tension-type headache and migraine. J Headache Pain. 2023（CC BY、PMID 37474899、PMC10360340）の Table 3：前兆のある片頭痛の基準の構成と数値が一致（ICHD-3 の基準表の転載部分は国際頭痛学会の素材の可能性があり、主出典の置き換えには使わない。事実の照合として記録）"
+  },
+  {
+   "card": "EP-037",
+   "label": "OPEN、作り手の調査バッチ21 2026-11-11",
+   "text": "Onan D, et al. Debate: differences and similarities between tension-type headache and migraine. J Headache Pain. 2023（CC BY、PMID 37474899、PMC10360340）の Table 2：緊張型頭痛の基準の構成と数値が一致（ICHD-3 の基準表の転載部分は国際頭痛学会の素材の可能性があり、主出典の置き換えには使わない。事実の照合として記録）"
+  },
+  {
+   "card": "EP-036",
+   "label": "OPEN、作り手の調査バッチ21 2026-11-11",
+   "text": "Vandenbussche N, et al. J Headache Pain. 2018（CC BY、PMID 30003412、PMC6043466）：薬剤の使用過多による頭痛の基準と下位分類の閾値（月10日／15日）が一致（ICHD-3 の基準表の転載部分は国際頭痛学会の素材の可能性があり、主出典の置き換えには使わない。事実の照合として記録）"
+  },
+  {
+   "card": "EP-017",
+   "label": "OPEN、作り手の調査バッチ21 2026-11-11",
+   "text": "Ferretti A, et al. Ital J Pediatr. 2024（CC BY、PMID 38735928、PMC11089695）：熱性けいれんの年齢（6か月〜5歳）、中枢神経感染症の除外、複雑型の区切り（15分超・24時間以内の反復）。焦点性の要素と単純型の定義文は対象外"
+  },
+  {
+   "card": "EP-039",
+   "label": "OPEN、作り手の調査バッチ21 2026-11-11",
+   "text": "Vollesen AL, et al. J Headache Pain. 2018（CC BY、PMID 30242519、PMC6755613）：群発頭痛の持続15〜180分、部位、頻度、同側の自律神経症状。眼瞼浮腫と不穏の扱いは対象外"
+  },
+  {
+   "card": "EP-025",
+   "label": "OPEN、作り手の調査バッチ21 2026-11-11",
+   "text": "SRC-1717（Specchio 2022、CC BY、登録済み）：Lennox-Gastaut 症候群の分類上の位置づけ"
+  },
+  {
+   "card": "OR-005",
+   "label": "GOV_US、作り手の調査バッチ22 2026-11-11",
+   "text": "CDC「Treatment of Candidiasis」：重症度別の枠組み（軽症〜中等症は局所抗真菌薬7〜14日、重症は経口・静注薬）。フルコナゾールの用量は対象外"
+  },
+  {
+   "card": "OR-007",
+   "label": "GOV_US、作り手の調査バッチ22 2026-11-11",
+   "text": "USPSTF「Screening for Oral Cancer: Clinical Summary」：主要な危険因子が喫煙と飲酒であること。相対リスクなどの数値は対象外"
+  },
+  {
+   "card": "OR-023",
+   "label": "GOV_US、作り手の調査バッチ22 2026-11-11",
+   "text": "USPSTF「Screening for Oral Cancer: Clinical Summary」：無症状の成人への一律スクリーニングはエビデンス不十分（I statement）。米国癌協会の検診と1998年調査の数値は対象外"
+  },
+  {
+   "card": "OR-008",
+   "label": "GOV_US、作り手の調査バッチ22 2026-11-11",
+   "text": "NCI PDQ「Lip and Oral Cavity Cancer Treatment」：確定診断は生検、進展とリンパ節の評価に CT・MRI。頸部リンパ節転移約30%とブラシ細胞診の位置づけは対象外"
+  },
+  {
+   "card": "OR-009",
+   "label": "GOV_US、作り手の調査バッチ22 2026-11-11",
+   "text": "NCI PDQ「Lip and Oral Cavity Cancer Treatment」：治療の基本は手術と放射線、進行例は併用、選択は部位・進展とリンパ節で決まる"
+  },
+  {
+   "card": "OR-027",
+   "label": "GOV_US、作り手の調査バッチ22 2026-11-11",
+   "text": "NCI PDQ「Salivary Gland Cancer Treatment」：治療の中心は外科的切除、術後放射線の適応（高悪性度・断端陽性・神経周囲浸潤）、腺様嚢胞癌の神経周囲浸潤。ASCO 固有の細目は対象外"
+  },
+  {
+   "card": "OR-012",
+   "label": "GOV_US、作り手の調査バッチ22 2026-11-11",
+   "text": "CDC「Clinical Guidance for Group A Streptococcal Pharyngitis」：最も多い細菌性原因、割合（小児20〜30%・成人5〜15%）がカードと一致、臨床所見だけでは鑑別できない、迅速抗原検査・培養で確認"
+  },
+  {
+   "card": "OR-014",
+   "label": "GOV_US、作り手の調査バッチ22 2026-11-11",
+   "text": "CDC「Clinical Guidance for Group A Streptococcal Pharyngitis」：ペニシリン・アモキシシリンが第一選択"
+  },
+  {
+   "card": "OR-038",
+   "label": "GOV_US、作り手の調査バッチ22 2026-11-11",
+   "text": "CDC「Clinical Guidance for Group A Streptococcal Pharyngitis」：ウイルス性を示唆する所見では通常検査不要、検査で確認された例に抗菌薬、ペニシリン・アモキシシリンが第一選択。Centor 基準そのもの、投与期間10日、リウマチ熱予防の期限は対象外"
+  },
+  {
+   "card": "OR-040",
+   "label": "GOV_US、作り手の調査バッチ22 2026-11-11",
+   "text": "CDC「Clinical Guidance for Group A Streptococcal Pharyngitis」：5〜15歳に多いこと、臨床像、ウイルス性を示唆する所見、検査による確認、化膿性・非化膿性の合併症"
+  }
+ ],
+ "rest_fix": {
+  "SRC-1441": "CC BY-NC-ND 4.0"
+ }
+}
