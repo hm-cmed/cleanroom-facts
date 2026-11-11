@@ -18,7 +18,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ37 2026-11-11）：Hussain YS, et al. Epidemiology, management and outcomes of Graves' disease—real life data. Endocrine. 2017（CC BY、PMID 28478488、DOI 10.1007/s12020-017-1306-5、PMC5435772、新規 SRC 候補）。裏づける部分と留保：TRAb が病態を駆動すること、甲状腺中毒症の所見に TRAb 上昇・眼症・びまん性の取り込み増加が加わればバセドウ病と診断できることは一致。カードの「びまん性甲状腺腫」とは表記が異なる
   uncertainty: 出典の抄録はPubMedに収載されておらず本文は未確認のため、主張はBasedow病の診断に関する定義的な範囲に限定し、数値は用いていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-462 (id: JlvnmK8)；TBL-02-13-014 (id: JlAKpsw)'
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
 - id: TH-002
   domain: TH
   subdomain: Basedow病
@@ -298,7 +301,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ37 2026-11-11）：Desailloud R, Hober D. Viruses and thyroiditis: an update. Virol J. 2009（CC BY、PMID 19138419、DOI 10.1186/1743-422X-6-5、PMC2654877、新規 SRC 候補）。裏づける部分と留保：無痛性甲状腺炎が慢性甲状腺炎の亜型として自己免疫性甲状腺疾患に分類されることは一致。三相性の経過は載らない'
   uncertainty: 出典の抄録はPubMedに収載されておらず本文も未確認のため、主張は無痛性甲状腺炎の定義的な経過の範囲に限定し、数値は用いていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-464 (id: JlvnmLE)'
@@ -313,6 +316,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
 - id: TH-010
   domain: TH
   subdomain: 単純性甲状腺腫
@@ -406,7 +412,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ37 2026-11-11）：NCI PDQ「Thyroid Cancer Treatment」専門家版（GOV_US、新規 SRC 候補、https://www.cancer.gov/types/thyroid/hp/thyroid-treatment-pdq）。裏づける部分と留保：濾胞腺腫と濾胞癌は被膜浸潤・血管浸潤の有無で区別されることは一致。境界型の区分と免疫染色の位置づけは範囲外
   uncertainty: 出典は総説であり、主張は濾胞性腫瘍の診断手順に関する抄録の記載に基づく。分子診断による術前判別の可能性は発展途上の事項として抄録に触れられているが、主張には含めていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -421,6 +427,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
 - id: TH-013
   domain: TH
   subdomain: 甲状腺結節
@@ -441,7 +450,7 @@
     source_license: ライセンス表示を確認できず（PMCで無料公開）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ37 2026-11-11）：NCI PDQ「Thyroid Cancer Treatment」専門家版（GOV_US、新規 SRC 候補、https://www.cancer.gov/types/thyroid/hp/thyroid-treatment-pdq）。裏づける部分と留保：診断評価に頸部超音波と穿刺吸引細胞診を用いることは一致。分子マーカーと超音波パターン別の FNA 閾値は範囲外。ATA 2025年版が刊行
   uncertainty: 本カードは米国甲状腺学会2015年版ガイドラインの抄録に基づく。穿刺吸引細胞診の適応となる結節径や超音波所見の細部は抄録の範囲を超えるため主張に含めていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-670 (id: Jlvnmew)'
@@ -459,6 +468,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: curriculum.core_curriculum の不変 id を訂正（TBL-01-00-670：Jlvnmek→Jlvnmew。隣の行の id を写した誤りで、コアカリの原データとの照合による機械的な訂正。受け入れ検査 reports/accept_20_en_a.md）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
 - id: TH-014
   domain: TH
   subdomain: 甲状腺悪性腫瘍
@@ -479,7 +491,7 @@
     source_license: ライセンス表示を確認できず（PMCで無料公開）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ37 2026-11-11）：NCI PDQ「Thyroid Cancer Treatment」専門家版（GOV_US、新規 SRC 候補、https://www.cancer.gov/types/thyroid/hp/thyroid-treatment-pdq）。裏づける部分と留保：全摘後のサイロキシンによる TSH 抑制（程度は再発リスクによる）と、サイログロブリン上昇が再発と強く相関することは一致。リスク別の TSH 目標と放射性ヨウ素の適応区分は範囲外。ATA 2025年版が刊行
   uncertainty: 本カードは2015年版ガイドラインに基づく米国の管理方針であり、日本の診療と異なる場合がある。レボチロキシンは国内で承認・保険適用のある薬剤だが、本作業では添付文書等による一次確認は行っていない。放射性ヨウ素治療の国内実施要件も本作業では確認していない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-670 (id: Jlvnmew)'
@@ -497,6 +509,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: curriculum.core_curriculum の不変 id を訂正（TBL-01-00-670：Jlvnmek→Jlvnmew。隣の行の id を写した誤りで、コアカリの原データとの照合による機械的な訂正。受け入れ検査 reports/accept_20_en_a.md）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
 - id: TH-015
   domain: TH
   subdomain: 甲状腺悪性腫瘍
@@ -517,7 +532,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ37 2026-11-11）：NCI PDQ「Thyroid Cancer Treatment」専門家版（GOV_US、新規 SRC 候補、https://www.cancer.gov/types/thyroid/hp/thyroid-treatment-pdq）。裏づける部分と留保：濾胞癌が血管に浸潤しやすく、リンパ行性より血行性に肺・骨へ転移することは一致。遠隔転移率10%未満と組織型別10年生存率（98%・80%）は載らない
   uncertainty: 転移頻度と10年生存率の数値は出典の抄録に記載された値である。放射性ヨウ素治療と甲状腺ホルモン剤の国内承認・実施要件は、本作業では一次確認を行っていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-670 (id: Jlvnmew)'
@@ -535,6 +550,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: curriculum.core_curriculum の不変 id を訂正（TBL-01-00-670：Jlvnmek→Jlvnmew。隣の行の id を写した誤りで、コアカリの原データとの照合による機械的な訂正。受け入れ検査 reports/accept_20_en_a.md）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
 - id: TH-016
   domain: TH
   subdomain: 甲状腺悪性腫瘍
@@ -555,7 +573,7 @@
     source_license: CC BY-NC-ND 4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ37 2026-11-11）：NCI PDQ「Thyroid Cancer Treatment」専門家版（GOV_US、新規 SRC 候補、https://www.cancer.gov/types/thyroid/hp/thyroid-treatment-pdq）。裏づける部分と留保：主要組織型の分類、髄様癌が C 細胞由来でカルシトニンが腫瘍マーカーになること、未分化癌が侵襲性で予後不良であることは一致。ESMO の3区分そのものの再掲ではない
   uncertainty: 出典の抄録はPubMedに収載されておらず本文は未確認のため、主張はガイドラインの対象範囲に関する定義的な事項に限定し、数値は用いていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-670 (id: Jlvnmew)'
@@ -573,6 +591,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: curriculum.core_curriculum の不変 id を訂正（TBL-01-00-670：Jlvnmek→Jlvnmew。隣の行の id を写した誤りで、コアカリの原データとの照合による機械的な訂正。受け入れ検査 reports/accept_20_en_a.md）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
 - id: TH-017
   domain: TH
   subdomain: Basedow病眼症
@@ -593,7 +614,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ37 2026-11-11）：Burch HB, et al. Management of Thyroid Eye Disease: A Consensus Statement by the ATA and the ETA. Thyroid. 2022（CC BY、PMID 36480280、DOI 10.1089/thy.2022.0251、PMC9807259、新規 SRC 候補）。裏づける部分と留保：静注グルココルチコイドが活動性中等症〜重症の優先治療であること、IVMP の累積 4.5 g（0.5 g/週×6週＋0.25 g/週×6週）、EUGOGO 2021 が IVMP＋ミコフェノール酸を第一選択としたことの記録は一致。コンセンサス自体はそれを一律の第一選択とはしていない。ミコフェノール酸の国内承認は未確認'
   uncertainty: 用量（累積4.5 g、12週）は出典の抄録に記載された欧州ガイドラインの推奨である。メチルプレドニゾロンとミコフェノール酸製剤のBasedow病眼症に対する国内承認・保険適用は、本作業では一次確認を行っていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-462 (id: JlvnmK8)'
@@ -608,6 +629,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
 - id: TH-018
   domain: TH
   subdomain: 潜在性甲状腺機能異常
@@ -628,7 +652,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ37 2026-11-11）：USPSTF Final Recommendation Statement: Thyroid Dysfunction: Screening（2015、GOV_US、新規 SRC 候補）。裏づける部分と留保：定義（TSH が基準下限未満で FT4・FT3 が正常）のみ一致。軽症・重症の層別、年齢別の原因、顕性化のリスク因子は範囲外'
   uncertainty: 出典は総説であり、治療開始の具体的なTSH閾値は抄録に数値の記載がなかったため主張に含めていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-462 (id: JlvnmK8)；TBL-01-00-463 (id: JlvnmLA)'
@@ -643,6 +667,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
 - id: TH-019
   domain: TH
   subdomain: 副甲状腺疾患
@@ -664,7 +691,7 @@
     source_license: Creative Commons Attribution-NonCommercial-NoDerivs License (CC BY-NC-ND)
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ37 2026-11-11）：Bollerslev J, et al. European Expert Consensus on Practical Management of Specific Aspects of Parathyroid Disorders in Adults and in Pregnancy. Eur J Endocrinol. 2022（CC BY、PMID 34863037、DOI 10.1530/EJE-21-1044、PMC8789028、新規 SRC 候補）。裏づける部分と留保：正カルシウム性 PHPT の定義と二次性の原因の除外、補正カルシウムと PTH の再測定で確認することは一致。「2回・約2週間間隔」「3〜6か月」の測定スケジュールは載らない
   uncertainty: 診断の測定回数と間隔はガイドライン本文の推奨文から確認した。PMCID は PubMed 記録に表示がなく確認できなかったため null とした。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-465 (id: JlvnmLI)'
@@ -679,6 +706,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
 - id: TH-020
   domain: TH
   subdomain: 副甲状腺疾患
@@ -700,7 +730,7 @@
     source_license: Creative Commons Attribution-NonCommercial-NoDerivs License (CC BY-NC-ND)
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ37 2026-11-11）：Bollerslev J, et al. European Expert Consensus on Practical Management of Specific Aspects of Parathyroid Disorders in Adults and in Pregnancy. Eur J Endocrinol. 2022（CC BY、PMID 34863037、DOI 10.1530/EJE-21-1044、PMC8789028、新規 SRC 候補）。裏づける部分と留保：非手術例でのシナカルセトと骨保護薬による管理、副甲状腺摘出が根治的治療であること、高カルシウム尿症の参照値（女性 >250・男性 >300 mg/日）は一致。手術適応の数値リストは載らない
   uncertainty: 手術適応の数値（カルシウム1 mg/dL超、Tスコア-2.5以下、eGFR 60 mL/min未満、尿中カルシウム女性250 mg/日超・男性300 mg/日超、年齢50歳未満）はガイドラインの手術適応の表から読み取り。本文で触れたシナカルセト、ビスホスホネート、デノスマブについて、日本国内での承認・保険適用の状況は今回確認していない。PMCID は PubMed 記録に表示がなく確認できなかったため null とした。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-465 (id: JlvnmLI)'
@@ -715,6 +745,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
 - id: TH-021
   domain: TH
   subdomain: 副甲状腺疾患
@@ -772,7 +805,7 @@
     source_license: Creative Commons Attribution-NonCommercial-NoDerivs License (CC BY-NC-ND)
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ37 2026-11-11）：Bollerslev J, et al. European Expert Consensus on Practical Management of Specific Aspects of Parathyroid Disorders in Adults and in Pregnancy. Eur J Endocrinol. 2022（CC BY、PMID 34863037、DOI 10.1530/EJE-21-1044、PMC8789028、新規 SRC 候補）。裏づける部分と留保：intact PTH による PTH 依存性の切り分けと、家族性低カルシウム尿性高カルシウム血症との鑑別は一致。PTH 非依存性の側（PTHrP・肉芽腫性疾患）は範囲外
   uncertainty: 本カードはガイドライン本文の鑑別診断の記載に基づいており、悪性腫瘍に伴う高カルシウム血症の頻度や予後に関する数値は出典で確認していないため記載していない。PMCID は PubMed 記録に表示がなく確認できなかったため null とした。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-467 (id: JlvnmLU)'
@@ -787,6 +820,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
 - id: TH-023
   domain: TH
   subdomain: 骨粗鬆症の診断
@@ -918,7 +954,7 @@
     source_license: Copyright © 2016 by the Endocrine Society（PMC掲載ページの表示。CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ37 2026-11-11）：NIH Office of Dietary Supplements「Vitamin D Fact Sheet for Health Professionals」（GOV_US）。裏づける部分と留保：乳児（0〜12か月）のビタミンD 400 IU/日がくる病予防の投与量と一致。治療用量（2000 IU/日・カルシウム 500 mg/日）と、くる病の定義・診断手順は範囲外
   uncertainty: 数値と推奨は国際コンセンサスのものであり、日本国内の診療実態や推奨量とは別途照合が必要である。ビタミンD製剤およびカルシウム製剤の国内の承認・保険適用の状況は本調査では確認できていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -933,6 +969,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
 - id: TH-027
   domain: TH
   subdomain: 骨軟化症（成人）
@@ -1014,16 +1053,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-935
-    source: 'Minisola S, Fukumoto S, Xia W, Corsi A, Colangelo L, Scillitani A, et al. Tumor-induced Osteomalacia: A Comprehensive Review. Endocr Rev. 2023;44(2):323-353.'
-    doi: 10.1210/endrev/bnac026
-    pmid: '36327295'
-    pmcid: null
-    url: https://pubmed.ncbi.nlm.nih.gov/36327295/
-    source_license: Oxford University Press の standard publication reuse rights（Crossrefのライセンス情報。CC表示なし）
+    source_ref: SRC-5008
+    source: Black S, Keen R, Bubbear J. Burosumab for X-linked Hypophosphataemia and Tumour-induced Osteomalacia in Adults. TouchREVIEWS in Endocrinology. 2026
+    doi: 10.17925/EE.2026.22.1.6
+    pmid: '42273000'
+    pmcid: PMC13249216
+    url: https://europepmc.org/article/MED/42273000
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: '元の主出典：SRC-935（Minisola S, Fukumoto S, Xia W, Corsi A, Colangelo L, Scillitani A, et al. Tumor-induced Osteomalacia: A Comprehensive Review. Endocr Rev. 2023;44(2):323-353.）'
   uncertainty: FGF23の具体的な測定値やカットオフは測定法に依存し、抄録では確認できなかったため本カードには書いていない。ブロスマブおよび併用されるリン製剤・活性型ビタミンD製剤の国内の承認・保険適用の状況は本調査では確認できていない。PMCIDはPMC未収載のため null とした。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -1038,6 +1077,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-935 から自由に使える資料 SRC-5008 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：FGF23 過剰による病態、血液検査所見、FN1 融合遺伝子が約半数、腫瘍の局在の難しさ、68Ga DOTA イメージング、完全切除が根治的治療であること、切除できない場合の薬物療法まで、主張の全要素を CC BY の全文で確認（作り手の調査バッチ37））。三原の承認（2026-11-11）による
 - id: TH-030
   domain: TH
   subdomain: 低カルシウム血症
@@ -1059,7 +1101,7 @@
     source_license: null
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ37 2026-11-11）：Bollerslev J, et al. European Expert Consensus on Practical Management of Specific Aspects of Parathyroid Disorders in Adults and in Pregnancy. Eur J Endocrinol. 2022（CC BY、PMID 34863037、DOI 10.1530/EJE-21-1044、PMC8789028、新規 SRC 候補）。裏づける部分と留保：PTH 分泌不全型で活性型ビタミンD（カルシトリオール・アルファカルシジオール）が標準であること、症候性の急性低カルシウム血症にグルコン酸カルシウム静注と心電図モニタリング、術後の経口カルシウム＋活性型ビタミンDは一致。緊急対応の閾値はカード <1.9 mmol/L、コンセンサス <1.8 mmol/L（両値記録）。補正式（係数0.02）と原因の頻度順位は載らない
   uncertainty: 血清カルシウムの基準範囲（2.10〜2.60mmol/L）、アルブミン補正の係数（1g/Lあたり0.02mmol/L）、緊急評価の目安（補正カルシウム1.9mmol/L未満）は本文の記載から読み取った値であり、日本の検査基準とは単位や運用が異なる場合がある。 原因ごとの副甲状腺ホルモン・リン・カルシウムの組み合わせは本文の原因表から読み取った内容を文章化したものである。 薬剤名（グルコン酸カルシウム、カルシトリオール、アルファカルシドール）については、この出典の適応に対する国内の承認・保険適用を今回確認していない。 この出典は2008年の総説であり、その後の副甲状腺機能低下症に対するホルモン補充などの新しい治療は含まれない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-466 (id: JlvnmLQ)'
@@ -1074,6 +1116,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
 - id: TH-031
   domain: TH
   subdomain: 副甲状腺疾患
@@ -1095,7 +1140,7 @@
     source_license: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ37 2026-11-11）：Dershem R, et al. Familial Hypocalciuric Hypercalcemia Type 1 and Autosomal-Dominant Hypocalcemia Type 1. Am J Hum Genet. 2020（CC BY、PMID 32386559、DOI 10.1016/j.ajhg.2020.04.006、PMC7273533、新規 SRC 候補）。裏づける部分と留保：カルシウム・クレアチニンクリアランス比0.01未満が FHH の約80%、PHPT の20%未満であること、鑑別が不要な副甲状腺手術を避けることにつながり FHH に介入は不要なことは一致。「PHPT では比 >0.02 が多い」はその形では載らない
   uncertainty: カルシウム・クレアチニンクリアランス比の0.01未満・0.02超という値は出典本文から確認したもので、両疾患で0.01から0.02の重なりがあることは本文にも明記されている。CASR 以外の原因遺伝子ごとの頻度は本カードの出典本文では確認していないため記載していない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-465 (id: JlvnmLI)'
@@ -1110,6 +1155,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
 - id: TH-032
   domain: TH
   subdomain: ビタミンD代謝異常（欠乏と過剰）
@@ -1130,7 +1178,7 @@
     source_license: Copyright © 2016 by the Endocrine Society（PMC掲載ページの表示。CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ37 2026-11-11）：NIH Office of Dietary Supplements「Vitamin D Fact Sheet for Health Professionals」（GOV_US）。裏づける部分と留保：FNB の区分（50 nmol/L 以上で充足、30〜50 で不足の可能性、30未満で欠乏のリスク）はカードの分類と実質的に一致。毒性の目安はカード >250 nmol/L、ODS「典型的には >375 nmol/L（150 ng/mL）」（両値記録）。治療と経過観察は範囲外
   uncertainty: 本カードの閾値は国際コンセンサスのもので、日本国内で用いられる判定基準とは単位と閾値の体系が異なるため、国内基準との使い分けは別途整理が必要である。ビタミンD製剤の国内の承認・保険適用の状況は本調査では確認できていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -1145,6 +1193,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
 - id: TH-033
   domain: TH
   subdomain: 慢性甲状腺炎
@@ -1308,7 +1359,7 @@
     source_license: CC表示なし（購読誌。PMC 収載は著者稿）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ37 2026-11-11）：USPSTF Final Recommendation Statement: Thyroid Dysfunction: Screening（2015、GOV_US、新規 SRC 候補）。裏づける部分と留保：顕性（TSH 高値＋FT4 低値）と潜在性（TSH 高値＋FT4 正常）の定義、治療がレボチロキシン単剤であることは一致。年齢別の TSH 目標は範囲外'
   uncertainty: 定義の文言は PMC 全文（著者稿）の定義の段落で直接確認した。TSH の基準範囲の具体的な上限値は、検査法や集団によって異なるため主張に含めていない。既存の TH-018 は潜在性甲状腺機能異常の位置づけ（顕性疾患へ進みうる軽度の機能障害）と治療方針の判断軸を主張するカードであり、本カードの生化学的定義（顕性＝TSH高値＋遊離T4低値、潜在性＝TSH高値＋遊離T4正常）とは主張が異なるため、実質的な重複には当たらないと判断した。PMC 収載は著者稿であり、登録時に出版社版本文で最終照合すること。PMCID は作り手が PubMed レコードで確認したもので、API では未照合（--online での照合待ち）
   curriculum:
     kokushi: 医学各論 Ⅹ-2-A-②（甲状腺機能低下症、a）
@@ -1329,3 +1380,6 @@
   - date: '2026-11-08'
     by: claude-code
     change: TH-018 との重複は、取り込み側でも実質重複ではないと判定した（TH-018 は潜在性の位置づけと方針、本カードは顕性・潜在性の生化学的定義）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による

@@ -1,0 +1,103 @@
+{
+ "A": [
+  {
+   "card": "TH-029",
+   "class": "OPEN",
+   "title": "Black S, Keen R, Bubbear J. Burosumab for X-linked Hypophosphataemia and Tumour-induced Osteomalacia in Adults. TouchREVIEWS in Endocrinology. 2026",
+   "doi": "10.17925/EE.2026.22.1.6",
+   "pmid": "42273000",
+   "pmcid": "PMC13249216",
+   "url": "https://europepmc.org/article/MED/42273000",
+   "why": "FGF23 過剰による病態、血液検査所見、FN1 融合遺伝子が約半数、腫瘍の局在の難しさ、68Ga DOTA イメージング、完全切除が根治的治療であること、切除できない場合の薬物療法まで、主張の全要素を CC BY の全文で確認（作り手の調査バッチ37）"
+  }
+ ],
+ "B": [
+  {
+   "card": "TH-001",
+   "label": "OPEN、作り手の調査バッチ37 2026-11-11",
+   "text": "Hussain YS, et al. Epidemiology, management and outcomes of Graves' disease—real life data. Endocrine. 2017（CC BY、PMID 28478488、DOI 10.1007/s12020-017-1306-5、PMC5435772、新規 SRC 候補）。裏づける部分と留保：TRAb が病態を駆動すること、甲状腺中毒症の所見に TRAb 上昇・眼症・びまん性の取り込み増加が加わればバセドウ病と診断できることは一致。カードの「びまん性甲状腺腫」とは表記が異なる"
+  },
+  {
+   "card": "TH-009",
+   "label": "OPEN、作り手の調査バッチ37 2026-11-11",
+   "text": "Desailloud R, Hober D. Viruses and thyroiditis: an update. Virol J. 2009（CC BY、PMID 19138419、DOI 10.1186/1743-422X-6-5、PMC2654877、新規 SRC 候補）。裏づける部分と留保：無痛性甲状腺炎が慢性甲状腺炎の亜型として自己免疫性甲状腺疾患に分類されることは一致。三相性の経過は載らない"
+  },
+  {
+   "card": "TH-012",
+   "label": "GOV_US、作り手の調査バッチ37 2026-11-11",
+   "text": "NCI PDQ「Thyroid Cancer Treatment」専門家版（GOV_US、新規 SRC 候補、https://www.cancer.gov/types/thyroid/hp/thyroid-treatment-pdq）。裏づける部分と留保：濾胞腺腫と濾胞癌は被膜浸潤・血管浸潤の有無で区別されることは一致。境界型の区分と免疫染色の位置づけは範囲外"
+  },
+  {
+   "card": "TH-013",
+   "label": "GOV_US、作り手の調査バッチ37 2026-11-11",
+   "text": "NCI PDQ「Thyroid Cancer Treatment」専門家版（GOV_US、新規 SRC 候補、https://www.cancer.gov/types/thyroid/hp/thyroid-treatment-pdq）。裏づける部分と留保：診断評価に頸部超音波と穿刺吸引細胞診を用いることは一致。分子マーカーと超音波パターン別の FNA 閾値は範囲外。ATA 2025年版が刊行"
+  },
+  {
+   "card": "TH-014",
+   "label": "GOV_US、作り手の調査バッチ37 2026-11-11",
+   "text": "NCI PDQ「Thyroid Cancer Treatment」専門家版（GOV_US、新規 SRC 候補、https://www.cancer.gov/types/thyroid/hp/thyroid-treatment-pdq）。裏づける部分と留保：全摘後のサイロキシンによる TSH 抑制（程度は再発リスクによる）と、サイログロブリン上昇が再発と強く相関することは一致。リスク別の TSH 目標と放射性ヨウ素の適応区分は範囲外。ATA 2025年版が刊行"
+  },
+  {
+   "card": "TH-015",
+   "label": "GOV_US、作り手の調査バッチ37 2026-11-11",
+   "text": "NCI PDQ「Thyroid Cancer Treatment」専門家版（GOV_US、新規 SRC 候補、https://www.cancer.gov/types/thyroid/hp/thyroid-treatment-pdq）。裏づける部分と留保：濾胞癌が血管に浸潤しやすく、リンパ行性より血行性に肺・骨へ転移することは一致。遠隔転移率10%未満と組織型別10年生存率（98%・80%）は載らない"
+  },
+  {
+   "card": "TH-016",
+   "label": "GOV_US、作り手の調査バッチ37 2026-11-11",
+   "text": "NCI PDQ「Thyroid Cancer Treatment」専門家版（GOV_US、新規 SRC 候補、https://www.cancer.gov/types/thyroid/hp/thyroid-treatment-pdq）。裏づける部分と留保：主要組織型の分類、髄様癌が C 細胞由来でカルシトニンが腫瘍マーカーになること、未分化癌が侵襲性で予後不良であることは一致。ESMO の3区分そのものの再掲ではない"
+  },
+  {
+   "card": "TH-017",
+   "label": "OPEN、作り手の調査バッチ37 2026-11-11",
+   "text": "Burch HB, et al. Management of Thyroid Eye Disease: A Consensus Statement by the ATA and the ETA. Thyroid. 2022（CC BY、PMID 36480280、DOI 10.1089/thy.2022.0251、PMC9807259、新規 SRC 候補）。裏づける部分と留保：静注グルココルチコイドが活動性中等症〜重症の優先治療であること、IVMP の累積 4.5 g（0.5 g/週×6週＋0.25 g/週×6週）、EUGOGO 2021 が IVMP＋ミコフェノール酸を第一選択としたことの記録は一致。コンセンサス自体はそれを一律の第一選択とはしていない。ミコフェノール酸の国内承認は未確認"
+  },
+  {
+   "card": "TH-018",
+   "label": "GOV_US、作り手の調査バッチ37 2026-11-11",
+   "text": "USPSTF Final Recommendation Statement: Thyroid Dysfunction: Screening（2015、GOV_US、新規 SRC 候補）。裏づける部分と留保：定義（TSH が基準下限未満で FT4・FT3 が正常）のみ一致。軽症・重症の層別、年齢別の原因、顕性化のリスク因子は範囲外"
+  },
+  {
+   "card": "TH-019",
+   "label": "OPEN、作り手の調査バッチ37 2026-11-11",
+   "text": "Bollerslev J, et al. European Expert Consensus on Practical Management of Specific Aspects of Parathyroid Disorders in Adults and in Pregnancy. Eur J Endocrinol. 2022（CC BY、PMID 34863037、DOI 10.1530/EJE-21-1044、PMC8789028、新規 SRC 候補）。裏づける部分と留保：正カルシウム性 PHPT の定義と二次性の原因の除外、補正カルシウムと PTH の再測定で確認することは一致。「2回・約2週間間隔」「3〜6か月」の測定スケジュールは載らない"
+  },
+  {
+   "card": "TH-020",
+   "label": "OPEN、作り手の調査バッチ37 2026-11-11",
+   "text": "Bollerslev J, et al. European Expert Consensus on Practical Management of Specific Aspects of Parathyroid Disorders in Adults and in Pregnancy. Eur J Endocrinol. 2022（CC BY、PMID 34863037、DOI 10.1530/EJE-21-1044、PMC8789028、新規 SRC 候補）。裏づける部分と留保：非手術例でのシナカルセトと骨保護薬による管理、副甲状腺摘出が根治的治療であること、高カルシウム尿症の参照値（女性 >250・男性 >300 mg/日）は一致。手術適応の数値リストは載らない"
+  },
+  {
+   "card": "TH-022",
+   "label": "OPEN、作り手の調査バッチ37 2026-11-11",
+   "text": "Bollerslev J, et al. European Expert Consensus on Practical Management of Specific Aspects of Parathyroid Disorders in Adults and in Pregnancy. Eur J Endocrinol. 2022（CC BY、PMID 34863037、DOI 10.1530/EJE-21-1044、PMC8789028、新規 SRC 候補）。裏づける部分と留保：intact PTH による PTH 依存性の切り分けと、家族性低カルシウム尿性高カルシウム血症との鑑別は一致。PTH 非依存性の側（PTHrP・肉芽腫性疾患）は範囲外"
+  },
+  {
+   "card": "TH-026",
+   "label": "GOV_US、作り手の調査バッチ37 2026-11-11",
+   "text": "NIH Office of Dietary Supplements「Vitamin D Fact Sheet for Health Professionals」（GOV_US）。裏づける部分と留保：乳児（0〜12か月）のビタミンD 400 IU/日がくる病予防の投与量と一致。治療用量（2000 IU/日・カルシウム 500 mg/日）と、くる病の定義・診断手順は範囲外"
+  },
+  {
+   "card": "TH-030",
+   "label": "OPEN、作り手の調査バッチ37 2026-11-11",
+   "text": "Bollerslev J, et al. European Expert Consensus on Practical Management of Specific Aspects of Parathyroid Disorders in Adults and in Pregnancy. Eur J Endocrinol. 2022（CC BY、PMID 34863037、DOI 10.1530/EJE-21-1044、PMC8789028、新規 SRC 候補）。裏づける部分と留保：PTH 分泌不全型で活性型ビタミンD（カルシトリオール・アルファカルシジオール）が標準であること、症候性の急性低カルシウム血症にグルコン酸カルシウム静注と心電図モニタリング、術後の経口カルシウム＋活性型ビタミンDは一致。緊急対応の閾値はカード <1.9 mmol/L、コンセンサス <1.8 mmol/L（両値記録）。補正式（係数0.02）と原因の頻度順位は載らない"
+  },
+  {
+   "card": "TH-031",
+   "label": "OPEN、作り手の調査バッチ37 2026-11-11",
+   "text": "Dershem R, et al. Familial Hypocalciuric Hypercalcemia Type 1 and Autosomal-Dominant Hypocalcemia Type 1. Am J Hum Genet. 2020（CC BY、PMID 32386559、DOI 10.1016/j.ajhg.2020.04.006、PMC7273533、新規 SRC 候補）。裏づける部分と留保：カルシウム・クレアチニンクリアランス比0.01未満が FHH の約80%、PHPT の20%未満であること、鑑別が不要な副甲状腺手術を避けることにつながり FHH に介入は不要なことは一致。「PHPT では比 >0.02 が多い」はその形では載らない"
+  },
+  {
+   "card": "TH-032",
+   "label": "GOV_US、作り手の調査バッチ37 2026-11-11",
+   "text": "NIH Office of Dietary Supplements「Vitamin D Fact Sheet for Health Professionals」（GOV_US）。裏づける部分と留保：FNB の区分（50 nmol/L 以上で充足、30〜50 で不足の可能性、30未満で欠乏のリスク）はカードの分類と実質的に一致。毒性の目安はカード >250 nmol/L、ODS「典型的には >375 nmol/L（150 ng/mL）」（両値記録）。治療と経過観察は範囲外"
+  },
+  {
+   "card": "TH-037",
+   "label": "GOV_US、作り手の調査バッチ37 2026-11-11",
+   "text": "USPSTF Final Recommendation Statement: Thyroid Dysfunction: Screening（2015、GOV_US、新規 SRC 候補）。裏づける部分と留保：顕性（TSH 高値＋FT4 低値）と潜在性（TSH 高値＋FT4 正常）の定義、治療がレボチロキシン単剤であることは一致。年齢別の TSH 目標は範囲外"
+  }
+ ],
+ "rest_fix": {},
+ "open_fix": []
+}

@@ -484,11 +484,11 @@
 
 - 条件：region: 国際／study: 腫瘍性骨軟化症に関する包括的総説（2023年）
 - 不確実性：FGF23の具体的な測定値やカットオフは測定法に依存し、抄録では確認できなかったため本カードには書いていない。ブロスマブおよび併用されるリン製剤・活性型ビタミンD製剤の国内の承認・保険適用の状況は本調査では確認できていない。PMCIDはPMC未収載のため null とした。
-- 出典：Minisola S, Fukumoto S, Xia W, Corsi A, Colangelo L, Scillitani A, et al. Tumor-induced Osteomalacia: A Comprehensive Review. Endocr Rev. 2023;44(2):323-353.　[DOI 10.1210/endrev/bnac026](https://doi.org/10.1210/endrev/bnac026)　[PMID 36327295](https://pubmed.ncbi.nlm.nih.gov/36327295/)（区分 RESTRICTED）
+- 出典：Black S, Keen R, Bubbear J. Burosumab for X-linked Hypophosphataemia and Tumour-induced Osteomalacia in Adults. TouchREVIEWS in Endocrinology. 2026　[DOI 10.17925/EE.2026.22.1.6](https://doi.org/10.17925/EE.2026.22.1.6)　[PMID 42273000](https://pubmed.ncbi.nlm.nih.gov/42273000/)（区分 OPEN）
 - 出題基準：医学各論 Ⅹ-3-B-④（腫瘍性低リン血症性骨軟化症、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-029&card_id=TH-029&version=34c3ec42b0)　（版 `34c3ec42b0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-029&card_id=TH-029&version=a6cd9b62b0)　（版 `a6cd9b62b0`）
 
-**[ここまでの 1 件（TH-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TH-029&cards=TH-029%2034c3ec42b0)**
+**[ここまでの 1 件（TH-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20TH-029&cards=TH-029%20a6cd9b62b0)**
 
 ---
 

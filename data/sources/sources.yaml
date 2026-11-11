@@ -36486,3 +36486,18 @@
   pmid: null
   source_class: GOV_US
   title: ClinicalTrials.gov NCT00071799（AZA-001）結果登録
+- citation: Black S, Keen R, Bubbear J. Burosumab for X-linked Hypophosphataemia and Tumour-induced Osteomalacia in Adults. TouchREVIEWS in Endocrinology. 2026
+  doi: 10.17925/EE.2026.22.1.6
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5008
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://europepmc.org/article/MED/42273000
+  pmcid: PMC13249216
+  pmid: '42273000'
+  source_class: OPEN
+  title: Black S, Keen R, Bubbear J. Burosumab for X-linked Hypophosphataemia and Tumour-induced Osteomalacia in Adults. TouchREVIEWS in Endocrinology. 2026
