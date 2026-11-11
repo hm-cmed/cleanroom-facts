@@ -164,7 +164,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ20 2026-11-11）：Ji Y, Chen S, Yang K, et al. Kaposiform hemangioendothelioma: current knowledge and future perspectives. Orphanet J Rare Dis. 2020（CC BY、DOI 10.1186/s13023-020-1320-1、PMID 32014025、PMC6998257）：KMP の定義（重度の血小板減少・消費性凝固障害・低フィブリノゲン血症）、関連腫瘍は KHE と房状血管腫で背景病変は乳児血管腫ではないこと、支持療法を要すること。微小血管症性溶血性貧血は対象外'
   uncertainty: 記載は抄録で確認した範囲である。個別の治療薬（シロリムス等）の適応や用量、凝固検査値の具体的な基準は抄録の範囲外であり、本カードには薬剤名を含めていない。出典のライセンス表示は確認できなかった。
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)'
@@ -182,6 +182,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した DT-039 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ20 2026-11-11）。三原の承認（2026-11-11）による
 - id: DT-006
   domain: DT
   subdomain: 毛細血管奇形<単純性血管腫>
@@ -342,7 +345,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ20 2026-11-11）：ISSVA 分類2022の総説（Int J Mol Sci、CC BY、DOI 10.3390/ijms23042358、PMID 35216474）：リンパ管病変は脈管性腫瘍と区別される単純型の脈管奇形に位置づけられるという枠組みのみ（カードの深部型・表在型の分類と頻度は対象外。ISSVA 以前の枠組みである点は DT-040 と併存）
   uncertainty: 分類と頻度は出典の抄録と章の本文で確認した。治療（硬化療法・外科切除）の適応の詳細は本カードでは確認した範囲を超えるため含めていない。日本で用いられる硬化剤の国内事情も本出典の範囲外である。出典のライセンス表示は確認できなかった。
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)'
@@ -360,6 +363,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した DT-040 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ20 2026-11-11）。三原の承認（2026-11-11）による
 - id: DT-011
   domain: DT
   subdomain: 粉瘤
@@ -418,7 +424,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ20 2026-11-11）：Lubis SND, Putra IB. An update on the diagnosis and treatment of seborrheic keratosis. Front Med. 2026（CC BY、DOI 10.3389/fmed.2026.1764657、PMID 42761491、PMC13587691）：高齢者に多い良性の表皮腫瘍、境界明瞭、加齢とともに拡大、治療は通常不要、悪性腫瘍との鑑別が重要。「未熟な角化細胞の良性増殖」と形態の一般形、自然消退がまれな点は対象外
   uncertainty: 記載は章の導入部で確認した範囲である。ダーモスコピーの具体的所見や除去手技（凍結療法・掻爬など）の適応の詳細は本カードに含めていない。出典のライセンス表示は確認できなかった。
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-02-03-011 (id: JlAKpa0)'
@@ -436,6 +442,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した DT-042 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ20 2026-11-11）。三原の承認（2026-11-11）による
 - id: DT-013
   domain: DT
   subdomain: ケラトアカントーマ
@@ -1582,7 +1591,7 @@
     source_license: © 2020 Japanese Dermatological Association（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ20 2026-11-11）：NCI PDQ『Mycosis Fungoides and Other Cutaneous T-Cell Lymphomas Treatment』（米国政府）：菌状息肉症の緩徐な経過と斑・局面・腫瘤、病期IAの予後良好、進行期の予後悪化、Sézary 症候群の紅皮症と末梢血病変。病期IAの生存は集計方法が異なり両値記録。組織像と初期治療の具体は未確認
   uncertainty: 本カードは皮膚リンパ腫診療ガイドライン2020年版（登録済み出典）に基づく。日本皮膚科学会のガイドライン一覧には2025年版が掲載されており、次版での再照合が望ましい。病期の呼称は同ガイドラインの「紅斑期・扁平浸潤期・腫瘤期」に従った（一般に局面期・腫瘍期とも呼ばれる）。治療に挙げた外用ステロイド薬は国内で承認・保険適用のある製剤であり、個別製剤の効能・効果の範囲は添付文書による。
   curriculum:
     kokushi: 医学各論 Ⅲ-2-G-①（菌状息肉症、a）
@@ -1597,3 +1606,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/62_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ20 2026-11-11）。三原の承認（2026-11-11）による
