@@ -14998,14 +14998,17 @@
   doi: 10.4103/IJO.IJO_2414_23
   pmid: '38804799'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: CC BY-NC-SA（Europe PMC の表示）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1279
   legacy_id: null
   title: Jager MJ, Shields CL, Cebulla CM, et al. Uveal melanoma. Nat Rev Dis Primers. 2020;6(1):24.
@@ -36675,3 +36678,33 @@
   pmid: '40863119'
   source_class: OPEN
   title: Stańczewska A, Szewczyk-Golec K, Hołyńska-Iwan I. Antiphospholipid Syndrome-Diagnostic and Methodologic Approach. Metabolites. 2025
+- citation: ClinicalTrials.gov 登録・結果レコード NCT00486018（BRAVO）
+  doi: null
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5019
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: 米国連邦政府の著作物。ライセンスの根拠：https://clinicaltrials.gov/study/NCT00486018
+  pmcid: null
+  pmid: null
+  source_class: GOV_US
+  title: ClinicalTrials.gov 登録・結果レコード NCT00486018（BRAVO）
+- citation: ClinicalTrials.gov 登録・結果レコード NCT00485836（CRUISE）
+  doi: null
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5020
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: 米国連邦政府の著作物。ライセンスの根拠：https://clinicaltrials.gov/study/NCT00485836
+  pmcid: null
+  pmid: null
+  source_class: GOV_US
+  title: ClinicalTrials.gov 登録・結果レコード NCT00485836（CRUISE）

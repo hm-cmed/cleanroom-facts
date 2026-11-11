@@ -60,11 +60,11 @@
 
 - 条件：region: 国際／study: 無作為化比較試験（BRAVO）
 - 不確実性：数値はいずれも出典の抄録で確認した6か月後の主要評価項目である。ラニビズマブの網膜静脈分枝閉塞症に伴う黄斑浮腫に対する国内の承認・保険適用は未確認である。虚血型・非虚血型の区別や無血管野へのレーザー治療の適応は本カードには含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ラニビズマブ（ルセンティス）は網膜静脈閉塞症に伴う黄斑浮腫（網膜静脈分枝閉塞症を含む）の適応で2013年8月に承認され、保険適用がある（PMDA添付文書）。
-- 出典：Campochiaro PA, Heier JS, Feiner L, et al. Ranibizumab for macular edema following branch retinal vein occlusion: six-month primary end point results of a phase III study. Ophthalmology. 2010;117(6):1102-1112.e1.　[DOI 10.1016/j.ophtha.2010.02.021](https://doi.org/10.1016/j.ophtha.2010.02.021)　[PMID 20398941](https://pubmed.ncbi.nlm.nih.gov/20398941/)（区分 UNKNOWN）
+- 出典：ClinicalTrials.gov 登録・結果レコード NCT00486018（BRAVO）　[リンク](https://clinicaltrials.gov/study/NCT00486018)（区分 GOV_US）
 - 出題基準：医学各論 Ⅲ-6-C-③（網膜静脈閉塞症、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-500 (id: JlvnmOo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-004&card_id=RE-004&version=c557ab6a8c)　（版 `c557ab6a8c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-004&card_id=RE-004&version=910d43179e)　（版 `910d43179e`）
 
-**[ここまでの 1 件（RE-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-004&cards=RE-004%20c557ab6a8c)**
+**[ここまでの 1 件（RE-004）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-004&cards=RE-004%20910d43179e)**
 
 ---
 
@@ -76,11 +76,11 @@
 
 - 条件：region: 国際／study: 無作為化比較試験（CRUISE）
 - 不確実性：数値はいずれも出典の抄録で確認した6か月後の主要評価項目である。ラニビズマブの網膜中心静脈閉塞症に伴う黄斑浮腫に対する国内の承認・保険適用は未確認である。虹彩・隅角新生血管や血管新生緑内障の監視といった合併症管理は本カードには含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ラニビズマブは網膜静脈閉塞症に伴う黄斑浮腫の適応で2013年8月20日に承認済み（PMDA再審査資料、2026-10-31確認）
-- 出典：Brown DM, Campochiaro PA, Singh RP, et al. Ranibizumab for macular edema following central retinal vein occlusion: six-month primary end point results of a phase III study. Ophthalmology. 2010;117(6):1124-1133.e1.　[DOI 10.1016/j.ophtha.2010.02.022](https://doi.org/10.1016/j.ophtha.2010.02.022)　[PMID 20381871](https://pubmed.ncbi.nlm.nih.gov/20381871/)（区分 UNKNOWN）
+- 出典：ClinicalTrials.gov 登録・結果レコード NCT00485836（CRUISE）　[リンク](https://clinicaltrials.gov/study/NCT00485836)（区分 GOV_US）
 - 出題基準：医学各論 Ⅲ-6-C-③（網膜静脈閉塞症、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-500 (id: JlvnmOo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-005&card_id=RE-005&version=b92b4a441e)　（版 `b92b4a441e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-005&card_id=RE-005&version=85ef17273f)　（版 `85ef17273f`）
 
-**[ここまでの 1 件（RE-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-005&cards=RE-005%20b92b4a441e)**
+**[ここまでの 1 件（RE-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20RE-005&cards=RE-005%2085ef17273f)**
 
 ---
 
@@ -364,7 +364,7 @@
 
 - 条件：region: グローバル／study: 網膜芽細胞腫に関する包括的総説
 - 不確実性：化学療法の個別薬剤名は記載していないため、個別薬剤の国内承認・保険適用の確認は対象外である。発症年齢の地域差に関する数値は出典の地域事情を含むため本カードには含めなかった。
-- 出典：Nag A, Khetan V. Retinoblastoma - A comprehensive review, update and recent advances. Indian J Ophthalmol. 2024;72(6).　[DOI 10.4103/IJO.IJO_2414_23](https://doi.org/10.4103/IJO.IJO_2414_23)　[PMID 38804799](https://pubmed.ncbi.nlm.nih.gov/38804799/)（区分 UNKNOWN）
+- 出典：Nag A, Khetan V. Retinoblastoma - A comprehensive review, update and recent advances. Indian J Ophthalmol. 2024;72(6).　[DOI 10.4103/IJO.IJO_2414_23](https://doi.org/10.4103/IJO.IJO_2414_23)　[PMID 38804799](https://pubmed.ncbi.nlm.nih.gov/38804799/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-E-②（網膜芽細胞腫、c）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-673 (id: Jlvnme8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-023&card_id=RE-023&version=6ebef6629a)　（版 `6ebef6629a`）
 
