@@ -1334,7 +1334,7 @@
     source_license: 非CC
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: PubMed、ClinicalTrials.gov NCT03633617：パートAの組織学的寛解60%（25/42）対5%（2/39）。パートBの隔週投与群は60%（49/81）
+    corroboration: PubMed、ClinicalTrials.gov NCT03633617：パートAの組織学的寛解60%（25/42）対5%（2/39）。パートBの隔週投与群は60%（49/81）。自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ27 2026-11-11）：ClinicalTrials.gov NCT03633617（デュピルマブ EoE 試験、結果掲載あり）。裏づける部分と留保：組織学的寛解（ピーク好酸球数 ≤6/hpf の達成割合）の差はパートA 55.3%・パートB 56.0%（いずれも p<0.0001）。嚥下障害スコア（DSQ）の改善はパートA で LS 平均差 −12.32（p=0.0004）。留保：DSQ はパートB では有意でなかった（−0.51、p=0.84）。カードの文言は NEJM 本文の総括に沿う
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -1391,6 +1391,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ27 2026-11-11）。三原の承認（2026-11-11）による
 - id: ES-024
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -2679,7 +2682,7 @@
     source_license: 非CC（Wiley; Crossref）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: Clin Endosc 2022
+    corroboration: Clin Endosc 2022。自由に使える資料による裏づけ（OPEN、作り手の調査バッチ27 2026-11-11）：日本食道学会 食道癌診療ガイドライン2022 part 2。Esophagus. 2023（PMID 36933136、PMCID PMC10024303、CC BY 4.0、新規 SRC 候補）。裏づける部分と留保：内視鏡切除後の狭窄予防として経口プレドニゾロン・トリアムシノロン局注（および併用）を強く推奨する推奨文と、切除後潰瘍が全周の ≥3/4 に及ぶ場合に狭窄予防策を検討すべきとする記述が全文にある。「長径5 cm超の全周性病変は適応外」の部分は対象外
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -2721,6 +2724,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ27 2026-11-11）。三原の承認（2026-11-11）による
 - id: ES-047
   domain: ES
   subdomain: 食道癌
@@ -2983,7 +2989,7 @@
     source_license: 非CC
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: Verhoeven RHA, Int J Cancer 2026
+    corroboration: Verhoeven RHA, Int J Cancer 2026。自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ27 2026-11-11）：ClinicalTrials.gov NCT02743494（CheckMate 577、結果掲載あり）。裏づける部分と留保：無病生存期間の中央値 22.41 か月対 11.04 か月（HR 0.69、p=0.0003）がカードの 22.4 対 11.0 と一致。全生存は HR 0.85（p=0.1064）で有意でなく、カードの最終解析の記述と整合
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -3046,6 +3052,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ27 2026-11-11）。三原の承認（2026-11-11）による
 - id: ES-052
   domain: ES
   subdomain: 食道癌
@@ -3072,6 +3081,7 @@
       pmid_matched: true
       license_from_crossref: http://www.nejmgroup.org/legal/terms-of-use.htm
       notes: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ27 2026-11-11）：ClinicalTrials.gov NCT03143153（CheckMate 648、結果掲載あり）。裏づける部分と留保：全登録例の全生存はニボルマブ＋化学療法・ニボルマブ＋イピリムマブの両比較とも HR 0.77（95%CI 0.65–0.92）。カードの定性的主張（化学療法単独より全生存を延長）を裏づける
   uncertainty: low（抄録で照合）
   curriculum:
     core_curriculum: 'PS-03-04-14 (id: JkxnuYE)'
@@ -3125,6 +3135,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ27 2026-11-11）。三原の承認（2026-11-11）による
 - id: ES-053
   domain: ES
   subdomain: 食道癌
@@ -3144,7 +3157,7 @@
     source_license: 未確認（非CC推定）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: 日本人サブグループ解析はPMC9436840
+    corroboration: 日本人サブグループ解析はPMC9436840。自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ27 2026-11-11）：ClinicalTrials.gov NCT03189719（KEYNOTE-590、結果掲載あり）。裏づける部分と留保：扁平上皮癌かつ PD-L1 CPS 10以上の集団の全生存中央値 13.9 か月対 8.8 か月がカードと完全一致。カードの HR 0.57 は本調査では登録表示の範囲で個別に抽出していない
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -3189,6 +3202,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ27 2026-11-11）。三原の承認（2026-11-11）による
 - id: ES-054
   domain: ES
   subdomain: 食道癌
@@ -5381,7 +5397,7 @@
     source_license: 企業資料（非CC）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: BMS・小野薬品プレスリリース 2021-11-25
+    corroboration: BMS・小野薬品プレスリリース 2021-11-25。自由に使える資料による裏づけ（GOV_JP、作り手の調査バッチ27 2026-11-11）：厚生労働省 中央社会保険医療協議会総会議事録（2021年12月1日）・最適使用推進ガイドライン発出の公的記録（GOV_JP）。裏づける部分と留保：2021年11月25日に食道癌における術後補助療法を含む一部変更承認がなされ、同日付で最適使用推進ガイドラインが発出されたことが公式議事録に明記され、カードの承認日・効能と一致。PMDA の個別の審議結果報告書 PDF は本調査では開いていない
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: false
@@ -5423,6 +5439,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP、作り手の調査バッチ27 2026-11-11）。三原の承認（2026-11-11）による
 - id: ES-091
   domain: ES
   subdomain: 好酸球性食道炎（EoE）

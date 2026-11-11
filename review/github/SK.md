@@ -254,7 +254,7 @@
 
 - 条件：region: 国際／study: 総説（実践的アプローチと診断アルゴリズム）
 - 不確実性：数値（特発性の割合32〜72%、男女比約1対5、消退までの1〜6週）は出典の全文（PMC）で確認した。誘因の頻度は地域によって異なり、日本における頻度の順位はこの出典では確認していない。
-- 出典：Pérez-Garza DM, Chavez-Alvarez S, Ocampo-Candiani J, Gomez-Flores M. Erythema Nodosum: A Practical Approach and Diagnostic Algorithm. American Journal of Clinical Dermatology. 2021;22(3):367-378.　[DOI 10.1007/s40257-021-00592-w](https://doi.org/10.1007/s40257-021-00592-w)　[PMID 33683567](https://pubmed.ncbi.nlm.nih.gov/33683567/)（区分 UNKNOWN）
+- 出典：Pérez-Garza DM, Chavez-Alvarez S, Ocampo-Candiani J, Gomez-Flores M. Erythema Nodosum: A Practical Approach and Diagnostic Algorithm. American Journal of Clinical Dermatology. 2021;22(3):367-378.　[DOI 10.1007/s40257-021-00592-w](https://doi.org/10.1007/s40257-021-00592-w)　[PMID 33683567](https://pubmed.ncbi.nlm.nih.gov/33683567/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-E-②（結節性紅斑、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-073 (id: JlvnlhI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-020&card_id=SK-020&version=742596dce6)　（版 `742596dce6`）
 
@@ -264,7 +264,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：薬剤の用量は出典の治療の表から読み取り、本文の記述と併せて確認した。インドメタシン、ナプロキセン、コルヒチン、ダプソン、プレドニゾンはいずれも国内で承認された医薬品である。ヨウ化カリウムは国内で承認された医薬品だが結節性紅斑への適応はなく、本カードの用量は海外の総説に基づく。既存のSK-020（定義・原因・基礎疾患検索・自然経過）と重複しないよう、本カードは治療に絞った。
-- 出典：Pérez-Garza DM, Chavez-Alvarez S, Ocampo-Candiani J, Gomez-Flores M. Erythema Nodosum: A Practical Approach and Diagnostic Algorithm. American Journal of Clinical Dermatology. 2021;22(3):367-378.　[DOI 10.1007/s40257-021-00592-w](https://doi.org/10.1007/s40257-021-00592-w)　[PMID 33683567](https://pubmed.ncbi.nlm.nih.gov/33683567/)（区分 UNKNOWN）
+- 出典：Pérez-Garza DM, Chavez-Alvarez S, Ocampo-Candiani J, Gomez-Flores M. Erythema Nodosum: A Practical Approach and Diagnostic Algorithm. American Journal of Clinical Dermatology. 2021;22(3):367-378.　[DOI 10.1007/s40257-021-00592-w](https://doi.org/10.1007/s40257-021-00592-w)　[PMID 33683567](https://pubmed.ncbi.nlm.nih.gov/33683567/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-E-②（結節性紅斑、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-073 (id: JlvnlhI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-039&card_id=SK-039&version=1635a15160)　（版 `1635a15160`）
 
@@ -400,7 +400,7 @@
 
 - 条件：region: 欧州／対象: 成人
 - 不確実性：表在性静脈血栓症の節（病態・臨床像・血栓塞栓リスク）と推奨43-49を出典の全文で確認した。出典の本文中にあるCALISTO試験の紹介文にはフォンダパリヌクス2.5 mg 1日2回とあるが、推奨45の正式な表記である1日1回に従った。フォンダパリヌクスは国内では静脈血栓塞栓症の発症抑制（下肢整形外科手術・腹部手術施行患者）と急性深部静脈血栓症・急性肺血栓塞栓症の治療の適応のみであり、表在性静脈血栓症への適応・保険適用はない（欧州では表在静脈血栓症の適応がある）。低分子量ヘパリンも国内では表在性静脈血栓症を適応としていない。既存のSK-026（CALISTO試験の結果）と重複しないよう、本カードは定義・臨床像・進展リスクと抗凝固療法の適応の原則に絞った。
-- 出典：Kakkos SK, Gohel M, Baekgaard N, Bauersachs R, Bellmunt-Montoya S, Black SA, ten Cate-Hoek A, Elalamy I, Enzmann FK, Geroulakos G, Gottsäter A, Hunt BJ, Mansilha A, Nicolaides A, Sandset PM, Stansby G. Editor's Choice – European Society for Vascular Surgery (ESVS) 2021 Clinical Practice Guidelines on the Management of Venous Thrombosis. Eur J Vasc Endovasc Surg. 2021;61(1):9-82.　[DOI 10.1016/j.ejvs.2020.09.023](https://doi.org/10.1016/j.ejvs.2020.09.023)　[PMID 33334670](https://pubmed.ncbi.nlm.nih.gov/33334670/)（区分 UNKNOWN）
+- 出典：Kakkos SK, Gohel M, Baekgaard N, Bauersachs R, Bellmunt-Montoya S, Black SA, ten Cate-Hoek A, Elalamy I, Enzmann FK, Geroulakos G, Gottsäter A, Hunt BJ, Mansilha A, Nicolaides A, Sandset PM, Stansby G. Editor's Choice – European Society for Vascular Surgery (ESVS) 2021 Clinical Practice Guidelines on the Management of Venous Thrombosis. Eur J Vasc Endovasc Surg. 2021;61(1):9-82.　[DOI 10.1016/j.ejvs.2020.09.023](https://doi.org/10.1016/j.ejvs.2020.09.023)　[PMID 33334670](https://pubmed.ncbi.nlm.nih.gov/33334670/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-G-①（血栓性静脈炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-040&card_id=SK-040&version=11126ee47f)　（版 `11126ee47f`）
 

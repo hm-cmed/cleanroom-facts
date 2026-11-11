@@ -1,0 +1,87 @@
+{
+ "class": [
+  [
+   "SRC-4303",
+   "UNKNOWN",
+   "OPEN"
+  ],
+  [
+   "SRC-4310",
+   "RESTRICTED",
+   "OPEN"
+  ],
+  [
+   "SRC-4523",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1083",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-023",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-024",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [
+  [
+   "GN-013",
+   "SRC-581",
+   "SRC-5004"
+  ],
+  [
+   "GN-017",
+   "SRC-584",
+   "SRC-5005"
+  ]
+ ],
+ "B": [
+  "GN-002",
+  "GN-006",
+  "GN-007",
+  "GN-008",
+  "GN-009",
+  "GN-015",
+  "GN-016",
+  "GN-022",
+  "GN-026",
+  "GN-028",
+  "GN-032",
+  "GN-036",
+  "GN-037",
+  "GN-038",
+  "GN-040",
+  "SK-015",
+  "SK-023",
+  "SK-026",
+  "SK-036",
+  "SK-037",
+  "SK-038",
+  "ES-023",
+  "ES-046",
+  "ES-051",
+  "ES-052",
+  "ES-053",
+  "ES-090",
+  "PE-005",
+  "PE-006"
+ ],
+ "new_src": [
+  [
+   "SRC-5004",
+   "Han MH, Kim YJ. Practical Application of Columbia Classification for Focal Segme"
+  ],
+  [
+   "SRC-5005",
+   "Bomback AS, Charu V, Fakhouri F. Challenges in the Diagnosis and Management of I"
+  ]
+ ]
+}

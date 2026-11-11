@@ -535,7 +535,7 @@
     source_license: Springer（CCライセンス表示を確認できず）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ26 2026-11-11）：Prurigo Pigmentosa Following Bariatric Surgery: A Comprehensive Clinicopathological Review. Dermatology Research and Practice. 2026（PMID 41523335、PMCID PMC12789810、CC BY、新規 SRC 候補）。裏づける部分と留保：背部・胸部・頸部に網目状に配列する瘙痒性の紅斑性丘疹・丘疹小水疱、病期により異なる組織像（初期の表層性血管周囲性好中球浸潤、後期の海綿状態や壊死性の角化細胞）、ミノサイクリンを第一選択とするテトラサイクリン系治療とダプソンの位置づけという、臨床像・組織像・治療のパターンは CC BY 全文で裏づけられる。全文の逐語照合は登録時に行うことが望ましい。マクロライド系抗菌薬の位置づけは候補では確認していない'
   uncertainty: 薬剤（ミノサイクリン、ドキシサイクリン、マクロライド系抗菌薬、ダプソン）の国内承認・保険適用は未確認。出典は2015年の総説であり、その後の知見（ケトーシスとの関連など）は反映されていない可能性がある。内容は抄録で確認した範囲に限った。
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-064 (id: Jlvnlmk)'
@@ -550,6 +550,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ26 2026-11-11）。三原の承認（2026-11-11）による
 - id: SK-016
   domain: SK
   subdomain: 湿疹反応
@@ -712,7 +715,7 @@
     url: https://doi.org/10.1007/s40257-021-00592-w
     source_license: © The Author(s), under exclusive licence to Springer Nature Switzerland AG 2021（CCライセンス表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値（特発性の割合32〜72%、男女比約1対5、消退までの1〜6週）は出典の全文（PMC）で確認した。誘因の頻度は地域によって異なり、日本における頻度の順位はこの出典では確認していない。
   curriculum:
@@ -728,6 +731,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1083 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: SK-021
   domain: SK
   subdomain: Stevens-Johnson症候群
@@ -818,7 +824,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_JP（PMDA、公共データ利用規約第1.0版。要約して記載）、作り手の調査バッチ26 2026-11-11）：厚生労働省. 重篤副作用疾患別対応マニュアル「薬剤性過敏症症候群」。平成19年6月（GOV_JP、PMDA 掲載の全文 PDF、新規 SRC 候補）。裏づける部分と留保：DiHS は DRESS と同一の重症薬疹であること、限られた種類の薬剤による発症と中止後も遷延する経過、HHV-6 再活性化の関与、原因薬剤（抗てんかん薬が中心）、多臓器障害などの合併症の枠組みは政府の全文文書で裏づけられる。重症度・予後予測のスコアリング提案とサイトメガロウイルス合併症の細部は対象外
   uncertainty: 発症頻度や致死率などの具体的な数値は、この総説の抄録の範囲では確認できなかったため入れていない。日本の診断基準の各項目の詳細は本文の確認が必要である。
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)；TBL-01-00-080 (id: JlvnliI)'
@@ -833,6 +839,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP（PMDA、公共データ利用規約第1.0版。要約して記載）、作り手の調査バッチ26 2026-11-11）。三原の承認（2026-11-11）による
 - id: SK-024
   domain: SK
   subdomain: Sweet病
@@ -923,7 +932,7 @@
     source_license: © Massachusetts Medical Society（CC表示なし）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ26 2026-11-11）：ClinicalTrials.gov NCT00443053（CALISTO、結果掲載あり）。裏づける部分と留保：対象3,002人と主要評価項目（複合）の実数 13対88 はカードの発生率 0.9% 対 5.9% と一致し、相対リスク減少85%の土台を登録レコードで裏づけられる。肺塞栓症または深部静脈血栓症の内訳（0.2%対1.3%）と大出血（両群1人）は本調査の登録表示の範囲では照合していない。フォンダパリヌクスの国内適応の注記は未確認のまま
   uncertainty: 本カードに名前の出る薬剤（フォンダパリヌクス）の国内の承認・保険適用（表在性静脈血栓症への適応を含む）は未確認。対象は、受診時に深部静脈血栓症や症候性肺塞栓症を合併していない患者である。
   curriculum:
     core_curriculum: 'PS-02-04-05 (id: JkxnuQI)'
@@ -938,6 +947,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ26 2026-11-11）。三原の承認（2026-11-11）による
 - id: SK-027
   domain: SK
   subdomain: 凍瘡
@@ -1282,7 +1294,7 @@
     source_license: 日本皮膚科学会の著作物（CCライセンス表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_JP（PMDA、公共データ利用規約第1.0版。要約して記載）、作り手の調査バッチ26 2026-11-11）：厚生労働省. 重篤副作用疾患別対応マニュアル「スティーヴンス・ジョンソン症候群（皮膚粘膜眼症候群）」。平成18年11月（平成29年6月改定）（GOV_JP、PMDA 掲載の全文 PDF、新規 SRC 候補）。裏づける部分と留保：SJS の定義（高熱を伴い、皮膚粘膜移行部に重症の粘膜病変を生じ、表皮壊死によるびらん・水疱を伴う）、主要徴候（発熱・粘膜症状・多発する紅斑）、被疑薬は抗菌薬・解熱消炎鎮痛薬・抗てんかん薬など広範囲にわたること、マイコプラズマやウイルス感染も発症契機となりうることは政府の全文文書で裏づけられる。JDA の主要所見の文言、日本の分類（表皮剥離面積10%未満/以上）の数値境界、国内調査の被疑薬割合（16.3%・14.6%・14.0%）は対象外
   uncertainty: 分類・診断の主要所見・臨床像は出典の本文で、被疑薬の割合は出典が引用する国内調査の値として確認した。原因薬剤として挙げた抗菌薬・解熱鎮痛薬・抗てんかん薬はいずれも国内で承認された医薬品であり、その承認・保険適用の有無は本カードの論点ではない（重症薬疹の原因としての位置づけ）。同ガイドラインには2025年の補遺があるが、本カードは2016年版の本文で確認した範囲に限る。既存のSK-021（米国の疫学・死亡）と重複しないよう、本カードは定義・分類・原因・臨床像に絞った。
   curriculum:
     kokushi: 医学各論 Ⅲ-1-D-①（Stevens-Johnson症候群、a）
@@ -1297,6 +1309,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/62_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP（PMDA、公共データ利用規約第1.0版。要約して記載）、作り手の調査バッチ26 2026-11-11）。三原の承認（2026-11-11）による
 - id: SK-037
   domain: SK
   subdomain: Stevens-Johnson症候群
@@ -1317,7 +1332,7 @@
     source_license: 日本皮膚科学会の著作物（CCライセンス表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ26 2026-11-11）：同上（SJS マニュアル）。裏づける部分と留保：被疑薬の速やかな中止を第一歩とし、判別法と治療法を包括的に扱う政府の全文文書であり、支持療法と全身管理、ステロイド全身投与を軸とする治療の骨格は裏づけられる（弱い部分裏づけ）。プレドニゾロン換算の用量（中等症0.5〜1.0・重症1〜2 mg/kg/日）、メチルプレドニゾロンパルス500〜1,000 mg、免疫グロブリン400 mg/kg/日×5日、眼科管理の細部は本調査ではマニュアル本文で照合しておらず、登録時に全文照合が必要
   uncertainty: 治療原則と用量は出典の診療ガイドライン（2016年の治療指針を含む）の本文で確認した。副腎皮質ステロイド（プレドニゾロン、メチルプレドニゾロン、ベタメタゾン）はいずれも国内で承認された医薬品である。ヒト免疫グロブリン製剤には国内でSJS・TEN（ステロイド剤で効果不十分な場合）の適応がある。同ガイドラインには2025年の補遺があるが、本カードは2016年版の本文で確認した範囲に限る。
   curriculum:
     kokushi: 医学各論 Ⅲ-1-D-①（Stevens-Johnson症候群、a）
@@ -1332,6 +1347,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/62_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ26 2026-11-11）。三原の承認（2026-11-11）による
 - id: SK-038
   domain: SK
   subdomain: 薬剤性過敏症症候群
@@ -1352,7 +1370,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_JP（PMDA、公共データ利用規約第1.0版。要約して記載）、作り手の調査バッチ26 2026-11-11）：厚生労働省. 重篤副作用疾患別対応マニュアル「薬剤性過敏症症候群」。平成19年6月（GOV_JP、PMDA 掲載の全文 PDF、新規 SRC 候補）。同マニュアルが採用する研究班の診断基準は公的資料に全文掲載されている。裏づける部分と留保：日本の診断基準7項目（限られた薬剤の投与開始後3週以降の斑状丘疹状皮疹、中止後も遷延する症状、38℃を超える発熱、肝障害などの臓器障害、白血球異常［白血球増多・異型リンパ球・好酸球増多のうち1つ以上］、リンパ節腫脹、HHV-6の再活性化）と、7項目すべてを満たす典型DiHS・1〜5を満たす非典型DiHS の区分、原因薬剤の一覧（カルバマゼピン、フェニトイン、フェノバルビタール、ゾニサミド、メキシレチン、ラモトリギン、ダプソン、サラゾスルファピリジン、アロプリノール、ミノサイクリン）は政府全文・公的基準で裏づけられる。初期の顔面・眼窩周囲浮腫の特徴と治療の有効性・治療抵抗性は対象外
   uncertainty: 診断基準は出典の本文の表（日本のコンセンサス診断基準）、原因薬剤は出典の本文の表（DiHS/DRESSを起こしやすい薬剤の一覧）から読み取り、治療は出典の結論部で確認した。原因薬剤として挙げた薬剤（カルバマゼピン、フェニトイン、フェノバルビタール、ゾニサミド、メキシレチン、ラモトリギン、ダプソン、サラゾスルファピリジン、アロプリノール、ミノサイクリン）はいずれも国内で承認された医薬品であり、その承認状況は本カードの論点ではない（重症薬疹の原因薬剤としての位置づけ）。治療に挙げた全身性コルチコステロイドも国内で承認された医薬品である。既存のSK-023（DRESSと同一概念であること、ウイルス再活性化、合併症、重症度スコア）と重複しないよう、本カードは診断基準・原因薬剤・治療に絞った。
   curriculum:
     kokushi: 医学各論 Ⅲ-1-D-③（薬剤性過敏症症候群<drug-induced hypersensitivity syndrome>、a）
@@ -1367,6 +1385,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/62_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP（PMDA、公共データ利用規約第1.0版。要約して記載）、作り手の調査バッチ26 2026-11-11）。三原の承認（2026-11-11）による
 - id: SK-039
   domain: SK
   subdomain: 結節性紅斑
@@ -1386,7 +1407,7 @@
     url: https://doi.org/10.1007/s40257-021-00592-w
     source_license: © The Author(s), under exclusive licence to Springer Nature Switzerland AG 2021（CCライセンス表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 薬剤の用量は出典の治療の表から読み取り、本文の記述と併せて確認した。インドメタシン、ナプロキセン、コルヒチン、ダプソン、プレドニゾンはいずれも国内で承認された医薬品である。ヨウ化カリウムは国内で承認された医薬品だが結節性紅斑への適応はなく、本カードの用量は海外の総説に基づく。既存のSK-020（定義・原因・基礎疾患検索・自然経過）と重複しないよう、本カードは治療に絞った。
   curriculum:
@@ -1402,6 +1423,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/62_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1083 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: SK-040
   domain: SK
   subdomain: 血栓性静脈炎
@@ -1421,7 +1445,7 @@
     url: https://doi.org/10.1016/j.ejvs.2020.09.023
     source_license: Elsevier（CCライセンス表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 表在性静脈血栓症の節（病態・臨床像・血栓塞栓リスク）と推奨43-49を出典の全文で確認した。出典の本文中にあるCALISTO試験の紹介文にはフォンダパリヌクス2.5 mg 1日2回とあるが、推奨45の正式な表記である1日1回に従った。フォンダパリヌクスは国内では静脈血栓塞栓症の発症抑制（下肢整形外科手術・腹部手術施行患者）と急性深部静脈血栓症・急性肺血栓塞栓症の治療の適応のみであり、表在性静脈血栓症への適応・保険適用はない（欧州では表在静脈血栓症の適応がある）。低分子量ヘパリンも国内では表在性静脈血栓症を適応としていない。既存のSK-026（CALISTO試験の結果）と重複しないよう、本カードは定義・臨床像・進展リスクと抗凝固療法の適応の原則に絞った。
   curriculum:
@@ -1437,3 +1461,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/62_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-4523 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による

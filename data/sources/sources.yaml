@@ -340,14 +340,17 @@
   doi: null
   pmid: null
   pmcid: PMC7519373
-  license_note: 未確認
+  license_note: CC BY-NC-ND 4.0（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認
   legacy_basis_tag: E
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-12'
     by: claude-code
     change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-23 から（IDを3桁に正規化、basis_tag E を CLAUDE.md 2-3 第1回規則で変換）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-024
   legacy_id: SRC-24
   title: HSV vs CMV食道炎の内視鏡所見
@@ -355,14 +358,17 @@
   doi: 10.1097/MD.0000000000015845
   pmid: null
   pmcid: null
-  license_note: 未確認
+  license_note: CC BY-NC 4.0（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認
   legacy_basis_tag: E
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-12'
     by: claude-code
     change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-24 から（IDを3桁に正規化、basis_tag E を CLAUDE.md 2-3 第1回規則で変換）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-025
   legacy_id: SRC-25
   title: Werner YB, POEM vs LHM
@@ -12889,14 +12895,17 @@
   doi: 10.1007/s40257-021-00592-w
   pmid: '33683567'
   pmcid: null
-  license_note: © The Author(s), under exclusive licence to Springer Nature Switzerland AG 2021（CCライセンス表示なし）
+  license_note: 著者から Springer への exclusive licence（CC 表示なし）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© The Author(s), under exclusive licence to Springer Nature Switzerland AG 2021（CCライセンス表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1084
   legacy_id: null
   title: Hsu DY, Brieva J, Silverberg NB, Silverberg JI. Morbidity and Mortality of Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis in United States Adults. J Invest Dermatol. 2016;136(7):1387-1397
@@ -33718,14 +33727,17 @@
   doi: 10.1136/archdischild-2019-317085
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/59_supp_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
 - id: SRC-4304
   legacy_id: null
   title: 'Bethell GS, Long AM, Knight M, Hall NJ; BAPS-CASS. One-year outcomes of congenital duodenal obstruction: a population-based study. J Pediatr Gastroenterol Nutr. 2021;72(2):239-243.'
@@ -33823,14 +33835,17 @@
   doi: 10.1016/j.jpedsurg.2025.162334
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: RESTRICTED
+  source_class: OPEN
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/59_supp_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を RESTRICTED から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
 - id: SRC-4311
   legacy_id: null
   title: 'Shinar S, et al. Fetal Meconium Peritonitis - Prenatal Findings and Postnatal Outcome: A Case Series, Systematic Review, and Meta-Analysis. Ultraschall Med. 2022;43(2):194-203.'
@@ -34783,14 +34798,17 @@
   doi: 10.1016/j.ejvs.2020.09.023
   pmid: '33334670'
   pmcid: null
-  license_note: Elsevier（CCライセンス表示を確認できず）
+  license_note: Elsevier open-access userlicense 1.0（CC BY ではない）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Elsevier（CCライセンス表示を確認できず）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/62_brushup_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-4524
   legacy_id: null
   title: 'Niculet E, et al. Basal cell carcinoma: Comprehensive clinical and histopathological aspects, novel imaging tools and therapeutic approaches (Review). Exp Ther Med. 2022;23(1):60.'
@@ -36387,3 +36405,33 @@
   pmid: '38907161'
   source_class: OPEN
   title: 'Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycaemic crises in adults with diabetes: a consensus report. Diabetologia. 2024（Diabetes Care 版 SRC-956 と同一のコンセンサス報告の併載版）'
+- citation: Han MH, Kim YJ. Practical Application of Columbia Classification for Focal Segmental Glomerulosclerosis. BioMed Res Int. 2016
+  doi: 10.1155/2016/9375753
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5004
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://doi.org/10.1155/2016/9375753
+  pmcid: PMC4876206
+  pmid: '27247945'
+  source_class: OPEN
+  title: Han MH, Kim YJ. Practical Application of Columbia Classification for Focal Segmental Glomerulosclerosis. BioMed Res Int. 2016
+- citation: Bomback AS, Charu V, Fakhouri F. Challenges in the Diagnosis and Management of Immune Complex-Mediated Membranoproliferative Glomerulonephritis and Complement 3 Glomerulopathy. Kidney Int Rep. 2025
+  doi: 10.1016/j.ekir.2024.09.017
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5005
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://doi.org/10.1016/j.ekir.2024.09.017
+  pmcid: PMC11725974
+  pmid: '39810761'
+  source_class: OPEN
+  title: Bomback AS, Charu V, Fakhouri F. Challenges in the Diagnosis and Management of Immune Complex-Mediated Membranoproliferative Glomerulonephritis and Complement 3 Glomerulopathy. Kidney Int Rep. 2025

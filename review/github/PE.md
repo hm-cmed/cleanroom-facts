@@ -38,7 +38,7 @@
 
 - 条件：region: 欧州／対象: 新生児
 - 不確実性：英国の前向き人口ベース研究（BAPS-CASS、2016年3月から12か月）の結果であり、日本の発生頻度や合併率とは異なる可能性がある。
-- 出典：Bethell GS, Long AM, Knight M, Hall NJ; BAPS-CASS. Congenital duodenal obstruction in the UK: a population-based study. Arch Dis Child Fetal Neonatal Ed. 2020;105(2):178-183.　[DOI 10.1136/archdischild-2019-317085](https://doi.org/10.1136/archdischild-2019-317085)　[PMID 31229958](https://pubmed.ncbi.nlm.nih.gov/31229958/)（区分 UNKNOWN）
+- 出典：Bethell GS, Long AM, Knight M, Hall NJ; BAPS-CASS. Congenital duodenal obstruction in the UK: a population-based study. Arch Dis Child Fetal Neonatal Ed. 2020;105(2):178-183.　[DOI 10.1136/archdischild-2019-317085](https://doi.org/10.1136/archdischild-2019-317085)　[PMID 31229958](https://pubmed.ncbi.nlm.nih.gov/31229958/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-12-B-②（先天性十二指腸閉鎖・狭窄症、c）　コアカリ：PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PE-003&card_id=PE-003&version=45ccbe95bd)　（版 `45ccbe95bd`）
 
@@ -136,7 +136,7 @@
 
 - 条件：region: 欧州／対象: 新生児
 - 不確実性：観察研究であり、術式の選択には病型・全身状態による交絡があるため、転帰の差を術式の因果効果として断定はできない。非計画再手術は17.0%で主因は腸閉塞だった。
-- 出典：Bethell GS, Hughes B, Varik RS, et al. Management and outcomes of jejunoileal atresia within the United Kingdom. J Pediatr Surg. 2025;60(7):162334.　[DOI 10.1016/j.jpedsurg.2025.162334](https://doi.org/10.1016/j.jpedsurg.2025.162334)　[PMID 40268118](https://pubmed.ncbi.nlm.nih.gov/40268118/)（区分 RESTRICTED）
+- 出典：Bethell GS, Hughes B, Varik RS, et al. Management and outcomes of jejunoileal atresia within the United Kingdom. J Pediatr Surg. 2025;60(7):162334.　[DOI 10.1016/j.jpedsurg.2025.162334](https://doi.org/10.1016/j.jpedsurg.2025.162334)　[PMID 40268118](https://pubmed.ncbi.nlm.nih.gov/40268118/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-12-C-④（先天性小腸狭窄・閉鎖症、c）　コアカリ：PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PE-011&card_id=PE-011&version=5a0a470aeb)　（版 `5a0a470aeb`）
 

@@ -204,9 +204,9 @@
 
 - 条件：region: 米国／study: 2004年の病理分類の作業提案（Columbia 分類）
 - 不確実性：5亜型の名称は後年の総説の引用でも確認した（二次資料経由の確認を含む）。出典のライセンスは未確認である。
-- 出典：D'Agati VD, Fogo AB, Bruijn JA, Jennette JC. Pathologic classification of focal segmental glomerulosclerosis: a working proposal. Am J Kidney Dis. 2004;43(2):368-382　[DOI 10.1053/j.ajkd.2003.10.024](https://doi.org/10.1053/j.ajkd.2003.10.024)　[PMID 14750104](https://pubmed.ncbi.nlm.nih.gov/14750104/)（区分 UNKNOWN）
+- 出典：Han MH, Kim YJ. Practical Application of Columbia Classification for Focal Segmental Glomerulosclerosis. BioMed Res Int. 2016　[DOI 10.1155/2016/9375753](https://doi.org/10.1155/2016/9375753)　[PMID 27247945](https://pubmed.ncbi.nlm.nih.gov/27247945/)（区分 OPEN）
 - 出題基準：医学各論 Ⅷ-1-B-②（巣状分節性糸球体硬化症、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-324 (id: Jlvnl9g)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-013&card_id=GN-013&version=62ce54b107)　（版 `62ce54b107`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-013&card_id=GN-013&version=22302dbee3)　（版 `22302dbee3`）
 
 ### GN-014　下書き（出典の照合前）
 
@@ -218,7 +218,7 @@
 - 出題基準：医学各論 Ⅷ-1-B-②（巣状分節性糸球体硬化症、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-324 (id: Jlvnl9g)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-014&card_id=GN-014&version=02a028ef53)　（版 `02a028ef53`）
 
-**[ここまでの 2 件（GN-013〜GN-014）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GN-013%E3%80%9CGN-014&cards=GN-013%2062ce54b107%0AGN-014%2002a028ef53)**
+**[ここまでの 2 件（GN-013〜GN-014）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GN-013%E3%80%9CGN-014&cards=GN-013%2022302dbee3%0AGN-014%2002a028ef53)**
 
 ---
 
@@ -256,11 +256,11 @@
 
 - 条件：region: 国際／study: 2012年の総説
 - 不確実性：本カードは分類の枠組みのみを扱い、個別の治療の推奨は扱っていない。2012年の総説であり、その後の補体関連の診断・治療の進歩は反映されていない。
-- 出典：Sethi S, Fervenza FC. Membranoproliferative glomerulonephritis — a new look at an old entity. N Engl J Med. 2012;366(12):1119-1131　[DOI 10.1056/NEJMra1108178](https://doi.org/10.1056/NEJMra1108178)　[PMID 22435371](https://pubmed.ncbi.nlm.nih.gov/22435371/)（区分 RESTRICTED）
+- 出典：Bomback AS, Charu V, Fakhouri F. Challenges in the Diagnosis and Management of Immune Complex-Mediated Membranoproliferative Glomerulonephritis and Complement 3 Glomerulopathy. Kidney Int Rep. 2025　[DOI 10.1016/j.ekir.2024.09.017](https://doi.org/10.1016/j.ekir.2024.09.017)　[PMID 39810761](https://pubmed.ncbi.nlm.nih.gov/39810761/)（区分 OPEN）
 - 出題基準：医学各論 Ⅷ-1-B-④（膜性増殖性糸球体腎炎、c）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-326 (id: Jlvnl9s)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-017&card_id=GN-017&version=f3373716a6)　（版 `f3373716a6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-017&card_id=GN-017&version=ea1a327db1)　（版 `ea1a327db1`）
 
-**[ここまでの 1 件（GN-017）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GN-017&cards=GN-017%20f3373716a6)**
+**[ここまでの 1 件（GN-017）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20GN-017&cards=GN-017%20ea1a327db1)**
 
 ---
 

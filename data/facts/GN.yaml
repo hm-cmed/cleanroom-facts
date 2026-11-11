@@ -53,7 +53,7 @@
     source_license: 出版社の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ25 2026-11-11）：Uriarte-Ayestarán MI, et al. Implementation of KDIGO CKD Screening and Its Prognostic Implications in Community-Dwelling Adults Aged 75 Years or Older. J Clin Med 2026（PMID 42652556、PMCID PMC13512940、DOI 10.3390/jcm15166151、CC BY、新規 SRC 候補）。裏づける部分と留保：全文に A1（30 mg/g未満）・A2（30〜300 mg/g）・A3（300 mg/gを超える）の定義と GFR 区分との組み合わせによるリスク層別が明記され、カードの区分・境界値と一致する。「腎障害のマーカー・心血管リスク」「持続性の確認」という枠組み部分は対象外
   uncertainty: アルブミン尿区分の境界値はガイドラインの表から読み取ったものである（表から読み取り）。日本の特定健診などで用いる試験紙法による蛋白尿の判定とは方式が異なる。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-02-08-011 (id: JlAKpmg)'
@@ -68,6 +68,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ25 2026-11-11）。三原の承認（2026-11-11）による
 - id: GN-003
   domain: GN
   subdomain: 急性糸球体腎炎
@@ -193,7 +196,7 @@
     source_license: 出版社の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ25 2026-11-11）：ClinicalTrials.gov NCT00987389（PEXIVAS、結果掲載あり）。裏づける部分と留保：主要複合転帰（死亡または末期腎不全）のイベント数 100 対 109（各群約352例）がカードの 28.4% 対 31.0% と一致する。ハザード比0.86 とグルココルチコイド減量レジメンの感染症発生率比0.69 は登録表示では確認できず対象外
   uncertainty: グルココルチコイドは国内承認薬だが、本試験の減量レジメンそのものの国内の適応・保険適用は未確認である。抗GBM抗体型など対象外の病型にはこの結果をそのまま当てはめない。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
@@ -208,6 +211,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ25 2026-11-11）。三原の承認（2026-11-11）による
 - id: GN-007
   domain: GN
   subdomain: IgA腎症
@@ -228,7 +234,7 @@
     source_license: 出版社の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ25 2026-11-11）：Alrashidi FS, Alrasheedi MZ. Clinicopathologic Spectrum and Oxford MEST-C Scores in Adult IgA Nephropathy in Middle Eastern Cohorts. Cureus 2026（PMID 41625034、PMCID PMC12860126、DOI 10.7759/cureus.100555、CC BY、新規 SRC 候補）。裏づける部分と留保：全文に「原発性糸球体腎炎の中で世界で最も頻度が高い」「蛍光抗体法でメサンギウムに IgA が優位または共優位に沈着することで定義される」と明記され、定義の中核と頻度を裏づける。IgG・IgM の共沈着、C3・プロペルジン、C1q の所見と臨床像の幅は対象外
   uncertainty: 免疫グロブリン沈着の内訳の頻度は施設により大きく異なることが本文に記されている。診断には腎生検が必要である。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-322 (id: Jlvnl9U)'
@@ -243,6 +249,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ25 2026-11-11）。三原の承認（2026-11-11）による
 - id: GN-008
   domain: GN
   subdomain: IgA腎症
@@ -263,7 +272,7 @@
     source_license: 出版社の著作物（PMC 掲載ページにも CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ25 2026-11-11）：Chellappan A, et al. Steroids for IgA Nephropathy: A #NephJC Editorial on the TESTING trial. Kidney Med 2022（PMID 36438023、PMCID PMC9681628、DOI 10.1016/j.xkme.2022.100565、CC BY、新規 SRC 候補）。裏づける部分と留保：TESTING の全数値（複合転帰 74例［28.8%］対 106例［43.1%］、ハザード比0.53、重篤な有害事象 28例［10.9%］対 7例［2.8%］）を再掲し、カードと一致する。対象集団の定義と投与期間、高用量レジメンの詳細は対象外。ClinicalTrials.gov（NCT01560052）には結果掲載がない'
   uncertainty: メチルプレドニゾロンは国内承認薬だが、IgA腎症に対する国内の適応・保険適用は未確認である。試験では途中で用量が減量レジメンに変更されており、用いる場合は利益と感染症のリスクを個別に評価する必要がある。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-322 (id: Jlvnl9U)'
@@ -278,6 +287,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ25 2026-11-11）。三原の承認（2026-11-11）による
 - id: GN-009
   domain: GN
   subdomain: IgA腎症
@@ -298,7 +310,7 @@
     source_license: 出版社の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ25 2026-11-11）：Alrashidi FS, Alrasheedi MZ. Clinicopathologic Spectrum and Oxford MEST-C Scores in Adult IgA Nephropathy in Middle Eastern Cohorts. Cureus 2026（GN-007 と同一候補）。裏づける部分と留保：MEST-C の構成（M・E・S・T・C）、2016年改訂で C が加わったこと、T・C の予後予測価値を裏づける。「糸球体8個以上」の条件と、E は未治療例でのみ予後と関連するという詳細は対象外
   uncertainty: M と E の判定には報告間のばらつきが指摘されており、予後予測は生検時の臨床データと組み合わせて行うものとされている。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-322 (id: Jlvnl9U)'
@@ -313,6 +325,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ25 2026-11-11）。三原の承認（2026-11-11）による
 - id: GN-010
   domain: GN
   subdomain: ネフローゼ症候群
@@ -435,16 +450,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-581
-    source: 'D''Agati VD, Fogo AB, Bruijn JA, Jennette JC. Pathologic classification of focal segmental glomerulosclerosis: a working proposal. Am J Kidney Dis. 2004;43(2):368-382'
-    doi: 10.1053/j.ajkd.2003.10.024
-    pmid: '14750104'
-    pmcid: null
-    url: https://doi.org/10.1053/j.ajkd.2003.10.024
-    source_license: ライセンス表示を確認できず（CC の表示なし）
+    source_ref: SRC-5004
+    source: Han MH, Kim YJ. Practical Application of Columbia Classification for Focal Segmental Glomerulosclerosis. BioMed Res Int. 2016
+    doi: 10.1155/2016/9375753
+    pmid: '27247945'
+    pmcid: PMC4876206
+    url: https://doi.org/10.1155/2016/9375753
+    source_license: CC BY
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: OPEN
+    corroboration: '元の主出典：SRC-581（D''Agati VD, Fogo AB, Bruijn JA, Jennette JC. Pathologic classification of focal segmental glomerulosclerosis: a working proposal. Am J Kidney Dis. 2004;43(2):368-382）'
   uncertainty: 5亜型の名称は後年の総説の引用でも確認した（二次資料経由の確認を含む）。出典のライセンスは未確認である。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-324 (id: Jlvnl9g)'
@@ -459,6 +474,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-581 から自由に使える資料 SRC-5004 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：CC BY 総説の Table 1 と本文で Columbia 分類の5亜型と位置づけの全体を確認）。三原の承認（2026-11-11）による
 - id: GN-014
   domain: GN
   subdomain: 巣状分節性糸球体硬化症
@@ -517,7 +535,7 @@
     source_license: 出版社の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ25 2026-11-11）：K Hemapriya, Balasubramanian S, Gunabooshanam B, et al. A Clinicopathological Analysis of Membranous Nephropathy and Its Correlation With the Immunohistochemical Expression of Phospholipase A2 Receptor (PLA2R) in Renal Biopsies in a Tertiary Care Center. Cureus 2024（PMID 39507189、PMCID PMC11538043、DOI 10.7759/cureus.70960、CC BY、新規 SRC 候補）。裏づける部分と留保：全文に「PLA2R は膜性腎症の抗原の約70%」「2009年に同定・単離された 185 kDa の分子が PLA2R」と明記され、カードの約70%・185 kDa・2009年同定と一致する。37例中26例という実数、二次性で認められなかったこと、IgG4 優位と共局在は対象外
   uncertainty: 70%という数値は37例の発見研究に基づくもので、測定系や対象集団により陽性割合は異なる。抗PLA2R抗体測定の国内での実施・保険適用の状況は未確認である。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-323 (id: Jlvnl9Y)'
@@ -532,6 +550,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ25 2026-11-11）。三原の承認（2026-11-11）による
 - id: GN-016
   domain: GN
   subdomain: 膜性腎症
@@ -552,7 +573,7 @@
     source_license: 出版社の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ25 2026-11-11）：ClinicalTrials.gov NCT01180036（MENTOR、結果掲載あり）。裏づける部分と留保：完全・部分寛解の合計（12か月 39例［60%］対 34例［52%］、24か月 39例［60%］対 13例［20%］）がカードと一致する。24か月時点の完全寛解35% 対 0% の内訳は登録表示では確認できず対象外
   uncertainty: 数値は抄録の要約と二次資料で照合したものである（二次資料経由の確認を含む）。リツキシマブは国内では難治性ネフローゼ症候群などに承認があるが、膜性腎症そのものに対する国内の適応・保険適用は未確認である。シクロスポリンは国内承認薬だが、膜性腎症に対する位置づけの国内確認はしていない。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-323 (id: Jlvnl9Y)'
@@ -567,6 +588,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ25 2026-11-11）。三原の承認（2026-11-11）による
 - id: GN-017
   domain: GN
   subdomain: 膜性増殖性糸球体腎炎
@@ -578,16 +602,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-584
-    source: Sethi S, Fervenza FC. Membranoproliferative glomerulonephritis — a new look at an old entity. N Engl J Med. 2012;366(12):1119-1131
-    doi: 10.1056/NEJMra1108178
-    pmid: '22435371'
-    pmcid: null
-    url: https://doi.org/10.1056/NEJMra1108178
-    source_license: 出版社の著作物（CC の表示なし）
+    source_ref: SRC-5005
+    source: Bomback AS, Charu V, Fakhouri F. Challenges in the Diagnosis and Management of Immune Complex-Mediated Membranoproliferative Glomerulonephritis and Complement 3 Glomerulopathy. Kidney Int Rep. 2025
+    doi: 10.1016/j.ekir.2024.09.017
+    pmid: '39810761'
+    pmcid: PMC11725974
+    url: https://doi.org/10.1016/j.ekir.2024.09.017
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-584（Sethi S, Fervenza FC. Membranoproliferative glomerulonephritis — a new look at an old entity. N Engl J Med. 2012;366(12):1119-1131）
   uncertainty: 本カードは分類の枠組みのみを扱い、個別の治療の推奨は扱っていない。2012年の総説であり、その後の補体関連の診断・治療の進歩は反映されていない。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-326 (id: Jlvnl9s)'
@@ -602,6 +626,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-584 から自由に使える資料 SRC-5005 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：CC BY 総説の全文で MPGN の病因に基づく大別と病因検索の出発点を確認）。三原の承認（2026-11-11）による
 - id: GN-018
   domain: GN
   subdomain: ネフローゼ症候群
@@ -765,7 +792,7 @@
     source_license: 出版社の利用条件（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ25 2026-11-11）：ClinicalTrials.gov NCT02065791（CREDENCE、結果掲載あり）。裏づける部分と留保：主要複合アウトカムの発生率 43.21 対 61.24/1,000人年がカードの 43.2 対 61.2 と一致する。腎特異的複合・末期腎不全のハザード比の内訳は登録表示では確認していない
   uncertainty: カナグリフロジンを含む SGLT2 阻害薬の国内の承認・保険適用の範囲（糖尿病性腎症・慢性腎臓病への適応を含む）は未確認であり、取り込み時に PMDA の添付文書で確認が必要。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-332 (id: Jlvnl-Q)'
@@ -780,6 +807,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ25 2026-11-11）。三原の承認（2026-11-11）による
 - id: GN-023
   domain: GN
   subdomain: 糖尿病性腎症
@@ -905,7 +935,7 @@
     source_license: 出版社の利用条件（NEJM。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ25 2026-11-11）：ClinicalTrials.gov NCT01639339（BLISS-LN、結果掲載あり）。裏づける部分と留保：主要腎反応 43% 対 32%（オッズ比1.55）と完全腎反応 30% 対 20%（オッズ比1.74）を裏づける。カードの 1.6・1.7 は公表論文の丸めで食い違いではない（発見6）。腎関連イベントまたは死亡のハザード比0.51 は対象外
   uncertainty: ベリムマブの国内の承認・保険適用（全身性エリテマトーデスに対する適応の範囲と腎炎への扱い）は未確認であり、取り込み時に PMDA の添付文書で確認が必要。反応の定義は試験の主要評価項目の定義による。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-336 (id: Jlvnl-k)'
@@ -920,6 +950,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ25 2026-11-11）。三原の承認（2026-11-11）による
 - id: GN-027
   domain: GN
   subdomain: 顕微鏡的多発血管炎
@@ -975,7 +1008,7 @@
     source_license: 出版社の利用条件（NEJM。Crossref に license 欄なし。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_JP（PMDA、公共データ利用規約第1.0版。要約して記載）、作り手の調査バッチ25 2026-11-11）：ClinicalTrials.gov NCT00104299（RAVE、結果掲載あり）。あわせて PMDA 審査報告書（リツキサン、令和5年7月5日）。裏づける部分と留保：主要評価項目の達成 63例 対 52例（64% 対 53%）がカードと一致する。再発例の内訳と腎病変サブグループは対象外。PMDA 全文でリツキシマブの多発血管炎性肉芽腫症・顕微鏡的多発血管炎の国内承認を確認し、カードの「未確認」の一部が解消できる（発見7）
   uncertainty: リツキシマブとシクロホスファミドの国内の承認・保険適用（ANCA 関連血管炎に対する適応の範囲）は未確認であり、取り込み時に添付文書で確認が必要。対象には顕微鏡的多発血管炎と多発血管炎性肉芽腫症の両方が含まれ、腎病変に限った試験ではない。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-337 (id: Jlvnl-s)'
@@ -990,6 +1023,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP（PMDA、公共データ利用規約第1.0版。要約して記載）、作り手の調査バッチ25 2026-11-11）。三原の承認（2026-11-11）による
 - id: GN-029
   domain: GN
   subdomain: 多発血管炎性肉芽腫症
@@ -1115,7 +1151,7 @@
     source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ25 2026-11-11）：Shafqat A, et al. Renal AL Amyloidosis: Updates on Diagnosis, Staging, and Management. J Clin Med 2024（PMID 38541968、PMCID PMC10971215、DOI 10.3390/jcm13061744、CC BY、新規 SRC 候補）。裏づける部分と留保：Table 3 が Palladini らの腎病期の閾値（尿蛋白5 g/24時間・eGFR 50）と腎反応の基準（尿蛋白30%以上の減少または0.5 g/24時間未満、かつ eGFR 25%以上の低下なし）を再掲する。「腎臓は約70%で侵される」と3年透析移行率（0〜4%・60〜85%）は対象外'
   uncertainty: 病期と反応の基準値は出典の解析結果から読み取った（表・基準の読み取りに相当）。対象は AL アミロイドーシスであり、AA アミロイドーシスには当てはまらない。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-334 (id: Jlvnl-g)'
@@ -1130,6 +1166,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ25 2026-11-11）。三原の承認（2026-11-11）による
 - id: GN-033
   domain: GN
   subdomain: 二次性膜性腎症
@@ -1258,7 +1297,7 @@
     source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ25 2026-11-11）：Torra R, et al.; ERKNet, ERA Genes&Kidney and ESPN working groups. Diagnosis, management and treatment of the Alport syndrome - 2024 guideline. Nephrol Dial Transplant 2025（PMID 39673454、PMCID PMC12209846、DOI 10.1093/ndt/gfae265、CC BY、新規 SRC 候補）。裏づける部分と留保：遺伝学的検査が診断の鍵であること、家族内発症者の同定・経過観察の重要性を裏づける。生体ドナーの扱いは表現が異なり逐語的な対応ではない（発見3）
   uncertainty: 出典のライセンスは未確認のため、取り込み時に出版社ページで確認が必要。このガイドラインの推奨は、ランダム化試験ではなく専門家意見と記述研究に基づく水準のものである。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
@@ -1273,6 +1312,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ25 2026-11-11）。三原の承認（2026-11-11）による
 - id: GN-037
   domain: GN
   subdomain: Alport症候群
@@ -1293,7 +1335,7 @@
     source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ25 2026-11-11）：同上（Alport 2024 ガイドライン）。裏づける部分と留保：X連鎖型男性と常染色体劣性型への早期からの RAS 阻害が標準治療であることを裏づける。RAS 阻害薬の国内適応は未解消
   uncertainty: 本カードは早期の RAS 阻害についての専門家ガイドラインの推奨を記したもので、早期介入を検証した個別のランダム化試験（小児を対象に ACE 阻害薬を調べた試験など）の数値はこの出典には含まれていない。試験の数値を扱う場合はその試験を別途出典として確認が必要。RAS 阻害薬の Alport 症候群に対する国内の承認・保険適用は未確認。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
@@ -1308,6 +1350,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ25 2026-11-11）。三原の承認（2026-11-11）による
 - id: GN-038
   domain: GN
   subdomain: 基底膜菲薄化症候群
@@ -1328,7 +1373,7 @@
     source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ25 2026-11-11）：同上（Alport 2024 ガイドライン）。裏づける部分と留保：弱い部分裏づけ：ヘテロ接合型を Alport スペクトラムとして扱い、持続性血尿の鑑別で遺伝学的検査を位置づける枠組みを裏づける。「X連鎖型を除外するために検討する」という個別記述との逐語的な対応は確認していない
   uncertainty: 出典のライセンスは未確認のため、取り込み時に出版社ページで確認が必要。菲薄基底膜腎症そのものの長期予後の数値はこの出典（ガイドライン抄録）では確認していない。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
@@ -1343,6 +1388,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ25 2026-11-11）。三原の承認（2026-11-11）による
 - id: GN-039
   domain: GN
   subdomain: Fabry病
@@ -1398,7 +1446,7 @@
     source_license: CC BY-NC 4.0（PMC ページの表示で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_JP（PMDA、公共データ利用規約第1.0版。要約して記載）、作り手の調査バッチ25 2026-11-11）：ClinicalTrials.gov NCT01218659（ATTRACT、結果掲載あり）。あわせて PMDA 審査報告書・審議結果報告書（ガラフォルド、2018年）。裏づける部分と留保：腎機能への影響が同等だったことを、主要評価項目の GFR スロープ（測定GFR 年変化 -3.24 対 -4.35 mL/min/1.73m²）で裏づける。複合イベント率 29% 対 44%、左室心筋重量係数、lyso-Gb3 は対象外。PMDA 全文でミガーラスタットの2018年3月の国内承認を確認し、カードの「未確認」の一部が解消できる（発見7）
   uncertainty: ミガーラスタットが使えるのは反応性のある GLA 変異を持つ患者に限られ、試験では変異の反応性を細胞アッセイで判定した。ミガーラスタットと酵素補充療法（アガルシダーゼ製剤）の国内の承認・保険適用の範囲は未確認であり、取り込み時に添付文書で確認が必要。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
@@ -1413,6 +1461,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP（PMDA、公共データ利用規約第1.0版。要約して記載）、作り手の調査バッチ25 2026-11-11）。三原の承認（2026-11-11）による
 - id: GN-041
   domain: GN
   subdomain: 蛋白尿
