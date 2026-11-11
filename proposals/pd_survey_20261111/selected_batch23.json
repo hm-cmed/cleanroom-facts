@@ -1,0 +1,71 @@
+{
+ "A": [
+  {
+   "card": "DM-021",
+   "class": "OPEN",
+   "title": "Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycaemic crises in adults with diabetes: a consensus report. Diabetologia. 2024（Diabetes Care 版 SRC-956 と同一のコンセンサス報告の併載版）",
+   "doi": "10.1007/s00125-024-06183-8",
+   "pmid": "38907161",
+   "pmcid": "PMC11343900",
+   "url": "https://doi.org/10.1007/s00125-024-06183-8",
+   "why": "同一コンセンサス報告の CC BY 4.0 の併載版（Diabetologia）の全文で主張の全要素を確認"
+  },
+  {
+   "card": "DM-022",
+   "class": "OPEN",
+   "title": "Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycaemic crises in adults with diabetes: a consensus report. Diabetologia. 2024（Diabetes Care 版 SRC-956 と同一のコンセンサス報告の併載版）",
+   "doi": "10.1007/s00125-024-06183-8",
+   "pmid": "38907161",
+   "pmcid": "PMC11343900",
+   "url": "https://doi.org/10.1007/s00125-024-06183-8",
+   "why": "同一コンセンサス報告の CC BY 4.0 の併載版（Diabetologia）の全文で主張の全要素を確認"
+  },
+  {
+   "card": "DM-023",
+   "class": "OPEN",
+   "title": "Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycaemic crises in adults with diabetes: a consensus report. Diabetologia. 2024（Diabetes Care 版 SRC-956 と同一のコンセンサス報告の併載版）",
+   "doi": "10.1007/s00125-024-06183-8",
+   "pmid": "38907161",
+   "pmcid": "PMC11343900",
+   "url": "https://doi.org/10.1007/s00125-024-06183-8",
+   "why": "同一コンセンサス報告の CC BY 4.0 の併載版（Diabetologia）の全文で主張の全要素を確認"
+  }
+ ],
+ "B": [
+  {
+   "card": "DM-008",
+   "label": "GOV_JP（PMDA、公共データ利用規約第1.0版。要約して記載）、作り手の調査バッチ23 2026-11-11",
+   "text": "PMDA 審査報告書・承認情報（マンジャロ、チルゼパチド）：2型糖尿病で2022年9月26日に国内承認。発売時期・体重減少・インスリンの適応区分は対象外"
+  },
+  {
+   "card": "DM-013",
+   "label": "GOV_US、作り手の調査バッチ23 2026-11-11",
+   "text": "AHRQ Evidence Synthesis「Screening for Gestational Diabetes Mellitus」（NCBI Bookshelf NBK573103）：75g OGTT の診断値（空腹時92・1時間180・2時間153 mg/dL のいずれか1点以上、IADPSG 基準）と明らかな糖尿病の手がかり（空腹時126 mg/dL）。管理目標・治療・産後の再評価は対象外"
+  },
+  {
+   "card": "DM-016",
+   "label": "GOV_US、作り手の調査バッチ23 2026-11-11",
+   "text": "VA/DoD Clinical Practice Guideline for the Management of Type 2 Diabetes Mellitus（2023）：糖尿病予備群への生活習慣介入とメトホルミンによる発症抑制。DPP 試験の数値は対象外"
+  },
+  {
+   "card": "DM-025",
+   "label": "GOV_US、作り手の調査バッチ23 2026-11-11",
+   "text": "VA/DoD 糖尿病ガイドライン（2023）：CKD・心不全のある2型糖尿病への SGLT2 阻害薬、心血管リスクへの GLP-1 受容体作動薬・SGLT2 阻害薬の推奨。血圧目標・UACR・eGFR の閾値・フィネレノンは対象外"
+  },
+  {
+   "card": "DM-030",
+   "label": "GOV_US、作り手の調査バッチ23 2026-11-11",
+   "text": "VA/DoD 糖尿病ガイドライン（2023）：確立した心血管疾患のある2型糖尿病に GLP-1 受容体作動薬または SGLT2 阻害薬を用いる推奨。血圧目標・スタチン・疫学は対象外"
+  },
+  {
+   "card": "DM-031",
+   "label": "GOV_US、作り手の調査バッチ23 2026-11-11",
+   "text": "CDC「Treatment of Low Blood Sugar (Hypoglycemia)」（2024-05-14 更新）：70 mg/dL 未満を低血糖、15-15ルール、重症例へのグルカゴン。3段階分類は CDC になく、重症の閾値は CDC 55 mg/dL 未満と ADA レベル2 54 mg/dL 未満で1 mg/dL 異なる（両値記録）"
+  }
+ ],
+ "rest_fix": {
+  "SRC-953": "CC BY-NC-ND 4.0",
+  "SRC-957": "CC BY-NC-ND 4.0",
+  "SRC-945": "SRC-965 と同一文献（ADA Standards 2025 §6）"
+ }
+}

@@ -11362,14 +11362,17 @@
   doi: 10.2337/dc25-S006
   pmid: '39651981'
   pmcid: null
-  license_note: © American Diabetes Association（CC表示なし）
+  license_note: SRC-965 と同一文献（ADA Standards 2025 §6）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© American Diabetes Association（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-946
   legacy_id: null
   title: 'Bouchi R, et al. A consensus statement from the Japan Diabetes Society: a proposed algorithm for pharmacotherapy in people with type 2 diabetes — 2nd edition (English version). Diabetol Int. 2024;15(3):327–345.'
@@ -11482,14 +11485,17 @@
   doi: 10.1016/j.mayocp.2016.06.010
   pmid: '27594187'
   pmcid: null
-  license_note: © Mayo Foundation / Elsevier（CC表示なし）
+  license_note: CC BY-NC-ND 4.0（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© Mayo Foundation / Elsevier（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-956
   legacy_id: null
   title: 'Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycemic Crises in Adults With Diabetes: A Consensus Report. Diabetes Care. 2024;47(8):1257-1275.'
@@ -11512,14 +11518,17 @@
   doi: 10.1016/j.metabol.2015.10.014
   pmid: '26773926'
   pmcid: null
-  license_note: © 2015 The Authors. Published by Elsevier Inc. All rights reserved.（CC ライセンス表示は確認できず）
+  license_note: CC BY-NC-ND 4.0（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© 2015 The Authors. Published by Elsevier Inc. All rights reserved.（CC ライセンス表示は確認できず）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-958
   legacy_id: null
   title: 'American Diabetes Association Professional Practice Committee. 11. Chronic Kidney Disease and Risk Management: Standards of Care in Diabetes—2025. Diabetes Care. 2025;48(Suppl 1):S239-S251.'
@@ -36363,3 +36372,18 @@
   pmid: '38869512'
   source_class: OPEN
   title: EASL-EASD-EASO Clinical Practice Guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD). Diabetologia. 2024;67(11)
+- citation: 'Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycaemic crises in adults with diabetes: a consensus report. Diabetologia. 2024（Diabetes Care 版 SRC-956 と同一のコンセンサス報告の併載版）'
+  doi: 10.1007/s00125-024-06183-8
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5003
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://doi.org/10.1007/s00125-024-06183-8
+  pmcid: PMC11343900
+  pmid: '38907161'
+  source_class: OPEN
+  title: 'Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycaemic crises in adults with diabetes: a consensus report. Diabetologia. 2024（Diabetes Care 版 SRC-956 と同一のコンセンサス報告の併載版）'

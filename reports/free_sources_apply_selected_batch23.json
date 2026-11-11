@@ -1,0 +1,50 @@
+{
+ "class": [
+  [
+   "SRC-953",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-957",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-945",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [
+  [
+   "DM-021",
+   "SRC-956",
+   "SRC-5003"
+  ],
+  [
+   "DM-022",
+   "SRC-956",
+   "SRC-5003"
+  ],
+  [
+   "DM-023",
+   "SRC-956",
+   "SRC-5003"
+  ]
+ ],
+ "B": [
+  "DM-008",
+  "DM-013",
+  "DM-016",
+  "DM-025",
+  "DM-030",
+  "DM-031"
+ ],
+ "new_src": [
+  [
+   "SRC-5003",
+   "Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycaemic crises in adults with "
+  ]
+ ]
+}

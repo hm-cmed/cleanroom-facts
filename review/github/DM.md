@@ -92,7 +92,7 @@
 
 - 条件：region: 米国／study: 米国糖尿病学会 Standards of Care in Diabetes—2025 第6章（血糖目標と低血糖）
 - 不確実性：目標値と低血糖の分類は同章の表および推奨文から読み取った。日本の目標（DM-005）とは別基準である。本論文のPMCIDは確認できなかったため null とした。
-- 出典：American Diabetes Association Professional Practice Committee. 6. Glycemic Goals and Hypoglycemia: Standards of Care in Diabetes—2025. Diabetes Care. 2025;48(Suppl.1):S128–S145.　[DOI 10.2337/dc25-S006](https://doi.org/10.2337/dc25-S006)　[PMID 39651981](https://pubmed.ncbi.nlm.nih.gov/39651981/)（区分 UNKNOWN）
+- 出典：American Diabetes Association Professional Practice Committee. 6. Glycemic Goals and Hypoglycemia: Standards of Care in Diabetes—2025. Diabetes Care. 2025;48(Suppl.1):S128–S145.　[DOI 10.2337/dc25-S006](https://doi.org/10.2337/dc25-S006)　[PMID 39651981](https://pubmed.ncbi.nlm.nih.gov/39651981/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-6-A-②（2型糖尿病、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-473 (id: JlvnmL8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-006&card_id=DM-006&version=372c710f92)　（版 `372c710f92`）
 
@@ -316,7 +316,7 @@
 
 - 条件：region: 米国／study: インスリン投与に関する国際専門家会議（FITTER）の推奨（Mayo Clinic Proceedings掲載）
 - 不確実性：針の長さとリポハイパートロフィーの頻度は原著およびその公表資料から確認した。本論文のPMCIDは確認できなかったため null とした。本カードは注射手技に関するものであり、インスリン製剤そのものの国内承認、および個別の注射デバイスの保険適用は確認していない。
-- 出典：Frid AH, et al. New Insulin Delivery Recommendations. Mayo Clin Proc. 2016;91(9):1231–1255.　[DOI 10.1016/j.mayocp.2016.06.010](https://doi.org/10.1016/j.mayocp.2016.06.010)　[PMID 27594187](https://pubmed.ncbi.nlm.nih.gov/27594187/)（区分 UNKNOWN）
+- 出典：Frid AH, et al. New Insulin Delivery Recommendations. Mayo Clin Proc. 2016;91(9):1231–1255.　[DOI 10.1016/j.mayocp.2016.06.010](https://doi.org/10.1016/j.mayocp.2016.06.010)　[PMID 27594187](https://pubmed.ncbi.nlm.nih.gov/27594187/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-6-A-①（1型糖尿病、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-472 (id: JlvnmL0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-020&card_id=DM-020&version=766d1f6673)　（版 `766d1f6673`）
 
@@ -332,9 +332,9 @@
 
 - 条件：region: 国際／study: コンセンサスレポート（ADA・EASD・JBDS・AACE・DTS、2024年）
 - 不確実性：重症度の区分（軽症：pH 7.25超・7.30未満、重炭酸15〜18 mmol/L、β-ヒドロキシ酪酸3.0〜6.0 mmol/L／中等症：pH 7.0〜7.25、重炭酸10〜15 mmol/L未満／重症：pH 7.0未満、重炭酸10 mmol/L未満、β-ヒドロキシ酪酸6.0 mmol/L超）はコンセンサス報告の診断基準の表から読み取った。血糖の基準値は2024年版で200 mg/dLに改められており、2009年版の250 mg/dLとは異なる。数値は同報告のDiabetes Care版と同一内容の併載版本文で確認した。
-- 出典：Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycemic Crises in Adults With Diabetes: A Consensus Report. Diabetes Care. 2024;47(8):1257-1275.　[DOI 10.2337/dci24-0032](https://doi.org/10.2337/dci24-0032)　[PMID 39052901](https://pubmed.ncbi.nlm.nih.gov/39052901/)（区分 RESTRICTED）
+- 出典：Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycaemic crises in adults with diabetes: a consensus report. Diabetologia. 2024（Diabetes Care 版 SRC-956 と同一のコンセンサス報告の併載版）　[DOI 10.1007/s00125-024-06183-8](https://doi.org/10.1007/s00125-024-06183-8)　[PMID 38907161](https://pubmed.ncbi.nlm.nih.gov/38907161/)（区分 OPEN）
 - 出題基準：医学各論 Ⅹ-6-B-①（糖尿病ケトアシドーシス、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-475 (id: JlvnmMA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-021&card_id=DM-021&version=c69face85b)　（版 `c69face85b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-021&card_id=DM-021&version=c8e82f61ed)　（版 `c8e82f61ed`）
 
 ### DM-022　下書き（出典の照合前）
 
@@ -342,11 +342,11 @@
 
 - 条件：region: 国際／study: コンセンサスレポート（ADA・EASD・JBDS・AACE・DTS、2024年）
 - 不確実性：薬剤（インスリン製剤、輸液製剤、塩化カリウム）の国内承認・保険適用は、本調査では添付文書での個別確認を行っていない（未確認）。数値はコンセンサス報告本文で確認した。
-- 出典：Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycemic Crises in Adults With Diabetes: A Consensus Report. Diabetes Care. 2024;47(8):1257-1275.　[DOI 10.2337/dci24-0032](https://doi.org/10.2337/dci24-0032)　[PMID 39052901](https://pubmed.ncbi.nlm.nih.gov/39052901/)（区分 RESTRICTED）
+- 出典：Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycaemic crises in adults with diabetes: a consensus report. Diabetologia. 2024（Diabetes Care 版 SRC-956 と同一のコンセンサス報告の併載版）　[DOI 10.1007/s00125-024-06183-8](https://doi.org/10.1007/s00125-024-06183-8)　[PMID 38907161](https://pubmed.ncbi.nlm.nih.gov/38907161/)（区分 OPEN）
 - 出題基準：医学各論 Ⅹ-6-B-①（糖尿病ケトアシドーシス、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-475 (id: JlvnmMA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-022&card_id=DM-022&version=e8554bc5eb)　（版 `e8554bc5eb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-022&card_id=DM-022&version=e02d4c6587)　（版 `e02d4c6587`）
 
-**[ここまでの 2 件（DM-021〜DM-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DM-021%E3%80%9CDM-022&cards=DM-021%20c69face85b%0ADM-022%20e8554bc5eb)**
+**[ここまでの 2 件（DM-021〜DM-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DM-021%E3%80%9CDM-022&cards=DM-021%20c8e82f61ed%0ADM-022%20e02d4c6587)**
 
 ---
 
@@ -358,11 +358,11 @@
 
 - 条件：region: 国際／study: コンセンサスレポート（ADA・EASD・JBDS・AACE・DTS、2024年）
 - 不確実性：HHSの回復の定義については統一したコンセンサスがなく、本文に示された著者らの目安によった。DKAとの重なりの頻度は本文の記述による。薬剤（インスリン製剤、輸液製剤）の国内承認・保険適用は、本調査では個別に確認していない（未確認）。
-- 出典：Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycemic Crises in Adults With Diabetes: A Consensus Report. Diabetes Care. 2024;47(8):1257-1275.　[DOI 10.2337/dci24-0032](https://doi.org/10.2337/dci24-0032)　[PMID 39052901](https://pubmed.ncbi.nlm.nih.gov/39052901/)（区分 RESTRICTED）
+- 出典：Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycaemic crises in adults with diabetes: a consensus report. Diabetologia. 2024（Diabetes Care 版 SRC-956 と同一のコンセンサス報告の併載版）　[DOI 10.1007/s00125-024-06183-8](https://doi.org/10.1007/s00125-024-06183-8)　[PMID 38907161](https://pubmed.ncbi.nlm.nih.gov/38907161/)（区分 OPEN）
 - 出題基準：医学各論 Ⅹ-6-B-②（高血糖高浸透圧症候群、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-476 (id: JlvnmMI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-023&card_id=DM-023&version=3afd5f4bbf)　（版 `3afd5f4bbf`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-023&card_id=DM-023&version=55783669d8)　（版 `55783669d8`）
 
-**[ここまでの 1 件（DM-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DM-023&cards=DM-023%203afd5f4bbf)**
+**[ここまでの 1 件（DM-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20DM-023&cards=DM-023%2055783669d8)**
 
 ---
 
@@ -374,7 +374,7 @@
 
 - 条件：region: 米国／study: 総説（メトホルミン関連乳酸アシドーシス）
 - 不確実性：本カードは抄録で確認できた範囲に基づく。乳酸アシドーシス一般の診断閾値（乳酸値やpHの数値）は、実際に開いた一次資料の範囲では確認できなかったため数値を書いていない。頻度と死亡率は総説が引用する報告に基づく値である。メトホルミンの国内承認・保険適用（腎機能障害時の投与制限を含む）は、本調査では確認していない（未確認）。
-- 出典：DeFronzo R, Fleming GA, Chen K, Bicsak TA. Metformin-associated lactic acidosis: Current perspectives on causes and risk. Metabolism. 2016;65(2):20-29.　[DOI 10.1016/j.metabol.2015.10.014](https://doi.org/10.1016/j.metabol.2015.10.014)　[PMID 26773926](https://pubmed.ncbi.nlm.nih.gov/26773926/)（区分 UNKNOWN）
+- 出典：DeFronzo R, Fleming GA, Chen K, Bicsak TA. Metformin-associated lactic acidosis: Current perspectives on causes and risk. Metabolism. 2016;65(2):20-29.　[DOI 10.1016/j.metabol.2015.10.014](https://doi.org/10.1016/j.metabol.2015.10.014)　[PMID 26773926](https://pubmed.ncbi.nlm.nih.gov/26773926/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-6-B-③（乳酸アシドーシス、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-477 (id: JlvnmMM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-024&card_id=DM-024&version=f2413f6b02)　（版 `f2413f6b02`）
 
