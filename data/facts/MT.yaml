@@ -158,7 +158,7 @@
     source_license: CC BY-NC-SA 4.0（PMC掲載ページの表示）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_JP、作り手の調査バッチ33 2026-11-11）：PMDA レパーサ（エボロクマブ）審査報告書（平成27年11月9日）、PMDA、公共データ利用規約第1.0版（GOV_JP、新規 SRC 候補、効能・効果の記載を要約）。裏づける部分と留保：家族性高コレステロール血症・高コレステロール血症（心血管イベントのリスクが高く、HMG-CoA還元酵素阻害剤で効果不十分な場合に限る）への承認は一致。管理目標値と薬物療法の順序は対象外
   uncertainty: 管理目標の数値と薬物療法の順序はガイドライン本文で確認した。国内承認については、PCSK9阻害薬エボロクマブが家族性高コレステロール血症・高コレステロール血症（心血管イベントのリスクが高くスタチンで効果不十分な場合に限る）に承認されていることをPMDAの添付文書情報で別途確認した。スタチン・エゼチミブの個別製剤の最新の承認・保険適用範囲は添付文書で未確認である。LDLアフェレーシスの保険適用条件の詳細はガイドライン本文に記載があるが、最新の診療報酬上の条件は未確認である。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-482 (id: JlvnmMw)'
@@ -173,6 +173,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP、作り手の調査バッチ33 2026-11-11）。三原の承認（2026-11-11）による
 - id: MT-006
   domain: MT
   subdomain: 脂質低下療法のエビデンス
@@ -193,7 +196,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ33 2026-11-11）：ClinicalTrials.gov NCT01764633（FOURIER、GOV_US、新規 SRC 候補）。裏づける部分と留保：登録者数27,564人、主要評価項目 HR 0.85（0.79–0.92）、主要な副次評価項目 HR 0.80（0.73–0.88）が完全一致。LDL 59%低下は登録側で検証できず、発症割合 9.8% 対 11.3% は登録側の時点別 Kaplan-Meier 推定の範囲内（時点の違い）
   uncertainty: 数値は試験の抄録で確認した。心血管死単独の有意な低下は抄録の範囲では示されていない。国内承認については、エボロクマブが家族性高コレステロール血症・高コレステロール血症（心血管イベントの発現リスクが高く、HMG-CoA還元酵素阻害剤で効果不十分な場合に限る）に承認されていることをPMDAの添付文書情報で確認した。スタチン自体の心血管イベント抑制のエビデンス（個別試験の数値）は本カードの出典には含まれない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-482 (id: JlvnmMw)'
@@ -208,6 +211,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ33 2026-11-11）。三原の承認（2026-11-11）による
 - id: MT-007
   domain: MT
   subdomain: 二次性高脂血症
@@ -333,7 +339,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ33 2026-11-11）：ClinicalTrials.gov NCT03548935（STEP 1、GOV_US、新規 SRC 候補）。裏づける部分と留保：登録者数1,961人、推定治療差 −12.44 ポイント（カード −12.4）、5%以上の減量達成 86.4%・31.5% が一致。平均体重変化は estimand により表示が異なる（登録側の例 −15.6% 対 −2.8%、論文の治療方針 estimand −14.9% 対 −2.4%、両値記録）
   uncertainty: 数値は試験の抄録で確認した。国内承認については、セマグルチド（ウゴービ）が肥満症に効能・効果のある薬剤として2023年11月に薬価収載されたことを日本肥満学会のステートメントで確認した。ただし保険適用は、高血圧・脂質異常症・2型糖尿病のいずれかを有し食事・運動療法で効果が不十分で、BMI 27以上かつ肥満に関連する健康障害を2つ以上有する場合、またはBMI 35以上の場合に限られ、STEP 1の登録基準とは異なる。外科療法（スリーブ状胃切除術など）の適応基準と治療成績は本カードの出典では確認していないため、主張文には含めていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-483 (id: JlvnmM4)'
@@ -348,6 +354,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ33 2026-11-11）。三原の承認（2026-11-11）による
 - id: MT-011
   domain: MT
   subdomain: メタボリックシンドローム
@@ -511,7 +520,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ33 2026-11-11）：ClinicalTrials.gov NCT01994889（ATTR-ACT、GOV_US、新規 SRC 候補）。裏づける部分と留保：登録者数441人、全死亡 HR 0.698（0.508–0.958）、死亡割合 29.5% 対 42.9%、心血管関連入院 RR 0.6761 がすべて一致
   uncertainty: 数値は試験の抄録で確認した。国内承認については、タファミジスがトランスサイレチン型心アミロイドーシス（野生型及び変異型）に承認されていることをPMDAの医薬品リスク管理計画書（ビンダケル・ビンマック）で確認した。トランスサイレチン型家族性アミロイドポリニューロパチーへの適応は用量・製剤が別であり、本カードの範囲外である。野生型と変異型で効果に差があるかどうかは抄録の範囲では確認していない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-486 (id: JlvnmNM)'
@@ -526,6 +535,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ33 2026-11-11）。三原の承認（2026-11-11）による
 - id: MT-016
   domain: MT
   subdomain: 小児肥満
@@ -686,7 +698,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ33 2026-11-11）：Wernicke 脳症の過少治療に関するスコーピングレビュー（Addict Sci Clin Pract、PMC13681891、CC BY、新規 SRC 候補）。裏づける部分と留保：三徴の構成要素、完全な三徴がそろう頻度、Korsakoff への進展は一致。頻度はカードの「3分の1未満」に対し総説は臨床同定例で約3分の1、神経病理系列で16〜20%（母集団による両値）。脚気とチアミンピロリン酸の役割は対象外
   uncertainty: 脚気の臨床像（末梢神経障害・心不全）とWernicke脳症の三徴・頻度は、出典表の確認経路に記した2文献で照合した内容であり、本カードの出典そのものの抄録には含まれていない。チアミン製剤の国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)'
@@ -701,6 +713,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ33 2026-11-11）。三原の承認（2026-11-11）による
 - id: MT-021
   domain: MT
   subdomain: ビタミンB12・葉酸欠乏
@@ -756,7 +771,7 @@
     source_license: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ33 2026-11-11）：壊血病の系統的レビュー（Nutrients、PMC13415094、CC BY、新規 SRC 候補）。裏づける部分と留保：壊血病の古典的所見（歯肉出血・毛孔性角化・らせん状の体毛・創傷治癒の遅延・点状出血・斑状出血・関節痛）は一致。ペラグラの部分は SRC-1000 の Table 1 が候補だが未確認
   uncertainty: 壊血病の個別症状は Kiani らの総説（SRC-986）の全文、ペラグラの症状は Kennedy らの総説（SRC-1000）の表で照合した内容であり、本カードの出典（ビタミンC欠乏の章）の抜粋にはペラグラの記載はない。章の本文はアクセス制限のため全文を確認できていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)'
@@ -774,6 +789,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した MT-038 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ33 2026-11-11）。三原の承認（2026-11-11）による
 - id: MT-023
   domain: MT
   subdomain: ビタミン過剰症
@@ -794,7 +812,7 @@
     source_license: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ33 2026-11-11）：NIH Office of Dietary Supplements 専門家向けファクトシート Vitamin D・Vitamin A（GOV_US、新規 SRC 候補）。裏づける部分と留保：ビタミンD中毒の指標（血清25(OH)D が通常150 ng/mL超）と高カルシウム血症の症状、ビタミンA過剰の催奇形性・肝障害は一致。頭蓋内圧亢進は対象外
   uncertainty: ビタミンA過剰とビタミンD過剰の具体的な内容は、出典表の確認経路に記した各ビタミンの総説（Carazo ら、Marcinowska-Suchowierska ら）で照合したものであり、本カードの出典の抜粋は脂溶性ビタミンの毒性を扱う旨にとどまる。章の本文はアクセス制限のため全文を確認できていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-02-13-007 (id: JlAKpsU)'
@@ -812,6 +830,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した MT-039 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ33 2026-11-11）。三原の承認（2026-11-11）による
 - id: MT-024
   domain: MT
   subdomain: 痛風の診断と急性発作の治療
@@ -1229,7 +1250,7 @@
     source_license: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ33 2026-11-11）：NIH Office of Dietary Supplements 専門家向けファクトシート Vitamin A・Vitamin E・Vitamin K（GOV_US、新規 SRC 候補）。裏づける部分と留保：A欠乏（夜盲が最初の徴候、眼球乾燥症から失明）、K欠乏（プロトロンビン時間が指標、新生児のビタミンK欠乏性出血症）、E欠乏（末梢神経障害・ミオパチー、未熟児の貯蔵不足、脂肪吸収障害に伴う）は一致。ビトー斑・角膜軟化症の用語は対象外
   uncertainty: 各ビタミンの欠乏症状の具体は、出典表の確認経路に記した文献（ビタミンAは Carazo らと Kiani ら、ビタミンKは Kiani らと Daley らの章、ビタミンEは Kemnic らの章と Kiani ら）で照合した内容であり、本カードの出典の抜粋は脂溶性ビタミンの役割と欠乏症候群を扱う旨にとどまる。章の本文はアクセス制限のため全文を確認できていない。ビタミンDの欠乏（骨代謝の側面）は第20回の範囲として本カードには含めていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)'
@@ -1247,6 +1268,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した MT-042 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ33 2026-11-11）。三原の承認（2026-11-11）による
 - id: MT-036
   domain: MT
   subdomain: ナイアシン・ビタミンB6の異常（過剰と欠乏）
@@ -1337,7 +1361,7 @@
     source_license: ライセンス表示を確認できず（© The Cleveland Clinic Foundation）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ33 2026-11-11）：壊血病の系統的レビュー（Nutrients、PMC13415094、CC BY、MT-022 と同じ候補）。裏づける部分と留保：皮膚所見（毛孔性角化・らせん状の毛髪・毛孔周囲の出血・点状出血）と創傷治癒の悪化は一致。「点状出血は遅れて現れる」という時系列とペラグラの要素は対象外
   uncertainty: 主張の内容は出典の本文（出版社ページ）で確認した範囲にとどめた。壊血病の歯肉出血や関節痛などの個別症状の詳細は、本出典の本文で確認した範囲を超えるものは含めていない。ビタミンC製剤とナイアシン製剤の国内の承認・保険適用は、本調査では確認していない（未確認）。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)'
@@ -1352,6 +1376,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ33 2026-11-11）。三原の承認（2026-11-11）による
 - id: MT-039
   domain: MT
   subdomain: ビタミン過剰症

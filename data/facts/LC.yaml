@@ -18,7 +18,7 @@
     source_license: 表示なし（掲載頁は (c) 国立研究開発法人国立がん研究センター。元データは人口動態統計）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_JP、作り手の調査バッチ32 2026-11-11）：厚生労働省 人口動態統計月報年計（概数）第6表（GOV_JP、新規 SRC 候補）。裏づける部分と留保：肺癌死亡数の規模は一致。概数は75,762人で、カードの確定数75,725人とは集計段階の違い（両値記録）。性別内訳は開いた総数表では未確認
   uncertainty: 表から読み取り。部位の区分は結腸と直腸を分けた集計で、大腸（結腸と直腸の合計）として集計すると女性の順位は変わりうる。罹患数・5年生存率の表は抽出できず未作成
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
 - id: LC-002
   domain: LC
   subdomain: 肺癌
@@ -228,7 +231,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ32 2026-11-11）：ClinicalTrials.gov NCT00047385（NLST、GOV_US、新規 SRC 候補）。裏づける部分と留保：肺癌死亡 HR 0.800・全死亡 HR 0.933 が一致
   uncertainty: 抄録で確認。対象の年齢と喫煙歴の条件は確認した頁に記載がなく、主張文に含めていない。DOI は未確認
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)；TBL-02-06-023 (id: JlAKpiY)'
@@ -243,6 +246,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
 - id: LC-008
   domain: LC
   subdomain: 肺癌
@@ -263,7 +269,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ32 2026-11-11）：ClinicalTrials.gov NCT00047385（NLST、同上）。裏づける部分と留保：3回の陽性数の合算から再計算した 24.2%・6.9% が一致
   uncertainty: 抄録で確認。陽性のうち肺癌だった割合（偽陽性の割合）は確認した頁に記載がなく未作成
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)；TBL-02-06-023 (id: JlAKpiY)'
@@ -278,6 +284,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
 - id: LC-009
   domain: LC
   subdomain: 肺癌
@@ -403,7 +412,7 @@
     source_license: © 2011 by the International Association for the Study of Lung Cancer
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ32 2026-11-11）：Diagnostics 2024 の AIS・MIA の総説（CC BY 4.0、PMC11675473、新規 SRC 候補）。裏づける部分と留保：AIS・MIA の定義が一致
   uncertainty: 2011年の分類。2021年の WHO 分類（第5版）にも AIS・MIA の区分は引き継がれているとされるが、今回 WHO 分類の文献は取得できなかった。DOI は未確認
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
@@ -418,6 +427,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
 - id: LC-013
   domain: LC
   subdomain: 肺癌
@@ -438,7 +450,7 @@
     source_license: © 2011 by the International Association for the Study of Lung Cancer
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ32 2026-11-11）：CC BY の全文2件（PMC13083043 ほか、新規 SRC 候補）。裏づける部分と留保：MIA の5年生存がほぼ100%であることは一致。AIS の疾患特異的生存率100%と BAC 廃止の推奨グレードは対象外
   uncertainty: 2011年の分類。生存率は分類の根拠として示された見込みで、新しい追跡研究との照合は未了
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
@@ -453,6 +465,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
 - id: LC-014
   domain: LC
   subdomain: 肺癌
@@ -508,7 +523,7 @@
     source_license: 未確認（機関リポジトリ掲載の刊行版）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ32 2026-11-11）：ClinicalTrials.gov NCT02296125（FLAURA、GOV_US、新規 SRC 候補）。裏づける部分と留保：OS の HR 0.799 が一致。CI 上限の記載差（抄録 0.997・本文 0.996）は登録値 0.9963 が本文側と整合
   uncertainty: ハザード比は抄録で0.799（95.05% CI 0.641〜0.997）、本文では上限が0.996と記載が異なる。無増悪生存期間の主解析（Soria 2018）は別の文献で未取得。オシメルチニブの国内承認・保険適用は未確認　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】オシメルチニブ（タグリッソ）は2016年3月28日に承認され、2016年5月25日に薬価収載・発売。その後、一次治療・術後補助療法等へ適応拡大済み
   curriculum:
     core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-01-00-643 (id: JlvnmcI)'
@@ -526,6 +541,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
 - id: LC-016
   domain: LC
   subdomain: 転移性肺腫瘍
@@ -1211,7 +1229,7 @@
     source_license: © Author(s) (or their employer(s)) 2023. No commercial re-use.
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ32 2026-11-11）：NCI PDQ「Cardiopulmonary Syndromes」専門家版（GOV_US、新規 SRC 候補）。裏づける部分と留保：留置型胸腔カテーテルが癒着術の代替で、選択は患者の選好によることは一致。再膨張不全25%の閾値と推奨グレードは対象外
   uncertainty: BTS 2023 の推奨文の要旨（英国）。日本の気胸・胸水診療の指針（日本気胸・囊胞性肺疾患学会など）は今回確認していない。タルクの国内承認状況は未確認
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-02-06-018 (id: JlAKpiI)'
@@ -1229,6 +1247,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: provenance.source_ref を SRC-485 から SRC-370 に付け替え（同じ文献の二重登録の解消、proposals/rs_duplicates_20261028.md、監修者の承認による。主張文・数値は変更なし）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
 - id: LC-036
   domain: LC
   subdomain: 癌性胸膜炎
@@ -1249,7 +1270,7 @@
     source_license: © Author(s) (or their employer(s)) 2023. No commercial re-use.
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ32 2026-11-11）：NCI PDQ「Cardiopulmonary Syndromes」専門家版（同上）。裏づける部分と留保：胸水細胞診の感度約65%・特異度97%は一致。提出量は BTS の 25〜50 mL に対し PDQ は「最低250 mL」で一致しない（両値記録、PDQ の値は裏づけに使わない）
   uncertainty: BTS 2023 の推奨文の要旨（英国）。日本の気胸・胸水診療の指針（日本気胸・囊胞性肺疾患学会など）は今回確認していない
   curriculum:
     core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-020 (id: JlAKpiQ)'
@@ -1267,6 +1288,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: provenance.source_ref を SRC-485 から SRC-370 に付け替え（同じ文献の二重登録の解消、proposals/rs_duplicates_20261028.md、監修者の承認による。主張文・数値は変更なし）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
 - id: LC-037
   domain: LC
   subdomain: 癌性リンパ管症
@@ -1392,7 +1416,7 @@
     source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ32 2026-11-11）：ClinicalTrials.gov NCT02142738（KEYNOTE-024、GOV_US、新規 SRC 候補）。裏づける部分と留保：PFS の HR 0.50 が完全一致。OS の HR はカードの初回報告 0.60 に対し登録側は後のデータカットの 0.63（両値記録）
   uncertainty: ペムブロリズマブの国内承認・保険適用の範囲は本調査では確認していない。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
@@ -1407,6 +1431,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
 - id: LC-041
   domain: LC
   subdomain: 肺癌
@@ -1462,7 +1489,7 @@
     source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ32 2026-11-11）：ClinicalTrials.gov NCT02125461（PACIFIC、GOV_US、新規 SRC 候補）。裏づける部分と留保：PFS 16.8 対 5.6 か月・HR 0.52 が完全一致。奏効率はカード 28.4% 対 16.0%（測定可能病変のある集団）、登録側 30.0% 対 17.8%（全無作為化集団）。死亡または遠隔転移までの期間も解析時点が異なる（23.2 対 14.6 か月と 28.3 対 16.2 か月、両値記録）
   uncertainty: デュルバルマブの国内承認・保険適用の範囲は本調査では確認していない。全生存期間の長期成績は5年追跡報告（LC-043）を参照。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
@@ -1477,6 +1504,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
 - id: LC-043
   domain: LC
   subdomain: 肺癌
@@ -1602,7 +1632,7 @@
     source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ32 2026-11-11）：ClinicalTrials.gov NCT02075840（ALEX、GOV_US、新規 SRC 候補）。裏づける部分と留保：PFS・ORR・CNS 進行の HR が一致。12か月累積 CNS 進行率はカード 9.4% 対 41.4%、登録側 11.8% 対 45.0%（両値記録）
   uncertainty: アレクチニブの国内承認用量・保険適用の範囲は本調査では確認していない。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
@@ -1617,6 +1647,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
 - id: LC-047
   domain: LC
   subdomain: 肺癌
@@ -1637,7 +1670,7 @@
     source_license: NEJM の利用規約（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ32 2026-11-11）：ClinicalTrials.gov NCT03052608（CROWN、GOV_US、新規 SRC 候補）。裏づける部分と留保：PFS の HR 0.28 と ORR が一致。頭蓋内奏効率はカード 82% 対 23%（測定可能な脳転移）、登録側 65.8% 対 20.0%（ベースラインに脳転移）で集団が異なる（両値記録）
   uncertainty: 本報告は計画された中間解析の結果である。ロルラチニブの国内承認・保険適用の範囲は本調査では確認していない。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
@@ -1652,6 +1685,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
 - id: LC-048
   domain: LC
   subdomain: 肺癌
@@ -1672,7 +1708,7 @@
     source_license: Elsevier の利用条件（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ32 2026-11-11）：NCI PDQ「Small Cell Lung Cancer Treatment」専門家版（GOV_US、新規 SRC 候補）。裏づける部分と留保：小細胞肺癌に TNM 分類を使うことを AJCC 第8版が勧めていることは一致。5,002例の解析自体は対象外。TNM は第9版が現行
   uncertainty: 限局型・進展型の定義そのものは本資料の主対象ではなく、別資料での確認が要る。脳のみの単一臓器転移の予後差が解剖学的進展度によるのか治療選択の差によるのかは、本論文でも未確定とされている。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
@@ -1687,6 +1723,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
 - id: LC-049
   domain: LC
   subdomain: 肺癌
@@ -1707,7 +1746,7 @@
     source_license: 出版社の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ32 2026-11-11）：ClinicalTrials.gov NCT02763579（IMpower133、GOV_US、新規 SRC 候補）。裏づける部分と留保：OS・PFS・1年生存割合がすべて一致
   uncertainty: アテゾリズマブの国内承認・保険適用の範囲は本調査では確認していない。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)'
@@ -1722,6 +1761,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
 - id: LC-050
   domain: LC
   subdomain: 胸膜中皮腫
@@ -1742,7 +1784,7 @@
     source_license: Elsevier の利用条件（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ32 2026-11-11）：ClinicalTrials.gov NCT02899299（CheckMate 743、GOV_US、新規 SRC 候補）。裏づける部分と留保：OS 18.07 対 14.09 か月・HR 0.74 が一致
   uncertainty: ニボルマブとイピリムマブ併用の国内承認・保険適用の範囲は本調査では確認していない。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-644 (id: JlvnmcM)'
@@ -1757,6 +1799,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
 - id: LC-051
   domain: LC
   subdomain: 胸膜中皮腫
@@ -1777,7 +1822,7 @@
     source_license: CC BY-NC-ND 4.0（Crossref の license 欄）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ32 2026-11-11）：ClinicalTrials.gov NCT02899299（CheckMate 743、同上）。裏づける部分と留保：OS 中央値と ORR は3年報告とほぼ一致。HR はカード 0.73、登録側 0.74（両値記録）
   uncertainty: ニボルマブとイピリムマブ併用の国内承認・保険適用の範囲は本調査では確認していない。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-644 (id: JlvnmcM)'
@@ -1792,6 +1837,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
 - id: LC-052
   domain: LC
   subdomain: 気管・気管支腫瘍
@@ -1892,7 +1940,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: PMDA イミフィンジ点滴静注 審査報告書（2025年8月6日）https://www.pmda.go.jp/drugs/2025/P20251007001/670227000_23000AMX00485_A100_1.pdf
+    corroboration: PMDA イミフィンジ点滴静注 審査報告書（2025年8月6日）https://www.pmda.go.jp/drugs/2025/P20251007001/670227000_23000AMX00485_A100_1.pdf。自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ32 2026-11-11）：ClinicalTrials.gov NCT03703297（ADRIATIC、GOV_US、新規 SRC 候補）。裏づける部分と留保：OS・PFS が完全一致
   uncertainty: PMID は未照合。国内ではデュルバルマブの効能に「限局型小細胞肺癌における根治的化学放射線療法後の維持療法」が含まれている（PMDA 審査報告書、2025年8月）
   curriculum:
     core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-01-00-643 (id: JlvnmcI)'
@@ -1910,6 +1958,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
 - id: LC-055
   domain: LC
   subdomain: 悪性リンパ腫
@@ -1930,7 +1981,7 @@
     source_license: College of American Pathologists（Archives of Pathology & Laboratory Medicine、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ32 2026-11-11）：NCI PDQ「Adult Non-Hodgkin Lymphoma Treatment」専門家版（GOV_US、新規 SRC 候補）。裏づける部分と留保：DLBCL の亜型であること、30〜40歳の女性に多いこと、気道圧迫の症状は一致。約5%の割合と症状の内訳は対象外
   uncertainty: 臨床像（若年発症、女性優位、圧迫症状の内訳）は総説本文に基づく。非Hodgkinリンパ腫に占める割合（約5%）は本総説の記載で、他の資料では2〜4%とするものもある。書誌・PMID・DOI は PubMed レコードで確認し、DOI は他論文の参考文献の表記とも一致した。治療（化学療法のレジメンなど）は本カードでは扱わず、悪性リンパ腫の他のカードが担う。個別の薬剤名は主張に含まない。
   curriculum:
     kokushi: 医学各論 Ⅳ-6-C-①（悪性リンパ腫、a）
@@ -1945,3 +1996,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による

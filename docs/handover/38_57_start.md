@@ -89,3 +89,4 @@
 - バッチ24（VS）を反映：裏づけ5件（2026-11-11）。C 33件は日本の学会 GL 本文固有。肺血栓塞栓症 GL 2025 を content_review に追記。CLAUDE.md の PMDA の注記を表の後ろに移した（表が崩れていたため）。
 - バッチ25（GN）〜28（PE）を反映：置き換え2（GN-013・017）、裏づけ（GN 15・SK 6・ES 6・PE 2）、区分の訂正2（SRC-4303・4310 を OPEN）、明確化4（2026-11-11）。KDIGO 新版・Alport 2024・WAO HAE 2025 などを content_review に追記。
 - バッチ29（RO）・31（GU）を反映：区分の訂正3（SRC-371・383・385 を OPEN、RO 7件）、明確化2、GU の裏づけ12（2026-11-11）。バッチ30（EN）は受け取ったファイルが途中で切れており（『...[truncated 9118 chars]』）B の一覧が読めないため未反映。作り手に再送を依頼する。
+- バッチ32（LC）・33（MT）を反映：裏づけ27件（LC 18・MT 9。ClinicalTrials.gov 14試験、NCI PDQ、NIH ODS、CC BY 総説、人口動態統計、PMDA のレパーサ審査報告書）、置き換え・区分の訂正はなし（2026-11-11）。識別子の補完候補（LC：PMID 8・DOI 2・PMCID 8、MT：PMCID 7）は --online の照合待ち。ESC/EAS 2025・痛風 GL 追補版・AAP 2023・TNM 第9版を content_review に追記。
