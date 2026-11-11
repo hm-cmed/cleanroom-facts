@@ -53,7 +53,7 @@
     source_license: CC BY-NC-ND（誌の標準ライセンス。個別レコードでは license 表示を確認できず）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ43 2026-11-11）：Gargano LP, de Paula TCS, Oliveira LA, et al. Update of the Brazilian Clinical Practice Guideline for primary immune thrombocytopenia: methodological process and main recommendations. Hematol Transfus Cell Ther. 2026（CC BY、PMID 42945908、DOI 10.1016/j.htct.2026.108564、PMC13734884、新規 SRC 候補）。裏づける部分：候補（ブラジル診療ガイドラインの2026年更新版、CC BY）に、初回薬物療法は臨床的に重要な出血がある場合、血小板数 30×10³/µL 未満、または 50×10³/µL 未満で出血・出血リスク因子がある場合に適応となり、第一選択は副腎皮質ステロイド（プレドニゾン、デキサメタゾン等）と明記される。数値の照合：治療開始の閾値（血小板数 30×10³/µL 未満）はカードと一致。留保：ASH 2019 の推奨の強さ（3万/µL未満で条件付きでステロイド投与を提案、3万/µL以上では経過観察を強い推奨、2万/µL未満では入院管理を提案）と、プレドニゾンを用いる場合の6週間以内の短期コースは候補に再掲がなく、その部分を留保して B。主出典（SRC-2642）は誌の標準ライセンスが CC BY-NC-ND で、マスターの RESTRICTED と矛盾しない'
   uncertainty: 推奨の強さと条件はASH 2019ガイドラインの抄録・本文で確認した表記どおり。初期治療の選択肢としてプレドニゾン0.5〜2.0 mg/kg/日またはデキサメタゾン40 mg/日×4日が本文に記載されている。副腎皮質ステロイドは国内でも成人ITPの第一選択と位置づけられている（成人ITP治療の参照ガイド2019年改訂版で確認）。
   curriculum:
     kokushi: 医学各論 Ⅶ-4-A-①（免疫性血小板減少症<ITP>、a）；医学各論 Ⅰ-1-C-④（免疫性血小板減少症<ITP>、c）
@@ -68,6 +68,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ43 2026-11-11）。三原の承認（2026-11-11）による
 - id: HS-003
   domain: HS
   subdomain: 免疫性血小板減少症<ITP>
@@ -193,7 +196,7 @@
     source_license: 出版社の著作物（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ43 2026-11-11）：Ismaiel R, AlMaqaleh A, Hussain RH, et al. Advances in rapid ADAMTS13 testing for thrombotic thrombocytopenic purpura: a systematic review of diagnostic assays and clinical prediction tools. Front Med. 2026（CC BY、PMID 42787177、DOI 10.3389/fmed.2026.1896867、PMC13600968、新規 SRC 候補）と Coppo P, Schwarzinger M, Buffet M, et al. Predictive features of severe acquired ADAMTS13 deficiency in idiopathic thrombotic microangiopathies: the French TMA reference center experience. PLoS One. 2010（CC BY、PMID 20436664、DOI 10.1371/journal.pone.0010208、PMC2859048、新規 SRC 候補）。裏づける部分：ADAMTS13 活性10%未満が診断の鍵となる閾値であること、PLASMIC・French・Bentley の臨床予測スコアの位置づけ、検査結果がすぐ得られないことが経験的治療の開始判断に影響すること（French スコアは Coppo 2010 が原典）。留保：ISTH の推奨文そのものとカプラシズマブ使用の判断への影響は載らない。作り手が併記した難病情報センターのページは政府資料でないため使わない'
   uncertainty: ISTHの診断ガイドライン（2020）の推奨は3件で、内容は抄録で確認した。カプラシズマブは後天性TTPの適応で2022年に国内承認され、薬価収載されている（承認番号と企業公表資料で確認）。
   curriculum:
     kokushi: 医学各論 Ⅶ-4-A-②（血栓性血小板減少性紫斑病<TTP>、a）
@@ -208,6 +211,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ43 2026-11-11）。三原の承認（2026-11-11）による
 - id: HS-007
   domain: HS
   subdomain: 血栓性血小板減少性紫斑病<TTP>
@@ -219,16 +225,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-2646
-    source: Zheng XL, Vesely SK, Cataland SR, et al. ISTH guidelines for treatment of thrombotic thrombocytopenic purpura. J Thromb Haemost. 2020;18(10):2496-2502.
-    doi: 10.1111/jth.15010
-    pmid: '32914526'
-    pmcid: PMC8091490
-    url: https://doi.org/10.1111/jth.15010
-    source_license: 出版社の著作物（Elsevier の TDM ライセンスのみ）
+    source_ref: SRC-5017
+    source: Rodgers GM. Update in treatment options for congenital and immune thrombotic thrombocytopenic purpura. Front Pharmacol. 2026
+    doi: 10.3389/fphar.2026.1841673
+    pmid: '42422077'
+    pmcid: PMC13342277
+    url: https://europepmc.org/article/MED/42422077
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-2646（Zheng XL, Vesely SK, Cataland SR, et al. ISTH guidelines for treatment of thrombotic thrombocytopenic purpura. J Thromb Haemost. 2020;18(10):2496-2502.）
   uncertainty: 推奨の強さはISTH治療ガイドライン（2020）の抄録で確認した表記どおり。カプラシズマブは2022年に国内承認・薬価収載され、投薬期間制限は2023年12月に解除された。リツキシマブは添付文書（PMDA）に後天性TTPの効能があることを確認したが、保険適用は難治例・再発例に限ると学会誌総説にあり、急性期の初期治療としての使用は保険適用外と「TTP診療ガイド2026」に記載されている。副腎皮質ステロイドのTTPへの使用自体は保険適用外と企業資料に明記されている（二次情報）。
   curriculum:
     kokushi: 医学各論 Ⅶ-4-A-②（血栓性血小板減少性紫斑病<TTP>、a）
@@ -243,6 +249,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-2646 から自由に使える資料 SRC-5017 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：主張全体：候補の表2（出典を Zheng ら 2025 と明示）に、免疫性 TTP の推奨治療として「血漿交換＋ステロイド（strong recommendation）、リツキシマブ（conditional recommendation）、カプラシズマブ（conditional recommendation）」が明記され、カードの3つの推奨とその強さがすべて一致する。数値：数値なし（該当なし）（作り手の調査バッチ43））。三原の承認（2026-11-11）による
 - id: HS-008
   domain: HS
   subdomain: 血栓性血小板減少性紫斑病<TTP>
@@ -263,7 +272,7 @@
     source_license: ライセンス表示を確認できず（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ43 2026-11-11）：Rodgers GM. Update in treatment options for congenital and immune thrombotic thrombocytopenic purpura. Front Pharmacol. 2026（CC BY、PMID 42422077、DOI 10.3389/fphar.2026.1841673、PMC13342277、新規 SRC 候補）。裏づける部分：候補の表2は、2025年 focused update（Zheng ら 2025）に基づく免疫性 TTP の推奨として2020年版と同一の強さを掲げており、「推奨は変更されなかった」という要素と整合する。表1と本文には、先天性 TTP では遺伝子組換え ADAMTS13 が優先される治療で、新鮮凍結血漿は遺伝子組換え ADAMTS13 が利用できない場合の選択肢であることが明記される（本文に「the preferred cTTP treatment at this time is rADAMTS13, or FFP infusions if rADAMTS13 is not available (Zheng et al., 2025)」）。数値の照合：該当なし。留保：「強い推奨（中等度の確実性）」という格付けの文言と「寛解期」という限定は候補に明記がなく、その部分を留保して B。ClinicalTrials.gov の遺伝子組換え ADAMTS13 第III相試験（NCT03393975）には結果が掲載されているが、推奨の格付け自体は裏づけない。遺伝子組換え ADAMTS13 製剤（アジンマ®）は日本血栓止血学会誌の総説によれば2024年3月に先天性 TTP の適応で国内承認されており、カードの「国内承認・保険適用は確認できなかった」は PMDA の全文文書で解消できる見込みである（学会誌の記載は判定根拠に使わず、登録時の確認事項として申し送る）
   uncertainty: 遺伝子組換えADAMTS13製剤の国内承認・保険適用の状況は、本リサーチでは確認できなかった。
   curriculum:
     kokushi: 医学各論 Ⅶ-4-A-②（血栓性血小板減少性紫斑病<TTP>、a）
@@ -278,6 +287,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ43 2026-11-11）。三原の承認（2026-11-11）による
 - id: HS-009
   domain: HS
   subdomain: 溶血性尿毒症症候群<HUS>
@@ -333,7 +345,7 @@
     source_license: 出版社の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ43 2026-11-11）：ClinicalTrials.gov 登録・結果レコード NCT00844545（血漿療法抵抗性の成人 aHUS）および NCT00838513（血漿療法継続中の成人 aHUS）（GOV_US、https://clinicaltrials.gov/study/NCT00844545、新規 SRC 候補）。裏づける部分：2試験の登録・結果レコードに、TMA イベントフリー割合、血小板数のベースラインからの変化、完全 TMA 反応などの結果が掲載される。血漿療法を継続していた群（NCT00838513）の TMA イベントフリー割合は80%で、カードと一致する。数値の照合：主張チェック：血漿療法抵抗性群の26週時点の血小板数変化は登録（NCT00844545）が +65.18×10⁹/L で、カードの +73×10⁹/L と異なる（解析集団・推定方法の違いによる可能性。両値を記録）。TMA イベントフリー 80% は登録と一致。留保：透析を受けていた5例中4例が透析を離脱したことと、「エクリズマブの開始が早いほど推算 GFR の改善が大きかった」という解析は登録の評価項目になく、その部分を留保して B。登録の2試験はいずれも成人対象で、カードの「12歳以上、計37例」（原著の2試験の合計）とは対象の枠組みが異なる
   uncertainty: 数値は抄録から読み取った。エクリズマブは国内で2013年9月にaHUSへの適応が承認され、保険適用がある（企業公表資料で確認）。効能は「非典型溶血性尿毒症症候群における血栓性微小血管症の抑制」であり、志賀毒素産生性大腸菌によるHUSは適応に含まれない。本出典は出典マスター登録済みのSRC-638を再利用した。
   curriculum:
     kokushi: 医学各論 Ⅶ-4-A-③（溶血性尿毒症症候群<HUS>、a）
@@ -348,6 +360,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ43 2026-11-11）。三原の承認（2026-11-11）による
 - id: HS-011
   domain: HS
   subdomain: 溶血性尿毒症症候群<HUS>
@@ -368,7 +383,7 @@
     source_license: CC BY-NC-ND 4.0（Crossref・Europe PMC で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ43 2026-11-11）：ClinicalTrials.gov 登録・結果レコード NCT02949128（ALXN1210、補体阻害薬未治療の aHUS）（GOV_US、https://clinicaltrials.gov/study/NCT02949128、新規 SRC 候補）。裏づける部分：登録の結果レコードに、主要評価項目「26週時点の完全 TMA 反応」が 53.6% と掲載され、その構成要素（血小板数の正常化 83.9%、LDH の正常化 76.8%、血清クレアチニンの25%以上の改善 58.9%）もカードの定義（血小板数と LDH の正常化、血清クレアチニンの25%以上の改善）と一致する。登録の介入欄には、維持投与が体重別の用量で8週ごとであることが明記される。数値の照合：完全 TMA 反応 53.6% は登録と一致。留保：「エクリズマブから設計された長時間作用型の C5 阻害薬」という設計の要素と、エクリズマブの2週ごと投与との対比（間隔を2週から8週に延長できる）は登録に明記がなく、その部分を留保して B。主出典（SRC-2649）は Crossref・Europe PMC の両経路で CC BY-NC-ND 4.0 を確認し、マスターの RESTRICTED と一致する
   uncertainty: 数値は抄録から読み取った。ラブリズマブは国内で2020年9月にaHUSの適応追加が承認され、保険適用がある（企業公表資料で確認）。維持投与は体重20kg以上で8週に1回とされる。
   curriculum:
     kokushi: 医学各論 Ⅶ-4-A-③（溶血性尿毒症症候群<HUS>、a）
@@ -383,6 +398,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ43 2026-11-11）。三原の承認（2026-11-11）による
 - id: HS-012
   domain: HS
   subdomain: ヘパリン起因性血小板減少症<HIT>
@@ -402,7 +420,7 @@
     url: https://doi.org/10.1182/bloodadvances.2018024489
     source_license: © The American Society of Hematology（CCライセンスの明示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値はASH 2018ガイドラインの抄録と本文で確認した。本出典のライセンス表示はPMC、Crossref、Europe PMCのいずれでも確認できなかったため、source_classはUNKNOWNとした。国際的にはBSH第3版（2024）がより新しいが、抄録の詳細を照合できていないため本カードではASH 2018を用いた。
   curriculum:
@@ -418,6 +436,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2650 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: HS-013
   domain: HS
   subdomain: ヘパリン起因性血小板減少症<HIT>
@@ -437,7 +458,7 @@
     url: https://doi.org/10.1182/bloodadvances.2018024489
     source_license: © The American Society of Hematology（CCライセンスの明示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 推奨の強さはASH 2018ガイドラインの抄録で確認した表記どおり。急性HITの治療における非ヘパリン抗凝固薬（アルガトロバン、ビバリルジン、ダナパロイド、フォンダパリヌクス、直接経口抗凝固薬）の選択は、同ガイドラインで条件付き推奨とされている。各薬剤の国内承認の確認状況は、本パートの日本側のカード（HS-014）のuncertaintyにまとめた。
   curriculum:
@@ -453,6 +474,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2650 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: HS-014
   domain: HS
   subdomain: ヘパリン起因性血小板減少症<HIT>
@@ -508,7 +532,7 @@
     source_license: 出版社の著作物（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ43 2026-11-11）：Pan Y, Yao D, Le M, Tan Z, Liu J, Ni J, Chen Z, Ye B. Thrombocytopenia: from physiological homeostasis imbalance to mechanism-driven precision diagnosis and therapy. Front Immunol. 2026（CC BY、DOI 10.3389/fimmu.2026.1907704、PMC13656083、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、薬剤がハプテンとして働くか血小板膜糖タンパク質の立体構造を変えることで薬剤依存性抗体が生じ、補体の活性化と網内系による貪食によって血小板が破壊されるという DITP の機序が明記され、カードの機序の要素（薬剤の存在下でのみ血小板に結合する薬剤依存性抗体による血小板破壊）は裏づけられる。数値の照合：該当なし。留保：「通常は新規薬剤の開始後1〜2週間以内に、急性でしばしば重症の血小板減少として発症する」という経過の要素は、自由な全文に一般論としての再掲が確認できず、その部分を留保して B。候補は2026年9月公開で Europe PMC では PMID が未割当のため、PMCID と DOI で同定した。候補のライセンスは Europe PMC の表示と全文のライセンス表示で CC BY 4.0 を確認（Crossref のライセンス欄は本調査時点で未登録）'
   uncertainty: 内容は抄録と本文冒頭で確認した。DITPの原因薬剤は多岐にわたり、薬剤ごとの因果関係の証拠の強さは、公表報告を集めたデータベースで整理されている（本文で確認）。
   curriculum:
     kokushi: 医学各論 Ⅶ-4-A-⑤（二次性血小板減少症、b）
@@ -523,6 +547,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ43 2026-11-11）。三原の承認（2026-11-11）による
 - id: HS-016
   domain: HS
   subdomain: 二次性血小板減少症
@@ -648,7 +675,7 @@
     source_license: Wiley（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ43 2026-11-11）：Dushimova Z, Pashimov M, Kaibullayeva J, et al. Therapeutic advances in hemophilia: from molecular innovation to patient-centered global care. Front Med. 2025（CC BY、PMID 41080961、DOI 10.3389/fmed.2025.1618464、PMC12507939、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、2歳前に開始する一次予防（定期補充）が血友病性関節症の回避に重要であること（Nilsson らの先駆的研究への言及）、予防投与が長期の関節障害を抑えること、関節内出血の反復が慢性の関節症に進むことが明記され、低年齢からの定期補充による出血抑制と関節症の予防という主張の実質は裏づけられる。数値の照合：該当なし。留保：「標準治療と位置づけられる」という WFH ガイドラインの格付けそのものは候補に再掲がなく、その部分を留保して B。主出典（SRC-1857）は Crossref が Wiley の VoR 利用条件のみで自由利用ではない'
   uncertainty: WFH ガイドライン第3版（2020年）に基づく。同ガイドラインは PubMed に抄録がなく、定期補充の位置づけはリサーチで国内公的資料・企業公表資料による紹介を通じて確認した範囲である。エミシズマブ（第VIII因子の補因子機能を代替する二重特異性抗体）は国内で2018年3月にインヒビター保有の先天性血友病Aで承認され、その後インヒビター非保有例にも適応が拡大され、保険適用がある（中外製薬の公表資料で確認）。
   curriculum:
     kokushi: 医学各論 Ⅶ-4-B-①（血友病、a）
@@ -663,6 +690,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ43 2026-11-11）。三原の承認（2026-11-11）による
 - id: HS-020
   domain: HS
   subdomain: 血友病
@@ -718,7 +748,7 @@
     source_license: Springer（購読制、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ43 2026-11-11）：Yang H, Ma X, Li X. The diagnosis of DIC: a current overview. Front Med. 2025（CC BY、PMID 39958822、DOI 10.3389/fmed.2025.1502628、PMC11825743、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、DIC の診断がスコアリングシステムに基づくことが、旧厚生省（JMHW）基準（1983年）、ISTH 基準（2001年）、JAAM 基準（2006年）、日本血栓止血学会（JSTH）基準、敗血症性凝固障害（SIC）基準（2017年）の一覧とともに明記され、各基準の利点・欠点の比較表もある。カードに挙がる4系統の基準（JSTH・ISTH overt・JAAM・SIC）が併存することは裏づけられる。数値の照合：JSTH 基準の年次は候補が2016年としており、カードとガイドラインの「2017年版」という表記と異なる（基準自体は同一系統のもの。両表記を記録）。留保：「2024年版 DIC 診療ガイドラインは、それぞれの診断特性を理解したうえで適切な基準を選ぶことを推奨する」という推奨文そのものは候補になく、その部分を留保して B。主出典の英語版（Int J Hematol）は Crossref のライセンスが Springer の TDM リンクのみで CC BY ではないことを個別に確認した。バッチ42 で JSH ガイドライン英語版に章ごとの CC BY があったのとは異なり、本ガイドラインの Part 1・2 はいずれも自由利用ではない'
   uncertainty: 日本血栓止血学会『DIC診療ガイドライン2024』の Part 1（敗血症編）の診断に関する臨床課題での記載に基づく総論である。敗血症に伴う凝固障害の詳細は感染症分野の範囲、産科 DIC の原因疾患と管理は Ⅰ の範囲であり、本カードは診断基準の総論に限る。日本語版ガイドラインは日本血栓止血学会誌 2025;36(1):68-156 に掲載されている。
   curriculum:
     kokushi: 医学各論 Ⅶ-4-B-②（播種性血管内凝固<DIC>、a）；医学各論 Ⅰ-2-J-②（播種性血管内凝固<DIC>、a）
@@ -733,6 +763,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ43 2026-11-11）。三原の承認（2026-11-11）による
 - id: HS-022
   domain: HS
   subdomain: 播種性血管内凝固<DIC>
@@ -788,7 +821,7 @@
     source_license: Elsevier の TDM ライセンスのみ（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ43 2026-11-11）：Ito T, Thachil J, Asakura H, Levy JH, Iba T. Thrombomodulin in disseminated intravascular coagulation and other critical conditions-a multi-faceted anticoagulant protein. Crit Care. 2019（CC BY、PMID 31416465、DOI 10.1186/s13054-019-2552-0、PMC6694689、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、日本で造血器腫瘍または感染症に伴う DIC の234例を対象とした第III相・無作為化・二重盲検・並行群間試験（Saito ら）で、DIC 解消率が遺伝子組換えトロンボモジュリン群 66.1% 対 ヘパリン群 49.9% であったこと、出血関連有害事象が 43.1% 対 56.5% でトロンボモジュリン群で少なかったことが明記される。数値の照合：DIC 解消率 66.1%・49.9% と出血関連有害事象 43.1%・56.5% は候補と一致。候補の表にある 65.6%・45.9% は造血器腫瘍のサブグループの集計で、カードの全体の値とは対象集団が異なる（混同しないよう記録）。留保：対照群が「低用量ヘパリン」であるという修飾は候補に明記がなく、その部分を留保して B とした（バッチ42 LY-017 の扱いに同じ）。ClinicalTrials.gov に本試験の登録はなく（2007年の国内試験）、国内の登録レコードでも裏づけは得られなかった。候補のライセンスは Europe PMC と Crossref の VoR の両方で CC BY 4.0 を確認
   uncertainty: 234例を対象とした二重盲検試験の抄録で確認した（DIC 解消率の差は16.2%、95%信頼区間3.3〜29.1）。トロンボモジュリン アルファ（リコモジュリン）は国内で DIC の適応で承認・保険適用されており、通常の用量は1日1回380 U/kg の点滴静注である（PMDA の審査資料で確認）。海外では DIC の適応で承認されていない国が多い。
   curriculum:
     kokushi: 医学各論 Ⅶ-4-B-②（播種性血管内凝固<DIC>、a）
@@ -803,6 +836,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ43 2026-11-11）。三原の承認（2026-11-11）による
 - id: HS-024
   domain: HS
   subdomain: von Willebrand病
@@ -823,7 +859,7 @@
     source_license: Blood Advances の標準ライセンスは CC BY-NC-ND（Crossref の license 欄は空）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ43 2026-11-11）：Casari C, Sadler B, Susen S, Lassila R. Von Willebrand disease: A century of progress. Res Pract Thromb Haemost. 2026（CC BY、PMID 42405180、DOI 10.1016/j.rpth.2026.106790、PMC13330522、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、von Willebrand 病が最も頻度の高い先天性（遺伝性）出血性疾患であること、1型と3型は量的欠乏（3型はほぼ完全な欠乏による）、2型は質的異常でサブタイプ A・B・M・N に分かれることが明記され、分類の要素は裏づけられる。数値の照合：候補は 30〜50 IU/dL を「軽度に低い VWF」の範囲として論じるが、カードの診断規則（VWF レベル 0.30 IU/mL 未満は出血の有無にかかわらず1型と診断し、異常出血がある患者では 0.50 IU/mL 未満で1型の診断が確定する）そのものの再掲はない（枠組みの違いを記録）。留保：診断閾値の要素を留保して B。主出典（SRC-2658）は Blood Advances の標準ライセンスが CC BY-NC-ND で、マスターの RESTRICTED と矛盾しない'
   uncertainty: ASH ISTH NHF WFH 2021 診断ガイドラインの推奨6（強い推奨）に基づく数値で、PMC 全文で確認した。頻度は人口の最大約1%とされる。国内では日本血栓止血学会の診療ガイドライン（2021年）があり、その正確な書誌は組み立て時の確認事項である。
   curriculum:
     kokushi: 医学各論 Ⅶ-4-B-③（von Willebrand病、b）
@@ -838,6 +874,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ43 2026-11-11）。三原の承認（2026-11-11）による
 - id: HS-025
   domain: HS
   subdomain: von Willebrand病
@@ -858,7 +897,7 @@
     source_license: Blood Advances の標準ライセンスは CC BY-NC-ND（Crossref の license 欄は空）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ43 2026-11-11）：Ștefan M, Filipescu D, Predoi C, Văleanu L, Andrei Ș, Tomescu D. Normal Haemostasis, Inherited Bleeding Disorders and Surgery: What Does the Anaesthesiologist Need to Know? Medicina (Kaunas). 2025（CC BY、PMID 40572775、DOI 10.3390/medicina61061087、PMC12194927、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、von Willebrand 病の手術では第VIII因子活性と VWF レベルをいずれも 0.50 IU/mL 超に保ち、少なくとも術後3日間維持することで止血が得られることが、ガイドラインを踏まえたレビューとして明記される。デスモプレシンが1型 von Willebrand 病の治療に用いられることも述べられる。数値の照合：目標値 0.50 IU/mL は候補と一致。留保：「大手術時」という限定は候補では周術期一般の形で述べられ、VWF 濃縮製剤とデスモプレシンが治療の中心であるという構成も候補の記述は部分的であり、その部分を留保して B。主出典（SRC-2659）には PMCID PMC7805326 があり（PMID で個別に再照会しタイトル・著者を確認）、マスター未登録のため補完候補'
   uncertainty: ASH ISTH NHF WFH 2021 管理ガイドラインに基づく。デスモプレシンは国内で von Willebrand病への適応があり、承認・保険適用されている。遺伝子組換え VWF 製剤（ボニコグ アルファ）の国内承認年はリサーチで未確認である。
   curriculum:
     kokushi: 医学各論 Ⅶ-4-B-③（von Willebrand病、b）
@@ -873,6 +912,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ43 2026-11-11）。三原の承認（2026-11-11）による
 - id: HS-026
   domain: HS
   subdomain: 自己免疫性後天性凝固因子欠乏症
@@ -963,7 +1005,7 @@
     source_license: CC BY-NC-ND 4.0（Crossref の license 欄で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ43 2026-11-11）：NIH Office of Dietary Supplements「Vitamin K — Health Professional Fact Sheet」（GOV_US、https://ods.od.nih.gov/factsheets/vitaminK-HealthProfessional、新規 SRC 候補）。裏づける部分：NIH ODS の医療者向けファクトシート（GOV_US）に、ビタミンKがビタミンK依存性カルボキシラーゼの補酵素として、止血（血液凝固）に関わるタンパク質の合成に必要な酵素反応に関与すること、プロトロンビン（凝固第II因子）がビタミンK依存性タンパク質の代表であること、欠乏の古典的な徴候が出血と出血傾向であることが明記され、ビタミンK欠乏が凝固タンパク質の機能低下による凝固障害・出血傾向の原因となるという主張の骨格は裏づけられる。数値の照合：該当なし。留保：「凝固カスケードに関わる7種のタンパク質の翻訳後修飾に必要」という数え方と表現は ODS のファクトシートにその形ではなく、その部分を留保して B。主出典（SRC-2661）は Crossref・Europe PMC の両経路で CC BY-NC-ND 4.0 を確認し、マスターの RESTRICTED と一致する
   uncertainty: 総説（Nutrition Reviews 2022）に基づく総論の範囲に限る。成人のビタミンK欠乏症に絞ったガイドライン級の一次資料はリサーチで確定できず、背景疾患（吸収障害、肝胆道疾患、抗菌薬使用など）別の詳細は本リサーチでは未確認のため主張に入れていない。小児・新生児のビタミンK欠乏性出血は第41回 PB の範囲であり、本カードは成人の欠乏症の総論である。ビタミンK製剤は国内で承認・保険適用のある薬剤である。
   curriculum:
     kokushi: 医学各論 Ⅶ-4-B-⑤（ビタミンK欠乏症、b）
@@ -978,6 +1020,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ43 2026-11-11）。三原の承認（2026-11-11）による
 - id: HS-029
   domain: HS
   subdomain: IgA血管炎
@@ -998,7 +1043,7 @@
     source_license: Elsevier の TDM ライセンスのみ（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ43 2026-11-11）：Jelusic M, Sestan M, Giani T, Cimaz R. New Insights and Challenges Associated With IgA Vasculitis and IgA Vasculitis With Nephritis-Is It Time to Change the Paradigm? Front Pediatr. 2022 ／ Welfringer-Morin A, Leclerc-Mercier S. Cutaneous Pediatric Vasculitis: A Clinico-Histopathological Overview of Common and Novel Entities. Dermatopathology (Basel). 2026（CC BY、PMID 35372148、DOI 10.3389/fped.2022.853724、PMC8965283、新規 SRC 候補）。裏づける部分：候補1（Jelusic ら 2022、CC BY）に、下肢優位の紫斑・点状出血が EULAR/PRINTO/PRES の Ankara 2008 分類基準の必須項目（mandatory classification criterion）であることが明記される。候補2（Welfringer-Morin ら 2026、CC BY）には、同基準の項目として腎障害（蛋白尿・血尿）と IgA 沈着を示す典型的な病理所見が列記され、2008年 Ankara 分類が IgA 沈着を基準に含むことも述べられる。数値の照合：該当なし。留保：必須項目＋「腹痛、IgA 沈着を示す病理所見、関節炎または関節痛、腎障害の4項目のうち1つ以上」という充足形式そのものは、両候補とも図・列記の中での提示で、文としての完全な再掲は確認できなかったため、その部分を留保して B とした。本カードの主張が分類基準であって診断基準そのものではない点は、カードの uncertainty の記載どおりである。候補のライセンスはいずれも Europe PMC と Crossref の VoR の両方で CC BY 4.0 を確認（候補2：PMID 42647384、DOI 10.3390/dermatopathology13030037、PMCID PMC13510461）'
   uncertainty: EULAR/PRINTO/PRES の Ankara 2008 分類基準（Part II で検証済み）であり、診断基準そのものではないことに注意する。腎炎の詳細は腎分野の既存カードを正とし、本カードは出血傾向としての血管炎の側面に限る。
   curriculum:
     kokushi: 医学各論 Ⅶ-4-C-①（IgA血管炎、b）
@@ -1013,6 +1058,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ43 2026-11-11）。三原の承認（2026-11-11）による
 - id: HS-030
   domain: HS
   subdomain: IgA血管炎
@@ -1033,7 +1081,7 @@
     source_license: Springer Nature の TDM ライセンスのみ（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ43 2026-11-11）：Gage A, Pepper RJ, Marro J, Salama AD, Oni L. IgA Vasculitis Across the Ages: Is It Time for a Precision Medicine Approach? ACR Open Rheumatol. 2025（CC BY、PMID 40937635、DOI 10.1002/acr2.70083、PMC12426765、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、小児ではおおむね自己限定的であるのに対し成人では罹患・死亡が有意に多く、より進行した腎疾患の形で現れること、再発率が小児の平均約15%に対し成人で約30%であること、成人の死亡リスクは重症の消化管病変などと関連すること、腎炎（持続する蛋白尿・腎機能障害）がある例で予後が悪く慢性腎臓病のリスク因子となることが明記され、成人発症は頻度が低く予後が悪く、予後が消化管合併症と腎障害・CKD への進行に左右されるという主張の方向は裏づけられる。数値の照合：再発率（成人約30%・小児約15%）は候補の記載で、カードの主張にない周辺の数値であり、主張の数値との食い違いではない。留保：「短期予後は主に消化管合併症によって、長期予後は腎障害と CKD への進行によって決まる」という時間軸での整理と、「成人には検証された診断基準がない」という要素は候補にその形ではなく、その部分を留保して B。主出典（SRC-2663）は Crossref が Springer Nature の TDM のみで自由利用ではない'
   uncertainty: 成人発症 IgA血管炎のエビデンスに基づくガイドライン（Nature Reviews Rheumatology 2026、14の推奨文からなる）に基づく。腎障害の管理の詳細は腎分野の既存カードを正とし、本カードは疾患の全体像と予後の側面に限る。
   curriculum:
     kokushi: 医学各論 Ⅶ-4-C-①（IgA血管炎、b）
@@ -1048,6 +1096,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ43 2026-11-11）。三原の承認（2026-11-11）による
 - id: HS-031
   domain: HS
   subdomain: 遺伝性出血性末梢血管拡張症<Osler病>
@@ -1067,7 +1118,7 @@
     url: https://doi.org/10.7326/M20-1443
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 国際ガイドライン第2版（2020年）の抄録で確認した範囲である。診断基準（Curaçao criteria）の文面は抄録の範囲では確認できなかったため主張に入れていない。出典マスターの登録では PMID が未登録だが、リサーチで PubMed 照合により PMID 32894695 を特定した。ガイドラインは妊娠・分娩に関する推奨を含むが、妊娠管理の詳細は Ⅰ の範囲である。
   curriculum:
@@ -1083,6 +1134,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-449 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: HS-032
   domain: HS
   subdomain: 先天性血栓形成傾向
@@ -1173,7 +1227,7 @@
     source_license: BMJ（© Author(s) 2023、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ43 2026-11-11）：Stańczewska A, Szewczyk-Golec K, Hołyńska-Iwan I. Antiphospholipid Syndrome-Diagnostic and Methodologic Approach. Metabolites. 2025（CC BY、PMID 40863119、DOI 10.3390/metabo15080500、PMC12388502、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、2023年 ACR/EULAR 分類基準の入口基準（文書化された臨床基準を少なくとも1つ満たし、その確認から3年以内に抗リン脂質抗体検査が陽性であること）が基準の図の形で明記され、臨床ドメイン（D1〜D6 の6つ）と検査ドメインの重み付きスコアで、臨床・検査の両ドメインで各3点以上を集めた場合に抗リン脂質抗体症候群と分類することが示される。検証での特異度99%・感度84%も本文に明記される（「99% specificity and 84% sensitivity」）。数値の照合：特異度99%・感度84% は候補と一致。改訂札幌基準（2006年）の特異度86%という比較値は候補になく、その部分は裏づけられていない（両値のうち片方のみ確認）。留保：改訂札幌基準との比較の要素を留保して B。本カードの主張が研究・治験のための分類基準であって診断基準そのものではない点は、カードの uncertainty の記載どおり。候補のライセンスは Europe PMC と Crossref の VoR の両方で CC BY 4.0 を確認
   uncertainty: 研究・治験のための分類基準であり、診断基準そのものではない。数値は抄録で確認した。全身性エリテマトーデスなど基礎疾患としての側面は Ⅺ の範囲であり、本カードは血栓形成傾向としての側面に限る。
   curriculum:
     kokushi: 医学各論 Ⅶ-4-D-②（後天性血栓形成傾向、b）
@@ -1188,6 +1242,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ43 2026-11-11）。三原の承認（2026-11-11）による
 - id: HS-035
   domain: HS
   subdomain: 後天性血栓形成傾向
@@ -1199,16 +1256,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-2666
-    source: Tektonidou MG, Andreoli L, Limper M, et al. EULAR recommendations for the management of antiphospholipid syndrome in adults. Ann Rheum Dis. 2019;78(10):1296-1304
-    doi: 10.1136/annrheumdis-2019-215213
-    pmid: '31092409'
-    pmcid: PMC11034817
-    url: https://doi.org/10.1136/annrheumdis-2019-215213
-    source_license: BMJ（CC表示なし）
+    source_ref: SRC-5018
+    source: Stańczewska A, Szewczyk-Golec K, Hołyńska-Iwan I. Antiphospholipid Syndrome-Diagnostic and Methodologic Approach. Metabolites. 2025
+    doi: 10.3390/metabo15080500
+    pmid: '40863119'
+    pmcid: PMC12388502
+    url: https://europepmc.org/article/MED/40863119
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-2666（Tektonidou MG, Andreoli L, Limper M, et al. EULAR recommendations for the management of antiphospholipid syndrome in adults. Ann Rheum Dis. 2019;78(10):1296-1304）
   uncertainty: EULAR 推奨（2019年）の抄録で確認した。ワルファリンなどのビタミンK拮抗薬は国内で承認・保険適用のある抗凝固薬である。直接経口抗凝固薬の抗リン脂質抗体症候群に対する国内の適応は、個別の添付文書では未確認である。
   curriculum:
     kokushi: 医学各論 Ⅶ-4-D-②（後天性血栓形成傾向、b）
@@ -1223,3 +1280,6 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-2666 から自由に使える資料 SRC-5018 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：主張全体：候補に、抗リン脂質抗体症候群の患者の二次予防の推奨表（2019年 EULAR 推奨に基づく）として「初めての静脈血栓塞栓症ではビタミンK拮抗薬による治療が推奨される（INR 2.0〜3.0）」「三重陽性の患者にはリバーロキサバンを使用すべきでない」が明記され、本文にも「非誘発性静脈血栓症の患者は目標 INR 2.0〜3.0 のビタミンK拮抗薬等で長期治療すべきである」旨が EULAR 推奨の引用として明記される。数値：目標 INR 2.0〜3.0 は候補と一致（作り手の調査バッチ43））。三原の承認（2026-11-11）による

@@ -1,0 +1,53 @@
+{
+ "class": [
+  [
+   "SRC-2650",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-449",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [
+  [
+   "HS-007",
+   "SRC-2646",
+   "SRC-5017"
+  ],
+  [
+   "HS-035",
+   "SRC-2666",
+   "SRC-5018"
+  ]
+ ],
+ "B": [
+  "HS-002",
+  "HS-006",
+  "HS-008",
+  "HS-010",
+  "HS-011",
+  "HS-015",
+  "HS-019",
+  "HS-021",
+  "HS-023",
+  "HS-024",
+  "HS-025",
+  "HS-028",
+  "HS-029",
+  "HS-030",
+  "HS-034"
+ ],
+ "new_src": [
+  [
+   "SRC-5017",
+   "Rodgers GM. Update in treatment options for congenital and immune thrombotic thr"
+  ],
+  [
+   "SRC-5018",
+   "Stańczewska A, Szewczyk-Golec K, Hołyńska-Iwan I. Antiphospholipid Syndrome-Diag"
+  ]
+ ]
+}

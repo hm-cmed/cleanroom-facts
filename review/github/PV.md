@@ -347,7 +347,7 @@
 
 - 条件：population: HHT の小児／region: 国際／guideline: 第2版国際 HHT GL 2020
 - 不確実性：HHT ガイドライン公式サイトの補足資料（小児・妊娠の章）で確認。成人のスクリーニングの推奨は本文の該当部分で確認していない。PMID・頁未確認。
-- 出典：Faughnan ME, Mager JJ, Hetts SW, et al. Second International Guidelines for the Diagnosis and Management of Hereditary Hemorrhagic Telangiectasia. Ann Intern Med 2020;173（2020年9月8日 早期公開）　[DOI 10.7326/M20-1443](https://doi.org/10.7326/M20-1443)（区分 UNKNOWN）
+- 出典：Faughnan ME, Mager JJ, Hetts SW, et al. Second International Guidelines for the Diagnosis and Management of Hereditary Hemorrhagic Telangiectasia. Ann Intern Med 2020;173（2020年9月8日 早期公開）　[DOI 10.7326/M20-1443](https://doi.org/10.7326/M20-1443)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-E（肺動静脈瘻、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-029&card_id=PV-029&version=b258167bc7)　（版 `b258167bc7`）
 
@@ -358,7 +358,7 @@
 - 条件：population: HHT の小児／region: 国際／guideline: 第2版国際 HHT GL 2020
 - よくある誤解：肺動静脈瘻は低酸素血症がなければ治療しない
 - 不確実性：補足資料で確認。無症状の小児では通常5年ごとにスクリーニングを繰り返す（強い推奨）。
-- 出典：Faughnan ME, Mager JJ, Hetts SW, et al. Second International Guidelines for the Diagnosis and Management of Hereditary Hemorrhagic Telangiectasia. Ann Intern Med 2020;173（2020年9月8日 早期公開）　[DOI 10.7326/M20-1443](https://doi.org/10.7326/M20-1443)（区分 UNKNOWN）
+- 出典：Faughnan ME, Mager JJ, Hetts SW, et al. Second International Guidelines for the Diagnosis and Management of Hereditary Hemorrhagic Telangiectasia. Ann Intern Med 2020;173（2020年9月8日 早期公開）　[DOI 10.7326/M20-1443](https://doi.org/10.7326/M20-1443)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-E（肺動静脈瘻、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-030&card_id=PV-030&version=801841d36f)　（版 `801841d36f`）
 
@@ -368,7 +368,7 @@
 
 - 条件：population: HHT の妊婦／region: 国際／guideline: 第2版国際 HHT GL 2020
 - 不確実性：補足資料の背景の記述で確認。妊娠に関する推奨本体（合意率・推奨の強さ）は抽出範囲外で未確認。
-- 出典：Faughnan ME, Mager JJ, Hetts SW, et al. Second International Guidelines for the Diagnosis and Management of Hereditary Hemorrhagic Telangiectasia. Ann Intern Med 2020;173（2020年9月8日 早期公開）　[DOI 10.7326/M20-1443](https://doi.org/10.7326/M20-1443)（区分 UNKNOWN）
+- 出典：Faughnan ME, Mager JJ, Hetts SW, et al. Second International Guidelines for the Diagnosis and Management of Hereditary Hemorrhagic Telangiectasia. Ann Intern Med 2020;173（2020年9月8日 早期公開）　[DOI 10.7326/M20-1443](https://doi.org/10.7326/M20-1443)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-E（肺動静脈瘻、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-031&card_id=PV-031&version=d3c35698ce)　（版 `d3c35698ce`）
 

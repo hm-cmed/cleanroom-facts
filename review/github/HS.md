@@ -78,9 +78,9 @@
 
 - 条件：region: 国際／対象: 免疫性TTP患者
 - 不確実性：推奨の強さはISTH治療ガイドライン（2020）の抄録で確認した表記どおり。カプラシズマブは2022年に国内承認・薬価収載され、投薬期間制限は2023年12月に解除された。リツキシマブは添付文書（PMDA）に後天性TTPの効能があることを確認したが、保険適用は難治例・再発例に限ると学会誌総説にあり、急性期の初期治療としての使用は保険適用外と「TTP診療ガイド2026」に記載されている。副腎皮質ステロイドのTTPへの使用自体は保険適用外と企業資料に明記されている（二次情報）。
-- 出典：Zheng XL, Vesely SK, Cataland SR, et al. ISTH guidelines for treatment of thrombotic thrombocytopenic purpura. J Thromb Haemost. 2020;18(10):2496-2502.　[DOI 10.1111/jth.15010](https://doi.org/10.1111/jth.15010)　[PMID 32914526](https://pubmed.ncbi.nlm.nih.gov/32914526/)（区分 RESTRICTED）
+- 出典：Rodgers GM. Update in treatment options for congenital and immune thrombotic thrombocytopenic purpura. Front Pharmacol. 2026　[DOI 10.3389/fphar.2026.1841673](https://doi.org/10.3389/fphar.2026.1841673)　[PMID 42422077](https://pubmed.ncbi.nlm.nih.gov/42422077/)（区分 OPEN）
 - 出題基準：医学各論 Ⅶ-4-A-②（血栓性血小板減少性紫斑病<TTP>、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；TBL-01-00-016 (id: JlvnlZQ)；TBL-02-01-014 (id: JlAKpWU)；TBL-02-01-015 (id: JlAKpWY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HS-007&card_id=HS-007&version=59f7ce8254)　（版 `59f7ce8254`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HS-007&card_id=HS-007&version=10e2fa6d2c)　（版 `10e2fa6d2c`）
 
 ### HS-008　下書き（出典の照合前）
 
@@ -92,7 +92,7 @@
 - 出題基準：医学各論 Ⅶ-4-A-②（血栓性血小板減少性紫斑病<TTP>、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；TBL-01-00-022 (id: JlvnlZs)；TBL-02-01-015 (id: JlAKpWY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HS-008&card_id=HS-008&version=d4bbfc1c58)　（版 `d4bbfc1c58`）
 
-**[ここまでの 4 件（HS-005〜HS-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HS-005%E3%80%9CHS-008&cards=HS-005%20b1985f4ab5%0AHS-006%20dbbf86b410%0AHS-007%2059f7ce8254%0AHS-008%20d4bbfc1c58)**
+**[ここまでの 4 件（HS-005〜HS-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HS-005%E3%80%9CHS-008&cards=HS-005%20b1985f4ab5%0AHS-006%20dbbf86b410%0AHS-007%2010e2fa6d2c%0AHS-008%20d4bbfc1c58)**
 
 ---
 
@@ -140,7 +140,7 @@
 
 - 条件：region: 国際／対象: ヘパリン投与患者
 - 不確実性：数値はASH 2018ガイドラインの抄録と本文で確認した。本出典のライセンス表示はPMC、Crossref、Europe PMCのいずれでも確認できなかったため、source_classはUNKNOWNとした。国際的にはBSH第3版（2024）がより新しいが、抄録の詳細を照合できていないため本カードではASH 2018を用いた。
-- 出典：Cuker A, Arepally GM, Chong BH, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia. Blood Adv. 2018;2(22):3360-3392.　[DOI 10.1182/bloodadvances.2018024489](https://doi.org/10.1182/bloodadvances.2018024489)　[PMID 30482768](https://pubmed.ncbi.nlm.nih.gov/30482768/)（区分 UNKNOWN）
+- 出典：Cuker A, Arepally GM, Chong BH, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia. Blood Adv. 2018;2(22):3360-3392.　[DOI 10.1182/bloodadvances.2018024489](https://doi.org/10.1182/bloodadvances.2018024489)　[PMID 30482768](https://pubmed.ncbi.nlm.nih.gov/30482768/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-4-A-④（ヘパリン起因性血小板減少症<HIT>、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-02-01-015 (id: JlAKpWY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HS-012&card_id=HS-012&version=c444463383)　（版 `c444463383`）
 
@@ -150,7 +150,7 @@
 
 - 条件：region: 国際／対象: ヘパリン投与患者
 - 不確実性：推奨の強さはASH 2018ガイドラインの抄録で確認した表記どおり。急性HITの治療における非ヘパリン抗凝固薬（アルガトロバン、ビバリルジン、ダナパロイド、フォンダパリヌクス、直接経口抗凝固薬）の選択は、同ガイドラインで条件付き推奨とされている。各薬剤の国内承認の確認状況は、本パートの日本側のカード（HS-014）のuncertaintyにまとめた。
-- 出典：Cuker A, Arepally GM, Chong BH, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia. Blood Adv. 2018;2(22):3360-3392.　[DOI 10.1182/bloodadvances.2018024489](https://doi.org/10.1182/bloodadvances.2018024489)　[PMID 30482768](https://pubmed.ncbi.nlm.nih.gov/30482768/)（区分 UNKNOWN）
+- 出典：Cuker A, Arepally GM, Chong BH, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia. Blood Adv. 2018;2(22):3360-3392.　[DOI 10.1182/bloodadvances.2018024489](https://doi.org/10.1182/bloodadvances.2018024489)　[PMID 30482768](https://pubmed.ncbi.nlm.nih.gov/30482768/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-4-A-④（ヘパリン起因性血小板減少症<HIT>、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-02-01-015 (id: JlAKpWY)；TBL-02-01-017 (id: JlAKpWk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HS-013&card_id=HS-013&version=d78e7c6fe9)　（版 `d78e7c6fe9`）
 
@@ -384,7 +384,7 @@
 
 - 条件：region: 国際／対象: 遺伝性出血性末梢血管拡張症の患者
 - 不確実性：国際ガイドライン第2版（2020年）の抄録で確認した範囲である。診断基準（Curaçao criteria）の文面は抄録の範囲では確認できなかったため主張に入れていない。出典マスターの登録では PMID が未登録だが、リサーチで PubMed 照合により PMID 32894695 を特定した。ガイドラインは妊娠・分娩に関する推奨を含むが、妊娠管理の詳細は Ⅰ の範囲である。
-- 出典：Faughnan ME, Mager JJ, Hetts SW, et al. Second International Guidelines for the Diagnosis and Management of Hereditary Hemorrhagic Telangiectasia. Ann Intern Med. 2020;173(12):989-1001　[DOI 10.7326/M20-1443](https://doi.org/10.7326/M20-1443)　[PMID 32894695](https://pubmed.ncbi.nlm.nih.gov/32894695/)（区分 UNKNOWN）
+- 出典：Faughnan ME, Mager JJ, Hetts SW, et al. Second International Guidelines for the Diagnosis and Management of Hereditary Hemorrhagic Telangiectasia. Ann Intern Med. 2020;173(12):989-1001　[DOI 10.7326/M20-1443](https://doi.org/10.7326/M20-1443)　[PMID 32894695](https://pubmed.ncbi.nlm.nih.gov/32894695/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-4-C-②（遺伝性出血性末梢血管拡張症<Osler病>、c）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-02-01-014 (id: JlAKpWU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HS-031&card_id=HS-031&version=61a9e435e0)　（版 `61a9e435e0`）
 
@@ -436,11 +436,11 @@
 
 - 条件：region: 国際／対象: 抗リン脂質抗体症候群の患者
 - 不確実性：EULAR 推奨（2019年）の抄録で確認した。ワルファリンなどのビタミンK拮抗薬は国内で承認・保険適用のある抗凝固薬である。直接経口抗凝固薬の抗リン脂質抗体症候群に対する国内の適応は、個別の添付文書では未確認である。
-- 出典：Tektonidou MG, Andreoli L, Limper M, et al. EULAR recommendations for the management of antiphospholipid syndrome in adults. Ann Rheum Dis. 2019;78(10):1296-1304　[DOI 10.1136/annrheumdis-2019-215213](https://doi.org/10.1136/annrheumdis-2019-215213)　[PMID 31092409](https://pubmed.ncbi.nlm.nih.gov/31092409/)（区分 RESTRICTED）
+- 出典：Stańczewska A, Szewczyk-Golec K, Hołyńska-Iwan I. Antiphospholipid Syndrome-Diagnostic and Methodologic Approach. Metabolites. 2025　[DOI 10.3390/metabo15080500](https://doi.org/10.3390/metabo15080500)　[PMID 40863119](https://pubmed.ncbi.nlm.nih.gov/40863119/)（区分 OPEN）
 - 出題基準：医学各論 Ⅶ-4-D-②（後天性血栓形成傾向、b）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-019 (id: JlvnlZo)；TBL-02-01-017 (id: JlAKpWk)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HS-035&card_id=HS-035&version=8c446eb4d1)　（版 `8c446eb4d1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HS-035&card_id=HS-035&version=96abc55ca3)　（版 `96abc55ca3`）
 
-**[ここまでの 2 件（HS-034〜HS-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HS-034%E3%80%9CHS-035&cards=HS-034%20fe1cbaf933%0AHS-035%208c446eb4d1)**
+**[ここまでの 2 件（HS-034〜HS-035）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HS-034%E3%80%9CHS-035&cards=HS-034%20fe1cbaf933%0AHS-035%2096abc55ca3)**
 
 ---
 
