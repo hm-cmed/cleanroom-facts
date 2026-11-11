@@ -13,7 +13,7 @@
 - 条件：guideline: COPD 診断と治療のためのガイドライン 第7版 2026（日本呼吸器学会）／region: 日本
 - よくある誤解：COPD 患者の大部分はすでに診断され治療を受けている
 - 不確実性：英語版の抄録で確認した内容。8.6%の根拠となる疫学調査は本文で確認が要る。二次資料経由
-- 出典：Sugiura H, Fujino N, Shibata Y, Muro S, Matsunaga K, Horita N, Kawayama T. The JRS guideline for the management of chronic obstructive pulmonary disease 7th edition 2026. Respir Investig 2026;64(5):101482 (Epub 2026 Jul 14)　[DOI 10.1016/j.resinv.2026.101482](https://doi.org/10.1016/j.resinv.2026.101482)　[PMID 42447589](https://pubmed.ncbi.nlm.nih.gov/42447589/)（区分 UNKNOWN）
+- 出典：Sugiura H, Fujino N, Shibata Y, Muro S, Matsunaga K, Horita N, Kawayama T. The JRS guideline for the management of chronic obstructive pulmonary disease 7th edition 2026. Respir Investig 2026;64(5):101482 (Epub 2026 Jul 14)　[DOI 10.1016/j.resinv.2026.101482](https://doi.org/10.1016/j.resinv.2026.101482)　[PMID 42447589](https://pubmed.ncbi.nlm.nih.gov/42447589/)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-2-C-①（慢性閉塞性肺疾患<COPD>、喘息COPDオーバーラップ<ACO>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-215 (id: JlvnlyE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-001&card_id=RO-001&version=80a65d98a8)　（版 `80a65d98a8`）
 
@@ -33,7 +33,7 @@
 
 - 条件：guideline: COPD 診断と治療のためのガイドライン 第7版 2026（日本呼吸器学会）／region: 日本
 - 不確実性：英語版の抄録で確認した内容。本文は未確認
-- 出典：Sugiura H, Fujino N, Shibata Y, Muro S, Matsunaga K, Horita N, Kawayama T. The JRS guideline for the management of chronic obstructive pulmonary disease 7th edition 2026. Respir Investig 2026;64(5):101482 (Epub 2026 Jul 14)　[DOI 10.1016/j.resinv.2026.101482](https://doi.org/10.1016/j.resinv.2026.101482)　[PMID 42447589](https://pubmed.ncbi.nlm.nih.gov/42447589/)（区分 UNKNOWN）
+- 出典：Sugiura H, Fujino N, Shibata Y, Muro S, Matsunaga K, Horita N, Kawayama T. The JRS guideline for the management of chronic obstructive pulmonary disease 7th edition 2026. Respir Investig 2026;64(5):101482 (Epub 2026 Jul 14)　[DOI 10.1016/j.resinv.2026.101482](https://doi.org/10.1016/j.resinv.2026.101482)　[PMID 42447589](https://pubmed.ncbi.nlm.nih.gov/42447589/)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-2-C-①（慢性閉塞性肺疾患<COPD>、喘息COPDオーバーラップ<ACO>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-215 (id: JlvnlyE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-003&card_id=RO-003&version=177a0d0eb5)　（版 `177a0d0eb5`）
 
@@ -43,7 +43,7 @@
 
 - 条件：guideline: COPD 診断と治療のためのガイドライン 第7版 2026（日本呼吸器学会）／region: 日本
 - 不確実性：英語版の抄録で確認した内容。デュピルマブの推奨の強さ・対象の基準（好酸球数など）と、日本での COPD への承認状況は確認していない
-- 出典：Sugiura H, Fujino N, Shibata Y, Muro S, Matsunaga K, Horita N, Kawayama T. The JRS guideline for the management of chronic obstructive pulmonary disease 7th edition 2026. Respir Investig 2026;64(5):101482 (Epub 2026 Jul 14)　[DOI 10.1016/j.resinv.2026.101482](https://doi.org/10.1016/j.resinv.2026.101482)　[PMID 42447589](https://pubmed.ncbi.nlm.nih.gov/42447589/)（区分 UNKNOWN）
+- 出典：Sugiura H, Fujino N, Shibata Y, Muro S, Matsunaga K, Horita N, Kawayama T. The JRS guideline for the management of chronic obstructive pulmonary disease 7th edition 2026. Respir Investig 2026;64(5):101482 (Epub 2026 Jul 14)　[DOI 10.1016/j.resinv.2026.101482](https://doi.org/10.1016/j.resinv.2026.101482)　[PMID 42447589](https://pubmed.ncbi.nlm.nih.gov/42447589/)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-2-C-①（慢性閉塞性肺疾患<COPD>、喘息COPDオーバーラップ<ACO>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-215 (id: JlvnlyE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-004&card_id=RO-004&version=2b7f9e613f)　（版 `2b7f9e613f`）
 
@@ -164,7 +164,7 @@
 - 条件：guideline: COPD 診断と治療のためのガイドライン 第7版 2026（日本呼吸器学会）／region: 日本
 - よくある誤解：ACO は欧米に多く、日本ではまれである
 - 不確実性：英語版の抄録で確認した内容。ACO の診断基準と治療は本文で確認が要る。日本呼吸器学会の喘息と COPD のオーバーラップ診断と治療の手引き第2版（2023年）の英語要約（Respir Investig）があり、次回以降に照合が要る
-- 出典：Sugiura H, Fujino N, Shibata Y, Muro S, Matsunaga K, Horita N, Kawayama T. The JRS guideline for the management of chronic obstructive pulmonary disease 7th edition 2026. Respir Investig 2026;64(5):101482 (Epub 2026 Jul 14)　[DOI 10.1016/j.resinv.2026.101482](https://doi.org/10.1016/j.resinv.2026.101482)　[PMID 42447589](https://pubmed.ncbi.nlm.nih.gov/42447589/)（区分 UNKNOWN）
+- 出典：Sugiura H, Fujino N, Shibata Y, Muro S, Matsunaga K, Horita N, Kawayama T. The JRS guideline for the management of chronic obstructive pulmonary disease 7th edition 2026. Respir Investig 2026;64(5):101482 (Epub 2026 Jul 14)　[DOI 10.1016/j.resinv.2026.101482](https://doi.org/10.1016/j.resinv.2026.101482)　[PMID 42447589](https://pubmed.ncbi.nlm.nih.gov/42447589/)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-2-C-①（慢性閉塞性肺疾患<COPD>、喘息COPDオーバーラップ<ACO>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-215 (id: JlvnlyE)；TBL-01-00-217 (id: JlvnlyQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-015&card_id=RO-015&version=b54839719b)　（版 `b54839719b`）
 
@@ -181,7 +181,7 @@
 - 条件：guideline: 喘息予防・管理ガイドライン（JGL2021、日本アレルギー学会）／region: 日本
 - よくある誤解：喘息の長期管理は症状のあるときだけ短時間作用性β2刺激薬を使えばよい
 - 不確実性：英語版の要約（抄録）で確認した内容。最新版は JGL2024 だが、英語版の要約を確認できなかったため JGL2021 を出典にした。GINA（RO-021）とは段階数や発作治療薬の扱いが異なる
-- 出典：Niimi A, Fukunaga K, Taniguchi M, et al. Executive summary: Japanese guidelines for adult asthma (JGL) 2021. Allergol Int 2023;72(2):207-226　[DOI 10.1016/j.alit.2023.02.006](https://doi.org/10.1016/j.alit.2023.02.006)（区分 UNKNOWN）
+- 出典：Niimi A, Fukunaga K, Taniguchi M, et al. Executive summary: Japanese guidelines for adult asthma (JGL) 2021. Allergol Int 2023;72(2):207-226　[DOI 10.1016/j.alit.2023.02.006](https://doi.org/10.1016/j.alit.2023.02.006)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-217 (id: JlvnlyQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-016&card_id=RO-016&version=e8938fc4eb)　（版 `e8938fc4eb`）
 
@@ -399,7 +399,7 @@
 - 条件：region: 国際
 - よくある誤解：気道異物は必ずむせた病歴がある
 - 不確実性：成人を対象とした総説の記述。小児の気道異物は小児の回で扱う
-- 出典：Chi J, Bai Y. Bronchoscopic management of airway foreign bodies in adults: a narrative educational review. Front Med 2026;13:1779715　[DOI 10.3389/fmed.2026.1779715](https://doi.org/10.3389/fmed.2026.1779715)（区分 UNKNOWN）
+- 出典：Chi J, Bai Y. Bronchoscopic management of airway foreign bodies in adults: a narrative educational review. Front Med 2026;13:1779715　[DOI 10.3389/fmed.2026.1779715](https://doi.org/10.3389/fmed.2026.1779715)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-2-A-④（気道異物、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-032&card_id=RO-032&version=0055214c59)　（版 `0055214c59`）
 
@@ -410,7 +410,7 @@
 - 条件：region: 国際
 - よくある誤解：CT で異物が見えなければ気道異物は否定できる
 - 不確実性：感度・特異度と成功率は総説が引用したメタ解析の値で、原著は未確認。二次資料経由
-- 出典：Chi J, Bai Y. Bronchoscopic management of airway foreign bodies in adults: a narrative educational review. Front Med 2026;13:1779715　[DOI 10.3389/fmed.2026.1779715](https://doi.org/10.3389/fmed.2026.1779715)（区分 UNKNOWN）
+- 出典：Chi J, Bai Y. Bronchoscopic management of airway foreign bodies in adults: a narrative educational review. Front Med 2026;13:1779715　[DOI 10.3389/fmed.2026.1779715](https://doi.org/10.3389/fmed.2026.1779715)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-2-A-④（気道異物、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-02-06-024 (id: JlAKpic)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-033&card_id=RO-033&version=c09296475d)　（版 `c09296475d`）
 
@@ -427,7 +427,7 @@
 - 条件：region: 国際
 - よくある誤解：胸部X線で肺の外側に透亮像があれば必ず気胸として胸腔ドレーンを入れる
 - 不確実性：症例報告にもとづく記述。ブラ（1 cm 以上）とブレブ（臓側胸膜内）の大きさ・位置による定義はこの出典で確認できなかった
-- 出典：Goldberg C, Carey KE. Bullous Lung Disease. West J Emerg Med 2013;14(5):450-　[リンク](https://westjem.com/articles/bullous-lung-disease.html)（区分 UNKNOWN）
+- 出典：Goldberg C, Carey KE. Bullous Lung Disease. West J Emerg Med 2013;14(5):450-　[リンク](https://westjem.com/articles/bullous-lung-disease.html)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-2-B-①（気腫性囊胞<ブラ、ブレブ>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-216 (id: JlvnlyM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-034&card_id=RO-034&version=1d7aec95f7)　（版 `1d7aec95f7`）
 
@@ -470,7 +470,7 @@
 - 条件：region: 国際
 - よくある誤解：胸部X線が正常なら気管・気管支損傷は否定できる
 - 不確実性：胸部X線で異常がない例が10〜20%あるとされる。数値は総説が引用した文献の値で、原著は未確認。二次資料経由
-- 出典：Prokakis C, Koletsis EN, Dedeilias P, et al. Airway trauma: a review on epidemiology, mechanisms of injury, diagnosis and treatment. J Cardiothorac Surg 2014;9:117　[DOI 10.1186/1749-8090-9-117](https://doi.org/10.1186/1749-8090-9-117)（区分 UNKNOWN）
+- 出典：Prokakis C, Koletsis EN, Dedeilias P, et al. Airway trauma: a review on epidemiology, mechanisms of injury, diagnosis and treatment. J Cardiothorac Surg 2014;9:117　[DOI 10.1186/1749-8090-9-117](https://doi.org/10.1186/1749-8090-9-117)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-2-D-①（気管・気管支損傷、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-036&card_id=RO-036&version=4994336319)　（版 `4994336319`）
 

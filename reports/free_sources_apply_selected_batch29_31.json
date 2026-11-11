@@ -1,0 +1,45 @@
+{
+ "class": [
+  [
+   "SRC-371",
+   "UNKNOWN",
+   "OPEN"
+  ],
+  [
+   "SRC-385",
+   "UNKNOWN",
+   "OPEN"
+  ],
+  [
+   "SRC-383",
+   "UNKNOWN",
+   "OPEN"
+  ],
+  [
+   "SRC-374",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-384",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [],
+ "B": [
+  "GU-001",
+  "GU-002",
+  "GU-004",
+  "GU-012",
+  "GU-014",
+  "GU-015",
+  "GU-016",
+  "GU-018",
+  "GU-019",
+  "GU-020",
+  "GU-021",
+  "GU-022"
+ ],
+ "new_src": []
+}

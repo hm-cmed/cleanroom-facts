@@ -4525,14 +4525,17 @@
   doi: 10.1016/j.resinv.2026.101482
   pmid: '42447589'
   pmcid: null
-  license_note: 未確認（ScienceDirect の取得に失敗）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（ScienceDirect の取得に失敗）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
 - id: SRC-372
   legacy_id: null
   title: 日本呼吸器学会 COPD ガイドライン第6版作成委員会. COPD（慢性閉塞性肺疾患）診断と治療のためのガイドライン 第6版 2022（学会サイト掲載 PDF：巻頭ガイドラインサマリー）
@@ -4570,14 +4573,17 @@
   doi: 10.1016/j.alit.2023.02.006
   pmid: null
   pmcid: null
-  license_note: 未確認（J-STAGE の表示は「© 2023 by Japanese Society of Allergology」「JOURNAL FREE ACCESS」のみ）
+  license_note: CC BY-NC-ND 4.0（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（J-STAGE の表示は「© 2023 by Japanese Society of Allergology」「JOURNAL FREE ACCESS」のみ）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-375
   legacy_id: null
   title: Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2026 update (Strategy Report)
@@ -4705,14 +4711,17 @@
   doi: 10.3389/fmed.2026.1779715
   pmid: null
   pmcid: null
-  license_note: 未確認（取得した本文にライセンスの表示なし）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（取得した本文にライセンスの表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
 - id: SRC-384
   legacy_id: null
   title: Goldberg C, Carey KE. Bullous Lung Disease. West J Emerg Med 2013;14(5):450-
@@ -4720,14 +4729,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 未確認（記事ページに CC BY のアイコン表示はあるが、版の表示なし）
+  license_note: CC BY-NC（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（記事ページに CC BY のアイコン表示はあるが、版の表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-385
   legacy_id: null
   title: 'Prokakis C, Koletsis EN, Dedeilias P, et al. Airway trauma: a review on epidemiology, mechanisms of injury, diagnosis and treatment. J Cardiothorac Surg 2014;9:117'
@@ -4735,14 +4747,17 @@
   doi: 10.1186/1749-8090-9-117
   pmid: null
   pmcid: null
-  license_note: 未確認（オープンアクセスの表示のみ。ライセンスの版は未確認）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（オープンアクセスの表示のみ。ライセンスの版は未確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
 - id: SRC-410
   legacy_id: null
   title: 'Raghu G, Remy-Jardin M, Richeldi L, et al. Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2022;205:e18-e47'

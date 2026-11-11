@@ -18,7 +18,7 @@
     source_license: 出版社（Springer Nature）の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ31 2026-11-11）：NCI PDQ「Renal Cell Cancer Treatment」（GOV_US、新規 SRC 候補、PMID 26389256）。裏づける部分と留保：限局例は外科的切除で治癒しうること、淡明細胞型を中心とする組織型の枠組み、転移例で VEGF 標的薬や免疫療法が柱になることは一致。「腎臓の癌の90%超」（PDQ は「腎細胞癌の約85%が腺癌」という別の母集団の値）、サブタイプ数、淡明細胞型が死亡の大部分を占める点は対象外
   uncertainty: 病期分類（TNM）の具体的な区分や腫瘍径の閾値、腎部分切除と全摘除の選択基準は抄録では確認できないため本カードには含めていない。分子標的薬・免疫チェックポイント阻害薬の国内の承認・保険適用の個別確認はしていない。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-656 (id: JlvnmdY)'
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ31 2026-11-11）。三原の承認（2026-11-11）による
 - id: GU-002
   domain: GU
   subdomain: 転移性腎細胞癌
@@ -53,7 +56,7 @@
     source_license: 出版社（NEJM）の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ31 2026-11-11）：ClinicalTrials.gov NCT02231749（CheckMate 214、GOV_US、新規 SRC 候補）。裏づける部分と留保：中・高リスクの死亡 HR 0.63 が解析値と完全一致、奏効率 41.6% 対 26.5% はカードの 42% 対 27% と一致。18か月全生存割合・完全奏効率・グレード3〜4有害事象の割合は登録結果の範囲外
   uncertainty: 追跡期間中央値25.2か月時点の結果である。ニボルマブ、イピリムマブ、スニチニブの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ニボルマブ＋イピリムマブ併用療法は化学療法未治療の進行腎細胞癌に対して2018年8月に承認され、スニチニブも腎細胞癌の適応で承認・保険適用あり（PMDA最適使用推進ガイドライン、承認時資料）。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-656 (id: JlvnmdY)'
@@ -71,6 +74,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ31 2026-11-11）。三原の承認（2026-11-11）による
 - id: GU-003
   domain: GU
   subdomain: 腎細胞癌
@@ -126,7 +132,7 @@
     source_license: 欧州泌尿器科学会（EAU）のガイドライン、Elsevier 掲載（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ31 2026-11-11）：NCI PDQ「Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment」（GOV_US、新規 SRC 候補）。裏づける部分と留保：根治的腎尿管全摘（膀胱カフを含む）が標準であること、低悪性度・低病期の選択例で腎温存的アプローチが位置づけられることは一致。診断時の浸潤例約60%、リンチ症候群の評価、術後プラチナ・ニボルマブは対象外
   uncertainty: 欧州のガイドラインの推奨文に基づく記述である。リスク分類の具体的な判定項目と数値閾値はガイドライン本文の表から読み取る必要があるため本カードには含めていない。プラチナ製剤とニボルマブの国内の承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ニボルマブは「尿路上皮癌における術後補助療法」を2022年3月28日に国内承認（腎盂・尿管原発を含む）。根治切除不能な尿路上皮癌への併用療法も2024年12月27日に承認。プラチナ製剤は標準の承認薬（PMDA承認情報、2026-10-31確認）
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-657 (id: Jlvnmdg)'
@@ -144,6 +150,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ31 2026-11-11）。三原の承認（2026-11-11）による
 - id: GU-005
   domain: GU
   subdomain: 腎盂・尿管癌
@@ -415,7 +424,7 @@
     source_license: 出版社（Wiley）の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_JP、作り手の調査バッチ31 2026-11-11）：国立がん研究センター「有効性評価に基づく前立腺がん検診ガイドライン」（GOV_JP、新規 SRC 候補）。裏づける部分と留保：PSA 検診は推奨グレード I で対策型検診として勧められないこと、任意型では利益と不利益を説明し個人の判断に委ねることは全文と一致。学会側のカットオフ値（4.0、年齢別 3.0・3.5・4.0 ng/mL）と検診間隔は対象外
   uncertainty: カットオフ値と検診間隔は、総説本文に記載された学会ガイドラインの内容を読み取ったものである（本文から読み取り）。学会ガイドラインと公的ガイドラインで推奨が異なる点に注意が必要である。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-658 (id: Jlvnmdk)'
@@ -430,6 +439,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP、作り手の調査バッチ31 2026-11-11）。三原の承認（2026-11-11）による
 - id: GU-013
   domain: GU
   subdomain: 前立腺癌
@@ -485,7 +497,7 @@
     source_license: 出版社（Springer Nature）の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ31 2026-11-11）：NCI PDQ「Prostate Cancer Treatment」（GOV_US、新規 SRC 候補）。裏づける部分と留保：PSA・直腸指診の異常を契機に針生検で診断すること、監視療法・全摘・放射線治療が選択肢であること、限局性疾患の予後が良好なことは一致。10年全生存割合 99% という数値そのものは対象外（PDQ は5年相対生存率の指標）
   uncertainty: リスク分類の具体的な境界値（PSA値、グリソンスコア、病期による層別）は原著の表から読み取る必要があるため、本カードには分類の数値を含めていない（表から読み取りが必要）。10年全生存割合99%は低〜中リスクの限局性疾患が早期に発見・治療された場合の記載である。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-658 (id: Jlvnmdk)'
@@ -500,6 +512,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ31 2026-11-11）。三原の承認（2026-11-11）による
 - id: GU-015
   domain: GU
   subdomain: 前立腺癌
@@ -520,7 +535,7 @@
     source_license: 出版社（NEJM）の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ31 2026-11-11）：ClinicalTrials.gov NCT01715285（LATITUDE、GOV_US、新規 SRC 候補）。裏づける部分と留保：画像的無増悪生存の中央値 33.02 対 14.78 か月・HR 0.466 がカードと一致。全生存期間は登録側が後年の解析値（53.32 対 36.53 か月、HR 0.661）で、カードの初回中間解析値と両値記録（発見3）
   uncertainty: アビラテロンとプレドニゾンの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。対象は新規診断の高リスク転移性去勢感受性前立腺癌に限られる。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アビラテロン（ザイティガ）は2014年に去勢抵抗性前立腺癌で承認され、その後適応が拡大している。併用のプレドニゾン（プレドニゾロン）も承認薬。「未確認」は解消できる
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-658 (id: Jlvnmdk)'
@@ -538,6 +553,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ31 2026-11-11）。三原の承認（2026-11-11）による
 - id: GU-016
   domain: GU
   subdomain: 前立腺癌
@@ -558,7 +576,7 @@
     source_license: 出版社（NEJM）の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ31 2026-11-11）：ClinicalTrials.gov NCT01212991（PREVAIL、GOV_US、新規 SRC 候補）。裏づける部分と留保：OS HR 0.706・rPFS HR 0.186 がカードの 0.71・0.19 と一致。12か月時点の無増悪生存割合 65% 対 14% という割合の形は登録結果の範囲外
   uncertainty: エンザルタミドの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。数値は中間解析（データカットオフ時点）を含む結果である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】エンザルタミド（イクスタンジ）は2014-03-24に去勢抵抗性前立腺癌で承認され、その後「遠隔転移を有する前立腺癌」も追加され（2020年、PMDA審査報告書）、承認・保険適用あり。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-658 (id: Jlvnmdk)'
@@ -576,6 +594,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ31 2026-11-11）。三原の承認（2026-11-11）による
 - id: GU-017
   domain: GU
   subdomain: 前立腺癌
@@ -631,7 +652,7 @@
     source_license: 出版社（NEJM）の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ31 2026-11-11）：ClinicalTrials.gov NCT02632409（CheckMate 274、GOV_US、新規 SRC 候補）。裏づける部分と留保：無病生存の中央値 20.76 対 10.84 か月・HR 0.70 がカードと一致。PD-L1 1%以上集団の HR はカード 0.55 に対し登録側 0.54（両値記録、発見3）。6か月時点の割合と有害事象の割合は範囲外
   uncertainty: 上部尿路原発は登録全体の約2割に制限された試験であり、上部尿路原発のみでの効果量は限定的である。ニボルマブの国内の承認・保険適用は未確認であり、取り込み側で確認が必要である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】GU-004と同じ：ニボルマブの尿路上皮癌術後補助療法は2022年3月28日に国内承認済み（PMDA承認情報、2026-10-31確認）
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-657 (id: Jlvnmdg)'
@@ -649,6 +670,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ31 2026-11-11）。三原の承認（2026-11-11）による
 - id: GU-019
   domain: GU
   subdomain: セミノーマの治療
@@ -669,7 +693,7 @@
     source_license: 非営利利用のみ許可（出版社表示。CC BY-NC 相当）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ31 2026-11-11）：NCI PDQ「Testicular Cancer Treatment」（GOV_US、新規 SRC 候補）。裏づける部分と留保：低病期セミノーマの治癒率がほぼ100%に近づくこと、セミノーマ/非セミノーマで進め方が分かれることは一致。危険因子と因子数別の5年再発率（12%・16%・32%）、病期 II 期の使い分けは対象外
   uncertainty: 2010年の総説に基づいており、現在のガイドラインの推奨とは異なる可能性がある。カルボプラチンを含む化学療法薬の国内承認・保険適用の状況は未確認である。出典論文の DOI は PMC・出版社 PDF・大学リポジトリのいずれでも表示を確認できず null とした。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-659 (id: Jlvnmds)'
@@ -684,6 +708,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ31 2026-11-11）。三原の承認（2026-11-11）による
 - id: GU-020
   domain: GU
   subdomain: 非セミノーマ性胚細胞腫瘍の治療
@@ -704,7 +731,7 @@
     source_license: 非営利利用のみ許可（出版社表示。CC BY-NC 相当）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ31 2026-11-11）：NCI PDQ「Testicular Cancer Treatment」（同上）。裏づける部分と留保：低病期の非セミノーマでも治癒率がほぼ100%に近づくこと、転移例では IGCCCG 分類で層別化する枠組みは一致。BEP のコース数、残存腫瘤の内訳の割合、晩期再発の定義は本調査で開いた範囲では数値まで確認できず
   uncertainty: 2010年の総説に基づいており、現在のガイドラインの推奨とは異なる可能性がある。BEP 療法を構成する薬剤（ブレオマイシン、エトポシド、シスプラチン）の国内承認・保険適用の状況は未確認である。出典論文の DOI は確認できず null とした（SRC-737 の出典表を参照）。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-659 (id: Jlvnmds)'
@@ -719,6 +746,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ31 2026-11-11）。三原の承認（2026-11-11）による
 - id: GU-021
   domain: GU
   subdomain: 精巣腫瘍の腫瘍マーカーと病期分類
@@ -739,7 +769,7 @@
     source_license: 非営利利用のみ許可（出版社表示。CC BY-NC 相当）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ31 2026-11-11）：NCI PDQ「Testicular Cancer Treatment」（同上）。裏づける部分と留保：マーカー（AFP・β-hCG・LDH）を摘除前後に測ること、AFP は純粋なセミノーマでは産生されず上昇例は非セミノーマとして扱うこと、β-hCG 上昇が非セミノーマの 40〜60%、TNM に S 分類を加えること、IGCCCG で層別化することは一致。AFP 上昇率はカード 50〜70% に対し PDQ 40〜60%（両値記録、発見3）。IGCCCG 原典の5年生存率（90%・80%・50%）は PDQ の現行表には載らない
   uncertainty: S 分類と IGCCCG 分類の数値は、論文の表（TNM 分類表と IGCCCG 分類表）から読み取りした。マーカー上昇の割合は本文の記載に基づく。出典論文の DOI は確認できず null とした（SRC-737 の出典表を参照）。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)；TBL-01-00-659 (id: Jlvnmds)'
@@ -754,6 +784,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ31 2026-11-11）。三原の承認（2026-11-11）による
 - id: GU-022
   domain: GU
   subdomain: 陰茎癌
@@ -774,7 +807,7 @@
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ31 2026-11-11）：NCI PDQ「Penile Cancer Treatment」（GOV_US、新規 SRC 候補）。裏づける部分と留保：稀な癌で発生率が男性10万人あたり1人未満であること、ほぼすべてが扁平上皮癌であること、HPV 感染との関連があることは一致。HPV 関連の割合（約半数）、鼠径リンパ節触知の割合、5年生存率、危険因子の詳細は対象外
   uncertainty: 発生率と生存率は主に欧米の集計に基づく総説の記載であり、日本の値ではない。危険因子のオッズ比（包茎11.4など）は表から読み取る必要があるため本カードには含めていない。
   curriculum:
     core_curriculum: 'PS-02-10-05 (id: JkxnuSA)'
@@ -789,6 +822,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ31 2026-11-11）。三原の承認（2026-11-11）による
 - id: GU-023
   domain: GU
   subdomain: 前立腺炎

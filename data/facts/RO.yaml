@@ -15,9 +15,9 @@
     pmid: '42447589'
     pmcid: null
     url: https://doi.org/10.1016/j.resinv.2026.101482
-    source_license: 未確認（ScienceDirect の取得に失敗）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 英語版の抄録で確認した内容。8.6%の根拠となる疫学調査は本文で確認が要る。二次資料経由
   curriculum:
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-371 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: RO-002
   domain: RO
   subdomain: 慢性閉塞性肺疾患
@@ -85,9 +88,9 @@
     pmid: '42447589'
     pmcid: null
     url: https://doi.org/10.1016/j.resinv.2026.101482
-    source_license: 未確認（ScienceDirect の取得に失敗）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 英語版の抄録で確認した内容。本文は未確認
   curriculum:
@@ -103,6 +106,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-371 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: RO-004
   domain: RO
   subdomain: 慢性閉塞性肺疾患
@@ -120,9 +126,9 @@
     pmid: '42447589'
     pmcid: null
     url: https://doi.org/10.1016/j.resinv.2026.101482
-    source_license: 未確認（ScienceDirect の取得に失敗）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 英語版の抄録で確認した内容。デュピルマブの推奨の強さ・対象の基準（好酸球数など）と、日本での COPD への承認状況は確認していない
   curriculum:
@@ -138,6 +144,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-371 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: RO-005
   domain: RO
   subdomain: 慢性閉塞性肺疾患
@@ -505,9 +514,9 @@
     pmid: '42447589'
     pmcid: null
     url: https://doi.org/10.1016/j.resinv.2026.101482
-    source_license: 未確認（ScienceDirect の取得に失敗）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 英語版の抄録で確認した内容。ACO の診断基準と治療は本文で確認が要る。日本呼吸器学会の喘息と COPD のオーバーラップ診断と治療の手引き第2版（2023年）の英語要約（Respir Investig）があり、次回以降に照合が要る
   curriculum:
@@ -523,6 +532,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-371 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: RO-016
   domain: RO
   subdomain: 気管支喘息
@@ -542,7 +554,7 @@
     url: https://www.jstage.jst.go.jp/article/allergolint/72/2/72_207/_article/-char/en
     source_license: 未確認（J-STAGE の表示は「© 2023 by Japanese Society of Allergology」「JOURNAL FREE ACCESS」のみ）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 英語版の要約（抄録）で確認した内容。最新版は JGL2024 だが、英語版の要約を確認できなかったため JGL2021 を出典にした。GINA（RO-021）とは段階数や発作治療薬の扱いが異なる
   curriculum:
@@ -561,6 +573,9 @@
   - date: '2026-10-30'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-C-① を足した（医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a） → 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-374 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: RO-017
   domain: RO
   subdomain: 気管支喘息
@@ -1133,9 +1148,9 @@
     pmid: null
     pmcid: null
     url: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1779715/full
-    source_license: 未確認（取得した本文にライセンスの表示なし）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 成人を対象とした総説の記述。小児の気道異物は小児の回で扱う
   curriculum:
@@ -1154,6 +1169,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-383 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: RO-033
   domain: RO
   subdomain: 気道異物
@@ -1171,9 +1189,9 @@
     pmid: null
     pmcid: null
     url: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1779715/full
-    source_license: 未確認（取得した本文にライセンスの表示なし）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 感度・特異度と成功率は総説が引用したメタ解析の値で、原著は未確認。二次資料経由
   curriculum:
@@ -1192,6 +1210,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-383 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: RO-034
   domain: RO
   subdomain: 気腫性囊胞<ブラ、ブレブ>
@@ -1211,7 +1232,7 @@
     url: https://westjem.com/articles/bullous-lung-disease.html
     source_license: 未確認（記事ページに CC BY のアイコン表示はあるが、版の表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 症例報告にもとづく記述。ブラ（1 cm 以上）とブレブ（臓側胸膜内）の大きさ・位置による定義はこの出典で確認できなかった
   curriculum:
@@ -1230,6 +1251,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-384 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: RO-035
   domain: RO
   subdomain: 無気肺
@@ -1282,9 +1306,9 @@
     pmid: null
     pmcid: null
     url: https://doi.org/10.1186/1749-8090-9-117
-    source_license: 未確認（オープンアクセスの表示のみ。ライセンスの版は未確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 胸部X線で異常がない例が10〜20%あるとされる。数値は総説が引用した文献の値で、原著は未確認。二次資料経由
   curriculum:
@@ -1303,6 +1327,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-385 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: RO-037
   domain: RO
   subdomain: 気管・気管支の狭窄・閉塞
