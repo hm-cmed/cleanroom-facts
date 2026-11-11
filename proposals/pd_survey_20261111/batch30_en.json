@@ -1,0 +1,647 @@
+{
+ "meta": {
+  "target": "EN 章（内分泌：下垂体・副腎・性腺機能と内分泌腫瘍）35 件（targets.json 掲載分：EN-002〜027・029〜034・036・037・040）",
+  "generated_at": "2026-11-11T13:48:32.395321+09:00",
+  "method": "レポジトリ側の指示（2026-11-11）による新ルール（抄録・添付文書・医学百科は根拠にしない）を適用した。PubMed 抄録レコードに基づく「先例に基づく A」は廃止し、判定の根拠は政府の全文文書、CC BY の全文、試験登録レコードなど、全文として読める一次・公的資料のみとした。抄録は数値の食い違いの照合（主張チェック）にのみ用い、根拠にはしていない。主出典のライセンスは Crossref の version-of-record と Europe PMC の license 表示で個別に相互確認した（Crossref の一次照会で一部 DOI への帰属が誤って表示されたため、対象 DOI は個別に再照会して確定した）。裏づけ候補は NCI PDQ（GOV_US）の専門家版サマリーを cancer.gov で実際に開いて照合した（Bookshelf はボット確認で開けなかった）。本章の主出典は Endocrine Society・欧州のガイドラインと総説が中心で、単一試験のカードがないため ClinicalTrials.gov の経路は使えなかった。主張文と数値は変更していない。",
+  "counts": {
+   "A": 0,
+   "A_precedent": 0,
+   "A_other": 0,
+   "B": 10,
+   "C": 25,
+   "D": 0
+  }
+ },
+ "rows": [
+  {
+   "card": "EN-002",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-872",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "19332438",
+    "DOI": "10.1542/peds.2008-1783",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "中枢性性早熟症の定義、GnRH アナログが標準治療であること、成人身長の改善が確立しているのは女児6歳未満の発症例に限ること、体重増加・骨密度低下の懸念が支持されなかったことは、2009年のコンセンサス声明本文固有の内容で、同じ形で述べる政府全文・CC BY 全文は見つからなかった",
+   "notes": "主出典（Pediatrics 2009）は © AAP で、Crossref にライセンスフィールドがなく、Europe PMC に全文・ライセンス表示もない（UNKNOWN 据え置きが妥当）。GnRH アナログ製剤の国内承認・保険適用の「未確認」は、本調査では PMDA の全文文書を開いておらず解消しなかった",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-003",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-873",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "26194704",
+    "DOI": "10.1038/nrendo.2015.112",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "原因遺伝子25種類以上、嗅覚障害を伴う Kallmann 症候群が約50%、生殖機能の自然回復が約10〜20%という数値はコンセンサス本文・抄録の内容で、自由な全文による裏づけはない",
+   "notes": "主出典（Nat Rev Endocrinol 2015）は Europe PMC の license 表示が cc by-nc-sa で、出典マスターの CC BY-NC-SA 4.0 の記録と一致し自由利用ではない（現行 RESTRICTED が正しい）。ゴナドトロピン製剤の国内承認はカード側で2026-10-31に再点検済みの記録がある",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-004",
+   "judgment": "B",
+   "precedent": false,
+   "current_source": "SRC-874",
+   "candidate": "NCI PDQ「Childhood Craniopharyngioma Treatment」（GOV_US、新規 SRC 登録候補）",
+   "class": "GOV_US",
+   "identifiers": {
+    "PMID": "31699993",
+    "DOI": "10.1038/s41572-019-0125-9",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "組織学的に良性でまれな腫瘍であること、エナメル上皮腫型と乳頭型の2型の分類、エナメル上皮腫型では CTNNB1 の活性化変異が高頻度で主に嚢胞性（石灰化を伴う）であること、治療が手術と放射線治療の組み合わせであること、長期生存率が高いこと（小児で5年・10年生存率80〜90%以上）は PDQ 専門家版の全文で裏づけられる",
+   "numbers_check": "乳頭型の BRAF V600E、両型の年齢分布（二峰性5〜15歳・45〜60歳、乳頭型50〜60代）、頭蓋内圧亢進・視覚障害・内分泌機能低下という診断のきっかけ、視床下部性肥満は小児対象の PDQ の範囲では確認できなかった",
+   "notes": "主出典（Nat Rev Dis Primers 2019）は Crossref が TDM 用の表示のみ、Europe PMC に全文・ライセンス表示はなく自由利用ではない（UNKNOWN 据え置きが妥当）。PDQ は小児版のみで成人・乳頭型の範囲は対象外",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認し、NCI PDQ（cancer.gov）の専門家版本文を実際に開いて主張と照合"
+  },
+  {
+   "card": "EN-005",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-875",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "25356808",
+    "DOI": "10.1210/jc.2014-2700",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "先端巨大症の診断の進め方（IGF-1 高値と経口ブドウ糖負荷での GH 抑制不十分の確認、MRI 評価）はガイドライン本文の推奨で、GH の抑制基準などの具体的なカットオフはカードも抄録で確認していない。同じ枠組みを述べる政府全文・CC BY 全文は見つからなかった",
+   "notes": "主出典（Endocrine Society ガイドライン2014、JCEM）は Crossref にライセンスフィールドがなく、Europe PMC に全文・ライセンス表示もない（UNKNOWN 据え置きが妥当）。PMC に著者稿も収載されていない",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-006",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-875",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "25356808",
+    "DOI": "10.1210/jc.2014-2700",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "治療の第一選択が経蝶形骨洞手術、薬物療法（ソマトスタチンアナログ、ペグビソマント、カベルゴリン）の位置づけはガイドライン本文のアルゴリズムで、自由な全文による裏づけはない。各薬剤の国内承認・保険適用の「未確認」は本調査では解消しなかった",
+   "notes": "主出典は EN-005 と同一（SRC-875）で、ライセンス表示はなく UNKNOWN 据え置きが妥当",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-007",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-655",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "24569125",
+    "DOI": "10.1530/EJE-13-1020",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "SIADH の診断の進め方（体液量が正常であること、尿の不適切な濃縮と尿中ナトリウム排泄の保持、他の原因の除外）は欧州ガイドライン本文の基準で、自由な全文はない。低ナトリウム血症の定義（135 mmol/L未満）は広く共有される値だが、ガイドライン帰属の主張としては置き換えられない",
+   "notes": "主出典（Eur J Endocrinol 2014）は © European Society of Endocrinology（非CC）で、現行 RESTRICTED が正しい。同ガイドラインは他誌にも併載されているが、いずれも CC ではない",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-008",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-655",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "24569125",
+    "DOI": "10.1530/EJE-13-1020",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "SIADH の治療の基本（原因対応と水分制限）、重症例への高張食塩水、補正速度の上限、欧州ガイドラインがバソプレシン受容体拮抗薬を推奨しないことは本文固有の推奨で、自由な全文はない。トルバプタンの国内適応との違いはカードの申し送りのままである",
+   "notes": "主出典は EN-007 と同一（SRC-655）で © ESE（非CC）、現行 RESTRICTED が正しい",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-009",
+   "judgment": "B",
+   "precedent": false,
+   "current_source": "SRC-877",
+   "candidate": "NCI PDQ「Pituitary Tumors Treatment」（GOV_US、PMID 26389459、新規 SRC 登録候補）",
+   "class": "GOV_US",
+   "identifiers": {
+    "PMID": "28170483",
+    "DOI": "10.1001/jama.2016.19699",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "プロラクチン産生腺腫が最頻であること、微小腺腫が多数を占めること、非機能性腺腫が約30〜35%（カードの15〜54%の範囲内）、ACTH 産生腺腫が2〜10%（カードの2〜6%を含む）という構成の骨格、MRI が画像評価の第一選択であること、ホルモンの過剰・欠落の評価と圧迫症状（頭痛・視野障害・下垂体機能低下）の確認という評価の進め方は PDQ 専門家版の全文で裏づけられる",
+   "numbers_check": "有病率は物差しが異なる（両値記録）。カードは臨床的に明らかな腺腫の有病率（成人865人に1人から2688人に1人）とし、PDQ は剖検・偶発例を含む全体推定有病率17%とする。GH 産生腺腫8〜16%・TSH 産生腺腫約1%と有病率の数値そのものは PDQ では裏づけられない",
+   "notes": "主出典（JAMA 2017 の総説）は © AMA で、Crossref は TDM 用の表示のみ、Europe PMC に全文・ライセンス表示はなく自由利用ではない（UNKNOWN 据え置きが妥当）",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認し、NCI PDQ（cancer.gov）の専門家版本文を実際に開いて主張と照合"
+  },
+  {
+   "card": "EN-010",
+   "judgment": "B",
+   "precedent": false,
+   "current_source": "SRC-877",
+   "candidate": "NCI PDQ「Pituitary Tumors Treatment」（GOV_US、PMID 26389459、新規 SRC 登録候補）",
+   "class": "GOV_US",
+   "identifiers": {
+    "PMID": "28170483",
+    "DOI": "10.1001/jama.2016.19699",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "プロラクチノーマではドパミン作動薬（カベルゴリン・ブロモクリプチン）が第一選択で、新規診断例の90%超が奏効すること、手術は薬剤に耐えられない・反応しない場合に温存されること、それ以外の腺腫では手術が中心で薬物療法・放射線治療が追加されるという治療の骨格、圧迫症状のない非機能性腺腫の経過観察は PDQ 専門家版の全文で裏づけられる",
+   "numbers_check": "各腺腫型の薬物療法の詳細（選択順位・有効率）は対象外。ドパミン作動薬の国内承認はカード側で2026-10-31に再点検済みの記録があり、本調査の対象外",
+   "notes": "主出典（JAMA 2017 の総説）は © AMA で自由利用ではない（UNKNOWN 据え置きが妥当）。EN-009 と同一出典・同一候補",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認し、NCI PDQ（cancer.gov）の専門家版本文を実際に開いて主張と照合"
+  },
+  {
+   "card": "EN-011",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-878",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "26222757",
+    "DOI": "10.1210/jc.2015-1818",
+    "PMCID": "PMC4525003"
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "Cushing 病の治療目標と第一選択（下垂体腺腫の外科的切除）、第二選択（薬物療法・放射線治療・両側副腎摘除術）の骨格はガイドライン本文の結論で、自由な全文はない。PMC には著者稿（PMC4525003）があるがライセンス表示がなく自由利用ではない",
+   "notes": "主出典（Endocrine Society ガイドライン2015）は出典マスターで SRC-887 と二重登録されている既知の重複（同一文献・同一 DOI）で、本章の出典が既知の8組に含まれる。SRC-887 は RESTRICTED で、統一時には SRC-878 の UNKNOWN もそれに倣うのが自然である。出典マスター未登録の PMCID PMC4525003 が補完候補（カード側には記載あり）。EN-022 と同一出典",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-012",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-828",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "21296991",
+    "DOI": "10.1210/jc.2010-1692",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "高プロラクチン血症の原因の多様性（プロラクチノーマ、薬剤性、茎効果、甲状腺機能低下症など）と診断の進め方はガイドライン本文の対象範囲で、自由な全文はない",
+   "notes": "主出典（Endocrine Society ガイドライン2011、JCEM）は Crossref にライセンスフィールドがなく、Europe PMC に全文・ライセンス表示もない（UNKNOWN 据え置きが妥当）",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-013",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-828",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "21296991",
+    "DOI": "10.1210/jc.2010-1692",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "プロラクチノーマの治療がドパミン作動薬中心であること、薬剤性では原因薬剤の中止・変更を検討することはガイドライン本文の内容で、自由な全文はない。カベルゴリン・ブロモクリプチンの有効率の数値はカードも入れていない",
+   "notes": "主出典は EN-012 と同一（SRC-828）で UNKNOWN 据え置きが妥当",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-014",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-880",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "27041067",
+    "DOI": "10.1016/S0140-6736(16)30053-8",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "下垂体前葉機能低下症の原因（成人では腺腫とその治療が最多）、ACTH 欠落の重要性、基礎値で評価できるホルモンと刺激試験が必要なホルモンの区別は総説本文の内容で、自由な全文はない",
+   "notes": "主出典（Lancet 2016）は Crossref が TDM 用のライセンスのみで、Europe PMC に全文・ライセンス表示はない（UNKNOWN 据え置きが妥当）",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-015",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-880",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "27041067",
+    "DOI": "10.1016/S0140-6736(16)30053-8",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "補充療法の構成（チロキシン、ヒドロコルチゾン、性ステロイド、成長ホルモン、デスモプレシン）と、急性発症時にコルチゾール欠乏へ最初に対応することは総説本文の内容で、自由な全文はない。各製剤の国内承認・保険適用の「未確認」は本調査では解消しなかった",
+   "notes": "主出典は EN-014 と同一（SRC-880）で UNKNOWN 据え置きが妥当",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-016",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-881",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "31395885",
+    "DOI": "10.1038/s41572-019-0103-2",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "中枢性・腎性尿崩症と原発性多飲症の鑑別（水制限試験、高張食塩水負荷とコペプチン測定）が診断の中心であることは総説本文の内容で、自由な全文はない。コペプチンのカットオフはカードも入れていない",
+   "notes": "主出典（Nat Rev Dis Primers 2019）は Crossref が TDM 用の表示のみで自由利用ではない（UNKNOWN 据え置きが妥当）。用語のサーベイランス：尿崩症からバソプレシン欠乏症（AVP-D）・バソプレシン抵抗症（AVP-R）への改称は、2022年に国際ワーキンググループのポジションステートメントとして正式に公表され（JCEM、Eur J Endocrinol、Endocrine Connections 等に併載され、Endocrine Connections 版は CC BY）、日本内分泌学会も提案学会に含まれる。カードの uncertainty の「日本での用語の扱いは取り込み側で確認されたい」はこの範囲で解消できる（発見2）",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-017",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-881",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "31395885",
+    "DOI": "10.1038/s41572-019-0103-2",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "中枢性尿崩症の治療がデスモプレシン補充中心で、病型によって治療が大きく異なり確定診断が前提であることは総説本文の内容で、自由な全文はない。デスモプレシンの国内承認・保険適用の「未確認」は本調査では解消しなかった",
+   "notes": "主出典は EN-016 と同一（SRC-881）。用語の改称（AVP-D）の申し送りは EN-016 と共通（発見2）",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-018",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-882",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "29880706",
+    "DOI": "10.1530/EJE-17-0009",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "下垂体炎の分類（原発性と続発性）、確定診断の難しさ、抗下垂体抗体の診断価値の低さ、グルココルチコイド中心の治療は総説本文の内容で、自由な全文はない。PDQ の下垂体腫瘍サマリーではリンパ球性下垂体炎は鑑別診断としての言及のみで裏づけにならない",
+   "notes": "主出典（Eur J Endocrinol 2018）は Crossref にライセンスフィールドがなく、Europe PMC に全文・ライセンス表示もない（UNKNOWN 据え置きが妥当）",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-019",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-883",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "21602453",
+    "DOI": "10.1210/jc.2011-0179",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "成人 GHD の診断に GH 刺激試験が必要なこと、GH 補充療法の効果とリスクの低さはガイドライン本文の結論で、自由な全文はない。成長ホルモン製剤の国内承認・保険適用の「未確認」は本調査では解消しなかった",
+   "notes": "主出典（Endocrine Society ガイドライン2011、JCEM）は Crossref にライセンスフィールドがなく、Europe PMC に全文・ライセンス表示もない（UNKNOWN 据え置きが妥当）",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-020",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-884",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "21044119",
+    "DOI": "10.1111/j.1365-2265.2010.03913.x",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "下垂体卒中の症候と初期対応（ヒドロコルチゾンの迅速な補充、集学的管理、神経症状悪化例での手術）は英国ガイドライン本文の内容で、自由な全文はない。PDQ の下垂体腫瘍サマリーには卒中の症候の列挙（症例集積の頻度）はあるが、管理の中核は扱われておらず裏づけにならない",
+   "notes": "主出典（Clin Endocrinol 2011）は Crossref の表示が Wiley の version-of-record 利用条件のみで CC ではなく、Europe PMC に全文・ライセンス表示もない（UNKNOWN 据え置きが妥当）",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-021",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-886",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "18334580",
+    "DOI": "10.1210/jc.2008-0125",
+    "PMCID": "PMC2386281"
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "Cushing 症候群の検査対象と初回検査の選択（24時間尿中遊離コルチゾール、深夜唾液中コルチゾール、デキサメタゾン抑制試験）・結果の解釈の進め方はガイドライン本文の推奨で、自由な全文はない",
+   "notes": "主出典（Endocrine Society ガイドライン2008）は Europe PMC の license 表示が cc by-nc-nd で、出典マスターの CC BY-NC-ND 4.0 と一致し自由利用ではない（現行 RESTRICTED が正しい）。出典マスター未登録の PMCID PMC2386281 が補完候補（カード側には記載あり）",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-022",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-878",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "26222757",
+    "DOI": "10.1210/jc.2015-1818",
+    "PMCID": "PMC4525003"
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "Cushing 症候群の治療目標、第一選択が原因病変の外科的切除、第二選択（再手術・放射線治療・薬物療法・両側副腎摘出術）と生涯の再発観察はガイドライン本文の推奨事項で、PMC の著者稿にはライセンス表示がなく自由利用ではない",
+   "notes": "主出典は EN-011 と同一（SRC-878）で、SRC-887 との二重登録（既知の8組の1つ）と PMCID 補完は EN-011 の行を参照",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-023",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-888",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "26934393",
+    "DOI": "10.1210/jc.2015-4061",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "原発性アルドステロン症の症例検出（高リスク群と低カリウム血症の患者を対象に標準化された条件で ARR を測定）と確認試験による確定・除外は2016年版ガイドライン本文の推奨で、自由な全文はない。ARR のカットオフはカードも入れていない",
+   "notes": "主出典（Endocrine Society ガイドライン2016）は Europe PMC の license 表示が cc by-nc-nd で自由利用ではなく、現行 RESTRICTED が正しい。サーベイランス：2025年版ガイドライン（Adler GK ら、J Clin Endocrinol Metab. 2025;110(9):2453-2495、DOI 10.1210/clinem/dgaf284）が刊行され2016年版を置き換えた。全高血圧患者へのスクリーニング推奨など大きな変更があり、EN-023・024 は照合直しの対象である（カードは2016年版準拠を明示しており主張の矛盾ではない。2025年版は © Endocrine Society で自由利用ではない）（発見2）",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-024",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-888",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "26934393",
+    "DOI": "10.1210/jc.2015-4061",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "病型分類（全例の副腎 CT、両側副腎静脈サンプリングによる片側性の確定）と、片側性での腹腔鏡下副腎摘出術、両側性・手術不適例での鉱質コルチコイド受容体拮抗薬という治療の組み立ては2016年版ガイドライン本文の内容で、自由な全文はない",
+   "notes": "主出典は EN-023 と同一（SRC-888）。2025年版への照合直しの申し送りは EN-023 の行を参照",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-025",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-889",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "26760044",
+    "DOI": "10.1210/jc.2015-1710",
+    "PMCID": "PMC4880116"
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "原発性副腎不全の確定診断（迅速 ACTH 刺激試験250 μg、ピークコルチゾール500 nmol/L未満）と代用法（朝のコルチゾール140 nmol/L未満と ACTH 高値）、21-水酸化酵素自己抗体とレニン・アルドステロンの同時測定はガイドライン本文の推奨で、PMC の著者稿（PMC4880116）にはライセンス表示がなく自由利用ではない",
+   "notes": "主出典（Endocrine Society ガイドライン2016）は Crossref にライセンスフィールドがなく、Europe PMC でもライセンス表示はない。出典マスターの「CC 表示を確認できず」の記録のままで、RESTRICTED の据え置きが妥当。出典マスター未登録の PMCID PMC4880116 が補完候補（カード側には記載あり）。EN-026・040 と同一出典",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-026",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-889",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "26760044",
+    "DOI": "10.1210/jc.2015-1710",
+    "PMCID": "PMC4880116"
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "副腎クリーゼが疑われる患者では診断結果を待たずにストレスドーズのヒドロコルチゾン静注を直ちに開始するという推奨はガイドライン本文の内容で、自由な全文はない。具体的な投与量はカードも確定していない",
+   "notes": "主出典は EN-025 と同一（SRC-889）。PMCID 補完は EN-025 の行を参照",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-027",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-890",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "38724043",
+    "DOI": "10.1210/clinem/dgae250",
+    "PMCID": "PMC11180513"
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "糖質コルチコイド療法を受けている人口の少なくとも1%、リスクを決める因子、減量の進め方と離脱症状への注意は合同ガイドライン本文の内容で、自由な全文はない",
+   "notes": "主出典（ESE・Endocrine Society 合同ガイドライン2024）は Europe PMC の license 表示が cc by-nc（PMC11180513）で自由利用ではなく、出典マスターの CC BY-NC 4.0 と一致し現行 RESTRICTED が正しい。出典マスター未登録の PMCID PMC11180513 が補完候補（カード側には記載あり）",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-029",
+   "judgment": "B",
+   "precedent": false,
+   "current_source": "SRC-892",
+   "candidate": "NCI PDQ「Adrenocortical Carcinoma Treatment」（GOV_US、PMID 26389393、新規 SRC 登録候補）",
+   "class": "GOV_US",
+   "identifiers": {
+    "PMID": "30299884",
+    "DOI": "10.1530/EJE-18-0608",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "まれな腫瘍で多くがステロイドホルモンを産生すること（症状の主因は約60%、生化学的には最大80%が機能性）、自律性ホルモン過剰を含む内分泌学的評価と副腎に焦点を当てた画像評価、完全な外科的切除が治療の中心であること、病理診断での Weiss スコア、根治切除後のミトタン補助療法、完全切除ができない進行例でのミトタン単独またはミトタン＋エトポシド・ドキソルビシン・シスプラチン併用は PDQ 専門家版の全文で裏づけられる",
+   "numbers_check": "補助療法の適応基準（ENSAT 病期III、R1 切除、Ki67 10%超）は PDQ の範囲外（Ki67 の記載自体がない）。疑い例・確定例すべてを多職種チームで協議するという運用も PDQ では明示を確認できなかった",
+   "notes": "主出典（ESE ガイドライン2018、Eur J Endocrinol）は Crossref にライセンスフィールドがなく、Europe PMC にも全文・ライセンス表示がない。自由利用ではなく現行 RESTRICTED が正しい",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認し、NCI PDQ（cancer.gov）の専門家版本文を実際に開いて主張と照合"
+  },
+  {
+   "card": "EN-030",
+   "judgment": "B",
+   "precedent": false,
+   "current_source": "SRC-893",
+   "candidate": "NCI PDQ「Pheochromocytoma and Paraganglioma Treatment」（GOV_US、新規 SRC 登録候補）",
+   "class": "GOV_US",
+   "identifiers": {
+    "PMID": "24893135",
+    "DOI": "10.1210/jc.2014-1498",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "最初の生化学検査に血漿遊離メタネフリンまたは尿中分画メタネフリンを含めること、偽陽性・偽陰性を招く検査前の因子への注意と陽性結果への追跡評価、画像は CT（および MRI）で局在を評価すること、転移性病変の評価に 123I-MIBG シンチグラフィが有用なこと、遺伝子検査を全例で考慮し、傍神経節腫では SDHx、転移性疾患では SDHB（転移例で最多、40%超）が関係することは PDQ 専門家版の全文で裏づけられる",
+   "numbers_check": "メタネフリンのカットオフ値と遺伝子変異の頻度の細部は対象外。カードの「画像検査はまず CT」は PDQ では CT・MRI が併記され優先順位の明示はない",
+   "notes": "主出典（Endocrine Society ガイドライン2014）は Europe PMC の license 表示が cc by-nc-nd で自由利用ではなく、現行 RESTRICTED が正しい",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認し、NCI PDQ（cancer.gov）の専門家版本文を実際に開いて主張と照合"
+  },
+  {
+   "card": "EN-031",
+   "judgment": "B",
+   "precedent": false,
+   "current_source": "SRC-893",
+   "candidate": "NCI PDQ「Pheochromocytoma and Paraganglioma Treatment」（GOV_US、新規 SRC 登録候補）",
+   "class": "GOV_US",
+   "identifiers": {
+    "PMID": "24893135",
+    "DOI": "10.1210/jc.2014-1498",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "機能性腫瘍の全例が術前にカテコールアミン作用の遮断を受けること（診断時から開始し術前に最大化、通常1〜3週）、術後の低血圧を防ぐための塩分・水分の十分な摂取、褐色細胞腫の大部分で低侵襲（腹腔鏡下）副腎摘出術が安全であること、治療後も生涯にわたる経過観察（年1回の生化学的検査）が推奨されることは PDQ 専門家版の全文で裏づけられる",
+   "numbers_check": "傍神経節腫の大部分で開腹切除という対比と、副腎部分摘出術の一般的な位置づけは、本調査で開いた PDQ 本文の範囲では確認できなかった",
+   "notes": "主出典は Europe PMC の license 表示が cc by-nc-nd で自由利用ではなく、現行 RESTRICTED が正しい。EN-030 と同一出典・同一候補",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認し、NCI PDQ（cancer.gov）の専門家版本文を実際に開いて主張と照合"
+  },
+  {
+   "card": "EN-032",
+   "judgment": "B",
+   "precedent": false,
+   "current_source": "SRC-894",
+   "candidate": "NCI PDQ「Neuroblastoma Treatment」（GOV_US、新規 SRC 登録候補）",
+   "class": "GOV_US",
+   "identifiers": {
+    "PMID": "27830764",
+    "DOI": "10.1038/nrdp.2016.78",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "小児で最も多い頭蓋外固形腫瘍であること、発症年齢が低いこと（90%が5歳未満）、乳児期腫瘍に自然退縮の傾向があること、MYCN 増幅が重要な予後因子であること（腫瘍の16〜25%、高リスクでは40〜50%）、家族性神経芽腫は ALK 生殖細胞系列変異が主因であること（家族例の約75%）、治療がリスク分類に基づいて行われることは PDQ 専門家版の全文で裏づけられる",
+   "numbers_check": "ALK 変異の頻度は集計集団で幅がある（両値記録）。カードは原発腫瘍の10〜15%とし、PDQ は体細胞活性化変異を約9%、高リスク亜型では約15%、COG コホートではリスク群別に6〜10%とする。5年全生存率は、カードが「強力な導入化学療法と大量化学療法に分化療法・免疫療法を組み合わせ50%まで改善」とするのに対し、PDQ は高リスクの長期生存率を50%未満としており表現が異なる（両値記録、誤りとは断定しない）",
+   "notes": "主出典（Nat Rev Dis Primers 2016）は Crossref が TDM 用の表示のみ、Europe PMC に全文・ライセンス表示はなく自由利用ではない（UNKNOWN 据え置きが妥当）",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認し、NCI PDQ（cancer.gov）の専門家版本文を実際に開いて主張と照合"
+  },
+  {
+   "card": "EN-033",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-895",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "29562364",
+    "DOI": "10.1210/jc.2018-00229",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "男性の性腺機能低下症の診断の原則（症状・徴候と早朝空腹時の総テストステロンの一貫した低値、別の日での確認、遊離テストステロンの使い分け、原発性と中枢性の区別）はガイドライン本文の内容で、自由な全文はない",
+   "notes": "主出典（Endocrine Society ガイドライン2018）は Crossref にライセンスフィールドがなく、Europe PMC に全文・ライセンス表示もない。出典マスターの「CC 表示を確認できず」のままで RESTRICTED の据え置きが妥当",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  },
+  {
+   "card": "EN-034",
+   "judgment": "B",
+   "precedent": false,
+   "current_source": "SRC-896",
+   "candidate": "NCI PDQ「Genetics of Endocrine and Neuroendocrine Neoplasias」（GOV_US、新規 SRC 登録候補）",
+   "class": "GOV_US",
+   "identifiers": {
+    "PMID": "22723327",
+    "DOI": "10.1210/jc.2012-1230",
+    "PMCID": null
+   },
+   "license_basis_url": null,
+   "supports": "MEN1 遺伝子の生殖細胞系列変異による常染色体優性遺伝の疾患であること、副甲状腺腫瘍、膵島（十二指腸膵）腫瘍、下垂体前葉腫瘍の3つが主徴であること、有病率が約3万人に1人であること、腫瘍検出のためのサーベイランスの実践ガイドラインが存在することは PDQ 専門家版の全文で裏づけられる",
+   "numbers_check": "カルチノイド、副腎皮質腫瘍、髄膜腫、顔面血管線維腫、コラーゲノーマ、脂肪腫などの随伴腫瘍の列挙の細部と、「非MEN1の同種腫瘍より治療成績が劣る」という比較、一親等の発症リスク50%という数値そのものは、本調査で開いた PDQ 本文の範囲では確認できなかった（50%は常染色体優性遺伝からの帰結だが数値の明示は未確認）",
+   "notes": "主出典（Endocrine Society ガイドライン2012）は Europe PMC の license 表示が cc by-nc-nd で自由利用ではなく、現行 RESTRICTED が正しい",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認し、NCI PDQ（cancer.gov）の専門家版本文を実際に開いて主張と照合"
+  },
+  {
+   "card": "EN-036",
+   "judgment": "B",
+   "precedent": false,
+   "current_source": "SRC-898",
+   "candidate": "NCI PDQ「Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment」（GOV_US、新規 SRC 登録候補）",
+   "class": "GOV_US",
+   "identifiers": {
+    "PMID": "29091800",
+    "DOI": "10.1016/j.neo.2017.09.002",
+    "PMCID": "PMC5678742"
+   },
+   "license_basis_url": null,
+   "supports": "膵神経内分泌腫瘍が神経内分泌腫瘍の一型でまれな腫瘍であること（膵悪性腫瘍の2%未満）、ホルモン症候を呈する機能性腫瘍（インスリノーマ、ガストリノーマなど）と呈さない非機能性腫瘍があること、膵島腫瘍が MEN1 の主徴の一つで MEN1 症候群が危険因子であることは PDQ の全文（専門家版・患者版）で裏づけられる",
+   "numbers_check": "「NEN は全悪性腫瘍の約2%」という数値と、高分化型 NET と低分化型 NEC の区別が治療方針と予後を大きく左右するという主張の形は、本調査で開いた PDQ 本文の範囲では確認できなかった",
+   "notes": "主出典（Neoplasia 2017 の総説）は Europe PMC の license 表示が cc by-nc-nd（Crossref でも同旨）で自由利用ではなく、現行 RESTRICTED が正しい。出典マスター未登録の PMCID PMC5678742 が補完候補（カード側には記載あり）",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認し、NCI PDQ（cancer.gov）の専門家版本文を実際に開いて主張と照合"
+  },
+  {
+   "card": "EN-037",
+   "judgment": "B",
+   "precedent": false,
+   "current_source": "SRC-898",
+   "candidate": "NCI PDQ「Gastrointestinal Neuroendocrine Tumors Treatment」（GOV_US、PMID 26389233、新規 SRC 登録候補）",
+   "class": "GOV_US",
+   "identifiers": {
+    "PMID": "29091800",
+    "DOI": "10.1016/j.neo.2017.09.002",
+    "PMCID": "PMC5678742"
+   },
+   "license_basis_url": null,
+   "supports": "消化管を含む消化器系が神経内分泌腫瘍の発生部位であること、消化管のカルチノイドは高分化型の神経内分泌腫瘍で低分化型の神経内分泌癌と区別されること、機能性腫瘍では分泌ホルモンに応じた症候（カルチノイド症候群、患者の20%未満）が現れること、組織像は核分裂像・Ki67・壊死でグレード分類され治療の判断に用いられることは PDQ 専門家版の全文で裏づけられる",
+   "numbers_check": "消化管 NET に特化した発生部位別の頻度などの数値は対象外で、カードも抄録で確認していない範囲として数値を入れていない",
+   "notes": "主出典は Europe PMC の license 表示が cc by-nc-nd で自由利用ではなく、現行 RESTRICTED が正しい。EN-036 と同一出典",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認し、NCI PDQ（cancer.gov）の専門家版本文を実際に開いて主張と照合"
+  },
+  {
+   "card": "EN-040",
+   "judgment": "C",
+   "precedent": false,
+   "current_source": "SRC-889",
+   "candidate": null,
+   "class": null,
+   "identifiers": {
+    "PMID": "26760044",
+    "DOI": "10.1210/jc.2015-1710",
+    "PMCID": "PMC4880116"
+   },
+   "license_basis_url": null,
+   "supports": "該当なし",
+   "numbers_check": "原発性副腎不全の維持療法の用量（ヒドロコルチゾン15〜25 mg/日など）と調整の原則、ストレスドーズの教育とステロイドカードの携行はガイドライン本文の推奨事項で、PMC の著者稿にはライセンス表示がなく自由利用ではない",
+   "notes": "主出典は EN-025・026 と同一（SRC-889）。PMCID 補完は EN-025 の行を参照",
+   "searched": "Crossref・Europe PMC で主出典のライセンスと識別子を確認"
+  }
+ ]
+}

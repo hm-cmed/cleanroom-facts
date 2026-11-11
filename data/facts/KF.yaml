@@ -123,7 +123,7 @@
     source_license: 出版社の利用条件（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ34 2026-11-11）：ClinicalTrials.gov NCT01467466（PRESERVE、GOV_US、新規 SRC 候補）。裏づける部分と留保：複合イベント数（炭酸水素ナトリウム111・生理食塩液116、アセチルシステイン115・プラセボ112）とアセチルシステインの OR 1.02 がカードの割合と整合。炭酸水素ナトリウムの OR はカードの調整値 0.93、登録側の解析は 0.95（0.73–1.24）で推定法の違い（両値記録）。造影剤関連 AKI の発生率は登録結果の範囲外
   uncertainty: 薬の名前が出るカードのため注記する。アセチルシステインと炭酸水素ナトリウムの造影剤関連AKI予防を目的とした使用について、国内の承認・保険適用の状況は未確認であり、取り込み側で添付文書による確認が必要。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-311 (id: Jlvnl8Q)'
@@ -138,6 +138,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/16_ku_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ34 2026-11-11）。三原の承認（2026-11-11）による
 - id: KF-005
   domain: KF
   subdomain: AKIの腎代替療法の開始時期
@@ -158,7 +161,7 @@
     source_license: 出版社の利用条件（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ34 2026-11-11）：ClinicalTrials.gov NCT02568722（STARRT-AKI、GOV_US、新規 SRC 候補）。裏づける部分と留保：90日死亡数643（加速）・639（標準）が 43.9%・43.7% と一致、登録者数3,019人も一致。RRT 実施割合・90日時点の依存・有害事象の割合は範囲外
   uncertainty: 緊急の腎代替療法適応がある患者や、すぐに回復すると見込まれた患者は本試験の対象外であり、開始を遅らせてよいという結論はその範囲に限られる。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-311 (id: Jlvnl8Q)'
@@ -173,6 +176,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/16_ku_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ34 2026-11-11）。三原の承認（2026-11-11）による
 - id: KF-006
   domain: KF
   subdomain: 急性尿細管壊死
@@ -193,7 +199,7 @@
     source_license: 出版社の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ34 2026-11-11）：ClinicalTrials.gov NCT00076219（ATN、GOV_US、新規 SRC 候補）。裏づける部分と留保：60日死亡302・289と OR 1.09 がカードの 53.6%・51.5%・OR 1.09 と一致、登録者数1,124人も一致。腎機能の回復率は範囲外
   uncertainty: 本試験の対象は急性尿細管壊死と確定した患者だけではなく、腎代替療法を要する重症AKI全体であり、数値はその集団のものである。第15回の尿細管・間質側のカードとは原因ではなく重症度と経過の面から区別した。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-311 (id: Jlvnl8Q)'
@@ -208,6 +214,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/16_ku_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ34 2026-11-11）。三原の承認（2026-11-11）による
 - id: KF-007
   domain: KF
   subdomain: AKIのバイオマーカーと回復評価
@@ -333,7 +342,7 @@
     source_license: Elsevier の利用条件（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ34 2026-11-11）：CDC「Information for Clinicians: E. coli（STEC）」（2024-05-14 更新、GOV_US、新規 SRC 候補）。裏づける部分と留保：抗菌薬が HUS のリスクを高めうること、腸管運動抑制薬を避けること、早期の静注輸液が腎不全のリスクを下げうること、HUS の治療は支持療法（輸液・電解質管理、透析・輸血）が中心であることは一致。O157:H7 の位置づけと NSAIDs・麻薬性鎮痛薬の回避は範囲外'
   uncertainty: 感染後に HUS を発症する割合などの数値は総説の抄録では確認できなかったため、本カードには入れていない。内容は小児の下痢関連 HUS を中心とした総説に基づく。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-426 (id: JlvnmHQ)'
@@ -348,6 +357,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/16_ku_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ34 2026-11-11）。三原の承認（2026-11-11）による
 - id: KF-011
   domain: KF
   subdomain: 非典型溶血性尿毒症症候群
@@ -403,7 +415,7 @@
     source_license: 出版社の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ34 2026-11-11）：ClinicalTrials.gov NCT00844545・NCT00844844（血漿療法抵抗性、計17例）、NCT00838513・NCT00844428（感受性、計20例）（エクリズマブ第2相、GOV_US、新規 SRC 候補）。裏づける部分と留保：感受性群の TMA イベントフリー80%が完全一致。抵抗性群の血小板増加はカードの 73×10⁹/L（観測平均）に対し登録側は最小二乗平均 65.18×10⁹/L（推定法の違い、両値記録）。透析離脱4/5と髄膜炎菌感染なしは範囲外
   uncertainty: 薬の名前が出るカードのため注記する。エクリズマブの非典型溶血性尿毒症症候群に対する国内の承認・保険適用の状況は、本作成では添付文書で確認していないため未確認であり、取り込み側で PMDA の添付文書による確認が必要。投与量は抄録で確認した範囲を超えるため記載していない。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
@@ -418,6 +430,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/16_ku_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ34 2026-11-11）。三原の承認（2026-11-11）による
 - id: KF-013
   domain: KF
   subdomain: 慢性腎臓病<CKD>
@@ -613,7 +628,7 @@
     source_license: 出版社の利用条件（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ34 2026-11-11）：ClinicalTrials.gov NCT03594110（EMPA-KIDNEY、GOV_US、新規 SRC 候補）。裏づける部分と留保：登録者数6,609人と主要複合 HR 0.72 が完全一致。登録側は100人年あたりの発症率で表示し、カードの割合（13.1%・16.9%）は範囲外。全入院 HR 0.86 は登録側の別複合（心不全入院を含む HR 0.84）とは直接照合できない
   uncertainty: 薬の名前が出るカードのため注記する。エンパグリフロジンの CKD に対する国内の承認・保険適用の状況は、本作成では添付文書で確認していないため未確認であり、取り込み側で PMDA の添付文書による確認が必要。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-312 (id: Jlvnl8U)'
@@ -628,6 +643,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/16_ku_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ34 2026-11-11）。三原の承認（2026-11-11）による
 - id: KF-019
   domain: KF
   subdomain: RAS阻害と高カリウム血症の管理
@@ -648,7 +666,7 @@
     source_license: 出版社の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ34 2026-11-11）：ClinicalTrials.gov NCT01810939（OPAL-HK、GOV_US、新規 SRC 候補）。裏づける部分と留保：血清カリウム変化 −1.01 mmol/L、目標域到達76%、離脱期の中央値変化 0 対 +0.72 が一致。登録者数は登録側243人、カードの解析対象237人（母数の取り方の違い）
   uncertainty: 薬の名前が出るカードのため注記する。パチロマーの国内の承認・保険適用の状況は未確認であり、取り込み側で PMDA の添付文書による確認が必要。初期治療期は対照のない単群の評価であり、数値はその範囲のものである。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-312 (id: Jlvnl8U)'
@@ -663,6 +681,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/16_ku_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ34 2026-11-11）。三原の承認（2026-11-11）による
 - id: KF-020
   domain: KF
   subdomain: フィネレノン
@@ -683,7 +704,7 @@
     source_license: 出版社の利用条件（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ34 2026-11-11）：ClinicalTrials.gov NCT02540993（FIDELIO-DKD、GOV_US、新規 SRC 候補）。裏づける部分と留保：主要複合の発生数504対600と HR 0.825 がカード（504/2833・600/2841、HR 0.82）と一致、登録者数5,734人も一致。高カリウム血症の頻度は範囲外
   uncertainty: 薬の名前が出るカードのため注記する。フィネレノンの CKD に対する国内の承認・保険適用の状況は、本作成では添付文書で確認していないため未確認であり、取り込み側で PMDA の添付文書による確認が必要。本カードは糖尿病そのものではなく腎保護の追加治療に限った。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-312 (id: Jlvnl8U)'
@@ -698,6 +719,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/16_ku_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ34 2026-11-11）。三原の承認（2026-11-11）による
 - id: KF-021
   domain: KF
   subdomain: 腎性貧血
@@ -715,9 +739,9 @@
     pmid: null
     pmcid: null
     url: https://doi.org/10.1186/s41100-017-0114-y
-    source_license: CC表示を本セッションで直接確認できず
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 診断の参考となるヘモグロビン値の具体的な線引きは、出典（2015年版ガイドライン）の該当箇所を本セッションで確認できなかったため、主張文に数値を含めていない。出典論文のPMIDはPubMedで確認できず null とした。
   curriculum:
@@ -733,6 +757,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/16_ku_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-649 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: KF-022
   domain: KF
   subdomain: 腎性貧血
@@ -750,9 +777,9 @@
     pmid: null
     pmcid: null
     url: https://doi.org/10.1186/s41100-017-0114-y
-    source_license: CC表示を本セッションで直接確認できず
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 薬剤（赤血球造血刺激因子製剤・鉄剤）の国内の承認・保険適用の詳細は、本セッションでは添付文書で確認していない（出典は日本の診療を前提とする国内ガイドラインである）。出典論文のPMIDはPubMedで確認できず null とした。
   curriculum:
@@ -768,6 +795,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/16_ku_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-649 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: KF-023
   domain: KF
   subdomain: 腎性貧血
@@ -1410,7 +1440,7 @@
     source_license: 出版社（米国家庭医学会）の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ34 2026-11-11）：NCI PDQ「Lymphedema」専門家版（GOV_US、新規 SRC 候補）。裏づける部分と留保：リンパ浮腫の機序（リンパドレナージの障害による間質への貯留）、硬く圧痕を残さない浮腫、二次性原因（腫瘍による閉塞、リンパ節郭清を含む手術、放射線治療）は一致。浮腫全体の鑑別の進め方、静脈不全、睡眠時無呼吸、MR 静脈造影は範囲外
   uncertainty: 本カードの記載は抄録で確認できた範囲であり、薬剤性浮腫を含む原因表の詳細は抄録では確認していないため主張に入れていない。浮腫の鑑別の総論（両側性・片側性での分け方と検査の手がかり）は KX-001 が同じ出典で担っており、本カードは Ⅷ-3-E-① の2件目として、機序、リンパ浮腫の二次性原因、睡眠時無呼吸との関連など KX-001 にない側面を中心に置いた。既存の KF-028 が脱水の身体所見を担い、本カードで項目の浮腫側を補う。
   curriculum:
     kokushi: 医学各論 Ⅷ-3-E-①（脱水と浮腫、a）
@@ -1425,3 +1455,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/64_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ34 2026-11-11）。三原の承認（2026-11-11）による

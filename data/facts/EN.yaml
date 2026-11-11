@@ -126,7 +126,7 @@
     source_license: ライセンス表示を確認できず（Crossref には TDM のライセンスのみ）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ30 2026-11-11）：NCI PDQ「Childhood Craniopharyngioma Treatment」（GOV_US、新規 SRC 登録候補）。裏づける部分と留保：組織学的に良性でまれな腫瘍であること、エナメル上皮腫型と乳頭型の2型の分類、エナメル上皮腫型では CTNNB1 の活性化変異が高頻度で主に嚢胞性（石灰化を伴う）であること、治療が手術と放射線治療の組み合わせであること、長期生存率が高いこと（小児で5年・10年生存率80〜90%以上）は PDQ 専門家版の全文で裏づけられる。対象外・両値：乳頭型の BRAF V600E、両型の年齢分布（二峰性5〜15歳・45〜60歳、乳頭型50〜60代）、頭蓋内圧亢進・視覚障害・内分泌機能低下という診断のきっかけ、視床下部性肥満は小児対象の PDQ の範囲では確認できなかった
   uncertainty: 年齢分布と遺伝子変異は出典の抄録で確認した。乳頭型に対する BRAF 阻害薬などの分子標的治療の位置づけや、国内の治療成績は本調査では確認していない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -141,6 +141,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ30 2026-11-11）。三原の承認（2026-11-11）による
 - id: EN-005
   domain: EN
   subdomain: 先端巨大症
@@ -301,7 +304,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ30 2026-11-11）：NCI PDQ「Pituitary Tumors Treatment」（GOV_US、PMID 26389459、新規 SRC 登録候補）。裏づける部分と留保：プロラクチン産生腺腫が最頻であること、微小腺腫が多数を占めること、非機能性腺腫が約30〜35%（カードの15〜54%の範囲内）、ACTH 産生腺腫が2〜10%（カードの2〜6%を含む）という構成の骨格、MRI が画像評価の第一選択であること、ホルモンの過剰・欠落の評価と圧迫症状（頭痛・視野障害・下垂体機能低下）の確認という評価の進め方は PDQ 専門家版の全文で裏づけられる。対象外・両値：有病率は物差しが異なる（両値記録）。カードは臨床的に明らかな腺腫の有病率（成人865人に1人から2688人に1人）とし、PDQ は剖検・偶発例を含む全体推定有病率17%とする。GH 産生腺腫8〜16%・TSH 産生腺腫約1%と有病率の数値そのものは PDQ では裏づけられない
   uncertainty: 有病率と各腫瘍型の割合は出典の抄録で確認した（原著の集計範囲が広く、割合には幅がある）。2022年の WHO 分類（下垂体神経内分泌腫瘍 PitNET への改称を含む）との対応は本調査では確認しておらず、分類の最新動向は取り込み側で補完されたい。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-461 (id: JlvnmK0)；TBL-01-00-669 (id: Jlvnmek)'
@@ -316,6 +319,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ30 2026-11-11）。三原の承認（2026-11-11）による
 - id: EN-010
   domain: EN
   subdomain: 下垂体腫瘍
@@ -336,7 +342,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ30 2026-11-11）：NCI PDQ「Pituitary Tumors Treatment」（GOV_US、PMID 26389459、新規 SRC 登録候補）。裏づける部分と留保：プロラクチノーマではドパミン作動薬（カベルゴリン・ブロモクリプチン）が第一選択で、新規診断例の90%超が奏効すること、手術は薬剤に耐えられない・反応しない場合に温存されること、それ以外の腺腫では手術が中心で薬物療法・放射線治療が追加されるという治療の骨格、圧迫症状のない非機能性腺腫の経過観察は PDQ 専門家版の全文で裏づけられる。対象外・両値：各腺腫型の薬物療法の詳細（選択順位・有効率）は対象外。ドパミン作動薬の国内承認はカード側で2026-10-31に再点検済みの記録があり、本調査の対象外
   uncertainty: 治療の原則は出典の抄録で確認した。各腺腫型の薬物療法の詳細（薬剤の選択順位や有効率）は抄録の範囲を超えるため主張文には入れていない。ドパミン作動薬など個別薬剤の国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】カベルゴリン（カバサール）は高プロラクチン血性下垂体腺腫等、ブロモクリプチン（パーロデル）は下垂体性プロラクチン分泌異常等の適応で承認済み。「ドパミン作動薬の承認・保険適用は未確認」は解消できる
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-461 (id: JlvnmK0)；TBL-01-00-669 (id: Jlvnmek)'
@@ -354,6 +360,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ30 2026-11-11）。三原の承認（2026-11-11）による
 - id: EN-011
   domain: EN
   subdomain: Cushing病
@@ -1007,7 +1016,7 @@
     source_license: 学会ガイドライン（CC 表示を確認できず）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ30 2026-11-11）：NCI PDQ「Adrenocortical Carcinoma Treatment」（GOV_US、PMID 26389393、新規 SRC 登録候補）。裏づける部分と留保：まれな腫瘍で多くがステロイドホルモンを産生すること（症状の主因は約60%、生化学的には最大80%が機能性）、自律性ホルモン過剰を含む内分泌学的評価と副腎に焦点を当てた画像評価、完全な外科的切除が治療の中心であること、病理診断での Weiss スコア、根治切除後のミトタン補助療法、完全切除ができない進行例でのミトタン単独またはミトタン＋エトポシド・ドキソルビシン・シスプラチン併用は PDQ 専門家版の全文で裏づけられる。対象外・両値：補助療法の適応基準（ENSAT 病期III、R1 切除、Ki67 10%超）は PDQ の範囲外（Ki67 の記載自体がない）。疑い例・確定例すべてを多職種チームで協議するという運用も PDQ では明示を確認できなかった
   uncertainty: 数値（Ki67の10%）は抄録の推奨事項で確認した。ミトタンおよび併用化学療法の各薬剤の国内承認・保険適用（副腎皮質癌への適応の有無を含む）の確認は本調査では行っていない。日本の診療ガイドラインとの差異は未確認。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -1022,6 +1031,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ30 2026-11-11）。三原の承認（2026-11-11）による
 - id: EN-030
   domain: EN
   subdomain: 褐色細胞腫の診断
@@ -1042,7 +1054,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ30 2026-11-11）：NCI PDQ「Pheochromocytoma and Paraganglioma Treatment」（GOV_US、新規 SRC 登録候補）。裏づける部分と留保：最初の生化学検査に血漿遊離メタネフリンまたは尿中分画メタネフリンを含めること、偽陽性・偽陰性を招く検査前の因子への注意と陽性結果への追跡評価、画像は CT（および MRI）で局在を評価すること、転移性病変の評価に 123I-MIBG シンチグラフィが有用なこと、遺伝子検査を全例で考慮し、傍神経節腫では SDHx、転移性疾患では SDHB（転移例で最多、40%超）が関係することは PDQ 専門家版の全文で裏づけられる。対象外・両値：メタネフリンのカットオフ値と遺伝子変異の頻度の細部は対象外。カードの「画像検査はまず CT」は PDQ では CT・MRI が併記され優先順位の明示はない
   uncertainty: メタネフリンのカットオフ値や遺伝子変異の頻度の数値は抄録に記載がなく、主張文には含めていない。ガイドラインは2014年版であり、その後の機能画像（PETなど）の位置づけの変化は反映されていない可能性がある。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-671 (id: Jlvnme0)'
@@ -1057,6 +1069,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ30 2026-11-11）。三原の承認（2026-11-11）による
 - id: EN-031
   domain: EN
   subdomain: 褐色細胞腫の周術期管理と治療
@@ -1077,7 +1092,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ30 2026-11-11）：NCI PDQ「Pheochromocytoma and Paraganglioma Treatment」（GOV_US、新規 SRC 登録候補）。裏づける部分と留保：機能性腫瘍の全例が術前にカテコールアミン作用の遮断を受けること（診断時から開始し術前に最大化、通常1〜3週）、術後の低血圧を防ぐための塩分・水分の十分な摂取、褐色細胞腫の大部分で低侵襲（腹腔鏡下）副腎摘出術が安全であること、治療後も生涯にわたる経過観察（年1回の生化学的検査）が推奨されることは PDQ 専門家版の全文で裏づけられる。対象外・両値：傍神経節腫の大部分で開腹切除という対比と、副腎部分摘出術の一般的な位置づけは、本調査で開いた PDQ 本文の範囲では確認できなかった
   uncertainty: 術前遮断に用いる個別薬剤名（α遮断薬の種類など）と投与期間は抄録では確認しておらず、主張文には含めていない。これらの薬剤の国内承認・保険適用（褐色細胞腫への適応の有無を含む）の確認は本調査では行っていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-671 (id: Jlvnme0)'
@@ -1092,6 +1107,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ30 2026-11-11）。三原の承認（2026-11-11）による
 - id: EN-032
   domain: EN
   subdomain: 神経芽腫
@@ -1112,7 +1130,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ30 2026-11-11）：NCI PDQ「Neuroblastoma Treatment」（GOV_US、新規 SRC 登録候補）。裏づける部分と留保：小児で最も多い頭蓋外固形腫瘍であること、発症年齢が低いこと（90%が5歳未満）、乳児期腫瘍に自然退縮の傾向があること、MYCN 増幅が重要な予後因子であること（腫瘍の16〜25%、高リスクでは40〜50%）、家族性神経芽腫は ALK 生殖細胞系列変異が主因であること（家族例の約75%）、治療がリスク分類に基づいて行われることは PDQ 専門家版の全文で裏づけられる。対象外・両値：ALK 変異の頻度は集計集団で幅がある（両値記録）。カードは原発腫瘍の10〜15%とし、PDQ は体細胞活性化変異を約9%、高リスク亜型では約15%、COG コホートではリスク群別に6〜10%とする。5年全生存率は、カードが「強力な導入化学療法と大量化学療法に分化療法・免疫療法を組み合わせ50%まで改善」とするのに対し、PDQ は高リスクの長期生存率を50%未満としており表現が異なる（両値記録、誤りとは断定しない）
   uncertainty: 数値（ALK変異10〜15%、5年全生存率50%）は抄録で確認した。高リスク群の治療の個別薬剤名や日本のリスク分類・治療プロトコルとの対応は未確認で、主張文には含めていない。出典のライセンス表示は Crossref で確認できなかったため UNKNOWN とした。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -1127,6 +1145,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ30 2026-11-11）。三原の承認（2026-11-11）による
 - id: EN-033
   domain: EN
   subdomain: 原発性性腺機能低下症
@@ -1182,7 +1203,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ30 2026-11-11）：NCI PDQ「Genetics of Endocrine and Neuroendocrine Neoplasias」（GOV_US、新規 SRC 登録候補）。裏づける部分と留保：MEN1 遺伝子の生殖細胞系列変異による常染色体優性遺伝の疾患であること、副甲状腺腫瘍、膵島（十二指腸膵）腫瘍、下垂体前葉腫瘍の3つが主徴であること、有病率が約3万人に1人であること、腫瘍検出のためのサーベイランスの実践ガイドラインが存在することは PDQ 専門家版の全文で裏づけられる。対象外・両値：カルチノイド、副腎皮質腫瘍、髄膜腫、顔面血管線維腫、コラーゲノーマ、脂肪腫などの随伴腫瘍の列挙の細部と、「非MEN1の同種腫瘍より治療成績が劣る」という比較、一親等の発症リスク50%という数値そのものは、本調査で開いた PDQ 本文の範囲では確認できなかった（50%は常染色体優性遺伝からの帰結だが数値の明示は未確認）
   uncertainty: 各腫瘍の浸透率やサーベイランスの間隔などの数値は抄録に記載がなく、主張文には含めていない。国内の遺伝学的検査の保険適用の確認は本調査では行っていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-672 (id: Jlvnme4)'
@@ -1197,6 +1218,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ30 2026-11-11）。三原の承認（2026-11-11）による
 - id: EN-035
   domain: EN
   subdomain: 多発性内分泌腫瘍症2型
@@ -1252,7 +1276,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ30 2026-11-11）：NCI PDQ「Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment」（GOV_US、新規 SRC 登録候補）。裏づける部分と留保：膵神経内分泌腫瘍が神経内分泌腫瘍の一型でまれな腫瘍であること（膵悪性腫瘍の2%未満）、ホルモン症候を呈する機能性腫瘍（インスリノーマ、ガストリノーマなど）と呈さない非機能性腫瘍があること、膵島腫瘍が MEN1 の主徴の一つで MEN1 症候群が危険因子であることは PDQ の全文（専門家版・患者版）で裏づけられる。対象外・両値：「NEN は全悪性腫瘍の約2%」という数値と、高分化型 NET と低分化型 NEC の区別が治療方針と予後を大きく左右するという主張の形は、本調査で開いた PDQ 本文の範囲では確認できなかった
   uncertainty: 「全悪性腫瘍の約2%」は抄録に引用された先行報告に基づく値で、米国の有病者数（200,000人未満）も同抄録の記載による。MEN1の主徴としての膵島腫瘍の位置づけは EN-034 の出典（SRC-896）で確認した内容であり、本カードの出典はNEN全般の総説である。膵NETの個別の治療薬（ソマトスタチンアナログなど）の有効性の数値と国内承認・保険適用は未確認で、主張文には含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ソマトスタチンアナログ（オクトレオチド徐放製剤、ランレオチド）は神経内分泌腫瘍の適応で承認済みで、エベロリムス・スニチニブも膵神経内分泌腫瘍の適応を持つ（PMDA添付文書情報、2026-10-31確認）
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -1270,6 +1294,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ30 2026-11-11）。三原の承認（2026-11-11）による
 - id: EN-037
   domain: EN
   subdomain: 消化管神経内分泌腫瘍
@@ -1290,7 +1317,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ30 2026-11-11）：NCI PDQ「Gastrointestinal Neuroendocrine Tumors Treatment」（GOV_US、PMID 26389233、新規 SRC 登録候補）。裏づける部分と留保：消化管を含む消化器系が神経内分泌腫瘍の発生部位であること、消化管のカルチノイドは高分化型の神経内分泌腫瘍で低分化型の神経内分泌癌と区別されること、機能性腫瘍では分泌ホルモンに応じた症候（カルチノイド症候群、患者の20%未満）が現れること、組織像は核分裂像・Ki67・壊死でグレード分類され治療の判断に用いられることは PDQ 専門家版の全文で裏づけられる。対象外・両値：消化管 NET に特化した発生部位別の頻度などの数値は対象外で、カードも抄録で確認していない範囲として数値を入れていない
   uncertainty: 割当出典はNEN全般の総説であり、消化管NETに特化した発生部位別の頻度、カルチノイド症候群の発症率、Ki67によるグレード分類の閾値などの数値は抄録では確認しておらず、主張文には含めていない。個別治療薬の国内承認・保険適用も未確認。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -1305,6 +1332,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ30 2026-11-11）。三原の承認（2026-11-11）による
 - id: EN-038
   domain: EN
   subdomain: 異所性ホルモン産生腫瘍

@@ -332,7 +332,7 @@
 
 - 条件：region: 日本／guideline: 日本透析医学会「慢性腎臓病患者における腎性貧血治療のガイドライン」2015年版
 - 不確実性：診断の参考となるヘモグロビン値の具体的な線引きは、出典（2015年版ガイドライン）の該当箇所を本セッションで確認できなかったため、主張文に数値を含めていない。出典論文のPMIDはPubMedで確認できず null とした。
-- 出典：Yamamoto H, Nishi S, Tomo T, et al. 2015 Japanese Society for Dialysis Therapy: Guidelines for Renal Anemia in Chronic Kidney Disease. Renal Replacement Therapy. 2017;3:36　[DOI 10.1186/s41100-017-0114-y](https://doi.org/10.1186/s41100-017-0114-y)（区分 UNKNOWN）
+- 出典：Yamamoto H, Nishi S, Tomo T, et al. 2015 Japanese Society for Dialysis Therapy: Guidelines for Renal Anemia in Chronic Kidney Disease. Renal Replacement Therapy. 2017;3:36　[DOI 10.1186/s41100-017-0114-y](https://doi.org/10.1186/s41100-017-0114-y)（区分 OPEN）
 - 出題基準：医学各論 Ⅷ-3-C-①（腎性貧血、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-312 (id: Jlvnl8U)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KF-021&card_id=KF-021&version=cc6ba68d1a)　（版 `cc6ba68d1a`）
 
@@ -342,7 +342,7 @@
 
 - 条件：region: 日本／guideline: 日本透析医学会「慢性腎臓病患者における腎性貧血治療のガイドライン」2015年版
 - 不確実性：薬剤（赤血球造血刺激因子製剤・鉄剤）の国内の承認・保険適用の詳細は、本セッションでは添付文書で確認していない（出典は日本の診療を前提とする国内ガイドラインである）。出典論文のPMIDはPubMedで確認できず null とした。
-- 出典：Yamamoto H, Nishi S, Tomo T, et al. 2015 Japanese Society for Dialysis Therapy: Guidelines for Renal Anemia in Chronic Kidney Disease. Renal Replacement Therapy. 2017;3:36　[DOI 10.1186/s41100-017-0114-y](https://doi.org/10.1186/s41100-017-0114-y)（区分 UNKNOWN）
+- 出典：Yamamoto H, Nishi S, Tomo T, et al. 2015 Japanese Society for Dialysis Therapy: Guidelines for Renal Anemia in Chronic Kidney Disease. Renal Replacement Therapy. 2017;3:36　[DOI 10.1186/s41100-017-0114-y](https://doi.org/10.1186/s41100-017-0114-y)（区分 OPEN）
 - 出題基準：医学各論 Ⅷ-3-C-①（腎性貧血、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-312 (id: Jlvnl8U)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KF-022&card_id=KF-022&version=d4bdf7b668)　（版 `d4bdf7b668`）
 

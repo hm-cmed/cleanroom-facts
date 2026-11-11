@@ -90,3 +90,4 @@
 - バッチ25（GN）〜28（PE）を反映：置き換え2（GN-013・017）、裏づけ（GN 15・SK 6・ES 6・PE 2）、区分の訂正2（SRC-4303・4310 を OPEN）、明確化4（2026-11-11）。KDIGO 新版・Alport 2024・WAO HAE 2025 などを content_review に追記。
 - バッチ29（RO）・31（GU）を反映：区分の訂正3（SRC-371・383・385 を OPEN、RO 7件）、明確化2、GU の裏づけ12（2026-11-11）。バッチ30（EN）は受け取ったファイルが途中で切れており（『...[truncated 9118 chars]』）B の一覧が読めないため未反映。作り手に再送を依頼する。
 - バッチ32（LC）・33（MT）を反映：裏づけ27件（LC 18・MT 9。ClinicalTrials.gov 14試験、NCI PDQ、NIH ODS、CC BY 総説、人口動態統計、PMDA のレパーサ審査報告書）、置き換え・区分の訂正はなし（2026-11-11）。識別子の補完候補（LC：PMID 8・DOI 2・PMCID 8、MT：PMCID 7）は --online の照合待ち。ESC/EAS 2025・痛風 GL 追補版・AAP 2023・TNM 第9版を content_review に追記。
+- バッチ30（EN、再送の全文）・34（KF）・35（PV）を反映：裏づけ21件（EN 10は NCI PDQ、KF 9は ClinicalTrials.gov 8試験・CDC・NCI PDQ、PV 2は CC BY 総説）、区分の訂正1（SRC-649 腎性貧血 GL 英語版を OPEN、KF-021・022）（2026-11-11）。PV は11月8日の調査の記録と重なるものは足さず、PV-011・012 の ClinicalTrials.gov の記録は結果未掲載のため参考扱いに改めた。識別子の補完候補（EN：PMCID 5、KF：DOI 1・PMCID 1、PV：PMID 6・DOI 2）は --online の照合待ち。

@@ -7687,14 +7687,17 @@
   doi: 10.1186/s41100-017-0114-y
   pmid: null
   pmcid: null
-  license_note: CC表示を本セッションで直接確認できず
+  license_note: CC BY 4.0（作り手が OpenAlex・Unpaywall の出版版ライセンス（cc-by）と、Springer Nature Link の論文ページで全文が自由に読めることで確認。PubMed・PMC・Europe PMC には未収載、2026-11-11）。旧記録：CC表示を本セッションで直接確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/16_ku_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
 - id: SRC-650
   legacy_id: null
   title: Chen N, Hao C, Liu BC, et al. Roxadustat Treatment for Anemia in Patients Undergoing Long-Term Dialysis. N Engl J Med. 2019;381(11):1011–1022
