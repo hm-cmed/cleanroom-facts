@@ -56,7 +56,7 @@
     source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Risk of Long-Term Clozapine Medication over Decades for Cardiac Adverse Events Including Heart Failure and Its Pathophysiology: A Japan and China Retrospective Cohort Analysis. Med Sci 2026;14:306（MDPI、CC BY）（https://www.mdpi.com/2076-3271/14/2/306）。裏づける部分：「HFpEFがステージC心不全の69%、ステージD心不全の51%を占める」という日本の疫学数値の部分。数値の照合：一致：ステージC 69%・ステージD 51%が候補と同一'
   uncertainty: 69%・51%の値はガイドラインが引用した研究による（二次資料経由）。
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-159 (id: Jlvnlr4)'
@@ -74,6 +74,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅴ-2-A-① を足した（医学各論 Ⅴ-2-A-④（慢性心不全、a） → 医学各論 Ⅴ-2-A-④（慢性心不全、a）；医学各論 Ⅴ-2-A-①（左心不全、a））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: HF-003
   domain: HF
   subdomain: 慢性心不全
@@ -164,7 +167,7 @@
     source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Baba M, Yoshida K, Ieda M. Clinical Applications of Natriuretic Peptides in Heart Failure and Atrial Fibrillation. Int J Mol Sci 2019;20:2824（MDPI、CC BY）（https://pmc.ncbi.nlm.nih.gov/articles/PMC6600257/）。裏づける部分：BNP/NT-proBNP測定がClass Iとして有用（ESC/AHAガイドラインとして）、慢性期のBNPカットオフ35 pg/mL、NT-proBNP 125 pg/mLカットオフ、腎機能障害がNP値を上げる要因であること。数値の照合：一致：BNP 35 pg/mL、NT-proBNP 125 pg/mLが候補と同一
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-159 (id: Jlvnlr4)'
@@ -179,6 +182,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: HF-006
   domain: HF
   subdomain: 急性心不全
@@ -190,16 +196,16 @@
     differential: null
     common_misconception: BNPだけで心不全の診断を確定できる
   provenance:
-    source_ref: SRC-188
-    source: Maisel AS, Krishnaswamy P, Nowak RM, et al. Rapid measurement of B-type natriuretic peptide in the emergency diagnosis of heart failure. N Engl J Med 2002;347:161-167
-    doi: 10.1056/NEJMoa020233
-    pmid: '12124404'
-    pmcid: null
-    url: https://doi.org/10.1056/NEJMoa020233
-    source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+    source_ref: SRC-4990
+    source: Baba M, Yoshida K, Ieda M. Clinical Applications of Natriuretic Peptides in Heart Failure and Atrial Fibrillation. Int J Mol Sci 2019;20:2824（MDPI、CC BY）
+    doi: 10.3390/ijms20112824
+    pmid: '31185605'
+    pmcid: PMC6600257
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6600257/
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-188（Maisel AS, Krishnaswamy P, Nowak RM, et al. Rapid measurement of B-type natriuretic peptide in the emergency diagnosis of heart failure. N Engl J Med 2002;347:161-167）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-158 (id: Jlvnlrw)；TBL-02-05-020 (id: JlAKpfU)'
@@ -214,6 +220,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-188 から自由に使える資料 SRC-4990 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：Breathing Not Properly研究：急性呼吸困難1,586人、カットオフ100 pg/mLで診断精度83.4%、50 pg/mL未満で陰性的中率96%（本文§4に明記）。BNPが病歴・身体所見より正確という位置づけも同総説の趣…）。三原の承認（2026-11-11）による
 - id: HF-007
   domain: HF
   subdomain: 急性心不全
@@ -337,7 +346,7 @@
     source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：King KC, Goldstein S. Congestive Heart Failure and Pulmonary Edema. StatPearls（NCBI Bookshelf NBK554557、NLM）（https://www.ncbi.nlm.nih.gov/books/NBK554557/）。裏づける部分：体液貯留を伴う急性非代償性心不全への静注ループ利尿薬（AHA/ACC推奨として）、高血圧性急性心不全・肺水腫での血管拡張薬、強心薬の追加選択肢という治療の骨格。数値の照合：該当なし：カードの数値はクラス分類のみで、候補に同一のクラス表記はない
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-158 (id: Jlvnlrw)'
@@ -352,6 +361,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: HF-011
   domain: HF
   subdomain: 急性心不全
@@ -407,7 +419,7 @@
     source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：King KC, Goldstein S. Congestive Heart Failure and Pulmonary Edema. StatPearls（NCBI Bookshelf NBK554557、NLM）（https://www.ncbi.nlm.nih.gov/books/NBK554557/）。裏づける部分：急性非代償性心不全の治療選択肢としての強心薬（イノトロープ）の位置づけと、うっ血治療の枠組み。数値の照合：該当なし：カードの数値はクラス分類のみ
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-158 (id: Jlvnlrw)'
@@ -422,6 +434,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: HF-013
   domain: HF
   subdomain: 慢性心不全
@@ -477,7 +492,7 @@
     source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：ClinicalTrials.gov 結果登録 NCT01035255（https://clinicaltrials.gov/study/NCT01035255）。数値の照合：一致。主要複合の%は登録・ラベルの件数/分母（914/4,187=21.8%、1,117/4,212=26.5%）と一致し、HR 0.80・全死亡HR 0.84もラベルと一致。注意点：腎機能障害はClinicalTrials.govの事前規定エンドポイント（初回腎機能障害94対108件）ではARNI群が少ないが、ラベルの有害事象表の「腎不全」は5%対5%で同等（定義が異なるため）。有害事象の%自体はカードに記載なし（向きのみ）で矛盾はしない
   uncertainty: ACE阻害薬との併用禁忌などの国内の添付文書の記載は本出典では確認していない。
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-159 (id: Jlvnlr4)'
@@ -492,6 +507,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: HF-015
   domain: HF
   subdomain: 慢性心不全
@@ -512,7 +530,7 @@
     source_license: NEJM の利用規約（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：ClinicalTrials.gov 結果登録 NCT03036124（https://clinicaltrials.gov/study/NCT03036124）。数値の照合：一部表記差あり（不一致ではない）。件数386/2,373=16.3%、502/2,371=21.2%でカードの累積%と一致しHR 0.74も一致するが、ラベルの表の括弧内%（11.6・15.6）は患者年換算のイベント率で、カードの累積発生割合とは別の指標。ClinicalTrials.gov登録は件数とHRのみで%の掲載なし
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-159 (id: Jlvnlr4)'
@@ -527,6 +545,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: HF-016
   domain: HF
   subdomain: 慢性心不全
@@ -582,7 +603,7 @@
     source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：ClinicalTrials.gov 結果登録 NCT03057951（EMPEROR-Preserved：エンパグリフロジン、HFpEF）／補助：NCT03619213（DELIVER）、NCT04435626（FINEARTS-HF）、NCT01920711（PARAGON-HF）（https://clinicaltrials.gov/about-site/terms-conditions）。裏づける部分：中核の数値裏づけ：エンパグリフロジンの主要評価項目（心血管死または心不全入院までの時間）HR 0.79、心不全入院総数 407 vs 541（HR 0.73）。ダパグリフロジン（DELIVER、主要複合 512 vs 610例、HR 0.82）、フィネレノン（FINEARTS-HF、主要複合総イベント 1083 vs 1283件、率比 0.84）も同じ登録で確認でき、ARNI（PARAGON-HF、率比 0.87、有意でない）は IIb の弱い推奨とも整合する。数値の照合：該当なし…
   uncertainty: フィネレノンの心不全への国内承認状況は本出典では確認していない。
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-159 (id: Jlvnlr4)'
@@ -597,6 +618,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: HF-018
   domain: HF
   subdomain: 慢性心不全
@@ -617,7 +641,7 @@
     source_license: NEJM の利用規約（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：ClinicalTrials.gov 結果登録 NCT03057951（https://clinicaltrials.gov/study/NCT03057951）。数値の照合：一致。13.8%対17.1%、HR 0.79ともラベルと一致。注意点：ClinicalTrials.gov登録の主要評価項目は100患者年あたりのイベント率（6.86対8.67）で表示されており、カードの累積%とは指標が異なる（HRは一致）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-159 (id: Jlvnlr4)'
@@ -632,6 +656,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: HF-019
   domain: HF
   subdomain: 慢性心不全
@@ -652,7 +679,7 @@
     source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：ClinicalTrials.gov 結果登録 NCT00170300（https://clinicaltrials.gov/study/NCT00170300）。数値の照合：一致。主要評価項目の39%対55%・HR 0.63、死亡件数82対120（→20%対30%）とも原著と一致
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-159 (id: Jlvnlr4)；TBL-02-05-032 (id: JlAKpgM)'
@@ -667,6 +694,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: HF-020
   domain: HF
   subdomain: 心原性ショック
@@ -687,7 +717,7 @@
     source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Laghlam D, Benghanem S, Ortuno S, et al. Management of cardiogenic shock: a narrative review. Ann Intensive Care. 2024;14:45（https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:38553663&format=json）。裏づける部分：管理の部分裏づけ：専門施設（expert CS centre）への移送の必要性、ICU への早期入室と多職種管理、心原性ショックの定義（低心拍出と持続的組織低灌流）。閾値は別候補が裏づける（次欄）。数値の照合：一部一致：心係数 2.2 は Siopi 2024（CC BY）が SCAI C 期・SHOCK 基準として <2.2 L/min/m² と記載（カードは「2.2以下」で等号のみ表記差）。CPO <0.6 W は Grinstein 2024（…'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-02-05-030 (id: JlAKpgE)'
@@ -702,6 +732,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: HF-021
   domain: HF
   subdomain: 心原性ショック
@@ -721,7 +754,7 @@
     source_license: Wiley の利用規約（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Siopi SA, Antonitsis P, Karapanagiotidis GT, et al. Cardiac Failure and Cardiogenic Shock: Insights Into Pathophysiology, Classification, and Hemodynamic Assessment. Cureus. 2024;16(10):e72106（https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:39575019&format=json）。裏づける部分：5段階の名称と内容（A at risk、B beginning、C classic、D deterioration、E extremis）を表と本文で再掲。B は灌流が保たれ血行動態不安定のみ、C は低灌流が主徴であることが明記され、「BとCの違いは低灌流の有無」と一致。D は初期治療への反応不良・追加の血管作動薬や…'
   uncertainty: 2022年の改訂版の内容は本カードでは扱っていない。
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
@@ -736,6 +769,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: HF-022
   domain: HF
   subdomain: 心原性ショック
@@ -756,7 +792,7 @@
     source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：ClinicalTrials.gov 結果登録 NCT00000552（https://clinicaltrials.gov/study/NCT00000552）。数値の照合：不一致あり（候補資料側の誤り）。同総説の表では50.3・63.7が「30日」の値として誤って記載され、対照側も63.7（正しくは6か月の63.1）と誤記されている。カードの30日死亡率46.7%対56.0%はこの資料では正しく裏づけられない。同表は使用不可。本文の6か月値（50.3対63.1）は原著と一致
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-02-05-031 (id: JlAKpgI)'
@@ -771,6 +807,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: HF-023
   domain: HF
   subdomain: 心原性ショック
@@ -782,16 +821,16 @@
     differential: null
     common_misconception: 心原性ショックにIABPをルーチンで使うと死亡が減る
   provenance:
-    source_ref: SRC-199
-    source: Thiele H, Zeymer U, Neumann FJ, et al. Intraaortic balloon support for myocardial infarction with cardiogenic shock (IABP-SHOCK II). N Engl J Med 2012;367:1287-1296
-    doi: 10.1056/NEJMoa1208410
-    pmid: '22920912'
-    pmcid: null
-    url: https://doi.org/10.1056/NEJMoa1208410
-    source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+    source_ref: SRC-4991
+    source: 'Aurigemma C, Mangner N, Panoulas V, Møller JE. Mechanical Support in Myocardial Infarction Complicated by Cardiogenic Shock: What Have We Learned from Trials? J Clin Med. 2026'
+    doi: 10.3390/jcm15124453
+    pmid: '42355620'
+    pmcid: PMC13301945
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13301945/
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-199（Thiele H, Zeymer U, Neumann FJ, et al. Intraaortic balloon support for myocardial infarction with cardiogenic shock (IABP-SHOCK II). N Engl J Med 2012;367:1287-1296）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)'
@@ -806,6 +845,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-199 から自由に使える資料 SRC-4991 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：IABP-SHOCK IIについて、600人・早期血行再建を受ける心筋梗塞性心原性ショック患者を対象に、30日死亡率39.7%対41.3%（p=0.69、表ではRR 0.96併記）で低下なし、というカードの主張全体（数値含む）を本文・表が収…）。三原の承認（2026-11-11）による
 - id: HF-024
   domain: HF
   subdomain: 心原性ショック
@@ -817,16 +859,16 @@
     differential: null
     common_misconception: 心原性ショックでは同じ手技で全病変を治療するほうがよい
   provenance:
-    source_ref: SRC-200
-    source: Thiele H, Akin I, Sandri M, et al. PCI Strategies in Patients with Acute Myocardial Infarction and Cardiogenic Shock (CULPRIT-SHOCK). N Engl J Med 2017;377:2419-2432
-    doi: 10.1056/NEJMoa1710261
-    pmid: '29083953'
-    pmcid: null
-    url: https://doi.org/10.1056/NEJMoa1710261
-    source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
+    source_ref: SRC-4992
+    source: 'Robles-Zurita JA, Briggs A, Rana D, Quayyum Z, Oldroyd KG, Zeymer U, Desch S, de Waha-Thiele S, Thiele H. Economic evaluation of culprit lesion only PCI vs. immediate multivessel PCI in acute myocardial infarction complicated by cardiogenic shock: the CULPRIT-SHOCK trial. Eur J Health Econ. 2020;21(8):1197-1209'
+    doi: 10.1007/s10198-020-01235-3
+    pmid: '33029668'
+    pmcid: PMC7561561
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7561561/
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-200（Thiele H, Akin I, Sandri M, et al. PCI Strategies in Patients with Acute Myocardial Infarction and Cardiogenic Shock (CULPRIT-SHOCK). N Engl J Med 2017;377:2419-2432）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-02-05-031 (id: JlAKpgI)'
@@ -841,6 +883,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-200 から自由に使える資料 SRC-4992 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：CULPRIT-SHOCK試験自体の経済評価論文（試験データに基づく解析）で、706人無作為化、30日時点の複合主要評価項目（死亡または腎代替療法を要する重症腎不全）45.9%対55.4%・相対リスク0.83（95%CI 0.71-0.96…）。三原の承認（2026-11-11）による
 - id: HF-025
   domain: HF
   subdomain: 心原性ショック
@@ -861,7 +906,7 @@
     source_license: NEJM の利用規約（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Farhat K, Pollanen S, Damrongwatanasuk R, DiChiacchio L, Salerno C, Sikand N, Khalife WI, Hu JR. The Role of Impella in Cardiogenic Shock in the Post-DanGer Shock Era. Biomedicines. 2025;13(9):2198（https://pmc.ncbi.nlm.nih.gov/articles/PMC12467919/）。裏づける部分：DanGer Shockについて、180日死亡45.8%対58.5%（p=0.04、絶対差12.7%）、複合安全評価項目24.0%対6.2%、腎代替療法の増加（相対リスク1.98）を本文が収載。主要な数値の大部分は裏づけられる。数値の照合：一部未収載。本総説にはHR 0.74の記載がない。HR 0.74は同じくCC BYのJ Clin Med 2026総説（PMC13301945）の…
   uncertainty: 国内での保険適用の条件は本出典では確認していない。
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)'
@@ -876,6 +921,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: HF-026
   domain: HF
   subdomain: 右心不全
@@ -934,7 +982,7 @@
     source_license: CC表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Sampath-Kumar R, Rück A, Manouras A, et al. Evaluation and Management Principles for Chronic Right Heart Failure and Tricuspid Regurgitation. Curr Heart Fail Rep. 2025;22(1):32（https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:41144096&format=json）。裏づける部分：原因の機序別整理が表1と本文にある：収縮性低下（右室心筋症、ARVC、心筋梗塞、心筋炎、心筋症＝右室自体の障害と虚血・梗塞）、容量負荷（三尖弁・肺動脈弁逆流、心内左右シャント、Ebstein 奇形＝先天性心疾患・弁膜症）、圧負荷（肺動脈弁狭窄、肺高血圧（左心疾患に伴うものを含む）、慢性血栓塞栓性肺高血圧）。AHA 声明の4分類の全要素を含む。数値の…
   uncertainty: 肺高血圧症自体の分類や治療は扱わない（Ⅳの肺高血圧の項目が正）。原因の整理は同声明の枠組みによる。
   curriculum:
     kokushi: 医学各論 Ⅴ-2-A-②（右心不全、a）
@@ -949,6 +997,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: HF-028
   domain: HF
   subdomain: 右心不全
@@ -969,7 +1020,7 @@
     source_license: CC表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Torre DE, Pirri C. Right Heart Failure in Critical and Chronic Care: Current Concepts, Challenges and Mechanical Support Strategies. Med Sci (Basel). 2025;13(4):210（https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:41133492&format=json）。裏づける部分：臨床像は体静脈うっ血と前方拍出障害の組み合わせとされ、うっ血徴候として頸静脈怒張、肝頸静脈逆流、末梢浮腫、肝脾腫、腹水が挙がる。カードの4徴候のうち頸静脈怒張・腹水・下腿浮腫はそのまま、肝腫大は肝脾腫（hepatosplenomegaly）の形で含まれる。数値の照合：該当なし（数値なし）'
   uncertainty: 徴候の整理はAHA科学声明（2018年）に基づく。原因疾患によっては肺うっ血を合併する。
   curriculum:
     kokushi: 医学各論 Ⅴ-2-A-②（右心不全、a）
@@ -984,6 +1035,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: HF-029
   domain: HF
   subdomain: 右心不全
@@ -995,16 +1049,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-4380
-    source: Konstam MA, et al. Circulation. 2018;137(20):e578-e622.
-    doi: 10.1161/CIR.0000000000000560
-    pmid: '29650544'
-    pmcid: null
-    url: https://doi.org/10.1161/CIR.0000000000000560
-    source_license: CC表示なし（購読誌）
+    source_ref: SRC-4993
+    source: Sampath-Kumar R, Rück A, Manouras A, et al. Evaluation and Management Principles for Chronic Right Heart Failure and Tricuspid Regurgitation. Curr Heart Fail Rep. 2025;22(1):32
+    doi: 10.1007/s11897-025-00720-1
+    pmid: '41144096'
+    pmcid: PMC12559073
+    url: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:41144096&format=json
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-4380（Konstam MA, et al. Circulation. 2018;137(20):e578-e622.）
   uncertainty: 利尿薬は薬剤クラスとしての記載であり、個別製剤の国内承認・保険適用は各添付文書による。管理の枠組みはAHA科学声明（2018年）に基づく。
   curriculum:
     kokushi: 医学各論 Ⅴ-2-A-②（右心不全、a）
@@ -1019,6 +1073,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-4380 から自由に使える資料 SRC-4993 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：主張の3要素すべて：(1) 医学的管理は利尿薬による体液過剰の是正と原因疾患（TR・右心不全に寄与する基礎疾患）の治療に限られる、(2) 慢性右心不全に特異的に臨床転帰の改善が証明された薬物療法はない、(3) 心臓MRIは右室の大きさ・駆出…）。三原の承認（2026-11-11）による
 - id: HF-030
   domain: HF
   subdomain: 右心不全
@@ -1039,7 +1096,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Torre DE, Pirri C. Right Heart Failure in Critical and Chronic Care: Current Concepts, Challenges and Mechanical Support Strategies. Med Sci (Basel). 2025;13(4):210（https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:41133492&format=json）。裏づける部分：定義（右側循環系の機能障害による臨床症候群で、静脈圧上昇と肺循環への送血障害を来す）、最頻原因は左心疾患であること、機序の3分類（圧負荷・容量負荷・右室自体の心筋機能障害）、症状・徴候はうっ血徴候（頸静脈怒張、浮腫、腹水、肝脾腫）と低灌流所見（倦怠感・運動耐容能低下に相当する所見を含む）の両群が記載される。数値の照合：該当なし（カードに数値なし。候補にある院内死亡率 5〜…'
   uncertainty: 登録出典（英語版）の日本語版全文 PDF で確認した範囲であり、出典内の位置は第2章§3.2「右心不全」（25〜26頁）。原因の機序別分類と症状・徴候は同節の表9・表10から読み取った。肺高血圧症そのものの診断・治療の詳細は本カードの範囲外である。
   curriculum:
     kokushi: 医学各論 Ⅴ-2-A-②（右心不全、a）
@@ -1054,6 +1111,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: HF-031
   domain: HF
   subdomain: 右心不全
@@ -1074,7 +1134,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Torre DE, Pirri C. Right Heart Failure in Critical and Chronic Care: Current Concepts, Challenges and Mechanical Support Strategies. Med Sci (Basel). 2025;13(4):210（https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:41133492&format=json）。裏づける部分：治療の各要素：うっ血にはループ利尿薬持続投与が右房圧を下げる最も有効な方法とされ、利尿薬抵抗性うっ血には腎代替療法が救済策、低容量状態（右室梗塞）では慎重な輸液、通常の対策で不十分な場合は強心薬、難治例では ECLS や RVAD を含む機械的循環補助が選択肢とされる。前負荷・後負荷の最適化という病態生理に応じた治療の枠組みも一致。数値の照合：該当なし（数値なし）'
   uncertainty: 登録出典（英語版）の日本語版全文 PDF で確認した範囲であり、出典内の位置は第2章§3.2「右心不全」（25〜26頁）。本カードの薬剤は利尿薬・強心薬という薬剤クラスの範囲の記述であり、当該節では個別の薬剤名は特定されていないため、個別薬剤の国内承認・保険適用の注記は行っていない。用量や薬剤の選択は原因疾患ごとの治療に委ねられる。
   curriculum:
     kokushi: 医学各論 Ⅴ-2-A-②（右心不全、a）
@@ -1089,3 +1149,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による

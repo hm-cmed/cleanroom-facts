@@ -18,7 +18,7 @@
     source_license: CC 表示なし（学会誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：MedlinePlus（パニック発作の総論）。
   uncertainty: 現行版は第1.2版（2026年10月1日）で、改訂は診療報酬上の取扱いに関する記載の更新が中心であり、クリニカルクエスチョンへの推奨は更新されていない（学会公式ページで確認）。推奨されるベンラファキシンには国内ではパニック障害の適応がなく、国内効能はうつ病の範囲である（本パートでは添付文書の直接照合は行っていない）。パニック障害の国内適応があるSSRIはセルトラリンとパロキセチンである（出典リサーチで患者向医薬品ガイド・添付文書を確認）。
   curriculum:
     kokushi: 医学各論 Ⅱ-3-A-①（パニック障害<パニック症>、a）
@@ -33,6 +33,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/52_ps_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AX-002
   domain: AX
   subdomain: パニック障害
@@ -231,7 +234,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：NIMH。有病率 12.1% とカードの13%に差異。
   uncertainty: 有病率と効果量は米国の総説に基づく値であり、日本の有病率とは異なる可能性がある。国内ではセルトラリンに社会不安障害の適応がなく、社会不安障害の適応があるSSRIはパロキセチン、エスシタロプラム、フルボキサミンである。
   curriculum:
     kokushi: 医学各論 Ⅱ-3-A-③（社交<社会>不安障害<社交不安症><社交恐怖>、b）
@@ -246,6 +249,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/52_ps_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AX-008
   domain: AX
   subdomain: 広場恐怖症
@@ -371,7 +377,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：MedlinePlus（身体醜形障害）。
   uncertainty: 出典は女性の身体醜形症を対象とした総説であり、男性の身体醜形症への当てはめには限界がある。身体醜形症を効能とする国内承認薬は確認できなかった。
   curriculum:
     kokushi: 医学各論 Ⅱ-3-B-①（強迫症、身体醜形症、抜毛症、心気症、b）
@@ -386,6 +392,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/52_ps_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AX-012
   domain: AX
   subdomain: 抜毛症
@@ -441,7 +450,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：MedlinePlus（病気不安障害）。
   uncertainty: 2008年の総説であり、DSM-5で心気症の多くが身体症状症と病気不安症に再編された経緯や、ICD-11で心気症が身体的苦痛症の群に含まれる位置づけは、本出典の範囲外である。項目の置き場は出題基準の指定に従った。心気症を効能とする国内承認薬は確認できなかった。
   curriculum:
     kokushi: 医学各論 Ⅱ-3-B-①（強迫症、身体醜形症、抜毛症、心気症、b）
@@ -456,6 +465,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/52_ps_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AX-014
   domain: AX
   subdomain: 心的外傷後ストレス障害
@@ -476,7 +488,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：VA/DoD Clinical Practice Guideline for the Management of PTSD and Acute Stress Disorder 2023（本体、米国政府の著作物）。主出典の置き換えは本体の書誌確認後に行う
   uncertainty: ガイドライン本体は米国政府資料であり、本カードはその要約論文に基づく。国内でPTSDの適応がある薬剤はセルトラリンとパロキセチンのみであり、ベンラファキシンには国内適応がない（ベンラファキシンの添付文書の直接照合は行っていない）。持続エクスポージャー療法は日本で2016年から保険収載されている（国内総説で確認）。
   curriculum:
     kokushi: 医学各論 Ⅱ-3-C-①（心的外傷後ストレス障害<心的外傷後ストレス症><PTSD>、a）
@@ -491,6 +503,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/52_ps_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AX-015
   domain: AX
   subdomain: 心的外傷後ストレス障害
@@ -546,7 +561,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：Eur Psychiatry 2022（CC BY）が ICD-11 定義を明記。併存順位は対象外。
   uncertainty: 適応障害の診療ガイドラインは国内・国際とも確認できなかった。適応障害を効能とする国内承認薬は確認できなかった。
   curriculum:
     kokushi: 医学各論 Ⅱ-3-C-②（適応障害<適応反応症>、a）
@@ -561,6 +576,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/52_ps_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AX-017
   domain: AX
   subdomain: 解離症
@@ -616,7 +634,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：Cureus 2023（CC BY）。特異度の下限に差異（86〜 vs 64〜）。
   uncertainty: 出題基準の転換<変換>症は、ICD-11の解離性神経学的症状症に対応し、現在の機能性神経障害と同一の枠組みで扱われる。転換症・機能性神経障害を効能とする国内承認薬は確認できなかった。
   curriculum:
     kokushi: 医学各論 Ⅱ-3-D-①（解離性健忘、解離性同一性障害<解離性同一症>、離人感・現実感喪失症、転換<変換>症<解離性神経学的症状症>、b）
@@ -631,6 +649,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/52_ps_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AX-019
   domain: AX
   subdomain: 身体的苦痛症
@@ -721,7 +742,7 @@
     source_license: 表示なし（書籍）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：MedlinePlus（パニック発作の症状像）。
   uncertainty: 書籍のため DOI・PMID はない。書誌は出典マスターの SRC-4976 の登録内容どおり（American Psychiatric Association Publishing、2022年）。13症状の列挙と「4つ以上」「数分以内にピーク」の構成は DSM-5-TR のパニック発作の基準を転載した公的資料（カナダ退役軍人省 Anxiety Disorders EEG、2025年1月版）で照合した。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。文化特異的な症状（耳鳴り、首の痛み、頭痛、抑えられない叫び・号泣など）は必要な4症状には数えないとされる点は、主張には含めていない。13症状を基準の順にすべて列挙しており、DSM の診断基準の項目の選択・配列をそのまま写す形になっている。DSM 由来のカード（MD-009・014・015、SZ-011 など）を「構造だけを述べる」形に見直すときに、あわせて扱う（取り込み側の申し送り、2026-11-10）
   curriculum:
     kokushi: 医学各論 Ⅱ-3-A-①（パニック障害<パニック症>、a）
@@ -739,6 +760,9 @@
   - date: '2026-11-10'
     by: claude-code
     change: uncertainty に、基準の項目の選択・配列を写す形である旨の申し送りを追記した
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AX-022
   domain: AX
   subdomain: パニック症
@@ -759,7 +783,7 @@
     source_license: 表示なし（書籍）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：MedlinePlus／NIMH（予期しない発作＋1か月の心配）。
   uncertainty: 書籍のため DOI・PMID はない。基準A（反復する予期しない発作）・基準B（1か月以上の心配または行動の変化）・基準C（物質・身体疾患の除外）・基準D（他の精神疾患による説明の除外）の構成は、DSM-5-TR の基準を転載した公的資料（カナダ退役軍人省 Anxiety Disorders EEG、2025年1月版）で照合した。本下書きでは書籍本文を直接照合していないため、登録時に本文で最終照合すること。症状の個別の数値（有病率など）は既存カード AX-008 が担い、本カードには含めていない。国内の診療ガイドライン2025（既存 AX-001）もパニック症を対象とするが、日本語名称「パニック症」の採用経緯そのものは本カードの主張に含めていない
   curriculum:
     kokushi: 医学各論 Ⅱ-3-A-①（パニック障害<パニック症>、a）
@@ -774,6 +798,9 @@
   - date: '2026-11-10'
     by: claude-code
     change: 取り込み：raw/ax_panic_20261110.md（作り手の下書き AX-仮2）から。ID を AX-022 に確定し、curriculum を既存 AX-001 にそろえて付けた。三原の承認（2026-11-10）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AX-023
   domain: AX
   subdomain: パニック症
@@ -794,7 +821,7 @@
     source_license: 表示なし（書籍）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：MedlinePlus（広場恐怖の回避）。
   uncertainty: 書籍のため DOI・PMID はない。予期される／予期しない発作の区別、夜間パニック発作が予期しない発作に含まれること、症状限定発作（limited-symptom attack）の定義は、DSM-5-TR の基準とその解説を転載した資料で照合した。本下書きでは書籍本文を直接照合していないため、登録時に本文で最終照合すること。作り手の下書きにあった「症状の数だけで発作の重さを判断することはできない」は、出典の記述ではなく推論のため、登録時に削った
   curriculum:
     kokushi: 医学各論 Ⅱ-3-A-①（パニック障害<パニック症>、a）
@@ -812,6 +839,9 @@
   - date: '2026-11-10'
     by: claude-code
     change: 主張文の末尾「症状の数だけで発作の重さを判断することはできない」を削った（出典の記述ではないため。三原の承認 2026-11-10）。uncertainty も合わせて直した。削ったことで文末が「もあり」で切れたため「もある」に整えた
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AX-024
   domain: AX
   subdomain: 社交不安障害
@@ -832,7 +862,7 @@
     source_license: 表示なし（書籍）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：NIMH（社交不安）。「6か月」の明示は登録時確認。
   uncertainty: 書籍のため DOI・PMID はない。書誌は出典マスターの SRC-4976 の登録内容どおり（American Psychiatric Association Publishing、2022年）。基準の構成は DSM-5-TR の基準を引用した MSD マニュアル（プロフェッショナル版）の診断の節で照合した。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。有病率（生涯13%）は既存カード AX-007 が担い、本カードには含めていない。単なる内気・あがり症との線引きは「持続期間・機能障害・釣り合いのなさ」の組み合わせで判断されるものであり、本カードの範囲を超える解釈は含めていない。DSM の診断基準の構成をほぼすべて順に述べており、DSM 由来カードを「構造だけを述べる」形に見直す件の対象（取り込み側の申し送り、2026-11-10）
   curriculum:
     kokushi: 医学各論 Ⅱ-3-A-③（社交<社会>不安障害<社交不安症><社交恐怖>、b）
@@ -850,6 +880,9 @@
   - date: '2026-11-10'
     by: claude-code
     change: uncertainty に、DSM 由来カードの見直し対象である旨を追記した
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AX-025
   domain: AX
   subdomain: 社交不安障害
@@ -870,7 +903,7 @@
     source_license: 表示なし（書籍）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：NIMH（場面の類型・遂行のみ型）。
   uncertainty: 書籍のため DOI・PMID はない。場面の3型は DSM-5-TR の診断基準Aの例示（social interactions、being observed、performing in front of others）の区分であり、行為状況限定型の特定子の存在も同書の基準による。本下書きでは書籍本文を直接照合していないため、登録時に本文で最終照合すること。日常生活の具体例（会議での発言、電話をかける等）は基準Aの例示の範囲を超えるため主張には含めていない（動画化の際の言い換えは AX-仮1 の範囲で別途判断する）
   curriculum:
     kokushi: 医学各論 Ⅱ-3-A-③（社交<社会>不安障害<社交不安症><社交恐怖>、b）
@@ -885,3 +918,6 @@
   - date: '2026-11-10'
     by: claude-code
     change: 取り込み：raw/ax_sad_20261110.md（作り手の下書き AX-仮2）から。ID を AX-025 に確定し、curriculum を既存 AX-006 にそろえて付けた。三原の承認（2026-11-10）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による

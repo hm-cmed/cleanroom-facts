@@ -261,14 +261,17 @@
   doi: null
   pmid: null
   pmcid: PMC8280040
-  license_note: 種別は未確認
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：種別は未確認
   legacy_basis_tag: E
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-12'
     by: claude-code
     change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-18 から（IDを3桁に正規化、basis_tag E を CLAUDE.md 2-3 第1回規則で変換）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
   source: Yoshiji H, et al. Evidence-based clinical practice guidelines for Liver Cirrhosis 2020. J Gastroenterol 2021;56:593-619
 - id: SRC-019
   legacy_id: SRC-19
@@ -412,14 +415,17 @@
   doi: 10.1007/s00535-021-01843-7
   pmid: null
   pmcid: null
-  license_note: Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：Open access, © 2022 The Author(s)（CC種別は出版社ページで未表示。Crossrefで要確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
   source: Miwa H, et al. Evidence-based clinical practice guidelines for functional dyspepsia 2021. J Gastroenterol 2022;57:47-61
 - id: SRC-029
   legacy_id: null
@@ -428,14 +434,17 @@
   doi: 10.1007/s10120-022-01331-8
   pmid: null
   pmcid: null
-  license_note: Open access, © 2022 The Author(s)（CC種別はCrossrefで要確認）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：Open access, © 2022 The Author(s)（CC種別はCrossrefで要確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
   source: Japanese Gastric Cancer Association. Japanese Gastric Cancer Treatment Guidelines 2021 (6th edition). Gastric Cancer 2023;26:1-25
 - id: SRC-030
   legacy_id: null
@@ -444,14 +453,17 @@
   doi: 10.1007/s10120-025-01698-4
   pmid: null
   pmcid: null
-  license_note: Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：Open access, © 2026 The Author(s)（CC種別はCrossrefで要確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
   source: Japanese Gastric Cancer Association. Japanese gastric cancer treatment guidelines 2025 (7th edition). Gastric Cancer 2026;29:271-299
 - id: SRC-031
   legacy_id: null
@@ -476,14 +488,17 @@
   doi: 10.1007/s10147-024-02488-1
   pmid: '38609732'
   pmcid: null
-  license_note: Open access, © 2024 The Author(s)（CC種別はCrossrefで要確認）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：Open access, © 2024 The Author(s)（CC種別はCrossrefで要確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
   source: Hirota S, et al. English version of Japanese Clinical Practice Guidelines 2022 for gastrointestinal stromal tumor (GIST). Int J Clin Oncol 2024;29:647-680
 - id: SRC-033
   legacy_id: null
@@ -588,14 +603,17 @@
   doi: 10.1111/jne.13306
   pmid: null
   pmcid: null
-  license_note: Open access, © 2023 The Authors（CC種別はCrossrefで要確認）
+  license_note: CC BY-NC-ND（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Open access, © 2023 The Authors（CC種別はCrossrefで要確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
   source: Panzuto F, et al. ENETS 2023 guidance paper for gastroduodenal neuroendocrine tumours (NETs) G1-G3. J Neuroendocrinol 2023;35:e13306
 - id: SRC-040
   legacy_id: null
@@ -636,14 +654,17 @@
   doi: 10.3201/eid2810.220627
   pmid: null
   pmcid: null
-  license_note: CDC刊行誌。記事ページにパブリックドメインの明示はなく未確認
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：CDC刊行誌。記事ページにパブリックドメインの明示はなく未確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
   source: Sugiyama H, et al. Anisakiasis annual incidence and causative species, Japan, 2018-2019. Emerg Infect Dis 2022;28(10)
 - id: SRC-043
   legacy_id: null
@@ -716,14 +737,17 @@
   doi: 10.47717/turkjsurg.2026.2025-11-25
   pmid: null
   pmcid: null
-  license_note: © Galenos Publishing House（ライセンス種別は未確認）
+  license_note: CC BY-NC（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© Galenos Publishing House（ライセンス種別は未確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/02_gastroduodenal.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
   source: 'Ergüder E, et al. Lemmel syndrome: a single-center cohort and diagnostic considerations. Turk J Surg 2026;42(2):214-219'
 - id: SRC-048
   legacy_id: null
@@ -732,14 +756,17 @@
   doi: 10.1007/s00535-021-01784-1
   pmid: null
   pmcid: null
-  license_note: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
   source: Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56:489-526
 - id: SRC-049
   legacy_id: null
@@ -748,14 +775,17 @@
   doi: 10.1007/s00535-020-01746-z
   pmid: null
   pmcid: null
-  license_note: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
   source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
 - id: SRC-050
   legacy_id: null
@@ -780,14 +810,17 @@
   doi: 10.1007/s00535-021-01776-1
   pmid: null
   pmcid: null
-  license_note: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
   source: Tanaka S, et al. Evidence-based clinical practice guidelines for management of colorectal polyps. J Gastroenterol 2021;56:323-335
 - id: SRC-052
   legacy_id: null
@@ -796,14 +829,17 @@
   doi: 10.1007/s10147-025-02899-8
   pmid: null
   pmcid: null
-  license_note: Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：Open access、© The Author(s)（記事ページにCC種別の表示なし。Crossrefで確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
   source: Kinugasa Y, et al. Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2024 for the treatment of colorectal cancer. Int J Clin Oncol 2025;30:2410-2463
 - id: SRC-053
   legacy_id: null
@@ -2056,11 +2092,15 @@
   pmcid: null
   url: https://news.gastro.org/issues/2026/august-2026/rome-v-criteria-capture-more-people-with-ibs-but-a-milder-group/
   source_license: 原著は未取得。AGA の GI & Hepatology News（2026-08-20）の記事で内容を確認
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-18'
     by: claude-code
     change: GitHub 版（2026-10-18 整理）の出典マスターから統合
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：None
 - id: SRC-142
   source: 'Maev IV, et al. Rome V Criteria (2026): Continuity, innovations and major updates. Meditsinskiy sovet 2026;(8):8-21'
   doi: 10.21518/ms2026-232
@@ -2085,6 +2125,11 @@
   - date: '2026-10-18'
     by: claude-code
     change: GitHub 版（2026-10-18 整理）の出典マスターから統合
+  - date: '2026-11-11'
+    by: claude-code
+    change: 空だった書誌（title・citation）を補完した（DOI 10.1053/j.gastro.2026.02.003 の論文。出典台帳 IN-0002 と同一）
+  title: Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology. 2026;170:1261-1282
+  citation: Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology. 2026;170:1261-1282
 - id: SRC-144
   source: Fukudo S, Aziz Q, Drossman DA, et al. Centrally Mediated Disorders of Gastrointestinal Pain. Gastroenterology 2026;170:1283-1302（Rome V）
   doi: 10.1053/j.gastro.2025.12.038
@@ -4897,14 +4942,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 未確認
+  license_note: CC BY-NC（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-425
   legacy_id: null
   title: Shorr AF, et al. Acute eosinophilic pneumonia among US military personnel deployed in or near Iraq. JAMA 2004（12月号）
@@ -4927,14 +4975,17 @@
   doi: 10.1183/13993003.00061-2024
   pmid: null
   pmcid: null
-  license_note: 未確認
+  license_note: CC BY-NC（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-427
   legacy_id: null
   title: 'Kudoh S, Kato H, Nishiwaki Y, et al. Interstitial lung disease in Japanese patients with lung cancer: a cohort and nested case-control study. Am J Respir Crit Care Med 2008;177(12):1348-1357'
@@ -5062,14 +5113,17 @@
   doi: 10.1186/s40560-022-00615-6
   pmid: null
   pmcid: null
-  license_note: オープンアクセス、© The Author(s) 2022（ライセンス名は未確認）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：オープンアクセス、© The Author(s) 2022（ライセンス名は未確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
 - id: SRC-436
   legacy_id: null
   title: 'McCormack FX, et al. Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management. Am J Respir Crit Care Med 2016（9月15日号）'
@@ -25615,10 +25669,10 @@
   doi: null
   pmid: '25960697'
   pmcid: PMC7127472
-  license_note: 未確認
+  license_note: CC BY-NC 3.0（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -25626,6 +25680,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2482
   legacy_id: null
   title: 特発性造血障害に関する調査研究班『自己免疫性溶血性貧血診療の参照ガイド 令和4年度改訂版』（2023年3月）
@@ -33199,14 +33256,17 @@
   doi: 10.1111/jgh.70083
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: CC BY-NC-ND（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-4225
   legacy_id: null
   title: 'Brandt LJ, Feuerstadt P, Longstreth GF, Boley SJ. ACG Clinical Guideline: Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, and Management of Colon Ischemia (CI). Am J Gastroenterol. 2015;110(1):18-44.'
@@ -36018,3 +36078,183 @@
   pmid: null
   source_class: GOV_US
   title: 'Feltner C, Peat C, Reddy S, et al. Screening for Eating Disorders in Adolescents and Adults: An Evidence Review for the U.S. Preventive Services Task Force. Evidence Synthesis No. 212. AHRQ Publication No. 21-05284-EF-1. Rockville, MD: Agency for Healthcare Research and Quality; 2022 Mar. NCBI Bookshelf NBK578988'
+- citation: 'National Institutes of Health. Stem Cell Information: Chapter 5. Hematopoietic Stem Cells (NIH stem cell report, chapter PDF)'
+  doi: null
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-4987
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: 米国連邦政府の著作物。ライセンスの根拠：https://webarchive.library.unt.edu/eot2008/20090130203623mp_/http://stemcells.nih.gov/staticresources/info/scireport/PDFs/chapter5.pdf
+  pmcid: null
+  pmid: null
+  source_class: GOV_US
+  title: 'National Institutes of Health. Stem Cell Information: Chapter 5. Hematopoietic Stem Cells (NIH stem cell report, chapter PDF)'
+- citation: 厚生労働省. 「血液製剤の使用指針」、「輸血療法の実施に関する指針」及び「血液製剤保管管理マニュアル」の廃止並びに「輸血療法実践ガイド」の周知について（令和8年3月24日、医薬発0324第2号）
+  doi: null
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-4988
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: 日本の公的資料（法令・通知・政府標準利用規約）。ライセンスの根拠：https://www.mhlw.go.jp/stf/newpage_72052.html
+  pmcid: null
+  pmid: null
+  source_class: GOV_JP
+  title: 厚生労働省. 「血液製剤の使用指針」、「輸血療法の実施に関する指針」及び「血液製剤保管管理マニュアル」の廃止並びに「輸血療法実践ガイド」の周知について（令和8年3月24日、医薬発0324第2号）
+- citation: Vlaar APJ, Kleinman S. An Update of the Definition of Transfusion-Related Acute Lung Injury. Turk J Haematol. 2019;36(4):282-283.
+  doi: 10.4274/tjh.galenos.2019.2019.0279
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-4989
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC6863032/
+  pmcid: PMC6863032
+  pmid: '31452362'
+  source_class: OPEN
+  title: Vlaar APJ, Kleinman S. An Update of the Definition of Transfusion-Related Acute Lung Injury. Turk J Haematol. 2019;36(4):282-283.
+- citation: Baba M, Yoshida K, Ieda M. Clinical Applications of Natriuretic Peptides in Heart Failure and Atrial Fibrillation. Int J Mol Sci 2019;20:2824（MDPI、CC BY）
+  doi: 10.3390/ijms20112824
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-4990
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC6600257/
+  pmcid: PMC6600257
+  pmid: '31185605'
+  source_class: OPEN
+  title: Baba M, Yoshida K, Ieda M. Clinical Applications of Natriuretic Peptides in Heart Failure and Atrial Fibrillation. Int J Mol Sci 2019;20:2824（MDPI、CC BY）
+- citation: 'Aurigemma C, Mangner N, Panoulas V, Møller JE. Mechanical Support in Myocardial Infarction Complicated by Cardiogenic Shock: What Have We Learned from Trials? J Clin Med. 2026'
+  doi: 10.3390/jcm15124453
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-4991
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC13301945/
+  pmcid: PMC13301945
+  pmid: '42355620'
+  source_class: OPEN
+  title: 'Aurigemma C, Mangner N, Panoulas V, Møller JE. Mechanical Support in Myocardial Infarction Complicated by Cardiogenic Shock: What Have We Learned from Trials? J Clin Med. 2026'
+- citation: 'Robles-Zurita JA, Briggs A, Rana D, Quayyum Z, Oldroyd KG, Zeymer U, Desch S, de Waha-Thiele S, Thiele H. Economic evaluation of culprit lesion only PCI vs. immediate multivessel PCI in acute myocardial infarction complicated by cardiogenic shock: the CULPRIT-SHOCK trial. Eur J Health Econ. 2020;21(8):1197-1209'
+  doi: 10.1007/s10198-020-01235-3
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-4992
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC7561561/
+  pmcid: PMC7561561
+  pmid: '33029668'
+  source_class: OPEN
+  title: 'Robles-Zurita JA, Briggs A, Rana D, Quayyum Z, Oldroyd KG, Zeymer U, Desch S, de Waha-Thiele S, Thiele H. Economic evaluation of culprit lesion only PCI vs. immediate multivessel PCI in acute myocardial infarction complicated by cardiogenic shock: the CULPRIT-SHOCK trial. Eur J Health Econ. 2020;21(8):1197-1209'
+- citation: Sampath-Kumar R, Rück A, Manouras A, et al. Evaluation and Management Principles for Chronic Right Heart Failure and Tricuspid Regurgitation. Curr Heart Fail Rep. 2025;22(1):32
+  doi: 10.1007/s11897-025-00720-1
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-4993
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:41144096&format=json
+  pmcid: PMC12559073
+  pmid: '41144096'
+  source_class: OPEN
+  title: Sampath-Kumar R, Rück A, Manouras A, et al. Evaluation and Management Principles for Chronic Right Heart Failure and Tricuspid Regurgitation. Curr Heart Fail Rep. 2025;22(1):32
+- citation: 'Simeone B, Maggio E, Schirone L, et al. Chronic Thromboembolic Pulmonary Hypertension: the therapeutic assessment. Front Cardiovasc Med 2024;11:1439411'
+  doi: 10.3389/fcvm.2024.1439411
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-4994
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC11337617/
+  pmcid: PMC11337617
+  pmid: '39171327'
+  source_class: OPEN
+  title: 'Simeone B, Maggio E, Schirone L, et al. Chronic Thromboembolic Pulmonary Hypertension: the therapeutic assessment. Front Cardiovasc Med 2024;11:1439411'
+- citation: ClinicalTrials.gov 結果登録 NCT00855465（CHEST-1、リオシグアト BAY63-2521、米国国立医学図書館）
+  doi: null
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-4995
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: 米国連邦政府の著作物。ライセンスの根拠：https://clinicaltrials.gov/study/NCT00855465
+  pmcid: null
+  pmid: null
+  source_class: GOV_US
+  title: ClinicalTrials.gov 結果登録 NCT00855465（CHEST-1、リオシグアト BAY63-2521、米国国立医学図書館）
+- citation: Kularatne M, Gerges C, Jevnikar M, Humbert M, Montani D. Updated Clinical Classification and Hemodynamic Definitions of Pulmonary Hypertension and Its Clinical Implications. J Cardiovasc Dev Dis 2024;11(3):78
+  doi: 10.3390/jcdd11030078
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-4996
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://mdpi-res.com/d_attachment/jcdd/jcdd-11-00078/article_deploy/jcdd-11-00078.pdf?version=1709019098
+  pmcid: PMC10971453
+  pmid: '38535101'
+  source_class: OPEN
+  title: Kularatne M, Gerges C, Jevnikar M, Humbert M, Montani D. Updated Clinical Classification and Hemodynamic Definitions of Pulmonary Hypertension and Its Clinical Implications. J Cardiovasc Dev Dis 2024;11(3):78
+- citation: ClinicalTrials.gov 結果登録 NCT01178073（AMBITION、アンブリセンタン＋タダラフィル初期併用、米国国立医学図書館）
+  doi: null
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-4997
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: 米国連邦政府の著作物。ライセンスの根拠：https://clinicaltrials.gov/study/NCT01178073
+  pmcid: null
+  pmid: null
+  source_class: GOV_US
+  title: ClinicalTrials.gov 結果登録 NCT01178073（AMBITION、アンブリセンタン＋タダラフィル初期併用、米国国立医学図書館）
+- citation: ClinicalTrials.gov 結果登録 NCT04576988（STELLAR、ソタテルセプト MK-7962-003、米国国立医学図書館）
+  doi: null
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-4998
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: 米国連邦政府の著作物。ライセンスの根拠：https://clinicaltrials.gov/study/NCT04576988
+  pmcid: null
+  pmid: null
+  source_class: GOV_US
+  title: ClinicalTrials.gov 結果登録 NCT04576988（STELLAR、ソタテルセプト MK-7962-003、米国国立医学図書館）

@@ -3063,7 +3063,7 @@
     source_license: 企業資料（非CC）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ7、作り手の調査 2026-11-11）：厚生労働省 審議結果報告書（ビロイ点滴静注用100mg、令和6年3月4日）：効能・効果と承認の事実。PMDA 審査報告書は利用条件の確認後に追加
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: false
@@ -3093,6 +3093,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ7、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: GD-058
   domain: GD
   subdomain: 胃癌
@@ -3823,7 +3826,7 @@
     source_license: Open access, © 2023 The Authors（CC種別はCrossrefで要確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ7、作り手の調査 2026-11-11）：Gastric neuroendocrine tumors: a comprehensive analysis of clinicopathological characteristics（Arquivos Brasileiros de Cirurgia Digestiva）2025（新規登録候補）（CC BY）。区分:OPEN 裏づけ範囲:全文が分類を明記する：Type I は自己免疫性萎縮性胃炎と高ガストリン血症を背景とし最も多い（70〜80%）、Type II は Zollinger-Ellison 症候群・MEN1 に伴うガストリノーマの文脈で生じる。カードの I型・II型の背景病態の区別が裏づけられる。 備考:現出典（SRC-039、ENETS 2023）は Europe PMC で CC BY-NC-ND と確認され、マスターの UNKNOWN は RESTRICTED への明確化が適切である（D ではない申し送り）。あわせて SRC-039 の PMID 37401795 …'
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -3856,6 +3859,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ7、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: GD-072
   domain: GD
   subdomain: 胃静脈瘤
@@ -4500,9 +4506,9 @@
     pmid: '36148963'
     pmcid: PMC9514333
     url: https://wwwnc.cdc.gov/eid/article/28/10/22-0627_article
-    source_license: U.S. Government の刊行物で public domain（記事本文に明記）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: GOV_US
+    source_class: OPEN
     corroboration: null
     id_check:
       checked_at: '2026-10-13'
@@ -4536,6 +4542,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-042 の区分の訂正にあわせて provenance.source_class を GOV_US から OPEN にした。三原の承認（2026-11-11）による
 - id: GD-085
   domain: GD
   subdomain: 胃アニサキス症
@@ -4552,9 +4561,9 @@
     pmid: '36148963'
     pmcid: PMC9514333
     url: https://wwwnc.cdc.gov/eid/article/28/10/22-0627_article
-    source_license: CDC刊行誌。記事ページにパブリックドメインの明示はなく未確認
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
     id_check:
       checked_at: '2026-10-13'
@@ -4588,6 +4597,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-042 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: GD-086
   domain: GD
   subdomain: 胃ポリープ
@@ -4770,7 +4782,7 @@
     source_license: © 日本消化器内視鏡学会（J-STAGE無料公開、非CC）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ7、作り手の調査 2026-11-11）：Endoscopic findings and outcomes of gastric mucosal changes relating to potassium-competitive acid blocker and proton pump inhibitor. DEN Open 2024（新規登録候補）（CC BY）。区分:OPEN 裏づけ範囲:PPI・P-CAB（ボノプラザン）長期投与に伴う胃粘膜変化（胃底腺ポリープ、過形成性ポリープ、多発性白色扁平隆起病変、敷石状変化、黒点、星屑様変化の6病変）を総説し、血清ガストリン値は休薬判断に有用でないことなど、変化の大半が休薬・中止を要しない方向の知見を整理している。カードの前半（多くの変化は休薬や中止を必要としない）は裏づけられる。 備考:「出血を伴う過形成性ポリープがある場合は中止または H2受容体拮抗薬への変更を検討する」という具体は、候補の抄録の確認範囲に明示がなく、現出典（SRC-044、日本消化器内視鏡学会雑誌2025）の本…
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -4797,6 +4809,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ7、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: GD-090
   domain: GD
   subdomain: 急性胃粘膜病変
@@ -4817,7 +4832,7 @@
     source_license: © 日本消化器内視鏡学会（J-STAGE無料公開、非CC）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ7、作り手の調査 2026-11-11）：Sugimoto M, et al. Evidence-based clinical practice guidelines for peptic ulcer disease 2026. J Gastroenterol 2026（既存 SRC-031、OPEN）。区分:OPEN 裏づけ範囲:消化性潰瘍診療ガイドラインの薬剤性潰瘍の枠組み（NSAID 潰瘍の予防・対策として、最低有効量・最短期間、H. pylori 除菌、PPI 併用、COX-2 選択的阻害薬の使用）が、カードの対策部分と整合する。2020年版英語版（PMID 33620586、CC BY）の抄録でも薬剤性潰瘍が独立の章立てであることを確認した。 備考:傷害の好発部位（前庭部から幽門部の潰瘍・びらん・出血）という内視鏡所見の具体は現出典（SRC-044）固有で、候補では裏づけられない。候補は既存の SRC-031（消化性潰瘍ガイドライン2026、OPEN 登録済み）を裏づけとして使う形を提案する。
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -4844,6 +4859,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ7、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: GD-091
   domain: GD
   subdomain: 急性胃粘膜病変
@@ -5060,7 +5078,7 @@
     url: https://turkjsurg.com/articles/doi/turkjsurg.2026.2025-11-25
     source_license: © Galenos Publishing House（ライセンス種別は未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
     id_check:
       checked_at: '2026-10-13'
@@ -5094,6 +5112,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：curriculum は調査レポートの値を採用。コアカリは CSV（令和4年度版）の index と id の対応、出題基準は令和6年版 PDF の項目番号と照合し、全件一致を確認（人間が2026-10-13にチャットで委任）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-047 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: GD-096
   domain: GD
   subdomain: 上腸間膜動脈性十二指腸閉塞症
@@ -5114,7 +5135,7 @@
     source_license: CC表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ7、作り手の調査 2026-11-11）：Acute superior mesenteric artery syndrome in a young adult: case report. Annals of Medicine and Surgery 2025（CC BY）（補助：現出典 SRC-4211 の PubMed 抄録レコード）。区分:OPEN 裏づけ範囲:CC BY 症例報告の抄録が「急激な体重減少と後腹膜脂肪（fat pad）の減少に続いて、大動脈と上腸間膜動脈の間で十二指腸が圧迫される」機序を明記し、現出典（Merrett 2009）の抄録も「十二指腸第3部が上腸間膜動脈に圧迫され、急激な体重減少が大動脈・上腸間膜動脈角を狭くする」と記載する。カードの病態（圧迫による閉塞＋腸間膜脂肪の減少が代表的誘因）が裏づけられる。 備考:現出典（SRC-4211）の PMID はマスター未登録（null）のため、PMID 18810558 の補完を提案する。候補は症例報告であり、裏づけ用途に限る。'
   uncertainty: 専用ガイドラインは存在せず、症例集積と総説に基づく記述である。機能性嘔吐との鑑別など過剰診断への注意が近年の論点である。
   curriculum:
     kokushi: 医学各論 Ⅵ-2-A-①（上腸間膜動脈性十二指腸閉塞症<上腸間膜動脈症候群>、b）
@@ -5129,6 +5150,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ7、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: GD-097
   domain: GD
   subdomain: 上腸間膜動脈性十二指腸閉塞症
@@ -5149,7 +5173,7 @@
     source_license: CC BY-NC 4.0（出版社ページで確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ7、作り手の調査 2026-11-11）：Superior Mesenteric Artery Syndrome Across Adulthood: A Retrospective Clinicoradiological Study. Medicina 2025（CC BY）（新規登録候補）（CC BY）。区分:OPEN 裏づけ範囲:造影CT で大動脈・上腸間膜動脈角（実測10〜25°）と両血管の距離（実測3〜8 mm）を計測し、十二指腸第3部の圧迫と口側の拡張を症状と合わせて診断する枠組みが、カードの診断裏づけ（角度・距離の閾値と口側の胃十二指腸拡張）と整合する。腹臥位などの体位による軽減は、現出典（SRC-4212）の抄録が体位変換を初期治療として挙げる範囲で方向が一致する。 備考:現出典（SRC-4212、World J Clin Cases 2023）は Europe PMC で CC BY-NC と確認され、RESTRICTED のままが正しい。あわせてマスター未登録の PMID 37383896・PMCID PMC1…'
   uncertainty: 角度と距離の基準値は総説によるもので、専用ガイドラインの基準ではない。
   curriculum:
     kokushi: 医学各論 Ⅵ-2-A-①（上腸間膜動脈性十二指腸閉塞症<上腸間膜動脈症候群>、b）
@@ -5164,6 +5188,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ7、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: GD-098
   domain: GD
   subdomain: 十二指腸腫瘍
@@ -5219,7 +5246,7 @@
     source_license: CC表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ7、作り手の調査 2026-11-11）：National Cancer Institute (NCI). Small Intestine Cancer Treatment (PDQ®) – Health Professional Version（米国政府）。区分:GOV_US 裏づけ範囲:PDQ は「切除可能な場合は外科切除が主要な治療であり、治癒は完全切除の可否にかかる」とし、切除可能な原発腺癌には根治的外科切除を挙げる。十二指腸腫瘍では膵頭十二指腸切除または分節的十二指腸切除が選択肢となることも PDQ の治療方針と整合する。カードの「限局例では外科切除が基本、十二指腸原発では膵頭十二指腸切除または部分切除」は裏づけられる。 備考:現出典は NCCN ガイドライン（SRC-4214）で RESTRICTED のまま。裏づけは NCI PDQ（GOV_US）による。あわせて SRC-4214 の PMID 31487687・PMCID PMC10191182 の補完を提案する（バッチ5でも同一出典について補完を報告済み）。
   uncertainty: 引用は2019年の誌掲載版（Version 1.2020）で、現行版は Version 2.2026 である。切除術式の記述に版による変更がないかは組み立て時に再確認を要する。
   curriculum:
     kokushi: 医学各論 Ⅵ-2-D-④（十二指腸腫瘍、b）
@@ -5234,3 +5261,6 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ7、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による

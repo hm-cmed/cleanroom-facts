@@ -1,6 +1,6 @@
 # BL 血液・造血の横断項目 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-10
+[← 一覧に戻る](README.md)　更新：2026-11-11
 
 全 14 件のうち、監修済み 0 件。
 
@@ -12,11 +12,11 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：主張は抄録で確認した範囲（造血系の階層構造の総論）。分化の各段階の詳細は本文未照合のため主張に入れていない
-- 出典：Seita J, Weissman IL. Hematopoietic stem cell: self-renewal versus differentiation. Wiley Interdiscip Rev Syst Biol Med. 2010;2(6):640-653.　[DOI 10.1002/wsbm.86](https://doi.org/10.1002/wsbm.86)　[PMID 20890962](https://pubmed.ncbi.nlm.nih.gov/20890962/)（区分 RESTRICTED）
+- 出典：National Institutes of Health. Stem Cell Information: Chapter 5. Hematopoietic Stem Cells (NIH stem cell report, chapter PDF)　[リンク](https://webarchive.library.unt.edu/eot2008/20090130203623mp_/http://stemcells.nih.gov/staticresources/info/scireport/PDFs/chapter5.pdf)（区分 GOV_US）
 - 出題基準：－　コアカリ：PS-02-02-01 (id: JkxnuPM)；TBL-02-01-001 (id: JlAKpVg)；TBL-02-01-002 (id: JlAKpVk)；TBL-02-01-003 (id: JlAKpVo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BL-001&card_id=BL-001&version=1021005de6)　（版 `1021005de6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BL-001&card_id=BL-001&version=a6a54eb23d)　（版 `a6a54eb23d`）
 
-**[ここまでの 1 件（BL-001）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BL-001&cards=BL-001%201021005de6)**
+**[ここまでの 1 件（BL-001）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BL-001&cards=BL-001%20a6a54eb23d)**
 
 ---
 
@@ -54,7 +54,7 @@
 
 - 条件：region: 国際／対象: 血液疾患が疑われる患者
 - 不確実性：主張は抄録で確認した範囲。個別の形態所見（芽球・破砕赤血球など）の解釈は本文未照合のため主張に入れていない。骨髄検査そのものの解釈に特化した一次資料は未特定で、組み立て時の追加確認事項
-- 出典：Adewoyin AS, Nwogoh B. Peripheral blood film - a review. Ann Ib Postgrad Med. 2014;12(2):71-79.　[PMID 25960697](https://pubmed.ncbi.nlm.nih.gov/25960697/)（区分 UNKNOWN）
+- 出典：Adewoyin AS, Nwogoh B. Peripheral blood film - a review. Ann Ib Postgrad Med. 2014;12(2):71-79.　[PMID 25960697](https://pubmed.ncbi.nlm.nih.gov/25960697/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-02-03 (id: JkxnuPU)；TBL-02-01-016 (id: JlAKpWg)；TBL-02-01-018 (id: JlAKpWo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BL-004&card_id=BL-004&version=832cc3e5e7)　（版 `832cc3e5e7`）
 
@@ -102,9 +102,9 @@
 
 - 条件：region: 日本／対象: 輸血療法を受ける患者
 - 不確実性：廃止と統合の経緯は学会公式ページと厚労省通知ページで確認した。ガイド本文の個別の推奨（製剤ごとの適応・用量）は未照合のため主張に入れていない。血液製剤はいずれも国内で承認された医薬品・特定生物由来製品であり、本カードは個別製剤の適応を述べるものではない
-- 出典：日本輸血・細胞治療学会『輸血療法実践ガイド』（2026年6月、学会発行）（区分 RESTRICTED）
+- 出典：厚生労働省. 「血液製剤の使用指針」、「輸血療法の実施に関する指針」及び「血液製剤保管管理マニュアル」の廃止並びに「輸血療法実践ガイド」の周知について（令和8年3月24日、医薬発0324第2号）　[リンク](https://www.mhlw.go.jp/stf/newpage_72052.html)（区分 GOV_JP）
 - 出題基準：－　コアカリ：PS-02-02-04 (id: JkxnuPY)；TBL-02-01-019 (id: JlAKpWs)；TBL-02-01-022 (id: JlAKpW4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BL-007&card_id=BL-007&version=103c14f865)　（版 `103c14f865`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BL-007&card_id=BL-007&version=b061b4256a)　（版 `b061b4256a`）
 
 ### BL-008　下書き（出典の照合前）
 
@@ -116,7 +116,7 @@
 - 出題基準：－　コアカリ：PS-02-02-04 (id: JkxnuPY)；TBL-02-01-019 (id: JlAKpWs)；TBL-02-01-022 (id: JlAKpW4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BL-008&card_id=BL-008&version=90a71a78f9)　（版 `90a71a78f9`）
 
-**[ここまでの 2 件（BL-007〜BL-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BL-007%E3%80%9CBL-008&cards=BL-007%20103c14f865%0ABL-008%2090a71a78f9)**
+**[ここまでの 2 件（BL-007〜BL-008）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BL-007%E3%80%9CBL-008&cards=BL-007%20b061b4256a%0ABL-008%2090a71a78f9)**
 
 ---
 
@@ -128,9 +128,9 @@
 
 - 条件：region: 国際／対象: 輸血を受ける患者
 - 不確実性：主張は抄録で確認した範囲。再定義の診断項目の詳細（発症までの時間など）は本文未照合のため主張に入れていない
-- 出典：Vlaar APJ, Toy P, Fung M, et al. A consensus redefinition of transfusion-related acute lung injury. Transfusion. 2019;59(7):2465-2476.　[DOI 10.1111/trf.15311](https://doi.org/10.1111/trf.15311)　[PMID 30993745](https://pubmed.ncbi.nlm.nih.gov/30993745/)（区分 RESTRICTED）
+- 出典：Vlaar APJ, Kleinman S. An Update of the Definition of Transfusion-Related Acute Lung Injury. Turk J Haematol. 2019;36(4):282-283.　[DOI 10.4274/tjh.galenos.2019.2019.0279](https://doi.org/10.4274/tjh.galenos.2019.2019.0279)　[PMID 31452362](https://pubmed.ncbi.nlm.nih.gov/31452362/)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-02-04 (id: JkxnuPY)；TBL-02-01-019 (id: JlAKpWs)；TBL-02-01-022 (id: JlAKpW4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BL-009&card_id=BL-009&version=eb138d43f1)　（版 `eb138d43f1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BL-009&card_id=BL-009&version=7ac524e4c4)　（版 `7ac524e4c4`）
 
 ### BL-010　下書き（出典の照合前）
 
@@ -152,7 +152,7 @@
 - 出題基準：－　コアカリ：PS-02-02-04 (id: JkxnuPY)；TBL-02-01-019 (id: JlAKpWs)；TBL-02-01-022 (id: JlAKpW4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BL-011&card_id=BL-011&version=fe1af58b12)　（版 `fe1af58b12`）
 
-**[ここまでの 3 件（BL-009〜BL-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BL-009%E3%80%9CBL-011&cards=BL-009%20eb138d43f1%0ABL-010%2073d60a0dee%0ABL-011%20fe1af58b12)**
+**[ここまでの 3 件（BL-009〜BL-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20BL-009%E3%80%9CBL-011&cards=BL-009%207ac524e4c4%0ABL-010%2073d60a0dee%0ABL-011%20fe1af58b12)**
 
 ---
 

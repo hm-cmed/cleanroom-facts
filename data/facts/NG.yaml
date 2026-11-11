@@ -18,7 +18,7 @@
     source_license: © 2016 AGA Institute（非CC）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：NIDDK『Definition & Facts for Irritable Bowel Syndrome』（米国政府著作物）。腸内細菌叢の乱れ・粘膜免疫の変化という要素は NIDDK の当該ページに明記がない。原典 SRC-100（Drossman & Hasler 2016）の PubMed レコードには抄録テキスト自体がなく、先例型の裏づけは成立しない
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)；TBL-02-07-005 (id: JlAKpjg)；TBL-02-07-015 (id: JlAKpkI)'
@@ -32,6 +32,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-002
   domain: NG
   subdomain: 腸脳相関病（DGBI）の概念と分類
@@ -1332,7 +1335,7 @@
     source_license: 医療用医薬品の添付文書（PMDA掲載。著作権は製造販売業者。事実のみ使用）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：Ramosetron SR/MA（BMC Gastroenterol 2018、CC BY、マスター未登録）。性別用量（男性5 μg・女性2.5 μg）は日本の添付文書の用法であり、この SR の抄録には載らない
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-022 (id: JlAKpkc)'
@@ -1346,6 +1349,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-043
   domain: NG
   subdomain: DGBIの国内承認薬
@@ -1497,7 +1503,7 @@
     source_license: 医療用医薬品の添付文書（PMDA掲載。著作権は製造販売業者。事実のみ使用）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：SRC-049（IBSガイドライン2020英語版、CC BY）。SIBO への非承認は英語版ガイドラインに明記がない。SRC-049 は出典マスターで区分 UNKNOWN だが原典は CC BY で OPEN が正しい（区分の訂正は重要発見として別途報告）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)'
@@ -1507,6 +1513,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-048
   domain: NG
   subdomain: げっぷ障害・反芻症候群
@@ -2271,7 +2281,7 @@
     source_license: © 2016 AGA Institute（非CC。Rome IV の基準文の転載はせず、事実のみ使用）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：NIDDK『Definition & Facts for Irritable Bowel Syndrome』（米国政府著作物）。Rome IV の腹痛頻度基準（週1回以上）と IBS-U（分類不能型）は NIDDK に記載がない
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-017 (id: JlAKpkM)'
@@ -2288,6 +2298,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-071
   domain: NG
   subdomain: 機能性腸疾患（Rome IV）
@@ -2308,7 +2321,7 @@
     source_license: © 2016 AGA Institute（非CC。Rome IV の基準文の転載はせず、事実のみ使用）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：SRC-143（Rome V 腸疾患章、CC BY）全文 C3。有病率の幅（1.5〜17%）は Rome V 章に裏づけがない。版をまたぐ裏づけである点に留意（定義自体は IV・V で同一）
   uncertainty: 有病率はRome IVの章が引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-022 (id: JlAKpkc)'
@@ -2322,6 +2335,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-072
   domain: NG
   subdomain: 機能性腸疾患（Rome IV）
@@ -2342,7 +2358,7 @@
     source_license: © 2016 AGA Institute（非CC。Rome IV の基準文の転載はせず、事実のみ使用）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：SRC-143（Rome V 腸疾患章、CC BY）全文 C4。実際に膨隆が測定される割合（約50〜60%）と米国の電話調査の数値（15.9%、女性19.2%・男性10.5%）は Rome V 章にない
   uncertainty: 数値はRome IVの章が引用した研究の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-024 (id: JlAKpko)'
@@ -2356,6 +2372,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-073
   domain: NG
   subdomain: 機能性腸疾患（Rome IV）
@@ -2617,7 +2636,7 @@
     source_license: © 2016 AGA Institute（非CC。Rome IV の基準文の転載はせず、事実のみ使用）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：NIDDK『Definition & Facts for GER & GERD in Infants』（米国政府著作物）。Rome IV の定義要件（1日2回以上・3週間以上、警告所見なし）と PPI を避けるべきという治療上の注意は、当該 NIDDK ページ（定義編）には明記がない
   uncertainty: 数値はRome IVの章が引用した研究の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)'
@@ -2631,6 +2650,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-081
   domain: NG
   subdomain: 小児の機能性消化管疾患
@@ -2685,7 +2707,7 @@
     source_license: © 2016 AGA Institute（非CC。Rome IV の基準文の転載はせず、事実のみ使用）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：NIDDK『Definition & Facts for Constipation in Children』（米国政府著作物）。持続期間（1か月）と年齢別の有病率（1年目 約2.9%・2年目 約10.1%）は NIDDK にない
   uncertainty: 有病率はRome IVの章が引用した値（二次資料経由）。日本の小児慢性機能性便秘症診療GLは今回未参照
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)'
@@ -2702,6 +2724,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-083
   domain: NG
   subdomain: 小児の機能性消化管疾患
@@ -2756,7 +2781,7 @@
     source_license: © 2016 AGA Institute（非CC。Rome IV の基準文の転載はせず、事実のみ使用）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：NIDDK『Treatment for Constipation in Children』（米国政府著作物）。ポリエチレングリコールが第一選択であること、持続期間を2か月から1か月に短縮した経緯、便塞栓除去と維持療法の2段階構成は NIDDK に明記がない
   uncertainty: 有病率はRome IVの章が引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)'
@@ -2773,6 +2798,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-085
   domain: NG
   subdomain: 小児の機能性消化管疾患
@@ -2827,7 +2855,7 @@
     source_license: © 日本消化器病学会（非CC）。ユーザー提供のPDFで確認
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：SRC-049（IBSガイドライン2020英語版、CC BY）。オキシトシンへの言及は英語版ガイドラインの全文テキストに0件。カードのオキシトシンのくだりは日本語版側の記述とみられ、英語版では裏づけられない（日本語版原文での確認が要る）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-005 (id: JlAKpjg)'
@@ -2841,6 +2869,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-087
   domain: NG
   subdomain: IBSの病態（日本のGL）
@@ -2852,16 +2883,16 @@
     differential: 炎症性腸疾患（明らかな粘膜炎症がある）
     common_misconception: IBSの腸粘膜は完全に正常である
   provenance:
-    source_ref: SRC-134
-    source: 日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020
-    doi: null
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
     pmid: null
     pmcid: null
-    url: null
-    source_license: © 日本消化器病学会（非CC）。ユーザー提供のPDFで確認
+    url: https://doi.org/10.1007/s00535-020-01746-z
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-134（日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)'
@@ -2875,6 +2906,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-134 から自由に使える資料 SRC-049 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：IBS 診療ガイドライン2020英語版（CC BY）で全要素を確認）。三原の承認（2026-11-11）による
 - id: NG-088
   domain: NG
   subdomain: IBSの病態（日本のGL）
@@ -2886,16 +2920,16 @@
     differential: null
     common_misconception: IBSでは脳の反応に異常はない
   provenance:
-    source_ref: SRC-134
-    source: 日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020
-    doi: null
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
     pmid: null
     pmcid: null
-    url: null
-    source_license: © 日本消化器病学会（非CC）。ユーザー提供のPDFで確認
+    url: https://doi.org/10.1007/s00535-020-01746-z
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-134（日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020）
   uncertainty: GLが引用したメタ解析の所見（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-005 (id: JlAKpjg)'
@@ -2909,6 +2943,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-134 から自由に使える資料 SRC-049 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：IBS 診療ガイドライン2020英語版（CC BY）で全要素を確認）。三原の承認（2026-11-11）による
 - id: NG-089
   domain: NG
   subdomain: IBSの病態（日本のGL）
@@ -2920,16 +2957,16 @@
     differential: null
     common_misconception: IBSは遺伝とはまったく関係がない
   provenance:
-    source_ref: SRC-134
-    source: 日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020
-    doi: null
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
     pmid: null
     pmcid: null
-    url: null
-    source_license: © 日本消化器病学会（非CC）。ユーザー提供のPDFで確認
+    url: https://doi.org/10.1007/s00535-020-01746-z
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-134（日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020）
   uncertainty: GLが引用した研究の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
@@ -2943,6 +2980,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-134 から自由に使える資料 SRC-049 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：IBS 診療ガイドライン2020英語版（CC BY）で全要素を確認）。三原の承認（2026-11-11）による
 - id: NG-090
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -2954,16 +2994,16 @@
     differential: 米国NCCIHは効果について明確な結論は出ていないとしている（NG-035）
     common_misconception: プロバイオティクスはIBSに無効とされている
   provenance:
-    source_ref: SRC-134
-    source: 日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020
-    doi: null
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
     pmid: null
     pmcid: null
-    url: null
-    source_license: © 日本消化器病学会（非CC）。ユーザー提供のPDFで確認
+    url: https://doi.org/10.1007/s00535-020-01746-z
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-134（日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)'
@@ -2977,6 +3017,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-134 から自由に使える資料 SRC-049 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：IBS 診療ガイドライン2020英語版（CC BY）で全要素を確認）。三原の承認（2026-11-11）による
 - id: NG-091
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -2988,16 +3031,16 @@
     differential: 日本の5-HT3拮抗薬はラモセトロン（NG-042）
     common_misconception: 下痢型IBSの治療は止痢薬が第一選択である
   provenance:
-    source_ref: SRC-134
-    source: 日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020
-    doi: null
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
     pmid: null
     pmcid: null
-    url: null
-    source_license: © 日本消化器病学会（非CC）。ユーザー提供のPDFで確認
+    url: https://doi.org/10.1007/s00535-020-01746-z
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-134（日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-022 (id: JlAKpkc)'
@@ -3011,6 +3054,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-134 から自由に使える資料 SRC-049 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：IBS 診療ガイドライン2020英語版（CC BY）で全要素を確認）。三原の承認（2026-11-11）による
 - id: NG-092
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -3022,16 +3068,16 @@
     differential: null
     common_misconception: 便秘型IBSには刺激性下剤を毎日使う
   provenance:
-    source_ref: SRC-134
-    source: 日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020
-    doi: null
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
     pmid: null
     pmcid: null
-    url: null
-    source_license: © 日本消化器病学会（非CC）。ユーザー提供のPDFで確認
+    url: https://doi.org/10.1007/s00535-020-01746-z
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-134（日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-021 (id: JlAKpkY)'
@@ -3045,6 +3091,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-134 から自由に使える資料 SRC-049 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：IBS 診療ガイドライン2020英語版（CC BY）で全要素を確認）。三原の承認（2026-11-11）による
 - id: NG-093
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -3056,16 +3105,16 @@
     differential: null
     common_misconception: IBSに抗うつ薬を使うのはうつ病を合併した場合だけ
   provenance:
-    source_ref: SRC-134
-    source: 日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020
-    doi: null
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
     pmid: null
     pmcid: null
-    url: null
-    source_license: © 日本消化器病学会（非CC）。ユーザー提供のPDFで確認
+    url: https://doi.org/10.1007/s00535-020-01746-z
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-134（日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
@@ -3079,6 +3128,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-134 から自由に使える資料 SRC-049 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：IBS 診療ガイドライン2020英語版（CC BY）で全要素を確認）。三原の承認（2026-11-11）による
 - id: NG-094
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -3090,16 +3142,16 @@
     differential: null
     common_misconception: IBSの心理療法は専門家しか行えない特別な治療だけを指す
   provenance:
-    source_ref: SRC-134
-    source: 日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020
-    doi: null
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
     pmid: null
     pmcid: null
-    url: null
-    source_license: © 日本消化器病学会（非CC）。ユーザー提供のPDFで確認
+    url: https://doi.org/10.1007/s00535-020-01746-z
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-134（日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020）
   uncertainty: NNTはGLが引用したメタ解析の値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
@@ -3113,6 +3165,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-134 から自由に使える資料 SRC-049 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：IBS 診療ガイドライン2020英語版（CC BY）で全要素を確認）。三原の承認（2026-11-11）による
 - id: NG-095
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -3133,7 +3188,7 @@
     source_license: © 日本消化器病学会（非CC）。ユーザー提供のPDFで確認
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：SRC-049（IBSガイドライン2020英語版、CC BY）。推奨部分は置き換え可能だが、試験結果の数値部分は日本語版側の記述であり英語版では裏づけられないため B
   uncertainty: RCTの数値はGLが引用した値（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
@@ -3147,6 +3202,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-096
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -3158,16 +3216,16 @@
     differential: 日本のリファキシミンの効能は肝性脳症の高アンモニア血症のみ（NG-047）
     common_misconception: ガイドラインで提案されていれば保険診療で使える
   provenance:
-    source_ref: SRC-134
-    source: 日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020
-    doi: null
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
     pmid: null
     pmcid: null
-    url: null
-    source_license: © 日本消化器病学会（非CC）。ユーザー提供のPDFで確認
+    url: https://doi.org/10.1007/s00535-020-01746-z
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-134（日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)'
@@ -3181,6 +3239,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-134 から自由に使える資料 SRC-049 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：IBS 診療ガイドライン2020英語版（CC BY）で全要素を確認）。三原の承認（2026-11-11）による
 - id: NG-097
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -3192,16 +3253,16 @@
     differential: オピオイドは麻薬性腸症候群を起こしうる（NG-075）
     common_misconception: 強い腹痛のIBSにはオピオイドを使う
   provenance:
-    source_ref: SRC-134
-    source: 日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020
-    doi: null
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
     pmid: null
     pmcid: null
-    url: null
-    source_license: © 日本消化器病学会（非CC）。ユーザー提供のPDFで確認
+    url: https://doi.org/10.1007/s00535-020-01746-z
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-134（日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020）
   uncertainty: 抗アレルギー薬の具体的な薬剤名と保険適用は本文で確認する
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
@@ -3215,6 +3276,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-134 から自由に使える資料 SRC-049 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：IBS 診療ガイドライン2020英語版（CC BY）で全要素を確認）。三原の承認（2026-11-11）による
 - id: NG-098
   domain: NG
   subdomain: IBSの治療（日本のGL）
@@ -3226,16 +3290,16 @@
     differential: null
     common_misconception: IBSは命にかかわらないので放置してよい
   provenance:
-    source_ref: SRC-134
-    source: 日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020
-    doi: null
+    source_ref: SRC-049
+    source: Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217
+    doi: 10.1007/s00535-020-01746-z
     pmid: null
     pmcid: null
-    url: null
-    source_license: © 日本消化器病学会（非CC）。ユーザー提供のPDFで確認
+    url: https://doi.org/10.1007/s00535-020-01746-z
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-134（日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
@@ -3249,6 +3313,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-134 から自由に使える資料 SRC-049 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：IBS 診療ガイドライン2020英語版（CC BY）で全要素を確認）。三原の承認（2026-11-11）による
 - id: NG-099
   domain: NG
   subdomain: 慢性便秘症（日本の便通異常症GL）
@@ -3269,7 +3336,7 @@
     source_license: © 日本消化管学会（非CC）。ユーザー提供の刊行版PDF（第4刷、ISBN 978-4-524-21005-3）で照合
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：NIDDK『Symptoms & Causes of Constipation』（米国政府著作物）。加齢に伴う平滑筋収縮性・直腸知覚の低下といった機序の詳述や手術歴は NIDDK にない。便通異常症ガイドライン2023の英語版（Ihara E, et al. Digestion 2025;106:62–89、PMID 39159626、PMCID PMC11825134、DOI 10.1159/000540912）は存在するが、Euro…
   uncertainty: 刊行版（第4刷）のBQ2-2（16頁）、BQ3-4（34頁）で文言・推奨度を照合済み（2026-10-18）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-021 (id: JlAKpkY)'
@@ -3283,6 +3350,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-100
   domain: NG
   subdomain: 慢性便秘症（日本の便通異常症GL）
@@ -3337,7 +3407,7 @@
     source_license: © 日本消化管学会（非CC）。ユーザー提供の刊行版PDF（第4刷、ISBN 978-4-524-21005-3）で照合
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：NIDDK『Symptoms & Causes of Constipation』（米国政府著作物）。検査（血液・大腸内視鏡・X線）の個別判断の部分も裏づけは部分的
   uncertainty: 刊行版（第4刷）のCQ4-1（55頁）、BQ4-3（53頁）で文言・推奨度を照合済み（2026-10-18）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-030 (id: JlAKplE)'
@@ -3351,6 +3421,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-102
   domain: NG
   subdomain: 慢性便秘症（日本の便通異常症GL）
@@ -3405,7 +3478,7 @@
     source_license: © 日本消化管学会（非CC）。ユーザー提供の刊行版PDF（第4刷、ISBN 978-4-524-21005-3）で照合
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：NIDDK『Treatment for Constipation』（米国政府著作物）。血清マグネシウムの定期測定の注意は NIDDK にない
   uncertainty: 刊行版（第4刷）のCQ5-1（77頁、強い推奨・合意率100%・A）、BQ5-5（81頁）で文言・推奨度を照合済み（2026-10-18）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)'
@@ -3419,6 +3492,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-104
   domain: NG
   subdomain: 慢性便秘症（日本の便通異常症GL）
@@ -3473,7 +3549,7 @@
     source_license: © 日本消化管学会（非CC）。ユーザー提供の刊行版PDF（第4刷、ISBN 978-4-524-21005-3）で照合
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：NIDDK『Treatment for Constipation』等（米国政府）。添付文書の部分は使わない
   uncertainty: 刊行版（第4刷）のCQ5-4（101頁、推奨なし・C）で文言・推奨度を照合済み（2026-10-18）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-021 (id: JlAKpkY)'
@@ -3487,6 +3563,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分C、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-106
   domain: NG
   subdomain: 慢性便秘症（日本の便通異常症GL）
@@ -3507,7 +3586,7 @@
     source_license: © 日本消化管学会（非CC）。ユーザー提供の刊行版PDF（第4刷、ISBN 978-4-524-21005-3）で照合
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：NIDDK『Treatment for Constipation』（米国政府著作物）。専門施設での治療が勧められる点や、術前の胃排出障害・直腸排便機能障害の評価といった運用の詳細は NIDDK にない
   uncertainty: 刊行版（第4刷）のBQ5-10（105頁）、BQ5-12（108頁）、CQ5-5（112頁、強い推奨・合意率73%・B）で文言・推奨度を照合済み（2026-10-18）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-268 (id: Jlvnl4o)；TBL-02-07-011 (id: JlAKpj4)'
@@ -3521,6 +3600,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-3-A-①（便秘症、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-107
   domain: NG
   subdomain: 慢性便秘症（日本の便通異常症GL）
@@ -3745,7 +3827,7 @@
     source_license: © 2026 Rome Foundation. All rights reserved
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：SRC-143（Rome V 腸疾患章、CC BY）全文。機能性胸痛・機能性胸やけの名称存続は食道疾患章の話で、本章（腸疾患）では確認できない
   uncertainty: 腸疾患の章では機能性腹部膨満の名称も残っている（NG-126）。
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)'
@@ -3759,6 +3841,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-114
   domain: NG
   subdomain: Rome V（2026）
@@ -3804,16 +3889,16 @@
     differential: Rome IVのIBS基準（NG-070）
     common_misconception: Rome VでもIBSは週1日以上の腹痛が必要である
   provenance:
-    source_ref: SRC-137
-    source: 'Rome Foundation『Rome V: A Global Framework for Disorders of Gut–Brain Interaction』（製品・概要ページ）'
-    doi: null
+    source_ref: SRC-143
+    source: Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology. 2026;170:1261-1282
+    doi: 10.1053/j.gastro.2026.02.003
     pmid: null
     pmcid: null
-    url: https://theromefoundation.org/rome-v-a-global-framework-for-disorders-of-gut-brain-interaction/
-    source_license: © 2026 Rome Foundation. All rights reserved
+    url: https://doi.org/10.1053/j.gastro.2026.02.003
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: '元の主出典：SRC-137（Rome Foundation『Rome V: A Global Framework for Disorders of Gut–Brain Interaction』（製品・概要ページ））'
   uncertainty: 腸疾患の章（NG-127）で、持続痛の除外と、月経だけに限らないという補助基準を確認した
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-017 (id: JlAKpkM)'
@@ -3830,6 +3915,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-137 から自由に使える資料 SRC-143 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：Rome V 腸疾患章（CC BY）の全文で全要素を確認）。三原の承認（2026-11-11）による
 - id: NG-116
   domain: NG
   subdomain: Rome V（2026）
@@ -3850,7 +3938,7 @@
     source_license: © 2026 Rome Foundation. All rights reserved
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ3、作り手の調査 2026-11-11）：SRC-150（Rome V 胃十二指腸章、CC BY）の PubMed 抄録レコード。成人の腹部片頭痛の Rome V での配置は自由な資料で確認できなかった。直腸肛門の感覚機能障害は肛門直腸章（PMID 41713710）の扱いだが、同章は CC BY-NC-ND で自由な裏づけにならない。SRC-150 は出典マスター登録済み（OPEN）
   uncertainty: 麻薬性腸症候群はRome IVですでに取り上げられており（NG-003、NG-075）、Rome Vの新規疾患ではない。腹部片頭痛（NG-154）と直腸肛門の感覚機能障害（NG-164）は原典で確認。げっぷができない症候群は胃十二指腸の章（NG-209）で新設の疾患として確認
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)'
@@ -3864,6 +3952,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ3、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-117
   domain: NG
   subdomain: Rome V（2026）
@@ -3952,7 +4043,7 @@
     source_license: CC BY-NC-ND 4.0（© 2026 The Author(s)、AGA Institute）。ユーザー提供の原本で確認
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ4、作り手の調査 2026-11-11）：SRC-140 の PubMed 抄録レコード＋SRC-150（Rome V 胃十二指腸章、CC BY）の PubMed 抄録レコード。「逆流陰性食道痛障害は成人の機能性胸やけに相当する」という対応づけは両抄録に明記がない。詳細な基準は本文のみ
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-018 (id: JlAKpkQ)；TBL-02-07-025 (id: JlAKpkw)'
@@ -3966,6 +4057,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ4、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-120
   domain: NG
   subdomain: Rome V 小児上部消化管
@@ -4086,9 +4180,9 @@
     pmid: null
     pmcid: null
     url: https://news.gastro.org/issues/2026/august-2026/rome-v-criteria-capture-more-people-with-ibs-but-a-milder-group/
-    source_license: 原著は未取得。AGA の GI & Hepatology News（2026-08-20）の記事で内容を確認
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 原著は未取得で、AGAのニュース記事（二次資料経由）で確認。Rome Vは持続痛の除外を明記したとされる。Rome V の基準そのものは腸疾患の章（NG-127）で確認済み
   curriculum:
@@ -4106,6 +4200,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「英国」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-141 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: NG-124
   domain: NG
   subdomain: Rome V（2026）
@@ -4127,7 +4224,7 @@
     source_license: CC（記事ページの表示が BY-NC-ND と BY 4.0 で不一致。抄録のみ参照）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ4、作り手の調査 2026-11-11）：SRC-150（Rome V 胃十二指腸章、CC BY）の PubMed 抄録レコード。Lyon Consensus 2.0 と Chicago Classification v4.0 が診断に不可欠という点、機能性嚥下障害での FLIP の特異度向上は抄録になく、原典（SRC-149、CC BY-NC-ND）の本文のみ。現出典 SRC-142 自体のライセンスは、本バッチでは記事ページに到達できず確定できなかった（マスターの「表示が BY-NC-ND と BY 4.0 で不一致」という記録を据え置く。Crossref の license は誌の OA ポリシーページへのリンクのみ）
   uncertainty: 総説の抄録による（二次資料経由）。内容は食道の章（NG-186）で確認済み。本カードは corroboration として扱う
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)；TBL-02-07-004 (id: JlAKpjc)'
@@ -4141,6 +4238,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ4、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-125
   domain: NG
   subdomain: Rome V（2026）
@@ -4153,16 +4253,16 @@
     differential: null
     common_misconception: Rome VのIBSでは持続する腹痛も含まれる
   provenance:
-    source_ref: SRC-142
-    source: 'Maev IV, et al. Rome V Criteria (2026): Continuity, innovations and major updates. Meditsinskiy sovet 2026;(8):8-21'
-    doi: 10.21518/ms2026-232
+    source_ref: SRC-143
+    source: Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology. 2026;170:1261-1282
+    doi: 10.1053/j.gastro.2026.02.003
     pmid: null
     pmcid: null
-    url: https://www.med-sovet.pro/jour/article/view/10201?locale=en_US
-    source_license: CC（記事ページの表示が BY-NC-ND と BY 4.0 で不一致。抄録のみ参照）
+    url: https://doi.org/10.1053/j.gastro.2026.02.003
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: OPEN
+    corroboration: '元の主出典：SRC-142（Maev IV, et al. Rome V Criteria (2026): Continuity, innovations and major updates. Meditsinskiy sovet 2026;(8):8-21）'
   uncertainty: 総説の抄録による（二次資料経由）。内容は腸疾患の章（NG-127）で確認済み。本カードは corroboration として扱う
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)'
@@ -4179,6 +4279,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-142 から自由に使える資料 SRC-143 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：Rome V 腸疾患章（CC BY）の全文で全要素を確認）。三原の承認（2026-11-11）による
 - id: NG-126
   domain: NG
   subdomain: Rome V 腸疾患
@@ -7652,7 +7755,7 @@
     source_license: CC BY-NC-ND 4.0（© 2026 The Author(s)、AGA Institute）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ4、作り手の調査 2026-11-11）：NIDDK『Definition & Facts for Constipation in Children』（米国政府著作物）。6項目のうち2つ以上という構成、最近1か月という期間、IBS の基準を満たさないことは NIDDK に明記がない。Rome V が「機能性」の語を残した理由も裏づけられない
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)；TBL-02-07-011 (id: JlAKpj4)'
@@ -7669,6 +7772,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ4、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-225
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道
@@ -7690,7 +7796,7 @@
     source_license: CC BY-NC-ND 4.0（© 2026 The Author(s)、AGA Institute）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（消化器バッチ4、作り手の調査 2026-11-11）：NIDDK『Treatment for Constipation』等（米国政府）。添付文書の部分は使わない
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-021 (id: JlAKpkY)'
@@ -7707,6 +7813,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（消化器バッチ4、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: NG-226
   domain: NG
   subdomain: Rome V 小児下部消化管・胆道

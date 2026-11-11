@@ -74,3 +74,9 @@
 - 社交不安障害 AX-024・025（raw/ax_sad_20261110.md、SRC-4976）を登録（2026-11-10、三原の承認）。DSM 由来カードの見直し対象は計9枚（MD-009・014・015、SZ-011、AX-021〜025）。
 - 摂食障害 PH-022〜024（raw/ph_eating_20261111.md、SRC-4976）を登録（2026-11-11、三原の承認）。PH-024（過食性障害）は出題基準に項目がなく kokushi null。DSM 由来カードの見直し対象は計12枚（MD-009・014・015、SZ-011、AX-021〜025、PH-022〜024）。
 - USPSTF の摂食障害エビデンスレビュー（AHRQ 2022、NBK578988）を SRC-4986（GOV_US、public domain は三原が目視確認）として登録し、PH-022〜024 の corroboration に記録（2026-11-11）。表は DSM-5 基準の要約なので、DSM 由来カードの見直しは別に必要。
+
+## 自由に使える出典の反映（2026-11-11、三原の承認）
+- BL・GR・HF・PV の調査と、パブリックドメイン出典の調査バッチ1〜7を、scripts/apply_free_sources_20261111.py で反映した（選別結果は proposals/pd_survey_20261111/selected.json、記録は reports/free_sources_apply_20261111.json）。
+- 区分の訂正18出典（日本の学会ガイドライン英語版など12出典を OPEN、NC 系6出典を RESTRICTED に明確化）。主出典の置き換え28件、裏づけの追加138件、新規出典12件（SRC-4987〜）。
+- 使わなかったもの：PubMed の抄録（先例 A を含む）、DailyMed、MedlinePlus 医学百科、ACOG・Cochrane の抄録、VA/DoD の DSM 転載部分、CMS の LCD、兵庫県サイト、JJID（SRC-2027、CC BY の原文確認待ち）、PMDA 審査報告書（利用条件の確認待ち）。
+- 残り：①識別子の補完（各バッチの候補、--online で照合後）②カードとマスターの区分の食い違い104件（reports/source_class_mismatch_20261111.md）③内容の確認（PH-010 の CPAP 基準の令和8年度改定、NG-086・095・078・225、AB-044・045、IN-012・068・084、GD-044・048 の版、VI-021 の潜伏期）④作り手への再調査依頼（BL・GR・HF・PV の15件）。

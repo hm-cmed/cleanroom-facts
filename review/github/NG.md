@@ -1,6 +1,6 @@
 # NG 神経消化器病 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-10
+[← 一覧に戻る](README.md)　更新：2026-11-11
 
 全 240 件のうち、監修済み 0 件。
 
@@ -1077,9 +1077,9 @@
 - 条件：region: 日本／guideline: JSGE IBS診療GL 2020 BQ1-4
 - 鑑別・補足：炎症性腸疾患（明らかな粘膜炎症がある）
 - よくある誤解：IBSの腸粘膜は完全に正常である
-- 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
+- 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-087&card_id=NG-087&version=1af1ca5cf6)　（版 `1af1ca5cf6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-087&card_id=NG-087&version=5435928ff9)　（版 `5435928ff9`）
 
 ### NG-088　下書き（出典の照合前）
 
@@ -1088,9 +1088,9 @@
 - 条件：region: 日本／guideline: JSGE IBS診療GL 2020 BQ1-5
 - よくある誤解：IBSでは脳の反応に異常はない
 - 不確実性：GLが引用したメタ解析の所見（二次資料経由）
-- 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
+- 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-005 (id: JlAKpjg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-088&card_id=NG-088&version=64fd488c8b)　（版 `64fd488c8b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-088&card_id=NG-088&version=31876b936a)　（版 `31876b936a`）
 
 ### NG-089　下書き（出典の照合前）
 
@@ -1099,11 +1099,11 @@
 - 条件：region: 日本／guideline: JSGE IBS診療GL 2020 BQ1-7
 - よくある誤解：IBSは遺伝とはまったく関係がない
 - 不確実性：GLが引用した研究の値（二次資料経由）
-- 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
+- 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-089&card_id=NG-089&version=a491701174)　（版 `a491701174`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-089&card_id=NG-089&version=8bc3a831ee)　（版 `8bc3a831ee`）
 
-**[ここまでの 4 件（NG-086〜NG-089）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-086%E3%80%9CNG-089&cards=NG-086%20905df7740e%0ANG-087%201af1ca5cf6%0ANG-088%2064fd488c8b%0ANG-089%20a491701174)**
+**[ここまでの 4 件（NG-086〜NG-089）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-086%E3%80%9CNG-089&cards=NG-086%20905df7740e%0ANG-087%205435928ff9%0ANG-088%2031876b936a%0ANG-089%208bc3a831ee)**
 
 ---
 
@@ -1116,9 +1116,9 @@
 - 条件：region: 日本／guideline: JSGE IBS診療GL 2020 CQ3-5、CQ3-6
 - 鑑別・補足：米国NCCIHは効果について明確な結論は出ていないとしている（NG-035）
 - よくある誤解：プロバイオティクスはIBSに無効とされている
-- 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
+- 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-090&card_id=NG-090&version=dfbee1e4fe)　（版 `dfbee1e4fe`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-090&card_id=NG-090&version=03996e37c7)　（版 `03996e37c7`）
 
 ### NG-091　下書き（出典の照合前）
 
@@ -1127,9 +1127,9 @@
 - 条件：region: 日本／guideline: JSGE IBS診療GL 2020 CQ3-7、CQ3-8
 - 鑑別・補足：日本の5-HT3拮抗薬はラモセトロン（NG-042）
 - よくある誤解：下痢型IBSの治療は止痢薬が第一選択である
-- 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
+- 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-022 (id: JlAKpkc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-091&card_id=NG-091&version=e7072e3ccb)　（版 `e7072e3ccb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-091&card_id=NG-091&version=1047120e2a)　（版 `1047120e2a`）
 
 ### NG-092　下書き（出典の照合前）
 
@@ -1137,9 +1137,9 @@
 
 - 条件：region: 日本／guideline: JSGE IBS診療GL 2020 CQ3-9〜3-13
 - よくある誤解：便秘型IBSには刺激性下剤を毎日使う
-- 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
+- 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-021 (id: JlAKpkY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-092&card_id=NG-092&version=20fa614d18)　（版 `20fa614d18`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-092&card_id=NG-092&version=a9e3fde54a)　（版 `a9e3fde54a`）
 
 ### NG-093　下書き（出典の照合前）
 
@@ -1147,9 +1147,9 @@
 
 - 条件：region: 日本／guideline: JSGE IBS診療GL 2020 CQ3-14、CQ3-15
 - よくある誤解：IBSに抗うつ薬を使うのはうつ病を合併した場合だけ
-- 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
+- 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-093&card_id=NG-093&version=95ad9c543c)　（版 `95ad9c543c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-093&card_id=NG-093&version=095555b5df)　（版 `095555b5df`）
 
 ### NG-094　下書き（出典の照合前）
 
@@ -1158,9 +1158,9 @@
 - 条件：region: 日本／guideline: JSGE IBS診療GL 2020 CQ3-16
 - よくある誤解：IBSの心理療法は専門家しか行えない特別な治療だけを指す
 - 不確実性：NNTはGLが引用したメタ解析の値（二次資料経由）
-- 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
+- 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-094&card_id=NG-094&version=80fa511fc8)　（版 `80fa511fc8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-094&card_id=NG-094&version=49114dc128)　（版 `49114dc128`）
 
 ### NG-095　下書き（出典の照合前）
 
@@ -1180,9 +1180,9 @@
 - 条件：region: 日本／guideline: JSGE IBS診療GL 2020 CQ3-19、CQ3-20
 - 鑑別・補足：日本のリファキシミンの効能は肝性脳症の高アンモニア血症のみ（NG-047）
 - よくある誤解：ガイドラインで提案されていれば保険診療で使える
-- 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
+- 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-015 (id: JlAKpkI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-096&card_id=NG-096&version=4e7426ebe0)　（版 `4e7426ebe0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-096&card_id=NG-096&version=2b95f6a5ba)　（版 `2b95f6a5ba`）
 
 ### NG-097　下書き（出典の照合前）
 
@@ -1192,9 +1192,9 @@
 - 鑑別・補足：オピオイドは麻薬性腸症候群を起こしうる（NG-075）
 - よくある誤解：強い腹痛のIBSにはオピオイドを使う
 - 不確実性：抗アレルギー薬の具体的な薬剤名と保険適用は本文で確認する
-- 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
+- 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-097&card_id=NG-097&version=c8b930b939)　（版 `c8b930b939`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-097&card_id=NG-097&version=76c9734836)　（版 `76c9734836`）
 
 ### NG-098　下書き（出典の照合前）
 
@@ -1202,11 +1202,11 @@
 
 - 条件：region: 日本／guideline: JSGE IBS診療GL 2020 CQ3-22、FRQ3-2
 - よくある誤解：IBSは命にかかわらないので放置してよい
-- 出典：日本消化器病学会編『機能性消化管疾患診療ガイドライン2020—過敏性腸症候群（IBS）（改訂第2版）』南江堂、2020（区分 RESTRICTED）
+- 出典：Fukudo S, et al. Evidence-based clinical practice guidelines for irritable bowel syndrome 2020. J Gastroenterol 2021;56:193-217　[DOI 10.1007/s00535-020-01746-z](https://doi.org/10.1007/s00535-020-01746-z)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-098&card_id=NG-098&version=61ab9d2f55)　（版 `61ab9d2f55`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-098&card_id=NG-098&version=2194c77ed4)　（版 `2194c77ed4`）
 
-**[ここまでの 9 件（NG-090〜NG-098）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-090%E3%80%9CNG-098&cards=NG-090%20dfbee1e4fe%0ANG-091%20e7072e3ccb%0ANG-092%2020fa614d18%0ANG-093%2095ad9c543c%0ANG-094%2080fa511fc8%0ANG-095%2095711b8b69%0ANG-096%204e7426ebe0%0ANG-097%20c8b930b939%0ANG-098%2061ab9d2f55)**
+**[ここまでの 9 件（NG-090〜NG-098）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-090%E3%80%9CNG-098&cards=NG-090%2003996e37c7%0ANG-091%201047120e2a%0ANG-092%20a9e3fde54a%0ANG-093%20095555b5df%0ANG-094%2049114dc128%0ANG-095%2095711b8b69%0ANG-096%202b95f6a5ba%0ANG-097%2076c9734836%0ANG-098%202194c77ed4)**
 
 ---
 
@@ -1413,9 +1413,9 @@
 - 鑑別・補足：Rome IVのIBS基準（NG-070）
 - よくある誤解：Rome VでもIBSは週1日以上の腹痛が必要である
 - 不確実性：腸疾患の章（NG-127）で、持続痛の除外と、月経だけに限らないという補助基準を確認した
-- 出典：Rome Foundation『Rome V: A Global Framework for Disorders of Gut–Brain Interaction』（製品・概要ページ）　[リンク](https://theromefoundation.org/rome-v-a-global-framework-for-disorders-of-gut-brain-interaction/)（区分 RESTRICTED）
+- 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology. 2026;170:1261-1282　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-02-07-017 (id: JlAKpkM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-115&card_id=NG-115&version=5f8f7e5e27)　（版 `5f8f7e5e27`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-115&card_id=NG-115&version=39c5d57ae2)　（版 `39c5d57ae2`）
 
 ### NG-116　下書き（出典の照合前）
 
@@ -1447,7 +1447,7 @@
 - 条件：criteria: Rome V（2026）／source: Staller ら 2026／region: 英国
 - よくある誤解：Rome Vで診断されるIBSはRome IVと同じ重症度の集団である
 - 不確実性：原著は未取得で、AGAのニュース記事（二次資料経由）で確認。Rome Vは持続痛の除外を明記したとされる。Rome V の基準そのものは腸疾患の章（NG-127）で確認済み
-- 出典：Staller K, et al. Clin Gastroenterol Hepatol 2026（ContactME-IBS 登録データによる Rome III・IV・V の比較）　[DOI 10.1016/j.cgh.2026.07.022](https://doi.org/10.1016/j.cgh.2026.07.022)（区分 UNKNOWN）
+- 出典：Staller K, et al. Clin Gastroenterol Hepatol 2026（ContactME-IBS 登録データによる Rome III・IV・V の比較）　[DOI 10.1016/j.cgh.2026.07.022](https://doi.org/10.1016/j.cgh.2026.07.022)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-123&card_id=NG-123&version=e4c487b68f)　（版 `e4c487b68f`）
 
@@ -1463,7 +1463,7 @@
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)；TBL-02-07-004 (id: JlAKpjc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-124&card_id=NG-124&version=f16247b210)　（版 `f16247b210`）
 
-**[ここまでの 10 件（NG-110〜NG-124）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-110%E3%80%9CNG-124&cards=NG-110%20d71c7d805a%0ANG-111%2083d7338bc9%0ANG-112%203b25b14c52%0ANG-113%20c9bc207b54%0ANG-114%20df7daf4f11%0ANG-115%205f8f7e5e27%0ANG-116%20fcf77c6e38%0ANG-117%20f7c8b069a3%0ANG-123%20e4c487b68f%0ANG-124%20f16247b210)**
+**[ここまでの 10 件（NG-110〜NG-124）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-110%E3%80%9CNG-124&cards=NG-110%20d71c7d805a%0ANG-111%2083d7338bc9%0ANG-112%203b25b14c52%0ANG-113%20c9bc207b54%0ANG-114%20df7daf4f11%0ANG-115%2039c5d57ae2%0ANG-116%20fcf77c6e38%0ANG-117%20f7c8b069a3%0ANG-123%20e4c487b68f%0ANG-124%20f16247b210)**
 
 ---
 
@@ -1474,9 +1474,9 @@
 - 条件：criteria: Rome V（2026）／source: 総説（Maev ら 2026）／region: 国際
 - よくある誤解：Rome VのIBSでは持続する腹痛も含まれる
 - 不確実性：総説の抄録による（二次資料経由）。内容は腸疾患の章（NG-127）で確認済み。本カードは corroboration として扱う
-- 出典：Maev IV, et al. Rome V Criteria (2026): Continuity, innovations and major updates. Meditsinskiy sovet 2026;(8):8-21　[DOI 10.21518/ms2026-232](https://doi.org/10.21518/ms2026-232)（区分 UNKNOWN）
+- 出典：Corsetti M, Shin A, Lacy BE, et al. Bowel Disorders. Gastroenterology. 2026;170:1261-1282　[DOI 10.1053/j.gastro.2026.02.003](https://doi.org/10.1053/j.gastro.2026.02.003)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-3-A-②（過敏性腸症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-125&card_id=NG-125&version=ea9107a947)　（版 `ea9107a947`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-125&card_id=NG-125&version=719881c205)　（版 `719881c205`）
 
 ### NG-232　下書き（出典の照合前）
 
@@ -1577,7 +1577,7 @@
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-005 (id: JlAKpjg)；TBL-02-07-017 (id: JlAKpkM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-240&card_id=NG-240&version=4203756789)　（版 `4203756789`）
 
-**[ここまでの 10 件（NG-125〜NG-240）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-125%E3%80%9CNG-240&cards=NG-125%20ea9107a947%0ANG-232%20daf6a81db6%0ANG-233%201fd56d2797%0ANG-234%20455e8f7ff1%0ANG-235%20ac59761c48%0ANG-236%2027dce0c05e%0ANG-237%2000a8f39db9%0ANG-238%20951a431633%0ANG-239%20bf9a9a3f3a%0ANG-240%204203756789)**
+**[ここまでの 10 件（NG-125〜NG-240）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NG-125%E3%80%9CNG-240&cards=NG-125%20719881c205%0ANG-232%20daf6a81db6%0ANG-233%201fd56d2797%0ANG-234%20455e8f7ff1%0ANG-235%20ac59761c48%0ANG-236%2027dce0c05e%0ANG-237%2000a8f39db9%0ANG-238%20951a431633%0ANG-239%20bf9a9a3f3a%0ANG-240%204203756789)**
 
 ---
 

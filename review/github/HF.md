@@ -1,6 +1,6 @@
 # HF 心不全 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-10
+[← 一覧に戻る](README.md)　更新：2026-11-11
 
 全 30 件のうち、監修済み 0 件。
 
@@ -149,9 +149,9 @@
 
 - 条件：region: 米国・欧州／study: Breathing Not Properly
 - よくある誤解：BNPだけで心不全の診断を確定できる
-- 出典：Maisel AS, Krishnaswamy P, Nowak RM, et al. Rapid measurement of B-type natriuretic peptide in the emergency diagnosis of heart failure. N Engl J Med 2002;347:161-167　[DOI 10.1056/NEJMoa020233](https://doi.org/10.1056/NEJMoa020233)　[PMID 12124404](https://pubmed.ncbi.nlm.nih.gov/12124404/)（区分 RESTRICTED）
+- 出典：Baba M, Yoshida K, Ieda M. Clinical Applications of Natriuretic Peptides in Heart Failure and Atrial Fibrillation. Int J Mol Sci 2019;20:2824（MDPI、CC BY）　[DOI 10.3390/ijms20112824](https://doi.org/10.3390/ijms20112824)　[PMID 31185605](https://pubmed.ncbi.nlm.nih.gov/31185605/)（区分 OPEN）
 - 出題基準：医学各論 Ⅴ-2-A-③（急性心不全、a）　コアカリ：PS-02-06-03 (id: JkxnuQo)；TBL-01-00-158 (id: Jlvnlrw)；TBL-02-05-020 (id: JlAKpfU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-006&card_id=HF-006&version=003a11a75b)　（版 `003a11a75b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-006&card_id=HF-006&version=cf26dccdb6)　（版 `cf26dccdb6`）
 
 ### HF-007　下書き（出典の照合前）
 
@@ -213,7 +213,7 @@
 - 出題基準：医学各論 Ⅴ-2-A-③（急性心不全、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-158 (id: Jlvnlrw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-012&card_id=HF-012&version=fc5b84dedc)　（版 `fc5b84dedc`）
 
-**[ここまでの 7 件（HF-006〜HF-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HF-006%E3%80%9CHF-012&cards=HF-006%20003a11a75b%0AHF-007%20f1c35695a2%0AHF-008%2081653c4f21%0AHF-009%2058206b4ec6%0AHF-010%20fa2be79826%0AHF-011%20197e0a5783%0AHF-012%20fc5b84dedc)**
+**[ここまでの 7 件（HF-006〜HF-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HF-006%E3%80%9CHF-012&cards=HF-006%20cf26dccdb6%0AHF-007%20f1c35695a2%0AHF-008%2081653c4f21%0AHF-009%2058206b4ec6%0AHF-010%20fa2be79826%0AHF-011%20197e0a5783%0AHF-012%20fc5b84dedc)**
 
 ---
 
@@ -256,9 +256,9 @@
 
 - 条件：region: ドイツ／study: IABP-SHOCK II
 - よくある誤解：心原性ショックにIABPをルーチンで使うと死亡が減る
-- 出典：Thiele H, Zeymer U, Neumann FJ, et al. Intraaortic balloon support for myocardial infarction with cardiogenic shock (IABP-SHOCK II). N Engl J Med 2012;367:1287-1296　[DOI 10.1056/NEJMoa1208410](https://doi.org/10.1056/NEJMoa1208410)　[PMID 22920912](https://pubmed.ncbi.nlm.nih.gov/22920912/)（区分 RESTRICTED）
+- 出典：Aurigemma C, Mangner N, Panoulas V, Møller JE. Mechanical Support in Myocardial Infarction Complicated by Cardiogenic Shock: What Have We Learned from Trials? J Clin Med. 2026　[DOI 10.3390/jcm15124453](https://doi.org/10.3390/jcm15124453)　[PMID 42355620](https://pubmed.ncbi.nlm.nih.gov/42355620/)（区分 OPEN）
 - 出題基準：医学各論 Ⅴ-2-B（心原性ショック、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-023&card_id=HF-023&version=6cc46347bc)　（版 `6cc46347bc`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-023&card_id=HF-023&version=94ab106a31)　（版 `94ab106a31`）
 
 ### HF-024　下書き（出典の照合前）
 
@@ -266,9 +266,9 @@
 
 - 条件：region: 欧州／study: CULPRIT-SHOCK
 - よくある誤解：心原性ショックでは同じ手技で全病変を治療するほうがよい
-- 出典：Thiele H, Akin I, Sandri M, et al. PCI Strategies in Patients with Acute Myocardial Infarction and Cardiogenic Shock (CULPRIT-SHOCK). N Engl J Med 2017;377:2419-2432　[DOI 10.1056/NEJMoa1710261](https://doi.org/10.1056/NEJMoa1710261)　[PMID 29083953](https://pubmed.ncbi.nlm.nih.gov/29083953/)（区分 RESTRICTED）
+- 出典：Robles-Zurita JA, Briggs A, Rana D, Quayyum Z, Oldroyd KG, Zeymer U, Desch S, de Waha-Thiele S, Thiele H. Economic evaluation of culprit lesion only PCI vs. immediate multivessel PCI in acute myocardial infarction complicated by cardiogenic shock: the CULPRIT-SHOCK trial. Eur J Health Econ. 2020;21(8):1197-1209　[DOI 10.1007/s10198-020-01235-3](https://doi.org/10.1007/s10198-020-01235-3)　[PMID 33029668](https://pubmed.ncbi.nlm.nih.gov/33029668/)（区分 OPEN）
 - 出題基準：医学各論 Ⅴ-2-B（心原性ショック、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-02-05-031 (id: JlAKpgI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-024&card_id=HF-024&version=677176731b)　（版 `677176731b`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-024&card_id=HF-024&version=7a2c795978)　（版 `7a2c795978`）
 
 ### HF-025　下書き（出典の照合前）
 
@@ -281,7 +281,7 @@
 - 出題基準：医学各論 Ⅴ-2-B（心原性ショック、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-025&card_id=HF-025&version=7144309982)　（版 `7144309982`）
 
-**[ここまでの 6 件（HF-020〜HF-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HF-020%E3%80%9CHF-025&cards=HF-020%207f7d99c9c0%0AHF-021%20434b078142%0AHF-022%20d40222bbae%0AHF-023%206cc46347bc%0AHF-024%20677176731b%0AHF-025%207144309982)**
+**[ここまでの 6 件（HF-020〜HF-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HF-020%E3%80%9CHF-025&cards=HF-020%207f7d99c9c0%0AHF-021%20434b078142%0AHF-022%20d40222bbae%0AHF-023%2094ab106a31%0AHF-024%207a2c795978%0AHF-025%207144309982)**
 
 ---
 
@@ -313,9 +313,9 @@
 
 - 条件：region: 米国／対象: 慢性右心不全の患者
 - 不確実性：利尿薬は薬剤クラスとしての記載であり、個別製剤の国内承認・保険適用は各添付文書による。管理の枠組みはAHA科学声明（2018年）に基づく。
-- 出典：Konstam MA, et al. Circulation. 2018;137(20):e578-e622.　[DOI 10.1161/CIR.0000000000000560](https://doi.org/10.1161/CIR.0000000000000560)　[PMID 29650544](https://pubmed.ncbi.nlm.nih.gov/29650544/)（区分 RESTRICTED）
+- 出典：Sampath-Kumar R, Rück A, Manouras A, et al. Evaluation and Management Principles for Chronic Right Heart Failure and Tricuspid Regurgitation. Curr Heart Fail Rep. 2025;22(1):32　[DOI 10.1007/s11897-025-00720-1](https://doi.org/10.1007/s11897-025-00720-1)　[PMID 41144096](https://pubmed.ncbi.nlm.nih.gov/41144096/)（区分 OPEN）
 - 出題基準：医学各論 Ⅴ-2-A-②（右心不全、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-157 (id: Jlvnlro)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-029&card_id=HF-029&version=4a0412e2b5)　（版 `4a0412e2b5`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-029&card_id=HF-029&version=8250309b6a)　（版 `8250309b6a`）
 
 ### HF-030　下書き（出典の照合前）
 
@@ -337,7 +337,7 @@
 - 出題基準：医学各論 Ⅴ-2-A-②（右心不全、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-157 (id: Jlvnlro)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-031&card_id=HF-031&version=8dfa6674c8)　（版 `8dfa6674c8`）
 
-**[ここまでの 5 件（HF-027〜HF-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HF-027%E3%80%9CHF-031&cards=HF-027%2009bd74d42a%0AHF-028%20b2ba8704d1%0AHF-029%204a0412e2b5%0AHF-030%202b6e757d8f%0AHF-031%208dfa6674c8)**
+**[ここまでの 5 件（HF-027〜HF-031）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HF-027%E3%80%9CHF-031&cards=HF-027%2009bd74d42a%0AHF-028%20b2ba8704d1%0AHF-029%208250309b6a%0AHF-030%202b6e757d8f%0AHF-031%208dfa6674c8)**
 
 ---
 

@@ -1,6 +1,6 @@
 # PV 肺循環異常 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-10
+[← 一覧に戻る](README.md)　更新：2026-11-11
 
 全 32 件のうち、監修済み 0 件。
 
@@ -182,9 +182,9 @@
 
 - 条件：region: 国際／guideline: ESC/ERS 2022 PH GL
 - 不確実性：二次資料経由（ACC の要約「Ten Points to Remember」で確認。ガイドライン本文は未入手）。
-- 出典：Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879　[DOI 10.1183/13993003.00879-2022](https://doi.org/10.1183/13993003.00879-2022)　[PMID 36028254](https://pubmed.ncbi.nlm.nih.gov/36028254/)（区分 RESTRICTED）
+- 出典：Simeone B, Maggio E, Schirone L, et al. Chronic Thromboembolic Pulmonary Hypertension: the therapeutic assessment. Front Cardiovasc Med 2024;11:1439411　[DOI 10.3389/fcvm.2024.1439411](https://doi.org/10.3389/fcvm.2024.1439411)　[PMID 39171327](https://pubmed.ncbi.nlm.nih.gov/39171327/)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-5-B-②（慢性肺血栓塞栓症、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-016&card_id=PV-016&version=0863ab18a1)　（版 `0863ab18a1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-016&card_id=PV-016&version=98ab9a61d6)　（版 `98ab9a61d6`）
 
 ### PV-017　下書き（出典の照合前）
 
@@ -193,9 +193,9 @@
 - 条件：region: 国際／guideline: ESC/ERS 2022 PH GL
 - よくある誤解：慢性血栓塞栓性肺高血圧症では血栓内膜摘除術が成功すれば抗凝固療法を中止できる
 - 不確実性：二次資料経由（ACC の要約で確認）。各治療の推奨クラス・レベルは本文で確認していない。日本の JCS/JPCPHS 2025 ガイドラインとは照合していない。
-- 出典：Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879　[DOI 10.1183/13993003.00879-2022](https://doi.org/10.1183/13993003.00879-2022)　[PMID 36028254](https://pubmed.ncbi.nlm.nih.gov/36028254/)（区分 RESTRICTED）
+- 出典：Simeone B, Maggio E, Schirone L, et al. Chronic Thromboembolic Pulmonary Hypertension: the therapeutic assessment. Front Cardiovasc Med 2024;11:1439411　[DOI 10.3389/fcvm.2024.1439411](https://doi.org/10.3389/fcvm.2024.1439411)　[PMID 39171327](https://pubmed.ncbi.nlm.nih.gov/39171327/)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-5-B-②（慢性肺血栓塞栓症、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-017&card_id=PV-017&version=a3534a592a)　（版 `a3534a592a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-017&card_id=PV-017&version=f7f3c7e0cf)　（版 `f7f3c7e0cf`）
 
 ### PV-018　下書き（出典の照合前）
 
@@ -203,11 +203,11 @@
 
 - 条件：population: 手術不能または術後残存の CTEPH／region: 国際
 - 不確実性：CORE の書誌ページの抄録で確認。DOI は表示が途中で切れており未確認、PMID・頁も未確認。国内承認状況は添付文書で確認していない。
-- 出典：Ghofrani HA, D'Armini AM, Grimminger F, et al（CHEST-1 Study Group）. Riociguat for the treatment of chronic thromboembolic pulmonary hypertension. N Engl J Med 2013;369（区分 UNKNOWN）
+- 出典：ClinicalTrials.gov 結果登録 NCT00855465（CHEST-1、リオシグアト BAY63-2521、米国国立医学図書館）　[リンク](https://clinicaltrials.gov/study/NCT00855465)（区分 GOV_US）
 - 出題基準：医学各論 Ⅳ-5-B-②（慢性肺血栓塞栓症、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-018&card_id=PV-018&version=d3972d0415)　（版 `d3972d0415`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-018&card_id=PV-018&version=f786544293)　（版 `f786544293`）
 
-**[ここまでの 6 件（PV-013〜PV-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PV-013%E3%80%9CPV-018&cards=PV-013%208716c93918%0APV-014%20bb97509eb8%0APV-015%2010f80545d7%0APV-016%200863ab18a1%0APV-017%20a3534a592a%0APV-018%20d3972d0415)**
+**[ここまでの 6 件（PV-013〜PV-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PV-013%E3%80%9CPV-018&cards=PV-013%208716c93918%0APV-014%20bb97509eb8%0APV-015%2010f80545d7%0APV-016%2098ab9a61d6%0APV-017%20f7f3c7e0cf%0APV-018%20f786544293)**
 
 ---
 
@@ -220,9 +220,9 @@
 - 条件：region: 国際／guideline: ESC/ERS 2022 PH GL
 - よくある誤解：肺高血圧症は平均肺動脈圧25 mmHg 以上で定義される（2022年版で20 mmHg 超に変更）
 - 不確実性：二次資料経由（ACC の要約で確認。ガイドライン本文は未入手）。旧版の基準（平均肺動脈圧25 mmHg 以上）からの変更点は本文で確認していない。日本の JCS/JPCPHS 2025 ガイドラインとは照合していない。
-- 出典：Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879　[DOI 10.1183/13993003.00879-2022](https://doi.org/10.1183/13993003.00879-2022)　[PMID 36028254](https://pubmed.ncbi.nlm.nih.gov/36028254/)（区分 RESTRICTED）
+- 出典：Kularatne M, Gerges C, Jevnikar M, Humbert M, Montani D. Updated Clinical Classification and Hemodynamic Definitions of Pulmonary Hypertension and Its Clinical Implications. J Cardiovasc Dev Dis 2024;11(3):78　[DOI 10.3390/jcdd11030078](https://doi.org/10.3390/jcdd11030078)　[PMID 38535101](https://pubmed.ncbi.nlm.nih.gov/38535101/)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-5-C-②（肺動脈性肺高血圧症<特発性、遺伝性、続発性>、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-019&card_id=PV-019&version=bf35924664)　（版 `bf35924664`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-019&card_id=PV-019&version=110383e70e)　（版 `110383e70e`）
 
 ### PV-020　下書き（出典の照合前）
 
@@ -231,11 +231,11 @@
 - 条件：region: 国際／guideline: ESC/ERS 2022 PH GL
 - よくある誤解：左心不全に伴う肺高血圧症にも肺動脈性肺高血圧症の治療薬が勧められる
 - 不確実性：ESC/ERS 2022 ガイドライン本文は未入手で、二次資料（ACC の要約）にも第2群の血行動態の記載はない。毛細血管後性の肺高血圧の楔入圧・肺血管抵抗の閾値（孤立性・混合性の区別）は本文で確認してからカードを追加する。心不全そのものの内容は循環器 HF で扱う。
-- 出典：Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879　[DOI 10.1183/13993003.00879-2022](https://doi.org/10.1183/13993003.00879-2022)　[PMID 36028254](https://pubmed.ncbi.nlm.nih.gov/36028254/)（区分 RESTRICTED）
+- 出典：Kularatne M, Gerges C, Jevnikar M, Humbert M, Montani D. Updated Clinical Classification and Hemodynamic Definitions of Pulmonary Hypertension and Its Clinical Implications. J Cardiovasc Dev Dis 2024;11(3):78　[DOI 10.3390/jcdd11030078](https://doi.org/10.3390/jcdd11030078)　[PMID 38535101](https://pubmed.ncbi.nlm.nih.gov/38535101/)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-5-C-①（左心系疾患に伴う肺高血圧症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-020&card_id=PV-020&version=e9939ed8a2)　（版 `e9939ed8a2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-020&card_id=PV-020&version=92f4a44973)　（版 `92f4a44973`）
 
-**[ここまでの 2 件（PV-019〜PV-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PV-019%E3%80%9CPV-020&cards=PV-019%20bf35924664%0APV-020%20e9939ed8a2)**
+**[ここまでの 2 件（PV-019〜PV-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PV-019%E3%80%9CPV-020&cards=PV-019%20110383e70e%0APV-020%2092f4a44973)**
 
 ---
 
@@ -247,9 +247,9 @@
 
 - 条件：population: 治療歴のない PAH（WHO 機能分類 II〜III）／region: 国際
 - 不確実性：グラスゴー大学のリポジトリの抄録で確認。併用群では末梢浮腫・頭痛・鼻閉・貧血が多かった。
-- 出典：Galiè N, Barberà JA, Frost AE, et al（AMBITION Investigators）. Initial Use of Ambrisentan plus Tadalafil in Pulmonary Arterial Hypertension. N Engl J Med 2015;373(9):834-844　[DOI 10.1056/NEJMoa1413687](https://doi.org/10.1056/NEJMoa1413687)　[PMID 26308684](https://pubmed.ncbi.nlm.nih.gov/26308684/)（区分 UNKNOWN）
+- 出典：ClinicalTrials.gov 結果登録 NCT01178073（AMBITION、アンブリセンタン＋タダラフィル初期併用、米国国立医学図書館）　[リンク](https://clinicaltrials.gov/study/NCT01178073)（区分 GOV_US）
 - 出題基準：医学各論 Ⅳ-5-C-②（肺動脈性肺高血圧症<特発性、遺伝性、続発性>、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-021&card_id=PV-021&version=2bc18f6d83)　（版 `2bc18f6d83`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-021&card_id=PV-021&version=75adbcaed0)　（版 `75adbcaed0`）
 
 ### PV-022　下書き（出典の照合前）
 
@@ -257,9 +257,9 @@
 
 - 条件：region: 国際／guideline: ESC/ERS 2022 PH GL
 - 不確実性：二次資料経由（ACC の要約で確認）。初期併用の対象（低〜中リスクで心肺の併存症がない場合など）と推奨クラスは本文で確認していない。
-- 出典：Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879　[DOI 10.1183/13993003.00879-2022](https://doi.org/10.1183/13993003.00879-2022)　[PMID 36028254](https://pubmed.ncbi.nlm.nih.gov/36028254/)（区分 RESTRICTED）
+- 出典：Kularatne M, Gerges C, Jevnikar M, Humbert M, Montani D. Updated Clinical Classification and Hemodynamic Definitions of Pulmonary Hypertension and Its Clinical Implications. J Cardiovasc Dev Dis 2024;11(3):78　[DOI 10.3390/jcdd11030078](https://doi.org/10.3390/jcdd11030078)　[PMID 38535101](https://pubmed.ncbi.nlm.nih.gov/38535101/)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-5-C-②（肺動脈性肺高血圧症<特発性、遺伝性、続発性>、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-022&card_id=PV-022&version=6999383cc3)　（版 `6999383cc3`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-022&card_id=PV-022&version=186bed501e)　（版 `186bed501e`）
 
 ### PV-023　下書き（出典の照合前）
 
@@ -267,9 +267,9 @@
 
 - 条件：population: 既存治療中の PAH（WHO 機能分類 II〜III）／region: 国際
 - 不確実性：リポジトリ（DZL）の抄録で確認。鼻出血・めまい・毛細血管拡張・ヘモグロビン増加・血小板減少・血圧上昇が多かった。国内では2025年6月に承認（販売名エアウィン）との報道があるが、添付文書で確認していない。
-- 出典：Hoeper MM, Badesch DB, Ghofrani HA, et al（STELLAR Trial Investigators）. Phase 3 Trial of Sotatercept for Treatment of Pulmonary Arterial Hypertension. N Engl J Med 2023;388　[DOI 10.1056/NEJMoa2213558](https://doi.org/10.1056/NEJMoa2213558)　[PMID 36877098](https://pubmed.ncbi.nlm.nih.gov/36877098/)（区分 UNKNOWN）
+- 出典：ClinicalTrials.gov 結果登録 NCT04576988（STELLAR、ソタテルセプト MK-7962-003、米国国立医学図書館）　[リンク](https://clinicaltrials.gov/study/NCT04576988)（区分 GOV_US）
 - 出題基準：医学各論 Ⅳ-5-C-②（肺動脈性肺高血圧症<特発性、遺伝性、続発性>、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-023&card_id=PV-023&version=e305cbaea4)　（版 `e305cbaea4`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-023&card_id=PV-023&version=6fd10348bf)　（版 `6fd10348bf`）
 
 ### PV-024　下書き（出典の照合前）
 
@@ -282,7 +282,7 @@
 - 出題基準：医学各論 Ⅳ-5-C-②（肺動脈性肺高血圧症<特発性、遺伝性、続発性>、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-024&card_id=PV-024&version=ab855f2805)　（版 `ab855f2805`）
 
-**[ここまでの 4 件（PV-021〜PV-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PV-021%E3%80%9CPV-024&cards=PV-021%202bc18f6d83%0APV-022%206999383cc3%0APV-023%20e305cbaea4%0APV-024%20ab855f2805)**
+**[ここまでの 4 件（PV-021〜PV-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PV-021%E3%80%9CPV-024&cards=PV-021%2075adbcaed0%0APV-022%20186bed501e%0APV-023%206fd10348bf%0APV-024%20ab855f2805)**
 
 ---
 

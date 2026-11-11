@@ -1631,7 +1631,7 @@
     source_license: Infectious Diseases Society of America（CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ2、作り手の調査 2026-11-11）：CDC NHSN「Bloodstream Infection Event (CLABSI and non-central line-associated BSI…。現出典（IDSA 2009ガイドライン）の抄録は Europe PMC で abstractText が空であり、抄録レコードによる裏づけは使えなかった。治療期間・陽性化時間差などの IDSA 推奨の具体をそのまま載せる自由な出典（CC BY の総説等）は本調査では特定できなかったため、判定は診断解。
   uncertainty: バンコマイシンは国内で承認されており、添付文書の適応菌種にメチシリン耐性コアグラーゼ陰性ブドウ球菌（MRCNS）を含み、敗血症や感染性心内膜炎などへの保険適用があることを PMDA の添付文書で確認した。出典は IDSA の2009年ガイドラインで、人工物感染としては血管内デバイスを中心に扱っており、人工関節・人工弁など他のデバイス感染の診断・治療の詳細は対象外のため主張に含めていない。なお同ガイドラインでは Staphylococcus lugdunensis は黄色ブドウ球菌と同様に扱うとしている。
   curriculum:
     kokushi: 医学各論 Ⅻ-2-B-⑤（表皮ブドウ球菌感染症、a）
@@ -1646,6 +1646,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ2、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: BA-048
   domain: BA
   subdomain: クレブシエラ感染症

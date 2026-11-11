@@ -1,6 +1,6 @@
 # IN 小腸・大腸 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-10
+[← 一覧に戻る](README.md)　更新：2026-11-11
 
 全 114 件のうち、監修済み 0 件。
 
@@ -1315,7 +1315,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：全身性アミロイドーシスの総論・全身管理は第44回（SA）の担当であり、本カードは消化管病変の側面に限る。出典は PMC にオープンアクセス版があるが、CC ライセンスの種別を確認できなかったため source_class は UNKNOWN とした。
-- 出典：Tang MJ, Tay TY, Gibbs S, Niewiadomski O. Amyloidosis for the Gastroenterologist: A Comprehensive Systematic Review of Diagnosis and Management of Gastrointestinal Manifestations. J Gastroenterol Hepatol. 2025;40(12):2842-2856.　[DOI 10.1111/jgh.70083](https://doi.org/10.1111/jgh.70083)　[PMID 41058263](https://pubmed.ncbi.nlm.nih.gov/41058263/)（区分 UNKNOWN）
+- 出典：Tang MJ, Tay TY, Gibbs S, Niewiadomski O. Amyloidosis for the Gastroenterologist: A Comprehensive Systematic Review of Diagnosis and Management of Gastrointestinal Manifestations. J Gastroenterol Hepatol. 2025;40(12):2842-2856.　[DOI 10.1111/jgh.70083](https://doi.org/10.1111/jgh.70083)　[PMID 41058263](https://pubmed.ncbi.nlm.nih.gov/41058263/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-C-①（消化管アミロイドーシス、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-105&card_id=IN-105&version=fd96eaa694)　（版 `fd96eaa694`）
 
@@ -1325,7 +1325,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：抗形質細胞療法は治療の枠組みとして挙げたもので、個別薬剤の国内承認・保険適用は多発性骨髄腫・ALアミロイドーシスに対する最新の添付文書で確認すること。全身管理の詳細は第44回（SA）の担当。
-- 出典：Tang MJ, Tay TY, Gibbs S, Niewiadomski O. Amyloidosis for the Gastroenterologist: A Comprehensive Systematic Review of Diagnosis and Management of Gastrointestinal Manifestations. J Gastroenterol Hepatol. 2025;40(12):2842-2856.　[DOI 10.1111/jgh.70083](https://doi.org/10.1111/jgh.70083)　[PMID 41058263](https://pubmed.ncbi.nlm.nih.gov/41058263/)（区分 UNKNOWN）
+- 出典：Tang MJ, Tay TY, Gibbs S, Niewiadomski O. Amyloidosis for the Gastroenterologist: A Comprehensive Systematic Review of Diagnosis and Management of Gastrointestinal Manifestations. J Gastroenterol Hepatol. 2025;40(12):2842-2856.　[DOI 10.1111/jgh.70083](https://doi.org/10.1111/jgh.70083)　[PMID 41058263](https://pubmed.ncbi.nlm.nih.gov/41058263/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-C-①（消化管アミロイドーシス、c）　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-106&card_id=IN-106&version=4e5666afed)　（版 `4e5666afed`）
 

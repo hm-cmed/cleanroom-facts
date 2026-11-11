@@ -177,7 +177,7 @@
     source_license: © 医学書院・作成学会（非CC。Minds 掲載は個人利用の範囲）。ユーザー提供の刊行版PDF（第Ⅰ〜Ⅹ章）で確認。利益相反：本リポジトリの管理者（三原弘）は本ガイドラインの作成委員
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ6、作り手の調査 2026-11-11）：Di Saverio S, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg. 2020;15:27（DOI 10.1186/s13017-020-00306-3／PMID 32295644／PMCID PMC7386163）。単純性（uncomplicated）と複雑性（complicated）の枠組み、術中の重症度 grading（壊疽性・穿孔などを含む）、複雑性の術前判定の難しさ（misdiagnosing complicated appendicitis への言及）は同ガイドラインが扱う 組織学的なカタル性・蜂窩織炎性・壊疽性という3分類の文言と、汎発性腹膜炎を伴うものを立てる日本の臨床分類そのものは候補にない'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-264 (id: Jlvnl3k)'
@@ -198,6 +198,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ6、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AB-006
   domain: AB
   subdomain: 急性腹症の疫学と予後
@@ -566,7 +569,7 @@
     source_license: © 医学書院・作成学会（非CC。Minds 掲載は個人利用の範囲）。ユーザー提供の刊行版PDF（第Ⅰ〜Ⅹ章）で確認。利益相反：本リポジトリの管理者（三原弘）は本ガイドラインの作成委員
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ6、作り手の調査 2026-11-11）：Sartelli M, et al. Intra-abdominal infections survival guide: a position statement by the Global Alliance for Infections in Surgery. World J Emerg Surg. 2024（DOI 10.1186/s13017-024-00552-9／PMID 38851700／PMCID PMC11161965）。腹腔内感染・汎発性腹膜炎に対する迅速な診断と適時のソースコントロール（手術を含む）が管理の要であること、腸管虚血などへの緊急対応の枠組みは同ステートメントと整合する 血管破裂・腹腔内出血・炎症性の急性腹症までを含む緊急手術適応の列挙そのものは候補にない（枠組み部分の裏づけ）'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-308 (id: Jlvnl70)'
@@ -584,6 +587,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ6、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AB-016
   domain: AB
   subdomain: 緊急度の判断と緊急処置
@@ -685,7 +691,7 @@
     source_license: © 医学書院・作成学会（非CC。Minds 掲載は個人利用の範囲）。ユーザー提供の刊行版PDF（第Ⅰ〜Ⅹ章）で確認。利益相反：本リポジトリの管理者（三原弘）は本ガイドラインの作成委員
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ6、作り手の調査 2026-11-11）：Sartelli M, et al. Intra-abdominal infections survival guide: a position statement by the Global Alliance for Infections in Surgery. World J Emerg Surg. 2024（DOI 10.1186/s13017-024-00552-9／PMID 38851700／PMCID PMC11161965）。迅速で正確な診断、血行動態の安定化と臓器灌流の回復を先行させる初期対応の枠組みは同ステートメントの要（cornerstones）と一致する 「自施設で根治治療ができない場合の転院」という日本の医療体制に即した手順と、バイタル異常の有無で分ける2段階の進め方そのものは候補にない'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)'
@@ -703,6 +709,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ6、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AB-019
   domain: AB
   subdomain: 緊急度の判断と緊急処置
@@ -724,7 +733,7 @@
     source_license: © 医学書院・作成学会（非CC。Minds 掲載は個人利用の範囲）。ユーザー提供の刊行版PDF（第Ⅰ〜Ⅹ章）で確認。利益相反：本リポジトリの管理者（三原弘）は本ガイドラインの作成委員
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ6、作り手の調査 2026-11-11）：Sartelli M, et al. Intra-abdominal infections survival guide: a position statement by the Global Alliance for Infections in Surgery. World J Emerg Surg. 2024（DOI 10.1186/s13017-024-00552-9／PMID 38851700／PMCID PMC11161965）。初期輸液で血圧が回復しなければ昇圧薬をできるだけ早く開始する（Statement 19：Low-quality evidence, Strong recommendation）という方向は一致する。輸液蘇生と血行動態・臓器サポートが管理の柱であることも同ステートメントが述べる 末梢静脈から昇圧薬を開始する具体（肘窩かそれより中枢、短期間）と骨髄輸液は Surviving Sepsis Campaign 2021 由来の内容で、候補にはない（SSC 20…'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-308 (id: Jlvnl70)'
@@ -742,6 +751,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ6、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AB-020
   domain: AB
   subdomain: 緊急度の判断と緊急処置
@@ -764,7 +776,7 @@
     source_license: © 医学書院・作成学会（非CC。Minds 掲載は個人利用の範囲）。ユーザー提供の刊行版PDF（第Ⅰ〜Ⅹ章）で確認。利益相反：本リポジトリの管理者（三原弘）は本ガイドラインの作成委員
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ6、作り手の調査 2026-11-11）：Sartelli M, et al. Intra-abdominal infections survival guide: a position statement by the Global Alliance for Infections in Surgery. World J Emerg Surg. 2024（DOI 10.1186/s13017-024-00552-9／PMID 38851700／PMCID PMC11161965）。腹腔内感染への適切な抗菌薬療法を管理の要の一つとし、早期の適切な抗菌薬とソースコントロールを一体で進める枠組みは同ステートメントと一致する 「できるだけ早く」という投与タイミングの推奨度（強い推奨・確実性C）そのものと、血液培養の採取手順は候補にない。なお候補は複雑性腹腔内感染では血液培養の陽性率が低い（10%未満）とも述べており、血液培養の位置づけは敗血症一般の指針（SSC）に依る部分である'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-01-00-308 (id: Jlvnl70)'
@@ -782,6 +794,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ6、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AB-021
   domain: AB
   subdomain: 急性腹症の医療面接と身体診察
@@ -1151,7 +1166,7 @@
     source_license: © 医学書院・作成学会（非CC。Minds 掲載は個人利用の範囲）。ユーザー提供の刊行版PDF（第Ⅰ〜Ⅹ章）で確認。利益相反：本リポジトリの管理者（三原弘）は本ガイドラインの作成委員
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ6、作り手の調査 2026-11-11）：Surgery for abdominal wall pain caused by cutaneous nerve entrapment in children: a review of 12 cases. Iran Red Crescent Med J. 2013（CC BY）（DOI 10.5812/ircmj.8422／PMID 23682329／PMCID PMC3652504）。腹壁痛（皮神経絞扼 ACNES）の診断に Carnett 徴候の陽性が用いられることを同論文（小児12例、全例で Carnett 徴候陽性）が示しており、「腹壁の痛みの診断に役立つ」という用途部分は裏づけられる 徴候の手技そのもの（仰臥位で頭を持ち上げ腹筋を緊張させる手順）と心因性腹痛への応用は候補にない'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)'
@@ -1169,6 +1184,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ6、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AB-031
   domain: AB
   subdomain: 急性腹症の医療面接と身体診察
@@ -1470,7 +1488,7 @@
     source_license: © 医学書院・作成学会（非CC。Minds 掲載は個人利用の範囲）。ユーザー提供の刊行版PDF（第Ⅰ〜Ⅹ章）で確認。利益相反：本リポジトリの管理者（三原弘）は本ガイドラインの作成委員
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ6、作り手の調査 2026-11-11）：Acute mesenteric ischemia: updated guidelines of the World Society of Emergency Surgery. World J Emerg Surg. 2022;17:54（DOI 10.1186/s13017-022-00443-x／PMID 36261857／PMCID PMC9580452）。腸間膜虚血の塞栓源として心房細動（左房由来）が挙げられ、塞栓性急性腸間膜虚血の約50%に心房細動があることが同ガイドラインに明記されており、「急性腹症で心房細動があれば腸間膜虚血を考える」部分は裏づけられる 心窩部痛での心筋梗塞を考えた心電図の実施と、脾梗塞・腎梗塞への言及は候補にない'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)'
@@ -1488,6 +1506,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ6、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AB-039
   domain: AB
   subdomain: 急性腹症の検査
@@ -1548,7 +1569,7 @@
     source_license: © 医学書院・作成学会（非CC。Minds 掲載は個人利用の範囲）。ユーザー提供の刊行版PDF（第Ⅰ〜Ⅹ章）で確認。利益相反：本リポジトリの管理者（三原弘）は本ガイドラインの作成委員
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ6、作り手の調査 2026-11-11）：WSES Jerusalem ガイドライン2020（World J Emerg Surg、CC BY、DOI 10.1186/s13017-020-00306-3）：虫垂炎等の診断で超音波・CT が必須の手段である点。ACOG の部分は使わない
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-017 (id: JlAKpkM)；TBL-02-07-029 (id: JlAKplA)'
@@ -1566,6 +1587,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ6、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AB-041
   domain: AB
   subdomain: 急性腹症の検査
@@ -1666,7 +1690,7 @@
     source_license: © 医学書院・作成学会（非CC。Minds 掲載は個人利用の範囲）。ユーザー提供の刊行版PDF（第Ⅰ〜Ⅹ章）で確認。利益相反：本リポジトリの管理者（三原弘）は本ガイドラインの作成委員
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ6、作り手の調査 2026-11-11）：Di Saverio S, et al. Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines. World J Emerg Surg. 2020;15:27（DOI 10.1186/s13017-020-00306-3／PMID 32295644／PMCID PMC7386163）。造影 CT が虫垂炎を含む急性腹症の診断精度の高い検査であること、超音波・CT が必須の診断手段であることは同ガイドラインの推奨と一致する 臓器虚血・血管性病変・膵炎の重症度・胆管炎・複雑性虫垂炎という適応の列挙と、絞扼性腸閉塞や大動脈病変で単純 CT を併せる運用は日本のガイドライン固有で、候補にない'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-029 (id: JlAKplA)；TBL-01-00-265 (id: Jlvnl3o)；TBL-01-00-264 (id: Jlvnl3k)'
@@ -1684,6 +1708,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ6、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AB-044
   domain: AB
   subdomain: 急性腹症の検査
@@ -3439,7 +3466,7 @@
     source_license: © Springer-Verlag France SAS, part of Springer Nature 2019（非CC）。ユーザー提供の刊行版PDFで確認
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ6、作り手の調査 2026-11-11）：Birindelli A, et al. 2017 update of the WSES guidelines for emergency repair of complicated abdominal wall hernias. World J Emerg Surg. 2017;12:37（DOI 10.1186/s13017-017-0149-y／PMID 28804507／PMCID PMC5545868）。嵌頓ヘルニア（還納できない状態で腸閉塞を伴うことがある）と絞扼ヘルニア（内容への血流が障害された状態）の定義、腹壁ヘルニアを鼠径部ヘルニア（鼠径・大腿）と腹側ヘルニア（臍・腹壁瘢痕など）に分ける分類が同ガイドライン本文に明記されており、主張全体の骨格は裏づけられる
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)'
@@ -3463,6 +3490,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ6、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AB-088
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3483,7 +3513,7 @@
     source_license: © Springer-Verlag France SAS, part of Springer Nature 2019（非CC）。ユーザー提供の刊行版PDFで確認
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ6、作り手の調査 2026-11-11）：Birindelli A, et al. 2017 update of the WSES guidelines for emergency repair of complicated abdominal wall hernias. World J Emerg Surg. 2017;12:37（DOI 10.1186/s13017-017-0149-y／PMID 28804507／PMCID PMC5545868）。腸管絞扼が疑われれば直ちに緊急手術（グレード1C）、SIRS・造影CT所見・乳酸・CPK・Dダイマーが腸管絞扼の予測に役立つ（1C）という推奨文とグレードが同ガイドラインの推奨表に明記されており、一致する 臨床所見だけでは嵌頓から絞扼への進行を見つけるには不十分という点は、絞扼ヘルニアの診断の難しさとして本文の記述と方向は一致するが、同一の文言ではない
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)'
@@ -3507,6 +3537,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ6、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AB-089
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3527,7 +3560,7 @@
     source_license: © Springer-Verlag France SAS, part of Springer Nature 2019（非CC）。ユーザー提供の刊行版PDFで確認
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ6、作り手の調査 2026-11-11）：Birindelli A, et al. 2017 update of the WSES guidelines for emergency repair of complicated abdominal wall hernias. World J Emerg Surg. 2017;12:37（DOI 10.1186/s13017-017-0149-y／PMID 28804507／PMCID PMC5545868）。自然に還納した絞扼性鼠径部ヘルニアで腸管の生存性確認に診断的腹腔鏡が役立つ（2B）、絞扼がなく腸切除が疑われない嵌頓ヘルニアは腹腔鏡で修復してよい（2C）という推奨が同ガイドラインに明記されている 腸切除が疑われる場合に開腹の腹膜前到達法がよいとする細部は、推奨表の確認範囲では特定できなかった
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)'
@@ -3548,6 +3581,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ6、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AB-090
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3568,7 +3604,7 @@
     source_license: © Springer-Verlag France SAS, part of Springer Nature 2019（非CC）。ユーザー提供の刊行版PDFで確認
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ6、作り手の調査 2026-11-11）：Birindelli A, et al. 2017 update of the WSES guidelines for emergency repair of complicated abdominal wall hernias. World J Emerg Surg. 2017;12:37（DOI 10.1186/s13017-017-0149-y／PMID 28804507／PMCID PMC5545868）。汚染のない術野（CDC創分類I）で絞扼・腸切除を伴わない嵌頓ヘルニアに合成メッシュ修復を推奨（1A）、腸内容の大量漏出がなければ創分類IIでも合成メッシュで修復でき30日以内の創合併症を増やさず再発を減らせる（1A）という推奨文が同ガイドラインに明記されており、一致する
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)'
@@ -3589,6 +3625,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ6、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AB-091
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3609,7 +3648,7 @@
     source_license: © Springer-Verlag France SAS, part of Springer Nature 2019（非CC）。ユーザー提供の刊行版PDFで確認
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ6、作り手の調査 2026-11-11）：Birindelli A, et al. 2017 update of the WSES guidelines for emergency repair of complicated abdominal wall hernias. World J Emerg Surg. 2017;12:37（DOI 10.1186/s13017-017-0149-y／PMID 28804507／PMCID PMC5545868）。腸管壊死・大量漏出（創分類III）や腸穿孔による腹膜炎（IV）では、欠損が3 cm未満なら直接縫合（一次修復）を推奨（2C）、直接縫合ができなければ生体由来メッシュ、入手できなければ吸収性メッシュか創開放・後日修復、という推奨の流れが同ガイドラインに明記されている 循環が安定している場合という条件づけの細部は推奨表の文言と完全には一致しない
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-308 (id: Jlvnl70)'
@@ -3630,6 +3669,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ6、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AB-092
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3650,7 +3692,7 @@
     source_license: © Springer-Verlag France SAS, part of Springer Nature 2019（非CC）。ユーザー提供の刊行版PDFで確認
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: 腹部コンパートメント症候群の定義は WSACS 2013（SRC-160）
+    corroboration: 腹部コンパートメント症候群の定義は WSACS 2013（SRC-160）。自由に使える資料による裏づけ（バッチ6、作り手の調査 2026-11-11）：Birindelli A, et al. 2017 update of the WSES guidelines for emergency repair of complicated abdominal wall hernias. World J Emerg Surg. 2017;12:37（DOI 10.1186/s13017-017-0149-y／PMID 28804507／PMCID PMC5545868）。重症敗血症・敗血症性ショックで循環が不安定な患者では腹部コンパートメント症候群を防ぐため開腹管理を推奨し術中に腹腔内圧を測ってもよい（2C）という推奨が同ガイドラインに明記されている 安定後の早期閉腹を目指す手順（筋膜を閉じられなければ皮膚のみ閉じて後日合成メッシュで修復、1C）の細部は本文の範囲で、推奨表の確認できた範囲では文言を特定できなかった
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-308 (id: Jlvnl70)'
@@ -3671,6 +3713,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ6、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AB-093
   domain: AB
   subdomain: 嵌頓・絞扼ヘルニアの緊急手術
@@ -3691,7 +3736,7 @@
     source_license: © Springer-Verlag France SAS, part of Springer Nature 2019（非CC）。ユーザー提供の刊行版PDFで確認
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ6、作り手の調査 2026-11-11）：Birindelli A, et al. 2017 update of the WSES guidelines for emergency repair of complicated abdominal wall hernias. World J Emerg Surg. 2017;12:37（DOI 10.1186/s13017-017-0149-y／PMID 28804507／PMCID PMC5545868）。抗菌薬は創分類Iでは短期間の予防投与（2C）、絞扼・腸切除を伴うII・IIIでは48時間の予防投与（2C）、腹膜炎（IV）では治療として投与という推奨が同ガイドラインの推奨表に明記されており、一致する。腸の壊死がない鼠径ヘルニアの緊急手術で局所麻酔が選択肢になる点も本文が扱う 局所麻酔のグレード（1C）と「術後合併症が少ない」という効果の細部は推奨表の確認範囲では特定できなかった
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-01-00-309 (id: Jlvnl78)；TBL-01-00-310 (id: Jlvnl8E)'
@@ -3712,6 +3757,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ6、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AB-094
   domain: AB
   subdomain: 腹壁瘢痕ヘルニア
@@ -3837,7 +3885,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ6、作り手の調査 2026-11-11）：Peritoneal Metastases: Evolution from a Dark Horizon to an Encouraging Present and a Promising Future. J Clin Med. 2023;12(24):7536（CC BY 総説）（DOI 10.3390/jcm12247536／PMID 38137604／PMCID PMC10743464）。腹膜転移（播種）が消化器癌・卵巣癌などから腹腔内に広がる病態であること、予後が不良とされてきたことは同総説が扱い、M1c という分類が予後の悪さを理由に設けられた経緯も述べる 悪性腹水・腸閉塞・疼痛という症状の列挙は同総説の確認範囲では特定できなかった。候補は二次資料（総説）のため裏づけ用途に限る'
   uncertainty: 「癌性腹膜炎」は腹膜播種とほぼ同義に用いられる用語である。書籍のため DOI・PMID はない。卵巣癌の進行期分類そのものは本カードの範囲外とした。主張はガイドラインの総論部分（定義・症状・予後の概略）で確認した範囲に限る。
   curriculum:
     kokushi: 医学各論 Ⅵ-9-C-①（癌性腹膜炎、a）
@@ -3852,6 +3900,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ6、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: AB-098
   domain: AB
   subdomain: 癌性腹膜炎

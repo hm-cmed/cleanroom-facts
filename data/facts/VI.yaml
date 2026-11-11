@@ -193,7 +193,7 @@
     source_license: CC表示なし（学会資料）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ2、作り手の調査 2026-11-11）：厚生労働省 薬価基準収載品目リストおよび中医協の新医薬品薬価算定資料（ベイフォータス筋注50mg・100mgシリンジ、令和6年5月22日収載分）。保険給付の範囲（重篤な RSウイルス感染症のリスクを有する児における発症抑制に限る）は算定資料の効能・効果の記載と整合するが、「適応にはリスクのない児を含むのに保険給付は限られる」という切り分けの説明自体は現出典の学会文書（日本小児科学会、SRC-2016）の解説固有のため、全体としては B とした。
   uncertainty: 製造販売承認は2024年3月26日（同文書および関連資料で確認）。米国では ACIP が2023年に乳児へのニルセビマブ使用を推奨しており（既存出典 SRC-351）、全乳児を対象とする米国の推奨と、日本の保険給付の範囲は異なる。クレスロビマブの国内承認の情報は一次資料で確認できていないため主張に入れていない。同文書には改訂版（2025年）があり、保険給付の範囲は今後変わりうる。
   curriculum:
     kokushi: 医学各論 Ⅻ-1-A-②（RSウイルス感染症、a）
@@ -208,6 +208,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/33_if_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ2、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: VI-007
   domain: VI
   subdomain: 流行性耳下腺炎
@@ -718,7 +721,7 @@
     source_license: CC表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ2、作り手の調査 2026-11-11）：CDC「About Norovirus」ページ（GOV_US、新規登録候補）。重要な発見：現出典 Glass 2009（NEJM）の PubMed／Europe PMC レコードには抄録テキスト自体が存在しない（Europe PMC の abstractText は空、NCBI efetch でも抄録なし）ため、「抄録が厚い」という事前の見込みは外れ、先例Aは成立しない。カー。
   uncertainty: 数値は PMC の著者稿全文（PMC3880795）の Clinical Features の節で確認した。ノロウイルスに対するワクチン・抗ウイルス薬の国内承認は未確認。
   curriculum:
     kokushi: 医学各論 Ⅻ-1-A-⑨（ウイルス性下痢症、a）
@@ -733,6 +736,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/33_if_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ2、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: VI-022
   domain: VI
   subdomain: Epstein-Barrウイルス感染症
@@ -1138,7 +1144,7 @@
     source_license: CC表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ2、作り手の調査 2026-11-11）：Wright WF, et al. J Neurol Sci 2019（当該論文、既存 SRC-4881）の PubMed 抄録レコード＋CDC「About V…。抄録単独では原因ウイルスの列挙（非ポリオエンテロウイルスが最多等）がないため CDC との併用とした。CDC の「最も多い」は米国を前提とする記載であり、カードの「国際」スコープとの間には地域の留保が残るため B とした。
   uncertainty: 本文は購読制のため、主張は抄録と出版社ページのハイライトで確認できた範囲に限った。ヘルペスウイルスが否定できない場合の抗ウイルス薬の扱いや予後の具体的数値は確認範囲に含まれないため主張に入れていない。髄液所見の型と細菌性髄膜炎との対比は既存カード NI-008 が担う。
   curriculum:
     kokushi: 医学各論 Ⅻ-1-A-⑱（ウイルス性髄膜炎、a）
@@ -1153,3 +1159,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ2、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による

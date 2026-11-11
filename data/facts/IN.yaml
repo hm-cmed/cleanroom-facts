@@ -605,7 +605,7 @@
     source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：厚生労働省『衛生行政報告例』令和5年度「特定医療費（指定難病）受給者証所持者数、年度別・対象疾患別」の統計表（難病情報センターが「出典：厚生労働省衛生行政報告例」として再掲する表で照合）。一致（令和5年度 146,702人）。なお令和6年度は 151,631人と新しい値があるが、カードは令和5年度値として明記されているため陳腐化ではない。
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: false
@@ -632,6 +632,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-012
   domain: IN
   subdomain: 炎症性腸疾患
@@ -651,7 +654,7 @@
     source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56（既存 SRC-048、CC BY 4.0）。枠組みの差として両値を記録する：カード「発症から7〜8年を過ぎるとリスクが高くなる」／ガイドライン（SRC-048）「発症8年後からサーベイランス開始」。数値の衝突ではなく、リスク上昇の時期表現とサーベイランス開始時期の違いである。カードの「7年」という下限はガイドラインにはない。
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: false
@@ -681,6 +684,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高。condition が空だったので新設した）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-013
   domain: IN
   subdomain: 炎症性腸疾患
@@ -700,7 +706,7 @@
     source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56（既存 SRC-048、CC BY 4.0）。穿孔は BQ36 の確認できた記述では文言を特定できなかった。術式の主流性はガイドラインの手術分野全体の記述に基づく。
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: false
@@ -730,6 +736,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高。condition が空だったので新設した）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-014
   domain: IN
   subdomain: 炎症性腸疾患
@@ -750,7 +759,7 @@
     source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：厚生労働省『衛生行政報告例』令和5年度「特定医療費（指定難病）受給者証所持者数、年度別・対象疾患別」の統計表（難病情報センターが「出典：厚生労働省衛生行政報告例」として再掲する表で照合）。一致（令和5年度 52,108人）。なお令和6年度は 53,664人と新しい値があるが、カードは令和5年度値として明記されているため陳腐化ではない。
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: false
@@ -777,6 +786,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-015
   domain: IN
   subdomain: 炎症性腸疾患
@@ -796,7 +808,7 @@
     source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56（既存 SRC-048、CC BY 4.0）。虹彩炎は BQ39 の確認できた記述（皮膚・関節が中心）では特定できなかった。
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: false
@@ -826,6 +838,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高。condition が空だったので新設した）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-016
   domain: IN
   subdomain: 炎症性腸疾患
@@ -845,7 +860,7 @@
     source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56（既存 SRC-048、CC BY 4.0）。肛門病変への切開排膿・ドレナージ（シートン法等）の具体的な文は、本調査の確認範囲では特定できなかった。各薬剤の国内承認の範囲はガイドライン本文の範囲外である。
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: false
@@ -872,6 +887,9 @@
   - date: '2026-10-13'
     by: claude-code
     change: Phase 4：kokushi を設定（出題基準 令和6年版の医学各論 PDF で項目を確認。人間が2026-10-13にチャットで委任）。変更前：None
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-017
   domain: IN
   subdomain: 過敏性腸症候群
@@ -1681,7 +1699,7 @@
     source_license: CC BY-NC（記事ページの許諾リンクの表示による）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK). Symptoms & Causes of Constipation（米国政府の患者向け解説ページ）。抗癌剤、カルシウム拮抗薬、利尿薬は同ページの列挙では確認できなかった（部分的な裏づけ）。
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -1714,6 +1732,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-032
   domain: IN
   subdomain: 慢性便秘症
@@ -1734,7 +1755,7 @@
     source_license: CC BY-NC（記事ページの許諾リンクの表示による）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK). Symptoms & Causes of Constipation（米国政府の患者向け解説ページ）。うつ病、統合失調症、全身性強皮症、透析は同ページでは確認できなかった（部分的な裏づけ）。
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -1767,6 +1788,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-033
   domain: IN
   subdomain: 慢性便秘症
@@ -3639,7 +3663,7 @@
     source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：Sartelli M, et al. 2020 update of the WSES guidelines for the management of acute colonic diverticulitis in the emergency setting. World J Emerg Surg. 2020;15:32。膿瘍径の閾値に差があるため両値を記録する：カード（日本のガイドライン）は概ね3 cm以下を抗菌薬・腸管安静、5 cm以上をドレナージの対象とする／WSES 2020 の分類（Neff 分類）は4 cmを境界とし、4 cmを超える骨盤内膿瘍をドレナージ対象とする。
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -3672,6 +3696,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-069
   domain: IN
   subdomain: 大腸憩室出血・憩室炎
@@ -3692,7 +3719,7 @@
     source_license: CC BY-NC-ND（記事ページの許諾リンクの表示による）、© 2019 JGA
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：Sartelli M, et al. 2020 update of the WSES guidelines for the management of acute colonic diverticulitis in the emergency setting. World J Emerg Surg. 2020;15:32。
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -3725,6 +3752,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度高）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-070
   domain: IN
   subdomain: 感染性腸炎
@@ -4821,7 +4851,7 @@
     source_license: CC表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：National Cancer Institute (NCI). Small Intestine Cancer Treatment (PDQ®) – Health Professional Version（米国政府）。補助：Benson AB, et al. NCCN Clinical Practice Guidelines: Small Bowel Adenocarcinoma, Version 1.2020 の PubMed 抄録レコード。症状が非特異的であることと、全例でミスマッチ修復・マイクロサテライト不安定性の検査を行うという推奨は、PDQ と抄録の確認範囲にはなく、NCCN 本文の範囲である。あわせて、原典 SRC-4214 の PMID（31487687）・PMCID（PMC10191182）の補完を提案する。'
   uncertainty: 引用は2019年の誌掲載版（Version 1.2020）で、現行版は Version 2.2026 である。
   curriculum:
     kokushi: 医学各論 Ⅵ-3-C-③（小腸癌、c）
@@ -4836,6 +4866,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-094
   domain: IN
   subdomain: 直腸脱
@@ -4856,7 +4889,7 @@
     source_license: 書籍（学会著作物、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：Vergara Torrente JA, et al. Benign lesions prolapsing through the anus: a differential diagnostic algorithm and evidence-based surgical management — a narrative review. Front Surg. 2026（CC BY）。「保存療法では治癒しない」という直接の文言は確認範囲にないが、同総説は完全直腸脱の治療を外科治療として扱う。候補は2026年の総説で原典（日本のガイドライン2020）より新しい二次資料であり、裏づけ用途に限る。'
   uncertainty: 国内ガイドライン（2020年改訂第2版）に基づく。痔核脱出や粘膜脱との区別は国内ガイドラインの分類による。
   curriculum:
     kokushi: 医学各論 Ⅵ-4-A-①（直腸脱、b）
@@ -4871,6 +4904,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-095
   domain: IN
   subdomain: 直腸脱
@@ -4891,7 +4927,7 @@
     source_license: 書籍（学会著作物、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：Vergara Torrente JA, et al. Benign lesions prolapsing through the anus: a differential diagnostic algorithm and evidence-based surgical management — a narrative review. Front Surg. 2026（CC BY）。一致の方向：候補は経腹式6%対経会陰式19%（メタ解析）。カードは定性的な表現（経会陰式は再発率が比較的高い）で、矛盾しない。'
   uncertainty: 術式選択の具体的な基準値は国内ガイドラインの記述による。
   curriculum:
     kokushi: 医学各論 Ⅵ-4-A-①（直腸脱、b）
@@ -4906,6 +4942,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-096
   domain: IN
   subdomain: 肛門周囲膿瘍、痔瘻
@@ -4996,7 +5035,7 @@
     source_license: CC表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56（既存 SRC-048、CC BY 4.0）。薬物療法と手術の併用（シートン併用等）の具体、およびインフリキシマブ・アダリムマブの国内承認は、自由な資料では裏づけられない（国内承認は添付文書＝区分 UNKNOWN の資料に依る。カードの uncertainty にも個別の照合が未了とある）。
   uncertainty: インフリキシマブとアダリムマブの国内承認は Crohn病の肛門病変に対するものとされるが、添付文書の効能文言の個別照合は未了。本項目の中心は腺感染性で、Crohn病関連は区別して扱う。
   curriculum:
     kokushi: 医学各論 Ⅵ-4-B-①（肛門周囲膿瘍、痔瘻、a）
@@ -5011,6 +5050,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-099
   domain: IN
   subdomain: 肛門癌、肛門管癌
@@ -5031,7 +5073,7 @@
     source_license: CC表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：National Cancer Institute (NCI). Anal Cancer Treatment (PDQ®) – Health Professional Version（米国政府）。「局所進行例」という限定は、PDQ では病期I〜IIIの枠組みで述べられており、表現の対応づけとして記録する。あわせて、原典 SRC-4220 の PMID（34175386）の補完を提案する（原典 ESMO ガイドラインの PubMed レコードには抄録がない）。
   uncertainty: フルオロウラシルとマイトマイシンCは国内承認薬だが、肛門癌への適応表記は添付文書での個別照合が未了で、レジメンとして慣用される位置づけである。
   curriculum:
     kokushi: 医学各論 Ⅵ-4-C-②（肛門癌、肛門管癌、b）
@@ -5046,6 +5088,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-100
   domain: IN
   subdomain: 肛門癌、肛門管癌
@@ -5066,7 +5111,7 @@
     source_license: CC表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：National Cancer Institute (NCI). Anal Cancer Treatment (PDQ®) – Health Professional Version および患者版（米国政府）。
   uncertainty: 救済手術の適応判断は ESMO ガイドラインの記述による。
   curriculum:
     kokushi: 医学各論 Ⅵ-4-C-②（肛門癌、肛門管癌、b）
@@ -5081,6 +5126,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-101
   domain: IN
   subdomain: 裂肛
@@ -5101,7 +5149,7 @@
     source_license: CC表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：Riboni C, et al. Anal Fissure and Its Treatments: A Historical Review. J Clin Med. 2024;13(13):3930。食物繊維・便軟化・坐浴の3点を並べる形と「多くが治癒する」という定量感は原典 ASCRS ガイドライン本文の表現に近く、候補は歴史的総説のため、現代の推奨の細部は ASCRS 本文の範囲である。あわせて、原典 SRC-4221 の PMID（36321851）の補完を提案する（同ガイドラインの PubMed レコードには抄録がない）。'
   uncertainty: 保存療法の第一選択は ASCRS ガイドラインの推奨による。
   curriculum:
     kokushi: 医学各論 Ⅵ-4-E-①（裂肛、b）
@@ -5116,6 +5164,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-102
   domain: IN
   subdomain: 裂肛
@@ -5136,7 +5187,7 @@
     source_license: CC表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：Riboni C, et al. Anal Fissure and Its Treatments: A Historical Review. J Clin Med. 2024;13(13):3930。側方内括約筋切開術が最も治癒率が高いことと便失禁のリスクの評価は、同総説では定量的に裏づけられず、原典 ASCRS 本文の範囲である。'
   uncertainty: 外用硝酸薬とカルシウム拮抗薬軟膏は、日本では裂肛に対する承認と保険適用が未確認で、国内実装は海外と異なる可能性がある。ボツリヌス毒素注射の裂肛への使用も国内適応外とされる。薬剤の国内承認状況は組み立て時に PMDA で再確認を要する。
   curriculum:
     kokushi: 医学各論 Ⅵ-4-E-①（裂肛、b）
@@ -5151,6 +5202,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-103
   domain: IN
   subdomain: 悪性リンパ腫
@@ -5240,7 +5294,7 @@
     url: https://doi.org/10.1111/jgh.70083
     source_license: オープンアクセス版あり（PMC）。CC種別は未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 全身性アミロイドーシスの総論・全身管理は第44回（SA）の担当であり、本カードは消化管病変の側面に限る。出典は PMC にオープンアクセス版があるが、CC ライセンスの種別を確認できなかったため source_class は UNKNOWN とした。
   curriculum:
@@ -5256,6 +5310,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-4224 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: IN-106
   domain: IN
   subdomain: 消化管アミロイドーシス
@@ -5275,7 +5332,7 @@
     url: https://doi.org/10.1111/jgh.70083
     source_license: オープンアクセス版あり（PMC）。CC種別は未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抗形質細胞療法は治療の枠組みとして挙げたもので、個別薬剤の国内承認・保険適用は多発性骨髄腫・ALアミロイドーシスに対する最新の添付文書で確認すること。全身管理の詳細は第44回（SA）の担当。
   curriculum:
@@ -5291,6 +5348,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/58_supp_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-4224 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: IN-107
   domain: IN
   subdomain: 虚血性腸炎
@@ -5486,7 +5546,7 @@
     source_license: CC表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：National Cancer Institute (NCI). Small Intestine Cancer Treatment (PDQ®) – Health Professional Version（米国政府）。該当なし（候補側に対応する数値がない）
   uncertainty: 出典は NCCN ガイドライン Version 1.2020（2019年公表）で、現行は Version 2.2026 であり、現行版では免疫療法の位置づけが拡大している（初回治療を含む位置づけの追加、治療ラインを問わないチェックポイント阻害薬の表の新設など）。本カードの主張は Version 1.2020 の範囲に限る。ペムブロリズマブは国内で「がん化学療法後に増悪した進行・再発のMSI-Hを有する固形癌（標準的な治療が困難な場合に限る）」の適応で承認されている。一方、FOLFOX・CAPEOX の構成薬（オキサリプラチン、フルオロウラチル、カペシタビンなど）は結腸・直腸癌などでは承認されているが、小腸癌は国内の適応に含まれず、保険適用上は適応外使用にあたる。疾患の概要と MMR・MSI 検査の推奨は IN-094 が担当する。
   curriculum:
     kokushi: 医学各論 Ⅵ-3-C-③（小腸癌、c）
@@ -5501,6 +5561,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IN-113
   domain: IN
   subdomain: 毛細血管拡張症
@@ -5556,7 +5619,7 @@
     source_license: 未確認（PMC収載版・出版社ページともCC表示なし）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：Lohsiriwat V. Hemorrhoids: From basic pathophysiology to clinical management. World J Gastroenterol. 2012;18(17):2009-2017（当該総説）の PubMed 抄録レコード（補助：Vergara Torrente JA, et al. Front Surg. 2026、CC BY）。食物繊維による症状・出血のリスクの約50%低下は抄録になく、本文（メタ解析の引用）の範囲である。グレード別の治療の対応（硬化療法・赤外線凝固はI〜II度など）は原典の表の読み取り値であり、抄録では裏づけられない（カードの uncertainty にも表から読み取った旨がある）。'
   uncertainty: 出典はLohsiriwatの痔核の総説（2012）で、グレード別の治療法の対応は同総説の表から読み取った。血栓性外痔核については、疼痛が血栓形成時に生じるという症状面までは確認したが、切除の適応や時期といった扱いの詳細は本総説の記載が乏しく、主張に含めなかった。国内には日本大腸肛門病学会の肛門疾患（痔核・痔瘻・裂肛）・直腸脱診療ガイドライン2020年版（改訂第2版）があるが、本文を照合していないため出典には用いず、今後の差し替え候補とする。個別の薬剤名は主張に含めていない。
   curriculum:
     kokushi: 医学各論 Ⅵ-4-D-①（痔核、a）
@@ -5571,3 +5634,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/67_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による

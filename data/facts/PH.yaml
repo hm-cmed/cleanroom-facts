@@ -692,7 +692,7 @@
     source_license: 表示なし（学会の著作物）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：厚労省資料が心身医学会の定義を引用＋こころの耳／e-ヘルスネット（GOV_JP）。
   uncertainty: 定義文は、総説での引用文と複数の経路で一致を確認したが、原典（『心身医学』31巻7号）の逐語照合は未了である。心身症全体を対象とする国内の診療ガイドラインは、本作成時点の確認範囲では見当たらなかった。対象となる身体疾患そのもの（消化性潰瘍、気管支喘息、潰瘍性大腸炎など）の診療は各臓器分野が正であり、本カードは概念と診断の総論に限る。
   curriculum:
     kokushi: 医学各論 Ⅱ-4-D（心身症、a）
@@ -707,6 +707,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/52_ps_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: PH-021
   domain: PH
   subdomain: 心身症

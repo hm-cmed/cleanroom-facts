@@ -18,7 +18,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：NIMH 統合失調症ページ（症状3領域・現行分類）。
   uncertainty: 亜型は ICD-10 に基づく病名として国内臨床に残る場合があるが、現行の分類体系での位置づけは本カードのとおりである。DSM-5 の変更点は DSM-5 の定義を解説した論文の抄録で確認した範囲に限る
   curriculum:
     kokushi: 医学各論 Ⅱ-2-B-①（妄想型統合失調症、a）；医学各論 Ⅱ-2-B-②（破瓜型統合失調症、a）；医学各論 Ⅱ-2-B-③（緊張型統合失調症、a）
@@ -33,6 +33,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/51_ps_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: SZ-002
   domain: SZ
   subdomain: 統合失調症
@@ -53,7 +56,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：MedlinePlus／NIMH（定性的）。VA/DoD 統合失調症CPG は追加候補（未確認）。
   uncertainty: 国内ガイドライン『統合失調症薬物治療ガイドライン2022』（医学書院、ISBN 978-4-260-04987-0）の英語版（NPR 2025）第1部の診断の章で確認した範囲であり、個別の推奨文ではなく診断の枠組みの記述に基づく
   curriculum:
     kokushi: 医学各論 Ⅱ-2-B-①（妄想型統合失調症、a）
@@ -68,6 +71,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/51_ps_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: SZ-003
   domain: SZ
   subdomain: 統合失調症
@@ -368,7 +374,7 @@
     source_license: 表示なし（書籍）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: 基準Aの構成と症状記述の照合：SRC-3622（日本神経精神薬理学会 統合失調症薬物治療ガイドライン2022 英語版、Neuropsychopharmacol Rep. 2025）
+    corroboration: 基準Aの構成と症状記述の照合：SRC-3622（日本神経精神薬理学会 統合失調症薬物治療ガイドライン2022 英語版、Neuropsychopharmacol Rep. 2025）。自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：NIMH（日常語彙の症状説明）。
   uncertainty: 書籍のため DOI・PMID はない。書誌は出典マスターの SRC-4976 の登録内容どおり（American Psychiatric Association Publishing、2022年、ISBN 978-0-89042-575-6（Hardcover）／978-0-89042-576-3（Paperback））。基準Aの5項目の構成（2つ以上・1か月・少なくとも1つは妄想・幻覚・まとまりのない発話）と各症状の現れ方は、DSM-5 の診断を解説した国内ガイドライン英語版（統合失調症薬物治療ガイドライン2022 の英語版、Neuropsychopharmacol Rep. 2025、既存 SRC-3622）の PMC 全文の診断の章で照合した（幻覚・解体した言語・著しく異常な精神運動行動・陰性症状として感情表出の減少と意欲低下、の記述）。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。既存の SZ-002 は同じ基準Aを診断手順の一部として簡潔に述べるカードであり、本カードは症状そのものの具体像（日常生活で見られる形）を主張するもので、主張の焦点が異なるため実質的な重複には当たらないと判断した。末尾の基準Aの要件（5領域のうち2つ以上・1か月の大半・少なくとも1つは妄想・幻覚・まとまりのない発話）は SZ-002 と重なる。妄想・幻覚などの日常の例（誰かに狙われている、など）が出典に書かれた例か、作り手の言い換えかは、取り込み側では確認していない（監修で確認する。取り込み側の申し送り、2026-11-08）
   curriculum:
     kokushi: 医学各論 Ⅱ-2-B-①（妄想型統合失調症、a）
@@ -386,6 +392,9 @@
   - date: '2026-11-08'
     by: claude-code
     change: 照合経路の SRC-3622 を corroboration に記録し、uncertainty に SZ-002 との重なりと日常の例の確認状況を追記した
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: SZ-012
   domain: SZ
   subdomain: 統合失調症
@@ -406,7 +415,7 @@
     source_license: CC BY-NC-SA 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：NIMH（発症初期の徴候）。原典は CC BY-NC-SA で RESTRICTED のまま。
   uncertainty: PMC 全文で確認した範囲に限る（前駆症状としての不安・抑うつ・気分変動・睡眠の乱れ・イライラ、微細な変化としての社会的引きこもり・学業遂行の低下、減衰型陽性症状としての関係念慮・奇妙な信念や思考・知覚の障害・被害念慮・奇妙な行動や外見、認知面の変化としての記憶・注意・集中の障害）。ライセンスは PMC ページ表示の CC BY-NC-SA 4.0（NC を含むため RESTRICTED）。本出典は総説であり、個々の変化の頻度や感度・特異度などの数値は主張に含めていない。前駆期の変化は発症後に振り返って同定されることが多く、前駆期にある人がすべて統合失調症を発症するわけではない。移行率などの数値は本下書きでは照合していないため、登録時に必要なら別途一次資料で確認すること。PMCID は API 未照合（--online での照合待ち）
   curriculum:
     kokushi: 医学各論 Ⅱ-2-B-①（妄想型統合失調症、a）
@@ -424,6 +433,9 @@
   - date: '2026-11-08'
     by: claude-code
     change: uncertainty に PMCID が API 未照合であることを追記した
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: SZ-013
   domain: SZ
   subdomain: 統合失調症

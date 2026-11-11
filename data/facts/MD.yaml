@@ -374,7 +374,7 @@
     source_license: CC表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：AHRQ ES No.223（NBK592805）。「57%減」のみ所在未確認。
   uncertainty: 抄録で確認した範囲に限る。二段階法と PHQ-9 単独の比較の数値は、PHQ-2 と PHQ-9 の両方の項目スコアが得られた44研究（10,627人、半構造化面接を参照基準）での推定。参照基準の種類によって感度は異なる。国内での PHQ-2 の位置づけは本カードでは扱っていない。PMCID は作り手が第三者のサイトで確認したもので、API では未照合（--online での照合待ち）
   curriculum:
     kokushi: 医学各論 Ⅱ-2-A-①（うつ病、a）
@@ -392,6 +392,9 @@
   - date: '2026-11-07'
     by: claude-code
     change: uncertainty に PMCID が API 未照合であることを追記した
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: MD-012
   domain: MD
   subdomain: うつ病
@@ -482,7 +485,7 @@
     source_license: 表示なし（書籍）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：MedlinePlus／NIMH（躁病・1週間）。
   uncertainty: 書籍のため DOI・PMID はない。書誌は MD-009 登録時に奥付で確認済み（American Psychiatric Association Publishing、2022年、ISBN 978-0-89042-575-6（Hardcover）／978-0-89042-576-3（Paperback））。基準の構造（気分と活動・エネルギーの増加が少なくとも1週間、7症状のうち3つ以上・易怒性のみの場合は4つ以上、著しい障害を起こす重さ）は、DSM-5 のエピソード基準の概要を Table 1 に転載した McCormick U, et al.（J Am Assoc Nurse Pract. 2015、PMC5034840）の PMC 全文で照合した。本下書きでは書籍本文を直接照合していないため、7症状の項目レベルの文言、入院・精神病性の特徴に関する基準Cの文言、除外（基準D）の文言は、登録時に書籍本文（Bipolar and Related Disorders 章）で最終照合すること。DSM-5 から DSM-5-TR への基準変更の有無もあわせて確認すること。DSM の「入院を必要とする場合は期間を問わない」という期間の例外は主張に含まれていない（書籍本文で確認のうえ、必要なら追記を提案する。取り込み側の申し送り、2026-11-08）
   curriculum:
     kokushi: 医学各論 Ⅱ-2-A-②（双極性障害<躁うつ病>、a）
@@ -500,6 +503,9 @@
   - date: '2026-11-08'
     by: claude-code
     change: uncertainty に、入院時の期間の例外が主張に含まれていないことを追記した
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: MD-015
   domain: MD
   subdomain: 双極性障害
@@ -520,7 +526,7 @@
     source_license: 表示なし（書籍）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：MedlinePlus／NIMH（軽躁病・4日間）。
   uncertainty: 書籍のため DOI・PMID はない。基準の構造（少なくとも4日、躁病エピソードと同じ症状構成、他者から観察できる変化、著しい障害を起こすほど重くない）は McCormick U, et al.（J Am Assoc Nurse Pract. 2015、PMC5034840）の PMC 全文（Table 1 の転載）で照合した。本下書きでは書籍本文を直接照合していないため、項目レベルの文言、「精神病性の特徴を伴えば躁病エピソードとする」という定義上の振り分け、その他の除外（他の精神病性障害との区別）の文言は、登録時に書籍本文（Bipolar and Related Disorders 章）で最終照合すること
   curriculum:
     kokushi: 医学各論 Ⅱ-2-A-②（双極性障害<躁うつ病>、a）
@@ -535,6 +541,9 @@
   - date: '2026-11-08'
     by: claude-code
     change: 取り込み：raw/md_bipolar_20261108.md（作り手の下書き MD-仮7）から。ID を MD-015、出典を SRC-4976 に確定し、curriculum を登録依頼文（round51_PS.md）の表の行から付けた。三原の承認（2026-11-08）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: MD-016
   domain: MD
   subdomain: 双極性障害
@@ -555,7 +564,7 @@
     source_license: 表示なし（書籍）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: 生涯有病率の出典：SRC-4982（Merikangas KR, Jin R, He JP, et al. Prevalence and correlates of bipolar spectrum disorder in the world mental health survey initiative. Arch Gen Psychiatry. 2011;68(3):241-251。DOI 10.1001/archgenpsychiatry.2011.12、PMID 21383262）。類型の定義は主出典の DSM-5-TR（SRC-4976）
+    corroboration: 生涯有病率の出典：SRC-4982（Merikangas KR, Jin R, He JP, et al. Prevalence and correlates of bipolar spectrum disorder in the world mental health survey initiative. Arch Gen Psychiatry. 2011;68(3):241-251。DOI 10.1001/archgenpsychiatry.2011.12、PMID 21383262）。類型の定義は主出典の DSM-5-TR（SRC-4976）。自由に使える資料による裏づけ（精神領域バッチ1、作り手の調査 2026-11-11）：PubMed 抄録（Merikangas 2011）に有病率の全数値＋NIMH。
   uncertainty: 類型の定義は DSM-5-TR（SRC-4976）に基づき、エピソードの組み合わせによる定義の骨格（I型には躁病エピソードが少なくとも1回必要、II型には軽躁病エピソードと大うつ病エピソードが必要）は McCormick U, et al.（J Am Assoc Nurse Pract. 2015、PMC5034840）の PMC 全文で照合した。一方、生涯有病率の数値は Merikangas KR, et al.（Arch Gen Psychiatry. 2011;68(3):241-251、PMID 21383262）の抄録で確認したもので、出典表の「新規（仮）」に別掲した。本カードは定義（書籍）と有病率（疫学調査）の複合出典になっており、登録時に、provenance をどちらに置くか、または有病率部分を別カードに分けるかを登録側で判断すること。有病率は DSM-IV 基準による11か国の統合値であり、国別の数値や DSM-5-TR 基準での再推定値は主張に含めていない
   curriculum:
     kokushi: 医学各論 Ⅱ-2-A-②（双極性障害<躁うつ病>、a）
@@ -573,6 +582,9 @@
   - date: '2026-11-08'
     by: claude-code
     change: 複合出典のため、主出典を SRC-4976 のままとし、有病率の出典 SRC-4982 を corroboration に記録した
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（精神領域バッチ1、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: MD-017
   domain: MD
   subdomain: 双極性障害

@@ -1,6 +1,6 @@
 # GD 胃・十二指腸 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-10
+[← 一覧に戻る](README.md)　更新：2026-11-11
 
 全 98 件のうち、監修済み 0 件。
 
@@ -1002,7 +1002,7 @@
 - 鑑別・補足：公式の食中毒統計は実際の発生数を大きく下回る
 - よくある誤解：アニサキス症はまれな疾患である
 - 不確実性：low（本文で照合）
-- 出典：Sugiyama H, et al. Anisakiasis annual incidence and causative species, Japan, 2018-2019. Emerg Infect Dis 2022;28(10)　[DOI 10.3201/eid2810.220627](https://doi.org/10.3201/eid2810.220627)　[PMID 36148963](https://pubmed.ncbi.nlm.nih.gov/36148963/)（区分 GOV_US）
+- 出典：Sugiyama H, et al. Anisakiasis annual incidence and causative species, Japan, 2018-2019. Emerg Infect Dis 2022;28(10)　[DOI 10.3201/eid2810.220627](https://doi.org/10.3201/eid2810.220627)　[PMID 36148963](https://pubmed.ncbi.nlm.nih.gov/36148963/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-C-⑤（胃アニサキス症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-084&card_id=GD-084&version=318fe49ba0)　（版 `318fe49ba0`）
 
@@ -1014,7 +1014,7 @@
 - 鑑別・補足：抄録ではA. simplex s.s.を88.4%と記載
 - よくある誤解：日本のアニサキス症の原因はすべて同一種である
 - 不確実性：low（本文の表 168/189＝88.9% を採用。抄録の 88.4% は本文の件数と合わない）
-- 出典：Sugiyama H, et al. Anisakiasis annual incidence and causative species, Japan, 2018-2019. Emerg Infect Dis 2022;28(10)　[DOI 10.3201/eid2810.220627](https://doi.org/10.3201/eid2810.220627)　[PMID 36148963](https://pubmed.ncbi.nlm.nih.gov/36148963/)（区分 UNKNOWN）
+- 出典：Sugiyama H, et al. Anisakiasis annual incidence and causative species, Japan, 2018-2019. Emerg Infect Dis 2022;28(10)　[DOI 10.3201/eid2810.220627](https://doi.org/10.3201/eid2810.220627)　[PMID 36148963](https://pubmed.ncbi.nlm.nih.gov/36148963/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-C-⑤（胃アニサキス症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-085&card_id=GD-085&version=426f3d8ca1)　（版 `426f3d8ca1`）
 
@@ -1149,7 +1149,7 @@
 - 鑑別・補足：総胆管結石、膵頭部腫瘍、乳頭部腫瘍
 - よくある誤解：閉塞性黄疸があれば必ず結石か腫瘍がある
 - 不確実性：ライセンス種別は未確認。同論文の有病率の引用には不整合があるため数値は採用しない
-- 出典：Ergüder E, et al. Lemmel syndrome: a single-center cohort and diagnostic considerations. Turk J Surg 2026;42(2):214-219　[DOI 10.47717/turkjsurg.2026.2025-11-25](https://doi.org/10.47717/turkjsurg.2026.2025-11-25)　[PMID 42100946](https://pubmed.ncbi.nlm.nih.gov/42100946/)（区分 UNKNOWN）
+- 出典：Ergüder E, et al. Lemmel syndrome: a single-center cohort and diagnostic considerations. Turk J Surg 2026;42(2):214-219　[DOI 10.47717/turkjsurg.2026.2025-11-25](https://doi.org/10.47717/turkjsurg.2026.2025-11-25)　[PMID 42100946](https://pubmed.ncbi.nlm.nih.gov/42100946/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-D-①（食道憩室、胃憩室、十二指腸憩室など、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GD-095&card_id=GD-095&version=00b3e825dd)　（版 `00b3e825dd`）
 

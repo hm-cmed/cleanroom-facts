@@ -88,7 +88,7 @@
     source_license: 表示なし（American Academy of Pediatrics の著作物）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：Centers for Disease Control and Prevention. Developmental Monitoring and Screening / Clinical Screening for Autism Spectrum Disorder（CDC公式ページ）（https://www.cdc.gov/autism/hcp/diagnosis/screening.html）。裏づける部分：発達スクリーニングを9・18・30か月で行う体制と、サーベイランスで懸念があれば月齢を問わず対応する枠組みがCDC資料でも示されていること。CDCのマイルストーン資料（https://www.cdc.gov/act-early/milestones/?msclkid=bce69c0da6c711ecb71bcd9f33a5d9fb）も同月齢を掲載。数値の照合：一致（月齢：カード9・18・30か月／CDC資料9・18・30か月）
   uncertainty: 本カードは米国の枠組みを示す。日本では母子保健法に基づく1歳6か月児健康診査と3歳児健康診査が法定健診であり、発達の確認はこれらの場でも行われる。本カードは発達の評価と早期発見の総論に留め、自閉スペクトラム症などの発達障害そのものの診断・療育は扱わない（Ⅱの範囲）
   curriculum:
     kokushi: 医学各論 Ⅰ-4-D（成長・発達の障害、a）
@@ -103,3 +103,6 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による

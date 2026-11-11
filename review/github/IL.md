@@ -1,6 +1,6 @@
 # IL 間質性・免疫学的機序の肺疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-10
+[← 一覧に戻る](README.md)　更新：2026-11-11
 
 全 61 件のうち、監修済み 0 件。
 
@@ -287,7 +287,7 @@
 - 条件：region: 国際／guideline: ATS/JRS/ALAT 2020 過敏性肺炎診断 GL
 - よくある誤解：過敏性肺炎は今も急性・亜急性・慢性の3型で分類される
 - 不確実性：日本呼吸器学会が掲載した ATS のプレスリリースで確認（ガイドライン本文は未確認）。DOI・PMID 未確認。急性・慢性という従来の分類とは基準が異なる。日本呼吸器学会の過敏性肺炎診療指針とは照合していない。
-- 出典：Raghu G, Remy-Jardin M, Ryerson CJ, et al. Diagnosis of Hypersensitivity Pneumonitis in Adults. An Official ATS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2020　[リンク](https://www.jrs.or.jp/information/file/HPPracticeGuideline.pdf)（区分 UNKNOWN）
+- 出典：Raghu G, Remy-Jardin M, Ryerson CJ, et al. Diagnosis of Hypersensitivity Pneumonitis in Adults. An Official ATS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2020　[リンク](https://www.jrs.or.jp/information/file/HPPracticeGuideline.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-3-A-⑤（過敏性肺炎、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-227 (id: Jlvnlzk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-023&card_id=IL-023&version=a627ee6c28)　（版 `a627ee6c28`）
 
@@ -297,7 +297,7 @@
 
 - 条件：region: 国際／guideline: ATS/JRS/ALAT 2020 過敏性肺炎診断 GL
 - 不確実性：ATS のプレスリリースで確認（本文は未確認）。質問票は現時点では推奨せず、開発と検証を求めている。リンパ球分画の閾値は書いていない。
-- 出典：Raghu G, Remy-Jardin M, Ryerson CJ, et al. Diagnosis of Hypersensitivity Pneumonitis in Adults. An Official ATS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2020　[リンク](https://www.jrs.or.jp/information/file/HPPracticeGuideline.pdf)（区分 UNKNOWN）
+- 出典：Raghu G, Remy-Jardin M, Ryerson CJ, et al. Diagnosis of Hypersensitivity Pneumonitis in Adults. An Official ATS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2020　[リンク](https://www.jrs.or.jp/information/file/HPPracticeGuideline.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-3-A-⑤（過敏性肺炎、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-227 (id: Jlvnlzk)；TBL-02-06-024 (id: JlAKpic)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-024&card_id=IL-024&version=3db0bc56c3)　（版 `3db0bc56c3`）
 
@@ -307,7 +307,7 @@
 
 - 条件：region: 国際／guideline: ATS/JRS/ALAT 2020 過敏性肺炎診断 GL
 - 不確実性：ATS のプレスリリースで確認（本文は未確認）。
-- 出典：Raghu G, Remy-Jardin M, Ryerson CJ, et al. Diagnosis of Hypersensitivity Pneumonitis in Adults. An Official ATS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2020　[リンク](https://www.jrs.or.jp/information/file/HPPracticeGuideline.pdf)（区分 UNKNOWN）
+- 出典：Raghu G, Remy-Jardin M, Ryerson CJ, et al. Diagnosis of Hypersensitivity Pneumonitis in Adults. An Official ATS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2020　[リンク](https://www.jrs.or.jp/information/file/HPPracticeGuideline.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-3-A-⑤（過敏性肺炎、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-227 (id: Jlvnlzk)；TBL-02-06-024 (id: JlAKpic)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-025&card_id=IL-025&version=22145dc92a)　（版 `22145dc92a`）
 
@@ -351,7 +351,7 @@
 - 条件：region: 国際／guideline: ISHAM-ABPA 2024
 - よくある誤解：ABPA の診断には血清総 IgE 1000 IU/mL 以上が必須である（2024年の改訂基準では500）
 - 不確実性：表から読み取り（ERS の掲載ページ）。好酸球数は過去の値でもよいとされる。胸部 X 線の一過性陰影も画像所見として扱う。日本の ABPM 診断基準（Asano ら）とは基準が異なり、照合していない。
-- 出典：Agarwal R, et al（ISHAM-ABPA working group）. Revised ISHAM-ABPA working group clinical practice guidelines for diagnosing, classifying and treating allergic bronchopulmonary aspergillosis/mycoses. Eur Respir J 2024;63(4):2400061　[DOI 10.1183/13993003.00061-2024](https://doi.org/10.1183/13993003.00061-2024)（区分 UNKNOWN）
+- 出典：Agarwal R, et al（ISHAM-ABPA working group）. Revised ISHAM-ABPA working group clinical practice guidelines for diagnosing, classifying and treating allergic bronchopulmonary aspergillosis/mycoses. Eur Respir J 2024;63(4):2400061　[DOI 10.1183/13993003.00061-2024](https://doi.org/10.1183/13993003.00061-2024)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-3-A-④（アレルギー性気管支肺真菌症、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-231 (id: Jlvnlz8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-027&card_id=IL-027&version=9e598a165a)　（版 `9e598a165a`）
 
@@ -361,7 +361,7 @@
 
 - 条件：region: 国際／guideline: ISHAM-ABPA 2024
 - 不確実性：ERS の掲載ページで確認。
-- 出典：Agarwal R, et al（ISHAM-ABPA working group）. Revised ISHAM-ABPA working group clinical practice guidelines for diagnosing, classifying and treating allergic bronchopulmonary aspergillosis/mycoses. Eur Respir J 2024;63(4):2400061　[DOI 10.1183/13993003.00061-2024](https://doi.org/10.1183/13993003.00061-2024)（区分 UNKNOWN）
+- 出典：Agarwal R, et al（ISHAM-ABPA working group）. Revised ISHAM-ABPA working group clinical practice guidelines for diagnosing, classifying and treating allergic bronchopulmonary aspergillosis/mycoses. Eur Respir J 2024;63(4):2400061　[DOI 10.1183/13993003.00061-2024](https://doi.org/10.1183/13993003.00061-2024)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-3-A-④（アレルギー性気管支肺真菌症、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-231 (id: Jlvnlz8)；TBL-02-06-023 (id: JlAKpiY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-028&card_id=IL-028&version=d34287093e)　（版 `d34287093e`）
 
@@ -371,7 +371,7 @@
 
 - 条件：region: 国際／guideline: ISHAM-ABPA 2024
 - 不確実性：ERS の掲載ページで確認。推奨はデルファイ法による合意（合意率70〜97%）で、GRADE の推奨の強さではない。用量は表から読み取り。併用療法は過去1〜2年に2回以上増悪した場合に推奨。国内での生物学的製剤の ABPA への保険適用は確認していない。
-- 出典：Agarwal R, et al（ISHAM-ABPA working group）. Revised ISHAM-ABPA working group clinical practice guidelines for diagnosing, classifying and treating allergic bronchopulmonary aspergillosis/mycoses. Eur Respir J 2024;63(4):2400061　[DOI 10.1183/13993003.00061-2024](https://doi.org/10.1183/13993003.00061-2024)（区分 UNKNOWN）
+- 出典：Agarwal R, et al（ISHAM-ABPA working group）. Revised ISHAM-ABPA working group clinical practice guidelines for diagnosing, classifying and treating allergic bronchopulmonary aspergillosis/mycoses. Eur Respir J 2024;63(4):2400061　[DOI 10.1183/13993003.00061-2024](https://doi.org/10.1183/13993003.00061-2024)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-3-A-④（アレルギー性気管支肺真菌症、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-231 (id: Jlvnlz8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-029&card_id=IL-029&version=290c62c5f0)　（版 `290c62c5f0`）
 
@@ -509,7 +509,7 @@
 
 - 条件：region: 日本／guideline: ARDS 診療ガイドライン2021（日本集中治療医学会・日本呼吸器学会・日本呼吸療法医学会）
 - 不確実性：Springer の掲載ページ（英語版）で確認。体重が予測体重かどうかは掲載ページの範囲では確認できていない。PMID は本チャットで確認できず null（API 照合で確定する）。
-- 出典：Tasaka S, Ohshimo S, Takeuchi M, et al. ARDS Clinical Practice Guideline 2021. J Intensive Care 2022;10(1):32　[DOI 10.1186/s40560-022-00615-6](https://doi.org/10.1186/s40560-022-00615-6)（区分 UNKNOWN）
+- 出典：Tasaka S, Ohshimo S, Takeuchi M, et al. ARDS Clinical Practice Guideline 2021. J Intensive Care 2022;10(1):32　[DOI 10.1186/s40560-022-00615-6](https://doi.org/10.1186/s40560-022-00615-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-4-D-①（急性呼吸窮迫症候群<ARDS>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-236 (id: JlvnlzE)；TBL-02-06-027 (id: JlAKpio)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-041&card_id=IL-041&version=749416377f)　（版 `749416377f`）
 
@@ -520,7 +520,7 @@
 - 条件：region: 日本／guideline: ARDS 診療ガイドライン2021
 - よくある誤解：ARDS にはステロイドパルス療法が推奨されている
 - 不確実性：Springer の掲載ページで確認。低用量・高用量の具体的な用量と投与期間は確認していない。
-- 出典：Tasaka S, Ohshimo S, Takeuchi M, et al. ARDS Clinical Practice Guideline 2021. J Intensive Care 2022;10(1):32　[DOI 10.1186/s40560-022-00615-6](https://doi.org/10.1186/s40560-022-00615-6)（区分 UNKNOWN）
+- 出典：Tasaka S, Ohshimo S, Takeuchi M, et al. ARDS Clinical Practice Guideline 2021. J Intensive Care 2022;10(1):32　[DOI 10.1186/s40560-022-00615-6](https://doi.org/10.1186/s40560-022-00615-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-4-D-①（急性呼吸窮迫症候群<ARDS>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-236 (id: JlvnlzE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-042&card_id=IL-042&version=3bd2bbc7a5)　（版 `3bd2bbc7a5`）
 
@@ -530,7 +530,7 @@
 
 - 条件：region: 日本／guideline: ARDS 診療ガイドライン2021
 - 不確実性：Springer の掲載ページで確認。目標 SpO2 の具体的な範囲は確認していない。
-- 出典：Tasaka S, Ohshimo S, Takeuchi M, et al. ARDS Clinical Practice Guideline 2021. J Intensive Care 2022;10(1):32　[DOI 10.1186/s40560-022-00615-6](https://doi.org/10.1186/s40560-022-00615-6)（区分 UNKNOWN）
+- 出典：Tasaka S, Ohshimo S, Takeuchi M, et al. ARDS Clinical Practice Guideline 2021. J Intensive Care 2022;10(1):32　[DOI 10.1186/s40560-022-00615-6](https://doi.org/10.1186/s40560-022-00615-6)（区分 OPEN）
 - 出題基準：医学各論 Ⅳ-4-D-①（急性呼吸窮迫症候群<ARDS>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-236 (id: JlvnlzE)；TBL-02-06-027 (id: JlAKpio)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-043&card_id=IL-043&version=b1e6abb2aa)　（版 `b1e6abb2aa`）
 

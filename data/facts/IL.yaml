@@ -613,7 +613,7 @@
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ2、作り手の調査 2026-11-11）：Establishing a Diagnosis of Pulmonary Sarcoidosis. J Clin Med 2023（CC BY レビュー）。lupus pernio・Heerfordt 症候群での生検回避と「EBUS を最初の手技とする」という ATS 推奨そのものは候補に載らず裏づけ対象外。ガイドライン抄録は条件付き推奨13件と述べるのみで個別内容は載らない。
   uncertainty: 本文で確認。いずれも条件付き推奨・エビデンスの質は非常に低い。無症状の両側肺門リンパ節腫脹では、生検の要否について推奨を出していない。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-228 (id: Jlvnlzo)；TBL-02-06-024 (id: JlAKpic)'
@@ -628,6 +628,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ2、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IL-019
   domain: IL
   subdomain: サルコイドーシス
@@ -648,7 +651,7 @@
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ2、作り手の調査 2026-11-11）：Crouser ED, et al. Am J Respir Crit Care Med 2020（当該論文）の PubMed 抄録レコード＋ NHLBI Sa…。クレアチニン・ALP・血算・眼科診察・心電図を「条件付きで提案」という推奨の組み立て自体は抄録に列挙されず（抄録は条件付き推奨13件と総数のみ）、この部分は裏づけ対象外。カードに PMID が無く今回特定（32293205）。
   uncertainty: 本文で確認。エビデンスの質はいずれも非常に低い。トランスアミナーゼは推奨なし。ビタミン D を評価する場合は25-OH 体と1,25-OH 体の両方を測ることを提案。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-228 (id: Jlvnlzo)'
@@ -663,6 +666,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ2、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IL-020
   domain: IL
   subdomain: サルコイドーシス
@@ -683,7 +689,7 @@
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ2、作り手の調査 2026-11-11）：NHLBI（NIH）Sarcoidosis - Diagnosis ページ。カードの核である推奨内容（心症状のない患者に心エコー/ホルターをルーチンに行わない、心病変が疑わしければ PET や心エコーより心臓MRIを優先）は政府ページに記載がなく裏づけ対象外。ガイドライン抄録にも個別の条件付き推奨は載らない。
   uncertainty: 本文で確認。いずれも条件付き推奨・エビデンスの質は非常に低い。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-228 (id: Jlvnlzo)；TBL-02-06-023 (id: JlAKpiY)'
@@ -698,6 +704,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ2、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IL-021
   domain: IL
   subdomain: サルコイドーシス
@@ -718,7 +727,7 @@
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ2、作り手の調査 2026-11-11）：Establishing a Diagnosis of Pulmonary Sarcoidosis. J Clin Med 2023（CC BY レビュー）。「ATS 2020 が推奨の対象としていない」はガイドライン側の記載事項であり、候補では裏づけられない（ガイドライン抄録の推奨一覧にも BAL は含まれないことと整合するが、それ自体は本文確認のまま）。
   uncertainty: 本文で確認（支持的な所見としての記載）。CD4/CD8 比の具体的な閾値は書いていない。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-228 (id: Jlvnlzo)；TBL-02-06-024 (id: JlAKpic)'
@@ -733,6 +742,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ2、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IL-022
   domain: IL
   subdomain: サルコイドーシス
@@ -753,7 +765,7 @@
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（バッチ2、作り手の調査 2026-11-11）：NHLBI（NIH）Pulmonary Hypertension - Diagnosis ページ。サルコイドーシスに特化した手順（まず心エコー、心エコーで示唆されれば右心カテーテル）という順序の明記は政府ページになく、この点は裏づけ対象外。ガイドライン抄録にも個別推奨は載らない。
   uncertainty: 本文で確認。心エコーで示唆されない場合の右心カテーテルは個別に判断する（best practice statement）。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-228 (id: Jlvnlzo)；TBL-01-00-226 (id: JlvnlzQ)'
@@ -768,6 +780,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ2、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IL-023
   domain: IL
   subdomain: 過敏性肺炎
@@ -787,7 +802,7 @@
     url: https://www.jrs.or.jp/information/file/HPPracticeGuideline.pdf
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 日本呼吸器学会が掲載した ATS のプレスリリースで確認（ガイドライン本文は未確認）。DOI・PMID 未確認。急性・慢性という従来の分類とは基準が異なる。日本呼吸器学会の過敏性肺炎診療指針とは照合していない。
   curriculum:
@@ -803,6 +818,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-424 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: IL-024
   domain: IL
   subdomain: 過敏性肺炎
@@ -822,7 +840,7 @@
     url: https://www.jrs.or.jp/information/file/HPPracticeGuideline.pdf
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: ATS のプレスリリースで確認（本文は未確認）。質問票は現時点では推奨せず、開発と検証を求めている。リンパ球分画の閾値は書いていない。
   curriculum:
@@ -838,6 +856,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-424 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: IL-025
   domain: IL
   subdomain: 過敏性肺炎
@@ -857,7 +878,7 @@
     url: https://www.jrs.or.jp/information/file/HPPracticeGuideline.pdf
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: ATS のプレスリリースで確認（本文は未確認）。
   curriculum:
@@ -873,6 +894,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-424 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: IL-026
   domain: IL
   subdomain: 好酸球性肺炎
@@ -927,7 +951,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 表から読み取り（ERS の掲載ページ）。好酸球数は過去の値でもよいとされる。胸部 X 線の一過性陰影も画像所見として扱う。日本の ABPM 診断基準（Asano ら）とは基準が異なり、照合していない。
   curriculum:
@@ -943,6 +967,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-426 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: IL-028
   domain: IL
   subdomain: アレルギー性気管支肺真菌症
@@ -962,7 +989,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: ERS の掲載ページで確認。
   curriculum:
@@ -978,6 +1005,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-426 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: IL-029
   domain: IL
   subdomain: アレルギー性気管支肺真菌症
@@ -997,7 +1027,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: ERS の掲載ページで確認。推奨はデルファイ法による合意（合意率70〜97%）で、GRADE の推奨の強さではない。用量は表から読み取り。併用療法は過去1〜2年に2回以上増悪した場合に推奨。国内での生物学的製剤の ABPA への保険適用は確認していない。
   curriculum:
@@ -1013,6 +1043,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-426 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: IL-030
   domain: IL
   subdomain: 薬剤性肺障害
@@ -1418,9 +1451,9 @@
     pmid: null
     pmcid: null
     url: null
-    source_license: オープンアクセス、© The Author(s) 2022（ライセンス名は未確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: Springer の掲載ページ（英語版）で確認。体重が予測体重かどうかは掲載ページの範囲では確認できていない。PMID は本チャットで確認できず null（API 照合で確定する）。
   curriculum:
@@ -1436,6 +1469,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-435 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: IL-042
   domain: IL
   subdomain: 急性呼吸窮迫症候群<ARDS>
@@ -1453,9 +1489,9 @@
     pmid: null
     pmcid: null
     url: null
-    source_license: オープンアクセス、© The Author(s) 2022（ライセンス名は未確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: Springer の掲載ページで確認。低用量・高用量の具体的な用量と投与期間は確認していない。
   curriculum:
@@ -1471,6 +1507,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-435 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: IL-043
   domain: IL
   subdomain: 急性呼吸窮迫症候群<ARDS>
@@ -1488,9 +1527,9 @@
     pmid: null
     pmcid: null
     url: null
-    source_license: オープンアクセス、© The Author(s) 2022（ライセンス名は未確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: Springer の掲載ページで確認。目標 SpO2 の具体的な範囲は確認していない。
   curriculum:
@@ -1506,6 +1545,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-435 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: IL-044
   domain: IL
   subdomain: 肺リンパ脈管筋腫症<LAM>
@@ -1919,7 +1961,7 @@
     source_license: CC BY-NC 4.0（PMC ページの表示）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（バッチ2、作り手の調査 2026-11-11）：米国環境保護庁（EPA）. Recognition and Management of Pesticide Poisonings, Chapter 12: Pa…。現出典（Korean J Intern Med 2009）の抄録は総説的論説の短い要旨で数値を含まないため抄録レコードでは裏づけられない。同論文の全文（PMC2698628）にはカードの全数値が原文どおり載るが、ライセンスは CC BY-NC のため自由な出典にはならず、RESTRICTED は正し。'
   uncertainty: 本出典は総説的な論説であり、致死量と生存率は本稿自体の症例データではなく、引用された既報に基づく二次的な記述を含む。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
@@ -1934,6 +1976,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（バッチ2、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
 - id: IL-056
   domain: IL
   subdomain: 肺胞微石症

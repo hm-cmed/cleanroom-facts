@@ -18,7 +18,7 @@
     source_license: Copyright ©ERS 2017
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Zimnoch M, Eldeiry D, Aruleba O, et al. Non-Invasive Ventilation: When, Where, How to Start, and How to Stop. J Clin Med 2025;14(14):5033（https://pmc.ncbi.nlm.nih.gov/articles/PMC12295356/）。裏づける部分：心原性肺水腫による急性呼吸不全にバイレベルNIV・CPAPのいずれもが強く推奨され、確実性は中等度とする部分(同総説Table 1にERS/ATS推奨を転記)。数値の照合：該当なし(数値なし。推奨の強さ=強い・確実性=中等度は一致)'
   uncertainty: ATS 掲載の本文 PDF で確認。PMID は検索結果の PubMed 表題で確認、DOI 未確認。de novo の低酸素性呼吸不全については推奨を出していない。
   curriculum:
     core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-02-06-027 (id: JlAKpio)'
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: PV-002
   domain: PV
   subdomain: 急性肺血栓塞栓症
@@ -88,7 +91,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Khachatryan AS, et al. Outpatient Management of Pulmonary Embolism Patients with Direct Oral Anticoagulants: A Systematic Review. J Clin Med. 2025;14(24):8931（https://pmc.ncbi.nlm.nih.gov/articles/PMC12734285/）。裏づける部分：低リスクPE（Hestia・sPESI等で選択）の外来・早期退院管理の安全性を系統的レビューで支持する部分のみ。カテゴリーBという2026分類自体とPESI I〜II等の具体的区分けは裏づけない。数値の照合：カード側の数値区分（PESI I〜II、sPESI 0、Hestia 0）は候補資料にそのままの形ではなし（不一致ではなく未記載）'
   uncertainty: 本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。要点（Top 10 Take-Home Messages）から読み取り。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)'
@@ -103,6 +106,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: PV-004
   domain: PV
   subdomain: 急性肺血栓塞栓症
@@ -123,7 +129,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Pandya V, Chandra AA, et al. Evolution of Pulmonary Embolism Response Teams in the United States: A Review of the Literature. J Clin Med. 2024;13(13):3984（https://pmc.ncbi.nlm.nih.gov/articles/PMC11242386/）。裏づける部分：PERTの設置・運用と、重症例に全身血栓溶解・カテーテル治療・外科的血栓摘除等の高度治療を限る考え方を支持する部分のみ。カテゴリーD1〜D2/E1への対応づけは2026分類固有で裏づけない。数値の照合：数値の照合対象なし（カテゴリー細分は候補に記載なし）'
   uncertainty: 本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。要点から読み取り。全身血栓溶解・カテーテル治療の個別の COR/LOE は抽出テキストに含まれず未確認。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)'
@@ -138,6 +144,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: PV-005
   domain: PV
   subdomain: 急性肺血栓塞栓症
@@ -193,7 +202,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN / GOV_US、作り手の調査 2026-11-08）：Age-Adjusted and Clinical Probability Adapted D-Dimer Cutoffs to Rule Out Pulmonary Embolism: A Narrative Review of Clinical Trials. 2024 (MDPI, CC BY) ＋ ClinicalTrials.gov登録 ADJUST-PE (NCT01134068, GOV_US)（https://pmc.ncbi.nlm.nih.gov/articles/PMC11204230/）。裏づける部分：年齢調整閾値（年齢×10 μg/L FEU、50歳超）とADJUST-PEの前向き検証、YEARSアルゴリズムの概要を裏づける（原著ADJUST-PE: JAMA 2014, DOI 10.1001/jama.2014.2135, PMID 24643601 はnew_sourcesに参考として別掲）。数値の照合：一致：年齢×10 μg/L FEU。ADJUST-P…'
   uncertainty: 本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。妊娠中は妊娠用に調整した YEARS 基準が考慮されうる（COR 2b）。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)'
@@ -208,6 +217,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN / GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: PV-007
   domain: PV
   subdomain: 急性肺血栓塞栓症
@@ -298,7 +310,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN / GOV_US、作り手の調査 2026-11-08）：Direct Oral Anticoagulants for Pulmonary Embolism: Importance of Anatomical Extent. TH Open. 2018;2(1):e1-e7 ＋ AHRQ Evidence Report: Diagnosis and Treatment of Deep Venous Thrombosis and Pulmonary Embolism (2003, GOV_US)（https://pmc.ncbi.nlm.nih.gov/articles/PMC6524852/）。裏づける部分：DOACがVKAに対して少なくとも同等の有効性で出血が少ないこと（DOAC>VKAの向き）を支持。LMWH>UFHはAHRQ 2003報告がDVTで有効性・安全性を支持しPEでは限定的支持にとどまる。数値の照合：候補の間接メタ解析：再発VTEの相対リスク DOAC対heparin/VKA 0.8（95%CI 0.6-1.1、heparin …'
   uncertainty: 本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。要点から読み取り。個別の COR/LOE は抽出テキストで未確認。国内の抗凝固薬の保険適用は JCS/JPCPHS 2025 ガイドラインと添付文書で確認する必要がある。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)'
@@ -313,6 +325,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN / GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: PV-010
   domain: PV
   subdomain: 急性肺血栓塞栓症
@@ -333,7 +348,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Extended anticoagulation for VTE: what evidence justifies it? Front Pharmacol. 2023 (Frontiers, CC BY)（https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1241979/full）。裏づける部分：一過性誘因のあるVTEは3〜6か月で終了し、誘因のない（unprovoked）VTEは通常無期限に継続するという期間の考え方を支持し、カードの向きと一致。数値の照合：一致：初期治療相3〜6か月という区切りは候補にも明記。ただし2025年のBlood Advancesメタ解析（PMC12138518, PMID 40198201）では初期治療としての長期対短期は短期が有利な面もあり、二次予防としての無期限継続がunprovoked/慢性危険因子で有利と整理されており、局面の区別が必要'
   uncertainty: 本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。要点から読み取り。COR/LOE と、可逆的な危険因子がある場合の期間は抽出テキストで未確認。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)'
@@ -348,6 +363,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: PV-011
   domain: PV
   subdomain: 急性肺血栓塞栓症
@@ -368,7 +386,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：ClinicalTrials.gov 結果登録 NCT00639743（https://clinicaltrials.gov/study/NCT00639743）。数値の照合：一致：抄録 13/506（2.6%）対28/499（5.6%）、30日死亡 12例（2.4%）対16例（3.2%）でカードと一致
   uncertainty: リポジトリ（ゲッティンゲン大学）の抄録で確認。PMID は本チャットで確認できず null（API 照合で確定する）。頁は未確認。テネクテプラーゼの国内承認状況は確認していない。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)'
@@ -383,6 +401,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: PV-012
   domain: PV
   subdomain: 急性肺血栓塞栓症
@@ -403,7 +424,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：ClinicalTrials.gov 結果登録 NCT00639743（https://clinicaltrials.gov/study/NCT00639743）。数値の照合：一致：抄録 頭蓋外出血 32例（6.3%）対6例（1.2%）、脳卒中 12例（2.4%）対1例（0.2%）でカードと一致
   uncertainty: リポジトリの抄録で確認。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)'
@@ -418,6 +439,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: PV-013
   domain: PV
   subdomain: 慢性肺血栓塞栓症
@@ -508,7 +532,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Durrington C, Hurdman JA, Elliot CA, et al. Systematic pulmonary embolism follow-up increases diagnostic rates of chronic thromboembolic pulmonary hypertension and identifies less severe disease: results from the ASPIRE Registry. Eur Respir J. 2024;63(3):2300846（https://eprints.whiterose.ac.uk/210419/1/EMS194168.pdf）。裏づける部分：PE後の系統的フォローアップでCTEPH/CTEPDを見逃さず早期に同定できることを実証データで支持。フォローの必要性という主張の核は裏づく。数値の照合：候補は診断後3か月のPEフォロークリニック受診1956例でCTEPH累積発生2.10%。カード…'
   uncertainty: 本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。要点から読み取り。COR/LOE は未確認。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)；TBL-01-00-226 (id: JlvnlzQ)'
@@ -523,6 +547,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: PV-016
   domain: PV
   subdomain: 慢性肺血栓塞栓症
@@ -534,16 +561,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-444
-    source: Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879
-    doi: 10.1183/13993003.00879-2022
-    pmid: '36028254'
-    pmcid: null
-    url: null
-    source_license: Publisher holds Copyright（ERS、リポジトリの表示）
+    source_ref: SRC-4994
+    source: 'Simeone B, Maggio E, Schirone L, et al. Chronic Thromboembolic Pulmonary Hypertension: the therapeutic assessment. Front Cardiovasc Med 2024;11:1439411'
+    doi: 10.3389/fcvm.2024.1439411
+    pmid: '39171327'
+    pmcid: PMC11337617
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11337617/
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-444（Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879）
   uncertainty: 二次資料経由（ACC の要約「Ten Points to Remember」で確認。ガイドライン本文は未入手）。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)'
@@ -558,6 +585,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: '主出典を SRC-444 から自由に使える資料 SRC-4994 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：CTEPDの定義全体: 症状があり、V/Qミスマッチと慢性器質化血栓の画像所見があり、治療的抗凝固を少なくとも3か月行った後で、一部は安静時肺高血圧なし、とする部分）。三原の承認（2026-11-11）による'
 - id: PV-017
   domain: PV
   subdomain: 慢性肺血栓塞栓症
@@ -569,16 +599,16 @@
     differential: null
     common_misconception: 慢性血栓塞栓性肺高血圧症では血栓内膜摘除術が成功すれば抗凝固療法を中止できる
   provenance:
-    source_ref: SRC-444
-    source: Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879
-    doi: 10.1183/13993003.00879-2022
-    pmid: '36028254'
-    pmcid: null
-    url: null
-    source_license: Publisher holds Copyright（ERS、リポジトリの表示）
+    source_ref: SRC-4994
+    source: 'Simeone B, Maggio E, Schirone L, et al. Chronic Thromboembolic Pulmonary Hypertension: the therapeutic assessment. Front Cardiovasc Med 2024;11:1439411'
+    doi: 10.3389/fcvm.2024.1439411
+    pmid: '39171327'
+    pmcid: PMC11337617
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11337617/
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-444（Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879）
   uncertainty: 二次資料経由（ACC の要約で確認）。各治療の推奨クラス・レベルは本文で確認していない。日本の JCS/JPCPHS 2025 ガイドラインとは照合していない。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)'
@@ -593,6 +623,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: '主出典を SRC-444 から自由に使える資料 SRC-4994 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：CTEPH治療全体: 手術(肺動脈内膜摘除術)・バルーン肺動脈形成術・肺高血圧治療薬を組み合わせる多モダリティ治療と、生涯抗凝固の部分）。三原の承認（2026-11-11）による'
 - id: PV-018
   domain: PV
   subdomain: 慢性肺血栓塞栓症
@@ -604,16 +637,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-443
-    source: Ghofrani HA, D'Armini AM, Grimminger F, et al（CHEST-1 Study Group）. Riociguat for the treatment of chronic thromboembolic pulmonary hypertension. N Engl J Med 2013;369
+    source_ref: SRC-4995
+    source: ClinicalTrials.gov 結果登録 NCT00855465（CHEST-1、リオシグアト BAY63-2521、米国国立医学図書館）
     doi: null
     pmid: null
     pmcid: null
-    url: null
-    source_license: 未確認
+    url: https://clinicaltrials.gov/study/NCT00855465
+    source_license: 米国連邦政府の著作物
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: GOV_US
+    corroboration: 元の主出典：SRC-443（Ghofrani HA, D'Armini AM, Grimminger F, et al（CHEST-1 Study Group）. Riociguat for the treatment of chronic thromboembolic pulmonary hypertension. N Engl J Med 2013;369）
   uncertainty: CORE の書誌ページの抄録で確認。DOI は表示が途中で切れており未確認、PMID・頁も未確認。国内承認状況は添付文書で確認していない。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)'
@@ -628,6 +661,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-443 から自由に使える資料 SRC-4995 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：主張全体：手術不能または術後残存・再発CTEPHを対象（適格基準で確認）、解析対象261人（173+88）、16週6分間歩行距離と肺血管抵抗の低下）。三原の承認（2026-11-11）による
 - id: PV-019
   domain: PV
   subdomain: 肺高血圧症
@@ -639,16 +675,16 @@
     differential: null
     common_misconception: 肺高血圧症は平均肺動脈圧25 mmHg 以上で定義される（2022年版で20 mmHg 超に変更）
   provenance:
-    source_ref: SRC-444
-    source: Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879
-    doi: 10.1183/13993003.00879-2022
-    pmid: '36028254'
-    pmcid: null
-    url: null
-    source_license: Publisher holds Copyright（ERS、リポジトリの表示）
+    source_ref: SRC-4996
+    source: Kularatne M, Gerges C, Jevnikar M, Humbert M, Montani D. Updated Clinical Classification and Hemodynamic Definitions of Pulmonary Hypertension and Its Clinical Implications. J Cardiovasc Dev Dis 2024;11(3):78
+    doi: 10.3390/jcdd11030078
+    pmid: '38535101'
+    pmcid: PMC10971453
+    url: https://mdpi-res.com/d_attachment/jcdd/jcdd-11-00078/article_deploy/jcdd-11-00078.pdf?version=1709019098
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-444（Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879）
   uncertainty: 二次資料経由（ACC の要約で確認。ガイドライン本文は未入手）。旧版の基準（平均肺動脈圧25 mmHg 以上）からの変更点は本文で確認していない。日本の JCS/JPCPHS 2025 ガイドラインとは照合していない。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)'
@@ -663,6 +699,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: '主出典を SRC-444 から自由に使える資料 SRC-4996 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：血行動態定義全体: 肺高血圧=平均肺動脈圧20 mmHg超、前毛細血管性(=PAHの血行動態)は肺血管抵抗2 WU超かつ肺動脈楔入圧15 mmHg以下、とする部分(2022 ESC/ERS定義の総説、Table 2)）。三原の承認（2026-11-11）による'
 - id: PV-020
   domain: PV
   subdomain: 肺高血圧症
@@ -674,16 +713,16 @@
     differential: null
     common_misconception: 左心不全に伴う肺高血圧症にも肺動脈性肺高血圧症の治療薬が勧められる
   provenance:
-    source_ref: SRC-444
-    source: Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879
-    doi: 10.1183/13993003.00879-2022
-    pmid: '36028254'
-    pmcid: null
-    url: null
-    source_license: Publisher holds Copyright（ERS、リポジトリの表示）
+    source_ref: SRC-4996
+    source: Kularatne M, Gerges C, Jevnikar M, Humbert M, Montani D. Updated Clinical Classification and Hemodynamic Definitions of Pulmonary Hypertension and Its Clinical Implications. J Cardiovasc Dev Dis 2024;11(3):78
+    doi: 10.3390/jcdd11030078
+    pmid: '38535101'
+    pmcid: PMC10971453
+    url: https://mdpi-res.com/d_attachment/jcdd/jcdd-11-00078/article_deploy/jcdd-11-00078.pdf?version=1709019098
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-444（Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879）
   uncertainty: ESC/ERS 2022 ガイドライン本文は未入手で、二次資料（ACC の要約）にも第2群の血行動態の記載はない。毛細血管後性の肺高血圧の楔入圧・肺血管抵抗の閾値（孤立性・混合性の区別）は本文で確認してからカードを追加する。心不全そのものの内容は循環器 HF で扱う。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)'
@@ -698,6 +737,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-444 から自由に使える資料 SRC-4996 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：臨床分類で第2群=左心系疾患に伴う肺高血圧とされる部分、および毛細血管後性(楔入圧15 mmHg超)の血行動態定義の部分）。三原の承認（2026-11-11）による
 - id: PV-021
   domain: PV
   subdomain: 肺動脈性肺高血圧症
@@ -709,16 +751,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-445
-    source: Galiè N, Barberà JA, Frost AE, et al（AMBITION Investigators）. Initial Use of Ambrisentan plus Tadalafil in Pulmonary Arterial Hypertension. N Engl J Med 2015;373(9):834-844
-    doi: 10.1056/NEJMoa1413687
-    pmid: '26308684'
+    source_ref: SRC-4997
+    source: ClinicalTrials.gov 結果登録 NCT01178073（AMBITION、アンブリセンタン＋タダラフィル初期併用、米国国立医学図書館）
+    doi: null
+    pmid: null
     pmcid: null
-    url: null
-    source_license: 未確認
+    url: https://clinicaltrials.gov/study/NCT01178073
+    source_license: 米国連邦政府の著作物
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: GOV_US
+    corroboration: 元の主出典：SRC-445（Galiè N, Barberà JA, Frost AE, et al（AMBITION Investigators）. Initial Use of Ambrisentan plus Tadalafil in Pulmonary Arterial Hypertension. N Engl J Med 2015;373(9):834-844）
   uncertainty: グラスゴー大学のリポジトリの抄録で確認。併用群では末梢浮腫・頭痛・鼻閉・貧血が多かった。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)'
@@ -733,6 +775,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-445 から自由に使える資料 SRC-4997 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：主張全体：治療歴のないPAHの初期併用対単剤合算の臨床的失敗（初回裁定イベント）件数とハザード比が主要評価項目として登録）。三原の承認（2026-11-11）による
 - id: PV-022
   domain: PV
   subdomain: 肺動脈性肺高血圧症
@@ -744,16 +789,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-444
-    source: Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879
-    doi: 10.1183/13993003.00879-2022
-    pmid: '36028254'
-    pmcid: null
-    url: null
-    source_license: Publisher holds Copyright（ERS、リポジトリの表示）
+    source_ref: SRC-4996
+    source: Kularatne M, Gerges C, Jevnikar M, Humbert M, Montani D. Updated Clinical Classification and Hemodynamic Definitions of Pulmonary Hypertension and Its Clinical Implications. J Cardiovasc Dev Dis 2024;11(3):78
+    doi: 10.3390/jcdd11030078
+    pmid: '38535101'
+    pmcid: PMC10971453
+    url: https://mdpi-res.com/d_attachment/jcdd/jcdd-11-00078/article_deploy/jcdd-11-00078.pdf?version=1709019098
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-444（Humbert M, Kovacs G, Hoeper MM, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. Eur Respir J 2023;61(1):2200879）
   uncertainty: 二次資料経由（ACC の要約で確認）。初期併用の対象（低〜中リスクで心肺の併存症がない場合など）と推奨クラスは本文で確認していない。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)'
@@ -768,6 +813,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: '主出典を SRC-444 から自由に使える資料 SRC-4996 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：PAH治療の進め方全体: 初期治療選択はリスク層別化に基づく、低〜中リスクは初期から2剤併用・高リスクは3剤併用、経過観察で中〜高リスクに留まれば治療強化、心肺併存症例は初期単剤で個別化、とする部分(同総説の臨床的含意の節)）。三原の承認（2026-11-11）による'
 - id: PV-023
   domain: PV
   subdomain: 肺動脈性肺高血圧症
@@ -779,16 +827,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-446
-    source: Hoeper MM, Badesch DB, Ghofrani HA, et al（STELLAR Trial Investigators）. Phase 3 Trial of Sotatercept for Treatment of Pulmonary Arterial Hypertension. N Engl J Med 2023;388
-    doi: 10.1056/NEJMoa2213558
-    pmid: '36877098'
+    source_ref: SRC-4998
+    source: ClinicalTrials.gov 結果登録 NCT04576988（STELLAR、ソタテルセプト MK-7962-003、米国国立医学図書館）
+    doi: null
+    pmid: null
     pmcid: null
-    url: null
-    source_license: 未確認
+    url: https://clinicaltrials.gov/study/NCT04576988
+    source_license: 米国連邦政府の著作物
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: GOV_US
+    corroboration: 元の主出典：SRC-446（Hoeper MM, Badesch DB, Ghofrani HA, et al（STELLAR Trial Investigators）. Phase 3 Trial of Sotatercept for Treatment of Pulmonary Arterial Hypertension. N Engl J Med 2023;388）
   uncertainty: リポジトリ（DZL）の抄録で確認。鼻出血・めまい・毛細血管拡張・ヘモグロビン増加・血小板減少・血圧上昇が多かった。国内では2025年6月に承認（販売名エアウィン）との報道があるが、添付文書で確認していない。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)'
@@ -803,6 +851,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-446 から自由に使える資料 SRC-4998 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：主張全体：既存治療中のWHO機能分類II〜III度PAH（適格基準で確認）、3週ごと皮下注、24週6分間歩行距離の群間差推定値が主要評価項目として登録）。三原の承認（2026-11-11）による
 - id: PV-024
   domain: PV
   subdomain: 肺動脈性肺高血圧症
@@ -823,7 +874,7 @@
     source_license: Publisher holds Copyright（ERS、リポジトリの表示）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Baranska-Pawelczak K, Wojciechowska CA, Jachec W. Pregnancy in Patients with Pulmonary Arterial Hypertension in Light of New ESC Guidelines on Pulmonary Hypertension. Int J Environ Res Public Health 2023;20(5):4625（https://mdpi-res.com/d_attachment/ijerph/ijerph-20-04625/article_deploy/ijerph-20-04625.pdf?version=1678086341）。裏づける部分：妊娠中の薬剤部分の一部: エンドセリン受容体拮抗薬とリオシグアトは催奇形性のため妊娠中禁忌とする部分(FDA添付文書に基づく同総説Table 1)。FDA添付文書(マシテンタン含有製剤、accessdata.fda.gov)でも妊娠…'
   uncertainty: 二次資料経由（ACC の要約で確認）。カルシウム拮抗薬・PDE5 阻害薬・プロスタサイクリン製剤はエビデンスは限られるが安全と考えられている。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)'
@@ -838,6 +889,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: PV-025
   domain: PV
   subdomain: 肺疾患あるいは低酸素血症に続発する肺高血圧症
@@ -858,7 +912,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：ClinicalTrials.gov 結果登録 NCT02630316（https://clinicaltrials.gov/study/NCT02630316）。数値の照合：一部不一致（推定法の違い）：CMS資料とカードは最小二乗平均差 31.12m（95%CI 16.85-45.39）で一致し、臨床的悪化 22.7%対33.1%（HR 0.61）も一致。一方 ClinicalTrials.gov NCT02630316 の主要解析は Hodges-Lehmann 推定量 21.0m（中央値変化量 プラセボ-9.0m/トレプロスチニル+6.0m）で 31.12m とは異なる（同じデータの別推定法）。登録の悪化件数 37/163（22.7%）対54/163（33.1%）はカードと一致
   uncertainty: ミネソタ大学の書誌ページの抄録で確認。国内でのトレプロスチニル吸入製剤の承認状況は確認していない。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)；TBL-01-00-218 (id: JlvnlyY)'
@@ -873,6 +927,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: PV-026
   domain: PV
   subdomain: 肺疾患あるいは低酸素血症に続発する肺高血圧症
@@ -893,7 +950,7 @@
     source_license: Publisher holds Copyright（ERS、リポジトリの表示）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Reccardini N, Da Re B, Mondini L, et al. Exploring the therapeutic landscape of pulmonary hypertension associated with interstitial lung disease, with a focus on idiopathic pulmonary fibrosis: a narrative review. Front Pharmacol 2026;17:1865787（https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1865787/full）。裏づける部分：第3群の管理原則(基礎疾患治療の最適化が主戦略)と、2022 ESC/ERSが第3群重症例は肺高血圧センターへ紹介し個別判断でPDE5阻害薬を考慮してよいとした、とする部分。数値の照合：該当なし(重症の定義PVR…'
   uncertainty: 二次資料経由（ACC の要約で確認）。根拠は間質性肺疾患での1つの陽性 RCT とされる（SRC-447 の INCREASE 試験と考えられるが、本文で確認していない）。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)'
@@ -908,6 +965,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: PV-027
   domain: PV
   subdomain: 肺性心
@@ -999,7 +1059,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Kaufman CS, Nguyen MA, Bezold A, Chesnutt MS. Pediatric Pulmonary Arteriovenous Malformations in Patients with Hereditary Hemorrhagic Telangiectasia: Screening, Diagnosis, and Management. J Clin Med 2025;14(11):3739（https://www.mdpi.com/2077-0383/14/11/3739）。裏づける部分：小児スクリーニングの内容全体: 無症状のHHT児・HHTの可能性がある児は診断時にスクリーニング、方法は胸部X線+パルスオキシメトリまたは経胸壁コントラスト心エコー、CTはスクリーニングの第一選択ではなく陽性時の確認検査、とする部分(第2版国際HHTガイドラインを引用する総説)。数値の照合：該当なし'
   uncertainty: HHT ガイドライン公式サイトの補足資料（小児・妊娠の章）で確認。成人のスクリーニングの推奨は本文の該当部分で確認していない。PMID・頁未確認。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
@@ -1014,6 +1074,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: PV-030
   domain: PV
   subdomain: 肺動静脈瘻
@@ -1035,7 +1098,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Kaufman CS, Nguyen MA, Bezold A, Chesnutt MS. Pediatric Pulmonary Arteriovenous Malformations in Patients with Hereditary Hemorrhagic Telangiectasia: Screening, Diagnosis, and Management. J Clin Med 2025;14(11):3739（https://www.mdpi.com/2077-0383/14/11/3739）。裏づける部分：治療部分: 大きい・生理学的に有意な肺動静脈奇形は経カテーテル塞栓術で治療、酸素飽和度低下を伴うものが治療対象、流入動脈径3 mm以上が塞栓術の適応、とする部分。数値の照合：一致(流入動脈径: カード=3 mm以上 / 候補=at least 3 mm)'
   uncertainty: 補足資料で確認。無症状の小児では通常5年ごとにスクリーニングを繰り返す（強い推奨）。
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
@@ -1050,6 +1113,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
 - id: PV-031
   domain: PV
   subdomain: 肺動静脈瘻
@@ -1106,7 +1172,7 @@
     source_license: Publisher holds Copyright（ERS、リポジトリの表示）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Kularatne M, Gerges C, Jevnikar M, Humbert M, Montani D. Updated Clinical Classification and Hemodynamic Definitions of Pulmonary Hypertension and Its Clinical Implications. J Cardiovasc Dev Dis 2024;11(3):78（https://mdpi-res.com/d_attachment/jcdd/jcdd-11-00078/article_deploy/jcdd-11-00078.pdf?version=1709019098）。裏づける部分：血行動態定義の全部: 第2群は毛細血管後性で平均肺動脈圧20 mmHg超かつ楔入圧15 mmHg超、肺血管抵抗2 WU以下=孤立性・2 WU超=混合性、とする部分(Table 2)。基礎疾患(左心疾患)治療が基本という原則も同総説の含意と一致。数値の照合：…'
   uncertainty: 閾値（平均肺動脈圧・肺動脈楔入圧・肺血管抵抗）と推奨クラスは ESC/ERS 2022 ガイドライン本文（第8章の定義と推奨表22A）から読み取り。PV-020 が「楔入圧・肺血管抵抗の閾値は本文で確認してからカードを追加する」としていた血行動態の定義を本カードで補った。薬剤について、主張は肺動脈性肺高血圧症の承認薬というクラス単位の記述で個別の薬剤名は含まない。これらの薬剤は国内では肺動脈性肺高血圧症（第1群）に承認されており、左心系疾患に伴う肺高血圧症（第2群）への適応はない。心不全そのものの治療内容は循環器のカードが担う。
   curriculum:
     kokushi: 医学各論 Ⅳ-5-C-①（左心系疾患に伴う肺高血圧症、a）
@@ -1121,3 +1187,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
