@@ -1,0 +1,49 @@
+{
+ "class": [],
+ "A": [
+  [
+   "IH-005",
+   "SRC-204",
+   "SRC-5011"
+  ],
+  [
+   "IH-021",
+   "SRC-210",
+   "SRC-5012"
+  ]
+ ],
+ "B": [
+  "IH-001",
+  "IH-002",
+  "IH-003",
+  "IH-004",
+  "IH-006",
+  "IH-007",
+  "IH-008",
+  "IH-009",
+  "IH-010",
+  "IH-011",
+  "IH-012",
+  "IH-013",
+  "IH-014",
+  "IH-017",
+  "IH-019",
+  "IH-020",
+  "IH-023",
+  "IH-024",
+  "IH-026",
+  "IH-027",
+  "IH-028",
+  "IH-029"
+ ],
+ "new_src": [
+  [
+   "SRC-5011",
+   "ClinicalTrials.gov NCT01471522（ISCHEMIA）登録・結果レコード"
+  ],
+  [
+   "SRC-5012",
+   "Raffo C, Giacoppo D, Capodanno D, Greco A. Antithrombotic Therapy in Patients wi"
+  ]
+ ]
+}

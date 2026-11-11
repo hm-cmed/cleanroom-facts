@@ -18,7 +18,7 @@
     source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Niemierko J, Nicol E, Weir-McCall JR. The role of cardiac imaging in the post-ISCHEMIA world. Br J Radiol. 2025（CC BY、PMID 40272895、DOI 10.1093/bjr/tqaf085、PMC12199363、新規 SRC 候補）。裏づける部分：低リスクでは追加検査は不要で、中等度から高リスクの検査前確率ではさらなる検査が必要とされ、下流の画像検査として非侵襲的検査が推奨されること、CCTA が ESC・ACC/AHA でレベル1の推奨と位置づけられ機能的検査も推奨されることが明記される。数値の照合：数値なし（該当なし）。留保：JCS 2022 のクラスI・レベルA という割当てと、機能的評価の個別モダリティ（負荷心筋シンチ・負荷心臓MRI・負荷心エコー）の列挙そのものは候補に再掲がなく、その部分を留保して B。候補は ESC・ACC/AHA・NICE の枠組みを扱う総説
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-029 (id: JlAKpgA)；TBL-02-05-028 (id: JlAKpf8)'
@@ -36,6 +36,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅷ-9-B-⑤ を足した（医学各論 Ⅴ-5-A-①（労作性狭心症、a） → 医学各論 Ⅴ-5-A-①（労作性狭心症、a）；医学各論 Ⅷ-9-B-⑤（冠動脈疾患、b））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-002
   domain: IH
   subdomain: 労作性狭心症
@@ -56,7 +59,7 @@
     source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Berntorp K, Mohammad MA, Koul S, et al. A Vessel-Specific Analysis of Deferred Lesions Using the Instantaneous Wave-Free Ratio and Fractional Flow Reserve. J Soc Cardiovasc Angiogr Interv. 2025（CC BY、PMID 41040437、DOI 10.1016/j.jscai.2025.103823、PMC12485520、新規 SRC 候補）。裏づける部分：「FFR <0.80 と iFR <0.89 が血行再建の閾値として一般に用いられる」と明記される。補助候補（Lee JM, Shin D, Lee SH, et al. Differential predictability for high-risk plaque characteristics between fractional flow reserve and instantaneous wave-free ratio. Sci Rep. 2023、PMID 37749337、CC BY）も FFR ≤0.80・iFR ≤0.89 をカットオフとして用いる。数値の照合：カットオフ値（FFR 0.80・iFR 0.89）は候補と一致。留保：CVIT-DEFER 研究の数値（FFR 測定で39%の患者の治療方針が変わり、PCI が22%減った）は日本の研究固有で再掲がなく、その部分を留保して B
   uncertainty: CVIT-DEFER の数値はガイドラインが引用した研究による（二次資料経由）。
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-030 (id: JlAKpgE)；TBL-02-05-031 (id: JlAKpgI)'
@@ -74,6 +77,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅷ-9-B-⑤ を足した（医学各論 Ⅴ-5-A-①（労作性狭心症、a） → 医学各論 Ⅴ-5-A-①（労作性狭心症、a）；医学各論 Ⅷ-9-B-⑤（冠動脈疾患、b））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-003
   domain: IH
   subdomain: 労作性狭心症
@@ -94,7 +100,7 @@
     source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Hirsch A, Baur LHB, Damman P, et al. 2024 European Society of Cardiology guidelines for the management of chronic coronary syndromes: Statement of endorsement from the Netherlands Society of Cardiology. Neth Heart J. 2026（CC BY、PMID 42429920、DOI 10.1007/s12471-026-02059-1、PMC13376111、新規 SRC 候補）。裏づける部分：2024年 ESC 慢性冠症候群ガイドラインの推奨として、至適薬物治療でも難治性の症状がある患者では血行再建の主目的は狭心症症状の緩和であること、選択されたサブグループでは予後改善もありうること、非侵襲的検査で高リスクの解剖・広範な虚血が示される場合は血行再建の検討対象となること、血行再建の戦略は共同意思決定に基づくべきことが明記される。数値の照合：数値なし（該当なし）。留保：左主幹部病変を心血管イベント減少のための適応として特定する推奨と、JCS のクラス・レベルの割当ては候補に再掲がなく、その部分を留保して B'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-031 (id: JlAKpgI)'
@@ -112,6 +118,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅷ-9-B-⑤ を足した（医学各論 Ⅴ-5-A-①（労作性狭心症、a） → 医学各論 Ⅴ-5-A-①（労作性狭心症、a）；医学各論 Ⅷ-9-B-⑤（冠動脈疾患、b））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-004
   domain: IH
   subdomain: 労作性狭心症
@@ -132,7 +141,7 @@
     source_license: 出版社の著作物（Crossref に license 欄なし。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Niemierko J, Nicol E, Weir-McCall JR. The role of cardiac imaging in the post-ISCHEMIA world. Br J Radiol. 2025（CC BY、PMID 40272895、DOI 10.1093/bjr/tqaf085、PMC12199363、新規 SRC 候補）。裏づける部分：主候補の総説に、主要評価項目（全死亡と非致死性心筋梗塞の複合）と累積イベント率 19.0%（PCI群）対 18.5%（至適薬物治療群）が明記される。補助候補（Bi L, Geng Y, Wang Y, et al. An updated meta-analysis of optimal medical therapy with or without invasive therapy in patients with stable coronary artery disease. BMC Cardiovasc Disord. 2024、PMID 38961354、CC BY）の表に、COURAGE の症例数 2,287人（PCI 1,149／薬物治療 1,138）、追跡 4.6年、主要評価項目の定義が明記される。数値の照合：イベント率 19.0%・18.5%、症例数 2,287人、追跡の中央値 4.6年はカードと一致（抄録でも全数値の一致を確認）。ハザード比 1.05 は自由な全文に再掲がなかった。留保：ハザード比 1.05 が候補のいずれにも明記されないため A とせず B。ClinicalTrials.gov の COURAGE 登録（NCT00007657）には結果が未掲載（hasResults=false）で、登録では裏づけられない
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-031 (id: JlAKpgI)'
@@ -147,6 +156,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-005
   domain: IH
   subdomain: 労作性狭心症
@@ -158,16 +170,16 @@
     differential: null
     common_misconception: 中等度以上の虚血があれば早期の血行再建で死亡が減る
   provenance:
-    source_ref: SRC-204
-    source: Maron DJ, Hochman JS, Reynolds HR, et al. Initial Invasive or Conservative Strategy for Stable Coronary Disease (ISCHEMIA). N Engl J Med 2020;382:1395-1407
-    doi: 10.1056/NEJMoa1915922
-    pmid: '32227755'
+    source_ref: SRC-5011
+    source: ClinicalTrials.gov NCT01471522（ISCHEMIA）登録・結果レコード
+    doi: null
+    pmid: null
     pmcid: null
-    url: https://doi.org/10.1056/NEJMoa1915922
-    source_license: NEJM の利用規約（Crossref の license 欄。CC の表示なし）
+    url: https://clinicaltrials.gov/study/NCT01471522
+    source_license: 米国連邦政府の著作物
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: GOV_US
+    corroboration: 元の主出典：SRC-204（Maron DJ, Hochman JS, Reynolds HR, et al. Initial Invasive or Conservative Strategy for Stable Coronary Disease (ISCHEMIA). N Engl J Med 2020;382:1395-1407）
   uncertainty: 結果は心筋梗塞の定義によって変わった。
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-031 (id: JlAKpgI)'
@@ -182,6 +194,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-204 から自由に使える資料 SRC-5011 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：5,179人の無作為化、適格条件（少なくとも中等度の虚血）、主要複合の累積率（6か月 5.3%対3.4%、5年 16.4%対18.2%）、追跡中央値3.2年が登録の結果と一致。5年の群間差の信頼区間は登録 −4.7〜1.0、論文 −3.7〜0.2（両値記録）（作り手の調査バッチ41））。三原の承認（2026-11-11）による
 - id: IH-006
   domain: IH
   subdomain: 冠攣縮性狭心症
@@ -202,7 +217,7 @@
     source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Caffè A, Animati F, Montone RA. Acetylcholine Provocation Testing for Coronary Vasomotor Disorders. Rev Cardiovasc Med. 2026（CC BY、PMID 42859711、DOI 10.31083/rcm52151、PMC13653156、新規 SRC 候補）。裏づける部分：COVADIS 診断基準の表が全文に再掲され、硝酸薬反応性狭心症の要素として、安静時（特に夜間から早朝）の発作、運動耐容能の著明な日内変動（早朝の低下）、過換気による誘発、カルシウム拮抗薬で抑えられβ遮断薬で抑えられないことが挙げられ、カードの挙げる要素とほぼ一致する。数値の照合：数値なし（該当なし）。留保：枠組みが異なる（COVADIS は硝酸薬反応性の特徴に加えて、発作時の虚血性心電図変化か造影上の攣縮を要する。カードの Yasue 基準はニトログリセリンでの速やかな消失＋特徴のいずれか1つ）。「発作時のST上昇」は COVADIS の表では虚血性心電図変化（ST上昇 ≥0.1 mV を含む）として含まれる。JCS 基準そのものの再掲ではないため B
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-161 (id: JlvnlsE)'
@@ -217,6 +232,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-007
   domain: IH
   subdomain: 冠攣縮性狭心症
@@ -237,7 +255,7 @@
     source_license: CC BY-NC-ND 4.0（J-STAGE 掲載ページの表示。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Caffè A, Animati F, Montone RA. Acetylcholine Provocation Testing for Coronary Vasomotor Disorders. Rev Cardiovasc Med. 2026（CC BY、PMID 42859711、DOI 10.31083/rcm52151、PMC13653156、新規 SRC 候補）。裏づける部分：誘発試験の陽性所見として、典型的な胸痛の再現、虚血性心電図変化、冠動脈の ≥90% の攣縮性収縮（ニトログリセリン投与後の参照状態との比較）がそろうことが明記され、心外膜攣縮の定義表でも「>90% の心外膜血管収縮；狭心症；心電図変化」とされる。数値の照合：90% という閾値はカードと一致。留保：「連続する2つ以上の区域に90%のびまん性の収縮」という JCS の細部は候補に明示がなく、その部分を留保して B
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-161 (id: JlvnlsE)；TBL-02-05-029 (id: JlAKpgA)'
@@ -252,6 +270,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-008
   domain: IH
   subdomain: 冠攣縮性狭心症
@@ -272,7 +293,7 @@
     source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：El Khatib O, Al Azzoni A, Shantouf R, Atallah B. Functional coronary vascular disease: endotype-based classification, diagnosis, and targeted management. Front Cardiovasc Med. 2026（CC BY、PMID 42548607、DOI 10.3389/fcvm.2026.1811419、PMC13429502、新規 SRC 候補）。裏づける部分：主候補の総説に、心外膜の冠攣縮性狭心症ではカルシウム拮抗薬が発作予防の第一選択であること、β遮断薬は攣縮を悪化させうるため冠攣縮性狭心症では一般に避けることが明記される。補助候補（Caffè ら、Rev Cardiovasc Med 2026、CC BY）にも、β遮断薬は攣縮の存在下では有害でありうること、日本人のコホートで冠攣縮の頻度が高いことが述べられる。数値の照合：「日本人では欧米人の約3倍」という数値は自由な全文に再掲がなかった（定性的な頻度の高さのみ）。留保：JCS 2018 のクラスI（レベルB）・クラスIII（有害）という割当てと、長時間作用型という指定、約3倍の数値は候補になく、その部分を留保して B'
   uncertainty: 約3倍の値はガイドラインが引用した研究による（二次資料経由）。
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-161 (id: JlvnlsE)'
@@ -287,6 +308,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-009
   domain: IH
   subdomain: 急性冠症候群
@@ -307,7 +331,7 @@
     source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Stolic S, George S, Mbuzi V, et al. Barriers to the Implementation of Acute Coronary Syndrome Guidelines in Healthcare: A Systematic Review. Rev Cardiovasc Med. 2026（CC BY、PMID 42110169、DOI 10.31083/rcm46736、PMC13155982、新規 SRC 候補）。裏づける部分：主候補の系統的レビューに、ガイドライン上すべての胸痛患者に来院後10分以内に心電図を記録することが推奨される旨が明記される。トロポニンについては、第5版の心筋梗塞の普遍的定義（Mills NL, Newby LK, Zaman S, et al. Fifth Universal Definition of Myocardial Infarction (2026). Glob Heart. 2026、PMID 42666939、DOI 10.5334/gh.1578、CC BY）が、心トロポニン I・T が心筋梗塞診断の優先バイオマーカーであること、高感度でないトロポニンでも特異度・感度の劣る CK-MB より優先されることを明記する。数値の照合：10分という時間は候補と一致。留保：ミオグロビンへの言及と、「トロポニンが測れる場合は CK-MB・ミオグロビンを診断に使うな（III・無益）」という推奨の形、クラス・レベルの割当ては候補に再掲がなく、その部分を留保して B'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-163 (id: JlvnlsQ)；TBL-02-05-026 (id: JlAKpf0)；TBL-02-05-021 (id: JlAKpfI)'
@@ -322,6 +346,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-010
   domain: IH
   subdomain: 急性冠症候群
@@ -342,7 +369,7 @@
     source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Stolic S, George S, Mbuzi V, et al. Barriers to the Implementation of Acute Coronary Syndrome Guidelines in Healthcare: A Systematic Review. Rev Cardiovasc Med. 2026（CC BY、PMID 42110169、DOI 10.31083/rcm46736、PMC13155982、新規 SRC 候補）。裏づける部分：主候補の系統的レビューに、STEMI のプライマリーPCI は来院後90分以内、転送が120分以内に達成できない場合は線溶療法が推奨されること、線溶の door-to-needle は30分未満を保つことが AHA の推奨として明記される。補助候補（Kwok CS, Potluri R, Sarma J, et al. Pathways of Care for Patients Who Undergo Primary Percutaneous Coronary Intervention for STEMI. Rev Cardiovasc Med. 2026、PMID 41923721、CC BY）には、症状発症から再灌流までの理想は120分未満であること、初回医療接触からデバイスまで直接搬送90分以内・転送120分以内という目標が明記される。数値の照合：120分・90分・30分の数値群は候補と概ね一致するが、起点の定義が異なる（カードは発症・初回医療接触を起点とし、候補は来院起点の記述が中心）。留保：再灌流のできない施設での到着から転送まで（door-in-door-out）30分という目標は候補に再掲がなく、その部分を留保して B'
   uncertainty: 日本のCREDO-Kyoto AMIレジストリでは、door-to-balloon 90分未満と以上で長期予後に差がなかったと引用されている。
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-02-05-031 (id: JlAKpgI)'
@@ -357,6 +384,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-011
   domain: IH
   subdomain: 急性冠症候群
@@ -377,7 +407,7 @@
     source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Stolic S, George S, Mbuzi V, et al. Barriers to the Implementation of Acute Coronary Syndrome Guidelines in Healthcare: A Systematic Review. Rev Cardiovasc Med. 2026（CC BY、PMID 42110169、DOI 10.31083/rcm46736、PMC13155982、新規 SRC 候補）。裏づける部分：線溶療法はカテーテル施設が使えない場合や患者の転送が120分以内に達成できない場合に推奨されること、プライマリーPCI は来院後90分以内という枠組みが、AHA の推奨として明記される。数値の照合：120分・90分は候補と一致。留保：発症12時間以内という適応の時間枠、発症3時間以内で PCI までの遅れが1時間を超える場合に線溶療法を考慮するという発症起点の規則、ST 上昇のない患者への線溶療法の禁止は、候補に明示がなく、その部分を留保して B'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-02-05-031 (id: JlAKpgI)'
@@ -392,6 +422,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-012
   domain: IH
   subdomain: 急性冠症候群
@@ -412,7 +445,7 @@
     source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Komaki S, Matsuura Y, Tanaka H, et al. Nitroglycerin use and adverse clinical outcomes in elderly patients with acute coronary syndrome. Open Heart. 2024（CC BY、PMID 38216173、DOI 10.1136/openhrt-2023-002494、PMC10806511、新規 SRC 候補）。裏づける部分：ACC/AHA の推奨として、硝酸薬は著明な低血圧・徐脈・合併した右室梗塞などの禁忌がない限り、ACS の初期治療に投与することが明記される。数値の照合：収縮期血圧90 mmHg未満（または基礎値から30 mmHg以上の低下）、心拍数50/分未満・100/分超という数値の閾値は候補に明示がない。留保：勃起不全治療薬の服用後24時間以内という禁忌も候補になく、その部分を留保して B。禁忌の骨格（右室梗塞・低血圧・徐脈）は裏づけられる
   uncertainty: 勃起不全治療薬の種類による違い（タダラフィルなど）は本カードでは扱っていない。
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-01-00-157 (id: Jlvnlro)'
@@ -427,6 +460,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-013
   domain: IH
   subdomain: 急性冠症候群
@@ -447,7 +483,7 @@
     source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Alsagaff MY, Amalia R, Dharmadjati BB, Appelman Y. Isolated posterior ST-elevation myocardial infarction: the necessity of routine 15-lead electrocardiography: a case series. J Med Case Rep. 2022（CC BY、PMID 36030271、DOI 10.1186/s13256-022-03570-w、PMC9420295、新規 SRC 候補）。裏づける部分：後壁梗塞については主候補の症例集に、ESC 2017 ガイドラインの基準として「背部誘導 V7–V9 で 0.5 mm を超える ST 上昇」が明記される。右室梗塞については補助候補（Vallapuri GS, Jariwala PV, Gude D, et al. Non-diagnostic 12-Lead Electrocardiogram (ECG) in an Acute Proximal-to-Mid Right Coronary Artery Occlusion. Cureus. 2025、PMID 41357001、CC BY）の表に「V4R ≥1 mm」が右冠動脈近位部病変・右室関与の指標として整理され、右室梗塞が疑われる場合は右側誘導（特に V4R）の記録が推奨されることが述べられる。数値の照合：V7–V9 の 0.5 mm、V4R の 1 mm はカードと一致。留保：後壁梗塞の「連続する2誘導以上」という条件は候補に明示がなく、その部分を留保して B'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-163 (id: JlvnlsQ)；TBL-02-05-026 (id: JlAKpf0)'
@@ -462,6 +498,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-014
   domain: IH
   subdomain: 急性冠症候群
@@ -482,7 +521,7 @@
     source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Maqsood MH, Levine GN, Kleiman ND, et al. Do We Still Need Aspirin in Coronary Artery Disease? J Clin Med. 2023（CC BY、PMID 38137601、DOI 10.3390/jcm12247534、PMC10743767、新規 SRC 候補）。裏づける部分：アスピリン負荷 162〜325 mg がクラス1の推奨であること、非腸溶性の咀嚼用アスピリンをできるだけ早く投与すること、維持量を無期限に続けることが、ACC/AHA・ESC ガイドラインの整理として明記される。数値の照合：プライマリーPCI 前の負荷量 162〜325 mg はカードと一致。維持量はカード「81〜162 mg/日」に対し、候補が引用する米国の表は「81〜325 mg/日を無期限」で範囲が異なる（両値を記録）。留保：強い疑いでの初回量は日本用量（162〜200 mg を咀嚼）で、候補の米国用量（162〜325 mg）とは範囲が異なる。日本の用量設定そのものは候補になく、その部分を留保して B
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)'
@@ -497,6 +536,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-015
   domain: IH
   subdomain: 急性冠症候群
@@ -587,7 +629,7 @@
     source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：He M, Magdy J, Aziz M, et al. Redefining Dual Antiplatelet Strategies After Acute Coronary Syndrome: Insights from Recent RCTs. J Clin Med. 2026（CC BY、PMID 41976776、DOI 10.3390/jcm15072472、PMC13073491、新規 SRC 候補）。裏づける部分：ガイドラインが 1〜3か月で P2Y12 阻害薬単剤への早期移行を支持していること、高出血リスクでは短期間の DAPT が許容され STOPDAPT-2 等がその根拠とされることが明記される。数値の照合：1〜3か月という短縮の幅は、カードの高出血リスクでの短縮区分と一致。留保：JCS の正確な区分（ACS で 3〜12か月、出血高リスクで 1〜3か月へ短縮、安定冠動脈疾患で 1〜3か月、いずれもクラスI・レベルA）は候補にその形では再掲がなく、その部分を留保して B'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-02-05-031 (id: JlAKpgI)'
@@ -602,6 +644,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-018
   domain: IH
   subdomain: 急性冠症候群
@@ -657,7 +702,7 @@
     source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Kamble A, Revunuru NR, Rangachari B, et al. Assessment of the Effectiveness of Early Versus Delayed Invasive Strategies in Non-ST Elevation Myocardial Infarction (NSTEMI): A Systematic Review and Meta-Analysis. Cureus. 2026（CC BY、PMID 42333325、DOI 10.7759/cureus.109425、PMC13283347、新規 SRC 候補）。裏づける部分：系統的レビュー・メタ解析で、NSTE-ACS の侵襲的戦略のタイミングはベースラインのリスクで決めるべきこと、早期侵襲的戦略が遅延・保存的・選択的侵襲的戦略より死亡と心筋梗塞の減少で優れていたこと、非常に高リスクではより即時の介入が検討されることが明記される。数値の照合：数値なし（該当なし）。留保：中等度から高リスクの患者を PCI のできない施設からただちに転送するという運用と、JCS のクラス・レベルの割当ては候補になく、その部分を留保して B'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-162 (id: JlvnlsI)；TBL-01-00-163 (id: JlvnlsQ)'
@@ -672,6 +717,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-020
   domain: IH
   subdomain: 陳旧性心筋梗塞
@@ -692,7 +740,7 @@
     source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Raffo C, Giacoppo D, Capodanno D, Greco A. Antithrombotic Therapy in Patients with Atrial Fibrillation Undergoing Percutaneous Coronary Intervention. J Clin Med. 2026（CC BY、PMID 42796070、DOI 10.3390/jcm15187298、PMC13607496、新規 SRC 候補）。裏づける部分：欧州と北米の現在の方針として、周術期の短い3剤併用から、DOAC とクロピドグレル（P2Y12阻害薬）の2剤併用を経て、経口抗凝固薬単剤へ移行する流れがそろっていることが明記される。数値の照合：数値なし（該当なし）。留保：JCS の具体的な期間（周術期は2週間以内、ステント留置から1年を超えたら抗凝固薬単剤）と、非弁膜症性心房細動で DOAC をワルファリンより選ぶという推奨の形は、候補にその形では再掲がなく、その部分を留保して B。推奨の根拠がリバーロキサバンのデータである点は IH-021 の裏づけと整合する
   uncertainty: 抗凝固薬単剤の推奨の根拠はリバーロキサバンのデータである。
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-01-00-166 (id: Jlvnlsg)'
@@ -707,6 +755,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-021
   domain: IH
   subdomain: 陳旧性心筋梗塞
@@ -718,16 +769,16 @@
     differential: null
     common_misconception: 安定冠動脈疾患を伴う心房細動には抗凝固薬と抗血小板薬の併用を続ける
   provenance:
-    source_ref: SRC-210
-    source: Yasuda S, Kaikita K, Akao M, et al. Antithrombotic Therapy for Atrial Fibrillation with Stable Coronary Disease (AFIRE). N Engl J Med 2019;381:1103-1113
-    doi: 10.1056/NEJMoa1904143
-    pmid: '31475793'
-    pmcid: null
-    url: https://doi.org/10.1056/NEJMoa1904143
-    source_license: NEJM の利用規約（Crossref の license 欄。CC の表示なし）
+    source_ref: SRC-5012
+    source: Raffo C, Giacoppo D, Capodanno D, Greco A. Antithrombotic Therapy in Patients with Atrial Fibrillation Undergoing Percutaneous Coronary Intervention. J Clin Med. 2026
+    doi: 10.3390/jcm15187298
+    pmid: '42796070'
+    pmcid: PMC13607496
+    url: https://europepmc.org/article/MED/42796070
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-210（Yasuda S, Kaikita K, Akao M, et al. Antithrombotic Therapy for Atrial Fibrillation with Stable Coronary Disease (AFIRE). N Engl J Med 2019;381:1103-1113）
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-01-00-166 (id: Jlvnlsg)'
@@ -742,6 +793,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-210 から自由に使える資料 SRC-5012 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：AFIRE の対象・2,236人・有効性 4.14%対5.75%（HR 0.72）・大出血 1.62%対2.76%（HR 0.59）・死亡増加による早期終了が CC BY の全文に明記され、主張全体と一致（作り手の調査バッチ41））。三原の承認（2026-11-11）による
 - id: IH-022
   domain: IH
   subdomain: 陳旧性心筋梗塞
@@ -797,7 +851,7 @@
     source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Žižek D, Mrak M, Mežnar AZ, et al. Cardiac implantable electronic devices in heart failure: needs, challenges, and real-world implementation. Heart Fail Rev. 2026（CC BY、PMID 42678627、DOI 10.1007/s10741-026-10672-w、PMC13534176、新規 SRC 候補）。裏づける部分：主候補の総説に、二次予防の ICD は、可逆的な原因のない持続性の血行動態的に重大な心室性不整脈や心停止の生存者に適応があることが明記される。補助候補（Kakavand N, Shojaei Y, Sadri M, et al. A Narrative Review of Risk Assessment Approaches for Implantable Defibrillator Therapy to Prevent Sudden Cardiac Death. Cardiol Res Pract. 2026、PMID 42306070、CC BY）には、ガイドラインが心筋梗塞後40日までは ICD 植込みを遅らせることが明記される。数値の照合：40日という期間は候補と一致。留保：「発症48時間を過ぎて起きた」という区切りと、非持続性心室頻拍の患者は至適薬物治療のもとで発症40日以降に適応を見直すという運用の形は、候補に明示がなく、その部分を留保して B'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-01-00-171 (id: JlvnltA)；TBL-02-05-032 (id: JlAKpgM)'
@@ -812,6 +866,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-024
   domain: IH
   subdomain: 無痛性虚血性心疾患
@@ -832,7 +889,7 @@
     source_license: 出版社（AMA）の著作物（Crossref に license 欄なし。PMC は著者稿）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Romero Martínez V, Tobón Cuenca J, Longas García P, et al. Screening Strategies for Silent Myocardial Ischemia in Individuals With Diabetes Without Known Coronary Artery Disease: Systematic Review and Meta-Analysis. Clin Cardiol. 2026（CC BY、PMID 42831381、DOI 10.1002/clc.70470、PMC13635979、新規 SRC 候補）。裏づける部分：系統的レビュー・メタ解析の表と本文に、DIAD（2009、米国・カナダ）は症状のない2型糖尿病 1,123 人をアデノシン負荷心筋シンチグラフィによるスクリーニング群と非スクリーニング群に無作為化した試験であること、心臓死・非致死性心筋梗塞は 4.8 年で 2.7%（15人）対 3.0%（17人）、ハザード比 0.88 であったことが明記される。数値の照合：症例数 1,123、追跡 4.8年、2.7% 対 3.0%、ハザード比 0.88 はカードと一致。留保：中等度以上の欠損があった場合の陽性的中率 12% は候補に再掲がなく、その部分を留保して B。ClinicalTrials.gov の DIAD 登録（NCT00769275）には結果が未掲載'
   uncertainty: differential は本出典の結論ではない一般的な背景である。
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-028 (id: JlAKpf8)'
@@ -847,6 +904,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-025
   domain: IH
   subdomain: 心臓性突然死
@@ -902,7 +962,7 @@
     source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Musolino A, Marchesi A, Antonelli G, et al. Long-Term Coronary Outcomes and Follow-Up After Kawasaki Disease: Insights from a 25-Year Follow-Up Cohort. J Clin Med. 2026（CC BY、PMID 42652559、DOI 10.3390/jcm15166155、PMC13513250、新規 SRC 候補）。裏づける部分：主候補のコホート研究に AHA 分類として、Z スコア ≥2.5〜<5 を小動脈瘤、≥5〜<10 を中等瘤、≥10 または実測値 ≥8 mm を巨大瘤とする分類が明記され、カードの閾値と一致する。補助候補（Pastor-Villaescusa B, Mandilaras G, Weißer J, et al. Diagnosis of Coronary Artery Aneurysm in a Caucasian Population Cohort: Evaluating the Agreement Between Japanese Criteria. J Clin Med. 2025、PMID 41010782、CC BY）は日本の基準における Z スコア分類（小動脈瘤 2.5〜<5、中等瘤 5〜<10、大動脈瘤は Z ≥10 または実測値 ≥8 mm）を併記する。数値の照合：Z スコアの閾値（2.5・5・10）と実測値 8 mm はカードと一致。留保：「急性期（発症30日未満）」という時期の区切りと、5歳以上では Z スコアによる判定を優先するという運用は JCS/JSCS 固有で、候補にその形では再掲がなく、その部分を留保して B'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；PS-02-06-05 (id: JkxnuQw)；TBL-02-05-027 (id: JlAKpf4)；TBL-01-00-573 (id: JlvnmW0)'
@@ -920,6 +980,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: curriculum.core_curriculum に TBL-01-00-573（免疫・アレルギー／血管炎症候群：川崎病、基本●）を追加（監修者の承認による）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-027
   domain: IH
   subdomain: 川崎病
@@ -940,7 +1003,7 @@
     source_license: © 日本循環器学会（J-STAGE 掲載ページの表示。CC の表示なし。Crossref に license 欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Buda P, Friedman-Gruszczyńska J, Książyk J. Anti-inflammatory Treatment of Kawasaki Disease: Comparison of Current Guidelines and Perspectives. Front Med. 2021（CC BY、PMID 34917629、DOI 10.3389/fmed.2021.738850、PMC8669475、新規 SRC 候補）。裏づける部分：各国ガイドラインの比較表に、アスピリン 30〜50 mg/kg/日を解熱後48時間・臨床所見の改善・CRP 低下まで投与し、その後抗血小板量として 3〜5 mg/kg/日に切り替える用法が明記され、カードの用量部分と一致する。数値の照合：急性期 30〜50 mg/kg/日、減量後 3〜5 mg/kg/日はカードと一致。留保：発症後2〜3か月続けるという期間、冠動脈瘤が残る場合の低用量アスピリンの継続、巨大瘤・心筋梗塞既往・瘤内血栓がある場合のワルファリン併用（PT-INR 2.0〜2.5）は候補に再掲がなく、その部分を留保して B'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)；TBL-01-00-573 (id: JlvnmW0)'
@@ -958,6 +1021,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: curriculum.core_curriculum に TBL-01-00-573（免疫・アレルギー／血管炎症候群：川崎病、基本●）を追加（監修者の承認による）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-028
   domain: IH
   subdomain: 川崎病
@@ -978,7 +1044,7 @@
     source_license: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Johnson EJ, Moser JD, Buehrer BS, Ngo K, Raina R. Potential alternatives in treatment of Kawasaki disease to reduce the extremely rare risk of Reye syndrome. Front Pediatr. 2026（CC BY、PMID 42775024、DOI 10.3389/fped.2026.1856121、PMC13595104、新規 SRC 候補）。裏づける部分：総説に、RAISE 試験は日本の川崎病患者 248 人（対照123人・治療125人）を対象とし、免疫グロブリン 2 g/kg とアスピリンにプレドニゾロン 2 mg/kg/日を加えた群で冠動脈病変が 4 人、対照群で 28 人であったことが明記される（4/125 ≒ 3%、28/123 ≒ 23% で、カードの割合と一致する）。数値の照合：症例数 248、プレドニゾロン 2 mg/kg/日、冠動脈病変 4人 対 28人（割合として 3% 対 23%）はカードと一致。留保：もう一つの候補だったステロイドの系統的レビュー・メタ解析（Ali NMT, et al. Cardiology Research. 2026、PMC13719651）も 3% 対 23% を再掲していたが、Europe PMC が cc by と表示する一方で Crossref の version-of-record が CC BY-NC 4.0 で、両経路が食い違うため採用しなかった（重要な発見に記録）
   uncertainty: 重症（不応予測）の判定基準は抄録に詳しい記載がない。
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)；TBL-01-00-573 (id: JlvnmW0)'
@@ -996,6 +1062,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: curriculum.core_curriculum に TBL-01-00-573（免疫・アレルギー／血管炎症候群：川崎病、基本●）を追加（監修者の承認による）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-029
   domain: IH
   subdomain: 川崎病
@@ -1016,7 +1085,7 @@
     source_license: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ41 2026-11-11）：Murayama Y, Hamada H, Shiko Y, et al. Risk factors for coronary artery abnormalities and resistance to immunoglobulin plus ciclosporin A therapy in severe Kawasaki disease: subanalysis of the KAICA trial. Front Pediatr. 2023（CC BY、PMID 38161433、DOI 10.3389/fped.2023.1321533、PMC10755003、新規 SRC 候補）。裏づける部分：KAICA 試験のサブ解析（試験実施グループの論文）に、群馬スコア ≥5 で免疫グロブリン不応が予測される患者を対象とし、免疫グロブリン（2 g/kg/24時間）にシクロスポリン 5 mg/kg/日を5日間加えた群で冠動脈病変が 14%、従来の免疫グロブリン治療では 31% であったことが明記される。数値の照合：シクロスポリン 5 mg/kg/日・5日間、冠動脈病変 14% 対 31% はカードと一致。留保：対象総数 175 人、リスク比 0.46、有害事象に差がなかったことは候補に明示がなく、その部分を留保して B。KAICA は日本の試験登録（JMA-ILA00174）で、ClinicalTrials.gov には登録がない'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；PS-02-06-05 (id: JkxnuQw)；TBL-01-00-573 (id: JlvnmW0)'
@@ -1034,6 +1103,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: curriculum.core_curriculum に TBL-01-00-573（免疫・アレルギー／血管炎症候群：川崎病、基本●）を追加（監修者の承認による）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ41 2026-11-11）。三原の承認（2026-11-11）による
 - id: IH-030
   domain: IH
   subdomain: 川崎病

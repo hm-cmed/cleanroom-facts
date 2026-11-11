@@ -95,3 +95,4 @@
 - バッチ37（TH）を反映：置き換え1（TH-029 を CC BY 総説に）、裏づけ17（NCI PDQ 5、副甲状腺の欧州コンセンサス 4、NIH ODS 2、USPSTF 2、CC BY 4）（2026-11-11）。作り手の報告の出典の説明がマスターとずれていたため、PMCID 補完は --online で書誌を照合してから行う。骨粗鬆症 GL 2025・ATA 甲状腺癌 GL 2025 を content_review に追記。
 - バッチ38（HF）・39（MP）を反映：置き換え1（MP-034 を ClinicalTrials.gov STICH に）、裏づけ29（HF 10・MP 19）、区分の訂正3（SRC-254 を OPEN、SRC-243〔PMDA 審査報告書〕を GOV_JP、SRC-253 を RESTRICTED に明確化）（2026-11-11）。HF の11月8日の記録のうち StatPearls（HF-010・012）と結果未掲載の登録（HF-019・022）は参考扱いに改め、HF-014・018 は添付文書に頼った部分を数えない旨を追記。
 - バッチ40（XS）を反映：置き換え1（XS-031 を CC BY の GLIM 総説に）、裏づけ16、区分の明確化2（SRC-167・169 を RESTRICTED）（2026-11-11）。抗血栓薬と内視鏡（XS-016〜021）は全件見つからず。GLIM 5年アップデート（CC BY）を content_review に追記。
+- バッチ41（IH）を反映：置き換え2（IH-005 を ClinicalTrials.gov ISCHEMIA に、IH-021 を CC BY 総説に）、裏づけ22（2026-11-11）。2025 ACC/AHA ACS ガイドライン、AHA 川崎病 2024、MI 普遍的定義 第5版を content_review に追記。

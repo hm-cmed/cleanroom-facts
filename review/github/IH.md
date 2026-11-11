@@ -54,11 +54,11 @@
 - 条件：region: 国際／study: ISCHEMIA
 - よくある誤解：中等度以上の虚血があれば早期の血行再建で死亡が減る
 - 不確実性：結果は心筋梗塞の定義によって変わった。
-- 出典：Maron DJ, Hochman JS, Reynolds HR, et al. Initial Invasive or Conservative Strategy for Stable Coronary Disease (ISCHEMIA). N Engl J Med 2020;382:1395-1407　[DOI 10.1056/NEJMoa1915922](https://doi.org/10.1056/NEJMoa1915922)　[PMID 32227755](https://pubmed.ncbi.nlm.nih.gov/32227755/)（区分 RESTRICTED）
+- 出典：ClinicalTrials.gov NCT01471522（ISCHEMIA）登録・結果レコード　[リンク](https://clinicaltrials.gov/study/NCT01471522)（区分 GOV_US）
 - 出題基準：医学各論 Ⅴ-5-A-①（労作性狭心症、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-160 (id: Jlvnlr8)；TBL-02-05-031 (id: JlAKpgI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-005&card_id=IH-005&version=daab568333)　（版 `daab568333`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-005&card_id=IH-005&version=9980c9a4ad)　（版 `9980c9a4ad`）
 
-**[ここまでの 5 件（IH-001〜IH-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IH-001%E3%80%9CIH-005&cards=IH-001%208c9a645c3e%0AIH-002%2024f8b40f5a%0AIH-003%20775d5ba82e%0AIH-004%203721159a1f%0AIH-005%20daab568333)**
+**[ここまでの 5 件（IH-001〜IH-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IH-001%E3%80%9CIH-005&cards=IH-001%208c9a645c3e%0AIH-002%2024f8b40f5a%0AIH-003%20775d5ba82e%0AIH-004%203721159a1f%0AIH-005%209980c9a4ad)**
 
 ---
 
@@ -245,9 +245,9 @@
 
 - 条件：region: 日本／study: AFIRE
 - よくある誤解：安定冠動脈疾患を伴う心房細動には抗凝固薬と抗血小板薬の併用を続ける
-- 出典：Yasuda S, Kaikita K, Akao M, et al. Antithrombotic Therapy for Atrial Fibrillation with Stable Coronary Disease (AFIRE). N Engl J Med 2019;381:1103-1113　[DOI 10.1056/NEJMoa1904143](https://doi.org/10.1056/NEJMoa1904143)　[PMID 31475793](https://pubmed.ncbi.nlm.nih.gov/31475793/)（区分 RESTRICTED）
+- 出典：Raffo C, Giacoppo D, Capodanno D, Greco A. Antithrombotic Therapy in Patients with Atrial Fibrillation Undergoing Percutaneous Coronary Intervention. J Clin Med. 2026　[DOI 10.3390/jcm15187298](https://doi.org/10.3390/jcm15187298)　[PMID 42796070](https://pubmed.ncbi.nlm.nih.gov/42796070/)（区分 OPEN）
 - 出題基準：医学各論 Ⅴ-5-C（陳旧性心筋梗塞、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)；TBL-01-00-166 (id: Jlvnlsg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-021&card_id=IH-021&version=3b800c3d6f)　（版 `3b800c3d6f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-021&card_id=IH-021&version=e82ebd3977)　（版 `e82ebd3977`）
 
 ### IH-022　下書き（出典の照合前）
 
@@ -260,7 +260,7 @@
 - 出題基準：医学各論 Ⅴ-5-C（陳旧性心筋梗塞、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-022&card_id=IH-022&version=91d290a189)　（版 `91d290a189`）
 
-**[ここまでの 3 件（IH-020〜IH-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IH-020%E3%80%9CIH-022&cards=IH-020%207807d3c660%0AIH-021%203b800c3d6f%0AIH-022%2091d290a189)**
+**[ここまでの 3 件（IH-020〜IH-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IH-020%E3%80%9CIH-022&cards=IH-020%207807d3c660%0AIH-021%20e82ebd3977%0AIH-022%2091d290a189)**
 
 ---
 
