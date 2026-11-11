@@ -1,0 +1,101 @@
+{
+ "A": [
+  {
+   "card": "XS-031",
+   "class": "OPEN",
+   "title": "Chaves Santos B, Limon-Miro AT, Tandon P, Correia MITD, Prado CM, et al. GLIM criteria for the diagnosis of malnutrition in patients with cirrhosis: A narrative review. J Parenter Enteral Nutr. 2026",
+   "doi": "10.1002/jpen.70095",
+   "pmid": "42057173",
+   "pmcid": "PMC13431929",
+   "url": "https://europepmc.org/article/MED/42057173",
+   "why": "GLIM の2段階の進め方、表現型3基準・病因2基準、少なくとも1つずつで診断することが CC BY の全文に明記され、主張全体と一致（作り手の調査バッチ40。Enge 2024〔CC BY〕も同じ枠組み）"
+  }
+ ],
+ "B": [
+  {
+   "card": "XS-002",
+   "label": "OPEN、作り手の調査バッチ40 2026-11-11",
+   "text": "Antonucci E, Zanichelli I, Rimondi A, et al. Acute Gastrointestinal Bleeding: An Update and a Practical Diagnostic Approach. Diagnostics (Basel). 2026（CC BY、PMID 41897593、DOI 10.3390/diagnostics16060860、PMC13024830、新規 SRC 候補）。裏づける部分と留保：血行動態が不安定でショック指数が陽性なら、出血部位の特定に緊急 CT 血管造影を行う位置づけは一致。ショック指数1超の定義、β遮断薬服用時の注意、「最も速く低侵襲」という表現は載らない"
+  },
+  {
+   "card": "XS-004",
+   "label": "OPEN、作り手の調査バッチ40 2026-11-11",
+   "text": "Mohammadyari F, Aflak A, ZareDini M, et al. Risk stratification and scoring systems in upper and lower gastrointestinal bleeding: review of performance and limitations. Front Med. 2025（CC BY、PMID 40620435、DOI 10.3389/fmed.2025.1564015、PMC12226541、新規 SRC 候補）。裏づける部分と留保：Oakland スコアの構成要素（年齢、性別、入院歴、直腸診の血液、心拍数、収縮期血圧、ヘモグロビン）と8点以下のカットオフは一致。「8点以下で95%が安全に退院」の95%は載らず、総説は感度98.4%という別の枠組みで述べる（両値記録）"
+  },
+  {
+   "card": "XS-006",
+   "label": "OPEN、作り手の調査バッチ40 2026-11-11",
+   "text": "Antonucci E, Zanichelli I, Rimondi A, et al. Acute Gastrointestinal Bleeding: An Update and a Practical Diagnostic Approach. Diagnostics (Basel). 2026（CC BY、PMID 41897593、DOI 10.3390/diagnostics16060860、PMC13024830、新規 SRC 候補）。裏づける部分と留保：24時間以内の早期大腸内視鏡が待機的・後期と比べて死亡・IVR・手術を改善しなかったという整理は、ルーチンの緊急大腸内視鏡を支持しないという骨格と一致。12時間の区切りと「次に空いている検査枠でよい」という運用は載らない"
+  },
+  {
+   "card": "XS-008",
+   "label": "OPEN、作り手の調査バッチ40 2026-11-11",
+   "text": "Antonucci E, Zanichelli I, Rimondi A, et al. Acute Gastrointestinal Bleeding: An Update and a Practical Diagnostic Approach. Diagnostics (Basel). 2026（CC BY、PMID 41897593、DOI 10.3390/diagnostics16060860、PMC13024830、新規 SRC 候補）。裏づける部分と留保：原因の頻度順（憩室症が最多、良性の肛門・直腸疾患、虚血性大腸炎など）の骨格は一致。良性の肛門・直腸疾患16.7%、23%が診断のつかないまま退院という監査の数値は載らない"
+  },
+  {
+   "card": "XS-010",
+   "label": "GOV_US、作り手の調査バッチ40 2026-11-11",
+   "text": "NIH Office of Dietary Supplements「Iron - Health Professional Fact Sheet」（GOV_US、新規 SRC 候補）。裏づける部分と留保：血清フェリチン30 µg/L未満が鉄欠乏を示唆すること、炎症でフェリチンが上がり鉄欠乏でも見かけ上正常になりうることは一致。15 µg/L と BSG の45 µg/L の目安は載らない"
+  },
+  {
+   "card": "XS-011",
+   "label": "OPEN、作り手の調査バッチ40 2026-11-11",
+   "text": "Iqbal H. Diagnostic Yield After Negative Bidirectional Endoscopy for Iron Deficiency Anaemia: A Single-Centre Audit of Downstream Investigations in the UK Two-Week-Wait Pathway. Cureus. 2026（CC BY、PMID 42367528、DOI 10.7759/cureus.109740、PMC13308496、新規 SRC 候補）。裏づける部分と留保：新たに IDA と診断された成人男性と閉経後女性では両方向内視鏡が最初の標準検査で、代替として CT コロノグラフィーが認められることは一致。癌8〜10%、約3分の1に意味のある病変という頻度は載らない"
+  },
+  {
+   "card": "XS-014",
+   "label": "OPEN、作り手の調査バッチ40 2026-11-11",
+   "text": "Iqbal H. Diagnostic Yield After Negative Bidirectional Endoscopy for Iron Deficiency Anaemia: A Single-Centre Audit of Downstream Investigations in the UK Two-Week-Wait Pathway. Cureus. 2026（CC BY、PMID 42367528、DOI 10.7759/cureus.109740、PMC13308496、新規 SRC 候補）。裏づける部分と留保：上下部内視鏡で原因が見つからない IDA で、カプセル内視鏡や CT・MR エンテログラフィーを検討する枠組みは一致。鉄剤への反応不十分・再発という発動条件と腎・尿路の評価は載らない"
+  },
+  {
+   "card": "XS-015",
+   "label": "OPEN、作り手の調査バッチ40 2026-11-11",
+   "text": "García-Erce JA, García-López S, Martínez-Fancés A. Iron Deficiency and Oral Treatments: Limitations, Pharmacokinetics, and the Role of Iron Protein Succinylate in Clinical Practice. J Clin Med. 2026（CC BY、PMID 42194653、DOI 10.3390/jcm15103691、PMC13208006、新規 SRC 候補）。裏づける部分と留保：第一鉄塩（硫酸鉄・フマル酸鉄・グルコン酸鉄）が中心であること、1日1回投与と隔日投与、空腹時で吸収がよいことは一致。用量はカード元素鉄50〜100 mg、総説40〜80 mg（両値記録）"
+  },
+  {
+   "card": "XS-022",
+   "label": "OPEN、作り手の調査バッチ40 2026-11-11",
+   "text": "Zagari RM, Frazzoni L, Fuccio L, et al. Adherence to ESGE Quality Performance Measures for Upper and Lower Gastrointestinal Endoscopy: A Nationwide Survey From the Italian Society of Digestive Endoscopy. Front Med. 2022（CC BY、PMID 35463020、DOI 10.3389/fmed.2022.868449、PMC9018975、新規 SRC 候補）。裏づける部分と留保：ESGE の下部消化管内視鏡の主要業績指標の枠組み、盲腸到達率90%以上・ADR 25%以上の最低基準は一致。前処置の最低基準90%と目標値95%は載らない"
+  },
+  {
+   "card": "XS-023",
+   "label": "OPEN、作り手の調査バッチ40 2026-11-11",
+   "text": "Zagari RM, Frazzoni L, Fuccio L, et al. Adherence to ESGE Quality Performance Measures for Upper and Lower Gastrointestinal Endoscopy: A Nationwide Survey From the Italian Society of Digestive Endoscopy. Front Med. 2022（CC BY、PMID 35463020、DOI 10.3389/fmed.2022.868449、PMC9018975、新規 SRC 候補）。裏づける部分と留保：合併症（7日・30日の再入院を含む）の登録が主要業績指標であること、合併症率約0.5%が最低基準であることは一致。抜去時間（最低6分・目標10分）とポリープ切除の基準値（80%・90%）は載らない"
+  },
+  {
+   "card": "XS-032",
+   "label": "OPEN、作り手の調査バッチ40 2026-11-11",
+   "text": "Enge M, Peelen FO, Nielsen RL, et al. Malnutrition prevalence according to GLIM and its feasibility in geriatric patients: a prospective cross-sectional study. Eur J Nutr. 2024（CC BY、PMID 38240774、DOI 10.1007/s00394-023-03323-5、PMC10948466、新規 SRC 候補）。裏づける部分と留保：表現型の閾値（6か月以内で5%超または長期で10%超の体重減少、BMI は70歳未満で20未満・70歳以上で22未満、筋肉量の減少）は一致。アジアの BMI 基準は載らない。長期の体重減少は運用上「2年以内で10%超」と表現が異なる"
+  },
+  {
+   "card": "XS-033",
+   "label": "OPEN、作り手の調査バッチ40 2026-11-11",
+   "text": "Enge M, Peelen FO, Nielsen RL, et al. Malnutrition prevalence according to GLIM and its feasibility in geriatric patients: a prospective cross-sectional study. Eur J Nutr. 2024（CC BY、PMID 38240774、DOI 10.1007/s00394-023-03323-5、PMC10948466、新規 SRC 候補）。裏づける部分と留保：重度（ステージ2）の閾値（6か月以内で10%超または長期で20%超、BMI は70歳未満で18.5未満・70歳以上で20未満）と、病因の基準としての摂取量低下（必要量の50%未満）は一致。摂取量低下の期間の区切りはその形では載らない"
+  },
+  {
+   "card": "XS-034",
+   "label": "OPEN、作り手の調査バッチ40 2026-11-11",
+   "text": "Baji DB, Patel JP, Konanur Srinivasa NK, et al. Nutrition Care in Cancer Surgery Patients: A Narrative Review of Nutritional Screening and Assessment Methods and Nutritional Considerations. Cureus. 2022（CC BY、PMID 36721576、DOI 10.7759/cureus.33094、PMC9884126、新規 SRC 候補）。裏づける部分と留保：重度の栄養リスク（6か月以内で10%超の体重減少、BMI 18.5未満、アルブミン30 g/L未満、NRS 5超）では7〜14日の術前栄養療法を行うという ESPEN の推奨は一致。体重減少はカード「10〜15%超」、総説「10%超」（両値記録）。SGA C と肝・腎機能の留保は載らない"
+  },
+  {
+   "card": "XS-035",
+   "label": "OPEN、作り手の調査バッチ40 2026-11-11",
+   "text": "Baji DB, Patel JP, Konanur Srinivasa NK, et al. Nutrition Care in Cancer Surgery Patients: A Narrative Review of Nutritional Screening and Assessment Methods and Nutritional Considerations. Cureus. 2022（CC BY、PMID 36721576、DOI 10.7759/cureus.33094、PMC9884126、新規 SRC 候補）。裏づける部分と留保：誤嚥のリスクがなければ麻酔の2時間前まで清澄水、6時間前まで固形食という ESPEN の記載と、術後の早期経口摂取は一致。「数時間以内」という時期の明示は載らない"
+  },
+  {
+   "card": "XS-036",
+   "label": "OPEN、作り手の調査バッチ40 2026-11-11",
+   "text": "Brăgaru MA, Kraft A, Moldovan CA, et al. Optimizing Perioperative Nutrition in Elective Gastrointestinal Surgery: An ERAS-Focused Narrative Review. Nutrients. 2026（CC BY、PMID 41901159、DOI 10.3390/nu18060984、PMC13029033、新規 SRC 候補）。裏づける部分と留保：術後24時間以内の早期経口・経腸摂取、経腸栄養を静脈栄養より優先し、消化管が使えない場合に静脈栄養を用いることは一致。増量のペース（5〜7日）と、必要量の50%未満が7日を超えたら静脈栄養を併用するという数値ルールは載らない"
+  },
+  {
+   "card": "XS-037",
+   "label": "OPEN、作り手の調査バッチ40 2026-11-11",
+   "text": "Borriello R, Esposto G, Ainora ME, et al. Understanding Refeeding Syndrome in Critically Ill Patients: A Narrative Review. Nutrients. 2025（CC BY、PMID 40507135、DOI 10.3390/nu17111866、PMC12157793、新規 SRC 候補）。裏づける部分と留保：段階的な栄養の開始・増量、電解質（リン・カリウム・マグネシウム）の監視と補充、チアミンへの対応は一致。心電図の監視は載らない"
+  }
+ ],
+ "rest_fix": {
+  "SRC-167": "Wiley の利用条件（CC ではない、Crossref の version-of-record と Europe PMC の非OA）",
+  "SRC-169": "Elsevier の TDM 表示のみ（CC ではない、Crossref と Europe PMC）"
+ },
+ "open_fix": []
+}

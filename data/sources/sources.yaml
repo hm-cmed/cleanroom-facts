@@ -2470,14 +2470,17 @@
   doi: 10.1177/2050640617700014
   pmid: null
   pmcid: null
-  license_note: 未確認（リポジトリの表示は Taverne）
+  license_note: Wiley の利用条件（CC ではない、Crossref の version-of-record と Europe PMC の非OA）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（リポジトリの表示は Taverne）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/07_cross_sectional.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-168
   legacy_id: null
   title: Cederholm T, Jensen GL, Correia MITD, et al. GLIM criteria for the diagnosis of malnutrition - A consensus report from the global clinical nutrition community. Clin Nutr 2019;38:1-9
@@ -2500,14 +2503,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 未確認（著者最終稿で確認）
+  license_note: Elsevier の TDM 表示のみ（CC ではない、Crossref と Europe PMC）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（著者最終稿で確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-18'
     by: claude-code
     change: 取り込み：raw/07_cross_sectional.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-170
   legacy_id: null
   title: Ono K, Iwasaki YK, Akao M, et al. JCS/JHRS 2020 Guideline on Pharmacotherapy of Cardiac Arrhythmias. J Arrhythm 2022;38:833-973（Circ J 2022;86:1790-1924 と同時掲載）
@@ -36525,3 +36531,18 @@
   pmid: null
   source_class: GOV_US
   title: ClinicalTrials.gov NCT00023595（STICH）結果登録
+- citation: 'Chaves Santos B, Limon-Miro AT, Tandon P, Correia MITD, Prado CM, et al. GLIM criteria for the diagnosis of malnutrition in patients with cirrhosis: A narrative review. J Parenter Enteral Nutr. 2026'
+  doi: 10.1002/jpen.70095
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5010
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://europepmc.org/article/MED/42057173
+  pmcid: PMC13431929
+  pmid: '42057173'
+  source_class: OPEN
+  title: 'Chaves Santos B, Limon-Miro AT, Tandon P, Correia MITD, Prado CM, et al. GLIM criteria for the diagnosis of malnutrition in patients with cirrhosis: A narrative review. J Parenter Enteral Nutr. 2026'

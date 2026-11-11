@@ -245,7 +245,7 @@
 
 - 条件：guideline: ESGE 下部消化管内視鏡の質の指標 2017
 - よくある誤解：腺腫発見率は内視鏡医の技量と関係しない
-- 出典：Kaminski MF, Thomas-Gibson S, Bugajski M, et al. Performance measures for lower gastrointestinal endoscopy: a European Society of Gastrointestinal Endoscopy (ESGE) quality improvement initiative. United European Gastroenterol J 2017;5:309-334（Endoscopy 誌と同時掲載）　[DOI 10.1177/2050640617700014](https://doi.org/10.1177/2050640617700014)（区分 UNKNOWN）
+- 出典：Kaminski MF, Thomas-Gibson S, Bugajski M, et al. Performance measures for lower gastrointestinal endoscopy: a European Society of Gastrointestinal Endoscopy (ESGE) quality improvement initiative. United European Gastroenterol J 2017;5:309-334（Endoscopy 誌と同時掲載）　[DOI 10.1177/2050640617700014](https://doi.org/10.1177/2050640617700014)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-022&card_id=XS-022&version=6dc5520568)　（版 `6dc5520568`）
 
@@ -254,7 +254,7 @@
 > ESGE は大腸内視鏡の抜去時間の最低基準を平均6分、目標を平均10分としている。適切なポリープ切除の手技は最低80%・目標90%、合併症の指標として7日以内の再入院率0.5%以下を最低基準としている。
 
 - 条件：guideline: ESGE 下部消化管内視鏡の質の指標 2017
-- 出典：Kaminski MF, Thomas-Gibson S, Bugajski M, et al. Performance measures for lower gastrointestinal endoscopy: a European Society of Gastrointestinal Endoscopy (ESGE) quality improvement initiative. United European Gastroenterol J 2017;5:309-334（Endoscopy 誌と同時掲載）　[DOI 10.1177/2050640617700014](https://doi.org/10.1177/2050640617700014)（区分 UNKNOWN）
+- 出典：Kaminski MF, Thomas-Gibson S, Bugajski M, et al. Performance measures for lower gastrointestinal endoscopy: a European Society of Gastrointestinal Endoscopy (ESGE) quality improvement initiative. United European Gastroenterol J 2017;5:309-334（Endoscopy 誌と同時掲載）　[DOI 10.1177/2050640617700014](https://doi.org/10.1177/2050640617700014)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-03 (id: JkxnuRQ)；TBL-02-07-030 (id: JlAKplE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-023&card_id=XS-023&version=5657dd34cb)　（版 `5657dd34cb`）
 
@@ -346,9 +346,9 @@
 
 - 条件：guideline: GLIM 基準 2019／region: 国際
 - よくある誤解：BMI が正常なら低栄養ではない
-- 出典：Cederholm T, Jensen GL, Correia MITD, et al. GLIM criteria for the diagnosis of malnutrition - A consensus report from the global clinical nutrition community. Clin Nutr 2019;38:1-9　[DOI 10.1016/j.clnu.2018.08.002](https://doi.org/10.1016/j.clnu.2018.08.002)（区分 RESTRICTED）
+- 出典：Chaves Santos B, Limon-Miro AT, Tandon P, Correia MITD, Prado CM, et al. GLIM criteria for the diagnosis of malnutrition in patients with cirrhosis: A narrative review. J Parenter Enteral Nutr. 2026　[DOI 10.1002/jpen.70095](https://doi.org/10.1002/jpen.70095)　[PMID 42057173](https://pubmed.ncbi.nlm.nih.gov/42057173/)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-02 (id: JkxnuRM)；TBL-02-07-032 (id: JlAKplM)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-031&card_id=XS-031&version=f97c1988ee)　（版 `f97c1988ee`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-031&card_id=XS-031&version=b9e033b844)　（版 `b9e033b844`）
 
 ### XS-032　下書き（出典の照合前）
 
@@ -370,7 +370,7 @@
 - 出題基準：－　コアカリ：PS-02-08-02 (id: JkxnuRM)；TBL-02-07-032 (id: JlAKplM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-033&card_id=XS-033&version=46244cd116)　（版 `46244cd116`）
 
-**[ここまでの 3 件（XS-031〜XS-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-031%E3%80%9CXS-033&cards=XS-031%20f97c1988ee%0AXS-032%209f98e2d7d0%0AXS-033%2046244cd116)**
+**[ここまでの 3 件（XS-031〜XS-033）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20XS-031%E3%80%9CXS-033&cards=XS-031%20b9e033b844%0AXS-032%209f98e2d7d0%0AXS-033%2046244cd116)**
 
 ---
 
@@ -382,7 +382,7 @@
 
 - 条件：guideline: ESPEN 周術期栄養 実践GL 2021
 - よくある誤解：手術前の栄養状態は手術成績に影響しない
-- 出典：Weimann A, Braga M, Carli F, et al. ESPEN practical guideline: Clinical nutrition in surgery. Clin Nutr 2021（区分 UNKNOWN）
+- 出典：Weimann A, Braga M, Carli F, et al. ESPEN practical guideline: Clinical nutrition in surgery. Clin Nutr 2021（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-04 (id: JkxnuRU)；TBL-02-07-032 (id: JlAKplM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-034&card_id=XS-034&version=ab56ad4267)　（版 `ab56ad4267`）
 
@@ -392,7 +392,7 @@
 
 - 条件：guideline: ESPEN 周術期栄養 実践GL 2021
 - よくある誤解：手術前は前日の夜から絶飲食にしなければならない
-- 出典：Weimann A, Braga M, Carli F, et al. ESPEN practical guideline: Clinical nutrition in surgery. Clin Nutr 2021（区分 UNKNOWN）
+- 出典：Weimann A, Braga M, Carli F, et al. ESPEN practical guideline: Clinical nutrition in surgery. Clin Nutr 2021（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-04 (id: JkxnuRU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-035&card_id=XS-035&version=710c2feaa7)　（版 `710c2feaa7`）
 
@@ -402,7 +402,7 @@
 
 - 条件：guideline: ESPEN 周術期栄養 実践GL 2021
 - よくある誤解：手術後はまず静脈栄養を行い、経腸栄養は1週間以上あとから始める
-- 出典：Weimann A, Braga M, Carli F, et al. ESPEN practical guideline: Clinical nutrition in surgery. Clin Nutr 2021（区分 UNKNOWN）
+- 出典：Weimann A, Braga M, Carli F, et al. ESPEN practical guideline: Clinical nutrition in surgery. Clin Nutr 2021（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-04 (id: JkxnuRU)；TBL-02-07-032 (id: JlAKplM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-036&card_id=XS-036&version=01ffe346b0)　（版 `01ffe346b0`）
 
@@ -412,7 +412,7 @@
 
 - 条件：guideline: ESPEN 周術期栄養 実践GL 2021
 - よくある誤解：低栄養の患者には最初から目標量の栄養を入れるのがよい
-- 出典：Weimann A, Braga M, Carli F, et al. ESPEN practical guideline: Clinical nutrition in surgery. Clin Nutr 2021（区分 UNKNOWN）
+- 出典：Weimann A, Braga M, Carli F, et al. ESPEN practical guideline: Clinical nutrition in surgery. Clin Nutr 2021（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-04 (id: JkxnuRU)；TBL-02-07-032 (id: JlAKplM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20XS-037&card_id=XS-037&version=0336dc746c)　（版 `0336dc746c`）
 

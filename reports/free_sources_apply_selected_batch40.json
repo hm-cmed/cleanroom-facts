@@ -1,0 +1,45 @@
+{
+ "class": [
+  [
+   "SRC-167",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-169",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [
+  [
+   "XS-031",
+   "SRC-168",
+   "SRC-5010"
+  ]
+ ],
+ "B": [
+  "XS-002",
+  "XS-004",
+  "XS-006",
+  "XS-008",
+  "XS-010",
+  "XS-011",
+  "XS-014",
+  "XS-015",
+  "XS-022",
+  "XS-023",
+  "XS-032",
+  "XS-033",
+  "XS-034",
+  "XS-035",
+  "XS-036",
+  "XS-037"
+ ],
+ "new_src": [
+  [
+   "SRC-5010",
+   "Chaves Santos B, Limon-Miro AT, Tandon P, Correia MITD, Prado CM, et al. GLIM cr"
+  ]
+ ]
+}
