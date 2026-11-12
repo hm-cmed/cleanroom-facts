@@ -1,6 +1,6 @@
 # VD 弁膜症・感染性心内膜炎 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-11
+[← 一覧に戻る](README.md)　更新：2026-11-12
 
 全 34 件のうち、監修済み 0 件。
 
@@ -121,7 +121,7 @@
 
 - 条件：population: 手術リスクの低い重症 AS（71施設）／region: 国際（主に北米）
 - 不確実性：1年時点の結果で、弁の長期耐久性は追跡報告で確認が必要。ライセンスは未確認
-- 出典：Mack MJ, et al. Transcatheter Aortic-Valve Replacement with a Balloon-Expandable Valve in Low-Risk Patients. N Engl J Med 2019;380:1695-1705　[DOI 10.1056/NEJMoa1814052](https://doi.org/10.1056/NEJMoa1814052)　[PMID 30883058](https://pubmed.ncbi.nlm.nih.gov/30883058/)（区分 UNKNOWN）
+- 出典：Mack MJ, et al. Transcatheter Aortic-Valve Replacement with a Balloon-Expandable Valve in Low-Risk Patients. N Engl J Med 2019;380:1695-1705　[DOI 10.1056/NEJMoa1814052](https://doi.org/10.1056/NEJMoa1814052)　[PMID 30883058](https://pubmed.ncbi.nlm.nih.gov/30883058/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-4-B-①（大動脈弁狭窄症、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-176 (id: Jlvnlts)；PS-02-06-04 (id: JkxnuQs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VD-015&card_id=VD-015&version=19e46708ee)　（版 `19e46708ee`）
 
@@ -272,7 +272,7 @@
 - 条件：population: リウマチ性心疾患に伴う心房細動／region: 国際（アジア・アフリカ・南米が中心）
 - よくある誤解：リウマチ性僧帽弁狭窄症に伴う心房細動でも DOAC はワルファリンと同等に使える
 - 不確実性：対象地域は抄録で確認していない。ライセンスは未確認
-- 出典：Connolly SJ, Karthikeyan G, et al. Rivaroxaban in Rheumatic Heart Disease-Associated Atrial Fibrillation. N Engl J Med 2022;387:978-988　[DOI 10.1056/NEJMoa2209051](https://doi.org/10.1056/NEJMoa2209051)　[PMID 36036525](https://pubmed.ncbi.nlm.nih.gov/36036525/)（区分 UNKNOWN）
+- 出典：Connolly SJ, Karthikeyan G, et al. Rivaroxaban in Rheumatic Heart Disease-Associated Atrial Fibrillation. N Engl J Med 2022;387:978-988　[DOI 10.1056/NEJMoa2209051](https://doi.org/10.1056/NEJMoa2209051)　[PMID 36036525](https://pubmed.ncbi.nlm.nih.gov/36036525/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-4-A-①（僧帽弁狭窄症、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-175 (id: Jlvnltg)；TBL-01-00-166 (id: Jlvnlsg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VD-016&card_id=VD-016&version=18e0e20450)　（版 `18e0e20450`）
 
@@ -384,7 +384,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：連合弁膜症に特化した総説の抄録と総説全体の整理に基づく。病変の組み合わせごとの指標の使い分けの詳細は主張に入れていない。発生頻度などの数値は調査母集団への依存が大きいため主張に入れていない。source_class は、版元版が購読制で CC 表示がなく著者稿が PMC に公開されているため UNKNOWN とした（最終判定は取り込み側）。
-- 出典：Unger P, Clavel MA, Lindman BR, Mathieu P, Pibarot P. Pathophysiology and management of multivalvular disease. Nat Rev Cardiol. 2016;13(7):429-440.　[DOI 10.1038/nrcardio.2016.57](https://doi.org/10.1038/nrcardio.2016.57)　[PMID 27121305](https://pubmed.ncbi.nlm.nih.gov/27121305/)（区分 UNKNOWN）
+- 出典：Unger P, Clavel MA, Lindman BR, Mathieu P, Pibarot P. Pathophysiology and management of multivalvular disease. Nat Rev Cardiol. 2016;13(7):429-440.　[DOI 10.1038/nrcardio.2016.57](https://doi.org/10.1038/nrcardio.2016.57)　[PMID 27121305](https://pubmed.ncbi.nlm.nih.gov/27121305/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-4-C-③（連合弁膜症、b）　コアカリ：PS-02-06-05 (id: JkxnuQw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VD-033&card_id=VD-033&version=016c967ff8)　（版 `016c967ff8`）
 

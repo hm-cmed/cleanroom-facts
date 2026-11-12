@@ -1,6 +1,6 @@
 # NI 神経・運動器の感染性・炎症性疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-11
+[← 一覧に戻る](README.md)　更新：2026-11-12
 
 全 30 件のうち、監修済み 0 件。
 
@@ -28,11 +28,11 @@
 
 - 条件：population: 免疫不全状態にある患者／region: 国際
 - 不確実性：免疫再構築に伴う IRIS（免疫再構築炎症反応症候群）は PML の経過上の重要な論点だが、採用した診断基準論文の抄録には明示がなく、本文での確認を要する。ナタリズマブは国内承認薬（多発性硬化症）である。
-- 出典：Berger JR, Aksamit AJ, Clifford DB, et al. PML diagnostic criteria: consensus statement from the AAN Neuroinfectious Disease Section. Neurology. 2013;80(15):1430-1438　[DOI 10.1212/WNL.0b013e31828c2fa1](https://doi.org/10.1212/WNL.0b013e31828c2fa1)　[PMID 23568998](https://pubmed.ncbi.nlm.nih.gov/23568998/)（区分 UNKNOWN）
+- 出典：Jia DT. Progressive multifocal leukoencephalopathy - a diagnostic guide for the clinical neurologist. Front Neurol. 2026;17　[DOI 10.3389/fneur.2026.1692522](https://doi.org/10.3389/fneur.2026.1692522)　[PMID 41988494](https://pubmed.ncbi.nlm.nih.gov/41988494/)（区分 OPEN）
 - 出題基準：医学各論 Ⅸ-3-A-③（進行性多巣性白質脳症、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-002&card_id=NI-002&version=fe58453a1f)　（版 `fe58453a1f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-002&card_id=NI-002&version=a8ff106b63)　（版 `a8ff106b63`）
 
-**[ここまでの 1 件（NI-002）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NI-002&cards=NI-002%20fe58453a1f)**
+**[ここまでの 1 件（NI-002）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NI-002&cards=NI-002%20a8ff106b63)**
 
 ---
 
@@ -44,11 +44,11 @@
 
 - 条件：population: HIV 感染症患者／region: 国際
 - 不確実性：本分類は研究用の操作的定義であり、臨床現場では他の認知症原因の除外を前提とする。 抗レトロウイルス薬の個別薬剤の国内承認・保険適用は未確認（本分類そのものは特定の薬剤に依存しない）。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】抗レトロウイルス薬はHIV感染症の適応で国内承認・保険収載済みの薬剤群である（PMDA添付文書情報、2026-10-31確認）
-- 出典：Antinori A, Arendt G, Becker JT, et al. Updated research nosology for HIV-associated neurocognitive disorders. Neurology. 2007;69(18):1789-1799　[DOI 10.1212/01.WNL.0000287431.88658.8b](https://doi.org/10.1212/01.WNL.0000287431.88658.8b)　[PMID 17914061](https://pubmed.ncbi.nlm.nih.gov/17914061/)（区分 UNKNOWN）
+- 出典：Hahn K, Arendt G, Eggers C, et al. Guideline of the German Society of Neurology (DGN): "diagnosis and therapy of HIV-1-associated neurological disorders". Neurol Res Pract. 2026;8(1)　[DOI 10.1186/s42466-026-00519-y](https://doi.org/10.1186/s42466-026-00519-y)　[PMID 42596004](https://pubmed.ncbi.nlm.nih.gov/42596004/)（区分 OPEN）
 - 出題基準：医学各論 Ⅸ-3-A-④（AIDS認知症<HIV脳症>、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-003&card_id=NI-003&version=9fb0ce2136)　（版 `9fb0ce2136`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-003&card_id=NI-003&version=a34c2f8676)　（版 `a34c2f8676`）
 
-**[ここまでの 1 件（NI-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NI-003&cards=NI-003%209fb0ce2136)**
+**[ここまでの 1 件（NI-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NI-003&cards=NI-003%20a34c2f8676)**
 
 ---
 
@@ -76,7 +76,7 @@
 
 - 条件：population: 急速進行性認知症の患者／region: 国際
 - 不確実性：髄液 14-3-3 蛋白や脳波の周期性同期性放電は従来の診断基準の要素であり、分子サブタイプにより有用性が異なることが同論文で示されている。数値（83%）は抄録から読み取った。
-- 出典：Zerr I, Kallenberg K, Summers DM, et al. Updated clinical diagnostic criteria for sporadic Creutzfeldt-Jakob disease. Brain. 2009;132(Pt 10):2659-2668　[DOI 10.1093/brain/awp191](https://doi.org/10.1093/brain/awp191)　[PMID 19773352](https://pubmed.ncbi.nlm.nih.gov/19773352/)（区分 UNKNOWN）
+- 出典：Zerr I, Kallenberg K, Summers DM, et al. Updated clinical diagnostic criteria for sporadic Creutzfeldt-Jakob disease. Brain. 2009;132(Pt 10):2659-2668　[DOI 10.1093/brain/awp191](https://doi.org/10.1093/brain/awp191)　[PMID 19773352](https://pubmed.ncbi.nlm.nih.gov/19773352/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-3-B-①（Creutzfeldt-Jakob病、b）；医学各論 Ⅻ-4-A-⑱（プリオン病、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-005&card_id=NI-005&version=5f4dafedc8)　（版 `5f4dafedc8`）
 
@@ -310,7 +310,7 @@
 
 - 条件：population: 脊椎結核の患者／region: 国際
 - 不確実性：本カードは脊椎病変を中心とした記載であり、脊椎以外の結核性骨関節炎（股関節・膝関節など）も同じ多剤併用化学療法が基盤となる。抗結核薬はいずれも国内承認薬であり保険適用の範囲内である。
-- 出典：Leowattana W, Leowattana P, Leowattana T. Tuberculosis of the spine. World J Orthop. 2023;14(5):275-293　[DOI 10.5312/wjo.v14.i5.275](https://doi.org/10.5312/wjo.v14.i5.275)　[PMID 37304201](https://pubmed.ncbi.nlm.nih.gov/37304201/)（区分 UNKNOWN）
+- 出典：Leowattana W, Leowattana P, Leowattana T. Tuberculosis of the spine. World J Orthop. 2023;14(5):275-293　[DOI 10.5312/wjo.v14.i5.275](https://doi.org/10.5312/wjo.v14.i5.275)　[PMID 37304201](https://pubmed.ncbi.nlm.nih.gov/37304201/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-3-E-②（結核性骨関節炎、b）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-131 (id: JlvnlqY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-022&card_id=NI-022&version=0574bde069)　（版 `0574bde069`）
 

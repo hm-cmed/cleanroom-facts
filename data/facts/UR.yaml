@@ -18,7 +18,7 @@
     source_license: ガイドライン
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ51 2026-11-12）：Mavridis C, Bouchalakis A, Tsagkaraki V, Somani BK, Mamoulakis C, Tokas T. Recurrent Urinary Stone Formers: Imaging Assessment and Endoscopic Treatment Strategies: A Systematic Search and Review. J Clin Med. 2024;13(12):3461（CC BY、PMID 38929988、DOI 10.3390/jcm13123461、PMC11204450、新規 SRC 候補）。裏づける部分：候補（CC BY の系統的レビュー）の全文に、超音波検査は尿管結石では感度45%と低いが特異度94%と高く、容易に利用でき費用対効果に優れるため特定の患者群では第一選択となりうることが明記され、超音波の感度・特異度と第一選択という位置づけが裏づけられる。数値の照合：超音波の尿管結石での感度45%・特異度94%はカードと一致。低線量CTの感度93.1%・特異度96.6%と、超音波で確定できない場合の標準は非造影CTであるという逐条の位置づけ、結石の成分分析と負荷の評価が治療選択を左右するという要素は候補に再掲がなく、その部分を留保する。留保：候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 欧州のガイドラインに基づく内容であり、日本における画像診断の実施体制や診療報酬上の扱いは本調査では未確認である。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-341 (id: Jlvnl_I)'
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ51 2026-11-12）。三原の承認（2026-11-11）による
 - id: UR-002
   domain: UR
   subdomain: 尿路結石症
@@ -52,8 +55,8 @@
     url: https://doi.org/10.1136/bmj.i6112
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ51 2026-11-12）：Almaghthawi MM, Alotaibi EA, Alotaibi MS, Alomari RW, Alsulami YD, Alahamdi MA, Aljaddua SIS, Alruhaili WAA, Hijazi EM, Alkharboosh AS, Almurshed OA, Alshammari AH. Efficacy of alpha-blockers in medical expulsive therapy for ureteral stones: A systematic review and meta-analysis of randomized controlled trials between 2010 and 2025. Arab J Urol. 2026;24(1):1-14（CC BY、PMID 41509089、DOI 10.1080/20905998.2025.2532196、PMC12777816、新規 SRC 候補）。裏づける部分：候補（CC BY の系統的レビュー・メタアナリシス、2010〜2025年の無作為化試験）の全文に、α遮断薬は対照に比べて排石率を高め（70.9%対56.5%）、排石までの期間を短縮し、利益は5 mm未満の小さな結石では控えめで5〜10 mmの結石で大きいことが明記され、主張の方向と結石サイズによる利益の違いが裏づけられる。数値の照合：候補の統合値はカード（主出典の2016年のメタアナリシス）と異なる。排石のリスク比はカード1.49に対し候補1.25（95%信頼区間1.20〜1.32）、大きな結石ではカード1.57に対し候補は5〜10 mmで1.35、排石までの期間の短縮はカード平均3.79日に対し候補は平均差−2.96日。方向は一致するが候補の値が小さく、両値を記録してフラグにも挙げた。手術介入と入院のリスク低下は候補の副次アウトカムに含まれず、その部分を留保する。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典 SRC-692 自体は CC BY-NC で自由利用にならない（区分の節に記録）'
   uncertainty: タムスロシンなどのα遮断薬には、国内では尿管結石の排石を効能・効果とする承認がなく、排石目的の使用は適応外となる。保険適用の詳細は本調査では未確認である。また、体外衝撃波結石破砕術や内視鏡的治療の選択基準は本出典の対象範囲外であり、本カードでは扱っていない。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-341 (id: Jlvnl_I)'
@@ -68,6 +71,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-692 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ51 2026-11-12）。三原の承認（2026-11-11）による
 - id: UR-003
   domain: UR
   subdomain: 尿路結石症
@@ -87,8 +96,8 @@
     url: https://doi.org/10.1016/S0022-5347(01)66321-3
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ51 2026-11-12）：Collingridge A, O''Callaghan M. Seminal papers in urology: urinary volume, water and recurrences in idiopathic calcium nephrolithiasis: a 5-year randomized prospective study. BMC Urol. 2024;24(1):30（CC BY、PMID 38310269、DOI 10.1186/s12894-024-01416-9、PMC10838424、新規 SRC 候補）。裏づける部分：候補（CC BY の古典論文レビュー）の全文に、主出典の試験（初発の特発性カルシウム結石の患者99例を尿量2 L/日以上を目指して水分摂取を増やす群、100例を通常群に割り付けた5年間の無作為化前向き試験）について、再発率が12.1%対27%（p=0.008）、再発までの期間が38.7か月対25か月と再掲され、主張の数値の核が裏づけられる。数値の照合：再発率27.0%から12.1%への低下（p=0.008）はカードと一致。再発までの平均期間はカード25.1か月に対し候補は25か月（±16.4）と概数で示され、38.7か月は一致する。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典 SRC-693 の区分訂正（UNKNOWN→RESTRICTED）は区分の節に記録する'
   uncertainty: 対象は代謝異常のない初発の特発性カルシウム結石患者であり、再発例や代謝異常を伴う患者に対する食事療法・薬物療法は本出典では扱われていない。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-341 (id: Jlvnl_I)'
@@ -103,6 +112,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-693 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ51 2026-11-12）。三原の承認（2026-11-11）による
 - id: UR-004
   domain: UR
   subdomain: 尿路結石症
@@ -228,7 +243,7 @@
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ51 2026-11-12）：Been RA, Voets PJGM, van Rhijn-Brouwer FCC, Vogtländer NPJ. A lesson for the clinical nephrologist: desmopressin and its unforeseen efficacy in clinical post-obstructive diuresis. J Nephrol. 2024;37(2):515-517／Rigonalli U, Sigg S, Moos SV, Baumeister P, Mattei A, Fankhauser CD, Affentranger A. Prevalence and Clinical Implications of Post-obstruction Hyperdiuresis Among Patients with Urinary Retention: A Mini Review. Eur Urol Open Sci. 2025;73:68-70（CC BY、PMID 37856066（候補2は 40041096）、DOI 10.1007/s40620-023-01782-x（候補2は 10.1016/j.euros.2025.01.017）、PMC11043196（候補2は PMC11879703）、新規 SRC 候補）。裏づける部分：候補1（CC BY の症例レビュー）の全文に、「閉塞後利尿は、閉塞の原因の解除後に200 mL/時を超える利尿が少なくとも2時間続くこと、または24時間で3,000 mLを超えることと定義される」と明記され、カードの定義が裏づけられる。候補2（CC BY のミニレビュー）も同じ定義（200 mL/時が2時間連続、または24時間で3 Lを超える）を挙げ、危険因子として血清クレアチニン高値（オッズ比4.83）と膀胱内尿量の多さ（100 mL増えるごとのオッズ比1.21）を統計的に示した研究を再掲しており、危険因子の方向も裏づけられる。数値の照合：定義（尿量200 mL/時以上が2時間以上、または3 L/日以上）は両候補と一致。頻度はカード「完全な両側閉塞の解除後では最大で約半数」に対し、候補2は尿閉のコホート全体で15〜78%の範囲を示し、対象集団が異なる（両値を記録）。輸液補充はカード「前1時間の尿量の50%を輸液で補う方法」に対し、候補2が再掲する唯一の管理の研究は尿量の67%の補充で、割合が異なる（両値を記録し、フラグにも挙げた）。留保：候補はいずれも出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 総説に基づく記述であり、輸液補充の具体的方法は施設や患者の状態により異なる。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
@@ -243,6 +258,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ51 2026-11-12）。三原の承認（2026-11-11）による
 - id: UR-008
   domain: UR
   subdomain: 神経因性膀胱
@@ -367,8 +385,8 @@
     url: https://doi.org/10.1056/NEJMoa1401811
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ51 2026-11-12）：ClinicalTrials.gov 結果レコード NCT00405704（Randomized Intervention for Children With Vesicoureteral Reflux（RIVUR））（GOV_US、新規 SRC 候補、API で取得）（GOV_US、PMID NCT NCT00405704、https://clinicaltrials.gov/study/NCT00405704、新規 SRC 候補）。裏づける部分：登録レコードの結果セクションに、主要アウトカム（2年間の有熱性または症候性の尿路感染症の再発）がトリメトプリム・スルファメトキサゾール合剤群39例・プラセボ群72例（開始時は302例・305例）と掲載され、腎瘢痕のアウトカムも27例対24例と、瘢痕の発生が減らなかったことと整合する数値が掲載される。数値の照合：再発39例対72例はカードと一致。ハザード比0.50（95%信頼区間0.34〜0.74）そのものはレコードに掲載がない。再発時の大腸菌における同合剤への耐性の割合（予防群63%・プラセボ群19%）もレコードになく、レコードにあるのは直腸スワブでの耐性大腸菌の保有（56例対41例）と、耐性大腸菌による再発（19例対11例）で、指標が異なる。その2要素を留保する。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典 SRC-698 の区分訂正（UNKNOWN→RESTRICTED）は区分の節に記録する
   uncertainty: トリメトプリム・スルファメトキサゾール合剤の小児膀胱尿管逆流に対する予防投与について、国内承認・保険適用は本調査では未確認である。米国で実施された試験であり、起炎菌の耐性状況は国内と異なる可能性がある。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-339 (id: Jlvnl-8)'
@@ -383,6 +401,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-698 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ51 2026-11-12）。三原の承認（2026-11-11）による
 - id: UR-012
   domain: UR
   subdomain: 尿路感染症
@@ -508,7 +532,7 @@
     source_license: ガイドライン
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN／GOV_US、作り手の調査バッチ51 2026-11-12）：Sochowska J, Buczkowska A, Danieluk J, Adamaszek N, Glinski M, Kacprzak U, Stochaj L, Flejszman M, Wojcik J, Dolega-Mostowska D. Recurrent Urinary Tract Infections in Women: Current Management Guidelines and Therapeutic Options. Cureus. 2026;18(8):e114267／US Preventive Services Task Force; Owens DK, Davidson KW, Krist AH, et al. Screening for Asymptomatic Bacteriuria in Adults: US Preventive Services Task Force Recommendation Statement. （USPSTF の公式サイトの勧告文。JAMA 掲載版は © AMA のため使わない）（CC BY／GOV_US、PMID 42719353（候補2は 31550038）、DOI 10.7759/cureus.114267（候補2は 10.1001/jama.2019.13069）、PMC13556986（候補2はなし）、https://europepmc.org/article/MED/42719353、新規 SRC 候補）。裏づける部分：候補1（CC BY のガイドライン総説）の全文に、各エピソードを尿培養で確認することがガイドラインで強く求められること、無症候性細菌尿への不要な抗菌薬治療を避けることが管理の要であること、定型例では膀胱鏡検査や画像検査をルーチンに行う適応はないことが明記され、評価と管理の原則が裏づけられる。候補2（USPSTF 2019、政府の全文）は、妊娠していない成人では無症候性細菌尿のスクリーニングを行わないことを推奨し（グレードD）、「無症候性細菌尿は治療せず、無症状時の監視培養も行わない」という要素を政府の全文で裏づける。数値の照合：—。留保：第一選択の治療薬の顔ぶれは候補1では各国ガイドラインで一部異なり（ポーランドの指針ではニトロキシリンやフラジディンを含む）、治療期間を可能な範囲で7日以内とする明示は候補に再掲がなかったため、その部分を留保して B。候補はいずれも出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 本ガイドラインの対象は再発性単純性尿路感染症であり、複雑性尿路感染症は対象に含まれない。ニトロフラントイン等の第一選択薬の国内承認・供給状況は本調査では未確認である。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-343 (id: Jlvnl_Q)'
@@ -523,6 +547,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN／GOV_US、作り手の調査バッチ51 2026-11-12）。三原の承認（2026-11-11）による
 - id: UR-016
   domain: UR
   subdomain: 尿路感染症
@@ -828,7 +855,7 @@
     url: https://doi.org/10.1016/0022-3468(92)90199-h
     source_license: 出版社の著作物（CC の表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 1992年の単施設症例集積の抄録で確認した範囲であり、現在の画像診断や術式の実情とは異なる場合がある。出典のライセンス表示は確認できなかった。
   curriculum:
@@ -844,6 +871,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-709 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: UR-025
   domain: UR
   subdomain: 膀胱瘤
@@ -898,7 +928,7 @@
     url: https://doi.org/10.1016/S0022-5347(05)65373-6
     source_license: 出版社の著作物（CC の表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値は2002年の日本の健診集団の抄録で確認した範囲である。出典のライセンス表示は確認できなかった。
   curriculum:
@@ -914,6 +944,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-711 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: UR-027
   domain: UR
   subdomain: 嚢胞腎
@@ -1039,7 +1072,7 @@
     source_license: CC BY-NC-SA 3.0（PMC 掲載ページの表示）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ51 2026-11-12）：Liao J, Zhu L, Xie D, Wang X, Zhou P. Improving the quality of life of children and parents with nocturnal enuresis: the role of health education. Front Pediatr. 2024;12:1464465（CC BY、PMID 39776645、DOI 10.3389/fped.2024.1464465、PMC11703977、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、夜尿症の背景として夜間の尿量の増加、膀胱容量の低下、睡眠からの覚醒の障害が関与することが挙げられ、治療ではアラーム療法が第一選択の一つ、デスモプレシンが第一選択薬の一つと明記され、病態の枠組みと第一選択の治療が裏づけられる。有病率は小児で4〜18%の範囲とされ、カードの「5歳で約15%」はその範囲内にある。数値の照合：5歳時点での頻度約15%は候補の範囲（4〜18%）内にあるが、年齢別の逐条の値ではない。一次夜尿症が約80%を占めるという割合と、男児は女児の約2倍多いという比は、候補に明示がなく、その2要素を留保する。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典は CC BY-NC-SA 3.0 で現行の RESTRICTED が正しい。PMCID PMC4251068 は補完候補として区分の節に記録する'
   uncertainty: 頻度の数値は総説の本文から読み取ったもので、引用された疫学研究の集計を含む（二次資料経由）。薬物療法の代表薬であるデスモプレシンについて、夜尿症に対する国内の承認・保険適用の状況は、本調査では未確認である。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
@@ -1054,6 +1087,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ51 2026-11-12）。三原の承認（2026-11-11）による
 - id: UR-031
   domain: UR
   subdomain: 過活動膀胱

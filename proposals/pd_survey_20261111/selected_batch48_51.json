@@ -1,0 +1,366 @@
+{
+ "A": [
+  {
+   "card": "NI-002",
+   "class": "OPEN",
+   "title": "Jia DT. Progressive multifocal leukoencephalopathy - a diagnostic guide for the clinical neurologist. Front Neurol. 2026;17",
+   "doi": "10.3389/fneur.2026.1692522",
+   "pmid": "41988494",
+   "pmcid": "PMC13076114",
+   "url": "https://europepmc.org/article/MED/41988494",
+   "why": "候補（CC BY の診断ガイド）の全文に、PML は免疫不全状態における JC ウイルスの潜伏感染の再活性化によって生じる中枢神経系の脱髄疾患であること、HIV 感染症の患者やナタリズマブ使用後の多発性硬化症患者、移植後の免疫抑制患者でリスクが高いこと、診断の確実性は臨床所見・神経放射線学的所見・髄液 JCV PCR 陽性の3要素の組合せで分類され、3要素すべてがそろえば確診（definitive）に達することが明記され、主張全体が置き換え可能（作り手の調査バッチ49 2026-11-12）"
+  },
+  {
+   "card": "NI-003",
+   "class": "OPEN",
+   "title": "Hahn K, Arendt G, Eggers C, et al. Guideline of the German Society of Neurology (DGN): \"diagnosis and therapy of HIV-1-associated neurological disorders\". Neurol Res Pract. 2026;8(1)",
+   "doi": "10.1186/s42466-026-00519-y",
+   "pmid": "42596004",
+   "pmcid": "PMC13474671",
+   "url": "https://europepmc.org/article/MED/42596004",
+   "why": "候補（ドイツ神経学会の HIV-1 関連神経疾患ガイドライン、CC BY）の全文に、Frascati 基準（本カードの主出典である Antinori 2007 の研究用分類）が HAND の3段階（第1段階＝無症候性の神経心理学的障害、第2段階＝軽度神経認知障害、第3段階＝HIV 関連認知症）を記述すること、「併用抗レトロウイルス療法の高い有効性にもかかわらず、軽症型の HAND は存続する」ことが明記され、主張全体が置き換え可能（作り手の調査バッチ49 2026-11-12）"
+  }
+ ],
+ "B": [
+  {
+   "card": "VD-001",
+   "label": "OPEN、作り手の調査バッチ48 2026-11-12",
+   "text": "Mitral Regurgitation in Contemporary Practice: From Diagnosis to Management. Rev Cardiovasc Med. 2026;27(8)（CC BY、PMID 42694916、DOI 10.31083/rcm49149、PMC13540021、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、MR は一次性（器質性）と二次性（心室性・心房性）に分ける枠組みが明記され、一次性の原因として弁逸脱・flail、リウマチ性変化、感染性心内膜炎による弁尖穿孔、心筋梗塞後の乳頭筋断裂が、二次性の機序として弁尖のテザリングと心房細動に伴う心房性機能性 MR が挙げられる。数値の照合：—。留保：2025 ESC/EACTS ガイドラインが機序ベースの分類（一次性／心室性二次性／心房性二次性）を正式採用したことが候補本文に明記されており、JCS 2020 の二分法の枠組み自体は今後の版で再照合が要る（フラグ参照）。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-002",
+   "label": "OPEN、作り手の調査バッチ48 2026-11-12",
+   "text": "Multimodality Imaging of Mitral Regurgitation. J Clin Med. 2026;15(19)（CC BY、PMC13666139、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、重症 MR の目安として有効逆流弁口面積（EROA）≥40 mm²（＝0.40 cm²）、逆流量 ≥60 mL、逆流率 ≥50% が明記され、カードの重症側の閾値4項目のうち3項目が一致する。数値の照合：EROA 0.40 cm²・逆流量 60 mL・逆流率 50% はカードと一致。留保：縮流部幅 0.7 cm と中等症側の範囲（EROA 0.20〜0.39 cm² 等）は候補に再掲がなく、その部分を留保して B。候補は Europe PMC の個別レコードで DOI・PMID の付番がなく、PMCID で同定した。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-003",
+   "label": "OPEN、作り手の調査バッチ48 2026-11-12",
+   "text": "Mitral Regurgitation in Contemporary Practice: From Diagnosis to Management. Rev Cardiovasc Med. 2026;27(8)（CC BY、PMID 42694916、DOI 10.31083/rcm49149、PMC13540021、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、重症一次性 MR では手術が管理の基盤であり、症状のある患者は専門施設へ早期に紹介して手術を行うこと、弁形成術は人工弁の合併症を避けられる利点があることが明記され、症状のある重症一次性 MR への手術推奨と形成術優先の方向が裏づけられる。数値の照合：—。留保：「LVEF が30%を超えていれば推奨クラスI」という JCS 固有の線引きと、置換術での腱索温存の細部は候補に再掲がなく、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-005",
+   "label": "OPEN、作り手の調査バッチ48 2026-11-12",
+   "text": "Management of Asymptomatic Severe Aortic Stenosis: Current Evidence and Future Directions. J Clin Med. 2025;14(21):7549（CC BY、PMID 41226944、DOI 10.3390/jcm14217549、PMC12610650、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、超重症 AS は平均圧較差 ≥60 mmHg または最大血流速度 >5.0 m/s と定義され、無症状でも手術リスクの低い患者では超重症 AS などの高リスク所見がある場合に大動脈弁置換を検討することが明記され、JCS CQ3 の閾値（5.0 m/秒・60 mmHg）と「症状のない重症 AS でも低リスクなら手術」の方向が裏づけられる。数値の照合：最大血流速度 5.0 m/秒・平均圧較差 60 mmHg はカードと一致。留保：弁口面積 0.6 cm²未満という要素は JCS 独自で候補に再掲がなく、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-007",
+   "label": "OPEN、作り手の調査バッチ48 2026-11-12",
+   "text": "Comparing Early Intervention to Watchful Waiting: A Review on Risk Stratification and Management in Asymptomatic Aortic Stenosis. Medicina (Kaunas). 2025;61(3):448／Management of Asymptomatic Severe Aortic Stenosis: Current Evidence and Future Directions. J Clin Med. 2025;14(21):7549（CC BY、PMID 40142259、DOI 10.3390/medicina61030448、PMC11943529、新規 SRC 候補）。裏づける部分：候補1（CC BY の総説）の全文に「血行動態的に重症の AS は大動脈弁最大血流速度 ≥4 m/秒または平均圧較差 ≥40 mmHg と定義され、弁口面積は通常 ≤1.0 cm² だが必須の基準ではない」と ACC/AHA の定義がほぼそのまま明記される。超重症の閾値（平均圧較差 ≥60 mmHg・最大血流速度 >5.0 m/s）は候補2（J Clin Med 2025、PMID 41226944、DOI 10.3390/jcm14217549、PMCID PMC12610650）に明記される。数値の照合：最大血流速度 4 m/秒・平均圧較差 40 mmHg・弁口面積 1.0 cm²、超重症 5.0 m/秒・60 mmHg はいずれもカードと一致。留保：体表面積あたり弁口面積 0.6 cm²/m² の要素は両候補とも明示が弱く、その部分は留保する。主出典（SRC-231）は Crossref でライセンス表示がなく © ACC/AHA のため自由利用ではない。候補はいずれも出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-008",
+   "label": "OPEN、作り手の調査バッチ48 2026-11-12",
+   "text": "Comparing Early Intervention to Watchful Waiting: A Review on Risk Stratification and Management in Asymptomatic Aortic Stenosis. Medicina (Kaunas). 2025;61(3):448（CC BY、PMID 40142259、DOI 10.3390/medicina61030448、PMC11943529、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、無症状の重症 AS は病期 C で、左室収縮機能により C1 と C2 に分けられ（LVEF <50% が C2）、運動負荷で労作時呼吸困難・狭心痛・失神・前失神を示す患者は病期 D に再分類されることが明記され、ACC/AHA の病期分類（C1・C2・D1）と D1 の症状の核が裏づけられる。数値の照合：—。留保：D1 の症状の列挙（運動耐容能の低下・心不全を含む）の細部は候補の運動負荷試験の文脈での再掲にとどまり、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-009",
+   "label": "OPEN、作り手の調査バッチ48 2026-11-12",
+   "text": "Mitral Regurgitation after TAVR: Sex Differences and Low-Flow Low-Gradient Aortic Stenosis. JACC Adv. 2026;5(9)／Low-Flow, Low-Gradient Aortic Stenosis in Transthyretin Cardiac Amyloidosis: Diagnostic and Therapeutic Challenges—A Case Report. Diagnostics. 2026;16(14)（CC BY、PMID 42782013、DOI 10.1016/j.jacadv.2026.103140、PMC13616514、新規 SRC 候補）。裏づける部分：候補1（CC BY）の全文に、低流量・低圧較差 AS の定義として弁口面積 <1 cm²・平均圧較差 <40 mmHg・1回拍出量係数 <35 mL/m² が用いられる。候補2（CC BY の症例報告、PMID 42510041、DOI 10.3390/diagnostics16142177、PMCID PMC13408840）の全文には、LVEF の保たれた逆説的低流量・低圧較差 AS の評価でドブタミン負荷と推定弁口面積、CT による大動脈弁石灰化スコアを用いる文脈が明記され、低流量・低圧較差 AS の評価枠組みの核が裏づけられる。数値の照合：弁口面積 1.0 cm²・平均圧較差 40 mmHg・1回拍出量係数 35 mL/m² はカードと一致。留保：D2 におけるドブタミン負荷の判定基準の文言（どの流量でも弁口面積1.0 cm²未満のまま最大血流速度4 m/秒以上）と、D3 の評価を収縮期血圧140 mmHg未満で行う条件は自由な全文に再掲がなく、その部分を留保して B。候補はいずれも出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-010",
+   "label": "OPEN、作り手の調査バッチ48 2026-11-12",
+   "text": "Antibiotic Prophylaxis of Infective Endocarditis in Dentistry: An Update on the ESC, AHA, and NICE Guidelines. J Clin Med. 2026;15(19)（CC BY、PMC13666449、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、AHA の最高リスク群として人工弁または弁形成に用いた人工材料、感染性心内膜炎の既往、未修復のチアノーゼ性先天性心疾患、人工材料の近くに遺残欠損がある修復後の先天性心疾患、心臓移植後に弁膜症を発症した患者が挙げられ、歯科処置前の予防投与の対象というカードの主要部が裏づけられる。数値の照合：—。留保：歯科以外の処置（経食道心エコー・消化管内視鏡・膀胱鏡）では予防投与の利益がないとする後半（推奨3）は候補に再掲がなく、その部分を留保して B。候補は Europe PMC の個別レコードで DOI・PMID の付番がなく PMCID で同定した。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-011",
+   "label": "GOV_US、作り手の調査バッチ48 2026-11-12",
+   "text": "Clinical Guidance for Acute Rheumatic Fever. Centers for Disease Control and Prevention（米国疾病予防管理センター）（GOV_US、https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/acute-rheumatic-fever.html、新規 SRC 候補）。裏づける部分：候補（米国政府 CDC の臨床ガイダンス全文、2025年8月5日更新を実際に開いて確認）に、リウマチ熱の二次予防は抗菌薬予防投与によること、方法はベンザチンペニシリンの筋注を3〜4週ごとに行うこと、予防期間は個別に調整するが通常は少なくとも21歳まで続けることが明記され、投与方法の核が裏づけられる。数値の照合：—。留保：心炎と弁膜症の有無で分ける期間の表（10年間か40歳まで／10年間か21歳まで／5年間か21歳までの長い方、弁置換後も継続）とベンザチンペニシリンG 120万単位という用量は CDC ページに再掲がなく ACC/AHA の本文にのみあるため、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-012",
+   "label": "OPEN、作り手の調査バッチ48 2026-11-12",
+   "text": "Warfarin After Seven Decades: Persistent Value and the Contemporary Role of Vitamin K Antagonism. Cardiol Res. 2026;17(6)（CC BY、PMID 42964437、DOI 10.14740/cr2322、PMC13719647、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、リウマチ性心疾患に伴う心房細動では INVICTUS 試験がビタミンK拮抗薬をリバーロキサバンより支持したこと、機械弁では RE-ALIGN・PROACT Xa の失敗により生涯の INR 管理下ビタミンK拮抗薬が必要であることが表として明記され、リウマチ性僧帽弁狭窄症ではワルファリン（ビタミンK拮抗薬）を用いるというカードの主要部が裏づけられる。数値の照合：—。留保：リウマチ性僧帽弁狭窄症以外の自己弁・生体弁（置換後3か月超）で CHA2DS2-VASc に基づき DOAC を使えるという後半は、候補では「DOAC の成功をすべての血栓基質に外挿できない」という枠組みでの言及にとどまり、その部分を留保して B。INVICTUS の試験登録（NCT02832544）は結果未掲載で登録では裏づけられない（VD-016 参照）。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-013",
+   "label": "OPEN、作り手の調査バッチ48 2026-11-12",
+   "text": "Warfarin After Seven Decades: Persistent Value and the Contemporary Role of Vitamin K Antagonism. Cardiol Res. 2026;17(6)／ClinicalTrials.gov 登録レコード NCT04142658（PROACT Xa：機械弁（On-X 大動脈弁）に対するアピキサバンとワルファリンの無作為化試験、安全性を理由に早期終了・結果掲載あり）（CC BY、PMID 42964437、DOI 10.14740/cr2322、PMC13719647、新規 SRC 候補）。裏づける部分：候補1（CC BY の総説）の全文に、機械弁では RE-ALIGN と PROACT Xa が DOAC の代替を確立できず、生涯の INR 管理下ビタミンK拮抗薬療法が必要と表で明記される。候補2（試験登録レコード）は PROACT Xa が安全性を理由に早期終了し（whyStopped: Safety）結果が掲載されていることを示し、機械弁で DOAC を使わないというカードの結論が裏づけられる。数値の照合：—。留保：「推奨3：有害」という ACC/AHA の推奨表明そのものは候補にないため、その部分を留保して B。RE-ALIGN の登録（NCT01452347）も早期終了と結果掲載を確認したが、掲載された有害事象に脳卒中・出血の項目立てがなく裏づけの核には使わなかった。候補はいずれも出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-015",
+   "label": "GOV_US、作り手の調査バッチ48 2026-11-12",
+   "text": "ClinicalTrials.gov 登録レコード NCT02675114（PARTNER 3：低リスク重症 AS に対するバルーン拡張型 TAVI と外科的弁置換の無作為化試験、結果掲載あり）（GOV_US、PMID NCT: NCT02675114、https://clinicaltrials.gov/study/NCT02675114、新規 SRC 候補）。裏づける部分：候補（試験登録レコード、結果掲載あり）に、主要評価項目（全死亡・全脳卒中・再入院の複合、1年時点）のイベント数が TAVI 群42件・外科群68件と掲載され、実施治療集団の人数（TAVI 496人・外科 454人）で割ると 8.5% 対 15.0% となり、カードの 8.5% 対 15.1%（Kaplan-Meier 推定）と一致する。数値の照合：登録の実数 42/496（8.5%）・68/454（15.0%）はカードの 8.5%・15.1% と実質一致（カードは Kaplan-Meier 推定値）。ハザード比0.54 は登録の掲載値からは確認していない。留保：主出典（SRC-238）は区分の訂正対象（区分訂正の節を参照）。30日時点の脳卒中・新規心房細動・入院期間などの副次項目は登録にも掲載があるが、本照合では主要評価項目のみを確認した。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-016",
+   "label": "OPEN、作り手の調査バッチ48 2026-11-12",
+   "text": "Warfarin After Seven Decades: Persistent Value and the Contemporary Role of Vitamin K Antagonism. Cardiol Res. 2026;17(6)（CC BY、PMID 42964437、DOI 10.14740/cr2322、PMC13719647、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、リウマチ性心疾患に伴う心房細動では INVICTUS 試験がビタミンK拮抗薬をリバーロキサバンより支持したことが明記され、リバーロキサバン群で心血管イベントまたは死亡が多かったというカードの結論の方向が裏づけられる。数値の照合：制限平均生存時間の差 −76日（1,599日対1,675日）などの数値そのものは自由な全文では確認できなかった。留保：INVICTUS の試験登録（NCT02832544）は結果未掲載（hasResults=false、2026-11-12 確認）のため登録では裏づけられず、数値を留保して B。主出典（SRC-239）は区分の訂正対象（区分訂正の節を参照）。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-021",
+   "label": "OPEN、作り手の調査バッチ48 2026-11-12",
+   "text": "Mitral Regurgitation in Contemporary Practice: From Diagnosis to Management. Rev Cardiovasc Med. 2026;27(8)（CC BY、PMID 42694916、DOI 10.31083/rcm49149、PMC13540021、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文（図の説明文を含む）に、Carpentier 分類は弁尖の動きに基づき、I型は動きが保たれるもの（心内膜炎による弁尖穿孔・弁輪拡大）、II型は過剰な動き（逸脱・flail）、IIIa型は収縮期・拡張期とも制限されるもの（リウマチ性など）、IIIb型は収縮期のみ制限されるもの（テザリング）と明記され、カードの分類の全体が裏づけられる。数値の照合：—。留保：主出典（SRC-233）の刊行版 PDF は CC BY-NC-ND 4.0 で、Europe PMC の表示（cc by-nc-nd）とも一致し自由利用ではない（マスターの RESTRICTED と一致。Crossref の VoR ライセンス欄は TDM リンクのみで CC BY を示さなかった）。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-022",
+   "label": "OPEN、作り手の調査バッチ48 2026-11-12",
+   "text": "The right ventricle as the Achilles' heel: tricuspid regurgitation and right heart failure in the era of mechanical circulatory support. Front Cardiovasc Med. 2026;13／Determinants of outcome in atrial functional tricuspid regurgitation. Echo Res Pract. 2026;13(1)（CC BY、PMID 42959588、DOI 10.3389/fcvm.2026.1946476、PMC13717271、新規 SRC 候補）。裏づける部分：候補1（CC BY の総説）の全文に、心不全領域では三尖弁閉鎖不全症（TR）の大部分は機能性（二次性）で弁尖自体は正常であり、心室と心房による三尖弁装置の変形で起こることが明記される。候補2（CC BY、PMID 42894198、DOI 10.1186/s44156-026-00140-4、PMCID PMC13679236）の全文には、慢性心房細動が心房拡大と三尖弁輪拡大をもたらし二次性 TR の原因となることが明記され、「最も多いのは二次性で、主に心房細動や左心系疾患による弁輪拡大」というカードの核が裏づけられる。数値の照合：—。留保：一次性の原因の列挙（Ebstein 奇形・カルチノイド・放射線・セロトニン作動薬・リード損傷など）と「僧帽弁疾患患者の約30%に有意な TR」という数値は自由な全文に再掲がなく、その部分を留保して B。主出典（SRC-234）のライセンスは区分訂正の節の注記を参照（刊行版 PDF は CC BY-NC-ND で自由利用ではない）。候補はいずれも出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-027",
+   "label": "OPEN、作り手の調査バッチ48 2026-11-12",
+   "text": "Infective Endocarditis: A Contemporary Review of Epidemiology, Diagnosis, and Management. Antibiotics. 2026;15(5)／Cardiac Computed Tomography in Infective Endocarditis: A Radiological Perspective on Structural Complications and Emerging Diagnostic Technologies. Tomography. 2026;12(10)（CC BY、PMID 42192704、DOI 10.3390/antibiotics15050482、PMC13203618、新規 SRC 候補）。裏づける部分：候補1（CC BY の総説）の全文に、Duke 基準は1994年に作られ2000年に修正された標準的な診断枠組みで、大基準・小基準の組合せにより確診・可能性あり・否定に分類することが明記される。候補2（CC BY の総説、PMID 42931489、DOI 10.3390/tomography12100145、PMCID PMC13709357）の全文には、修正 Duke 基準が典型的な起炎菌・血液培養陽性・心エコー所見の定義を精緻化したことが明記され、修正 Duke 基準の枠組みと構成要素の核が裏づけられる。数値の照合：—。留保：大基準・小基準の項目の列挙そのもの（持続的菌血症の定義、素因・38.0℃以上の発熱・血管現象・免疫学的現象・微生物学的所見、確診の組合せ）は自由な全文に逐条の再掲がなく、その部分を留保して B。2023年に Duke-ISCVID 基準が刊行され（Clin Infect Dis 2023;77:518-526、PMID 37138445、自由利用ではない）、JCS 2017 の修正 Duke 基準に基づく本カードは再照合フラグの対象（フラグ参照）。候補はいずれも出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-028",
+   "label": "OPEN、作り手の調査バッチ48 2026-11-12",
+   "text": "Infective Endocarditis: A Contemporary Review of Epidemiology, Diagnosis, and Management. Antibiotics. 2026;15(5)（CC BY、PMID 42192704、DOI 10.3390/antibiotics15050482、PMC13203618、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、血液培養は微生物学的評価の要であり、急性の病像では抗菌薬開始前に少なくとも3セットの血液培養を短い間隔（1〜2時間以内）で採取することが明記され、「少なくとも3セット」「急ぐ場合は1時間以内に2セット以上」というカードの核が裏づけられる。数値の照合：—。留保：別々の部位からの採取、好気・嫌気ボトル各約10 mL、カテーテル採血の回避、培養期間は通常7日間という運用の細部は候補に再掲がなく、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-029",
+   "label": "OPEN、作り手の調査バッチ48 2026-11-12",
+   "text": "Cardiac Computed Tomography in Infective Endocarditis: A Radiological Perspective on Structural Complications and Emerging Diagnostic Technologies. Tomography. 2026;12(10)（CC BY、PMID 42931489、DOI 10.3390/tomography12100145、PMC13709357、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に収載されたメタ解析で、疣腫の検出感度は経胸壁心エコー（TTE）64%（95%信頼区間57〜70%）に対し経食道心エコー（TEE）94%（同92〜96%）とされ、TEE の感度が90%以上で TTE より高いというカードの方向とほぼ一致する。数値の照合：カードは JCS ガイドラインの記載として TTE 自己弁約70%・人工弁約50%、TEE いずれも90%以上とする。候補のメタ解析値は TTE 64%（57〜70%）・TEE 94%（92〜96%）で、自己弁の TTE と TEE については方向と水準が概ね一致するが、人工弁の TTE 約50% は候補に再掲がない（数値照合として両値を記録）。留保：「疑う全例で TTE」「人工弁・デバイス例で TEE」「陰性でも3〜7日後に再検」という実施の推奨そのものは候補に再掲がなく、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "VD-033",
+   "label": "OPEN、作り手の調査バッチ48 2026-11-12",
+   "text": "2025 ESC/EACTS Valvular Guidelines: imaging perspective over a new treatment direction. Eur Heart J Imaging Methods Pract. 2026;4(1)（CC BY、PMID 41646881、DOI 10.1093/ehjimp/qyag002、PMC12871073、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、連合弁膜症では病変同士の相互作用がドプラ法の前提を歪めること、そのため多角的な画像評価が Heart Team の議論に不可欠であることが明記され、「単弁病変の重症度基準をそのまま適用できず、複数の指標と所見を統合して評価する」というカードの核が裏づけられる。数値の照合：—。留保：主出典（SRC-4393）は区分の訂正対象（区分訂正の節を参照）。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-001",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Meyding-Lamadé U, Craemer EM, Aydin K, et al. S1 guidelines of the German Society of Neurology for Viral Meningoencephalitis - AWMF Registration No.: 030-100. Neurol Res Pract. 2026;8(1)（CC BY、PMID 41998791、DOI 10.1186/s42466-026-00487-3、PMC13091275、新規 SRC 候補）。裏づける部分：候補（ドイツ神経学会の S1 ガイドライン、CC BY）の全文に、側頭葉病変（前頭葉基底部への進展を伴う T2 高信号・拡散制限）が単純ヘルペス脳炎に典型的であること、髄液 HSV PCR がウイルス学的確認の方法で感度95〜100%であること、「抗ウイルス療法は臨床的疑いの時点で直ちに開始し、PCR などの検査結果を待ってはならない」「静注アシクロビルは遅滞なく開始する」ことが明記され、主張の核（側頭葉中心・髄液 PCR・結果を待たない即時投与）が裏づけられる。数値の照合：—。留保：「壊死性」という病理学的な形容は、候補の本文では皮膚病変の文脈に現れるのみで、脳炎自体への逐語の再掲は確認できなかったため、その一点を留保して B。主出典（SRC-1631、IDSA 2008 ガイドライン）は Crossref・Europe PMC のいずれでも CC ライセンスの表示がなく RESTRICTED が正しい。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-005",
+   "label": "GOV_US、作り手の調査バッチ49 2026-11-12",
+   "text": "Centers for Disease Control and Prevention. Clinical Overview of Creutzfeldt-Jakob Disease (CJD)（GOV_US、https://www.cdc.gov/creutzfeldt-jakob/hcp/clinical-overview/、新規 SRC 候補）。裏づける部分：候補（米国 CDC の CJD 臨床概要、実際に開いて本文を確認）に、孤発性 CJD の probable 診断の検査所見として「MRI で尾状核・被殻の高信号、または拡散強調画像（DWI）・FLAIR で少なくとも2つの皮質領域（側頭葉・頭頂葉・後頭葉）の高信号」が明記され、同ページは本カードの主出典（Zerr 2009）を引用している。MRI 所見が臨床診断基準に組み込まれているという主張の核が裏づけられる。数値の照合：孤発性 CJD 症例の83%で陽性という数値は候補に再掲がなく、その数値を留保する（未再掲として記録）。留保：主出典（SRC-1635）は区分の訂正対象（Europe PMC で CC BY-NC を確認、UNKNOWN → RESTRICTED）。CDC の現行ページは RT-QuIC 陽性を軸とする probable 診断の経路も併記しており、診断基準の枠組みの変化としてフラグに記録した。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-008",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Meyding-Lamadé U, Craemer EM, Aydin K, et al. S1 guidelines of the German Society of Neurology for Viral Meningoencephalitis - AWMF Registration No.: 030-100. Neurol Res Pract. 2026;8(1)／Alnomasy SF, Alotaibi BS, Mujamammi AH, et al. Microbial aspects and potential markers for differentiation between bacterial and viral meningitis among adult patients. PLoS One. 2021;16(6)（CC BY、PMID 41998791、DOI 10.1186/s42466-026-00487-3、PMC13091275、新規 SRC 候補）。裏づける部分：候補1（ドイツ神経学会 S1 ガイドライン、CC BY）の全文に、ウイルス性では中等度の細胞増多（通常1000個/µL未満）で蛋白・乳酸の上昇は軽度か無いという髄液像と、髄液乳酸・プロカルシトニンが細菌性とウイルス性の鑑別に有用であることが明記される。候補2（CC BY の比較研究、PMID 34115780、DOI 10.1371/journal.pone.0251518、PMCID PMC8195399）の全文では、細菌性髄膜炎はウイルス性に比べ髄液の白血球数・蛋白が高く糖が低いことが実データで示され、蛋白上昇・糖低下という化学所見の方向は裏づけられる。数値の照合：—。留保：「細菌性＝好中球優位、ウイルス性＝リンパ球優位」という細胞型の対比そのものは、自由な全文（ガイドライン・総説・比較研究）には再掲が見つからなかった（この型の表は MSD マニュアル等の医学百科と制限付きガイドラインにのみ現れる。新ルールでは医学百科を根拠にしない）。その中心要素を留保して B。候補はいずれも出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-010",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Zambelli G, Masetti M, Diona S, et al. Adjunctive Corticosteroids in Pediatric Meningitis: Current Evidence, Clinical Controversies, and Future Directions. Pharmaceuticals. 2026;19(10)（CC BY、PMID 42943260、DOI 10.3390/ph19101563、PMC13708625、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、小児ではデキサメタゾン 0.15 mg/kg を6時間ごとに2〜4日間静注するレジメンが一般的に推奨されること、初回量は最初の抗菌薬投与の直前か同時であるべきことが明記され、用量・間隔・投与タイミングの核が裏づけられる。数値の照合：—。留保：カードは日本のガイドラインが新生児を除く乳幼児・学童および成人にこの併用を推奨するという国内ガイドライン固有の表明であり、候補は小児中心の記述で、成人への適用と「10〜20分前」という時間指定までは再掲がないため、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-011",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Wald ER. Dexamethasone as Adjuvant Therapy for Bacterial Meningitis in Children: What About Streptococcus pneumoniae? Open Forum Infect Dis. 2025;12(8)（CC BY、PMID 40874187、DOI 10.1093/ofid/ofaf456、PMC12378231、新規 SRC 候補）。裏づける部分：候補（CC BY のレビュー）の全文に、2002年の欧州試験（本カードの主出典）について、肺炎球菌性髄膜炎では予後不良がデキサメタゾン群26%・プラセボ群52%（相対危険度0.50）、死亡が14%対34%であったことが明記され、「効果は肺炎球菌性髄膜炎で最も大きかった（予後不良26%対52%）」というカードの数値がそのまま裏づけられる。数値の照合：肺炎球菌性髄膜炎の予後不良26%対52%はカードと一致。全体の予後不良の相対危険度0.59と死亡の相対危険度0.48は候補に再掲がなく、その2数値を留保する。留保：候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-014",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Govender NP, Meintjes G, Falconer J, et al. SAHCS Guideline for the prevention, diagnosis and management of cryptococcal disease among persons living with HIV: Update to induction treatment for cryptococcal meningitis. S Afr J HIV Med. 2026;27(1)（CC BY、PMID 41960304、DOI 10.4102/sajhivmed.v27i1.1789、PMC13058496、新規 SRC 候補）。裏づける部分：候補（南アフリカ HIV 臨床学会のガイドライン更新版、CC BY）の全文に、導入療法の第一選択としてリポソーマルアムホテリシン B 10 mg/kg 単回投与＋フルシトシン（100 mg/kg/日を4分割＝25 mg/kg を1日4回）14日間＋フルコナゾール 1200 mg/日が明記され、カードの単回投与レジメンが用量まで含めて裏づけられる（WHO 2022 ガイドラインと整合する推奨と位置づけられている）。数値の照合：単回レジメンの用量（10 mg/kg、フルシトシン 100 mg/kg/日、フルコナゾール 1200 mg/日）はカードと一致。留保：カードのもう一つのレジメン（リポソーマルアムホテリシン B 3〜4 mg/kg/日＋フルシトシンの2週間投与）は候補に再掲がなく（候補の代替レジメンはデオキシコール酸アムホテリシン B ベース）、その部分を留保して B。主出典（SRC-1641）は PMC に収載があるがライセンス表示はなく RESTRICTED が正しい（PMCID は補完候補として区分訂正の節に記録）。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-015",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Sultan A, Raja H, Abrar A, et al. Cryptococcal Meningitis Beyond Immunosuppression: A Case Report in an Immunocompetent Individual. Case Rep Infect Dis. 2026;2026（CC BY、PMID 42518947、DOI 10.1155/crdi/8630525、PMC13383004、新規 SRC 候補）。裏づける部分：候補（CC BY の症例報告）の全文の治療フェーズ表に、導入療法はリポソーマルアムホテリシン B＋フルコナゾール／フルシトシンを2週間、地固め療法はフルコナゾール 400 mg/日を8週間、維持療法はフルコナゾール 200 mg/日を6〜12か月と明記され、本文でも推奨導入療法としてリポソーマルアムホテリシン B（3〜6 mg/kg/日）とフルシトシン 100 mg/kg/日（＝25 mg/kg を1日4回）の併用が述べられ、非 HIV 例の導入→地固め8週間→維持療法という治療の流れの核が裏づけられる。数値の照合：地固め療法8週間はカードと一致。導入の用量はカード 3〜4 mg/kg/日に対し候補 3〜6 mg/kg/日（候補の範囲が広い）。維持期間はカード12か月に対し候補6〜12か月（カードの値は候補の範囲内）。留保：候補は症例報告で、本文中の併用期間の記述（4〜6週間）とフェーズ表（導入2週間）の間に内部の揺れがある。Cryptococcus gattii 感染症やクリプトコッコーマで4〜6週間への延長を考慮するという要素は候補に明記がなく、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-016",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Leiva-Ordoñez JE, Quintero B. Diagnosis of Tuberculous Meningitis: Integrating Clinical Assessment and Molecular Diagnostics. Diagnostics. 2026;16(4)（CC BY、PMID 41750700、DOI 10.3390/diagnostics16040552、PMC12939813、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、Marais らの統一症例定義（Lancet コンセンサススコア）が臨床・髄液・画像の所見を統合した構造化された診断分類で、definite／probable／possible／非結核性髄膜炎に階層化すること、典型的な髄液像はリンパ球優位の細胞増多・蛋白上昇・糖低下であることが明記され、主張の核が裏づけられる。数値の照合：—。留保：「5日を超える経過」が診断の手がかりになるという要素は候補の本文に逐語の再掲を確認できず（コンセンサススコアの臨床ドメイン自体には症状持続期間が含まれるが、本総説は項目の列挙をしていない）、その部分を留保して B。結核性髄膜炎の国際的な診療ガイドラインが新たに刊行されており（フラグ参照）、次回改訂時の照合対象となる。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-017",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Younas A, Noor R, Shaukat MT, et al. Efficacy and Safety of Corticosteroids in Tuberculous Meningitis: Systematic Review, Meta-Analysis, and Meta-Regression. Brain Behav. 2026;16(8)（CC BY、PMID 42517870、DOI 10.1002/brb3.71639、PMC13411294、新規 SRC 候補）。裏づける部分：候補（CC BY の系統的レビュー・メタ解析、11研究1917例）の全文に、副腎皮質ステロイド併用が全原因死亡を有意に減らすこと（統合相対危険度0.84、95%信頼区間0.76〜0.94）、HIV 非感染例では長期神経学的障害への有意な効果がなかったとする Cochrane レビューの結論が明記され、「死亡は減るが生存者の重度障害は有意には減らない」という主張の結論の方向が裏づけられる。数値の照合：カードの相対危険度0.69は単一の無作為化比較試験（主出典）の値で、候補の統合値は0.84（11研究）。対象が異なるため同一の数値ではないが、方向は一致する（両値を記録）。留保：2025年に刊行された結核性髄膜炎の国際診療ガイドライン（Lancet Infect Dis. 2026;26(2)、CC BY、PMID 40840485、DOI 10.1016/S1473-3099(25)00364-0、PMCID PMC12419961）も HIV 非感染例へのステロイド併用を強い推奨としており、追加の裏づけ候補になる。候補はいずれも出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-018",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Bozzola E, Spina G, Valeriani M, et al. Management of pediatric post-infectious neurological syndromes. Ital J Pediatr. 2021;47(1)（CC BY、PMID 33494818、DOI 10.1186/s13052-021-00968-y、PMC7836589、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、IPMSSG の2013年改訂の定義が引用され、小児 ADEM は「炎症性脱髄が推定される最初の多巣性の中枢神経イベント」で「発熱・全身疾患・痙攣後症状では説明できない脳症」を伴うこと、ADEM は単相性の経過を取りうること、感染後神経症候群としての位置づけが明記され、主張の核が裏づけられる。数値の照合：—。留保：「ワクチン接種に続いて生じる」という要素は候補では感染後の枠組みが中心で、ワクチン後の文脈の逐語の確認が弱く、その部分を留保して B。主出典（SRC-1644）は Crossref・Europe PMC のいずれでも CC ライセンスの表示がなく RESTRICTED と矛盾しない。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-020",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Pourghazi F, Mahmoud O, Petri F, et al. Integrating molecular and conventional diagnostics in native vertebral osteomyelitis: a narrative review. J Bone Jt Infect. 2026;11(3)／Placide R, Reznicek J. Evaluation and Management of Pyogenic Spondylodiscitis: A Review. J Clin Med. 2025;14(10)（CC BY、PMID 42441123、DOI 10.5194/jbji-11-373-2026、PMC13336145、新規 SRC 候補）。裏づける部分：候補1（CC BY の総説）の全文に、血液培養と画像ガイド下生検が起因菌同定の診断の標準であること、血液培養で黄色ブドウ球菌などが陽性なら生検なしにも診断が成立しうるという IDSA ガイドラインの考え方が明記される。候補2（CC BY の総説、PMID 40429472、DOI 10.3390/jcm14103477、PMCID PMC12112070）の全文には、MRI が化膿性脊椎椎間板炎の評価で選択される画像検査（imaging modality of choice）であることが明記され、別の CC BY 総説（Microorganisms. 2026、PMID 42197494）の全文でも起因菌で最も多いのは黄色ブドウ球菌（26.6%）とされる。数値の照合：—。留保：「MRI が最も感度の高い画像検査」という感度の表現そのものは、候補2では「選択される画像検査」の形で支持され、感度最大の逐語は骨シンチグラフィとの比較の文脈（Microorganisms 2026 の総説：MRI 登場まで骨シンチグラフィが最も感度が高かった）から支持される。候補はいずれも出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-021",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Placide R, Reznicek J. Evaluation and Management of Pyogenic Spondylodiscitis: A Review. J Clin Med. 2025;14(10)（CC BY、PMID 40429472、DOI 10.3390/jcm14103477、PMC12112070、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、2015年の無作為化比較試験で6週間レジメンが12週間に対して非劣性だったこと、従来は炎症マーカーが下がらなければ6〜8週間を超えて延長する運用が前提だったことが明記され、「6週間の投与が標準」という主張の核が裏づけられる。数値の照合：—。留保：候補は静注から経口への切替えの早期化という近年の流れも併記しており、6週間という総投与期間の標準性は維持される一方、投与経路の運用は変わりつつある。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-022",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Banik S, Madavi S. Navigating Perioperative Challenges in Pott's Spine: A Comprehensive Review. Cureus. 2024;16(5)（CC BY、PMID 38854265、DOI 10.7759/cureus.59871、PMC11157990、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、結核性脊椎炎は肺または泌尿生殖器の原発巣からの血行性播種で椎体の海綿骨に生じること、古典的には椎体前部から侵されること、治療は抗結核化学療法と整形外科的介入の組合せで、後弯などの変形や神経障害への対応が手術の文脈であることが明記され、主張の核が裏づけられる。数値の照合：—。留保：候補は手術を主題とする総説のため、「手術は高度の後弯や神経障害を呈する例に限られる」という限定の表明は候補の手術適応の議論とは角度が異なり、その部分を留保して B。主出典（SRC-1647）は区分の訂正対象（Europe PMC で CC BY-NC を確認、UNKNOWN → RESTRICTED）。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-023",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Hajósi-Kalcakosz S, Varga E, Őri D, et al. Clinical Characteristics and Follow-Up of Children with Primary Haematogenous Osteomyelitis and Septic Arthritis. Antibiotics. 2025;14(8)（CC BY、PMID 40868015、DOI 10.3390/antibiotics14080821、PMC12382815、新規 SRC 候補）。裏づける部分：候補（CC BY のコホート研究）の全文に、小児の原発性血行性骨髄炎では黄色ブドウ球菌が最も多い起因菌（57.5%）で、全例に経験的抗菌薬（抗ブドウ球菌薬のフルクロキサシリンが最多）が投与されたこと、現在の欧州のガイダンスでは急性血行性骨髄炎の総投与期間は3〜4週間が推奨されることが明記され、主張の核が裏づけられる。数値の照合：投与期間はカード「通常4週間が標準」に対し、候補の紹介する欧州ガイダンスは総投与期間3〜4週間。カードの4週間は候補の範囲の上限と一致するが、現在の推奨の中心はやや短い（両値を記録し、フラグにも挙げた）。留保：主出典（SRC-1648、Am Fam Physician 2011）は © AAFP で RESTRICTED が正しい。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-024",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Sambri A, Bruschi A, Scollo C, De Paolis M. Local Antibiotic-Loadable Carriers for the Treatment of Chronic Osteomyelitis: A Narrative Review. Bioengineering. 2026;13(4)（CC BY、PMID 42072230、DOI 10.3390/bioengineering13040436、PMC13113539、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、慢性骨髄炎は腐骨（壊死した死骨）の存在を特徴とし、血流を失った腐骨が細菌を宿主免疫と抗菌薬から守ること、管理のゴールドスタンダードは外科的治療と薬物治療の組合せ（徹底したデブリドマンが中心）であること、見かけ上成功した治療の後も数年して晩期再発が起こりうることが明記され、主張の核が裏づけられる。数値の照合：—。留保：「再発率は高い」の定量的な水準は候補では再発と再手術のアウトカムとして論じられるにとどまり、特定の再発率の数値はカード自体にも置かれていない。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-025",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Khodadadi RB, Matsuo T, Reasoner KC, et al. State-of-the-Art Review: Native Joint Septic Arthritis Epidemiology, Pathogenesis, Microbiology, Diagnosis, Management, and Outcomes. Clin Infect Dis. 2026;83(4)（CC BY、PMID 42950136、DOI 10.1093/cid/ciag473、PMC13715976、新規 SRC 候補）。裏づける部分：候補（CC BY の最新の総説）の全文に、自己関節の化膿性関節炎は時間的緊急性の高い救急病態であること、疑えば速やかな関節穿刺と関節液検査を血液培養と並んで優先すること、起因菌は黄色ブドウ球菌が最も多く（次いでレンサ球菌）であることが明記され、主張の核が裏づけられる。数値の照合：治療期間はカード「通常2〜6週間」に対し、候補はガイドラインパネルの示す総投与期間4〜6週間、大関節の症例の多くは3〜4週間が適切とする（両値を記録）。カードの下限2週間は候補の枠組みより短い。留保：「関節液を採取した後に経験的抗菌薬を開始する」という順序は、候補では穿刺と関節液検査を優先する評価の流れとして実質的に支持される。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-026",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Mihailov MD, Manea MS, Olariu IC, Doros GS. The Anti-Vaccine Legacy: Re-Emergence of Subacute Sclerosing Panencephalitis in Children. NeuroSci. 2026;7(2)（CC BY、PMID 42042625、DOI 10.3390/neurosci7020044、PMC13118877、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、SSPE は麻疹ウイルスの持続感染による慢性進行性の中枢神経変性疾患で、発症は初感染の数年後であること、症状は認知低下や行動・性格の変化に始まり周期性ミオクローヌスなどの運動症状へ進むこと、診断は髄液／血清の抗麻疹抗体価上昇という免疫学的証拠と脳波の周期性放電に支えられること、死亡率は約95%と極めて高く、第I期から最終期まで1〜5年で死亡に至ることが明記され、主張の核が裏づけられる。数値の照合：発症までの期間はカード「麻疹罹患から平均6年後」に対し、候補の症例集積では平均潜伏期間7.1年（範囲4〜9年）。一般論としての「数年後」は一致するが、平均値の置き方は出典により異なる（両値を記録）。留保：候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-027",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Karabulut S, Uyaroğlu HO, Barçın E. Seronegative Autoimmune Encephalitis: A Case Report and Literature Review on Psychiatric Presentations. Case Rep Psychiatry. 2026;2026（CC BY、PMID 42516543、DOI 10.1155/crps/9618597、PMC13402879、新規 SRC 候補）。裏づける部分：候補1（CC BY の症例報告・文献レビュー）の全文に、Graus 2016 の possible autoimmune encephalitis の基準がほぼそのまま再掲される：3か月未満の亜急性の経過で記憶障害・精神状態の変化・精神症状のいずれかが現れ、新規の局所神経所見・新規発症のけいれん発作・髄液細胞増多・脳炎を示唆する MRI 所見のうち少なくとも1つを伴うこと。候補2（CC BY の総説、PMID 41904946、DOI 10.1002/advs.202519049、PMCID PMC13326022）の全文には、Graus らの基準は特異的抗体結果が得られる前でも適用でき、早期の治療開始につながる枠組みであることが明記され、「抗体検査の結果を待たずに臨床症候群から診断を進める」という主張の枠組みも裏づけられる。数値の照合：—。留保：髄液細胞増多の閾値（5個/mm³超）と「他の原因が合理的に除外できる」という要素は候補1の再掲には含まれず、その部分を留保して B。主出典（SRC-1625）は PMC に著者原稿が収載されるがライセンス表示はなく RESTRICTED が正しい（PMCID は補完候補として区分訂正の節に記録）。候補はいずれも出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-028",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Vampertzi O, Iosifidis E, Zelilidou A, et al. Infections and Anti-N-Methyl-D-Aspartate Receptor Encephalitis in Children and Adolescents: A Scoping Review of Evidence Since the COVID-19 Pandemic. Children. 2026;13(10)／Wu CY, Wu JD, Chen CC. The Association of Ovarian Teratoma and Anti-N-Methyl-D-Aspartate Receptor Encephalitis: An Updated Integrative Review. Int J Mol Sci. 2021;22(20)（CC BY、PMID 42940620、DOI 10.3390/children13101301、PMC13703472、新規 SRC 候補）。裏づける部分：候補1（CC BY のスコーピングレビュー）の全文に、抗 NMDA 受容体脳炎は若年女性に多く、女性対男性比は約4:1、発症年齢の中央値は21歳と明記される。候補2（CC BY の総説、PMID 34681570、DOI 10.3390/ijms222010911、PMCID PMC8535897）の全文には、18歳を超える女性で卵巣奇形腫の頻度が56%だったという報告が明記され、腫瘍合併の水準も裏づけられる。数値の照合：腫瘍合併はカード「18歳以上の女性で約58%（多くは卵巣奇形腫）」に対し、候補2は「18歳を超える女性で卵巣奇形腫56%」（奇形腫に限る別のコホートの値）。58%は全腫瘍の割合で、数値は近接するが同一の指標ではない（両値を記録）。留保：臨床経過の段階的な進行（精神症状で始まり、言語障害・ジスキネジアやカタトニア・自律神経不安定・意識低下へ）は、複数の CC BY 総説・症例報告に定性的な再掲があるが、数値の裏づけを担う候補1・2には含めなかった。主出典（SRC-1625）は NI-027 と共通。候補はいずれも出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-029",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Liu CY, Zhu J, Zheng XY, et al. Anti-N-Methyl-D-aspartate Receptor Encephalitis: A Severe, Potentially Reversible Autoimmune Encephalitis. Mediators Inflamm. 2017;2017（CC BY、PMID 28698711、DOI 10.1155/2017/6361479、PMC5494059、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、第一選択免疫療法は副腎皮質ステロイド・免疫グロブリン静注・血漿交換で、腫瘍が見つかれば摘出を検討すること、第一選択で改善しない例にはリツキシマブ・シクロホスファミドなどの第二選択免疫療法が用いられることが明記され、さらに本カードの主出典のコホートについて、追跡された501例のうち472例（94%）が第一選択免疫療法または腫瘍摘出を受け、その約50%が4週以内に改善し、第一選択に反応しなかった221例中125例が第二選択を受けて、受けなかった例より転帰が良かったことが明記され、主張の核が裏づけられる。数値の照合：4週以内の改善はカード53%（577例コホート）に対し、候補は「約50%」（追跡された501例を分母とする概数表記）で実質一致する。留保：「治療開始が早いことが転帰良好の予測因子」という要素は、候補では抗体価の早期低下と転帰の関係などの形で論じられ、逐語の再掲は弱いため、その一点を留保して B。主出典（SRC-1626）は PMC に著者原稿が収載されるがライセンス表示はなく RESTRICTED が正しい（PMCID は補完候補として区分訂正の節に記録）。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "NI-030",
+   "label": "OPEN、作り手の調査バッチ49 2026-11-12",
+   "text": "Zambelli G, Masetti M, Diona S, et al. Adjunctive Corticosteroids in Pediatric Meningitis: Current Evidence, Clinical Controversies, and Future Directions. Pharmaceuticals. 2026;19(10)／Román-Montes CM, Pérez-López VA, Avalos-Celis NE, et al. Outcomes of acute meningitis according to immunosuppression status: 15-year retrospective cohort. PLoS One. 2026;21(3)（CC BY、PMID 42943260、DOI 10.3390/ph19101563、PMC13708625、新規 SRC 候補）。裏づける部分：候補1（CC BY の総説）の全文に、古典的三徴がそろうのを待たずに評価と治療を開始すること、穿刺前の画像検査は適応を限って行うこと、穿刺が遅れる場合は血液培養を採取して直ちに治療を開始すること、経験的抗菌薬は受診後1時間以内を理想とすることが明記される。候補2（CC BY のコホート研究、PMID 41875396、DOI 10.1371/journal.pone.0344150、PMCID PMC13012731）の全文では、古典的三徴がそろったのは免疫抑制の有無にかかわらず約2割（19〜21%）にとどまり、カードの「半数以下」という記述と一致する。数値の照合：三徴の頻度はカード「半数以下」に対し、候補2は19〜21%で、カードの範囲内に収まる。留保：ESCMID ガイドライン固有の CT 先行の4条件（局所神経脱落所見・新規発症のけいれん発作・GCS 10未満・高度の免疫不全）の逐条の再掲は候補になく、その細部を留保して B。候補1は小児中心の総説だが、1時間以内の目標や血液培養先行の原則は年齢を問わない形で述べられている。候補はいずれも出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "KT-001",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Qasim H, Ktaifan M, Awawdeh A, et al. Hypertensive Nephrosclerosis: Pathological Changes and Overlap with Diabetic Nephropathy. Cureus. 2025（CC BY、PMID 41141162、DOI 10.7759/cureus.92949、PMC12547650、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、高血圧患者では腎硬化症はしばしば除外による推定診断であり、非典型的な経過の例では生検を考慮することが明記され、「確定診断は腎生検だが、生検は疑わしい例・非典型的な例に限られ、多くの場合は臨床的な推定診断にとどまる」という主張の核が裏づけられる。数値の照合：—。留保：「有病率と発症率は不明」との明記は候補に確認できず、その一点を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "KT-003",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Woittiez AJJ, Postma CT, de Leeuw PW. Atherosclerotic Renovascular Disease: A Re-evaluation of Lesion Severity and Intervention. Kidney Med. 2026（CC BY、PMID 42290668、DOI 10.1016/j.xkme.2026.101406、PMC13254871、新規 SRC 候補）。裏づける部分：候補（CC BY の再評価総説）の全文に、フラッシュ肺水腫・治療抵抗性高血圧・腎機能低下といった腎血管性疾患の徴候がある例では CT 血管造影や MR 血管造影によるスクリーニングを行いうること、諸試験の適格基準にデュプレックス（ドプラ）超音波の基準が使われてきたことが明記され、腎の側の画像評価という主張の核が裏づけられる。数値の照合：—。留保：「二次性高血圧の最も多い原因」という位置づけの逐語は候補になく、その点を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "KT-007",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Riva N, Gatt A, Gauci MA, et al. Renal Vein Thrombosis: A Narrative Review. Diagnostics. 2026;16(12)（CC BY、PMID 42351464、DOI 10.3390/diagnostics16121805、PMC13298574、新規 SRC 候補）。裏づける部分：候補（CC BY の叙述的総説）の全文に、CT 静脈造影でスクリーニングした中国のネフローゼ症候群コホートで腎静脈血栓症の頻度が22%であったことが、主出典の研究として明記され、腎静脈血栓症22%（505例中112例）という数値が裏づけられる。数値の照合：腎静脈血栓症22%はカードと一致。肺塞栓症との合算35%、成人38%・小児19%の内訳、関連する組織型では膜性腎症が最も多いという要素は候補に再掲がなく、その部分を留保する。留保：候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "KT-010",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Hopkins J, Nolan J, Ladhani M, Lee C. Always Consider a Repeat Kidney Biopsy: Acute Interstitial Nephritis Soon After Membranous Nephropathy. Case Rep Nephrol. 2026（CC BY、PMID 41630985、DOI 10.1155/crin/2277958、PMC12860571、新規 SRC 候補）。裏づける部分：候補（CC BY の症例報告）の全文に、「急性間質性腎炎は急性腎障害の評価のために行われた腎生検の約15〜27%に同定される」「薬剤性が最も多く（最大75%）、主な原因薬剤は抗菌薬・非ステロイド性抗炎症薬・プロトンポンプ阻害薬である」ことが明記され、頻度と主な原因薬剤という主張の核が数値まで含めて裏づけられる。数値の照合：生検例での割合15〜27%はカードと一致。留保：腎外症状（発熱・皮疹・関節痛・好酸球増多）が診断の手がかりになるという一般論と、間質への炎症細胞浸潤という病理像は、候補では当該症例の経過の中での言及にとどまり、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "KT-011",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Belliere J, Sprangers B, et al. Immune checkpoint inhibitor-associated interstitial nephritis: let's move forward addressing the unknowns. Clin Kidney J. 2026（CC BY、PMID 42871820、DOI 10.1093/ckj/sfag333、PMC13659234、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、免疫チェックポイント阻害薬関連の急性間質性腎炎では副腎皮質ステロイドの早期開始（3日以内）が予後の良好さと関連すること、組織学的にリンパ球浸潤を認め、ステロイド治療で腎機能の回復が得られることが明記され、「原因薬剤の中止を基本とし、ステロイドは早期投与で回復を改善する」という主張の方向が裏づけられる。数値の照合：開始時期はカード「診断後7日以内」に対し候補は「3日以内」（免疫チェックポイント阻害薬関連例での報告）。対象も閾値も異なるため同一の数値ではないが、早期ほど良いという方向は一致する（両値を記録し、フラグにも挙げた）。留保：間質の線維化が進んだ後に開始した遅い投与では効果が乏しいという要素は候補に再掲がなく、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "KT-012",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Hussain A, Moniot JL, Sumaya M, Hughes DM. Multiple Myeloma and Renal Health: Navigating Selected Clinical Complexities. Cureus. 2026（CC BY、PMID 42824767、DOI 10.7759/cureus.115585、PMC13629410、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、円柱腎症は多発性骨髄腫で最も多い腎合併症で、遊離軽鎖が遠位尿細管でウロモジュリン（Tamm-Horsfall 蛋白）と相互作用して不溶性の円柱を形成すること、腎障害への対応としてボルテゾミブを基盤とする療法と十分な補液・腎毒性物質の回避が要であることが明記され、機序と治療の核が裏づけられる。数値の照合：—。留保：「新規診断例の標準はボルテゾミブと高用量デキサメタゾンの併用」という逐条の表現は候補ではレジメン図の提示にとどまり、その細部を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "KT-014",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Giannese D, Mori C, et al. Kidney Involvement in Primary Sjögren Syndrome: Focus on Tubulointerstitial Nephritis. Medicina. 2026;62(10)（CC BY、PMID 42942559、DOI 10.3390/medicina62102028、PMC13706922、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、原発性 Sjögren 症候群の腎病変の頻度は大規模観察研究で約5%から10%超と幅があること、尿細管間質性腎炎は形質細胞を含むリンパ形質細胞性浸潤を特徴とすること、遠位尿細管性アシドーシスが最も多い臨床型であること、Fanconi 症候群や Gitelman 症候群様の異常がありうること、糸球体病変としてクリオグロブリン血症が挙げられることが明記され、主張の核が裏づけられる。数値の照合：頻度はカード「10%未満」に対し候補は約5%〜10%超（観察研究により幅）。カードの値は候補の範囲とおおむね重なるが上限は候補が上回る（両値を記録し、フラグにも挙げた）。留保：「最も多い病型は尿細管間質性腎炎」という逐語と、クリオグロブリン血症に伴う膜性増殖性糸球体腎炎が糸球体病変で多いという内訳は候補に明記がなく、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "KT-015",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Wei B, et al. Ultrasonographic features of IgG4-related kidney disease: diagnostic value and correlation with clinical-pathological findings. Front Med. 2025（CC BY、PMID 41480534、DOI 10.3389/fmed.2025.1664308、PMC12753392、新規 SRC 候補）。裏づける部分：IgG4 関連腎臓病の基質が尿細管間質性腎炎であること、低補体血症が多いこと（C3・C4 の低下が検査例の100%・81.8%）、治療例の全例で副腎皮質ステロイドが主治療だったこと。留保：中高年男性に多いこと、IgE 高値、膜性腎症などの糸球体病変の併存は載らない。作り手が併記した難病情報センターのページは政府資料でないため使わない"
+  },
+  {
+   "card": "KT-016",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Ahamad R, et al. Oxidative Stress-Driven Mechanisms and Biomarkers of Drug-Induced Nephrotoxicity: Translational Insights and Therapeutic Implications. Antioxidants. 2026;15(4)（CC BY、PMID 42072055、DOI 10.3390/antiox15040412、PMC13114065、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、シスプラチンは有機カチオントランスポーター2（OCT2）を介して近位尿細管細胞内に蓄積して障害すること、テノホビルは近位尿細管のトランスポーター機能障害を介して尿細管障害を起こすこと、メトトレキサートを含む化学療法薬では尿細管内の沈着（結晶）が障害機序になることが明記され、「薬剤の腎での輸送と蓄積が障害の機序になる」という主張の核が裏づけられる。数値の照合：—。留保：アミノグリコシドが近位尿細管の管腔側からエンドサイトーシスで取り込まれるという機序は候補に明記がなく、その1剤を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "KT-019",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Bot (Rachisan) AL, Colceriu MC, Jecan-Toader D, et al. ATP6V1B1-Associated Inherited Distal Renal Tubular Acidosis in Children: Insights from a Literature Review. Children. 2026;13(3)（CC BY、PMID 41897147、DOI 10.3390/children13030436、PMC13025507、新規 SRC 候補）。裏づける部分：候補（CC BY の文献レビュー）の全文に、原発性遠位型尿細管性アシドーシスの原因遺伝子として ATP6V1B1・ATP6V0A4・SLC4A1（ほかに FOXI1・WDR72）が挙げられること、腎石灰化・成長遅延・低クエン酸尿を来すこと、アルカリ療法で成長と代謝のコントロールが改善することが明記され、主張の核が裏づけられる。数値の照合：—。留保：高カルシウム尿の逐語は候補になく（慢性代謝性アシドーシスによる骨からのカルシウム動員と低クエン酸尿の文脈で述べられる）、腎結石・くる病は骨疾患の一般論にとどまるため、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "KT-020",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Vecino-Pérez M, García-Murias M, Carrera N, et al. Molecular Basis of Rare Inherited Tubulopathies of the Kidney: A Primer for Clinicians. Int J Mol Sci. 2026;27(9)／Gomes C, Pichone A, de Farias M. Importance of Recognizing Renal Tubular Disorders as a Cause of Bone Hypomineralization and Fractures in Adults. Diagnostics. 2026;16(12)（CC BY、PMID 42123522、DOI 10.3390/ijms27093940、PMC13163728、新規 SRC 候補）。裏づける部分：候補1（CC BY の尿細管疾患プライマー）の遺伝子表に、近位型尿細管性アシドーシスは基底膜側のナトリウム重炭酸共輸送体 NBCe1（SLC4A4）の変異による常染色体潜性遺伝の疾患として明記される。候補2（CC BY の総説、PMID 42351558、DOI 10.3390/diagnostics16121898、PMCID PMC13298897）の全文には、テノホビルやイホスファミドによる薬剤性の Fanconi 型近位尿細管障害が明記され、「後天性では薬剤性が多い」という要素も裏づけられる。数値の照合：—。留保：重炭酸だけの単独障害はまれで多くは Fanconi 症候群に伴うという一般論と、バルプロ酸の原因薬としての再掲は候補になく、その部分を留保して B。候補はいずれも新規 SRC 登録候補"
+  },
+  {
+   "card": "KT-021",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Elmonem MA, Veys KR, Soliman NA, van Dyck M, van den Heuvel LP, Levtchenko E. Cystinosis: a review. Orphanet J Rare Dis. 2016;11:47（CC BY、PMID 27102039、DOI 10.1186/s13023-016-0426-y、PMC4841061、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、シスチノーシスは小児の遺伝性 Fanconi 症候群の最も多い原因で、リソソームのシスチン輸送体シスチノシン（CTNS 遺伝子）の欠損による常染色体潜性遺伝の蓄積症であること、腎臓は生後1年以内に近位尿細管障害で最初に障害されること、システアミン治療が末期腎不全への進行を6〜10年遅らせることが明記され、主張の核が裏づけられる。数値の照合：—。留保：「確立した Fanconi 症候群そのものは是正できない」という要素は候補に逐語の再掲がなく、その一点を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "KT-022",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Vecino-Pérez M, García-Murias M, Carrera N, et al. Molecular Basis of Rare Inherited Tubulopathies of the Kidney: A Primer for Clinicians. Int J Mol Sci. 2026;27(9)（CC BY、PMID 42123522、DOI 10.3390/ijms27093940、PMC13163728、新規 SRC 候補）。裏づける部分：候補（CC BY のプライマー）の全文に、シスチン尿症は最も多い遺伝性の原発性アミノ酸尿で、シスチンと二塩基性アミノ酸の輸送体ヘテロ二量体（rBAT と b0,+AT、遺伝子 SLC3A1 と SLC7A9）の変異により、溶解度の低いシスチンが析出して結石を形成することが明記され、病態の核が裏づけられる。数値の照合：—。留保：小児の腎結石の原因として一定の割合を占めること、治療は再発する結石の予防を目的に行われることは候補に明記がなく、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "KT-023",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Flynn K, Hatfield J, Brown K, Vietor N, Hoang T. Central and nephrogenic diabetes insipidus: updates on diagnosis and management. Front Endocrinol. 2024;15（CC BY、PMID 39845881、DOI 10.3389/fendo.2024.1479764、PMC11750692、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、先天性腎性尿崩症の約90%は AVPR2 遺伝子の変異によること、バソプレシンは集合管の V2 受容体を介してアクアポリン2による水の再吸収を担うこと、腎性尿崩症を起こす薬剤で最も多いのはリチウムである（リチウム治療例の40〜55%に発症）ことが明記され、主張の核が裏づけられる。数値の照合：—。留保：AQP2 変異の割合や、生化学的異常・閉塞性尿路障害などの二次性の列挙は候補に分散しており、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "KT-025",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Zhu L, Li Y, Bao Y. Molecular Genetics of Bartter Syndrome: Bridging Genotype-Phenotype Correlations and Precision Therapeutics. Curr Issues Mol Biol. 2026;48(4)（CC BY、PMID 42042082、DOI 10.3390/cimb48040422、PMC13114623、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、Bartter 症候群の中核となる原因遺伝子は SLC12A1・KCNJ1・CLCNKB・BSND（ほかに MAGED2）であること、型によって羊水過多・腎石灰化・感音難聴（バルチンの型）を伴うこと、低カリウム性代謝性アルカローシスを呈することが明記され、主張の核が裏づけられる。数値の照合：有病率「人口約100万人に1人」は候補に再掲がなく、その数値を留保する（未再掲として記録）。留保：MAGED2 を含む遺伝子の範囲の変化はフラグに記録した。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "KT-026",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Vecino-Pérez M, García-Murias M, Carrera N, et al. Molecular Basis of Rare Inherited Tubulopathies of the Kidney: A Primer for Clinicians. Int J Mol Sci. 2026;27(9)（CC BY、PMID 42123522、DOI 10.3390/ijms27093940、PMC13163728、新規 SRC 候補）。裏づける部分：候補（CC BY のプライマー）の全文に、Gitelman 症候群は SLC12A3（サイアザイド感受性 Na-Cl 共輸送体 NCC）の不活化変異による常染色体潜性遺伝の疾患であること、低マグネシウム血症（TRPM6 の発現低下による）と低カルシウム尿が鑑別の特徴で、小児期後期から成人期に診断されること、治療は塩分の自由な摂取と経口のカリウム・マグネシウム補充が中心であることが明記され、主張の核が裏づけられる。数値の照合：—。留保：「多くは偶然の検査所見や軽い非特異的な症状をきっかけに見つかる」という発見経緯の逐語は候補に弱く、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "KT-028",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Vecino-Pérez M, García-Murias M, Carrera N, et al. Molecular Basis of Rare Inherited Tubulopathies of the Kidney: A Primer for Clinicians. Int J Mol Sci. 2026;27(9)／Zhu L, Li Y, Bao Y. Molecular Genetics of Bartter Syndrome. Curr Issues Mol Biol. 2026;48(4)（CC BY、PMID 42123522、DOI 10.3390/ijms27093940、PMC13163728、新規 SRC 候補）。裏づける部分：候補1（CC BY のプライマー）の全文に、Gitelman 症候群と Bartter 症候群の鑑別点として、低マグネシウム血症と低カルシウム尿が Gitelman 症候群の特徴で診断時期が小児期後期から成人期であることが明記され、障害部位の違い（ヘンレループの太い上行脚と遠位曲尿細管）は両症候群の原因遺伝子と対象輸送体の表で裏づけられる。候補2（CC BY の Bartter 総説、PMID 42042082、DOI 10.3390/cimb48040422、PMCID PMC13114623）には、Bartter 症候群で腎石灰化が目立つ型があることが明記される。数値の照合：—。留保：Bartter 症候群では尿中カルシウム排泄が正常から増加するという対比の逐語は候補1・2に分散しており、その部分を留保して B。候補はいずれも新規 SRC 登録候補"
+  },
+  {
+   "card": "KT-029",
+   "label": "OPEN、作り手の調査バッチ50 2026-11-12",
+   "text": "Qasim H, Ktaifan M, Awawdeh A, et al. Hypertensive Nephrosclerosis: Pathological Changes and Overlap with Diabetic Nephropathy. Cureus. 2025／Kanbay M, Copur S, Sarafidis P, Ferro CJ, Ortiz A, et al. 2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a commentary from the European Renal Best Practice (ERBP). Nephrol Dial Transplant. 2026（CC BY、PMID 41141162、DOI 10.7759/cureus.92949、PMC12547650、新規 SRC 候補）。裏づける部分：候補1（CC BY の総説）の全文に、高血圧性腎硬化症は多くの地域で糖尿病性腎症に次ぐ末期腎不全の原因であること、その管理の中心は積極的な血圧管理であることが明記される。候補2（CC BY の ERBP コメンタリー、PMID 41805831、DOI 10.1093/ndt/gfag055、PMCID PMC13624793）の全文では、2025年 AHA/ACC ガイドラインの一般目標として診察室血圧130/80 mmHg未満が紹介され、「130 mmHg未満」という水準の方向が裏づけられる。数値の照合：血圧目標はカード「130 mmHg未満（2010年の総説での議論）」に対し、候補2は一般目標として130/80 mmHg未満でおおむね一致する。ただし KDIGO 2021 は標準化測定での収縮期血圧120 mmHg未満を推奨しており、枠組みにより目標が異なる（両値を記録し、フラグにも挙げた）。留保：アルブミン尿の低減と、RAAS 阻害薬を中心にカルシウム拮抗薬・利尿薬を組み合わせるという薬剤構成の逐条の再掲は候補に薄く、その部分を留保して B。候補はいずれも新規 SRC 登録候補"
+  },
+  {
+   "card": "UR-001",
+   "label": "OPEN、作り手の調査バッチ51 2026-11-12",
+   "text": "Mavridis C, Bouchalakis A, Tsagkaraki V, Somani BK, Mamoulakis C, Tokas T. Recurrent Urinary Stone Formers: Imaging Assessment and Endoscopic Treatment Strategies: A Systematic Search and Review. J Clin Med. 2024;13(12):3461（CC BY、PMID 38929988、DOI 10.3390/jcm13123461、PMC11204450、新規 SRC 候補）。裏づける部分：候補（CC BY の系統的レビュー）の全文に、超音波検査は尿管結石では感度45%と低いが特異度94%と高く、容易に利用でき費用対効果に優れるため特定の患者群では第一選択となりうることが明記され、超音波の感度・特異度と第一選択という位置づけが裏づけられる。数値の照合：超音波の尿管結石での感度45%・特異度94%はカードと一致。低線量CTの感度93.1%・特異度96.6%と、超音波で確定できない場合の標準は非造影CTであるという逐条の位置づけ、結石の成分分析と負荷の評価が治療選択を左右するという要素は候補に再掲がなく、その部分を留保する。留保：候補は出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "UR-002",
+   "label": "OPEN、作り手の調査バッチ51 2026-11-12",
+   "text": "Almaghthawi MM, Alotaibi EA, Alotaibi MS, Alomari RW, Alsulami YD, Alahamdi MA, Aljaddua SIS, Alruhaili WAA, Hijazi EM, Alkharboosh AS, Almurshed OA, Alshammari AH. Efficacy of alpha-blockers in medical expulsive therapy for ureteral stones: A systematic review and meta-analysis of randomized controlled trials between 2010 and 2025. Arab J Urol. 2026;24(1):1-14（CC BY、PMID 41509089、DOI 10.1080/20905998.2025.2532196、PMC12777816、新規 SRC 候補）。裏づける部分：候補（CC BY の系統的レビュー・メタアナリシス、2010〜2025年の無作為化試験）の全文に、α遮断薬は対照に比べて排石率を高め（70.9%対56.5%）、排石までの期間を短縮し、利益は5 mm未満の小さな結石では控えめで5〜10 mmの結石で大きいことが明記され、主張の方向と結石サイズによる利益の違いが裏づけられる。数値の照合：候補の統合値はカード（主出典の2016年のメタアナリシス）と異なる。排石のリスク比はカード1.49に対し候補1.25（95%信頼区間1.20〜1.32）、大きな結石ではカード1.57に対し候補は5〜10 mmで1.35、排石までの期間の短縮はカード平均3.79日に対し候補は平均差−2.96日。方向は一致するが候補の値が小さく、両値を記録してフラグにも挙げた。手術介入と入院のリスク低下は候補の副次アウトカムに含まれず、その部分を留保する。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典 SRC-692 自体は CC BY-NC で自由利用にならない（区分の節に記録）"
+  },
+  {
+   "card": "UR-003",
+   "label": "OPEN、作り手の調査バッチ51 2026-11-12",
+   "text": "Collingridge A, O'Callaghan M. Seminal papers in urology: urinary volume, water and recurrences in idiopathic calcium nephrolithiasis: a 5-year randomized prospective study. BMC Urol. 2024;24(1):30（CC BY、PMID 38310269、DOI 10.1186/s12894-024-01416-9、PMC10838424、新規 SRC 候補）。裏づける部分：候補（CC BY の古典論文レビュー）の全文に、主出典の試験（初発の特発性カルシウム結石の患者99例を尿量2 L/日以上を目指して水分摂取を増やす群、100例を通常群に割り付けた5年間の無作為化前向き試験）について、再発率が12.1%対27%（p=0.008）、再発までの期間が38.7か月対25か月と再掲され、主張の数値の核が裏づけられる。数値の照合：再発率27.0%から12.1%への低下（p=0.008）はカードと一致。再発までの平均期間はカード25.1か月に対し候補は25か月（±16.4）と概数で示され、38.7か月は一致する。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典 SRC-693 の区分訂正（UNKNOWN→RESTRICTED）は区分の節に記録する"
+  },
+  {
+   "card": "UR-007",
+   "label": "OPEN、作り手の調査バッチ51 2026-11-12",
+   "text": "Been RA, Voets PJGM, van Rhijn-Brouwer FCC, Vogtländer NPJ. A lesson for the clinical nephrologist: desmopressin and its unforeseen efficacy in clinical post-obstructive diuresis. J Nephrol. 2024;37(2):515-517／Rigonalli U, Sigg S, Moos SV, Baumeister P, Mattei A, Fankhauser CD, Affentranger A. Prevalence and Clinical Implications of Post-obstruction Hyperdiuresis Among Patients with Urinary Retention: A Mini Review. Eur Urol Open Sci. 2025;73:68-70（CC BY、PMID 37856066（候補2は 40041096）、DOI 10.1007/s40620-023-01782-x（候補2は 10.1016/j.euros.2025.01.017）、PMC11043196（候補2は PMC11879703）、新規 SRC 候補）。裏づける部分：候補1（CC BY の症例レビュー）の全文に、「閉塞後利尿は、閉塞の原因の解除後に200 mL/時を超える利尿が少なくとも2時間続くこと、または24時間で3,000 mLを超えることと定義される」と明記され、カードの定義が裏づけられる。候補2（CC BY のミニレビュー）も同じ定義（200 mL/時が2時間連続、または24時間で3 Lを超える）を挙げ、危険因子として血清クレアチニン高値（オッズ比4.83）と膀胱内尿量の多さ（100 mL増えるごとのオッズ比1.21）を統計的に示した研究を再掲しており、危険因子の方向も裏づけられる。数値の照合：定義（尿量200 mL/時以上が2時間以上、または3 L/日以上）は両候補と一致。頻度はカード「完全な両側閉塞の解除後では最大で約半数」に対し、候補2は尿閉のコホート全体で15〜78%の範囲を示し、対象集団が異なる（両値を記録）。輸液補充はカード「前1時間の尿量の50%を輸液で補う方法」に対し、候補2が再掲する唯一の管理の研究は尿量の67%の補充で、割合が異なる（両値を記録し、フラグにも挙げた）。留保：候補はいずれも出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "UR-011",
+   "label": "GOV_US、作り手の調査バッチ51 2026-11-12",
+   "text": "ClinicalTrials.gov 結果レコード NCT00405704（Randomized Intervention for Children With Vesicoureteral Reflux（RIVUR））（GOV_US、新規 SRC 候補、API で取得）（GOV_US、PMID NCT NCT00405704、https://clinicaltrials.gov/study/NCT00405704、新規 SRC 候補）。裏づける部分：登録レコードの結果セクションに、主要アウトカム（2年間の有熱性または症候性の尿路感染症の再発）がトリメトプリム・スルファメトキサゾール合剤群39例・プラセボ群72例（開始時は302例・305例）と掲載され、腎瘢痕のアウトカムも27例対24例と、瘢痕の発生が減らなかったことと整合する数値が掲載される。数値の照合：再発39例対72例はカードと一致。ハザード比0.50（95%信頼区間0.34〜0.74）そのものはレコードに掲載がない。再発時の大腸菌における同合剤への耐性の割合（予防群63%・プラセボ群19%）もレコードになく、レコードにあるのは直腸スワブでの耐性大腸菌の保有（56例対41例）と、耐性大腸菌による再発（19例対11例）で、指標が異なる。その2要素を留保する。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典 SRC-698 の区分訂正（UNKNOWN→RESTRICTED）は区分の節に記録する"
+  },
+  {
+   "card": "UR-015",
+   "label": "OPEN／GOV_US、作り手の調査バッチ51 2026-11-12",
+   "text": "Sochowska J, Buczkowska A, Danieluk J, Adamaszek N, Glinski M, Kacprzak U, Stochaj L, Flejszman M, Wojcik J, Dolega-Mostowska D. Recurrent Urinary Tract Infections in Women: Current Management Guidelines and Therapeutic Options. Cureus. 2026;18(8):e114267／US Preventive Services Task Force; Owens DK, Davidson KW, Krist AH, et al. Screening for Asymptomatic Bacteriuria in Adults: US Preventive Services Task Force Recommendation Statement. （USPSTF の公式サイトの勧告文。JAMA 掲載版は © AMA のため使わない）（CC BY／GOV_US、PMID 42719353（候補2は 31550038）、DOI 10.7759/cureus.114267（候補2は 10.1001/jama.2019.13069）、PMC13556986（候補2はなし）、https://europepmc.org/article/MED/42719353、新規 SRC 候補）。裏づける部分：候補1（CC BY のガイドライン総説）の全文に、各エピソードを尿培養で確認することがガイドラインで強く求められること、無症候性細菌尿への不要な抗菌薬治療を避けることが管理の要であること、定型例では膀胱鏡検査や画像検査をルーチンに行う適応はないことが明記され、評価と管理の原則が裏づけられる。候補2（USPSTF 2019、政府の全文）は、妊娠していない成人では無症候性細菌尿のスクリーニングを行わないことを推奨し（グレードD）、「無症候性細菌尿は治療せず、無症状時の監視培養も行わない」という要素を政府の全文で裏づける。数値の照合：—。留保：第一選択の治療薬の顔ぶれは候補1では各国ガイドラインで一部異なり（ポーランドの指針ではニトロキシリンやフラジディンを含む）、治療期間を可能な範囲で7日以内とする明示は候補に再掲がなかったため、その部分を留保して B。候補はいずれも出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "UR-030",
+   "label": "OPEN、作り手の調査バッチ51 2026-11-12",
+   "text": "Liao J, Zhu L, Xie D, Wang X, Zhou P. Improving the quality of life of children and parents with nocturnal enuresis: the role of health education. Front Pediatr. 2024;12:1464465（CC BY、PMID 39776645、DOI 10.3389/fped.2024.1464465、PMC11703977、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、夜尿症の背景として夜間の尿量の増加、膀胱容量の低下、睡眠からの覚醒の障害が関与することが挙げられ、治療ではアラーム療法が第一選択の一つ、デスモプレシンが第一選択薬の一つと明記され、病態の枠組みと第一選択の治療が裏づけられる。有病率は小児で4〜18%の範囲とされ、カードの「5歳で約15%」はその範囲内にある。数値の照合：5歳時点での頻度約15%は候補の範囲（4〜18%）内にあるが、年齢別の逐条の値ではない。一次夜尿症が約80%を占めるという割合と、男児は女児の約2倍多いという比は、候補に明示がなく、その2要素を留保する。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典は CC BY-NC-SA 3.0 で現行の RESTRICTED が正しい。PMCID PMC4251068 は補完候補として区分の節に記録する"
+  }
+ ],
+ "rest_fix": {
+  "SRC-238": "NEJM Group の利用条件（CC ではない、Crossref の version-of-record）",
+  "SRC-239": "NEJM Group の利用条件（CC ではない、Crossref の version-of-record）",
+  "SRC-4393": "Springer Nature の TDM 表示のみ（CC ではない）",
+  "SRC-1632": "PMC の著者稿にライセンス表示なし、Crossref に CC なし",
+  "SRC-1633": "PMC の著者稿にライセンス表示なし、Crossref に CC なし",
+  "SRC-1635": "CC BY-NC 4.0（Europe PMC）",
+  "SRC-1647": "CC BY-NC 4.0（Europe PMC）",
+  "SRC-692": "CC BY-NC 4.0（Europe PMC）",
+  "SRC-693": "出版社の著作物（OA 表示・ライセンス表示なし）",
+  "SRC-698": "PMC の著者稿にライセンス表示なし（NEJM）",
+  "SRC-709": "出版社の著作物（OA 表示・ライセンス表示なし）",
+  "SRC-711": "出版社の著作物（OA 表示・ライセンス表示なし）"
+ },
+ "open_fix": []
+}

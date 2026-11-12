@@ -18,7 +18,7 @@
     source_license: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Qasim H, Ktaifan M, Awawdeh A, et al. Hypertensive Nephrosclerosis: Pathological Changes and Overlap with Diabetic Nephropathy. Cureus. 2025（CC BY、PMID 41141162、DOI 10.7759/cureus.92949、PMC12547650、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、高血圧患者では腎硬化症はしばしば除外による推定診断であり、非典型的な経過の例では生検を考慮することが明記され、「確定診断は腎生検だが、生検は疑わしい例・非典型的な例に限られ、多くの場合は臨床的な推定診断にとどまる」という主張の核が裏づけられる。数値の照合：—。留保：「有病率と発症率は不明」との明記は候補に確認できず、その一点を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 単一の総説に基づく記載で、日本の集団での有病率や進行速度の数値はこの出典では確認していない。近年の遺伝学研究により、高血圧性腎疾患という用語の再定義が議論されている点も出典に記されている。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-327 (id: Jlvnl90)'
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-002
   domain: KT
   subdomain: 悪性腎硬化症、悪性高血圧症
@@ -88,7 +91,7 @@
     source_license: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Woittiez AJJ, Postma CT, de Leeuw PW. Atherosclerotic Renovascular Disease: A Re-evaluation of Lesion Severity and Intervention. Kidney Med. 2026（CC BY、PMID 42290668、DOI 10.1016/j.xkme.2026.101406、PMC13254871、新規 SRC 候補）。裏づける部分：候補（CC BY の再評価総説）の全文に、フラッシュ肺水腫・治療抵抗性高血圧・腎機能低下といった腎血管性疾患の徴候がある例では CT 血管造影や MR 血管造影によるスクリーニングを行いうること、諸試験の適格基準にデュプレックス（ドプラ）超音波の基準が使われてきたことが明記され、腎の側の画像評価という主張の核が裏づけられる。数値の照合：—。留保：「二次性高血圧の最も多い原因」という位置づけの逐語は候補になく、その点を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 境界の方針に沿い、腎の側の評価（腎機能と画像）に絞った記載で、高血圧そのものの管理や血行再建の適応判断は循環器側の範囲として扱っていない。各画像検査の感度・特異度の数値はこの出典の抄録では確認していない。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-328 (id: Jlvnl94)'
@@ -106,6 +109,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅷ-9-B-④ を足した（医学各論 Ⅷ-2-A-②（腎血管性高血圧症、b） → 医学各論 Ⅷ-2-A-②（腎血管性高血圧症、b）；医学各論 Ⅷ-9-B-④（動脈硬化、b））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-004
   domain: KT
   subdomain: 腎梗塞
@@ -237,7 +243,7 @@
     source_license: 出版社の著作物（Crossref のレコードに license 欄なし。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Riva N, Gatt A, Gauci MA, et al. Renal Vein Thrombosis: A Narrative Review. Diagnostics. 2026;16(12)（CC BY、PMID 42351464、DOI 10.3390/diagnostics16121805、PMC13298574、新規 SRC 候補）。裏づける部分：候補（CC BY の叙述的総説）の全文に、CT 静脈造影でスクリーニングした中国のネフローゼ症候群コホートで腎静脈血栓症の頻度が22%であったことが、主出典の研究として明記され、腎静脈血栓症22%（505例中112例）という数値が裏づけられる。数値の照合：腎静脈血栓症22%はカードと一致。肺塞栓症との合算35%、成人38%・小児19%の内訳、関連する組織型では膜性腎症が最も多いという要素は候補に再掲がなく、その部分を留保する。留保：候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 全例にCTを行った単一研究の頻度であり、症状があって検査された集団での頻度とは異なる。ネフローゼ症候群以外の原因（腫瘍、外傷など）による腎静脈血栓症の頻度はこの出典では確認していない。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
@@ -252,6 +258,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-008
   domain: KT
   subdomain: 結節性多発動脈炎
@@ -342,7 +351,7 @@
     source_license: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Hopkins J, Nolan J, Ladhani M, Lee C. Always Consider a Repeat Kidney Biopsy: Acute Interstitial Nephritis Soon After Membranous Nephropathy. Case Rep Nephrol. 2026（CC BY、PMID 41630985、DOI 10.1155/crin/2277958、PMC12860571、新規 SRC 候補）。裏づける部分：候補（CC BY の症例報告）の全文に、「急性間質性腎炎は急性腎障害の評価のために行われた腎生検の約15〜27%に同定される」「薬剤性が最も多く（最大75%）、主な原因薬剤は抗菌薬・非ステロイド性抗炎症薬・プロトンポンプ阻害薬である」ことが明記され、頻度と主な原因薬剤という主張の核が数値まで含めて裏づけられる。数値の照合：生検例での割合15〜27%はカードと一致。留保：腎外症状（発熱・皮疹・関節痛・好酸球増多）が診断の手がかりになるという一般論と、間質への炎症細胞浸潤という病理像は、候補では当該症例の経過の中での言及にとどまり、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 15〜27%は急性腎障害で生検された集団での割合であり、急性腎障害全体に占める割合ではない。原因薬剤の国内の承認・保険適用は本カードでは確認していない（取り込み時に確認が必要）。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-330 (id: Jlvnl-E)'
@@ -357,6 +366,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-011
   domain: KT
   subdomain: 急性間質性腎炎
@@ -377,7 +389,7 @@
     source_license: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Belliere J, Sprangers B, et al. Immune checkpoint inhibitor-associated interstitial nephritis: let''s move forward addressing the unknowns. Clin Kidney J. 2026（CC BY、PMID 42871820、DOI 10.1093/ckj/sfag333、PMC13659234、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、免疫チェックポイント阻害薬関連の急性間質性腎炎では副腎皮質ステロイドの早期開始（3日以内）が予後の良好さと関連すること、組織学的にリンパ球浸潤を認め、ステロイド治療で腎機能の回復が得られることが明記され、「原因薬剤の中止を基本とし、ステロイドは早期投与で回復を改善する」という主張の方向が裏づけられる。数値の照合：開始時期はカード「診断後7日以内」に対し候補は「3日以内」（免疫チェックポイント阻害薬関連例での報告）。対象も閾値も異なるため同一の数値ではないが、早期ほど良いという方向は一致する（両値を記録し、フラグにも挙げた）。留保：間質の線維化が進んだ後に開始した遅い投与では効果が乏しいという要素は候補に再掲がなく、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: ステロイドの有効性はこの総説が引用する観察研究に基づき、ランダム化比較試験による裏づけはない。副腎皮質ステロイドの急性間質性腎炎に対する国内の適応・保険適用は未確認（取り込み時に添付文書で確認が必要）。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-330 (id: Jlvnl-E)'
@@ -392,6 +404,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-012
   domain: KT
   subdomain: 骨髄腫腎
@@ -412,7 +427,7 @@
     source_license: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Hussain A, Moniot JL, Sumaya M, Hughes DM. Multiple Myeloma and Renal Health: Navigating Selected Clinical Complexities. Cureus. 2026（CC BY、PMID 42824767、DOI 10.7759/cureus.115585、PMC13629410、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、円柱腎症は多発性骨髄腫で最も多い腎合併症で、遊離軽鎖が遠位尿細管でウロモジュリン（Tamm-Horsfall 蛋白）と相互作用して不溶性の円柱を形成すること、腎障害への対応としてボルテゾミブを基盤とする療法と十分な補液・腎毒性物質の回避が要であることが明記され、機序と治療の核が裏づけられる。数値の照合：—。留保：「新規診断例の標準はボルテゾミブと高用量デキサメタゾンの併用」という逐条の表現は候補ではレジメン図の提示にとどまり、その細部を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 境界の方針に沿い、腎障害（円柱腎症）に絞った記載で、骨髄腫そのものの診断や血液学的な治療体系は扱っていない。ボルテゾミブやデキサメタゾンを含む治療薬の国内の承認・保険適用は本カードでは確認していない（取り込み時に PMDA の添付文書で確認が必要）。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-629 (id: Jlvnmaw)；TBL-02-01-020 (id: JlAKpWw)'
@@ -430,6 +445,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ重複の統合：LY-021 の出題基準・コアカリの番号をこのカードに足した（医学各論 Ⅷ-2-B-③（骨髄腫腎、b） → 医学各論 Ⅷ-2-B-③（骨髄腫腎、b）；医学各論 Ⅶ-3-C-④（多発性骨髄腫、a））。LY-021 は廃止してこのカードに誘導（三原の承認による）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-013
   domain: KT
   subdomain: 慢性間質性腎炎
@@ -485,7 +503,7 @@
     source_license: Springer の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Giannese D, Mori C, et al. Kidney Involvement in Primary Sjögren Syndrome: Focus on Tubulointerstitial Nephritis. Medicina. 2026;62(10)（CC BY、PMID 42942559、DOI 10.3390/medicina62102028、PMC13706922、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、原発性 Sjögren 症候群の腎病変の頻度は大規模観察研究で約5%から10%超と幅があること、尿細管間質性腎炎は形質細胞を含むリンパ形質細胞性浸潤を特徴とすること、遠位尿細管性アシドーシスが最も多い臨床型であること、Fanconi 症候群や Gitelman 症候群様の異常がありうること、糸球体病変としてクリオグロブリン血症が挙げられることが明記され、主張の核が裏づけられる。数値の照合：頻度はカード「10%未満」に対し候補は約5%〜10%超（観察研究により幅）。カードの値は候補の範囲とおおむね重なるが上限は候補が上回る（両値を記録し、フラグにも挙げた）。留保：「最も多い病型は尿細管間質性腎炎」という逐語と、クリオグロブリン血症に伴う膜性増殖性糸球体腎炎が糸球体病変で多いという内訳は候補に明記がなく、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 頻度10%未満は総説の記載であり、集団や腎病変の定義により変わりうる。日本の集団での頻度はこの出典では確認していない。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-330 (id: Jlvnl-E)'
@@ -500,6 +518,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-015
   domain: KT
   subdomain: IgG4関連腎臓病
@@ -520,7 +541,7 @@
     source_license: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Wei B, et al. Ultrasonographic features of IgG4-related kidney disease: diagnostic value and correlation with clinical-pathological findings. Front Med. 2025（CC BY、PMID 41480534、DOI 10.3389/fmed.2025.1664308、PMC12753392、新規 SRC 候補）。裏づける部分：IgG4 関連腎臓病の基質が尿細管間質性腎炎であること、低補体血症が多いこと（C3・C4 の低下が検査例の100%・81.8%）、治療例の全例で副腎皮質ステロイドが主治療だったこと。留保：中高年男性に多いこと、IgE 高値、膜性腎症などの糸球体病変の併存は載らない。作り手が併記した難病情報センターのページは政府資料でないため使わない'
   uncertainty: 境界の方針に沿い、腎病変に絞った記載である。副腎皮質ステロイドのIgG4関連腎臓病に対する国内の適応・保険適用は未確認（取り込み時に添付文書で確認が必要）。再発率などの長期経過の数値はこの出典の抄録では確認していない。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-330 (id: Jlvnl-E)'
@@ -535,6 +556,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-016
   domain: KT
   subdomain: 中毒性腎障害
@@ -555,7 +579,7 @@
     source_license: 出版社の著作物（Crossref のレコードに license 欄なし。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Ahamad R, et al. Oxidative Stress-Driven Mechanisms and Biomarkers of Drug-Induced Nephrotoxicity: Translational Insights and Therapeutic Implications. Antioxidants. 2026;15(4)（CC BY、PMID 42072055、DOI 10.3390/antiox15040412、PMC13114065、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、シスプラチンは有機カチオントランスポーター2（OCT2）を介して近位尿細管細胞内に蓄積して障害すること、テノホビルは近位尿細管のトランスポーター機能障害を介して尿細管障害を起こすこと、メトトレキサートを含む化学療法薬では尿細管内の沈着（結晶）が障害機序になることが明記され、「薬剤の腎での輸送と蓄積が障害の機序になる」という主張の核が裏づけられる。数値の照合：—。留保：アミノグリコシドが近位尿細管の管腔側からエンドサイトーシスで取り込まれるという機序は候補に明記がなく、その1剤を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 各薬剤の発症頻度や用量依存性の数値はこの出典の抄録では確認していない。アミノグリコシド、テノホビル、シスプラチン、メトトレキサートの国内の承認・保険適用は本カードでは個別に確認していない（取り込み時に PMDA の添付文書で確認が必要）。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)'
@@ -570,6 +594,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-017
   domain: KT
   subdomain: 尿酸腎症
@@ -660,7 +687,7 @@
     source_license: CC BY-NC 3.0（誌面の表示）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Bot (Rachisan) AL, Colceriu MC, Jecan-Toader D, et al. ATP6V1B1-Associated Inherited Distal Renal Tubular Acidosis in Children: Insights from a Literature Review. Children. 2026;13(3)（CC BY、PMID 41897147、DOI 10.3390/children13030436、PMC13025507、新規 SRC 候補）。裏づける部分：候補（CC BY の文献レビュー）の全文に、原発性遠位型尿細管性アシドーシスの原因遺伝子として ATP6V1B1・ATP6V0A4・SLC4A1（ほかに FOXI1・WDR72）が挙げられること、腎石灰化・成長遅延・低クエン酸尿を来すこと、アルカリ療法で成長と代謝のコントロールが改善することが明記され、主張の核が裏づけられる。数値の照合：—。留保：高カルシウム尿の逐語は候補になく（慢性代謝性アシドーシスによる骨からのカルシウム動員と低クエン酸尿の文脈で述べられる）、腎結石・くる病は骨疾患の一般論にとどまるため、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 出典本文では、原因遺伝子が同定できるのは全体の70〜80%程度とされ、残りは原因未同定がありうる。アルカリ療法に用いる製剤の国内の承認・保険適用は本調査では確認していない（国内の適応は未確認）。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アルカリ療法に用いる炭酸水素ナトリウム、クエン酸カリウム・クエン酸ナトリウム配合剤はいずれも承認薬で、アシドーシスの改善・尿アルカリ化等の適応で保険適用がある。ただし遠位型尿細管性アシドーシスそのものを効能・効果に掲げる製剤はない（各添付文書）。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-329 (id: Jlvnl-A)；TBL-02-08-005 (id: JlAKpmM)；TBL-02-08-006 (id: JlAKpmQ)'
@@ -678,6 +705,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-020
   domain: KT
   subdomain: 近位型尿細管性アシドーシス
@@ -698,7 +728,7 @@
     source_license: 出版社の著作物（誌面・レコードに CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Vecino-Pérez M, García-Murias M, Carrera N, et al. Molecular Basis of Rare Inherited Tubulopathies of the Kidney: A Primer for Clinicians. Int J Mol Sci. 2026;27(9)／Gomes C, Pichone A, de Farias M. Importance of Recognizing Renal Tubular Disorders as a Cause of Bone Hypomineralization and Fractures in Adults. Diagnostics. 2026;16(12)（CC BY、PMID 42123522、DOI 10.3390/ijms27093940、PMC13163728、新規 SRC 候補）。裏づける部分：候補1（CC BY の尿細管疾患プライマー）の遺伝子表に、近位型尿細管性アシドーシスは基底膜側のナトリウム重炭酸共輸送体 NBCe1（SLC4A4）の変異による常染色体潜性遺伝の疾患として明記される。候補2（CC BY の総説、PMID 42351558、DOI 10.3390/diagnostics16121898、PMCID PMC13298897）の全文には、テノホビルやイホスファミドによる薬剤性の Fanconi 型近位尿細管障害が明記され、「後天性では薬剤性が多い」という要素も裏づけられる。数値の照合：—。留保：重炭酸だけの単独障害はまれで多くは Fanconi 症候群に伴うという一般論と、バルプロ酸の原因薬としての再掲は候補になく、その部分を留保して B。候補はいずれも新規 SRC 登録候補'
   uncertainty: 原因薬として挙げたイホスファミド、バルプロ酸、テノホビルなどの国内の承認・保険適用の状況は、本調査では個別に確認していない（国内の適応は未確認）。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】原因薬として挙げられたイホスファミド・バルプロ酸・テノホビルはいずれも国内承認薬である（PMDA添付文書情報、2026-10-31確認）
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-01-00-329 (id: Jlvnl-A)；TBL-02-08-005 (id: JlAKpmM)；TBL-02-08-006 (id: JlAKpmQ)'
@@ -716,6 +746,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-021
   domain: KT
   subdomain: Fanconi症候群
@@ -736,7 +769,7 @@
     source_license: 出版社の著作物（誌面・レコードに CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Elmonem MA, Veys KR, Soliman NA, van Dyck M, van den Heuvel LP, Levtchenko E. Cystinosis: a review. Orphanet J Rare Dis. 2016;11:47（CC BY、PMID 27102039、DOI 10.1186/s13023-016-0426-y、PMC4841061、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、シスチノーシスは小児の遺伝性 Fanconi 症候群の最も多い原因で、リソソームのシスチン輸送体シスチノシン（CTNS 遺伝子）の欠損による常染色体潜性遺伝の蓄積症であること、腎臓は生後1年以内に近位尿細管障害で最初に障害されること、システアミン治療が末期腎不全への進行を6〜10年遅らせることが明記され、主張の核が裏づけられる。数値の照合：—。留保：「確立した Fanconi 症候群そのものは是正できない」という要素は候補に逐語の再掲がなく、その一点を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: システアミンの国内の承認・保険適用は本調査では確認していない（国内の適応は未確認）。後天性Fanconi症候群（薬剤性など）の細目は本カードの出典の範囲外である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】システアミン（ニシスタゴンカプセル）は2014年7月4日に腎性シスチン症で承認され保険適用がある（点眼剤シスタドロップスも2024年3月26日に承認）。「国内の適応は未確認」は失効
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-02-08-005 (id: JlAKpmM)'
@@ -754,6 +787,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-022
   domain: KT
   subdomain: シスチン尿症
@@ -774,7 +810,7 @@
     source_license: 出版社の著作物（誌面・レコードに CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Vecino-Pérez M, García-Murias M, Carrera N, et al. Molecular Basis of Rare Inherited Tubulopathies of the Kidney: A Primer for Clinicians. Int J Mol Sci. 2026;27(9)（CC BY、PMID 42123522、DOI 10.3390/ijms27093940、PMC13163728、新規 SRC 候補）。裏づける部分：候補（CC BY のプライマー）の全文に、シスチン尿症は最も多い遺伝性の原発性アミノ酸尿で、シスチンと二塩基性アミノ酸の輸送体ヘテロ二量体（rBAT と b0,+AT、遺伝子 SLC3A1 と SLC7A9）の変異により、溶解度の低いシスチンが析出して結石を形成することが明記され、病態の核が裏づけられる。数値の照合：—。留保：小児の腎結石の原因として一定の割合を占めること、治療は再発する結石の予防を目的に行われることは候補に明記がなく、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 結石予防に用いる薬剤の国内の承認・保険適用は本調査では確認していない（国内の適応は未確認）。有病率などの疫学数値は資料により差があるため、本カードには記載していない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】チオプロニン（チオラ錠100）の効能・効果に「シスチン尿症」が含まれており（2002-07-05承認、PMDA再審査資料）、結石予防に承認・保険適用あり。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-02-08-005 (id: JlAKpmM)'
@@ -792,6 +828,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-023
   domain: KT
   subdomain: 腎性尿崩症
@@ -812,7 +851,7 @@
     source_license: 出版社の著作物（誌面・レコードに CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Flynn K, Hatfield J, Brown K, Vietor N, Hoang T. Central and nephrogenic diabetes insipidus: updates on diagnosis and management. Front Endocrinol. 2024;15（CC BY、PMID 39845881、DOI 10.3389/fendo.2024.1479764、PMC11750692、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、先天性腎性尿崩症の約90%は AVPR2 遺伝子の変異によること、バソプレシンは集合管の V2 受容体を介してアクアポリン2による水の再吸収を担うこと、腎性尿崩症を起こす薬剤で最も多いのはリチウムである（リチウム治療例の40〜55%に発症）ことが明記され、主張の核が裏づけられる。数値の照合：—。留保：AQP2 変異の割合や、生化学的異常・閉塞性尿路障害などの二次性の列挙は候補に分散しており、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 原因薬として挙げたリチウム製剤の国内の承認・保険適用は、本調査では確認していない（国内の適応は未確認）。水制限試験などの診断手順の数値基準は本カードには記載していない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】炭酸リチウムは躁病・躁うつ病の躁状態の適応で国内承認済み（PMDA添付文書情報、2026-10-31確認）
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-02-08-005 (id: JlAKpmM)'
@@ -830,6 +869,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-024
   domain: KT
   subdomain: 腎性尿崩症
@@ -885,7 +927,7 @@
     source_license: CC BY-NC 3.0（誌面の表示）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Zhu L, Li Y, Bao Y. Molecular Genetics of Bartter Syndrome: Bridging Genotype-Phenotype Correlations and Precision Therapeutics. Curr Issues Mol Biol. 2026;48(4)（CC BY、PMID 42042082、DOI 10.3390/cimb48040422、PMC13114623、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、Bartter 症候群の中核となる原因遺伝子は SLC12A1・KCNJ1・CLCNKB・BSND（ほかに MAGED2）であること、型によって羊水過多・腎石灰化・感音難聴（バルチンの型）を伴うこと、低カリウム性代謝性アルカローシスを呈することが明記され、主張の核が裏づけられる。数値の照合：有病率「人口約100万人に1人」は候補に再掲がなく、その数値を留保する（未再掲として記録）。留保：MAGED2 を含む遺伝子の範囲の変化はフラグに記録した。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 有病率（約100万人に1人）は出典本文の記載に基づく概数で、集団により異なる可能性がある。遺伝子型と表現型の対応は一対一ではなく、出典でも表現型からの推定が第一歩とされている。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-02-08-005 (id: JlAKpmM)；TBL-02-08-006 (id: JlAKpmQ)'
@@ -900,6 +942,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-026
   domain: KT
   subdomain: Gitelman症候群
@@ -920,7 +965,7 @@
     source_license: 出版社の著作物（KDIGO 会議報告、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Vecino-Pérez M, García-Murias M, Carrera N, et al. Molecular Basis of Rare Inherited Tubulopathies of the Kidney: A Primer for Clinicians. Int J Mol Sci. 2026;27(9)（CC BY、PMID 42123522、DOI 10.3390/ijms27093940、PMC13163728、新規 SRC 候補）。裏づける部分：候補（CC BY のプライマー）の全文に、Gitelman 症候群は SLC12A3（サイアザイド感受性 Na-Cl 共輸送体 NCC）の不活化変異による常染色体潜性遺伝の疾患であること、低マグネシウム血症（TRPM6 の発現低下による）と低カルシウム尿が鑑別の特徴で、小児期後期から成人期に診断されること、治療は塩分の自由な摂取と経口のカリウム・マグネシウム補充が中心であることが明記され、主張の核が裏づけられる。数値の照合：—。留保：「多くは偶然の検査所見や軽い非特異的な症状をきっかけに見つかる」という発見経緯の逐語は候補に弱く、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 補充に用いるカリウム・マグネシウム製剤の国内の保険適用は、本調査では確認していない（国内の適応は未確認）。表現型には個人差が大きく、重い症状を伴う例もあることが出典に記載されている。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-02-08-005 (id: JlAKpmM)；TBL-02-08-006 (id: JlAKpmQ)'
@@ -935,6 +980,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-027
   domain: KT
   subdomain: Liddle症候群
@@ -990,7 +1038,7 @@
     source_license: 出版社の著作物（学会誌、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Vecino-Pérez M, García-Murias M, Carrera N, et al. Molecular Basis of Rare Inherited Tubulopathies of the Kidney: A Primer for Clinicians. Int J Mol Sci. 2026;27(9)／Zhu L, Li Y, Bao Y. Molecular Genetics of Bartter Syndrome. Curr Issues Mol Biol. 2026;48(4)（CC BY、PMID 42123522、DOI 10.3390/ijms27093940、PMC13163728、新規 SRC 候補）。裏づける部分：候補1（CC BY のプライマー）の全文に、Gitelman 症候群と Bartter 症候群の鑑別点として、低マグネシウム血症と低カルシウム尿が Gitelman 症候群の特徴で診断時期が小児期後期から成人期であることが明記され、障害部位の違い（ヘンレループの太い上行脚と遠位曲尿細管）は両症候群の原因遺伝子と対象輸送体の表で裏づけられる。候補2（CC BY の Bartter 総説、PMID 42042082、DOI 10.3390/cimb48040422、PMCID PMC13114623）には、Bartter 症候群で腎石灰化が目立つ型があることが明記される。数値の照合：—。留保：Bartter 症候群では尿中カルシウム排泄が正常から増加するという対比の逐語は候補1・2に分散しており、その部分を留保して B。候補はいずれも新規 SRC 登録候補'
   uncertainty: 鑑別点は遺伝性尿細管疾患の総説の記載に基づく総論であり、尿中カルシウムの数値基準（比のカットオフなど）は出典の表から読み取る必要があるため、本カードには数値を記載していない。表現型が重なる例では、最終的に遺伝学的検査で分けることがある。
   curriculum:
     core_curriculum: 'PS-02-09-05 (id: JkxnuRs)；TBL-02-08-005 (id: JlAKpmM)；TBL-02-08-006 (id: JlAKpmQ)'
@@ -1005,6 +1053,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-029
   domain: KT
   subdomain: 高血圧性腎硬化症
@@ -1025,7 +1076,7 @@
     source_license: 出版社（Taylor & Francis）の著作物（CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ50 2026-11-12）：Qasim H, Ktaifan M, Awawdeh A, et al. Hypertensive Nephrosclerosis: Pathological Changes and Overlap with Diabetic Nephropathy. Cureus. 2025／Kanbay M, Copur S, Sarafidis P, Ferro CJ, Ortiz A, et al. 2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a commentary from the European Renal Best Practice (ERBP). Nephrol Dial Transplant. 2026（CC BY、PMID 41141162、DOI 10.7759/cureus.92949、PMC12547650、新規 SRC 候補）。裏づける部分：候補1（CC BY の総説）の全文に、高血圧性腎硬化症は多くの地域で糖尿病性腎症に次ぐ末期腎不全の原因であること、その管理の中心は積極的な血圧管理であることが明記される。候補2（CC BY の ERBP コメンタリー、PMID 41805831、DOI 10.1093/ndt/gfag055、PMCID PMC13624793）の全文では、2025年 AHA/ACC ガイドラインの一般目標として診察室血圧130/80 mmHg未満が紹介され、「130 mmHg未満」という水準の方向が裏づけられる。数値の照合：血圧目標はカード「130 mmHg未満（2010年の総説での議論）」に対し、候補2は一般目標として130/80 mmHg未満でおおむね一致する。ただし KDIGO 2021 は標準化測定での収縮期血圧120 mmHg未満を推奨しており、枠組みにより目標が異なる（両値を記録し、フラグにも挙げた）。留保：アルブミン尿の低減と、RAAS 阻害薬を中心にカルシウム拮抗薬・利尿薬を組み合わせるという薬剤構成の逐条の再掲は候補に薄く、その部分を留保して B。候補はいずれも新規 SRC 登録候補'
   uncertainty: 本カードは2010年の総説に基づく。血圧目標の数値は同総説の記載であり、その後のガイドライン（KDIGO 2021 の慢性腎臓病における血圧管理ガイドライン（既存 SRC-4382）など）では異なる目標が示されているため、本カードの数値は出典の範囲として読むこと。薬剤について、ACE阻害薬・ARBなどのレニン・アンジオテンシン・アルドステロン系阻害薬、カルシウム拮抗薬、利尿薬はいずれも国内で高血圧症に対して承認・保険適用のある薬剤クラスである（個別製剤の効能・効果の範囲は添付文書による）。既存の KT-001 の出典 SRC-605（腎硬化症の総説）は論点整理が中心で治療・予後の記載が薄かったため、本カードは新規出典によった。
   curriculum:
     kokushi: 医学各論 Ⅷ-2-A-①（高血圧性腎硬化症、a）
@@ -1040,6 +1091,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/64_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ50 2026-11-12）。三原の承認（2026-11-11）による
 - id: KT-030
   domain: KT
   subdomain: 急性尿細管壊死

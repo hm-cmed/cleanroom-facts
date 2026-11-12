@@ -101,3 +101,4 @@
 - バッチ44（RE）を反映：置き換え2（RE-004 BRAVO・RE-005 CRUISE を ClinicalTrials.gov の結果登録に）、裏づけ20（ClinicalTrials.gov 2、NEI 2、NCI PDQ 1、CC BY 15）、SRC-1278 を RESTRICTED に明確化（2026-11-11）。
 - バッチ45（NB）を反映：置き換え2（NB-029 TOP 試験を ClinicalTrials.gov に、NB-007 を欧州 RDS GL 2022年版〔CC BY〕に）、裏づけ13（CDC 3〔GBS 2010・VKDB・MMWR 2013〕、NEI 1、CC BY 9）、SRC-3363 を RESTRICTED に明確化（2026-11-11）。
 - バッチ46（RI）を反映：置き換え1（RI-016 を HAP/VAP の CC BY 総説に）、裏づけ11（厚労省の肺炎球菌ワクチンのページ 1、CC BY 10）、区分の訂正1（SRC-367 Emerg Infect Dis を OPEN、RI-047・048）、明確化1（SRC-352 成人肺炎 GL 2024 英語版を RESTRICTED）（2026-11-11）。
+- バッチ48（VD）・49（NI）・50（KT）・51（UR）を反映：置き換え2（NI-002 PML・NI-003 HAND をドイツ神経学会 GL ほかの CC BY 全文に）、裏づけ65、区分の明確化12（SRC-238・239・4393・1632・1633・1635・1647・692・693・698・709・711 を RESTRICTED）、SRC-628 の license_note を CC BY-NC-SA に精密化（2026-11-12）。難病情報センター由来の NI-004 と KT-015 の一部は見合わせ、厚労省 PDF の確認依頼に追加。バッチ47 は未着。

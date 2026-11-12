@@ -18,7 +18,7 @@
     source_license: © Infectious Diseases Society of America（Oxford University Press、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Meyding-Lamadé U, Craemer EM, Aydin K, et al. S1 guidelines of the German Society of Neurology for Viral Meningoencephalitis - AWMF Registration No.: 030-100. Neurol Res Pract. 2026;8(1)（CC BY、PMID 41998791、DOI 10.1186/s42466-026-00487-3、PMC13091275、新規 SRC 候補）。裏づける部分：候補（ドイツ神経学会の S1 ガイドライン、CC BY）の全文に、側頭葉病変（前頭葉基底部への進展を伴う T2 高信号・拡散制限）が単純ヘルペス脳炎に典型的であること、髄液 HSV PCR がウイルス学的確認の方法で感度95〜100%であること、「抗ウイルス療法は臨床的疑いの時点で直ちに開始し、PCR などの検査結果を待ってはならない」「静注アシクロビルは遅滞なく開始する」ことが明記され、主張の核（側頭葉中心・髄液 PCR・結果を待たない即時投与）が裏づけられる。数値の照合：—。留保：「壊死性」という病理学的な形容は、候補の本文では皮膚病変の文脈に現れるのみで、脳炎自体への逐語の再掲は確認できなかったため、その一点を留保して B。主出典（SRC-1631、IDSA 2008 ガイドライン）は Crossref・Europe PMC のいずれでも CC ライセンスの表示がなく RESTRICTED が正しい。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: アシクロビルは国内承認薬であり、単純ヘルペス脳炎は国内の保険適用の範囲内である。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-A-①（脳炎、a）
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-002
   domain: NI
   subdomain: 進行性多巣性白質脳症
@@ -44,16 +47,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-1632
-    source: 'Berger JR, Aksamit AJ, Clifford DB, et al. PML diagnostic criteria: consensus statement from the AAN Neuroinfectious Disease Section. Neurology. 2013;80(15):1430-1438'
-    doi: 10.1212/WNL.0b013e31828c2fa1
-    pmid: '23568998'
-    pmcid: null
-    url: https://doi.org/10.1212/WNL.0b013e31828c2fa1
-    source_license: ライセンス未確認（Neurology 誌、PMC に著者原稿が収載）
+    source_ref: SRC-5024
+    source: Jia DT. Progressive multifocal leukoencephalopathy - a diagnostic guide for the clinical neurologist. Front Neurol. 2026;17
+    doi: 10.3389/fneur.2026.1692522
+    pmid: '41988494'
+    pmcid: PMC13076114
+    url: https://europepmc.org/article/MED/41988494
+    source_license: CC BY
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: OPEN
+    corroboration: '元の主出典：SRC-1632（Berger JR, Aksamit AJ, Clifford DB, et al. PML diagnostic criteria: consensus statement from the AAN Neuroinfectious Disease Section. Neurology. 2013;80(15):1430-1438）'
   uncertainty: 免疫再構築に伴う IRIS（免疫再構築炎症反応症候群）は PML の経過上の重要な論点だが、採用した診断基準論文の抄録には明示がなく、本文での確認を要する。ナタリズマブは国内承認薬（多発性硬化症）である。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-A-③（進行性多巣性白質脳症、c）
@@ -68,6 +71,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1632 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-1632 から自由に使える資料 SRC-5024 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：候補（CC BY の診断ガイド）の全文に、PML は免疫不全状態における JC ウイルスの潜伏感染の再活性化によって生じる中枢神経系の脱髄疾患であること、HIV 感染症の患者やナタリズマブ使用後の多発性硬化症患者、移植後の免疫抑制患者でリスクが高いこと、診断の確実性は臨床所見・神経放射線学的所見・髄液 JCV PCR 陽性の3要素の組合せで分類され、3要素すべてがそろえば確診（definitive）に達することが明記され、主張全体が置き換え可能（作り手の調査バッチ49 2026-11-12））。三原の承認（2026-11-11）による
 - id: NI-003
   domain: NI
   subdomain: HIV関連神経認知障害
@@ -79,16 +88,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-1633
-    source: Antinori A, Arendt G, Becker JT, et al. Updated research nosology for HIV-associated neurocognitive disorders. Neurology. 2007;69(18):1789-1799
-    doi: 10.1212/01.WNL.0000287431.88658.8b
-    pmid: '17914061'
-    pmcid: null
-    url: https://doi.org/10.1212/01.WNL.0000287431.88658.8b
-    source_license: ライセンス未確認（Neurology 誌、PMC に著者原稿が収載）
+    source_ref: SRC-5025
+    source: 'Hahn K, Arendt G, Eggers C, et al. Guideline of the German Society of Neurology (DGN): "diagnosis and therapy of HIV-1-associated neurological disorders". Neurol Res Pract. 2026;8(1)'
+    doi: 10.1186/s42466-026-00519-y
+    pmid: '42596004'
+    pmcid: PMC13474671
+    url: https://europepmc.org/article/MED/42596004
+    source_license: CC BY
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: OPEN
+    corroboration: 元の主出典：SRC-1633（Antinori A, Arendt G, Becker JT, et al. Updated research nosology for HIV-associated neurocognitive disorders. Neurology. 2007;69(18):1789-1799）
   uncertainty: 本分類は研究用の操作的定義であり、臨床現場では他の認知症原因の除外を前提とする。 抗レトロウイルス薬の個別薬剤の国内承認・保険適用は未確認（本分類そのものは特定の薬剤に依存しない）。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】抗レトロウイルス薬はHIV感染症の適応で国内承認・保険収載済みの薬剤群である（PMDA添付文書情報、2026-10-31確認）
   curriculum:
     kokushi: 医学各論 Ⅸ-3-A-④（AIDS認知症<HIV脳症>、c）
@@ -106,6 +115,12 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1633 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 主出典を SRC-1633 から自由に使える資料 SRC-5025 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：候補（ドイツ神経学会の HIV-1 関連神経疾患ガイドライン、CC BY）の全文に、Frascati 基準（本カードの主出典である Antinori 2007 の研究用分類）が HAND の3段階（第1段階＝無症候性の神経心理学的障害、第2段階＝軽度神経認知障害、第3段階＝HIV 関連認知症）を記述すること、「併用抗レトロウイルス療法の高い有効性にもかかわらず、軽症型の HAND は存続する」ことが明記され、主張全体が置き換え可能（作り手の調査バッチ49 2026-11-12））。三原の承認（2026-11-11）による
 - id: NI-004
   domain: NI
   subdomain: HTLV-Ⅰ関連脊髄症
@@ -160,8 +175,8 @@
     url: https://doi.org/10.1093/brain/awp191
     source_license: ライセンス未確認（Brain 誌、PMC に著者原稿が収載）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ49 2026-11-12）：Centers for Disease Control and Prevention. Clinical Overview of Creutzfeldt-Jakob Disease (CJD)（GOV_US、https://www.cdc.gov/creutzfeldt-jakob/hcp/clinical-overview/、新規 SRC 候補）。裏づける部分：候補（米国 CDC の CJD 臨床概要、実際に開いて本文を確認）に、孤発性 CJD の probable 診断の検査所見として「MRI で尾状核・被殻の高信号、または拡散強調画像（DWI）・FLAIR で少なくとも2つの皮質領域（側頭葉・頭頂葉・後頭葉）の高信号」が明記され、同ページは本カードの主出典（Zerr 2009）を引用している。MRI 所見が臨床診断基準に組み込まれているという主張の核が裏づけられる。数値の照合：孤発性 CJD 症例の83%で陽性という数値は候補に再掲がなく、その数値を留保する（未再掲として記録）。留保：主出典（SRC-1635）は区分の訂正対象（Europe PMC で CC BY-NC を確認、UNKNOWN → RESTRICTED）。CDC の現行ページは RT-QuIC 陽性を軸とする probable 診断の経路も併記しており、診断基準の枠組みの変化としてフラグに記録した。候補は出典マスター未登録のため新規 SRC 登録候補
   uncertainty: 髄液 14-3-3 蛋白や脳波の周期性同期性放電は従来の診断基準の要素であり、分子サブタイプにより有用性が異なることが同論文で示されている。数値（83%）は抄録から読み取った。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-B-①（Creutzfeldt-Jakob病、b）；医学各論 Ⅻ-4-A-⑱（プリオン病、c）
@@ -179,6 +194,12 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-4-A-⑱ を足した（医学各論 Ⅸ-3-B-①（Creutzfeldt-Jakob病、b） → 医学各論 Ⅸ-3-B-①（Creutzfeldt-Jakob病、b）；医学各論 Ⅻ-4-A-⑱（プリオン病、c））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1635 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-006
   domain: NI
   subdomain: プリオン病
@@ -269,7 +290,7 @@
     source_license: © 日本神経学会・日本神経治療学会・日本神経感染症学会（南江堂、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Meyding-Lamadé U, Craemer EM, Aydin K, et al. S1 guidelines of the German Society of Neurology for Viral Meningoencephalitis - AWMF Registration No.: 030-100. Neurol Res Pract. 2026;8(1)／Alnomasy SF, Alotaibi BS, Mujamammi AH, et al. Microbial aspects and potential markers for differentiation between bacterial and viral meningitis among adult patients. PLoS One. 2021;16(6)（CC BY、PMID 41998791、DOI 10.1186/s42466-026-00487-3、PMC13091275、新規 SRC 候補）。裏づける部分：候補1（ドイツ神経学会 S1 ガイドライン、CC BY）の全文に、ウイルス性では中等度の細胞増多（通常1000個/µL未満）で蛋白・乳酸の上昇は軽度か無いという髄液像と、髄液乳酸・プロカルシトニンが細菌性とウイルス性の鑑別に有用であることが明記される。候補2（CC BY の比較研究、PMID 34115780、DOI 10.1371/journal.pone.0251518、PMCID PMC8195399）の全文では、細菌性髄膜炎はウイルス性に比べ髄液の白血球数・蛋白が高く糖が低いことが実データで示され、蛋白上昇・糖低下という化学所見の方向は裏づけられる。数値の照合：—。留保：「細菌性＝好中球優位、ウイルス性＝リンパ球優位」という細胞型の対比そのものは、自由な全文（ガイドライン・総説・比較研究）には再掲が見つからなかった（この型の表は MSD マニュアル等の医学百科と制限付きガイドラインにのみ現れる。新ルールでは医学百科を根拠にしない）。その中心要素を留保して B。候補はいずれも出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: ガイドライン本文（書籍）は未入手のため、記載内容は学会の公開資料および本ガイドラインを引用する公的資料で確認した範囲に限った。取り込み時に本文での最終確認を推奨する。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-A-②（髄膜炎、a）；医学各論 Ⅻ-1-A-⑱（ウイルス性髄膜炎、a）
@@ -287,6 +308,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅻ-1-A-⑱ を足した（医学各論 Ⅸ-3-A-②（髄膜炎、a） → 医学各論 Ⅸ-3-A-②（髄膜炎、a）；医学各論 Ⅻ-1-A-⑱（ウイルス性髄膜炎、a））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-009
   domain: NI
   subdomain: 細菌性髄膜炎
@@ -342,7 +366,7 @@
     source_license: © 日本神経学会・日本神経治療学会・日本神経感染症学会（南江堂、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Zambelli G, Masetti M, Diona S, et al. Adjunctive Corticosteroids in Pediatric Meningitis: Current Evidence, Clinical Controversies, and Future Directions. Pharmaceuticals. 2026;19(10)（CC BY、PMID 42943260、DOI 10.3390/ph19101563、PMC13708625、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、小児ではデキサメタゾン 0.15 mg/kg を6時間ごとに2〜4日間静注するレジメンが一般的に推奨されること、初回量は最初の抗菌薬投与の直前か同時であるべきことが明記され、用量・間隔・投与タイミングの核が裏づけられる。数値の照合：—。留保：カードは日本のガイドラインが新生児を除く乳幼児・学童および成人にこの併用を推奨するという国内ガイドライン固有の表明であり、候補は小児中心の記述で、成人への適用と「10〜20分前」という時間指定までは再掲がないため、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: デキサメタゾンは国内承認薬だが、細菌性髄膜炎への補助療法としての用法は添付文書の効能・効果に明示されておらず、保険適用の扱いは取り込み側で確認を推奨する。推奨内容は学会公開資料および本ガイドラインを引用する資料で確認した。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-C-①（細菌性髄膜炎、a）
@@ -357,6 +381,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-011
   domain: NI
   subdomain: 細菌性髄膜炎
@@ -377,7 +404,7 @@
     source_license: © Massachusetts Medical Society（CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Wald ER. Dexamethasone as Adjuvant Therapy for Bacterial Meningitis in Children: What About Streptococcus pneumoniae? Open Forum Infect Dis. 2025;12(8)（CC BY、PMID 40874187、DOI 10.1093/ofid/ofaf456、PMC12378231、新規 SRC 候補）。裏づける部分：候補（CC BY のレビュー）の全文に、2002年の欧州試験（本カードの主出典）について、肺炎球菌性髄膜炎では予後不良がデキサメタゾン群26%・プラセボ群52%（相対危険度0.50）、死亡が14%対34%であったことが明記され、「効果は肺炎球菌性髄膜炎で最も大きかった（予後不良26%対52%）」というカードの数値がそのまま裏づけられる。数値の照合：肺炎球菌性髄膜炎の予後不良26%対52%はカードと一致。全体の予後不良の相対危険度0.59と死亡の相対危険度0.48は候補に再掲がなく、その2数値を留保する。留保：候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 本試験は欧州で実施され、髄膜炎菌性を含む成人例が対象である。低所得国での再現性は限定的とされ、欧州のガイドラインでは高所得国での使用が強く推奨される位置づけである。デキサメタゾンの国内承認・保険適用については NI-010 の uncertainty を参照。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-C-①（細菌性髄膜炎、a）
@@ -392,6 +419,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-012
   domain: NI
   subdomain: 脳膿瘍
@@ -482,7 +512,7 @@
     source_license: © Elsevier（The Lancet Infectious Diseases、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Govender NP, Meintjes G, Falconer J, et al. SAHCS Guideline for the prevention, diagnosis and management of cryptococcal disease among persons living with HIV: Update to induction treatment for cryptococcal meningitis. S Afr J HIV Med. 2026;27(1)（CC BY、PMID 41960304、DOI 10.4102/sajhivmed.v27i1.1789、PMC13058496、新規 SRC 候補）。裏づける部分：候補（南アフリカ HIV 臨床学会のガイドライン更新版、CC BY）の全文に、導入療法の第一選択としてリポソーマルアムホテリシン B 10 mg/kg 単回投与＋フルシトシン（100 mg/kg/日を4分割＝25 mg/kg を1日4回）14日間＋フルコナゾール 1200 mg/日が明記され、カードの単回投与レジメンが用量まで含めて裏づけられる（WHO 2022 ガイドラインと整合する推奨と位置づけられている）。数値の照合：単回レジメンの用量（10 mg/kg、フルシトシン 100 mg/kg/日、フルコナゾール 1200 mg/日）はカードと一致。留保：カードのもう一つのレジメン（リポソーマルアムホテリシン B 3〜4 mg/kg/日＋フルシトシンの2週間投与）は候補に再掲がなく（候補の代替レジメンはデオキシコール酸アムホテリシン B ベース）、その部分を留保して B。主出典（SRC-1641）は PMC に収載があるがライセンス表示はなく RESTRICTED が正しい（PMCID は補完候補として区分訂正の節に記録）。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: リポソーマルアムホテリシン B、フルシトシン、フルコナゾールはいずれも国内承認薬だが、単回 10 mg/kg 投与などの用法は国内添付文書の用法・用量と異なるため、保険適用の扱いは取り込み側で確認を推奨する。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-C-③（真菌性髄膜炎、b）
@@ -497,6 +527,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-015
   domain: NI
   subdomain: 真菌性髄膜炎
@@ -517,7 +550,7 @@
     source_license: © Elsevier（The Lancet Infectious Diseases、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Sultan A, Raja H, Abrar A, et al. Cryptococcal Meningitis Beyond Immunosuppression: A Case Report in an Immunocompetent Individual. Case Rep Infect Dis. 2026;2026（CC BY、PMID 42518947、DOI 10.1155/crdi/8630525、PMC13383004、新規 SRC 候補）。裏づける部分：候補（CC BY の症例報告）の全文の治療フェーズ表に、導入療法はリポソーマルアムホテリシン B＋フルコナゾール／フルシトシンを2週間、地固め療法はフルコナゾール 400 mg/日を8週間、維持療法はフルコナゾール 200 mg/日を6〜12か月と明記され、本文でも推奨導入療法としてリポソーマルアムホテリシン B（3〜6 mg/kg/日）とフルシトシン 100 mg/kg/日（＝25 mg/kg を1日4回）の併用が述べられ、非 HIV 例の導入→地固め8週間→維持療法という治療の流れの核が裏づけられる。数値の照合：地固め療法8週間はカードと一致。導入の用量はカード 3〜4 mg/kg/日に対し候補 3〜6 mg/kg/日（候補の範囲が広い）。維持期間はカード12か月に対し候補6〜12か月（カードの値は候補の範囲内）。留保：候補は症例報告で、本文中の併用期間の記述（4〜6週間）とフェーズ表（導入2週間）の間に内部の揺れがある。Cryptococcus gattii 感染症やクリプトコッコーマで4〜6週間への延長を考慮するという要素は候補に明記がなく、その部分を留保して B。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 抗真菌薬の国内承認状況は NI-014 の uncertainty と同様である。導入期間の延長は患者背景（臓器移植後など）によっても判断される。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-C-③（真菌性髄膜炎、b）
@@ -532,6 +565,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-016
   domain: NI
   subdomain: 結核性髄膜炎
@@ -552,7 +588,7 @@
     source_license: © Elsevier（The Lancet Infectious Diseases、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Leiva-Ordoñez JE, Quintero B. Diagnosis of Tuberculous Meningitis: Integrating Clinical Assessment and Molecular Diagnostics. Diagnostics. 2026;16(4)（CC BY、PMID 41750700、DOI 10.3390/diagnostics16040552、PMC12939813、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、Marais らの統一症例定義（Lancet コンセンサススコア）が臨床・髄液・画像の所見を統合した構造化された診断分類で、definite／probable／possible／非結核性髄膜炎に階層化すること、典型的な髄液像はリンパ球優位の細胞増多・蛋白上昇・糖低下であることが明記され、主張の核が裏づけられる。数値の照合：—。留保：「5日を超える経過」が診断の手がかりになるという要素は候補の本文に逐語の再掲を確認できず（コンセンサススコアの臨床ドメイン自体には症状持続期間が含まれるが、本総説は項目の列挙をしていない）、その部分を留保して B。結核性髄膜炎の国際的な診療ガイドラインが新たに刊行されており（フラグ参照）、次回改訂時の照合対象となる。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 髄液 ADA（アデノシンデアミナーゼ）は結核性髄膜炎の補助診断として臨床で用いられるが、本統一症例定義の診断要素には含まれておらず、カットオフ値の裏付けには別途一次資料が必要なため assertion には含めなかった。本定義は研究用の症例定義であり、臨床診断では抗酸菌検査・培養や核酸増幅検査と合わせて判断する。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-C-④（結核性髄膜炎、b）
@@ -567,6 +603,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-017
   domain: NI
   subdomain: 結核性髄膜炎
@@ -587,7 +626,7 @@
     source_license: © Massachusetts Medical Society（CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Younas A, Noor R, Shaukat MT, et al. Efficacy and Safety of Corticosteroids in Tuberculous Meningitis: Systematic Review, Meta-Analysis, and Meta-Regression. Brain Behav. 2026;16(8)（CC BY、PMID 42517870、DOI 10.1002/brb3.71639、PMC13411294、新規 SRC 候補）。裏づける部分：候補（CC BY の系統的レビュー・メタ解析、11研究1917例）の全文に、副腎皮質ステロイド併用が全原因死亡を有意に減らすこと（統合相対危険度0.84、95%信頼区間0.76〜0.94）、HIV 非感染例では長期神経学的障害への有意な効果がなかったとする Cochrane レビューの結論が明記され、「死亡は減るが生存者の重度障害は有意には減らない」という主張の結論の方向が裏づけられる。数値の照合：カードの相対危険度0.69は単一の無作為化比較試験（主出典）の値で、候補の統合値は0.84（11研究）。対象が異なるため同一の数値ではないが、方向は一致する（両値を記録）。留保：2025年に刊行された結核性髄膜炎の国際診療ガイドライン（Lancet Infect Dis. 2026;26(2)、CC BY、PMID 40840485、DOI 10.1016/S1473-3099(25)00364-0、PMCID PMC12419961）も HIV 非感染例へのステロイド併用を強い推奨としており、追加の裏づけ候補になる。候補はいずれも出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 本試験はベトナムで実施され、HIV 合併例を含む。抗結核薬（イソニアジド、リファンピシン等）はいずれも国内承認薬であり、結核性髄膜炎は保険適用の範囲内である。デキサメタゾンの位置づけは NI-010 の uncertainty と同様である。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-C-④（結核性髄膜炎、b）
@@ -602,6 +641,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-018
   domain: NI
   subdomain: 急性散在性脳脊髄炎
@@ -622,7 +664,7 @@
     source_license: © SAGE Publishing（Multiple Sclerosis、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Bozzola E, Spina G, Valeriani M, et al. Management of pediatric post-infectious neurological syndromes. Ital J Pediatr. 2021;47(1)（CC BY、PMID 33494818、DOI 10.1186/s13052-021-00968-y、PMC7836589、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、IPMSSG の2013年改訂の定義が引用され、小児 ADEM は「炎症性脱髄が推定される最初の多巣性の中枢神経イベント」で「発熱・全身疾患・痙攣後症状では説明できない脳症」を伴うこと、ADEM は単相性の経過を取りうること、感染後神経症候群としての位置づけが明記され、主張の核が裏づけられる。数値の照合：—。留保：「ワクチン接種に続いて生じる」という要素は候補では感染後の枠組みが中心で、ワクチン後の文脈の逐語の確認が弱く、その部分を留保して B。主出典（SRC-1644）は Crossref・Europe PMC のいずれでも CC ライセンスの表示がなく RESTRICTED と矛盾しない。候補は出典マスター未登録のため新規 SRC 登録候補
   uncertainty: 治療の第一選択とされる高用量ステロイドパルス療法は、採用した出典（診断定義の論文）の扱う範囲外であり、assertion には含めなかった。治療の裏付けには別途一次資料を要する。ステロイド製剤はいずれも国内承認薬である。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-D-①（急性散在性脳脊髄炎、b）
@@ -637,6 +679,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-019
   domain: NI
   subdomain: 急性小脳性失調症
@@ -692,7 +737,7 @@
     source_license: © Infectious Diseases Society of America（Oxford University Press、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Pourghazi F, Mahmoud O, Petri F, et al. Integrating molecular and conventional diagnostics in native vertebral osteomyelitis: a narrative review. J Bone Jt Infect. 2026;11(3)／Placide R, Reznicek J. Evaluation and Management of Pyogenic Spondylodiscitis: A Review. J Clin Med. 2025;14(10)（CC BY、PMID 42441123、DOI 10.5194/jbji-11-373-2026、PMC13336145、新規 SRC 候補）。裏づける部分：候補1（CC BY の総説）の全文に、血液培養と画像ガイド下生検が起因菌同定の診断の標準であること、血液培養で黄色ブドウ球菌などが陽性なら生検なしにも診断が成立しうるという IDSA ガイドラインの考え方が明記される。候補2（CC BY の総説、PMID 40429472、DOI 10.3390/jcm14103477、PMCID PMC12112070）の全文には、MRI が化膿性脊椎椎間板炎の評価で選択される画像検査（imaging modality of choice）であることが明記され、別の CC BY 総説（Microorganisms. 2026、PMID 42197494）の全文でも起因菌で最も多いのは黄色ブドウ球菌（26.6%）とされる。数値の照合：—。留保：「MRI が最も感度の高い画像検査」という感度の表現そのものは、候補2では「選択される画像検査」の形で支持され、感度最大の逐語は骨シンチグラフィとの比較の文脈（Microorganisms 2026 の総説：MRI 登場まで骨シンチグラフィが最も感度が高かった）から支持される。候補はいずれも出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 血液培養が陽性で画像所見が典型的な場合は生検を省略できる場合があるなど、適用には条件がある。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-E-①（化膿性脊椎炎、b）
@@ -707,6 +752,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-021
   domain: NI
   subdomain: 化膿性脊椎炎
@@ -727,7 +775,7 @@
     source_license: © Infectious Diseases Society of America（Oxford University Press、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Placide R, Reznicek J. Evaluation and Management of Pyogenic Spondylodiscitis: A Review. J Clin Med. 2025;14(10)（CC BY、PMID 40429472、DOI 10.3390/jcm14103477、PMC12112070、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、2015年の無作為化比較試験で6週間レジメンが12週間に対して非劣性だったこと、従来は炎症マーカーが下がらなければ6〜8週間を超えて延長する運用が前提だったことが明記され、「6週間の投与が標準」という主張の核が裏づけられる。数値の照合：—。留保：候補は静注から経口への切替えの早期化という近年の流れも併記しており、6週間という総投与期間の標準性は維持される一方、投与経路の運用は変わりつつある。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 使用する抗菌薬はいずれも国内承認薬の範囲で選択され、骨・関節感染症への使用は保険適用の範囲内である。膿瘍合併例や起因菌により期間は延長されることがある。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-E-①（化膿性脊椎炎、b）
@@ -742,6 +790,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-022
   domain: NI
   subdomain: 結核性骨関節炎
@@ -761,8 +812,8 @@
     url: https://doi.org/10.5312/wjo.v14.i5.275
     source_license: ライセンス未確認（World Journal of Orthopedics、Crossref にライセンス登録なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Banik S, Madavi S. Navigating Perioperative Challenges in Pott''s Spine: A Comprehensive Review. Cureus. 2024;16(5)（CC BY、PMID 38854265、DOI 10.7759/cureus.59871、PMC11157990、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、結核性脊椎炎は肺または泌尿生殖器の原発巣からの血行性播種で椎体の海綿骨に生じること、古典的には椎体前部から侵されること、治療は抗結核化学療法と整形外科的介入の組合せで、後弯などの変形や神経障害への対応が手術の文脈であることが明記され、主張の核が裏づけられる。数値の照合：—。留保：候補は手術を主題とする総説のため、「手術は高度の後弯や神経障害を呈する例に限られる」という限定の表明は候補の手術適応の議論とは角度が異なり、その部分を留保して B。主出典（SRC-1647）は区分の訂正対象（Europe PMC で CC BY-NC を確認、UNKNOWN → RESTRICTED）。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 本カードは脊椎病変を中心とした記載であり、脊椎以外の結核性骨関節炎（股関節・膝関節など）も同じ多剤併用化学療法が基盤となる。抗結核薬はいずれも国内承認薬であり保険適用の範囲内である。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-E-②（結核性骨関節炎、b）
@@ -777,6 +828,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1647 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-023
   domain: NI
   subdomain: 化膿性骨髄炎
@@ -797,7 +854,7 @@
     source_license: © American Academy of Family Physicians（CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Hajósi-Kalcakosz S, Varga E, Őri D, et al. Clinical Characteristics and Follow-Up of Children with Primary Haematogenous Osteomyelitis and Septic Arthritis. Antibiotics. 2025;14(8)（CC BY、PMID 40868015、DOI 10.3390/antibiotics14080821、PMC12382815、新規 SRC 候補）。裏づける部分：候補（CC BY のコホート研究）の全文に、小児の原発性血行性骨髄炎では黄色ブドウ球菌が最も多い起因菌（57.5%）で、全例に経験的抗菌薬（抗ブドウ球菌薬のフルクロキサシリンが最多）が投与されたこと、現在の欧州のガイダンスでは急性血行性骨髄炎の総投与期間は3〜4週間が推奨されることが明記され、主張の核が裏づけられる。数値の照合：投与期間はカード「通常4週間が標準」に対し、候補の紹介する欧州ガイダンスは総投与期間3〜4週間。カードの4週間は候補の範囲の上限と一致するが、現在の推奨の中心はやや短い（両値を記録し、フラグにも挙げた）。留保：主出典（SRC-1648、Am Fam Physician 2011）は © AAFP で RESTRICTED が正しい。候補は出典マスター未登録のため新規 SRC 登録候補
   uncertainty: 使用する抗菌薬はいずれも国内承認薬の範囲で選択され、保険適用の範囲内である。MRSA の頻度により経験的治療の選択は地域で異なる。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-E-③（化膿性骨髄炎、b）
@@ -812,6 +869,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-024
   domain: NI
   subdomain: 化膿性骨髄炎
@@ -832,7 +892,7 @@
     source_license: © American Academy of Family Physicians（CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Sambri A, Bruschi A, Scollo C, De Paolis M. Local Antibiotic-Loadable Carriers for the Treatment of Chronic Osteomyelitis: A Narrative Review. Bioengineering. 2026;13(4)（CC BY、PMID 42072230、DOI 10.3390/bioengineering13040436、PMC13113539、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、慢性骨髄炎は腐骨（壊死した死骨）の存在を特徴とし、血流を失った腐骨が細菌を宿主免疫と抗菌薬から守ること、管理のゴールドスタンダードは外科的治療と薬物治療の組合せ（徹底したデブリドマンが中心）であること、見かけ上成功した治療の後も数年して晩期再発が起こりうることが明記され、主張の核が裏づけられる。数値の照合：—。留保：「再発率は高い」の定量的な水準は候補では再発と再手術のアウトカムとして論じられるにとどまり、特定の再発率の数値はカード自体にも置かれていない。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 成人の慢性骨髄炎の抗菌薬期間は急性例より数週間長くなると同総説に記載されている。具体的な期間は感染巣の範囲と起因菌により個別化される。 個別の抗菌薬の国内承認・保険適用は未確認。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-E-③（化膿性骨髄炎、b）
@@ -847,6 +907,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-025
   domain: NI
   subdomain: 化膿性関節炎
@@ -867,7 +930,7 @@
     source_license: © American Academy of Family Physicians（CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Khodadadi RB, Matsuo T, Reasoner KC, et al. State-of-the-Art Review: Native Joint Septic Arthritis Epidemiology, Pathogenesis, Microbiology, Diagnosis, Management, and Outcomes. Clin Infect Dis. 2026;83(4)（CC BY、PMID 42950136、DOI 10.1093/cid/ciag473、PMC13715976、新規 SRC 候補）。裏づける部分：候補（CC BY の最新の総説）の全文に、自己関節の化膿性関節炎は時間的緊急性の高い救急病態であること、疑えば速やかな関節穿刺と関節液検査を血液培養と並んで優先すること、起因菌は黄色ブドウ球菌が最も多く（次いでレンサ球菌）であることが明記され、主張の核が裏づけられる。数値の照合：治療期間はカード「通常2〜6週間」に対し、候補はガイドラインパネルの示す総投与期間4〜6週間、大関節の症例の多くは3〜4週間が適切とする（両値を記録）。カードの下限2週間は候補の枠組みより短い。留保：「関節液を採取した後に経験的抗菌薬を開始する」という順序は、候補では穿刺と関節液検査を優先する評価の流れとして実質的に支持される。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 使用する抗菌薬はいずれも国内承認薬の範囲で選択され、保険適用の範囲内である。淋菌性関節炎など起因菌により治療が異なるため、病歴と関節液のグラム染色が初期選択の手がかりになる。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-E-④（化膿性関節炎、b）
@@ -882,6 +945,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-026
   domain: NI
   subdomain: 亜急性硬化性全脳炎
@@ -902,7 +968,7 @@
     source_license: © Wiley（Developmental Medicine & Child Neurology、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Mihailov MD, Manea MS, Olariu IC, Doros GS. The Anti-Vaccine Legacy: Re-Emergence of Subacute Sclerosing Panencephalitis in Children. NeuroSci. 2026;7(2)（CC BY、PMID 42042625、DOI 10.3390/neurosci7020044、PMC13118877、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、SSPE は麻疹ウイルスの持続感染による慢性進行性の中枢神経変性疾患で、発症は初感染の数年後であること、症状は認知低下や行動・性格の変化に始まり周期性ミオクローヌスなどの運動症状へ進むこと、診断は髄液／血清の抗麻疹抗体価上昇という免疫学的証拠と脳波の周期性放電に支えられること、死亡率は約95%と極めて高く、第I期から最終期まで1〜5年で死亡に至ることが明記され、主張の核が裏づけられる。数値の照合：発症までの期間はカード「麻疹罹患から平均6年後」に対し、候補の症例集積では平均潜伏期間7.1年（範囲4〜9年）。一般論としての「数年後」は一致するが、平均値の置き方は出典により異なる（両値を記録）。留保：候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 発症頻度は麻疹ワクチンの接種率に左右され、接種が普及した地域では稀である。インターフェロンやリバビリン等の治療は確立したものではなく、同総説でも試験的治療として扱われている。
   curriculum:
     kokushi: 医学各論 Ⅸ-11-E-②（亜急性硬化性全脳炎<SSPE>、b）
@@ -917,6 +983,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-027
   domain: NI
   subdomain: 自己免疫性脳炎
@@ -937,7 +1006,7 @@
     source_license: © Elsevier Ltd（Lancet Neurology、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Karabulut S, Uyaroğlu HO, Barçın E. Seronegative Autoimmune Encephalitis: A Case Report and Literature Review on Psychiatric Presentations. Case Rep Psychiatry. 2026;2026（CC BY、PMID 42516543、DOI 10.1155/crps/9618597、PMC13402879、新規 SRC 候補）。裏づける部分：候補1（CC BY の症例報告・文献レビュー）の全文に、Graus 2016 の possible autoimmune encephalitis の基準がほぼそのまま再掲される：3か月未満の亜急性の経過で記憶障害・精神状態の変化・精神症状のいずれかが現れ、新規の局所神経所見・新規発症のけいれん発作・髄液細胞増多・脳炎を示唆する MRI 所見のうち少なくとも1つを伴うこと。候補2（CC BY の総説、PMID 41904946、DOI 10.1002/advs.202519049、PMCID PMC13326022）の全文には、Graus らの基準は特異的抗体結果が得られる前でも適用でき、早期の治療開始につながる枠組みであることが明記され、「抗体検査の結果を待たずに臨床症候群から診断を進める」という主張の枠組みも裏づけられる。数値の照合：—。留保：髄液細胞増多の閾値（5個/mm³超）と「他の原因が合理的に除外できる」という要素は候補1の再掲には含まれず、その部分を留保して B。主出典（SRC-1625）は PMC に著者原稿が収載されるがライセンス表示はなく RESTRICTED が正しい（PMCID は補完候補として区分訂正の節に記録）。候補はいずれも出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 本基準は専門家コンセンサスに基づく操作的基準であり、確定診断には自己抗体の検出等が別途必要となる。免疫療法の内容は NI-029 を参照。 免疫療法に用いる薬剤の国内承認・保険適用の確認状況は NI-029 に記載した。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-A-①（脳炎、a）
@@ -952,6 +1021,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-028
   domain: NI
   subdomain: 抗NMDA受容体脳炎
@@ -972,7 +1044,7 @@
     source_license: © Elsevier Ltd（Lancet Neurology、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Vampertzi O, Iosifidis E, Zelilidou A, et al. Infections and Anti-N-Methyl-D-Aspartate Receptor Encephalitis in Children and Adolescents: A Scoping Review of Evidence Since the COVID-19 Pandemic. Children. 2026;13(10)／Wu CY, Wu JD, Chen CC. The Association of Ovarian Teratoma and Anti-N-Methyl-D-Aspartate Receptor Encephalitis: An Updated Integrative Review. Int J Mol Sci. 2021;22(20)（CC BY、PMID 42940620、DOI 10.3390/children13101301、PMC13703472、新規 SRC 候補）。裏づける部分：候補1（CC BY のスコーピングレビュー）の全文に、抗 NMDA 受容体脳炎は若年女性に多く、女性対男性比は約4:1、発症年齢の中央値は21歳と明記される。候補2（CC BY の総説、PMID 34681570、DOI 10.3390/ijms222010911、PMCID PMC8535897）の全文には、18歳を超える女性で卵巣奇形腫の頻度が56%だったという報告が明記され、腫瘍合併の水準も裏づけられる。数値の照合：腫瘍合併はカード「18歳以上の女性で約58%（多くは卵巣奇形腫）」に対し、候補2は「18歳を超える女性で卵巣奇形腫56%」（奇形腫に限る別のコホートの値）。58%は全腫瘍の割合で、数値は近接するが同一の指標ではない（両値を記録）。留保：臨床経過の段階的な進行（精神症状で始まり、言語障害・ジスキネジアやカタトニア・自律神経不安定・意識低下へ）は、複数の CC BY 総説・症例報告に定性的な再掲があるが、数値の裏づけを担う候補1・2には含めなかった。主出典（SRC-1625）は NI-027 と共通。候補はいずれも出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 腫瘍合併率は年齢・性別で大きく異なり、12 歳未満の小児では 0〜5% と低い。数値は出典本文で確認した。治療は NI-029 を参照。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-A-①（脳炎、a）
@@ -987,6 +1059,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-029
   domain: NI
   subdomain: 自己免疫性脳炎
@@ -1007,7 +1082,7 @@
     source_license: © Elsevier Ltd（Lancet Neurology、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Liu CY, Zhu J, Zheng XY, et al. Anti-N-Methyl-D-aspartate Receptor Encephalitis: A Severe, Potentially Reversible Autoimmune Encephalitis. Mediators Inflamm. 2017;2017（CC BY、PMID 28698711、DOI 10.1155/2017/6361479、PMC5494059、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、第一選択免疫療法は副腎皮質ステロイド・免疫グロブリン静注・血漿交換で、腫瘍が見つかれば摘出を検討すること、第一選択で改善しない例にはリツキシマブ・シクロホスファミドなどの第二選択免疫療法が用いられることが明記され、さらに本カードの主出典のコホートについて、追跡された501例のうち472例（94%）が第一選択免疫療法または腫瘍摘出を受け、その約50%が4週以内に改善し、第一選択に反応しなかった221例中125例が第二選択を受けて、受けなかった例より転帰が良かったことが明記され、主張の核が裏づけられる。数値の照合：4週以内の改善はカード53%（577例コホート）に対し、候補は「約50%」（追跡された501例を分母とする概数表記）で実質一致する。留保：「治療開始が早いことが転帰良好の予測因子」という要素は、候補では抗体価の早期低下と転帰の関係などの形で論じられ、逐語の再掲は弱いため、その一点を留保して B。主出典（SRC-1626）は PMC に著者原稿が収載されるがライセンス表示はなく RESTRICTED が正しい（PMCID は補完候補として区分訂正の節に記録）。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 数値は抄録で確認。ステロイド、免疫グロブリン製剤、リツキシマブ、シクロホスファミドはいずれも国内承認薬だが、自己免疫性脳炎に対する適応・保険適用は薬剤ごとに異なり、リツキシマブ等の本疾患への保険適用は本カードでは未確認である。血漿交換の保険適用も疾患ごとに定められており、個別の確認を要する。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-A-①（脳炎、a）
@@ -1022,6 +1097,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による
 - id: NI-030
   domain: NI
   subdomain: 髄膜炎
@@ -1042,7 +1120,7 @@
     source_license: © European Society of Clinical Microbiology and Infectious Diseases（Elsevier、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ49 2026-11-12）：Zambelli G, Masetti M, Diona S, et al. Adjunctive Corticosteroids in Pediatric Meningitis: Current Evidence, Clinical Controversies, and Future Directions. Pharmaceuticals. 2026;19(10)／Román-Montes CM, Pérez-López VA, Avalos-Celis NE, et al. Outcomes of acute meningitis according to immunosuppression status: 15-year retrospective cohort. PLoS One. 2026;21(3)（CC BY、PMID 42943260、DOI 10.3390/ph19101563、PMC13708625、新規 SRC 候補）。裏づける部分：候補1（CC BY の総説）の全文に、古典的三徴がそろうのを待たずに評価と治療を開始すること、穿刺前の画像検査は適応を限って行うこと、穿刺が遅れる場合は血液培養を採取して直ちに治療を開始すること、経験的抗菌薬は受診後1時間以内を理想とすることが明記される。候補2（CC BY のコホート研究、PMID 41875396、DOI 10.1371/journal.pone.0344150、PMCID PMC13012731）の全文では、古典的三徴がそろったのは免疫抑制の有無にかかわらず約2割（19〜21%）にとどまり、カードの「半数以下」という記述と一致する。数値の照合：三徴の頻度はカード「半数以下」に対し、候補2は19〜21%で、カードの範囲内に収まる。留保：ESCMID ガイドライン固有の CT 先行の4条件（局所神経脱落所見・新規発症のけいれん発作・GCS 10未満・高度の免疫不全）の逐条の再掲は候補になく、その細部を留保して B。候補1は小児中心の総説だが、1時間以内の目標や血液培養先行の原則は年齢を問わない形で述べられている。候補はいずれも出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 本カードは ESCMID ガイドライン（2016年）の本文で確認した範囲に基づく。既存カード NI-008 の出典である細菌性髄膜炎診療ガイドライン2014（国内）は本文未入手のため、臨床像と初期評価の逐語確認が可能な本ガイドラインを新規出典とした。Kernig 徴候・Brudzinski 徴候などの髄膜刺激徴候は感度が低く診断への寄与は限られることが同ガイドラインに記載されている。小児では発熱・頭痛・項部硬直・嘔吐が多いとされるが、本カードは成人の所見に絞った。経験的抗菌薬の具体的な薬剤選択は既存カード NI-009〜011 が担い、本カードでは薬剤名は含めていない（国内で承認された抗菌薬製剤を用いる）。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-A-②（髄膜炎、a）
@@ -1057,3 +1135,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ49 2026-11-12）。三原の承認（2026-11-11）による

@@ -1,6 +1,6 @@
 # UR 尿路の結石・閉塞・炎症・形態と機能の異常・損傷 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-11
+[← 一覧に戻る](README.md)　更新：2026-11-12
 
 全 43 件のうち、監修済み 0 件。
 
@@ -22,7 +22,7 @@
 
 - 条件：region: 国際／study: 系統的レビュー・メタ解析（無作為化比較試験55件）
 - 不確実性：タムスロシンなどのα遮断薬には、国内では尿管結石の排石を効能・効果とする承認がなく、排石目的の使用は適応外となる。保険適用の詳細は本調査では未確認である。また、体外衝撃波結石破砕術や内視鏡的治療の選択基準は本出典の対象範囲外であり、本カードでは扱っていない。
-- 出典：Hollingsworth JM, et al. Alpha blockers for treatment of ureteric stones: systematic review and meta-analysis. BMJ. 2016;355:i6112.　[DOI 10.1136/bmj.i6112](https://doi.org/10.1136/bmj.i6112)　[PMID 27908918](https://pubmed.ncbi.nlm.nih.gov/27908918/)（区分 UNKNOWN）
+- 出典：Hollingsworth JM, et al. Alpha blockers for treatment of ureteric stones: systematic review and meta-analysis. BMJ. 2016;355:i6112.　[DOI 10.1136/bmj.i6112](https://doi.org/10.1136/bmj.i6112)　[PMID 27908918](https://pubmed.ncbi.nlm.nih.gov/27908918/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-4-A-①（腎結石、尿管結石、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-341 (id: Jlvnl_I)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-002&card_id=UR-002&version=987eebda2d)　（版 `987eebda2d`）
 
@@ -32,7 +32,7 @@
 
 - 条件：region: イタリア／study: 無作為化比較試験（220例、5年追跡）
 - 不確実性：対象は代謝異常のない初発の特発性カルシウム結石患者であり、再発例や代謝異常を伴う患者に対する食事療法・薬物療法は本出典では扱われていない。
-- 出典：Borghi L, Meschi T, Amato F, Briganti A, Novarini A, Giannini A. Urinary volume, water and recurrences in idiopathic calcium nephrolithiasis: a 5-year randomized prospective study. Journal of Urology. 1996;155(3):839-843.　[DOI 10.1016/S0022-5347(01)66321-3](https://doi.org/10.1016/S0022-5347(01)66321-3)　[PMID 8583588](https://pubmed.ncbi.nlm.nih.gov/8583588/)（区分 UNKNOWN）
+- 出典：Borghi L, Meschi T, Amato F, Briganti A, Novarini A, Giannini A. Urinary volume, water and recurrences in idiopathic calcium nephrolithiasis: a 5-year randomized prospective study. Journal of Urology. 1996;155(3):839-843.　[DOI 10.1016/S0022-5347(01)66321-3](https://doi.org/10.1016/S0022-5347(01)66321-3)　[PMID 8583588](https://pubmed.ncbi.nlm.nih.gov/8583588/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-4-A-①（腎結石、尿管結石、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-341 (id: Jlvnl_I)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-003&card_id=UR-003&version=079f85c733)　（版 `079f85c733`）
 
@@ -130,7 +130,7 @@
 
 - 条件：region: 米国／study: 無作為化比較試験（二重盲検・プラセボ対照）
 - 不確実性：トリメトプリム・スルファメトキサゾール合剤の小児膀胱尿管逆流に対する予防投与について、国内承認・保険適用は本調査では未確認である。米国で実施された試験であり、起炎菌の耐性状況は国内と異なる可能性がある。
-- 出典：RIVUR Trial Investigators; Hoberman A, Greenfield SP, Mattoo TK, et al. Antimicrobial prophylaxis for children with vesicoureteral reflux. New England Journal of Medicine. 2014;370(25):2367-2376.　[DOI 10.1056/NEJMoa1401811](https://doi.org/10.1056/NEJMoa1401811)　[PMID 24795142](https://pubmed.ncbi.nlm.nih.gov/24795142/)（区分 UNKNOWN）
+- 出典：RIVUR Trial Investigators; Hoberman A, Greenfield SP, Mattoo TK, et al. Antimicrobial prophylaxis for children with vesicoureteral reflux. New England Journal of Medicine. 2014;370(25):2367-2376.　[DOI 10.1056/NEJMoa1401811](https://doi.org/10.1056/NEJMoa1401811)　[PMID 24795142](https://pubmed.ncbi.nlm.nih.gov/24795142/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-4-C-②（膀胱尿管逆流、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-339 (id: Jlvnl-8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-011&card_id=UR-011&version=6e08987d12)　（版 `6e08987d12`）
 
@@ -332,7 +332,7 @@
 
 - 条件：region: オーストラリア／study: 単施設の女児22例の症例集積（15年間）
 - 不確実性：1992年の単施設症例集積の抄録で確認した範囲であり、現在の画像診断や術式の実情とは異なる場合がある。出典のライセンス表示は確認できなかった。
-- 出典：Ahmed S, Morris LL, Byard RW. Ectopic ureter with complete ureteric duplication in the female child. J Pediatr Surg. 1992;27(11):1455-1460　[DOI 10.1016/0022-3468(92)90199-h](https://doi.org/10.1016/0022-3468(92)90199-h)　[PMID 1479509](https://pubmed.ncbi.nlm.nih.gov/1479509/)（区分 UNKNOWN）
+- 出典：Ahmed S, Morris LL, Byard RW. Ectopic ureter with complete ureteric duplication in the female child. J Pediatr Surg. 1992;27(11):1455-1460　[DOI 10.1016/0022-3468(92)90199-h](https://doi.org/10.1016/0022-3468(92)90199-h)　[PMID 1479509](https://pubmed.ncbi.nlm.nih.gov/1479509/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-10-A-②（異所性尿管開口、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-429 (id: JlvnmHg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-024&card_id=UR-024&version=cbd97898d3)　（版 `cbd97898d3`）
 
@@ -384,7 +384,7 @@
 
 - 条件：region: 日本／study: 健診受診者14,314人の横断調査と45人の経過観察
 - 不確実性：数値は2002年の日本の健診集団の抄録で確認した範囲である。出典のライセンス表示は確認できなかった。
-- 出典：Terada N, Ichioka K, Matsuta Y, Okubo K, Yoshimura K, Arai Y. The natural history of simple renal cysts. J Urol. 2002;167(1):21-23　[DOI 10.1016/S0022-5347(05)65373-6](https://doi.org/10.1016/S0022-5347(05)65373-6)　[PMID 11743266](https://pubmed.ncbi.nlm.nih.gov/11743266/)（区分 UNKNOWN）
+- 出典：Terada N, Ichioka K, Matsuta Y, Okubo K, Yoshimura K, Arai Y. The natural history of simple renal cysts. J Urol. 2002;167(1):21-23　[DOI 10.1016/S0022-5347(05)65373-6](https://doi.org/10.1016/S0022-5347(05)65373-6)　[PMID 11743266](https://pubmed.ncbi.nlm.nih.gov/11743266/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-10-A-④（単純性腎嚢胞、b）　コアカリ：PS-02-09-05 (id: JkxnuRs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UR-026&card_id=UR-026&version=62c567c14d)　（版 `62c567c14d`）
 

@@ -3346,14 +3346,17 @@
   doi: 10.1056/NEJMoa1814052
   pmid: '30883058'
   pmcid: null
-  license_note: 未確認（出版社の著作物と考えられる）
+  license_note: NEJM Group の利用条件（CC ではない、Crossref の version-of-record）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（出版社の著作物と考えられる）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-239
   legacy_id: null
   title: Connolly SJ, Karthikeyan G, et al. Rivaroxaban in Rheumatic Heart Disease-Associated Atrial Fibrillation. N Engl J Med 2022;387:978-988
@@ -3361,14 +3364,17 @@
   doi: 10.1056/NEJMoa2209051
   pmid: '36036525'
   pmcid: null
-  license_note: 未確認（出版社の著作物と考えられる）
+  license_note: NEJM Group の利用条件（CC ではない、Crossref の version-of-record）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（出版社の著作物と考えられる）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-240
   legacy_id: null
   title: 'Committee for Scientific Affairs, The Japanese Association for Thoracic Surgery; Yoshimura N, Sato Y, et al. Thoracic and cardiovascular surgeries in Japan during 2021: Annual report by the Japanese Association for Thoracic Surgery. Gen Thorac Cardiovasc Surg 2024;72:254-291'
@@ -7471,7 +7477,7 @@
   doi: 10.1016/j.kint.2016.09.046
   pmid: '28003083'
   pmcid: null
-  license_note: 出版社の著作物（KDIGO 会議報告、CC 表示なし）
+  license_note: CC BY-NC-SA 4.0（作り手が Crossref の version-of-record と Europe PMC で確認、2026-11-12）。旧記録：出版社の著作物（KDIGO 会議報告、CC 表示なし）
   legacy_basis_tag: null
   legal_basis: B
   source_class: RESTRICTED
@@ -7479,6 +7485,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md の出典マスター表から
+  - date: '2026-11-12'
+    by: claude-code
+    change: license_note を CC BY-NC-SA 4.0 に精密化（区分 RESTRICTED は変更なし、作り手の調査バッチ50）。三原の承認（2026-11-11 の取り扱い方針）による
 - id: SRC-629
   legacy_id: null
   title: 'Tetti M, Monticone S, Burrello J, et al. Liddle Syndrome: Review of the Literature and Description of a New Case. Int J Mol Sci. 2018;19(3):812'
@@ -8344,14 +8353,17 @@
   doi: 10.1136/bmj.i6112
   pmid: '27908918'
   pmcid: null
-  license_note: 未確認（UNKNOWN）
+  license_note: CC BY-NC 4.0（Europe PMC）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（UNKNOWN）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-693
   legacy_id: null
   title: 'Borghi L, Meschi T, Amato F, Briganti A, Novarini A, Giannini A. Urinary volume, water and recurrences in idiopathic calcium nephrolithiasis: a 5-year randomized prospective study. Journal of Urology. 1996;155(3):839-843.'
@@ -8359,14 +8371,17 @@
   doi: 10.1016/S0022-5347(01)66321-3
   pmid: '8583588'
   pmcid: null
-  license_note: 未確認（UNKNOWN）
+  license_note: 出版社の著作物（OA 表示・ライセンス表示なし）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（UNKNOWN）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-694
   legacy_id: null
   title: 'Jung JH, Park J, Kim WT, Kim HW, Kim HJ, Hong S, et al. The association of benign prostatic hyperplasia with lower urinary tract stones in adult men: a retrospective multicenter study. Asian Journal of Urology. 2018;5(2):118-121.'
@@ -8434,14 +8449,17 @@
   doi: 10.1056/NEJMoa1401811
   pmid: '24795142'
   pmcid: null
-  license_note: 未確認（UNKNOWN）
+  license_note: PMC の著者稿にライセンス表示なし（NEJM）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（UNKNOWN）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-699
   legacy_id: null
   title: 'Lee DG, Jeon SH, Lee CH, Lee SJ, Kim JI, Chang SG. Acute Pyelonephritis: Clinical Characteristics and the Role of the Surgical Treatment. Journal of Korean Medical Science. 2009;24(2):296-301.'
@@ -8554,14 +8572,17 @@
   doi: 10.1016/0022-3468(92)90199-h
   pmid: '1479509'
   pmcid: null
-  license_note: 出版社の著作物（CC の表示を確認できず）
+  license_note: 出版社の著作物（OA 表示・ライセンス表示なし）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：出版社の著作物（CC の表示を確認できず）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-710
   legacy_id: null
   title: 'American College of Obstetricians and Gynecologists. Pelvic Organ Prolapse: ACOG Practice Bulletin, Number 214. Obstet Gynecol. 2019;134(5):e126-e142'
@@ -8584,14 +8605,17 @@
   doi: 10.1016/S0022-5347(05)65373-6
   pmid: '11743266'
   pmcid: null
-  license_note: 出版社の著作物（CC の表示を確認できず）
+  license_note: 出版社の著作物（OA 表示・ライセンス表示なし）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：出版社の著作物（CC の表示を確認できず）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-712
   legacy_id: null
   title: 'Reiterová J, Tesař V. Autosomal Dominant Polycystic Kidney Disease: From Pathophysiology of Cystogenesis to Advances in the Treatment. Int J Mol Sci. 2022;23(6):3317'
@@ -17890,14 +17914,17 @@
   doi: 10.1212/WNL.0b013e31828c2fa1
   pmid: '23568998'
   pmcid: null
-  license_note: null
+  license_note: PMC の著者稿にライセンス表示なし、Crossref に CC なし（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1633
   legacy_id: null
   title: Antinori A, Arendt G, Becker JT, et al. Updated research nosology for HIV-associated neurocognitive disorders. Neurology. 2007;69(18):1789-1799
@@ -17905,14 +17932,17 @@
   doi: 10.1212/01.WNL.0000287431.88658.8b
   pmid: '17914061'
   pmcid: null
-  license_note: null
+  license_note: PMC の著者稿にライセンス表示なし、Crossref に CC なし（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1634
   legacy_id: null
   title: 'Puccioni-Sohler M, Poton AR, Cabral-Castro MJ, et al. Human T Lymphotropic Virus 1-Associated Myelopathy: Overview of Human T Cell Lymphotropic Virus-1/2 Tests and Potential Biomarkers. AIDS Res Hum Retroviruses. 2022;38(12):924-932'
@@ -17935,14 +17965,17 @@
   doi: 10.1093/brain/awp191
   pmid: '19773352'
   pmcid: null
-  license_note: null
+  license_note: CC BY-NC 4.0（Europe PMC）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1636
   legacy_id: null
   title: 厚生労働科学研究費補助金難治性疾患政策研究事業「プリオン病及び遅発性ウイルス感染症に関する調査研究班」、厚生労働行政推進調査事業費補助金「プリオン病のサーベイランスと感染予防に関する調査研究班」. プリオン病診療ガイドライン2026. 2026
@@ -18115,14 +18148,17 @@
   doi: 10.5312/wjo.v14.i5.275
   pmid: '37304201'
   pmcid: null
-  license_note: null
+  license_note: CC BY-NC 4.0（Europe PMC）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1648
   legacy_id: null
   title: Hatzenbuehler J, Pulling TJ. Diagnosis and management of osteomyelitis. Am Fam Physician. 2011;84(9):1027-1033
@@ -34525,14 +34561,17 @@
   doi: 10.1038/nrcardio.2016.57
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: Springer Nature の TDM 表示のみ（CC ではない）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-4394
   legacy_id: null
   title: Spitz L. Oesophageal atresia. Orphanet J Rare Dis. 2007;2:24.
@@ -36762,3 +36801,33 @@
   pmid: '38276198'
   source_class: OPEN
   title: 'Miron M, Blaj M, Ristescu AI, et al. Hospital-Acquired Pneumonia and Ventilator-Associated Pneumonia: A Literature Review. Microorganisms. 2024;12(1):213'
+- citation: Jia DT. Progressive multifocal leukoencephalopathy - a diagnostic guide for the clinical neurologist. Front Neurol. 2026;17
+  doi: 10.3389/fneur.2026.1692522
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5024
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://europepmc.org/article/MED/41988494
+  pmcid: PMC13076114
+  pmid: '41988494'
+  source_class: OPEN
+  title: Jia DT. Progressive multifocal leukoencephalopathy - a diagnostic guide for the clinical neurologist. Front Neurol. 2026;17
+- citation: 'Hahn K, Arendt G, Eggers C, et al. Guideline of the German Society of Neurology (DGN): "diagnosis and therapy of HIV-1-associated neurological disorders". Neurol Res Pract. 2026;8(1)'
+  doi: 10.1186/s42466-026-00519-y
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5025
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://europepmc.org/article/MED/42596004
+  pmcid: PMC13474671
+  pmid: '42596004'
+  source_class: OPEN
+  title: 'Hahn K, Arendt G, Eggers C, et al. Guideline of the German Society of Neurology (DGN): "diagnosis and therapy of HIV-1-associated neurological disorders". Neurol Res Pract. 2026;8(1)'
