@@ -1,0 +1,829 @@
+# 出典台帳（source registry） v1.1
+# usage_tier: A=商用・改変可 / B=改変可・継承義務 / C=非営利のみ / D=改変禁止（照合用のみ） / E=権利留保・許諾待ち（事実票の根拠にしない）
+# license_verification_status: verified=出版社ページ・本文・IRIS等で確認 / verified_secondary=機関リポジトリ等の二次情報で確認 / needs_check=未確認
+# 確認日はすべて 2026-11-08（Claudeによる調査）。採用前に研究者が原本で目視確認すること。
+# identifier_verification: search_only の DOI は、検索結果・出版社ページで見ただけで、Crossref・NCBI API での照合は未実施。
+#   data/facts へ移す前に、レポジトリ本体の CLAUDE.md 第6節の手順で照合し、確認できないものは null にする。
+
+sources:
+
+# ---------------------------------------------------------------- Tier A
+- source_id: MATSUMOTO_VCM_TDM_2022
+  title: "Clinical Practice Guidelines for Therapeutic Drug Monitoring of Vancomycin in the Framework of Model-Informed Precision Dosing: A Consensus Review by the Japanese Society of Chemotherapy and the Japanese Society of Therapeutic Drug Monitoring"
+  citation: "Matsumoto K, Oda K, Shoji K, et al. Pharmaceutics. 2022;14(3):489."
+  source_level: level_1_public_guideline
+  publication_type: guideline
+  publisher_or_organization: 日本化学療法学会・日本TDM学会（MDPI Pharmaceutics掲載）
+  publication_year: 2022
+  version: "2022（日本語版：抗菌薬TDM臨床実践ガイドライン2022 VCM章の英語版）"
+  language: en
+  url_or_location: https://doi.org/10.3390/pharmaceutics14030489
+  doi: 10.3390/pharmaceutics14030489
+  identifier_verification: search_only
+  accessed_at: "2026-11-08"
+  access_status: public
+  copyright_status: licensed
+  license: CC BY 4.0
+  license_url: https://creativecommons.org/licenses/by/4.0/
+  license_evidence: "論文末尾のライセンス表示（事前調査レポート）。MDPIページのメタデータには CC BY 3.0 の表記があり、いずれもCC BY。"
+  license_verified_at: "2026-11-08"
+  license_verification_status: verified_secondary
+  usage_tier: A
+  commercial_use: true
+  derivatives: true
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: VCMのAUCガイドTDM、採血ポイント、初回TDM時期、負荷投与量・維持投与量、腎機能低下時、持続投与（CQ1〜CQ10）
+  out_of_scope: 小児・透析・CRRT・肥満の詳細（初期版の適用範囲外）
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: "CC BYのため表（ノモグラム等）も帰属表示付きで再利用可能。ライセンス版（3.0/4.0）は原本末尾で目視確認すること。"
+
+- source_id: TSUTSUURA_VCM_MA_2021
+  title: "The monitoring of vancomycin: a systematic review and meta-analyses of area under the concentration-time curve-guided dosing and trough-guided dosing"
+  citation: "Tsutsuura M, Moriyama H, Kojima N, et al. BMC Infect Dis. 2021;21:153."
+  source_level: level_2_peer_reviewed
+  publication_type: systematic_review
+  publisher_or_organization: BioMed Central（日本化学療法学会・日本TDM学会ガイドライン委員会の系統的レビュー）
+  publication_year: 2021
+  version: "2021"
+  language: en
+  url_or_location: https://doi.org/10.1186/s12879-021-05858-6
+  doi: 10.1186/s12879-021-05858-6
+  identifier_verification: search_only
+  accessed_at: "2026-11-08"
+  access_status: public
+  copyright_status: licensed
+  license: CC BY 4.0
+  license_url: https://creativecommons.org/licenses/by/4.0/
+  license_evidence: 論文PDF冒頭のライセンス表示（Springer配信PDF）
+  license_verified_at: "2026-11-08"
+  license_verification_status: verified
+  usage_tier: A
+  commercial_use: true
+  derivatives: true
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: VCMトラフ値・AUCと有効性・AKIの関連、AUCガイド対トラフガイドのメタ解析
+  out_of_scope: null
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: null
+
+- source_id: JSSCG_2024_JIC
+  title: "The Japanese Clinical Practice Guidelines for Management of Sepsis and Septic Shock 2024"
+  citation: "Shime N, Nakada T, Yatabe T, et al. J Intensive Care. 2025;13:15."
+  source_level: level_1_public_guideline
+  publication_type: guideline
+  publisher_or_organization: 日本集中治療医学会・日本救急医学会（BMC Journal of Intensive Care掲載）
+  publication_year: 2025
+  version: "J-SSCG 2024（英語版、Journal of Intensive Care版）"
+  language: en
+  url_or_location: https://doi.org/10.1186/s40560-025-00776-0
+  doi: 10.1186/s40560-025-00776-0
+  identifier_verification: search_only
+  accessed_at: "2026-11-08"
+  access_status: public
+  copyright_status: licensed
+  license: CC BY 4.0
+  license_url: http://creativecommons.org/licenses/by/4.0/
+  license_evidence: PMC掲載本文のライセンス表示（PMC11907869）
+  license_verified_at: "2026-11-08"
+  license_verification_status: verified
+  usage_tier: A
+  commercial_use: true
+  derivatives: true
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: 敗血症の抗菌薬治療（CQ2-1〜CQ2-12）、血液培養（CQ1-4）
+  out_of_scope: 抗菌薬以外の領域（初期版では使用しない）
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: "同じ内容の Acute Medicine & Surgery 版（JSSCG_2024_AMS）は CC BY-NC-ND のため、必ずこちらの版を出典にする。"
+
+- source_id: UK_MRSA_GL_2021
+  title: "Treatment of methicillin-resistant Staphylococcus aureus (MRSA): updated guidelines from the UK"
+  citation: "Brown NM, Goodman AL, Horner C, Jenkins A, Brown EM. JAC Antimicrob Resist. 2021;3(1):dlaa114."
+  source_level: level_1_public_guideline
+  publication_type: guideline
+  publisher_or_organization: BSAC・BIA・HIS・IPS（英国）
+  publication_year: 2021
+  version: "2021（2008年版の改訂）"
+  language: en
+  url_or_location: https://doi.org/10.1093/jacamr/dlaa114
+  doi: 10.1093/jacamr/dlaa114
+  identifier_verification: search_only
+  accessed_at: "2026-11-08"
+  access_status: public
+  copyright_status: licensed
+  license: CC BY 4.0
+  license_url: http://creativecommons.org/licenses/by/4.0/
+  license_evidence: 機関リポジトリ（UCL Discovery）の書誌に記載された出版社ライセンス表示
+  license_verified_at: "2026-11-08"
+  license_verification_status: verified_secondary
+  usage_tier: A
+  commercial_use: true
+  derivatives: true
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: MRSA感染症の病態別の薬剤選択・治療期間（菌血症、肺炎、皮膚軟部組織、尿路、骨関節など）
+  out_of_scope: 英国で承認・使用される用量の日本への直接適用
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: "英国の疫学・承認状況に基づく推奨。日本の承認用量・保険適用とは一致しない場合がある。"
+
+- source_id: LIN_LZD_CONSENSUS_2022
+  title: "Expert consensus statement on therapeutic drug monitoring and individualization of linezolid"
+  citation: "Lin et al.（著者名は原本で要確認）. Front Public Health. 2022;10:967311."
+  source_level: level_2_peer_reviewed
+  publication_type: other
+  publisher_or_organization: 浙江省薬理学会TDM部会ほか（中国）（Frontiers掲載）
+  publication_year: 2022
+  version: "2022"
+  language: en
+  url_or_location: https://doi.org/10.3389/fpubh.2022.967311
+  doi: 10.3389/fpubh.2022.967311
+  identifier_verification: search_only
+  accessed_at: "2026-11-08"
+  access_status: public
+  copyright_status: licensed
+  license: CC BY 4.0
+  license_url: https://creativecommons.org/licenses/by/4.0/
+  license_evidence: 論文PDFのライセンス表示（Creative Commons Attribution License (CC BY)）
+  license_verified_at: "2026-11-08"
+  license_verification_status: verified
+  usage_tier: A
+  commercial_use: true
+  derivatives: true
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: リネゾリドTDMの適応と目標トラフ値
+  out_of_scope: null
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: "海外（中国の地域学会）の専門家コンセンサス。著者名の綴りは原本で確認すること。"
+
+- source_id: LZD_RENAL_BMCPT_2022
+  title: "【要確認：論文名】リネゾリドの腎機能低下患者における血液毒性とトラフ値に関する系統的レビュー"
+  citation: "BMC Pharmacol Toxicol. 2022. doi:10.1186/s40360-022-00628-9（著者・巻号は要確認）"
+  source_level: level_2_peer_reviewed
+  publication_type: systematic_review
+  publisher_or_organization: BioMed Central（慶應義塾大学薬学部ほか）
+  publication_year: 2022
+  version: "2022"
+  language: en
+  url_or_location: https://doi.org/10.1186/s40360-022-00628-9
+  doi: 10.1186/s40360-022-00628-9
+  identifier_verification: search_only
+  accessed_at: "2026-11-08"
+  access_status: public
+  copyright_status: licensed
+  license: CC BY 4.0
+  license_url: http://creativecommons.org/licenses/by/4.0/
+  license_evidence: 論文PDFのライセンス表示
+  license_verified_at: "2026-11-08"
+  license_verification_status: verified
+  usage_tier: A
+  commercial_use: true
+  derivatives: true
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: 腎機能低下時のリネゾリドの血液毒性、安全なトラフ値の目安
+  out_of_scope: null
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: "論文名・著者を原本で確認して citation を確定すること。"
+
+- source_id: THIROT_LZD_2024
+  title: "【要確認：論文名】リネゾリドの有害事象とトラフ値・治療期間に関する研究"
+  citation: "Thirot H, et al. Front Pharmacol. 2024. doi:10.3389/fphar.2024.1310309（巻号は要確認）"
+  source_level: level_2_peer_reviewed
+  publication_type: original_article
+  publisher_or_organization: Frontiers（ベルギー・UCLouvain）
+  publication_year: 2024
+  version: "2024"
+  language: en
+  url_or_location: https://doi.org/10.3389/fphar.2024.1310309
+  doi: 10.3389/fphar.2024.1310309
+  identifier_verification: search_only
+  accessed_at: "2026-11-08"
+  access_status: public
+  copyright_status: licensed
+  license: CC BY 4.0
+  license_url: https://creativecommons.org/licenses/by/4.0/
+  license_evidence: 論文PDFのライセンス表示（Creative Commons Attribution License (CC BY)）
+  license_verified_at: "2026-11-08"
+  license_verification_status: verified
+  usage_tier: A
+  commercial_use: true
+  derivatives: true
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: リネゾリドによる血小板減少の危険因子
+  out_of_scope: null
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: null
+
+- source_id: KOIKE_NISHIURA_PEERJ_2021
+  title: "Recovery of antimicrobial susceptibility in methicillin-resistant Staphylococcus aureus (MRSA): a retrospective, epidemiological analysis in a secondary care hospital, Sapporo, Japan"
+  citation: "Koike Y, Nishiura H. PeerJ. 2021;9:e11644."
+  source_level: level_2_peer_reviewed
+  publication_type: original_article
+  publisher_or_organization: PeerJ
+  publication_year: 2021
+  version: "2021"
+  language: en
+  url_or_location: https://doi.org/10.7717/peerj.11644
+  doi: 10.7717/peerj.11644
+  identifier_verification: search_only
+  accessed_at: "2026-11-08"
+  access_status: public
+  copyright_status: licensed
+  license: CC BY 4.0
+  license_url: http://www.creativecommons.org/licenses/by/4.0/
+  license_evidence: 論文PDFおよび京都大学リポジトリのライセンス表示
+  license_verified_at: "2026-11-08"
+  license_verification_status: verified
+  usage_tier: A
+  commercial_use: true
+  derivatives: true
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: 国内（札幌）の一施設におけるMRSA分離割合・感受性の推移（疫学の補助情報）
+  out_of_scope: null
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: "事実票は未作成（候補）。"
+
+- source_id: NAKAMURA_CAMRSA_SPECTRUM_2022
+  title: "Changes in the Genotypic Characteristics of Community-Acquired Methicillin-Resistant Staphylococcus aureus Collected in 244 Medical Facilities in Japan between 2010 and 2018: a Nationwide Surveillance"
+  citation: "Microbiol Spectr. 2022. doi:10.1128/spectrum.02272-21（著者・巻号は要確認）"
+  source_level: level_2_peer_reviewed
+  publication_type: original_article
+  publisher_or_organization: American Society for Microbiology
+  publication_year: 2022
+  version: "2022"
+  language: en
+  url_or_location: https://doi.org/10.1128/spectrum.02272-21
+  doi: 10.1128/spectrum.02272-21
+  identifier_verification: search_only
+  accessed_at: "2026-11-08"
+  access_status: public
+  copyright_status: licensed
+  license: CC BY 4.0
+  license_url: https://creativecommons.org/licenses/by/4.0/
+  license_evidence: 論文PDFのライセンス表示
+  license_verified_at: "2026-11-08"
+  license_verification_status: verified
+  usage_tier: A
+  commercial_use: true
+  derivatives: true
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: 国内CA-MRSAの分子疫学（疫学の補助情報）
+  out_of_scope: null
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: "事実票は未作成（候補）。"
+
+- source_id: JANIS_OPEN_DATA
+  title: 厚生労働省 院内感染対策サーベイランス（JANIS）公開情報
+  citation: "厚生労働省 院内感染対策サーベイランス事業（JANIS）検査部門 公開情報"
+  source_level: level_1_public_guideline
+  publication_type: other
+  publisher_or_organization: 厚生労働省
+  publication_year: 2026
+  version: 最新年報を取得時に記録
+  language: ja
+  url_or_location: https://janis.mhlw.go.jp/
+  doi: null
+  identifier_verification: not_applicable
+  accessed_at: null
+  access_status: public
+  copyright_status: fact_extraction_only
+  license: "要確認（政府標準利用規約2.0準拠ならCC BY 4.0互換。数値データ自体は著作権の対象外）"
+  license_url: null
+  license_evidence: null
+  license_verified_at: null
+  license_verification_status: needs_check
+  usage_tier: A
+  commercial_use: null
+  derivatives: null
+  share_alike: null
+  supersedes: null
+  superseded_by: null
+  scope: 国内の黄色ブドウ球菌に占めるMRSAの割合、抗MRSA薬の感受性率
+  out_of_scope: null
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: "JANISサイトの利用規約を確認のうえ、最新年報の数値を事実票化する（GAP-C1-EPI）。"
+
+# ---------------------------------------------------------------- Tier C（非営利のみ）
+- source_id: HANAI_TEIC_TDM_2022
+  title: "Clinical practice guidelines for therapeutic drug monitoring of teicoplanin: a consensus review by the Japanese Society of Chemotherapy and the Japanese Society of Therapeutic Drug Monitoring"
+  citation: "Hanai Y, Takahashi Y, Niwa T, et al. J Antimicrob Chemother. 2022;77(4):869-879."
+  source_level: level_1_public_guideline
+  publication_type: guideline
+  publisher_or_organization: 日本化学療法学会・日本TDM学会（Oxford University Press）
+  publication_year: 2022
+  version: "2022"
+  language: en
+  url_or_location: https://doi.org/10.1093/jac/dkab499
+  doi: 10.1093/jac/dkab499
+  identifier_verification: search_only
+  accessed_at: "2026-11-08"
+  access_status: public
+  copyright_status: licensed
+  license: CC BY-NC 4.0
+  license_url: https://creativecommons.org/licenses/by-nc/4.0/
+  license_evidence: 論文PDFのライセンス表示（商用再利用は出版社に要連絡）
+  license_verified_at: "2026-11-08"
+  license_verification_status: verified
+  usage_tier: C
+  commercial_use: false
+  derivatives: true
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: TEICの目標トラフ値、初回TDM時期、負荷投与・維持投与、腎機能低下時、低アルブミン血症、CRRT（CQ1〜CQ9）
+  out_of_scope: 小児の用量（記載なし）
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: "非営利の教育利用に限る。商用提供する版では除外するか出版社の許諾を得る。"
+
+- source_id: WHO_AWARE_CLASSIFICATION_2025
+  title: "The selection and use of essential medicines, 2025: WHO AWaRe (Access, Watch, Reserve) classification of antibiotics for evaluation and monitoring of use"
+  citation: "World Health Organization. 2025. https://doi.org/10.2471/B09489"
+  source_level: level_1_public_guideline
+  publication_type: other
+  publisher_or_organization: World Health Organization
+  publication_year: 2025
+  version: "2025"
+  language: en
+  url_or_location: https://iris.who.int/handle/10665/382244
+  doi: 10.2471/B09489
+  identifier_verification: search_only
+  accessed_at: "2026-11-08"
+  access_status: public
+  copyright_status: licensed
+  license: CC BY-NC-SA 3.0 IGO
+  license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/igo/
+  license_evidence: WHO IRIS の引用表示
+  license_verified_at: "2026-11-08"
+  license_verification_status: verified
+  usage_tier: C
+  commercial_use: false
+  derivatives: true
+  share_alike: true
+  supersedes: null
+  superseded_by: null
+  scope: 抗菌薬のAccess/Watch/Reserve分類
+  out_of_scope: WHOロゴの使用
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: "2027-09-01"
+  notes: "改変時は同一ライセンスでの公開義務（SA）と『WHOが作成したものではない』旨の記載が必要。各薬剤の分類は原表（Excel）で照合すること。"
+
+- source_id: WHO_AWARE_BOOK_2022
+  title: "The WHO AWaRe (Access, Watch, Reserve) antibiotic book"
+  citation: "World Health Organization. 2022. ISBN 9789240062382"
+  source_level: level_1_public_guideline
+  publication_type: guideline
+  publisher_or_organization: World Health Organization
+  publication_year: 2022
+  version: "2022"
+  language: en
+  url_or_location: https://iris.who.int/handle/10665/365237
+  doi: null
+  identifier_verification: not_applicable
+  accessed_at: null
+  access_status: public
+  copyright_status: licensed
+  license: CC BY-NC-SA 3.0 IGO
+  license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/igo/
+  license_evidence: 事前調査レポート（WHO IRIS／WHOニュースの表示）
+  license_verified_at: null
+  license_verification_status: verified_secondary
+  usage_tier: C
+  commercial_use: false
+  derivatives: true
+  share_alike: true
+  supersedes: null
+  superseded_by: null
+  scope: 主要な感染症の経験的治療（抗菌薬選択・用量・期間）
+  out_of_scope: WHOロゴの使用
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: "事実票は未作成。低中所得国向けの推奨を含むため、日本の診療との相違に注意。"
+
+# ---------------------------------------------------------------- 要確認
+- source_id: WHO_BULLETIN_RESERVE_2025
+  title: "WHO definitions for reserve antibiotics"
+  citation: "Bull World Health Organ. 2025. doi:10.2471/BLT.25.293893（著者・巻号は要確認）"
+  source_level: level_2_peer_reviewed
+  publication_type: other
+  publisher_or_organization: World Health Organization（Bulletin of the World Health Organization）
+  publication_year: 2025
+  version: "2025-11-12 online first"
+  language: en
+  url_or_location: https://doi.org/10.2471/BLT.25.293893
+  doi: 10.2471/BLT.25.293893
+  identifier_verification: search_only
+  accessed_at: "2026-11-08"
+  access_status: public
+  copyright_status: fact_extraction_only
+  license: "要確認（WHO BulletinはCC BY 3.0 IGOのことが多い）"
+  license_url: null
+  license_evidence: null
+  license_verified_at: null
+  license_verification_status: needs_check
+  usage_tier: A
+  commercial_use: null
+  derivatives: null
+  share_alike: null
+  supersedes: null
+  superseded_by: null
+  scope: Reserve抗菌薬の定義、2025年版必須医薬品リストのReserve抗菌薬
+  out_of_scope: null
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: "ライセンスを確認するまで、事実票は review_status: draft のまま扱う。"
+
+- source_id: SSC_2021
+  title: "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2021"
+  citation: "Evans L, Rhodes A, Alhazzani W, et al. Intensive Care Med. 2021;47(11):1181-1247 / Crit Care Med. 2021;49(11):e1063-e1143."
+  source_level: level_1_public_guideline
+  publication_type: guideline
+  publisher_or_organization: Surviving Sepsis Campaign（SCCM・ESICM）
+  publication_year: 2021
+  version: "2021（2026年版が公表済み）"
+  language: en
+  url_or_location: https://doi.org/10.1097/CCM.0000000000005337
+  doi: 10.1097/CCM.0000000000005337
+  identifier_verification: search_only
+  accessed_at: null
+  access_status: public
+  copyright_status: fact_extraction_only
+  license: "要確認（事前調査レポートでは CC BY-NC-ND 4.0）"
+  license_url: null
+  license_evidence: null
+  license_verified_at: null
+  license_verification_status: needs_check
+  usage_tier: D
+  commercial_use: false
+  derivatives: false
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: 敗血症の初期治療（照合用）
+  out_of_scope: 文章・表の翻案
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: "敗血症の抗菌薬に関する事実票は CC BY の J-SSCG 2024（JIC版）を優先する。"
+
+# ---------------------------------------------------------------- Tier D（改変禁止：照合用のみ）
+- source_id: JSSCG_2024_AMS
+  title: "The Japanese Clinical Practice Guidelines for Management of Sepsis and Septic Shock 2024（Acute Medicine & Surgery版）"
+  citation: "Acute Med Surg. 2025;12(1):e70037."
+  source_level: level_1_public_guideline
+  publication_type: guideline
+  publisher_or_organization: 日本集中治療医学会・日本救急医学会（Wiley）
+  publication_year: 2025
+  version: "J-SSCG 2024"
+  language: en
+  url_or_location: https://doi.org/10.1002/ams2.70037
+  doi: 10.1002/ams2.70037
+  identifier_verification: search_only
+  accessed_at: "2026-11-08"
+  access_status: public
+  copyright_status: fact_extraction_only
+  license: CC BY-NC-ND 4.0
+  license_url: https://creativecommons.org/licenses/by-nc-nd/4.0/
+  license_evidence: 論文PDF冒頭のライセンス表示
+  license_verified_at: "2026-11-08"
+  license_verification_status: verified
+  usage_tier: D
+  commercial_use: false
+  derivatives: false
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: 照合用のみ
+  out_of_scope: 事実票の根拠（JSSCG_2024_JIC を使う）
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: null
+
+- source_id: ARBEKACIN_TDM_2014
+  title: "Clinical practice guidelines for therapeutic drug monitoring of arbekacin: a consensus review of the Japanese Society of Chemotherapy and the Japanese Society of Therapeutic Drug Monitoring"
+  citation: "J Infect Chemother. 2014;20(1):1-5."
+  source_level: level_1_public_guideline
+  publication_type: guideline
+  publisher_or_organization: 日本化学療法学会・日本TDM学会（Elsevier）
+  publication_year: 2014
+  version: "2014"
+  language: en
+  url_or_location: https://doi.org/10.1016/j.jiac.2013.08.008
+  doi: 10.1016/j.jiac.2013.08.008
+  identifier_verification: search_only
+  accessed_at: null
+  access_status: public
+  copyright_status: fact_extraction_only
+  license: CC BY-NC-ND 4.0
+  license_url: https://creativecommons.org/licenses/by-nc-nd/4.0/
+  license_evidence: 事前調査レポート（ScienceDirectのUser License表示）
+  license_verified_at: null
+  license_verification_status: verified_secondary
+  usage_tier: D
+  commercial_use: false
+  derivatives: false
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: ABKのTDM（照合用）
+  out_of_scope: 文章の翻案
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: "ABKは国内のみ承認の薬剤で、CC BY等の代替資料がない（GAP-C3-ABK）。"
+
+- source_id: RYBAK_PEDS_EXEC_2020
+  title: "Executive summary with focus on pediatrics: therapeutic monitoring of vancomycin for serious MRSA infections"
+  citation: "Rybak MJ, et al. Pediatr Med. 2020;3:17."
+  source_level: level_1_public_guideline
+  publication_type: guideline
+  publisher_or_organization: ASHP・IDSA・PIDS・SIDP
+  publication_year: 2020
+  version: "2020"
+  language: en
+  url_or_location: https://doi.org/10.21037/pm-20-54
+  doi: 10.21037/pm-20-54
+  identifier_verification: search_only
+  accessed_at: null
+  access_status: public
+  copyright_status: fact_extraction_only
+  license: CC BY-NC-ND 4.0
+  license_url: https://creativecommons.org/licenses/by-nc-nd/4.0/
+  license_evidence: 事前調査レポート
+  license_verified_at: null
+  license_verification_status: verified_secondary
+  usage_tier: D
+  commercial_use: false
+  derivatives: false
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: 照合用（小児は初期版の適用範囲外）
+  out_of_scope: 文章の翻案
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: null
+
+- source_id: STATPEARLS_ANTI_MRSA
+  title: "StatPearls: Vancomycin / Linezolid / Daptomycin ほか"
+  citation: "StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing."
+  source_level: level_2_peer_reviewed
+  publication_type: other
+  publisher_or_organization: StatPearls Publishing（NCBI Bookshelf）
+  publication_year: 2026
+  version: 各章の更新日を記録
+  language: en
+  url_or_location: https://www.ncbi.nlm.nih.gov/books/NBK459263/
+  doi: null
+  identifier_verification: not_applicable
+  accessed_at: "2026-11-08"
+  access_status: public
+  copyright_status: fact_extraction_only
+  license: CC BY-NC-ND 4.0
+  license_url: http://creativecommons.org/licenses/by-nc-nd/4.0/
+  license_evidence: NCBI Bookshelf の各章のライセンス表示（Vancomycin章で確認）
+  license_verified_at: "2026-11-08"
+  license_verification_status: verified
+  usage_tier: D
+  commercial_use: false
+  derivatives: false
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: 照合用（薬理の基礎事項）
+  out_of_scope: 文章の翻案
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: null
+
+# ---------------------------------------------------------------- Tier E（権利留保・許諾待ち）
+- source_id: MRSA_GL_JP_2024
+  title: MRSA感染症の診療ガイドライン2024
+  citation: "MRSA感染症の診療ガイドライン作成委員会. 日本化学療法学会雑誌. 2024;72(3)."
+  source_level: level_1_public_guideline
+  publication_type: guideline
+  publisher_or_organization: 日本化学療法学会・日本感染症学会
+  publication_year: 2024
+  version: "2024"
+  language: ja
+  url_or_location: 学会誌（会員限定公開）
+  doi: null
+  identifier_verification: not_applicable
+  accessed_at: null
+  access_status: permission_required
+  copyright_status: permission_pending
+  license: All rights reserved（生成AIへの組み込みについて学会に照会中）
+  license_url: null
+  license_evidence: null
+  license_verified_at: null
+  license_verification_status: needs_check
+  usage_tier: E
+  commercial_use: false
+  derivatives: false
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: 抗MRSA薬の選択、疾患別治療（照会結果が出るまで事実票の根拠にしない）
+  out_of_scope: 図表・文章の転載
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: "ギャップの特定にのみ用いる。許諾が得られた範囲で事実票化する。"
+
+- source_id: TDM_GL_JP_2022
+  title: 抗菌薬TDM臨床実践ガイドライン2022
+  citation: "日本化学療法学会・日本TDM学会 抗菌薬TDMガイドライン作成委員会. 日本化学療法学会雑誌. 2022;70(1)."
+  source_level: level_1_public_guideline
+  publication_type: guideline
+  publisher_or_organization: 日本化学療法学会・日本TDM学会
+  publication_year: 2022
+  version: "2022（VRCZ executive summary 更新版あり）"
+  language: ja
+  url_or_location: 学会誌（Executive summary は学会サイトで公開）
+  doi: null
+  identifier_verification: not_applicable
+  accessed_at: null
+  access_status: permission_required
+  copyright_status: permission_pending
+  license: All rights reserved（生成AIへの組み込みについて学会に照会中）
+  license_url: null
+  license_evidence: null
+  license_verified_at: null
+  license_verification_status: needs_check
+  usage_tier: E
+  commercial_use: false
+  derivatives: false
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: VCM・TEIC・ABK・LZD・DAP等のTDM
+  out_of_scope: 図表・文章の転載
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: "VCM章・TEIC章はCC版（MATSUMOTO_VCM_TDM_2022, HANAI_TEIC_TDM_2022）で代替する。"
+
+- source_id: JAID_JSC_2023
+  title: JAID/JSC感染症治療ガイド2023
+  citation: "JAID/JSC感染症治療ガイド・ガイドライン作成委員会. 2023."
+  source_level: level_1_public_guideline
+  publication_type: guideline
+  publisher_or_organization: 日本感染症学会・日本化学療法学会
+  publication_year: 2023
+  version: "2023（WEB版は会員限定）"
+  language: ja
+  url_or_location: 書籍・会員限定WEB
+  doi: null
+  identifier_verification: not_applicable
+  accessed_at: null
+  access_status: permission_required
+  copyright_status: permission_pending
+  license: All rights reserved（生成AIへの組み込みについて学会に照会中）
+  license_url: null
+  license_evidence: null
+  license_verified_at: null
+  license_verification_status: needs_check
+  usage_tier: E
+  commercial_use: false
+  derivatives: false
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: 感染症別の経験的治療
+  out_of_scope: 図表・文章の転載
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: null
+
+- source_id: RYBAK_VCM_2020
+  title: "Therapeutic monitoring of vancomycin for serious methicillin-resistant Staphylococcus aureus infections: A revised consensus guideline and review"
+  citation: "Rybak MJ, Le J, Lodise TP, et al. Am J Health Syst Pharm. 2020;77(11):835-864."
+  source_level: level_1_public_guideline
+  publication_type: guideline
+  publisher_or_organization: ASHP・IDSA・PIDS・SIDP
+  publication_year: 2020
+  version: "2020"
+  language: en
+  url_or_location: https://doi.org/10.1093/ajhp/zxaa036
+  doi: 10.1093/ajhp/zxaa036
+  identifier_verification: search_only
+  accessed_at: null
+  access_status: public
+  copyright_status: fact_extraction_only
+  license: All rights reserved（無料閲覧可・CCではない）
+  license_url: null
+  license_evidence: 事前調査レポート
+  license_verified_at: null
+  license_verification_status: verified_secondary
+  usage_tier: E
+  commercial_use: false
+  derivatives: false
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: 照合用
+  out_of_scope: 事実票の根拠
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: null
+
+- source_id: SABATO_2024
+  title: "Efficacy and safety of an early oral switch in low-risk Staphylococcus aureus bloodstream infection (SABATO)"
+  citation: "Kaasch AJ, López-Cortés LE, Rodríguez-Baño J, et al. Lancet Infect Dis. 2024;24(5):523-534."
+  source_level: level_2_peer_reviewed
+  publication_type: original_article
+  publisher_or_organization: Elsevier（The Lancet Infectious Diseases）
+  publication_year: 2024
+  version: "2024"
+  language: en
+  url_or_location: https://doi.org/10.1016/S1473-3099(23)00756-9
+  doi: 10.1016/S1473-3099(23)00756-9
+  identifier_verification: search_only
+  accessed_at: "2026-11-08"
+  access_status: public
+  copyright_status: fact_extraction_only
+  license: "CCではない（機関リポジトリでの公開はオランダ法に基づくTaverne条項）"
+  license_url: null
+  license_evidence: ユトレヒト大学リポジトリの表示
+  license_verified_at: "2026-11-08"
+  license_verification_status: verified_secondary
+  usage_tier: E
+  commercial_use: false
+  derivatives: false
+  share_alike: false
+  supersedes: null
+  superseded_by: null
+  scope: 低リスク黄色ブドウ球菌菌血症の早期経口切替（照合用）
+  out_of_scope: 事実票の根拠
+  review_status: draft
+  reviewers: []
+  last_verified_at: "2026-11-08"
+  next_review_due: null
+  notes: "GAP-C5-ORAL の論点整理に用いる。"

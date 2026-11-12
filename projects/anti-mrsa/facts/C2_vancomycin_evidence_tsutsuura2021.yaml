@@ -1,0 +1,162 @@
+# 事実票：C2_vancomycin_evidence_tsutsuura2021
+# 自動生成（scripts/build_cards.py, 2026-11-08）。以後はこのファイルを直接編集してレビューする。
+# normalized_statement は原文の転載ではなく、事実を独自の表現で記載したもの。
+cards:
+- fact_id: VCM-EVID-001
+  courses:
+  - C2
+  topic: トラフ値とAKI
+  normalized_statement: VCMのトラフ値が20 μg/mL以上の場合、15〜20 μg/mLの場合と比べてAKIの発生が有意に多い（オッズ比2.39、95%信頼区間1.78〜3.20）。
+  evidence_class: peer_reviewed_evidence
+  population: &id001
+    age_group:
+    - adult
+    infection_type:
+    - MRSA感染症
+    setting:
+    - hospital
+  conditions: []
+  exclusions: []
+  recommendation_strength: null
+  certainty_of_evidence: null
+  source:
+    source_id: TSUTSUURA_VCM_MA_2021
+    location: Results
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: &id002
+  - 新たな系統的レビューの公表
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-EVID-002
+  courses:
+  - C2
+  topic: AUC/MICと治療失敗
+  normalized_statement: AUC/MICが高い群（カットオフ400±15%）では、治療失敗が有意に少ない（オッズ比0.28、95%信頼区間0.18〜0.45）。
+  evidence_class: peer_reviewed_evidence
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: null
+  certainty_of_evidence: null
+  source:
+    source_id: TSUTSUURA_VCM_MA_2021
+    location: Results
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-EVID-003
+  courses:
+  - C2
+  topic: AUCとAKI
+  normalized_statement: AUCが高い群（カットオフ600±15%）では、AKIのリスクが有意に高い（オッズ比2.10、95%信頼区間1.13〜3.89）。
+  evidence_class: peer_reviewed_evidence
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: null
+  certainty_of_evidence: null
+  source:
+    source_id: TSUTSUURA_VCM_MA_2021
+    location: Results
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-EVID-004
+  courses:
+  - C2
+  topic: AUCガイドとトラフガイドの比較（メタ解析）
+  normalized_statement: 4研究のメタ解析では、AUCガイドのモニタリングはトラフガイドよりAKIが少ない傾向を示したが有意ではなく（オッズ比0.54、95%信頼区間0.28〜1.01）、死亡率にも有意差はなかった。
+  evidence_class: peer_reviewed_evidence
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: null
+  certainty_of_evidence: null
+  source:
+    source_id: TSUTSUURA_VCM_MA_2021
+    location: Results
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-EVID-005
+  courses:
+  - C2
+  topic: MRSA菌血症でのトラフ値
+  normalized_statement: 成人のMRSA菌血症では、VCMトラフ値15 μg/mL以上の群で治療失敗が有意に少なかった（オッズ比0.63、95%信頼区間0.47〜0.85）。
+  evidence_class: peer_reviewed_evidence
+  population: *id001
+  conditions:
+  - 成人MRSA菌血症
+  exclusions: []
+  recommendation_strength: null
+  certainty_of_evidence: null
+  source:
+    source_id: TSUTSUURA_VCM_MA_2021
+    location: Results
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: トラフ値を高く保つことを推奨する根拠と誤解されないよう、VCM-EVID-001（AKIの増加）と併せて提示
+  version: '0.1'

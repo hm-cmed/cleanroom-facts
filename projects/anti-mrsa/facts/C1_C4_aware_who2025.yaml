@@ -1,0 +1,135 @@
+# 事実票：C1_C4_aware_who2025
+# 自動生成（scripts/build_cards.py, 2026-11-08）。以後はこのファイルを直接編集してレビューする。
+# normalized_statement は原文の転載ではなく、事実を独自の表現で記載したもの。
+cards:
+- fact_id: AWARE-001
+  courses:
+  - C4
+  topic: AWaRe分類の目的
+  normalized_statement: WHOのAWaRe分類は、抗菌薬をAccess、Watch、Reserveの3群に分け、薬剤耐性への影響を考慮した適正使用と使用量のモニタリングを支援するための枠組みである。
+  evidence_class: guideline_recommendation
+  population: &id001
+    age_group:
+    - adult
+    - pediatric
+    infection_type:
+    - 細菌感染症全般
+    setting:
+    - all
+  conditions: []
+  exclusions: []
+  recommendation_strength: null
+  certainty_of_evidence: null
+  source:
+    source_id: WHO_BULLETIN_RESERVE_2025
+    location: Introduction
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: &id002
+  - WHO AWaRe分類の改訂（隔年）
+  - WHO必須医薬品リストの改訂
+  review_notes: 出典ライセンス要確認（WHO Bulletin）。WHO_AWARE_CLASSIFICATION_2025 でも確認できる内容
+  version: '0.1'
+- fact_id: AWARE-002
+  courses:
+  - C4
+  topic: Reserve群の位置づけ
+  normalized_statement: Reserve群の抗菌薬は多剤耐性菌感染症に対する最後の手段であり、他の選択肢が無効または不適切な場合に限って使用する。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: null
+  certainty_of_evidence: null
+  source:
+    source_id: WHO_BULLETIN_RESERVE_2025
+    location: Definition
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: AWARE-003
+  courses:
+  - C1
+  - C4
+  topic: VCMはWatch群
+  normalized_statement: VCMはWatch群に分類される。MRSA（WHO優先病原体リストの高優先度）による感染症では、Watch群のVCMが適切な選択肢となりうる。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: null
+  certainty_of_evidence: null
+  source:
+    source_id: WHO_BULLETIN_RESERVE_2025
+    location: Main text
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: AWARE-004
+  courses:
+  - C1
+  - C4
+  topic: リネゾリド・テジゾリドはReserve群
+  normalized_statement: 2025年版WHO必須医薬品リストに収載されたReserve群の抗菌薬には、リネゾリドとテジゾリドが含まれる。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: null
+  certainty_of_evidence: null
+  source:
+    source_id: WHO_BULLETIN_RESERVE_2025
+    location: Box / Main text
+    page: null
+    cq: null
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: ダプトマイシン・テイコプラニンの分類はWHO原表で照合（GAP-C4-AWARE）
+  version: '0.1'

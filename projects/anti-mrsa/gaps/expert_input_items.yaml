@@ -1,0 +1,318 @@
+# 教育コンテンツに必要だが、CCライセンス資料の事実票でカバーできていない項目（ギャップ）
+# proposed_resolution:
+#   expert_opinion     … 専門家（感染症専門医・感染症専門薬剤師等）の意見で補う。表示ラベルは【専門家の意見】等とし、ガイドライン推奨と混同しない
+#   permission_request … 学会ガイドラインの許諾が得られれば事実票化できる
+#   regulatory_fact    … 添付文書等の規制情報を事実として記録する（文章は転載しない）
+#   data_retrieval     … 公的統計等から数値を取得して事実票化する
+#   extraction_pending … CC資料はあるが事実票の抽出が未了
+#   out_of_scope_v1    … 初期版では扱わない
+# 作成：2026-11-08（Claude下書き）。優先度・質問文は研究者が確認すること。
+
+gaps:
+
+# ============================================================ C1 開始判断・薬剤選択
+- gap_id: GAP-C1-RISK
+  course: [C1]
+  topic: 敗血症・重症感染症で経験的に抗MRSA薬を開始する基準
+  needed_content: どの患者背景（MRSA保菌・分離歴、最近の入院・抗菌薬曝露、透析、血管内カテーテル、施設入所、重症度など）があれば経験的に抗MRSA薬を加えるか
+  why_not_covered: J-SSCG 2024（CC BY）はCQ2-5で「疑われる場合に加える」とする背景情報のみで、具体的な基準を示していない。国内MRSAガイドラインは許諾照会中
+  cc_sources_checked: [JSSCG_2024_JIC, UK_MRSA_GL_2021]
+  noncc_sources: [MRSA_GL_JP_2024, JAID_JSC_2023, SSC_2021]
+  proposed_resolution: expert_opinion
+  expert_questions:
+    - 敗血症が疑われる成人で、経験的に抗MRSA薬を加える根拠として、次の各因子をどの程度重視しますか（1：重視しない〜5：非常に重視）。MRSA保菌・分離歴／90日以内の入院／90日以内の静注抗菌薬使用／血液透析／血管内カテーテル留置／敗血症性ショック／人工呼吸管理／長期療養施設入所
+    - 上記以外に重視する因子があれば挙げてください
+  response_format: 5段階評価＋自由記載
+  display_label_if_expert: 【専門家の意見】
+  priority: high
+  status: open
+  notes: 専門医アンケートを研究として実施・公表する場合は、別途倫理審査が必要
+
+- gap_id: GAP-C1-EPI
+  course: [C1]
+  topic: 国内のMRSAの頻度
+  needed_content: 国内の黄色ブドウ球菌に占めるMRSAの割合の最新値と推移、主な抗MRSA薬の感受性
+  why_not_covered: CC BYの国内論文（KOIKE_NISHIURA_PEERJ_2021, NAKAMURA_CAMRSA_SPECTRUM_2022）は一施設・特定の期間に限られる
+  cc_sources_checked: [KOIKE_NISHIURA_PEERJ_2021, NAKAMURA_CAMRSA_SPECTRUM_2022]
+  noncc_sources: []
+  proposed_resolution: data_retrieval
+  expert_questions: []
+  response_format: JANIS公開年報の数値（年・割合・対象）
+  display_label_if_expert: null
+  priority: medium
+  status: open
+  notes: JANIS_OPEN_DATA の利用規約を確認のうえ取得。数値データ自体は著作権の対象外
+
+- gap_id: GAP-C1-SITE
+  course: [C1, C3]
+  topic: 感染臓器別の抗MRSA薬の選択（国内の実情）
+  needed_content: 菌血症・感染性心内膜炎・肺炎・皮膚軟部組織・骨関節・中枢神経系感染症での、VCM・TEIC・LZD・TZD・DAP・ABKの位置づけ（国内で承認・使用されている薬剤を含む）
+  why_not_covered: 英国ガイドライン（CC BY）で主要病態の大枠は示せるが、TEIC・ABK・TZDの国内での位置づけ、感染性心内膜炎・中枢神経系感染症の詳細はCC資料にない
+  cc_sources_checked: [UK_MRSA_GL_2021, WHO_AWARE_BOOK_2022]
+  noncc_sources: [MRSA_GL_JP_2024, JAID_JSC_2023]
+  proposed_resolution: permission_request
+  expert_questions:
+    - 許諾が得られない場合：感染臓器ごとに第一選択・代替として想定する抗MRSA薬と、その理由（組織移行性・殺菌性・安全性）を記載してください
+  response_format: 臓器×薬剤の表＋理由の自由記載
+  display_label_if_expert: 【専門家の意見】
+  priority: high
+  status: open
+  notes: 学会の回答待ち。回答後に expert_opinion へ切り替えるか判断
+
+- gap_id: GAP-C1-PNA-LZD
+  course: [C1]
+  topic: MRSA肺炎でのVCMとLZDの選択
+  needed_content: MRSA肺炎でLZDを優先する状況、VCMを優先する状況
+  why_not_covered: 英国ガイドラインは「どちらも第一選択」（弱い推奨）にとどまる。国内ガイドラインのCQは許諾照会中
+  cc_sources_checked: [UK_MRSA_GL_2021]
+  noncc_sources: [MRSA_GL_JP_2024]
+  proposed_resolution: expert_opinion
+  expert_questions:
+    - MRSA肺炎でLZDを選ぶ場面、VCMを選ぶ場面をそれぞれ挙げてください（腎機能、血小板数、TDM体制、経口切替の予定などの観点から）
+  response_format: 自由記載
+  display_label_if_expert: 【専門家の意見】
+  priority: medium
+  status: open
+  notes: null
+
+- gap_id: GAP-C1-BSI-DAP
+  course: [C1, C3]
+  topic: MRSA菌血症でのDAPの位置づけ
+  needed_content: VCMのMICが高い場合や治療反応が乏しい場合にDAPへ変更する目安、DAPの用量（6 mg/kgか、より高用量か）
+  why_not_covered: 英国ガイドラインではDAPは代替薬の扱い。DAP高用量・VCM MIC高値時の変更に関するCC BYのガイドラインは見つからない
+  cc_sources_checked: [UK_MRSA_GL_2021]
+  noncc_sources: [MRSA_GL_JP_2024]
+  proposed_resolution: expert_opinion
+  expert_questions:
+    - MRSA菌血症でVCMからDAPへ変更する判断基準（MIC、菌血症の持続日数、腎機能など）を挙げてください
+    - DAPの用量はどの程度を想定しますか（国内承認用量との関係を含めて）
+  response_format: 自由記載
+  display_label_if_expert: 【専門家の意見】
+  priority: high
+  status: open
+  notes: DAPの国内承認用量は GAP-C2-LABEL で規制情報として記録
+
+- gap_id: GAP-C1-NASAL
+  course: [C1, C5]
+  topic: 鼻腔MRSAスクリーニング（PCR）の陰性結果の使い方
+  needed_content: 肺炎で鼻腔MRSA-PCRが陰性の場合に抗MRSA薬を中止できるか、国内での検査の利用可能性
+  why_not_covered: 陰性的中率が高いとするCC BY論文は複数あるが、書誌の確認が未了。国内での実施状況は資料がない
+  cc_sources_checked: []
+  noncc_sources: []
+  proposed_resolution: extraction_pending
+  expert_questions:
+    - 国内の施設で、鼻腔MRSAスクリーニングの陰性結果を抗MRSA薬の中止判断に用いていますか。用いる場合の条件を記載してください
+  response_format: 選択式＋自由記載
+  display_label_if_expert: 【専門家の意見】
+  priority: medium
+  status: open
+  notes: "候補：Antimicrobial Stewardship & Healthcare Epidemiology 誌の CC BY 論文（書誌・ライセンスを原本で確認してから登録）"
+
+# ============================================================ C2 VCM初期投与・TDM
+- gap_id: GAP-C2-NOMOGRAM
+  course: [C2]
+  topic: VCMの腎機能別初期投与量ノモグラム
+  needed_content: 体重・クレアチニンクリアランス別の初期投与量の表
+  why_not_covered: CC BYの MATSUMOTO_VCM_TDM_2022 の表（Table 2等）に含まれるが、事実票への抽出が未了
+  cc_sources_checked: [MATSUMOTO_VCM_TDM_2022]
+  noncc_sources: [TDM_GL_JP_2022]
+  proposed_resolution: extraction_pending
+  expert_questions: []
+  response_format: 表の数値を事実票化（CC BYのため帰属表示付きで表の再利用も可）
+  display_label_if_expert: null
+  priority: high
+  status: open
+  notes: 数値は計算機能の検証データにも用いる
+
+- gap_id: GAP-C2-LABEL
+  course: [C2, C3]
+  topic: 国内の承認用法・用量
+  needed_content: VCM・TEIC・ABK・LZD・TZD・DAPの国内承認の効能・用法・用量、主な警告・重大な副作用
+  why_not_covered: 添付文書はCCライセンスではない。英国・WHO資料の用量は国内承認と一致しない場合がある
+  cc_sources_checked: [UK_MRSA_GL_2021]
+  noncc_sources: [各薬剤の添付文書]
+  proposed_resolution: regulatory_fact
+  expert_questions: []
+  response_format: "規制情報カード（evidence_class: regulatory_information）。数値と条件のみを記録し、文章・表は転載しない"
+  display_label_if_expert: null
+  priority: high
+  status: open
+  notes: 添付文書の改訂を expiry_trigger に設定する
+
+- gap_id: GAP-C2-SPECIAL
+  course: [C2]
+  topic: 特殊病態（小児、透析・CRRT、肥満、ECMO等）
+  needed_content: 特殊病態でのVCM・TEICの投与設計
+  why_not_covered: 初期版の適用範囲外（安全境界 v1.0）
+  cc_sources_checked: [MATSUMOTO_VCM_TDM_2022, HANAI_TEIC_TDM_2022]
+  noncc_sources: [RYBAK_PEDS_EXEC_2020]
+  proposed_resolution: out_of_scope_v1
+  expert_questions: []
+  response_format: null
+  display_label_if_expert: null
+  priority: low
+  status: deferred
+  notes: 次版で扱う場合は CC BY の MATSUMOTO_VCM_TDM_2022・HANAI_TEIC_TDM_2022 の該当CQから抽出可能
+
+# ============================================================ C3 薬剤選択と投与設計の統合
+- gap_id: GAP-C3-LZD
+  course: [C3]
+  topic: 国内でのLZDのTDMと血小板減少の管理
+  needed_content: 国内でのLZDの目標トラフ値、TDMの対象、血小板数の確認頻度、腎機能低下時の扱い
+  why_not_covered: CC BYの資料は海外コンセンサスと個別研究のみで、国内のガイドラインとしての推奨がCC資料にない
+  cc_sources_checked: [LIN_LZD_CONSENSUS_2022, LZD_RENAL_BMCPT_2022, THIROT_LZD_2024]
+  noncc_sources: [TDM_GL_JP_2022]
+  proposed_resolution: expert_opinion
+  expert_questions:
+    - LZDのTDMを行う対象と目標トラフ値の目安を記載してください（TDMを行っていない場合は、その理由と代わりのモニタリング方法）
+    - 腎機能低下患者でLZDを使う際に注意していることを記載してください
+  response_format: 自由記載
+  display_label_if_expert: 【専門家の意見】
+  priority: medium
+  status: open
+  notes: null
+
+- gap_id: GAP-C3-DAP-SAFETY
+  course: [C3]
+  topic: DAPのCK上昇・相互作用の管理
+  needed_content: CKの測定頻度、スタチン併用時の対応、中止の目安
+  why_not_covered: CC BYのガイドラインが見つからない
+  cc_sources_checked: []
+  noncc_sources: [各薬剤の添付文書, TDM_GL_JP_2022]
+  proposed_resolution: expert_opinion
+  expert_questions:
+    - DAP投与中のCK測定の頻度、スタチン併用時の対応、投与中止を考えるCK値の目安を記載してください
+  response_format: 自由記載
+  display_label_if_expert: 【専門家の意見】
+  priority: medium
+  status: open
+  notes: 添付文書の記載は GAP-C2-LABEL で規制情報として記録
+
+- gap_id: GAP-C3-ABK
+  course: [C3]
+  topic: アルベカシン（ABK）の位置づけとTDM
+  needed_content: ABKを選ぶ場面、目標濃度、投与法
+  why_not_covered: ABKのTDMガイドライン英語版（ARBEKACIN_TDM_2014）はCC BY-NC-NDで改変不可。ABKは国内のみで承認された薬剤で、海外のCC資料がない
+  cc_sources_checked: [ARBEKACIN_TDM_2014]
+  noncc_sources: [TDM_GL_JP_2022, MRSA_GL_JP_2024]
+  proposed_resolution: expert_opinion
+  expert_questions:
+    - 抗MRSA薬としてABKを選ぶ場面はありますか。ある場合は、その条件と投与・TDMの考え方を記載してください
+  response_format: 自由記載
+  display_label_if_expert: 【専門家の意見】
+  priority: low
+  status: open
+  notes: 改変不可の資料のため、照合用としてのみ参照する
+
+- gap_id: GAP-C3-TZD
+  course: [C3]
+  topic: テジゾリド（TZD）の位置づけ
+  needed_content: TZDをLZDの代わりに選ぶ場面
+  why_not_covered: AWaRe分類（Reserve）以外の臨床的な位置づけに関するCC資料が未確認
+  cc_sources_checked: [WHO_BULLETIN_RESERVE_2025]
+  noncc_sources: [MRSA_GL_JP_2024]
+  proposed_resolution: expert_opinion
+  expert_questions:
+    - TZDを選ぶ場面と、選ばない理由があれば記載してください
+  response_format: 自由記載
+  display_label_if_expert: 【専門家の意見】
+  priority: low
+  status: open
+  notes: null
+
+- gap_id: GAP-C3-VCM-TAZ
+  course: [C3]
+  topic: VCMとピペラシリン・タゾバクタム併用時の腎障害
+  needed_content: 併用時のAKIリスクと対応（AUCガイドの優先対象であることは VCM-TDM-002 で記載済み）
+  why_not_covered: 併用によるAKIリスクを定量的に示すCC BYのメタ解析の書誌確認が未了
+  cc_sources_checked: [MATSUMOTO_VCM_TDM_2022]
+  noncc_sources: []
+  proposed_resolution: extraction_pending
+  expert_questions: []
+  response_format: CC BYのメタ解析を探索・登録して事実票化
+  display_label_if_expert: null
+  priority: low
+  status: open
+  notes: null
+
+# ============================================================ C4 専門医の選択哲学
+- gap_id: GAP-C4-PHILOSOPHY
+  course: [C4]
+  topic: 専門家が重視する判断因子とその重みづけ
+  needed_content: 想定感染臓器、過去の分離菌歴、想定菌種、重症度、腎機能などの因子を、専門家がどの順序・重みで考えるか。有効性・安全性・実行可能性（出口戦略）の3軸の考え方
+  why_not_covered: 本質的に専門家の判断であり、ガイドライン・論文の事実票では表せない
+  cc_sources_checked: []
+  noncc_sources: []
+  proposed_resolution: expert_opinion
+  expert_questions:
+    - 抗MRSA薬を選ぶ際に考慮する因子を、重視する順に並べてください（想定感染臓器／過去の分離菌歴／想定菌種／重症度／腎機能／血球減少／CK上昇リスク／TDM体制／経口切替の可否／外来治療への移行）
+    - 同じ症例でも施設や状況によって選択が変わる例があれば記載してください
+  response_format: 順位づけ＋自由記載
+  display_label_if_expert: 【専門家の判断傾向】
+  priority: high
+  status: open
+  notes: 研究としての正式な専門医アンケート（倫理審査承認後に実施予定）の結果を用いる場合は、承認番号とデータの版を記録。研究立案のための予備的な情報収集の結果を「アンケート結果」として表示しない
+
+- gap_id: GAP-C4-AWARE
+  course: [C4]
+  topic: 国内で使う抗MRSA薬のAWaRe分類
+  needed_content: DAP・TEIC・ABKのWHO AWaRe 2025での分類
+  why_not_covered: WHO原表（Excel）での照合が未了。英国版AWaRe（UK-AWaRe）ではDAPはReserve、TEICはWatchだが、WHO分類と同一とは限らない
+  cc_sources_checked: [WHO_AWARE_CLASSIFICATION_2025, WHO_BULLETIN_RESERVE_2025]
+  noncc_sources: []
+  proposed_resolution: extraction_pending
+  expert_questions: []
+  response_format: WHO原表で照合して事実票化（CC BY-NC-SAのため非営利・継承条件に注意）
+  display_label_if_expert: null
+  priority: low
+  status: open
+  notes: null
+
+# ============================================================ C5 再評価・デエスカレーション
+- gap_id: GAP-C5-STOP
+  course: [C5]
+  topic: 培養陰性時に抗MRSA薬を中止する時期
+  needed_content: 経験的に開始した抗MRSA薬を、培養でMRSAが検出されない場合に何時間後・どの条件で中止するか
+  why_not_covered: J-SSCG 2024はデエスカレーション全般を提案（2C）しているが、抗MRSA薬に特化した具体的な時期を示していない
+  cc_sources_checked: [JSSCG_2024_JIC]
+  noncc_sources: [MRSA_GL_JP_2024]
+  proposed_resolution: expert_opinion
+  expert_questions:
+    - 経験的に開始した抗MRSA薬を、培養でMRSAが検出されない場合に中止する時期と条件を記載してください
+  response_format: 自由記載
+  display_label_if_expert: 【専門家の意見】
+  priority: high
+  status: open
+  notes: null
+
+- gap_id: GAP-C5-SAB-DEF
+  course: [C5]
+  topic: 黄色ブドウ球菌菌血症（SAB）の複雑性・非複雑性の判定と必要な検査
+  needed_content: 複雑性SABの定義、フォローアップ血液培養、心エコー（経胸壁・経食道）の適応、感染源の除去
+  why_not_covered: 英国ガイドライン（CC BY）は治療期間（14日・28日）を示すが、判定基準の詳細を事実票化できていない
+  cc_sources_checked: [UK_MRSA_GL_2021]
+  noncc_sources: [MRSA_GL_JP_2024]
+  proposed_resolution: extraction_pending
+  expert_questions:
+    - 英国ガイドラインから抽出できない場合：非複雑性SABと判断する条件を記載してください
+  response_format: 英国ガイドラインの該当部分を確認して事実票化。不足分は専門家意見
+  display_label_if_expert: 【専門家の意見】
+  priority: high
+  status: open
+  notes: null
+
+- gap_id: GAP-C5-ORAL
+  course: [C4, C5]
+  topic: 経口薬への切替・外来治療への移行
+  needed_content: SABやその他のMRSA感染症で、静注から経口（LZD等）に切り替える条件
+  why_not_covered: 関連する主要試験（SABATO_2024）はCCライセンスではない
+  cc_sources_checked: [UK_MRSA_GL_2021]
+  noncc_sources: [SABATO_2024]
+  proposed_resolution: expert_opinion
+  expert_questions:
+    - MRSA感染症で静注から経口薬へ切り替える条件と、選ぶ経口薬を記載してください
+  response_format: 自由記載
+  display_label_if_expert: 【専門家の意見】
+  priority: medium
+  status: open
+  notes: null

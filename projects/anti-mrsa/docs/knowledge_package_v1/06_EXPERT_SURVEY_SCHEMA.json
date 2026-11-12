@@ -1,0 +1,209 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Anti-MRSA Expert Survey Knowledge",
+  "type": "object",
+  "required": [
+    "survey_id",
+    "study_title",
+    "population",
+    "method",
+    "questions",
+    "analysis",
+    "limitations",
+    "review_status",
+    "version"
+  ],
+  "properties": {
+    "survey_id": {
+      "type": "string"
+    },
+    "study_title": {
+      "type": "string"
+    },
+    "population": {
+      "type": "object",
+      "required": [
+        "eligible_population",
+        "respondent_n"
+      ],
+      "properties": {
+        "eligible_population": {
+          "type": "string"
+        },
+        "invited_n": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "respondent_n": {
+          "type": "integer"
+        },
+        "response_rate": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "specialty_criteria": {
+          "type": "string"
+        },
+        "experience_summary": {
+          "type": "string"
+        },
+        "facility_summary": {
+          "type": "string"
+        }
+      }
+    },
+    "method": {
+      "type": "object",
+      "properties": {
+        "survey_period": {
+          "type": "string"
+        },
+        "scale": {
+          "type": "string"
+        },
+        "missing_data_handling": {
+          "type": "string"
+        },
+        "free_text_coding": {
+          "type": "string"
+        },
+        "consensus_threshold": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "questions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "question_id",
+          "question_text",
+          "response_type"
+        ],
+        "properties": {
+          "question_id": {
+            "type": "string"
+          },
+          "question_text": {
+            "type": "string"
+          },
+          "response_type": {
+            "type": "string"
+          },
+          "options": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "results": {
+            "type": "object",
+            "properties": {
+              "n": {
+                "type": "integer"
+              },
+              "mean": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "median": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "iqr": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "distribution": {
+                "type": "object"
+              },
+              "missing_n": {
+                "type": "integer"
+              }
+            }
+          }
+        }
+      }
+    },
+    "analysis": {
+      "type": "object",
+      "properties": {
+        "high_priority_factors": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "decision_patterns": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "minority_views": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "derived_algorithm": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "algorithm_developers": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "validation_process": {
+          "type": "string"
+        }
+      }
+    },
+    "limitations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "display_label": {
+      "type": "string",
+      "const": "専門医アンケートから得られた判断傾向"
+    },
+    "not_guideline_recommendation": {
+      "type": "boolean",
+      "const": true
+    },
+    "review_status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "under_review",
+        "approved",
+        "deprecated",
+        "retired"
+      ]
+    },
+    "version": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,62 @@
+schema_name: anti_mrsa_source_registry
+schema_version: '1.0'
+required_fields:
+- source_id
+- title
+- source_level
+- publication_type
+- publisher_or_organization
+- publication_year
+- version
+- language
+- access_status
+- copyright_status
+- review_status
+- last_verified_at
+field_definitions:
+  source_id: '一意の識別子。例: MRSA_GUIDELINE_JP_2024'
+  title: 資料の正式名称
+  source_level: level_1_public_guideline / level_2_peer_reviewed / level_3_expert_survey
+    / level_4_local / level_5_educational
+  publication_type: guideline / label / systematic_review / original_article / survey
+    / local_protocol / other
+  publisher_or_organization: 発行者または実施主体
+  publication_year: 発行年
+  version: 版、改訂版、更新日等
+  language: ja / en / other
+  url_or_location: 公開URLまたは管理場所
+  accessed_at: 最終アクセス日
+  access_status: public / restricted / permission_required / internal
+  copyright_status: fact_extraction_only / quotation_allowed / licensed / permission_pending
+    / internal
+  supersedes: 旧版source_id
+  superseded_by: 新版source_id
+  scope: この資料から抽出する対象範囲
+  out_of_scope: この資料から抽出しない範囲
+  review_status: draft / under_review / approved / deprecated / retired
+  reviewers: 確認者の役割と氏名または管理ID
+  last_verified_at: 最終確認日
+  next_review_due: 次回確認予定日
+  notes: 補足
+example:
+  source_id: MRSA_GUIDELINE_JP_2024
+  title: MRSA感染症の診療ガイドライン2024
+  source_level: level_1_public_guideline
+  publication_type: guideline
+  publisher_or_organization: 発行学会名を記録
+  publication_year: 2024
+  version: '2024'
+  language: ja
+  url_or_location: 管理場所を記録
+  accessed_at: YYYY-MM-DD
+  access_status: public
+  copyright_status: fact_extraction_only
+  supersedes: null
+  superseded_by: null
+  scope: 抗MRSA薬の選択、疾患別治療、TDM
+  out_of_scope: 図表・文章の無断転載
+  review_status: under_review
+  reviewers: []
+  last_verified_at: YYYY-MM-DD
+  next_review_due: YYYY-MM-DD
+  notes: ''

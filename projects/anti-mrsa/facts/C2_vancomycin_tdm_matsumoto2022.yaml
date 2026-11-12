@@ -1,0 +1,870 @@
+# 事実票：C2_vancomycin_tdm_matsumoto2022
+# 自動生成（scripts/build_cards.py, 2026-11-08）。以後はこのファイルを直接編集してレビューする。
+# normalized_statement は原文の転載ではなく、事実を独自の表現で記載したもの。
+cards:
+- fact_id: VCM-PKPD-001
+  courses:
+  - C2
+  topic: VCMの有効性の指標
+  normalized_statement: MRSA感染症に対するVCMの有効性は、AUC/MIC（微量液体希釈法でMICを測定した場合）400以上を指標とする。
+  evidence_class: guideline_recommendation
+  population: &id001
+    age_group:
+    - adult
+    infection_type:
+    - MRSA感染症
+    setting:
+    - hospital
+  conditions:
+  - MICを微量液体希釈法で測定した場合
+  exclusions: []
+  recommendation_strength: I
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ6
+    page: null
+    cq: CQ6
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: &id002
+  - 抗菌薬TDM臨床実践ガイドラインの改訂
+  - VCM添付文書の改訂
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-PKPD-002
+  courses:
+  - C2
+  topic: VCMの安全性の指標
+  normalized_statement: VCMによる急性腎障害（AKI）のリスクを下げるため、AUCは600 μg·h/mL以下に保つ。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: I
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ6
+    page: null
+    cq: CQ6
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-PKPD-003
+  courses:
+  - C2
+  topic: VCMの実用上の目標AUC
+  normalized_statement: 実臨床でのVCMの目標AUCは400〜600 μg·h/mLとする（MICを1 μg/mLと仮定）。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - MIC 1 μg/mLを仮定
+  exclusions: []
+  recommendation_strength: I
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ6
+    page: null
+    cq: CQ6
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-PKPD-004
+  courses:
+  - C2
+  topic: MIC判明前と判明後の目標
+  normalized_statement: MICが判明する前の経験的治療では、MICを1 μg/mLと仮定してAUC 400以上を目標とし、MICが判明した後も目標AUCは原則として変えない。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - 経験的治療の段階を含む
+  exclusions: []
+  recommendation_strength: III-A
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ6
+    page: null
+    cq: CQ6
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-PKPD-005
+  courses:
+  - C2
+  topic: Etest法でMICを測定した場合
+  normalized_statement: MICをEtest法で測定した場合のAUC/MICの目安は200以上とされている。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - MICをEtest法で測定した場合
+  exclusions: []
+  recommendation_strength: III-A
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ6
+    page: null
+    cq: CQ6
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: 学習者が微量液体希釈法との違いを誤解しないよう、提示の仕方を監修で確認
+  version: '0.1'
+- fact_id: VCM-PKPD-006
+  courses:
+  - C2
+  topic: トラフ値とAUCの関係
+  normalized_statement: VCMの投与設計では、トラフ値をAUCの代わりとして用いることは推奨されない。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: IV
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ2
+    page: null
+    cq: CQ2
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: 推奨度IVの意味（推奨しない）を原本の推奨度表で確認
+  version: '0.1'
+- fact_id: VCM-PKPD-007
+  courses:
+  - C2
+  topic: AUCガイドとトラフガイドの比較
+  normalized_statement: AUCを指標とした投与設計は、トラフ値を指標とした投与設計よりAKIのリスクを下げる傾向がある。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: III-A
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ2
+    page: null
+    cq: CQ2
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: 根拠となるメタ解析の数値は VCM-EVID-004 を参照
+  version: '0.1'
+- fact_id: VCM-TDM-001
+  courses:
+  - C2
+  topic: AUCガイドTDMの対象
+  normalized_statement: 実施可能であれば、重症度にかかわらずVCM投与患者にはルーチンにAUCを指標とした投与設計を行うことが提案されている。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: III-A
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ3
+    page: null
+    cq: CQ3
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-TDM-002
+  courses:
+  - C2
+  topic: AUCガイドTDMを優先すべき患者
+  normalized_statement: ベイズ推定を日常的に使えない施設では、腎機能障害、ピペラシリン・タゾバクタムや利尿薬の併用、ICU入室など、AKIのリスクが高い患者を優先してAUCを指標とした投与設計を行う。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - ベイズ推定ソフトウェアを日常的に用いていない施設
+  exclusions: []
+  recommendation_strength: II
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ3
+    page: null
+    cq: CQ3
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-TDM-003
+  courses:
+  - C2
+  topic: 2点採血
+  normalized_statement: AUCの推定には、トラフ値と投与終了1〜2時間後のピーク値の2点採血が推奨される。24時間ごとの投与でも同様である。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: II
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ4
+    page: null
+    cq: CQ4
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-TDM-004
+  courses:
+  - C2
+  topic: トラフ値のみによる推定
+  normalized_statement: 12時間ごとに投与している軽症の感染症では、トラフ値1点のみでAUCを推定してもよい。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - 軽症
+  - 12時間ごとの投与
+  exclusions: []
+  recommendation_strength: III-A
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ4
+    page: null
+    cq: CQ4
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-TDM-005
+  courses:
+  - C2
+  topic: トラフ値のみで推定する場合の精度
+  normalized_statement: トラフ値のみからのAUC推定は、多点採血に基づく母集団薬物動態モデルを用いたベイズ推定ソフトウェアを使う場合に信頼性が高い。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: II
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ4
+    page: null
+    cq: CQ4
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-TDM-006
+  courses:
+  - C2
+  topic: トラフ値の採血時刻
+  normalized_statement: トラフ値は次回投与前30分以内に採血することが推奨されるが、ベイズ推定を用いる場合は採血時刻が前後しても実測時刻を入力すれば利用できる。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: III-A
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ4
+    page: null
+    cq: CQ4
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: 前半（30分以内）の推奨度を原本で確認
+  version: '0.1'
+- fact_id: VCM-TDM-007
+  courses:
+  - C2
+  topic: 初回TDMの時期（重症・AKI高リスク）
+  normalized_statement: 重症・複雑性感染症やAKIのリスクが高い患者では、定常状態に達する前の投与2日目にTDMを行うことを考慮する。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - 重症・複雑性感染症、またはAKI高リスク
+  exclusions: []
+  recommendation_strength: III-A
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ5
+    page: null
+    cq: CQ5
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-TDM-008
+  courses:
+  - C2
+  topic: 初回TDMの時期（軽症・中等症）
+  normalized_statement: AKIのリスクがない軽症〜中等症の感染症では、定常状態に近い投与3日目ごろまでTDMを遅らせてもよい。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - 軽症〜中等症
+  - AKIリスクなし
+  exclusions: []
+  recommendation_strength: III-A
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ5
+    page: null
+    cq: CQ5
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-TDM-009
+  courses:
+  - C2
+  topic: 集中治療患者のTDM
+  normalized_statement: ICUの重症患者では、より早期から頻回にTDMを行うことが推奨される。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - ICU入室中の重症患者
+  exclusions: []
+  recommendation_strength: I
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ5
+    page: null
+    cq: CQ5
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-TDM-010
+  courses:
+  - C2
+  topic: 1日1回投与で2日目朝にTDMを行う場合
+  normalized_statement: 24時間ごとの投与で投与2日目の朝にTDMを予定する場合は、2点採血が強く勧められる。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - 24時間ごとの投与
+  exclusions: []
+  recommendation_strength: null
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ5
+    page: null
+    cq: CQ5
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: 推奨度の記載がない項目。原本で確認
+  version: '0.1'
+- fact_id: VCM-DOSE-001
+  courses:
+  - C2
+  topic: 負荷投与の必要性
+  normalized_statement: 投与1〜2日目の血中濃度を早く上げるため、腎機能にかかわらずVCMの負荷投与をルーチンに行う。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - 腎機能を問わない
+  exclusions: []
+  recommendation_strength: I
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ8
+    page: null
+    cq: CQ8
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-DOSE-002
+  courses:
+  - C2
+  topic: 負荷投与とAKI
+  normalized_statement: 負荷投与はAKIのリスクを増加させない。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: III-A
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ8
+    page: null
+    cq: CQ8
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-DOSE-003
+  courses:
+  - C2
+  topic: 負荷投与量
+  normalized_statement: VCMの負荷投与量は実体重あたり30 mg/kgが推奨される。1回量が3 gを超える場合は注意する。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - 実体重で計算
+  exclusions: []
+  recommendation_strength: II
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ9
+    page: null
+    cq: CQ9
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: ガイドラインのノモグラムでは、やせた患者の過量投与を避けるため体重に応じて25〜30 mg/kgとしている点も併記するか監修で判断
+  version: '0.1'
+- fact_id: VCM-DOSE-004
+  courses:
+  - C2
+  topic: 維持投与量（腎機能正常）
+  normalized_statement: 腎機能が正常な場合のVCMの維持投与量は、実体重あたり20 mg/kgを12時間ごととする。1日量が4 gを超える場合は注意する。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - 腎機能正常
+  exclusions: []
+  recommendation_strength: II
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ9
+    page: null
+    cq: CQ9
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: 適用条件（腎機能の範囲）を原本で確認
+  version: '0.1'
+- fact_id: VCM-DOSE-005
+  courses:
+  - C2
+  topic: 腎クリアランス亢進時
+  normalized_statement: eGFRが130 mL/min/1.73 m²以上などVCMのクリアランス亢進が想定される場合は、15〜20 mg/kgを8時間ごとに投与することを考慮する。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - eGFR ≥130 mL/min/1.73 m²
+  exclusions: []
+  recommendation_strength: III-A
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ9
+    page: null
+    cq: CQ9
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-DOSE-006
+  courses:
+  - C2
+  topic: 点滴時間
+  normalized_statement: VCMは1時間以上かけて点滴し、1回量が1 gを超える場合は0.5 gあたり30分を目安に点滴時間を延ばす。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: II
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ9
+    page: null
+    cq: CQ9
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-DOSE-007
+  courses:
+  - C2
+  topic: ソフトウェアによる投与設計の目標
+  normalized_statement: ソフトウェアで予測した投与計画は、AUC 400〜600 μg·h/mLを達成するように設定する。限られた採血点に基づくモデルでは±20%程度の誤差を見込み、AUC 500（±100）を目標とする。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: II
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ9
+    page: null
+    cq: CQ9
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: 後半（±20%、500±100）は推奨度III-A。カードを分けるか監修で判断
+  version: '0.1'
+- fact_id: VCM-DOSE-008
+  courses:
+  - C2
+  topic: 2日目のAUC
+  normalized_statement: 安全性の観点からは、定常状態のAUCより投与2日目のAUCのほうが適した指標である可能性がある。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: III-A
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ9
+    page: null
+    cq: CQ9
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-DOSE-009
+  courses:
+  - C2
+  topic: 腎機能低下時の初期投与設計
+  normalized_statement: 腎機能低下時は、体重とクレアチニンクリアランスに基づくノモグラムで初期投与量を決め、初期設計ではAUCの上限を400〜500に下げて過量投与を避ける。その後はベイズ推定でAUC 400〜600を目標に調整する。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - 腎機能低下
+  exclusions: []
+  recommendation_strength: III-A
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ10
+    page: null
+    cq: CQ10
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: ベイズ推定による調整の部分は推奨度II。ノモグラムの数値（表）はCC BYのため抽出予定（GAP-C2-NOMOGRAM）
+  version: '0.1'
+- fact_id: VCM-DOSE-010
+  courses:
+  - C2
+  topic: 持続投与
+  normalized_statement: VCMの持続投与は、AUCガイドの間欠投与と比較したデータがないため、現時点では推奨されない。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions: []
+  exclusions: []
+  recommendation_strength: III-B
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ7
+    page: null
+    cq: CQ7
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: null
+  version: '0.1'
+- fact_id: VCM-DOSE-011
+  courses:
+  - C2
+  topic: 持続投与を行う場合の一般的な方法
+  normalized_statement: VCMを持続投与する場合、一般には負荷投与15〜20 mg/kgの後に維持量30〜40 mg/kgを24時間かけて投与し、定常状態濃度20〜25 μg/mLを目標とする。
+  evidence_class: guideline_recommendation
+  population: *id001
+  conditions:
+  - 持続投与を選択した場合
+  exclusions: []
+  recommendation_strength: III-A
+  certainty_of_evidence: null
+  source:
+    source_id: MATSUMOTO_VCM_TDM_2022
+    location: CQ7
+    page: null
+    cq: CQ7
+    table_or_figure: null
+  copyright_handling:
+    mode: fact_paraphrase
+    verbatim_quote: false
+    quotation_text: null
+    quotation_reason: null
+  clinical_use_prohibited: true
+  review_status: draft
+  reviewers: []
+  created_at: '2026-11-08'
+  last_reviewed_at: null
+  expiry_trigger: *id002
+  review_notes: 初期版で扱うか（適用範囲）監修で判断
+  version: '0.1'

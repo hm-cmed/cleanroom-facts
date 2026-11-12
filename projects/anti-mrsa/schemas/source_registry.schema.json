@@ -1,0 +1,227 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Anti-MRSA Source Registry Entry v1.2",
+  "description": "knowledge package v1.0 の source registry に、ライセンス確認のための項目（license 以下）を追加した v1.1。",
+  "type": "object",
+  "required": [
+    "source_id",
+    "title",
+    "source_level",
+    "publication_type",
+    "publisher_or_organization",
+    "publication_year",
+    "version",
+    "language",
+    "access_status",
+    "copyright_status",
+    "license",
+    "usage_tier",
+    "review_status",
+    "last_verified_at"
+  ],
+  "properties": {
+    "source_id": {
+      "type": "string",
+      "pattern": "^[A-Z0-9_]+$"
+    },
+    "title": {
+      "type": "string"
+    },
+    "citation": {
+      "type": "string"
+    },
+    "source_level": {
+      "enum": [
+        "level_1_public_guideline",
+        "level_2_peer_reviewed",
+        "level_3_expert_survey",
+        "level_4_local",
+        "level_5_educational"
+      ]
+    },
+    "publication_type": {
+      "enum": [
+        "guideline",
+        "label",
+        "systematic_review",
+        "original_article",
+        "survey",
+        "local_protocol",
+        "other"
+      ]
+    },
+    "publisher_or_organization": {
+      "type": "string"
+    },
+    "publication_year": {
+      "type": "integer"
+    },
+    "version": {
+      "type": "string"
+    },
+    "language": {
+      "enum": [
+        "ja",
+        "en",
+        "other"
+      ]
+    },
+    "url_or_location": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "doi": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "identifier_verification": {
+      "type": "string",
+      "enum": [
+        "api_verified",
+        "search_only",
+        "not_applicable"
+      ],
+      "description": "DOI等の識別子の照合状況。api_verified=Crossref・NCBI APIの応答で確認済み / search_only=検索結果・出版社ページで見ただけ（API照合は未実施）/ not_applicable=識別子なし"
+    },
+    "accessed_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "access_status": {
+      "enum": [
+        "public",
+        "restricted",
+        "permission_required",
+        "internal"
+      ]
+    },
+    "copyright_status": {
+      "enum": [
+        "fact_extraction_only",
+        "quotation_allowed",
+        "licensed",
+        "permission_pending",
+        "internal"
+      ]
+    },
+    "license": {
+      "type": "string",
+      "description": "例: CC BY 4.0 / CC BY-NC 4.0 / CC BY-NC-SA 3.0 IGO / CC BY-NC-ND 4.0 / 政府標準利用規約2.0 / All rights reserved / 要確認"
+    },
+    "license_url": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "license_evidence": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "ライセンスを確認した場所（論文末尾、出版社ページ、IRIS等）"
+    },
+    "license_verified_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "license_verification_status": {
+      "enum": [
+        "verified",
+        "verified_secondary",
+        "needs_check"
+      ]
+    },
+    "usage_tier": {
+      "enum": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "description": "A=商用・改変可（CC BY等） B=改変可・継承義務（CC BY-SA） C=非営利のみ（BY-NC, BY-NC-SA） D=改変禁止（ND）：照合用のみ E=権利留保・許諾待ち：事実票の根拠にしない"
+    },
+    "commercial_use": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "derivatives": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "share_alike": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "supersedes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "superseded_by": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "scope": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "out_of_scope": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "review_status": {
+      "enum": [
+        "draft",
+        "under_review",
+        "approved",
+        "deprecated",
+        "retired"
+      ]
+    },
+    "reviewers": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "last_verified_at": {
+      "type": "string"
+    },
+    "next_review_due": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "additionalProperties": false
+}

@@ -41,6 +41,7 @@
 | `video/` | ショート動画の自動作成（[video/README.md](video/README.md)） |
 | `docs/video/` | 動画の監修用資料 |
 | `PROJECT_INSTRUCTIONS.md` | claude.ai の Project（調査ラウンド）用の指示 |
+| `projects/anti-mrsa/` | 抗MRSA薬 Web教材研究（札幌医科大学）の事実票の下書き。本体とは別のスキーマで管理し、本体の検証・監修・問題サイトの対象外（[README](projects/anti-mrsa/README.md)） |
 
 ## 使い方（PowerShell）
 
