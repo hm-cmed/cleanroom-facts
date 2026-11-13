@@ -21634,14 +21634,17 @@
   doi: null
   pmid: '26894211'
   pmcid: null
-  license_note: null
+  license_note: © Archives of Bone and Joint Surgery（PMC の表示、CC なし）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1897
   legacy_id: null
   title: 'Chawla S, Blay JY, Rutkowski P, et al. Denosumab in patients with giant-cell tumour of bone: a multicentre, open-label, phase 2 study. Lancet Oncol. 2019;20(12):1719-1729'
@@ -21694,14 +21697,17 @@
   doi: 10.4103/0973-1482.177217
   pmid: '29970708'
   pmcid: null
-  license_note: null
+  license_note: ライセンス表示なし（Crossref・Europe PMC、非OA）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1901
   legacy_id: null
   title: Gelderblom H, Hogendoorn PC, Dijkstra SD, et al. The clinical approach towards chondrosarcoma. Oncologist. 2008;13(3):320-329
@@ -21709,14 +21715,17 @@
   doi: 10.1634/theoncologist.2007-0237
   pmid: '18378543'
   pmcid: null
-  license_note: null
+  license_note: OUP の標準出版モデル（CC ではない）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1902
   legacy_id: null
   title: Grünewald TGP, Cidre-Aranaz F, Surdez D, et al. Ewing sarcoma. Nat Rev Dis Primers. 2018;4(1):5
@@ -21859,14 +21868,17 @@
   doi: 10.1016/j.jcot.2016.04.006
   pmid: '27857505'
   pmcid: null
-  license_note: null
+  license_note: © Delhi Orthopedic Association, All rights reserved（PMC の表示）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1912
   legacy_id: null
   title: 'Desmoid Tumor Working Group. The management of desmoid tumours: A joint global consensus-based guideline approach for adult and paediatric patients. Eur J Cancer. 2020;127:96-107'
@@ -21934,14 +21946,17 @@
   doi: 10.1634/theoncologist.2013-0328
   pmid: '24470531'
   pmcid: null
-  license_note: null
+  license_note: © AlphaMed Press（PMC の表示、CC ではない）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1917
   legacy_id: null
   title: Haddox CL, Papke DJ Jr, Serrano C. Leiomyosarcoma Therapeutic Approaches and Future Directions. Hematol Oncol Clin North Am. 2025;39(4):785-804

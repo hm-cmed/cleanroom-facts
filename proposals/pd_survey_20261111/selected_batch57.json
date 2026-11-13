@@ -1,0 +1,123 @@
+{
+ "A": [],
+ "B": [
+  {
+   "card": "BO-001",
+   "label": "OPEN、作り手の調査バッチ57 2026-11-13",
+   "text": "Yu D, Kaempfen A, Burger M, Barlow K, Krieg AH. The most common bone tumors of the upper extremity in childhood and adolescence and their treatment: a review of the current literature. EFORT Open Reviews. 2026;11(4):317-327。ライセンス：CC BY。 DOI: 10.1530/EOR-2025-0149、PMID: 41945572、PMCID: PMC13087867。 確認内容：骨軟骨腫が最も多い良性骨腫瘍の一つであること、骨格成熟後に軟骨帽が2cmを超える場合は二次性軟骨肉腫を疑うことが本文（CC BY 4.0 表示を確認）に記載されている。 未確認要素：単発85%／多発15%という内訳そのものは自由全文では確認できなかった。／Bovée JVMG. Multiple osteochondromas. Orphanet Journal of Rare Diseases. 2008;3:3。ライセンス：CC BY。 DOI: 10.1186/1750-1172-3-3、PMID: 18271966、PMCID: PMC2276198。 確認内容：多発性骨軟骨腫（多発性外骨腫症）が常染色体優性遺伝であること、悪性転化の推定頻度0.5–5%が記載されている。／備考：主出典の区分 RESTRICTED は妥当（In Vivo 誌、PMC の permissions は著者・出版者表示のみで CC 表示なし）。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-004",
+   "label": "OPEN、作り手の調査バッチ57 2026-11-13",
+   "text": "Tsukamoto S, Mavrogenis AF, Masunaga T, et al. Current Concepts in the Treatment of Giant Cell Tumor of Bone: An Update. Current Oncology. 2024;31(4):2112-2132。ライセンス：CC BY。 DOI: 10.3390/curroncol31040157、PMID: 38668060、PMCID: PMC11048866。 確認内容：中間悪性度（intermediate grade）で局所侵襲性が高いこと、好発年齢は約30歳で骨端部に生じること、肺転移が1–9%に生じることが記載されている。／Tsukamoto S, Errani C, Balach T, et al. What's new on giant cell tumor of bone. SICOT-J. 2026;12:2。ライセンス：CC BY。 DOI: 10.1051/sicotj/2025063、PMID: 41568883、PMCID: PMC12825416。 確認内容：中間悪性度で原発性骨腫瘍の約5%を占め局所侵襲性が高いこと、発症は約30歳で骨端部に多いことが記載されている（PMC の license-ref は CC BY）。／備考：主出典 SRC-1896 の区分訂正は別枠の節に分離した。WHO 第5版以降の「中間型」という用語についてはフラグ参照。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-005",
+   "label": "GOV_US、作り手の調査バッチ57 2026-11-13",
+   "text": "ClinicalTrials.gov 登録レコード NCT00680992（An Open-label, Multi-center, Phase 2 Study of Denosumab in Subjects With Giant Cell Tumor of Bone; Amgen 試験20062004） ClinicalTrials.gov（米国政府）, 結果掲載あり。ライセンス：米国政府レジストリ（GOV_US）。 確認内容：副次評価項目「Percentage of Participants Without Any On-Study Surgery at Month 6 for Cohort 2」の結果が 92.0% と掲載され、カードの「6か月時点で92%が手術を受けずに済んだ」と一致する。／備考：主出典は Chawla ら Lancet Oncol 2019（同試験の最終解析）で、登録結果と数値が一致する。なお当初の候補だった NCT00396279 は別試験であり、対象試験は NCT00680992 である。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-006",
+   "label": "OPEN／GOV_US、作り手の調査バッチ57 2026-11-13",
+   "text": "National Cancer Institute. Osteosarcoma and Undifferentiated Pleomorphic Sarcoma of Bone Treatment (PDQ®) — Health Professional Version. NCI PDQ® Cancer Information Summary (cancer.gov), 2026-11-13 閲覧。ライセンス：米国政府著作物（GOV_US）。 https://www.cancer.gov/types/bone/hp/osteosarcoma-treatment-pdq。 確認内容：EURAMOS-1 の骨格は MAP（シスプラチン＋ドキソルビシン＋高用量メトトレキサート）。手術単独では限局性切除可能例の20%未満しか無再発生存が期待できないこと、手術＋化学療法の限局例の転帰、完全切除の必須性が記載されている。 未確認要素：PDQ の数値は「限局例の5年全生存率62–65%」であり、カードの「長期生存率65–70%」（主出典 Isakoff 2015 由来）とは指標の定義が異なる（フラグ参照）。／El Motassime A, Vitiello R, Comodo RM, et al. Osteosarcoma: A Comprehensive Morphological and Molecular Review with Prognostic Implications. Biology. 2025;14(10):1407。ライセンス：CC BY。 DOI: 10.3390/biology14101407、PMID: 41154810、PMCID: PMC12561861。 確認内容：思春期の急速な骨成長期にピークを持つ二峰性の年齢分布であること、長管骨の骨幹端（大腿骨遠位・脛骨近位）に好発することが記載されている。PDQ 医療者版にも青年期・若年成人に好発し、半数超が膝周囲の長管骨に生じる旨がある。／備考：部位別割合（大腿骨42%・うち75%が遠位、脛骨19%・うち80%が近位）の内訳そのものは自由全文では確認できず、主出典（Springer 書籍章）に依存する（フラグ参照）。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-007",
+   "label": "GOV_US、作り手の調査バッチ57 2026-11-13",
+   "text": "National Cancer Institute. Osteosarcoma and Undifferentiated Pleomorphic Sarcoma of Bone Treatment (PDQ®) — Health Professional Version. NCI PDQ® Cancer Information Summary (cancer.gov), 2026-11-13 閲覧。ライセンス：米国政府著作物（GOV_US）。 https://www.cancer.gov/types/bone/hp/osteosarcoma-treatment-pdq。 確認内容：EURAMOS-1 の骨格は MAP（シスプラチン＋ドキソルビシン＋高用量メトトレキサート）。手術単独では限局性切除可能例の20%未満しか無再発生存が期待できないこと、手術＋化学療法の限局例の転帰、完全切除の必須性が記載されている。 未確認要素：PDQ の数値は「限局例の5年全生存率62–65%」であり、カードの「長期生存率65–70%」（主出典 Isakoff 2015 由来）とは指標の定義が異なる（フラグ参照）。／備考：MAP 療法の骨格、化学療法導入による転帰改善の方向、完全切除の必須性は PDQ で裏づけられる。生存率の数値表現の差異はフラグ参照。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-008",
+   "label": "OPEN、作り手の調査バッチ57 2026-11-13",
+   "text": "Tirtei E, Michelsen SW, Haveman LM, et al. (FOSTER Consortium). Prognostic Factors in Newly Diagnosed High-Grade Osteosarcoma — A Systematic Review. Cancer Medicine. 2025;14(14):e71044。ライセンス：CC BY。 DOI: 10.1002/cam4.71044、PMID: 40667646、PMCID: PMC12264579。 確認内容：血清 ALP と転帰の関連を評価した14研究を系統的に検討し、ALP 高値が転帰不良と関連する（独立性の有無はなお不明）と結論づけており、カードの主張の方向を裏づける。 未確認要素：プールしたハザード比1.60（95%CI 1.38–1.86）そのものは主出典のメタ解析（Gu & Sun 2018）のみに依存し、自由全文では再現できなかった（フラグ参照）。／備考：主出典 SRC-1900 の区分訂正は別枠の節に分離した。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-009",
+   "label": "OPEN、作り手の調査バッチ57 2026-11-13",
+   "text": "Landuzzi L, Ruzzi F, Lollini PL, Scotlandi K. Chondrosarcoma: New Molecular Insights, Challenges in Near-Patient Preclinical Modeling, and Therapeutic Approaches. International Journal of Molecular Sciences. 2025;26(4):1542。ライセンス：CC BY。 DOI: 10.3390/ijms26041542、PMID: 40004005、PMCID: PMC11855192。 確認内容：従来型軟骨肉腫は多剤耐性・低血管性・軟骨基質のため化学療法・放射線療法に本質的に抵抗性であること、臨床管理の主体は広い切除縁での外科的切除であることが記載されている。／備考：主出典 SRC-1901 の区分訂正は別枠の節に分離した。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-010",
+   "label": "GOV_US、作り手の調査バッチ57 2026-11-13",
+   "text": "National Cancer Institute. Ewing Sarcoma Treatment (PDQ®) — Health Professional Version. NCI PDQ® Cancer Information Summary (cancer.gov), 2026-11-13 閲覧。ライセンス：米国政府著作物（GOV_US）。 確認内容：EWSR1::FLI1 が小児例の85–90%で ETS 融合パートナーであること、限局例の標準治療が化学療法＋局所制御（手術／放射線治療）からなる集学的治療であること、限局例の5年EFS 73–79%（COG AEWS0031）等が記載され、カードの生存率70–80%と整合する。 未確認要素：「小児・思春期で2番目に多い骨腫瘍」という順位表現そのものは PDQ 医療者版には明記されていない。／備考：融合遺伝子の頻度（85–90%）、集学的治療の標準構成、限局例の転帰はいずれも PDQ 医療者版で裏づけられる。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-011",
+   "label": "OPEN、作り手の調査バッチ57 2026-11-13",
+   "text": "Baluszek SP, Kober P, Bujko M. From Histology to Multi-Omics: Review of Chordoma Classification and Its Clinical Implications. Cells. 2026;15(9):750。ライセンス：CC BY。 DOI: 10.3390/cells15090750、PMID: 42121852、PMCID: PMC13162602。 確認内容：胎生期脊索の遺残から発生する体軸骨格の悪性腫瘍であること、好発部位は頭蓋（38.7%）・仙骨（34.3%）・脊椎（27.0%）であること、治療の中心は外科的切除とそれに続く高線量放射線治療であることが記載されている（PMC の license-ref は CC BY）。／備考：「広い切除縁での一塊切除」という表現そのものは総説にないが、全切除と転帰の関係が明記されており、主張の骨格は裏づけられる。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-012",
+   "label": "OPEN、作り手の調査バッチ57 2026-11-13",
+   "text": "Tsukamoto S, Kido A, Tanaka Y, Facchini G, Peta G, Rossi G, Mavrogenis AF. Current Overview of Treatment for Metastatic Bone Disease. Current Oncology. 2021;28(5):3347-3372。ライセンス：CC BY。 DOI: 10.3390/curroncol28050290、PMID: 34590591、PMCID: PMC8482272。 確認内容：骨転移が高頻度に生じる原発として乳癌（65–75%）・前立腺癌（65–90%）が挙げられ、脊椎が最も多い転移部位であること、骨関連事象と集学的管理の必要性が記載されている（PMC の license-ref は CC BY）。 未確認要素：「骨転移の過半数が乳癌・前立腺癌による」「原発性骨腫瘍よりはるかに頻度が高い」という集計表現そのものは総説の言い回しとは異なるが、原発別の頻度提示と整合する。／備考：主出典 SRC-1904 は CC BY-NC（Oncol Rev）のため RESTRICTED の現行区分は妥当。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-013",
+   "label": "OPEN、作り手の調査バッチ57 2026-11-13",
+   "text": "Tsukamoto S, Kido A, Tanaka Y, Facchini G, Peta G, Rossi G, Mavrogenis AF. Current Overview of Treatment for Metastatic Bone Disease. Current Oncology. 2021;28(5):3347-3372。ライセンス：CC BY。 DOI: 10.3390/curroncol28050290、PMID: 34590591、PMCID: PMC8482272。 確認内容：ビスホスホネートとデノスマブに関する独立した節があり、疼痛への放射線治療、切迫骨折・脊髄圧迫への外科的対応、放射線科・腫瘍内科・整形外科による集学的チームアプローチの必要性が記載されている。／備考：BO-012 と同一の主出典・同一の裏づけ候補。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-014",
+   "label": "OPEN、作り手の調査バッチ57 2026-11-13",
+   "text": "Ge J, Tian K. Management strategies and outcomes of pediatric unicameral bone cyst: a narrative review. Frontiers in Pediatrics. 2026;14:1753597。ライセンス：CC BY。 DOI: 10.3389/fped.2026.1753597、PMID: 42063443、PMCID: PMC13126734。 確認内容：80%が20歳未満に診断されること、上腕骨近位（50–56%）と大腿骨近位に好発し両者で約4分の3を占めること、骨の強度低下により病的骨折を来しやすいことが記載されている。 未確認要素：「骨幹端の中央に位置する透亮像と皮質の菲薄化」という画像所見の言い回しそのものは総説本文では確認できなかった（骨幹端発生の機序には言及がある）。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-015",
+   "label": "OPEN、作り手の調査バッチ57 2026-11-13",
+   "text": "Restrepo R, Zahrah D, Pelaez L, Temple HT, Murakami JW. Update on aneurysmal bone cyst: pathophysiology, histology, imaging and treatment. Pediatric Radiology. 2022;52(9):1601-1614。ライセンス：CC BY。 DOI: 10.1007/s00247-022-05396-6、PMID: 35941207、PMCID: PMC9360065。 確認内容：膨隆した溶骨性病変で fluid-fluid level を示すこと、血液で満たされた腔が細胞性の隔壁に隔てられた組織像、骨幹端への好発、伝統的治療が病巣内掻爬（±骨移植）であることが記載されている。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-017",
+   "label": "OPEN、作り手の調査バッチ57 2026-11-13",
+   "text": "Liu H, Wang X, Wang X, Qiu F, Zhou B. Challenges and hope: latest research trends in the clinical treatment and prognosis of liposarcoma. Frontiers in Pharmacology. 2025;16:1529755。ライセンス：CC BY。 DOI: 10.3389/fphar.2025.1529755、PMID: 40421219、PMCID: PMC12104207。 確認内容：異型脂肪性腫瘍／高分化型脂肪肉腫と脱分化型脂肪肉腫の分子的特徴が12q13-15領域（MDM2・CDK4）の増幅であることが明記され、MDM2 増幅検出を含む精査という鑑別方針の根拠を裏づける。 未確認要素：「筋膜より深部・長径5cm超」という精査開始の具体的基準そのものは総説本文では確認できなかった。／備考：主出典 SRC-1908 は Elsevier の OA ユーザーライセンス（CC ではない）であり RESTRICTED の現行区分は妥当。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-018",
+   "label": "OPEN、作り手の調査バッチ57 2026-11-13",
+   "text": "Lei R, Tian L. Easily misdiagnosed intramuscular hemangioma: a case report and literature review. Frontiers in Surgery. 2025;12:1533174。ライセンス：CC BY。 DOI: 10.3389/fsurg.2025.1533174、PMID: 40529891、PMCID: PMC12172652。 確認内容：緩徐に経過し誤診されやすい軟部腫瘤であること、X線で静脈石（静脈血栓の石灰化）が約25%にみられ血管腫・血管奇形に特異的な所見であることが記載されている。 未確認要素：「境界明瞭で分葉状、内部に脂肪・血管チャンネルを伴う」という MRI 所見一式は自由全文では確認できず、主出典（Skeletal Radiol 2007）に依存する（フラグ参照）。／備考：裏づけは部分的にとどまるため、判定は B（部分）と明記する。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-020",
+   "label": "OPEN、作り手の調査バッチ57 2026-11-13",
+   "text": "Kern E, Stanley O, Fisher O, Schwartz G. Hidden in Plain Sight: The Diagnostic Odyssey of Glomus Tumors. Cureus. 2026;18(9):e115832。ライセンス：CC BY。 DOI: 10.7759/cureus.115832、PMID: 42836244、PMCID: PMC13638195。 確認内容：爪下・爪周囲に好発すること、確立した臨床的3徴（限局した圧痛・激しい疼痛・寒冷過敏）があること、外科的切除により症状が完全に消失することが、3例の手術確認例と文献レビューで記載されている。／備考：主出典 SRC-1911 の区分訂正は別枠の節に分離した。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-021",
+   "label": "OPEN、作り手の調査バッチ57 2026-11-13",
+   "text": "Nahi SL, Dann AM. Systemic Therapies for Desmoid Tumors: A Review of Past, Present, and Future Treatments. Cancers. 2026;18(10):1521。ライセンス：CC BY。 DOI: 10.3390/cancers18101521、PMID: 42192882、PMCID: PMC13204362。 確認内容：長期の安定や自然退縮があり得るため現行ガイドラインは積極的経過観察を管理の第一歩として支持すること、前向き観察研究で自然退縮が当初25%・増大後にさらに31%にみられたことが記載されている。／Lucas A, Zhou S, Hernandez L, et al. The impact of desmoid tumors: insights from the Desmoid Tumor Research Foundation Natural History Study, 2017-2023. Orphanet Journal of Rare Diseases. 2025;20(1):515。ライセンス：CC BY。 DOI: 10.1186/s13023-025-04021-7、PMID: 41088143、PMCID: PMC12522799。 確認内容：非転移性だが局所浸潤性で、経過は予測困難であることが明記されている。／備考：主出典の DTWG ガイドライン（Eur J Cancer 2020）は Crossref VoR で CC BY-NC-ND のため RESTRICTED の現行区分は妥当。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-022",
+   "label": "GOV_US、作り手の調査バッチ57 2026-11-13",
+   "text": "ClinicalTrials.gov 登録レコード NCT03785964（DeFi 試験: A Randomized, Placebo-Controlled Trial of Nirogacestat in Patients With Progressing Desmoid Tumors） ClinicalTrials.gov（米国政府）, 結果掲載あり。ライセンス：米国政府レジストリ（GOV_US）。 確認内容：主要解析の無増悪生存期間ハザード比0.29（95%CI 0.15–0.55, p<0.001）、奏効率41%（ニロガセスタット）対8%（プラセボ）が結果として掲載され、カードの数値と一致する。／備考：登録レコードで第III相試験の主要結果がそのまま裏づけられる。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-023",
+   "label": "OPEN、作り手の調査バッチ57 2026-11-13",
+   "text": "Liu H, Wang X, Wang X, Qiu F, Zhou B. Challenges and hope: latest research trends in the clinical treatment and prognosis of liposarcoma. Frontiers in Pharmacology. 2025;16:1529755。ライセンス：CC BY。 DOI: 10.3389/fphar.2025.1529755、PMID: 40421219、PMCID: PMC12104207。 確認内容：WHO 第5版の亜型構成（異型脂肪性腫瘍／高分化型・脱分化型を含む）が示され、両者の分子的特徴が12q13-15領域、とりわけ MDM2・CDK4 の増幅であることが明記されている。 未確認要素：「高分化型は転移しない」という転帰の対比そのものは総説の別箇所の記述に依存し、本調査では部位を特定して確認していない。／備考：BO-017 と同一の裏づけ候補。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-025",
+   "label": "OPEN、作り手の調査バッチ57 2026-11-13",
+   "text": "Seres R, Hameed H, McCabe MG, Russell D, Lee ATJ. The Multimodality Management of Malignant Peripheral Nerve Sheath Tumours. Cancers. 2024;16(19):3266。ライセンス：CC BY。 DOI: 10.3390/cancers16193266、PMID: 39409887、PMCID: PMC11475700。 確認内容：MPNST の最大50%が NF1 患者に発生し、NF1 における生涯発症リスクは8–13%と報告されること、限局例では陰性マージン（R0、全方向2cmが推奨）での完全切除が治癒を目指す管理の要であることが記載されている。／備考：主出典 SRC-1916 の区分訂正は別枠の節に分離した。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-026",
+   "label": "OPEN、作り手の調査バッチ57 2026-11-13",
+   "text": "Lesovaya EA, Fetisov TI, Bokhyan BY, et al. Therapeutic Vulnerabilities of the Key Genetic Drivers in Leiomyosarcoma. Medical Sciences. 2026;14(5):571。ライセンス：CC BY。 DOI: 10.3390/medsci14050571、PMID: 42783444、PMCID: PMC13609683。 確認内容：手術が平滑筋肉腫治療の基盤であり、部位によっては放射線治療やドキソルビシン／イホスファミド系化学療法を組み合わせる集学的治療を要すること、進行例に用いる細胞障害性薬剤とトラベクテジンの位置づけが記載されている。 未確認要素：「子宮・後腹膜・四肢に好発」という部位分布の列挙そのものは総説の主眼（遺伝的ドライバー）とは異なるため、部位別の裏づけは限定的である。（新規 SRC 候補）"
+  },
+  {
+   "card": "BO-027",
+   "label": "OPEN／GOV_US、作り手の調査バッチ57 2026-11-13",
+   "text": "Savarese LG, Papalexis N, de Andrade Hernandes M, et al. Challenging bone biopsies: what radiologists needs to know. Skeletal Radiology. 2026;55(12):3061-3072。ライセンス：CC BY。 DOI: 10.1007/s00256-026-05336-7、PMID: 42576100、PMCID: PMC13669126。 確認内容：原発性骨肉腫が疑われる場合、生検路を一塊切除に含められるよう整形外科腫瘍チームがマーキングを求めること、生検軌道の計画では播種の可能性を考慮することが記載されている。／National Cancer Institute. Ewing Sarcoma Treatment (PDQ®) / Osteosarcoma and UPS of Bone Treatment (PDQ®) — Health Professional Version. NCI PDQ® Cancer Information Summary (cancer.gov), 2026-11-13 閲覧。ライセンス：米国政府著作物（GOV_US）。 確認内容：生検の切開部位は根治手術を担当する外科医と相談して決めるべきこと、生検は切除を行う外科医が自ら行うのが望ましい旨が記載されている。 未確認要素：Mankin 1996 の「紹介元施設の生検で2〜12倍多い」という具体的倍率と不必要な切断の症例数は、自由全文では確認できなかった（フラグ参照）。／備考：判定は原則部分の B とする。倍率は主出典のみに依存する。（新規 SRC 候補）"
+  }
+ ],
+ "rest_fix": {
+  "SRC-1896": "© Archives of Bone and Joint Surgery（PMC の表示、CC なし）",
+  "SRC-1900": "ライセンス表示なし（Crossref・Europe PMC、非OA）",
+  "SRC-1901": "OUP の標準出版モデル（CC ではない）",
+  "SRC-1911": "© Delhi Orthopedic Association, All rights reserved（PMC の表示）",
+  "SRC-1916": "© AlphaMed Press（PMC の表示、CC ではない）"
+ },
+ "open_fix": []
+}

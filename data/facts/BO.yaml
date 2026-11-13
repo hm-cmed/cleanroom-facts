@@ -18,7 +18,7 @@
     source_license: © International Institute of Anticancer Research（In Vivo、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ57 2026-11-13）：Yu D, Kaempfen A, Burger M, Barlow K, Krieg AH. The most common bone tumors of the upper extremity in childhood and adolescence and their treatment: a review of the current literature. EFORT Open Reviews. 2026;11(4):317-327。ライセンス：CC BY。 DOI: 10.1530/EOR-2025-0149、PMID: 41945572、PMCID: PMC13087867。 確認内容：骨軟骨腫が最も多い良性骨腫瘍の一つであること、骨格成熟後に軟骨帽が2cmを超える場合は二次性軟骨肉腫を疑うことが本文（CC BY 4.0 表示を確認）に記載されている。 未確認要素：単発85%／多発15%という内訳そのものは自由全文では確認できなかった。／Bovée JVMG. Multiple osteochondromas. Orphanet Journal of Rare Diseases. 2008;3:3。ライセンス：CC BY。 DOI: 10.1186/1750-1172-3-3、PMID: 18271966、PMCID: PMC2276198。 確認内容：多発性骨軟骨腫（多発性外骨腫症）が常染色体優性遺伝であること、悪性転化の推定頻度0.5–5%が記載されている。／備考：主出典の区分 RESTRICTED は妥当（In Vivo 誌、PMC の permissions は著者・出版者表示のみで CC 表示なし）。（新規 SRC 候補）'
   uncertainty: 好発部位（長管骨の骨幹端）や有茎性・広基性の形態は抄録の記述に基づく一般像であり、本カードの数値（85%/15%、軟骨帽2cm）はこの総説の記載による。国内の診療指針での扱いは別途確認を要する。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-A-①（骨軟骨腫、b）
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-002
   domain: BO
   subdomain: 内軟骨腫
@@ -122,8 +125,8 @@
     url: null
     source_license: ライセンス未確認（PMC 収載版に CC 表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ57 2026-11-13）：Tsukamoto S, Mavrogenis AF, Masunaga T, et al. Current Concepts in the Treatment of Giant Cell Tumor of Bone: An Update. Current Oncology. 2024;31(4):2112-2132。ライセンス：CC BY。 DOI: 10.3390/curroncol31040157、PMID: 38668060、PMCID: PMC11048866。 確認内容：中間悪性度（intermediate grade）で局所侵襲性が高いこと、好発年齢は約30歳で骨端部に生じること、肺転移が1–9%に生じることが記載されている。／Tsukamoto S, Errani C, Balach T, et al. What''s new on giant cell tumor of bone. SICOT-J. 2026;12:2。ライセンス：CC BY。 DOI: 10.1051/sicotj/2025063、PMID: 41568883、PMCID: PMC12825416。 確認内容：中間悪性度で原発性骨腫瘍の約5%を占め局所侵襲性が高いこと、発症は約30歳で骨端部に多いことが記載されている（PMC の license-ref は CC BY）。／備考：主出典 SRC-1896 の区分訂正は別枠の節に分離した。WHO 第5版以降の「中間型」という用語についてはフラグ参照。（新規 SRC 候補）'
   uncertainty: 「骨端部」は出典抄録の「関節近傍（peri-articular / near a joint）」の解剖学的表現として併記した。肺転移の頻度の数値は出典抄録に明示がなく命題に含めていない。本出典には DOI が付与されていない（出典表参照）。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-A-④（骨巨細胞腫、c）
@@ -138,6 +141,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1896 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-005
   domain: BO
   subdomain: 骨巨細胞腫
@@ -158,7 +167,7 @@
     source_license: © Elsevier（The Lancet Oncology、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ57 2026-11-13）：ClinicalTrials.gov 登録レコード NCT00680992（An Open-label, Multi-center, Phase 2 Study of Denosumab in Subjects With Giant Cell Tumor of Bone; Amgen 試験20062004） ClinicalTrials.gov（米国政府）, 結果掲載あり。ライセンス：米国政府レジストリ（GOV_US）。 確認内容：副次評価項目「Percentage of Participants Without Any On-Study Surgery at Month 6 for Cohort 2」の結果が 92.0% と掲載され、カードの「6か月時点で92%が手術を受けずに済んだ」と一致する。／備考：主出典は Chawla ら Lancet Oncol 2019（同試験の最終解析）で、登録結果と数値が一致する。なお当初の候補だった NCT00396279 は別試験であり、対象試験は NCT00680992 である。（新規 SRC 候補）
   uncertainty: デノスマブ（ランマーク皮下注120mg）は国内で2014年5月に「骨巨細胞腫」の効能追加が承認され保険適用があることを、製造販売業者（第一三共）の公表資料と PMDA の審査資料で確認した。投与中止後の再燃や術前投与時の掻爬後の再発については本試験の抄録範囲を超えるため命題に含めていない。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-A-④（骨巨細胞腫、c）
@@ -173,6 +182,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-006
   domain: BO
   subdomain: 骨肉腫
@@ -193,7 +205,7 @@
     source_license: © Springer（Cancer Treatment and Research 収載の章、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN／GOV_US、作り手の調査バッチ57 2026-11-13）：National Cancer Institute. Osteosarcoma and Undifferentiated Pleomorphic Sarcoma of Bone Treatment (PDQ®) — Health Professional Version. NCI PDQ® Cancer Information Summary (cancer.gov), 2026-11-13 閲覧。ライセンス：米国政府著作物（GOV_US）。 https://www.cancer.gov/types/bone/hp/osteosarcoma-treatment-pdq。 確認内容：EURAMOS-1 の骨格は MAP（シスプラチン＋ドキソルビシン＋高用量メトトレキサート）。手術単独では限局性切除可能例の20%未満しか無再発生存が期待できないこと、手術＋化学療法の限局例の転帰、完全切除の必須性が記載されている。 未確認要素：PDQ の数値は「限局例の5年全生存率62–65%」であり、カードの「長期生存率65–70%」（主出典 Isakoff 2015 由来）とは指標の定義が異なる（フラグ参照）。／El Motassime A, Vitiello R, Comodo RM, et al. Osteosarcoma: A Comprehensive Morphological and Molecular Review with Prognostic Implications. Biology. 2025;14(10):1407。ライセンス：CC BY。 DOI: 10.3390/biology14101407、PMID: 41154810、PMCID: PMC12561861。 確認内容：思春期の急速な骨成長期にピークを持つ二峰性の年齢分布であること、長管骨の骨幹端（大腿骨遠位・脛骨近位）に好発することが記載されている。PDQ 医療者版にも青年期・若年成人に好発し、半数超が膝周囲の長管骨に生じる旨がある。／備考：部位別割合（大腿骨42%・うち75%が遠位、脛骨19%・うち80%が近位）の内訳そのものは自由全文では確認できず、主出典（Springer 書籍章）に依存する（フラグ参照）。（新規 SRC 候補）'
   uncertainty: 頻度の数値は米国の登録データに基づく本章の記載であり、国内の発生頻度とは異なる可能性がある。高齢者の第二のピーク（Paget 病に続発するものなど）は命題に含めていない。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-B-①（骨肉腫、b）
@@ -208,6 +220,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN／GOV_US、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-007
   domain: BO
   subdomain: 骨肉腫
@@ -228,7 +243,7 @@
     source_license: © American Society of Clinical Oncology（Journal of Clinical Oncology、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ57 2026-11-13）：National Cancer Institute. Osteosarcoma and Undifferentiated Pleomorphic Sarcoma of Bone Treatment (PDQ®) — Health Professional Version. NCI PDQ® Cancer Information Summary (cancer.gov), 2026-11-13 閲覧。ライセンス：米国政府著作物（GOV_US）。 https://www.cancer.gov/types/bone/hp/osteosarcoma-treatment-pdq。 確認内容：EURAMOS-1 の骨格は MAP（シスプラチン＋ドキソルビシン＋高用量メトトレキサート）。手術単独では限局性切除可能例の20%未満しか無再発生存が期待できないこと、手術＋化学療法の限局例の転帰、完全切除の必須性が記載されている。 未確認要素：PDQ の数値は「限局例の5年全生存率62–65%」であり、カードの「長期生存率65–70%」（主出典 Isakoff 2015 由来）とは指標の定義が異なる（フラグ参照）。／備考：MAP 療法の骨格、化学療法導入による転帰改善の方向、完全切除の必須性は PDQ で裏づけられる。生存率の数値表現の差異はフラグ参照。（新規 SRC 候補）
   uncertainty: 薬剤名のあるカードとしての注記：MAP 療法を構成する3薬剤はいずれも国内承認薬であるが、骨肉腫に対する適応・保険適用の文言は本作成では添付文書で個別に確認していない。患肢温存術の適応判断や切除縁の詳細は本出典の抄録範囲を超えるため命題に含めていない。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-B-①（骨肉腫、b）
@@ -243,6 +258,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-008
   domain: BO
   subdomain: 骨肉腫
@@ -262,8 +280,8 @@
     url: https://doi.org/10.4103/0973-1482.177217
     source_license: ライセンス未確認（Journal of Cancer Research and Therapeutics、CC 表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ57 2026-11-13）：Tirtei E, Michelsen SW, Haveman LM, et al. (FOSTER Consortium). Prognostic Factors in Newly Diagnosed High-Grade Osteosarcoma — A Systematic Review. Cancer Medicine. 2025;14(14):e71044。ライセンス：CC BY。 DOI: 10.1002/cam4.71044、PMID: 40667646、PMCID: PMC12264579。 確認内容：血清 ALP と転帰の関連を評価した14研究を系統的に検討し、ALP 高値が転帰不良と関連する（独立性の有無はなお不明）と結論づけており、カードの主張の方向を裏づける。 未確認要素：プールしたハザード比1.60（95%CI 1.38–1.86）そのものは主出典のメタ解析（Gu & Sun 2018）のみに依存し、自由全文では再現できなかった（フラグ参照）。／備考：主出典 SRC-1900 の区分訂正は別枠の節に分離した。（新規 SRC 候補）'
   uncertainty: ALP のカットオフ値は各原著研究で異なり統一されていない。治療反応性や腫瘍量の指標としての位置づけは本メタ解析の範囲を超える。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-B-①（骨肉腫、b）
@@ -278,6 +296,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1900 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-009
   domain: BO
   subdomain: 軟骨肉腫
@@ -297,8 +321,8 @@
     url: https://doi.org/10.1634/theoncologist.2007-0237
     source_license: ライセンス未確認（The Oncologist、Crossref の license 欄は標準出版モデルのみで CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ57 2026-11-13）：Landuzzi L, Ruzzi F, Lollini PL, Scotlandi K. Chondrosarcoma: New Molecular Insights, Challenges in Near-Patient Preclinical Modeling, and Therapeutic Approaches. International Journal of Molecular Sciences. 2025;26(4):1542。ライセンス：CC BY。 DOI: 10.3390/ijms26041542、PMID: 40004005、PMCID: PMC11855192。 確認内容：従来型軟骨肉腫は多剤耐性・低血管性・軟骨基質のため化学療法・放射線療法に本質的に抵抗性であること、臨床管理の主体は広い切除縁での外科的切除であることが記載されている。／備考：主出典 SRC-1901 の区分訂正は別枠の節に分離した。（新規 SRC 候補）'
   uncertainty: 出典は2008年の総説であり、その後の分子標的治療（IDH 変異など）の進展は反映されていない。中高年好発という年齢分布は本出典の抄録では明示されておらず命題に含めていない。 化学療法の個別薬剤の国内承認・保険適用は、本カードの命題（化学療法抵抗性）には直接関係しないため未確認。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-B-②（軟骨肉腫、b）
@@ -313,6 +337,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1901 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-010
   domain: BO
   subdomain: Ewing肉腫
@@ -333,7 +363,7 @@
     source_license: © Springer Nature（Nature Reviews Disease Primers、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ57 2026-11-13）：National Cancer Institute. Ewing Sarcoma Treatment (PDQ®) — Health Professional Version. NCI PDQ® Cancer Information Summary (cancer.gov), 2026-11-13 閲覧。ライセンス：米国政府著作物（GOV_US）。 確認内容：EWSR1::FLI1 が小児例の85–90%で ETS 融合パートナーであること、限局例の標準治療が化学療法＋局所制御（手術／放射線治療）からなる集学的治療であること、限局例の5年EFS 73–79%（COG AEWS0031）等が記載され、カードの生存率70–80%と整合する。 未確認要素：「小児・思春期で2番目に多い骨腫瘍」という順位表現そのものは PDQ 医療者版には明記されていない。／備考：融合遺伝子の頻度（85–90%）、集学的治療の標準構成、限局例の転帰はいずれも PDQ 医療者版で裏づけられる。（新規 SRC 候補）
   uncertainty: onion-peel 状骨膜反応は古典的な画像所見として知られるが、本出典の抄録では明示されなかったため命題に含めていない。使用薬剤（ビンクリスチン、ドキソルビシン、シクロホスファミド、イホスファミド、エトポシドなど）の国内承認はいずれも抗悪性腫瘍薬として承認済みの薬剤だが、Ewing肉腫への適応文言は個別に確認していない。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-B-③（Ewing肉腫、b）
@@ -348,6 +378,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-011
   domain: BO
   subdomain: 脊索腫
@@ -368,7 +401,7 @@
     source_license: © Elsevier（The Lancet Oncology、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ57 2026-11-13）：Baluszek SP, Kober P, Bujko M. From Histology to Multi-Omics: Review of Chordoma Classification and Its Clinical Implications. Cells. 2026;15(9):750。ライセンス：CC BY。 DOI: 10.3390/cells15090750、PMID: 42121852、PMCID: PMC13162602。 確認内容：胎生期脊索の遺残から発生する体軸骨格の悪性腫瘍であること、好発部位は頭蓋（38.7%）・仙骨（34.3%）・脊椎（27.0%）であること、治療の中心は外科的切除とそれに続く高線量放射線治療であることが記載されている（PMC の license-ref は CC BY）。／備考：「広い切除縁での一塊切除」という表現そのものは総説にないが、全切除と転帰の関係が明記されており、主張の骨格は裏づけられる。（新規 SRC 候補）'
   uncertainty: brachyury の発現や TBXT 遺伝子については本出典の抄録で数値・頻度を確認できなかったため命題に含めていない。粒子線治療の国内実施体制は本カードの範囲外。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-B-④（脊索腫、c）
@@ -383,6 +416,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-012
   domain: BO
   subdomain: 転移性骨腫瘍
@@ -403,7 +439,7 @@
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ57 2026-11-13）：Tsukamoto S, Kido A, Tanaka Y, Facchini G, Peta G, Rossi G, Mavrogenis AF. Current Overview of Treatment for Metastatic Bone Disease. Current Oncology. 2021;28(5):3347-3372。ライセンス：CC BY。 DOI: 10.3390/curroncol28050290、PMID: 34590591、PMCID: PMC8482272。 確認内容：骨転移が高頻度に生じる原発として乳癌（65–75%）・前立腺癌（65–90%）が挙げられ、脊椎が最も多い転移部位であること、骨関連事象と集学的管理の必要性が記載されている（PMC の license-ref は CC BY）。 未確認要素：「骨転移の過半数が乳癌・前立腺癌による」「原発性骨腫瘍よりはるかに頻度が高い」という集計表現そのものは総説の言い回しとは異なるが、原発別の頻度提示と整合する。／備考：主出典 SRC-1904 は CC BY-NC（Oncol Rev）のため RESTRICTED の現行区分は妥当。（新規 SRC 候補）'
   uncertainty: 原発巣の全身治療は本カードの対象外（転移巣の病態に限定）。肺癌・腎癌など他の原発の頻度順位は本出典の本文記載にばらつきがあるため、命題は過半数を占める乳癌・前立腺癌に絞った。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-C（転移性骨腫瘍、a）
@@ -418,6 +454,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-013
   domain: BO
   subdomain: 転移性骨腫瘍
@@ -438,7 +477,7 @@
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ57 2026-11-13）：Tsukamoto S, Kido A, Tanaka Y, Facchini G, Peta G, Rossi G, Mavrogenis AF. Current Overview of Treatment for Metastatic Bone Disease. Current Oncology. 2021;28(5):3347-3372。ライセンス：CC BY。 DOI: 10.3390/curroncol28050290、PMID: 34590591、PMCID: PMC8482272。 確認内容：ビスホスホネートとデノスマブに関する独立した節があり、疼痛への放射線治療、切迫骨折・脊髄圧迫への外科的対応、放射線科・腫瘍内科・整形外科による集学的チームアプローチの必要性が記載されている。／備考：BO-012 と同一の主出典・同一の裏づけ候補。（新規 SRC 候補）'
   uncertainty: 薬剤名のあるカードとしての注記：デノスマブ（ランマーク皮下注120mg）は国内で「多発性骨髄腫による骨病変及び固形癌骨転移による骨病変」の効能で2012年に承認され保険適用があることを PMDA 資料で確認した。ゾレドロン酸（ゾメタ）も国内承認薬だが、効能文言の個別照合は本作成では行っていない。投与間隔の最適化（12週ごと投与など）は本出典の範囲外。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-C（転移性骨腫瘍、a）
@@ -453,6 +492,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-014
   domain: BO
   subdomain: 単発性骨囊腫
@@ -473,7 +515,7 @@
     source_license: © American Academy of Orthopaedic Surgeons（JAAOS、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ57 2026-11-13）：Ge J, Tian K. Management strategies and outcomes of pediatric unicameral bone cyst: a narrative review. Frontiers in Pediatrics. 2026;14:1753597。ライセンス：CC BY。 DOI: 10.3389/fped.2026.1753597、PMID: 42063443、PMCID: PMC13126734。 確認内容：80%が20歳未満に診断されること、上腕骨近位（50–56%）と大腿骨近位に好発し両者で約4分の3を占めること、骨の強度低下により病的骨折を来しやすいことが記載されている。 未確認要素：「骨幹端の中央に位置する透亮像と皮質の菲薄化」という画像所見の言い回しそのものは総説本文では確認できなかった（骨幹端発生の機序には言及がある）。（新規 SRC 候補）'
   uncertainty: 治療（経過観察、穿刺・注入、掻爬など）の優劣は確立しておらず、本出典でも管理方法に定まった標準はないとされているため、治療の命題は立てていない。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-D-①（単発性骨囊腫、c）
@@ -488,6 +530,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-015
   domain: BO
   subdomain: 動脈瘤様骨囊腫
@@ -508,7 +553,7 @@
     source_license: © American Academy of Orthopaedic Surgeons（JAAOS、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ57 2026-11-13）：Restrepo R, Zahrah D, Pelaez L, Temple HT, Murakami JW. Update on aneurysmal bone cyst: pathophysiology, histology, imaging and treatment. Pediatric Radiology. 2022;52(9):1601-1614。ライセンス：CC BY。 DOI: 10.1007/s00247-022-05396-6、PMID: 35941207、PMCID: PMC9360065。 確認内容：膨隆した溶骨性病変で fluid-fluid level を示すこと、血液で満たされた腔が細胞性の隔壁に隔てられた組織像、骨幹端への好発、伝統的治療が病巣内掻爬（±骨移植）であることが記載されている。（新規 SRC 候補）'
   uncertainty: USP6 遺伝子再構成などの分子病理や、続発性（他の腫瘍に伴う）動脈瘤様骨囊腫の頻度は本出典の抄録範囲を超えるため命題に含めていない。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-D-②（動脈瘤様骨囊腫、c）
@@ -523,6 +568,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-016
   domain: BO
   subdomain: 線維性骨異形成
@@ -578,7 +626,7 @@
     source_license: © Elsevier Masson SAS（著作権表示あり・CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ57 2026-11-13）：Liu H, Wang X, Wang X, Qiu F, Zhou B. Challenges and hope: latest research trends in the clinical treatment and prognosis of liposarcoma. Frontiers in Pharmacology. 2025;16:1529755。ライセンス：CC BY。 DOI: 10.3389/fphar.2025.1529755、PMID: 40421219、PMCID: PMC12104207。 確認内容：異型脂肪性腫瘍／高分化型脂肪肉腫と脱分化型脂肪肉腫の分子的特徴が12q13-15領域（MDM2・CDK4）の増幅であることが明記され、MDM2 増幅検出を含む精査という鑑別方針の根拠を裏づける。 未確認要素：「筋膜より深部・長径5cm超」という精査開始の具体的基準そのものは総説本文では確認できなかった。／備考：主出典 SRC-1908 は Elsevier の OA ユーザーライセンス（CC ではない）であり RESTRICTED の現行区分は妥当。（新規 SRC 候補）'
   uncertainty: 出典は四肢の脂肪性腫瘍に関するフランスの専門家グループの総説であり、体幹・後腹膜の脂肪性腫瘍の扱いは異なる場合がある。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-E-①（脂肪腫、b）
@@ -593,6 +641,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-018
   domain: BO
   subdomain: 血管腫
@@ -613,7 +664,7 @@
     source_license: © Springer（Skeletal Radiology、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ57 2026-11-13）：Lei R, Tian L. Easily misdiagnosed intramuscular hemangioma: a case report and literature review. Frontiers in Surgery. 2025;12:1533174。ライセンス：CC BY。 DOI: 10.3389/fsurg.2025.1533174、PMID: 40529891、PMCID: PMC12172652。 確認内容：緩徐に経過し誤診されやすい軟部腫瘤であること、X線で静脈石（静脈血栓の石灰化）が約25%にみられ血管腫・血管奇形に特異的な所見であることが記載されている。 未確認要素：「境界明瞭で分葉状、内部に脂肪・血管チャンネルを伴う」という MRI 所見一式は自由全文では確認できず、主出典（Skeletal Radiol 2007）に依存する（フラグ参照）。／備考：裏づけは部分的にとどまるため、判定は B（部分）と明記する。（新規 SRC 候補）'
   uncertainty: 出典は2007年の単施設の画像検討であり、ISSVA 分類に基づく血管奇形との鑑別や、乳児血管腫（GLUT1 陽性）とは対象が異なる。治療（切除・塞栓など）の適応は本出典の範囲外。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-E-②（血管腫、b）
@@ -628,6 +679,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-019
   domain: BO
   subdomain: 神経鞘腫
@@ -682,8 +736,8 @@
     url: https://doi.org/10.1016/j.jcot.2016.04.006
     source_license: ライセンス未確認（Journal of Clinical Orthopaedics and Trauma、CC 表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ57 2026-11-13）：Kern E, Stanley O, Fisher O, Schwartz G. Hidden in Plain Sight: The Diagnostic Odyssey of Glomus Tumors. Cureus. 2026;18(9):e115832。ライセンス：CC BY。 DOI: 10.7759/cureus.115832、PMID: 42836244、PMCID: PMC13638195。 確認内容：爪下・爪周囲に好発すること、確立した臨床的3徴（限局した圧痛・激しい疼痛・寒冷過敏）があること、外科的切除により症状が完全に消失することが、3例の手術確認例と文献レビューで記載されている。／備考：主出典 SRC-1911 の区分訂正は別枠の節に分離した。（新規 SRC 候補）'
   uncertainty: Love のピンテスト、Hildreth テストなどの臨床テストや MRI の感度の数値は本出典の抄録では確認できなかったため命題に含めていない。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-E-④（グロムス腫瘍、c）
@@ -698,6 +752,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1911 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-021
   domain: BO
   subdomain: 類腱腫
@@ -718,7 +778,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ57 2026-11-13）：Nahi SL, Dann AM. Systemic Therapies for Desmoid Tumors: A Review of Past, Present, and Future Treatments. Cancers. 2026;18(10):1521。ライセンス：CC BY。 DOI: 10.3390/cancers18101521、PMID: 42192882、PMCID: PMC13204362。 確認内容：長期の安定や自然退縮があり得るため現行ガイドラインは積極的経過観察を管理の第一歩として支持すること、前向き観察研究で自然退縮が当初25%・増大後にさらに31%にみられたことが記載されている。／Lucas A, Zhou S, Hernandez L, et al. The impact of desmoid tumors: insights from the Desmoid Tumor Research Foundation Natural History Study, 2017-2023. Orphanet Journal of Rare Diseases. 2025;20(1):515。ライセンス：CC BY。 DOI: 10.1186/s13023-025-04021-7、PMID: 41088143、PMCID: PMC12522799。 確認内容：非転移性だが局所浸潤性で、経過は予測困難であることが明記されている。／備考：主出典の DTWG ガイドライン（Eur J Cancer 2020）は Crossref VoR で CC BY-NC-ND のため RESTRICTED の現行区分は妥当。（新規 SRC 候補）'
   uncertainty: active surveillance の具体的な画像間隔や、治療介入へ切り替える基準はガイドライン本文の範囲であり、本カードの抄録確認範囲を超える。家族性腺腫性ポリポーシスに伴うデスモイドは本カードの主対象（孤発性）とは経過が異なる場合がある。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-E-⑤（類腱腫、c）
@@ -733,6 +793,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-022
   domain: BO
   subdomain: 類腱腫
@@ -753,7 +816,7 @@
     source_license: © Massachusetts Medical Society（NEJM、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ57 2026-11-13）：ClinicalTrials.gov 登録レコード NCT03785964（DeFi 試験: A Randomized, Placebo-Controlled Trial of Nirogacestat in Patients With Progressing Desmoid Tumors） ClinicalTrials.gov（米国政府）, 結果掲載あり。ライセンス：米国政府レジストリ（GOV_US）。 確認内容：主要解析の無増悪生存期間ハザード比0.29（95%CI 0.15–0.55, p<0.001）、奏効率41%（ニロガセスタット）対8%（プラセボ）が結果として掲載され、カードの数値と一致する。／備考：登録レコードで第III相試験の主要結果がそのまま裏づけられる。（新規 SRC 候補）'
   uncertainty: 薬剤名のあるカードとしての注記：ニロガセスタットは米国で2023年に進行性デスモイド腫瘍に対して承認されたが、国内では未承認であり、日本人の成人進行性デスモイド腫瘍患者を対象とした第II相試験が進行中であることを治験登録で確認した（保険適用なし）。なお、ソラフェニブも第III相試験（NEJM 2018）で無増悪生存期間の有意な延長が示されているが、本パートでは出典枠の都合で専用カードは作らなかった。ソラフェニブのデスモイド腫瘍への使用は国内では適応外である。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-E-⑤（類腱腫、c）
@@ -768,6 +831,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-023
   domain: BO
   subdomain: 脂肪肉腫
@@ -788,7 +854,7 @@
     source_license: © Elsevier（Seminars in Diagnostic Pathology、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ57 2026-11-13）：Liu H, Wang X, Wang X, Qiu F, Zhou B. Challenges and hope: latest research trends in the clinical treatment and prognosis of liposarcoma. Frontiers in Pharmacology. 2025;16:1529755。ライセンス：CC BY。 DOI: 10.3389/fphar.2025.1529755、PMID: 40421219、PMCID: PMC12104207。 確認内容：WHO 第5版の亜型構成（異型脂肪性腫瘍／高分化型・脱分化型を含む）が示され、両者の分子的特徴が12q13-15領域、とりわけ MDM2・CDK4 の増幅であることが明記されている。 未確認要素：「高分化型は転移しない」という転帰の対比そのものは総説の別箇所の記述に依存し、本調査では部位を特定して確認していない。／備考：BO-017 と同一の裏づけ候補。（新規 SRC 候補）'
   uncertainty: 粘液型・多形型など他の亜型の頻度と予後は本出典（高分化型・脱分化型の総説）の対象外であり命題に含めていない。脂肪肉腫全体が軟部肉腫の中で多い型であることは、BO-017 の出典（四肢の脂肪性腫瘍は最も多い軟部病変）とも整合するが、本カードでは高分化型・脱分化型に範囲を限った。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-F-①（脂肪肉腫、c）
@@ -803,6 +869,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-024
   domain: BO
   subdomain: 滑膜肉腫
@@ -857,8 +926,8 @@
     url: https://doi.org/10.1634/theoncologist.2013-0328
     source_license: ライセンス未確認（The Oncologist、CC 表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ57 2026-11-13）：Seres R, Hameed H, McCabe MG, Russell D, Lee ATJ. The Multimodality Management of Malignant Peripheral Nerve Sheath Tumours. Cancers. 2024;16(19):3266。ライセンス：CC BY。 DOI: 10.3390/cancers16193266、PMID: 39409887、PMCID: PMC11475700。 確認内容：MPNST の最大50%が NF1 患者に発生し、NF1 における生涯発症リスクは8–13%と報告されること、限局例では陰性マージン（R0、全方向2cmが推奨）での完全切除が治癒を目指す管理の要であることが記載されている。／備考：主出典 SRC-1916 の区分訂正は別枠の節に分離した。（新規 SRC 候補）'
   uncertainty: 生存率の具体的数値は原著研究間で幅があり、本出典の抄録では単一の数値として確認できなかったため命題に含めていない。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-F-③（悪性末梢神経鞘腫、c）
@@ -873,6 +942,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1916 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-026
   domain: BO
   subdomain: 平滑筋肉腫
@@ -893,7 +968,7 @@
     source_license: © Elsevier Inc.（著作権表示あり・CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ57 2026-11-13）：Lesovaya EA, Fetisov TI, Bokhyan BY, et al. Therapeutic Vulnerabilities of the Key Genetic Drivers in Leiomyosarcoma. Medical Sciences. 2026;14(5):571。ライセンス：CC BY。 DOI: 10.3390/medsci14050571、PMID: 42783444、PMCID: PMC13609683。 確認内容：手術が平滑筋肉腫治療の基盤であり、部位によっては放射線治療やドキソルビシン／イホスファミド系化学療法を組み合わせる集学的治療を要すること、進行例に用いる細胞障害性薬剤とトラベクテジンの位置づけが記載されている。 未確認要素：「子宮・後腹膜・四肢に好発」という部位分布の列挙そのものは総説の主眼（遺伝的ドライバー）とは異なるため、部位別の裏づけは限定的である。（新規 SRC 候補）'
   uncertainty: 血行性転移（肺転移が多いこと）やリンパ行性転移が少ないことは臨床的に知られるが、本出典の抄録では確認できなかったため命題に含めていない。子宮平滑筋肉腫の術前診断（子宮筋腫との鑑別）は本カードの範囲外。
   curriculum:
     kokushi: 医学各論 Ⅸ-9-F-④（平滑筋肉腫、c）
@@ -908,6 +983,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による
 - id: BO-027
   domain: BO
   subdomain: 軟部肉腫総論
@@ -928,7 +1006,7 @@
     source_license: © The Journal of Bone and Joint Surgery（CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN／GOV_US、作り手の調査バッチ57 2026-11-13）：Savarese LG, Papalexis N, de Andrade Hernandes M, et al. Challenging bone biopsies: what radiologists needs to know. Skeletal Radiology. 2026;55(12):3061-3072。ライセンス：CC BY。 DOI: 10.1007/s00256-026-05336-7、PMID: 42576100、PMCID: PMC13669126。 確認内容：原発性骨肉腫が疑われる場合、生検路を一塊切除に含められるよう整形外科腫瘍チームがマーキングを求めること、生検軌道の計画では播種の可能性を考慮することが記載されている。／National Cancer Institute. Ewing Sarcoma Treatment (PDQ®) / Osteosarcoma and UPS of Bone Treatment (PDQ®) — Health Professional Version. NCI PDQ® Cancer Information Summary (cancer.gov), 2026-11-13 閲覧。ライセンス：米国政府著作物（GOV_US）。 確認内容：生検の切開部位は根治手術を担当する外科医と相談して決めるべきこと、生検は切除を行う外科医が自ら行うのが望ましい旨が記載されている。 未確認要素：Mankin 1996 の「紹介元施設の生検で2〜12倍多い」という具体的倍率と不必要な切断の症例数は、自由全文では確認できなかった（フラグ参照）。／備考：判定は原則部分の B とする。倍率は主出典のみに依存する。（新規 SRC 候補）'
   uncertainty: 出典は1996年の米国の多施設調査であり、現在の画像ガイド下針生検の普及した状況とは前提が異なる可能性がある。軟部肉腫総論のカードとして特定の国試項目には対応づけず kokushi は null とした。広範切除の切除縁の定義や国内の骨・軟部腫瘍診療ガイドラインの推奨は、本パートでは本文を確認できる一次資料が得られなかったため専用カードを作っていない。
   curriculum:
     kokushi: null
@@ -943,3 +1021,6 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN／GOV_US、作り手の調査バッチ57 2026-11-13）。三原の承認（2026-11-11）による

@@ -60,7 +60,7 @@
 
 - 条件：population: 骨巨細胞腫患者／region: 国際
 - 不確実性：「骨端部」は出典抄録の「関節近傍（peri-articular / near a joint）」の解剖学的表現として併記した。肺転移の頻度の数値は出典抄録に明示がなく命題に含めていない。本出典には DOI が付与されていない（出典表参照）。
-- 出典：Sobti A, Agrawal P, Agarwala S, Agarwal M. Giant Cell Tumor of Bone - An Overview. Arch Bone Jt Surg. 2016;4(1):2-9（PMCID: PMC4733230）　[PMID 26894211](https://pubmed.ncbi.nlm.nih.gov/26894211/)（区分 UNKNOWN）
+- 出典：Sobti A, Agrawal P, Agarwala S, Agarwal M. Giant Cell Tumor of Bone - An Overview. Arch Bone Jt Surg. 2016;4(1):2-9（PMCID: PMC4733230）　[PMID 26894211](https://pubmed.ncbi.nlm.nih.gov/26894211/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-9-A-④（骨巨細胞腫、c）　コアカリ：PS-02-05-05 (id: JkxnuQc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BO-004&card_id=BO-004&version=96d85907a9)　（版 `96d85907a9`）
 
@@ -106,7 +106,7 @@
 
 - 条件：population: 骨肉腫患者／region: 国際
 - 不確実性：ALP のカットオフ値は各原著研究で異なり統一されていない。治療反応性や腫瘍量の指標としての位置づけは本メタ解析の範囲を超える。
-- 出典：Gu R, Sun Y. Does serum alkaline phosphatase level really indicate the prognosis in patients with osteosarcoma? A meta-analysis. J Cancer Res Ther. 2018;14(Supplement):S468-S472　[DOI 10.4103/0973-1482.177217](https://doi.org/10.4103/0973-1482.177217)　[PMID 29970708](https://pubmed.ncbi.nlm.nih.gov/29970708/)（区分 UNKNOWN）
+- 出典：Gu R, Sun Y. Does serum alkaline phosphatase level really indicate the prognosis in patients with osteosarcoma? A meta-analysis. J Cancer Res Ther. 2018;14(Supplement):S468-S472　[DOI 10.4103/0973-1482.177217](https://doi.org/10.4103/0973-1482.177217)　[PMID 29970708](https://pubmed.ncbi.nlm.nih.gov/29970708/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-9-B-①（骨肉腫、b）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-638 (id: Jlvnmbo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BO-008&card_id=BO-008&version=55082c350b)　（版 `55082c350b`）
 
@@ -122,7 +122,7 @@
 
 - 条件：population: 軟骨肉腫患者／region: 国際
 - 不確実性：出典は2008年の総説であり、その後の分子標的治療（IDH 変異など）の進展は反映されていない。中高年好発という年齢分布は本出典の抄録では明示されておらず命題に含めていない。 化学療法の個別薬剤の国内承認・保険適用は、本カードの命題（化学療法抵抗性）には直接関係しないため未確認。
-- 出典：Gelderblom H, Hogendoorn PC, Dijkstra SD, et al. The clinical approach towards chondrosarcoma. Oncologist. 2008;13(3):320-329　[DOI 10.1634/theoncologist.2007-0237](https://doi.org/10.1634/theoncologist.2007-0237)　[PMID 18378543](https://pubmed.ncbi.nlm.nih.gov/18378543/)（区分 UNKNOWN）
+- 出典：Gelderblom H, Hogendoorn PC, Dijkstra SD, et al. The clinical approach towards chondrosarcoma. Oncologist. 2008;13(3):320-329　[DOI 10.1634/theoncologist.2007-0237](https://doi.org/10.1634/theoncologist.2007-0237)　[PMID 18378543](https://pubmed.ncbi.nlm.nih.gov/18378543/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-9-B-②（軟骨肉腫、b）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-639 (id: Jlvnmbs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BO-009&card_id=BO-009&version=f009bb0dcd)　（版 `f009bb0dcd`）
 
@@ -292,7 +292,7 @@
 
 - 条件：population: グロムス腫瘍患者／region: 国際
 - 不確実性：Love のピンテスト、Hildreth テストなどの臨床テストや MRI の感度の数値は本出典の抄録では確認できなかったため命題に含めていない。
-- 出典：Morey VM, Garg B, Kotwal PP. Glomus tumours of the hand: Review of literature. J Clin Orthop Trauma. 2016;7(4):286-291（PMCID: PMC5106475）　[DOI 10.1016/j.jcot.2016.04.006](https://doi.org/10.1016/j.jcot.2016.04.006)　[PMID 27857505](https://pubmed.ncbi.nlm.nih.gov/27857505/)（区分 UNKNOWN）
+- 出典：Morey VM, Garg B, Kotwal PP. Glomus tumours of the hand: Review of literature. J Clin Orthop Trauma. 2016;7(4):286-291（PMCID: PMC5106475）　[DOI 10.1016/j.jcot.2016.04.006](https://doi.org/10.1016/j.jcot.2016.04.006)　[PMID 27857505](https://pubmed.ncbi.nlm.nih.gov/27857505/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-9-E-④（グロムス腫瘍、c）　コアカリ：PS-02-05-05 (id: JkxnuQc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BO-020&card_id=BO-020&version=cac3546969)　（版 `cac3546969`）
 
@@ -366,7 +366,7 @@
 
 - 条件：population: 悪性末梢神経鞘腫瘍患者／region: 国際
 - 不確実性：生存率の具体的数値は原著研究間で幅があり、本出典の抄録では単一の数値として確認できなかったため命題に含めていない。
-- 出典：Farid M, Demicco EG, Garcia R, et al. Malignant peripheral nerve sheath tumors. Oncologist. 2014;19(2):193-201（PMCID: PMC3926794）　[DOI 10.1634/theoncologist.2013-0328](https://doi.org/10.1634/theoncologist.2013-0328)　[PMID 24470531](https://pubmed.ncbi.nlm.nih.gov/24470531/)（区分 UNKNOWN）
+- 出典：Farid M, Demicco EG, Garcia R, et al. Malignant peripheral nerve sheath tumors. Oncologist. 2014;19(2):193-201（PMCID: PMC3926794）　[DOI 10.1634/theoncologist.2013-0328](https://doi.org/10.1634/theoncologist.2013-0328)　[PMID 24470531](https://pubmed.ncbi.nlm.nih.gov/24470531/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-9-F-③（悪性末梢神経鞘腫、c）　コアカリ：PS-02-05-05 (id: JkxnuQc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BO-025&card_id=BO-025&version=28f932a2e7)　（版 `28f932a2e7`）
 

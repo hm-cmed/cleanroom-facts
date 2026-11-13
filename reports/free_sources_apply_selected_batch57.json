@@ -1,0 +1,55 @@
+{
+ "class": [
+  [
+   "SRC-1896",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1900",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1901",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1911",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1916",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [],
+ "B": [
+  "BO-001",
+  "BO-004",
+  "BO-005",
+  "BO-006",
+  "BO-007",
+  "BO-008",
+  "BO-009",
+  "BO-010",
+  "BO-011",
+  "BO-012",
+  "BO-013",
+  "BO-014",
+  "BO-015",
+  "BO-017",
+  "BO-018",
+  "BO-020",
+  "BO-021",
+  "BO-022",
+  "BO-023",
+  "BO-025",
+  "BO-026",
+  "BO-027"
+ ],
+ "new_src": []
+}
