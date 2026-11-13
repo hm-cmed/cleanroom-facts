@@ -18040,14 +18040,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 厚労科研の研究班の著作物（政府の著作物ではない）。研究班の診療ガイドは RESTRICTED とする 2026-11-13 三原の決定。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: GOV_JP
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md の出典マスター表から
+  - date: '2026-11-13'
+    by: claude-code
+    change: source_class を GOV_JP から RESTRICTED に訂正（研究班のガイドラインは研究班の著作物とする三原の決定）
 - id: SRC-1637
   legacy_id: null
   title: 厚生労働科学研究費補助金「プリオン病及び遅発性ウイルス感染症に関する調査研究班」ほか. プリオン病感染予防ガイドライン2020. 2020
@@ -18055,14 +18058,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 厚労科研の研究班の著作物（政府の著作物ではない）。研究班の診療ガイドは RESTRICTED とする 2026-11-13 三原の決定。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: GOV_JP
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md の出典マスター表から
+  - date: '2026-11-13'
+    by: claude-code
+    change: source_class を GOV_JP から RESTRICTED に訂正（研究班のガイドラインは研究班の著作物とする三原の決定）
 - id: SRC-1638
   legacy_id: null
   title: 日本神経学会・日本神経治療学会・日本神経感染症学会 監修、「細菌性髄膜炎診療ガイドライン」作成委員会 編. 細菌性髄膜炎診療ガイドライン2014. 南江堂. 2014
@@ -26797,10 +26803,10 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 厚生労働省の研究事業成果物（政府資料）
+  license_note: 厚労科研の研究班の著作物（政府の著作物ではない）。研究班の診療ガイドは RESTRICTED とする 2026-11-13 三原の決定。旧記録：厚生労働省の研究事業成果物（政府資料）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: GOV_JP
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -26808,6 +26814,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+  - date: '2026-11-13'
+    by: claude-code
+    change: source_class を GOV_JP から RESTRICTED に訂正（研究班のガイドラインは研究班の著作物とする三原の決定）
 - id: SRC-2642
   legacy_id: null
   title: Neunert C, Terrell DR, Arnold DM, et al. American Society of Hematology 2019 guidelines for immune thrombocytopenia. Blood Adv. 2019;3(23):3829-3866.

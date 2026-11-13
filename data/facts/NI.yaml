@@ -217,9 +217,9 @@
     pmid: null
     pmcid: null
     url: null
-    source_license: 厚生労働省研究班による公的ガイドライン（無償公開。政府標準利用規約の適用は取り込み側で最終確認）
+    source_license: 研究班の著作物
     legal_basis: B
-    source_class: GOV_JP
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 変異型 CJD の国内発生はこれまで 1 例のみであり、記載は主に英国症例に基づく WHO 診断基準（2001）・EU 診断基準の紹介である。
   curriculum:
@@ -235,6 +235,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-1636 の区分の訂正（研究班のガイドラインは RESTRICTED、2026-11-13 三原の決定）にあわせて provenance.source_class を GOV_JP から RESTRICTED にした
 - id: NI-007
   domain: NI
   subdomain: プリオン病
@@ -252,9 +255,9 @@
     pmid: null
     pmcid: null
     url: null
-    source_license: 厚生労働省研究班による公的ガイドライン（無償公開。政府標準利用規約の適用は取り込み側で最終確認）
+    source_license: 研究班の著作物
     legal_basis: B
-    source_class: GOV_JP
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 滅菌条件は器具の耐熱性や洗浄方法により複数のパターンが示されており、134℃・18 分間はアルカリ洗浄を用いない場合の代表的な条件である。ガイドライン 2020 年版以降の改訂の有無は取り込み側で再確認を推奨する。
   curriculum:
@@ -270,6 +273,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-1637 の区分の訂正（研究班のガイドラインは RESTRICTED、2026-11-13 三原の決定）にあわせて provenance.source_class を GOV_JP から RESTRICTED にした
 - id: NI-008
   domain: NI
   subdomain: 髄膜炎

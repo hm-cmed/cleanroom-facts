@@ -15,9 +15,9 @@
     pmid: null
     pmcid: null
     url: null
-    source_license: 厚生労働省の研究事業成果物（政府資料）
+    source_license: 研究班の著作物
     legal_basis: B
-    source_class: GOV_JP
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 致命的な脳出血は成人では約1%に起こると同ガイドに記載がある。2023年版の国内診断参照ガイドで診断基準に加えられた血漿トロンボポエチン濃度と幼若血小板比率（IPF%）は、2025年末時点で保険収載されていない（同ガイドで確認）。出典は厚生労働省の研究事業成果物のPDFで、DOI・PMIDはない。
   curriculum:
@@ -33,6 +33,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-2641 の区分の訂正（研究班のガイドラインは RESTRICTED、2026-11-13 三原の決定）にあわせて provenance.source_class を GOV_JP から RESTRICTED にした
 - id: HS-002
   domain: HS
   subdomain: 免疫性血小板減少症<ITP>
@@ -123,9 +126,9 @@
     pmid: null
     pmcid: null
     url: null
-    source_license: 厚生労働省の研究事業成果物（政府資料）
+    source_license: 研究班の著作物
     legal_basis: B
-    source_class: GOV_JP
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値は救急領域における止血機能異常症の診療ガイド第2版のITPの章から読み取った。除菌療法は国内の診療ガイドに位置づけられた治療であり、用いる抗菌薬等はいずれも国内承認薬である。
   curriculum:
@@ -141,6 +144,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/40_hm_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-2641 の区分の訂正（研究班のガイドラインは RESTRICTED、2026-11-13 三原の決定）にあわせて provenance.source_class を GOV_JP から RESTRICTED にした
 - id: HS-005
   domain: HS
   subdomain: 血栓性血小板減少性紫斑病<TTP>
