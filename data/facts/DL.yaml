@@ -17,8 +17,8 @@
     url: https://doi.org/10.1097/AOG.0000000000005447
     source_license: CC 表示なし（© ACOG）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ58 2026-11-13）：Cate JJM et al. J Clin Med. 2024;13(16):4720（CC BY 4.0、DOI 10.3390/jcm13164720、PMID 39200862、PMC11355156）：活動期は子宮口6cmからとする再定義を明記。Mappa I et al. Healthcare. 2026;14(18):3000（CC BY 4.0、DOI 10.3390/healthcare14183000、PMID 42793539、PMC13606038）：第1期進行遷延へのオキシトシン増強を扱う系統的レビュー。潜伏期遷延のみを理由とする帝王切開回避の直接文はなし（新規 SRC 候補）
   uncertainty: 「微弱陣痛」そのものの収縮回数・持続時間による国内定義は確認できなかった。日本の対応は産科編2026のCQ404（微弱陣痛による分娩進行遷延時の対応）が受け皿となるが、刊行版の本文は未照合。オキシトシンおよびプロスタグランジン製剤はいずれも国内承認・保険適用がある（出典リサーチで確認）
   curriculum:
     kokushi: 医学各論 Ⅰ-2-B-①（微弱陣痛、過強陣痛、b）
@@ -33,6 +33,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3263 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ58 2026-11-13）。三原の承認（2026-11-11）による
 - id: DL-002
   domain: DL
   subdomain: 微弱陣痛、過強陣痛
@@ -52,8 +58,8 @@
     url: https://doi.org/10.1097/AOG.0b013e3181841395
     source_license: CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ58 2026-11-13）：Contraction frequency and acidemia at birth: A case–control study. Acta Obstet Gynecol Scand. 2026;105(5S)（CC BY 4.0、DOI 10.1111/aogs.70181、PMID 41782222、PMC13125349）：tachysystole の FIGO 定義「10分間に5回超、30分間の平均」を明記し、カードの NICHD 定義と実質一致。胎児心拍反応の併記と「hyperstimulation を用いない」点は未確認（新規 SRC 候補）'
   uncertainty: '本定義は米国の分娩時モニタリングの用語標準であり、日本語の「過強陣痛」との厳密な用語対応は国内資料で未確認。子宮収縮薬の減量・中止の具体的基準は産科編2026のCQ413群（刊行版未照合）に委ねられる。同報告には J Obstet Gynecol Neonatal Nurs 同時掲載版（DOI: 10.1111/j.1552-6909.2008.00284.x）があり、本カードは Obstet Gynecol 版の識別子でそろえた'
   curriculum:
     kokushi: 医学各論 Ⅰ-2-B-①（微弱陣痛、過強陣痛、b）
@@ -68,6 +74,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3264 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ58 2026-11-13）。三原の承認（2026-11-11）による
 - id: DL-003
   domain: DL
   subdomain: 児頭骨盤不均衡<CPD>、狭骨盤
@@ -87,8 +99,8 @@
     url: https://doi.org/10.1097/OGX.0b013e3181ecdf0c
     source_license: CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ58 2026-11-13）：Modern Utility of Pelvimetry: a Relevant Tool or an Outdated Concept? Cureus. 2025;17(10)（CC BY 4.0、DOI 10.7759/cureus.95522、PMID 41322796、PMC12658874）：X線骨盤計測は経腟分娩成功の予測能が低く臨床的価値は限定的、臨床骨盤計測は教育・診療に残る。CPD の定義文の直接記載はなし（新規 SRC 候補）'
   uncertainty: CPD・狭骨盤に特化した現行ガイドラインは確認できず、本カードは2010年の総説に基づく。日本での評価・分娩様式の判断は産科編2026の分娩管理CQ群（刊行版未照合）で確認が必要
   curriculum:
     kokushi: 医学各論 Ⅰ-2-C-①（児頭骨盤不均衡<CPD>、狭骨盤、b）
@@ -103,6 +115,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3265 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ58 2026-11-13）。三原の承認（2026-11-11）による
 - id: DL-004
   domain: DL
   subdomain: 骨盤位、横位
@@ -122,8 +140,8 @@
     url: https://doi.org/10.1097/AOG.0000000000002755
     source_license: CC 表示なし（© ACOG）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ58 2026-11-13）：Procedural Optimisation and Unmeasured Implementation in External Cephalic Version at Term: A Narrative Review of a Measurement Asymmetry. Healthcare. 2026;14(20):3452（CC BY 4.0、DOI 10.3390/healthcare14203452、PMID 42940496、PMC13704564）：禁忌がなければ ECV を提示すべきことが各学会推奨（ACOG・RANZCOG は Grade A、RCOG は37週0日から）として明記。分娩様式の決め方、緊急帝王切開可能な施設でのみ実施、計画的経腟骨盤位分娩のプロトコルと同意文書化は未確認（新規 SRC 候補）'
   uncertainty: 本意見書（2018年、2023年 reaffirmed）の対象は骨盤位であり、横位そのものを扱う単独の現行ガイドラインは確認できなかった（横位は臍帯脱出の予防・対応の文脈で DL-008 と接点がある）。日本で骨盤位経腟分娩を選択する条件は産科編2026のCQ402（刊行版未照合）に委ねられる
   curriculum:
     kokushi: 医学各論 Ⅰ-2-D-①（骨盤位、横位、b）
@@ -138,6 +156,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3266 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ58 2026-11-13）。三原の承認（2026-11-11）による
 - id: DL-005
   domain: DL
   subdomain: 骨盤位、横位
@@ -157,8 +181,8 @@
     url: https://doi.org/10.1002/14651858.CD000083.pub3
     source_license: © Cochrane Collaboration（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ58 2026-11-13）：同上の Healthcare 2026 総説（CC BY 4.0）：Cochrane の無作為化試験レビューに基づき、ECV の試行は出生時の非頭位提示を減らし帝王切開も減らす（帝王切開は確実性 very low と明記）。「経腟頭位分娩の失敗」減少の直接記載はなし（新規 SRC 候補）
   uncertainty: 合併症は大規模観察研究ではまれとされるが、本カードは本レビューの抄録で確認した範囲に基づく。国内の実施要件（緊急帝王切開が可能な体制、児の成熟など）は産科編2026のCQ402（刊行版未照合）で確認が必要。計画的帝王切開と経腟分娩を比べた別のCochraneレビュー（CD000166）とは混同しない
   curriculum:
     kokushi: 医学各論 Ⅰ-2-D-①（骨盤位、横位、b）
@@ -173,6 +197,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3267 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ58 2026-11-13）。三原の承認（2026-11-11）による
 - id: DL-006
   domain: DL
   subdomain: 後方後頭位、低在横定位、高在縦定位
@@ -263,7 +293,7 @@
     source_license: CC BY-NC 3.0（PMC 本文で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ58 2026-11-13）：Umbilical Cord Prolapse—Interesting CTG Traces. Diagnostics. 2022;12(11):2845（CC BY 4.0、DOI 10.3390/diagnostics12112845、PMID 36428904、PMC9689471）：発生率1〜6/1,000妊娠（＝0.1〜0.6%）、危険因子（胎位異常・早産等）、先進部の用手的挙上と膀胱充満、decision-to-incision 30分未満で転帰良好。医原性約50%の数値、膀胱充満量500〜700 mL、臍帯の過剰な触診回避は未確認。主出典は CC BY-NC 3.0 のため RESTRICTED の現行区分が正しい（新規 SRC 候補）
   uncertainty: 用語対応は本論文の定義に基づく（cord presentation が臍帯下垂に相当し破水の有無を問わない、prolapse が臍帯脱出）。国内の定義（破水の有無による区別）と完全一致するかは国内資料で未確認。診断から分娩まで30分未満という目標は RCOG Green-top Guideline No. 50（2014）の推奨として本論文が引用したもので、同ガイドライン自体の現行性は未確認のため出典にはしていない。横位・斜位・不安定胎位では37週0日以降の入院を協議するという予防の接点も同ガイドラインに基づく
   curriculum:
     kokushi: 医学各論 Ⅰ-2-G-①（臍帯下垂、臍帯脱出、c）
@@ -278,6 +308,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ58 2026-11-13）。三原の承認（2026-11-11）による
 - id: DL-009
   domain: DL
   subdomain: 遷延分娩、分娩停止、肩甲難産
@@ -297,8 +330,8 @@
     url: https://doi.org/10.1097/AOG.0000000000005447
     source_license: CC 表示なし（© ACOG）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ58 2026-11-13）：Cate JJM et al. J Clin Med. 2024;13(16):4720（CC BY 4.0）：第1期停止の基準「6cm以上・破水後、十分な収縮で4時間／不十分ならオキシトシン6時間で変化なし」を明記しカードと一致。第2期は初産婦 pushing 3時間（硬膜外なし）を確認。経産婦2時間の閾値は未確認（新規 SRC 候補）
   uncertainty: 「十分な子宮収縮」の目安（子宮内圧カテーテルで200 Montevideo units超）は二次要約経由で確認した。日本における分娩遷延・停止の定義と帝王切開への移行判断は産科編2026（刊行版未照合）に委ねられる。オキシトシンは国内承認・保険適用がある
   curriculum:
     kokushi: 医学各論 Ⅰ-2-H-①（遷延分娩、分娩停止、肩甲難産、b）
@@ -313,6 +346,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3263 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ58 2026-11-13）。三原の承認（2026-11-11）による
 - id: DL-010
   domain: DL
   subdomain: 遷延分娩、分娩停止、肩甲難産
@@ -332,8 +371,8 @@
     url: https://doi.org/10.1097/AOG.0000000000002043
     source_license: CC 表示なし（© ACOG）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ58 2026-11-13）：Audit of Shoulder Dystocia Management and Outcomes at a Busy Hospital in the United Kingdom. Cureus. 2025;17(11)（CC BY 4.0、DOI 10.7759/cureus.97528、PMID 41446480、PMC12723310）：発生率1.32%でカードの0.2〜3%の範囲内、largely unpredictable と明記、第一選択は McRoberts＋恥骨上圧迫（症例の80.4%）。子宮底圧迫の回避は未確認（新規 SRC 候補）
   uncertainty: 発生率は定義により幅がある。本カードは2017年版（2024年に reaffirmed）の bulletin に基づく。日本での予測・対応手順（巨大児が疑われる場合の扱いを含む）は産科編2026のCQ313・CQ404等（刊行版未照合）で確認が必要
   curriculum:
     kokushi: 医学各論 Ⅰ-2-H-①（遷延分娩、分娩停止、肩甲難産、b）
@@ -348,6 +387,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3271 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ58 2026-11-13）。三原の承認（2026-11-11）による
 - id: DL-011
   domain: DL
   subdomain: 子宮破裂、頸管・腟・会陰裂傷
@@ -367,7 +412,7 @@
     url: https://doi.org/10.1097/AOG.0000000000003078
     source_license: CC 表示なし（© ACOG）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 子宮破裂率は地域で幅があり、日本の産科編2026のCQ403では0.2〜0.7%とされる（パブリックコメント原案で確認した範囲。刊行版未照合のため日本の値は主張に入れていない）。日本でTOLACを行う条件（緊急帝王切開と子宮破裂に対する緊急手術が可能な体制、既往帝王切開が1回で子宮下節横切開・術後経過良好、子宮腔内に達する手術既往や子宮破裂の既往がないこと、胎児心拍数の連続モニタリング等）も同CQ403に基づき、刊行版での照合が必要。分娩誘発・促進時のプロスタグランジン製剤は国内承認薬であるが、TOLACでは使用しない扱いが同原案に示される
   curriculum:
@@ -383,6 +428,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3272 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: DL-012
   domain: DL
   subdomain: 子宮破裂、頸管・腟・会陰裂傷
@@ -402,8 +450,8 @@
     url: https://doi.org/10.1097/AOG.0000000000002841
     source_license: CC 表示なし（© ACOG）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ58 2026-11-13）：Sultan AH et al. IUGA International Guidelines on Obstetric Anal Sphincter Injuries. Int Urogynecol J. 2026;37(8)（CC BY 4.0、DOI 10.1007/s00192-026-06642-3、PMID 42429937、PMC13486146）：OASIS は3度・4度の総称、Sultan 分類（3a/3b/3c の判別を含む）の使用を Grade A で推奨、第2期の会陰保護（温罨法を含む）で OASI リスク低下。経腟分娩の53〜79%に裂傷という割合と、温罨法が1・2度には効かないという対比は未確認（新規 SRC 候補）
   uncertainty: 分類は同 bulletin（2018年版、2025年 reaffirmed）の分類表から読み取った（表から読み取り）。OASISの強い危険因子は鉗子分娩・吸引分娩・正中会陰切開・出生体重の増加とされる。頸管裂傷・腟裂傷を単独で扱う一次資料は確認できず、本カードは会陰裂傷の分類を本体とした（頸管・腟裂傷は出血源の確認という文脈で産科出血の資料と組み合わせる）
   curriculum:
     kokushi: 医学各論 Ⅰ-2-I-①（子宮破裂、頸管・腟・会陰裂傷、b）
@@ -418,6 +466,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3273 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ58 2026-11-13）。三原の承認（2026-11-11）による
 - id: DL-013
   domain: DL
   subdomain: 弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症
@@ -438,7 +492,7 @@
     source_license: 学会資料（CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ58 2026-11-13）：Hayashi S et al. JA Clin Rep. 2025（CC BY 4.0、DOI 10.1186/s40981-025-00821-9、PMID 41118068、PMC12540960）：ショック指数1.5超とフィブリノゲン149 mg/dL で危機的出血を宣言しプロトコル発動、産科DICスコア9、RBC：FFP＝4単位：4単位（1:1）、子宮内バルーンと IVR 塞栓で止血（指針2022の適用例）。圧迫縫合・子宮動脈結紮・子宮摘出は本症例では未実施（新規 SRC 候補）
   uncertainty: 本カードの数値・手順は、産科編2026のCQ416-2のパブリックコメント原案で本指針の内容として確認した範囲であり、指針現物およびガイドライン刊行版での再照合が必要（登録時の決定9）。フィブリノゲン濃縮製剤は2021年9月に「産科危機的出血に伴う後天性低フィブリノゲン血症」で保険適用が認められている。トラネキサム酸の位置づけは DL-015、産科DICの診断は DL-018 を参照。一般の「危機的出血への対応ガイドライン」（2025年改訂）や『輸血療法実践ガイド』（2026）とは別の文書である
   curriculum:
     kokushi: 医学各論 Ⅰ-2-J-①（弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症、a）
@@ -453,6 +507,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ58 2026-11-13）。三原の承認（2026-11-11）による
 - id: DL-014
   domain: DL
   subdomain: 弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症
@@ -472,8 +529,8 @@
     url: https://doi.org/10.1097/AOG.0000000000002351
     source_license: CC 表示なし（© ACOG）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ58 2026-11-13）：Shekhawat K et al. Cureus. 2026;18(9)（CC BY 4.0、DOI 10.7759/cureus.116511、PMID 42898296、PMC13677613）：PPH の ACOG 統一-定義（様式によらず24時間以内に累積1,000 mL以上、または循環血液量減少徴候を伴う出血）を明記、弛緩出血の治療の中心は子宮収縮薬・とりわけオキシトシン。経腟分娩後500 mL超を異常として原因検索という運用の直接文はなし（新規 SRC 候補）
   uncertainty: 日本では出血量の絶対値よりもショック指数や産科DICスコア等を用いる産科危機的出血の宣言基準（DL-013）が実務の軸であり、定義の置き方が地域で異なる。オキシトシンをはじめとする子宮収縮薬は国内承認・保険適用がある
   curriculum:
     kokushi: 医学各論 Ⅰ-2-J-①（弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症、a）
@@ -488,6 +545,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3275 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ58 2026-11-13）。三原の承認（2026-11-11）による
 - id: DL-015
   domain: DL
   subdomain: 弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症
@@ -508,7 +571,7 @@
     source_license: CC BY-NC-ND 4.0（PMC 全文に明記）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ58 2026-11-13）：同上の Cureus 2026 総説（CC BY 4.0）：WOMAN 試験の数値をすべて再掲しカードと一致（20,060人・193施設・21か国、TXA 1 g 静注、出血死1.5% vs 1.9%・RR 0.81、3時間以内 RR 0.69、死亡または子宮摘出の複合評価項目に有意差なし、痙攣・血栓塞栓の増加なし）。試験登録 NCT00872469 は結果未掲載のため登録レコードは使えない。主出典は CC BY-NC-ND のため RESTRICTED の現行区分が正しい（新規 SRC 候補）
   uncertainty: トラネキサム酸の国内添付文書の効能は「全身性・局所性の線溶亢進が関与すると考えられる異常出血（性器出血を含む）」であり、「産後出血」としての明示的な適応は添付文書上で未確認。国内では産科危機的出血の文脈で、大量出血発症後3時間以内に1 gの投与が推奨される（産科編2026 CQ416-2 のパブリックコメント原案で確認。出血が続く場合や24時間以内の再出血では再投与を検討し、高用量では用量依存的な痙攣に注意する）
   curriculum:
     kokushi: 医学各論 Ⅰ-2-J-①（弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症、a）
@@ -523,6 +586,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ58 2026-11-13）。三原の承認（2026-11-11）による
 - id: DL-016
   domain: DL
   subdomain: 弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症
@@ -542,8 +608,8 @@
     url: https://doi.org/10.1016/j.ajog.2016.03.012
     source_license: CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ58 2026-11-13）：Alves ÁLL et al. Amniotic fluid embolism Number 11 – 2026. Rev Bras Ginecol Obstet. 2026;48（FEBRASGO プロトコル、CC BY 4.0、DOI 10.61622/rbgo/2026fps11、PMID 42923891、PMC13690382）：発生率1.9〜6.1/10万分娩（カードの約2〜6と一致）、診断は臨床所見と他疾患の除外による臨床診断、管理の主目標に心肺蘇生（ACLS 準拠）。「特異的検査はない」の直接文はない（新規 SRC 候補）
   uncertainty: 発生率は資料により1.9〜6.1/10万分娩と幅があり、古典例の致死率は20〜40%以上とされる。研究用の症例定義基準（Clarkらの提案：突然の心肺停止または低血圧と呼吸障害、妊娠修正ISTHスコア3点以上の顕性DIC、分娩中または胎盤娩出後30分以内の発症、分娩中の発熱がないこと）は、本ガイドラインとは別の文献（Am J Obstet Gynecol. 2016;215(4):408-412）であり混同しない。日本では登録・血清診断事業に基づく臨床的診断基準が用いられるが、その正式な原典書誌は未確認。本邦の妊産婦死亡剖検例（1989〜2004年）では羊水塞栓症が24.3%で第1位だったとする報告がある
   curriculum:
     kokushi: 医学各論 Ⅰ-2-J-①（弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症、a）
@@ -558,6 +624,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3277 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ58 2026-11-13）。三原の承認（2026-11-11）による
 - id: DL-017
   domain: DL
   subdomain: 弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症
@@ -577,7 +649,7 @@
     url: https://doi.org/10.1016/S1701-2163(16)30594-1
     source_license: CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 単施設（カナダ、1977〜2000年）の古い症例集積であり、分娩第3期の積極的管理の導入後に経腟分娩での発生率は低下したとされる。治療は用手的・外科的整復とショックへの蘇生が本体だが、本カードの数値は抄録で確認した範囲に基づく
   curriculum:
@@ -593,6 +665,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3278 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: DL-018
   domain: DL
   subdomain: 播種性血管内凝固<DIC>
@@ -647,7 +722,7 @@
     url: https://doi.org/10.1007/s12185-025-03918-0
     source_license: CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出血が継続している非凝固性の分娩後異常出血では、産科編2026のCQ416-2（パブリックコメント原案）が遺伝子組換えトロンボモジュリンとアンチトロンビン製剤を原則として推奨せず、合成プロテアーゼ阻害薬（ガベキサート、ナファモスタット）も産科DICに対して使用しないことを推奨するとしている。DIC治療の文脈と止血不能の出血の文脈は異なるため混同しない。フィブリノゲン濃縮製剤は産科危機的出血に伴う後天性低フィブリノゲン血症で保険適用がある。アンチトロンビン濃縮製剤の個別の適応文言は添付文書での確認が必要。血小板濃厚液は血小板数5万/µLを維持するよう投与すると同CQ原案にある。遺伝子組換え活性型第VII因子製剤は適応外使用であり、生命の危険がある重篤例で通常の輸血治療に反応しない症例に限るとされる（同原案）
   curriculum:
@@ -663,6 +738,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3280 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: DL-020
   domain: DL
   subdomain: 産褥期精神障害
@@ -682,8 +760,8 @@
     url: https://doi.org/10.1089/jwh.2006.15.352
     source_license: CC 表示なし（PMC に著者原稿）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ58 2026-11-13）：Jairaj C et al. Postpartum psychosis: A proposed treatment algorithm. J Psychopharmacol. 2023;37(10)（CC BY 4.0、DOI 10.1177/02698811231181573、PMID 37515460、PMC10612381）：有病率1〜2/1,000出生と明記しカードと一致、産後直後の急激な発症と感情・精神病症状を記述。発症時期の詳細（2〜3日目〜1〜4週）と産後うつ10〜13%・マタニティーブルー50〜75% の対比は未確認（新規 SRC 候補）'
   uncertainty: 産後精神病の頻度は系統的レビュー（VanderKruik 2017）で0.89〜2.6/1,000と研究間で幅がある。本カードは2006年のレビューの本文で確認した値に基づく。精神疾患としての分類・総論は第Ⅱ章（精神）が担当し、DL では産褥期の側面に絞った（登録時の決定7）
   curriculum:
     kokushi: 医学各論 Ⅰ-2-K-①（産褥期精神障害、a）
@@ -698,6 +776,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3281 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ58 2026-11-13）。三原の承認（2026-11-11）による
 - id: DL-021
   domain: DL
   subdomain: 産褥期精神障害
@@ -717,8 +801,8 @@
     url: https://doi.org/10.1097/AOG.0000000000005200
     source_license: CC 表示なし（© ACOG）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ58 2026-11-13）：Physiological Mechanisms in Pregnancy and Their Relevance to the Clinical Management of Perinatal Mental Illness. J Clin Med. 2026;15(12):4559（CC BY 4.0、DOI 10.3390/jcm15124559、PMID 42355727、PMC13302311）：「ACOG は全妊婦にうつ病・不安のスクリーニングを推奨」と明記。検証済みツールと実施時期、産後精神病への即時対応、抗うつ薬前の双極性障害スクリーニングは未確認で、裏づけは骨格のみ（新規 SRC 候補）
   uncertainty: '日本では産婦健康診査（2017年度開始）で産後2週間・1か月にEPDS等による評価が行われる（国内制度の詳細は産科編2026の関連CQでの照合が必要）。治療・管理の詳細は同じ指針の No. 5（Obstet Gynecol. 2023;141(6):1262-1288、PMID: 37486661）にある。向精神薬の個別の国内承認・授乳期の扱いは添付文書での確認が必要であり、zuranolone・brexanoloneの国内承認は未確認のため、国内承認があるとは書かない　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ズラノロン（ザズベイカプセル30mg）が2025年12月22日に「うつ病・うつ状態」で承認され、2026年3月に発売（承認番号30700AMX00258000）。産褥期うつ病専用の適応ではないが、産褥期の患者がうつ病・うつ状態と診断されれば表示の範囲内。一方ブレキサノロンは国内未承認のまま'
   curriculum:
     kokushi: 医学各論 Ⅰ-2-K-①（産褥期精神障害、a）
@@ -736,6 +820,12 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3282 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ58 2026-11-13）。三原の承認（2026-11-11）による
 - id: DL-022
   domain: DL
   subdomain: 子宮復古不全、産褥熱
@@ -755,7 +845,7 @@
     url: https://doi.org/10.1002/14651858.CD001067.pub3
     source_license: © Cochrane Collaboration（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: クリンダマイシン・ゲンタマイシンの国内承認自体は一般的だが、「産褥子宮内膜炎」としての適応の明記は未確認。産褥子宮内膜炎は腟内細菌叢が分娩過程で子宮内膜腔へ侵入して起こり帝王切開後に多いとされるが、頻度（経腟分娩の最大3%、帝王切開の最大27%）は臨床要約の引用値で一次資料が未照合のため主張に入れていない
   curriculum:
@@ -771,6 +861,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3283 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: DL-023
   domain: DL
   subdomain: 子宮復古不全、産褥熱
@@ -790,7 +883,7 @@
     url: https://doi.org/10.1016/j.ajog.2019.01.216
     source_license: CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 子宮復古不全そのもの（定義・頻度・胎盤遺残との関係）に特化した一次資料は未確認であり、本カードは産褥熱の重症側面（敗血症）として扱った。復古不全は胎盤・胎胞遺残や子宮内膜炎の背景・鑑別として位置づけられる。ノルエピネフリンは国内承認のある昇圧薬だが、妊産褥婦の敗血症における国内の位置づけは国内資料での確認が必要。同文書には2021年の訂正（Am J Obstet Gynecol. 2021;224(2):224）がある
   curriculum:
@@ -806,6 +899,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3284 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: DL-024
   domain: DL
   subdomain: 乳腺炎、乳汁分泌不全
@@ -825,8 +921,8 @@
     url: https://doi.org/10.1089/bfm.2022.29207.kbm
     source_license: ライセンス表示を確認できず（出典マスター登録どおり）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ58 2026-11-13）：Douglas P. Int Breastfeed J. 2023;18（CC BY 4.0、DOI 10.1186/s13006-023-00588-8、PMID 37670315、PMC10481477）：ABM #36 の本文を多数引用し、spectrum の構成（乳管狭窄・亜急性乳腺炎と mammary dysbiosis・乳瘤）、深部マッサージは悪化要因、氷の使用、炎症性乳腺炎は抗菌薬なしで改善しうることを確認。ただし本論文は #36 への批判的論考である（フラグ参照）（新規 SRC 候補）'
   uncertainty: 本プロトコルは Academy of Breastfeeding Medicine の文書で、発行後5年で失効する旨が本文に明記される（2022年版は現行として使用可だが期限に留意）。米国の細菌性乳腺炎の経験的治療（ジクロキサシリン500 mg 1日4回、またはセファレキシン500 mg 1日4回、10〜14日間）は、ジクロキサシリンの国内での入手性・第一選択としての位置づけが未確認であり、国内の抗菌薬選択は添付文書・国内資料で確認が必要なため主張に入れていない。乳汁分泌不全に特化した一次資料は未確認で、本カードは乳腺炎の側面のみを扱った（国内側の受け皿候補は産科編2026のCQ418群だが本文未照合）。乳腺疾患一般は第22回 BR が正
   curriculum:
     kokushi: 医学各論 Ⅰ-2-K-③（乳腺炎、乳汁分泌不全、b）
@@ -841,6 +937,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1020 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ58 2026-11-13）。三原の承認（2026-11-11）による
 - id: DL-025
   domain: DL
   subdomain: 産褥血栓症、肺塞栓症
@@ -860,8 +962,8 @@
     url: https://doi.org/10.1097/AOG.0000000000002706
     source_license: CC 表示なし（© ACOG）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ58 2026-11-13）：Raia-Barjat T et al. Front Cardiovasc Med. 2022;9:863612（CC BY 4.0、DOI 10.3389/fcvm.2022.863612、PMID 35479289、PMC9037588）：発生率1〜2/1,000妊娠、妊娠中のリスク約5倍。2025 ESC ガイドライン（Neth Heart J. 2026;34(11)、CC BY 4.0、DOI 10.1007/s12471-026-02085-z、PMID 42878989、PMC13694674）：妊娠中 VTE の章で「DOAC は妊娠中は推奨されない（クラスIII）」。約80%が静脈性、米国母体死亡の9.3%は未確認（フラグ参照）（新規 SRC 候補）
   uncertainty: 日本の産褥期VTE予防の実務（脱水回避と早期離床、帝王切開での間欠的空気圧迫法・弾性ストッキング、未分画ヘパリン5,000単位1日2回皮下注の開始時期、低分子量ヘパリン・フォンダパリヌクスの予防の保険適用は原則として手術後24時間以降に限られ経腟分娩後の予防投与には保険適用がないこと等）は、産科編2026のCQ003-2・CQ003-3のパブリックコメント原案で確認した範囲であり、刊行版での照合が必要なため主張に入れていない。産褥期のVTEリスクは妊娠期の約5倍で産後最初の3週間がピークとする系統的レビューの報告がある（RCOG Green-top Guideline No. 37a の引用経由）。ワルファリン・ヘパリン類では授乳中止は不要とされるが、未分画ヘパリンの添付文書には禁忌の記載があるため説明が必要とされる（同原案）。Ⅰ-2-J-① 側の血栓塞栓症は、妊娠中・分娩直後の予防と危機的出血の文脈に限定し、産褥期の発症・予防は本カードに寄せて重複を避けた
   curriculum:
     kokushi: 医学各論 Ⅰ-2-K-④（産褥血栓症、肺塞栓症、b）
@@ -876,3 +978,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3285 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ58 2026-11-13）。三原の承認（2026-11-11）による

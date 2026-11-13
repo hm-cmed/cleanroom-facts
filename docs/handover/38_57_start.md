@@ -108,3 +108,4 @@
 - バッチ56（AN）を反映：裏づけ20（ClinicalTrials.gov 3〔MOMS・EXIST-1・EXIST-3〕、CC BY 17）、SRC-1671・2004 の license_note を精密化（区分は不変）（2026-11-13）。AN-025・026 の主出典が RETIRED 表示。
 - バッチ57（BO）を反映：裏づけ22（全件。ClinicalTrials.gov 2〔デノスマブ GCTB・DeFi〕、NCI PDQ 4、CC BY）、区分の明確化5（SRC-1896・1900・1901・1911・1916 を RESTRICTED）（2026-11-13）。
 - 研究班のガイドライン SRC-1636・1637（プリオン病）・2641（救急領域の止血機能異常症）も RESTRICTED に（三原、2026-11-13。CLAUDE.md §2-2 に追記）。
+- バッチ58（DL）を反映：裏づけ17（CC BY。WOMAN 試験の数値は Cureus 2026 総説で全一致）、区分の明確化18（ACOG・SMFM・Cochrane など UNKNOWN の主出典を RESTRICTED）（2026-11-13）。バッチ57 の12列版の再送は内容同一のため反映なし。

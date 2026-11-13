@@ -156,7 +156,7 @@
 
 - 条件：region: 国際／population: 授乳期の患者を中心とする乳腺炎患者
 - 不確実性：スペクトラムとしての捉え方は出典の題名と抄録で確認した。各段階の具体的な治療（抗菌薬の選択や排膿の適応）は本文を確認していないため書いていない。非授乳期の乳腺炎（肉芽腫性乳腺炎など）はこの出典の主対象ではない。出典のライセンス表示は確認できなかった。
-- 出典：Mitchell KB, Johnson HM, Rodríguez JM, et al. Academy of Breastfeeding Medicine Clinical Protocol #36: The Mastitis Spectrum, Revised 2022. Breastfeed Med. 2022;17(5):360-376.　[DOI 10.1089/bfm.2022.29207.kbm](https://doi.org/10.1089/bfm.2022.29207.kbm)　[PMID 35576513](https://pubmed.ncbi.nlm.nih.gov/35576513/)（区分 UNKNOWN）
+- 出典：Mitchell KB, Johnson HM, Rodríguez JM, et al. Academy of Breastfeeding Medicine Clinical Protocol #36: The Mastitis Spectrum, Revised 2022. Breastfeed Med. 2022;17(5):360-376.　[DOI 10.1089/bfm.2022.29207.kbm](https://doi.org/10.1089/bfm.2022.29207.kbm)　[PMID 35576513](https://pubmed.ncbi.nlm.nih.gov/35576513/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-11-A-①（乳腺炎、b）　コアカリ：PS-02-13-05 (id: JkxnuSs)；TBL-01-00-454 (id: JlvnmJ8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BR-010&card_id=BR-010&version=463cb614e4)　（版 `463cb614e4`）
 

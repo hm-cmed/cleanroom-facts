@@ -12,7 +12,7 @@
 
 - 条件：region: 米国／対象: 分娩中の女性
 - 不確実性：「微弱陣痛」そのものの収縮回数・持続時間による国内定義は確認できなかった。日本の対応は産科編2026のCQ404（微弱陣痛による分娩進行遷延時の対応）が受け皿となるが、刊行版の本文は未照合。オキシトシンおよびプロスタグランジン製剤はいずれも国内承認・保険適用がある（出典リサーチで確認）
-- 出典：American College of Obstetricians and Gynecologists. First and Second Stage Labor Management: Clinical Practice Guideline No. 8. Obstet Gynecol. 2024;143(1):144-162　[DOI 10.1097/AOG.0000000000005447](https://doi.org/10.1097/AOG.0000000000005447)　[PMID 38096556](https://pubmed.ncbi.nlm.nih.gov/38096556/)（区分 UNKNOWN）
+- 出典：American College of Obstetricians and Gynecologists. First and Second Stage Labor Management: Clinical Practice Guideline No. 8. Obstet Gynecol. 2024;143(1):144-162　[DOI 10.1097/AOG.0000000000005447](https://doi.org/10.1097/AOG.0000000000005447)　[PMID 38096556](https://pubmed.ncbi.nlm.nih.gov/38096556/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-B-①（微弱陣痛、過強陣痛、b）　コアカリ：PS-02-11-01 (id: JkxnuSE)；PS-02-11-05 (id: JkxnuSU)；TBL-01-00-370 (id: JlvnmCc)；TBL-02-10-004 (id: JlAKpqE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-001&card_id=DL-001&version=2fc09bd9a5)　（版 `2fc09bd9a5`）
 
@@ -22,7 +22,7 @@
 
 - 条件：region: 米国／対象: 分娩中の女性
 - 不確実性：本定義は米国の分娩時モニタリングの用語標準であり、日本語の「過強陣痛」との厳密な用語対応は国内資料で未確認。子宮収縮薬の減量・中止の具体的基準は産科編2026のCQ413群（刊行版未照合）に委ねられる。同報告には J Obstet Gynecol Neonatal Nurs 同時掲載版（DOI: 10.1111/j.1552-6909.2008.00284.x）があり、本カードは Obstet Gynecol 版の識別子でそろえた
-- 出典：Macones GA, Hankins GDV, Spong CY, Hauth J, Moore T. The 2008 National Institute of Child Health and Human Development workshop report on electronic fetal monitoring: update on definitions, interpretation, and research guidelines. Obstet Gynecol. 2008;112(3):661-666　[DOI 10.1097/AOG.0b013e3181841395](https://doi.org/10.1097/AOG.0b013e3181841395)　[PMID 18757666](https://pubmed.ncbi.nlm.nih.gov/18757666/)（区分 UNKNOWN）
+- 出典：Macones GA, Hankins GDV, Spong CY, Hauth J, Moore T. The 2008 National Institute of Child Health and Human Development workshop report on electronic fetal monitoring: update on definitions, interpretation, and research guidelines. Obstet Gynecol. 2008;112(3):661-666　[DOI 10.1097/AOG.0b013e3181841395](https://doi.org/10.1097/AOG.0b013e3181841395)　[PMID 18757666](https://pubmed.ncbi.nlm.nih.gov/18757666/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-B-①（微弱陣痛、過強陣痛、b）　コアカリ：PS-02-11-01 (id: JkxnuSE)；PS-02-11-05 (id: JkxnuSU)；TBL-01-00-370 (id: JlvnmCc)；TBL-02-10-004 (id: JlAKpqE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-002&card_id=DL-002&version=f21d532da8)　（版 `f21d532da8`）
 
@@ -38,7 +38,7 @@
 
 - 条件：region: 国際／対象: 分娩中の女性
 - 不確実性：CPD・狭骨盤に特化した現行ガイドラインは確認できず、本カードは2010年の総説に基づく。日本での評価・分娩様式の判断は産科編2026の分娩管理CQ群（刊行版未照合）で確認が必要
-- 出典：Maharaj D. Assessing cephalopelvic disproportion: back to the basics. Obstet Gynecol Surv. 2010;65(6):387-395　[DOI 10.1097/OGX.0b013e3181ecdf0c](https://doi.org/10.1097/OGX.0b013e3181ecdf0c)　[PMID 20633305](https://pubmed.ncbi.nlm.nih.gov/20633305/)（区分 UNKNOWN）
+- 出典：Maharaj D. Assessing cephalopelvic disproportion: back to the basics. Obstet Gynecol Surv. 2010;65(6):387-395　[DOI 10.1097/OGX.0b013e3181ecdf0c](https://doi.org/10.1097/OGX.0b013e3181ecdf0c)　[PMID 20633305](https://pubmed.ncbi.nlm.nih.gov/20633305/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-C-①（児頭骨盤不均衡<CPD>、狭骨盤、b）　コアカリ：PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)；TBL-02-10-016 (id: JlAKpq0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-003&card_id=DL-003&version=aa9521c889)　（版 `aa9521c889`）
 
@@ -54,7 +54,7 @@
 
 - 条件：region: 米国／対象: 正期産単胎骨盤位の妊婦
 - 不確実性：本意見書（2018年、2023年 reaffirmed）の対象は骨盤位であり、横位そのものを扱う単独の現行ガイドラインは確認できなかった（横位は臍帯脱出の予防・対応の文脈で DL-008 と接点がある）。日本で骨盤位経腟分娩を選択する条件は産科編2026のCQ402（刊行版未照合）に委ねられる
-- 出典：American College of Obstetricians and Gynecologists. Mode of Term Singleton Breech Delivery: Committee Opinion No. 745. Obstet Gynecol. 2018;132(2):e60-e63　[DOI 10.1097/AOG.0000000000002755](https://doi.org/10.1097/AOG.0000000000002755)　[PMID 30045211](https://pubmed.ncbi.nlm.nih.gov/30045211/)（区分 UNKNOWN）
+- 出典：American College of Obstetricians and Gynecologists. Mode of Term Singleton Breech Delivery: Committee Opinion No. 745. Obstet Gynecol. 2018;132(2):e60-e63　[DOI 10.1097/AOG.0000000000002755](https://doi.org/10.1097/AOG.0000000000002755)　[PMID 30045211](https://pubmed.ncbi.nlm.nih.gov/30045211/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-D-①（骨盤位、横位、b）　コアカリ：PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)；TBL-02-10-016 (id: JlAKpq0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-004&card_id=DL-004&version=b3324869ba)　（版 `b3324869ba`）
 
@@ -64,7 +64,7 @@
 
 - 条件：region: 国際／対象: 正期産骨盤位の妊婦
 - 不確実性：合併症は大規模観察研究ではまれとされるが、本カードは本レビューの抄録で確認した範囲に基づく。国内の実施要件（緊急帝王切開が可能な体制、児の成熟など）は産科編2026のCQ402（刊行版未照合）で確認が必要。計画的帝王切開と経腟分娩を比べた別のCochraneレビュー（CD000166）とは混同しない
-- 出典：Hofmeyr GJ, Kulier R, West HM. External cephalic version for breech presentation at term. Cochrane Database Syst Rev. 2015;(4):CD000083　[DOI 10.1002/14651858.CD000083.pub3](https://doi.org/10.1002/14651858.CD000083.pub3)　[PMID 25828903](https://pubmed.ncbi.nlm.nih.gov/25828903/)（区分 UNKNOWN）
+- 出典：Hofmeyr GJ, Kulier R, West HM. External cephalic version for breech presentation at term. Cochrane Database Syst Rev. 2015;(4):CD000083　[DOI 10.1002/14651858.CD000083.pub3](https://doi.org/10.1002/14651858.CD000083.pub3)　[PMID 25828903](https://pubmed.ncbi.nlm.nih.gov/25828903/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-D-①（骨盤位、横位、b）　コアカリ：PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)；TBL-02-10-016 (id: JlAKpq0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-005&card_id=DL-005&version=4ed02f2bdc)　（版 `4ed02f2bdc`）
 
@@ -128,7 +128,7 @@
 
 - 条件：region: 米国／対象: 分娩中の女性
 - 不確実性：「十分な子宮収縮」の目安（子宮内圧カテーテルで200 Montevideo units超）は二次要約経由で確認した。日本における分娩遷延・停止の定義と帝王切開への移行判断は産科編2026（刊行版未照合）に委ねられる。オキシトシンは国内承認・保険適用がある
-- 出典：American College of Obstetricians and Gynecologists. First and Second Stage Labor Management: Clinical Practice Guideline No. 8. Obstet Gynecol. 2024;143(1):144-162　[DOI 10.1097/AOG.0000000000005447](https://doi.org/10.1097/AOG.0000000000005447)　[PMID 38096556](https://pubmed.ncbi.nlm.nih.gov/38096556/)（区分 UNKNOWN）
+- 出典：American College of Obstetricians and Gynecologists. First and Second Stage Labor Management: Clinical Practice Guideline No. 8. Obstet Gynecol. 2024;143(1):144-162　[DOI 10.1097/AOG.0000000000005447](https://doi.org/10.1097/AOG.0000000000005447)　[PMID 38096556](https://pubmed.ncbi.nlm.nih.gov/38096556/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-H-①（遷延分娩、分娩停止、肩甲難産、b）　コアカリ：PS-02-11-05 (id: JkxnuSU)；TBL-01-00-371 (id: JlvnmCk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-009&card_id=DL-009&version=92d1e72a2a)　（版 `92d1e72a2a`）
 
@@ -138,7 +138,7 @@
 
 - 条件：region: 米国／対象: 経腟分娩中の女性
 - 不確実性：発生率は定義により幅がある。本カードは2017年版（2024年に reaffirmed）の bulletin に基づく。日本での予測・対応手順（巨大児が疑われる場合の扱いを含む）は産科編2026のCQ313・CQ404等（刊行版未照合）で確認が必要
-- 出典：American College of Obstetricians and Gynecologists. Shoulder Dystocia: Practice Bulletin No. 178. Obstet Gynecol. 2017;129(5):e123-e133　[DOI 10.1097/AOG.0000000000002043](https://doi.org/10.1097/AOG.0000000000002043)　[PMID 28426618](https://pubmed.ncbi.nlm.nih.gov/28426618/)（区分 UNKNOWN）
+- 出典：American College of Obstetricians and Gynecologists. Shoulder Dystocia: Practice Bulletin No. 178. Obstet Gynecol. 2017;129(5):e123-e133　[DOI 10.1097/AOG.0000000000002043](https://doi.org/10.1097/AOG.0000000000002043)　[PMID 28426618](https://pubmed.ncbi.nlm.nih.gov/28426618/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-H-①（遷延分娩、分娩停止、肩甲難産、b）　コアカリ：PS-02-11-05 (id: JkxnuSU)；TBL-01-00-371 (id: JlvnmCk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-010&card_id=DL-010&version=83e278910f)　（版 `83e278910f`）
 
@@ -154,7 +154,7 @@
 
 - 条件：region: 米国／対象: 帝王切開既往のある妊婦
 - 不確実性：子宮破裂率は地域で幅があり、日本の産科編2026のCQ403では0.2〜0.7%とされる（パブリックコメント原案で確認した範囲。刊行版未照合のため日本の値は主張に入れていない）。日本でTOLACを行う条件（緊急帝王切開と子宮破裂に対する緊急手術が可能な体制、既往帝王切開が1回で子宮下節横切開・術後経過良好、子宮腔内に達する手術既往や子宮破裂の既往がないこと、胎児心拍数の連続モニタリング等）も同CQ403に基づき、刊行版での照合が必要。分娩誘発・促進時のプロスタグランジン製剤は国内承認薬であるが、TOLACでは使用しない扱いが同原案に示される
-- 出典：American College of Obstetricians and Gynecologists. Vaginal Birth After Cesarean Delivery: Practice Bulletin No. 205. Obstet Gynecol. 2019;133(2):e110-e127　[DOI 10.1097/AOG.0000000000003078](https://doi.org/10.1097/AOG.0000000000003078)　[PMID 30681543](https://pubmed.ncbi.nlm.nih.gov/30681543/)（区分 UNKNOWN）
+- 出典：American College of Obstetricians and Gynecologists. Vaginal Birth After Cesarean Delivery: Practice Bulletin No. 205. Obstet Gynecol. 2019;133(2):e110-e127　[DOI 10.1097/AOG.0000000000003078](https://doi.org/10.1097/AOG.0000000000003078)　[PMID 30681543](https://pubmed.ncbi.nlm.nih.gov/30681543/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-I-①（子宮破裂、頸管・腟・会陰裂傷、b）　コアカリ：PS-02-11-05 (id: JkxnuSU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-011&card_id=DL-011&version=4110ecd38d)　（版 `4110ecd38d`）
 
@@ -164,7 +164,7 @@
 
 - 条件：region: 米国／対象: 経腟分娩後の女性
 - 不確実性：分類は同 bulletin（2018年版、2025年 reaffirmed）の分類表から読み取った（表から読み取り）。OASISの強い危険因子は鉗子分娩・吸引分娩・正中会陰切開・出生体重の増加とされる。頸管裂傷・腟裂傷を単独で扱う一次資料は確認できず、本カードは会陰裂傷の分類を本体とした（頸管・腟裂傷は出血源の確認という文脈で産科出血の資料と組み合わせる）
-- 出典：American College of Obstetricians and Gynecologists. Prevention and Management of Obstetric Lacerations at Vaginal Delivery: Practice Bulletin No. 198. Obstet Gynecol. 2018;132(3):e87-e102　[DOI 10.1097/AOG.0000000000002841](https://doi.org/10.1097/AOG.0000000000002841)　[PMID 30134424](https://pubmed.ncbi.nlm.nih.gov/30134424/)（区分 UNKNOWN）
+- 出典：American College of Obstetricians and Gynecologists. Prevention and Management of Obstetric Lacerations at Vaginal Delivery: Practice Bulletin No. 198. Obstet Gynecol. 2018;132(3):e87-e102　[DOI 10.1097/AOG.0000000000002841](https://doi.org/10.1097/AOG.0000000000002841)　[PMID 30134424](https://pubmed.ncbi.nlm.nih.gov/30134424/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-I-①（子宮破裂、頸管・腟・会陰裂傷、b）　コアカリ：PS-02-11-05 (id: JkxnuSU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-012&card_id=DL-012&version=39fdde1f1e)　（版 `39fdde1f1e`）
 
@@ -190,7 +190,7 @@
 
 - 条件：region: 米国／対象: 分娩後の女性
 - 不確実性：日本では出血量の絶対値よりもショック指数や産科DICスコア等を用いる産科危機的出血の宣言基準（DL-013）が実務の軸であり、定義の置き方が地域で異なる。オキシトシンをはじめとする子宮収縮薬は国内承認・保険適用がある
-- 出典：American College of Obstetricians and Gynecologists. Postpartum Hemorrhage: Practice Bulletin No. 183. Obstet Gynecol. 2017;130(4):e168-e186　[DOI 10.1097/AOG.0000000000002351](https://doi.org/10.1097/AOG.0000000000002351)　[PMID 28937571](https://pubmed.ncbi.nlm.nih.gov/28937571/)（区分 UNKNOWN）
+- 出典：American College of Obstetricians and Gynecologists. Postpartum Hemorrhage: Practice Bulletin No. 183. Obstet Gynecol. 2017;130(4):e168-e186　[DOI 10.1097/AOG.0000000000002351](https://doi.org/10.1097/AOG.0000000000002351)　[PMID 28937571](https://pubmed.ncbi.nlm.nih.gov/28937571/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-J-①（弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症、a）　コアカリ：PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)；TBL-01-00-380 (id: JlvnmDc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-014&card_id=DL-014&version=e9d4924186)　（版 `e9d4924186`）
 
@@ -210,7 +210,7 @@
 
 - 条件：region: 米国／対象: 分娩中・分娩直後の女性
 - 不確実性：発生率は資料により1.9〜6.1/10万分娩と幅があり、古典例の致死率は20〜40%以上とされる。研究用の症例定義基準（Clarkらの提案：突然の心肺停止または低血圧と呼吸障害、妊娠修正ISTHスコア3点以上の顕性DIC、分娩中または胎盤娩出後30分以内の発症、分娩中の発熱がないこと）は、本ガイドラインとは別の文献（Am J Obstet Gynecol. 2016;215(4):408-412）であり混同しない。日本では登録・血清診断事業に基づく臨床的診断基準が用いられるが、その正式な原典書誌は未確認。本邦の妊産婦死亡剖検例（1989〜2004年）では羊水塞栓症が24.3%で第1位だったとする報告がある
-- 出典：Society for Maternal-Fetal Medicine; Pacheco LD, Saade G, Hankins GDV, Clark SL. Amniotic fluid embolism: diagnosis and management. Am J Obstet Gynecol. 2016;215(2):B16-B24　[DOI 10.1016/j.ajog.2016.03.012](https://doi.org/10.1016/j.ajog.2016.03.012)　[PMID 26987420](https://pubmed.ncbi.nlm.nih.gov/26987420/)（区分 UNKNOWN）
+- 出典：Society for Maternal-Fetal Medicine; Pacheco LD, Saade G, Hankins GDV, Clark SL. Amniotic fluid embolism: diagnosis and management. Am J Obstet Gynecol. 2016;215(2):B16-B24　[DOI 10.1016/j.ajog.2016.03.012](https://doi.org/10.1016/j.ajog.2016.03.012)　[PMID 26987420](https://pubmed.ncbi.nlm.nih.gov/26987420/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-J-①（弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症、a）　コアカリ：PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)；TBL-01-00-381 (id: JlvnmDg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-016&card_id=DL-016&version=5829901480)　（版 `5829901480`）
 
@@ -220,7 +220,7 @@
 
 - 条件：region: 国際／対象: 分娩後の女性
 - 不確実性：単施設（カナダ、1977〜2000年）の古い症例集積であり、分娩第3期の積極的管理の導入後に経腟分娩での発生率は低下したとされる。治療は用手的・外科的整復とショックへの蘇生が本体だが、本カードの数値は抄録で確認した範囲に基づく
-- 出典：Baskett TF. Acute uterine inversion: a review of 40 cases. J Obstet Gynaecol Can. 2002;24(12):953-956　[DOI 10.1016/S1701-2163(16)30594-1](https://doi.org/10.1016/S1701-2163(16)30594-1)　[PMID 12464994](https://pubmed.ncbi.nlm.nih.gov/12464994/)（区分 UNKNOWN）
+- 出典：Baskett TF. Acute uterine inversion: a review of 40 cases. J Obstet Gynaecol Can. 2002;24(12):953-956　[DOI 10.1016/S1701-2163(16)30594-1](https://doi.org/10.1016/S1701-2163(16)30594-1)　[PMID 12464994](https://pubmed.ncbi.nlm.nih.gov/12464994/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-J-①（弛緩出血、子宮内反症、羊水塞栓症、血栓塞栓症、a）　コアカリ：PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-017&card_id=DL-017&version=1c840222d1)　（版 `1c840222d1`）
 
@@ -246,7 +246,7 @@
 
 - 条件：region: 日本／対象: 産科DICの女性
 - 不確実性：出血が継続している非凝固性の分娩後異常出血では、産科編2026のCQ416-2（パブリックコメント原案）が遺伝子組換えトロンボモジュリンとアンチトロンビン製剤を原則として推奨せず、合成プロテアーゼ阻害薬（ガベキサート、ナファモスタット）も産科DICに対して使用しないことを推奨するとしている。DIC治療の文脈と止血不能の出血の文脈は異なるため混同しない。フィブリノゲン濃縮製剤は産科危機的出血に伴う後天性低フィブリノゲン血症で保険適用がある。アンチトロンビン濃縮製剤の個別の適応文言は添付文書での確認が必要。血小板濃厚液は血小板数5万/µLを維持するよう投与すると同CQ原案にある。遺伝子組換え活性型第VII因子製剤は適応外使用であり、生命の危険がある重篤例で通常の輸血治療に反応しない症例に限るとされる（同原案）
-- 出典：Hayakawa M, et al. Clinical practice guidelines for management of disseminated intravascular coagulation in Japan 2024: part 4 - trauma, burn, obstetrics, acute pancreatitis/liver failure, and others. Int J Hematol. 2025;121(5):633-652　[DOI 10.1007/s12185-025-03918-0](https://doi.org/10.1007/s12185-025-03918-0)　[PMID 39890756](https://pubmed.ncbi.nlm.nih.gov/39890756/)（区分 UNKNOWN）
+- 出典：Hayakawa M, et al. Clinical practice guidelines for management of disseminated intravascular coagulation in Japan 2024: part 4 - trauma, burn, obstetrics, acute pancreatitis/liver failure, and others. Int J Hematol. 2025;121(5):633-652　[DOI 10.1007/s12185-025-03918-0](https://doi.org/10.1007/s12185-025-03918-0)　[PMID 39890756](https://pubmed.ncbi.nlm.nih.gov/39890756/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-J-②（播種性血管内凝固<DIC>、a）　コアカリ：PS-02-11-04 (id: JkxnuSQ)；PS-02-11-05 (id: JkxnuSU)；TBL-01-00-382 (id: JlvnmDk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-019&card_id=DL-019&version=d1ef5be37d)　（版 `d1ef5be37d`）
 
@@ -262,7 +262,7 @@
 
 - 条件：region: 国際／対象: 産褥期の女性
 - 不確実性：産後精神病の頻度は系統的レビュー（VanderKruik 2017）で0.89〜2.6/1,000と研究間で幅がある。本カードは2006年のレビューの本文で確認した値に基づく。精神疾患としての分類・総論は第Ⅱ章（精神）が担当し、DL では産褥期の側面に絞った（登録時の決定7）
-- 出典：Sit D, Rothschild AJ, Wisner KL. A Review of Postpartum Psychosis. J Womens Health (Larchmt). 2006;15(4):352-368　[DOI 10.1089/jwh.2006.15.352](https://doi.org/10.1089/jwh.2006.15.352)　[PMID 16724884](https://pubmed.ncbi.nlm.nih.gov/16724884/)（区分 UNKNOWN）
+- 出典：Sit D, Rothschild AJ, Wisner KL. A Review of Postpartum Psychosis. J Womens Health (Larchmt). 2006;15(4):352-368　[DOI 10.1089/jwh.2006.15.352](https://doi.org/10.1089/jwh.2006.15.352)　[PMID 16724884](https://pubmed.ncbi.nlm.nih.gov/16724884/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-K-①（産褥期精神障害、a）　コアカリ：PS-02-11-02 (id: JkxnuSI)；PS-02-11-05 (id: JkxnuSU)；TBL-02-10-006 (id: JlAKpqM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-020&card_id=DL-020&version=2a47f2aa1d)　（版 `2a47f2aa1d`）
 
@@ -272,7 +272,7 @@
 
 - 条件：region: 米国／対象: 妊産褥婦
 - 不確実性：日本では産婦健康診査（2017年度開始）で産後2週間・1か月にEPDS等による評価が行われる（国内制度の詳細は産科編2026の関連CQでの照合が必要）。治療・管理の詳細は同じ指針の No. 5（Obstet Gynecol. 2023;141(6):1262-1288、PMID: 37486661）にある。向精神薬の個別の国内承認・授乳期の扱いは添付文書での確認が必要であり、zuranolone・brexanoloneの国内承認は未確認のため、国内承認があるとは書かない　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ズラノロン（ザズベイカプセル30mg）が2025年12月22日に「うつ病・うつ状態」で承認され、2026年3月に発売（承認番号30700AMX00258000）。産褥期うつ病専用の適応ではないが、産褥期の患者がうつ病・うつ状態と診断されれば表示の範囲内。一方ブレキサノロンは国内未承認のまま
-- 出典：American College of Obstetricians and Gynecologists. Screening and Diagnosis of Mental Health Conditions During Pregnancy and Postpartum: Clinical Practice Guideline No. 4. Obstet Gynecol. 2023;141(6):1232-1261　[DOI 10.1097/AOG.0000000000005200](https://doi.org/10.1097/AOG.0000000000005200)　[PMID 37486660](https://pubmed.ncbi.nlm.nih.gov/37486660/)（区分 UNKNOWN）
+- 出典：American College of Obstetricians and Gynecologists. Screening and Diagnosis of Mental Health Conditions During Pregnancy and Postpartum: Clinical Practice Guideline No. 4. Obstet Gynecol. 2023;141(6):1232-1261　[DOI 10.1097/AOG.0000000000005200](https://doi.org/10.1097/AOG.0000000000005200)　[PMID 37486660](https://pubmed.ncbi.nlm.nih.gov/37486660/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-K-①（産褥期精神障害、a）　コアカリ：PS-02-11-02 (id: JkxnuSI)；PS-02-11-05 (id: JkxnuSU)；TBL-02-10-006 (id: JlAKpqM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-021&card_id=DL-021&version=c26923494f)　（版 `c26923494f`）
 
@@ -288,7 +288,7 @@
 
 - 条件：region: 国際／対象: 産褥子宮内膜炎の女性
 - 不確実性：クリンダマイシン・ゲンタマイシンの国内承認自体は一般的だが、「産褥子宮内膜炎」としての適応の明記は未確認。産褥子宮内膜炎は腟内細菌叢が分娩過程で子宮内膜腔へ侵入して起こり帝王切開後に多いとされるが、頻度（経腟分娩の最大3%、帝王切開の最大27%）は臨床要約の引用値で一次資料が未照合のため主張に入れていない
-- 出典：Mackeen AD, et al. Antibiotic regimens for postpartum endometritis. Cochrane Database Syst Rev. 2015;(2):CD001067　[DOI 10.1002/14651858.CD001067.pub3](https://doi.org/10.1002/14651858.CD001067.pub3)　[PMID 25922861](https://pubmed.ncbi.nlm.nih.gov/25922861/)（区分 UNKNOWN）
+- 出典：Mackeen AD, et al. Antibiotic regimens for postpartum endometritis. Cochrane Database Syst Rev. 2015;(2):CD001067　[DOI 10.1002/14651858.CD001067.pub3](https://doi.org/10.1002/14651858.CD001067.pub3)　[PMID 25922861](https://pubmed.ncbi.nlm.nih.gov/25922861/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-K-②（子宮復古不全、産褥熱、b）　コアカリ：PS-02-11-05 (id: JkxnuSU)；TBL-01-00-378 (id: JlvnmDQ)；TBL-02-10-005 (id: JlAKpqI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-022&card_id=DL-022&version=e72d0bb504)　（版 `e72d0bb504`）
 
@@ -298,7 +298,7 @@
 
 - 条件：region: 米国／対象: 妊娠中・産褥期の女性
 - 不確実性：子宮復古不全そのもの（定義・頻度・胎盤遺残との関係）に特化した一次資料は未確認であり、本カードは産褥熱の重症側面（敗血症）として扱った。復古不全は胎盤・胎胞遺残や子宮内膜炎の背景・鑑別として位置づけられる。ノルエピネフリンは国内承認のある昇圧薬だが、妊産褥婦の敗血症における国内の位置づけは国内資料での確認が必要。同文書には2021年の訂正（Am J Obstet Gynecol. 2021;224(2):224）がある
-- 出典：Society for Maternal-Fetal Medicine; Plante LA, Pacheco LD, Louis JM. SMFM Consult Series #47: Sepsis during pregnancy and the puerperium. Am J Obstet Gynecol. 2019;220(4):B2-B10　[DOI 10.1016/j.ajog.2019.01.216](https://doi.org/10.1016/j.ajog.2019.01.216)　[PMID 30684460](https://pubmed.ncbi.nlm.nih.gov/30684460/)（区分 UNKNOWN）
+- 出典：Society for Maternal-Fetal Medicine; Plante LA, Pacheco LD, Louis JM. SMFM Consult Series #47: Sepsis during pregnancy and the puerperium. Am J Obstet Gynecol. 2019;220(4):B2-B10　[DOI 10.1016/j.ajog.2019.01.216](https://doi.org/10.1016/j.ajog.2019.01.216)　[PMID 30684460](https://pubmed.ncbi.nlm.nih.gov/30684460/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-K-②（子宮復古不全、産褥熱、b）　コアカリ：PS-02-11-05 (id: JkxnuSU)；TBL-01-00-377 (id: JlvnmDI)；TBL-01-00-378 (id: JlvnmDQ)；TBL-02-10-005 (id: JlAKpqI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-023&card_id=DL-023&version=50a2c0e67a)　（版 `50a2c0e67a`）
 
@@ -314,7 +314,7 @@
 
 - 条件：region: 米国／対象: 授乳中の女性
 - 不確実性：本プロトコルは Academy of Breastfeeding Medicine の文書で、発行後5年で失効する旨が本文に明記される（2022年版は現行として使用可だが期限に留意）。米国の細菌性乳腺炎の経験的治療（ジクロキサシリン500 mg 1日4回、またはセファレキシン500 mg 1日4回、10〜14日間）は、ジクロキサシリンの国内での入手性・第一選択としての位置づけが未確認であり、国内の抗菌薬選択は添付文書・国内資料で確認が必要なため主張に入れていない。乳汁分泌不全に特化した一次資料は未確認で、本カードは乳腺炎の側面のみを扱った（国内側の受け皿候補は産科編2026のCQ418群だが本文未照合）。乳腺疾患一般は第22回 BR が正
-- 出典：Mitchell KB, Johnson HM, Rodríguez JM, et al. Academy of Breastfeeding Medicine Clinical Protocol #36: The Mastitis Spectrum, Revised 2022. Breastfeed Med. 2022;17(5):360-376　[DOI 10.1089/bfm.2022.29207.kbm](https://doi.org/10.1089/bfm.2022.29207.kbm)　[PMID 35576513](https://pubmed.ncbi.nlm.nih.gov/35576513/)（区分 UNKNOWN）
+- 出典：Mitchell KB, Johnson HM, Rodríguez JM, et al. Academy of Breastfeeding Medicine Clinical Protocol #36: The Mastitis Spectrum, Revised 2022. Breastfeed Med. 2022;17(5):360-376　[DOI 10.1089/bfm.2022.29207.kbm](https://doi.org/10.1089/bfm.2022.29207.kbm)　[PMID 35576513](https://pubmed.ncbi.nlm.nih.gov/35576513/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-K-③（乳腺炎、乳汁分泌不全、b）　コアカリ：PS-02-11-05 (id: JkxnuSU)；TBL-01-00-379 (id: JlvnmDU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-024&card_id=DL-024&version=d428e6031c)　（版 `d428e6031c`）
 
@@ -330,7 +330,7 @@
 
 - 条件：region: 米国／対象: 妊産褥婦
 - 不確実性：日本の産褥期VTE予防の実務（脱水回避と早期離床、帝王切開での間欠的空気圧迫法・弾性ストッキング、未分画ヘパリン5,000単位1日2回皮下注の開始時期、低分子量ヘパリン・フォンダパリヌクスの予防の保険適用は原則として手術後24時間以降に限られ経腟分娩後の予防投与には保険適用がないこと等）は、産科編2026のCQ003-2・CQ003-3のパブリックコメント原案で確認した範囲であり、刊行版での照合が必要なため主張に入れていない。産褥期のVTEリスクは妊娠期の約5倍で産後最初の3週間がピークとする系統的レビューの報告がある（RCOG Green-top Guideline No. 37a の引用経由）。ワルファリン・ヘパリン類では授乳中止は不要とされるが、未分画ヘパリンの添付文書には禁忌の記載があるため説明が必要とされる（同原案）。Ⅰ-2-J-① 側の血栓塞栓症は、妊娠中・分娩直後の予防と危機的出血の文脈に限定し、産褥期の発症・予防は本カードに寄せて重複を避けた
-- 出典：American College of Obstetricians and Gynecologists. Thromboembolism in Pregnancy: ACOG Practice Bulletin No. 196. Obstet Gynecol. 2018;132(1):e1-e17　[DOI 10.1097/AOG.0000000000002706](https://doi.org/10.1097/AOG.0000000000002706)　[PMID 29939938](https://pubmed.ncbi.nlm.nih.gov/29939938/)（区分 UNKNOWN）
+- 出典：American College of Obstetricians and Gynecologists. Thromboembolism in Pregnancy: ACOG Practice Bulletin No. 196. Obstet Gynecol. 2018;132(1):e1-e17　[DOI 10.1097/AOG.0000000000002706](https://doi.org/10.1097/AOG.0000000000002706)　[PMID 29939938](https://pubmed.ncbi.nlm.nih.gov/29939938/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-2-K-④（産褥血栓症、肺塞栓症、b）　コアカリ：PS-02-11-05 (id: JkxnuSU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DL-025&card_id=DL-025&version=c0dc8f8747)　（版 `c0dc8f8747`）
 
