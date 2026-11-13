@@ -1,6 +1,6 @@
 # TR 皮膚・頭頸部の損傷と奇形 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-12
+[← 一覧に戻る](README.md)　更新：2026-11-13
 
 全 31 件のうち、監修済み 0 件。
 
@@ -22,7 +22,7 @@
 
 - 条件：region: 海外／study: 総説
 - 不確実性：米国の熱傷学会の最新知見をまとめた総説に基づく。輸液量の具体的な計算式（体重と受傷面積を用いる方法）の数値は出典の抄録の範囲外のため含めていない。アルブミン製剤等の国内承認・保険適用は未確認。受傷直後の冷却などの応急処置は出典の対象外。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アルブミン製剤は承認・保険適用のある血液製剤であり、「未確認」は解消できる
-- 出典：Cartotto R, Burmeister DM, Kubasiak JC. Burn Shock and Resuscitation: Review and State of the Science. Journal of Burn Care & Research. 2022;43(3):567-585.　[DOI 10.1093/jbcr/irac025](https://doi.org/10.1093/jbcr/irac025)　[PMID 35218662](https://pubmed.ncbi.nlm.nih.gov/35218662/)（区分 UNKNOWN）
+- 出典：Cartotto R, Burmeister DM, Kubasiak JC. Burn Shock and Resuscitation: Review and State of the Science. Journal of Burn Care & Research. 2022;43(3):567-585.　[DOI 10.1093/jbcr/irac025](https://doi.org/10.1093/jbcr/irac025)　[PMID 35218662](https://pubmed.ncbi.nlm.nih.gov/35218662/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-11-A-①（熱傷、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-002&card_id=TR-002&version=e0d1758e40)　（版 `e0d1758e40`）
 
@@ -32,7 +32,7 @@
 
 - 条件：region: 米国／study: 総説
 - 不確実性：予測式の具体的な係数や尿量目標の数値は抄録で確認できなかったため含めていない。日本の熱傷診療ガイドラインの推奨との対照は未実施。本カードで触れた輸液製剤等の国内の承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】輸液製剤（晶質液等）はいずれも承認・保険適用のある医薬品であり、「未確認」は解消できる
-- 出典：Cancio LC, Salinas J, Kramer GC. Protocolized Resuscitation of Burn Patients. Crit Care Clin. 2016;32(4):599-610.　[DOI 10.1016/j.ccc.2016.06.008](https://doi.org/10.1016/j.ccc.2016.06.008)　[PMID 27600131](https://pubmed.ncbi.nlm.nih.gov/27600131/)（区分 UNKNOWN）
+- 出典：Cancio LC, Salinas J, Kramer GC. Protocolized Resuscitation of Burn Patients. Crit Care Clin. 2016;32(4):599-610.　[DOI 10.1016/j.ccc.2016.06.008](https://doi.org/10.1016/j.ccc.2016.06.008)　[PMID 27600131](https://pubmed.ncbi.nlm.nih.gov/27600131/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-11-A-①（熱傷、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-027&card_id=TR-027&version=312db34d67)　（版 `312db34d67`）
 
@@ -48,7 +48,7 @@
 
 - 条件：region: 米国／study: 診療ガイドライン（Wilderness Medical Society、2024年改訂版）
 - 不確実性：米国のガイドラインの公式要約で推奨内容を確認した。血栓溶解薬およびイロプロストの凍傷に対する国内承認・保険適用は未確認。凍瘡の皮膚疾患としての詳細は扱っていない。
-- 出典：McIntosh SE, Freer L, Grissom CK, Rodway GW, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update. Wilderness & Environmental Medicine. 2024;35(2):183-197.　[DOI 10.1177/10806032231222359](https://doi.org/10.1177/10806032231222359)　[PMID 38577729](https://pubmed.ncbi.nlm.nih.gov/38577729/)（区分 UNKNOWN）
+- 出典：McIntosh SE, Freer L, Grissom CK, Rodway GW, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update. Wilderness & Environmental Medicine. 2024;35(2):183-197.　[DOI 10.1177/10806032231222359](https://doi.org/10.1177/10806032231222359)　[PMID 38577729](https://pubmed.ncbi.nlm.nih.gov/38577729/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-11-A-②（凍傷・凍瘡、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-003&card_id=TR-003&version=3ab7f316bb)　（版 `3ab7f316bb`）
 
@@ -58,7 +58,7 @@
 
 - 条件：region: 海外／study: 系統的レビュー（41件、5,485例）
 - 不確実性：電圧が記載されていない研究が多く、電圧別に転帰を解析していない研究が44%を占める。長期の心理的転帰やリハビリテーションの転帰を報告した研究は乏しい。小児は出典の対象外。
-- 出典：Shih JG, Shahrokhi S, Jeschke MG. Review of Adult Electrical Burn Injury Outcomes Worldwide: An Analysis of Low-Voltage vs High-Voltage Electrical Injury. Journal of Burn Care & Research. 2017;38(1):e293-e298.　[DOI 10.1097/BCR.0000000000000373](https://doi.org/10.1097/BCR.0000000000000373)　[PMID 27359191](https://pubmed.ncbi.nlm.nih.gov/27359191/)（区分 UNKNOWN）
+- 出典：Shih JG, Shahrokhi S, Jeschke MG. Review of Adult Electrical Burn Injury Outcomes Worldwide: An Analysis of Low-Voltage vs High-Voltage Electrical Injury. Journal of Burn Care & Research. 2017;38(1):e293-e298.　[DOI 10.1097/BCR.0000000000000373](https://doi.org/10.1097/BCR.0000000000000373)　[PMID 27359191](https://pubmed.ncbi.nlm.nih.gov/27359191/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-11-A-③（電撃傷、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-004&card_id=TR-004&version=853f441e9b)　（版 `853f441e9b`）
 
@@ -84,7 +84,7 @@
 
 - 条件：region: 海外／study: 総説
 - 不確実性：洗浄に用いる液体の種類や洗浄時間などの具体的な手順は、出典の抄録で確認できた範囲を超えるため含めていない。
-- 出典：Bizrah M, Yusuf A, Ahmad S. An update on chemical eye burns. Eye (London). 2019;33(9):1362-1377.　[DOI 10.1038/s41433-019-0456-5](https://doi.org/10.1038/s41433-019-0456-5)　[PMID 31086244](https://pubmed.ncbi.nlm.nih.gov/31086244/)（区分 UNKNOWN）
+- 出典：Bizrah M, Yusuf A, Ahmad S. An update on chemical eye burns. Eye (London). 2019;33(9):1362-1377.　[DOI 10.1038/s41433-019-0456-5](https://doi.org/10.1038/s41433-019-0456-5)　[PMID 31086244](https://pubmed.ncbi.nlm.nih.gov/31086244/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-11-A-⑤（角・結膜化学損傷、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-006&card_id=TR-006&version=cf024fdce5)　（版 `cf024fdce5`）
 
@@ -136,7 +136,7 @@
 
 - 条件：region: 米国・ハンガリー／study: レジストリに基づく予後予測システムの開発
 - 不確実性：OTS の具体的なスコア算出の表は出典の抄録の範囲外のため転記していない。前房出血や網膜振盪など、鈍的外傷の個別の病態ごとの頻度や治療は出典の範囲外。（本出典は割り当て枠超過分の仮番号 SRC-1478 を使用）
-- 出典：Kuhn F, Maisiak R, Mann L, Mester V, Morris R, Witherspoon CD. The Ocular Trauma Score (OTS). Ophthalmology Clinics of North America. 2002;15(2):163-165.　[DOI 10.1016/s0896-1549(02)00007-x](https://doi.org/10.1016/s0896-1549(02)00007-x)　[PMID 12229231](https://pubmed.ncbi.nlm.nih.gov/12229231/)（区分 UNKNOWN）
+- 出典：Kuhn F, Maisiak R, Mann L, Mester V, Morris R, Witherspoon CD. The Ocular Trauma Score (OTS). Ophthalmology Clinics of North America. 2002;15(2):163-165.　[DOI 10.1016/s0896-1549(02)00007-x](https://doi.org/10.1016/s0896-1549(02)00007-x)　[PMID 12229231](https://pubmed.ncbi.nlm.nih.gov/12229231/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-11-B-②（鈍的眼外傷、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-010&card_id=TR-010&version=3d4bc8aa1a)　（版 `3d4bc8aa1a`）
 
@@ -162,7 +162,7 @@
 
 - 条件：region: 海外／study: メタ解析（5件、393穿孔）
 - 不確実性：対象は急性の単独外傷性鼓膜穿孔に限られる。聴力の回復と治癒までの期間についての統合値は、出典の抄録には示されていない。（本出典は割り当て枠超過分の仮番号 SRC-1480 を使用）
-- 出典：Simani L, Oron Y, Handzel O, Eta RA, et al. Paper Patching Versus Watchful Waiting of Traumatic Tympanic Membrane Perforations: A Meta-Analysis. Laryngoscope. 2021;131(9):2091-2097.　[DOI 10.1002/lary.29580](https://doi.org/10.1002/lary.29580)　[PMID 33881175](https://pubmed.ncbi.nlm.nih.gov/33881175/)（区分 UNKNOWN）
+- 出典：Simani L, Oron Y, Handzel O, Eta RA, et al. Paper Patching Versus Watchful Waiting of Traumatic Tympanic Membrane Perforations: A Meta-Analysis. Laryngoscope. 2021;131(9):2091-2097.　[DOI 10.1002/lary.29580](https://doi.org/10.1002/lary.29580)　[PMID 33881175](https://pubmed.ncbi.nlm.nih.gov/33881175/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-11-C-①（鼓膜損傷、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-532 (id: JlvnmSU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-012&card_id=TR-012&version=64fa358339)　（版 `64fa358339`）
 
@@ -172,7 +172,7 @@
 
 - 条件：region: 海外／study: 総説
 - 不確実性：具体的な術式（切開排液、圧迫固定の方法など）の比較成績は、出典の抄録で確認できた範囲を超えるため含めていない。（本出典は割り当て枠超過分の仮番号 SRC-1481 を使用）
-- 出典：Ingvaldsen CA, Tønseth KA. Auricular haematoma. Tidsskrift for den Norske Laegeforening. 2017;137(2):105-107.　[DOI 10.4045/tidsskr.15.1279](https://doi.org/10.4045/tidsskr.15.1279)　[PMID 28127072](https://pubmed.ncbi.nlm.nih.gov/28127072/)（区分 UNKNOWN）
+- 出典：Ingvaldsen CA, Tønseth KA. Auricular haematoma. Tidsskrift for den Norske Laegeforening. 2017;137(2):105-107.　[DOI 10.4045/tidsskr.15.1279](https://doi.org/10.4045/tidsskr.15.1279)　[PMID 28127072](https://pubmed.ncbi.nlm.nih.gov/28127072/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-11-C-②（耳介血腫、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-013&card_id=TR-013&version=a99a232950)　（版 `a99a232950`）
 
@@ -188,7 +188,7 @@
 
 - 条件：region: 米国／study: 総説
 - 不確実性：骨折の分類（縦骨折・横骨折など）の頻度や、顔面神経麻痺・髄液漏の発生率などの数値は抄録で確認できなかったため含めていない。
-- 出典：Johnson F, Semaan MT, Megerian CA. Temporal bone fracture: evaluation and management in the modern era. Otolaryngol Clin North Am. 2008;41(3):597-618.　[DOI 10.1016/j.otc.2008.01.006](https://doi.org/10.1016/j.otc.2008.01.006)　[PMID 18436001](https://pubmed.ncbi.nlm.nih.gov/18436001/)（区分 UNKNOWN）
+- 出典：Johnson F, Semaan MT, Megerian CA. Temporal bone fracture: evaluation and management in the modern era. Otolaryngol Clin North Am. 2008;41(3):597-618.　[DOI 10.1016/j.otc.2008.01.006](https://doi.org/10.1016/j.otc.2008.01.006)　[PMID 18436001](https://pubmed.ncbi.nlm.nih.gov/18436001/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-11-D-①（側頭骨骨折、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-014&card_id=TR-014&version=c3f463754a)　（版 `c3f463754a`）
 
@@ -198,7 +198,7 @@
 
 - 条件：region: アイルランド／study: 前向き研究（400例）
 - 不確実性：数値は単一地域の前向き監査の結果であり、日本の診療体制での再現性は未確認。
-- 出典：Basheeth N, Donnelly M, Smyth D, Shandilya M. Acute nasal fracture management: A prospective study and literature review. Laryngoscope. 2015;125(12):2677-2684.　[DOI 10.1002/lary.25358](https://doi.org/10.1002/lary.25358)　[PMID 25959006](https://pubmed.ncbi.nlm.nih.gov/25959006/)（区分 UNKNOWN）
+- 出典：Basheeth N, Donnelly M, Smyth D, Shandilya M. Acute nasal fracture management: A prospective study and literature review. Laryngoscope. 2015;125(12):2677-2684.　[DOI 10.1002/lary.25358](https://doi.org/10.1002/lary.25358)　[PMID 25959006](https://pubmed.ncbi.nlm.nih.gov/25959006/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-11-D-②（鼻骨骨折、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-533 (id: JlvnmSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-015&card_id=TR-015&version=c8f4c8bbbf)　（版 `c8f4c8bbbf`）
 
@@ -218,7 +218,7 @@
 
 - 条件：region: 国際／study: 総説
 - 不確実性：部位別の術式（観血的整復固定など）の適応や時期の詳細は抄録の範囲を超えるため含めていない。
-- 出典：Tuckett JW, Lynham A, Lee GA, Perry M, Harrington U. Maxillofacial trauma in the emergency department: a review. Surgeon. 2014;12(2):106-114.　[DOI 10.1016/j.surge.2013.07.001](https://doi.org/10.1016/j.surge.2013.07.001)　[PMID 23954483](https://pubmed.ncbi.nlm.nih.gov/23954483/)（区分 UNKNOWN）
+- 出典：Tuckett JW, Lynham A, Lee GA, Perry M, Harrington U. Maxillofacial trauma in the emergency department: a review. Surgeon. 2014;12(2):106-114.　[DOI 10.1016/j.surge.2013.07.001](https://doi.org/10.1016/j.surge.2013.07.001)　[PMID 23954483](https://pubmed.ncbi.nlm.nih.gov/23954483/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-11-D-③（顔面骨折、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-017&card_id=TR-017&version=23267af218)　（版 `23267af218`）
 
@@ -228,7 +228,7 @@
 
 - 条件：region: 国際／study: 系統的レビュー・メタ解析（24論文、2,388例）
 - 不確実性：割合はメタ解析に含まれた症例集積の集計値であり、研究間の効果量にはばらつきがあったことが同論文で報告されている。
-- 出典：Johnson NR, Roberts MJ. Frontal sinus fracture management: a systematic review and meta-analysis. Int J Oral Maxillofac Surg. 2021;50(1):75-82.　[DOI 10.1016/j.ijom.2020.06.004](https://doi.org/10.1016/j.ijom.2020.06.004)　[PMID 32861554](https://pubmed.ncbi.nlm.nih.gov/32861554/)（区分 UNKNOWN）
+- 出典：Johnson NR, Roberts MJ. Frontal sinus fracture management: a systematic review and meta-analysis. Int J Oral Maxillofac Surg. 2021;50(1):75-82.　[DOI 10.1016/j.ijom.2020.06.004](https://doi.org/10.1016/j.ijom.2020.06.004)　[PMID 32861554](https://pubmed.ncbi.nlm.nih.gov/32861554/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-11-D-④（前頭骨骨折、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-018&card_id=TR-018&version=9874b5ec4a)　（版 `9874b5ec4a`）
 
@@ -304,7 +304,7 @@
 
 - 条件：region: 国際／study: 総説
 - 不確実性：8群の分類の各型の名称と画像所見の詳細は同総説の本文と表にあり、本カードでは要点のみを扱った（分類表は本文から読み取り）。
-- 出典：Sennaroğlu L, Bajin MD. Classification and Current Management of Inner Ear Malformations. Balkan Med J. 2017;34(5):397-411.　[DOI 10.4274/balkanmedj.2017.0367](https://doi.org/10.4274/balkanmedj.2017.0367)　[PMID 28840850](https://pubmed.ncbi.nlm.nih.gov/28840850/)（区分 UNKNOWN）
+- 出典：Sennaroğlu L, Bajin MD. Classification and Current Management of Inner Ear Malformations. Balkan Med J. 2017;34(5):397-411.　[DOI 10.4274/balkanmedj.2017.0367](https://doi.org/10.4274/balkanmedj.2017.0367)　[PMID 28840850](https://pubmed.ncbi.nlm.nih.gov/28840850/)（区分 OPEN）
 - 出題基準：医学各論 Ⅲ-11-F-④（中耳奇形、c）；医学各論 Ⅲ-11-F-⑤（内耳奇形、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-025&card_id=TR-025&version=96bb220704)　（版 `96bb220704`）
 
@@ -314,7 +314,7 @@
 
 - 条件：region: 米国／study: 総説
 - 不確実性：日本の出生数あたりの頻度や、国内の標準的な手術時期（口唇形成術・口蓋形成術の月齢）は本カードの出典の範囲外であり含めていない。
-- 出典：Worley ML, Patel KG, Kilpatrick LA. Cleft Lip and Palate. Clin Perinatol. 2018;45(4):661-678.　[DOI 10.1016/j.clp.2018.07.006](https://doi.org/10.1016/j.clp.2018.07.006)　[PMID 30396411](https://pubmed.ncbi.nlm.nih.gov/30396411/)（区分 UNKNOWN）
+- 出典：Worley ML, Patel KG, Kilpatrick LA. Cleft Lip and Palate. Clin Perinatol. 2018;45(4):661-678.　[DOI 10.1016/j.clp.2018.07.006](https://doi.org/10.1016/j.clp.2018.07.006)　[PMID 30396411](https://pubmed.ncbi.nlm.nih.gov/30396411/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-11-G-①（唇裂、口蓋裂、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-026&card_id=TR-026&version=9a96b6ba6b)　（版 `9a96b6ba6b`）
 
@@ -330,7 +330,7 @@
 
 - 条件：region: 国際／study: 系統的レビュー
 - 不確実性：対象は成人 ICU 患者であり、一般病棟や在宅での予防効果を直接示すものではない。個別の予防策（体圧分散用具の種類など）ごとの効果の大きさは本レビューの抄録範囲を超えるため含めていない。
-- 出典：Lin F, Wu Z, Song B, Coyer F, Chaboyer W. The effectiveness of multicomponent pressure injury prevention programs in adult intensive care patients: A systematic review. Int J Nurs Stud. 2020;102:103483.　[DOI 10.1016/j.ijnurstu.2019.103483](https://doi.org/10.1016/j.ijnurstu.2019.103483)　[PMID 31835122](https://pubmed.ncbi.nlm.nih.gov/31835122/)（区分 UNKNOWN）
+- 出典：Lin F, Wu Z, Song B, Coyer F, Chaboyer W. The effectiveness of multicomponent pressure injury prevention programs in adult intensive care patients: A systematic review. Int J Nurs Stud. 2020;102:103483.　[DOI 10.1016/j.ijnurstu.2019.103483](https://doi.org/10.1016/j.ijnurstu.2019.103483)　[PMID 31835122](https://pubmed.ncbi.nlm.nih.gov/31835122/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-11-A-④（褥瘡、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-028&card_id=TR-028&version=69efa22cbc)　（版 `69efa22cbc`）
 
@@ -346,7 +346,7 @@
 
 - 条件：region: 米国／対象: 凍傷（診療ガイドライン2024年改訂版）
 - 不確実性：分類の記載は WMS ガイドライン2024年改訂版の公式要約で確認した（分類の読み取りに相当）。深さと予後の対応は、現場向け2分類の定義（組織喪失の見込みの有無）に基づく。凍瘡（しもやけ）そのものの臨床像は同ガイドラインの主対象ではなく、本カードでは扱っていない。薬剤名は含めていない（治療は TR-003 が担う）。
-- 出典：McIntosh SE, Freer L, Grissom CK, Rodway GW, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update. Wilderness & Environmental Medicine. 2024;35(2):183-197.　[DOI 10.1177/10806032231222359](https://doi.org/10.1177/10806032231222359)　[PMID 38577729](https://pubmed.ncbi.nlm.nih.gov/38577729/)（区分 UNKNOWN）
+- 出典：McIntosh SE, Freer L, Grissom CK, Rodway GW, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update. Wilderness & Environmental Medicine. 2024;35(2):183-197.　[DOI 10.1177/10806032231222359](https://doi.org/10.1177/10806032231222359)　[PMID 38577729](https://pubmed.ncbi.nlm.nih.gov/38577729/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-11-A-②（凍傷・凍瘡、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-029&card_id=TR-029&version=07dfa6ab40)　（版 `07dfa6ab40`）
 
@@ -378,7 +378,7 @@
 
 - 条件：region: 国際／対象: 総説（眼化学外傷）
 - 不確実性：Roper-Hall 分類は出典の表（Table 1）から読み取ったものである。洗浄の液量・時間と pH 確認の進め方は同総説の洗浄療法の節の記載に基づく（本文から読み取り）。Dua 分類も臨床で用いられるが、本カードでは Roper-Hall 分類に絞った。PMCID は PMC 本文で確認した（出典マスターでは null のため補完候補）。薬剤名は含めていない。
-- 出典：Bizrah M, Yusuf A, Ahmad S. An update on chemical eye burns. Eye (London). 2019;33(9):1362-1377.　[DOI 10.1038/s41433-019-0456-5](https://doi.org/10.1038/s41433-019-0456-5)　[PMID 31086244](https://pubmed.ncbi.nlm.nih.gov/31086244/)（区分 UNKNOWN）
+- 出典：Bizrah M, Yusuf A, Ahmad S. An update on chemical eye burns. Eye (London). 2019;33(9):1362-1377.　[DOI 10.1038/s41433-019-0456-5](https://doi.org/10.1038/s41433-019-0456-5)　[PMID 31086244](https://pubmed.ncbi.nlm.nih.gov/31086244/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-11-A-⑤（角・結膜化学損傷、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TR-031&card_id=TR-031&version=12301ebeab)　（版 `12301ebeab`）
 

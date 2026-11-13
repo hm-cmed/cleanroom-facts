@@ -18,7 +18,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Endo A, Shiraishi A, Otomo Y, Fushimi K, Murata K. Volume-outcome relationship on survival and cost benefits in severe burn injury: a retrospective analysis of a nationwide registry in Japan. Journal of Intensive Care. 2019;7:7（補助：Prognostic Scoring Systems for Burns: A Comparative Analysis of Their Predictive Accuracies for Mortality in Burn Patients. 2026、PMC13024829）（CC BY、PMID 30733868、DOI 10.1186/s40560-019-0363-7、PMC6354429、新規 SRC 候補）。裏づける部分：日本の全国レジストリ研究で、重症熱傷を Burn Index（BI）10以上と定義して BI を用い、Prognostic Burn Index（PBI）は年齢と BI から算出される重症度指標としてアジアで広く用いられる旨が明記される。補助候補は ABSI・Baux スコア・BOBI を確立した熱傷死亡予測スコアとして扱う。数値の照合：BI 10以上という重症の定義は、カードの「BI が10を超える場合に重症」とほぼ一致する（以上と超の差はある）。BI の算出式（全層面積＋部分層面積の半分）、PBI 100超の閾値、高齢者で PBI が死亡リスクを過大評価しうる点は、候補のいずれにも再掲がなかった。留保：定義と閾値の逐条の裏づけではなく、枠組みと BI の閾値の裏づけにとどまる'
   uncertainty: 高齢者を中心に各指標を比較した総説の本文で定義と分類の閾値を確認した。気道熱傷の有無など、指標に含まれない因子の扱いは出典の本文範囲に限られる。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-002
   domain: TR
   subdomain: 熱傷
@@ -52,8 +55,8 @@
     url: https://doi.org/10.1093/jbcr/irac025
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Arlati S, Aseni P. From Evaporation to Edema: A Scoping Review of Physical and Biological Determinants of Early Fluid Distribution in Major Burns. European Burn Journal. 2026;7(2):21（補助：Yao Y, Hua T, Li Y, Zhang M, Liu W. Fluid management methods for severely burned patients: a narrative review. Journal of Clinical Monitoring and Computing. 2026;40(2):417-427、PMC13053450）（CC BY、PMID 42029575、DOI 10.3390/ebj7020021、PMC13108070、新規 SRC 候補）。裏づける部分：過剰な蘇生は著明な浮腫・腹部コンパートメント症候群・人工呼吸の長期化を招き（fluid creep の概念と、その早期検出指標の検討を含む）、不足と過剰の間の治療域が狭いこと、アルブミンは晶質液で不足する場合のレスキューとして位置づけられること、高用量アスコルビン酸などの補助療法はエビデンスが乏しいことがガイドライン引用の形で明記される。補助候補は尿量をはじめとする従来のモニタリング指標の限界と新しい評価指標の検討を主題とする。数値の照合：数値なし（定性的な主張）。留保：内皮グリコカリックスという語は候補に明示されず、毛細血管透過性・漏出の機序記述にとどまる。血漿は新鮮凍結血漿レスキューの研究引用のレベル'
   uncertainty: 米国の熱傷学会の最新知見をまとめた総説に基づく。輸液量の具体的な計算式（体重と受傷面積を用いる方法）の数値は出典の抄録の範囲外のため含めていない。アルブミン製剤等の国内承認・保険適用は未確認。受傷直後の冷却などの応急処置は出典の対象外。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アルブミン製剤は承認・保険適用のある血液製剤であり、「未確認」は解消できる
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
@@ -71,6 +74,12 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1455 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-003
   domain: TR
   subdomain: 物理的損傷
@@ -90,8 +99,8 @@
     url: https://doi.org/10.1177/10806032231222359
     source_license: ライセンス表示を確認できず（学会ガイドライン、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Handford C, Buxton P, Russell K, Imray CE, McIntosh SE, Freer L, Cochran A, Imray CH. Frostbite: a practical approach to hospital management. Extreme Physiology & Medicine. 2014;3:7（CC BY、PMID 24764516、DOI 10.1186/2046-7648-3-7、PMC3994495、新規 SRC 候補）。裏づける部分：Wilderness Medical Society と米国アラスカ州の寒冷障害ガイドラインに基づく推奨として、37〜39℃の温水での急速な再加温（15〜30分）、再凍結の回避、患部をこすらないこと、イブプロフェン 12 mg/kg/日を1日2回に分けて投与すること、透明・混濁した水疱は吸引除去し出血性の水疱は温存すること、破傷風予防の確認、血栓溶解療法の適応判断（再加温後も血流がなく冷曝露から24時間以内など）、血管造影とテクネチウム99m三相骨シンチグラフィが予後判定と治療方針の決定に有用であることが本文に明記される。数値の照合：温水の温度 37〜39℃とイブプロフェンの用量 12 mg/kg/日（2回分割）はカードと一致する。再加温の時間は候補では15〜30分で、カードの「およそ30分」はその上限に当たる。留保：イロプロストの「受傷後48時間以内」という時点は候補に明示されず、候補は24時間の窓を超えてもイロプロストを使用しうる旨を述べる。この点は留保'
   uncertainty: 米国のガイドラインの公式要約で推奨内容を確認した。血栓溶解薬およびイロプロストの凍傷に対する国内承認・保険適用は未確認。凍瘡の皮膚疾患としての詳細は扱っていない。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
@@ -106,6 +115,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1456 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-004
   domain: TR
   subdomain: 物理的損傷
@@ -125,7 +140,7 @@
     url: https://doi.org/10.1097/BCR.0000000000000373
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 電圧が記載されていない研究が多く、電圧別に転帰を解析していない研究が44%を占める。長期の心理的転帰やリハビリテーションの転帰を報告した研究は乏しい。小児は出典の対象外。
   curriculum:
@@ -141,6 +156,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1457 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: TR-005
   domain: TR
   subdomain: 物理的損傷
@@ -161,7 +179,7 @@
     source_license: CC BY-NC（Europe PMCの表示）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Velozo BC, Hong MV, Bernardo LC, E Castro MCN, Contreras-Ruiz J, Abbade LPF. Pressure injury: update on general concepts, clinical aspects, and laboratory findings - Part I. Anais Brasileiros de Dermatologia. 2025;100(5):501187（CC BY、PMID 40829307、DOI 10.1016/j.abd.2025.501187、PMC12395445、新規 SRC 候補）。裏づける部分：「圧迫性潰瘍（pressure ulcer）」から「圧迫性損傷（pressure injury）」への用語変更が、無傷の皮膚の損傷も含む概念への拡張として明記され、現行のステージングの定義が表で提示される。ステージ2は湿潤関連皮膚障害には適用しないこと、医療機器関連の圧迫性損傷の定義、Deep Tissue Pressure Injury の病型を含む。数値の照合：数値なし。留保：ステージ番号をローマ数字からアラビア数字に改めたことと、深部組織損傷の診断名から「疑い（suspected）」が外されたという改訂の経緯そのものは候補に明示されず、現行の名称と定義の再述にとどまる'
   uncertainty: 米国の分類体系に基づく記載。日本のDESIGN-Rなど国内の評価・分類との対応は出典の範囲外。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
@@ -176,6 +194,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-006
   domain: TR
   subdomain: 眼損傷
@@ -195,8 +216,8 @@
     url: https://doi.org/10.1038/s41433-019-0456-5
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Allen NE, Crawford AZ, McGhee CNJ, Meyer JJ. Chemical eye injuries: a 10 year retrospective review of acute presentations and clinical outcomes in Auckland, New Zealand. Scientific Reports. 2024;14(1):8264（補助：First Aid Interventions for Intentional Caustic Chemical Assaults in Adults and Children: A Scoping Review. 2026、PMC13634369）（CC BY、PMID 38594410、DOI 10.1038/s41598-024-58670-y、PMC11004117、新規 SRC 候補）。裏づける部分：眼化学損傷は軽症から重症まで幅があり、現場での洗浄がなかった群では重症化と長期の視力障害が有意に多かった（p=0.0001）こと、重症例はいずれも保護眼鏡を着用しておらず予防と質の高い応急処置が最も重要であると結論で強調されること、角膜輪部幹細胞不全を残した例が三次医療機関で輪部幹細胞移植や角膜移植を要したことが本文に示される。補助候補は腐食性物質による損傷への即時の大量洗浄を応急処置の要点として支持する。数値の照合：数値の再掲ではなく、洗浄の有無と重症化の関連の有意性（p=0.0001）が示される。留保：重症度グレーディングは同研究では Dua 分類を用いており、グレーディングが治療選択と予後判断に重要という一般論の裏づけにとどまる。三次医療機関への紹介の推奨そのものの明示はない'
   uncertainty: 洗浄に用いる液体の種類や洗浄時間などの具体的な手順は、出典の抄録で確認できた範囲を超えるため含めていない。
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
@@ -211,6 +232,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1459 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-007
   domain: TR
   subdomain: 眼損傷
@@ -266,7 +293,7 @@
     source_license: CC BY-NC-ND（Europe PMCの表示）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Fodor L, Ghiga G, Păduraru G, Gimiga N, Bozomitu L, Rotaru BD, Țarcă E, Roșu ST, Trandafir LM. Foreign Body Ingestion in Children: A Narrative Review of Time-Critical Risk Stratification and Contemporary Management. Children (Basel). 2026;13(8):1049（CC BY、PMID 42650386、DOI 10.3390/children13081049、PMC13510863、新規 SRC 候補）。裏づける部分：小児の異物誤飲は6か月から3歳に発生のピークがあり5歳未満に最も多いこと、誤飲した異物の約80〜90%は介入なく自然に通過し、食道や消化管に停滞すると穿孔などの合併症を起こしうること、摘出は鎮静と気道管理のもとで内視鏡により行われ集学的な対応を要すること、予防が管理の必須の要素であることが本文に明記される。数値の照合：自然通過の割合（約80〜90%）は、カードの「多くは合併症なく消化管を自然に通過する」と整合する（カードは割合を明示しない）。留保：候補は誤飲の総説であり、気道異物（誤嚥）が常に生命を脅かす緊急事態であることと、硬性または軟性の気管支鏡による摘出は対象外である'
   uncertainty: 小児を対象とした総説に基づく。ボタン電池、磁石、鋭利な異物など、特定の異物ごとの対応の詳細は出典の範囲外。成人の異物は対象外。（本出典は割り当て枠超過分の仮番号 SRC-1476 を使用）
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)；TBL-01-00-535 (id: JlvnmRc)'
@@ -284,6 +311,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-11-C-① を足した（医学各論 Ⅲ-11-B-①（異物、a） → 医学各論 Ⅲ-11-B-①（異物、a）；医学各論 Ⅵ-11-C-①（消化管異物、a））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-009
   domain: TR
   subdomain: 異物
@@ -338,8 +368,8 @@
     url: https://doi.org/10.1016/s0896-1549(02)00007-x
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Ndife TI, Saidu A, Nasiru M, Mohammed AS, Ndife JC. Validation of ocular trauma score as a prognosticator of visual outcomes in open and closed-globe injuries at a tertiary care facility in Nigeria. BMC Ophthalmology. 2026;26(1):730（CC BY、PMID 42989163、DOI 10.1186/s12886-026-05509-x、PMC13737647、新規 SRC 候補）。裏づける部分：機械的眼外傷の分類に Birmingham Eye Trauma Terminology System（BETTS）を用い、Ocular Trauma Score（OTS）が開放性と閉鎖性の双方の眼外傷について受傷時所見から最終視力を予測する指標として検証され、OTS のカテゴリーと最終視力に有意な関連が示されたことが本文に示される。数値の照合：数値なし（カードも OTS の算出表を含まない）。留保：OTS が米国とハンガリーの眼外傷レジストリに登録された多数の症例から開発されたという経緯は候補に明示されない
   uncertainty: OTS の具体的なスコア算出の表は出典の抄録の範囲外のため転記していない。前房出血や網膜振盪など、鈍的外傷の個別の病態ごとの頻度や治療は出典の範囲外。（本出典は割り当て枠超過分の仮番号 SRC-1478 を使用）
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)'
@@ -354,6 +384,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1478 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-011
   domain: TR
   subdomain: 眼外傷
@@ -408,7 +444,7 @@
     url: https://doi.org/10.1002/lary.29580
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 対象は急性の単独外傷性鼓膜穿孔に限られる。聴力の回復と治癒までの期間についての統合値は、出典の抄録には示されていない。（本出典は割り当て枠超過分の仮番号 SRC-1480 を使用）
   curriculum:
@@ -424,6 +460,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1480 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: TR-013
   domain: TR
   subdomain: 耳外傷
@@ -443,8 +482,8 @@
     url: https://doi.org/10.4045/tidsskr.15.1279
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Walsh R, Fennessy T, Pauw E, Lajeunesse M, Couperus K. A Novel Task Trainer for Auricular Hematoma Repair. Cureus. 2022;14(1):e21600（CC BY、PMID 35228958、DOI 10.7759/cureus.21600、PMC8873408、新規 SRC 候補）。裏づける部分：耳介血腫は格闘技・接触スポーツでの鈍的外傷やずれ応力で生じ、治療は受傷後できるだけ早期の排液であり、放置すると新しい軟骨の増生を介して永続的な変形であるカリフラワー耳になることが序文に明記される。数値の照合：数値なし。留保：教育用シミュレーション論文の序文での再述であり、裏づけの強さは限定的である。事故・暴力による受傷の列挙はない。なお StatPearls の耳介血腫の項目は二次資料のため候補にしていない
   uncertainty: 具体的な術式（切開排液、圧迫固定の方法など）の比較成績は、出典の抄録で確認できた範囲を超えるため含めていない。（本出典は割り当て枠超過分の仮番号 SRC-1481 を使用）
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
@@ -459,6 +498,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1481 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-014
   domain: TR
   subdomain: 頭頸部外傷
@@ -478,8 +523,8 @@
     url: https://doi.org/10.1016/j.otc.2008.01.006
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Edris OMK, Adam AB, Albadawi EA, ALGhabban AM, Alqarni RSM, Owaydhah WH, Alharthi OA, Khattab E, Alharbi F, Elhassan YH. Temporal Bone Fractures on High-Resolution CT: Bridging Radiologic Detail with Otologic Anatomy and Surgical Insight. Diagnostics. 2026;16(5):718（CC BY、PMID 41827994、DOI 10.3390/diagnostics16050718、PMC12984264、新規 SRC 候補）。裏づける部分：側頭骨骨折の評価に高分解能 CT が中核であり、骨折の描出と分類の信頼性が高いこと、問題となる合併症として伝音性・感音性・混合性の難聴、顔面神経麻痺、前庭機能障害、髄液漏が挙げられ、骨折の方向と耳嚢への及否がこれらのリスクと関連することが本文に示される。数値の照合：候補側の集計値（顔面神経麻痺58%など）は単施設の前向き研究の値であり、カードは数値を含まないため照合の対象外。留保：ATLS に沿った初期評価（ABC の確保、頭蓋内・頸椎損傷の確認）の優先順位、電気生理学的検査、時期を分けた対応の枠組み（遅発性の脳瘤・真珠腫・髄膜炎を含む）は候補の対象外である'
   uncertainty: 骨折の分類（縦骨折・横骨折など）の頻度や、顔面神経麻痺・髄液漏の発生率などの数値は抄録で確認できなかったため含めていない。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
@@ -494,6 +539,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1461 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-015
   domain: TR
   subdomain: 頭頸部外傷
@@ -513,8 +564,8 @@
     url: https://doi.org/10.1002/lary.25358
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Alharthi A, Natto LY, Alnafie JA, Althqafi AH, Babkour A. Assessment of Satisfaction Rate After Closed Reductions of Nasal Bone Fractures: A Cross-Sectional Study. Cureus. 2025;17(3):e80662（CC BY、PMID 40236349、DOI 10.7759/cureus.80662、PMC11998996、新規 SRC 候補）。裏づける部分：鼻骨骨折の閉鎖整復について、整復はできるだけ早期に行うことが勧められる一方で、浮腫のために短期間待つ必要がありうること、実際の症例では受傷後5〜10日で整復を受けた患者が最も多かった（50.9%）ことが本文に示される。数値の照合：カードのアイルランドの前向き研究の値（整復までの間隔の平均6.1日、受傷後5週までの整復でも満足度が得られた、約11%が後日に鼻中隔・鼻形成術を必要とした）は候補に再掲がない。候補側の時期分布（5〜10日が半数）は、腫脹が引いた後に整復の要否を判断するという進め方と整合する。留保：裏づけは進め方の枠組みと時期の分布にとどまり、カードの数値は単一地域の監査の結果として留保する'
   uncertainty: 数値は単一地域の前向き監査の結果であり、日本の診療体制での再現性は未確認。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)；TBL-01-00-533 (id: JlvnmSA)'
@@ -529,6 +580,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1462 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-016
   domain: TR
   subdomain: 頭頸部外傷
@@ -583,8 +640,8 @@
     url: https://doi.org/10.1016/j.surge.2013.07.001
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Lizano Guevara F, Sáenz Araya D, Baizan Orias SD, Sevilla Torres E, Rojas Peláez A, Fernandez Vinocour D. Facial Fractures Associated With Craniomaxillofacial Trauma in Adults: A Literature Review. Cureus. 2025;17(8):e90382（CC BY、PMID 40978869、DOI 10.7759/cureus.90382、PMC12444714、新規 SRC 候補）。裏づける部分：顎顔面外傷の臨床評価は ATLS の原則に沿った一次評価（気道の確保、出血の制御、見落としを避ける系統的な評価）から始めること、ATLS プロトコルが気道保護を中心に初期対応で必須であること、CT が画像評価の第一選択であること、視機能の保全と眼窩の保全を目的とする眼科の早期評価が重要であることが本文に明記される。数値の照合：数値なし。留保：—'
   uncertainty: 部位別の術式（観血的整復固定など）の適応や時期の詳細は抄録の範囲を超えるため含めていない。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
@@ -599,6 +656,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1464 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-018
   domain: TR
   subdomain: 頭頸部外傷
@@ -618,8 +681,8 @@
     url: https://doi.org/10.1016/j.ijom.2020.06.004
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Hsieh TY, Timbang MR, Strong EB. Current Concepts in Frontal Sinus Fracture Management. Craniomaxillofacial Trauma & Reconstruction. 2026;19(2):21（CC BY、PMID 42029432、DOI 10.3390/cmtr19020021、PMC13108220、新規 SRC 候補）。裏づける部分：前頭洞骨折の管理は前壁・後壁と鼻前頭流出路の状態で決まり、流出路に損傷があっても閉塞がなければ転位例では前壁の再建、転位のない例では保存的管理が可能であること、流出路の閉塞がある場合は洞の閉塞術や頭蓋化を検討すること、経過観察では CT で洞の再含気化を評価し、内視鏡下副鼻腔手術が再含気化のための手段になりうることが本文に示される。数値の照合：カードのメタ解析の割合（受傷原因の50.7%が交通事故、61.8%に頭蓋内損傷の合併）は候補に再掲がない。経過観察の CT の時点は候補では約6週と12か月であり、カードの「6か月時点」とは枠組みが異なる（フラグ3）。留保：裏づけは管理の枠組みにとどまる
   uncertainty: 割合はメタ解析に含まれた症例集積の集計値であり、研究間の効果量にはばらつきがあったことが同論文で報告されている。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
@@ -634,6 +697,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1465 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-019
   domain: TR
   subdomain: 頭頸部外傷
@@ -654,7 +723,7 @@
     source_license: CC BY-NC 3.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Aftab OM, Randhawa A, Randhawa KS, Khawaja IM, Kumar K, Langer PD, Eloy JA, Fang CH. Systemic Outcomes in Adults Undergoing Emergent Repair of Orbital Blowout Fractures. Indian Journal of Otolaryngology and Head and Neck Surgery. 2024;76(4):3323-3329（CC BY、PMID 39130349、DOI 10.1007/s12070-024-04681-0、PMC11306889、新規 SRC 候補）。裏づける部分：眼窩底骨折の手術適応として骨欠損の大きさ、早期の眼球陥凹、顕著な眼球の下方偏位、持続する複視が挙げられること、外眼筋の嵌頓は特に小児で緊急修復の最も多い適応であることが本文に示される。数値の照合：候補の欠損の閾値は「1 cm²を超える欠損」であり、カードの「2×2cm を超える骨欠損、壁の50%を超える欠損、2mm を超える眼球陥凹」とは異なる基準セットである（フラグ2）。留保：pure（単独型）と impure（合併型）の分類、下直筋等の嵌頓による眼心反射、牽引試験による評価、小児の white-eyed blowout fracture で24時間以内の手術が必要という時点は、候補に明示されない
   uncertainty: 欠損の大きさと眼球陥凹の数値は同総説の本文から読み取ったものである（本文から読み取り）。インプラント材料の選択は術者の経験に依存する部分が大きい。
   curriculum:
     core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-534 (id: JlvnmSI)'
@@ -669,6 +738,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-020
   domain: TR
   subdomain: 頭頸部外傷
@@ -759,7 +831,7 @@
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Núñez JAV, Ocampo-Godínez JM, Vàzquez-Vàzquez FC, Apellaniz-Campo A, Villegas EOL, Álvarez-Pérez MA. Innovative Approaches in Microtia Treatment: Advancements in Tissue Engineering and Scaffold Design. Annals of Biomedical Engineering. 2025;53(11):3031-3046（CC BY、PMID 40987946、DOI 10.1007/s10439-025-03851-7、PMC12575449、新規 SRC 候補）。裏づける部分：小耳症の重症度を4段階に分ける分類が表で提示され、Grade I はほぼ正常だがやや小さいもの、Grade II は構成要素の低形成や欠損を伴うもの、Grade III は軟骨の痕跡のみのもの、Grade IV は無耳症とされる。再建の選択肢として自家肋軟骨による再建、多孔性ポリエチレン製インプラント、義耳が本文で扱われる。数値の照合：数値なし。留保：候補はこの4段階を Marx 分類として提示しており、カードの Weerda/Aguilar という帰属とは異なる（フラグ1）。自家肋軟骨法で「9歳以上が望ましい」という時期の目安と、すべての患者を集学的チームで診療するという推奨の明示は候補にない'
   uncertainty: 分類と手術時期の記述は同コンセンサスの本文から読み取ったものである（本文から読み取り）。日本の診療体制における標準的な手術時期との一致は未確認。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
@@ -774,6 +846,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-023
   domain: TR
   subdomain: 先天異常
@@ -829,7 +904,7 @@
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Silva VARD, Pauna HF, Guimarães GC, Lavinsky J, Linder TE, Castilho AM. Application of an active middle ear implant in congenital middle ear malformations: A contemporary review. Brazilian Journal of Otorhinolaryngology. 2025;91(3):101562（CC BY、PMID 39914045、DOI 10.1016/j.bjorl.2025.101562、PMC11848470、新規 SRC 候補）。裏づける部分：外耳道形成術（atresiaplasty）は困難な手術で機能的な結果が不良なことが多く、再狭窄をはじめとする合併症の率が高いため、インプラント型の聴覚補綴が選択されるという位置づけが本文に明記される。術前評価には Jahrsdoerfer の評価尺度が用いられることも示される。数値の照合：数値なし。留保：「手術による聴力改善が骨導デバイスによる補聴を上回らない」という比較の直接の記述は候補になく、手術の成績不良と合併症の高さからの位置づけにとどまる'
   uncertainty: 手術適応の判定尺度（Jahrsdoerfer スケールなど）の具体的な基準は本カードの出典の抄録範囲を超えるため含めていない。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
@@ -844,6 +919,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-025
   domain: TR
   subdomain: 先天異常
@@ -861,9 +939,9 @@
     pmid: '28840850'
     pmcid: PMC5635626
     url: https://doi.org/10.4274/balkanmedj.2017.0367
-    source_license: ライセンス表示を確認できず
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 8群の分類の各型の名称と画像所見の詳細は同総説の本文と表にあり、本カードでは要点のみを扱った（分類表は本文から読み取り）。
   curriculum:
@@ -882,6 +960,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅲ-11-F-⑤ を足した（医学各論 Ⅲ-11-F-④（中耳奇形、c） → 医学各論 Ⅲ-11-F-④（中耳奇形、c）；医学各論 Ⅲ-11-F-⑤（内耳奇形、c））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1472 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: TR-026
   domain: TR
   subdomain: 先天異常
@@ -901,8 +982,8 @@
     url: https://doi.org/10.1016/j.clp.2018.07.006
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Shaikh J, Bhushan R, Koul R, Autar R, Verma S. Dentofacial Orthopaedics in Cleft Lip and Palate: A Comprehensive Review. Cureus. 2026;18(8):e115236（CC BY、PMID 42799223、DOI 10.7759/cureus.115236、PMC13614460、新規 SRC 候補）。裏づける部分：口唇口蓋裂の成因に多数の感受性遺伝子と環境因子が関与すること、一次手術の前に鼻歯槽形成（nasoalveolar molding）を含む術前乳児矯正が行われ、受動的なプレートには哺乳を助ける役割があること、顔面の発育期間を通じて集学的チームによる管理が前提とされることが本文に明記される。数値の照合：数値なし（カードも日本の頻度や手術時期の月齢を含まない）。留保：口唇テーピングの明示と、修復後の中耳疾患・鼻咽腔閉鎖不全・咬合異常という長期的リスクの列挙は候補にない'
   uncertainty: 日本の出生数あたりの頻度や、国内の標準的な手術時期（口唇形成術・口蓋形成術の月齢）は本カードの出典の範囲外であり含めていない。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
@@ -917,6 +998,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1473 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-027
   domain: TR
   subdomain: 熱傷
@@ -936,8 +1023,8 @@
     url: https://doi.org/10.1016/j.ccc.2016.06.008
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Tang H, Yu S, Zhang R, Zhu Z, Gui L. Bridging the Evidence-Practice Gap in Early Burn Injury Care: A Comprehensive Evidence Synthesis of Global Guidelines. European Burn Journal. 2026;7(2):34（CC BY、PMID 42345981、DOI 10.3390/ebj7020034、PMC13298258、新規 SRC 候補）。裏づける部分：modified Brooke 法と Parkland 法が重症熱傷の初期輸液の国際的な標準の予測式として位置づけられること、輸液は尿量・血圧・心拍数などの生理学的指標に合わせて調整し、重症例では尿量の1時間ごとのモニタリングが推奨されること、過剰な輸液投与を減らすための臨床意思決定支援の使用が検討されることが、世界のガイドラインの統合として本文に示される。数値の照合：予測式の係数と尿量目標の数値はカード自体が含んでおらず、照合の対象外である。留保：「プロトコルやガイドラインに沿った管理が投与輸液量と合併症の減少に関連する」という関連そのものは、候補では標準化された管理の推奨として述べられるにとどまる'
   uncertainty: 予測式の具体的な係数や尿量目標の数値は抄録で確認できなかったため含めていない。日本の熱傷診療ガイドラインの推奨との対照は未実施。本カードで触れた輸液製剤等の国内の承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】輸液製剤（晶質液等）はいずれも承認・保険適用のある医薬品であり、「未確認」は解消できる
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
@@ -955,6 +1042,12 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1474 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-028
   domain: TR
   subdomain: 褥瘡
@@ -974,8 +1067,8 @@
     url: https://doi.org/10.1016/j.ijnurstu.2019.103483
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：McMahon J, McInnes E, Wan CS, Straiton N, Lam L, Rodgers J, Dickson J, Fulbrook P. Effectiveness of Organisational Strategies for Pressure Injury Prevention and Treatment in Acute Hospital Settings. Journal of Advanced Nursing. 2026;82(3):2004-2021（CC BY、PMID 40470684、DOI 10.1111/jan.17090、PMC12907601、新規 SRC 候補）。裏づける部分：集中治療室を含む急性期病院を対象とする系統的レビューで、多成分の組織的戦略が褥瘡の発生減少に有効でありうることが示され、主出典である Lin らの2020年のレビュー（ICU における多成分の予防プログラムの有効性）がその文脈で引用されている。数値の照合：カードの ICU 患者における有病率 12〜33% と「評価対象となった研究の多くで発生率・有病率の有意な低下」という集計のされ方は候補に再掲がない。候補が別途引用する有病率 12.8%（Li ら2020）は入院成人全体の値で母集団が異なる。留保：裏づけは方向性と枠組みにとどまる
   uncertainty: 対象は成人 ICU 患者であり、一般病棟や在宅での予防効果を直接示すものではない。個別の予防策（体圧分散用具の種類など）ごとの効果の大きさは本レビューの抄録範囲を超えるため含めていない。
   curriculum:
     core_curriculum: 'PS-02-16-05 (id: JkxnuTo)'
@@ -990,6 +1083,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1475 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-029
   domain: TR
   subdomain: 凍傷・凍瘡
@@ -1009,8 +1108,8 @@
     url: https://doi.org/10.1177/10806032231222359
     source_license: ライセンス表示を確認できず（学会ガイドライン、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Nygaard RM, Colonna E, Poole A, Faucher LD, Paine RE, Sangji N, Lacey A, Bhavsar D, Colling K, Armour A, Fleming I, Wiktor A, Wibbenmeyer L; FROST multicenter study team. Synthesis of Protocols for Frostbite Care From the FROST Study Sites. Journal of Burn Care & Research. 2026;47(5):1405-1425（補助：Handford C, et al. Frostbite: a practical approach to hospital management. Extreme Physiology & Medicine. 2014;3:7、PMC3994495）（CC BY、PMID 42384943、DOI 10.1093/jbcr/irag111、PMC13551621、新規 SRC 候補）。裏づける部分：凍傷は損傷の深さに基づき 1度（frostnip）から4度に分類されること、より単純には再加温後の灌流欠損の有無によって表在性と深部（severe/deep）に分ける分類があること、出血性の水疱は深部損傷と関連し温存されることが本文に示される。数値の照合：数値なし。留保：各度の所見の逐条の定義（2度は透明または乳白色の液体を含む表在性の水疱、3度は血疱で真皮の深層まで、4度は皮膚の全層を超えて深部組織まで）は候補に再掲がない。現場向け2分類の定義も、カードは組織喪失の見込みの有無、候補は再加温後の灌流欠損の有無であり、完全には一致しない'
   uncertainty: 分類の記載は WMS ガイドライン2024年改訂版の公式要約で確認した（分類の読み取りに相当）。深さと予後の対応は、現場向け2分類の定義（組織喪失の見込みの有無）に基づく。凍瘡（しもやけ）そのものの臨床像は同ガイドラインの主対象ではなく、本カードでは扱っていない。薬剤名は含めていない（治療は TR-003 が担う）。
   curriculum:
     kokushi: 医学各論 Ⅲ-11-A-②（凍傷・凍瘡、a）
@@ -1025,6 +1124,12 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1456 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による
 - id: TR-030
   domain: TR
   subdomain: 電撃傷
@@ -1079,8 +1184,8 @@
     url: https://doi.org/10.1038/s41433-019-0456-5
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ54 2026-11-13）：Meer E, Grob S, Antonsen EL, Sawyer A. Ocular conditions and injuries, detection and management in spaceflight. npj Microgravity. 2023;9(1):37（CC BY、PMID 37193709、DOI 10.1038/s41526-023-00279-y、PMC10188687、新規 SRC 候補）。裏づける部分：眼の化学損傷の初期対応で大量の洗浄が決定的に重要であり、残留する腐食性の異物を点検して除去すること、眼表面の pH を確認し中性（pH 7）に戻るまで洗浄を続けること（損傷の程度により 1〜10 L を要しうる）が本文に明記される。数値の照合：カードの「少なくとも1Lの液量と30分以上の洗浄」「洗浄後も最大で1時間は pH を繰り返し確認する」という具体的な進め方は候補に再掲がなく、候補は pH の目標到達までの洗浄継続という枠組みを述べる。留保：Roper-Hall 分類の4つのグレードの定義（角膜混濁の程度と角膜輪部の虚血の範囲による区分と予後）そのものと、上眼瞼を二重に翻転して残留物を確認する手順は候補に再掲がない（フラグ4）
   uncertainty: Roper-Hall 分類は出典の表（Table 1）から読み取ったものである。洗浄の液量・時間と pH 確認の進め方は同総説の洗浄療法の節の記載に基づく（本文から読み取り）。Dua 分類も臨床で用いられるが、本カードでは Roper-Hall 分類に絞った。PMCID は PMC 本文で確認した（出典マスターでは null のため補完候補）。薬剤名は含めていない。
   curriculum:
     kokushi: 医学各論 Ⅲ-11-A-⑤（角・結膜化学損傷、a）
@@ -1095,3 +1200,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1459 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ54 2026-11-13）。三原の承認（2026-11-11）による

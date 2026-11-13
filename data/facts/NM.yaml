@@ -88,7 +88,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ53 2026-11-13）：Gerede A, et al. Myasthenia Gravis in Pregnancy: Prenatal and Postnatal Diagnostic Challenges—A Narrative Review. Diagnostics. 2026;16(6)（補助：Takahashi S, Kinno R. Neurology International. 2025;17(10)）（CC BY、PMID 41897632、DOI 10.3390/diagnostics16060899、PMC13024954、新規 SRC 候補）。裏づける部分：アセチルコリンエステラーゼ阻害薬がほぼ全例に用いられ、より重症例ではステロイドや免疫抑制薬を用いる治療構成が総説本文に記載。補助候補も「治療はステロイドと免疫抑制薬による免疫調節療法が中心」と記載。数値の照合：数値なし。留保：「国際コンセンサスガイダンスでは臨床病型・重症度に応じて選択」との帰属部分自体は候補資料の裏づけ対象外で、治療枠組みの再述にとどまる'
   uncertainty: コリンエステラーゼ阻害薬（ピリドスチグミン等）とステロイド・免疫抑制薬はいずれも国内承認薬で保険適用がある。具体的な用量と漸増法は国内ガイドライン（SRC-1761）と添付文書に従う。国内ガイドライン2022では早期からの速効性治療の併用も示されている。
   curriculum:
     kokushi: 医学各論 Ⅸ-5-D-①（重症筋無力症、a）
@@ -103,6 +103,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-004
   domain: NM
   subdomain: 重症筋無力症
@@ -123,7 +126,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ53 2026-11-13）：Takahashi S, Kinno R. Management of Myasthenic Crisis and Emerging Roles of Molecularly Targeted Therapies: A Narrative Review. Neurology International. 2025;17(10)（CC BY、PMID 41149784、DOI 10.3390/neurolint17100163、PMC12566925、新規 SRC 候補）。裏づける部分：クリーゼを球筋・呼吸筋麻痺による呼吸不全で人工呼吸管理を要する生命を脅かす状態とし、集中治療レベルの呼吸サポートと血漿交換・免疫グロブリン静注を標準治療として記載。「IVIG と PLEX の有効性に有意差はない」と明記され、患者背景に応じた個別選択が強調される。数値の照合：数値なし（定性的主張）。留保：「気道確保」は同総説では人工呼吸管理・呼吸サポートとして記述'
   uncertainty: 免疫グロブリン製剤と血漿交換はいずれも国内で保険適用のある治療である。感染などの増悪誘因の検索と対応を並行して行う。
   curriculum:
     kokushi: 医学各論 Ⅸ-5-D-①（重症筋無力症、a）
@@ -138,6 +141,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-005
   domain: NM
   subdomain: 重症筋無力症
@@ -158,7 +164,7 @@
     source_license: NEJM（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ53 2026-11-13）：ClinicalTrials.gov 登録レコード NCT00294658（MGTX）（GOV_US、https://clinicaltrials.gov/study/NCT00294658、新規 SRC 候補）。裏づける部分：登録レコードの結果セクションに、3年間の時間加重平均 QMG スコアとプレドニゾン投与量の評価項目が収載。数値の照合：QMG 6.15 対 8.99 はカードと完全一致。プレドニゾン量は登録側の集計値（隔日処方量の平均 34.3 対 55.6 mg 等）がカードの 44 対 60 mg と一致せず、この数値は裏づけ対象外。留保：投与量の数値はフラグ2として一次論文本文での再照合を申し送る
   uncertainty: 対象は胸腺腫のない例であり、胸腺腫合併例や対象年齢外の患者への外挿には注意を要する。胸腺摘除術は国内でも保険適用のある外科治療である。
   curriculum:
     kokushi: 医学各論 Ⅸ-5-D-①（重症筋無力症、a）
@@ -173,6 +179,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-006
   domain: NM
   subdomain: 重症筋無力症
@@ -193,7 +202,7 @@
     source_license: Elsevier（テキストマイニング用ライセンスのみ、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ53 2026-11-13）：ClinicalTrials.gov 登録レコード NCT01997229（REGAIN）（GOV_US、https://clinicaltrials.gov/study/NCT01997229、新規 SRC 候補）。裏づける部分：登録レコードの結果セクションに主要評価項目（MG-ADL 総スコア変化の最悪順位解析）が収載され、非有意の結果が確認できる。数値の照合：p=0.0698 はカードと完全一致。増悪をきたした患者の割合 10% 対 24% は登録レコードに収載がなく裏づけ対象外。留保：主要評価項目の非有意というカードの中心的主張は登録で直接裏づけられる
   uncertainty: エクリズマブは国内では2017年に承認され、効能は抗AChR抗体陽性の全身型重症筋無力症のうち高用量の免疫グロブリン静注療法又は血漿交換療法による症状コントロールが困難な場合に限られる（保険適用あり）。投与に際して髄膜炎菌ワクチンの接種歴の確認が前提となる。
   curriculum:
     kokushi: 医学各論 Ⅸ-5-D-①（重症筋無力症、a）
@@ -208,6 +217,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-007
   domain: NM
   subdomain: 重症筋無力症
@@ -228,7 +240,7 @@
     source_license: NEJM Evidence（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ53 2026-11-13）：ClinicalTrials.gov 登録レコード NCT03920293（CHAMPION MG）（GOV_US、https://clinicaltrials.gov/study/NCT03920293、新規 SRC 候補）。裏づける部分：登録レコードの結果セクションに26週時点の MG-ADL・QMG 総スコア変化が収載。数値の照合：MG-ADL 変化 −3.1 対 −1.4、QMG −2.8 対 −0.8、いずれもカードと完全一致。留保：維持投与の間隔（8週）は本候補の照合対象外
   uncertainty: ラブリズマブは国内では2022年8月に承認され、効能は抗AChR抗体陽性の全身型重症筋無力症（ステロイド剤又はステロイド剤以外の免疫抑制剤が十分に奏効しない場合に限る）で、保険適用がある。
   curriculum:
     kokushi: 医学各論 Ⅸ-5-D-①（重症筋無力症、a）
@@ -243,6 +255,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-008
   domain: NM
   subdomain: 重症筋無力症
@@ -263,7 +278,7 @@
     source_license: Elsevier（テキストマイニング用ライセンスのみ、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ53 2026-11-13）：ClinicalTrials.gov 登録レコード NCT03669588（ADAPT）（GOV_US、https://clinicaltrials.gov/study/NCT03669588、新規 SRC 候補）。裏づける部分：登録レコードの結果セクションに初回治療サイクルの MG-ADL レスポンダー割合（抗AChR抗体陽性例）が収載。数値の照合：67.7% 対 29.7% で、カードの 68% 対 30% はその丸め表記と一致。留保：—
   uncertainty: エフガルチギモドは国内では2022年1月に承認され、効能は全身型重症筋無力症（ステロイド剤又はステロイド剤以外の免疫抑制剤が十分に奏効しない場合に限る）で、保険適用がある。国内の効能は抗体の陽性・陰性を問わない点が補体阻害薬と異なる。
   curriculum:
     kokushi: 医学各論 Ⅸ-5-D-①（重症筋無力症、a）
@@ -278,6 +293,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-009
   domain: NM
   subdomain: 重症筋無力症
@@ -298,7 +316,7 @@
     source_license: Elsevier（テキストマイニング用ライセンスのみ、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ53 2026-11-13）：ClinicalTrials.gov 登録レコード NCT03971422（MycarinG）（GOV_US、https://clinicaltrials.gov/study/NCT03971422、新規 SRC 候補）。裏づける部分：登録レコードの結果セクションに43日目の MG-ADL 総スコア変化（用量群別）が収載。数値の照合：−3.370（7 mg/kg）・−3.403（10 mg/kg）・−0.784（プラセボ）で、カードの −3.37・−3.40・−0.78 と一致。留保：—
   uncertainty: ロザノリキシズマブは国内では2023年9月に承認され、効能は全身型重症筋無力症（ステロイド剤又はステロイド剤以外の免疫抑制剤が十分に奏効しない場合に限る）で、保険適用があり、週1回6週間の皮下投与を1サイクルとする。同じ2023年9月に補体C5阻害薬ジルコプランも同じ効能で国内承認されているが、本票では扱っていない。
   curriculum:
     kokushi: 医学各論 Ⅸ-5-D-①（重症筋無力症、a）
@@ -313,6 +331,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-010
   domain: NM
   subdomain: 皮膚筋炎・多発性筋炎
@@ -333,7 +354,7 @@
     source_license: BMJ（テキストマイニング用ライセンスのみ、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ53 2026-11-13）：Parker MJS, Oldroyd A, Roberts ME, et al. The performance of the European League Against Rheumatism/American College of Rheumatology idiopathic inflammatory myopathies classification criteria in an expert-defined 10 year incident cohort. Rheumatology (Oxford, England). 2019;58(3)（CC BY、PMID 30496561、DOI 10.1093/rheumatology/key343、PMC6381759、新規 SRC 候補）。裏づける部分：16変数に個別の重みスコアを与え、その合計を炎症性筋疾患である確率（%）に変換する方式を本文に明記。亜分類ツリーで皮膚筋炎を割り当て、皮膚筋炎の定義に Gottron 丘疹・ヘリオトロープ疹などの皮膚所見が用いられる。数値の照合：probable IIM のカットポイント（筋生検なしでスコア 5.5＝確率 55%）がカードの uncertainty の記載と一致。留保：方法論報告（Bottai ら、RMD Open 2017）は CC BY-NC のため候補にしない。改訂分類基準プロジェクトの MyoROC 論文（Seminars in Arthritis and Rheumatism 2025、PMC12619961、CC BY 表示あり）は Europe PMC の全文取得が応答エラーのため今回は候補に含めていない
   uncertainty: 本基準は研究用の分類基準であり、臨床診断は国内の診断基準とあわせて行う。筋生検を用いない場合、確率55%（スコア5.5）がprobable IIMの目安とされた。
   curriculum:
     kokushi: 医学各論 Ⅸ-5-D-②（皮膚筋炎、多発性筋炎、a）
@@ -348,6 +369,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-011
   domain: NM
   subdomain: 皮膚筋炎・多発性筋炎
@@ -368,7 +392,7 @@
     source_license: 自己免疫疾患に関する調査研究班の公開文書（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ53 2026-11-13）：Parga A, Ratra D, Luu D. An Update on Dermatomyositis and Related Inflammatory Myopathies: Cutaneous Clues, Skeletal Muscle Involvement, and Advances in Pathogenesis and Treatment. Muscles. 2025;4(4)（CC BY、PMID 41441445、DOI 10.3390/muscles4040058、PMC12735794、新規 SRC 候補）。裏づける部分：抗MDA5抗体は急速進行性間質性肺疾患と関連し同肺疾患が早期死亡の主因であること、抗TIF1-γ抗体は悪性腫瘍と関連すること、抗合成酵素症候群はアミノアシルtRNA合成酵素への抗体で定義され間質性肺疾患を三徴の一つとすることを本文に記載。数値の照合：数値なし（抗体と臨床像の対応関係）。留保：主出典の2020年暫定版に対し、正式版の2025年版ガイドラインが刊行済み（フラグ1）'
   uncertainty: 各抗体の測定の保険適用範囲は診療報酬改定により変わりうるため、本票では個別の適用範囲を記載していない。抗MDA5抗体陽性例ではフェリチン高値などが重症度の指標とされる。
   curriculum:
     kokushi: 医学各論 Ⅸ-5-D-②（皮膚筋炎、多発性筋炎、a）
@@ -383,6 +407,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-012
   domain: NM
   subdomain: 皮膚筋炎・多発性筋炎
@@ -403,7 +430,7 @@
     source_license: 自己免疫疾患に関する調査研究班の公開文書（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ53 2026-11-13）：Parga A, Ratra D, Luu D. An Update on Dermatomyositis and Related Inflammatory Myopathies: Cutaneous Clues, Skeletal Muscle Involvement, and Advances in Pathogenesis and Treatment. Muscles. 2025;4(4)（CC BY、PMID 41441445、DOI 10.3390/muscles4040058、PMC12735794、新規 SRC 候補）。裏づける部分：「高用量の全身性グルココルチコイドが初期治療の錨であり、免疫抑制薬を最初から追加する現在の運用」「間質性肺疾患合併時はカルシニューリン阻害薬が好まれる」「抗MDA5抗体陽性の間質性肺疾患では早期の多剤併用が支持される」旨を記載。数値の照合：数値なし。留保：急速進行性間質性肺疾患に対する「高用量ステロイド＋カルシニューリン阻害薬＋シクロホスファミド」の具体的併用そのものは同総説に明示されず、この点は留保。主出典は2020年暫定版で、2025年版が刊行済み（フラグ1）'
   uncertainty: ここで挙げた薬剤はいずれも国内承認薬だが、筋炎への保険適用の範囲は薬剤ごとに異なるため、個別の適用は添付文書で確認する。参照した国内ガイドラインは2020年暫定版であり、正式版・改訂版の有無は取り込み側で最終確認されたい。
   curriculum:
     kokushi: 医学各論 Ⅸ-5-D-②（皮膚筋炎、多発性筋炎、a）
@@ -418,6 +445,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-013
   domain: NM
   subdomain: Lambert-Eaton筋無力症候群
@@ -438,7 +468,7 @@
     source_license: 南江堂（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ53 2026-11-13）：Anwar A, Saleem S, Ahmed MF, Ashraf S, Ashraf S. Recent Advances and Therapeutic Options in Lambert-Eaton Myasthenic Syndrome. Cureus. 2019;11(8)（CC BY、PMID 31637147、DOI 10.7759/cureus.5450、PMC6799875、新規 SRC 候補）。裏づける部分：シナプス前膜の P/Q 型電位依存性カルシウムチャネル抗体によるアセチルコリン放出障害、近位筋力低下・反射低下・自律神経障害の三徴、運動後促通（10秒の運動後に複合筋活動電位が100%以上増幅することが診断的）、小細胞肺癌が最も多い合併腫瘍である旨を記載。数値の照合：数値なし（カードも合併頻度の数値を記載していない）。留保：「下肢近位筋優位」の下肢優位の明示は同総説になく留保。運動後促通は同総説では電気生理学的所見として記述されている
   uncertainty: 小細胞肺癌の合併頻度の具体的な割合は資料により幅があるため、本票では数値を記載していない。診断時には合併腫瘍の検索を行い、腫瘍が見つかればその治療が筋症状の改善にもつながる。
   curriculum:
     kokushi: 医学各論 Ⅸ-5-D-③（Lambert-Eaton筋無力症候群、b）
@@ -453,6 +483,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-014
   domain: NM
   subdomain: Lambert-Eaton筋無力症候群
@@ -473,7 +506,7 @@
     source_license: Cochrane Library／Wiley（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ53 2026-11-13）：Zhang N, Hong D, Ouyang T, et al. 3,4-diaminopyridine treatment for Lambert-Eaton myasthenic syndrome in adults: a meta-analysis of randomized controlled trials. BMC Neurology. 2021;21(1)（補助：Anwar A, et al. Cureus. 2019;11(8)）（CC BY、PMID 34563155、DOI 10.1186/s12883-021-02405-3、PMC8464094、新規 SRC 候補）。裏づける部分：無作為化対照試験6件・115例のメタ解析で、3,4-ジアミノピリジンによる QMG スコアの有意な改善（−2.76点、95%CI −4.08〜−1.45、p<0.001）と複合筋活動電位振幅の有意な改善を示し、有効性というカードの結論部分を裏づける。補助候補は Cochrane レビュー自体の内訳（3,4-ジアミノピリジンのプラセボ対照2件・38例、免疫グロブリン静注のクロスオーバー1件・9例）を再述する。数値の照合：カードの「プラセボ対照試験4件（計54例）」は Cochrane 固有の集計で、候補資料では再述されず裏づけ対象外（メタ解析側は6件・115例と母集団が異なる）。留保：免疫グロブリン静注については補助候補が「複合筋活動電位振幅の有意な改善は示されなかった」としており、カードの「有効性が示唆されている」は筋力スコア側の限定的根拠に基づく表現として注意を要する。参照レビューが2011年版である点はカードの uncertainty 自記（フラグ4）'
   uncertainty: アミファンプリジンは長く国内未承認薬であったが、ランバート・イートン筋無力症候群治療薬として国内承認され、2025年1月に販売が開始されたことをPMDAの添付文書情報で確認した（保険適用あり）。参照した系統的レビューは2011年版であり、それ以降の試験は反映されていない。
   curriculum:
     kokushi: 医学各論 Ⅸ-5-D-③（Lambert-Eaton筋無力症候群、b）
@@ -488,6 +521,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-015
   domain: NM
   subdomain: 筋ジストロフィー
@@ -543,7 +579,7 @@
     source_license: Elsevier（テキストマイニング用ライセンスのみ、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ53 2026-11-13）：Kourakis S, Timpani CA, Campelj DG, et al. Standard of care versus new-wave corticosteroids in the treatment of Duchenne muscular dystrophy: Can we do better? Orphanet Journal of Rare Diseases. 2021;16(1)（補助：Pesco MT, et al. Muscles. 2026;5(1)）（CC BY、PMID 33663533、DOI 10.1186/s13023-021-01758-9、PMC7934375、新規 SRC 候補）。裏づける部分：X連鎖劣性遺伝、ジストロフィン遺伝子の変異によるジストロフィンの欠損・短縮、「現在の標準治療は副腎皮質ステロイドである」旨を記載。多職種によるケアが必須である旨は補助候補（Muscles 2026総説）が明記。数値の照合：プレドニゾンにより歩行可能期間が2〜3年延長する旨は候補側の数値（カードは延長の年数を記載していない）。留保：補助候補：Pesco MT, et al. Duchenne Muscular Dystrophy: Contemporary Therapeutic Options and Real-World Challenges in Treatment Selection. Muscles. 2026;5(1)、PMID 41892993、DOI 10.3390/muscles5010021、PMCID PMC13029256（CC BY）'
   uncertainty: ステロイド（プレドニゾロン、デフラザコルト等）は国内承認薬で保険適用があるが、開始時期と用量は成長・骨・内分泌への影響とのバランスで個別に判断される。心筋・呼吸管理の詳細は同ケア指針の第2部で扱われ、本票ではNM-017で別に出典を引く。
   curriculum:
     kokushi: 医学各論 Ⅸ-5-D-④（筋ジストロフィー、b）
@@ -558,6 +594,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-017
   domain: NM
   subdomain: 筋ジストロフィー
@@ -613,7 +652,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ53 2026-11-13）：ClinicalTrials.gov 登録レコード NCT02740972（ビルトラルセン第2相試験）（GOV_US、https://clinicaltrials.gov/study/NCT02740972、新規 SRC 候補）。裏づける部分：登録レコードの結果セクションに、ウェスタンブロット法によるジストロフィン量（用量群別）が収載。数値の照合：40 mg/kg 群 5.7%・80 mg/kg 群 5.9% で、カードの「正常の約6%（5.7%・5.9%）」と一致。留保：—
   uncertainty: ビルトラルセンは国内では2020年3月に条件付き早期承認制度により世界で初めて承認され、保険適用がある（対象は遺伝子検査でエクソン53スキッピングにより治療可能な欠失が確認された患者）。ナンセンス変異に対するリードスルー薬アタルレンは国内では承認されておらず、欧州でも有効性が確認されなかったとして条件付き承認の更新が見送られ、米国でも承認されていない。
   curriculum:
     kokushi: 医学各論 Ⅸ-5-D-④（筋ジストロフィー、b）
@@ -628,6 +667,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-019
   domain: NM
   subdomain: 筋強直性ジストロフィー
@@ -648,7 +690,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ53 2026-11-13）：Kuntawala DH, Vitorino R, Cruz AC, Martins F, Rebelo S. Multisystem Symptoms in Myotonic Dystrophy Type 1: A Management and Therapeutic Perspective. International Journal of Molecular Sciences. 2025;26(11)（CC BY、PMID 40508159、DOI 10.3390/ijms26115350、PMC12155408、新規 SRC 候補）。裏づける部分：DMPK 遺伝子の 3'' 非翻訳領域における CTG リピート伸長を原因とすること、世代を経てリピートが伸長し発症が早まる表現促進、多臓器・多系統にわたる障害であることを本文（CC BY ライセンス表示あり）に明記。数値の照合：数値なし。留保：個別臓器（心伝導障害・白内障・耐糖能異常）の列挙は同総説の主題（多系統症状）だが、本照合では行単位で確認していないため、その部分は総論レベルの裏づけにとどまる'
   uncertainty: リピート数と発症年齢・重症度は相関するが個人差が大きい。臓器ごとのモニタリング項目は同コンセンサス推奨にまとめられている。根本治療薬は国内・国外とも承認されていない。
   curriculum:
     kokushi: 医学各論 Ⅸ-5-D-⑤（筋強直性ジストロフィー、b）
@@ -663,6 +705,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-020
   domain: NM
   subdomain: 筋強直性ジストロフィー
@@ -683,7 +728,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ53 2026-11-13）：Zhao Q, Wang S, Wang Y, Ding S. Neonatal congenital myotonic dystrophy with DMPK gene expansion: clinical features and short-term outcomes. Frontiers in Pediatrics. 2025;13（CC BY、PMID 41585019、DOI 10.3389/fped.2025.1648611、PMC12823999、新規 SRC 候補）。裏づける部分：新生児の先天性筋強直性ジストロフィー4例全例で DMPK 伸長の母系伝達を確認し、新生児期の筋緊張低下・呼吸不全・哺乳困難を呈する旨を結論部にも明記。数値の照合：数値なし。留保：単施設の症例集積（4例）であり、裏づけは症例レベルの再述にとどまる'
   uncertainty: 母親が未診断のまま出産に至ることがあり、児の発症を契機に家族歴の聴取と母親の診察が重要となる。長期予後は呼吸・栄養管理の進歩により変化しつつある。
   curriculum:
     kokushi: 医学各論 Ⅸ-11-B-②（先天性筋強直性ジストロフィー、b）
@@ -698,6 +743,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-021
   domain: NM
   subdomain: 周期性四肢麻痺
@@ -718,7 +766,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ53 2026-11-13）：Luo M, Liu B, Xu J, Meng D. Clinical features and advances in the genetics of periodic paralysis. PeerJ. 2026;14（CC BY、PMID 41800133、DOI 10.7717/peerj.20840、PMC12965173、新規 SRC 候補）。裏づける部分：不完全浸透の常染色体優性遺伝、イオンチャネル遺伝子（CACNA1S＝カルシウム、SCN4A＝ナトリウム、KCNJ2・KCNJ18＝カリウム）、低カリウム性と高カリウム性の分類、発作の誘因（運動後の休息・ストレス・飲酒など）、甲状腺中毒性周期性四肢麻痺が二次性の型である旨を記載。数値の照合：数値なし。留保：発作予防としての炭酸脱水酵素阻害薬の使用は同総説に記載がなく（アセタゾラミドが一部の遺伝子型で増悪しうる旨のみ）、この要素は裏づけ対象外
   uncertainty: 発作時は血清カリウム値に応じた補正を行う。炭酸脱水酵素阻害薬（アセタゾラミド等）は国内承認薬だが、遺伝子型によっては発作が増悪する場合があり、個別の保険適用範囲は添付文書で確認する。
   curriculum:
     kokushi: 医学各論 Ⅸ-5-D-⑦（周期性四肢麻痺、b）
@@ -733,6 +781,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-022
   domain: NM
   subdomain: 内分泌・代謝性ミオパチー
@@ -788,7 +839,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ53 2026-11-13）：Belančić A, Maria Gkrinia EM, Lam YW, Vitezić D. Therapeutic advances in spinal muscular atrophy: a review of clinical, safety, and economic considerations. Frontiers in Pharmacology. 2026;17（CC BY、PMID 42807701、DOI 10.3389/fphar.2026.1793581、PMC13617402、新規 SRC 候補）。裏づける部分：SMN1 遺伝子のホモ接合性欠失・変異による SMN 蛋白の不足、常染色体劣性遺伝、発症時期による型のスペクトラム（出生前・乳児期発症の0〜1型から成人発症の4型）、多職種ケアの重要性を記載。数値の照合：数値なし。留保：「診断は遺伝子検査で確定」の明示は同総説では間接的（新生児スクリーニングと遺伝子診断の文脈）であり、この点は留保。国内の新生児スクリーニング実施状況はカード側でも未確認のまま（フラグ5）'
   uncertainty: 重症度はSMN2遺伝子のコピー数と相関する。発症前治療の根拠となる新生児スクリーニングの国内実施状況は本作成では確認していない。
   curriculum:
     kokushi: 医学各論 Ⅸ-11-A-①（脊髄性筋萎縮症、b）
@@ -803,6 +854,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-024
   domain: NM
   subdomain: 脊髄性筋萎縮症
@@ -823,7 +877,7 @@
     source_license: NEJM（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ53 2026-11-13）：ClinicalTrials.gov 登録レコード NCT02193074（ENDEAR）（GOV_US、https://clinicaltrials.gov/study/NCT02193074、新規 SRC 候補）。裏づける部分：登録レコードの結果セクションに運動マイルストーンレスポンダー割合（最終解析）が収載され、対照 0% に対して有意に高いという方向性は一致。数値の照合：最終解析値 51% 対 0%（p<0.0001）。カードの 41% は中間解析値で登録には収載されず、数値そのものは裏づけ対象外（留保、フラグ3）。留保：カードは「中間解析で」と明記しており記載自体は正確。最終解析値への更新可否はレポジトリ側の判断事項
   uncertainty: ヌシネルセンは国内では2017年7月に承認され、保険適用があり、髄腔内投与を反復する。現在の国内の効能は脊髄性筋萎縮症全般（乳児型以外および遺伝子検査で発症が予測される未発症例を含む）に拡大されている。
   curriculum:
     kokushi: 医学各論 Ⅸ-11-A-①（脊髄性筋萎縮症、b）
@@ -838,6 +892,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-025
   domain: NM
   subdomain: 脊髄性筋萎縮症
@@ -858,7 +915,7 @@
     source_license: NEJM（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ53 2026-11-13）：ClinicalTrials.gov 登録レコード NCT02913482（FIREFISH）（GOV_US、https://clinicaltrials.gov/study/NCT02913482、新規 SRC 候補）。裏づける部分：登録レコードの結果セクション（第2部）に、12か月時点で支持なしに5秒以上座位を保持できた乳児の割合が収載。数値の照合：29.3% で、カードの 29% と一致（p<0.0001）。留保：—
   uncertainty: リスジプラムは国内では2021年6月に承認され、保険適用があり、対象は2か月齢以上の脊髄性筋萎縮症で、連日の経口投与を継続する。
   curriculum:
     kokushi: 医学各論 Ⅸ-11-A-①（脊髄性筋萎縮症、b）
@@ -873,6 +930,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-026
   domain: NM
   subdomain: 脊髄性筋萎縮症
@@ -893,7 +953,7 @@
     source_license: NEJM（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ53 2026-11-13）：ClinicalTrials.gov 登録レコード NCT02122952（START）（GOV_US、https://clinicaltrials.gov/study/NCT02122952、新規 SRC 候補）。裏づける部分：登録レコードに「永続的換気または死亡」を含む評価項目が収載され、両コホートともイベント 0 件で、換気回避・生存の方向性は裏づけられる。数値の照合：登録の追跡期間は生後13.6か月までで、カードの「20か月時点で全15例が回避」は登録では再述されない。支持なし坐位 11/12 例も登録の評価項目に含まれない（登録の運動機能評価は別の指標）。留保：強い留保つきの B。裏づけは生存・永続的換気回避の方向性にとどまる（フラグ6）
   uncertainty: オナセムノゲン アベパルボベクは国内では2020年3月に2歳未満の脊髄性筋萎縮症を対象として承認された再生医療等製品で、保険適用がある。投与前後に肝機能障害への対応として副腎皮質ステロイドの併用とモニタリングが行われる。
   curriculum:
     kokushi: 医学各論 Ⅸ-11-A-①（脊髄性筋萎縮症、b）
@@ -908,6 +968,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ53 2026-11-13）。三原の承認（2026-11-11）による
 - id: NM-027
   domain: NM
   subdomain: 先天性筋ジストロフィー

@@ -16663,14 +16663,17 @@
   doi: 10.1093/jbcr/irac025
   pmid: '35218662'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社の著作物（Crossref・Europe PMC にライセンス表示なし、作り手の調査バッチ54）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1456
   legacy_id: null
   title: 'McIntosh SE, Freer L, Grissom CK, Rodway GW, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update. Wilderness & Environmental Medicine. 2024;35(2):183-197.'
@@ -16678,14 +16681,17 @@
   doi: 10.1177/10806032231222359
   pmid: '38577729'
   pmcid: null
-  license_note: ライセンス表示を確認できず（学会ガイドライン、CC表示なし）
+  license_note: 出版社の著作物（Crossref・Europe PMC にライセンス表示なし、作り手の調査バッチ54）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず（学会ガイドライン、CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1457
   legacy_id: null
   title: 'Shih JG, Shahrokhi S, Jeschke MG. Review of Adult Electrical Burn Injury Outcomes Worldwide: An Analysis of Low-Voltage vs High-Voltage Electrical Injury. Journal of Burn Care & Research. 2017;38(1):e293-e298.'
@@ -16693,14 +16699,17 @@
   doi: 10.1097/BCR.0000000000000373
   pmid: '27359191'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社の著作物（Crossref・Europe PMC にライセンス表示なし、作り手の調査バッチ54）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1458
   legacy_id: null
   title: 'Edsberg LE, Black JM, Goldberg M, McNichol L, Moore L, Sieggreen M. Revised National Pressure Ulcer Advisory Panel Pressure Injury Staging System: Revised Pressure Injury Staging System. Journal of Wound, Ostomy and Continence Nursing. 2016;43(6):585-597.'
@@ -16723,14 +16732,17 @@
   doi: 10.1038/s41433-019-0456-5
   pmid: '31086244'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社の著作物（Crossref・Europe PMC にライセンス表示なし、作り手の調査バッチ54）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1460
   legacy_id: null
   title: 'Izadi M, Jonaidi-Jafari N, Pourazizi M, Alemzadeh-Ansari MH. Photokeratitis induced by ultraviolet radiation in travelers: A major health problem. Journal of Postgraduate Medicine. 2018;64(1):40-46.'
@@ -16753,14 +16765,17 @@
   doi: 10.1016/j.otc.2008.01.006
   pmid: '18436001'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社の著作物（Crossref・Europe PMC にライセンス表示なし、作り手の調査バッチ54）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1462
   legacy_id: null
   title: 'Basheeth N, Donnelly M, Smyth D, Shandilya M. Acute nasal fracture management: A prospective study and literature review. Laryngoscope. 2015;125(12):2677-2684.'
@@ -16768,14 +16783,17 @@
   doi: 10.1002/lary.25358
   pmid: '25959006'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社の著作物（Crossref・Europe PMC にライセンス表示なし、作り手の調査バッチ54）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1463
   legacy_id: null
   title: 'Gómez Roselló E, Quiles Granado AM, Artajona Garcia M, et al. Facial fractures: classification and highlights for a useful report. Insights Imaging. 2020;11(1):49.'
@@ -16798,14 +16816,17 @@
   doi: 10.1016/j.surge.2013.07.001
   pmid: '23954483'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社の著作物（Crossref・Europe PMC にライセンス表示なし、作り手の調査バッチ54）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1465
   legacy_id: null
   title: 'Johnson NR, Roberts MJ. Frontal sinus fracture management: a systematic review and meta-analysis. Int J Oral Maxillofac Surg. 2021;50(1):75-82.'
@@ -16813,14 +16834,17 @@
   doi: 10.1016/j.ijom.2020.06.004
   pmid: '32861554'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社の著作物（Crossref・Europe PMC にライセンス表示なし、作り手の調査バッチ54）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1466
   legacy_id: null
   title: Kim HS, Jeong EC. Orbital Floor Fracture. Arch Craniofac Surg. 2016;17(3):111-118.
@@ -16918,14 +16942,17 @@
   doi: 10.4274/balkanmedj.2017.0367
   pmid: '28840850'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
 - id: SRC-1473
   legacy_id: null
   title: Worley ML, Patel KG, Kilpatrick LA. Cleft Lip and Palate. Clin Perinatol. 2018;45(4):661-678.
@@ -16933,14 +16960,17 @@
   doi: 10.1016/j.clp.2018.07.006
   pmid: '30396411'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社の著作物（Crossref・Europe PMC にライセンス表示なし、作り手の調査バッチ54）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1474
   legacy_id: null
   title: Cancio LC, Salinas J, Kramer GC. Protocolized Resuscitation of Burn Patients. Crit Care Clin. 2016;32(4):599-610.
@@ -16948,14 +16978,17 @@
   doi: 10.1016/j.ccc.2016.06.008
   pmid: '27600131'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社の著作物（Crossref・Europe PMC にライセンス表示なし、作り手の調査バッチ54）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1475
   legacy_id: null
   title: 'Lin F, Wu Z, Song B, Coyer F, Chaboyer W. The effectiveness of multicomponent pressure injury prevention programs in adult intensive care patients: A systematic review. Int J Nurs Stud. 2020;102:103483.'
@@ -16963,14 +16996,17 @@
   doi: 10.1016/j.ijnurstu.2019.103483
   pmid: '31835122'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社の著作物（Crossref・Europe PMC にライセンス表示なし、作り手の調査バッチ54）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1476
   legacy_id: null
   title: Karišik M. Foreign body aspiration and ingestion in children. Acta Clinica Croatica. 2023;62(Suppl 1):105-112.
@@ -17008,14 +17044,17 @@
   doi: 10.1016/s0896-1549(02)00007-x
   pmid: '12229231'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社の著作物（Crossref・Europe PMC にライセンス表示なし、作り手の調査バッチ54）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1479
   legacy_id: null
   title: Puodžiuvienė E, Valeišaitė G, Žemaitienė R. Clinical Characteristics, Visual Outcomes, and Prognostic Factors of Open Globe Injuries. Medicina (Kaunas). 2021;57(11):1198.
@@ -17038,14 +17077,17 @@
   doi: 10.1002/lary.29580
   pmid: '33881175'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社の著作物（Crossref・Europe PMC にライセンス表示なし、作り手の調査バッチ54）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1481
   legacy_id: null
   title: Ingvaldsen CA, Tønseth KA. Auricular haematoma. Tidsskrift for den Norske Laegeforening. 2017;137(2):105-107.
@@ -17053,14 +17095,17 @@
   doi: 10.4045/tidsskr.15.1279
   pmid: '28127072'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社の著作物（Crossref・Europe PMC にライセンス表示なし、作り手の調査バッチ54）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1561
   legacy_id: null
   title: 日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画

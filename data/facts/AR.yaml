@@ -367,7 +367,7 @@
     source_license: NEJM の利用規約（Crossref の license 欄。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ52 2026-11-13）：ClinicalTrials.gov 結果レコード NCT02801669（Study of DU-176b Aged 80 Years or Older、ELDERCARE-AF）（GOV_US、新規 SRC 候補、API で取得）（GOV_US、https://clinicaltrials.gov/study/NCT02801669、新規 SRC 候補）。裏づける部分：登録レコードの結果セクションに、主要アウトカム（脳卒中と全身性塞栓症の複合）の発症数がエドキサバン15 mg 1日1回群15例・プラセボ群44例と掲載され、解析のハザード比も0.339（95%信頼区間0.188〜0.608）と掲載される。大出血の発症数も20例対11例と掲載され、カードの主張の核（脳卒中・全身性塞栓症の減少と、大出血に有意差がないこと）が登録レコードで裏づけられる。数値の照合：ハザード比0.339はカードの0.34と一致する。発症数15例対44例と大出血20例対11例は、カードの年率換算値（脳卒中・全身性塞栓症は年2.3%対6.7%、大出血は年3.3%対1.8%）と方向が一致するが、年率そのものはレコードに掲載がない。消化管出血がエドキサバン群で多かったという要素は、レコードの内訳では直接には裏づけていない。留保：候補は出典マスター未登録のため新規 SRC 登録候補。カードの uncertainty（エドキサバン15 mg の国内承認の条件は未確認）は解消可能で、フラグに挙げた
   uncertainty: エドキサバン15 mgの国内承認の条件は本出典では確認していない。
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-166 (id: Jlvnlsg)'
@@ -382,6 +382,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ52 2026-11-13）。三原の承認（2026-11-11）による
 - id: AR-012
   domain: AR
   subdomain: 心房細動
@@ -1102,7 +1105,7 @@
     source_license: CC BY-NC-ND 4.0（Crossref の license 欄）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ52 2026-11-13）：Wilde AAM, Amin AS, Postema PG. Diagnosis, management and therapeutic strategies for congenital long QT syndrome. Heart. 2022;108:332-338（CC BY、PMID 34039680、DOI 10.1136/heartjnl-2020-318259、PMC8862104、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、Schwartz スコア（LQTS のリスクスコア）が3.5点以上で LQTS の高確率（確定診断の枠組み）となること、病的変異を持つ人はスコアとは独立に現行の診断基準を満たすことが明記され、カードの診断経路のうち2つ（スコア3.5点以上、明らかな病的変異）が裏づけられる。数値の照合：スコアの閾値3.5点はカードと一致する。繰り返し記録した12誘導心電図で QTc 500 ms 以上という単独の診断経路と、原因不明の失神があり QTc 480〜499 ms の場合にも診断できるという経路は、候補の本文に明示がなく、その2要素を留保する。留保：候補は出典マスター未登録のため新規 SRC 登録候補。カードの基準は 2013 年の HRS/EHRA/APHRS 専門家合意に基づき、ESC 2022 の基準（閾値が異なる）との世代差はフラグに挙げた
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-01-00-170 (id: Jlvnls8)；TBL-02-05-026 (id: JlAKpf0)'
@@ -1117,6 +1120,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ52 2026-11-13）。三原の承認（2026-11-11）による
 - id: AR-033
   domain: AR
   subdomain: QT延長症候群
@@ -1207,7 +1213,7 @@
     source_license: CC BY-NC-ND 4.0（Crossref の license 欄）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ52 2026-11-13）：McBenedict B, Alphonse B, Devan JN, Singh G, Goh KS, Yau RCC, Elamin S, Jamched V, Abraham AA, Valentim G, Lima Pessôa B, Hauwanga WN. Advances and Challenges in the Management of Brugada Syndrome: A Comprehensive Review. Cureus. 2024;16:e61837（CC BY、PMID 38975383、DOI 10.7759/cureus.61837、PMC11227351、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、植込み型除細動器が Brugada 症候群の高リスク患者に対する主要な介入であり、とくに蘇生された心停止の患者と、不整脈性の失神が示唆される病歴を持つ患者で重要であることが明記され、カードの推奨の2層の構造（心停止からの蘇生歴がある患者への推奨と、不整脈性の失神を伴う場合への考慮）の方向が裏づけられる。数値の照合：—。留保：推奨のクラスとレベルの表記（クラスI・レベルB、IIa・レベルC）、心室頻拍・心室細動の記録という要素、夜間の苦悶様呼吸は候補に明示がなく、その部分を留保して B とした。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-01-00-174 (id: Jlvnltc)；TBL-02-05-032 (id: JlAKpgM)'
@@ -1222,6 +1228,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ52 2026-11-13）。三原の承認（2026-11-11）による
 - id: AR-036
   domain: AR
   subdomain: 上室期外収縮
@@ -1277,7 +1286,7 @@
     source_license: CC表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ52 2026-11-13）：Guichard JB, Guasch E, Roche F, Da Costa A, Mont L. Premature atrial contractions: A predictor of atrial fibrillation and a relevant marker of atrial cardiomyopathy. Front Physiol. 2022;13:971691（CC BY、PMID 36353376、DOI 10.3389/fphys.2022.971691、PMC9638131、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）の全文に、心房期外収縮の発生に関連する危険因子として加齢が挙げられ、期外収縮の負荷の増加は長く良性の現象とみなされてきたが、心房細動の発症をはじめとする転帰との関連を示す強い証拠があることが明記され、カードの「加齢とともに増加する」「将来の心房細動発症との関連に注意すべきだ」の2要素が裏づけられる。数値の照合：—。留保：「頻発しても血行動態の破綻は来さない」という要素は候補に明示がなく、その部分を留保して B とした。候補は出典マスター未登録のため新規 SRC 登録候補。主出典（SRC-4379）自体のライセンス確認は区分の節に記録した'
   uncertainty: 本ガイドラインは診断とリスク評価を扱う版であり、心房期外収縮の記述は運動耐容能に関する節（9.3）で確認した。英語版（J Arrhythm誌版）を出典とし、Circulation Journal誌版（DOI 10.1253/circj.CJ-22-0827）と二重掲載の関係にある。
   curriculum:
     kokushi: 医学各論 Ⅴ-1-A-①（上室期外収縮、a）
@@ -1292,6 +1301,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ52 2026-11-13）。三原の承認（2026-11-11）による
 - id: AR-038
   domain: AR
   subdomain: 発作性上室頻拍

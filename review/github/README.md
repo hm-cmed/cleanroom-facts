@@ -1,6 +1,6 @@
 # 事実カードの監修（GitHub 版）
 
-更新：2026-11-12（`python scripts/make_github_review.py` で作り直す。手で編集しない）
+更新：2026-11-13（`python scripts/make_github_review.py` で作り直す。手で編集しない）
 
 ## 監修のしかた
 
