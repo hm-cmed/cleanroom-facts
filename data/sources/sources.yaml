@@ -886,14 +886,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: © 公益財団法人 難病医学研究財団（利用規約は未確認）
+  license_note: © 公益財団法人 難病医学研究財団等。難病情報センターの規定により著作権で保護され、引用には事前連絡と出典明記が必要（パブリックドメイン・CC ではない）。2026-11-13 三原の決定。旧記録：© 公益財団法人 難病医学研究財団（利用規約は未確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md の出典マスター表から
+  - date: '2026-11-13'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に訂正（難病情報センター・研究班の参照ガイドは著作権で保護されるとの三原の決定）
   source: 難病情報センター『潰瘍性大腸炎（指定難病97）』（情報更新 令和7年11月）
 - id: SRC-056
   legacy_id: null
@@ -902,14 +905,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: © 公益財団法人 難病医学研究財団（利用規約は未確認）
+  license_note: © 公益財団法人 難病医学研究財団等。難病情報センターの規定により著作権で保護され、引用には事前連絡と出典明記が必要（パブリックドメイン・CC ではない）。2026-11-13 三原の決定。旧記録：© 公益財団法人 難病医学研究財団（利用規約は未確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-13'
     by: claude-code
     change: 取り込み：raw/03_intestine.md の出典マスター表から
+  - date: '2026-11-13'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に訂正（難病情報センター・研究班の参照ガイドは著作権で保護されるとの三原の決定）
   source: 難病情報センター『クローン病（指定難病96）』（情報更新 令和7年11月）
 - id: SRC-057
   legacy_id: null
@@ -18802,14 +18808,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: © 公益財団法人 難病医学研究財団等。難病情報センターの規定により著作権で保護され、引用には事前連絡と出典明記が必要（パブリックドメイン・CC ではない）。2026-11-13 三原の決定。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: GOV_JP
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md の出典マスター表から
+  - date: '2026-11-13'
+    by: claude-code
+    change: source_class を GOV_JP から RESTRICTED に訂正（難病情報センター・研究班の参照ガイドは著作権で保護されるとの三原の決定）
 - id: SRC-1688
   legacy_id: null
   title: Wenning GK, Stankovic I, Vignatelli L, et al. The Movement Disorder Society Criteria for the Diagnosis of Multiple System Atrophy. Mov Disord. 2022;37(6):1131-1148
@@ -18907,14 +18916,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: © 公益財団法人 難病医学研究財団等。難病情報センターの規定により著作権で保護され、引用には事前連絡と出典明記が必要（パブリックドメイン・CC ではない）。2026-11-13 三原の決定。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: GOV_JP
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md の出典マスター表から
+  - date: '2026-11-13'
+    by: claude-code
+    change: source_class を GOV_JP から RESTRICTED に訂正（難病情報センター・研究班の参照ガイドは著作権で保護されるとの三原の決定）
 - id: SRC-1695
   legacy_id: null
   title: 'Thompson AJ, Banwell BL, Barkhof F, et al. Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria. Lancet Neurol. 2018;17(2):162-173'
@@ -25537,10 +25549,10 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 表示なし
+  license_note: 研究班（または難病医学研究財団）の著作物。難病情報センターの規定により著作権で保護され、二次利用には事前連絡が必要（パブリックドメイン・CC ではない）。2026-11-13 三原の決定。旧記録：表示なし
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -25548,6 +25560,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+  - date: '2026-11-13'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に訂正（難病情報センター・研究班の参照ガイドは著作権で保護されるとの三原の決定）
 - id: SRC-2464
   legacy_id: null
   title: Zini G, d'Onofrio G, Briggs C, et al. ICSH recommendations for identification, diagnostic value, and quantitation of schistocytes. Int J Lab Hematol. 2012;34(2):107-116.
@@ -25573,10 +25588,10 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 表示なし
+  license_note: 研究班（または難病医学研究財団）の著作物。難病情報センターの規定により著作権で保護され、二次利用には事前連絡が必要（パブリックドメイン・CC ではない）。2026-11-13 三原の決定。旧記録：表示なし
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -25584,6 +25599,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+  - date: '2026-11-13'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に訂正（難病情報センター・研究班の参照ガイドは著作権で保護されるとの三原の決定）
 - id: SRC-2466
   legacy_id: null
   title: Peffault de Latour R, et al. Eltrombopag Added to Immunosuppression in Severe Aplastic Anemia. N Engl J Med. 2022;386:11-23.
@@ -25609,10 +25627,10 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 表示なし
+  license_note: 研究班（または難病医学研究財団）の著作物。難病情報センターの規定により著作権で保護され、二次利用には事前連絡が必要（パブリックドメイン・CC ではない）。2026-11-13 三原の決定。旧記録：表示なし
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -25620,6 +25638,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+  - date: '2026-11-13'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に訂正（難病情報センター・研究班の参照ガイドは著作権で保護されるとの三原の決定）
 - id: SRC-2468
   legacy_id: null
   title: Greenberg PL, et al. Revised International Prognostic Scoring System for Myelodysplastic Syndromes. Blood. 2012;120(12):2454-2465.
@@ -25663,10 +25684,10 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 表示なし
+  license_note: 研究班（または難病医学研究財団）の著作物。難病情報センターの規定により著作権で保護され、二次利用には事前連絡が必要（パブリックドメイン・CC ではない）。2026-11-13 三原の決定。旧記録：表示なし
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -25674,6 +25695,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+  - date: '2026-11-13'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に訂正（難病情報センター・研究班の参照ガイドは著作権で保護されるとの三原の決定）
 - id: SRC-2471
   legacy_id: null
   title: Hillmen P, et al. The Complement Inhibitor Eculizumab in Paroxysmal Nocturnal Hemoglobinuria. N Engl J Med. 2006;355:1233-1243.
@@ -25699,10 +25723,10 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 表示なし
+  license_note: 研究班（または難病医学研究財団）の著作物。難病情報センターの規定により著作権で保護され、二次利用には事前連絡が必要（パブリックドメイン・CC ではない）。2026-11-13 三原の決定。旧記録：表示なし
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -25710,6 +25734,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+  - date: '2026-11-13'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に訂正（難病情報センター・研究班の参照ガイドは著作権で保護されるとの三原の決定）
 - id: SRC-2473
   legacy_id: null
   title: Weiss G, Ganz T, Goodnough LT. Anemia of inflammation. Blood. 2019;133(1):40-50.
@@ -25882,10 +25909,10 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 表示なし
+  license_note: 研究班（または難病医学研究財団）の著作物。難病情報センターの規定により著作権で保護され、二次利用には事前連絡が必要（パブリックドメイン・CC ではない）。2026-11-13 三原の決定。旧記録：表示なし
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -25893,6 +25920,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+  - date: '2026-11-13'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に訂正（難病情報センター・研究班の参照ガイドは著作権で保護されるとの三原の決定）
 - id: SRC-2483
   legacy_id: null
   title: 日本輸血・細胞治療学会『輸血療法実践ガイド』（2026年6月、学会発行）

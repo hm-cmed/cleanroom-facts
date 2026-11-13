@@ -604,7 +604,7 @@
     url: https://www.nanbyou.or.jp/entry/62
     source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：厚生労働省『衛生行政報告例』令和5年度「特定医療費（指定難病）受給者証所持者数、年度別・対象疾患別」の統計表（難病情報センターが「出典：厚生労働省衛生行政報告例」として再掲する表で照合）。一致（令和5年度 146,702人）。なお令和6年度は 151,631人と新しい値があるが、カードは令和5年度値として明記されているため陳腐化ではない。
     id_check:
       checked_at: '2026-10-13'
@@ -635,6 +635,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-055 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした
 - id: IN-012
   domain: IN
   subdomain: 炎症性腸疾患
@@ -653,7 +656,7 @@
     url: https://www.nanbyou.or.jp/entry/62
     source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56（既存 SRC-048、CC BY 4.0）。枠組みの差として両値を記録する：カード「発症から7〜8年を過ぎるとリスクが高くなる」／ガイドライン（SRC-048）「発症8年後からサーベイランス開始」。数値の衝突ではなく、リスク上昇の時期表現とサーベイランス開始時期の違いである。カードの「7年」という下限はガイドラインにはない。
     id_check:
       checked_at: '2026-10-13'
@@ -687,6 +690,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-055 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした
 - id: IN-013
   domain: IN
   subdomain: 炎症性腸疾患
@@ -705,7 +711,7 @@
     url: https://www.nanbyou.or.jp/entry/62
     source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56（既存 SRC-048、CC BY 4.0）。穿孔は BQ36 の確認できた記述では文言を特定できなかった。術式の主流性はガイドラインの手術分野全体の記述に基づく。
     id_check:
       checked_at: '2026-10-13'
@@ -739,6 +745,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-055 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした
 - id: IN-014
   domain: IN
   subdomain: 炎症性腸疾患
@@ -758,7 +767,7 @@
     url: https://www.nanbyou.or.jp/entry/81
     source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：厚生労働省『衛生行政報告例』令和5年度「特定医療費（指定難病）受給者証所持者数、年度別・対象疾患別」の統計表（難病情報センターが「出典：厚生労働省衛生行政報告例」として再掲する表で照合）。一致（令和5年度 52,108人）。なお令和6年度は 53,664人と新しい値があるが、カードは令和5年度値として明記されているため陳腐化ではない。
     id_check:
       checked_at: '2026-10-13'
@@ -789,6 +798,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-056 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした
 - id: IN-015
   domain: IN
   subdomain: 炎症性腸疾患
@@ -807,7 +819,7 @@
     url: https://www.nanbyou.or.jp/entry/81
     source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56（既存 SRC-048、CC BY 4.0）。虹彩炎は BQ39 の確認できた記述（皮膚・関節が中心）では特定できなかった。
     id_check:
       checked_at: '2026-10-13'
@@ -841,6 +853,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-056 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした
 - id: IN-016
   domain: IN
   subdomain: 炎症性腸疾患
@@ -859,7 +874,7 @@
     url: https://www.nanbyou.or.jp/entry/81
     source_license: © 公益財団法人 難病医学研究財団（利用規約は未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（バッチ5、作り手の調査 2026-11-11）：Nakase H, et al. Evidence-based clinical practice guidelines for inflammatory bowel disease 2020. J Gastroenterol 2021;56（既存 SRC-048、CC BY 4.0）。肛門病変への切開排膿・ドレナージ（シートン法等）の具体的な文は、本調査の確認範囲では特定できなかった。各薬剤の国内承認の範囲はガイドライン本文の範囲外である。
     id_check:
       checked_at: '2026-10-13'
@@ -890,6 +905,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（バッチ5、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-056 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした
 - id: IN-017
   domain: IN
   subdomain: 過敏性腸症候群

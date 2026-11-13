@@ -1474,7 +1474,7 @@
     url: null
     source_license: 難病情報センター（公的資料。政府標準利用規約の適用は取り込み側で最終確認を要する）
     legal_basis: B
-    source_class: GOV_JP
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 患者数と割合は難病情報センターの公表情報に基づく推計である。多系統萎縮症そのものの診断基準は ND-114（SRC-1688）を参照。
   curriculum:
@@ -1490,6 +1490,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-1687 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を GOV_JP から RESTRICTED にした
 - id: ND-042
   domain: ND
   subdomain: 多系統萎縮症
@@ -1757,7 +1760,7 @@
     url: null
     source_license: 難病情報センター（公的資料。政府標準利用規約の適用は取り込み側で最終確認を要する）
     legal_basis: B
-    source_class: GOV_JP
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は日本の指定難病診断基準であり、遺伝学的事実は国際的に共通する。女性化乳房などの軽度のアンドロゲン不全症状や耐糖能異常を合併しうることが同基準に記載されている。リュープロレリン酢酸塩が国内で進行抑制の治療として承認されている旨は本カードの出典外の情報であり、命題には含めなかった。
   curriculum:
@@ -1773,6 +1776,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-1694 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を GOV_JP から RESTRICTED にした
 - id: ND-050
   domain: ND
   subdomain: 多発性硬化症

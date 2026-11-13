@@ -132,7 +132,7 @@
 - 鑑別・補足：クローン病は男性に多い（約2:1）
 - よくある誤解：潰瘍性大腸炎は女性に多い
 - 不確実性：出典の利用規約が未確認（source_class: UNKNOWN）
-- 出典：難病情報センター『潰瘍性大腸炎（指定難病97）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/62)（区分 UNKNOWN）
+- 出典：難病情報センター『潰瘍性大腸炎（指定難病97）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/62)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-011&card_id=IN-011&version=c1e3d21c43)　（版 `c1e3d21c43`）
 
@@ -143,7 +143,7 @@
 - 条件：region: 日本
 - 鑑別・補足：散発性大腸癌の検診とは目的と間隔が異なる
 - よくある誤解：寛解していればサーベイランス内視鏡は不要
-- 出典：難病情報センター『潰瘍性大腸炎（指定難病97）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/62)（区分 UNKNOWN）
+- 出典：難病情報センター『潰瘍性大腸炎（指定難病97）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/62)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-272 (id: Jlvnl3s)；TBL-01-00-650 (id: Jlvnmc0)；TBL-02-07-030 (id: JlAKplE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-012&card_id=IN-012&version=e2023c2ab6)　（版 `e2023c2ab6`）
 
@@ -154,7 +154,7 @@
 - 条件：region: 日本
 - 鑑別・補足：クローン病の手術は病変部の最小限の切除が原則
 - よくある誤解：潰瘍性大腸炎の手術は人工肛門が必須である
-- 出典：難病情報センター『潰瘍性大腸炎（指定難病97）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/62)（区分 UNKNOWN）
+- 出典：難病情報センター『潰瘍性大腸炎（指定難病97）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/62)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-3-B-⑤（潰瘍性大腸炎、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-272 (id: Jlvnl3s)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-013&card_id=IN-013&version=73625022cd)　（版 `73625022cd`）
 
@@ -166,7 +166,7 @@
 - 鑑別・補足：潰瘍性大腸炎は男女差がない
 - よくある誤解：クローン病の患者数は潰瘍性大腸炎より多い
 - 不確実性：出典の利用規約が未確認（source_class: UNKNOWN）
-- 出典：難病情報センター『クローン病（指定難病96）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/81)（区分 UNKNOWN）
+- 出典：難病情報センター『クローン病（指定難病96）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/81)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-3-B-④（Crohn病、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-014&card_id=IN-014&version=94f5a56ab4)　（版 `94f5a56ab4`）
 
@@ -177,7 +177,7 @@
 - 条件：region: 日本
 - 鑑別・補足：潰瘍性大腸炎でも腸管外合併症はみられるが、瘻孔はまれ
 - よくある誤解：クローン病の合併症は腸管内に限られる
-- 出典：難病情報センター『クローン病（指定難病96）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/81)（区分 UNKNOWN）
+- 出典：難病情報センター『クローン病（指定難病96）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/81)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-3-B-④（Crohn病、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-015&card_id=IN-015&version=cab0446a79)　（版 `cab0446a79`）
 
@@ -188,7 +188,7 @@
 - 条件：region: 日本
 - 鑑別・補足：潰瘍性大腸炎では栄養療法に寛解導入効果は期待されない
 - よくある誤解：栄養療法は補助的で治療効果はない
-- 出典：難病情報センター『クローン病（指定難病96）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/81)（区分 UNKNOWN）
+- 出典：難病情報センター『クローン病（指定難病96）』（情報更新 令和7年11月）　[リンク](https://www.nanbyou.or.jp/entry/81)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-3-B-④（Crohn病、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-273 (id: Jlvnl3w)；TBL-02-07-032 (id: JlAKplM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-016&card_id=IN-016&version=58a01589bd)　（版 `58a01589bd`）
 

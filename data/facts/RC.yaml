@@ -388,7 +388,7 @@
     url: http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf
     source_license: 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 診断基準は参照ガイド令和7年度改訂版の表1・表2から読み取り（ガイドに収載されている診断基準の表は2022年度改訂と表示されている）。同ガイドの source_class は、厚生労働科学研究費による公的資料として GOV_JP とする判断もありうるため、取り込み側の最終判定に委ねる。
   curriculum:
@@ -404,6 +404,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-2463 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした
 - id: RC-012
   domain: RC
   subdomain: 自己免疫性溶血性貧血
@@ -423,7 +426,7 @@
     url: http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf
     source_license: 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ36 2026-11-11）：Barcellini W, Fattizzo B. Front Immunol. 2020（CC BY、PMC7325906、新規 SRC 候補）。裏づける部分と留保：ステロイドが治療の主軸であることとリツキシマブの有効性は一致。国内の保険償還はカードに記録済みの PMDA の確認による
   uncertainty: 薬剤名（副腎皮質ステロイド、リツキシマブ）を含むカード。リツキシマブは2026年に自己免疫性溶血性貧血（温式・冷式を含む、公知申請）の効能追加が承認された（PMDA 審査報告書で効能追加を確認。承認日は添付文書で未照合）。令和4年度改訂版の参照ガイドが「国内適応外」としていたのは、効能追加の前の記述である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】リツキシマブの自己免疫性溶血性貧血への効能追加は2026-02-19に承認された（公知申請。作り手が PMDA の承認品目一覧で確認）。
   curriculum:
@@ -448,6 +451,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ36 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-2463 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした
 - id: RC-013
   domain: RC
   subdomain: 冷式抗体による溶血性貧血
@@ -467,7 +473,7 @@
     url: http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf
     source_license: 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ36 2026-11-11）：Berentsen S. Front Immunol. 2020（CC BY、PMC7154122、新規 SRC 候補）。裏づける部分と留保：冷式で直接クームス試験により補体成分（C3d）が検出されること、寒冷凝集素価（4℃で64以上）は一致。「至適温度4℃」の表現と Donath-Landsteiner 抗体の部分は未確認。作り手が併記した難病情報センターのページは政府資料でないため使わない
   uncertainty: 病型分類は参照ガイド令和7年度改訂版の表2から読み取り。寒冷凝集素価の上昇が溶血の程度と相関するとは限らない点（低力価寒冷凝集素症）は、同じ表の参考所見の記載であり本カードの主張には含めていない。
   curriculum:
@@ -486,6 +492,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ36 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-2463 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした
 - id: RC-014
   domain: RC
   subdomain: 冷式抗体による溶血性貧血
@@ -505,7 +514,7 @@
     url: http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf
     source_license: 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ36 2026-11-11）：Berentsen S. Front Immunol. 2020（同上）。裏づける部分と留保：寒冷凝集素症でステロイドが一般に無効であること、非薬物療法の基本が保温（寒冷回避）であることは一致
   uncertainty: 薬剤名（副腎皮質ステロイド）を含むカードで、記述は参照ガイド令和7年度改訂版の緒言に基づく。同ガイドでは寒冷凝集素症に新たな治療薬が適応になったとされ、薬物療法の項にスチムリマブが挙げられている。スチムリマブは国内で承認されている（PMDA 審査報告書で確認。承認日と効能・効果の文言は未照合）が、主張には含めていない。
   curriculum:
@@ -527,6 +536,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ36 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-2463 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした
 - id: RC-015
   domain: RC
   subdomain: 赤血球破砕症候群
@@ -619,7 +631,7 @@
     url: null
     source_license: 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 令和7年度改訂で診断基準が A（血液検査）＋B（骨髄検査）＋C（鑑別診断の除外）の構造に刷新された。数値基準自体は旧基準と共通である。骨髄所見が必須項目になった点と、臨床症状が診断要件から外された点に注意。参照ガイドは厚生労働科学研究費による公的資料だが、PDF にライセンス表示が確認できなかったため source_class は UNKNOWN とし、GOV_JP とする判断は取り込み側に委ねる。
   curriculum:
@@ -635,6 +647,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-2465 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした
 - id: RC-018
   domain: RC
   subdomain: 再生不良性貧血
@@ -654,7 +669,7 @@
     url: null
     source_license: 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 重症度基準は平成29年度修正のままで、令和7年度版では stage 1 の定義文言のみ整備された。stage 2（中等症）・stage 3（やや重症）の基準は本カードの主張範囲外である。参照ガイドの source_class は RC-051 と同じ理由で UNKNOWN とした。
   curriculum:
@@ -670,6 +685,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-2465 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした
 - id: RC-019
   domain: RC
   subdomain: 再生不良性貧血
@@ -724,7 +742,7 @@
     url: null
     source_license: 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 診断基準の構造は令和7年改訂版の本文抜粋で確認した。数値の精読は令和4年度改訂版で行ったため、組み立て時に令和7年改訂版の全文で最終確認が必要である。急性骨髄性白血病への進展の詳細は作らず、ML の AML カードと相互参照に留める。参照ガイドの source_class は RC-051 と同じ理由で UNKNOWN とした。
   curriculum:
@@ -740,6 +758,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-2467 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした
 - id: RC-021
   domain: RC
   subdomain: 骨髄異形成症候群<MDS>
@@ -835,7 +856,7 @@
     url: null
     source_license: 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 令和4年度改訂版の全文で確認した。令和7年度版の有無は未確認で、組み立て前に研究班サイトで再確認すること。参照ガイドの source_class は RC-051 と同じ理由で UNKNOWN とした。
   curriculum:
@@ -851,6 +872,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-2470 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした
 - id: RC-024
   domain: RC
   subdomain: 発作性夜間ヘモグロビン尿症
@@ -905,7 +929,7 @@
     url: null
     source_license: 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 令和4年度改訂版の全文で確認した。成因の割合は日本血液学会レジストリ 2012〜2019 年の 18 歳以上 1055 例の集計である。令和7年度版の有無は未確認で、組み立て前に研究班サイトで再確認すること。参照ガイドの source_class は RC-051 と同じ理由で UNKNOWN とした。
   curriculum:
@@ -921,6 +945,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-13'
+    by: claude-code
+    change: 出典 SRC-2472 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした
 - id: RC-026
   domain: RC
   subdomain: 慢性疾患に伴う貧血<ACD>

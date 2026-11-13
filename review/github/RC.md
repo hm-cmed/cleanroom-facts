@@ -136,7 +136,7 @@
 
 - 条件：region: 日本／対象: 成人
 - 不確実性：診断基準は参照ガイド令和7年度改訂版の表1・表2から読み取り（ガイドに収載されている診断基準の表は2022年度改訂と表示されている）。同ガイドの source_class は、厚生労働科学研究費による公的資料として GOV_JP とする判断もありうるため、取り込み側の最終判定に委ねる。
-- 出典：特発性造血障害に関する調査研究班. 自己免疫性溶血性貧血 診療の参照ガイド 令和7年度改訂版. 2026年3月.　[リンク](http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf)（区分 UNKNOWN）
+- 出典：特発性造血障害に関する調査研究班. 自己免疫性溶血性貧血 診療の参照ガイド 令和7年度改訂版. 2026年3月.　[リンク](http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-1-C-①（自己免疫性溶血性貧血、b）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-008 (id: JlvnlXw)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-011&card_id=RC-011&version=0a2066aa20)　（版 `0a2066aa20`）
 
@@ -146,7 +146,7 @@
 
 - 条件：region: 日本／対象: 成人
 - 不確実性：薬剤名（副腎皮質ステロイド、リツキシマブ）を含むカード。リツキシマブは2026年に自己免疫性溶血性貧血（温式・冷式を含む、公知申請）の効能追加が承認された（PMDA 審査報告書で効能追加を確認。承認日は添付文書で未照合）。令和4年度改訂版の参照ガイドが「国内適応外」としていたのは、効能追加の前の記述である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】リツキシマブの自己免疫性溶血性貧血への効能追加は2026-02-19に承認された（公知申請。作り手が PMDA の承認品目一覧で確認）。
-- 出典：特発性造血障害に関する調査研究班. 自己免疫性溶血性貧血 診療の参照ガイド 令和7年度改訂版. 2026年3月.　[リンク](http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf)（区分 UNKNOWN）
+- 出典：特発性造血障害に関する調査研究班. 自己免疫性溶血性貧血 診療の参照ガイド 令和7年度改訂版. 2026年3月.　[リンク](http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-1-C-①（自己免疫性溶血性貧血、b）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-008 (id: JlvnlXw)；TBL-02-01-013 (id: JlAKpWQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-012&card_id=RC-012&version=f39c7e084c)　（版 `f39c7e084c`）
 
@@ -162,7 +162,7 @@
 
 - 条件：region: 日本／対象: 成人
 - 不確実性：病型分類は参照ガイド令和7年度改訂版の表2から読み取り。寒冷凝集素価の上昇が溶血の程度と相関するとは限らない点（低力価寒冷凝集素症）は、同じ表の参考所見の記載であり本カードの主張には含めていない。
-- 出典：特発性造血障害に関する調査研究班. 自己免疫性溶血性貧血 診療の参照ガイド 令和7年度改訂版. 2026年3月.　[リンク](http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf)（区分 UNKNOWN）
+- 出典：特発性造血障害に関する調査研究班. 自己免疫性溶血性貧血 診療の参照ガイド 令和7年度改訂版. 2026年3月.　[リンク](http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-1-C-②（冷式抗体による溶血性貧血、b）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-013&card_id=RC-013&version=80ac94a786)　（版 `80ac94a786`）
 
@@ -172,7 +172,7 @@
 
 - 条件：region: 日本／対象: 成人
 - 不確実性：薬剤名（副腎皮質ステロイド）を含むカードで、記述は参照ガイド令和7年度改訂版の緒言に基づく。同ガイドでは寒冷凝集素症に新たな治療薬が適応になったとされ、薬物療法の項にスチムリマブが挙げられている。スチムリマブは国内で承認されている（PMDA 審査報告書で確認。承認日と効能・効果の文言は未照合）が、主張には含めていない。
-- 出典：特発性造血障害に関する調査研究班. 自己免疫性溶血性貧血 診療の参照ガイド 令和7年度改訂版. 2026年3月.　[リンク](http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf)（区分 UNKNOWN）
+- 出典：特発性造血障害に関する調査研究班. 自己免疫性溶血性貧血 診療の参照ガイド 令和7年度改訂版. 2026年3月.　[リンク](http://zoketsushogaihan.com/file/Autoimmune_hemolytic_anemia_2025.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-1-C-②（冷式抗体による溶血性貧血、b）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-02 (id: JkxnuPQ)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-014&card_id=RC-014&version=4ef00705ce)　（版 `4ef00705ce`）
 
@@ -214,7 +214,7 @@
 
 - 条件：region: 日本／対象: 成人
 - 不確実性：令和7年度改訂で診断基準が A（血液検査）＋B（骨髄検査）＋C（鑑別診断の除外）の構造に刷新された。数値基準自体は旧基準と共通である。骨髄所見が必須項目になった点と、臨床症状が診断要件から外された点に注意。参照ガイドは厚生労働科学研究費による公的資料だが、PDF にライセンス表示が確認できなかったため source_class は UNKNOWN とし、GOV_JP とする判断は取り込み側に委ねる。
-- 出典：特発性造血障害に関する調査研究班『再生不良性貧血診療の参照ガイド 令和7年度改訂版』（令和8年＝2026年3月）（区分 UNKNOWN）
+- 出典：特発性造血障害に関する調査研究班『再生不良性貧血診療の参照ガイド 令和7年度改訂版』（令和8年＝2026年3月）（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-1-D-①（再生不良性貧血、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；TBL-01-00-006 (id: JlvnlXg)；TBL-02-01-018 (id: JlAKpWo)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-023 (id: JlAKpW8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-017&card_id=RC-017&version=85075837cb)　（版 `85075837cb`）
 
@@ -224,7 +224,7 @@
 
 - 条件：region: 日本／対象: 成人
 - 不確実性：重症度基準は平成29年度修正のままで、令和7年度版では stage 1 の定義文言のみ整備された。stage 2（中等症）・stage 3（やや重症）の基準は本カードの主張範囲外である。参照ガイドの source_class は RC-051 と同じ理由で UNKNOWN とした。
-- 出典：特発性造血障害に関する調査研究班『再生不良性貧血診療の参照ガイド 令和7年度改訂版』（令和8年＝2026年3月）（区分 UNKNOWN）
+- 出典：特発性造血障害に関する調査研究班『再生不良性貧血診療の参照ガイド 令和7年度改訂版』（令和8年＝2026年3月）（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-1-D-①（再生不良性貧血、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；TBL-01-00-006 (id: JlvnlXg)；TBL-02-01-018 (id: JlAKpWo)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-023 (id: JlAKpW8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-018&card_id=RC-018&version=ed86b4edeb)　（版 `ed86b4edeb`）
 
@@ -250,7 +250,7 @@
 
 - 条件：region: 日本／対象: 成人
 - 不確実性：診断基準の構造は令和7年改訂版の本文抜粋で確認した。数値の精読は令和4年度改訂版で行ったため、組み立て時に令和7年改訂版の全文で最終確認が必要である。急性骨髄性白血病への進展の詳細は作らず、ML の AML カードと相互参照に留める。参照ガイドの source_class は RC-051 と同じ理由で UNKNOWN とした。
-- 出典：特発性造血障害に関する調査研究班『骨髄異形成症候群診療の参照ガイド 令和7年改訂版』（2026年3月）（区分 UNKNOWN）
+- 出典：特発性造血障害に関する調査研究班『骨髄異形成症候群診療の参照ガイド 令和7年改訂版』（2026年3月）（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-1-D-②（骨髄異形成症候群<MDS>、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；TBL-01-00-007 (id: JlvnlXs)；TBL-01-00-623 (id: JlvnmaQ)；TBL-02-01-018 (id: JlAKpWo)；TBL-02-01-021 (id: JlAKpW0)；TBL-02-01-013 (id: JlAKpWQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-020&card_id=RC-020&version=60d3d56ed6)　（版 `60d3d56ed6`）
 
@@ -286,7 +286,7 @@
 
 - 条件：region: 日本／対象: 成人
 - 不確実性：令和4年度改訂版の全文で確認した。令和7年度版の有無は未確認で、組み立て前に研究班サイトで再確認すること。参照ガイドの source_class は RC-051 と同じ理由で UNKNOWN とした。
-- 出典：特発性造血障害に関する調査研究班『発作性夜間ヘモグロビン尿症診療の参照ガイド 令和4年度改訂版』（2023年3月）（区分 UNKNOWN）
+- 出典：特発性造血障害に関する調査研究班『発作性夜間ヘモグロビン尿症診療の参照ガイド 令和4年度改訂版』（2023年3月）（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-1-D-③（発作性夜間ヘモグロビン尿症、b）　コアカリ：PS-02-02-05 (id: JkxnuPc)；TBL-01-00-005 (id: JlvnlXY)；TBL-02-01-013 (id: JlAKpWQ)；TBL-02-01-011 (id: JlAKpWI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-023&card_id=RC-023&version=39af4b744d)　（版 `39af4b744d`）
 
@@ -312,7 +312,7 @@
 
 - 条件：region: 日本／対象: 成人
 - 不確実性：令和4年度改訂版の全文で確認した。成因の割合は日本血液学会レジストリ 2012〜2019 年の 18 歳以上 1055 例の集計である。令和7年度版の有無は未確認で、組み立て前に研究班サイトで再確認すること。参照ガイドの source_class は RC-051 と同じ理由で UNKNOWN とした。
-- 出典：特発性造血障害に関する調査研究班『赤芽球癆診療の参照ガイド 令和4年度改訂版』（第7版、2023-01-16）（区分 UNKNOWN）
+- 出典：特発性造血障害に関する調査研究班『赤芽球癆診療の参照ガイド 令和4年度改訂版』（第7版、2023-01-16）（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-1-D-④（赤芽球癆、c）　コアカリ：PS-02-02-05 (id: JkxnuPc)；TBL-02-01-013 (id: JlAKpWQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-025&card_id=RC-025&version=6db8bab5b4)　（版 `6db8bab5b4`）
 

@@ -70,7 +70,7 @@
 
 - 条件：region: 日本／対象: 成人
 - 不確実性：溶血性貧血の診断基準は同ガイドの本文（UMIN 研究班ページの PDF 全文）で確認した。研究班資料のため source_class は GOV_JP の候補であり、登録側の最終判定を要する
-- 出典：特発性造血障害に関する調査研究班『自己免疫性溶血性貧血診療の参照ガイド 令和4年度改訂版』（2023年3月）（区分 UNKNOWN）
+- 出典：特発性造血障害に関する調査研究班『自己免疫性溶血性貧血診療の参照ガイド 令和4年度改訂版』（2023年3月）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-02-03 (id: JkxnuPU)；TBL-02-01-011 (id: JlAKpWI)；TBL-02-01-013 (id: JlAKpWQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BL-005&card_id=BL-005&version=8fb30c9000)　（版 `8fb30c9000`）
 
