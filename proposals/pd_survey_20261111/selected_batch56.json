@@ -1,0 +1,107 @@
+{
+ "A": [],
+ "B": [
+  {
+   "card": "AN-001",
+   "label": "OPEN、作り手の調査バッチ56 2026-11-13",
+   "text": "Liu X, Zhi H, Czosnyka M, et al. Advancing Hydrocephalus Management: Pathogenesis Insights, Therapeutic Innovations, and Emerging Challenges. Aging and Disease. 2024;17(1):185-225（CC BY、PMID 39908266、DOI 10.14336/AD.2024.1434、PMC12727080、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）は水頭症を「脳室系の能動的な拡張（active distension of the ventricular system）であり、髄液の産生・循環・吸収の不均衡から生じる」と定義し、閉塞性水頭症は脳室をつなぐ狭い開口部での髄液流の閉塞（出血後の凝血塊による中脳水道の閉塞など）で閉塞より上流が拡大すること、後天性は出血・感染に伴うことが多いことを明記する。数値の照合：数値なし（定義と機序）。カードの「炎症性調節障害」という表現そのものは候補にないが、炎症が吸収障害に関与する機序の記述はある。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典は Springer Nature の著作物（著者原稿が PMC にあるがライセンス表示なし）で、現行の RESTRICTED が正しい。マスター未登録の PMCID（PMC12091269）を補完候補に挙げた"
+  },
+  {
+   "card": "AN-002",
+   "label": "OPEN、作り手の調査バッチ56 2026-11-13",
+   "text": "Tang M, Chen G, Liu X, Liu Q, Yi B, Gao H. Advances in temporizing treatment strategies and associated complications for posthemorrhagic hydrocephalus in preterm infants. Frontiers in Pediatrics. 2026;14:1864101（CC BY、PMID 42598015、DOI 10.3389/fped.2026.1864101、PMC13470104、新規 SRC 候補）。裏づける部分：候補（CC BY、早産児の出血後水頭症の総説）は、乳児では頭囲の過度の増加（週14 mm以上、または平均2 mm/日以上）が頭蓋内圧亢進の臨床的現れとして介入判断に用いられることを明記し、乳児期の主な現れ方が頭囲の進行性の拡大である点を裏づける。数値の照合：数値の性質は異なる（候補は出血後水頭症での介入閾値）ため、数値の裏づけではなく現れ方の裏づけにとどまる。留保：「年長児では頭蓋内圧亢進の徴候・症状で発症する」という対比そのものを再述する自由な全文はなかった。裏づけ範囲は乳児側の現れ方に限る。候補は出典マスター未登録のため新規 SRC 登録候補。主出典については AN-001 の行を参照"
+  },
+  {
+   "card": "AN-003",
+   "label": "OPEN、作り手の調査バッチ56 2026-11-13",
+   "text": "Liu X, Zhi H, Czosnyka M, et al. Advancing Hydrocephalus Management: Pathogenesis Insights, Therapeutic Innovations, and Emerging Challenges. Aging and Disease. 2024;17(1):185-225（CC BY、PMID 39908266、DOI 10.14336/AD.2024.1434、PMC12727080、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、水頭症の外科治療の中心が髄液シャント術と内視鏡的第三脳室底開窓術（ETV）であること、ETV は主に閉塞性水頭症に用いられシャント依存を避けられること、ETV は脈絡叢焼灼術（CPC）としばしば併用されることが明記される。数値の照合：数値なし（治療の枠組み）。留保：候補が CPC 併用に触れる文脈は主に成人・正常圧水頭症であり、乳児での ETV+CPC の位置づけそのものの再述ではない。候補は出典マスター未登録のため新規 SRC 登録候補。主出典については AN-001 の行を参照"
+  },
+  {
+   "card": "AN-004",
+   "label": "OPEN、作り手の調査バッチ56 2026-11-13",
+   "text": "Yamada S, Ito H, Hagiwara K, et al. CT-based automatic segmentation of key CSF regions for detecting disproportionately enlarged subarachnoid space hydrocephalus. Fluids and Barriers of the CNS. 2026;23(1):83（CC BY、PMID 42337617、DOI 10.1186/s12987-026-00814-5、PMC13289119、新規 SRC 候補）。裏づける部分：候補（CC BY の研究論文）は、DESH を特発性正常圧水頭症に特徴的な画像所見と位置づけ、その構成（脳室拡大、シルビウス裂の拡大に伴う高位円蓋部のくも膜下腔の狭小化）を明記し、診断が日本の診療ガイドライン第3版に基づいて「DESH の存在と Hakim の三徴の少なくとも1症状」で行われたことを述べる。iNPH が治療可能な状態であることも明記される。数値の照合：数値なし（枠組みと定義）。留保：「シャント適応の判断における重要な役割」という点の逐条の再述は候補になく、裏づけは画像診断と第3版ガイドライン上の位置づけが中心。DESH の転帰予測能については否定的な前向き研究もあり、フラグに挙げた。候補は出典マスター未登録のため新規 SRC 登録候補。主出典自体は刊行版が CC BY-NC-ND 4.0 で自由利用にならず、現行の RESTRICTED が正しい。マスター未登録の PMCID（PMC7905302）と license_note の精密化候補を別枠に記録した"
+  },
+  {
+   "card": "AN-006",
+   "label": "OPEN、作り手の調査バッチ56 2026-11-13",
+   "text": "Sahuquillo J, Poca MA. To Shunt or Not to Shunt Patients with Idiopathic Normal Pressure Hydrocephalus? A Reappraisal of an Old Question. Journal of Clinical Medicine. 2020;9(12):4120（CC BY、PMID 33371211、DOI 10.3390/jcm9124120、PMC7766518、新規 SRC 候補）。裏づける部分：候補（CC BY の再評価論文）は SINPHONI-2 を日本の無作為化試験として詳述し、主要評価項目が「無作為化後3か月時点で modified Rankin Scale が1点以上改善すること」であったこと、改善は即時手術群で65%、手術延期群で5%にみられたことを逐条で再掲する。数値の照合：改善率65%対5%はカードと完全に一致する。分母（32/49、2/44）の再掲は候補にない。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典は Elsevier の著作物で、現行の RESTRICTED が正しい"
+  },
+  {
+   "card": "AN-007",
+   "label": "OPEN、作り手の調査バッチ56 2026-11-13",
+   "text": "Liu X, Zhi H, Czosnyka M, et al. Advancing Hydrocephalus Management: Pathogenesis Insights, Therapeutic Innovations, and Emerging Challenges. Aging and Disease. 2024;17(1):185-225（CC BY、PMID 39908266、DOI 10.14336/AD.2024.1434、PMC12727080、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、交通性水頭症は髄液吸収の低下と結びつき、髄膜炎などの感染や脳室内出血の後に血液分解産物がくも膜顆粒の機能を損ない吸収が障害されること、閉塞性（非交通性）と交通性の区別が髄液流の閉塞か吸収障害かに基づくことが明記される。数値の照合：数値なし（定義と機序）。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典については AN-001 の行を参照"
+  },
+  {
+   "card": "AN-008",
+   "label": "OPEN、作り手の調査バッチ56 2026-11-13",
+   "text": "Al-Murad BM, Radwan MA, Zaki IA, et al. Exploring Different Management Modalities of Nonsyndromic Craniosynostosis. Cureus. 2024;16(5):e60831（CC BY、PMID 38910614、DOI 10.7759/cureus.60831、PMC11190809、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、矢状縫合の癒合が舟状頭（boat-shaped deformity, scaphocephaly）と呼ばれる特徴的な変形をもたらすこと、位置的斜頭は真の後頭部斜頭（頭蓋縫合早期癒合）との鑑別が必要で前者は保存的に、後者は外科的に扱われること、早期の正確な診断と介入の重要性が明記される。数値の照合：数値なし（変形のパターンと鑑別・治療の枠組み）。留保：「変形のパターンから鑑別できる」という言い回しそのものは、候補では位置的斜頭との鑑別を要する点として示される。候補は出典マスター未登録のため新規 SRC 登録候補。主出典は Elsevier の著作物で、現行の RESTRICTED が正しい"
+  },
+  {
+   "card": "AN-009",
+   "label": "OPEN、作り手の調査バッチ56 2026-11-13",
+   "text": "Katouni K, Nikolaou A, Mariolis T, et al. Syndromic Craniosynostosis: A Comprehensive Review. Cureus. 2023;15(12):e50448（CC BY、PMID 38222144、DOI 10.7759/cureus.50448、PMC10785997、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、症候群性の頭蓋縫合早期癒合症の各症候群がいずれも常染色体優性遺伝であること、原因遺伝子として FGFR（FGFR2 など）・TWIST・EFNB1 が中心であることが明記され、遺伝形式と FGFR 経路の要素は裏づけられる。数値の照合：割合の数値は一致しない。カードは「約8%は家族性・症候群性」とするが、候補は「症候群性が全体の15〜30%を占める」と述べており、定義の取り方による幅がある（フラグ参照）。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典は Elsevier の著作物で、現行の RESTRICTED が正しい"
+  },
+  {
+   "card": "AN-012",
+   "label": "GOV_US、作り手の調査バッチ56 2026-11-13",
+   "text": "ClinicalTrials.gov 登録レコード NCT00060606（Management of Myelomeningocele Study (MOMS)）（GOV_US、新規 SRC 候補、結果セクション掲載あり）（GOV_US、https://clinicaltrials.gov/study/NCT00060606、新規 SRC 候補）。裏づける部分：MOMS 試験の登録レコードの結果セクションに、主要評価項目の複合アウトカム（生後1年までの死亡または脳室シャントの必要）が出生前手術群66/91例・出生後手術群90/92例と掲載され、30か月時点の発達指標（Bayley MDI と病変レベルの差の複合スコア 199.4 対 166.6）と、自立歩行できた児の数（39/87 対 21/88）も掲載され、運動機能の改善の方向が裏づけられる。数値の照合：登録の複合アウトカムは 66/91（約73%）対 90/92（約98%）で、論文の複合値（68%対98%）と分母の取り方が少し異なる。カードの核であるシャント留置率そのもの（82%→40%、相対リスク0.48）と後脳下垂（Chiari II型）の改善は、登録レコードの結果セクションに掲載がない。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典は著者原稿が PMC にあるがライセンス表示はなく、現行の RESTRICTED が正しい。マスター未登録の PMCID（PMC3770179）を補完候補に挙げた"
+  },
+  {
+   "card": "AN-014",
+   "label": "OPEN、作り手の調査バッチ56 2026-11-13",
+   "text": "Alhosani MS, Gachechiladze S. Chiari Malformation Type I: A Review of Pathophysiology, Cerebrospinal Fluid Flow Dynamics, Diagnosis, Surgical Management, and Its Relationship to Syringomyelia. Cureus. 2026;18(1):e101226（CC BY、PMID 41674734、DOI 10.7759/cureus.101226、PMC12888059、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、Chiari 奇形I型は小脳扁桃が大後頭孔を5 mm以上越えて下垂する異常であること、髄液流の閉塞と脳幹圧迫を生じること、後頭蓋窩減圧術の目的が脳幹と脊髄の圧迫解除・正常な髄液循環の回復であることが明記され、脊髄空洞との関係（髄液流の変化が空洞形成に寄与する）も詳述される。数値の照合：数値なし（定義と手術目標）。下垂の閾値5 mm は候補の記載で、カードには数値はない。留保：「脊髄空洞は Chiari 奇形に合併することが最も多い」という逐条の表現は候補に明示がなく、裏づけは定義・機序・手術目標が中心。候補は出典マスター未登録のため新規 SRC 登録候補。主出典は出版社の著作物で、現行の RESTRICTED が正しい"
+  },
+  {
+   "card": "AN-015",
+   "label": "OPEN、作り手の調査バッチ56 2026-11-13",
+   "text": "Martinelli R, Massimi L. Idiopathic Syringomyelia: A Systematic Scoping Review. Journal of Clinical Medicine. 2026;15(16):6216（CC BY、PMID 42652622、DOI 10.3390/jcm15166216、PMC13513870、新規 SRC 候補）。裏づける部分：候補（CC BY のスコーピングレビュー）は、原発性脊髄空洞症（primary spinal syringomyelia）を「同定できる原因による局所性・びまん性のくも膜下腔の閉塞に伴う空洞」と定義し、原因として外傷性・炎症性（感染後を含む）・出血性・圧迫性を挙げ、機序が Chiari 関連空洞と同種であること、治療が閉塞の解除（癒着剥離など）に向かうことを述べる。数値の照合：数値なし（定義と治療目標）。留保：カードの「変性」は候補の「圧迫性」にほぼ対応する。腫瘍に伴う空洞は、候補では特発性の除外項目として扱われ、原発性空洞の原因としては列挙されない。候補は出典マスター未登録のため新規 SRC 登録候補。主出典は出版社の著作物で、現行の RESTRICTED が正しい"
+  },
+  {
+   "card": "AN-018",
+   "label": "OPEN、作り手の調査バッチ56 2026-11-13",
+   "text": "Handrup MM, Aggerholm-Pedersen N, Thomasen SB, Olesen EH, Ejerskov C. Survival and prognosis of neurofibromatosis type 1-associated malignant peripheral nerve sheath tumours: a systematic review and meta-analysis. Orphanet Journal of Rare Diseases. 2026;21(1):307（CC BY、PMID 42310813、DOI 10.1186/s13023-026-04460-w、PMC13528161、新規 SRC 候補）。裏づける部分：候補（CC BY の系統的レビュー・メタ解析）に、神経線維腫症1型患者の悪性末梢神経鞘腫瘍の生涯リスクが8〜13%であること（一般人口の0.001%との対比付き）、散発例より有意に若く発症することが明記される。数値の照合：生涯リスク8〜13%はカードと完全に一致する。診断時年齢の中央値（26歳対62歳）は主出典（英国 North West 地域の登録研究）固有の値で、候補に逐条の再掲はない（候補の収載研究の中央値は別の値）。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典は PMC に全文があるがライセンス表示はなく、現行の RESTRICTED が正しい。マスター未登録の PMCID（PMC1735122）を補完候補に挙げた"
+  },
+  {
+   "card": "AN-019",
+   "label": "OPEN、作り手の調査バッチ56 2026-11-13",
+   "text": "Jurca AA, Jurca AD, Petchesi CD, et al. Tuberous Sclerosis Complex: New Insights into Pathogenesis and Therapeutic Breakthroughs. Life. 2025;15(3):368（CC BY、PMID 40141713、DOI 10.3390/life15030368、PMC11944049、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、2021年改訂の診断基準で「multiple cortical tubers and/or radial migration lines（多発皮質結節および/または放射状白質線状病変）」が取り入れられたこと、TAND（結節性硬化症関連神経精神障害）の概念とその対応の重要性、腎血管筋脂肪腫を含む多臓器病変が経過観察の対象であることが明記される。数値の照合：数値なし（基準の改訂内容）。留保：脳波異常の早期スクリーニングの要素は、候補ではてんかん管理の文脈にとどまり逐条の再述ではない。候補は出典マスター未登録のため新規 SRC 登録候補。主出典自体は刊行版が CC BY-NC-ND 4.0 で自由利用にならず、現行の RESTRICTED が正しい（マスターの license_note とも一致）"
+  },
+  {
+   "card": "AN-020",
+   "label": "GOV_US、作り手の調査バッチ56 2026-11-13",
+   "text": "ClinicalTrials.gov 登録レコード NCT00789828（EXIST-1）（GOV_US、新規 SRC 候補、結果セクション掲載あり）（GOV_US、https://clinicaltrials.gov/study/NCT00789828、新規 SRC 候補）。裏づける部分：EXIST-1 の登録レコードの結果セクションに、主要評価項目（SEGA の最良総合反応率）がエベロリムス群34.6%・プラセボ群0.0%と掲載される。数値の照合：反応率34.6%はカードの35%（27/78）と四捨五入の範囲で一致し、プラセボ群0%も一致する。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典は Elsevier の著作物で、現行の RESTRICTED が正しい"
+  },
+  {
+   "card": "AN-021",
+   "label": "GOV_US、作り手の調査バッチ56 2026-11-13",
+   "text": "ClinicalTrials.gov 登録レコード NCT01713946（EXIST-3）（GOV_US、新規 SRC 候補、結果セクション掲載あり）（GOV_US、https://clinicaltrials.gov/study/NCT01713946、新規 SRC 候補）。裏づける部分：EXIST-3 の登録レコードの結果セクションに、主要評価項目（発作頻度が50%以上減少した患者の割合、EMA 定義）が低曝露群28.2%・高曝露群40.0%・プラセボ群15.1%と掲載される。数値の照合：3群の反応率（28.2%、40.0%、15.1%）はカードと完全に一致する。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典は Europe PMC の個別レコードで CC BY-NC-ND の表示があり自由利用にならず、現行の RESTRICTED が正しい。license_note の精密化候補を別枠に記録した"
+  },
+  {
+   "card": "AN-022",
+   "label": "OPEN、作り手の調査バッチ56 2026-11-13",
+   "text": "Manney AB, Nemeth CL, Comi AM. In Vitro Models of Sturge-Weber Syndrome: Strengths, Limitations, and Future Goals. International Journal of Molecular Sciences. 2026;27(9):4100（CC BY、PMID 42123678、DOI 10.3390/ijms27094100、PMC13163291、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、Sturge-Weber 症候群の約88%が GNAQ の体細胞変異 c.548G>A（p.R183Q）によって生じること、この変異が胎生早期に生じて罹患組織にモザイク状に発現することが明記され、臨床的特徴（ポートワイン色斑、てんかん、脳卒中様エピソード、緑内障、知的障害）も表にまとめられる。数値の照合：88%という割合はカードの「罹患組織の88%（23/26）で検出」と一致する（候補は症例割合としての表現）。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典は著者原稿が PMC にあるがライセンス表示はなく、現行の RESTRICTED が正しい。マスター未登録の PMCID（PMC3749068）を補完候補に挙げた"
+  },
+  {
+   "card": "AN-025",
+   "label": "OPEN、作り手の調査バッチ56 2026-11-13",
+   "text": "Gonzalez-Fernandez MD, Jiménez-Gil K, Garcés-Ramírez L, et al. Epidemiological Surveillance of Genetically Determined Microcephaly in Latin America: A Narrative Review. Epidemiologia. 2025;6(3):37（CC BY、PMID 40700109、DOI 10.3390/epidemiologia6030037、PMC12285932、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、小頭症は後頭前頭頭囲が平均より2標準偏差を超えて小さいこと、3標準偏差を超えて小さい場合が重症と分類されることが明記され、カードの定義部分が裏づけられる。数値の照合：定義の閾値（−2 SD、重症 −3 SD）はカードと一致する。重症例で約80%・軽症例で約40%に画像異常がみられるという割合は主出典固有で、候補に再掲がなかった。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典は著者原稿が PMC にあるがライセンス表示はなく、現行の RESTRICTED が正しい。マスター未登録の PMCID（PMC2744281）を補完候補に挙げた。なお主出典は現行の PubMed・Europe PMC レコードで [RETIRED]（廃止）と表示されており、フラグに挙げた"
+  },
+  {
+   "card": "AN-027",
+   "label": "OPEN、作り手の調査バッチ56 2026-11-13",
+   "text": "Wang C, Jia Y, Ding X, et al. Applications of non-invasive brain stimulation in the treatment of children with cerebral palsy: a narrative review. Frontiers in Pediatrics. 2026;14:1867739（CC BY、PMID 43011579、DOI 10.3389/fped.2026.1867739、PMC13749036、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、脳性麻痺は発達期の脳の非進行性の障害に起因し、活動制限を伴う運動と姿勢の持続的な障害を中核とすること、国際的な合意として感覚・認知・コミュニケーション・行動の障害、てんかん、二次性の筋骨格系の問題をしばしば伴うことが明記され、2006年の定義の骨格が再述される。数値の照合：数値なし（定義）。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典は Wiley の著作物で、現行の RESTRICTED が正しい。主出典の DOI はマスター未登録で、補完候補を別枠に記録した"
+  },
+  {
+   "card": "AN-028",
+   "label": "OPEN、作り手の調査バッチ56 2026-11-13",
+   "text": "Skoutelis VC, Moutsiou R, Spanou M, et al. The Interrater Reliability of the Greek Expanded and Revised Gross Motor Function Classification System and the Family Report Questionnaire in Cerebral Palsy. Children. 2026;13(3):368（CC BY、PMID 41897081、DOI 10.3390/children13030368、PMC13025545、新規 SRC 候補）。裏づける部分：候補（CC BY の研究論文）に、GMFCS が粗大運動能力を5つのレベル（レベルI：制限なく歩行、レベルV：車椅子での搬送）に分類する標準化された分類システムであること、年齢帯ごとに記述されることが明記され、分類の枠組みが裏づけられる。数値の照合：5段階という枠組みは一致する。分類者間信頼性の κ 値（2歳未満0.55、2〜12歳0.75）は1997年の原著固有の値で、候補（ギリシャ語版 GMFCS-E&R の検証、全年齢の Fleiss κ は0.77）に逐条の再掲はなかった。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典は Wiley の著作物で、現行の RESTRICTED が正しい"
+  },
+  {
+   "card": "AN-029",
+   "label": "OPEN、作り手の調査バッチ56 2026-11-13",
+   "text": "Alghadier M, Alsuwayegh A. Efficacy of botulinum toxin type A for spasticity management and motor function in children with cerebral palsy: a systematic review and meta-analysis of randomized controlled trials. Frontiers in Neurology. 2026;17:1751493（CC BY、PMID 41809197、DOI 10.3389/fneur.2026.1751493、PMC12967947、新規 SRC 候補）。裏づける部分：候補（CC BY の系統的レビュー・メタ解析）に、痙縮が脳性麻痺児の最も多い運動表現型（約80%）であること、A 型ボツリヌス毒素が局所の化学的除神経により特定の筋群の痙縮を減らす第一選択の局所的介入として確立していることが明記される。数値の照合：痙縮が最も多いという点と第一選択という位置づけは候補と一致する。「高所得国で小児の身体障害の最も多い原因」という言い回しと、コクランレビューの収載数（31件の無作為化試験・1,508人）は候補に再掲がなかった。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典（コクランライブラリ）は PMC に全文があるがライセンス表示はなく、Crossref にもライセンスの登録がなく、現行の RESTRICTED が正しい。マスター未登録の PMCID（PMC6779591）を補完候補に挙げた"
+  }
+ ],
+ "rest_fix": {},
+ "open_fix": []
+}

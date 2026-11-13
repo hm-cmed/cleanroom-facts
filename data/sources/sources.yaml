@@ -18568,7 +18568,7 @@
   doi: 10.2176/nmc.st.2020-0292
   pmid: '33455998'
   pmcid: null
-  license_note: null
+  license_note: CC BY-NC-ND 4.0（作り手が Europe PMC の個別レコードで確認、2026-11-13）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
   source_class: RESTRICTED
@@ -18576,6 +18576,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md の出典マスター表から
+  - date: '2026-11-13'
+    by: claude-code
+    change: license_note を精密化（区分 RESTRICTED は変更なし、作り手の調査バッチ56）
 - id: SRC-1672
   legacy_id: null
   title: 'Höglinger GU, et al. Clinical diagnosis of progressive supranuclear palsy: The movement disorder society criteria. Mov Disord. 2017;32(6):853-864'
@@ -23167,7 +23170,7 @@
   doi: 10.1016/S0140-6736(16)31419-2
   pmid: '27613521'
   pmcid: null
-  license_note: The Lancet（Elsevier、CC表示なし）
+  license_note: Europe PMC の表示は CC BY-NC-ND（作り手の確認、2026-11-13。刊行版の表示は未確認）。旧記録：The Lancet（Elsevier、CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
   source_class: RESTRICTED
@@ -23175,6 +23178,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md の出典マスター表から
+  - date: '2026-11-13'
+    by: claude-code
+    change: license_note を精密化（区分 RESTRICTED は変更なし、作り手の調査バッチ56）
 - id: SRC-2005
   legacy_id: null
   title: Shirley MD, et al. Sturge-Weber syndrome and port-wine stains caused by somatic mutation in GNAQ. N Engl J Med. 2013;368(21):1971-1979
