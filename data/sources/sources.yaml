@@ -6667,7 +6667,7 @@
   doi: 10.1016/j.kint.2023.10.018
   pmid: '38490803'
   pmcid: null
-  license_note: 出版社の著作物（CC の表示なし）
+  license_note: CC BY-NC-ND 4.0（作り手が Crossref の version-of-record と Europe PMC で確認、2026-11-13）。旧記録：出版社の著作物（CC の表示なし）
   legacy_basis_tag: null
   legal_basis: B
   source_class: RESTRICTED
@@ -6675,6 +6675,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md の出典マスター表から
+  - date: '2026-11-13'
+    by: claude-code
+    change: license_note を精密化（区分 RESTRICTED は変更なし、作り手の調査バッチ55）
 - id: SRC-574
   legacy_id: null
   title: Rodriguez-Iturbe B, Musser JM. The current state of poststreptococcal glomerulonephritis. J Am Soc Nephrol. 2008;19(10):1855-1864
@@ -8263,7 +8266,7 @@
   doi: 10.1038/ki.2011.322
   pmid: '21918498'
   pmcid: null
-  license_note: Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
+  license_note: Elsevier の open-access user license 1.0 と TDM 用ライセンス（CC ではない。作り手が Crossref で確認、2026-11-13）。旧記録：Elsevier の TDM 用ライセンスのみ（Crossref の license 欄。CC の表示なし）
   legacy_basis_tag: null
   legal_basis: B
   source_class: RESTRICTED
@@ -8271,6 +8274,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/16_ku_b.md の出典マスター表から
+  - date: '2026-11-13'
+    by: claude-code
+    change: license_note を精密化（区分 RESTRICTED は変更なし、作り手の調査バッチ55）
 - id: SRC-687
   legacy_id: null
   title: Ludwig U, Keller F. Prophylaxis of Contrast-Induced Nephrotoxicity. Biomed Res Int. 2014;2014:308316

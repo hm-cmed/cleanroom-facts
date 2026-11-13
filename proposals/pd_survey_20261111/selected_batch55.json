@@ -1,0 +1,72 @@
+{
+ "A": [],
+ "B": [
+  {
+   "card": "KX-004",
+   "label": "OPEN、作り手の調査バッチ55 2026-11-13",
+   "text": "Jiraanankul V, Likitpanpisit P, Pattanasuwon T, Wiriyabanditkul W, Kanjanatarayon S, Binsri N, Siriboonrid S. Evaluating the Lower Urinary Tract Dysfunction Research Network Symptom Index-29 and SI-10 for Lower Urinary Tract Symptom Assessment Against with the International Prostate Symptom Score: A Cross-Cultural Validation and Agreement Study. Urology Research and Practice. 2026;52:1-7（CC BY、PMID 42381296、DOI 10.5152/tud.2026.26031、PMC13324903、新規 SRC 候補）。裏づける部分：IPSS の合計が0〜35点で、重症度が軽症（0〜7点）、中等症（8〜19点）、重症（20〜35点）の3区分であることが本文に明記される。数値の照合：区分の境界はカードの「7点を超えると中等症、19点を超えると重症」と一致する。留保：「3点以上の変化が臨床的に意味のある変化」という要素と、症状の聞き分け・前立腺肥大以外の原因・尿検査による評価の広がりは候補に再掲がなかった。候補は出典マスター未登録のため新規 SRC 登録候補。主出典（BMJ）は PMC 収載でもライセンス表示がなく、現行の RESTRICTED が正しい。マスター未登録の PMCID（PMC4688452）を補完候補に挙げた"
+  },
+  {
+   "card": "KX-006",
+   "label": "OPEN、作り手の調査バッチ55 2026-11-13",
+   "text": "Japanese Society of Nephrology. Essential points from Evidence-based Clinical Practice Guidelines for Chronic Kidney Disease 2018. Clinical and Experimental Nephrology. 2019;23(1):1-15（補助：Kaswa R, Meel S. Primary Health Care approach to managing chronic kidney disease. South African Family Practice. 2026;68(1):a6276）（CC BY、PMID 30506489、DOI 10.1007/s10157-018-1648-1、PMC6344397、新規 SRC 候補）。裏づける部分：主候補（日本腎臓学会 CKD 診療ガイドライン2018の要点、CC BY）は、CKD の重症度を原因・GFR 区分・蛋白尿／アルブミン尿の程度による CGA 分類で評価すること、CKD は腎障害の所見か GFR 低下が3か月を超えて続く状態と定義すること、アルブミン尿30 mg/gCr 以上が蛋白尿の証拠として重要であることを明記する。補助候補（CC BY）は GFR 区分 G1〜G5 とアルブミン尿区分 A1〜A3 と原因を組み合わせるステージング、3か月以上続く異常という定義、試験紙法によるスクリーニングを述べる。数値の照合：3か月という持続期間と、アルブミン尿の第1の境界（30 mg/g）とは両候補で裏づけられる。A2 と A3 の境界（300 mg/g）はどちらの候補にも明記がなかった。留保：主出典の刊行版ライセンスは CC BY-NC-ND 4.0 で自由利用にならず、現行の RESTRICTED が正しい（マスターの license_note の精密化候補として別枠に記録）。候補はいずれも出典マスター未登録のため新規 SRC 登録候補"
+  },
+  {
+   "card": "KX-008",
+   "label": "OPEN、作り手の調査バッチ55 2026-11-13",
+   "text": "Japanese Society of Nephrology. Essential points from Evidence-based Clinical Practice Guidelines for Chronic Kidney Disease 2018. Clinical and Experimental Nephrology. 2019;23(1):1-15（CC BY、PMID 30506489、DOI 10.1007/s10157-018-1648-1、PMC6344397、新規 SRC 候補）。裏づける部分：日本腎臓学会の CKD 診療ガイドライン2018の要点（CC BY）に、日本人に合わせて調整された推算式として「eGFR（mL/min/1.73 m²）＝194 × Cr^-1.094 × 年齢^-0.287（女性では ×0.739）」がそのまま明記され、血清クレアチニン値の用い方への注意も付される。数値の照合：推算式の係数（194、−1.094、−0.287、女性0.739）はカードと完全に一致する。留保：検証の数値（実測値の30%以内に収まる割合75%）と、IDMS-MDRD 式への係数0.808からの改訂経緯は候補に再掲がなかった。候補は出典マスター未登録のため新規 SRC 登録候補。主出典は Elsevier の TDM 用ライセンスのみで、現行の RESTRICTED が正しい"
+  },
+  {
+   "card": "KX-009",
+   "label": "OPEN、作り手の調査バッチ55 2026-11-13",
+   "text": "Kaswa R, Meel S. Primary Health Care approach to managing chronic kidney disease. South African Family Practice. 2026;68(1):a6276（CC BY、PMID 42240320、DOI 10.4102/safp.v68i1.6276、PMC13347958、新規 SRC 候補）。裏づける部分：クレアチニンの正確さに疑問がある状況（小さい体格、栄養不良、低蛋白食など）では、クレアチニンとシスタチン C の両方を取り込んだ推算式を用いることが勧められる、と本文に明記される。数値の照合：数値なし（推奨の内容そのもの）。留保：KDIGO 2024 の推奨1.1.2.1 という位置づけと推奨グレード1B、「まずクレアチニンに基づく eGFR を用いる」という順序の明示は候補に再掲がなかった。候補は出典マスター未登録のため新規 SRC 登録候補。主出典の区分については KX-006 の行と license_notes を参照"
+  },
+  {
+   "card": "KX-010",
+   "label": "OPEN、作り手の調査バッチ55 2026-11-13",
+   "text": "Ubara Y, Kawaguchi T, Nagasawa T, Miura K, Katsuno T, Morikawa T, Ishikawa E, Ogura M, Matsumura H, Kurayama R, Matsumoto S, Marui Y, Hara S, Maruyama S, Narita I, Okada H, Tsuruya K, Committee of Practical Guide for Kidney Biopsy 2020. Kidney biopsy guidebook 2020 in Japan. Clinical and Experimental Nephrology. 2021;25(4):325-364（CC BY、PMID 33606126、DOI 10.1007/s10157-020-01986-6、PMC7966701、新規 SRC 候補）。裏づける部分：国内の腎生検ガイドブック（CC BY）に、経皮的腎生検の相対的禁忌に当たる高リスク条件（単腎、萎縮腎など）の一覧と、適応の枠組み（糸球体性血尿と蛋白尿の組み合わせ、1 g/日を超える単独の蛋白尿など）が示され、日本の全国調査（2015〜2017年、成人15,657件）に基づく合併症の頻度（肉眼的血尿2.8%、赤血球輸血0.8%、腎動脈塞栓による止血0.2%、膀胱洗浄0.4%、死亡1件0.006%）が掲載される。数値の照合：合併症の頻度は、カードのメタ解析値（肉眼的血尿3.5%、輸血0.9%、処置を要したもの0.6%、腎摘出0.01%、死亡0.02%）とは別の集団（日本の全国調査）の値で、桁と順序はおおむね一致するが、数値そのものの再掲ではない。留保：「少量の蛋白尿だけでは通常は行わない」という線引きは、候補では適応の閾値（1 g/日超は適応側）の形で示される。候補は出典マスター未登録のため新規 SRC 登録候補。主出典は米国腎臓学会の著作物（PMC 収載でもライセンス表示なし）で、現行の RESTRICTED が正しい。マスター未登録の PMCID（PMC4741037）を補完候補に挙げた"
+  },
+  {
+   "card": "KX-011",
+   "label": "OPEN、作り手の調査バッチ55 2026-11-13",
+   "text": "Al-Shawi MM, Aljama NA, Aljedani R, Alsaleh MH, Atyia N, Alsedrah A, Albardi M. The Role of Radiological Imaging in the Diagnosis and Treatment of Urolithiasis: A Narrative Review. Cureus. 2022;14(12):e33041（補助：ClinicalTrials.gov 登録レコード NCT01451931、Study of Tomography of Nephrolithiasis Evaluation（STONE 試験）、結果セクション掲載あり）（CC BY、PMID 36589703、DOI 10.7759/cureus.33041、PMC9795962、新規 SRC 候補）。裏づける部分：主候補（CC BY の総説）に、単純 CT が結石検出の感度・特異度で最も高く（いずれも95%超）標準的な検査であること、超音波は CT に比べて感度・特異度で劣るが被ばくがなく初期検査として有用であること、単純 X 線（KUB）は結石検出の感度が限られ（45〜58%）経過観察や ESWL 前後の評価に向くこと、MRI（MRU）は被ばく回避の代替だが一般的でないことが明記される。補助候補は救急外来での超音波と CT の無作為化比較試験（STONE）の登録レコードで、結果セクションに高リスク診断と合併症、累積被ばく量などのアウトカムが掲載される。数値の照合：CT の感度・特異度（95%超、96%超）と KUB の感度（45〜58%）は候補の本文の値で、カードは数値を挙げていないため矛盾はない。留保：「救急外来の無作為化試験で診断の正確さが CT と同等」という言い回しそのものは主候補に再掲がなく、登録レコードの結果（安全性アウトカム）による間接的な裏づけにとどまる。候補はいずれも出典マスター未登録のため新規 SRC 登録候補。主出典は著者原稿の PMC 掲載でライセンス表示がなく、現行の RESTRICTED が正しい。マスター未登録の PMCID（PMC5443345）を補完候補に挙げた"
+  },
+  {
+   "card": "KX-015",
+   "label": "OPEN、作り手の調査バッチ55 2026-11-13",
+   "text": "Mirrakhimov AE, et al. The Role of Renal Replacement Therapy in the Management of Pharmacologic Poisonings. International Journal of Nephrology. 2016;2016:3047329（補助：Mégarbane B, et al. Management of pharmaceutical and recreational drug poisoning. Annals of Intensive Care. 2020;10(1):157）（CC BY、PMID 28042482、DOI 10.1155/2016/3047329、PMC5155094、新規 SRC 候補）。裏づける部分：主候補（CC BY の総説）に、中毒の体外除去で用いる手法が間欠的血液透析・持続的腎代替療法・血液潅流であること、間欠的血液透析は速い除去に優れる一方で終了後の濃度再上昇（リバウンド）が弱点であること、持続的腎代替療法は短時間の効率では劣るが長時間のクリアランスとリバウンド回避に利点があることが明記される。補助候補（CC BY）は、リチウム（血清濃度5 mmol/L 超など）とサリチル酸（1000 mg/L 超）での腎代替療法の適応を専門家の推奨として示し、代表的な除去対象の毒物像を裏づける。数値の照合：「体外除去が必要になるのは中毒全体の0.1%程度」と「持続的腎代替療法のクリアランスは間欠的手法より50〜80%低い」という2つの数値は、両候補に再掲がなかった（持続的手法が短時間の効率で劣るという方向は主候補と一致する）。留保：候補はいずれも出典マスター未登録のため新規 SRC 登録候補。主出典は CC BY-NC-SA 4.0 で自由利用にならず、現行の RESTRICTED が正しい。マスター未登録の PMCID（PMC6311976）を補完候補に挙げた"
+  },
+  {
+   "card": "KX-016",
+   "label": "OPEN、作り手の調査バッチ55 2026-11-13",
+   "text": "Keane DF, Raimann JG, Zhang H, Willetts J, Thijssen S, Kotanko P. The time of onset of intradialytic hypotension during a hemodialysis session associates with clinical parameters and mortality. Kidney International. 2021;99(6):1408-1417（補助：Chao CT, Huang JW, Yen CJ. Intradialytic hypotension and cardiac remodeling: a vicious cycle. BioMed Research International. 2015;2015:724147）（CC BY、PMID 33607178、DOI 10.1016/j.kint.2021.01.018、PMC8165353、新規 SRC 候補）。裏づける部分：主候補（CC BY の大規模コホート研究、米国の透析施設の785,682回・4,348人）は、透析中血圧低下を「収縮期血圧90 mmHg 以下」という最低血圧に基づく定義で捉え、発症のタイミングと臨床指標・死亡との関連を解析する。補助候補（CC BY の総説）は、過剰な除水が機序の中心であること、心筋のスタニング（気絶心筋）と心リモデリングを繰り返す血圧低下がもたらすこと、透析間体重増加を抑えることやナトリウム・除水のプロファイリングが予防の手段であることを述べる。数値の照合：最低収縮期血圧90 mmHg という定義の核は主候補と一致する。「全体の30%を超える回で90 mmHg 未満」という頻度の条件と、除水速度の閾値（10 mL/時/kg、13 mL/時/kg）は両候補に再掲がなかった。留保：候補はいずれも出典マスター未登録のため新規 SRC 登録候補。主出典は著者原稿の PMC 掲載でライセンス表示がなく、現行の RESTRICTED が正しい。マスター未登録の PMCID（PMC5738929）を補完候補に挙げた。なお透析中血圧低下の更新総説（Clinical Kidney Journal. 2020）は CC BY-NC で対象外だった"
+  },
+  {
+   "card": "KX-019",
+   "label": "OPEN、作り手の調査バッチ55 2026-11-13",
+   "text": "Aitken E, Anijeet H, Ashby D, Barrow W, Calder F, Dowds B, Fielding C, Gilbert J, Jones R, Karunanithy N, Khawaja Z, Roberts E, Robson M, Shroff R, Stacey H, Thomson P, Waters D. UK Kidney Association Clinical Practice Guideline on vascular access for haemodialysis. BMC Nephrology. 2025;26(1):461（CC BY、PMID 40813633、DOI 10.1186/s12882-025-04374-y、PMC12351868、新規 SRC 候補）。裏づける部分：英国腎臓学会のバスキュラーアクセス診療ガイドライン（CC BY）に、「適切なアクセスを、適切な患者に、適切な時期に」という考え方と、患者ごとに立てる「ライフプラン」の概念が KDOQI の枠組みとして明記され、多職種での代替案の検討も含まれる。合併症として狭窄と感染が主要な問題として扱われ、アクセス関連の菌血症には速やかな広域抗菌薬の静注が示される。成熟不全（maturation failure）と一次不全（primary failure）の概念も論じられる。数値の照合：KDOQI の成熟不全の定義（介入を行っても作製後6か月までに透析に使用できない場合）は候補に再掲がなかった（候補の一次不全は「一度も確実な透析アクセスとして機能しないこと」という別の定義である）。留保：感染時の抗菌薬の記載は候補では主にカテーテル関連菌血症を対象としており、カードの動静脈アクセス全般への言い方とは範囲が少し異なる。候補は出典マスター未登録のため新規 SRC 登録候補。主出典は学会ガイドライン（CC の表示なし）で、現行の RESTRICTED が正しい"
+  },
+  {
+   "card": "KX-020",
+   "label": "OPEN、作り手の調査バッチ55 2026-11-13",
+   "text": "Tanburoğlu DB, Günay E, Onan E, Torun D, Dede F, Çankaya E, Güngör Ö, Sarışık FN, Koçyiğit İ, Kılıç K, Atılgan KG, Yılmaz M, Sahutoğlu T, Polat M. Early Peritonitis Within the First Six Months and One-Year Mortality in Elderly Peritoneal Dialysis Patients: A Multicentre Retrospective Study. Medicina (Kaunas). 2026;62(9):1694（補助：Shih HM, Lin CJ, Lu YZ, Hsueh YW, Wu CJ, Pan CF. Risk factors for subsequent recurrent, relapsing, and repeat peritonitis in peritoneal dialysis. Clinical Kidney Journal. 2026;19(10):sfag352）（CC BY、PMID 42796301、DOI 10.3390/medicina62091694、PMC13609774、新規 SRC 候補）。裏づける部分：主候補（CC BY の多施設研究）の方法の定義に、ISPD ガイドラインに基づく腹膜炎の診断が「次の3項目のうち2つ以上を満たす場合」と明記される：(1) 腹膜炎に合致する臨床所見（腹痛や排液混濁）、(2) 少なくとも2時間貯留した後の排液白血球数100/µL 超で好中球50%超、(3) 排液培養陽性。補助候補（CC BY）も同じ2／3項目の枠組みで診断を定義する。数値の照合：排液白血球数100/µL 超、好中球50%超、2時間貯留という閾値は主候補に逐条で再掲され、カードと一致する。留保：施設の目標値（腹膜炎の発生率はリスク下の1年あたり0.40件以下、1年間に腹膜炎のない患者の割合は80%超）と、経験的治療はグラム陽性菌とグラム陰性菌の両方を対象に施設ごとに選ぶという点は、両候補に再掲がなかった。候補はいずれも出典マスター未登録のため新規 SRC 登録候補。主出典は CC BY-NC 4.0 で自由利用にならず、現行の RESTRICTED が正しい"
+  },
+  {
+   "card": "KX-022",
+   "label": "OPEN、作り手の調査バッチ55 2026-11-13",
+   "text": "Khan MA, Hanna A, Sridhara S, Chaudhari H, Me HM, Attieh RM, Abu Jawdeh BG. Maintenance Immunosuppression in Kidney Transplantation: A Review of the Current Status and Future Directions. Journal of Clinical Medicine. 2025;14(6):1821（CC BY、PMID 40142628、DOI 10.3390/jcm14061821、PMC11943253、新規 SRC 候補）。裏づける部分：維持免疫抑制の総説（CC BY）に、タクロリムスとミコフェノール酸の組み合わせが現代の維持療法の土台であること、導入療法ではインターロイキン2受容体拮抗薬（バシリキシマブ）が標準的に用いられ、高リスク患者ではウサギ抗胸腺細胞グロブリンなどのリンパ球除去薬が使われること、早期のステロイド中止は免疫学的リスクの低い患者で検討され、高リスクではステロイドを長期に続けることが述べられる。数値の照合：数値なし（レジメンの枠組み）。「移植後1週間以内にステロイドを中止できる場合がある」という時点の明示は候補になかった。留保：KDIGO の「第一選択として提案される」という推奨の言い回しそのものは候補に再掲がなく、現在の標準実践としての再述にとどまる。候補は出典マスター未登録のため新規 SRC 登録候補。主出典は CC BY-NC-ND 4.0 で自由利用にならず、現行の RESTRICTED が正しい"
+  },
+  {
+   "card": "KX-023",
+   "label": "OPEN、作り手の調査バッチ55 2026-11-13",
+   "text": "Ahlmark A, Ahopelto K, Räisänen-Sokolowski A, Lauronen J, Lempinen M, Sallinen V, Helanterä I. Findings and significance of early follow-up biopsies after treatment of acute rejection in kidney transplant recipients. Transplant International. 2026;39:16296（補助：Böhmig GA, Naesens M, Viklicky O, Thaunat O, Diebold M, Rostaing L, Budde K. Antibody-mediated rejection-treatment standard. Nephrology Dialysis Transplantation. 2025;40(8):1615-1627）（CC BY、PMID 42661735、DOI 10.3389/ti.2026.16296、PMC13518296、新規 SRC 候補）。裏づける部分：主候補（CC BY の追跡生検研究）に、生検で診断した T 細胞性拒絶反応（境界型を含む）はパルスステロイドで治療され、抗体関連型拒絶反応はステロイド・免疫グロブリン静注・血漿交換で治療されたことが明記される。補助候補（CC BY の治療標準の総説）は、早期の抗体関連型拒絶反応では血漿交換か免疫吸着による抗体除去が治療の軸で、高用量の免疫グロブリン静注を追加しうること、リツキシマブも選択肢として検討されてきたことを述べる。数値の照合：数値なし（治療の選択肢）。移植腎機能の発現が遅れている期間中の7〜10日ごとの生検という間隔は両候補に再掲がなかった。留保：「治療を大きく遅らせる場合を除き治療開始前に生検を行う」という進め方と、ステロイドに反応しない細胞性拒絶反応へのリンパ球除去抗体という段階づけは、候補に直接の再掲がなかった。補助候補はリツキシマブやステロイドの根拠を KDIGO 2009 より慎重に評価しており、この点はフラグに挙げた。候補はいずれも出典マスター未登録のため新規 SRC 登録候補。主出典は CC BY-NC-ND 4.0 で現行の RESTRICTED が正しい"
+  },
+  {
+   "card": "KX-031",
+   "label": "OPEN、作り手の調査バッチ55 2026-11-13",
+   "text": "Kant S, Dasgupta A, Bagnasco S, Brennan DC. BK Virus Nephropathy in Kidney Transplantation: A State-of-the-Art Review. Viruses. 2022;14(8):1616（CC BY、PMID 35893681、DOI 10.3390/v14081616、PMC9330039、新規 SRC 候補）。裏づける部分：BK ウイルスについて、KDIGO と米国移植感染症学会のガイドラインが、移植後最初の6か月は毎月、その後は3か月ごとに血漿のウイルス量でスクリーニングすることを勧めていること、血漿ウイルス量10,000コピー/mL 以上が BK ウイルス腎症の推定診断の目安になること、治療の基本が免疫抑制の減量であることが、総説（CC BY）に明記される。数値の照合：スクリーニングの間隔（毎月→3か月ごと）と閾値（10,000コピー/mL）はカードとおおむね一致する。ただしカードの「移植後1年が終わるまで」に対し、候補が引く推奨は「その後18か月間は3か月ごと」で、継続期間の終わりが異なる。またカードの「持続的に超える場合に減量」という条件の細部は候補に明示がない。留保：サイトメガロウイルスの予防（ドナー・レシピエント双方が陰性の場合を除き経口ガンシクロビルかバルガンシクロビルを少なくとも3か月、T細胞除去抗体による治療の後は6週間）については、調べた CC BY 全文に期間までの再掲がなかった。候補は出典マスター未登録のため新規 SRC 登録候補。主出典は CC BY-NC-ND 4.0 で現行の RESTRICTED が正しい"
+  }
+ ],
+ "rest_fix": {},
+ "open_fix": []
+}
