@@ -125,7 +125,7 @@
     url: https://doi.org/10.1038/s41572-019-0125-9
     source_license: ライセンス表示を確認できず（Crossref には TDM のライセンスのみ）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ30 2026-11-11）：NCI PDQ「Childhood Craniopharyngioma Treatment」（GOV_US、新規 SRC 登録候補）。裏づける部分と留保：組織学的に良性でまれな腫瘍であること、エナメル上皮腫型と乳頭型の2型の分類、エナメル上皮腫型では CTNNB1 の活性化変異が高頻度で主に嚢胞性（石灰化を伴う）であること、治療が手術と放射線治療の組み合わせであること、長期生存率が高いこと（小児で5年・10年生存率80〜90%以上）は PDQ 専門家版の全文で裏づけられる。対象外・両値：乳頭型の BRAF V600E、両型の年齢分布（二峰性5〜15歳・45〜60歳、乳頭型50〜60代）、頭蓋内圧亢進・視覚障害・内分泌機能低下という診断のきっかけ、視床下部性肥満は小児対象の PDQ の範囲では確認できなかった
   uncertainty: 年齢分布と遺伝子変異は出典の抄録で確認した。乳頭型に対する BRAF 阻害薬などの分子標的治療の位置づけや、国内の治療成績は本調査では確認していない。
   curriculum:
@@ -144,6 +144,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ30 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-874 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: EN-005
   domain: EN
   subdomain: 先端巨大症
@@ -303,7 +306,7 @@
     url: https://doi.org/10.1001/jama.2016.19699
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ30 2026-11-11）：NCI PDQ「Pituitary Tumors Treatment」（GOV_US、PMID 26389459、新規 SRC 登録候補）。裏づける部分と留保：プロラクチン産生腺腫が最頻であること、微小腺腫が多数を占めること、非機能性腺腫が約30〜35%（カードの15〜54%の範囲内）、ACTH 産生腺腫が2〜10%（カードの2〜6%を含む）という構成の骨格、MRI が画像評価の第一選択であること、ホルモンの過剰・欠落の評価と圧迫症状（頭痛・視野障害・下垂体機能低下）の確認という評価の進め方は PDQ 専門家版の全文で裏づけられる。対象外・両値：有病率は物差しが異なる（両値記録）。カードは臨床的に明らかな腺腫の有病率（成人865人に1人から2688人に1人）とし、PDQ は剖検・偶発例を含む全体推定有病率17%とする。GH 産生腺腫8〜16%・TSH 産生腺腫約1%と有病率の数値そのものは PDQ では裏づけられない
   uncertainty: 有病率と各腫瘍型の割合は出典の抄録で確認した（原著の集計範囲が広く、割合には幅がある）。2022年の WHO 分類（下垂体神経内分泌腫瘍 PitNET への改称を含む）との対応は本調査では確認しておらず、分類の最新動向は取り込み側で補完されたい。
   curriculum:
@@ -322,6 +325,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ30 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-877 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: EN-010
   domain: EN
   subdomain: 下垂体腫瘍
@@ -341,7 +347,7 @@
     url: https://doi.org/10.1001/jama.2016.19699
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ30 2026-11-11）：NCI PDQ「Pituitary Tumors Treatment」（GOV_US、PMID 26389459、新規 SRC 登録候補）。裏づける部分と留保：プロラクチノーマではドパミン作動薬（カベルゴリン・ブロモクリプチン）が第一選択で、新規診断例の90%超が奏効すること、手術は薬剤に耐えられない・反応しない場合に温存されること、それ以外の腺腫では手術が中心で薬物療法・放射線治療が追加されるという治療の骨格、圧迫症状のない非機能性腺腫の経過観察は PDQ 専門家版の全文で裏づけられる。対象外・両値：各腺腫型の薬物療法の詳細（選択順位・有効率）は対象外。ドパミン作動薬の国内承認はカード側で2026-10-31に再点検済みの記録があり、本調査の対象外
   uncertainty: 治療の原則は出典の抄録で確認した。各腺腫型の薬物療法の詳細（薬剤の選択順位や有効率）は抄録の範囲を超えるため主張文には入れていない。ドパミン作動薬など個別薬剤の国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】カベルゴリン（カバサール）は高プロラクチン血性下垂体腺腫等、ブロモクリプチン（パーロデル）は下垂体性プロラクチン分泌異常等の適応で承認済み。「ドパミン作動薬の承認・保険適用は未確認」は解消できる
   curriculum:
@@ -363,6 +369,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ30 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-877 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: EN-011
   domain: EN
   subdomain: Cushing病
@@ -697,7 +706,7 @@
     url: https://doi.org/10.1111/j.1365-2265.2010.03913.x
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 症候と初期対応の骨格は出典の抄録で確認した。ヒドロコルチゾンの投与量や手術のタイミングなど管理の詳細は抄録の範囲を超えるため入れていない。ヒドロコルチゾン製剤の国内承認・保険適用は一般的なものであるが、本調査では個別に確認していない。
   curriculum:
@@ -713,6 +722,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-884 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: EN-021
   domain: EN
   subdomain: Cushing症候群の診断

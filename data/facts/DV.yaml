@@ -53,7 +53,7 @@
     source_license: CC 表示なし（日本精神神経学会誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ68 2026-11-14）：Babiker R, Sami MM, Ahmed HK, Salama RA. Types and Diagnosis of Childhood Intellectual Disabilities: Advancing Accuracy for Better Outcomes. Children. 2025;12(12):1585（PMID: 41462726、DOI: 10.3390/children12121585、PMCID: PMC12732167、https://pmc.ncbi.nlm.nih.gov/articles/PMC12732167/）。裏づける部分：候補（CC BY 総説）が ICD-11 の知的発達症（Disorders of Intellectual Development、コード 6A00）について、知的機能と適応行動が平均より約2標準偏差以上低いことを定義とし、重症度は軽度・中等度・重度・最重度の4段階で、重症度の分類は IQ の数値単独ではなく適応機能に基づいて行われること、ICD-11 が暫定カテゴリーを導入したこと、評価にウェクスラー式知能検査と Vineland 適応行動尺度（Vineland-3）が用いられることを明記し、カードの中核と一致する。数値の照合：有病率は候補では一般集団の1〜3%という範囲で示され、カードの約1%はその下限側にとどまる。内訳（軽度85%・中等度10%・重度4%・最重度1〜2%）と男性に多い点は候補に再掲なし。留保：原典の WHO ICD-11 CDDR は CC BY-NC-SA 3.0 IGO で自由区分に当たらない。田中ビネー知能検査V は国内固有で再掲なし。主出典 SRC-3832 の区分は現行 RESTRICTED が正しい（国内学会誌、CC 表示なし）'
   uncertainty: 国内学会誌（精神神経学雑誌）の ICD-11 解説に基づく。原典は ICD-11 の臨床記述と診断要件（CDDR）であり、本稿はその日本語解説である。同誌は PubMed 未収載のため PMID は null とした。
   curriculum:
     kokushi: 医学各論 Ⅱ-5-A（知的障害<知的発達症><精神遅滞>、a）
@@ -68,6 +68,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ68 2026-11-14）。三原の承認（2026-11-11）による
 - id: DV-003
   domain: DV
   subdomain: 知的障害<知的発達症><精神遅滞>
@@ -192,8 +195,8 @@
     url: https://doi.org/10.1016/j.pediatrneurol.2007.12.008
     source_license: ライセンス表示を確認できなかった
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ68 2026-11-14）：Péter Z, Oliphant ME, Fernandez TV. Motor Stereotypies: A Pathophysiological Review. Front Neurosci. 2017;11:171（PMID: 28405185、DOI: 10.3389/fnins.2017.00171、PMCID: PMC5370241、https://pmc.ncbi.nlm.nih.gov/articles/PMC5370241/）。裏づける部分：候補（CC BY 総説）が主出典（Harris ら 2008）のコホートを明記して再掲する：定型発達の小児100例を平均6.8年追跡し、94%で常動運動が持続したこと、併存は注意欠如多動症30%・チック18%・強迫症状／強迫症10%、家族歴が陽性だったのは25%で、カードの主要な数値と一致する。数値の照合：100例・平均6.8年・94%・30%・18%・10%・25% は候補と一致。「5年を超えて持続したものが62%」と「完全に消失したのは6例のみ」は候補に再掲なし。留保：主出典 SRC-3836 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）。PMID の補完候補あり（補完候補の節参照）'
   uncertainty: 米国の単一施設（Johns Hopkins 系）の臨床コホートに基づく。出典のライセンス表示は Crossref のレート制限により照合を完了できなかったため、source_class は UNKNOWN とした。常動運動症に確立した薬物療法は示されておらず、本カードでは薬剤を扱っていない。
   curriculum:
     kokushi: 医学各論 Ⅱ-5-C-②（常動運動症<常動運動障害>、c）
@@ -208,6 +211,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3836 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ68 2026-11-14）。三原の承認（2026-11-11）による
 - id: DV-007
   domain: DV
   subdomain: 自閉スペクトラム症
@@ -228,7 +237,7 @@
     source_license: CC 表示なし（学会資料）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ68 2026-11-14）：Vanegas Navarro P, Apuy Rodríguez F, Arias Alvarado MJ, Chacón Quirós M. Early Diagnosis and Intervention for Autism Spectrum Disorder. Cureus. 2025;17(9):e89591（PMID: 40922883、DOI: 10.7759/cureus.89591、PMCID: PMC12414127、https://pmc.ncbi.nlm.nih.gov/articles/PMC12414127/）。裏づける部分：候補（CC BY 総説）が、中核領域は社会的コミュニケーション／対人相互作用と制限的・反復的行動の2領域であること、応用行動分析に基づく早期の集中的行動介入が支援の中心の一つであること、易刺激性に対してリスペリドンとアリピプラゾールが承認された薬剤であること（候補の記載は米国 FDA の承認）を明記する。数値の照合：有病率は候補では世界で0.5〜1%とされ、カードの約1〜2%と一致しない。男女比2〜4対1と遺伝率70〜90%は候補に再掲なし。留保：カードの薬剤の主張は国内承認・保険適用であり、候補の FDA 承認は法域が異なり国内承認の裏づけにはならない。DSM-5-TR の診断基準 A〜E の構成、診断は環境調整・ペアレントトレーニング・TEACCH 等の支援が中心である点も再掲なし。候補は Cureus の総説で裏づけの水準に限りがある。主出典 SRC-3837 の区分は現行 RESTRICTED が正しい（学会資料、CC 表示なし）'
   uncertainty: 本出典は診療ガイドラインではなく、日本小児精神神経学会 移行期支援委員会による移行期診療の整理資料（日本小児科学会ウェブサイト掲載）である。リスペリドン・アリピプラゾールの国内適応は中核症状ではなく易刺激性に対するものである。睡眠障害に用いられるメラトニン製剤の添付文書上の効能・対象年齢は個別に照合していないため、本カードでは扱っていない。
   curriculum:
     kokushi: 医学各論 Ⅱ-5-D（自閉スペクトラム症、a）
@@ -243,6 +252,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ68 2026-11-14）。三原の承認（2026-11-11）による
 - id: DV-008
   domain: DV
   subdomain: 自閉スペクトラム症
@@ -263,7 +275,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ68 2026-11-14）：Baio J, Wiggins L, Christensen DL, et al. Prevalence of Autism Spectrum Disorder Among Children Aged 8 Years — Autism and Developmental Disabilities Monitoring Network, 11 Sites, United States, 2014. MMWR Surveill Summ. 2018;67(6):1-23（PMID: 29701730、DOI: 10.15585/mmwr.ss6706a1、PMCID: PMC5919599、https://pmc.ncbi.nlm.nih.gov/articles/PMC5919599/）。裏づける部分：候補（CDC の政府報告書、ADDM ネットワークの2014年データ）が、8歳児の自閉スペクトラム症有病率を16.8/1,000（59人に1人、約1.7%）と記録し、カードの有病率と一致する。これは主出典（AAP 臨床報告）が引用する値そのものである。数値の照合：16.8/1,000＝59人に1人≒1.7% でカードと一致。留保：18か月で診断可能であること、18か月と24か月での標準化スクリーニングと発達サーベイランスの推奨、併存しやすい状態（睡眠・摂食の問題、消化器症状、肥満、てんかん、注意欠如多動症、不安、徘徊）の列挙、2つの中核領域は候補に再掲なし。主出典 SRC-3838 の区分は現行 RESTRICTED が正しい（AAP、Europe PMC で非 OA）。PMID の補完候補あり（補完候補の節参照）'
   uncertainty: 米国の臨床報告に基づく内容であり、日本の乳幼児健診・療育体制とは枠組みが異なる。有病率は米国の報告時点の値である。出典は購読誌（Pediatrics）のため、登録時の決定により source_class は RESTRICTED とした。
   curriculum:
     kokushi: 医学各論 Ⅱ-5-D（自閉スペクトラム症、a）
@@ -278,6 +290,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ68 2026-11-14）。三原の承認（2026-11-11）による
 - id: DV-009
   domain: DV
   subdomain: 自閉スペクトラム症
@@ -333,7 +348,7 @@
     source_license: CC 表示なし（学会資料）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ68 2026-11-14）：Centers for Disease Control and Prevention（米国疾病予防管理センター）. Clinical Care of ADHD in Children（医療者向けページ、2026-10-21 更新）（https://www.cdc.gov/adhd/hcp/clinical-care/index.html）。裏づける部分：候補（CDC の医療者向け政府ページ）が DSM-5-TR の診断基準を要約形で明記する：不注意および／または多動・衝動性が9項目中6つ以上（16歳以下）、6か月以上の持続、12歳以前からの存在、2つ以上の状況での出現、社会的・学業的機能の低下、他の精神疾患では説明できないこと、の全要素がカードの診断基準 A〜E と一致する。数値の照合：基準の数値要素（6つ以上・6か月以上・12歳以前・2つ以上）は候補と一致。小児期の有病率約5%は候補に再掲なし。留保：治療・支援の枠組み（心理社会的治療から開始すること、国内で使える4剤と処方できる医師の範囲、ADHD 適正流通管理システム）は国内固有で候補に再掲なし（4剤の構成そのものは DV-022 の候補で確認）。主出典 SRC-3840 の区分は現行 RESTRICTED が正しい（学会資料、CC 表示なし）
   uncertainty: 本出典は診療ガイドラインではなく、日本小児精神神経学会 移行期支援委員会による移行期診療の整理資料（日本小児科学会ウェブサイト掲載）である。国内ガイドライン第5版（2022年、じほう）の治療の流れも、環境調整や心理社会的治療から開始し効果不十分な場合に薬物療法を併施する段階的治療であり、本資料の整理と一致する。4剤はいずれも国内承認・保険適用が確認されており、効能表記は「注意欠陥／多動性障害（AD/HD）」である。リスデキサンフェタミンの適応は小児期のみで、成人適応はない。グアンファシンの成人用法の記載は企業資料経由で確認したもので、添付文書そのものの直接照合は未実施である。
   curriculum:
     kokushi: 医学各論 Ⅱ-5-E（注意欠如多動性障害<注意欠如多動症><ADHD>、a）
@@ -348,6 +363,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ68 2026-11-14）。三原の承認（2026-11-11）による
 - id: DV-011
   domain: DV
   subdomain: 注意欠如多動性障害<注意欠如多動症><ADHD>
@@ -368,7 +386,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ68 2026-11-14）：Centers for Disease Control and Prevention（米国疾病予防管理センター）. Clinical Care of ADHD in Children（医療者向けページ、2026-10-21 更新）（https://www.cdc.gov/adhd/hcp/clinical-care/index.html）。裏づける部分：候補（CDC の医療者向け政府ページ）が主出典（AAP 診療ガイドライン、Wolraich ら 2019）を引用し、その評価手順として、学業・行動上の問題のある4歳から18歳の小児・青年を評価すること、保護者・学校職員・関係者からの情報を得ること、評価尺度を用いること、他の病態を除外すること、併存する状態（情緒・行動・発達・身体）をスクリーニングすることを明記しており、カードの対象範囲（4〜18歳）と併存症への着目と一致する。数値の照合：対象年齢4〜18歳は候補と一致。留保：「2011年版からの改訂は漸進的」「併存症の診断・治療に関する key action statement が新たに追加された」という改訂経緯そのものは候補に再掲なし。主出典自体は PMC に著者稿（PMC7067282）があるがライセンス表示がなく自由区分に当たらない。主出典 SRC-3841 の区分は現行 RESTRICTED が正しい（AAP、Europe PMC で非 OA）。PMID・PMCID の補完候補あり（補完候補の節参照）
   uncertainty: 米国のガイドラインであり、日本の処方枠組み（ADHD 適正流通管理システム等）とは異なる。主張は抄録で確認した範囲に限る。出典は購読誌（Pediatrics）のため、登録時の決定により source_class は RESTRICTED とした。
   curriculum:
     kokushi: 医学各論 Ⅱ-5-E（注意欠如多動性障害<注意欠如多動症><ADHD>、a）
@@ -383,6 +401,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ68 2026-11-14）。三原の承認（2026-11-11）による
 - id: DV-012
   domain: DV
   subdomain: 注意欠如多動性障害<注意欠如多動症><ADHD>
@@ -438,7 +459,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ68 2026-11-14）：Pinchess C, Pauli R, Tully J. Knowledge and attitudes about conduct disorder of professionals working with young people: The influence of occupation and direct and indirect experience. PLoS One. 2023;18(9):e0292271（PMID: 37768972、DOI: 10.1371/journal.pone.0292271、PMCID: PMC10538712、https://pmc.ncbi.nlm.nih.gov/articles/PMC10538712/）。裏づける部分：候補（CC BY の調査研究）の序文が素行障害について、全世界の有病率、男児は女児の約2倍であること、約50%が成人期に反社会性パーソナリティ障害へ進展すること、DSM-5 の limited prosocial emotions（情動の乏しさや罪悪感の欠如等）の特定項目を明記し、カードの骨格と一致する。数値の照合：有病率は候補では2〜2.5%で、カードの約3%と厳密には一致しない。男女比（約2倍）と反社会性パーソナリティ障害への進展（約50%）は候補と整合する。留保：発症時期による小児期発症型／青年期発症型の区別、注意欠如多動症との併存の多さ、管理の中心は保護者ベース／家族ベースの心理社会的介入であることは候補に再掲なし。候補は専門家調査の序文による総説的記述で、裏づけの水準は限定的。主出典 SRC-3843 の区分は現行 RESTRICTED が正しい（Springer Nature、Crossref は TDM リンクのみ）。PMID の補完候補あり（補完候補の節参照）'
   uncertainty: 本項目は素行障害と反抗挑発症の併記項目だが、本出典は素行障害を主題としており、反抗挑発症単独の疫学・診断を扱う一次資料は乏しい。素行障害そのものを適応とする国内承認薬は確認しておらず、薬剤が用いられるのは主に併存する注意欠如多動症などに対してである。
   curriculum:
     kokushi: 医学各論 Ⅱ-5-F-①（素行障害<素行・非社会的行動症><行為障害>、反抗挑発症、b）
@@ -453,6 +474,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ68 2026-11-14）。三原の承認（2026-11-11）による
 - id: DV-014
   domain: DV
   subdomain: 素行障害<素行・非社会的行動症><行為障害>、反抗挑発症
@@ -508,7 +532,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ68 2026-11-14）：Kleinheinrich J, Vogel F. What Can We Learn from the Previous Research on the Symptoms of Selective Mutism? A Systematic Review. Behav Sci. 2025;15(11):1485（PMID: 41301287、DOI: 10.3390/bs15111485、PMCID: PMC12649584、https://pmc.ncbi.nlm.nih.gov/articles/PMC12649584/）。裏づける部分：候補（CC BY の系統的レビュー）が、場面緘黙は話すことが期待される社会的場面（学校等）では一貫して話すことができない一方で、他の文脈（家庭等）では話すことができることを明記し、時点有病率0.03〜1%という比較的まれな障害であること、DSM-5 で不安症群に再分類されたことを主出典（Muris & Ollendick 2015）を引用して明記しており、カードの主張と一致する。数値の照合：時点有病率0.03〜1% は、カードの「比較的まれな小児期の障害」という記述と整合する。留保：候補は不安症としての概念化には異論もあることに触れているが、DSM-5 での不安症群への再分類の事実と不安が中核である点はカードと一致する。主出典 SRC-3845 の区分は現行 RESTRICTED が正しい（Springer、Crossref は TDM リンクのみ）。PMID の補完候補あり（補完候補の節参照）'
   uncertainty: 場面緘黙を適応とする国内承認薬は確認していない。治療の中心は認知行動療法などの心理社会的介入とされ、薬物療法は本総説の中心ではない。
   curriculum:
     kokushi: 医学各論 Ⅱ-5-G（場面緘黙、c）
@@ -523,6 +547,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ68 2026-11-14）。三原の承認（2026-11-11）による
 - id: DV-016
   domain: DV
   subdomain: Tourette障害<Tourette症>
@@ -578,7 +605,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ68 2026-11-14）：Yan J, Deng H, Wang Y, et al. The Prevalence and Comorbidity of Tic Disorders and Obsessive-Compulsive Disorder in Chinese School Students Aged 6-16: A National Survey. Brain Sci. 2022;12(5):650（PMID: 35625036、DOI: 10.3390/brainsci12050650、PMCID: PMC9139904、https://pmc.ncbi.nlm.nih.gov/articles/PMC9139904/）。裏づける部分：候補（CC BY の全国調査）が主出典（Knight ら 2012）の統合値を明記して再掲する：一過性チック症2.99%（95%信頼区間 1.60〜5.61%）、Tourette症候群0.77%（同 0.39〜1.51%）で、カードの値・信頼区間と一致する。数値の照合：2.99%・0.77% と各信頼区間は候補と一致。Tourette症候群の性別値（男児1.06%・女児0.25%）と成人の Tourette症候群の有病率0.05%は候補に再掲なし。留保：主出典 SRC-3847 の区分は現行 RESTRICTED が正しい（Elsevier、Crossref は TDM リンクのみ）。PMID の補完候補あり（補完候補の節参照）'
   uncertainty: 対象期間の古い研究を含むメタ解析である。Tourette症候群については2026年公表の新しい総説もあり、本カードの数値は本メタ解析の対象範囲に基づく。
   curriculum:
     kokushi: 医学各論 Ⅱ-5-H-①（Tourette障害<Tourette症>、c）
@@ -593,6 +620,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ68 2026-11-14）。三原の承認（2026-11-11）による
 - id: DV-018
   domain: DV
   subdomain: 小児期発症流暢症<小児期発症流暢障害（吃音）>
@@ -613,7 +643,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ68 2026-11-14）：Sato Y, Aoki M, Miyamoto S, Iimura D. The Family History of Developmental Stuttering: A Scoping Review. Int J Lang Commun Disord. 2026;61(5):e70323（PMID: 42671853、DOI: 10.1111/1460-6984.70323、PMCID: PMC13528779、https://pmc.ncbi.nlm.nih.gov/articles/PMC13528779/）。裏づける部分：候補（CC BY のスコーピングレビュー）が、吃音の発生は2〜5歳の時期に集中し発生率は5%を超えること、発症後3年以内に60〜80%が自然回復することを明記し、カードの「発症リスクの大部分は5歳までに過ぎる」「縦断研究は自然回復率が高いことを支持している」と整合する。数値の照合：発生率5%超と自然回復60〜80%は候補に記載がある。一方、候補の有病率は学齢期以降で「1%を超える」としており、カードの「生涯を通じた平均有病率は従来の1%という値より低い可能性がある」とは向きが異なる。持続型と回復型の亜型の区別は候補に明示なし。留保：カードの主張は主出典（Yairi & Ambrose 2013）による従来推定の再検討であり、候補による裏づけは発生と自然回復の骨格にとどまる。主出典 SRC-3848 の区分は現行 RESTRICTED が正しい（Elsevier、Crossref は TDM リンクのみ。PMC 収載分 PMC3687212 は著者稿でライセンス表示なし）。PMID・PMCID の補完候補あり（補完候補の節参照）'
   uncertainty: 総説による疫学の整理であり、数値はいずれも従来の推定との比較として示されたものである。治療の中心は言語聴覚療法であり、薬物療法の位置づけはない。
   curriculum:
     kokushi: 医学各論 Ⅱ-5-I-①（小児期発症流暢症<小児期発症流暢障害（吃音）>、c）
@@ -628,6 +658,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ68 2026-11-14）。三原の承認（2026-11-11）による
 - id: DV-019
   domain: DV
   subdomain: 反応性アタッチメント症<反応性愛着障害>
@@ -648,7 +681,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ68 2026-11-14）：Irfan N, Nair A, Bhaskaran J, et al. Review of the Current Knowledge of Reactive Attachment Disorder. Cureus. 2022;14(11):e31318（PMID: 36514636、DOI: 10.7759/cureus.31318、PMCID: PMC9736782、https://pmc.ncbi.nlm.nih.gov/articles/PMC9736782/）。裏づける部分：候補（CC BY 総説）が、反応性アタッチメント症は家族的・社会的ネグレクトないしマルトリートメントによるもので、成人養育者に対する抑制的で引きこもった社会的・感情的行動を特徴とし、施設養護が危険因子であること、介入は養育者への信頼の回復と愛着関係の改善を目指すことを明記し、カードの定義の文脈と治療の中心と整合する。数値の照合：数値なし。留保：AACAP の Practice Parameter（2016年）そのものへの言及と、「評価では主たる養育者との関係の文脈の中で子どもを直接観察することが必要」という評価要件は候補に再掲なし。候補は Cureus の総説で裏づけの水準に限りがある。主出典 SRC-3849 の区分は現行 RESTRICTED が正しい（Elsevier、Crossref は TDM リンクのみ）。PMID の補完候補あり（補完候補の節参照）'
   uncertainty: 本 Parameter は反応性アタッチメント症と脱抑制性対人交流症を一体で扱うもので、本カードは反応性アタッチメント症側の記述を中心に取り上げた。両障害に特異的な薬物療法は示されておらず、治療の中心は養育環境と愛着関係への介入である。
   curriculum:
     kokushi: 医学各論 Ⅱ-5-J-①（反応性アタッチメント症<反応性愛着障害>、c）
@@ -663,6 +696,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ68 2026-11-14）。三原の承認（2026-11-11）による
 - id: DV-020
   domain: DV
   subdomain: 脱抑制性対人交流症<脱抑制型対人交流障害>
@@ -718,7 +754,7 @@
     source_license: CC 表示なし（書籍）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ68 2026-11-14）：Centers for Disease Control and Prevention（米国疾病予防管理センター）. Clinical Care of ADHD in Children（医療者向けページ、2026-10-21 更新）（https://www.cdc.gov/adhd/hcp/clinical-care/index.html）。裏づける部分：候補（CDC の医療者向け政府ページ）が DSM-5-TR の診断基準の要約（9項目中6つ以上、6か月以上の持続、12歳以前からの存在、2つ以上の状況での出現、機能障害、他の病態では説明できないこと）と評価手順（保護者・学校職員等からの情報収集、評価尺度の使用、他の病態の除外、併存状態のスクリーニング）を明記し、国内ガイドライン第5版の診断の枠組み（症状の数、6か月以上の持続、12歳以前からの存在、家庭や学校など2つ以上の状況での出現、社会的・学業的機能の障害を確認し、生育歴・発達歴の聴取と学校などからの情報をあわせ、他の病態を除外しながら総合的に行う）と一致する。数値の照合：基準の数値要素（6つ以上・6か月以上・12歳以前・2つ以上）は候補と一致。留保：国内ガイドライン第5版そのものへの言及は候補になく、裏づけは DSM-5 に準拠した診断の枠組みの部分に限る。主出典 SRC-4445 の区分は現行 RESTRICTED が正しい（書籍、CC 表示なし）。DV-022 と同一出典
   uncertainty: 本カードは書籍本文を直接確認できていない。書誌は出版社のページ、CiNii 書誌、国立国会図書館サーチで照合し、診断の枠組みは、日本小児精神神経学会の公開資料（同ガイドラインを参考文献に挙げ、DSM の基準に準じた診断手順を示すもの）で実際に確認できた範囲に限った。評価尺度の個別の推奨や診断手順の細部は本文未確認のため含めていない。既存の DV-010 は DSM-5-TR の診断基準 A〜E の項目そのものを扱っており、本カードは国内ガイドラインの枠組みを示すもので、一部に重なりがある。
   curriculum:
     kokushi: 医学各論 Ⅱ-5-E（注意欠如多動性障害<注意欠如多動症><ADHD>、a）
@@ -733,6 +769,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ68 2026-11-14）。三原の承認（2026-11-11）による
 - id: DV-022
   domain: DV
   subdomain: 注意欠如多動性障害<注意欠如多動症><ADHD>
@@ -753,7 +792,7 @@
     source_license: CC 表示なし（書籍）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ68 2026-11-14）：Suzuki R, Kumazawa R, Miyoshi T, et al. Prescribing medications for attention-deficit/hyperactivity disorder in children: a retrospective analysis of a Japanese health insurance claims database. BMC Psychiatry. 2026;26:525（PMID: 42135792、DOI: 10.1186/s12888-026-08147-1、PMCID: PMC13348584、https://pmc.ncbi.nlm.nih.gov/articles/PMC13348584/）。裏づける部分：候補（CC BY の国内健康保険請求データベース研究）が、日本のガイドラインが挙げる ADHD 治療薬として OROS メチルフェニデート、アトモキセチン、グアンファシン、リスデキサンフェタミンの4剤を明記し、国内の処方実態の集計もこの4剤で行っており、カードの4剤と一致する。数値の照合：4剤の構成は候補と一致。留保：心理社会的治療から開始することが原則である点と、メチルフェニデート徐放錠とリスデキサンフェタミンは ADHD 適正流通管理システムに登録した医師のみが処方できる点は候補に再掲なし。主出典 SRC-4445 は DV-021 と同一出典で、区分は現行 RESTRICTED が正しい（書籍、CC 表示なし）'
   uncertainty: メチルフェニデート徐放錠、アトモキセチン、グアンファシン塩酸塩徐放錠、リスデキサンフェタミンはいずれも国内で注意欠如・多動症を適応として承認され、保険適用がある。このうちメチルフェニデート徐放錠とリスデキサンフェタミンは、ADHD 適正流通管理システムに登録した医師のみが処方できる。年齢による適応の範囲は薬剤ごとに異なるが、個別の年齢適応は本カードでは確認していない。本カードは書籍本文を直接確認できておらず、治療の枠組みは学会の公開資料で実際に確認できた範囲に限る。
   curriculum:
     kokushi: 医学各論 Ⅱ-5-E（注意欠如多動性障害<注意欠如多動症><ADHD>、a）
@@ -768,3 +807,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ68 2026-11-14）。三原の承認（2026-11-11）による

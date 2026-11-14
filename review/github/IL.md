@@ -170,7 +170,7 @@
 
 - 条件：region: 国際／guideline: ACR/EULAR 2022 分類基準
 - 不確実性：表から読み取り（米国リウマチ学会掲載の基準の PDF）。分類基準は研究対象の均質化のためのもので、個々の患者の診断基準ではない。日本の厚生労働省研究班の診断基準とは別物。
-- 出典：Robson JC, Grayson PC, Ponte C, et al. 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology classification criteria for granulomatosis with polyangiitis. Arthritis Rheumatol 2022;74(3):393-399　[DOI 10.1002/art.41986](https://doi.org/10.1002/art.41986)（区分 UNKNOWN）
+- 出典：Robson JC, Grayson PC, Ponte C, et al. 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology classification criteria for granulomatosis with polyangiitis. Arthritis Rheumatol 2022;74(3):393-399　[DOI 10.1002/art.41986](https://doi.org/10.1002/art.41986)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-3-B-④（多発血管炎性肉芽腫症、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-570 (id: JlvnmWg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-014&card_id=IL-014&version=3fc1e94aed)　（版 `3fc1e94aed`）
 
@@ -187,7 +187,7 @@
 - 条件：region: 国際／guideline: ACR/EULAR 2022 分類基準
 - よくある誤解：顕微鏡的多発血管炎の肺病変は肺胞出血だけで、間質性肺炎は伴わない
 - 不確実性：表から読み取り（UWE リポジトリ掲載の図）。書誌（雑誌名・巻・頁・DOI）は掲載ファイルに記載がなく未確認。
-- 出典：Suppiah R, Robson JC, Grayson PC, et al. 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology classification criteria for microscopic polyangiitis　[リンク](https://uwe-repository.worktribe.com/index.php/OutputFile/7438087)（区分 UNKNOWN）
+- 出典：Suppiah R, Robson JC, Grayson PC, et al. 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology classification criteria for microscopic polyangiitis　[リンク](https://uwe-repository.worktribe.com/index.php/OutputFile/7438087)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-3-B-③（顕微鏡的多発血管炎、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-569 (id: JlvnmWY)；TBL-01-00-219 (id: Jlvnlyc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-015&card_id=IL-015&version=2a1c088372)　（版 `2a1c088372`）
 

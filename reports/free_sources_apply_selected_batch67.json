@@ -1,0 +1,67 @@
+{
+ "class": [
+  [
+   "SRC-2946",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-421",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-2948",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-420",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-2951",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-2953",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-2954",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-2955",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-597",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [],
+ "B": [
+  "VA-001",
+  "VA-003",
+  "VA-004",
+  "VA-005",
+  "VA-006",
+  "VA-008",
+  "VA-009",
+  "VA-011",
+  "VA-014",
+  "VA-015",
+  "VA-016",
+  "VA-017",
+  "VA-018",
+  "VA-019"
+ ],
+ "new_src": []
+}

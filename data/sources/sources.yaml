@@ -4954,14 +4954,17 @@
   doi: 10.1002/art.41986
   pmid: null
   pmcid: null
-  license_note: 未確認
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ67）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-421
   legacy_id: null
   title: Suppiah R, Robson JC, Grayson PC, et al. 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology classification criteria for microscopic polyangiitis
@@ -4969,14 +4972,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 未確認
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ67）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-422
   legacy_id: null
   title: Grayson PC, Ponte C, Suppiah R, et al. 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology classification criteria for eosinophilic granulomatosis with polyangiitis. Ann Rheum Dis 2022;81:309-314
@@ -7042,14 +7048,17 @@
   doi: 10.1097/MD.0b013e31822f6f68
   pmid: '21862934'
   pmcid: null
-  license_note: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ67）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-598
   legacy_id: null
   title: 'Narchi H. Risk of long term renal impairment and duration of follow up recommended for Henoch-Schonlein purpura with normal or minimal urinary findings: a systematic review. Arch Dis Child. 2005;90(9):916-920'
@@ -10684,14 +10693,17 @@
   doi: 10.1038/s41572-019-0125-9
   pmid: '31699993'
   pmcid: null
-  license_note: ライセンス表示を確認できず（TDM のみ）
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ66）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず（TDM のみ）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-875
   legacy_id: null
   title: 'Katznelson L, Laws ER Jr, Melmed S, et al. Acromegaly: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2014;99(11):3933-3951.'
@@ -10714,14 +10726,17 @@
   doi: 10.1001/jama.2016.19699
   pmid: '28170483'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ66）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-878
   legacy_id: null
   title: 'Nieman LK, Biller BMK, Findling JW, et al. Treatment of Cushing''s Syndrome: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2015;100(8):2807-2831.'
@@ -10804,14 +10819,17 @@
   doi: 10.1111/j.1365-2265.2010.03913.x
   pmid: '21044119'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ66）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-886
   legacy_id: null
   title: 'Nieman LK, Biller BMK, Findling JW, Newell-Price J, Savage MO, Stewart PM, Montori VM. The Diagnosis of Cushing''s Syndrome: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2008;93(5):1526-1540.'
@@ -17878,14 +17896,17 @@
   doi: 10.1007/s10014-023-00460-x
   pmid: '36995447'
   pmcid: null
-  license_note: null
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: RESTRICTED
+  source_class: OPEN
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を RESTRICTED から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
 - id: SRC-1619
   legacy_id: null
   title: Wanebo JE, et al. The natural history of hemangioblastomas of the central nervous system in patients with von Hippel-Lindau disease. J Neurosurg. 2003;98(1):82-94
@@ -28261,10 +28282,10 @@
   doi: 10.1136/ard-2022-223480
   pmid: '36351706'
   pmcid: null
-  license_note: Crossref は TDM リンクのみで CC 表示なし
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ67）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Crossref は TDM リンクのみで CC 表示なし
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -28272,6 +28293,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2947
   legacy_id: null
   title: 日本循環器学会ほか合同研究班. 2026年改訂版 大型血管炎診療ガイドライン. 2026年3月20日発行
@@ -28297,10 +28321,10 @@
   doi: 10.1136/ard-2022-223764
   pmid: '36927642'
   pmcid: null
-  license_note: Crossref の license 欄に CC の明示なし（TDM・出版社ポリシーへのリンクのみ）
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ67）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Crossref の license 欄に CC の明示なし（TDM・出版社ポリシーへのリンクのみ）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -28308,6 +28332,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2949
   legacy_id: null
   title: 厚生労働省. 指定難病 56 ベーチェット病（概要・診断基準等）. 診断基準は厚生労働省ベーチェット病診断基準（2024年小改訂）
@@ -28351,10 +28378,10 @@
   doi: 10.1136/annrheumdis-2011-200329
   pmid: '22388996'
   pmcid: null
-  license_note: Crossref は TDM リンクのみで CC 表示なし
+  license_note: CC BY-NC 2.0（Europe PMC・PMC3298664 で確認。CC BY ではない、バッチ67）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Crossref は TDM リンクのみで CC 表示なし
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -28362,6 +28389,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2952
   legacy_id: null
   title: Mukhtyar CB, Bosch P, Dejaco C, et al. 2025 EULAR recommendations for the management of polymyalgia rheumatica and primary large vessel vasculitis. Ann Rheum Dis. 2026
@@ -28387,10 +28417,10 @@
   doi: 10.1136/ard-2022-223482
   pmid: '36351705'
   pmcid: null
-  license_note: Crossref は TDM リンクのみで CC 表示なし
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ67）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Crossref は TDM リンクのみで CC 表示なし
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -28398,6 +28428,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2954
   legacy_id: null
   title: Chung SA, Gorelik M, Langford CA, et al. 2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Polyarteritis Nodosa. Arthritis Rheumatol. 2021;73(8):1384-1393
@@ -28405,10 +28438,10 @@
   doi: 10.1002/art.41776
   pmid: '34235883'
   pmcid: null
-  license_note: Wiley の利用規約のみ（CC 表示なし）
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ67）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Wiley の利用規約のみ（CC 表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -28416,6 +28449,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2955
   legacy_id: null
   title: Jennette JC, Falk RJ, Bacon PA, et al. 2012 revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides. Arthritis Rheum. 2013;65(1):1-11
@@ -28423,10 +28459,10 @@
   doi: 10.1002/art.37715
   pmid: '23045170'
   pmcid: null
-  license_note: Wiley の利用規約のみ（CC 表示なし）
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ67）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Wiley の利用規約のみ（CC 表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -28434,6 +28470,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2956
   legacy_id: null
   title: Kobayashi T, Ayusawa M, Suzuki H, Abe J, Ito S, et al. Revision of diagnostic guidelines for Kawasaki disease (6th revised edition). Pediatr Int. 2020;62(10):1135-1138
@@ -31750,14 +31789,17 @@
   doi: 10.1016/j.pediatrneurol.2007.12.008
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ68）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-3837
   legacy_id: null
   title: '日本小児精神神経学会 移行期支援委員会（文責）. 自閉スペクトラム症（Autism Spectrum Disorder: ASD）. 日本小児科学会ウェブサイト掲載 PDF（GL126、2026-04-16 付けファイル）'

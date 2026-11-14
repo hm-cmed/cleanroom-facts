@@ -418,7 +418,7 @@
 
 - 条件：region: 中国／study: 単一施設の後方視研究（抗GBM病221例、1998〜2008年）
 - 不確実性：出典のライセンスは未確認のため、取り込み時に出版社ページで確認が必要。治療法の比較はランダム化されていない後方視の比較である。シクロホスファミドを含む治療薬の国内の承認・保険適用は未確認。
-- 出典：Cui Z, Zhao J, Jia XY, et al. Anti-glomerular basement membrane disease: outcomes of different therapeutic regimens in a large single-center Chinese cohort study. Medicine (Baltimore). 2011;90(5):303-311　[DOI 10.1097/MD.0b013e31822f6f68](https://doi.org/10.1097/MD.0b013e31822f6f68)　[PMID 21862934](https://pubmed.ncbi.nlm.nih.gov/21862934/)（区分 UNKNOWN）
+- 出典：Cui Z, Zhao J, Jia XY, et al. Anti-glomerular basement membrane disease: outcomes of different therapeutic regimens in a large single-center Chinese cohort study. Medicine (Baltimore). 2011;90(5):303-311　[DOI 10.1097/MD.0b013e31822f6f68](https://doi.org/10.1097/MD.0b013e31822f6f68)　[PMID 21862934](https://pubmed.ncbi.nlm.nih.gov/21862934/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-1-A-②（急速進行性糸球体腎炎症候群、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-335 (id: Jlvnl-w)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-030&card_id=GN-030&version=f11fd1e92a)　（版 `f11fd1e92a`）
 

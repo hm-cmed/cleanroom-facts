@@ -18,7 +18,7 @@
     source_license: Oxford University Press 標準出版モデル（Neuro-Oncology誌、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ66 2026-11-14）：Kurokawa R, Takami H, Kurokawa M, et al. Imaging diagnosis of adult-type diffuse gliomas in the era of WHO CNS5 and cIMPACT-NOW updates 8-11: a narrative review. Jpn J Radiol. 2026;44(9):1534-1542（PMID: 42159911、DOI: 10.1007/s11604-026-02013-6、PMCID: PMC13526116、https://pmc.ncbi.nlm.nih.gov/articles/PMC13526116/）。裏づける部分：候補（CC BY の画像総説）が、WHO CNS5 が成人型びまん性神経膠腫を3つの統合診断型（星細胞腫 IDH変異型／乏突起膠腫 IDH変異・1p/19q共欠失型／膠芽腫 IDH野生型）に再編し、分子所見に基づく分類を導入したことを明記する。IDH の有無が軸となり、IDH変異型では 1p/19q 共欠失の有無で星細胞腫と乏突起膠腫が分けられるというカードの骨格と一致する。数値の照合：数値なし（分類のカード）。留保：MGMT プロモーターのメチル化が分類そのものの軸ではない点は候補では未確認。主出典 SRC-1611 の区分は現行 RESTRICTED が正しい（OUP の標準出版モデル、Europe PMC で非 OA）。PMCID は補完候補（PMC8328013、識別子補完候補の節参照）'
   uncertainty: 分類の枠組みは2021年版の総説に基づく。MGMTプロモーターのメチル化は主に膠芽腫の治療反応性の指標として用いられる点であり、分類そのものの軸ではない。
   curriculum:
     kokushi: 医学各論 Ⅸ-2-A-①（神経膠腫、a）
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ66 2026-11-14）。三原の承認（2026-11-11）による
 - id: BT-002
   domain: BT
   subdomain: 神経膠腫
@@ -53,7 +56,7 @@
     source_license: NEJM（Massachusetts Medical Society、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ66 2026-11-14）：Ribeiro A, Fote G, Himstead A, et al. Glioblastoma: From Pathophysiology to Novel Therapeutic Approaches. Biomedicines. 2025;13(8):1963（PMID: 40868217、DOI: 10.3390/biomedicines13081963、PMCID: PMC12384051、https://pmc.ncbi.nlm.nih.gov/articles/PMC12384051/）。裏づける部分：候補（CC BY 総説）が Stupp レジメンを逐語的に述べる：放射線治療（60 Gy）に連日テモゾロミド（75 mg/m²）を併用し、その後、補助テモゾロミド（150〜200 mg/m²、5日間投与・28日周期）6サイクル。生存期間中央値は放射線単独の 12.1 か月から併用の 14.6 か月に延長し、2年生存率は 10.4% から 26.5% に上昇したとする。数値の照合：生存期間中央値 14.6 対 12.1 か月、2年生存率 26.5% 対 10.4% は候補と一致。用量・投与法・サイクル数も一致。留保：試験登録レコード（ClinicalTrials.gov NCT00006353）には結果投稿がなく、登録レコードによる裏づけは使えなかった。主出典 SRC-1612 の区分は現行 RESTRICTED が正しい（NEJM、Crossref にライセンス表示なし・Europe PMC で非 OA）'
   uncertainty: 数値は抄録で確認。テモゾロミドは国内で悪性神経膠腫に対して承認された薬剤として臨床使用されているが、本作成では添付文書での適応・用法の個別確認は未実施であり、取り込み時に確認を要する。
   curriculum:
     kokushi: 医学各論 Ⅸ-2-A-①（神経膠腫、a）
@@ -68,6 +71,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ66 2026-11-14）。三原の承認（2026-11-11）による
 - id: BT-003
   domain: BT
   subdomain: 神経膠腫
@@ -88,7 +94,7 @@
     source_license: JAMA（American Medical Association、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ66 2026-11-14）：Lan J, Liu Y, Chen J, et al. Advanced tumor electric fields therapy: A review of innovative research and development and prospect of application in glioblastoma. CNS Neurosci Ther. 2024;30(5):e14720（PMID: 38715344、DOI: 10.1111/cns.14720、PMCID: PMC11077002、https://pmc.ncbi.nlm.nih.gov/articles/PMC11077002/）。裏づける部分：候補（CC BY 総説）が EF-14 試験（695例）を明記し、維持テモゾロミドへの腫瘍治療電場療法の追加で全生存期間中央値が 20.9 か月対 16.0 か月、無増悪生存期間中央値が 6.7 か月対 4.0 か月であったと、カードの全数値を再掲する。数値の照合：全生存期間 20.9 対 16.0 か月、無増悪生存期間 6.7 対 4.0 か月は候補と一致。留保：試験登録レコード（NCT00916409）には結果投稿なし。主出典 SRC-1613 の区分は現行 RESTRICTED が正しい（JAMA、ライセンス表示なし・非 OA）。PMCID は補完候補（PMC5820703）'
   uncertainty: 数値は抄録で確認。TTFieldsの国内承認・保険適用の状況は本作成では個別確認未実施であり、取り込み時に確認を要する。主な有害事象はアレイ装着部位の皮膚障害である。
   curriculum:
     kokushi: 医学各論 Ⅸ-2-A-①（神経膠腫、a）
@@ -103,6 +109,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ66 2026-11-14）。三原の承認（2026-11-11）による
 - id: BT-004
   domain: BT
   subdomain: 神経膠腫
@@ -123,7 +132,7 @@
     source_license: NEJM（Massachusetts Medical Society、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ66 2026-11-14）：Stępka J, Dotka M, Kosiński M, et al. The Role of Systemic Therapies in the Treatment of Grades 1-4 Gliomas. Cureus. 2024;16(9):e70532（PMID: 39439623、DOI: 10.7759/cureus.70532、PMCID: PMC11494030、https://pmc.ncbi.nlm.nih.gov/articles/PMC11494030/）。裏づける部分：候補（CC BY 総説）が RTOG 9802 を高リスク低悪性度神経膠腫の試験として位置づけ、放射線治療後の PCV 療法の追加が放射線治療単独より全生存期間を延長したこと（中央値 13.3 年対 7.8 年、無増悪生存期間 10.4 年対 4.4 年）を明記する。補助候補（Alshiekh Nasany R, de la Fuente MI. Therapies for IDH-Mutant Gliomas. Curr Neurol Neurosci Rep. 2023;23(5):225-233、CC BY）も同じ値を HR 0.59 とともに再掲し、本試験が分子分類導入前の集団の結果である点にも触れる。数値の照合：生存期間中央値 13.3 年対 7.8 年は候補と一致。留保：「高リスク」の定義（40歳以上、または亜全摘以下）そのものの再掲は候補にない。試験登録レコード（NCT00003375）には結果投稿なし。主出典 SRC-1614 の区分は現行 RESTRICTED が正しい（NEJM、非 OA）。PMCID は補完候補（PMC5170873）'
   uncertainty: 数値は抄録で確認。PCV療法の構成薬（プロカルバジン、ロムスチン、ビンクリスチン）の国内承認・保険適用の状況は本作成では個別確認未実施であり、取り込み時に確認を要する。現在の実臨床では分子分類に応じた治療選択が進んでおり、本試験は分子分類導入前の集団の結果である。
   curriculum:
     kokushi: 医学各論 Ⅸ-2-A-①（神経膠腫、a）
@@ -138,6 +147,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ66 2026-11-14）。三原の承認（2026-11-11）による
 - id: BT-005
   domain: BT
   subdomain: 悪性リンパ腫
@@ -228,7 +240,7 @@
     source_license: The Lancet Haematology（Elsevier、テキストマイニング用ライセンスのみ）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ66 2026-11-14）：Pan Z, Bao J, Wei S. Translating advances in primary central nervous system lymphoma: from prognostic stratification to treatment innovation. Front Oncol. 2026;16:1591328（PMID: 42180105、DOI: 10.3389/fonc.2026.1591328、PMCID: PMC13189747、https://pmc.ncbi.nlm.nih.gov/articles/PMC13189747/）。裏づける部分：候補（CC BY 総説）が IELSG32 試験（227例、18〜70歳）で MATRix レジメン（メトトレキサート、シタラビン、チオテパ、リツキシマブ）が完全寛解率 49%・全奏効率 87% を達成したことを明記し、メトトレキサート＋シタラビンへのリツキシマブ追加という3群比較の枠組みの中で MATRix を位置づける。数値の照合：MATRix 群の完全寛解率 49% は候補と一致。留保：対照2群の完全寛解率（30%・23%）の再掲は自由全文に見つからなかった。IELSG32 は ClinicalTrials.gov 上に該当レコードを確認できず（EudraCT 登録のみとみられる）、登録レコードによる裏づけも使えない。主出典 SRC-1616 の区分は現行 RESTRICTED が正しい（Elsevier、Crossref のライセンスは TDM のみ・Europe PMC で非 OA）'
   uncertainty: 数値は抄録で確認。チオテパを含むレジメンの国内承認・保険適用の状況は本作成では個別確認未実施であり、取り込み時に確認を要する。
   curriculum:
     kokushi: 医学各論 Ⅸ-2-A-②（悪性リンパ腫、b）
@@ -243,6 +255,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ66 2026-11-14）。三原の承認（2026-11-11）による
 - id: BT-008
   domain: BT
   subdomain: 胚細胞腫瘍
@@ -263,7 +278,7 @@
     source_license: CC BY-NC 4.0（Neuro-Oncology誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ66 2026-11-14）：Calaminus G, Alapetite C, Kortmann RD, et al. Final report of the SIOP-CNS-GCT II protocol for germinoma: Omitting radiotherapy boost is safe in localized disease in complete remission after chemotherapy. Neuro Oncol. 2026;28(9):2234-2247（PMID: 42234858、DOI: 10.1093/neuonc/noag127、PMCID: PMC13550669、https://pmc.ncbi.nlm.nih.gov/articles/PMC13550669/）。裏づける部分：候補（SIOP-CNS-GCT II 最終報告、CC BY）が、診断は血清・髄液の AFP と HCG の水準を踏まえた生検に基づくこと、転移性病変は神経軸全体の画像での非連続病変および／または髄液細胞診陽性によって定義されることを明記する。補助候補（Takami H, Shing MMK. Epidemiology of central nervous system germ cell tumors: global patterns, geographic variation, and methodological challenges. Front Oncol. 2026;16:1962617、CC BY）は、ジャーミノーマと非ジャーミノーマ性胚細胞腫瘍が予後も治療強度も異なる別個の entity として管理されることを述べる。数値の照合：数値なし（診断・病期の枠組みのカード）。留保：主出典 SRC-1617 の刊行版ライセンスは CC BY-NC 4.0（Crossref の版データ・Europe PMC レコード・PMC 全文のライセンス文で確認）であり自由区分には当たらず、現行 RESTRICTED が正しい。PMCID は補完候補（PMC8972311）'
   uncertainty: コンセンサスレビューの抄録に基づく。診断は内視鏡下生検と血清・髄液検査の組み合わせで確定を図ることが同レビューで述べられている。
   curriculum:
     kokushi: 医学各論 Ⅸ-2-A-③（胚細胞腫瘍、c）
@@ -278,6 +293,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ66 2026-11-14）。三原の承認（2026-11-11）による
 - id: BT-009
   domain: BT
   subdomain: 胚細胞腫瘍
@@ -298,7 +316,7 @@
     source_license: CC BY-NC 4.0（Neuro-Oncology誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ66 2026-11-14）：Calaminus G, Alapetite C, Kortmann RD, et al. Final report of the SIOP-CNS-GCT II protocol for germinoma: Omitting radiotherapy boost is safe in localized disease in complete remission after chemotherapy. Neuro Oncol. 2026;28(9):2234-2247（PMID: 42234858、DOI: 10.1093/neuonc/noag127、PMCID: PMC13550669、https://pmc.ncbi.nlm.nih.gov/articles/PMC13550669/）。裏づける部分：候補（SIOP-CNS-GCT II 最終報告、CC BY）が、限局性ジャーミノーマでは化学療法後に全脳室照射 24 Gy を行い（完全寛解例では局所追加照射の省略が安全）、5年無イベント生存率 0.94 であったこと、転移性ジャーミノーマでは全頭蓋脊髄照射 24 Gy＋追加照射で5年無イベント生存率 0.98・全生存率 1.00 であったことを報告する。限局性は化学療法＋全脳室照射で5年無イベント生存率が90%を超え、転移性は全頭蓋脊髄照射で治癒が期待できるというカードの骨格と一致する。数値の照合：限局性の5年無イベント生存率 0.94 はカードの「90%超」と一致。転移性の5年無イベント生存率 0.98・全生存率 1.00。留保：候補のプロトコルでは完全寛解例で局所追加照射を省略しており、カードの「全脳室照射と局所追加照射を行う治療」という記述とは運用に差がある（追加照射は残存例に実施。申し送り参照）。主出典は BT-008 と同じ SRC-1617（CC BY-NC、現行 RESTRICTED が正しい）'
   uncertainty: 数値は抄録で確認（5年無イベント生存率90%超は限局性ジャーミノーマに対する化学療法＋全脳室照射の成績）。NGGCTの5年無イベント生存率は70%超と同抄録に記載されている。 化学療法の個別薬剤の国内承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】カードの主張の中心は放射線治療で化学療法薬は名指しされていないが、ジャーミノーマの標準化学療法（カルボプラチン＋エトポシドを中心とするレジメン）に用いる薬剤はいずれも国内承認薬であり、「個別薬剤の承認・保険適用は未確認」は解消できる
   curriculum:
     kokushi: 医学各論 Ⅸ-2-A-③（胚細胞腫瘍、c）
@@ -316,6 +334,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ66 2026-11-14）。三原の承認（2026-11-11）による
 - id: BT-010
   domain: BT
   subdomain: 胚細胞腫瘍
@@ -333,9 +354,9 @@
     pmid: '36995447'
     pmcid: null
     url: https://doi.org/10.1007/s10014-023-00460-x
-    source_license: Brain Tumor Pathology（Springer、CC表示なし）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: RESTRICTED
+    source_class: OPEN
     corroboration: null
   uncertainty: 数値の詳細（各群の症例数など）は抄録で確認した範囲に限る。マーカー上昇のみでNGGCTと確定することはできず、組織所見との統合解釈が必要である点も同論文で述べられている。
   curriculum:
@@ -351,6 +372,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1618 の区分の訂正にあわせて provenance.source_class を RESTRICTED から OPEN にした。三原の承認（2026-11-11）による
 - id: BT-011
   domain: BT
   subdomain: 血管芽腫
@@ -371,7 +395,7 @@
     source_license: Journal of Neurosurgery（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ66 2026-11-14）：Pérez-Arzola AA, Crisanto-López IE, Cruz-Cruz M, et al. Von Hippel-Lindau Syndrome: An Updated Narrative Review for the First-Contact Clinician. Cureus. 2026;18(7):e112667（PMID: 42598718、DOI: 10.7759/cureus.112667、PMCID: PMC13472648、https://pmc.ncbi.nlm.nih.gov/articles/PMC13472648/）。裏づける部分：候補（CC BY 総説）が、von Hippel-Lindau 病の中枢神経系血管芽腫は小脳（45〜50%）と脊髄（35〜40%）に最も多く発生し、次いで脳幹（2〜5%）であることを明記し、カード前半の分布と一致する。数値の照合：分布は候補（小脳 45〜50%・脊髄 35〜40%）が「脊髄と小脳に多い」という骨格を支える。留保：症状を呈した小脳腫瘍で嚢胞を伴う割合（72%）と無症状例（13%）という Wanebo らの実測値、および「嚢胞が腫瘍本体より大きくなることが多い」という所見は、自由全文に再掲がなかった。主出典 SRC-1619 の区分は現行 RESTRICTED が正しい（Journal of Neurosurgery Publishing Group、ライセンス表示なし・非 OA）'
   uncertainty: 数値は抄録で確認。本カードは腫瘍そのものの分布と嚢胞の特徴に限り、VHLの全身像（網膜・腎・膵などの病変）は扱わない。
   curriculum:
     kokushi: 医学各論 Ⅸ-2-A-④（血管芽腫、c）
@@ -386,6 +410,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ66 2026-11-14）。三原の承認（2026-11-11）による
 - id: BT-012
   domain: BT
   subdomain: 髄膜腫
@@ -406,7 +433,7 @@
     source_license: Oxford University Press 標準出版モデル（Neuro-Oncology誌、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ66 2026-11-14）：Adekanmbi A, Youngblood MW, Karras CL, et al. Clinical Management of Supratentorial Non-Skull Base Meningiomas. Cancers. 2022;14(23):5887（PMID: 36497370、DOI: 10.3390/cancers14235887、PMCID: PMC9737260、https://pmc.ncbi.nlm.nih.gov/articles/PMC9737260/）。裏づける部分：候補（CC BY 総説）が、髄膜腫は最も頻度の高い原発性中枢神経系腫瘍であること、管理は経過観察から手術・放射線治療までの幅があること、無症状の偶発例には EANO のいう watch-and-scan が適用できること、摘出の程度を Simpson 分類（grade 1〜3 が全摘出）で評価すること、定位放射線治療（12〜16 Gy 単回）や分割照射が用いられることを述べ、カードの骨格と一致する。数値の照合：数値なし（管理方針のカード）。留保：「被膜・付着部硬膜を含めた全摘出がしばしば根治的」という表現そのものは候補にないが、Simpson grade 1（腫瘍・付着部硬膜・骨の切除）の概念は候補に記載がある。主出典 SRC-1620 の区分は現行 RESTRICTED が正しい（OUP の標準出版モデル・非 OA）。PMCID は補完候補（PMC8563316）'
   uncertainty: ガイドラインの抄録に基づく。WHO gradeに応じた術後照射の適応の詳細はガイドライン本文の推奨による。
   curriculum:
     kokushi: 医学各論 Ⅸ-2-B-①（髄膜腫、b）
@@ -421,6 +448,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ66 2026-11-14）。三原の承認（2026-11-11）による
 - id: BT-013
   domain: BT
   subdomain: 下垂体腫瘍
@@ -440,8 +470,8 @@
     url: https://doi.org/10.1001/jama.2016.19699
     source_license: ライセンス表示を確認できず（JAMA誌）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ66 2026-11-14）：National Cancer Institute. Pituitary Tumors Treatment (PDQ®) — Health Professional Version（https://www.cancer.gov/types/pituitary/hp/pituitary-treatment-pdq）。裏づける部分：候補（米国政府の全文文書、NCI PDQ）が、下垂体腺腫の症状として頭痛・視野障害を挙げ、非機能性腺腫では圧迫による下垂体機能低下（下垂体不全）を述べること、経蝶形骨洞アプローチが最も広く用いられる術式であること、GH・ACTH 産生腺腫と内分泌非活性腺腫では外科治療が第一選択であること、プロラクチノーマではドパミン作動薬が第一で手術は第二選択であることを明記し、カードの骨格と一致する。数値の照合：数値なし。留保：「両耳側半盲」という視野障害の型の明示と、無症状の偶発例では経過観察も選択できる点は、候補（PDQ）には記載がなかった。主出典 SRC-877 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）
   uncertainty: 本カードは腫瘍としての側面（腫瘤効果と手術）に限り、ホルモン産生・内分泌の側面は扱わない。抄録では視野障害と総称されており、両耳側半盲は視交叉圧迫による典型的な視野障害として本文の記載に基づく。
   curriculum:
     kokushi: 医学各論 Ⅸ-2-B-②（下垂体腫瘍(下垂体腺腫)、b）
@@ -456,6 +486,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-877 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ66 2026-11-14）。三原の承認（2026-11-11）による
 - id: BT-014
   domain: BT
   subdomain: 下垂体腫瘍
@@ -475,8 +511,8 @@
     url: https://doi.org/10.1111/j.1365-2265.2010.03913.x
     source_license: ライセンス表示を確認できず（Clinical Endocrinology誌）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ66 2026-11-14）：Iglesias P. Pituitary Apoplexy: An Updated Review. J Clin Med. 2024;13(9):2508（PMID: 38731037、DOI: 10.3390/jcm13092508、PMCID: PMC11084238、https://pmc.ncbi.nlm.nih.gov/articles/PMC11084238/）。裏づける部分：候補（CC BY 総説）が、下垂体卒中は突然発症の頭痛を特徴とする急性の生命を脅かす臨床症候群であり医学的緊急事態であること、薬物治療の目標はコルチコステロイド欠乏の是正と罹患・死亡の低減であり、ヒドロコルチゾン 100〜200 mg 静注ボーラス後の持続投与という標準的な補充法を明記し、カードと一致する。数値の照合：数値なし（症候群と初期対応のカード）。留保：主出典 SRC-884 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: ガイドラインの抄録に基づく。手術（経蝶形骨洞手術）の適応と時期は視力・意識の状態により判断され、本カードでは一般論にとどめる。ヒドロコルチゾンは国内承認薬である（適応の詳細は添付文書による）。
   curriculum:
     kokushi: 医学各論 Ⅸ-2-B-②（下垂体腫瘍(下垂体腺腫)、b）
@@ -491,6 +527,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-884 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ66 2026-11-14）。三原の承認（2026-11-11）による
 - id: BT-015
   domain: BT
   subdomain: 神経鞘腫
@@ -511,7 +553,7 @@
     source_license: Oxford University Press 標準出版モデル（Neuro-Oncology誌、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ66 2026-11-14）：Lally AR, Welch RL, Terraciano A, et al. Socioeconomic disparities in vestibular schwannoma diagnosis and management: A systematic review. Neurosurg Rev. 2026;49(1):580（PMID: 42771071、DOI: 10.1007/s10143-026-04478-5、PMCID: PMC13597603、https://pmc.ncbi.nlm.nih.gov/articles/PMC13597603/）。裏づける部分：候補（CC BY の系統的レビュー）が、診断は MRI で確定すること、治療の選択肢は手術・放射線手術・経過観察であること、定位放射線手術は圧迫のない中等大の腫瘍に、外科的切除は大きな圧迫性腫瘍に適応されることを述べる。補助候補（Boyke AE, Al-Saadi T, Menaker SA, et al. Comparative analysis of stereotactic radiosurgery and microsurgery for vestibular schwannoma: a clinical and radiological evaluation. J Neurooncol. 2026;179(1):3、CC BY）も選択肢として経過観察・定位放射線手術・顕微鏡下切除を挙げ、小〜中等大（2〜3 cm 未満）への定位放射線手術の位置づけを示す。数値の照合：数値なし（管理方針のカード）。留保：分割照射の明示、術後に分割照射や定位放射線治療が追加されることがある点、「組織診断は必ずしも必要ない」という表現そのものは候補では未確認。主出典 SRC-1621 の区分は現行 RESTRICTED が正しい（OUP の標準出版モデル・非 OA）。PMCID は補完候補（PMC6954440）'
   uncertainty: ガイドラインの抄録に基づく。聴力温存率などの治療法別の数値は抄録の範囲では確認できなかったため本カードには含めていない。片側の感音難聴・耳鳴が典型的な初発症状である点はガイドライン本文の記載による。
   curriculum:
     kokushi: 医学各論 Ⅸ-2-B-③（神経鞘腫、b）
@@ -526,6 +568,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ66 2026-11-14）。三原の承認（2026-11-11）による
 - id: BT-016
   domain: BT
   subdomain: 頭蓋咽頭腫
@@ -545,8 +590,8 @@
     url: https://doi.org/10.1038/s41572-019-0125-9
     source_license: ライセンス表示を確認できず（Nature Reviews Disease Primers誌、TDM のみ）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ66 2026-11-14）：Pires de Oliveira Neto C, Nascimento GC, Damianse SDSP, Faria MDS. Recent advances in craniopharyngioma pathophysiology and emerging therapeutic approaches. Front Endocrinol. 2025;16:1562942（PMID: 40433410、DOI: 10.3389/fendo.2025.1562942、PMCID: PMC12106005、https://pmc.ncbi.nlm.nih.gov/articles/PMC12106005/）。裏づける部分：候補（CC BY 総説）が、頭蓋咽頭腫はエナメル上皮腫型と乳頭型に分けられること、エナメル上皮腫型は 5〜15歳と45〜60歳の二峰性の発症ピークを示し小児に多く乳頭型は成人に限られること、視路と視床下部‐下垂体系への近接により内分泌・視覚・神経の障害と視床下部症候群を来すことを明記し、カードの骨格と一致する。補助候補（Javidialsaadi M, Luy DD, Smith HL, et al. Advances in the Management of Craniopharyngioma: A Narrative Review of Recent Developments and Clinical Strategies. J Clin Med. 2025;14(4):1101、CC BY）は、5年生存率約80%と生存が良好な一方で視床下部性肥満など視床下部障害による生活の質の問題を述べる。数値の照合：エナメル上皮腫型のピーク（5〜15歳・45〜60歳）は候補と一致。留保：「長期生存率は高い一方で視床下部の障害による生活の質の低下が問題となる」という一体の記述は単一の候補にはなく、候補と補助候補の組み合わせによる裏づけにとどまる。補助候補が頭蓋咽頭腫全体について述べる二峰性（5〜14歳・50〜74歳）は母集団が異なり、カードの型別の値とは異なる（申し送り参照）。主出典 SRC-874 は区分訂正あり（UNKNOWN→RESTRICTED）'
   uncertainty: 数値（発症年齢のピーク）は抄録で確認。石灰化はエナメル上皮腫型の画像上の特徴として知られるが、本出典の抄録の範囲では明示されなかったため本カードの命題には含めていない。
   curriculum:
     kokushi: 医学各論 Ⅸ-2-B-④（頭蓋咽頭腫、c）
@@ -561,6 +606,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-874 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ66 2026-11-14）。三原の承認（2026-11-11）による
 - id: BT-017
   domain: BT
   subdomain: 転移性脳腫瘍
@@ -581,7 +632,7 @@
     source_license: Journal of Clinical Oncology（ASCO、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ66 2026-11-14）：Bao J, Xu X, Wei S, Pan Z. Tailored radiotherapy for brain metastases improves precision and outcomes. Discover Oncol. 2025;16(1):2306（PMID: 41296115、DOI: 10.1007/s12672-025-03954-6、PMCID: PMC12748433、https://pmc.ncbi.nlm.nih.gov/articles/PMC12748433/）。裏づける部分：候補（CC BY 総説）が、限局性脳転移には定位放射線治療または手術が全脳照射より優先されること、腫瘤効果の強い大きな病変には手術または定位放射線治療を先行させること、切除例では術後照射が局所制御のために一般に推奨されること、海馬回避全脳照射＋メマンチンは海馬内・海馬から 5 mm 以内に病変がなく髄膜播種のない例が適格であることを述べ、カードの骨格と一致する。数値の照合：数値なし（推奨のカード）。留保：個数の条件（未切除の1〜4個に定位放射線治療単独・小細胞肺癌の除外、切除された1〜2個に術後腔への定位放射線治療）と、生存期間4か月以上が見込まれることが海馬回避＋メマンチンの条件である点は、候補では未確認。主出典 SRC-1622 の区分は現行 RESTRICTED が正しい（ASCO、ライセンス表示なし・Europe PMC で非 OA）'
   uncertainty: ガイドラインの抄録に基づく。原発巣の全身治療は本カードの範囲外。原発巣としては肺癌が最も多いことは脳転移の疫学として確立しているが、本ガイドラインの抄録の範囲では割合の数値を確認できなかったため数値は含めていない。メマンチンの国内承認は認知症に対するものであり、脳転移の全脳照射併用としての国内保険適用は本作成では確認未実施。
   curriculum:
     kokushi: 医学各論 Ⅸ-2-C-①（転移性脳腫瘍、a）
@@ -596,6 +647,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ66 2026-11-14）。三原の承認（2026-11-11）による
 - id: BT-018
   domain: BT
   subdomain: 髄膜癌腫症
@@ -616,7 +670,7 @@
     source_license: CC BY-NC-ND 4.0（ESMO Open誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ66 2026-11-14）：Lim SW, Ku BM, Ahn MJ. Leptomeningeal Metastasis in Non-Small-Cell Lung Cancer with Actionable Genomic Alterations: Pathogenesis, Diagnosis, and Emerging Therapeutic Strategies. Cancers. 2026;18(13):2169（PMID: 42449711、DOI: 10.3390/cancers18132169、PMCID: PMC13360412、https://pmc.ncbi.nlm.nih.gov/articles/PMC13360412/）。裏づける部分：候補（CC BY 総説）が EANO-ESMO の分類を再掲し、type I は髄液中の悪性細胞の証明によるものと定義すること、初回の髄液検査が陰性でも最適条件で2回目の腰椎穿刺を行うことが推奨され感度が初回の約50〜60%から反復で約80%に上がること、症状として頭痛・悪心嘔吐・認知や精神状態の変化・歩行障害・脳神経麻痺・神経根症状が典型的であること、細胞診陽性例の生存期間中央値は週単位（予後良好群 15.5 週・不良群 6 週）であることを述べ、カードの骨格と一致する。数値の照合：候補の感度（初回約50〜60%→反復で約80%）はカードに含まれない追加情報であり、カード側の数値との矛盾はない。留保：候補は非小細胞肺癌に限った総説である。頸部・背部痛の明示と、「神経症状の進行を防ぎつつ生活の質を保って生存を延長する」という治療目標の文言そのものは候補では未確認。主出典 SRC-1623 の刊行版ライセンスは CC BY-NC-ND 4.0（Crossref の版データ・PMC 全文で確認）であり自由区分には当たらず、現行 RESTRICTED が正しい。PMCID は補完候補（PMC10619142）'
   uncertainty: ガイドライン本文で確認。生存期間の具体的な中央値は本作成で一次資料から確認できなかったため本カードには含めていない。
   curriculum:
     kokushi: 医学各論 Ⅸ-2-C-②（髄膜癌腫症<癌性髄膜炎>、c）
@@ -631,6 +685,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/28_ns_a_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ66 2026-11-14）。三原の承認（2026-11-11）による
 - id: BT-019
   domain: BT
   subdomain: 頭蓋骨転移
@@ -686,7 +743,7 @@
     source_license: Nature Reviews Disease Primers（Springer Nature、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ66 2026-11-14）：Liu S, Shan B, Zhang Y, et al. Mechanisms, Imaging Phenotypes, and Therapeutic Advances of Neovascularization in Brain Metastases. Biomedicines. 2026;14(1):119（PMID: 41595655、DOI: 10.3390/biomedicines14010119、PMCID: PMC12839111、https://pmc.ncbi.nlm.nih.gov/articles/PMC12839111/）。裏づける部分：候補（CC BY 総説）が、脳転移は全癌患者の約20〜40%に生じ、原発巣は肺癌（約40〜50%）・乳癌（約15〜25%）・悪性黒色腫（約5〜20%）が多く、大腸癌と腎細胞癌がこれに次ぐことを明記し、カードの原発巣の構成（肺癌・乳癌・大腸癌・悪性黒色腫・腎細胞癌）と一致する。数値の照合：頻度はカードの「約20%」に対し候補は「約20〜40%」という範囲表記で、下限は一致するが上限側が異なる（申し送り参照）。留保：主出典 SRC-4813 の区分は現行 RESTRICTED が正しい（Springer Nature、Crossref のライセンスはテキスト・データマイニング用のみ・Europe PMC で非 OA）'
   uncertainty: 頻度と原発巣の構成は総説の抄録で確認。原発巣としては肺癌が最も多いことが疫学として知られているが、本総説の抄録では原発巣別の割合の数値を確認できなかったため、主張に順位と割合の数値は含めていない（既存カード BT-017 の uncertainty も同じ事情を記している）。
   curriculum:
     kokushi: 医学各論 Ⅸ-2-C-①（転移性脳腫瘍、a）
@@ -701,6 +758,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ66 2026-11-14）。三原の承認（2026-11-11）による
 - id: BT-021
   domain: BT
   subdomain: 転移性脳腫瘍

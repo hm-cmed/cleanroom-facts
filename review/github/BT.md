@@ -114,7 +114,7 @@
 
 - 条件：population: 中枢神経系胚細胞腫瘍患者／region: 国際
 - 不確実性：数値の詳細（各群の症例数など）は抄録で確認した範囲に限る。マーカー上昇のみでNGGCTと確定することはできず、組織所見との統合解釈が必要である点も同論文で述べられている。
-- 出典：Takami H, et al. Impact of tumor markers on diagnosis, treatment and prognosis in CNS germ cell tumors: correlations with clinical practice and histopathology. Brain Tumor Pathol. 2023;40(2):124-132　[DOI 10.1007/s10014-023-00460-x](https://doi.org/10.1007/s10014-023-00460-x)　[PMID 36995447](https://pubmed.ncbi.nlm.nih.gov/36995447/)（区分 RESTRICTED）
+- 出典：Takami H, et al. Impact of tumor markers on diagnosis, treatment and prognosis in CNS germ cell tumors: correlations with clinical practice and histopathology. Brain Tumor Pathol. 2023;40(2):124-132　[DOI 10.1007/s10014-023-00460-x](https://doi.org/10.1007/s10014-023-00460-x)　[PMID 36995447](https://pubmed.ncbi.nlm.nih.gov/36995447/)（区分 OPEN）
 - 出題基準：医学各論 Ⅸ-2-A-③（胚細胞腫瘍、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BT-010&card_id=BT-010&version=a2d2e7b169)　（版 `a2d2e7b169`）
 
@@ -162,7 +162,7 @@
 
 - 条件：population: 下垂体腺腫患者／region: 国際
 - 不確実性：本カードは腫瘍としての側面（腫瘤効果と手術）に限り、ホルモン産生・内分泌の側面は扱わない。抄録では視野障害と総称されており、両耳側半盲は視交叉圧迫による典型的な視野障害として本文の記載に基づく。
-- 出典：Molitch ME. Diagnosis and Treatment of Pituitary Adenomas: A Review. JAMA. 2017;317(5):516-524.　[DOI 10.1001/jama.2016.19699](https://doi.org/10.1001/jama.2016.19699)　[PMID 28170483](https://pubmed.ncbi.nlm.nih.gov/28170483/)（区分 UNKNOWN）
+- 出典：Molitch ME. Diagnosis and Treatment of Pituitary Adenomas: A Review. JAMA. 2017;317(5):516-524.　[DOI 10.1001/jama.2016.19699](https://doi.org/10.1001/jama.2016.19699)　[PMID 28170483](https://pubmed.ncbi.nlm.nih.gov/28170483/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-2-B-②（下垂体腫瘍(下垂体腺腫)、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BT-013&card_id=BT-013&version=5fa1fb72ab)　（版 `5fa1fb72ab`）
 
@@ -172,7 +172,7 @@
 
 - 条件：population: 下垂体卒中患者／region: 国際
 - 不確実性：ガイドラインの抄録に基づく。手術（経蝶形骨洞手術）の適応と時期は視力・意識の状態により判断され、本カードでは一般論にとどめる。ヒドロコルチゾンは国内承認薬である（適応の詳細は添付文書による）。
-- 出典：Rajasekaran S, Vanderpump M, Baldeweg S, et al. UK Guidelines for the Management of Pituitary Apoplexy. Clinical Endocrinology. 2011;74(1):9-20.　[DOI 10.1111/j.1365-2265.2010.03913.x](https://doi.org/10.1111/j.1365-2265.2010.03913.x)　[PMID 21044119](https://pubmed.ncbi.nlm.nih.gov/21044119/)（区分 UNKNOWN）
+- 出典：Rajasekaran S, Vanderpump M, Baldeweg S, et al. UK Guidelines for the Management of Pituitary Apoplexy. Clinical Endocrinology. 2011;74(1):9-20.　[DOI 10.1111/j.1365-2265.2010.03913.x](https://doi.org/10.1111/j.1365-2265.2010.03913.x)　[PMID 21044119](https://pubmed.ncbi.nlm.nih.gov/21044119/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-2-B-②（下垂体腫瘍(下垂体腺腫)、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BT-014&card_id=BT-014&version=c4a18a721a)　（版 `c4a18a721a`）
 
@@ -204,7 +204,7 @@
 
 - 条件：population: 頭蓋咽頭腫患者／region: 国際
 - 不確実性：数値（発症年齢のピーク）は抄録で確認。石灰化はエナメル上皮腫型の画像上の特徴として知られるが、本出典の抄録の範囲では明示されなかったため本カードの命題には含めていない。
-- 出典：Müller HL, Merchant TE, Warmuth-Metz M, Martinez-Barbera JP, Puget S. Craniopharyngioma. Nature Reviews Disease Primers. 2019;5(1):75.　[DOI 10.1038/s41572-019-0125-9](https://doi.org/10.1038/s41572-019-0125-9)　[PMID 31699993](https://pubmed.ncbi.nlm.nih.gov/31699993/)（区分 UNKNOWN）
+- 出典：Müller HL, Merchant TE, Warmuth-Metz M, Martinez-Barbera JP, Puget S. Craniopharyngioma. Nature Reviews Disease Primers. 2019;5(1):75.　[DOI 10.1038/s41572-019-0125-9](https://doi.org/10.1038/s41572-019-0125-9)　[PMID 31699993](https://pubmed.ncbi.nlm.nih.gov/31699993/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-2-B-④（頭蓋咽頭腫、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BT-016&card_id=BT-016&version=df9e59750d)　（版 `df9e59750d`）
 

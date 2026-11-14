@@ -17,8 +17,8 @@
     url: https://doi.org/10.1136/ard-2022-223480
     source_license: Crossref は TDM リンクのみで CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ67 2026-11-14）：Takano K, Hida K, Tani T, Yoshimitsu K. Vasculitis syndromes: large vessel vasculitides and ANCA-associated vasculitides from a neuroradiologist''s perspective. Jpn J Radiol. 2026;44(3):449-464（PMID: 41165911、DOI: 10.1007/s11604-025-01896-1、PMCID: PMC12948839、https://pmc.ncbi.nlm.nih.gov/articles/PMC12948839/）。裏づける部分：候補（CC BY 総説）が2022年 ACR/EULAR 巨細胞性動脈炎分類基準の表を再掲する：絶対要件（診断時の年齢50歳以上）、側頭動脈生検陽性または halo サインに+5、最大赤沈50 mm/h以上または CRP 10 mg/L以上に+3、突然の視力障害に+3、肩・頸部の朝のこわばり、顎・舌の跛行、新規の側頭部痛、頭皮の圧痛、側頭動脈の触診異常に各+2、両側腋窩動脈病変に+2、大動脈全体の FDG-PET 集積に+2、合計6点以上で分類する、の全項目・配点・閾値がカードと一致する。数値の照合：配点・閾値は全て候補と一致。検証セットでの感度87.0%・特異度94.8%は候補に再掲なし。留保：主出典 SRC-2946 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: 同基準は Arthritis Rheumatol 誌にも同時掲載されている（DOI 10.1002/art.42325）。本カードは Ann Rheum Dis 版に基づく。分類基準であり、個別患者の診断基準ではない。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-D-①（巨細胞性動脈炎、a）
@@ -33,6 +33,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2946 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ67 2026-11-14）。三原の承認（2026-11-11）による
 - id: VA-002
   domain: VA
   subdomain: 巨細胞性動脈炎
@@ -87,8 +93,8 @@
     url: https://doi.org/10.1002/art.41983
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ67 2026-11-14）：Takano K, Hida K, Tani T, Yoshimitsu K. Vasculitis syndromes: large vessel vasculitides and ANCA-associated vasculitides from a neuroradiologist''s perspective. Jpn J Radiol. 2026;44(3):449-464（PMID: 41165911、DOI: 10.1007/s11604-025-01896-1、PMCID: PMC12948839、https://pmc.ncbi.nlm.nih.gov/articles/PMC12948839/）。裏づける部分：候補（CC BY 総説）が2022年 ACR/EULAR 顕微鏡的多発血管炎分類基準の表を再掲し、pANCAまたは抗MPO-ANCA陽性に+6、pauci-immune 型糸球体腎炎に+3、肺線維症または間質性肺疾患に+3、副鼻腔の症状・所見に−3、合計5点以上で分類する、がカードと一致する。数値の照合：候補の表では cANCAまたは抗PR3-ANCA陽性が−3、好酸球数1×10⁹/L以上が−1 とされ、カード（−1・−4）と食い違う。主出典の抄録で差異確認をしたところ原典の配点はカードと一致し（−1・−4）、候補側の転記誤りとみられる（申し送り参照）。留保：主出典 SRC-421 は区分訂正あり（UNKNOWN→RESTRICTED）。マスターは誌名・DOI・PMID が未登録で、識別子補完候補あり（補完候補の節参照）'
   uncertainty: 出典マスター（SRC-421）では書誌が著者名と標題のみで、誌名・DOI・PMID が未登録だったため、登録版（Arthritis Rheumatol 版）で確認済みの書誌情報を含めた。マスターへの補完を提案する。同基準は Ann Rheum Dis 誌にも同時掲載されている。分類基準であり、個別患者の診断基準ではない。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-D-②（顕微鏡的多発血管炎、a）
@@ -103,6 +109,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-421 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ67 2026-11-14）。三原の承認（2026-11-11）による
 - id: VA-004
   domain: VA
   subdomain: 顕微鏡的多発血管炎
@@ -122,8 +134,8 @@
     url: https://doi.org/10.1136/ard-2022-223764
     source_license: Crossref の license 欄に CC の明示なし（TDM・出版社ポリシーへのリンクのみ）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ67 2026-11-14）：Hellmich B. Mapping a path forward: addressing disease burden, pathways and solutions in ANCA-associated vasculitis. Rheumatology (Oxford). 2026;65(Suppl 1):i1-i5（PMID: 41051263、DOI: 10.1093/rheumatology/keaf517、PMCID: PMC12783590、https://pmc.ncbi.nlm.nih.gov/articles/PMC12783590/）。裏づける部分：候補（CC BY 総説）が EULAR 推奨（2022 update）を明記する：臓器または生命を脅かす GPA・MPA の寛解導入はリツキシマブまたはシクロホスファミドにグルココルチコイドを併用する治療に基づくこと、グルココルチコイドは60 mg/日から4〜5か月で5 mg/日まで漸減すること、急速進行性糸球体腎炎では血漿交換を考慮すべきこと、の3要素すべてがカードと一致する。数値の照合：漸減目標（プレドニゾロン換算5 mg/日）と期間（4〜5か月以内）は候補と一致。留保：候補にはグルココルチコイドの代替としてのアバコパン併用も併記されるが、カードは主出典のアバコパン部分を転用しておらず（根拠の ADVOCATE 試験の撤回による）、裏づけの範囲はグルココルチコイド併用の寛解導入・漸減・血漿交換の部分に限る。主出典 SRC-2948 は区分訂正あり（UNKNOWN→RESTRICTED）'
   uncertainty: リツキシマブは顕微鏡的多発血管炎・多発血管炎性肉芽腫症に対して2013年6月に国内で保険適用された（公的機関の公開資料で確認。PMDA の審査報告書での直接確認は未了）。同推奨にはアバコパン（タブネオス）への言及があるが、根拠の ADVOCATE 試験は NEJM が2026年6月29日に撤回したため、その部分は本カードに転用していない（2026年10月31日確認）。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-D-②（顕微鏡的多発血管炎、a）
@@ -138,6 +150,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2948 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ67 2026-11-14）。三原の承認（2026-11-11）による
 - id: VA-005
   domain: VA
   subdomain: 多発血管炎性肉芽腫症
@@ -157,8 +175,8 @@
     url: https://doi.org/10.1002/art.41986
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ67 2026-11-14）：Takano K, Hida K, Tani T, Yoshimitsu K. Vasculitis syndromes: large vessel vasculitides and ANCA-associated vasculitides from a neuroradiologist''s perspective. Jpn J Radiol. 2026;44(3):449-464（PMID: 41165911、DOI: 10.1007/s11604-025-01896-1、PMCID: PMC12948839、https://pmc.ncbi.nlm.nih.gov/articles/PMC12948839/）。裏づける部分：候補（CC BY 総説）が2022年 ACR/EULAR 多発血管炎性肉芽腫症分類基準の表を全項目再掲する：血性鼻汁・鼻痂皮・副鼻腔うっ血に+3、軟骨病変に+2、伝導・感音難聴に+1、cANCAまたは抗PR3-ANCA陽性に+5、肺結節・腫瘤・空洞に+2、肉芽腫・巨細胞に+2、副鼻腔の炎症・硬化に+1、pauci-immune 型糸球体腎炎に+1、pANCAまたは抗MPO-ANCA陽性に−1、好酸球数1×10⁹/L以上に−4、合計5点以上で分類する。数値の照合：配点・閾値は全て候補と一致。検証セットでの感度93%・特異度94%は候補に再掲なし。留保：主出典 SRC-420 は区分訂正あり（UNKNOWN→RESTRICTED）。PMID の補完候補あり'
   uncertainty: 出典マスター（SRC-420）では PMID が未登録だったため、登録版（Arthritis Rheumatol 版）で確認済みの PMID 35106964 を含めた。マスターへの補完を提案する。同基準は Ann Rheum Dis 誌にも同時掲載されている。分類基準であり、個別患者の診断基準ではない。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-D-③（多発血管炎性肉芽腫症、a）
@@ -173,6 +191,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-420 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ67 2026-11-14）。三原の承認（2026-11-11）による
 - id: VA-006
   domain: VA
   subdomain: 多発血管炎性肉芽腫症
@@ -193,7 +217,7 @@
     source_license: 出版社の利用条件（NEJM。Crossref に license 欄なし。CC の表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ67 2026-11-14）：ClinicalTrials.gov 登録レコード NCT00104299（Rituximab for the Treatment of Wegener's Granulomatosis and Microscopic Polyangiitis、結果投稿あり）（https://clinicaltrials.gov/study/NCT00104299）。裏づける部分：試験登録レコード（結果投稿あり）が RAVE 試験の主要評価項目（6か月時点の疾患寛解＝BVAS/WG スコア0かつプレドニゾン漸減の完了）をリツキシマブ群63/99例・対照（シクロホスファミド）群52/98例と記録し、非劣性解析（非劣性マージン−20%、p<0.001）も登録されている。登録症例数は99+98=197例でカードと一致する。数値の照合：63/99例=63.6%≒64%、52/98例=53.1%≒53% で、カードの6か月時点の完全寛解率（リツキシマブ群64%対シクロホスファミド群53%）と一致。留保：主出典 SRC-595 の区分は現行 RESTRICTED が正しい（NEJM。PMC 収載分 PMC3137658 は著者稿でライセンス表示なし）。PMCID の補完候補あり
   uncertainty: リツキシマブは多発血管炎性肉芽腫症・顕微鏡的多発血管炎に対して2013年6月に国内で保険適用された（公的機関の公開資料で確認。PMDA の審査報告書での直接確認は未了）。数値は抄録で確認した。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-D-③（多発血管炎性肉芽腫症、a）
@@ -208,6 +232,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ67 2026-11-14）。三原の承認（2026-11-11）による
 - id: VA-007
   domain: VA
   subdomain: Behçet病
@@ -266,7 +293,7 @@
     source_license: Wiley の利用規約（Crossref の license 欄。CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ67 2026-11-14）：Bergamo S. The diagnosis of Adamantiades-Behçet disease: Clinical features and diagnostic/classification criteria. Front Med. 2022;9:1098351（PMID: 36569165、DOI: 10.3389/fmed.2022.1098351、PMCID: PMC9780472、https://pmc.ncbi.nlm.nih.gov/articles/PMC9780472/）。裏づける部分：候補（CC BY 総説）が国際基準 ICBD（2014年）の配点を再掲する：眼病変、外陰部アフタ、口腔アフタに各2点、皮膚病変、中枢神経病変、血管病変に各1点、針反応は任意で実施した場合に1点を追加し、合計4点以上で Behçet 病と分類する、がカードと一致する。数値の照合：配点・閾値は候補と一致。検証セットでの感度94.8%・特異度90.5%と、旧来の ISG 基準より感度が高いという比較の数値は候補に再掲なし。留保：主出典 SRC-2950 の区分は現行 RESTRICTED が正しい（Wiley、Europe PMC で非 OA）'
   uncertainty: 分類基準であり、個別患者の診断基準ではない。国内では指定難病の診断基準（2024年小改訂）が診断の正である。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-D-④（Behçet病、a）
@@ -281,6 +308,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ67 2026-11-14）。三原の承認（2026-11-11）による
 - id: VA-009
   domain: VA
   subdomain: リウマチ性多発筋痛症
@@ -300,8 +330,8 @@
     url: https://doi.org/10.1136/annrheumdis-2011-200329
     source_license: Crossref は TDM リンクのみで CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ67 2026-11-14）：Yates M, Graham K, Watts RA, MacGregor AJ. The prevalence of giant cell arteritis and polymyalgia rheumatica in a UK primary care population. BMC Musculoskelet Disord. 2016;17:285（PMID: 27421253、DOI: 10.1186/s12891-016-1127-3、PMCID: PMC4946178、https://pmc.ncbi.nlm.nih.gov/articles/PMC4946178/）。裏づける部分：候補（CC BY の疫学研究）が2012年 EULAR/ACR 暫定分類基準（Dasgupta ら）の基準表を再掲する：朝のこわばり45分以上に2点、股関節痛・可動域制限に1点、他の関節痛の欠如に1点、リウマトイド因子・抗CCP抗体が正常（欠如）に2点、の4項目と配点がカードと一致する。数値の照合：配点は候補と一致するが、分類の閾値（合計4点以上）と感度68%・特異度78%は候補に再掲なし。朝のこわばりの境界表記は、カード「45分超」に対し候補の表は「45分以上」で、バッチ64（CX-008・016）と同種の表記差がある。留保：主出典 SRC-2951 は区分訂正あり（UNKNOWN→RESTRICTED。刊行版ライセンスは CC BY-NC 2.0 で自由区分に当たらない）。PMCID の補完候補あり'
   uncertainty: 超音波所見を加えた分類アルゴリズムも同論文にあるが、その性能は抄録の範囲で確認できていないため主張に入れていない。分類基準であり、個別患者の診断基準ではない。国内に本疾患単独の診療ガイドラインは確認できなかった。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-D-⑤（リウマチ性多発筋痛症、a）
@@ -316,6 +346,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2951 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ67 2026-11-14）。三原の承認（2026-11-11）による
 - id: VA-010
   domain: VA
   subdomain: リウマチ性多発筋痛症
@@ -370,8 +406,8 @@
     url: https://doi.org/10.1136/ard-2022-223482
     source_license: Crossref は TDM リンクのみで CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ67 2026-11-14）：Takano K, Hida K, Tani T, Yoshimitsu K. Vasculitis syndromes: large vessel vasculitides and ANCA-associated vasculitides from a neuroradiologist''s perspective. Jpn J Radiol. 2026;44(3):449-464（PMID: 41165911、DOI: 10.1007/s11604-025-01896-1、PMCID: PMC12948839、https://pmc.ncbi.nlm.nih.gov/articles/PMC12948839/）。裏づける部分：候補（CC BY 総説）が2022年 ACR/EULAR 高安動脈炎分類基準の表を再掲する：絶対要件（診断時の年齢60歳以下と画像での大血管炎所見）、女性に+1、狭心痛に+2、四肢跛行に+2、血管雑音に+2、上肢の脈拍減弱に+2、頸動脈の脈拍減弱または圧痛に+2、左右の収縮期血圧差20 mmHg以上に+1、罹患動脈領域の数に+1〜3、対になった動脈の病変に+1、合計5点以上で分類する、がカードと一致する。数値の照合：腹部大動脈と腎・腸間膜動脈の病変の配点は、カードの+3に対し候補の表では+2 と食い違う。主出典の抄録で差異確認をしたところ原典は+3 でカードと一致し、候補側の転記誤りとみられる（申し送り参照）。検証セットでの感度93.8%・特異度99.2%は候補に再掲なし。留保：主出典 SRC-2953 は区分訂正あり（UNKNOWN→RESTRICTED）'
   uncertainty: 同基準は Arthritis Rheumatol 誌にも同時掲載されている（DOI 10.1002/art.42324）。本カードは Ann Rheum Dis 版に基づく。分類基準であり、個別患者の診断基準ではない。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-D-⑥（高安動脈炎、b）
@@ -386,6 +422,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2953 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ67 2026-11-14）。三原の承認（2026-11-11）による
 - id: VA-012
   domain: VA
   subdomain: 高安動脈炎
@@ -440,7 +482,7 @@
     url: https://doi.org/10.1002/art.41776
     source_license: Wiley の利用規約のみ（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 結節性多発動脈炎には2022年 ACR/EULAR 分類基準はない。国内では厚生労働省研究班『抗リン脂質抗体症候群・好酸球性多発血管炎性肉芽腫症・結節性多発動脈炎・リウマトイド血管炎の治療の手引き2020』と指定難病42の診断基準が一次資料になる。多発単ニューロパチーとしての病変の型は神経分野の既存カードを正とする。
   curriculum:
@@ -456,6 +498,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2954 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: VA-014
   domain: VA
   subdomain: 好酸球性多発血管炎性肉芽腫症
@@ -476,7 +521,7 @@
     source_license: No commercial re-use（BMJ の権利表示）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ67 2026-11-14）：Takano K, Hida K, Tani T, Yoshimitsu K. Vasculitis syndromes: large vessel vasculitides and ANCA-associated vasculitides from a neuroradiologist''s perspective. Jpn J Radiol. 2026;44(3):449-464（PMID: 41165911、DOI: 10.1007/s11604-025-01896-1、PMCID: PMC12948839、https://pmc.ncbi.nlm.nih.gov/articles/PMC12948839/）。裏づける部分：候補（CC BY 総説）が2022年 ACR/EULAR 好酸球性多発血管炎性肉芽腫症分類基準の表を全項目再掲する：好酸球数1×10⁹/L以上に+5、閉塞性気道疾患に+3、鼻ポリープに+3、血管外の好酸球優位の炎症に+2、多発単ニューロパチーに+1、cANCAまたは抗PR3-ANCA陽性に−3、血尿に−1、合計6点以上で分類する。数値の照合：配点・閾値は全て候補と一致。検証セットでの感度85%・特異度99%は候補に再掲なし。留保：主出典 SRC-422 の区分は現行 RESTRICTED が正しい（BMJ、非 OA）。PMID の補完候補あり'
   uncertainty: 出典マスター（SRC-422）では PMID が未登録だったため、登録版（Ann Rheum Dis 版）で確認済みの PMID 35110334 を含めた。マスターへの補完を提案する。同基準は Arthritis Rheumatol 誌にも同時掲載されている。分類基準であり、個別患者の診断基準ではない。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-D-⑧（好酸球性多発血管炎性肉芽腫症、b）
@@ -491,6 +536,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ67 2026-11-14）。三原の承認（2026-11-11）による
 - id: VA-015
   domain: VA
   subdomain: IgA血管炎
@@ -510,8 +558,8 @@
     url: https://doi.org/10.1002/art.37715
     source_license: Wiley の利用規約のみ（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ67 2026-11-14）：Fraticelli P, Benfaremo D, Gabrielli A. Diagnosis and management of leukocytoclastic vasculitis. Intern Emerg Med. 2021;16(4):831-841（PMID: 33713282、DOI: 10.1007/s11739-021-02688-x、PMCID: PMC8195763、https://pmc.ncbi.nlm.nih.gov/articles/PMC8195763/）。裏づける部分：候補（CC BY 総説）が2012年改訂 Chapel Hill 命名法の表を再掲し、IgA血管炎を「IgA1優位の免疫沈着を伴い、主に小型血管（毛細血管・細静脈・細動脈）を侵す血管炎」と定義して、免疫複合体性小型血管炎の範疇（免疫グロブリン・補体の沈着を伴い主に小型血管を侵す血管炎）に置いており、カードの定義・位置づけと一致する。数値の照合：数値なし（定義のカード）。留保：主出典 SRC-2955 は区分訂正あり（UNKNOWN→RESTRICTED）。VA-016 と同一出典'
   uncertainty: 分類基準（EULAR/PRINTO/PRES 基準）と成人の全体像・予後は第40回の既存カード（HS-029・HS-030）で作成済みであり、本カードは全身性血管炎の分類における位置づけに限る。腎炎の詳細は腎分野の既存カードを正とする。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-D-⑨（IgA血管炎、b）
@@ -526,6 +574,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2955 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ67 2026-11-14）。三原の承認（2026-11-11）による
 - id: VA-016
   domain: VA
   subdomain: クリオグロブリン血症性血管炎
@@ -545,8 +599,8 @@
     url: https://doi.org/10.1002/art.37715
     source_license: Wiley の利用規約のみ（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ67 2026-11-14）：Fraticelli P, Benfaremo D, Gabrielli A. Diagnosis and management of leukocytoclastic vasculitis. Intern Emerg Med. 2021;16(4):831-841（PMID: 33713282、DOI: 10.1007/s11739-021-02688-x、PMCID: PMC8195763、https://pmc.ncbi.nlm.nih.gov/articles/PMC8195763/）。裏づける部分：候補（CC BY 総説）が2012年改訂 Chapel Hill 命名法の表を再掲し、クリオグロブリン血症性血管炎を「クリオグロブリン免疫沈着を伴い、主に小型血管（毛細血管・細静脈・細動脈）を侵す血管炎で、血清クリオグロブリンを伴う」と定義して、免疫複合体性小型血管炎の範疇に置いており、カードの定義の中核と逐語的に一致する。数値の照合：数値なし（定義のカード）。留保：カードの「皮膚、糸球体、末梢神経がしばしば侵される」という一文は候補に再掲なし。主出典 SRC-2955 は区分訂正あり（VA-015 と同一出典）'
   uncertainty: 本カードは分類上の定義に限る。本項目には登録表で別表1（疾患名）の候補行がなく、対応するコアカリは共通候補と PS のみとした。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-D-⑩（クリオグロブリン血症性血管炎、c）
@@ -561,6 +615,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2955 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ67 2026-11-14）。三原の承認（2026-11-11）による
 - id: VA-017
   domain: VA
   subdomain: 抗糸球体基底膜抗体病
@@ -580,8 +640,8 @@
     url: https://doi.org/10.1097/MD.0b013e31822f6f68
     source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ67 2026-11-14）：Honda S, Katsumata Y, Karasawa K, Yamanaka H, Harigai M. Management of End-stage Renal Disease Associated with Systemic Rheumatic Diseases. JMA J. 2020;3(1):20-28（PMID: 33324772、DOI: 10.31662/jmaj.2019-0020、PMCID: PMC7733740、https://pmc.ncbi.nlm.nih.gov/articles/PMC7733740/）。裏づける部分：候補（CC BY 総説）が抗糸球体基底膜抗体病について、発症1年時点の患者生存率72.7%・腎生存率25.0%（腎生存率は2か月時点35.8%）を明記し、カードの数値と一致する。ただし候補でこの値の帰属先とされているのは、同じ中国単施設コホートの経験を総説した Chen M, Cui Z, Zhao MH（Nephrol Dial Transplant. 2010）であり、主出典（Cui ら 2011）の症例数221例と、「血漿交換と副腎皮質ステロイド・シクロホスファミドの併用療法が患者生存と腎生存の双方に有益」という治療枠組み自体の再掲はない。数値の照合：1年時点の患者生存率72.7%・腎生存率25.0%は候補と一致。留保：主出典 SRC-597 は区分訂正あり（UNKNOWN→RESTRICTED）'
   uncertainty: 出典は中国の単施設の後方視コホート研究であり、無作為化試験ではない。腎病変の管理の詳細は腎分野の既存カードを正とし、本カードは血管炎としての位置づけと治療原則の側面に限る。2012年改訂 Chapel Hill 命名法でも本疾患は免疫複合体性小型血管炎に分類される。副腎皮質ステロイドとシクロホスファミドは国内で汎用される薬剤だが、抗糸球体基底膜抗体病の適応としての国内承認・保険適用の状況は未確認である。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-D-⑪（抗糸球体基底膜抗体病、c）
@@ -596,6 +656,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-597 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ67 2026-11-14）。三原の承認（2026-11-11）による
 - id: VA-018
   domain: VA
   subdomain: 川崎病
@@ -616,7 +682,7 @@
     source_license: Wiley の利用規約（Crossref の license 欄。CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ67 2026-11-14）：Liu C, Liu D, Li B, et al. Decoding clinical heterogeneity and age-related coronary risk in incomplete Kawasaki disease: a multicenter cluster analysis and structural equation modeling study. Front Immunol. 2026;17:1908370（PMID: 42770018、DOI: 10.3389/fimmu.2026.1908370、PMCID: PMC13592195、https://pmc.ncbi.nlm.nih.gov/articles/PMC13592195/）。裏づける部分：候補（CC BY の多施設研究）が、日本の川崎病診断の手引き改訂第6版に基づく主要症状6項目（発熱、両側眼球結膜の充血、口唇・口腔の変化、発疹、四肢末端の変化、非化膿性頸部リンパ節腫脹）を明記し、発熱を主要症状の1項目として初回 IVIG 投与前に認められたかで数える運用で実際に適用している。数値の照合：主要症状6項目は候補と一致するが、「6項目中5項目以上を完全型とする」という閾値と、「発熱の日数は必須の条件ではなくなった」という第5版からの変更点の明示、発疹に含まれる BCG 接種痕の発赤の明示は候補にない。留保：主出典 SRC-2956 の区分は現行 RESTRICTED が正しい（Wiley、非 OA）。手引き本体の表そのものの再掲は自由全文に見つからなかった'
   uncertainty: 診断の手引き本体の PDF は直接照合しておらず、主要症状と定義は第6版の解説論文と、後遺症ガイドライン（SRC-213）に収載された手引きの表で確認した。不全型の詳細な定義は本カードでは扱わない。
   curriculum:
     kokushi: 医学各論 Ⅺ-5-A-①（川崎病、a）
@@ -631,6 +697,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ67 2026-11-14）。三原の承認（2026-11-11）による
 - id: VA-019
   domain: VA
   subdomain: 川崎病
@@ -651,7 +720,7 @@
     source_license: © Japanese Society of Pediatric Cardiology and Cardiac Surgery（CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ67 2026-11-14）：Buda P, Friedman-Gruszczyńska J, Książyk J. Anti-inflammatory Treatment of Kawasaki Disease: Comparison of Current Guidelines and Perspectives. Front Med. 2021;8:738850（PMID: 34917629、DOI: 10.3389/fmed.2021.738850、PMCID: PMC8669475、https://pmc.ncbi.nlm.nih.gov/articles/PMC8669475/）。裏づける部分：候補（CC BY のガイドライン比較総説）が川崎病急性期治療の用量体系を各国ガイドラインの表で明記する：免疫グロブリン2 g/kg の単回投与、アスピリンは発熱時30〜50 mg/kg/日を解熱後48時間以降に3〜5 mg/kg/日へ減量する、がカードと一致する。高リスク例（IVIG 不応が予測される例）への初回治療からのグルココルチコイド（プレドニゾロン等）併用も、日本の実践として候補に記載がある。数値の照合：IVIG 2 g/kg、アスピリン30〜50 mg/kg/日（発熱時）→3〜5 mg/kg/日（解熱後）は候補と一致。留保：シクロスポリンは候補では難治例への選択肢としての位置づけであり、IVIG 不応が予測される例への初回 IVIG との併用という主出典の推奨の形そのものは再掲がない。主出典 SRC-2957 の区分は現行 RESTRICTED が正しい（©日本小児循環器学会、CC 表示なし）'
   uncertainty: プレドニゾロンの併用とシクロスポリン内用液の併用は同ガイドラインで国内の保険適用ありと確認した。インフリキシマブは標準治療に抵抗性の急性期川崎病で保険適用がある。冠動脈病変の管理は循環器分野の既存資料（SRC-213）を正とする。同ガイドラインの DOI は学会誌公式サイトで確認したが、Crossref には未登録だった。
   curriculum:
     kokushi: 医学各論 Ⅺ-5-A-①（川崎病、a）
@@ -666,3 +735,6 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ67 2026-11-14）。三原の承認（2026-11-11）による

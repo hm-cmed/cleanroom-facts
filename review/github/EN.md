@@ -60,7 +60,7 @@
 
 - 条件：region: 国際／study: 総説（Nature Reviews Disease Primers、2019年）
 - 不確実性：年齢分布と遺伝子変異は出典の抄録で確認した。乳頭型に対する BRAF 阻害薬などの分子標的治療の位置づけや、国内の治療成績は本調査では確認していない。
-- 出典：Müller HL, Merchant TE, Warmuth-Metz M, Martinez-Barbera JP, Puget S. Craniopharyngioma. Nature Reviews Disease Primers. 2019;5(1):75.　[DOI 10.1038/s41572-019-0125-9](https://doi.org/10.1038/s41572-019-0125-9)　[PMID 31699993](https://pubmed.ncbi.nlm.nih.gov/31699993/)（区分 UNKNOWN）
+- 出典：Müller HL, Merchant TE, Warmuth-Metz M, Martinez-Barbera JP, Puget S. Craniopharyngioma. Nature Reviews Disease Primers. 2019;5(1):75.　[DOI 10.1038/s41572-019-0125-9](https://doi.org/10.1038/s41572-019-0125-9)　[PMID 31699993](https://pubmed.ncbi.nlm.nih.gov/31699993/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-A-④（視床下部腫瘍、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-004&card_id=EN-004&version=870ff1664e)　（版 `870ff1664e`）
 
@@ -128,7 +128,7 @@
 
 - 条件：region: 米国／study: 総説（JAMA、2017年）
 - 不確実性：有病率と各腫瘍型の割合は出典の抄録で確認した（原著の集計範囲が広く、割合には幅がある）。2022年の WHO 分類（下垂体神経内分泌腫瘍 PitNET への改称を含む）との対応は本調査では確認しておらず、分類の最新動向は取り込み側で補完されたい。
-- 出典：Molitch ME. Diagnosis and Treatment of Pituitary Adenomas: A Review. JAMA. 2017;317(5):516-524.　[DOI 10.1001/jama.2016.19699](https://doi.org/10.1001/jama.2016.19699)　[PMID 28170483](https://pubmed.ncbi.nlm.nih.gov/28170483/)（区分 UNKNOWN）
+- 出典：Molitch ME. Diagnosis and Treatment of Pituitary Adenomas: A Review. JAMA. 2017;317(5):516-524.　[DOI 10.1001/jama.2016.19699](https://doi.org/10.1001/jama.2016.19699)　[PMID 28170483](https://pubmed.ncbi.nlm.nih.gov/28170483/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-B-③（下垂体腫瘍、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-461 (id: JlvnmK0)；TBL-01-00-669 (id: Jlvnmek)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-009&card_id=EN-009&version=e29d081e29)　（版 `e29d081e29`）
 
@@ -138,7 +138,7 @@
 
 - 条件：region: 米国／study: 総説（JAMA、2017年）
 - 不確実性：治療の原則は出典の抄録で確認した。各腺腫型の薬物療法の詳細（薬剤の選択順位や有効率）は抄録の範囲を超えるため主張文には入れていない。ドパミン作動薬など個別薬剤の国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】カベルゴリン（カバサール）は高プロラクチン血性下垂体腺腫等、ブロモクリプチン（パーロデル）は下垂体性プロラクチン分泌異常等の適応で承認済み。「ドパミン作動薬の承認・保険適用は未確認」は解消できる
-- 出典：Molitch ME. Diagnosis and Treatment of Pituitary Adenomas: A Review. JAMA. 2017;317(5):516-524.　[DOI 10.1001/jama.2016.19699](https://doi.org/10.1001/jama.2016.19699)　[PMID 28170483](https://pubmed.ncbi.nlm.nih.gov/28170483/)（区分 UNKNOWN）
+- 出典：Molitch ME. Diagnosis and Treatment of Pituitary Adenomas: A Review. JAMA. 2017;317(5):516-524.　[DOI 10.1001/jama.2016.19699](https://doi.org/10.1001/jama.2016.19699)　[PMID 28170483](https://pubmed.ncbi.nlm.nih.gov/28170483/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-B-③（下垂体腫瘍、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-461 (id: JlvnmK0)；TBL-01-00-669 (id: Jlvnmek)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-010&card_id=EN-010&version=d4253195e6)　（版 `d4253195e6`）
 
@@ -280,7 +280,7 @@
 
 - 条件：region: 欧州／study: ガイドライン（英国、2011年版）
 - 不確実性：症候と初期対応の骨格は出典の抄録で確認した。ヒドロコルチゾンの投与量や手術のタイミングなど管理の詳細は抄録の範囲を超えるため入れていない。ヒドロコルチゾン製剤の国内承認・保険適用は一般的なものであるが、本調査では個別に確認していない。
-- 出典：Rajasekaran S, Vanderpump M, Baldeweg S, et al. UK Guidelines for the Management of Pituitary Apoplexy. Clinical Endocrinology. 2011;74(1):9-20.　[DOI 10.1111/j.1365-2265.2010.03913.x](https://doi.org/10.1111/j.1365-2265.2010.03913.x)　[PMID 21044119](https://pubmed.ncbi.nlm.nih.gov/21044119/)（区分 UNKNOWN）
+- 出典：Rajasekaran S, Vanderpump M, Baldeweg S, et al. UK Guidelines for the Management of Pituitary Apoplexy. Clinical Endocrinology. 2011;74(1):9-20.　[DOI 10.1111/j.1365-2265.2010.03913.x](https://doi.org/10.1111/j.1365-2265.2010.03913.x)　[PMID 21044119](https://pubmed.ncbi.nlm.nih.gov/21044119/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-B-③（下垂体腫瘍、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-461 (id: JlvnmK0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-020&card_id=EN-020&version=954d2b5da2)　（版 `954d2b5da2`）
 

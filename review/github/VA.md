@@ -12,7 +12,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：同基準は Arthritis Rheumatol 誌にも同時掲載されている（DOI 10.1002/art.42325）。本カードは Ann Rheum Dis 版に基づく。分類基準であり、個別患者の診断基準ではない。
-- 出典：Ponte C, Grayson PC, Robson JC, et al. 2022 American College of Rheumatology/EULAR classification criteria for giant cell arteritis. Ann Rheum Dis. 2022;81(12):1647-1653.　[DOI 10.1136/ard-2022-223480](https://doi.org/10.1136/ard-2022-223480)　[PMID 36351706](https://pubmed.ncbi.nlm.nih.gov/36351706/)（区分 UNKNOWN）
+- 出典：Ponte C, Grayson PC, Robson JC, et al. 2022 American College of Rheumatology/EULAR classification criteria for giant cell arteritis. Ann Rheum Dis. 2022;81(12):1647-1653.　[DOI 10.1136/ard-2022-223480](https://doi.org/10.1136/ard-2022-223480)　[PMID 36351706](https://pubmed.ncbi.nlm.nih.gov/36351706/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-D-①（巨細胞性動脈炎、a）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；PS-03-02-02 (id: JnGUA2Y)；TBL-01-00-566 (id: JlvnmWI)；TBL-02-17-001 (id: JlAKp1U)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VA-001&card_id=VA-001&version=01bc76ee51)　（版 `01bc76ee51`）
 
@@ -38,7 +38,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：出典マスター（SRC-421）では書誌が著者名と標題のみで、誌名・DOI・PMID が未登録だったため、登録版（Arthritis Rheumatol 版）で確認済みの書誌情報を含めた。マスターへの補完を提案する。同基準は Ann Rheum Dis 誌にも同時掲載されている。分類基準であり、個別患者の診断基準ではない。
-- 出典：Suppiah R, Robson JC, Grayson PC, et al. 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology classification criteria for microscopic polyangiitis. Arthritis Rheumatol. 2022;74(3):400-406.　[DOI 10.1002/art.41983](https://doi.org/10.1002/art.41983)　[PMID 35106973](https://pubmed.ncbi.nlm.nih.gov/35106973/)（区分 UNKNOWN）
+- 出典：Suppiah R, Robson JC, Grayson PC, et al. 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology classification criteria for microscopic polyangiitis. Arthritis Rheumatol. 2022;74(3):400-406.　[DOI 10.1002/art.41983](https://doi.org/10.1002/art.41983)　[PMID 35106973](https://pubmed.ncbi.nlm.nih.gov/35106973/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-D-②（顕微鏡的多発血管炎、a）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；PS-03-02-03 (id: JnGUA2g)；TBL-01-00-569 (id: JlvnmWY)；TBL-02-17-010 (id: JnNn_eY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VA-003&card_id=VA-003&version=0565881a7e)　（版 `0565881a7e`）
 
@@ -48,7 +48,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：リツキシマブは顕微鏡的多発血管炎・多発血管炎性肉芽腫症に対して2013年6月に国内で保険適用された（公的機関の公開資料で確認。PMDA の審査報告書での直接確認は未了）。同推奨にはアバコパン（タブネオス）への言及があるが、根拠の ADVOCATE 試験は NEJM が2026年6月29日に撤回したため、その部分は本カードに転用していない（2026年10月31日確認）。
-- 出典：Hellmich B, Sanchez-Alamo B, Schirmer JH, et al. EULAR recommendations for the management of ANCA-associated vasculitis: 2022 update. Ann Rheum Dis. 2024;83(1):30-47.　[DOI 10.1136/ard-2022-223764](https://doi.org/10.1136/ard-2022-223764)　[PMID 36927642](https://pubmed.ncbi.nlm.nih.gov/36927642/)（区分 UNKNOWN）
+- 出典：Hellmich B, Sanchez-Alamo B, Schirmer JH, et al. EULAR recommendations for the management of ANCA-associated vasculitis: 2022 update. Ann Rheum Dis. 2024;83(1):30-47.　[DOI 10.1136/ard-2022-223764](https://doi.org/10.1136/ard-2022-223764)　[PMID 36927642](https://pubmed.ncbi.nlm.nih.gov/36927642/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-D-②（顕微鏡的多発血管炎、a）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；PS-03-02-03 (id: JnGUA2g)；TBL-01-00-569 (id: JlvnmWY)；TBL-02-17-010 (id: JnNn_eY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VA-004&card_id=VA-004&version=ed32dbe18b)　（版 `ed32dbe18b`）
 
@@ -64,7 +64,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：出典マスター（SRC-420）では PMID が未登録だったため、登録版（Arthritis Rheumatol 版）で確認済みの PMID 35106964 を含めた。マスターへの補完を提案する。同基準は Ann Rheum Dis 誌にも同時掲載されている。分類基準であり、個別患者の診断基準ではない。
-- 出典：Robson JC, Grayson PC, Ponte C, et al. 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology classification criteria for granulomatosis with polyangiitis. Arthritis Rheumatol. 2022;74(3):393-399.　[DOI 10.1002/art.41986](https://doi.org/10.1002/art.41986)　[PMID 35106964](https://pubmed.ncbi.nlm.nih.gov/35106964/)（区分 UNKNOWN）
+- 出典：Robson JC, Grayson PC, Ponte C, et al. 2022 American College of Rheumatology/European Alliance of Associations for Rheumatology classification criteria for granulomatosis with polyangiitis. Arthritis Rheumatol. 2022;74(3):393-399.　[DOI 10.1002/art.41986](https://doi.org/10.1002/art.41986)　[PMID 35106964](https://pubmed.ncbi.nlm.nih.gov/35106964/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-D-③（多発血管炎性肉芽腫症、a）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；PS-03-02-03 (id: JnGUA2g)；TBL-01-00-570 (id: JlvnmWg)；TBL-02-17-010 (id: JnNn_eY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VA-005&card_id=VA-005&version=ba3ae3ea7f)　（版 `ba3ae3ea7f`）
 
@@ -116,7 +116,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：超音波所見を加えた分類アルゴリズムも同論文にあるが、その性能は抄録の範囲で確認できていないため主張に入れていない。分類基準であり、個別患者の診断基準ではない。国内に本疾患単独の診療ガイドラインは確認できなかった。
-- 出典：Dasgupta B, Cimmino MA, Kremers HM, et al. 2012 provisional classification criteria for polymyalgia rheumatica: a EULAR/ACR collaborative initiative. Ann Rheum Dis. 2012;71(4):484-492.　[DOI 10.1136/annrheumdis-2011-200329](https://doi.org/10.1136/annrheumdis-2011-200329)　[PMID 22388996](https://pubmed.ncbi.nlm.nih.gov/22388996/)（区分 UNKNOWN）
+- 出典：Dasgupta B, Cimmino MA, Kremers HM, et al. 2012 provisional classification criteria for polymyalgia rheumatica: a EULAR/ACR collaborative initiative. Ann Rheum Dis. 2012;71(4):484-492.　[DOI 10.1136/annrheumdis-2011-200329](https://doi.org/10.1136/annrheumdis-2011-200329)　[PMID 22388996](https://pubmed.ncbi.nlm.nih.gov/22388996/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-D-⑤（リウマチ性多発筋痛症、a）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；PS-03-02-02 (id: JnGUA2Y)；TBL-01-00-581 (id: JlvnmVo)；TBL-02-17-009 (id: JlAKp10)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VA-009&card_id=VA-009&version=9c675323ef)　（版 `9c675323ef`）
 
@@ -142,7 +142,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：同基準は Arthritis Rheumatol 誌にも同時掲載されている（DOI 10.1002/art.42324）。本カードは Ann Rheum Dis 版に基づく。分類基準であり、個別患者の診断基準ではない。
-- 出典：Grayson PC, Ponte C, Suppiah R, et al. 2022 American College of Rheumatology/EULAR classification criteria for Takayasu arteritis. Ann Rheum Dis. 2022;81(12):1654-1660.　[DOI 10.1136/ard-2022-223482](https://doi.org/10.1136/ard-2022-223482)　[PMID 36351705](https://pubmed.ncbi.nlm.nih.gov/36351705/)（区分 UNKNOWN）
+- 出典：Grayson PC, Ponte C, Suppiah R, et al. 2022 American College of Rheumatology/EULAR classification criteria for Takayasu arteritis. Ann Rheum Dis. 2022;81(12):1654-1660.　[DOI 10.1136/ard-2022-223482](https://doi.org/10.1136/ard-2022-223482)　[PMID 36351705](https://pubmed.ncbi.nlm.nih.gov/36351705/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-D-⑥（高安動脈炎、b）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；TBL-01-00-567 (id: JlvnmWM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VA-011&card_id=VA-011&version=2b184f633a)　（版 `2b184f633a`）
 
@@ -168,7 +168,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：結節性多発動脈炎には2022年 ACR/EULAR 分類基準はない。国内では厚生労働省研究班『抗リン脂質抗体症候群・好酸球性多発血管炎性肉芽腫症・結節性多発動脈炎・リウマトイド血管炎の治療の手引き2020』と指定難病42の診断基準が一次資料になる。多発単ニューロパチーとしての病変の型は神経分野の既存カードを正とする。
-- 出典：Chung SA, Gorelik M, Langford CA, et al. 2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Polyarteritis Nodosa. Arthritis Rheumatol. 2021;73(8):1384-1393.　[DOI 10.1002/art.41776](https://doi.org/10.1002/art.41776)　[PMID 34235883](https://pubmed.ncbi.nlm.nih.gov/34235883/)（区分 UNKNOWN）
+- 出典：Chung SA, Gorelik M, Langford CA, et al. 2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Polyarteritis Nodosa. Arthritis Rheumatol. 2021;73(8):1384-1393.　[DOI 10.1002/art.41776](https://doi.org/10.1002/art.41776)　[PMID 34235883](https://pubmed.ncbi.nlm.nih.gov/34235883/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-D-⑦（結節性多発動脈炎、b）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；TBL-01-00-568 (id: JlvnmWU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VA-013&card_id=VA-013&version=3fa4db8f61)　（版 `3fa4db8f61`）
 
@@ -200,7 +200,7 @@
 
 - 条件：region: 国際／対象: 小児・成人
 - 不確実性：分類基準（EULAR/PRINTO/PRES 基準）と成人の全体像・予後は第40回の既存カード（HS-029・HS-030）で作成済みであり、本カードは全身性血管炎の分類における位置づけに限る。腎炎の詳細は腎分野の既存カードを正とする。
-- 出典：Jennette JC, Falk RJ, Bacon PA, et al. 2012 revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides. Arthritis Rheum. 2013;65(1):1-11.　[DOI 10.1002/art.37715](https://doi.org/10.1002/art.37715)　[PMID 23045170](https://pubmed.ncbi.nlm.nih.gov/23045170/)（区分 UNKNOWN）
+- 出典：Jennette JC, Falk RJ, Bacon PA, et al. 2012 revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides. Arthritis Rheum. 2013;65(1):1-11.　[DOI 10.1002/art.37715](https://doi.org/10.1002/art.37715)　[PMID 23045170](https://pubmed.ncbi.nlm.nih.gov/23045170/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-D-⑨（IgA血管炎、b）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；TBL-01-00-572 (id: JlvnmWs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VA-015&card_id=VA-015&version=4c0723e8ac)　（版 `4c0723e8ac`）
 
@@ -216,7 +216,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：本カードは分類上の定義に限る。本項目には登録表で別表1（疾患名）の候補行がなく、対応するコアカリは共通候補と PS のみとした。
-- 出典：Jennette JC, Falk RJ, Bacon PA, et al. 2012 revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides. Arthritis Rheum. 2013;65(1):1-11.　[DOI 10.1002/art.37715](https://doi.org/10.1002/art.37715)　[PMID 23045170](https://pubmed.ncbi.nlm.nih.gov/23045170/)（区分 UNKNOWN）
+- 出典：Jennette JC, Falk RJ, Bacon PA, et al. 2012 revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides. Arthritis Rheum. 2013;65(1):1-11.　[DOI 10.1002/art.37715](https://doi.org/10.1002/art.37715)　[PMID 23045170](https://pubmed.ncbi.nlm.nih.gov/23045170/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-D-⑩（クリオグロブリン血症性血管炎、c）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VA-016&card_id=VA-016&version=8772f7cae9)　（版 `8772f7cae9`）
 
@@ -232,7 +232,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：出典は中国の単施設の後方視コホート研究であり、無作為化試験ではない。腎病変の管理の詳細は腎分野の既存カードを正とし、本カードは血管炎としての位置づけと治療原則の側面に限る。2012年改訂 Chapel Hill 命名法でも本疾患は免疫複合体性小型血管炎に分類される。副腎皮質ステロイドとシクロホスファミドは国内で汎用される薬剤だが、抗糸球体基底膜抗体病の適応としての国内承認・保険適用の状況は未確認である。
-- 出典：Cui Z, Zhao J, Jia XY, et al. Anti-glomerular basement membrane disease: outcomes of different therapeutic regimens in a large single-center Chinese cohort study. Medicine (Baltimore). 2011;90(5):303-311.　[DOI 10.1097/MD.0b013e31822f6f68](https://doi.org/10.1097/MD.0b013e31822f6f68)　[PMID 21862934](https://pubmed.ncbi.nlm.nih.gov/21862934/)（区分 UNKNOWN）
+- 出典：Cui Z, Zhao J, Jia XY, et al. Anti-glomerular basement membrane disease: outcomes of different therapeutic regimens in a large single-center Chinese cohort study. Medicine (Baltimore). 2011;90(5):303-311.　[DOI 10.1097/MD.0b013e31822f6f68](https://doi.org/10.1097/MD.0b013e31822f6f68)　[PMID 21862934](https://pubmed.ncbi.nlm.nih.gov/21862934/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-D-⑪（抗糸球体基底膜抗体病、c）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；PS-03-02-03 (id: JnGUA2g)；TBL-01-00-574 (id: JlvnmXA)；TBL-02-17-010 (id: JnNn_eY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VA-017&card_id=VA-017&version=d168471851)　（版 `d168471851`）
 

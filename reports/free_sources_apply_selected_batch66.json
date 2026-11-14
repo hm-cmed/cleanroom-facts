@@ -1,0 +1,44 @@
+{
+ "class": [
+  [
+   "SRC-1618",
+   "RESTRICTED",
+   "OPEN"
+  ],
+  [
+   "SRC-874",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-877",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-884",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [],
+ "B": [
+  "BT-001",
+  "BT-002",
+  "BT-003",
+  "BT-004",
+  "BT-007",
+  "BT-008",
+  "BT-009",
+  "BT-011",
+  "BT-012",
+  "BT-013",
+  "BT-014",
+  "BT-015",
+  "BT-016",
+  "BT-017",
+  "BT-018",
+  "BT-020"
+ ],
+ "new_src": []
+}

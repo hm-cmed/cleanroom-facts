@@ -80,7 +80,7 @@
 
 - 条件：region: 米国／対象: 原発性運動常動症の小児（単一施設のコホート）
 - 不確実性：米国の単一施設（Johns Hopkins 系）の臨床コホートに基づく。出典のライセンス表示は Crossref のレート制限により照合を完了できなかったため、source_class は UNKNOWN とした。常動運動症に確立した薬物療法は示されておらず、本カードでは薬剤を扱っていない。
-- 出典：Harris KM, Mahone EM, Singer HS. Nonautistic motor stereotypies: clinical features and longitudinal follow-up. Pediatr Neurol. 2008;38(4):267-272　[DOI 10.1016/j.pediatrneurol.2007.12.008](https://doi.org/10.1016/j.pediatrneurol.2007.12.008)　[PMID 18358406](https://pubmed.ncbi.nlm.nih.gov/18358406/)（区分 UNKNOWN）
+- 出典：Harris KM, Mahone EM, Singer HS. Nonautistic motor stereotypies: clinical features and longitudinal follow-up. Pediatr Neurol. 2008;38(4):267-272　[DOI 10.1016/j.pediatrneurol.2007.12.008](https://doi.org/10.1016/j.pediatrneurol.2007.12.008)　[PMID 18358406](https://pubmed.ncbi.nlm.nih.gov/18358406/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅱ-5-C-②（常動運動症<常動運動障害>、c）　コアカリ：PS-02-17-05 (id: JkxnuT8)；PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DV-006&card_id=DV-006&version=c502d25867)　（版 `c502d25867`）
 
