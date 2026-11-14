@@ -12,7 +12,7 @@
 
 - 条件：region: イスラエルの3次医療機関／study: 後ろ向き症例集積（118例）
 - 不確実性：単施設の後方視的検討に基づく数値であり、軽症例を含む一般集団の頻度とは異なる可能性がある。海綿静脈洞血栓症などの重篤な合併症については、本検討では合併症なしと報告されており、その頻度は確認できなかった。
-- 出典：Lipschitz N, Yakirevitch A, Sagiv D, Migirov L, et al. Nasal vestibulitis: etiology, risk factors, and clinical characteristics: A retrospective study of 118 cases. Diagn Microbiol Infect Dis. 2017;89(2):131-134　[DOI 10.1016/j.diagmicrobio.2017.06.007](https://doi.org/10.1016/j.diagmicrobio.2017.06.007)　[PMID 28780999](https://pubmed.ncbi.nlm.nih.gov/28780999/)（区分 UNKNOWN）
+- 出典：Lipschitz N, Yakirevitch A, Sagiv D, Migirov L, et al. Nasal vestibulitis: etiology, risk factors, and clinical characteristics: A retrospective study of 118 cases. Diagn Microbiol Infect Dis. 2017;89(2):131-134　[DOI 10.1016/j.diagmicrobio.2017.06.007](https://doi.org/10.1016/j.diagmicrobio.2017.06.007)　[PMID 28780999](https://pubmed.ncbi.nlm.nih.gov/28780999/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-9-A-①（鼻せつ、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-001&card_id=NL-001&version=20cedad5cc)　（版 `20cedad5cc`）
 
@@ -28,7 +28,7 @@
 
 - 条件：region: 米国（プライマリケア）／study: 総説
 - 不確実性：2006年の総説であり、分類の骨格を示すものとして用いた。DOI は PubMed レコードに記載がなく確認できなかったため null とした。個別の検査・治療の推奨は最新のガイドラインで確認が必要である。
-- 出典：Quillen DM, Feller DB. Diagnosing rhinitis: allergic vs. nonallergic. Am Fam Physician. 2006;73(9):1583-1590　[PMID 16719251](https://pubmed.ncbi.nlm.nih.gov/16719251/)（区分 UNKNOWN）
+- 出典：Quillen DM, Feller DB. Diagnosing rhinitis: allergic vs. nonallergic. Am Fam Physician. 2006;73(9):1583-1590　[PMID 16719251](https://pubmed.ncbi.nlm.nih.gov/16719251/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-9-A-②（鼻炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-512 (id: JlvnmQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-002&card_id=NL-002&version=c217a4cc69)　（版 `c217a4cc69`）
 
@@ -58,7 +58,7 @@
 
 - 条件：region: 日本／対象: 一般住民
 - 不確実性：数値は2019年全国疫学調査（松原ほか、2020）の抄録と公表資料で確認した値で、質問紙調査に基づく。旧カード（NL-004）にあった年齢別の記述（通年性アレルギー性鼻炎は若年層に多く、スギ花粉症は中年層に多い）は2019年調査の結果と合わないため引き継いでいない。2020年以降の全国調査による有病率の更新は未確認である。
-- 出典：松原篤、坂下雅文、後藤穣、ほか. 2019年全国疫学調査（鼻アレルギー）. 日本耳鼻咽喉科学会会報. 2020;123:485-490.（区分 UNKNOWN）
+- 出典：松原篤、坂下雅文、後藤穣、ほか. 2019年全国疫学調査（鼻アレルギー）. 日本耳鼻咽喉科学会会報. 2020;123:485-490.（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-9-A-②（鼻炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-511 (id: JlvnmQA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-022&card_id=NL-022&version=caeac9c61f)　（版 `caeac9c61f`）
 
@@ -74,7 +74,7 @@
 
 - 条件：region: 欧州（国際的なポジションペーパー）／study: ガイドライン（ポジションペーパー）
 - 不確実性：定義と経過による分類は、EPOS 2020 の抄録および同文書の基準を引用する複数の論文で確認した。本カードでは個別の抗菌薬名は挙げていない。抗菌薬をはじめとする薬物療法の国内承認・保険適用は未確認である。
-- 出典：Fokkens WJ, Lund VJ, Hopkins C, Hellings PW, Kern R, Reitsma S, et al. European Position Paper on Rhinosinusitis and Nasal Polyps 2020. Rhinology. 2020;58(Suppl S29):1-464　[DOI 10.4193/Rhin20.600](https://doi.org/10.4193/Rhin20.600)　[PMID 32077450](https://pubmed.ncbi.nlm.nih.gov/32077450/)（区分 UNKNOWN）
+- 出典：Fokkens WJ, Lund VJ, Hopkins C, Hellings PW, Kern R, Reitsma S, et al. European Position Paper on Rhinosinusitis and Nasal Polyps 2020. Rhinology. 2020;58(Suppl S29):1-464　[DOI 10.4193/Rhin20.600](https://doi.org/10.4193/Rhin20.600)　[PMID 32077450](https://pubmed.ncbi.nlm.nih.gov/32077450/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-9-A-③（副鼻腔炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-510 (id: JlvnmP4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-005&card_id=NL-005&version=0a7cc62175)　（版 `0a7cc62175`）
 
@@ -84,7 +84,7 @@
 
 - 条件：region: 欧州（国際的なポジションペーパー）／study: ガイドライン（ポジションペーパー）
 - 不確実性：定義と新しい分類は EPOS 2020 の抄録および同文書を引用する複数の論文で確認した。好酸球性副鼻腔炎に特化した日本の診断基準（JESREC）は本カードには含めていない。鼻腔内ステロイドなど薬剤の国内承認・保険適用は未確認である。
-- 出典：Fokkens WJ, Lund VJ, Hopkins C, Hellings PW, Kern R, Reitsma S, et al. European Position Paper on Rhinosinusitis and Nasal Polyps 2020. Rhinology. 2020;58(Suppl S29):1-464　[DOI 10.4193/Rhin20.600](https://doi.org/10.4193/Rhin20.600)　[PMID 32077450](https://pubmed.ncbi.nlm.nih.gov/32077450/)（区分 UNKNOWN）
+- 出典：Fokkens WJ, Lund VJ, Hopkins C, Hellings PW, Kern R, Reitsma S, et al. European Position Paper on Rhinosinusitis and Nasal Polyps 2020. Rhinology. 2020;58(Suppl S29):1-464　[DOI 10.4193/Rhin20.600](https://doi.org/10.4193/Rhin20.600)　[PMID 32077450](https://pubmed.ncbi.nlm.nih.gov/32077450/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-9-A-③（副鼻腔炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-510 (id: JlvnmP4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-006&card_id=NL-006&version=3f2e212005)　（版 `3f2e212005`）
 
@@ -114,7 +114,7 @@
 
 - 条件：region: 台湾（3次医療機関）／study: 後ろ向き症例集積（39例）
 - 不確実性：出典は台湾の単施設の後方視的検討で、対象は術後上顎粘液囊胞（postoperative maxillary mucoceles）である。囊胞の成因や、術後から発症までの期間については、本出典の抄録では確認できなかった。
-- 出典：Huang CC, Chen CW, Lee TJ, Chang PH, Chen YW. Transnasal endoscopic marsupialization of postoperative maxillary mucoceles: middle meatal antrostomy versus inferior meatal antrostomy. Eur Arch Otorhinolaryngol. 2011;268(11):1583-1587　[DOI 10.1007/s00405-011-1636-5](https://doi.org/10.1007/s00405-011-1636-5)　[PMID 21607579](https://pubmed.ncbi.nlm.nih.gov/21607579/)（区分 UNKNOWN）
+- 出典：Huang CC, Chen CW, Lee TJ, Chang PH, Chen YW. Transnasal endoscopic marsupialization of postoperative maxillary mucoceles: middle meatal antrostomy versus inferior meatal antrostomy. Eur Arch Otorhinolaryngol. 2011;268(11):1583-1587　[DOI 10.1007/s00405-011-1636-5](https://doi.org/10.1007/s00405-011-1636-5)　[PMID 21607579](https://pubmed.ncbi.nlm.nih.gov/21607579/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-9-A-⑥（術後副鼻腔囊胞、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-510 (id: JlvnmP4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-009&card_id=NL-009&version=8e21fa3cec)　（版 `8e21fa3cec`）
 
@@ -130,7 +130,7 @@
 
 - 条件：region: 全般（世界）／study: 総説
 - 不確実性：発生率と組織型の割合は2014年の総説の抄録に基づく。日本の癌登録による最新の頻度や部位別の内訳は未確認である。
-- 出典：Llorente JL, López F, Suárez C, Hermsen MA. Sinonasal carcinoma: clinical, pathological, genetic and therapeutic advances. Nat Rev Clin Oncol. 2014;11(8):460-472　[DOI 10.1038/nrclinonc.2014.97](https://doi.org/10.1038/nrclinonc.2014.97)　[PMID 24935016](https://pubmed.ncbi.nlm.nih.gov/24935016/)（区分 UNKNOWN）
+- 出典：Llorente JL, López F, Suárez C, Hermsen MA. Sinonasal carcinoma: clinical, pathological, genetic and therapeutic advances. Nat Rev Clin Oncol. 2014;11(8):460-472　[DOI 10.1038/nrclinonc.2014.97](https://doi.org/10.1038/nrclinonc.2014.97)　[PMID 24935016](https://pubmed.ncbi.nlm.nih.gov/24935016/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-9-A-⑦（鼻・副鼻腔癌、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-010&card_id=NL-010&version=2986a79fba)　（版 `2986a79fba`）
 
@@ -146,7 +146,7 @@
 
 - 条件：region: 欧州（国際的なポジションペーパー）／study: ガイドライン（ポジションペーパー）
 - 不確実性：EPOS 2020 の定義に基づく鑑別の枠組みに絞った。感冒そのものの原因ウイルスや対症療法の詳細は呼吸器領域（RI）の資料に委ねられる。本カードでは薬剤名を挙げていない。
-- 出典：Fokkens WJ, Lund VJ, Hopkins C, Hellings PW, Kern R, Reitsma S, et al. European Position Paper on Rhinosinusitis and Nasal Polyps 2020. Rhinology. 2020;58(Suppl S29):1-464　[DOI 10.4193/Rhin20.600](https://doi.org/10.4193/Rhin20.600)　[PMID 32077450](https://pubmed.ncbi.nlm.nih.gov/32077450/)（区分 UNKNOWN）
+- 出典：Fokkens WJ, Lund VJ, Hopkins C, Hellings PW, Kern R, Reitsma S, et al. European Position Paper on Rhinosinusitis and Nasal Polyps 2020. Rhinology. 2020;58(Suppl S29):1-464　[DOI 10.4193/Rhin20.600](https://doi.org/10.4193/Rhin20.600)　[PMID 32077450](https://pubmed.ncbi.nlm.nih.gov/32077450/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-9-B-①（感冒<かぜ症候群>、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-510 (id: JlvnmP4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-011&card_id=NL-011&version=cf9f11794f)　（版 `cf9f11794f`）
 
@@ -162,7 +162,7 @@
 
 - 条件：region: 米国（プライマリケア）／study: 総説（無作為化比較試験の知見を含む）
 - 不確実性：頻度（3%、7%）は米国の総説の抄録に基づく。DOI は PubMed レコードに記載がなく確認できなかったため null とした。デキサメタゾンおよびアドレナリン吸入の国内承認・保険適用は未確認である。
-- 出典：Smith DK, McDermott AJ, Sullivan JF. Croup: Diagnosis and Management. Am Fam Physician. 2018;97(9):575-580　[PMID 29763253](https://pubmed.ncbi.nlm.nih.gov/29763253/)（区分 UNKNOWN）
+- 出典：Smith DK, McDermott AJ, Sullivan JF. Croup: Diagnosis and Management. Am Fam Physician. 2018;97(9):575-580　[PMID 29763253](https://pubmed.ncbi.nlm.nih.gov/29763253/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-9-B-②（クループ症候群、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-514 (id: JlvnmQY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-012&card_id=NL-012&version=1578240bb7)　（版 `1578240bb7`）
 
@@ -172,7 +172,7 @@
 
 - 条件：region: 米国（救急医学）／study: 総説
 - 不確実性：成人を対象とした救急医学の総説に基づく。小児の喉頭蓋炎の臨床像の詳細は本出典の範囲外である。本カードでは抗菌薬の個別薬剤名は挙げていない。抗菌薬の国内承認・保険適用は未確認である。
-- 出典：Bridwell RE, Koyfman A, Long B. High risk and low prevalence diseases: Adult epiglottitis. Am J Emerg Med. 2022;57:14-20　[DOI 10.1016/j.ajem.2022.04.018](https://doi.org/10.1016/j.ajem.2022.04.018)　[PMID 35489220](https://pubmed.ncbi.nlm.nih.gov/35489220/)（区分 UNKNOWN）
+- 出典：Bridwell RE, Koyfman A, Long B. High risk and low prevalence diseases: Adult epiglottitis. Am J Emerg Med. 2022;57:14-20　[DOI 10.1016/j.ajem.2022.04.018](https://doi.org/10.1016/j.ajem.2022.04.018)　[PMID 35489220](https://pubmed.ncbi.nlm.nih.gov/35489220/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-9-B-③（急性喉頭蓋炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-515 (id: JlvnmQg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-013&card_id=NL-013&version=42947d86e5)　（版 `42947d86e5`）
 
@@ -182,7 +182,7 @@
 
 - 条件：region: 全般／study: 総説
 - 不確実性：BMJ の総説の要旨（summary points）と序文で確認できる範囲に限定した。本文中の個別の原因疾患ごとの詳細は購読制で確認できなかった。
-- 出典：Wood JM, Athanasiadis T, Allen J. Laryngitis. BMJ. 2014;349:g5827　[DOI 10.1136/bmj.g5827](https://doi.org/10.1136/bmj.g5827)　[PMID 25300640](https://pubmed.ncbi.nlm.nih.gov/25300640/)（区分 UNKNOWN）
+- 出典：Wood JM, Athanasiadis T, Allen J. Laryngitis. BMJ. 2014;349:g5827　[DOI 10.1136/bmj.g5827](https://doi.org/10.1136/bmj.g5827)　[PMID 25300640](https://pubmed.ncbi.nlm.nih.gov/25300640/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-9-B-④（急性喉頭炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-514 (id: JlvnmQY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-014&card_id=NL-014&version=e2b8b94af7)　（版 `e2b8b94af7`）
 
@@ -192,7 +192,7 @@
 
 - 条件：region: 米国（プライマリケア）／study: 総説（無作為化比較試験の知見を含む）
 - 不確実性：クループ（喉頭・気管・気管支の腫脹による上気道閉塞）としての総説に基づき、声門下の腫脹という病変の位置づけに絞って記載した。デキサメタゾンおよびアドレナリン吸入の国内承認・保険適用は未確認である。
-- 出典：Smith DK, McDermott AJ, Sullivan JF. Croup: Diagnosis and Management. Am Fam Physician. 2018;97(9):575-580　[PMID 29763253](https://pubmed.ncbi.nlm.nih.gov/29763253/)（区分 UNKNOWN）
+- 出典：Smith DK, McDermott AJ, Sullivan JF. Croup: Diagnosis and Management. Am Fam Physician. 2018;97(9):575-580　[PMID 29763253](https://pubmed.ncbi.nlm.nih.gov/29763253/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-9-B-⑥（急性声門下喉頭炎、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-514 (id: JlvnmQY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-017&card_id=NL-017&version=2a3dfbf353)　（版 `2a3dfbf353`）
 
@@ -212,7 +212,7 @@
 
 - 条件：region: 全般／study: 総説
 - 不確実性：抄録で確認できる定義と原因の分類に限定した。個別の原因ごとの頻度や治療の詳細は本文（購読制）では確認できなかった。
-- 出典：Zhukhovitskaya A, Verma SP. Identification and Management of Chronic Laryngitis. Otolaryngol Clin North Am. 2019;52(4):607-616　[DOI 10.1016/j.otc.2019.03.004](https://doi.org/10.1016/j.otc.2019.03.004)　[PMID 31101358](https://pubmed.ncbi.nlm.nih.gov/31101358/)（区分 UNKNOWN）
+- 出典：Zhukhovitskaya A, Verma SP. Identification and Management of Chronic Laryngitis. Otolaryngol Clin North Am. 2019;52(4):607-616　[DOI 10.1016/j.otc.2019.03.004](https://doi.org/10.1016/j.otc.2019.03.004)　[PMID 31101358](https://pubmed.ncbi.nlm.nih.gov/31101358/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-9-B-⑧（慢性喉頭炎、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-514 (id: JlvnmQY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-019&card_id=NL-019&version=51979bdadc)　（版 `51979bdadc`）
 
@@ -228,7 +228,7 @@
 
 - 条件：region: 米国／study: 総説
 - 不確実性：発生率と進行期の割合は米国のデータに基づく数値であり、日本の頻度や病期分布は未確認である。
-- 出典：Steuer CE, El-Deiry M, Parks JR, Higgins KA, Saba NF. An update on larynx cancer. CA Cancer J Clin. 2017;67(1):31-50　[DOI 10.3322/caac.21386](https://doi.org/10.3322/caac.21386)　[PMID 27898173](https://pubmed.ncbi.nlm.nih.gov/27898173/)（区分 UNKNOWN）
+- 出典：Steuer CE, El-Deiry M, Parks JR, Higgins KA, Saba NF. An update on larynx cancer. CA Cancer J Clin. 2017;67(1):31-50　[DOI 10.3322/caac.21386](https://doi.org/10.3322/caac.21386)　[PMID 27898173](https://pubmed.ncbi.nlm.nih.gov/27898173/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-9-B-⑤（喉頭癌、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-015&card_id=NL-015&version=24cb043a43)　（版 `24cb043a43`）
 
@@ -238,7 +238,7 @@
 
 - 条件：region: 米国／study: 総説
 - 不確実性：2017年の総説に基づく内容であり、免疫療法などその後の治療の進展は含まれていない。本カードでは化学療法の個別薬剤名は挙げていない。薬剤の国内承認・保険適用は未確認である。
-- 出典：Steuer CE, El-Deiry M, Parks JR, Higgins KA, Saba NF. An update on larynx cancer. CA Cancer J Clin. 2017;67(1):31-50　[DOI 10.3322/caac.21386](https://doi.org/10.3322/caac.21386)　[PMID 27898173](https://pubmed.ncbi.nlm.nih.gov/27898173/)（区分 UNKNOWN）
+- 出典：Steuer CE, El-Deiry M, Parks JR, Higgins KA, Saba NF. An update on larynx cancer. CA Cancer J Clin. 2017;67(1):31-50　[DOI 10.3322/caac.21386](https://doi.org/10.3322/caac.21386)　[PMID 27898173](https://pubmed.ncbi.nlm.nih.gov/27898173/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-9-B-⑤（喉頭癌、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-016&card_id=NL-016&version=388fcdab4b)　（版 `388fcdab4b`）
 
@@ -248,7 +248,7 @@
 
 - 条件：region: 全般／study: 総説
 - 不確実性：HPV の型（6型、11型など）については本出典の抄録では確認できなかったため含めていない。補助的治療の個別薬剤にも触れていない。
-- 出典：Fortes HR, von Ranke FM, Escuissato DL, Araújo Neto CA, Zanetti G, Hochhegger B, Marchiori E. Recurrent respiratory papillomatosis: A state-of-the-art review. Respir Med. 2017;126:116-121　[DOI 10.1016/j.rmed.2017.03.030](https://doi.org/10.1016/j.rmed.2017.03.030)　[PMID 28427542](https://pubmed.ncbi.nlm.nih.gov/28427542/)（区分 UNKNOWN）
+- 出典：Fortes HR, von Ranke FM, Escuissato DL, Araújo Neto CA, Zanetti G, Hochhegger B, Marchiori E. Recurrent respiratory papillomatosis: A state-of-the-art review. Respir Med. 2017;126:116-121　[DOI 10.1016/j.rmed.2017.03.030](https://doi.org/10.1016/j.rmed.2017.03.030)　[PMID 28427542](https://pubmed.ncbi.nlm.nih.gov/28427542/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-9-B-⑨（喉頭乳頭腫、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NL-020&card_id=NL-020&version=16e041f1fa)　（版 `16e041f1fa`）
 

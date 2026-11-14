@@ -16045,14 +16045,17 @@
   doi: 10.1016/j.diagmicrobio.2017.06.007
   pmid: '28780999'
   pmcid: null
-  license_note: © Elsevier（CC 表示なし）
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© Elsevier（CC 表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1372
   legacy_id: null
   title: 'Quillen DM, Feller DB. Diagnosing rhinitis: allergic vs. nonallergic. Am Fam Physician. 2006;73(9):1583-1590'
@@ -16060,14 +16063,17 @@
   doi: null
   pmid: '16719251'
   pmcid: null
-  license_note: © American Academy of Family Physicians
+  license_note: © American Academy of Family Physicians（CC ではない。作り手が Europe PMC で確認、バッチ59）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© American Academy of Family Physicians
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1373
   legacy_id: null
   title: Okubo K, Kurono Y, Ichimura K, Enomoto T, Okamoto Y, Kawauchi H, Fujieda S, Masuyama K; Japanese Society of Allergology. Japanese guidelines for allergic rhinitis 2020. Allergol Int. 2020;69(3):331-345
@@ -16090,14 +16096,17 @@
   doi: 10.4193/Rhin20.600
   pmid: '32077450'
   pmcid: null
-  license_note: ライセンス表示を確認できず（誌のウェブサイトで全文が無料公開）
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず（誌のウェブサイトで全文が無料公開）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1375
   legacy_id: null
   title: 'Psillas G, Papaioannou D, Petsali S, Dimas GG, Constantinidis J. Odontogenic maxillary sinusitis: A comprehensive review. J Dent Sci. 2021;16(1):474-481'
@@ -16135,14 +16144,17 @@
   doi: 10.1007/s00405-011-1636-5
   pmid: '21607579'
   pmcid: null
-  license_note: © Springer（CC 表示なし）
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© Springer（CC 表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1378
   legacy_id: null
   title: 'Llorente JL, López F, Suárez C, Hermsen MA. Sinonasal carcinoma: clinical, pathological, genetic and therapeutic advances. Nat Rev Clin Oncol. 2014;11(8):460-472'
@@ -16150,14 +16162,17 @@
   doi: 10.1038/nrclinonc.2014.97
   pmid: '24935016'
   pmcid: null
-  license_note: © Nature Portfolio（CC 表示なし）
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© Nature Portfolio（CC 表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1379
   legacy_id: null
   title: 'Smith DK, McDermott AJ, Sullivan JF. Croup: Diagnosis and Management. Am Fam Physician. 2018;97(9):575-580'
@@ -16165,14 +16180,17 @@
   doi: null
   pmid: '29763253'
   pmcid: null
-  license_note: © American Academy of Family Physicians
+  license_note: © American Academy of Family Physicians（CC ではない。作り手が Europe PMC で確認、バッチ59）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© American Academy of Family Physicians
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1380
   legacy_id: null
   title: 'Bridwell RE, Koyfman A, Long B. High risk and low prevalence diseases: Adult epiglottitis. Am J Emerg Med. 2022;57:14-20'
@@ -16180,14 +16198,17 @@
   doi: 10.1016/j.ajem.2022.04.018
   pmid: '35489220'
   pmcid: null
-  license_note: © Elsevier（CC 表示を確認できず）
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© Elsevier（CC 表示を確認できず）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1381
   legacy_id: null
   title: Wood JM, Athanasiadis T, Allen J. Laryngitis. BMJ. 2014;349:g5827
@@ -16195,14 +16216,17 @@
   doi: 10.1136/bmj.g5827
   pmid: '25300640'
   pmcid: null
-  license_note: © BMJ Publishing Group
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© BMJ Publishing Group
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1382
   legacy_id: null
   title: Steuer CE, El-Deiry M, Parks JR, Higgins KA, Saba NF. An update on larynx cancer. CA Cancer J Clin. 2017;67(1):31-50
@@ -16210,14 +16234,17 @@
   doi: 10.3322/caac.21386
   pmid: '27898173'
   pmcid: null
-  license_note: © American Cancer Society（CC 表示なし）
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© American Cancer Society（CC 表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1383
   legacy_id: null
   title: 'Vasconcelos D, Gomes AO, Araújo CMT. Vocal Fold Polyps: Literature Review. Int Arch Otorhinolaryngol. 2019;23(1):116-124'
@@ -16240,14 +16267,17 @@
   doi: 10.1016/j.otc.2019.03.004
   pmid: '31101358'
   pmcid: null
-  license_note: © Elsevier（CC 表示なし）
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© Elsevier（CC 表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1385
   legacy_id: null
   title: 'Fortes HR, von Ranke FM, Escuissato DL, Araújo Neto CA, Zanetti G, Hochhegger B, Marchiori E. Recurrent respiratory papillomatosis: A state-of-the-art review. Respir Med. 2017;126:116-121'
@@ -16255,14 +16285,17 @@
   doi: 10.1016/j.rmed.2017.03.030
   pmid: '28427542'
   pmcid: null
-  license_note: © Elsevier（CC 表示を確認できず）
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© Elsevier（CC 表示を確認できず）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1386
   legacy_id: null
   title: 'Ganesan P, Schmiedge J, Manchaiah V, Swapna S, Dhandayutham S, Kothandaraman PP. Ototoxicity: A Challenge in Diagnosis and Treatment. Journal of Audiology & Otology. 2018;22(2):59-68.'
@@ -27769,10 +27802,10 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 未確認（日本語誌）
+  license_note: 学会誌の著作物（CC 等の表示なし。J-STAGE で無料で読めるが自由ライセンスではない。作り手が Crossref・J-STAGE で確認、バッチ59）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（日本語誌）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27780,6 +27813,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2826
   legacy_id: null
   title: 'Carlson G, Coop C. Pollen food allergy syndrome (PFAS): A review of current available literature. Ann Allergy Asthma Immunol. 2019;123(4):359-365'
