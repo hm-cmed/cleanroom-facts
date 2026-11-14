@@ -3907,14 +3907,17 @@
   doi: 10.1038/s41440-025-02331-8
   pmid: '40877471'
   pmcid: null
-  license_note: 未確認（nature.com の取得に失敗）
+  license_note: Springer Nature の購読論文（Crossref は TDM 条件のみ、CC ではない。作り手が確認、バッチ62）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（nature.com の取得に失敗）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-292
   legacy_id: null
   title: 有馬久富. 成果報告2 日本高血圧学会での取り組み（成果報告会資料、2026年2月28日）. 国立保健医療科学院 掲載
@@ -3967,14 +3970,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: Creative Commons（版の表示なし）
+  license_note: CC BY-NC（Europe PMC で確認。CC BY ではない、バッチ62）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Creative Commons（版の表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-296
   legacy_id: null
   title: 'National Library of Medicine. MeSH Descriptor: Hypotension, Orthostatic (D007024)'
@@ -5668,14 +5674,17 @@
   doi: null
   pmid: '7442324'
   pmcid: null
-  license_note: 未確認
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ65）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-488
   legacy_id: null
   title: 'National Library of Medicine. MeSH Descriptor: Mediastinal Emphysema (D008478)'
@@ -5728,14 +5737,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 未確認
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ65）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-492
   legacy_id: null
   title: 'National Library of Medicine. MeSH Descriptor: Funnel Chest (D005660)'
@@ -5833,14 +5845,17 @@
   doi: 10.1016/s0196-0644(89)80515-3
   pmid: '2499228'
   pmcid: null
-  license_note: 未確認
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ65）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-499
   legacy_id: null
   title: 'National Library of Medicine. MeSH Descriptor: Obesity Hypoventilation Syndrome (D010845)'
@@ -6433,14 +6448,17 @@
   doi: 10.5761/atcs.oa.16-00018
   pmid: '27076066'
   pmcid: null
-  license_note: 表示なし（未確認。©2016 Annals of Thoracic and Cardiovascular Surgery）
+  license_note: PMC に全文（PMC5045849）があるがライセンス表示なし（© Annals of Thoracic and Cardiovascular Surgery。作り手が確認、バッチ65）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：表示なし（未確認。©2016 Annals of Thoracic and Cardiovascular Surgery）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-535
   legacy_id: null
   title: 'Centers for Disease Control and Prevention. DPDx: Paragonimiasis（最終更新 2024-06-06）'
@@ -6628,14 +6646,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 未確認
+  license_note: CC BY-NC-ND 4.0（Europe PMC・Crossref で確認。CC BY ではない、バッチ65）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-571
   legacy_id: null
   title: 'Kidney Disease: Improving Global Outcomes (KDIGO) Glomerular Diseases Work Group. KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases. Kidney Int. 2021;100(4S):S1-S276'
@@ -36148,14 +36169,17 @@
   doi: 10.1177/0145561320965212
   pmid: null
   pmcid: null
-  license_note: 未確認（誌面・PDF で CC 表示を確認できず。© The Author(s) 2020、再利用は出版社の許可手続きによる旨の表示あり）
+  license_note: Crossref・Europe PMC は CC BY-NC 4.0、刊行版の誌面は © The Author(s) 2020 で再利用は出版社の許可（いずれにしても CC BY ではない、バッチ65）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（誌面・PDF で CC 表示を確認できず。© The Author(s) 2020、再利用は出版社の許可手続きによる旨の表示あり）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/66_brushup_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-4961
   legacy_id: null
   title: 'World Health Organization. ICD-10: International Statistical Classification of Diseases and Related Health Problems, 10th Revision, Volume 1: Tabular List. Chapter V: Mental and Behavioural Disorders, F20.1 Hebephrenic Schizophrenia. Geneva: World Health Organization'

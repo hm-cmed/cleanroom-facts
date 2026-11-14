@@ -34,7 +34,7 @@
 - 条件：guideline: JSH2025（日本高血圧学会 高血圧管理・治療ガイドライン2025）／region: 日本
 - よくある誤解：高齢の高血圧患者の降圧目標は一律に 140/90 mmHg 未満である
 - 不確実性：抄録で確認した内容。家庭血圧の目標値や例外（フレイル、終末期など）の扱いは本文で確認が要る
-- 出典：Ohya Y, Sakima A, Arima H, et al. Key highlights of the Japanese Society of Hypertension Guidelines for the management of elevated blood pressure and hypertension 2025 (JSH2025). Hypertens Res 2025 (Epub 2025 Aug 29)　[DOI 10.1038/s41440-025-02331-8](https://doi.org/10.1038/s41440-025-02331-8)　[PMID 40877471](https://pubmed.ncbi.nlm.nih.gov/40877471/)（区分 UNKNOWN）
+- 出典：Ohya Y, Sakima A, Arima H, et al. Key highlights of the Japanese Society of Hypertension Guidelines for the management of elevated blood pressure and hypertension 2025 (JSH2025). Hypertens Res 2025 (Epub 2025 Aug 29)　[DOI 10.1038/s41440-025-02331-8](https://doi.org/10.1038/s41440-025-02331-8)　[PMID 40877471](https://pubmed.ncbi.nlm.nih.gov/40877471/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-7-A（本態性高血圧、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HT-003&card_id=HT-003&version=e5af6f9e43)　（版 `e5af6f9e43`）
 
@@ -198,7 +198,7 @@
 
 - 条件：region: 国際（6件の RCT のメタ解析）
 - 不確実性：論文内で p 値と異質性（I²）の記載が抄録と本文で一致しない。DOI と書誌は API で確定が要る
-- 出典：Lei Q, Lv Y, Li K, et al. Effects of continuous positive airway pressure on blood pressure in patients with resistant hypertension and obstructive sleep apnea: a systematic review and meta-analysis of six randomized controlled trials. J Bras Pneumol 2017　[リンク](https://jbp.org.br/details/2705/en-US)（区分 UNKNOWN）
+- 出典：Lei Q, Lv Y, Li K, et al. Effects of continuous positive airway pressure on blood pressure in patients with resistant hypertension and obstructive sleep apnea: a systematic review and meta-analysis of six randomized controlled trials. J Bras Pneumol 2017　[リンク](https://jbp.org.br/details/2705/en-US)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-7-B-④（睡眠時無呼吸症候群、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HT-016&card_id=HT-016&version=24b9ad2a82)　（版 `24b9ad2a82`）
 

@@ -18,7 +18,7 @@
     source_license: © Author(s) (or their employer(s)) 2023. No commercial re-use.
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ65 2026-11-14）：Vyas YK, Mansuriya J, Patel KA, Jani YB, Anushika. Conservative management of spontaneous pneumothorax: A review of evidence and guidelines. Bioinformation. 2025;21(3):471-484（PMID: 40599916、DOI: 10.6026/973206300210471、PMCID: PMC12208270、https://pmc.ncbi.nlm.nih.gov/articles/PMC12208270/）。裏づける部分：候補（CC BY の総説）が BTS 2023 を含む各ガイドラインの比較表（Table 6）で BTS の初期対応を整理し、安定した原発性自然気胸では観察・酸素療法・症状に基づくケアによる保存的管理が侵襲的治療と同等の転帰を示すことを本文で述べる。補助候補（Raza MZ, et al. BMJ Open Respir Res. 2025、CC BY）も「最近改訂された BTS ガイドラインは、症状のある気胸に治療を提供すべきことを示唆する」と症状駆動の原則を明記する。数値の照合：数値なし（管理方針のカード）。留保：「大きさによらず保存的に管理しうる」という BTS 固有の基準と、重い症状や生理学的悪化がないことという条件の逐語再掲は候補にない。主出典 SRC-370 の区分は現行 RESTRICTED が正しい（BMJ 刊行、Crossref にライセンス表示なし・Europe PMC で非 OA）'
   uncertainty: BTS 2023 の推奨文の要旨（英国）。日本の気胸・胸水診療の指針（日本気胸・囊胞性肺疾患学会など）は今回確認していない
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-241 (id: Jlvnl1A)'
@@ -36,6 +36,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: provenance.source_ref を SRC-485 から SRC-370 に付け替え（同じ文献の二重登録の解消、proposals/rs_duplicates_20261028.md、監修者の承認による。主張文・数値は変更なし）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ65 2026-11-14）。三原の承認（2026-11-11）による
 - id: PL-002
   domain: PL
   subdomain: 気胸
@@ -56,7 +59,7 @@
     source_license: © Author(s) (or their employer(s)) 2023. No commercial re-use.
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ65 2026-11-14）：Vyas YK, Mansuriya J, Patel KA, Jani YB, Anushika. Conservative management of spontaneous pneumothorax: A review of evidence and guidelines. Bioinformation. 2025;21(3):471-484（PMID: 40599916、DOI: 10.6026/973206300210471、PMCID: PMC12208270、https://pmc.ncbi.nlm.nih.gov/articles/PMC12208270/）。裏づける部分：候補の比較表（Table 6）が BTS 欄で、携帯型ドレナージ機器による外来管理（ambulatory management）を安定した二次性自然気胸と大きな原発性自然気胸への推奨として位置づけ、穿刺吸引と胸腔ドレナージを代替手技として整理する。外来管理を初期治療に用いる枠組み自体はカードと一致する。数値の照合：数値なし。留保：十分な支援・フォローアップ体制を条件に原発性自然気胸の初期治療として外来管理を用いうる、というカードの適用範囲までは候補で再掲されていない（候補の BTS 欄の推奨範囲は安定した二次性と大きな原発性）'
   uncertainty: BTS 2023 の推奨文の要旨（英国）。日本の気胸・胸水診療の指針（日本気胸・囊胞性肺疾患学会など）は今回確認していない。携帯型脱気器具の国内での使用状況は未確認
   curriculum:
     core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-01-00-241 (id: Jlvnl1A)'
@@ -74,6 +77,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: provenance.source_ref を SRC-485 から SRC-370 に付け替え（同じ文献の二重登録の解消、proposals/rs_duplicates_20261028.md、監修者の承認による。主張文・数値は変更なし）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ65 2026-11-14）。三原の承認（2026-11-11）による
 - id: PL-003
   domain: PL
   subdomain: 気胸
@@ -94,7 +100,7 @@
     source_license: © Author(s) (or their employer(s)) 2023. No commercial re-use.
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ65 2026-11-14）：Vyas YK, Mansuriya J, Patel KA, Jani YB, Anushika. Conservative management of spontaneous pneumothorax: A review of evidence and guidelines. Bioinformation. 2025;21(3):471-484（PMID: 40599916、DOI: 10.6026/973206300210471、PMCID: PMC12208270、https://pmc.ncbi.nlm.nih.gov/articles/PMC12208270/）。裏づける部分：候補が「再発例や再発リスクの高い症例では、化学的または外科的な癒着術などの予防策が推奨される。癒着術は胸膜の癒着を促し、再発のリスクを下げる」と明記し、化学的癒着術を再発予防に用いるという中心命題はカードと一致する。数値の照合：数値なし。留保：二次性自然気胸の再発予防に「考慮しうる（条件付き）」という BTS の推奨の強さと、重症 COPD の患者が気胸で代償不全になるような場合という具体例は候補では未確認'
   uncertainty: BTS 2023 の推奨文の要旨（英国）。日本の気胸・胸水診療の指針（日本気胸・囊胞性肺疾患学会など）は今回確認していない
   curriculum:
     core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-01-00-241 (id: Jlvnl1A)'
@@ -112,6 +118,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: provenance.source_ref を SRC-485 から SRC-370 に付け替え（同じ文献の二重登録の解消、proposals/rs_duplicates_20261028.md、監修者の承認による。主張文・数値は変更なし）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ65 2026-11-14）。三原の承認（2026-11-11）による
 - id: PL-004
   domain: PL
   subdomain: 気胸
@@ -204,8 +213,8 @@
     url: https://pubmed.ncbi.nlm.nih.gov/7442324/
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ65 2026-11-14）：Mikołajczyk-Solińska M, Czyżak B, Zdaniewicz M, Węgiel A, Gajczak M, Szpotan T, Majos A, Kasznicki J. Chylothorax in a 57-Year-Old Female Patient After a Car Accident. J Clin Med. 2026;15(15):5877（PMID: 42589981、DOI: 10.3390/jcm15155877、PMCID: PMC13467419、https://pmc.ncbi.nlm.nih.gov/articles/PMC13467419/）。裏づける部分：候補（CC BY の症例報告の考察）が診断アルゴリズムを逐語的に述べる：胸水トリグリセリドが1.24 mmol/L（110 mg/dL）超であれば乳び胸の診断基準を満たし、中間域0.56〜1.24 mmol/L（50〜110 mg/dL）ではリポ蛋白電気泳動でカイロミクロンを確認すべきである。補助候補（Pizarro Peña E, et al. Case Rep Immunol. 2026、CC BY）もリポ蛋白電気泳動を確定診断の標準とし、トリグリセリド110超と50未満の対比を示す。数値の照合：閾値110 mg/dL と中間域50〜110 mg/dL は候補と一致（候補は mmol/L を併記）。留保：主出典 SRC-487 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: 抄録で確認。50 mg/dL 未満で乳び胸を否定するという基準は抄録には明記されていない。著者名は API で確定する
   curriculum:
     core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-020 (id: JlAKpiQ)'
@@ -220,6 +229,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-487 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ65 2026-11-14）。三原の承認（2026-11-11）による
 - id: PL-007
   domain: PL
   subdomain: 乳び胸
@@ -239,7 +254,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/7442324/
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録で確認
   curriculum:
@@ -255,6 +270,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-487 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: PL-008
   domain: PL
   subdomain: 縦隔気腫
@@ -519,8 +537,8 @@
     url: https://east.org/education-resources/practice-management-guidelines/details/rib-fractures-open-reduction-and-internal-fixation-of-update-in-process
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ65 2026-11-14）：Selvendran S, Cheluvappa R. Management Pathways for Traumatic Rib Fractures-Importance of Surgical Stabilisation. Healthcare (Basel). 2023;11(8):1064（PMID: 37107898、DOI: 10.3390/healthcare11081064、PMCID: PMC10138113、https://pmc.ncbi.nlm.nih.gov/articles/PMC10138113/）。裏づける部分：候補（CC BY）が「フレイルチェストは、3本以上の連続する肋骨がそれぞれ2か所以上で骨折することにより生じる、奇異性運動を示す胸壁部分を特徴とする」と古典的定義を逐語で再掲し、カードの定義と一致する。数値の照合：3本以上・各2か所以上は候補と一致。留保：カードが併記する「定義は研究により異なる」という留保自体は候補では明示されない。主出典 SRC-491 は区分訂正あり（UNKNOWN→RESTRICTED）'
   uncertainty: EAST の指針頁の記載。題名と第4著者以降は API で確定する
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
@@ -535,6 +553,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-491 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ65 2026-11-14）。三原の承認（2026-11-11）による
 - id: PL-016
   domain: PL
   subdomain: 肋骨骨折
@@ -554,8 +578,8 @@
     url: https://east.org/education-resources/practice-management-guidelines/details/rib-fractures-open-reduction-and-internal-fixation-of-update-in-process
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ65 2026-11-14）：Selvendran S, Cheluvappa R. Management Pathways for Traumatic Rib Fractures-Importance of Surgical Stabilisation. Healthcare (Basel). 2023;11(8):1064（PMID: 37107898、DOI: 10.3390/healthcare11081064、PMCID: PMC10138113、https://pmc.ncbi.nlm.nih.gov/articles/PMC10138113/）。裏づける部分：候補が「フレイルチェストに対する外科的肋骨固定（SSRF）は NICE と EAST によって推奨されており、人工呼吸日数・入院日数・ICU 日数・肺炎の発生・死亡率を減らすためである」と、EAST の推奨とその目標アウトカムを明記する。数値の照合：数値なし（推奨のカード）。留保：「条件付き推奨」という強さ、根拠の質が低いこと、気管切開への言及、非フレイルの肋骨骨折には推奨を示さなかった点は候補では未確認。主出典 SRC-491 は区分訂正あり（UNKNOWN→RESTRICTED）。EAST のガイドラインページで更新作業中（UPDATE IN PROCESS）と表示され、根拠の質の表記（low と very low）が混在する点はカード側の uncertainty に記録済み'
   uncertainty: エビデンスの質は頁内で low と very low の記載が混在。EAST は改訂作業中（UPDATE IN PROCESS）と表示されている
   curriculum:
     core_curriculum: 'PS-02-07-04 (id: JkxnuRA)'
@@ -570,6 +594,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-491 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ65 2026-11-14）。三原の承認（2026-11-11）による
 - id: PL-017
   domain: PL
   subdomain: 胸郭変形
@@ -663,7 +693,7 @@
     source_license: 取得範囲に著作権表示なし（学会の著作物と考えられる）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ65 2026-11-14）：Platon AL, Stelea CG, Boișteanu O, Patrascanu E, Zetu IN, Roșu SN, Trifan V, Palade DO. An Update on Obstructive Sleep Apnea Syndrome-A Literature Review. Medicina (Kaunas). 2023;59(8):1459（PMID: 37629749、DOI: 10.3390/medicina59081459、PMCID: PMC10456880、https://pmc.ncbi.nlm.nih.gov/articles/PMC10456880/）。裏づける部分：候補（CC BY 総説）が ICSD-3 の診断基準をほぼ逐語で再掲する：症状（眠気、目撃された無呼吸など）または合併症（高血圧・冠動脈疾患・脳卒中・心不全・心房細動・2型糖尿病・気分障害・認知機能障害）があり、PSG または簡易検査で睡眠1時間あたり主に閉塞性の呼吸イベント（閉塞性・混合性無呼吸、低呼吸、呼吸努力関連覚醒）が5回以上、あるいは症状によらず15回以上。数値の照合：5回以上／15回以上の閾値は候補と一致。留保：主出典 SRC-495 の区分は現行 RESTRICTED が正しい。なお同ガイドラインの公式英語版は別出版物として CC BY で刊行されており、PL-021・PL-022 の候補とした'
   uncertainty: 日本語版 PDF で確認。英語版（Sleep Biol Rhythms、DOI 10.1007/s41105-021-00353-6）は CQ16〜36 の治療部分のみを収載しており、診断基準の部分は日本語版にしかない可能性がある。表から読み取り
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-233 (id: Jlvnl0I)；TBL-02-06-021 (id: JlAKpiU)'
@@ -678,6 +708,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ65 2026-11-14）。三原の承認（2026-11-11）による
 - id: PL-020
   domain: PL
   subdomain: 睡眠時無呼吸症候群
@@ -698,7 +731,7 @@
     source_license: 取得範囲に著作権表示なし（学会の著作物と考えられる）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ65 2026-11-14）：Platon AL, Stelea CG, Boișteanu O, Patrascanu E, Zetu IN, Roșu SN, Trifan V, Palade DO. An Update on Obstructive Sleep Apnea Syndrome-A Literature Review. Medicina (Kaunas). 2023;59(8):1459（PMID: 37629749、DOI: 10.3390/medicina59081459、PMCID: PMC10456880、https://pmc.ncbi.nlm.nih.gov/articles/PMC10456880/）。裏づける部分：候補（同一の CC BY 総説）が「OSA の重症度は AHI（または RDI）で分類され、軽症は5以上15未満、中等症は15以上30未満、重症は30を超える場合」と明記し、カードの3区分と一致する。数値の照合：軽症5以上15未満・中等症15以上30未満は候補と一致。重症の境界はカードの「30以上」に対し候補は「30超」と表記が異なる（申し送り参照）。留保：境界表記の差（以上／超）はバッチ64 の CX-008・CX-016 と同種の論点で、主出典での確認を次回改訂時に推奨する'
   uncertainty: 日本語版 PDF で確認。英語版（Sleep Biol Rhythms、DOI 10.1007/s41105-021-00353-6）は CQ16〜36 の治療部分のみを収載しており、診断基準の部分は日本語版にしかない可能性がある
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-233 (id: Jlvnl0I)'
@@ -713,6 +746,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ65 2026-11-14）。三原の承認（2026-11-11）による
 - id: PL-021
   domain: PL
   subdomain: 睡眠時無呼吸症候群
@@ -733,7 +769,7 @@
     source_license: 取得範囲に著作権表示なし（学会の著作物と考えられる）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ65 2026-11-14）：Akashiba T, Inoue Y, Uchimura N, Ohi M, Kasai T, Kawana F, Sakurai S, Takegami M, Tachikawa R, Tanigawa T, et al. Sleep Apnea Syndrome (SAS) Clinical Practice Guidelines 2020. Sleep Biol Rhythms. 2022;20（PMID: 38469064、DOI: 10.1007/s41105-021-00353-6、PMCID: PMC10900032、https://pmc.ncbi.nlm.nih.gov/articles/PMC10900032/）。裏づける部分：候補は主出典 SRC-495（SAS 診療ガイドライン2020）の公式英語版（Sleep Biol Rhythms 2022、CC BY）で、抄録と序文に「中等症以上の OSA 患者は成人男性の約20%・閉経後女性の約10%を占める」とカードの前半を逐語で再掲する。数値の照合：男性約20%・閉経後女性約10%は候補と一致。留保：後半（AHI 15以上に日中の眠気を伴う SAS が男性約5%・女性2〜3%）は英語版全文に再掲がなかった。英語版は治療編（CQ16〜36）が中心の構成で、疫学の記述は日本語版より薄い（申し送り参照）'
   uncertainty: 日本語版 PDF で確認。英語版（Sleep Biol Rhythms、DOI 10.1007/s41105-021-00353-6）は CQ16〜36 の治療部分のみを収載しており、診断基準の部分は日本語版にしかない可能性がある。有病率が日本人の調査にもとづくかどうかは本文の引用文献で確認が要る
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-233 (id: Jlvnl0I)'
@@ -748,6 +784,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ65 2026-11-14）。三原の承認（2026-11-11）による
 - id: PL-022
   domain: PL
   subdomain: 睡眠時無呼吸症候群
@@ -768,7 +807,7 @@
     source_license: 取得範囲に著作権表示なし（学会の著作物と考えられる）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ65 2026-11-14）：Akashiba T, Inoue Y, Uchimura N, Ohi M, Kasai T, Kawana F, Sakurai S, Takegami M, Tachikawa R, Tanigawa T, et al. Sleep Apnea Syndrome (SAS) Clinical Practice Guidelines 2020. Sleep Biol Rhythms. 2022;20（PMID: 38469064、DOI: 10.1007/s41105-021-00353-6、PMCID: PMC10900032、https://pmc.ncbi.nlm.nih.gov/articles/PMC10900032/）。裏づける部分：候補（公式英語版）の CQ16-2 が「CPAP は中等症以上の OSA と、日中の眠気など強い症状のある患者に対する第一選択として推奨される（推奨の強さ1、エビデンスレベル A）」、CQ16-3 が「口腔内装置療法は、CPAP の適応とならない、または使用できない軽症〜中等症の症例に提案される（強さ2、エビデンス B）」と明記し、カードと一致する。数値の照合：推奨の強さ（1／2）とエビデンスレベル（A／B）は候補と一致。留保：候補は主出典の公式英語版であり、出典としての位置づけ（別出版物・別の DOI）の扱いは登録側の判断に委ねる（申し送り参照）'
   uncertainty: 日本語版 PDF で確認。英語版（Sleep Biol Rhythms、DOI 10.1007/s41105-021-00353-6）は CQ16〜36 の治療部分のみを収載しており、診断基準の部分は日本語版にしかない可能性がある。CPAP の降圧効果は循環器 HT-016 で扱う
   curriculum:
     core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-01-00-233 (id: Jlvnl0I)'
@@ -783,6 +822,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ65 2026-11-14）。三原の承認（2026-11-11）による
 - id: PL-023
   domain: PL
   subdomain: 睡眠時無呼吸症候群
@@ -838,7 +880,7 @@
     source_license: 取得範囲に著作権表示なし（学会の著作物と考えられる）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ65 2026-11-14）：Rupp J, Heese E, Monegro AF. Sleep-Disordered Breathing: Key Pathophysiological Mechanisms and Their Clinical Implications. Life (Basel). 2026;16(10):1658（PMID: 42942245、DOI: 10.3390/life16101658、PMCID: PMC13706037、https://pmc.ncbi.nlm.nih.gov/articles/PMC13706037/）。裏づける部分：候補（CC BY 総説）が CSA の定義をほぼ逐語で述べる：睡眠1時間あたり中枢性の無呼吸・低呼吸が5回以上で、中枢性イベントが全呼吸イベントの50%超を占める。同総説は Cheyne-Stokes 呼吸を CSA の一型として漸増漸減パターンで定義し、CSA が心不全・神経疾患・オピオイド使用・高地と関連することも表に明記する。数値の照合：5回以上・50%超は候補と一致。留保：Cheyne-Stokes 呼吸が心不全や脳卒中後だけでなく重症腎不全でもみられる、という関連のうち腎不全については候補では未確認（候補の腎不全への言及は OSA の合併症の文脈のみ）'
   uncertainty: 日本語版 PDF で確認。英語版（Sleep Biol Rhythms、DOI 10.1007/s41105-021-00353-6）は CQ16〜36 の治療部分のみを収載しており、診断基準の部分は日本語版にしかない可能性がある。心不全に伴うものの治療（ASV など）は循環器 HF の範囲
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-233 (id: Jlvnl0I)'
@@ -853,6 +895,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ65 2026-11-14）。三原の承認（2026-11-11）による
 - id: PL-025
   domain: PL
   subdomain: 過換気症候群
@@ -907,8 +952,8 @@
     url: https://pubmed.ncbi.nlm.nih.gov/2499228/
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ65 2026-11-14）：Kobayashi M, Kurata S, Sanuki T, Okayasu I, Ayuse T. Management of post-hyperventilation apnea during dental treatment under monitored anesthesia care with propofol. BioPsychoSocial Medicine. 2014;8（PMID: 25493097、DOI: 10.1186/s13030-014-0026-9、PMCID: PMC4260203、https://pmc.ncbi.nlm.nih.gov/articles/PMC4260203/）。裏づける部分：候補（CC BY）が主出典 Callaham 1989 を直接引用し、紙袋再呼吸（paper bag rebreathing）によって死亡・重度の低酸素・虚脱が報告されてきたことを明記する。低酸素が見逃された状態での再呼吸の危険性というカードの中心点と一致する。数値の照合：実験の数値（過換気の健常ボランティア20名で、3分間に酸素分圧が平均26.6 mmHg・最大42 mmHg 低下）と、死亡3例という報告件数は候補に再掲がなかった。留保：主出典 SRC-498 は区分訂正あり（UNKNOWN→RESTRICTED。Crossref のライセンスは Elsevier のテキスト・データマイニング用のみ）'
   uncertainty: 抄録で確認。酸素分圧の測定部位（呼気か動脈血か）は抄録の範囲で確定できていない
   curriculum:
     core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-01-00-232 (id: Jlvnl0A)'
@@ -923,6 +968,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-498 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ65 2026-11-14）。三原の承認（2026-11-11）による
 - id: PL-027
   domain: PL
   subdomain: 肺胞低換気症候群
@@ -1012,8 +1063,8 @@
     url: https://doi.org/10.5761/atcs.oa.16-00018
     source_license: 未確認（PMC と J-STAGE の論文ページ、Crossref のいずれにもライセンス表示なし。©2016 Annals of Thoracic and Cardiovascular Surgery）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ65 2026-11-14）：Rafiei Y, Movahedi B, Bayat F, Zohrian F. Diagnosing Congenital Diaphragmatic Eventration Presenting With Transient Cardiac Dextroposition in an Adult: A Case Report and Literature Review. Case Rep Pulmonol. 2026（PMID: 42559125、DOI: 10.1155/crpu/1851328、PMCID: PMC13439979、https://pmc.ncbi.nlm.nih.gov/articles/PMC13439979/）。裏づける部分：候補（CC BY の症例報告・文献レビュー）が、横隔膜挙上症を「筋の発達不全により、解剖学的に欠損のない横隔膜が永続的に挙上した状態」と定義し、離断（欠損）のあるヘルニアとは区別されること、持続する呼吸困難・反復感染・縦隔偏位の進行がある成人では外科的縫縮術が治療として支持されることを明記し、カードの定義部分と一致する。数値の照合：主出典 Evman らの手術例42例のコホート数値（左側33例、原因は特発性45.2%・外傷33.3%・手術21.4%、術前 FEV1 62%・FVC 61%、1年で FEV1 +23%・FVC +24%、mMRC 3.0→0.9、平均28か月で再発なし）は候補に再掲がなかった。留保：主出典 SRC-567 は区分訂正あり（UNKNOWN→RESTRICTED。PMC に全文があるがライセンス表示がなく自由とはみなさない）。PMCID は補完候補（PMC5045849、識別子補完候補の節参照）'
   uncertainty: 対象は単一施設で縫縮術を受けた有症状の成人42例に限られる後ろ向き検討で、無症状例の経過は示されていない
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)'
@@ -1028,6 +1079,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-567 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ65 2026-11-14）。三原の承認（2026-11-11）による
 - id: PL-030
   domain: PL
   subdomain: 横隔神経麻痺
@@ -1049,8 +1106,8 @@
     url: https://www.journalpulmonology.org/en-diaphragmatic-dysfunction-articulo-S2531043718301624
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ65 2026-11-14）：Sivananthan TP, Falak U, Asim A. Unilateral Diaphragmatic Paralysis Presumed Secondary to Parsonage-Turner Syndrome Presenting as Orthopnea. Cureus. 2026;18（PMID: 42434666、DOI: 10.7759/cureus.110618、PMCID: PMC13354110、https://pmc.ncbi.nlm.nih.gov/articles/PMC13354110/）。裏づける部分：候補（CC BY の症例報告）が、片側横隔膜麻痺は無症状のことがあり、横隔膜機能障害の呈示は無症状の画像所見から労作時呼吸困難・起座呼吸・睡眠呼吸障害・呼吸不全まで幅があること、神経痛性筋萎縮症（Parsonage-Turner 症候群）が原因となりうること、臥位での FVC 低下（20〜30%超で横隔膜の弱化を示唆）を体位肺機能で確認したことを述べる。補助候補（El Kilali R, et al. Cureus. 2026、CC BY、両側例）は起座呼吸・臥位での胸腹部の奇異性運動・臥位 FVC 約34%低下を報告する。数値の照合：カードの閾値（臥位 VC 低下が片側15%超・両側30%超）そのものの再掲はなく、候補の「20〜30%超」という範囲表現と両側例の実測約34%が近接する裏づけにとどまる。留保：原因の全列挙（胸部・心臓手術、外傷、縦隔腫瘍の圧迫・浸潤、帯状疱疹、Guillain-Barré）、透視下 sniff test が片側に有用で両側に適さない点、REM 睡眠中の低換気は候補で未確認。主出典 SRC-570 は区分訂正あり（UNKNOWN→RESTRICTED、CC BY-NC-ND と特定）'
   uncertainty: 臥位肺活量の閾値は表から読み取り（本文では15〜30%と幅で記載）。DOI とライセンスは未確認
   curriculum:
     core_curriculum: 'PS-02-07-05 (id: JkxnuRE)；TBL-01-00-246 (id: Jlvnl10)'
@@ -1068,6 +1125,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-570 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ65 2026-11-14）。三原の承認（2026-11-11）による
 - id: PL-031
   domain: PL
   subdomain: 縦隔気腫、皮下気腫
@@ -1088,7 +1151,7 @@
     source_license: © 2015 Journal of Thoracic Disease. All rights reserved（PMC 掲載ページの表示、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ65 2026-11-14）：Huang C, Xu Z, Wu J, Xiong J, Chen Z, Ouyang S, Xu J, Guan J. Clinical Characteristics of Spontaneous and Recurrent Pneumomediastinum and Risk Factors of Recurrence. Emerg Med Int. 2026（PMID: 42936281、DOI: 10.1155/emmi/9027140、PMCID: PMC13697234、https://pmc.ncbi.nlm.nih.gov/articles/PMC13697234/）。裏づける部分：候補（CC BY、特発性縦隔気腫135例の臨床研究）が、機序として Macklin 効果（肺胞破裂により空気が肺血管鞘に沿って縦隔へ進む）を説明し、男性78.5%、胸痛が最多症状であること、Hamman 徴候（心拍に同期する捻髪音様の音で、陽性率は報告により0〜100%と幅があること）、良性で自然軽快する経過を明記し、カードの骨格と一致する。数値の照合：男性割合は候補78.5%でカードの約76%と近接する。主出典（症例報告・シリーズの集計）の頻度（胸痛60〜100%、呼吸困難75%、咳80%、頸部痛36%、皮下気腫約70%）は候補では再掲されず、候補側コホートの胸痛は51.9%・皮下気腫は約30%と値が異なる（申し送り参照）。留保：主出典 SRC-4893 の区分は現行 RESTRICTED が正しい（Europe PMC で非 OA、PMC 掲載ページは All rights reserved の表示で CC 表示なし）。PMCID は補完候補（PMC4332083）'
   uncertainty: 症状・所見の頻度は総説が集計した自然縦隔気腫の症例報告・症例シリーズに基づく数値で、報告により幅があり（胸痛60〜100%など）、総説本文から読み取り。外傷性や食道破裂などに伴う二次性縦隔気腫の管理は本カードでは扱わない。個別の薬剤名は主張に含まない（鎮痛・鎮咳は保存的治療の要素としての記述）。
   curriculum:
     kokushi: 医学各論 Ⅳ-7-B-①（縦隔気腫、皮下気腫、a）
@@ -1103,6 +1166,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ65 2026-11-14）。三原の承認（2026-11-11）による
 - id: PL-032
   domain: PL
   subdomain: 気管食道瘻、食道気管瘻
@@ -1123,7 +1189,7 @@
     source_license: CC BY-NC 4.0（PMC 掲載ページで確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ65 2026-11-14）：Alkhalil N, Kawtharani AA, Nahas C, Abou Rached A. Post-intubation Tracheoesophageal Fistula Following Meningioma Excision: A Case Report and Literature Review. Cureus. 2025;17(5):e83748（PMID: 40486317、DOI: 10.7759/cureus.83748、PMCID: PMC12145205、https://pmc.ncbi.nlm.nih.gov/articles/PMC12145205/）。裏づける部分：候補（CC BY の症例報告・文献レビュー）が、主出典と同じ Burt らの200例超のシリーズから症状頻度を再掲する：咳56%・誤嚥37%・発熱25%・嚥下困難19%・肺炎5%。さらに、Ono 徴候（嚥下で誘発される発作性の咳）が既知の瘻孔例の81%にみられること、良性の瘻孔の約75%が医原性（カフによる圧迫壊死が主体）であること、悪性が成人の後天性瘻孔の50%超を占め食道癌・肺癌が主な原因であることも明記し、カードと広く一致する。数値の照合：症状頻度（咳56%・誤嚥37%・発熱25%・嚥下困難19%・肺炎5%）、Ono 徴候81%、良性の約75%が医原性は候補と一致。留保：悪性のうち食道癌が77%（207例のシリーズ）という内訳と、食道造影で約70%に瘻孔が描出される点は候補では未確認。治療の方向（悪性はステントによる緩和が主体、良性は根治手術が可能でステントは橋渡し）は、候補がステントを緩和的介入とし手術の閉鎖成功率75〜94%を述べる範囲で概ね支持される。主出典 SRC-4894 の区分は現行 RESTRICTED が正しい（CC BY-NC 4.0 を Crossref・Europe PMC で再確認）'
   uncertainty: 症状の頻度は総説本文が引用する Burt らの200例を超える集積（悪性が中心）に基づく数値で、本文から読み取り。依頼文が見込みとしていた ESGE 2021 は悪性瘻へのステント推奨が中心のため採用せず、後天性の原因・臨床像・診断・治療を通して確認できる本総説を単独の出典とした。悪性例の生存期間の中央値は診断後3か月未満と本文にあるが、予後は本カードの主張には含めていない。先天性（食道閉鎖に伴うもの）は小児の領域のため扱わない。個別の薬剤名は主張に含まない。
   curriculum:
     kokushi: 医学各論 Ⅳ-7-B-②（気管食道瘻、食道気管瘻、a）
@@ -1138,6 +1204,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ65 2026-11-14）。三原の承認（2026-11-11）による
 - id: PL-033
   domain: PL
   subdomain: 反回神経麻痺
@@ -1157,7 +1226,7 @@
     url: https://doi.org/10.1177/0145561320965212
     source_license: 未確認（誌面・PDF で CC 表示を確認できず。© The Author(s) 2020、再利用は出版社の許可手続きによる旨の表示あり）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 割合は台湾の3次施設の後方視研究（2010〜2019年、原因の確定した194例）の集計で、原著の表から読み取り。単施設の集計のため、施設・地域による偏りがありうる。項目の側面に挙がる大動脈瘤・左房拡大などの個別の心血管性原因は、本出典では内訳が示されなかったため主張には含めていない（心血管性は全体の2%であることのみ確認した）。PMID は作成時点で確認できず null とした（文献は DOI で特定できる）。ライセンスは CC 表示を確認できなかったため UNKNOWN とし、取り込み時の確認に委ねる。頸部の手術・腫瘍など原因の大勢と評価の進め方は既存カード OT-042 が担う。
   curriculum:
@@ -1173,3 +1242,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-4895 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による

@@ -1,0 +1,54 @@
+{
+ "class": [
+  [
+   "SRC-487",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-491",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-498",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-567",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-570",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-4895",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [],
+ "B": [
+  "PL-001",
+  "PL-002",
+  "PL-003",
+  "PL-006",
+  "PL-015",
+  "PL-016",
+  "PL-019",
+  "PL-020",
+  "PL-021",
+  "PL-022",
+  "PL-024",
+  "PL-026",
+  "PL-029",
+  "PL-030",
+  "PL-031",
+  "PL-032"
+ ],
+ "new_src": []
+}

@@ -76,7 +76,7 @@
 
 - 条件：region: 日本
 - 不確実性：抄録で確認。50 mg/dL 未満で乳び胸を否定するという基準は抄録には明記されていない。著者名は API で確定する
-- 出典：Staats BA, et al. The lipoprotein profile of chylous and nonchylous pleural effusions. Mayo Clin Proc 1980;55(11):700-704　[PMID 7442324](https://pubmed.ncbi.nlm.nih.gov/7442324/)（区分 UNKNOWN）
+- 出典：Staats BA, et al. The lipoprotein profile of chylous and nonchylous pleural effusions. Mayo Clin Proc 1980;55(11):700-704　[PMID 7442324](https://pubmed.ncbi.nlm.nih.gov/7442324/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-7-A-③（乳び胸、c）　コアカリ：PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-020 (id: JlAKpiQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PL-006&card_id=PL-006&version=b5d64f2b5b)　（版 `b5d64f2b5b`）
 
@@ -87,7 +87,7 @@
 - 条件：region: 日本
 - よくある誤解：乳び胸水は必ず乳白色に見える
 - 不確実性：抄録で確認
-- 出典：Staats BA, et al. The lipoprotein profile of chylous and nonchylous pleural effusions. Mayo Clin Proc 1980;55(11):700-704　[PMID 7442324](https://pubmed.ncbi.nlm.nih.gov/7442324/)（区分 UNKNOWN）
+- 出典：Staats BA, et al. The lipoprotein profile of chylous and nonchylous pleural effusions. Mayo Clin Proc 1980;55(11):700-704　[PMID 7442324](https://pubmed.ncbi.nlm.nih.gov/7442324/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-7-A-③（乳び胸、c）　コアカリ：PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-020 (id: JlAKpiQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PL-007&card_id=PL-007&version=fafd8f430d)　（版 `fafd8f430d`）
 
@@ -192,7 +192,7 @@
 
 - 条件：region: 国際／対象: 一側性声帯麻痺の成人患者
 - 不確実性：割合は台湾の3次施設の後方視研究（2010〜2019年、原因の確定した194例）の集計で、原著の表から読み取り。単施設の集計のため、施設・地域による偏りがありうる。項目の側面に挙がる大動脈瘤・左房拡大などの個別の心血管性原因は、本出典では内訳が示されなかったため主張には含めていない（心血管性は全体の2%であることのみ確認した）。PMID は作成時点で確認できず null とした（文献は DOI で特定できる）。ライセンスは CC 表示を確認できなかったため UNKNOWN とし、取り込み時の確認に委ねる。頸部の手術・腫瘍など原因の大勢と評価の進め方は既存カード OT-042 が担う。
-- 出典：Wang HW, Lu CC, Chao PZ, Lee FP. Causes of Vocal Fold Paralysis. Ear Nose Throat J. 2022;101(7):NP294-NP298　[DOI 10.1177/0145561320965212](https://doi.org/10.1177/0145561320965212)（区分 UNKNOWN）
+- 出典：Wang HW, Lu CC, Chao PZ, Lee FP. Causes of Vocal Fold Paralysis. Ear Nose Throat J. 2022;101(7):NP294-NP298　[DOI 10.1177/0145561320965212](https://doi.org/10.1177/0145561320965212)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-7-B-④（反回神経麻痺、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PL-033&card_id=PL-033&version=6a48c417f7)　（版 `6a48c417f7`）
 
@@ -208,7 +208,7 @@
 
 - 条件：guideline: EAST practice management guideline 2017／region: 米国
 - 不確実性：EAST の指針頁の記載。題名と第4著者以降は API で確定する
-- 出典：Kasotakis G, Hasenboehler EA, Streib EW, et al. Operative fixation of rib fractures after blunt trauma: A practice management guideline from the Eastern Association for the Surgery of Trauma. J Trauma Acute Care Surg 2017;82(3):618-626　[リンク](https://east.org/education-resources/practice-management-guidelines/details/rib-fractures-open-reduction-and-internal-fixation-of-update-in-process)（区分 UNKNOWN）
+- 出典：Kasotakis G, Hasenboehler EA, Streib EW, et al. Operative fixation of rib fractures after blunt trauma: A practice management guideline from the Eastern Association for the Surgery of Trauma. J Trauma Acute Care Surg 2017;82(3):618-626　[リンク](https://east.org/education-resources/practice-management-guidelines/details/rib-fractures-open-reduction-and-internal-fixation-of-update-in-process)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-7-C-①（肋骨骨折、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PL-015&card_id=PL-015&version=9d0cce8054)　（版 `9d0cce8054`）
 
@@ -219,7 +219,7 @@
 - 条件：guideline: EAST practice management guideline 2017／region: 米国
 - よくある誤解：多発肋骨骨折なら、フレイルチェストでなくても肋骨固定術が推奨されている
 - 不確実性：エビデンスの質は頁内で low と very low の記載が混在。EAST は改訂作業中（UPDATE IN PROCESS）と表示されている
-- 出典：Kasotakis G, Hasenboehler EA, Streib EW, et al. Operative fixation of rib fractures after blunt trauma: A practice management guideline from the Eastern Association for the Surgery of Trauma. J Trauma Acute Care Surg 2017;82(3):618-626　[リンク](https://east.org/education-resources/practice-management-guidelines/details/rib-fractures-open-reduction-and-internal-fixation-of-update-in-process)（区分 UNKNOWN）
+- 出典：Kasotakis G, Hasenboehler EA, Streib EW, et al. Operative fixation of rib fractures after blunt trauma: A practice management guideline from the Eastern Association for the Surgery of Trauma. J Trauma Acute Care Surg 2017;82(3):618-626　[リンク](https://east.org/education-resources/practice-management-guidelines/details/rib-fractures-open-reduction-and-internal-fixation-of-update-in-process)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-7-C-①（肋骨骨折、a）　コアカリ：PS-02-07-04 (id: JkxnuRA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PL-016&card_id=PL-016&version=d974d5c67a)　（版 `d974d5c67a`）
 
@@ -345,7 +345,7 @@
 - 条件：region: 米国
 - よくある誤解：過換気発作には紙袋再呼吸が安全で標準的な対処法である
 - 不確実性：抄録で確認。酸素分圧の測定部位（呼気か動脈血か）は抄録の範囲で確定できていない
-- 出典：Callaham M. Hypoxic hazards of traditional paper bag rebreathing in hyperventilating patients. Ann Emerg Med 1989;18(6):622-628　[DOI 10.1016/s0196-0644(89)80515-3](https://doi.org/10.1016/s0196-0644(89)80515-3)　[PMID 2499228](https://pubmed.ncbi.nlm.nih.gov/2499228/)（区分 UNKNOWN）
+- 出典：Callaham M. Hypoxic hazards of traditional paper bag rebreathing in hyperventilating patients. Ann Emerg Med 1989;18(6):622-628　[DOI 10.1016/s0196-0644(89)80515-3](https://doi.org/10.1016/s0196-0644(89)80515-3)　[PMID 2499228](https://pubmed.ncbi.nlm.nih.gov/2499228/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-8-A-②（過換気症候群、a）　コアカリ：PS-02-07-04 (id: JkxnuRA)；TBL-01-00-232 (id: Jlvnl0A)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PL-026&card_id=PL-026&version=b0ca17f2d2)　（版 `b0ca17f2d2`）
 
@@ -390,7 +390,7 @@
 - 鑑別・補足：超音波検査では、吸気時に横隔膜が尾側へ動かないことが麻痺を示す／症状のある両側麻痺には非侵襲的換気が用いられる
 - よくある誤解：横隔膜麻痺は一側でも必ず強い呼吸困難を起こす
 - 不確実性：臥位肺活量の閾値は表から読み取り（本文では15〜30%と幅で記載）。DOI とライセンスは未確認
-- 出典：Ricoy J, Rodríguez-Núñez N, Álvarez-Dobaño JM, et al. Diaphragmatic dysfunction. Pulmonology 2019　[リンク](https://www.journalpulmonology.org/en-diaphragmatic-dysfunction-articulo-S2531043718301624)（区分 UNKNOWN）
+- 出典：Ricoy J, Rodríguez-Núñez N, Álvarez-Dobaño JM, et al. Diaphragmatic dysfunction. Pulmonology 2019　[リンク](https://www.journalpulmonology.org/en-diaphragmatic-dysfunction-articulo-S2531043718301624)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-7-C-④（横隔神経麻痺、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-246 (id: Jlvnl10)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PL-030&card_id=PL-030&version=de4253b497)　（版 `de4253b497`）
 
@@ -407,7 +407,7 @@
 - 鑑別・補足：横隔膜ヘルニア、横隔膜麻痺
 - よくある誤解：横隔膜の挙上はすべて横隔膜ヘルニアによるものである
 - 不確実性：対象は単一施設で縫縮術を受けた有症状の成人42例に限られる後ろ向き検討で、無症状例の経過は示されていない
-- 出典：Evman S, et al. Comparison of Mid-Term Clinical Outcomes of Different Surgical Approaches in Symptomatic Diaphragmatic Eventration. Ann Thorac Cardiovasc Surg 2016;22:224-229　[DOI 10.5761/atcs.oa.16-00018](https://doi.org/10.5761/atcs.oa.16-00018)　[PMID 27076066](https://pubmed.ncbi.nlm.nih.gov/27076066/)（区分 UNKNOWN）
+- 出典：Evman S, et al. Comparison of Mid-Term Clinical Outcomes of Different Surgical Approaches in Symptomatic Diaphragmatic Eventration. Ann Thorac Cardiovasc Surg 2016;22:224-229　[DOI 10.5761/atcs.oa.16-00018](https://doi.org/10.5761/atcs.oa.16-00018)　[PMID 27076066](https://pubmed.ncbi.nlm.nih.gov/27076066/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-7-C-⑤（横隔膜弛緩症、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PL-029&card_id=PL-029&version=c3bacf2d80)　（版 `c3bacf2d80`）
 

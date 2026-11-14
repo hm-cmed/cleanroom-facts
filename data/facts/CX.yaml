@@ -88,7 +88,7 @@
     source_license: © 2017 American College of Cardiology Foundation, AHA, HRS
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Taoussi O, Kamri HA, Scadi S, Ghali B, Merzouk F. Phenotyping Dysautonomia in Unexplained Syncope: Diagnostic Yield and Therapeutic Implications in a Moroccan Cohort. Cureus. 2026;18(1):e101268／補助：Antonazzo B, Sirignano A, Salvini M, Rossi FF, Ronzoni S, Dorizzi A, et al. Management of Syncope in Geriatric Patients: Are 2018 European Society of Cardiology Guidelines Still Relevant? J Clin Med. 2026;15(16):6303（PMID: 41674764、DOI: 10.7759/cureus.101268、PMCID: PMC12887543、https://pmc.ncbi.nlm.nih.gov/articles/PMC12887543/）。裏づける部分：主候補（CC BY）が失神の定義を逐語再掲する：脳全体の低灌流による一過性意識消失で、急速な発症・短い持続・自然で完全な回復を特徴とする。補助候補（CC BY）は反射性・起立性低血圧・心原性の3分類の枠組みで整理し、心原性の原因として徐脈性不整脈・伝導障害・構造的病変を挙げる。血管迷走神経性が反射性の最多の型である点は血管迷走神経性失神の総説（Laranjo S, et al. J Clin Med. 2026）も明記する。数値の照合：数値なし（定義・分類のカード）。留保：心原性の内訳のうち心拍出量の低下・血流の閉塞・大動脈解離という列挙は候補では未確認。主出典 SRC-297 の区分は現行 RESTRICTED が正しい（区分訂正の節参照）'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-02 (id: JkxnuQk)；TBL-02-05-017 (id: JlAKpfo)；TBL-01-00-202 (id: Jlvnlws)'
@@ -103,6 +103,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
 - id: CX-004
   domain: CX
   subdomain: 失神
@@ -123,7 +126,7 @@
     source_license: © 2017 American College of Cardiology Foundation, AHA, HRS
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Antonazzo B, Sirignano A, Salvini M, Rossi FF, Ronzoni S, Dorizzi A, et al. Management of Syncope in Geriatric Patients: Are 2018 European Society of Cardiology Guidelines Still Relevant? J Clin Med. 2026;15(16):6303（PMID: 42652707、DOI: 10.3390/jcm15166303、PMCID: PMC13513275、https://pmc.ncbi.nlm.nih.gov/articles/PMC13513275/）。裏づける部分：候補（CC BY）が初期評価の構成（目撃者を含む詳しい病歴、身体診察、起立血圧、12誘導心電図）を明記し、ルーチンの神経画像や頸動脈超音波ではなくリスク所見に基づく標的検査を置くこと、包括的な血液検査パネルはリスク層別に寄与しないこと、心エコーは条件付きの位置づけであることを述べ、カードの評価骨格と概ね一致する。数値の照合：数値なし。留保：推奨クラス（病歴・診察と心電図＝クラス I、ルーチン検査＝クラス III、心エコー＝クラス IIa）という ACC のクラス付け自体は候補では再掲されていない（候補は ESC 2018 の枠組み）'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-02 (id: JkxnuQk)；TBL-02-05-017 (id: JlAKpfo)；TBL-02-05-026 (id: JlAKpf0)'
@@ -138,6 +141,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
 - id: CX-005
   domain: CX
   subdomain: 失神
@@ -158,7 +164,7 @@
     source_license: © 2017 American College of Cardiology Foundation, AHA, HRS
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Situ-LaCasse E, Wallace N, Wasiak D, Patel P, Adhikari S. A Narrative Review of Syncope Decision Rules: A Case for Point-of-Care Cardiac Ultrasound for Cardiac Syncope. J Clin Med. 2026;15:3780／補助：Antonazzo B, Sirignano A, Salvini M, Rossi FF, Ronzoni S, Dorizzi A, et al. Management of Syncope in Geriatric Patients: Are 2018 European Society of Cardiology Guidelines Still Relevant? J Clin Med. 2026;15(16):6303（PMID: 42194740、DOI: 10.3390/jcm15103780、PMCID: PMC13207387、https://pmc.ncbi.nlm.nih.gov/articles/PMC13207387/）。裏づける部分：主候補（CC BY）が EGSYS スコアの項目として失神前の動悸・労作中の失神・臥位での失神を再掲し、構造的心疾患を示唆する所見の早期同定を強調する。補助候補は労作中・臥位の発症と心電図の警戒所見（二束ブロック、持続性洞性徐脈、非持続性心室性不整脈）が心原性を強く示唆すると明記する。数値の照合：数値なし。留保：60歳超・男性・発作回数1〜2回・心臓の診察所見の異常・遺伝性疾患や50歳未満の突然死の家族歴という項目は候補では未確認'
   uncertainty: ガイドラインはこれらの特徴は診断的ではないと注記している
   curriculum:
     core_curriculum: 'PS-02-06-02 (id: JkxnuQk)；TBL-02-05-017 (id: JlAKpfo)'
@@ -173,6 +179,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
 - id: CX-006
   domain: CX
   subdomain: 失神
@@ -193,7 +202,7 @@
     source_license: © 2017 American College of Cardiology Foundation, AHA, HRS
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Laranjo S, Oliveira MM, Rocha I. From Mechanism to Management in Vasovagal Syncope: An Integrative Review. J Clin Med. 2026;15(19):7360（PMID: 42881822、DOI: 10.3390/jcm15197360、PMCID: PMC13665558、https://pmc.ncbi.nlm.nih.gov/articles/PMC13665558/）。裏づける部分：候補（CC BY）が、全患者への病態と良性の経過についての教育と身体的対抗手技の訓練を第一線の対応とし（§5.1）、薬物ではミドドリンが選択された患者で有効、フルドロコルチゾンは再発低下が境界域、と試験エビデンスを整理する。患者教育・対抗手技・薬物の位置づけというカードの管理骨格と概ね一致する。数値の照合：数値なし。留保：対抗手技の具体形（下肢の交差・手の握りしめ）、ACC のクラス付け（教育＝I、対抗手技＝IIa、ミドドリン＝IIa、フルドロコルチゾン＝IIb）、ミドドリンの除外条件（高血圧・心不全・尿閉のない再発例）は候補では未確認'
   uncertainty: 薬剤の国内の承認・保険適用（失神への適応）は確認していない
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-02-05-017 (id: JlAKpfo)；TBL-01-00-202 (id: Jlvnlws)'
@@ -208,6 +217,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
 - id: CX-007
   domain: CX
   subdomain: 心電図の基本所見
@@ -228,7 +240,7 @@
     source_license: © 2009 AHA, ACCF, HRS
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Mahendran S, Gupta I, Davis J, Davis AJ, Orchard JW, Orchard J. Comparison of methods for correcting QT interval in athletes and young people: A systematic review. Clin Cardiol. 2023;46(9):1106-1115（PMID: 37470093、DOI: 10.1002/clc.24093、PMCID: PMC10540007、https://pmc.ncbi.nlm.nih.gov/articles/PMC10540007/）。裏づける部分：候補（CC BY のシステマティックレビュー）が、Bazett 式は心拍数の高い範囲で QTc を過大評価し低い範囲で過小評価すること、線形補正式（Framingham・Hodges）が心拍数の両端でより正確でありうる代替であることを明記し、カードの「Bazett の式は特に心拍数が速いときに大きな誤差を生む」という中心点と一致する。数値の照合：数値なし。留保：「線形回帰の式が勧められ、報告には補正法を明記する」という AHA の推奨文自体と、RR 間隔の変動が大きいときや T 波の終末が不明瞭なときは補正しない点は候補では未確認'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-02-05-026 (id: JlAKpf0)'
@@ -243,6 +255,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
 - id: CX-008
   domain: CX
   subdomain: 心電図の基本所見
@@ -263,7 +278,7 @@
     source_license: © 2009 AHA, ACCF, HRS
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Tan LG, Liu JX, Guo F, Lin J, Xiong R, Fu H, You HM, He L, et al. Population prevalence and correlates of prolonged and shortened QTc intervals in a nationwide survey of adults. Front Cardiovasc Med. 2025;12（PMID: 40822009、DOI: 10.3389/fcvm.2025.1555512、PMCID: PMC12350289、https://pmc.ncbi.nlm.nih.gov/articles/PMC12350289/）。裏づける部分：候補（CC BY）が、国際ガイドラインの性別閾値として男性450 ms・女性460 msを延長の目安とし、短縮については AHA 基準を390 ms未満と明記する。カードの閾値（男性450 ms以上・女性460 ms以上を延長、390 ms以下を短縮）と実質的に一致する。数値の照合：延長＝男性450・女性460 ms、短縮＝390 ms は候補と一致（境界の「以上」と「超」の表記差のみ）。留保：候補は短縮の AHA 基準を「<390 ms」と表記し、カードの「390 ms以下」とは境界の含み方が異なる（申し送り参照）。主出典 SRC-309 の区分は現行 RESTRICTED が正しい'
   uncertainty: 男性の延長の基準は本文の別の箇所で「450 msを超える」と書かれている
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-02-05-026 (id: JlAKpf0)'
@@ -278,6 +293,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
 - id: CX-009
   domain: CX
   subdomain: 心電図の基本所見
@@ -298,7 +316,7 @@
     source_license: © 2009 AHA, ACCF, HRS
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Mills NL, Newby LK, Zaman S, Almahmeed WA, Bucciarelli-Ducci C, Colvin DM, et al. Fifth Universal Definition of Myocardial Infarction (2026): On behalf of the Joint European Society of Cardiology (ESC), American College of Cardiology (ACC), American Heart Association (AHA) and World Heart Federation (WHF). Glob Heart. 2026;21(1):64（PMID: 42666939、DOI: 10.5334/gh.1578、PMCID: PMC13523810、https://pmc.ncbi.nlm.nih.gov/articles/PMC13523810/）。裏づける部分：候補（CC BY の心筋梗塞の普遍的定義 第5版）が J 点における ST 上昇の閾値を明記する：V2–V3 誘導で40歳未満の男性2.5 mm以上、40歳以上の男性2 mm以上、女性1.5 mm以上、その他の誘導で1 mm以上。カードの閾値（0.25／0.2／0.15／0.1 mV）と完全一致する。数値の照合：閾値4点すべて候補と一致。留保：候補の表の一部に「≥2.5 mm in males >40 years」という記載揺れがあるが、本文の定義文はカードと一致する'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-02-05-026 (id: JlAKpf0)'
@@ -313,6 +331,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
 - id: CX-010
   domain: CX
   subdomain: 心電図の基本所見
@@ -333,7 +354,7 @@
     source_license: © 2009 AHA, ACCF, HRS
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Blondeel M, Robyns T, Willems R, Vandenberk B. Ventricular Depolarization Abnormalities and Their Role in Cardiac Risk Stratification - A Narrative Review. Rev Cardiovasc Med. 2025;26(1)（PMID: 39867187、DOI: 10.31083/rcm25921、PMCID: PMC11759958、https://pmc.ncbi.nlm.nih.gov/articles/PMC11759958/）。裏づける部分：候補（CC BY）の表1が主出典（Surawicz ら）の基準を再掲する：完全右脚ブロックは QRS 幅120 ms以上、V1 または V2 での rsr′・rsR′・rSR′ 型、I 誘導と V6 で R 波より長いか40 msを超える S 波。不完全右脚ブロックは QRS 幅110〜120 ms で他の基準は同じ。カードと一致する。数値の照合：QRS 幅の閾値（120 ms／110〜120 ms）と S 波40 ms は候補と一致。留保：主出典 SRC-310 の区分は現行 RESTRICTED が正しい（区分訂正の節参照）'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-02-05-026 (id: JlAKpf0)'
@@ -348,6 +369,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
 - id: CX-011
   domain: CX
   subdomain: 心電図の基本所見
@@ -368,7 +392,7 @@
     source_license: © 2009 AHA, ACCF, HRS
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Blondeel M, Robyns T, Willems R, Vandenberk B. Ventricular Depolarization Abnormalities and Their Role in Cardiac Risk Stratification - A Narrative Review. Rev Cardiovasc Med. 2025;26(1)（PMID: 39867187、DOI: 10.31083/rcm25921、PMCID: PMC11759958、https://pmc.ncbi.nlm.nih.gov/articles/PMC11759958/）。裏づける部分：候補の表1が完全左脚ブロックの基準を再掲する：QRS 幅120 ms以上、I・aVL・V5・V6 での幅広く結節のある（または不明瞭な）R 波、I・V5・V6 での q 波の欠如、V5・V6 での R 波頂点時間60 ms超。不完全左脚ブロックは QRS 幅110〜119 ms。カードと一致する。数値の照合：QRS 幅の閾値と R 波頂点時間60 ms は候補と一致。留保：候補は不完全型に左室肥大パターンと R 波頂点時間の条件も併記する（カードの記載範囲を超える追加情報で、矛盾ではない）'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-02-05-026 (id: JlAKpf0)'
@@ -383,6 +407,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
 - id: CX-012
   domain: CX
   subdomain: 心電図の基本所見
@@ -403,7 +430,7 @@
     source_license: © 2009 AHA, ACCF, HRS
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Blondeel M, Robyns T, Willems R, Vandenberk B. Ventricular Depolarization Abnormalities and Their Role in Cardiac Risk Stratification - A Narrative Review. Rev Cardiovasc Med. 2025;26(1)（PMID: 39867187、DOI: 10.31083/rcm25921、PMCID: PMC11759958、https://pmc.ncbi.nlm.nih.gov/articles/PMC11759958/）。裏づける部分：候補の表1が左脚前枝ブロック（前額面の電気軸 −45°〜−90°、aVL が qR 型、QRS 幅120 ms未満）と左脚後枝ブロック（電気軸 90°〜180°、I・aVL が rS 型、III・aVF が qR 型、QRS 幅120 ms未満）を再掲し、カードと一致する。数値の照合：電気軸の範囲（−45°〜−90°／90°〜180°）と QRS 幅120 ms未満は候補と一致。留保：候補は左脚前枝ブロックに aVL の R 波頂点時間45 ms以上も併記する（カードにはない追加情報で、矛盾ではない）'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-02-05-026 (id: JlAKpf0)'
@@ -418,6 +445,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
 - id: CX-013
   domain: CX
   subdomain: 心エコー・心臓 CT・心臓 MRI・カテーテル検査の基本
@@ -438,7 +468,7 @@
     source_license: Copyright 2015 by the American Society of Echocardiography
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Kim SR, Park SM. Women''s heart and echocardiography. J Cardiovasc Imaging. 2026;34（PMID: 42675506、DOI: 10.1186/s44348-026-00091-8、PMCID: PMC13527923、https://pmc.ncbi.nlm.nih.gov/articles/PMC13527923/）。裏づける部分：候補（CC BY）の表1が ASE/EACVI 推奨値として、二次元心エコーの biplane 法による左室駆出率の平均と正常範囲を、男性で平均62±5%・範囲52〜72%、女性で平均64±5%・範囲54〜74%と明記し、カードと完全一致する。数値の照合：平均（62±5／64±5%）と正常範囲（52〜72／54〜74%）は候補と一致。留保：主出典 SRC-311 の区分は現行 RESTRICTED が正しい（区分訂正の節参照）'
   uncertainty: 本文の別の箇所に21歳以上の成人で53〜73%という記載があり、表と一致しない
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-02-05-027 (id: JlAKpf4)'
@@ -453,6 +483,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
 - id: CX-014
   domain: CX
   subdomain: 心エコー・心臓 CT・心臓 MRI・カテーテル検査の基本
@@ -473,7 +506,7 @@
     source_license: Copyright 2015 by the American Society of Echocardiography
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Kim SR, Park SM. Women''s heart and echocardiography. J Cardiovasc Imaging. 2026;34（PMID: 42675506、DOI: 10.1186/s44348-026-00091-8、PMCID: PMC13527923、https://pmc.ncbi.nlm.nih.gov/articles/PMC13527923/）。裏づける部分：候補が、線形計測に基づく左室心筋重量係数の正常範囲（男性49〜115、女性43〜95 g/m²）と肥大の閾値（男性115超、女性95超）を明記し、相対的壁厚が0.42を超える場合を求心性、0.42以下で心筋重量が増えている場合を遠心性とする分類も本文に再掲する。カードの上限値（女性95、男性115 g/m²）と幾何分類が一致する。数値の照合：心筋重量係数の上限（女性95・男性115 g/m²）と相対的壁厚0.42 は候補と一致'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-02-05-027 (id: JlAKpf4)'
@@ -488,6 +521,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
 - id: CX-015
   domain: CX
   subdomain: 心エコー・心臓 CT・心臓 MRI・カテーテル検査の基本
@@ -508,7 +544,7 @@
     source_license: Copyright 2015 by the American Society of Echocardiography
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Mirrakhimov AE. Comprehensive Echocardiographic Assessment of Right Ventricular Afterload and Right Ventricular-Pulmonary Arterial Coupling. Crit Care Res Pract. 2026;2026／補助：Bastos L, Al-Khalili F, Bäck M, Manouras A, Engdahl J, Shahgaldi K. Echocardiographic markers for left atrial stiffness and left atrial conduction delay in patients with silent paroxysmal atrial fibrillation. Cardiovasc Ultrasound. 2026;24（PMID: 42959610、DOI: 10.1155/ccrp/3346063、PMCID: PMC13717240、https://pmc.ncbi.nlm.nih.gov/articles/PMC13717240/）。裏づける部分：主候補（CC BY）が右室基部径の正常を4.1 cm未満とし、TAPSE は1.7 cm超を正常（すなわち17 mm未満は右室収縮能低下を示唆）と明記する。補助候補（CC BY）は左房容積係数の正常を34 mL/m²以下として解析に用いている。カードの3指標の閾値と一致する。数値の照合：左房容積係数34 mL/m²・右室基部径41 mm・TAPSE 17 mm は候補と一致。留保：「右室に焦点を当てた心尖部四腔像で」という計測条件の指定は候補では未確認'
   uncertainty: 右室基部径の基準は「41 mm以上」と「41 mmを超える」の両方の表現がある
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-02-05-027 (id: JlAKpf4)'
@@ -523,6 +559,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
 - id: CX-016
   domain: CX
   subdomain: 心エコー・心臓 CT・心臓 MRI・カテーテル検査の基本
@@ -543,7 +582,7 @@
     source_license: Copyright 2015 by the American Society of Echocardiography
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Shaul NC, Smeltz AM, Raff EJ, Jia S, Guichard L, Rosenkrans DJ, Schoenfeld E, et al. Point-of-care ultrasound to evaluate volume status in congestive heart failure. J Cardiovasc Imaging. 2026;34（PMID: 42415209、DOI: 10.1186/s44348-026-00078-5、PMCID: PMC13343992、https://pmc.ncbi.nlm.nih.gov/articles/PMC13343992/）。裏づける部分：候補（CC BY）が ASE/EACVI の方式として、下大静脈径2.1 cm以下で虚脱が50%を超えれば右房圧0〜5 mmHg、径2.1 cmを超え虚脱が50%未満なら10〜20 mmHg、どちらの組み合わせでもない場合は8 mmHg と明記し、カードの推定枠組み（代表値 約3／約15／約8 mmHg とその範囲）と一致する。数値の照合：径2.1 cm・虚脱50%・右房圧の範囲（0〜5／10〜20 mmHg）と中間の8 mmHg は候補と一致。留保：カードは鼻すすりによる虚脱「50%以上」、候補は「50%超」と境界の表記が異なる（申し送り参照）'
   uncertainty: 境界（2.1 cm ちょうど、50% ちょうど）の扱いは英語原本で確認が要る
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；TBL-02-05-027 (id: JlAKpf4)'
@@ -558,6 +597,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
 - id: CX-017
   domain: CX
   subdomain: 心臓リハビリテーション
@@ -578,7 +620,7 @@
     source_license: （無断転載を禁ずる）© 日本循環器学会・日本心臓リハビリテーション学会
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Mauriello A, Correra A, Maratea AC, Russo V, Liccardo B, Gragnano F, et al. The Evolution of Cardiac Rehabilitation from Supervised Models to New Frontiers in Digital Health. J Clin Med. 2026;15(7):2515（PMID: 41976816、DOI: 10.3390/jcm15072515、PMCID: PMC13073996、https://pmc.ncbi.nlm.nih.gov/articles/PMC13073996/）。裏づける部分：候補（CC BY）が心臓リハビリテーションを、運動療法・冠危険因子の是正・心理社会的評価・成果評価を含む多職種の包括的プログラムと定義し、中核構成要素の枠組みを示す。カードの構成要素（医学的評価、運動処方にもとづく運動療法、冠危険因子の是正、患者教育とカウンセリング、最適な薬物療法）の骨格と概ね一致する。数値の照合：数値なし。留保：2021年版で加わった「疾病管理」と、対象疾患の列挙（TAVI 後・肺高血圧症・大動脈瘤/大動脈解離・末梢動脈疾患を含む）は JCS ガイドライン固有で候補では未確認。主出典 SRC-312 の区分は現行 RESTRICTED が正しい'
   uncertainty: 保険適用の対象疾患（表21・22）の本文は抽出できず未確認
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-02-05-033 (id: JlAKpgQ)'
@@ -593,6 +635,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
 - id: CX-018
   domain: CX
   subdomain: 心臓リハビリテーション
@@ -648,7 +693,7 @@
     source_license: （無断転載を禁ずる）© 日本循環器学会・日本心臓リハビリテーション学会
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Carvalho T, Freitas OGA, Chalela WA, Hossri CAC, Milani M, Buglia S, et al. Brazilian Guideline for Exercise Test in the Adult Population - 2024. Arq Bras Cardiol. 2024;121(3):e20240110（PMID: 38896581、DOI: 10.36660/abc.20240110、PMCID: PMC11656589、https://pmc.ncbi.nlm.nih.gov/articles/PMC11656589/）。裏づける部分：候補（CC BY の運動負荷試験ガイドライン）が、嫌気性代謝閾値（AT）には心不全での予後価値があり、心血管リハビリテーションとスポーツにおける運動処方の根拠として重要であると位置づける。カードの「ランプ負荷 CPX で求めた AT に基づいて有酸素運動の強度を処方する」という原則部分と一致する。数値の照合：AT が最高酸素摂取量の約50〜55%にあたるという値は候補では未確認。留保：AT の1分前の仕事率で処方する具体的手法、予測最高心拍数でなく実測値を使うべき点、β 遮断薬服用患者で特に重要という点は、いずれも候補では未確認（日本の CPX 運用に固有）'
   uncertainty: Borg 指数や Karvonen 法の係数は今回の抽出範囲になく未確認
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-02-05-033 (id: JlAKpgQ)'
@@ -663,6 +708,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
 - id: CX-020
   domain: CX
   subdomain: 心臓リハビリテーション
@@ -683,7 +731,7 @@
     source_license: （無断転載を禁ずる）© 日本循環器学会・日本心臓リハビリテーション学会
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Aggarwal P, Yannamani A, Jain J, Klipa I, Oehler A, Kassis-George H. Cardiac Rehabilitation in Heart Failure: Evidence, Coverage, and Implementation. J Clin Med. 2026;15(17):6576／補助：Krishnan S, Goddard ACN, Annals M, Squire IB, Sze S. Exercise for older people with heart failure and frailty: should we even try? ESC Heart Fail. 2026;13(6)（PMID: 42739581、DOI: 10.3390/jcm15176576、PMCID: PMC13566242、https://pmc.ncbi.nlm.nih.gov/articles/PMC13566242/）。裏づける部分：主候補（CC BY）が、運動療法により最高酸素摂取量が改善することは一貫した知見であるとする。補助候補（CC BY）は有酸素運動の用量として週3〜5日・1回20〜60分の範囲を表に示す。カードの頻度（週3〜5回）の骨格と、続けると最高酸素摂取量が改善するという方向は候補と一致する。数値の照合：カードの改善幅8〜16%に対し、主候補の統合値は HFrEF で15〜17%であり、研究集合の異なる別推計のため値そのものの裏づけにはならない（申し送り参照）。留保：1回40〜50分・3か月というカードの用量パッケージ自体の逐語再掲は見つからなかった'
   uncertainty: 数値はガイドラインが引用した研究による（二次資料経由）。心不全への心臓リハビリテーションの推奨クラスは今回の抽出範囲になく未確認
   curriculum:
     core_curriculum: 'PS-02-06-04 (id: JkxnuQs)；TBL-02-05-033 (id: JlAKpgQ)'
@@ -701,6 +749,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅴ-2-A-④（慢性心不全、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
 - id: CX-021
   domain: CX
   subdomain: 心臓リハビリテーション
@@ -721,7 +772,7 @@
     source_license: （無断転載を禁ずる）© 日本循環器学会・日本心臓リハビリテーション学会
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ64 2026-11-14）：Carvalho T, Freitas OGA, Chalela WA, Hossri CAC, Milani M, Buglia S, et al. Brazilian Guideline for Exercise Test in the Adult Population - 2024. Arq Bras Cardiol. 2024;121(3):e20240110（PMID: 38896581、DOI: 10.36660/abc.20240110、PMCID: PMC11656589、https://pmc.ncbi.nlm.nih.gov/articles/PMC11656589/）。裏づける部分：候補（CC BY）が運動負荷試験（CPX）について、心臓移植の適応判断には負荷試験で得られる指標が不可欠であること、予後評価と運動処方への利用を位置づけ、用途ごとの推奨クラス表を備える。カードの CPX の役割（労作時呼吸困難・易疲労の鑑別、予後評価のための最高酸素摂取量測定、心移植などの適応検討、運動処方）の骨格と概ね一致する。数値の照合：数値なし。留保：JCS のクラス付け（鑑別・予後・移植適応＝クラス I、運動処方と CPX ができない場合の6分間歩行試験＝クラス IIa、ルーチン検査としての CPX＝クラス III）自体は候補では再現されない（候補は自国のクラス表で移植選択を IIa とするなど配分が異なる）。6分間歩行試験の代替位置づけも候補では未確認'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-06-03 (id: JkxnuQo)；PS-02-06-04 (id: JkxnuQs)；TBL-02-05-033 (id: JlAKpgQ)'
@@ -736,3 +787,6 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ64 2026-11-14）。三原の承認（2026-11-11）による
