@@ -314,7 +314,7 @@
 
 - 条件：population: 体軸性脊椎関節炎（強直性脊椎炎を含む）患者／region: 国際
 - 不確実性：薬剤について：TNF 阻害薬・IL-17 阻害薬には強直性脊椎炎に対して国内で承認・保険適用されている薬剤が含まれるが、個別薬剤ごとの最新の承認内容・適用範囲は本作成では未確認である。NSAIDs は国内でも脊椎関節炎の疼痛治療に用いられる一般的薬剤である。
-- 出典：Ramiro S, Nikiphorou E, Sepriano A, et al. ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update. Ann Rheum Dis. 2023;82(1):19-34　[DOI 10.1136/ard-2022-223296](https://doi.org/10.1136/ard-2022-223296)　[PMID 36270658](https://pubmed.ncbi.nlm.nih.gov/36270658/)（区分 UNKNOWN）
+- 出典：Ramiro S, Nikiphorou E, Sepriano A, et al. ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update. Ann Rheum Dis. 2023;82(1):19-34　[DOI 10.1136/ard-2022-223296](https://doi.org/10.1136/ard-2022-223296)　[PMID 36270658](https://pubmed.ncbi.nlm.nih.gov/36270658/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-7-A-⑫（強直性脊椎炎、b）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-575 (id: JlvnmVE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-023&card_id=SP-023&version=c8968c7ae9)　（版 `c8968c7ae9`）
 

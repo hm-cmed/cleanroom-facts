@@ -20440,14 +20440,17 @@
   doi: 10.1136/ard-2022-223296
   pmid: '36270658'
   pmcid: null
-  license_note: null
+  license_note: 刊行版は Elsevier の OA ユーザーライセンス（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ63）。機関リポジトリに CC BY 表記の著者稿記録があるが、刊行版を優先（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1800
   legacy_id: null
   title: 'Santos Júnior EC, Dantas F, Caires ACV, et al. Evaluation of Surgically Treated Primary Spinal Cord Tumors in a Single Brazilian Institution: A Case Series Study of 104 Patients. Cureus. 2022;14(3):e23408'
@@ -30298,14 +30301,17 @@
   doi: 10.1016/S0140-6736(16)31591-4
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ63）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2992
   legacy_id: null
   title: Rudwaleit M, van der Heijde D, Landewé R, et al. The ASAS classification criteria for peripheral spondyloarthritis and for spondyloarthritis in general. Ann Rheum Dis. 2011;70(1):25-31
@@ -30313,14 +30319,17 @@
   doi: 10.1136/ard.2010.133645
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ63）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2993
   legacy_id: null
   title: 'Taylor W, et al. Classification criteria for psoriatic arthritis: development of new criteria from a large international study (CASPAR). Arthritis Rheum. 2006;54(8):2665-2673'
@@ -30328,14 +30337,17 @@
   doi: 10.1002/art.21972
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ63）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2994
   legacy_id: null
   title: 'Gossec L, et al. EULAR recommendations for the management of psoriatic arthritis with pharmacological therapies: 2023 update. Ann Rheum Dis. 2024;83(6):706-719'
@@ -30343,14 +30355,17 @@
   doi: 10.1136/ard-2024-225531
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: CC BY-NC（Europe PMC PMC11103320 で確認。CC BY ではない、バッチ63）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2995
   legacy_id: null
   title: Kishimoto M, et al. SAPHO syndrome and pustulotic arthro-osteitis. Mod Rheumatol. 2022;32(4):665-674
@@ -30358,14 +30373,17 @@
   doi: 10.1093/mr/roab103
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ63）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2996
   legacy_id: null
   title: 厚生労働省. 指定難病 266 家族性地中海熱 概要・診断基準等
@@ -30403,14 +30421,17 @@
   doi: 10.1183/13993003.04079-2020
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ63）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2999
   legacy_id: null
   title: Wolfe F, Clauw DJ, Fitzcharles MA, et al. 2016 Revisions to the 2010/2011 fibromyalgia diagnostic criteria. Semin Arthritis Rheum. 2016;46(3):319-329
@@ -30418,14 +30439,17 @@
   doi: 10.1016/j.semarthrit.2016.08.012
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ63）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-3000
   legacy_id: null
   title: Macfarlane GJ, Kronisch C, Dean LE, et al. EULAR revised recommendations for the management of fibromyalgia. Ann Rheum Dis. 2017;76(2):318-328
@@ -30433,14 +30457,17 @@
   doi: 10.1136/annrheumdis-2016-209724
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ63）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-3001
   legacy_id: null
   title: 'Mertz P, Sparks J, Kobrin D, et al. Relapsing polychondritis: Best Practice & Clinical Rheumatology. Best Pract Res Clin Rheumatol. 2023;37(1):101867'
@@ -30448,14 +30475,17 @@
   doi: 10.1016/j.berh.2023.101867
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ63）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-3002
   legacy_id: null
   title: 'Buxbaum JN, Dispenzieri A, Eisenberg DS, et al. Amyloid nomenclature 2022: update, novel proteins, and recommendations by the International Society of Amyloidosis (ISA) Nomenclature Committee. Amyloid. 2022;29(4):213-219'
@@ -30463,14 +30493,17 @@
   doi: 10.1080/13506129.2022.2147636
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ63）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-3003
   legacy_id: null
   title: Umehara H, Okazaki K, Kawa S, et al. The 2020 revised comprehensive diagnostic (RCD) criteria for IgG4-related disease (IgG4-RD). Mod Rheumatol. 2021;31(3):529-533
@@ -30493,14 +30526,17 @@
   doi: 10.1161/CIR.0000000000000205
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ63）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-3521
   legacy_id: null
   title: Bull MJ, Trotter T, Santoro SL, et al; Council on Genetics. Health Supervision for Children and Adolescents With Down Syndrome. Pediatrics. 2022;149(5):e2022057010

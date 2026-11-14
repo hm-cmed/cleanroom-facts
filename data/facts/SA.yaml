@@ -17,8 +17,8 @@
     url: https://doi.org/10.1016/S0140-6736(16)31591-4
     source_license: CC 表示なし（Crossref は Elsevier の TDM ライセンスのみ）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Shekha M, Shaikh OA, Shaikh G, Ochani S, Ullah K. Upadacitinib for Spondyloarthritis; A new treatment option. Ann Med Surg. 2022;82:104664（PMID: 36268430、DOI: 10.1016/j.amsu.2022.104664、PMCID: PMC9577587、https://pmc.ncbi.nlm.nih.gov/articles/PMC9577587/）。裏づける部分：候補（CC BY の総説）が、体軸性脊椎関節炎は X線基準を満たす型と満たさない型（nr-axSpA）に分かれること、男女比が X線型で2:1・nr-axSpA で1:1 であること、発症は20歳代であること、遺伝率は90%超で最も強い遺伝的関連は HLA-B27 であること、IL-17 と TNF-α が病態に関与することを明記し、カードの中心的主張と一致する。数値の照合：男女比（2:1／1:1）と遺伝率90%超は候補と一致。留保：画像で MRI が最も重要という点は候補では未確認（MRI 所見を伴う nr-axSpA への言及のみ）。主出典 SRC-2991 の区分訂正は別枠に分離した'
   uncertainty: 総説に基づく概念・疫学の記述で、数値は抄録で確認した。分類基準そのものは ASAS 体軸性分類基準（SRC-1798、第30回 SP-022 で使用済み）が正で、本カードでは作り直していない。脊椎病変の詳細も SP が正。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-B-①（体軸性脊椎関節炎、強直性脊椎炎、b）
@@ -33,6 +33,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2991 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-002
   domain: SA
   subdomain: 体軸性脊椎関節炎、強直性脊椎炎
@@ -52,8 +58,8 @@
     url: https://doi.org/10.1136/ard-2022-223296
     source_license: フリー公開だが CC の明示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：López-Medina C, Montilla-Morales C, Moreno M, et al. Therapeutic management of axial spondyloarthritis: summary of 2024 update of the Spanish clinical practice guideline (ESPOGUIA). Ther Adv Musculoskelet Dis. 2026;18（PMID: 42544184、DOI: 10.1177/1759720X261464260、PMCID: PMC13428830、https://pmc.ncbi.nlm.nih.gov/articles/PMC13428830/）。裏づける部分：候補（CC BY のスペイン診療ガイドライン2024 update の要約）が ASAS-EULAR 推奨と歩調を合わせ、b/tsDMARD 開始前に客観的炎症所見（CRP 上昇または MRI 所見）を確認すること、再発性のぶどう膜炎と炎症性腸疾患では TNF モノクローナル抗体を優先することを明記し、開始条件の一部と優先規則がカードと一致する。数値の照合：ASDAS 2.1 以上という開始の閾値は候補では未確認。留保：NSAIDs 2剤以上で効果不十分という条件と、目立つ乾癬での IL-17 阻害薬優先は候補では明示されていない。主出典 SRC-1799 の区分訂正は別枠に分離した'
   uncertainty: 第30回 SP-023 は本出典の骨格（NSAIDs 第一選択、生物学的製剤の開始条件）のみを扱っており、本カードは JAK 阻害薬を含む2022 update の更新分である。国内承認：ウパダシチニブは強直性脊椎炎（2022年5月に適応追加）と X線基準を満たさない体軸性脊椎関節炎（2023年2月）に国内承認があり、セクキヌマブも両適応が添付文書で確認できる（PMDA 患者向医薬品ガイド・添付文書で確認）。イキセキズマブや TNF 阻害薬各剤など、その他の個別薬剤の適応範囲は未照合。推奨の骨格と開始条件は抄録で確認した。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-B-①（体軸性脊椎関節炎、強直性脊椎炎、b）
@@ -68,6 +74,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1799 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-003
   domain: SA
   subdomain: 末梢性脊椎関節炎
@@ -87,8 +99,8 @@
     url: https://doi.org/10.1136/ard.2010.133645
     source_license: CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Carron P, De Craemer AS, Van den Bosch F. Peripheral spondyloarthritis: a neglected entity—state of the art. RMD Open. 2020;6(1):e001136（PMID: 32385142、DOI: 10.1136/rmdopen-2019-001136、PMCID: PMC7299516、https://pmc.ncbi.nlm.nih.gov/articles/PMC7299516/）。裏づける部分：候補（CC BY の総説）の表1が ASAS 末梢性脊椎関節炎分類基準を再掲（入口＝末梢関節炎・付着部炎・指趾炎、＋1項目群＝ぶどう膜炎・乾癬・クローン病/大腸炎・先行感染・HLA-B27・画像上の仙腸関節炎、または＋2項目群＝関節炎・付着部炎・指趾炎・炎症性腰痛の既往・家族歴）し、本文に末梢型の感度77.8%・特異度82.9%を明記する。カードの基準構成と性能が一致する。数値の照合：感度77.8%・特異度82.9%は候補と一致。留保：発症45歳未満という入口条件は候補の表では明示されていない。主出典 SRC-2992 の区分訂正は別枠に分離した'
   uncertainty: 基準の構成と感度・特異度は抄録で確認した（対象266例）。反応性関節炎は先行感染を契機とする脊椎関節炎としてこの枠組みに含まれうるが、先行感染の病原体の種類や頻度・予後は一次資料で確認できなかったため、独立のカードは作っていない。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-B-②（末梢性脊椎関節炎、b）
@@ -103,6 +115,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2992 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-004
   domain: SA
   subdomain: 末梢性脊椎関節炎
@@ -122,8 +140,8 @@
     url: https://doi.org/10.1002/art.21972
     source_license: CC 表示なし（Crossref は Wiley の利用条件のみ）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Kannappan R, Kim S, Lau A, Brent LH. Psoriatic Arthritis: From Diagnosis to Treatment. J Clin Med. 2025;14(22):8151（PMID: 41303186、DOI: 10.3390/jcm14228151、PMCID: PMC12653347、https://pmc.ncbi.nlm.nih.gov/articles/PMC12653347/）。裏づける部分：候補（CC BY の総説）が CASPAR 基準の構成（炎症性関節疾患を前提に、乾癬の証拠・爪ジストロフィー・リウマトイド因子陰性・指趾炎・傍関節性新生骨形成から合計3点以上）を再掲し、感度91.4%・特異度98.7%を明記する。カードと一致する。数値の照合：感度0.914・特異度0.987は候補と一致。留保：現在の乾癬に2点を配する重み付けは候補では明示されていない。主出典 SRC-2993 の区分訂正は別枠に分離した'
   uncertainty: 配点と感度・特異度は抄録で確認した（症例588例・対照536例）。分類基準であり、個別患者の診断基準としてそのまま使うものではない。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-B-②（末梢性脊椎関節炎、b）
@@ -138,6 +156,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2993 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-005
   domain: SA
   subdomain: 末梢性脊椎関節炎
@@ -157,8 +181,8 @@
     url: https://doi.org/10.1136/ard-2024-225531
     source_license: CC の明示を確認できず（BMJ の OA ユーザーライセンス表示のみ）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Sewerin P, Baraliakos X. 2023 EULAR Recommendations for the Treatment of PsA: Advances and Pending Issues. Mediterr J Rheumatol. 2024;35(2)（PMID: 39211029、DOI: 10.31138/mjr.050424.ert、PMCID: PMC11350422、https://pmc.ncbi.nlm.nih.gov/articles/PMC11350422/）。裏づける部分：候補（CC BY の解説）が EULAR 2023 update の要点を再掲する：NSAIDs 単独療法は軽症かつ短期間のみ、経口グルココルチコイドは推奨されなくなった、皮膚病変が重い場合は IL-12/23・IL-23・IL-17 を標的とする製剤が優先される、JAK 阻害薬は末梢病変では生物学的製剤の失敗後に位置づけられる、疾患修飾療法の早期開始を遅らせない。カードの推奨骨格と一致する。数値の照合：数値なし（推奨の骨格のカード）。留保：メトトレキサート優先の明示は候補では「MTX 投与後の製剤選択」という文脈での言及にとどまる。主出典 SRC-2994 は CC BY-NC で、区分訂正は別枠に分離した'
   uncertainty: 国内承認：ウパダシチニブ（2021年5月に適応追加）、セクキヌマブ、グセルクマブは乾癬性関節炎の適応で国内承認があり、添付文書で確認できる。リサンキズマブ、ビメキズマブ、アプレミラストなど、その他の薬剤の個別の国内適応範囲は未照合。推奨の骨格は抄録で確認した。GRAPPA 推奨2021年版も現行の国際推奨だが、本カードでは EULAR 2023 update を正とした。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-B-②（末梢性脊椎関節炎、b）
@@ -173,6 +197,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2994 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-006
   domain: SA
   subdomain: 掌蹠膿疱症性骨関節炎
@@ -192,8 +222,8 @@
     url: https://doi.org/10.1093/mr/roab103
     source_license: CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Abe N, Higashi Y, Tateishi C, et al. Efficacy of granulocyte and monocyte adsorptive apheresis on skin and joint manifestations of palmoplantar pustulosis with pustulotic arthro-osteitis: A multicentric, prospective, observational study. J Dermatol. 2025;52(4)／補助：Xia R, Gao K, Zhao Y, et al. SAPHO syndrome and pustular skin diseases: shared inflammatory circuits, divergent tissue outcomes, and the limits of a spectrum model. Front Immunol. 2026;17（PMID: 42643627、DOI: 10.3389/fimmu.2026.1906728、PMCID: PMC13504417）（PMID: 39936375、DOI: 10.1111/1346-8138.17667、PMCID: PMC11975200、https://pmc.ncbi.nlm.nih.gov/articles/PMC11975200/）。裏づける部分：主候補（CC BY）が全国調査に基づく掌蹠膿疱症の日本での有病率0.12%と、炎症性骨関節病変（PAO）の合併が約10〜30%であることを明記する。補助候補は SAPHO 症候群の構成要素（滑膜炎・ざ瘡・膿疱症・骨増殖症・骨炎）を定義する。数値の照合：有病率0.12%・合併10〜30%は候補と一致。留保：日本では SAPHO 症候群の80%超が PAO という割合と、30〜50歳代で女性に多いという分布は候補では未確認。主出典 SRC-2995 の区分訂正は別枠に分離した'
   uncertainty: 数値は抄録で確認した。SAPHO 症候群自体の有病率は確立していない。SAPHO 症候群・PAO の治療薬として国内で承認された薬剤は確認できておらず、NSAIDs やビスホスホネートは適応外使用を含む実臨床ベースである。グセルクマブは掌蹠膿疱症そのものに国内適応があるが、骨関節症状への保険適用範囲は未確認で、皮膚疾患としての適応と混同しないこと。SRC-1166 は掌蹠角化症のガイドラインであり本症の根拠に使っていない。SRC-1173（掌蹠膿疱症の治療ガイダンス2022）は皮膚側面の補助のため本カードでは使っていない。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-B-③（掌蹠膿疱症性骨関節炎、b）
@@ -208,6 +238,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2995 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-007
   domain: SA
   subdomain: 家族性地中海熱
@@ -298,7 +334,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Kuemmerle-Deschner JB, Tufan A, Cantarini L, et al. Practical considerations for monitoring patients with familial Mediterranean fever: review of evidence and expert opinion. Front Immunol. 2026;17（PMID: 42583077、DOI: 10.3389/fimmu.2026.1857052、PMCID: PMC13459442、https://pmc.ncbi.nlm.nih.gov/articles/PMC13459442/）。裏づける部分：候補（CC BY の総説）が EULAR/PReS 推奨の2024 update を現行の推奨として扱い、その要点とモニタリング実務を照合していることから、2024 update が現行版である点が裏づけられる。数値の照合：包括原則4項目・推奨12項目・合意度9超という構成の数値は候補では未確認。留保：服薬アドヒアランスの強調は、候補ではコルヒチンの効果が厳格な服薬遵守に依存するという一般論として現れる。主出典 SRC-2997 は CC BY-NC-ND で現行 RESTRICTED が正しい'
   uncertainty: 推奨の構成と合意度は抄録で確認した。推奨の個別文言の詳細は抄録の範囲では確認していない。国内の診断と治療の実務は指定難病266（SRC-2996）が土台になる。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-F-①（家族性地中海熱、b）
@@ -313,6 +349,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-010
   domain: SA
   subdomain: サルコイドーシス
@@ -333,7 +372,7 @@
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Khine NW, Fletcher S. Contemporary management of sarcoidosis. Front Med. 2026;13（PMID: 42591568、DOI: 10.3389/fmed.2026.1878683、PMCID: PMC13462400、https://pmc.ncbi.nlm.nih.gov/articles/PMC13462400/）。裏づける部分：候補（CC BY の総説）が、サルコイドーシスの診断は合致する臨床・画像所見、非壊死性肉芽腫の組織学的証明、鑑別疾患の除外に基づくと明記し、カードの3つの診断基準と一致する。数値の照合：ATS 勧告の内訳（強い推奨1件・条件付き13件・最良実践声明1件、エビデンスの質はいずれも非常に低い）は候補では未確認。留保：主出典 SRC-423 は CC BY-NC 4.0 で現行 RESTRICTED が正しい。マスターで null の PMCID の補完候補は申し送りに記録した'
   uncertainty: 出典マスターの SRC-423 は PMID が未登録だが、PMID 32293205 を照合で確認したため、マスターへの補完を提案する。本ガイドラインは診断を扱い、治療は扱わない。肺病変の詳細は呼吸器側、眼病変の詳細は RE が正であり、本カードは診断の総論に限る。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-G-①（サルコイドーシス、a）
@@ -348,6 +387,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-011
   domain: SA
   subdomain: サルコイドーシス
@@ -402,8 +444,8 @@
     url: https://doi.org/10.1183/13993003.04079-2020
     source_license: ERS の user licence（CC ではない）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Khine NW, Fletcher S. Contemporary management of sarcoidosis. Front Med. 2026;13（PMID: 42591568、DOI: 10.3389/fmed.2026.1878683、PMCID: PMC13462400、https://pmc.ncbi.nlm.nih.gov/articles/PMC13462400/）。裏づける部分：候補が、治療を要する患者では副腎皮質ステロイドが第一選択であること、長期使用の毒性への懸念からステロイド節約のアプローチが用いられること、治療が罹病率・死亡と生活の質に関わることを述べ、カードの治療原則と一致する。数値の照合：ERS ガイドラインの臨床疑問8件・推奨12件という構成は候補では未確認。留保：治療適応が臓器病変ごとに異なる点は候補でも臓器別の各論として現れる。主出典 SRC-2998 の区分訂正は別枠に分離した'
   uncertainty: 推奨の臓器別の詳細は抄録の範囲では確認していない。小径線維ニューロパチーについては、推奨を作るにはエビデンスが不足するとされた。診断の出典（SRC-423、SRC-248）と対になる治療の現行ガイドラインである。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-G-①（サルコイドーシス、a）
@@ -418,6 +460,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2998 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-013
   domain: SA
   subdomain: 線維筋痛症
@@ -437,8 +485,8 @@
     url: https://doi.org/10.1016/j.semarthrit.2016.08.012
     source_license: CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Pontes-Silva A, de Sousa AP, Dibai-Filho AV, et al. Do the instruments used to assess fibromyalgia symptoms according to American College of Rheumatology criteria generate similar scores in other chronic musculoskeletal pain? BMC Musculoskelet Disord. 2023;24(1)（PMID: 37287000、DOI: 10.1186/s12891-023-06572-x、PMCID: PMC10245398、https://pmc.ncbi.nlm.nih.gov/articles/PMC10245398/）。裏づける部分：候補（CC BY）が ACR 2016年改訂診断基準の数値閾値を再掲する：WPI 7以上かつ SSS 5以上、または WPI 4〜6 かつ SSS 9以上。カードの中心的な数値と一致する。数値の照合：WPI・SSS の閾値は候補と一致。留保：5領域中4領域以上の全身性疼痛、3か月以上の持続、他の診断の有無にかかわらず成立する点、圧痛点検査が不要な点は候補では明示されていない。主出典 SRC-2999 の区分訂正は別枠に分離した'
   uncertainty: 基準値は抄録と出版社ページに掲載された基準文で確認した。2010/2011年基準に対する検証研究では、感度の中央値86%、特異度90%であった。自己報告版の基準は個別患者の臨床診断には使えず研究用とされる。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-G-②（線維筋痛症、a）
@@ -453,6 +501,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2999 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-014
   domain: SA
   subdomain: 線維筋痛症
@@ -472,8 +526,8 @@
     url: https://doi.org/10.1136/annrheumdis-2016-209724
     source_license: CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Lopez de Coca T, Sebastian-Morello M, González-Mazarío R, Moreno L. Anticholinergic burden in fibromyalgia treatment analysis: Guidelines adherence and pharmacological alerts. Clinics (Sao Paulo). 2026;81（PMID: 41990485、DOI: 10.1016/j.clinsp.2026.100931、PMCID: PMC13094492、https://pmc.ncbi.nlm.nih.gov/articles/PMC13094492/）。裏づける部分：候補（CC BY）が EULAR 推奨に基づく段階的管理を再掲する：初期介入として運動療法などを置き、不十分な場合や睡眠障害がある場合に心理療法・薬物療法を個別化して加える。カードの管理の骨格と一致する。数値の照合：数値なし。留保：「根拠に基づく強い推奨（strong for）は運動療法のみ」という格付けは候補では再掲されず、候補は心理療法と身体活動をまとめて「強く推奨」と言い換えている。主出典 SRC-3000 の区分訂正は別枠に分離した'
   uncertainty: 推奨の骨格は抄録で確認した。国内の診療ガイドラインは日本線維筋痛症学会編の2017年版が確認できる最新版で、これより新しい国内改訂は確認できなかった（書誌のみの確認のため、本カードの出典にはしていない）。薬物療法の個別薬剤の国内承認状況は本カードでは扱っていない。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-G-②（線維筋痛症、a）
@@ -488,6 +542,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3000 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-015
   domain: SA
   subdomain: 再発性多発軟骨炎
@@ -507,8 +567,8 @@
     url: https://doi.org/10.1016/j.berh.2023.101867
     source_license: CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Pan W, Yin L, Wang L, et al. Evaluating clinical heterogeneity in relapsing polychondritis through unsupervised cluster analysis. Arthritis Res Ther. 2026;28(1)（PMID: 42436525、DOI: 10.1186/s13075-026-03857-z、PMCID: PMC13491964、https://pmc.ncbi.nlm.nih.gov/articles/PMC13491964/）。裏づける部分：候補（CC BY）が、再発性多発軟骨炎は鼻梁・耳介の軟骨、眼や気道のプロテオグリカンに富む組織の炎症と破壊を特徴とし、非特異的な臨床像のため診断の遅れが大きいこと、VEXAS 症候群が模倣疾患として現れたことを述べ、カードの臨床像と概ね一致する。数値の照合：臨床的に本症と診断されていた患者の8%が VEXAS 症候群だったという割合は候補では未確認。留保：特異的マーカーがないこと、普遍的な分類基準が存在しないこと、診断が臨床パターンの認識によることは候補では明示されていない。主出典 SRC-3001 の区分訂正は別枠に分離した'
   uncertainty: 近年の総説に基づく。古典的な診断基準（McAdam、Damiani & Levine、Michet）の原著は未照合のため主張に含めていない。疾患活動性の承認された評価指標もないと総説は述べている。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-G-③（再発性多発軟骨炎、c）
@@ -523,6 +583,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3001 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-016
   domain: SA
   subdomain: アミロイドーシス
@@ -543,7 +609,7 @@
     source_license: ライセンス表示を確認できず
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Sclafani M, Russo D, Oikonomou G, et al. Imaging Cardiac Amyloidosis: From Early Diagnosis to Risk Stratification and Evaluation of Treatment Efficacy. J Cardiovasc Dev Dis. 2026;13(8)／補助：Tebenkova A, Gioeva Z, Shakhpazyan N, et al. Comparative Histopathological Characteristics of Duodenal Involvement in Different Types of Amyloidosis. Biomedicines. 2025;13(9)（PMID: 41007759、DOI: 10.3390/biomedicines13092196、PMCID: PMC12467754）（PMID: 42645872、DOI: 10.3390/jcdd13080401、PMCID: PMC13513095、https://pmc.ncbi.nlm.nih.gov/articles/PMC13513095/）。裏づける部分：主候補（CC BY の総説）が、心アミロイドーシスの評価で骨シンチグラフィがトランスサイレチン型の非侵襲的診断を可能にしたこと、心臓 MRI を含む画像評価の役割、疾患の認識が広がり早期診断が重要であることを述べる。補助候補は AL アミロイドーシスが最も多い型であることを明記する。数値の照合：数値なし。留保：野生型トランスサイレチン型の診断例が増えている点、タイピングが治療決定の要という表現、AL の生存が新しい化学療法で改善した点は候補では未確認。主出典 SRC-979 の区分訂正は別枠に分離した'
   uncertainty: 全身性アミロイドーシスの総論の出典として再利用した。原発性（AL）アミロイドーシスの各論は第39回（LY）で作成済みであり、本カードは総論に限る。腎病変は GN、アミロイドニューロパチーは PN が正で、ATTR 心筋症の治療試験（SRC-980）は病型が異なるため混同しないこと。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-G-④（アミロイドーシス、b）
@@ -561,6 +627,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: 出典 SRC-979 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-017
   domain: SA
   subdomain: アミロイドーシス
@@ -580,8 +649,8 @@
     url: https://doi.org/10.1080/13506129.2022.2147636
     source_license: CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Halverson LN, Sperry BW. The long road to recognition: a historical review of amyloidosis from early pathology to disease-modifying therapy. Heart Fail Rev. 2026;31(1)（PMID: 42645543、DOI: 10.1007/s10741-026-10666-8、PMCID: PMC13518375、https://pmc.ncbi.nlm.nih.gov/articles/PMC13518375/）。裏づける部分：候補（CC BY の総説）の表1が、国際アミロイドーシス学会が認めるアミロイド線維蛋白42種類の一覧を、病型は前駆蛋白で命名される原則（AL・ATTR・AA 等）とともに再掲し、カードの種類数と命名原則が一致する。数値の照合：42種類は候補と一致（候補は「2024年時点」とする）。留保：2022年版で新たに6つ追加されたという版固有の経緯は候補では未確認。命名法は2024年版が刊行済みで、次回改訂時の再照合を推奨する（申し送り参照）。主出典 SRC-3002 の区分訂正は別枠に分離した'
   uncertainty: 線維蛋白の個別の一覧は抄録の範囲では確認していない。国内の病型分類と診断基準は指定難病28（SRC-247）が候補だが、本カードでは使っていない。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-G-④（アミロイドーシス、b）
@@ -596,6 +665,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3002 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-018
   domain: SA
   subdomain: IgG4関連疾患
@@ -651,7 +726,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Phu A, Nguyen L, Mashiach D, Afrahim R, Agrawal DK. An Overview of IgG4-Related Disease. Arch Intern Med Res. 2026;9(3)（PMID: 42820225、DOI: 10.26502/aimr.0259、PMCID: PMC13626708、https://pmc.ncbi.nlm.nih.gov/articles/PMC13626708/）。裏づける部分：候補（CC BY の総説）の表1が2020年改訂包括診断基準（RCD）を再掲する：臨床・画像所見、血清学的診断（IgG4 135 mg/dL 以上）、病理診断（3つのサブ項目のうち2つ以上、うち1つは組織の線維化、とくに花むしろ状線維化・閉塞性静脈炎）の3領域からなる。カードの改訂点と一致する。数値の照合：IgG4 135 mg/dL 以上は候補と一致。留保：難病情報センター（指定難病300）の包括診断基準は2011年版の構成のままで、行政基準と学術基準の版ずれがある（申し送り参照）。主出典 SRC-3003 は CC BY-NC-ND で現行 RESTRICTED が正しい'
   uncertainty: 改訂の構成は抄録で確認した。2011年版の包括診断基準は旧版のため出典にしていない。ACR/EULAR の2019年分類基準は、分類基準であって診断基準ではないため本カードでは扱っていない。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-G-⑤（IgG4関連疾患、b）
@@ -666,6 +741,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-020
   domain: SA
   subdomain: リウマチ熱
@@ -685,8 +763,8 @@
     url: https://doi.org/10.1161/CIR.0000000000000205
     source_license: CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Meel R, Kaswa R. Primary health care approach to rheumatic heart disease management. S Afr Fam Pract. 2026;68(1)（PMID: 41925606、DOI: 10.4102/safp.v68i1.6255、PMCID: PMC13058550、https://pmc.ncbi.nlm.nih.gov/articles/PMC13058550/）。裏づける部分：候補（CC BY）が、診断はまず低リスク集団か中等度・高リスク集団かを判定するリスク層別から始まるとし、Jones 基準の表を両集団別に再掲、心エコーによる無症候性心炎の検出を位置づける。カードの2015年改訂の2要点（リスク層別の導入、ドプラ心エコーで検出される無症候性心炎の大基準への包含）と一致する。数値の照合：数値なし。留保：1992年以来の大幅な改訂という歴史的経緯は候補では再掲されていない。主出典 SRC-3004 の区分訂正は別枠に分離した'
   uncertainty: 改訂の要点は抄録で確認した。大基準・小基準の個別項目と、リスク層別の発熱・炎症反応の閾値などの数値は本文未照合のため主張に含めていない。CDC の臨床ガイダンス（SRC-235、第35回で登録）でも Jones 基準に基づく診断の案内があるが、本カードの出典は AHA の改訂声明に限った。国内でリウマチ熱はまれであり、国内ガイドライン級の資料は確認できなかった。
   curriculum:
     kokushi: 医学各論 Ⅺ-5-A-③（リウマチ熱、c）
@@ -701,6 +779,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/44_im_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3004 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-021
   domain: SA
   subdomain: 反応性関節炎
@@ -721,7 +805,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Falagas ME, Stathopoulos P, Kontogiannis DS, Tzvetanova ID. Antibiotics for Rheumatologic Diseases: A Critical Review. Int J Mol Sci. 2025;26(21)／補助：Carron P, De Craemer AS, Van den Bosch F. Peripheral spondyloarthritis: a neglected entity—state of the art. RMD Open. 2020;6(1):e001136（PMID: 32385142、DOI: 10.1136/rmdopen-2019-001136、PMCID: PMC7299516）（PMID: 41226564、DOI: 10.3390/ijms262110527、PMCID: PMC12610879、https://pmc.ncbi.nlm.nih.gov/articles/PMC12610879/）。裏づける部分：主候補（CC BY の総説）が、反応性関節炎は泌尿生殖器のクラミジア感染や消化管のエルシニア・シゲラ・サルモネラ感染の後に生じると明記し、感染を契機とする炎症性関節炎というカードの定義と一致する。補助候補は反応性関節炎を脊椎関節炎の一群に位置づける。数値の照合：数値なし。留保：宿主の感受性と病原体の相互作用という発症の枠組みと、診断が臨床症候群と起因病原体の微生物学的確認に基づく点は候補では明示されていない。主出典 SRC-4447 は現行 RESTRICTED が正しい'
   uncertainty: 反応性関節炎に特化した診療ガイドラインは、国際的にも国内にも存在せず、本カードは総説に基づく。起因病原体の個別の頻度や、HLA-B27 との関連の強さは、総説の抄録では確認できなかったため主張に入れていない。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-B-②（末梢性脊椎関節炎、b）
@@ -736,6 +820,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-022
   domain: SA
   subdomain: 反応性関節炎
@@ -756,7 +843,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Zeng H, Luo B, Zhang Y, Xie Z, Ye Z. Treatment of reactive arthritis with biological agents: a review. Biosci Rep. 2020;40(2)／補助：Falagas ME, Stathopoulos P, Kontogiannis DS, Tzvetanova ID. Antibiotics for Rheumatologic Diseases: A Critical Review. Int J Mol Sci. 2025;26(21)（PMID: 41226564、DOI: 10.3390/ijms262110527、PMCID: PMC12610879）（PMID: 32039436、DOI: 10.1042/BSR20191927、PMCID: PMC7033307、https://pmc.ncbi.nlm.nih.gov/articles/PMC7033307/）。裏づける部分：主候補（CC BY の総説）が、クラミジア起因の反応性関節炎では抗菌薬の併用療法が疾患活動性を下げうること、本症は自然収束するが従来治療に反応しない難治例があることを述べ、補助候補も抗菌薬が有用でありうる一方で研究結果は一様でないとする。カードの治療と経過の骨格と概ね一致する。数値の照合：数値なし。留保：腸管病原体を契機とする例では抗菌薬の役割が明確でないという対比と、TNF 阻害薬の位置づけが定まっていないという表現自体は候補では再掲されていない（候補は難治例への生物学的製剤に前向きの内容）。主出典 SRC-4447 は現行 RESTRICTED が正しい'
   uncertainty: 反応性関節炎に特化した診療ガイドラインは存在せず、本カードは総説に基づく。抗 TNF 薬は国内では反応性関節炎を適応として承認されておらず、抗菌薬の使用は起因病原体ごとの感染症としての国内承認の範囲による。NSAIDs など対症療法の個別の位置づけは、総説の抄録では確認できなかったため本カードには含めていない。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-B-②（末梢性脊椎関節炎、b）
@@ -771,6 +858,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/61_brushup.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-023
   domain: SA
   subdomain: 偽痛風
@@ -791,7 +881,7 @@
     source_license: Massachusetts Medical Society（著者稿が PMC に収載）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Guedes LKN, Figueiredo LQ, Lopes FOA, Ferrari LFF, Bonfiglioli KR. Ultrasonographic Assessment of Calcium Pyrophosphate Deposition Disease: A Comprehensive Review. J Pers Med. 2025;15(7)（PMID: 40710396、DOI: 10.3390/jpm15070280、PMCID: PMC12299270、https://pmc.ncbi.nlm.nih.gov/articles/PMC12299270/）。裏づける部分：候補（CC BY の総説）が、急性 CPP 結晶関節炎（偽痛風）は急性発症の単関節炎または少関節炎で、発熱や急性期蛋白上昇などの全身症状を伴い痛風に似ること、急性関節炎では膝関節の罹患が最も多いことを明記し、カードの臨床像と一致する。数値の照合：急性型が CPPD 病全体の約25%を占めるという割合は候補では未確認。留保：罹患関節で手関節が次に多いこと、第1中足趾節関節の痛風様発作はまれなこと、発作の持続が数週間〜数か月に及ぶことは候補では未確認。主出典 SRC-4974 は現行 RESTRICTED が正しい（PMC 収載は著者稿でライセンス表示なし）'
   uncertainty: 主張は PMC に収載された著者稿の全文で確認した（出版版は購読制）。急性型が約25%という割合は、同総説が引用する推計に基づく。CPP 結晶の同定と分類基準は OS-007 が担い、急性発作の治療は SA-024 が担う。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-E-②（偽痛風、a）
@@ -806,6 +896,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/67_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による
 - id: SA-024
   domain: SA
   subdomain: 偽痛風
@@ -826,7 +919,7 @@
     source_license: BMJ（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ63 2026-11-14）：Voulgari PV, Venetsanopoulou AI, Drosos AA. Recent advances in the therapeutic management of calcium pyrophosphate deposition disease. Front Med. 2024;11（PMID: 38529115、DOI: 10.3389/fmed.2024.1327715、PMCID: PMC10961350、https://pmc.ncbi.nlm.nih.gov/articles/PMC10961350/）。裏づける部分：候補（CC BY の総説）が EULAR 推奨に基づく管理を再掲する：急性発作では冷却と安静の非薬物療法、1〜2関節の場合は関節穿刺とステロイド関節内注射、関節内注射や NSAIDs・コルヒチンが使えない場合は全身性グルココルチコイド、発作予防に NSAIDs とコルヒチンの予防投与。カードの管理骨格と概ね一致する。数値の照合：予防のコルヒチン用量0.5〜1.0 mg/日の範囲は候補では逐語確認できず（候補は急性期の低用量レジメン0.5〜0.6 mgを1日2回に言及する）。留保：NSAIDs への消化管保護の併用と、無症候性の CPPD には治療不要という点は候補では明示されていない。主出典 SRC-4975 は現行 RESTRICTED が正しい'
   uncertainty: 主張は EULAR 推奨2011年版（Part II、全9推奨、合意度79〜95%）の抄録で確認できた範囲に基づく。国内承認の状況：コルヒチンの効能・効果は痛風発作の緩解及び予防と家族性地中海熱であり、CPPD への適応はなく適応外使用にあたる。NSAIDs と副腎皮質ステロイドは国内承認のある抗炎症薬だが、CPPD 専用の効能・効果はない。臨床像は SA-023 が担う。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-E-②（偽痛風、a）
@@ -841,3 +934,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/67_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ63 2026-11-14）。三原の承認（2026-11-11）による

@@ -12,7 +12,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：総説に基づく概念・疫学の記述で、数値は抄録で確認した。分類基準そのものは ASAS 体軸性分類基準（SRC-1798、第30回 SP-022 で使用済み）が正で、本カードでは作り直していない。脊椎病変の詳細も SP が正。
-- 出典：Sieper J, Poddubnyy D. Axial spondyloarthritis. Lancet. 2017;390(10089):73-84　[DOI 10.1016/S0140-6736(16)31591-4](https://doi.org/10.1016/S0140-6736(16)31591-4)　[PMID 28110981](https://pubmed.ncbi.nlm.nih.gov/28110981/)（区分 UNKNOWN）
+- 出典：Sieper J, Poddubnyy D. Axial spondyloarthritis. Lancet. 2017;390(10089):73-84　[DOI 10.1016/S0140-6736(16)31591-4](https://doi.org/10.1016/S0140-6736(16)31591-4)　[PMID 28110981](https://pubmed.ncbi.nlm.nih.gov/28110981/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-B-①（体軸性脊椎関節炎、強直性脊椎炎、b）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-20 (id: JkxnuMU)；TBL-01-00-575 (id: JlvnmVE)；TBL-02-17-009 (id: JlAKp10)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-001&card_id=SA-001&version=6c77b65957)　（版 `6c77b65957`）
 
@@ -22,7 +22,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：第30回 SP-023 は本出典の骨格（NSAIDs 第一選択、生物学的製剤の開始条件）のみを扱っており、本カードは JAK 阻害薬を含む2022 update の更新分である。国内承認：ウパダシチニブは強直性脊椎炎（2022年5月に適応追加）と X線基準を満たさない体軸性脊椎関節炎（2023年2月）に国内承認があり、セクキヌマブも両適応が添付文書で確認できる（PMDA 患者向医薬品ガイド・添付文書で確認）。イキセキズマブや TNF 阻害薬各剤など、その他の個別薬剤の適応範囲は未照合。推奨の骨格と開始条件は抄録で確認した。
-- 出典：Ramiro S, Nikiphorou E, Sepriano A, et al. ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update. Ann Rheum Dis. 2023;82(1):19-34　[DOI 10.1136/ard-2022-223296](https://doi.org/10.1136/ard-2022-223296)　[PMID 36270658](https://pubmed.ncbi.nlm.nih.gov/36270658/)（区分 UNKNOWN）
+- 出典：Ramiro S, Nikiphorou E, Sepriano A, et al. ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update. Ann Rheum Dis. 2023;82(1):19-34　[DOI 10.1136/ard-2022-223296](https://doi.org/10.1136/ard-2022-223296)　[PMID 36270658](https://pubmed.ncbi.nlm.nih.gov/36270658/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-B-①（体軸性脊椎関節炎、強直性脊椎炎、b）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-03-02-02 (id: JnGUA2Y)；TBL-01-00-575 (id: JlvnmVE)；TBL-02-17-009 (id: JlAKp10)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-002&card_id=SA-002&version=a7b5e61d5b)　（版 `a7b5e61d5b`）
 
@@ -38,7 +38,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：基準の構成と感度・特異度は抄録で確認した（対象266例）。反応性関節炎は先行感染を契機とする脊椎関節炎としてこの枠組みに含まれうるが、先行感染の病原体の種類や頻度・予後は一次資料で確認できなかったため、独立のカードは作っていない。
-- 出典：Rudwaleit M, van der Heijde D, Landewé R, et al. The ASAS classification criteria for peripheral spondyloarthritis and for spondyloarthritis in general. Ann Rheum Dis. 2011;70(1):25-31　[DOI 10.1136/ard.2010.133645](https://doi.org/10.1136/ard.2010.133645)　[PMID 21109520](https://pubmed.ncbi.nlm.nih.gov/21109520/)（区分 UNKNOWN）
+- 出典：Rudwaleit M, van der Heijde D, Landewé R, et al. The ASAS classification criteria for peripheral spondyloarthritis and for spondyloarthritis in general. Ann Rheum Dis. 2011;70(1):25-31　[DOI 10.1136/ard.2010.133645](https://doi.org/10.1136/ard.2010.133645)　[PMID 21109520](https://pubmed.ncbi.nlm.nih.gov/21109520/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-B-②（末梢性脊椎関節炎、b）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；TBL-01-00-576 (id: JlvnmVI)；TBL-02-17-009 (id: JlAKp10)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-003&card_id=SA-003&version=7e863f1b42)　（版 `7e863f1b42`）
 
@@ -48,7 +48,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：配点と感度・特異度は抄録で確認した（症例588例・対照536例）。分類基準であり、個別患者の診断基準としてそのまま使うものではない。
-- 出典：Taylor W, et al. Classification criteria for psoriatic arthritis: development of new criteria from a large international study (CASPAR). Arthritis Rheum. 2006;54(8):2665-2673　[DOI 10.1002/art.21972](https://doi.org/10.1002/art.21972)　[PMID 16871531](https://pubmed.ncbi.nlm.nih.gov/16871531/)（区分 UNKNOWN）
+- 出典：Taylor W, et al. Classification criteria for psoriatic arthritis: development of new criteria from a large international study (CASPAR). Arthritis Rheum. 2006;54(8):2665-2673　[DOI 10.1002/art.21972](https://doi.org/10.1002/art.21972)　[PMID 16871531](https://pubmed.ncbi.nlm.nih.gov/16871531/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-B-②（末梢性脊椎関節炎、b）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；TBL-01-00-577 (id: JlvnmVQ)；TBL-02-17-009 (id: JlAKp10)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-004&card_id=SA-004&version=fce581484c)　（版 `fce581484c`）
 
@@ -58,7 +58,7 @@
 
 - 条件：region: 欧州／対象: 成人
 - 不確実性：国内承認：ウパダシチニブ（2021年5月に適応追加）、セクキヌマブ、グセルクマブは乾癬性関節炎の適応で国内承認があり、添付文書で確認できる。リサンキズマブ、ビメキズマブ、アプレミラストなど、その他の薬剤の個別の国内適応範囲は未照合。推奨の骨格は抄録で確認した。GRAPPA 推奨2021年版も現行の国際推奨だが、本カードでは EULAR 2023 update を正とした。
-- 出典：Gossec L, et al. EULAR recommendations for the management of psoriatic arthritis with pharmacological therapies: 2023 update. Ann Rheum Dis. 2024;83(6):706-719　[DOI 10.1136/ard-2024-225531](https://doi.org/10.1136/ard-2024-225531)　[PMID 38499325](https://pubmed.ncbi.nlm.nih.gov/38499325/)（区分 UNKNOWN）
+- 出典：Gossec L, et al. EULAR recommendations for the management of psoriatic arthritis with pharmacological therapies: 2023 update. Ann Rheum Dis. 2024;83(6):706-719　[DOI 10.1136/ard-2024-225531](https://doi.org/10.1136/ard-2024-225531)　[PMID 38499325](https://pubmed.ncbi.nlm.nih.gov/38499325/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-B-②（末梢性脊椎関節炎、b）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；TBL-01-00-577 (id: JlvnmVQ)；TBL-02-17-009 (id: JlAKp10)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-005&card_id=SA-005&version=7aa4f5bba4)　（版 `7aa4f5bba4`）
 
@@ -74,7 +74,7 @@
 
 - 条件：region: 日本／対象: 成人
 - 不確実性：数値は抄録で確認した。SAPHO 症候群自体の有病率は確立していない。SAPHO 症候群・PAO の治療薬として国内で承認された薬剤は確認できておらず、NSAIDs やビスホスホネートは適応外使用を含む実臨床ベースである。グセルクマブは掌蹠膿疱症そのものに国内適応があるが、骨関節症状への保険適用範囲は未確認で、皮膚疾患としての適応と混同しないこと。SRC-1166 は掌蹠角化症のガイドラインであり本症の根拠に使っていない。SRC-1173（掌蹠膿疱症の治療ガイダンス2022）は皮膚側面の補助のため本カードでは使っていない。
-- 出典：Kishimoto M, et al. SAPHO syndrome and pustulotic arthro-osteitis. Mod Rheumatol. 2022;32(4):665-674　[DOI 10.1093/mr/roab103](https://doi.org/10.1093/mr/roab103)　[PMID 34967407](https://pubmed.ncbi.nlm.nih.gov/34967407/)（区分 UNKNOWN）
+- 出典：Kishimoto M, et al. SAPHO syndrome and pustulotic arthro-osteitis. Mod Rheumatol. 2022;32(4):665-674　[DOI 10.1093/mr/roab103](https://doi.org/10.1093/mr/roab103)　[PMID 34967407](https://pubmed.ncbi.nlm.nih.gov/34967407/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-B-③（掌蹠膿疱症性骨関節炎、b）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；TBL-01-00-578 (id: JlvnmVU)；TBL-02-17-009 (id: JlAKp10)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-006&card_id=SA-006&version=5e71d7227f)　（版 `5e71d7227f`）
 
@@ -146,7 +146,7 @@
 
 - 条件：region: 欧州／対象: 成人
 - 不確実性：推奨の臓器別の詳細は抄録の範囲では確認していない。小径線維ニューロパチーについては、推奨を作るにはエビデンスが不足するとされた。診断の出典（SRC-423、SRC-248）と対になる治療の現行ガイドラインである。
-- 出典：Baughman RP, Valeyre D, Korsten P, et al. ERS clinical practice guidelines on treatment of sarcoidosis. Eur Respir J. 2021;58(6):2004079　[DOI 10.1183/13993003.04079-2020](https://doi.org/10.1183/13993003.04079-2020)　[PMID 34140301](https://pubmed.ncbi.nlm.nih.gov/34140301/)（区分 UNKNOWN）
+- 出典：Baughman RP, Valeyre D, Korsten P, et al. ERS clinical practice guidelines on treatment of sarcoidosis. Eur Respir J. 2021;58(6):2004079　[DOI 10.1183/13993003.04079-2020](https://doi.org/10.1183/13993003.04079-2020)　[PMID 34140301](https://pubmed.ncbi.nlm.nih.gov/34140301/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-G-①（サルコイドーシス、a）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；TBL-01-00-228 (id: Jlvnlzo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-012&card_id=SA-012&version=4da99e614f)　（版 `4da99e614f`）
 
@@ -162,7 +162,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：基準値は抄録と出版社ページに掲載された基準文で確認した。2010/2011年基準に対する検証研究では、感度の中央値86%、特異度90%であった。自己報告版の基準は個別患者の臨床診断には使えず研究用とされる。
-- 出典：Wolfe F, Clauw DJ, Fitzcharles MA, et al. 2016 Revisions to the 2010/2011 fibromyalgia diagnostic criteria. Semin Arthritis Rheum. 2016;46(3):319-329　[DOI 10.1016/j.semarthrit.2016.08.012](https://doi.org/10.1016/j.semarthrit.2016.08.012)　[PMID 27916278](https://pubmed.ncbi.nlm.nih.gov/27916278/)（区分 UNKNOWN）
+- 出典：Wolfe F, Clauw DJ, Fitzcharles MA, et al. 2016 Revisions to the 2010/2011 fibromyalgia diagnostic criteria. Semin Arthritis Rheum. 2016;46(3):319-329　[DOI 10.1016/j.semarthrit.2016.08.012](https://doi.org/10.1016/j.semarthrit.2016.08.012)　[PMID 27916278](https://pubmed.ncbi.nlm.nih.gov/27916278/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-G-②（線維筋痛症、a）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-03-02-02 (id: JnGUA2Y)；TBL-01-00-582 (id: JlvnmVs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-013&card_id=SA-013&version=53bc0d1f7d)　（版 `53bc0d1f7d`）
 
@@ -172,7 +172,7 @@
 
 - 条件：region: 欧州／対象: 成人
 - 不確実性：推奨の骨格は抄録で確認した。国内の診療ガイドラインは日本線維筋痛症学会編の2017年版が確認できる最新版で、これより新しい国内改訂は確認できなかった（書誌のみの確認のため、本カードの出典にはしていない）。薬物療法の個別薬剤の国内承認状況は本カードでは扱っていない。
-- 出典：Macfarlane GJ, Kronisch C, Dean LE, et al. EULAR revised recommendations for the management of fibromyalgia. Ann Rheum Dis. 2017;76(2):318-328　[DOI 10.1136/annrheumdis-2016-209724](https://doi.org/10.1136/annrheumdis-2016-209724)　[PMID 27377815](https://pubmed.ncbi.nlm.nih.gov/27377815/)（区分 UNKNOWN）
+- 出典：Macfarlane GJ, Kronisch C, Dean LE, et al. EULAR revised recommendations for the management of fibromyalgia. Ann Rheum Dis. 2017;76(2):318-328　[DOI 10.1136/annrheumdis-2016-209724](https://doi.org/10.1136/annrheumdis-2016-209724)　[PMID 27377815](https://pubmed.ncbi.nlm.nih.gov/27377815/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-G-②（線維筋痛症、a）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-03-02-02 (id: JnGUA2Y)；TBL-01-00-582 (id: JlvnmVs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-014&card_id=SA-014&version=dd706b63b0)　（版 `dd706b63b0`）
 
@@ -188,7 +188,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：近年の総説に基づく。古典的な診断基準（McAdam、Damiani & Levine、Michet）の原著は未照合のため主張に含めていない。疾患活動性の承認された評価指標もないと総説は述べている。
-- 出典：Mertz P, Sparks J, Kobrin D, et al. Relapsing polychondritis: Best Practice & Clinical Rheumatology. Best Pract Res Clin Rheumatol. 2023;37(1):101867　[DOI 10.1016/j.berh.2023.101867](https://doi.org/10.1016/j.berh.2023.101867)　[PMID 37839908](https://pubmed.ncbi.nlm.nih.gov/37839908/)（区分 UNKNOWN）
+- 出典：Mertz P, Sparks J, Kobrin D, et al. Relapsing polychondritis: Best Practice & Clinical Rheumatology. Best Pract Res Clin Rheumatol. 2023;37(1):101867　[DOI 10.1016/j.berh.2023.101867](https://doi.org/10.1016/j.berh.2023.101867)　[PMID 37839908](https://pubmed.ncbi.nlm.nih.gov/37839908/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-G-③（再発性多発軟骨炎、c）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-015&card_id=SA-015&version=9773c9ed16)　（版 `9773c9ed16`）
 
@@ -214,7 +214,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：線維蛋白の個別の一覧は抄録の範囲では確認していない。国内の病型分類と診断基準は指定難病28（SRC-247）が候補だが、本カードでは使っていない。
-- 出典：Buxbaum JN, Dispenzieri A, Eisenberg DS, et al. Amyloid nomenclature 2022: update, novel proteins, and recommendations by the International Society of Amyloidosis (ISA) Nomenclature Committee. Amyloid. 2022;29(4):213-219　[DOI 10.1080/13506129.2022.2147636](https://doi.org/10.1080/13506129.2022.2147636)　[PMID 36420821](https://pubmed.ncbi.nlm.nih.gov/36420821/)（区分 UNKNOWN）
+- 出典：Buxbaum JN, Dispenzieri A, Eisenberg DS, et al. Amyloid nomenclature 2022: update, novel proteins, and recommendations by the International Society of Amyloidosis (ISA) Nomenclature Committee. Amyloid. 2022;29(4):213-219　[DOI 10.1080/13506129.2022.2147636](https://doi.org/10.1080/13506129.2022.2147636)　[PMID 36420821](https://pubmed.ncbi.nlm.nih.gov/36420821/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-G-④（アミロイドーシス、b）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-017&card_id=SA-017&version=26308bf003)　（版 `26308bf003`）
 
@@ -256,7 +256,7 @@
 
 - 条件：region: 米国／対象: 小児・青少年
 - 不確実性：改訂の要点は抄録で確認した。大基準・小基準の個別項目と、リスク層別の発熱・炎症反応の閾値などの数値は本文未照合のため主張に含めていない。CDC の臨床ガイダンス（SRC-235、第35回で登録）でも Jones 基準に基づく診断の案内があるが、本カードの出典は AHA の改訂声明に限った。国内でリウマチ熱はまれであり、国内ガイドライン級の資料は確認できなかった。
-- 出典：Gewitz MH, Baltimore RS, Tani LY, et al. Revision of the Jones Criteria for the diagnosis of acute rheumatic fever in the era of Doppler echocardiography: a scientific statement from the American Heart Association. Circulation. 2015;131(20):1806-1818　[DOI 10.1161/CIR.0000000000000205](https://doi.org/10.1161/CIR.0000000000000205)　[PMID 25908771](https://pubmed.ncbi.nlm.nih.gov/25908771/)（区分 UNKNOWN）
+- 出典：Gewitz MH, Baltimore RS, Tani LY, et al. Revision of the Jones Criteria for the diagnosis of acute rheumatic fever in the era of Doppler echocardiography: a scientific statement from the American Heart Association. Circulation. 2015;131(20):1806-1818　[DOI 10.1161/CIR.0000000000000205](https://doi.org/10.1161/CIR.0000000000000205)　[PMID 25908771](https://pubmed.ncbi.nlm.nih.gov/25908771/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-5-A-③（リウマチ熱、c）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-26 (id: JkxnuMs)；TBL-01-00-584 (id: JlvnmWA)；TBL-02-17-001 (id: JlAKp1U)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SA-020&card_id=SA-020&version=6a8d7be937)　（版 `6a8d7be937`）
 

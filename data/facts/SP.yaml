@@ -844,7 +844,7 @@
     url: https://doi.org/10.1136/ard-2022-223296
     source_license: BMJ（Annals of the Rheumatic Diseases）、フリー公開だが CC 表示は未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ47 2026-11-13）：Spoorenberg A, van der Kraan YM, de Hair M, Arends S. Challenges in diagnosing and monitoring radiographic and non-radiographic axial spondyloarthritis in daily clinical practice. Clin Rheumatol. 2026;45(7):4265-4276（PMID: 42128996、DOI: 10.1007/s10067-026-08157-0、PMCID: PMC13342332、https://europepmc.org/article/MED/42128996）。裏づける部分：候補（CC BY の総説）の全文に、NSAIDs が体軸性脊椎関節炎の痛みとこわばりに対する第一選択の薬物治療であること、NSAIDs で疾患活動性を抑えられない場合に TNF 阻害薬・IL-17 阻害薬などの生物学的製剤が選択肢になることが明記される。留保：「2剤以上の NSAIDs で効果不十分かつ ASDAS 2.1 以上で客観的な炎症所見を伴う場合に開始を推奨」という ASAS-EULAR 2022 の適格基準の細目は候補に再掲がなく、その部分を留保して B。主出典（SRC-1799）は Crossref の version-of-record が Elsevier のオープンアクセス利用条件（CC ではない）を示し、Europe PMC ではライセンス表示がなく、両経路とも CC BY を確認できないため自由利用とは扱わない（UNKNOWN の据え置きが妥当）。カードの uncertainty にある個別薬剤の国内承認内容は政府の全文文書では本調査で確定できず、登録時の確認事項として残す。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 薬剤について：TNF 阻害薬・IL-17 阻害薬には強直性脊椎炎に対して国内で承認・保険適用されている薬剤が含まれるが、個別薬剤ごとの最新の承認内容・適用範囲は本作成では未確認である。NSAIDs は国内でも脊椎関節炎の疼痛治療に用いられる一般的薬剤である。
   curriculum:
@@ -863,6 +863,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ47 2026-11-13）。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1799 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: SP-024
   domain: SP
   subdomain: 脊椎腫瘍・脊髄腫瘍
