@@ -1,6 +1,6 @@
 # SP 脊椎・脊髄疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-13
+[← 一覧に戻る](README.md)　更新：2026-11-14
 
 全 30 件のうち、監修済み 0 件。
 
@@ -32,11 +32,11 @@
 
 - 条件：population: 腰椎椎間板ヘルニア患者／region: 日本
 - 不確実性：方針に従い、馬尾障害に伴う排尿障害の詳細（評価・管理）は本カードでは扱っていない。
-- 出典：Haro H, Ebata S, Inoue G, et al. Japanese Orthopaedic Association (JOA) clinical practice guidelines on the management of lumbar disc herniation, third edition - secondary publication. J Orthop Sci. 2022;27(1):31-78　[DOI 10.1016/j.jos.2021.07.028](https://doi.org/10.1016/j.jos.2021.07.028)　[PMID 34865915](https://pubmed.ncbi.nlm.nih.gov/34865915/)（区分 RESTRICTED）
+- 出典：Golubović J, Jelača B, Rodić D, Torbica S, Stošić S, Đilvesi Đ. Spontaneous Resorption of Lumbar Disc Herniation: A Narrative Review of Pathophysiology, Predictive Factors, and Clinical Decision-Making. NeuroSci. 2026;7(2):30　[DOI 10.3390/neurosci7020030](https://doi.org/10.3390/neurosci7020030)　[PMID 41874033](https://pubmed.ncbi.nlm.nih.gov/41874033/)（区分 OPEN）
 - 出題基準：医学各論 Ⅸ-7-A-①（椎間板ヘルニア、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-139 (id: Jlvnlpg)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-003&card_id=SP-003&version=891b8f89cb)　（版 `891b8f89cb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-003&card_id=SP-003&version=a3696caf3d)　（版 `a3696caf3d`）
 
-**[ここまでの 3 件（SP-001〜SP-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SP-001%E3%80%9CSP-003&cards=SP-001%2075ab53e79e%0ASP-002%20abd4206f1a%0ASP-003%20891b8f89cb)**
+**[ここまでの 3 件（SP-001〜SP-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SP-001%E3%80%9CSP-003&cards=SP-001%2075ab53e79e%0ASP-002%20abd4206f1a%0ASP-003%20a3696caf3d)**
 
 ---
 
@@ -48,9 +48,9 @@
 
 - 条件：population: 無症状の成人／region: 国際
 - 不確実性：数値は CT・MRI 所見を対象とした33研究・3,110例の系統的レビューの年齢別推定値。
-- 出典：Brinjikji W, Luetmer PH, Comstock B, et al. Systematic literature review of imaging features of spinal degeneration in asymptomatic populations. AJNR Am J Neuroradiol. 2015;36(4):811-816　[DOI 10.3174/ajnr.A4173](https://doi.org/10.3174/ajnr.A4173)　[PMID 25430861](https://pubmed.ncbi.nlm.nih.gov/25430861/)（区分 UNKNOWN）
+- 出典：Zhang R, Liang Y, Zhang C, Liu Y, Hong Y. Diagnostic evidence in suspected discogenic low back pain: a pain-source attribution perspective. Front Med (Lausanne). 2026;13:1924460　[DOI 10.3389/fmed.2026.1924460](https://doi.org/10.3389/fmed.2026.1924460)　[PMID 42639130](https://pubmed.ncbi.nlm.nih.gov/42639130/)（区分 OPEN）
 - 出題基準：医学各論 Ⅸ-7-A-②（変形性脊椎症、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-138 (id: JlvnlpU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-004&card_id=SP-004&version=b2a52abaf8)　（版 `b2a52abaf8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-004&card_id=SP-004&version=310dbc8615)　（版 `310dbc8615`）
 
 ### SP-030　下書き（出典の照合前）
 
@@ -62,7 +62,7 @@
 - 出題基準：医学各論 Ⅸ-7-A-②（変形性脊椎症、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-138 (id: JlvnlpU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-030&card_id=SP-030&version=0ec1474f68)　（版 `0ec1474f68`）
 
-**[ここまでの 2 件（SP-004〜SP-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SP-004%E3%80%9CSP-030&cards=SP-004%20b2a52abaf8%0ASP-030%200ec1474f68)**
+**[ここまでの 2 件（SP-004〜SP-030）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SP-004%E3%80%9CSP-030&cards=SP-004%20310dbc8615%0ASP-030%200ec1474f68)**
 
 ---
 
@@ -74,9 +74,9 @@
 
 - 条件：population: 頚椎症性脊髄症患者／region: 日本
 - 不確実性：JOA スコアの項目構成と満点17点は、スコアの信頼性を検討した Yonenobu らの報告（Spine. 2001）の抄録でも確認した。
-- 出典：Watanabe M, Chikuda H, Fujiwara Y, et al. Japanese Orthopaedic Association (JOA) Clinical practice guidelines on the Management of Cervical Spondylotic Myelopathy, 2020 - Secondary publication. J Orthop Sci. 2023;28(1):1-45　[DOI 10.1016/j.jos.2022.03.012](https://doi.org/10.1016/j.jos.2022.03.012)　[PMID 35618542](https://pubmed.ncbi.nlm.nih.gov/35618542/)（区分 RESTRICTED）
+- 出典：Inoue H, Sawamura H, Watanabe H, Okami H, Shiraishi Y, Kimura A, Takeshita K, Morita M. Low handgrip strength is associated with impaired gait and dexterity in patients with degenerative cervical myelopathy: A cross-sectional study. Medicine (Baltimore). 2026;105(34):e50294　[DOI 10.1097/md.0000000000050294](https://doi.org/10.1097/md.0000000000050294)　[PMID 42629689](https://pubmed.ncbi.nlm.nih.gov/42629689/)（区分 OPEN）
 - 出題基準：医学各論 Ⅸ-7-A-③（脊髄症、神経根症、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-138 (id: JlvnlpU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-005&card_id=SP-005&version=40d724a044)　（版 `40d724a044`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-005&card_id=SP-005&version=27e309564c)　（版 `27e309564c`）
 
 ### SP-006　下書き（出典の照合前）
 
@@ -88,7 +88,7 @@
 - 出題基準：医学各論 Ⅸ-7-A-③（脊髄症、神経根症、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-138 (id: JlvnlpU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-006&card_id=SP-006&version=44763be685)　（版 `44763be685`）
 
-**[ここまでの 2 件（SP-005〜SP-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SP-005%E3%80%9CSP-006&cards=SP-005%2040d724a044%0ASP-006%2044763be685)**
+**[ここまでの 2 件（SP-005〜SP-006）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SP-005%E3%80%9CSP-006&cards=SP-005%2027e309564c%0ASP-006%2044763be685)**
 
 ---
 
@@ -304,9 +304,9 @@
 
 - 条件：population: 45歳未満発症の慢性腰痛患者／region: 国際
 - 不確実性：本カードは脊椎病変を中心とする分類基準の骨格のみを扱い、強直性脊椎炎の全身像の総論は対象外とした。感度・特異度は分類基準の検証コホート（649例）に基づく。
-- 出典：Rudwaleit M, van der Heijde D, Landewé R, et al. The development of Assessment of SpondyloArthritis international Society classification criteria for axial spondyloarthritis (part II): validation and final selection. Ann Rheum Dis. 2009;68(6):777-783　[DOI 10.1136/ard.2009.108233](https://doi.org/10.1136/ard.2009.108233)　[PMID 19297344](https://pubmed.ncbi.nlm.nih.gov/19297344/)（区分 UNKNOWN）
+- 出典：Newby BN, Weiss PF. Advancing Juvenile Spondyloarthritis: Closing Knowledge Gaps with New Axial JSpA Classification Criteria. Curr Rheumatol Rep. 2025;27(1):39　[DOI 10.1007/s11926-025-01206-8](https://doi.org/10.1007/s11926-025-01206-8)　[PMID 41251853](https://pubmed.ncbi.nlm.nih.gov/41251853/)（区分 OPEN）
 - 出題基準：医学各論 Ⅸ-7-A-⑫（強直性脊椎炎、b）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-575 (id: JlvnmVE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-022&card_id=SP-022&version=4bc1d1597e)　（版 `4bc1d1597e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-022&card_id=SP-022&version=0ab9af9b4a)　（版 `0ab9af9b4a`）
 
 ### SP-023　下書き（出典の照合前）
 
@@ -318,7 +318,7 @@
 - 出題基準：医学各論 Ⅸ-7-A-⑫（強直性脊椎炎、b）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-575 (id: JlvnmVE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-023&card_id=SP-023&version=c8968c7ae9)　（版 `c8968c7ae9`）
 
-**[ここまでの 2 件（SP-022〜SP-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SP-022%E3%80%9CSP-023&cards=SP-022%204bc1d1597e%0ASP-023%20c8968c7ae9)**
+**[ここまでの 2 件（SP-022〜SP-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SP-022%E3%80%9CSP-023&cards=SP-022%200ab9af9b4a%0ASP-023%20c8968c7ae9)**
 
 ---
 
@@ -340,11 +340,11 @@
 
 - 条件：population: 転移性腫瘍による脊髄圧迫患者／region: 米国
 - 不確実性：対象は単一病変による脊髄圧迫で手術適応と判断された患者であり、全ての転移性脊髄圧迫に当てはまるわけではない。転移性腫瘍そのものの総論は扱っていない。
-- 出典：Patchell RA, Tibbs PA, Regine WF, et al. Direct decompressive surgical resection in the treatment of spinal cord compression caused by metastatic cancer: a randomised trial. Lancet. 2005;366(9486):643-648　[DOI 10.1016/S0140-6736(05)66954-1](https://doi.org/10.1016/S0140-6736(05)66954-1)　[PMID 16112300](https://pubmed.ncbi.nlm.nih.gov/16112300/)（区分 RESTRICTED）
+- 出典：Abedellatif SE, Janjic M, Khalafov L, Asoglu H, Dittmer J, Alenezi H, Maiseyeu I, Jaber M, Kobeissi H, El Ghazi M, Kobeissi L, Dib JE. Spinal metastases in geriatric patients: a retrospective single-center comparison of mortality and surgical outcomes following neurological decompression. Front Med (Lausanne). 2026;13:1897474　[DOI 10.3389/fmed.2026.1897474](https://doi.org/10.3389/fmed.2026.1897474)　[PMID 42534815](https://pubmed.ncbi.nlm.nih.gov/42534815/)（区分 OPEN）
 - 出題基準：医学各論 Ⅸ-7-A-⑬（脊椎腫瘍・脊髄腫瘍、b）　コアカリ：PS-02-05-05 (id: JkxnuQc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-025&card_id=SP-025&version=64e1d04a2e)　（版 `64e1d04a2e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-025&card_id=SP-025&version=1fd38f594b)　（版 `1fd38f594b`）
 
-**[ここまでの 2 件（SP-024〜SP-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SP-024%E3%80%9CSP-025&cards=SP-024%204b43a9c8d6%0ASP-025%2064e1d04a2e)**
+**[ここまでの 2 件（SP-024〜SP-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SP-024%E3%80%9CSP-025&cards=SP-024%204b43a9c8d6%0ASP-025%201fd38f594b)**
 
 ---
 
@@ -392,11 +392,11 @@
 
 - 条件：population: 横断性脊髄炎を呈する患者／region: 国際
 - 不確実性：LETM の定義（3椎体以上）は出典の全文で確認した。NMOSD の診断基準の全体像は ND 側で扱うため、本カードでは脊髄病変の特徴に絞った。
-- 出典：Wingerchuk DM, Banwell B, Bennett JL, et al. International consensus diagnostic criteria for neuromyelitis optica spectrum disorders. Neurology. 2015;85(2):177-189　[DOI 10.1212/WNL.0000000000001729](https://doi.org/10.1212/WNL.0000000000001729)　[PMID 26092914](https://pubmed.ncbi.nlm.nih.gov/26092914/)（区分 RESTRICTED）
+- 出典：Yang ST, Wang ZW. Neuroimmunological overlap syndromes in optic neuritis, myelitis, and connective tissue diseases. Front Neurol. 2026;17:1887536　[DOI 10.3389/fneur.2026.1887536](https://doi.org/10.3389/fneur.2026.1887536)　[PMID 42558877](https://pubmed.ncbi.nlm.nih.gov/42558877/)（区分 OPEN）
 - 出題基準：医学各論 Ⅸ-7-A-⑮（横断性脊髄炎、c）　コアカリ：PS-02-05-05 (id: JkxnuQc)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-029&card_id=SP-029&version=2ffb8ef466)　（版 `2ffb8ef466`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-029&card_id=SP-029&version=cb7bf1e1b6)　（版 `cb7bf1e1b6`）
 
-**[ここまでの 2 件（SP-028〜SP-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SP-028%E3%80%9CSP-029&cards=SP-028%205a770bf615%0ASP-029%202ffb8ef466)**
+**[ここまでの 2 件（SP-028〜SP-029）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SP-028%E3%80%9CSP-029&cards=SP-028%205a770bf615%0ASP-029%20cb7bf1e1b6)**
 
 ---
 

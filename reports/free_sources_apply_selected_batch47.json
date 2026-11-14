@@ -1,0 +1,82 @@
+{
+ "class": [],
+ "A": [
+  [
+   "SP-003",
+   "SRC-1781",
+   "SRC-5026"
+  ],
+  [
+   "SP-004",
+   "SRC-1783",
+   "SRC-5027"
+  ],
+  [
+   "SP-005",
+   "SRC-1784",
+   "SRC-5028"
+  ],
+  [
+   "SP-022",
+   "SRC-1798",
+   "SRC-5029"
+  ],
+  [
+   "SP-025",
+   "SRC-1801",
+   "SRC-5030"
+  ],
+  [
+   "SP-029",
+   "SRC-1697",
+   "SRC-5031"
+  ]
+ ],
+ "B": [
+  "SP-001",
+  "SP-002",
+  "SP-006",
+  "SP-007",
+  "SP-008",
+  "SP-010",
+  "SP-011",
+  "SP-012",
+  "SP-013",
+  "SP-014",
+  "SP-015",
+  "SP-017",
+  "SP-019",
+  "SP-020",
+  "SP-021",
+  "SP-023",
+  "SP-026",
+  "SP-027",
+  "SP-028"
+ ],
+ "new_src": [
+  [
+   "SRC-5026",
+   "Golubović J, Jelača B, Rodić D, Torbica S, Stošić S, Đilvesi Đ. Spontaneous Reso"
+  ],
+  [
+   "SRC-5027",
+   "Zhang R, Liang Y, Zhang C, Liu Y, Hong Y. Diagnostic evidence in suspected disco"
+  ],
+  [
+   "SRC-5028",
+   "Inoue H, Sawamura H, Watanabe H, Okami H, Shiraishi Y, Kimura A, Takeshita K, Mo"
+  ],
+  [
+   "SRC-5029",
+   "Newby BN, Weiss PF. Advancing Juvenile Spondyloarthritis: Closing Knowledge Gaps"
+  ],
+  [
+   "SRC-5030",
+   "Abedellatif SE, Janjic M, Khalafov L, Asoglu H, Dittmer J, Alenezi H, Maiseyeu I"
+  ],
+  [
+   "SRC-5031",
+   "Yang ST, Wang ZW. Neuroimmunological overlap syndromes in optic neuritis, myelit"
+  ]
+ ]
+}

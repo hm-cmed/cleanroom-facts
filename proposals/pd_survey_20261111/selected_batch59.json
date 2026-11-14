@@ -1,0 +1,105 @@
+{
+ "A": [],
+ "B": [
+  {
+   "card": "NL-002",
+   "label": "OPEN、作り手の調査バッチ59 2026-11-13",
+   "text": "Liva GA, Karatzanis AD, Prokopakis EP. Review of Rhinitis: Classification, Types, Pathophysiology. Journal of Clinical Medicine. 2021;10(14):3183（PMID: 34300349、DOI: 10.3390/jcm10143183、PMCID: PMC8303640、https://pmc.ncbi.nlm.nih.gov/articles/PMC8303640/）。裏づける部分：鼻炎の3表現型（アレルギー性／感染性／非アレルギー性・非感染性）という分類の枠組み、非アレルギー性鼻炎の下位型（薬剤性・ホルモン性・職業性・特発性・NARES・薬剤性鼻炎など）、経皮テストと特異的IgEが一般的なアレルギー検査であることを確認した。。数値の照合：数値なし（分類・鑑別・検査適応のカード）。。留保：分類の枠組みが主出典（2006年の二分法）と異なるため部分裏づけにとどまる。主出典 SRC-1372 の区分訂正は別枠の節に分離した。"
+  },
+  {
+   "card": "NL-003",
+   "label": "OPEN、作り手の調査バッチ59 2026-11-13",
+   "text": "Liva GA, Karatzanis AD, Prokopakis EP. Review of Rhinitis: Classification, Types, Pathophysiology. Journal of Clinical Medicine. 2021;10(14):3183（PMID: 34300349、DOI: 10.3390/jcm10143183、PMCID: PMC8303640、https://pmc.ncbi.nlm.nih.gov/articles/PMC8303640/）。裏づける部分：I型／IgE介在性の定義、3主徴（くしゃみ・鼻漏・鼻閉）、即時相の肥満細胞脱顆粒とヒスタミン放出、遅発相の好酸球等の細胞浸潤、季節性・通年性、皮膚反応と血清特異的IgEによる抗原同定の位置づけを確認した。。数値の照合：遅発相の6〜10時間という時刻は候補では未確認。。留保：2024年版の英語要約版（Okano M, Okubo K, et al. Auris Nasus Larynx. 2025;52(4):426-441、DOI: 10.1016/j.anl.2025.05.005、PMID: 40544726）は内容面ではほぼ全項目をカバーするが、刊行版に「© 2025 Japanese Society of Otorhinolaryngology-Head and Neck Surgery, Inc. Published by Elsevier B.V. All rights are reserved」とあり CC 表示がないため候補にできない。主出典 SRC-4432 は書籍で現行の RESTRICTED が正しい。"
+  },
+  {
+   "card": "NL-004",
+   "label": "OPEN、作り手の調査バッチ59 2026-11-13",
+   "text": "Uchida K, Iida K, Fujioka I, Hachimura S, Kaminuma O. Suppressive Effect of Lactococcus lactis subsp. cremoris YRC3780 on a Murine Model of Japanese Cedar Pollinosis. Pathogens. 2022;11(11):1347 補助：環境省. 花粉症環境保健マニュアル2022. 環境省環境保健部環境安全課. 2022年3月改訂（https://www.env.go.jp/chemi/anzen/kafun/2022_full.pdf） 補助：環境省・厚生労働省. 花粉症対策 スギ花粉症について日常生活でできること. 環境省・厚生労働省リーフレット. 2024年1月作成（https://www.env.go.jp/content/000194676.pdf）（PMID: 36422599、DOI: 10.3390/pathogens11111347、PMCID: PMC9698324、https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9698324/fullTextXML）。裏づける部分：主候補（Uchida 2022）の序文で、日本のアレルギー性鼻炎有病率は2019年49.2%で10年間に約10ポイント増加したこと、スギ花粉症が全人口の38.8%に相当することを確認した。 補助候補（環境省マニュアル2022）：花粉症全体の有病率の増加（1998年19.6%→2008年29.8%→2019年42.5%）、スギ花粉症2019年38.8%、花粉飛散情報の活用やマスク・眼鏡を含む抗原回避策が記載されている。補助候補（環境省・厚労省リーフレット2024）：スギ花粉症の推移16.2→26.5→38.8%が図に示されている。。数値の照合：増加の方向と2019年の値（花粉症全体42.5%、スギ花粉症38.8%）は政府資料と一致する。カード自体は個別の有病率数値を置いていない。。留保：アレルギー性結膜炎の合併の明示は候補で確認できなかった。年齢別分布の表現（通年性アレルギー性鼻炎は若年層に多く、スギ花粉症は中年層に多い）は、2019年調査ではスギ花粉症が10代から50代で45%以上とされることと緊張があり、NL-022 とあわせて再照合候補とする（フラグ参照）。主出典 SRC-1373 は CC BY-NC-ND のため現行の RESTRICTED が正しい。"
+  },
+  {
+   "card": "NL-005",
+   "label": "OPEN、作り手の調査バッチ59 2026-11-13",
+   "text": "Romano FR, Anselmo-Lima WT, Kosugi EM, et al. Rhinosinusitis: Evidence and experience – 2024. Brazilian Journal of Otorhinolaryngology. 2025;91(5):101595（PMID: 40398368、DOI: 10.1016/j.bjorl.2025.101595、PMCID: PMC12148406、https://pmc.ncbi.nlm.nih.gov/articles/PMC12148406/）。裏づける部分：急性副鼻腔炎の定義（2症状以上、12週未満）、経過による分類、細菌性を示唆する5所見（着色した鼻漏、強い局所痛、発熱38℃超、炎症反応の上昇、double worsening）のうち少なくとも3つという EPOS 2020 基準が、CC BY の2025年総説に EPOS 2020 基準として明記されていることを確認した。。数値の照合：12週未満、10日、5所見中3つ、発熱38℃超はいずれもカードと一致する。。留保：主出典 SRC-1374（EPOS 2020）の区分訂正は別枠の節に分離した。"
+  },
+  {
+   "card": "NL-006",
+   "label": "OPEN、作り手の調査バッチ59 2026-11-13",
+   "text": "Vlaminck S, Acke F, Scadding GK, Lambrecht BN, Gevaert P. Pathophysiological and Clinical Aspects of Chronic Rhinosinusitis: Current Concepts. Frontiers in Allergy. 2021;2:741788 補助：Romano FR, Anselmo-Lima WT, Kosugi EM, et al. Rhinosinusitis: Evidence and experience – 2024. Brazilian Journal of Otorhinolaryngology. 2025;91(5):101595（PMID: 40398368、DOI: 10.1016/j.bjorl.2025.101595、PMCID: PMC12148406）（PMID: 35387015、DOI: 10.3389/falgy.2021.741788、PMCID: PMC8974859、https://pmc.ncbi.nlm.nih.gov/articles/PMC8974859/）。裏づける部分：主候補（Vlaminck 2021）で、慢性副鼻腔炎の定義（2症状以上が12週以上）、EPOS 2020 の新分類（一次性／二次性、局在性／びまん性、タイプ2炎症優位によるエンドタイプ）、薬物療法を基本とし手術を組み合わせる治療原則を確認した。 補助候補（Romano 2025）：12週を超える症状と分類、手術は薬物療法との併用で重要であることが記載されている。。数値の照合：期間基準の12週は両候補ともカードと一致する。。留保：主出典 SRC-1374（EPOS 2020）の区分訂正は別枠の節に分離した（NL-005 と同一出典）。"
+  },
+  {
+   "card": "NL-007",
+   "label": "OPEN、作り手の調査バッチ59 2026-11-13",
+   "text": "Nelke K, Morawska-Kochman M, Janeczek M, Małyszek A, Uranbey Ö, Łuczak K, Nienartowicz J, Maag I, Caso AR, Dobrzyński M. Radiologic Evaluation of Odontogenic Sinusitis and Its Etiologic Factors: Lessons Learned from a Retrospective Study with a Proposed Imaging-Guided Management Pathway. Journal of Clinical Medicine. 2026;15(10):3724 補助：Albu S, Roman A. Navigating the Treatment Landscape of Odontogenic Sinusitis: Current Trends and Future Directions. Medicina (Kaunas). 2025;61(12):2175（PMID: 41470177、DOI: 10.3390/medicina61122175、PMCID: PMC12734476）（PMID: 42194684、DOI: 10.3390/jcm15103724、PMCID: PMC13207049、https://pmc.ncbi.nlm.nih.gov/articles/PMC13207049/）。裏づける部分：主候補（Nelke 2026）で、片側性上顎洞炎の約30%に歯性の病変が存在しうること（主出典への帰属を明記した再掲）、多職種治療とチームアプローチが必須であることを確認した。 補助候補（Albu 2025）：歯科治療と内視鏡下副鼻腔手術の組合せ、耳鼻科と歯科の協力、感染源治療による再発予防が記載されている。。数値の照合：約30%は主候補の再掲と一致する。ただし主候補自身の新規測定値ではなく主出典値の引用である。補助候補の頻度（25–40%、45–75%）は分母が異なり照合には使えない。。留保：主出典 SRC-1375 は CC BY-NC-ND のため現行の RESTRICTED が正しい。マスターの pmcid が null のため、PMC7770314 を補完候補として申し送りに記録した。"
+  },
+  {
+   "card": "NL-010",
+   "label": "OPEN、作り手の調査バッチ59 2026-11-13",
+   "text": "Lucidi D, et al. Tumors of the Nose and Paranasal Sinuses: Promoting Factors and Molecular Mechanisms—A Systematic Review. International Journal of Molecular Sciences. 2023;24(3):2670 補助：National Cancer Institute. Paranasal Sinus and Nasal Cavity Cancer Treatment (PDQ®) — Health Professional Version. NCI PDQ® Cancer Information Summary (cancer.gov), 2026-11-13 閲覧（PMID: 26389272） 補助：Ferrari M, Orlandi E, Bossi P. Sinonasal cancers treatments: state of the art. Current Opinion in Oncology. 2021;33(3):196-205（PMID: 33756515、DOI: 10.1097/CCO.0000000000000726、PMCID: PMC9904434）（PMID: 36768990、DOI: 10.3390/ijms24032670、PMCID: PMC9916834、https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9916834/fullTextXML）。裏づける部分：主候補（Lucidi 2023）で、異種混交の疾患群であること、扁平上皮癌が最頻であること、職業曝露が病因に関与すること、進行期受診と管理の進歩を確認した。 補助候補（NCI PDQ）：扁平上皮癌が最頻で70–80%、産業曝露との関連、多職種による治療計画が記載されている。補助候補（Ferrari 2021）：希少・異種混交であることと管理の進歩が記載されている。。数値の照合：発生率は主候補に0.83／100,000とあり、カードの「約1／100,000」と近似だが厳密には不一致である。「扁平上皮癌と腺癌で合わせて80%」という合算表記は候補のいずれにもない。。留保：内容が最も近い Perri F, et al. Oncol Lett. 2017（DOI: 10.3892/ol.2017.5598、PMID: 28454258、PMCID: PMC5403341）は、PMC 全文に Creative Commons のライセンス表示が確認できず（表示は Copyright © 2017, Spandidos Publications のみ）候補にできない。主出典 SRC-1378 の区分訂正は別枠の節に分離した。"
+  },
+  {
+   "card": "NL-011",
+   "label": "GOV_US、作り手の調査バッチ59 2026-11-13",
+   "text": "Centers for Disease Control and Prevention. Sinus Infection Basics. CDC ウェブページ. 2024-04-17 版 補助：Centers for Disease Control and Prevention. Diagnosing and Treating Acute Bacterial Rhinosinusitis: New Guidelines from the IDSA. CDC ウェブページ（https://www.cdc.gov/patient-safety/stories/diagnose-treat-acute-bacterial-rhinosinusitis-new-guidance.html）（https://www.cdc.gov/sinus-infection/about/）。裏づける部分：CDC の2ページで、副鼻腔炎の90–98%はウイルス性であること、細菌性を考える経過パターン（10日を超えて改善なし、発熱と鼻汁・顔面痛が3–4日、改善した後の増悪）と受診目安を確認した。見分けが経過の期間と増悪パターンに基づくという骨格は裏づけられる。。数値の照合：10日を超える持続は一致する。発熱の閾値はカードの38℃超に対し CDC は102°F（約38.9℃）で一致しない。。留保：EPOS 2020 の5所見セット（特に炎症反応の上昇）と「5日を過ぎて増悪」という厳密な閾値は CDC にはない。主出典 SRC-1374 の区分訂正は別枠の節に分離した（NL-005・006 と同一出典）。"
+  },
+  {
+   "card": "NL-012",
+   "label": "OPEN、作り手の調査バッチ59 2026-11-13",
+   "text": "Azevedo SPC, et al. Croup review: comparative analysis of acute and recurrent croup. Jornal Brasileiro de Pneumologia. 2024;50(5):e20240353（PMID: 39661847、DOI: 10.36416/1806-3756/e20240353、PMCID: PMC11601064、https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11601064/fullTextXML）。裏づける部分：stridor と犬吠様咳嗽、6か月〜3歳という年齢の定義表、喘鳴の鑑別、臨床診断で大多数は追加検査不要であること、コルチコステロイド、中等度〜重度の上気道閉塞に対するネブライザーエピネフリンを確認した。。数値の照合：「3%」は候補では分母が6か月〜6歳であり、カードの6か月〜3歳とは年齢範囲がずれる。「入院の7%」は自由全文では未確認である。。留保：内容をほぼ網羅する Bjornson CL, Johnson DW. CMAJ. 2013（DOI: 10.1503/cmaj.121645、PMID: 23939212、PMCID: PMC3796596）は「© 1995-2013, Canadian Medical Association」で CC BY ではないため候補にできない。主出典 SRC-1379 の区分訂正は別枠の節に分離した。"
+  },
+  {
+   "card": "NL-013",
+   "label": "OPEN、作り手の調査バッチ59 2026-11-13",
+   "text": "Adams CP, Ajhar A, Tolson DR. Airway Watch: A Rare Case of Adult Epiglottitis. Cureus. 2024;16(11):e73160 補助：Escoe B, Fogleman BM, Sherertz R. Epiglottitis Strikes Twice: A Case of Adult Recurrent Epiglottitis. Cureus. 2024;16(3):e56940（PMID: 38665746、DOI: 10.7759/cureus.56940、PMCID: PMC11044190）（PMID: 39651013、DOI: 10.7759/cureus.73160、PMCID: PMC11623979、https://pmc.ncbi.nlm.nih.gov/articles/PMC11623979/）。裏づける部分：主候補（Adams 2024）で、ワクチン後は主に成人であること、成人の典型像（重度の咽頭痛、嚥下痛、声の変化）、成人の原因菌、直接観察による確認が望ましいこと、X 線の thumbprint sign の感度の限界、気道管理が焦点であることを確認した。 補助候補（Escoe 2024）：小児と成人の症状差、Hib ワクチン後の小児例の減少、flexible laryngoscopy による確認が記載されている。。数値の照合：カードに発生率等の数値主張はない。候補には成人発生率（候補1で45–64歳に0.6–3／100,000、候補2で2–4／100,000）と死亡率約1%の記載があるが、照合対象ではない。。留保：候補はいずれも症例報告でエビデンス水準は低い。非感染性の原因（ウイルス、真菌、腐食性・熱性、自己免疫性）の裏づけは候補にない。主出典 SRC-1380 の区分訂正は別枠の節に分離した。"
+  },
+  {
+   "card": "NL-015",
+   "label": "OPEN、作り手の調査バッチ59 2026-11-13",
+   "text": "Hut A-R, Boia ER, Para D, Iovanescu G, Horhat D, Mikša L, Chiriac M, Galant R, Motofelea AC, Balica NC. Laryngeal Cancer in the Modern Era. Journal of Clinical Medicine. 2025;14(10):3367 補助：National Cancer Institute. Laryngeal Cancer Treatment (PDQ®) – Health Professional Version. NCI PDQ® Cancer Information Summary (cancer.gov)／NCBI Bookshelf NBK65746, 2026-11-13 閲覧（PMID: 26389189） 補助：Shi L, Kuang Z, Tu J, Wang T, Liu T, Liu J, Liu J. Global, regional, and national burden of laryngeal cancer attributable to smoking, 1990–2021, and projections to 2036. Frontiers in Public Health. 2025;13:1583045（PMID: 40416653、DOI: 10.3389/fpubh.2025.1583045、PMCID: PMC12098609）（PMID: 40429363、DOI: 10.3390/jcm14103367、PMCID: PMC12112285、https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12112285/fullTextXML）。裏づける部分：主候補（Hut 2025）で、危険因子（喫煙・飲酒・HPV・職業曝露）と部位別症状の枠組みを確認した。 補助候補（NCI PDQ）：喫煙・過量飲酒との関連、部位別症状、病期評価（内視鏡、生検、CT／MRI／PET）が記載されている。補助候補（Shi 2025）：喫煙リスク10〜15倍、最も喫煙量が多い者で最大30倍が記載されている。。数値の照合：喫煙リスク10〜15倍（最大30倍）は補助候補と完全一致する。進行期の割合は主候補が約2／3としており、カードの約60%とは表現が異なる。発生率（男性5.8／女性1.2、10万人あたり）は自由全文では未確認である。。留保：主出典 SRC-1382 の区分訂正は別枠の節に分離した。進行期割合の表現の差はフラグに挙げた。"
+  },
+  {
+   "card": "NL-016",
+   "label": "OPEN、作り手の調査バッチ59 2026-11-13",
+   "text": "Hut A-R, Boia ER, Para D, Iovanescu G, Horhat D, Mikša L, Chiriac M, Galant R, Motofelea AC, Balica NC. Laryngeal Cancer in the Modern Era. Journal of Clinical Medicine. 2025;14(10):3367 補助：National Cancer Institute. Laryngeal Cancer Treatment (PDQ®) – Health Professional Version. NCI PDQ® Cancer Information Summary (cancer.gov)／NCBI Bookshelf NBK65746, 2026-11-13 閲覧（PMID: 26389189） 補助：Wang Q, Huang Y, Li Y, Ling Y, Zhou J, Lou Z, Fan G-K. Impact of anterior commissure invasion on the oncological efficacy of transoral laser microsurgery for T1 glottic cancer. Frontiers in Oncology. 2025;15:1584313（PMID: 40978064、DOI: 10.3389/fonc.2025.1584313、PMCID: PMC12443554） 補助：Elsayed M, Dwiddar N, Allam A, Ubayasiri K, Simons A, Sethi N. Review of oncological findings and complications after elective neck dissection during total laryngectomy: a case series. Egyptian Journal of Otolaryngology. 2021;37:113（DOI: 10.1186/s43163-021-00177-8、https://ejo.springeropen.com/articles/10.1186/s43163-021-00177-8）（PMID: 40429363、DOI: 10.3390/jcm14103367、PMCID: PMC12112285、https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12112285/fullTextXML）。裏づける部分：主候補（Hut 2025）で、早期癌への経口的レーザー顕微鏡手術と、全摘の適応（広範浸潤、温存治療失敗等）という治療の枠組みを確認した。 補助候補（NCI PDQ）：早期は放射線／手術で喉頭温存、局所進行は化学放射線±手術の集学治療が記載されている。補助候補（Wang 2025）：T1 の5年局所制御率91.5%が記載されている。補助候補（Elsayed 2021）：潜在頸部転移リスク20%超で頸部治療を行う閾値が記載されている。。数値の照合：局所制御率80〜100%という範囲表現そのものは未確認で、T1 の91.5%は範囲内だが、重度前連合浸潤例の61.0%は範囲を下回る。頸部の20%超という閾値は補助候補と一致する。。留保：主出典 SRC-1382 の区分訂正は別枠の節に分離した（NL-015 と同一出典）。局所制御率の範囲表現と病期・部位による差はフラグに挙げた。"
+  },
+  {
+   "card": "NL-017",
+   "label": "OPEN、作り手の調査バッチ59 2026-11-13",
+   "text": "Garzon Mora N, et al. An Overview of the Effectiveness of Corticoids in Croup: A Systematic Literature Review. Cureus. 2023;15(10):e46317（PMID: 37916233、DOI: 10.7759/cureus.46317、PMCID: PMC10616678、https://pmc.ncbi.nlm.nih.gov/articles/PMC10616678/）。裏づける部分：クループ（喉頭・気管・気管支の腫脹による上気道閉塞）の症状（嗄声、犬吠様咳嗽、吸気性喘鳴）、ステロイドが第一選択でスコア改善・滞在短縮・再受診減少がみられること、エピネフリンが二次／救急的な位置づけであることを確認した。。数値の照合：数値の直接照合はできなかった（この年齢層の3%という頻度は候補では未確認）。。留保：主出典は NL-012 と同一の SRC-1379 で、区分訂正は別枠の節に分離した。頻度3%とデキサメタゾン単回の扱いは NL-012 と共通のフラグに挙げた。"
+  },
+  {
+   "card": "NL-018",
+   "label": "OPEN、作り手の調査バッチ59 2026-11-13",
+   "text": "Barsties v Latoszek B, Watts CR, Hetjens S, Neumann K. The Efficacy of Different Voice Treatments for Vocal Fold Polyps: A Systematic Review and Meta-Analysis. Journal of Clinical Medicine. 2023;12(10):3451（PMID: 37240557、DOI: 10.3390/jcm12103451、PMCID: PMC10219546、https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10219546/fullTextXML）。裏づける部分：病因（音声外傷、喫煙、逆流など）と、音声治療／手術／併用がいずれも有効であるという治療の枠組みを確認した。。数値の照合：韓国の有病率（声帯結節1.0〜1.7%、ポリープ0.3〜0.6%）は自由全文では未確認である。数値の由来とみられる Woo SH, et al. Yonsei Med J. 2014（DOI: 10.3349/ymj.2014.55.2.499、PMID: 24532524、PMCID: PMC3936624）は結節0.99–1.72%・ポリープ0.31–0.55%でカードの丸めた値とほぼ一致するが、CC BY-NC 3.0 のため候補にできない。。留保：主出典 SRC-1383 は CC BY-NC-ND で現行の RESTRICTED が正しい。マスターの pmcid が null のため、PMC6331298 を補完候補として申し送りに記録した。"
+  },
+  {
+   "card": "NL-020",
+   "label": "OPEN、作り手の調査バッチ59 2026-11-13",
+   "text": "Tomecka P, Karwowska A, Kuźnicki J, Skinderowicz K, Wojno A, Markut K, Typek P, Ciesielska U, Kulbacka J, Drąg-Zalesińska M. HPV Infection in Children and Adolescents—A Comprehensive Review. Journal of Clinical Medicine. 2025;14(7):2425 補助：Sporeni S, Rifaldi F, Lanzetta I, Imarisio I, Montagna B, Serra F, Agustoni F, Pedrazzoli P, Benazzo M, Bertino G. Recurrent respiratory papillomatosis: role of bevacizumab and HPV vaccination. A literature review with case presentations. Radiology and Oncology. 2025;59(1):23-30（PMID: 40014785、DOI: 10.2478/raon-2025-0010、PMCID: PMC11867566）（PMID: 40217872、DOI: 10.3390/jcm14072425、PMCID: PMC11989703、https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11989703/fullTextXML）。裏づける部分：主候補（Tomecka 2025）で、HPV 6／11 感染による良性喉頭腫瘍であること、周産期伝播、喉頭・気管等への分布、嗄声・咳嗽・喘鳴などの非特異的な気道症状を確認した。 補助候補（Sporeni 2025）：根治的治療はなく外科的切除が主体であることが記載されている。。数値の照合：数値なし（定性的な主張）。。留保：気管支鏡と病理組織学的所見による確定診断の明示、成人型の感染経路（性的接触）、経過の詳細（自然寛解から攻撃的な再発、まれな悪性転化）は自由全文では未確認である。主出典 SRC-1385 の区分訂正は別枠の節に分離した。"
+  },
+  {
+   "card": "NL-021",
+   "label": "OPEN、作り手の調査バッチ59 2026-11-13",
+   "text": "Verma S, Meghanadh KR, Lal S, Kotamkar A, Pallewar S, Qamra A. Fluticasone Furoate-Oxymetazoline Hydrochloride Combination Nasal Spray for Managing Allergic Rhinitis With Nasal Congestion: Current Evidence and Clinical Implications. Cureus. 2026;18(5):e108413 補助：Gotoh M, Maekawa Y, Ando T, Kato N, Horikawa E, Nishino N. Real-Life Safety of Japanese Cedar Pollen Sublingual Immunotherapy Tablets: A Post-Marketing Survey. Clinical and Translational Allergy. 2026;16(2):e70157（PMID: 41688412、DOI: 10.1002/clt2.70157、PMCID: PMC12904777）（PMID: 42255837、DOI: 10.7759/cureus.108413、PMCID: PMC13242073、https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13242073/fullTextXML）。裏づける部分：主候補（Verma 2026）で、鼻腔内ステロイドがアレルギー性鼻炎の主治療であることと、血管収縮薬は薬剤性鼻炎回避のため短期間に制限するという一般枠組みを確認した。 補助候補（Gotoh 2026）：スギ花粉舌下免疫療法錠が日本で承認され実臨床で使用されていることが記載されている。。数値の照合：血管収縮薬の使用期間は、カードの「最重症でも1〜2週間を限度」に対し主候補は3〜5日とより短い。舌下免疫療法の「少なくとも2〜3年間、連日」は未確認である。。留保：日本の重症度・病型別の段階的薬物選択そのもの、抗原の除去と回避、ダニ舌下免疫療法、「5歳以上」という適応年齢、手術治療の位置づけは自由全文では未確認で、日本特異的要素の大半は裏づけが残る。主出典 SRC-1373 は CC BY-NC-ND のため現行の RESTRICTED が正しい（NL-004 と同一出典）。"
+  },
+  {
+   "card": "NL-022",
+   "label": "GOV_JP、作り手の調査バッチ59 2026-11-13",
+   "text": "環境省. 花粉症環境保健マニュアル2022. 環境省環境保健部環境安全課. 2022年3月改訂 補助：環境省・厚生労働省. 花粉症対策 スギ花粉症について日常生活でできること. 環境省・厚生労働省リーフレット. 2024年1月作成（https://www.env.go.jp/content/000194676.pdf） 補助：Uchida K, Iida K, Fujioka I, Hachimura S, Kaminuma O. Suppressive Effect of Lactococcus lactis subsp. cremoris YRC3780 on a Murine Model of Japanese Cedar Pollinosis. Pathogens. 2022;11(11):1347（PMID: 36422599、DOI: 10.3390/pathogens11111347、PMCID: PMC9698324）（https://www.env.go.jp/content/900406385.pdf）。裏づける部分：主候補（環境省マニュアル2022）で、花粉症全体の有病率の推移（19.6%→29.8%→42.5%）とスギ花粉症2019年38.8%を確認した。 補助候補（環境省・厚生労働省リーフレット2024）：スギ花粉症の推移16.2→26.5→38.8%が図に示されている。補助候補（Uchida 2022）：序文に2019年のアレルギー性鼻炎有病率49.2%とスギ花粉症38.8%が記載されている。。数値の照合：アレルギー性鼻炎全体49.2%（補助候補）、花粉症全体42.5%、スギ花粉症38.8%と過去値16.2%・26.5%（政府資料）は一致する。アレルギー性鼻炎全体の2008年値39.4%と年齢別の順位は自由全文では未確認である。。留保：主出典 SRC-2825 はマスターで DOI が null だが、DOI 10.3950/jibiinkoka.123.485 の実在を Crossref と J-STAGE で個別に確認したため、DOI 補完候補として申し送りに記録した。PMID・PMCID は見つからなかった。主出典の区分訂正は別枠の節に分離した。"
+  }
+ ],
+ "rest_fix": {
+  "SRC-1371": "出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）",
+  "SRC-1374": "出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）",
+  "SRC-1377": "出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）",
+  "SRC-1378": "出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）",
+  "SRC-1380": "出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）",
+  "SRC-1381": "出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）",
+  "SRC-1382": "出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）",
+  "SRC-1384": "出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）",
+  "SRC-1385": "出版社の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ59）",
+  "SRC-1372": "© American Academy of Family Physicians（CC ではない。作り手が Europe PMC で確認、バッチ59）",
+  "SRC-1379": "© American Academy of Family Physicians（CC ではない。作り手が Europe PMC で確認、バッチ59）",
+  "SRC-2825": "学会誌の著作物（CC 等の表示なし。J-STAGE で無料で読めるが自由ライセンスではない。作り手が Crossref・J-STAGE で確認、バッチ59）"
+ },
+ "open_fix": []
+}

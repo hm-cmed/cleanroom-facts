@@ -36996,3 +36996,93 @@
   pmid: '42596004'
   source_class: OPEN
   title: 'Hahn K, Arendt G, Eggers C, et al. Guideline of the German Society of Neurology (DGN): "diagnosis and therapy of HIV-1-associated neurological disorders". Neurol Res Pract. 2026;8(1)'
+- citation: 'Golubović J, Jelača B, Rodić D, Torbica S, Stošić S, Đilvesi Đ. Spontaneous Resorption of Lumbar Disc Herniation: A Narrative Review of Pathophysiology, Predictive Factors, and Clinical Decision-Making. NeuroSci. 2026;7(2):30'
+  doi: 10.3390/neurosci7020030
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5026
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://europepmc.org/article/MED/41874033
+  pmcid: PMC13010770
+  pmid: '41874033'
+  source_class: OPEN
+  title: 'Golubović J, Jelača B, Rodić D, Torbica S, Stošić S, Đilvesi Đ. Spontaneous Resorption of Lumbar Disc Herniation: A Narrative Review of Pathophysiology, Predictive Factors, and Clinical Decision-Making. NeuroSci. 2026;7(2):30'
+- citation: 'Zhang R, Liang Y, Zhang C, Liu Y, Hong Y. Diagnostic evidence in suspected discogenic low back pain: a pain-source attribution perspective. Front Med (Lausanne). 2026;13:1924460'
+  doi: 10.3389/fmed.2026.1924460
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5027
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://europepmc.org/article/MED/42639130
+  pmcid: PMC13501964
+  pmid: '42639130'
+  source_class: OPEN
+  title: 'Zhang R, Liang Y, Zhang C, Liu Y, Hong Y. Diagnostic evidence in suspected discogenic low back pain: a pain-source attribution perspective. Front Med (Lausanne). 2026;13:1924460'
+- citation: 'Inoue H, Sawamura H, Watanabe H, Okami H, Shiraishi Y, Kimura A, Takeshita K, Morita M. Low handgrip strength is associated with impaired gait and dexterity in patients with degenerative cervical myelopathy: A cross-sectional study. Medicine (Baltimore). 2026;105(34):e50294'
+  doi: 10.1097/md.0000000000050294
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5028
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://europepmc.org/article/MED/42629689
+  pmcid: PMC13502869
+  pmid: '42629689'
+  source_class: OPEN
+  title: 'Inoue H, Sawamura H, Watanabe H, Okami H, Shiraishi Y, Kimura A, Takeshita K, Morita M. Low handgrip strength is associated with impaired gait and dexterity in patients with degenerative cervical myelopathy: A cross-sectional study. Medicine (Baltimore). 2026;105(34):e50294'
+- citation: 'Newby BN, Weiss PF. Advancing Juvenile Spondyloarthritis: Closing Knowledge Gaps with New Axial JSpA Classification Criteria. Curr Rheumatol Rep. 2025;27(1):39'
+  doi: 10.1007/s11926-025-01206-8
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5029
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://europepmc.org/article/MED/41251853
+  pmcid: PMC12627101
+  pmid: '41251853'
+  source_class: OPEN
+  title: 'Newby BN, Weiss PF. Advancing Juvenile Spondyloarthritis: Closing Knowledge Gaps with New Axial JSpA Classification Criteria. Curr Rheumatol Rep. 2025;27(1):39'
+- citation: 'Abedellatif SE, Janjic M, Khalafov L, Asoglu H, Dittmer J, Alenezi H, Maiseyeu I, Jaber M, Kobeissi H, El Ghazi M, Kobeissi L, Dib JE. Spinal metastases in geriatric patients: a retrospective single-center comparison of mortality and surgical outcomes following neurological decompression. Front Med (Lausanne). 2026;13:1897474'
+  doi: 10.3389/fmed.2026.1897474
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5030
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://europepmc.org/article/MED/42534815
+  pmcid: PMC13422460
+  pmid: '42534815'
+  source_class: OPEN
+  title: 'Abedellatif SE, Janjic M, Khalafov L, Asoglu H, Dittmer J, Alenezi H, Maiseyeu I, Jaber M, Kobeissi H, El Ghazi M, Kobeissi L, Dib JE. Spinal metastases in geriatric patients: a retrospective single-center comparison of mortality and surgical outcomes following neurological decompression. Front Med (Lausanne). 2026;13:1897474'
+- citation: Yang ST, Wang ZW. Neuroimmunological overlap syndromes in optic neuritis, myelitis, and connective tissue diseases. Front Neurol. 2026;17:1887536
+  doi: 10.3389/fneur.2026.1887536
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（作り手、2026-11-08／11）から。識別子は作り手の API 確認によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-11）
+    date: '2026-11-11'
+  id: SRC-5031
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://europepmc.org/article/MED/42558877
+  pmcid: PMC13438464
+  pmid: '42558877'
+  source_class: OPEN
+  title: Yang ST, Wang ZW. Neuroimmunological overlap syndromes in optic neuritis, myelitis, and connective tissue diseases. Front Neurol. 2026;17:1887536
