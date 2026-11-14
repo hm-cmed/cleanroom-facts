@@ -53,7 +53,7 @@
     source_license: CC BY-NC 4.0（Crossref の license 欄で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ61 2026-11-14）：Gono T. Prevalence and screening of interstitial lung disease in rheumatoid arthritis. Rheumatol Adv Pract. 2026;10(3):rkag062（PMID: 42325419、DOI: 10.1093/rap/rkag062、PMCID: PMC13275310、https://pmc.ncbi.nlm.nih.gov/articles/PMC13275310/）。裏づける部分：候補（CC BY の解説）が引用する別の系統的レビュー・メタ解析（74研究）で、関節リウマチ関連間質性肺疾患の統合有病率が推計されていること、危険因子として男性、高齢（発症時高齢）、喫煙、高力価のリウマトイド因子・抗CCP抗体、高疾患活動性が挙げられることを確認。カードの危険因子の顔ぶれと一致する。数値の照合：候補の統合有病率は 20.6%（95%信頼区間 18.3〜23.2、74研究）で、カードの 18.7%（同 15.8〜21.6、56研究）とは研究集合が異なる別のメタ解析の値であり、同一の値としては一致しない。留保：主出典 SRC-2902 は CC BY-NC で現行 RESTRICTED が正しい'
   uncertainty: メタ解析の異質性は I²=96.4% と大きく、研究間の診断基準のばらつきが背景にある。数値は抄録で確認した。間質性肺疾患そのものの診断・治療の詳細は呼吸器側が正で、本カードは関節リウマチの関節外病変としての頻度と危険因子に限る。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-A-①（関節リウマチ、a）
@@ -68,6 +68,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ61 2026-11-14）。三原の承認（2026-11-11）による
 - id: CT-003
   domain: CT
   subdomain: 関節リウマチ
@@ -157,7 +160,7 @@
     url: null
     source_license: The Journal of Rheumatology（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録で確認した。DOI は PubMed・Crossref で確認できなかったため null とした。分類には感染症・悪性腫瘍・他の膠原病の除外が必要とされる。指定難病54の診断基準もこの分類基準に基づく。
   curriculum:
@@ -173,6 +176,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2904 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: CT-006
   domain: CT
   subdomain: 成人Still病
@@ -193,7 +199,7 @@
     source_license: CC BY-NC-ND（抄録末尾の権利表示で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ61 2026-11-14）：Ruscitti P, Iacono D, Riccio F, et al. Real-world therapeutic strategies in active adult-onset Still''s disease: clinical insights from the GIRRCS-AOSD study group. Front Immunol. 2026;17:1852661（PMID: 42620353、DOI: 10.3389/fimmu.2026.1852661、PMCID: PMC13485721、https://pmc.ncbi.nlm.nih.gov/articles/PMC13485721/）。裏づける部分：候補の表に EULAR/PReS 推奨の主要項目が再掲され、治療目標の達成・維持のために IL-1 阻害薬と IL-6 阻害薬の使用を優先し、糖質コルチコイドは大幅に制限するか回避すること、生物学的製剤の早期投与が推奨の方向であることを確認。数値の照合：数値なし。留保：全身型若年性特発性関節炎と成人発症 Still 病を単一名称「Still 病」とする点と、寛解（臨床的不活動性疾患の6か月以上の維持）の定義は候補では未確認。主出典 SRC-2905 は CC BY-NC-ND で現行 RESTRICTED が正しい'
   uncertainty: トシリズマブは2019年に、IL-1 阻害薬のカナキヌマブは2025年3月に、いずれも「既存治療で効果不十分な成人発症スチル病（成人Still病）」の適応で国内承認・保険適用を取得したことを確認した。アナキンラの国内承認は未確認。内容は抄録で確認した。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】キネレット皮下注100mgシリンジ（アナキンラ）が2026-06-19に全身型若年性特発性関節炎・成人発症スチル病の効能で承認され、2026-08-13薬価収載（23,702円/筒）、2026-08-20発売。「国内承認は未確認」の状態は解消し、承認済みとなった（PMDA医薬品情報、厚労省新医薬品一覧2026-08-13、Sobi Japan発表）。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-A-③（成人Still病、b）
@@ -211,6 +217,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ61 2026-11-14）。三原の承認（2026-11-11）による
 - id: CT-007
   domain: CT
   subdomain: 全身性エリテマトーデス<SLE>
@@ -230,8 +239,8 @@
     url: https://doi.org/10.1002/art.40930
     source_license: CC表示は確認できず（Wiley の版の利用条件のみ）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ61 2026-11-14）：Mahadevan S, Navaneethakrishnan B, Mamadapur M, Patil H. Comparative diagnostic performance of ACR 1997, SLICC 2012, and EULAR/ACR 2019 criteria in childhood-onset systemic lupus erythematosus: A retrospective study from a tertiary care centre in south India. Rheumatol Immunol Res. 2026;7(2):123-130（PMID: 42444718、DOI: 10.1515/rir-2026-0006、PMCID: PMC13358950、https://pmc.ncbi.nlm.nih.gov/articles/PMC13358950/）。裏づける部分：2019 EULAR/ACR 分類基準について、抗核抗体陽性が必須の入口基準であること、臨床的特徴と免疫学的特徴に重み付きスコアを用いること、合計10点以上で分類することを確認。数値の照合：検証コホートでの感度 96.1%・特異度 93.4% は候補には記載がなく、主出典でのみ確認した。留保：臨床7ドメイン・免疫3ドメインという内訳と各項目の重み（2〜10点）は候補では未確認。主出典 SRC-2906 の区分訂正は別枠の節に分離した'
   uncertainty: 分類基準であり診断基準そのものではない。同一内容が Ann Rheum Dis（DOI 10.1136/annrheumdis-2018-214819）にも掲載された二誌同時掲載で、本カードは Arthritis & Rheumatology 版の書誌に統一した。腎炎の側面は GN が正である。数値は抄録で確認した。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-C-①（全身性エリテマトーデス<SLE>、a）
@@ -246,6 +255,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2906 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ61 2026-11-14）。三原の承認（2026-11-11）による
 - id: CT-008
   domain: CT
   subdomain: 全身性エリテマトーデス<SLE>
@@ -265,8 +280,8 @@
     url: https://doi.org/10.1136/ard-2023-224762
     source_license: CC表示は確認できず（Elsevier の TDM／利用条件のみ）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ61 2026-11-14）：Parodis I, Fanouriakis A, Bortoluzzi A, et al. Practical insights for the clinical implementation of the EULAR recommendations for patients with systemic lupus erythematosus. RMD Open. 2025;11(4):e006210（PMID: 41475837、DOI: 10.1136/rmdopen-2025-006210、PMCID: PMC12766831、https://pmc.ncbi.nlm.nih.gov/articles/PMC12766831/）。裏づける部分：EULAR 勧告 2023 update の実施解説（CC BY）で、ヒドロキシクロロキンに反応しない場合や糖質コルチコイドを許容範囲まで減らせない場合に、生物学的製剤（ベリムマブ、アニフロルマブ）および／または従来型免疫抑制薬の早期導入を検討すること、糖質コルチコイドは橋渡しに用いて漸減すること、寛解の定義ではプレドニゾン換算 5 mg/日以下が閾値であることを確認。数値の照合：数値なし（候補で確認した 5 mg/日以下は寛解定義の閾値としての記載）。留保：ヒドロキシクロロキンを全患者に推奨し目標用量を実体重 5 mg/kg/日とする点と、全体原則5件・推奨13件という件数は候補では未確認。主出典 SRC-2907 の区分訂正は別枠の節に分離した'
   uncertainty: ベリムマブとアニフロルマブは「既存治療で効果不十分な全身性エリテマトーデス」の適応で国内承認・保険適用がある。ヒドロキシクロロキンの全身性エリテマトーデスに対する国内承認の書誌的事項は本パートでは未確認。ループス腎炎の治療の詳細は GN が正で、本カードは非腎性の全身像と治療原則に限る。内容は抄録で確認した。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-C-①（全身性エリテマトーデス<SLE>、a）
@@ -281,6 +296,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2907 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ61 2026-11-14）。三原の承認（2026-11-11）による
 - id: CT-009
   domain: CT
   subdomain: 全身性エリテマトーデス<SLE>
@@ -300,8 +321,8 @@
     url: https://doi.org/10.1056/NEJMoa1912196
     source_license: CC表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ61 2026-11-14）：ClinicalTrials.gov 試験登録レコード NCT02446899（TULIP-2、結果投稿済み）（https://clinicaltrials.gov/study/NCT02446899）。裏づける部分：登録レコードの結果で、主要評価項目（52週時点の BICLA 反応）の反応者数がアニフロルマブ 300 mg 群 86/180例、プラセボ群 57/182例（無作為化計362例）と記録され、カードの症例数と反応割合の基になる人数が一致することを確認。数値の照合：登録レコードの単純割合は 47.8%（86/180）と 31.3%（57/182）。カード・公表論文の 31.5% は調整済みの値で、差 16.3 ポイント（調整済み）とあわせて解析法の違いによるものである。留保：主出典 SRC-2908 の区分訂正は別枠の節に分離した
   uncertainty: アニフロルマブは I 型インターフェロン受容体拮抗薬で、2021年に「既存治療で効果不十分な全身性エリテマトーデス」の適応で国内承認・保険適用を取得した（300 mg を4週間隔で点滴静注）。数値は抄録で確認した。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-C-①（全身性エリテマトーデス<SLE>、a）
@@ -316,6 +337,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2908 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ61 2026-11-14）。三原の承認（2026-11-11）による
 - id: CT-010
   domain: CT
   subdomain: Sjögren症候群
@@ -335,8 +362,8 @@
     url: https://doi.org/10.1136/annrheumdis-2016-210571
     source_license: CC表示なし（Crossref の license 欄は TDM 用ライセンスと誌ポリシーのみ）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ61 2026-11-14）：Zhang Y, Sun Z, Zhang J, et al. Clinical and serologic features of sicca syndrome in a tertiary care cohort in China: a retrospective rheumatologic study. Front Med. 2026;13:1935003（PMID: 43011042、DOI: 10.3389/fmed.2026.1935003、PMCID: PMC13748258、https://pmc.ncbi.nlm.nih.gov/articles/PMC13748258/）。裏づける部分：候補コホート研究が 2016 ACR/EULAR 分類基準を実際に適用し、抗 SSA/Ro 抗体陽性に3点、Schirmer 試験（5 mm/5分以下）・眼染色スコア・非刺激唾液流量の各項目に1点を与え、累積スコア 4 点以上を分類の閾値としていることを確認。数値の照合：最終検証コホートでの感度 96%・特異度 95% は候補には記載がなく、主出典でのみ確認した。留保：小唾液腺生検のフォーカススコア（3点）の項目は、候補コホートでは生検を行っていないため再掲されていない。主出典 SRC-2909 の区分訂正は別枠の節に分離した'
   uncertainty: 同一内容が Arthritis Rheumatol（DOI 10.1002/art.39859、CC BY-NC-ND）にも掲載された二誌同時掲載で、本カードは Ann Rheum Dis 版の書誌に統一した。分類基準であり診断基準そのものではない。腎病変の側面は登録済みの SRC-616 が補助であり本体にはしない。数値は抄録で確認した。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-C-②（Sjögren症候群、a）
@@ -351,6 +378,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2909 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ61 2026-11-14）。三原の承認（2026-11-11）による
 - id: CT-011
   domain: CT
   subdomain: Sjögren症候群
@@ -370,7 +403,7 @@
     url: https://doi.org/10.3109/s10165-004-0338-x
     source_license: CC表示なし（Crossref の license 欄なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 国内基準は乾燥症状を項目に含むなど国際分類基準（CT-010）とは構成が異なり、指定難病53の診断基準の基盤になっている。国内の診療ガイドラインは日本リウマチ学会編の2025年版（診断と治療社、2025年5月発行）が現行で2017年版は旧版だが、書籍の本文は未照合のため本パートでは出典にしていない。数値は抄録で確認した。
   curriculum:
@@ -386,6 +419,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2910 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: CT-012
   domain: CT
   subdomain: 全身性強皮症
@@ -405,8 +441,8 @@
     url: https://doi.org/10.1136/annrheumdis-2013-204424
     source_license: CC表示なし（Crossref の license 欄は TDM 用ライセンスのみ）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ61 2026-11-14）：Romanowska-Próchnicka K, Dziewit M, Lesiak A, Reich A, Olesińska M. Scleroderma and scleroderma-like syndromes. Front Immunol. 2024;15:1351675（PMID: 38887288、DOI: 10.3389/fimmu.2024.1351675、PMCID: PMC11180720、https://pmc.ncbi.nlm.nih.gov/articles/PMC11180720/）。裏づける部分：候補の表に 2013 ACR/EULAR 分類基準の全文が再掲され、中手指節関節より近位まで及ぶ手指の皮膚硬化が9点でそれだけで分類できること、その他の項目（手指の皮膚硬化、指尖部病変、毛細血管拡張、爪郭毛細血管異常、間質性肺疾患または肺動脈性肺高血圧症、Raynaud 現象、関連自己抗体）に重みを付けて加算し合計9点以上で分類することを確認。数値の照合：検証での感度 0.91・特異度 0.92 と、1980年 ACR 基準（0.75・0.72）との比較は候補には記載がなく、主出典でのみ確認した。留保：主出典 SRC-2911 の区分訂正は別枠の節に分離した'
   uncertainty: 同一内容が Arthritis Rheum（DOI 10.1002/art.38098）にも掲載された二誌同時掲載で、本カードは Ann Rheum Dis 版の書誌に統一した。分類基準であり診断基準そのものではない。間質性肺疾患と強皮症腎クリーゼの側面は臓器側が正で、補助出典として SRC-419、SRC-610 が登録済みである。数値は抄録と PMC 全文で確認した。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-C-③（全身性強皮症、a）
@@ -421,6 +457,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2911 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ61 2026-11-14）。三原の承認（2026-11-11）による
 - id: CT-013
   domain: CT
   subdomain: 全身性強皮症
@@ -441,7 +483,7 @@
     source_license: CC BY-NC-ND 4.0（Crossref の license 欄で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ61 2026-11-14）：Romanowska-Próchnicka K, Dziewit M, Lesiak A, Reich A, Olesińska M. Scleroderma and scleroderma-like syndromes. Front Immunol. 2024;15:1351675（PMID: 38887288、DOI: 10.3389/fimmu.2024.1351675、PMCID: PMC11180720、https://pmc.ncbi.nlm.nih.gov/articles/PMC11180720/）。裏づける部分：候補で、EULAR 推奨の 2023 update が8つの臨床領域にわたること、皮膚線維化と間質性肺疾患に対する推奨にミコフェノール酸モフェチル、ニンテダニブ、リツキシマブ、トシリズマブの使用が新たに含まれたことを確認。数値の照合：推奨の件数は候補が21件としており、カード・主出典の22件と食い違う（詳細はフラグ参照）。留保：主出典 SRC-2912 は CC BY-NC-ND で現行 RESTRICTED が正しい。8領域の内訳そのものは候補では未確認'
   uncertainty: ニンテダニブは「全身性強皮症に伴う間質性肺疾患」の適応で2019年12月に国内承認・保険適用を取得したことを PMDA 資料で確認した。そのほかの列挙薬剤の全身性強皮症に対する国内適応は個別に未確認。国内の診療ガイドラインは2025年版（金原出版）が現行だが書籍の本文は未照合のため出典にしていない。内容は抄録で確認した。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-C-③（全身性強皮症、a）
@@ -456,6 +498,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ61 2026-11-14）。三原の承認（2026-11-11）による
 - id: CT-014
   domain: CT
   subdomain: 皮膚筋炎、多発性筋炎
@@ -476,7 +521,7 @@
     source_license: BMJ（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ61 2026-11-14）：Banceviča L, Dāvidsone Z, Budarina K, Rasa K. Juvenile dermatomyositis in Latvia: clinical, radiologic, laboratory, and therapeutic findings from 2010 to 2025. Front Pediatr. 2026;14:1880638（PMID: 42698682、DOI: 10.3389/fped.2026.1880638、PMCID: PMC13541717、https://pmc.ncbi.nlm.nih.gov/articles/PMC13541717/）。裏づける部分：候補で、2017 EULAR/ACR 分類基準が臨床所見・検査異常・筋生検所見に基づく重み付きスコアで炎症性筋疾患の確率を推定し、possible・probable・definite に分類する方式であること、筋生検なしでも適用できることを確認。数値の照合：確率55%以上・90%以上に対応するスコア閾値（生検なし 5.5・6.7、生検あり 7.5・8.7）と亜分類ツリーの内訳は候補には記載がなく、主出典でのみ確認した。留保：主出典 SRC-1769 は現行 RESTRICTED が正しい（PMC の著者原稿にライセンス表示なし）。PMCID 補完候補は申し送りに記録した'
   uncertainty: 第30回で登録済みの出典（SRC-1769）を再利用した。筋病変としての側面は第30回 NM-010〜012 が正であり、本カードは全身像と分類の枠組みに限る。分類基準であり診断基準そのものではない。内容は抄録で確認した。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-C-④（皮膚筋炎、多発性筋炎、a）
@@ -491,6 +536,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ61 2026-11-14）。三原の承認（2026-11-11）による
 - id: CT-015
   domain: CT
   subdomain: 皮膚筋炎、多発性筋炎
@@ -510,8 +558,8 @@
     url: https://doi.org/10.1002/art.24621
     source_license: Wiley の利用条件のみ（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ61 2026-11-14）：Zuo Z, Yang J, Li J, Li R, Liu W. Candidate molecular endotypes and dynamic risk prediction in anti-MDA5-positive dermatomyositis-associated interstitial lung disease: a systematic scoping review. Front Immunol. 2026;17（PMCID: PMC13690796、https://pmc.ncbi.nlm.nih.gov/articles/PMC13690796/）。裏づける部分：候補で、抗 MDA5 抗体が当初は無筋症性皮膚筋炎における140 kDa 蛋白への反応性（抗 CADM-140 抗体）として記載され、その後 MDA5 そのものであることと急速進行性間質性肺疾患との関連が示されたことが述べられ、主出典（Sato ら 2009）がその同定研究として引用されていることを確認。数値の照合：組換え MDA5 を抗原とする ELISA の解析感度 85%・解析特異度 100% と、膠原病294例での評価は候補には記載がなく、主出典でのみ確認した。留保：候補は Europe PMC レコードに PMID・DOI が未付与のため PMCID で同定した。主出典 SRC-2913 の区分訂正は別枠の節に分離した'
   uncertainty: 抗 MDA5 抗体（抗 CADM-140 抗体）の抗原同定の一次資料であり、数値は抄録で確認した。合併する間質性肺疾患の治療の詳細は呼吸器側が正である。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-C-④（皮膚筋炎、多発性筋炎、a）
@@ -526,6 +574,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2913 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ61 2026-11-14）。三原の承認（2026-11-11）による
 - id: CT-016
   domain: CT
   subdomain: 皮膚筋炎、多発性筋炎
@@ -546,7 +600,7 @@
     source_license: NEJM の利用条件（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ61 2026-11-14）：ClinicalTrials.gov 試験登録レコード NCT02728752（ProDERM、Octagam 10%、結果投稿済み）（https://clinicaltrials.gov/study/NCT02728752）。裏づける部分：登録レコードの結果で、主要評価項目（16週時点で Total Improvement Score 20以上の反応）の反応者数が Octagam 10%（免疫グロブリン静注 2.0 g/kg を4週間隔）群 37/47例、プラセボ群 21/48例と記録され、カードの症例数と一致することを確認。数値の照合：37/47 は 78.7%、21/48 は 43.8% で、カードの 79%・44% と一致する。留保：主出典 SRC-2914 は NEJM の購読論文で現行 RESTRICTED が正しい
   uncertainty: 国内では人免疫グロブリン製剤に「多発性筋炎・皮膚筋炎における筋力低下の改善（ステロイド剤が効果不十分な場合に限る）」の適応があり、保険適用されていることを PMDA の添付文書で確認した。試験では治療関連の重篤な有害事象に血栓塞栓イベント 6件が含まれた。数値は抄録で確認した。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-C-④（皮膚筋炎、多発性筋炎、a）
@@ -561,6 +615,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ61 2026-11-14）。三原の承認（2026-11-11）による
 - id: CT-017
   domain: CT
   subdomain: 混合性結合組織病
@@ -616,7 +673,7 @@
     source_license: BMJ（© Author(s) 2023、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ61 2026-11-14）：Baltaci MA, Aydemir Guloksuz EG, Sak Inal R, et al. Concordance and Relative Performance of the 2023 ACR/EULAR and Revised Sapporo Criteria in Antiphospholipid Syndrome and Analysis of Risk Factors for Recurrent Thrombosis: A Single-Center Cohort Study. Medicina. 2026;62(7):1226 補助：Del Barrio-Longarela S, Hernández JL, Merino A, et al. Do Serologic Domains of the 2023 ACR/EULAR Classification Criteria for Antiphospholipid Syndrome Define Distinct Clinical Subgroups During Pregnancy? Int J Mol Sci. 2026;27(14):6100（PMID: 42511447、DOI: 10.3390/ijms27146100、PMCID: PMC13412096）（PMID: 42512769、DOI: 10.3390/medicina62071226、PMCID: PMC13413515、https://pmc.ncbi.nlm.nih.gov/articles/PMC13413515/）。裏づける部分：主候補で、2023 ACR/EULAR 分類基準の臨床ドメインとして大血管（macrovascular）・微小血管・産科・心臓弁膜・血液学的の各領域が挙げられ、検査側ではループスアンチコアグラントと ELISA による抗カルジオリピン抗体・抗β2グリコプロテインI抗体が用いられることを確認。補助候補では、重み付きの半定量スコアリングと血清学的ドメインの再定義が 2023 基準の要点であることを確認。数値の照合：数値なし（ドメイン構成のカード）。留保：カードは大血管を静脈血栓塞栓と動脈血栓の2ドメインに分けて6ドメインとするが、主候補は大血管を1つのまとまりとして列挙する。各項目の重み（1〜7点）の内訳は両候補とも未確認。主出典 SRC-2665 は現行 RESTRICTED が正しい'
   uncertainty: 第40回で登録済みの出典（SRC-2665）を再利用した。入口基準と検証コホートでの性能は第40回 HS-034（血栓形成傾向としての側面）で作成済みであり、本カードは全身性疾患としてのドメイン構成に限る。分類基準であり診断基準そのものではない。産科的側面は RP が正である。内容は抄録で確認した。
   curriculum:
     kokushi: 医学各論 Ⅺ-2-C-⑥（抗リン脂質抗体症候群、b）
@@ -631,6 +688,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ61 2026-11-14）。三原の承認（2026-11-11）による
 - id: CT-019
   domain: CT
   subdomain: 抗リン脂質抗体症候群
@@ -685,8 +745,8 @@
     url: null
     source_license: J Rheumatol（CC表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ61 2026-11-14）：Compeyrot-Lacassagne S, Beesley RP, Bray L, et al.; British Society for Rheumatology Guideline Steering Group. Holistic management of juvenile idiopathic arthritis across all ages: British Society for Rheumatology Guideline scope. Rheumatol Adv Pract. 2026;10(2):rkag052 補助：Rygg M, Ramos FO, Nordal EB. What have we learned from long-term studies in juvenile idiopathic arthritis? - Prediction, classification, transition. Pediatr Rheumatol. 2025;23(1):18（PMID: 39972461、DOI: 10.1186/s12969-025-01070-x、PMCID: PMC11841258）（PMID: 42256795、DOI: 10.1093/rap/rkag052、PMCID: PMC13235788、https://pmc.ncbi.nlm.nih.gov/articles/PMC13235788/）。裏づける部分：主候補で、ILAR 分類が7つのカテゴリー（全身型、少関節炎型（持続型・進展型）、リウマトイド因子陰性多関節炎型、リウマトイド因子陽性多関節炎型、乾癬性関節炎型、付着部炎関連関節炎型、分類不能関節炎型）からなることが実名で列挙されていることを確認。補助候補でも ILAR 分類が7カテゴリーに分けることが明記されている。数値の照合：数値なし（分類構成のカード）。留保：16歳未満発症・6週間以上持続という定義の部分は両候補では再掲されていない。主出典 SRC-2916 の区分訂正は別枠の節に分離した'
   uncertainty: DOI は Europe PMC・Crossref で確認できなかったため null とした。PRINTO による ILAR 分類の改訂作業が進行中だが、確定した新しい分類基準はまだない。内容は抄録で確認した。
   curriculum:
     kokushi: 医学各論 Ⅺ-5-A-②（若年性特発性関節炎<JIA>、b）
@@ -701,6 +761,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2916 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ61 2026-11-14）。三原の承認（2026-11-11）による
 - id: CT-021
   domain: CT
   subdomain: 若年性特発性関節炎<JIA>
@@ -721,7 +787,7 @@
     source_license: CC BY-NC-ND（抄録末尾の権利表示で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ61 2026-11-14）：Baldo F, Erkens RGA, Mizuta M, et al. Current treatment in macrophage activation syndrome worldwide: a systematic literature review to inform the METAPHOR project. Rheumatology. 2025;64(1):32-44（PMID: 39058514、DOI: 10.1093/rheumatology/keae391、PMCID: PMC11701305、https://pmc.ncbi.nlm.nih.gov/articles/PMC11701305/）。裏づける部分：候補（METAPHOR プロジェクトのための世界規模の系統的レビュー、CC BY）で、全身型若年性特発性関節炎に伴うマクロファージ活性化症候群の治療として、高用量の糖質コルチコイド（パルス療法が研究の約6割）、シクロスポリン、IL-1 阻害薬（アナキンラ、179例）、インターフェロンγ阻害薬（エマパルマブ、全身型若年性特発性関節炎の試験）が実際に用いられていることが整理されており、カードの4つの治療要素がすべて含まれていることを確認。数値の照合：数値なし（治療要素のカード）。留保：候補は実臨床の治療実態の整理であり、EULAR/PReS 推奨の文言そのものの再掲ではない。主出典 SRC-2905 は CC BY-NC-ND で現行 RESTRICTED が正しい'
   uncertainty: 登録時の決定により、若年性特発性関節炎に伴うマクロファージ活性化症候群の全身管理は CT の範囲とし、血球貪食性リンパ組織球症の本体は第39回（LY）で作成済みのため作り直していない。IL-1 阻害薬のカナキヌマブは全身型若年性特発性関節炎の適応で国内承認・保険適用がある。インターフェロンγ阻害薬（エマパルマブ）の国内適応は原発性血球貪食性リンパ組織球症の側にあり、マクロファージ活性化症候群への適応は未確認。内容は抄録で確認した。
   curriculum:
     kokushi: 医学各論 Ⅺ-5-A-②（若年性特発性関節炎<JIA>、b）
@@ -736,3 +802,6 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/43_im_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ61 2026-11-14）。三原の承認（2026-11-11）による

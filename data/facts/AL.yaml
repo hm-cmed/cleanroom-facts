@@ -18,7 +18,7 @@
     source_license: CC BY-NC-ND 4.0（Europe PMC で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ60 2026-11-14）：Abrams EM, Alqurashi W, Fischer DA, Vander Leek TK, Ellis AK. Anaphylaxis. Allergy Asthma Clin Immunol. 2024;20(Suppl 3):62（PMID: 39654057、DOI: 10.1186/s13223-024-00926-3、PMCID: PMC11629490、https://pmc.ncbi.nlm.nih.gov/articles/PMC11629490/）。裏づける部分：Table 3 に WAO 2020 診断基準を明記。基準1（皮膚・粘膜症状＋呼吸障害／血圧低下・末梢臓器症状／重度消化器症状）と基準2（既知・可能性の高いアレルゲン曝露後の急性低血圧・気管支攣縮・喉頭症状、皮膚症状なしでも可）の両方を確認。数値の照合：数値なし（基準の定性的主張）。留保：主出典 SRC-2811 は CC BY-NC-ND で現行 RESTRICTED が正しい'
   uncertainty: 診断基準は WAO ガイダンス2020の本文（PMC 全文）で確認した。日本アレルギー学会『アナフィラキシーガイドライン2022』は WAO 2020 に準拠した改訂版だが、原典の書誌詳細は未確認のため出典にはしていない。
   curriculum:
     kokushi: 医学各論 Ⅺ-1-A-①（アナフィラキシー、a）
@@ -33,6 +33,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/42_im_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ60 2026-11-14）。三原の承認（2026-11-11）による
 - id: AL-002
   domain: AL
   subdomain: アナフィラキシー
@@ -52,8 +55,8 @@
     url: https://doi.org/10.1111/all.15032
     source_license: 未確認（Crossref は Wiley の利用条件のみ）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ60 2026-11-14）：Abrams EM, Alqurashi W, Fischer DA, Vander Leek TK, Ellis AK. Anaphylaxis. Allergy Asthma Clin Immunol. 2024;20(Suppl 3):62（PMID: 39654057、DOI: 10.1186/s13223-024-00926-3、PMCID: PMC11629490、https://pmc.ncbi.nlm.nih.gov/articles/PMC11629490/）。裏づける部分：アドレナリン筋注（大腿外側）が第一選択治療であること、診断は臨床基準によること、アドレナリン自己注射器の処方と患者・介護者への教育、個別の緊急行動計画の提供を確認。数値の照合：数値なし。留保：発症後にトリプターゼ測定のための採血を行う点は候補では未確認（EAACI 固有の推奨）。主出典 SRC-2812 の区分訂正は別枠の節に分離した'
   uncertainty: アドレナリン自己注射薬（エピペン）は国内で承認され保険適用がある（PMDA 添付文書で確認。推奨用量は 0.01 mg/kg で、0.15mg製剤は体重15〜30kg、0.3mg製剤は30kg以上）。
   curriculum:
     kokushi: 医学各論 Ⅺ-1-A-①（アナフィラキシー、a）
@@ -68,6 +71,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/42_im_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2812 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ60 2026-11-14）。三原の承認（2026-11-11）による
 - id: AL-003
   domain: AL
   subdomain: アナフィラキシー
@@ -122,8 +131,8 @@
     url: https://doi.org/10.1111/all.12350
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ60 2026-11-14）：Warrington R, Silviu-Dan F, Wong T. Drug allergy. Allergy Asthma Clin Immunol. 2018;14(Suppl 2):60（PMID: 30275849、DOI: 10.1186/s13223-018-0289-y、PMCID: PMC6157123、https://pmc.ncbi.nlm.nih.gov/articles/PMC6157123/）。裏づける部分：薬物アレルギーは免疫介在性の反応であり、免疫特異性を欠く非アレルギー性（pseudoallergic）反応と区別されるという大別と、アレルギーと分類されることでより効果が低く毒性が高く高価な代替薬が使われることを確認。数値の照合：数値なし。留保：過小診断と過大診断の双方が多いという点は候補では未確認。主出典 SRC-2814 の区分訂正は別枠の節に分離した'
   uncertainty: 国際コンセンサス（ICON）の抄録で確認した範囲に限る。薬物アレルギーの practice parameter（Khan 2022）は抄録が公開されておらず本文を確認できないため、出典にはしていない。
   curriculum:
     kokushi: 医学各論 Ⅺ-1-A-②（薬物アレルギー、a）
@@ -138,6 +147,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/42_im_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2814 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ60 2026-11-14）。三原の承認（2026-11-11）による
 - id: AL-005
   domain: AL
   subdomain: 薬物アレルギー
@@ -157,8 +172,8 @@
     url: https://doi.org/10.1001/jama.2018.19283
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ60 2026-11-14）：Centers for Disease Control and Prevention. Clinical Features of Penicillin Allergy. CDC ウェブページ（Antibiotic Prescribing and Use）. 2025-08-25 更新（https://www.cdc.gov/antibiotic-use/hcp/clinical-signs/index.html）。裏づける部分：ペニシリンアレルギーの申告が米国患者の約10%にみられること、臨床評価では真にアレルギーの者は1%未満であること、IgE 介在性アレルギーは時間とともに減衰し耐性化しうることを確認。数値の照合：申告10%は一致。カードの「臨床的に有意な過敏症は5%未満」に対し候補は「申告を評価すると真のアレルギーは1%未満」で分母・定義が異なり厳密には一致しない。「10年後に約80%が耐性化」は候補では定性表現のみで数値は未確認。交差反応性約2%は候補に記載なし。留保：主出典 SRC-2815 の区分訂正は別枠の節に分離した
   uncertainty: 数値は米国を対象とした総説の抄録に基づく。国内のペニシリンアレルギー申告の頻度は未確認。ペニシリン系・セファロスポリン系抗菌薬は国内承認薬である。
   curriculum:
     kokushi: 医学各論 Ⅺ-1-A-②（薬物アレルギー、a）
@@ -173,6 +188,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/42_im_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2815 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ60 2026-11-14）。三原の承認（2026-11-11）による
 - id: AL-006
   domain: AL
   subdomain: 食物アレルギー
@@ -228,7 +249,7 @@
     source_license: CC BY-NC 4.0（Crossref の license 欄で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ60 2026-11-14）：Rossi CM, et al. Innovative diagnostic techniques and their clinical implications in food allergy: current clinical practice and future perspectives. Front Allergy. 2026;7:1835353（PMID: 42358594、DOI: 10.3389/falgy.2026.1835353、PMCID: PMC13290556、https://pmc.ncbi.nlm.nih.gov/articles/PMC13290556/）。裏づける部分：診断は病歴・皮膚プリックテスト・特異的IgE・経口負荷試験によること、経口負荷試験が診断のゴールドスタンダードであること、コンポーネント診断（ピーナッツ Ara h 2、ヘーゼルナッツ Cor a 14、カシューナッツ Ana o 3 が実名で記載）を確認。数値の照合：数値なし。留保：主出典 SRC-2817 は CC BY-NC で現行 RESTRICTED が正しい'
   uncertainty: EAACI 診断ガイドラインの抄録で確認した範囲に限る。コンポーネント診断と好塩基球活性化試験の国内での保険適用の詳細は未確認。
   curriculum:
     kokushi: 医学各論 Ⅺ-1-A-③（食物アレルギー、a）
@@ -243,6 +264,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/42_im_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ60 2026-11-14）。三原の承認（2026-11-11）による
 - id: AL-008
   domain: AL
   subdomain: 食物アレルギー
@@ -262,8 +286,8 @@
     url: https://doi.org/10.1016/j.jaip.2022.06.008
     source_license: 未確認（Crossref は Elsevier の TDM ライセンスのみ）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ60 2026-11-14）：Srisuwatchari W, et al. Food-Dependent Exercise-Induced Anaphylaxis: A Distinct Form of Food Allergy-An Updated Review of Diagnostic Approaches and Treatments. Foods. 2023;12(20):3768（PMID: 37893663、DOI: 10.3390/foods12203768、PMCID: PMC10606284、https://pmc.ncbi.nlm.nih.gov/articles/PMC10606284/）。裏づける部分：原因食物の摂取に運動が加わって発症すること、小麦と甲殻類が最も多い原因食物であること、NSAIDs（アスピリン）が増強因子（cofactor）であることを確認。数値の照合：系統的レビューの固有値（722例、摂食から運動開始までの中央値1時間、運動開始から発症までの中央値30分、ほぼ全例が食後4時間以内に運動）は候補では未確認。留保：主出典 SRC-2818 の区分訂正は別枠の節に分離した'
   uncertainty: 数値は系統的レビューの抄録で確認した。国内の食物依存性運動誘発アナフィラキシーの頻度は未確認。増強因子として挙げたアスピリンは国内承認薬である。
   curriculum:
     kokushi: 医学各論 Ⅺ-1-A-③（食物アレルギー、a）
@@ -278,6 +302,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/42_im_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2818 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ60 2026-11-14）。三原の承認（2026-11-11）による
 - id: AL-009
   domain: AL
   subdomain: 職業性アレルギー
@@ -297,8 +327,8 @@
     url: https://doi.org/10.1056/NEJMra1301758
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ60 2026-11-14）：Centers for Disease Control and Prevention (NIOSH). Work-Related Asthma: Information for Clinicians. CDC ウェブページ（https://www.cdc.gov/niosh/asthma/hcp/clinical-guidance/）。裏づける部分：NIOSH の臨床家向けページで、職業性喘息は職場での曝露によって引き起こされる新規発症の喘息と定義され、職場で悪化する既存の喘息（work-exacerbated asthma）と区別されることが明記されており、カードの定義（職場での曝露に起因し、職場外の原因によらない）と実質一致する。数値の照合：数値なし（定義のカード）。留保：主出典 SRC-2819 の区分訂正は別枠の節に分離した'
   uncertainty: 一次資料は職業性喘息に関する総説で、抄録で確認できるのは定義の範囲に限られる。ラテックス・実験動物抗原・酵素など職業性アレルギー全般を扱う一次資料は弱く、本カードは職業性喘息の定義と位置づけに留めた。
   curriculum:
     kokushi: 医学各論 Ⅺ-1-A-④（職業性アレルギー、b）
@@ -313,6 +343,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/42_im_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2819 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ60 2026-11-14）。三原の承認（2026-11-11）による
 - id: AL-010
   domain: AL
   subdomain: 血清病
@@ -367,8 +403,8 @@
     url: https://doi.org/10.1111/all.13262
     source_license: 未確認（Crossref は Wiley の利用条件のみ）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ60 2026-11-14）：Ueberschaar S, Trautmann A, Stoevesandt J. Declining venom immunotherapy: patient characteristics and clinical outcomes. Allergy Asthma Clin Immunol. 2026;22(1):38 補助：Panzera C, Gangemi S, Ricciardi L. Five-Year Real-World Outcomes of Hymenoptera Venom Immunotherapy: Clinical Effectiveness and Immunological Modifications. Toxins. 2026;18(4):187（PMID: 42043051、DOI: 10.3390/toxins18040187、PMCID: PMC13120408）（PMID: 42298678、DOI: 10.1186/s13223-026-01046-w、PMCID: PMC13270586、https://pmc.ncbi.nlm.nih.gov/articles/PMC13270586/）。裏づける部分：主候補で、刺傷を受けた成人の最大7.5%がアナフィラキシーを発症すること、毒液免疫療法が将来の全身性刺傷反応を予防すること、アドレナリン自己注射器を含む緊急キットが提供されることを確認。補助候補は「毒液免疫療法は重篤な全身反応を予防できる唯一の治療」と明記している。数値の照合：成人の最大7.5%は主候補と一致する。小児の最大3.4%は自由全文では未確認。留保：主出典 SRC-2821 の区分訂正は別枠の節に分離した'
   uncertainty: EAACI ガイドラインの抄録で確認した範囲に限る。ハチ毒免疫療法の国内での実施体制と保険適用は未確認。アドレナリン自己注射薬は国内承認・保険適用あり（PMDA 添付文書で確認）。ダニ舌下免疫療法薬は国内でアレルギー性鼻炎への減感作療法として承認されているが（添付文書で確認）、鼻炎の側面は本回パートBの範囲と接するため本カードでは扱っていない。
   curriculum:
     kokushi: 医学各論 Ⅺ-1-A-⑥（昆虫・ダニアレルギー、c）
@@ -383,6 +419,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/42_im_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2821 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ60 2026-11-14）。三原の承認（2026-11-11）による
 - id: AL-012
   domain: AL
   subdomain: アレルギーの機序
@@ -438,7 +480,7 @@
     source_license: CC BY-NC-ND 4.0（Europe PMC の license 表示で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ60 2026-11-14）：Bruschi G, et al. Vernal Keratoconjunctivitis: A Systematic Review. Clin Rev Allergy Immunol. 2023;65(2):277-329（PMID: 37658939、DOI: 10.1007/s12016-023-08970-4、PMCID: PMC10567967、https://pmc.ncbi.nlm.nih.gov/articles/PMC10567967/）。裏づける部分：眼アレルギーの亜型として、カードの4疾患（アレルギー性結膜炎、春季カタル、アトピー性角結膜炎、巨大乳頭結膜炎）がすべて含まれ、I型・IgE 介在性の結膜の炎症性疾患群であることを確認。数値の照合：数値なし。留保：候補の分類は6亜型（季節性と通年性を分け、接触性眼瞼結膜炎を含む）で、日本のガイドラインの4分類とは枠組みが異なるため部分裏づけにとどまる。主出典 SRC-2823 は CC BY-NC-ND で現行 RESTRICTED が正しい'
   uncertainty: 眼局所の病像と治療の詳細は臓器側（第25回）で作成済みのため、本カードは定義と分類に絞った。出典論文は『アレルギー性結膜疾患診療ガイドライン2019』に基づくもので、国内書籍の第3版の書誌詳細は未確認。
   curriculum:
     kokushi: 医学各論 Ⅺ-1-B-①（アレルギー性結膜炎、a）
@@ -453,6 +495,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/42_im_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ60 2026-11-14）。三原の承認（2026-11-11）による
 - id: AL-014
   domain: AL
   subdomain: 鼻アレルギー
@@ -472,7 +517,7 @@
     url: https://doi.org/10.1016/j.anl.2025.05.005
     source_license: CC 表示なし（Crossref の license 欄は Elsevier の TDM 条件のみ）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は2024年版（第10版）の英語ダイジェストで、本体は日本アレルギー学会の書籍である。オマリズマブ（抗IgE抗体）は季節性アレルギー性鼻炎（既存治療で効果不十分な重症又は最重症患者に限る）の効能・効果で国内承認済みであることを PMDA の審査報告書で確認した。既存の SRC-1373 は2020年版で旧版のため使用していない。
   curriculum:
@@ -488,6 +533,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/42_im_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2824 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: AL-015
   domain: AL
   subdomain: 鼻アレルギー
@@ -508,7 +556,7 @@
     source_license: 未確認（日本語誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（GOV_JP、作り手の調査バッチ60 2026-11-14）：環境省. 花粉症環境保健マニュアル2022. 環境省環境保健部環境安全課. 2022年3月改訂 補助：Uchida K, Iida K, Fujioka I, Hachimura S, Kaminuma O. Suppressive Effect of Lactococcus lactis subsp. cremoris YRC3780 on a Murine Model of Japanese Cedar Pollinosis. Pathogens. 2022;11(11):1347（PMID: 36422599、DOI: 10.3390/pathogens11111347、PMCID: PMC9698324）（https://www.env.go.jp/content/900406385.pdf）。裏づける部分：主候補（環境省マニュアル2022）で、2019年のスギ花粉症有病率38.8%を確認した。補助候補の序文にも2019年のスギ花粉症38.8%の記載がある。数値の照合：38.8%は主候補・補助候補の双方と一致する。留保：主出典 SRC-2825 は NL-022 と同一出典で、DOI 補完候補と区分訂正は申し送り・別枠に分離した（バッチ59 と同一内容）'
   uncertainty: 数値は原著（日本語誌）を引用する論文の抄録経由で確認したもので、原著そのものは未入手である。有病率は2019年の調査時点の値。
   curriculum:
     kokushi: 医学各論 Ⅺ-1-B-②（鼻アレルギー<アレルギー性鼻炎>、a）
@@ -526,6 +574,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: 出典 SRC-2825 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP、作り手の調査バッチ60 2026-11-14）。三原の承認（2026-11-11）による
 - id: AL-016
   domain: AL
   subdomain: 花粉症
@@ -545,8 +596,8 @@
     url: https://doi.org/10.1016/j.anai.2019.07.022
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ60 2026-11-14）：Marzec A, et al. Pollen-Food Allergy Syndrome in Children: Global Prevalence and Pathogenesis. Nutrients. 2026;18(14):2246（PMID: 42514315、DOI: 10.3390/nu18142246、PMCID: PMC13414526、https://pmc.ncbi.nlm.nih.gov/articles/PMC13414526/）。裏づける部分：原因タンパクが不安定なため反応は通常は口腔咽頭に限局すること、全身反応（呼吸器・消化器症状、まれにアナフィラキシー）が起こりうることを確認。数値の照合：アナフィラキシーが「反応の最大1.7%」という固有値は候補では未確認（候補は「まれに」と定性表現にとどまる）。留保：主出典 SRC-2826 の区分訂正は別枠の節に分離した'
   uncertainty: 有病率の報告幅（小児4.7〜20%超、成人13〜58%）は出典の総説が集約した報告の範囲で、対象集団により異なる。国内の花粉症患者における割合はこの出典では確認していない。
   curriculum:
     kokushi: 医学各論 Ⅺ-1-B-③（花粉症、a）
@@ -561,6 +612,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/42_im_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2826 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ60 2026-11-14）。三原の承認（2026-11-11）による
 - id: AL-017
   domain: AL
   subdomain: 蕁麻疹
@@ -581,7 +638,7 @@
     source_license: CC BY-NC 4.0（出典マスター登録どおり）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ60 2026-11-14）：Zuberbier T, et al. The International Guideline for the Definition, Classification, Diagnosis and Management of Urticaria. Allergy. 2026;81(8):2582-2632（PMID: 41649409、DOI: 10.1111/all.70210、PMCID: PMC13466004、https://pmc.ncbi.nlm.nih.gov/articles/PMC13466004/）。裏づける部分：候補の定義文がカードとほぼ逐語で一致する（肥満細胞駆動性の疾患で、膨疹、血管性浮腫、またはその両方を呈する。急性蕁麻疹の生涯有病率は約20%）ことを確認。数値の照合：急性蕁麻疹の生涯有病率 約20%は候補と一致する。留保：候補は主出典（2022年版国際ガイドライン）の後継版（2026年版）で CC BY である。主出典 SRC-1077 は CC BY-NC で現行 RESTRICTED が正しい。版の更新はフラグに挙げた'
   uncertainty: 皮膚症状としての病像は臓器側（第23回）で作成済みのため、本カードは国際ガイドラインによる定義・分類の総論に絞った。国内ガイドラインは日本皮膚科学会の2026年版（第4版）が現行で、国際ガイドラインとは別である。
   curriculum:
     kokushi: 医学各論 Ⅺ-1-B-④（蕁麻疹、a）
@@ -596,6 +653,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/42_im_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ60 2026-11-14）。三原の承認（2026-11-11）による
 - id: AL-018
   domain: AL
   subdomain: 蕁麻疹
@@ -686,7 +746,7 @@
     source_license: CC BY-NC 4.0（Crossref の license 欄で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ60 2026-11-14）：Liotti L, et al. Pediatric Angioedema without Wheals: How to Guide the Diagnosis. Life. 2023;13(4):1021（PMID: 37109550、DOI: 10.3390/life13041021、PMCID: PMC10141554、https://pmc.ncbi.nlm.nih.gov/articles/PMC10141554/）。裏づける部分：膨疹を伴わない血管性浮腫について、肥満細胞（ヒスタミン）介在性とブラジキニン介在性の区別が診断・治療選択の要であること、原因が特定できない特発性（機序不明）の群があることを確認。数値の照合：数値なし。留保：候補は小児対象の総説で、3群分類の枠組みは主出典（スペイン Delphi コンセンサス）と実質一致するが表現は同一ではない。主出典 SRC-2828 は CC BY-NC で現行 RESTRICTED が正しい'
   uncertainty: 分類はスペインの専門家パネルによる Delphi コンセンサスに基づく。遺伝性血管性浮腫の本体は第45回（ID）で扱うため、本カードは分類の総論に留める。
   curriculum:
     kokushi: 医学各論 Ⅺ-1-B-⑦（血管性浮腫、a）
@@ -701,6 +761,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/42_im_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ60 2026-11-14）。三原の承認（2026-11-11）による
 - id: AL-021
   domain: AL
   subdomain: 血管性浮腫
@@ -720,8 +783,8 @@
     url: https://doi.org/10.1016/j.anai.2022.08.003
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ60 2026-11-14）：Liotti L, et al. Pediatric Angioedema without Wheals: How to Guide the Diagnosis. Life. 2023;13(4):1021 補助：Johnson F, Hofauer B. Unraveling angioedema: diagnostic challenges and emerging therapies. Front Immunol. 2025;16:1681763（PMID: 41103407、DOI: 10.3389/fimmu.2025.1681763、PMCID: PMC12521201）（PMID: 37109550、DOI: 10.3390/life13041021、PMCID: PMC10141554、https://pmc.ncbi.nlm.nih.gov/articles/PMC10141554/）。裏づける部分：両候補で、鑑別項目として遺伝性血管性浮腫（C1-INH 欠損・機能低下＝I型・II型、および補体正常型）、後天性血管性浮腫（C1-INH 欠損）、ACE 阻害薬誘発性血管性浮腫、ヒスタミン性・非ヒスタミン性の特発性血管性浮腫を確認。数値の照合：数値なし。留保：主出典 SRC-2829 の区分訂正は別枠の節に分離した'
   uncertainty: ACE 阻害薬は薬効群としての言及に留め、個別製剤の国内承認・保険適用の確認は本カードでは行っていない。遺伝性血管性浮腫の診断・治療の本体は第45回（ID）で扱う。出典は総説で、ライセンスは未確認。
   curriculum:
     kokushi: 医学各論 Ⅺ-1-B-⑦（血管性浮腫、a）
@@ -736,6 +799,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/42_im_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2829 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ60 2026-11-14）。三原の承認（2026-11-11）による
 - id: AL-022
   domain: AL
   subdomain: アレルギー性気管支肺真菌症
@@ -756,7 +825,7 @@
     source_license: CC BY-NC 4.0（Europe PMC の license 表示で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ60 2026-11-14）：Afonso AR, et al. Impact of allergic bronchopulmonary aspergillosis overlap in chronic pulmonary aspergillosis. ERJ Open Res. 2026;12(5):01540-2025（PMID: 42769813、DOI: 10.1183/23120541.01540-2025、PMCID: PMC13591302、https://pmc.ncbi.nlm.nih.gov/articles/PMC13591302/）。裏づける部分：2024年改訂 ISHAM 基準の再掲として、素因または適合する臨床像に加え、総 IgE と A. fumigatus 特異的 IgE による真菌感作の証明、さらに真菌特異的 IgG・末梢血好酸球増多・示唆的な画像所見のうち2つ、という診断の構成を確認。数値の照合：候補は総 IgE を「>500 IU/mL」と表記するが、原典 ISHAM 2024 は「≥500 IU/mL」で、カードの「500 IU/mL 以上」と一致する（原典抄録で確認。抄録は数値の食い違い確認にのみ使用）。留保：主出典 SRC-426 は CC BY-NC（Crossref・Europe PMC で個別確認）で、マスターの現行 RESTRICTED が正しい。マスターで PMID・PMCID が null のため補完候補を申し送りに記録した。カード側 provenance の source_class（UNKNOWN）はマスターと不整合（フラグ参照）'
   uncertainty: 出典マスター（SRC-426）では PMID が未登録で source_class は UNKNOWN のため、確認済みの PMID 38423624 の補完と、CC BY-NC 4.0 に基づく RESTRICTED への変更を提案する。基準値（総 IgE 500 IU/mL 以上）は抄録で確認した。急性期治療の詳細は本カードでは扱わない。
   curriculum:
     kokushi: 医学各論 Ⅺ-1-C-②（アレルギー性気管支肺真菌症、b）
@@ -771,6 +840,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/42_im_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ60 2026-11-14）。三原の承認（2026-11-11）による
 - id: AL-023
   domain: AL
   subdomain: 過敏性肺炎
@@ -791,7 +863,7 @@
     source_license: CC BY-NC-ND 4.0（Crossref の license 欄で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ60 2026-11-14）：Bridi GDP, et al. Current concepts in the diagnosis and treatment of hypersensitivity pneumonitis: a narrative review. Respir Res Clin Pract. 2026;52(2):e20250394（PMID: 42781417、DOI: 10.36416/1806-3756/e20250394、PMCID: PMC13598884、https://pmc.ncbi.nlm.nih.gov/articles/PMC13598884/）。裏づける部分：過敏性肺炎が非線維性と線維性の2表現型に分類されること、ATS/JRS/ALAT 2020 ガイドラインに基づく診断アプローチに気管支肺胞洗浄液（BAL）のリンパ球解析が含まれることを確認。数値の照合：数値なし。留保：「非線維性では BAL リンパ球解析が推奨され、曝露抗原同定のための血清 IgG 検査が提案される」という推奨の強さの区別と血清 IgG 検査は候補では未確認。主出典 SRC-424 は CC BY-NC（Europe PMC）／CC BY-NC-ND（Crossref）で NC 系のため、マスターの現行 RESTRICTED が正しい。マスターで DOI・PMID・PMCID が null のため補完候補を申し送りに記録した。カード側 provenance の source_class（UNKNOWN）はマスターと不整合（フラグ参照）'
   uncertainty: 出典マスター（SRC-424）では DOI・PMID が未登録で source_class は UNKNOWN のため、確認済みの DOI・PMID の補完と、CC BY-NC-ND 4.0 に基づく RESTRICTED への変更を提案する。国内では日本呼吸器学会『過敏性肺炎診療指針2022』も存在する。肺病変の詳細は呼吸器側を正とする。
   curriculum:
     kokushi: 医学各論 Ⅺ-1-C-③（過敏性肺炎、b）
@@ -806,3 +878,6 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/42_im_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ60 2026-11-14）。三原の承認（2026-11-11）による

@@ -64,7 +64,7 @@
 
 - 条件：region: 日本／対象: 成人Still病が疑われる患者
 - 不確実性：抄録で確認した。DOI は PubMed・Crossref で確認できなかったため null とした。分類には感染症・悪性腫瘍・他の膠原病の除外が必要とされる。指定難病54の診断基準もこの分類基準に基づく。
-- 出典：Yamaguchi M, Ohta A, Tsunematsu T, et al. Preliminary criteria for classification of adult Still's disease. J Rheumatol. 1992;19(3):424-430　[PMID 1578458](https://pubmed.ncbi.nlm.nih.gov/1578458/)（区分 UNKNOWN）
+- 出典：Yamaguchi M, Ohta A, Tsunematsu T, et al. Preliminary criteria for classification of adult Still's disease. J Rheumatol. 1992;19(3):424-430　[PMID 1578458](https://pubmed.ncbi.nlm.nih.gov/1578458/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-A-③（成人Still病、b）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-01-03-28 (id: JkxnuM0)；TBL-01-00-559 (id: JmxLo0c)；TBL-02-17-001 (id: JlAKp1U)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CT-005&card_id=CT-005&version=f8102a3a3b)　（版 `f8102a3a3b`）
 
@@ -90,7 +90,7 @@
 
 - 条件：region: 国際／対象: 全身性エリテマトーデスが疑われる患者
 - 不確実性：分類基準であり診断基準そのものではない。同一内容が Ann Rheum Dis（DOI 10.1136/annrheumdis-2018-214819）にも掲載された二誌同時掲載で、本カードは Arthritis & Rheumatology 版の書誌に統一した。腎炎の側面は GN が正である。数値は抄録で確認した。
-- 出典：Aringer M, Costenbader K, Daikh D, et al. 2019 European League Against Rheumatism/American College of Rheumatology Classification Criteria for Systemic Lupus Erythematosus. Arthritis Rheumatol. 2019;71(9):1400-1412　[DOI 10.1002/art.40930](https://doi.org/10.1002/art.40930)　[PMID 31385462](https://pubmed.ncbi.nlm.nih.gov/31385462/)（区分 UNKNOWN）
+- 出典：Aringer M, Costenbader K, Daikh D, et al. 2019 European League Against Rheumatism/American College of Rheumatology Classification Criteria for Systemic Lupus Erythematosus. Arthritis Rheumatol. 2019;71(9):1400-1412　[DOI 10.1002/art.40930](https://doi.org/10.1002/art.40930)　[PMID 31385462](https://pubmed.ncbi.nlm.nih.gov/31385462/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-C-①（全身性エリテマトーデス<SLE>、a）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-03-02-03 (id: JnGUA2g)；TBL-01-00-560 (id: JmxLo0g)；TBL-02-17-010 (id: JnNn_eY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CT-007&card_id=CT-007&version=f7143f7f91)　（版 `f7143f7f91`）
 
@@ -100,7 +100,7 @@
 
 - 条件：region: 欧州／対象: 全身性エリテマトーデスの患者
 - 不確実性：ベリムマブとアニフロルマブは「既存治療で効果不十分な全身性エリテマトーデス」の適応で国内承認・保険適用がある。ヒドロキシクロロキンの全身性エリテマトーデスに対する国内承認の書誌的事項は本パートでは未確認。ループス腎炎の治療の詳細は GN が正で、本カードは非腎性の全身像と治療原則に限る。内容は抄録で確認した。
-- 出典：Fanouriakis A, Kostopoulou M, Andersen J, et al. EULAR recommendations for the management of systemic lupus erythematosus: 2023 update. Ann Rheum Dis. 2024;83(1):15-29　[DOI 10.1136/ard-2023-224762](https://doi.org/10.1136/ard-2023-224762)　[PMID 37827694](https://pubmed.ncbi.nlm.nih.gov/37827694/)（区分 UNKNOWN）
+- 出典：Fanouriakis A, Kostopoulou M, Andersen J, et al. EULAR recommendations for the management of systemic lupus erythematosus: 2023 update. Ann Rheum Dis. 2024;83(1):15-29　[DOI 10.1136/ard-2023-224762](https://doi.org/10.1136/ard-2023-224762)　[PMID 37827694](https://pubmed.ncbi.nlm.nih.gov/37827694/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-C-①（全身性エリテマトーデス<SLE>、a）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-03-02-03 (id: JnGUA2g)；TBL-01-00-560 (id: JmxLo0g)；TBL-02-17-010 (id: JnNn_eY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CT-008&card_id=CT-008&version=7fd6b8a98a)　（版 `7fd6b8a98a`）
 
@@ -110,7 +110,7 @@
 
 - 条件：region: 国際／対象: 活動性全身性エリテマトーデスの患者
 - 不確実性：アニフロルマブは I 型インターフェロン受容体拮抗薬で、2021年に「既存治療で効果不十分な全身性エリテマトーデス」の適応で国内承認・保険適用を取得した（300 mg を4週間隔で点滴静注）。数値は抄録で確認した。
-- 出典：Morand EF, Furie R, Tanaka Y, et al. Trial of Anifrolumab in Active Systemic Lupus Erythematosus (TULIP-2). N Engl J Med. 2020;382(3):211-221　[DOI 10.1056/NEJMoa1912196](https://doi.org/10.1056/NEJMoa1912196)　[PMID 31851795](https://pubmed.ncbi.nlm.nih.gov/31851795/)（区分 UNKNOWN）
+- 出典：Morand EF, Furie R, Tanaka Y, et al. Trial of Anifrolumab in Active Systemic Lupus Erythematosus (TULIP-2). N Engl J Med. 2020;382(3):211-221　[DOI 10.1056/NEJMoa1912196](https://doi.org/10.1056/NEJMoa1912196)　[PMID 31851795](https://pubmed.ncbi.nlm.nih.gov/31851795/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-C-①（全身性エリテマトーデス<SLE>、a）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-03-02-03 (id: JnGUA2g)；TBL-01-00-560 (id: JmxLo0g)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CT-009&card_id=CT-009&version=b5d6307e26)　（版 `b5d6307e26`）
 
@@ -126,7 +126,7 @@
 
 - 条件：region: 国際／対象: Sjögren症候群が疑われる患者
 - 不確実性：同一内容が Arthritis Rheumatol（DOI 10.1002/art.39859、CC BY-NC-ND）にも掲載された二誌同時掲載で、本カードは Ann Rheum Dis 版の書誌に統一した。分類基準であり診断基準そのものではない。腎病変の側面は登録済みの SRC-616 が補助であり本体にはしない。数値は抄録で確認した。
-- 出典：Shiboski CH, Shiboski SC, Seror R, et al. 2016 American College of Rheumatology/European League Against Rheumatism classification criteria for primary Sjögren's syndrome: A consensus and data-driven methodology involving three international patient cohorts. Ann Rheum Dis. 2017;76(1):9-16　[DOI 10.1136/annrheumdis-2016-210571](https://doi.org/10.1136/annrheumdis-2016-210571)　[PMID 27789466](https://pubmed.ncbi.nlm.nih.gov/27789466/)（区分 UNKNOWN）
+- 出典：Shiboski CH, Shiboski SC, Seror R, et al. 2016 American College of Rheumatology/European League Against Rheumatism classification criteria for primary Sjögren's syndrome: A consensus and data-driven methodology involving three international patient cohorts. Ann Rheum Dis. 2017;76(1):9-16　[DOI 10.1136/annrheumdis-2016-210571](https://doi.org/10.1136/annrheumdis-2016-210571)　[PMID 27789466](https://pubmed.ncbi.nlm.nih.gov/27789466/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-C-②（Sjögren症候群、a）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-03-02-03 (id: JnGUA2g)；TBL-01-00-564 (id: JmxLo00)；TBL-02-17-010 (id: JnNn_eY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CT-010&card_id=CT-010&version=3f07c10fdc)　（版 `3f07c10fdc`）
 
@@ -136,7 +136,7 @@
 
 - 条件：region: 日本／対象: Sjögren症候群が疑われる患者
 - 不確実性：国内基準は乾燥症状を項目に含むなど国際分類基準（CT-010）とは構成が異なり、指定難病53の診断基準の基盤になっている。国内の診療ガイドラインは日本リウマチ学会編の2025年版（診断と治療社、2025年5月発行）が現行で2017年版は旧版だが、書籍の本文は未照合のため本パートでは出典にしていない。数値は抄録で確認した。
-- 出典：Fujibayashi T, Sugai S, Miyasaka N, et al. Revised Japanese criteria for Sjögren's syndrome (1999): availability and validity. Mod Rheumatol. 2004;14(6):425-434　[DOI 10.3109/s10165-004-0338-x](https://doi.org/10.3109/s10165-004-0338-x)　[PMID 24387718](https://pubmed.ncbi.nlm.nih.gov/24387718/)（区分 UNKNOWN）
+- 出典：Fujibayashi T, Sugai S, Miyasaka N, et al. Revised Japanese criteria for Sjögren's syndrome (1999): availability and validity. Mod Rheumatol. 2004;14(6):425-434　[DOI 10.3109/s10165-004-0338-x](https://doi.org/10.3109/s10165-004-0338-x)　[PMID 24387718](https://pubmed.ncbi.nlm.nih.gov/24387718/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-C-②（Sjögren症候群、a）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-03-02-03 (id: JnGUA2g)；TBL-01-00-564 (id: JmxLo00)；TBL-02-17-010 (id: JnNn_eY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CT-011&card_id=CT-011&version=d707bc9642)　（版 `d707bc9642`）
 
@@ -152,7 +152,7 @@
 
 - 条件：region: 国際／対象: 全身性強皮症が疑われる患者
 - 不確実性：同一内容が Arthritis Rheum（DOI 10.1002/art.38098）にも掲載された二誌同時掲載で、本カードは Ann Rheum Dis 版の書誌に統一した。分類基準であり診断基準そのものではない。間質性肺疾患と強皮症腎クリーゼの側面は臓器側が正で、補助出典として SRC-419、SRC-610 が登録済みである。数値は抄録と PMC 全文で確認した。
-- 出典：van den Hoogen F, Khanna D, Fransen J, et al. 2013 classification criteria for systemic sclerosis: an American College of Rheumatology/European League against Rheumatism collaborative initiative. Ann Rheum Dis. 2013;72(11):1747-1755　[DOI 10.1136/annrheumdis-2013-204424](https://doi.org/10.1136/annrheumdis-2013-204424)　[PMID 24092682](https://pubmed.ncbi.nlm.nih.gov/24092682/)（区分 UNKNOWN）
+- 出典：van den Hoogen F, Khanna D, Fransen J, et al. 2013 classification criteria for systemic sclerosis: an American College of Rheumatology/European League against Rheumatism collaborative initiative. Ann Rheum Dis. 2013;72(11):1747-1755　[DOI 10.1136/annrheumdis-2013-204424](https://doi.org/10.1136/annrheumdis-2013-204424)　[PMID 24092682](https://pubmed.ncbi.nlm.nih.gov/24092682/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-C-③（全身性強皮症、a）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-03-02-03 (id: JnGUA2g)；TBL-01-00-561 (id: JmxLo0k)；TBL-02-17-010 (id: JnNn_eY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CT-012&card_id=CT-012&version=a664eda58a)　（版 `a664eda58a`）
 
@@ -188,7 +188,7 @@
 
 - 条件：region: 日本／対象: 膠原病の患者（抗 MDA5 抗体の同定研究の対象）
 - 不確実性：抗 MDA5 抗体（抗 CADM-140 抗体）の抗原同定の一次資料であり、数値は抄録で確認した。合併する間質性肺疾患の治療の詳細は呼吸器側が正である。
-- 出典：Sato S, Hoshino K, Satoh T, et al. RNA helicase encoded by melanoma differentiation-associated gene 5 is a major autoantigen in patients with clinically amyopathic dermatomyositis: Association with rapidly progressive interstitial lung disease. Arthritis Rheum. 2009;60(7):2193-2200　[DOI 10.1002/art.24621](https://doi.org/10.1002/art.24621)　[PMID 19565506](https://pubmed.ncbi.nlm.nih.gov/19565506/)（区分 UNKNOWN）
+- 出典：Sato S, Hoshino K, Satoh T, et al. RNA helicase encoded by melanoma differentiation-associated gene 5 is a major autoantigen in patients with clinically amyopathic dermatomyositis: Association with rapidly progressive interstitial lung disease. Arthritis Rheum. 2009;60(7):2193-2200　[DOI 10.1002/art.24621](https://doi.org/10.1002/art.24621)　[PMID 19565506](https://pubmed.ncbi.nlm.nih.gov/19565506/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-2-C-④（皮膚筋炎、多発性筋炎、a）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-03-02-03 (id: JnGUA2g)；TBL-01-00-562 (id: JmxLo0s)；TBL-02-17-010 (id: JnNn_eY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CT-015&card_id=CT-015&version=e098e9b538)　（版 `e098e9b538`）
 
@@ -256,7 +256,7 @@
 
 - 条件：region: 国際／対象: 小児（16歳未満発症）
 - 不確実性：DOI は Europe PMC・Crossref で確認できなかったため null とした。PRINTO による ILAR 分類の改訂作業が進行中だが、確定した新しい分類基準はまだない。内容は抄録で確認した。
-- 出典：Petty RE, Southwood TR, Manners P, et al.; International League of Associations for Rheumatology. International League of Associations for Rheumatology classification of juvenile idiopathic arthritis: second revision, Edmonton, 2001. J Rheumatol. 2004;31(2):390-392　[PMID 14760812](https://pubmed.ncbi.nlm.nih.gov/14760812/)（区分 UNKNOWN）
+- 出典：Petty RE, Southwood TR, Manners P, et al.; International League of Associations for Rheumatology. International League of Associations for Rheumatology classification of juvenile idiopathic arthritis: second revision, Edmonton, 2001. J Rheumatol. 2004;31(2):390-392　[PMID 14760812](https://pubmed.ncbi.nlm.nih.gov/14760812/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-5-A-②（若年性特発性関節炎<JIA>、b）　コアカリ：PS-03-02-05 (id: JnGUA2s)；PS-03-02-02 (id: JnGUA2Y)；TBL-01-00-559 (id: JmxLo0c)；TBL-02-17-009 (id: JlAKp10)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CT-020&card_id=CT-020&version=3c697e93ee)　（版 `3c697e93ee`）
 

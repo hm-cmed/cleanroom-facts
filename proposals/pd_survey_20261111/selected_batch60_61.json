@@ -1,0 +1,193 @@
+{
+ "A": [],
+ "B": [
+  {
+   "card": "AL-001",
+   "label": "OPEN、作り手の調査バッチ60 2026-11-14",
+   "text": "Abrams EM, Alqurashi W, Fischer DA, Vander Leek TK, Ellis AK. Anaphylaxis. Allergy Asthma Clin Immunol. 2024;20(Suppl 3):62（PMID: 39654057、DOI: 10.1186/s13223-024-00926-3、PMCID: PMC11629490、https://pmc.ncbi.nlm.nih.gov/articles/PMC11629490/）。裏づける部分：Table 3 に WAO 2020 診断基準を明記。基準1（皮膚・粘膜症状＋呼吸障害／血圧低下・末梢臓器症状／重度消化器症状）と基準2（既知・可能性の高いアレルゲン曝露後の急性低血圧・気管支攣縮・喉頭症状、皮膚症状なしでも可）の両方を確認。数値の照合：数値なし（基準の定性的主張）。留保：主出典 SRC-2811 は CC BY-NC-ND で現行 RESTRICTED が正しい"
+  },
+  {
+   "card": "AL-002",
+   "label": "OPEN、作り手の調査バッチ60 2026-11-14",
+   "text": "Abrams EM, Alqurashi W, Fischer DA, Vander Leek TK, Ellis AK. Anaphylaxis. Allergy Asthma Clin Immunol. 2024;20(Suppl 3):62（PMID: 39654057、DOI: 10.1186/s13223-024-00926-3、PMCID: PMC11629490、https://pmc.ncbi.nlm.nih.gov/articles/PMC11629490/）。裏づける部分：アドレナリン筋注（大腿外側）が第一選択治療であること、診断は臨床基準によること、アドレナリン自己注射器の処方と患者・介護者への教育、個別の緊急行動計画の提供を確認。数値の照合：数値なし。留保：発症後にトリプターゼ測定のための採血を行う点は候補では未確認（EAACI 固有の推奨）。主出典 SRC-2812 の区分訂正は別枠の節に分離した"
+  },
+  {
+   "card": "AL-004",
+   "label": "OPEN、作り手の調査バッチ60 2026-11-14",
+   "text": "Warrington R, Silviu-Dan F, Wong T. Drug allergy. Allergy Asthma Clin Immunol. 2018;14(Suppl 2):60（PMID: 30275849、DOI: 10.1186/s13223-018-0289-y、PMCID: PMC6157123、https://pmc.ncbi.nlm.nih.gov/articles/PMC6157123/）。裏づける部分：薬物アレルギーは免疫介在性の反応であり、免疫特異性を欠く非アレルギー性（pseudoallergic）反応と区別されるという大別と、アレルギーと分類されることでより効果が低く毒性が高く高価な代替薬が使われることを確認。数値の照合：数値なし。留保：過小診断と過大診断の双方が多いという点は候補では未確認。主出典 SRC-2814 の区分訂正は別枠の節に分離した"
+  },
+  {
+   "card": "AL-005",
+   "label": "GOV_US、作り手の調査バッチ60 2026-11-14",
+   "text": "Centers for Disease Control and Prevention. Clinical Features of Penicillin Allergy. CDC ウェブページ（Antibiotic Prescribing and Use）. 2025-08-25 更新（https://www.cdc.gov/antibiotic-use/hcp/clinical-signs/index.html）。裏づける部分：ペニシリンアレルギーの申告が米国患者の約10%にみられること、臨床評価では真にアレルギーの者は1%未満であること、IgE 介在性アレルギーは時間とともに減衰し耐性化しうることを確認。数値の照合：申告10%は一致。カードの「臨床的に有意な過敏症は5%未満」に対し候補は「申告を評価すると真のアレルギーは1%未満」で分母・定義が異なり厳密には一致しない。「10年後に約80%が耐性化」は候補では定性表現のみで数値は未確認。交差反応性約2%は候補に記載なし。留保：主出典 SRC-2815 の区分訂正は別枠の節に分離した"
+  },
+  {
+   "card": "AL-007",
+   "label": "OPEN、作り手の調査バッチ60 2026-11-14",
+   "text": "Rossi CM, et al. Innovative diagnostic techniques and their clinical implications in food allergy: current clinical practice and future perspectives. Front Allergy. 2026;7:1835353（PMID: 42358594、DOI: 10.3389/falgy.2026.1835353、PMCID: PMC13290556、https://pmc.ncbi.nlm.nih.gov/articles/PMC13290556/）。裏づける部分：診断は病歴・皮膚プリックテスト・特異的IgE・経口負荷試験によること、経口負荷試験が診断のゴールドスタンダードであること、コンポーネント診断（ピーナッツ Ara h 2、ヘーゼルナッツ Cor a 14、カシューナッツ Ana o 3 が実名で記載）を確認。数値の照合：数値なし。留保：主出典 SRC-2817 は CC BY-NC で現行 RESTRICTED が正しい"
+  },
+  {
+   "card": "AL-008",
+   "label": "OPEN、作り手の調査バッチ60 2026-11-14",
+   "text": "Srisuwatchari W, et al. Food-Dependent Exercise-Induced Anaphylaxis: A Distinct Form of Food Allergy-An Updated Review of Diagnostic Approaches and Treatments. Foods. 2023;12(20):3768（PMID: 37893663、DOI: 10.3390/foods12203768、PMCID: PMC10606284、https://pmc.ncbi.nlm.nih.gov/articles/PMC10606284/）。裏づける部分：原因食物の摂取に運動が加わって発症すること、小麦と甲殻類が最も多い原因食物であること、NSAIDs（アスピリン）が増強因子（cofactor）であることを確認。数値の照合：系統的レビューの固有値（722例、摂食から運動開始までの中央値1時間、運動開始から発症までの中央値30分、ほぼ全例が食後4時間以内に運動）は候補では未確認。留保：主出典 SRC-2818 の区分訂正は別枠の節に分離した"
+  },
+  {
+   "card": "AL-009",
+   "label": "GOV_US、作り手の調査バッチ60 2026-11-14",
+   "text": "Centers for Disease Control and Prevention (NIOSH). Work-Related Asthma: Information for Clinicians. CDC ウェブページ（https://www.cdc.gov/niosh/asthma/hcp/clinical-guidance/）。裏づける部分：NIOSH の臨床家向けページで、職業性喘息は職場での曝露によって引き起こされる新規発症の喘息と定義され、職場で悪化する既存の喘息（work-exacerbated asthma）と区別されることが明記されており、カードの定義（職場での曝露に起因し、職場外の原因によらない）と実質一致する。数値の照合：数値なし（定義のカード）。留保：主出典 SRC-2819 の区分訂正は別枠の節に分離した"
+  },
+  {
+   "card": "AL-011",
+   "label": "OPEN、作り手の調査バッチ60 2026-11-14",
+   "text": "Ueberschaar S, Trautmann A, Stoevesandt J. Declining venom immunotherapy: patient characteristics and clinical outcomes. Allergy Asthma Clin Immunol. 2026;22(1):38 補助：Panzera C, Gangemi S, Ricciardi L. Five-Year Real-World Outcomes of Hymenoptera Venom Immunotherapy: Clinical Effectiveness and Immunological Modifications. Toxins. 2026;18(4):187（PMID: 42043051、DOI: 10.3390/toxins18040187、PMCID: PMC13120408）（PMID: 42298678、DOI: 10.1186/s13223-026-01046-w、PMCID: PMC13270586、https://pmc.ncbi.nlm.nih.gov/articles/PMC13270586/）。裏づける部分：主候補で、刺傷を受けた成人の最大7.5%がアナフィラキシーを発症すること、毒液免疫療法が将来の全身性刺傷反応を予防すること、アドレナリン自己注射器を含む緊急キットが提供されることを確認。補助候補は「毒液免疫療法は重篤な全身反応を予防できる唯一の治療」と明記している。数値の照合：成人の最大7.5%は主候補と一致する。小児の最大3.4%は自由全文では未確認。留保：主出典 SRC-2821 の区分訂正は別枠の節に分離した"
+  },
+  {
+   "card": "AL-013",
+   "label": "OPEN、作り手の調査バッチ60 2026-11-14",
+   "text": "Bruschi G, et al. Vernal Keratoconjunctivitis: A Systematic Review. Clin Rev Allergy Immunol. 2023;65(2):277-329（PMID: 37658939、DOI: 10.1007/s12016-023-08970-4、PMCID: PMC10567967、https://pmc.ncbi.nlm.nih.gov/articles/PMC10567967/）。裏づける部分：眼アレルギーの亜型として、カードの4疾患（アレルギー性結膜炎、春季カタル、アトピー性角結膜炎、巨大乳頭結膜炎）がすべて含まれ、I型・IgE 介在性の結膜の炎症性疾患群であることを確認。数値の照合：数値なし。留保：候補の分類は6亜型（季節性と通年性を分け、接触性眼瞼結膜炎を含む）で、日本のガイドラインの4分類とは枠組みが異なるため部分裏づけにとどまる。主出典 SRC-2823 は CC BY-NC-ND で現行 RESTRICTED が正しい"
+  },
+  {
+   "card": "AL-015",
+   "label": "GOV_JP、作り手の調査バッチ60 2026-11-14",
+   "text": "環境省. 花粉症環境保健マニュアル2022. 環境省環境保健部環境安全課. 2022年3月改訂 補助：Uchida K, Iida K, Fujioka I, Hachimura S, Kaminuma O. Suppressive Effect of Lactococcus lactis subsp. cremoris YRC3780 on a Murine Model of Japanese Cedar Pollinosis. Pathogens. 2022;11(11):1347（PMID: 36422599、DOI: 10.3390/pathogens11111347、PMCID: PMC9698324）（https://www.env.go.jp/content/900406385.pdf）。裏づける部分：主候補（環境省マニュアル2022）で、2019年のスギ花粉症有病率38.8%を確認した。補助候補の序文にも2019年のスギ花粉症38.8%の記載がある。数値の照合：38.8%は主候補・補助候補の双方と一致する。留保：主出典 SRC-2825 は NL-022 と同一出典で、DOI 補完候補と区分訂正は申し送り・別枠に分離した（バッチ59 と同一内容）"
+  },
+  {
+   "card": "AL-016",
+   "label": "OPEN、作り手の調査バッチ60 2026-11-14",
+   "text": "Marzec A, et al. Pollen-Food Allergy Syndrome in Children: Global Prevalence and Pathogenesis. Nutrients. 2026;18(14):2246（PMID: 42514315、DOI: 10.3390/nu18142246、PMCID: PMC13414526、https://pmc.ncbi.nlm.nih.gov/articles/PMC13414526/）。裏づける部分：原因タンパクが不安定なため反応は通常は口腔咽頭に限局すること、全身反応（呼吸器・消化器症状、まれにアナフィラキシー）が起こりうることを確認。数値の照合：アナフィラキシーが「反応の最大1.7%」という固有値は候補では未確認（候補は「まれに」と定性表現にとどまる）。留保：主出典 SRC-2826 の区分訂正は別枠の節に分離した"
+  },
+  {
+   "card": "AL-017",
+   "label": "OPEN、作り手の調査バッチ60 2026-11-14",
+   "text": "Zuberbier T, et al. The International Guideline for the Definition, Classification, Diagnosis and Management of Urticaria. Allergy. 2026;81(8):2582-2632（PMID: 41649409、DOI: 10.1111/all.70210、PMCID: PMC13466004、https://pmc.ncbi.nlm.nih.gov/articles/PMC13466004/）。裏づける部分：候補の定義文がカードとほぼ逐語で一致する（肥満細胞駆動性の疾患で、膨疹、血管性浮腫、またはその両方を呈する。急性蕁麻疹の生涯有病率は約20%）ことを確認。数値の照合：急性蕁麻疹の生涯有病率 約20%は候補と一致する。留保：候補は主出典（2022年版国際ガイドライン）の後継版（2026年版）で CC BY である。主出典 SRC-1077 は CC BY-NC で現行 RESTRICTED が正しい。版の更新はフラグに挙げた"
+  },
+  {
+   "card": "AL-020",
+   "label": "OPEN、作り手の調査バッチ60 2026-11-14",
+   "text": "Liotti L, et al. Pediatric Angioedema without Wheals: How to Guide the Diagnosis. Life. 2023;13(4):1021（PMID: 37109550、DOI: 10.3390/life13041021、PMCID: PMC10141554、https://pmc.ncbi.nlm.nih.gov/articles/PMC10141554/）。裏づける部分：膨疹を伴わない血管性浮腫について、肥満細胞（ヒスタミン）介在性とブラジキニン介在性の区別が診断・治療選択の要であること、原因が特定できない特発性（機序不明）の群があることを確認。数値の照合：数値なし。留保：候補は小児対象の総説で、3群分類の枠組みは主出典（スペイン Delphi コンセンサス）と実質一致するが表現は同一ではない。主出典 SRC-2828 は CC BY-NC で現行 RESTRICTED が正しい"
+  },
+  {
+   "card": "AL-021",
+   "label": "OPEN、作り手の調査バッチ60 2026-11-14",
+   "text": "Liotti L, et al. Pediatric Angioedema without Wheals: How to Guide the Diagnosis. Life. 2023;13(4):1021 補助：Johnson F, Hofauer B. Unraveling angioedema: diagnostic challenges and emerging therapies. Front Immunol. 2025;16:1681763（PMID: 41103407、DOI: 10.3389/fimmu.2025.1681763、PMCID: PMC12521201）（PMID: 37109550、DOI: 10.3390/life13041021、PMCID: PMC10141554、https://pmc.ncbi.nlm.nih.gov/articles/PMC10141554/）。裏づける部分：両候補で、鑑別項目として遺伝性血管性浮腫（C1-INH 欠損・機能低下＝I型・II型、および補体正常型）、後天性血管性浮腫（C1-INH 欠損）、ACE 阻害薬誘発性血管性浮腫、ヒスタミン性・非ヒスタミン性の特発性血管性浮腫を確認。数値の照合：数値なし。留保：主出典 SRC-2829 の区分訂正は別枠の節に分離した"
+  },
+  {
+   "card": "AL-022",
+   "label": "OPEN、作り手の調査バッチ60 2026-11-14",
+   "text": "Afonso AR, et al. Impact of allergic bronchopulmonary aspergillosis overlap in chronic pulmonary aspergillosis. ERJ Open Res. 2026;12(5):01540-2025（PMID: 42769813、DOI: 10.1183/23120541.01540-2025、PMCID: PMC13591302、https://pmc.ncbi.nlm.nih.gov/articles/PMC13591302/）。裏づける部分：2024年改訂 ISHAM 基準の再掲として、素因または適合する臨床像に加え、総 IgE と A. fumigatus 特異的 IgE による真菌感作の証明、さらに真菌特異的 IgG・末梢血好酸球増多・示唆的な画像所見のうち2つ、という診断の構成を確認。数値の照合：候補は総 IgE を「>500 IU/mL」と表記するが、原典 ISHAM 2024 は「≥500 IU/mL」で、カードの「500 IU/mL 以上」と一致する（原典抄録で確認。抄録は数値の食い違い確認にのみ使用）。留保：主出典 SRC-426 は CC BY-NC（Crossref・Europe PMC で個別確認）で、マスターの現行 RESTRICTED が正しい。マスターで PMID・PMCID が null のため補完候補を申し送りに記録した。カード側 provenance の source_class（UNKNOWN）はマスターと不整合（フラグ参照）"
+  },
+  {
+   "card": "AL-023",
+   "label": "OPEN、作り手の調査バッチ60 2026-11-14",
+   "text": "Bridi GDP, et al. Current concepts in the diagnosis and treatment of hypersensitivity pneumonitis: a narrative review. Respir Res Clin Pract. 2026;52(2):e20250394（PMID: 42781417、DOI: 10.36416/1806-3756/e20250394、PMCID: PMC13598884、https://pmc.ncbi.nlm.nih.gov/articles/PMC13598884/）。裏づける部分：過敏性肺炎が非線維性と線維性の2表現型に分類されること、ATS/JRS/ALAT 2020 ガイドラインに基づく診断アプローチに気管支肺胞洗浄液（BAL）のリンパ球解析が含まれることを確認。数値の照合：数値なし。留保：「非線維性では BAL リンパ球解析が推奨され、曝露抗原同定のための血清 IgG 検査が提案される」という推奨の強さの区別と血清 IgG 検査は候補では未確認。主出典 SRC-424 は CC BY-NC（Europe PMC）／CC BY-NC-ND（Crossref）で NC 系のため、マスターの現行 RESTRICTED が正しい。マスターで DOI・PMID・PMCID が null のため補完候補を申し送りに記録した。カード側 provenance の source_class（UNKNOWN）はマスターと不整合（フラグ参照）"
+  },
+  {
+   "card": "CT-002",
+   "label": "OPEN、作り手の調査バッチ61 2026-11-14",
+   "text": "Gono T. Prevalence and screening of interstitial lung disease in rheumatoid arthritis. Rheumatol Adv Pract. 2026;10(3):rkag062（PMID: 42325419、DOI: 10.1093/rap/rkag062、PMCID: PMC13275310、https://pmc.ncbi.nlm.nih.gov/articles/PMC13275310/）。裏づける部分：候補（CC BY の解説）が引用する別の系統的レビュー・メタ解析（74研究）で、関節リウマチ関連間質性肺疾患の統合有病率が推計されていること、危険因子として男性、高齢（発症時高齢）、喫煙、高力価のリウマトイド因子・抗CCP抗体、高疾患活動性が挙げられることを確認。カードの危険因子の顔ぶれと一致する。数値の照合：候補の統合有病率は 20.6%（95%信頼区間 18.3〜23.2、74研究）で、カードの 18.7%（同 15.8〜21.6、56研究）とは研究集合が異なる別のメタ解析の値であり、同一の値としては一致しない。留保：主出典 SRC-2902 は CC BY-NC で現行 RESTRICTED が正しい"
+  },
+  {
+   "card": "CT-006",
+   "label": "OPEN、作り手の調査バッチ61 2026-11-14",
+   "text": "Ruscitti P, Iacono D, Riccio F, et al. Real-world therapeutic strategies in active adult-onset Still's disease: clinical insights from the GIRRCS-AOSD study group. Front Immunol. 2026;17:1852661（PMID: 42620353、DOI: 10.3389/fimmu.2026.1852661、PMCID: PMC13485721、https://pmc.ncbi.nlm.nih.gov/articles/PMC13485721/）。裏づける部分：候補の表に EULAR/PReS 推奨の主要項目が再掲され、治療目標の達成・維持のために IL-1 阻害薬と IL-6 阻害薬の使用を優先し、糖質コルチコイドは大幅に制限するか回避すること、生物学的製剤の早期投与が推奨の方向であることを確認。数値の照合：数値なし。留保：全身型若年性特発性関節炎と成人発症 Still 病を単一名称「Still 病」とする点と、寛解（臨床的不活動性疾患の6か月以上の維持）の定義は候補では未確認。主出典 SRC-2905 は CC BY-NC-ND で現行 RESTRICTED が正しい"
+  },
+  {
+   "card": "CT-007",
+   "label": "OPEN、作り手の調査バッチ61 2026-11-14",
+   "text": "Mahadevan S, Navaneethakrishnan B, Mamadapur M, Patil H. Comparative diagnostic performance of ACR 1997, SLICC 2012, and EULAR/ACR 2019 criteria in childhood-onset systemic lupus erythematosus: A retrospective study from a tertiary care centre in south India. Rheumatol Immunol Res. 2026;7(2):123-130（PMID: 42444718、DOI: 10.1515/rir-2026-0006、PMCID: PMC13358950、https://pmc.ncbi.nlm.nih.gov/articles/PMC13358950/）。裏づける部分：2019 EULAR/ACR 分類基準について、抗核抗体陽性が必須の入口基準であること、臨床的特徴と免疫学的特徴に重み付きスコアを用いること、合計10点以上で分類することを確認。数値の照合：検証コホートでの感度 96.1%・特異度 93.4% は候補には記載がなく、主出典でのみ確認した。留保：臨床7ドメイン・免疫3ドメインという内訳と各項目の重み（2〜10点）は候補では未確認。主出典 SRC-2906 の区分訂正は別枠の節に分離した"
+  },
+  {
+   "card": "CT-008",
+   "label": "OPEN、作り手の調査バッチ61 2026-11-14",
+   "text": "Parodis I, Fanouriakis A, Bortoluzzi A, et al. Practical insights for the clinical implementation of the EULAR recommendations for patients with systemic lupus erythematosus. RMD Open. 2025;11(4):e006210（PMID: 41475837、DOI: 10.1136/rmdopen-2025-006210、PMCID: PMC12766831、https://pmc.ncbi.nlm.nih.gov/articles/PMC12766831/）。裏づける部分：EULAR 勧告 2023 update の実施解説（CC BY）で、ヒドロキシクロロキンに反応しない場合や糖質コルチコイドを許容範囲まで減らせない場合に、生物学的製剤（ベリムマブ、アニフロルマブ）および／または従来型免疫抑制薬の早期導入を検討すること、糖質コルチコイドは橋渡しに用いて漸減すること、寛解の定義ではプレドニゾン換算 5 mg/日以下が閾値であることを確認。数値の照合：数値なし（候補で確認した 5 mg/日以下は寛解定義の閾値としての記載）。留保：ヒドロキシクロロキンを全患者に推奨し目標用量を実体重 5 mg/kg/日とする点と、全体原則5件・推奨13件という件数は候補では未確認。主出典 SRC-2907 の区分訂正は別枠の節に分離した"
+  },
+  {
+   "card": "CT-009",
+   "label": "GOV_US、作り手の調査バッチ61 2026-11-14",
+   "text": "ClinicalTrials.gov 試験登録レコード NCT02446899（TULIP-2、結果投稿済み）（https://clinicaltrials.gov/study/NCT02446899）。裏づける部分：登録レコードの結果で、主要評価項目（52週時点の BICLA 反応）の反応者数がアニフロルマブ 300 mg 群 86/180例、プラセボ群 57/182例（無作為化計362例）と記録され、カードの症例数と反応割合の基になる人数が一致することを確認。数値の照合：登録レコードの単純割合は 47.8%（86/180）と 31.3%（57/182）。カード・公表論文の 31.5% は調整済みの値で、差 16.3 ポイント（調整済み）とあわせて解析法の違いによるものである。留保：主出典 SRC-2908 の区分訂正は別枠の節に分離した"
+  },
+  {
+   "card": "CT-010",
+   "label": "OPEN、作り手の調査バッチ61 2026-11-14",
+   "text": "Zhang Y, Sun Z, Zhang J, et al. Clinical and serologic features of sicca syndrome in a tertiary care cohort in China: a retrospective rheumatologic study. Front Med. 2026;13:1935003（PMID: 43011042、DOI: 10.3389/fmed.2026.1935003、PMCID: PMC13748258、https://pmc.ncbi.nlm.nih.gov/articles/PMC13748258/）。裏づける部分：候補コホート研究が 2016 ACR/EULAR 分類基準を実際に適用し、抗 SSA/Ro 抗体陽性に3点、Schirmer 試験（5 mm/5分以下）・眼染色スコア・非刺激唾液流量の各項目に1点を与え、累積スコア 4 点以上を分類の閾値としていることを確認。数値の照合：最終検証コホートでの感度 96%・特異度 95% は候補には記載がなく、主出典でのみ確認した。留保：小唾液腺生検のフォーカススコア（3点）の項目は、候補コホートでは生検を行っていないため再掲されていない。主出典 SRC-2909 の区分訂正は別枠の節に分離した"
+  },
+  {
+   "card": "CT-012",
+   "label": "OPEN、作り手の調査バッチ61 2026-11-14",
+   "text": "Romanowska-Próchnicka K, Dziewit M, Lesiak A, Reich A, Olesińska M. Scleroderma and scleroderma-like syndromes. Front Immunol. 2024;15:1351675（PMID: 38887288、DOI: 10.3389/fimmu.2024.1351675、PMCID: PMC11180720、https://pmc.ncbi.nlm.nih.gov/articles/PMC11180720/）。裏づける部分：候補の表に 2013 ACR/EULAR 分類基準の全文が再掲され、中手指節関節より近位まで及ぶ手指の皮膚硬化が9点でそれだけで分類できること、その他の項目（手指の皮膚硬化、指尖部病変、毛細血管拡張、爪郭毛細血管異常、間質性肺疾患または肺動脈性肺高血圧症、Raynaud 現象、関連自己抗体）に重みを付けて加算し合計9点以上で分類することを確認。数値の照合：検証での感度 0.91・特異度 0.92 と、1980年 ACR 基準（0.75・0.72）との比較は候補には記載がなく、主出典でのみ確認した。留保：主出典 SRC-2911 の区分訂正は別枠の節に分離した"
+  },
+  {
+   "card": "CT-013",
+   "label": "OPEN、作り手の調査バッチ61 2026-11-14",
+   "text": "Romanowska-Próchnicka K, Dziewit M, Lesiak A, Reich A, Olesińska M. Scleroderma and scleroderma-like syndromes. Front Immunol. 2024;15:1351675（PMID: 38887288、DOI: 10.3389/fimmu.2024.1351675、PMCID: PMC11180720、https://pmc.ncbi.nlm.nih.gov/articles/PMC11180720/）。裏づける部分：候補で、EULAR 推奨の 2023 update が8つの臨床領域にわたること、皮膚線維化と間質性肺疾患に対する推奨にミコフェノール酸モフェチル、ニンテダニブ、リツキシマブ、トシリズマブの使用が新たに含まれたことを確認。数値の照合：推奨の件数は候補が21件としており、カード・主出典の22件と食い違う（詳細はフラグ参照）。留保：主出典 SRC-2912 は CC BY-NC-ND で現行 RESTRICTED が正しい。8領域の内訳そのものは候補では未確認"
+  },
+  {
+   "card": "CT-014",
+   "label": "OPEN、作り手の調査バッチ61 2026-11-14",
+   "text": "Banceviča L, Dāvidsone Z, Budarina K, Rasa K. Juvenile dermatomyositis in Latvia: clinical, radiologic, laboratory, and therapeutic findings from 2010 to 2025. Front Pediatr. 2026;14:1880638（PMID: 42698682、DOI: 10.3389/fped.2026.1880638、PMCID: PMC13541717、https://pmc.ncbi.nlm.nih.gov/articles/PMC13541717/）。裏づける部分：候補で、2017 EULAR/ACR 分類基準が臨床所見・検査異常・筋生検所見に基づく重み付きスコアで炎症性筋疾患の確率を推定し、possible・probable・definite に分類する方式であること、筋生検なしでも適用できることを確認。数値の照合：確率55%以上・90%以上に対応するスコア閾値（生検なし 5.5・6.7、生検あり 7.5・8.7）と亜分類ツリーの内訳は候補には記載がなく、主出典でのみ確認した。留保：主出典 SRC-1769 は現行 RESTRICTED が正しい（PMC の著者原稿にライセンス表示なし）。PMCID 補完候補は申し送りに記録した"
+  },
+  {
+   "card": "CT-015",
+   "label": "OPEN、作り手の調査バッチ61 2026-11-14",
+   "text": "Zuo Z, Yang J, Li J, Li R, Liu W. Candidate molecular endotypes and dynamic risk prediction in anti-MDA5-positive dermatomyositis-associated interstitial lung disease: a systematic scoping review. Front Immunol. 2026;17（PMCID: PMC13690796、https://pmc.ncbi.nlm.nih.gov/articles/PMC13690796/）。裏づける部分：候補で、抗 MDA5 抗体が当初は無筋症性皮膚筋炎における140 kDa 蛋白への反応性（抗 CADM-140 抗体）として記載され、その後 MDA5 そのものであることと急速進行性間質性肺疾患との関連が示されたことが述べられ、主出典（Sato ら 2009）がその同定研究として引用されていることを確認。数値の照合：組換え MDA5 を抗原とする ELISA の解析感度 85%・解析特異度 100% と、膠原病294例での評価は候補には記載がなく、主出典でのみ確認した。留保：候補は Europe PMC レコードに PMID・DOI が未付与のため PMCID で同定した。主出典 SRC-2913 の区分訂正は別枠の節に分離した"
+  },
+  {
+   "card": "CT-016",
+   "label": "GOV_US、作り手の調査バッチ61 2026-11-14",
+   "text": "ClinicalTrials.gov 試験登録レコード NCT02728752（ProDERM、Octagam 10%、結果投稿済み）（https://clinicaltrials.gov/study/NCT02728752）。裏づける部分：登録レコードの結果で、主要評価項目（16週時点で Total Improvement Score 20以上の反応）の反応者数が Octagam 10%（免疫グロブリン静注 2.0 g/kg を4週間隔）群 37/47例、プラセボ群 21/48例と記録され、カードの症例数と一致することを確認。数値の照合：37/47 は 78.7%、21/48 は 43.8% で、カードの 79%・44% と一致する。留保：主出典 SRC-2914 は NEJM の購読論文で現行 RESTRICTED が正しい"
+  },
+  {
+   "card": "CT-018",
+   "label": "OPEN、作り手の調査バッチ61 2026-11-14",
+   "text": "Baltaci MA, Aydemir Guloksuz EG, Sak Inal R, et al. Concordance and Relative Performance of the 2023 ACR/EULAR and Revised Sapporo Criteria in Antiphospholipid Syndrome and Analysis of Risk Factors for Recurrent Thrombosis: A Single-Center Cohort Study. Medicina. 2026;62(7):1226 補助：Del Barrio-Longarela S, Hernández JL, Merino A, et al. Do Serologic Domains of the 2023 ACR/EULAR Classification Criteria for Antiphospholipid Syndrome Define Distinct Clinical Subgroups During Pregnancy? Int J Mol Sci. 2026;27(14):6100（PMID: 42511447、DOI: 10.3390/ijms27146100、PMCID: PMC13412096）（PMID: 42512769、DOI: 10.3390/medicina62071226、PMCID: PMC13413515、https://pmc.ncbi.nlm.nih.gov/articles/PMC13413515/）。裏づける部分：主候補で、2023 ACR/EULAR 分類基準の臨床ドメインとして大血管（macrovascular）・微小血管・産科・心臓弁膜・血液学的の各領域が挙げられ、検査側ではループスアンチコアグラントと ELISA による抗カルジオリピン抗体・抗β2グリコプロテインI抗体が用いられることを確認。補助候補では、重み付きの半定量スコアリングと血清学的ドメインの再定義が 2023 基準の要点であることを確認。数値の照合：数値なし（ドメイン構成のカード）。留保：カードは大血管を静脈血栓塞栓と動脈血栓の2ドメインに分けて6ドメインとするが、主候補は大血管を1つのまとまりとして列挙する。各項目の重み（1〜7点）の内訳は両候補とも未確認。主出典 SRC-2665 は現行 RESTRICTED が正しい"
+  },
+  {
+   "card": "CT-020",
+   "label": "OPEN、作り手の調査バッチ61 2026-11-14",
+   "text": "Compeyrot-Lacassagne S, Beesley RP, Bray L, et al.; British Society for Rheumatology Guideline Steering Group. Holistic management of juvenile idiopathic arthritis across all ages: British Society for Rheumatology Guideline scope. Rheumatol Adv Pract. 2026;10(2):rkag052 補助：Rygg M, Ramos FO, Nordal EB. What have we learned from long-term studies in juvenile idiopathic arthritis? - Prediction, classification, transition. Pediatr Rheumatol. 2025;23(1):18（PMID: 39972461、DOI: 10.1186/s12969-025-01070-x、PMCID: PMC11841258）（PMID: 42256795、DOI: 10.1093/rap/rkag052、PMCID: PMC13235788、https://pmc.ncbi.nlm.nih.gov/articles/PMC13235788/）。裏づける部分：主候補で、ILAR 分類が7つのカテゴリー（全身型、少関節炎型（持続型・進展型）、リウマトイド因子陰性多関節炎型、リウマトイド因子陽性多関節炎型、乾癬性関節炎型、付着部炎関連関節炎型、分類不能関節炎型）からなることが実名で列挙されていることを確認。補助候補でも ILAR 分類が7カテゴリーに分けることが明記されている。数値の照合：数値なし（分類構成のカード）。留保：16歳未満発症・6週間以上持続という定義の部分は両候補では再掲されていない。主出典 SRC-2916 の区分訂正は別枠の節に分離した"
+  },
+  {
+   "card": "CT-021",
+   "label": "OPEN、作り手の調査バッチ61 2026-11-14",
+   "text": "Baldo F, Erkens RGA, Mizuta M, et al. Current treatment in macrophage activation syndrome worldwide: a systematic literature review to inform the METAPHOR project. Rheumatology. 2025;64(1):32-44（PMID: 39058514、DOI: 10.1093/rheumatology/keae391、PMCID: PMC11701305、https://pmc.ncbi.nlm.nih.gov/articles/PMC11701305/）。裏づける部分：候補（METAPHOR プロジェクトのための世界規模の系統的レビュー、CC BY）で、全身型若年性特発性関節炎に伴うマクロファージ活性化症候群の治療として、高用量の糖質コルチコイド（パルス療法が研究の約6割）、シクロスポリン、IL-1 阻害薬（アナキンラ、179例）、インターフェロンγ阻害薬（エマパルマブ、全身型若年性特発性関節炎の試験）が実際に用いられていることが整理されており、カードの4つの治療要素がすべて含まれていることを確認。数値の照合：数値なし（治療要素のカード）。留保：候補は実臨床の治療実態の整理であり、EULAR/PReS 推奨の文言そのものの再掲ではない。主出典 SRC-2905 は CC BY-NC-ND で現行 RESTRICTED が正しい"
+  }
+ ],
+ "rest_fix": {
+  "SRC-2812": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref の VoR ライセンスは Wiley の利用条件のみで、Europe PMC でも非OA・購読扱い。CC 表示はない",
+  "SRC-2814": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref の VoR ライセンスは Wiley の利用条件のみで、Europe PMC でも非OA・購読扱い。CC 表示はない",
+  "SRC-2815": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref にライセンス情報がなく、Europe PMC でも非OA。JAMA の購読論文で CC 表示はない",
+  "SRC-2818": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref の刊行版ライセンスは Elsevier の TDM ライセンスのみで、Europe PMC でも非OA",
+  "SRC-2819": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref にライセンス情報がなく、Europe PMC でも非OA。NEJM の購読論文で CC 表示はない",
+  "SRC-2821": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref の VoR ライセンスは Wiley の利用条件のみで、Europe PMC でも非OA・購読扱い。CC 表示はない",
+  "SRC-2824": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref の刊行版ライセンスは Elsevier の TDM ライセンスと著者原稿の Elsevier OA ユーザーライセンスのみ（いずれも CC ではない）で、Europe PMC でも非OA。刊行版には「© 2025 Japanese Society of Otorhinolaryngology-Head and Neck Surgery, Inc. Published by Elsevier B.V. All rights are reserved」とある（バッチ59 NL-003 でも確認）",
+  "SRC-2826": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref の刊行版ライセンスは Elsevier の TDM ライセンスのみで、Europe PMC でも非OA",
+  "SRC-2829": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref の刊行版ライセンスは Elsevier の TDM ライセンスのみで、Europe PMC でも非OA",
+  "SRC-2904": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Europe PMC で非OA・ライセンス表示なし。The Journal of Rheumatology の購読論文で CC 表示はない",
+  "SRC-2906": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Crossref の VoR ライセンスは Wiley の利用条件のみ。PMC に著者原稿（PMC6827566）はあるがライセンス表示がなく、自由利用の対象ではない",
+  "SRC-2907": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Crossref の刊行版ライセンスは Elsevier の TDM ライセンスと著者原稿用の Elsevier OA ユーザーライセンスのみで、いずれも CC ではない。Europe PMC でも非OA",
+  "SRC-2908": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Crossref にライセンス情報がなく、Europe PMC でも非OA。NEJM の購読論文で CC 表示はない",
+  "SRC-2909": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Crossref のライセンスは Elsevier の TDM 用ライセンス等のみで、Europe PMC でも非OA。CC 表示はない",
+  "SRC-2910": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Crossref にライセンス情報がなく、Europe PMC でも非OA。CC 表示はない",
+  "SRC-2911": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Crossref のライセンスは Elsevier の TDM 用ライセンスのみで、Europe PMC でも非OA。CC 表示はない",
+  "SRC-2913": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Crossref の VoR ライセンスは Wiley の利用条件のみで、Europe PMC でも非OA。CC 表示はない",
+  "SRC-2916": "出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Europe PMC で非OA・ライセンス表示なし。The Journal of Rheumatology の購読論文で CC 表示はない"
+ },
+ "open_fix": [],
+ "hold": [
+  {
+   "card": "CT-005",
+   "candidate": "難病情報センター. 成人発症スチル病（指定難病54）＜診断基準＞（Yamaguchiらの分類基準（1992年）を収載）",
+   "why": "候補は難病情報センターのページで、2026-11-13 の決定により RESTRICTED。厚労省の「指定難病 概要、診断基準等」（GOV_JP）で照合し直す"
+  },
+  {
+   "card": "CT-011",
+   "candidate": "難病情報センター. シェーグレン症候群（指定難病53）＜診断基準＞（シェーグレン症候群改訂診断基準、厚生労働省研究班、1999年を収載）",
+   "why": "候補は難病情報センターのページで、2026-11-13 の決定により RESTRICTED。厚労省の「指定難病 概要、診断基準等」（GOV_JP）で照合し直す"
+  },
+  {
+   "card": "CT-017",
+   "candidate": "難病情報センター. 混合性結合組織病（指定難病52）＜診断基準＞（2019年改訂の診断基準を収載）",
+   "why": "候補は難病情報センターのページで、2026-11-13 の決定により RESTRICTED。厚労省の「指定難病 概要、診断基準等」（GOV_JP）で照合し直す"
+  }
+ ]
+}

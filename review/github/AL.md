@@ -22,7 +22,7 @@
 
 - 条件：region: 欧州／対象: 成人・小児
 - 不確実性：アドレナリン自己注射薬（エピペン）は国内で承認され保険適用がある（PMDA 添付文書で確認。推奨用量は 0.01 mg/kg で、0.15mg製剤は体重15〜30kg、0.3mg製剤は30kg以上）。
-- 出典：Muraro A, et al. EAACI guidelines: Anaphylaxis (2021 update). Allergy. 2022;77(2):357-377.　[DOI 10.1111/all.15032](https://doi.org/10.1111/all.15032)　[PMID 34343358](https://pubmed.ncbi.nlm.nih.gov/34343358/)（区分 UNKNOWN）
+- 出典：Muraro A, et al. EAACI guidelines: Anaphylaxis (2021 update). Allergy. 2022;77(2):357-377.　[DOI 10.1111/all.15032](https://doi.org/10.1111/all.15032)　[PMID 34343358](https://pubmed.ncbi.nlm.nih.gov/34343358/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-1-A-①（アナフィラキシー、a）　コアカリ：PS-01-03-29 (id: JkxnuM4)；PS-03-02-05 (id: JnGUA2s)；TBL-01-00-554 (id: Jo77KCc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AL-002&card_id=AL-002&version=790575c6dc)　（版 `790575c6dc`）
 
@@ -48,7 +48,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：国際コンセンサス（ICON）の抄録で確認した範囲に限る。薬物アレルギーの practice parameter（Khan 2022）は抄録が公開されておらず本文を確認できないため、出典にはしていない。
-- 出典：Demoly P, et al. International Consensus (ICON) on drug allergy. Allergy. 2014;69(4):420-437.　[DOI 10.1111/all.12350](https://doi.org/10.1111/all.12350)　[PMID 24697291](https://pubmed.ncbi.nlm.nih.gov/24697291/)（区分 UNKNOWN）
+- 出典：Demoly P, et al. International Consensus (ICON) on drug allergy. Allergy. 2014;69(4):420-437.　[DOI 10.1111/all.12350](https://doi.org/10.1111/all.12350)　[PMID 24697291](https://pubmed.ncbi.nlm.nih.gov/24697291/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-1-A-②（薬物アレルギー、a）　コアカリ：PS-01-03-29 (id: JkxnuM4)；CS-02-04-08 (id: JkxiryU)；PS-03-02-05 (id: JnGUA2s)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AL-004&card_id=AL-004&version=acca3fa59a)　（版 `acca3fa59a`）
 
@@ -58,7 +58,7 @@
 
 - 条件：region: 米国／対象: 成人
 - 不確実性：数値は米国を対象とした総説の抄録に基づく。国内のペニシリンアレルギー申告の頻度は未確認。ペニシリン系・セファロスポリン系抗菌薬は国内承認薬である。
-- 出典：Shenoy ES, et al. Evaluation and Management of Penicillin Allergy: A Review. JAMA. 2019;321(2):188-199.　[DOI 10.1001/jama.2018.19283](https://doi.org/10.1001/jama.2018.19283)　[PMID 30644987](https://pubmed.ncbi.nlm.nih.gov/30644987/)（区分 UNKNOWN）
+- 出典：Shenoy ES, et al. Evaluation and Management of Penicillin Allergy: A Review. JAMA. 2019;321(2):188-199.　[DOI 10.1001/jama.2018.19283](https://doi.org/10.1001/jama.2018.19283)　[PMID 30644987](https://pubmed.ncbi.nlm.nih.gov/30644987/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-1-A-②（薬物アレルギー、a）　コアカリ：PS-01-03-29 (id: JkxnuM4)；CS-02-04-08 (id: JkxiryU)；PS-03-02-05 (id: JnGUA2s)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AL-005&card_id=AL-005&version=efe77292af)　（版 `efe77292af`）
 
@@ -94,7 +94,7 @@
 
 - 条件：region: 国際／対象: 成人・小児
 - 不確実性：数値は系統的レビューの抄録で確認した。国内の食物依存性運動誘発アナフィラキシーの頻度は未確認。増強因子として挙げたアスピリンは国内承認薬である。
-- 出典：Kulthanan K, et al. Food-Dependent Exercise-Induced Wheals, Angioedema, and Anaphylaxis: A Systematic Review. J Allergy Clin Immunol Pract. 2022;10(9):2280-2296.　[DOI 10.1016/j.jaip.2022.06.008](https://doi.org/10.1016/j.jaip.2022.06.008)　[PMID 35752432](https://pubmed.ncbi.nlm.nih.gov/35752432/)（区分 UNKNOWN）
+- 出典：Kulthanan K, et al. Food-Dependent Exercise-Induced Wheals, Angioedema, and Anaphylaxis: A Systematic Review. J Allergy Clin Immunol Pract. 2022;10(9):2280-2296.　[DOI 10.1016/j.jaip.2022.06.008](https://doi.org/10.1016/j.jaip.2022.06.008)　[PMID 35752432](https://pubmed.ncbi.nlm.nih.gov/35752432/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-1-A-③（食物アレルギー、a）　コアカリ：PS-01-03-29 (id: JkxnuM4)；PS-03-02-05 (id: JnGUA2s)；TBL-01-00-555 (id: Jo77KCk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AL-008&card_id=AL-008&version=36201e7839)　（版 `36201e7839`）
 
@@ -110,7 +110,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：一次資料は職業性喘息に関する総説で、抄録で確認できるのは定義の範囲に限られる。ラテックス・実験動物抗原・酵素など職業性アレルギー全般を扱う一次資料は弱く、本カードは職業性喘息の定義と位置づけに留めた。
-- 出典：Tarlo SM, Lemiere C. Occupational asthma. N Engl J Med. 2014;370(7):640-649.　[DOI 10.1056/NEJMra1301758](https://doi.org/10.1056/NEJMra1301758)　[PMID 24521110](https://pubmed.ncbi.nlm.nih.gov/24521110/)（区分 UNKNOWN）
+- 出典：Tarlo SM, Lemiere C. Occupational asthma. N Engl J Med. 2014;370(7):640-649.　[DOI 10.1056/NEJMra1301758](https://doi.org/10.1056/NEJMra1301758)　[PMID 24521110](https://pubmed.ncbi.nlm.nih.gov/24521110/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-1-A-④（職業性アレルギー、b）　コアカリ：PS-01-03-29 (id: JkxnuM4)；PS-03-02-05 (id: JnGUA2s)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AL-009&card_id=AL-009&version=63fec0e2bc)　（版 `63fec0e2bc`）
 
@@ -142,7 +142,7 @@
 
 - 条件：region: 欧州／対象: 成人・小児
 - 不確実性：EAACI ガイドラインの抄録で確認した範囲に限る。ハチ毒免疫療法の国内での実施体制と保険適用は未確認。アドレナリン自己注射薬は国内承認・保険適用あり（PMDA 添付文書で確認）。ダニ舌下免疫療法薬は国内でアレルギー性鼻炎への減感作療法として承認されているが（添付文書で確認）、鼻炎の側面は本回パートBの範囲と接するため本カードでは扱っていない。
-- 出典：Sturm GJ, et al. EAACI guidelines on allergen immunotherapy: Hymenoptera venom allergy. Allergy. 2018;73(4):744-764.　[DOI 10.1111/all.13262](https://doi.org/10.1111/all.13262)　[PMID 28748641](https://pubmed.ncbi.nlm.nih.gov/28748641/)（区分 UNKNOWN）
+- 出典：Sturm GJ, et al. EAACI guidelines on allergen immunotherapy: Hymenoptera venom allergy. Allergy. 2018;73(4):744-764.　[DOI 10.1111/all.13262](https://doi.org/10.1111/all.13262)　[PMID 28748641](https://pubmed.ncbi.nlm.nih.gov/28748641/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-1-A-⑥（昆虫・ダニアレルギー、c）　コアカリ：PS-01-03-29 (id: JkxnuM4)；PS-03-02-05 (id: JnGUA2s)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AL-011&card_id=AL-011&version=9f39a15c3e)　（版 `9f39a15c3e`）
 
@@ -190,7 +190,7 @@
 
 - 条件：region: 日本／対象: 成人および小児
 - 不確実性：出典は2024年版（第10版）の英語ダイジェストで、本体は日本アレルギー学会の書籍である。オマリズマブ（抗IgE抗体）は季節性アレルギー性鼻炎（既存治療で効果不十分な重症又は最重症患者に限る）の効能・効果で国内承認済みであることを PMDA の審査報告書で確認した。既存の SRC-1373 は2020年版で旧版のため使用していない。
-- 出典：Okano M, Okubo K, Gotoh M, et al. Practical guideline for the management of allergic rhinitis in Japan 2024. Auris Nasus Larynx. 2025;52(4):426-441.　[DOI 10.1016/j.anl.2025.05.005](https://doi.org/10.1016/j.anl.2025.05.005)　[PMID 40544726](https://pubmed.ncbi.nlm.nih.gov/40544726/)（区分 UNKNOWN）
+- 出典：Okano M, Okubo K, Gotoh M, et al. Practical guideline for the management of allergic rhinitis in Japan 2024. Auris Nasus Larynx. 2025;52(4):426-441.　[DOI 10.1016/j.anl.2025.05.005](https://doi.org/10.1016/j.anl.2025.05.005)　[PMID 40544726](https://pubmed.ncbi.nlm.nih.gov/40544726/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-1-B-②（鼻アレルギー<アレルギー性鼻炎>、a）　コアカリ：PS-01-03-29 (id: JkxnuM4)；PS-03-02-05 (id: JnGUA2s)；TBL-01-00-511 (id: JlvnmQA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AL-014&card_id=AL-014&version=af2d936317)　（版 `af2d936317`）
 
@@ -216,7 +216,7 @@
 
 - 条件：region: 国際／対象: 成人および小児
 - 不確実性：有病率の報告幅（小児4.7〜20%超、成人13〜58%）は出典の総説が集約した報告の範囲で、対象集団により異なる。国内の花粉症患者における割合はこの出典では確認していない。
-- 出典：Carlson G, Coop C. Pollen food allergy syndrome (PFAS): A review of current available literature. Ann Allergy Asthma Immunol. 2019;123(4):359-365.　[DOI 10.1016/j.anai.2019.07.022](https://doi.org/10.1016/j.anai.2019.07.022)　[PMID 31376490](https://pubmed.ncbi.nlm.nih.gov/31376490/)（区分 UNKNOWN）
+- 出典：Carlson G, Coop C. Pollen food allergy syndrome (PFAS): A review of current available literature. Ann Allergy Asthma Immunol. 2019;123(4):359-365.　[DOI 10.1016/j.anai.2019.07.022](https://doi.org/10.1016/j.anai.2019.07.022)　[PMID 31376490](https://pubmed.ncbi.nlm.nih.gov/31376490/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-1-B-③（花粉症、a）　コアカリ：PS-01-03-29 (id: JkxnuM4)；PS-03-02-05 (id: JnGUA2s)；TBL-01-00-511 (id: JlvnmQA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AL-016&card_id=AL-016&version=de94ea98d1)　（版 `de94ea98d1`）
 
@@ -284,7 +284,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：ACE 阻害薬は薬効群としての言及に留め、個別製剤の国内承認・保険適用の確認は本カードでは行っていない。遺伝性血管性浮腫の診断・治療の本体は第45回（ID）で扱う。出典は総説で、ライセンスは未確認。
-- 出典：Kesh S, Bernstein JA. Isolated angioedema: A review of classification and update on management. Ann Allergy Asthma Immunol. 2022;129(6):692-702.　[DOI 10.1016/j.anai.2022.08.003](https://doi.org/10.1016/j.anai.2022.08.003)　[PMID 35988876](https://pubmed.ncbi.nlm.nih.gov/35988876/)（区分 UNKNOWN）
+- 出典：Kesh S, Bernstein JA. Isolated angioedema: A review of classification and update on management. Ann Allergy Asthma Immunol. 2022;129(6):692-702.　[DOI 10.1016/j.anai.2022.08.003](https://doi.org/10.1016/j.anai.2022.08.003)　[PMID 35988876](https://pubmed.ncbi.nlm.nih.gov/35988876/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-1-B-⑦（血管性浮腫、a）　コアカリ：PS-01-03-29 (id: JkxnuM4)；PS-03-02-02 (id: JnGUA2Y)；PS-03-02-05 (id: JnGUA2s)；TBL-02-17-003 (id: JlAKp1k)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AL-021&card_id=AL-021&version=5336308fea)　（版 `5336308fea`）
 

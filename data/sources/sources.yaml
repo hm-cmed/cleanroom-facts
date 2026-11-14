@@ -27568,10 +27568,10 @@
   doi: 10.1111/all.15032
   pmid: '34343358'
   pmcid: null
-  license_note: 未確認（Crossref は Wiley の利用条件のみ）
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref の VoR ライセンスは Wiley の利用条件のみで、Europe PMC でも非OA・購読扱い。CC 表示はない（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（Crossref は Wiley の利用条件のみ）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27579,6 +27579,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2813
   legacy_id: null
   title: 'Sato S, et al. Current situation of anaphylaxis in Japan: Data from the anaphylaxis registry of training and teaching facilities certified by the Japanese Society of Allergology. Allergol Int. 2023;72(3):437-443'
@@ -27604,10 +27607,10 @@
   doi: 10.1111/all.12350
   pmid: '24697291'
   pmcid: null
-  license_note: 未確認
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref の VoR ライセンスは Wiley の利用条件のみで、Europe PMC でも非OA・購読扱い。CC 表示はない（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27615,6 +27618,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2815
   legacy_id: null
   title: 'Shenoy ES, et al. Evaluation and Management of Penicillin Allergy: A Review. JAMA. 2019;321(2):188-199'
@@ -27622,10 +27628,10 @@
   doi: 10.1001/jama.2018.19283
   pmid: '30644987'
   pmcid: null
-  license_note: 未確認
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref にライセンス情報がなく、Europe PMC でも非OA。JAMA の購読論文で CC 表示はない（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27633,6 +27639,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2816
   legacy_id: null
   title: Ebisawa M, et al. Japanese guidelines for food allergy 2020. Allergol Int. 2020;69(3):370-386
@@ -27676,10 +27685,10 @@
   doi: 10.1016/j.jaip.2022.06.008
   pmid: '35752432'
   pmcid: null
-  license_note: 未確認（Crossref は Elsevier の TDM ライセンスのみ）
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref の刊行版ライセンスは Elsevier の TDM ライセンスのみで、Europe PMC でも非OA（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（Crossref は Elsevier の TDM ライセンスのみ）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27687,6 +27696,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2819
   legacy_id: null
   title: Tarlo SM, Lemiere C. Occupational asthma. N Engl J Med. 2014;370(7):640-649
@@ -27694,10 +27706,10 @@
   doi: 10.1056/NEJMra1301758
   pmid: '24521110'
   pmcid: null
-  license_note: 未確認
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref にライセンス情報がなく、Europe PMC でも非OA。NEJM の購読論文で CC 表示はない（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27705,6 +27717,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2820
   legacy_id: null
   title: 'Khalaf R, et al. Serum Sickness-Like Reactions Clinical Characteristics and Management: A Systematic Review. J Allergy Clin Immunol Pract. 2025;13(5):1068-1074'
@@ -27730,10 +27745,10 @@
   doi: 10.1111/all.13262
   pmid: '28748641'
   pmcid: null
-  license_note: 未確認（Crossref は Wiley の利用条件のみ）
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref の VoR ライセンスは Wiley の利用条件のみで、Europe PMC でも非OA・購読扱い。CC 表示はない（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（Crossref は Wiley の利用条件のみ）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27741,6 +27756,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2822
   legacy_id: null
   title: Warrington R, Watson W, Kim HL, Antonetti FR. An introduction to immunology and immunopathology. Allergy Asthma Clin Immunol. 2011;7 Suppl 1:S1
@@ -27784,10 +27802,10 @@
   doi: 10.1016/j.anl.2025.05.005
   pmid: '40544726'
   pmcid: null
-  license_note: CC 表示なし（Crossref の license 欄は Elsevier の TDM 条件のみ）
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref の刊行版ライセンスは Elsevier の TDM ライセンスと著者原稿の Elsevier OA ユーザーライセンスのみ（いずれも CC ではない）で、Europe PMC でも非OA。刊行版には「© 2025 Japanese Society of Otorhinolaryngology-Head and Neck Surgery, Inc. Published by Elsevier B.V. All rights are reserved」とある（バッチ59 NL-003 でも確認）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：CC 表示なし（Crossref の license 欄は Elsevier の TDM 条件のみ）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27795,6 +27813,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2825
   legacy_id: null
   title: 松原篤、坂下雅文、後藤穣、ほか. 2019年全国疫学調査（鼻アレルギー）. 日本耳鼻咽喉科学会会報. 2020;123:485-490
@@ -27823,10 +27844,10 @@
   doi: 10.1016/j.anai.2019.07.022
   pmid: '31376490'
   pmcid: null
-  license_note: 未確認
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref の刊行版ライセンスは Elsevier の TDM ライセンスのみで、Europe PMC でも非OA（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27834,6 +27855,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2827
   legacy_id: null
   title: 日本皮膚科学会. 蕁麻疹診療ガイドライン2026（第4版）. 日本皮膚科学会. 2026
@@ -27877,10 +27901,10 @@
   doi: 10.1016/j.anai.2022.08.003
   pmid: '35988876'
   pmcid: null
-  license_note: 未確認
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ60）：Crossref の刊行版ライセンスは Elsevier の TDM ライセンスのみで、Europe PMC でも非OA（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27888,6 +27912,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2901
   legacy_id: null
   title: 'Smolen JS, Edwards CJ, Konzett V, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biologic disease-modifying antirheumatic drugs: 2025 update. Ann Rheum Dis. 2026;85(6):991-1009'
@@ -27949,10 +27976,10 @@
   doi: null
   pmid: '1578458'
   pmcid: null
-  license_note: The Journal of Rheumatology（CC表示なし）
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Europe PMC で非OA・ライセンス表示なし。The Journal of Rheumatology の購読論文で CC 表示はない（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：The Journal of Rheumatology（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27960,6 +27987,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2905
   legacy_id: null
   title: Fautrel B, Mitrovic S, De Matteis A, et al. EULAR/PReS recommendations for the diagnosis and management of Still's disease, comprising systemic juvenile idiopathic arthritis and adult-onset Still's disease. Ann Rheum Dis. 2024;83(12):1614-1627
@@ -27985,10 +28015,10 @@
   doi: 10.1002/art.40930
   pmid: '31385462'
   pmcid: PMC6827566
-  license_note: CC表示は確認できず（Wiley の版の利用条件のみ）
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Crossref の VoR ライセンスは Wiley の利用条件のみ。PMC に著者原稿（PMC6827566）はあるがライセンス表示がなく、自由利用の対象ではない（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：CC表示は確認できず（Wiley の版の利用条件のみ）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27996,6 +28026,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・pmcid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2907
   legacy_id: null
   title: 'Fanouriakis A, Kostopoulou M, Andersen J, et al. EULAR recommendations for the management of systemic lupus erythematosus: 2023 update. Ann Rheum Dis. 2024;83(1):15-29'
@@ -28003,10 +28036,10 @@
   doi: 10.1136/ard-2023-224762
   pmid: '37827694'
   pmcid: null
-  license_note: CC表示は確認できず（Elsevier の TDM／利用条件のみ）
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Crossref の刊行版ライセンスは Elsevier の TDM ライセンスと著者原稿用の Elsevier OA ユーザーライセンスのみで、いずれも CC ではない。Europe PMC でも非OA（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：CC表示は確認できず（Elsevier の TDM／利用条件のみ）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -28014,6 +28047,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2908
   legacy_id: null
   title: Morand EF, Furie R, Tanaka Y, et al. Trial of Anifrolumab in Active Systemic Lupus Erythematosus (TULIP-2). N Engl J Med. 2020;382(3):211-221
@@ -28021,10 +28057,10 @@
   doi: 10.1056/NEJMoa1912196
   pmid: '31851795'
   pmcid: null
-  license_note: CC表示なし
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Crossref にライセンス情報がなく、Europe PMC でも非OA。NEJM の購読論文で CC 表示はない（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：CC表示なし
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -28032,6 +28068,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2909
   legacy_id: null
   title: 'Shiboski CH, Shiboski SC, Seror R, et al. 2016 American College of Rheumatology/European League Against Rheumatism classification criteria for primary Sjögren''s syndrome: A consensus and data-driven methodology involving three international patient cohorts. Ann Rheum Dis. 2017;76(1):9-16'
@@ -28039,10 +28078,10 @@
   doi: 10.1136/annrheumdis-2016-210571
   pmid: '27789466'
   pmcid: null
-  license_note: CC表示なし（Crossref の license 欄は TDM 用ライセンスと誌ポリシーのみ）
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Crossref のライセンスは Elsevier の TDM 用ライセンス等のみで、Europe PMC でも非OA。CC 表示はない（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：CC表示なし（Crossref の license 欄は TDM 用ライセンスと誌ポリシーのみ）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -28050,6 +28089,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2910
   legacy_id: null
   title: 'Fujibayashi T, Sugai S, Miyasaka N, et al. Revised Japanese criteria for Sjögren''s syndrome (1999): availability and validity. Mod Rheumatol. 2004;14(6):425-434'
@@ -28057,10 +28099,10 @@
   doi: 10.3109/s10165-004-0338-x
   pmid: '24387718'
   pmcid: null
-  license_note: CC表示なし（Crossref の license 欄なし）
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Crossref にライセンス情報がなく、Europe PMC でも非OA。CC 表示はない（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：CC表示なし（Crossref の license 欄なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -28068,6 +28110,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2911
   legacy_id: null
   title: 'van den Hoogen F, Khanna D, Fransen J, et al. 2013 classification criteria for systemic sclerosis: an American College of Rheumatology/European League against Rheumatism collaborative initiative. Ann Rheum Dis. 2013;72(11):1747-1755'
@@ -28075,10 +28120,10 @@
   doi: 10.1136/annrheumdis-2013-204424
   pmid: '24092682'
   pmcid: null
-  license_note: CC表示なし（Crossref の license 欄は TDM 用ライセンスのみ）
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Crossref のライセンスは Elsevier の TDM 用ライセンスのみで、Europe PMC でも非OA。CC 表示はない（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：CC表示なし（Crossref の license 欄は TDM 用ライセンスのみ）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -28086,6 +28131,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2912
   legacy_id: null
   title: 'Del Galdo F, Lescoat A, Conaghan PG, et al. EULAR recommendations for the treatment of systemic sclerosis: 2023 update. Ann Rheum Dis. 2025;84(1):29-40'
@@ -28111,10 +28159,10 @@
   doi: 10.1002/art.24621
   pmid: '19565506'
   pmcid: null
-  license_note: Wiley の利用条件のみ（CC表示なし）
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Crossref の VoR ライセンスは Wiley の利用条件のみで、Europe PMC でも非OA。CC 表示はない（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Wiley の利用条件のみ（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -28122,6 +28170,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2914
   legacy_id: null
   title: Aggarwal R, Charles-Schoeman C, Schessl J, et al. Trial of Intravenous Immune Globulin in Dermatomyositis. N Engl J Med. 2022;387(14):1264-1278
@@ -28165,10 +28216,10 @@
   doi: null
   pmid: '14760812'
   pmcid: null
-  license_note: J Rheumatol（CC表示を確認できず）
+  license_note: 出版社・学会の著作物（CC ではない。作り手が Crossref・Europe PMC で確認、バッチ61）：Europe PMC で非OA・ライセンス表示なし。The Journal of Rheumatology の購読論文で CC 表示はない（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：J Rheumatol（CC表示を確認できず）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -28176,6 +28227,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2946
   legacy_id: null
   title: Ponte C, Grayson PC, Robson JC, et al. 2022 American College of Rheumatology/EULAR classification criteria for giant cell arteritis. Ann Rheum Dis. 2022;81(12):1647-1653
