@@ -18,7 +18,7 @@
     source_license: CC 表示なし（Elsevier、購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ78 2026-11-15）：Baldaçara L, Pettersen AG, Leite VDS, et al. Brazilian Psychiatric Association Consensus for the Management of Acute Intoxication: general management and specific interventions for drugs of abuse. Trends Psychiatry Psychother. 2024;46:e20220571（PMID: 36463505、DOI: 10.47626/2237-6089-2022-0571、PMCID: PMC11332681、https://pmc.ncbi.nlm.nih.gov/articles/PMC11332681/）。裏づける部分：候補（CC BY のコンセンサス文書）の Table 2 が、血中アルコール濃度と症状の段階対応（100 mg/dL超で失調・判断力低下・言語不明瞭、200 mg/dL超で健忘・複視・構音障害・低体温・悪心嘔吐、400 mg/dL超で呼吸抑制・昏睡・死亡）を再掲し、治療は気道確保とバイタルサインの確認・観察を中心とする支持療法であることを述べ、カードの主張の骨格と一致する。数値の照合：100・200・400 mg/dL超の各段階と症状は候補と一致する。第1段階は、候補が多弁・リラックスを「50 mg/dL未満」の行に置くのに対し、カード（主出典の対応表）は50 mg/dL超の側に置いており、境界の置き方が異なる（申し送り参照）。代謝性合併（低血糖・乳酸アシドーシス・電解質異常）の列挙は、候補では中毒全般の初期検査の範囲にとどまる。留保：主出典 SRC-3971 の区分は現行 RESTRICTED が正しい（Eur J Intern Med、Elsevier。Crossref は TDM ライセンスのみ、Europe PMC の個別レコードで非 OA）。識別子補完候補あり（補完候補の節参照）'
   uncertainty: BAC と症状の段階対応は出典の表（原典は Vonghia 2008 の対応表）から読み取った目安であり、耐性や併用薬物で大きくずれる。同総説が治療薬として挙げる metadoxine は国内承認を確認していないため、主張には含めていない。
   curriculum:
     kokushi: 医学各論 ⅩⅢ-2-A-①（急性アルコール中毒、a）
@@ -33,6 +33,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ78 2026-11-15）。三原の承認（2026-11-11）による
 - id: TX-002
   domain: TX
   subdomain: 急性アルコール中毒
@@ -88,7 +91,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ78 2026-11-15）：Kumar MS, Vaishnav M, Saha G, Raheja D. Management algorithm for alcohol withdrawal syndrome, alcohol dependence (AD) and AD with anxiety in the Indian population: a narrative review with expert opinion. Front Psychiatry. 2026;17:1758995（PMID: 41908117、DOI: 10.3389/fpsyt.2026.1758995、PMCID: PMC13021624、https://pmc.ncbi.nlm.nih.gov/articles/PMC13021624/）。裏づける部分：候補（CC BY の管理アルゴリズム総説）が、CIWA-Ar は離脱の重症度を定量化し治療方針を導く評価尺度であること、ベンゾジアゼピンが重症・複雑性の離脱の第一選択で固定用量・症状誘発式・前倒し投与の regimen があること、チアミンは欠乏・Wernicke 脳症では静注が推奨されることを述べ、カードの主張の骨格と一致する。数値の照合：数値なし（管理方針のカード）。入院患者全員のリスク層別化と PAWSS の使用、症状誘発式が固定用量より総投与量・入院期間が短いという比較、栄養不良・重症・ICU 患者での非経口チアミン推奨という具体化は、候補に再掲なし。留保：主出典 SRC-3616 の区分は現行 RESTRICTED が正しい（J Addict Med、Wolters Kluwer。Crossref にライセンス登録なし、Europe PMC の個別レコードで非 OA）。識別子補完候補あり'
   uncertainty: 米国のガイドライン（2020年版）に基づく。本出典は第51回 SB-002 で登録済みであり、本カードは離脱の身体管理の側面に限る（依存症の診断・精神科的治療の一般論は Ⅱ の範囲）。ベンゾジアゼピンは薬剤群としての記載であり、個別製剤の国内承認・適応は各製剤の添付文書で確認する前提である。
   curriculum:
     kokushi: 医学各論 ⅩⅢ-2-A-②（アルコール依存症、a）
@@ -103,6 +106,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ78 2026-11-15）。三原の承認（2026-11-11）による
 - id: TX-004
   domain: TX
   subdomain: アルコール精神病
@@ -123,7 +129,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ78 2026-11-15）：Kaye AD, Staser AN, Mccollins TS, et al. Delirium Tremens: A Review of Clinical Studies. Cureus. 2024;16(4):e57601（PMID: 38707114、DOI: 10.7759/cureus.57601、PMCID: PMC11069634、https://pmc.ncbi.nlm.nih.gov/articles/PMC11069634/）。裏づける部分：候補（CC BY 総説）が、離脱せん妄は通常、最終飲酒の48〜72時間後に生じて約1〜8日続くこと、治療の中心はベンゾジアゼピンと支持療法でチアミンの早期補充が必須であること、重症例では ICU 管理を要しうることを述べ、カードの主張のうち発症・経過と治療の範囲と一致する。数値の照合：発症（48〜72時間）と持続（1〜8日）は候補と整合する（カードの発症は約72時間）。離脱症状を呈する割合（約半数）と重症の離脱に進む割合（3〜5%）は候補に再掲なし。死亡率は候補が「最大20%」（未治療の文脈）としており、カードの「最大で約4%」とは枠組みが異なるため、死亡率の裏づけには使わないこと（申し送り参照）。留保：主出典 SRC-3973 の区分は現行 RESTRICTED が正しい（N Engl J Med。Europe PMC の個別レコードで非 OA）。識別子補完候補あり'
   uncertainty: 発症までの時間には、資料により48〜96時間とする幅がある。アルコール幻覚症は意識清明のもとでの幻覚であり離脱せん妄と鑑別すべき状態だが、その診断と精神科的治療は Ⅱ（精神）の範囲に寄せ、本カードでは扱っていない。Wernicke 脳症そのものは第29回 ND で作成済みであり、ここでは離脱管理に伴うチアミン投与（予防）の範囲に留めた。ベンゾジアゼピン等の個別製剤の国内承認は添付文書で確認する前提である。
   curriculum:
     kokushi: 医学各論 ⅩⅢ-2-A-③（アルコール精神病、a）
@@ -138,6 +144,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ78 2026-11-15）。三原の承認（2026-11-11）による
 - id: TX-005
   domain: TX
   subdomain: 慢性アルコール性臓器障害
@@ -158,7 +167,7 @@
     source_license: CC 表示なし（購読誌。著者原稿が PMC に収載）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ78 2026-11-15）：Wang S, Hu Y, Chu H. Alcohol-Associated Liver Disease: Epidemiology, Pathogenesis, and Emerging Therapeutic Targets. MedComm. 2026;7(11):e71120（PMID: 42996894、DOI: 10.1002/mco2.71120、PMCID: PMC13740686、https://pmc.ncbi.nlm.nih.gov/articles/PMC13740686/）。裏づける部分：候補（CC BY 総説）が、アルコール関連肝疾患は脂肪肝からアルコール性肝炎・線維化・肝硬変へと進展するスペクトラムであること、重症アルコール性肝炎で有効性が示されている薬物治療はステロイドのみで（STOPAH 試験でプレドニゾロンに短期的な利益）、ペントキシフィリンには生存改善がなかったことを述べ、カードの主張の骨格と一致する。数値の照合：重症の目安である MELD スコア20超は候補に再掲なし。ステロイドの位置づけ（唯一有効性が示された薬物治療）とペントキシフィリンの否定的評価は候補と一致する。留保：主出典 SRC-3974 の区分は現行 RESTRICTED が正しい（Am J Gastroenterol、Wolters Kluwer。PMC 収載分 PMC11040545 は著者稿でライセンス表示なし）。識別子補完候補あり'
   uncertainty: 米国のガイドライン（2024年）に基づく。国内の診断基準は日本肝臓学会『アルコール性肝障害（アルコール関連肝疾患）診療ガイド 2022』に整理されているが、基準本文の逐語確認ができていないため、本カードの主張には含めていない。ステロイドは薬剤群としての記載であり、個別製剤の国内適応は添付文書で確認する前提である。
   curriculum:
     kokushi: 医学各論 ⅩⅢ-2-A-④（慢性アルコール性臓器障害、a）；医学各論 Ⅵ-6-E-③（アルコール性肝障害、a）
@@ -176,6 +185,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-6-E-③ を足した（医学各論 ⅩⅢ-2-A-④（慢性アルコール性臓器障害、a） → 医学各論 ⅩⅢ-2-A-④（慢性アルコール性臓器障害、a）；医学各論 Ⅵ-6-E-③（アルコール性肝障害、a））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ78 2026-11-15）。三原の承認（2026-11-11）による
 - id: TX-006
   domain: TX
   subdomain: 慢性アルコール性臓器障害
@@ -269,7 +281,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ78 2026-11-15）：Dutta S, Buciuc AG, Barry P, Padilla V. A Narrative Review on Toxidromes in the Psychiatric Population: Implications for Overdose Prevention. J Clin Med. 2025;14(17):6160（PMID: 40943922、DOI: 10.3390/jcm14176160、PMCID: PMC12429776、https://pmc.ncbi.nlm.nih.gov/articles/PMC12429776/）。裏づける部分：候補（CC BY 総説）が、Z ドラッグ（ゾルピデムとザレプロンを例示）はベンゾジアゼピンと同様に GABA-A 受容体への作用を介して中枢抑制を来すこと、鎮静薬トキシドロームの臨床像は鎮静から昏睡に至る中枢抑制であり、対応の中心は支持療法であることを述べ、カードの主張の骨格と一致する。数値の照合：数値なし（機序と臨床像のカード）。ゾピクロンは候補で例示がない。「死亡はまれで多剤併用時に起こりやすい」点と「フルマゼニルが3剤すべての Z ドラッグの鎮静を拮抗する」点は候補に再掲なし（候補のフルマゼニルはベンゾジアゼピンへの拮抗と注意点の文脈で述べられる）。留保：主出典 SRC-3977 の区分は現行 RESTRICTED が正しい（J Med Toxicol、Springer。PMC 収載分 PMC3657020 は著者稿でライセンス表示なし）。識別子補完候補あり'
   uncertainty: 海外の総説（2013年）に基づく。Z ドラッグの構成は出典の記載によるもので、個別製剤の国内承認状況は添付文書で確認する必要がある。フルマゼニルの国内の効能・用法は添付文書の範囲に限られる（TX-009）。依存そのものの診断・治療は Ⅱ の範囲であり、本カードは過量服薬時の身体管理に限る。
   curriculum:
     kokushi: 医学各論 ⅩⅢ-2-B-①（睡眠薬依存・中毒、a）
@@ -284,6 +296,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ78 2026-11-15）。三原の承認（2026-11-11）による
 - id: TX-009
   domain: TX
   subdomain: 睡眠薬依存・中毒
@@ -342,7 +357,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ78 2026-11-15）：Taylor D, Poulou S, Clark I. The cardiovascular safety of tricyclic antidepressants in overdose and in clinical use. Ther Adv Psychopharmacol. 2024;14:20451253241243297（PMID: 38827015、DOI: 10.1177/20451253241243297、PMCID: PMC11141239、https://pmc.ncbi.nlm.nih.gov/articles/PMC11141239/）。裏づける部分：候補（CC BY 総説）が、三環系抗うつ薬の毒性はノルアドレナリン再取り込み阻害、直接のα遮断、心筋へのキニジン様（膜安定化）作用、抗コリン作用の4つの薬理作用によると整理し、房室ブロックと心室性不整脈、低血圧が過量服薬の合併症であり、痙攣・呼吸抑制・昏睡が死亡リスクに関わることを述べ、カードの主張の骨格と一致する。数値の照合：数値なし（機序と重症像のカード）。QRS 延長の明示と、心毒性に対して重炭酸ナトリウムを用いる点は候補に再掲なし。留保：主出典 SRC-3979 の区分は現行 RESTRICTED が正しい（Emerg Med J、BMJ。PMC 収載分 PMC1725608 はアーカイブ分でライセンス表示なし）。識別子補完候補あり'
   uncertainty: 海外の総説（2001年）に基づく古典的な整理である。重炭酸ナトリウムの用量の目安は、ガイドライン級の一次資料では本作成時点で確認しておらず、国内標準書（『新版 急性中毒標準診療ガイド』2023）との突き合わせが宿題として残る。抗不安薬（ベンゾジアゼピン系）の過量は TX-008・TX-009 の範囲とし、本カードは抗うつ薬側に寄せた。SSRI・SNRI の過量やセロトニン症候群は本カードでは扱っていない。
   curriculum:
     kokushi: 医学各論 ⅩⅢ-2-B-②（向精神薬依存・中毒、a）
@@ -357,6 +372,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ78 2026-11-15）。三原の承認（2026-11-11）による
 - id: TX-011
   domain: TX
   subdomain: 向精神薬依存・中毒
@@ -377,7 +395,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ78 2026-11-15）：Taylor D, Poulou S, Clark I. The cardiovascular safety of tricyclic antidepressants in overdose and in clinical use. Ther Adv Psychopharmacol. 2024;14:20451253241243297（PMID: 38827015、DOI: 10.1177/20451253241243297、PMCID: PMC11141239、https://pmc.ncbi.nlm.nih.gov/articles/PMC11141239/）。裏づける部分：候補（CC BY 総説）が、心毒性の中心は心筋へのキニジン様（膜安定化）作用を含む薬理作用にあり、伝導を低下させる作用が致死的な毒性と相関すること、房室ブロック・心室性不整脈・低血圧が過量服薬の主な心合併症であることを述べ、カードの主張のうち心毒性の中心像と一致する。数値の照合：数値なし（機序のカード）。活動電位の第0相の脱分極が遅れるという記述そのものと、アシドーシスが心毒性を悪化させる点、血中 pH が正常でも重炭酸ナトリウムが有益でありうる点は、候補に再掲なし。重炭酸ナトリウムの作用（ナトリウム負荷と血清アルカリ化）の再掲については申し送り参照。留保：主出典 SRC-3980 の区分は現行 RESTRICTED が正しい（Med Toxicol、Springer。Crossref は TDM ライセンスのみ、Europe PMC の個別レコードで非 OA）。識別子補完候補あり'
   uncertainty: 1986年の総説に基づく古典的な機序の整理であり、アミトリプチリン中毒の実験研究（Sasyniuk 1986）が重炭酸ナトリウムによる伝導改善を支持する。用量の数値は本カードでは扱っていない。
   curriculum:
     kokushi: 医学各論 ⅩⅢ-2-B-②（向精神薬依存・中毒、a）
@@ -392,6 +410,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ78 2026-11-15）。三原の承認（2026-11-11）による
 - id: TX-012
   domain: TX
   subdomain: 解熱鎮痛薬依存・中毒
@@ -412,7 +433,7 @@
     source_license: CC BY-NC-ND（誌面のオープンアクセス表示で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ78 2026-11-15）：Watson CJ, Simpson MD, Saraiya N, et al. N-Acetylcysteine Dose and Treatment Duration in High-Risk Acetaminophen Ingestions Treated Within Eight Hours: A Retrospective Cohort Study. J Med Toxicol. 2026;22(2):253-262（PMID: 41857443、DOI: 10.1007/s13181-026-01129-5、PMCID: PMC13076740、https://pmc.ncbi.nlm.nih.gov/articles/PMC13076740/）。裏づける部分：候補（CC BY の原著。刊行版ライセンス CC BY 4.0 を Crossref の版データと PMC ページの表示で確認）が、2023年の米国・カナダのコンセンサス声明が定義した「high-risk ingestion」の概念を同声明への帰属を明示して用い、Rumack-Matthew ノモグラムの濃度ライン（300・450・600 mcg/mL）に基づくアセチルシステインの用量層別と、濃度・AST の推移による投与延長の判断を述べており、カードの主張のうち新概念の導入とノモグラム運用の範囲と一致する。数値の照合：ノモグラムの濃度ライン（300・450・600 mcg/mL）は候補の用量層別として再掲あり。急性摂取の定義の見直しの具体的内容、改訂版ノモグラムそのもの、アセチルシステインの中止基準の文言、反復過剰摂取ではノモグラムは使えない点は、候補に再掲なし。留保：主出典 SRC-3981 の刊行版ライセンスは CC BY-NC-ND 4.0 と特定でき（Unpaywall と OpenAlex の双方で刊行版を確認）、現行 RESTRICTED が正しい。JAMA Network Open は CC BY と誤認しやすいが本声明は異なる（申し送り参照）。識別子補完候補あり'
   uncertainty: 米国・カナダの声明に基づく。国内ではアセチルシステイン内用液17.6%が「アセトアミノフェン過量摂取時の解毒」の効能で承認されており（2002年承認）、用法・用量は経口（困難な場合は胃管・十二指腸管）で、初回140 mg/kg、4時間後から70 mg/kgを4時間ごとに17回である（審査資料・添付文書で確認）。静注製剤のアセトアミノフェン解毒の適応は、開いた資料の範囲では確認できなかった（未確認）。国内添付文書にもノモグラムが収載されているが、その治療ラインが本声明の改訂版と同一かは突き合わせていない。
   curriculum:
     kokushi: 医学各論 ⅩⅢ-2-B-③（解熱鎮痛薬依存・中毒、a）
@@ -427,6 +448,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ78 2026-11-15）。三原の承認（2026-11-11）による
 - id: TX-013
   domain: TX
   subdomain: 解熱鎮痛薬依存・中毒
@@ -447,7 +471,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ78 2026-11-15）：Sidlak AM, Spadaro A, Koyfman A, Long B. Acute Salicylate Toxicity: A Narrative Review for Emergency Clinicians. Cureus. 2025;17(9):e91505（PMID: 41049912、DOI: 10.7759/cureus.91505、PMCID: PMC12491073、https://pmc.ncbi.nlm.nih.gov/articles/PMC12491073/）。裏づける部分：候補（CC BY 総説）が、EXTRIP の推奨への帰属を明示して、意識障害（精神状態の変化）がある例、酸素投与を要する低酸素の例、標準治療が奏効しない例では血中濃度にかかわらず透析が推奨されること、濃度の目安を表として（100 mg/dL超、腎機能障害がある場合は90 mg/dL超で推奨。90 mg/dL超、腎機能障害がある場合は80 mg/dL超で提案）再掲し、カードの主張の骨格と一致する。数値の照合：カードの閾値（7.2 mmol/L＝100 mg/dL超が強い推奨、6.5 mmol/L＝90 mg/dL超が弱い推奨、腎機能障害がある場合は閾値が下がる）は、候補の表の mg/dL の枠組みと一致する。mmol/L での値そのものは候補に再掲なし。「血液透析・血液灌流で除去可能である（エビデンスレベルB）」という格付けと「望ましい様式は間欠的血液透析」の明示は候補に再掲なし（間欠的血液透析は症例の文脈でのみ言及される）。留保：主出典 SRC-3982 の区分は現行 RESTRICTED が正しい（Ann Emerg Med、Elsevier。Crossref は TDM ライセンスのみ、Europe PMC の個別レコードで非 OA）。識別子補完候補あり'
   uncertainty: 推奨の根拠となった文献は84編で、その大半（80編）は症例報告・症例集積であり、推奨全体のエビデンスの質は非常に低いと出典自体が明記している。閾値の数値は出典の抄録と著者稿で確認した。サリチル酸中毒の臨床像と酸塩基管理の詳細は本カードでは扱っておらず、国内標準書（『新版 急性中毒標準診療ガイド』2023）との突き合わせが宿題として残る。
   curriculum:
     kokushi: 医学各論 ⅩⅢ-2-B-③（解熱鎮痛薬依存・中毒、a）
@@ -462,6 +486,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ78 2026-11-15）。三原の承認（2026-11-11）による
 - id: TX-014
   domain: TX
   subdomain: 麻薬依存・中毒
@@ -520,7 +547,7 @@
     source_license: CC BY-NC（誌面のオープンアクセス表示で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ78 2026-11-15）：Fischer LS, Asher A, Stein R, et al. Effectiveness of naloxone distribution in community settings to reduce opioid overdose deaths among people who use drugs: a systematic review and meta-analysis. BMC Public Health. 2025;25(1):1135（PMID: 40133970、DOI: 10.1186/s12889-025-22210-8、PMCID: PMC11934755、https://pmc.ncbi.nlm.nih.gov/articles/PMC11934755/）。裏づける部分：候補（CC BY の系統的レビュー）が、マサチューセッツ州の時系列分析について、未実施の地域と比べて、低実施（人口10万人あたり登録1〜100人）の地域年ではオピオイド過量死が27%減少し、高実施（100人を超える）の地域年では46%減少したことを、実施量の層別の定義とともに再掲し、カードの主張のうち研究デザインと効果量の範囲と一致する。数値の照合：カードの調整率比0.73・0.54は、それぞれ27%減・46%減と相補の関係にあり、効果量は候補と一致する。訓練を受けた人数（2,912人）と救助件数（327件）、95%信頼区間、対象が19地域である点は候補に再掲なし。留保：主出典 SRC-3984 の刊行版ライセンスは CC BY-NC と特定でき（Europe PMC の個別レコード）、現行 RESTRICTED が正しい。マスターの license_note は空欄で、特定内容は申し送りに記す。識別子補完候補あり'
   uncertainty: 米国の観察研究であり、国内の実態への外挿はできない。国内ではナロキソンは静注製剤のみであり、点鼻製剤や一般向け配布は確認できていない（TX-014）。国内のオピオイド過量の疫学（救急搬送件数・死亡数）の政府統計は、本作成時点で確認できていない。
   curriculum:
     kokushi: 医学各論 ⅩⅢ-2-B-④（麻薬依存・中毒、a）
@@ -535,6 +562,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ78 2026-11-15）。三原の承認（2026-11-11）による
 - id: TX-016
   domain: TX
   subdomain: 覚醒剤依存・中毒
@@ -555,7 +585,7 @@
     source_license: CC 表示なし（購読誌。著者原稿が PMC に収載）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ78 2026-11-15）：Dutta S, Buciuc AG, Barry P, Padilla V. A Narrative Review on Toxidromes in the Psychiatric Population: Implications for Overdose Prevention. J Clin Med. 2025;14(17):6160（PMID: 40943922、DOI: 10.3390/jcm14176160、PMCID: PMC12429776、https://pmc.ncbi.nlm.nih.gov/articles/PMC12429776/）。裏づける部分：候補（CC BY 総説）の交感神経興奮トキシドロームの節が、メタンフェタミンを代表的な原因薬物として挙げ、臨床像は高血圧・頻拍・高体温・興奮を中心とし、冠攣縮による心筋虚血などの心合併症を来すこと、対応の中心は支持療法と鎮静でベンゾジアゼピンが第一選択であること、高体温には積極的冷却を行うことを述べ、カードの主張の骨格と一致する。数値の照合：数値なし（臨床像と管理方針のカード）。せん妄の明示、抗精神病薬の利益が複数の研究で確認されている点、「頻拍と高血圧はこれらでは軽減しないことがある」という留保は候補に再掲なし（候補は重症の高血圧・頻脈性不整脈にはα2作動薬や血管拡張薬を用いるとする）。留保：主出典 SRC-3985 の区分は現行 RESTRICTED が正しい（NEJM Evid。PMC 収載分 PMC11458184 は著者稿でライセンス表示なし）。識別子補完候補あり'
   uncertainty: 海外の総説（2023年、著者稿で確認）に基づく。覚醒剤精神病・依存の治療は Ⅱ の範囲であり、本カードは急性中毒の身体管理に限る。鎮静に用いる個別薬剤の国内適応は添付文書で確認する前提である。交感神経興奮状態での β 遮断薬の扱いは資料間で見解が分かれるため、主張には含めていない。国内の覚醒剤事犯の検挙人員（令和6年 6,306人）は厚生労働省の会議資料で確認したが、暫定値扱いの公表を含むため主張には含めていない。
   curriculum:
     kokushi: 医学各論 ⅩⅢ-2-B-⑤（覚醒剤依存・中毒、b）
@@ -570,6 +600,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ78 2026-11-15）。三原の承認（2026-11-11）による
 - id: TX-017
   domain: TX
   subdomain: 有機溶剤依存・中毒
@@ -590,7 +623,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ78 2026-11-15）：Shaw AA, Steketee JD, Bukiya AN, Dopico AM. Toluene Toxicity in the Brain: From Cellular Targets to Molecular Mechanisms. Annu Rev Pharmacol Toxicol. 2025;65:487-506（PMID: 39847463、DOI: 10.1146/annurev-pharmtox-012924-010532、PMCID: PMC12928535、https://pmc.ncbi.nlm.nih.gov/articles/PMC12928535/）。裏づける部分：候補（CC BY 総説）が、トルエンの脂溶性により髄鞘の構造（白質）が優先的に障害されること、剖検で大脳・小脳の白質が主に侵され皮質の灰白質が保たれること、脳室周囲白質の障害が乱用期間・認知低下と並行すること、認知面では情報処理速度の低下、注意、学習・短期記憶、遂行機能の障害がみられ、白質を主に侵す傷害の像と整合すると解釈されることを述べ、カードの主張の骨格と一致する。数値の照合：数値なし（障害パターンのカード）。候補の認知領域の列挙に言語は含まれない。「記憶の検索」は候補では学習・短期記憶としての記載である。実証研究30件という件数は候補に再掲なし。留保：主出典 SRC-3986 の区分は現行 RESTRICTED が正しい（Neurosci Biobehav Rev、Elsevier。Crossref は TDM ライセンスのみ、Europe PMC の個別レコードで非 OA）。識別子補完候補あり'
   uncertainty: 系統的レビュー（2008年）に基づく。対象は乱用による高濃度・間欠的な曝露のパターンであり、慢性の職業性曝露による中毒は第56回 OC の範囲である。混合溶剤（シンナー）としての資料は確認できていない。急性曝露時の不整脈（いわゆる sudden sniffing death）については一次資料の裏づけが取れなかったため、主張には含めていない。
   curriculum:
     kokushi: 医学各論 ⅩⅢ-2-B-⑥（有機溶剤依存・中毒、b）
@@ -605,6 +638,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/55_ev_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ78 2026-11-15）。三原の承認（2026-11-11）による
 - id: TX-018
   domain: TX
   subdomain: 毒劇物中毒

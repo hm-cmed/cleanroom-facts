@@ -18,7 +18,7 @@
     source_license: CC BY-NC-ND 4.0（Crossref・Europe PMC で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN／OPEN、作り手の調査バッチ98 2026-11-15）：Paparella R, Bei A, Bernabei I, et al. Idiopathic Short Stature in the Genomic Era: Integrating Auxology, Endocrinology, and Emerging Genetic Insights. Children (Basel). 2025;12(7):855／Linglart A, Cianfarani S, Dattani MT, et al. International Consensus on the Diagnosis and Clinical Management of Idiopathic Short Stature: A Modified Delphi Method. Horm Res Paediatr. 2026（PMID: 40723048／42658741、DOI: 10.3390/children12070855／10.1159/hrp/adaag008、PMCID: PMC12294097／PMC13713050、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補1（CC BY 総説）は「オークソロジーによる評価は低身長評価の要（cornerstone）であり、身長・成長速度・思春期の経過の精密な縦断的計測と標的身長の評価によって異常な成長の経過を早期に捉えられる」と述べ、カードの主張の中核（病歴・身体所見に加えて、計測値を成長曲線上で経時的に追う評価が最も重要な方法であり、単一時点の身長だけでなく成長の経過そのものを評価することが診断の出発点）と一致する。また「低身長は小児内分泌への紹介の一般的な理由（a common reason for pediatric endocrinology referral）」とも述べる。候補2（CC BY の国際コンセンサス）は、集団の成長曲線で身長 SDS を解釈すること、身長速度の評価には最低6か月空けた2回以上の計測が必要なこと、評価は病歴・身体所見・成長速度の文脈で解釈することを推奨として再掲する。ただし「小児内分泌医への紹介理由として最も頻度が高い」という最上級の表現そのものは候補のいずれにも再掲がない（候補1は common reason の表現にとどまる）。数値の照合：数値的主張はカードにない（身長 −2 SDS の定義はカードの uncertainty にあるとおり主張に入れられていない）。候補2の身長速度評価の条件（2回以上の計測・最低6か月間隔）はカードの主張の数値照合の対象ではない。留保：主出典 SRC-1027 の区分訂正（UNKNOWN→RESTRICTED）と license_note の更新、PMCID の補完はいずれもバッチ77で提案済みの再掲（区分訂正・識別子補完の節参照）。カード側はすでに source_class が RESTRICTED、source_license に「CC BY-NC-ND 4.0（Crossref・Europe PMC で確認）」の記載があり、マスター側の反映待ち。候補のライセンスはいずれも Crossref の版データ・Europe PMC の個別レコード・PMC 全文のライセンス要素で CC BY 4.0 と個別確認した。候補2は主出典と著者陣の重なる後継的なコンセンサス文書で、バッチ77で次回改訂時の出典差し替え（OPEN 化）候補として申し送り済み'
   uncertainty: 身長 −2 SDS 未満を低身長の目安とする定義は広く用いられるが、本出典について確認できた範囲（抄録）ではその文言を照合できなかったため、主張に数値は入れていない。日本で使われる標準成長曲線（国内標準値）との対応は本カードでは扱っていない。誌面発行は2019年で、2018年はオンライン先行の年である
   curriculum:
     kokushi: 医学各論 Ⅰ-4-D（成長・発達の障害、a）
@@ -33,6 +33,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN／OPEN、作り手の調査バッチ98 2026-11-15）。三原の承認（2026-11-11）による
 - id: GR-002
   domain: GR
   subdomain: 成長・発達の障害
@@ -52,8 +55,8 @@
     url: https://doi.org/10.1159/000452150
     source_license: © S. Karger AG（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN／OPEN、作り手の調査バッチ98 2026-11-15）：Linglart A, Cianfarani S, Dattani MT, et al. International Consensus on the Diagnosis and Clinical Management of Idiopathic Short Stature: A Modified Delphi Method. Horm Res Paediatr. 2026／Backeljauw PF, Andrews M, Bang P, et al. Challenges in the care of individuals with severe primary insulin-like growth factor-I deficiency (SPIGFD): an international, multi-stakeholder perspective. Orphanet J Rare Dis. 2023;18(1):312（PMID: 42658741／37805563、DOI: 10.1159/hrp/adaag008／10.1186/s13023-023-02928-7、PMCID: PMC13713050／PMC10559630、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補1（CC BY の国際コンセンサス）は主出典（Grimberg et al. 2016）を引用文献として挙げ、特発性低身長症（ISS）は除外診断であること、ISS の診断は GH 刺激試験で刺激時 GH が欠乏の閾値を超え、IGF-1・IGFBP-3 が正常範囲であることを確認して行うこと（すなわち成長ホルモン分泌不全症（GHD）との区別に IGF-I の測定を含む評価が必要なこと）、思春期前の低身長では ISS と体質性思春期遅延が初回評価で区別できない場合があることを述べ、鑑別の困難さと IGF-I を含む評価の進め方の骨格を裏づける。候補2（CC BY）は、原発性 IGF-I 欠損症（PIGFD）の重症型（SPIGFD）が GH 不感受性の枠組みに位置づけられること、診断の道筋自体が困難（challenging）であること、組換えヒト IGF-1（rhIGF-1）が SPIGFD に対する唯一の有効な治療であることを述べ、PIGFD 側の位置づけと組換え IGF-I 治療の位置づけを裏づける。ただし、2016年の小児内分泌学会ガイドラインがこの3病態を対象とし、評価の進め方と成長ホルモン治療・組換え IGF-I 治療の適応判断に関する推奨を示したというガイドライン自身の範囲表明そのものは、自由な全文には再掲がない（両候補とも主出典を引用文献として挙げるにとどまる）。数値の照合：数値的主張はカードにない。候補1の GH 刺激試験の閾値（ピーク GH 7.5〜10 µg/L、測定法・地域で異なると注記）は候補側の値であり、主出典の数値として裏づけ登録しないこと（申し送り参照）。留保：主出典 SRC-1026 の区分訂正（UNKNOWN→RESTRICTED）はバッチ77で提案済みの再掲（区分訂正の節参照）。候補のライセンスはいずれも Crossref の版データ・Europe PMC の個別レコード・PMC 全文のライセンス要素で CC BY 4.0 と個別確認した。カードの uncertainty にある国内承認の注記（特発性低身長症は国内の成長ホルモン承認適応に含まれない）は本棚卸しの対象外であり、変更していない'
   uncertainty: 薬剤の国内承認：成長ホルモン（ソマトロピン）の国内承認適応は、成長ホルモン分泌不全性低身長症、ターナー症候群・慢性腎不全における低身長、SGA性低身長症、プラダー・ウィリ症候群であり（PMDA 添付文書で確認した先行リサーチに基づく）、特発性低身長症（ISS）は国内の承認適応に含まれない。したがって本ガイドラインの ISS への成長ホルモン治療の議論は、国内の保険適用とは一致しない。長時間作用型の成長ホルモン製剤の国内承認状況は未確認
   curriculum:
     kokushi: 医学各論 Ⅰ-4-D（成長・発達の障害、a）
@@ -68,6 +71,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1026 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN／OPEN、作り手の調査バッチ98 2026-11-15）。三原の承認（2026-11-11）による
 - id: GR-003
   domain: GR
   subdomain: 成長・発達の障害
@@ -88,7 +97,7 @@
     source_license: 表示なし（American Academy of Pediatrics の著作物）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：Centers for Disease Control and Prevention. Developmental Monitoring and Screening / Clinical Screening for Autism Spectrum Disorder（CDC公式ページ）（https://www.cdc.gov/autism/hcp/diagnosis/screening.html）。裏づける部分：発達スクリーニングを9・18・30か月で行う体制と、サーベイランスで懸念があれば月齢を問わず対応する枠組みがCDC資料でも示されていること。CDCのマイルストーン資料（https://www.cdc.gov/act-early/milestones/?msclkid=bce69c0da6c711ecb71bcd9f33a5d9fb）も同月齢を掲載。数値の照合：一致（月齢：カード9・18・30か月／CDC資料9・18・30か月）
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：Centers for Disease Control and Prevention. Developmental Monitoring and Screening / Clinical Screening for Autism Spectrum Disorder（CDC公式ページ）（https://www.cdc.gov/autism/hcp/diagnosis/screening.html）。裏づける部分：発達スクリーニングを9・18・30か月で行う体制と、サーベイランスで懸念があれば月齢を問わず対応する枠組みがCDC資料でも示されていること。CDCのマイルストーン資料（https://www.cdc.gov/act-early/milestones/?msclkid=bce69c0da6c711ecb71bcd9f33a5d9fb）も同月齢を掲載。数値の照合：一致（月齢：カード9・18・30か月／CDC資料9・18・30か月）。自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ98 2026-11-15）：CDC（National Center on Birth Defects and Developmental Disabilities）「Developmental Monitoring and Screening」（公式ページ、2026-02-16更新。参照文献1として主出典 Lipkin & Macias 2020 を明示）（https://www.cdc.gov/act-early/about/developmental-monitoring-and-screening.html）。裏づける部分：部分：候補（米国政府 CDC の公式ページ、GOV_US）は、主出典（Lipkin & Macias 2020）を参照文献1として明示したうえで、健診のたびに発達について確認し、到達の遅れや懸念があればスクリーニング検査を次の段階とする発達モニタリング（主出典のいうサーベイランスに相当）の進め方と、米国小児科学会（AAP）が標準化された発達スクリーニング検査を生後9か月・18か月・30か月の健診で実施するよう推奨していることをそのまま再掲し、懸念がある場合は予定の月齢以外でもスクリーニングを行うこと、発達の懸念が特定された場合は州の早期介入システムへの紹介・評価が次の段階であることを述べ、カードの主張の骨格（すべての健診の機会に発達サーベイランスを行うこと、標準化されたスクリーニングを9か月・18か月・30か月に実施する体制、懸念が得られた場合は月齢を問わずスクリーニングの実施または早期介入・専門医療への紹介に進めること）と一致する。ただし候補は保護者向けの平易な説明であり、AAP 臨床報告自身の推奨文の形（サーベイランスの構成要素の定義など）までは再掲がなく、サーベイランスに当たる概念は developmental monitoring の語で説明されている。数値の照合：スクリーニング実施月齢（生後9か月・18か月・30か月）は候補の再掲と完全一致する。留保：主出典 SRC-3529 は Crossref の版データにライセンス登録がなく、Europe PMC の個別レコードでも非 OA・PMC 未収載で、© AAP の著作物として現行 RESTRICTED が正しい（区分訂正なし）。識別子補完候補あり（識別子補完の節参照）。候補は米国政府の公式ページで、その内容は政府の全文として読める（GOV_US）
   uncertainty: 本カードは米国の枠組みを示す。日本では母子保健法に基づく1歳6か月児健康診査と3歳児健康診査が法定健診であり、発達の確認はこれらの場でも行われる。本カードは発達の評価と早期発見の総論に留め、自閉スペクトラム症などの発達障害そのものの診断・療育は扱わない（Ⅱの範囲）
   curriculum:
     kokushi: 医学各論 Ⅰ-4-D（成長・発達の障害、a）
@@ -106,3 +115,6 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ98 2026-11-15）。三原の承認（2026-11-11）による

@@ -18,7 +18,7 @@
     source_license: 表示なし（書籍）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ95 2026-11-15）：So R, Nouso K, Matsushita S, Yoshiji H, Yuzuriha T, et al. Efficacy and safety of a digital therapeutic for alcohol dependence: A multicenter, open-label, randomized controlled trial. Psychiatry Clin Neurosci. 2025;79(10):667-676（PMID: 40719411、DOI: 10.1111/pcn.13874、PMCID: PMC12498122、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補（アルコール依存症のデジタル治療アプリの RCT、CC BY）は、その引用文献8として主出典（2018年ガイドライン）を挙げたうえで、「最近の日本の診療ガイドラインは、過度の飲酒による重篤な身体的・精神的・社会的問題のない患者について、飲酒量低減を実現可能な治療目標として記述している」「日本の依存症専門家の多くは飲酒量低減を妥当な中間目標とみなしている」と再掲する。ガイドラインが断酒だけを目標とせず飲酒量低減を治療目標に位置づけたという骨格は裏づけられる。ただし、カードの中心部分、すなわち治療目標は原則として断酒であることと、重症例などで本人が断酒に同意せず説得もうまくいかない場合に治療からの脱落を防ぐため飲酒量低減を暫定的な治療目標とするという推奨の切り分けは、候補では再掲されない（候補が低減を結びつける対象像はガイドラインの軽症側の規定に対応し、カードの重症側の規定とは異なる。申し送り参照）。数値の照合：数値的主張はカードにない。候補の「日本ではアルコール依存症の人の60〜75%が断酒より飲酒量低減の目標を好む」は別の調査の値であり、カードの主張の裏づけとして登録しないこと。留保：主出典（SRC-3615）は市販の書籍で DOI・PMID・PMCID は存在せず CC 表示もないため、現行 RESTRICTED が正しい。カードの推奨内容そのものは、精神神経学雑誌の特集論文（湯本洋介, 樋口進. アルコール依存症の新ガイドラインと治療ゴール. 精神経誌. 2021;123(8):475-481）がガイドラインの推奨事項を引用する形で確認でき、カードの記述（原則として断酒、重症例などで断酒に応じない場合に脱落を避けるため飲酒量低減を提案する）と一致するが、同誌は学会誌で CC 表示がなく自由な出典にはならないため候補に数えない。候補のライセンスは Crossref の版データ（CC BY 4.0）と PMC 全文のライセンス表示（CC BY 4.0）で個別確認した'
   uncertainty: 推奨文は、精神神経学雑誌の特集論文でガイドライン本文が引用されている形で確認した。薬剤の国内承認：アカンプロサートは2013年に承認（アルコール依存症患者における断酒維持の補助）、ナルメフェンは2019年に承認（飲酒量の低減。本ガイドライン刊行後の承認）、ジスルフィラムとシアナミドは抗酒薬として承認済み（個別の添付文書の文言は未照合）。ナルトレキソンの国内承認は確認できなかった。急性中毒の身体管理は第55回以降（ⅩⅢ）が正で本カードの範囲外。
   curriculum:
     kokushi: 医学各論 Ⅱ-1-E-①（アルコール依存症、a）
@@ -33,6 +33,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/51_ps_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ95 2026-11-15）。三原の承認（2026-11-11）による
 - id: SB-002
   domain: SB
   subdomain: アルコール依存症
@@ -53,7 +56,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN／OPEN、作り手の調査バッチ95 2026-11-15）：Kumar MS, Vaishnav M, Saha G, Raheja D. Management algorithm for alcohol withdrawal syndrome, alcohol dependence (AD) and AD with anxiety in the Indian population: a narrative review with expert opinion. Front Psychiatry. 2026;17:1758995／Ratner JA, Blaney H, Rastegar DA. Management of alcohol withdrawal syndrome in patients with alcohol-associated liver disease. Hepatol Commun. 2024;8(2):e0372（PMID: 41908117／38251886、DOI: 10.3389/fpsyt.2026.1758995／10.1097/HC9.0000000000000372、PMCID: PMC13021624／PMC10805424、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補1（CC BY の管理アルゴリズム論文）は、検索・比較の対象としたガイドラインの一つとして ASAM ガイドラインを挙げ、検証済みの尺度（CIWA-Ar 等）による重症度評価に基づいて入院と外来を振り分ける管理の枠組みと、離脱リスクの同定に家族等からの側副情報を取ることが ASAM の推奨に含まれることを再掲する。候補2（CC BY 総説）は ASAM ガイドラインの推奨をアルコール関連肝疾患という特殊な患者集団へ適用する形で、重症度に基づく入院判断と症状対応型の管理を再掲する。ただし、主出典そのものの範囲表明、すなわち成人のアルコール離脱について重症度に応じた同定と管理を外来と入院の両方の場面について示し、特殊な患者集団への配慮も含むというガイドライン自体の位置づけを、そのまま再掲する自由な全文はない。数値の照合：数値的主張はカードにない（重症度評価の尺度名と管理の枠組みの定性的な再掲のみ）。留保：主出典（SRC-3616）は Crossref の版データにライセンス登録がなく Europe PMC でも非 OA で、現行 RESTRICTED が正しい。これは TX-003 と同一出典であり、バッチ78 で確認済みの結論の再確認（再掲）である。識別子補完候補（PMID 32511109）もバッチ78 で提案済みの再掲（二重計上しない。カード側には記録済みでマスターは null）。候補のライセンスはいずれも Crossref の版データ（CC BY 4.0）と Europe PMC の個別レコード（cc by）で個別確認した'
   uncertainty: ガイドラインの範囲は要約版（J Addict Med. 2020;14(5):376-392）の抄録で確認した。薬物療法の中心はベンゾジアゼピン系薬とされるが、個別の推奨文の逐語確認は本文（購読誌）では未了。ベンゾジアゼピン系薬にアルコール離脱を効能とする国内承認は確認できず、国内で用いる場合は適応外使用になる。
   curriculum:
     kokushi: 医学各論 Ⅱ-1-E-①（アルコール依存症、a）
@@ -68,6 +71,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/51_ps_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN／OPEN、作り手の調査バッチ95 2026-11-15）。三原の承認（2026-11-11）による
 - id: SB-003
   domain: SB
   subdomain: アルコール依存症
@@ -88,7 +94,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ95 2026-11-15）：López-González A, Buitrago-López A, Rodríguez Malagón N, et al. Strengthening alcohol consumption screening in primary care for culturally diverse populations in Latin America: Adaptation and content and face validity of the AUDIT in Guaviare, Colombia. PLoS One. 2026;21(9):e0359625（PMID: 42814685、DOI: 10.1371/journal.pone.0359625、PMCID: PMC13626350、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補（AUDIT の文化適応研究、CC BY）は、AUDIT が WHO によってプライマリケアにおける危険な飲酒のスクリーニングのために開発されたこと、10項目が3つの領域（飲酒量＝項目1〜3、依存症状＝項目4〜6、有害な飲酒＝項目7〜10）からなること、各項目0〜4点で合計は0〜40点であること、8点以上が危険な飲酒を示すことを再掲する。WHO の6か国の共同プロジェクトという開発経緯と、開発研究の割合（危険・有害な飲酒の人の92%が8点以上、危険でない飲酒の人の94%が8点未満）は、自由な全文では再掲されない。WHO の AUDIT マニュアル（Babor et al., 2001）は全要素を再掲するが © WHO で CC 表示がなく、自由な出典としては使えない。数値の照合：部分一致：10項目・3領域・各項目0〜4点・合計40点満点・8点以上という構造とカットオフは候補の再掲と一致する。開発研究の92%と94%は候補に再掲がない。候補が別の出典から引く感度90%・特異度80%は主出典の92%・94%とは別の値であり、カードの値の裏づけとして登録しないこと。留保：主出典（SRC-3617）の刊行版ライセンスは Wiley の利用条件のみで CC 表示はなく（Crossref の版データに CC の登録はなく、Europe PMC の個別レコードでも非 OA）、現行 RESTRICTED が正しい。識別子補完候補あり（SRC-3617 の PMID。カード側には記録済みでマスターは null）。候補のライセンスは Crossref の版データ（CC BY 4.0）と PMC 全文のライセンス表示（CC BY 4.0）で個別確認した'
   uncertainty: 数値は出典の抄録で確認した。国内の診療でのカットオフの運用は目的や施設で異なる場合がある。
   curriculum:
     kokushi: 医学各論 Ⅱ-1-E-①（アルコール依存症、a）
@@ -103,6 +109,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/51_ps_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ95 2026-11-15）。三原の承認（2026-11-11）による
 - id: SB-004
   domain: SB
   subdomain: 精神病性障害(アルコール精神病、覚醒剤精神病、大麻精神病)
@@ -123,7 +132,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ95 2026-11-15）：Wearne TA, Cornish JL. A Comparison of Methamphetamine-Induced Psychosis and Schizophrenia: A Review of Positive, Negative, and Cognitive Symptomatology. Front Psychiatry. 2018;9:491（PMID: 30364176、DOI: 10.3389/fpsyt.2018.00491、PMCID: PMC6191498、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補（CC BY 総説）は、その引用文献32（＝主出典 McKetin 2006 であることを引用文献リストで照合済み）に帰属させる形で、「治療を求めていないオーストラリアのメタンフェタミン使用者の研究では、評価時点で13%が精神病のスクリーニングで陽性であり、過去1年間に『臨床的に有意な』精神病症状を報告した者は23%だった」と再掲する。対象者309人・過去1年間に月1回以上使用という標本の枠組みと、メタンフェタミン依存のある使用者では依存のない使用者に比べて精神病症状の経験が約3倍多いという比較は、自由な全文では再掲されない。数値の照合：部分一致：23%と13%は候補の再掲と一致する。依存の有無による約3倍という値は候補に再掲がない。候補にある「一般人口の2〜3倍」という記述は比較の枠組みが異なる別の値であり、カードの「依存のない使用者に比べて約3倍」の裏づけとして登録しないこと。留保：主出典（SRC-3618）の刊行版ライセンスは Wiley の利用条件のみで CC 表示はなく（Crossref の版データに CC の登録はなく、Europe PMC の個別レコードでも非 OA）、現行 RESTRICTED が正しい。識別子補完候補あり（SRC-3618 の PMID。カード側には記録済みでマスターは null）。候補のライセンスは Crossref の版データ（CC BY 4.0）と PMC 全文のライセンス要素（CC BY）で個別確認した'
   uncertainty: 横断調査であり、因果関係を示すものではない。数値は出典の抄録で確認した。国内の覚醒剤精神病の臨床像（遷延化や再燃など）は本研究の範囲外。
   curriculum:
     kokushi: 医学各論 Ⅱ-1-E-②（精神病性障害(アルコール精神病、覚醒剤精神病、大麻精神病)、b）
@@ -138,6 +147,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/51_ps_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ95 2026-11-15）。三原の承認（2026-11-11）による
 - id: SB-005
   domain: SB
   subdomain: 精神病性障害(アルコール精神病、覚醒剤精神病、大麻精神病)
@@ -193,7 +205,7 @@
     source_license: CC 表示なし（購読誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN／OPEN、作り手の調査バッチ95 2026-11-15）：Sharma R, Weinstein A. Gambling disorder comorbidity: a narrative review. Dialogues Clin Neurosci. 2025;27(1):1-18／Bissig L, Mutschler J. Off-label and investigational drugs in the treatment of gambling disorder: a critical review. Front Pharmacol. 2026;17:1806954（PMID: 40177908／42147309、DOI: 10.1080/19585969.2025.2484288／10.3389/fphar.2026.1806954、PMCID: PMC11980244／PMC13176223、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補1（併存症の総説、CC BY）は、行動的介入として認知行動療法・動機づけ面接・Gamblers Anonymous を並べて挙げ、「ギャンブル障害を正式な適応とする薬物療法はない」と明記し、物質使用障害・アルコール使用障害をはじめとする他の精神疾患との併存の多さを主題として再掲する。候補2（薬物療法の総説、CC BY）は、「公式に承認された薬物療法はまだない」こと、ガイドラインが認知行動療法と動機づけ面接を最良の実践・第一選択として推奨すること、併存する精神疾患への並行治療の必要性を再掲する。米国の成人における有病率0.5%という推定値と、「臨床の場でも見逃されやすい」という位置づけそのものは、自由な全文では再掲されない。数値の照合：一致する数値なし：カードの有病率0.5%（米国の成人の推定）は候補のいずれにも再掲がない。候補側には他国・他集団の有病率や範囲表示があるが、対象が異なるためカードの値の裏づけとして登録しないこと。留保：主出典（SRC-3620）の刊行版は Springer Nature の TDM ライセンスのみで CC 表示はなく（Crossref の版データ・Europe PMC の個別レコードとも非 OA）、現行 RESTRICTED が正しい。識別子補完候補あり（SRC-3620 の PMID。カード側には記録済みでマスターは null）。候補のライセンスはいずれも Crossref の版データ（CC BY 4.0）と PMC 全文のライセンス表示（CC BY 4.0）で個別確認した'
   uncertainty: 有病率0.5%は米国の成人の推定で、出典の総説の抄録に基づく。国内の有病率と対策の枠組み（ギャンブル等依存症対策基本法など）は本カードでは扱っていない。ゲーム障害はICD-11でギャンブル障害と同じ嗜癖性障害の群に位置づけられるが、本カードの出典はギャンブル障害の総説であり、ゲーム障害の扱いは申し送りに残した。
   curriculum:
     kokushi: 医学各論 Ⅱ-1-E-③（ギャンブル障害<ギャンブル依存>、ゲーム依存、c）
@@ -208,3 +220,6 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/51_ps_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN／OPEN、作り手の調査バッチ95 2026-11-15）。三原の承認（2026-11-11）による

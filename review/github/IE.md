@@ -12,7 +12,7 @@
 
 - 条件：region: 国際／population: 小児・思春期
 - 不確実性：薬剤（ソマトロピン）の国内承認・保険適用の範囲は、本調査では公的資料で個別に確認していない。
-- 出典：Grimberg A, DiVall SA, Polychronakos C, et al. Guidelines for Growth Hormone and Insulin-Like Growth Factor-I Treatment in Children and Adolescents: Growth Hormone Deficiency, Idiopathic Short Stature, and Primary Insulin-Like Growth Factor-I Deficiency. Horm Res Paediatr. 2016;86(6):361-397　[DOI 10.1159/000452150](https://doi.org/10.1159/000452150)　[PMID 27884013](https://pubmed.ncbi.nlm.nih.gov/27884013/)（区分 UNKNOWN）
+- 出典：Grimberg A, DiVall SA, Polychronakos C, et al. Guidelines for Growth Hormone and Insulin-Like Growth Factor-I Treatment in Children and Adolescents: Growth Hormone Deficiency, Idiopathic Short Stature, and Primary Insulin-Like Growth Factor-I Deficiency. Horm Res Paediatr. 2016;86(6):361-397　[DOI 10.1159/000452150](https://doi.org/10.1159/000452150)　[PMID 27884013](https://pubmed.ncbi.nlm.nih.gov/27884013/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-10-A-①（成長ホルモン分泌不全性低身長、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-487 (id: JlvnmNQ)；TBL-02-13-013 (id: JlAKpss)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IE-001&card_id=IE-001&version=79f9a569f6)　（版 `79f9a569f6`）
 
@@ -28,7 +28,7 @@
 
 - 条件：region: 国際／population: 小児
 - 不確実性：数値（身長SDS −2、低下幅0.3 SDS/年）は出典本文の記載に基づく。
-- 出典：Collett-Solberg PF, Ambler G, Backeljauw PF, et al. Diagnosis, Genetics, and Therapy of Short Stature in Children: A Growth Hormone Research Society International Perspective. Horm Res Paediatr. 2019;92(1):1-14　[DOI 10.1159/000502231](https://doi.org/10.1159/000502231)　[PMID 31514194](https://pubmed.ncbi.nlm.nih.gov/31514194/)（区分 UNKNOWN）
+- 出典：Collett-Solberg PF, Ambler G, Backeljauw PF, et al. Diagnosis, Genetics, and Therapy of Short Stature in Children: A Growth Hormone Research Society International Perspective. Horm Res Paediatr. 2019;92(1):1-14　[DOI 10.1159/000502231](https://doi.org/10.1159/000502231)　[PMID 31514194](https://pubmed.ncbi.nlm.nih.gov/31514194/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-10-A-①（成長ホルモン分泌不全性低身長、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-487 (id: JlvnmNQ)；TBL-02-13-013 (id: JlAKpss)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IE-002&card_id=IE-002&version=900e6f8f27)　（版 `900e6f8f27`）
 
@@ -76,7 +76,7 @@
 
 - 条件：region: 国際／population: 新生児・小児
 - 不確実性：21-ヒドロキシラーゼ欠損症が全体の約95%を占めるとの割合は、同学会ガイドラインの要約資料の記載に基づく。
-- 出典：Speiser PW, Arlt W, Auchus RJ, et al. Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2018;103(11):4043-4088　[DOI 10.1210/jc.2018-01865](https://doi.org/10.1210/jc.2018-01865)　[PMID 30272171](https://pubmed.ncbi.nlm.nih.gov/30272171/)（区分 UNKNOWN）
+- 出典：Speiser PW, Arlt W, Auchus RJ, et al. Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2018;103(11):4043-4088　[DOI 10.1210/jc.2018-01865](https://doi.org/10.1210/jc.2018-01865)　[PMID 30272171](https://pubmed.ncbi.nlm.nih.gov/30272171/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-10-A-③（先天性副腎皮質過形成、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-488 (id: JlvnmNY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IE-005&card_id=IE-005&version=f49f0b101a)　（版 `f49f0b101a`）
 
@@ -92,7 +92,7 @@
 
 - 条件：region: 国際／population: 小児
 - 不確実性：薬剤（ヒドロコルチゾン、フルドロコルチゾン）の国内承認・保険適用の範囲は、本調査では公的資料で個別に確認していない。
-- 出典：Speiser PW, Arlt W, Auchus RJ, et al. Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2018;103(11):4043-4088　[DOI 10.1210/jc.2018-01865](https://doi.org/10.1210/jc.2018-01865)　[PMID 30272171](https://pubmed.ncbi.nlm.nih.gov/30272171/)（区分 UNKNOWN）
+- 出典：Speiser PW, Arlt W, Auchus RJ, et al. Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2018;103(11):4043-4088　[DOI 10.1210/jc.2018-01865](https://doi.org/10.1210/jc.2018-01865)　[PMID 30272171](https://pubmed.ncbi.nlm.nih.gov/30272171/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-10-A-③（先天性副腎皮質過形成、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-488 (id: JlvnmNY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IE-006&card_id=IE-006&version=03f2670c8a)　（版 `03f2670c8a`）
 
@@ -108,7 +108,7 @@
 
 - 条件：region: 国際／population: 小児
 - 不確実性：薬剤（GnRHアゴニスト）の国内承認・保険適用の範囲は、本調査では公的資料で個別に確認していない。
-- 出典：Latronico AC, Brito VN, Carel JC. Causes, diagnosis, and treatment of central precocious puberty. Lancet Diabetes Endocrinol. 2016;4(3):265-274　[DOI 10.1016/S2213-8587(15)00380-0](https://doi.org/10.1016/S2213-8587(15)00380-0)　[PMID 26852255](https://pubmed.ncbi.nlm.nih.gov/26852255/)（区分 UNKNOWN）
+- 出典：Latronico AC, Brito VN, Carel JC. Causes, diagnosis, and treatment of central precocious puberty. Lancet Diabetes Endocrinol. 2016;4(3):265-274　[DOI 10.1016/S2213-8587(15)00380-0](https://doi.org/10.1016/S2213-8587(15)00380-0)　[PMID 26852255](https://pubmed.ncbi.nlm.nih.gov/26852255/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-10-A-④（性早熟症<思春期早発症>、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IE-007&card_id=IE-007&version=7430a287e6)　（版 `7430a287e6`）
 
@@ -124,7 +124,7 @@
 
 - 条件：region: 国際／population: 小児
 - 不確実性：2025年版ガイドラインの全文はオープンアクセスで確認できず、主張は抄録とガイドライン要約で確認できた範囲に基づく。日本語病名のアセトン血性嘔吐症と周期性嘔吐症候群の対応は完全には一致しない。
-- 出典：Karrento K, Rosen JM, Gelfand AA, et al. North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition 2025 guidelines on the diagnosis of cyclic vomiting syndrome in children. J Pediatr Gastroenterol Nutr. 2025;81(5):1346-1359　[DOI 10.1002/jpn3.70193](https://doi.org/10.1002/jpn3.70193)　[PMID 40836301](https://pubmed.ncbi.nlm.nih.gov/40836301/)（区分 UNKNOWN）
+- 出典：Karrento K, Rosen JM, Gelfand AA, et al. North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition 2025 guidelines on the diagnosis of cyclic vomiting syndrome in children. J Pediatr Gastroenterol Nutr. 2025;81(5):1346-1359　[DOI 10.1002/jpn3.70193](https://doi.org/10.1002/jpn3.70193)　[PMID 40836301](https://pubmed.ncbi.nlm.nih.gov/40836301/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-10-B-①（アセトン血性嘔吐症<周期性嘔吐症>、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IE-008&card_id=IE-008&version=628fb71073)　（版 `628fb71073`）
 
@@ -156,7 +156,7 @@
 
 - 条件：region: 国際／population: 小児
 - 不確実性：頻度は出典抄録の推定値（出生20,000〜43,000人に1人）であり、型別の頻度ではない。
-- 出典：Özen H. Glycogen storage diseases: New perspectives. World J Gastroenterol. 2007;13(18):2541-2553　[DOI 10.3748/wjg.v13.i18.2541](https://doi.org/10.3748/wjg.v13.i18.2541)　[PMID 17552001](https://pubmed.ncbi.nlm.nih.gov/17552001/)（区分 UNKNOWN）
+- 出典：Özen H. Glycogen storage diseases: New perspectives. World J Gastroenterol. 2007;13(18):2541-2553　[DOI 10.3748/wjg.v13.i18.2541](https://doi.org/10.3748/wjg.v13.i18.2541)　[PMID 17552001](https://pubmed.ncbi.nlm.nih.gov/17552001/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-10-C-①（糖原病、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IE-010&card_id=IE-010&version=3285926bc6)　（版 `3285926bc6`）
 
@@ -188,7 +188,7 @@
 
 - 条件：region: 国際／population: 小児・成人
 - 不確実性：疾患と欠損酵素の対応は出典の表から読み取り。酵素補充療法製剤の国内承認・保険適用は疾患ごとに異なり、本調査では個別に確認していない。
-- 出典：Platt FM, d'Azzo A, Davidson BL, Neufeld EF, Tifft CJ. Lysosomal storage diseases. Nat Rev Dis Primers. 2018;4(1):27　[DOI 10.1038/s41572-018-0025-4](https://doi.org/10.1038/s41572-018-0025-4)　[PMID 30275469](https://pubmed.ncbi.nlm.nih.gov/30275469/)（区分 UNKNOWN）
+- 出典：Platt FM, d'Azzo A, Davidson BL, Neufeld EF, Tifft CJ. Lysosomal storage diseases. Nat Rev Dis Primers. 2018;4(1):27　[DOI 10.1038/s41572-018-0025-4](https://doi.org/10.1038/s41572-018-0025-4)　[PMID 30275469](https://pubmed.ncbi.nlm.nih.gov/30275469/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-10-C-③（リピドーシス、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IE-012&card_id=IE-012&version=0180fe7c60)　（版 `0180fe7c60`）
 
@@ -204,7 +204,7 @@
 
 - 条件：region: 国際／population: 小児
 - 不確実性：薬剤（各型の酵素補充製剤）の国内承認・保険適用の範囲は、本調査では公的資料で個別に確認していない。
-- 出典：Muenzer J. Overview of the mucopolysaccharidoses. Rheumatology (Oxford). 2011;50 Suppl 5:v4-v12　[DOI 10.1093/rheumatology/ker394](https://doi.org/10.1093/rheumatology/ker394)　[PMID 22210669](https://pubmed.ncbi.nlm.nih.gov/22210669/)（区分 UNKNOWN）
+- 出典：Muenzer J. Overview of the mucopolysaccharidoses. Rheumatology (Oxford). 2011;50 Suppl 5:v4-v12　[DOI 10.1093/rheumatology/ker394](https://doi.org/10.1093/rheumatology/ker394)　[PMID 22210669](https://pubmed.ncbi.nlm.nih.gov/22210669/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-10-C-④（ムコ多糖症、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IE-013&card_id=IE-013&version=e37138a7bd)　（版 `e37138a7bd`）
 
@@ -235,7 +235,7 @@
 
 - 条件：region: 国際／population: 新生児〜成人
 - 不確実性：頻度（約35,000人に1人）と新生児期発症の割合（約半数）は出典ガイドライン第1改訂版の推定に基づく。
-- 出典：Häberle J, Burlina A, Chakrapani A, et al. Suggested guidelines for the diagnosis and management of urea cycle disorders: First revision. J Inherit Metab Dis. 2019;42(6):1192-1230　[DOI 10.1002/jimd.12100](https://doi.org/10.1002/jimd.12100)　[PMID 30982989](https://pubmed.ncbi.nlm.nih.gov/30982989/)（区分 UNKNOWN）
+- 出典：Häberle J, Burlina A, Chakrapani A, et al. Suggested guidelines for the diagnosis and management of urea cycle disorders: First revision. J Inherit Metab Dis. 2019;42(6):1192-1230　[DOI 10.1002/jimd.12100](https://doi.org/10.1002/jimd.12100)　[PMID 30982989](https://pubmed.ncbi.nlm.nih.gov/30982989/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-10-C-⑥（尿素サイクル異常症、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IE-015&card_id=IE-015&version=c5bd0d36d7)　（版 `c5bd0d36d7`）
 
@@ -282,7 +282,7 @@
 
 - 条件：region: 北米／対象: 小児の周期性嘔吐症候群患者
 - 不確実性：推奨の強さはガイドライン本文で確認した（強い推奨は抗片頭痛薬による頓挫のみで、他の薬剤はいずれも条件付き推奨、エビデンスの確実性は低い〜非常に低い）。国内承認の状況：オンダンセトロンは国内で抗悪性腫瘍剤投与に伴う悪心・嘔吐や術後の悪心・嘔吐に承認されているが、周期性嘔吐症候群への適応はない。トリプタン系薬は片頭痛への承認であり、プロプラノロール・シプロヘプタジン・アプレピタント・アミトリプチリンにも周期性嘔吐症候群への国内適応はなく、本カードの用法はいずれも適応外使用にあたる。誌面 PDF にはオープンアクセスである旨の表示があるが CC ライセンスの種別は確認できなかったため、診断編の SRC-1032 と同様に UNKNOWN とした。定義・診断は IE-008（SRC-1032、診断編ガイドライン）が担う。
-- 出典：Karrento K, Rosen JM, Gelfand AA, et al. North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition 2025 guidelines for management of cyclic vomiting syndrome in children. J Pediatr Gastroenterol Nutr. 2025;80(6):1028-1061.　[DOI 10.1002/jpn3.70020](https://doi.org/10.1002/jpn3.70020)　[PMID 40223700](https://pubmed.ncbi.nlm.nih.gov/40223700/)（区分 UNKNOWN）
+- 出典：Karrento K, Rosen JM, Gelfand AA, et al. North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition 2025 guidelines for management of cyclic vomiting syndrome in children. J Pediatr Gastroenterol Nutr. 2025;80(6):1028-1061.　[DOI 10.1002/jpn3.70020](https://doi.org/10.1002/jpn3.70020)　[PMID 40223700](https://pubmed.ncbi.nlm.nih.gov/40223700/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-10-B-①（アセトン血性嘔吐症<周期性嘔吐症>、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IE-018&card_id=IE-018&version=382bfaeaad)　（版 `382bfaeaad`）
 

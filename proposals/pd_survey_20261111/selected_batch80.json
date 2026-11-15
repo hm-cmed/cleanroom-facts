@@ -1,0 +1,77 @@
+{
+ "A": [],
+ "B": [
+  {
+   "card": "FG-001",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ80 2026-11-15",
+   "text": "Mallick DC, Kaushik N, Goyal L, Mallick L, Singh P. A Comprehensive Review of Candidemia and Invasive Candidiasis in Adults: Focus on the Emerging Multidrug-Resistant Fungal Pathogens. Diseases. 2025;13(4):93.（PMID: 40277804、DOI: 10.3390/diseases13040093、PMCID: PMC12026337、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：2016年IDSAガイドラインの存在を明記し、それに基づくカンジダ血症・侵襲性カンジダ症の管理枠組み（初期治療・移行・治療期間）を再掲する。数値の照合：数値の主張なし（ガイドラインの存在と範囲）。留保：主出典は RESTRICTED で確定（PMC版は非OAでライセンス表示なし）。CDCの Clinical Overview of Invasive Candidiasis ページ（GOV_US）も同ガイドライン準拠の治療を掲載するが2016年改訂自体は明記しないため、候補はCC BYレビューを採った"
+  },
+  {
+   "card": "FG-002",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ80 2026-11-15",
+   "text": "Finkina EI, Shevchenko OV, Gerasimova AA, Fateeva SI, Balandin SV, Ovchinnikova TV. WHO Critical Priority Fungi: A Comprehensive Review of Antifungal Resistance, Emerging Therapeutic Strategies, and the Potential of Antifungal Peptides. Int J Mol Sci. 2026;27:8141.（PMID: 42794569、DOI: 10.3390/ijms27188141、PMCID: PMC13607290、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：カンジダ血症・侵襲性カンジダ症の年間新規症例数と死亡数を主出典（Denning 2024）を引いて再掲する。数値の照合：死亡数995,000人は一致。症例数は候補が「およそ150万件」と概数化（カード1,565,000件）。死亡割合63.6%は候補に記載なし。留保：FG-004と同一候補"
+  },
+  {
+   "card": "FG-003",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ80 2026-11-15",
+   "text": "Corrêa-Junior D, Zamith-Miranda D, Frases S, Nosanchuk JD. From the Ground to the Clinic: The Evolution and Adaptation of Fungi. J Fungi. 2025;12(1):8.（PMID: 41590420、DOI: 10.3390/jof12010008、PMCID: PMC12842708、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：腐生性（腐敗植生）の環境生息、耐熱性（約50℃）が宿主内生存を可能にする重要な病原因子であること、肺感染・侵襲性アスペルギルス症の原因であることを再掲する。数値の照合：耐熱温度（約50℃）は一致。留保：「主たる生息地は土壌」の点は候補では腐敗植生・環境リザーバーとしての記載にとどまる。主出典は RESTRICTED で確定（PMC収載は著者稿でライセンス表示なし）"
+  },
+  {
+   "card": "FG-004",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ80 2026-11-15",
+   "text": "Finkina EI, Shevchenko OV, Gerasimova AA, Fateeva SI, Balandin SV, Ovchinnikova TV. WHO Critical Priority Fungi: A Comprehensive Review of Antifungal Resistance, Emerging Therapeutic Strategies, and the Potential of Antifungal Peptides. Int J Mol Sci. 2026;27:8141.（PMID: 42794569、DOI: 10.3390/ijms27188141、PMCID: PMC13607290、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：侵襲性アスペルギルス症の年間罹患者数（210万人超）と死亡率（85%超）を再掲する。数値の照合：罹患者数・死亡率は概ね一致（カード2,113,000人超・85.2%）。死亡絶対数約1,801,000人は候補に記載なし。留保：リスク文脈（COPD・ICU・肺がん・血液悪性腫瘍）の列挙は候補で確認できなかった。FG-002と同一候補"
+  },
+  {
+   "card": "FG-008",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ80 2026-11-15",
+   "text": "Jaramillo Cartagena A, Asowata OE, Ng D, Babady NE. An overview of the laboratory diagnosis of Pneumocystis jirovecii pneumonia. J Clin Microbiol. 2025;63(5):e00361-24.（PMID: 39898657、DOI: 10.1128/jcm.00361-24、PMCID: PMC11898755、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：当初は原虫に分類され激しい議論があったこと、1988年に配列データにより子嚢菌類の真菌へ再分類されたこと（主出典Edman 1988を引用）、シスト（ascus）と栄養型の二型を持つことを再掲する。数値の照合：再分類の年（1988年）は一致。留保：生活環の「シスト内に8個の小体」の点は候補に再掲がない。主出典は区分訂正（D）の対象"
+  },
+  {
+   "card": "FG-010",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ80 2026-11-15",
+   "text": "Tague C, Akilimali A, Makeda D, Yokolo H, Ekouo J, Cebweru Murhola G, Domga J, Silatchom Kamgang J, Koba Mjumbe C. Malaria Elimination in Suriname, Timor-Leste and Georgia: Strategic Lessons for Sub-Saharan Africa. J Trop Med. 2026;2026:2927281.（PMID: 42688838、DOI: 10.1155/jotm/2927281、PMCID: PMC13537102、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：2023年の推計症例数2億6,300万件・死亡数59.7万人、アフリカ地域の割合（症例94%・死亡95%）を再掲する。数値の照合：4数値とも一致。留保：前年比（症例+1,100万件・死亡は横ばい）と2000年以降の回避累計（症例22億件・死亡1,270万人）は候補に再掲がない。主出典は CC BY-NC-SA 3.0 IGO のため RESTRICTED のままで正しい"
+  },
+  {
+   "card": "FG-012",
+   "label": "GOV_US（OPEN、米国政府刊行物でpublic domain。本文にその旨の明記あり。Europe PMCのライセンス要素も cc by）、作り手の調査バッチ80 2026-11-15",
+   "text": "Sellera FP, Ollhoff RD, Pogliani FC. \"Malassezia\" [mal″ə-sē′zhə]（Etymologia）. Emerg Infect Dis. 2025;31(10):2063.（DOI: 10.3201/eid3110.221743、PMCID: PMC12483015、https://doi.org/10.3201/eid3110.221743）。裏づける部分：部分：この属が現在18種を含むことと、癜風（pityriasis versicolor）との関連を再掲する。数値の照合：現行の種数18は主出典の「2012年時点で14種」と時点の異なる更新値であり、不一致ではない。留保：1996年に7種へ再整理された経緯と2012年時点の14種という数値は候補に再掲がない。主出典は区分訂正（D）の対象"
+  },
+  {
+   "card": "FG-013",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ80 2026-11-15",
+   "text": "Cunha-E-Silva RR, Bedoya-Pacheco SJ, Vasconcelos AO, Magalhães MAFM, Dias CMG, Freitas DFS, Pereira SA, Figueiredo ABF, Reis JGD, Almeida PMP, Alzuguir CLC, Oliveira LFA, Pimentel MIF. Temporal tendencies and spatial patterns of human sporotrichosis in Rio de Janeiro State, Brazil, 2007 to 2023. Rev Inst Med Trop Sao Paulo. 2026;68:e2.（PMID: 41637341、DOI: 10.1590/s1678-9946202668002、PMCID: PMC12858175、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：汚染された有機物の創傷性植込みによる古典的感染（「バラ園芸家の病気」）、猫の掻傷・咬傷による動物原性感染、1990年代後半以降リオデジャネイロが動物原性流行の中心であることを再掲する。数値の照合：流行の症例数（ヒト2,000例超・動物3,000例超）は候補に再掲がない。留保：隠蔽種・種複合体の点は別のCC BY論文（Brunner-Mendoza C, et al. Cryptic Diversity and Ecological Overlap in Sporothrix schenckii. J Fungi. 2025;11(11):759. PMCID PMC12653030）が裏づける。主出典は区分訂正（D）の対象"
+  },
+  {
+   "card": "FG-014",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ80 2026-11-15",
+   "text": "González-Fernández J, Cuéllar C, Daschner A, Nieuwenhuizen NE. Anisakiasis: A Decade of Molecular and Diagnostic Advancements (2015-2026). Int J Mol Sci. 2026;27(14):6456.（PMID: 42511799、DOI: 10.3390/ijms27146456、PMCID: PMC13410091、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：胃型・腸型・異所性（腹腔外）型の症候型分類とアレルギー型（胃アレルギー性アニサキス症を含む）、内視鏡的摘出が標準治療であること、合併症時の外科的切除、アニサキス特異的IgE検査を再掲する。数値の照合：数値の主張なし。留保：「死んだ幼虫でもアレルギーを起こしうる」点は近年の文献で見解が分かれる（下記の申し送り参照）。主出典の記述を優先しカードは変更しない"
+  },
+  {
+   "card": "FG-016",
+   "label": "GOV_US（OPEN）、作り手の調査バッチ80 2026-11-15",
+   "text": "CDC DPDx \"Amebiasis\" Treatment Information（米国疾病予防管理センター）（https://www.cdc.gov/dpdx/amebiasis/tx.html）。裏づける部分：部分：症候性の腸管疾患または肝膿瘍等の腸管外感染ではメトロニダゾールまたはチニダゾールを第一選択とし、直後にパロモマイシンまたはヨードキノールによる治療を引き継ぐ二段構えを明記する。数値の照合：数値の主張なし。留保：「ニトロイミダゾール単独ではシストを根絶できない」理由づけはCDCページに逐語的にはない。主出典自体は刊行版が CC BY-NC-ND のため RESTRICTED で正しい"
+  },
+  {
+   "card": "FG-017",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ80 2026-11-15",
+   "text": "Borráz-León JI, Rantala MJ, Krams I, Maestripieri D. Wealth, health, cats and Toxoplasma gondii: An ecological correlational study of subjective well-being and self-esteem. PLoS One. 2026;21(9):e0357911.（PMID: 42814692、DOI: 10.1371/journal.pone.0357911、PMCID: PMC13626322、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：猫の糞便中オーシストと加熱不十分な汚染食肉による感染経路、健常者では感染しても多くが無症状であること、成人の感染率（約10〜30%）を再掲する。数値の照合：感染率は候補の約10〜30%で、カードの「最大で世界の成人の約3分の1」と概ね一致。留保：免疫不全での再活性化による致死的脳炎の点は候補に再掲がない。妊娠時の胎児影響は候補では先天性感染のスクリーニング文脈のみ"
+  },
+  {
+   "card": "FG-018",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ80 2026-11-15",
+   "text": "Wang T, Tan Q, Wu Q, Chen Y, Zhou Q, Luo X. Ascariasis in a child with recurrent gastrointestinal hemorrhage: case report and literature review. Front Pediatr. 2025;13:1712272.（PMID: 41488892、DOI: 10.3389/fped.2025.1712272、PMCID: PMC12756500、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：世界の感染者推計（12億人、その40%が小児）と、重感染では重篤な合併症に至りうることを再掲する。数値の照合：感染者数12億人は一致。留保：「感染が少数の宿主に偏る過分散（偏在）」そのものは候補に記載がない"
+  },
+  {
+   "card": "FG-022",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ80 2026-11-15",
+   "text": "Bhetwal A, Stenlund E, Svärd SG. Pathogenicity and virulence of Giardia intestinalis. Virulence. 2026;17(1):2745308.（PMID: 42836554、DOI: 10.1080/21505594.2026.2745308、PMCID: PMC13671459、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：全面：非侵襲性の腸管寄生虫であること、無症候性保虫から急性・慢性の下痢と体重減少までの病像の幅、感染後過敏性腸症候群、小児では無症候感染でも成長・発育の障害をきたすことをいずれも再掲する。数値の照合：数値の主張なし"
+  }
+ ],
+ "rest_fix": {
+  "SRC-2156": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ80）",
+  "SRC-2157": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ80）",
+  "SRC-2161": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ80）",
+  "SRC-1190": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ80）"
+ },
+ "open_fix": []
+}

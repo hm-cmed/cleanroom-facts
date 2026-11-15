@@ -77,12 +77,12 @@
 > 神経性過食症は、むちゃ食いのエピソードが繰り返されることを中核とする。むちゃ食いとは、一定の時間内（例えば2時間以内）に、ほとんどの人が同じ状況で食べる量より明らかに多い量を食べ、その間に食べることをコントロールできない感覚（食べるのをやめられない、食べる物や量を制御できない感じ）を伴うものである。これに加えて、体重増加を防ぐための不適切な代償行動（自己誘発性嘔吐、下剤・利尿薬・その他の医薬品の誤用、絶食、過剰な運動）が繰り返される。むちゃ食いと代償行動はどちらも平均して週に1回以上、3か月にわたって起こり、自己評価は体型と体重に過度に影響される。この乱れは神経性やせ症のエピソードの期間中にのみ起こるものではない
 
 - 条件：region: 国際／対象: 神経性過食症の人
-- 不確実性：書籍のため DOI・PMID はない。基準A〜E（むちゃ食いの定義、代償行動、週1回以上・3か月、自己評価への体型・体重の影響、神経性やせ症の期間中のみではないこと）の構成は、DSM-5-TR の基準を引用した MSD マニュアル（プロフェッショナル版）の診断の節で照合した。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。治療の進め方（ガイデッドセルフヘルプ、CBT-ED など）は既存カード PH-004 が担い、本カードには含めていない
+- 不確実性：書籍のため DOI・PMID はない。基準の骨格（むちゃ食いの定義、不適切な代償行動の繰り返し、自己評価が体型・体重に過度に影響されること）は、米国 AHRQ のエビデンスレビュー（SRC-4986、GOV_US）の Appendix A Table 1（DSM-5 の診断基準の要約）で照合した。週1回以上・3か月という頻度・期間と、神経性やせ症の期間中のみではないことは同表に再掲がなく、未照合である。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。治療の進め方（ガイデッドセルフヘルプ、CBT-ED など）は既存カード PH-004 が担い、本カードには含めていない
 - 出典：American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅱ-4-A-②（神経性過食症<大食症>、a）　コアカリ：PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-01-00-547 (id: JlvnmU0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-023&card_id=PH-023&version=fbaf549bfd)　（版 `fbaf549bfd`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-023&card_id=PH-023&version=9d5af2734a)　（版 `9d5af2734a`）
 
-**[ここまでの 3 件（PH-004〜PH-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PH-004%E3%80%9CPH-023&cards=PH-004%203495b74f66%0APH-005%2088cc02050f%0APH-023%20fbaf549bfd)**
+**[ここまでの 3 件（PH-004〜PH-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PH-004%E3%80%9CPH-023&cards=PH-004%203495b74f66%0APH-005%2088cc02050f%0APH-023%209d5af2734a)**
 
 ---
 
@@ -313,12 +313,12 @@
 > 過食性障害は、むちゃ食いのエピソードが繰り返されることを中核とし、神経性過食症と違って不適切な代償行動を伴わない点で区別される。むちゃ食いのエピソードには、普段よりずっと速く食べる、不快なほど満腹になるまで食べる、身体的には空腹でないのに大量に食べる、食べているところを見られる恥ずかしさのために一人で食べる、食べ過ぎた後に自己嫌悪・抑うつ気分・強い罪悪感を抱く、のうち3つ以上が伴い、むちゃ食いについての著しい苦痛がある。むちゃ食いは平均して週に1回以上、3か月にわたって起こり、神経性過食症や神経性やせ症の経過中にのみ起こるものではない
 
 - 条件：region: 国際／対象: 過食性障害の人
-- 不確実性：書籍のため DOI・PMID はない。むちゃ食いの定義、随伴する5項目のうち3つ以上、著しい苦痛、週1回以上・3か月、代償行動を伴わないことの構成は、DSM-5-TR の基準を引用した MSD マニュアル（プロフェッショナル版）の診断の節で照合した。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。既存の PH カードには過食性障害そのものを扱うものはなく、本カードが初めての範囲になる。重症度（週あたりのエピソード数による区分）は本カードには含めていない
+- 不確実性：書籍のため DOI・PMID はない。むちゃ食いの定義、随伴する5項目、著しい苦痛は、米国 AHRQ のエビデンスレビュー（SRC-4986、GOV_US）の Appendix A Table 1（DSM-5 の診断基準の要約）で照合した。5項目のうち3つ以上、週1回以上・3か月、代償行動を伴わないことは同表に明示がなく、未照合である。本下書きでは DSM-5-TR の書籍本文を直接照合していないため、登録時に本文で最終照合すること。既存の PH カードには過食性障害そのものを扱うものはなく、本カードが初めての範囲になる。重症度（週あたりのエピソード数による区分）は本カードには含めていない
 - 出典：American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR). Washington, DC: American Psychiatric Association Publishing; 2022（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-01-00-547 (id: JlvnmU0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-024&card_id=PH-024&version=6196f4b06f)　（版 `6196f4b06f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-024&card_id=PH-024&version=828f246180)　（版 `828f246180`）
 
-**[ここまでの 1 件（PH-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PH-024&cards=PH-024%206196f4b06f)**
+**[ここまでの 1 件（PH-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PH-024&cards=PH-024%20828f246180)**
 
 ---
 

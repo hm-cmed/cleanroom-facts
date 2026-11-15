@@ -3925,14 +3925,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 表示なし
+  license_note: 公共データ利用規約（第1.0版）。国立保健医療科学院のサイトの掲載物は権利表記がない限り同規約が適用される（https://www.niph.go.jp/copyright/、三原の判断 2026-11-15）。旧記録：表示なし
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: GOV_JP
   history:
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md の出典マスター表から
+  - date: '2026-11-15'
+    by: claude-code
+    change: source_class を UNKNOWN から GOV_JP に訂正（国立保健医療科学院のコンテンツは公共データ利用規約第1.0版。三原の判断）
 - id: SRC-293
   legacy_id: null
   title: 2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults. Circulation 2025 (published online 2025 Aug 14)
@@ -12487,14 +12490,17 @@
   doi: 10.1159/000452150
   pmid: '27884013'
   pmcid: null
-  license_note: © S. Karger AG（CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ77）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© S. Karger AG（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1027
   legacy_id: null
   title: 'Collett-Solberg PF, Ambler G, Backeljauw PF, et al. Diagnosis, Genetics, and Therapy of Short Stature in Children: A Growth Hormone Research Society International Perspective. Horm Res Paediatr. 2019;92(1):1-14'
@@ -12502,14 +12508,17 @@
   doi: 10.1159/000502231
   pmid: '31514194'
   pmcid: null
-  license_note: © 2019 S. Karger AG, Basel（CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ77）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© 2019 S. Karger AG, Basel（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1028
   legacy_id: null
   title: Nagasaki K, Minamitani K, Nakamura A, et al. Guidelines for Newborn Screening of Congenital Hypothyroidism (2021 Revision). Clin Pediatr Endocrinol. 2023;32(1):26-51
@@ -12547,14 +12556,17 @@
   doi: 10.1210/jc.2018-01865
   pmid: '30272171'
   pmcid: null
-  license_note: © 2018 Endocrine Society（CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ77）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© 2018 Endocrine Society（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1031
   legacy_id: null
   title: Latronico AC, Brito VN, Carel JC. Causes, diagnosis, and treatment of central precocious puberty. Lancet Diabetes Endocrinol. 2016;4(3):265-274
@@ -12562,14 +12574,17 @@
   doi: 10.1016/S2213-8587(15)00380-0
   pmid: '26852255'
   pmcid: null
-  license_note: The Lancet（CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ77）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：The Lancet（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1032
   legacy_id: null
   title: Karrento K, Rosen JM, Gelfand AA, et al. North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition 2025 guidelines on the diagnosis of cyclic vomiting syndrome in children. J Pediatr Gastroenterol Nutr. 2025;81(5):1346-1359
@@ -12577,14 +12592,17 @@
   doi: 10.1002/jpn3.70193
   pmid: '40836301'
   pmcid: null
-  license_note: Wiley（CC表示を確認できず）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ77）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Wiley（CC表示を確認できず）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1033
   legacy_id: null
   title: Thornton PS, Stanley CA, De Leon DD, et al. Recommendations from the Pediatric Endocrine Society for Evaluation and Management of Persistent Hypoglycemia in Neonates, Infants, and Children. J Pediatr. 2015;167(2):238-245
@@ -12607,14 +12625,17 @@
   doi: 10.3748/wjg.v13.i18.2541
   pmid: '17552001'
   pmcid: null
-  license_note: © 2007 Baishideng Publishing Group（CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ77）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© 2007 Baishideng Publishing Group（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1035
   legacy_id: null
   title: 'Welling L, Bernstein LE, Berry GT, et al. International clinical guideline for the management of classical galactosemia: diagnosis, treatment, and follow-up. J Inherit Metab Dis. 2017;40(2):171-176'
@@ -12637,14 +12658,17 @@
   doi: 10.1038/s41572-018-0025-4
   pmid: '30275469'
   pmcid: null
-  license_note: Nature Portfolio（CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ77）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Nature Portfolio（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1037
   legacy_id: null
   title: Muenzer J. Overview of the mucopolysaccharidoses. Rheumatology (Oxford). 2011;50 Suppl 5:v4-v12
@@ -12652,14 +12676,17 @@
   doi: 10.1093/rheumatology/ker394
   pmid: '22210669'
   pmcid: null
-  license_note: Oxford University Press（CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ77）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Oxford University Press（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1038
   legacy_id: null
   title: 'van Wegberg AMJ, MacDonald A, Ahring K, et al. The complete European guidelines on phenylketonuria: diagnosis and treatment. Orphanet J Rare Dis. 2017;12:162'
@@ -12682,14 +12709,17 @@
   doi: 10.1002/jimd.12100
   pmid: '30982989'
   pmcid: null
-  license_note: © 2019 SSIEM（CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ77）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© 2019 SSIEM（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1040
   legacy_id: null
   title: 'Forny P, Hörster F, Ballhausen D, et al. Guidelines for the diagnosis and management of methylmalonic acidaemia and propionic acidaemia: First revision. J Inherit Metab Dis. 2021;44(3):566-592'
@@ -14434,14 +14464,17 @@
   doi: 10.1128/CMR.00007-11
   pmid: '21976602'
   pmcid: null
-  license_note: © American Society for Microbiology（CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ80）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© American Society for Microbiology（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1191
   legacy_id: null
   title: 'Ishii N, Asai T, Asahina A, Ishiko A, et al. Guideline for the diagnosis and treatment of scabies in Japan (third edition): Executive Committee of Guideline for the Diagnosis and Treatment of Scabies. J Dermatol. 2017;44(9):991-1014.'
@@ -19714,14 +19747,17 @@
   doi: 10.1212/01.wnl.0000336370.51010.a1
   pmid: '19056666'
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ73）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1743
   legacy_id: null
   title: 'Leonhard SE, Mandarakas MR, Gondim FAA, et al. Diagnosis and management of Guillain-Barré syndrome in ten steps. Nat Rev Neurol. 2019;15(11):671-683（PMCID: PMC6821638）'
@@ -19759,14 +19795,17 @@
   doi: 10.1002/14651858.CD001446.pub5
   pmid: '27775812'
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ73）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1746
   legacy_id: null
   title: 'Van den Bergh PYK, van Doorn PA, Hadden RDM, et al. European Academy of Neurology/Peripheral Nerve Society guideline on diagnosis and treatment of chronic inflammatory demyelinating polyradiculoneuropathy: Report of a joint Task Force—Second revision. Eur J Neurol. 2021;28(11):3556-3583'
@@ -19774,14 +19813,17 @@
   doi: 10.1111/ene.14959
   pmid: '34327760'
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ73）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1747
   legacy_id: null
   title: 'Graus F, Vogrig A, Muñiz-Castrillo S, et al. Updated diagnostic criteria for paraneoplastic neurologic syndromes. Neurol Neuroimmunol Neuroinflamm. 2021;8(4):e1014（PMCID: PMC8237398）'
@@ -19819,14 +19861,17 @@
   doi: 10.1111/j.1529-8027.2010.00281.x
   pmid: '21040139'
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ73）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1750
   legacy_id: null
   title: Pareyson D, Marchesi C. Diagnosis, natural history, and management of Charcot-Marie-Tooth disease. Lancet Neurol. 2009;8(7):654-667
@@ -19894,14 +19939,17 @@
   doi: 10.5435/JAAOS-D-24-01179
   pmid: '39637428'
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ73）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1755
   legacy_id: null
   title: 'Dy CJ, Mackinnon SE. Ulnar neuropathy: evaluation and management. Curr Rev Musculoskelet Med. 2016;9(2):178-184（PMCID: PMC4896870）'
@@ -19909,14 +19957,17 @@
   doi: 10.1007/s12178-016-9327-x
   pmid: '27080868'
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ73）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1756
   legacy_id: null
   title: D'Arcy CA, McGee S. The rational clinical examination. Does this patient have carpal tunnel syndrome? JAMA. 2000;283(23):3110-3117
@@ -25180,14 +25231,17 @@
   doi: 10.3314/mmj.23-00008
   pmid: '38030276'
   pmcid: null
-  license_note: CC表示なし（Crossref に license 欄なし、日本医真菌学会誌）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ80）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：CC表示なし（Crossref に license 欄なし、日本医真菌学会誌）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/36_if_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2157
   legacy_id: null
   title: Edman JC, Kovacs JA, Masur H, et al. Ribosomal RNA sequence shows Pneumocystis carinii to be a member of the fungi. Nature. 1988;334(6182):519-522.
@@ -25195,14 +25249,17 @@
   doi: 10.1038/334519a0
   pmid: '2970013'
   pmcid: null
-  license_note: CC表示なし（Crossref の license は TDM 用リンクのみ）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ80）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：CC表示なし（Crossref の license は TDM 用リンクのみ）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/36_if_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2158
   legacy_id: null
   title: Apostolopoulou A, Fishman JA. The Pathogenesis and Diagnosis of Pneumocystis jiroveci Pneumonia. J Fungi. 2022;8(11):1167.
@@ -25255,14 +25312,17 @@
   doi: 10.1128/CMR.00021-11
   pmid: '22232373'
   pmcid: null
-  license_note: © American Society for Microbiology（CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ80）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© American Society for Microbiology（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/36_if_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2162
   legacy_id: null
   title: 'Hochberg NS, Hamer DH. Anisakidosis: Perils of the deep. Clin Infect Dis. 2010;51(7):806-12.'
@@ -29923,14 +29983,17 @@
   doi: 10.1272/jnms.79.60
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ75）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/48_pn_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-3344
   legacy_id: null
   title: Quintero RA, Morales WJ, Allen MH, Bornick PW, Johnson PK, Kruger M. Staging of twin-twin transfusion syndrome. J Perinatol. 1999;19(8 Pt 1):550-555
@@ -36547,14 +36610,17 @@
   doi: 10.1002/jpn3.70020
   pmid: '40223700'
   pmcid: null
-  license_note: Wiley（CC表示を確認できず）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ77）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Wiley（CC表示を確認できず）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/67_brushup_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-4971
   legacy_id: null
   title: 'Caturegli P, De Remigis A, Rose NR. Hashimoto thyroiditis: Clinical and diagnostic criteria. Autoimmun Rev. 2014;13(4-5):391-397'

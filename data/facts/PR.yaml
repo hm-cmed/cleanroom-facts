@@ -18,7 +18,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN／OPEN、作り手の調査バッチ97 2026-11-15）：White C, St Rose S, Dwyer JB, et al. Treatment trajectories of patients with borderline personality disorder prescribed pharmacotherapy: real-world insights from a retrospective observational study. BMC Psychiatry. 2026;26(1):351／Tiger A, Molero Y, Brikell I, et al. Central nervous system acting medication used by young adults with borderline personality disorder in Sweden 2006-2019. J Psychopharmacol. 2026;40(9):1343-1351（PMID: 41862841／41693623、DOI: 10.1186/s12888-026-07974-6／10.1177/02698811251413479、PMCID: PMC13127037／PMC13490660、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補1（CC BY）は、APA の2024年ガイドラインが心理療法を第一選択の治療として推奨すること、境界性パーソナリティ障害に承認された薬物療法は存在せず薬物療法は心理療法の補助として位置づけられることを、ガイドラインを引用して再掲し、米国の生涯有病率1.4〜2.7%も再掲する。候補2（CC BY）は Keepers et al. 2024 を国際ガイドラインの一つとして引用し、心理療法が推奨される第一選択の治療であることと、処方薬は定期的に評価し利益がなければ中止することがガイドラインの推奨に沿うことを再掲する。ただし「中核的特徴を対象とする構造化された心理療法」という推奨の形そのもの、「中核症状への有効性のエビデンスが認められなかった」というガイドライン自身の結論の文言、「期間を限って測定可能な標的症状に絞る」という運用の細部、「少なくとも6か月ごと」という見直し間隔の数値は、自由な全文には再掲がない。数値の照合：有病率1.4〜2.7%は候補1の再掲と一致する（候補1は米国の生涯有病率としての表記で、カードは APA の公表資料に基づく有病率の表記）。見直し間隔6か月は候補のいずれにも再掲がない。留保：主出典（SRC-3851）の刊行版ライセンスは Crossref の版データに登録がなく、Europe PMC の個別レコードでも非 OA・PMC 未収載で、現行 RESTRICTED が正しい。なおガイドライン全文は APA のサイトで無償公開されているが © APA で CC 表示はなく、無償で読めること（gratis）は自由なライセンス（libre）とは異なるため区分は変わらない。候補のライセンスはいずれも Crossref の版データ・Europe PMC の個別レコード・PMC 全文のライセンス要素で CC BY 4.0 と個別確認した'
   uncertainty: 国内では境界性パーソナリティ障害を対象とする学会の診療ガイドラインは確認できず（2026年10月時点）、本カードは米国のガイドラインに基づく。推奨文の内容は APA の公式発表で確認した範囲に限る。個別の向精神薬の国内承認・適応は本カードでは確認していない（未確認）。
   curriculum:
     kokushi: 医学各論 Ⅱ-6-A-①（境界性パーソナリティ障害<ボーダーラインパターン>、b）
@@ -33,6 +33,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN／OPEN、作り手の調査バッチ97 2026-11-15）。三原の承認（2026-11-11）による
 - id: PR-002
   domain: PR
   subdomain: 境界性パーソナリティ障害<ボーダーラインパターン>
@@ -53,7 +56,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN／OPEN、作り手の調査バッチ97 2026-11-15）：Stoffers-Winterling JM, Storebø OJ, Kongerslev MT, et al. Psychotherapies for borderline personality disorder: a focused systematic review and meta-analysis. Br J Psychiatry. 2022;221(3):538-552／Setkowski K, Palantza C, van Ballegooijen W, et al. Which psychotherapy is most effective and acceptable in the treatment of adults with a (sub)clinical borderline personality disorder? A systematic review and network meta-analysis. Psychol Med. 2023;53:3261-3280（PMID: 35088687／37203447、DOI: 10.1192/bjp.2021.204／10.1017/S0033291723000685、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補1（CC BY、主出典と著者群が重なる focused review）は、2020年の Cochrane レビューが75件の無作為化比較試験を含んだことと、その結果として通常治療との比較で症状重症度 SMD −0.52（95%CI −0.70〜−0.33）、自傷 SMD −0.32、自殺関連アウトカム SMD −0.34、心理社会的機能 SMD 0.45 が報告されたことを再掲する。さらに候補1自身の再解析でも DBT の自傷への効果（SMD −0.54）と MBT の自傷（RR 0.51）・自殺関連アウトカム（RR 0.10）への効果が同じ方向で得られ、DBT の主要アウトカムのエビデンスの質は低〜中程度と評価されている。候補2（CC BY のネットワークメタ解析）は、Cochrane レビュー（Storebø et al. 2020）が通常治療に対して d=0.52 の有益な効果と自殺企図 RR 0.27 を見いだしたことを再掲し、特定の療法が他より優れるという明確な答えはないという自らの結論で、療法の種類の間に明確な差がないという骨格を裏づける。ただし参加者総数4,507人は自由な全文に再掲がなく、DBT・MBT の効果の点推定値は候補1自身の再解析の値であって主出典自身の値の再掲ではない（申し送り参照）。数値の照合：症状重症度 SMD −0.52 は候補1の再掲と完全一致する。候補2の d=0.52 は有益な効果の大きさとしての正の表記で、絶対値は一致する（符号の付け方が異なる。申し送り参照）。参加者総数4,507人は候補のいずれにも再掲がない。候補1の DBT・MBT の値は候補1自身の再解析値で主出典の値とは対象範囲が異なるため、主出典の数値の裏づけとして登録しないこと。留保：主出典（SRC-3852）は Cochrane レビューで、PMC 収載コピー（PMC7199382）の権利表示は「© 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.」でライセンス要素はなく、Crossref の版データにもライセンス登録がなく、現行 RESTRICTED が正しい。候補1は PMC 未収載だが、刊行版 PDF 自体に Creative Commons Attribution licence の表示があり、Crossref の版データでも CC BY 4.0 を確認した。候補2は Crossref の版データ・Europe PMC の個別レコード・PMC 全文のライセンス要素で CC BY 4.0 と個別確認した'
   uncertainty: 数値は抄録で確認した範囲であり、エビデンスの確実性は重症度のアウトカムで中程度、その他は低いと評価されている。国内での各療法の実施体制や保険適用の扱いは本カードでは扱っていない。
   curriculum:
     kokushi: 医学各論 Ⅱ-6-A-①（境界性パーソナリティ障害<ボーダーラインパターン>、b）
@@ -68,6 +71,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN／OPEN、作り手の調査バッチ97 2026-11-15）。三原の承認（2026-11-11）による
 - id: PR-003
   domain: PR
   subdomain: 放火症、窃盗症
@@ -123,7 +129,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ97 2026-11-15）：ClinicalTrials.gov 登録レコード NCT00332579：A Double-Blind, Placebo-Controlled Study of Naltrexone in Kleptomania（University of Minnesota、責任者 Jon E. Grant、結果投稿済み）（https://clinicaltrials.gov/study/NCT00332579）。裏づける部分：部分：登録レコードは、主出典の試験そのものについて、二重盲検・無作為化・プラセボ対照であること、対象25例（ナルトレキソン12例・プラセボ13例）、ナルトレキソンの投与量が50〜150 mg/日であること、治療期間が8週間であることを記録し、主要評価項目 K-YBOCS の結果（終了時平均値 3.83 vs 11.46、ナルトレキソン群が低値で良好な方向）が投稿されている。ただし統計学的有意性の検定結果（p値）や全般的な重症度のアウトカムはレコードに投稿されておらず、「有意に大きく改善した」という有意性と全般的な重症度の改善はレコードでは再掲されない。数値の照合：対象25例・用量50〜150 mg/日・治療期間8週間はレコードの記録と一致する。主要評価項目の終了時値はナルトレキソン群が良好な方向だが、レコードにはベースライン値・変化量・p値の投稿がなく、論文の有意性そのものの数値照合はできない。留保：主出典（SRC-3854）の刊行版ライセンスは Crossref の版データで Elsevier の TDM のみで CC 表示はなく、Europe PMC の個別レコードでも非 OA・PMC 未収載で、現行 RESTRICTED が正しい。候補は米国政府の試験登録レコード（GOV_US）で、結果が投稿済みのもののみを用いた
   uncertainty: ナルトレキソンの国内承認・保険適用は本作成時点で確認していない（未確認）。窃盗症そのものを適応とする国内承認薬も確認していない。単一の小規模試験の結果であり、再現性には限界がある。窃盗症の有病率として流布している数値（0.3〜0.6%など）は一次資料で確認できなかったため、主張には入れていない。
   curriculum:
     kokushi: 医学各論 Ⅱ-6-B-①（放火症、窃盗症、c）
@@ -138,6 +144,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ97 2026-11-15）。三原の承認（2026-11-11）による
 - id: PR-005
   domain: PR
   subdomain: 窃視症、露出症、窃触症、小児性愛、フェティシズム
@@ -158,7 +167,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ97 2026-11-15）：Turner D, Briken P, Grubbs J, et al. The World Federation of Societies of Biological Psychiatry guidelines on the assessment and pharmacological treatment of compulsive sexual behaviour disorder. Dialogues Clin Neurosci. 2022;24(1):10-69（PMID: 37522807、DOI: 10.1080/19585969.2022.2134739、PMCID: PMC10408697、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補（同じ WFSBP の強迫的性行動症ガイドライン、CC BY）は、その治療アルゴリズムが主出典（Thibaut et al. 2020）と Briken & Turner 2021 に基づくことを明示し、重症度のレベル（軽症〜重症）ごとに治療を段階づける構造を再掲する。また、パラフィリア症を併存する場合は主出典であるパラフィリア症ガイドラインの治療アルゴリズムを用いるべきこと、CPA や GnRH アゴニストは強い症状と比較的高い性犯罪リスクのある場合に限ること、GnRH アゴニストが SSRI や CPA より性的機能・空想・行動の低下が大きいことを再掲する。ただし、主出典のアルゴリズム自体の段階構成（重症度とリスクのカテゴリーごとに治療レベルを分けたもの）と、「重症のパラフィリア症に対して GnRH アナログ治療が最も重要な治療」という位置づけそのものは候補では再掲されず、主出典への参照に委ねられている。数値の照合：数値的主張はカードにない（定性的な枠組みの再掲のみ）。留保：主出典（SRC-3855）の刊行版ライセンスは Crossref の版データに登録がなく（リンクは similarity-checking のみ）、Europe PMC の個別レコードでも非 OA・PMC 未収載で、現行 RESTRICTED が正しい。候補のライセンスは Crossref の版データ・Europe PMC の個別レコード・PMC 全文のライセンス要素で CC BY 4.0 と個別確認した'
   uncertainty: 本ガイドラインの対象は成人男性のみで、女性と青年は含まれていない。同ガイドラインで扱われる薬剤（GnRH アナログ、SSRI、抗アンドロゲン剤など）のパラフィリア症に対する国内承認・保険適用は確認していない（未確認）。パラフィリックな関心や行動の頻度は、苦痛・機能障害等を要件とするパラフィリア症の有病率とは別の概念であり、本カードには含めていない。国内にパラフィリア症を対象とする学会の診療ガイドラインは確認できなかった。
   curriculum:
     kokushi: 医学各論 Ⅱ-6-C-①（窃視症、露出症、窃触症、小児性愛、フェティシズム、c）
@@ -173,3 +182,6 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ97 2026-11-15）。三原の承認（2026-11-11）による

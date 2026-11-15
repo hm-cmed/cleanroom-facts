@@ -53,7 +53,7 @@
     source_license: CC表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ76 2026-11-15）：Workowski KA, Bachmann LH, Chan PA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep. 2021;70(4):1-187（PMID: 34292926、DOI: 10.15585/mmwr.rr7004a1、PMCID: PMC8344968、https://pmc.ncbi.nlm.nih.gov/articles/PMC8344968/）。裏づける部分：候補（CDC の性感染症治療ガイドライン2021、MMWR、GOV_US）が、「バラシクロビル500 mg の1日1回投与は、パートナーに性器 HSV-2 感染の既往がある異性愛の不一致カップルにおける HSV-2 伝播率を下げる」と述べ、抑制療法による伝播抑制という方向と、用量・用法（500 mg 1日1回）はカードと一致する。数値の照合：症候性性器ヘルペス感染のハザード比0.25、HSV-2 獲得全体の0.52、性器分泌物から HSV DNA が検出される日の割合2.9%対10.8%はいずれも候補に再掲なし（候補の記載は効果の定性的な範囲にとどまる）。留保：主出典の試験の登録レコード（NCT00001649）は存在するが結果は投稿されておらず使えなかった。主出典 SRC-2047 の区分は現行 RESTRICTED が正しい（N Engl J Med。Crossref にライセンス登録がなく、Europe PMC の個別レコードで非 OA）'
   uncertainty: バラシクロビル塩酸塩は国内で承認されており、PMDA の添付文書で性器ヘルペスの再発抑制などの効能と、パートナーへの感染を抑制することが認められている旨を確認した。投与中も感染リスクが残るため、添付文書ではコンドーム使用等も推奨されている。
   curriculum:
     kokushi: 医学各論 Ⅻ-1-A-⑩（単純ヘルペスウイルス感染症、a）
@@ -68,6 +68,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/34_if_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ76 2026-11-15）。三原の承認（2026-11-11）による
 - id: HV-003
   domain: HV
   subdomain: 水痘・帯状疱疹
@@ -88,7 +91,7 @@
     source_license: CC表示なし（Crossref は TDM ライセンスのみ）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ76 2026-11-15）：D''Elia MPB, Moura CRLP, Moura RD, Carvalho JSP, Pott H. Varicella-zoster virus infection: a review about varicella and herpes zoster. An Bras Dermatol. 2026;101(3):501367（PMID: 42107925、DOI: 10.1016/j.abd.2026.501367、PMCID: PMC13187954、https://pmc.ncbi.nlm.nih.gov/articles/PMC13187954/）。裏づける部分：候補（CC BY 総説）が、水痘は成人・高齢者・免疫不全者で特に健康上の問題となること、初感染後にウイルスが知覚神経節（脊髄神経節・脳神経節）に終生潜伏すること、再活性化がその神経の支配領域の帯状疱疹として現れること、合併症として帯状疱疹後神経痛のほか髄膜脳炎、横断性脊髄炎、脳神経麻痺、脳動脈への侵襲による血管障害（脳卒中）、網膜炎を述べ、カードの主張の骨格と一致する。数値の照合：数値なし（病態の枠組みのカード）。留保：カードの「髄膜炎」は候補では髄膜脳炎として記載されている。乳児で重症化しうることの明示は候補で確認できなかった。主出典 SRC-2048 の区分は現行 RESTRICTED が正しい（Nat Rev Dis Primers。Crossref は TDM ライセンスのみ、PMC 収載分は著者稿で CC 表示なし）。識別子補完候補あり（補完候補の節参照）'
   uncertainty: 総説の抄録で確認した範囲に限る。帯状疱疹後神経痛そのものは既存カード（PN-020〜023）の範囲のため、本カードでは合併症の一つとして挙げるにとどめた。
   curriculum:
     kokushi: 医学各論 Ⅻ-1-A-⑪（水痘・帯状疱疹、a）
@@ -103,6 +106,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/34_if_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ76 2026-11-15）。三原の承認（2026-11-11）による
 - id: HV-004
   domain: HV
   subdomain: 水痘・帯状疱疹
@@ -123,7 +129,7 @@
     source_license: CC BY-NC（Europe PMC の license 欄で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ76 2026-11-15）：Recart D, Scibona P, Caruso D, et al. Herpes zoster burden in a private healthcare setting of Argentina. Front Public Health. 2026;14:1748267（PMID: 42293575、DOI: 10.3389/fpubh.2026.1748267、PMCID: PMC13260107、https://pmc.ncbi.nlm.nih.gov/articles/PMC13260107/）。裏づける部分：候補（CC BY の原著研究）が、主出典（Kawai ら）への帰属を明示して、帯状疱疹後神経痛は帯状疱疹患者の約5〜30%に生じること、世界の発症率の系統的レビューで再発率は1〜6%（長期追跡の研究では5〜6%）と報告されたことを再掲する。カードの主張のうち、帯状疱疹後神経痛と再発のリスクの範囲と一致する。数値の照合：帯状疱疹後神経痛5%から30%超、再発1〜6%は候補と一致する。発症率（人口1,000人年あたり3〜5）と「過去数十年で増加傾向」は候補に再掲なし（候補自身の測定値4.50/1,000人年は範囲内だが、一次データであり再掲ではない）。留保：主出典 SRC-2049 の刊行版ライセンスは CC BY-NC で自由区分に当たらず、現行 RESTRICTED が正しい（Europe PMC の個別レコードで確認。マスターの license_note の記載とも一致）。識別子補完候補あり'
   uncertainty: 日本の帯状疱疹の発症率の一次統計は未確認で、主張は海外の系統的レビューの範囲に限る。
   curriculum:
     kokushi: 医学各論 Ⅻ-1-A-⑪（水痘・帯状疱疹、a）
@@ -138,6 +144,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/34_if_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ76 2026-11-15）。三原の承認（2026-11-11）による
 - id: HV-005
   domain: HV
   subdomain: 水痘・帯状疱疹
@@ -193,7 +202,7 @@
     source_license: CC表示なし（Crossref は TDM ライセンスのみ）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ76 2026-11-15）：Boldeanu L, Assani MZ, Boldeanu MV, et al. Cervical Cancer in the Era of HPV: Translating Molecular Mechanisms into Preventive Public Health Action. Int J Mol Sci. 2025;26(17):8463（PMID: 40943384、DOI: 10.3390/ijms26178463、PMCID: PMC12429327、https://pmc.ncbi.nlm.nih.gov/articles/PMC12429327/）。裏づける部分：候補（CC BY 総説）が、高リスク型 HPV の持続感染が子宮頸癌の99%超に結びつくこと、癌タンパク E6 と E7 が p53 と網膜芽細胞腫タンパクを不活化して形質転換を駆動すること、感染の多くは自然に消失し持続感染が前癌病変・癌への分岐点であること、HPV が子宮頸癌のほか肛門性器癌・中咽頭癌に関連することを述べ、カードの主張の骨格と一致する。数値の照合：子宮頸癌のほぼ全てが発癌性 HPV によるという点は候補（99%超）と一致する。「系統的に近縁な13の型」という型の数え方と、「大多数は2年以内に消失」という期間の明示は候補に再掲なし（候補には持続感染の約半数が2年以内に解消するという別の記述がある）。留保：主出典 SRC-2051 の区分は現行 RESTRICTED が正しい（Nat Rev Dis Primers。Crossref は TDM ライセンスのみ、Europe PMC の個別レコードで非 OA）'
   uncertainty: 総説の抄録で確認した範囲に限る。日本の HPV ワクチンの承認・定期接種の制度は既存カード（GY-016）の範囲のため、本カードでは扱わない。
   curriculum:
     kokushi: 医学各論 Ⅻ-1-A-⑮（ヒトパピローマウイルス<HPV>感染症、a）
@@ -208,6 +217,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/34_if_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ76 2026-11-15）。三原の承認（2026-11-11）による
 - id: HV-007
   domain: HV
   subdomain: ヒトパピローマウイルス感染症
@@ -263,7 +275,7 @@
     source_license: CC表示なし（Crossref の license 欄はテキストマイニング用ライセンスのみ）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ76 2026-11-15）：Centers for Disease Control and Prevention. HIV Treatment as Prevention（CDC 公式ページ）（https://www.cdc.gov/hivpartners/php/hiv-treatment/index.html）。裏づける部分：候補（CDC 公式ページ、GOV_US）が、抗レトロウイルス療法（ART）を処方どおりに続けてウイルス量が検出限界未満になれば免疫機能が保たれて健康を維持でき、性パートナーへ HIV を伝播しないこと、治療を遅らせると発病・AIDS への進展と伝播の機会が増えることを述べる。カードの主張のうち、ART が HIV の複製を抑制し免疫の回復により AIDS 発症のリスクがほぼ消失すること、伝播のリスクが実質的に消失することの範囲と一致する。数値の照合：数値なし（総論のカード）。留保：未治療の HIV 感染でウイルスの複製が続くことによる CD4 陽性 T 細胞の進行性減少と広範な免疫異常という自然経過の機序の詳述は、候補では一般的な表現にとどまる。主出典 SRC-2056 の区分は現行 RESTRICTED が正しい（Nat Rev Dis Primers。Crossref は TDM ライセンスのみ、Europe PMC の個別レコードで非 OA）
   uncertainty: 抗HIV薬は国内で多数承認され保険適用があり、国内の標準的治療指針である日本エイズ学会「HIV感染症『治療の手引き』」（第29版、2025年12月）では初回治療で INSTI と NRTI の組合せが推奨の中心である（学会の公開資料で確認）。曝露前予防（PrEP）の国内承認状況は一次資料で確認できていないため主張に入れていない。HIV 関連中枢神経合併症は NI の範囲として本カードでは扱わない。
   curriculum:
     kokushi: 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a）
@@ -281,6 +293,9 @@
   - date: '2026-10-30'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅺ-4-A-① を足した（医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a） → 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ76 2026-11-15）。三原の承認（2026-11-11）による
 - id: HV-009
   domain: HV
   subdomain: ヒト免疫不全ウイルス感染症
@@ -301,7 +316,7 @@
     source_license: CC表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ76 2026-11-15）：ClinicalTrials.gov 登録レコード NCT00867048：Strategic Timing of Antiretroviral Treatment (START)（結果投稿済み）（https://clinicaltrials.gov/study/NCT00867048）。裏づける部分：候補（試験登録レコード）が、CD4 数500/µL を超える無症候の HIV 陽性成人を、即時に ART を開始する群（2,326例）と、CD4 数が350/µL 以下への低下や AIDS 発症まで開始を延期する群に割り付けた試験の設計と、複合エンドポイント（重篤な AIDS 関連イベント、重篤な非 AIDS 関連イベント、全死亡）のイベント件数を記録する。カードの主張のうち、試験の設計と即時開始群で複合エンドポイントが少なかったという方向の範囲と一致する。数値の照合：登録レコードの総登録数は4,688例で、カード・主出典の4,685人と3例異なる（延期群は登録上2,362例、論文は2,359人）。登録レコードの複合エンドポイント件数（即時群133件・延期群215件）は、主出典の初回報告の件数（42例対96例）と一致せず、延長追跡後の集計とみられる。即時群1.8%・延期群4.1%・ハザード比0.43そのものはレコードに記載なし（申し送りの節参照）。留保：裏づけは試験の設計と結果の方向の範囲に限る。主出典 SRC-2057 の区分は現行 RESTRICTED が正しい（N Engl J Med。PMC 収載分 PMC4569751 は CC 表示なし）。識別子補完候補あり
   uncertainty: 数値は抄録の Results で確認した（平均追跡 3.0 年）。抗HIV薬は国内で多数承認され保険適用がある（日本エイズ学会の公開資料で確認）。国内の治療指針における具体的な推奨レジメンは本カードの範囲外とした。
   curriculum:
     kokushi: 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a）
@@ -319,6 +334,9 @@
   - date: '2026-10-30'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅺ-4-A-① を足した（医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a） → 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ76 2026-11-15）。三原の承認（2026-11-11）による
 - id: HV-010
   domain: HV
   subdomain: ヒト免疫不全ウイルス感染症
@@ -377,7 +395,7 @@
     source_license: CC表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ76 2026-11-15）：Kofman AD, Struble KA, Heneine W, et al. 2025 US Public Health Service Guidelines for the Management of Occupational Exposures to Human Immunodeficiency Virus and Recommendations for Post-exposure Prophylaxis in Healthcare Settings. Infect Control Hosp Epidemiol. 2025;46(9):863-873（PMID: 41569270、DOI: 10.1017/ice.2025.10254、PMCID: PMC12616222、https://pmc.ncbi.nlm.nih.gov/articles/PMC12616222/）。裏づける部分：候補（主出典の後継にあたる米国公衆衛生局ガイドライン2025年版、刊行版が CC BY）が、医療従事者の職業曝露に PEP が推奨されること、曝露後できるだけ早く（72時間以内に）開始すること、3剤レジメンを28日間処方すること、曝露への対応は緊急の医学的対応事項であること、曝露源患者の HIV 状態を確認すること、迅速な報告と専門家への相談経路、服薬継続とフォローアップを求めることを述べ、カードの主張（2013年版に基づく）の全範囲と実質的に一致する。数値の照合：数値なし（推奨の内容のカード）。期間はカードの「4週間継続」と候補の「28日間」で一致する。薬剤数はカードの「3剤以上を含むレジメン」に対し、候補は3剤レジメンを推奨する（2025年版でも2剤への格下げはされていない）。留保：主出典 SRC-2059（2013年版）の区分は現行 RESTRICTED が正しい（Infect Control Hosp Epidemiol、Cambridge University Press。Crossref は利用条件へのリンクのみ、Europe PMC の個別レコードで非 OA）。後継ガイドラインが刊行済みである点は申し送りに記す'
   uncertainty: 米国の公衆衛生局ガイドラインに基づく推奨であり、日本の医療機関における具体的な運用とは異なる場合がある。針刺し事故後の HIV PEP について国内の一次指針の文面確認は未了である。PEP に用いる抗HIV薬そのものは国内で承認され保険適用があるが、曝露後予防としての保険適用の扱いは本カードでは確認していない。
   curriculum:
     kokushi: 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a）
@@ -395,6 +413,9 @@
   - date: '2026-10-30'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅺ-4-A-① を足した（医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a） → 医学各論 Ⅻ-1-A-⑯（ヒト免疫不全ウイルス<HIV>感染症、後天性免疫不全症候群<AIDS>、a）；医学各論 Ⅺ-4-A-①（後天性免疫不全症候群<AIDS>、a））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ76 2026-11-15）。三原の承認（2026-11-11）による
 - id: HV-012
   domain: HV
   subdomain: ウイルス性肝炎
@@ -590,7 +611,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ76 2026-11-15）：Siniscalchi C, Imbalzano E, Basaglia M, et al. Six Years of COVID-19: Lessons from Epidemiology, Vaccination Campaigns, Clinical Risk Stratification, and Thromboembolic Surveillance. Vaccines. 2026;14(7):611（PMID: 42506648、DOI: 10.3390/vaccines14070611、PMCID: PMC13418488、https://pmc.ncbi.nlm.nih.gov/articles/PMC13418488/）。裏づける部分：候補（CC BY 総説）が、2019年12月に中国・武漢で非定型肺炎の集積が報告されて SARS-CoV-2 が出現したこと、ヒト‐ヒト感染を経て世界に拡大し、WHO が2020年3月11日にパンデミックを宣言したことを述べる。カードの主張（2019年後半に出現したコロナウイルスで、急性呼吸器疾患である COVID-19 の原因であり、世界的なパンデミックを引き起こした）の全範囲と一致する。数値の照合：数値なし（病原体の総論のカード）。留保：主出典 SRC-2066 の区分は現行 RESTRICTED が正しい（Nat Rev Microbiol。PMC 収載分 PMC7537588 のライセンス表示は、WHO のパンデミック宣言の期間に限る再利用許可で CC ではない。Europe PMC の OA 表示だけで自由区分と誤認しないこと）。識別子補完候補あり'
   uncertainty: 出典の抄録には具体的な数値は含まれておらず、主張は病原体の総論の範囲に限った。国内の死亡統計は既存カード（RI-051）の範囲のため本カードでは扱わない。
   curriculum:
     kokushi: 医学各論 Ⅻ-1-A-㉑（新型コロナウイルス感染症、a）
@@ -605,6 +626,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/34_if_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ76 2026-11-15）。三原の承認（2026-11-11）による
 - id: HV-018
   domain: HV
   subdomain: 新型コロナウイルス感染症
@@ -625,7 +649,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ76 2026-11-15）：ClinicalTrials.gov 登録レコード NCT04368728：Study to Describe the Safety, Tolerability, Immunogenicity, and Efficacy of RNA Vaccine Candidates Against COVID-19 in Healthy Individuals（結果投稿済み）（https://clinicaltrials.gov/study/NCT04368728）。裏づける部分：候補（試験登録レコード）が、BNT162b2 の第2/3相の主要有効性解析（感染の血清学的・ウイルス学的証拠のない参加者で、2回目接種から7日以降の発症）を記録し、その分析値としてワクチン有効率95.0%（β二項モデルによる95%信用区間90.3–97.6）を載せる。カードの中核の値と完全一致する。数値の照合：ワクチン有効率95%・95% credible interval 90.3–97.6は候補と完全一致する。無作為化43,548人は候補に再掲なし（レコードの総登録数46,969人は第1相を含む全体で、相ごとの内訳は記録されていない）。1回目接種以降の重症例がワクチン群1例・プラセボ群9例という内訳はレコードに記載なし（重症例のアウトカムは2回目接種以降の発生率のみが記録されている）。留保：主出典 SRC-2067 の区分は現行 RESTRICTED が正しい（N Engl J Med。PMC 収載分 PMC7745181 に CC 表示なし）。識別子補完候補あり
   uncertainty: 数値は試験実施時点（野生株流行期）のもので、変異株や追加接種に対する有効性を示すものではない。国内では BNT162b2 を含む新型コロナワクチンは承認されており、2024年度から定期接種（B類疾病、対象は65歳以上と60〜64歳で一定の基礎疾患を有する者、秋冬に年1回）の対象となっていることを厚生労働省資料で確認した（制度は年度により変わりうる）。
   curriculum:
     kokushi: 医学各論 Ⅻ-1-A-㉑（新型コロナウイルス感染症、a）
@@ -640,6 +664,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/34_if_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ76 2026-11-15）。三原の承認（2026-11-11）による
 - id: HV-019
   domain: HV
   subdomain: 新型コロナウイルス感染症
@@ -660,7 +687,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ76 2026-11-15）：Esperatti M, Olmos M, Fuentes N. ARDS and corticosteroids: beyond COVID-19. Pneumonia (Nathan). 2026;18(1):14（PMID: 42178593、DOI: 10.1186/s41479-026-00200-7、PMCID: PMC13200361、https://pmc.ncbi.nlm.nih.gov/articles/PMC13200361/）。裏づける部分：候補（CC BY 総説）が RECOVERY 試験を、デキサメタゾン群2,104例・通常治療群4,321例の割付け、28日死亡の率比0.83、人工呼吸管理中の患者で死亡29.3%対41.4%（率比0.64）と差が大きかったこと、呼吸補助を受けていない患者では死亡の有益性が示されなかったこととして再掲する。カードの主張の全範囲と一致する。数値の照合：群の人数2,104例・4,321例、率比0.83、人工呼吸管理中の29.3%対41.4%は候補と一致する。全体の28日死亡は候補では23%対26%と丸めた表記であり、カードの22.9%対25.7%という小数の値そのものの再掲はない。留保：試験の登録レコード（NCT04381936）には結果が投稿されておらず、登録経路での裏づけは使えなかった。主出典 SRC-2068 の区分は現行 RESTRICTED が正しい（N Engl J Med。PMC 収載分 PMC7383595 に CC 表示なし）。識別子補完候補あり'
   uncertainty: エビデンスは英国の入院患者を対象とした試験によるもの。デキサメタゾンの新型コロナウイルス感染症に対する国内の承認・保険適用の確認状況は、本リサーチでは未確認である。
   curriculum:
     kokushi: 医学各論 Ⅻ-1-A-㉑（新型コロナウイルス感染症、a）
@@ -675,6 +702,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/34_if_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ76 2026-11-15）。三原の承認（2026-11-11）による
 - id: HV-020
   domain: HV
   subdomain: デング熱
@@ -695,7 +725,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ76 2026-11-15）：Robert S, Diagbouga PS, Djibougou AD, et al. Dengue diagnosis and impact on clinical management: A literature review. PLoS Negl Trop Dis. 2025;19(6):e0013196（PMID: 40587449、DOI: 10.1371/journal.pntd.0013196、PMCID: PMC12208413、https://pmc.ncbi.nlm.nih.gov/articles/PMC12208413/）。裏づける部分：候補（CC BY 総説）が、デングは感染したヤブカ属の蚊（Ae. aegypti・Ae. albopictus）の刺咬によりヒトに伝播すること、世界の年間感染数は約3億9,000万件（95%信頼区間2億8,400万〜5億2,800万）と推計され、うち約9,600万件が臨床的に顕性化することを、主出典（Bhatt ら）の推計として再掲する。カードの主張の全範囲と一致する。数値の照合：年間感染数約3億9,000万件・区間2億8,400万〜5億2,800万・顕性感染約9,600万件は候補と一致する（区間の呼び方はカードが95% credible interval、候補は95%信頼区間で表記が異なる）。留保：主出典 SRC-2069 の区分は現行 RESTRICTED が正しい（Nature。PMC 収載分 PMC3651993 は著者稿で CC 表示なし）。識別子補完候補あり'
   uncertainty: 数値は2013年のモデリングによる推計である。出典の抄録にあるワクチンに関する記述は2013年時点のもので現状を示さないため主張に入れていない。国内で承認されたデングワクチンはなく、特異的な治療法もない（国立健康危機管理研究機構の現行ページで確認）。
   curriculum:
     kokushi: 医学各論 Ⅻ-1-A-㉒（デング熱、b）
@@ -710,6 +740,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/34_if_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ76 2026-11-15）。三原の承認（2026-11-11）による
 - id: HV-021
   domain: HV
   subdomain: デング熱
@@ -765,7 +798,7 @@
     source_license: CC 表示なし（Europe PMC で OA でないことを確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ76 2026-11-15）：Oganesyan A, Sivesind TE, Dellavalle R. From the Cochrane Library: Interventions for Cutaneous Molluscum Contagiosum. JMIR Dermatol. 2023;6:e41514（PMID: 37632925、DOI: 10.2196/41514、PMCID: PMC10335125、https://pmc.ncbi.nlm.nih.gov/articles/PMC10335125/）。裏づける部分：候補（Cochrane レビューの CC BY 要約）が、伝染性軟属腫はポックスウイルスによる皮膚・粘膜の病態で主に小児にみられ自然消退が一般に起こること、主要アウトカムである短期の臨床的治癒についてイミキモド5%クリームは基剤（プラセボ）との比較で「どちらの介入も優れなかった」とする比較表（4研究・850例、リスク比1.33、95%CI 0.92–1.93）を載せる。カードの主張と一致する。数値の照合：リスク比1.33・95%CI 0.92–1.93は候補と一致する。「通常数か月以内に自然消退」は候補では自然消退が一般に起こるという表現で、期間（数か月以内）の明示はない。留保：候補は Cochrane レビュー自体ではなく、その公認の要約（JMIR Dermatology の From the Cochrane Library）で、数値はレビューへ帰属を明示して再掲されている。主出典 SRC-2071 の区分は現行 RESTRICTED が正しい（Cochrane Database Syst Rev、Wiley。PMC 収載分 PMC6481355 に CC 表示なし）。識別子補完候補あり'
   uncertainty: 皮膚所見の詳細は本カードでは扱わない。イミキモドの伝染性軟属腫に対する国内の承認・保険適用は未確認である。
   curriculum:
     kokushi: 医学各論 Ⅻ-1-A-㉓（伝染性軟属腫、b）
@@ -780,6 +813,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/34_if_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ76 2026-11-15）。三原の承認（2026-11-11）による
 - id: HV-023
   domain: HV
   subdomain: 急性灰白髄炎
@@ -835,7 +871,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ76 2026-11-15）：Rabe IB, Hills SL, Haussig JM, et al. A Review of the Recent Epidemiology of Zika Virus Infection. Am J Trop Med Hyg. 2025;112(5):1026-1035（PMID: 39933180、DOI: 10.4269/ajtmh.24-0420、PMCID: PMC12062665、https://pmc.ncbi.nlm.nih.gov/articles/PMC12062665/）。裏づける部分：候補（CC BY 総説）が、ジカウイルスはフラビウイルスで主に感染したヤブカ属の蚊の刺咬で伝播すること、2013年にフランス領ポリネシアで大規模な流行が始まったこと、ギラン・バレー症候群を含む重篤な神経学的転帰がありうること、妊娠中の感染で小頭症を含む先天性ジカウイルス症候群を生じ、フランス領ポリネシアでも同様の奇形が遡及的に確認されたこと、検査による確定はウイルスまたはウイルス RNA の検出（核酸増幅検査）か、交差反応するフラビウイルスへの検査を伴う血清学的確認によることを述べ、カードの主張の骨格と一致する。数値の照合：数値なし（病原体・疫学の枠組みのカード）。留保：ブラジルでの小頭症を含む先天異常の「劇的な増加」という規模感の表現と、フランス領ポリネシアの流行での神経合併症の報告という対応づけは、候補では本文中に分散した記載である。主出典 SRC-2073 の区分は現行 RESTRICTED が正しい（Clin Microbiol Rev、ASM。Crossref は非商用 TDM ライセンスのみ、PMC 収載分 PMC4861986 は CC 表示なし）。識別子補完候補あり'
   uncertainty: 本カードは病原体・感染経路・先天感染のリスクの原則までに絞り、妊婦・周産期管理の詳細は扱わない。
   curriculum:
     kokushi: 医学各論 Ⅻ-1-A-㉖（ジカウイルス感染症、c）
@@ -850,6 +886,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/34_if_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ76 2026-11-15）。三原の承認（2026-11-11）による
 - id: HV-025
   domain: HV
   subdomain: エボラ出血熱
@@ -870,7 +909,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ76 2026-11-15）：ClinicalTrials.gov 登録レコード NCT03719586：Investigational Therapeutics for the Treatment of People With Ebola Virus Disease (PALM)（結果投稿済み）（https://clinicaltrials.gov/study/NCT03719586）。裏づける部分：候補（試験登録レコード）が、PALM 試験の登録681例と、28日死亡の件数を群ごとに記録する（レムデシビル群93/175例、MAb114 群61/174例、REGN-EB3 群52/155例、ZMapp 群84/169例）。割合に換算すると MAb114 群35.1%・REGN-EB3 群33.5%・ZMapp 群49.7%となり、抗体医薬の2群が ZMapp 群より死亡率が低かったというカードの主張の中核と一致する。数値の照合：登録681例、MAb114 群35.1%・REGN-EB3 群33.5%・ZMapp 群49.7%は候補の件数と分母から一致する。カードの ZMapp 群「51.3%」は主出典における部分群の値で、レコードにあるのは全体の49.7%のみである。留保：主出典 SRC-2074 の区分は現行 RESTRICTED が正しい（N Engl J Med。PMC 収載分 PMC10680050 は CC 表示なし）。識別子補完候補あり
   uncertainty: 試験で使われた抗体医薬（MAb114 はアンスビマブ、REGN-EB3 はアトルチビマブ・マフチビマブ・オデシビマブの合剤）は欧米では承認されているが、国内では承認されておらず、国内での治療は支持療法が基本となる（厚生労働省通知・国立健康危機管理研究機構の資料で確認）。エボラ出血熱に対して国内で承認されたワクチンもない。
   curriculum:
     kokushi: 医学各論 Ⅻ-1-A-㉗（エボラ出血熱、c）
@@ -885,6 +924,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/34_if_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ76 2026-11-15）。三原の承認（2026-11-11）による
 - id: HV-026
   domain: HV
   subdomain: 日本脳炎

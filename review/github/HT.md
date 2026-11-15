@@ -44,7 +44,7 @@
 
 - 条件：guideline: JSH2025（日本高血圧学会 高血圧管理・治療ガイドライン2025）／region: 日本
 - 不確実性：二次資料経由（ガイドライン作成に関わった研究者の発表スライド）。家庭血圧の目標値と推奨の強さは JSH2025 本文で確認が要る
-- 出典：有馬久富. 成果報告2 日本高血圧学会での取り組み（成果報告会資料、2026年2月28日）. 国立保健医療科学院 掲載　[リンク](https://c2h.niph.go.jp/eecg/assets/reiwa_7/pdf/05_JPNSH_report.pdf)（区分 UNKNOWN）
+- 出典：有馬久富. 成果報告2 日本高血圧学会での取り組み（成果報告会資料、2026年2月28日）. 国立保健医療科学院 掲載　[リンク](https://c2h.niph.go.jp/eecg/assets/reiwa_7/pdf/05_JPNSH_report.pdf)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅴ-7-A（本態性高血圧、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-199 (id: JlvnlwU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HT-004&card_id=HT-004&version=b17b9e0585)　（版 `b17b9e0585`）
 

@@ -17,8 +17,8 @@
     url: https://doi.org/10.1159/000452150
     source_license: © S. Karger AG（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ77 2026-11-15）：Maghnie M, Labarta JI, Koledova E, Rohrer TR. Short Stature Diagnosis and Referral. Front Endocrinol (Lausanne). 2017;8:374（PMID: 29375479、DOI: 10.3389/fendo.2017.00374、PMCID: PMC5768898、https://pmc.ncbi.nlm.nih.gov/articles/PMC5768898/）。裏づける部分：候補（CC BY 総説）が、GH 分泌不全の評価に GH 刺激試験・IGF-I・下垂体 MRI を組み合わせること、単一の検査所見だけでは診断が確定しないことを述べ、カードの主張のうち身長・成長速度の評価に検査と画像を組み合わせる範囲と一致する。GH 補充が治療の中核という点は、候補の主題（診断と紹介）の範囲外である。数値の照合：数値なし（診断の枠組みのカード）。IGFBP-3 は候補に再掲なし。留保：主出典 SRC-1026 は区分訂正の対象（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: 薬剤（ソマトロピン）の国内承認・保険適用の範囲は、本調査では公的資料で個別に確認していない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-487 (id: JlvnmNQ)；TBL-02-13-013 (id: JlAKpss)'
@@ -33,6 +33,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1026 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ77 2026-11-15）。三原の承認（2026-11-11）による
 - id: IE-002
   domain: IE
   subdomain: 低身長の鑑別診断
@@ -52,8 +58,8 @@
     url: https://doi.org/10.1159/000502231
     source_license: © 2019 S. Karger AG, Basel（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ77 2026-11-15）：Linglart A, Cianfarani S, Dattani MT, et al. International Consensus on the Diagnosis and Clinical Management of Idiopathic Short Stature: A Modified Delphi Method. Horm Res Paediatr. 2026（PMID: 42658741、DOI: 10.1159/hrp/adaag008、PMCID: PMC13713050、https://pmc.ncbi.nlm.nih.gov/articles/PMC13713050/）。裏づける部分：候補（特発性低身長の国際コンセンサス、CC BY。候補自身の全文に CC BY 4.0 の表示を確認）が、身長が平均より 2 SDS 以上低い場合や標的身長より 2 SDS 以上低い場合に評価を行うこと、病歴・診察・成長曲線の評価を起点とし、骨年齢評価と遺伝学的検査（ターナー症候群の核型検査等）を含むことを述べ、カードの主張の骨格と一致する。数値の照合：評価開始の目安である身長 −2 SDS は候補と一致する。年 0.3 SDS 以上の身長 SDS 低下という閾値そのものは候補に再掲なし。留保：主出典 SRC-1027 は区分訂正の対象（UNKNOWN→RESTRICTED、区分訂正の節参照）。識別子補完候補あり（補完候補の節参照）'
   uncertainty: 数値（身長SDS −2、低下幅0.3 SDS/年）は出典本文の記載に基づく。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-487 (id: JlvnmNQ)；TBL-02-13-013 (id: JlAKpss)'
@@ -68,6 +74,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1027 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ77 2026-11-15）。三原の承認（2026-11-11）による
 - id: IE-003
   domain: IE
   subdomain: 先天性甲状腺機能低下症（新生児マススクリーニングと診断）
@@ -88,7 +100,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ77 2026-11-15）：Cavarzere P, Mancioppi V, Battiston R, et al. Primary congenital hypothyroidism: a clinical review. Front Endocrinol (Lausanne). 2025;16:1592655（PMID: 40862110、DOI: 10.3389/fendo.2025.1592655、PMCID: PMC12371337、https://pmc.ncbi.nlm.nih.gov/articles/PMC12371337/）。裏づける部分：候補（先天性甲状腺機能低下症の臨床総説、CC BY）が、新生児スクリーニングは知的障害の予防を目的として始まり日本を含む各国で実施されていること、スクリーニング陽性例では血清 FT4・TSH の精密検査で確認し鑑別を行うことを述べ、カードの主張のうち早期発見と精査の範囲と一致する。数値の照合：日本での開始年1979年と開始当初の頻度（出生5,000〜8,000あたり1）は候補に再掲なし。候補にあるスクリーニング以前の世界推計 1:7,000 は対象が異なる値で、カードの値の再掲ではない。留保：主出典 SRC-1028 の区分は現行 RESTRICTED が正しい（刊行版ライセンスは CC BY-NC-ND 4.0 で自由区分に当たらない）。識別子補完候補あり'
   uncertainty: 頻度（出生5,000〜8,000人に1人）は出典ガイドラインの記載する開始当時の値であり、近年の報告値とは異なる。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -103,6 +115,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ77 2026-11-15）。三原の承認（2026-11-11）による
 - id: IE-004
   domain: IE
   subdomain: 先天性甲状腺機能低下症の治療
@@ -123,7 +138,7 @@
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ77 2026-11-15）：Cavarzere P, Mancioppi V, Battiston R, et al. Primary congenital hypothyroidism: a clinical review. Front Endocrinol (Lausanne). 2025;16:1592655（PMID: 40862110、DOI: 10.3389/fendo.2025.1592655、PMCID: PMC12371337、https://pmc.ncbi.nlm.nih.gov/articles/PMC12371337/）。裏づける部分：候補（CC BY 総説）が、レボチロキシンは診断後可能な限り早く（遅くとも生後2週までに）開始すること、初期用量は 10–15 µg/kg/日であること、開始後は FT4・TSH を頻回に測定して目標範囲に保つモニタリング計画を述べ、カードの主張の全範囲と一致する。数値の照合：開始用量 10–15 µg/kg/日は候補と一致する。留保：主出典 SRC-1029 の区分は現行 RESTRICTED が正しい（刊行版ライセンスは CC BY-NC 4.0 で自由区分に当たらない）。識別子補完候補あり'
   uncertainty: 薬剤（レボチロキシン）の国内承認・保険適用の範囲は、本調査では公的資料で個別に確認していない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -138,6 +153,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ77 2026-11-15）。三原の承認（2026-11-11）による
 - id: IE-005
   domain: IE
   subdomain: 先天性副腎皮質過形成の病態と診断
@@ -157,8 +175,8 @@
     url: https://doi.org/10.1210/jc.2018-01865
     source_license: © 2018 Endocrine Society（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ77 2026-11-15）：Fanis P, Skordis N, Tomazou M, Phylactou LA, Neocleous V. Congenital Adrenal Hyperplasia in the Mediterranean: A Concise Overview. Pharmaceuticals. 2026;19(5):741（PMID: 42198415、DOI: 10.3390/ph19050741、PMCID: PMC13210843、https://pmc.ncbi.nlm.nih.gov/articles/PMC13210843/）。裏づける部分：候補（地中海地域の CAH 総説、CC BY）が、21-水酸化酵素欠損が CAH の約90〜95%を占めること、副腎アンドロゲン過剰の機序、塩喪失型ではミネラルコルチコイド欠乏と電解質異常を伴うこと、新生児スクリーニングは乾燥血液スポットの 17-OHP 測定が主体であること、CYP21A2 の遺伝子解析が診断に用いられることを述べ、カードの主張の骨格と一致する。数値の照合：候補の「約90〜95%」はカードの「大部分」と整合する（カードに割合の数値はない）。「診断は臨床像とホルモン値で行い、解釈が難しい場合に遺伝子検査」という段階づけそのものは候補に再掲なし。留保：主出典 SRC-1030 は区分訂正の対象（UNKNOWN→RESTRICTED、区分訂正の節参照）。識別子補完候補あり'
   uncertainty: 21-ヒドロキシラーゼ欠損症が全体の約95%を占めるとの割合は、同学会ガイドラインの要約資料の記載に基づく。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-488 (id: JlvnmNY)'
@@ -173,6 +191,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1030 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ77 2026-11-15）。三原の承認（2026-11-11）による
 - id: IE-006
   domain: IE
   subdomain: 先天性副腎皮質過形成の治療
@@ -192,8 +216,8 @@
     url: https://doi.org/10.1210/jc.2018-01865
     source_license: © 2018 Endocrine Society（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ77 2026-11-15）：Fanis P, Skordis N, Tomazou M, Phylactou LA, Neocleous V. Congenital Adrenal Hyperplasia in the Mediterranean: A Concise Overview. Pharmaceuticals. 2026;19(5):741（PMID: 42198415、DOI: 10.3390/ph19050741、PMCID: PMC13210843、https://pmc.ncbi.nlm.nih.gov/articles/PMC13210843/）。裏づける部分：候補（CC BY 総説）が、小児の維持療法の標準はヒドロコルチゾンであること、塩喪失型ではフルドロコルチゾンを用いることを述べ、カードの主張のうち維持療法の薬剤選択の範囲と一致する。数値の照合：数値なし（治療方針のカード）。乳児への塩分（NaCl）補充、ストレス時（発熱・手術）のグルココルチコイド増量、最小用量として医原性クッシング症候群と成長障害を避けるという原則は候補に再掲なし。留保：主出典 SRC-1030 は区分訂正の対象（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: 薬剤（ヒドロコルチゾン、フルドロコルチゾン）の国内承認・保険適用の範囲は、本調査では公的資料で個別に確認していない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-01-00-488 (id: JlvnmNY)'
@@ -208,6 +232,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1030 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ77 2026-11-15）。三原の承認（2026-11-11）による
 - id: IE-007
   domain: IE
   subdomain: 性早熟症
@@ -227,8 +257,8 @@
     url: https://doi.org/10.1016/S2213-8587(15)00380-0
     source_license: The Lancet（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ77 2026-11-15）：Micangeli G, Paparella R, Tarani F, et al. Clinical Management and Therapy of Precocious Puberty in the Sapienza University Pediatrics Hospital of Rome, Italy. Children. 2023;10(10):1672（PMID: 37892335、DOI: 10.3390/children10101672、PMCID: PMC10604951、https://pmc.ncbi.nlm.nih.gov/articles/PMC10604951/）。裏づける部分：候補（小児の思春期早発症の臨床総説、CC BY）が、中枢性思春期早発症は HPG 軸の早期活性化で女児8歳未満・男児9歳未満に二次性徴が現れるものと定義すること、女児では特発性が多く男児では器質性（視床下部‐下垂体病変）が多いこと、家族性では MKRN3 の機能喪失異常が最も多い単一遺伝子原因であること、GnRH アナログが標準治療（ゴールドスタンダード）であることを述べ、カードの主張の全範囲と一致する。数値の照合：発症年齢の目安（女児8歳未満・男児9歳未満）は候補の定義文と一致する。候補にある家族性症例の MKRN3 異常の割合33〜47%は、カードにない追加情報である。留保：主出典 SRC-1031 は区分訂正の対象（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: 薬剤（GnRHアゴニスト）の国内承認・保険適用の範囲は、本調査では公的資料で個別に確認していない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -243,6 +273,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1031 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ77 2026-11-15）。三原の承認（2026-11-11）による
 - id: IE-008
   domain: IE
   subdomain: アセトン血性嘔吐症（周期性嘔吐症）
@@ -262,8 +298,8 @@
     url: https://doi.org/10.1002/jpn3.70193
     source_license: Wiley（CC表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ77 2026-11-15）：Raucci U, Borrelli O, Di Nardo G, et al. Cyclic Vomiting Syndrome in Children. Front Neurol. 2020;11:583425（PMID: 33224097、DOI: 10.3389/fneur.2020.583425、PMCID: PMC7667239、https://pmc.ncbi.nlm.nih.gov/articles/PMC7667239/）。裏づける部分：候補（小児の周期性嘔吐症候群の総説、CC BY）が、Rome IV 基準（定型的な嘔吐エピソードが繰り返され、エピソード間は普段の健康状態に戻る）を引用すること、CVS に特異的な徴候・バイオマーカーがないこと、疑い例では血清・尿のスクリーニング検査と、回転異常・閉塞を除外する上部消化管造影を行うことを述べ、カードの主張の全範囲と一致する。数値の照合：数値なし（診断基準の枠組みのカード）。留保：主出典 SRC-1032 は区分訂正の対象（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: 2025年版ガイドラインの全文はオープンアクセスで確認できず、主張は抄録とガイドライン要約で確認できた範囲に基づく。日本語病名のアセトン血性嘔吐症と周期性嘔吐症候群の対応は完全には一致しない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -278,6 +314,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1032 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ77 2026-11-15）。三原の承認（2026-11-11）による
 - id: IE-009
   domain: IE
   subdomain: 新生児低血糖症
@@ -298,7 +340,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ77 2026-11-15）：Giouleka S, Gkiouleka M, Tsakiridis I, et al. Diagnosis and Management of Neonatal Hypoglycemia: A Comprehensive Review of Guidelines. Children. 2023;10(7):1220（PMID: 37508719、DOI: 10.3390/children10071220、PMCID: PMC10378472、https://pmc.ncbi.nlm.nih.gov/articles/PMC10378472/）。裏づける部分：候補（新生児低血糖のガイドライン総説、CC BY）が、主出典である PES の推奨が生後72時間を超えて持続・出現する低血糖を対象とすること、持続性低血糖の原因として先天性高インスリン血症、コルチゾール・GH 欠乏、糖・糖原病・脂肪酸代謝異常を挙げること、PES の血糖目標を再掲することを述べ、カードの主張の骨格と一致する。数値の照合：候補は PES の目標値として生後48時間までは 50 mg/dL 超、48時間以降は 60 mg/dL 超を再掲する。カードの「血漿グルコース 60 mg/dL 未満を評価の目安」と「遅くとも生後48時間までの評価」は、候補では治療目標の文脈で記載されており、枠組みが異なるため部分裏づけにとどめる。留保：主出典 SRC-1033 の区分は現行 RESTRICTED が正しい（刊行版ライセンスは CC BY-NC-ND 4.0 で自由区分に当たらない）。識別子補完候補あり'
   uncertainty: 血糖値の目安（60 mg/dL）は出典の提言本文に基づく。国内の周産期管理の基準値とは別に扱う必要がある。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -313,6 +355,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ77 2026-11-15）。三原の承認（2026-11-11）による
 - id: IE-010
   domain: IE
   subdomain: 糖原病
@@ -332,8 +377,8 @@
     url: https://doi.org/10.3748/wjg.v13.i18.2541
     source_license: © 2007 Baishideng Publishing Group（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ77 2026-11-15）：Molares-Vila A, Corbalán-Rivas A, Carnero-Gregorio M, González-Cespón JL, Rodríguez-Cerdeira C. Biomarkers in Glycogen Storage Diseases: An Update. Int J Mol Sci. 2021;22(9):4381（PMID: 33922238、DOI: 10.3390/ijms22094381、PMCID: PMC8122709、https://pmc.ncbi.nlm.nih.gov/articles/PMC8122709/）。裏づける部分：候補（糖原病のバイオマーカー総説、CC BY）が、全体の推定頻度は出生20,000〜43,000あたり1であること、欠損酵素と障害臓器によって分類されること、肝型（I型）では肝腫大・低血糖に加えて高乳酸血症・高尿酸血症・高脂血症を伴うこと、筋型（V型）では運動不耐と筋力低下が中心であることを述べ、カードの主張の全範囲と一致する。数値の照合：全体の頻度（出生20,000〜43,000あたり1）は候補と完全一致する。留保：主出典 SRC-1034 は区分訂正の対象（UNKNOWN→RESTRICTED、区分訂正の節参照）。識別子補完候補あり'
   uncertainty: 頻度は出典抄録の推定値（出生20,000〜43,000人に1人）であり、型別の頻度ではない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -348,6 +393,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1034 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ77 2026-11-15）。三原の承認（2026-11-11）による
 - id: IE-011
   domain: IE
   subdomain: ガラクトース血症
@@ -402,8 +453,8 @@
     url: https://doi.org/10.1038/s41572-018-0025-4
     source_license: Nature Portfolio（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ77 2026-11-15）：Lipiński P, Tylki-Szymańska A. The Liver and Lysosomal Storage Diseases: From Pathophysiology to Clinical Presentation, Diagnostics, and Treatment. Diagnostics. 2024;14(12):1299（PMID: 38928715、DOI: 10.3390/diagnostics14121299、PMCID: PMC11202662、https://pmc.ncbi.nlm.nih.gov/articles/PMC11202662/）。裏づける部分：候補（肝とリソソーム病の総説、CC BY）が、スフィンゴ脂質症をリソソーム病の分類として位置づけ（ゴーシェ病、酸性スフィンゴミエリナーゼ欠損＝ニーマン・ピック病 A/B 型等）、ゴーシェ病は β-グルコセレブロシダーゼ欠損により未分解の基質（グルコセレブロシド）が蓄積すること、酵素補充療法がリソソーム病治療の標準であることを述べ、カードの主張の骨格と一致する。数値の照合：数値なし（疾患群の総論のカード）。ファブリー病（α-ガラクトシダーゼ A 欠損）は候補では X 連鎖のリソソーム病としての言及にとどまり、スフィンゴ脂質症としての酵素名の再掲はない。留保：主出典 SRC-1036 は区分訂正の対象（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: 疾患と欠損酵素の対応は出典の表から読み取り。酵素補充療法製剤の国内承認・保険適用は疾患ごとに異なり、本調査では個別に確認していない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -418,6 +469,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1036 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ77 2026-11-15）。三原の承認（2026-11-11）による
 - id: IE-013
   domain: IE
   subdomain: ムコ多糖症
@@ -437,8 +494,8 @@
     url: https://doi.org/10.1093/rheumatology/ker394
     source_license: Oxford University Press（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ77 2026-11-15）：Lipiński P, Różdżyńska-Świątkowska A, Wiśniewska K, et al. Mucopolysaccharidoses-What Clinicians Need to Know: A Clinical, Biochemical, and Molecular Overview. Biomolecules. 2025;15(10):1448（PMID: 41154677、DOI: 10.3390/biom15101448、PMCID: PMC12562998、https://pmc.ncbi.nlm.nih.gov/articles/PMC12562998/）。裏づける部分：候補（ムコ多糖症の総説、CC BY）が、MPS は GAG 分解酵素の欠損によるリソソーム病で、骨格・関節の変形、気道閉塞、心臓弁病変などが進行する多臓器の疾患であること、主な治療の枠組みは造血幹細胞移植と静注の酵素補充療法であることを述べ、カードの主張の骨格と一致する。数値の照合：心臓弁病変の割合60〜90%は候補の値である（カードに数値はない）。「出生時は正常に見える」は候補では初期の発達が比較的正常という表現で、逐語の再掲ではない。酵素補充療法の対象型は候補が I・II・IVA・VII 型等を挙げており、カードの I・II・VI 型との型レベルの完全な照合は候補の表の抽出が乱れたため未確認（申し送りの節参照）。留保：主出典 SRC-1037 は区分訂正の対象（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: 薬剤（各型の酵素補充製剤）の国内承認・保険適用の範囲は、本調査では公的資料で個別に確認していない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -453,6 +510,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1037 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ77 2026-11-15）。三原の承認（2026-11-11）による
 - id: IE-014
   domain: IE
   subdomain: 先天性アミノ酸代謝異常症（フェニルケトン尿症）
@@ -507,8 +570,8 @@
     url: https://doi.org/10.1002/jimd.12100
     source_license: © 2019 SSIEM（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ77 2026-11-15）：Spada M, Porta F. Pre-emptive treatment in later-onset urea cycle disorders: a clinical perspective on glycerol phenylbutyrate. Orphanet J Rare Dis. 2026（PMID: 42351235、DOI: 10.1186/s13023-026-04466-4、PMCID: PMC13587337、https://pmc.ncbi.nlm.nih.gov/articles/PMC13587337/）。裏づける部分：候補（後発型尿素サイクル異常症の臨床総説、CC BY）が、尿素サイクル異常症はアンモニアの解毒障害で全体の頻度は出生35,000あたり1であること、発症は新生児期の重症型から成人まで無症状の例まで幅広いこと、血中アンモニアが診断と経過観察の指標であることを述べ、カードの主張の骨格と一致する。数値の照合：頻度（出生35,000あたり約1）は候補と一致する。「約半数が新生児期に発症」は候補に再掲なし。留保：主出典 SRC-1039 は区分訂正の対象（UNKNOWN→RESTRICTED、区分訂正の節参照）。同誌（J Inherit Metab Dis）のガイドラインには CC BY のものもあるが、本論文の刊行版に CC 表示はない'
   uncertainty: 頻度（約35,000人に1人）と新生児期発症の割合（約半数）は出典ガイドライン第1改訂版の推定に基づく。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -523,6 +586,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1039 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ77 2026-11-15）。三原の承認（2026-11-11）による
 - id: IE-016
   domain: IE
   subdomain: 有機酸代謝異常症
@@ -543,7 +612,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ77 2026-11-15）：Baumgartner MR, Hörster F, Dionisi-Vici C, et al. Proposed guidelines for the diagnosis and management of methylmalonic and propionic acidemia. Orphanet J Rare Dis. 2014;9:130（PMID: 25205257、DOI: 10.1186/s13023-014-0130-8、PMCID: PMC4180313、https://pmc.ncbi.nlm.nih.gov/articles/PMC4180313/）。裏づける部分：候補（主出典ガイドラインの前版にあたる提案ガイドライン、CC BY）が、メチルマロン酸血症は MUT（MMUT）欠損、プロピオン酸血症は PCCA・PCCB のサブユニットからなるプロピオニル CoA カルボキシラーゼの欠損によること、分枝鎖アミノ酸代謝の障害で有機酸が蓄積すること、急性増悪では代謝性アシドーシスと高アンモニア血症を呈すること、急性期治療の手順と、長期管理の中心が低タンパク食（前駆アミノ酸の制限）であることを述べ、カードの主張の全範囲と一致する。数値の照合：数値照合の対象なし（疾患の定義と管理方針のカード）。候補にある推定頻度（MMA 約1:50,000、PA 約1:100,000–150,000）はカードにない値である。留保：主出典 SRC-1040 の区分は現行 RESTRICTED が正しい（刊行版ライセンスは CC BY-NC-ND 4.0 で自由区分に当たらない）。識別子補完候補あり。候補は主出典の前版であり、裏づけとしての登録にとどめる（申し送りの節参照）'
   uncertainty: null
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -558,6 +627,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ77 2026-11-15）。三原の承認（2026-11-11）による
 - id: IE-017
   domain: IE
   subdomain: 新生児マススクリーニングの仕組み（日本）
@@ -612,8 +684,8 @@
     url: https://doi.org/10.1002/jpn3.70020
     source_license: Wiley（CC表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ77 2026-11-15）：Raucci U, Borrelli O, Di Nardo G, et al. Cyclic Vomiting Syndrome in Children. Front Neurol. 2020;11:583425（PMID: 33224097、DOI: 10.3389/fneur.2020.583425、PMCID: PMC7667239、https://pmc.ncbi.nlm.nih.gov/articles/PMC7667239/）。裏づける部分：候補（小児の周期性嘔吐症候群の総説、CC BY）が、発作の頓挫にスマトリプタン（片頭痛の家族歴がある場合により有効）とオンダンセトロンを用いること、急性期の静脈輸液、外来で頓挫できない場合の早期受診と輸液開始、予防薬としてシプロヘプタジン・アミトリプチリン・プロプラノロール・アプレピタントを用いることを述べ、カードの主張のうち薬剤選択と急性期対応の範囲と一致する。数値の照合：数値なし（推奨の内容のカード）。NASPGHAN 2025 の推奨の強さ（強い推奨／条件付き推奨）の区別と、「難治例を除き抗てんかん薬は予防に使わない」という位置づけは候補に再掲なし（候補はバルプロ酸・トピラマートを検討された予防薬として扱っている）。留保：主出典 SRC-4970 は区分訂正の対象（UNKNOWN→RESTRICTED、区分訂正の節参照）。カード側 uncertainty のオープンアクセス表記に関する疑問への回答は申し送りの節参照'
   uncertainty: 推奨の強さはガイドライン本文で確認した（強い推奨は抗片頭痛薬による頓挫のみで、他の薬剤はいずれも条件付き推奨、エビデンスの確実性は低い〜非常に低い）。国内承認の状況：オンダンセトロンは国内で抗悪性腫瘍剤投与に伴う悪心・嘔吐や術後の悪心・嘔吐に承認されているが、周期性嘔吐症候群への適応はない。トリプタン系薬は片頭痛への承認であり、プロプラノロール・シプロヘプタジン・アプレピタント・アミトリプチリンにも周期性嘔吐症候群への国内適応はなく、本カードの用法はいずれも適応外使用にあたる。誌面 PDF にはオープンアクセスである旨の表示があるが CC ライセンスの種別は確認できなかったため、診断編の SRC-1032 と同様に UNKNOWN とした。定義・診断は IE-008（SRC-1032、診断編ガイドライン）が担う。
   curriculum:
     kokushi: 医学各論 Ⅹ-10-B-①（アセトン血性嘔吐症<周期性嘔吐症>、a）
@@ -628,3 +700,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/67_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-4970 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ77 2026-11-15）。三原の承認（2026-11-11）による

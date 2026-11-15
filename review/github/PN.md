@@ -32,7 +32,7 @@
 
 - 条件：population: 遠位対称性多発ニューロパチー患者／region: 国際
 - 不確実性：本パラメータは遠位対称性多発ニューロパチーを対象とする。血糖値が正常でも、遠位対称性感覚性多発ニューロパチーでは耐糖能異常の検査を考慮しうるとされる。糖尿病そのものの診断・治療は扱わない。
-- 出典：England JD, Gronseth GS, Franklin G, et al. Practice Parameter: evaluation of distal symmetric polyneuropathy: role of laboratory and genetic testing (an evidence-based review). Neurology. 2009;72(2):185-192　[DOI 10.1212/01.wnl.0000336370.51010.a1](https://doi.org/10.1212/01.wnl.0000336370.51010.a1)　[PMID 19056666](https://pubmed.ncbi.nlm.nih.gov/19056666/)（区分 UNKNOWN）
+- 出典：England JD, Gronseth GS, Franklin G, et al. Practice Parameter: evaluation of distal symmetric polyneuropathy: role of laboratory and genetic testing (an evidence-based review). Neurology. 2009;72(2):185-192　[DOI 10.1212/01.wnl.0000336370.51010.a1](https://doi.org/10.1212/01.wnl.0000336370.51010.a1)　[PMID 19056666](https://pubmed.ncbi.nlm.nih.gov/19056666/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-5-A-①（多発ニューロパチー、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PN-003&card_id=PN-003&version=910366bccb)　（版 `910366bccb`）
 
@@ -78,7 +78,7 @@
 
 - 条件：population: Guillain-Barré 症候群患者／region: 国際
 - 不確実性：本カードはステロイド単独療法の評価であり、免疫グロブリン静注療法や血漿交換との併用の評価ではない。ステロイド自体は国内承認薬であるが、本症への単独投与を支持するエビデンスはないという内容である。
-- 出典：Hughes RAC, Brassington R, Gunn AA, van Doorn PA. Corticosteroids for Guillain-Barré syndrome. Cochrane Database Syst Rev. 2016;(10):CD001446（PMCID: PMC6464149）　[DOI 10.1002/14651858.CD001446.pub5](https://doi.org/10.1002/14651858.CD001446.pub5)　[PMID 27775812](https://pubmed.ncbi.nlm.nih.gov/27775812/)（区分 UNKNOWN）
+- 出典：Hughes RAC, Brassington R, Gunn AA, van Doorn PA. Corticosteroids for Guillain-Barré syndrome. Cochrane Database Syst Rev. 2016;(10):CD001446（PMCID: PMC6464149）　[DOI 10.1002/14651858.CD001446.pub5](https://doi.org/10.1002/14651858.CD001446.pub5)　[PMID 27775812](https://pubmed.ncbi.nlm.nih.gov/27775812/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-5-A-②（Guillain-Barré症候群、慢性炎症性脱髄性多発根ニューロパチー、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-046 (id: JlvnleA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PN-007&card_id=PN-007&version=41131a71d3)　（版 `41131a71d3`）
 
@@ -94,7 +94,7 @@
 
 - 条件：population: CIDP（典型型および亜型）患者／region: 国際
 - 不確実性：国内の免疫グロブリン製剤には「慢性炎症性脱髄性多発根神経炎（多巣性運動ニューロパチーを含む）の筋力低下の改善」の適応がある（添付文書で確認）。維持療法には免疫グロブリン静注・皮下注またはコルチコステロイドが推奨される（同ガイドライン）。
-- 出典：Van den Bergh PYK, van Doorn PA, Hadden RDM, et al. European Academy of Neurology/Peripheral Nerve Society guideline on diagnosis and treatment of chronic inflammatory demyelinating polyradiculoneuropathy: Report of a joint Task Force—Second revision. Eur J Neurol. 2021;28(11):3556-3583　[DOI 10.1111/ene.14959](https://doi.org/10.1111/ene.14959)　[PMID 34327760](https://pubmed.ncbi.nlm.nih.gov/34327760/)（区分 UNKNOWN）
+- 出典：Van den Bergh PYK, van Doorn PA, Hadden RDM, et al. European Academy of Neurology/Peripheral Nerve Society guideline on diagnosis and treatment of chronic inflammatory demyelinating polyradiculoneuropathy: Report of a joint Task Force—Second revision. Eur J Neurol. 2021;28(11):3556-3583　[DOI 10.1111/ene.14959](https://doi.org/10.1111/ene.14959)　[PMID 34327760](https://pubmed.ncbi.nlm.nih.gov/34327760/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-5-A-②（Guillain-Barré症候群、慢性炎症性脱髄性多発根ニューロパチー、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PN-008&card_id=PN-008&version=8431f2c64d)　（版 `8431f2c64d`）
 
@@ -142,7 +142,7 @@
 
 - 条件：population: 血管炎性ニューロパチーが疑われる患者／region: 国際
 - 不確実性：全身性血管炎を伴わない非全身性血管炎性ニューロパチーでは、コルチコステロイド単独療法（少なくとも6か月）が第一選択とされる（同ガイドライン）。全身性血管炎そのものの総論は本カードの範囲外。糖尿病性の多巣性病変は一般論の範囲にとどめ、糖尿病の管理は DM の範囲とする。
-- 出典：Collins MP, Dyck PJ, Gronseth GS, et al. Peripheral Nerve Society Guideline on the classification, diagnosis, investigation, and immunosuppressive therapy of non-systemic vasculitic neuropathy: executive summary. J Peripher Nerv Syst. 2010;15(3):176-184　[DOI 10.1111/j.1529-8027.2010.00281.x](https://doi.org/10.1111/j.1529-8027.2010.00281.x)　[PMID 21040139](https://pubmed.ncbi.nlm.nih.gov/21040139/)（区分 UNKNOWN）
+- 出典：Collins MP, Dyck PJ, Gronseth GS, et al. Peripheral Nerve Society Guideline on the classification, diagnosis, investigation, and immunosuppressive therapy of non-systemic vasculitic neuropathy: executive summary. J Peripher Nerv Syst. 2010;15(3):176-184　[DOI 10.1111/j.1529-8027.2010.00281.x](https://doi.org/10.1111/j.1529-8027.2010.00281.x)　[PMID 21040139](https://pubmed.ncbi.nlm.nih.gov/21040139/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-5-A-⑤（多発単ニューロパチー、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PN-011&card_id=PN-011&version=ac696a35bb)　（版 `ac696a35bb`）
 
@@ -230,7 +230,7 @@
 
 - 条件：population: 手根管症候群の成人患者／region: 国際
 - 不確実性：同ガイドラインでは、診断に CTS-6 を用いることで超音波検査や神経伝導検査のルーチン使用に代えられるとの強い推奨もある。装具（夜間スプリント）は軽症例の保存療法として用いられるが、本パートで確認した一次資料の推奨文に装具の位置づけが含まれなかったため、命題としては立てていない。 局所ステロイド注射の個別製剤の国内適応は未確認。
-- 出典：Shapiro LM, Kamal R, Brault J, et al. American Academy of Orthopaedic Surgeons/ASSH Clinical Practice Guideline Summary Management of Carpal Tunnel Syndrome. J Am Acad Orthop Surg. 2025;33(7):e356-e366（PMCID: PMC11928260）　[DOI 10.5435/JAAOS-D-24-01179](https://doi.org/10.5435/JAAOS-D-24-01179)　[PMID 39637428](https://pubmed.ncbi.nlm.nih.gov/39637428/)（区分 UNKNOWN）
+- 出典：Shapiro LM, Kamal R, Brault J, et al. American Academy of Orthopaedic Surgeons/ASSH Clinical Practice Guideline Summary Management of Carpal Tunnel Syndrome. J Am Acad Orthop Surg. 2025;33(7):e356-e366（PMCID: PMC11928260）　[DOI 10.5435/JAAOS-D-24-01179](https://doi.org/10.5435/JAAOS-D-24-01179)　[PMID 39637428](https://pubmed.ncbi.nlm.nih.gov/39637428/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-5-B-①（手根管症候群、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-127 (id: JlvnlpI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PN-018&card_id=PN-018&version=5b87f3d278)　（版 `5b87f3d278`）
 
@@ -246,7 +246,7 @@
 
 - 条件：population: 肘部管症候群患者／region: 国際
 - 不確実性：尺骨神経障害の部位は肘部以外（Guyon 管など）もあり、病変部位の同定が治療選択に影響する。
-- 出典：Dy CJ, Mackinnon SE. Ulnar neuropathy: evaluation and management. Curr Rev Musculoskelet Med. 2016;9(2):178-184（PMCID: PMC4896870）　[DOI 10.1007/s12178-016-9327-x](https://doi.org/10.1007/s12178-016-9327-x)　[PMID 27080868](https://pubmed.ncbi.nlm.nih.gov/27080868/)（区分 UNKNOWN）
+- 出典：Dy CJ, Mackinnon SE. Ulnar neuropathy: evaluation and management. Curr Rev Musculoskelet Med. 2016;9(2):178-184（PMCID: PMC4896870）　[DOI 10.1007/s12178-016-9327-x](https://doi.org/10.1007/s12178-016-9327-x)　[PMID 27080868](https://pubmed.ncbi.nlm.nih.gov/27080868/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-5-B-②（肘部管症候群、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-128 (id: JlvnlpQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PN-019&card_id=PN-019&version=a5ef55506e)　（版 `a5ef55506e`）
 

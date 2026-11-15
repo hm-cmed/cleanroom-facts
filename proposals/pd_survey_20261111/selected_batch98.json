@@ -1,0 +1,22 @@
+{
+ "A": [],
+ "B": [
+  {
+   "card": "GR-001",
+   "label": "OPEN／OPEN、作り手の調査バッチ98 2026-11-15",
+   "text": "Paparella R, Bei A, Bernabei I, et al. Idiopathic Short Stature in the Genomic Era: Integrating Auxology, Endocrinology, and Emerging Genetic Insights. Children (Basel). 2025;12(7):855／Linglart A, Cianfarani S, Dattani MT, et al. International Consensus on the Diagnosis and Clinical Management of Idiopathic Short Stature: A Modified Delphi Method. Horm Res Paediatr. 2026（PMID: 40723048／42658741、DOI: 10.3390/children12070855／10.1159/hrp/adaag008、PMCID: PMC12294097／PMC13713050、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補1（CC BY 総説）は「オークソロジーによる評価は低身長評価の要（cornerstone）であり、身長・成長速度・思春期の経過の精密な縦断的計測と標的身長の評価によって異常な成長の経過を早期に捉えられる」と述べ、カードの主張の中核（病歴・身体所見に加えて、計測値を成長曲線上で経時的に追う評価が最も重要な方法であり、単一時点の身長だけでなく成長の経過そのものを評価することが診断の出発点）と一致する。また「低身長は小児内分泌への紹介の一般的な理由（a common reason for pediatric endocrinology referral）」とも述べる。候補2（CC BY の国際コンセンサス）は、集団の成長曲線で身長 SDS を解釈すること、身長速度の評価には最低6か月空けた2回以上の計測が必要なこと、評価は病歴・身体所見・成長速度の文脈で解釈することを推奨として再掲する。ただし「小児内分泌医への紹介理由として最も頻度が高い」という最上級の表現そのものは候補のいずれにも再掲がない（候補1は common reason の表現にとどまる）。数値の照合：数値的主張はカードにない（身長 −2 SDS の定義はカードの uncertainty にあるとおり主張に入れられていない）。候補2の身長速度評価の条件（2回以上の計測・最低6か月間隔）はカードの主張の数値照合の対象ではない。留保：主出典 SRC-1027 の区分訂正（UNKNOWN→RESTRICTED）と license_note の更新、PMCID の補完はいずれもバッチ77で提案済みの再掲（区分訂正・識別子補完の節参照）。カード側はすでに source_class が RESTRICTED、source_license に「CC BY-NC-ND 4.0（Crossref・Europe PMC で確認）」の記載があり、マスター側の反映待ち。候補のライセンスはいずれも Crossref の版データ・Europe PMC の個別レコード・PMC 全文のライセンス要素で CC BY 4.0 と個別確認した。候補2は主出典と著者陣の重なる後継的なコンセンサス文書で、バッチ77で次回改訂時の出典差し替え（OPEN 化）候補として申し送り済み"
+  },
+  {
+   "card": "GR-002",
+   "label": "OPEN／OPEN、作り手の調査バッチ98 2026-11-15",
+   "text": "Linglart A, Cianfarani S, Dattani MT, et al. International Consensus on the Diagnosis and Clinical Management of Idiopathic Short Stature: A Modified Delphi Method. Horm Res Paediatr. 2026／Backeljauw PF, Andrews M, Bang P, et al. Challenges in the care of individuals with severe primary insulin-like growth factor-I deficiency (SPIGFD): an international, multi-stakeholder perspective. Orphanet J Rare Dis. 2023;18(1):312（PMID: 42658741／37805563、DOI: 10.1159/hrp/adaag008／10.1186/s13023-023-02928-7、PMCID: PMC13713050／PMC10559630、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補1（CC BY の国際コンセンサス）は主出典（Grimberg et al. 2016）を引用文献として挙げ、特発性低身長症（ISS）は除外診断であること、ISS の診断は GH 刺激試験で刺激時 GH が欠乏の閾値を超え、IGF-1・IGFBP-3 が正常範囲であることを確認して行うこと（すなわち成長ホルモン分泌不全症（GHD）との区別に IGF-I の測定を含む評価が必要なこと）、思春期前の低身長では ISS と体質性思春期遅延が初回評価で区別できない場合があることを述べ、鑑別の困難さと IGF-I を含む評価の進め方の骨格を裏づける。候補2（CC BY）は、原発性 IGF-I 欠損症（PIGFD）の重症型（SPIGFD）が GH 不感受性の枠組みに位置づけられること、診断の道筋自体が困難（challenging）であること、組換えヒト IGF-1（rhIGF-1）が SPIGFD に対する唯一の有効な治療であることを述べ、PIGFD 側の位置づけと組換え IGF-I 治療の位置づけを裏づける。ただし、2016年の小児内分泌学会ガイドラインがこの3病態を対象とし、評価の進め方と成長ホルモン治療・組換え IGF-I 治療の適応判断に関する推奨を示したというガイドライン自身の範囲表明そのものは、自由な全文には再掲がない（両候補とも主出典を引用文献として挙げるにとどまる）。数値の照合：数値的主張はカードにない。候補1の GH 刺激試験の閾値（ピーク GH 7.5〜10 µg/L、測定法・地域で異なると注記）は候補側の値であり、主出典の数値として裏づけ登録しないこと（申し送り参照）。留保：主出典 SRC-1026 の区分訂正（UNKNOWN→RESTRICTED）はバッチ77で提案済みの再掲（区分訂正の節参照）。候補のライセンスはいずれも Crossref の版データ・Europe PMC の個別レコード・PMC 全文のライセンス要素で CC BY 4.0 と個別確認した。カードの uncertainty にある国内承認の注記（特発性低身長症は国内の成長ホルモン承認適応に含まれない）は本棚卸しの対象外であり、変更していない"
+  },
+  {
+   "card": "GR-003",
+   "label": "GOV_US、作り手の調査バッチ98 2026-11-15",
+   "text": "CDC（National Center on Birth Defects and Developmental Disabilities）「Developmental Monitoring and Screening」（公式ページ、2026-02-16更新。参照文献1として主出典 Lipkin & Macias 2020 を明示）（https://www.cdc.gov/act-early/about/developmental-monitoring-and-screening.html）。裏づける部分：部分：候補（米国政府 CDC の公式ページ、GOV_US）は、主出典（Lipkin & Macias 2020）を参照文献1として明示したうえで、健診のたびに発達について確認し、到達の遅れや懸念があればスクリーニング検査を次の段階とする発達モニタリング（主出典のいうサーベイランスに相当）の進め方と、米国小児科学会（AAP）が標準化された発達スクリーニング検査を生後9か月・18か月・30か月の健診で実施するよう推奨していることをそのまま再掲し、懸念がある場合は予定の月齢以外でもスクリーニングを行うこと、発達の懸念が特定された場合は州の早期介入システムへの紹介・評価が次の段階であることを述べ、カードの主張の骨格（すべての健診の機会に発達サーベイランスを行うこと、標準化されたスクリーニングを9か月・18か月・30か月に実施する体制、懸念が得られた場合は月齢を問わずスクリーニングの実施または早期介入・専門医療への紹介に進めること）と一致する。ただし候補は保護者向けの平易な説明であり、AAP 臨床報告自身の推奨文の形（サーベイランスの構成要素の定義など）までは再掲がなく、サーベイランスに当たる概念は developmental monitoring の語で説明されている。数値の照合：スクリーニング実施月齢（生後9か月・18か月・30か月）は候補の再掲と完全一致する。留保：主出典 SRC-3529 は Crossref の版データにライセンス登録がなく、Europe PMC の個別レコードでも非 OA・PMC 未収載で、© AAP の著作物として現行 RESTRICTED が正しい（区分訂正なし）。識別子補完候補あり（識別子補完の節参照）。候補は米国政府の公式ページで、その内容は政府の全文として読める（GOV_US）"
+  }
+ ],
+ "rest_fix": {},
+ "open_fix": []
+}

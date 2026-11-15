@@ -1,0 +1,72 @@
+{
+ "A": [],
+ "B": [
+  {
+   "card": "ML-002",
+   "label": "CC BY 3.0（OPEN）、作り手の調査バッチ81 2026-11-15",
+   "text": "Villafuerte-Gutierrez P, Villalon L, Losa JE, Henriquez-Camacho C. Treatment of febrile neutropenia and prophylaxis in hematologic malignancies: a critical review and update. Adv Hematol. 2014;2014:986938.（PMID: 25525436、DOI: 10.1155/2014/986938、PMCID: PMC4265549、https://creativecommons.org/licenses/by/3.0/）。裏づける部分：部分：IDSA の高リスク・低リスクの定義（MASCC スコア21超は低リスクを含む）を再掲し、好中球減少性発熱の全患者への60分以内の経験的広域抗菌薬投与、最も多いグラム陽性菌と最も重篤なグラム陰性菌、高リスク例への抗緑膿菌βラクタム単剤を再掲する。数値の照合：数値の主張なし（MASCC の閾値21は一致）。留保：主出典は RESTRICTED で確定（非OA）"
+  },
+  {
+   "card": "ML-003",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15",
+   "text": "Liga M, Georgopoulou AN, Tsokanas D, Spyridonidis A, Labropoulou VT. ELN vs. IPSS-M in MDS/AML: Which Prognostic System Should Guide Clinical Decision-Making? Cancers. 2026;18(18):2993.（PMID: 42794960、DOI: 10.3390/cancers18182993、PMCID: PMC13604652、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：ELN 分類が2017年から2022年にかけて細胞遺伝学中心から分子情報を組み込んだ体系へ改訂されたこと、ELN 2022 の favorable・intermediate・adverse の3層、ELN が効果判定と MRD 評価・移植計画の指針となることを再掲する。数値の照合：数値の主張なし。留保：候補は MDS/AML の予後システム比較が主題のため、効果判定基準の改訂そのものは間接的な裏づけにとどまる。主出典は刊行版が CC BY-NC-ND で RESTRICTED のままで正しい（マスターの license_note と一致）"
+  },
+  {
+   "card": "ML-004",
+   "label": "GOV_US（OPEN、米国国立医学図書館の運営する試験登録）、作り手の調査バッチ81 2026-11-15",
+   "text": "ClinicalTrials.gov 登録レコード NCT02993523（VIALE-A試験、結果掲載あり）（https://clinicaltrials.gov/study/NCT02993523）。裏づける部分：部分：未治療で強力化学療法に不適な AML に対するアザシチジン＋ベネトクラクス併用とアザシチジン単独の比較で、全生存期間中央値を再掲する。数値の照合：OS 中央値 14.7 vs 9.6 か月はカードと完全一致。登録側の死亡 HR は 0.58 で論文・カードの 0.66 と異なり、完全寛解率も登録 38.8% vs 17.9% に対しカード 36.7% vs 17.9% とわずかに異なる（登録は更新解析）。留保：裏づけは OS 中央値にとどめる。主出典は RESTRICTED で確定（非OA）"
+  },
+  {
+   "card": "ML-005",
+   "label": "GOV_US（OPEN、米国国立医学図書館の運営する試験登録）、作り手の調査バッチ81 2026-11-15",
+   "text": "ClinicalTrials.gov 登録レコード NCT00651261（RATIFY試験、結果掲載あり）（https://clinicaltrials.gov/study/NCT00651261）。裏づける部分：全面：FLT3 変異陽性 AML へのミドスタウリン＋化学療法の上乗せで、全生存期間と無イベント生存期間の双方のハザード比を再掲する。数値の照合：OS の HR 0.78（95%CI 0.63–0.96）と EFS の HR 0.78（95%CI 0.66–0.93）はカードと完全一致。留保：主出典は RESTRICTED で確定（PMC収載は著者稿でライセンス表示なし）"
+  },
+  {
+   "card": "ML-006",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15",
+   "text": "Langdon K, Cosentino S, Wawryk O. Superiority of anthracycline-free treatment in standard-risk acute promyelocytic leukemia: A systematic review and comparative epidemiological analysis. Cancer Rep (Hoboken). 2024;7(3):e2035.（PMID: 38507294、DOI: 10.1002/cnr2.2035、PMCID: PMC10953833、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：低・中間リスク APL に対する ATRA＋三酸化ヒ素と ATRA＋化学療法の比較（主出典 Lo-Coco 2013）について、完全寛解率と2年無イベント生存・全生存を表で再掲し、ATRA＋三酸化ヒ素で好中球減少・血小板減少が少ない方向性を再掲する。数値の照合：完全寛解率 100% vs 95% は一致。2年 EFS は候補の表が「97% vs 85%」とし、カード・主出典の 86% と1ポイント異なる（候補側の相違。カードは主出典に従う）。留保：APL0406 の登録レコード（NCT00482833）は結果が掲載されておらず、登録経路の裏づけは使えなかった。主出典は RESTRICTED で確定（非OA）"
+  },
+  {
+   "card": "ML-008",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15",
+   "text": "Hochhaus A, Talpaz M, Saglio G, Cortes JE, Hughes T, Apperley J, Hantschel O, Rea D, Schuld P, Kantarjian H. From fatal disease to functional cure: 25 years of tyrosine kinase inhibition in chronic myeloid leukemia. Leukemia. 2026;40(6).（PMID: 42174092、DOI: 10.1038/s41375-026-02984-5、PMCID: PMC13233626、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：IRIS 試験が初回治療イマチニブを CML の標準治療として確立したことと、その長期有効性（18か月時点の完全細胞遺伝学的奏効 76.2%、10年全生存 83.3%）を再掲する。数値の照合：カードの60か月時点の3値（累積最良完全細胞遺伝学的奏効 87%・全生存 89%・移行期・芽球転換への進行 7%）は候補に再掲がない。候補の値は別時点のもので不一致ではない。留保：5年時点の値をそのまま再掲する自由な全文は複数誌の総説を確認しても見つからなかった。ML-009と同一候補。主出典は RESTRICTED で確定（非OA）"
+  },
+  {
+   "card": "ML-009",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15",
+   "text": "Hochhaus A, Talpaz M, Saglio G, Cortes JE, Hughes T, Apperley J, Hantschel O, Rea D, Schuld P, Kantarjian H. From fatal disease to functional cure: 25 years of tyrosine kinase inhibition in chronic myeloid leukemia. Leukemia. 2026;40(6).（PMID: 42174092、DOI: 10.1038/s41375-026-02984-5、PMCID: PMC13233626、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：全面：STIM 試験（完全分子寛解を2年以上維持した100例でイマチニブを中止）を表と本文で再掲し、12か月時点の無治療寛解維持率、再発の大半が6か月以内であること、再発例は全例イマチニブ再開に反応したことを再掲する。数値の照合：12か月維持率 41% はカード（約6割が再発＝維持率41%）と一致。留保：ML-008と同一候補。主出典は RESTRICTED で確定（非OA）"
+  },
+  {
+   "card": "ML-010",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15",
+   "text": "Duminuco A, Nardo A, Giuffrida G, Leotta S, Markovic U, Giallongo C, Tibullo D, Romano A, Di Raimondo F, Palumbo GA. Myelofibrosis and Survival Prognostic Models: A Journey between Past and Future. J Clin Med. 2023;12(6):2188.（PMID: 36983189、DOI: 10.3390/jcm12062188、PMCID: PMC10053868、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：全面：DIPSS の5因子と配点（年齢65歳超1点・ヘモグロビン10 g/dL未満2点・白血球25×10⁹/L超1点・末梢血芽球1%以上1点・全身症状1点）、4リスク群（低0点・中間-1 1–2点・中間-2 3–4点・高5点以上）、原発性骨髄線維症の経過中のいつの時点でも適用できることをいずれも再掲する。数値の照合：5因子・配点・4群の境界はカードと完全一致。留保：主出典は RESTRICTED で確定（非OA）"
+  },
+  {
+   "card": "ML-011",
+   "label": "GOV_US（OPEN、米国国立医学図書館の運営する試験登録）、作り手の調査バッチ81 2026-11-15",
+   "text": "ClinicalTrials.gov 登録レコード NCT00952289（COMFORT-I試験、結果掲載あり）（https://clinicaltrials.gov/study/NCT00952289）。裏づける部分：部分：中間-2・高リスク骨髄線維症に対するルキソリチニブとプラセボの比較で、24週時点の脾臓容積35%以上の縮小と総症状スコア50%以上の改善の達成人数を再掲する。数値の照合：脾臓縮小 65例 vs 1例・症状改善 68例 vs 8例はカードの割合（41.9% vs 0.7%、45.9% vs 5.3%）と人数として整合する。死亡のハザード比 0.50 は登録レコードに解析値の掲載がなく裏づけられない。留保：登録レコードには死亡イベント数（10例 vs 14例、延長期間 13例 vs 24例）の掲載のみ。主出典は RESTRICTED で確定（PMC収載は著者稿でライセンス表示なし）"
+  },
+  {
+   "card": "ML-012",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15",
+   "text": "Ma X, Zhou Z, Gu S, Guo Y, Zhou T, Shao R, Yan J, Chen W, Shi X. Advances in the Diagnosis and Treatment of Myeloproliferative Neoplasms (MPNs). Cancers. 2025;17(19):3142.（PMID: 41097669、DOI: 10.3390/cancers17193142、PMCID: PMC12523517、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：IPSET-thrombosis の3層（低 0–1点・中間 2点・高 3点以上）と各層の年間血栓症発生率、静脈血栓症のリスク因子としての年齢60歳超・血栓症の既往・JAK2 V617F を再掲する。数値の照合：発生率 低 1.03%・中間 2.35%・高 3.56%/年 は主出典と一致。ただしカードは「高リスク 2.35%/年」としており、主出典では 2.35% は中間リスク群の値で高リスク群は 3.56%/年である（下記の申し送り参照）。配点の内訳（血栓歴2点・JAK2 V617F 2点・年齢1点・心血管リスク因子1点）は候補に再掲がない。留保：ML-014と同一候補。主出典は RESTRICTED で確定（非OA）"
+  },
+  {
+   "card": "ML-014",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15",
+   "text": "Ma X, Zhou Z, Gu S, Guo Y, Zhou T, Shao R, Yan J, Chen W, Shi X. Advances in the Diagnosis and Treatment of Myeloproliferative Neoplasms (MPNs). Cancers. 2025;17(19):3142.（PMID: 41097669、DOI: 10.3390/cancers17193142、PMCID: PMC12523517、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：JAK2 V617F が真性多血症の大多数と本態性血小板血症・原発性骨髄線維症の約半数に認められるドライバー変異であることを再掲する。数値の照合：候補の値は 真性多血症 95%・本態性血小板血症と原発性骨髄線維症 50–60% で、カードの主出典（Baxter 2005）の値（97%・57%・50%）と完全には一致しないが概数範囲として整合する。留保：主出典の正確な値をそのまま再掲する自由な全文は見つからなかった。ML-012と同一候補。主出典は RESTRICTED で確定（非OA）"
+  },
+  {
+   "card": "ML-015",
+   "label": "GOV_US（OPEN、米国国立医学図書館の運営する試験登録）、作り手の調査バッチ81 2026-11-15",
+   "text": "ClinicalTrials.gov 登録レコード NCT01243944（RESPONSE試験、結果掲載あり）（https://clinicaltrials.gov/study/NCT01243944）。裏づける部分：部分：ハイドロキシウレア抵抗性・不耐の脾腫を伴う真性多血症に対するルキソリチニブと標準治療の比較で、32週時点の主要評価項目（ヘマトクリット制御と脾臓容積35%以上の縮小の複合）の達成率と、48週時点の持続的ヘマトクリット制御を再掲する。数値の照合：主要評価項目は登録 22.7% vs 0.9% で、カードの 21% vs 1%（論文値の丸め）と概ね一致するが厳密には異なる。持続的ヘマトクリット制御は登録 54.5% vs 1.8%。留保：複合項目の内訳（ヘマトクリット制御 60% vs 20%・脾臓縮小 38% vs 1%）は登録レコード単独では裏づけられない。主出典は RESTRICTED で確定（PMC収載は著者稿でライセンス表示なし）"
+  },
+  {
+   "card": "ML-016",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15",
+   "text": "Nguyen L, Saha A, Kuykendall A, Zhang L. Clinical and Therapeutic Intervention of Hypereosinophilia in the Era of Molecular Diagnosis. Cancers. 2024;16(7):1383.（PMID: 38611061、DOI: 10.3390/cancers16071383、PMCID: PMC11011008、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：FIP1L1::PDGFRA 融合（4q12 の潜性欠失）が好酸球増多を伴う骨髄系腫瘍で最も多い分子異常であり、陽性例ではイマチニブが第一選択で速やかな反応と良好な予後が得られることを再掲する。数値の照合：主出典の具体数（特発性好酸球増多症候群16例中9例に融合を検出、イマチニブ治療11例中9例が3か月を超えて反応）は候補に再掲がない。留保：主出典は RESTRICTED で確定（非OA）"
+  }
+ ],
+ "rest_fix": {},
+ "open_fix": []
+}

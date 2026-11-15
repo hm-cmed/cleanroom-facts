@@ -1,0 +1,94 @@
+{
+ "A": [],
+ "B": [
+  {
+   "card": "PN-003",
+   "label": "OPEN、作り手の調査バッチ73 2026-11-15",
+   "text": "Lehmann HC, Wunderlich G, Fink GR, Sommer C. Diagnosis of peripheral neuropathy. Neurol Res Pract. 2020;2:20（PMID: 33324924、DOI: 10.1186/s42466-020-00064-2、PMCID: PMC7650053、https://pmc.ncbi.nlm.nih.gov/articles/PMC7650053/）。裏づける部分：候補（CC BY 総説）が末梢神経障害の精査として、包括的代謝パネル（血糖・HbA1c を含む）、甲状腺機能、ビタミンB12、血清蛋白免疫固定電気泳動を挙げ、「遠位対称性多発ニューロパチーでは、血糖（経口ブドウ糖負荷試験を含む）と血清蛋白免疫固定のスクリーニングが最も高い診断率を示した（約10人に1人が陽性）」と述べる。ビタミンB12 については、代謝産物（メチルマロン酸・ホモシステイン）が血清 B12 値だけでは捉えられない患者のさらに5〜10%で上昇するため、その測定が推奨されるとする。カードの3項目（血糖、ビタミンB12（代謝産物の測定を含む）、血清蛋白免疫固定）の骨格と一致する。数値の照合：数値なし（検査の検出率の順位のカード）。候補は血糖と免疫固定を「最も高い診断率」と明示し、ビタミンB12 は推奨検査として代謝産物の追加検出（5〜10%）を述べる。留保：ビタミンB12 が「異常検出率の高い」群に含まれるかは候補の書き分けでは明確でなく、この点は部分裏づけにとどまる。主出典 SRC-1742 の区分は UNKNOWN→RESTRICTED の訂正を提案する（区分訂正の節参照）"
+  },
+  {
+   "card": "PN-006",
+   "label": "OPEN、作り手の調査バッチ73 2026-11-15",
+   "text": "Conti F, Moratti M, Leonardi L, et al. Anti-Inflammatory and Immunomodulatory Effect of High-Dose Immunoglobulins in Children: From Approved Indications to Off-Label Use. Cells. 2023;12(19):2417（PMID: 37830631、DOI: 10.3390/cells12192417、PMCID: PMC10572613、https://pmc.ncbi.nlm.nih.gov/articles/PMC10572613/）。裏づける部分：候補（CC BY 総説）が、ギラン・バレー症候群に関する Cochrane メタ解析で「高用量免疫グロブリンは血漿交換と同等である（評価項目は介助なし歩行までの期間、人工呼吸器離脱など）」と結論されたことを再掲する。カードの主張のうち、血漿交換と免疫グロブリン静注療法の有効性は同等である点と一致する。数値の照合：数値なし（候補は同等性の結論のみ）。カードの評価対象379例、発症2週間以内、歩行に介助を要する重症例という試験の枠組みは候補に再掲なし。留保：併用療法（血漿交換に免疫グロブリン静注療法を続ける）が単独療法を上回る有意な利点を示さなかった点は、自由全文への再掲が見つからなかった。主出典 SRC-1744 の区分は現行 RESTRICTED が正しい（Elsevier。Crossref の版ライセンスは TDM のみ）"
+  },
+  {
+   "card": "PN-007",
+   "label": "OPEN、作り手の調査バッチ73 2026-11-15",
+   "text": "Wang X, Song Y, He W, Tao Y, Long Y. Efgartigimod for Guillain-Barré syndrome: rationale, clinical evidence, and future perspectives. Front Immunol. 2026;17:1952646（PMID: 42813052、DOI: 10.3389/fimmu.2026.1952646、PMCID: PMC13621783、https://pmc.ncbi.nlm.nih.gov/articles/PMC13621783/）。裏づける部分：候補（CC BY 総説）が「複数の臨床試験で、コルチコステロイド単独療法はギラン・バレー症候群の転帰を改善しないことが示されている」「コルチコステロイドなどの従来型免疫抑制薬は急性期には通常推奨されない」と再掲する。カードの主張（ステロイド単独投与は回復を有意に早めず、長期転帰も改善しない）の骨格と一致する。数値の照合：カードの系統的レビューの規模（無作為化試験6件・587例）は候補に再掲なし。留保：経口ステロイドについては回復を遅らせる可能性が示されている点は、自由全文に再掲が見つからなかった。主出典 SRC-1745 の区分は UNKNOWN→RESTRICTED の訂正を提案する（区分訂正の節参照）。識別子補完候補あり（補完候補の節参照）"
+  },
+  {
+   "card": "PN-008",
+   "label": "OPEN、作り手の調査バッチ73 2026-11-15",
+   "text": "Caballero-Ávila M, Martin-Aguilar L, Collet-Vidiella R, et al. A pathophysiological and mechanistic review of chronic inflammatory demyelinating polyradiculoneuropathy therapy. Front Immunol. 2025;16:1575464（PMID: 40297573、DOI: 10.3389/fimmu.2025.1575464、PMCID: PMC12034639、https://pmc.ncbi.nlm.nih.gov/articles/PMC12034639/）。裏づける部分：候補（CC BY 総説）が、2021年改訂ガイドラインに基づき「CIDP が疑われる患者は『CIDP』と『possible CIDP』の2段階の診断確度に分類される」ことを再掲し、標準治療として免疫グロブリン静注・皮下注、コルチコステロイド、血漿交換が導入療法（皮下注を除く）や維持療法に用いられることも述べる。カードの主張のうち、診断確度が2段階に整理された点と一致する。数値の照合：数値なし（診断確度と治療選択の枠組みのカード）。留保：初回治療として免疫グロブリン静注療法またはコルチコステロイドが「強く推奨」され、両者が無効な場合には血漿交換が「強く推奨」されるという、推奨の強さと治療の順序は候補では再掲がない（標準治療の列挙にとどまる）。主出典 SRC-1746 の区分は UNKNOWN→RESTRICTED の訂正を提案する（区分訂正の節参照）"
+  },
+  {
+   "card": "PN-010",
+   "label": "OPEN、作り手の調査バッチ73 2026-11-15",
+   "text": "Vulpoi GA, Bistriceanu CE, Bîrsanu L, Palade CM, Cuciureanu DI. Computer Use and Compressive Neuropathies of the Upper Limbs: A Hidden Risk? J Clin Med. 2025;14(15):5237（PMID: 40806860、DOI: 10.3390/jcm14155237、PMCID: PMC12347275、https://pmc.ncbi.nlm.nih.gov/articles/PMC12347275/）。裏づける部分：候補（CC BY 総説）が上肢の圧迫性（絞扼性）ニューロパチーを扱い、手根管症候群（手首での正中神経障害）と肘部管症候群（尺骨神経の最も頻度の高い圧迫部位は肘部）を代表例として論じ、持続的な圧迫が軸索障害に至る病態と、手根管症候群と頸椎神経根症の関連（二重絞扼）の検討を含む。カードの主張のうち、絞扼性ニューロパチーが単ニューロパチーの代表例である点と、神経圧迫の病態を踏まえる点の骨格と一致する。数値の照合：数値なし（概念のカード）。留保：「単一の末梢神経の障害」という定義そのものと橈骨神経障害の例は候補に直接の再掲がなく、頸椎神経根症についても候補は鑑別ではなく二重絞扼の関連として論じる。主出典 SRC-1748 の区分は現行 RESTRICTED が正しい（Elsevier。Crossref の版ライセンスは TDM のみ）"
+  },
+  {
+   "card": "PN-011",
+   "label": "OPEN、作り手の調査バッチ73 2026-11-15",
+   "text": "Rakhmonova S, Karam C. Vasculitic neuropathy: clinical features, diagnostic approach, and neurological outcomes in a single-center cohort. Front Neurol. 2026;17:1886100（PMID: 42682491、DOI: 10.3389/fneur.2026.1886100、PMCID: PMC13529571、https://pmc.ncbi.nlm.nih.gov/articles/PMC13529571/）。裏づける部分：候補（CC BY の原著研究）が血管炎性ニューロパチーの典型像を「急性・亜急性の多巣性で有痛性のニューロパチー（多発単ニューロパチー）」とし、電気診断で軸索型の非対称性・多巣性パターンを確認すること、2010年 Peripheral Nerve Society ガイドラインに沿って、確定診断には生検で血管壁の炎症に血管障害を伴う所見の確認を要することを再掲する。カードの主張の骨格と一致する。数値の照合：数値なし（臨床像と診断要件のカード）。留保：下肢優位という点は候補に明示的な再掲なし。主出典 SRC-1749 の区分は UNKNOWN→RESTRICTED の訂正を提案する（区分訂正の節参照）"
+  },
+  {
+   "card": "PN-012",
+   "label": "OPEN、作り手の調査バッチ73 2026-11-15",
+   "text": "Bamaga AK, Alyazidi AS, Alali FK. A Brief Review of Inherited Neuropathies: A Perspective from Saudi Arabia. Brain Sci. 2025;15(4):403（PMID: 40309874、DOI: 10.3390/brainsci15040403、PMCID: PMC12025664、https://pmc.ncbi.nlm.nih.gov/articles/PMC12025664/）。裏づける部分：候補（CC BY 総説）が「Charcot-Marie-Tooth 病は最も有病率の高い遺伝性ニューロパチーであり、約2,500人に1人」とし、「現在、Charcot-Marie-Tooth 病に有効な薬物療法はない」と明記する。カードの主張のうち、最も頻度の高い遺伝性疾患である点と、現時点で有効な薬物療法がない点と一致する。数値の照合：有病率 約2,500人に1人（候補）。カードは有病率の数値を扱っていない。留保：診断が臨床像と遺伝形式の評価、神経伝導検査、DNA 検査の組み合わせで行われる点と、治療はリハビリテーションと骨格変形に対する外科治療が中心である点は、候補に具体的な再掲なし（遺伝子検査の進歩への言及はある）。主出典 SRC-1750 の区分は現行 RESTRICTED が正しい（Elsevier。Crossref の版ライセンスは TDM のみ）"
+  },
+  {
+   "card": "PN-015",
+   "label": "GOV_US、作り手の調査バッチ73 2026-11-15",
+   "text": "ClinicalTrials.gov 試験登録レコード NCT01960348（APOLLO、結果投稿済み）（https://clinicaltrials.gov/study/NCT01960348）。裏づける部分：登録レコード（結果投稿済み）が APOLLO 試験の登録症例数を225例と記録し、主要評価項目（18か月時点の mNIS+7 の変化量、最小二乗平均）をパチシラン群 −6.03（標準誤差 1.739）、プラセボ群 +27.96（標準誤差 2.602）と記録する。カードの主張（第III相試験 APOLLO、225例、18か月時点の mNIS+7 変化量がパチシラン群 −6.0 点、プラセボ群 +28.0 点、群間差 −34.0 点）と一致する。数値の照合：群間差は登録値から −6.03 − 27.96 ＝ −33.99 ≒ −34.0 点で、カードの −34.0 点と一致する。登録症例数225例もカードと一致。留保：主出典 SRC-1752 の区分は現行 RESTRICTED が正しい（NEJM。Crossref の版ライセンスは NEJM の利用条件へのリンクのみ、Europe PMC で非 OA）"
+  },
+  {
+   "card": "PN-016",
+   "label": "OPEN、作り手の調査バッチ73 2026-11-15",
+   "text": "Peker I, Alaamel A, Cengiz N. Ultrasound-Based Severity Stratification in Carpal Tunnel Syndrome: Median Nerve Cross-Sectional Area for Distinguishing Severe from Moderate Disease. Diagnostics. 2026;16(15):2458（PMID: 42587694、DOI: 10.3390/diagnostics16152458、PMCID: PMC13465334、https://pmc.ncbi.nlm.nih.gov/articles/PMC13465334/）。裏づける部分：候補（CC BY の原著研究）が「手根管症候群は最も頻度の高い絞扼性ニューロパチーであり、手首での正中神経の圧迫によって生じる」と明記し、神経伝導検査が電気診断による重症度評価の中心であること、短母指外転筋の針筋電図が軸索障害の検出に補完的に用いられることを述べる。カードの主張（世界で最も頻度の高い絞扼性ニューロパチーであり、手根管内での正中神経の圧迫によって生じ、電気診断検査は軸索障害の程度を含む追加の評価に用いられる）と一致する。数値の照合：数値なし（概念と検査の位置づけのカード）。留保：主出典 SRC-1753 の区分は現行 RESTRICTED が正しい（Elsevier。Crossref の版ライセンスは TDM のみ）"
+  },
+  {
+   "card": "PN-017",
+   "label": "OPEN、作り手の調査バッチ73 2026-11-15",
+   "text": "Alanazy MH, Albulaihe H, Alhumayyd Z, et al. A timed Phalen's test predicts abnormal electrophysiology in carpal tunnel syndrome. Brain Behav. 2021;11(4):e02056（PMID: 33511724、DOI: 10.1002/brb3.2056、PMCID: PMC8035481、https://pmc.ncbi.nlm.nih.gov/articles/PMC8035481/）。裏づける部分：候補（CC BY の原著研究）が、電気生理学的異常と関連する診察所見として、正中神経領域の痛覚鈍麻、弱い母指外転（母指対立筋力低下）、Katz 手図形の典型・準典型パターンを挙げ、その出典として主出典（D’Arcy & McGee 2000）を明示する。カードの主張のうち、これらの所見が電気診断所見の有無と最もよく対応するという位置づけと一致する。数値の照合：尤度比そのもの（正中神経領域の痛覚鈍麻 3.1、Katz 手図形の典型・準典型パターン 2.4。カードの uncertainty にある母指対立筋力低下 1.8 も）は、自由全文への再掲が見つからなかった。留保：Phalen 徴候・Tinel 徴候や夜間のしびれは単独での診断的価値が限られるという点も、候補に直接の再掲なし。主出典 SRC-1756 の区分は現行 RESTRICTED が正しい（JAMA。Crossref にライセンス登録がなく、Europe PMC で非 OA）"
+  },
+  {
+   "card": "PN-018",
+   "label": "OPEN、作り手の調査バッチ73 2026-11-15",
+   "text": "Korenblit M, Haas EJ, Esch EM, et al. A Mechanism-Based Classification and Review of Endoscopic and Ultrasound-Guided Carpal Tunnel Release. J Clin Med. 2026;15(16):6130（PMID: 42652534、DOI: 10.3390/jcm15166130、PMCID: PMC13513233、https://pmc.ncbi.nlm.nih.gov/articles/PMC13513233/）。裏づける部分：候補（CC BY 総説）が AAOS ガイドラインの改訂の経緯をたどり、「2024年版では、複数の質の高い・中程度の研究に基づき、小切開法と内視鏡法の間に患者報告アウトカムの差はないことが強い推奨に格上げされた」ことを、ガイドラインへの帰属を明示して再掲する。保存療法としてのコルチコステロイド注射については「一時的な症状緩和をもたらす」と述べる。カードの主張のうち、手根管開放術の術式間に患者報告アウトカムの差はない点と一致する。数値の照合：数値なし（推奨の内容のカード）。留保：コルチコステロイド注射は長期的な改善をもたらさないことが強いエビデンスで示されたというガイドラインの文言そのものは候補に再掲がなく、候補の表現は「一時的な症状緩和」にとどまる。主出典 SRC-1754 の区分は UNKNOWN→RESTRICTED の訂正を提案する（区分訂正の節参照）。識別子補完候補あり（補完候補の節参照）"
+  },
+  {
+   "card": "PN-019",
+   "label": "OPEN、作り手の調査バッチ73 2026-11-15",
+   "text": "Nyman E, Dahlin LB. The Unpredictable Ulnar Nerve—Ulnar Nerve Entrapment from Anatomical, Pathophysiological, and Biopsychosocial Aspects. Diagnostics. 2024;14(5):489（PMID: 38472962、DOI: 10.3390/diagnostics14050489、PMCID: PMC10931116、https://pmc.ncbi.nlm.nih.gov/articles/PMC10931116/）。裏づける部分：候補（CC BY 総説）が肘部管での尺骨神経絞扼を扱い、尺骨神経領域の感覚障害（2点識別覚の低下など）、手内筋の萎縮と環指・小指の鷲手変形、Froment 徴候（つまみ動作で母指指節間関節が代償性に屈曲する所見として図示）、電気生理学的検査による重症度・予後の評価（高度の軸索変性は予後不良の徴候）、手術では単純除圧が基本で最もよい方法とされることを再掲する。カードの主張と一致する。数値の照合：数値なし（臨床像と治療方針のカード）。留保：主出典 SRC-1755 の区分は UNKNOWN→RESTRICTED の訂正を提案する（区分訂正の節参照）。識別子補完候補あり（補完候補の節参照）"
+  },
+  {
+   "card": "PN-022",
+   "label": "OPEN、作り手の調査バッチ73 2026-11-15",
+   "text": "João RB, Tagore Chan JO, João AB, et al. Mirogabalin for Treatment of Neuropathic Pain and Associated Sleep Interference: An Updated Meta-Analysis. Eur J Pain. 2025;29(10):e70112（PMID: 40970451、DOI: 10.1002/ejp.70112、PMCID: PMC12447546、https://pmc.ncbi.nlm.nih.gov/articles/PMC12447546/）。裏づける部分：候補（CC BY のメタ解析）が「50%の疼痛緩和に対する治療必要数は、メタ解析の統合値でガバペンチン約7.2、プレガバリン約7.7（引用の一つが主出典 Finnerup ら 2015）」と再掲する。カルシウムチャネルα2δリガンドが第一選択薬の一つである点は、別の CC BY 総説（Tang F, Zhao F. Postherpetic Neuralgia: Mechanisms, Risk Factors, and Stratified Management—A Narrative Review. CNS Neurosci Ther. 2026;32(7):e71002、PMC13317692）が、各国ガイドラインの第一選択薬の要約の中でガバペンチノイド（ガバペンチン、プレガバリン）を第一選択に位置づける形で再掲している。2候補をあわせてカードの主張と一致する。数値の照合：治療必要数はプレガバリン 7.7、ガバペンチン 7.2 で候補と一致する（候補は「約（approximately）」付きで、主出典を含む複数のメタ解析の統合値として提示）。留保：主出典 SRC-1759 の区分は現行 RESTRICTED が正しい（Elsevier。PMC 収載分 PMC4493167 は著者稿で、ライセンス表示はテキストマイニング・フェアユースの注記のみ）。識別子補完候補あり（補完候補の節参照）"
+  },
+  {
+   "card": "PN-023",
+   "label": "OPEN、作り手の調査バッチ73 2026-11-15",
+   "text": "Yu J, Li H, Ji Y, Liao H. Varicella-Zoster Virus Infection and Varicella-Zoster Virus Vaccine-Related Ocular Complications. Vaccines. 2025;13(8):782（PMID: 40872869、DOI: 10.3390/vaccines13080782、PMCID: PMC12390273、https://pmc.ncbi.nlm.nih.gov/articles/PMC12390273/）。裏づける部分：候補（CC BY 総説）が弱毒生帯状疱疹ワクチン（Zostavax）について、主出典（Oxman ら 2005）を引用して「帯状疱疹の疾病負担を61.1%減らし、帯状疱疹後神経痛の発症を66.5%減らし、帯状疱疹の発症を51.3%減らした」と再掲する。カードの主張の効果の数値と一致する。数値の照合：帯状疱疹の発症 51.3%減、帯状疱疹後神経痛の発症 66.5%減は候補と一致する。試験の規模（38,546例）と対象（60歳以上）は候補に再掲なし。留保：試験の登録レコード（ClinicalTrials.gov NCT00007501、Shingles Prevention Study）には結果が投稿されておらず、登録レコードによる裏づけは使えなかった。主出典 SRC-1758 の区分は現行 RESTRICTED が正しい（NEJM。Crossref にライセンス登録がなく、Europe PMC で非 OA）"
+  },
+  {
+   "card": "PN-024",
+   "label": "OPEN、作り手の調査バッチ73 2026-11-15",
+   "text": "Henriques G, Pistola M, Resende C, Yaroshyk T, Mezias I. Tolosa-Hunt Syndrome: A Diagnostic Challenge and the Complexities of Long-Term Corticosteroid Management. Cureus. 2026;18(9):e116651（PMID: 42910046、DOI: 10.7759/cureus.116651、PMCID: PMC13686231、https://pmc.ncbi.nlm.nih.gov/articles/PMC13686231/）。裏づける部分：候補（CC BY の症例報告）が ICHD-3 の診断基準を再掲する：海綿静脈洞・上眼窩裂・眼窩の肉芽腫性炎症による一側性の眼窩・眼窩周囲痛と、同側の第III・IV・VI脳神経のいずれか1つ以上の麻痺を来し、診断には MRI または生検による肉芽腫性炎症の証明を要すること。あわせて「Tolosa-Hunt 症候群は本質的に除外診断である」ことも明記する。カードの定義と一致する。数値の照合：数値なし（定義のカード）。留保：カード側の source_class は UNKNOWN だが、マスター（SRC-1721）の区分は RESTRICTED で、targets.json の区分とも一致する。区分自体は RESTRICTED が正しい（SAGE。Crossref の版ライセンスは TDM のみ）。カード・マスター間の不整合として申し送る（申し送りの節参照）"
+  },
+  {
+   "card": "PN-025",
+   "label": "OPEN、作り手の調査バッチ73 2026-11-15",
+   "text": "Snel BJ, Cohen SP, Erdine S, et al. 13. Trigeminal Neuralgia. Pain Pract. 2025;25(5):e70051（PMID: 40384548、DOI: 10.1111/papr.70051、PMCID: PMC12086744、https://pmc.ncbi.nlm.nih.gov/articles/PMC12086744/）。裏づける部分：候補（CC BY の総説）が ICHD-3 の三叉神経痛の診断基準表を再掲する：三叉神経の支配領域に限局する片側性の発作痛で、持続は1秒未満から2分以内、電撃様・刺すような・鋭い性状で、無害な刺激によって誘発されること。病型については古典的（頭蓋内の神経血管圧迫による）・二次性・特発性の3型を挙げ、二次性の鑑別（多発性硬化症や小脳橋角部腫瘍の監視）に MRI が適切な画像検査であることも述べる。カードの主張のうち、発作の臨床像は ICHD-3 の記述として逐語的に一致する。数値の照合：発作の持続（1秒未満から2分以内）は候補と一致する。留保：分類の枠組みは、カードが主出典（欧州神経学会ガイドライン）の「神経血管接触による一次性（古典的または特発性）と、それ以外の病変による二次性」の二分法であるのに対し、候補は ICHD-3 の3型分類で再掲している。MRI の位置づけも候補では介入前の推奨が中心である。主出典 SRC-1365 の区分は現行 RESTRICTED が正しい（Wiley。Crossref の版ライセンスは利用条件へのリンクのみ）"
+  }
+ ],
+ "rest_fix": {
+  "SRC-1742": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ73）",
+  "SRC-1745": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ73）",
+  "SRC-1746": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ73）",
+  "SRC-1749": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ73）",
+  "SRC-1754": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ73）",
+  "SRC-1755": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ73）"
+ },
+ "open_fix": []
+}

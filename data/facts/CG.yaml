@@ -356,7 +356,7 @@
     url: https://doi.org/10.1210/jc.2018-01865
     source_license: © 2018 Endocrine Society（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ87 2026-11-15）：Cera G, Corsello A, Novizio R, Di Donna V, Locantore P, Paragliola RM. Severe Hyperandrogenism in 46,XX Congenital Adrenal Hyperplasia: Molecular Physiopathology, Late Diagnoses, and Personalized Management. Int J Mol Sci. 2024;25(21):11779（PMID: 39519330、DOI: 10.3390/ijms252111779、PMCID: PMC11545884、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：先天性副腎皮質過形成の最も多い型が21-水酸化酵素欠損症であること、新生児スクリーニングが17-ヒドロキシプロゲステロン（17-OHP）の測定に基づくこと、塩喪失型ではミネラルコルチコイド作用の欠如により出生前後に副腎クリーゼを起こすリスクがあること、46,XX では外性器の男性化（Prader 分類の病期を含む）が性分化の評価と出生時の性別判定に関わることを再掲する。数値の照合：数値の主張なし。副腎クリーゼの具体像（脱水・電解質異常・循環不全）の三徴そのものは候補に列挙がなく、裏づけは「ミネラルコルチコイド欠乏による副腎クリーゼのリスク」の範囲にとどまる。Endocrine Society の2018年ガイドラインがスクリーニングによる早期発見を前提に診療を組み立てているという位置づけ自体も候補に再掲なし。留保：主出典 SRC-1030 は IE 章と共有し、区分訂正（UNKNOWN→RESTRICTED）と PMCID 補完候補（PMC6456929）はバッチ77で提案済みのため本バッチでは再掲とする（二重計上しないこと）。バッチ77で IE-005・IE-006 に用いた候補（Fanis 2026）は新生児スクリーニングと塩喪失型の存在は扱うが、副腎クリーゼと46,XX の外性器男性化は扱わないため、本カードでは Cera 2024 を候補とした'
   uncertainty: 本カードは新生児期の側面（スクリーニングで見つかる症例の初期対応と性分化の評価）に限る。長期管理は内分泌側（第20回）が正。薬剤の国内承認：副腎クリーゼに用いるヒドロコルチゾンは国内で承認されている副腎皮質ステロイド製剤で保険適用があるが、個別の効能・効果の文言は添付文書で未照合。ガイドラインの改訂版は確認できず、2018年版を現行として使った
   curriculum:
@@ -375,3 +375,6 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ87 2026-11-15）。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1030 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による

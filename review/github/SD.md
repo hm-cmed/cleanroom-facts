@@ -602,7 +602,7 @@
 
 - 条件：region: 国際
 - 不確実性：イトラコナゾールの国内の承認・保険適用は未確認である。用量と投与期間は出典の抄録に記載がなく含めていない。ネコを介する流行はブラジルでの報告が中心であり、日本の疫学とは限らない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】イトラコナゾールの効能・効果に深在性皮膚真菌症（スポロトリコーシス、クロモミコーシス）が含まれており、承認・保険適用あり（PMDA添付文書）。
-- 出典：Barros MBL, de Almeida Paes R, Schubach AO. Sporothrix schenckii and Sporotrichosis. Clin Microbiol Rev. 2011;24(4):633-654.　[DOI 10.1128/CMR.00007-11](https://doi.org/10.1128/CMR.00007-11)　[PMID 21976602](https://pubmed.ncbi.nlm.nih.gov/21976602/)（区分 UNKNOWN）
+- 出典：Barros MBL, de Almeida Paes R, Schubach AO. Sporothrix schenckii and Sporotrichosis. Clin Microbiol Rev. 2011;24(4):633-654.　[DOI 10.1128/CMR.00007-11](https://doi.org/10.1128/CMR.00007-11)　[PMID 21976602](https://pubmed.ncbi.nlm.nih.gov/21976602/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-L-③（スポロトリコーシス、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-041&card_id=SD-041&version=140712d15a)　（版 `140712d15a`）
 

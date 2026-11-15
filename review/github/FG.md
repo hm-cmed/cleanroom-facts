@@ -90,7 +90,7 @@
 
 - 条件：region: 日本／対象: 一般
 - 不確実性：数値は同学会の疫学調査で報告された症例の集計であり、人口あたりの罹患率ではない。出典のライセンスは Crossref に表示がなく、source_class は UNKNOWN とした。
-- 出典：Nakamura K, Fukuda T. 2021 Epidemiological Survey of Dermatomycoses in Japan. Med Mycol J. 2023;64(4):85-94.　[DOI 10.3314/mmj.23-00008](https://doi.org/10.3314/mmj.23-00008)　[PMID 38030276](https://pubmed.ncbi.nlm.nih.gov/38030276/)（区分 UNKNOWN）
+- 出典：Nakamura K, Fukuda T. 2021 Epidemiological Survey of Dermatomycoses in Japan. Med Mycol J. 2023;64(4):85-94.　[DOI 10.3314/mmj.23-00008](https://doi.org/10.3314/mmj.23-00008)　[PMID 38030276](https://pubmed.ncbi.nlm.nih.gov/38030276/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅻ-4-A-③（白癬、a）　コアカリ：PS-01-03-12 (id: JkxnuLs)；PS-03-03-01 (id: JkxnuUg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20FG-007&card_id=FG-007&version=535a9c15dc)　（版 `535a9c15dc`）
 
@@ -106,7 +106,7 @@
 
 - 条件：region: 国際／対象: 一般
 - 不確実性：本カードは分類上の位置づけを示した一次資料に基づく主張に限る。ニューモシスチス肺炎の臨床像・確定診断・予防投与の開始基準は RI-033〜035 の範囲とし、本カードでは扱わない。
-- 出典：Edman JC, Kovacs JA, Masur H, et al. Ribosomal RNA sequence shows Pneumocystis carinii to be a member of the fungi. Nature. 1988;334(6182):519-522.　[DOI 10.1038/334519a0](https://doi.org/10.1038/334519a0)　[PMID 2970013](https://pubmed.ncbi.nlm.nih.gov/2970013/)（区分 UNKNOWN）
+- 出典：Edman JC, Kovacs JA, Masur H, et al. Ribosomal RNA sequence shows Pneumocystis carinii to be a member of the fungi. Nature. 1988;334(6182):519-522.　[DOI 10.1038/334519a0](https://doi.org/10.1038/334519a0)　[PMID 2970013](https://pubmed.ncbi.nlm.nih.gov/2970013/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅻ-4-A-④（ニューモシスチス肺炎、a）　コアカリ：PS-01-03-12 (id: JkxnuLs)；PS-03-03-03 (id: JkxnuUo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20FG-008&card_id=FG-008&version=73877a7b7c)　（版 `73877a7b7c`）
 
@@ -158,7 +158,7 @@
 
 - 条件：region: 国際／対象: 一般
 - 不確実性：種数は2012年時点の総説に基づく（その後の総説では種数はさらに増えている）。癜風の臨床像と菌種ごとの位置づけは SD-040 の範囲とし、本カードでは扱わない。出典のライセンスは Crossref・Europe PMC の双方で CC 表示がなく、source_class は UNKNOWN とした。
-- 出典：Gaitanis G, Magiatis P, Hantschke M, Bassukas ID, Velegraki A. The Malassezia genus in skin and systemic diseases. Clin Microbiol Rev. 2012;25(1):106-141.　[DOI 10.1128/CMR.00021-11](https://doi.org/10.1128/CMR.00021-11)　[PMID 22232373](https://pubmed.ncbi.nlm.nih.gov/22232373/)（区分 UNKNOWN）
+- 出典：Gaitanis G, Magiatis P, Hantschke M, Bassukas ID, Velegraki A. The Malassezia genus in skin and systemic diseases. Clin Microbiol Rev. 2012;25(1):106-141.　[DOI 10.1128/CMR.00021-11](https://doi.org/10.1128/CMR.00021-11)　[PMID 22232373](https://pubmed.ncbi.nlm.nih.gov/22232373/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅻ-4-A-⑧（癜風、b）　コアカリ：PS-01-03-12 (id: JkxnuLs)；PS-03-03-01 (id: JkxnuUg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20FG-012&card_id=FG-012&version=9c79df9e29)　（版 `9c79df9e29`）
 
@@ -174,7 +174,7 @@
 
 - 条件：region: 国際／対象: 一般
 - 不確実性：臨床像は SD-041 の範囲とし、本カードでは扱わない。出典は既存の SRC-1190 を再利用し、書誌・ライセンス・source_class は出典マスターの登録どおりとした。
-- 出典：Barros MBL, de Almeida Paes R, Schubach AO. Sporothrix schenckii and Sporotrichosis. Clin Microbiol Rev. 2011;24(4):633-654.　[DOI 10.1128/CMR.00007-11](https://doi.org/10.1128/CMR.00007-11)　[PMID 21976602](https://pubmed.ncbi.nlm.nih.gov/21976602/)（区分 UNKNOWN）
+- 出典：Barros MBL, de Almeida Paes R, Schubach AO. Sporothrix schenckii and Sporotrichosis. Clin Microbiol Rev. 2011;24(4):633-654.　[DOI 10.1128/CMR.00007-11](https://doi.org/10.1128/CMR.00007-11)　[PMID 21976602](https://pubmed.ncbi.nlm.nih.gov/21976602/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅻ-4-A-⑫（スポロトリコーシス、c）　コアカリ：PS-01-03-02 (id: JkxnuLA)；PS-01-03-12 (id: JkxnuLs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20FG-013&card_id=FG-013&version=eb3045cde4)　（版 `eb3045cde4`）
 

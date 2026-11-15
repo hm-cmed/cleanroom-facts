@@ -14,7 +14,8 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
-T = "2026-11-11"
+import datetime
+T = datetime.date.today().isoformat()
 OPEN_FIX = {"SRC-018", "SRC-028", "SRC-029", "SRC-030", "SRC-032", "SRC-042", "SRC-048", "SRC-049", "SRC-051", "SRC-052", "SRC-141", "SRC-435"}
 REST_FIX = {"SRC-2481": "CC BY-NC 3.0", "SRC-424": "CC BY-NC", "SRC-426": "CC BY-NC", "SRC-039": "CC BY-NC-ND", "SRC-047": "CC BY-NC", "SRC-4212": "CC BY-NC", "SRC-4224": "CC BY-NC-ND"}
 
@@ -75,6 +76,8 @@ def main() -> None:
     # 2. A replacements
     for a in sel["A"]:
         c = cards[a["card"]]; pv = c["provenance"]
+        if (c.get("publication_info") or {}).get("status") == "retired":
+            print("skip retired", a["card"]); continue
         if a.get("src"):
             sid = a["src"]; s = SM[sid]
             title, doi, pmid, pmcid, url, cls, lic = s.get("title") or s.get("citation"), s.get("doi"), s.get("pmid"), s.get("pmcid"), f"https://doi.org/{s.get('doi')}" if s.get("doi") else None, s["source_class"], "CC BY 4.0"
@@ -92,6 +95,8 @@ def main() -> None:
     # 3. B corroborations
     for b in sel["B"]:
         c = cards[b["card"]]; pv = c["provenance"]
+        if (c.get("publication_info") or {}).get("status") == "retired":
+            print("skip retired", b["card"]); continue
         prev = pv.get("corroboration")
         pv["corroboration"] = (f"{prev}。" if prev else "") + f"自由に使える資料による裏づけ（{b['label']}）：{b['text']}"
         hist(c, f"corroboration に自由に使える資料による裏づけを追記した（{b['label']}）")

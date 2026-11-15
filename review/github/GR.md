@@ -22,7 +22,7 @@
 
 - 条件：region: 国際／対象: 成長障害のある小児・青年
 - 不確実性：薬剤の国内承認：成長ホルモン（ソマトロピン）の国内承認適応は、成長ホルモン分泌不全性低身長症、ターナー症候群・慢性腎不全における低身長、SGA性低身長症、プラダー・ウィリ症候群であり（PMDA 添付文書で確認した先行リサーチに基づく）、特発性低身長症（ISS）は国内の承認適応に含まれない。したがって本ガイドラインの ISS への成長ホルモン治療の議論は、国内の保険適用とは一致しない。長時間作用型の成長ホルモン製剤の国内承認状況は未確認
-- 出典：Grimberg A, DiVall SA, Polychronakos C, et al. Guidelines for Growth Hormone and Insulin-Like Growth Factor-I Treatment in Children and Adolescents: Growth Hormone Deficiency, Idiopathic Short Stature, and Primary Insulin-Like Growth Factor-I Deficiency. Horm Res Paediatr. 2016;86(6):361-397　[DOI 10.1159/000452150](https://doi.org/10.1159/000452150)　[PMID 27884013](https://pubmed.ncbi.nlm.nih.gov/27884013/)（区分 UNKNOWN）
+- 出典：Grimberg A, DiVall SA, Polychronakos C, et al. Guidelines for Growth Hormone and Insulin-Like Growth Factor-I Treatment in Children and Adolescents: Growth Hormone Deficiency, Idiopathic Short Stature, and Primary Insulin-Like Growth Factor-I Deficiency. Horm Res Paediatr. 2016;86(6):361-397　[DOI 10.1159/000452150](https://doi.org/10.1159/000452150)　[PMID 27884013](https://pubmed.ncbi.nlm.nih.gov/27884013/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-4-D（成長・発達の障害、a）　コアカリ：PS-02-12-01 (id: Jli53Ic)；TBL-02-11-019 (id: Jli6Jng)；PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GR-002&card_id=GR-002&version=d079a2f4aa)　（版 `d079a2f4aa`）
 

@@ -1,0 +1,73 @@
+{
+ "class": [
+  [
+   "SRC-1026",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1027",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1030",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1031",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1032",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1034",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1036",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1037",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1039",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-4970",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [],
+ "B": [
+  "IE-001",
+  "IE-002",
+  "IE-003",
+  "IE-004",
+  "IE-005",
+  "IE-006",
+  "IE-007",
+  "IE-008",
+  "IE-009",
+  "IE-010",
+  "IE-012",
+  "IE-013",
+  "IE-015",
+  "IE-016",
+  "IE-018"
+ ],
+ "new_src": []
+}

@@ -126,9 +126,9 @@
     pmid: null
     pmcid: null
     url: https://c2h.niph.go.jp/eecg/assets/reiwa_7/pdf/05_JPNSH_report.pdf
-    source_license: 表示なし
+    source_license: 公共データ利用規約（第1.0版）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: GOV_JP
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ62 2026-11-14）：Toyoda K. Blood pressure management for stroke patients beyond the JSH 2025 guidelines. Hypertens Res. 2026;49(11):3058-3064（PMID: 42660977、DOI: 10.1038/s41440-026-02765-8、PMCID: PMC13736527、https://pmc.ncbi.nlm.nih.gov/articles/PMC13736527/）。裏づける部分：候補で、JSH2025 が慢性期脳卒中患者を含む全集団の診察室血圧目標を 130/80 mmHg 未満に統一したことを確認し、カードの診察室目標と、脳卒中既往者を含む集団への適用が裏づけられる。数値の照合：診察室 130/80 mmHg 未満は一致。家庭血圧 125/75 mmHg 未満は候補に記載がない。留保：推奨の強さ1・エビデンスレベルA という格付けは候補では未確認。主出典 SRC-292 はガイドライン作成関係者の成果報告会スライド（二次資料）で、カードの uncertainty も JSH2025 本文での確認の必要を記している。SRC-292 の区分の判断は申し送りに分離した'
   uncertainty: 二次資料経由（ガイドライン作成に関わった研究者の発表スライド）。家庭血圧の目標値と推奨の強さは JSH2025 本文で確認が要る
   curriculum:
@@ -147,6 +147,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ62 2026-11-14）。三原の承認（2026-11-11）による
+  - date: '2026-11-15'
+    by: claude-code
+    change: 出典 SRC-292 の区分の訂正にあわせて provenance.source_class を UNKNOWN から GOV_JP にした（三原の判断）
 - id: HT-005
   domain: HT
   subdomain: 本態性高血圧

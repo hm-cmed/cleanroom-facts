@@ -1,0 +1,54 @@
+{
+ "class": [
+  [
+   "SRC-1742",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1745",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1746",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1749",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1754",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1755",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [],
+ "B": [
+  "PN-003",
+  "PN-006",
+  "PN-007",
+  "PN-008",
+  "PN-010",
+  "PN-011",
+  "PN-012",
+  "PN-015",
+  "PN-016",
+  "PN-017",
+  "PN-018",
+  "PN-019",
+  "PN-022",
+  "PN-023",
+  "PN-024",
+  "PN-025"
+ ],
+ "new_src": []
+}

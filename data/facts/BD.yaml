@@ -126,7 +126,7 @@
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ74 2026-11-15）：Sidhu RK, Donaldson MG, Boyd SK. Advancing fracture risk prediction: established assessment tools and emerging HR-pQCT-based approaches. Front Endocrinol (Lausanne). 2026;17:1916830（PMID: 42899192、DOI: 10.3389/fendo.2026.1916830、PMCID: PMC13679622、https://pmc.ncbi.nlm.nih.gov/articles/PMC13679622/）。裏づける部分：候補（CC BY 総説）が FRAX について、組み入れる10の臨床的危険因子（年齢、性別、BMI、既存骨折、大腿骨近位部骨折の家族歴、喫煙、グルココルチコイド使用、関節リウマチの診断、続発性骨粗鬆症、飲酒）を列挙し、骨密度あり・なしの両方で計算できること、出力が主要骨粗鬆症性骨折と大腿骨近位部骨折の10年リスクであること、国別の疫学で較正され80か国超にモデルがあることを述べる。カードの主張（危険因子の例示、大腿骨頚部骨密度は任意、国ごとの骨折・死亡の疫学での較正、2種の骨折の10年確率）と一致する。数値の照合：数値なし（ツールの枠組みのカード）。候補は出力が10年リスクであることを明示する。留保：主出典 SRC-1832 の区分は現行 RESTRICTED が正しい。同論文の PMC 収載分のライセンスは CC BY-NC 4.0（Crossref の版データでも CC BY-NC）で自由区分に当たらない。識別子補完候補あり（補完候補の節参照）'
   uncertainty: 原論文は英国モデルについての報告であり、日本では日本版モデルが用いられる。日本での治療開始の目安（主要骨折10年確率15%）はガイドライン側の基準であり、本票のBD-002に分けた。
   curriculum:
     kokushi: 医学各論 Ⅸ-7-C-①（骨粗鬆症、a）
@@ -141,6 +141,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ74 2026-11-15）。三原の承認（2026-11-11）による
 - id: BD-005
   domain: BD
   subdomain: 骨粗鬆症
@@ -161,7 +164,7 @@
     source_license: © 2025 American Medical Association and United States Government（All rights reserved）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ74 2026-11-15）：US Preventive Services Task Force. Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement. USPSTF 公式サイト（uspreventiveservicestaskforce.org）掲載の勧告文全文（https://www.uspreventiveservicestaskforce.org/home/getfilebytoken/hhrqMCEgbsBMJ_Ppbcp4yJ）。裏づける部分：候補（USPSTF 公式サイトに掲載された勧告文の全文）が、65歳以上の女性と、臨床的リスク評価で骨折リスクが高いと判定された65歳未満の閉経後女性に対して骨粗鬆症性骨折予防のスクリーニングを推奨し（いずれも B 勧告）、男性については利益と害のバランスを判断するエビデンスが不十分である（I ステートメント）とすること、スクリーニングは中軸骨 DXA による骨量測定を骨折リスク評価と組み合わせて、または組み合わせずに行うことを述べる。カードの主張と一致する。数値の照合：数値なし（推奨の内容のカード）。対象の年齢区分（65歳以上・65歳未満）と勧告グレード（B 勧告・I ステートメント）は候補と一致する。留保：公式サイトで全文が読めるのは JAMA 掲載版と同一の勧告文だが、同サイトで配布される PDF は JAMA 転載版で © American Medical Association の表示があるため、本バッチでは B とした。政府公表の本文を GOV_US の主出典として置き換え可（A）とみなすかは登録側の判断に委ねる（申し送りの節参照）。主出典 SRC-1833（JAMA 版）の区分は現行 RESTRICTED が正しい（JAMA。Crossref にライセンス登録がなく、Europe PMC で非 OA）'
   uncertainty: 米国の勧告であり、日本の自治体による骨粗鬆症検診とは制度・対象が異なる。
   curriculum:
     kokushi: 医学各論 Ⅸ-7-C-①（骨粗鬆症、a）
@@ -176,6 +179,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ74 2026-11-15）。三原の承認（2026-11-11）による
 - id: BD-006
   domain: BD
   subdomain: 骨粗鬆症
@@ -196,7 +202,7 @@
     source_license: N Engl J Med（Massachusetts Medical Society、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ74 2026-11-15）：ClinicalTrials.gov 試験登録レコード NCT00089791（FREEDOM、結果投稿済み）（https://clinicaltrials.gov/study/NCT00089791）。裏づける部分：登録レコード（結果投稿済み）が FREEDOM 試験の36か月時点の骨折発生数を、新規椎体骨折はプラセボ群264例・デノスマブ群86例、非椎体骨折は293例・238例、大腿骨近位部骨折は43例・26例と記録する。カードの主張（デノスマブ60mg の6か月ごと皮下投与が3種の骨折のリスクを低下させた）の方向と規模は登録値と整合する。数値の照合：カードの累積発生率（椎体骨折 2.3%対7.2%で68%低下、大腿骨近位部骨折 0.7%対1.2%で40%低下、非椎体骨折20%低下）は、登録レコードには割合の形の再掲はなく発生数のみである。登録症例数は登録レコードが7,808例で、カード（主出典）の7,868人と異なる（申し送りの節参照）。留保：主出典 SRC-1834 の区分は現行 RESTRICTED が正しい（NEJM。Europe PMC の個別レコードで非 OA。Crossref の版データ照会はレート制限（429）を受けたため見送り、Europe PMC で代替確認した）
   uncertainty: デノスマブは国内で骨粗鬆症治療薬として承認され、日本のガイドライン2025年版にも収載されていることを同ガイドラインで確認した。投与中止・延期時の骨折リスク上昇は本試験の範囲外のため本票では扱っていない。
   curriculum:
     kokushi: 医学各論 Ⅸ-7-C-①（骨粗鬆症、a）
@@ -211,6 +217,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ74 2026-11-15）。三原の承認（2026-11-11）による
 - id: BD-007
   domain: BD
   subdomain: 骨粗鬆症
@@ -231,7 +240,7 @@
     source_license: JAMA（American Medical Association、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ74 2026-11-15）：ClinicalTrials.gov 試験登録レコード NCT01343004（ACTIVE、結果投稿済み）（https://clinicaltrials.gov/study/NCT01343004）。裏づける部分：登録レコード（結果投稿済み）が ACTIVE 試験の18か月時点の新規椎体骨折をプラセボ群30例・アバロパラチド群4例・テリパラチド群6例、非椎体骨折を33例・18例・24例と記録し、アバロパラチドが両骨折をプラセボより減らしたことと整合する。高カルシウム血症に関連する治療下発現有害事象の件数はアバロパラチド群15例・テリパラチド群34例で、アバロパラチドの方が少ないという方向は一致する。数値の照合：カードの高カルシウム血症の頻度（アバロパラチド3.4%対テリパラチド6.4%）は臨床検査の基準による割合で、登録レコードの有害事象ベースの割合（15/822例で1.8%対34/818例で4.2%）とは定義が異なり値は一致しない。骨折の発生数は割合の形では登録に再掲なし。留保：主出典 SRC-1835 の区分は現行 RESTRICTED が正しい（JAMA。Crossref にライセンス登録がなく、Europe PMC で非 OA）
   uncertainty: アバロパラチドとテリパラチドはいずれも日本のガイドライン2025年版に収載された国内承認薬であることを同ガイドラインで確認した。テリパラチドは本試験では非盲検の参照群であり、新規椎体骨折の発生率の具体値は抄録の表に依存するため本票では記載していない。
   curriculum:
     kokushi: 医学各論 Ⅸ-7-C-①（骨粗鬆症、a）
@@ -246,6 +255,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ74 2026-11-15）。三原の承認（2026-11-11）による
 - id: BD-008
   domain: BD
   subdomain: 骨粗鬆症
@@ -266,7 +278,7 @@
     source_license: N Engl J Med（Massachusetts Medical Society、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ74 2026-11-15）：ClinicalTrials.gov 試験登録レコード NCT01575834（FRAME、結果投稿済み）（https://clinicaltrials.gov/study/NCT01575834）。裏づける部分：登録レコード（結果投稿済み）が FRAME 試験の登録症例数を7,180例、12か月時点の新規椎体骨折の発生率をロモソズマブ群0.5%・プラセボ群1.8%と記録し、群名（プラセボ／デノスマブ群、ロモソズマブ／デノスマブ群）が12か月後に両群ともデノスマブ投与へ移行する逐次療法の設計を示す。カードの主張と一致する。数値の照合：新規椎体骨折 0.5%対1.8%（73%低下）は候補と一致する。登録症例数7,180例もカードと一致する。留保：対象の大腿骨近位部 Tスコア −2.5〜−3.5 は登録レコードの適格基準の範囲と整合する。主出典 SRC-1836 の区分は現行 RESTRICTED が正しい（NEJM。Europe PMC で非 OA。Crossref 照会は 429 のため見送り）
   uncertainty: ロモソズマブは国内で骨粗鬆症治療薬として承認され、日本のガイドライン2025年版にも収載されていることを同ガイドラインで確認した。心血管イベントに関する注意喚起は本試験の抄録の範囲では確認していない。
   curriculum:
     kokushi: 医学各論 Ⅸ-7-C-①（骨粗鬆症、a）
@@ -281,6 +293,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ74 2026-11-15）。三原の承認（2026-11-11）による
 - id: BD-009
   domain: BD
   subdomain: 骨粗鬆症
@@ -371,7 +386,7 @@
     source_license: J Clin Endocrinol Metab（The Endocrine Society、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ74 2026-11-15）：Domínguez-Sevillano B, Ferrín-Ferrín M, Cembrero-Fuciños D, et al. Laboratory-based case finding using phosphate and alkaline phosphatase to identify genetic and nutritional rickets in children. Front Endocrinol (Lausanne). 2026;17:1899612（DOI: 10.3389/fendo.2026.1899612、PMCID: PMC13654777、https://pmc.ncbi.nlm.nih.gov/articles/PMC13654777/）。裏づける部分：候補（CC BY の原著研究）が「くる病は発育期の骨格における成長軟骨の石灰化障害であり、乳幼児のくる病の多くはビタミンDまたはカルシウムの欠乏による栄養性のものである」と述べ、国際コンセンサス文書（主出典 Munns ら 2016）を栄養性くる病の典拠として引用する。カードの主張のうち、骨の石灰化障害である点と、ビタミンD欠乏・カルシウム欠乏が原因である点の骨格と一致する。数値の照合：数値なし（定義のカード）。留保：予防可能な公衆衛生上の問題である点と、コンセンサスが定義・診断基準と予防・管理の推奨を示している点そのものは候補に明示的な再掲なし。主出典 SRC-932 の区分は現行 RESTRICTED が正しい（JCEM。PMC 収載分 PMC4880117 の表示は © The Endocrine Society で CC 表示なし）。識別子補完候補あり（補完候補の節参照）'
   uncertainty: 本コンセンサスは小児の栄養性くる病を中心としており、成人の骨軟化症の検査・治療の詳細は扱っていない。
   curriculum:
     kokushi: 医学各論 Ⅸ-7-C-②（くる病、骨軟化症、b）
@@ -386,6 +401,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ74 2026-11-15）。三原の承認（2026-11-11）による
 - id: BD-012
   domain: BD
   subdomain: くる病・骨軟化症
@@ -441,7 +459,7 @@
     source_license: N Engl J Med（Massachusetts Medical Society、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ74 2026-11-15）：ClinicalTrials.gov 試験登録レコード NCT02163577（ブロスマブ第2相試験、結果投稿済み）（https://clinicaltrials.gov/study/NCT02163577）。裏づける部分：登録レコード（結果投稿済み）が第2相試験の登録症例数を52例、群構成をブロスマブ2週ごとの群と4週ごとから2週ごとへの群とし、くる病重症度スコア（Thacher スコア、RSS）総スコアの変化（64週時点で −1.00・−0.84）、血清リンの上昇（40週時点で +0.92・+0.57 mg/dL）、血清ALPの低下（64週時点で −113.9・−80.9）を記録する。カードの主張のうち、RSS が改善した点、血清リンが上昇した点、血清ALPが低下した点と一致する。数値の照合：登録症例数52例はカードと一致する。血清リンが正常範囲に達した患者の割合（カードは半数超）は登録レコードに再掲なし（平均変化量のみ）。留保：XLH が FGF23 分泌亢進による疾患である点は登録レコードの対象疾患の説明の範囲を超えるため裏づけに含めていない。主出典 SRC-1838 の区分は現行 RESTRICTED が正しい（NEJM。Europe PMC で非 OA。Crossref 照会は 429 のため見送り）
   uncertainty: ブロスマブは国内で2019年9月にFGF23関連低リン血症性くる病・骨軟化症の効能・効果で承認され薬価収載されていることを、製造販売元の公表資料で確認した。本試験は第2相試験で、投与量は血清リン値が正常下限付近になるよう調整された。
   curriculum:
     kokushi: 医学各論 Ⅸ-7-C-②（くる病、骨軟化症、b）
@@ -456,6 +474,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ74 2026-11-15）。三原の承認（2026-11-11）による
 - id: BD-014
   domain: BD
   subdomain: 骨Paget病
@@ -476,7 +497,7 @@
     source_license: J Clin Endocrinol Metab（The Endocrine Society、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ74 2026-11-15）：Traversari L. Paget''s Disease of Bone and Chronic Kidney Disease: A Review. J Clin Med. 2026;15(8):2843（PMID: 42074646、DOI: 10.3390/jcm15082843、PMCID: PMC13116428、https://pmc.ncbi.nlm.nih.gov/articles/PMC13116428/）。裏づける部分：候補（CC BY 総説）が骨Paget病について、単純X線写真を含む放射線学的評価が病変の検出・診断に有効であること、核医学の全身骨シンチグラフィで活動性病変の広がりと分布を評価することが推奨されること、治療反応の評価に ALP 測定が用いられ、未治療の無症候例でも定期的な ALP 測定が疾患の進行評価に役立つことを述べる。カードの主張（疑わしい部位の単純X線で診断し、骨シンチグラフィで広がりを評価し、血清総ALPを活動性の評価や治療反応・未治療例の経過観察に用いる）の骨格と一致する。数値の照合：数値なし（診断・評価の手順のカード）。留保：候補の記述は総説としての一般的な手順の記述で、主出典（米国内分泌学会ガイドライン）の推奨そのものの再掲ではない。主出典 SRC-1837 の区分は現行 RESTRICTED が正しい（JCEM。Europe PMC で非 OA・PMC 未収載。Crossref 照会は 429 のため見送り）'
   uncertainty: 単骨性病変で血清総ALPが正常な例では、骨形成・骨吸収マーカーを測定しても正常なことがあるとガイドラインは述べている。
   curriculum:
     kokushi: 医学各論 Ⅸ-7-C-③（骨Paget病、b）
@@ -491,6 +512,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ74 2026-11-15）。三原の承認（2026-11-11）による
 - id: BD-015
   domain: BD
   subdomain: 骨Paget病
@@ -511,7 +535,7 @@
     source_license: J Clin Endocrinol Metab（The Endocrine Society、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ74 2026-11-15）：Traversari L. Paget''s Disease of Bone and Chronic Kidney Disease: A Review. J Clin Med. 2026;15(8):2843（PMID: 42074646、DOI: 10.3390/jcm15082843、PMCID: PMC13116428、https://pmc.ncbi.nlm.nih.gov/articles/PMC13116428/）。裏づける部分：候補（CC BY 総説）が、2019年の英国ガイドラインに基づきビスホスホネートが骨Paget病の第一選択治療であること、その中でゾレドロン酸が最も有効で、5mg の単回静脈内投与により ALP の正常化が最長5年持続することを述べる。カードの主張（ビスホスホネート治療を推奨し、ゾレドロン酸5mg の単回静脈内投与を第一選択とする）の骨格と一致する。数値の照合：数値なし（推奨の内容のカード）。ゾレドロン酸5mg 単回静注は候補と一致する。留保：候補の帰属は英国ガイドライン（2019年）で、主出典（米国内分泌学会ガイドライン）の推奨の再掲ではない。「将来の合併症のリスクがある活動性の患者の多くに」という適応の範囲と「禁忌がなければ」という条件は候補に再掲なし。主出典 SRC-1837 の区分は現行 RESTRICTED が正しい'
   uncertainty: ゾレドロン酸の骨Paget病に対する国内の承認・保険適用は未確認であり、本票は米国ガイドラインの推奨である。骨の変形、高拍出性心不全、骨肉腫化などの合併症は本疾患の重要な論点だが、今回確認したガイドライン抄録の範囲では合併症の内訳を検証できなかったため、本票の命題には含めていない。
   curriculum:
     kokushi: 医学各論 Ⅸ-7-C-③（骨Paget病、b）
@@ -526,6 +550,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ74 2026-11-15）。三原の承認（2026-11-11）による
 - id: BD-016
   domain: BD
   subdomain: 骨形成不全症
@@ -546,7 +573,7 @@
     source_license: Nat Rev Dis Primers（Springer Nature、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ74 2026-11-15）：Wang XQ, Zhang C, Li X, et al. Pathogenesis and precision management of osteogenesis imperfecta: from genetic mechanisms to novel therapies. World J Pediatr. 2026;22(9)（PMID: 42814222、DOI: 10.1007/s12519-026-01086-7、PMCID: PMC13653858、https://pmc.ncbi.nlm.nih.gov/articles/PMC13653858/）。裏づける部分：候補（CC BY 総説）が、骨形成不全症は骨脆弱性と骨格変形を特徴とし、古典的病型は I 型コラーゲンをコードする COL1A1・COL1A2 遺伝子の変異によるコラーゲンの量または構造の異常で、両遺伝子が全体の80〜85%を占めることを述べる。カードの主張のうち、疾患の特徴と原因遺伝子・割合の骨格と一致する。数値の照合：候補は80〜85%の範囲で、カードの約85%はその上限に当たる（不一致ではない）。留保：診断が家族歴と臨床像に基づいて行われ遺伝子検査で確認できるという手順は、候補に明示的な再掲なし。主出典 SRC-1840 の区分は現行 RESTRICTED が正しい（Nature Reviews Disease Primers。Crossref の版ライセンスはテキストマイニング用のリンクのみ、Europe PMC で非 OA）'
   uncertainty: COL1A1・COL1A2以外の原因遺伝子（I型コラーゲンの合成・修飾・輸送や骨形成細胞の分化・活性を担う遺伝子の異常）も多数報告されており、遺伝学的分類は流動的である。
   curriculum:
     kokushi: 医学各論 Ⅸ-7-B-②（骨形成不全症、c）
@@ -561,6 +588,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ74 2026-11-15）。三原の承認（2026-11-11）による
 - id: BD-017
   domain: BD
   subdomain: 骨形成不全症
@@ -686,7 +716,7 @@
     source_license: Lancet（Elsevier、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ74 2026-11-15）：ClinicalTrials.gov 試験登録レコード NCT03197766（ボソリチド第3相試験、結果投稿済み）（https://clinicaltrials.gov/study/NCT03197766）。裏づける部分：登録レコード（結果投稿済み）が第3相試験の登録症例数を121例、52週時点の年間成長速度のベースラインからの変化をボソリチド群 +1.71 cm/年・プラセボ群 +0.13 cm/年と記録する。カードの主張（ボソリチド15μg/kg の連日皮下投与が年間成長速度をプラセボより増加させた）と整合する。数値の照合：登録症例数121例はカードと一致する。群間差は登録値どうしの差で1.58 cm/年となり、カードの1.57 cm/年（95%信頼区間1.22〜1.93）は最小二乗平均による調整値で、登録レコードに再掲なし（信頼区間もなし）。留保：主出典 SRC-1839 の区分は現行 RESTRICTED が正しい（Lancet。Europe PMC で非 OA。Crossref 照会は 429 のため見送り）
   uncertainty: ボソリチドは国内で2022年に「骨端線閉鎖を伴わない軟骨無形成症」の効能・効果で承認され、年齢の下限がないことをPMDAの添付文書情報で確認した。本試験の対象は5歳以上であり、最終身長が増加するかは未確立であると論文は述べている。
   curriculum:
     kokushi: 医学各論 Ⅸ-7-B-①（軟骨無形成症、c）
@@ -701,3 +731,6 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ74 2026-11-15）。三原の承認（2026-11-11）による

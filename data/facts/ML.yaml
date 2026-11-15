@@ -53,7 +53,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 3.0（OPEN）、作り手の調査バッチ81 2026-11-15）：Villafuerte-Gutierrez P, Villalon L, Losa JE, Henriquez-Camacho C. Treatment of febrile neutropenia and prophylaxis in hematologic malignancies: a critical review and update. Adv Hematol. 2014;2014:986938.（PMID: 25525436、DOI: 10.1155/2014/986938、PMCID: PMC4265549、https://creativecommons.org/licenses/by/3.0/）。裏づける部分：部分：IDSA の高リスク・低リスクの定義（MASCC スコア21超は低リスクを含む）を再掲し、好中球減少性発熱の全患者への60分以内の経験的広域抗菌薬投与、最も多いグラム陽性菌と最も重篤なグラム陰性菌、高リスク例への抗緑膿菌βラクタム単剤を再掲する。数値の照合：数値の主張なし（MASCC の閾値21は一致）。留保：主出典は RESTRICTED で確定（非OA）'
   uncertainty: 米国感染症学会（IDSA）ガイドラインの抄録で確認した範囲である。発熱の定義は国内の発熱性好中球減少症診療ガイドライン（腋窩温37.5℃以上等）と異なるため、日本の診療では国内ガイドラインを併せて参照すること。個別の抗菌薬の国内承認・保険適用は本カードでは扱っていない。
   curriculum:
     kokushi: 医学各論 Ⅶ-2-A-①（薬剤性無顆粒球症、a）
@@ -68,6 +68,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 3.0（OPEN）、作り手の調査バッチ81 2026-11-15）。三原の承認（2026-11-11）による
 - id: ML-003
   domain: ML
   subdomain: 急性骨髄性白血病
@@ -88,7 +91,7 @@
     source_license: CC BY-NC-ND 4.0（Crossref の license 欄で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15）：Liga M, Georgopoulou AN, Tsokanas D, Spyridonidis A, Labropoulou VT. ELN vs. IPSS-M in MDS/AML: Which Prognostic System Should Guide Clinical Decision-Making? Cancers. 2026;18(18):2993.（PMID: 42794960、DOI: 10.3390/cancers18182993、PMCID: PMC13604652、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：ELN 分類が2017年から2022年にかけて細胞遺伝学中心から分子情報を組み込んだ体系へ改訂されたこと、ELN 2022 の favorable・intermediate・adverse の3層、ELN が効果判定と MRD 評価・移植計画の指針となることを再掲する。数値の照合：数値の主張なし。留保：候補は MDS/AML の予後システム比較が主題のため、効果判定基準の改訂そのものは間接的な裏づけにとどまる。主出典は刊行版が CC BY-NC-ND で RESTRICTED のままで正しい（マスターの license_note と一致）'
   uncertainty: 抄録で確認した範囲である。遺伝子リスク分類の個別の遺伝子異常の一覧は抄録の範囲外であり、主張に含めていない（組み立て時に全文で照合すること）。分類の土台にはWHO分類第5版（HAEM5、2022）とICC 2022も併存し、版による食い違いがありうる。
   curriculum:
     kokushi: 医学各論 Ⅶ-2-B-①（急性骨髄性白血病、a）
@@ -103,6 +106,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15）。三原の承認（2026-11-11）による
 - id: ML-004
   domain: ML
   subdomain: 急性骨髄性白血病
@@ -123,7 +129,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US（OPEN、米国国立医学図書館の運営する試験登録）、作り手の調査バッチ81 2026-11-15）：ClinicalTrials.gov 登録レコード NCT02993523（VIALE-A試験、結果掲載あり）（https://clinicaltrials.gov/study/NCT02993523）。裏づける部分：部分：未治療で強力化学療法に不適な AML に対するアザシチジン＋ベネトクラクス併用とアザシチジン単独の比較で、全生存期間中央値を再掲する。数値の照合：OS 中央値 14.7 vs 9.6 か月はカードと完全一致。登録側の死亡 HR は 0.58 で論文・カードの 0.66 と異なり、完全寛解率も登録 38.8% vs 17.9% に対しカード 36.7% vs 17.9% とわずかに異なる（登録は更新解析）。留保：裏づけは OS 中央値にとどめる。主出典は RESTRICTED で確定（非OA）
   uncertainty: VIALE-A試験（431例、年齢中央値76歳）の抄録で確認した数値である。発熱性好中球減少症は併用群で多かった（42%対19%）。ベネトクラクスは2021年3月23日に国内で急性骨髄性白血病の適応追加承認を取得している（発売元の発表で確認）。
   curriculum:
     kokushi: 医学各論 Ⅶ-2-B-①（急性骨髄性白血病、a）
@@ -138,6 +144,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US（OPEN、米国国立医学図書館の運営する試験登録）、作り手の調査バッチ81 2026-11-15）。三原の承認（2026-11-11）による
 - id: ML-005
   domain: ML
   subdomain: 急性骨髄性白血病
@@ -158,7 +167,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US（OPEN、米国国立医学図書館の運営する試験登録）、作り手の調査バッチ81 2026-11-15）：ClinicalTrials.gov 登録レコード NCT00651261（RATIFY試験、結果掲載あり）（https://clinicaltrials.gov/study/NCT00651261）。裏づける部分：全面：FLT3 変異陽性 AML へのミドスタウリン＋化学療法の上乗せで、全生存期間と無イベント生存期間の双方のハザード比を再掲する。数値の照合：OS の HR 0.78（95%CI 0.63–0.96）と EFS の HR 0.78（95%CI 0.66–0.93）はカードと完全一致。留保：主出典は RESTRICTED で確定（PMC収載は著者稿でライセンス表示なし）
   uncertainty: RATIFY試験（717例、18〜59歳）の抄録で確認した数値であり、効果はFLT3変異のサブタイプを通じて一貫していた。ミドスタウリンの国内承認は出典リサーチの範囲で確認できなかった（国内の適応は未確認）。
   curriculum:
     kokushi: 医学各論 Ⅶ-2-B-①（急性骨髄性白血病、a）
@@ -173,6 +182,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US（OPEN、米国国立医学図書館の運営する試験登録）、作り手の調査バッチ81 2026-11-15）。三原の承認（2026-11-11）による
 - id: ML-006
   domain: ML
   subdomain: 急性骨髄性白血病
@@ -193,7 +205,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15）：Langdon K, Cosentino S, Wawryk O. Superiority of anthracycline-free treatment in standard-risk acute promyelocytic leukemia: A systematic review and comparative epidemiological analysis. Cancer Rep (Hoboken). 2024;7(3):e2035.（PMID: 38507294、DOI: 10.1002/cnr2.2035、PMCID: PMC10953833、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：低・中間リスク APL に対する ATRA＋三酸化ヒ素と ATRA＋化学療法の比較（主出典 Lo-Coco 2013）について、完全寛解率と2年無イベント生存・全生存を表で再掲し、ATRA＋三酸化ヒ素で好中球減少・血小板減少が少ない方向性を再掲する。数値の照合：完全寛解率 100% vs 95% は一致。2年 EFS は候補の表が「97% vs 85%」とし、カード・主出典の 86% と1ポイント異なる（候補側の相違。カードは主出典に従う）。留保：APL0406 の登録レコード（NCT00482833）は結果が掲載されておらず、登録経路の裏づけは使えなかった。主出典は RESTRICTED で確定（非OA）'
   uncertainty: APL0406試験（白血球数10×10⁹/L以下の低〜中間リスクが対象）の抄録で確認した数値である。完全寛解は併用群で評価可能例の全例、化学療法群で95%であった。三酸化二ヒ素製剤の国内適応範囲（初回治療への拡大の有無）は未確認であり、組み立て時にPMDAで確認すること。
   curriculum:
     kokushi: 医学各論 Ⅶ-2-B-①（急性骨髄性白血病、a）
@@ -208,6 +220,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15）。三原の承認（2026-11-11）による
 - id: ML-007
   domain: ML
   subdomain: 慢性骨髄性白血病
@@ -263,7 +278,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15）：Hochhaus A, Talpaz M, Saglio G, Cortes JE, Hughes T, Apperley J, Hantschel O, Rea D, Schuld P, Kantarjian H. From fatal disease to functional cure: 25 years of tyrosine kinase inhibition in chronic myeloid leukemia. Leukemia. 2026;40(6).（PMID: 42174092、DOI: 10.1038/s41375-026-02984-5、PMCID: PMC13233626、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：IRIS 試験が初回治療イマチニブを CML の標準治療として確立したことと、その長期有効性（18か月時点の完全細胞遺伝学的奏効 76.2%、10年全生存 83.3%）を再掲する。数値の照合：カードの60か月時点の3値（累積最良完全細胞遺伝学的奏効 87%・全生存 89%・移行期・芽球転換への進行 7%）は候補に再掲がない。候補の値は別時点のもので不一致ではない。留保：5年時点の値をそのまま再掲する自由な全文は複数誌の総説を確認しても見つからなかった。ML-009と同一候補。主出典は RESTRICTED で確定（非OA）'
   uncertainty: IRIS試験5年追跡の抄録で確認した数値である。イマチニブは国内承認・保険適用のある薬剤である（個別の承認年の照合はしていない）。SRC-033（イマチニブの消化管間質腫瘍の試験）は適応が異なるため本項目の出典にしていない。
   curriculum:
     kokushi: 医学各論 Ⅶ-2-B-②（慢性骨髄性白血病、a）
@@ -278,6 +293,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15）。三原の承認（2026-11-11）による
 - id: ML-009
   domain: ML
   subdomain: 慢性骨髄性白血病
@@ -298,7 +316,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15）：Hochhaus A, Talpaz M, Saglio G, Cortes JE, Hughes T, Apperley J, Hantschel O, Rea D, Schuld P, Kantarjian H. From fatal disease to functional cure: 25 years of tyrosine kinase inhibition in chronic myeloid leukemia. Leukemia. 2026;40(6).（PMID: 42174092、DOI: 10.1038/s41375-026-02984-5、PMCID: PMC13233626、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：全面：STIM 試験（完全分子寛解を2年以上維持した100例でイマチニブを中止）を表と本文で再掲し、12か月時点の無治療寛解維持率、再発の大半が6か月以内であること、再発例は全例イマチニブ再開に反応したことを再掲する。数値の照合：12か月維持率 41% はカード（約6割が再発＝維持率41%）と一致。留保：ML-008と同一候補。主出典は RESTRICTED で確定（非OA）'
   uncertainty: STIM試験（12か月以上追跡できた69例）の抄録で確認した数値であり、再発の大半は中止後6か月以内であった。イマチニブは国内承認・保険適用のある薬剤である。治療中止の判断はELN 2025年勧告などの現行指針に基づく。
   curriculum:
     kokushi: 医学各論 Ⅶ-2-B-②（慢性骨髄性白血病、a）
@@ -313,6 +331,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15）。三原の承認（2026-11-11）による
 - id: ML-010
   domain: ML
   subdomain: 原発性骨髄線維症
@@ -333,7 +354,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15）：Duminuco A, Nardo A, Giuffrida G, Leotta S, Markovic U, Giallongo C, Tibullo D, Romano A, Di Raimondo F, Palumbo GA. Myelofibrosis and Survival Prognostic Models: A Journey between Past and Future. J Clin Med. 2023;12(6):2188.（PMID: 36983189、DOI: 10.3390/jcm12062188、PMCID: PMC10053868、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：全面：DIPSS の5因子と配点（年齢65歳超1点・ヘモグロビン10 g/dL未満2点・白血球25×10⁹/L超1点・末梢血芽球1%以上1点・全身症状1点）、4リスク群（低0点・中間-1 1–2点・中間-2 3–4点・高5点以上）、原発性骨髄線維症の経過中のいつの時点でも適用できることをいずれも再掲する。数値の照合：5因子・配点・4群の境界はカードと完全一致。留保：主出典は RESTRICTED で確定（非OA）'
   uncertainty: 原発性骨髄線維症525例の検討に基づく原著の抄録で確認した内容である。各リスク群の生存期間の数値は抄録の範囲外であり、主張に含めていない。
   curriculum:
     kokushi: 医学各論 Ⅶ-2-B-③（原発性骨髄線維症、b）
@@ -348,6 +369,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15）。三原の承認（2026-11-11）による
 - id: ML-011
   domain: ML
   subdomain: 原発性骨髄線維症
@@ -368,7 +392,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US（OPEN、米国国立医学図書館の運営する試験登録）、作り手の調査バッチ81 2026-11-15）：ClinicalTrials.gov 登録レコード NCT00952289（COMFORT-I試験、結果掲載あり）（https://clinicaltrials.gov/study/NCT00952289）。裏づける部分：部分：中間-2・高リスク骨髄線維症に対するルキソリチニブとプラセボの比較で、24週時点の脾臓容積35%以上の縮小と総症状スコア50%以上の改善の達成人数を再掲する。数値の照合：脾臓縮小 65例 vs 1例・症状改善 68例 vs 8例はカードの割合（41.9% vs 0.7%、45.9% vs 5.3%）と人数として整合する。死亡のハザード比 0.50 は登録レコードに解析値の掲載がなく裏づけられない。留保：登録レコードには死亡イベント数（10例 vs 14例、延長期間 13例 vs 24例）の掲載のみ。主出典は RESTRICTED で確定（PMC収載は著者稿でライセンス表示なし）
   uncertainty: COMFORT-I試験の抄録で確認した数値である。有害事象で最も多かったのは貧血と血小板減少であった。ルキソリチニブは骨髄線維症の適応で2014年7月4日に国内承認されている（製造販売業者の資料で確認）。
   curriculum:
     kokushi: 医学各論 Ⅶ-2-B-③（原発性骨髄線維症、b）
@@ -383,6 +407,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US（OPEN、米国国立医学図書館の運営する試験登録）、作り手の調査バッチ81 2026-11-15）。三原の承認（2026-11-11）による
 - id: ML-012
   domain: ML
   subdomain: 本態性血小板血症
@@ -403,7 +430,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15）：Ma X, Zhou Z, Gu S, Guo Y, Zhou T, Shao R, Yan J, Chen W, Shi X. Advances in the Diagnosis and Treatment of Myeloproliferative Neoplasms (MPNs). Cancers. 2025;17(19):3142.（PMID: 41097669、DOI: 10.3390/cancers17193142、PMCID: PMC12523517、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：IPSET-thrombosis の3層（低 0–1点・中間 2点・高 3点以上）と各層の年間血栓症発生率、静脈血栓症のリスク因子としての年齢60歳超・血栓症の既往・JAK2 V617F を再掲する。数値の照合：発生率 低 1.03%・中間 2.35%・高 3.56%/年 は主出典と一致。ただしカードは「高リスク 2.35%/年」としており、主出典では 2.35% は中間リスク群の値で高リスク群は 3.56%/年である（下記の申し送り参照）。配点の内訳（血栓歴2点・JAK2 V617F 2点・年齢1点・心血管リスク因子1点）は候補に再掲がない。留保：ML-014と同一候補。主出典は RESTRICTED で確定（非OA）'
   uncertainty: WHO定義の本態性血小板血症891例に基づく原著の抄録で確認した内容であり、配点も抄録の記載に基づく。
   curriculum:
     kokushi: 医学各論 Ⅶ-2-B-④（本態性血小板血症、b）
@@ -418,6 +445,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15）。三原の承認（2026-11-11）による
 - id: ML-013
   domain: ML
   subdomain: 本態性血小板血症
@@ -473,7 +503,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15）：Ma X, Zhou Z, Gu S, Guo Y, Zhou T, Shao R, Yan J, Chen W, Shi X. Advances in the Diagnosis and Treatment of Myeloproliferative Neoplasms (MPNs). Cancers. 2025;17(19):3142.（PMID: 41097669、DOI: 10.3390/cancers17193142、PMCID: PMC12523517、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：JAK2 V617F が真性多血症の大多数と本態性血小板血症・原発性骨髄線維症の約半数に認められるドライバー変異であることを再掲する。数値の照合：候補の値は 真性多血症 95%・本態性血小板血症と原発性骨髄線維症 50–60% で、カードの主出典（Baxter 2005）の値（97%・57%・50%）と完全には一致しないが概数範囲として整合する。留保：主出典の正確な値をそのまま再掲する自由な全文は見つからなかった。ML-012と同一候補。主出典は RESTRICTED で確定（非OA）'
   uncertainty: 原著の抄録で確認した数値であり、各疾患の例数は真性赤血球増加症73例、本態性血小板血症51例、特発性骨髄線維症16例と小さい。
   curriculum:
     kokushi: 医学各論 Ⅶ-2-B-⑤（真性赤血球増加症、b）
@@ -488,6 +518,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15）。三原の承認（2026-11-11）による
 - id: ML-015
   domain: ML
   subdomain: 真性赤血球増加症
@@ -508,7 +541,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US（OPEN、米国国立医学図書館の運営する試験登録）、作り手の調査バッチ81 2026-11-15）：ClinicalTrials.gov 登録レコード NCT01243944（RESPONSE試験、結果掲載あり）（https://clinicaltrials.gov/study/NCT01243944）。裏づける部分：部分：ハイドロキシウレア抵抗性・不耐の脾腫を伴う真性多血症に対するルキソリチニブと標準治療の比較で、32週時点の主要評価項目（ヘマトクリット制御と脾臓容積35%以上の縮小の複合）の達成率と、48週時点の持続的ヘマトクリット制御を再掲する。数値の照合：主要評価項目は登録 22.7% vs 0.9% で、カードの 21% vs 1%（論文値の丸め）と概ね一致するが厳密には異なる。持続的ヘマトクリット制御は登録 54.5% vs 1.8%。留保：複合項目の内訳（ヘマトクリット制御 60% vs 20%・脾臓縮小 38% vs 1%）は登録レコード単独では裏づけられない。主出典は RESTRICTED で確定（PMC収載は著者稿でライセンス表示なし）
   uncertainty: RESPONSE試験の抄録で確認した数値である。内訳はヘマトクリット制御60%対20%、脾容積35%以上の縮小38%対1%であった。ルキソリチニブの真性赤血球増加症への効能追加（既存治療が効果不十分又は不適当な場合に限る）は2015年9月に国内承認されている（製造販売業者の資料で確認）。
   curriculum:
     kokushi: 医学各論 Ⅶ-2-B-⑤（真性赤血球増加症、b）
@@ -523,6 +556,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US（OPEN、米国国立医学図書館の運営する試験登録）、作り手の調査バッチ81 2026-11-15）。三原の承認（2026-11-11）による
 - id: ML-016
   domain: ML
   subdomain: 慢性好酸球性白血病
@@ -543,7 +579,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15）：Nguyen L, Saha A, Kuykendall A, Zhang L. Clinical and Therapeutic Intervention of Hypereosinophilia in the Era of Molecular Diagnosis. Cancers. 2024;16(7):1383.（PMID: 38611061、DOI: 10.3390/cancers16071383、PMCID: PMC11011008、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：FIP1L1::PDGFRA 融合（4q12 の潜性欠失）が好酸球増多を伴う骨髄系腫瘍で最も多い分子異常であり、陽性例ではイマチニブが第一選択で速やかな反応と良好な予後が得られることを再掲する。数値の照合：主出典の具体数（特発性好酸球増多症候群16例中9例に融合を検出、イマチニブ治療11例中9例が3か月を超えて反応）は候補に再掲がない。留保：主出典は RESTRICTED で確定（非OA）'
   uncertainty: 原著の抄録で確認した内容である。融合遺伝子は染色体4q12の間質性欠失により生じる。イマチニブは国内承認・保険適用のある薬剤だが、好酸球増多症候群・慢性好酸球性白血病に対する国内適応の有無は未確認である。慢性好酸球性白血病とチロシンキナーゼ融合遺伝子で定義される腫瘍群との切り分けはWHO分類第5版（HAEM5）のカテゴリ構成に基づく。別表1には本項目に対応する行がないため付けていない。
   curriculum:
     kokushi: 医学各論 Ⅶ-2-B-⑥（慢性好酸球性白血病、c）
@@ -558,6 +594,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/39_hm_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ81 2026-11-15）。三原の承認（2026-11-11）による
 - id: ML-017
   domain: ML
   subdomain: 類白血病反応

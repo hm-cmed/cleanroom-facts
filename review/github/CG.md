@@ -144,7 +144,7 @@
 
 - 条件：region: 国際／対象: 新生児
 - 不確実性：本カードは新生児期の側面（スクリーニングで見つかる症例の初期対応と性分化の評価）に限る。長期管理は内分泌側（第20回）が正。薬剤の国内承認：副腎クリーゼに用いるヒドロコルチゾンは国内で承認されている副腎皮質ステロイド製剤で保険適用があるが、個別の効能・効果の文言は添付文書で未照合。ガイドラインの改訂版は確認できず、2018年版を現行として使った
-- 出典：Speiser PW, Arlt W, Auchus RJ, et al. Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2018;103(11):4043-4088　[DOI 10.1210/jc.2018-01865](https://doi.org/10.1210/jc.2018-01865)　[PMID 30272171](https://pubmed.ncbi.nlm.nih.gov/30272171/)（区分 UNKNOWN）
+- 出典：Speiser PW, Arlt W, Auchus RJ, et al. Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2018;103(11):4043-4088　[DOI 10.1210/jc.2018-01865](https://doi.org/10.1210/jc.2018-01865)　[PMID 30272171](https://pubmed.ncbi.nlm.nih.gov/30272171/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-4-C-②（先天性副腎皮質過形成、c）　コアカリ：PS-02-12-02 (id: Jli53IY)；TBL-01-00-432 (id: JlvnmH0)；TBL-02-11-021 (id: Jli6Jns)；PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CG-010&card_id=CG-010&version=ed33662241)　（版 `ed33662241`）
 

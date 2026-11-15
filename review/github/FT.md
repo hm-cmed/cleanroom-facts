@@ -32,7 +32,7 @@
 
 - 条件：region: 日本／対象: 妊婦
 - 不確実性：出典のライセンス表示を確認できなかったため source_class は UNKNOWN とした。本論文は分類の検証研究であり、各レベルに対応する管理の細部は産科編2026年版などの本文照合が前提のため主張に入れていない
-- 出典：Hayashi M, Nakai A, Sekiguchi A, Takeshita T. Fetal heart rate classification proposed by the perinatology committee of the Japan Society of Obstetrics and Gynecology: reproducibility and clinical usefulness. J Nippon Med Sch. 2012;79(1):60-68　[DOI 10.1272/jnms.79.60](https://doi.org/10.1272/jnms.79.60)　[PMID 22398791](https://pubmed.ncbi.nlm.nih.gov/22398791/)（区分 UNKNOWN）
+- 出典：Hayashi M, Nakai A, Sekiguchi A, Takeshita T. Fetal heart rate classification proposed by the perinatology committee of the Japan Society of Obstetrics and Gynecology: reproducibility and clinical usefulness. J Nippon Med Sch. 2012;79(1):60-68　[DOI 10.1272/jnms.79.60](https://doi.org/10.1272/jnms.79.60)　[PMID 22398791](https://pubmed.ncbi.nlm.nih.gov/22398791/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-3-A-①（胎児機能不全、a）　コアカリ：PS-02-11-05 (id: JkxnuSU)；PS-02-11-03 (id: JkxnuSM)；TBL-01-00-368 (id: JlvnmCQ)；TBL-02-10-014 (id: JlAKpqs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20FT-003&card_id=FT-003&version=602aa55bea)　（版 `602aa55bea`）
 
