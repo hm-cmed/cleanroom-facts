@@ -1,6 +1,6 @@
 # BR 乳腺・乳房疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-14
+[← 一覧に戻る](README.md)　更新：2026-11-15
 
 全 16 件のうち、監修済み 0 件。
 
@@ -12,7 +12,7 @@
 
 - 条件：region: 日本／population: 乳癌登録症例（2019年登録分）
 - 不確実性：数値は出典の抄録から確認した（登録症例数・年齢中央値・閉経前割合・病期分布）。登録ベースの集計であり、人口ベースの罹患率・死亡率ではない。出典のライセンス表示は確認できなかった。
-- 出典：Miyashita M, Kumamaru H, Niikura N, et al. Annual report of the Japanese Breast Cancer Registry for 2019. Breast Cancer. 2024;31(1):16-23.　[DOI 10.1007/s12282-023-01526-6](https://doi.org/10.1007/s12282-023-01526-6)　[PMID 38044372](https://pubmed.ncbi.nlm.nih.gov/38044372/)（区分 UNKNOWN）
+- 出典：Miyashita M, Kumamaru H, Niikura N, et al. Annual report of the Japanese Breast Cancer Registry for 2019. Breast Cancer. 2024;31(1):16-23.　[DOI 10.1007/s12282-023-01526-6](https://doi.org/10.1007/s12282-023-01526-6)　[PMID 38044372](https://pubmed.ncbi.nlm.nih.gov/38044372/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-11-B-①（乳癌、a）　コアカリ：PS-02-13-05 (id: JkxnuSs)；TBL-01-00-665 (id: JlvnmeQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BR-001&card_id=BR-001&version=896f0d57d7)　（版 `896f0d57d7`）
 
@@ -28,7 +28,7 @@
 
 - 条件：region: 日本／population: 検診対象の女性（40歳以上）
 - 不確実性：推奨年齢と相対リスクは出典の抄録から確認した。検診間隔（2年に1回）や自治体検診の運用は厚生労働省の指針によるもので、この出典の抄録には含まれないため主張には書いていない。検診の推奨年齢・方法は国や団体により異なるため、本カードは日本のガイドラインに限る。出典のライセンス表示は確認できなかった。
-- 出典：Hamashima C, et al; Japanese Research Group for the Development of the Breast Cancer Screening Guidelines. The Japanese Guidelines for Breast Cancer Screening. Jpn J Clin Oncol. 2016;46(5):482-492.　[DOI 10.1093/jjco/hyw008](https://doi.org/10.1093/jjco/hyw008)　[PMID 27207993](https://pubmed.ncbi.nlm.nih.gov/27207993/)（区分 UNKNOWN）
+- 出典：Hamashima C, et al; Japanese Research Group for the Development of the Breast Cancer Screening Guidelines. The Japanese Guidelines for Breast Cancer Screening. Jpn J Clin Oncol. 2016;46(5):482-492.　[DOI 10.1093/jjco/hyw008](https://doi.org/10.1093/jjco/hyw008)　[PMID 27207993](https://pubmed.ncbi.nlm.nih.gov/27207993/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-11-B-①（乳癌、a）　コアカリ：PS-02-13-05 (id: JkxnuSs)；TBL-02-12-008 (id: JlAKpro)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BR-002&card_id=BR-002&version=368046acf2)　（版 `368046acf2`）
 
@@ -76,7 +76,7 @@
 
 - 条件：region: 日本／population: 手術適応のある乳癌患者
 - 不確実性：主張は出典（外科治療ガイドライン2022年版の英語ダイジェスト）の抄録に基づく。個別の臨床疑問に対する推奨の強さや、乳房温存手術と全切除術の適応条件などの本文の詳細は確認していないため書いていない。出典のライセンス表示は確認できなかった。
-- 出典：Sakai T, Kutomi G, Shien T, et al. The Japanese Breast Cancer Society Clinical Practice Guidelines for Surgical Treatment of Breast Cancer, 2022 Edition. Breast Cancer. 2024;31(1):1-7.　[DOI 10.1007/s12282-023-01510-0](https://doi.org/10.1007/s12282-023-01510-0)　[PMID 37843765](https://pubmed.ncbi.nlm.nih.gov/37843765/)（区分 UNKNOWN）
+- 出典：Sakai T, Kutomi G, Shien T, et al. The Japanese Breast Cancer Society Clinical Practice Guidelines for Surgical Treatment of Breast Cancer, 2022 Edition. Breast Cancer. 2024;31(1):1-7.　[DOI 10.1007/s12282-023-01510-0](https://doi.org/10.1007/s12282-023-01510-0)　[PMID 37843765](https://pubmed.ncbi.nlm.nih.gov/37843765/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-11-B-①（乳癌、a）　コアカリ：PS-02-13-05 (id: JkxnuSs)；TBL-01-00-665 (id: JlvnmeQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BR-005&card_id=BR-005&version=27f762983d)　（版 `27f762983d`）
 
@@ -140,7 +140,7 @@
 
 - 条件：region: 日本／population: BRCA1/2病的バリアント保持者（HBOC）
 - 不確実性：数値（生涯リスク48〜76%、一般集団約11%、リスク低減乳房切除による90%以上のリスク低下）は出典の抄録から確認した。本カードは境界に従い乳腺の側面（リスク管理と検診）に限る。卵巣癌のリスクとその管理は第18回 GY-042 が正であり、ここでは扱わない。保険適用の対象範囲（既発症の保持者など条件）は出典の抄録では詳述されていないため、主張では一部が保険適用となったことに留めた。出典のライセンス表示は確認できなかった。
-- 出典：Seki T, Kobayashi Y, Masuda K, et al. Exploring Breast Cancer Risk Management in HBOC Patients: Image Surveillance Versus Risk-reducing Surgery. Keio J Med. 2025;74(3):130-137.　[DOI 10.2302/kjm.2024-0021-RE](https://doi.org/10.2302/kjm.2024-0021-RE)　[PMID 40175132](https://pubmed.ncbi.nlm.nih.gov/40175132/)（区分 UNKNOWN）
+- 出典：Seki T, Kobayashi Y, Masuda K, et al. Exploring Breast Cancer Risk Management in HBOC Patients: Image Surveillance Versus Risk-reducing Surgery. Keio J Med. 2025;74(3):130-137.　[DOI 10.2302/kjm.2024-0021-RE](https://doi.org/10.2302/kjm.2024-0021-RE)　[PMID 40175132](https://pubmed.ncbi.nlm.nih.gov/40175132/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-11-B-④（遺伝性乳癌卵巣癌症候群、c）　コアカリ：PS-02-13-05 (id: JkxnuSs)；TBL-01-00-665 (id: JlvnmeQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BR-009&card_id=BR-009&version=529682faa7)　（版 `529682faa7`）
 
@@ -172,7 +172,7 @@
 
 - 条件：region: 国際／population: 乳房腫大や乳房腫瘤を呈する男性
 - 不確実性：約1%という数値は出典の本文で確認した。出典は2008年の臨床レビューであり、男性乳癌の薬物療法など治療の最新状況は扱っていない。薬剤性の女性化乳房の個別の薬剤名は確認範囲を超えるため主張に挙げていない。出典のライセンス表示は確認できなかった。
-- 出典：Niewoehner CB, Schorer AE. Gynaecomastia and breast cancer in men. BMJ. 2008;336(7646):709-713.　[DOI 10.1136/bmj.39511.493391.BE](https://doi.org/10.1136/bmj.39511.493391.BE)　[PMID 18369226](https://pubmed.ncbi.nlm.nih.gov/18369226/)（区分 UNKNOWN）
+- 出典：Niewoehner CB, Schorer AE. Gynaecomastia and breast cancer in men. BMJ. 2008;336(7646):709-713.　[DOI 10.1136/bmj.39511.493391.BE](https://doi.org/10.1136/bmj.39511.493391.BE)　[PMID 18369226](https://pubmed.ncbi.nlm.nih.gov/18369226/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-11-B-①（乳癌、a）　コアカリ：PS-02-13-05 (id: JkxnuSs)；TBL-01-00-665 (id: JlvnmeQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BR-014&card_id=BR-014&version=e9d2bd629d)　（版 `e9d2bd629d`）
 
@@ -220,7 +220,7 @@
 
 - 条件：region: 海外（国際的なメタ解析）／study: メタ解析（2009〜2020年に発表された44研究、生検で診断された乳管内乳頭腫7,016例の統合）
 - 不確実性：数値は抄録で確認した統合値であり、日本の患者集団でのアップグレード率は本出典では確認していない。中枢型と末梢型の定義の詳細は抄録の範囲では確認できなかった（末梢型が予測因子であることは確認した）。薬剤名は含まない。
-- 出典：Zhang X, Liu W, Hai T, Li F. Upgrade Rate and Predictive Factors for Breast Benign Intraductal Papilloma Diagnosed at Biopsy: A Meta-Analysis. Ann Surg Oncol. 2021;28(13):8643-8650.　[DOI 10.1245/s10434-021-10188-7](https://doi.org/10.1245/s10434-021-10188-7)　[PMID 34331160](https://pubmed.ncbi.nlm.nih.gov/34331160/)（区分 UNKNOWN）
+- 出典：Zhang X, Liu W, Hai T, Li F. Upgrade Rate and Predictive Factors for Breast Benign Intraductal Papilloma Diagnosed at Biopsy: A Meta-Analysis. Ann Surg Oncol. 2021;28(13):8643-8650.　[DOI 10.1245/s10434-021-10188-7](https://doi.org/10.1245/s10434-021-10188-7)　[PMID 34331160](https://pubmed.ncbi.nlm.nih.gov/34331160/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-11-B-②（乳管内乳頭腫、c）　コアカリ：PS-02-13-05 (id: JkxnuSs)；TBL-01-00-454 (id: JlvnmJ8)；TBL-02-12-004 (id: JlAKprY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BR-017&card_id=BR-017&version=3bb2f3f446)　（版 `3bb2f3f446`）
 
@@ -252,7 +252,7 @@
 
 - 条件：region: 米国（画像診断の総説）／study: 画像所見と病理の対応に関する総説
 - 不確実性：元のカードにあった性ホルモン変動との関連や乳房痛の頻度は、本出典の抄録の範囲では確認できなかったため含めていない。薬剤名は含まない。
-- 出典：Bennett DL, Buckley A, Lee MV. Fibrocystic Change. Radiol Clin North Am. 2024;62(4):581-592.　[DOI 10.1016/j.rcl.2023.12.008](https://doi.org/10.1016/j.rcl.2023.12.008)　[PMID 38777535](https://pubmed.ncbi.nlm.nih.gov/38777535/)（区分 UNKNOWN）
+- 出典：Bennett DL, Buckley A, Lee MV. Fibrocystic Change. Radiol Clin North Am. 2024;62(4):581-592.　[DOI 10.1016/j.rcl.2023.12.008](https://doi.org/10.1016/j.rcl.2023.12.008)　[PMID 38777535](https://pubmed.ncbi.nlm.nih.gov/38777535/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-11-C-①（乳腺症、b）　コアカリ：PS-02-13-05 (id: JkxnuSs)；TBL-01-00-454 (id: JlvnmJ8)；TBL-01-00-667 (id: Jlvnmec)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BR-019&card_id=BR-019&version=2de017045a)　（版 `2de017045a`）
 

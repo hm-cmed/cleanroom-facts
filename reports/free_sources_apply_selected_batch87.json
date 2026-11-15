@@ -1,0 +1,25 @@
+{
+ "class": [
+  [
+   "SRC-3522",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-3525",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [],
+ "B": [
+  "CG-001",
+  "CG-002",
+  "CG-003",
+  "CG-004",
+  "CG-005",
+  "CG-006",
+  "CG-010"
+ ],
+ "new_src": []
+}

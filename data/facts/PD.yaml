@@ -53,7 +53,7 @@
     source_license: © 2021 ACOG
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ88 2026-11-15）：Braverman-Poyastro A, Suárez-Rico BV, Borboa-Olivares H, Espino Y Sosa S, Torres-Torres J, Arce-Sánchez L, Martínez-Cruz N, Reyes-Muñoz E. Antepartum Fetal Surveillance and Optimal Timing of Delivery in Diabetic Women: A Narrative Review. J Clin Med. 2024;13(2):313（PMID: 38256447、DOI: 10.3390/jcm13020313、PMCID: PMC10816876、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：分娩前胎児サーベイランスが死産リスクの低減を目的とすること（候補は糖尿病妊婦を対象とする総説だが、手法の枠組みは一般形で述べられる）、NST・CST・BPS と子宮動脈・臍帯動脈を含むドプラ超音波を組み合わせて胎児の状態を評価する方法論、BPS が NST を含む5項目・各2点の合計スコアで構成されることを再掲する。数値の照合：BPS の分類は候補では羊水ポケット（MVP）で細分する形で示される（正常は10点、または MVP 2cm超で8点／equivocal は MVP 2cm以下で8点、または MVP 2cm超で6点／異常は MVP 2cm以下で6点、または4点／高度異常は2点以下）。カードの ACOG 式の単純化した閾値（8〜10が正常、6が equivocal、4以下が異常）とは骨格は整合するが同一の切り分けではなく、NST の reactive 基準（20分間に2回以上の acceleration）は候補に再掲がない。裏づけ登録時に候補の細分値をカードの閾値の裏づけとして使わないこと。留保：主出典は Obstet Gynecol（Wolters Kluwer）の ACOG 著作（© 2021 ACOG）で、Europe PMC で非OA・PMC 未収載、Crossref にライセンス登録はなく、現行 RESTRICTED が正しいことを個別確認した。マスターの pmid は null で、カード側に既記の PMID 34011889 を補完候補とした（識別子補完候補の節参照）'
   uncertainty: ACOG Practice Bulletin No. 229（2021年）の抄録で確認した範囲に限る。個別の母体疾患・胎児疾患ごとのサーベイランス開始時期と頻度の詳細は本文未照合のため主張に入れていない。個別の胎児機能不全への適用は第48回 FT が正
   curriculum:
     kokushi: null
@@ -68,6 +68,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ88 2026-11-15）。三原の承認（2026-11-11）による
 - id: PD-003
   domain: PD
   subdomain: 胎児評価法の方法論総論（NST・CTG・BPS）
@@ -123,7 +126,7 @@
     source_license: © 2015 American Heart Association
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ88 2026-11-15）：Sarella A, Tzela P, Giaxi P, Sarantou D, Bothou A, Gourounti K. Safety Considerations and Knowledge Gaps in Maternal Cardiopulmonary Resuscitation: A Systematic Review of Healthcare Professionals'' Preparedness. Cureus. 2025;17(8):e89683（PMID: 40926909、DOI: 10.7759/cureus.89683、PMCID: PMC12416222、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：妊娠子宮による大動脈・下大静脈の圧迫（aortocaval compression）を前提に、標準的な CPR の修正点として用手的な子宮左方転位と早期の気道確保が挙げられること、自己心拍再開が得られない場合は心停止から4分で蘇生子宮切開（perimortem cesarean delivery）に着手し5分までの娩出を目標とする枠組みが、AHA を含む国際ガイドラインで一致していることを再掲する。数値の照合：4分・5分の値は候補と一致する（候補は RCOG Green-top Guideline No. 56 を主たる帰属として示し、AHA・ERC を含む国際ガイドラインの一致として述べる）。ただし除細動のエネルギー量と蘇生薬剤が非妊婦と同様である点は、候補では医療者の知識調査の結果（麻酔科医の91.3%が非妊婦と同一の除細動を選択した）として触れられるにとどまり、推奨としての再掲はない。「搬送せず蘇生を行っている現場で実施する」点も候補に直接の再掲はなく、裏づけは子宮左方転位・気道確保・蘇生子宮切開の時期の範囲にとどまる。留保：主出典は Circulation（American Heart Association）の科学ステートメントで、Europe PMC で非OA・PMC 未収載、Crossref にライセンス登録はなく、現行 RESTRICTED が正しいことを個別確認した。後継の AHA ステートメントは確認できなかった。マスターの pmid は null で、カード側に既記の PMID 26443610 を補完候補とした（識別子補完候補の節参照）'
   uncertainty: 米国心臓協会の科学ステートメント（2015年）に基づく母体心停止への初期対応の枠組みに限る。個別の薬剤名は主張に含めておらず、国内の母体救命システムの体制の詳細は本カードの対象外
   curriculum:
     kokushi: null
@@ -138,6 +141,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ88 2026-11-15）。三原の承認（2026-11-11）による
 - id: PD-005
   domain: PD
   subdomain: 母体搬送・新生児搬送
@@ -228,7 +234,7 @@
     source_license: © 2020 ACOG
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ88 2026-11-15）：Weise A, Liehr T. Non-invasive prenatal testing – new possibilities on the horizon and old problems. Medizinische Genetik. 2026;38(4):295-303（PMID: 42992050、DOI: 10.1515/medgen-2026-3028、PMCID: PMC13737859、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：母体血中の cell-free DNA を用いる検査（NIPT）が診断ではなくスクリーニングの方法であること、スクリーニングで可能性が示された場合は絨毛検査や羊水検査などの診断的検査による確定が必要であること、偽陽性が生じ、確定のための侵襲的検査を要しうることを再掲する。数値の照合：数値の主張なし（枠組みのカード）。「全ての妊婦に対して年齢やリスクにかかわらずスクリーニング検査と診断的検査の双方の選択肢を提示すべき」と「cell-free DNA 検査が一般的な染色体異数性に対するスクリーニングの中で最も感度・特異度が高い」の2要素は候補に再掲がない。候補が示す PPV 等の値はカードの主張とは別の指標であり、裏づけには用いていない。留保：主出典は Obstet Gynecol（Wolters Kluwer）の ACOG 著作（© 2020 ACOG）で、Europe PMC で非OA・PMC 未収載、Crossref にライセンス登録はなく、現行 RESTRICTED が正しいことを個別確認した。マスターの pmid は null で、カード側に既記の PMID 32804883 を補完候補とした（識別子補完候補の節参照）'
   uncertainty: ACOG Practice Bulletin No. 226（2020年）に基づく検査体系の総論に限る。国内の実施体制と認証制度は PD-008 が正で、個別の染色体異常の内容は CG のカードに委ねる
   curriculum:
     kokushi: null
@@ -243,6 +249,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ88 2026-11-15）。三原の承認（2026-11-11）による
 - id: PD-008
   domain: PD
   subdomain: 出生前診断・胎児スクリーニングの総論（NIPT を含む）
@@ -330,9 +339,9 @@
     pmid: '26681211'
     pmcid: null
     url: https://doi.org/10.1111/1471-0528.13526
-    source_license: CC 表示なし
+    source_license: CC BY 3.0 IGO
     legal_basis: B
-    source_class: RESTRICTED
+    source_class: OPEN
     corroboration: null
   uncertainty: WHO 声明の BJOG 掲載版（2016年）に基づく集団レベルの総論に限る。個々の妊婦の適応判断は各疾患・病態のカードに委ねる
   curriculum:
@@ -348,6 +357,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3538 の区分の訂正にあわせて provenance.source_class を RESTRICTED から OPEN にした。三原の承認（2026-11-11）による
 - id: PD-011
   domain: PD
   subdomain: 帝王切開の適応と麻酔の総論

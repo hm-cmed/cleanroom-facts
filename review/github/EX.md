@@ -1,6 +1,6 @@
 # EX 内分泌・代謝の症候・検査・治療（横断） の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-14
+[← 一覧に戻る](README.md)　更新：2026-11-15
 
 全 14 件のうち、監修済み 0 件。
 
@@ -28,7 +28,7 @@
 
 - 条件：region: 国際／study: 低張性多尿の成人を対象とした前向き多施設診断研究（2018年、11施設、144人）
 - 不確実性：コペプチン測定は国内のすべての施設で実施できるわけではなく、保険適用の状況は本調査では確認していない。数値は抄録とその報道で確認した範囲。
-- 出典：Fenske W, Refardt J, Chifu I, Schnyder I, Winzeler B, Drummond J, Ribeiro-Oliveira A Jr, Drescher T, Bilz S, Vogt DR, Malzahn U, Kroiss M, Christ E, Henzen C, Fischli S, Tönjes A, Mueller B, Schopohl J, Flitsch J, Brabant G, Fassnacht M, Christ-Crain M. A Copeptin-Based Approach in the Diagnosis of Diabetes Insipidus. N Engl J Med. 2018;379(5):428-439　[DOI 10.1056/NEJMoa1803760](https://doi.org/10.1056/NEJMoa1803760)　[PMID 30067922](https://pubmed.ncbi.nlm.nih.gov/30067922/)（区分 UNKNOWN）
+- 出典：Fenske W, Refardt J, Chifu I, Schnyder I, Winzeler B, Drummond J, Ribeiro-Oliveira A Jr, Drescher T, Bilz S, Vogt DR, Malzahn U, Kroiss M, Christ E, Henzen C, Fischli S, Tönjes A, Mueller B, Schopohl J, Flitsch J, Brabant G, Fassnacht M, Christ-Crain M. A Copeptin-Based Approach in the Diagnosis of Diabetes Insipidus. N Engl J Med. 2018;379(5):428-439　[DOI 10.1056/NEJMoa1803760](https://doi.org/10.1056/NEJMoa1803760)　[PMID 30067922](https://pubmed.ncbi.nlm.nih.gov/30067922/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-B-⑦（中枢性尿崩症、b）；医学各論 Ⅷ-2-C-③（腎性尿崩症、c）　コアカリ：PS-02-14-02 (id: JkxnuS0)；TBL-02-13-015 (id: JlAKps0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-002&card_id=EX-002&version=95ccce2b12)　（版 `95ccce2b12`）
 
@@ -44,7 +44,7 @@
 
 - 条件：region: 米国／study: 65歳超の意図しない体重減少を対象とした総説（2021年）
 - 不確実性：この出典には DOI が付与されていない（PubMed と誌面で確認）。対象は高齢者で、若年者では原因の内訳が異なりうる。割合は抄録に示された範囲。
-- 出典：Gaddey HL, Holder KK. Unintentional Weight Loss in Older Adults. Am Fam Physician. 2021;104(1):34-40　[PMID 34264616](https://pubmed.ncbi.nlm.nih.gov/34264616/)（区分 UNKNOWN）
+- 出典：Gaddey HL, Holder KK. Unintentional Weight Loss in Older Adults. Am Fam Physician. 2021;104(1):34-40　[PMID 34264616](https://pubmed.ncbi.nlm.nih.gov/34264616/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-14-02 (id: JkxnuS0)；TBL-02-13-010 (id: JlAKpsg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-003&card_id=EX-003&version=63460ccd98)　（版 `63460ccd98`）
 
@@ -60,7 +60,7 @@
 
 - 条件：region: 国際／study: 成人の肥満の背景原因を探す診断アプローチの総説（2019年）
 - 不確実性：本文は PMC で公開されているが、CC ライセンスの表示を本文中で確認できなかったため source_class は UNKNOWN とした。対象は成人で、小児の二次性肥満の評価とは異なる。 本カードに名前の出る薬剤（糖質コルチコイド等）の国内の承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】糖質コルチコイドは長期に承認されている医療用医薬品であり、「承認・保険適用は未確認」は解消できる
-- 出典：van der Valk ES, van den Akker ELT, Savas M, Kleinendorst L, Visser JA, Van Haelst MM, Sharma AM, van Rossum EFC. A comprehensive diagnostic approach to detect underlying causes of obesity in adults. Obes Rev. 2019;20(6):795-804　[DOI 10.1111/obr.12836](https://doi.org/10.1111/obr.12836)　[PMID 30821060](https://pubmed.ncbi.nlm.nih.gov/30821060/)（区分 UNKNOWN）
+- 出典：van der Valk ES, van den Akker ELT, Savas M, Kleinendorst L, Visser JA, Van Haelst MM, Sharma AM, van Rossum EFC. A comprehensive diagnostic approach to detect underlying causes of obesity in adults. Obes Rev. 2019;20(6):795-804　[DOI 10.1111/obr.12836](https://doi.org/10.1111/obr.12836)　[PMID 30821060](https://pubmed.ncbi.nlm.nih.gov/30821060/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-14-02 (id: JkxnuS0)；TBL-02-13-011 (id: JlAKpsk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-004&card_id=EX-004&version=e0dd87d2b4)　（版 `e0dd87d2b4`）
 
@@ -140,7 +140,7 @@
 
 - 条件：region: 米国／study: 高カルシウム血症クリーゼの臨床総説（2015年）
 - 不確実性：薬の注記：カルシトニンやビスホスホネート系薬などの国内承認・保険適用は、本カードでは個別の添付文書で確認していない（未確認）。クリーゼの定義（カルシウム値の基準）は文献により統一されておらず、本カードでは特定の数値基準を採用していない。
-- 出典：Ahmad S, Kuraganti G, Steenkamp D. Hypercalcemic Crisis: A Clinical Review. Am J Med. 2015;128(3):239-245　[DOI 10.1016/j.amjmed.2014.09.030](https://doi.org/10.1016/j.amjmed.2014.09.030)　[PMID 25447624](https://pubmed.ncbi.nlm.nih.gov/25447624/)（区分 UNKNOWN）
+- 出典：Ahmad S, Kuraganti G, Steenkamp D. Hypercalcemic Crisis: A Clinical Review. Am J Med. 2015;128(3):239-245　[DOI 10.1016/j.amjmed.2014.09.030](https://doi.org/10.1016/j.amjmed.2014.09.030)　[PMID 25447624](https://pubmed.ncbi.nlm.nih.gov/25447624/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-3-A-①（副甲状腺<上皮小体>機能亢進症、b）；医学各論 Ⅹ-3-B-③（悪性腫瘍に伴う高カルシウム血症、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-009&card_id=EX-009&version=deaebd32ae)　（版 `deaebd32ae`）
 
@@ -188,7 +188,7 @@
 
 - 条件：region: 国際／study: 低ナトリウム血症の診断・評価・治療に関する専門家パネルの勧告（2013年）を中心とする総論
 - 不確実性：この出典は低ナトリウム血症が中心で、カリウムやカルシウムの異常の詳細な手順は各論の出典（副腎・副甲状腺のガイドライン）に委ねる。本カードは対応づけの原則を示す総論として作成した。
-- 出典：Verbalis JG, Goldsmith SR, Greenberg A, Korzelius C, Schrier RW, Sterns RH, Thompson CJ. Diagnosis, Evaluation, and Treatment of Hyponatremia: Expert Panel Recommendations. Am J Med. 2013;126(10 Suppl 1):S1-S42　[DOI 10.1016/j.amjmed.2013.07.006](https://doi.org/10.1016/j.amjmed.2013.07.006)　[PMID 24074529](https://pubmed.ncbi.nlm.nih.gov/24074529/)（区分 UNKNOWN）
+- 出典：Verbalis JG, Goldsmith SR, Greenberg A, Korzelius C, Schrier RW, Sterns RH, Thompson CJ. Diagnosis, Evaluation, and Treatment of Hyponatremia: Expert Panel Recommendations. Am J Med. 2013;126(10 Suppl 1):S1-S42　[DOI 10.1016/j.amjmed.2013.07.006](https://doi.org/10.1016/j.amjmed.2013.07.006)　[PMID 24074529](https://pubmed.ncbi.nlm.nih.gov/24074529/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-012&card_id=EX-012&version=92818e1121)　（版 `92818e1121`）
 
@@ -204,7 +204,7 @@
 
 - 条件：region: 国際／study: 副腎不全患者の周術期グルココルチコイド管理ガイドライン（英国、2020年）
 - 不確実性：薬の注記：ヒドロコルチゾン等の国内承認・保険適用は、本カードでは個別の添付文書で確認していない（未確認）。出典は副腎不全とステロイド使用患者が中心で、甲状腺や糖尿病の周術期管理の詳細は各論に委ねる。具体的なストレス量の段階表はガイドライン本文の表に依存し、抄録で確認できた範囲を超える用量は書いていない。
-- 出典：Woodcock T, Barker P, Daniel S, et al. Guidelines for the management of glucocorticoids during the peri-operative period for patients with adrenal insufficiency: Guidelines from the Association of Anaesthetists, the Royal College of Physicians and the Society for Endocrinology UK. Anaesthesia. 2020;75(5):654-663　[DOI 10.1111/anae.14963](https://doi.org/10.1111/anae.14963)　[PMID 32017012](https://pubmed.ncbi.nlm.nih.gov/32017012/)（区分 UNKNOWN）
+- 出典：Woodcock T, Barker P, Daniel S, et al. Guidelines for the management of glucocorticoids during the peri-operative period for patients with adrenal insufficiency: Guidelines from the Association of Anaesthetists, the Royal College of Physicians and the Society for Endocrinology UK. Anaesthesia. 2020;75(5):654-663　[DOI 10.1111/anae.14963](https://doi.org/10.1111/anae.14963)　[PMID 32017012](https://pubmed.ncbi.nlm.nih.gov/32017012/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-4-A-③（慢性副腎不全<Addison病>、a）；医学各論 Ⅹ-4-A-⑤（医原性副腎皮質機能低下症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EX-013&card_id=EX-013&version=f8890713d6)　（版 `f8890713d6`）
 

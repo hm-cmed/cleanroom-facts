@@ -18,7 +18,7 @@
     source_license: CC BY-NC-SA 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）：Trandafir AI, Carsote M. Dexamethasone Suppression Testing in Patients with Adrenal Incidentalomas with/Without Mild Autonomous Cortisol Secretion: Spectrum of Cortisol Cutoffs and Additional Assays (An Updated Analysis). Biomedicines. 2025;13(9):2169（PMID: 41007734、DOI: 10.3390/biomedicines13092169、PMCID: PMC12467119、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：デキサメタゾン抑制試験後のコルチゾールが1.8 µg/dL以下なら正常に抑制された状態であり、1.8 µg/dLを超えれば陽性で内因性クッシング症候群（または軽度の自律性コルチゾール分泌）を示唆することを再掲する。数値の照合：カットオフ1.8 µg/dLはカードの値と一致する。カードが併記する50 nmol/Lの換算値は候補に記載なし。留保：候補は副腎偶発腫を対象とする一晩法（1 mg）の検討であり、カードの例（クッシング症候群に対する48時間低用量法）とはプロトコルと対象が異なる。カットオフ値そのものは共通だが、裏づけ登録時はこの違いを区別すること。末梢ホルモンと調節ホルモンを対にして読む原則、刺激試験と抑制試験の使い分け、日内変動・CYP3A4誘導薬・結合蛋白による偽の結果への注意は再掲なし。主出典は CC BY-NC-SA 4.0（PMC全文と Europe PMC で確認）で現行の RESTRICTED が正しい（訂正対象外）'
   uncertainty: この出典は副腎と性腺の負荷試験が中心で、甲状腺や副甲状腺など他の軸の負荷試験の手順までは扱っていない。数値は出典の表に示された解釈基準を読み取ったもの。 本カードに名前の出る薬剤（デキサメタゾン等）の国内の承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】デキサメタゾンは国内承認薬であり、抑制試験等の負荷試験は保険診療で実施される標準的検査である（PMDA添付文書情報、2026-10-31確認）
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-02-13-017 (id: JlAKps8)；TBL-02-13-018 (id: JlAKptA)；TBL-02-13-002 (id: JlAKpsA)'
@@ -36,6 +36,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）。三原の承認（2026-11-11）による
 - id: EX-002
   domain: EX
   subdomain: 口渇・多尿の評価
@@ -55,8 +58,8 @@
     url: https://doi.org/10.1056/NEJMoa1803760
     source_license: © Massachusetts Medical Society（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）：Atila C, Refardt J, Christ-Crain M. Arginine Vasopressin Deficiency and Oxytocin Deficiency in the Endocrine Clinic. J Clin Endocrinol Metab. 2026;111(4):922-937（PMID: 41363127、DOI: 10.1210/clinem/dgaf651、PMCID: PMC13017940、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：低張性多尿の評価が中枢性（AVP欠乏）・腎性（AVP抵抗性）・心因性多飲（原発性多飲）の3者の鑑別を中心とすること、高張食塩水で刺激したコペプチンのカットオフ（4.9 pmol/L超）で原発性多飲とAVP欠乏を鑑別できること、刺激なしの基礎コペプチン高値（21.4 pmol/L超）がAVP抵抗性の識別に使えることを再掲する。数値の照合：カットオフ4.9 pmol/Lはカードと一致する。診断精度は候補が範囲で示し、水制限試験70〜77%（カード76.6%は範囲内）、高張食塩水刺激コペプチン96〜97%（カード96.5%は範囲内）であり、単一の値としての再掲ではない。前向き多施設研究の規模（144人・11施設）は再掲なし。留保：候補は主出典の研究（Fenske 2018）を含む複数の前向き研究を引いて精度を範囲で述べる。裏づけ登録時は候補の範囲表記を用い、カードの単一値（76.6%・96.5%）の裏づけとしては範囲内である旨を明記すること。主出典は Crossref の刊行版ライセンスが NEJM の利用規約のみで非OA、RESTRICTED への訂正対象（D）'
   uncertainty: コペプチン測定は国内のすべての施設で実施できるわけではなく、保険適用の状況は本調査では確認していない。数値は抄録とその報道で確認した範囲。
   curriculum:
     core_curriculum: 'PS-02-14-02 (id: JkxnuS0)；TBL-02-13-015 (id: JlAKps0)'
@@ -74,6 +77,12 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-1-B-⑦（中枢性尿崩症、b）；医学各論 Ⅷ-2-C-③（腎性尿崩症、c）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1047 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）。三原の承認（2026-11-11）による
 - id: EX-003
   domain: EX
   subdomain: 体重減少の評価（内分泌の視点）
@@ -93,8 +102,8 @@
     url: https://pubmed.ncbi.nlm.nih.gov/34264616/
     source_license: © 2021 American Academy of Family Physicians
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）：Bosch X, Monclús E, Escoda O, Guerra-García M, Moreno P, Guasch N, López-Soto A. Unintentional weight loss: Clinical characteristics and outcomes in a prospective cohort of 2677 patients. PLoS One. 2017;12(4):e0175125（PMID: 28388637、DOI: 10.1371/journal.pone.0175125、PMCID: PMC5384681、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：前向きコホート2,677人で、悪性疾患が原因の33%を占め、非悪性の器質性疾患37%と心理社会的要因16%を合わせた非悪性が悪性を上回ること、内分泌疾患の中では甲状腺中毒症（内分泌疾患の46%）と糖尿病（同39%）が中心であることを再掲する。数値の照合：悪性33%はカードの「最大で約3分の1」と一致する。原因不明は候補では当初原因不明14%という単一コホートの値で、カードの範囲（6〜28%）そのものの再掲ではない。留保：甲状腺機能検査を基本検査に含める手順、食欲の有無による内分泌原因の絞り込み、副腎不全の位置づけは再掲なし。候補は高齢者に限定したコホートではなく全年齢の前向きコホートである点にも留意。主出典は © American Academy of Family Physicians で非OA（DOI自体が付与されていないことも個別照会で再確認）、RESTRICTED への訂正対象（D）'
   uncertainty: この出典には DOI が付与されていない（PubMed と誌面で確認）。対象は高齢者で、若年者では原因の内訳が異なりうる。割合は抄録に示された範囲。
   curriculum:
     core_curriculum: 'PS-02-14-02 (id: JkxnuS0)；TBL-02-13-010 (id: JlAKpsg)'
@@ -109,6 +118,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1048 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）。三原の承認（2026-11-11）による
 - id: EX-004
   domain: EX
   subdomain: 体重増加の評価（内分泌の視点）
@@ -128,8 +143,8 @@
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6850662/
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）：Martino MC, Canu L, Bonaventura I, Vitiello C, Sparano C, Cozzolino A. Hypertension and Cushing''s syndrome: hunt for the red flag. J Endocrinol Invest. 2025;48(8):1909-1918（PMID: 40100572、DOI: 10.1007/s40618-024-02453-9、PMCID: PMC12313784、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：クッシング症候群を疑う根拠となる特異的な所見として、あざができやすいこと（easy bruising）、顔の紅潮（facial plethora）、近位筋障害・近位筋力低下、幅の広い赤紫色の皮膚線条（wide violaceous striae）を挙げることを再掲する。数値の照合：数値の主張なし。留保：薬剤性と生活習慣を先に確認する順序、甲状腺機能低下症による体重増加は軽度で主としてむくみの分であること、肥満そのもので TSH が軽く上がることは再掲なし。主出典は刊行版が CC BY-NC-ND 4.0（Crossref の刊行版データと PMC 全文のライセンス表示で確認）であり自由ではない。マスターの license_note「ライセンス表示を確認できず」は実態と異なるため、あわせて注記の更新を提案する。RESTRICTED への訂正対象（D）'
   uncertainty: 本文は PMC で公開されているが、CC ライセンスの表示を本文中で確認できなかったため source_class は UNKNOWN とした。対象は成人で、小児の二次性肥満の評価とは異なる。 本カードに名前の出る薬剤（糖質コルチコイド等）の国内の承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】糖質コルチコイドは長期に承認されている医療用医薬品であり、「承認・保険適用は未確認」は解消できる
   curriculum:
     core_curriculum: 'PS-02-14-02 (id: JkxnuS0)；TBL-02-13-011 (id: JlAKpsk)'
@@ -147,6 +162,12 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1049 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）。三原の承認（2026-11-11）による
 - id: EX-005
   domain: EX
   subdomain: 甲状腺腫の評価
@@ -167,7 +188,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）：Durante C, Hegedüs L, Czarniecka A, Paschke R, Russ G, Schmitt F, Soares P, Solymosi T, Papini E. 2023 European Thyroid Association Clinical Practice Guidelines for thyroid nodule management. Eur Thyroid J. 2023;12(5):e230067（PMID: 37358008、DOI: 10.1530/ETJ-23-0067、PMCID: PMC10448590、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：初期評価が病歴（個人・家族歴）・身体診察・甲状腺機能検査・頸部超音波の組み合わせであること、TSH が抑制されている場合に機能性（熱）結節の診断のためシンチグラフィを行うこと、悪性の判定に穿刺吸引細胞診へ進む経路、胸骨下への進展が疑われる場合に頸部・上縦隔の CT を行うことを再掲する。数値の照合：数値の主張なし。留保：候補は結節性甲状腺疾患のガイドラインであり、びまん性腫大そのものの扱いは限られる。気道圧迫時の MRI への言及は候補になし（CT のみ）。主出典は Crossref・Unpaywall にライセンス登録がなく PMC 版も OA サブセット外だが、マスター記載の CC BY-NC-ND 4.0（同誌の標準ライセンス）と整合し、現行の RESTRICTED が正しい（訂正対象外）'
   uncertainty: 出典はヨウ素欠乏のある地域を含む欧州の総説で、ヨウ素充足の日本では甲状腺腫の原因の内訳が異なりうる。
   curriculum:
     core_curriculum: 'PS-02-14-02 (id: JkxnuS0)；TBL-02-13-014 (id: JlAKpsw)'
@@ -182,6 +203,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）。三原の承認（2026-11-11）による
 - id: EX-006
   domain: EX
   subdomain: 副腎クリーゼの初期対応
@@ -202,7 +226,7 @@
     source_license: 学会ガイドライン（CC 表示を確認できず）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）：Shaikh S, Nagendra L, Shaikh S, Pappachan JM. Adrenal Failure: An Evidence-Based Diagnostic Approach. Diagnostics (Basel). 2023;13(10):1812（PMID: 37238296、DOI: 10.3390/diagnostics13101812、PMCID: PMC10217071、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：原発性副腎不全を示す症状・所見のある患者、とくに急性に具合の悪い患者では治療を遅らせるべきではなく、診断用のベースライン採血をしたうえで、検査結果を待つ間に糖質コルチコイド投与と速やかな輸液を遅滞なく始めること、確認試験として短時間コルチコトロピン（シナクテン）刺激試験250 µg を用いることを再掲する。数値の照合：刺激試験の用量250 µgはカード・主出典と一致する。留保：ヒドロコルチゾンのストレス量の具体的な投与量、低血糖・電解質異常の是正、引き金（感染症など）の治療の並行実施は再掲なし。主出典の PMC 版の著作権表示は「© 2016 by the Endocrine Society」で CC 表示はなく、現行の RESTRICTED が正しい（訂正対象外）。なお Unpaywall は刊行版を CC BY-NC-ND と記録するが、PMC 版・Crossref では確認できず、区分に影響しない範囲で license_note の精緻化候補として申し送る'
   uncertainty: 薬の注記：ヒドロコルチゾン注射薬は国内で承認・保険収載されている薬剤だが、本カードでは個別の添付文書による確認は行っていない（未確認）。クリーゼ時の具体的な投与量の段階付けはガイドライン本文の表に依存し、抄録で確認できた範囲を超える用量は書いていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)'
@@ -220,6 +244,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-4-A-④（急性副腎不全、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）。三原の承認（2026-11-11）による
 - id: EX-007
   domain: EX
   subdomain: 甲状腺クリーゼの初期対応
@@ -315,8 +342,8 @@
     url: https://doi.org/10.1016/j.amjmed.2014.09.030
     source_license: ライセンス表示を確認できず（Elsevier）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）：Martin M, Heim C, Mueller M, Mohaupt M. Gestational hypercalcemia: a narrative review of literature. Front Med (Lausanne). 2026;13:1909975（PMID: 42707509、DOI: 10.3389/fmed.2026.1909975、PMCID: PMC13548397、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：脱水の是正と利尿の促進により尿中へのカルシウム排泄を促すことが治療の柱であること、サイアザイド系利尿薬は避ける（中止する）こと、骨吸収を抑える薬としてカルシトニンやビスホスホネートが選択肢となること、原発性副甲状腺機能亢進症が最も多い原因であり副甲状腺摘出が根治的治療であることを再掲する。数値の照合：数値の主張なし（カードはクリーゼの数値基準を採用していない）。留保：候補は妊娠中の高カルシウム血症を対象とする総説であり、一般論としての管理原則の再掲にとどまる。「長く軽いまま経過していた原発性副甲状腺機能亢進症に起こることが多い」という経過の枠組みと、早く気づけば転帰がよいという点は再掲なし。主出典は Crossref のライセンスがテキストマイニング用のみで非OA、RESTRICTED への訂正対象（D）'
   uncertainty: 薬の注記：カルシトニンやビスホスホネート系薬などの国内承認・保険適用は、本カードでは個別の添付文書で確認していない（未確認）。クリーゼの定義（カルシウム値の基準）は文献により統一されておらず、本カードでは特定の数値基準を採用していない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)'
@@ -334,6 +361,12 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-3-A-①（副甲状腺<上皮小体>機能亢進症、b）；医学各論 Ⅹ-3-B-③（悪性腫瘍に伴う高カルシウム血症、b）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1054 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）。三原の承認（2026-11-11）による
 - id: EX-010
   domain: EX
   subdomain: 重症低血糖の初期対応
@@ -354,7 +387,7 @@
     source_license: © The Endocrine Society
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）：La Sala L, Pontiroli AE. New Fast Acting Glucagon for Recovery from Hypoglycemia, a Life-Threatening Situation: Nasal Powder and Injected Stable Solutions. Int J Mol Sci. 2021;22(19):10643（PMID: 34638984、DOI: 10.3390/ijms221910643、PMCID: PMC8508740、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：重症低血糖が「患者が意識を失い、他者の助けを要する状態」と定義されること、従来のグルカゴン緊急キットは用時溶解（再構成）が必要であるのに対し、点鼻粉末や安定化液剤の製剤は再構成が不要で速やかに使えることを再掲する。数値の照合：数値の主張なし。留保：主出典（Endocrine Society 2023年ガイドライン）の「再構成不要の製剤を優先する強い推奨」そのものは候補に再掲がなく、裏づけは定義と製剤の性質の範囲にとどまる。意識があり飲み込める場合の速効性糖質による対応、原因薬の見直しと再発予防も再掲なし。主出典は Crossref の刊行版ライセンスが出版社の標準再利用条件（CC ではない）で非OA、現行の RESTRICTED が正しい（訂正対象外）'
   uncertainty: 薬の注記：グルカゴン製剤（注射用・点鼻）やブドウ糖注射液の国内承認・保険適用と、製剤ごとの国内での発売状況は、本カードでは個別の添付文書で確認していない（未確認）。静脈内ブドウ糖の具体的な投与量は出典の抄録で確認できなかったため書いていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -372,6 +405,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-6-D-②（薬剤による低血糖、b）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）。三原の承認（2026-11-11）による
 - id: EX-011
   domain: EX
   subdomain: 日本の糖尿病・肥満の統計
@@ -429,8 +465,8 @@
     url: https://doi.org/10.1016/j.amjmed.2013.07.006
     source_license: ライセンス表示を確認できず（Elsevier）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）：Reddy P. Clinical Approach to Euvolemic Hyponatremia. Cureus. 2023;15(2):e35574（PMID: 37007374、DOI: 10.7759/cureus.35574、PMCID: PMC10063237、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：低ナトリウム血症の評価が体液量の状態による分類を前提とすること、SIAD（SIADH）と診断する前に顕性の甲状腺機能低下症と副腎不全を除外することが重要であることを再掲する。数値の照合：数値の主張なし。留保：電解質とホルモンの対応づけの総論的枠組み（水・ナトリウム＝バソプレシンと副腎、カリウム＝アルドステロン系、カルシウム・リン＝副甲状腺ホルモンとビタミンD）、低ナトリウム＋高カリウムは副腎不全、高血圧＋低カリウムはアルドステロン過剰という組み合わせの手がかりは再掲なし。候補は等容量性の低ナトリウム血症に限った総説である。主出典は Crossref のライセンスがテキストマイニング用のみで非OA、RESTRICTED への訂正対象（D）'
   uncertainty: この出典は低ナトリウム血症が中心で、カリウムやカルシウムの異常の詳細な手順は各論の出典（副腎・副甲状腺のガイドライン）に委ねる。本カードは対応づけの原則を示す総論として作成した。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)'
@@ -445,6 +481,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1057 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）。三原の承認（2026-11-11）による
 - id: EX-013
   domain: EX
   subdomain: 内分泌疾患の周術期管理（総論）
@@ -464,8 +506,8 @@
     url: https://pubmed.ncbi.nlm.nih.gov/32017012/
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）：Modha K, Whinney C. Risks and Management of Glucocorticoid Therapy for Patients with Rheumatic Disease Having Surgery. Curr Rheumatol Rep. 2026;28(1)（PMID: 42236615、DOI: 10.1007/s11926-026-01221-3、PMCID: PMC13233973、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：手術のストレスに対して通常量を増量する「ストレス量」補充の考え方、通常量を術前に止めた患者で原因不明の低血圧が生じた報告があること（補充を止めない原則の根拠）、主出典である英国2020年ガイドラインが中等度リスクの手技にヒドロコルチゾン100 mg を提案していること、HPA系抑制のリスクが用量と投与期間に依存することを再掲する。数値の照合：カードの閾値「プレドニゾロン換算1日5 mg以上を1か月以上」は候補に再掲なし。候補が引くヒドロコルチゾン100 mg は主出典由来の値で、カードは具体的な用量段階を主張していないため矛盾はない。留保：候補はリウマチ性疾患で糖質コルチコイドを使う患者の手術を対象とする総説であり、副腎不全そのもので補充中の患者の管理の詳細は主出典に委ねられる。主出典は刊行版が CC BY-NC-ND 4.0（Crossref の刊行版データ・Europe PMC・Unpaywall で確認）であり自由ではない。マスターの license_note「ライセンス表示を確認できず」は実態と異なるため、あわせて注記の更新を提案する。RESTRICTED への訂正対象（D）'
   uncertainty: 薬の注記：ヒドロコルチゾン等の国内承認・保険適用は、本カードでは個別の添付文書で確認していない（未確認）。出典は副腎不全とステロイド使用患者が中心で、甲状腺や糖尿病の周術期管理の詳細は各論に委ねる。具体的なストレス量の段階表はガイドライン本文の表に依存し、抄録で確認できた範囲を超える用量は書いていない。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)'
@@ -483,6 +525,12 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-4-A-③（慢性副腎不全<Addison病>、a）；医学各論 Ⅹ-4-A-⑤（医原性副腎皮質機能低下症、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1058 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）。三原の承認（2026-11-11）による
 - id: EX-014
   domain: EX
   subdomain: 二次性高血圧の評価（内分泌の視点）
@@ -503,7 +551,7 @@
     source_license: CC BY-NC-ND 4.0
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）：Balhara M, Owei L, Demko J, Wachtel H, Cohen JB. Primary Aldosteronism: Evaluation and Management in the Hypertensive Patient. Curr Hypertens Rep. 2026;28(1)（PMID: 42975752、DOI: 10.1007/s11906-026-01399-y、PMCID: PMC13731697、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：症例発見（スクリーニング）の対象として、治療抵抗性の高血圧、低カリウム血症を伴う高血圧、副腎偶発腫を伴う高血圧、閉塞性睡眠時無呼吸、若年発症の高血圧や早期の脳卒中、家族歴のある場合が挙げられること、スクリーニングには血漿アルドステロン／レニン比（ARR）を使うことを再掲する。数値の照合：主出典（2016年版）の具体的な血圧基準（別の日に測った3回とも150/100 mmHg超、降圧薬4剤以上でコントロール等）は候補に再掲なし。留保：候補は2025年版ガイドライン以降の広げられたスクリーニングの考え方を反映しており、カードの2016年版に基づく対象範囲より広い。裏づけ登録時は候補の範囲をカードの主張に読み替えないこと。「内分泌性の二次性高血圧で最も頻度が高い」という位置づけ自体の再掲も候補にはない。主出典は刊行版が CC BY-NC-ND 4.0（Crossref・Europe PMC で確認）で現行の RESTRICTED が正しい（訂正対象外）'
   uncertainty: ARR のカットオフや確認試験の手順は測定法に依存し、国内のガイドラインと異なる場合があるため、本カードでは具体的なカットオフ値を書いていない。褐色細胞腫やクッシング症候群の検査の詳細は各論に委ねる。
   curriculum:
     core_curriculum: 'PS-02-14-05 (id: JkxnuTA)；TBL-02-13-015 (id: JlAKps0)'
@@ -521,3 +569,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅹ-4-A-②（アルドステロン過剰症、原発性アルドステロン症、a）；医学各論 Ⅴ-7-B-③（内分泌性高血圧症、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ84 2026-11-15）。三原の承認（2026-11-11）による

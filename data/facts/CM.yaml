@@ -18,7 +18,7 @@
     source_license: CC表示なし（Elsevier 誌）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（GOV_US（CDC）／CC BY 4.0（OPEN）、作り手の調査バッチ90 2026-11-15）：CDC. Clinical Overview of Chlamydia pneumoniae Infection. Centers for Disease Control and Prevention（cdc.gov）／Wu T, Wang G, Xu N, Xu K, Chen G. Case Report: A cluster of cases with rash associated with Chlamydia pneumoniae infection. Front Med (Lausanne). 2026;13:1922611（PMID: －／42755900、DOI: －／10.3389/fmed.2026.1922611、PMCID: －／PMC13581956、https://www.cdc.gov/cpneumoniae/hcp/clinical-overview/index.html／https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：CDC の臨床家向けページは「呼吸器感染の大多数は無症状か軽症」「潜伏期は一般に3〜4週間」を再掲し、CDC の一般向けページは咳・倦怠感を含む症状が「数週間続くことがある」と述べる。Wu 2026 は序文で「市中肺炎の約10%を占める」を再掲する。気管支炎の約5%という割合、抗菌薬治療後も症状が続くという枠組み、「数か月」に及ぶ持続は再掲されない。数値の照合：市中肺炎の約10%は Wu 2026 と一致する。潜伏期はカードの約21日に対し CDC は3〜4週間で、カードの値はその下限に当たる。気管支炎の約5%は自由な全文で照合できなかった。留保：主出典の刊行版ライセンスは Crossref では Elsevier のテキストマイニング用ライセンスのみ、Europe PMC でも非 OA・PMC 未収載で、RESTRICTED は正しい。マスター・カードの PMID 20171546・DOI・巻ページは個別照会と一致した。Wu 2026 は症例報告集であり、割合は序文での再掲であって一次根拠ではない'
   uncertainty: 肺炎の診療そのものは呼吸器分野の範囲であり、本カードは病原体・疫学の側面に絞った。割合はいずれも推定値である。
   curriculum:
     kokushi: 医学各論 Ⅻ-2-A-①（クラミジア肺炎、a）
@@ -33,6 +33,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/35_if_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US（CDC）／CC BY 4.0（OPEN）、作り手の調査バッチ90 2026-11-15）。三原の承認（2026-11-11）による
 - id: CM-002
   domain: CM
   subdomain: マイコプラズマ肺炎
@@ -88,7 +91,7 @@
     source_license: CC表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ90 2026-11-15）：Wang R, Li N, Tian J, Zeng X. Clinical characteristics of Chlamydia psittaci pneumonia diagnosed by next-generation sequencing: An observational study. Medicine (Baltimore). 2026;105(39):e50850（PMID: 42798109、DOI: 10.1097/MD.0000000000050850、PMCID: PMC13619205、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補は主出典（2017年のメタ解析）を引用し、「C. psittaci は市中肺炎の病因の約1%を占め、研究間のばらつきは大きく範囲は0〜6.7%」と再掲する。1.03%（95%信頼区間0.79–1.30）という点値と信頼区間、「各100例以上の57研究」という統合の枠組みは再掲されない。数値の照合：範囲0〜6.7%は完全一致。割合は候補が「約1%」と丸めた形であり、カードの1.03%の点値そのものの再掲ではない。95%信頼区間は照合できない。留保：主出典の刊行版は Crossref では Cambridge の利用条件のみで CC 表示はなく、RESTRICTED は正しい。PMC 収載コピー（PMC9148753）も Europe PMC で非 OA・ライセンス表示なし。マスターの pmcid は null だが、カード側に既記の PMC9148753 が当該論文のものであることを Europe PMC の個別レコードで確認した（識別子補完候補）'
   uncertainty: 鳥類との接触歴や診断の詳細は本カードでは扱わず、市中肺炎における病原体としての位置づけに絞った。
   curriculum:
     kokushi: 医学各論 Ⅻ-2-A-④（オウム病、b）
@@ -103,6 +106,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/35_if_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ90 2026-11-15）。三原の承認（2026-11-11）による
 - id: CM-004
   domain: CM
   subdomain: クラミジア結膜炎
@@ -123,7 +129,7 @@
     source_license: CC表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ90 2026-11-15）：Kempen JH, Abashawl A, Mohammed AA, et al. Evaluation of fluorometholone as adjunctive medical therapy for trachomatous trichiasis surgery (FLAME): a parallel, double-blind, randomised controlled field trial in the Jimma Zone, Ethiopia. Lancet Glob Health. 2026;14(3):e395-e406（PMID: 41539314、DOI: 10.1016/S2214-109X(25)00493-0、PMCID: PMC13034013、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補は序文で「トラコーマは感染性の失明原因として世界第1位」「睫毛内反は反復する C. trachomatis 感染と慢性炎症による結膜瘢痕の帰結」を再掲し、カードの位置づけと、反復感染の蓄積が病態の基盤であることを裏づける。生涯で少なくとも150回の感染エピソードが必要という閾値と、2021年6月時点で180万人が失明していたという数値は再掲されない。数値の照合：候補の「約190万人がトラコーマにより視覚障害を有する」は視覚障害者数であり、カードの「失明180万人」（2021年6月時点）とは指標も時点も異なる。候補の数値をカードの数値の裏づけとして登録しないこと。留保：主出典の刊行版ライセンスは Crossref では Springer のテキストマイニング用ライセンスのみ、Europe PMC でも非 OA・PMC 未収載で、RESTRICTED は正しい。候補の刊行版ライセンスは Crossref の版（version of record）データで CC BY 4.0 を個別確認した'
   uncertainty: 眼所見そのものは眼科分野の既存カードの範囲とし、本カードは病原体・反復感染と世界の疫学に絞った。
   curriculum:
     kokushi: 医学各論 Ⅻ-2-A-⑤（クラミジア結膜炎<トラコーマ>、b）
@@ -138,6 +144,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/35_if_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ90 2026-11-15）。三原の承認（2026-11-11）による
 - id: CM-005
   domain: CM
   subdomain: ツツガ虫病
@@ -193,7 +202,7 @@
     source_license: CC表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（GOV_US（CDC）／CC BY 4.0（OPEN）、作り手の調査バッチ90 2026-11-15）：Anderson A, Bijlmer H, Fournier PE, et al.; CDC and the Q Fever Working Group. Diagnosis and Management of Q Fever — United States, 2013: Recommendations from CDC and the Q Fever Working Group. MMWR Recomm Rep. 2013;62(RR-03):1-30／Wang S, Xu K, Wang G. Delayed diagnosis of persistent Q fever: a case series from China. BMC Infect Dis. 2024;24(1):591（PMID: 23535757／38886677、DOI: －／10.1186/s12879-024-09484-w、PMCID: －／PMC11181675、https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6203a1.htm／https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：MMWR は「Q熱は1937年に初めて記載された、世界的な人獣共通感染症である」と述べ（原典として Derrick 1937 を引用）、カードの歴史と分布を再掲する。Wang 2024 は主出典を引用し、「初感染後に C. burnetii は特定の解剖学的部位で持続限局感染（persistent focalized infections）を成立させうる」と述べており、持続感染には感染巣が存在するという要素を裏づける。「急性Q熱／慢性Q熱という二分法が見直された」という見直し自体の明示は、どちらの候補にもない。数値の照合：数値なし（1937年の初記載と世界的分布は両候補の記述と整合する）。留保：MMWR 2013 は二分法見直し以前の文書であり、慢性Q熱を「6か月を超える持続感染」とする旧来の定義を用いている。旧定義の文言をカードの新しい枠組みの裏づけに使わないこと。主出典の刊行版ライセンスは Crossref では ASM の非商用テキストマイニング用ライセンスのみで、PMC 収載コピー（PMC5217791）も非 OA・ライセンス表示はなく、RESTRICTED は正しい。マスターの pmcid は null だが、カード側に既記の PMC5217791 が当該論文のものであることを Europe PMC の個別レコードで確認した（識別子補完候補）'
   uncertainty: 日本では4類感染症（全数把握）だが、日本の届出数の一次資料は確認できなかったため、届出数については主張に入れていない。
   curriculum:
     kokushi: 医学各論 Ⅻ-2-A-⑦（Q熱、c）
@@ -208,6 +217,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/35_if_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US（CDC）／CC BY 4.0（OPEN）、作り手の調査バッチ90 2026-11-15）。三原の承認（2026-11-11）による
 - id: CM-007
   domain: CM
   subdomain: 性器クラミジア感染症
@@ -263,7 +275,7 @@
     source_license: CC表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US（CDC）、作り手の調査バッチ90 2026-11-15）：CDC. Clinical Overview of Chlamydia pneumoniae Infection. Centers for Disease Control and Prevention（cdc.gov）（https://www.cdc.gov/cpneumoniae/hcp/clinical-overview/index.html）。裏づける部分：部分：CDC は診断法として分子生物学的手法・血清学・培養の3つを挙げ、カードの診断法の列挙と一致する。治療ではマクロライド（アジスロマイシン）を第一選択とし、テトラサイクリン系（ドキシサイクリン）とフルオロキノロンを選択肢に挙げるため、カードのテトラサイクリン・ドキシサイクリンの位置づけは裏づけられる。「正確で標準化された迅速診断法は確立していない」という明示、エリスロマイシンの名指し、北米のガイドラインが抗菌薬治療を推奨するという形の言及、非定型病原体への治療が転帰を改善するかへの否定的報告は再掲されない。数値の照合：数値なし。留保：カードの第一選択の筆頭はエリスロマイシンだが、CDC の第一選択はマクロライド系（アジスロマイシン）であり、薬剤名レベルでは一致しない。主出典は CM-001 と同一（SRC-2081）で、区分は RESTRICTED が正しい。カード側の出典文字列はマスターと同一内容（末尾のピリオド欠落のみ）
   uncertainty: エリスロマイシン、テトラサイクリン、ドキシサイクリンはいずれも国内で承認された抗菌薬である。ドキシサイクリンは国内の添付文書でクラミジア属を適応菌種に含み肺炎への適応があることを PMDA の資料で確認した。他の2剤の適応菌種の範囲は製剤ごとの添付文書による。出典は2010年の総説で、主張は抄録で確認した範囲に限った。集団発生の側面は抄録では確認できず、主張に入れていない。
   curriculum:
     kokushi: 医学各論 Ⅻ-2-A-①（クラミジア肺炎、a）
@@ -278,6 +290,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US（CDC）、作り手の調査バッチ90 2026-11-15）。三原の承認（2026-11-11）による
 - id: CM-009
   domain: CM
   subdomain: マイコプラズマ肺炎
@@ -298,7 +313,7 @@
     source_license: American Society for Microbiology（CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US（CDC）、作り手の調査バッチ90 2026-11-15）：CDC. Clinical Overview of Mycoplasma pneumoniae Infection／CDC. Laboratory Testing for Mycoplasma pneumoniae／CDC. Clinical Care of Mycoplasma pneumoniae Infection（いずれも Centers for Disease Control and Prevention、cdc.gov）（https://www.cdc.gov/mycoplasma/hcp/clinical-overview/／https://www.cdc.gov/mycoplasma/php/laboratories/／https://www.cdc.gov/mycoplasma/hcp/clinical-care/）。裏づける部分：部分：CDC は「学童期の子どもに最も多い」「最も多い病像は気管気管支炎」「肺外症状を伴いうる（合併症に脳炎を挙げる）」「潜伏期は1〜4週間」「濃厚な人―人接触で広がる」「症状は数週間続くことがある」を再掲する。診断では NAAT が望ましい方法であること、血清診断は特異度に限界があり急性期・回復期のペア血清を要することを再掲する。治療ではマクロライドが子どもと成人の第一選択系統とされ、マクロライドで改善しない場合にドキシサイクリン等の代替を検討すること、薬剤クラスとしてテトラサイクリン系・フルオロキノロン系が挙げられる。ペア血清で4倍以上の抗体価上昇が最も確実という基準そのものと、ミノサイクリン・レボフロキサシンの個別薬剤名は再掲されない。数値の照合：潜伏期はカードの約3週間に対し CDC は1〜4週間で範囲内にある。「2週間以上あけて採取したペア血清で4倍以上の抗体価上昇」という数値基準は CDC のページに現れず照合できない。留保：主出典の刊行版ライセンスは Crossref では ASM の非商用テキストマイニング用ライセンスのみで、PMC 収載コピー（PMC5475226）も非 OA・ライセンス表示はなく、RESTRICTED は正しい。マスターの pmcid は null だが、カード側に既記の PMC5475226 が当該論文のものであることを Europe PMC の個別レコードで確認した（識別子補完候補）
   uncertainty: ミノサイクリンとレボフロキサシンは、国内の添付文書で肺炎マイコプラズマ（マイコプラズマ・ニューモニエ）を適応菌種に含み肺炎への適応があることを PMDA の添付文書で確認した。同じテトラサイクリン系でもドキシサイクリンは国内の添付文書の適応菌種にマイコプラズマを含まないため、本症への使用は適応外となる。マクロライド耐性率は地域と時期で大きく異なり、日本の耐性率の推移そのものは既存カード CM-002 が担う。
   curriculum:
     kokushi: 医学各論 Ⅻ-2-A-③（マイコプラズマ肺炎、a）
@@ -313,3 +328,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US（CDC）、作り手の調査バッチ90 2026-11-15）。三原の承認（2026-11-11）による

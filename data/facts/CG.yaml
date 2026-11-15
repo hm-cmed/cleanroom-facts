@@ -18,7 +18,7 @@
     source_license: 表示なし（American Academy of Pediatrics の著作物）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ87 2026-11-15）：Suárez-Mantilla SN, Africano-Leon ML, Mora-Bautista VM, Vergara-Arenas DC, Bustos-López AT, Serrano-Gomez S. Adherence to the American Academy of Pediatrics Health Supervision Guidelines for Children With Down Syndrome in a Tertiary Care Institution in Northeastern Colombia. Cureus. 2025;17(9):e93426（PMID: 41164047、DOI: 10.7759/cureus.93426、PMCID: PMC12564101、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：AAP の健康管理ガイドラインが年齢帯ごとに評価項目を定めるスケジュールであること、その中で新生児期（生後1か月以内）に先天性心疾患の評価として心エコーを行うこと、甲状腺機能は出生時の確認に加えて生後6か月・12か月に TSH を測定することを、ガイドラインへの遵守度を検証する表の形で再掲する。候補は同ガイドラインが2022年に最新改訂されたことにも触れている。数値の照合：数値の主張はスケジュール項目のみ。候補の表は2011年版から改作されており、年齢帯は1か月未満・1〜12か月・1〜5歳・5〜12歳（13〜21歳の区分への言及あり）で、カードの2022年版の年齢帯（出生〜1か月、1か月〜1歳、1〜5歳、5〜12歳、12〜21歳）と大枠で一致する。12か月以降の毎年の甲状腺測定は候補の表に再掲なし（毎年の記載があるのは血算）。留保：主出典は American Academy of Pediatrics の著作物で、Europe PMC で非OA・全文収載なし、Crossref にライセンス登録はなく、現行 RESTRICTED が正しいことを個別確認した。マスターの pmid は null で、カード側に既記の PMID 35490285 を補完候補とした（識別子補完候補の節参照）'
   uncertainty: 臨床報告の現行版は2022年版で、2011年版は旧版のため使っていない。報告本文の表は直接開いておらず、年齢帯の構成と心エコー・甲状腺測定の要点は、同報告を引用する AAFP の解説および大学クリニックの準拠資料で確認した（二次資料経由の確認を含む）。先天性心疾患の頻度（新生児の最大50%）も同じ経路で確認した数値であり、本文の表での再照合が望ましい
   curriculum:
     kokushi: 医学各論 Ⅰ-4-A-①（Down症候群、a）
@@ -33,6 +33,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ87 2026-11-15）。三原の承認（2026-11-11）による
 - id: CG-002
   domain: CG
   subdomain: Down症候群
@@ -52,8 +55,8 @@
     url: https://doi.org/10.1038/s41572-019-0143-7
     source_license: 表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ87 2026-11-15）：Izzo A, Mollo N, Nitti M, Paladino S, Calì G, Genesio R, Bonfiglio F, Cicatiello R, Barbato M, Sarnataro V, Conti A, Nitsch L. Mitochondrial dysfunction in down syndrome: molecular mechanisms and therapeutic targets. Mol Med. 2018;24(1):4（PMID: 30134785、DOI: 10.1186/s10020-018-0004-y、PMCID: PMC6016872、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：21トリソミーが「出生後に生存可能な常染色体異数性の中で最も頻度が高い（the most common autosomal aneuploidy compatible with postnatal survival）」ことを再掲する。知的障害を含む複雑な表現型という位置づけも一致する。数値の照合：候補は有病率を新生児700人に1人とし、カードに有病率の数値はないため競合しない。「21番染色体にはタンパク質をコードする遺伝子が200を超えて存在し、その過剰が臨床像の背景となる」という要素は候補に再掲なし（候補は21番染色体遺伝子の過剰発現が病態に関わることは述べるが、遺伝子数の記載はない）。留保：主出典は PMC に著者稿全文（PMC8428796）があるが非OAでライセンス表示はなく、Crossref の刊行版ライセンスもテキストマイニング用のみで CC ではないため自由とはみなさない。現行 UNKNOWN は RESTRICTED への訂正対象（区分訂正の節参照）。識別子補完候補あり（PMID・PMCID）'
   uncertainty: 抄録で確認した範囲に限る。合併症ごとの頻度の数値は本文を照合していないため主張に入れていない。成人期の診療ガイドライン（JAMA 2020）は書誌の一次照合が未了のため使っていない
   curriculum:
     kokushi: 医学各論 Ⅰ-4-A-①（Down症候群、a）
@@ -68,6 +71,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3522 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ87 2026-11-15）。三原の承認（2026-11-11）による
 - id: CG-003
   domain: CG
   subdomain: Turner症候群
@@ -88,7 +97,7 @@
     source_license: CC BY-NC 4.0（Crossref・Europe PMC の license 欄で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ87 2026-11-15）：Turner HE, Johannsen EB, Smyth A, Orchard E, Gravholt CH. Approach to the Patient With Turner Syndrome. J Clin Endocrinol Metab. 2025;111(1):dgaf517（PMID: 40971503、DOI: 10.1210/clinem/dgaf517、PMCID: PMC12712970、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：Turner症候群が全ライフステージを通じて心血管異常、自己免疫疾患、骨格異常、代謝機能障害、神経認知面など複数の臓器・領域に影響し、管理には複数の専門領域の連携が関わることを再掲する。候補は国際ガイドラインに基づく合併症とモニタリングの表を備え、主出典（2024年版ガイドライン）の枠組みに沿った内容である。数値の照合：有病率は候補では「出生女児2,000〜2,500人に1人」（100,000人あたり40〜50人）と幅で示され、カードの「女性100,000人あたり50人」はその上限と一致する。点値としての一致ではないため、裏づけ登録時は幅のある値として扱うこと。2024年版ガイドラインの8領域という構成そのものは候補に再掲なし。留保：主出典の刊行版ライセンスは CC BY-NC 4.0（Crossref・Europe PMC の双方で個別確認）で自由ではなく、現行 RESTRICTED が正しい。マスターの pmid・pmcid は null で、カード側に既記の値を補完候補とした（識別子補完候補の節参照）'
   uncertainty: 国際ガイドラインの現行版は2024年版（Aarhus 会議の proceedings）で、2017年版は旧版のため使っていない。4つの臨床疑問には GRADE 評価が行われているが、個別推奨の強さは本文を照合していないため主張に入れていない
   curriculum:
     kokushi: 医学各論 Ⅰ-4-A-②（Turner症候群、b）
@@ -103,6 +112,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ87 2026-11-15）。三原の承認（2026-11-11）による
 - id: CG-004
   domain: CG
   subdomain: Turner症候群
@@ -123,7 +135,7 @@
     source_license: CC BY-NC 4.0（Crossref・Europe PMC の license 欄で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ87 2026-11-15）：Turner HE, Johannsen EB, Smyth A, Orchard E, Gravholt CH. Approach to the Patient With Turner Syndrome. J Clin Endocrinol Metab. 2025;111(1):dgaf517（PMID: 40971503、DOI: 10.1210/clinem/dgaf517、PMCID: PMC12712970、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：低身長への成長ホルモン治療が小児期・思春期の治療の柱であること、卵巣機能不全に対してエストロゲンによる思春期の誘導と性ホルモン補充が行われること、心血管異常を含む合併症が全生涯を通じて生じ、評価と継続的なモニタリング・管理が長期フォローアップの必須要素であることを再掲する。数値の照合：数値の主張なし（枠組みのカード）。成長ホルモンの開始年齢の具体値（候補の症例では10歳開始）はカードの主張ではない。留保：カードが述べる「成長」「思春期とエストロゲン治療」「心血管の健康」というガイドラインの領域立てそのものは候補に再掲がないが、各要素の実質は候補に再掲がある。主出典の区分・識別子補完候補は CG-003 の行と共通（SRC-3523）'
   uncertainty: 薬剤の国内承認：成長ホルモン（ソマトロピン）は、骨端線閉鎖を伴わないターナー症候群における低身長が国内承認適応に含まれ、保険適用がある（PMDA 添付文書で確認した先行リサーチに基づく）。エストロゲン製剤は国内承認薬であるが、個別製剤の効能・効果の文言は照合していない。各治療の用量・開始時期はガイドライン本文を照合していないため主張に入れていない
   curriculum:
     kokushi: 医学各論 Ⅰ-4-A-②（Turner症候群、b）
@@ -138,6 +150,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ87 2026-11-15）。三原の承認（2026-11-11）による
 - id: CG-005
   domain: CG
   subdomain: Klinefelter症候群
@@ -158,7 +173,7 @@
     source_license: CC BY-NC-ND 4.0（Crossref・Europe PMC の license 欄で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ87 2026-11-15）：Anaforoğlu İ. Klinefelter syndrome beyond hypogonadism: multisystem manifestations and a framework for clinical surveillance. Front Endocrinol (Lausanne). 2026;17:1848181（PMID: 42422432、DOI: 10.3389/fendo.2026.1848181、PMCID: PMC13341453、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：Klinefelter症候群（47,XXY）が高ゴナドトロピン性性腺機能低下症、不妊、精巣機能の障害と関連すること、生殖機能にとどまらず心血管・代謝・骨・神経認知など多系統にわたる包括的な評価とサーベイランスが必要であることを再掲する。候補は主出典である欧州アンドロロジー学会の2021年ガイドラインを参照文献として位置づけている。数値の照合：候補は有病率を男児出生450〜600人に1人、最大で75%が生涯未診断のままであるとし、カードの「有病率に比べて診断率はなお低い」という定性的主張と整合する。候補は「無精子症」という語自体は用いておらず、精子形成の障害は精巣形成不全・不妊の記述と、モザイク型では精子形成が比較的保たれるという対比から示される。ライディッヒ細胞の機能障害という表現そのものも候補に再掲なし。主出典が本症候群に対する初の国際ガイドラインであるという位置づけも候補に再掲なし。留保：主出典の刊行版ライセンスは CC BY-NC-ND 4.0（Crossref・Europe PMC の双方で個別確認）で自由ではなく、現行 RESTRICTED が正しい。マスターの pmid は null で、カード側に既記の PMID 32959490 を補完候補とした（識別子補完候補の節参照）。主出典は Europe PMC でも PMCID を持たない'
   uncertainty: 頻度の具体値（新生男児約650人に1人）は別の総説の抄録で確認した値であり、本カードの出典の抄録には数値がないため主張に入れていない。2021年版以降の改訂の有無は未確認
   curriculum:
     kokushi: 医学各論 Ⅰ-4-A-③（Klinefelter症候群、b）
@@ -173,6 +188,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ87 2026-11-15）。三原の承認（2026-11-11）による
 - id: CG-006
   domain: CG
   subdomain: trisomy(13番、18番)
@@ -192,8 +210,8 @@
     url: https://doi.org/10.1002/ajmg.c.31527
     source_license: 表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ87 2026-11-15）：Caggiano S, Persia S, D''Amore F, Macchiaiolo M, Fornari M, Clemente V, Paglietti MG, Schiavino A, Butera G, Filippelli S, Zucaro L, Cutrera R. Survival in infants with trisomy 18, palliative care and ethical reflections: a single center considerations. Ital J Pediatr. 2026;52(1)（PMID: 41485045、DOI: 10.1186/s13052-025-02181-7、PMCID: PMC12866181、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：18トリソミーについて、先天異常を伴い従来は致死的な診断とみなされ、米国小児科学会も新生児蘇生の差し控えを検討するよう勧めていた時代があったこと、その後、心臓手術を含む治療的介入の増加とともに1年を超えて生存する児が増え（介入内容により3〜25%）、現在は明確な判断基準がなく、過剰治療と治療放棄の双方を避ける症例ごとの検討が課題であることを再掲する。これはカードの「一律の差し控えではなく、緩和ケア中心の対応と積極的介入の双方を症例ごとに検討する議論が進んでいる」という主張の骨格と一致する。数値の照合：カードに数値の主張はない。候補の生存割合（3〜25%）は介入内容に依存する幅のある値で、カードの主張の裏づけとしては用いない。留保：候補は18トリソミーのみを対象とし、13トリソミーと、生存した年長児における著明な認知・運動発達の障害については再掲がない。主出典は Wiley の利用条件のみで CC ではなく、現行 UNKNOWN は RESTRICTED への訂正対象（区分訂正の節参照）。識別子補完候補あり（PMID）'
   uncertainty: 個別の生存率や手術成績の数値は、同じ特集号の各論文に分散しており本カードでは照合していないため主張に入れていない。18トリソミー単独の総説（Orphanet J Rare Dis 2012）は本カードでは使っていない
   curriculum:
     kokushi: 医学各論 Ⅰ-4-A-④（trisomy(13番、18番)、c）
@@ -208,6 +226,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-3525 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ87 2026-11-15）。三原の承認（2026-11-11）による
 - id: CG-007
   domain: CG
   subdomain: 腟欠損症、Mayer-Rokitansky-Küster-Hauser<MRKH>症候群
@@ -333,7 +357,7 @@
     source_license: © 2018 Endocrine Society（CC表示なし）
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ87 2026-11-15）：Cera G, Corsello A, Novizio R, Di Donna V, Locantore P, Paragliola RM. Severe Hyperandrogenism in 46,XX Congenital Adrenal Hyperplasia: Molecular Physiopathology, Late Diagnoses, and Personalized Management. Int J Mol Sci. 2024;25(21):11779（PMID: 39519330、DOI: 10.3390/ijms252111779、PMCID: PMC11545884、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：先天性副腎皮質過形成の最も多い型が21-水酸化酵素欠損症であること、新生児スクリーニングが17-ヒドロキシプロゲステロン（17-OHP）の測定に基づくこと、塩喪失型ではミネラルコルチコイド作用の欠如により出生前後に副腎クリーゼを起こすリスクがあること、46,XX では外性器の男性化（Prader 分類の病期を含む）が性分化の評価と出生時の性別判定に関わることを再掲する。数値の照合：数値の主張なし。副腎クリーゼの具体像（脱水・電解質異常・循環不全）の三徴そのものは候補に列挙がなく、裏づけは「ミネラルコルチコイド欠乏による副腎クリーゼのリスク」の範囲にとどまる。Endocrine Society の2018年ガイドラインがスクリーニングによる早期発見を前提に診療を組み立てているという位置づけ自体も候補に再掲なし。留保：主出典 SRC-1030 は IE 章と共有し、区分訂正（UNKNOWN→RESTRICTED）と PMCID 補完候補（PMC6456929）はバッチ77で提案済みのため本バッチでは再掲とする（二重計上しないこと）。バッチ77で IE-005・IE-006 に用いた候補（Fanis 2026）は新生児スクリーニングと塩喪失型の存在は扱うが、副腎クリーゼと46,XX の外性器男性化は扱わないため、本カードでは Cera 2024 を候補とした'
   uncertainty: 本カードは新生児期の側面（スクリーニングで見つかる症例の初期対応と性分化の評価）に限る。長期管理は内分泌側（第20回）が正。薬剤の国内承認：副腎クリーゼに用いるヒドロコルチゾンは国内で承認されている副腎皮質ステロイド製剤で保険適用があるが、個別の効能・効果の文言は添付文書で未照合。ガイドラインの改訂版は確認できず、2018年版を現行として使った
   curriculum:
     kokushi: 医学各論 Ⅰ-4-C-②（先天性副腎皮質過形成、c）
@@ -348,3 +372,6 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ87 2026-11-15）。三原の承認（2026-11-11）による

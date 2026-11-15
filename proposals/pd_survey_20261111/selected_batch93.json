@@ -1,0 +1,35 @@
+{
+ "A": [],
+ "B": [
+  {
+   "card": "SM-002",
+   "label": "OPEN／OPEN、作り手の調査バッチ93 2026-11-15",
+   "text": "Rudwan AH, Al Adhreai E, Ali HE, et al. From Airways to Alveoli: A Review of Smoking-Related Respiratory Disorders. Cureus. 2026;18(2):e104440／Li Y, Hecht SS. Metabolism and DNA Adduct Formation of Tobacco-Specific N-Nitrosamines. Int J Mol Sci. 2022;23(9):5109（PMID: 41918648／35563500、DOI: 10.7759/cureus.104440／10.3390/ijms23095109、PMCID: PMC13034887／PMC9104174、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補1（Cureus 2026 総説）は「タバコ製品は9,500を超える化学物質を含む複合混合物である」「IARC は2022年時点でタバコとタバコ煙中の発がん物質83物質を分類した」を主出典と同じ値で再掲し、多環芳香族炭化水素（PAH）とタバコ特異的ニトロソアミン（TSNA）を主要な発がん物質群として挙げる。候補2（主出典と同一著者の総説）は NNK と NNN が IARC により「ヒトに対して発がん性がある」（グループ1）に分類されることを再掲する。83物質の内訳（タバコ煙中に80物質）、ベンゾ[a]ピレンの名指し、芳香族アミン、PAH のグループ1分類そのものは自由な全文で再掲されない。数値の照合：一致：9,500超の化学物質数、IARC 分類83物質（2022年時点）、NNK・NNN のグループ1分類は候補の再掲と一致。カードの値は主出典本体（PMC 収載の著者稿）でも、83物質の内訳（未燃焼タバコ37・タバコ煙80）を含めて照合済み。留保：主出典の刊行版ライセンスは Crossref で Elsevier のテキストマイニング用ライセンスと OA ユーザーライセンス（著者稿向け）のみで CC ではなく、Europe PMC でも非 OA のため、現行 RESTRICTED が正しい。要・正本確認：マスターとカードは巻数を167とするが、PubMed（NLM 記録）・Crossref・Europe PMC はいずれも165を示す（申し送り参照）。候補1のライセンスは PMC 全文のライセンス要素（CC BY 4.0）と Europe PMC の個別レコード（cc by）で個別確認した（Crossref にはライセンス登録なし）。候補2は Crossref の刊行版データでも CC BY 4.0 を確認した"
+  },
+  {
+   "card": "SM-004",
+   "label": "GOV_JP／GOV_JP、作り手の調査バッチ93 2026-11-15",
+   "text": "厚生労働省 e-ヘルスネット「禁煙治療ってどんなもの？」（最終更新日：2024年3月6日）／千葉県「禁煙治療を活用して上手に禁煙を！」（受診週の内訳を担う）（https://kennet.mhlw.go.jp/information/information/tobacco/t-06-007.html／https://www.pref.chiba.lg.jp/kenzu/tabako/kinen.html）。裏づける部分：部分（ほぼ全面）：厚労省 e-ヘルスネットのページは、保険適用の4条件をすべて本文で再掲する（①ニコチン依存症スクリーニングテスト（TDS）で5点以上、②35歳以上の場合はブリンクマン指数200以上、③直ちに禁煙することを希望、④「禁煙治療のための標準手順書」に則った説明を受け文書により同意）。35歳未満では指数要件が求められない点にも触れる（2016年の対象拡大として記載）。標準治療が「12週間に5回」のプログラムであることも本文に明記される。各回の時期（初回・2・4・8・12週後）の内訳は同ページでは流れ図の画像内のみのため、千葉県の公式ページが本文で「初回診察に加えて、初回診察から2週間後、4週間後、8週間後、12週間後の計4回の再診」と明記する部分で補った。数値の照合：一致：TDS 5点以上、ブリンクマン指数200以上（35歳以上の場合）、12週間に計5回（初回・2・4・8・12週後）は候補の記載と一致。留保：主出典は学会の手順書（第7版）で CC 表示はなく、現行 RESTRICTED が正しい。候補はいずれも政府機関の公式ページ（厚生労働省・千葉県）である。監視事項：手順書の現行版は第8.1版（2021年9月）であり、次回改訂時に本体照合を推奨する（申し送り参照）"
+  },
+  {
+   "card": "SM-006",
+   "label": "OPEN、作り手の調査バッチ93 2026-11-15",
+   "text": "Al Wachami N, Guennouni M, Iderdar Y, et al. Estimating the global prevalence of chronic obstructive pulmonary disease (COPD): a systematic review and meta-analysis. BMC Public Health. 2024;24:297（PMID: 38273271、DOI: 10.1186/s12889-024-17686-9、PMCID: PMC10811845、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補（COPD 有病率の系統的レビュー・メタ解析）は主出典（Adeloye 2022）を引用し、「固定比（GOLD）定義による世界の COPD 有病率は10.3%であった」と主出典の値を再掲する。有病者数（約3億9,190万人）と喫煙のオッズ比（現在喫煙3.2、喫煙経験2.3）は自由な全文で再掲されない。WHO の資料は2019年の患者数（約3億9,200万人）に触れるが、ライセンスが CC BY-NC-SA 3.0 IGO で自由とはみなさず候補にしない。数値の照合：一致：有病率10.3%（GOLD 定義、30〜79歳）は候補の再掲と一致。カードの値は主出典の抄録でも照合済み（10.3%［95%信頼区間8.2〜12.8］が約3億9,190万人に相当、現在喫煙のオッズ比3.2［2.5〜4.0］、喫煙経験2.3［2.0〜2.5］）。有病者数と喫煙のオッズ比は自由な全文では照合できない。留保：主出典の刊行版ライセンスは Crossref で CC BY-NC-ND 4.0 のため、現行 RESTRICTED が正しい（カード側の source_license 記載とも一致）。候補のライセンスは Crossref の刊行版データ（CC BY 4.0）、Europe PMC の個別レコード（cc by）、PMC 全文のライセンス要素で個別確認した"
+  },
+  {
+   "card": "SM-009",
+   "label": "OPEN、作り手の調査バッチ93 2026-11-15",
+   "text": "Avşar TS, McLeod H, Jackson L. Health outcomes of smoking during pregnancy and the postpartum period: an umbrella review. BMC Pregnancy Childbirth. 2021;21:254（PMID: 33771100、DOI: 10.1186/s12884-021-03729-1、PMCID: PMC7995767、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補（妊娠中の喫煙の健康影響のアンブレラレビュー）は、妊娠中の喫煙が早産・低出生体重と関連すること（低出生体重はリスク増加が最大級の転帰の一つ）、影響が喫煙本数と関連すること（用量関係）を再掲し、カードの関連の骨格と用量反応の方向を裏づける。エコチル調査固有の設計（尿中コチニンによる曝露分類、妊婦86,638人）と3つの調整オッズ比そのものは自由な全文で再掲されない。主出典を引用する後続論文3件はいずれも CC BY ではない（Hypertens Res は非 OA、Environ Pollut と BJOG は CC BY-NC）。数値の照合：カードの数値は主出典の抄録と一致することを確認した（妊婦86,638人、高濃度群の調整オッズ比：早産1.39［1.19〜1.62］、低出生体重2.27［2.05〜2.53］、SGA 2.39［2.16〜2.65］、低濃度群でもいずれの転帰も上昇）。候補は定性的な骨格のみで、数値の照合には使わない。留保：主出典の刊行版ライセンスは Crossref で CC BY-NC 4.0 のため、現行 RESTRICTED が正しい（カード側の source_license 記載とも一致）。候補のライセンスは Crossref の刊行版データ（CC BY 4.0）、Europe PMC の個別レコード（cc by）、PMC 全文のライセンス要素で個別確認した"
+  },
+  {
+   "card": "SM-010",
+   "label": "OPEN、作り手の調査バッチ93 2026-11-15",
+   "text": "Heslehurst N, Hayes L, Jones D, et al. The effectiveness of smoking cessation, alcohol reduction, diet and physical activity interventions in changing behaviours during pregnancy: A systematic review of systematic reviews. PLoS One. 2020;15(5):e0232774（PMID: 32469872、DOI: 10.1371/journal.pone.0232774、PMCID: PMC7259673、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補（妊娠中の行動介入に関する系統的レビューの系統的レビュー）は、前版の Cochrane レビュー（Chamberlain 2017）の知見を一覧表で再掲し、介入分類（カウンセリング、健康教育、フィードバック、インセンティブ、社会的支援）ごとの比較構成と、カウンセリング等の主要な比較で妊娠後期の禁煙が増加したという結果の方向を示す。これは2026年版の結論の骨格（カウンセリングと金銭的インセンティブが妊娠後期の禁煙を増やす可能性が高い）と整合する。2026年版固有の統合件数（127件・47,361人）と出生アウトカムの所見（低出生体重児の減少、平均出生体重の増加、新生児集中治療室への入院の減少、死産への差なし、早産への影響は不明）は自由な全文で再掲されない。数値の照合：カードの件数（127件・47,361人）は主出典2026年版の抄録と一致することを確認した。候補は2017年版の分類別の結果の方向のみで、2026年版の数値の照合には使わない。留保：主出典の区分訂正（UNKNOWN → RESTRICTED）を提案する（区分訂正の節参照）。カードの uncertainty にある「2026年版の PMID・PMCID は確認できず」は本バッチで決着し、PMID 42011820 と PMCID PMC13097252（PMC 収載は書誌事項と抄録のみで本文なし）を確認した（識別子補完の節参照）。候補のライセンスは Crossref の刊行版データ（CC BY 4.0）、Europe PMC の個別レコード（cc by）、PMC 全文のライセンス要素で個別確認した"
+  }
+ ],
+ "rest_fix": {
+  "SRC-4031": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ93）",
+  "SRC-4801": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ93）"
+ },
+ "open_fix": []
+}

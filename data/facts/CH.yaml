@@ -87,7 +87,7 @@
     source_license: 「無断転載を禁ずる」の表示。CC の表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN／OPEN、作り手の調査バッチ94 2026-11-15）：Blanca-Jover E, Contreras-Chova F, Jerez-Calero A, et al. Congenital Heart Disease and Pulmonary Arterial Hypertension: Current Perspectives. Rev Cardiovasc Med. 2026;27(3)／Borsani O, Varettoni M, Riccaboni G, Rumi E. Erythrocytosis in congenital heart defects: hints for diagnosis and therapy from a clinical case. Front Med (Lausanne). 2024;11:1419092（PMID: 41923748／39188884、DOI: 10.31083/rcm48337／10.3389/fmed.2024.1419092、PMCID: PMC13036531／PMC11345742、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分（ほぼ全面）：候補1は Eisenmenger 症候群について「妊娠は絶対的禁忌」とする節を置き、瀉血については「ルーチンの瀉血は強く禁忌であり、ヘマトクリット65%超で過粘稠症候群を来し得る。瀉血は過粘稠の急性症状がある場合に限り、等容量の補液を伴って行う」と再掲し、抗凝固については「ルーチンの抗凝固は推奨されず、心房細動・奇異性塞栓の既往・広範な肺血栓が確認された場合に限る」と再掲する。候補2は、赤血球増加は代償性であり瀉血は過粘稠の症状がある場合に限ること、慢性的な瀉血は鉄欠乏・小球性化を招くことを再掲する。カードの「抗凝固は生存の改善が示されていない」という表現そのものは自由な全文で再掲されない。数値の照合：一致：ヘマトクリット65%超という瀉血の目安は候補1の記載と一致する。それ以外の数値的主張はカードにない。留保：主出典の区分は CH-002 行のとおり RESTRICTED が正しい。候補のライセンスはいずれも Europe PMC の個別レコード（cc by）と PMC 全文のライセンス要素（CC BY）で個別確認した'
   uncertainty: 2025年改訂版での変更は未確認。日本語版で確認した。英語版での該当箇所は未確認
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-186 (id: Jlvnlu8)；TBL-01-00-185 (id: Jlvnlu4)；TBL-01-00-187 (id: JlvnlvE)'
@@ -102,6 +102,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN／OPEN、作り手の調査バッチ94 2026-11-15）。三原の承認（2026-11-11）による
 - id: CH-004
   domain: CH
   subdomain: 先天性心疾患
@@ -122,7 +125,7 @@
     source_license: 「無断転載を禁ずる」の表示。CC の表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN／OPEN、作り手の調査バッチ94 2026-11-15）：Blanca-Jover E, Contreras-Chova F, Jerez-Calero A, et al. Congenital Heart Disease and Pulmonary Arterial Hypertension: Current Perspectives. Rev Cardiovasc Med. 2026;27(3)／Borsani O, Varettoni M, Riccaboni G, Rumi E. Erythrocytosis in congenital heart defects: hints for diagnosis and therapy from a clinical case. Front Med (Lausanne). 2024;11:1419092（PMID: 41923748／39188884、DOI: 10.31083/rcm48337／10.3389/fmed.2024.1419092、PMCID: PMC13036531／PMC11345742、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分（定性的のみ）：候補1は Eisenmenger 症候群の全身合併症として喀血・痛風・脳血管イベント・脳膿瘍・腎障害を列挙し、候補2も痛風と腎機能障害に触れる。合併症の顔ぶれはカードと重なるが、日本の調査に基づく頻度（喀血16%・痛風9%・脳梗塞8%・慢性腎不全7%・過粘稠症候群6%・脳膿瘍4%・感染性心内膜炎4%）と、SpO2 85%でヘモグロビン20 g/dL程度が必要で14 g/dLでは鉄欠乏を疑うという値は、自由な全文で再掲されない。数値の照合：一致する数値なし（候補はいずれも頻度・ヘモグロビン値を再掲しない）。海外の登録研究には異なる頻度が示されるものがあるが、値がカードと異なるため候補にしない。留保：主出典の区分は CH-002 行のとおり RESTRICTED が正しい。候補のライセンスはいずれも Europe PMC の個別レコード（cc by）と PMC 全文のライセンス要素（CC BY）で個別確認した'
   uncertainty: 数値はガイドラインが引用した研究による（二次資料経由）
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
@@ -137,6 +140,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN／OPEN、作り手の調査バッチ94 2026-11-15）。三原の承認（2026-11-11）による
 - id: CH-005
   domain: CH
   subdomain: 単心房、単心室
@@ -157,7 +163,7 @@
     source_license: 「無断転載を禁ずる」の表示。CC の表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: CH-018（指定難病の資料の Fontan 術後症候群）
+    corroboration: 'CH-018（指定難病の資料の Fontan 術後症候群）。自由に使える資料による裏づけ（OPEN、作り手の調査バッチ94 2026-11-15）：Jarasvaraparn C, Schooler GR, González IA, Ginde S, Mavis A. Long-Term Care in Fontan Circulation: Surveillance and Management of Fontan-Associated Liver Disease and Protein-Losing Enteropathy. Curr Cardiol Rep. 2026;28(1)（PMID: 42154163、DOI: 10.1007/s11886-026-02378-0、PMCID: PMC13186934、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補（Fontan 循環の長期管理の総説、CC BY）は、長期合併症として単心室機能低下による心不全、蛋白漏出性胃腸症、不整脈、Fontan 関連肝疾患（肝うっ血を含む）を挙げ、カードの原因の顔ぶれ（心室機能の低下・蛋白漏出性胃腸症・肝うっ血・心房性不整脈）と定性的に重なる。肺血管抵抗の上昇による前負荷の不足と洞不全の明記、心不全の有病率が成人期に約50%へ増えるという値は再掲されない。数値の照合：不一致（対象が異なる）：候補の10年生存率は「2001年以降の手術例で90〜95%超」であり、カードの「おおむね80%を超える」（時代を問わない一般値）とは対象が異なり一致しない。候補の数値をカードの裏づけとして登録しないこと。心不全の有病率（術後早期10〜20%から成人期約50%）は候補に再掲がない。留保：カードには既存の裏づけ CH-018（指定難病の資料の Fontan 術後症候群）があり、本候補は追加の裏づけである。主出典の区分は CH-002 行のとおり RESTRICTED が正しい。監視事項：主出典の2025年改訂版が刊行済み（申し送り参照）。候補のライセンスは Europe PMC の個別レコード（cc by）と PMC 全文のライセンス要素（CC BY 4.0）で個別確認した'
   uncertainty: 数値はガイドラインが引用した研究による（二次資料経由）。2025年改訂版での変更は未確認
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)'
@@ -172,6 +178,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ94 2026-11-15）。三原の承認（2026-11-11）による
 - id: CH-006
   domain: CH
   subdomain: 心房中隔欠損症
@@ -433,7 +442,7 @@
     source_license: CC BY-NC-ND 4.0（リポジトリの表示。著者最終稿）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ94 2026-11-15）：Zhou Z, Huang Y, Han L, et al. Right ventricular dilatation score: a new assessment to right ventricular dilatation in adult patients with repaired tetralogy of Fallot. BMC Cardiovasc Disord. 2023;23(1)（PMID: 37710173、DOI: 10.1186/s12872-023-03487-2、PMCID: PMC10500856、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補（Fallot 四徴症修復後の右室拡大の研究、CC BY）は、心臓MRIによる右室容積が肺動脈弁置換の介入判断の基準になることと、ガイドラインの閾値として右室拡張末期容積係数160 mL/m²以上を再掲する。心臓MRIで逆流率40%超を重症とする肺動脈弁逆流の重症度分類と、微量の肺動脈弁逆流が健常者の最大75%にみられるという値は、自由な全文で再掲されない。数値の照合：部分一致：右室拡張末期容積係数160 mL/m²は候補の再掲と一致する。右室収縮末期容積係数は、候補が閾値を80 mL/m²とするのに対しカードは82 mL/m²超であり一致しない。候補の80をカードの82の裏づけとして登録しないこと。別の CC BY の系統的レビュー（Slouha E, et al. Cureus. 2023;15(11):e49577）にも近傍値（収縮末期容積係数82未満で正常化、拡張末期容積係数158・165等）が散在するが、カードの「160超・82超」の組そのものの再掲ではない。留保：主出典（SRC-234）の刊行版ライセンスは CC BY-NC-ND 4.0 で、現行 RESTRICTED が正しい（区分訂正の節参照。Crossref は CC BY 4.0 を記録するが刊行版を優先する）。カードの uncertainty「刊行版の表記は未確認」は本バッチで解消した（申し送り参照）。識別子補完候補あり（SRC-234 の PMID・PMCID）。候補のライセンスは Europe PMC の個別レコード（cc by）と PMC 全文のライセンス要素（CC BY 4.0）で個別確認した'
   uncertainty: 著者最終稿で確認した。刊行版の表記は未確認
   curriculum:
     core_curriculum: 'PS-02-06-05 (id: JkxnuQw)；TBL-01-00-188 (id: JlvnlvM)；TBL-02-05-029 (id: JlAKpgA)'
@@ -448,6 +457,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ94 2026-11-15）。三原の承認（2026-11-11）による
 - id: CH-014
   domain: CH
   subdomain: 完全大血管転位症

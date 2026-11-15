@@ -1,0 +1,46 @@
+{
+ "class": [
+  [
+   "SRC-3081",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-3084",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-3085",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-3087",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-3095",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [],
+ "B": [
+  "ID-001",
+  "ID-002",
+  "ID-003",
+  "ID-004",
+  "ID-005",
+  "ID-007",
+  "ID-008",
+  "ID-009",
+  "ID-010",
+  "ID-011",
+  "ID-012",
+  "ID-017",
+  "ID-019"
+ ],
+ "new_src": []
+}

@@ -1,0 +1,15 @@
+{
+ "class": [
+  [
+   "SRC-4140",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [],
+ "B": [
+  "OX-001",
+  "OX-002"
+ ],
+ "new_src": []
+}

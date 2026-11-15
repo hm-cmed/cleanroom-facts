@@ -1558,7 +1558,7 @@
     url: https://doi.org/10.1177/0194599817722550
     source_license: © American Academy of Otolaryngology-Head and Neck Surgery Foundation（SAGE、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 正確度・感度と大きさの基準（1.5cm）はガイドライン本文から読み取った値である。レベル分類の各レベルの境界の定義は同ガイドラインの図（Figure 7）に示されるが、図の細部は本文で確認できないため主張には含めていない。本出典は既存マスターに SRC-1210 として登録済みであり、本カードはその再利用である。対象は成人で、小児の頸部腫瘤には適用されない。薬剤名は含めていない。
   curriculum:
@@ -1574,3 +1574,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1210 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による

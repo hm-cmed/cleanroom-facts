@@ -17,8 +17,8 @@
     url: https://doi.org/10.1055/s-0037-1614494
     source_license: Crossref にライセンス登録なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ70 2026-11-15）：Araki S, Shirahata A. Vitamin K Deficiency Bleeding in Infancy. Nutrients. 2020;12(3):780（PMID: 32187975、DOI: 10.3390/nu12030780、PMCID: PMC7146284、https://pmc.ncbi.nlm.nih.gov/articles/PMC7146284/）。裏づける部分：候補（CC BY 総説）が、VKDB はビタミンK補充で凝固パラメータが速やかに是正される止血障害であること、発症時期により早発型（生後24時間以内）・古典型・晩発型（生後2〜12週、最長6か月）に分類されることを明記し、カードの定義と分類の骨格と一致する。同じく CC BY の Mirone ら（Int J Mol Sci. 2026、PMC12941253）は、ビタミンK依存性凝固因子（II・VII・IX・X）の活性低下という定義要素をほぼ逐語で再掲する。数値の照合：分類の境界に表記差がある。古典型はカード（ISTH 1999）が生後1〜7日、候補は2〜7日。晩発型の開始はカードが生後1週以降、候補は2週以降。分類の構造そのものは一致する。留保：主出典 SRC-2731 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: ISTH 小児・周産期分科会による定義と分類（1999年）に基づく。病因による特発性と二次性の区別も同文献にあるが、本カードは発症時期による分類に絞った。
   curriculum:
     kokushi: 医学各論 Ⅶ-5-A-①（ビタミンK欠乏症、a）
@@ -33,6 +33,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/41_hm_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2731 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ70 2026-11-15）。三原の承認（2026-11-11）による
 - id: PB-002
   domain: PB
   subdomain: ビタミンK欠乏症
@@ -52,8 +58,8 @@
     url: https://doi.org/10.1016/j.blre.2008.06.001
     source_license: Crossref の登録は Elsevier の TDM ライセンスのみ（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ70 2026-11-15）：Araki S, Shirahata A. Vitamin K Deficiency Bleeding in Infancy. Nutrients. 2020;12(3):780（PMID: 32187975、DOI: 10.3390/nu12030780、PMCID: PMC7146284、https://pmc.ncbi.nlm.nih.gov/articles/PMC7146284/）。裏づける部分：候補（CC BY 総説）が、晩発型は生後2週〜6か月に起こり「3〜8週に発生が増える」こと、主な出血部位として頭蓋内が筆頭に挙がること、背景に胆道閉鎖症などの胆汁うっ滞性疾患が関わること、診断の文脈で PIVKA-II がビタミンK状態の指標として論じられることを明記し、カードの主張と一致する。数値の照合：発生率は候補の国別データ（英国 4.4／出生10万、ドイツ 7.2／出生10万）がカードの「欧州で出生10万あたり4〜7件」を挟む範囲で整合する。留保：PIVKA-II は候補では状態指標・スクリーニングの位置づけで、「診断に有用」という表現は主出典より弱い。主出典 SRC-2732 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: 発生率の数値は欧州の報告に基づくもので、日本の発生率は本出典では確認していない。古典型が生後1週以内に哺乳の遅れ・不足と関連して起こる点も同文献にある。
   curriculum:
     kokushi: 医学各論 Ⅶ-5-A-①（ビタミンK欠乏症、a）
@@ -68,6 +74,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/41_hm_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2732 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ70 2026-11-15）。三原の承認（2026-11-11）による
 - id: PB-003
   domain: PB
   subdomain: ビタミンK欠乏症
@@ -87,7 +99,7 @@
     url: http://www.jpeds.or.jp/uploads/files/20211130_VK_h.pdf
     source_license: 学会文書（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 従来の標準であった2010年改訂ガイドラインの3回投与法からの変更である。ビタミンK2シロップ（ケイツーシロップ0.2%、メナテトレノン）は国内で販売されていることを確認したが、予防投与そのものの保険適用の扱いは未確認。
   curriculum:
@@ -106,6 +118,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅰ-3-H-① を足した（医学各論 Ⅶ-5-A-①（ビタミンK欠乏症、a） → 医学各論 Ⅶ-5-A-①（ビタミンK欠乏症、a）；医学各論 Ⅰ-3-H-①（ビタミンK欠乏症、a））。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2733 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: PB-004
   domain: PB
   subdomain: サラセミア
@@ -126,7 +141,7 @@
     source_license: CC BY-NC-ND 4.0（Europe PMC・Crossref で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ70 2026-11-15）：Zainab F, Hasan AH, Abid MH, Abid MA. Contemporary Management of Thalassemia: A Perspective on Current Standards and the Emergence of FDA-Approved Oral Therapy. Health Sci Rep. 2026;9(9):e73178（PMID: 42698910、DOI: 10.1002/hsr2.73178、PMCID: PMC13543164、https://pmc.ncbi.nlm.nih.gov/articles/PMC13543164/）。裏づける部分：候補（CC BY 総説）が、輸血依存性サラセミアは生涯にわたる管理を要する病態で、現在の管理は定期輸血・鉄キレート療法と多職種による支持的ケアからなることを明記し、2021年の Thalassaemia International Federation ガイドライン（主出典）を引用して位置づけており、カードの骨格と一致する。数値の照合：数値なし（ケア体制のカード）。留保：「専門施設でのフォローアップ」という限定と「2021年に第4版」という版の明示は候補に再掲なし。主出典 SRC-2734 の区分は現行 RESTRICTED が正しい（CC BY-NC-ND 4.0 を Crossref・Europe PMC で個別確認）。PMCID の補完候補あり（補完候補の節参照）'
   uncertainty: 本論文はガイドライン第4版の臨床実践に関する要約であり、個別の推奨の文面はガイドライン全文の確認が必要。日本国内のサラセミアの疫学と国内ガイドラインの有無は未確認。
   curriculum:
     kokushi: 医学各論 Ⅶ-5-A-②（サラセミア、b）
@@ -141,6 +156,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/41_hm_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ70 2026-11-15）。三原の承認（2026-11-11）による
 - id: PB-005
   domain: PB
   subdomain: サラセミア
@@ -160,8 +178,8 @@
     url: https://doi.org/10.1016/S0140-6736(22)00536-0
     source_license: Crossref の登録は Elsevier の TDM ライセンスのみ（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ70 2026-11-15）：Zainab F, Hasan AH, Abid MH, Abid MA. Contemporary Management of Thalassemia: A Perspective on Current Standards and the Emergence of FDA-Approved Oral Therapy. Health Sci Rep. 2026;9(9):e73178（PMID: 42698910、DOI: 10.1002/hsr2.73178、PMCID: PMC13543164、https://pmc.ncbi.nlm.nih.gov/articles/PMC13543164/）。裏づける部分：候補（CC BY 総説）が、サラセミアはグロビン鎖合成の欠陥による遺伝性疾患群で無効造血と慢性貧血を来すこと、治療は定期輸血と鉄キレート療法が中心で同種造血幹細胞移植が適した患者への根治的選択肢であること、輸血に伴う進行性の鉄過剰が管理の中心課題であることを明記し、カードの骨格と一致する。数値の照合：数値なし。留保：「溶血の増加」「鉄恒常性の破綻」の逐語の再掲はない（候補は無効造血・慢性貧血と鉄過剰の枠組みで述べる）。主出典 SRC-2735 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: ルスパテルセプトは米国・EU で β サラセミアに承認されているが、国内では骨髄異形成症候群に伴う貧血の適応のみ確認でき、サラセミアへの国内適応は未確認のため主張に入れていない。
   curriculum:
     kokushi: 医学各論 Ⅶ-5-A-②（サラセミア、b）
@@ -176,6 +194,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/41_hm_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2735 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ70 2026-11-15）。三原の承認（2026-11-11）による
 - id: PB-006
   domain: PB
   subdomain: 新生児出血性疾患
@@ -195,8 +219,8 @@
     url: https://doi.org/10.1055/s-0037-1614494
     source_license: Crossref にライセンス登録なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ70 2026-11-15）：Araki S, Shirahata A. Vitamin K Deficiency Bleeding in Infancy. Nutrients. 2020;12(3):780（PMID: 32187975、DOI: 10.3390/nu12030780、PMCID: PMC7146284、https://pmc.ncbi.nlm.nih.gov/articles/PMC7146284/）。裏づける部分：候補（CC BY 総説）が、「VKDB という用語は、VKDB が新生児期の後にも起こりうるため、新生児出血性疾患（HDN）という用語に取って代わった」と明記し、カードの用語置き換えの趣旨と一致する。数値の照合：数値なし（用語整理のカード）。留保：置き換えの提案主体が ISTH 小児・周産期分科会である点と、「新生児期の出血のすべてがビタミンK欠乏によるわけではない」という前段は候補に再掲なし。主出典 SRC-2731 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: 新生児の出血性疾患全般（凝固因子欠乏、血小板異常、DIC など）を総論として扱うガイドライン級の一次資料は確認できなかったため、本項目は用語の整理と二次性の原因（PB-007）の範囲に絞った。
   curriculum:
     kokushi: 医学各論 Ⅶ-5-A-③（新生児出血性疾患、b）
@@ -211,6 +235,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/41_hm_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2731 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ70 2026-11-15）。三原の承認（2026-11-11）による
 - id: PB-007
   domain: PB
   subdomain: 新生児出血性疾患
@@ -231,7 +261,7 @@
     source_license: CC BY-NC-ND 4.0（Europe PMC で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ70 2026-11-15）：Araki S, Shirahata A. Vitamin K Deficiency Bleeding in Infancy. Nutrients. 2020;12(3):780（PMID: 32187975、DOI: 10.3390/nu12030780、PMCID: PMC7146284、https://pmc.ncbi.nlm.nih.gov/articles/PMC7146284/）。裏づける部分：候補（CC BY 総説）が、晩発型 VKDB は主に二次性で背景疾患として胆道閉鎖症・嚢胞性線維症などの胆汁うっ滞を伴う肝疾患が挙がること、母乳栄養と胆汁うっ滞が晩発型 VKDB と密接に関連することを明記し、カードの病態部分（胆汁うっ滞性疾患がビタミンK吸収不全を介して二次性 VKDB の背景となる）と一致する。数値の照合：日本の胆道閉鎖症登録研究の比較結果（3か月法群で VKDB の発生なし、3回法群より有意に少ない、傾向スコアマッチング p=0.029、解析対象289例）は主出典（Okubo ら 2025）固有の結果で、自由全文に再掲なし。留保：主出典 SRC-2736 の区分は現行 RESTRICTED が正しい（CC BY-NC-ND 4.0 を Crossref・Europe PMC で個別確認）。PMCID の補完候補あり（補完候補の節参照）'
   uncertainty: 日本胆道閉鎖症登録（2015〜2019年、解析対象289例）に基づく結果で、3回法との比較は傾向スコアマッチング解析（p=0.029）による。
   curriculum:
     kokushi: 医学各論 Ⅶ-5-A-③（新生児出血性疾患、b）
@@ -246,6 +276,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/41_hm_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ70 2026-11-15）。三原の承認（2026-11-11）による
 - id: PB-008
   domain: PB
   subdomain: 異常ヘモグロビン症
@@ -300,8 +333,8 @@
     url: https://doi.org/10.1111/j.1365-2141.2011.08921.x
     source_license: Crossref の登録は Wiley の利用条件のみ（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ70 2026-11-15）：Qadah T. Inherited Anemia: A Contemporary Clinical and Lab Review. Healthcare (Basel). 2026;14(20):3404（PMID: 42940449、DOI: 10.3390/healthcare14203404、PMCID: PMC13704711、https://pmc.ncbi.nlm.nih.gov/articles/PMC13704711/）。裏づける部分：候補（CC BY 総説）が、遺伝性球状赤血球症の診断ではエオジン-5-マレイミド（EMA）結合試験が感度・特異度の高さから好まれる方法であること、臨床・検査所見で確定しない例では赤血球膜の検査や遺伝学的検査が用いられることを明記し、カードの診断部分と一致する。数値の照合：数値なし。留保：脾摘の長期的リスクを踏まえた外科的管理の見直し（軽症小児における胆嚢摘出時の脾摘同時実施の適応など）は候補に再掲なし。主出典 SRC-2738 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: 英国血液学会（BCSH）の2011年改訂版ガイドラインに基づく内容で、2004年版を置き換える版である。日本小児血液・がん学会による本疾患単独のガイドラインの有無は未確認。
   curriculum:
     kokushi: 医学各論 Ⅶ-5-A-⑤（遺伝性球状赤血球症、c）
@@ -316,6 +349,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/41_hm_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2738 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ70 2026-11-15）。三原の承認（2026-11-11）による
 - id: PB-010
   domain: PB
   subdomain: 赤血球酵素異常症
@@ -335,8 +374,8 @@
     url: https://doi.org/10.1182/blood.2019000944
     source_license: Crossref にライセンス登録なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ70 2026-11-15）：Huynh J, Eisenbud L, Gutierrez R, Chuang FL, Dichter D. Late Recognition of Glucose-6-Phosphate Dehydrogenase Deficiency in a 70-Year-Old Man: A Case Report. Cureus. 2026;18(5)（PMID: 42245854、DOI: 10.7759/cureus.108227、PMCID: PMC13231936、https://pmc.ncbi.nlm.nih.gov/articles/PMC13231936/）。裏づける部分：候補（CC BY の症例報告）が、G6PD 欠損症は X 連鎖で世界で5億人を超える人が持ち、赤血球の酵素異常症として最も多いこと、誘因がなければ多くは無症候のまま経過すること、酸化ストレス（感染、ソラマメ、プリマキンやラスブリカーゼなどの薬剤）を契機に急性溶血性貧血を起こしうることを明記し、カードの主張とほぼ全面的に一致する。数値の照合：有病者数は候補「5億人超」とカード「約5億人」で一致。留保：候補は症例報告で水準は高くないが、主張の骨格と数値の再掲は本文（序論と誘因の一覧表）で確認した。主出典 SRC-2739 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: ラスブリカーゼは国内承認薬であるが、添付文書における G6PD 欠損症への禁忌・注意の記載は未照合。プリマキンの国内承認状況も未確認。一部の変異では慢性非球状性溶血性貧血を呈する点も同文献にある。
   curriculum:
     kokushi: 医学各論 Ⅶ-5-A-⑥（赤血球酵素異常症、c）
@@ -351,6 +390,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/41_hm_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2739 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ70 2026-11-15）。三原の承認（2026-11-11）による
 - id: PB-011
   domain: PB
   subdomain: 赤血球酵素異常症
@@ -370,8 +415,8 @@
     url: https://doi.org/10.1016/S2352-3026(23)00377-0
     source_license: Crossref の登録は Elsevier の TDM ライセンス等のみ（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ70 2026-11-15）：Zhao W, Wang Y, Gao N, Yu W, Liu Z. Global research landscape and thematic transitions in pyruvate kinase deficiency: a decadal bibliometric analysis (2015-2025). Front Med. 2026;13:1865929（PMID: 42422835、DOI: 10.3389/fmed.2026.1865929、PMCID: PMC13342182、https://pmc.ncbi.nlm.nih.gov/articles/PMC13342182/）。裏づける部分：候補（CC BY の文献計量学論文）が、ピルビン酸キナーゼ欠損症は先天性非球状性溶血性貧血の最も多い原因で、有病率は10万〜30万人に1人と推定されることを明記し、2024年の国際専門家ガイドライン（主出典）を引用しており、カードの中核と一致する。Qadah 2026（CC BY）も本症を非球状性溶血性貧血を来す赤血球酵素異常症として分類する。数値の照合：有病率（10万〜30万人に1人）は候補と一致。留保：常染色体劣性・解糖系酵素異常という定義要素、胎児水腫から完全に代償された溶血までの臨床像の幅、「31の推奨」という件数は候補に再掲なし。主出典 SRC-2740 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: ミタピバト（ピルビン酸キナーゼ活性化薬）は米国で2022年、EU で2022年に成人のピルビン酸キナーゼ欠損症の溶血性貧血へ承認されているが、日本での承認は未確認のため主張に入れていない。治療の中心は輸血・脾摘・鉄キレートなどの支持療法である。
   curriculum:
     kokushi: 医学各論 Ⅶ-5-A-⑥（赤血球酵素異常症、c）
@@ -386,6 +431,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/41_hm_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2740 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ70 2026-11-15）。三原の承認（2026-11-11）による
 - id: PB-012
   domain: PB
   subdomain: 先天性血小板機能異常症
@@ -405,8 +456,8 @@
     url: https://doi.org/10.1111/bjh.15409
     source_license: Crossref の登録は Wiley の利用条件のみ（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ70 2026-11-15）：Fiore M, Artoni A, Klamroth R, et al.; EAHAD Glanzmann Thrombasthenia Working Group. European Management of Glanzmann''s Thrombasthenia: A Survey of Current Clinical Practice. Haemophilia. 2025;31(6):1261-1270（PMID: 40932452、DOI: 10.1111/hae.70114、PMCID: PMC12612366、https://pmc.ncbi.nlm.nih.gov/articles/PMC12612366/）。裏づける部分：候補（CC BY の欧州実態調査）が、血小板無力症はまれな遺伝性血小板疾患で、その管理は欧州の専門・参照センターに集約され多面的なアプローチで行われることを示し、カードの骨格（まれだが長期管理を要する重要な出血性疾患で、専門施設での助言と継続管理を受ける）と一致する。数値の照合：数値なし。留保：Bernard-Soulier 症候群は候補（血小板無力症の専門調査）の対象外。同症候群を含む先天性血小板異常症の専門施設での多職種管理は Zibara & Machin 2026（CC BY、妊娠・分娩の文脈、PMC13010773）が再掲する。主出典 SRC-2741 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: 2018年の総説に基づく内容で、小児と成人を通じた管理の考え方を示したもの。日本国内の診療体制と疫学は未確認。
   curriculum:
     kokushi: 医学各論 Ⅶ-5-A-⑦（先天性血小板機能異常症、c）
@@ -421,6 +472,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/41_hm_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2741 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ70 2026-11-15）。三原の承認（2026-11-11）による
 - id: PB-013
   domain: PB
   subdomain: 先天性血小板機能異常症
@@ -440,8 +497,8 @@
     url: https://doi.org/10.1111/bjh.15409
     source_license: Crossref の登録は Wiley の利用条件のみ（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ70 2026-11-15）：Zibara V, Machin N. Inherited Platelet Disorders During Pregnancy and Delivery: Overview of Management Strategies and Emerging Therapeutic Considerations. Hematol Rep. 2026;18(2):16（PMID: 41874099、DOI: 10.3390/hematolrep18020016、PMCID: PMC13010773、https://pmc.ncbi.nlm.nih.gov/articles/PMC13010773/）。裏づける部分：候補（CC BY 総説）が、先天性血小板異常症（血小板無力症・Bernard-Soulier 症候群を含む）では出血イベントと手技・分娩の場面ごとに止血対応を組み立てること、血小板不応・同種免疫の有無が対応の選択を左右すること、出産は専門施設で多職種の計画のもとで行うこと、妊娠・分娩が管理の課題になることを明記し、カードの管理方針の骨格と一致する。月経過多が両疾患の女性の課題であることは Raheja ら（Res Pract Thromb Haemost. 2026、CC BY、PMC12925065）も再掲し、周術期の予防的対応の実態は Fiore ら 2025（CC BY）が示す。数値の照合：数値なし。留保：「予防的（定期）治療は行わず」という否定の明示は自由全文になく、管理がイベント・手技単位であることとの整合にとどまる。主出典 SRC-2741 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: 出血合併症の治療・予防に一貫した方法はないと同文献は述べており、個別の止血手段（製剤の選択など）の国内承認・保険適用の状況は未確認のため主張に入れていない。
   curriculum:
     kokushi: 医学各論 Ⅶ-5-A-⑦（先天性血小板機能異常症、c）
@@ -456,6 +513,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/41_hm_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2741 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ70 2026-11-15）。三原の承認（2026-11-11）による
 - id: PB-014
   domain: PB
   subdomain: 白血病
@@ -475,8 +538,8 @@
     url: null
     source_license: 書籍（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ70 2026-11-15）：Inaba H, Pui CH. Advances in the Diagnosis and Treatment of Pediatric Acute Lymphoblastic Leukemia. J Clin Med. 2021;10(9):1926（PMID: 33946897、DOI: 10.3390/jcm10091926、PMCID: PMC8124693、https://pmc.ncbi.nlm.nih.gov/articles/PMC8124693/）。裏づける部分：候補（CC BY 総説）が、急性リンパ性白血病（ALL）は小児期の造血器悪性疾患の中で最も頻度が高く（小児がんの約25%）、発症のピークは2〜5歳であることを明記し、カードの骨格と一致する。数値の照合：発症率は候補では20歳未満で100万人あたり36.2人（米国）。カードの日本の小児人口10万人あたり年3〜4人（＝100万人あたり30〜40人）と数値帯は整合するが、母集団（国・年齢幅）が異なる。日本で年約500人の新規診断という数は自由全文に再掲なし。留保：主出典 SRC-2742 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）。PB-014〜016 は2026年版ガイドラインでの再照合が別途必要（申し送り参照）'
   uncertainty: 日本小児血液・がん学会『小児白血病・リンパ腫診療ガイドライン』2016年版に基づく。同ガイドラインは『小児がん(血液腫瘍・固形腫瘍)診療ガイドライン 2026年版』に統合・改訂されており、2016年版は現行版ではない。数値は2016年版の Web 公開版（2026年10月に公開終了）で確認したもので、2026年版の本文での再照合が必要。
   curriculum:
     kokushi: 医学各論 Ⅶ-5-B-①（白血病、a）
@@ -494,6 +557,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: uncertainty を作り手の訂正申し送り（41_hm_d_jspho_errata.md、案B）の文言に差し替え：出典の2016年版は2026年版に統合・改訂された旧版であることを明記（主張文・数値は変えていない）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2742 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ70 2026-11-15）。三原の承認（2026-11-11）による
 - id: PB-015
   domain: PB
   subdomain: 白血病
@@ -513,8 +582,8 @@
     url: null
     source_license: 書籍（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ70 2026-11-15）：Inaba H, Pui CH. Advances in the Diagnosis and Treatment of Pediatric Acute Lymphoblastic Leukemia. J Clin Med. 2021;10(9):1926（PMID: 33946897、DOI: 10.3390/jcm10091926、PMCID: PMC8124693、https://pmc.ncbi.nlm.nih.gov/articles/PMC8124693/）。裏づける部分：候補（CC BY 総説）が、小児 ALL の化学療法は寛解導入・強化・再寛解導入（遅延強化）・維持（継続）の相から構成されること、年齢・初診時白血球数・細胞遺伝学・ゲノム異常と微小残存病変（MRD）の評価によるリスク層別化に基づいて行われることを明記し、カードの治療構造と一致する。数値の照合：生存率は候補では高所得国で5年生存率90%超。カードの「長期生存率は80%を超え、80〜90%で治癒」とは指標（5年生存率と長期生存・治癒）が異なり、同一数値の再掲ではないが方向は一致する。留保：層別化因子としての中枢神経系・精巣浸潤の有無の明示は候補で確認できなかった。主出典 SRC-2742 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: 日本小児血液・がん学会『小児白血病・リンパ腫診療ガイドライン』2016年版に基づく。同ガイドラインは『小児がん(血液腫瘍・固形腫瘍)診療ガイドライン 2026年版』に統合・改訂されており、2016年版は現行版ではない。数値は2016年版の Web 公開版（2026年10月に公開終了）で確認したもので、2026年版の本文での再照合が必要。 層別化の推奨は2016年版 CQ1 で推奨グレード1A とされている。
   curriculum:
     kokushi: 医学各論 Ⅶ-5-B-①（白血病、a）
@@ -532,6 +601,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: uncertainty を作り手の訂正申し送り（41_hm_d_jspho_errata.md、案B）の文言に差し替え：出典の2016年版は2026年版に統合・改訂された旧版であることを明記（主張文・数値は変えていない）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2742 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ70 2026-11-15）。三原の承認（2026-11-11）による
 - id: PB-016
   domain: PB
   subdomain: 白血病
@@ -551,8 +626,8 @@
     url: null
     source_license: 書籍（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ70 2026-11-15）：Inaba H, Pui CH. Advances in the Diagnosis and Treatment of Pediatric Acute Lymphoblastic Leukemia. J Clin Med. 2021;10(9):1926（PMID: 33946897、DOI: 10.3390/jcm10091926、PMCID: PMC8124693、https://pmc.ncbi.nlm.nih.gov/articles/PMC8124693/）。裏づける部分：候補（CC BY 総説）が、フィラデルフィア染色体陽性（BCR/ABL1 陽性）ALL は小児 ALL の約2〜3%を占める独立した病型で、チロシンキナーゼ阻害薬を併用した化学療法で治療されること、乳児 ALL では KMT2A 再構成が約75%を占め生物学的に特徴的で、Interfant 研究のような乳児専用のプロトコールで治療されてきたことを明記し、カードの主張と一致する。数値の照合：乳児 ALL における KMT2A 再構成の割合（候補では約75%）は、カードの「高率に伴う」と整合する。留保：主出典 SRC-2742 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: チロシンキナーゼ阻害薬（イマチニブ等）の薬剤ごとの国内承認・保険適用の範囲は個別に未照合。ガイドラインの版については PB-014 の uncertainty と同じ（2016年版は旧版で、2026年版統合ガイドラインでの再照合が必要）。
   curriculum:
     kokushi: 医学各論 Ⅶ-5-B-①（白血病、a）
@@ -570,6 +645,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: uncertainty を作り手の訂正申し送り（41_hm_d_jspho_errata.md、案B）の文言に差し替え：出典の2016年版は2026年版に統合・改訂された旧版であることを明記（主張文・数値は変えていない）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2742 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ70 2026-11-15）。三原の承認（2026-11-11）による
 - id: PB-017
   domain: PB
   subdomain: 悪性リンパ腫
@@ -589,8 +670,8 @@
     url: https://doi.org/10.1200/JCO.2014.59.5827
     source_license: Crossref にライセンス登録なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ70 2026-11-15）：PDQ Pediatric Treatment Editorial Board. Childhood Non-Hodgkin Lymphoma Treatment (PDQ®): Health Professional Version. National Cancer Institute（NCBI Bookshelf NBK65738）（PMID: 26389181、https://www.ncbi.nlm.nih.gov/books/NBK65738.1/）。裏づける部分：候補（NCI PDQ 医療者版、米国政府の全文文書）が、小児非ホジキンリンパ腫は主に3群（成熟B細胞性：Burkitt リンパ腫・びまん性大細胞型B細胞リンパ腫・原発性縦隔B細胞リンパ腫／リンパ芽球性リンパ腫／未分化大細胞型リンパ腫）に分類されること、高所得国で小児がんの約7%を占め2番目の10年（思春期）に最も多いこと、成人とは病型構成・病態が異なることを明記し、カードの骨格と一致する。数値の照合：「小児で4番目に多い悪性腫瘍」という順位そのものは候補に再掲なし（候補はリンパ腫全体（ホジキン＋非ホジキン）が小児悪性腫瘍で3番目、NHL は約7%とする）。留保：主出典 SRC-2743 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）。PMCID の補完候補あり（補完候補の節参照）'
   uncertainty: 2015年の総説に基づく国際的な病型構成で、日本国内の小児リンパ腫の登録統計による裏づけは未確認。小児 Hodgkin リンパ腫に絞った総説級の一次資料は確認できなかったため、本項目は非ホジキンリンパ腫を中心に構成した。
   curriculum:
     kokushi: 医学各論 Ⅶ-5-B-②（悪性リンパ腫、b）
@@ -605,6 +686,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/41_hm_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2743 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ70 2026-11-15）。三原の承認（2026-11-11）による
 - id: PB-018
   domain: PB
   subdomain: 悪性リンパ腫
@@ -624,8 +711,8 @@
     url: https://doi.org/10.1200/JCO.2014.59.5827
     source_license: Crossref にライセンス登録なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ70 2026-11-15）：PDQ Pediatric Treatment Editorial Board. Childhood Non-Hodgkin Lymphoma Treatment (PDQ®): Health Professional Version. National Cancer Institute（NCBI Bookshelf NBK65738）（PMID: 26389181、https://www.ncbi.nlm.nih.gov/books/NBK65738.1/）。裏づける部分：候補（NCI PDQ、米国政府の全文文書）が、リンパ芽球性リンパ腫では白血病に準じた長期の ALL 型治療が優れ、Burkitt リンパ腫では短期間の強力なパルス療法が優れることを明記し、高所得国では小児・思春期の非ホジキンリンパ腫の80%超が5年以上生存することを示す。未分化大細胞型リンパ腫の無イベント生存率約75%は、Mussolin ら（Cancers. 2020、CC BY、PMC7598675）の ALCL99 試験長期結果（2年無イベント生存率が70〜75%の範囲）が再掲する。数値の照合：全体の生存率「80%超」は候補（PDQ）と一致。未分化大細胞型リンパ腫の無イベント生存率は候補（Mussolin ら）では70〜75%の範囲表記で、カードの「約75%」はその上限側に当たる。留保：主出典 SRC-2743 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）。PMCID の補完候補あり（補完候補の節参照）'
   uncertainty: リツキシマブ追加の利益は原発性縦隔 B 細胞リンパ腫以外では確立していないと同文献（2015年）は述べており、その後の国際共同研究による更新は本カードでは未照合。個別薬剤の国内承認・保険適用の状況は主張に含めていない。
   curriculum:
     kokushi: 医学各論 Ⅶ-5-B-②（悪性リンパ腫、b）
@@ -640,3 +727,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/41_hm_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-2743 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ70 2026-11-15）。三原の承認（2026-11-11）による

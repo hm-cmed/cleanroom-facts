@@ -1,6 +1,6 @@
 # NB 新生児の異常 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-14
+[← 一覧に戻る](README.md)　更新：2026-11-15
 
 全 31 件のうち、監修済み 0 件。
 
@@ -290,7 +290,7 @@
 
 - 条件：region: 国際／対象: 新生児
 - 不確実性：新生児メレナを含む具体的な出血部位や症状の内訳は、出典の抄録の範囲では確認できていないため主張に入れていない（本カードは新生児期の出血症としての古典型の枠組みに限る）。定義と分類そのものは第41回 PB-001、晩発型の臨床像は PB-002 が作成済みで、本カードは新生児期の古典型に範囲を限った。ビタミンK2シロップの予防投与の保険適用の扱いは未確認である（PB-003 と共通）
-- 出典：Shearer MJ. Vitamin K deficiency bleeding (VKDB) in early infancy. Blood Rev. 2009;23(2):49-59.　[DOI 10.1016/j.blre.2008.06.001](https://doi.org/10.1016/j.blre.2008.06.001)　[PMID 18804903](https://pubmed.ncbi.nlm.nih.gov/18804903/)（区分 UNKNOWN）
+- 出典：Shearer MJ. Vitamin K deficiency bleeding (VKDB) in early infancy. Blood Rev. 2009;23(2):49-59.　[DOI 10.1016/j.blre.2008.06.001](https://doi.org/10.1016/j.blre.2008.06.001)　[PMID 18804903](https://pubmed.ncbi.nlm.nih.gov/18804903/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-3-H-①（ビタミンK欠乏症、a）　コアカリ：PS-02-12-03 (id: Jli53IQ)；TBL-01-00-396 (id: JlvnmE0)；PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-021&card_id=NB-021&version=7c5c6b5a4e)　（版 `7c5c6b5a4e`）
 

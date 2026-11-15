@@ -16,8 +16,8 @@
     url: https://pubmed.ncbi.nlm.nih.gov/20229972/
     source_license: © American Academy of Family Physicians（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ86 2026-11-15）：Elmehallawy GS, Alharbi RA, Kurdi SKA. Drug-Induced Cutaneous Reactions: A Clinically Oriented Review for Frontline Physicians. Cureus. 2026;18(2):e104176（PMID: 41909301、DOI: 10.7759/cureus.104176、PMCID: PMC13019655、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：発疹の評価が、曝露と発症の時間関係を確かめる病歴聴取と、病変の形態・分布・粘膜病変・発熱などの全身所見に重点を置く身体診察からなる構造化されたアプローチであることを再掲する。数値の照合：数値の主張なし。留保：候補は薬疹に特化した総説であり、手掌・足底、顔面、爪、日光曝露部、屈側・伸側といった分布の詳細、圧迫による退色やケブネル現象、アトピー歴・旅行歴といった主出典の個別要素は再掲なし。主出典は © American Academy of Family Physicians で CC 表示がなく、Europe PMC でも非OA・全文なし。現行 UNKNOWN は RESTRICTED への訂正対象（区分訂正の節参照）'
   uncertainty: Am Fam Physician は DOI を付与していないため DOI は null とし、PubMed レコードで書誌と PMID を確認した。本カードは2部構成の第2部（診断アプローチ）に基づき、個別疾患の鑑別表（第1部）は含めていない。
   curriculum:
     core_curriculum: 'PS-02-04-02 (id: JkxnuP8)；TBL-02-03-004 (id: JlAKpaY)；TBL-02-03-005 (id: JlAKpac)'
@@ -32,6 +32,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1200 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ86 2026-11-15）。三原の承認（2026-11-11）による
 - id: HX-002
   domain: HX
   subdomain: ダーモスコピー
@@ -51,8 +57,8 @@
     url: https://doi.org/10.1002/14651858.CD011901.pub2
     source_license: © The Cochrane Collaboration（Wiley、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（CC BY（OPEN）、作り手の調査バッチ86 2026-11-15）：Klein CM, Sivesind TE, Dellavalle RP. From the Cochrane Library: Visual Inspection and Dermoscopy, Alone or in Combination, for Diagnosing Keratinocyte Skin Cancers in Adults. JMIR Dermatol. 2024;7:e41657（PMID: 38451581、DOI: 10.2196/41657、PMCID: PMC10958336、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：主出典（コクランレビュー）の主要結果を要約し、対面評価において基底細胞癌の検出でダーモスコピーが肉眼観察より正確であること、有棘細胞癌については結論を出すのに十分なデータがなかったことを再掲する。数値の照合：特異度を80%に固定したときの感度93%（ダーモスコピー）対79%（肉眼観察）は候補に正確に再掲され、相対診断オッズ比8.2も一致する。カード冒頭のダーモスコピーの定義（光源を備えた手持ち式拡大鏡で表皮から真皮浅層までを観察する）は候補に再掲なし。留保：主出典の PMC 全文（PMC6516870）の著作権表示は「Copyright © 2018 The Cochrane Collaboration」で CC ライセンス要素はなく、刊行版も CC ではないため、PMC に全文があっても自由とはみなさない。現行 UNKNOWN は RESTRICTED への訂正対象'
   uncertainty: 感度・特異度の数値は出典（コクランレビュー）の抄録と本文のメタ解析結果から読み取った。本レビューの対象は角化細胞癌であり、悪性黒色腫の診断精度は同じ著者らの別レビューの範囲であるため本カードには含めていない。
   curriculum:
     core_curriculum: 'PS-02-04-03 (id: JkxnuQA)；TBL-02-03-011 (id: JlAKpa0)'
@@ -67,6 +73,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1201 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY（OPEN）、作り手の調査バッチ86 2026-11-15）。三原の承認（2026-11-11）による
 - id: HX-003
   domain: HX
   subdomain: 皮膚アレルギー検査（パッチテスト）
@@ -119,8 +131,8 @@
     url: https://doi.org/10.1046/j.1525-1497.1998.00009.x
     source_license: © Society of General Internal Medicine（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（CC BY（OPEN）、作り手の調査バッチ86 2026-11-15）：Llamas-Velasco M, Rozas-Muñoz E, Fernandez-Flores A, Fernandez-Figueras MT. Basic Principles of Skin Biopsy Optimization in Dermatopathology. Dermatopathology (Basel). 2026;13(3):42（PMID: 42782839、DOI: 10.3390/dermatopathology13030042、PMCID: PMC13605635、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：生検の質は部位の選択、手技の実行、手技の選択（パンチ、シェーブ、切除）によって決まること、病変の種類や疑う診断に応じて手技と部位を選ぶ原則を再掲する。数値の照合：数値の主張なし。留保：カードの「皮膚科専門医でない内科医が行う生検」という主出典の枠組み自体は、皮膚病理の最適化を主題とする候補には再掲なし。主出典の PMC 全文（PMC1496896）の著作権表示は「1998 by the Society of General Internal Medicine」で CC 表示はなく、現行 UNKNOWN は RESTRICTED への訂正対象'
   uncertainty: 1998年の総説であり、その後の手技や病理検査の進歩は反映されていない可能性がある。個別の手技の手順の詳細は本文を確認していないため、本カードは定性的な記述に限った。
   curriculum:
     core_curriculum: 'PS-02-04-03 (id: JkxnuQA)；TBL-02-03-008 (id: JlAKpao)'
@@ -135,6 +147,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1203 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY（OPEN）、作り手の調査バッチ86 2026-11-15）。三原の承認（2026-11-11）による
 - id: HX-005
   domain: HX
   subdomain: 真菌検査（KOH直接検鏡）
@@ -153,8 +171,8 @@
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3994805/
     source_license: © College of Family Physicians of Canada（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（CC BY（OPEN）、作り手の調査バッチ86 2026-11-15）：Gupta AK, Hall DC, Cooper EA, Ghannoum MA. Diagnosing Onychomycosis: What''s New? J Fungi (Basel). 2022;8(5):464（PMID: 35628720、DOI: 10.3390/jof8050464、PMCID: PMC9146047、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：KOH直接検鏡が、診察室で1時間以内に酵母・菌糸の有無を判定できる低コストの検査であることを、爪真菌症の診断法の比較表で再掲する。数値の照合：尤度比（KOH 2.86、基準標準の培養3.28）と培養に6週間を要するという数値は候補に再掲なし。20% KOHを1滴、10倍で観察するという手順の細目も候補にはない。留保：主出典の PMC 全文（PMC3994805）の著作権表示は「Copyright © the College of Family Physicians of Canada」で CC 表示はなく、現行 UNKNOWN は RESTRICTED への訂正対象'
   uncertainty: 尤度比などの数値は出典の本文（PMC 全文）で確認した。出典は爪真菌症の評価に関する研究を引いており、部位によって検査性能が異なる可能性がある。本記事には DOI が付与されていないため DOI は null とした。
   curriculum:
     core_curriculum: 'PS-02-04-03 (id: JkxnuQA)；TBL-02-03-010 (id: JlAKpaw)'
@@ -169,6 +187,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1204 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY（OPEN）、作り手の調査バッチ86 2026-11-15）。三原の承認（2026-11-11）による
 - id: HX-006
   domain: HX
   subdomain: 瘙痒の評価
@@ -187,8 +211,8 @@
     url: https://doi.org/10.1111/bjd.16117
     source_license: © British Association of Dermatologists（Wiley、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ86 2026-11-15）：Hashimoto T, Okuno S. Practical guide for the diagnosis and treatment of localized and generalized cutaneous pruritus (chronic itch with no underlying pruritic dermatosis). J Dermatol. 2025;52(2):204-220（PMID: 39663861、DOI: 10.1111/1346-8138.17565、PMCID: PMC11807371、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：全面：原発性の皮疹のない全身性瘙痒は全身疾患（内臓疾患など）を示唆すること、その精査と管理が課題であることを再掲し、主出典である英国皮膚科医協会の2018年ガイドラインを正式名称（基礎にある皮膚疾患のない成人の全身性瘙痒の精査と管理）で明示して、その対象と位置づけを確認する。数値の照合：数値の主張なし。留保：カードの主張はガイドラインの対象と位置づけを示す定性的なものであり、候補の再掲で過不足なくカバーされる。主出典は Crossref の刊行版ライセンスが Wiley の利用条件（vor）とテキストマイニング用のみで CC ではなく、Europe PMC でも非OA。現行 UNKNOWN は RESTRICTED への訂正対象'
   uncertainty: 本ガイドラインの抄録は PubMed に収載されておらず、個別の検査項目や推奨の詳細は確認していないため、本カードはガイドラインの対象と位置づけを示す定性的な記述に限った。
   curriculum:
     core_curriculum: 'PS-02-04-02 (id: JkxnuP8)；TBL-02-03-005 (id: JlAKpac)'
@@ -203,6 +227,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1205 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ86 2026-11-15）。三原の承認（2026-11-11）による
 - id: HX-007
   domain: HX
   subdomain: 眼科の基本検査（視力・眼圧・眼底）
@@ -221,7 +251,7 @@
     url: https://doi.org/10.1016/j.ophtha.2025.12.031
     source_license: © American Academy of Ophthalmology（Elsevier、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本カードは Preferred Practice Pattern の位置づけと基本検査の構成を示す定性的な記述であり、個別の検査の基準値や実施間隔など本文の細目は確認していない。
   curriculum:
@@ -237,6 +267,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1206 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: HX-008
   domain: HX
   subdomain: 聴力検査と平衡機能検査
@@ -324,8 +357,8 @@
     url: https://doi.org/10.1177/0194599819890327
     source_license: © American Academy of Otolaryngology-Head and Neck Surgery Foundation（SAGE、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（CC BY（OPEN）、作り手の調査バッチ86 2026-11-15）：Alkhalifah KM, Alhumaidan NI, Alotaibi TA, et al. A Systematic Review and Meta-Analysis of the Awareness of and Attitudes Toward Epistaxis. Cureus. 2023;15(10):e46590（PMID: 37933345、DOI: 10.7759/cureus.46590、PMCID: PMC10625789、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：鼻出血の疫学のうち、生涯に最大で60%の人が経験し、その約6%が医療機関を受診することを再掲する。数値の照合：60%と約6%はカードと一致する。救急受診の0.5%は、候補では「米国での受診200件に1件（＝0.5%）」という一般の受診を母数とする形で現れ、カードの「救急外来受診の0.5%」とは母数の枠組みが異なる。耳鼻咽喉科関連の救急受診の最大で3分の1という数値は候補に再掲なし。留保：ガイドラインの対象（重症、持続性、反復性の出血や生活の質に影響する出血）と対応の幅（自宅でのセルフケアから手術室での処置まで）は候補に再掲なし。裏づけ登録時は候補の0.5%をカードの救急受診の数値の裏づけとしてそのまま使わないこと。主出典は刊行版ライセンスが利用条件のみで CC ではなく、現行 UNKNOWN は RESTRICTED への訂正対象'
   uncertainty: 頻度の数値（60%、約6%、救急受診の0.5%）は出典の抄録の記載に基づく。個別の止血処置の手順や推奨の強さは本カードには含めていない。
   curriculum:
     core_curriculum: 'PS-02-15-03 (id: JkxnuTM)；TBL-02-15-011 (id: JlAKpwc)'
@@ -340,6 +373,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1208 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY（OPEN）、作り手の調査バッチ86 2026-11-15）。三原の承認（2026-11-11）による
 - id: HX-011
   domain: HX
   subdomain: 嗄声と咽頭痛の評価
@@ -359,8 +398,8 @@
     url: https://doi.org/10.1177/0194599817751030
     source_license: © American Academy of Otolaryngology-Head and Neck Surgery Foundation（SAGE、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（CC BY（OPEN）、作り手の調査バッチ86 2026-11-15）：Mairesse S, Maniaci A, Briganti G, Lechien JR. Diagnostic Accuracy of Artificial Intelligence in Laryngeal Disorders: An Integrative Review. J Pers Med. 2026;16(6):301（PMID: 42346612、DOI: 10.3390/jpm16060301、PMCID: PMC13301393、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：成人のほぼ3分の1が生涯のどこかで声の障害を経験することを再掲する。数値の照合：「ほぼ3分の1」はカードと一致する。ただし候補の表現は「成人のほぼ3分の1（Nearly one-third of the adult population）」で、カードの「人口のほぼ3分の1」とは母数の表現がわずかに異なる。留保：嗄声の定義（声の質、高さ、大きさ、発声の努力感の変化によってコミュニケーションや生活の質が損なわれる状態）と、2018年改訂ガイドライン自体の位置づけは候補に再掲なし。主出典は刊行版ライセンスが利用条件のみで CC ではなく、現行 UNKNOWN は RESTRICTED への訂正対象'
   uncertainty: 経験頻度（人口のほぼ3分の1）は出典の抄録の記載に基づく。本ガイドラインの主対象は発声障害であり、咽頭痛そのものの鑑別診断（ウイルス性・細菌性咽頭炎など）は対象外のため、本カードの咽頭痛に関する記述は発声障害に伴う範囲に限った。
   curriculum:
     core_curriculum: 'PS-02-15-03 (id: JkxnuTM)；TBL-02-15-012 (id: JlAKpwg)；TBL-02-15-014 (id: JlAKpwo)'
@@ -375,6 +414,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1209 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY（OPEN）、作り手の調査バッチ86 2026-11-15）。三原の承認（2026-11-11）による
 - id: HX-012
   domain: HX
   subdomain: 頸部腫瘤の評価
@@ -394,8 +439,8 @@
     url: https://doi.org/10.1177/0194599817722550
     source_license: © American Academy of Otolaryngology-Head and Neck Surgery Foundation（SAGE、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ86 2026-11-15）：Chowdhury R, Turkdogan S, Alsayegh R, et al. Comprehensive Diagnostic Approach to Head and Neck Masses. J Otorhinolaryngol Hear Balance Med. 2024;5(2):17（DOI: 10.3390/ohbm5020017、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：成人の頸部腫瘤は悪性でないと証明されるまでは悪性として扱うこと、評価は悪性の除外を基本とすること、小児では炎症・感染が多いのに対し高齢の成人では腫瘍性の原因（リンパ腫、扁平上皮癌、転移性腫瘍）が増えることを、主出典（米国耳鼻咽喉科・頭頸部外科学会のガイドライン）を参照しつつ再掲する。数値の照合：数値の主張なし。留保：「成人の持続する頸部腫瘤の多くは腫瘍性であり、悪性腫瘍は他のどの原因よりも多い」「無症状の頸部腫瘤が頭頸部癌の初発または唯一の臨床所見であることがある」という表現そのものは候補に再掲なし。候補は PubMed・PMC 未収載で、ライセンスは Crossref の刊行版データで CC BY 4.0 を個別に確認した。主出典は刊行版ライセンスが利用条件のみで CC ではなく、現行 UNKNOWN は RESTRICTED への訂正対象'
   uncertainty: 本カードは出典の抄録で確認できる評価の原則に基づく。画像検査や穿刺吸引細胞診の適応など、推奨の具体的な手順は本カードには含めていない。
   curriculum:
     core_curriculum: 'PS-02-15-03 (id: JkxnuTM)'
@@ -410,3 +455,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-1210 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ86 2026-11-15）。三原の承認（2026-11-11）による

@@ -1,6 +1,6 @@
 # PD 周産期の横断項目 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-14
+[← 一覧に戻る](README.md)　更新：2026-11-15
 
 全 11 件のうち、監修済み 0 件。
 
@@ -144,7 +144,7 @@
 
 - 条件：region: 国際／対象: 妊婦
 - 不確実性：WHO 声明の BJOG 掲載版（2016年）に基づく集団レベルの総論に限る。個々の妊婦の適応判断は各疾患・病態のカードに委ねる
-- 出典：Betrán AP, Torloni MR, Zhang JJ, Gülmezoglu AM; WHO Working Group on Caesarean Section. WHO Statement on Caesarean Section Rates. BJOG. 2016;123(5):667-670　[DOI 10.1111/1471-0528.13526](https://doi.org/10.1111/1471-0528.13526)　[PMID 26681211](https://pubmed.ncbi.nlm.nih.gov/26681211/)（区分 RESTRICTED）
+- 出典：Betrán AP, Torloni MR, Zhang JJ, Gülmezoglu AM; WHO Working Group on Caesarean Section. WHO Statement on Caesarean Section Rates. BJOG. 2016;123(5):667-670　[DOI 10.1111/1471-0528.13526](https://doi.org/10.1111/1471-0528.13526)　[PMID 26681211](https://pubmed.ncbi.nlm.nih.gov/26681211/)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-11-04 (id: JkxnuSQ)；TBL-02-10-016 (id: JlAKpq0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PD-010&card_id=PD-010&version=3de1d04f77)　（版 `3de1d04f77`）
 

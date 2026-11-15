@@ -1,0 +1,47 @@
+{
+ "class": [
+  [
+   "SRC-4116",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-4122",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-4125",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-4126",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-4127",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-4128",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [],
+ "B": [
+  "EV-007",
+  "EV-010",
+  "EV-011",
+  "EV-012",
+  "EV-014",
+  "EV-016",
+  "EV-019",
+  "EV-024",
+  "EV-027"
+ ],
+ "new_src": []
+}

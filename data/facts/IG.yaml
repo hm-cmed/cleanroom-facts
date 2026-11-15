@@ -18,7 +18,7 @@
     source_license: CCライセンス表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15）：Shime N, Nakada TA, Yatabe T, et al. The Japanese Clinical Practice Guidelines for Management of Sepsis and Septic Shock 2024. J Intensive Care. 2025;13:15（PMID: 40087807、DOI: 10.1186/s40560-025-00776-0、PMCID: PMC11907869、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：敗血症の定義（感染に対する制御不能な宿主反応による生命を脅かす臓器障害）と、感染が確認・疑われる状態での SOFA スコア2点以上の急性上昇による診断、敗血症性ショックの定義（十分な輸液蘇生にもかかわらず平均動脈圧65 mmHg以上の維持に昇圧薬を要し、乳酸値2 mmol/L超）を CQ1-1・CQ1-2 でそのまま再掲する。数値の照合：定義の数値要素（SOFA 2点以上、平均動脈圧65 mmHg、乳酸値2 mmol/L超）はカードと一致する。死亡率との関連（SOFA 2点以上で院内死亡率10%超、敗血症性ショックで40%超）は候補に再掲なし。留保：候補は日本版敗血症診療ガイドライン2024の英語版であり、Sepsis-3 の定義部分を引用する形で裏づける。死亡率の併記まで含めて定義を再掲する自由な全文は見つからなかった。主出典は CC 表示がなく非自由で、現行の RESTRICTED が正しい（訂正対象外）'
   uncertainty: Sepsis-3 では旧定義の「重症敗血症（severe sepsis）」の用語は不要とされた。qSOFA（呼吸数22/分以上、意識変容、収縮期血圧100 mmHg 以下のうち2つ以上）は、病院外・救急外来・一般病棟で予後不良の患者を迅速に拾う指標として位置づけられている。数値と定義は抄録で確認した。
   curriculum:
     kokushi: null
@@ -33,6 +33,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/37_if_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15）。三原の承認（2026-11-11）による
 - id: IG-002
   domain: IG
   subdomain: 敗血症
@@ -53,7 +56,7 @@
     source_license: CCライセンス表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15）：Azevedo LCP. Using the 2026 Surviving Sepsis Campaign Guidelines in Practice. Crit Care Sci. 2026;38:e20260036（PMID: 42138866、DOI: 10.62675/2965-2774.20260036、PMCID: PMC13124120、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：SSC 2026 の主要な新規推奨の表で、血液培養を可及的速やかに（理想的には抗菌薬投与前に）採取すること、初期の平均動脈圧目標65 mmHg、低血圧が続けば初期晶質液ボーラスと早期の昇圧薬開始を再掲する。数値の照合：平均動脈圧65 mmHg、65歳以上の敗血症性ショックで60〜65 mmHg はカードと正確に一致する。晶質液30 mL/kg は候補では蘇生後の輸液戦略（投与済み30 mL/kg を前提とする自由／制限の比較）の文脈でのみ言及され、初期投与の推奨としての再掲ではない。留保：抗菌薬投与の1時間以内／3時間以内の時間枠と、スクリーニングに単一ツールとして qSOFA より NEWS・NEWS2・MEWS・SIRS を優先する推奨は、候補に再掲なし（病院前スクリーニングへの言及のみ）。候補のライセンスは全文のライセンス表示と Europe PMC で CC BY 4.0 を確認した（Crossref にライセンス登録なし）。主出典は非OAで、現行の RESTRICTED が正しい（訂正対象外）'
   uncertainty: SSC 2026 は2026年3月に刊行された現行版で、推奨は129件（うち46件が新規または改訂）。Intensive Care Medicine 版（DOI 10.1007/s00134-026-08361-1）も同時掲載されている。全文は有料で PubMed に抄録本文が収載されていないため、本カードの主張はガイドラインのハイライト抄録と要約資料で照合できた範囲に限る。βラクタム薬の持続（延長）投与が強い推奨に格上げされたことも要約資料で確認している。本カードは薬剤のクラス名のみで、国内承認・保険適用の確認を要する個別薬剤名は含まない。
   curriculum:
     kokushi: null
@@ -68,6 +71,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/37_if_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15）。三原の承認（2026-11-11）による
 - id: IG-003
   domain: IG
   subdomain: 敗血症
@@ -193,7 +199,7 @@
     source_license: ©日本臨床微生物学会 2022（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY（OPEN）＋ CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15）：Lamy B, Dargère S, Arendrup MC, Parienti JJ, Tattevin P. How to Optimize the Use of Blood Cultures for the Diagnosis of Bloodstream Infections? A State-of-the Art. Front Microbiol. 2016;7:697 ＋ Sautter RL, Parrott JS, Nachamkin I, et al. American Society for Microbiology evidence-based laboratory medicine practice guidelines to reduce blood culture contamination rates: a systematic review and meta-analysis. Clin Microbiol Rev. 2024;37(4):e0008724（PMID: 27242721 / 39495314、DOI: 10.3389/fmicb.2016.00697 / 10.1128/cmr.00087-24、PMCID: PMC4863885 / PMC11629619、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：Lamy 2016 は1セットあたり20〜30 mL（英国 SMI の4ボトル＝2セットの換算、フランスの2〜3セット等）、採取量と感度の関係（60 mL で感度95.7〜97.7%）、実地の陽性率5〜13%を再掲する。Sautter 2024 は CLSI・CAP 等がコンタミネーション率の許容上限として3%を掲げてきたことを再掲する。数値の照合：1セット20〜30 mL はカードと一致する。コンタミネーション率はカードが「3%未満」、候補が上限「3%以下（≤3%）」の掲げ方で、厳密には境界の扱いが異なる。陽性率5〜13%は候補では実地の観察値であり、カードの「推奨範囲5〜15%」そのものの再掲ではない。留保：「2〜4セット」という推奨範囲、総量80 mL の枠組み、日本固有の要素（2014年の同時2セット採取の診療報酬算定と全国的定着）はどちらの候補にも再掲なし。主出典は学会誌（©日本臨床微生物学会）で DOI・PMID はなく、現行の RESTRICTED が正しい（訂正対象外）。ページの補完候補は識別子補完候補の節参照'
   uncertainty: 学会誌の本文を直接開いて確認した。採取部位はコンタミネーションを避けるため血管内留置カテーテルからではなく静脈穿刺が望ましく、皮膚消毒はポビドンヨードより1%クロルヘキシジンアルコール製剤の方が汚染率が低いとされる。採取のタイミングは悪寒・戦慄時や発熱時のほか、菌血症が疑われる症状が認められた時点とされる。出典の DOI は誌面で確認できず（J-STAGE 側の確認が要る）、PubMed 未収載のため PMID もない。
   curriculum:
     kokushi: null
@@ -208,6 +214,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/37_if_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY（OPEN）＋ CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15）。三原の承認（2026-11-11）による
 - id: IG-007
   domain: IG
   subdomain: 培養・検体採取
@@ -333,7 +342,7 @@
     source_license: CCライセンス表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ85 2026-11-15）：Centers for Disease Control and Prevention. Core Elements of Hospital Antibiotic Stewardship Programs（2014年版の2019年更新）. CDC ウェブページ（https://www.cdc.gov/antibiotic-use/hcp/core-elements/hospital.html）。裏づける部分：部分：病院の抗菌薬適正使用プログラムが患者ケアの改善のため抗菌薬の適正使用を促す取り組みであること、その中核要素（リーダーシップの関与、説明責任、薬剤師の専門性、実践、追跡、報告、教育）を持つ組織的な枠組みであることを再掲する。長期療養（介護施設）については別の Core Elements が用意されている旨も示される。数値の照合：数値の主張なし。留保：カード後段の「IDSAとSHEAの実装ガイドラインが多職種パネルの検討に基づきエビデンスに基づく推奨を行っている」という主出典自体の性質は、CDC ページでは実装リソースへのリンクとして触れるのみで再掲なし。主出典は CC 表示がなく非自由で、現行の RESTRICTED が正しい（訂正対象外）
   uncertainty: 本カードの記述は抄録で確認できるガイドラインの範囲と位置づけに限っており、個別の推奨項目とそのグレードは本文未確認のため主張に入れていない。日本国内の抗菌薬適正使用支援チーム（AST）等の制度面は、厚労省『抗微生物薬適正使用の手引き』第四版 医科・入院編の範囲である。本カードは特定の薬剤の承認・保険適用に関する主張を含まない。
   curriculum:
     kokushi: null
@@ -348,6 +357,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/37_if_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ85 2026-11-15）。三原の承認（2026-11-11）による
 - id: IG-011
   domain: IG
   subdomain: 薬剤耐性
@@ -403,7 +415,7 @@
     source_license: CCライセンス表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15）：Hamada Y, Ebihara F, Kikuchi K. A Strategy for Hospital Pharmacists to Control Antimicrobial Resistance (AMR) in Japan. Antibiotics (Basel). 2021;10(11):1284（PMID: 34827222、DOI: 10.3390/antibiotics10111284、PMCID: PMC8614892、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：JANIS に基づく推計のうち MRSA 側を再掲する。黄色ブドウ球菌菌血症による死亡は2011年17,412人・2017年17,157人で、そのうち MRSA は2011年5,924人（34.0%）から2017年4,224人（24.6%）へ減少した。数値の照合：MRSA 側の数値（17,412・17,157・5,924・34.0%・4,224・24.6%）はすべてカードと正確に一致する。留保：大腸菌側の系列（菌血症死亡9,044人→14,016人、フルオロキノロン耐性大腸菌2,045人→3,915人）は候補に再掲がなく、裏づけは MRSA 側にとどまる。主出典著者の後年の負担推計の総説（Infect Dis Ther 2023・2024）は CC BY-NC で自由ではない。主出典の刊行版ライセンスとマスターの license_note の不整合については申し送り参照（区分 RESTRICTED は正しい）'
   uncertainty: 数値はJANISの培養・感受性データと既報の菌血症死亡率から推計したものであり、死亡登録による実測値ではない。本カードに現れる薬剤名は耐性の対象となる薬剤クラス（フルオロキノロン系）の名称であり、個別薬剤の承認・保険適用に関する主張は含まない。
   curriculum:
     kokushi: null
@@ -418,6 +430,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/37_if_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15）。三原の承認（2026-11-11）による
 - id: IG-013
   domain: IG
   subdomain: 薬剤耐性
@@ -543,7 +558,7 @@
     source_license: All rights reserved（WHO 出版物ページの表示）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY（OPEN）、作り手の調査バッチ85 2026-11-15）：Li N, Guan X, Zhang R, Liu J, Li X. Hand hygiene compliance among healthcare workers before and after a CFIR-guided role-stratified intervention: a mixed-methods study in a tertiary hospital. Front Public Health. 2026;14:1750206（PMID: 42088252、DOI: 10.3389/fpubh.2026.1750206、PMCID: PMC13136248、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：全面：WHO の手指衛生の「5つのタイミング」を、(1) 患者に触れる前、(2) 清潔・無菌操作の前、(3) 体液曝露のリスクの後、(4) 患者に触れた後、(5) 患者の周囲環境に触れた後、と5項目すべてそのまま列挙して再掲する。数値の照合：数値の主張なし。留保：カードの主張は5項目の列挙そのものであり、候補の再掲で過不足なくカバーされる。権威ある起源は WHO ガイドライン（自由ではない）であるため、引用論文による裏づけとして B（全面）とした（バッチ80・81の運用と同扱い）。主出典は WHO 出版物ページで「All rights reserved」とされ、現行の RESTRICTED が正しい（訂正対象外）。なお別文書の要約版（WHO/IER/PSP/2009.07）は CC BY-NC-SA 3.0 IGO であり自由ではない'
   uncertainty: 5つのタイミングの枠組みは、WHO 出版物ページの概要と、WHO モデルを引用する国内教材で同一内容を確認した。ガイドライン本文中の医療関連感染の負担などの数値は本リサーチでは未照合のため主張に入れていない。2009年版が現行の版として WHO 出版物ページに掲載されている。
   curriculum:
     kokushi: null
@@ -558,6 +573,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/37_if_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY（OPEN）、作り手の調査バッチ85 2026-11-15）。三原の承認（2026-11-11）による
 - id: IG-017
   domain: IG
   subdomain: 感染対策
@@ -578,7 +596,7 @@
     source_license: NEJM の利用条件のみ（CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ85 2026-11-15）：Centers for Disease Control and Prevention, Healthcare Infection Control Practices Advisory Committee (HICPAC). Record of the Proceedings, November 15-16, 2018（CDC の会議記録 PDF）（https://www.cdc.gov/hicpac/media/pdfs/2018-nov-hicpac-meeting-508.pdf）。裏づける部分：部分：2015年点有病率調査で、患者が医療関連感染を有する可能性が2011年より調整後16%低かったこと、頻度の高い感染種別が肺炎26%・消化管感染21%・手術部位感染16%（血流感染12%・尿路感染9%）であったこと、尿路感染（CAUTI）と手術部位感染の重要な減少がみられたことを再掲する。数値の照合：調整後16%低下はカードと一致する。感染種別の順位（肺炎＞消化管感染＞手術部位感染）もカードと一致する。点有病率そのもの（2015年3.2%・2011年4.0%）は候補に再掲なし。留保：消化管感染の大部分が C. difficile である点は候補に再掲なし。CDC Stacks 収載の主出典の著者稿（NEJM 著者稿と同一物）は政府文書とはみなさず候補にしなかった（刊行版の著作権は出版社側）。主出典は NEJM の利用条件のみで自由ではなく、現行の RESTRICTED が正しい（訂正対象外）。後継調査については申し送り参照
   uncertainty: 米国の10州における調査で、2015年は199病院・12,299人、2011年は183病院・11,282人を対象とした。調整後リスク比は 0.84（95%CI 0.74〜0.95）。日本国内の医療関連感染の発生率の一次統計は本リサーチでは未照合のため主張に入れていない。医療関連感染の個別病態の各論は扱わない。
   curriculum:
     kokushi: null
@@ -593,6 +611,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/37_if_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ85 2026-11-15）。三原の承認（2026-11-11）による
 - id: IG-018
   domain: IG
   subdomain: 免疫不全宿主
@@ -613,7 +634,7 @@
     source_license: Crossref の登録は ASM の非商用 TDM ライセンスのみ（CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）＋ CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15）：Kim VHD, Upton JEM, Derfalvi B, Hildebrand KJ, McCusker C. Inborn errors of immunity (primary immunodeficiencies). Allergy Asthma Clin Immunol. 2025;20:76 ＋ Regina J, Doms J, Kampouri E, Gerber C, Manuel O, Bart PA, Candotti F, Comte D. Immunodeficiencies in Adults: Key Considerations for Diagnosis and Management. Clin Rev Allergy Immunol. 2025;68:92（PMID: 39780212 / 41107625、DOI: 10.1186/s13223-024-00938-z / 10.1007/s12016-025-09103-9、PMCID: PMC11714877 / PMC12534305、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：Kim 2025 は免疫不全を適応免疫（複合型・液性）と自然免疫（食細胞・補体）の障害に分ける枠組み、抗体欠損では莢膜保有菌（肺炎球菌・インフルエンザ菌）による呼吸器感染が多いこと、食細胞障害では皮膚・気道・内臓の重症の化膿性細菌・真菌感染を起こすこと、補体障害では髄膜炎菌感染のリスクが上がることを再掲する。Regina 2025 は抗C5抗体のエクリズマブ投与時の髄膜炎菌ワクチン・予防内服の必要性と、脾摘・無脾では莢膜保有菌の除去が障害され脾摘後重症感染症（OPSI）を起こすことを再掲する。数値の照合：数値の主張のうち「無脾では最大で50%が致命的」の50%という値は、どちらの候補にも再掲なし（Regina 2025 は OPSI の重篤性を定性的に述べるのみ）。留保：「物理的バリア・自然免疫・適応免疫が統合された系」という総論の言い回し自体と、食細胞欠損の「網内系」という表現は再掲なし。カードのエクリズマブの論点は遺伝性補体欠損ではなく薬剤による終末補体阻害であり、Regina 2025 の記述が直接対応する。主出典は ASM の非商用 TDM ライセンスのみで、マスターの license_note と一致し、現行の RESTRICTED が正しい（訂正対象外）'
   uncertainty: 主張は PMC 全文で確認した欠損別の対応の範囲に限る。エクリズマブ（販売名：ソリリス）は国内で承認されていることを PMDA で確認した（2010年に発作性夜間ヘモグロビン尿症で承認され、その後、非典型溶血性尿毒症症候群・全身型重症筋無力症・視神経脊髄炎スペクトラム障害の適応が追加されている）。発熱性好中球減少症など個別の病態の扱いは Ⅶ 血液の範囲であり、本カードでは扱わない。
   curriculum:
     kokushi: null
@@ -628,6 +649,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/37_if_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）＋ CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15）。三原の承認（2026-11-11）による
 - id: IG-019
   domain: IG
   subdomain: 免疫不全宿主
@@ -648,7 +672,7 @@
     source_license: CC BY-NC-ND 4.0（Crossref 登録）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15）：van Delden C, Zou M, Mueller NJ. The Infection Timeline in Solid Organ Transplantation: Lessons from the Swiss Transplant Cohort. Curr Infect Dis Rep. 2026;28:12（PMID: 42860971、DOI: 10.1007/s11908-026-00885-3、PMCID: PMC13653959、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：移植後感染の古典的な3相のタイムライン（第1か月は通常の院内感染、2〜6か月は日和見感染、6か月以降は市中感染と潜伏感染の再活性化）を再掲し、その起源が主出典（Fishman）の枠組みにあることを明示する。タイムラインの理解が予防・診断・経験的治療に不可欠であること、免疫抑制の強さ（拒絶反応で高強度の相が続くこと）とドナー由来感染が経過を左右する要因であることも述べる。数値の照合：数値の主張なし。留保：カードの定式化そのもの（リスクは「疫学的曝露と免疫抑制の正味の状態の相互作用」で決まる）は候補に再掲がなく、裏づけはタイムラインと免疫抑制強度の位置づけにとどまる。主出典は CC BY-NC-ND 4.0（Crossref・Europe PMC で確認）でマスターの license_note と一致し、現行の RESTRICTED が正しい（訂正対象外）'
   uncertainty: 主張は抄録で確認できる範囲に限る。移植後の時期区分の具体的な月数は抄録の範囲では確認できなかったため主張に入れていない（本文は購読制で未照合）。移植受者では薬物毒性と免疫抑制薬との相互作用が起こりやすいため、微生物学的診断を具体的に確定することが重要である点も同出典の抄録で確認している。
   curriculum:
     kokushi: 医学各論 Ⅺ-4-D（医原性免疫不全症、a）
@@ -666,3 +690,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅺ-4-D（医原性免疫不全症、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15）。三原の承認（2026-11-11）による

@@ -18,7 +18,7 @@
     source_license: 米国連邦政府の著作物
     legal_basis: B
     source_class: GOV_US
-    corroboration: '元の主出典：SRC-2478（Seita J, Weissman IL. Hematopoietic stem cell: self-renewal versus differentiation. Wiley Interdiscip Rev Syst Biol Med. 2010;2(6):640-653.）'
+    corroboration: '元の主出典：SRC-2478（Seita J, Weissman IL. Hematopoietic stem cell: self-renewal versus differentiation. Wiley Interdiscip Rev Syst Biol Med. 2010;2(6):640-653.）。自由に使える資料による裏づけ（OPEN、作り手の調査バッチ79 2026-11-15）：Cheng H, Zheng Z, Cheng T. New paradigms on hematopoietic stem cell differentiation. Protein Cell. 2020;11(1):34-44（PMID: 31201709、DOI: 10.1007/s13238-019-0633-0、PMCID: PMC6949320、https://pmc.ncbi.nlm.nih.gov/articles/PMC6949320/）。裏づける部分：候補（CC BY 4.0 総説）が、造血幹細胞は自己複製（self-renewal）と多分化能（multipotent differentiation）という2つの本質的性質によって定義され、すべての血球系譜の細胞を産生できること、造血階層の頂点に位置し、長期造血幹細胞が全系譜の成熟血球に大きく寄与することを述べ、カードの主張の骨格と一致する。数値の照合：数値なし（概念のカード）。「短命な成熟血球を生涯にわたって補充し続ける」という表現そのものは候補に再掲なし（定常状態の造血への長期造血幹細胞の寄与としての記載にとどまる）。留保：主出典 SRC-2478 の区分は現行 RESTRICTED が正しい（Wiley。Crossref の版データは Wiley の利用条件のみ、Europe PMC の個別レコードで非 OA。PMC 収載分 PMC2950323 は著者稿でライセンス表示なし）。識別子補完候補あり（補完候補の節参照）'
   uncertainty: 主張は抄録で確認した範囲（造血系の階層構造の総論）。分化の各段階の詳細は本文未照合のため主張に入れていない
   curriculum:
     kokushi: null
@@ -36,6 +36,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: 主出典を SRC-2478 から自由に使える資料 SRC-4987 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：造血幹細胞の定義全体：自己複製能と全血球系列への分化能、生涯にわたる成熟血球の補充をNIH公式解説が記載）。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ79 2026-11-15）。三原の承認（2026-11-11）による
 - id: BL-002
   domain: BL
   subdomain: 貧血の診断アプローチ（MCV 分類・網赤血球）
@@ -56,7 +59,7 @@
     source_license: Crossref の登録は Elsevier の TDM ライセンスのみ（CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：MedlinePlus (NLM/NIH). Blood Count Tests; Anemia: MedlinePlus Medical Encyclopedia（https://medlineplus.gov/bloodcounttests.html）。裏づける部分：血算が貧血等の診断に用いられること、貧血診断の血液検査として血算と網赤血球数が挙げられること（https://medlineplus.gov/ency/article/000560.htm）。数値の照合：該当なし（数値なし）'
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：MedlinePlus (NLM/NIH). Blood Count Tests; Anemia: MedlinePlus Medical Encyclopedia（https://medlineplus.gov/bloodcounttests.html）。裏づける部分：血算が貧血等の診断に用いられること、貧血診断の血液検査として血算と網赤血球数が挙げられること（https://medlineplus.gov/ency/article/000560.htm）。数値の照合：該当なし（数値なし）。自由に使える資料による裏づけ（OPEN、作り手の調査バッチ79 2026-11-15）：Nairz M, Theurl I, Wolf D, Weiss G. Iron deficiency or anemia of inflammation?: Differential diagnosis and mechanisms of anemia of inflammation. Wien Med Wochenschr. 2016;166(13-14):411-423（PMID: 27557596、DOI: 10.1007/s10354-016-0505-7、PMCID: PMC5065583、https://pmc.ncbi.nlm.nih.gov/articles/PMC5065583/）。裏づける部分：候補（CC BY 4.0 総説）が、貧血は血算で検出でき、評価は網赤血球数または網赤血球産生指数（RPI）・赤血球指数・フェリチン・トランスフェリン飽和度に基づいて行うこと、RPI が3を超える場合は溶血性貧血などの再生性（regenerative）の貧血でみられることを述べ、カードの主張の骨格と一致する。数値の照合：RPI の目安（3超）は候補に再掲あり。失血については、候補では鉄欠乏の原因としての記載が中心で、網赤血球が失血のスクリーニングになるという形の再掲はない。候補の主題は鉄欠乏と炎症性貧血の鑑別であり、貧血一般の評価としての裏づけは部分的にとどまる。留保：主出典 SRC-2479 の区分は現行 RESTRICTED が正しい（Med Clin North Am、Elsevier。Crossref は TDM ライセンスのみ、Europe PMC の個別レコードで非 OA・PMCID なし）'
   uncertainty: 主張は抄録で確認した範囲。網赤血球産生指数などの具体的な算出法は本文未照合のため主張に入れていない
   curriculum:
     kokushi: null
@@ -74,6 +77,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ79 2026-11-15）。三原の承認（2026-11-11）による
 - id: BL-003
   domain: BL
   subdomain: 貧血の診断アプローチ（MCV 分類・網赤血球）
@@ -94,7 +100,7 @@
     source_license: Crossref の登録は Elsevier の TDM ライセンスのみ（CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：MedlinePlus (NLM/NIH). Blood Count Tests（赤血球指数を含む血算の解説）（https://medlineplus.gov/bloodcounttests.html）。裏づける部分：赤血球指数がCBCに含まれ貧血の原因診断に用いられること、MCVによる小球性・正球性・大球性の分類枠組み（MedlinePlus RBC indices解説の要約が検索で確認できた範囲）。数値の照合：該当なし（カードに数値なし。MedlinePlus側MCV基準範囲の表記ゆれは主張に含まれない）
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：MedlinePlus (NLM/NIH). Blood Count Tests（赤血球指数を含む血算の解説）（https://medlineplus.gov/bloodcounttests.html）。裏づける部分：赤血球指数がCBCに含まれ貧血の原因診断に用いられること、MCVによる小球性・正球性・大球性の分類枠組み（MedlinePlus RBC indices解説の要約が検索で確認できた範囲）。数値の照合：該当なし（カードに数値なし。MedlinePlus側MCV基準範囲の表記ゆれは主張に含まれない）。自由に使える資料による裏づけ（OPEN、作り手の調査バッチ79 2026-11-15）：Nairz M, Theurl I, Wolf D, Weiss G. Iron deficiency or anemia of inflammation?: Differential diagnosis and mechanisms of anemia of inflammation. Wien Med Wochenschr. 2016;166(13-14):411-423（PMID: 27557596、DOI: 10.1007/s10354-016-0505-7、PMCID: PMC5065583、https://pmc.ncbi.nlm.nih.gov/articles/PMC5065583/）。裏づける部分：候補（BL-002と共用の CC BY 4.0 総説）が、赤血球指数のうち MCV と MCH によって小球性低色素性・正球性正色素性・大球性高色素性の貧血に分類できること、赤血球指数は貧血の原因を定めるものではないが診断の作業過程（workup）には有用であることを述べ、カードの「MCV による分類で鑑別を大きく絞り込めるが、分類は出発点であって絶対的ではない」という主張の骨格と一致する。数値の照合：数値なし（分類の枠組みのカード）。候補の分類は MCV と MCH の併用によるもので、主題は鉄欠乏と炎症性貧血の鑑別であり、成人の貧血の鑑別診断全般を扱う主出典の範囲とは部分的に重なる。留保：主出典 SRC-2480 の区分は現行 RESTRICTED が正しい（Mayo Clin Proc。Crossref は TDM ライセンスのみ、Europe PMC の個別レコードで非 OA・PMCID なし）'
   uncertainty: 2003年の総説であり、MCV 分類の枠組み提示のために用いた。各カテゴリーの現在の精査手順は BL-002 など新しい資料側で確認すること
   curriculum:
     kokushi: null
@@ -112,6 +118,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ79 2026-11-15）。三原の承認（2026-11-11）による
 - id: BL-004
   domain: BL
   subdomain: 末梢血塗抹・骨髄検査の解釈
@@ -211,7 +220,7 @@
     source_license: CC BY-NC 4.0（Crossref・PubMed の著作権表示で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：Centers for Disease Control and Prevention. Iron-Status Indicators (CDC Nutrition Report資料)（https://www.cdc.gov/nutrition-report/media/pdfs/2026/06/Iron-Indicators-508.pdf）。裏づける部分：血清フェリチンが貯蔵鉄の指標であること、鉄欠乏のカットオフ15 ng/mL（µg/L）以下の部分。WHO 2020ガイドラインの閾値の紹介を含む。数値の照合：不一致（部分）：15 µg/Lは一致（カード15未満／CDC・WHO <15）。30 µg/Lは文脈が異なる：カードはBSGの「貯蔵鉄が低い」閾値、CDC資料では炎症時のカットオフ引き上げ（30または70、年齢群による）として紹介され、成人の炎症時は70がWHO値。トランスフェリン飽和度20%未満は候補資料で確認できず
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：Centers for Disease Control and Prevention. Iron-Status Indicators (CDC Nutrition Report資料)（https://www.cdc.gov/nutrition-report/media/pdfs/2026/06/Iron-Indicators-508.pdf）。裏づける部分：血清フェリチンが貯蔵鉄の指標であること、鉄欠乏のカットオフ15 ng/mL（µg/L）以下の部分。WHO 2020ガイドラインの閾値の紹介を含む。数値の照合：不一致（部分）：15 µg/Lは一致（カード15未満／CDC・WHO <15）。30 µg/Lは文脈が異なる：カードはBSGの「貯蔵鉄が低い」閾値、CDC資料では炎症時のカットオフ引き上げ（30または70、年齢群による）として紹介され、成人の炎症時は70がWHO値。トランスフェリン飽和度20%未満は候補資料で確認できず。自由に使える資料による裏づけ（OPEN、作り手の調査バッチ79 2026-11-15）：Dignass A, Farrag K, Stein J. Limitations of Serum Ferritin in Diagnosing Iron Deficiency in Inflammatory Conditions. Int J Chronic Dis. 2018;2018:9394060（PMID: 29744352、DOI: 10.1155/2018/9394060、PMCID: PMC5878890、https://pmc.ncbi.nlm.nih.gov/articles/PMC5878890/）。裏づける部分：候補（CC BY 総説）が、一般集団では WHO が血清フェリチン15 µg/L未満を低値と定義すること、30 µg/L が鉄欠乏を示す最も感度・特異度の高いカットオフ（感度92%・特異度98%、骨髄の貯蔵鉄欠如と相関）として同定されていること、非炎症下での鉄欠乏の標準的な閾値は30 µg/L未満であること、トランスフェリン飽和度20%未満が鉄欠乏の診断基準として用いられること（心不全・慢性腎臓病・炎症性腸疾患の文脈を含む）を述べ、カードの主張の骨格と数値の範囲と一致する。数値の照合：数値自体（15 µg/L・30 µg/L・20%）は候補にも現れるが、対応づけが異なる。カード（BSG）は15 µg/L未満を「貯蔵鉄なし」、30 µg/L未満を「貯蔵鉄低下」とするのに対し、候補は15 µg/L未満を WHO の「低フェリチン」の定義とし、30 µg/L のカットオフを貯蔵鉄欠如への感度・特異度で位置づける。「炎症がない場合に血清フェリチンが最も特異的な検査である」という表現そのものも候補に再掲なし。裏づけ登録時はこの対応づけの違いに留意すること（申し送り参照）。留保：主出典 SRC-164 の区分は現行 RESTRICTED が正しい（Gut、BMJ。刊行版ライセンスは CC BY-NC 4.0 で、Crossref の版データと Europe PMC の個別レコードで確認。マスターの license_note とも一致）。識別子補完候補あり'
   uncertainty: 数値はガイドライン本文（PMC 全文）で確認した。英国の成人診療の基準であり、日本の診療指針の基準値とは別に扱うこと。出典マスターではこの文献の PMID が未登録のため、PMID 34497146 の補完を取り込み側に提案する
   curriculum:
     kokushi: 医学各論 Ⅶ-1-A-①（鉄欠乏性貧血、a）
@@ -232,6 +241,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ79 2026-11-15）。三原の承認（2026-11-11）による
 - id: BL-007
   domain: BL
   subdomain: 輸血の適応と血液製剤
@@ -290,7 +302,7 @@
     source_license: Crossref にライセンス登録なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Yadav SK, et al. A Contemporary Review of Blood Transfusion in Critically Ill Patients. Medicina. 2024;60(8):1247.（https://pmc.ncbi.nlm.nih.gov/articles/PMC11356114/）。裏づける部分：制限的閾値7 g/dL対自由な閾値（TRICC 10 g/dL、TRISS 9 g/dL）で死亡率に差がなかったこと、AABB 2023ガイドラインの閾値（一般7、既存心疾患・整形外科8、心臓手術7.5）の整理。数値の照合：不一致（部分）：閾値の方向性は一致するが、カードの集積値（RCT 45件・20,599人、中等度の質、制限的7〜8対自由9〜10）は候補総説に記載なし。候補側の個別試験値（TRICC N=838で7対10、TRISS N=998で7対9）のみ確認
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Yadav SK, et al. A Contemporary Review of Blood Transfusion in Critically Ill Patients. Medicina. 2024;60(8):1247.（https://pmc.ncbi.nlm.nih.gov/articles/PMC11356114/）。裏づける部分：制限的閾値7 g/dL対自由な閾値（TRICC 10 g/dL、TRISS 9 g/dL）で死亡率に差がなかったこと、AABB 2023ガイドラインの閾値（一般7、既存心疾患・整形外科8、心臓手術7.5）の整理。数値の照合：不一致（部分）：閾値の方向性は一致するが、カードの集積値（RCT 45件・20,599人、中等度の質、制限的7〜8対自由9〜10）は候補総説に記載なし。候補側の個別試験値（TRICC N=838で7対10、TRISS N=998で7対9）のみ確認。自由に使える資料による裏づけ（OPEN、作り手の調査バッチ79 2026-11-15）：Yadav SK, Hussein G, Liu B, et al. A Contemporary Review of Blood Transfusion in Critically Ill Patients. Medicina (Kaunas). 2024;60(8):1247（PMID: 39202529、DOI: 10.3390/medicina60081247、PMCID: PMC11356114、https://pmc.ncbi.nlm.nih.gov/articles/PMC11356114/）。裏づける部分：候補（CC BY 4.0 総説）が、制限的輸血戦略を Hb 7〜8 g/dL の閾値の枠組みで位置づけ、主要な無作為化試験では制限的戦略を支持する（自由な戦略に有利な）死亡率の差は認められなかったこと、AABB 2023 ガイドラインの閾値（入院患者一般で7 g/dL以下、心臓手術で8 g/dL未満、整形外科手術・既存の心血管疾患で8 g/dL以下など）を表として再掲しており、カードの主張の骨格と一致する。数値の照合：閾値の範囲（制限的7〜8 g/dL）は候補と一致する。自由な閾値（9〜10 g/dL）側の明示、「重要な患者アウトカムを悪化させない」という包括的な結論、および根拠の規模（45試験・20,599人・中等度の確実性）は候補に再掲なし。留保：主出典 SRC-2475 の区分は現行 RESTRICTED が正しい（JAMA。Crossref にライセンス登録なし、Europe PMC の個別レコードで非 OA・PMCID なし）。マスターの PMID（37824153）は個別照会で一致を確認した'
   uncertainty: 主張は抄録で確認した範囲。心臓手術・整形外科手術・既存の心疾患など患者群別の推奨閾値は本文の表の確認が要るため主張に入れていない。この閾値は国際ガイドラインの値であり、日本の保険適用上の基準ではない。赤血球製剤は国内で承認された特定生物由来製品である
   curriculum:
     kokushi: null
@@ -308,6 +320,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ79 2026-11-15）。三原の承認（2026-11-11）による
 - id: BL-009
   domain: BL
   subdomain: 輸血副作用（急性溶血性反応・TRALI・TACO）
@@ -328,7 +343,7 @@
     source_license: CC BY
     legal_basis: B
     source_class: OPEN
-    corroboration: 元の主出典：SRC-2484（Vlaar APJ, Toy P, Fung M, et al. A consensus redefinition of transfusion-related acute lung injury. Transfusion. 2019;59(7):2465-2476.）
+    corroboration: '元の主出典：SRC-2484（Vlaar APJ, Toy P, Fung M, et al. A consensus redefinition of transfusion-related acute lung injury. Transfusion. 2019;59(7):2465-2476.）。自由に使える資料による裏づけ（OPEN、作り手の調査バッチ79 2026-11-15）：Yu Y, Lian Z. Update on transfusion-related acute lung injury: an overview of its pathogenesis and management. Front Immunol. 2023;14:1175387（PMID: 37251400、DOI: 10.3389/fimmu.2023.1175387、PMCID: PMC10213666、https://pmc.ncbi.nlm.nih.gov/articles/PMC10213666/）。裏づける部分：候補（CC BY 総説）が、2019年に Delphi 法による新しい診断基準が確立され、TRALI は ARDS の危険因子がない場合の Type I と、危険因子がある場合の Type II に分けられたことを明記し、カードの主張の中心と一致する。候補は TRALI を先進国における輸血関連死亡の主因の一つとも位置づける。数値の照合：数値なし（定義のカード）。「possible TRALI の廃止」は候補に再掲なし（候補の全文に possible の語自体が現れない）。裏づけ登録時は再定義の2分類の部分を使うこと。留保：主出典 SRC-2484 の区分は現行 RESTRICTED が正しい（Transfusion、Wiley。刊行版ライセンスは CC BY-NC-ND 4.0 で、Crossref の版データと Europe PMC の個別レコードの双方で確認。マスターの license_note とも一致）。識別子補完候補あり'
   uncertainty: 主張は抄録で確認した範囲。再定義の診断項目の詳細（発症までの時間など）は本文未照合のため主張に入れていない
   curriculum:
     kokushi: null
@@ -346,6 +361,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: 主出典を SRC-2484 から自由に使える資料 SRC-4989 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：主張全体：possible TRALIの廃止、TRALI Type I（ARDS危険因子なし）・Type II（危険因子あり又は軽症ARDS）への分離、危険因子側を原因と判断する例はARDSに分類すること。PMC本文にCreative Co…）。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ79 2026-11-15）。三原の承認（2026-11-11）による
 - id: BL-010
   domain: BL
   subdomain: 輸血副作用（急性溶血性反応・TRALI・TACO）
@@ -366,7 +384,7 @@
     source_license: Crossref は Elsevier の TDM ライセンスのみ（CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ79 2026-11-15）：Ackfeld T, Schmutz T, Guechi Y, Le Terrier C. Blood Transfusion Reactions-A Comprehensive Review of the Literature including a Swiss Perspective. J Clin Med. 2022;11(10):2859（PMID: 35628985、DOI: 10.3390/jcm11102859、PMCID: PMC9144124、https://pmc.ncbi.nlm.nih.gov/articles/PMC9144124/）。裏づける部分：候補（CC BY 4.0 総説）が、改訂版 TACO 定義（2018年の定義文書）を引用し ISBT が支持する定義であることを明記したうえで、その診断基準（最新のサーベイランス版では発症12時間以内の枠組みを含む）を解説し、スイスでは2020年に TACO が輸血関連の罹患・死亡の主因であり、他国のデータもこの傾向を支持することを述べ、カードの主張の骨格と一致する。数値の照合：数値なし（定義と位置づけのカード）。定義が ISBT・IHN・AABB により「策定され検証された」という来歴の全体は候補に再掲なし（IHN への言及と、検証の過程の記述はない）。留保：主出典 SRC-2485 の区分は現行 RESTRICTED が正しい（Lancet Haematol、Elsevier。Crossref は TDM ライセンスのみ、Europe PMC の個別レコードで非 OA・PMCID なし）。マスターの PMID（31080132）は個別照会で一致を確認した'
   uncertainty: 主張は抄録で確認した範囲。定義の個別項目（症状・徴候の組み合わせと発症時間）は本文未照合のため主張に入れていない
   curriculum:
     kokushi: null
@@ -381,6 +399,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ79 2026-11-15）。三原の承認（2026-11-11）による
 - id: BL-011
   domain: BL
   subdomain: 輸血副作用（急性溶血性反応・TRALI・TACO）
@@ -512,7 +533,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：MedlinePlus (NLM/NIH). Prothrombin Time Test and INR (PT/INR); Partial Thromboplastin Time (PTT) Test（https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/）。裏づける部分：PTとPTTが併せて行われる代表的な凝固検査であること、PTはワルファリン等の抗凝固薬モニタリングに、PTTはヘパリンモニタリングと出血性素因の確認に用いられること、両者を比較して凝固を評価すること（PTT側 https://medlineplus.gov/lab-tests/partial-thromboplastin-time-ptt-test/）。数値の照合：該当なし（数値なし）
+    corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査 2026-11-08）：MedlinePlus (NLM/NIH). Prothrombin Time Test and INR (PT/INR); Partial Thromboplastin Time (PTT) Test（https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/）。裏づける部分：PTとPTTが併せて行われる代表的な凝固検査であること、PTはワルファリン等の抗凝固薬モニタリングに、PTTはヘパリンモニタリングと出血性素因の確認に用いられること、両者を比較して凝固を評価すること（PTT側 https://medlineplus.gov/lab-tests/partial-thromboplastin-time-ptt-test/）。数値の照合：該当なし（数値なし）。自由に使える資料による裏づけ（OPEN、作り手の調査バッチ79 2026-11-15）：Santoro RC, Molinari AC, Leotta M, Martini T. Isolated Prolongation of Activated Partial Thromboplastin Time: Not Just Bleeding Risk! Medicina (Kaunas). 2023;59(6):1169（PMID: 37374373、DOI: 10.3390/medicina59061169、PMCID: PMC10305031、https://pmc.ncbi.nlm.nih.gov/articles/PMC10305031/）。裏づける部分：候補（CC BY 4.0 総説）が、aPTT は凝固異常の基本的なスクリーニング検査で、延長は臨床で頻繁に遭遇することを述べ、未分画ヘパリンやアルガトロバンの抗凝固療法のモニタリングに用いられること（ビタミンK拮抗薬は主に PT を延長させる）、分析前因子をはじめ結果に影響する多数の要因と、延長がみられた場合の原因評価の進め方を詳述しており、カードの主張の骨格と一致する。数値の照合：数値なし（検査の解釈のカード）。「PT と APTT が最も頻繁に測定される凝固検査である」という表現そのものは候補に再掲なし。候補の主題は aPTT の単独延長であり、PT 側の扱いは相対的に薄い。留保：主出典 SRC-2489 の区分は現行 RESTRICTED が正しい（Mayo Clin Proc。Crossref は TDM ライセンスのみ、Europe PMC の個別レコードで非 OA・PMCID なし）。マスターの PMID（17605969）は個別照会で一致を確認した'
   uncertainty: 主張は抄録で確認した範囲。延長パターンごとの鑑別の進め方（混合試験・因子測定の使い分け）は本文のアルゴリズム未照合のため主張に入れていない
   curriculum:
     kokushi: null
@@ -530,3 +551,6 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ79 2026-11-15）。三原の承認（2026-11-11）による

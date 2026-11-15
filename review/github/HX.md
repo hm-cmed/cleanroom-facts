@@ -1,6 +1,6 @@
 # HX 皮膚・頭頸部の症候・検査・治療（横断） の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-14
+[← 一覧に戻る](README.md)　更新：2026-11-15
 
 全 12 件のうち、監修済み 0 件。
 
@@ -12,7 +12,7 @@
 
 - 条件：region: 米国
 - 不確実性：Am Fam Physician は DOI を付与していないため DOI は null とし、PubMed レコードで書誌と PMID を確認した。本カードは2部構成の第2部（診断アプローチ）に基づき、個別疾患の鑑別表（第1部）は含めていない。
-- 出典：Ely JW, Seabury Stone M. The generalized rash: part II. Diagnostic approach. Am Fam Physician. 2010;81(6):735-739.　[PMID 20229972](https://pubmed.ncbi.nlm.nih.gov/20229972/)（区分 UNKNOWN）
+- 出典：Ely JW, Seabury Stone M. The generalized rash: part II. Diagnostic approach. Am Fam Physician. 2010;81(6):735-739.　[PMID 20229972](https://pubmed.ncbi.nlm.nih.gov/20229972/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-04-02 (id: JkxnuP8)；TBL-02-03-004 (id: JlAKpaY)；TBL-02-03-005 (id: JlAKpac)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HX-001&card_id=HX-001&version=6cafd373f2)　（版 `6cafd373f2`）
 
@@ -28,7 +28,7 @@
 
 - 条件：region: 国際／study: 系統的レビュー（24研究）
 - 不確実性：感度・特異度の数値は出典（コクランレビュー）の抄録と本文のメタ解析結果から読み取った。本レビューの対象は角化細胞癌であり、悪性黒色腫の診断精度は同じ著者らの別レビューの範囲であるため本カードには含めていない。
-- 出典：Dinnes J, Deeks JJ, Chuchu N, Matin RN, et al. Visual inspection and dermoscopy, alone or in combination, for diagnosing keratinocyte skin cancers in adults. Cochrane Database Syst Rev. 2018;12(12):CD011901.　[DOI 10.1002/14651858.CD011901.pub2](https://doi.org/10.1002/14651858.CD011901.pub2)　[PMID 30521688](https://pubmed.ncbi.nlm.nih.gov/30521688/)（区分 UNKNOWN）
+- 出典：Dinnes J, Deeks JJ, Chuchu N, Matin RN, et al. Visual inspection and dermoscopy, alone or in combination, for diagnosing keratinocyte skin cancers in adults. Cochrane Database Syst Rev. 2018;12(12):CD011901.　[DOI 10.1002/14651858.CD011901.pub2](https://doi.org/10.1002/14651858.CD011901.pub2)　[PMID 30521688](https://pubmed.ncbi.nlm.nih.gov/30521688/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-04-03 (id: JkxnuQA)；TBL-02-03-011 (id: JlAKpa0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HX-002&card_id=HX-002&version=8c6f08063c)　（版 `8c6f08063c`）
 
@@ -60,7 +60,7 @@
 
 - 条件：region: 米国
 - 不確実性：1998年の総説であり、その後の手技や病理検査の進歩は反映されていない可能性がある。個別の手技の手順の詳細は本文を確認していないため、本カードは定性的な記述に限った。
-- 出典：Alguire PC, Mathes BM. Skin biopsy techniques for the internist. J Gen Intern Med. 1998;13(1):46-54.　[DOI 10.1046/j.1525-1497.1998.00009.x](https://doi.org/10.1046/j.1525-1497.1998.00009.x)　[PMID 9462495](https://pubmed.ncbi.nlm.nih.gov/9462495/)（区分 UNKNOWN）
+- 出典：Alguire PC, Mathes BM. Skin biopsy techniques for the internist. J Gen Intern Med. 1998;13(1):46-54.　[DOI 10.1046/j.1525-1497.1998.00009.x](https://doi.org/10.1046/j.1525-1497.1998.00009.x)　[PMID 9462495](https://pubmed.ncbi.nlm.nih.gov/9462495/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-04-03 (id: JkxnuQA)；TBL-02-03-008 (id: JlAKpao)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HX-004&card_id=HX-004&version=b5f9a49007)　（版 `b5f9a49007`）
 
@@ -76,7 +76,7 @@
 
 - 条件：region: 国際
 - 不確実性：尤度比などの数値は出典の本文（PMC 全文）で確認した。出典は爪真菌症の評価に関する研究を引いており、部位によって検査性能が異なる可能性がある。本記事には DOI が付与されていないため DOI は null とした。
-- 出典：Ponka D, Baddar F. Microscopic potassium hydroxide preparation. Can Fam Physician. 2014;60(1):57.　[PMID 24452564](https://pubmed.ncbi.nlm.nih.gov/24452564/)（区分 UNKNOWN）
+- 出典：Ponka D, Baddar F. Microscopic potassium hydroxide preparation. Can Fam Physician. 2014;60(1):57.　[PMID 24452564](https://pubmed.ncbi.nlm.nih.gov/24452564/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-04-03 (id: JkxnuQA)；TBL-02-03-010 (id: JlAKpaw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HX-005&card_id=HX-005&version=af14ff0247)　（版 `af14ff0247`）
 
@@ -92,7 +92,7 @@
 
 - 条件：region: 英国
 - 不確実性：本ガイドラインの抄録は PubMed に収載されておらず、個別の検査項目や推奨の詳細は確認していないため、本カードはガイドラインの対象と位置づけを示す定性的な記述に限った。
-- 出典：Millington GWM, Collins A, Lovell CR, Leslie TA, et al. British Association of Dermatologists' guidelines for the investigation and management of generalized pruritus in adults without an underlying dermatosis, 2018. Br J Dermatol. 2018;178(1):34-60.　[DOI 10.1111/bjd.16117](https://doi.org/10.1111/bjd.16117)　[PMID 29357600](https://pubmed.ncbi.nlm.nih.gov/29357600/)（区分 UNKNOWN）
+- 出典：Millington GWM, Collins A, Lovell CR, Leslie TA, et al. British Association of Dermatologists' guidelines for the investigation and management of generalized pruritus in adults without an underlying dermatosis, 2018. Br J Dermatol. 2018;178(1):34-60.　[DOI 10.1111/bjd.16117](https://doi.org/10.1111/bjd.16117)　[PMID 29357600](https://pubmed.ncbi.nlm.nih.gov/29357600/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-04-02 (id: JkxnuP8)；TBL-02-03-005 (id: JlAKpac)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HX-006&card_id=HX-006&version=31c8b4cbf6)　（版 `31c8b4cbf6`）
 
@@ -108,7 +108,7 @@
 
 - 条件：region: 米国
 - 不確実性：本カードは Preferred Practice Pattern の位置づけと基本検査の構成を示す定性的な記述であり、個別の検査の基準値や実施間隔など本文の細目は確認していない。
-- 出典：Wallace DK, Flaxel CJ, Gedde SJ, Jacobs DS, et al. Comprehensive Adult Medical Eye Evaluation Preferred Practice Pattern. Ophthalmology. 2026;133(4):P202-P236.　[DOI 10.1016/j.ophtha.2025.12.031](https://doi.org/10.1016/j.ophtha.2025.12.031)　[PMID 41670577](https://pubmed.ncbi.nlm.nih.gov/41670577/)（区分 UNKNOWN）
+- 出典：Wallace DK, Flaxel CJ, Gedde SJ, Jacobs DS, et al. Comprehensive Adult Medical Eye Evaluation Preferred Practice Pattern. Ophthalmology. 2026;133(4):P202-P236.　[DOI 10.1016/j.ophtha.2025.12.031](https://doi.org/10.1016/j.ophtha.2025.12.031)　[PMID 41670577](https://pubmed.ncbi.nlm.nih.gov/41670577/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-15-02 (id: JkxnuTI)；TBL-02-14-008 (id: JlAKpuM)；TBL-02-14-014 (id: JlAKpuk)；TBL-02-14-017 (id: JlAKpuw)；TBL-02-14-018 (id: JlAKpu0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HX-007&card_id=HX-007&version=4afd9b020a)　（版 `4afd9b020a`）
 
@@ -156,7 +156,7 @@
 
 - 条件：region: 米国／study: 診療ガイドライン
 - 不確実性：頻度の数値（60%、約6%、救急受診の0.5%）は出典の抄録の記載に基づく。個別の止血処置の手順や推奨の強さは本カードには含めていない。
-- 出典：Tunkel DE, Anne S, Payne SC, Ishman SL, et al. Clinical Practice Guideline: Nosebleed (Epistaxis). Otolaryngol Head Neck Surg. 2020;162(1_suppl):S1-S38.　[DOI 10.1177/0194599819890327](https://doi.org/10.1177/0194599819890327)　[PMID 31910111](https://pubmed.ncbi.nlm.nih.gov/31910111/)（区分 UNKNOWN）
+- 出典：Tunkel DE, Anne S, Payne SC, Ishman SL, et al. Clinical Practice Guideline: Nosebleed (Epistaxis). Otolaryngol Head Neck Surg. 2020;162(1_suppl):S1-S38.　[DOI 10.1177/0194599819890327](https://doi.org/10.1177/0194599819890327)　[PMID 31910111](https://pubmed.ncbi.nlm.nih.gov/31910111/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-15-03 (id: JkxnuTM)；TBL-02-15-011 (id: JlAKpwc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HX-010&card_id=HX-010&version=3c85595301)　（版 `3c85595301`）
 
@@ -172,7 +172,7 @@
 
 - 条件：region: 米国／study: 診療ガイドライン
 - 不確実性：経験頻度（人口のほぼ3分の1）は出典の抄録の記載に基づく。本ガイドラインの主対象は発声障害であり、咽頭痛そのものの鑑別診断（ウイルス性・細菌性咽頭炎など）は対象外のため、本カードの咽頭痛に関する記述は発声障害に伴う範囲に限った。
-- 出典：Stachler RJ, Francis DO, Schwartz SR, Damask CC, et al. Clinical Practice Guideline: Hoarseness (Dysphonia) (Update). Otolaryngol Head Neck Surg. 2018;158(1_suppl):S1-S42.　[DOI 10.1177/0194599817751030](https://doi.org/10.1177/0194599817751030)　[PMID 29494321](https://pubmed.ncbi.nlm.nih.gov/29494321/)（区分 UNKNOWN）
+- 出典：Stachler RJ, Francis DO, Schwartz SR, Damask CC, et al. Clinical Practice Guideline: Hoarseness (Dysphonia) (Update). Otolaryngol Head Neck Surg. 2018;158(1_suppl):S1-S42.　[DOI 10.1177/0194599817751030](https://doi.org/10.1177/0194599817751030)　[PMID 29494321](https://pubmed.ncbi.nlm.nih.gov/29494321/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-15-03 (id: JkxnuTM)；TBL-02-15-012 (id: JlAKpwg)；TBL-02-15-014 (id: JlAKpwo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HX-011&card_id=HX-011&version=5ccbbe438d)　（版 `5ccbbe438d`）
 
@@ -188,7 +188,7 @@
 
 - 条件：region: 米国／study: 診療ガイドライン
 - 不確実性：本カードは出典の抄録で確認できる評価の原則に基づく。画像検査や穿刺吸引細胞診の適応など、推奨の具体的な手順は本カードには含めていない。
-- 出典：Pynnonen MA, Gillespie MB, Roman B, Rosenfeld RM, et al. Clinical Practice Guideline: Evaluation of the Neck Mass in Adults. Otolaryngol Head Neck Surg. 2017;157(2_suppl):S1-S30.　[DOI 10.1177/0194599817722550](https://doi.org/10.1177/0194599817722550)　[PMID 28891406](https://pubmed.ncbi.nlm.nih.gov/28891406/)（区分 UNKNOWN）
+- 出典：Pynnonen MA, Gillespie MB, Roman B, Rosenfeld RM, et al. Clinical Practice Guideline: Evaluation of the Neck Mass in Adults. Otolaryngol Head Neck Surg. 2017;157(2_suppl):S1-S30.　[DOI 10.1177/0194599817722550](https://doi.org/10.1177/0194599817722550)　[PMID 28891406](https://pubmed.ncbi.nlm.nih.gov/28891406/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-15-03 (id: JkxnuTM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HX-012&card_id=HX-012&version=67e99d8add)　（版 `67e99d8add`）
 

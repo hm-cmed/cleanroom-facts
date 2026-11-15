@@ -1,6 +1,6 @@
 # OC 産業中毒とその他の職業性疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-14
+[← 一覧に戻る](README.md)　更新：2026-11-15
 
 全 26 件のうち、監修済み 0 件。
 
@@ -76,7 +76,7 @@
 
 - 条件：region: 国際／対象: 有機リン農薬中毒の患者
 - 不確実性：致命率と管理の内容は総説の抄録で確認した範囲である。硫酸アトロピンとプラリドキシムヨウ化物は、国内の公的資料（厚生労働科学研究の化学テロ対応資料）で有機リン系中毒の解毒薬として用法とともに記載されるが、同資料には国内製剤の添付文書とは用法・用量が異なる場合がある旨の注意があり、農薬中毒の通常診療における個別製剤の添付文書の効能・効果と用法・用量は本作成では未照合である。
-- 出典：Eddleston M, Buckley NA, Eyer P, Dawson AH. Management of acute organophosphorus pesticide poisoning. Lancet. 2008;371(9612):597-607　[DOI 10.1016/S0140-6736(07)61202-1](https://doi.org/10.1016/S0140-6736(07)61202-1)　[PMID 17706760](https://pubmed.ncbi.nlm.nih.gov/17706760/)（区分 UNKNOWN）
+- 出典：Eddleston M, Buckley NA, Eyer P, Dawson AH. Management of acute organophosphorus pesticide poisoning. Lancet. 2008;371(9612):597-607　[DOI 10.1016/S0140-6736(07)61202-1](https://doi.org/10.1016/S0140-6736(07)61202-1)　[PMID 17706760](https://pubmed.ncbi.nlm.nih.gov/17706760/)（区分 RESTRICTED）
 - 出題基準：医学各論 ⅩⅢ-4-A-⑤（農薬中毒、b）　コアカリ：SO-01-04-04 (id: JkxoNtk)；PS-03-05-08 (id: Jkxnubw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OC-005&card_id=OC-005&version=114cc0f7ce)　（版 `114cc0f7ce`）
 
@@ -86,7 +86,7 @@
 
 - 条件：region: 国際／対象: パラコートを摂取した患者
 - 不確実性：内容は総説の抄録で確認した範囲である。国内ではパラコート製剤について濃度の切り替え（24%製剤から5%製剤へ、1986年以降）と出荷の自粛の経緯が学会誌論文で報告されているが、毒物及び劇物取締法上の指定などの法制度面の一次資料は未確認である。既存出典 SRC-544（Yoon 2009、パラコート中毒の臨床転帰の短報）は接点としてあるが、本カードでは使用していない。
-- 出典：Gawarammana IB, Buckley NA. Medical management of paraquat ingestion. Br J Clin Pharmacol. 2011;72(5):745-757　[DOI 10.1111/j.1365-2125.2011.04026.x](https://doi.org/10.1111/j.1365-2125.2011.04026.x)　[PMID 21615775](https://pubmed.ncbi.nlm.nih.gov/21615775/)（区分 UNKNOWN）
+- 出典：Gawarammana IB, Buckley NA. Medical management of paraquat ingestion. Br J Clin Pharmacol. 2011;72(5):745-757　[DOI 10.1111/j.1365-2125.2011.04026.x](https://doi.org/10.1111/j.1365-2125.2011.04026.x)　[PMID 21615775](https://pubmed.ncbi.nlm.nih.gov/21615775/)（区分 RESTRICTED）
 - 出題基準：医学各論 ⅩⅢ-4-A-⑤（農薬中毒、b）　コアカリ：SO-01-04-04 (id: JkxoNtk)；PS-03-05-08 (id: Jkxnubw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OC-006&card_id=OC-006&version=75cd399ffa)　（版 `75cd399ffa`）
 
@@ -292,7 +292,7 @@
 
 - 条件：region: 日本／対象: 労働者
 - 不確実性：抄録と本文の原因抗原の表で確認した範囲に限る。過敏性肺炎の診断・治療の一般論は Ⅳ が正であり（診断の国際指針は既存の SRC-424)、本カードは職業曝露と早期発見の側面に限る。ライセンス文を特定できなかったため UNKNOWN とした。
-- 出典：Ohkouchi S, Morimoto Y, Suganuma N, et al.; Occupational Respiratory Disease Study Group in Japan. Importance of early detection and treatment of occupational hypersensitivity pneumonitis. J Occup Health. 2025;67(1):uiaf026　[DOI 10.1093/joccuh/uiaf026](https://doi.org/10.1093/joccuh/uiaf026)　[PMID 40392119](https://pubmed.ncbi.nlm.nih.gov/40392119/)（区分 UNKNOWN）
+- 出典：Ohkouchi S, Morimoto Y, Suganuma N, et al.; Occupational Respiratory Disease Study Group in Japan. Importance of early detection and treatment of occupational hypersensitivity pneumonitis. J Occup Health. 2025;67(1):uiaf026　[DOI 10.1093/joccuh/uiaf026](https://doi.org/10.1093/joccuh/uiaf026)　[PMID 40392119](https://pubmed.ncbi.nlm.nih.gov/40392119/)（区分 OPEN）
 - 出題基準：医学各論 ⅩⅢ-4-E-②（過敏性肺炎、b）　コアカリ：SO-01-04-04 (id: JkxoNtk)；PS-02-07-05 (id: JkxnuRE)；TBL-01-00-227 (id: Jlvnlzk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OC-017&card_id=OC-017&version=e057e322ba)　（版 `e057e322ba`）
 
@@ -324,7 +324,7 @@
 
 - 条件：region: 国際／対象: 労働者
 - 不確実性：北米のデータを中心とした総説であり、感作物質の分布は日本と異なる場合がある（職種別の物質は出典の本文の表から読み取り）。皮膚所見・皮膚科的治療は Ⅲ が正であり、本カードは職業性の原因物質と評価の側面に限る。ライセンス文を特定できなかったため UNKNOWN とした。
-- 出典：Houle MC, Holness DL, DeKoven J. Occupational Contact Dermatitis: An Individualized Approach to the Worker with Dermatitis. Curr Dermatol Rep. 2021;10(4):182-191　[DOI 10.1007/s13671-021-00339-0](https://doi.org/10.1007/s13671-021-00339-0)　[PMID 34540358](https://pubmed.ncbi.nlm.nih.gov/34540358/)（区分 UNKNOWN）
+- 出典：Houle MC, Holness DL, DeKoven J. Occupational Contact Dermatitis: An Individualized Approach to the Worker with Dermatitis. Curr Dermatol Rep. 2021;10(4):182-191　[DOI 10.1007/s13671-021-00339-0](https://doi.org/10.1007/s13671-021-00339-0)　[PMID 34540358](https://pubmed.ncbi.nlm.nih.gov/34540358/)（区分 RESTRICTED）
 - 出題基準：医学各論 ⅩⅢ-4-E-④（アレルギー性接触皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-065 (id: JlvnlgM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OC-019&card_id=OC-019&version=8d22f5382d)　（版 `8d22f5382d`）
 

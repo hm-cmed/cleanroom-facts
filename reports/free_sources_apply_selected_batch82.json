@@ -1,0 +1,68 @@
+{
+ "class": [
+  [
+   "SRC-1011",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1012",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1015",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1019",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1021",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1022",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1023",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1024",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1521",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1523",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [],
+ "B": [
+  "BR-002",
+  "BR-005",
+  "BR-009",
+  "BR-010",
+  "BR-011",
+  "BR-012",
+  "BR-013",
+  "BR-014",
+  "BR-015",
+  "BR-017"
+ ],
+ "new_src": []
+}

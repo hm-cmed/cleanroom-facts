@@ -1,0 +1,33 @@
+{
+ "class": [
+  [
+   "SRC-4048",
+   "UNKNOWN",
+   "OPEN"
+  ],
+  [
+   "SRC-4038",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-4039",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-4050",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [],
+ "B": [
+  "OC-002",
+  "OC-005",
+  "OC-006",
+  "OC-016",
+  "OC-019"
+ ],
+ "new_src": []
+}

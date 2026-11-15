@@ -1,0 +1,61 @@
+{
+ "class": [
+  [
+   "SRC-1200",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1201",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1203",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1204",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1205",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1206",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1208",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1209",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-1210",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [],
+ "B": [
+  "HX-001",
+  "HX-002",
+  "HX-004",
+  "HX-005",
+  "HX-006",
+  "HX-010",
+  "HX-011",
+  "HX-012"
+ ],
+ "new_src": []
+}

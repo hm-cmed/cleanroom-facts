@@ -1,0 +1,59 @@
+{
+ "A": [],
+ "B": [
+  {
+   "card": "EV-007",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ83 2026-11-15",
+   "text": "Kukla J, Olejnik P, Kasarełło K. Exploring the Evolving Role of Scopolamine in Pharmacotherapy: From Cognitive Impairment to Neuroplasticity? - A Narrative Review. Molecules. 2026;31(7):1219（PMID: 41976259、DOI: 10.3390/molecules31071219、PMCID: PMC13075120、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：スコポラミンが動揺病の予防・治療で確立した薬剤であり、薬物療法の中で最も有効な選択肢の一つであることを再掲する。数値の照合：数値の主張なし。留保：繰り返し曝露による順応が最も効くこと、抗ヒスタミン薬が確かな治療として挙げられること、症状が多彩で個人差が大きく単一の決定的な治療は期待しにくいことは再掲なし。主出典は購読誌で非OA、RESTRICTED への訂正対象（D）"
+  },
+  {
+   "card": "EV-010",
+   "label": "GOV_US（OPEN）、作り手の調査バッチ83 2026-11-15",
+   "text": "Hackett PH, Shlim DR. High-Altitude Travel and Altitude Illness. In: CDC Yellow Book 2026: Health Information for International Travel. Centers for Disease Control and Prevention（2025年4月更新）（https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.htmL）。裏づける部分：部分：急性高地疾患が急性高山病（AMS）・高地脳浮腫（HACE）・高地肺水腫（HAPE）の3症候群からなること、順応していない人は睡眠高度2,450 m以上で発症リスクがあること、予防の基本は緩徐な上昇で、3,000 mを超えたら睡眠高度の上昇を1日500 m以内にとどめ1,000 m上昇ごとに順応の追加日を入れること、予防薬アセタゾラミドの成人用量が125 mgの1日2回であることを再掲する。数値の照合：アセタゾラミド125 mgの12時間ごとは候補の「125 mg twice a day」と一致し、睡眠高度の上昇上限500 m/日も一致する。発症リスクの高度は候補が2,450 m以上としており、カードの「2,500 mを超える」と近似するが同一ではない。休息日の置き方は、カードの「3〜4日ごとに休息日」に対し候補は「1,000 m上昇ごとに順応の追加日」で、同じ緩徐上昇の考え方だが表記は異なる。留保：主出典は購読誌（Wilderness & Environmental Medicine）で非OA、Crossref のライセンスはテキストマイニング用のみ。RESTRICTED への訂正対象（D）"
+  },
+  {
+   "card": "EV-011",
+   "label": "GOV_US（OPEN）、作り手の調査バッチ83 2026-11-15",
+   "text": "Centers for Disease Control and Prevention. Acute Radiation Syndrome: Information for Clinicians. CDC（2024年4月23日更新）（https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html?CDC_AAref_Val=https://www.cdc.gov/nceh/radiation/emergencies/arsphysicianfactsheet.htm）。裏づける部分：部分：急性放射線症候群が全身または広い範囲の照射の後に起こること、古典的な3つの亜症候群（骨髄（造血器）・消化器・心血管/中枢神経）に区分されること、前駆期・潜伏期・発症期を経る経過の枠組みを再掲する。数値の照合：線量区分は一致しない。候補は骨髄症候群0.7〜10 Gy・消化器症候群は約10 Gy超・心血管/中枢神経症候群は約50 Gy超とし、カード（主出典）の造血器型2〜3 Gy超・消化器型5〜12 Gy・脳血管型10〜20 Gyとは帯が異なる（とくに脳血管型の目安が大きく異なる）。経過の各期の日数（前駆期0〜2日・潜伏期2〜20日・発症期21〜60日）の再掲もない。カードは主出典の区分に従うものであり、本棚卸しでは変更しない。留保：主出典は PMC 収載（PMC3863169）だが、PMC 版の著作権表示は All rights reserved で CC 表示がなく、Crossref の刊行版ライセンスも Elsevier の OA ユーザーライセンス（CC ではない）。RESTRICTED への訂正対象（D）"
+  },
+  {
+   "card": "EV-012",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ83 2026-11-15",
+   "text": "Kamiya K, Sakata R, Rajaraman P. Eight decades of research on the long-term health effects of radiation in atomic bomb survivors and their offspring. Carcinogenesis. 2025;46(3):bgaf047（PMID: 41144264、DOI: 10.1093/carcin/bgaf047、PMCID: PMC12558143、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：寿命調査の固形がん死亡について、30歳で被ばくし70歳に達した時点での男女平均の過剰相対リスクが1 Gyあたり0.42であること、全線量域で直線的な線量反応を示すことを、Ozasa 2012 を引いて再掲する。数値の照合：過剰相対リスク0.42は候補と一致する。95%信頼区間（0.32〜0.53）、被ばく時年齢が10歳若くなるごとにリスクが約29%増えること、有意な過剰が認められた最も低い線量の範囲0〜0.20 Gy、線量推定のある対象86,611人は再掲なし。留保：主出典は非OA（BioOne で無償PDFがあるが CC 表示はない）。RESTRICTED への訂正対象（D）"
+  },
+  {
+   "card": "EV-014",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ83 2026-11-15",
+   "text": "Schmidt YM, Muensterer O, Wendling-Keim D. The use of honey in button battery ingestions: a systematic review. Front Pediatr. 2023;11:1259780；Amodio J, Lightman M. A Review of Button Battery Ingestions in Children - Diagnosis and Management. Children (Basel). 2025;12(12):1678（PMID: 37842023／41462818、DOI: 10.3389/fped.2023.1259780／10.3390/children12121678、PMCID: PMC10569471／PMC12731419、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：Schmidt は主出典（ESPGHAN ポジションペーパー）の推奨を再掲し、電池の位置を直ちに確認すること、食道に停滞していれば2時間以内に摘出すること、摂取後12時間以内であれば蜂蜜（1歳超、10 mLを10分ごと最大6回）やスクラルファートが損傷軽減に考慮できることを述べる。Amodio は、負極から生じる水酸化物イオンによるアルカリ性損傷が主機序であること、2時間の停滞で重篤な損傷が始まること、蜂蜜・スクラルファートでアルカリ環境を中和することを再掲する。数値の照合：摘出の目安「望ましくは2時間以内」と、蜂蜜等の投与を考慮できる「摂取後12時間以内」は、両候補の記載と一致する。留保：主出典は購読誌で非OAであり、現行の RESTRICTED が正しい（訂正対象外）"
+  },
+  {
+   "card": "EV-016",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ83 2026-11-15",
+   "text": "Kim JY, Kim OH. Recent Advances in Prehospital and In-Hospital Management of Patients with Severe Trauma. J Clin Med. 2025;14(7):2208（PMID: 40217659、DOI: 10.3390/jcm14072208、PMCID: PMC11989688、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：生命を脅かす出血への対応として、直接圧迫が出血コントロールの第一歩であること、それで不十分な四肢の出血には市販の止血帯（ターニケット）が使えること、止血帯が適用しにくい部位では止血剤付きガーゼによる創部充填が望ましいことを再掲する。数値の照合：数値の主張なし。留保：圧迫器具そのものへの言及、閉鎖性の四肢関節損傷への圧迫ラップ、脱落した歯の一時的な保存は再掲なし。また候補は2025年の外傷総説であり、カードの枠組みである2020年国際コンセンサスの検討範囲そのものの再掲ではない。主出典は非OAで現行の RESTRICTED が正しい（訂正対象外）"
+  },
+  {
+   "card": "EV-019",
+   "label": "GOV_US（OPEN）、作り手の調査バッチ83 2026-11-15",
+   "text": "Centers for Disease Control and Prevention (CDC). Health Hazards Associated with Laundry Detergent Pods — United States, May–June 2012. MMWR Morb Mortal Wkly Rep. 2012;61(41):825-829（PMID: 23076090、https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6141a1.htm）。裏づける部分：部分：ポッドへの曝露が5歳以下の小児に集中すること（年齢が記録された曝露の94%）、曝露経路は経口摂取が中心であること（ポッド曝露の90%で経口が経路の一つ）を再掲し、カードの総括（家庭用製品による小児の中毒事故は低年齢児の経口摂取が中心）と一致する。数値の照合：カードの数値（救急受診17,230人、3歳未満73.5%、経口摂取79.7%、入院4.4%、中等度以上の転帰7.5%、気管挿管102例（0.6%）、死亡1例）は再掲なし。候補は2012年5月17日〜6月17日の中毒センター報告（NPDS）に基づく別のデータセットであり、カードの米国救急受診推計（NEISS）とは母集団・期間が異なる。留保：主出典は購読誌（Pediatrics）で非OA、現行の RESTRICTED が正しい（訂正対象外）"
+  },
+  {
+   "card": "EV-024",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ83 2026-11-15",
+   "text": "Kamada K, Fukaya E, Iwata E, Uchida D, Mo M, Hanzawa K, Ueda S, Azuma N. Disaster-associated venous thromboembolism countermeasures in Japan: Insights from past major earthquakes. J Vasc Surg Venous Lymphat Disord. 2026;14(1):102312（PMID: 40935330、DOI: 10.1016/j.jvsv.2025.102312、PMCID: PMC12826954、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補の表IIが熊本地震（2016）の避難所検診について主出典（Sato）を引いて、対象1,673人・深部静脈血栓症の頻度10.6%・発災後1〜4週・避難所という枠組みを再掲し、本文も KEEP プロジェクトによる避難所での移動型の静脈スクリーニングに触れる。数値の照合：対象1,673人と頻度10.6%は候補の表と一致する。陽性178人の絶対数そのもの、多変量解析の関連因子4項目（70歳以上・睡眠薬の使用・下肢の浮腫・下肢静脈瘤）と、4因子すべてを持つ人の陽性率71.4%は再掲なし。留保：主出典は J-STAGE で無償PDFが読めるが Crossref にライセンス表示がなく自由とはみなさない。現行の RESTRICTED が正しい（訂正対象外）"
+  },
+  {
+   "card": "EV-027",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ83 2026-11-15",
+   "text": "Bieliński JR, Huntley R, Dunne CL, Timler D, Nadolny K, Jaskiewicz F. Do We Actually Help Choking Children? The Quality of Evidence on the Effectiveness and Safety of First Aid Rescue Manoeuvres: A Narrative Review. Medicina (Kaunas). 2024;60(11):1827（PMID: 39597012、DOI: 10.3390/medicina60111827、PMCID: PMC11597031、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補の表1が IFRC の手順（咳が無効な1歳超の小児では背部叩打を先行し腹部突き上げを続ける）を明示し、各ガイドラインに共通する「5回ずつ交互」の方式、乳児では腹部突き上げを用いず胸部突き上げを組み合わせること、腹部突き上げによる臓器損傷の報告があること、口内を指で探る行為が推奨されないことを再掲する。数値の照合：背部叩打・腹部突き上げとも最大5回という回数は、候補の述べる「five by five」方式と一致する。留保：軽症（咳ができる）での咳の促しと観察、拳の位置（肋骨と臍の間）の細部、意識を失った場合の心肺蘇生開始、固形物は見えている場合にのみ指で除去する点は再掲なし。候補は小児を対象とする総説であり、成人の手順の再掲は限られる。主出典は © IFRC で CC 表示がなく、現行の RESTRICTED が正しい（マスターの license_note「CC 表示なし（© IFRC 2020）」とも一致、訂正対象外）"
+  }
+ ],
+ "rest_fix": {
+  "SRC-4116": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ83）",
+  "SRC-4122": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ83）",
+  "SRC-4125": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ83）",
+  "SRC-4126": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ83）",
+  "SRC-4127": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ83）",
+  "SRC-4128": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ83）"
+ },
+ "open_fix": []
+}

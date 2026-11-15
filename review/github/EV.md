@@ -1,6 +1,6 @@
 # EV 物理的原因・生活環境因子による障害 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-14
+[← 一覧に戻る](README.md)　更新：2026-11-15
 
 全 31 件のうち、監修済み 0 件。
 
@@ -12,7 +12,7 @@
 
 - 条件：region: 日本／対象: 熱中症患者
 - 不確実性：ガイドラインは単行の文書で、DOI・PMIDはない。Ⅳ度の目安や冷却の推奨は、ガイドライン本文を引用する医療記事・自治体資料で確認した範囲であり、ガイドライン本文そのものの逐語での確認はしていない。環境省『熱中症環境保健マニュアル2022』の重症度表は旧版（2015年版）の分類をもとにしており、2024年版とは段階が異なる。
-- 出典：日本救急医学会 熱中症および低体温症に関する委員会（編）. 熱中症診療ガイドライン2024. 日本救急医学会. 2024（区分 UNKNOWN）
+- 出典：日本救急医学会 熱中症および低体温症に関する委員会（編）. 熱中症診療ガイドライン2024. 日本救急医学会. 2024（区分 RESTRICTED）
 - 出題基準：医学各論 ⅩⅢ-5-A-①（熱中症、a）　コアカリ：PS-03-05-10 (id: Jkxnub4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-001&card_id=EV-001&version=641ae5483b)　（版 `641ae5483b`）
 
@@ -116,7 +116,7 @@
 
 - 条件：region: 国際／対象: 動揺病の患者
 - 不確実性：国内で動揺病に使われる製剤（ジメンヒドリナート、メクリジン、スコポラミン含有製剤など）の国内承認・保険適用の状況は未確認。
-- 出典：Golding JF, Gresty MA. Pathophysiology and treatment of motion sickness. Current Opinion in Neurology. 2015;28(1):83-88　[DOI 10.1097/WCO.0000000000000163](https://doi.org/10.1097/WCO.0000000000000163)　[PMID 25502048](https://pubmed.ncbi.nlm.nih.gov/25502048/)（区分 UNKNOWN）
+- 出典：Golding JF, Gresty MA. Pathophysiology and treatment of motion sickness. Current Opinion in Neurology. 2015;28(1):83-88　[DOI 10.1097/WCO.0000000000000163](https://doi.org/10.1097/WCO.0000000000000163)　[PMID 25502048](https://pubmed.ncbi.nlm.nih.gov/25502048/)（区分 RESTRICTED）
 - 出題基準：医学各論 ⅩⅢ-5-C-①（動揺病、b）　コアカリ：PS-03-05-11 (id: Jkxnub8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-007&card_id=EV-007&version=2d1eb6c061)　（版 `2d1eb6c061`）
 
@@ -164,7 +164,7 @@
 
 - 条件：region: 国際／対象: 高地へ旅行する人
 - 不確実性：アセタゾラミドの高山病・高地疾患への使用は国内では適応外で、国内添付文書の効能・効果に高地疾患は含まれない（米国では急性高山病の予防・症状緩和が適応に含まれる）。デキサメタゾンとニフェジピン（HAPE関係）の高地疾患への国内適応は未確認。睡眠高度の上げ方などの数値はガイドラインの要約資料で確認した範囲で、HACE・HAPEでは薬は下山の代わりにならない。
-- 出典：Luks AM, Beidleman BA, Freer L, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention, Diagnosis, and Treatment of Acute Altitude Illness: 2024 Update. Wilderness & Environmental Medicine. 2024;35(1 Suppl):2S-19S　[DOI 10.1016/j.wem.2023.05.013](https://doi.org/10.1016/j.wem.2023.05.013)　[PMID 37833187](https://pubmed.ncbi.nlm.nih.gov/37833187/)（区分 UNKNOWN）
+- 出典：Luks AM, Beidleman BA, Freer L, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention, Diagnosis, and Treatment of Acute Altitude Illness: 2024 Update. Wilderness & Environmental Medicine. 2024;35(1 Suppl):2S-19S　[DOI 10.1016/j.wem.2023.05.013](https://doi.org/10.1016/j.wem.2023.05.013)　[PMID 37833187](https://pubmed.ncbi.nlm.nih.gov/37833187/)（区分 RESTRICTED）
 - 出題基準：医学各論 ⅩⅢ-5-D-②（高山病、b）　コアカリ：PS-03-05-11 (id: Jkxnub8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-010&card_id=EV-010&version=f3c4ded274)　（版 `f3c4ded274`）
 
@@ -180,7 +180,7 @@
 
 - 条件：region: 国際／対象: 急性放射線症候群の患者
 - 不確実性：線量区分の境目は資料によって幅がある。G-CSF（フィルグラスチム製剤）は国内で好中球減少症などの適応で承認されているが、急性放射線症候群（造血器型）に対する国内承認・保険適用は未確認のため、治療の主張には入れていない。
-- 出典：López M, Martín M. Medical management of the acute radiation syndrome. Reports of Practical Oncology and Radiotherapy. 2011;16(4):138-146　[DOI 10.1016/j.rpor.2011.05.001](https://doi.org/10.1016/j.rpor.2011.05.001)　[PMID 24376971](https://pubmed.ncbi.nlm.nih.gov/24376971/)（区分 UNKNOWN）
+- 出典：López M, Martín M. Medical management of the acute radiation syndrome. Reports of Practical Oncology and Radiotherapy. 2011;16(4):138-146　[DOI 10.1016/j.rpor.2011.05.001](https://doi.org/10.1016/j.rpor.2011.05.001)　[PMID 24376971](https://pubmed.ncbi.nlm.nih.gov/24376971/)（区分 RESTRICTED）
 - 出題基準：医学各論 ⅩⅢ-5-E-①（急性放射線障害、b）　コアカリ：PS-03-06-02 (id: JkxnucI)；PS-03-06-03 (id: JkxnucM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-011&card_id=EV-011&version=66ce1eaec7)　（版 `66ce1eaec7`）
 
@@ -196,7 +196,7 @@
 
 - 条件：region: 日本／対象: 原爆被爆者
 - 不確実性：数値は第14報（死亡の解析）の抄録で確認した範囲。固形がん罹患の解析（Grant 2017）やUNSCEARの福島第一原子力発電所事故の評価は本カードには含めていない。
-- 出典：Ozasa K, Shimizu Y, Suyama A, et al. Studies of the mortality of atomic bomb survivors, Report 14, 1950-2003: an overview of cancer and noncancer diseases. Radiation Research. 2012;177(3):229-243　[DOI 10.1667/RR2629.1](https://doi.org/10.1667/RR2629.1)　[PMID 22171960](https://pubmed.ncbi.nlm.nih.gov/22171960/)（区分 UNKNOWN）
+- 出典：Ozasa K, Shimizu Y, Suyama A, et al. Studies of the mortality of atomic bomb survivors, Report 14, 1950-2003: an overview of cancer and noncancer diseases. Radiation Research. 2012;177(3):229-243　[DOI 10.1667/RR2629.1](https://doi.org/10.1667/RR2629.1)　[PMID 22171960](https://pubmed.ncbi.nlm.nih.gov/22171960/)（区分 RESTRICTED）
 - 出題基準：医学各論 ⅩⅢ-5-E-②（放射線による発がん、b）　コアカリ：PS-03-06-03 (id: JkxnucM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-012&card_id=EV-012&version=f5e2abd44d)　（版 `f5e2abd44d`）
 
@@ -212,7 +212,7 @@
 
 - 条件：region: 国際／対象: レーザーを扱う作業者
 - 不確実性：紫外線の曝露限度はICNIRPの2004年の別の指針があり、紫外線による角膜炎（雪目など）は既存カード（TR-007）が扱う。赤外線に直接対応する国際指針は未確認。曝露限度の具体的な数値は抄録に含まれないため主張に入れていない。
-- 出典：International Commission on Non-Ionizing Radiation Protection (ICNIRP). ICNIRP Guidelines on Limits of Exposure to Laser Radiation of Wavelengths between 180 nm and 1,000 μm. Health Physics. 2013;105(3):271-295　[DOI 10.1097/HP.0b013e3182983fd4](https://doi.org/10.1097/HP.0b013e3182983fd4)　[PMID 30522251](https://pubmed.ncbi.nlm.nih.gov/30522251/)（区分 UNKNOWN）
+- 出典：International Commission on Non-Ionizing Radiation Protection (ICNIRP). ICNIRP Guidelines on Limits of Exposure to Laser Radiation of Wavelengths between 180 nm and 1,000 μm. Health Physics. 2013;105(3):271-295　[DOI 10.1097/HP.0b013e3182983fd4](https://doi.org/10.1097/HP.0b013e3182983fd4)　[PMID 30522251](https://pubmed.ncbi.nlm.nih.gov/30522251/)（区分 RESTRICTED）
 - 出題基準：医学各論 ⅩⅢ-5-F（非電離放射線障害、b）　コアカリ：PS-03-06-03 (id: JkxnucM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EV-013&card_id=EV-013&version=9ab5f14842)　（版 `9ab5f14842`）
 

@@ -1,0 +1,24 @@
+{
+ "A": [],
+ "B": [
+  {
+   "card": "PD-002",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ88 2026-11-15",
+   "text": "Braverman-Poyastro A, Suárez-Rico BV, Borboa-Olivares H, Espino Y Sosa S, Torres-Torres J, Arce-Sánchez L, Martínez-Cruz N, Reyes-Muñoz E. Antepartum Fetal Surveillance and Optimal Timing of Delivery in Diabetic Women: A Narrative Review. J Clin Med. 2024;13(2):313（PMID: 38256447、DOI: 10.3390/jcm13020313、PMCID: PMC10816876、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：分娩前胎児サーベイランスが死産リスクの低減を目的とすること（候補は糖尿病妊婦を対象とする総説だが、手法の枠組みは一般形で述べられる）、NST・CST・BPS と子宮動脈・臍帯動脈を含むドプラ超音波を組み合わせて胎児の状態を評価する方法論、BPS が NST を含む5項目・各2点の合計スコアで構成されることを再掲する。数値の照合：BPS の分類は候補では羊水ポケット（MVP）で細分する形で示される（正常は10点、または MVP 2cm超で8点／equivocal は MVP 2cm以下で8点、または MVP 2cm超で6点／異常は MVP 2cm以下で6点、または4点／高度異常は2点以下）。カードの ACOG 式の単純化した閾値（8〜10が正常、6が equivocal、4以下が異常）とは骨格は整合するが同一の切り分けではなく、NST の reactive 基準（20分間に2回以上の acceleration）は候補に再掲がない。裏づけ登録時に候補の細分値をカードの閾値の裏づけとして使わないこと。留保：主出典は Obstet Gynecol（Wolters Kluwer）の ACOG 著作（© 2021 ACOG）で、Europe PMC で非OA・PMC 未収載、Crossref にライセンス登録はなく、現行 RESTRICTED が正しいことを個別確認した。マスターの pmid は null で、カード側に既記の PMID 34011889 を補完候補とした（識別子補完候補の節参照）"
+  },
+  {
+   "card": "PD-004",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ88 2026-11-15",
+   "text": "Sarella A, Tzela P, Giaxi P, Sarantou D, Bothou A, Gourounti K. Safety Considerations and Knowledge Gaps in Maternal Cardiopulmonary Resuscitation: A Systematic Review of Healthcare Professionals' Preparedness. Cureus. 2025;17(8):e89683（PMID: 40926909、DOI: 10.7759/cureus.89683、PMCID: PMC12416222、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：妊娠子宮による大動脈・下大静脈の圧迫（aortocaval compression）を前提に、標準的な CPR の修正点として用手的な子宮左方転位と早期の気道確保が挙げられること、自己心拍再開が得られない場合は心停止から4分で蘇生子宮切開（perimortem cesarean delivery）に着手し5分までの娩出を目標とする枠組みが、AHA を含む国際ガイドラインで一致していることを再掲する。数値の照合：4分・5分の値は候補と一致する（候補は RCOG Green-top Guideline No. 56 を主たる帰属として示し、AHA・ERC を含む国際ガイドラインの一致として述べる）。ただし除細動のエネルギー量と蘇生薬剤が非妊婦と同様である点は、候補では医療者の知識調査の結果（麻酔科医の91.3%が非妊婦と同一の除細動を選択した）として触れられるにとどまり、推奨としての再掲はない。「搬送せず蘇生を行っている現場で実施する」点も候補に直接の再掲はなく、裏づけは子宮左方転位・気道確保・蘇生子宮切開の時期の範囲にとどまる。留保：主出典は Circulation（American Heart Association）の科学ステートメントで、Europe PMC で非OA・PMC 未収載、Crossref にライセンス登録はなく、現行 RESTRICTED が正しいことを個別確認した。後継の AHA ステートメントは確認できなかった。マスターの pmid は null で、カード側に既記の PMID 26443610 を補完候補とした（識別子補完候補の節参照）"
+  },
+  {
+   "card": "PD-007",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ88 2026-11-15",
+   "text": "Weise A, Liehr T. Non-invasive prenatal testing – new possibilities on the horizon and old problems. Medizinische Genetik. 2026;38(4):295-303（PMID: 42992050、DOI: 10.1515/medgen-2026-3028、PMCID: PMC13737859、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：母体血中の cell-free DNA を用いる検査（NIPT）が診断ではなくスクリーニングの方法であること、スクリーニングで可能性が示された場合は絨毛検査や羊水検査などの診断的検査による確定が必要であること、偽陽性が生じ、確定のための侵襲的検査を要しうることを再掲する。数値の照合：数値の主張なし（枠組みのカード）。「全ての妊婦に対して年齢やリスクにかかわらずスクリーニング検査と診断的検査の双方の選択肢を提示すべき」と「cell-free DNA 検査が一般的な染色体異数性に対するスクリーニングの中で最も感度・特異度が高い」の2要素は候補に再掲がない。候補が示す PPV 等の値はカードの主張とは別の指標であり、裏づけには用いていない。留保：主出典は Obstet Gynecol（Wolters Kluwer）の ACOG 著作（© 2020 ACOG）で、Europe PMC で非OA・PMC 未収載、Crossref にライセンス登録はなく、現行 RESTRICTED が正しいことを個別確認した。マスターの pmid は null で、カード側に既記の PMID 32804883 を補完候補とした（識別子補完候補の節参照）"
+  }
+ ],
+ "rest_fix": {},
+ "open_fix": [
+  "SRC-3538"
+ ]
+}

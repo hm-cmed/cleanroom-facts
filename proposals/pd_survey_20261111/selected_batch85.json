@@ -1,0 +1,52 @@
+{
+ "A": [],
+ "B": [
+  {
+   "card": "IG-001",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15",
+   "text": "Shime N, Nakada TA, Yatabe T, et al. The Japanese Clinical Practice Guidelines for Management of Sepsis and Septic Shock 2024. J Intensive Care. 2025;13:15（PMID: 40087807、DOI: 10.1186/s40560-025-00776-0、PMCID: PMC11907869、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：敗血症の定義（感染に対する制御不能な宿主反応による生命を脅かす臓器障害）と、感染が確認・疑われる状態での SOFA スコア2点以上の急性上昇による診断、敗血症性ショックの定義（十分な輸液蘇生にもかかわらず平均動脈圧65 mmHg以上の維持に昇圧薬を要し、乳酸値2 mmol/L超）を CQ1-1・CQ1-2 でそのまま再掲する。数値の照合：定義の数値要素（SOFA 2点以上、平均動脈圧65 mmHg、乳酸値2 mmol/L超）はカードと一致する。死亡率との関連（SOFA 2点以上で院内死亡率10%超、敗血症性ショックで40%超）は候補に再掲なし。留保：候補は日本版敗血症診療ガイドライン2024の英語版であり、Sepsis-3 の定義部分を引用する形で裏づける。死亡率の併記まで含めて定義を再掲する自由な全文は見つからなかった。主出典は CC 表示がなく非自由で、現行の RESTRICTED が正しい（訂正対象外）"
+  },
+  {
+   "card": "IG-002",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15",
+   "text": "Azevedo LCP. Using the 2026 Surviving Sepsis Campaign Guidelines in Practice. Crit Care Sci. 2026;38:e20260036（PMID: 42138866、DOI: 10.62675/2965-2774.20260036、PMCID: PMC13124120、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：SSC 2026 の主要な新規推奨の表で、血液培養を可及的速やかに（理想的には抗菌薬投与前に）採取すること、初期の平均動脈圧目標65 mmHg、低血圧が続けば初期晶質液ボーラスと早期の昇圧薬開始を再掲する。数値の照合：平均動脈圧65 mmHg、65歳以上の敗血症性ショックで60〜65 mmHg はカードと正確に一致する。晶質液30 mL/kg は候補では蘇生後の輸液戦略（投与済み30 mL/kg を前提とする自由／制限の比較）の文脈でのみ言及され、初期投与の推奨としての再掲ではない。留保：抗菌薬投与の1時間以内／3時間以内の時間枠と、スクリーニングに単一ツールとして qSOFA より NEWS・NEWS2・MEWS・SIRS を優先する推奨は、候補に再掲なし（病院前スクリーニングへの言及のみ）。候補のライセンスは全文のライセンス表示と Europe PMC で CC BY 4.0 を確認した（Crossref にライセンス登録なし）。主出典は非OAで、現行の RESTRICTED が正しい（訂正対象外）"
+  },
+  {
+   "card": "IG-006",
+   "label": "CC BY（OPEN）＋ CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15",
+   "text": "Lamy B, Dargère S, Arendrup MC, Parienti JJ, Tattevin P. How to Optimize the Use of Blood Cultures for the Diagnosis of Bloodstream Infections? A State-of-the Art. Front Microbiol. 2016;7:697 ＋ Sautter RL, Parrott JS, Nachamkin I, et al. American Society for Microbiology evidence-based laboratory medicine practice guidelines to reduce blood culture contamination rates: a systematic review and meta-analysis. Clin Microbiol Rev. 2024;37(4):e0008724（PMID: 27242721 / 39495314、DOI: 10.3389/fmicb.2016.00697 / 10.1128/cmr.00087-24、PMCID: PMC4863885 / PMC11629619、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：Lamy 2016 は1セットあたり20〜30 mL（英国 SMI の4ボトル＝2セットの換算、フランスの2〜3セット等）、採取量と感度の関係（60 mL で感度95.7〜97.7%）、実地の陽性率5〜13%を再掲する。Sautter 2024 は CLSI・CAP 等がコンタミネーション率の許容上限として3%を掲げてきたことを再掲する。数値の照合：1セット20〜30 mL はカードと一致する。コンタミネーション率はカードが「3%未満」、候補が上限「3%以下（≤3%）」の掲げ方で、厳密には境界の扱いが異なる。陽性率5〜13%は候補では実地の観察値であり、カードの「推奨範囲5〜15%」そのものの再掲ではない。留保：「2〜4セット」という推奨範囲、総量80 mL の枠組み、日本固有の要素（2014年の同時2セット採取の診療報酬算定と全国的定着）はどちらの候補にも再掲なし。主出典は学会誌（©日本臨床微生物学会）で DOI・PMID はなく、現行の RESTRICTED が正しい（訂正対象外）。ページの補完候補は識別子補完候補の節参照"
+  },
+  {
+   "card": "IG-010",
+   "label": "GOV_US、作り手の調査バッチ85 2026-11-15",
+   "text": "Centers for Disease Control and Prevention. Core Elements of Hospital Antibiotic Stewardship Programs（2014年版の2019年更新）. CDC ウェブページ（https://www.cdc.gov/antibiotic-use/hcp/core-elements/hospital.html）。裏づける部分：部分：病院の抗菌薬適正使用プログラムが患者ケアの改善のため抗菌薬の適正使用を促す取り組みであること、その中核要素（リーダーシップの関与、説明責任、薬剤師の専門性、実践、追跡、報告、教育）を持つ組織的な枠組みであることを再掲する。長期療養（介護施設）については別の Core Elements が用意されている旨も示される。数値の照合：数値の主張なし。留保：カード後段の「IDSAとSHEAの実装ガイドラインが多職種パネルの検討に基づきエビデンスに基づく推奨を行っている」という主出典自体の性質は、CDC ページでは実装リソースへのリンクとして触れるのみで再掲なし。主出典は CC 表示がなく非自由で、現行の RESTRICTED が正しい（訂正対象外）"
+  },
+  {
+   "card": "IG-012",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15",
+   "text": "Hamada Y, Ebihara F, Kikuchi K. A Strategy for Hospital Pharmacists to Control Antimicrobial Resistance (AMR) in Japan. Antibiotics (Basel). 2021;10(11):1284（PMID: 34827222、DOI: 10.3390/antibiotics10111284、PMCID: PMC8614892、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：JANIS に基づく推計のうち MRSA 側を再掲する。黄色ブドウ球菌菌血症による死亡は2011年17,412人・2017年17,157人で、そのうち MRSA は2011年5,924人（34.0%）から2017年4,224人（24.6%）へ減少した。数値の照合：MRSA 側の数値（17,412・17,157・5,924・34.0%・4,224・24.6%）はすべてカードと正確に一致する。留保：大腸菌側の系列（菌血症死亡9,044人→14,016人、フルオロキノロン耐性大腸菌2,045人→3,915人）は候補に再掲がなく、裏づけは MRSA 側にとどまる。主出典著者の後年の負担推計の総説（Infect Dis Ther 2023・2024）は CC BY-NC で自由ではない。主出典の刊行版ライセンスとマスターの license_note の不整合については申し送り参照（区分 RESTRICTED は正しい）"
+  },
+  {
+   "card": "IG-016",
+   "label": "CC BY（OPEN）、作り手の調査バッチ85 2026-11-15",
+   "text": "Li N, Guan X, Zhang R, Liu J, Li X. Hand hygiene compliance among healthcare workers before and after a CFIR-guided role-stratified intervention: a mixed-methods study in a tertiary hospital. Front Public Health. 2026;14:1750206（PMID: 42088252、DOI: 10.3389/fpubh.2026.1750206、PMCID: PMC13136248、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：全面：WHO の手指衛生の「5つのタイミング」を、(1) 患者に触れる前、(2) 清潔・無菌操作の前、(3) 体液曝露のリスクの後、(4) 患者に触れた後、(5) 患者の周囲環境に触れた後、と5項目すべてそのまま列挙して再掲する。数値の照合：数値の主張なし。留保：カードの主張は5項目の列挙そのものであり、候補の再掲で過不足なくカバーされる。権威ある起源は WHO ガイドライン（自由ではない）であるため、引用論文による裏づけとして B（全面）とした（バッチ80・81の運用と同扱い）。主出典は WHO 出版物ページで「All rights reserved」とされ、現行の RESTRICTED が正しい（訂正対象外）。なお別文書の要約版（WHO/IER/PSP/2009.07）は CC BY-NC-SA 3.0 IGO であり自由ではない"
+  },
+  {
+   "card": "IG-017",
+   "label": "GOV_US、作り手の調査バッチ85 2026-11-15",
+   "text": "Centers for Disease Control and Prevention, Healthcare Infection Control Practices Advisory Committee (HICPAC). Record of the Proceedings, November 15-16, 2018（CDC の会議記録 PDF）（https://www.cdc.gov/hicpac/media/pdfs/2018-nov-hicpac-meeting-508.pdf）。裏づける部分：部分：2015年点有病率調査で、患者が医療関連感染を有する可能性が2011年より調整後16%低かったこと、頻度の高い感染種別が肺炎26%・消化管感染21%・手術部位感染16%（血流感染12%・尿路感染9%）であったこと、尿路感染（CAUTI）と手術部位感染の重要な減少がみられたことを再掲する。数値の照合：調整後16%低下はカードと一致する。感染種別の順位（肺炎＞消化管感染＞手術部位感染）もカードと一致する。点有病率そのもの（2015年3.2%・2011年4.0%）は候補に再掲なし。留保：消化管感染の大部分が C. difficile である点は候補に再掲なし。CDC Stacks 収載の主出典の著者稿（NEJM 著者稿と同一物）は政府文書とはみなさず候補にしなかった（刊行版の著作権は出版社側）。主出典は NEJM の利用条件のみで自由ではなく、現行の RESTRICTED が正しい（訂正対象外）。後継調査については申し送り参照"
+  },
+  {
+   "card": "IG-018",
+   "label": "CC BY 4.0（OPEN）＋ CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15",
+   "text": "Kim VHD, Upton JEM, Derfalvi B, Hildebrand KJ, McCusker C. Inborn errors of immunity (primary immunodeficiencies). Allergy Asthma Clin Immunol. 2025;20:76 ＋ Regina J, Doms J, Kampouri E, Gerber C, Manuel O, Bart PA, Candotti F, Comte D. Immunodeficiencies in Adults: Key Considerations for Diagnosis and Management. Clin Rev Allergy Immunol. 2025;68:92（PMID: 39780212 / 41107625、DOI: 10.1186/s13223-024-00938-z / 10.1007/s12016-025-09103-9、PMCID: PMC11714877 / PMC12534305、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：Kim 2025 は免疫不全を適応免疫（複合型・液性）と自然免疫（食細胞・補体）の障害に分ける枠組み、抗体欠損では莢膜保有菌（肺炎球菌・インフルエンザ菌）による呼吸器感染が多いこと、食細胞障害では皮膚・気道・内臓の重症の化膿性細菌・真菌感染を起こすこと、補体障害では髄膜炎菌感染のリスクが上がることを再掲する。Regina 2025 は抗C5抗体のエクリズマブ投与時の髄膜炎菌ワクチン・予防内服の必要性と、脾摘・無脾では莢膜保有菌の除去が障害され脾摘後重症感染症（OPSI）を起こすことを再掲する。数値の照合：数値の主張のうち「無脾では最大で50%が致命的」の50%という値は、どちらの候補にも再掲なし（Regina 2025 は OPSI の重篤性を定性的に述べるのみ）。留保：「物理的バリア・自然免疫・適応免疫が統合された系」という総論の言い回し自体と、食細胞欠損の「網内系」という表現は再掲なし。カードのエクリズマブの論点は遺伝性補体欠損ではなく薬剤による終末補体阻害であり、Regina 2025 の記述が直接対応する。主出典は ASM の非商用 TDM ライセンスのみで、マスターの license_note と一致し、現行の RESTRICTED が正しい（訂正対象外）"
+  },
+  {
+   "card": "IG-019",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ85 2026-11-15",
+   "text": "van Delden C, Zou M, Mueller NJ. The Infection Timeline in Solid Organ Transplantation: Lessons from the Swiss Transplant Cohort. Curr Infect Dis Rep. 2026;28:12（PMID: 42860971、DOI: 10.1007/s11908-026-00885-3、PMCID: PMC13653959、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：移植後感染の古典的な3相のタイムライン（第1か月は通常の院内感染、2〜6か月は日和見感染、6か月以降は市中感染と潜伏感染の再活性化）を再掲し、その起源が主出典（Fishman）の枠組みにあることを明示する。タイムラインの理解が予防・診断・経験的治療に不可欠であること、免疫抑制の強さ（拒絶反応で高強度の相が続くこと）とドナー由来感染が経過を左右する要因であることも述べる。数値の照合：数値の主張なし。留保：カードの定式化そのもの（リスクは「疫学的曝露と免疫抑制の正味の状態の相互作用」で決まる）は候補に再掲がなく、裏づけはタイムラインと免疫抑制強度の位置づけにとどまる。主出典は CC BY-NC-ND 4.0（Crossref・Europe PMC で確認）でマスターの license_note と一致し、現行の RESTRICTED が正しい（訂正対象外）"
+  }
+ ],
+ "rest_fix": {},
+ "open_fix": []
+}

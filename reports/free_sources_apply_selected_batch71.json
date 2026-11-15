@@ -1,0 +1,42 @@
+{
+ "class": [
+  [
+   "SRC-504",
+   "UNKNOWN",
+   "OPEN"
+  ],
+  [
+   "SRC-501",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-502",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-505",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [],
+ "B": [
+  "RX-003",
+  "RX-004",
+  "RX-005",
+  "RX-006",
+  "RX-007",
+  "RX-008",
+  "RX-009",
+  "RX-010",
+  "RX-011",
+  "RX-015",
+  "RX-017",
+  "RX-018",
+  "RX-019",
+  "RX-020"
+ ],
+ "new_src": []
+}

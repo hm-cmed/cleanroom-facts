@@ -1,0 +1,23 @@
+{
+ "class": [
+  [
+   "SRC-4031",
+   "UNKNOWN",
+   "RESTRICTED"
+  ],
+  [
+   "SRC-4801",
+   "UNKNOWN",
+   "RESTRICTED"
+  ]
+ ],
+ "A": [],
+ "B": [
+  "SM-002",
+  "SM-004",
+  "SM-006",
+  "SM-009",
+  "SM-010"
+ ],
+ "new_src": []
+}

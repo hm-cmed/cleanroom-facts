@@ -1,6 +1,6 @@
 # SM 喫煙による障害 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-14
+[← 一覧に戻る](README.md)　更新：2026-11-15
 
 全 10 件のうち、監修済み 0 件。
 
@@ -84,7 +84,7 @@
 
 - 条件：region: 日本／対象: 日本人
 - 不確実性：推計は喫煙の曝露データ等を用いたモデリングによるもので、抄録で確認した範囲である。出典のライセンス表示は、文献データベースとEurope PMCのいずれでも確認できなかったため source_class は UNKNOWN とした。がんそのものの診療は各臓器の分野が正であり、本カードでは喫煙への帰属負担のみを扱う。
-- 出典：Katanoda K, Hirabayashi M, Saito E, Hori M, Abe SK, et al. Burden of cancer attributable to tobacco smoke in Japan in 2015. GHM Open. 2021;1(2):43-50　[DOI 10.35772/ghmo.2021.01013](https://doi.org/10.35772/ghmo.2021.01013)　[PMID 40145071](https://pubmed.ncbi.nlm.nih.gov/40145071/)（区分 UNKNOWN）
+- 出典：Katanoda K, Hirabayashi M, Saito E, Hori M, Abe SK, et al. Burden of cancer attributable to tobacco smoke in Japan in 2015. GHM Open. 2021;1(2):43-50　[DOI 10.35772/ghmo.2021.01013](https://doi.org/10.35772/ghmo.2021.01013)　[PMID 40145071](https://pubmed.ncbi.nlm.nih.gov/40145071/)（区分 RESTRICTED）
 - 出題基準：医学各論 ⅩⅢ-3-B-②（呼吸器疾患(慢性閉塞性肺疾患<COPD>)、がん、循環器疾患、a）　コアカリ：GE-04-01-06 (id: JkxpswA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SM-007&card_id=SM-007&version=367912aedd)　（版 `367912aedd`）
 
@@ -120,7 +120,7 @@
 
 - 条件：region: 国際／対象: 妊娠中に喫煙している、または最近禁煙した女性
 - 不確実性：本カードは2026年版（pub6）の平易要約・著者結論と試験数に基づく。刊行元のページでは抄録の Main results が旧版（2017年版）の集計のまま表示されていたため、旧版のリスク比等の数値は含めていない。2026年版の PMID・PMCID は作成時点で確認できず null とした（版は DOI で特定した）。薬剤について：本レビューは薬物を使わない介入のみを対象とし薬物療法の効果は評価していない。国内ではニコチン製剤（ニコチンパッチ・ガム）は妊婦・授乳婦に禁忌とされており、妊娠中の禁煙支援は行動支援が中心となる（禁煙治療のための標準手順書第7版に基づく既存カード SM-009 の記載による）。能動喫煙・受動喫煙の転帰そのものは既存カード SM-009 が担う。
-- 出典：Freijah I, Jones KA, Coleman T, Perlen SM, Kennedy M, Passey ME, McKenzie JE, Chamberlain C. Psychosocial interventions for supporting women to stop smoking in pregnancy. Cochrane Database of Systematic Reviews. 2026;(4):CD001055　[DOI 10.1002/14651858.CD001055.pub6](https://doi.org/10.1002/14651858.CD001055.pub6)（区分 UNKNOWN）
+- 出典：Freijah I, Jones KA, Coleman T, Perlen SM, Kennedy M, Passey ME, McKenzie JE, Chamberlain C. Psychosocial interventions for supporting women to stop smoking in pregnancy. Cochrane Database of Systematic Reviews. 2026;(4):CD001055　[DOI 10.1002/14651858.CD001055.pub6](https://doi.org/10.1002/14651858.CD001055.pub6)（区分 RESTRICTED）
 - 出題基準：医学各論 ⅩⅢ-3-B-③（妊婦・胎児への影響、a）　コアカリ：GE-04-01-06 (id: JkxpswA)；PS-02-11-05 (id: JkxnuSU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SM-010&card_id=SM-010&version=b62360b867)　（版 `b62360b867`）
 

@@ -1,6 +1,6 @@
 # ID 原発性免疫不全症、続発性免疫不全症 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-14
+[← 一覧に戻る](README.md)　更新：2026-11-15
 
 全 19 件のうち、監修済み 0 件。
 
@@ -12,7 +12,7 @@
 
 - 条件：region: 国際／対象: 小児
 - 不確実性：造血幹細胞移植は国内で確立した保険診療である。遺伝子治療は有効な選択肢になりつつあるが、ADA欠損症に対する遺伝子治療製剤の国内承認は未確認。日本の新生児スクリーニング（TREC/KREC）の実績は別文献で確認しており、本カードの主張には含めていない。
-- 出典：Fischer A, Notarangelo LD, Neven B, Cavazzana M, Puck JM. Severe combined immunodeficiencies and related disorders. Nat Rev Dis Primers. 2015;1:15061.　[DOI 10.1038/nrdp.2015.61](https://doi.org/10.1038/nrdp.2015.61)　[PMID 27189259](https://pubmed.ncbi.nlm.nih.gov/27189259/)（区分 UNKNOWN）
+- 出典：Fischer A, Notarangelo LD, Neven B, Cavazzana M, Puck JM. Severe combined immunodeficiencies and related disorders. Nat Rev Dis Primers. 2015;1:15061.　[DOI 10.1038/nrdp.2015.61](https://doi.org/10.1038/nrdp.2015.61)　[PMID 27189259](https://pubmed.ncbi.nlm.nih.gov/27189259/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-3-A-①（重症複合免疫不全症、c）　コアカリ：PS-01-03-27 (id: JkxnuMw)；PS-01-03-22 (id: JkxnuMc)；PS-03-02-05 (id: JnGUA2s)；TBL-01-00-587 (id: JmxLo1E)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ID-001&card_id=ID-001&version=93030d4447)　（版 `93030d4447`）
 
@@ -60,7 +60,7 @@
 
 - 条件：region: 国際／対象: 小児
 - 不確実性：本カードは表現型の整理に限る。CD40リガンド欠損症では造血幹細胞移植・免疫グロブリン補充が行われるが、その国内の実施・承認状況と、遺伝子治療の国内承認は未確認。
-- 出典：de la Morena MT. Clinical Phenotypes of Hyper-IgM Syndromes. J Allergy Clin Immunol Pract. 2016;4(6):1023-1036.　[DOI 10.1016/j.jaip.2016.09.013](https://doi.org/10.1016/j.jaip.2016.09.013)　[PMID 27836054](https://pubmed.ncbi.nlm.nih.gov/27836054/)（区分 UNKNOWN）
+- 出典：de la Morena MT. Clinical Phenotypes of Hyper-IgM Syndromes. J Allergy Clin Immunol Pract. 2016;4(6):1023-1036.　[DOI 10.1016/j.jaip.2016.09.013](https://doi.org/10.1016/j.jaip.2016.09.013)　[PMID 27836054](https://pubmed.ncbi.nlm.nih.gov/27836054/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-3-B-③（高IgM症候群、c）　コアカリ：PS-01-03-27 (id: JkxnuMw)；PS-01-03-21 (id: JkxnuMY)；PS-01-03-23 (id: JkxnuMg)；PS-03-02-05 (id: JnGUA2s)；TBL-01-00-587 (id: JmxLo1E)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ID-004&card_id=ID-004&version=617ec23ff3)　（版 `617ec23ff3`）
 
@@ -76,7 +76,7 @@
 
 - 条件：region: 国際／対象: 小児
 - 不確実性：造血幹細胞移植は国内で実施体制がある。遺伝子治療（etuvetidigene autotemcel）は2025年12月に米国、2026年1月にEUで承認されたが、国内承認は未確認。
-- 出典：Rivers E, Worth A, Thrasher AJ. How I manage patients with Wiskott Aldrich syndrome. Br J Haematol. 2019;185(4):647-655.　[DOI 10.1111/bjh.15831](https://doi.org/10.1111/bjh.15831)　[PMID 30864154](https://pubmed.ncbi.nlm.nih.gov/30864154/)（区分 UNKNOWN）
+- 出典：Rivers E, Worth A, Thrasher AJ. How I manage patients with Wiskott Aldrich syndrome. Br J Haematol. 2019;185(4):647-655.　[DOI 10.1111/bjh.15831](https://doi.org/10.1111/bjh.15831)　[PMID 30864154](https://pubmed.ncbi.nlm.nih.gov/30864154/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-3-C-①（Wiskott-Aldrich症候群、c）　コアカリ：PS-01-03-27 (id: JkxnuMw)；PS-03-02-05 (id: JnGUA2s)；TBL-01-00-587 (id: JmxLo1E)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ID-005&card_id=ID-005&version=67b58a2e65)　（版 `67b58a2e65`）
 
@@ -108,7 +108,7 @@
 
 - 条件：region: 国際／対象: 小児
 - 不確実性：本カードは疾患の骨格に限る。小児の管理については2023年の国際的な診療推奨（Genet Med）が別にあり、本カードの出典には含めていない。
-- 出典：McDonald-McGinn DM, Sullivan KE, Marino B, et al. 22q11.2 deletion syndrome. Nat Rev Dis Primers. 2015;1:15071.　[DOI 10.1038/nrdp.2015.71](https://doi.org/10.1038/nrdp.2015.71)　[PMID 27189754](https://pubmed.ncbi.nlm.nih.gov/27189754/)（区分 UNKNOWN）
+- 出典：McDonald-McGinn DM, Sullivan KE, Marino B, et al. 22q11.2 deletion syndrome. Nat Rev Dis Primers. 2015;1:15071.　[DOI 10.1038/nrdp.2015.71](https://doi.org/10.1038/nrdp.2015.71)　[PMID 27189754](https://pubmed.ncbi.nlm.nih.gov/27189754/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-3-C-③（胸腺低形成<DiGeorge症候群>、c）　コアカリ：PS-01-03-27 (id: JkxnuMw)；PS-01-03-18 (id: JkxnuMI)；PS-03-02-05 (id: JnGUA2s)；TBL-01-00-587 (id: JmxLo1E)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ID-007&card_id=ID-007&version=c50b0e57e5)　（版 `c50b0e57e5`）
 
@@ -218,7 +218,7 @@
 
 - 条件：region: 欧州／対象: 成人
 - 不確実性：数値はスウェーデンで1988〜2004年に診断された患者集団のものであり、現在の国内の患者集団への直接の当てはめではない。多発性骨髄腫の疾患各論は Ⅶ 血液の範囲であり、本カードは悪性腫瘍に伴う感染リスクの大きさに限る。
-- 出典：Blimark C, Holmberg E, Mellqvist UH, et al. Multiple myeloma and infections: a population-based study on 9253 multiple myeloma patients. Haematologica. 2015;100(1):107-113.　[DOI 10.3324/haematol.2014.107714](https://doi.org/10.3324/haematol.2014.107714)　[PMID 25344526](https://pubmed.ncbi.nlm.nih.gov/25344526/)（区分 UNKNOWN）
+- 出典：Blimark C, Holmberg E, Mellqvist UH, et al. Multiple myeloma and infections: a population-based study on 9253 multiple myeloma patients. Haematologica. 2015;100(1):107-113.　[DOI 10.3324/haematol.2014.107714](https://doi.org/10.3324/haematol.2014.107714)　[PMID 25344526](https://pubmed.ncbi.nlm.nih.gov/25344526/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅺ-4-B（悪性腫瘍による免疫不全症、a）　コアカリ：PS-01-03-27 (id: JkxnuMw)；PS-01-03-30 (id: JkxnuM8)；PS-03-02-05 (id: JnGUA2s)；PS-03-03-03 (id: JkxnuUo)；TBL-01-00-588 (id: JmxLo1I)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ID-015&card_id=ID-015&version=7aa6f5e7b7)　（版 `7aa6f5e7b7`）
 

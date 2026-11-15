@@ -5899,14 +5899,17 @@
   doi: 10.1183/13993003.01499-2021
   pmid: null
   pmcid: null
-  license_note: 未確認（頁に PDF Permissions のリンクのみ）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ71）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（頁に PDF Permissions のリンクのみ）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-502
   legacy_id: null
   title: 'Dweik RA, Boggs PB, Erzurum SC, et al. An official ATS clinical practice guideline: interpretation of exhaled nitric oxide levels (FENO) for clinical applications. Am J Respir Crit Care Med 2011;184:602-615'
@@ -5914,14 +5917,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 取得範囲に表示なし
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ71）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：取得範囲に表示なし
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-503
   legacy_id: null
   title: Matsunaga K, Hirano T, Kawayama T, et al. Reference Ranges for Exhaled Nitric Oxide Fraction in Healthy Japanese Adult Population. Allergol Int 2010;59(4):363-367
@@ -5944,14 +5950,17 @@
   doi: 10.1186/1465-9921-14-50
   pmid: null
   pmcid: null
-  license_note: Open Access の表示のみ（CC の版は未確認）
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：Open Access の表示のみ（CC の版は未確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
 - id: SRC-505
   legacy_id: null
   title: 'British Thoracic Society. BTS Guideline for oxygen use in adults in healthcare and emergency settings, Web Appendix 3: Summary of guideline for hospital use（2017年5月）. 本体は O''Driscoll BR, et al. Thorax 2017;72(Suppl 1):i1-i89'
@@ -5959,14 +5968,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 取得範囲に表示なし
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ71）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：取得範囲に表示なし
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-506
   legacy_id: null
   title: 厚生労働省. 平成20年度診療報酬改定 告示・通知（在宅医療：C103 在宅酸素療法指導管理料、C107-2 在宅持続陽圧呼吸療法指導管理料）
@@ -12223,14 +12235,17 @@
   doi: 10.1007/s12282-023-01526-6
   pmid: '38044372'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ82）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1012
   legacy_id: null
   title: Hamashima C, et al; Japanese Research Group for the Development of the Breast Cancer Screening Guidelines. The Japanese Guidelines for Breast Cancer Screening. Jpn J Clin Oncol. 2016;46(5):482-492
@@ -12238,14 +12253,17 @@
   doi: 10.1093/jjco/hyw008
   pmid: '27207993'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ82）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1013
   legacy_id: null
   title: Kubota K, Nakashima K, Nakashima K, et al. The Japanese Breast Cancer Society Clinical Practice Guidelines for Breast Cancer Screening and Diagnosis, 2022 Edition. Breast Cancer. 2024;31(2):157-164
@@ -12283,14 +12301,17 @@
   doi: 10.1007/s12282-023-01510-0
   pmid: '37843765'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ82）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1016
   legacy_id: null
   title: Terada M, Ito A, Kikawa Y, et al. The Japanese Breast Cancer Society Clinical Practice Guidelines for Systemic Treatment of Breast Cancer, 2022 Edition. Breast Cancer. 2023;30(6):872-884
@@ -12343,14 +12364,17 @@
   doi: 10.2302/kjm.2024-0021-RE
   pmid: '40175132'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ82）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1020
   legacy_id: null
   title: 'Mitchell KB, Johnson HM, Rodríguez JM, et al. Academy of Breastfeeding Medicine Clinical Protocol #36: The Mastitis Spectrum, Revised 2022. Breastfeed Med. 2022;17(5):360-376'
@@ -12376,14 +12400,17 @@
   doi: null
   pmid: '30137824'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ82）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1022
   legacy_id: null
   title: 'Ajmal M, Khan M, Van Fossen K. Breast Fibroadenoma. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing'
@@ -12391,14 +12418,17 @@
   doi: null
   pmid: '30570966'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ82）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1023
   legacy_id: null
   title: 'Malherbe K, Szymanski KD. Fibrocystic Breast Disease. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing'
@@ -12406,14 +12436,17 @@
   doi: null
   pmid: '31869073'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ82）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1024
   legacy_id: null
   title: Niewoehner CB, Schorer AE. Gynaecomastia and breast cancer in men. BMJ. 2008;336(7646):709-713
@@ -12421,14 +12454,17 @@
   doi: 10.1136/bmj.39511.493391.BE
   pmid: '18369226'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ82）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1025
   legacy_id: null
   title: Yu JH, Kim MJ, Cho H, et al. Breast diseases during pregnancy and lactation. Obstet Gynecol Sci. 2013;56(3):143-159
@@ -12706,14 +12742,17 @@
   doi: 10.1056/NEJMoa1803760
   pmid: '30067922'
   pmcid: null
-  license_note: © Massachusetts Medical Society（CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ84）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© Massachusetts Medical Society（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1048
   legacy_id: null
   title: Gaddey HL, Holder KK. Unintentional Weight Loss in Older Adults. Am Fam Physician. 2021;104(1):34-40
@@ -12721,14 +12760,17 @@
   doi: null
   pmid: '34264616'
   pmcid: null
-  license_note: © 2021 American Academy of Family Physicians
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ84）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© 2021 American Academy of Family Physicians
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1049
   legacy_id: null
   title: van der Valk ES, van den Akker ELT, Savas M, et al. A comprehensive diagnostic approach to detect underlying causes of obesity in adults. Obes Rev. 2019;20(6):795-804
@@ -12736,14 +12778,17 @@
   doi: 10.1111/obr.12836
   pmid: '30821060'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ84）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1050
   legacy_id: null
   title: Führer D, Bockisch A, Schmid KW. Euthyroid Goiter With and Without Nodules—Diagnosis and Treatment. Dtsch Arztebl Int. 2012;109(29-30):506-516
@@ -12766,14 +12811,17 @@
   doi: 10.1016/j.amjmed.2014.09.030
   pmid: '25447624'
   pmcid: null
-  license_note: ライセンス表示を確認できず（Elsevier）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ84）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず（Elsevier）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1055
   legacy_id: null
   title: 'McCall AL, Lieb DC, Gianchandani R, et al. Management of Individuals With Diabetes at High Risk for Hypoglycemia: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2023;108(3):529-562'
@@ -12811,14 +12859,17 @@
   doi: 10.1016/j.amjmed.2013.07.006
   pmid: '24074529'
   pmcid: null
-  license_note: ライセンス表示を確認できず（Elsevier）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ84）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず（Elsevier）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1058
   legacy_id: null
   title: Woodcock T, Barker P, Daniel S, et al. Guidelines for the management of glucocorticoids during the peri-operative period for patients with adrenal insufficiency. Anaesthesia. 2020;75(5):654-663
@@ -12826,14 +12877,17 @@
   doi: 10.1111/anae.14963
   pmid: '32017012'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ84）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/22_en_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1071
   legacy_id: null
   title: Saeki H, Ohya Y, Arakawa H, Ichiyama S, et al. English version of clinical practice guidelines for the management of atopic dermatitis 2024. The Journal of Dermatology. 2025;52(2):e70-e142.
@@ -13639,14 +13693,17 @@
   doi: 10.1245/s10434-021-10188-7
   pmid: '34331160'
   pmcid: null
-  license_note: Springer（CC 表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ82）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Springer（CC 表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/redo_sp.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1522
   legacy_id: null
   title: 'Ramala SR Jr, Chandak S, Chandak MS, Annareddy S. A Comprehensive Review of Breast Fibroadenoma: Correlating Clinical and Pathological Findings. Cureus. 2023;15(12):e49948.'
@@ -13669,14 +13726,17 @@
   doi: 10.1016/j.rcl.2023.12.008
   pmid: '38777535'
   pmcid: null
-  license_note: Elsevier（CC 表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ82）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Elsevier（CC 表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/redo_sp.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1524
   legacy_id: null
   title: 'Garcias-Ladaria J, Cuadrado Rosón M, Pascual-López M. Epidermal Nevi and Related Syndromes - Part 1: Keratinocytic Nevi. Actas Dermosifiliogr. 2018;109(8):677-686.'
@@ -14524,14 +14584,17 @@
   doi: null
   pmid: '20229972'
   pmcid: null
-  license_note: © American Academy of Family Physicians（CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© American Academy of Family Physicians（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1201
   legacy_id: null
   title: Dinnes J, Deeks JJ, Chuchu N, Matin RN, et al. Visual inspection and dermoscopy, alone or in combination, for diagnosing keratinocyte skin cancers in adults. Cochrane Database Syst Rev. 2018;12(12):CD011901.
@@ -14539,14 +14602,17 @@
   doi: 10.1002/14651858.CD011901.pub2
   pmid: '30521688'
   pmcid: null
-  license_note: © The Cochrane Collaboration（Wiley、CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© The Cochrane Collaboration（Wiley、CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1202
   legacy_id: null
   title: Uter W, Aerts O, Agner T, Brans R, et al. European Society of Contact Dermatitis Guideline for Diagnostic Patch Testing - Recommendations on Best Practice. Contact Dermatitis. 2026;95(3):237-275.
@@ -14569,14 +14635,17 @@
   doi: 10.1046/j.1525-1497.1998.00009.x
   pmid: '9462495'
   pmcid: null
-  license_note: © Society of General Internal Medicine（CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© Society of General Internal Medicine（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1204
   legacy_id: null
   title: Ponka D, Baddar F. Microscopic potassium hydroxide preparation. Can Fam Physician. 2014;60(1):57.
@@ -14584,14 +14653,17 @@
   doi: null
   pmid: '24452564'
   pmcid: null
-  license_note: © College of Family Physicians of Canada（CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© College of Family Physicians of Canada（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1205
   legacy_id: null
   title: Millington GWM, Collins A, Lovell CR, Leslie TA, et al. British Association of Dermatologists' guidelines for the investigation and management of generalized pruritus in adults without an underlying dermatosis, 2018. Br J Dermatol. 2018;178(1):34-60.
@@ -14599,14 +14671,17 @@
   doi: 10.1111/bjd.16117
   pmid: '29357600'
   pmcid: null
-  license_note: © British Association of Dermatologists（Wiley、CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© British Association of Dermatologists（Wiley、CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1206
   legacy_id: null
   title: Wallace DK, Flaxel CJ, Gedde SJ, Jacobs DS, et al. Comprehensive Adult Medical Eye Evaluation Preferred Practice Pattern. Ophthalmology. 2026;133(4):P202-P236.
@@ -14614,14 +14689,17 @@
   doi: 10.1016/j.ophtha.2025.12.031
   pmid: '41670577'
   pmcid: null
-  license_note: © American Academy of Ophthalmology（Elsevier、CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© American Academy of Ophthalmology（Elsevier、CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1207
   legacy_id: null
   title: Tarnutzer AA, Strupp ML, Lehner L. An update on neuro-otology and neuro-ophthalmology - focusing on new developments in the last three years. J Neurol. 2026;273(11).
@@ -14644,14 +14722,17 @@
   doi: 10.1177/0194599819890327
   pmid: '31910111'
   pmcid: null
-  license_note: © American Academy of Otolaryngology-Head and Neck Surgery Foundation（SAGE、CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© American Academy of Otolaryngology-Head and Neck Surgery Foundation（SAGE、CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1209
   legacy_id: null
   title: 'Stachler RJ, Francis DO, Schwartz SR, Damask CC, et al. Clinical Practice Guideline: Hoarseness (Dysphonia) (Update). Otolaryngol Head Neck Surg. 2018;158(1_suppl):S1-S42.'
@@ -14659,14 +14740,17 @@
   doi: 10.1177/0194599817751030
   pmid: '29494321'
   pmcid: null
-  license_note: © American Academy of Otolaryngology-Head and Neck Surgery Foundation（SAGE、CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© American Academy of Otolaryngology-Head and Neck Surgery Foundation（SAGE、CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1210
   legacy_id: null
   title: 'Pynnonen MA, Gillespie MB, Roman B, Rosenfeld RM, et al. Clinical Practice Guideline: Evaluation of the Neck Mass in Adults. Otolaryngol Head Neck Surg. 2017;157(2_suppl):S1-S30.'
@@ -14674,14 +14758,17 @@
   doi: 10.1177/0194599817722550
   pmid: '28891406'
   pmcid: null
-  license_note: © American Academy of Otolaryngology-Head and Neck Surgery Foundation（SAGE、CC表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：© American Academy of Otolaryngology-Head and Neck Surgery Foundation（SAGE、CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1251
   legacy_id: null
   title: National Eye Institute. How the Eyes Work. NEI Eye Health Information（ウェブページ、最終更新 2022-04-20）
@@ -18850,14 +18937,17 @@
   doi: 10.1111/j.1468-1331.2010.03153.x
   pmid: '20642790'
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ92）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-1685
   legacy_id: null
   title: 'El-Hattab AW, Adesina AM, Jones J, Scaglia F. MELAS syndrome: Clinical manifestations, pathogenesis, and treatment options. Mol Genet Metab. 2015;116(1-2):4-12'
@@ -27358,10 +27448,10 @@
   doi: 10.1055/s-0037-1614494
   pmid: '10102477'
   pmcid: null
-  license_note: Crossref にライセンス登録なし
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ70）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Crossref にライセンス登録なし
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27369,6 +27459,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2732
   legacy_id: null
   title: Shearer MJ. Vitamin K deficiency bleeding (VKDB) in early infancy. Blood Rev. 2009;23(2):49-59
@@ -27376,10 +27469,10 @@
   doi: 10.1016/j.blre.2008.06.001
   pmid: '18804903'
   pmcid: null
-  license_note: Crossref の登録は Elsevier の TDM ライセンスのみ（CC 表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ70）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Crossref の登録は Elsevier の TDM ライセンスのみ（CC 表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27387,6 +27480,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2733
   legacy_id: null
   title: 日本小児科学会新生児委員会. 新生児・乳児ビタミンK欠乏症出血症の予防法に関するQ&A. 日本小児科学会. 2021（関連学会・団体連名の提言「新生児と乳児のビタミンK欠乏性出血症発症予防に関する提言」2021-11-30 と一体の文書）
@@ -27394,10 +27490,10 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 学会文書（CC 表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ70）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：学会文書（CC 表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27405,6 +27501,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2734
   legacy_id: null
   title: Farmakis D, Porter J, Taher A, Cappellini MD, Angastiniotis M, Eleftheriou A. 2021 Thalassaemia International Federation Guidelines for the Management of Transfusion-dependent Thalassemia. Hemasphere. 2022;6(8):e732
@@ -27430,10 +27529,10 @@
   doi: 10.1016/S0140-6736(22)00536-0
   pmid: '35691301'
   pmcid: null
-  license_note: Crossref の登録は Elsevier の TDM ライセンスのみ（CC 表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ70）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Crossref の登録は Elsevier の TDM ライセンスのみ（CC 表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27441,6 +27540,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2736
   legacy_id: null
   title: 'Okubo R, Shirota C, Wada M, et al. Vitamin K deficiency bleeding and optimal prophylaxis methods in biliary atresia: a surveillance study in Japan. Pediatr Int. 2025;67(1):e70075'
@@ -27484,10 +27586,10 @@
   doi: 10.1111/j.1365-2141.2011.08921.x
   pmid: '22055020'
   pmcid: null
-  license_note: Crossref の登録は Wiley の利用条件のみ（CC 表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ70）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Crossref の登録は Wiley の利用条件のみ（CC 表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27495,6 +27597,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2739
   legacy_id: null
   title: Luzzatto L, Ally M, Notaro R. Glucose-6-phosphate dehydrogenase deficiency. Blood. 2020;136(11):1225-1240
@@ -27502,10 +27607,10 @@
   doi: 10.1182/blood.2019000944
   pmid: '32702756'
   pmcid: null
-  license_note: Crossref にライセンス登録なし
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ70）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Crossref にライセンス登録なし
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27513,6 +27618,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2740
   legacy_id: null
   title: 'Al-Samkari H, Shehata N, Lang-Robertson K, et al. Diagnosis and management of pyruvate kinase deficiency: international expert guidelines. Lancet Haematol. 2024;11(3):e228-e239'
@@ -27520,10 +27628,10 @@
   doi: 10.1016/S2352-3026(23)00377-0
   pmid: '38330977'
   pmcid: null
-  license_note: Crossref の登録は Elsevier の TDM ライセンス等のみ（CC 表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ70）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Crossref の登録は Elsevier の TDM ライセンス等のみ（CC 表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27531,6 +27639,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2741
   legacy_id: null
   title: Grainger JD, Thachil J, Will AM. How we treat the platelet glycoprotein defects; Glanzmann thrombasthenia and Bernard Soulier syndrome in children and adults. Br J Haematol. 2018;182(5):621-632
@@ -27538,10 +27649,10 @@
   doi: 10.1111/bjh.15409
   pmid: '30117143'
   pmcid: null
-  license_note: Crossref の登録は Wiley の利用条件のみ（CC 表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ70）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Crossref の登録は Wiley の利用条件のみ（CC 表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27549,6 +27660,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2742
   legacy_id: null
   title: 日本小児血液・がん学会 編. 小児白血病・リンパ腫診療ガイドライン 2016年版. 金原出版. 2016
@@ -27556,10 +27670,10 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 書籍（CC 表示なし）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ70）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：書籍（CC 表示なし）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27570,6 +27684,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 旧版：『小児がん(血液腫瘍・固形腫瘍)診療ガイドライン 2026年版』に統合・改訂済み（Minds でも2016年版は「旧版」表示）。PB-014〜016 は2026年版で再照合し、出典を差し替える予定
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2743
   legacy_id: null
   title: 'Minard-Colin V, Brugières L, Reiter A, et al. Non-Hodgkin Lymphoma in Children and Adolescents: Progress Through Effective Collaboration, Current Knowledge, and Challenges Ahead. J Clin Oncol. 2015;33(27):2963-2974'
@@ -27577,10 +27694,10 @@
   doi: 10.1200/JCO.2014.59.5827
   pmid: '26304908'
   pmcid: null
-  license_note: Crossref にライセンス登録なし
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ70）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：Crossref にライセンス登録なし
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27588,6 +27705,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典表に列がなかったため、同じ成果物のカード（provenance）から pmid・license_note を写した（機械的な補完）
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-2811
   legacy_id: null
   title: Cardona V, et al. World Allergy Organization anaphylaxis guidance 2020. World Allergy Organ J. 2020;13(10):100472
@@ -28516,14 +28636,17 @@
   doi: 10.1038/nrdp.2015.61
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ69）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/45_im_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-3082
   legacy_id: null
   title: Swain S, Selmi C, Gershwin ME, Teuber SS. The clinical implications of selective IgA deficiency. J Transl Autoimmun. 2019;2:100025
@@ -28561,14 +28684,17 @@
   doi: 10.1016/j.jaip.2016.09.013
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ69）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/45_im_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-3085
   legacy_id: null
   title: Rivers E, Worth A, Thrasher AJ. How I manage patients with Wiskott Aldrich syndrome. Br J Haematol. 2019;185(4):647-655
@@ -28576,14 +28702,17 @@
   doi: 10.1111/bjh.15831
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ69）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/45_im_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-3086
   legacy_id: null
   title: 'Rothblum-Oviatt C, Wright J, Lefton-Greif MA, et al. Ataxia telangiectasia: a review. Orphanet J Rare Dis. 2016;11:159'
@@ -28606,14 +28735,17 @@
   doi: 10.1038/nrdp.2015.71
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ69）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/45_im_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-3088
   legacy_id: null
   title: Talbert ML, Malicdan MCV, Introne WJ. Chediak-Higashi syndrome. Curr Opin Hematol. 2023;30(4):144-151
@@ -28726,14 +28858,17 @@
   doi: 10.3324/haematol.2014.107714
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ69）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/45_im_d.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-3096
   legacy_id: null
   title: 'Danza A, Ruiz-Irastorza G. Infection risk in systemic lupus erythematosus patients: susceptibility factors and preventive strategies. Lupus. 2013;22(12):1286-1294'
@@ -30619,14 +30754,17 @@
   doi: 10.1038/s41572-019-0143-7
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ87）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-3523
   legacy_id: null
   title: Gravholt CH, Andersen NH, Christin-Maitre S, et al; International Turner Syndrome Consensus Group. Clinical practice guidelines for the care of girls and women with Turner syndrome. Eur J Endocrinol. 2024;190(6):G53-G151
@@ -30664,14 +30802,17 @@
   doi: 10.1002/ajmg.c.31527
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ87）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-3526
   legacy_id: null
   title: 'Herlin MK, Petersen MB, Brännström M. Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome: a comprehensive update. Orphanet J Rare Dis. 2020;15:214'
@@ -30859,14 +31000,17 @@
   doi: 10.1111/1471-0528.13526
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: RESTRICTED
+  source_class: OPEN
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/50_pn_e.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を RESTRICTED から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
 - id: SRC-3539
   legacy_id: null
   title: 'American Society of Anesthesiologists Task Force on Obstetric Anesthesia and the Society for Obstetric Anesthesia and Perinatology. Practice Guidelines for Obstetric Anesthesia: An Updated Report by the American Society of Anesthesiologists Task Force on Obstetric Anesthesia and the Society for Obstetric Anesthesia and Perinatology. Anesthesiology. 2016;124(2):270-300'
@@ -32362,14 +32506,17 @@
   doi: 10.35772/ghmo.2021.01013
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ93）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/56_ev_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-4032
   legacy_id: null
   title: 'Hackshaw A, Morris JK, Boniface S, Tang JL, Milenković D. Low cigarette consumption and risk of coronary heart disease and stroke: meta-analysis of 141 cohort studies in 55 study reports. BMJ. 2018;360:j5855'
@@ -32467,14 +32614,17 @@
   doi: 10.1016/S0140-6736(07)61202-1
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ91）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/56_ev_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-4039
   legacy_id: null
   title: Gawarammana IB, Buckley NA. Medical management of paraquat ingestion. Br J Clin Pharmacol. 2011;72(5):745-757
@@ -32482,14 +32632,17 @@
   doi: 10.1111/j.1365-2125.2011.04026.x
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ91）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/56_ev_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-4040
   legacy_id: null
   title: 厚生労働省労働基準局長通知「職場における腰痛予防対策の推進について」（平成25年6月18日、基発0618第1号）。別添「職場における腰痛予防対策指針及び解説」
@@ -32617,14 +32770,17 @@
   doi: 10.1093/joccuh/uiaf026
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: CC BY 4.0（作り手が Crossref の version-of-record ライセンスと Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/56_ev_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に訂正（パブリックドメイン出典の調査。三原の承認）
 - id: SRC-4049
   legacy_id: null
   title: Moscato G, Vandenplas O, Gerth van Wijk R, et al.; EAACI Task Force on Occupational Rhinitis. EAACI position paper on occupational rhinitis. Respir Res. 2009;10:16
@@ -32647,14 +32803,17 @@
   doi: 10.1007/s13671-021-00339-0
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ91）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/56_ev_b.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-4051
   legacy_id: null
   title: 厚生労働省. 「印刷事業場で発生した胆管がんの業務上外に関する検討会」報告書の概要及び厚生労働省における今後の対応について. 2013
@@ -32692,14 +32851,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ83）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/57_ev_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-4117
   legacy_id: null
   title: 総務省消防庁. 熱中症による救急搬送状況（令和7年5月〜9月）. 総務省消防庁. 2025
@@ -32782,14 +32944,17 @@
   doi: 10.1097/WCO.0000000000000163
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ83）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/57_ev_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-4123
   legacy_id: null
   title: 厚生労働省. 振動障害予防対策指針（平成21年7月改訂）および振動障害予防のための厚生労働省資料. 厚生労働省. 2009
@@ -32827,14 +32992,17 @@
   doi: 10.1016/j.wem.2023.05.013
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ83）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/57_ev_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-4126
   legacy_id: null
   title: López M, Martín M. Medical management of the acute radiation syndrome. Rep Pract Oncol Radiother. 2011;16(4):138-146
@@ -32842,14 +33010,17 @@
   doi: 10.1016/j.rpor.2011.05.001
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ83）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/57_ev_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-4127
   legacy_id: null
   title: 'Ozasa K, Shimizu Y, Suyama A, et al. Studies of the mortality of atomic bomb survivors, Report 14, 1950-2003: an overview of cancer and noncancer diseases. Radiat Res. 2012;177(3):229-243'
@@ -32857,14 +33028,17 @@
   doi: 10.1667/RR2629.1
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ83）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/57_ev_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-4128
   legacy_id: null
   title: International Commission on Non-Ionizing Radiation Protection (ICNIRP). ICNIRP Guidelines on Limits of Exposure to Laser Radiation of Wavelengths between 180 nm and 1,000 μm. Health Phys. 2013;105(3):271-295
@@ -32872,14 +33046,17 @@
   doi: 10.1097/HP.0b013e3182983fd4
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ83）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/57_ev_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-4129
   legacy_id: null
   title: 'Mubarak A, Benninga MA, Broekaert I, et al. Diagnosis, Management, and Prevention of Button Battery Ingestion in Childhood: A European Society for Paediatric Gastroenterology Hepatology and Nutrition Position Paper. Journal of Pediatric Gastroenterology and Nutrition. 2021;73(1):129-136'
@@ -33052,14 +33229,17 @@
   doi: 10.3238/arztebl.2019.0311
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ99）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：None
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/57_ev_c.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-4141
   legacy_id: null
   title: 'Kim K, Kim J. A work-relatedness assessment in epidemiological case investigation of occupational cancers: I. Principles. Ann Occup Environ Med. 2020;32:e30'
@@ -35746,14 +35926,17 @@
   doi: 10.1002/14651858.CD001055.pub6
   pmid: null
   pmcid: null
-  license_note: 未確認（刊行元のページで CC 表示を確認できず）
+  license_note: 出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ93）（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認（刊行元のページで CC 表示を確認できず）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/65_brushup_a.md の出典マスター表から
+  - date: '2026-11-11'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
 - id: SRC-4802
   legacy_id: null
   title: 厚生労働省. 労働者の心の健康の保持増進のための指針（平成18年3月31日健康保持増進のための指針公示第3号、平成27年11月30日改正・健康保持増進のための指針公示第6号）

@@ -18,7 +18,7 @@
     source_license: The Lancet（Elsevier、テキストマイニング用ライセンスのみでCC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ72 2026-11-15）：Andraos C, Siddiqi A, Brazdzionis J, Siddiqi J. Limitations of the Glasgow Coma Scale: Challenges and Considerations. Cureus. 2025;17:e78900（PMID: 40091938、DOI: 10.7759/cureus.78900、PMCID: PMC11908630、https://pmc.ncbi.nlm.nih.gov/articles/PMC11908630/）。裏づける部分：候補（CC BY 総説）の Table 1 が GCS の全表を再掲する：開眼 4＝自発的に開眼〜1＝無反応、発語 5＝見当識あり〜1＝無反応、運動 6＝命令に従う〜1＝無反応の各段階と、合計点の重症度帯（13–15 軽症・9–12 中等症・3–8 重症）。カードの主張（3要素の段階構成と合計3〜15点）と一致する。数値の照合：各要素の上限・下限（E 4〜1、V 5〜1、M 6〜1）は候補と一致。合計の範囲 3〜15 は候補の重症度帯（3–8／9–12／13–15）から裏づけられる。留保：主出典 SRC-1806 の区分は現行 RESTRICTED が正しい（Crossref の版ライセンスは TDM のみ、Europe PMC でも非OA。区分訂正の節参照）'
   uncertainty: 1974年の原典の構成に基づく。日本では Japan Coma Scale も併用される（NX-002）。小児用などの派生版は本カードでは扱わない。
   curriculum:
     kokushi: 医学各論 Ⅸ-10-A-①（脳挫傷、a）
@@ -36,6 +36,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 分野をまたぐ重複の統合：TJ-003 の出題基準・コアカリの番号をこのカードに足した（None → 医学各論 Ⅸ-10-A-①（脳挫傷、a））。TJ-003 は廃止してこのカードに誘導（三原の承認による）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ72 2026-11-15）。三原の承認（2026-11-11）による
 - id: NX-002
   domain: NX
   subdomain: 神経学的診察
@@ -56,7 +59,7 @@
     source_license: 書籍（学会の著作物、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ72 2026-11-15）：Yumoto T, Naito H, Yorifuji T, Aokage T, Fujisaki N, Nakao A. Association of Japan Coma Scale score on hospital arrival with in-hospital mortality among trauma patients. BMC Emerg Med. 2019;19:65（PMID: 31694575、DOI: 10.1186/s12873-019-0282-x、PMCID: PMC6836363、https://pmc.ncbi.nlm.nih.gov/articles/PMC6836363/）。裏づける部分：候補（CC BY の原著論文）が JCS の構成を再掲する：0（alert）と一桁・二桁・三桁のコードがそれぞれ「刺激しなくても覚醒」「刺激すると覚醒する（刺激をやめると戻る）」「強力な刺激でも覚醒しない」に対応し、各コードが 1・2・3／10・20・30／100・200・300 の3区分に分かれること、JCS 300 が GCS 3（E1V1M1）に相当すること。カードの主張（3-3-9度方式の構成と 300 は深昏睡に相当）と一致する。数値の照合：9区分（1・2・3、10・20・30、100・200・300）は候補とすべて一致。留保：主出典 SRC-4431（書籍）の区分は現行 RESTRICTED が正しい。JCS 原典（太田ら、1974年）の書誌が PubMed・Crossref で照合できない点はカードの uncertainty の記載どおりで、本バッチでも変わらない'
   uncertainty: JCS の原典（太田ら、1974年）の書誌情報は PubMed・Crossref で照合できなかったため、本カードは同ガイドラインに掲載された JCS の評価表に基づく。脳死判定では深昏睡の目安として JCS 300 または GCS 3 が用いられる。
   curriculum:
     kokushi: null
@@ -74,6 +77,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 出典を新しい版に付け替え：SRC-1561（日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画） → SRC-4431（提案B、三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ72 2026-11-15）。三原の承認（2026-11-11）による
 - id: NX-003
   domain: NX
   subdomain: 神経学的診察
@@ -129,7 +135,7 @@
     source_license: Journal of Rehabilitation Medicine（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ72 2026-11-15）：Alder KD, Pulos N, Shin AY. Outcome of Radial Nerve Palsy in Closed Humeral Shaft Fractures Treated Operatively and Expectantly. J Hand Surg Glob Online. 2026;8(6):101091（PMID: 42604041、DOI: 10.1016/j.jhsg.2026.101091、PMCID: PMC13476691、https://pmc.ncbi.nlm.nih.gov/articles/PMC13476691/）。裏づける部分：候補（CC BY の原著論文）の Table 1 が modified British Medical Research Council スケールの全段階を定義付きで再掲する：0＝触知できる収縮なし、1＝触知できる収縮、2＝重力を除去すれば動く、3＝重力に抗して全可動域を動ける、4＝重力と抵抗に抗して全可動域を動ける、5＝正常な筋力。カードの主張（0〜5の6段階、3は重力に抗する段階、4は抵抗にも抗する段階、5は正常）と一致する。数値の照合：段階の定義は候補と一致（3＝重力に抗して動ける、4＝抵抗にも抗する、5＝正常）。留保：候補の表の表記は modified BMRC だが、段階の定義はカードの MRC スケール原法と同一である。主出典 SRC-1808 の区分は現行 RESTRICTED が正しい（Europe PMC で非OA、Crossref にライセンス登録なし）'
   uncertainty: 段階の定義は MRC スケール原法による。検証研究は橈骨神経麻痺患者の前腕筋を対象としたもので、筋群や病態により検者間信頼性は異なりうる。
   curriculum:
     kokushi: null
@@ -144,6 +150,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ72 2026-11-15）。三原の承認（2026-11-11）による
 - id: NX-005
   domain: NX
   subdomain: 神経学的診察
@@ -164,7 +173,7 @@
     source_license: Physical Therapy誌（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ72 2026-11-15）：Retkowska-Tomaszewska N, Defort P, Barciszewska AM, Patkowski D. Intrathecal Baclofen in Children with Cerebral Palsy: A Critical Review of Selection Criteria, Rehabilitation Goals, Outcomes, and Complications. J Clin Med. 2026;15(11):4091（PMID: 42278952、DOI: 10.3390/jcm15114091、PMCID: PMC13257492、https://pmc.ncbi.nlm.nih.gov/articles/PMC13257492/）。裏づける部分：候補（CC BY の批判的総説）が Modified Ashworth Scale の段階表を再掲する：0＝筋緊張の亢進なし、1＝軽度の亢進（catch の後に残り可動域の半分未満の最小の抵抗）、1+＝catch の後に可動域の半分以上にわたる最小の抵抗、2＝より著明な亢進だが容易に動く、3＝著明な亢進で他動運動が困難、4＝罹患部が屈曲・伸展で硬直。カードの主張（0〜4、1+ を含む6段階、0と4の定義）と一致する。数値の照合：6段階の構成と両端の定義（0＝亢進なし、4＝硬直）は候補と一致。留保：主出典 SRC-1809 の区分は現行 RESTRICTED が正しい（Europe PMC で非OA、Crossref にライセンス登録なし）'
   uncertainty: 原著では頭蓋内病変患者30例の肘屈筋痙縮で検者間一致率86.7%と報告された。他の筋群や病態では信頼性が異なりうる。
   curriculum:
     kokushi: null
@@ -179,6 +188,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ72 2026-11-15）。三原の承認（2026-11-11）による
 - id: NX-006
   domain: NX
   subdomain: 神経学的診察
@@ -199,7 +211,7 @@
     source_license: Journal of Spinal Cord Medicine（© American Spinal Injury Association、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ72 2026-11-15）：Quinones C, Wilson JP, Kumbhare D, Guthikonda B, Hoang S. Clinical Assessment and Management of Acute Spinal Cord Injury. J Clin Med. 2024;13(19):5719（PMID: 39407779、DOI: 10.3390/jcm13195719、PMCID: PMC11477398、https://pmc.ncbi.nlm.nih.gov/articles/PMC11477398/）。裏づける部分：候補（CC BY 総説）が ISNCSCI の感覚検査を再掲する：軽触覚とピン痛覚（鋭・鈍の識別）を左右両側で評価し、28のデルマトームすべてを評価すること、感覚スコアは 0＝消失、1＝異常（低下または過敏）、2＝正常（頬の感覚との比較）の3段階であること（候補の Table 1）。カードの主張の骨格（デルマトームに沿った評価、28デルマトーム、2つのモダリティ、0・1・2の3段階、左右別）と一致する。数値の照合：28デルマトームと 0・1・2 のスコア定義は候補と一致。留保：「キー感覚点」という用語と、C2からS4-5までという範囲の端点は、候補に明示的な再掲なし。主出典 SRC-1810 の区分は現行 RESTRICTED が正しい（PMC 収載分 PMC3232636 は刊行版でライセンス表示なし）。識別子補完候補あり（補完候補の節参照）'
   uncertainty: ISNCSCI は脊髄損傷の分類のための標準化された評価法であり、デルマトーム評価の枠組みとして示した。デルマトームの分布には重なりと個人差がある。
   curriculum:
     kokushi: 医学各論 Ⅸ-10-B-①（頸髄・胸髄・腰髄損傷、a）
@@ -217,6 +229,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅸ-10-B-①（頸髄・胸髄・腰髄損傷、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ72 2026-11-15）。三原の承認（2026-11-11）による
 - id: NX-007
   domain: NX
   subdomain: 神経学的診察
@@ -237,7 +252,7 @@
     source_license: Neurology誌（American Academy of Neurology、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ72 2026-11-15）：Grobe-Einsler M, Amin AT, Faber J, Völkel H, Synofzik M, Klockgether T. Scale for the Assessment and Rating of Ataxia (SARA): Development of a Training Tool and Certification Program. Cerebellum. 2024;23(3):877-880（PMID: 36922437、DOI: 10.1007/s12311-023-01543-3、PMCID: PMC11102411、https://pmc.ncbi.nlm.nih.gov/articles/PMC11102411/）。裏づける部分：候補（CC BY の原著論文）が SARA の構成を再掲する：8項目（歩行、立位、座位、言語障害、指追い試験、鼻指試験、手の高速反復運動、踵すね試験）の合計が最大40点で、高値ほど運動失調が重度であること。カードの主張（8項目の内訳と合計0点〜40点）と一致する。数値の照合：8項目の内訳と上限40点は候補と一致。留保：主出典 SRC-1811 の区分は現行 RESTRICTED が正しい（Europe PMC で非OA、Crossref にライセンス登録なし）'
   uncertainty: 原著では脊髄小脳失調症患者で検者間信頼性（級内相関係数0.98）が検証された。各項目の配点の内訳は本カードでは扱わない。
   curriculum:
     kokushi: null
@@ -252,6 +267,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ72 2026-11-15）。三原の承認（2026-11-11）による
 - id: NX-008
   domain: NX
   subdomain: 意識障害
@@ -307,7 +325,7 @@
     source_license: European Heart Journal（Oxford University Press、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ72 2026-11-15）：Martone AM, Parrini I, Ciciarello F, et al. Recent Advances and Future Directions in Syncope Management: A Comprehensive Narrative Review. J Clin Med. 2024;13(3):727（PMID: 38337421、DOI: 10.3390/jcm13030727、PMCID: PMC10856004、https://pmc.ncbi.nlm.nih.gov/articles/PMC10856004/）。裏づける部分：候補（CC BY 総説）が 2018年 ESC ガイドラインに基づく分類を再掲する：反射性失神（血管迷走神経性＝痛み・恐怖などの情動が誘因、状況性＝咳嗽・排尿など、頸動脈洞症候群）、起立性低血圧による失神（自律神経障害の原因としてパーキンソン病などを挙げる）、心原性失神の三分法と各型の特徴。心原性の手がかり（労作中・仰臥位での発症、突然の動悸に引き続く発症、器質的心疾患）は候補の高リスク所見の表（Table 3）にも再掲がある。カードの主張の骨格と一致する。数値の照合：数値なし（分類と臨床的な手がかりのカード）。留保：反射性失神の前駆症状（悪心・発汗）の明示と、起立性低血圧による失神と降圧薬の開始・増量との時間的関係は、候補に直接の再掲なし。主出典 SRC-1813 の区分は現行 RESTRICTED が正しい（Crossref の版ライセンスは OUP の標準再利用条件へのリンクのみ、Europe PMC で非OA）'
   uncertainty: 起立性低血圧の診断には、起立後3分以内に収縮期血圧が20mmHg以上または拡張期血圧が10mmHg以上低下することを確認するのが同ガイドラインの採用する定義である。
   curriculum:
     kokushi: null
@@ -322,6 +340,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ72 2026-11-15）。三原の承認（2026-11-11）による
 - id: NX-010
   domain: NX
   subdomain: 失神
@@ -342,7 +363,7 @@
     source_license: European Heart Journal（Oxford University Press、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ72 2026-11-15）：Martone AM, Parrini I, Ciciarello F, et al. Recent Advances and Future Directions in Syncope Management: A Comprehensive Narrative Review. J Clin Med. 2024;13(3):727（PMID: 38337421、DOI: 10.3390/jcm13030727、PMCID: PMC10856004、https://pmc.ncbi.nlm.nih.gov/articles/PMC10856004/）。裏づける部分：候補の Table 3（高リスク失神の特徴）が 2018年 ESC ガイドラインの高リスク所見をほぼ全面的に再掲する：重篤な状態を示す徴候（胸痛、呼吸困難、腹痛、頭痛など）、器質的心疾患、仰臥位または労作中の失神、突然の動悸に引き続く失神、原因不明の血圧90mmHg未満、未診断の収縮期雑音、心電図の major 基準（急性虚血を示す変化、Mobitz II 型・III度房室ブロック、40/分未満の洞性徐脈など）。カードの主張（高リスク所見 major の抜粋）と一致する。数値の照合：閾値（収縮期血圧90mmHg未満、徐脈40/分未満）は候補と一致。留保：「重度の器質的心疾患または冠動脈疾患」の括弧内の内訳（心不全、低左室駆出率、心筋梗塞の既往）は候補では「器質的心疾患」と総称され、個別の再掲はない。主出典 SRC-1813 の区分は現行 RESTRICTED が正しい'
   uncertainty: 高リスク所見は同ガイドラインの表からの抜粋であり、全項目の列挙ではない。前駆症状がない・短い（10秒未満）こと、若年での突然死の家族歴、座位での失神は、器質的心疾患や心電図異常を伴う場合に高リスクとされる minor 所見である。
   curriculum:
     kokushi: null
@@ -357,6 +378,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ72 2026-11-15）。三原の承認（2026-11-11）による
 - id: NX-011
   domain: NX
   subdomain: 頭痛
@@ -377,7 +401,7 @@
     source_license: Neurology誌（American Academy of Neurology、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ72 2026-11-15）：Leone DCMG, Segundo AFSM, Meira AT. "NÃO É PRIMÁRIA": a Portuguese version of the SNNOOP10 mnemonic. Arq Neuropsiquiatr. 2025;83(12):1-7（PMID: 41360402、DOI: 10.1055/s-0045-1813240、PMCID: PMC12685544、https://pmc.ncbi.nlm.nih.gov/articles/PMC12685544/）。裏づける部分：候補（CC BY の原著論文）は SNNOOP10 が15項目の危険徴候からなるチェックリストであることを明記し、対照表（Table 2）で全15項目を英語で再掲する：発熱などの全身症状、腫瘍の既往、神経学的異常（意識レベルの低下を含む）、突然の発症、高齢になってからの新規発症、頭痛のパターンの変化・最近発症した新しい頭痛、体位性の頭痛、くしゃみ・咳・運動で誘発される頭痛、うっ血乳頭、進行性の頭痛・非典型的な経過、妊娠・産褥期、眼痛と自律神経症状の合併、外傷後の発症、HIV など免疫系の病態、鎮痛薬の過剰使用・頭痛発症と時期を同じくする新規薬剤。カードの15項目と一致する。数値の照合：15項目すべて候補と一致。留保：主出典 SRC-1814 の区分は現行 RESTRICTED が正しい（PMC 収載分 PMC6340385 は © 2018 American Academy of Neurology の表示でライセンス表示なし）。識別子補完候補あり（補完候補の節参照）'
   uncertainty: 一次性頭痛（片頭痛・緊張型頭痛・群発頭痛）の診断基準そのものは第29回 EP のカードを参照。各危険徴候の感度・特異度は前向き研究で十分に検証されていないことが原著で指摘されている。
   curriculum:
     kokushi: null
@@ -392,6 +416,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/30_ns_c_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ72 2026-11-15）。三原の承認（2026-11-11）による
 - id: NX-012
   domain: NX
   subdomain: 髄液検査
@@ -412,7 +439,7 @@
     source_license: Clinical Infectious Diseases誌（IDSA/Oxford University Press、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ72 2026-11-15）：Gulin J, Neudauer LM, Kejžar N, Bajrović FF, Collinet-Adler S, Stupica D. Presentation, Management, and Outcome of Tick-Borne Encephalitis in Patients Referred to Infectious Diseases or Neurology. J Clin Med. 2024;14(1):45（PMID: 39797129、DOI: 10.3390/jcm14010045、PMCID: PMC11722305、https://pmc.ncbi.nlm.nih.gov/articles/PMC11722305/）。裏づける部分：候補（CC BY の原著論文）が、腰椎穿刺の前に画像検査を行うべき所見として、うっ血乳頭、意識レベルの異常、局所神経脱落症状、新規発症のけいれんの4項目を明記し、その推奨が ESCMID の細菌性髄膜炎ガイドラインと整合すると述べる。カードが挙げる IDSA の基準6項目のうち4項目と一致する。数値の照合：数値なし（該当所見の有無で判断するカード）。6項目中4項目が候補と一致。留保：免疫不全状態と中枢神経系疾患の既往の2項目、および「血液培養を採取した上で経験的な抗菌薬投与を先行させる」という手順は、自由全文への再掲が見つからなかった。なお ESCMID ガイドライン自体（Clin Microbiol Infect. 2016）は Crossref の版ライセンスが Elsevier のオープンアクセス利用ライセンス（CC ではない）で、自由区分には当たらない。主出典 SRC-1815 の区分は現行 RESTRICTED が正しい'
   uncertainty: 本カードは成人の基準であり、小児では同ガイドラインの小児用アルゴリズムで一部異なる。抗菌薬の具体的な薬剤名は挙げていない。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-C-①（細菌性髄膜炎、a）；医学各論 Ⅸ-3-A-②（髄膜炎、a）
@@ -430,6 +457,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅸ-3-C-①（細菌性髄膜炎、a）；医学各論 Ⅸ-3-A-②（髄膜炎、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ72 2026-11-15）。三原の承認（2026-11-11）による
 - id: NX-013
   domain: NX
   subdomain: 髄液検査
@@ -450,7 +480,7 @@
     source_license: 学会ガイドライン（書籍、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ72 2026-11-15）：Beed M, Wong C, Dineen RA, Berry L, Brindley PG. Infectious meningitis and encephalitis: A primer for acute care practitioners. J Intensive Care Soc. 2026;27(3):377-386（PMID: 41953497、DOI: 10.1177/17511437261437982、PMCID: PMC13053408、https://pmc.ncbi.nlm.nih.gov/articles/PMC13053408/）。裏づける部分：候補（CC BY 総説）の髄液所見の対照表が、正常（外観は透明、細胞数 0–5/µL でリンパ球主体、蛋白 0.15–0.45 g/L、糖比 >60%）、細菌性（混濁、細胞数 >1000/µL で好中球優位、蛋白 >1 g/L、糖比 <40%）、ウイルス性（透明、細胞数はリンパ球優位、糖比は通常正常）の型を再掲する。カードの主張の大部分と一致する。数値の照合：細胞数（正常 5/mm³以下、細菌性 1000/mm³以上）、蛋白の正常範囲（15–45 mg/dL＝0.15–0.45 g/L）、糖比（正常 約0.6、細菌性 0.4以下）は候補と一致。初圧の正常範囲はカード 70〜180 mmH2O に対し候補 10–20 cmH2O（＝100〜200 mmH2O）で範囲が異なる。糖の絶対値（50〜80 mg/dL）は候補に再掲なし（候補は糖比のみ）。留保：初圧の範囲の違いは採用する基準範囲の差で、カードは主出典（細菌性髄膜炎診療ガイドライン2014）の値に従っている（申し送り参照）。主出典 SRC-1638（書籍）の区分は現行 RESTRICTED が正しい'
   uncertainty: 基準値と所見の型は同ガイドラインに掲載された標準的な髄液所見表に基づく。新生児・乳児では基準値が異なる。海外ガイドライン（IDSA）の示す細菌性髄膜炎の典型値（初圧200〜500mmH2O、白血球1000〜5000/mm³、蛋白100〜500mg/dL）とも大枠で一致する。
   curriculum:
     kokushi: 医学各論 Ⅸ-3-C-①（細菌性髄膜炎、a）；医学各論 Ⅻ-1-A-⑱（ウイルス性髄膜炎、a）；医学各論 Ⅸ-3-A-②（髄膜炎、a）
@@ -468,6 +498,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅸ-3-C-①（細菌性髄膜炎、a）；医学各論 Ⅻ-1-A-⑱（ウイルス性髄膜炎、a）；医学各論 Ⅸ-3-A-②（髄膜炎、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ72 2026-11-15）。三原の承認（2026-11-11）による
 - id: NX-014
   domain: NX
   subdomain: 電気生理検査
@@ -488,7 +521,7 @@
     source_license: Neurology誌（American Academy of Neurology、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ72 2026-11-15）：Bitar R, Khan UM, Rosenthal ES. Utility and rationale for continuous EEG monitoring: a primer for the general intensivist. Crit Care. 2024;28:244（PMID: 39014421、DOI: 10.1186/s13054-024-04986-0、PMCID: PMC11251356、https://pmc.ncbi.nlm.nih.gov/articles/PMC11251356/）。裏づける部分：候補（CC BY 総説）が持続脳波モニタリングの根拠として、570例を対象とした検討で19%に発作が検出されたことを再掲し、24時間の記録で非痙攣性発作の88%が検出されると述べる。痙攣性てんかん重積状態の後や原因不明の意識障害ではモニタリングが必要で、短時間の通常脳波で発作が記録されなくても非痙攣性発作を否定できないという候補の趣旨は、カードの結論と一致する。数値の照合：570例・19% は候補と一致。88% は候補では「24時間の記録による非痙攣性発作の検出割合」という表現で、カードの「発作の88%は記録開始後24時間以内に検出」と枠組みがやや異なる。発作のあった患者の92%は非痙攣性の発作のみだったという値は候補に再掲なし。留保：主出典 SRC-1816 の区分は現行 RESTRICTED が正しい（Europe PMC で非OA、Crossref にライセンス登録なし）'
   uncertainty: 数値は単施設の連続症例の後ろ向き検討による。通常脳波のてんかん診断における感度・特異度そのものは本カードでは扱わない。
   curriculum:
     kokushi: 医学各論 Ⅸ-6-D-①（てんかん重積状態、a）
@@ -506,6 +539,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅸ-6-D-①（てんかん重積状態、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ72 2026-11-15）。三原の承認（2026-11-11）による
 - id: NX-015
   domain: NX
   subdomain: 電気生理検査
@@ -526,7 +562,7 @@
     source_license: Annals of Neurology誌（Wiley、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ72 2026-11-15）：Chen YH, Wu CL, Weng WC, Wei YC. Predictors of the Short-Term Outcomes of Guillain-Barré Syndrome: Exploring Electrodiagnostic and Clinical Features. Brain Behav. 2025;15:e70257（PMID: 39832157、DOI: 10.1002/brb3.70257、PMCID: PMC11745152、https://pmc.ncbi.nlm.nih.gov/articles/PMC11745152/）。裏づける部分：候補（CC BY の原著研究）はギラン・バレー症候群のコホートで、伝導ブロックと時間的分散を「脱髄所見の代表的な特徴」と位置づけ、運動神経伝導速度の低下、F 波潜時の異常と併せて扱い、軸索側の指標として CMAP の低下を扱う。カードの主張（脱髄型は伝導速度の著明な低下・遠位潜時や F 波潜時の延長・伝導ブロック・時間的分散で特徴づけられ、軸索型は脱髄所見を欠き CMAP 振幅の低下が主体）の骨格と一致する。ギラン・バレー症候群の電気生理学的分類が Hadden らの基準に基づき運動神経伝導検査の所見で行われることは、別の CC BY 論文（Zhai Q, Guo C, Gao Z, Xue F. Re-evaluation of different electrophysiological criteria for Guillain-Barré syndrome in a single cohort from China. Front Neurol. 2026;17:1766901、PMC13013526）が同基準を用いた分類として再掲している。数値の照合：分類基準の具体的な数値カットオフはカードでも扱っておらず、照合対象なし。留保：遠位潜時の延長を脱髄の基準として明示する再掲は候補になく、Hadden 基準の数値の内訳は再評価論文の補足表の範囲で本文の再掲は限られる。主出典 SRC-1817 の区分は現行 RESTRICTED が正しい（Crossref の版ライセンスは Wiley の利用条件へのリンクのみ）'
   uncertainty: 分類基準の具体的な数値カットオフは用いる基準により異なり、本カードでは扱わない。針筋電図は神経原性変化と筋原性変化の鑑別や病期の評価に用いられるが、所見の詳細は各論を参照。
   curriculum:
     kokushi: 医学各論 Ⅸ-5-A-①（多発ニューロパチー、a）；医学各論 Ⅸ-5-A-②（Guillain-Barré症候群、慢性炎症性脱髄性多発根ニューロパチー、b）
@@ -544,6 +580,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅸ-5-A-①（多発ニューロパチー、a）；医学各論 Ⅸ-5-A-②（Guillain-Barré症候群、慢性炎症性脱髄性多発根ニューロパチー、b）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ72 2026-11-15）。三原の承認（2026-11-11）による
 - id: NX-016
   domain: NX
   subdomain: 画像検査
@@ -564,7 +603,7 @@
     source_license: AHA/ASAガイドライン（CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ72 2026-11-15）：Alshehri AA, Alkhrayef MN, Alzaidi R, et al. Stroke in Saudi Arabia: epidemiology, prevention, clinical management, and emerging innovations-a narrative review. Front Med. 2026;13:1837691（PMID: 43017436、DOI: 10.3389/fmed.2026.1837691、PMCID: PMC13752831、https://pmc.ncbi.nlm.nih.gov/articles/PMC13752831/）。裏づける部分：候補（CC BY 総説）が、非造影頭部 CT は急性期脳卒中の初期の画像検査として標準であり、出血性脳卒中・頭蓋内出血がないことを確認するために治療の第一歩として施行されること、短時間で施行でき広く利用できる一方、発症早期の虚血変化の検出感度は低いことを再掲する。カードの主張の前半（静脈内血栓溶解療法の適応判断の前提として非造影 CT で頭蓋内出血を除外する）と、CT の早期虚血変化への感度の低さと一致する。数値の照合：数値なし（画像選択の原則のカード）。留保：「発症早期の虚血変化や後頭蓋窩の病変については MRI の拡散強調画像の方が検出感度が高い」という明示は候補に再掲なし。主出典 SRC-1582 の区分は現行 RESTRICTED が正しい（Europe PMC で非OA、Crossref にライセンス登録なし）'
   uncertainty: 本カードは急性期脳梗塞を念頭に置いた一般論であり、疾患ごとの画像選択（くも膜下出血での血管評価など）は各論のカードを参照。撮像プロトコルの詳細は扱わない。
   curriculum:
     kokushi: 医学各論 Ⅸ-1-C-①（心原性脳塞栓症、a）；医学各論 Ⅸ-1-C-②（アテローム血栓性脳梗塞、a）；医学各論 Ⅸ-1-C-③（ラクナ梗塞、a）
@@ -582,6 +621,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅸ-1-C-①（心原性脳塞栓症、a）；医学各論 Ⅸ-1-C-②（アテローム血栓性脳梗塞、a）；医学各論 Ⅸ-1-C-③（ラクナ梗塞、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ72 2026-11-15）。三原の承認（2026-11-11）による
 - id: NX-017
   domain: NX
   subdomain: リハビリテーション
@@ -602,7 +644,7 @@
     source_license: 書籍（学会の著作物、CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ72 2026-11-15）：Kinoshita S, Abo M, Okamoto T, Miyamura K. Transitional and Long-Term Care System in Japan and Current Challenges for Stroke Patient Rehabilitation. Front Neurol. 2021;12:711470（PMID: 35087461、DOI: 10.3389/fneur.2021.711470、PMCID: PMC8786721、https://pmc.ncbi.nlm.nih.gov/articles/PMC8786721/）。裏づける部分：候補（CC BY 総説）が日本の脳卒中リハビリテーションの枠組みを再掲する：医療保険と介護保険が急性期・回復期・生活期（慢性期）にわたるリハビリテーションをカバーし、急性期病院では発症早期から多職種のリハビリテーションが行われ、ADL に援助が必要な患者は回復期リハビリテーション病棟に移って集中的なリハビリテーションを受けて在宅復帰を目指し、退院後は介護保険による通所・訪問リハビリテーションへ切れ目なくつながること。回復期リハビリテーション病棟の評価に FIM が用いられることも再掲がある。カードの主張の骨格（病期に応じた切れ目のない継続）と一致する。数値の照合：数値なし（提供体制の枠組みのカード）。留保：機能予後の評価に modified Rankin Scale が広く用いられるという点は候補に再掲なし。主出典 SRC-4431（書籍）の区分は現行 RESTRICTED が正しい'
   uncertainty: 脳卒中の個別疾患の治療と後遺症（嚥下障害など）の扱いは第28回 ST のカードを参照。回復期リハビリテーション病棟の対象疾患・算定要件など制度面の詳細は本カードでは扱わない。
   curriculum:
     kokushi: null
@@ -620,3 +662,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: 出典を新しい版に付け替え：SRC-1561（日本脳卒中学会 脳卒中治療ガイドライン委員会 編『脳卒中治療ガイドライン2021〔改訂2023〕』協和企画） → SRC-4431（提案B、三原の承認）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ72 2026-11-15）。三原の承認（2026-11-11）による

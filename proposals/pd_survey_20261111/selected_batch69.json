@@ -1,0 +1,78 @@
+{
+ "A": [],
+ "B": [
+  {
+   "card": "ID-001",
+   "label": "OPEN、作り手の調査バッチ69 2026-11-15",
+   "text": "Justiz-Vaillant AA, Gopaul D, Akpaka PE, Soodeen S, Arozarena Fundora R. Severe Combined Immunodeficiency-Classification, Microbiology Association and Treatment. Microorganisms. 2023;11(6):1589（PMID: 37375091、DOI: 10.3390/microorganisms11061589、PMCID: PMC10304095、https://pmc.ncbi.nlm.nih.gov/articles/PMC10304095/）。裏づける部分：候補（CC BY 総説）が、SCID は免疫細胞の発生と機能に関わる複数の遺伝子の変異による原発性免疫不全症で、T細胞・B細胞の数の減少と機能障害により適応免疫が損なわれること、生後3か月までに発症し日和見感染（細菌・ウイルス・真菌・原虫）を含む感染を起こして致死的となりうること、ESID の定義（CD3・CD4・CD8 T細胞の著減・欠如を含む）を挙げ、造血幹細胞移植が確立した治癒的治療であることを明記し、カードの中核と一致する。数値の照合：数値なし（定義・経過のカード）。発症時期は候補では「生後3か月まで」とされ、カードの「乳幼児期から」と整合する。留保：「免疫を回復しなければ早期に死亡する」の逐語の再掲はない（候補は「致死的となりうる」とする）。主出典 SRC-3081 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）。PMID の補完候補あり（補完候補の節参照）"
+  },
+  {
+   "card": "ID-002",
+   "label": "OPEN、作り手の調査バッチ69 2026-11-15",
+   "text": "Vosughimotlagh A, Rasouli SE, Rafiemanesh H, et al. Clinical manifestation for immunoglobulin A deficiency: a systematic review and meta-analysis. Allergy Asthma Clin Immunol. 2023;19:75（PMID: 37641141、DOI: 10.1186/s13223-023-00826-y、PMCID: PMC10463351、https://pmc.ncbi.nlm.nih.gov/articles/PMC10463351/）。裏づける部分：候補（CC BY の系統的レビュー・メタ解析）が定義をほぼ逐語で再掲する：4歳を超えた者で血清 IgA が低下・欠如し IgG・IgM が正常であり、低ガンマグロブリン血症の他の原因と T 細胞欠損を除外すること、血清 IgA 7 mg/dL 未満を選択的 IgA 欠損症とすること、最も多い液性免疫不全であること、健常者のスクリーニングや献血で見つかる例がある一方、症候性では反復感染（特に呼吸器感染）が最も多く自己免疫疾患を合併しやすいことを明記し、カードの定義と臨床像の骨格と一致する。数値の照合：定義値（IgA 7 mg/dL 未満・4歳超・IgG・IgM 正常）は候補と一致。頻度は候補では集団により 1:3,000〜1:150 と幅が示され、カードは頻度を主張に含めていない。留保：完全欠損例で抗 IgA 抗体により IgA を含む血液製剤でアナフィラキシーを起こす点は、候補の本文に再掲なし（参考文献への言及のみ）。主出典 SRC-3082 の区分は現行 RESTRICTED が正しい（PMC 全文は CC BY-NC-ND 4.0）。PMID・PMCID の補完候補あり（補完候補の節参照）"
+  },
+  {
+   "card": "ID-003",
+   "label": "OPEN、作り手の調査バッチ69 2026-11-15",
+   "text": "Suárez-Cuartín G, Lores C, Gomez-Olivas JD, Oscullo G, Martínez-García MÁ. Primary Humoral Immunodeficiencies and Bronchiectasis in Adults. J Clin Med. 2025;15(1):179（PMID: 41517428、DOI: 10.3390/jcm15010179、PMCID: PMC12787119、https://pmc.ncbi.nlm.nih.gov/articles/PMC12787119/）。裏づける部分：候補（CC BY 総説）が、IUIS 分類表を通じて無ガンマグロブリン血症は全クラスの免疫グロブリンの著しい低下と循環 B 細胞の著減・欠如で定義され代表的な遺伝子欠損が BTK（X 連鎖無ガンマグロブリン血症）であること、XLA は BTK 変異により B 細胞の発生が障害される疾患で幼少期から重症感染を起こすこと、免疫グロブリン補充が治療の柱（main treatment）であることを明記し、カードの骨格と一致する。数値の照合：末梢血 B 細胞「2%未満」という閾値そのものは候補に再掲なし（「著減・欠如」の定性表現にとどまる）。留保：主出典 SRC-3083 の区分は現行 RESTRICTED が正しい（PMC 全文は CC BY-NC-ND 4.0）。PMID・PMCID の補完候補あり（補完候補の節参照）"
+  },
+  {
+   "card": "ID-004",
+   "label": "OPEN、作り手の調査バッチ69 2026-11-15",
+   "text": "Üçler Çınar H, Cansever M, Erdem Ş, Arık A, Eken A. Deciphering B cell Maturation Dynamics in Hyper-IgM Syndromes. J Clin Immunol. 2026;46:93（PMID: 42423780、DOI: 10.1007/s10875-026-02046-6、PMCID: PMC13630827、https://pmc.ncbi.nlm.nih.gov/articles/PMC13630827/）。裏づける部分：候補（CC BY の研究論文）が、高 IgM 症候群はクラススイッチ組換え（CSR）の欠陥による原発性免疫不全症で、典型像は IgM が正常から上昇し IgA・IgG・IgE が著しく低下すること、CD40L や AID（AICDA）の欠損が確立した原因であること、患者全例でクラススイッチ済みメモリー B 細胞の著減がみられることを明記し、カードの典型像と一致する。数値の照合：数値なし（表現型のカード）。留保：IgM が正常から軽度上昇で他の免疫グロブリンだけが年齢基準より低い形がありうる点の明示と、DNA 修復機構の欠損でも同様の検査像を呈する点は候補に再掲なし。主出典 SRC-3084 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）。PMID の補完候補あり（補完候補の節参照）"
+  },
+  {
+   "card": "ID-005",
+   "label": "OPEN、作り手の調査バッチ69 2026-11-15",
+   "text": "Stroescu R, Chirita-Emandi A, Steflea RM, et al. Wiskott-Aldrich syndrome and X-linked thrombocytopenia: a review of the clinical and immunological spectrum with a case presentation highlighting glomerulonephritis. Front Pediatr. 2026;14:1832095（PMID: 42327893、DOI: 10.3389/fped.2026.1832095、PMCID: PMC13275448、https://pmc.ncbi.nlm.nih.gov/articles/PMC13275448/）。裏づける部分：候補（CC BY 総説）が、WAS は湿疹・小血小板を伴う血小板減少・反復する細菌・ウイルス・真菌感染の三徴を特徴とし T細胞・B細胞等の複合免疫不全を反映すること、自己免疫疾患と悪性腫瘍（特にリンパ腫）のリスク増加を伴うこと、造血幹細胞移植が治療戦略に位置づけられること、軽症型の X 連鎖血小板減少症（XLT）はより軽い経過をとることを明記し、カードの骨格と一致する。数値の照合：数値なし。留保：古典的 WAS で幹細胞移植または遺伝子治療による早期の是正が必要になる点は、同じく CC BY の総説（Splenectomy revisited in Wiskott-Aldrich syndrome in the era of HSCT and gene therapy. Front Immunol. 2026、PMC13437469）が「HSCT は治癒的治療の要であり遺伝子治療も治癒的アプローチ」と明記して再掲する。XLT が出血リスクを共有しつつ通常は保存的に管理される点の明示は両候補ともなし。主出典 SRC-3085 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）。PMID・PMCID の補完候補あり（補完候補の節参照）"
+  },
+  {
+   "card": "ID-007",
+   "label": "OPEN、作り手の調査バッチ69 2026-11-15",
+   "text": "Szczawińska-Popłonyk A, Schwartzmann E, Chmara Z, et al. Chromosome 22q11.2 Deletion Syndrome: A Comprehensive Review of Molecular Genetics in the Context of Multidisciplinary Clinical Approach. Int J Mol Sci. 2023;24(9):8317（PMID: 37176024、DOI: 10.3390/ijms24098317、PMCID: PMC10179617、https://pmc.ncbi.nlm.nih.gov/articles/PMC10179617/）。裏づける部分：候補（CC BY 総説）が、22q11.2 欠失症候群はヒトで最も多い微小欠失であること、頻度は非選択の胎児で約1:1000（出生児では約1:4000）と推定されること、円錐動脈幹奇形を含む先天性心疾患、胸腺低形成による細胞性免疫不全、副甲状腺機能低下症を中核とし、口蓋・腎・消化管の異常や発達・精神面の表現型まで幅広い臨床像を示すこと、多職種によるアプローチを要することを明記し、カードの主張と一致する。数値の照合：胎児約1,000人に1人は候補と一致（候補は出生児の頻度約1:4000 も併記）。留保：免疫面の診療ガイドライン（Clinical Practice Guidelines for the Immunological Management of Chromosome 22q11.2 Deletion Syndrome. J Clin Immunol. 2023、CC BY、PMC9892161）も「最も多い染色体微小欠失症候群」と古典的三徴（円錐動脈幹心疾患、副甲状腺機能低下による低カルシウム血症、胸腺低形成による T 細胞欠損）を再掲する。主出典 SRC-3087 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）。PMID・PMCID の補完候補あり（補完候補の節参照）"
+  },
+  {
+   "card": "ID-008",
+   "label": "OPEN、作り手の調査バッチ69 2026-11-15",
+   "text": "Turner ME, Che J, Mirhaidari GJM, et al. The lysosomal trafficking regulator \"LYST\": an 80-year traffic jam. Front Immunol. 2024;15:1404846（PMID: 38774881、DOI: 10.3389/fimmu.2024.1404846、PMCID: PMC11106369、https://pmc.ncbi.nlm.nih.gov/articles/PMC11106369/）。裏づける部分：候補（CC BY の LYST 総説）が、Chédiak-Higashi 症候群は LYST 遺伝子変異による常染色体潜性遺伝の免疫不全症で、部分的な眼皮膚白皮症、細菌感染への易感染性と反復感染、血小板貯蔵プール欠乏による出血傾向を特徴とすること、造血幹細胞移植が唯一の治癒的治療で免疫学的な側面を是正して成人期までの生存を延ばす一方、成人まで生存した例では中枢・末梢の進行性神経変性が現れることを明記し、カードの主張と一致する。数値の照合：数値なし（カードは疫学数値を主張に含めていない）。留保：主出典 SRC-3088 の区分は現行 RESTRICTED が正しい（Wolters Kluwer、Europe PMC で非 OA、PMC 収載分は著者稿でライセンス表示なし）。PMID・PMCID の補完候補あり（補完候補の節参照）"
+  },
+  {
+   "card": "ID-009",
+   "label": "OPEN、作り手の調査バッチ69 2026-11-15",
+   "text": "Leiding JW, Pettiford LH, Chang CC, et al. How I Treat: Chronic granulomatous disease. J Hum Immun. 2026;2:e20250162（PMID: 42170004、DOI: 10.70962/jhi.20250162、PMCID: PMC13177424、https://pmc.ncbi.nlm.nih.gov/articles/PMC13177424/）。裏づける部分：候補（CC BY の診療総説）が、慢性肉芽腫症は食細胞の NADPH オキシダーゼ複合体の欠損による先天性免疫異常症で、反復・重症の侵襲性細菌・真菌感染と高率の炎症性合併症を特徴とすること、複合体を構成する遺伝子の中で X 連鎖型の CYBB（gp91phox）欠損が最も多いこと、造血幹細胞移植が根治的治療として位置づけられることを明記し、カードの骨格と一致する。数値の照合：カードの「現行時代の全生存は約85%」そのものは候補に再掲なし。候補は完全一致ドナー（血縁・非血縁）を用いた移植の全生存が90%を超えるとし、対象範囲の異なる値である。留保：主出典 SRC-3089 の区分は現行 RESTRICTED が正しい（Crossref の版ライセンスは CC BY-NC 4.0 で NC を含む）。PMID の補完候補あり（補完候補の節参照）。数値の扱いは申し送り参照"
+  },
+  {
+   "card": "ID-010",
+   "label": "OPEN、作り手の調査バッチ69 2026-11-15",
+   "text": "Xiao Y, Wang N, Jin X, Liu A, Zhang Z. Clinical relevance of SCN and CyN induced by ELANE mutations: a systematic review. Front Immunol. 2024;15:1349919（PMID: 38840904、DOI: 10.3389/fimmu.2024.1349919、PMCID: PMC11150597、https://pmc.ncbi.nlm.nih.gov/articles/PMC11150597/）。裏づける部分：候補（CC BY の系統的レビュー）が、重症先天性好中球減少症の最も多い原因は ELANE の常染色体顕性変異であること、乳児期から反復感染を起こすこと、G-CSF が第一選択の治療として使われること、骨髄異形成症候群・急性骨髄性白血病への移行リスクがあり定期的な血液検査のモニタリングと骨髄細胞診が重要な検査であることを明記し、カードの骨格と一致する。数値の照合：数値なし。留保：候補は ELANE 関連に特化したレビューのため、HAX1 の常染色体潜性変異が原因の一つである点と「好中球の成熟障害」という定義の明示は再掲なし。主出典 SRC-3090 の区分は現行 RESTRICTED が正しい（Crossref は Springer Nature の TDM 案内のみ、PMC 収載分は著者稿で非 OA）。PMID・PMCID の補完候補あり（補完候補の節参照）"
+  },
+  {
+   "card": "ID-011",
+   "label": "OPEN、作り手の調査バッチ69 2026-11-15",
+   "text": "Valerieva A, Longhurst HJ. Treatment of hereditary angioedema-single or multiple pathways to the rescue. Front Allergy. 2022;3:952233（PMID: 36172291、DOI: 10.3389/falgy.2022.952233、PMCID: PMC9510393、https://pmc.ncbi.nlm.nih.gov/articles/PMC9510393/）。裏づける部分：候補（CC BY 総説）が、HAE-C1-INH の1型は約85%で C1 インヒビターの蛋白量と機能がともに低下し、2型は約15%で蛋白量が正常で機能のみが低下することを明記し、カードの型分類と割合と一致する。発作が2〜5日かけて増悪し自然に消える経過と、抗ヒスタミン薬・副腎皮質ステロイドの効果が限られる点は、同じく CC BY の IJMS 誌の総説（Paulauskiene M, et al. Beyond Swelling: Clinical Insights into the Diagnosis and Management of Hereditary Angioedema. Int J Mol Sci. 2026、PMC13566130）が再掲し、同総説は頻度を人口10万人あたり約1〜2人とする。数値の照合：1型約85%・2型約15% は候補と一致。頻度5万人に1人（10万人あたり2人）は IJMS 総説の範囲（10万人あたり約1〜2人）の上限側と整合する。留保：診断の根拠（症状があり C1 インヒビター活性が50%未満に低下し家族歴があること）、患者の50%は生涯に一度は喉頭浮腫を経験する点、発作は24時間で最大になる点は自由全文に再掲なし。主出典 SRC-3091 の区分は現行 RESTRICTED が正しい（学会誌の著作物、CC 表示なし）"
+  },
+  {
+   "card": "ID-012",
+   "label": "OPEN、作り手の調査バッチ69 2026-11-15",
+   "text": "Paulauskiene M, Tamasauskiene L, Gradauskiene B. Beyond Swelling: Clinical Insights into the Diagnosis and Management of Hereditary Angioedema. Int J Mol Sci. 2026;27(17):7680（PMID: 42737577、DOI: 10.3390/ijms27177680、PMCID: PMC13566130、https://pmc.ncbi.nlm.nih.gov/articles/PMC13566130/）。裏づける部分：候補（CC BY 総説）が WAO 2025 ガイドラインを引用して、分類は C1 インヒビター欠損を伴う HAE-C1-INH（1型・2型を統合）と C1 インヒビター正常型の HAE-nC1-INH に整理され、後者には F12・PLG・ANGPT1 など複数の遺伝子の病原性バリアントに関連する型（HAE-FXII、HAE-PLG、HAE-ANGPT1 等）が含まれること、治療は発作時治療・短期予防・長期予防で構成され、完全な疾患コントロールは臨床的に意味のある発作がないこととされ、患者に個別の緊急時計画と発作時治療へのアクセスを確保すべきことを明記し、カードの骨格と一致する。数値の照合：数値なし（分類・管理方針のカード）。留保：「無症状の患者を含め確定した全患者に発作時治療へのアクセスを確保する」という WAO 2025 の文言そのものは、候補では緊急時計画の確保の表記にとどまる。主出典 SRC-3092 の区分は現行 RESTRICTED が正しい（PMC 全文は CC BY-NC-ND 4.0）。なお WAO/EAACI ガイドライン2021年改訂版（Allergy、DOI 10.1111/all.15214）も Crossref で CC BY-NC-ND 4.0 であり自由区分に当たらない。PMID・PMCID の補完候補あり（補完候補の節参照）"
+  },
+  {
+   "card": "ID-017",
+   "label": "OPEN、作り手の調査バッチ69 2026-11-15",
+   "text": "Mumtaz I. Rethinking secondary immunodeficiency: a cross-domain pathway framework for risk stratification. Front Immunol. 2026;17:1866662（PMID: 42718590、DOI: 10.3389/fimmu.2026.1866662、PMCID: PMC13553538、https://pmc.ncbi.nlm.nih.gov/articles/PMC13553538/）。裏づける部分：候補（CC BY 総説）が、続発性免疫不全は後天的な病態によるもので免疫抑制療法が中核的な曝露であり、B 細胞除去を行う生物学的製剤の普及が過去20年の続発性免疫不全の負担増加の主因の一つであること、リツキシマブ等の抗 CD20 療法が長期投与例の10〜30%に臨床的に意味のある続発性抗体欠損（低ガンマグロブリン血症）をもたらしうること、感染の既往と免疫学的評価が評価の起点になることを明記し、カードの骨格と一致する。数値の照合：候補のリツキシマブ関連の続発性抗体欠損の頻度（長期投与例の10〜30%）はカードにない数値であり、カードの数値の裏づけではない（カードは数値を含まない）。留保：主出典 SRC-3097 の区分は現行 RESTRICTED が正しい（Elsevier、Crossref は TDM ライセンスのみ、Europe PMC で非 OA・PMC 未収載）。PMID の補完候補あり（補完候補の節参照）"
+  },
+  {
+   "card": "ID-019",
+   "label": "OPEN、作り手の調査バッチ69 2026-11-15",
+   "text": "Sánchez-Ramón S, Bermúdez A, González-Granado LI, et al. Primary and Secondary Immunodeficiency Diseases in Oncohaematology: Warning Signs, Diagnosis, and Management. Front Immunol. 2019;10:586（PMID: 30984175、DOI: 10.3389/fimmu.2019.00586、PMCID: PMC6448689、https://pmc.ncbi.nlm.nih.gov/articles/PMC6448689/）。裏づける部分：候補（CC BY 総説。マスターでは SRC-3094 として OPEN 登録済みで ID-014 の主出典）が、免疫不全症は起源が遺伝的であれば原発性、後天性であれば続発性と分類されること、続発性では悪性腫瘍や自己免疫疾患、移植に対する治療そのもの（化学療法、抗 CD20 モノクローナル抗体、放射線治療、移植前の骨髄破壊等）が宿主防御を障害する要因となること、警告徴候を起点に欠損の所在を評価して診断に進むアプローチを明記し、カードの分類の枠組みと一致する。数値の照合：数値なし（分類の枠組みのカード）。留保：候補の範囲は腫瘍血液学の文脈に限られ、臓器移植そのものへの言及は移植前処置の範囲にとどまる。主出典 SRC-2201 の区分は現行 RESTRICTED が正しい（Crossref の登録は ASM の非商用 TDM ライセンスのみ、Europe PMC で非 OA）。候補は既存の SRC-3094 の再利用であり新規番号は付けない"
+  }
+ ],
+ "rest_fix": {
+  "SRC-3081": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ69）",
+  "SRC-3084": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ69）",
+  "SRC-3085": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ69）",
+  "SRC-3087": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ69）",
+  "SRC-3095": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ69）"
+ },
+ "open_fix": []
+}

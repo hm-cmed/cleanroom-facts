@@ -1,6 +1,6 @@
 # OR 咽頭・口腔・唾液腺・頸部の疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-14
+[← 一覧に戻る](README.md)　更新：2026-11-15
 
 全 44 件のうち、監修済み 0 件。
 
@@ -592,7 +592,7 @@
 
 - 条件：region: 米国／対象: 成人（診療ガイドライン）
 - 不確実性：正確度・感度と大きさの基準（1.5cm）はガイドライン本文から読み取った値である。レベル分類の各レベルの境界の定義は同ガイドラインの図（Figure 7）に示されるが、図の細部は本文で確認できないため主張には含めていない。本出典は既存マスターに SRC-1210 として登録済みであり、本カードはその再利用である。対象は成人で、小児の頸部腫瘤には適用されない。薬剤名は含めていない。
-- 出典：Pynnonen MA, Gillespie MB, Roman B, Rosenfeld RM, et al. Clinical Practice Guideline: Evaluation of the Neck Mass in Adults. Otolaryngol Head Neck Surg. 2017;157(2_suppl):S1-S30.　[DOI 10.1177/0194599817722550](https://doi.org/10.1177/0194599817722550)　[PMID 28891406](https://pubmed.ncbi.nlm.nih.gov/28891406/)（区分 UNKNOWN）
+- 出典：Pynnonen MA, Gillespie MB, Roman B, Rosenfeld RM, et al. Clinical Practice Guideline: Evaluation of the Neck Mass in Adults. Otolaryngol Head Neck Surg. 2017;157(2_suppl):S1-S30.　[DOI 10.1177/0194599817722550](https://doi.org/10.1177/0194599817722550)　[PMID 28891406](https://pubmed.ncbi.nlm.nih.gov/28891406/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-E-③（リンパ節転移、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-527 (id: JlvnmTI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-044&card_id=OR-044&version=c6d2ed220b)　（版 `c6d2ed220b`）
 

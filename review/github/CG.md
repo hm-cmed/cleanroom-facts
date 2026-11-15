@@ -1,6 +1,6 @@
 # CG 染色体・性分化・内分泌の先天異常 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-14
+[← 一覧に戻る](README.md)　更新：2026-11-15
 
 全 10 件のうち、監修済み 0 件。
 
@@ -22,7 +22,7 @@
 
 - 条件：region: 国際／対象: Down症候群の人
 - 不確実性：抄録で確認した範囲に限る。合併症ごとの頻度の数値は本文を照合していないため主張に入れていない。成人期の診療ガイドライン（JAMA 2020）は書誌の一次照合が未了のため使っていない
-- 出典：Antonarakis SE, Skotko BG, Rafii MS, et al. Down syndrome. Nat Rev Dis Primers. 2020;6(1):9　[DOI 10.1038/s41572-019-0143-7](https://doi.org/10.1038/s41572-019-0143-7)　[PMID 32029743](https://pubmed.ncbi.nlm.nih.gov/32029743/)（区分 UNKNOWN）
+- 出典：Antonarakis SE, Skotko BG, Rafii MS, et al. Down syndrome. Nat Rev Dis Primers. 2020;6(1):9　[DOI 10.1038/s41572-019-0143-7](https://doi.org/10.1038/s41572-019-0143-7)　[PMID 32029743](https://pubmed.ncbi.nlm.nih.gov/32029743/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-4-A-①（Down症候群、a）　コアカリ：PS-03-01-03 (id: JkxnuUI)；PS-03-01-05 (id: JkxnuUQ)；TBL-01-00-441 (id: JlvnmJE)；PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CG-002&card_id=CG-002&version=71b201e6a3)　（版 `71b201e6a3`）
 
@@ -80,7 +80,7 @@
 
 - 条件：region: 国際／対象: 13トリソミーまたは18トリソミーの小児
 - 不確実性：個別の生存率や手術成績の数値は、同じ特集号の各論文に分散しており本カードでは照合していないため主張に入れていない。18トリソミー単独の総説（Orphanet J Rare Dis 2012）は本カードでは使っていない
-- 出典：Carey JC. Perspectives on the care and advances in the management of children with trisomy 13 and 18. Am J Med Genet C Semin Med Genet. 2016;172(3):249-250　[DOI 10.1002/ajmg.c.31527](https://doi.org/10.1002/ajmg.c.31527)　[PMID 27643592](https://pubmed.ncbi.nlm.nih.gov/27643592/)（区分 UNKNOWN）
+- 出典：Carey JC. Perspectives on the care and advances in the management of children with trisomy 13 and 18. Am J Med Genet C Semin Med Genet. 2016;172(3):249-250　[DOI 10.1002/ajmg.c.31527](https://doi.org/10.1002/ajmg.c.31527)　[PMID 27643592](https://pubmed.ncbi.nlm.nih.gov/27643592/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-4-A-④（trisomy(13番、18番)、c）　コアカリ：PS-03-01-03 (id: JkxnuUI)；PS-03-01-05 (id: JkxnuUQ)；PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20CG-006&card_id=CG-006&version=60c46d48fa)　（版 `60c46d48fa`）
 

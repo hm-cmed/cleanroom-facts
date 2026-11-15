@@ -1,0 +1,19 @@
+{
+ "A": [],
+ "B": [
+  {
+   "card": "OX-001",
+   "label": "OPEN、作り手の調査バッチ99 2026-11-15",
+   "text": "Albertson TE, Owen KP, Sutter ME, Chan AL. Gastrointestinal decontamination in the acutely poisoned patient. Int J Emerg Med. 2011;4:65（PMID: 21992527、DOI: 10.1186/1865-1380-4-65、PMCID: PMC3207879、https://creativecommons.org/licenses/by/2.0/）。裏づける部分：部分：候補（CC BY 総説）は、米国臨床中毒学会（AACT）と欧州毒物センター・臨床中毒学会（EAPCCT）のポジションペーパーを引いて、単回活性炭は投与するなら摂取後1時間以内が最も利益が大きく、効果は時間とともに低下すると述べ、カードの「摂取後できるだけ速やかに、原則として1時間以内」の骨格と一致する。また下剤について、ポジションステートメントが活性炭とのルーチンの併用を支持しないことを再掲し、カードの「下剤とのルーチンの併用は推奨されない」と一致する。複数回活性炭は保護された／無傷の気道の患者に限るとし、気道確保と誤嚥リスクの枠組みにも触れる。活性炭に十分に結合しない物質として電解質・金属を挙げる（全腸洗浄の文脈）。ただし、適応の重症度（中等症から生命を脅かす中毒）、用量（成人50 g・小児0.5〜1 g/kg）、徐放性製剤では6時間までとする窓、無効ないし不十分な物質の列挙（酸・アルカリ、アルコール類、有機溶剤、無機塩類、金属）の全体、単回投与で気道が確保されていない意識障害を禁忌とする明示は、候補に再掲がない。数値の照合：カードの数値のうち「1時間以内」は候補の再掲（最も利益が大きい時間枠）と一致する。用量（成人50 g・小児0.5〜1 g/kg・毒物量の10〜40倍）と「徐放性製剤では6時間まで」は候補に再掲がなく照合できない（候補側に矛盾する数値はない）。留保：主出典 SRC-4140 の区分訂正（UNKNOWN→RESTRICTED）が新規にある（区分訂正の節参照）。候補のライセンスは Crossref の版データ（CC BY 2.0）・Europe PMC の個別レコード・PMC 全文のライセンス要素（CC BY 2.0）の3経路で個別確認した。StatPearls の活性炭の章は二次資料のため候補にしていない"
+  },
+  {
+   "card": "OX-002",
+   "label": "OPEN／OPEN／OPEN、作り手の調査バッチ99 2026-11-15",
+   "text": "Kim EA, Lee E, Kang SK, Jeong M. Probability of causation for occupational cancer after exposure to ionizing radiation. Ann Occup Environ Med. 2018;30:3／Song J, Woo KH, Kim YH. Guidelines for recognition of occupational cancers in Korea: the results of scientific review by Korean Society of Occupational and Environmental Medicine (2013–2016). Ann Occup Environ Med. 2018;30:12／Kim HR, Kim B, Jo BS, Lee JW. Silica exposure and work-relatedness evaluation for occupational cancer in Korea. Ann Occup Environ Med. 2018;30:4（PMID: 29435338／29456866／29423227、DOI: 10.1186/s40557-018-0220-5／10.1186/s40557-018-0223-2／10.1186/s40557-018-0216-1、PMCID: PMC5791729／PMC5809845／PMC5791359、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補1（CC BY、放射線による職業性がんの原因確率（probability of causation、PC／assigned share）の総説）は、職業性がんの因果関係が確率的に推定されるものであること、補償の判断に確率的な基準（概ね PC 50%超）が使われることを述べ、カードの「因果関係の判断は決定的ではなく確率的に行われる」の要素を放射線領域で再掲する。また、客観的な曝露レベルのデータがないために業務起因性を判断できなかった症例を挙げ、カードの困難要因のうち「客観的な職歴資料の喪失」と重なる。候補2（CC BY、韓国の職業性がん認定ガイドライン特集の総説）は、迅速で公正な補償には認定基準が必要である一方、発がん要因についての情報（曝露の期間・濃度など）が十分でないことを述べ、評価の困難さの要素を裏づける。候補3（CC BY、結晶シリカの業務起因性評価）は、個別の肺がん症例が症例ごとに疫学調査の対象となる運用と、疫学知見の不整合（シリカと胃がんの関連について研究間で結論が異なること）を述べ、「疑わしい症例については個別の詳細な検討が必要」と「疫学知見の不整合」の要素をシリカ領域で裏づける。ただし、評価の順序そのもの（疾患の診断を確定し、次に曝露を評価し、そのうえで業務起因性を評価する）、「絶対的な判断基準は存在しない」という表明、発症機序の未確立・症例の複雑さという困難要因の列挙は、いずれの候補にも再掲がない。数値の照合：数値的主張はカードにない。候補1の「PC 50%超」は放射線領域の補償運用の閾値であり、カードの主張の数値として裏づけ登録しないこと（申し送り参照）。留保：主出典 SRC-4141 は刊行版ライセンスが CC BY-NC 4.0（Crossref の版データ・Europe PMC の個別レコード・PMC 全文のライセンス要素で個別確認）で、現行 RESTRICTED が正しい（区分訂正なし）。カード側の source_license「CC BY-NC 4.0」の記載も実態と一致する。同じ Ann Occup Environ Med でも 2018年の候補3件は刊行版が CC BY 4.0 であり、誌単位ではなく論文ごとにライセンスを確認した。主出典の続編（Part II. Practice、PMC7533287）は刊行版が CC BY-NC 4.0 のため候補にしていない"
+  }
+ ],
+ "rest_fix": {
+  "SRC-4140": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ99）"
+ },
+ "open_fix": []
+}

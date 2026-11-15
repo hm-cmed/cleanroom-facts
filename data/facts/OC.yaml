@@ -53,7 +53,7 @@
     source_license: CC BY-NC（全文リポジトリの表示で確認）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（GOV_US／OPEN、作り手の調査バッチ91 2026-11-15）：Jiang Z, Luo S, Wu D, Yang Q, Chen F, Chen J, Nie W, Li Y, Liu H, Pei Y. Poisoning Deaths in a Workshop for Ceremonial Papermaking — China, May 2025. MMWR Morb Mortal Wkly Rep. 2026;75(30):385-390／Genjiafu A, Shi M, Zhang X, Jian X. Case report: Analysis of a case of hydrogen sulfide poisoning in a waste treatment plant. Front Public Health. 2023;11:1226282（PMID: 42560851／37965501、DOI: 10.15585/mmwr.mm7530a1／10.3389/fpubh.2023.1226282、PMCID: PMC13446640／PMC10641707、https://creativecommons.org/publicdomain/zero/1.0/／https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：MMWR 2026 は、製紙工房の廃水タンク（閉鎖空間）の清掃中に意識を失った作業者と、救助に入った3名全員が硫化水素等の有毒ガスで死亡した事案を報告し、現場に大気モニタリング・換気・個人防護具がなかったことを指摘する（閉鎖空間・急速な意識消失・救助者を含む複数犠牲者・検知と換気の欠如という予防面を再掲）。Front Public Health 2023 は廃水処理プラントの嫌気タンク（換気不良の閉鎖空間）での症例、急速で可逆的な意識消失（“knockout”）、下水作業者の死亡例を再掲する。微生物の活動による発生という枠組み自体、バイオガスプラント、高濃度で嗅覚による感知が失われることの明示は再掲されない。数値の照合：数値なし（事案の構造で照合した）。留保：主出典の刊行版は CC BY-NC で（Europe PMC の license 表示と PMC 全文のライセンス要素で個別確認）、RESTRICTED は正しく、カードの source_license 記載とも一致する。候補はいずれも全文を実際に読み、ライセンスを個別確認した（MMWR は PMC 全文のライセンス要素に「MMWR Series の全資料はパブリックドメイン」と明記）'
   uncertainty: 2026年掲載の総説であり、書誌（誌名・巻号）はEurope PMCで再確認したが、ページ番号は未確認である。一酸化炭素中毒は神経の分野（ND）で作成済みのため本項目では作り直していない。塩素ガスの医学的管理については既存出典 SRC-564（ATSDR の Medical Management Guidelines、GOV_US）が接点になるが、本パートでは使用していない。
   curriculum:
     kokushi: 医学各論 ⅩⅢ-4-A-②（ガス中毒、b）
@@ -68,6 +68,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/56_ev_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（GOV_US／OPEN、作り手の調査バッチ91 2026-11-15）。三原の承認（2026-11-11）による
 - id: OC-003
   domain: OC
   subdomain: 有機溶剤中毒
@@ -157,8 +160,8 @@
     url: https://doi.org/10.1016/S0140-6736(07)61202-1
     source_license: ライセンス表示を確認できず（全文リポジトリで無料公開あり）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ91 2026-11-15）：Chauhan V, Goyal D, Thakur S, Galwankar S, Peredy TR. Therapeutic Interventions in Organophosphate Poisoning: An Umbrella Review of Systematic Reviews. West J Emerg Med. 2026;27(3):819-830（PMID: 42258859、DOI: 10.5811/westjem.50823、PMCID: PMC13246183、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補は「除染に続いて気道・呼吸・循環に基づく即時の安定化と蘇生が必須であり、気道確保・酸素投与・必要時の換気補助を含む」「アトロピンとオキシムが確立した治療である」「国際的に統一されたガイドラインはなく臨床的な論争と地域差がある」「ベンゾジアゼピン（ジアゼパム等）は興奮・けいれん時に使用する」を再掲し、管理の骨格と合意の所在を裏づける。致命率が15%を超えるという数値、オキシムの有益性が特定の農薬による中毒や中等症に限られるという限定、アトロピン・オキシム・ジアゼパムの最適な投与方法が確立していないという明示は再掲されない。数値の照合：致命率（15%超）は自由な全文で再掲されず照合できない。候補の数値をカードの数値の裏づけとして登録しないこと。留保：主出典の刊行版ライセンスは Crossref では Elsevier のテキストマイニング用ライセンスと STM ポリシーのみで、PMC 収載コピー（PMC2493390、著者稿）のライセンス要素も Elsevier の再配布条件への言及にとどまり CC ではない（著作権表示は © 2008 Elsevier Ltd）。UNKNOWN → RESTRICTED への区分訂正を提案する（区分訂正の節参照）'
   uncertainty: 致命率と管理の内容は総説の抄録で確認した範囲である。硫酸アトロピンとプラリドキシムヨウ化物は、国内の公的資料（厚生労働科学研究の化学テロ対応資料）で有機リン系中毒の解毒薬として用法とともに記載されるが、同資料には国内製剤の添付文書とは用法・用量が異なる場合がある旨の注意があり、農薬中毒の通常診療における個別製剤の添付文書の効能・効果と用法・用量は本作成では未照合である。
   curriculum:
     kokushi: 医学各論 ⅩⅢ-4-A-⑤（農薬中毒、b）
@@ -173,6 +176,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/56_ev_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-4038 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ91 2026-11-15）。三原の承認（2026-11-11）による
 - id: OC-006
   domain: OC
   subdomain: 農薬中毒
@@ -192,8 +201,8 @@
     url: https://doi.org/10.1111/j.1365-2125.2011.04026.x
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN／OPEN、作り手の調査バッチ91 2026-11-15）：Pasam SS, Majety SK, Nayeem O, Mishra D, Chakra G S, Singh R, Karuchola MP, Anumolu A. Paraquat poisoning: a case series of 15 survivors and narrative review. Ann Med Surg. 2025;87(5):2537-2546／Yang B, Ye D, Zeng F, Jiang Z, Li H, Liu N. Extracorporeal therapies in the management of paraquat poisoning: a comprehensive review of current evidence. Ann Med. 2026;58(1):2621498（PMID: 40337403／41612945、DOI: 10.1097/MS9.0000000000003174／10.1080/07853890.2026.2621498、PMCID: PMC12055129／PMC12862863、https://creativecommons.org/licenses/by/4.0/／https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：Pasam 2025 は活性酸素種による臓器障害、腎からの排泄と腎機能低下時の血漿濃度上昇、肺への蓄積（血漿の6〜10倍）と肺線維症への進行、消化器・腎・肝・肺の多臓器障害を再掲し、胃洗浄・活性炭・血液透析・血液吸着・シクロホスファミドの有効性に疑問が呈されていることを述べる。Yang 2026 は尿ジチオナイト試験と血漿パラコート定量が診断・評価の裏づけに用いられること、血液透析についてはメタ解析で生存への有意な影響がないことを再掲する。「12〜24時間以内に大部分が未変化体として尿中に排泄される」という動態の細部、フラー土の名指し、「胃洗浄は行うべきではない」という禁止の形での明示は再掲されない。数値の照合：排泄の時間枠（12〜24時間）は自由な全文で再掲されず照合できない。肺内濃度が血漿の6〜10倍という候補の値はカードにない要素であり、カードの数値の裏づけには使わない。留保：主出典の刊行版ライセンスは Crossref では Wiley の利用条件（termsAndConditions#vor）のみで、Europe PMC でも非 OA・ライセンス表示なし（PMC 収載コピーの著作権表示は © 2011 The British Pharmacological Society）。UNKNOWN → RESTRICTED への区分訂正を提案する（区分訂正の節参照）'
   uncertainty: 内容は総説の抄録で確認した範囲である。国内ではパラコート製剤について濃度の切り替え（24%製剤から5%製剤へ、1986年以降）と出荷の自粛の経緯が学会誌論文で報告されているが、毒物及び劇物取締法上の指定などの法制度面の一次資料は未確認である。既存出典 SRC-544（Yoon 2009、パラコート中毒の臨床転帰の短報）は接点としてあるが、本カードでは使用していない。
   curriculum:
     kokushi: 医学各論 ⅩⅢ-4-A-⑤（農薬中毒、b）
@@ -208,6 +217,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/56_ev_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-4039 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN／OPEN、作り手の調査バッチ91 2026-11-15）。三原の承認（2026-11-11）による
 - id: OC-007
   domain: OC
   subdomain: 職業性腰痛
@@ -543,7 +558,7 @@
     source_license: 未確認（全文公開ページに CC 表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN／OPEN、作り手の調査バッチ91 2026-11-15）：Baur X. A compendium of causative agents of occupational asthma. J Occup Med Toxicol. 2013;8:15／Aasen TB, Burge PS, Henneberger PK, Schlünssen V, Baur X; ERS Task Force on the Definition, Assessment of Risk Factors, and Prevention of Occupational Asthma. Diagnostic approach in cases with suspected work-related asthma. J Occup Med Toxicol. 2013;8:17（PMID: 23706060／23768266、DOI: 10.1186/1745-6673-8-15／10.1186/1745-6673-8-17、PMCID: PMC3665602／PMC3716794、https://creativecommons.org/licenses/by/4.0/／https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：Baur 2013 は原因物質の総覧として、イソシアネート類、小麦粉・製パン（酵素類を含む）、ラテックス、動物由来物質、グルタルアルデヒド等のアルデヒド、western red cedar の木粉じん、はんだのロジン（コロホニーとフラックスに相当）を証拠レベル付きで列挙し、カードの原因物質リストの大部分を再掲する。Aasen 2013（ERS タスクフォース報告）は「早期診断が予後を改善し、発症後数か月以内の曝露中止により完全な回復がありうる」ことと、サーベイランスにおける肺機能の縦断的モニタリングの位置づけを再掲する。「多くの国で最も頻繁に報告される職業性呼吸器疾患」という位置づけ、曝露レベルが発症リスクの主要な決定因子であること、呼吸器質問票を中心とする健康サーベイランスの形は再掲されない。数値の照合：数値なし。留保：主出典の刊行版は Crossref でライセンス登録がなく、Europe PMC でも非 OA・ライセンス表示なし（PMC 収載コピーは旧来の無料公開分で CC 表示はない）ため、RESTRICTED は正しい'
   uncertainty: 英国のエビデンスに基づくガイドラインであり、原因物質の分布や健康管理の制度は日本と異なる場合がある。喘息の診断・薬物治療の一般論は Ⅳ が正であり、本カードは職業曝露と予防の側面に限る。ライセンス表示は全文公開ページで確認できなかったため、購読誌として RESTRICTED とした。
   curriculum:
     kokushi: 医学各論 ⅩⅢ-4-E-①（職業性喘息、b）
@@ -558,6 +573,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/56_ev_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN／OPEN、作り手の調査バッチ91 2026-11-15）。三原の承認（2026-11-11）による
 - id: OC-017
   domain: OC
   subdomain: 過敏性肺炎
@@ -575,9 +593,9 @@
     pmid: '40392119'
     pmcid: PMC12127028
     url: https://doi.org/10.1093/joccuh/uiaf026
-    source_license: 未確認（全文公開あり、ライセンス文を特定できず）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 抄録と本文の原因抗原の表で確認した範囲に限る。過敏性肺炎の診断・治療の一般論は Ⅳ が正であり（診断の国際指針は既存の SRC-424)、本カードは職業曝露と早期発見の側面に限る。ライセンス文を特定できなかったため UNKNOWN とした。
   curriculum:
@@ -593,6 +611,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/56_ev_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-4048 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: OC-018
   domain: OC
   subdomain: 鼻アレルギー<アレルギー性鼻炎>
@@ -647,8 +668,8 @@
     url: https://doi.org/10.1007/s13671-021-00339-0
     source_license: 未確認（全文公開ページでライセンス文を特定できず）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN／OPEN、作り手の調査バッチ91 2026-11-15）：Uter W, Aerts O, Agner T, et al. European Society of Contact Dermatitis Guideline for Diagnostic Patch Testing — Recommendations on Best Practice (Update 2026). Contact Dermatitis. 2026;95(3):237-275／Maghiar L, Iftode A, Maghiar TA, Chioibas R, Grecu T, Neamțu C, Ioan SM, Dehelean CA, et al. Occupational Contact Dermatitis in the Post-COVID Era: From Barrier Dysfunction and Microbiome Dysbiosis to Prevention and Precision Medicine. J Clin Med. 2026;15(16):6353（PMID: 42324086／42652757、DOI: 10.1111/cod.70195／10.3390/jcm15166353、PMCID: PMC13441402／PMC13513278、https://creativecommons.org/licenses/by/4.0/／https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：ESCD ガイドライン（2026年更新版）は「標準化されたパッチテスト製剤と患者の職場の素材によるパッチテストが、職業性接触皮膚炎の診断のゴールドスタンダードである」と明記し、カードの「アレルギー性職業性接触皮膚炎の診断にはパッチテストが必須」という要素を再掲する。Maghiar 2026 はゴム促進剤（thiuram mix を筆頭とするチウラム・ジチオカルバメート系）、理美容のパラフェニレンジアミン、エポキシ樹脂、イソチアゾリノン系防腐剤への接触アレルギーを取り上げ、高リスク職種として医療従事者・理美容師・金属作業者・清掃・建設作業を挙げる。原因を「職場の物質・個人防護具・スキンケア製品」の3群に分けて評価する枠組みそのものと、北米接触皮膚炎グループの後ろ向き解析に基づく感作物質リストの全体（carba mix、diphenylguanidine、ビスフェノールAエポキシ樹脂、ホルムアルデヒド、ニッケル、重クロム酸カリウム、2-ヒドロキシエチルメタクリレート、コバルト）は再掲されない。数値の照合：数値なし。候補 Maghiar 2026 の thiuram mix のプール有病率（2.55%）等は一般の貼付試験患者集団の値であり、カードの主張の数値ではないため裏づけに使わない。留保：主出典の刊行版ライセンスは Crossref では Springer のテキストマイニング用ライセンスのみ。PMC 収載コピー（PMC8439371）のライセンス要素は WHO の宣言期間に限った再利用許可（パンデミック期間限定）で CC ではなく、著作権表示も「© The Author(s), under exclusive licence to Springer Science+Business Media, LLC 2021」である。Europe PMC の OA 表示だけで OPEN にしないこと（バッチ76 SRC-2066 の先例と同型）。UNKNOWN → RESTRICTED への区分訂正を提案する（区分訂正の節参照）'
   uncertainty: 北米のデータを中心とした総説であり、感作物質の分布は日本と異なる場合がある（職種別の物質は出典の本文の表から読み取り）。皮膚所見・皮膚科的治療は Ⅲ が正であり、本カードは職業性の原因物質と評価の側面に限る。ライセンス文を特定できなかったため UNKNOWN とした。
   curriculum:
     kokushi: 医学各論 ⅩⅢ-4-E-④（アレルギー性接触皮膚炎、a）
@@ -663,6 +684,12 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/56_ev_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-4050 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN／OPEN、作り手の調査バッチ91 2026-11-15）。三原の承認（2026-11-11）による
 - id: OC-020
   domain: OC
   subdomain: 職業がん

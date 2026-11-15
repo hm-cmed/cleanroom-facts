@@ -1,6 +1,6 @@
 # RX 呼吸器の症候・検査・治療（横断） の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-14
+[← 一覧に戻る](README.md)　更新：2026-11-15
 
 全 24 件のうち、監修済み 0 件。
 
@@ -77,7 +77,7 @@
 - 条件：guideline: ERS/ATS technical standard on interpretive strategies 2022／region: 欧米
 - よくある誤解：閉塞性換気障害はどの年齢でも FEV1/FVC 70% 未満で一律に判定される
 - 不確実性：ERS/ATS 2022 の記載（欧米の基準、GLI 参照式による LLN）。日本呼吸器学会の基準（1秒率70%未満、%VC 80%未満など）や日本人の参照式（LMS 法）とは判定方法が異なる。日本の基準の出典は未取得
-- 出典：Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499　[DOI 10.1183/13993003.01499-2021](https://doi.org/10.1183/13993003.01499-2021)（区分 UNKNOWN）
+- 出典：Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499　[DOI 10.1183/13993003.01499-2021](https://doi.org/10.1183/13993003.01499-2021)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-021 (id: JlAKpiU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-006&card_id=RX-006&version=e4f8f26fca)　（版 `e4f8f26fca`）
 
@@ -87,7 +87,7 @@
 
 - 条件：guideline: ERS/ATS technical standard on interpretive strategies 2022／region: 欧米
 - 不確実性：ERS/ATS 2022 の記載（欧米の基準、GLI 参照式による LLN）。日本呼吸器学会の基準（1秒率70%未満、%VC 80%未満など）や日本人の参照式（LMS 法）とは判定方法が異なる。日本の基準の出典は未取得。−4.0 と −4.1 の間は原文の区切りのとおり
-- 出典：Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499　[DOI 10.1183/13993003.01499-2021](https://doi.org/10.1183/13993003.01499-2021)（区分 UNKNOWN）
+- 出典：Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499　[DOI 10.1183/13993003.01499-2021](https://doi.org/10.1183/13993003.01499-2021)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-021 (id: JlAKpiU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-007&card_id=RX-007&version=c580cf1923)　（版 `c580cf1923`）
 
@@ -98,7 +98,7 @@
 - 条件：guideline: ERS/ATS technical standard on interpretive strategies 2022／region: 欧米
 - よくある誤解：気管支拡張薬への反応は、吸入前の値から12%かつ200 mL以上の改善で判定するのが現在の ERS/ATS の基準である
 - 不確実性：ERS/ATS 2022 の記載（欧米の基準、GLI 参照式による LLN）。日本呼吸器学会の基準（1秒率70%未満、%VC 80%未満など）や日本人の参照式（LMS 法）とは判定方法が異なる。日本の基準の出典は未取得
-- 出典：Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499　[DOI 10.1183/13993003.01499-2021](https://doi.org/10.1183/13993003.01499-2021)（区分 UNKNOWN）
+- 出典：Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499　[DOI 10.1183/13993003.01499-2021](https://doi.org/10.1183/13993003.01499-2021)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-021 (id: JlAKpiU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-008&card_id=RX-008&version=07fa3a0f39)　（版 `07fa3a0f39`）
 
@@ -109,7 +109,7 @@
 - 条件：guideline: ERS/ATS technical standard on interpretive strategies 2022／region: 欧米
 - よくある誤解：%VC が低ければ拘束性障害と確定できる
 - 不確実性：ERS/ATS 2022 の記載（欧米の基準、GLI 参照式による LLN）。日本呼吸器学会の基準（1秒率70%未満、%VC 80%未満など）や日本人の参照式（LMS 法）とは判定方法が異なる。日本の基準の出典は未取得
-- 出典：Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499　[DOI 10.1183/13993003.01499-2021](https://doi.org/10.1183/13993003.01499-2021)（区分 UNKNOWN）
+- 出典：Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499　[DOI 10.1183/13993003.01499-2021](https://doi.org/10.1183/13993003.01499-2021)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-021 (id: JlAKpiU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-009&card_id=RX-009&version=225aa268bf)　（版 `225aa268bf`）
 
@@ -119,7 +119,7 @@
 
 - 条件：guideline: ERS/ATS technical standard on interpretive strategies 2022／region: 欧米
 - 不確実性：ERS/ATS 2022 の記載（欧米の基準、GLI 参照式による LLN）。日本呼吸器学会の基準（1秒率70%未満、%VC 80%未満など）や日本人の参照式（LMS 法）とは判定方法が異なる。日本の基準の出典は未取得
-- 出典：Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499　[DOI 10.1183/13993003.01499-2021](https://doi.org/10.1183/13993003.01499-2021)（区分 UNKNOWN）
+- 出典：Stanojevic S, Kaminsky DA, Miller MR, et al. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J 2022;60(1):2101499　[DOI 10.1183/13993003.01499-2021](https://doi.org/10.1183/13993003.01499-2021)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-021 (id: JlAKpiU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-010&card_id=RX-010&version=9756166077)　（版 `9756166077`）
 
@@ -135,7 +135,7 @@
 
 - 条件：guideline: ATS clinical practice guideline: FENO 2011／region: 米国
 - 不確実性：米国の指針。日本の喘息診断に用いる目安（日本アレルギー学会など）は出典を取得できず未作成。DOI は PDF の表記と既知の形式が一致せず、API で確定する
-- 出典：Dweik RA, Boggs PB, Erzurum SC, et al. An official ATS clinical practice guideline: interpretation of exhaled nitric oxide levels (FENO) for clinical applications. Am J Respir Crit Care Med 2011;184:602-615　[リンク](https://THORACIC.ORG/statements/resources/allergy-asthma/feno-document.pdf)（区分 UNKNOWN）
+- 出典：Dweik RA, Boggs PB, Erzurum SC, et al. An official ATS clinical practice guideline: interpretation of exhaled nitric oxide levels (FENO) for clinical applications. Am J Respir Crit Care Med 2011;184:602-615　[リンク](https://THORACIC.ORG/statements/resources/allergy-asthma/feno-document.pdf)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-022 (id: JvVZg-4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-011&card_id=RX-011&version=9e4f4e9a67)　（版 `9e4f4e9a67`）
 
@@ -146,7 +146,7 @@
 - 条件：guideline: ATS clinical practice guideline: FENO 2011／region: 米国
 - よくある誤解：喫煙者では FeNO が高くなる
 - 不確実性：米国の指針
-- 出典：Dweik RA, Boggs PB, Erzurum SC, et al. An official ATS clinical practice guideline: interpretation of exhaled nitric oxide levels (FENO) for clinical applications. Am J Respir Crit Care Med 2011;184:602-615　[リンク](https://THORACIC.ORG/statements/resources/allergy-asthma/feno-document.pdf)（区分 UNKNOWN）
+- 出典：Dweik RA, Boggs PB, Erzurum SC, et al. An official ATS clinical practice guideline: interpretation of exhaled nitric oxide levels (FENO) for clinical applications. Am J Respir Crit Care Med 2011;184:602-615　[リンク](https://THORACIC.ORG/statements/resources/allergy-asthma/feno-document.pdf)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-022 (id: JvVZg-4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-012&card_id=RX-012&version=8566c73f32)　（版 `8566c73f32`）
 
@@ -172,7 +172,7 @@
 
 - 条件：region: 日本
 - 不確実性：抄録で確認。通常の気管支鏡検査（経気管支生検など）の合併症の全国調査は未取得
-- 出典：Asano F, Aoe M, Ohsaki Y, et al. Complications associated with endobronchial ultrasound-guided transbronchial needle aspiration: a nationwide survey by the Japan Society for Respiratory Endoscopy. Respir Res 2013;14:50　[DOI 10.1186/1465-9921-14-50](https://doi.org/10.1186/1465-9921-14-50)（区分 UNKNOWN）
+- 出典：Asano F, Aoe M, Ohsaki Y, et al. Complications associated with endobronchial ultrasound-guided transbronchial needle aspiration: a nationwide survey by the Japan Society for Respiratory Endoscopy. Respir Res 2013;14:50　[DOI 10.1186/1465-9921-14-50](https://doi.org/10.1186/1465-9921-14-50)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-024 (id: JlAKpic)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-014&card_id=RX-014&version=c6b77588b3)　（版 `c6b77588b3`）
 
@@ -189,7 +189,7 @@
 - 条件：guideline: BTS Guideline for oxygen use in adults in healthcare and emergency settings 2017／region: 英国
 - よくある誤解：COPD などで高二酸化炭素血症のリスクがあっても、SpO2 は100%近くを目標にする
 - 不確実性：BTS の要約頁（Web Appendix 3）で確認。高二酸化炭素性呼吸不全のリスクがある疾患の一覧は要約頁にない。本体の DOI は未確認
-- 出典：British Thoracic Society. BTS Guideline for oxygen use in adults in healthcare and emergency settings, Web Appendix 3: Summary of guideline for hospital use（2017年5月）. 本体は O'Driscoll BR, et al. Thorax 2017;72(Suppl 1):i1-i89　[リンク](https://www.brit-thoracic.org.uk/document-library/guidelines/emergency-oxygen/web-appendix-3-summary-of-guideline-for-hospital-use)（区分 UNKNOWN）
+- 出典：British Thoracic Society. BTS Guideline for oxygen use in adults in healthcare and emergency settings, Web Appendix 3: Summary of guideline for hospital use（2017年5月）. 本体は O'Driscoll BR, et al. Thorax 2017;72(Suppl 1):i1-i89　[リンク](https://www.brit-thoracic.org.uk/document-library/guidelines/emergency-oxygen/web-appendix-3-summary-of-guideline-for-hospital-use)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-07-04 (id: JkxnuRA)；TBL-02-06-026 (id: JlAKpik)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RX-015&card_id=RX-015&version=164e59a896)　（版 `164e59a896`）
 

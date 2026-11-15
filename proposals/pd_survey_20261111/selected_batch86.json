@@ -1,0 +1,57 @@
+{
+ "A": [],
+ "B": [
+  {
+   "card": "HX-001",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ86 2026-11-15",
+   "text": "Elmehallawy GS, Alharbi RA, Kurdi SKA. Drug-Induced Cutaneous Reactions: A Clinically Oriented Review for Frontline Physicians. Cureus. 2026;18(2):e104176（PMID: 41909301、DOI: 10.7759/cureus.104176、PMCID: PMC13019655、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：発疹の評価が、曝露と発症の時間関係を確かめる病歴聴取と、病変の形態・分布・粘膜病変・発熱などの全身所見に重点を置く身体診察からなる構造化されたアプローチであることを再掲する。数値の照合：数値の主張なし。留保：候補は薬疹に特化した総説であり、手掌・足底、顔面、爪、日光曝露部、屈側・伸側といった分布の詳細、圧迫による退色やケブネル現象、アトピー歴・旅行歴といった主出典の個別要素は再掲なし。主出典は © American Academy of Family Physicians で CC 表示がなく、Europe PMC でも非OA・全文なし。現行 UNKNOWN は RESTRICTED への訂正対象（区分訂正の節参照）"
+  },
+  {
+   "card": "HX-002",
+   "label": "CC BY（OPEN）、作り手の調査バッチ86 2026-11-15",
+   "text": "Klein CM, Sivesind TE, Dellavalle RP. From the Cochrane Library: Visual Inspection and Dermoscopy, Alone or in Combination, for Diagnosing Keratinocyte Skin Cancers in Adults. JMIR Dermatol. 2024;7:e41657（PMID: 38451581、DOI: 10.2196/41657、PMCID: PMC10958336、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：主出典（コクランレビュー）の主要結果を要約し、対面評価において基底細胞癌の検出でダーモスコピーが肉眼観察より正確であること、有棘細胞癌については結論を出すのに十分なデータがなかったことを再掲する。数値の照合：特異度を80%に固定したときの感度93%（ダーモスコピー）対79%（肉眼観察）は候補に正確に再掲され、相対診断オッズ比8.2も一致する。カード冒頭のダーモスコピーの定義（光源を備えた手持ち式拡大鏡で表皮から真皮浅層までを観察する）は候補に再掲なし。留保：主出典の PMC 全文（PMC6516870）の著作権表示は「Copyright © 2018 The Cochrane Collaboration」で CC ライセンス要素はなく、刊行版も CC ではないため、PMC に全文があっても自由とはみなさない。現行 UNKNOWN は RESTRICTED への訂正対象"
+  },
+  {
+   "card": "HX-004",
+   "label": "CC BY（OPEN）、作り手の調査バッチ86 2026-11-15",
+   "text": "Llamas-Velasco M, Rozas-Muñoz E, Fernandez-Flores A, Fernandez-Figueras MT. Basic Principles of Skin Biopsy Optimization in Dermatopathology. Dermatopathology (Basel). 2026;13(3):42（PMID: 42782839、DOI: 10.3390/dermatopathology13030042、PMCID: PMC13605635、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：生検の質は部位の選択、手技の実行、手技の選択（パンチ、シェーブ、切除）によって決まること、病変の種類や疑う診断に応じて手技と部位を選ぶ原則を再掲する。数値の照合：数値の主張なし。留保：カードの「皮膚科専門医でない内科医が行う生検」という主出典の枠組み自体は、皮膚病理の最適化を主題とする候補には再掲なし。主出典の PMC 全文（PMC1496896）の著作権表示は「1998 by the Society of General Internal Medicine」で CC 表示はなく、現行 UNKNOWN は RESTRICTED への訂正対象"
+  },
+  {
+   "card": "HX-005",
+   "label": "CC BY（OPEN）、作り手の調査バッチ86 2026-11-15",
+   "text": "Gupta AK, Hall DC, Cooper EA, Ghannoum MA. Diagnosing Onychomycosis: What's New? J Fungi (Basel). 2022;8(5):464（PMID: 35628720、DOI: 10.3390/jof8050464、PMCID: PMC9146047、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：KOH直接検鏡が、診察室で1時間以内に酵母・菌糸の有無を判定できる低コストの検査であることを、爪真菌症の診断法の比較表で再掲する。数値の照合：尤度比（KOH 2.86、基準標準の培養3.28）と培養に6週間を要するという数値は候補に再掲なし。20% KOHを1滴、10倍で観察するという手順の細目も候補にはない。留保：主出典の PMC 全文（PMC3994805）の著作権表示は「Copyright © the College of Family Physicians of Canada」で CC 表示はなく、現行 UNKNOWN は RESTRICTED への訂正対象"
+  },
+  {
+   "card": "HX-006",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ86 2026-11-15",
+   "text": "Hashimoto T, Okuno S. Practical guide for the diagnosis and treatment of localized and generalized cutaneous pruritus (chronic itch with no underlying pruritic dermatosis). J Dermatol. 2025;52(2):204-220（PMID: 39663861、DOI: 10.1111/1346-8138.17565、PMCID: PMC11807371、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：全面：原発性の皮疹のない全身性瘙痒は全身疾患（内臓疾患など）を示唆すること、その精査と管理が課題であることを再掲し、主出典である英国皮膚科医協会の2018年ガイドラインを正式名称（基礎にある皮膚疾患のない成人の全身性瘙痒の精査と管理）で明示して、その対象と位置づけを確認する。数値の照合：数値の主張なし。留保：カードの主張はガイドラインの対象と位置づけを示す定性的なものであり、候補の再掲で過不足なくカバーされる。主出典は Crossref の刊行版ライセンスが Wiley の利用条件（vor）とテキストマイニング用のみで CC ではなく、Europe PMC でも非OA。現行 UNKNOWN は RESTRICTED への訂正対象"
+  },
+  {
+   "card": "HX-010",
+   "label": "CC BY（OPEN）、作り手の調査バッチ86 2026-11-15",
+   "text": "Alkhalifah KM, Alhumaidan NI, Alotaibi TA, et al. A Systematic Review and Meta-Analysis of the Awareness of and Attitudes Toward Epistaxis. Cureus. 2023;15(10):e46590（PMID: 37933345、DOI: 10.7759/cureus.46590、PMCID: PMC10625789、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：鼻出血の疫学のうち、生涯に最大で60%の人が経験し、その約6%が医療機関を受診することを再掲する。数値の照合：60%と約6%はカードと一致する。救急受診の0.5%は、候補では「米国での受診200件に1件（＝0.5%）」という一般の受診を母数とする形で現れ、カードの「救急外来受診の0.5%」とは母数の枠組みが異なる。耳鼻咽喉科関連の救急受診の最大で3分の1という数値は候補に再掲なし。留保：ガイドラインの対象（重症、持続性、反復性の出血や生活の質に影響する出血）と対応の幅（自宅でのセルフケアから手術室での処置まで）は候補に再掲なし。裏づけ登録時は候補の0.5%をカードの救急受診の数値の裏づけとしてそのまま使わないこと。主出典は刊行版ライセンスが利用条件のみで CC ではなく、現行 UNKNOWN は RESTRICTED への訂正対象"
+  },
+  {
+   "card": "HX-011",
+   "label": "CC BY（OPEN）、作り手の調査バッチ86 2026-11-15",
+   "text": "Mairesse S, Maniaci A, Briganti G, Lechien JR. Diagnostic Accuracy of Artificial Intelligence in Laryngeal Disorders: An Integrative Review. J Pers Med. 2026;16(6):301（PMID: 42346612、DOI: 10.3390/jpm16060301、PMCID: PMC13301393、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：成人のほぼ3分の1が生涯のどこかで声の障害を経験することを再掲する。数値の照合：「ほぼ3分の1」はカードと一致する。ただし候補の表現は「成人のほぼ3分の1（Nearly one-third of the adult population）」で、カードの「人口のほぼ3分の1」とは母数の表現がわずかに異なる。留保：嗄声の定義（声の質、高さ、大きさ、発声の努力感の変化によってコミュニケーションや生活の質が損なわれる状態）と、2018年改訂ガイドライン自体の位置づけは候補に再掲なし。主出典は刊行版ライセンスが利用条件のみで CC ではなく、現行 UNKNOWN は RESTRICTED への訂正対象"
+  },
+  {
+   "card": "HX-012",
+   "label": "CC BY 4.0（OPEN）、作り手の調査バッチ86 2026-11-15",
+   "text": "Chowdhury R, Turkdogan S, Alsayegh R, et al. Comprehensive Diagnostic Approach to Head and Neck Masses. J Otorhinolaryngol Hear Balance Med. 2024;5(2):17（DOI: 10.3390/ohbm5020017、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：成人の頸部腫瘤は悪性でないと証明されるまでは悪性として扱うこと、評価は悪性の除外を基本とすること、小児では炎症・感染が多いのに対し高齢の成人では腫瘍性の原因（リンパ腫、扁平上皮癌、転移性腫瘍）が増えることを、主出典（米国耳鼻咽喉科・頭頸部外科学会のガイドライン）を参照しつつ再掲する。数値の照合：数値の主張なし。留保：「成人の持続する頸部腫瘤の多くは腫瘍性であり、悪性腫瘍は他のどの原因よりも多い」「無症状の頸部腫瘤が頭頸部癌の初発または唯一の臨床所見であることがある」という表現そのものは候補に再掲なし。候補は PubMed・PMC 未収載で、ライセンスは Crossref の刊行版データで CC BY 4.0 を個別に確認した。主出典は刊行版ライセンスが利用条件のみで CC ではなく、現行 UNKNOWN は RESTRICTED への訂正対象"
+  }
+ ],
+ "rest_fix": {
+  "SRC-1200": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）",
+  "SRC-1201": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）",
+  "SRC-1203": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）",
+  "SRC-1204": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）",
+  "SRC-1205": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）",
+  "SRC-1206": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）",
+  "SRC-1208": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）",
+  "SRC-1209": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）",
+  "SRC-1210": "出版社・学会の著作物（CC BY ではない。作り手が Crossref・Europe PMC 等で確認、バッチ86）"
+ },
+ "open_fix": []
+}

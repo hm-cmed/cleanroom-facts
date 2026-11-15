@@ -88,7 +88,7 @@
     source_license: © Author(s) (or their employer(s)) 2023. No commercial re-use.
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ71 2026-11-15）：Subedi AR, Shrestha TM, Shakya YL, Budha B. Comparative Evaluation of Pleural Fluid Cholesterol and Total Protein Versus Light''s Criteria in Differentiation of Exudates and Transudates: A Cross-Sectional Analysis at Tribhuvan University Teaching Hospital. Clin Respir J. 2025;19(9):e70121（PMID: 40867084、DOI: 10.1111/crj.70121、PMCID: PMC12390823、https://pmc.ncbi.nlm.nih.gov/articles/PMC12390823/）。裏づける部分：候補（CC BY の原著論文）が Light の基準の3項目を逐語で再掲する：胸水/血清蛋白比 >0.5、胸水/血清 LDH 比 >0.6、胸水 LDH が血清 LDH の正常上限の2/3超、のいずれか1つを満たせば滲出液とする。カードの主張（BTS 2023 が採用する Light の基準）と一致する。数値の照合：3閾値（0.5／0.6／3分の2）すべて候補と一致。留保：候補は Light の基準自体の再掲で、BTS 2023 への帰属の明示はない。主出典 SRC-370 の区分は現行 RESTRICTED が正しい（区分訂正の節参照）'
   uncertainty: BTS 2023 の推奨文の要旨（英国）。日本の気胸・胸水診療の指針（日本気胸・囊胞性肺疾患学会など）は今回確認していない。表から読み取り（診断の流れ図の表）。Light の原著（Ann Intern Med 1972）は取得できなかった
   curriculum:
     core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-018 (id: JlAKpiI)；TBL-02-06-020 (id: JlAKpiQ)'
@@ -106,6 +106,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: provenance.source_ref を SRC-485 から SRC-370 に付け替え（同じ文献の二重登録の解消、proposals/rs_duplicates_20261028.md、監修者の承認による。主張文・数値は変更なし）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ71 2026-11-15）。三原の承認（2026-11-11）による
 - id: RX-004
   domain: RX
   subdomain: 主要症候（胸水）
@@ -126,7 +129,7 @@
     source_license: © Author(s) (or their employer(s)) 2023. No commercial re-use.
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ71 2026-11-15）：Barković I, Grgić S, Jakljević T, Glavaš Kršul S, et al. Contemporary Pleural Drainage in Adult Practice: Image-Guided Techniques, Procedural Safety, Training and Future Directions. J Clin Med. 2026;15(14):5585（PMID: 42513499、DOI: 10.3390/jcm15145585、PMCID: PMC13412817、https://pmc.ncbi.nlm.nih.gov/articles/PMC13412817/）。裏づける部分：候補（CC BY 総説）が、BTS・ERS 等の指針は胸水手技におけるルーチンの超音波ガイドを重視するとし、「胸水手技には可能な限り胸部超音波を用いるべき」「初回の超音波ガイド下胸腔穿刺が診断・治療の両面で有用」と明記し、カードの前半（胸腔穿刺は常に画像ガイド下で）の骨格と一致する。数値の照合：数値なし。留保：「盲目的な胸膜生検は行わない」という後段と、推奨の強さ（Strong – by consensus）の表記は候補に再掲なし'
   uncertainty: BTS 2023 の推奨文の要旨（英国）。日本の気胸・胸水診療の指針（日本気胸・囊胞性肺疾患学会など）は今回確認していない
   curriculum:
     core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-020 (id: JlAKpiQ)'
@@ -144,6 +147,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: provenance.source_ref を SRC-485 から SRC-370 に付け替え（同じ文献の二重登録の解消、proposals/rs_duplicates_20261028.md、監修者の承認による。主張文・数値は変更なし）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ71 2026-11-15）。三原の承認（2026-11-11）による
 - id: RX-005
   domain: RX
   subdomain: 主要症候（胸水）
@@ -164,7 +170,7 @@
     source_license: © Author(s) (or their employer(s)) 2023. No commercial re-use.
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ71 2026-11-15）：Mohammed A, Awouda EA, Elbadri A, Abuelgasim A, et al. Diagnostic Tools Used for Tuberculous Pleural Effusion and Their Association With Treatment Outcomes. Cureus. 2026;18(4):e118376（PMID: 42924243、DOI: 10.7759/cureus.118376、PMCID: PMC13689961、https://pmc.ncbi.nlm.nih.gov/articles/PMC13689961/）。裏づける部分：候補（CC BY の原著論文）が、結核性胸水の診断では胸水 ADA と IFN-γ が最も確立した生化学マーカーであると明記し、カードの3要素のうち結核性胸水に関する要素（胸水 ADA・IFN-γ の測定を考慮）と一致する。数値の照合：数値なし（候補は ADA・IFN-γ の位置づけの再掲で、カットオフ値の照合はしていない）。留保：心不全を支持するための血清 NT-proBNP 測定と、ループス胸膜炎への抗核抗体という2要素は、自由全文への再掲が見つからなかった'
   uncertainty: BTS 2023 の推奨文の要旨（英国）。日本の気胸・胸水診療の指針（日本気胸・囊胞性肺疾患学会など）は今回確認していない
   curriculum:
     core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-020 (id: JlAKpiQ)'
@@ -182,6 +188,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: provenance.source_ref を SRC-485 から SRC-370 に付け替え（同じ文献の二重登録の解消、proposals/rs_duplicates_20261028.md、監修者の承認による。主張文・数値は変更なし）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ71 2026-11-15）。三原の承認（2026-11-11）による
 - id: RX-006
   domain: RX
   subdomain: 呼吸機能検査
@@ -201,8 +210,8 @@
     url: https://publications.ersnet.org/content/erj/60/1/2101499
     source_license: 未確認（頁に PDF Permissions のリンクのみ）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ71 2026-11-15）：Russell ST, Han JE, Kempker JA, Honig E, Kukoyi AT, et al. Adopting Global Lung Function Initiative Reference Equations Alters Pulmonary Function Testing Interpretation. Open Respir Med J. 2026;20:e18743064497297（PMID: 42899075、DOI: 10.2174/0118743064497297260820041654、PMCID: PMC13678695、https://pmc.ncbi.nlm.nih.gov/articles/PMC13678695/）。裏づける部分：候補（CC BY の原著研究）が、現行の ATS/ERS ガイドラインはスパイロメトリー・肺気量・DLCO の参照式として GLI（Global Lung Function Initiative）の参照式を推奨すると明記し、解釈パターンの定義表で閉塞を「FEV1/FVC が LLN 未満」と定義する。カードの2要素（閉塞性換気障害は FEV1/FVC が LLN を下回ることで定義する、健常者の基準範囲には GLI の参照式を使う）と一致する。同様の定義は Smith ら（Ann Am Thorac Soc. 2026、CC BY、PMC13626232）も GLI 参照式を用いて採用する。数値の照合：LLN の数値定義（5パーセンタイル、zスコア −1.645）そのものは候補に数値として明記されていない（GLI における LLN の定義自体は5パーセンタイルである）。なお J Bras Pneumol の Ferreira 2026（PMC13598882）は LLN を5パーセンタイル（z < −1.64）と明記するが、刊行版ライセンスは CC BY-NC 4.0（Crossref の版データで個別確認）のため候補に使えない。留保：主出典 SRC-501 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: ERS/ATS 2022 の記載（欧米の基準、GLI 参照式による LLN）。日本呼吸器学会の基準（1秒率70%未満、%VC 80%未満など）や日本人の参照式（LMS 法）とは判定方法が異なる。日本の基準の出典は未取得
   curriculum:
     core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-021 (id: JlAKpiU)'
@@ -217,6 +226,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-501 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ71 2026-11-15）。三原の承認（2026-11-11）による
 - id: RX-007
   domain: RX
   subdomain: 呼吸機能検査
@@ -236,8 +251,8 @@
     url: https://publications.ersnet.org/content/erj/60/1/2101499
     source_license: 未確認（頁に PDF Permissions のリンクのみ）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ71 2026-11-15）：Smith EF, Lavery C, Simpson SJ, et al. Pre-COPD, PRISm, and COPD in young adults born preterm. Ann Am Thorac Soc. 2026;23（PMID: 42421199、DOI: 10.1093/annalsats/aaoag182、PMCID: PMC13626232、https://pmc.ncbi.nlm.nih.gov/articles/PMC13626232/）。裏づける部分：候補（CC BY の原著研究）が、COPD の重症度を FEV1 の zスコアで、軽症（z ≥ −2.51）、中等症（−4.1 ≤ z < −2.51）、高度（z < −4.1）と分類しており、カードの zスコアによる3段階の重症度区分の骨格と閾値の組（−2.51 と −4.1）と一致する。数値の照合：境界の表記差がある。候補の軽症は z ≥ −2.51（閉塞例が対象のため実質 −2.51〜−1.645 の範囲）で、カードの軽症（−1.65〜−2.5）と下限の書き方が異なる。中等症と高度の境界はカードが「−4.0 までが中等度、−4.1 未満が高度」（原文の区切りのとおり −4.0 と −4.1 の間に隙間がある）とし、候補は −4.1 を境界に連続して区切る。閾値の組そのものは一致する。留保：主出典 SRC-501 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: ERS/ATS 2022 の記載（欧米の基準、GLI 参照式による LLN）。日本呼吸器学会の基準（1秒率70%未満、%VC 80%未満など）や日本人の参照式（LMS 法）とは判定方法が異なる。日本の基準の出典は未取得。−4.0 と −4.1 の間は原文の区切りのとおり
   curriculum:
     core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-021 (id: JlAKpiU)'
@@ -252,6 +267,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-501 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ71 2026-11-15）。三原の承認（2026-11-11）による
 - id: RX-008
   domain: RX
   subdomain: 呼吸機能検査
@@ -271,8 +292,8 @@
     url: https://publications.ersnet.org/content/erj/60/1/2101499
     source_license: 未確認（頁に PDF Permissions のリンクのみ）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ71 2026-11-15）：Lowe J, Cousins M, Hart K, Kotecha SJ, Watkins WJ, Kotecha S, et al. Defining the optimal spirometry cut-off points for optimal bronchodilator response in prematurity-associated lung disease. ERJ Open Res. 2026;12(2):00239-2026（PMID: 42682813、DOI: 10.1183/23120541.00239-2026、PMCID: PMC13531273、https://pmc.ncbi.nlm.nih.gov/articles/PMC13531273/）。裏づける部分：候補（CC BY の研究レター）が、気管支拡張薬反応陽性を「吸入後の FEV1（予測値に対する %）の増加が >10%」と定義し、それが ATS の推奨する方法であることを明記する。カードの主張（反応陽性は FEV1 または FVC の変化量が予測値の10%を超える場合）の FEV1 側と一致し、「予測値の10%」という基準の取り方（吸入前後の値どうしの10%ではない）も候補の定義と整合する。数値の照合：閾値（予測値の10%超）は候補と一致。留保：FVC 側の反応陽性の再掲は候補になし。候補は早産関連肺疾患のコホートを対象とする研究レターで、基準の再掲は方法の節による'
   uncertainty: ERS/ATS 2022 の記載（欧米の基準、GLI 参照式による LLN）。日本呼吸器学会の基準（1秒率70%未満、%VC 80%未満など）や日本人の参照式（LMS 法）とは判定方法が異なる。日本の基準の出典は未取得
   curriculum:
     core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-021 (id: JlAKpiU)'
@@ -287,6 +308,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-501 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ71 2026-11-15）。三原の承認（2026-11-11）による
 - id: RX-009
   domain: RX
   subdomain: 呼吸機能検査
@@ -306,8 +333,8 @@
     url: https://publications.ersnet.org/content/erj/60/1/2101499
     source_license: 未確認（頁に PDF Permissions のリンクのみ）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ71 2026-11-15）：Russell ST, Han JE, Kempker JA, Honig E, Kukoyi AT, et al. Adopting Global Lung Function Initiative Reference Equations Alters Pulmonary Function Testing Interpretation. Open Respir Med J. 2026;20:e18743064497297（PMID: 42899075、DOI: 10.2174/0118743064497297260820041654、PMCID: PMC13678695、https://pmc.ncbi.nlm.nih.gov/articles/PMC13678695/）。裏づける部分：候補（CC BY の原著研究）の解釈パターン定義表が、拘束性障害を「FEV1/FVC が LLN 超、かつ TLC が LLN 未満」と定義し、FVC が低くても TLC が保たれる場合は非特異的パターンとして拘束性と区別する。カードの主張（拘束性障害は TLC が LLN を下回ることで定義し、FVC の低下だけでは拘束性といえない）と一致する。PRISm（FEV1/FVC は正常で FEV1 が低下したパターン）の定義は Smith ら（Ann Am Thorac Soc. 2026、CC BY、PMC13626232）が「FEV1/FVC 比は正常だが FEV1 が低下した表現型」として再掲する。数値の照合：数値なし（定義のカード）。留保：主出典 SRC-501 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: ERS/ATS 2022 の記載（欧米の基準、GLI 参照式による LLN）。日本呼吸器学会の基準（1秒率70%未満、%VC 80%未満など）や日本人の参照式（LMS 法）とは判定方法が異なる。日本の基準の出典は未取得
   curriculum:
     core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-021 (id: JlAKpiU)'
@@ -322,6 +349,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-501 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ71 2026-11-15）。三原の承認（2026-11-11）による
 - id: RX-010
   domain: RX
   subdomain: 呼吸機能検査
@@ -341,8 +374,8 @@
     url: https://publications.ersnet.org/content/erj/60/1/2101499
     source_license: 未確認（頁に PDF Permissions のリンクのみ）
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ71 2026-11-15）：Hamrefors V, Westerbergh J, Behndig A, Blomberg A, Brandberg J, Carlén C, et al. Isolated, reduced diffusing capacity for carbon monoxide in the population - relations to symptoms, health status, exposures, co-morbidities and health care visits. BMC Pulm Med. 2026;26:4662（PMID: 42675482、DOI: 10.1186/s12890-026-04662-9、PMCID: PMC13531966、https://pmc.ncbi.nlm.nih.gov/articles/PMC13531966/）。裏づける部分：候補（CC BY の大規模コホート研究）が、DLCO の異常を LLN（GLI 参照式に基づく正常下限）で判定する枠組みを用い、貧血は DLCO 低下に関連する因子で「臨床実務では補正される」と明記する。カードの主張のうち、DLCO を基準範囲（5〜95パーセンタイル相当の LLN 判定）で評価する点と、基準値をヘモグロビンで補正する点と一致する。Russell ら（Open Respir Med J. 2026、CC BY、PMC13678695）のパターン定義でも、孤立性 DLCO 低下は DLCO が LLN 未満として定義される。数値の照合：5〜95パーセンタイルという範囲表記そのものは候補に再掲なし（候補はいずれも LLN による判定）。留保：低下時に VA と KCO を合わせて評価すること、VA が正常で DLCO が低ければ肺血管障害・肺気量の保たれた肺気腫・貧血を考えるという鑑別の枠組みは、自由全文への再掲が見つからなかった'
   uncertainty: ERS/ATS 2022 の記載（欧米の基準、GLI 参照式による LLN）。日本呼吸器学会の基準（1秒率70%未満、%VC 80%未満など）や日本人の参照式（LMS 法）とは判定方法が異なる。日本の基準の出典は未取得
   curriculum:
     core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-021 (id: JlAKpiU)'
@@ -357,6 +390,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-501 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ71 2026-11-15）。三原の承認（2026-11-11）による
 - id: RX-011
   domain: RX
   subdomain: 呼気NO
@@ -376,8 +415,8 @@
     url: https://THORACIC.ORG/statements/resources/allergy-asthma/feno-document.pdf
     source_license: 取得範囲に表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ71 2026-11-15）：Qu Y, Li L, Guo J, Zhou Y, Gong Y, Chen Z, Song Y, et al. Chinese Expert Consensus on the Testing Process, Quality Control and Clinical Application of Fractional Exhaled Nitric Oxide. Clin Respir J. 2026;20(1):e70222（PMID: 42760505、DOI: 10.1111/crj.70222、PMCID: PMC13588943、https://pmc.ncbi.nlm.nih.gov/articles/PMC13588943/）。裏づける部分：候補（CC BY の専門家コンセンサス）が、2011年の ATS 臨床ガイドラインに基づく解釈を明示して再掲する：FeNO が成人で 25 ppb 未満（小児 20 ppb 未満）なら好酸球性気道炎症は否定的、成人で 50 ppb 超（小児 35 ppb 超）なら好酸球性炎症の可能性が高く、25〜50 ppb（小児 20〜35 ppb）は臨床状況に照らして総合的に評価する。カードの主張（閾値と解釈の方向、25〜50 ppb の慎重な解釈）と一致する。数値の照合：閾値（成人 25／50 ppb、小児 20／35 ppb）は候補とすべて一致。留保：推奨の強さ（強い推奨・中等度の質）の表記は候補に再掲なし。主出典 SRC-502 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）'
   uncertainty: 米国の指針。日本の喘息診断に用いる目安（日本アレルギー学会など）は出典を取得できず未作成。DOI は PDF の表記と既知の形式が一致せず、API で確定する
   curriculum:
     core_curriculum: 'PS-02-07-03 (id: JkxnuQ8)；TBL-02-06-022 (id: JvVZg-4)'
@@ -392,6 +431,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-502 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ71 2026-11-15）。三原の承認（2026-11-11）による
 - id: RX-012
   domain: RX
   subdomain: 呼気NO
@@ -411,7 +456,7 @@
     url: https://THORACIC.ORG/statements/resources/allergy-asthma/feno-document.pdf
     source_license: 取得範囲に表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 米国の指針
   curriculum:
@@ -427,6 +472,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-502 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
 - id: RX-013
   domain: RX
   subdomain: 呼気NO
@@ -479,9 +527,9 @@
     pmid: null
     pmcid: null
     url: https://www.springermedicine.com/complications-associated-with-endobronchial-ultrasound-guided-tr/22347198
-    source_license: Open Access の表示のみ（CC の版は未確認）
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 抄録で確認。通常の気管支鏡検査（経気管支生検など）の合併症の全国調査は未取得
   curriculum:
@@ -497,6 +545,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-504 の区分の訂正にあわせて provenance.source_class を UNKNOWN から OPEN にした。三原の承認（2026-11-11）による
 - id: RX-015
   domain: RX
   subdomain: 酸素療法
@@ -516,8 +567,8 @@
     url: https://www.brit-thoracic.org.uk/document-library/guidelines/emergency-oxygen/web-appendix-3-summary-of-guideline-for-hospital-use
     source_license: 取得範囲に表示なし
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: null
+    source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ71 2026-11-15）：Salih MMEA, Suliman AGN, Abdulrahman EAM, Elhassan MOE, et al. Improving Physicians'' Knowledge of Emergency Oxygen Therapy According to British Thoracic Society (BTS) Guidelines: A Closed-Loop Clinical Audit at Al-Managil Teaching Hospital. Cureus. 2026;18(4):e117028（PMID: 42952537、DOI: 10.7759/cureus.117028、PMCID: PMC13713268、https://pmc.ncbi.nlm.nih.gov/articles/PMC13713268/）。裏づける部分：候補（CC BY の臨床監査研究）が、BTS ガイドラインの推奨として、急性疾患の多くの成人で目標 SpO2 を94〜98%、高二酸化炭素性呼吸不全のリスクがある患者では88〜92%とすること、酸素は処方して投与すべき薬剤であることを明記し、カードの主張の3要素すべてと一致する。数値の照合：目標範囲（94〜98%／88〜92%）は候補と一致。留保：主出典 SRC-505 は区分訂正あり（UNKNOWN→RESTRICTED、区分訂正の節参照）。カードは Web Appendix 3（要約頁）に基づくが、候補はガイドライン本体の推奨を再掲する'
   uncertainty: BTS の要約頁（Web Appendix 3）で確認。高二酸化炭素性呼吸不全のリスクがある疾患の一覧は要約頁にない。本体の DOI は未確認
   curriculum:
     core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-02-06-026 (id: JlAKpik)'
@@ -532,6 +583,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: 出典 SRC-505 の区分の訂正にあわせて provenance.source_class を UNKNOWN から RESTRICTED にした。三原の承認（2026-11-11）による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ71 2026-11-15）。三原の承認（2026-11-11）による
 - id: RX-016
   domain: RX
   subdomain: 酸素療法
@@ -587,7 +644,7 @@
     source_license: ©ERS 2017
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ71 2026-11-15）：Zimnoch M, Eldeiry D, Aruleba O, Schwartz J, Avaricio M, Ishak A, et al. Non-Invasive Ventilation: When, Where, How to Start, and How to Stop. J Clin Med. 2025;14(14):5033（PMID: 40725723、DOI: 10.3390/jcm14145033、PMCID: PMC12295356、https://pmc.ncbi.nlm.nih.gov/articles/PMC12295356/）。裏づける部分：候補（CC BY 総説）の表1（ERS/ATS ガイドラインの推奨の要約）が、COPD 増悪による急性または慢性の急性増悪の呼吸性アシドーシス（pH ≤7.35）に対する bilevel NIV を「強い推奨、高い確実性」と明記し、カードの前半と一致する。数値の照合：pH の閾値（7.35以下）は候補と一致。留保：「アシドーシスのない高二酸化炭素血症には NIV を使わないことを提案した（条件付き、低い確実性）」という後段は候補の表に再掲なし。主出典 SRC-507 の区分は現行 RESTRICTED が正しい（区分訂正の節参照）'
   uncertainty: 欧米の指針。日本の NPPV ガイドライン（日本呼吸器学会）は未確認
   curriculum:
     core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-02-06-027 (id: JlAKpio)；TBL-01-00-215 (id: JlvnlyE)'
@@ -602,6 +659,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ71 2026-11-15）。三原の承認（2026-11-11）による
 - id: RX-018
   domain: RX
   subdomain: 人工呼吸
@@ -622,7 +682,7 @@
     source_license: ©ERS 2017
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ71 2026-11-15）：Zimnoch M, Eldeiry D, Aruleba O, Schwartz J, Avaricio M, Ishak A, et al. Non-Invasive Ventilation: When, Where, How to Start, and How to Stop. J Clin Med. 2025;14(14):5033（PMID: 40725723、DOI: 10.3390/jcm14145033、PMCID: PMC12295356、https://pmc.ncbi.nlm.nih.gov/articles/PMC12295356/）。裏づける部分：候補（CC BY 総説）の表1が、心原性肺水腫による急性呼吸不全への bilevel NIV か CPAP を「強い推奨、中等度の確実性」とし、免疫不全・術後・胸部外傷・終末期の呼吸困難（緩和）への NIV をいずれも「条件付き推奨、中等度の確実性」と明記し、カードの主張の大部分と一致する。心原性肺水腫については Tetaj ら（J Cardiovasc Dev Dis. 2026、CC BY、PMC12842350）も ERS/ATS ガイドラインが bilevel NIV か CPAP を推奨すると再掲する。数値の照合：数値なし（推奨の構成のカード）。留保：「それ以外の新規発症の低酸素性呼吸不全には推奨を示さなかった」という要素は候補の表に独立した行がなく、再掲なし（候補の表で「推奨を示せなかった」のは喘息とパンデミック性ウイルス疾患の行）'
   uncertainty: 欧米の指針。心原性肺水腫の鑑別・画像は第12回（PV）、心不全の治療は循環器 HF の範囲
   curriculum:
     core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-02-06-027 (id: JlAKpio)'
@@ -637,6 +697,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ71 2026-11-15）。三原の承認（2026-11-11）による
 - id: RX-019
   domain: RX
   subdomain: 人工呼吸
@@ -657,7 +720,7 @@
     source_license: ©ERS 2017
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ71 2026-11-15）：Zimnoch M, Eldeiry D, Aruleba O, Schwartz J, Avaricio M, Ishak A, et al. Non-Invasive Ventilation: When, Where, How to Start, and How to Stop. J Clin Med. 2025;14(14):5033（PMID: 40725723、DOI: 10.3390/jcm14145033、PMCID: PMC12295356、https://pmc.ncbi.nlm.nih.gov/articles/PMC12295356/）。裏づける部分：候補（CC BY 総説）の表1が、高二酸化炭素性呼吸不全の患者の人工呼吸からの離脱を早めるための NIV を「条件付き推奨、中等度の確実性」、抜管後にすでに呼吸不全を来した患者への NIV は使わないことを「条件付き推奨、低い確実性」と明記し、カードの主張の2要素と一致する。数値の照合：数値なし（推奨の構成のカード）。留保：重要な食い違い：候補の表は「抜管後呼吸不全の予防」について高リスク患者でも「NIV を使うべきでない（条件付き、低い確実性）」とするが、主出典（ERS/ATS 2017）は高リスク患者への予防的使用を条件付きで提案しており、カードは主出典どおりである。候補側の要約表の転記・要約の誤りの疑いがあり、裏づけ登録時はこの行を使わないこと（申し送り参照）'
   uncertainty: 欧米の指針
   curriculum:
     core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-02-06-027 (id: JlAKpio)'
@@ -672,6 +735,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ71 2026-11-15）。三原の承認（2026-11-11）による
 - id: RX-020
   domain: RX
   subdomain: 呼吸リハビリテーション
@@ -692,7 +758,7 @@
     source_license: Copyright © 2023 by the American Thoracic Society
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ71 2026-11-15）：Fonseca ES, Velloso M, Rodrigues MCJ, Costa KM, de Lira CAB, et al. Low-cost pulmonary rehabilitation for chronic respiratory diseases: a narrative review. Front Rehabil Sci. 2026;7:1706188（PMID: 42798561、DOI: 10.3389/fresc.2026.1706188、PMCID: PMC13612947、https://pmc.ncbi.nlm.nih.gov/articles/PMC13612947/）。裏づける部分：候補（CC BY 総説）が、ATS ガイドラインの推奨として、安定期 COPD・増悪後の COPD・間質性肺疾患への呼吸リハビリテーションを強い推奨、肺高血圧症には条件付き推奨、施設型リハビリテーションと遠隔リハビリテーションのどちらかを選べるようにすることを強い推奨（同等の選択肢）と明記し、カードの主張の全要素と一致する。数値の照合：数値なし（推奨の構成のカード）。エビデンスの質（中等度／低い）の表記は候補で再掲される範囲外。留保：主出典 SRC-508 の区分は現行 RESTRICTED が正しい（刊行版は CC BY-NC-ND 4.0 で自由区分に当たらない。区分訂正の節参照）。識別子補完候補あり（補完候補の節参照）'
   uncertainty: 米国の指針。肺癌の切除前後と肺移植は指針の範囲外。COPD の呼吸リハビリテーションの詳細は第11回（RO）の範囲。DOI は本文に記載がなく未確認
   curriculum:
     core_curriculum: 'PS-02-07-04 (id: JkxnuRA)；TBL-02-06-025 (id: JlAKpig)；TBL-01-00-215 (id: JlvnlyE)；TBL-01-00-218 (id: JlvnlyY)'
@@ -710,6 +776,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅳ-2-C-①（慢性閉塞性肺疾患<COPD>、喘息COPDオーバーラップ<ACO>、a）；医学各論 Ⅳ-5-C-②（肺動脈性肺高血圧症、b）；医学各論 Ⅳ-4-A-①（特発性肺線維症<IPF>、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-11'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ71 2026-11-15）。三原の承認（2026-11-11）による
 - id: RX-021
   domain: RX
   subdomain: 喫煙と禁煙治療
