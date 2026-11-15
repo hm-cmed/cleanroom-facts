@@ -116,15 +116,15 @@
 
 ### FT-015　下書き（出典の照合前）
 
-> 米国母体胎児医学会のガイドライン
+> 米国母体胎児医学会のガイドライン #8 では、胎児貧血を検出する第一の手段は中大脳動脈収縮期最大血流速度（MCA-PSV）のドプラ計測であり、計測は中大脳動脈の起始部近くで、角度を0度に近づけ、角度補正をせずに行う。MCA-PSV が中央値の1.5倍を超える場合、または胎児水腫を認める場合は、重症胎児貧血の可能性が高いとして、子宮内輸血の準備をしたうえで胎児採血を行い、侵襲的胎児治療の専門施設へ紹介する。2回目の子宮内輸血の時期の判断にも MCA-PSV を用いることができ、胎児貧血のリスクが高い妊娠は、ほかに適応がなければ妊娠37〜38週で分娩とする。
 
 - 条件：region: 米国／対象: 胎児貧血のリスクがある妊婦
 - 不確実性：本ガイドラインは米国の学会のものであり、日本の産科ガイドラインで同じ閾値（MCA-PSV が中央値の1.5倍超）がどう位置づけられているかは別途の確認が要る。2015年の公表で、学会は2025年に現行として再確認（reaffirmed）している。推奨文には、妊娠週数が進み分娩のリスクが手技のリスクを下回る場合は分娩を優先する旨の留保がある。羊水の ΔOD450 は胎児貧血の診断に用いないことも同ガイドラインの推奨である。
 - 出典：Society for Maternal-Fetal Medicine (SMFM); Mari G, Norton ME, Stone J, et al. Society for Maternal-Fetal Medicine (SMFM) Clinical Guideline #8: the fetus at risk for anemia--diagnosis and management. Am J Obstet Gynecol. 2015;212(6):697-710　[DOI 10.1016/j.ajog.2015.01.059](https://doi.org/10.1016/j.ajog.2015.01.059)　[PMID 25824811](https://pubmed.ncbi.nlm.nih.gov/25824811/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-3-A-④（胎児貧血、b）　コアカリ：PS-02-11-05 (id: JkxnuSU)；PS-02-11-03 (id: JkxnuSM)；TBL-02-10-013 (id: JlAKpqo)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20FT-015&card_id=FT-015&version=92a31a3586)　（版 `92a31a3586`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20FT-015&card_id=FT-015&version=755a6c7655)　（版 `755a6c7655`）
 
-**[ここまでの 3 件（FT-008〜FT-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20FT-008%E3%80%9CFT-015&cards=FT-008%209284ffe4e9%0AFT-009%205b7f5be125%0AFT-015%2092a31a3586)**
+**[ここまでの 3 件（FT-008〜FT-015）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20FT-008%E3%80%9CFT-015&cards=FT-008%209284ffe4e9%0AFT-009%205b7f5be125%0AFT-015%20755a6c7655)**
 
 ---
 
