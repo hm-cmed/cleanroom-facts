@@ -142,13 +142,13 @@
 
 ### ML-012　下書き（出典の照合前）
 
-> 本態性血小板血症のIPSET-thrombosisは、血栓症の既往2点、JAK2 V617F変異2点、60歳超1点、心血管リスク因子1点の合計点で血栓症リスクを低・中間・高の3群に分けるスコアであり、血栓発症率は低リスク群で年1.03%、高リスク群で年2.35%であった。
+> 本態性血小板血症のIPSET-thrombosisは、血栓症の既往2点、JAK2 V617F変異2点、60歳超1点、心血管リスク因子1点の合計点で血栓症リスクを低（2点未満）・中間（2点）・高（3点以上）の3群に分けるスコアであり、血栓発症率は低リスク群で年1.03%、中間リスク群で年2.35%、高リスク群で年3.56%であった。
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：WHO定義の本態性血小板血症891例に基づく原著の抄録で確認した内容であり、配点も抄録の記載に基づく。
 - 出典：Barbui T, Finazzi G, Carobbio A, et al. Development and validation of an International Prognostic Score of thrombosis in World Health Organization-essential thrombocythemia (IPSET-thrombosis). Blood. 2012;120(26):5128-5133.　[DOI 10.1182/blood-2012-07-444067](https://doi.org/10.1182/blood-2012-07-444067)　[PMID 23033268](https://pubmed.ncbi.nlm.nih.gov/23033268/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-2-B-④（本態性血小板血症、b）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；PS-02-02-02 (id: JkxnuPQ)；TBL-01-00-626 (id: Jlvnmak)；TBL-02-01-021 (id: JlAKpW0)；TBL-02-01-015 (id: JlAKpWY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ML-012&card_id=ML-012&version=797e7c33a2)　（版 `797e7c33a2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ML-012&card_id=ML-012&version=3e59be70c7)　（版 `3e59be70c7`）
 
 ### ML-013　下書き（出典の照合前）
 
@@ -160,7 +160,7 @@
 - 出題基準：医学各論 Ⅶ-2-B-④（本態性血小板血症、b）　コアカリ：PS-02-02-05 (id: JkxnuPc)；PS-02-02-03 (id: JkxnuPU)；TBL-01-00-626 (id: Jlvnmak)；TBL-02-01-015 (id: JlAKpWY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ML-013&card_id=ML-013&version=fce202fb61)　（版 `fce202fb61`）
 
-**[ここまでの 2 件（ML-012〜ML-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ML-012%E3%80%9CML-013&cards=ML-012%20797e7c33a2%0AML-013%20fce202fb61)**
+**[ここまでの 2 件（ML-012〜ML-013）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ML-012%E3%80%9CML-013&cards=ML-012%203e59be70c7%0AML-013%20fce202fb61)**
 
 ---
 
