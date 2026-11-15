@@ -2021,3 +2021,73 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+- id: EY-062
+  domain: EY
+  subdomain: 緑内障の病型（開放隅角・閉塞隅角）
+  assertion:
+    plain_statement_ja: 開放隅角緑内障では、目の中の液体（房水）の排出が追いつかずに眼圧が徐々に上がり、時間をかけて視神経が障害されるため、視力が落ちるまで自覚症状がないことが多い。閉塞隅角緑内障では、虹彩の外側の縁が房水の出口をふさぐため眼圧が急に上がり、強い眼痛・吐き気・充血・かすみ目を伴う発作は緊急の治療を要する。閉塞隅角緑内障でも、ゆっくり進む型では症状が出ないことがある。
+    condition:
+      region: 国際
+      対象: 成人
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-5032
+    source: National Eye Institute. Types of Glaucoma. NEI Eye Health Information（ウェブページ、最終更新 2024-12-05）https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/glaucoma/types-glaucoma
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/glaucoma/types-glaucoma
+    source_license: 米国連邦政府著作物
+    legal_basis: B
+    source_class: GOV_US
+    corroboration: null
+  uncertainty: 米国国立眼研究所の一般向け解説で確認した範囲である。出典は「隅角」「線維柱帯」という語を使わずに、房水の排出と出口の閉塞として説明しており、線維柱帯での流出抵抗の詳細はカードに含めない。病型ごとの頻度は EY-028（日本）を参照。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-494 (id: JlvnmN8)'
+    kokushi: 医学各論 Ⅲ-5-D-②（緑内障、a）
+  publication_info:
+    created: '2026-11-16'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-16'
+    by: claude-code
+    change: 新規登録：動画 GLA_001 の依頼（モコ）にもとづく。三原の承認（2026-11-16）、proposals/video_requests/GLA_001_EY062_063_draft.md
+- id: EY-063
+  domain: EY
+  subdomain: 緑内障と薬剤（抗コリン薬）
+  assertion:
+    plain_statement_ja: 抗コリン作用のある薬剤は眼圧を上げて緑内障を悪化させることがあり、隅角が狭く閉塞しやすい眼では、散瞳に伴う瞳孔ブロックと隅角の閉塞により急性閉塞隅角発作の引き金になりうる。国内では2019年の厚生労働省の通知で、抗コリン作用を持つ薬剤（眼科用剤を除く）の禁忌が「緑内障」から「閉塞隅角緑内障」に改められ、開放隅角緑内障の患者は禁忌から外れて慎重に投与する対象（新しい記載要領では「合併症・既往歴等のある患者」）になった。
+    condition:
+      region: 日本（制度部分）／国際（機序）
+      対象: 成人
+    differential: null
+    common_misconception: 開放隅角緑内障なら抗コリン薬は問題なく使える（誤り。禁忌ではないが、眼圧が上がることがあるため慎重投与の対象である）。
+  provenance:
+    source_ref: SRC-5033
+    source: 厚生労働省医薬・生活衛生局医薬安全対策課長. 抗コリン作用を有する薬剤における禁忌「緑内障」等に係る添付文書の「使用上の注意」改訂について（薬生安発0618第2号、令和元年6月18日）https://www.mhlw.go.jp/content/11120000/000518522.pdf
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/11120000/000518522.pdf
+    source_license: 政府標準利用規約（厚生労働省ホームページ）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: 審議の経緯と、開放隅角を慎重投与に残す理由（狭い開放隅角では閉塞の危険を否定できない）は SRC-5034（厚労省の調査会資料、厚労省自身の記載に限る、GOV_JP）。散瞳・瞳孔ブロック・隅角閉塞という機序と、浅い前房・短眼軸・女性・アジア人・高齢などの素因は SRC-5035（Yang MC, Lin KY. J Curr Glaucoma Pract. 2019;13(3):104-109、RESTRICTED、事実のみ使用）
+  uncertainty: 個別の薬剤名は記載していないため、個別薬剤の国内承認・保険適用の確認は対象外である。個々の製剤の添付文書は根拠にしていない。2019年の通知が対象としたのは、抗コリン作用を理由に禁忌を設けていた薬剤である。
+  curriculum:
+    core_curriculum: 'PS-02-15-05 (id: JkxnuTU)；TBL-01-00-494 (id: JlvnmN8)'
+    kokushi: 医学各論 Ⅲ-5-D-②（緑内障、a）
+  publication_info:
+    created: '2026-11-16'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-16'
+    by: claude-code
+    change: 新規登録：動画 GLA_001 の依頼（モコ）にもとづく。三原の承認（2026-11-16）、proposals/video_requests/GLA_001_EY062_063_draft.md

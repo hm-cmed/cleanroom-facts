@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-15
 
-全 56 件のうち、監修済み 0 件。
+全 58 件のうち、監修済み 0 件。
 
 ## 眼球の構造と機能
 
@@ -783,6 +783,39 @@
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-060&card_id=EY-060&version=86e9c0b56a)　（版 `86e9c0b56a`）
 
 **[ここまでの 1 件（EY-060）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-060&cards=EY-060%2086e9c0b56a)**
+
+---
+
+## 緑内障の病型（開放隅角・閉塞隅角）
+
+### EY-062　下書き（出典の照合前）
+
+> 開放隅角緑内障では、目の中の液体（房水）の排出が追いつかずに眼圧が徐々に上がり、時間をかけて視神経が障害されるため、視力が落ちるまで自覚症状がないことが多い。閉塞隅角緑内障では、虹彩の外側の縁が房水の出口をふさぐため眼圧が急に上がり、強い眼痛・吐き気・充血・かすみ目を伴う発作は緊急の治療を要する。閉塞隅角緑内障でも、ゆっくり進む型では症状が出ないことがある。
+
+- 条件：region: 国際／対象: 成人
+- 不確実性：米国国立眼研究所の一般向け解説で確認した範囲である。出典は「隅角」「線維柱帯」という語を使わずに、房水の排出と出口の閉塞として説明しており、線維柱帯での流出抵抗の詳細はカードに含めない。病型ごとの頻度は EY-028（日本）を参照。
+- 出典：National Eye Institute. Types of Glaucoma. NEI Eye Health Information（ウェブページ、最終更新 2024-12-05）https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/glaucoma/types-glaucoma　[リンク](https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/glaucoma/types-glaucoma)（区分 GOV_US）
+- 出題基準：医学各論 Ⅲ-5-D-②（緑内障、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-494 (id: JlvnmN8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-062&card_id=EY-062&version=fce9e8f866)　（版 `fce9e8f866`）
+
+**[ここまでの 1 件（EY-062）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-062&cards=EY-062%20fce9e8f866)**
+
+---
+
+## 緑内障と薬剤（抗コリン薬）
+
+### EY-063　下書き（出典の照合前）
+
+> 抗コリン作用のある薬剤は眼圧を上げて緑内障を悪化させることがあり、隅角が狭く閉塞しやすい眼では、散瞳に伴う瞳孔ブロックと隅角の閉塞により急性閉塞隅角発作の引き金になりうる。国内では2019年の厚生労働省の通知で、抗コリン作用を持つ薬剤（眼科用剤を除く）の禁忌が「緑内障」から「閉塞隅角緑内障」に改められ、開放隅角緑内障の患者は禁忌から外れて慎重に投与する対象（新しい記載要領では「合併症・既往歴等のある患者」）になった。
+
+- 条件：region: 日本（制度部分）／国際（機序）／対象: 成人
+- よくある誤解：開放隅角緑内障なら抗コリン薬は問題なく使える（誤り。禁忌ではないが、眼圧が上がることがあるため慎重投与の対象である）。
+- 不確実性：個別の薬剤名は記載していないため、個別薬剤の国内承認・保険適用の確認は対象外である。個々の製剤の添付文書は根拠にしていない。2019年の通知が対象としたのは、抗コリン作用を理由に禁忌を設けていた薬剤である。
+- 出典：厚生労働省医薬・生活衛生局医薬安全対策課長. 抗コリン作用を有する薬剤における禁忌「緑内障」等に係る添付文書の「使用上の注意」改訂について（薬生安発0618第2号、令和元年6月18日）https://www.mhlw.go.jp/content/11120000/000518522.pdf　[リンク](https://www.mhlw.go.jp/content/11120000/000518522.pdf)（区分 GOV_JP）
+- 出題基準：医学各論 Ⅲ-5-D-②（緑内障、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-494 (id: JlvnmN8)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-063&card_id=EY-063&version=f2477971d9)　（版 `f2477971d9`）
+
+**[ここまでの 1 件（EY-063）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EY-063&cards=EY-063%20f2477971d9)**
 
 ---
 

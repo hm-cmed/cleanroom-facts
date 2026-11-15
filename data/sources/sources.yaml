@@ -37527,3 +37527,63 @@
   pmid: '42558877'
   source_class: OPEN
   title: Yang ST, Wang ZW. Neuroimmunological overlap syndromes in optic neuritis, myelitis, and connective tissue diseases. Front Neurol. 2026;17:1887536
+- id: SRC-5032
+  legacy_id: null
+  title: National Eye Institute. Types of Glaucoma. NEI Eye Health Information（ウェブページ、最終更新 2024-12-05）https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/glaucoma/types-glaucoma
+  citation: National Eye Institute. Types of Glaucoma. NEI Eye Health Information（ウェブページ、最終更新 2024-12-05）https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/glaucoma/types-glaucoma
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府著作物（NEI/NIH の作成、第三者の表記なし、2026-11-16 確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-11-16'
+    by: claude-code
+    change: 登録：動画 GLA_001 の依頼（モコ）に対する新規カード EY-062・EY-063 の出典。三原の承認（2026-11-16）、proposals/video_requests/GLA_001_EY062_063_draft.md
+- id: SRC-5033
+  legacy_id: null
+  title: 厚生労働省医薬・生活衛生局医薬安全対策課長. 抗コリン作用を有する薬剤における禁忌「緑内障」等に係る添付文書の「使用上の注意」改訂について（薬生安発0618第2号、令和元年6月18日）https://www.mhlw.go.jp/content/11120000/000518522.pdf
+  citation: 厚生労働省医薬・生活衛生局医薬安全対策課長. 抗コリン作用を有する薬剤における禁忌「緑内障」等に係る添付文書の「使用上の注意」改訂について（薬生安発0618第2号、令和元年6月18日）https://www.mhlw.go.jp/content/11120000/000518522.pdf
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）。厚労省自身の通知、権利表記なし（2026-11-16 確認）。要約して使用
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-16'
+    by: claude-code
+    change: 登録：動画 GLA_001 の依頼（モコ）に対する新規カード EY-062・EY-063 の出典。三原の承認（2026-11-16）、proposals/video_requests/GLA_001_EY062_063_draft.md
+- id: SRC-5034
+  legacy_id: null
+  title: 厚生労働省. 令和元年度第3回薬事・食品衛生審議会薬事分科会医薬品等安全対策部会安全対策調査会 資料2「抗コリン作用を有する薬剤における禁忌『緑内障』等に係る『使用上の注意』の改訂について」（令和元年5月31日）https://www.mhlw.go.jp/content/11121000/000519058.pdf
+  citation: 厚生労働省. 令和元年度第3回薬事・食品衛生審議会薬事分科会医薬品等安全対策部会安全対策調査会 資料2「抗コリン作用を有する薬剤における禁忌『緑内障』等に係る『使用上の注意』の改訂について」（令和元年5月31日）https://www.mhlw.go.jp/content/11121000/000519058.pdf
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）。使うのは厚労省自身の記載だけで、添付の日本眼科学会の回答文や引用文献の文章は使わない。要約して使用
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-16'
+    by: claude-code
+    change: 登録：動画 GLA_001 の依頼（モコ）に対する新規カード EY-062・EY-063 の出典。三原の承認（2026-11-16）、proposals/video_requests/GLA_001_EY062_063_draft.md
+- id: SRC-5035
+  legacy_id: null
+  title: 'Yang MC, Lin KY. Drug-induced Acute Angle-closure Glaucoma: A Review. J Curr Glaucoma Pract. 2019;13(3):104-109.'
+  citation: 'Yang MC, Lin KY. Drug-induced Acute Angle-closure Glaucoma: A Review. J Curr Glaucoma Pract. 2019;13(3):104-109.'
+  doi: 10.5005/jp-journals-10078-1261
+  pmid: '32435123'
+  pmcid: PMC7221246
+  license_note: PMC 版の本文は「CC BY 4.0」と書くがリンク先は CC BY-NC 4.0 で食い違うため、制限の強い側に合わせて RESTRICTED（2026-11-16 確認）。事実のみ使用
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-16'
+    by: claude-code
+    change: 登録：動画 GLA_001 の依頼（モコ）に対する新規カード EY-062・EY-063 の出典。識別子は依頼者の PubMed API 確認と PMC のページの表示によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-16）、proposals/video_requests/GLA_001_EY062_063_draft.md
