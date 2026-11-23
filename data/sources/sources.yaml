@@ -37587,3 +37587,198 @@
   - date: '2026-11-16'
     by: claude-code
     change: 登録：動画 GLA_001 の依頼（モコ）に対する新規カード EY-062・EY-063 の出典。識別子は依頼者の PubMed API 確認と PMC のページの表示によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-16）、proposals/video_requests/GLA_001_EY062_063_draft.md
+- id: SRC-5101
+  legacy_id: null
+  title: 文部科学省. 医学／歯学教育モデル・コア・カリキュラム（令和4年度改訂版）. 2022年11月
+  citation: 文部科学省. 医学／歯学教育モデル・コア・カリキュラム（令和4年度改訂版）. 2022年11月
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（文部科学省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+- id: SRC-5102
+  legacy_id: null
+  title: 医師法（昭和23年法律第201号、令和3年法律第49号による改正を含む現行法）
+  citation: 医師法（昭和23年法律第201号、令和3年法律第49号による改正を含む現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+- id: SRC-5103
+  legacy_id: null
+  title: 厚生労働省 医道審議会医師分科会. シームレスな医師養成に向けた共用試験の公的化といわゆるStudent Doctorの法的位置づけについて（報告書）. 令和2年5月
+  citation: 厚生労働省 医道審議会医師分科会. シームレスな医師養成に向けた共用試験の公的化といわゆるStudent Doctorの法的位置づけについて（報告書）. 令和2年5月
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+- id: SRC-5104
+  legacy_id: null
+  title: 日本医師会. 特別寄稿「全国の医学生が受験する『共用試験』」. 日医 on-line
+  citation: 日本医師会. 特別寄稿「全国の医学生が受験する『共用試験』」. 日医 on-line
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © 日本医師会（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+- id: SRC-5105
+  legacy_id: null
+  title: 厚生労働省 医道審議会医師分科会医師臨床研修部会. 報告書 ―医師臨床研修制度の見直しについて―. 令和6年3月25日
+  citation: 厚生労働省 医道審議会医師分科会医師臨床研修部会. 報告書 ―医師臨床研修制度の見直しについて―. 令和6年3月25日
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+- id: SRC-5106
+  legacy_id: null
+  title: 厚生労働省. 臨床研修の到達目標、方略及び評価（令和2年度研修から適用）
+  citation: 厚生労働省. 臨床研修の到達目標、方略及び評価（令和2年度研修から適用）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+- id: SRC-5107
+  legacy_id: null
+  title: 厚生労働省. 医師臨床研修指導ガイドライン ―2023年度版―（2023年11月一部改訂）
+  citation: 厚生労働省. 医師臨床研修指導ガイドライン ―2023年度版―（2023年11月一部改訂）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+- id: SRC-5108
+  legacy_id: null
+  title: Miller GE. The assessment of clinical skills/competence/performance. Acad Med. 1990;65(9 Suppl):S63-7
+  citation: Miller GE. The assessment of clinical skills/competence/performance. Acad Med. 1990;65(9 Suppl):S63-7
+  doi: 10.1097/00001888-199009000-00045
+  pmid: '2400509'
+  pmcid: null
+  license_note: © Association of American Medical Colleges（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+- id: SRC-5109
+  legacy_id: null
+  title: ten Cate O. Entrustability of professional activities and competency-based training. Med Educ. 2005;39(12):1176-1177
+  citation: ten Cate O. Entrustability of professional activities and competency-based training. Med Educ. 2005;39(12):1176-1177
+  doi: 10.1111/j.1365-2929.2005.02341.x
+  pmid: '16313574'
+  pmcid: null
+  license_note: © Wiley（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+- id: SRC-5110
+  legacy_id: null
+  title: 'ten Cate O, Hennus MP, Slattery N, López MJ, Sternszus R. Entrustable professional activities, entrustment, and the conceptualization of competence in the health professions. In: Entrustable Professional Activities and Entrustment Decision-Making in Health Professions Education. Ubiquity Press; 2024'
+  citation: 'ten Cate O, Hennus MP, Slattery N, López MJ, Sternszus R. Entrustable professional activities, entrustment, and the conceptualization of competence in the health professions. In: Entrustable Professional Activities and Entrustment Decision-Making in Health Professions Education. Ubiquity Press; 2024'
+  doi: 10.5334/bdc.b
+  pmid: null
+  pmcid: null
+  license_note: CC BY 4.0（Crossref の license 欄）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+- id: SRC-5111
+  legacy_id: null
+  title: Ende J. Feedback in clinical medical education. JAMA. 1983;250(6):777-781
+  citation: Ende J. Feedback in clinical medical education. JAMA. 1983;250(6):777-781
+  doi: null
+  pmid: '6876333'
+  pmcid: null
+  license_note: © American Medical Association（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+- id: SRC-5112
+  legacy_id: null
+  title: McGaghie WC, Issenberg SB, Cohen ER, Barsuk JH, Wayne DB. Does simulation-based medical education with deliberate practice yield better results than traditional clinical education? A meta-analytic comparative review of the evidence. Acad Med. 2011;86(6):706-711
+  citation: McGaghie WC, Issenberg SB, Cohen ER, Barsuk JH, Wayne DB. Does simulation-based medical education with deliberate practice yield better results than traditional clinical education? A meta-analytic comparative review of the evidence. Acad Med. 2011;86(6):706-711
+  doi: 10.1097/ACM.0b013e318217e119
+  pmid: '21512370'
+  pmcid: null
+  license_note: © Association of American Medical Colleges（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+- id: SRC-5113
+  legacy_id: null
+  title: 'ABIM Foundation, ACP-ASIM Foundation, European Federation of Internal Medicine. Medical professionalism in the new millennium: a physician charter. Ann Intern Med. 2002;136(3):243-246'
+  citation: 'ABIM Foundation, ACP-ASIM Foundation, European Federation of Internal Medicine. Medical professionalism in the new millennium: a physician charter. Ann Intern Med. 2002;136(3):243-246'
+  doi: 10.7326/0003-4819-136-3-200202050-00012
+  pmid: '11827500'
+  pmcid: null
+  license_note: © American College of Physicians（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md の出典マスター表から

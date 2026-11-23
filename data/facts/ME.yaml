@@ -1,0 +1,315 @@
+- id: ME-001
+  domain: ME
+  subdomain: 制度
+  assertion:
+    plain_statement_ja: 医学教育モデル・コア・カリキュラムは、各大学が策定するカリキュラムのうち全大学で共通して取り組むべき「コア」の部分を抽出し、モデルとして体系的に整理したもので、学生の学修時間数の3分の2程度を目安とする。令和4年度改訂版（令和4年11月改訂）は令和6年度から令和11年度までの入学生に適用され、医師として求められる基本的な資質・能力を10項目（プロフェッショナリズム、総合的に患者・生活者をみる姿勢、生涯にわたって共に学ぶ姿勢、科学的探究、専門知識に基づいた問題解決能力、情報・科学技術を活かす能力、患者ケアのための診療技能、コミュニケーション能力、多職種連携能力、社会における医療の役割の理解）とした。同改訂版に収載された診療参加型臨床実習実施ガイドラインでは、必ず経験すべき診療科として内科・外科・小児科・産婦人科・精神科・総合診療科・救急科を挙げ、救急科を除く6科は原則として1診療科当たり連続3週間以上、救急科は原則3週間以上（またはそれに相当する期間）の実習を行うこととしている。
+    condition:
+      region: 日本
+      対象: 医学生（医学部の学生）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-5101
+    source: 文部科学省. 医学／歯学教育モデル・コア・カリキュラム（令和4年度改訂版）. 2022年11月
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://iryou-kinmukankyou.mhlw.go.jp/files/Attachment/452/%EF%BC%92%20%E3%80%90%E6%96%87%E9%83%A8%E7%A7%91%E5%AD%A6%E7%9C%81%E3%80%91%E5%8C%BB%E5%AD%A6%E6%95%99%E8%82%B2%E3%83%A2%E3%83%87%E3%83%AB%E3%83%BB%E3%82%B3%E3%82%A2%E3%83%BB%E3%82%AB%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%A0%E6%94%B9%E8%A8%82%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf_safe.pdf
+    source_license: 政府標準利用規約（文部科学省ホームページ）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: null
+  uncertainty: 出典内の位置：資質・能力の10項目は第1章、診療参加型臨床実習の診療科と期間は診療参加型臨床実習実施ガイドラインの記載。内容は文部科学省の改訂説明資料およびモデル・コア・カリキュラム改訂に関する連絡調整委員会の資料で照合した。provenance の URL は確認に用いた改訂説明資料（厚生労働省のサイトに掲載された文部科学省資料）を指す。本文そのものは医学・歯学共通の文書だが、本カードは医学部分のみを扱う。歯学・薬学・看護学の各コア・カリキュラムは対象外（第2弾以降）。
+  curriculum:
+    kokushi: null
+    core_curriculum: null
+  publication_info:
+    created: '2026-11-23'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+- id: ME-002
+  domain: ME
+  subdomain: 制度
+  assertion:
+    plain_statement_ja: 2021年の医師法改正（令和3年法律第49号）により、共用試験は公的な位置づけを得た。共用試験は、医学生が臨床実習を開始する前に修得すべき知識・技能を備えているかどうかを評価するために大学が共用する試験で、厚生労働省令で定めるものとされる。共用試験に合格した医学生は、大学が行う臨床実習において、医師の指導監督の下に、知識・技能の修得のために医業（政令で定めるものを除く）を行うことができる（医師法第17条の2、いわゆるStudent Doctorの規定で、2023年4月1日施行）。また2025年4月1日からは、医師国家試験の受験資格として、大学の医学の正規の課程を修めて卒業した者に共用試験への合格が要件として加わった（同法第11条第1号）。施行前に共用試験に相当する試験に合格した者を合格とみなす経過措置が政令で定められている。
+    condition:
+      region: 日本
+      対象: 医学生（共用試験に合格した医学部の学生）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-5102
+    source: 医師法（昭和23年法律第201号、令和3年法律第49号による改正を含む現行法）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://laws.e-gov.go.jp/law/323AC0000000201
+    source_license: 法令（著作権法13条により権利の目的とならない）
+    legal_basis: C
+    source_class: GOV_JP
+    corroboration: 共用試験の公的化とStudent Doctorの法的位置づけは、SRC-5103（厚生労働省 医道審議会医師分科会報告書、令和2年5月、GOV_JP）の提言に基づく改正である
+  uncertainty: 出典内の位置：共用試験の定義と受験資格は第11条第1号、Student Doctorは第17条の2。施行時期（第17条の2は令和5年4月1日、第11条の要件追加は令和7年4月1日）と経過措置は、改正法の経過措置を定める政令の概要資料で確認した。共用試験の実施機関を厚生労働大臣の指定する機関とする省令上の定めは、本カードの主張に含めていない。歯科医師法にも並行する仕組みがあるが、本カードは医師（医学）の制度を扱う。
+  curriculum:
+    kokushi: null
+    core_curriculum: null
+  publication_info:
+    created: '2026-11-23'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+- id: ME-003
+  domain: ME
+  subdomain: 制度
+  assertion:
+    plain_statement_ja: 臨床実習前OSCE（Pre-CC OSCE）は、医学生が診療参加型臨床実習を始める前に、医療面接や身体各部の診察などの技能・態度が一定水準に達しているかを、模擬患者やシミュレーターを用いたステーション形式で評価する試験で、その結果は臨床実習開始の可否の判定に用いられる。課題は6課題が必須で、医療面接（10分）と、その他の課題（各5分）からなる。2023年度からは、共用試験CBTとともに、医師法に基づく共用試験の一部として公的に位置づけられている。これに対し、臨床実習後OSCE（Post-CC OSCE）は臨床実習を終えた6年生を対象に2020年から全国で実施され、ある症候をもつ患者への医療面接・身体診察・臨床推論と指導医への報告を1つの試験室で行う課題で、実施機関が用意する3課題に各大学の独自課題1〜3課題を加えて実施され、結果は卒業判定の資料となる。
+    condition:
+      region: 日本
+      対象: 医学生（医学部の学生）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-5103
+    source: 厚生労働省 医道審議会医師分科会. シームレスな医師養成に向けた共用試験の公的化といわゆるStudent Doctorの法的位置づけについて（報告書）. 令和2年5月
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/10803000/000672617.pdf
+    source_license: 政府標準利用規約（厚生労働省ホームページ）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: 課題数・時間・Post-CC OSCEの実施形態の細部は SRC-5104（日本医師会「日医 on-line」特別寄稿、RESTRICTED、事実のみ使用）で確認した
+  uncertainty: 出典内の位置：臨床実習前OSCEとCBTの公的化は報告書の検討項目（2）。provenance の URL は厚生労働省が公表した報告書概要を指す。Pre-CC OSCEの開始年度は資料により表記が異なる（報告書案では平成17年、日医寄稿では2006年度）ため主張に含めていない。Post-CC OSCEは医師法に基づく共用試験には含まれず、卒業判定の資料として各大学で用いられる位置づけである。課題数等の細部は日医寄稿に基づくため、実施機関（医療系大学間共用試験実施評価機構）の現行の実施要項での再確認が望ましい。
+  curriculum:
+    kokushi: null
+    core_curriculum: null
+  publication_info:
+    created: '2026-11-23'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+- id: ME-004
+  domain: ME
+  subdomain: 制度
+  assertion:
+    plain_statement_ja: 診療に従事しようとする医師は、2年以上、都道府県知事の指定する病院等において臨床研修を受けなければならない（医師法第16条の2第1項）。臨床研修は、1968年の制度創設以来、受けるよう努めるものとする努力義務であったが、2000年の医師法改正により義務化され、2004年度から必修の制度として開始された。その後、制度は概ね5年ごとに到達目標や臨床研修病院の在り方等の見直しが行われてきている。
+    condition:
+      region: 日本
+      対象: 医師（臨床研修を受ける医師）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-5102
+    source: 医師法（昭和23年法律第201号、令和3年法律第49号による改正を含む現行法）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://laws.e-gov.go.jp/law/323AC0000000201
+    source_license: 法令（著作権法13条により権利の目的とならない）
+    legal_basis: C
+    source_class: GOV_JP
+    corroboration: 必修化の経緯（平成12年改正・平成16年度開始）と、概ね5年ごとの見直しの経過は SRC-5105（厚生労働省 医道審議会医師分科会医師臨床研修部会報告書、令和6年3月、GOV_JP）でも述べられている
+  uncertainty: 出典内の位置：臨床研修の義務は第16条の2第1項。「概ね5年ごとの見直し」は厚労省の医師臨床研修部会報告書（SRC-5105）の記述によるもので、見直しの周期を直接定めた法令の条文は今回確認できなかった（制度解説の中には法令に定めるとする記述もある）。1968年当時の努力義務の根拠条文の逐語確認はしていない。
+  curriculum:
+    kokushi: null
+    core_curriculum: null
+  publication_info:
+    created: '2026-11-23'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+- id: ME-005
+  domain: ME
+  subdomain: 制度
+  assertion:
+    plain_statement_ja: 医師臨床研修の到達目標は、2020年度の研修から適用される「臨床研修の到達目標、方略及び評価」に定められ、A. 医師としての基本的価値観（プロフェッショナリズム）4項目、B. 資質・能力9項目、C. 基本的診療業務4項目の3部で構成される。AとBの項目は、卒前の医学教育モデル・コア・カリキュラムの資質・能力とほぼ共通している。Cは臨床研修に固有の部分で、コンサルテーションや医療連携が可能な状況下で、一般外来診療・病棟診療・初期救急対応・地域医療を単独で行えることが2年間の目標とされる。達成度の評価は、各分野・診療科のローテーション終了時に研修医評価票を用いて行う評価と、2年間の研修終了時に行う総括的な判定を組み合わせて行われ、その運用の指針として「医師臨床研修指導ガイドライン」が示されている。
+    condition:
+      region: 日本
+      対象: 医師（初期臨床研修医）
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-5106
+    source: 厚生労働省. 臨床研修の到達目標、方略及び評価（令和2年度研修から適用）
+    doi: null
+    pmid: null
+    pmcid: null
+    url: https://www.mhlw.go.jp/content/10800000/000341137.pdf
+    source_license: 政府標準利用規約（厚生労働省ホームページ）
+    legal_basis: B
+    source_class: GOV_JP
+    corroboration: 到達目標の運用の指針として SRC-5107（厚生労働省「医師臨床研修指導ガイドライン ―2023年度版―」、GOV_JP）が示されている
+  uncertainty: 出典内の位置：到達目標の構成と項目名は「I 到達目標」、評価の仕組みは「III 到達目標の達成度評価」の記載。Aの4項目は、社会的使命と公衆衛生への寄与、利他的な態度、人間性の尊重、自らを高める姿勢。Bの9項目は、医学・医療における倫理性、医学知識と問題対応能力、診療技能と患者ケア、コミュニケーション能力、チーム医療の実践、医療の質と安全の管理、社会における医療の実践、科学的探究、生涯にわたって共に学ぶ姿勢。指導ガイドラインは2023年度版（2023年11月一部改訂）が今回確認した最新の版である。
+  curriculum:
+    kokushi: null
+    core_curriculum: null
+  publication_info:
+    created: '2026-11-23'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+- id: ME-006
+  domain: ME
+  subdomain: 評価
+  assertion:
+    plain_statement_ja: Millerのピラミッドは、臨床能力の評価を4つの階層で整理する枠組みである。下位から、知識を持つ段階（knows）、知識を使って説明や問題への対応ができる段階（knows how）、模擬的な場面で実際にやって見せられる段階（shows how）、日常の診療現場で実際に行う段階（does）とされ、どの階層を評価するかによって適した評価方法が異なる。筆記試験のような方法は下位の階層の評価に適し、上位の階層には、模擬場面での観察評価や診療現場での直接観察が必要になるとされる。
+    condition:
+      region: 国際
+      対象: 教育者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-5108
+    source: Miller GE. The assessment of clinical skills/competence/performance. Acad Med. 1990;65(9 Suppl):S63-7
+    doi: 10.1097/00001888-199009000-00045
+    pmid: '2400509'
+    pmcid: null
+    url: https://doi.org/10.1097/00001888-199009000-00045
+    source_license: © Association of American Medical Colleges（Academic Medicine、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: 令和4年度改訂版の医学教育モデル・コア・カリキュラム（SRC-5101、GOV_JP）第3章でも、学修者評価の重要な概念の一つとしてMillerのピラミッドが紹介されている
+  uncertainty: 原著は抄録が公開されておらず本文は購読制のため、主張は4層の名称（概念名）と階層の考え方、および評価方法との対応の方向性に限定し、自作の文で記載した。原著の図表は転載していない。
+  curriculum:
+    kokushi: null
+    core_curriculum: null
+  publication_info:
+    created: '2026-11-23'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+- id: ME-007
+  domain: ME
+  subdomain: 評価
+  assertion:
+    plain_statement_ja: EPA（Entrustable Professional Activities、信頼して任せられる専門的活動）は、学習者に監督なしで任せられるかどうかで判断される、具体的な診療活動の単位である。コンピテンシーが学習者の資質・能力を抽象的に表すのに対し、EPAは日常の診療で行われる活動そのものを単位とし、指導者は学習者の能力を見て、どの程度の監督のもとでその活動を任せるかを判断する。この「任せられるか」という判断（entrustment）を評価の中心に置くことで、資質・能力の評価を、臨床現場での実際の業務の委任に結びつける考え方として提案された。
+    condition:
+      region: 国際
+      対象: 教育者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-5109
+    source: ten Cate O. Entrustability of professional activities and competency-based training. Med Educ. 2005;39(12):1176-1177
+    doi: 10.1111/j.1365-2929.2005.02341.x
+    pmid: '16313574'
+    pmcid: null
+    url: https://doi.org/10.1111/j.1365-2929.2005.02341.x
+    source_license: © Wiley（Medical Education、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: EPAとentrustmentの概念は SRC-5110（ten Cate O, et al. 2024年の解説書の章、CC BY 4.0）でも同じ内容で解説されている
+  uncertainty: 原著（2005年）は2ページの論説で抄録が公開されていないため、概念の説明はCC BYで公開された2024年の解説（SRC-5110）の範囲で裏づけ、自作の文で記載した。監督レベルの段階分けなど、原著以降の文献で展開された細部は本カードに含めていない。
+  curriculum:
+    kokushi: null
+    core_curriculum: null
+  publication_info:
+    created: '2026-11-23'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+- id: ME-009
+  domain: ME
+  subdomain: 教育手法
+  assertion:
+    plain_statement_ja: 意図的練習（deliberate practice）を組み込んだシミュレーション基盤型の医学教育は、従来型の臨床教育と比べて、臨床技能の習得アウトカムで優れることがメタ解析で示されている。1990年から2010年までの文献を対象とし、組み入れ基準を満たした14件の研究を統合した結果、効果量は0.71（95%信頼区間 0.65〜0.76）で、シミュレーションと意図的練習を用いた教育の側が技能習得の目標達成で上回った。ただし統合された研究数は少なく、この教育法の導入に当たっては、各教育現場での十分な検討と厳密な評価が必要であると著者らは述べている。
+    condition:
+      region: 国際
+      対象: 教育者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-5112
+    source: McGaghie WC, Issenberg SB, Cohen ER, Barsuk JH, Wayne DB. Does simulation-based medical education with deliberate practice yield better results than traditional clinical education? A meta-analytic comparative review of the evidence. Acad Med. 2011;86(6):706-711
+    doi: 10.1097/ACM.0b013e318217e119
+    pmid: '21512370'
+    pmcid: null
+    url: https://doi.org/10.1097/ACM.0b013e318217e119
+    source_license: © Association of American Medical Colleges（Academic Medicine、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 数値（対象研究14件、効果量0.71、95%信頼区間0.65〜0.76）は原著の抄録で確認した。結論は技能習得のアウトカムに関するもので、知識や態度のアウトカム、費用対効果はこのメタ解析の結論の範囲外である。原著の文章は転載せず、数値と方向性のみを自作の文で記載した。
+  curriculum:
+    kokushi: null
+    core_curriculum: null
+  publication_info:
+    created: '2026-11-23'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+- id: ME-010
+  domain: ME
+  subdomain: 横断
+  assertion:
+    plain_statement_ja: '医師憲章（Medical professionalism in the new millennium: a physician charter）は、医師のプロフェッショナリズムを、患者の福利の最優先、患者の自律、社会正義の3つの基本原則と、それらに基づく10の職業的責務で定めた国際的な憲章である。10の責務には、専門的能力の維持、患者への誠実さ、患者の秘密の保持、患者との適切な関係の維持、医療の質の改善、医療へのアクセスの改善、限りある資源の公正な分配、科学的知識への責任、利益相反の管理による信頼の維持、専門職としての責任が含まれる。2002年に米国内科学会系の財団と欧州内科学会連合が共同で公表した。'
+    condition:
+      region: 国際
+      対象: 医学生および医師
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-5113
+    source: 'ABIM Foundation, ACP-ASIM Foundation, European Federation of Internal Medicine. Medical professionalism in the new millennium: a physician charter. Ann Intern Med. 2002;136(3):243-246'
+    doi: 10.7326/0003-4819-136-3-200202050-00012
+    pmid: '11827500'
+    pmcid: null
+    url: https://doi.org/10.7326/0003-4819-136-3-200202050-00012
+    source_license: © American College of Physicians（Annals of Internal Medicine、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 3原則と10の責務の構成は憲章の公表内容に基づく。本文は購読誌面のため逐語の確認はしておらず、定義文の翻訳は転載せず、自作の文で記載した。同じ憲章は Lancet 誌にも同時掲載された。本カードは、医学生が学ぶプロフェッショナリズムの内容として、コアカリ第1層の PR（プロフェッショナリズム）に対応づけた。
+  curriculum:
+    kokushi: null
+    core_curriculum: 'PR (id: JnGV10M)'
+  publication_info:
+    created: '2026-11-23'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md から（新形式。legal_basis・source_class は原本の値）
