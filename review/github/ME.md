@@ -22,7 +22,8 @@
 - 条件：region: 日本／対象: 医学生（共用試験に合格した医学部の学生）
 - 不確実性：出典内の位置：共用試験の定義と受験資格は第11条第1号、Student Doctorは第17条の2。施行時期（第17条の2は令和5年4月1日、第11条の要件追加は令和7年4月1日）と経過措置は、改正法の経過措置を定める政令の概要資料で確認した。共用試験の実施機関を厚生労働大臣の指定する機関とする省令上の定めは、本カードの主張に含めていない。歯科医師法にも並行する仕組みがあるが、本カードは医師（医学）の制度を扱う。
 - 出典：医師法（昭和23年法律第201号、令和3年法律第49号による改正を含む現行法）　[リンク](https://laws.e-gov.go.jp/law/323AC0000000201)（区分 GOV_JP）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-002&card_id=ME-002&version=e87c52bb91)　（版 `e87c52bb91`）
+- 出題基準：必修の基本的事項 2-A-①（医師法、-）　コアカリ：－
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-002&card_id=ME-002&version=b36eee865c)　（版 `b36eee865c`）
 
 ### ME-003　下書き（出典の照合前）
 
@@ -40,7 +41,8 @@
 - 条件：region: 日本／対象: 医師（臨床研修を受ける医師）
 - 不確実性：出典内の位置：臨床研修の義務は第16条の2第1項。「概ね5年ごとの見直し」は厚労省の医師臨床研修部会報告書（SRC-5105）の記述によるもので、見直しの周期を直接定めた法令の条文は今回確認できなかった（制度解説の中には法令に定めるとする記述もある）。1968年当時の努力義務の根拠条文の逐語確認はしていない。
 - 出典：医師法（昭和23年法律第201号、令和3年法律第49号による改正を含む現行法）　[リンク](https://laws.e-gov.go.jp/law/323AC0000000201)（区分 GOV_JP）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-004&card_id=ME-004&version=5fb84ee6ea)　（版 `5fb84ee6ea`）
+- 出題基準：必修の基本的事項 2-A-①（医師法、-）　コアカリ：－
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-004&card_id=ME-004&version=eab3de9525)　（版 `eab3de9525`）
 
 ### ME-005　下書き（出典の照合前）
 
@@ -58,7 +60,8 @@
 - 条件：region: 日本／対象: 医学生（医学部の学生）
 - 不確実性：数値（320問・6時間・設問形式の内訳）は、実施機関の関係者による2024年時点の公表解説に基づくもので、年度により変更されうる。2023年度の公的化の前後で、任意の共通試験から医師法に基づく法定の試験へ位置づけが変わり、2025年4月からは医師国家試験の受験資格にも共用試験の合格が位置づけられている（ME-002）。実施機関（CATO）の公式サイトの現行ガイドブックは今回直接取得できなかったため、機構関係者の公表解説と文部科学省の資料で代替確認した。指定試験機関に関する医師法施行規則の条文の逐語確認はしていない。歯学の共用試験CBTも並行して存在するが、本カードは医学の制度を扱う。
 - 出典：医師法（昭和23年法律第201号、令和3年法律第49号による改正を含む現行法）　[リンク](https://laws.e-gov.go.jp/law/323AC0000000201)（区分 GOV_JP）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-011&card_id=ME-011&version=cdb34dd37a)　（版 `cdb34dd37a`）
+- 出題基準：必修の基本的事項 2-A-①（医師法、-）　コアカリ：－
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-011&card_id=ME-011&version=07e8eefd9c)　（版 `07e8eefd9c`）
 
 ### ME-020　下書き（出典の照合前）
 
@@ -78,7 +81,7 @@
 - 出典：厚生労働省. 令和8年度の医師臨床研修マッチング結果をお知らせします（報道発表資料）. 2026年10月22日　[リンク](https://www.mhlw.go.jp/stf/houdou/0000180824_00012.html)（区分 GOV_JP）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-021&card_id=ME-021&version=918f5f9b7d)　（版 `918f5f9b7d`）
 
-**[ここまでの 8 件（ME-001〜ME-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-001%E3%80%9CME-021&cards=ME-001%2066f2fa43ce%0AME-002%20e87c52bb91%0AME-003%20648a59517f%0AME-004%205fb84ee6ea%0AME-005%20380f1ad69a%0AME-011%20cdb34dd37a%0AME-020%20533fb7a54c%0AME-021%20918f5f9b7d)**
+**[ここまでの 8 件（ME-001〜ME-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-001%E3%80%9CME-021&cards=ME-001%2066f2fa43ce%0AME-002%20b36eee865c%0AME-003%20648a59517f%0AME-004%20eab3de9525%0AME-005%20380f1ad69a%0AME-011%2007e8eefd9c%0AME-020%20533fb7a54c%0AME-021%20918f5f9b7d)**
 
 ---
 
@@ -193,8 +196,8 @@
 - 条件：region: 国際／対象: 医学生および医師
 - 不確実性：3原則と10の責務の構成は憲章の公表内容に基づく。本文は購読誌面のため逐語の確認はしておらず、定義文の翻訳は転載せず、自作の文で記載した。同じ憲章は Lancet 誌にも同時掲載された。本カードは、医学生が学ぶプロフェッショナリズムの内容として、コアカリ第1層の PR（プロフェッショナリズム）に対応づけた。
 - 出典：ABIM Foundation, ACP-ASIM Foundation, European Federation of Internal Medicine. Medical professionalism in the new millennium: a physician charter. Ann Intern Med. 2002;136(3):243-246　[DOI 10.7326/0003-4819-136-3-200202050-00012](https://doi.org/10.7326/0003-4819-136-3-200202050-00012)　[PMID 11827500](https://pubmed.ncbi.nlm.nih.gov/11827500/)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：PR (id: JnGV10M)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-010&card_id=ME-010&version=c5bca5ebf8)　（版 `c5bca5ebf8`）
+- 出題基準：必修の基本的事項 1（医師のプロフェッショナリズム、-）　コアカリ：PR (id: JnGV10M)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-010&card_id=ME-010&version=f7c125f1f3)　（版 `f7c125f1f3`）
 
 ### ME-017　下書き（出典の照合前）
 
@@ -230,8 +233,8 @@
 - 条件：region: 国際／対象: 医療系の学生（医学・歯学・助産・看護・薬学）
 - 不確実性：出典内の位置：構成（Part A・Part B）と11トピックは本文の目次で確認した。トピック名は概念名の並びとして挙げ、各トピックの説明文は訳していない（依頼文の注意1）。ライセンスは WHO IRIS の登録情報と本文の権利表示で確認し、CC ライセンスの表示がないため RESTRICTED とした。日本語版は東京医科大学から刊行されているが、本カードは英語版に基づく。コアカリ第1層には患者安全の独立した項目がないため、説明文に患者安全を含む CS（患者ケアのための診療技能）を付けた。
 - 出典：World Health Organization. Patient Safety Curriculum Guide: Multi-professional Edition. Geneva: World Health Organization; 2011. ISBN 978 92 4 150195 8　[リンク](https://iris.who.int/handle/10665/44641)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：CS (id: JnGV10w)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-024&card_id=ME-024&version=64a85ffd1c)　（版 `64a85ffd1c`）
+- 出題基準：必修の基本的事項 4-B（医療事故の発生と再発の防止、-）　コアカリ：CS (id: JnGV10w)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-024&card_id=ME-024&version=ed45bc754b)　（版 `ed45bc754b`）
 
 ### ME-025　下書き（出典の照合前）
 
@@ -240,10 +243,10 @@
 - 条件：region: 国際／対象: 医療系の学生と医療専門職（全職種）
 - 不確実性：IPE の定義について：WHO の枠組みは、英国の多職種連携教育推進センター（CAIPE）の定義（2つ以上の職種の学習者が互いについて・互いから・互いと共に学ぶ、という趣旨の定義文）を採用している。主張文ではこの定義文を訳して用いず、IPE が何を指すかを自分の言葉で説明した（依頼文の注意1）。枠組み文書には ISBN は付されておらず、文書番号は WHO/HRH/HPN/10.3 である（WHO IRIS の登録情報で確認）。ライセンスは本文の権利表示（All rights reserved）と IRIS の登録情報で確認し、CC ライセンスの表示がないため RESTRICTED とした。
 - 出典：World Health Organization. Framework for Action on Interprofessional Education and Collaborative Practice. Geneva: World Health Organization; 2010 (WHO/HRH/HPN/10.3)　[リンク](https://iris.who.int/handle/10665/70185)（区分 RESTRICTED）
-- 出題基準：－　コアカリ：IP (id: JnGV11A)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-025&card_id=ME-025&version=2717f45159)　（版 `2717f45159`）
+- 出題基準：必修の基本的事項 16-A-②（多職種の各専門性の理解、-）　コアカリ：IP (id: JnGV11A)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-025&card_id=ME-025&version=6739c9e838)　（版 `6739c9e838`）
 
-**[ここまでの 6 件（ME-010〜ME-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-010%E3%80%9CME-025&cards=ME-010%20c5bca5ebf8%0AME-017%20e730d45305%0AME-018%20d4c03c5388%0AME-019%20487b1792aa%0AME-024%2064a85ffd1c%0AME-025%202717f45159)**
+**[ここまでの 6 件（ME-010〜ME-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-010%E3%80%9CME-025&cards=ME-010%20f7c125f1f3%0AME-017%20e730d45305%0AME-018%20d4c03c5388%0AME-019%20487b1792aa%0AME-024%20ed45bc754b%0AME-025%206739c9e838)**
 
 ---
 

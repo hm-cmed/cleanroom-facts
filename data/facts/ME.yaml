@@ -56,7 +56,7 @@
     corroboration: 共用試験の公的化とStudent Doctorの法的位置づけは、SRC-5103（厚生労働省 医道審議会医師分科会報告書、令和2年5月、GOV_JP）の提言に基づく改正である
   uncertainty: 出典内の位置：共用試験の定義と受験資格は第11条第1号、Student Doctorは第17条の2。施行時期（第17条の2は令和5年4月1日、第11条の要件追加は令和7年4月1日）と経過措置は、改正法の経過措置を定める政令の概要資料で確認した。共用試験の実施機関を厚生労働大臣の指定する機関とする省令上の定めは、本カードの主張に含めていない。歯科医師法にも並行する仕組みがあるが、本カードは医師（医学）の制度を扱う。
   curriculum:
-    kokushi: null
+    kokushi: 必修の基本的事項 2-A-①（医師法、-）
     core_curriculum: null
   publication_info:
     created: '2026-11-23'
@@ -68,6 +68,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME1_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 国試の番号を付けた：必修の基本的事項 2-A-①（医師法、-）（令和6年版医師国家試験出題基準「必修の基本的事項」、厚労省 https://www.mhlw.go.jp/content/10803000/001079482.pdf で照合）
 - id: ME-003
   domain: ME
   subdomain: 制度
@@ -126,7 +129,7 @@
     corroboration: 必修化の経緯（平成12年改正・平成16年度開始）と、概ね5年ごとの見直しの経過は SRC-5105（厚生労働省 医道審議会医師分科会医師臨床研修部会報告書、令和6年3月、GOV_JP）でも述べられている
   uncertainty: 出典内の位置：臨床研修の義務は第16条の2第1項。「概ね5年ごとの見直し」は厚労省の医師臨床研修部会報告書（SRC-5105）の記述によるもので、見直しの周期を直接定めた法令の条文は今回確認できなかった（制度解説の中には法令に定めるとする記述もある）。1968年当時の努力義務の根拠条文の逐語確認はしていない。
   curriculum:
-    kokushi: null
+    kokushi: 必修の基本的事項 2-A-①（医師法、-）
     core_curriculum: null
   publication_info:
     created: '2026-11-23'
@@ -138,6 +141,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME1_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 国試の番号を付けた：必修の基本的事項 2-A-①（医師法、-）（令和6年版医師国家試験出題基準「必修の基本的事項」、厚労省 https://www.mhlw.go.jp/content/10803000/001079482.pdf で照合）
 - id: ME-005
   domain: ME
   subdomain: 制度
@@ -301,7 +307,7 @@
     corroboration: null
   uncertainty: 3原則と10の責務の構成は憲章の公表内容に基づく。本文は購読誌面のため逐語の確認はしておらず、定義文の翻訳は転載せず、自作の文で記載した。同じ憲章は Lancet 誌にも同時掲載された。本カードは、医学生が学ぶプロフェッショナリズムの内容として、コアカリ第1層の PR（プロフェッショナリズム）に対応づけた。
   curriculum:
-    kokushi: null
+    kokushi: 必修の基本的事項 1（医師のプロフェッショナリズム、-）
     core_curriculum: 'PR (id: JnGV10M)'
   publication_info:
     created: '2026-11-23'
@@ -313,6 +319,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME1_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 国試の番号を付けた：必修の基本的事項 1（医師のプロフェッショナリズム、-）（令和6年版医師国家試験出題基準「必修の基本的事項」、厚労省 https://www.mhlw.go.jp/content/10803000/001079482.pdf で照合）
 - id: ME-011
   domain: ME
   subdomain: 制度
@@ -336,7 +345,7 @@
     corroboration: 実施形態の細部（320問・6時間・設問形式の内訳・IRT・到達基準）は SRC-5115（医療系大学間共用試験実施評価機構の関係者による2024年の解説、RESTRICTED）で確認した。共用試験の開始の経緯（2002年のトライアル、2005年12月の正式実施）は SRC-5114（医学教育白書2006年版、RESTRICTED）による。SRC-5104（日本医師会「日医 on-line」特別寄稿、RESTRICTED）を補助として再利用し、出題の基盤となるカリキュラムは SRC-5101（医学教育モデル・コア・カリキュラム、GOV_JP）である
   uncertainty: 数値（320問・6時間・設問形式の内訳）は、実施機関の関係者による2024年時点の公表解説に基づくもので、年度により変更されうる。2023年度の公的化の前後で、任意の共通試験から医師法に基づく法定の試験へ位置づけが変わり、2025年4月からは医師国家試験の受験資格にも共用試験の合格が位置づけられている（ME-002）。実施機関（CATO）の公式サイトの現行ガイドブックは今回直接取得できなかったため、機構関係者の公表解説と文部科学省の資料で代替確認した。指定試験機関に関する医師法施行規則の条文の逐語確認はしていない。歯学の共用試験CBTも並行して存在するが、本カードは医学の制度を扱う。
   curriculum:
-    kokushi: null
+    kokushi: 必修の基本的事項 2-A-①（医師法、-）
     core_curriculum: null
   publication_info:
     created: '2026-11-23'
@@ -348,6 +357,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME2_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 国試の番号を付けた：必修の基本的事項 2-A-①（医師法、-）（令和6年版医師国家試験出題基準「必修の基本的事項」、厚労省 https://www.mhlw.go.jp/content/10803000/001079482.pdf で照合）
 - id: ME-012
   domain: ME
   subdomain: 評価
@@ -791,7 +803,7 @@
     corroboration: null
   uncertainty: 出典内の位置：構成（Part A・Part B）と11トピックは本文の目次で確認した。トピック名は概念名の並びとして挙げ、各トピックの説明文は訳していない（依頼文の注意1）。ライセンスは WHO IRIS の登録情報と本文の権利表示で確認し、CC ライセンスの表示がないため RESTRICTED とした。日本語版は東京医科大学から刊行されているが、本カードは英語版に基づく。コアカリ第1層には患者安全の独立した項目がないため、説明文に患者安全を含む CS（患者ケアのための診療技能）を付けた。
   curriculum:
-    kokushi: null
+    kokushi: 必修の基本的事項 4-B（医療事故の発生と再発の防止、-）
     core_curriculum: 'CS (id: JnGV10w)'
   publication_info:
     created: '2026-11-23'
@@ -803,6 +815,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME3_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 国試の番号を付けた：必修の基本的事項 4-B（医療事故の発生と再発の防止、-）（令和6年版医師国家試験出題基準「必修の基本的事項」、厚労省 https://www.mhlw.go.jp/content/10803000/001079482.pdf で照合）
 - id: ME-025
   domain: ME
   subdomain: 横断
@@ -826,7 +841,7 @@
     corroboration: null
   uncertainty: IPE の定義について：WHO の枠組みは、英国の多職種連携教育推進センター（CAIPE）の定義（2つ以上の職種の学習者が互いについて・互いから・互いと共に学ぶ、という趣旨の定義文）を採用している。主張文ではこの定義文を訳して用いず、IPE が何を指すかを自分の言葉で説明した（依頼文の注意1）。枠組み文書には ISBN は付されておらず、文書番号は WHO/HRH/HPN/10.3 である（WHO IRIS の登録情報で確認）。ライセンスは本文の権利表示（All rights reserved）と IRIS の登録情報で確認し、CC ライセンスの表示がないため RESTRICTED とした。
   curriculum:
-    kokushi: null
+    kokushi: 必修の基本的事項 16-A-②（多職種の各専門性の理解、-）
     core_curriculum: 'IP (id: JnGV11A)'
   publication_info:
     created: '2026-11-23'
@@ -838,3 +853,6 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME3_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 国試の番号を付けた：必修の基本的事項 16-A-②（多職種の各専門性の理解、-）（令和6年版医師国家試験出題基準「必修の基本的事項」、厚労省 https://www.mhlw.go.jp/content/10803000/001079482.pdf で照合）
