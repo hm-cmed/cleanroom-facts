@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-23
 
-全 9 件のうち、監修済み 0 件。
+全 18 件のうち、監修済み 0 件。
 
 ## 制度
 
@@ -51,7 +51,16 @@
 - 出典：厚生労働省. 臨床研修の到達目標、方略及び評価（令和2年度研修から適用）　[リンク](https://www.mhlw.go.jp/content/10800000/000341137.pdf)（区分 GOV_JP）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-005&card_id=ME-005&version=380f1ad69a)　（版 `380f1ad69a`）
 
-**[ここまでの 5 件（ME-001〜ME-005）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-001%E3%80%9CME-005&cards=ME-001%2066f2fa43ce%0AME-002%20e87c52bb91%0AME-003%20648a59517f%0AME-004%205fb84ee6ea%0AME-005%20380f1ad69a)**
+### ME-011　下書き（出典の照合前）
+
+> 共用試験CBTは、医学生が診療参加型臨床実習を始める前に、臨床実習に必要な知識の修得度を評価するコンピュータ試験で、臨床実習前OSCEとともに医師法に基づく共用試験（臨床実習前共用試験）を構成する。出題は医学教育モデル・コア・カリキュラムの内容に基づき、各大学が作成し実施機関が校閲した問題を蓄積したプールから行われる。実施機関の2024年の公表資料によれば、設問は5選択肢択一240問・多選択肢択一40問・5選択肢択一の4連問40問の合計320問で、6時間で解答する。この中には、難易度や識別力を測るための採点対象外の試行問題が含まれ、受験者ごとに異なる問題セットが項目反応理論（IRT）によって等質になるよう調整される。合格には、CBTとOSCEの両方で、あらかじめ定められた到達基準に達することが必要である。共用試験は、2002年にトライアルが始まり、2005年12月に正式実施が開始された当初は大学間の任意の共通試験だったが、2023年度からは医師法に基づく公的な試験となり、合格が診療参加型臨床実習で医行為を行うための法的な前提となった。
+
+- 条件：region: 日本／対象: 医学生（医学部の学生）
+- 不確実性：数値（320問・6時間・設問形式の内訳）は、実施機関の関係者による2024年時点の公表解説に基づくもので、年度により変更されうる。2023年度の公的化の前後で、任意の共通試験から医師法に基づく法定の試験へ位置づけが変わり、2025年4月からは医師国家試験の受験資格にも共用試験の合格が位置づけられている（ME-002）。実施機関（CATO）の公式サイトの現行ガイドブックは今回直接取得できなかったため、機構関係者の公表解説と文部科学省の資料で代替確認した。指定試験機関に関する医師法施行規則の条文の逐語確認はしていない。歯学の共用試験CBTも並行して存在するが、本カードは医学の制度を扱う。
+- 出典：医師法（昭和23年法律第201号、令和3年法律第49号による改正を含む現行法）　[リンク](https://laws.e-gov.go.jp/law/323AC0000000201)（区分 GOV_JP）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-011&card_id=ME-011&version=cdb34dd37a)　（版 `cdb34dd37a`）
+
+**[ここまでの 6 件（ME-001〜ME-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-001%E3%80%9CME-011&cards=ME-001%2066f2fa43ce%0AME-002%20e87c52bb91%0AME-003%20648a59517f%0AME-004%205fb84ee6ea%0AME-005%20380f1ad69a%0AME-011%20cdb34dd37a)**
 
 ---
 
@@ -75,7 +84,16 @@
 - 出典：ten Cate O. Entrustability of professional activities and competency-based training. Med Educ. 2005;39(12):1176-1177　[DOI 10.1111/j.1365-2929.2005.02341.x](https://doi.org/10.1111/j.1365-2929.2005.02341.x)　[PMID 16313574](https://pubmed.ncbi.nlm.nih.gov/16313574/)（区分 RESTRICTED）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-007&card_id=ME-007&version=bbf4ea4a24)　（版 `bbf4ea4a24`）
 
-**[ここまでの 2 件（ME-006〜ME-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-006%E3%80%9CME-007&cards=ME-006%2055eb75ac85%0AME-007%20bbf4ea4a24)**
+### ME-012　下書き（出典の照合前）
+
+> プログラム的評価は、評価を個々の試験としてではなく、学習の過程全体にわたるプログラムとして設計する考え方である。個々の評価の機会（データポイント）は、それ自体では進級や合否のような重大な判定には用いず、学習とフィードバックの価値を最大化するものとして数多く蓄積する。重大な判定は、複数の方法と時点から得られた多数のデータポイントを集約したうえで、専門家の判断を加えて行う。専門家の判断には主観が伴うため、評価のサンプリングを広げることや、質的研究の基準に由来する手続きによって偏りを減らすことが重視される。訓練・評価・学習者支援を繰り返す過程の中に、集約したデータに基づく中間と最終の評価の機会を組み込む形が、モデルとして提案されている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：原著はモデルの提案論文であり、効果量等の数値は含まない。概念名（programmatic assessment）と枠組みの骨格を自作の文で記載し、原著の定義文・結論文の翻訳は転載していない。抄録で確認した範囲（データポイントの集約による判定、専門家の判断、サンプリングと偏りの低減）に基づく。
+- 出典：van der Vleuten CPM, Schuwirth LWT, Driessen EW, Dijkstra J, Tigelaar D, Baartman LKJ, van Tartwijk J. A model for programmatic assessment fit for purpose. Med Teach. 2012;34(3):205-214　[DOI 10.3109/0142159X.2012.652239](https://doi.org/10.3109/0142159X.2012.652239)　[PMID 22364452](https://pubmed.ncbi.nlm.nih.gov/22364452/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-012&card_id=ME-012&version=f5106c6cb3)　（版 `f5106c6cb3`）
+
+**[ここまでの 3 件（ME-006〜ME-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-006%E3%80%9CME-012&cards=ME-006%2055eb75ac85%0AME-007%20bbf4ea4a24%0AME-012%20f5106c6cb3)**
 
 ---
 
@@ -90,7 +108,43 @@
 - 出典：McGaghie WC, Issenberg SB, Cohen ER, Barsuk JH, Wayne DB. Does simulation-based medical education with deliberate practice yield better results than traditional clinical education? A meta-analytic comparative review of the evidence. Acad Med. 2011;86(6):706-711　[DOI 10.1097/ACM.0b013e318217e119](https://doi.org/10.1097/ACM.0b013e318217e119)　[PMID 21512370](https://pubmed.ncbi.nlm.nih.gov/21512370/)（区分 RESTRICTED）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-009&card_id=ME-009&version=2eaee9084e)　（版 `2eaee9084e`）
 
-**[ここまでの 1 件（ME-009）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-009&cards=ME-009%202eaee9084e)**
+### ME-013　下書き（出典の照合前）
+
+> 高忠実度シミュレーションを用いた医学教育について、1969年から2003年までの文献を対象としたBEME系統的レビューでは、初めの670件の論文から、シミュレーターを教育介入として用い学習成果を定量的に測った実証研究109件が選ばれ、学習効果と関連する10の特徴が整理された。最も多くの研究で重要とされたのはフィードバックの提供（51件・47%）で、次いで反復練習（43件・39%）、カリキュラムへの統合（27件・25%）、課題の難易度に幅を持たせること（15件・14%）が挙がり、以下、複数の学習方略への適応（11件・10%）、多様な臨床像の再現（11件・10%）、管理された環境（10件・9%）、個別化された学習（10件・9%）、到達目標と成果指標の明確化（7件・6%）、シミュレーターの妥当性（4件・3%）が続いた。対象研究の方法論的な質は全体として弱く、研究間のばらつきが大きいため、結果はメタ解析ではなく質的に統合された。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：数値（対象109件、各特徴の件数と割合）は原著の抄録で確認した。対象文献は2003年までのもので、その後のシミュレーション研究の進展は含まれていない。特徴の名称は概念名として記載し、原著の文章の翻訳は転載していない。意図的練習を組み込んだシミュレーション教育の効果量については ME-009（McGaghie 2011）が扱う。
+- 出典：Issenberg SB, McGaghie WC, Petrusa ER, Lee Gordon D, Scalese RJ. Features and uses of high-fidelity medical simulations that lead to effective learning: a BEME systematic review. Med Teach. 2005;27(1):10-28　[DOI 10.1080/01421590500046924](https://doi.org/10.1080/01421590500046924)　[PMID 16147767](https://pubmed.ncbi.nlm.nih.gov/16147767/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-013&card_id=ME-013&version=6d3abc022a)　（版 `6d3abc022a`）
+
+### ME-014　下書き（出典の照合前）
+
+> 問題基盤型学習（PBL）のアウトカムについて、1972年から1992年までの英語文献を統合したレビューでは、アウトカムごとに方向の異なる結果が報告された。臨床面では、PBLの卒業生は従来型の教育の卒業生と同等か、臨床試験や教員による評価では時に上回る成績であり、学習環境はより育成的で楽しいと評価され、卒業生が家庭医療を選ぶ割合も高く、教員もPBLでの指導を好む傾向があった。一方、基礎科学については、一部の研究でPBLの学生の試験成績が従来型の学生より低く、学生自身も基礎科学の準備が不足していると感じる傾向があった。また、専門家が用いる前方推論とは異なる後方推論のパターンや、知識基盤の不足の可能性も指摘された。PBLは費用がかかるため、学生数の多い学校（100人超の学年規模）では導入が進みにくいとされ、著者らは、カリキュラム全体をPBLに転換することには慎重であるべきだと結論づけた。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：各アウトカムの方向（臨床試験・教員評価では同等か優位、基礎科学の試験では一部で劣位、家庭医療への進路が多い等）は原著の抄録で確認した範囲で記載し、「異なる傾向」のような曖昧な表現は避けた。1992年までの文献に基づくレビューであり、その後のPBLの実践と研究の蓄積は反映されていない。原著の文章の翻訳は転載していない。
+- 出典：Albanese MA, Mitchell S. Problem-based learning: a review of literature on its outcomes and implementation issues. Acad Med. 1993;68(1):52-81　[DOI 10.1097/00001888-199301000-00012](https://doi.org/10.1097/00001888-199301000-00012)　[PMID 8447896](https://pubmed.ncbi.nlm.nih.gov/8447896/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-014&card_id=ME-014&version=cd0147513b)　（版 `cd0147513b`）
+
+### ME-015　下書き（出典の照合前）
+
+> 反転授業（授業の前に動画等で学習し、対面の授業時間は演習等に充てる方法）と従来型の授業を比較した研究のメタ解析では、医療専門職教育の比較研究28件の統合で、学習アウトカムは反転授業の側が有意に高かった（標準化平均差 0.33、95%信頼区間 0.21〜0.46、p<0.001）。対面授業の開始時に小テストを行う取り組みを併用した場合に効果がより大きくなり、学習者の多くは従来型より反転授業を好んだと報告された。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：効果量・信頼区間・統合した研究数（28件）は原著の抄録で確認した。対象は医療専門職教育全般（医学のほか看護・歯学・薬学等を含む）であり、医学教育のみの数値ではない。ライセンスは Crossref の license 欄で CC BY 4.0 を確認した。
+- 出典：Hew KF, Lo CK. Flipped classroom improves student learning in health professions education: a meta-analysis. BMC Med Educ. 2018;18:38　[DOI 10.1186/s12909-018-1144-z](https://doi.org/10.1186/s12909-018-1144-z)　[PMID 29544495](https://pubmed.ncbi.nlm.nih.gov/29544495/)（区分 OPEN）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-015&card_id=ME-015&version=b2d53aacb9)　（版 `b2d53aacb9`）
+
+### ME-016　下書き（出典の照合前）
+
+> 医療専門職教育におけるインターネット基盤学習の効果を統合したメタ解析（対象201件の研究）では、比較の相手によって効果の大きさが大きく異なった。教育介入のない場合との比較では効果が大きく、知識で効果量1.00（95%信頼区間 0.90〜1.10、126件）、技能で0.85（0.49〜1.20、16件）、学習者の行動と患者への効果で0.82（0.63〜1.02、32件）だった。一方、インターネットを用いない従来型の教育との比較では効果は小さく、知識で0.12（0.003〜0.24、63件）、技能で0.09（-0.26〜0.44、12件）、満足度で0.10（有意差なし、43件）にとどまり、著者らは、インターネット基盤学習の効果は従来型の方法と同程度だと結論づけた。研究間のばらつき（異質性）は大きく、I²はすべての解析で79%以上だった。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：数値（効果量・信頼区間・各解析の研究数）は原著の抄録で確認した。対象文献は1990年から2007年に検索されたもので、その後の技術環境や学習基盤の変化は反映されていない。原著の結論文の翻訳は転載せず、数値と方向性を自作の文で記載した。
+- 出典：Cook DA, Levinson AJ, Garside S, Dupras DM, Erwin PJ, Montori VM. Internet-based learning in the health professions: a meta-analysis. JAMA. 2008;300(10):1181-1196　[DOI 10.1001/jama.300.10.1181](https://doi.org/10.1001/jama.300.10.1181)　[PMID 18780847](https://pubmed.ncbi.nlm.nih.gov/18780847/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-016&card_id=ME-016&version=55f6231a95)　（版 `55f6231a95`）
+
+**[ここまでの 5 件（ME-009〜ME-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-009%E3%80%9CME-016&cards=ME-009%202eaee9084e%0AME-013%206d3abc022a%0AME-014%20cd0147513b%0AME-015%20b2d53aacb9%0AME-016%2055f6231a95)**
 
 ---
 
@@ -106,7 +160,34 @@
 - 出題基準：－　コアカリ：PR (id: JnGV10M)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-010&card_id=ME-010&version=c5bca5ebf8)　（版 `c5bca5ebf8`）
 
-**[ここまでの 1 件（ME-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-010&cards=ME-010%20c5bca5ebf8)**
+### ME-017　下書き（出典の照合前）
+
+> 医学教育における教員育成（FD：ファカルティ・ディベロップメント）の取り組みについて、1980年から2002年までの文献を対象としたBEME系統的レビューでは、初めの2,777件の抄録から53件の研究（無作為化比較試験6件、準実験的研究47件）が選ばれた。報告された効果は、参加者の満足度が高いこと、教育に対する態度の前向きな変化、教育原則の知識の増加と教育スキルの向上（知識を正式なテストで測った研究では有意な向上が示された）、参加者自身の報告と学生による検出の両方で示された教育行動の変化であり、組織の実践の変化や学生の学習への効果はほとんど検討されていなかった。効果と関連する取り組みの特徴として、体験型の学習、フィードバックの提供、同僚との良好な関係の構築、教育原則に沿った設計、1つの取り組みの中での多様な教育方法の併用が挙げられた。対象研究の方法論には限界があると著者らは述べている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：数値（2,777件から53件、研究デザインの内訳）は原著の抄録で確認した。対象文献は2002年までのもので、その後のFD研究は含まれていない。結論の文章の翻訳は転載せず、報告された効果の範囲を自作の文で記載した。
+- 出典：Steinert Y, Mann K, Centeno A, Dolmans D, Spencer J, Gelula M, Prideaux D. A systematic review of faculty development initiatives designed to improve teaching effectiveness in medical education: BEME Guide No. 8. Med Teach. 2006;28(6):497-526　[DOI 10.1080/01421590600902976](https://doi.org/10.1080/01421590600902976)　[PMID 17074699](https://pubmed.ncbi.nlm.nih.gov/17074699/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-017&card_id=ME-017&version=e730d45305)　（版 `e730d45305`）
+
+### ME-018　下書き（出典の照合前）
+
+> 医学生のうつ病・抑うつ症状と自殺念慮の有病率について、43か国の研究を統合した系統的レビュー・メタ解析では、抑うつ症状の有病率は27.2%（95%信頼区間 24.7〜29.9%）と推定された（横断研究167件・対象116,628人と、縦断研究16件・5,728人。2016年9月までに発表された研究が対象で、調査年は1982年から2015年にわたる）。自殺念慮の有病率は11.1%（95%信頼区間 9.0〜13.7%）だった（横断研究24件・21,002人、15か国）。抑うつ症状のスクリーニングで陽性となった学生のうち、精神科の治療を求めたのは15.7%にとどまった。研究のほとんどは自己記入式の尺度による測定であり、測定方法によって抑うつ症状の推定値は9.3%から55.9%まで幅があった。
+
+- 条件：region: 国際／対象: 医学生（医学部の学生）
+- 不確実性：数値（有病率の点推定と信頼区間、統合した研究数、対象の国と期間）は原著の抄録で確認した。有病率は自己記入式尺度によるスクリーニング陽性の割合であり、診断が確定した割合ではない。PMCID（PMC5613659）は著者原稿のもので、著者原稿はCCではないためライセンス区分はRESTRICTEDのままである。本カードは自殺念慮という扱いの難しい内容を含むため事実の記述にとどめた。動画等に用いる場合は、相談窓口の案内を添え、方法には触れないこと（依頼文の注意3）。
+- 出典：Rotenstein LS, Ramos MA, Torre M, Segal JB, Peluso MJ, Guille C, Sen S, Mata DA. Prevalence of Depression, Depressive Symptoms, and Suicidal Ideation Among Medical Students: A Systematic Review and Meta-Analysis. JAMA. 2016;316(21):2214-2236　[DOI 10.1001/jama.2016.17324](https://doi.org/10.1001/jama.2016.17324)　[PMID 27923088](https://pubmed.ncbi.nlm.nih.gov/27923088/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-018&card_id=ME-018&version=d4c03c5388)　（版 `d4c03c5388`）
+
+### ME-019　下書き（出典の照合前）
+
+> 医師の燃え尽き（バーンアウト）に対する介入の効果について、無作為化試験15件（医師716人）とコホート研究37件（医師2,914人）を統合した系統的レビュー・メタ解析では、介入後に燃え尽き全体を示す割合が54%から44%へ下がった（差10ポイント、95%信頼区間 5〜14、p<0.0001、14件の研究に基づく）。情緒的消耗のスコアは平均で2.65ポイント（95%信頼区間 1.67〜3.64、40件）下がり、情緒的消耗が高い状態の割合は38%から24%へ下がった（21件）。脱人格化のスコアも平均で0.64ポイント（0.15〜1.14、36件）下がった。効果は、個人に向けた介入（マインドフルネス、ストレス対処の訓練、小グループでの活動など）と、組織や制度に向けた介入（勤務時間の制限、現場参加型の業務改善など）の双方で認められた。
+
+- 条件：region: 国際／対象: 医師
+- 不確実性：数値（研究数、燃え尽き割合の変化、情緒的消耗と脱人格化のスコア変化）は原著の抄録で確認した。対象は医師であり、医学生はこのレビューの対象に含まれていない。検索対象は2016年1月までの文献である。結論の文章の翻訳は転載せず、数値と方向性を自作の文で記載した。
+- 出典：West CP, Dyrbye LN, Erwin PJ, Shanafelt TD. Interventions to prevent and reduce physician burnout: a systematic review and meta-analysis. Lancet. 2016;388(10057):2272-2281　[DOI 10.1016/S0140-6736(16)31279-X](https://doi.org/10.1016/S0140-6736(16)31279-X)　[PMID 27692469](https://pubmed.ncbi.nlm.nih.gov/27692469/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-019&card_id=ME-019&version=487b1792aa)　（版 `487b1792aa`）
+
+**[ここまでの 4 件（ME-010〜ME-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-010%E3%80%9CME-019&cards=ME-010%20c5bca5ebf8%0AME-017%20e730d45305%0AME-018%20d4c03c5388%0AME-019%20487b1792aa)**
 
 ---
 

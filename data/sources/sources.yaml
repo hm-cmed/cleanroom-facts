@@ -37782,3 +37782,153 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+- id: SRC-5114
+  legacy_id: null
+  title: 奈良信雄. 共用試験実施評価機構の発足. 医学教育白書2006年版（医学教育 別冊）. 日本医学教育学会
+  citation: 奈良信雄. 共用試験実施評価機構の発足. 医学教育白書2006年版（医学教育 別冊）. 日本医学教育学会
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © 日本医学教育学会（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+- id: SRC-5115
+  legacy_id: null
+  title: 齋藤宣彦（医療系大学間共用試験実施評価機構）. 臨床実習前共用試験（CBT/OSCE）と臨床実習後OSCE. モダンメディア. 2024;70(12):371-373
+  citation: 齋藤宣彦（医療系大学間共用試験実施評価機構）. 臨床実習前共用試験（CBT/OSCE）と臨床実習後OSCE. モダンメディア. 2024;70(12):371-373
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © 栄研化学（モダンメディア、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+- id: SRC-5116
+  legacy_id: null
+  title: van der Vleuten CPM, Schuwirth LWT, Driessen EW, Dijkstra J, Tigelaar D, Baartman LKJ, van Tartwijk J. A model for programmatic assessment fit for purpose. Med Teach. 2012;34(3):205-214
+  citation: van der Vleuten CPM, Schuwirth LWT, Driessen EW, Dijkstra J, Tigelaar D, Baartman LKJ, van Tartwijk J. A model for programmatic assessment fit for purpose. Med Teach. 2012;34(3):205-214
+  doi: 10.3109/0142159X.2012.652239
+  pmid: '22364452'
+  pmcid: null
+  license_note: © Taylor & Francis（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+- id: SRC-5117
+  legacy_id: null
+  title: 'Issenberg SB, McGaghie WC, Petrusa ER, Lee Gordon D, Scalese RJ. Features and uses of high-fidelity medical simulations that lead to effective learning: a BEME systematic review. Med Teach. 2005;27(1):10-28'
+  citation: 'Issenberg SB, McGaghie WC, Petrusa ER, Lee Gordon D, Scalese RJ. Features and uses of high-fidelity medical simulations that lead to effective learning: a BEME systematic review. Med Teach. 2005;27(1):10-28'
+  doi: 10.1080/01421590500046924
+  pmid: '16147767'
+  pmcid: null
+  license_note: © Taylor & Francis（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+- id: SRC-5118
+  legacy_id: null
+  title: 'Albanese MA, Mitchell S. Problem-based learning: a review of literature on its outcomes and implementation issues. Acad Med. 1993;68(1):52-81'
+  citation: 'Albanese MA, Mitchell S. Problem-based learning: a review of literature on its outcomes and implementation issues. Acad Med. 1993;68(1):52-81'
+  doi: 10.1097/00001888-199301000-00012
+  pmid: '8447896'
+  pmcid: null
+  license_note: © Association of American Medical Colleges（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+- id: SRC-5119
+  legacy_id: null
+  title: 'Hew KF, Lo CK. Flipped classroom improves student learning in health professions education: a meta-analysis. BMC Med Educ. 2018;18:38'
+  citation: 'Hew KF, Lo CK. Flipped classroom improves student learning in health professions education: a meta-analysis. BMC Med Educ. 2018;18:38'
+  doi: 10.1186/s12909-018-1144-z
+  pmid: '29544495'
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+- id: SRC-5120
+  legacy_id: null
+  title: 'Cook DA, Levinson AJ, Garside S, Dupras DM, Erwin PJ, Montori VM. Internet-based learning in the health professions: a meta-analysis. JAMA. 2008;300(10):1181-1196'
+  citation: 'Cook DA, Levinson AJ, Garside S, Dupras DM, Erwin PJ, Montori VM. Internet-based learning in the health professions: a meta-analysis. JAMA. 2008;300(10):1181-1196'
+  doi: 10.1001/jama.300.10.1181
+  pmid: '18780847'
+  pmcid: null
+  license_note: © American Medical Association（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+- id: SRC-5121
+  legacy_id: null
+  title: 'Steinert Y, Mann K, Centeno A, Dolmans D, Spencer J, Gelula M, Prideaux D. A systematic review of faculty development initiatives designed to improve teaching effectiveness in medical education: BEME Guide No. 8. Med Teach. 2006;28(6):497-526'
+  citation: 'Steinert Y, Mann K, Centeno A, Dolmans D, Spencer J, Gelula M, Prideaux D. A systematic review of faculty development initiatives designed to improve teaching effectiveness in medical education: BEME Guide No. 8. Med Teach. 2006;28(6):497-526'
+  doi: 10.1080/01421590600902976
+  pmid: '17074699'
+  pmcid: null
+  license_note: © Taylor & Francis（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+- id: SRC-5122
+  legacy_id: null
+  title: 'Rotenstein LS, Ramos MA, Torre M, Segal JB, Peluso MJ, Guille C, Sen S, Mata DA. Prevalence of Depression, Depressive Symptoms, and Suicidal Ideation Among Medical Students: A Systematic Review and Meta-Analysis. JAMA. 2016;316(21):2214-2236'
+  citation: 'Rotenstein LS, Ramos MA, Torre M, Segal JB, Peluso MJ, Guille C, Sen S, Mata DA. Prevalence of Depression, Depressive Symptoms, and Suicidal Ideation Among Medical Students: A Systematic Review and Meta-Analysis. JAMA. 2016;316(21):2214-2236'
+  doi: 10.1001/jama.2016.17324
+  pmid: '27923088'
+  pmcid: null
+  license_note: © American Medical Association（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+- id: SRC-5123
+  legacy_id: null
+  title: 'West CP, Dyrbye LN, Erwin PJ, Shanafelt TD. Interventions to prevent and reduce physician burnout: a systematic review and meta-analysis. Lancet. 2016;388(10057):2272-2281'
+  citation: 'West CP, Dyrbye LN, Erwin PJ, Shanafelt TD. Interventions to prevent and reduce physician burnout: a systematic review and meta-analysis. Lancet. 2016;388(10057):2272-2281'
+  doi: 10.1016/S0140-6736(16)31279-X
+  pmid: '27692469'
+  pmcid: null
+  license_note: © Elsevier（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
