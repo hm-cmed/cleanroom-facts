@@ -498,7 +498,7 @@
 
 - 条件：region: 国際／study: Alport 症候群と菲薄基底膜腎症の専門家ガイドライン（推奨18項目、エビデンスは専門家意見と記述研究が中心）
 - 不確実性：出典のライセンスは未確認のため、取り込み時に出版社ページで確認が必要。このガイドラインの推奨は、ランダム化試験ではなく専門家意見と記述研究に基づく水準のものである。
-- 出典：Savige J, Gregory M, Gross O, Kashtan C, Ding J, Flinter F. Expert guidelines for the management of Alport syndrome and thin basement membrane nephropathy. J Am Soc Nephrol. 2013;24(3):364-375　[DOI 10.1681/ASN.2012020148](https://doi.org/10.1681/ASN.2012020148)　[PMID 23349312](https://pubmed.ncbi.nlm.nih.gov/23349312/)（区分 UNKNOWN）
+- 出典：Savige J, Gregory M, Gross O, Kashtan C, Ding J, Flinter F. Expert guidelines for the management of Alport syndrome and thin basement membrane nephropathy. J Am Soc Nephrol. 2013;24(3):364-375　[DOI 10.1681/ASN.2012020148](https://doi.org/10.1681/ASN.2012020148)　[PMID 23349312](https://pubmed.ncbi.nlm.nih.gov/23349312/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-1-F-①（Alport症候群、c）　コアカリ：PS-02-09-05 (id: JkxnuRs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-036&card_id=GN-036&version=94010db7a1)　（版 `94010db7a1`）
 
@@ -508,7 +508,7 @@
 
 - 条件：region: 国際／study: Alport 症候群と菲薄基底膜腎症の専門家ガイドラインの治療推奨
 - 不確実性：本カードは早期の RAS 阻害についての専門家ガイドラインの推奨を記したもので、早期介入を検証した個別のランダム化試験（小児を対象に ACE 阻害薬を調べた試験など）の数値はこの出典には含まれていない。試験の数値を扱う場合はその試験を別途出典として確認が必要。RAS 阻害薬の Alport 症候群に対する国内の承認・保険適用は未確認。
-- 出典：Savige J, Gregory M, Gross O, Kashtan C, Ding J, Flinter F. Expert guidelines for the management of Alport syndrome and thin basement membrane nephropathy. J Am Soc Nephrol. 2013;24(3):364-375　[DOI 10.1681/ASN.2012020148](https://doi.org/10.1681/ASN.2012020148)　[PMID 23349312](https://pubmed.ncbi.nlm.nih.gov/23349312/)（区分 UNKNOWN）
+- 出典：Savige J, Gregory M, Gross O, Kashtan C, Ding J, Flinter F. Expert guidelines for the management of Alport syndrome and thin basement membrane nephropathy. J Am Soc Nephrol. 2013;24(3):364-375　[DOI 10.1681/ASN.2012020148](https://doi.org/10.1681/ASN.2012020148)　[PMID 23349312](https://pubmed.ncbi.nlm.nih.gov/23349312/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-1-F-①（Alport症候群、c）　コアカリ：PS-02-09-05 (id: JkxnuRs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-037&card_id=GN-037&version=223c877815)　（版 `223c877815`）
 
@@ -524,7 +524,7 @@
 
 - 条件：region: 国際／study: Alport 症候群と菲薄基底膜腎症の専門家ガイドラインの診断推奨
 - 不確実性：出典のライセンスは未確認のため、取り込み時に出版社ページで確認が必要。菲薄基底膜腎症そのものの長期予後の数値はこの出典（ガイドライン抄録）では確認していない。
-- 出典：Savige J, Gregory M, Gross O, Kashtan C, Ding J, Flinter F. Expert guidelines for the management of Alport syndrome and thin basement membrane nephropathy. J Am Soc Nephrol. 2013;24(3):364-375　[DOI 10.1681/ASN.2012020148](https://doi.org/10.1681/ASN.2012020148)　[PMID 23349312](https://pubmed.ncbi.nlm.nih.gov/23349312/)（区分 UNKNOWN）
+- 出典：Savige J, Gregory M, Gross O, Kashtan C, Ding J, Flinter F. Expert guidelines for the management of Alport syndrome and thin basement membrane nephropathy. J Am Soc Nephrol. 2013;24(3):364-375　[DOI 10.1681/ASN.2012020148](https://doi.org/10.1681/ASN.2012020148)　[PMID 23349312](https://pubmed.ncbi.nlm.nih.gov/23349312/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-1-F-②（基底膜菲薄化症候群<良性家族性血尿>、c）　コアカリ：PS-02-09-05 (id: JkxnuRs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-038&card_id=GN-038&version=84fe8cafeb)　（版 `84fe8cafeb`）
 

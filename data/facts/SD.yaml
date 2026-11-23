@@ -87,7 +87,7 @@
     url: https://doi.org/10.1016/j.jaad.2018.02.021
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 主張は出典の全文と抄録で確認できた範囲に限定した。日本の診断基準の細部は本出典の対象外である。
   curriculum:
@@ -103,6 +103,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1163 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-004
   domain: SD
   subdomain: 自己免疫性水疱症
@@ -121,7 +124,7 @@
     url: https://doi.org/10.1016/j.jaad.2018.02.021
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: リツキシマブ、アザチオプリン、ミコフェノール酸モフェチル等の個別薬剤について、国内の承認・保険適用は本担当では確認しておらず未確認である。用量や投与スケジュールは出典の推奨の細部に依存するため記載していない。
   curriculum:
@@ -137,6 +140,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1163 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-005
   domain: SD
   subdomain: 自己免疫性水疱症
@@ -359,7 +365,7 @@
     url: https://doi.org/10.1001/jama.2020.4006
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 主張は出典の抄録で確認できた範囲に限定した。本カードは皮膚病変と病態を扱い、関節病変の詳細は扱わない。患者数は抄録の「世界で約1億2,500万人」という記載に基づく。本カードで触れた生物学的製剤の個別薬剤の国内承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】乾癬の生物学的製剤（セクキヌマブ、イキセキズマブ、グセルクマブ、リサンキズマブ、ウステキヌマブ等）は尋常性乾癬等の適応で承認済み。「未確認」は解消できる
   curriculum:
@@ -378,6 +384,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1168 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-012
   domain: SD
   subdomain: 乾癬
@@ -396,7 +405,7 @@
     url: https://doi.org/10.1001/jama.2020.4006
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 主張は出典の抄録で確認できた範囲に限定した。外用薬の個別製剤や光線療法の照射条件について、国内の承認・保険適用と実施条件は本担当では確認しておらず未確認である。
   curriculum:
@@ -412,6 +421,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1168 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-013
   domain: SD
   subdomain: 乾癬
@@ -430,7 +442,7 @@
     url: https://doi.org/10.1001/jama.2020.4006
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 主張は出典の抄録で確認できた範囲に限定した。生物学的製剤と経口薬の個別製剤について、国内の承認・保険適用は本担当では確認しておらず未確認である。本カードは皮膚病変への全身療法を扱い、関節病変への適応は扱わない。
   curriculum:
@@ -446,6 +458,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1168 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-014
   domain: SD
   subdomain: 苔癬・粃糠疹類
@@ -838,7 +853,7 @@
     url: https://doi.org/10.1093/cid/ciu296
     source_license: © The Author 2014, Oxford University Press（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抗菌薬の個別薬剤の国内の承認・保険適用は未確認である。切開排膿の適応は出典ガイドライン本文の推奨に基づく。
   curriculum:
@@ -854,6 +869,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1180 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-026
   domain: SD
   subdomain: 蜂巣炎<蜂窩織炎>
@@ -940,7 +958,7 @@
     url: https://doi.org/10.1093/cid/ciu296
     source_license: © The Author 2014, Oxford University Press（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 米国ガイドラインに基づく記載であり、日本の薬剤選択や用量とは限らない。個別薬剤の国内の承認・保険適用は未確認である。推奨の強さの個別表記は抄録の範囲を超えるため含めていない。
   curriculum:
@@ -956,6 +974,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1180 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-029
   domain: SD
   subdomain: ひょう疽
@@ -1008,7 +1029,7 @@
     url: https://doi.org/10.1093/cid/ciu296
     source_license: © The Author 2014, Oxford University Press（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抗菌薬の個別薬剤の国内の承認・保険適用は未確認である。境界明瞭という所見の対比（蜂窩織炎では境界が不明瞭）は皮膚感染症の深さによる分類に基づく一般的な整理である。
   curriculum:
@@ -1024,6 +1045,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1180 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-031
   domain: SD
   subdomain: 伝染性膿痂疹
@@ -1079,7 +1103,7 @@
     url: https://doi.org/10.1111/jdv.12541
     source_license: © European Academy of Dermatology and Venereology（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 死亡率の数値は出典の抄録に記載された値である。抗菌薬の個別薬剤の国内の承認・保険適用は未確認である。免疫グロブリン療法については入院期間の延長と関連するとの報告が出典で紹介されており、推奨として記載していない。
   curriculum:
@@ -1095,6 +1119,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1185 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-033
   domain: SD
   subdomain: 壊死性筋膜炎
@@ -1113,7 +1140,7 @@
     url: https://doi.org/10.1056/NEJMra1600673
     source_license: © Massachusetts Medical Society（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典（NEJM 総説）の抄録本文は PubMed に収載されておらず、主張は同総説が扱う壊死性軟部組織感染症の分類と治療の骨子に限定した。個別の抗菌薬レジメンや国内の承認・保険適用は未確認である。
   curriculum:
@@ -1129,6 +1156,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1186 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-034
   domain: SD
   subdomain: ガス壊疽
@@ -1147,7 +1177,7 @@
     url: https://doi.org/10.1056/NEJMra1600673
     source_license: © Massachusetts Medical Society（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典（NEJM 総説）の抄録本文は PubMed に収載されておらず、主張は同総説が扱うクロストリジウム性筋壊死の位置づけと治療の骨子に限定した。抗菌薬の個別薬剤の国内の承認・保険適用は未確認である。高圧酸素療法の位置づけは出典の抄録範囲で確認できないため含めていない。
   curriculum:
@@ -1163,6 +1193,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1186 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-035
   domain: SD
   subdomain: 非結核性抗酸菌症
@@ -1181,7 +1214,7 @@
     url: https://doi.org/10.1128/CMR.00069-18
     source_license: © American Society for Microbiology（Crossref のライセンスは non-commercial TDM のみで CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 菌種ごとの抗菌薬レジメンは出典で公式ガイドラインの参照とされており、本カードには含めていない。個別薬剤の国内の承認・保険適用は未確認である。
   curriculum:
@@ -1197,6 +1230,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1187 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-036
   domain: SD
   subdomain: 尋常性狼瘡
@@ -1215,7 +1251,7 @@
     url: https://doi.org/10.1128/CMR.00069-18
     source_license: © American Society for Microbiology（Crossref のライセンスは non-commercial TDM のみで CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 尋常性狼瘡に固有の臨床所見の詳細は出典の抄録に明記されていないため、皮膚結核全体の分類と診断の枠組みに留めた。抗結核薬の個別レジメンは本カードには含めていない。
   curriculum:
@@ -1231,6 +1267,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1187 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-037
   domain: SD
   subdomain: 皮膚腺病、硬結性紅斑
@@ -1249,7 +1288,7 @@
     url: https://doi.org/10.1128/CMR.00069-18
     source_license: © American Society for Microbiology（Crossref のライセンスは non-commercial TDM のみで CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 各病変の頻度や治療レジメンは出典の抄録の範囲を超えるため含めていない。皮膚腺病と硬結性紅斑の対応づけは出典の皮膚結核の分類（直接感染による病型と過敏反応による病型）に基づく。
   curriculum:
@@ -1268,6 +1307,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅲ-3-K-④ を足した（医学各論 Ⅲ-3-K-③（皮膚腺病、c） → 医学各論 Ⅲ-3-K-③（皮膚腺病、c）；医学各論 Ⅲ-3-K-④（硬結性紅斑、c））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1187 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-038
   domain: SD
   subdomain: 白癬、カンジダ症
@@ -1286,7 +1328,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/41118183/
     source_license: © American Academy of Family Physicians（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典（Am Fam Physician の総説）は DOI が付与されていない（PubMed レコードで確認）。同総説の主対象は皮膚糸状菌症であり、カンジダ症の診断手順の詳細はその範囲外のため本カードには含めていない。KOH 直接鏡検などの個別検査の感度の数値は出典の抄録に記載がなく含めていない。
   curriculum:
@@ -1302,6 +1344,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1188 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-039
   domain: SD
   subdomain: 白癬、カンジダ症
@@ -1320,7 +1365,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/41118183/
     source_license: © American Academy of Family Physicians（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は DOI が付与されていない（PubMed レコードで確認）。テルビナフィンなど個別薬剤の国内の承認・保険適用は未確認である。カンジダ症の治療の詳細は出典の主対象の範囲外のため含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】テルビナフィンは白癬（爪白癬を含む）の適応で国内承認・保険収載済み（PMDA添付文書情報、2026-10-31確認）
   curriculum:
@@ -1339,6 +1384,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1188 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-040
   domain: SD
   subdomain: 癜風
@@ -1434,7 +1482,7 @@
     url: https://doi.org/10.1111/1346-8138.13896
     source_license: © Japanese Dermatological Association（Wiley、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: フェノトリン外用が2014年8月に国内で保険適用となったことは出典（ガイドライン要約）の記載で確認した。イベルメクチンなど、その他の薬剤の国内の承認・保険適用の個別確認はしていない。診断基準の細目は要約版の範囲を超えるため本カードには含めていない。
   curriculum:
@@ -1450,6 +1498,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1191 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-043
   domain: SD
   subdomain: 疥癬
@@ -1468,7 +1519,7 @@
     url: https://doi.org/10.1111/1346-8138.13896
     source_license: © Japanese Dermatological Association（Wiley、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 集団発生時の接触者への一斉治療の範囲や環境対策など、具体的な運用手順の詳細は本ガイドライン要約版の抄録の範囲では確認できず、本カードには含めていない。補完候補として、高齢者施設での集団発生管理を扱った White LCJ らのレビュー（Epidemiol Infect. 2016、PMID 27734781、DOI 10.1017/S0950268816001746）がある。本カードでは個別の薬剤名は挙げていない。
   curriculum:
@@ -1484,6 +1535,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1191 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-044
   domain: SD
   subdomain: 単純ヘルペス
@@ -1502,7 +1556,7 @@
     url: https://doi.org/10.1016/j.jaad.2007.06.027
     source_license: © American Academy of Dermatology（Elsevier、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本カードは総説の抄録で確認できる範囲の定性的な記述に限った。治療に用いられる抗ウイルス薬（アシクロビル、バラシクロビル等）の国内の承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アシクロビル・バラシクロビルは単純ヘルペスの適応で国内承認・保険収載済み（PMDA添付文書情報、2026-10-31確認）
   curriculum:
@@ -1521,6 +1575,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1192 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-045
   domain: SD
   subdomain: カポジ水痘様発疹症
@@ -1574,7 +1631,7 @@
     url: https://doi.org/10.1111/bjd.13310
     source_license: © British Association of Dermatologists（Wiley、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本ガイドラインの抄録は PubMed に収載されておらず、本文の個別の推奨の強さは確認していないため、本カードの記述はガイドラインの対象範囲に基づく定性的な内容に限った。個別の薬剤名は挙げていない。
   curriculum:
@@ -1590,6 +1647,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1194 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-047
   domain: SD
   subdomain: 尋常性痤瘡、酒皶様皮膚炎
@@ -1856,7 +1916,7 @@
     url: https://doi.org/10.1093/cid/ciu296
     source_license: © The Author 2014, Oxford University Press（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本ガイドラインは米国のものである。同ガイドラインが推奨するムピロシン外用は、国内では鼻腔内MRSA除菌用の鼻腔用軟膏のみが承認されており、膿痂疹に対する皮膚用の外用製剤はない。レタパムリン外用とジクロキサシリンは国内未発売である。経口薬のセファレキシンは国内で承認され、皮膚感染症に用いられる。
   curriculum:
@@ -1872,6 +1932,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/62_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1180 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-055
   domain: SD
   subdomain: ブドウ球菌性熱傷様皮膚症候群
@@ -1891,7 +1954,7 @@
     url: https://doi.org/10.1111/jdv.12541
     source_license: © European Academy of Dermatology and Venereology（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本総説が挙げるナフシリンとオキサシリンは国内未発売であり、国内ではセファゾリンなど承認済みの抗ブドウ球菌性βラクタム薬が用いられる。バンコマイシンとクリンダマイシンは国内で承認されている。免疫グロブリン静注については、本総説は入院期間の延長と関連した報告を紹介しており、推奨は後退している。
   curriculum:
@@ -1907,6 +1970,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/62_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1185 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-056
   domain: SD
   subdomain: 壊死性筋膜炎
@@ -1926,7 +1992,7 @@
     url: https://doi.org/10.1056/NEJMra1600673
     source_license: © Massachusetts Medical Society（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: LRINECスコアは主に成人での検討に基づいており、本総説は小児の壊死性筋膜炎ではスコア中央値が3.7にとどまった報告を紹介しているため、低値でも本症を否定できない。本カードは診断の手がかりに限定し、治療は既存カードSD-033が担う。
   curriculum:
@@ -1942,6 +2008,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/62_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1186 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-057
   domain: SD
   subdomain: 単純ヘルペス
@@ -1961,7 +2030,7 @@
     url: https://doi.org/10.1016/j.jaad.2007.06.027
     source_license: © American Academy of Dermatology（Elsevier、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典の本文は購読制で開放的な全文がなく、本カードの記述は抄録で確認できる総説の対象範囲（粘膜皮膚のHSV感染症の病因・症状・管理）に基づく定性的な内容に限った。アシクロビルとバラシクロビルは、いずれも国内で単純疱疹の効能で承認され保険適用がある（PMDAの添付文書で確認）。
   curriculum:
@@ -1977,6 +2046,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/62_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1192 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-058
   domain: SD
   subdomain: カポジ水痘様発疹症
@@ -2031,7 +2103,7 @@
     url: https://doi.org/10.1111/bjd.13310
     source_license: © British Association of Dermatologists（Wiley、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 英国のガイドラインであり、治療の進め方は日本の診療と異なる場合がある。治癒率の数値（サリチル酸で平均49%、プラセボで23%）は本ガイドライン本文が引用する集計の値である。サリチル酸は国内では50%絆創膏製剤が疣贅・鶏眼・胼胝腫の角質剥離の効能で承認され保険適用がある（PMDAの添付文書で確認）。
   curriculum:
@@ -2047,6 +2119,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/62_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1194 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SD-060
   domain: SD
   subdomain: 円形脱毛症

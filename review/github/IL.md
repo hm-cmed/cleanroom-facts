@@ -39,7 +39,7 @@
 
 - 条件：region: 国際／guideline: ATS/ERS/JRS/ALAT 2022 IPF・PPF GL
 - 不確実性：抄録の要約で確認（本文は未確認）。DOI・PMID は検索結果の URL（qxmd・Weill Cornell）で確認。
-- 出典：Raghu G, Remy-Jardin M, Richeldi L, et al. Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2022;205:e18-e47　[DOI 10.1164/rccm.202202-0399ST](https://doi.org/10.1164/rccm.202202-0399ST)　[PMID 35486072](https://pubmed.ncbi.nlm.nih.gov/35486072/)（区分 UNKNOWN）
+- 出典：Raghu G, Remy-Jardin M, Richeldi L, et al. Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2022;205:e18-e47　[DOI 10.1164/rccm.202202-0399ST](https://doi.org/10.1164/rccm.202202-0399ST)　[PMID 35486072](https://pubmed.ncbi.nlm.nih.gov/35486072/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-A-①（特発性肺線維症<IPF>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-218 (id: JlvnlyY)；TBL-02-06-024 (id: JlAKpic)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-003&card_id=IL-003&version=72fa2d19ba)　（版 `72fa2d19ba`）
 
@@ -50,7 +50,7 @@
 - 条件：region: 国際／guideline: ATS/ERS/JRS/ALAT 2022 IPF・PPF GL
 - よくある誤解：胃食道逆流が IPF を悪化させるので、IPF には制酸薬を投与することが推奨されている
 - 不確実性：抄録の要約で確認（本文は未確認）。
-- 出典：Raghu G, Remy-Jardin M, Richeldi L, et al. Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2022;205:e18-e47　[DOI 10.1164/rccm.202202-0399ST](https://doi.org/10.1164/rccm.202202-0399ST)　[PMID 35486072](https://pubmed.ncbi.nlm.nih.gov/35486072/)（区分 UNKNOWN）
+- 出典：Raghu G, Remy-Jardin M, Richeldi L, et al. Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2022;205:e18-e47　[DOI 10.1164/rccm.202202-0399ST](https://doi.org/10.1164/rccm.202202-0399ST)　[PMID 35486072](https://pubmed.ncbi.nlm.nih.gov/35486072/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-A-①（特発性肺線維症<IPF>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-218 (id: JlvnlyY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-004&card_id=IL-004&version=a943ec1d16)　（版 `a943ec1d16`）
 
@@ -117,7 +117,7 @@
 
 - 条件：region: 国際／guideline: ATS/ERS/JRS/ALAT 2022 IPF・PPF GL
 - 不確実性：抄録の要約で確認。肺機能上の進行の具体的な閾値（FVC・DLco の低下幅）は本文で確認していないため書いていない。出題基準 Ⅳ に PPF の項目はないため kokushi は null。
-- 出典：Raghu G, Remy-Jardin M, Richeldi L, et al. Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2022;205:e18-e47　[DOI 10.1164/rccm.202202-0399ST](https://doi.org/10.1164/rccm.202202-0399ST)　[PMID 35486072](https://pubmed.ncbi.nlm.nih.gov/35486072/)（区分 UNKNOWN）
+- 出典：Raghu G, Remy-Jardin M, Richeldi L, et al. Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2022;205:e18-e47　[DOI 10.1164/rccm.202202-0399ST](https://doi.org/10.1164/rccm.202202-0399ST)　[PMID 35486072](https://pubmed.ncbi.nlm.nih.gov/35486072/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-218 (id: JlvnlyY)；TBL-01-00-219 (id: Jlvnlyc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-005&card_id=IL-005&version=a47f9b3752)　（版 `a47f9b3752`）
 
@@ -127,7 +127,7 @@
 
 - 条件：region: 国際／guideline: ATS/ERS/JRS/ALAT 2022 IPF・PPF GL
 - 不確実性：抄録の要約で確認。国内での PPF（進行性線維化を伴う間質性肺疾患）へのニンテダニブの承認時期は添付文書で確認していない。
-- 出典：Raghu G, Remy-Jardin M, Richeldi L, et al. Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2022;205:e18-e47　[DOI 10.1164/rccm.202202-0399ST](https://doi.org/10.1164/rccm.202202-0399ST)　[PMID 35486072](https://pubmed.ncbi.nlm.nih.gov/35486072/)（区分 UNKNOWN）
+- 出典：Raghu G, Remy-Jardin M, Richeldi L, et al. Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2022;205:e18-e47　[DOI 10.1164/rccm.202202-0399ST](https://doi.org/10.1164/rccm.202202-0399ST)　[PMID 35486072](https://pubmed.ncbi.nlm.nih.gov/35486072/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-218 (id: JlvnlyY)；TBL-01-00-219 (id: Jlvnlyc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-006&card_id=IL-006&version=8f3094015b)　（版 `8f3094015b`）
 
@@ -546,9 +546,9 @@
 
 - 条件：region: 国際／guideline: ATS/JRS 2016 LAM GL
 - 不確実性：ATS のプレスリリース（newswise 掲載）で確認。ガイドライン本文・DOI・PMID は未確認。シロリムスの国内承認状況は添付文書で確認していない。
-- 出典：McCormack FX, et al. Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management. Am J Respir Crit Care Med 2016（9月15日号）（区分 UNKNOWN）
+- 出典：McCormack FX, et al. Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management. Am J Respir Crit Care Med 2016（9月15日号）　[DOI 10.1164/rccm.201607-1384ST](https://doi.org/10.1164/rccm.201607-1384ST)　[PMID 27628078](https://pubmed.ncbi.nlm.nih.gov/27628078/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-B-①（肺リンパ脈管筋腫症<LAM>、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-238 (id: Jlvnl0o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-044&card_id=IL-044&version=5789646c66)　（版 `5789646c66`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-044&card_id=IL-044&version=b666d279c1)　（版 `b666d279c1`）
 
 ### IL-045　下書き（出典の照合前）
 
@@ -556,9 +556,9 @@
 
 - 条件：region: 国際／guideline: ATS/JRS 2016 LAM GL
 - 不確実性：ATS のプレスリリースで確認。VEGF-D の診断閾値は確認していない。
-- 出典：McCormack FX, et al. Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management. Am J Respir Crit Care Med 2016（9月15日号）（区分 UNKNOWN）
+- 出典：McCormack FX, et al. Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management. Am J Respir Crit Care Med 2016（9月15日号）　[DOI 10.1164/rccm.201607-1384ST](https://doi.org/10.1164/rccm.201607-1384ST)　[PMID 27628078](https://pubmed.ncbi.nlm.nih.gov/27628078/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-B-①（肺リンパ脈管筋腫症<LAM>、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-238 (id: Jlvnl0o)；TBL-02-06-023 (id: JlAKpiY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-045&card_id=IL-045&version=a4fce698e0)　（版 `a4fce698e0`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-045&card_id=IL-045&version=61b8426451)　（版 `61b8426451`）
 
 ### IL-046　下書き（出典の照合前）
 
@@ -567,11 +567,11 @@
 - 条件：region: 国際／guideline: ATS/JRS 2016 LAM GL
 - よくある誤解：LAM は女性ホルモンが関与するので、抗エストロゲン療法が推奨される
 - 不確実性：ATS のプレスリリースで確認。乳び胸水が問題となる例では、侵襲的な処置の前にシロリムスを試すことを提案（条件付き）。
-- 出典：McCormack FX, et al. Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management. Am J Respir Crit Care Med 2016（9月15日号）（区分 UNKNOWN）
+- 出典：McCormack FX, et al. Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management. Am J Respir Crit Care Med 2016（9月15日号）　[DOI 10.1164/rccm.201607-1384ST](https://doi.org/10.1164/rccm.201607-1384ST)　[PMID 27628078](https://pubmed.ncbi.nlm.nih.gov/27628078/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-B-①（肺リンパ脈管筋腫症<LAM>、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-238 (id: Jlvnl0o)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-046&card_id=IL-046&version=78e3e6207e)　（版 `78e3e6207e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-046&card_id=IL-046&version=da42a790a9)　（版 `da42a790a9`）
 
-**[ここまでの 3 件（IL-044〜IL-046）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-044%E3%80%9CIL-046&cards=IL-044%205789646c66%0AIL-045%20a4fce698e0%0AIL-046%2078e3e6207e)**
+**[ここまでの 3 件（IL-044〜IL-046）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20IL-044%E3%80%9CIL-046&cards=IL-044%20b666d279c1%0AIL-045%2061b8426451%0AIL-046%20da42a790a9)**
 
 ---
 

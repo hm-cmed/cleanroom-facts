@@ -170,7 +170,7 @@
 
 - 条件：region: 米国／study: ガイドライン（Endocrine Society、2011年版）
 - 不確実性：原因の評価の進め方はガイドラインの対象範囲に基づく。プロラクチン値の具体的な解釈基準（茎効果でみられる上昇の上限など）は抄録で確認していないため、数値は主張文に入れていない。第19回 RP-025（排卵障害としての高プロラクチン血症）とは、下垂体疾患としての評価に絞ることで重なりを避けた。
-- 出典：Melmed S, Casanueva FF, Hoffman AR, et al. Diagnosis and Treatment of Hyperprolactinemia: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2011;96(2):273-288.　[DOI 10.1210/jc.2010-1692](https://doi.org/10.1210/jc.2010-1692)　[PMID 21296991](https://pubmed.ncbi.nlm.nih.gov/21296991/)（区分 UNKNOWN）
+- 出典：Melmed S, Casanueva FF, Hoffman AR, et al. Diagnosis and Treatment of Hyperprolactinemia: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2011;96(2):273-288.　[DOI 10.1210/jc.2010-1692](https://doi.org/10.1210/jc.2010-1692)　[PMID 21296991](https://pubmed.ncbi.nlm.nih.gov/21296991/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-B-⑤（高プロラクチン血症、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-457 (id: JlvnmKY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-012&card_id=EN-012&version=1f647cccb3)　（版 `1f647cccb3`）
 
@@ -180,7 +180,7 @@
 
 - 条件：region: 米国／study: ガイドライン（Endocrine Society、2011年版）
 - 不確実性：治療の骨格はガイドラインに基づく。カベルゴリンとブロモクリプチンの有効率・腫瘍縮小率の数値は抄録で確認していないため入れていない。両薬剤の国内承認・保険適用（高プロラクチン血症・プロラクチノーマへの適応を含む）は未確認である。
-- 出典：Melmed S, Casanueva FF, Hoffman AR, et al. Diagnosis and Treatment of Hyperprolactinemia: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2011;96(2):273-288.　[DOI 10.1210/jc.2010-1692](https://doi.org/10.1210/jc.2010-1692)　[PMID 21296991](https://pubmed.ncbi.nlm.nih.gov/21296991/)（区分 UNKNOWN）
+- 出典：Melmed S, Casanueva FF, Hoffman AR, et al. Diagnosis and Treatment of Hyperprolactinemia: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2011;96(2):273-288.　[DOI 10.1210/jc.2010-1692](https://doi.org/10.1210/jc.2010-1692)　[PMID 21296991](https://pubmed.ncbi.nlm.nih.gov/21296991/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-B-⑤（高プロラクチン血症、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-457 (id: JlvnmKY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-013&card_id=EN-013&version=2694b74ae9)　（版 `2694b74ae9`）
 

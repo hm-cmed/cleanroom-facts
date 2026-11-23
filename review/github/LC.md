@@ -322,9 +322,9 @@
 
 - 条件：region: 日本
 - 不確実性：総説の記載（二次資料経由）。各数値の一次資料は総説の引用文献
-- 出典：Pfannschmidt J, Egerer G, Bischof M, Thomas M, Dienemann H. Surgical Intervention for Pulmonary Metastases. Dtsch Arztebl Int 2012;109(40):645-651　[DOI 10.3238/arztebl.2012.0645](https://doi.org/10.3238/arztebl.2012.0645)（区分 UNKNOWN）
+- 出典：Pfannschmidt J, Egerer G, Bischof M, Thomas M, Dienemann H. Surgical Intervention for Pulmonary Metastases. Dtsch Arztebl Int 2012;109(40):645-651　[DOI 10.3238/arztebl.2012.0645](https://doi.org/10.3238/arztebl.2012.0645)　[PMID 23094000](https://pubmed.ncbi.nlm.nih.gov/23094000/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-6-A-②（転移性肺腫瘍、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-645 (id: JlvnmcU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-016&card_id=LC-016&version=375ce01a41)　（版 `375ce01a41`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-016&card_id=LC-016&version=48fe42ff5c)　（版 `48fe42ff5c`）
 
 ### LC-017　下書き（出典の照合前）
 
@@ -332,9 +332,9 @@
 
 - 条件：region: ドイツ
 - 不確実性：ドイツの総説の記載。日本の指針による適応は未確認
-- 出典：Pfannschmidt J, Egerer G, Bischof M, Thomas M, Dienemann H. Surgical Intervention for Pulmonary Metastases. Dtsch Arztebl Int 2012;109(40):645-651　[DOI 10.3238/arztebl.2012.0645](https://doi.org/10.3238/arztebl.2012.0645)（区分 UNKNOWN）
+- 出典：Pfannschmidt J, Egerer G, Bischof M, Thomas M, Dienemann H. Surgical Intervention for Pulmonary Metastases. Dtsch Arztebl Int 2012;109(40):645-651　[DOI 10.3238/arztebl.2012.0645](https://doi.org/10.3238/arztebl.2012.0645)　[PMID 23094000](https://pubmed.ncbi.nlm.nih.gov/23094000/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-6-A-②（転移性肺腫瘍、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-645 (id: JlvnmcU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-017&card_id=LC-017&version=9b7c9e0b8c)　（版 `9b7c9e0b8c`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-017&card_id=LC-017&version=3334037751)　（版 `3334037751`）
 
 ### LC-018　下書き（出典の照合前）
 
@@ -342,11 +342,11 @@
 
 - 条件：region: 国際
 - 不確実性：総説に引用された登録研究の数値（二次資料経由）。登録研究の原著（J Thorac Cardiovasc Surg 1997）は未確認
-- 出典：Pfannschmidt J, Egerer G, Bischof M, Thomas M, Dienemann H. Surgical Intervention for Pulmonary Metastases. Dtsch Arztebl Int 2012;109(40):645-651　[DOI 10.3238/arztebl.2012.0645](https://doi.org/10.3238/arztebl.2012.0645)（区分 UNKNOWN）
+- 出典：Pfannschmidt J, Egerer G, Bischof M, Thomas M, Dienemann H. Surgical Intervention for Pulmonary Metastases. Dtsch Arztebl Int 2012;109(40):645-651　[DOI 10.3238/arztebl.2012.0645](https://doi.org/10.3238/arztebl.2012.0645)　[PMID 23094000](https://pubmed.ncbi.nlm.nih.gov/23094000/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-6-A-②（転移性肺腫瘍、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-645 (id: JlvnmcU)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-018&card_id=LC-018&version=0b163112b6)　（版 `0b163112b6`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-018&card_id=LC-018&version=acbf0fb949)　（版 `acbf0fb949`）
 
-**[ここまでの 3 件（LC-016〜LC-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LC-016%E3%80%9CLC-018&cards=LC-016%20375ce01a41%0ALC-017%209b7c9e0b8c%0ALC-018%200b163112b6)**
+**[ここまでの 3 件（LC-016〜LC-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20LC-016%E3%80%9CLC-018&cards=LC-016%2048fe42ff5c%0ALC-017%203334037751%0ALC-018%20acbf0fb949)**
 
 ---
 

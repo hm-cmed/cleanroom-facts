@@ -12,7 +12,7 @@
 
 - 条件：region: 国際／対象: 神経性やせ症が疑われる患者
 - 不確実性：出典は英国の NICE ガイドライン NG69（2017年公表、2025年12月に MEED への参照更新あり）であり、紹介体制や専門サービスの構成は国内の実情と異なる。国内の学会ガイドラインは『摂食障害治療ガイドライン』（日本摂食障害学会監修、医学書院、2012年）が確認できた最新であり、それ以降の改訂は確認できていない。
-- 出典：National Institute for Health and Care Excellence. Eating disorders: recognition and treatment. NICE guideline NG69. 2017（区分 UNKNOWN）
+- 出典：National Institute for Health and Care Excellence. Eating disorders: recognition and treatment. NICE guideline NG69. 2017（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅱ-4-A-①（神経性やせ症<神経性無食欲症>、a）　コアカリ：PS-02-17-05 (id: JkxnuT8)；TBL-01-00-547 (id: JlvnmU0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-001&card_id=PH-001&version=c417987fff)　（版 `c417987fff`）
 
@@ -22,7 +22,7 @@
 
 - 条件：region: 国際／対象: 神経性やせ症患者
 - 不確実性：各心理療法の回数・期間の標準（CBT-ED は最大40回、MANTRA は標準20回など）は NICE の推奨本文に基づく。神経性やせ症そのものを効能・効果とする国内承認薬は、本作成時点の確認範囲では見当たらなかった。身体合併症の管理の詳細（再栄養症候群、電解質異常など）は内科各分野の範囲であり、本カードでは要点に留める。
-- 出典：National Institute for Health and Care Excellence. Eating disorders: recognition and treatment. NICE guideline NG69. 2017（区分 UNKNOWN）
+- 出典：National Institute for Health and Care Excellence. Eating disorders: recognition and treatment. NICE guideline NG69. 2017（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅱ-4-A-①（神経性やせ症<神経性無食欲症>、a）　コアカリ：PS-02-17-05 (id: JkxnuT8)；TBL-01-00-547 (id: JlvnmU0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-002&card_id=PH-002&version=9c903be086)　（版 `9c903be086`）
 
@@ -58,7 +58,7 @@
 
 - 条件：region: 国際／対象: 神経性過食症患者
 - 不確実性：国内では神経性過食症を効能・効果とする承認薬はなく、国内で承認されている SSRI にも同疾患の適応はないため、国内の診療でも心理療法が中心になる。薬物療法で最もエビデンスの強いフルオキセチンは、日本では医薬品自体が未承認である。
-- 出典：National Institute for Health and Care Excellence. Eating disorders: recognition and treatment. NICE guideline NG69. 2017（区分 UNKNOWN）
+- 出典：National Institute for Health and Care Excellence. Eating disorders: recognition and treatment. NICE guideline NG69. 2017（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅱ-4-A-②（神経性過食症<大食症>、a）　コアカリ：PS-02-17-05 (id: JkxnuT8)；TBL-01-00-547 (id: JlvnmU0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-004&card_id=PH-004&version=3495b74f66)　（版 `3495b74f66`）
 

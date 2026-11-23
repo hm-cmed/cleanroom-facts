@@ -58,7 +58,7 @@
 
 - 条件：population: 急性関節炎患者／region: 米国
 - 不確実性：米国のガイドラインに基づく。関節液結晶の性状は本ガイドラインおよび分類基準で確認した。
-- 出典：FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res (Hoboken). 2020;72(6):744-760.　[DOI 10.1002/acr.24180](https://doi.org/10.1002/acr.24180)　[PMID 32391934](https://pubmed.ncbi.nlm.nih.gov/32391934/)（区分 UNKNOWN）
+- 出典：FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res (Hoboken). 2020;72(6):744-760.　[DOI 10.1002/acr.24180](https://doi.org/10.1002/acr.24180)　[PMID 32391934](https://pubmed.ncbi.nlm.nih.gov/32391934/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-8-H-②（痛風、偽痛風、a）；医学各論 Ⅺ-2-E-①（痛風、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-142 (id: JlvnloE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-005&card_id=OS-005&version=464a38b9de)　（版 `464a38b9de`）
 
@@ -68,7 +68,7 @@
 
 - 条件：population: 急性痛風関節炎患者／region: 米国
 - 不確実性：米国のガイドラインに基づく。NSAIDs、コルヒチン、副腎皮質ステロイドはいずれも国内承認され保険適用されている。尿酸代謝と降尿酸治療の総論は第21回（MT）を正とし、本票では関節炎としての治療に限った。
-- 出典：FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res (Hoboken). 2020;72(6):744-760.　[DOI 10.1002/acr.24180](https://doi.org/10.1002/acr.24180)　[PMID 32391934](https://pubmed.ncbi.nlm.nih.gov/32391934/)（区分 UNKNOWN）
+- 出典：FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res (Hoboken). 2020;72(6):744-760.　[DOI 10.1002/acr.24180](https://doi.org/10.1002/acr.24180)　[PMID 32391934](https://pubmed.ncbi.nlm.nih.gov/32391934/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-8-H-②（痛風、偽痛風、a）；医学各論 Ⅺ-2-E-①（痛風、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-142 (id: JlvnloE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-006&card_id=OS-006&version=bded7911a1)　（版 `bded7911a1`）
 

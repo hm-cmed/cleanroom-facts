@@ -133,3 +133,4 @@
 - 作り手の照合（reports/id_check_20261123b_muse.md）を反映：SRC-2481・BL-004 の PMCID を PMC4415389 に訂正、SRC-4026・SM-002 の巻を165に訂正、PMID の補完（SRC-3856・3866・3351・4026）、SRC-2027（VI-018）と SRC-3351（FT-011）を OPEN、SRC-096（BP-047）を RESTRICTED（CC BY-NC-ND）。PX-001 の書誌の申し送りは解消済み（2026-11-23）。
 - 旧形式カード ES・HP・UG の source_ref を付与：73枚（新規出典 SRC-5201〜5229、うち 5224・5228 は欠番）。空のまま13枚（reports/source_ref_legacy_20261123.md）。ND-010 を SRC-1590 に付け替え（SRC-1660 と重複）（2026-11-23）。
 - ライセンス未確認の出典332件（カード473枚）の照合を作り手に依頼：第1回50件（docs/tasks/request_license_check_01.md）。全体の一覧は proposals/unknown_license_rows_20261123.json（2026-11-23）。
+- ライセンス照合 第1回（50件）を反映：48件と、それを使うカード149枚を UNKNOWN から RESTRICTED に。添付文書2件（SRC-115・116）は §2-2 により UNKNOWN のまま。識別子・書誌の補完と SRC-252 の DOI 訂正。第2回の依頼文 docs/tasks/request_license_check_02.md を作成（2026-11-23）。

@@ -38,7 +38,7 @@
 
 - 条件：region: 全世界
 - 不確実性：主張は出典の全文と抄録で確認できた範囲に限定した。日本の診断基準の細部は本出典の対象外である。
-- 出典：Murrell DF, Peña S, Joly P, Marinovic B, Hashimoto T, Diaz LA, et al. Diagnosis and management of pemphigus: Recommendations of an international panel of experts. Journal of the American Academy of Dermatology. 2020;82(3):575-585.e1.　[DOI 10.1016/j.jaad.2018.02.021](https://doi.org/10.1016/j.jaad.2018.02.021)　[PMID 29438767](https://pubmed.ncbi.nlm.nih.gov/29438767/)（区分 UNKNOWN）
+- 出典：Murrell DF, Peña S, Joly P, Marinovic B, Hashimoto T, Diaz LA, et al. Diagnosis and management of pemphigus: Recommendations of an international panel of experts. Journal of the American Academy of Dermatology. 2020;82(3):575-585.e1.　[DOI 10.1016/j.jaad.2018.02.021](https://doi.org/10.1016/j.jaad.2018.02.021)　[PMID 29438767](https://pubmed.ncbi.nlm.nih.gov/29438767/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-B-①（天疱瘡、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-003&card_id=SD-003&version=a06eb8ba49)　（版 `a06eb8ba49`）
 
@@ -48,7 +48,7 @@
 
 - 条件：region: 全世界
 - 不確実性：リツキシマブ、アザチオプリン、ミコフェノール酸モフェチル等の個別薬剤について、国内の承認・保険適用は本担当では確認しておらず未確認である。用量や投与スケジュールは出典の推奨の細部に依存するため記載していない。
-- 出典：Murrell DF, Peña S, Joly P, Marinovic B, Hashimoto T, Diaz LA, et al. Diagnosis and management of pemphigus: Recommendations of an international panel of experts. Journal of the American Academy of Dermatology. 2020;82(3):575-585.e1.　[DOI 10.1016/j.jaad.2018.02.021](https://doi.org/10.1016/j.jaad.2018.02.021)　[PMID 29438767](https://pubmed.ncbi.nlm.nih.gov/29438767/)（区分 UNKNOWN）
+- 出典：Murrell DF, Peña S, Joly P, Marinovic B, Hashimoto T, Diaz LA, et al. Diagnosis and management of pemphigus: Recommendations of an international panel of experts. Journal of the American Academy of Dermatology. 2020;82(3):575-585.e1.　[DOI 10.1016/j.jaad.2018.02.021](https://doi.org/10.1016/j.jaad.2018.02.021)　[PMID 29438767](https://pubmed.ncbi.nlm.nih.gov/29438767/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-B-①（天疱瘡、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-004&card_id=SD-004&version=a12260f5b9)　（版 `a12260f5b9`）
 
@@ -130,7 +130,7 @@
 
 - 条件：region: 全世界
 - 不確実性：主張は出典の抄録で確認できた範囲に限定した。本カードは皮膚病変と病態を扱い、関節病変の詳細は扱わない。患者数は抄録の「世界で約1億2,500万人」という記載に基づく。本カードで触れた生物学的製剤の個別薬剤の国内承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】乾癬の生物学的製剤（セクキヌマブ、イキセキズマブ、グセルクマブ、リサンキズマブ、ウステキヌマブ等）は尋常性乾癬等の適応で承認済み。「未確認」は解消できる
-- 出典：Armstrong AW, Read C. Pathophysiology, Clinical Presentation, and Treatment of Psoriasis: A Review. JAMA. 2020;323(19):1945-1960.　[DOI 10.1001/jama.2020.4006](https://doi.org/10.1001/jama.2020.4006)　[PMID 32427307](https://pubmed.ncbi.nlm.nih.gov/32427307/)（区分 UNKNOWN）
+- 出典：Armstrong AW, Read C. Pathophysiology, Clinical Presentation, and Treatment of Psoriasis: A Review. JAMA. 2020;323(19):1945-1960.　[DOI 10.1001/jama.2020.4006](https://doi.org/10.1001/jama.2020.4006)　[PMID 32427307](https://pubmed.ncbi.nlm.nih.gov/32427307/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-D-①（乾癬、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-082 (id: Jlvnlio)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-011&card_id=SD-011&version=ee012fdb16)　（版 `ee012fdb16`）
 
@@ -140,7 +140,7 @@
 
 - 条件：region: 全世界
 - 不確実性：主張は出典の抄録で確認できた範囲に限定した。外用薬の個別製剤や光線療法の照射条件について、国内の承認・保険適用と実施条件は本担当では確認しておらず未確認である。
-- 出典：Armstrong AW, Read C. Pathophysiology, Clinical Presentation, and Treatment of Psoriasis: A Review. JAMA. 2020;323(19):1945-1960.　[DOI 10.1001/jama.2020.4006](https://doi.org/10.1001/jama.2020.4006)　[PMID 32427307](https://pubmed.ncbi.nlm.nih.gov/32427307/)（区分 UNKNOWN）
+- 出典：Armstrong AW, Read C. Pathophysiology, Clinical Presentation, and Treatment of Psoriasis: A Review. JAMA. 2020;323(19):1945-1960.　[DOI 10.1001/jama.2020.4006](https://doi.org/10.1001/jama.2020.4006)　[PMID 32427307](https://pubmed.ncbi.nlm.nih.gov/32427307/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-D-①（乾癬、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-082 (id: Jlvnlio)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-012&card_id=SD-012&version=2e8d67bb6d)　（版 `2e8d67bb6d`）
 
@@ -150,7 +150,7 @@
 
 - 条件：region: 全世界
 - 不確実性：主張は出典の抄録で確認できた範囲に限定した。生物学的製剤と経口薬の個別製剤について、国内の承認・保険適用は本担当では確認しておらず未確認である。本カードは皮膚病変への全身療法を扱い、関節病変への適応は扱わない。
-- 出典：Armstrong AW, Read C. Pathophysiology, Clinical Presentation, and Treatment of Psoriasis: A Review. JAMA. 2020;323(19):1945-1960.　[DOI 10.1001/jama.2020.4006](https://doi.org/10.1001/jama.2020.4006)　[PMID 32427307](https://pubmed.ncbi.nlm.nih.gov/32427307/)（区分 UNKNOWN）
+- 出典：Armstrong AW, Read C. Pathophysiology, Clinical Presentation, and Treatment of Psoriasis: A Review. JAMA. 2020;323(19):1945-1960.　[DOI 10.1001/jama.2020.4006](https://doi.org/10.1001/jama.2020.4006)　[PMID 32427307](https://pubmed.ncbi.nlm.nih.gov/32427307/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-D-①（乾癬、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-082 (id: Jlvnlio)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-013&card_id=SD-013&version=c848ec1d5a)　（版 `c848ec1d5a`）
 
@@ -334,7 +334,7 @@
 
 - 条件：region: 国際
 - 不確実性：抗菌薬の個別薬剤の国内の承認・保険適用は未確認である。切開排膿の適応は出典ガイドライン本文の推奨に基づく。
-- 出典：Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):147-159.　[DOI 10.1093/cid/ciu296](https://doi.org/10.1093/cid/ciu296)　[PMID 24947530](https://pubmed.ncbi.nlm.nih.gov/24947530/)（区分 UNKNOWN）
+- 出典：Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):147-159.　[DOI 10.1093/cid/ciu296](https://doi.org/10.1093/cid/ciu296)　[PMID 24947530](https://pubmed.ncbi.nlm.nih.gov/24947530/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-J-①（せつ、癰、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-086 (id: JlvnljE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-025&card_id=SD-025&version=924b8bcfb2)　（版 `924b8bcfb2`）
 
@@ -370,7 +370,7 @@
 
 - 条件：region: 米国
 - 不確実性：米国ガイドラインに基づく記載であり、日本の薬剤選択や用量とは限らない。個別薬剤の国内の承認・保険適用は未確認である。推奨の強さの個別表記は抄録の範囲を超えるため含めていない。
-- 出典：Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):147-159.　[DOI 10.1093/cid/ciu296](https://doi.org/10.1093/cid/ciu296)　[PMID 24947530](https://pubmed.ncbi.nlm.nih.gov/24947530/)（区分 UNKNOWN）
+- 出典：Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):147-159.　[DOI 10.1093/cid/ciu296](https://doi.org/10.1093/cid/ciu296)　[PMID 24947530](https://pubmed.ncbi.nlm.nih.gov/24947530/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-J-②（蜂巣炎<蜂窩織炎>、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-090 (id: Jlvnljk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-028&card_id=SD-028&version=ace93b6a70)　（版 `ace93b6a70`）
 
@@ -402,7 +402,7 @@
 
 - 条件：region: 国際
 - 不確実性：抗菌薬の個別薬剤の国内の承認・保険適用は未確認である。境界明瞭という所見の対比（蜂窩織炎では境界が不明瞭）は皮膚感染症の深さによる分類に基づく一般的な整理である。
-- 出典：Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):147-159.　[DOI 10.1093/cid/ciu296](https://doi.org/10.1093/cid/ciu296)　[PMID 24947530](https://pubmed.ncbi.nlm.nih.gov/24947530/)（区分 UNKNOWN）
+- 出典：Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):147-159.　[DOI 10.1093/cid/ciu296](https://doi.org/10.1093/cid/ciu296)　[PMID 24947530](https://pubmed.ncbi.nlm.nih.gov/24947530/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-J-④（丹毒、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-088 (id: JlvnljY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-030&card_id=SD-030&version=9ad4ee19aa)　（版 `9ad4ee19aa`）
 
@@ -428,7 +428,7 @@
 
 - 条件：region: 海外／対象: 伝染性膿痂疹患者
 - 不確実性：本ガイドラインは米国のものである。同ガイドラインが推奨するムピロシン外用は、国内では鼻腔内MRSA除菌用の鼻腔用軟膏のみが承認されており、膿痂疹に対する皮膚用の外用製剤はない。レタパムリン外用とジクロキサシリンは国内未発売である。経口薬のセファレキシンは国内で承認され、皮膚感染症に用いられる。
-- 出典：Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):147-159.　[DOI 10.1093/cid/ciu296](https://doi.org/10.1093/cid/ciu296)　[PMID 24947530](https://pubmed.ncbi.nlm.nih.gov/24947530/)（区分 UNKNOWN）
+- 出典：Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):147-159.　[DOI 10.1093/cid/ciu296](https://doi.org/10.1093/cid/ciu296)　[PMID 24947530](https://pubmed.ncbi.nlm.nih.gov/24947530/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-J-⑤（伝染性膿痂疹、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-085 (id: JlvnljA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-054&card_id=SD-054&version=57cbb60643)　（版 `57cbb60643`）
 
@@ -444,7 +444,7 @@
 
 - 条件：region: 国際
 - 不確実性：死亡率の数値は出典の抄録に記載された値である。抗菌薬の個別薬剤の国内の承認・保険適用は未確認である。免疫グロブリン療法については入院期間の延長と関連するとの報告が出典で紹介されており、推奨として記載していない。
-- 出典：Handler MZ, Schwartz RA. Staphylococcal scalded skin syndrome: diagnosis and management in children and adults. J Eur Acad Dermatol Venereol. 2014;28(11):1418-1423.　[DOI 10.1111/jdv.12541](https://doi.org/10.1111/jdv.12541)　[PMID 24841497](https://pubmed.ncbi.nlm.nih.gov/24841497/)（区分 UNKNOWN）
+- 出典：Handler MZ, Schwartz RA. Staphylococcal scalded skin syndrome: diagnosis and management in children and adults. J Eur Acad Dermatol Venereol. 2014;28(11):1418-1423.　[DOI 10.1111/jdv.12541](https://doi.org/10.1111/jdv.12541)　[PMID 24841497](https://pubmed.ncbi.nlm.nih.gov/24841497/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-J-⑥（ブドウ球菌性熱傷様皮膚症候群、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-089 (id: Jlvnljg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-032&card_id=SD-032&version=c0f5572ea3)　（版 `c0f5572ea3`）
 
@@ -454,7 +454,7 @@
 
 - 条件：region: 全般／対象: ブドウ球菌性熱傷様皮膚症候群の患者
 - 不確実性：本総説が挙げるナフシリンとオキサシリンは国内未発売であり、国内ではセファゾリンなど承認済みの抗ブドウ球菌性βラクタム薬が用いられる。バンコマイシンとクリンダマイシンは国内で承認されている。免疫グロブリン静注については、本総説は入院期間の延長と関連した報告を紹介しており、推奨は後退している。
-- 出典：Handler MZ, Schwartz RA. Staphylococcal scalded skin syndrome: diagnosis and management in children and adults. J Eur Acad Dermatol Venereol. 2014;28(11):1418-1423.　[DOI 10.1111/jdv.12541](https://doi.org/10.1111/jdv.12541)　[PMID 24841497](https://pubmed.ncbi.nlm.nih.gov/24841497/)（区分 UNKNOWN）
+- 出典：Handler MZ, Schwartz RA. Staphylococcal scalded skin syndrome: diagnosis and management in children and adults. J Eur Acad Dermatol Venereol. 2014;28(11):1418-1423.　[DOI 10.1111/jdv.12541](https://doi.org/10.1111/jdv.12541)　[PMID 24841497](https://pubmed.ncbi.nlm.nih.gov/24841497/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-J-⑥（ブドウ球菌性熱傷様皮膚症候群、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-089 (id: Jlvnljg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-055&card_id=SD-055&version=0ab95e0b35)　（版 `0ab95e0b35`）
 
@@ -470,7 +470,7 @@
 
 - 条件：region: 国際
 - 不確実性：出典（NEJM 総説）の抄録本文は PubMed に収載されておらず、主張は同総説が扱う壊死性軟部組織感染症の分類と治療の骨子に限定した。個別の抗菌薬レジメンや国内の承認・保険適用は未確認である。
-- 出典：Stevens DL, Bryant AE. Necrotizing Soft-Tissue Infections. N Engl J Med. 2017;377(23):2253-2265.　[DOI 10.1056/NEJMra1600673](https://doi.org/10.1056/NEJMra1600673)　[PMID 29211672](https://pubmed.ncbi.nlm.nih.gov/29211672/)（区分 UNKNOWN）
+- 出典：Stevens DL, Bryant AE. Necrotizing Soft-Tissue Infections. N Engl J Med. 2017;377(23):2253-2265.　[DOI 10.1056/NEJMra1600673](https://doi.org/10.1056/NEJMra1600673)　[PMID 29211672](https://pubmed.ncbi.nlm.nih.gov/29211672/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-J-⑦（壊死性筋膜炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-091 (id: Jlvnljs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-033&card_id=SD-033&version=83f60aaab6)　（版 `83f60aaab6`）
 
@@ -480,7 +480,7 @@
 
 - 条件：region: 全般／対象: 壊死性筋膜炎が疑われる患者
 - 不確実性：LRINECスコアは主に成人での検討に基づいており、本総説は小児の壊死性筋膜炎ではスコア中央値が3.7にとどまった報告を紹介しているため、低値でも本症を否定できない。本カードは診断の手がかりに限定し、治療は既存カードSD-033が担う。
-- 出典：Stevens DL, Bryant AE. Necrotizing Soft-Tissue Infections. N Engl J Med. 2017;377(23):2253-2265.　[DOI 10.1056/NEJMra1600673](https://doi.org/10.1056/NEJMra1600673)　[PMID 29211672](https://pubmed.ncbi.nlm.nih.gov/29211672/)（区分 UNKNOWN）
+- 出典：Stevens DL, Bryant AE. Necrotizing Soft-Tissue Infections. N Engl J Med. 2017;377(23):2253-2265.　[DOI 10.1056/NEJMra1600673](https://doi.org/10.1056/NEJMra1600673)　[PMID 29211672](https://pubmed.ncbi.nlm.nih.gov/29211672/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-J-⑦（壊死性筋膜炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-091 (id: Jlvnljs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-056&card_id=SD-056&version=c61f927e4f)　（版 `c61f927e4f`）
 
@@ -496,7 +496,7 @@
 
 - 条件：region: 国際
 - 不確実性：出典（NEJM 総説）の抄録本文は PubMed に収載されておらず、主張は同総説が扱うクロストリジウム性筋壊死の位置づけと治療の骨子に限定した。抗菌薬の個別薬剤の国内の承認・保険適用は未確認である。高圧酸素療法の位置づけは出典の抄録範囲で確認できないため含めていない。
-- 出典：Stevens DL, Bryant AE. Necrotizing Soft-Tissue Infections. N Engl J Med. 2017;377(23):2253-2265.　[DOI 10.1056/NEJMra1600673](https://doi.org/10.1056/NEJMra1600673)　[PMID 29211672](https://pubmed.ncbi.nlm.nih.gov/29211672/)（区分 UNKNOWN）
+- 出典：Stevens DL, Bryant AE. Necrotizing Soft-Tissue Infections. N Engl J Med. 2017;377(23):2253-2265.　[DOI 10.1056/NEJMra1600673](https://doi.org/10.1056/NEJMra1600673)　[PMID 29211672](https://pubmed.ncbi.nlm.nih.gov/29211672/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-J-⑧（ガス壊疽、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-034&card_id=SD-034&version=212af81090)　（版 `212af81090`）
 
@@ -512,7 +512,7 @@
 
 - 条件：region: 国際
 - 不確実性：菌種ごとの抗菌薬レジメンは出典で公式ガイドラインの参照とされており、本カードには含めていない。個別薬剤の国内の承認・保険適用は未確認である。
-- 出典：Franco-Paredes C, Marcos LA, Henao-Martínez AF, et al. Cutaneous Mycobacterial Infections. Clin Microbiol Rev. 2019;32(1):e00069-18.　[DOI 10.1128/CMR.00069-18](https://doi.org/10.1128/CMR.00069-18)　[PMID 30429139](https://pubmed.ncbi.nlm.nih.gov/30429139/)（区分 UNKNOWN）
+- 出典：Franco-Paredes C, Marcos LA, Henao-Martínez AF, et al. Cutaneous Mycobacterial Infections. Clin Microbiol Rev. 2019;32(1):e00069-18.　[DOI 10.1128/CMR.00069-18](https://doi.org/10.1128/CMR.00069-18)　[PMID 30429139](https://pubmed.ncbi.nlm.nih.gov/30429139/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-K-①（非結核性抗酸菌症、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-093 (id: Jlvnlj4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-035&card_id=SD-035&version=27fa200b0e)　（版 `27fa200b0e`）
 
@@ -528,7 +528,7 @@
 
 - 条件：region: 国際
 - 不確実性：尋常性狼瘡に固有の臨床所見の詳細は出典の抄録に明記されていないため、皮膚結核全体の分類と診断の枠組みに留めた。抗結核薬の個別レジメンは本カードには含めていない。
-- 出典：Franco-Paredes C, Marcos LA, Henao-Martínez AF, et al. Cutaneous Mycobacterial Infections. Clin Microbiol Rev. 2019;32(1):e00069-18.　[DOI 10.1128/CMR.00069-18](https://doi.org/10.1128/CMR.00069-18)　[PMID 30429139](https://pubmed.ncbi.nlm.nih.gov/30429139/)（区分 UNKNOWN）
+- 出典：Franco-Paredes C, Marcos LA, Henao-Martínez AF, et al. Cutaneous Mycobacterial Infections. Clin Microbiol Rev. 2019;32(1):e00069-18.　[DOI 10.1128/CMR.00069-18](https://doi.org/10.1128/CMR.00069-18)　[PMID 30429139](https://pubmed.ncbi.nlm.nih.gov/30429139/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-K-②（尋常性狼瘡、c）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-093 (id: Jlvnlj4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-036&card_id=SD-036&version=2cd21525ee)　（版 `2cd21525ee`）
 
@@ -544,7 +544,7 @@
 
 - 条件：region: 国際
 - 不確実性：各病変の頻度や治療レジメンは出典の抄録の範囲を超えるため含めていない。皮膚腺病と硬結性紅斑の対応づけは出典の皮膚結核の分類（直接感染による病型と過敏反応による病型）に基づく。
-- 出典：Franco-Paredes C, Marcos LA, Henao-Martínez AF, et al. Cutaneous Mycobacterial Infections. Clin Microbiol Rev. 2019;32(1):e00069-18.　[DOI 10.1128/CMR.00069-18](https://doi.org/10.1128/CMR.00069-18)　[PMID 30429139](https://pubmed.ncbi.nlm.nih.gov/30429139/)（区分 UNKNOWN）
+- 出典：Franco-Paredes C, Marcos LA, Henao-Martínez AF, et al. Cutaneous Mycobacterial Infections. Clin Microbiol Rev. 2019;32(1):e00069-18.　[DOI 10.1128/CMR.00069-18](https://doi.org/10.1128/CMR.00069-18)　[PMID 30429139](https://pubmed.ncbi.nlm.nih.gov/30429139/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-K-③（皮膚腺病、c）；医学各論 Ⅲ-3-K-④（硬結性紅斑、c）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-093 (id: Jlvnlj4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-037&card_id=SD-037&version=bbd41cb4fd)　（版 `bbd41cb4fd`）
 
@@ -560,7 +560,7 @@
 
 - 条件：region: 国際
 - 不確実性：出典（Am Fam Physician の総説）は DOI が付与されていない（PubMed レコードで確認）。同総説の主対象は皮膚糸状菌症であり、カンジダ症の診断手順の詳細はその範囲外のため本カードには含めていない。KOH 直接鏡検などの個別検査の感度の数値は出典の抄録に記載がなく含めていない。
-- 出典：Caplan AS, Gold JAW, Smith DJ, Ely JW. Diagnosis and Management of Tinea Infections. Am Fam Physician. 2025;112(4):382-392.　[PMID 41118183](https://pubmed.ncbi.nlm.nih.gov/41118183/)（区分 UNKNOWN）
+- 出典：Caplan AS, Gold JAW, Smith DJ, Ely JW. Diagnosis and Management of Tinea Infections. Am Fam Physician. 2025;112(4):382-392.　[PMID 41118183](https://pubmed.ncbi.nlm.nih.gov/41118183/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-L-①（白癬、カンジダ症、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-092 (id: Jlvnljw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-038&card_id=SD-038&version=2290827138)　（版 `2290827138`）
 
@@ -570,7 +570,7 @@
 
 - 条件：region: 国際
 - 不確実性：出典は DOI が付与されていない（PubMed レコードで確認）。テルビナフィンなど個別薬剤の国内の承認・保険適用は未確認である。カンジダ症の治療の詳細は出典の主対象の範囲外のため含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】テルビナフィンは白癬（爪白癬を含む）の適応で国内承認・保険収載済み（PMDA添付文書情報、2026-10-31確認）
-- 出典：Caplan AS, Gold JAW, Smith DJ, Ely JW. Diagnosis and Management of Tinea Infections. Am Fam Physician. 2025;112(4):382-392.　[PMID 41118183](https://pubmed.ncbi.nlm.nih.gov/41118183/)（区分 UNKNOWN）
+- 出典：Caplan AS, Gold JAW, Smith DJ, Ely JW. Diagnosis and Management of Tinea Infections. Am Fam Physician. 2025;112(4):382-392.　[PMID 41118183](https://pubmed.ncbi.nlm.nih.gov/41118183/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-L-①（白癬、カンジダ症、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-092 (id: Jlvnljw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-039&card_id=SD-039&version=845e2f1d88)　（版 `845e2f1d88`）
 
@@ -618,7 +618,7 @@
 
 - 条件：region: 日本
 - 不確実性：フェノトリン外用が2014年8月に国内で保険適用となったことは出典（ガイドライン要約）の記載で確認した。イベルメクチンなど、その他の薬剤の国内の承認・保険適用の個別確認はしていない。診断基準の細目は要約版の範囲を超えるため本カードには含めていない。
-- 出典：Ishii N, Asai T, Asahina A, Ishiko A, et al. Guideline for the diagnosis and treatment of scabies in Japan (third edition): Executive Committee of Guideline for the Diagnosis and Treatment of Scabies. J Dermatol. 2017;44(9):991-1014.　[DOI 10.1111/1346-8138.13896](https://doi.org/10.1111/1346-8138.13896)　[PMID 28561292](https://pubmed.ncbi.nlm.nih.gov/28561292/)（区分 UNKNOWN）
+- 出典：Ishii N, Asai T, Asahina A, Ishiko A, et al. Guideline for the diagnosis and treatment of scabies in Japan (third edition): Executive Committee of Guideline for the Diagnosis and Treatment of Scabies. J Dermatol. 2017;44(9):991-1014.　[DOI 10.1111/1346-8138.13896](https://doi.org/10.1111/1346-8138.13896)　[PMID 28561292](https://pubmed.ncbi.nlm.nih.gov/28561292/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-M-①（疥癬、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-094 (id: Jlvnlj8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-042&card_id=SD-042&version=0728d0ed6d)　（版 `0728d0ed6d`）
 
@@ -628,7 +628,7 @@
 
 - 条件：region: 日本
 - 不確実性：集団発生時の接触者への一斉治療の範囲や環境対策など、具体的な運用手順の詳細は本ガイドライン要約版の抄録の範囲では確認できず、本カードには含めていない。補完候補として、高齢者施設での集団発生管理を扱った White LCJ らのレビュー（Epidemiol Infect. 2016、PMID 27734781、DOI 10.1017/S0950268816001746）がある。本カードでは個別の薬剤名は挙げていない。
-- 出典：Ishii N, Asai T, Asahina A, Ishiko A, et al. Guideline for the diagnosis and treatment of scabies in Japan (third edition): Executive Committee of Guideline for the Diagnosis and Treatment of Scabies. J Dermatol. 2017;44(9):991-1014.　[DOI 10.1111/1346-8138.13896](https://doi.org/10.1111/1346-8138.13896)　[PMID 28561292](https://pubmed.ncbi.nlm.nih.gov/28561292/)（区分 UNKNOWN）
+- 出典：Ishii N, Asai T, Asahina A, Ishiko A, et al. Guideline for the diagnosis and treatment of scabies in Japan (third edition): Executive Committee of Guideline for the Diagnosis and Treatment of Scabies. J Dermatol. 2017;44(9):991-1014.　[DOI 10.1111/1346-8138.13896](https://doi.org/10.1111/1346-8138.13896)　[PMID 28561292](https://pubmed.ncbi.nlm.nih.gov/28561292/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-M-①（疥癬、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-094 (id: Jlvnlj8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-043&card_id=SD-043&version=f2ffc12039)　（版 `f2ffc12039`）
 
@@ -644,7 +644,7 @@
 
 - 条件：region: 国際
 - 不確実性：本カードは総説の抄録で確認できる範囲の定性的な記述に限った。治療に用いられる抗ウイルス薬（アシクロビル、バラシクロビル等）の国内の承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アシクロビル・バラシクロビルは単純ヘルペスの適応で国内承認・保険収載済み（PMDA添付文書情報、2026-10-31確認）
-- 出典：Fatahzadeh M, Schwartz RA. Human herpes simplex virus infections: epidemiology, pathogenesis, symptomatology, diagnosis, and management. J Am Acad Dermatol. 2007;57(5):737-763.　[DOI 10.1016/j.jaad.2007.06.027](https://doi.org/10.1016/j.jaad.2007.06.027)　[PMID 17939933](https://pubmed.ncbi.nlm.nih.gov/17939933/)（区分 UNKNOWN）
+- 出典：Fatahzadeh M, Schwartz RA. Human herpes simplex virus infections: epidemiology, pathogenesis, symptomatology, diagnosis, and management. J Am Acad Dermatol. 2007;57(5):737-763.　[DOI 10.1016/j.jaad.2007.06.027](https://doi.org/10.1016/j.jaad.2007.06.027)　[PMID 17939933](https://pubmed.ncbi.nlm.nih.gov/17939933/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-N-①（単純ヘルペス、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-096 (id: JlvnlkE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-044&card_id=SD-044&version=cf56e45619)　（版 `cf56e45619`）
 
@@ -654,7 +654,7 @@
 
 - 条件：region: 国際／対象: 単純ヘルペス患者
 - 不確実性：出典の本文は購読制で開放的な全文がなく、本カードの記述は抄録で確認できる総説の対象範囲（粘膜皮膚のHSV感染症の病因・症状・管理）に基づく定性的な内容に限った。アシクロビルとバラシクロビルは、いずれも国内で単純疱疹の効能で承認され保険適用がある（PMDAの添付文書で確認）。
-- 出典：Fatahzadeh M, Schwartz RA. Human herpes simplex virus infections: epidemiology, pathogenesis, symptomatology, diagnosis, and management. J Am Acad Dermatol. 2007;57(5):737-763.　[DOI 10.1016/j.jaad.2007.06.027](https://doi.org/10.1016/j.jaad.2007.06.027)　[PMID 17939933](https://pubmed.ncbi.nlm.nih.gov/17939933/)（区分 UNKNOWN）
+- 出典：Fatahzadeh M, Schwartz RA. Human herpes simplex virus infections: epidemiology, pathogenesis, symptomatology, diagnosis, and management. J Am Acad Dermatol. 2007;57(5):737-763.　[DOI 10.1016/j.jaad.2007.06.027](https://doi.org/10.1016/j.jaad.2007.06.027)　[PMID 17939933](https://pubmed.ncbi.nlm.nih.gov/17939933/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-N-①（単純ヘルペス、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-096 (id: JlvnlkE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-057&card_id=SD-057&version=389716d644)　（版 `389716d644`）
 
@@ -696,7 +696,7 @@
 
 - 条件：region: 英国
 - 不確実性：本ガイドラインの抄録は PubMed に収載されておらず、本文の個別の推奨の強さは確認していないため、本カードの記述はガイドラインの対象範囲に基づく定性的な内容に限った。個別の薬剤名は挙げていない。
-- 出典：Sterling JC, Gibbs S, Haque Hussain SS, Mohd Mustapa MF, et al. British Association of Dermatologists' guidelines for the management of cutaneous warts 2014. Br J Dermatol. 2014;171(4):696-712.　[DOI 10.1111/bjd.13310](https://doi.org/10.1111/bjd.13310)　[PMID 25273231](https://pubmed.ncbi.nlm.nih.gov/25273231/)（区分 UNKNOWN）
+- 出典：Sterling JC, Gibbs S, Haque Hussain SS, Mohd Mustapa MF, et al. British Association of Dermatologists' guidelines for the management of cutaneous warts 2014. Br J Dermatol. 2014;171(4):696-712.　[DOI 10.1111/bjd.13310](https://doi.org/10.1111/bjd.13310)　[PMID 25273231](https://pubmed.ncbi.nlm.nih.gov/25273231/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-N-③（尋常性疣贅、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-098 (id: JlvnlkQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-046&card_id=SD-046&version=76edc65d14)　（版 `76edc65d14`）
 
@@ -706,7 +706,7 @@
 
 - 条件：region: 英国／対象: 皮膚疣贅の患者
 - 不確実性：英国のガイドラインであり、治療の進め方は日本の診療と異なる場合がある。治癒率の数値（サリチル酸で平均49%、プラセボで23%）は本ガイドライン本文が引用する集計の値である。サリチル酸は国内では50%絆創膏製剤が疣贅・鶏眼・胼胝腫の角質剥離の効能で承認され保険適用がある（PMDAの添付文書で確認）。
-- 出典：Sterling JC, Gibbs S, Haque Hussain SS, Mohd Mustapa MF, et al. British Association of Dermatologists' guidelines for the management of cutaneous warts 2014. Br J Dermatol. 2014;171(4):696-712.　[DOI 10.1111/bjd.13310](https://doi.org/10.1111/bjd.13310)　[PMID 25273231](https://pubmed.ncbi.nlm.nih.gov/25273231/)（区分 UNKNOWN）
+- 出典：Sterling JC, Gibbs S, Haque Hussain SS, Mohd Mustapa MF, et al. British Association of Dermatologists' guidelines for the management of cutaneous warts 2014. Br J Dermatol. 2014;171(4):696-712.　[DOI 10.1111/bjd.13310](https://doi.org/10.1111/bjd.13310)　[PMID 25273231](https://pubmed.ncbi.nlm.nih.gov/25273231/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-N-③（尋常性疣贅、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-098 (id: JlvnlkQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-059&card_id=SD-059&version=c9f68b0782)　（版 `c9f68b0782`）
 

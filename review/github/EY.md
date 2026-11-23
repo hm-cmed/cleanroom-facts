@@ -28,7 +28,7 @@
 
 - 条件：region: ドイツの疫学数値を含む一般事項／study: 総説
 - 不確実性：疫学数値（約70%、63.4%、5.3%、21.1%）はいずれもドイツのデータであり、日本の有病率・受診動向ではない。
-- 出典：Schiefer U, Kraus C, Baumbach P, Ungewiß J, Michels R. Refractive errors: Epidemiology, Effects and Treatment Options. Dtsch Arztebl Int. 2016;113(41):693-702　[DOI 10.3238/arztebl.2016.0693](https://doi.org/10.3238/arztebl.2016.0693)　[PMID 27839543](https://pubmed.ncbi.nlm.nih.gov/27839543/)（区分 UNKNOWN）
+- 出典：Schiefer U, Kraus C, Baumbach P, Ungewiß J, Michels R. Refractive errors: Epidemiology, Effects and Treatment Options. Dtsch Arztebl Int. 2016;113(41):693-702　[DOI 10.3238/arztebl.2016.0693](https://doi.org/10.3238/arztebl.2016.0693)　[PMID 27839543](https://pubmed.ncbi.nlm.nih.gov/27839543/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-4-A-②（屈折異常、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-489 (id: JlvnmNk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-002&card_id=EY-002&version=d84ee66fef)　（版 `d84ee66fef`）
 
@@ -44,7 +44,7 @@
 
 - 条件：region: 全般／study: 総説
 - 不確実性：出典では老視は屈折異常の総説の中で「加齢に伴う典型的な光学的障害」として扱われており、調節力低下の定量値や補正手段の詳細は本カードに含めていない。
-- 出典：Schiefer U, Kraus C, Baumbach P, Ungewiß J, Michels R. Refractive errors: Epidemiology, Effects and Treatment Options. Dtsch Arztebl Int. 2016;113(41):693-702　[DOI 10.3238/arztebl.2016.0693](https://doi.org/10.3238/arztebl.2016.0693)　[PMID 27839543](https://pubmed.ncbi.nlm.nih.gov/27839543/)（区分 UNKNOWN）
+- 出典：Schiefer U, Kraus C, Baumbach P, Ungewiß J, Michels R. Refractive errors: Epidemiology, Effects and Treatment Options. Dtsch Arztebl Int. 2016;113(41):693-702　[DOI 10.3238/arztebl.2016.0693](https://doi.org/10.3238/arztebl.2016.0693)　[PMID 27839543](https://pubmed.ncbi.nlm.nih.gov/27839543/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-4-A-③（調節異常、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-489 (id: JlvnmNk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-003&card_id=EY-003&version=27d191c02a)　（版 `27d191c02a`）
 
@@ -76,7 +76,7 @@
 
 - 条件：region: 全般／study: 総説
 - 不確実性：薬剤（局所抗菌薬）について、国内での承認・保険適用の確認状況：未確認。出典は米国の家庭医療向け総説であり、細部の診療手順は日本の実態と異なる場合がある。DOI は同誌が付与していないため null とした。
-- 出典：Carlisle RT, Digiovanni J. Differential Diagnosis of the Swollen Red Eyelid. Am Fam Physician. 2015;92(2):106-112　[PMID 26176369](https://pubmed.ncbi.nlm.nih.gov/26176369/)（区分 UNKNOWN）
+- 出典：Carlisle RT, Digiovanni J. Differential Diagnosis of the Swollen Red Eyelid. Am Fam Physician. 2015;92(2):106-112　[PMID 26176369](https://pubmed.ncbi.nlm.nih.gov/26176369/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-B-②（麦粒腫、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-492 (id: JlvnmNw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-005&card_id=EY-005&version=162e72a0d7)　（版 `162e72a0d7`）
 
@@ -86,7 +86,7 @@
 
 - 条件：region: 全般／study: 総説
 - 不確実性：出典は米国の家庭医療向け総説であり、処置の適応の細部は日本の実態と異なる場合がある。DOI は同誌が付与していないため null とした。
-- 出典：Carlisle RT, Digiovanni J. Differential Diagnosis of the Swollen Red Eyelid. Am Fam Physician. 2015;92(2):106-112　[PMID 26176369](https://pubmed.ncbi.nlm.nih.gov/26176369/)（区分 UNKNOWN）
+- 出典：Carlisle RT, Digiovanni J. Differential Diagnosis of the Swollen Red Eyelid. Am Fam Physician. 2015;92(2):106-112　[PMID 26176369](https://pubmed.ncbi.nlm.nih.gov/26176369/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-B-③（霰粒腫、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-492 (id: JlvnmNw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-006&card_id=EY-006&version=0a1c7f8eaa)　（版 `0a1c7f8eaa`）
 
@@ -96,7 +96,7 @@
 
 - 条件：region: 全般／study: 総説
 - 不確実性：薬剤（人工涙液・潤滑軟膏）について、国内での承認・保険適用の確認状況：未確認。出典は1998年の総説であり、主張は定義・症状・眼表面保護と手術という今も変わらない基本方針に限定した。術式別の成功率など最近の外科エビデンスは含めていない。DOI は当時の同誌論文に付与がなく null とした。
-- 出典：Carter SR. Eyelid disorders: diagnosis and management. Am Fam Physician. 1998;57(11):2695-2702　[PMID 9636333](https://pubmed.ncbi.nlm.nih.gov/9636333/)（区分 UNKNOWN）
+- 出典：Carter SR. Eyelid disorders: diagnosis and management. Am Fam Physician. 1998;57(11):2695-2702　[PMID 9636333](https://pubmed.ncbi.nlm.nih.gov/9636333/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-B-④（眼瞼内反、b）；医学各論 Ⅲ-5-B-⑤（眼瞼外反、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-007&card_id=EY-007&version=1c4b9fbacc)　（版 `1c4b9fbacc`）
 
@@ -106,7 +106,7 @@
 
 - 条件：region: 全般／study: 総説
 - 不確実性：出典は1998年の総説であり、基本的な定義と対処に限定した。トラコーマに伴う睫毛内反の手術（瞼板回転術）など原因別の詳細は含めていない。DOI は当時の同誌論文に付与がなく null とした。
-- 出典：Carter SR. Eyelid disorders: diagnosis and management. Am Fam Physician. 1998;57(11):2695-2702　[PMID 9636333](https://pubmed.ncbi.nlm.nih.gov/9636333/)（区分 UNKNOWN）
+- 出典：Carter SR. Eyelid disorders: diagnosis and management. Am Fam Physician. 1998;57(11):2695-2702　[PMID 9636333](https://pubmed.ncbi.nlm.nih.gov/9636333/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-008&card_id=EY-008&version=4217171eb3)　（版 `4217171eb3`）
 
@@ -122,7 +122,7 @@
 
 - 条件：region: 全般／study: 診療ガイドライン（Preferred Practice Pattern）
 - 不確実性：薬剤（抗ウイルス薬）について、国内での承認・保険適用の確認状況：未確認。アデノウイルスの型別の病型（流行性角結膜炎と咽頭結膜熱の型の対応）は、ガイドライン本文の該当箇所を本調査で逐語確認できていないため含めていない。
-- 出典：Varu DM, Rhee MK, Akpek EK, Amescua G, Farid M, Garcia-Ferrer FJ, Lin A, Musch DC, Mah FS, Dunn SP; American Academy of Ophthalmology Cornea/External Disease Panel. Conjunctivitis Preferred Practice Pattern®. Ophthalmology. 2019;126(1):P94-P169　[DOI 10.1016/j.ophtha.2018.10.020](https://doi.org/10.1016/j.ophtha.2018.10.020)　[PMID 30366797](https://pubmed.ncbi.nlm.nih.gov/30366797/)（区分 UNKNOWN）
+- 出典：Varu DM, Rhee MK, Akpek EK, Amescua G, Farid M, Garcia-Ferrer FJ, Lin A, Musch DC, Mah FS, Dunn SP; American Academy of Ophthalmology Cornea/External Disease Panel. Conjunctivitis Preferred Practice Pattern®. Ophthalmology. 2019;126(1):P94-P169　[DOI 10.1016/j.ophtha.2018.10.020](https://doi.org/10.1016/j.ophtha.2018.10.020)　[PMID 30366797](https://pubmed.ncbi.nlm.nih.gov/30366797/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-C-①（結膜炎、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-009&card_id=EY-009&version=53f9e61e4b)　（版 `53f9e61e4b`）
 
@@ -132,7 +132,7 @@
 
 - 条件：region: 全般／study: 診療ガイドライン（Preferred Practice Pattern）
 - 不確実性：薬剤（抗アレルギー点眼薬）について、国内での承認・保険適用の確認状況：未確認。春季カタルやアトピー性角結膜炎など重症型の詳細は本カードに含めていない。
-- 出典：Varu DM, Rhee MK, Akpek EK, Amescua G, Farid M, Garcia-Ferrer FJ, Lin A, Musch DC, Mah FS, Dunn SP; American Academy of Ophthalmology Cornea/External Disease Panel. Conjunctivitis Preferred Practice Pattern®. Ophthalmology. 2019;126(1):P94-P169　[DOI 10.1016/j.ophtha.2018.10.020](https://doi.org/10.1016/j.ophtha.2018.10.020)　[PMID 30366797](https://pubmed.ncbi.nlm.nih.gov/30366797/)（区分 UNKNOWN）
+- 出典：Varu DM, Rhee MK, Akpek EK, Amescua G, Farid M, Garcia-Ferrer FJ, Lin A, Musch DC, Mah FS, Dunn SP; American Academy of Ophthalmology Cornea/External Disease Panel. Conjunctivitis Preferred Practice Pattern®. Ophthalmology. 2019;126(1):P94-P169　[DOI 10.1016/j.ophtha.2018.10.020](https://doi.org/10.1016/j.ophtha.2018.10.020)　[PMID 30366797](https://pubmed.ncbi.nlm.nih.gov/30366797/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-C-①（結膜炎、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-010&card_id=EY-010&version=565e55db32)　（版 `565e55db32`）
 
@@ -142,7 +142,7 @@
 
 - 条件：region: 全般／study: 診療ガイドライン（Preferred Practice Pattern）
 - 不確実性：薬剤（局所抗菌薬）について、国内での承認・保険適用の確認状況：未確認。起炎菌の内訳（黄色ブドウ球菌、肺炎球菌、インフルエンザ菌など）の頻度は本カードに含めていない。
-- 出典：Varu DM, Rhee MK, Akpek EK, Amescua G, Farid M, Garcia-Ferrer FJ, Lin A, Musch DC, Mah FS, Dunn SP; American Academy of Ophthalmology Cornea/External Disease Panel. Conjunctivitis Preferred Practice Pattern®. Ophthalmology. 2019;126(1):P94-P169　[DOI 10.1016/j.ophtha.2018.10.020](https://doi.org/10.1016/j.ophtha.2018.10.020)　[PMID 30366797](https://pubmed.ncbi.nlm.nih.gov/30366797/)（区分 UNKNOWN）
+- 出典：Varu DM, Rhee MK, Akpek EK, Amescua G, Farid M, Garcia-Ferrer FJ, Lin A, Musch DC, Mah FS, Dunn SP; American Academy of Ophthalmology Cornea/External Disease Panel. Conjunctivitis Preferred Practice Pattern®. Ophthalmology. 2019;126(1):P94-P169　[DOI 10.1016/j.ophtha.2018.10.020](https://doi.org/10.1016/j.ophtha.2018.10.020)　[PMID 30366797](https://pubmed.ncbi.nlm.nih.gov/30366797/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-C-①（結膜炎、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-011&card_id=EY-011&version=6fb8a866a9)　（版 `6fb8a866a9`）
 
@@ -152,7 +152,7 @@
 
 - 条件：region: 全般／study: 診療ガイドライン（Preferred Practice Pattern）
 - 不確実性：薬剤（全身投与の抗菌薬）について、国内での承認・保険適用の確認状況：未確認。トラコーマ（反復感染による瘢痕性病変）としての側面は本カードに含めていない。
-- 出典：Varu DM, Rhee MK, Akpek EK, Amescua G, Farid M, Garcia-Ferrer FJ, Lin A, Musch DC, Mah FS, Dunn SP; American Academy of Ophthalmology Cornea/External Disease Panel. Conjunctivitis Preferred Practice Pattern®. Ophthalmology. 2019;126(1):P94-P169　[DOI 10.1016/j.ophtha.2018.10.020](https://doi.org/10.1016/j.ophtha.2018.10.020)　[PMID 30366797](https://pubmed.ncbi.nlm.nih.gov/30366797/)（区分 UNKNOWN）
+- 出典：Varu DM, Rhee MK, Akpek EK, Amescua G, Farid M, Garcia-Ferrer FJ, Lin A, Musch DC, Mah FS, Dunn SP; American Academy of Ophthalmology Cornea/External Disease Panel. Conjunctivitis Preferred Practice Pattern®. Ophthalmology. 2019;126(1):P94-P169　[DOI 10.1016/j.ophtha.2018.10.020](https://doi.org/10.1016/j.ophtha.2018.10.020)　[PMID 30366797](https://pubmed.ncbi.nlm.nih.gov/30366797/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-C-①（結膜炎、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-012&card_id=EY-012&version=0eec6c951a)　（版 `0eec6c951a`）
 
@@ -162,7 +162,7 @@
 
 - 条件：region: 全般／study: 診療ガイドライン（Preferred Practice Pattern）
 - 不確実性：鑑別の要点はガイドラインの病型別所見対照表に基づく。迅速抗原検査や PCR などの検査の感度・特異度の数値は本カードに含めていない。
-- 出典：Varu DM, Rhee MK, Akpek EK, Amescua G, Farid M, Garcia-Ferrer FJ, Lin A, Musch DC, Mah FS, Dunn SP; American Academy of Ophthalmology Cornea/External Disease Panel. Conjunctivitis Preferred Practice Pattern®. Ophthalmology. 2019;126(1):P94-P169　[DOI 10.1016/j.ophtha.2018.10.020](https://doi.org/10.1016/j.ophtha.2018.10.020)　[PMID 30366797](https://pubmed.ncbi.nlm.nih.gov/30366797/)（区分 UNKNOWN）
+- 出典：Varu DM, Rhee MK, Akpek EK, Amescua G, Farid M, Garcia-Ferrer FJ, Lin A, Musch DC, Mah FS, Dunn SP; American Academy of Ophthalmology Cornea/External Disease Panel. Conjunctivitis Preferred Practice Pattern®. Ophthalmology. 2019;126(1):P94-P169　[DOI 10.1016/j.ophtha.2018.10.020](https://doi.org/10.1016/j.ophtha.2018.10.020)　[PMID 30366797](https://pubmed.ncbi.nlm.nih.gov/30366797/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-C-①（結膜炎、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-013&card_id=EY-013&version=2178b97b09)　（版 `2178b97b09`）
 
@@ -188,7 +188,7 @@
 
 - 条件：region: 全般／study: 総説
 - 不確実性：薬剤（局所抗菌薬、副腎皮質ステロイド、アシクロビル）について、国内での承認・保険適用の確認状況：未確認。グラム染色の検出率60〜75%は出典本文から読み取った値。本文は著者原稿版で確認した。
-- 出典：Austin A, Lietman T, Rose-Nussbaumer J. Update on the Management of Infectious Keratitis. Ophthalmology. 2017;124(11):1678-1689　[DOI 10.1016/j.ophtha.2017.05.012](https://doi.org/10.1016/j.ophtha.2017.05.012)　[PMID 28942073](https://pubmed.ncbi.nlm.nih.gov/28942073/)（区分 UNKNOWN）
+- 出典：Austin A, Lietman T, Rose-Nussbaumer J. Update on the Management of Infectious Keratitis. Ophthalmology. 2017;124(11):1678-1689　[DOI 10.1016/j.ophtha.2017.05.012](https://doi.org/10.1016/j.ophtha.2017.05.012)　[PMID 28942073](https://pubmed.ncbi.nlm.nih.gov/28942073/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-C-⑧（角膜炎、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-014&card_id=EY-014&version=5354aed878)　（版 `5354aed878`）
 
@@ -198,7 +198,7 @@
 
 - 条件：region: 全般／study: 総説
 - 不確実性：薬剤（ナタマイシン、ボリコナゾール）について、国内での承認・保険適用の確認状況：未確認。ナタマイシンは1960年代に導入されて以降の代表的な局所抗真菌薬として出典に記載されている。本文は著者原稿版で確認した。
-- 出典：Austin A, Lietman T, Rose-Nussbaumer J. Update on the Management of Infectious Keratitis. Ophthalmology. 2017;124(11):1678-1689　[DOI 10.1016/j.ophtha.2017.05.012](https://doi.org/10.1016/j.ophtha.2017.05.012)　[PMID 28942073](https://pubmed.ncbi.nlm.nih.gov/28942073/)（区分 UNKNOWN）
+- 出典：Austin A, Lietman T, Rose-Nussbaumer J. Update on the Management of Infectious Keratitis. Ophthalmology. 2017;124(11):1678-1689　[DOI 10.1016/j.ophtha.2017.05.012](https://doi.org/10.1016/j.ophtha.2017.05.012)　[PMID 28942073](https://pubmed.ncbi.nlm.nih.gov/28942073/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-C-⑦（角膜感染症、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-490 (id: JlvnmNs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-015&card_id=EY-015&version=1635d8307d)　（版 `1635d8307d`）
 
@@ -238,7 +238,7 @@
 
 - 条件：region: 全般／study: 総説
 - 不確実性：出典は角膜移植の総説であり、水疱の破裂に伴う疼痛などの症状の詳細は抄録の範囲外のため含めず、内皮機能不全による浮腫という定義と内皮移植の位置づけに限定した。内皮機能不全の原因（手術後、Fuchs 角膜内皮ジストロフィなど）の内訳は本カードに含めていない。
-- 出典：Tan DTH, Dart JKG, Holland EJ, Kinoshita S. Corneal transplantation. Lancet. 2012;379(9827):1749-1761　[DOI 10.1016/S0140-6736(12)60437-1](https://doi.org/10.1016/S0140-6736(12)60437-1)　[PMID 22559901](https://pubmed.ncbi.nlm.nih.gov/22559901/)（区分 UNKNOWN）
+- 出典：Tan DTH, Dart JKG, Holland EJ, Kinoshita S. Corneal transplantation. Lancet. 2012;379(9827):1749-1761　[DOI 10.1016/S0140-6736(12)60437-1](https://doi.org/10.1016/S0140-6736(12)60437-1)　[PMID 22559901](https://pubmed.ncbi.nlm.nih.gov/22559901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-022&card_id=EY-022&version=8554bc49ae)　（版 `8554bc49ae`）
 
@@ -248,7 +248,7 @@
 
 - 条件：region: 全般／study: 総説
 - 不確実性：術式別の長期成績や拒絶率などの数値は出典抄録の範囲外のため含めていない。2012年の総説であり、その後の内皮移植術式の細部の進歩は反映されていない。
-- 出典：Tan DTH, Dart JKG, Holland EJ, Kinoshita S. Corneal transplantation. Lancet. 2012;379(9827):1749-1761　[DOI 10.1016/S0140-6736(12)60437-1](https://doi.org/10.1016/S0140-6736(12)60437-1)　[PMID 22559901](https://pubmed.ncbi.nlm.nih.gov/22559901/)（区分 UNKNOWN）
+- 出典：Tan DTH, Dart JKG, Holland EJ, Kinoshita S. Corneal transplantation. Lancet. 2012;379(9827):1749-1761　[DOI 10.1016/S0140-6736(12)60437-1](https://doi.org/10.1016/S0140-6736(12)60437-1)　[PMID 22559901](https://pubmed.ncbi.nlm.nih.gov/22559901/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-026&card_id=EY-026&version=bfcfadeba3)　（版 `bfcfadeba3`）
 
@@ -264,7 +264,7 @@
 
 - 条件：region: 全般／study: 総説
 - 不確実性：薬剤（抗菌薬）について、国内での承認・保険適用の確認状況：未確認。PMID は他論文の参考文献リストで PubMed 収載自体は確認できるが、番号の数値を本調査で直接確認できなかったため null とした（DOI で同定可能）。涙小管炎や先天鼻涙管閉塞など涙嚢炎以外の涙器疾患の詳細は本カードに含めていない。
-- 出典：Pinar-Sueiro S, Sota M, Lerchundi TX, Gibelalde A, Berasategui B, Vilar B, Hernandez JL. Dacryocystitis: Systematic Approach to Diagnosis and Therapy. Curr Infect Dis Rep. 2012;14(2):137-146　[DOI 10.1007/s11908-012-0238-8](https://doi.org/10.1007/s11908-012-0238-8)　[PMID 22286338](https://pubmed.ncbi.nlm.nih.gov/22286338/)（区分 UNKNOWN）
+- 出典：Pinar-Sueiro S, Sota M, Lerchundi TX, Gibelalde A, Berasategui B, Vilar B, Hernandez JL. Dacryocystitis: Systematic Approach to Diagnosis and Therapy. Curr Infect Dis Rep. 2012;14(2):137-146　[DOI 10.1007/s11908-012-0238-8](https://doi.org/10.1007/s11908-012-0238-8)　[PMID 22286338](https://pubmed.ncbi.nlm.nih.gov/22286338/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-C-④（涙囊炎、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-016&card_id=EY-016&version=8767442bdd)　（版 `8767442bdd`）
 
@@ -296,7 +296,7 @@
 
 - 条件：region: 全般／study: 総説（Disease Primer）
 - 不確実性：定義（水晶体の進行性混濁）と「失明原因の首位」という位置づけは要約で確認した。分類と原因の詳細は購読制の本文を本調査で逐語確認できておらず、一般的な枠組みの範囲に留めたため、取り込み側での本文確認が望ましい。薬剤（副腎皮質ステロイド）は原因として挙げたもので、本カードでは国内の承認・保険適用の対象ではない。
-- 出典：Lam D, Rao SK, Ratra V, Liu Y, Mitchell P, King J, Tassignon MJ, Jonas J, Pang CP, Chang DF. Cataract. Nat Rev Dis Primers. 2015;1:15014　[DOI 10.1038/nrdp.2015.14](https://doi.org/10.1038/nrdp.2015.14)　[PMID 27188414](https://pubmed.ncbi.nlm.nih.gov/27188414/)（区分 UNKNOWN）
+- 出典：Lam D, Rao SK, Ratra V, Liu Y, Mitchell P, King J, Tassignon MJ, Jonas J, Pang CP, Chang DF. Cataract. Nat Rev Dis Primers. 2015;1:15014　[DOI 10.1038/nrdp.2015.14](https://doi.org/10.1038/nrdp.2015.14)　[PMID 27188414](https://pubmed.ncbi.nlm.nih.gov/27188414/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-D-①（白内障、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-493 (id: JlvnmN4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-023&card_id=EY-023&version=7cc2447ac9)　（版 `7cc2447ac9`）
 
@@ -306,7 +306,7 @@
 
 - 条件：region: 全般／study: 総説（Disease Primer）
 - 不確実性：診断手順の詳細は購読制の本文を本調査で逐語確認できておらず、標準的な枠組みの範囲に留めたため、取り込み側での本文確認が望ましい。混濁の程度分類（LOCS など）の詳細は含めていない。
-- 出典：Lam D, Rao SK, Ratra V, Liu Y, Mitchell P, King J, Tassignon MJ, Jonas J, Pang CP, Chang DF. Cataract. Nat Rev Dis Primers. 2015;1:15014　[DOI 10.1038/nrdp.2015.14](https://doi.org/10.1038/nrdp.2015.14)　[PMID 27188414](https://pubmed.ncbi.nlm.nih.gov/27188414/)（区分 UNKNOWN）
+- 出典：Lam D, Rao SK, Ratra V, Liu Y, Mitchell P, King J, Tassignon MJ, Jonas J, Pang CP, Chang DF. Cataract. Nat Rev Dis Primers. 2015;1:15014　[DOI 10.1038/nrdp.2015.14](https://doi.org/10.1038/nrdp.2015.14)　[PMID 27188414](https://pubmed.ncbi.nlm.nih.gov/27188414/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-D-①（白内障、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-493 (id: JlvnmN4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-024&card_id=EY-024&version=f2042d704e)　（版 `f2042d704e`）
 
@@ -316,7 +316,7 @@
 
 - 条件：region: 全般／study: 総説（Disease Primer）
 - 不確実性：術式の詳細と合併症は購読制の本文を本調査で逐語確認できておらず、標準的な枠組みの範囲に留めたため、取り込み側での本文確認が望ましい。周術期の点眼薬には触れていないため、薬剤の承認・保険適用の注記は付けていない。
-- 出典：Lam D, Rao SK, Ratra V, Liu Y, Mitchell P, King J, Tassignon MJ, Jonas J, Pang CP, Chang DF. Cataract. Nat Rev Dis Primers. 2015;1:15014　[DOI 10.1038/nrdp.2015.14](https://doi.org/10.1038/nrdp.2015.14)　[PMID 27188414](https://pubmed.ncbi.nlm.nih.gov/27188414/)（区分 UNKNOWN）
+- 出典：Lam D, Rao SK, Ratra V, Liu Y, Mitchell P, King J, Tassignon MJ, Jonas J, Pang CP, Chang DF. Cataract. Nat Rev Dis Primers. 2015;1:15014　[DOI 10.1038/nrdp.2015.14](https://doi.org/10.1038/nrdp.2015.14)　[PMID 27188414](https://pubmed.ncbi.nlm.nih.gov/27188414/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-D-①（白内障、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-493 (id: JlvnmN4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-025&card_id=EY-025&version=0c0997f298)　（版 `0c0997f298`）
 
@@ -460,7 +460,7 @@
 
 - 条件：region: グローバル／study: うっ血乳頭に関する総説
 - 不確実性：原因疾患そのものの診断・治療は本カードの範囲外とし、所見と初期評価にとどめた。数値は抄録に含まれなかったため記載していない。
-- 出典：Xie JS, Donaldson L, Margolin E. Papilledema: A review of etiology, pathophysiology, diagnosis, and management. Surv Ophthalmol. 2022;67(4).　[DOI 10.1016/j.survophthal.2021.11.007](https://doi.org/10.1016/j.survophthal.2021.11.007)　[PMID 34813854](https://pubmed.ncbi.nlm.nih.gov/34813854/)（区分 UNKNOWN）
+- 出典：Xie JS, Donaldson L, Margolin E. Papilledema: A review of etiology, pathophysiology, diagnosis, and management. Surv Ophthalmol. 2022;67(4).　[DOI 10.1016/j.survophthal.2021.11.007](https://doi.org/10.1016/j.survophthal.2021.11.007)　[PMID 34813854](https://pubmed.ncbi.nlm.nih.gov/34813854/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-4-B-①（うっ血乳頭、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-495 (id: JlvnmOc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-038&card_id=EY-038&version=883a6889c2)　（版 `883a6889c2`）
 
@@ -470,7 +470,7 @@
 
 - 条件：region: グローバル／対象: うっ血乳頭の患者（特発性頭蓋内圧亢進症を含む）
 - 不確実性：主張の治療内容は出典（総説）の抄録で確認した範囲であり、薬剤の用量などの詳細は抄録に含まれていない。アセタゾラミドは国内で承認されている薬剤だが、その承認効能・効果は緑内障、てんかん（他の抗てんかん薬で効果不十分な場合に付加）、肺気腫における呼吸性アシドーシスの改善、心性浮腫、肝性浮腫、月経前緊張症、メニエル病及びメニエル症候群、睡眠時無呼吸症候群（錠剤）であり、特発性頭蓋内圧亢進症は承認効能に含まれないため、同症への使用は適応外使用となる。
-- 出典：Xie JS, Donaldson L, Margolin E. Papilledema: A review of etiology, pathophysiology, diagnosis, and management. Surv Ophthalmol. 2022;67(4):1135-1159　[DOI 10.1016/j.survophthal.2021.11.007](https://doi.org/10.1016/j.survophthal.2021.11.007)　[PMID 34813854](https://pubmed.ncbi.nlm.nih.gov/34813854/)（区分 UNKNOWN）
+- 出典：Xie JS, Donaldson L, Margolin E. Papilledema: A review of etiology, pathophysiology, diagnosis, and management. Surv Ophthalmol. 2022;67(4):1135-1159　[DOI 10.1016/j.survophthal.2021.11.007](https://doi.org/10.1016/j.survophthal.2021.11.007)　[PMID 34813854](https://pubmed.ncbi.nlm.nih.gov/34813854/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-4-B-①（うっ血乳頭、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-495 (id: JlvnmOc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-061&card_id=EY-061&version=b3c9c860ea)　（版 `b3c9c860ea`）
 
@@ -646,7 +646,7 @@
 
 - 条件：region: 全般／study: 涙嚢炎の診断と治療に関する総説
 - 不確実性：本出典は第25回 Y1 で EY-016（涙嚢炎）に使用した登録済み出典の再利用である。流涙と涙の貯留、閉塞への対処の必要性は著者版 PDF の本文で確認した。内視鏡下（内鼻）と外路の涙嚢鼻腔吻合術の成功率の比較などの数値は本出典の抄録・本文で確認できなかったため含めていない。個別の抗菌薬名は本カードに記載していないため、個別薬剤の国内承認・保険適用の確認は対象外である。先天鼻涙管閉塞は本カードの対象外である。
-- 出典：Pinar-Sueiro S, Sota M, Lerchundi TX, Gibelalde A, Berasategui B, Vilar B, Hernandez JL. Dacryocystitis: Systematic Approach to Diagnosis and Therapy. Curr Infect Dis Rep. 2012;14(2):137-146.　[DOI 10.1007/s11908-012-0238-8](https://doi.org/10.1007/s11908-012-0238-8)　[PMID 22286338](https://pubmed.ncbi.nlm.nih.gov/22286338/)（区分 UNKNOWN）
+- 出典：Pinar-Sueiro S, Sota M, Lerchundi TX, Gibelalde A, Berasategui B, Vilar B, Hernandez JL. Dacryocystitis: Systematic Approach to Diagnosis and Therapy. Curr Infect Dis Rep. 2012;14(2):137-146.　[DOI 10.1007/s11908-012-0238-8](https://doi.org/10.1007/s11908-012-0238-8)　[PMID 22286338](https://pubmed.ncbi.nlm.nih.gov/22286338/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-C-③（涙道狭窄・閉塞、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-051&card_id=EY-051&version=bfc9649690)　（版 `bfc9649690`）
 

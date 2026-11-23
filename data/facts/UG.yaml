@@ -410,12 +410,12 @@
     source_ref: SRC-5227
     source: ESGE 2026（PubMed抄録 PMID 42127996）
     doi: 10.1055/a-2863-8314
-    pmid: null
+    pmid: '42127996'
     pmcid: null
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
   uncertainty: null
   curriculum:
     core_curriculum: null
@@ -442,6 +442,12 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5227 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-5227 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: PMID を補完（SRC-5227 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: UG-011
   domain: UG
   subdomain: null
@@ -627,12 +633,12 @@
     source_ref: SRC-5227
     source: ESGE 2026
     doi: 10.1055/a-2863-8314
-    pmid: null
+    pmid: '42127996'
     pmcid: null
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
   uncertainty: null
   curriculum:
     core_curriculum: null
@@ -659,6 +665,12 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5227 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-5227 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: PMID を補完（SRC-5227 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: UG-016
   domain: UG
   subdomain: null
@@ -720,12 +732,12 @@
     source_ref: SRC-5227
     source: ESGE 2026
     doi: 10.1055/a-2863-8314
-    pmid: null
+    pmid: '42127996'
     pmcid: null
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
   uncertainty: null
   curriculum:
     core_curriculum: null
@@ -752,6 +764,12 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5227 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-5227 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: PMID を補完（SRC-5227 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: UG-018
   domain: UG
   subdomain: null
@@ -764,12 +782,12 @@
     source_ref: SRC-5227
     source: ESGE 2026
     doi: 10.1055/a-2863-8314
-    pmid: null
+    pmid: '42127996'
     pmcid: null
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
   uncertainty: null
   curriculum:
     core_curriculum: null
@@ -796,3 +814,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5227 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-5227 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: PMID を補完（SRC-5227 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）

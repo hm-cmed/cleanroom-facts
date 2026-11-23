@@ -884,7 +884,7 @@
 - 鑑別・補足：胃内にある異物（24時間以内の準緊急）
 - よくある誤解：症状が軽いボタン電池でも待機してはならない
 - 不確実性：小児はESPGHANなど別のGLの対象
-- 出典：Birk M, et al. ESGE Clinical Guideline. Endoscopy 2016;48:489-496（推奨7）　[DOI 10.1055/s-0042-100456](https://doi.org/10.1055/s-0042-100456)　[PMID 26862844](https://pubmed.ncbi.nlm.nih.gov/26862844/)（区分 UNKNOWN）
+- 出典：Birk M, et al. ESGE Clinical Guideline. Endoscopy 2016;48:489-496（推奨7）　[DOI 10.1055/s-0042-100456](https://doi.org/10.1055/s-0042-100456)　[PMID 26862844](https://pubmed.ncbi.nlm.nih.gov/26862844/)（区分 RESTRICTED）
 - 出題基準：該当なし　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-069&card_id=ES-069&version=4807f4c732)　（版 `4807f4c732`）
 
@@ -896,7 +896,7 @@
 - 鑑別・補足：小さく鈍的な無症状の異物（経過観察）
 - よくある誤解：磁石は1個だけに見えても準緊急で摘出する
 - 不確実性：なし
-- 出典：ESGE異物GL 2016（推奨7・10）　[DOI 10.1055/s-0042-100456](https://doi.org/10.1055/s-0042-100456)　[PMID 26862844](https://pubmed.ncbi.nlm.nih.gov/26862844/)（区分 UNKNOWN）
+- 出典：ESGE異物GL 2016（推奨7・10）　[DOI 10.1055/s-0042-100456](https://doi.org/10.1055/s-0042-100456)　[PMID 26862844](https://pubmed.ncbi.nlm.nih.gov/26862844/)（区分 RESTRICTED）
 - 出題基準：該当なし　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-070&card_id=ES-070&version=6dfdf700c6)　（版 `6dfdf700c6`）
 
@@ -908,7 +908,7 @@
 - 鑑別・補足：鈍的異物
 - よくある誤解：把持して引き抜くだけで安全なわけではない
 - 不確実性：なし
-- 出典：ESGE異物GL 2016（推奨11）　[DOI 10.1055/s-0042-100456](https://doi.org/10.1055/s-0042-100456)　[PMID 26862844](https://pubmed.ncbi.nlm.nih.gov/26862844/)（区分 UNKNOWN）
+- 出典：ESGE異物GL 2016（推奨11）　[DOI 10.1055/s-0042-100456](https://doi.org/10.1055/s-0042-100456)　[PMID 26862844](https://pubmed.ncbi.nlm.nih.gov/26862844/)（区分 RESTRICTED）
 - 出題基準：該当なし　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-071&card_id=ES-071&version=232b993928)　（版 `232b993928`）
 
@@ -920,7 +920,7 @@
 - 鑑別・補足：EoE、ペプチック狭窄、食道癌
 - よくある誤解：摘出して終わりにせず、基礎疾患の検索（生検を含む）が必要
 - 不確実性：75%超の数値は同GL本文の記載で、原著は未確認
-- 出典：ESGE異物GL 2016（推奨8）　[DOI 10.1055/s-0042-100456](https://doi.org/10.1055/s-0042-100456)　[PMID 26862844](https://pubmed.ncbi.nlm.nih.gov/26862844/)（区分 UNKNOWN）
+- 出典：ESGE異物GL 2016（推奨8）　[DOI 10.1055/s-0042-100456](https://doi.org/10.1055/s-0042-100456)　[PMID 26862844](https://pubmed.ncbi.nlm.nih.gov/26862844/)（区分 RESTRICTED）
 - 出題基準：医学総論 Ⅵ-5-B（嚥下障害（嚥下痛・通過障害・誤嚥）、-）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-072&card_id=ES-072&version=92be8a9d1b)　（版 `92be8a9d1b`）
 

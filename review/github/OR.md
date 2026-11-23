@@ -22,7 +22,7 @@
 
 - 条件：region: 国際／対象: 総説
 - 不確実性：数値（85%超など）は出典本文で確認した。
-- 出典：Akintoye SO, Greenberg MS. Recurrent aphthous stomatitis. Dent Clin North Am. 2014;58(2):281-297.　[DOI 10.1016/j.cden.2013.12.002](https://doi.org/10.1016/j.cden.2013.12.002)　[PMID 24655523](https://pubmed.ncbi.nlm.nih.gov/24655523/)（区分 UNKNOWN）
+- 出典：Akintoye SO, Greenberg MS. Recurrent aphthous stomatitis. Dent Clin North Am. 2014;58(2):281-297.　[DOI 10.1016/j.cden.2013.12.002](https://doi.org/10.1016/j.cden.2013.12.002)　[PMID 24655523](https://pubmed.ncbi.nlm.nih.gov/24655523/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-A-②（アフタ性口内炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-524 (id: JlvnmRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-002&card_id=OR-002&version=970d87bdbf)　（版 `970d87bdbf`）
 
@@ -74,7 +74,7 @@
 
 - 条件：region: 国際／対象: 総説（2002年）
 - 不確実性：数値は2002年の総説が引用する複数の研究の範囲であり、部位別の内訳（口腔底42.9%など）は出典の表から読み取った値を含む。
-- 出典：Neville BW, Day TA. Oral cancer and precancerous lesions. CA Cancer J Clin. 2002;52(4):195-215.　[DOI 10.3322/canjclin.52.4.195](https://doi.org/10.3322/canjclin.52.4.195)　[PMID 12139232](https://pubmed.ncbi.nlm.nih.gov/12139232/)（区分 UNKNOWN）
+- 出典：Neville BW, Day TA. Oral cancer and precancerous lesions. CA Cancer J Clin. 2002;52(4):195-215.　[DOI 10.3322/canjclin.52.4.195](https://doi.org/10.3322/canjclin.52.4.195)　[PMID 12139232](https://pubmed.ncbi.nlm.nih.gov/12139232/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-A-⑥（白斑<板>症、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-006&card_id=OR-006&version=c66ef0dd02)　（版 `c66ef0dd02`）
 
@@ -90,7 +90,7 @@
 
 - 条件：region: 米国／対象: 総説（2002年）
 - 不確実性：米国の2002年時点の疫学データに基づく。国内の疫学とは頻度や構成が異なる可能性がある。
-- 出典：Neville BW, Day TA. Oral cancer and precancerous lesions. CA Cancer J Clin. 2002;52(4):195-215.　[DOI 10.3322/canjclin.52.4.195](https://doi.org/10.3322/canjclin.52.4.195)　[PMID 12139232](https://pubmed.ncbi.nlm.nih.gov/12139232/)（区分 UNKNOWN）
+- 出典：Neville BW, Day TA. Oral cancer and precancerous lesions. CA Cancer J Clin. 2002;52(4):195-215.　[DOI 10.3322/canjclin.52.4.195](https://doi.org/10.3322/canjclin.52.4.195)　[PMID 12139232](https://pubmed.ncbi.nlm.nih.gov/12139232/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-A-⑦（口腔・口唇の癌、舌癌、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-674 (id: JlvnmfE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-007&card_id=OR-007&version=300c97cc0d)　（版 `300c97cc0d`）
 
@@ -100,7 +100,7 @@
 
 - 条件：region: 国際／対象: 総説（2002年）
 - 不確実性：2002年の総説に基づく診断の原則であり、現在の画像診断や病期分類の運用とは異なる場合がある。
-- 出典：Neville BW, Day TA. Oral cancer and precancerous lesions. CA Cancer J Clin. 2002;52(4):195-215.　[DOI 10.3322/canjclin.52.4.195](https://doi.org/10.3322/canjclin.52.4.195)　[PMID 12139232](https://pubmed.ncbi.nlm.nih.gov/12139232/)（区分 UNKNOWN）
+- 出典：Neville BW, Day TA. Oral cancer and precancerous lesions. CA Cancer J Clin. 2002;52(4):195-215.　[DOI 10.3322/canjclin.52.4.195](https://doi.org/10.3322/canjclin.52.4.195)　[PMID 12139232](https://pubmed.ncbi.nlm.nih.gov/12139232/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-A-⑦（口腔・口唇の癌、舌癌、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-674 (id: JlvnmfE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-008&card_id=OR-008&version=f960c6382a)　（版 `f960c6382a`）
 
@@ -110,7 +110,7 @@
 
 - 条件：region: 国際／対象: 総説（2002年）
 - 不確実性：2002年の総説に基づく治療の原則であり、その後の薬物療法（免疫チェックポイント阻害薬など）の位置づけは含まない。
-- 出典：Neville BW, Day TA. Oral cancer and precancerous lesions. CA Cancer J Clin. 2002;52(4):195-215.　[DOI 10.3322/canjclin.52.4.195](https://doi.org/10.3322/canjclin.52.4.195)　[PMID 12139232](https://pubmed.ncbi.nlm.nih.gov/12139232/)（区分 UNKNOWN）
+- 出典：Neville BW, Day TA. Oral cancer and precancerous lesions. CA Cancer J Clin. 2002;52(4):195-215.　[DOI 10.3322/canjclin.52.4.195](https://doi.org/10.3322/canjclin.52.4.195)　[PMID 12139232](https://pubmed.ncbi.nlm.nih.gov/12139232/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-A-⑦（口腔・口唇の癌、舌癌、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-674 (id: JlvnmfE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-009&card_id=OR-009&version=8847d1a169)　（版 `8847d1a169`）
 
@@ -120,7 +120,7 @@
 
 - 条件：region: 米国／対象: 総説（2002年）
 - 不確実性：米国の2002年時点の推奨と調査に基づく。国内の検診体制や推奨とは異なる。
-- 出典：Neville BW, Day TA. Oral cancer and precancerous lesions. CA Cancer J Clin. 2002;52(4):195-215.　[DOI 10.3322/canjclin.52.4.195](https://doi.org/10.3322/canjclin.52.4.195)　[PMID 12139232](https://pubmed.ncbi.nlm.nih.gov/12139232/)（区分 UNKNOWN）
+- 出典：Neville BW, Day TA. Oral cancer and precancerous lesions. CA Cancer J Clin. 2002;52(4):195-215.　[DOI 10.3322/canjclin.52.4.195](https://doi.org/10.3322/canjclin.52.4.195)　[PMID 12139232](https://pubmed.ncbi.nlm.nih.gov/12139232/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-A-⑦（口腔・口唇の癌、舌癌、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-674 (id: JlvnmfE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-023&card_id=OR-023&version=67de587081)　（版 `67de587081`）
 
@@ -448,7 +448,7 @@
 
 - 条件：region: 国際／対象: 総説
 - 不確実性：出典は米国の総説で、本文に挙がる外用薬の一部（アンレキサノクスなど）は国内では販売されていない。外用ステロイドについては、国内ではトリアムシノロンアセトニド口腔用軟膏やデキサメタゾン口腔用軟膏が、びらん・潰瘍を伴う難治性口内炎および舌炎などを適応として承認され保険適用されている。分類と治療目標は OR-002 が担当し、本カードは重症度に応じた治療の具体に絞った。
-- 出典：Akintoye SO, Greenberg MS. Recurrent aphthous stomatitis. Dent Clin North Am. 2014;58(2):281-297.　[DOI 10.1016/j.cden.2013.12.002](https://doi.org/10.1016/j.cden.2013.12.002)　[PMID 24655523](https://pubmed.ncbi.nlm.nih.gov/24655523/)（区分 UNKNOWN）
+- 出典：Akintoye SO, Greenberg MS. Recurrent aphthous stomatitis. Dent Clin North Am. 2014;58(2):281-297.　[DOI 10.1016/j.cden.2013.12.002](https://doi.org/10.1016/j.cden.2013.12.002)　[PMID 24655523](https://pubmed.ncbi.nlm.nih.gov/24655523/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-A-②（アフタ性口内炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-524 (id: JlvnmRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-034&card_id=OR-034&version=528cdf639d)　（版 `528cdf639d`）
 

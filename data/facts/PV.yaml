@@ -55,7 +55,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。表から読み取り。呼吸状態の異常が目立つ場合は R を付ける（例：C1R）。C1〜C3 の細分の基準は抽出テキストで確認できていない。
   curriculum:
@@ -71,6 +71,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-440 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: PV-003
   domain: PV
   subdomain: 急性肺血栓塞栓症
@@ -90,7 +93,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Khachatryan AS, et al. Outpatient Management of Pulmonary Embolism Patients with Direct Oral Anticoagulants: A Systematic Review. J Clin Med. 2025;14(24):8931（https://pmc.ncbi.nlm.nih.gov/articles/PMC12734285/）。裏づける部分：低リスクPE（Hestia・sPESI等で選択）の外来・早期退院管理の安全性を系統的レビューで支持する部分のみ。カテゴリーBという2026分類自体とPESI I〜II等の具体的区分けは裏づけない。数値の照合：カード側の数値区分（PESI I〜II、sPESI 0、Hestia 0）は候補資料にそのままの形ではなし（不一致ではなく未記載）'
   uncertainty: 本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。要点（Top 10 Take-Home Messages）から読み取り。
   curriculum:
@@ -109,6 +112,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-440 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: PV-004
   domain: PV
   subdomain: 急性肺血栓塞栓症
@@ -128,7 +134,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Pandya V, Chandra AA, et al. Evolution of Pulmonary Embolism Response Teams in the United States: A Review of the Literature. J Clin Med. 2024;13(13):3984（https://pmc.ncbi.nlm.nih.gov/articles/PMC11242386/）。裏づける部分：PERTの設置・運用と、重症例に全身血栓溶解・カテーテル治療・外科的血栓摘除等の高度治療を限る考え方を支持する部分のみ。カテゴリーD1〜D2/E1への対応づけは2026分類固有で裏づけない。数値の照合：数値の照合対象なし（カテゴリー細分は候補に記載なし）'
   uncertainty: 本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。要点から読み取り。全身血栓溶解・カテーテル治療の個別の COR/LOE は抽出テキストに含まれず未確認。
   curriculum:
@@ -147,6 +153,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-440 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: PV-005
   domain: PV
   subdomain: 急性肺血栓塞栓症
@@ -166,7 +175,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。
   curriculum:
@@ -182,6 +191,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-440 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: PV-006
   domain: PV
   subdomain: 急性肺血栓塞栓症
@@ -201,7 +213,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN / GOV_US、作り手の調査 2026-11-08）：Age-Adjusted and Clinical Probability Adapted D-Dimer Cutoffs to Rule Out Pulmonary Embolism: A Narrative Review of Clinical Trials. 2024 (MDPI, CC BY) ＋ ClinicalTrials.gov登録 ADJUST-PE (NCT01134068, GOV_US)（https://pmc.ncbi.nlm.nih.gov/articles/PMC11204230/）。裏づける部分：年齢調整閾値（年齢×10 μg/L FEU、50歳超）とADJUST-PEの前向き検証、YEARSアルゴリズムの概要を裏づける（原著ADJUST-PE: JAMA 2014, DOI 10.1001/jama.2014.2135, PMID 24643601 はnew_sourcesに参考として別掲）。数値の照合：一致：年齢×10 μg/L FEU。ADJUST-P…'
   uncertainty: 本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。妊娠中は妊娠用に調整した YEARS 基準が考慮されうる（COR 2b）。
   curriculum:
@@ -220,6 +232,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN / GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-440 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: PV-007
   domain: PV
   subdomain: 急性肺血栓塞栓症
@@ -239,7 +254,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。妊娠中は低線量 CT 肺動脈造影を低線量の肺血流シンチグラフィより優先することが妥当（COR 2a）。
   curriculum:
@@ -255,6 +270,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-440 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: PV-008
   domain: PV
   subdomain: 急性肺血栓塞栓症
@@ -274,7 +292,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。心エコーは重症度（右室機能）の評価には使われる。
   curriculum:
@@ -290,6 +308,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-440 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: PV-009
   domain: PV
   subdomain: 急性肺血栓塞栓症
@@ -309,7 +330,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN / GOV_US、作り手の調査 2026-11-08）：Direct Oral Anticoagulants for Pulmonary Embolism: Importance of Anatomical Extent. TH Open. 2018;2(1):e1-e7 ＋ AHRQ Evidence Report: Diagnosis and Treatment of Deep Venous Thrombosis and Pulmonary Embolism (2003, GOV_US)（https://pmc.ncbi.nlm.nih.gov/articles/PMC6524852/）。裏づける部分：DOACがVKAに対して少なくとも同等の有効性で出血が少ないこと（DOAC>VKAの向き）を支持。LMWH>UFHはAHRQ 2003報告がDVTで有効性・安全性を支持しPEでは限定的支持にとどまる。数値の照合：候補の間接メタ解析：再発VTEの相対リスク DOAC対heparin/VKA 0.8（95%CI 0.6-1.1、heparin …'
   uncertainty: 本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。要点から読み取り。個別の COR/LOE は抽出テキストで未確認。国内の抗凝固薬の保険適用は JCS/JPCPHS 2025 ガイドラインと添付文書で確認する必要がある。
   curriculum:
@@ -328,6 +349,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN / GOV_US、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-440 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: PV-010
   domain: PV
   subdomain: 急性肺血栓塞栓症
@@ -347,7 +371,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Extended anticoagulation for VTE: what evidence justifies it? Front Pharmacol. 2023 (Frontiers, CC BY)（https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1241979/full）。裏づける部分：一過性誘因のあるVTEは3〜6か月で終了し、誘因のない（unprovoked）VTEは通常無期限に継続するという期間の考え方を支持し、カードの向きと一致。数値の照合：一致：初期治療相3〜6か月という区切りは候補にも明記。ただし2025年のBlood Advancesメタ解析（PMC12138518, PMID 40198201）では初期治療としての長期対短期は短期が有利な面もあり、二次予防としての無期限継続がunprovoked/慢性危険因子で有利と整理されており、局面の区別が必要'
   uncertainty: 本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。要点から読み取り。COR/LOE と、可逆的な危険因子がある場合の期間は抽出テキストで未確認。
   curriculum:
@@ -366,6 +390,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-440 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: PV-011
   domain: PV
   subdomain: 急性肺血栓塞栓症
@@ -543,7 +570,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査 2026-11-08）：Durrington C, Hurdman JA, Elliot CA, et al. Systematic pulmonary embolism follow-up increases diagnostic rates of chronic thromboembolic pulmonary hypertension and identifies less severe disease: results from the ASPIRE Registry. Eur Respir J. 2024;63(3):2300846（https://eprints.whiterose.ac.uk/210419/1/EMS194168.pdf）。裏づける部分：PE後の系統的フォローアップでCTEPH/CTEPDを見逃さず早期に同定できることを実証データで支持。フォローの必要性という主張の核は裏づく。数値の照合：候補は診断後3か月のPEフォロークリニック受診1956例でCTEPH累積発生2.10%。カード…'
   uncertainty: 本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。要点から読み取り。COR/LOE は未確認。
   curriculum:
@@ -562,6 +589,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査 2026-11-08）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-440 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: PV-016
   domain: PV
   subdomain: 慢性肺血栓塞栓症

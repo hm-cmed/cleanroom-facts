@@ -11,7 +11,7 @@
 > 大動脈の正常径は胸部で約30 mm、腹部で約20 mmである。紡錘状の大動脈瘤は正常径の1.5倍を超える拡張で、胸部では45 mm、腹部では30 mmを超えるものにあたる。壁に大動脈壁の構造が残るものを真性瘤、残らないもの（外傷や感染によることが多い）を仮性瘤、大動脈解離によるものを解離性大動脈瘤と呼ぶ。
 
 - 条件：guideline: JCS/JSCVS/JATS/JSVS 2020 大動脈瘤・大動脈解離 GL（英語版 2023）／region: 日本の診療を前提とした記載
-- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 UNKNOWN）
+- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-8-A-①（胸部大動脈瘤、a）；医学各論 Ⅴ-8-A-②（腹部大動脈瘤、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-191 (id: Jlvnlvc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-001&card_id=VS-001&version=1de4d215c9)　（版 `1de4d215c9`）
 
@@ -21,7 +21,7 @@
 
 - 条件：guideline: JCS/JSCVS/JATS/JSVS 2020 大動脈瘤・大動脈解離 GL（英語版 2023）／region: 日本の診療を前提とした記載
 - 不確実性：この記載には推奨クラスの付記がない。治療の章（部位別、Marfan 症候群・二尖弁、拡大速度の基準）は抽出できておらず未確認
-- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 UNKNOWN）
+- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-8-A-①（胸部大動脈瘤、a）；医学各論 Ⅴ-8-A-②（腹部大動脈瘤、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-191 (id: Jlvnlvc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-002&card_id=VS-002&version=d7098329f9)　（版 `d7098329f9`）
 
@@ -37,7 +37,7 @@
 
 - 条件：guideline: JCS/JSCVS/JATS/JSVS 2020 大動脈瘤・大動脈解離 GL（英語版 2023）／region: 日本の診療を前提とした記載
 - 不確実性：推奨クラスの付記はない（PQ としての記載）
-- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 UNKNOWN）
+- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-8-A-①（胸部大動脈瘤、a）；医学各論 Ⅴ-8-A-②（腹部大動脈瘤、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-191 (id: Jlvnlvc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-003&card_id=VS-003&version=bb1e132116)　（版 `bb1e132116`）
 
@@ -82,7 +82,7 @@
 > 大動脈解離の Stanford 分類では、上行大動脈に解離があるものを A 型、ないものを B 型とする。
 
 - 条件：guideline: JCS/JSCVS/JATS/JSVS 2020 大動脈瘤・大動脈解離 GL（英語版 2023）／region: 日本の診療を前提とした記載
-- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 UNKNOWN）
+- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-8-A-④（大動脈解離、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-190 (id: JlvnlvY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-007&card_id=VS-007&version=22dfe5ce17)　（版 `22dfe5ce17`）
 
@@ -91,7 +91,7 @@
 > 大動脈解離の DeBakey 分類では、上行大動脈に内膜の亀裂があり弓部を越えて広がるものを I 型、上行大動脈に限局するものを II 型、下行大動脈に亀裂があるものを III 型とする。III 型のうち腹部大動脈に及ばないものを IIIa、及ぶものを IIIb とする。
 
 - 条件：guideline: JCS/JSCVS/JATS/JSVS 2020 大動脈瘤・大動脈解離 GL（英語版 2023）／region: 日本の診療を前提とした記載
-- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 UNKNOWN）
+- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-8-A-④（大動脈解離、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-190 (id: JlvnlvY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-008&card_id=VS-008&version=4d59cfb429)　（版 `4d59cfb429`）
 
@@ -100,7 +100,7 @@
 > 大動脈解離の病期は、発症から48時間以内を超急性期、2週間以内を急性期、2週間から3か月を亜急性期、3か月を超えるものを慢性期とする。
 
 - 条件：guideline: JCS/JSCVS/JATS/JSVS 2020 大動脈瘤・大動脈解離 GL（英語版 2023）／region: 日本の診療を前提とした記載
-- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 UNKNOWN）
+- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-8-A-④（大動脈解離、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-190 (id: JlvnlvY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-009&card_id=VS-009&version=d59afbc609)　（版 `d59afbc609`）
 
@@ -110,7 +110,7 @@
 
 - 条件：guideline: JCS/JSCVS/JATS/JSVS 2020 大動脈瘤・大動脈解離 GL（英語版 2023）／region: 日本の診療を前提とした記載
 - 不確実性：病院に着く前の死亡を含むかどうかで値が変わる
-- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 UNKNOWN）
+- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-8-A-④（大動脈解離、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-190 (id: JlvnlvY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-010&card_id=VS-010&version=cd1c949cbf)　（版 `cd1c949cbf`）
 
@@ -120,7 +120,7 @@
 
 - 条件：guideline: JCS/JSCVS/JATS/JSVS 2020 大動脈瘤・大動脈解離 GL（英語版 2023）／region: 日本の診療を前提とした記載
 - 不確実性：突然死の剖検例の値で、大動脈解離全体の死亡率ではない
-- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 UNKNOWN）
+- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-8-A-④（大動脈解離、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-190 (id: JlvnlvY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-011&card_id=VS-011&version=bfc03476fe)　（版 `bfc03476fe`）
 
@@ -129,7 +129,7 @@
 > 大動脈解離は冬に多く、時刻では午前6時から正午に多い。好発年齢は70歳代である。
 
 - 条件：guideline: JCS/JSCVS/JATS/JSVS 2020 大動脈瘤・大動脈解離 GL（英語版 2023）／region: 日本の診療を前提とした記載
-- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 UNKNOWN）
+- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-8-A-④（大動脈解離、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-190 (id: JlvnlvY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-012&card_id=VS-012&version=6bc5c465f6)　（版 `6bc5c465f6`）
 
@@ -140,7 +140,7 @@
 - 条件：guideline: JCS/JSCVS/JATS/JSVS 2020 大動脈瘤・大動脈解離 GL（英語版 2023）／region: 日本の診療を前提とした記載
 - よくある誤解：大動脈解離では必ず激しい胸背部痛がある
 - 不確実性：発熱の割合は本文中で約30%と約3分の1の2通りの記載がある
-- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 UNKNOWN）
+- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-8-A-④（大動脈解離、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-190 (id: JlvnlvY)；TBL-02-05-021 (id: JlAKpfI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-013&card_id=VS-013&version=920ab80674)　（版 `920ab80674`）
 
@@ -150,7 +150,7 @@
 
 - 条件：guideline: JCS/JSCVS/JATS/JSVS 2020 大動脈瘤・大動脈解離 GL（英語版 2023）／region: 日本の診療を前提とした記載
 - 不確実性：灌流障害の機序には、動的閉塞、静的閉塞、両者の組み合わせがある
-- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 UNKNOWN）
+- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-8-A-④（大動脈解離、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-190 (id: JlvnlvY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-014&card_id=VS-014&version=ccc994a893)　（版 `ccc994a893`）
 
@@ -161,7 +161,7 @@
 - 条件：guideline: JCS/JSCVS/JATS/JSVS 2020 大動脈瘤・大動脈解離 GL（英語版 2023）／region: 日本の診療を前提とした記載
 - よくある誤解：D ダイマーが正常なら、どの患者でも大動脈解離を否定できる
 - 不確実性：カットオフは試薬で異なり、施設ごとに確認するよう本文に注記がある
-- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 UNKNOWN）
+- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-8-A-④（大動脈解離、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-190 (id: JlvnlvY)；TBL-02-05-021 (id: JlAKpfI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-015&card_id=VS-015&version=dc97217364)　（版 `dc97217364`）
 
@@ -171,7 +171,7 @@
 
 - 条件：guideline: JCS/JSCVS/JATS/JSVS 2020 大動脈瘤・大動脈解離 GL（英語版 2023）／region: 日本の診療を前提とした記載
 - よくある誤解：胸部 X 線写真で縦隔の拡大がなければ大動脈解離は否定できる
-- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 UNKNOWN）
+- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-8-A-④（大動脈解離、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-190 (id: JlvnlvY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-016&card_id=VS-016&version=3cd8372fbc)　（版 `3cd8372fbc`）
 
@@ -520,7 +520,7 @@
 
 - 条件：region: 日本／対象: 成人
 - 不確実性：国内ガイドライン（2020年版）の部位別分類に基づく。胸部のみ・腹部のみの大動脈瘤は既存カード（VS-001〜006）の範囲で、本カードは胸腹部に限る。
-- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 UNKNOWN）
+- 出典：Ogino H, et al. JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection. Circ J 2023;87:1410-1621　[DOI 10.1253/circj.CJ-22-0794](https://doi.org/10.1253/circj.CJ-22-0794)　[PMID 37661428](https://pubmed.ncbi.nlm.nih.gov/37661428/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-8-A-③（胸腹部大動脈瘤、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VS-047&card_id=VS-047&version=8fe6d3fb66)　（版 `8fe6d3fb66`）
 

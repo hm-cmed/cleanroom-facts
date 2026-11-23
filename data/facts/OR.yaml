@@ -52,7 +52,7 @@
     url: https://doi.org/10.1016/j.cden.2013.12.002
     source_license: ライセンス未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値（85%超など）は出典本文で確認した。
   curriculum:
@@ -68,6 +68,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1432 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OR-003
   domain: OR
   subdomain: 口腔感染症
@@ -195,7 +198,7 @@
     url: https://doi.org/10.3322/canjclin.52.4.195
     source_license: ライセンス未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値は2002年の総説が引用する複数の研究の範囲であり、部位別の内訳（口腔底42.9%など）は出典の表から読み取った値を含む。
   curriculum:
@@ -211,6 +214,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1436 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OR-007
   domain: OR
   subdomain: 口腔癌
@@ -230,7 +236,7 @@
     url: https://doi.org/10.3322/canjclin.52.4.195
     source_license: ライセンス未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ22 2026-11-11）：USPSTF「Screening for Oral Cancer: Clinical Summary」：主要な危険因子が喫煙と飲酒であること。相対リスクなどの数値は対象外'
   uncertainty: 米国の2002年時点の疫学データに基づく。国内の疫学とは頻度や構成が異なる可能性がある。
   curriculum:
@@ -249,6 +255,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ22 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1436 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OR-008
   domain: OR
   subdomain: 口腔癌
@@ -268,7 +277,7 @@
     url: https://doi.org/10.3322/canjclin.52.4.195
     source_license: ライセンス未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ22 2026-11-11）：NCI PDQ「Lip and Oral Cavity Cancer Treatment」：確定診断は生検、進展とリンパ節の評価に CT・MRI。頸部リンパ節転移約30%とブラシ細胞診の位置づけは対象外
   uncertainty: 2002年の総説に基づく診断の原則であり、現在の画像診断や病期分類の運用とは異なる場合がある。
   curriculum:
@@ -287,6 +296,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ22 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1436 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OR-009
   domain: OR
   subdomain: 口腔癌
@@ -306,7 +318,7 @@
     url: https://doi.org/10.3322/canjclin.52.4.195
     source_license: ライセンス未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ22 2026-11-11）：NCI PDQ「Lip and Oral Cavity Cancer Treatment」：治療の基本は手術と放射線、進行例は併用、選択は部位・進展とリンパ節で決まる
   uncertainty: 2002年の総説に基づく治療の原則であり、その後の薬物療法（免疫チェックポイント阻害薬など）の位置づけは含まない。
   curriculum:
@@ -325,6 +337,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ22 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1436 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OR-010
   domain: OR
   subdomain: 顎関節
@@ -811,7 +826,7 @@
     url: https://doi.org/10.3322/canjclin.52.4.195
     source_license: ライセンス未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ22 2026-11-11）：USPSTF「Screening for Oral Cancer: Clinical Summary」：無症状の成人への一律スクリーニングはエビデンス不十分（I statement）。米国癌協会の検診と1998年調査の数値は対象外'
   uncertainty: 米国の2002年時点の推奨と調査に基づく。国内の検診体制や推奨とは異なる。
   curriculum:
@@ -830,6 +845,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ22 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1436 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OR-024
   domain: OR
   subdomain: 唾液腺疾患
@@ -1202,7 +1220,7 @@
     url: https://doi.org/10.1016/j.cden.2013.12.002
     source_license: ライセンス未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は米国の総説で、本文に挙がる外用薬の一部（アンレキサノクスなど）は国内では販売されていない。外用ステロイドについては、国内ではトリアムシノロンアセトニド口腔用軟膏やデキサメタゾン口腔用軟膏が、びらん・潰瘍を伴う難治性口内炎および舌炎などを適応として承認され保険適用されている。分類と治療目標は OR-002 が担当し、本カードは重症度に応じた治療の具体に絞った。
   curriculum:
@@ -1218,6 +1236,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1432 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OR-035
   domain: OR
   subdomain: 急性ヘルペス性口内炎

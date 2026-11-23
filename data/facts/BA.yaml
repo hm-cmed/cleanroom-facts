@@ -1067,7 +1067,7 @@
     url: https://doi.org/10.1093/cid/ciu296
     source_license: © The Author 2014, Oxford University Press（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 軟部感染症としての臨床像・治療の各論は SD-033・034 の範囲とし、本カードでは扱わない。source_class は出典マスターの登録どおり UNKNOWN とした。ウェルシュ菌のα毒素と筋壊死の関係を示す一次資料は照合できていない。
   curriculum:
@@ -1083,6 +1083,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/35_if_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1180 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: BA-032
   domain: BA
   subdomain: バクテロイデス感染症

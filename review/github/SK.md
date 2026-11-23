@@ -206,7 +206,7 @@
 
 - 条件：region: 国際／study: 総説（皮膚の薬物有害反応）
 - 不確実性：数値（最大10%、1〜3%、2〜6.7%）は出典の抄録で確認した。原因薬として挙げた薬剤群（抗菌薬、非ステロイド性抗炎症薬、抗てんかん薬）の個別製剤の国内承認・保険適用は未確認。内容は抄録の範囲に限っており、全文は未確認である。
-- 出典：Del Pozzo-Magaña BR, Liy-Wong C. Drugs and the skin: A concise review of cutaneous adverse drug reactions. British Journal of Clinical Pharmacology. 2024;90(8):1838-1855.　[DOI 10.1111/bcp.15490](https://doi.org/10.1111/bcp.15490)　[PMID 35974692](https://pubmed.ncbi.nlm.nih.gov/35974692/)（区分 UNKNOWN）
+- 出典：Del Pozzo-Magaña BR, Liy-Wong C. Drugs and the skin: A concise review of cutaneous adverse drug reactions. British Journal of Clinical Pharmacology. 2024;90(8):1838-1855.　[DOI 10.1111/bcp.15490](https://doi.org/10.1111/bcp.15490)　[PMID 35974692](https://pubmed.ncbi.nlm.nih.gov/35974692/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-D-④（固定薬疹、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-077 (id: Jlvnlh0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-017&card_id=SK-017&version=c4640c2d27)　（版 `c4640c2d27`）
 
@@ -222,7 +222,7 @@
 
 - 条件：region: 国際／study: 総説（皮膚の薬物有害反応）
 - 不確実性：固定薬疹に特有の臨床像（同一部位への再発、円形の紅斑、炎症後の色素沈着など）や頻度の高い原因薬の個別名は、出典の抄録の範囲では確認できなかったため、本カードは薬疹パターンとしての位置づけに限定した。固定薬疹の専門総説（例：Medicina 2021年の固定薬疹レビュー）での補完が望ましい。
-- 出典：Del Pozzo-Magaña BR, Liy-Wong C. Drugs and the skin: A concise review of cutaneous adverse drug reactions. British Journal of Clinical Pharmacology. 2024;90(8):1838-1855.　[DOI 10.1111/bcp.15490](https://doi.org/10.1111/bcp.15490)　[PMID 35974692](https://pubmed.ncbi.nlm.nih.gov/35974692/)（区分 UNKNOWN）
+- 出典：Del Pozzo-Magaña BR, Liy-Wong C. Drugs and the skin: A concise review of cutaneous adverse drug reactions. British Journal of Clinical Pharmacology. 2024;90(8):1838-1855.　[DOI 10.1111/bcp.15490](https://doi.org/10.1111/bcp.15490)　[PMID 35974692](https://pubmed.ncbi.nlm.nih.gov/35974692/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-D-④（固定薬疹、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-077 (id: Jlvnlh0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-018&card_id=SK-018&version=4204cd0b7f)　（版 `4204cd0b7f`）
 

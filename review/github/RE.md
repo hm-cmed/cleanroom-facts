@@ -124,7 +124,7 @@
 
 - 条件：region: 国際
 - 不確実性：出典は2004年の総説であり、抄録で確認できた機序と危険因子のみを記載した。Am Fam Physician は DOI を付与していないため DOI は null とした。裂孔の形態（馬蹄形裂孔、円孔など）ごとの違いは本カードには含めていない。
-- 出典：Gariano RF, Kim CH. Evaluation and management of suspected retinal detachment. Am Fam Physician. 2004;69(7):1691-1698.　[PMID 15086041](https://pubmed.ncbi.nlm.nih.gov/15086041/)（区分 UNKNOWN）
+- 出典：Gariano RF, Kim CH. Evaluation and management of suspected retinal detachment. Am Fam Physician. 2004;69(7):1691-1698.　[PMID 15086041](https://pubmed.ncbi.nlm.nih.gov/15086041/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-C-②（網膜剝離、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-498 (id: JlvnmOE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-008&card_id=RE-008&version=683187079f)　（版 `683187079f`）
 
@@ -140,7 +140,7 @@
 
 - 条件：region: 国際
 - 不確実性：出典は2004年の総説であり、抄録で確認できた症状と紹介の考え方のみを記載した。Am Fam Physician は DOI を付与していないため DOI は null とした。倒像鏡検査や超音波検査などの具体的な検査手順、瞳孔不同や相対性求心性瞳孔障害などの所見の詳細は本カードには含めていない。
-- 出典：Gariano RF, Kim CH. Evaluation and management of suspected retinal detachment. Am Fam Physician. 2004;69(7):1691-1698.　[PMID 15086041](https://pubmed.ncbi.nlm.nih.gov/15086041/)（区分 UNKNOWN）
+- 出典：Gariano RF, Kim CH. Evaluation and management of suspected retinal detachment. Am Fam Physician. 2004;69(7):1691-1698.　[PMID 15086041](https://pubmed.ncbi.nlm.nih.gov/15086041/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-C-②（網膜剝離、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-498 (id: JlvnmOE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-009&card_id=RE-009&version=ef79d5a3d6)　（版 `ef79d5a3d6`）
 
@@ -252,7 +252,7 @@
 
 - 条件：region: 米国
 - 不確実性：スクリーニング対象の出生体重・在胎週数の具体的な基準、初回検査の時期、国際分類（ICROP）のゾーン・ステージ・plus disease の定義は声明本文に示される内容であり、抄録では確認できなかったため本カードには含めていない。国内のスクリーニング基準は本声明（米国）とは別に確認が必要である。治療（レーザー光凝固、抗 VEGF 薬）の適応基準も本文および別途の一次資料での確認が必要である。
-- 出典：Fierson WM; American Academy of Pediatrics Section on Ophthalmology; American Academy of Ophthalmology; American Association for Pediatric Ophthalmology and Strabismus; American Association of Certified Orthoptists. Screening Examination of Premature Infants for Retinopathy of Prematurity. Pediatrics. 2018;142(6):e20183061.　[DOI 10.1542/peds.2018-3061](https://doi.org/10.1542/peds.2018-3061)　[PMID 30478242](https://pubmed.ncbi.nlm.nih.gov/30478242/)（区分 UNKNOWN）
+- 出典：Fierson WM; American Academy of Pediatrics Section on Ophthalmology; American Academy of Ophthalmology; American Association for Pediatric Ophthalmology and Strabismus; American Association of Certified Orthoptists. Screening Examination of Premature Infants for Retinopathy of Prematurity. Pediatrics. 2018;142(6):e20183061.　[DOI 10.1542/peds.2018-3061](https://doi.org/10.1542/peds.2018-3061)　[PMID 30478242](https://pubmed.ncbi.nlm.nih.gov/30478242/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-C-⑦（未熟児網膜症、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-016&card_id=RE-016&version=ae1ea343af)　（版 `ae1ea343af`）
 

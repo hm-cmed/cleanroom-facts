@@ -558,12 +558,12 @@
     source_ref: SRC-477
     source: Pfannschmidt J, Egerer G, Bischof M, Thomas M, Dienemann H. Surgical Intervention for Pulmonary Metastases. Dtsch Arztebl Int 2012;109(40):645-651
     doi: 10.3238/arztebl.2012.0645
-    pmid: null
+    pmid: '23094000'
     pmcid: null
     url: https://di.aerzteblatt.de/int/archive/article/131567
     source_license: 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 総説の記載（二次資料経由）。各数値の一次資料は総説の引用文献
   curriculum:
@@ -579,6 +579,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-477 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: PMID を補完（SRC-477 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: LC-017
   domain: LC
   subdomain: 転移性肺腫瘍
@@ -593,12 +599,12 @@
     source_ref: SRC-477
     source: Pfannschmidt J, Egerer G, Bischof M, Thomas M, Dienemann H. Surgical Intervention for Pulmonary Metastases. Dtsch Arztebl Int 2012;109(40):645-651
     doi: 10.3238/arztebl.2012.0645
-    pmid: null
+    pmid: '23094000'
     pmcid: null
     url: https://di.aerzteblatt.de/int/archive/article/131567
     source_license: 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: ドイツの総説の記載。日本の指針による適応は未確認
   curriculum:
@@ -614,6 +620,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-477 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: PMID を補完（SRC-477 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: LC-018
   domain: LC
   subdomain: 転移性肺腫瘍
@@ -628,12 +640,12 @@
     source_ref: SRC-477
     source: Pfannschmidt J, Egerer G, Bischof M, Thomas M, Dienemann H. Surgical Intervention for Pulmonary Metastases. Dtsch Arztebl Int 2012;109(40):645-651
     doi: 10.3238/arztebl.2012.0645
-    pmid: null
+    pmid: '23094000'
     pmcid: null
     url: https://di.aerzteblatt.de/int/archive/article/131567
     source_license: 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 総説に引用された登録研究の数値（二次資料経由）。登録研究の原著（J Thorac Cardiovasc Surg 1997）は未確認
   curriculum:
@@ -649,6 +661,12 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-477 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: PMID を補完（SRC-477 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: LC-019
   domain: LC
   subdomain: 良性肺腫瘍

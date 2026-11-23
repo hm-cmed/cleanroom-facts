@@ -140,7 +140,7 @@
 
 - 条件：region: 米国／study: 総説（2018年）。有病割合は総説で引用された報告に基づく
 - 不確実性：有病割合（最大約12%）は同分野の総説抄録で示された値であり、定義や集団によって大きく変動する。日本の診断基準（日本産科婦人科学会の定義）との細部の対応は本調査では未確認である。出典のライセンス表示は確認できなかった。
-- 出典：Yonkers KA, Simoni MK. Premenstrual disorders. Am J Obstet Gynecol. 2018;218(1):68-74.　[DOI 10.1016/j.ajog.2017.05.045](https://doi.org/10.1016/j.ajog.2017.05.045)　[PMID 28571724](https://pubmed.ncbi.nlm.nih.gov/28571724/)（区分 UNKNOWN）
+- 出典：Yonkers KA, Simoni MK. Premenstrual disorders. Am J Obstet Gynecol. 2018;218(1):68-74.　[DOI 10.1016/j.ajog.2017.05.045](https://doi.org/10.1016/j.ajog.2017.05.045)　[PMID 28571724](https://pubmed.ncbi.nlm.nih.gov/28571724/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-D-①（月経前症候群、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-013&card_id=RP-013&version=14f9068280)　（版 `14f9068280`）
 
@@ -156,7 +156,7 @@
 
 - 条件：region: 米国／study: 総説（2018年）
 - 不確実性：DSM-5の診断基準の項目数などの詳細は出典の書誌確認の範囲では逐一照合していないため、主張は基準の骨格にとどめた。日本の診療ではICD-10等との使い分けがあり、国内での診断運用の詳細は未確認である。出典のライセンス表示は確認できなかった。
-- 出典：Yonkers KA, Simoni MK. Premenstrual disorders. Am J Obstet Gynecol. 2018;218(1):68-74.　[DOI 10.1016/j.ajog.2017.05.045](https://doi.org/10.1016/j.ajog.2017.05.045)　[PMID 28571724](https://pubmed.ncbi.nlm.nih.gov/28571724/)（区分 UNKNOWN）
+- 出典：Yonkers KA, Simoni MK. Premenstrual disorders. Am J Obstet Gynecol. 2018;218(1):68-74.　[DOI 10.1016/j.ajog.2017.05.045](https://doi.org/10.1016/j.ajog.2017.05.045)　[PMID 28571724](https://pubmed.ncbi.nlm.nih.gov/28571724/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-D-①（月経前症候群、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-014&card_id=RP-014&version=2366c4035f)　（版 `2366c4035f`）
 
@@ -204,7 +204,7 @@
 
 - 条件：region: 米国／study: 総説（2018年）
 - 不確実性：出典は月経前障害に焦点を当てた総説であり、月経時そのものに随伴する症状（月経痛に伴う症状など）の全体像は扱っていない。各症状の頻度は出典では確認できなかったため主張に含めていない。出典のライセンス表示は確認できなかった。
-- 出典：Yonkers KA, Simoni MK. Premenstrual disorders. Am J Obstet Gynecol. 2018;218(1):68-74.　[DOI 10.1016/j.ajog.2017.05.045](https://doi.org/10.1016/j.ajog.2017.05.045)　[PMID 28571724](https://pubmed.ncbi.nlm.nih.gov/28571724/)（区分 UNKNOWN）
+- 出典：Yonkers KA, Simoni MK. Premenstrual disorders. Am J Obstet Gynecol. 2018;218(1):68-74.　[DOI 10.1016/j.ajog.2017.05.045](https://doi.org/10.1016/j.ajog.2017.05.045)　[PMID 28571724](https://pubmed.ncbi.nlm.nih.gov/28571724/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-D-①（月経前症候群、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-018&card_id=RP-018&version=53d595479e)　（版 `53d595479e`）
 
@@ -310,7 +310,7 @@
 
 - 条件：region: 国際／study: 学会診療ガイドライン（2011年、Endocrine Society）
 - 不確実性：カベルゴリンとブロモクリプチンの国内承認・保険適用（適応症の範囲を含む）は本調査では未確認である。用量や正常化率などの数値は確認した範囲を超えるため主張には含めていない。2011年のガイドラインであり、その後の改訂の有無は未確認である。
-- 出典：Melmed S, Casanueva FF, Hoffman AR, et al. Diagnosis and Treatment of Hyperprolactinemia: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2011;96(2):273-288.　[DOI 10.1210/jc.2010-1692](https://doi.org/10.1210/jc.2010-1692)　[PMID 21296991](https://pubmed.ncbi.nlm.nih.gov/21296991/)（区分 UNKNOWN）
+- 出典：Melmed S, Casanueva FF, Hoffman AR, et al. Diagnosis and Treatment of Hyperprolactinemia: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2011;96(2):273-288.　[DOI 10.1210/jc.2010-1692](https://doi.org/10.1210/jc.2010-1692)　[PMID 21296991](https://pubmed.ncbi.nlm.nih.gov/21296991/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-D-⑤（高プロラクチン血症、乳汁漏出症、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-025&card_id=RP-025&version=308d852294)　（版 `308d852294`）
 
@@ -358,7 +358,7 @@
 
 - 条件：region: 米国／study: 学会委員会意見（2015年）
 - 不確実性：子宮内膜の厚さの基準値や、内膜発育不良に対する個別治療（ホルモン製剤等）の有効性は出典の抄録では確認できず、主張には含めていない。関連する薬剤の国内承認・保険適用は未確認である。
-- 出典：Practice Committee of the American Society for Reproductive Medicine. Diagnostic evaluation of the infertile female: a committee opinion. Fertility and Sterility. 2015;103(6):e44-e50.　[DOI 10.1016/j.fertnstert.2015.03.019](https://doi.org/10.1016/j.fertnstert.2015.03.019)　[PMID 25936238](https://pubmed.ncbi.nlm.nih.gov/25936238/)（区分 UNKNOWN）
+- 出典：Practice Committee of the American Society for Reproductive Medicine. Diagnostic evaluation of the infertile female: a committee opinion. Fertility and Sterility. 2015;103(6):e44-e50.　[DOI 10.1016/j.fertnstert.2015.03.019](https://doi.org/10.1016/j.fertnstert.2015.03.019)　[PMID 25936238](https://pubmed.ncbi.nlm.nih.gov/25936238/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-E-①（女性不妊症、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；骨盤内臓器と腫瘍の画像診断 TBL-02-09-023 (id: JlAKppY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-028&card_id=RP-028&version=08984e18db)　（版 `08984e18db`）
 
@@ -390,7 +390,7 @@
 
 - 条件：region: 米国／study: 学会委員会意見（2015年）
 - 不確実性：性交後試験など頸管因子の個別検査の現在の位置づけは、出典の抄録では確認できず主張には含めていない。頸管因子の頻度の具体的数値も確認できていない。
-- 出典：Practice Committee of the American Society for Reproductive Medicine. Diagnostic evaluation of the infertile female: a committee opinion. Fertility and Sterility. 2015;103(6):e44-e50.　[DOI 10.1016/j.fertnstert.2015.03.019](https://doi.org/10.1016/j.fertnstert.2015.03.019)　[PMID 25936238](https://pubmed.ncbi.nlm.nih.gov/25936238/)（区分 UNKNOWN）
+- 出典：Practice Committee of the American Society for Reproductive Medicine. Diagnostic evaluation of the infertile female: a committee opinion. Fertility and Sterility. 2015;103(6):e44-e50.　[DOI 10.1016/j.fertnstert.2015.03.019](https://doi.org/10.1016/j.fertnstert.2015.03.019)　[PMID 25936238](https://pubmed.ncbi.nlm.nih.gov/25936238/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-E-①（女性不妊症、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-030&card_id=RP-030&version=d34785373e)　（版 `d34785373e`）
 
@@ -518,7 +518,7 @@
 
 - 条件：region: 米国／study: 学会委員会意見（2015年）
 - 不確実性：各原因が占める割合の具体的数値は、出典の抄録では確認できず（地域や対象集団によっても異なるため）、主張には数値を含めていない。
-- 出典：Practice Committee of the American Society for Reproductive Medicine. Diagnostic evaluation of the infertile female: a committee opinion. Fertility and Sterility. 2015;103(6):e44-e50.　[DOI 10.1016/j.fertnstert.2015.03.019](https://doi.org/10.1016/j.fertnstert.2015.03.019)　[PMID 25936238](https://pubmed.ncbi.nlm.nih.gov/25936238/)（区分 UNKNOWN）
+- 出典：Practice Committee of the American Society for Reproductive Medicine. Diagnostic evaluation of the infertile female: a committee opinion. Fertility and Sterility. 2015;103(6):e44-e50.　[DOI 10.1016/j.fertnstert.2015.03.019](https://doi.org/10.1016/j.fertnstert.2015.03.019)　[PMID 25936238](https://pubmed.ncbi.nlm.nih.gov/25936238/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-E-①（女性不妊症、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-038&card_id=RP-038&version=96ff767f85)　（版 `96ff767f85`）
 
@@ -534,7 +534,7 @@
 
 - 条件：region: 米国／study: 学会委員会意見（2015年）
 - 不確実性：評価開始時期の基準は米国の学会意見に基づくもので、日本の診療での運用や、不妊治療の保険適用の要件（年齢・回数など）は本調査では未確認である。
-- 出典：Practice Committee of the American Society for Reproductive Medicine. Diagnostic evaluation of the infertile female: a committee opinion. Fertility and Sterility. 2015;103(6):e44-e50.　[DOI 10.1016/j.fertnstert.2015.03.019](https://doi.org/10.1016/j.fertnstert.2015.03.019)　[PMID 25936238](https://pubmed.ncbi.nlm.nih.gov/25936238/)（区分 UNKNOWN）
+- 出典：Practice Committee of the American Society for Reproductive Medicine. Diagnostic evaluation of the infertile female: a committee opinion. Fertility and Sterility. 2015;103(6):e44-e50.　[DOI 10.1016/j.fertnstert.2015.03.019](https://doi.org/10.1016/j.fertnstert.2015.03.019)　[PMID 25936238](https://pubmed.ncbi.nlm.nih.gov/25936238/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-E-①（女性不妊症、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)；骨盤内臓器と腫瘍の画像診断 TBL-02-09-023 (id: JlAKppY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-039&card_id=RP-039&version=04135f5b36)　（版 `04135f5b36`）
 
@@ -646,7 +646,7 @@
 
 - 条件：region: 国際／study: 生殖加齢の段階分類に関する国際ワークショップの合意文書（STRAW+10、2012年）
 - 不確実性：日本産科婦人科学会による閉経の定義の文言そのものは本出典では確認しておらず、STRAW+10 の枠組みに基づく記述である。若年での無月経など、ホルモン測定を要する場面の詳細は扱っていない。
-- 出典：Harlow SD, Gass M, Hall JE, et al. Executive summary of the Stages of Reproductive Aging Workshop + 10: addressing the unfinished agenda of staging reproductive aging. Menopause. 2012;19(4):387-395.　[DOI 10.1097/gme.0b013e31824d8f40](https://doi.org/10.1097/gme.0b013e31824d8f40)　[PMID 22343510](https://pubmed.ncbi.nlm.nih.gov/22343510/)（区分 UNKNOWN）
+- 出典：Harlow SD, Gass M, Hall JE, et al. Executive summary of the Stages of Reproductive Aging Workshop + 10: addressing the unfinished agenda of staging reproductive aging. Menopause. 2012;19(4):387-395.　[DOI 10.1097/gme.0b013e31824d8f40](https://doi.org/10.1097/gme.0b013e31824d8f40)　[PMID 22343510](https://pubmed.ncbi.nlm.nih.gov/22343510/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-9-A（更年期障害、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-046&card_id=RP-046&version=b3000c6170)　（版 `b3000c6170`）
 
@@ -662,7 +662,7 @@
 
 - 条件：region: 国際／study: 生殖加齢の段階分類に関する国際ワークショップの合意文書（STRAW+10、2012年）
 - 不確実性：各ホルモンの具体的な数値基準は本文の段階表に依存し、本カードでは確認した範囲（月経基準と変化の方向）にとどめた。各段階の持続期間の詳細は入れていない。
-- 出典：Harlow SD, Gass M, Hall JE, et al. Executive summary of the Stages of Reproductive Aging Workshop + 10: addressing the unfinished agenda of staging reproductive aging. Menopause. 2012;19(4):387-395.　[DOI 10.1097/gme.0b013e31824d8f40](https://doi.org/10.1097/gme.0b013e31824d8f40)　[PMID 22343510](https://pubmed.ncbi.nlm.nih.gov/22343510/)（区分 UNKNOWN）
+- 出典：Harlow SD, Gass M, Hall JE, et al. Executive summary of the Stages of Reproductive Aging Workshop + 10: addressing the unfinished agenda of staging reproductive aging. Menopause. 2012;19(4):387-395.　[DOI 10.1097/gme.0b013e31824d8f40](https://doi.org/10.1097/gme.0b013e31824d8f40)　[PMID 22343510](https://pubmed.ncbi.nlm.nih.gov/22343510/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-9-A（更年期障害、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-047&card_id=RP-047&version=bfd6443634)　（版 `bfd6443634`）
 
@@ -806,7 +806,7 @@
 
 - 条件：region: 国際／study: 生殖加齢の段階分類に関する国際ワークショップの合意文書（STRAW+10、2012年）
 - 不確実性：本出典が扱うのは思春期以降の生殖加齢の段階であり、小児期や妊娠・産褥を含むライフステージ全体の健康課題は扱っていない。各段階の持続期間の詳細は入れていない。
-- 出典：Harlow SD, Gass M, Hall JE, et al. Executive summary of the Stages of Reproductive Aging Workshop + 10: addressing the unfinished agenda of staging reproductive aging. Menopause. 2012;19(4):387-395.　[DOI 10.1097/gme.0b013e31824d8f40](https://doi.org/10.1097/gme.0b013e31824d8f40)　[PMID 22343510](https://pubmed.ncbi.nlm.nih.gov/22343510/)（区分 UNKNOWN）
+- 出典：Harlow SD, Gass M, Hall JE, et al. Executive summary of the Stages of Reproductive Aging Workshop + 10: addressing the unfinished agenda of staging reproductive aging. Menopause. 2012;19(4):387-395.　[DOI 10.1097/gme.0b013e31824d8f40](https://doi.org/10.1097/gme.0b013e31824d8f40)　[PMID 22343510](https://pubmed.ncbi.nlm.nih.gov/22343510/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-058&card_id=RP-058&version=4db213c119)　（版 `4db213c119`）
 

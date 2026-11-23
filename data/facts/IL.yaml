@@ -87,7 +87,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録の要約で確認（本文は未確認）。DOI・PMID は検索結果の URL（qxmd・Weill Cornell）で確認。
   curriculum:
@@ -103,6 +103,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-410 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: IL-004
   domain: IL
   subdomain: 特発性肺線維症
@@ -122,7 +125,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録の要約で確認（本文は未確認）。
   curriculum:
@@ -138,6 +141,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-410 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: IL-005
   domain: IL
   subdomain: 進行性肺線維症
@@ -157,7 +163,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録の要約で確認。肺機能上の進行の具体的な閾値（FVC・DLco の低下幅）は本文で確認していないため書いていない。出題基準 Ⅳ に PPF の項目はないため kokushi は null。
   curriculum:
@@ -173,6 +179,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-410 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: IL-006
   domain: IL
   subdomain: 進行性肺線維症
@@ -192,7 +201,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録の要約で確認。国内での PPF（進行性線維化を伴う間質性肺疾患）へのニンテダニブの承認時期は添付文書で確認していない。
   curriculum:
@@ -208,6 +217,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-410 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: IL-007
   domain: IL
   subdomain: 特発性肺線維症
@@ -1567,13 +1579,13 @@
   provenance:
     source_ref: SRC-436
     source: 'McCormack FX, et al. Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management. Am J Respir Crit Care Med 2016（9月15日号）'
-    doi: null
-    pmid: null
+    doi: 10.1164/rccm.201607-1384ST
+    pmid: '27628078'
     pmcid: null
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: ATS のプレスリリース（newswise 掲載）で確認。ガイドライン本文・DOI・PMID は未確認。シロリムスの国内承認状況は添付文書で確認していない。
   curriculum:
@@ -1589,6 +1601,15 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-436 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: DOI を補完（SRC-436 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: PMID を補完（SRC-436 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: IL-045
   domain: IL
   subdomain: 肺リンパ脈管筋腫症<LAM>
@@ -1602,13 +1623,13 @@
   provenance:
     source_ref: SRC-436
     source: 'McCormack FX, et al. Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management. Am J Respir Crit Care Med 2016（9月15日号）'
-    doi: null
-    pmid: null
+    doi: 10.1164/rccm.201607-1384ST
+    pmid: '27628078'
     pmcid: null
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: ATS のプレスリリースで確認。VEGF-D の診断閾値は確認していない。
   curriculum:
@@ -1624,6 +1645,15 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-436 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: DOI を補完（SRC-436 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: PMID を補完（SRC-436 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: IL-046
   domain: IL
   subdomain: 肺リンパ脈管筋腫症<LAM>
@@ -1637,13 +1667,13 @@
   provenance:
     source_ref: SRC-436
     source: 'McCormack FX, et al. Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management. Am J Respir Crit Care Med 2016（9月15日号）'
-    doi: null
-    pmid: null
+    doi: 10.1164/rccm.201607-1384ST
+    pmid: '27628078'
     pmcid: null
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: ATS のプレスリリースで確認。乳び胸水が問題となる例では、侵襲的な処置の前にシロリムスを試すことを提案（条件付き）。
   curriculum:
@@ -1659,6 +1689,15 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-436 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: DOI を補完（SRC-436 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: PMID を補完（SRC-436 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: IL-047
   domain: IL
   subdomain: 肺胞蛋白症

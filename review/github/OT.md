@@ -118,7 +118,7 @@
 
 - 条件：region: 米国／study: 診療ガイドライン
 - 不確実性：出典は米国の診療ガイドラインで、日本のガイドラインとの推奨の差異は確認していない。挙げられた薬剤の国内承認・保険適用は未確認。
-- 出典：Rosenfeld RM, Shin JJ, Schwartz SR, Coggins R, Gagnon L, Hackell JM, et al. Clinical Practice Guideline: Otitis Media with Effusion (Update). Otolaryngology–Head and Neck Surgery. 2016;154(1 Suppl):S1-S41.　[DOI 10.1177/0194599815623467](https://doi.org/10.1177/0194599815623467)　[PMID 26832942](https://pubmed.ncbi.nlm.nih.gov/26832942/)（区分 UNKNOWN）
+- 出典：Rosenfeld RM, Shin JJ, Schwartz SR, Coggins R, Gagnon L, Hackell JM, et al. Clinical Practice Guideline: Otitis Media with Effusion (Update). Otolaryngology–Head and Neck Surgery. 2016;154(1 Suppl):S1-S41.　[DOI 10.1177/0194599815623467](https://doi.org/10.1177/0194599815623467)　[PMID 26832942](https://pubmed.ncbi.nlm.nih.gov/26832942/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-7-C-②（滲出性中耳炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-501 (id: JlvnmO0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-011&card_id=OT-011&version=a4df300877)　（版 `a4df300877`）
 
@@ -128,7 +128,7 @@
 
 - 条件：region: 全世界／study: WHOモノグラフ（公的資料）
 - 不確実性：出典は2004年のWHOモノグラフで、現在の各国の診療実態と異なる可能性がある。点耳キノロン薬の国内承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】点耳キノロン製剤（オフロキサシン点耳液等）は外耳炎・中耳炎の適応で承認され、保険適用がある（各添付文書の効能・効果）。
-- 出典：Acuin J. Chronic suppurative otitis media: burden of illness and management options. Geneva: World Health Organization; 2004. ISBN 92-4-159158-7.　[リンク](https://iris.who.int/handle/10665/42941)（区分 UNKNOWN）
+- 出典：Acuin J. Chronic suppurative otitis media: burden of illness and management options. Geneva: World Health Organization; 2004. ISBN 92-4-159158-7.　[リンク](https://iris.who.int/handle/10665/42941)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-7-C-③（慢性穿孔性<化膿性>中耳炎、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-501 (id: JlvnmO0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-012&card_id=OT-012&version=b09e3c329a)　（版 `b09e3c329a`）
 
@@ -158,7 +158,7 @@
 
 - 条件：region: 全世界／study: WHOモノグラフ（公的資料）
 - 不確実性：出典は2004年のWHOモノグラフで、真珠腫の記載は慢性化膿性中耳炎の文脈に基づく。現在の国際的な分類・病期（EAONO/JOS分類など）の詳細は出典の範囲外。本カードで触れた抗菌薬の個別薬剤の国内承認・保険適用は未確認。
-- 出典：Acuin J. Chronic suppurative otitis media: burden of illness and management options. Geneva: World Health Organization; 2004. ISBN 92-4-159158-7.　[リンク](https://iris.who.int/handle/10665/42941)（区分 UNKNOWN）
+- 出典：Acuin J. Chronic suppurative otitis media: burden of illness and management options. Geneva: World Health Organization; 2004. ISBN 92-4-159158-7.　[リンク](https://iris.who.int/handle/10665/42941)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-7-C-⑥（真珠腫性中耳炎、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-501 (id: JlvnmO0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-015&card_id=OT-015&version=af414a0205)　（版 `af414a0205`）
 
@@ -214,7 +214,7 @@
 
 - 条件：region: 米国／study: 診療ガイドライン
 - 不確実性：発症頻度は米国の値。重症度やめまいの有無などの個別の予後因子は、出典の抄録で確認した範囲に含まれないため記載していない（ガイドライン本文での確認が望ましい）。
-- 出典：Chandrasekhar SS, Tsai Do BS, Schwartz SR, Bontempo LJ, Faucett EA, Finestone SA, et al. Clinical Practice Guideline: Sudden Hearing Loss (Update). Otolaryngology–Head and Neck Surgery. 2019;161(1 Suppl):S1-S45.　[DOI 10.1177/0194599819859885](https://doi.org/10.1177/0194599819859885)　[PMID 31369359](https://pubmed.ncbi.nlm.nih.gov/31369359/)（区分 UNKNOWN）
+- 出典：Chandrasekhar SS, Tsai Do BS, Schwartz SR, Bontempo LJ, Faucett EA, Finestone SA, et al. Clinical Practice Guideline: Sudden Hearing Loss (Update). Otolaryngology–Head and Neck Surgery. 2019;161(1 Suppl):S1-S45.　[DOI 10.1177/0194599819859885](https://doi.org/10.1177/0194599819859885)　[PMID 31369359](https://pubmed.ncbi.nlm.nih.gov/31369359/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-8-A-④（突発性難聴、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-503 (id: JlvnmPI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-020&card_id=OT-020&version=9742bf8b6b)　（版 `9742bf8b6b`）
 
@@ -224,7 +224,7 @@
 
 - 条件：region: 米国／study: 診療ガイドライン
 - 不確実性：出典は米国の診療ガイドラインで、日本の突発性難聴の診断基準・治療実態との差異は確認していない。ステロイドなどの国内承認・保険適用は未確認（突発性難聴への適応を含む）。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ステロイド製剤自体は承認薬であり「未確認」は解消できる。ただし突発性難聴への適応は添付文書の効能・効果に含まれず、その使用は適応外の位置づけが続く
-- 出典：Chandrasekhar SS, Tsai Do BS, Schwartz SR, Bontempo LJ, Faucett EA, Finestone SA, et al. Clinical Practice Guideline: Sudden Hearing Loss (Update). Otolaryngology–Head and Neck Surgery. 2019;161(1 Suppl):S1-S45.　[DOI 10.1177/0194599819859885](https://doi.org/10.1177/0194599819859885)　[PMID 31369359](https://pubmed.ncbi.nlm.nih.gov/31369359/)（区分 UNKNOWN）
+- 出典：Chandrasekhar SS, Tsai Do BS, Schwartz SR, Bontempo LJ, Faucett EA, Finestone SA, et al. Clinical Practice Guideline: Sudden Hearing Loss (Update). Otolaryngology–Head and Neck Surgery. 2019;161(1 Suppl):S1-S45.　[DOI 10.1177/0194599819859885](https://doi.org/10.1177/0194599819859885)　[PMID 31369359](https://pubmed.ncbi.nlm.nih.gov/31369359/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-8-A-④（突発性難聴、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-503 (id: JlvnmPI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-021&card_id=OT-021&version=cd06f8b589)　（版 `cd06f8b589`）
 
@@ -234,7 +234,7 @@
 
 - 条件：region: 全世界／study: WHOモノグラフ（公的資料）
 - 不確実性：出典は2004年のWHOモノグラフで、内耳炎の記載は慢性化膿性中耳炎の合併症としての文脈に基づく。ウイルス性内耳炎など他の原因による内耳炎の詳細は含まれない。抗菌薬の国内承認・保険適用は未確認。
-- 出典：Acuin J. Chronic suppurative otitis media: burden of illness and management options. Geneva: World Health Organization; 2004. ISBN 92-4-159158-7.　[リンク](https://iris.who.int/handle/10665/42941)（区分 UNKNOWN）
+- 出典：Acuin J. Chronic suppurative otitis media: burden of illness and management options. Geneva: World Health Organization; 2004. ISBN 92-4-159158-7.　[リンク](https://iris.who.int/handle/10665/42941)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-8-A-⑤（内耳炎、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-501 (id: JlvnmO0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-022&card_id=OT-022&version=51b4f27a73)　（版 `51b4f27a73`）
 
@@ -264,7 +264,7 @@
 
 - 条件：region: 国際（先進国を中心とする総説）／study: 総説（Nature Reviews Disease Primers）
 - 不確実性：ムンプスなど出生後に発症するウイルス性難聴の頻度や経過は、本総説の抄録では確認できなかったため含めていない。CMV 感染が先天性難聴に占める割合の具体的数値も抄録では確認できなかった。
-- 出典：Korver AMH, Smith RJH, Van Camp G, Schleiss MR, Bitner-Glindzicz MAK, Lustig LR, Usami SI, Boudewyns AN. Congenital hearing loss. Nat Rev Dis Primers. 2017;3:16094.　[DOI 10.1038/nrdp.2016.94](https://doi.org/10.1038/nrdp.2016.94)　[PMID 28079113](https://pubmed.ncbi.nlm.nih.gov/28079113/)（区分 UNKNOWN）
+- 出典：Korver AMH, Smith RJH, Van Camp G, Schleiss MR, Bitner-Glindzicz MAK, Lustig LR, Usami SI, Boudewyns AN. Congenital hearing loss. Nat Rev Dis Primers. 2017;3:16094.　[DOI 10.1038/nrdp.2016.94](https://doi.org/10.1038/nrdp.2016.94)　[PMID 28079113](https://pubmed.ncbi.nlm.nih.gov/28079113/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-8-A-⑧（ウイルス性難聴、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-025&card_id=OT-025&version=f3ad4ba24b)　（版 `f3ad4ba24b`）
 
@@ -274,7 +274,7 @@
 
 - 条件：region: 国際（先進国を中心とする総説）／study: 総説（Nature Reviews Disease Primers）
 - 不確実性：GJB2 をはじめとする個別の原因遺伝子の頻度（日本人集団における頻度を含む）は、本総説の抄録では確認できなかったため含めていない。
-- 出典：Korver AMH, Smith RJH, Van Camp G, Schleiss MR, Bitner-Glindzicz MAK, Lustig LR, Usami SI, Boudewyns AN. Congenital hearing loss. Nat Rev Dis Primers. 2017;3:16094.　[DOI 10.1038/nrdp.2016.94](https://doi.org/10.1038/nrdp.2016.94)　[PMID 28079113](https://pubmed.ncbi.nlm.nih.gov/28079113/)（区分 UNKNOWN）
+- 出典：Korver AMH, Smith RJH, Van Camp G, Schleiss MR, Bitner-Glindzicz MAK, Lustig LR, Usami SI, Boudewyns AN. Congenital hearing loss. Nat Rev Dis Primers. 2017;3:16094.　[DOI 10.1038/nrdp.2016.94](https://doi.org/10.1038/nrdp.2016.94)　[PMID 28079113](https://pubmed.ncbi.nlm.nih.gov/28079113/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-8-A-⑨（遺伝性難聴、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-026&card_id=OT-026&version=535c3b694b)　（版 `535c3b694b`）
 
@@ -364,7 +364,7 @@
 
 - 条件：region: 国際／study: 総説
 - 不確実性：薬物療法の具体的な有効性の数値は、本総説の抄録では確認できなかったため含めていない。感受性に関わる遺伝的要因の詳細も抄録の範囲を超えるため含めていない。
-- 出典：Zhang LL, Wang JQ, Qi RR, Pan LL, Li M, Cai YL. Motion Sickness: Current Knowledge and Recent Advance. CNS Neurosci Ther. 2016;22(1):15-24.　[DOI 10.1111/cns.12468](https://doi.org/10.1111/cns.12468)　[PMID 26452639](https://pubmed.ncbi.nlm.nih.gov/26452639/)（区分 UNKNOWN）
+- 出典：Zhang LL, Wang JQ, Qi RR, Pan LL, Li M, Cai YL. Motion Sickness: Current Knowledge and Recent Advance. CNS Neurosci Ther. 2016;22(1):15-24.　[DOI 10.1111/cns.12468](https://doi.org/10.1111/cns.12468)　[PMID 26452639](https://pubmed.ncbi.nlm.nih.gov/26452639/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-8-B-⑤（動揺病、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-505 (id: JlvnmPc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-034&card_id=OT-034&version=ec1fb41045)　（版 `ec1fb41045`）
 
@@ -420,7 +420,7 @@
 
 - 条件：region: 国際（症例集積）／study: スコーピングレビュー
 - 不確実性：数値はいずれも抄録に記載された集積結果である。本資料は第IX〜XII脳神経の合併麻痺の症例集積であり、舌下神経単独麻痺に限った原因別頻度や、舌の偏位・萎縮などの個別所見は確認できなかったため含めていない。
-- 出典：Aguilera-Pena MP, Castiblanco MA, Osejo-Arcos V, Aponte-Caballero R, Gutierrez-Gomez S, Abaunza-Camacho JF, Guevara-Moriones N, Benavides-Burbano CA, Riveros-Castillo WM, Saavedra JM. Collet-Sicard syndrome: a scoping review. Neurosurg Rev. 2023;46(1):244.　[DOI 10.1007/s10143-023-02145-7](https://doi.org/10.1007/s10143-023-02145-7)　[PMID 37707587](https://pubmed.ncbi.nlm.nih.gov/37707587/)（区分 UNKNOWN）
+- 出典：Aguilera-Pena MP, Castiblanco MA, Osejo-Arcos V, Aponte-Caballero R, Gutierrez-Gomez S, Abaunza-Camacho JF, Guevara-Moriones N, Benavides-Burbano CA, Riveros-Castillo WM, Saavedra JM. Collet-Sicard syndrome: a scoping review. Neurosurg Rev. 2023;46(1):244.　[DOI 10.1007/s10143-023-02145-7](https://doi.org/10.1007/s10143-023-02145-7)　[PMID 37707587](https://pubmed.ncbi.nlm.nih.gov/37707587/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-8-C-④（舌下神経麻痺、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-039&card_id=OT-039&version=6d081641d2)　（版 `6d081641d2`）
 
@@ -470,7 +470,7 @@
 
 - 条件：region: 国際（症例集積）／study: スコーピングレビュー
 - 不確実性：数値はいずれも抄録に記載された症例集積（135例）の結果である。本資料は第IX〜XII脳神経の合併麻痺を対象としており、軟口蓋麻痺単独の原因や頻度は確認できなかったため含めていない。症例報告の集積であるため、頻度の解釈には報告バイアスの可能性がある。
-- 出典：Aguilera-Pena MP, Castiblanco MA, Osejo-Arcos V, Aponte-Caballero R, Gutierrez-Gomez S, Abaunza-Camacho JF, Guevara-Moriones N, Benavides-Burbano CA, Riveros-Castillo WM, Saavedra JM. Collet-Sicard syndrome: a scoping review. Neurosurg Rev. 2023;46(1):244.　[DOI 10.1007/s10143-023-02145-7](https://doi.org/10.1007/s10143-023-02145-7)　[PMID 37707587](https://pubmed.ncbi.nlm.nih.gov/37707587/)（区分 UNKNOWN）
+- 出典：Aguilera-Pena MP, Castiblanco MA, Osejo-Arcos V, Aponte-Caballero R, Gutierrez-Gomez S, Abaunza-Camacho JF, Guevara-Moriones N, Benavides-Burbano CA, Riveros-Castillo WM, Saavedra JM. Collet-Sicard syndrome: a scoping review. Neurosurg Rev. 2023;46(1):244.　[DOI 10.1007/s10143-023-02145-7](https://doi.org/10.1007/s10143-023-02145-7)　[PMID 37707587](https://pubmed.ncbi.nlm.nih.gov/37707587/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-8-C-⑨（軟口蓋麻痺、c）；医学各論 Ⅲ-8-C-⑩（頸静脈孔症候群、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-044&card_id=OT-044&version=ba4e425104)　（版 `ba4e425104`）
 
@@ -502,7 +502,7 @@
 
 - 条件：region: 米国／対象: 生後2か月から12歳の小児
 - 不確実性：主張は出典（米国の診療ガイドライン、2016年改訂版）の抄録に掲載されたアクションステートメントで確認した範囲である。日本の小児滲出性中耳炎の診療ガイドラインとの推奨の差異は確認していない。本カードには薬剤名を含めていない。
-- 出典：Rosenfeld RM, Shin JJ, Schwartz SR, et al. Clinical Practice Guideline: Otitis Media with Effusion (Update). Otolaryngol Head Neck Surg. 2016;154(1 Suppl):S1-S41　[DOI 10.1177/0194599815623467](https://doi.org/10.1177/0194599815623467)　[PMID 26832942](https://pubmed.ncbi.nlm.nih.gov/26832942/)（区分 UNKNOWN）
+- 出典：Rosenfeld RM, Shin JJ, Schwartz SR, et al. Clinical Practice Guideline: Otitis Media with Effusion (Update). Otolaryngol Head Neck Surg. 2016;154(1 Suppl):S1-S41　[DOI 10.1177/0194599815623467](https://doi.org/10.1177/0194599815623467)　[PMID 26832942](https://pubmed.ncbi.nlm.nih.gov/26832942/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-7-C-②（滲出性中耳炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-501 (id: JlvnmO0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-046&card_id=OT-046&version=699d47db94)　（版 `699d47db94`）
 
@@ -566,7 +566,7 @@
 
 - 条件：region: 全般／対象: 動揺病の予防・治療の対象者
 - 不確実性：スコポラミン貼付剤（経皮吸収型製剤）は国内では未承認で市販されていない（国内の文献とPMDAの公開情報で確認）。国内のスコポラミンは、臭化水素酸塩水和物として一部の一般用乗り物酔い薬の配合成分や、注射剤の形で用いられている。ジメンヒドリナートには、動揺病などに伴う悪心・嘔吐・眩暈への効能で国内承認された医療用製剤（ドラマミン錠50mg）があり、メクリジン塩酸塩は国内の一般用乗り物酔い薬の配合成分として用いられ、プロメタジン塩酸塩（ヒベルナ）は効能・効果に動揺病を含む国内承認薬である。スコポラミン貼付剤の効果持続時間（72時間）は、出典の薬剤表から読み取った数値である。
-- 出典：Zhang LL, Wang JQ, Qi RR, Pan LL, Li M, Cai YL. Motion Sickness: Current Knowledge and Recent Advance. CNS Neurosci Ther. 2016;22(1):15-24　[DOI 10.1111/cns.12468](https://doi.org/10.1111/cns.12468)　[PMID 26452639](https://pubmed.ncbi.nlm.nih.gov/26452639/)（区分 UNKNOWN）
+- 出典：Zhang LL, Wang JQ, Qi RR, Pan LL, Li M, Cai YL. Motion Sickness: Current Knowledge and Recent Advance. CNS Neurosci Ther. 2016;22(1):15-24　[DOI 10.1111/cns.12468](https://doi.org/10.1111/cns.12468)　[PMID 26452639](https://pubmed.ncbi.nlm.nih.gov/26452639/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-8-B-⑤（動揺病、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-505 (id: JlvnmPc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-050&card_id=OT-050&version=08845dac2a)　（版 `08845dac2a`）
 

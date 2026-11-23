@@ -370,7 +370,7 @@
     url: https://doi.org/10.1177/0194599815623467
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は米国の診療ガイドラインで、日本のガイドラインとの推奨の差異は確認していない。挙げられた薬剤の国内承認・保険適用は未確認。
   curriculum:
@@ -386,6 +386,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1349 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OT-012
   domain: OT
   subdomain: 中耳疾患
@@ -405,7 +408,7 @@
     url: https://iris.who.int/handle/10665/42941
     source_license: © World Health Organization 2004（All rights reserved、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は2004年のWHOモノグラフで、現在の各国の診療実態と異なる可能性がある。点耳キノロン薬の国内承認・保険適用は未確認。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】点耳キノロン製剤（オフロキサシン点耳液等）は外耳炎・中耳炎の適応で承認され、保険適用がある（各添付文書の効能・効果）。
   curriculum:
@@ -424,6 +427,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1350 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OT-013
   domain: OT
   subdomain: 中耳疾患
@@ -516,7 +522,7 @@
     url: https://iris.who.int/handle/10665/42941
     source_license: © World Health Organization 2004（All rights reserved、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は2004年のWHOモノグラフで、真珠腫の記載は慢性化膿性中耳炎の文脈に基づく。現在の国際的な分類・病期（EAONO/JOS分類など）の詳細は出典の範囲外。本カードで触れた抗菌薬の個別薬剤の国内承認・保険適用は未確認。
   curriculum:
@@ -532,6 +538,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1350 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OT-016
   domain: OT
   subdomain: 中耳疾患
@@ -691,7 +700,7 @@
     url: https://doi.org/10.1177/0194599819859885
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 発症頻度は米国の値。重症度やめまいの有無などの個別の予後因子は、出典の抄録で確認した範囲に含まれないため記載していない（ガイドライン本文での確認が望ましい）。
   curriculum:
@@ -707,6 +716,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1355 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OT-021
   domain: OT
   subdomain: 難聴
@@ -726,7 +738,7 @@
     url: https://doi.org/10.1177/0194599819859885
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は米国の診療ガイドラインで、日本の突発性難聴の診断基準・治療実態との差異は確認していない。ステロイドなどの国内承認・保険適用は未確認（突発性難聴への適応を含む）。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ステロイド製剤自体は承認薬であり「未確認」は解消できる。ただし突発性難聴への適応は添付文書の効能・効果に含まれず、その使用は適応外の位置づけが続く
   curriculum:
@@ -745,6 +757,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1355 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OT-022
   domain: OT
   subdomain: 難聴
@@ -764,7 +779,7 @@
     url: https://iris.who.int/handle/10665/42941
     source_license: © World Health Organization 2004（All rights reserved、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は2004年のWHOモノグラフで、内耳炎の記載は慢性化膿性中耳炎の合併症としての文脈に基づく。ウイルス性内耳炎など他の原因による内耳炎の詳細は含まれない。抗菌薬の国内承認・保険適用は未確認。
   curriculum:
@@ -780,6 +795,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1350 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OT-023
   domain: OT
   subdomain: 難聴
@@ -869,7 +887,7 @@
     url: https://doi.org/10.1038/nrdp.2016.94
     source_license: © Springer Nature（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: ムンプスなど出生後に発症するウイルス性難聴の頻度や経過は、本総説の抄録では確認できなかったため含めていない。CMV 感染が先天性難聴に占める割合の具体的数値も抄録では確認できなかった。
   curriculum:
@@ -885,6 +903,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1356 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OT-026
   domain: OT
   subdomain: 難聴
@@ -904,7 +925,7 @@
     url: https://doi.org/10.1038/nrdp.2016.94
     source_license: © Springer Nature（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: GJB2 をはじめとする個別の原因遺伝子の頻度（日本人集団における頻度を含む）は、本総説の抄録では確認できなかったため含めていない。
   curriculum:
@@ -920,6 +941,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1356 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OT-027
   domain: OT
   subdomain: 難聴
@@ -1184,7 +1208,7 @@
     url: https://doi.org/10.1111/cns.12468
     source_license: © John Wiley & Sons（CC表示は Crossref・PMC で確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 薬物療法の具体的な有効性の数値は、本総説の抄録では確認できなかったため含めていない。感受性に関わる遺伝的要因の詳細も抄録の範囲を超えるため含めていない。
   curriculum:
@@ -1200,6 +1224,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1363 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OT-035
   domain: OT
   subdomain: 脳神経疾患
@@ -1365,7 +1392,7 @@
     url: https://doi.org/10.1007/s10143-023-02145-7
     source_license: © Springer Nature（exclusive licence、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値はいずれも抄録に記載された集積結果である。本資料は第IX〜XII脳神経の合併麻痺の症例集積であり、舌下神経単独麻痺に限った原因別頻度や、舌の偏位・萎縮などの個別所見は確認できなかったため含めていない。
   curriculum:
@@ -1381,6 +1408,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1367 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OT-040
   domain: OT
   subdomain: 脳神経疾患
@@ -1540,7 +1570,7 @@
     url: https://doi.org/10.1007/s10143-023-02145-7
     source_license: © Springer Nature（exclusive licence、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値はいずれも抄録に記載された症例集積（135例）の結果である。本資料は第IX〜XII脳神経の合併麻痺を対象としており、軟口蓋麻痺単独の原因や頻度は確認できなかったため含めていない。症例報告の集積であるため、頻度の解釈には報告バイアスの可能性がある。
   curriculum:
@@ -1559,6 +1589,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅲ-8-C-⑩ を足した（医学各論 Ⅲ-8-C-⑨（軟口蓋麻痺、c） → 医学各論 Ⅲ-8-C-⑨（軟口蓋麻痺、c）；医学各論 Ⅲ-8-C-⑩（頸静脈孔症候群、c））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1367 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OT-045
   domain: OT
   subdomain: 外耳道異物
@@ -1613,7 +1646,7 @@
     url: https://doi.org/10.1177/0194599815623467
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 主張は出典（米国の診療ガイドライン、2016年改訂版）の抄録に掲載されたアクションステートメントで確認した範囲である。日本の小児滲出性中耳炎の診療ガイドラインとの推奨の差異は確認していない。本カードには薬剤名を含めていない。
   curriculum:
@@ -1629,6 +1662,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1349 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OT-047
   domain: OT
   subdomain: 薬剤性難聴
@@ -1753,7 +1789,7 @@
     url: https://doi.org/10.1111/cns.12468
     source_license: © John Wiley & Sons（CC表示は Crossref・PMC で確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ19 2026-11-11）：CDC Travelers' Health『Motion Sickness』ページ（新規 SRC 提案）。裏づける部分：動揺病の薬は予防にも治療にも用いられ、一般的に使われる薬としてジフェンヒドラミン・ジメンヒドリナート・スコポラミンが挙げられること、多くの薬が眠気を引き起こすことという骨格 スコポラミンが系統的レビュー（RCT 14件）でプラセボより予防効果に優れたこと、経皮吸収型製剤（耳介後部貼付）の剤形、第1世代 H1 受容体拮抗薬が有効で第2世代は有効でなかったという比較の部分は CDC ページに記載がなく対象外。カード側の注記どおり、スコポラミン貼付剤は国内未承認・未市販で、ジメンヒドリナートには国内承認製剤があることと食い違いはない
   uncertainty: スコポラミン貼付剤（経皮吸収型製剤）は国内では未承認で市販されていない（国内の文献とPMDAの公開情報で確認）。国内のスコポラミンは、臭化水素酸塩水和物として一部の一般用乗り物酔い薬の配合成分や、注射剤の形で用いられている。ジメンヒドリナートには、動揺病などに伴う悪心・嘔吐・眩暈への効能で国内承認された医療用製剤（ドラマミン錠50mg）があり、メクリジン塩酸塩は国内の一般用乗り物酔い薬の配合成分として用いられ、プロメタジン塩酸塩（ヒベルナ）は効能・効果に動揺病を含む国内承認薬である。スコポラミン貼付剤の効果持続時間（72時間）は、出典の薬剤表から読み取った数値である。
   curriculum:
@@ -1772,6 +1808,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ19 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1363 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OT-051
   domain: OT
   subdomain: Horner症候群

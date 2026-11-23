@@ -107,11 +107,11 @@
 
 - 条件：region: EU／guideline: ESGE 2026 推奨7
 - 鑑別・補足：ソフト凝固を用いた止血鉗子の単独療法も選択肢（推奨10）／止血剤（パウダー等）の単独での一次使用は提案しない（推奨11）
-- 出典：ESGE 2026（PubMed抄録 PMID 42127996）　[DOI 10.1055/a-2863-8314](https://doi.org/10.1055/a-2863-8314)（区分 UNKNOWN）
+- 出典：ESGE 2026（PubMed抄録 PMID 42127996）　[DOI 10.1055/a-2863-8314](https://doi.org/10.1055/a-2863-8314)　[PMID 42127996](https://pubmed.ncbi.nlm.nih.gov/42127996/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）　コアカリ：－
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-010&card_id=UG-010&version=68b2ec80a1)　（版 `68b2ec80a1`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-010&card_id=UG-010&version=458c87a064)　（版 `458c87a064`）
 
-**[ここまでの 10 件（UG-001〜UG-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UG-001%E3%80%9CUG-010&cards=UG-001%2058318b210a%0AUG-002%20aeaae05b32%0AUG-003%2033b282af2b%0AUG-004%2057b8f101e8%0AUG-005%2066924445db%0AUG-006%208c7fde1b5f%0AUG-007%20f707729e3e%0AUG-008%20bcd6a81e44%0AUG-009%20381df0fccb%0AUG-010%2068b2ec80a1)**
+**[ここまでの 10 件（UG-001〜UG-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UG-001%E3%80%9CUG-010&cards=UG-001%2058318b210a%0AUG-002%20aeaae05b32%0AUG-003%2033b282af2b%0AUG-004%2057b8f101e8%0AUG-005%2066924445db%0AUG-006%208c7fde1b5f%0AUG-007%20f707729e3e%0AUG-008%20bcd6a81e44%0AUG-009%20381df0fccb%0AUG-010%20458c87a064)**
 
 ---
 
@@ -161,9 +161,9 @@
 
 - 条件：region: EU／guideline: 推奨16
 - よくある誤解：再出血したらすぐに外科手術
-- 出典：ESGE 2026　[DOI 10.1055/a-2863-8314](https://doi.org/10.1055/a-2863-8314)（区分 UNKNOWN）
+- 出典：ESGE 2026　[DOI 10.1055/a-2863-8314](https://doi.org/10.1055/a-2863-8314)　[PMID 42127996](https://pubmed.ncbi.nlm.nih.gov/42127996/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）　コアカリ：－
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-015&card_id=UG-015&version=c90e181267)　（版 `c90e181267`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-015&card_id=UG-015&version=ca5c7163e4)　（版 `ca5c7163e4`）
 
 ### UG-016　下書き（出典の照合前）
 
@@ -183,20 +183,20 @@
 
 - 条件：region: EU／guideline: ESGE 2026 推奨17
 - 鑑別・補足：ワルファリン服用中の重篤出血ではFFPよりPCCが優先されるとの記載あり（二次文献、要確認）
-- 出典：ESGE 2026　[DOI 10.1055/a-2863-8314](https://doi.org/10.1055/a-2863-8314)（区分 UNKNOWN）
+- 出典：ESGE 2026　[DOI 10.1055/a-2863-8314](https://doi.org/10.1055/a-2863-8314)　[PMID 42127996](https://pubmed.ncbi.nlm.nih.gov/42127996/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）　コアカリ：－
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-017&card_id=UG-017&version=c9f9a5740f)　（版 `c9f9a5740f`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-017&card_id=UG-017&version=e25bcbf255)　（版 `e25bcbf255`）
 
 ### UG-018　下書き（出典の照合前）
 
 > 持続的な止血が得られた消化性潰瘍出血では、止血後24時間以内に経口摂取を始め、鉄欠乏や貧血があれば退院前に鉄補充を開始することが提案されている。
 
 - 条件：region: EU／guideline: ESGE 2026 推奨18・19
-- 出典：ESGE 2026　[DOI 10.1055/a-2863-8314](https://doi.org/10.1055/a-2863-8314)（区分 UNKNOWN）
+- 出典：ESGE 2026　[DOI 10.1055/a-2863-8314](https://doi.org/10.1055/a-2863-8314)　[PMID 42127996](https://pubmed.ncbi.nlm.nih.gov/42127996/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）　コアカリ：－
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-018&card_id=UG-018&version=c64879bf53)　（版 `c64879bf53`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-018&card_id=UG-018&version=fa93706bb7)　（版 `fa93706bb7`）
 
-**[ここまでの 8 件（UG-011〜UG-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UG-011%E3%80%9CUG-018&cards=UG-011%20e7e5fd85fb%0AUG-012%202bbc00ce4a%0AUG-013%20155f5438a8%0AUG-014%2030c4fc049e%0AUG-015%20c90e181267%0AUG-016%203bfe76b5cf%0AUG-017%20c9f9a5740f%0AUG-018%20c64879bf53)**
+**[ここまでの 8 件（UG-011〜UG-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UG-011%E3%80%9CUG-018&cards=UG-011%20e7e5fd85fb%0AUG-012%202bbc00ce4a%0AUG-013%20155f5438a8%0AUG-014%2030c4fc049e%0AUG-015%20ca5c7163e4%0AUG-016%203bfe76b5cf%0AUG-017%20e25bcbf255%0AUG-018%20fa93706bb7)**
 
 ---
 

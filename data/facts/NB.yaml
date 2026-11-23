@@ -934,7 +934,7 @@
     url: https://doi.org/10.1542/peds.2018-3061
     source_license: © 2018 American Academy of Pediatrics（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ45 2026-11-11）：National Eye Institute (NEI). Retinopathy of Prematurity（NEI の疾患ページ、2025-08-06 更新）（GOV_US、https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinopathy-prematurity、新規 SRC 候補）。裏づける部分：候補（NEI のページ、GOV_US）に、未熟児網膜症は未熟な網膜に異常な血管が増える病態で、網膜剥離に進むと視力障害や失明の原因になること、治療（レーザー、注射、手術）が存在し視力を守るには早期の発見と治療が最善であること、リスクのある児は出生後4〜9週に初回検査を受け、以後1〜3週ごとの経過観察を予定どおり受ける重要性が明記される。数値の照合：初回検査の時期（出生後4〜9週）と経過観察の間隔（1〜3週ごと）は、カードが基準値そのものを含まないため照合は枠組みの一致にとどまる。留保：「重症例への有効な治療は30年以上前から存在する」という期間の要素と、米国小児科学会の2018年改訂の政策声明そのものへの言及は候補になく、その部分を留保して B。なお同一の主出典（SRC-1295）は眼科側の RE-016 でも使われ、バッチ44で CC BY 総説による B となっている。候補は出典マスター未登録のため新規 SRC 登録候補
   uncertainty: スクリーニング対象の具体的な基準値（出生体重・在胎週数の閾値）は本文の表で確認が必要なため主張に入れていない。日本のスクリーニング基準の原典文書は未確認である。治療の適応の詳細は本カードの範囲外だが、硝子体内抗VEGF薬のアフリベルセプトは未熟児網膜症の適応で2022年9月に国内承認されていることを出典リサーチで確認した（ラニビズマブの同じ適応での国内承認は未確認）　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ラニビズマブは未熟児網膜症の適応で2019年11月22日に国内承認済み（バイアル製剤、1回0.2mg。PMDA再審査報告書・承認情報）。「ラニビズマブの同じ適応での国内承認は未確認」は誤り。アフリベルセプトの2022年9月承認は注記どおり
   curriculum:
@@ -956,6 +956,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ45 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1295 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: NB-027
   domain: NB
   subdomain: 低体温症

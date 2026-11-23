@@ -29,7 +29,7 @@
 
 - 条件：region: 米国／guideline: AHA/ACC ほか 2026 急性肺血栓塞栓症 GL
 - 不確実性：本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。表から読み取り。呼吸状態の異常が目立つ場合は R を付ける（例：C1R）。C1〜C3 の細分の基準は抽出テキストで確認できていない。
-- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 UNKNOWN）
+- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-B-①（急性肺血栓塞栓症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-002&card_id=PV-002&version=b3bedaf6c2)　（版 `b3bedaf6c2`）
 
@@ -39,7 +39,7 @@
 
 - 条件：region: 米国／guideline: AHA/ACC ほか 2026 急性肺血栓塞栓症 GL
 - 不確実性：本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。要点（Top 10 Take-Home Messages）から読み取り。
-- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 UNKNOWN）
+- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-B-①（急性肺血栓塞栓症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-003&card_id=PV-003&version=e201ac036e)　（版 `e201ac036e`）
 
@@ -49,7 +49,7 @@
 
 - 条件：region: 米国／guideline: AHA/ACC ほか 2026 急性肺血栓塞栓症 GL
 - 不確実性：本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。要点から読み取り。全身血栓溶解・カテーテル治療の個別の COR/LOE は抽出テキストに含まれず未確認。
-- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 UNKNOWN）
+- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-B-①（急性肺血栓塞栓症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-004&card_id=PV-004&version=fe258598f1)　（版 `fe258598f1`）
 
@@ -59,7 +59,7 @@
 
 - 条件：region: 米国／guideline: AHA/ACC ほか 2026 急性肺血栓塞栓症 GL
 - 不確実性：本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。
-- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 UNKNOWN）
+- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-B-①（急性肺血栓塞栓症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-005&card_id=PV-005&version=abed24d19d)　（版 `abed24d19d`）
 
@@ -70,7 +70,7 @@
 - 条件：region: 米国／guideline: AHA/ACC ほか 2026 急性肺血栓塞栓症 GL
 - よくある誤解：D ダイマーの基準値は年齢にかかわらず一律である
 - 不確実性：本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。妊娠中は妊娠用に調整した YEARS 基準が考慮されうる（COR 2b）。
-- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 UNKNOWN）
+- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-B-①（急性肺血栓塞栓症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-006&card_id=PV-006&version=cdd918bec4)　（版 `cdd918bec4`）
 
@@ -80,7 +80,7 @@
 
 - 条件：region: 米国／guideline: AHA/ACC ほか 2026 急性肺血栓塞栓症 GL
 - 不確実性：本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。妊娠中は低線量 CT 肺動脈造影を低線量の肺血流シンチグラフィより優先することが妥当（COR 2a）。
-- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 UNKNOWN）
+- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-B-①（急性肺血栓塞栓症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)；TBL-02-06-023 (id: JlAKpiY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-007&card_id=PV-007&version=a21dd0c1f6)　（版 `a21dd0c1f6`）
 
@@ -91,7 +91,7 @@
 - 条件：region: 米国／guideline: AHA/ACC ほか 2026 急性肺血栓塞栓症 GL
 - よくある誤解：心エコーで右室拡大がなければ肺血栓塞栓症は否定できる
 - 不確実性：本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。心エコーは重症度（右室機能）の評価には使われる。
-- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 UNKNOWN）
+- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-B-①（急性肺血栓塞栓症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)；TBL-02-06-023 (id: JlAKpiY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-008&card_id=PV-008&version=4bb56a692d)　（版 `4bb56a692d`）
 
@@ -101,7 +101,7 @@
 
 - 条件：region: 米国／guideline: AHA/ACC ほか 2026 急性肺血栓塞栓症 GL
 - 不確実性：本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。要点から読み取り。個別の COR/LOE は抽出テキストで未確認。国内の抗凝固薬の保険適用は JCS/JPCPHS 2025 ガイドラインと添付文書で確認する必要がある。
-- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 UNKNOWN）
+- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-B-①（急性肺血栓塞栓症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-009&card_id=PV-009&version=dfdc3dede4)　（版 `dfdc3dede4`）
 
@@ -111,7 +111,7 @@
 
 - 条件：region: 米国／guideline: AHA/ACC ほか 2026 急性肺血栓塞栓症 GL
 - 不確実性：本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。要点から読み取り。COR/LOE と、可逆的な危険因子がある場合の期間は抽出テキストで未確認。
-- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 UNKNOWN）
+- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-B-①（急性肺血栓塞栓症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-010&card_id=PV-010&version=bca9cf39db)　（版 `bca9cf39db`）
 
@@ -172,7 +172,7 @@
 
 - 条件：region: 米国／guideline: AHA/ACC ほか 2026 急性肺血栓塞栓症 GL
 - 不確実性：本文 PDF（第三者サイト掲載）の抽出テキストで確認。COR/LOE は抽出テキストどおり。米国のガイドラインで、日本の JCS/JPCPHS 2025 ガイドライン（DOI 10.1253/circj.CJ-25-1144）とは照合していない。ESC の2019年ガイドラインの後継版の有無は確認していない。要点から読み取り。COR/LOE は未確認。
-- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 UNKNOWN）
+- 出典：Creager MA, Barnes GD, Giri J, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026;153:e977-e1051　[DOI 10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-B-②（慢性肺血栓塞栓症、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)；TBL-01-00-226 (id: JlvnlzQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-015&card_id=PV-015&version=10f80545d7)　（版 `10f80545d7`）
 

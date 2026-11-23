@@ -121,7 +121,7 @@
     url: https://plaza.umin.ac.jp/neuro-g/history.html
     source_license: 学会ウェブサイト（利用規約は未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 学会サイトの記載。利用規約は人間が確認する。広報で使う場合は学会事務局の確認を受ける
   curriculum:
@@ -132,6 +132,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-101 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: NG-005
   domain: NG
   subdomain: 日本神経消化器病学会
@@ -150,7 +154,7 @@
     url: https://plaza.umin.ac.jp/neuro-g/history.html
     source_license: 学会ウェブサイト（利用規約は未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 学会サイトのメニュー表記にもとづく。制度の要件は認定医制度のページで確認する
   curriculum:
@@ -161,6 +165,10 @@
     verifier: null
     verified_at: null
     status: draft
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-101 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: NG-006
   domain: NG
   subdomain: DGBIの疫学

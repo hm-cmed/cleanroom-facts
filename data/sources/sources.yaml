@@ -122,17 +122,23 @@
   legacy_id: SRC-09
   title: Birk M, ESGE異物GL
   citation: Endoscopy 2016;48:489-496, PMID 26862844
-  doi: null
+  doi: 10.1055/s-0042-100456
   pmid: '26862844'
   pmcid: null
-  license_note: 未確認
+  license_note: © Georg Thieme Verlag KG Stuttgart · New York（根拠：https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0042-100456、2026-11-23 確認）
   legacy_basis_tag: E
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-12'
     by: claude-code
     change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-09 から（IDを3桁に正規化、basis_tag E を CLAUDE.md 2-3 第1回規則で変換）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© Georg Thieme Verlag KG Stuttgart · New York）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子を補完：doi 10.1055/s-0042-100456。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-010
   legacy_id: SRC-10
   title: Gyawali CP, Lyon 2.0
@@ -1642,11 +1648,15 @@
   pmcid: null
   url: https://plaza.umin.ac.jp/neuro-g/history.html
   source_license: 学会ウェブサイト（利用規約は未確認）
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-18'
     by: claude-code
     change: GitHub 版（2026-10-18 整理）の出典マスターから統合
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（CC表示なし（学会ウェブサイト））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  license_note: CC表示なし（学会ウェブサイト）（根拠：http://plaza.umin.ac.jp/neuro-g/riji.html、2026-11-23 確認）
 - id: SRC-102
   source: Sperber AD, et al. Worldwide Prevalence and Burden of Functional Gastrointestinal Disorders, Results of Rome Foundation Global Study. Gastroenterology 2021;160:99-114
   doi: 10.1053/j.gastro.2020.04.014
@@ -1815,6 +1825,10 @@
   - date: '2026-10-18'
     by: claude-code
     change: GitHub 版（2026-10-18 整理）の出典マスターから統合
+  - date: '2026-11-23'
+    by: claude-code
+    change: license_note を更新。添付文書（製薬会社の作成）は CLAUDE.md §2-2 の決まりにより source_class を UNKNOWN のまま据え置く（作り手の判定は RESTRICTED）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  license_note: CC表示なし（ゼリア新薬工業の添付文書）（根拠：https://www.pmda.go.jp/PmdaSearch/iyakuDetail/380077_2399015F1020_1_09、2026-11-23 確認）
 - id: SRC-116
   source: イリボー錠2.5μg・5μg（ラモセトロン塩酸塩）添付文書 2021年3月改訂（第2版）、アステラス製薬
   doi: null
@@ -1827,6 +1841,10 @@
   - date: '2026-10-18'
     by: claude-code
     change: GitHub 版（2026-10-18 整理）の出典マスターから統合
+  - date: '2026-11-23'
+    by: claude-code
+    change: license_note を更新。添付文書（製薬会社の作成）は CLAUDE.md §2-2 の決まりにより source_class を UNKNOWN のまま据え置く（作り手の判定は RESTRICTED）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  license_note: CC表示なし（アステラス製薬の添付文書）（根拠：https://www.pmda.go.jp/PmdaSearch/iyakuDetail/800126_2399014F1026_1_15、2026-11-23 確認）
 - id: SRC-117
   source: リンゼス錠0.25mg（リナクロチド）添付文書 2026年8月改訂（第3版）、アステラス製薬
   doi: null
@@ -3574,17 +3592,23 @@
   legacy_id: null
   title: Van Camp G, Pasquet A, Sinnaeve P, et al. Summary 2015 ESC guidelines（心膜疾患ほか）. Acta Cardiol 2016;71:7-13
   citation: Van Camp G, Pasquet A, Sinnaeve P, et al. Summary 2015 ESC guidelines（心膜疾患ほか）. Acta Cardiol 2016;71:7-13
-  doi: 10.2143/AC.71.1.3132092
+  doi: 10.1080/AC.71.1.3132092
   pmid: null
   pmcid: null
-  license_note: 未確認
+  license_note: CC表示なし（Taylor & Francis）（根拠：https://api.crossref.org/works/10.1080/AC.71.1.3132092、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/09_cv_b.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（CC表示なし（Taylor & Francis））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: DOI を 10.2143/AC.71.1.3132092（Crossref にレコードなし）から 10.1080/AC.71.1.3132092（Crossref の正規レコード、題名・著者一致）に訂正。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-253
   legacy_id: null
   title: Templin C, Ghadri JR, Diekmann J, et al. Clinical Features and Outcomes of Takotsubo (Stress) Cardiomyopathy. N Engl J Med 2015;373:929-938
@@ -3898,14 +3922,17 @@
   doi: 10.1253/circj.CJ-22-0794
   pmid: '37661428'
   pmcid: null
-  license_note: 未確認（J-STAGE の本文ページに表示なし。同誌の他の記事は CC BY-NC-ND 4.0・© 日本循環器学会）
+  license_note: All rights are reserved to the Japanese Circulation Society（© 日本循環器学会、CC表示なし）（根拠：https://www.jstage.jst.go.jp/article/circj/87/10/87_CJ-22-0794/_article、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（All rights are reserved to the Japanese Circulation Society（© 日本循環器学会、CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-291
   legacy_id: null
   title: Ohya Y, Sakima A, Arima H, et al. Key highlights of the Japanese Society of Hypertension Guidelines for the management of elevated blood pressure and hypertension 2025 (JSH2025). Hypertens Res 2025 (Epub 2025 Aug 29)
@@ -4812,15 +4839,21 @@
   citation: 'Raghu G, Remy-Jardin M, Richeldi L, et al. Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline. Am J Respir Crit Care Med 2022;205:e18-e47'
   doi: 10.1164/rccm.202202-0399ST
   pmid: '35486072'
-  pmcid: null
-  license_note: 未確認
+  pmcid: PMC9851481
+  license_note: CC BY-NC-ND 4.0（Crossref・刊行版）／© 2022 American Thoracic Society（PMC刊行版）（根拠：https://api.crossref.org/works/10.1164/rccm.202202-0399ST、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（CC BY-NC-ND 4.0（Crossref・刊行版）／© 2022 American Thoracic Society（PMC刊行版））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子を補完：pmcid PMC9851481。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-411
   legacy_id: null
   title: 'Ryerson CJ, Adegunsoye A, Piciucchi S, et al. Update of the International Multidisciplinary Classification of the Interstitial Pneumonias: An ERS/ATS Statement. Eur Respir J 2025;2500158'
@@ -5215,17 +5248,23 @@
   legacy_id: null
   title: 'McCormack FX, et al. Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management. Am J Respir Crit Care Med 2016（9月15日号）'
   citation: 'McCormack FX, et al. Official American Thoracic Society/Japanese Respiratory Society Clinical Practice Guidelines: Lymphangioleiomyomatosis Diagnosis and Management. Am J Respir Crit Care Med 2016（9月15日号）'
-  doi: null
-  pmid: null
-  pmcid: null
-  license_note: 未確認
+  doi: 10.1164/rccm.201607-1384ST
+  pmid: '27628078'
+  pmcid: PMC5803656
+  license_note: Copyright © 2016 by the American Thoracic Society（根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC5803656/、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（Copyright © 2016 by the American Thoracic Society）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子を補完：doi 10.1164/rccm.201607-1384ST、pmid 27628078、pmcid PMC5803656。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-437
   legacy_id: null
   title: Tazawa R, Ueda T, Abe M, et al. Inhaled GM-CSF for Pulmonary Alveolar Proteinosis. N Engl J Med 2019;381:923-932
@@ -5278,14 +5317,17 @@
   doi: 10.1161/CIR.0000000000001415
   pmid: null
   pmcid: null
-  license_note: 未確認
+  license_note: © American Heart Association（CC表示なし）（根拠：https://www.ahajournals.org/doi/10.1161/CIR.0000000000001415、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© American Heart Association（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-441
   legacy_id: null
   title: Meyer G, Vicaut E, Danays T, et al（PEITHO Investigators）. Fibrinolysis for patients with intermediate-risk pulmonary embolism. N Engl J Med 2014;370
@@ -5534,16 +5576,22 @@
   title: Pfannschmidt J, Egerer G, Bischof M, Thomas M, Dienemann H. Surgical Intervention for Pulmonary Metastases. Dtsch Arztebl Int 2012;109(40):645-651
   citation: Pfannschmidt J, Egerer G, Bischof M, Thomas M, Dienemann H. Surgical Intervention for Pulmonary Metastases. Dtsch Arztebl Int 2012;109(40):645-651
   doi: 10.3238/arztebl.2012.0645
-  pmid: null
-  pmcid: null
-  license_note: 表示なし
+  pmid: '23094000'
+  pmcid: PMC3476611
+  license_note: © Deutscher Ärzte-Verlag（CC表示なし）（根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC3476611/、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/13_rs_c.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© Deutscher Ärzte-Verlag（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子を補完：pmid 23094000、pmcid PMC3476611。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-478
   legacy_id: null
   title: 'Tavare AN, Cash C. The Clinical Picture: A 78-year-old smoker with an incidental pulmonary mass. Cleve Clin J Med 2014;81(8):477-478'
@@ -7147,14 +7195,17 @@
   doi: 10.1681/ASN.2012020148
   pmid: '23349312'
   pmcid: null
-  license_note: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
+  license_note: © American Society of Nephrology（CC表示なし）（根拠：https://api.crossref.org/works/10.1681/ASN.2012020148、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© American Society of Nephrology（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-603
   legacy_id: null
   title: 'Wanner C, Oliveira JP, Ortiz A, Mauer M, Germain DP, Linthorst GE, et al. Prognostic indicators of renal disease progression in adults with Fabry disease: natural history data from the Fabry Registry. Clin J Am Soc Nephrol. 2010;5(12):2220-2228'
@@ -10159,14 +10210,17 @@
   doi: 10.1016/j.ajog.2017.05.045
   pmid: '28571724'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: © Elsevier（CC表示なし）（根拠：https://api.crossref.org/works/10.1016/j.ajog.2017.05.045、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© Elsevier（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-822
   legacy_id: null
   title: Marjoribanks J, Brown J, O'Brien PMS, Wyatt K. Selective serotonin reuptake inhibitors for premenstrual syndrome. Cochrane Database Syst Rev. 2013;(6):CD001396.
@@ -10249,14 +10303,17 @@
   doi: 10.1210/jc.2010-1692
   pmid: '21296991'
   pmcid: null
-  license_note: 未確認
+  license_note: © Endocrine Society（CC表示なし）（根拠：https://api.crossref.org/works/10.1210/jc.2010-1692、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© Endocrine Society（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-829
   legacy_id: null
   title: 'Practice Committee of the American Society for Reproductive Medicine. Diagnosis and treatment of luteal phase deficiency: a committee opinion. Fertility and Sterility. 2021;115(6):1416-1423.'
@@ -10279,14 +10336,17 @@
   doi: 10.1016/j.fertnstert.2015.03.019
   pmid: '25936238'
   pmcid: null
-  license_note: 未確認
+  license_note: Elsevier オープンアクセス・ユーザーライセンス 1.0（CCではない）（根拠：https://api.crossref.org/works/10.1016/j.fertnstert.2015.03.019、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（Elsevier オープンアクセス・ユーザーライセンス 1.0（CCではない））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-831
   legacy_id: null
   title: 'Practice Committee of the American Society for Reproductive Medicine. Role of tubal surgery in the era of assisted reproductive technology: a committee opinion. Fertility and Sterility. 2021;115(5):1143-1150.'
@@ -10503,15 +10563,21 @@
   citation: 'Harlow SD, Gass M, Hall JE, et al. Executive summary of the Stages of Reproductive Aging Workshop + 10: addressing the unfinished agenda of staging reproductive aging. Menopause. 2012;19(4):387-395.'
   doi: 10.1097/gme.0b013e31824d8f40
   pmid: '22343510'
-  pmcid: null
-  license_note: PMC 収載は著者原稿で CC ライセンスの表示なし
+  pmcid: PMC3340903
+  license_note: © The North American Menopause Society（CC表示なし）（根拠：https://api.crossref.org/works/10.1097/gme.0b013e31824d8f40、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© The North American Menopause Society（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子を補完：pmcid PMC3340903（著者原稿。区分は変えない）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-846
   legacy_id: null
   title: Santoro N, Epperson CN, Mathews SB. Menopausal Symptoms and Their Management. Endocrinology and Metabolism Clinics of North America. 2015;44(3):497-515.
@@ -12111,15 +12177,21 @@
   citation: FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res (Hoboken). 2020;72(6):744-760.
   doi: 10.1002/acr.24180
   pmid: '32391934'
-  pmcid: null
-  license_note: PMC収載は著者原稿。CC表示なし（© American College of Rheumatology）
+  pmcid: PMC10563586
+  license_note: © American College of Rheumatology（Wiley通常条件、CCではない）（根拠：https://api.crossref.org/works/10.1002/acr.24180、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© American College of Rheumatology（Wiley通常条件、CCではない））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子を補完：pmcid PMC10563586（著者原稿。区分は変えない）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-993
   legacy_id: null
   title: 'Balwani M, Desnick RJ. The porphyrias: advances in diagnosis and treatment. Blood. 2012;120(23):4496-4504.'
@@ -13084,14 +13156,17 @@
   doi: 10.1111/bcp.15490
   pmid: '35974692'
   pmcid: null
-  license_note: Wiley（CCライセンス表示を確認できず）
+  license_note: Wiley通常条件（CCではない）（根拠：https://api.crossref.org/works/10.1111/bcp.15490、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（Wiley通常条件（CCではない））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1082
   legacy_id: null
   title: 'Sokumbi O, Wetter DA. Clinical features, diagnosis, and treatment of erythema multiforme: a review for the practicing dermatologist. International Journal of Dermatology. 2012;51(8):889-902.'
@@ -13357,14 +13432,17 @@
   doi: 10.1542/peds.2018-3475
   pmid: '30584062'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: © American Academy of Pediatrics（CC表示なし）（根拠：https://api.crossref.org/works/10.1542/peds.2018-3475、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© American Academy of Pediatrics（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1103
   legacy_id: null
   title: 'Behravesh S, Yakes W, Gupta N, et al. Venous malformations: clinical diagnosis and treatment. Cardiovasc Diagn Ther. 2016;6(6):557-569'
@@ -13432,14 +13510,17 @@
   doi: null
   pmid: '12613727'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: Copyright© 2003 American Academy of Family Physicians.（根拠：https://www.aafp.org/pubs/afp/issues/2003/0215/p729.html、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（Copyright© 2003 American Academy of Family Physicians.）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1108
   legacy_id: null
   title: 'Gauglitz GG, Korting HC, Pavicic T, et al. Hypertrophic scarring and keloids: pathomechanisms and current and emerging treatment strategies. Mol Med. 2011;17(1-2):113-125'
@@ -14082,15 +14163,21 @@
   citation: 'Murrell DF, Peña S, Joly P, Marinovic B, Hashimoto T, Diaz LA, et al. Diagnosis and management of pemphigus: Recommendations of an international panel of experts. Journal of the American Academy of Dermatology. 2020;82(3):575-585.e1.'
   doi: 10.1016/j.jaad.2018.02.021
   pmid: '29438767'
-  pmcid: null
-  license_note: ライセンス表示を確認できず
+  pmcid: PMC7313440
+  license_note: © American Academy of Dermatology（CC表示なし）（根拠：https://api.crossref.org/works/10.1016/j.jaad.2018.02.021、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© American Academy of Dermatology（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子を補完：pmcid PMC7313440（著者原稿。区分は変えない）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1164
   legacy_id: null
   title: Ujiie H, Iwata H, Yamagami J, Nakama T, Aoyama Y, Ikeda S, et al. Japanese guidelines for the management of pemphigoid (including epidermolysis bullosa acquisita). The Journal of Dermatology. 2019;46(12):1102-1135.
@@ -14158,14 +14245,17 @@
   doi: 10.1001/jama.2020.4006
   pmid: '32427307'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: © American Medical Association（CC表示なし）（根拠：https://api.crossref.org/works/10.1001/jama.2020.4006、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© American Medical Association（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1169
   legacy_id: null
   title: Weston G, Payette M. Update on lichen planus and its clinical variants. International Journal of Women's Dermatology. 2015;1(3):140-149.
@@ -14323,14 +14413,17 @@
   doi: 10.1093/cid/ciu296
   pmid: '24947530'
   pmcid: null
-  license_note: © The Author 2014, Oxford University Press（CC表示なし）
+  license_note: © The Author 2014, Oxford University Press（CC表示なし）（根拠：https://api.crossref.org/works/10.1093/cid/ciu296、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© The Author 2014, Oxford University Press（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1181
   legacy_id: null
   title: 'Raff AB, Kroshinsky D. Cellulitis: A Review. JAMA. 2016;316(3):325-337.'
@@ -14398,14 +14491,17 @@
   doi: 10.1111/jdv.12541
   pmid: '24841497'
   pmcid: null
-  license_note: © European Academy of Dermatology and Venereology（CC表示なし）
+  license_note: © European Academy of Dermatology and Venereology（Wiley通常条件）（根拠：https://api.crossref.org/works/10.1111/jdv.12541、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© European Academy of Dermatology and Venereology（Wiley通常条件））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1186
   legacy_id: null
   title: Stevens DL, Bryant AE. Necrotizing Soft-Tissue Infections. N Engl J Med. 2017;377(23):2253-2265.
@@ -14413,29 +14509,38 @@
   doi: 10.1056/NEJMra1600673
   pmid: '29211672'
   pmcid: null
-  license_note: © Massachusetts Medical Society（CC表示なし）
+  license_note: © Massachusetts Medical Society（CC表示なし）（根拠：https://www.nejm.org/doi/full/10.1056/NEJMra1600673、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© Massachusetts Medical Society（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1187
   legacy_id: null
   title: Franco-Paredes C, Marcos LA, Henao-Martínez AF, et al. Cutaneous Mycobacterial Infections. Clin Microbiol Rev. 2019;32(1):e00069-18.
   citation: Franco-Paredes C, Marcos LA, Henao-Martínez AF, et al. Cutaneous Mycobacterial Infections. Clin Microbiol Rev. 2019;32(1):e00069-18.
   doi: 10.1128/CMR.00069-18
   pmid: '30429139'
-  pmcid: null
-  license_note: © American Society for Microbiology（CC表示なし）
+  pmcid: PMC6302357
+  license_note: Copyright © 2018 American Society for Microbiology. All Rights Reserved.（根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC6302357/、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（Copyright © 2018 American Society for Microbiology. All Rights Reserved.）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子を補完：pmcid PMC6302357。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1188
   legacy_id: null
   title: Caplan AS, Gold JAW, Smith DJ, Ely JW. Diagnosis and Management of Tinea Infections. Am Fam Physician. 2025;112(4):382-392.
@@ -14443,14 +14548,17 @@
   doi: null
   pmid: '41118183'
   pmcid: null
-  license_note: © American Academy of Family Physicians（CC表示なし）
+  license_note: © American Academy of Family Physicians（CC表示なし）（根拠：https://pubmed.ncbi.nlm.nih.gov/41118183/、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© American Academy of Family Physicians（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1189
   legacy_id: null
   title: 'Leung AKC, Barankin B, Lam JM, Leong KF, Hon KL. Tinea versicolor: an updated review. Drugs Context. 2022;11:2022-9-2.'
@@ -14491,14 +14599,17 @@
   doi: 10.1111/1346-8138.13896
   pmid: '28561292'
   pmcid: null
-  license_note: © Japanese Dermatological Association（Wiley、CC表示なし）
+  license_note: © Japanese Dermatological Association（Wiley通常条件）（根拠：https://api.crossref.org/works/10.1111/1346-8138.13896、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© Japanese Dermatological Association（Wiley通常条件））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1192
   legacy_id: null
   title: 'Fatahzadeh M, Schwartz RA. Human herpes simplex virus infections: epidemiology, pathogenesis, symptomatology, diagnosis, and management. J Am Acad Dermatol. 2007;57(5):737-763.'
@@ -14506,14 +14617,17 @@
   doi: 10.1016/j.jaad.2007.06.027
   pmid: '17939933'
   pmcid: null
-  license_note: © American Academy of Dermatology（Elsevier、CC表示なし）
+  license_note: © American Academy of Dermatology（CC表示なし）（根拠：https://api.crossref.org/works/10.1016/j.jaad.2007.06.027、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© American Academy of Dermatology（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1193
   legacy_id: null
   title: 'Wollenberg A, Zoch C, Wetzel S, Plewig G, et al. Predisposing factors and clinical features of eczema herpeticum: a retrospective analysis of 100 cases. J Am Acad Dermatol. 2003;49(2):198-205.'
@@ -14536,14 +14650,17 @@
   doi: 10.1111/bjd.13310
   pmid: '25273231'
   pmcid: null
-  license_note: © British Association of Dermatologists（Wiley、CC表示なし）
+  license_note: © British Association of Dermatologists（Wiley通常条件）（根拠：https://api.crossref.org/works/10.1111/bjd.13310、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© British Association of Dermatologists（Wiley通常条件））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1195
   legacy_id: null
   title: Reynolds RV, Yeung H, Cheng CE, Cook-Bolden F, et al. Guidelines of care for the management of acne vulgaris. J Am Acad Dermatol. 2024;90(5):1006.e1-1006.e30.
@@ -14832,15 +14949,21 @@
   citation: 'Schiefer U, Kraus C, Baumbach P, Ungewiß J, Michels R. Refractive errors: Epidemiology, Effects and Treatment Options. Dtsch Arztebl Int. 2016;113(41):693-702'
   doi: 10.3238/arztebl.2016.0693
   pmid: '27839543'
-  pmcid: null
-  license_note: © Deutscher Ärzte-Verlag（PMC 収載版で CC 表示を確認できず）
+  pmcid: PMC5143802
+  license_note: © Deutscher Ärzte-Verlag（CC表示なし）（根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC5143802/、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© Deutscher Ärzte-Verlag（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子を補完：pmcid PMC5143802。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1253
   legacy_id: null
   title: 'Loporchio D, Mukkamala L, Gorukanti K, Zarbin MA, Langer P, Bhagat N. Intraocular foreign bodies: A review. Surv Ophthalmol. 2016;61(5):582-596'
@@ -14863,14 +14986,17 @@
   doi: null
   pmid: '26176369'
   pmcid: null
-  license_note: © American Academy of Family Physicians
+  license_note: Copyright © 2015 American Academy of Family Physicians.（根拠：https://www.aafp.org/pubs/afp/issues/2015/0715/p106.html、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（Copyright © 2015 American Academy of Family Physicians.）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1255
   legacy_id: null
   title: 'Carter SR. Eyelid disorders: diagnosis and management. Am Fam Physician. 1998;57(11):2695-2702'
@@ -14878,14 +15004,17 @@
   doi: null
   pmid: '9636333'
   pmcid: null
-  license_note: © American Academy of Family Physicians
+  license_note: © American Academy of Family Physicians（CC表示なし）（根拠：https://pubmed.ncbi.nlm.nih.gov/9636333/、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© American Academy of Family Physicians（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1256
   legacy_id: null
   title: Varu DM, Rhee MK, Akpek EK, Amescua G, Farid M, Garcia-Ferrer FJ, Lin A, Musch DC, Mah FS, Dunn SP; American Academy of Ophthalmology Cornea/External Disease Panel. Conjunctivitis Preferred Practice Pattern®. Ophthalmology. 2019;126(1):P94-P169
@@ -14893,29 +15022,38 @@
   doi: 10.1016/j.ophtha.2018.10.020
   pmid: '30366797'
   pmcid: null
-  license_note: © American Academy of Ophthalmology / Elsevier
+  license_note: © American Academy of Ophthalmology / Elsevier（根拠：https://api.crossref.org/works/10.1016/j.ophtha.2018.10.020、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© American Academy of Ophthalmology / Elsevier）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1257
   legacy_id: null
   title: Austin A, Lietman T, Rose-Nussbaumer J. Update on the Management of Infectious Keratitis. Ophthalmology. 2017;124(11):1678-1689
   citation: Austin A, Lietman T, Rose-Nussbaumer J. Update on the Management of Infectious Keratitis. Ophthalmology. 2017;124(11):1678-1689
   doi: 10.1016/j.ophtha.2017.05.012
   pmid: '28942073'
-  pmcid: null
-  license_note: © Elsevier / American Academy of Ophthalmology（著者原稿が PMC 収載）
+  pmcid: PMC5710829
+  license_note: © Elsevier / American Academy of Ophthalmology（CC表示なし）（根拠：https://api.crossref.org/works/10.1016/j.ophtha.2017.05.012、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© Elsevier / American Academy of Ophthalmology（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子を補完：pmcid PMC5710829（著者原稿。区分は変えない）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1258
   legacy_id: null
   title: 'Pinar-Sueiro S, Sota M, Lerchundi TX, Gibelalde A, Berasategui B, Vilar B, Hernandez JL. Dacryocystitis: Systematic Approach to Diagnosis and Therapy. Curr Infect Dis Rep. 2012;14(2):137-146'
@@ -14923,14 +15061,17 @@
   doi: 10.1007/s11908-012-0238-8
   pmid: '22286338'
   pmcid: null
-  license_note: © Springer Science+Business Media, LLC 2012
+  license_note: © Springer Science+Business Media, LLC 2012（根拠：https://api.crossref.org/works/10.1007/s11908-012-0238-8、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© Springer Science+Business Media, LLC 2012）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1259
   legacy_id: null
   title: Craig JP, Nichols KK, Akpek EK, Caffery B, Dua HS, Joo CK, Liu Z, Nelson JD, Nichols JJ, Tsubota K, Stapleton F. TFOS DEWS II Definition and Classification Report. Ocul Surf. 2017;15(3):276-283
@@ -15016,14 +15157,17 @@
   doi: 10.1016/S0140-6736(12)60437-1
   pmid: '22559901'
   pmcid: null
-  license_note: © Elsevier (The Lancet)
+  license_note: © Elsevier (The Lancet)（CC表示なし）（根拠：https://api.crossref.org/works/10.1016/S0140-6736(12)60437-1、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© Elsevier (The Lancet)（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1265
   legacy_id: null
   title: Lam D, Rao SK, Ratra V, Liu Y, Mitchell P, King J, Tassignon MJ, Jonas J, Pang CP, Chang DF. Cataract. Nat Rev Dis Primers. 2015;1:15014
@@ -15031,14 +15175,17 @@
   doi: 10.1038/nrdp.2015.14
   pmid: '27188414'
   pmcid: null
-  license_note: © Nature Portfolio (Springer Nature)
+  license_note: © Nature Portfolio (Springer Nature)（CC表示なし）（根拠：https://api.crossref.org/works/10.1038/nrdp.2015.14、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© Nature Portfolio (Springer Nature)（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1266
   legacy_id: null
   title: Kiuchi Y, Inoue T, Shoji N, Nakamura M, Tanito M; Glaucoma Guideline Preparation Committee, Japan Glaucoma Society. The Japan Glaucoma Society guidelines for glaucoma 5th edition. Jpn J Ophthalmol. 2023;67(2):189-254.
@@ -15176,19 +15323,25 @@
     change: 取り込み：raw/25_ds_c.md の出典マスター表から
 - id: SRC-1276
   legacy_id: null
-  title: 'Xie JS, Donaldson L, Margolin E. Papilledema: A review of etiology, pathophysiology, diagnosis, and management. Surv Ophthalmol. 2022;67(4).'
-  citation: 'Xie JS, Donaldson L, Margolin E. Papilledema: A review of etiology, pathophysiology, diagnosis, and management. Surv Ophthalmol. 2022;67(4).'
+  title: 'Xie JS, Donaldson L, Margolin E. Papilledema: A review of etiology, pathophysiology, diagnosis, and management. Surv Ophthalmol. 2022;67(4):1135-1159.'
+  citation: 'Xie JS, Donaldson L, Margolin E. Papilledema: A review of etiology, pathophysiology, diagnosis, and management. Surv Ophthalmol. 2022;67(4):1135-1159.'
   doi: 10.1016/j.survophthal.2021.11.007
   pmid: '34813854'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: © Elsevier（CC表示なし）（根拠：https://api.crossref.org/works/10.1016/j.survophthal.2021.11.007、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© Elsevier（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: ページ 1135-1159 を補完。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1277
   legacy_id: null
   title: 'Kanagalingam S, Miller NR. Horner syndrome: clinical perspectives. Eye Brain. 2015;7.'
@@ -15364,14 +15517,17 @@
   doi: null
   pmid: '15086041'
   pmcid: null
-  license_note: © 2004 American Academy of Family Physicians（CC表示なし）
+  license_note: Copyright© 2004 American Academy of Family Physicians.（根拠：https://www.aafp.org/pubs/afp/issues/2004/0401/p1691.html、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（Copyright© 2004 American Academy of Family Physicians.）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1289
   legacy_id: null
   title: Schwartz SG, Flynn HW Jr, Mieler WF. Update on retinal detachment surgery. Curr Opin Ophthalmol. 2013;24(3):255-261.
@@ -15469,14 +15625,17 @@
   doi: 10.1542/peds.2018-3061
   pmid: '30478242'
   pmcid: null
-  license_note: © 2018 American Academy of Pediatrics（CC表示なし）
+  license_note: © 2018 American Academy of Pediatrics（CC表示なし）（根拠：https://api.crossref.org/works/10.1542/peds.2018-3061、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© 2018 American Academy of Pediatrics（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1296
   legacy_id: null
   title: Hamel C. Retinitis pigmentosa. Orphanet J Rare Dis. 2006;1:40.
@@ -15877,14 +16036,17 @@
   doi: 10.1177/0194599815623467
   pmid: '26832942'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: Wiley通常条件（CCではない）（根拠：https://api.crossref.org/works/10.1177/0194599815623467、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（Wiley通常条件（CCではない））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1350
   legacy_id: null
   title: 'Acuin J. Chronic suppurative otitis media: burden of illness and management options. Geneva: World Health Organization; 2004. ISBN 92-4-159158-7.'
@@ -15892,14 +16054,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: © World Health Organization 2004（All rights reserved、CC表示なし）
+  license_note: © World Health Organization 2004. All rights reserved.（根拠：https://iris.who.int/handle/10665/42941、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© World Health Organization 2004. All rights reserved.）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1351
   legacy_id: null
   title: 'Schilder AGM, Bhutta MF, Butler CC, Holy C, Levine LH, Kvaerner KJ, et al. Eustachian tube dysfunction: consensus statement on definition, types, clinical presentation and diagnosis. Clinical Otolaryngology. 2015;40(5):407-411.'
@@ -15970,29 +16135,38 @@
   doi: 10.1177/0194599819859885
   pmid: '31369359'
   pmcid: null
-  license_note: ライセンス表示を確認できず
+  license_note: Wiley通常条件（CCではない）（根拠：https://api.crossref.org/works/10.1177/0194599819859885、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（Wiley通常条件（CCではない））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1356
   legacy_id: null
   title: Korver AMH, Smith RJH, Van Camp G, Schleiss MR, Bitner-Glindzicz MAK, Lustig LR, Usami SI, Boudewyns AN. Congenital hearing loss. Nat Rev Dis Primers. 2017;3:16094.
   citation: Korver AMH, Smith RJH, Van Camp G, Schleiss MR, Bitner-Glindzicz MAK, Lustig LR, Usami SI, Boudewyns AN. Congenital hearing loss. Nat Rev Dis Primers. 2017;3:16094.
   doi: 10.1038/nrdp.2016.94
   pmid: '28079113'
-  pmcid: null
-  license_note: © Springer Nature（CC表示なし）
+  pmcid: PMC5675031
+  license_note: © Springer Nature（CC表示なし）（根拠：https://api.crossref.org/works/10.1038/nrdp.2016.94、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© Springer Nature（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子を補完：pmcid PMC5675031（著者原稿。区分は変えない）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1357
   legacy_id: null
   title: 'Sarna B, Abouzari M, Merna C, Jamshidi S, Saber T, Djalilian HR. Perilymphatic Fistula: A Review of Classification, Etiology, Diagnosis, and Treatment. Front Neurol. 2020;11:1046.'
@@ -16089,15 +16263,21 @@
   citation: 'Zhang LL, Wang JQ, Qi RR, Pan LL, Li M, Cai YL. Motion Sickness: Current Knowledge and Recent Advance. CNS Neurosci Ther. 2016;22(1):15-24.'
   doi: 10.1111/cns.12468
   pmid: '26452639'
-  pmcid: null
-  license_note: © John Wiley & Sons（CC表示は Crossref・PMC で確認できず）
+  pmcid: PMC6492910
+  license_note: © 2015 John Wiley & Sons Ltd（CC表示なし）（根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC6492910/、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© 2015 John Wiley & Sons Ltd（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子を補完：pmcid PMC6492910。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1364
   legacy_id: null
   title: 'Baugh RF, Archer SM, Mitchell RB, Rosenfeld RM, Amin R, Burns JJ, Darrow DH, Giordano T, Litman RS, Li KK, Mannix ME, Schwartz RH, Setzen G, Wald ER, Wall E, Sandler G, Patel MM. Clinical practice guideline: Bell''s palsy. Otolaryngol Head Neck Surg. 2013;149(3 Suppl):S1-S27.'
@@ -16153,14 +16333,17 @@
   doi: 10.1007/s10143-023-02145-7
   pmid: '37707587'
   pmcid: null
-  license_note: © Springer Nature（exclusive licence、CC表示なし）
+  license_note: © Springer Nature（exclusive licence、CC表示なし）（根拠：https://api.crossref.org/works/10.1007/s10143-023-02145-7、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© Springer Nature（exclusive licence、CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1368
   legacy_id: null
   title: Lassaletta L, Acle Cervera L, Altuna X, Amilibia Cabeza E, Arístegui Ruiz M, Batuecas Caletrio Á, Benítez Del Rosario J, Cabanillas Farpón R, Costales Marcos M, Escada P, Espinosa-Sánchez JM, García Leal R, Gavilán J, Gómez Martínez J, González-Aguado R, Martinez-Glez V, Guerra Jiménez G, Harguindey Antolí-Candela A, Hernández García BJ, Orús Dotú C, Polo López R, Manrique M, Martín Sanz E, Martínez Álvarez R, Martínez H, Martínez-Martínez M, Rey-Martinez J, Ropero Romero F, Santa Cruz Ruiz S, Vallejo LA, Soto Varela A, Varela-Nieto I, Morales Puebla JM. Clinical practice guideline on the management of vestibular schwannoma. Acta Otorrinolaringol Esp (Engl Ed). 2024;75(2):108-128.
@@ -16530,15 +16713,21 @@
   citation: Akintoye SO, Greenberg MS. Recurrent aphthous stomatitis. Dent Clin North Am. 2014;58(2):281-297.
   doi: 10.1016/j.cden.2013.12.002
   pmid: '24655523'
-  pmcid: null
-  license_note: ライセンス未確認
+  pmcid: PMC3964366
+  license_note: © 2013 Elsevier Inc. All rights reserved.（根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC3964366/、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© 2013 Elsevier Inc. All rights reserved.）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子を補完：pmcid PMC3964366（著者原稿。区分は変えない）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1433
   legacy_id: null
   title: Huang CW, Hsieh CH, Lin MR, Huang YC. Clinical features of gingivostomatitis due to primary infection of herpes simplex virus in children. BMC Infect Dis. 2020;20(1):782.
@@ -16591,14 +16780,17 @@
   doi: 10.3322/canjclin.52.4.195
   pmid: '12139232'
   pmcid: null
-  license_note: ライセンス未確認
+  license_note: © American Cancer Society（CC表示なし）（根拠：https://api.crossref.org/works/10.3322/canjclin.52.4.195、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© American Cancer Society（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-1437
   legacy_id: null
   title: Schiffman E, Ohrbach R, Truelove E, et al. Diagnostic Criteria for Temporomandibular Disorders (DC/TMD) for Clinical and Research Applications. J Oral Facial Pain Headache. 2014;28(1):6-27.
@@ -31717,14 +31909,17 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: null
+  license_note: © NICE 2025. All rights reserved. Subject to Notice of rights（CC表示なし）（根拠：https://www.nice.org.uk/guidance/ng69、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/52_ps_b.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© NICE 2025. All rights reserved. Subject to Notice of rights（CC表示なし））。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-3741
   legacy_id: null
   title: Arcelus J, Mitchell AJ, Wales J, Nielsen S. Mortality rates in patients with anorexia nervosa and other eating disorders. A meta-analysis of 36 studies. Arch Gen Psychiatry. 2011;68(7):724-731.
@@ -38540,19 +38735,28 @@
     change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード UG-001・UG-002・UG-003・UG-005・UG-014 の記載をそのまま写した（新たな判定はしていない）
 - id: SRC-5227
   legacy_id: null
-  title: ESGE 2026（PubMed抄録 PMID 42127996）
-  citation: ESGE 2026（PubMed抄録 PMID 42127996）
+  title: 'Gralnek IM, et al. Endoscopic diagnosis and management of peptic ulcer bleeding: European Society of Gastrointestinal Endoscopy (ESGE) Guideline – Update 2026. Endoscopy. 2026;58(8):899-924'
+  citation: 'Gralnek IM, et al. Endoscopic diagnosis and management of peptic ulcer bleeding: European Society of Gastrointestinal Endoscopy (ESGE) Guideline – Update 2026. Endoscopy. 2026;58(8):899-924'
   doi: 10.1055/a-2863-8314
-  pmid: null
+  pmid: '42127996'
   pmcid: null
-  license_note: 未確認
+  license_note: © 2026. European Society of Gastrointestinal Endoscopy. All rights reserved.（根拠：https://www.thieme-connect.de/products/ejournals/abstract/10.1055/a-2863-8314、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-11-23'
     by: claude-code
     change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード UG-010・UG-015・UG-017・UG-018 の記載をそのまま写した（新たな判定はしていない）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© 2026. European Society of Gastrointestinal Endoscopy. All rights reserved.）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子を補完：pmid 42127996。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 仮置きの書誌（ESGE 2026（PubMed抄録 PMID 42127996））を正規の書誌に置き換え。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: SRC-5229
   legacy_id: null
   title: ESGE 2015

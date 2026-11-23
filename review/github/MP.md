@@ -279,9 +279,9 @@
 - 条件：guideline: ESC 2015 心膜疾患ガイドライン（Acta Cardiol 2016 の要約）／region: 欧州
 - 鑑別・補足：急性心筋梗塞（ST 上昇の分布や PR 低下の有無で見分ける）
 - 不確実性：ESC 2015 ガイドラインの本文ではなく要約論文で確認した（二次資料経由）。2025年に ESC の心筋炎・心膜炎ガイドラインが公表されている
-- 出典：Van Camp G, Pasquet A, Sinnaeve P, et al. Summary 2015 ESC guidelines（心膜疾患ほか）. Acta Cardiol 2016;71:7-13　[DOI 10.2143/AC.71.1.3132092](https://doi.org/10.2143/AC.71.1.3132092)（区分 UNKNOWN）
+- 出典：Van Camp G, Pasquet A, Sinnaeve P, et al. Summary 2015 ESC guidelines（心膜疾患ほか）. Acta Cardiol 2016;71:7-13　[DOI 10.1080/AC.71.1.3132092](https://doi.org/10.1080/AC.71.1.3132092)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-6-D-①（急性心膜炎、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-182 (id: Jlvnluk)；TBL-02-05-021 (id: JlAKpfI)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-023&card_id=MP-023&version=a6b17c81d8)　（版 `a6b17c81d8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-023&card_id=MP-023&version=dab520def0)　（版 `dab520def0`）
 
 ### MP-024　下書き（出典の照合前）
 
@@ -290,11 +290,11 @@
 - 条件：guideline: ESC 2015 心膜疾患ガイドライン（Acta Cardiol 2016 の要約）／region: 欧州
 - よくある誤解：急性心膜炎の第一選択はステロイドである
 - 不確実性：ESC 2015 ガイドラインの要約論文で確認した（二次資料経由）。国内でのコルヒチンの心膜炎への保険適用は確認していない
-- 出典：Van Camp G, Pasquet A, Sinnaeve P, et al. Summary 2015 ESC guidelines（心膜疾患ほか）. Acta Cardiol 2016;71:7-13　[DOI 10.2143/AC.71.1.3132092](https://doi.org/10.2143/AC.71.1.3132092)（区分 UNKNOWN）
+- 出典：Van Camp G, Pasquet A, Sinnaeve P, et al. Summary 2015 ESC guidelines（心膜疾患ほか）. Acta Cardiol 2016;71:7-13　[DOI 10.1080/AC.71.1.3132092](https://doi.org/10.1080/AC.71.1.3132092)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-6-D-①（急性心膜炎、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-182 (id: Jlvnluk)；PS-02-06-04 (id: JkxnuQs)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-024&card_id=MP-024&version=e830f44520)　（版 `e830f44520`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-024&card_id=MP-024&version=1e0089bc0f)　（版 `1e0089bc0f`）
 
-**[ここまでの 2 件（MP-023〜MP-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-023%E3%80%9CMP-024&cards=MP-023%20a6b17c81d8%0AMP-024%20e830f44520)**
+**[ここまでの 2 件（MP-023〜MP-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-023%E3%80%9CMP-024&cards=MP-023%20dab520def0%0AMP-024%201e0089bc0f)**
 
 ---
 
@@ -306,9 +306,9 @@
 
 - 条件：guideline: ESC 2015 心膜疾患ガイドライン（Acta Cardiol 2016 の要約）／region: 欧州
 - 不確実性：ESC 2015 ガイドラインの要約論文で確認した（二次資料経由）。奇脈などの身体所見の記載は要約になく未確認
-- 出典：Van Camp G, Pasquet A, Sinnaeve P, et al. Summary 2015 ESC guidelines（心膜疾患ほか）. Acta Cardiol 2016;71:7-13　[DOI 10.2143/AC.71.1.3132092](https://doi.org/10.2143/AC.71.1.3132092)（区分 UNKNOWN）
+- 出典：Van Camp G, Pasquet A, Sinnaeve P, et al. Summary 2015 ESC guidelines（心膜疾患ほか）. Acta Cardiol 2016;71:7-13　[DOI 10.1080/AC.71.1.3132092](https://doi.org/10.1080/AC.71.1.3132092)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-6-E（心タンポナーデ、a）；医学各論 Ⅴ-6-D-②（心囊液貯留、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-184 (id: Jlvnluw)；TBL-02-05-027 (id: JlAKpf4)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-025&card_id=MP-025&version=834c3d6cd9)　（版 `834c3d6cd9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-025&card_id=MP-025&version=6fbc66e4a4)　（版 `6fbc66e4a4`）
 
 ### MP-044　下書き（出典の照合前）
 
@@ -320,7 +320,7 @@
 - 出題基準：医学各論 Ⅴ-6-E（心タンポナーデ、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-184 (id: Jlvnluw)；TBL-02-05-027 (id: JlAKpf4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-044&card_id=MP-044&version=7f0b429f92)　（版 `7f0b429f92`）
 
-**[ここまでの 2 件（MP-025〜MP-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-025%E3%80%9CMP-044&cards=MP-025%20834c3d6cd9%0AMP-044%207f0b429f92)**
+**[ここまでの 2 件（MP-025〜MP-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-025%E3%80%9CMP-044&cards=MP-025%206fbc66e4a4%0AMP-044%207f0b429f92)**
 
 ---
 
@@ -333,11 +333,11 @@
 - 条件：guideline: ESC 2015 心膜疾患ガイドライン（Acta Cardiol 2016 の要約）／region: 欧州
 - 鑑別・補足：拘束型心筋症
 - 不確実性：ESC 2015 ガイドラインの要約論文で確認した（二次資料経由）。原因別の発症率の数値は要約になく未確認
-- 出典：Van Camp G, Pasquet A, Sinnaeve P, et al. Summary 2015 ESC guidelines（心膜疾患ほか）. Acta Cardiol 2016;71:7-13　[DOI 10.2143/AC.71.1.3132092](https://doi.org/10.2143/AC.71.1.3132092)（区分 UNKNOWN）
+- 出典：Van Camp G, Pasquet A, Sinnaeve P, et al. Summary 2015 ESC guidelines（心膜疾患ほか）. Acta Cardiol 2016;71:7-13　[DOI 10.1080/AC.71.1.3132092](https://doi.org/10.1080/AC.71.1.3132092)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-6-D-③（収縮性心膜炎、b）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-183 (id: Jlvnlus)；TBL-02-05-027 (id: JlAKpf4)；TBL-02-05-030 (id: JlAKpgE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-026&card_id=MP-026&version=d9b47918d9)　（版 `d9b47918d9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-026&card_id=MP-026&version=8b768c0ad0)　（版 `8b768c0ad0`）
 
-**[ここまでの 1 件（MP-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-026&cards=MP-026%20d9b47918d9)**
+**[ここまでの 1 件（MP-026）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20MP-026&cards=MP-026%208b768c0ad0)**
 
 ---
 

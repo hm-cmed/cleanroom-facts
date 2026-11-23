@@ -464,7 +464,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：軟部感染症としての臨床像・治療の各論は SD-033・034 の範囲とし、本カードでは扱わない。source_class は出典マスターの登録どおり UNKNOWN とした。ウェルシュ菌のα毒素と筋壊死の関係を示す一次資料は照合できていない。
-- 出典：Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):147-159.　[DOI 10.1093/cid/ciu296](https://doi.org/10.1093/cid/ciu296)　[PMID 24947530](https://pubmed.ncbi.nlm.nih.gov/24947530/)（区分 UNKNOWN）
+- 出典：Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):147-159.　[DOI 10.1093/cid/ciu296](https://doi.org/10.1093/cid/ciu296)　[PMID 24947530](https://pubmed.ncbi.nlm.nih.gov/24947530/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅻ-2-B-⑳（ガス壊疽、a）　コアカリ：PS-01-03-03 (id: JkxnuLE)；TBL-01-00-595 (id: JlvnmXw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BA-031&card_id=BA-031&version=69a0a5df80)　（版 `69a0a5df80`）
 

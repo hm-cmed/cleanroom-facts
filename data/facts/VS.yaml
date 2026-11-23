@@ -17,7 +17,7 @@
     url: https://www.jstage.jst.go.jp/article/circj/advpub/0/advpub_CJ-22-0794/_html/-char/en
     source_license: 未確認（J-STAGE の本文ページに表示なし。同誌の他の記事は CC BY-NC-ND 4.0・© 日本循環器学会）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: null
   curriculum:
@@ -33,6 +33,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-290 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: VS-002
   domain: VS
   subdomain: 胸部大動脈瘤
@@ -52,7 +55,7 @@
     url: https://www.jstage.jst.go.jp/article/circj/advpub/0/advpub_CJ-22-0794/_html/-char/en
     source_license: 未確認（J-STAGE の本文ページに表示なし。同誌の他の記事は CC BY-NC-ND 4.0・© 日本循環器学会）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: この記載には推奨クラスの付記がない。治療の章（部位別、Marfan 症候群・二尖弁、拡大速度の基準）は抽出できておらず未確認
   curriculum:
@@ -68,6 +71,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-290 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: VS-003
   domain: VS
   subdomain: 腹部大動脈瘤
@@ -87,7 +93,7 @@
     url: https://www.jstage.jst.go.jp/article/circj/advpub/0/advpub_CJ-22-0794/_html/-char/en
     source_license: 未確認（J-STAGE の本文ページに表示なし。同誌の他の記事は CC BY-NC-ND 4.0・© 日本循環器学会）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 推奨クラスの付記はない（PQ としての記載）
   curriculum:
@@ -103,6 +109,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-290 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: VS-004
   domain: VS
   subdomain: 腹部大動脈瘤
@@ -227,7 +236,7 @@
     url: https://www.jstage.jst.go.jp/article/circj/advpub/0/advpub_CJ-22-0794/_html/-char/en
     source_license: 未確認（J-STAGE の本文ページに表示なし。同誌の他の記事は CC BY-NC-ND 4.0・© 日本循環器学会）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ24 2026-11-11）：Surgical Management of Acute Type A Aortic Dissection. Reviews in Cardiovascular Medicine. 2026（CC BY 4.0、PMID 42985188、PMC13732653）の Table 1：Stanford 分類（上行大動脈の解離の有無で A 型・B 型）の定義
   uncertainty: null
   curriculum:
@@ -246,6 +255,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ24 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-290 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: VS-008
   domain: VS
   subdomain: 大動脈解離
@@ -265,7 +277,7 @@
     url: https://www.jstage.jst.go.jp/article/circj/advpub/0/advpub_CJ-22-0794/_html/-char/en
     source_license: 未確認（J-STAGE の本文ページに表示なし。同誌の他の記事は CC BY-NC-ND 4.0・© 日本循環器学会）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ24 2026-11-11）：Surgical Management of Acute Type A Aortic Dissection. Reviews in Cardiovascular Medicine. 2026（CC BY 4.0、PMID 42985188、PMC13732653）の Table 1：DeBakey 分類 I〜III 型の定義。IIIa/IIIb の細区分は対象外
   uncertainty: null
   curriculum:
@@ -284,6 +296,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ24 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-290 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: VS-009
   domain: VS
   subdomain: 大動脈解離
@@ -303,7 +318,7 @@
     url: https://www.jstage.jst.go.jp/article/circj/advpub/0/advpub_CJ-22-0794/_html/-char/en
     source_license: 未確認（J-STAGE の本文ページに表示なし。同誌の他の記事は CC BY-NC-ND 4.0・© 日本循環器学会）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: null
   curriculum:
@@ -319,6 +334,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-290 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: VS-010
   domain: VS
   subdomain: 大動脈解離
@@ -338,7 +356,7 @@
     url: https://www.jstage.jst.go.jp/article/circj/advpub/0/advpub_CJ-22-0794/_html/-char/en
     source_license: 未確認（J-STAGE の本文ページに表示なし。同誌の他の記事は CC BY-NC-ND 4.0・© 日本循環器学会）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 病院に着く前の死亡を含むかどうかで値が変わる
   curriculum:
@@ -354,6 +372,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-290 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: VS-011
   domain: VS
   subdomain: 大動脈解離
@@ -373,7 +394,7 @@
     url: https://www.jstage.jst.go.jp/article/circj/advpub/0/advpub_CJ-22-0794/_html/-char/en
     source_license: 未確認（J-STAGE の本文ページに表示なし。同誌の他の記事は CC BY-NC-ND 4.0・© 日本循環器学会）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 突然死の剖検例の値で、大動脈解離全体の死亡率ではない
   curriculum:
@@ -389,6 +410,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-290 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: VS-012
   domain: VS
   subdomain: 大動脈解離
@@ -408,7 +432,7 @@
     url: https://www.jstage.jst.go.jp/article/circj/advpub/0/advpub_CJ-22-0794/_html/-char/en
     source_license: 未確認（J-STAGE の本文ページに表示なし。同誌の他の記事は CC BY-NC-ND 4.0・© 日本循環器学会）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: null
   curriculum:
@@ -424,6 +448,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-290 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: VS-013
   domain: VS
   subdomain: 大動脈解離
@@ -443,7 +470,7 @@
     url: https://www.jstage.jst.go.jp/article/circj/advpub/0/advpub_CJ-22-0794/_html/-char/en
     source_license: 未確認（J-STAGE の本文ページに表示なし。同誌の他の記事は CC BY-NC-ND 4.0・© 日本循環器学会）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 発熱の割合は本文中で約30%と約3分の1の2通りの記載がある
   curriculum:
@@ -459,6 +486,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-290 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: VS-014
   domain: VS
   subdomain: 大動脈解離
@@ -478,7 +508,7 @@
     url: https://www.jstage.jst.go.jp/article/circj/advpub/0/advpub_CJ-22-0794/_html/-char/en
     source_license: 未確認（J-STAGE の本文ページに表示なし。同誌の他の記事は CC BY-NC-ND 4.0・© 日本循環器学会）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 灌流障害の機序には、動的閉塞、静的閉塞、両者の組み合わせがある
   curriculum:
@@ -494,6 +524,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-290 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: VS-015
   domain: VS
   subdomain: 大動脈解離
@@ -513,7 +546,7 @@
     url: https://www.jstage.jst.go.jp/article/circj/advpub/0/advpub_CJ-22-0794/_html/-char/en
     source_license: 未確認（J-STAGE の本文ページに表示なし。同誌の他の記事は CC BY-NC-ND 4.0・© 日本循環器学会）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: カットオフは試薬で異なり、施設ごとに確認するよう本文に注記がある
   curriculum:
@@ -529,6 +562,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-290 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: VS-016
   domain: VS
   subdomain: 大動脈解離
@@ -548,7 +584,7 @@
     url: https://www.jstage.jst.go.jp/article/circj/advpub/0/advpub_CJ-22-0794/_html/-char/en
     source_license: 未確認（J-STAGE の本文ページに表示なし。同誌の他の記事は CC BY-NC-ND 4.0・© 日本循環器学会）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: null
   curriculum:
@@ -564,6 +600,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/10_cv_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-290 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: VS-017
   domain: VS
   subdomain: Marfan症候群
@@ -1639,7 +1678,7 @@
     url: https://doi.org/10.1253/circj.CJ-22-0794
     source_license: 未確認（マスター登録に準拠）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 国内ガイドライン（2020年版）の部位別分類に基づく。胸部のみ・腹部のみの大動脈瘤は既存カード（VS-001〜006）の範囲で、本カードは胸腹部に限る。
   curriculum:
@@ -1655,6 +1694,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-290 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: VS-048
   domain: VS
   subdomain: 胸腹部大動脈瘤

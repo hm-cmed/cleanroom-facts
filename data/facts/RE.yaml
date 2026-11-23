@@ -287,7 +287,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/15086041/
     source_license: © 2004 American Academy of Family Physicians（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ44 2026-11-11）：Sehgal K, Diafas A, Dervenis N, et al. Epidemiology and Risk Factors of Rhegmatogenous Retinal Detachment: A Global and Historical Perspective. Epidemiologia. 2026（CC BY、PMID 42644893、DOI 10.3390/epidemiologia7040109、PMC13512895、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、裂孔原性網膜剥離は全層の網膜裂孔から液化した硝子体が入り込み、神経感覚網膜が網膜色素上皮から分離する機序であること、危険因子として加齢、白内障手術の既往、近視、外傷が明記される。数値の照合：該当なし。留保：網膜剥離の3型（滲出性・牽引性・裂孔原性）の列記は、候補では型名が除外の文脈で触れられるのみで分類としての再掲はなく、その部分を留保して B。NEI の網膜剥離のページ（GOV_US）も3型と機序を扱う'
   uncertainty: 出典は2004年の総説であり、抄録で確認できた機序と危険因子のみを記載した。Am Fam Physician は DOI を付与していないため DOI は null とした。裂孔の形態（馬蹄形裂孔、円孔など）ごとの違いは本カードには含めていない。
   curriculum:
@@ -306,6 +306,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ44 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1288 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: RE-009
   domain: RE
   subdomain: 網膜剥離の前駆症状と診断
@@ -324,7 +327,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/15086041/
     source_license: © 2004 American Academy of Family Physicians（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ44 2026-11-11）：National Eye Institute（NEI）「Retinal Detachment」ページ（GOV_US、https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinal-detachment、新規 SRC 候補）。裏づける部分：NEI のページ（GOV_US）に、症状として飛蚊症の突然の増加、閃光（光視症）、視野のカーテン・影（周辺視野の欠損）が明記され、症状があれば直ちに眼科または救急を受診すべき医学的緊急事態であることが明記される。数値の照合：該当なし。留保：「網膜裂孔の段階で早期に介入すれば剥離への進展を防ぐことができ、早期介入で手術成績が良くなる」という具体は NEI のページにその形ではなく（迅速な治療が視力の保護につながる旨の記載はある）、その部分を留保して B
   uncertainty: 出典は2004年の総説であり、抄録で確認できた症状と紹介の考え方のみを記載した。Am Fam Physician は DOI を付与していないため DOI は null とした。倒像鏡検査や超音波検査などの具体的な検査手順、瞳孔不同や相対性求心性瞳孔障害などの所見の詳細は本カードには含めていない。
   curriculum:
@@ -343,6 +346,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ44 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1288 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: RE-010
   domain: RE
   subdomain: 網膜剥離の治療
@@ -591,7 +597,7 @@
     url: https://doi.org/10.1542/peds.2018-3061
     source_license: © 2018 American Academy of Pediatrics（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ44 2026-11-11）：Coughlin E, Alvarado W, Barathi VA, et al. Retinopathy of Prematurity (ROP): Are We There Yet? Medicina (Kaunas). 2026（CC BY、PMID 42195122、DOI 10.3390/medicina62050869、PMC13208618、新規 SRC 候補）。裏づける部分：候補（CC BY の総説）に、リスクのある早産児へのスクリーニング体制と検査の間隔、国際分類（ICROP）、冷凍凝固の時代から30年以上にわたり重症例への治療が確立していること、牽引性網膜剥離へ進行して視力障害や失明を来し得ることが明記される。数値の照合：該当なし。留保：米国のスクリーニング声明の具体（対象の出生体重・在胎週数、初回検査の時期）そのものの再掲ではなく、その部分を留保して B'
   uncertainty: スクリーニング対象の出生体重・在胎週数の具体的な基準、初回検査の時期、国際分類（ICROP）のゾーン・ステージ・plus disease の定義は声明本文に示される内容であり、抄録では確認できなかったため本カードには含めていない。国内のスクリーニング基準は本声明（米国）とは別に確認が必要である。治療（レーザー光凝固、抗 VEGF 薬）の適応基準も本文および別途の一次資料での確認が必要である。
   curriculum:
@@ -610,6 +616,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ44 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1295 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: RE-017
   domain: RE
   subdomain: 網膜色素変性

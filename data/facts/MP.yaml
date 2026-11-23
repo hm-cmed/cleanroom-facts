@@ -813,13 +813,13 @@
   provenance:
     source_ref: SRC-252
     source: Van Camp G, Pasquet A, Sinnaeve P, et al. Summary 2015 ESC guidelines（心膜疾患ほか）. Acta Cardiol 2016;71:7-13
-    doi: 10.2143/AC.71.1.3132092
+    doi: 10.1080/AC.71.1.3132092
     pmid: null
     pmcid: null
     url: https://doi.org/10.2143/AC.71.1.3132092
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Kim, et al. Pericardial Diseases in Cardiovascular Medicine: Contemporary Diagnosis, Risk Stratification, Management. Rev Cardiovasc Med. 2026（CC BY、PMID 42416575、DOI 10.31083/RCM50417、PMC13339194、新規 SRC 候補）。裏づける部分と留保：急性心膜炎の診断が4項目（特徴的な胸痛、心膜摩擦音、特徴的な心電図変化、新規または増悪した心膜液）のうち2つ以上によること、支持所見（炎症マーカー、画像上の炎症）は一致。心電図変化の内訳は総括的な記載のみ。ESC 2025 での照合直しは未'
   uncertainty: ESC 2015 ガイドラインの本文ではなく要約論文で確認した（二次資料経由）。2025年に ESC の心筋炎・心膜炎ガイドラインが公表されている
   curriculum:
@@ -838,6 +838,12 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-252 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: DOI を Crossref の正規レコード 10.1080/AC.71.1.3132092 に訂正（SRC-252 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: MP-024
   domain: MP
   subdomain: 急性心膜炎
@@ -851,13 +857,13 @@
   provenance:
     source_ref: SRC-252
     source: Van Camp G, Pasquet A, Sinnaeve P, et al. Summary 2015 ESC guidelines（心膜疾患ほか）. Acta Cardiol 2016;71:7-13
-    doi: 10.2143/AC.71.1.3132092
+    doi: 10.1080/AC.71.1.3132092
     pmid: null
     pmcid: null
     url: https://doi.org/10.2143/AC.71.1.3132092
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Kim, et al. Pericardial Diseases in Cardiovascular Medicine: Contemporary Diagnosis, Risk Stratification, Management. Rev Cardiovasc Med. 2026（CC BY、PMID 42416575、DOI 10.31083/RCM50417、PMC13339194、新規 SRC 候補）。裏づける部分と留保：アスピリン・NSAIDs へのコルヒチン併用、体重調整用量（70 kg未満は0.5〜0.6 mg 1日1回、70 kg以上は1日2回）、急性期約3か月、ステロイドを第一選択にしないこと、高リスク例の入院管理は一致。予後不良因子の列挙と推奨クラスは載らない。コルヒチンの国内適応は未確認'
   uncertainty: ESC 2015 ガイドラインの要約論文で確認した（二次資料経由）。国内でのコルヒチンの心膜炎への保険適用は確認していない
   curriculum:
@@ -876,6 +882,12 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-252 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: DOI を Crossref の正規レコード 10.1080/AC.71.1.3132092 に訂正（SRC-252 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: MP-025
   domain: MP
   subdomain: 心タンポナーデ
@@ -889,13 +901,13 @@
   provenance:
     source_ref: SRC-252
     source: Van Camp G, Pasquet A, Sinnaeve P, et al. Summary 2015 ESC guidelines（心膜疾患ほか）. Acta Cardiol 2016;71:7-13
-    doi: 10.2143/AC.71.1.3132092
+    doi: 10.1080/AC.71.1.3132092
     pmid: null
     pmcid: null
     url: https://doi.org/10.2143/AC.71.1.3132092
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Kim, et al. Pericardial Diseases in Cardiovascular Medicine: Contemporary Diagnosis, Risk Stratification, Management. Rev Cardiovasc Med. 2026（CC BY、PMID 42416575、DOI 10.31083/RCM50417、PMC13339194、新規 SRC 候補）。裏づける部分と留保：心膜液の評価をまず心エコーで行い、タンポナーデ・悪性・限局性の貯留では心膜穿刺や外科的ドレナージ（剣状突起下の開窓を含む）を検討するという骨格は一致。緊急穿刺の適応の細部は限定的'
   uncertainty: ESC 2015 ガイドラインの要約論文で確認した（二次資料経由）。奇脈などの身体所見の記載は要約になく未確認
   curriculum:
@@ -914,6 +926,12 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-252 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: DOI を Crossref の正規レコード 10.1080/AC.71.1.3132092 に訂正（SRC-252 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: MP-026
   domain: MP
   subdomain: 収縮性心膜炎
@@ -927,13 +945,13 @@
   provenance:
     source_ref: SRC-252
     source: Van Camp G, Pasquet A, Sinnaeve P, et al. Summary 2015 ESC guidelines（心膜疾患ほか）. Acta Cardiol 2016;71:7-13
-    doi: 10.2143/AC.71.1.3132092
+    doi: 10.1080/AC.71.1.3132092
     pmid: null
     pmcid: null
     url: https://doi.org/10.2143/AC.71.1.3132092
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 'MP-011（拘束型心筋症）。自由に使える資料による裏づけ（OPEN、作り手の調査バッチ39 2026-11-11）：Kim, et al. Pericardial Diseases in Cardiovascular Medicine: Contemporary Diagnosis, Risk Stratification, Management. Rev Cardiovasc Med. 2026（CC BY、PMID 42416575、DOI 10.31083/RCM50417、PMC13339194、新規 SRC 候補）。裏づける部分と留保：一過性（炎症性）の収縮は内科治療で改善しうること、慢性の収縮性心膜炎では心膜切除術が決定的な治療であること、結核性は慢性収縮への移行リスクが高いこと、画像は心エコーを第一に CT・MRI を併用することは一致。ウイルス性・特発性との対比、3〜6か月の区切り、心臓カテーテル検査の位置づけは載らない'
   uncertainty: ESC 2015 ガイドラインの要約論文で確認した（二次資料経由）。原因別の発症率の数値は要約になく未確認
   curriculum:
@@ -952,6 +970,12 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ39 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-252 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: DOI を Crossref の正規レコード 10.1080/AC.71.1.3132092 に訂正（SRC-252 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: MP-027
   domain: MP
   subdomain: たこつぼ心筋症

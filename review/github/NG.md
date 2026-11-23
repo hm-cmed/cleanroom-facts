@@ -71,7 +71,7 @@
 - 条件：region: 日本
 - よくある誤解：日本神経消化器病学会は2002年に単独で設立された
 - 不確実性：学会サイトの記載。利用規約は人間が確認する。広報で使う場合は学会事務局の確認を受ける
-- 出典：日本神経消化器病学会ウェブサイト『沿革』　[リンク](https://plaza.umin.ac.jp/neuro-g/history.html)（区分 UNKNOWN）
+- 出典：日本神経消化器病学会ウェブサイト『沿革』　[リンク](https://plaza.umin.ac.jp/neuro-g/history.html)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-004&card_id=NG-004&version=de7d472c4d)　（版 `de7d472c4d`）
 
@@ -81,7 +81,7 @@
 
 - 条件：region: 日本
 - 不確実性：学会サイトのメニュー表記にもとづく。制度の要件は認定医制度のページで確認する
-- 出典：日本神経消化器病学会ウェブサイト『沿革』　[リンク](https://plaza.umin.ac.jp/neuro-g/history.html)（区分 UNKNOWN）
+- 出典：日本神経消化器病学会ウェブサイト『沿革』　[リンク](https://plaza.umin.ac.jp/neuro-g/history.html)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-005&card_id=NG-005&version=1e8fdd8b0e)　（版 `1e8fdd8b0e`）
 

@@ -60,7 +60,7 @@
 
 - 条件：region: 米国／study: 診療ガイドライン（米国小児科学会）
 - 不確実性：頻度（最大5%）と増殖の時期はガイドラインの抄録で確認した。日本の診療ガイドライン（血管腫・血管奇形・リンパ管奇形診療ガイドライン）での位置づけとの差異は本カードでは扱っていない。出典のライセンス表示は確認できなかった。
-- 出典：Krowchuk DP, Frieden IJ, Mancini AJ, et al. Clinical Practice Guideline for the Management of Infantile Hemangiomas. Pediatrics. 2019;143(1):e20183475.　[DOI 10.1542/peds.2018-3475](https://doi.org/10.1542/peds.2018-3475)　[PMID 30584062](https://pubmed.ncbi.nlm.nih.gov/30584062/)（区分 UNKNOWN）
+- 出典：Krowchuk DP, Frieden IJ, Mancini AJ, et al. Clinical Practice Guideline for the Management of Infantile Hemangiomas. Pediatrics. 2019;143(1):e20183475.　[DOI 10.1542/peds.2018-3475](https://doi.org/10.1542/peds.2018-3475)　[PMID 30584062](https://pubmed.ncbi.nlm.nih.gov/30584062/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-C-③（乳児血管腫<イチゴ状血管腫>、c）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-105 (id: JlvnllE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-007&card_id=DT-007&version=8395b03514)　（版 `8395b03514`）
 
@@ -92,7 +92,7 @@
 
 - 条件：region: 米国／study: 診療ガイドライン（米国小児科学会）
 - 不確実性：用量と治療期間はガイドラインの抄録で確認した。国内の承認・保険適用：プロプラノロール経口薬（ヘマンジオルシロップ小児用）は乳児血管腫を適応として2016年に国内で承認され、保険適用されていることを製造販売元の資料と総説で確認した。チモロール外用の乳児血管腫に対する国内の適応は未確認。投与中の低血糖・徐脈などの安全管理の詳細は本カードの範囲外とした。
-- 出典：Krowchuk DP, Frieden IJ, Mancini AJ, et al. Clinical Practice Guideline for the Management of Infantile Hemangiomas. Pediatrics. 2019;143(1):e20183475.　[DOI 10.1542/peds.2018-3475](https://doi.org/10.1542/peds.2018-3475)　[PMID 30584062](https://pubmed.ncbi.nlm.nih.gov/30584062/)（区分 UNKNOWN）
+- 出典：Krowchuk DP, Frieden IJ, Mancini AJ, et al. Clinical Practice Guideline for the Management of Infantile Hemangiomas. Pediatrics. 2019;143(1):e20183475.　[DOI 10.1542/peds.2018-3475](https://doi.org/10.1542/peds.2018-3475)　[PMID 30584062](https://pubmed.ncbi.nlm.nih.gov/30584062/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-C-③（乳児血管腫<イチゴ状血管腫>、c）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-105 (id: JlvnllE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-009&card_id=DT-009&version=5c4f8ffc51)　（版 `5c4f8ffc51`）
 
@@ -108,7 +108,7 @@
 
 - 条件：region: 米国／study: 総説（家庭医療における良性皮膚腫瘍のレビュー）
 - 不確実性：出典は2003年の総説であり、ケラトアカントーマを独立した良性腫瘍とみなすか有棘細胞癌の亜型とみなすかという現在の分類上の議論や、自然退縮の経過などの詳細は本出典の抄録で確認できる範囲を超えるため、本カードの記載は総説の位置づけの範囲に絞った。出典のライセンス表示は確認できなかった。
-- 出典：Luba MC, Bangs SA, Mohler AM, Stulberg DL. Common benign skin tumors. Am Fam Physician. 2003;67(4):729-738.　[PMID 12613727](https://pubmed.ncbi.nlm.nih.gov/12613727/)（区分 UNKNOWN）
+- 出典：Luba MC, Bangs SA, Mohler AM, Stulberg DL. Common benign skin tumors. Am Fam Physician. 2003;67(4):729-738.　[PMID 12613727](https://pubmed.ncbi.nlm.nih.gov/12613727/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-E-③（ケラトアカントーマ、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-013&card_id=DT-013&version=3dd45ae210)　（版 `3dd45ae210`）
 
@@ -140,7 +140,7 @@
 
 - 条件：region: 米国／study: 総説（家庭医療における良性皮膚腫瘍のレビュー）
 - 不確実性：出典は2003年の総説で、皮膚線維腫に割かれた記載は限られる。圧迫で中央が陥凹する所見（dimple sign）などの臨床所見の詳細は本出典の抄録で確認できなかったため、本カードの記載は総説で確認できる範囲に絞った。出典のライセンス表示は確認できなかった。
-- 出典：Luba MC, Bangs SA, Mohler AM, Stulberg DL. Common benign skin tumors. Am Fam Physician. 2003;67(4):729-738.　[PMID 12613727](https://pubmed.ncbi.nlm.nih.gov/12613727/)（区分 UNKNOWN）
+- 出典：Luba MC, Bangs SA, Mohler AM, Stulberg DL. Common benign skin tumors. Am Fam Physician. 2003;67(4):729-738.　[PMID 12613727](https://pubmed.ncbi.nlm.nih.gov/12613727/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-E-⑤（皮膚線維腫、c）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-015&card_id=DT-015&version=aa8bf48c6d)　（版 `aa8bf48c6d`）
 
@@ -156,7 +156,7 @@
 
 - 条件：region: 米国／study: 総説（家庭医療における良性皮膚腫瘍のレビュー）
 - 不確実性：出典は2003年の総説で、化膿性肉芽腫に割かれた記載は限られる。急速に増大し出血しやすいという臨床的特徴や、分葉状毛細血管増殖という病理像の詳細は本出典の抄録で確認できなかったため、本カードの記載は総説で確認できる範囲に絞った。出典のライセンス表示は確認できなかった。
-- 出典：Luba MC, Bangs SA, Mohler AM, Stulberg DL. Common benign skin tumors. Am Fam Physician. 2003;67(4):729-738.　[PMID 12613727](https://pubmed.ncbi.nlm.nih.gov/12613727/)（区分 UNKNOWN）
+- 出典：Luba MC, Bangs SA, Mohler AM, Stulberg DL. Common benign skin tumors. Am Fam Physician. 2003;67(4):729-738.　[PMID 12613727](https://pubmed.ncbi.nlm.nih.gov/12613727/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-E-⑥（毛細血管拡張性肉芽腫、c）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-016&card_id=DT-016&version=02d00e4e50)　（版 `02d00e4e50`）
 

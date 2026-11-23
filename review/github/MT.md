@@ -380,7 +380,7 @@
 
 - 条件：region: 米国／study: ガイドライン（米国リウマチ学会、2020年）
 - 不確実性：米国のガイドラインであり、日本の管理目標は日本のガイドライン（SRC-991）の6.0 mg/dL以下が基準となる。5 mg/dL未満の目標はEULAR 2016推奨の抄録で照合した内容である。アロプリノール・フェブキソスタットの国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
-- 出典：FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res (Hoboken). 2020;72(6):744-760.　[DOI 10.1002/acr.24180](https://doi.org/10.1002/acr.24180)　[PMID 32391934](https://pubmed.ncbi.nlm.nih.gov/32391934/)（区分 UNKNOWN）
+- 出典：FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology Guideline for the Management of Gout. Arthritis Care Res (Hoboken). 2020;72(6):744-760.　[DOI 10.1002/acr.24180](https://doi.org/10.1002/acr.24180)　[PMID 32391934](https://pubmed.ncbi.nlm.nih.gov/32391934/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-9-B-①（痛風、a）；医学各論 Ⅺ-2-E-①（痛風、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-485 (id: JlvnmNE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-027&card_id=MT-027&version=d2a793034e)　（版 `d2a793034e`）
 

@@ -364,7 +364,7 @@
 
 - 条件：region: 米国／対象: 早産児
 - 不確実性：スクリーニング対象の具体的な基準値（出生体重・在胎週数の閾値）は本文の表で確認が必要なため主張に入れていない。日本のスクリーニング基準の原典文書は未確認である。治療の適応の詳細は本カードの範囲外だが、硝子体内抗VEGF薬のアフリベルセプトは未熟児網膜症の適応で2022年9月に国内承認されていることを出典リサーチで確認した（ラニビズマブの同じ適応での国内承認は未確認）　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ラニビズマブは未熟児網膜症の適応で2019年11月22日に国内承認済み（バイアル製剤、1回0.2mg。PMDA再審査報告書・承認情報）。「ラニビズマブの同じ適応での国内承認は未確認」は誤り。アフリベルセプトの2022年9月承認は注記どおり
-- 出典：Fierson WM; American Academy of Pediatrics Section on Ophthalmology; American Academy of Ophthalmology; American Association for Pediatric Ophthalmology and Strabismus; American Association of Certified Orthoptists. Screening Examination of Premature Infants for Retinopathy of Prematurity. Pediatrics. 2018;142(6):e20183061　[DOI 10.1542/peds.2018-3061](https://doi.org/10.1542/peds.2018-3061)　[PMID 30478242](https://pubmed.ncbi.nlm.nih.gov/30478242/)（区分 UNKNOWN）
+- 出典：Fierson WM; American Academy of Pediatrics Section on Ophthalmology; American Academy of Ophthalmology; American Association for Pediatric Ophthalmology and Strabismus; American Association of Certified Orthoptists. Screening Examination of Premature Infants for Retinopathy of Prematurity. Pediatrics. 2018;142(6):e20183061　[DOI 10.1542/peds.2018-3061](https://doi.org/10.1542/peds.2018-3061)　[PMID 30478242](https://pubmed.ncbi.nlm.nih.gov/30478242/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-3-H-⑤（未熟児網膜症、b）　コアカリ：PS-02-12-02 (id: Jli53IY)；PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-026&card_id=NB-026&version=9ccbc47639)　（版 `9ccbc47639`）
 

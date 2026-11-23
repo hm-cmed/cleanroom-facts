@@ -157,7 +157,7 @@
     url: https://doi.org/10.1002/acr.24180
     source_license: 未確認（出典マスターの登録どおり UNKNOWN）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 米国のガイドラインに基づく。関節液結晶の性状は本ガイドラインおよび分類基準で確認した。
   curriculum:
@@ -176,6 +176,9 @@
   - date: '2026-10-30'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅺ-2-E-① を足した（医学各論 Ⅸ-8-H-②（痛風、偽痛風、a） → 医学各論 Ⅸ-8-H-②（痛風、偽痛風、a）；医学各論 Ⅺ-2-E-①（痛風、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-992 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OS-006
   domain: OS
   subdomain: 痛風、偽痛風
@@ -195,7 +198,7 @@
     url: https://doi.org/10.1002/acr.24180
     source_license: 未確認（出典マスターの登録どおり UNKNOWN）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 米国のガイドラインに基づく。NSAIDs、コルヒチン、副腎皮質ステロイドはいずれも国内承認され保険適用されている。尿酸代謝と降尿酸治療の総論は第21回（MT）を正とし、本票では関節炎としての治療に限った。
   curriculum:
@@ -214,6 +217,9 @@
   - date: '2026-10-30'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅺ-2-E-① を足した（医学各論 Ⅸ-8-H-②（痛風、偽痛風、a） → 医学各論 Ⅸ-8-H-②（痛風、偽痛風、a）；医学各論 Ⅺ-2-E-①（痛風、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-992 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
 - id: OS-007
   domain: OS
   subdomain: 痛風、偽痛風
