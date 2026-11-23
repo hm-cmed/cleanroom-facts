@@ -8,14 +8,15 @@
 
 ### UG-001　下書き（出典の照合前）
 
-> 救急外来を受診した上部消化管出血のうち、院内での介入または死亡の見逃し率が1%以下となる超低リスク例（例：Glasgow-Blatchfordスコア0〜1）は、入院させず外来フォローで帰宅させることが提案されている。
+> ACGは、救急外来を受診した上部消化管出血のうち、院内での介入または死亡の見逃し率が1%以下となる例を超低リスク例と定義し、これに当てはまるスコアの例としてGlasgow-Blatchfordスコア0〜1を挙げて、入院させず外来フォローで帰宅させることを提案している。この1%は定義の基準値であり、統合解析で実際に院内での介入を要した割合はGBS 0で約2%、GBS 1以下で約4%だった。
 
 - 条件：region: US／guideline: ACG 2021（条件付き推奨, 非常に低い質）
 - 鑑別・補足：GBSは内視鏡前のリスク層別化に使う。Rockallスコア（完全版）は内視鏡所見を必要とする
 - よくある誤解：GBS 0〜1でも全例を緊急内視鏡にすべき
+- 不確実性：統合解析の値は Boustany 2023（J Clin Med、CC BY、corroboration 参照）による。2026-11-24、1%が定義の基準値であることが分かる書き方に改めた。
 - 出典：Laine L et al. Am J Gastroenterol 2021;116:899-917　[DOI 10.14309/ajg.0000000000001245](https://doi.org/10.14309/ajg.0000000000001245)　[PMID 33929377](https://pubmed.ncbi.nlm.nih.gov/33929377/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）　コアカリ：－
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-001&card_id=UG-001&version=58318b210a)　（版 `58318b210a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-001&card_id=UG-001&version=3dcebc99e8)　（版 `3dcebc99e8`）
 
 ### UG-002　下書き（出典の照合前）
 
@@ -41,13 +42,13 @@
 
 ### UG-004　下書き（出典の照合前）
 
-> 閾値7 g/dLの根拠となった上部消化管出血のRCT（単施設、n=921：制限群461例＜7 g/dL、非制限群460例＜9 g/dL）では、輸血を受けた患者の割合が制限群49%、非制限群86%（P<0.001）で、45日死亡率は5% vs 9%（HR 0.55; 95% CI 0.33–0.92）だった。
+> 閾値7 g/dLの根拠となった上部消化管出血のRCT（単施設。921例を制限群461例＜7 g/dL・非制限群460例＜9 g/dLに無作為化）では、無作為化後に除外された例を除く解析対象889例（制限群444例・非制限群445例）で、輸血を受けた患者の割合が制限群49%、非制限群86%（P<0.001）、45日死亡率は5% vs 9%（HR 0.55; 95% CI 0.33–0.92）だった。
 
 - 条件：region: EU(Spain, Hospital de Sant Pau, Barcelona)
-- 不確実性：PMIDはPubMedの検索結果で確認。DOIは要確認｜［取り込み時］DOIは原本で「要確認」のためnull
+- 不確実性：PMIDはPubMedの検索結果で確認。DOIは要確認｜［取り込み時］DOIは原本で「要確認」のためnull。解析対象889例（444・445例）は自由に使える資料（Teutsch 2023、Sci Rep、CC BY）の表で確認した。2026-11-24、無作為化数と解析対象数が混ざって読める書き方を改めた。
 - 出典：Villanueva C et al. N Engl J Med 2013;368(1):11-21（ACG 2021が引用）　[PMID 23281973](https://pubmed.ncbi.nlm.nih.gov/23281973/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）　コアカリ：－
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-004&card_id=UG-004&version=57b8f101e8)　（版 `57b8f101e8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-004&card_id=UG-004&version=1a520cb01b)　（版 `1a520cb01b`）
 
 ### UG-005　下書き（出典の照合前）
 
@@ -111,7 +112,7 @@
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）　コアカリ：－
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-010&card_id=UG-010&version=458c87a064)　（版 `458c87a064`）
 
-**[ここまでの 10 件（UG-001〜UG-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UG-001%E3%80%9CUG-010&cards=UG-001%2058318b210a%0AUG-002%20aeaae05b32%0AUG-003%2033b282af2b%0AUG-004%2057b8f101e8%0AUG-005%2066924445db%0AUG-006%208c7fde1b5f%0AUG-007%20f707729e3e%0AUG-008%20bcd6a81e44%0AUG-009%20381df0fccb%0AUG-010%20458c87a064)**
+**[ここまでの 10 件（UG-001〜UG-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UG-001%E3%80%9CUG-010&cards=UG-001%203dcebc99e8%0AUG-002%20aeaae05b32%0AUG-003%2033b282af2b%0AUG-004%201a520cb01b%0AUG-005%2066924445db%0AUG-006%208c7fde1b5f%0AUG-007%20f707729e3e%0AUG-008%20bcd6a81e44%0AUG-009%20381df0fccb%0AUG-010%20458c87a064)**
 
 ---
 
@@ -147,13 +148,13 @@
 
 ### UG-014　下書き（出典の照合前）
 
-> 内視鏡治療を行った高リスク潰瘍出血では、高用量PPI（1日80 mg以上）を3日間投与した後、2週間は1日2回のPPIを続けることが提案されている。
+> 内視鏡治療を行った高リスク潰瘍出血では、高用量PPI（1日80 mg以上）を3日間投与した後、2週間は1日2回のPPIを続けることが勧められている。
 
 - 条件：region: US／guideline: ACG 2021
-- 不確実性：原文の推奨強度は要確認
+- 不確実性：原文の推奨強度は要確認。ACG 2021 の抄録は recommended と表現するが、本文での推奨の強さ（条件付きか強いか）は未照合のため、「勧められている」とした（2026-11-24 改訂。旧表現「提案されている」）。
 - 出典：ACG 2021（Emory大学の要約資料経由）　[DOI 10.14309/ajg.0000000000001245](https://doi.org/10.14309/ajg.0000000000001245)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）　コアカリ：－
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-014&card_id=UG-014&version=30c4fc049e)　（版 `30c4fc049e`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-014&card_id=UG-014&version=7c14bcdc71)　（版 `7c14bcdc71`）
 
 ### UG-015　下書き（出典の照合前）
 
@@ -196,7 +197,7 @@
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）　コアカリ：－
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-018&card_id=UG-018&version=fa93706bb7)　（版 `fa93706bb7`）
 
-**[ここまでの 8 件（UG-011〜UG-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UG-011%E3%80%9CUG-018&cards=UG-011%20c3b7be8e01%0AUG-012%202bbc00ce4a%0AUG-013%20155f5438a8%0AUG-014%2030c4fc049e%0AUG-015%20ca5c7163e4%0AUG-016%203bfe76b5cf%0AUG-017%20e25bcbf255%0AUG-018%20fa93706bb7)**
+**[ここまでの 8 件（UG-011〜UG-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UG-011%E3%80%9CUG-018&cards=UG-011%20c3b7be8e01%0AUG-012%202bbc00ce4a%0AUG-013%20155f5438a8%0AUG-014%207c14bcdc71%0AUG-015%20ca5c7163e4%0AUG-016%203bfe76b5cf%0AUG-017%20e25bcbf255%0AUG-018%20fa93706bb7)**
 
 ---
 

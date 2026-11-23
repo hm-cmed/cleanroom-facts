@@ -27244,10 +27244,10 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 厚労科研の研究班の著作物（政府の著作物ではない）。研究班の診療ガイドは RESTRICTED とする 2026-11-13 三原の決定。旧記録：厚生労働省の研究事業成果物（政府資料）
+  license_note: 厚生労働科学研究成果データベース（mhlw-grants.niph.go.jp）掲載の報告書添付資料（202319015A-sonota1.pdf）。全49ページに著作権の記載なし（作り手が確認、2026-11-23）。CLAUDE.md §2-2（2026-11-15・11-24 三原の決定）により GOV_JP
   legacy_basis_tag: null
   legal_basis: B
-  source_class: RESTRICTED
+  source_class: GOV_JP
   history:
   - date: '2026-10-31'
     by: claude-code
@@ -27258,6 +27258,9 @@
   - date: '2026-11-13'
     by: claude-code
     change: source_class を GOV_JP から RESTRICTED に訂正（研究班のガイドラインは研究班の著作物とする三原の決定）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を RESTRICTED から GOV_JP に変更（研究班の診療ガイドでも、厚労科研データベースに報告書の添付資料として載り権利表記がないものは GOV_JP とする）。三原の承認（2026-11-24、proposals/free68_decisions_20261123.md）
 - id: SRC-2642
   legacy_id: null
   title: Neunert C, Terrell DR, Arnold DM, et al. American Society of Hematology 2019 guidelines for immune thrombocytopenia. Blood Adv. 2019;3(23):3829-3866.
@@ -38937,3 +38940,48 @@
   - date: '2026-11-23'
     by: claude-code
     change: 登録：HP-018 の出典（旧形式で source_ref が空だった）。作り手の調査（proposals/pd_survey_20261111/free_sources_68_result.md、2026-11-23）の判定 D
+- id: SRC-5240
+  legacy_id: null
+  title: 大阪市健康局大阪市保健所管理課. 脊髄小脳変性症とは どんな病気？（『難病を理解いただくために』令和4年11月作成） https://www.city.osaka.lg.jp/kenko/cmsfiles/contents/0000494/494143/07_sekizuishonohenseisho.pdf
+  citation: 大阪市健康局大阪市保健所管理課. 脊髄小脳変性症とは どんな病気？（『難病を理解いただくために』令和4年11月作成） https://www.city.osaka.lg.jp/kenko/cmsfiles/contents/0000494/494143/07_sekizuishonohenseisho.pdf
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 地方自治体（大阪市）の公開資料。CLAUDE.md §2-2（2026-11-24 三原の決定）により GOV_JP
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：作り手の調査（proposals/pd_survey_20261111/free_sources_68_result.md、2026-11-23）から。三原の承認（2026-11-24、proposals/free68_decisions_20261123.md）
+- id: SRC-5241
+  legacy_id: null
+  title: 兵庫県難病相談センター. 脊髄小脳変性症(SCD)はどんな病気？ https://agmc.hyogo.jp/nanbyo/ncurable_disease/disease03.html
+  citation: 兵庫県難病相談センター. 脊髄小脳変性症(SCD)はどんな病気？ https://agmc.hyogo.jp/nanbyo/ncurable_disease/disease03.html
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 兵庫県の難病相談センター（県立尼崎総合医療センターのサイト）の公開情報。CLAUDE.md §2-2（2026-11-24 三原の決定）により GOV_JP
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：作り手の調査（proposals/pd_survey_20261111/free_sources_68_result.md、2026-11-23）から。三原の承認（2026-11-24、proposals/free68_decisions_20261123.md）
+- id: SRC-5242
+  legacy_id: null
+  title: 'Terrell DR, Neunert CE, Cooper N, et al. Immune Thrombocytopenia (ITP): Current Limitations in Patient Management. Medicina. 2020;56'
+  citation: 'Terrell DR, Neunert CE, Cooper N, et al. Immune Thrombocytopenia (ITP): Current Limitations in Patient Management. Medicina. 2020;56'
+  doi: null
+  pmid: '33266286'
+  pmcid: PMC7761470
+  license_note: CC BY（PMC 全文の表示 https://pmc.ncbi.nlm.nih.gov/articles/PMC7761470/）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：作り手の調査（proposals/pd_survey_20261111/free_sources_68_result.md、2026-11-23）から。三原の承認（2026-11-24、proposals/free68_decisions_20261123.md）

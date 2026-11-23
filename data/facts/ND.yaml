@@ -1481,7 +1481,7 @@
     source_license: 難病情報センター（公的資料。政府標準利用規約の適用は取り込み側で最終確認を要する）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査 2026-11-23）：SRC-5240（大阪市保健所の解説、GOV_JP）が患者総数と孤発性・遺伝性の割合（約2/3・約1/3）を、SRC-5241（兵庫県難病相談センター、GOV_JP）が孤発性の内訳と遺伝性で頻度の高い病型を裏づける。数値の照合：患者数は大阪市資料では「3万人を超える」、割合は兵庫県資料では「約7割・約3割」と表現が異なる
   uncertainty: 患者数と割合は難病情報センターの公表情報に基づく推計である。多系統萎縮症そのものの診断基準は ND-114（SRC-1688）を参照。
   curriculum:
     kokushi: 医学各論 Ⅸ-4-F-①（脊髄小脳変性症、b）
@@ -1499,6 +1499,9 @@
   - date: '2026-11-13'
     by: claude-code
     change: 出典 SRC-1687 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を GOV_JP から RESTRICTED にした
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料（自治体の公開資料2件）を追記。三原の承認（2026-11-24、proposals/free68_decisions_20261123.md）
 - id: ND-042
   domain: ND
   subdomain: 多系統萎縮症

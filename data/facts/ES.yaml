@@ -818,7 +818,7 @@
   domain: ES
   subdomain: GERD・NERD・Barrett食道
   assertion:
-    plain_statement_ja: ACG 2022は、Barrett食道の癌への進展率を、異形成なし（NDBE）で年0.05〜0.2%程度、低異型度異形成（LGD）で年約0.7%と見積もっている。
+    plain_statement_ja: ACG 2022は、Barrett食道の癌への進展率を、異形成なし（NDBE）で年0.05〜0.2%程度、低異型度異形成（LGD）で年約0.7%と見積もっている。進展率は対象集団や指標（癌への進展か、高異型度異形成への進展を含むか、異形成の発生か）によって大きく異なり、ほかの総説では別の指標で異なる値が報告されている。
     condition:
       region: 欧米
     differential: 日本のSSBEの発癌率はわかっていない（ES-015）
@@ -840,7 +840,7 @@
       pmid_matched: true
       license_from_crossref: null
       notes: Crossrefに license の記載なし（source_class は現状維持）
-  uncertainty: low（GL本文で照合。本文の表記は「0.2%–0.05%」）
+  uncertainty: low（GL本文で照合。本文の表記は「0.2%–0.05%」）。2026-11-24、進展率が指標・集団で大きく異なることを追記した（例：Stawinski 2023 は NDBE から LGD の発生を年4.3% と報告）。
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
     kokushi: 医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）
@@ -881,6 +881,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5204 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 主張文を改訂（作り手の指摘を受けた点検、三原の承認（2026-11-24、proposals/free68_decisions_20261123.md））。旧文：ACG 2022は、Barrett食道の癌への進展率を、異形成なし（NDBE）で年0.05〜0.2%程度、低異型度異形成（LGD）で年約0.7%と見積もっている。
 - id: ES-015
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -1011,7 +1014,7 @@
   domain: ES
   subdomain: GERD・NERD・Barrett食道
   assertion:
-    plain_statement_ja: ACGは、Barrett食道の生検について、炎症を制御してから2 cm間隔で4方向から系統的に行う方法（Seattle protocol）を標準としている。
+    plain_statement_ja: ACGは、Barrett食道の生検について、炎症を制御してから一定の間隔（1〜2 cm）で4方向から系統的に行う方法（Seattle protocol）を標準としている。
     condition:
       region: 米国
     differential: NBIによる狙撃生検（ACG 2022はSeattle protocolの継続を推奨）
@@ -1033,7 +1036,7 @@
       pmid_matched: true
       license_from_crossref: null
       notes: Crossrefに license の記載なし（source_class は現状維持）
-  uncertainty: low
+  uncertainty: low。CC BY の総説（Stawinski 2023、Diagnostics）は間隔を1〜2 cmと幅をもって記載する。ACG 2022 が異形成の有無で間隔を分けているかは未照合（2026-11-24 改訂。旧表現「2 cm間隔」）。
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)'
     kokushi: 医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）
@@ -1080,6 +1083,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: 主張文を改訂（作り手の指摘を受けた点検、三原の承認（2026-11-24、proposals/free68_decisions_20261123.md））。旧文：ACGは、Barrett食道の生検について、炎症を制御してから2 cm間隔で4方向から系統的に行う方法（Seattle protocol）を標準としている。
 - id: ES-018
   domain: ES
   subdomain: 好酸球性食道炎（EoE）

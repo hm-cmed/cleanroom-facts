@@ -168,15 +168,15 @@
 
 ### ES-014　出典照合済み・監修待ち
 
-> ACG 2022は、Barrett食道の癌への進展率を、異形成なし（NDBE）で年0.05〜0.2%程度、低異型度異形成（LGD）で年約0.7%と見積もっている。
+> ACG 2022は、Barrett食道の癌への進展率を、異形成なし（NDBE）で年0.05〜0.2%程度、低異型度異形成（LGD）で年約0.7%と見積もっている。進展率は対象集団や指標（癌への進展か、高異型度異形成への進展を含むか、異形成の発生か）によって大きく異なり、ほかの総説では別の指標で異なる値が報告されている。
 
 - 条件：region: 欧米
 - 鑑別・補足：日本のSSBEの発癌率はわかっていない（ES-015）
 - よくある誤解：NDBEの発癌率を過大に見積もる
-- 不確実性：low（GL本文で照合。本文の表記は「0.2%–0.05%」）
+- 不確実性：low（GL本文で照合。本文の表記は「0.2%–0.05%」）。2026-11-24、進展率が指標・集団で大きく異なることを追記した（例：Stawinski 2023 は NDBE から LGD の発生を年4.3% と報告）。
 - 出典：Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587　[DOI 10.14309/ajg.0000000000001680](https://doi.org/10.14309/ajg.0000000000001680)　[PMID 35354777](https://pubmed.ncbi.nlm.nih.gov/35354777/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-014&card_id=ES-014&version=b4c661ff19)　（版 `b4c661ff19`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-014&card_id=ES-014&version=236850c23e)　（版 `236850c23e`）
 
 ### ES-015　出典照合済み・監修待ち
 
@@ -204,15 +204,15 @@
 
 ### ES-017　出典照合済み・監修待ち
 
-> ACGは、Barrett食道の生検について、炎症を制御してから2 cm間隔で4方向から系統的に行う方法（Seattle protocol）を標準としている。
+> ACGは、Barrett食道の生検について、炎症を制御してから一定の間隔（1〜2 cm）で4方向から系統的に行う方法（Seattle protocol）を標準としている。
 
 - 条件：region: 米国
 - 鑑別・補足：NBIによる狙撃生検（ACG 2022はSeattle protocolの継続を推奨）
 - よくある誤解：炎症が強い時期の生検で異形成を判定する
-- 不確実性：low
+- 不確実性：low。CC BY の総説（Stawinski 2023、Diagnostics）は間隔を1〜2 cmと幅をもって記載する。ACG 2022 が異形成の有無で間隔を分けているかは未照合（2026-11-24 改訂。旧表現「2 cm間隔」）。
 - 出典：Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587　[DOI 10.14309/ajg.0000000000001680](https://doi.org/10.14309/ajg.0000000000001680)　[PMID 35354777](https://pubmed.ncbi.nlm.nih.gov/35354777/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-017&card_id=ES-017&version=d96ac087ab)　（版 `d96ac087ab`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-017&card_id=ES-017&version=a7da5bcdec)　（版 `a7da5bcdec`）
 
 ### ES-093　下書き（出典の照合前）
 
@@ -226,7 +226,7 @@
 - 出題基準：医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-093&card_id=ES-093&version=b8fd6c4e81)　（版 `b8fd6c4e81`）
 
-**[ここまでの 8 件（ES-011〜ES-093）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-011%E3%80%9CES-093&cards=ES-011%2064e32ef016%0AES-012%2045ee4b913b%0AES-013%2073df396574%0AES-014%20b4c661ff19%0AES-015%20b80b5517d5%0AES-016%2095f5e7d2c4%0AES-017%20d96ac087ab%0AES-093%20b8fd6c4e81)**
+**[ここまでの 8 件（ES-011〜ES-093）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-011%E3%80%9CES-093&cards=ES-011%2064e32ef016%0AES-012%2045ee4b913b%0AES-013%2073df396574%0AES-014%20236850c23e%0AES-015%20b80b5517d5%0AES-016%2095f5e7d2c4%0AES-017%20a7da5bcdec%0AES-093%20b8fd6c4e81)**
 
 ---
 

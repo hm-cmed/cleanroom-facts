@@ -2,7 +2,7 @@
   domain: UG
   subdomain: null
   assertion:
-    plain_statement_ja: 救急外来を受診した上部消化管出血のうち、院内での介入または死亡の見逃し率が1%以下となる超低リスク例（例：Glasgow-Blatchfordスコア0〜1）は、入院させず外来フォローで帰宅させることが提案されている。
+    plain_statement_ja: ACGは、救急外来を受診した上部消化管出血のうち、院内での介入または死亡の見逃し率が1%以下となる例を超低リスク例と定義し、これに当てはまるスコアの例としてGlasgow-Blatchfordスコア0〜1を挙げて、入院させず外来フォローで帰宅させることを提案している。この1%は定義の基準値であり、統合解析で実際に院内での介入を要した割合はGBS 0で約2%、GBS 1以下で約4%だった。
     condition:
       region: US
       guideline: ACG 2021（条件付き推奨, 非常に低い質）
@@ -20,7 +20,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Boustany A, et al. Pre-Endoscopic Scores Predicting Low-Risk Patients with Upper Gastrointestinal Bleeding: A Systematic Review and Meta-Analysis. J Clin Med. 2023;12(16):5194（DOI 10.3390/jcm12165194／PMID 37629235／PMCID PMC10456043。OPEN（CC BY 4.0）。PMC 全文のライセンス表示 https://pmc.ncbi.nlm.nih.gov/articles/PMC10456043/ 、Crossref 刊行版ライセンス https://creativecommons.org/licenses/by/4.0/）。裏づける部分：GBS カットオフ ≤1 が低リスク同定に最適で外来管理を安全に広げられること、ガイドラインが偽陰性率 ≤1%（介入または死亡）を低リスクの定義として GBS 0〜1 を例示していること。数値の照合：一部不一致：カードの「見逃し率1%以下」は定義上の基準。候補の統合解析では院内介入を要した割合は GBS 0 で 0.02（95%CI 0.01–0.05）、GBS ≤1 で 0.04（0.02–0.09）、死亡は 0.01–0.04 で、点推定値は1%を超える。留保：主張の「提案」の強さ（ACG の条件付き推奨）自体は候補では確認できないため B'
-  uncertainty: null
+  uncertainty: 統合解析の値は Boustany 2023（J Clin Med、CC BY、corroboration 参照）による。2026-11-24、1%が定義の基準値であることが分かる書き方に改めた。
   curriculum:
     core_curriculum: null
     kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
@@ -49,6 +49,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: 主張文を改訂（作り手の指摘を受けた点検、三原の承認（2026-11-24、proposals/free68_decisions_20261123.md））。旧文：救急外来を受診した上部消化管出血のうち、院内での介入または死亡の見逃し率が1%以下となる超低リスク例（例：Glasgow-Blatchfordスコア0〜1）は、入院させず外来フォローで帰宅させることが提案されている。
 - id: UG-002
   domain: UG
   subdomain: null
@@ -153,7 +156,7 @@
   domain: UG
   subdomain: null
   assertion:
-    plain_statement_ja: 閾値7 g/dLの根拠となった上部消化管出血のRCT（単施設、n=921：制限群461例＜7 g/dL、非制限群460例＜9 g/dL）では、輸血を受けた患者の割合が制限群49%、非制限群86%（P<0.001）で、45日死亡率は5% vs 9%（HR 0.55; 95% CI 0.33–0.92）だった。
+    plain_statement_ja: 閾値7 g/dLの根拠となった上部消化管出血のRCT（単施設。921例を制限群461例＜7 g/dL・非制限群460例＜9 g/dLに無作為化）では、無作為化後に除外された例を除く解析対象889例（制限群444例・非制限群445例）で、輸血を受けた患者の割合が制限群49%、非制限群86%（P<0.001）、45日死亡率は5% vs 9%（HR 0.55; 95% CI 0.33–0.92）だった。
     condition:
       region: EU(Spain, Hospital de Sant Pau, Barcelona)
   provenance:
@@ -167,7 +170,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Teutsch B, et al. Sci Rep. 2023（同上）（DOI 10.1038/s41598-023-44271-8／PMID 37828128／PMCID PMC10570344。対象試験 Villanueva 2013：PMID 23281973／DOI 10.1056/NEJMoa1211801／NCT00414713。OPEN（CC BY 4.0、上記同））。裏づける部分：Villanueva 試験の輸血割合と45日死亡の HR（試験固有の数値が候補の表と本文にある）。数値の照合：一致：輸血を受けた割合 制限群 219例（49%）vs 非制限群 384例（86%）＝カードの 49% vs 86% と一致。45日死亡 HR 0.55（95%CI 0.33–0.92）＝カードと一致。ただし分母は解析対象 444／445例（計889例）で、カード冒頭の無作為化数 921例（461／460）とは別（下記「主張文の修正」参照）。死亡率 5% vs 9% そのものは候補の本文にはなく、原著（NEJM）の記載（23例 vs 41例）で確認。留保：ClinicalTrials.gov の NCT00414713 は結果登録なし（Results posted ではない）ことを API で確認したため、登録レコードは候補にできない。原著 NEJM は RESTRICTED（既存 SRC-027）
-  uncertainty: PMIDはPubMedの検索結果で確認。DOIは要確認｜［取り込み時］DOIは原本で「要確認」のためnull
+  uncertainty: PMIDはPubMedの検索結果で確認。DOIは要確認｜［取り込み時］DOIは原本で「要確認」のためnull。解析対象889例（444・445例）は自由に使える資料（Teutsch 2023、Sci Rep、CC BY）の表で確認した。2026-11-24、無作為化数と解析対象数が混ざって読める書き方を改めた。
   curriculum:
     core_curriculum: null
     kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
@@ -193,6 +196,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: 主張文を改訂（作り手の指摘を受けた点検、三原の承認（2026-11-24、proposals/free68_decisions_20261123.md））。旧文：閾値7 g/dLの根拠となった上部消化管出血のRCT（単施設、n=921：制限群461例＜7 g/dL、非制限群460例＜9 g/dL）では、輸血を受けた患者の割合が制限群49%、非制限群86%（P<0.001）で、45日死亡率は5% vs 9%（HR 0.55; 95% CI 0.33–0.92）だった。
 - id: UG-005
   domain: UG
   subdomain: null
@@ -620,7 +626,7 @@
   domain: UG
   subdomain: null
   assertion:
-    plain_statement_ja: 内視鏡治療を行った高リスク潰瘍出血では、高用量PPI（1日80 mg以上）を3日間投与した後、2週間は1日2回のPPIを続けることが提案されている。
+    plain_statement_ja: 内視鏡治療を行った高リスク潰瘍出血では、高用量PPI（1日80 mg以上）を3日間投与した後、2週間は1日2回のPPIを続けることが勧められている。
     condition:
       region: US
       guideline: ACG 2021
@@ -634,7 +640,7 @@
     source_license: © ACG
     legal_basis: B
     source_class: RESTRICTED
-  uncertainty: 原文の推奨強度は要確認
+  uncertainty: 原文の推奨強度は要確認。ACG 2021 の抄録は recommended と表現するが、本文での推奨の強さ（条件付きか強いか）は未照合のため、「勧められている」とした（2026-11-24 改訂。旧表現「提案されている」）。
   curriculum:
     core_curriculum: null
     kokushi: 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）
@@ -660,6 +666,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5226 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 主張文を改訂（作り手の指摘を受けた点検、三原の承認（2026-11-24、proposals/free68_decisions_20261123.md））。旧文：内視鏡治療を行った高リスク潰瘍出血では、高用量PPI（1日80 mg以上）を3日間投与した後、2週間は1日2回のPPIを続けることが提案されている。
 - id: UG-015
   domain: UG
   subdomain: null

@@ -92,15 +92,15 @@
 
 ### NI-007　下書き（出典の照合前）
 
-> プリオンは通常の滅菌・消毒に抵抗性を示すため、プリオン病患者のハイリスク手技に用いた手術器具には、十分な洗浄のうえプレバキューム式高圧蒸気滅菌 134℃・18 分間など、通常より強力な専用の不活性化処理が必要である。
+> プリオンは通常の滅菌・消毒に抵抗性を示すため、プリオン病患者のハイリスク手技に用いた手術器具には、十分な洗浄のうえプレバキューム式高圧蒸気滅菌 134℃・18 分間など、通常より強力な専用の不活性化処理が必要である。134℃・18分間は世界保健機関（WHO）が示す方法の中では最も緩やかな条件とされ、乾燥した組織が付着した器具などでは感染性が完全には除かれない可能性も指摘されている。
 
 - 条件：population: プリオン病患者・疑い患者に使用した医療器具／region: 日本
-- 不確実性：滅菌条件は器具の耐熱性や洗浄方法により複数のパターンが示されており、134℃・18 分間はアルカリ洗浄を用いない場合の代表的な条件である。ガイドライン 2020 年版以降の改訂の有無は取り込み側で再確認を推奨する。
+- 不確実性：滅菌条件は器具の耐熱性や洗浄方法により複数のパターンが示されており、134℃・18 分間はアルカリ洗浄を用いない場合の代表的な条件である。ガイドライン 2020 年版以降の改訂の有無は取り込み側で再確認を推奨する。。WHO の方法の中で最も緩やかとする位置づけは CDC の歯科領域の感染対策ガイドライン（MMWR 2003、GOV_US）の記載による（2026-11-24 追記）。
 - 出典：厚生労働科学研究費補助金「プリオン病及び遅発性ウイルス感染症に関する調査研究班」ほか. プリオン病感染予防ガイドライン2020. 2020（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-3-B-①（Creutzfeldt-Jakob病、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-007&card_id=NI-007&version=5a7b6781c7)　（版 `5a7b6781c7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-007&card_id=NI-007&version=d86dcd0e5d)　（版 `d86dcd0e5d`）
 
-**[ここまでの 3 件（NI-005〜NI-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NI-005%E3%80%9CNI-007&cards=NI-005%205f4dafedc8%0ANI-006%209041693fc0%0ANI-007%205a7b6781c7)**
+**[ここまでの 3 件（NI-005〜NI-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NI-005%E3%80%9CNI-007&cards=NI-005%205f4dafedc8%0ANI-006%209041693fc0%0ANI-007%20d86dcd0e5d)**
 
 ---
 
