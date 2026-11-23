@@ -37932,3 +37932,153 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+- id: SRC-5124
+  legacy_id: null
+  title: 厚生労働省. 専門医の在り方に関する検討会 報告書. 2013年4月22日
+  citation: 厚生労働省. 専門医の在り方に関する検討会 報告書. 2013年4月22日
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME3_medical_education.md の出典マスター表から
+- id: SRC-5125
+  legacy_id: null
+  title: 厚生労働省 医道審議会医師分科会医師専門研修部会. 今後の専門研修制度に向けた検討について（令和6年度第3回医師専門研修部会 資料1）. 2024年12月13日
+  citation: 厚生労働省 医道審議会医師分科会医師専門研修部会. 今後の専門研修制度に向けた検討について（令和6年度第3回医師専門研修部会 資料1）. 2024年12月13日
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME3_medical_education.md の出典マスター表から
+- id: SRC-5126
+  legacy_id: null
+  title: 日本専門医機構. 整備指針（第三版 2020年2月版）における「専門医の認定・更新」に関する補足説明（2024年12月20日一部改訂・理事会承認）
+  citation: 日本専門医機構. 整備指針（第三版 2020年2月版）における「専門医の認定・更新」に関する補足説明（2024年12月20日一部改訂・理事会承認）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © 日本専門医機構（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME3_medical_education.md の出典マスター表から
+- id: SRC-5127
+  legacy_id: null
+  title: 厚生労働省. 令和8年度の医師臨床研修マッチング結果をお知らせします（報道発表資料）. 2026年10月22日
+  citation: 厚生労働省. 令和8年度の医師臨床研修マッチング結果をお知らせします（報道発表資料）. 2026年10月22日
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME3_medical_education.md の出典マスター表から
+- id: SRC-5128
+  legacy_id: null
+  title: 厚生労働省. 組み合わせ決定（マッチング）について（案）. 2003年
+  citation: 厚生労働省. 組み合わせ決定（マッチング）について（案）. 2003年
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME3_medical_education.md の出典マスター表から
+- id: SRC-5129
+  legacy_id: null
+  title: 医師臨床研修マッチング協議会. 研修医マッチングの手引き（2026年度版）【6年生用・既卒者用】
+  citation: 医師臨床研修マッチング協議会. 研修医マッチングの手引き（2026年度版）【6年生用・既卒者用】
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 権利表記を確認できず（下記 §4-3）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME3_medical_education.md の出典マスター表から
+- id: SRC-5130
+  legacy_id: null
+  title: 'Driessen E, van Tartwijk J, van der Vleuten C, Wass V. Portfolios in medical education: why do they meet with mixed success? A systematic review. Med Educ. 2007;41(12):1224-1233'
+  citation: 'Driessen E, van Tartwijk J, van der Vleuten C, Wass V. Portfolios in medical education: why do they meet with mixed success? A systematic review. Med Educ. 2007;41(12):1224-1233'
+  doi: 10.1111/j.1365-2923.2007.02944.x
+  pmid: '18045373'
+  pmcid: null
+  license_note: © Wiley（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME3_medical_education.md の出典マスター表から
+- id: SRC-5131
+  legacy_id: null
+  title: 'Fatmi M, Hartling L, Hillier T, Campbell S, Oswald AE. The effectiveness of team-based learning on learning outcomes in health professions education: BEME Guide No. 30. Med Teach. 2013;35(12):e1608-e1624'
+  citation: 'Fatmi M, Hartling L, Hillier T, Campbell S, Oswald AE. The effectiveness of team-based learning on learning outcomes in health professions education: BEME Guide No. 30. Med Teach. 2013;35(12):e1608-e1624'
+  doi: 10.3109/0142159X.2013.849802
+  pmid: '24245519'
+  pmcid: null
+  license_note: © Taylor & Francis（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME3_medical_education.md の出典マスター表から
+- id: SRC-5132
+  legacy_id: null
+  title: 'World Health Organization. Patient Safety Curriculum Guide: Multi-professional Edition. Geneva: World Health Organization; 2011. ISBN 978 92 4 150195 8'
+  citation: 'World Health Organization. Patient Safety Curriculum Guide: Multi-professional Edition. Geneva: World Health Organization; 2011. ISBN 978 92 4 150195 8'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © World Health Organization 2011（All rights reserved。WHO IRIS に CC ライセンスの表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME3_medical_education.md の出典マスター表から
+- id: SRC-5133
+  legacy_id: null
+  title: 'World Health Organization. Framework for Action on Interprofessional Education and Collaborative Practice. Geneva: World Health Organization; 2010 (WHO/HRH/HPN/10.3)'
+  citation: 'World Health Organization. Framework for Action on Interprofessional Education and Collaborative Practice. Geneva: World Health Organization; 2010 (WHO/HRH/HPN/10.3)'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © World Health Organization 2010（All rights reserved。WHO IRIS に CC ライセンスの表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME3_medical_education.md の出典マスター表から

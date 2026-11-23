@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-23
 
-全 18 件のうち、監修済み 0 件。
+全 24 件のうち、監修済み 0 件。
 
 ## 制度
 
@@ -60,7 +60,25 @@
 - 出典：医師法（昭和23年法律第201号、令和3年法律第49号による改正を含む現行法）　[リンク](https://laws.e-gov.go.jp/law/323AC0000000201)（区分 GOV_JP）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-011&card_id=ME-011&version=cdb34dd37a)　（版 `cdb34dd37a`）
 
-**[ここまでの 6 件（ME-001〜ME-011）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-001%E3%80%9CME-011&cards=ME-001%2066f2fa43ce%0AME-002%20e87c52bb91%0AME-003%20648a59517f%0AME-004%205fb84ee6ea%0AME-005%20380f1ad69a%0AME-011%20cdb34dd37a)**
+### ME-020　下書き（出典の照合前）
+
+> 専門医の資格は、かつては診療科ごとの学会がそれぞれ認定していたが、厚生労働省の「専門医の在り方に関する検討会」は2013年の報告書で、中立的な第三者機関が専門医の認定と養成プログラムの評価・認定を統一的に行う新しい仕組みを提言した。これを受けて2014年に一般社団法人日本専門医機構が設立され、2018年4月から、19の基本領域（内科、小児科、皮膚科、精神科、外科、整形外科、産婦人科、眼科、耳鼻咽喉科、泌尿器科、脳神経外科、放射線科、麻酔科、病理、臨床検査、救急科、形成外科、リハビリテーション科、総合診療）で専門研修が一斉に開始された。枠組みは、基本領域の専門医を取得したうえで、より細分化されたサブスペシャルティ領域の専門医を取得する二段階制を基本とする。専門研修は、機構が認定した研修プログラムに基づき、基幹施設と連携施設からなる施設群で行われる。認定の審査は各領域学会が一次審査を行い、機構が二次審査と認定を行う。機構認定専門医の認定期間は原則として5年で、更新の際には診療実績の証明、共通講習・領域講習の受講、所定の単位の取得などが求められる。
+
+- 条件：region: 日本／対象: 医師（専門研修を受ける専攻医と専門医）
+- 不確実性：出典内の位置：2013年報告書は新しい仕組みの設計（第三者機関による認定と養成プログラムの評価・認定の統一、二段階制、更新制）を示した文書であり、実際の開始は当初目安とされた2017年度から2018年度にずれ込んだ。数値（基本領域19、開始2018年4月、認定期間5年）は資料の時点とあわせて記載した。サブスペシャルティ領域の数と構成は見直しの対象となっており、本カードでは数に触れていない。日本専門医機構の資料は補助にとどめ、主出典は厚生労働省の資料とした（依頼文の方針）。
+- 出典：厚生労働省. 専門医の在り方に関する検討会 報告書. 2013年4月22日　[リンク](https://www.mhlw.go.jp/stf/shingi/2r985200000300ju.html)（区分 GOV_JP）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-020&card_id=ME-020&version=533fb7a54c)　（版 `533fb7a54c`）
+
+### ME-021　下書き（出典の照合前）
+
+> 医師臨床研修マッチングは、臨床研修を受けようとする者（研修希望者）と臨床研修病院の研修プログラムとを、双方の希望を踏まえて、一定のアルゴリズムに従ってコンピュータで組み合わせる仕組みであり、医師の臨床研修が必修化された2004年度に導入された。実施主体は、研修希望者と研修病院の双方に対して中立的な立場にある医師臨床研修マッチング協議会である。研修希望者は、研修を希望する病院の選考手続（応募・面接・試験等）を受けたうえで、希望するプログラムを希望順位表に登録し、病院も採用したい研修希望者を希望順位表に登録する。組合せは、ゲール・シャープレーのアルゴリズム（受入保留方式）によって決定され、希望順位表に記載されていない組合せは生じない。参加は参加規約への同意を条件とし、マッチした結果はそのまま採用の内定として扱われ、参加者と病院は結果に従って研修契約を結ぶ。
+
+- 条件：region: 日本／対象: 医師（臨床研修を受けようとする研修希望者）
+- 不確実性：出典内の位置：仕組みの概要と2004年度の導入は厚生労働省の報道発表資料の説明文による。参加者数やマッチ率などの年度ごとの数値は、協議会と厚生労働省が毎年公表しているが、本カードの主張には含めていない。現行の組合せ決定には、都道府県ごとの募集定員の上限など、制度上の調整が加わっている。手引き（SRC-5129）の権利表記は、本文の取得が完了せず確認できなかったため、ライセンス区分は UNKNOWN とした。
+- 出典：厚生労働省. 令和8年度の医師臨床研修マッチング結果をお知らせします（報道発表資料）. 2026年10月22日　[リンク](https://www.mhlw.go.jp/stf/houdou/0000180824_00012.html)（区分 GOV_JP）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-021&card_id=ME-021&version=918f5f9b7d)　（版 `918f5f9b7d`）
+
+**[ここまでの 8 件（ME-001〜ME-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-001%E3%80%9CME-021&cards=ME-001%2066f2fa43ce%0AME-002%20e87c52bb91%0AME-003%20648a59517f%0AME-004%205fb84ee6ea%0AME-005%20380f1ad69a%0AME-011%20cdb34dd37a%0AME-020%20533fb7a54c%0AME-021%20918f5f9b7d)**
 
 ---
 
@@ -93,7 +111,16 @@
 - 出典：van der Vleuten CPM, Schuwirth LWT, Driessen EW, Dijkstra J, Tigelaar D, Baartman LKJ, van Tartwijk J. A model for programmatic assessment fit for purpose. Med Teach. 2012;34(3):205-214　[DOI 10.3109/0142159X.2012.652239](https://doi.org/10.3109/0142159X.2012.652239)　[PMID 22364452](https://pubmed.ncbi.nlm.nih.gov/22364452/)（区分 RESTRICTED）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-012&card_id=ME-012&version=f5106c6cb3)　（版 `f5106c6cb3`）
 
-**[ここまでの 3 件（ME-006〜ME-012）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-006%E3%80%9CME-012&cards=ME-006%2055eb75ac85%0AME-007%20bbf4ea4a24%0AME-012%20f5106c6cb3)**
+### ME-022　下書き（出典の照合前）
+
+> ポートフォリオ（学習の記録や省察を蓄積するファイル）を医学教育で用いることの効果について、文献データベース等から得られた1,939件のうち実証研究30件を対象とした系統的レビューでは、効果の報告は一様ではなかった。肯定的な効果が最も強く示されたのは卒前教育の段階だった。成功と関連する要因として、目的と手順が明確に伝達されていること、カリキュラムや評価と統合されていること、構造に柔軟性があること、メンター（指導者）による支援があること、実施のしやすさを高め所要時間を減らす工夫があることが挙げられた。評価者間の信頼性は中程度と報告され、全体的な評価基準を用いることや評価者同士の討議が有益だった。形成的評価と総括的評価の併用は可能とされた一方、評価に用いられないポートフォリオは、他の総括的評価の手段との競合で埋没しやすいことも示された。著者らは、ポートフォリオが能力の発達を支え評価する手段として機能するには、カリキュラムへの確かな組み込みと指導者の支援が欠かせないと結論づけた。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：数値（1,939件から30件）と効果の方向、成功要因は原著の抄録で確認した。研究間の違いが大きいため統計的なメタ解析は行われていない。抄録の結果を順番どおりに訳すことはせず、必要な事実を選んで自分の構成で記載した。対象は医学教育の全段階（卒前・卒後・生涯教育）を含む。
+- 出典：Driessen E, van Tartwijk J, van der Vleuten C, Wass V. Portfolios in medical education: why do they meet with mixed success? A systematic review. Med Educ. 2007;41(12):1224-1233　[DOI 10.1111/j.1365-2923.2007.02944.x](https://doi.org/10.1111/j.1365-2923.2007.02944.x)　[PMID 18045373](https://pubmed.ncbi.nlm.nih.gov/18045373/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-022&card_id=ME-022&version=c1868c0ea5)　（版 `c1868c0ea5`）
+
+**[ここまでの 4 件（ME-006〜ME-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-006%E3%80%9CME-022&cards=ME-006%2055eb75ac85%0AME-007%20bbf4ea4a24%0AME-012%20f5106c6cb3%0AME-022%20c1868c0ea5)**
 
 ---
 
@@ -144,7 +171,16 @@
 - 出典：Cook DA, Levinson AJ, Garside S, Dupras DM, Erwin PJ, Montori VM. Internet-based learning in the health professions: a meta-analysis. JAMA. 2008;300(10):1181-1196　[DOI 10.1001/jama.300.10.1181](https://doi.org/10.1001/jama.300.10.1181)　[PMID 18780847](https://pubmed.ncbi.nlm.nih.gov/18780847/)（区分 RESTRICTED）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-016&card_id=ME-016&version=55f6231a95)　（版 `55f6231a95`）
 
-**[ここまでの 5 件（ME-009〜ME-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-009%E3%80%9CME-016&cards=ME-009%202eaee9084e%0AME-013%206d3abc022a%0AME-014%20cd0147513b%0AME-015%20b2d53aacb9%0AME-016%2055f6231a95)**
+### ME-023　下書き（出典の照合前）
+
+> チーム基盤型学習（TBL）は、学習者が事前に学習したうえで、個人テスト（iRAT）、チームテスト（tRAT）、応用演習の順に進める能動学習法で、他の能動学習法に比べて教員の負担が少ないとされる。保健医療職教育におけるTBLの学習成果への効果を検討したBEME系統的レビュー（BEME Guide No. 30）では、330件の題目から14件の研究が選ばれた。知識のスコアについては、14件のうち7件でTBL群の有意な上昇が報告され、4件では差がなく、3件では上昇は見られたものの統計的な有意性への言及がなかった。学習者の反応は一様ではなく、TBL群で有意な改善を報告した研究は1件、比較対照の側が有意に好意的だった研究も1件あった。著者らは、知識のスコアが改善する一方で学習者の反応が分かれたのは、学習者中心の方法であるTBLが学習者に求める負荷の大きさを反映している可能性があると考察した。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：数値（330件から14件、知識スコアの内訳）と効果の方向は原著の抄録で確認した。抄録の結果を順番どおりに訳すことはせず、必要な事実を選んで自分の構成で記載した。対象は保健医療職教育全般であり、医学教育のみの数値ではない。TBLの進め方（iRAT・tRAT・応用演習）は方法の概念名として記載した。
+- 出典：Fatmi M, Hartling L, Hillier T, Campbell S, Oswald AE. The effectiveness of team-based learning on learning outcomes in health professions education: BEME Guide No. 30. Med Teach. 2013;35(12):e1608-e1624　[DOI 10.3109/0142159X.2013.849802](https://doi.org/10.3109/0142159X.2013.849802)　[PMID 24245519](https://pubmed.ncbi.nlm.nih.gov/24245519/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-023&card_id=ME-023&version=118af08ed9)　（版 `118af08ed9`）
+
+**[ここまでの 6 件（ME-009〜ME-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-009%E3%80%9CME-023&cards=ME-009%202eaee9084e%0AME-013%206d3abc022a%0AME-014%20cd0147513b%0AME-015%20b2d53aacb9%0AME-016%2055f6231a95%0AME-023%20118af08ed9)**
 
 ---
 
@@ -187,7 +223,27 @@
 - 出典：West CP, Dyrbye LN, Erwin PJ, Shanafelt TD. Interventions to prevent and reduce physician burnout: a systematic review and meta-analysis. Lancet. 2016;388(10057):2272-2281　[DOI 10.1016/S0140-6736(16)31279-X](https://doi.org/10.1016/S0140-6736(16)31279-X)　[PMID 27692469](https://pubmed.ncbi.nlm.nih.gov/27692469/)（区分 RESTRICTED）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-019&card_id=ME-019&version=487b1792aa)　（版 `487b1792aa`）
 
-**[ここまでの 4 件（ME-010〜ME-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-010%E3%80%9CME-019&cards=ME-010%20c5bca5ebf8%0AME-017%20e730d45305%0AME-018%20d4c03c5388%0AME-019%20487b1792aa)**
+### ME-024　下書き（出典の照合前）
+
+> 世界保健機関（WHO）は2011年、医療専門職の学校教育で患者安全を教えるための「患者安全カリキュラムガイド（多職種版）」を公表した。対象は医学・歯学・助産・看護・薬学の学生であり、すべての医療専門職の継続的な研修にも使える構成とされている。ガイドは2部構成で、Part A は患者安全の教育を導入し広げるための教員向けガイド、Part B は授業にそのまま使える11のトピックからなる。Part B のトピックは、患者安全とは何か、ヒューマンファクターズの適用が重要である理由、システムと複雑性が患者ケアに及ぼす影響、効果的なチームの一員として働くこと、エラーから学んで害を防ぐこと、臨床リスクの理解と管理、質改善の方法を用いたケアの改善、患者と介護者との関わり、感染予防と管理、侵襲的処置における患者安全、薬剤の安全性の改善、である。
+
+- 条件：region: 国際／対象: 医療系の学生（医学・歯学・助産・看護・薬学）
+- 不確実性：出典内の位置：構成（Part A・Part B）と11トピックは本文の目次で確認した。トピック名は概念名の並びとして挙げ、各トピックの説明文は訳していない（依頼文の注意1）。ライセンスは WHO IRIS の登録情報と本文の権利表示で確認し、CC ライセンスの表示がないため RESTRICTED とした。日本語版は東京医科大学から刊行されているが、本カードは英語版に基づく。コアカリ第1層には患者安全の独立した項目がないため、説明文に患者安全を含む CS（患者ケアのための診療技能）を付けた。
+- 出典：World Health Organization. Patient Safety Curriculum Guide: Multi-professional Edition. Geneva: World Health Organization; 2011. ISBN 978 92 4 150195 8　[リンク](https://iris.who.int/handle/10665/44641)（区分 RESTRICTED）
+- 出題基準：－　コアカリ：CS (id: JnGV10w)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-024&card_id=ME-024&version=64a85ffd1c)　（版 `64a85ffd1c`）
+
+### ME-025　下書き（出典の照合前）
+
+> 多職種連携教育（IPE）は、異なる職種の学習者が、互いの職種の役割や専門性を理解し合い、将来チームで協働して働くための準備をする教育の進め方を指す。世界保健機関（WHO）は2010年、「多職種連携教育と協働実践のための行動枠組み」を公表し、IPE を、協働実践に対応できる保健医療人材を育てるための方策として位置づけた。この枠組みでは、IPE の進め方を左右する仕組みとして教育者とカリキュラムに関する仕組みを整理し、現場での協働実践を左右する仕組みとして、制度の運営、業務の進め方、職場の文化や環境などに関する仕組みを整理して、各国や各機関が自国の状況に合わせて検討する際の材料を示している。枠組みが対象とする保健医療人材は、医師や看護師などの専門職に限らず、健康に関わる幅広い働き手を含む。
+
+- 条件：region: 国際／対象: 医療系の学生と医療専門職（全職種）
+- 不確実性：IPE の定義について：WHO の枠組みは、英国の多職種連携教育推進センター（CAIPE）の定義（2つ以上の職種の学習者が互いについて・互いから・互いと共に学ぶ、という趣旨の定義文）を採用している。主張文ではこの定義文を訳して用いず、IPE が何を指すかを自分の言葉で説明した（依頼文の注意1）。枠組み文書には ISBN は付されておらず、文書番号は WHO/HRH/HPN/10.3 である（WHO IRIS の登録情報で確認）。ライセンスは本文の権利表示（All rights reserved）と IRIS の登録情報で確認し、CC ライセンスの表示がないため RESTRICTED とした。
+- 出典：World Health Organization. Framework for Action on Interprofessional Education and Collaborative Practice. Geneva: World Health Organization; 2010 (WHO/HRH/HPN/10.3)　[リンク](https://iris.who.int/handle/10665/70185)（区分 RESTRICTED）
+- 出題基準：－　コアカリ：IP (id: JnGV11A)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-025&card_id=ME-025&version=2717f45159)　（版 `2717f45159`）
+
+**[ここまでの 6 件（ME-010〜ME-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-010%E3%80%9CME-025&cards=ME-010%20c5bca5ebf8%0AME-017%20e730d45305%0AME-018%20d4c03c5388%0AME-019%20487b1792aa%0AME-024%2064a85ffd1c%0AME-025%202717f45159)**
 
 ---
 
