@@ -249,6 +249,41 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME1_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+- id: ME-008
+  domain: ME
+  subdomain: 評価
+  assertion:
+    plain_statement_ja: 臨床教育におけるフィードバックとは、教育者が学習者の臨床場面での行動を観察し、その観察に基づいて学習者へ情報を返すことで、学習者がその後の実践で自らの行動を改善していけるよう支える働きをいう。フィードバックは臨床技能の修得に欠かせない過程であるが、臨床現場では省略されたり、不適切に行われたりしやすい。効果を上げるためには、フィードバックと評価（判定）とを区別することと、学習者本人ではなく、観察できる行動に焦点を当てることが重要であるとされる。
+    condition:
+      region: 国際
+      対象: 教育者
+    differential: null
+    common_misconception: null
+  provenance:
+    source_ref: SRC-5111
+    source: Ende J. Feedback in clinical medical education. JAMA. 1983;250(6):777-781
+    doi: null
+    pmid: '6876333'
+    pmcid: null
+    url: https://pubmed.ncbi.nlm.nih.gov/6876333/
+    source_license: © American Medical Association（JAMA、CC表示なし）
+    legal_basis: B
+    source_class: RESTRICTED
+    corroboration: null
+  uncertainty: 原著の抄録で確認した範囲（フィードバックの定義、評価との区別、観察可能な行動への焦点）で記載した。具体的な進め方の手順は原著本文のガイドライン部分に基づくため、本カードには含めていない。原著にDOIは付与されていない。第1文は原著の定義文の翻訳ではなく、概念を自作の文で構成し直した（2026-11-23改訂）。
+  curriculum:
+    kokushi: null
+    core_curriculum: null
+  publication_info:
+    created: '2026-11-23'
+    verifier: null
+    verified_at: null
+    status: draft
+    superseded_by: null
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 取り込み：raw/ME1_medical_education.md の ME-008 は第1文が Ende 1983 の定義文の和訳にあたる疑いで保留していた。作り手が第1文だけを書き直した raw/ME008_revision_20261123.md から取り込んだ（三原の判断：書き直しで対応、proposals/medical_education/ME-008_hold_20261123.md の案1）。
 - id: ME-009
   domain: ME
   subdomain: 教育手法

@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-23
 
-全 24 件のうち、監修済み 0 件。
+全 25 件のうち、監修済み 0 件。
 
 ## 制度
 
@@ -105,6 +105,15 @@
 - 出典：ten Cate O. Entrustability of professional activities and competency-based training. Med Educ. 2005;39(12):1176-1177　[DOI 10.1111/j.1365-2929.2005.02341.x](https://doi.org/10.1111/j.1365-2929.2005.02341.x)　[PMID 16313574](https://pubmed.ncbi.nlm.nih.gov/16313574/)（区分 RESTRICTED）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-007&card_id=ME-007&version=bbf4ea4a24)　（版 `bbf4ea4a24`）
 
+### ME-008　下書き（出典の照合前）
+
+> 臨床教育におけるフィードバックとは、教育者が学習者の臨床場面での行動を観察し、その観察に基づいて学習者へ情報を返すことで、学習者がその後の実践で自らの行動を改善していけるよう支える働きをいう。フィードバックは臨床技能の修得に欠かせない過程であるが、臨床現場では省略されたり、不適切に行われたりしやすい。効果を上げるためには、フィードバックと評価（判定）とを区別することと、学習者本人ではなく、観察できる行動に焦点を当てることが重要であるとされる。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：原著の抄録で確認した範囲（フィードバックの定義、評価との区別、観察可能な行動への焦点）で記載した。具体的な進め方の手順は原著本文のガイドライン部分に基づくため、本カードには含めていない。原著にDOIは付与されていない。第1文は原著の定義文の翻訳ではなく、概念を自作の文で構成し直した（2026-11-23改訂）。
+- 出典：Ende J. Feedback in clinical medical education. JAMA. 1983;250(6):777-781　[PMID 6876333](https://pubmed.ncbi.nlm.nih.gov/6876333/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-008&card_id=ME-008&version=813131233f)　（版 `813131233f`）
+
 ### ME-012　下書き（出典の照合前）
 
 > プログラム的評価は、評価を個々の試験としてではなく、学習の過程全体にわたるプログラムとして設計する考え方である。個々の評価の機会（データポイント）は、それ自体では進級や合否のような重大な判定には用いず、学習とフィードバックの価値を最大化するものとして数多く蓄積する。重大な判定は、複数の方法と時点から得られた多数のデータポイントを集約したうえで、専門家の判断を加えて行う。専門家の判断には主観が伴うため、評価のサンプリングを広げることや、質的研究の基準に由来する手続きによって偏りを減らすことが重視される。訓練・評価・学習者支援を繰り返す過程の中に、集約したデータに基づく中間と最終の評価の機会を組み込む形が、モデルとして提案されている。
@@ -123,7 +132,7 @@
 - 出典：Driessen E, van Tartwijk J, van der Vleuten C, Wass V. Portfolios in medical education: why do they meet with mixed success? A systematic review. Med Educ. 2007;41(12):1224-1233　[DOI 10.1111/j.1365-2923.2007.02944.x](https://doi.org/10.1111/j.1365-2923.2007.02944.x)　[PMID 18045373](https://pubmed.ncbi.nlm.nih.gov/18045373/)（区分 RESTRICTED）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-022&card_id=ME-022&version=c1868c0ea5)　（版 `c1868c0ea5`）
 
-**[ここまでの 4 件（ME-006〜ME-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-006%E3%80%9CME-022&cards=ME-006%2055eb75ac85%0AME-007%20bbf4ea4a24%0AME-012%20f5106c6cb3%0AME-022%20c1868c0ea5)**
+**[ここまでの 5 件（ME-006〜ME-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-006%E3%80%9CME-022&cards=ME-006%2055eb75ac85%0AME-007%20bbf4ea4a24%0AME-008%20813131233f%0AME-012%20f5106c6cb3%0AME-022%20c1868c0ea5)**
 
 ---
 
