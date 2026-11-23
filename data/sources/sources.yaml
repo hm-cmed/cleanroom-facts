@@ -158,11 +158,14 @@
   license_note: 未確認
   legacy_basis_tag: E
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-12'
     by: claude-code
     change: 取り込み：raw/01b_esophagus_v2.md の SRC表 SRC-11 から（IDを3桁に正規化、basis_tag E を CLAUDE.md 2-3 第1回規則で変換）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（カードとの不整合の解消。Wiley（Neurogastroenterol Motil）、Crossref に CC ライセンスなし。カード ES-025〜031 の記載に合わせる。UNKNOWN と RESTRICTED は扱いが同じで、使い方は変わらない）
 - id: SRC-012
   legacy_id: SRC-12
   title: Brooks PJ, Alcohol flushing response
@@ -10762,11 +10765,14 @@
   license_note: ライセンス表示を確認できず
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（カードとの不整合の解消。出版社（Oxford University Press、J Clin Endocrinol Metab）の通常の権利表示で CC 表示なし。カード EN-022 の記載に合わせる。UNKNOWN と RESTRICTED は扱いが同じで、使い方は変わらない）
 - id: SRC-880
   legacy_id: null
   title: Higham CE, Johannsson G, Shalet SM. Hypopituitarism. The Lancet. 2016;388(10058):2403-2415.

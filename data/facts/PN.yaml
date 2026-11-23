@@ -882,7 +882,7 @@
     url: https://doi.org/10.1177/0333102417738202
     source_license: ライセンス未確認（Cephalalgia、SAGE、Crossref の license 欄は TDM 用ライセンスのみ。分類本文は国際頭痛学会が公開）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ73 2026-11-15）：Henriques G, Pistola M, Resende C, Yaroshyk T, Mezias I. Tolosa-Hunt Syndrome: A Diagnostic Challenge and the Complexities of Long-Term Corticosteroid Management. Cureus. 2026;18(9):e116651（PMID: 42910046、DOI: 10.7759/cureus.116651、PMCID: PMC13686231、https://pmc.ncbi.nlm.nih.gov/articles/PMC13686231/）。裏づける部分：候補（CC BY の症例報告）が ICHD-3 の診断基準を再掲する：海綿静脈洞・上眼窩裂・眼窩の肉芽腫性炎症による一側性の眼窩・眼窩周囲痛と、同側の第III・IV・VI脳神経のいずれか1つ以上の麻痺を来し、診断には MRI または生検による肉芽腫性炎症の証明を要すること。あわせて「Tolosa-Hunt 症候群は本質的に除外診断である」ことも明記する。カードの定義と一致する。数値の照合：数値なし（定義のカード）。留保：カード側の source_class は UNKNOWN だが、マスター（SRC-1721）の区分は RESTRICTED で、targets.json の区分とも一致する。区分自体は RESTRICTED が正しい（SAGE。Crossref の版ライセンスは TDM のみ）。カード・マスター間の不整合として申し送る（申し送りの節参照）'
   uncertainty: 臨床的にはステロイドへの迅速な反応性（疼痛は24〜72時間以内に改善することが多い）が特徴とされるが、ステロイド反応性そのものは ICHD-3 の診断基準には含まれていない。有痛性外眼筋麻痺の鑑別（腫瘍、動脈瘤などの血管病変、感染症、他の炎症性疾患）の除外と経過観察が不可欠である。
   curriculum:
@@ -904,6 +904,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ73 2026-11-15）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典マスター SRC-1721 の区分に合わせる不整合の解消。扱いは同じ）
 - id: PN-025
   domain: PN
   subdomain: 三叉神経痛

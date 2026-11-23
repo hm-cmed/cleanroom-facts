@@ -308,7 +308,7 @@
 
 - 条件：population: 有痛性外眼筋麻痺を呈する患者／region: 国際
 - 不確実性：臨床的にはステロイドへの迅速な反応性（疼痛は24〜72時間以内に改善することが多い）が特徴とされるが、ステロイド反応性そのものは ICHD-3 の診断基準には含まれていない。有痛性外眼筋麻痺の鑑別（腫瘍、動脈瘤などの血管病変、感染症、他の炎症性疾患）の除外と経過観察が不可欠である。
-- 出典：Headache Classification Committee of the International Headache Society (IHS). The International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1-211　[DOI 10.1177/0333102417738202](https://doi.org/10.1177/0333102417738202)　[PMID 29368949](https://pubmed.ncbi.nlm.nih.gov/29368949/)（区分 UNKNOWN）
+- 出典：Headache Classification Committee of the International Headache Society (IHS). The International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1-211　[DOI 10.1177/0333102417738202](https://doi.org/10.1177/0333102417738202)　[PMID 29368949](https://pubmed.ncbi.nlm.nih.gov/29368949/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-5-C-③（Tolosa-Hunt症候群、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PN-024&card_id=PN-024&version=217e9d19ac)　（版 `217e9d19ac`）
 

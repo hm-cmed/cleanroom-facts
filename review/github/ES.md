@@ -944,7 +944,7 @@
 - 鑑別・補足：CTによる重症度評価
 - よくある誤解：grade 4（穿孔）を加えた改変版もある
 - 不確実性：Zargar原著（Gastrointest Endosc 1991）は未閲覧
-- 出典：Cheng HT, et al. Caustic ingestion in adults. BMC Gastroenterol 2008（表1）　[DOI 10.1186/1471-230X-8-31](https://doi.org/10.1186/1471-230X-8-31)　[PMID 18655708](https://pubmed.ncbi.nlm.nih.gov/18655708/)（区分 RESTRICTED）
+- 出典：Cheng HT, et al. Caustic ingestion in adults. BMC Gastroenterol 2008（表1）　[DOI 10.1186/1471-230X-8-31](https://doi.org/10.1186/1471-230X-8-31)　[PMID 18655708](https://pubmed.ncbi.nlm.nih.gov/18655708/)（区分 OPEN）
 - 出題基準：該当なし　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-074&card_id=ES-074&version=ae70a85801)　（版 `ae70a85801`）
 
