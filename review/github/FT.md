@@ -152,7 +152,7 @@
 
 - 条件：region: 米国／対象: 同種免疫のある妊婦
 - 不確実性：出典のライセンス表示を Europe PMC で確認できなかったため source_class は UNKNOWN とした（JAMA Network Open は通常 CC BY のため、取り込み側で CC BY が確認できれば OPEN に変わりうる）。抗D人免疫グロブリン製剤は国内承認済みで、妊娠中投与の効能は公知申請を経て追加された経緯がある（投与の主体は母体管理で、感作予防は PG の SRC-3178 が正）。個別の推奨文は本文未照合のため主張に入れていない。ニポカリマブは HDFN の適応では国内未承認で治験中のため本カードでは扱わない
-- 出典：Moise KJ Jr, Markham KB, Spinella PC, et al. A Clinical Practice Guideline for the Management of Pregnancy Alloimmunized to Red Blood Cell Antigens. JAMA Netw Open. 2025;8(11):e2544649　[DOI 10.1001/jamanetworkopen.2025.44649](https://doi.org/10.1001/jamanetworkopen.2025.44649)　[PMID 41284292](https://pubmed.ncbi.nlm.nih.gov/41284292/)（区分 UNKNOWN）
+- 出典：Moise KJ Jr, Markham KB, Spinella PC, et al. A Clinical Practice Guideline for the Management of Pregnancy Alloimmunized to Red Blood Cell Antigens. JAMA Netw Open. 2025;8(11):e2544649　[DOI 10.1001/jamanetworkopen.2025.44649](https://doi.org/10.1001/jamanetworkopen.2025.44649)　[PMID 41284292](https://pubmed.ncbi.nlm.nih.gov/41284292/)（区分 OPEN）
 - 出題基準：医学各論 Ⅰ-3-A-⑥（胎児新生児溶血性疾患<HDFN>、血液型不適合妊娠、c）　コアカリ：PS-02-11-05 (id: JkxnuSU)；PS-02-11-03 (id: JkxnuSM)；TBL-02-10-013 (id: JlAKpqo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20FT-011&card_id=FT-011&version=8cad045fac)　（版 `8cad045fac`）
 

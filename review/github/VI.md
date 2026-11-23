@@ -224,7 +224,7 @@
 
 - 条件：region: 日本／対象: 小児
 - 不確実性：数値は大阪府の小児を対象とした出典の抄録で確認した。出典のライセンス表示は Crossref で確認できず UNKNOWN とした（J-STAGE の公開形態とあわせて要最終確認）。
-- 出典：Koyama M, Hiroi S, Hirai Y, Kaida A. Prevalence of Human Adenovirus Type 3 Associated with Pharyngoconjunctival Fever in Children in Osaka, Japan during and after the COVID-19 Pandemic. Jpn J Infect Dis. 2024;77(5):292-295.　[DOI 10.7883/yoken.JJID.2024.035](https://doi.org/10.7883/yoken.JJID.2024.035)　[PMID 38825454](https://pubmed.ncbi.nlm.nih.gov/38825454/)（区分 UNKNOWN）
+- 出典：Koyama M, Hiroi S, Hirai Y, Kaida A. Prevalence of Human Adenovirus Type 3 Associated with Pharyngoconjunctival Fever in Children in Osaka, Japan during and after the COVID-19 Pandemic. Jpn J Infect Dis. 2024;77(5):292-295.　[DOI 10.7883/yoken.JJID.2024.035](https://doi.org/10.7883/yoken.JJID.2024.035)　[PMID 38825454](https://pubmed.ncbi.nlm.nih.gov/38825454/)（区分 OPEN）
 - 出題基準：医学各論 Ⅻ-1-A-⑧（アデノウイルス感染症、a）　コアカリ：PS-03-03-01 (id: JkxnuUg)；PS-01-03-10 (id: JkxnuLg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20VI-018&card_id=VI-018&version=533f32cd82)　（版 `533f32cd82`）
 

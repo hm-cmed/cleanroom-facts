@@ -613,9 +613,9 @@
     pmid: '38825454'
     pmcid: null
     url: https://doi.org/10.7883/yoken.JJID.2024.035
-    source_license: Crossref にライセンス表示なし
+    source_license: CC BY 4.0（JJID の公式投稿規程）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
     corroboration: null
   uncertainty: 数値は大阪府の小児を対象とした出典の抄録で確認した。出典のライセンス表示は Crossref で確認できず UNKNOWN とした（J-STAGE の公開形態とあわせて要最終確認）。
   curriculum:
@@ -631,6 +631,9 @@
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/33_if_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に変更（SRC-2027 と同じ）。作り手（Muse）の照合（reports/id_check_20261123b_muse.md、2026-11-23）
 - id: VI-019
   domain: VI
   subdomain: アデノウイルス感染症

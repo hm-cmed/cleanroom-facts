@@ -45,10 +45,10 @@
     common_misconception: null
   provenance:
     source_ref: SRC-4026
-    source: 'Li Y, Hecht SS. Carcinogenic components of tobacco and tobacco smoke: A 2022 update. Food Chem Toxicol. 2022;167:113179'
+    source: 'Li Y, Hecht SS. Carcinogenic components of tobacco and tobacco smoke: A 2022 update. Food Chem Toxicol. 2022;165:113179'
     doi: 10.1016/j.fct.2022.113179
     pmid: '35643228'
-    pmcid: null
+    pmcid: PMC9616535
     url: https://doi.org/10.1016/j.fct.2022.113179
     source_license: 出版社の著作物（CC表示なし）
     legal_basis: B
@@ -71,6 +71,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN／OPEN、作り手の調査バッチ93 2026-11-15）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: 出典の巻を 167 から 165 に訂正、PMCID PMC9616535（著者原稿）を補完（SRC-4026 と同じ）。作り手（Muse）の照合（reports/id_check_20261123b_muse.md、2026-11-23）
 - id: SM-003
   domain: SM
   subdomain: タバコ煙中の有害物質、未成年者の喫煙、受動喫煙

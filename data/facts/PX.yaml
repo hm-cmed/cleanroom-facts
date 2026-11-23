@@ -18,7 +18,7 @@
     source_license: CC 表示なし
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ89 2026-11-15）：Oyesanya M, Correll CU. From observation to evidence: harnessing the mental status examination as a real-world data source in clinical research. Front Health Serv. 2026;6:1784842（PMID: 42564403、DOI: 10.3389/frhs.2026.1784842、PMCID: PMC13442830、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補の Table 1「MSE の中核領域」が Appearance・Behavior・Affect・Mood・Speech・Thought Process・Thought Content・Cognition・Insight を挙げ、カードの9領域のうち8領域（外見・行動・感情状態（Affect と Mood に分かれる）・言語・思考過程・思考内容・認知・洞察）を再掲する。知覚は候補の中核領域表に含まれない。12冊の教科書で構成要素がばらつき標準化された枠組みがないという知見そのものは候補に再掲されない。数値の照合：数値なし（12冊の教科書という対象数は候補に現れない。領域の対応は上記のとおりで、知覚の欠落があるため完全一致ではない）。留保：主出典の刊行版ライセンスは Crossref ではテキストマイニング用ライセンスのみ、Europe PMC でも非 OA・PMC 未収載で、RESTRICTED は正しい。マスターの PMID 欄が空だが、PMID 40495096 が当該論文（マスターの書誌どおり）のものであることを Europe PMC の個別レコードで確認した（識別子補完候補）。【要・正本確認】カード側の書誌表記（Daza O, et al. What Are the Components of the Mental Status Exam? 49(6):595-599）は実在の論文と食い違い、題名での検索でも該当する論文はない。カードの DOI・PMID はマスターの論文（教科書のスコーピングレビュー）を指しており主張との対応は保たれるが、カード側の書誌（題名・著者・巻号・ページ）の訂正候補として申し送る（カードは変更しない）'
+    corroboration: '自由に使える資料による裏づけ（CC BY 4.0（OPEN）、作り手の調査バッチ89 2026-11-15）：Oyesanya M, Correll CU. From observation to evidence: harnessing the mental status examination as a real-world data source in clinical research. Front Health Serv. 2026;6:1784842（PMID: 42564403、DOI: 10.3389/frhs.2026.1784842、PMCID: PMC13442830、https://creativecommons.org/licenses/by/4.0/）。裏づける部分：部分：候補の Table 1「MSE の中核領域」が Appearance・Behavior・Affect・Mood・Speech・Thought Process・Thought Content・Cognition・Insight を挙げ、カードの9領域のうち8領域（外見・行動・感情状態（Affect と Mood に分かれる）・言語・思考過程・思考内容・認知・洞察）を再掲する。知覚は候補の中核領域表に含まれない。12冊の教科書で構成要素がばらつき標準化された枠組みがないという知見そのものは候補に再掲されない。数値の照合：数値なし（12冊の教科書という対象数は候補に現れない。領域の対応は上記のとおりで、知覚の欠落があるため完全一致ではない）。留保：主出典の刊行版ライセンスは Crossref ではテキストマイニング用ライセンスのみ、Europe PMC でも非 OA・PMC 未収載で、RESTRICTED は正しい。マスターの PMID 欄が空だが、PMID 40495096 が当該論文（マスターの書誌どおり）のものであることを Europe PMC の個別レコードで確認した（識別子補完候補）。（カード側の書誌の食い違いの指摘は、2026-11-23 の照合でカードとマスターの書誌が実在の論文と一致することを確認し、解消済み）'
   uncertainty: 国内に MSE そのものを対象とする学会ガイドラインは確認できなかった。9領域は教科書横断の共通項であり、公式に定められた標準様式ではない。
   curriculum:
     kokushi: null
@@ -36,6 +36,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（CC BY 4.0（OPEN）、作り手の調査バッチ89 2026-11-15）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration 末尾の【要・正本確認】の申し送りを解消済みの注記に置き換えた（現行の書誌は全項目一致）。作り手（Muse）の照合（reports/id_check_20261123b_muse.md、2026-11-23）
 - id: PX-002
   domain: PX
   subdomain: 精神科薬物療法の総論

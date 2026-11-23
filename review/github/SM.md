@@ -22,9 +22,9 @@
 
 - 条件：region: 国際／対象: タバコ煙に曝露される者
 - 不確実性：物質数と発がん性分類は2022年の総説の抄録とIARCモノグラフの公開資料で確認した範囲である。国内のたばこ煙の成分分析の実測値を示す政府資料は本体を照合していないため、主張に入れていない。
-- 出典：Li Y, Hecht SS. Carcinogenic components of tobacco and tobacco smoke: A 2022 update. Food Chem Toxicol. 2022;167:113179　[DOI 10.1016/j.fct.2022.113179](https://doi.org/10.1016/j.fct.2022.113179)　[PMID 35643228](https://pubmed.ncbi.nlm.nih.gov/35643228/)（区分 RESTRICTED）
+- 出典：Li Y, Hecht SS. Carcinogenic components of tobacco and tobacco smoke: A 2022 update. Food Chem Toxicol. 2022;165:113179　[DOI 10.1016/j.fct.2022.113179](https://doi.org/10.1016/j.fct.2022.113179)　[PMID 35643228](https://pubmed.ncbi.nlm.nih.gov/35643228/)（区分 RESTRICTED）
 - 出題基準：医学各論 ⅩⅢ-3-A-①（タバコ煙中の有害物質、未成年者の喫煙、受動喫煙、a）　コアカリ：GE-04-01-06 (id: JkxpswA)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SM-002&card_id=SM-002&version=dddcc29e48)　（版 `dddcc29e48`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SM-002&card_id=SM-002&version=42caa7d33e)　（版 `42caa7d33e`）
 
 ### SM-003　下書き（出典の照合前）
 
@@ -36,7 +36,7 @@
 - 出題基準：医学各論 ⅩⅢ-3-A-①（タバコ煙中の有害物質、未成年者の喫煙、受動喫煙、a）　コアカリ：GE-04-01-06 (id: JkxpswA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SM-003&card_id=SM-003&version=5009c2e196)　（版 `5009c2e196`）
 
-**[ここまでの 3 件（SM-001〜SM-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SM-001%E3%80%9CSM-003&cards=SM-001%20b1ed0743cd%0ASM-002%20dddcc29e48%0ASM-003%205009c2e196)**
+**[ここまでの 3 件（SM-001〜SM-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20SM-001%E3%80%9CSM-003&cards=SM-001%20b1ed0743cd%0ASM-002%2042caa7d33e%0ASM-003%205009c2e196)**
 
 ---
 

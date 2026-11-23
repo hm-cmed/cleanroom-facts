@@ -1555,19 +1555,22 @@
   source: National Cancer Institute. Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ)–Health Professional Version（最終更新 2025-05-09）
 - id: SRC-096
   legacy_id: null
-  title: Ohtsuka T, et al. International evidence-based Kyoto guidelines for the management of intraductal papillary mucinous neoplasm of the pancreas. Pancreatology 2024;24:255-270
-  citation: Ohtsuka T, et al. International evidence-based Kyoto guidelines for the management of intraductal papillary mucinous neoplasm of the pancreas. Pancreatology 2024;24:255-270
+  title: Ohtsuka T, et al. International evidence-based Kyoto guidelines for the management of intraductal papillary mucinous neoplasm of the pancreas. Pancreatology 2024;24(2):255-270
+  citation: Ohtsuka T, et al. International evidence-based Kyoto guidelines for the management of intraductal papillary mucinous neoplasm of the pancreas. Pancreatology 2024;24(2):255-270
   doi: 10.1016/j.pan.2023.12.009
   pmid: '38182527'
   pmcid: null
-  license_note: 未確認（抄録のみ参照）
+  license_note: CC BY-NC-ND 4.0（Crossref の license 欄、刊行版 vor、開始日 2023-12-31。2026-11-23 確認。出版社ページは確認できず）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-10-14'
     by: claude-code
     change: 取り込み：raw/05_biliary_pancreas.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（Crossref で CC BY-NC-ND 4.0 を確認）。号 (2) を補った。作り手（Muse）の照合（reports/id_check_20261123b_muse.md、2026-11-23）
   source: Ohtsuka T, et al. International evidence-based Kyoto guidelines for the management of intraductal papillary mucinous neoplasm of the pancreas. Pancreatology 2024;24:255-270
 - id: SRC-097
   legacy_id: null
@@ -23767,14 +23770,17 @@
   doi: 10.7883/yoken.JJID.2024.035
   pmid: '38825454'
   pmcid: null
-  license_note: Crossref にライセンス表示なし
+  license_note: CC BY 4.0（JJID 公式の投稿規程 Instructions to Authors 2024-08-13 版「JJID articles are published open access under a CC BY license」、著作権は著者。https://www.niid.jihs.go.jp/images/jjid/Instructions_to_Authors_240813.pdf、2026-11-23 確認）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-29'
     by: claude-code
     change: 取り込み：raw/33_if_a.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に変更（JJID の公式投稿規程で CC BY 4.0 を確認）。作り手（Muse）の照合（reports/id_check_20261123b_muse.md、2026-11-23）
 - id: SRC-2028
   legacy_id: null
   title: Jhanji V, Chan TCY, Li EYM, Agarwal K, Vajpayee RB. Adenoviral keratoconjunctivitis. Surv Ophthalmol. 2015;60(5):435-443
@@ -26151,7 +26157,7 @@
   citation: Adewoyin AS, Nwogoh B. Peripheral blood film - a review. Ann Ib Postgrad Med. 2014;12(2):71-79
   doi: null
   pmid: '25960697'
-  pmcid: PMC7127472
+  pmcid: PMC4415389
   license_note: CC BY-NC 3.0（作り手が Europe PMC の表示で確認、2026-11-11）。旧記録：未確認
   legacy_basis_tag: null
   legal_basis: B
@@ -26166,6 +26172,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: source_class を UNKNOWN から RESTRICTED に明確化（三原の承認）
+  - date: '2026-11-23'
+    by: claude-code
+    change: PMCID を PMC7127472（別論文 Tefferi 2005 のもの）から PMC4415389 に訂正。ライセンス CC BY-NC 3.0 は PMC 版の表示で確認。作り手（Muse）の照合（reports/id_check_20261123b_muse.md、2026-11-23）
 - id: SRC-2482
   legacy_id: null
   title: 特発性造血障害に関する調査研究班『自己免疫性溶血性貧血診療の参照ガイド 令和4年度改訂版』（2023年3月）
@@ -30110,16 +30119,19 @@
   title: Moise KJ Jr, Markham KB, Spinella PC, et al. A Clinical Practice Guideline for the Management of Pregnancy Alloimmunized to Red Blood Cell Antigens. JAMA Netw Open. 2025;8(11):e2544649
   citation: Moise KJ Jr, Markham KB, Spinella PC, et al. A Clinical Practice Guideline for the Management of Pregnancy Alloimmunized to Red Blood Cell Antigens. JAMA Netw Open. 2025;8(11):e2544649
   doi: 10.1001/jamanetworkopen.2025.44649
-  pmid: null
+  pmid: '41284292'
   pmcid: null
-  license_note: null
+  license_note: CC BY（出版社ページ https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841768 の表示「open access article distributed under the terms of the CC-BY License」、© 2025 Moise KJ Jr et al.、2026-11-23 確認。Crossref に license 欄なし、PMC 未収載）
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: OPEN
   history:
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/48_pn_c.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から OPEN に変更（出版社ページの表示で CC BY を確認）。PMID 41284292 を補完。PMC 未収載のため PMCID はなし。作り手（Muse）の照合（reports/id_check_20261123b_muse.md、2026-11-23）
 - id: SRC-3352
   legacy_id: null
   title: 'Salomon LJ, Alfirevic Z, Berghella V, et al. ISUOG Practice Guidelines (updated): performance of the routine mid-trimester fetal ultrasound scan. Ultrasound Obstet Gynecol. 2022;59(6):840-856'
@@ -32303,7 +32315,7 @@
   title: 'Daza C, Mauriziano C, Liberona A, Bao J, Flores LJ. Mapping the Mental Status Examination: Insights from a Scoping Review of Popular Psychiatry Textbooks. Acad Psychiatry. 2025;49(4):355-364'
   citation: 'Daza C, Mauriziano C, Liberona A, Bao J, Flores LJ. Mapping the Mental Status Examination: Insights from a Scoping Review of Popular Psychiatry Textbooks. Acad Psychiatry. 2025;49(4):355-364'
   doi: 10.1007/s40596-025-02157-z
-  pmid: null
+  pmid: '40495096'
   pmcid: null
   license_note: null
   legacy_basis_tag: null
@@ -32313,6 +32325,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: PMID 40495096 を補完（書誌は全項目一致）。作り手（Muse）の照合（reports/id_check_20261123b_muse.md、2026-11-23）
 - id: SRC-3857
   legacy_id: null
   title: 'Huhn M, Nikolakopoulou A, Schneider-Thoma J, et al. Comparative efficacy and tolerability of 32 oral antipsychotics for the acute treatment of adults with multi-episode schizophrenia: a systematic review and network meta-analysis. Lancet. 2019;394(10202):939-951'
@@ -32453,7 +32468,7 @@
   title: King RA; American Academy of Child and Adolescent Psychiatry. Practice parameters for the psychiatric assessment of children and adolescents. J Am Acad Child Adolesc Psychiatry. 1997;36(10 Suppl):4S-20S
   citation: King RA; American Academy of Child and Adolescent Psychiatry. Practice parameters for the psychiatric assessment of children and adolescents. J Am Acad Child Adolesc Psychiatry. 1997;36(10 Suppl):4S-20S
   doi: 10.1097/00004583-199710001-00002
-  pmid: null
+  pmid: '9606102'
   pmcid: null
   license_note: null
   legacy_basis_tag: null
@@ -32463,6 +32478,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/53_ps_c.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: PMID 9606102 を補完（書誌は全項目一致）。作り手（Muse）の照合（reports/id_check_20261123b_muse.md、2026-11-23）
 - id: SRC-3867
   legacy_id: null
   title: 厚生労働省. 依存症対策（厚生労働省ウェブサイト）
@@ -32495,11 +32513,11 @@
     change: 取り込み：raw/53_ps_c.md の出典マスター表から
 - id: SRC-4026
   legacy_id: null
-  title: 'Li Y, Hecht SS. Carcinogenic components of tobacco and tobacco smoke: A 2022 update. Food Chem Toxicol. 2022;167:113179'
-  citation: 'Li Y, Hecht SS. Carcinogenic components of tobacco and tobacco smoke: A 2022 update. Food Chem Toxicol. 2022;167:113179'
+  title: 'Li Y, Hecht SS. Carcinogenic components of tobacco and tobacco smoke: A 2022 update. Food Chem Toxicol. 2022;165:113179'
+  citation: 'Li Y, Hecht SS. Carcinogenic components of tobacco and tobacco smoke: A 2022 update. Food Chem Toxicol. 2022;165:113179'
   doi: 10.1016/j.fct.2022.113179
-  pmid: null
-  pmcid: null
+  pmid: '35643228'
+  pmcid: PMC9616535
   license_note: null
   legacy_basis_tag: null
   legal_basis: B
@@ -32508,6 +32526,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/56_ev_b.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: 巻を 167 から 165 に訂正（PubMed・Crossref）。PMID 35643228 と PMCID PMC9616535（著者原稿、CC ではないため区分は RESTRICTED のまま）を補完。作り手（Muse）の照合（reports/id_check_20261123b_muse.md、2026-11-23）
 - id: SRC-4027
   legacy_id: null
   title: 尾﨑米厚（研究代表者）. 厚生労働科学研究費補助金 総括研究報告書「喫煙、飲酒等生活習慣の実態把握及び生活習慣の改善に向けた研究」（2021年度中高生全国調査を含む）

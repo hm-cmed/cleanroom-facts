@@ -1695,9 +1695,9 @@
     pmid: '38182527'
     pmcid: null
     url: https://pure.fujita-hu.ac.jp/en/publications/international-evidence-based-kyoto-guidelines-for-the-management-/
-    source_license: 未確認（抄録のみ参照）
+    source_license: CC BY-NC-ND 4.0（Crossref の license 欄）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録のみ参照。high-risk stigmata・worrisome featuresの具体的な項目は未取得
   curriculum:
@@ -1716,6 +1716,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（SRC-096 と同じ）。作り手（Muse）の照合（reports/id_check_20261123b_muse.md、2026-11-23）
 - id: BP-048
   domain: BP
   subdomain: 膵神経内分泌腫瘍

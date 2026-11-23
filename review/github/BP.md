@@ -624,7 +624,7 @@
 - 鑑別・補足：MCN（女性の膵体尾部に多い）
 - よくある誤解：分枝型IPMNは生涯にわたり同じ間隔で検査を続けなければならない
 - 不確実性：抄録のみ参照。high-risk stigmata・worrisome featuresの具体的な項目は未取得
-- 出典：Ohtsuka T, et al. International evidence-based Kyoto guidelines for the management of intraductal papillary mucinous neoplasm of the pancreas. Pancreatology 2024;24:255-270　[DOI 10.1016/j.pan.2023.12.009](https://doi.org/10.1016/j.pan.2023.12.009)　[PMID 38182527](https://pubmed.ncbi.nlm.nih.gov/38182527/)（区分 UNKNOWN）
+- 出典：Ohtsuka T, et al. International evidence-based Kyoto guidelines for the management of intraductal papillary mucinous neoplasm of the pancreas. Pancreatology 2024;24:255-270　[DOI 10.1016/j.pan.2023.12.009](https://doi.org/10.1016/j.pan.2023.12.009)　[PMID 38182527](https://pubmed.ncbi.nlm.nih.gov/38182527/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-8-B-②（膵囊胞性腫瘍、b）　コアカリ：PS-03-04-14 (id: JkxnuYE)；TBL-01-00-654 (id: JlvnmdM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BP-047&card_id=BP-047&version=37cc25e067)　（版 `37cc25e067`）
 
