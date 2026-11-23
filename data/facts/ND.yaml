@@ -357,7 +357,7 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-1660
+    source_ref: SRC-1590
     source: Wardlaw JM, et al. Neuroimaging standards for research into small vessel disease and its contribution to ageing and neurodegeneration (STRIVE). Lancet Neurol. 2013;12(8):822-838
     doi: 10.1016/S1474-4422(13)70124-8
     pmid: '23867200'
@@ -384,6 +384,9 @@
   - date: '2026-10-30'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅱ-1-A-② を足した（医学各論 Ⅸ-4-A-②（脳血管性認知症、a） → 医学各論 Ⅸ-4-A-②（脳血管性認知症、a）；医学各論 Ⅱ-1-A-②（脳血管性認知症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: 出典の重複を整理：SRC-1660 は SRC-1590 と同じ文献（DOI 10.1016/S1474-4422(13)70124-8）のため、SRC-1590 に付け替え（機械的な修正。主張文・数値は変更なし）
 - id: ND-011
   domain: ND
   subdomain: 脳血管性認知症

@@ -131,3 +131,4 @@
 - ME-008（フィードバック）を、作り手が第1文を書き直した版（raw/ME008_revision_20261123.md）で取り込み。ME は ME-001〜025 の25枚がそろった（2026-11-23）。
 - 出典とカードの区分の不整合4件を解消（SRC-878・SRC-011 を RESTRICTED、ES-074 を OPEN、PN-024 を RESTRICTED）。保留していた識別子・書誌・ライセンスの7件は作り手への照合の依頼文 docs/tasks/request_id_check_20261123.md を作成（2026-11-23）。
 - 作り手の照合（reports/id_check_20261123b_muse.md）を反映：SRC-2481・BL-004 の PMCID を PMC4415389 に訂正、SRC-4026・SM-002 の巻を165に訂正、PMID の補完（SRC-3856・3866・3351・4026）、SRC-2027（VI-018）と SRC-3351（FT-011）を OPEN、SRC-096（BP-047）を RESTRICTED（CC BY-NC-ND）。PX-001 の書誌の申し送りは解消済み（2026-11-23）。
+- 旧形式カード ES・HP・UG の source_ref を付与：73枚（新規出典 SRC-5201〜5229、うち 5224・5228 は欠番）。空のまま13枚（reports/source_ref_legacy_20261123.md）。ND-010 を SRC-1590 に付け替え（SRC-1660 と重複）（2026-11-23）。

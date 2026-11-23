@@ -10,7 +10,7 @@
     - GBSは内視鏡前のリスク層別化に使う。Rockallスコア（完全版）は内視鏡所見を必要とする
     common_misconception: GBS 0〜1でも全例を緊急内視鏡にすべき
   provenance:
-    source_ref: null
+    source_ref: SRC-5226
     source: Laine L et al. Am J Gastroenterol 2021;116:899-917
     doi: 10.14309/ajg.0000000000001245
     pmid: '33929377'
@@ -42,6 +42,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5226 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: UG-002
   domain: UG
   subdomain: null
@@ -51,7 +54,7 @@
       region: US
     common_misconception: GBSは特異度が高いので入院適応の判定に強い
   provenance:
-    source_ref: null
+    source_ref: SRC-5226
     source: ACG 2021
     doi: 10.14309/ajg.0000000000001245
     pmid: null
@@ -83,6 +86,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5226 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: UG-003
   domain: UG
   subdomain: null
@@ -96,7 +102,7 @@
     - Villanueva 2013では、制限輸血の死亡率上の利益はChild-Pugh A/Bの肝硬変例（4% vs 12%）でみられたが、Child-Pugh C（38% vs 41%, P=0.91）ではみられなかった。急性冠症候群、脳卒中・TIA、大量出血は除外されていた（Wiki Journal Clubの要約）
     common_misconception: Hb 10 g/dLを保つように輸血するほど予後が良い
   provenance:
-    source_ref: null
+    source_ref: SRC-5226
     source: ACG 2021
     doi: 10.14309/ajg.0000000000001245
     pmid: null
@@ -128,6 +134,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5226 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: UG-004
   domain: UG
   subdomain: null
@@ -176,7 +185,7 @@
     condition:
       region: global
   provenance:
-    source_ref: null
+    source_ref: SRC-5226
     source: ACG 2021
     doi: 10.14309/ajg.0000000000001245
     pmid: null
@@ -208,6 +217,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5226 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: UG-006
   domain: UG
   subdomain: null
@@ -262,7 +274,7 @@
       also: ESGE 2021（強く非推奨）
     common_misconception: 胃管吸引で血液がなければ上部出血は否定できる
   provenance:
-    source_ref: null
+    source_ref: SRC-4966
     source: JGES NVUGIB GL 第2版
     doi: 10.1111/den.15019
     pmid: null
@@ -294,6 +306,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-4966 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: UG-008
   domain: UG
   subdomain: null
@@ -392,7 +407,7 @@
     - ソフト凝固を用いた止血鉗子の単独療法も選択肢（推奨10）
     - 止血剤（パウダー等）の単独での一次使用は提案しない（推奨11）
   provenance:
-    source_ref: null
+    source_ref: SRC-5227
     source: ESGE 2026（PubMed抄録 PMID 42127996）
     doi: 10.1055/a-2863-8314
     pmid: null
@@ -424,6 +439,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5227 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: UG-011
   domain: UG
   subdomain: null
@@ -473,7 +491,7 @@
       region: JP
       guideline: JSGE 2026 CQ-1（強い推奨, A）
   provenance:
-    source_ref: null
+    source_ref: SRC-031
     source: JSGE PUD GL 2026
     doi: 10.1007/s00535-026-02504-3
     pmid: null
@@ -505,6 +523,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-031 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: UG-013
   domain: UG
   subdomain: null
@@ -558,7 +579,7 @@
       region: US
       guideline: ACG 2021
   provenance:
-    source_ref: null
+    source_ref: SRC-5226
     source: ACG 2021（Emory大学の要約資料経由）
     doi: 10.14309/ajg.0000000000001245
     pmid: null
@@ -590,6 +611,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5226 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: UG-015
   domain: UG
   subdomain: null
@@ -600,7 +624,7 @@
       guideline: 推奨16
     common_misconception: 再出血したらすぐに外科手術
   provenance:
-    source_ref: null
+    source_ref: SRC-5227
     source: ESGE 2026
     doi: 10.1055/a-2863-8314
     pmid: null
@@ -632,6 +656,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5227 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: UG-016
   domain: UG
   subdomain: null
@@ -644,7 +671,7 @@
     - 一次予防目的のアスピリンは中止を検討
     common_misconception: 潰瘍出血後は抗血小板薬を数週間中止するのが安全
   provenance:
-    source_ref: null
+    source_ref: SRC-5229
     source: ESGE 2015
     doi: 10.1055/s-0034-1393172
     pmid: null
@@ -676,6 +703,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5229 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: UG-017
   domain: UG
   subdomain: null
@@ -687,7 +717,7 @@
     differential:
     - ワルファリン服用中の重篤出血ではFFPよりPCCが優先されるとの記載あり（二次文献、要確認）
   provenance:
-    source_ref: null
+    source_ref: SRC-5227
     source: ESGE 2026
     doi: 10.1055/a-2863-8314
     pmid: null
@@ -719,6 +749,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5227 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: UG-018
   domain: UG
   subdomain: null
@@ -728,7 +761,7 @@
       region: EU
       guideline: ESGE 2026 推奨18・19
   provenance:
-    source_ref: null
+    source_ref: SRC-5227
     source: ESGE 2026
     doi: 10.1055/a-2863-8314
     pmid: null
@@ -760,3 +793,6 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5227 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）

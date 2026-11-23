@@ -10,7 +10,7 @@
     - CAM耐性は高く、AMPC・MNZ耐性は低い
     common_misconception: 日本ではMNZ耐性が高いので二次除菌が効きにくい（誤り：MNZ耐性は低い）
   provenance:
-    source_ref: null
+    source_ref: SRC-5219
     source: Okimoto T et al. Helicobacter 2024;29:e13028
     doi: 10.1111/hel.13028
     pmid: null
@@ -46,6 +46,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5219 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: HP-002
   domain: HP
   subdomain: null
@@ -56,7 +59,7 @@
       regimen: VPZ/LPZ + AMPC + CAM, 7日
     common_misconception: P-CABでもPPIでも除菌率は同じ
   provenance:
-    source_ref: null
+    source_ref: SRC-5220
     source: Murakami K et al. Gut 2016;65:1439-46
     doi: 10.1136/gutjnl-2015-311304
     pmid: '26935876'
@@ -92,6 +95,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5220 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: HP-003
   domain: HP
   subdomain: null
@@ -146,7 +152,7 @@
     differential:
     - 欧州（Maastricht VI）は経験的一次治療に14日ビスマス4剤を推奨
   provenance:
-    source_ref: null
+    source_ref: SRC-031
     source: JSGE PUD GL 2026
     doi: 10.1007/s00535-026-02504-3
     pmid: null
@@ -181,6 +187,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-031 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: HP-005
   domain: HP
   subdomain: null
@@ -191,7 +200,7 @@
       guideline: CQ-3
     common_misconception: 感受性検査は除菌失敗後にだけ行う
   provenance:
-    source_ref: null
+    source_ref: SRC-031
     source: JSGE PUD GL 2026
     doi: 10.1007/s00535-026-02504-3
     pmid: null
@@ -226,6 +235,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-031 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: HP-006
   domain: HP
   subdomain: null
@@ -238,7 +250,7 @@
     differential:
     - 耐性株にCAM含有レジメンを使い続けるのは誤り
   provenance:
-    source_ref: null
+    source_ref: SRC-031
     source: JSGE PUD GL 2026
     doi: 10.1007/s00535-026-02504-3
     pmid: null
@@ -273,6 +285,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-031 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: HP-007
   domain: HP
   subdomain: null
@@ -284,7 +299,7 @@
       guideline: CQ-2（弱い推奨, B）
     common_misconception: 二次除菌でも必ずVPZでなければならない
   provenance:
-    source_ref: null
+    source_ref: SRC-031
     source: JSGE PUD GL 2026
     doi: 10.1007/s00535-026-02504-3
     pmid: null
@@ -319,6 +334,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-031 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: HP-008
   domain: HP
   subdomain: null
@@ -330,7 +348,7 @@
     differential:
     - 日本：VPZベース＋感受性検査（HP-004〜006）
   provenance:
-    source_ref: null
+    source_ref: SRC-5221
     source: Malfertheiner P et al. Gut 2022;71:1724-62
     doi: 10.1136/gutjnl-2022-327745
     pmid: '35944925'
@@ -365,6 +383,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5221 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: HP-009
   domain: HP
   subdomain: null
@@ -376,7 +397,7 @@
     differential:
     - 米国のCAM耐性率は22.2〜31.5%、レボフロキサシン耐性率は37.6%と記載
   provenance:
-    source_ref: null
+    source_ref: SRC-5222
     source: Chey WD et al. Am J Gastroenterol 2024;119:1730-53（要旨はJCAG誌の解説（CC BY）経由）
     doi: 10.14309/ajg.0000000000002968
     pmid: null
@@ -411,6 +432,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5222 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: HP-010
   domain: HP
   subdomain: null
@@ -468,7 +492,7 @@
     - 胃液の核酸増幅検査はPPIの影響を受けない
     common_misconception: PPI内服中でも尿素呼気試験の陰性は信頼できる
   provenance:
-    source_ref: null
+    source_ref: SRC-5223
     source: JSHR GL 2024 英語版
     doi: 10.1007/s00535-026-02379-4
     pmid: null
@@ -503,6 +527,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5223 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: HP-012
   domain: HP
   subdomain: null
@@ -515,7 +542,7 @@
     - H2RAや制酸薬は判定精度に影響しないとされる
     - 血清抗体は除菌判定に用いない
   provenance:
-    source_ref: null
+    source_ref: SRC-5222
     source: ACG 2024（Emory大学の要約資料経由）
     doi: 10.14309/ajg.0000000000002968
     pmid: null
@@ -550,6 +577,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5222 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: HP-013
   domain: HP
   subdomain: null
@@ -559,7 +589,7 @@
       region: JP
       guideline: JSHR 2024 CQ1-1（強い推奨, B）
   provenance:
-    source_ref: null
+    source_ref: SRC-5223
     source: JSHR GL 2024 英語版
     doi: 10.1007/s00535-026-02379-4
     pmid: null
@@ -594,6 +624,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5223 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: HP-014
   domain: HP
   subdomain: null
@@ -650,7 +683,7 @@
     differential:
     - 米国ACGも『感染が判明した全例を治療』とする
   provenance:
-    source_ref: null
+    source_ref: SRC-5223
     source: JSHR GL 2024 英語版（抄録）
     doi: 10.1007/s00535-026-02379-4
     pmid: null
@@ -685,6 +718,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5223 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: HP-016
   domain: HP
   subdomain: null
@@ -696,7 +732,7 @@
     differential:
     - 欧州小児ガイドラインは無症状小児へのtest-and-treatを推奨しない
   provenance:
-    source_ref: null
+    source_ref: SRC-5223
     source: JSHR GL 2024 英語版
     doi: 10.1007/s00535-026-02379-4
     pmid: null
@@ -731,6 +767,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5223 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: HP-017
   domain: HP
   subdomain: null
@@ -740,7 +779,7 @@
       region: global
     common_misconception: 無症状のH. pylori胃炎は治療対象ではない
   provenance:
-    source_ref: null
+    source_ref: SRC-5225
     source: Sugano K et al. Gut 2015;64:1353-67
     doi: 10.1136/gutjnl-2015-309252
     pmid: '26187502'
@@ -772,6 +811,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5225 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: HP-018
   domain: HP
   subdomain: null
@@ -827,7 +869,7 @@
       region: JP
     common_misconception: H. pylori陰性でNSAIDも使っていなければ潰瘍は起こらない
   provenance:
-    source_ref: null
+    source_ref: SRC-031
     source: JSGE PUD GL 2026（抄録）
     doi: 10.1007/s00535-026-02504-3
     pmid: null
@@ -862,6 +904,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-031 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: HP-020
   domain: HP
   subdomain: null

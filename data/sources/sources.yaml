@@ -18624,6 +18624,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: SRC-1590 と同一の文献（DOI・PMID が同じ、STRIVE 2013）。カードの参照は SRC-1590 に付け替えた。番号は再利用しない
 - id: SRC-1661
   legacy_id: null
   title: 'Custodio N, et al. Mixed dementia: A review of the evidence. Dement Neuropsychol. 2017;11(4):364-370'
@@ -38160,3 +38163,408 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME3_medical_education.md の出典マスター表から
+- id: SRC-5201
+  legacy_id: null
+  title: Iwakiri K, et al. Evidence-based clinical practice guidelines for gastroesophageal reflux disease 2021. J Gastroenterol 2022;57:267-285
+  citation: Iwakiri K, et al. Evidence-based clinical practice guidelines for gastroesophageal reflux disease 2021. J Gastroenterol 2022;57:267-285
+  doi: 10.1007/s00535-022-01861-z
+  pmid: '35226174'
+  pmcid: null
+  license_note: CC BY 4.0（Crossref確認済）／CC BY 4.0（Crossref）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-001・ES-002・ES-003・ES-004・ES-006・ES-007・ES-008・ES-010・ES-011 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5202
+  legacy_id: null
+  title: Lundell LR, et al. Gut 1999
+  citation: Lundell LR, et al. Gut 1999
+  doi: 10.1136/gut.45.2.172
+  pmid: '10403727'
+  pmcid: null
+  license_note: 未確認（BMJ、非CC推定）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-005 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5203
+  legacy_id: null
+  title: Japanese Classification of Esophageal Cancer 12th ed. Part I. Esophagus 2024;21:179-215
+  citation: Japanese Classification of Esophageal Cancer 12th ed. Part I. Esophagus 2024;21:179-215
+  doi: 10.1007/s10388-024-01054-y
+  pmid: '38568243'
+  pmcid: null
+  license_note: CC BY 4.0（Crossref）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-012・ES-043・ES-044・ES-048 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5204
+  legacy_id: null
+  title: Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587
+  citation: Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587
+  doi: 10.14309/ajg.0000000000001680
+  pmid: '35354777'
+  pmcid: null
+  license_note: 非CC（license欄なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-013・ES-014・ES-016・ES-017 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5205
+  legacy_id: null
+  title: Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372
+  citation: Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372
+  doi: 10.1007/s10388-023-00993-2
+  pmid: '36933136'
+  pmcid: null
+  license_note: CC BY 4.0（PMC表示確認済）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-015・ES-037・ES-038・ES-039・ES-040・ES-041・ES-045・ES-047・ES-055・ES-056 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5206
+  legacy_id: null
+  title: 'ACG Clinical Guideline: EoE. Am J Gastroenterol 2025'
+  citation: 'ACG Clinical Guideline: EoE. Am J Gastroenterol 2025'
+  doi: 10.14309/ajg.0000000000003194
+  pmid: '39745304'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-018・ES-022 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5207
+  legacy_id: null
+  title: 'Dellon ES, et al. Updated international consensus diagnostic criteria for eosinophilic esophagitis: proceedings of the AGREE conference. Gastroenterology 2018;155:1022-1033'
+  citation: 'Dellon ES, et al. Updated international consensus diagnostic criteria for eosinophilic esophagitis: proceedings of the AGREE conference. Gastroenterology 2018;155:1022-1033'
+  doi: 10.1053/j.gastro.2018.07.009
+  pmid: '30009819'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-019 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5208
+  legacy_id: null
+  title: 'Clinical and endoscopic characteristics of EoE in Japan: a case-control study'
+  citation: 'Clinical and endoscopic characteristics of EoE in Japan: a case-control study'
+  doi: 10.5415/apallergy.2020.10.e16
+  pmid: '32411581'
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-020 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5209
+  legacy_id: null
+  title: 'Hirano I, et al. Endoscopic assessment of the oesophageal features of eosinophilic oesophagitis: validation of a novel classification and grading system. Gut 2013;62:489-495'
+  citation: 'Hirano I, et al. Endoscopic assessment of the oesophageal features of eosinophilic oesophagitis: validation of a novel classification and grading system. Gut 2013;62:489-495'
+  doi: 10.1136/gutjnl-2011-301817
+  pmid: '22619364'
+  pmcid: null
+  license_note: BMJ（CC表示は未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-021・ES-088 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5210
+  legacy_id: null
+  title: 'Vaezi MF, et al. ACG clinical guidelines: diagnosis and management of achalasia. Am J Gastroenterol 2020;115:1393-1411'
+  citation: 'Vaezi MF, et al. ACG clinical guidelines: diagnosis and management of achalasia. Am J Gastroenterol 2020;115:1393-1411'
+  doi: 10.14309/ajg.0000000000000731
+  pmid: '32773454'
+  pmcid: null
+  license_note: © ACG（PMC 著者稿、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-034 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5211
+  legacy_id: null
+  title: Kaplan DE, et al. AASLD Practice Guidance, portal hypertension and varices. Hepatology 2024;79:1180-1211
+  citation: Kaplan DE, et al. AASLD Practice Guidance, portal hypertension and varices. Hepatology 2024;79:1180-1211
+  doi: 10.1097/HEP.0000000000000647
+  pmid: '37870298'
+  pmcid: null
+  license_note: 非CC（license欄なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-057・ES-058・ES-059・ES-060 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5212
+  legacy_id: null
+  title: García-Pagán JC, et al. NEJM 2010
+  citation: García-Pagán JC, et al. NEJM 2010
+  doi: 10.1056/NEJMoa0910102
+  pmid: '20573925'
+  pmcid: null
+  license_note: 非CC
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-065 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5213
+  legacy_id: null
+  title: Kahrilas PJ, et al. Approaches to the diagnosis and grading of hiatal hernia. Best Pract Res Clin Gastroenterol 2008;22:601-616
+  citation: Kahrilas PJ, et al. Approaches to the diagnosis and grading of hiatal hernia. Best Pract Res Clin Gastroenterol 2008;22:601-616
+  doi: 10.1016/j.bpg.2007.12.007
+  pmid: '18656819'
+  pmcid: null
+  license_note: Elsevier（PMC 著者稿）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-076 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5214
+  legacy_id: null
+  title: Abdi S, et al. Drug-induced esophagitis and helpful management for healthcare providers. Gastroenterol Hepatol Bed Bench 2022;15:219-224
+  citation: Abdi S, et al. Drug-induced esophagitis and helpful management for healthcare providers. Gastroenterol Hepatol Bed Bench 2022;15:219-224
+  doi: 10.22037/ghfbb.v15i3.2591
+  pmid: '36311965'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-077 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5215
+  legacy_id: null
+  title: Chen YH, et al. Prevalence and risk factors for Candida esophagitis among human immunodeficiency virus-negative individuals. World J Clin Cases 2022;10:10896-10905
+  citation: Chen YH, et al. Prevalence and risk factors for Candida esophagitis among human immunodeficiency virus-negative individuals. World J Clin Cases 2022;10:10896-10905
+  doi: 10.12998/wjcc.v10.i30.10896
+  pmid: '36338217'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-078 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5216
+  legacy_id: null
+  title: Novacek G. Plummer-Vinson syndrome. Orphanet J Rare Dis 2006;1:36
+  citation: Novacek G. Plummer-Vinson syndrome. Orphanet J Rare Dis 2006;1:36
+  doi: 10.1186/1750-1172-1-36
+  pmid: '16978405'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-082 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5217
+  legacy_id: null
+  title: 'Dell''Anna G, et al. The endoscopic management of Zenker''s diverticulum: a comprehensive review. Diagnostics (Basel) 2024;14:2155'
+  citation: 'Dell''Anna G, et al. The endoscopic management of Zenker''s diverticulum: a comprehensive review. Diagnostics (Basel) 2024;14:2155'
+  doi: 10.3390/diagnostics14192155
+  pmid: '39410559'
+  pmcid: null
+  license_note: CC BY 4.0（論文表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-083 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5218
+  legacy_id: null
+  title: Mertens A, et al. A systematic analysis of incidence, therapeutic strategies, and in-hospital mortality of Mallory-Weiss syndrome in Germany. J Clin Gastroenterol 2024;58:640-649
+  citation: Mertens A, et al. A systematic analysis of incidence, therapeutic strategies, and in-hospital mortality of Mallory-Weiss syndrome in Germany. J Clin Gastroenterol 2024;58:640-649
+  doi: 10.1097/MCG.0000000000001918
+  pmid: '37668412'
+  pmcid: null
+  license_note: null
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-084 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5219
+  legacy_id: null
+  title: Okimoto T et al. Helicobacter 2024;29:e13028
+  citation: Okimoto T et al. Helicobacter 2024;29:e13028
+  doi: 10.1111/hel.13028
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC-ND 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード HP-001 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5220
+  legacy_id: null
+  title: Murakami K et al. Gut 2016;65:1439-46
+  citation: Murakami K et al. Gut 2016;65:1439-46
+  doi: 10.1136/gutjnl-2015-311304
+  pmid: '26935876'
+  pmcid: null
+  license_note: 未確認（PMCで無料公開、CC種別は未確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード HP-002 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5221
+  legacy_id: null
+  title: Malfertheiner P et al. Gut 2022;71:1724-62
+  citation: Malfertheiner P et al. Gut 2022;71:1724-62
+  doi: 10.1136/gutjnl-2022-327745
+  pmid: '35944925'
+  pmcid: null
+  license_note: No commercial re-use（CC BY-NC系、要確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード HP-008 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5222
+  legacy_id: null
+  title: Chey WD et al. Am J Gastroenterol 2024;119:1730-53（要旨はJCAG誌の解説（CC BY）経由）
+  citation: Chey WD et al. Am J Gastroenterol 2024;119:1730-53（要旨はJCAG誌の解説（CC BY）経由）
+  doi: 10.14309/ajg.0000000000002968
+  pmid: null
+  pmcid: null
+  license_note: © ACG／© ACG（原典）／解説記事 CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード HP-009・HP-012 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5223
+  legacy_id: null
+  title: JSHR GL 2024 英語版（抄録）
+  citation: JSHR GL 2024 英語版（抄録）
+  doi: 10.1007/s00535-026-02379-4
+  pmid: null
+  pmcid: null
+  license_note: CC BY 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード HP-011・HP-013・HP-015・HP-016 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5225
+  legacy_id: null
+  title: Sugano K et al. Gut 2015;64:1353-67
+  citation: Sugano K et al. Gut 2015;64:1353-67
+  doi: 10.1136/gutjnl-2015-309252
+  pmid: '26187502'
+  pmcid: null
+  license_note: CC BY-NC 4.0
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード HP-017 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5226
+  legacy_id: null
+  title: Laine L et al. Am J Gastroenterol 2021;116:899-917
+  citation: Laine L et al. Am J Gastroenterol 2021;116:899-917
+  doi: 10.14309/ajg.0000000000001245
+  pmid: '33929377'
+  pmcid: null
+  license_note: © ACG
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード UG-001・UG-002・UG-003・UG-005・UG-014 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5227
+  legacy_id: null
+  title: ESGE 2026（PubMed抄録 PMID 42127996）
+  citation: ESGE 2026（PubMed抄録 PMID 42127996）
+  doi: 10.1055/a-2863-8314
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード UG-010・UG-015・UG-017・UG-018 の記載をそのまま写した（新たな判定はしていない）
+- id: SRC-5229
+  legacy_id: null
+  title: ESGE 2015
+  citation: ESGE 2015
+  doi: 10.1055/s-0034-1393172
+  pmid: null
+  pmcid: null
+  license_note: 未確認
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード UG-016 の記載をそのまま写した（新たな判定はしていない）

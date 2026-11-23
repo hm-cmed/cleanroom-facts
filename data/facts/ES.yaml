@@ -9,7 +9,7 @@
     differential: 第2版（2015）ではP-CABの位置づけがなかった
     common_misconception: GERD＝内視鏡でびらんがある病態、と考える（NERDも含む）
   provenance:
-    source_ref: null
+    source_ref: SRC-5201
     source: Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285
     doi: 10.1007/s00535-022-01861-z
     pmid: '35226174'
@@ -60,6 +60,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5201 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-002
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -70,7 +73,7 @@
     differential: PPIは酸で活性化されてから不可逆的に阻害する。P-CABはK+と競合して可逆的に阻害する
     common_misconception: ボノプラザンをPPIの一種とする
   provenance:
-    source_ref: null
+    source_ref: SRC-5201
     source: Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285
     doi: 10.1007/s00535-022-01861-z
     pmid: '35226174'
@@ -121,6 +124,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5201 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-003
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -132,7 +138,7 @@
     differential: 軽症RE（LA分類A・B）の初期治療はPPIまたはボノプラザン（ES-004）
     common_misconception: 重症でも維持療法は不要と考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5201
     source: Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285
     doi: 10.1007/s00535-022-01861-z
     pmid: '35226174'
@@ -186,6 +192,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5201 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-004
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -197,7 +206,7 @@
     differential: 「推奨」と「提案」では推奨の強さが異なる
     common_misconception: 軽症でもボノプラザンによる維持が第一推奨と考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5201
     source: Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285
     doi: 10.1007/s00535-022-01861-z
     pmid: '35226174'
@@ -248,6 +257,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5201 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-005
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -258,7 +270,7 @@
     differential: 日本で使われる改訂LA分類（星原）には、grade NとMがある
     common_misconception: CとDの境界を50%とする
   provenance:
-    source_ref: null
+    source_ref: SRC-5202
     source: Lundell LR, et al. Gut 1999
     doi: 10.1136/gut.45.2.172
     pmid: '10403727'
@@ -300,6 +312,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5202 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-006
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -310,7 +325,7 @@
     differential: 改訂LA分類のgrade Mは色調変化のみ
     common_misconception: grade Bを重症に含める
   provenance:
-    source_ref: null
+    source_ref: SRC-5201
     source: Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285
     doi: 10.1007/s00535-022-01861-z
     pmid: '35226174'
@@ -361,6 +376,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5201 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-007
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -372,7 +390,7 @@
     differential: GERD症状の有病率と、内視鏡で見るREの有病率は別の指標
     common_misconception: H. pylori感染率の低下とは無関係と考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5201
     source: Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285
     doi: 10.1007/s00535-022-01861-z
     pmid: '35226174'
@@ -423,6 +441,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5201 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-008
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -433,7 +454,7 @@
     differential: 機能性胸やけ、逆流過敏性食道
     common_misconception: pH検査だけで非酸逆流も評価できると考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5201
     source: Iwakiri K, et al. Evidence-based clinical practice guidelines for gastroesophageal reflux disease 2021. J Gastroenterol 2022;57:267-285
     doi: 10.1007/s00535-022-01861-z
     pmid: '35226174'
@@ -475,6 +496,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5201 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-009
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -559,7 +583,7 @@
     differential: P-CABテスト（JSGE 2021はPPIテストより有用な可能性があるとしている）
     common_misconception: PPIテスト陽性＝GERD確定と考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5201
     source: Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285
     doi: 10.1007/s00535-022-01861-z
     pmid: '35226174'
@@ -607,6 +631,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5201 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-011
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -617,7 +644,7 @@
     differential: 内視鏡的逆流防止術（ARMS）の保険収載は ES-093
     common_misconception: 裂孔ヘルニアがあれば全例手術と考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5201
     source: Iwakiri K, et al. JSGE GERD guidelines 2021. J Gastroenterol 2022;57:267-285
     doi: 10.1007/s00535-022-01861-z
     pmid: '35226174'
@@ -665,6 +692,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''PS-02-08-xx（要確認）'', ''kokushi'': ''胃食道逆流症・逆流性食道炎（番号要確認）''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5201 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-012
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -675,7 +705,7 @@
     differential: 米国ACGは長さ1 cm以上と腸上皮化生を必須とする（ES-013）
     common_misconception: 日本でも生検で杯細胞を確認しないとBarrettと呼べないと考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5203
     source: Japanese Classification of Esophageal Cancer 12th ed. Part I. Esophagus 2024;21:179-215
     doi: 10.1007/s10388-024-01054-y
     pmid: '38568243'
@@ -711,6 +741,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''Barrett食道''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5203 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-013
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -721,7 +754,7 @@
     differential: 日本の定義（ES-012）
     common_misconception: 1 cm未満の不整なZ線もサーベイランスの対象と考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5204
     source: Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587
     doi: 10.14309/ajg.0000000000001680
     pmid: '35354777'
@@ -772,6 +805,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''Barrett食道''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5204 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-014
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -782,7 +818,7 @@
     differential: 日本のSSBEの発癌率はわかっていない（ES-015）
     common_misconception: NDBEの発癌率を過大に見積もる
   provenance:
-    source_ref: null
+    source_ref: SRC-5204
     source: Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587
     doi: 10.14309/ajg.0000000000001680
     pmid: '35354777'
@@ -836,6 +872,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''Barrett食道''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5204 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-015
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -846,7 +885,7 @@
     differential: 欧米ではBarrett食道が腺癌の確立した前癌病変
     common_misconception: 欧米の発癌率を日本にそのまま当てはめる
   provenance:
-    source_ref: null
+    source_ref: SRC-5205
     source: Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372
     doi: 10.1007/s10388-023-00993-2
     pmid: '36933136'
@@ -888,6 +927,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''Barrett食道''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5205 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-016
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -899,7 +941,7 @@
     differential: LGDは1年間6か月ごと、その後は年1回
     common_misconception: NDBEを毎年内視鏡で追う必要があると考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5204
     source: Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587
     doi: 10.14309/ajg.0000000000001680
     pmid: '35354777'
@@ -953,6 +995,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''Barrett食道''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5204 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-017
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -963,7 +1008,7 @@
     differential: NBIによる狙撃生検（ACG 2022はSeattle protocolの継続を推奨）
     common_misconception: 炎症が強い時期の生検で異形成を判定する
   provenance:
-    source_ref: null
+    source_ref: SRC-5204
     source: Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587
     doi: 10.14309/ajg.0000000000001680
     pmid: '35354777'
@@ -1020,6 +1065,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''Barrett食道''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5204 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-018
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1030,7 +1078,7 @@
     differential: GERD、好酸球性胃腸炎、薬剤性
     common_misconception: PPIで改善した例はEoEではないと考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5206
     source: 'ACG Clinical Guideline: EoE. Am J Gastroenterol 2025'
     doi: 10.14309/ajg.0000000000003194
     pmid: '39745304'
@@ -1081,6 +1129,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''好酸球性食道炎''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5206 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-019
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1091,7 +1142,7 @@
     differential: 2007年・2011年の旧基準では、PPIが無効であることが要件だった
     common_misconception: PPIが効いたらEoEではないと考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5207
     source: 'Dellon ES, et al. Updated international consensus diagnostic criteria for eosinophilic esophagitis: proceedings of the AGREE conference. Gastroenterology 2018;155:1022-1033'
     doi: 10.1053/j.gastro.2018.07.009
     pmid: '30009819'
@@ -1139,6 +1190,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''好酸球性食道炎''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5207 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-020
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1150,7 +1204,7 @@
     differential: 欧米の人口あたり有病率とは分母が異なる
     common_misconception: 小児のアレルギー患者だけの病気と考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5208
     source: 'Clinical and endoscopic characteristics of EoE in Japan: a case-control study'
     doi: 10.5415/apallergy.2020.10.e16
     pmid: '32411581'
@@ -1204,6 +1258,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''好酸球性食道炎''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5208 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-021
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1214,7 +1271,7 @@
     differential: カンジダ食道炎の白苔
     common_misconception: 内視鏡所見が正常ならEoEを否定できると考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5209
     source: 'Hirano I, et al. Endoscopic assessment of the oesophageal features of eosinophilic oesophagitis: validation of a novel classification and grading system. Gut 2013;62:489-495'
     doi: 10.1136/gutjnl-2011-301817
     pmid: '22619364'
@@ -1256,6 +1313,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''好酸球性食道炎''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5209 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-022
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1266,7 +1326,7 @@
     differential: 日本で使える局所ステロイド製剤と保険適用は要確認
     common_misconception: 全身ステロイドが第一選択と考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5206
     source: 'ACG Clinical Guideline: EoE. Am J Gastroenterol 2025'
     doi: 10.14309/ajg.0000000000003194
     pmid: '39745304'
@@ -1314,6 +1374,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''好酸球性食道炎''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5206 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-023
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -2057,7 +2120,7 @@
     differential: I・II型では空気圧拡張術、LHM、POEMのいずれも選択肢
     common_misconception: 病型によらず治療成績は同じと考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5210
     source: 'Vaezi MF, et al. ACG clinical guidelines: diagnosis and management of achalasia. Am J Gastroenterol 2020;115:1393-1411'
     doi: 10.14309/ajg.0000000000000731
     pmid: '32773454'
@@ -2099,6 +2162,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道アカラシア・食道運動障害''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5210 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-035
   domain: ES
   subdomain: 食道癌
@@ -2223,7 +2289,7 @@
     differential: 欧米では腺癌が半数以上
     common_misconception: 日本でも腺癌が主体と考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5205
     source: Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372
     doi: 10.1007/s10388-023-00993-2
     pmid: '36933136'
@@ -2265,6 +2331,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5205 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-038
   domain: ES
   subdomain: 食道癌
@@ -2275,7 +2344,7 @@
     differential: 腺癌の危険因子はGERD、Barrett食道、肥満
     common_misconception: 飲酒単独は危険因子にならないと考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5205
     source: Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372
     doi: 10.1007/s10388-023-00993-2
     pmid: '36933136'
@@ -2317,6 +2386,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5205 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-039
   domain: ES
   subdomain: 食道癌
@@ -2327,7 +2399,7 @@
     differential: 日本は扁平上皮癌が約86%
     common_misconception: 世界的に扁平上皮癌が主体と考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5205
     source: Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372
     doi: 10.1007/s10388-023-00993-2
     pmid: '36933136'
@@ -2369,6 +2441,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5205 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-040
   domain: ES
   subdomain: 食道癌
@@ -2379,7 +2454,7 @@
     differential: ALDH2ヘテロ型の飲酒者のオッズ比は ES-092
     common_misconception: 少量の飲酒で顔が赤くなる人（フラッシャー）は安全と考える（実際は高リスク）
   provenance:
-    source_ref: null
+    source_ref: SRC-5205
     source: Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372
     doi: 10.1007/s10388-023-00993-2
     pmid: '36933136'
@@ -2424,6 +2499,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5205 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-041
   domain: ES
   subdomain: 食道癌
@@ -2434,7 +2512,7 @@
     differential: 頭頸部癌・胃癌の合併（この出典には具体的な記載がない）
     common_misconception: 食道癌の治療後は頭頸部を観察しなくてよいと考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5205
     source: Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372
     doi: 10.1007/s10388-023-00993-2
     pmid: '36933136'
@@ -2479,6 +2557,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5205 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-042
   domain: ES
   subdomain: 食道癌
@@ -2529,7 +2610,7 @@
     differential: 井上分類と有馬分類を統合した分類
     common_misconception: Type Aも癌を示すと考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5203
     source: Japanese Classification of Esophageal Cancer 12th ed. Part I. Esophagus 2024;21:179-215
     doi: 10.1007/s10388-024-01054-y
     pmid: '38568243'
@@ -2568,6 +2649,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5203 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-044
   domain: ES
   subdomain: 食道癌
@@ -2578,7 +2662,7 @@
     differential: EUSとの併用
     common_misconception: B2なら必ずSM浸潤と考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5203
     source: Japanese Classification of Esophageal Cancer 12th ed. Part I. Esophagus 2024;21:179-215
     doi: 10.1007/s10388-024-01054-y
     pmid: '38568243'
@@ -2617,6 +2701,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5203 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-045
   domain: ES
   subdomain: 食道癌
@@ -2627,7 +2714,7 @@
     differential: リンパ節転移のリスクは深達度とともに上がる
     common_misconception: SM浸潤でもESDだけで根治できると考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5205
     source: Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372
     doi: 10.1007/s10388-023-00993-2
     pmid: '36933136'
@@ -2663,6 +2750,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5205 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-046
   domain: ES
   subdomain: 食道癌
@@ -2737,7 +2827,7 @@
     differential: pT1a-EP/LPMで断端陰性なら経過観察
     common_misconception: 断端陰性なら深達度に関係なく経過観察でよいと考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5205
     source: Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372
     doi: 10.1007/s10388-023-00993-2
     pmid: '36933136'
@@ -2779,6 +2869,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5205 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-048
   domain: ES
   subdomain: 食道癌
@@ -2789,7 +2882,7 @@
     differential: JCOG1109はUICC第7版を使用
     common_misconception: 取扱い規約のStageとUICCのStageを同じものとみなす
   provenance:
-    source_ref: null
+    source_ref: SRC-5203
     source: Japanese Classification of Esophageal Cancer 12th ed. Part I. Esophagus 2024;21:179-215
     doi: 10.1007/s10388-024-01054-y
     pmid: '38568243'
@@ -2828,6 +2921,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5203 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-049
   domain: ES
   subdomain: 食道癌
@@ -3301,7 +3397,7 @@
     differential: 救済手術は合併症のリスクが高い
     common_misconception: CRT後に遺残があれば全例緩和治療のみと考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5205
     source: Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372
     doi: 10.1007/s10388-023-00993-2
     pmid: '36933136'
@@ -3340,6 +3436,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5205 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-056
   domain: ES
   subdomain: 食道癌
@@ -3351,7 +3450,7 @@
     differential: 根拠となった試験の多くは75歳以下を対象としていた
     common_misconception: 推奨は年齢に関係なく一律に適用できると考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5205
     source: Kitagawa Y, et al. JES Esophageal cancer practice guidelines 2022 part 1. Esophagus 2023;20:343-372
     doi: 10.1007/s10388-023-00993-2
     pmid: '36933136'
@@ -3393,6 +3492,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道癌''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5205 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-057
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3403,7 +3505,7 @@
     differential: HVPG 6〜9 mmHgはCSPHに至らない門脈圧亢進
     common_misconception: 静脈瘤がなければCSPHではないと考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5211
     source: Kaplan DE, et al. AASLD Practice Guidance, portal hypertension and varices. Hepatology 2024;79:1180-1211
     doi: 10.1097/HEP.0000000000000647
     pmid: '37870298'
@@ -3445,6 +3547,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5211 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-058
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3455,7 +3560,7 @@
     differential: 従来は高リスク静脈瘤の一次予防に限っていた
     common_misconception: NSBBの目的は出血予防だけと考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5211
     source: Kaplan DE, et al. AASLD Practice Guidance, portal hypertension and varices. Hepatology 2024;79:1180-1211
     doi: 10.1097/HEP.0000000000000647
     pmid: '37870298'
@@ -3500,6 +3605,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5211 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-059
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3510,7 +3618,7 @@
     differential: プロプラノロール、ナドロール
     common_misconception: カルベジロールを心拍数55/分になるまで増量すると考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5211
     source: Kaplan DE, et al. AASLD Practice Guidance, portal hypertension and varices. Hepatology 2024;79:1180-1211
     doi: 10.1097/HEP.0000000000000647
     pmid: '37870298'
@@ -3549,6 +3657,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5211 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-060
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3559,7 +3670,7 @@
     differential: 日本では内視鏡治療の比重が大きい（要確認）
     common_misconception: NSBBとEVLの併用が一次予防の標準と考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5211
     source: Kaplan DE, et al. AASLD Practice Guidance, portal hypertension and varices. Hepatology 2024;79:1180-1211
     doi: 10.1097/HEP.0000000000000647
     pmid: '37870298'
@@ -3598,6 +3709,9 @@
   - date: '2026-10-12'
     by: claude-code
     change: 'curriculum を設定（proposals/curriculum_map_ES.csv、人間が2026-10-12にチャットで推奨案を一括承認）。変更前：{''core_curriculum'': ''要確認'', ''kokushi'': ''食道・胃静脈瘤、門脈圧亢進症''}'
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5211 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-061
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3888,7 +4002,7 @@
     differential: 救済（rescue）TIPS
     common_misconception: 全例に早期TIPSが適応になるわけではない
   provenance:
-    source_ref: null
+    source_ref: SRC-5212
     source: García-Pagán JC, et al. NEJM 2010
     doi: 10.1056/NEJMoa0910102
     pmid: '20573925'
@@ -3944,6 +4058,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5212 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-066
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -4569,7 +4686,7 @@
     differential: 傍食道型（II型）・混合型（III型）・他臓器を含むIV型（本出典の抄録には記載なし）
     common_misconception: 小さな滑脱型ヘルニアも内視鏡や造影で常に確実に診断できると考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5213
     url: null
     pmcid: PMC2548324
     source: Kahrilas PJ, et al. Approaches to the diagnosis and grading of hiatal hernia. Best Pract Res Clin Gastroenterol 2008;22:601-616
@@ -4607,6 +4724,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5213 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-077
   domain: ES
   subdomain: その他の食道疾患
@@ -4618,7 +4738,7 @@
     differential: 逆流性食道炎、感染性食道炎
     common_misconception: 少量の水で服用してすぐ横になっても問題ないと考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5214
     url: null
     pmcid: PMC9589134
     source: Abdi S, et al. Drug-induced esophagitis and helpful management for healthcare providers. Gastroenterol Hepatol Bed Bench 2022;15:219-224
@@ -4653,6 +4773,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5214 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-078
   domain: ES
   subdomain: その他の食道疾患
@@ -4664,7 +4787,7 @@
     differential: HIV感染者などの免疫不全者では頻度が高い。EoEの白斑との鑑別
     common_misconception: カンジダ食道炎は免疫不全者にしか起こらないと考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5215
     url: null
     pmcid: PMC9631128
     source: Chen YH, et al. Prevalence and risk factors for Candida esophagitis among human immunodeficiency virus-negative individuals. World J Clin Cases 2022;10:10896-10905
@@ -4702,6 +4825,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「台湾」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5215 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-079
   domain: ES
   subdomain: その他の食道疾患
@@ -4931,7 +5057,7 @@
     differential: 食道癌、好酸球性食道炎による狭窄
     common_misconception: 鉄欠乏を補正すれば発癌リスクの経過観察は不要と考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5216
     url: null
     pmcid: PMC1586011
     source: Novacek G. Plummer-Vinson syndrome. Orphanet J Rare Dis 2006;1:36
@@ -4972,6 +5098,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5216 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-083
   domain: ES
   subdomain: その他の食道疾患
@@ -4983,7 +5112,7 @@
     differential: 食道中部の牽引性憩室、横隔膜上憩室
     common_misconception: 憩室を切除するだけで輪状咽頭筋を処理しなくてよいと考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5217
     url: null
     pmcid: PMC11475965
     source: 'Dell''Anna G, et al. The endoscopic management of Zenker''s diverticulum: a comprehensive review. Diagnostics (Basel) 2024;14:2155'
@@ -5021,6 +5150,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5217 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-084
   domain: ES
   subdomain: その他の食道疾患
@@ -5032,7 +5164,7 @@
     differential: Boerhaave症候群（全層性破裂、ES-085〜087）、静脈瘤出血
     common_misconception: Mallory-Weiss症候群は全例で内視鏡的止血が必要と考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5218
     url: null
     pmcid: null
     source: Mertens A, et al. A systematic analysis of incidence, therapeutic strategies, and in-hospital mortality of Mallory-Weiss syndrome in Germany. J Clin Gastroenterol 2024;58:640-649
@@ -5070,6 +5202,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5218 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-085
   domain: ES
   subdomain: その他の食道疾患
@@ -5284,7 +5419,7 @@
     differential: カンジダ食道炎の白苔（白斑との鑑別）
     common_misconception: 内視鏡所見が乏しければEoEは否定できると考える
   provenance:
-    source_ref: null
+    source_ref: SRC-5209
     url: null
     pmcid: null
     source: 'Hirano I, et al. Endoscopic assessment of the oesophageal features of eosinophilic oesophagitis: validation of a novel classification and grading system. Gut 2013;62:489-495'
@@ -5322,6 +5457,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5209 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
 - id: ES-089
   domain: ES
   subdomain: その他の食道疾患
