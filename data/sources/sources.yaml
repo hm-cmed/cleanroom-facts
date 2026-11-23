@@ -37587,6 +37587,9 @@
   - date: '2026-11-16'
     by: claude-code
     change: 登録：動画 GLA_001 の依頼（モコ）に対する新規カード EY-062・EY-063 の出典。識別子は依頼者の PubMed API 確認と PMC のページの表示によるもので、取り込み側は --online で照合予定。三原の承認（2026-11-16）、proposals/video_requests/GLA_001_EY062_063_draft.md
+  - date: '2026-11-23'
+    by: claude-code
+    change: DOI・PMID・PMCID（登録済みの値）が API の応答と一致することを確認。作り手（Muse）の Crossref・PubMed API 照合（reports/me_ey_id_verification_20261123_muse.md、2026-11-23）
 - id: SRC-5101
   legacy_id: null
   title: 文部科学省. 医学／歯学教育モデル・コア・カリキュラム（令和4年度改訂版）. 2022年11月
@@ -37707,6 +37710,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子が API の応答と一致することを確認。作り手（Muse）の Crossref・PubMed API 照合（reports/me_ey_id_verification_20261123_muse.md、2026-11-23）
 - id: SRC-5109
   legacy_id: null
   title: ten Cate O. Entrustability of professional activities and competency-based training. Med Educ. 2005;39(12):1176-1177
@@ -37722,6 +37728,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子が API の応答と一致することを確認。作り手（Muse）の Crossref・PubMed API 照合（reports/me_ey_id_verification_20261123_muse.md、2026-11-23）
 - id: SRC-5110
   legacy_id: null
   title: 'ten Cate O, Hennus MP, Slattery N, López MJ, Sternszus R. Entrustable professional activities, entrustment, and the conceptualization of competence in the health professions. In: Entrustable Professional Activities and Entrustment Decision-Making in Health Professions Education. Ubiquity Press; 2024'
@@ -37737,6 +37746,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子が API の応答と一致することを確認。作り手（Muse）の Crossref・PubMed API 照合（reports/me_ey_id_verification_20261123_muse.md、2026-11-23）
 - id: SRC-5111
   legacy_id: null
   title: Ende J. Feedback in clinical medical education. JAMA. 1983;250(6):777-781
@@ -37752,13 +37764,16 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子が API の応答と一致することを確認。作り手（Muse）の Crossref・PubMed API 照合（reports/me_ey_id_verification_20261123_muse.md、2026-11-23）
 - id: SRC-5112
   legacy_id: null
   title: McGaghie WC, Issenberg SB, Cohen ER, Barsuk JH, Wayne DB. Does simulation-based medical education with deliberate practice yield better results than traditional clinical education? A meta-analytic comparative review of the evidence. Acad Med. 2011;86(6):706-711
   citation: McGaghie WC, Issenberg SB, Cohen ER, Barsuk JH, Wayne DB. Does simulation-based medical education with deliberate practice yield better results than traditional clinical education? A meta-analytic comparative review of the evidence. Acad Med. 2011;86(6):706-711
   doi: 10.1097/ACM.0b013e318217e119
   pmid: '21512370'
-  pmcid: null
+  pmcid: PMC3102783
   license_note: © Association of American Medical Colleges（CC表示なし）
   legacy_basis_tag: null
   legal_basis: B
@@ -37767,6 +37782,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: PMCID PMC3102783 を追加（著者原稿。CC ではないため区分は RESTRICTED のまま）。作り手（Muse）の Crossref・PubMed API 照合（reports/me_ey_id_verification_20261123_muse.md、2026-11-23）
 - id: SRC-5113
   legacy_id: null
   title: 'ABIM Foundation, ACP-ASIM Foundation, European Federation of Internal Medicine. Medical professionalism in the new millennium: a physician charter. Ann Intern Med. 2002;136(3):243-246'
@@ -37782,6 +37800,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME1_medical_education.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子が API の応答と一致することを確認。作り手（Muse）の Crossref・PubMed API 照合（reports/me_ey_id_verification_20261123_muse.md、2026-11-23）
 - id: SRC-5114
   legacy_id: null
   title: 奈良信雄. 共用試験実施評価機構の発足. 医学教育白書2006年版（医学教育 別冊）. 日本医学教育学会
@@ -37827,6 +37848,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子が API の応答と一致することを確認。作り手（Muse）の Crossref・PubMed API 照合（reports/me_ey_id_verification_20261123_muse.md、2026-11-23）
 - id: SRC-5117
   legacy_id: null
   title: 'Issenberg SB, McGaghie WC, Petrusa ER, Lee Gordon D, Scalese RJ. Features and uses of high-fidelity medical simulations that lead to effective learning: a BEME systematic review. Med Teach. 2005;27(1):10-28'
@@ -37842,11 +37866,14 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子が API の応答と一致することを確認。作り手（Muse）の Crossref・PubMed API 照合（reports/me_ey_id_verification_20261123_muse.md、2026-11-23）
 - id: SRC-5118
   legacy_id: null
   title: 'Albanese MA, Mitchell S. Problem-based learning: a review of literature on its outcomes and implementation issues. Acad Med. 1993;68(1):52-81'
   citation: 'Albanese MA, Mitchell S. Problem-based learning: a review of literature on its outcomes and implementation issues. Acad Med. 1993;68(1):52-81'
-  doi: 10.1097/00001888-199301000-00012
+  doi: null
   pmid: '8447896'
   pmcid: null
   license_note: © Association of American Medical Colleges（CC表示なし）
@@ -37857,6 +37884,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: DOI 10.1097/00001888-199301000-00012 を削除：PubMed はこの DOI を本論文に付けるが、Crossref と doi.org では同じ号の別論文（Petersdorf RG. The Transition. Acad Med 1993;68(1):44）を指すため。PMID 8447896 は正しい。作り手（Muse）の Crossref・PubMed API 照合（reports/me_ey_id_verification_20261123_muse.md、2026-11-23）
 - id: SRC-5119
   legacy_id: null
   title: 'Hew KF, Lo CK. Flipped classroom improves student learning in health professions education: a meta-analysis. BMC Med Educ. 2018;18:38'
@@ -37872,6 +37902,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子が API の応答と一致することを確認。作り手（Muse）の Crossref・PubMed API 照合（reports/me_ey_id_verification_20261123_muse.md、2026-11-23）
 - id: SRC-5120
   legacy_id: null
   title: 'Cook DA, Levinson AJ, Garside S, Dupras DM, Erwin PJ, Montori VM. Internet-based learning in the health professions: a meta-analysis. JAMA. 2008;300(10):1181-1196'
@@ -37887,6 +37920,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子が API の応答と一致することを確認。作り手（Muse）の Crossref・PubMed API 照合（reports/me_ey_id_verification_20261123_muse.md、2026-11-23）
 - id: SRC-5121
   legacy_id: null
   title: 'Steinert Y, Mann K, Centeno A, Dolmans D, Spencer J, Gelula M, Prideaux D. A systematic review of faculty development initiatives designed to improve teaching effectiveness in medical education: BEME Guide No. 8. Med Teach. 2006;28(6):497-526'
@@ -37902,6 +37938,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子が API の応答と一致することを確認。作り手（Muse）の Crossref・PubMed API 照合（reports/me_ey_id_verification_20261123_muse.md、2026-11-23）
 - id: SRC-5122
   legacy_id: null
   title: 'Rotenstein LS, Ramos MA, Torre M, Segal JB, Peluso MJ, Guille C, Sen S, Mata DA. Prevalence of Depression, Depressive Symptoms, and Suicidal Ideation Among Medical Students: A Systematic Review and Meta-Analysis. JAMA. 2016;316(21):2214-2236'
@@ -37917,6 +37956,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子が API の応答と一致することを確認。作り手（Muse）の Crossref・PubMed API 照合（reports/me_ey_id_verification_20261123_muse.md、2026-11-23）
 - id: SRC-5123
   legacy_id: null
   title: 'West CP, Dyrbye LN, Erwin PJ, Shanafelt TD. Interventions to prevent and reduce physician burnout: a systematic review and meta-analysis. Lancet. 2016;388(10057):2272-2281'
@@ -37932,6 +37974,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME2_medical_education.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子が API の応答と一致することを確認。作り手（Muse）の Crossref・PubMed API 照合（reports/me_ey_id_verification_20261123_muse.md、2026-11-23）
 - id: SRC-5124
   legacy_id: null
   title: 厚生労働省. 専門医の在り方に関する検討会 報告書. 2013年4月22日
@@ -38037,6 +38082,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME3_medical_education.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子が API の応答と一致することを確認。作り手（Muse）の Crossref・PubMed API 照合（reports/me_ey_id_verification_20261123_muse.md、2026-11-23）
 - id: SRC-5131
   legacy_id: null
   title: 'Fatmi M, Hartling L, Hillier T, Campbell S, Oswald AE. The effectiveness of team-based learning on learning outcomes in health professions education: BEME Guide No. 30. Med Teach. 2013;35(12):e1608-e1624'
@@ -38052,6 +38100,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME3_medical_education.md の出典マスター表から
+  - date: '2026-11-23'
+    by: claude-code
+    change: 識別子が API の応答と一致することを確認。作り手（Muse）の Crossref・PubMed API 照合（reports/me_ey_id_verification_20261123_muse.md、2026-11-23）
 - id: SRC-5132
   legacy_id: null
   title: 'World Health Organization. Patient Safety Curriculum Guide: Multi-professional Edition. Geneva: World Health Organization; 2011. ISBN 978 92 4 150195 8'

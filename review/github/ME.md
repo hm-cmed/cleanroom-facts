@@ -153,8 +153,8 @@
 
 - 条件：region: 国際／対象: 教育者
 - 不確実性：各アウトカムの方向（臨床試験・教員評価では同等か優位、基礎科学の試験では一部で劣位、家庭医療への進路が多い等）は原著の抄録で確認した範囲で記載し、「異なる傾向」のような曖昧な表現は避けた。1992年までの文献に基づくレビューであり、その後のPBLの実践と研究の蓄積は反映されていない。原著の文章の翻訳は転載していない。
-- 出典：Albanese MA, Mitchell S. Problem-based learning: a review of literature on its outcomes and implementation issues. Acad Med. 1993;68(1):52-81　[DOI 10.1097/00001888-199301000-00012](https://doi.org/10.1097/00001888-199301000-00012)　[PMID 8447896](https://pubmed.ncbi.nlm.nih.gov/8447896/)（区分 RESTRICTED）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-014&card_id=ME-014&version=cd0147513b)　（版 `cd0147513b`）
+- 出典：Albanese MA, Mitchell S. Problem-based learning: a review of literature on its outcomes and implementation issues. Acad Med. 1993;68(1):52-81　[PMID 8447896](https://pubmed.ncbi.nlm.nih.gov/8447896/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-014&card_id=ME-014&version=cb9d8b9ac1)　（版 `cb9d8b9ac1`）
 
 ### ME-015　下書き（出典の照合前）
 
@@ -183,7 +183,7 @@
 - 出典：Fatmi M, Hartling L, Hillier T, Campbell S, Oswald AE. The effectiveness of team-based learning on learning outcomes in health professions education: BEME Guide No. 30. Med Teach. 2013;35(12):e1608-e1624　[DOI 10.3109/0142159X.2013.849802](https://doi.org/10.3109/0142159X.2013.849802)　[PMID 24245519](https://pubmed.ncbi.nlm.nih.gov/24245519/)（区分 RESTRICTED）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-023&card_id=ME-023&version=118af08ed9)　（版 `118af08ed9`）
 
-**[ここまでの 6 件（ME-009〜ME-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-009%E3%80%9CME-023&cards=ME-009%202eaee9084e%0AME-013%206d3abc022a%0AME-014%20cd0147513b%0AME-015%20b2d53aacb9%0AME-016%2055f6231a95%0AME-023%20118af08ed9)**
+**[ここまでの 6 件（ME-009〜ME-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-009%E3%80%9CME-023&cards=ME-009%202eaee9084e%0AME-013%206d3abc022a%0AME-014%20cb9d8b9ac1%0AME-015%20b2d53aacb9%0AME-016%2055f6231a95%0AME-023%20118af08ed9)**
 
 ---
 
