@@ -1,0 +1,318 @@
+{
+ "A": [
+  {
+   "title": "Stawinski PM, Dziadkowiec KN, Kuo LA, Echavarria J, Saligram S. Barrett's Esophagus: An Updated Review. Diagnostics. 2023;13(2):321",
+   "doi": "10.3390/diagnostics13020321",
+   "pmid": "36673131",
+   "pmcid": "PMC9858189",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9858189/",
+   "card": "ES-016",
+   "class": "OPEN",
+   "why": "NDBE のサーベイランス間隔を長さで分ける記載（3 cm未満は5年ごと、3 cm以上は3年ごと）。数値の照合：3 cm未満→5年、3 cm以上→3年：一致"
+  },
+  {
+   "title": "Abe Y, et al. Endoscopic Diagnosis of Eosinophilic Esophagitis: Basics and Recent Advances. Diagnostics. 2022;12:3202",
+   "doi": "10.3390/diagnostics12123202",
+   "pmid": "36553209",
+   "pmcid": "PMC9777529",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9777529/",
+   "card": "ES-018",
+   "class": "OPEN",
+   "why": "診断の3条件（食道機能障害の症状、peak 15個/HPF以上＝約60個/mm²、二次性食道好酸球増多をきたす疾患の除外）。数値の照合：15個/HPF、約60個/mm²：一致"
+  },
+  {
+   "title": "Abe Y, et al. Endoscopic Diagnosis of Eosinophilic Esophagitis: Basics and Recent Advances. Diagnostics. 2022;12:3202",
+   "doi": "10.3390/diagnostics12123202",
+   "pmid": "36553209",
+   "pmcid": "PMC9777529",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9777529/",
+   "card": "ES-021",
+   "class": "OPEN",
+   "why": "典型的所見（浮腫、輪状溝、白斑、縦走溝、狭窄）が EREFS として統一され客観的評価に使われること。数値の照合：数値の主張なし（照合対象なし）"
+  },
+  {
+   "title": "Abe Y, et al. Endoscopic Diagnosis of Eosinophilic Esophagitis: Basics and Recent Advances. Diagnostics. 2022;12:3202",
+   "doi": "10.3390/diagnostics12123202",
+   "pmid": "36553209",
+   "pmcid": "PMC9777529",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9777529/",
+   "card": "ES-088",
+   "class": "OPEN",
+   "why": "EREFS の等級表と、Hirano らの観察者間一致（κ）をまとめた表を収載。数値の照合：κ：カードの「主要4所見で 0.40〜0.54」に対し、候補資料の表では浮腫 0.43・輪状溝 0.40・白斑 0.46・縦走溝 0.54（範囲 0.40〜0.54）で一致。追加所見の狭窄は 0.52"
+  },
+  {
+   "title": "Brown RS Jr, et al. Screening and management of portal hypertension and varices in cirrhosis: Expert perspectives. Hepatol Commun. 2025;9:e0682",
+   "doi": "10.1097/HC9.0000000000000682",
+   "pmid": "40178492",
+   "pmcid": "PMC11970884",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11970884/",
+   "card": "ES-057",
+   "class": "OPEN",
+   "why": "CSPH の定義（HVPG 10 mmHg以上）。数値の照合：HVPG 10 mmHg以上：一致"
+  },
+  {
+   "title": "Sugimoto M, Yamaoka Y. Role of Vonoprazan in Helicobacter pylori Eradication Therapy in Japan. Front Pharmacol. 2019;9:1560",
+   "doi": "10.3389/fphar.2018.01560",
+   "pmid": "30697158",
+   "pmcid": "PMC6340927",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6340927/",
+   "card": "HP-002",
+   "class": "OPEN",
+   "why": "Murakami 第III相試験の一次除菌率（VPZ群・LPZ群の両値）を本文・表に記載し、主張全体を裏づける。数値の照合：一致。候補資料：VPZ 92.6%（95%CI 89.2–95.2）、LPZ 75.9%（95%CI 70.9–80.5）。カードの値と同一"
+  },
+  {
+   "title": "Sugimoto M, Yamaoka Y. Role of Vonoprazan in Helicobacter pylori Eradication Therapy in Japan. Front Pharmacol. 2019;9:1560",
+   "doi": "10.3389/fphar.2018.01560",
+   "pmid": "30697158",
+   "pmcid": "PMC6340927",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6340927/",
+   "card": "HP-003",
+   "class": "OPEN",
+   "why": "CAM 耐性例の除菌率（両群）と症例数（VPZ側 n=100、LPZ側 n=115）を表に記載。p<0.0001 は同試験を統合したメタ解析値（OR 6.83）として本文に記載。数値の照合：一致。候補資料：VPZ 82.0%、LPZ 40.0%（n=100 vs 115）。カードの値・症例数と同一"
+  },
+  {
+   "title": "Nakamura S, Hojo M. Diagnosis and Treatment for Gastric Mucosa-Associated Lymphoid Tissue (MALT) Lymphoma. J Clin Med. 2023;12:120",
+   "doi": "10.3390/jcm12010120",
+   "pmid": null,
+   "pmcid": null,
+   "url": "https://doi.org/10.3390/jcm12010120",
+   "card": "HP-020",
+   "class": "OPEN",
+   "why": "胃 MALT リンパ腫では H. pylori 除菌が病期にかかわらず一次治療（first-line）である旨を明示。H. pylori 陽性の限局期例はこの範囲に含まれる。除菌不応時の放射線療法等への移行（カードの differential）も記載。数値の照合：数値なし（カードに数値なし）"
+  },
+  {
+   "title": "Passi V, Doug M, Peile E, Thistlethwaite J, Johnson N. Developing medical professionalism in future doctors: a systematic review. Int J Med Educ. 2010;1:19-29",
+   "doi": "10.5116/ijme.4bda.ca2a",
+   "pmid": null,
+   "pmcid": "PMC4205509",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4205509/",
+   "card": "ME-010",
+   "class": "OPEN",
+   "why": "医師憲章について、2002年に北米・欧州の内科学会系プロジェクトが公表したこと、3つの基本原則（患者の福利・患者の自律・社会正義）と10の職業的責務の全項目（能力・誠実さ・秘密保持・適切な関係・医療の質・アクセス・限りある資源の分配・科学的知識・利益相反の管理・専門職としての責任）を列挙しており、主。数値の照合：数値なし（列挙内容は一致）"
+  },
+  {
+   "title": "MedlinePlus Genetics. Spinal and bulbar muscular atrophy. National Library of Medicine（最終更新 2020-06-01）",
+   "doi": null,
+   "pmid": null,
+   "pmcid": null,
+   "url": "https://medlineplus.gov/genetics/condition/spinal-and-bulbar-muscular-atrophy/",
+   "card": "ND-049",
+   "class": "GOV_US",
+   "why": "主張全体。(1) AR 遺伝子の CAG リピート異常伸長が原因であること、通常は成人男性に発症し女性は通常無症状（保因者）であること、下位運動ニューロン（脊髄・脳幹の運動ニューロン）の障害であること。(2) X 染色体上の AR 遺伝子第1エクソン（Xq11-12）の CAG リピート伸長、X 連。数値の照合：一致（閾値）：異常側はカード「38回以上」に対し MedlinePlus は \"at least 38 times\"、AR gene ページは \"38 to more than 60\" で一致。正常側はカード「36以下」に対し MedlinePlus は \"up to about 36 times\""
+  },
+  {
+   "title": "CDC. Clinical Overview of Variant Creutzfeldt-Jakob Disease（2024-11-12 更新）",
+   "doi": null,
+   "pmid": null,
+   "pmcid": null,
+   "url": "https://www.cdc.gov/variant-creutzfeldt-jakob/hcp/clinical-overview/index.html",
+   "card": "NI-006",
+   "class": "GOV_US",
+   "why": "主張全体。孤発性（classic）CJD との対比表と診断基準の注記で：精神症状で発症し認知症（認知機能障害）は後期に現れること、早期の痛みを伴う感覚障害（painful dysesthesia）、経過が長いこと（罹病期間中央値 13–14か月 vs 孤発性 4–5か月）、MRI の pulvina。数値の照合：一致：経過の長さは数値で確認（変異型 13–14か月 vs 孤発性 4–5か月）。pulvinar sign の頻度は CDC 表で「>75% of cases」。カードに他の数値はない"
+  },
+  {
+   "title": "Wasserman RD, Abel W, Monkemuller K, Yeaton P, Kesar V, Kesar V. Non-variceal Upper Gastrointestinal Bleeding and Its Endoscopic Management. Turk J Gastroenterol. 2024;35(8):599-608",
+   "doi": "10.5152/tjg.2024.23507",
+   "pmid": "39150279",
+   "pmcid": "PMC11363156",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11363156/",
+   "card": "UG-011",
+   "class": "OPEN",
+   "why": "エピネフリン局注は常にもう1つの止血法と併用すべきで、単独では他の単独療法より効果が劣ること（主張全体）。数値の照合：数値なし（カードに数値なし）"
+  },
+  {
+   "card": "HP-014",
+   "src": "SRC-5223",
+   "why": "JSHR ガイドライン2024（CC BY）が Yoshii 2020 の診断オッズ比（びまん性発赤26.8・粘膜腫脹13.3・白濁粘液10.2・皺襞腫大8.6）を引用し、主張全体を裏づける"
+  }
+ ],
+ "B": [
+  {
+   "card": "ES-005",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Iwakiri K, et al. Evidence-based clinical practice guidelines for gastroesophageal reflux disease 2021. J Gastroenterol 2022;57:267-285（既存 SRC-5201）（DOI 10.1007/s00535-022-01861-z／PMID 35226174／PMCID PMC8938399。OPEN（CC BY 4.0）。PMC 全文に CC BY 4.0 の表示あり：https://pmc.ncbi.nlm.nih.gov/articles/PMC8938399/）。裏づける部分：LA分類が最も検証され再現性の高い分類であること、重症RE＝グレードC/D・軽症RE＝グレードA/Bという重症度区分。数値の照合：候補資料に個別グレードの定義数値（5 mm、75%）の記載なし（照合対象なし）。留保：グレードA〜Dの個別定義（傷害の長さ・全周の割合）は候補資料に含まれないため B。既存マスター登録済み（SRC-5201、OPEN）"
+  },
+  {
+   "card": "ES-013",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Stawinski PM, et al. Barrett's Esophagus: An Updated Review. Diagnostics 2023;13:321（DOI 10.3390/diagnostics13020321／PMID 36673131／PMCID PMC9858189。OPEN（CC BY 4.0）。PMC 全文で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC9858189/）。裏づける部分：診断＝胃ひだより口側に1 cm以上の円柱上皮があり生検で確認すること。数値の照合：1 cm：一致。留保：「生検で腸上皮化生を認めること」の必須性まで候補資料の記載が明確でないため B"
+  },
+  {
+   "card": "ES-017",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Stawinski PM, et al. Barrett's Esophagus: An Updated Review. Diagnostics 2023;13:321（DOI 10.3390/diagnostics13020321／PMID 36673131／PMCID PMC9858189。OPEN（CC BY 4.0）。PMC 全文で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC9858189/）。裏づける部分：Seattle protocol（4方向の系統的生検を、GERD の炎症を十分に制御した状態で行う）。数値の照合：部分的に不一致：カードは「2 cm間隔」と固定するが、候補資料の記載は「1〜2 cm間隔」と幅がある。留保：間隔の表記が資料間で異なるため B（§3 の指摘欄にも記載）"
+  },
+  {
+   "card": "ES-019",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Farah A, et al. The Dynamic Evolution of Eosinophilic Esophagitis. Diagnostics 2025;15:240（DOI 10.3390/diagnostics15030240／PMID 39941170／PMCID PMC11816659。OPEN（CC BY 4.0）。Crossref の刊行版ライセンスと PMC 全文で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC11816659/）。裏づける部分：PPI 反応性食道好酸球増多は EoE と組織学的・分子的特徴を共有すること、PPI が EoE の治療として寛解をもたらすこと（組織学的寛解 <15個/HPF の達成率の記載あり）。数値の照合：数値の主張なし（照合対象なし）。留保：「PPI trial を診断基準から外した」という基準改定そのものの明記は候補資料にないため B"
+  },
+  {
+   "card": "ES-022",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Farah A, et al. The Dynamic Evolution of Eosinophilic Esophagitis. Diagnostics 2025;15:240（DOI 10.3390/diagnostics15030240／PMID 39941170／PMCID PMC11816659。OPEN（CC BY 4.0）。PMC 全文で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC11816659/）。裏づける部分：管理の選択肢として除去食療法・PPI・嚥下局所ステロイドを挙げ、組織学的寛解を好酸球15個/HPF未満とすること。数値の照合：15個/HPF未満：一致。留保：候補資料は生物学的製剤・拡張術も管理に含めており、「初期治療は3つ」という枠組みそのものの提示ではないため B。現行出典（ACG EoE 2025）は CC BY ではなかった"
+  },
+  {
+   "card": "ES-024",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "U.S. Food and Drug Administration. Orphan Drug Designations and Approvals: dupilumab (Dupixent), eosinophilic esophagitis（（登録番号なし）。GOV_US（FDA の公的データベース）：https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=599317）。裏づける部分：米国 FDA の承認日と適応（2022年5月20日に12歳以上・体重40 kg以上、2024年1月25日に1歳以上・体重15 kg以上へ拡大）。数値の照合：2022-05-20：一致。拡大は2024-01-25で、カードの「2024年1月」と一致。留保：日本の部分は PMDA の患者向ガイド（デュピクセント、2026年3月更新）で効能・効果に EoE がないことを否定的に確認したにとどまる。PMDA 確認結果：審査報告書には製造販売業者等の著作権物が含まれ無断複製・転載・頒布は禁止され、添付文書等も製造販売業者が著作権を有するため、PMDA 資料は GOV_JP・OPEN の候補にはならない。デュピルマブ EoE 第III相試験（NCT03633617）は ClinicalTrials.gov に結果登録あり"
+  },
+  {
+   "card": "ES-034",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Tamanna S, et al. Robotic Heller Myotomy. Cureus 2025;17(10):e95637（DOI 10.7759/cureus.95637／PMID 41322928／PMCID PMC12661127。OPEN（CC BY 4.0）。PMC 全文で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC12661127/）。裏づける部分：III型では病変に合わせた長めの筋切開が可能で、現行のガイダンスは III型で POEM を支持すること（POEM の筋切開長 11.6〜16 cm に対し外科的筋切開 8〜8.6 cm）。数値の照合：カードに数値の主張なし。候補資料の筋切開長は参考値として記載。留保：ACG の推奨文そのもの（PD より有効、拡大筋切開を伴う LHM も選択肢）は候補資料に含まれないため B"
+  },
+  {
+   "card": "ES-058",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Brown RS Jr, et al. Hepatol Commun 2025;9:e0682（DOI 10.1097/HC9.0000000000000682／PMID 40178492／PMCID PMC11970884。OPEN（CC BY 4.0）。PMC 全文で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC11970884/）。裏づける部分：CSPH のある代償性肝硬変で NSBB（カルベジロール 12.5 mg/日を優先）を考慮し、目的を非代償化の予防とすること。数値の照合：カルベジロール 12.5 mg/日：一致。留保：Baveno VII への帰属の明記が候補資料にないため B。なお根拠となる PREDESCI 試験（NCT01059396）は ClinicalTrials.gov に結果登録がなく（Results 未掲載）、登録数値は使えなかった"
+  },
+  {
+   "card": "ES-059",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Brown RS Jr, et al. Hepatol Commun 2025;9:e0682（DOI 10.1097/HC9.0000000000000682／PMID 40178492／PMCID PMC11970884。OPEN（CC BY 4.0）。PMC 全文で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC11970884/）。裏づける部分：NSBB としてカルベジロールを優先することと、その用量 12.5 mg/日。数値の照合：部分的に不一致：上限 12.5 mg/日は一致するが、維持量の下限 6.25 mg/日を含む「6.25〜12.5 mg/日」の範囲表記は候補資料にない。留保：範囲の下限を裏づける自由な資料は他に見つからなかった"
+  },
+  {
+   "card": "ES-060",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Brown RS Jr, et al. Hepatol Commun 2025;9:e0682（DOI 10.1097/HC9.0000000000000682／PMID 40178492／PMCID PMC11970884。OPEN（CC BY 4.0）。PMC 全文で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC11970884/）。裏づける部分：NSBB が使えない（禁忌・不耐）場合に内視鏡を行い、大きな静脈瘤があれば EVL で予防すること。数値の照合：数値の主張なし（照合対象なし）。留保：「高リスク静脈瘤の一次予防では NSBB を EVL より優先する」という原則の一般形での明記は候補資料では部分的なため B"
+  },
+  {
+   "card": "ES-065",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Li S, et al. Early-TIPS Versus Current Standard Therapy for Acute Variceal Bleeding in Cirrhosis Patients: A Systematic Review With Meta-analysis. Front Pharmacol 2020;11:603（DOI 10.3389/fphar.2020.00603／PMID 32581776／PMCID PMC7282546。OPEN（CC BY）。Frontiers 全文で確認：https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2020.00603/full）。裏づける部分：72時間以内の早期 TIPS が標準治療より生存を改善すること（5試験・1,754例のメタ解析。1年死亡 OR 0.64［95%CI 0.46〜0.90］、Child-Pugh C のサブグループ OR 0.35、B OR 0.34）。数値の照合：方向は一致。カードの主張は NEJM 2010 の単一 RCT に基づくもので、候補資料は複数試験の統合値のため数値の直接照合はできない。留保：高リスクの定義（Child-Pugh C 10〜13点、または B で活動性出血）自体は候補資料の組入基準として明記されていないため B。原試験の ClinicalTrials.gov 登録には結果掲載がなかった"
+  },
+  {
+   "card": "ES-076",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Stadnicki A, et al. Identification of Sliding Hiatus Hernia by High-Resolution Manometry and Upper Gastrointestinal Endoscopy in Patients with Gastro-Oesophageal Reflux Disease. J Clin Med 2022;11:6906（DOI 10.3390/jcm11236906／PMID 36498481／PMCID PMC9737594。OPEN（CC BY 4.0）。PMC 全文に CC BY の表示あり：https://pmc.ncbi.nlm.nih.gov/articles/PMC9737594/）。裏づける部分：I型（滑脱型）が最も多く全体の95%を占めること、食道胃接合部が裂孔を通って上方へ滑脱すること、バリウム造影・内視鏡・内圧検査で同定されること、内視鏡では hernial sac が少なくとも2 cmあることが診断の目安になること。数値の照合：2 cm：概ね一致（候補資料は「少なくとも2 cm」、カードは「2 cmを超えれば」で境界の扱いがわずかに異なる）。95%は候補資料の記載値。留保：横隔食道膜の弛緩という機序の記載は候補資料にないため B"
+  },
+  {
+   "card": "HP-008",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Serena P, Mare R, et al. Resistance to Clarithromycin and Fluoroquinolones in Helicobacter pylori Isolates: A Prospective Molecular Analysis in Western Romania. Antibiotics. 2025;14:1223（DOI: 10.3390/antibiotics14121223。OPEN（CC BY 4.0）。Crossref vor license が CC BY、PDF にも CC BY の表示あり https://creativecommons.org/licenses/by/4.0/）。裏づける部分：Maastricht VI の記載として「CAM 耐性率 >15% の地域では経験的一次治療は14日間ビスマス4剤療法」を明示する部分。数値の照合：数値なし（推奨文のみ）。閾値15%・期間14日はカードと一致。留保：「感受性が不明な場合」への言及は本資料に明示がなく、この部分は未裏づけ（不明時のビスマス4剤優先は ACG 2024 側の記載）。原典 Maastricht VI（Gut 2022、SRC-5221）は「No commercial re-use」表示で RESTRICTED のまま"
+  },
+  {
+   "card": "HP-009",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Veldhuyzen van Zanten S, Krahn T. Do the new ACG Helicobacter pylori treatment guidelines have implications for Canada? J Can Assoc Gastroenterol. 2025;8(3):85-88（DOI: 10.1093/jcag/gwaf008／PMID: 40574829／PMCID: PMC12201999。OPEN（CC BY 4.0）。PMC 全文に CC BY の表示あり https://pmc.ncbi.nlm.nih.gov/articles/PMC12201999/ ／Crossref vor license も CC BY）。裏づける部分：ACG 2024 の一次治療選択肢としての最適化ビスマス4剤療法（14日間）、米国の耐性率（CAM 22.2–31.5%、レボフロキサシン 37.6%＝カードの differential と同一）、レボフロキサシン含有療法は感受性が判明した場合のみ、という部分。数値の照合：数値一致（耐性率 22.2–31.5%／37.6% がカード・候補資料とも同一）。留保：「優先（preferred）」の強さの表現と「CAM 含有レジメンを感受性未確認では避ける」の明示は ACG 原典の要旨レベルの記載で、本 CC BY 解説では CAM 耐性・既治療例での回避までの言及にとどまるため B とした。ACG 原典（SRC-5222）は © ACG で RESTRICTED のまま"
+  },
+  {
+   "card": "HP-012",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Isomoto H, Shimoyama T, et al. Guidelines for the management of Helicobacter pylori infection in Japan: 2024 revised edition. J Gastroenterol. 2026;61:841-862（既存 SRC-5223）（DOI: 10.1007/s00535-026-02379-4（既存マスター登録済み）。OPEN（CC BY 4.0）。Crossref vor license が CC BY、PDF に © The Author(s) 2026・CC BY の表示あり）。裏づける部分：判定検査前の休薬（抗菌薬は4週間、PPI/P-CAB は2週間）と、判定は治療終了後4週間以上あけて行う、という部分（ACG と同一の運用）。数値の照合：期間の数値一致（4週間／2週間／治療後4週間以上）。留保：カードのうち「ビスマス」の休薬は本資料に記載なし（ビスマス製剤は国内未承認のため JSHR ガイドラインに項目がない）。ビスマス部分は ACG 原典（RESTRICTED）にのみ明示があるため B とした"
+  },
+  {
+   "card": "HP-017",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Casey O, Dobric M, Kelly O, O'Morain CA. The importance of Helicobacter pylori eradication: a narrative review. Front Gastroenterol. 2026（DOI: 10.3389/fgstr.2026.1740221。OPEN（CC BY）。Frontiers 全文に CC BY の表示あり https://www.frontiersin.org/journals/gastroenterology/articles/10.3389/fgstr.2026.1740221/pdf）。裏づける部分：京都コンセンサス（2015）について「H. pylori 胃炎は合併症の有無にかかわらず感染症と定義すべき」と合意された旨の記載。数値の照合：数値なし。留保：カードの「症状の有無にかかわらず」に対し、本資料の表現は「合併症（complications）の有無にかかわらず」で、症状への直接の言及ではないため B とした。原典 Sugano 2015（Gut、SRC-5225）は CC BY-NC 4.0 で RESTRICTED のまま"
+  },
+  {
+   "card": "ME-008",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Ng IKS, Goh WGW, Lin NHY, Gan MY, Teo DB, Tan LF, Low YL, Aw MM, Kee ACL. Optimising feedback provision and literacy in medical training: linking theory to practice. Front Med. 2026;13:1883679（DOI 10.3389/fmed.2026.1883679／PMID 42774866／PMCID PMC13594803。OPEN（CC BY 4.0）。PMC 全文冒頭のライセンス表示で確認：https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13594803/）。裏づける部分：Ende 1983 の定義（ある活動での遂行を記述し将来の遂行を導く情報）の引用と「臨床技能修得の鍵となる段階」という位置づけ、フィードバックが不十分になりやすいこと（直接観察の欠如等）、観察された具体的な行動を記述すべきこと・本人そのものへの言及は逆効果であること。数値の照合：数値なし（概念カード）。内容の方向は一致。留保：「フィードバックと評価（判定）の区別」は、この候補では形成的／総括的という枠組みでの記述にとどまり、Ende の区別の直接の再掲ではない。その部分は裏づけ対象外として B とした。なお West J Emerg Med の Bernard 2011（Ende を詳しく再掲）は CC BY-NC のため不採用"
+  },
+  {
+   "card": "ME-012",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Bate F, Fyfe S, Griffiths D, Russell K, Skinner C, Tor E. Does an incremental approach to implementing programmatic assessment work? Reflections on the change process. MedEdPublish. 2020;9:55（DOI 10.15694/mep.2020.000055.1。OPEN（CC BY）。本文のライセンス表示で確認：https://doi.org/10.15694/mep.2020.000055.1）。裏づける部分：プログラム的評価の定義（学習・判定・質保証の機能を最適化する統合的設計）、個々の評価はデータポイントであること、フィードバックで情報価値を最大化すること、重大な判定ほど多くのデータポイントの集約を要すること、評価のステークスの連続体という考え方。数値の照合：数値なし（概念カード）。上記の範囲で一致。留保：専門家の判断の主観性への対処（サンプリング拡大・質的研究の基準による偏りの低減）と、訓練・評価・支援の反復に中間・最終評価を組み込むモデル図の細部は、この候補では再掲されていないため B"
+  },
+  {
+   "card": "ME-013",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Kim S. The future of e-learning in medical education: current trend and future opportunity. J Educ Eval Health Prof. 2006;3（PMID 19223995／PMCID PMC2631188。OPEN（CC BY、当時の Attribution License 表示）。PMC 全文のライセンス表示で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC2631188/）。裏づける部分：付表で Issenberg 2005 を要約し、対象109件と、上位4特徴の割合（フィードバック47%・反復練習39%・カリキュラム統合25%・難易度の幅14%）を再掲。数値の照合：一致：47%・39%・25%・14% はカードの値（51件・43件・27件・15件に対応する割合）と一致。不一致：同表の対象期間は「1966–2003」とあり、カード・原著の「1969–2003」と異なる（候補側の表の表記）。670件→109件の絞り込み過程と、下位6特徴の個別の件数・割合は再掲なし（「10%未満」と一括）。留保：件数（51件等）ではなく割合のみの再掲のため、主張文の全数値の裏づけにはならない。B"
+  },
+  {
+   "card": "ME-018",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Gramaglia C, Zeppegno P. Medical students and suicide prevention: training, education, and personal risks. Front Psychol. 2018;9:452（DOI 10.3389/fpsyg.2018.00452。OPEN（CC BY）。Frontiers 全文 XML のライセンス表示で確認：https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00452/xml）。裏づける部分：Rotenstein 2016 の再掲として、抑うつ症状の有病率27.2%、自殺念慮11.1%、スクリーニング陽性者のうち精神科治療を求めた割合15.7%。数値の照合：一致：27.2%・11.1%・15.7% の3点推定値はカードと一致。再掲なし：各信頼区間（24.7〜29.9% 等）、研究数・対象者数（167件・116,628人 等）、43か国、測定法による幅（9.3〜55.9%）。留保：Eur Psychiatry の Frajerman ら（Cambridge）は 27.2%［24.7〜29.9%］・11.1%［9.0〜13.7%］と件数まで再掲するが、CC ライセンスの表示を確認できず不採用。Braz J Psychiatry の Selvaraj 2021 は CC BY-NC のため不採用"
+  },
+  {
+   "card": "ME-019",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Mullin RA, Hota SS, Bearman G. Leading teams while exhausted: perspectives from healthcare epidemiology and beyond. Antimicrob Steward Healthc Epidemiol. 2023;3(1):e50（DOI 10.1017/ash.2022.25／PMID 36970433／PMCID PMC10031576。OPEN（CC BY 4.0）。PMC 全文のライセンス表示で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC10031576/）。裏づける部分：West 2016 系のメタ解析（RCT 15件・コホート37件）の再掲として、燃え尽き全体の割合が54%から44%へ下がったこと（差10ポイント）、介入の種類（マインドフルネス、ストレス対処、小グループ、勤務時間・業務量の削減など個人・組織双方）。数値の照合：一致：54%→44%（差10ポイント）、RCT 15件・コホート37件はカードと一致。再掲なし：情緒的消耗スコア −2.65、脱人格化スコア −0.64、情緒的消耗が高い割合 38%→24%。留保：この候補が引用する直接の出典は West ら 2018 の総説（J Intern Med）経由で、数値は West 2016 の値と同一であることを原著抄録と照合済み"
+  },
+  {
+   "card": "ME-023",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Behling KC, et al. Does team-based learning improve performance in an infectious diseases course in a preclinical curriculum? Int J Med Educ. 2017;8:39-44（（DOI・PMID は未確認のため空欄）／PMCID なし。OPEN（CC BY 3.0）。本文のライセンス表示で確認：http://pdfs.semanticscholar.org/7f7d/d411fe30e9ab0898136e36afd38af68c785c.pdf）。裏づける部分：TBL の進め方（事前学習のうえで個人・チームの準備確認テストと応用演習を行う Michaelsen 方式）という、主張文の方法部分。数値の照合：数値の照合対象外（方法部分のみ）。**注意：同論文の Fatmi 2013 への引用は「7 of ten studies」とあり、原著・カードの「14件中7件」と不一致（候補側の誤記）。知識スコアの内訳（7件有意・4件差なし・3件有意性言及なし）の裏づけには使えない**。留保：知識スコアの内訳と学習者の反応の内訳を再掲する CC BY 全文は見つからなかったため、方法部分のみの B"
+  },
+  {
+   "card": "NI-007",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "(1) CDC. Guideline for Disinfection and Sterilization in Healthcare Facilities, 2008（Update: June 2024）。(2) CDC. Guidelines for Infection Control in Dental Health-Care Settings — 2003. MMWR Recomm Rep. 2003;52(RR-17):1-61（Kohn WG et al.）。(3) Sakudo A, Yamashiro R, Harata C. Effect of Non-Concentrated and Concentrated Vaporized Hydrogen Peroxide on Scrapie Prions. Pathogens. 2020;9(11):947（(1)(2) なし (3) DOI: 10.3390/pathogens9110947／PMID: 33202870／PMCID: PMC7696461。(1) GOV_US（CDC ガイドライン全文 PDF）https://www.cdc.gov/infection-control/media/pdfs/guideline-disinfection-h.pdf (2) GOV_US（CDC MMWR 全文 PDF）https://www.cdc.gov/mmwr/PDF/rr/rr5217.pdf (3) OPEN（CC BY 4.0。PMC 全文ページにライセンス表示）https://pmc.ncbi.nlm.nih.gov/articles/PMC7696461/）。裏づける部分：(1) プリオンが滅菌・消毒に極めて抵抗性であること（用語定義）、洗浄が不活化の前提条件であること。(2) CJD 器具について、乾燥させず湿潤を保ち、十分に洗浄して蒸気オートクレーブ 134℃・18分を行うとする CDC の注意事項（歯科領域向けの「推奨ではなく検討事項」としての提示）。(3) 通常のオートクレーブ（121℃・20分）では不活化できず、134℃・18分の厳しい条件が必要であること。数値の照合：一致：134℃・18分は (2)(3) の両方で確認（カードと同値）。不一致・未確認：滅菌器の形式（プレバキューム式）の指定は、上記3資料のいずれにも明記がない。プレバキューム式 134℃・18分を明記するのは SHEA ガイドライン（Rutala & Weber 2010、学会著作物で RESTRICTED）のため候補にできない。留保：カードの主張の核（抵抗性、十分な洗浄、134℃・18分）は自由資料で裏づけられるが、「プレバキューム式」の指定と「ハイリスク手技の手術器具」という文脈は自由資料では直接確認できなかったため B とした。(2) は歯科領域のガイドラインであり、手術器具一般への適用は統括側の判断を要する"
+  },
+  {
+   "card": "UG-001",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Boustany A, et al. Pre-Endoscopic Scores Predicting Low-Risk Patients with Upper Gastrointestinal Bleeding: A Systematic Review and Meta-Analysis. J Clin Med. 2023;12(16):5194（DOI 10.3390/jcm12165194／PMID 37629235／PMCID PMC10456043。OPEN（CC BY 4.0）。PMC 全文のライセンス表示 https://pmc.ncbi.nlm.nih.gov/articles/PMC10456043/ 、Crossref 刊行版ライセンス https://creativecommons.org/licenses/by/4.0/）。裏づける部分：GBS カットオフ ≤1 が低リスク同定に最適で外来管理を安全に広げられること、ガイドラインが偽陰性率 ≤1%（介入または死亡）を低リスクの定義として GBS 0〜1 を例示していること。数値の照合：一部不一致：カードの「見逃し率1%以下」は定義上の基準。候補の統合解析では院内介入を要した割合は GBS 0 で 0.02（95%CI 0.01–0.05）、GBS ≤1 で 0.04（0.02–0.09）、死亡は 0.01–0.04 で、点推定値は1%を超える。留保：主張の「提案」の強さ（ACG の条件付き推奨）自体は候補では確認できないため B"
+  },
+  {
+   "card": "UG-002",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Wasserman RD, et al. Non-variceal Upper Gastrointestinal Bleeding and Its Endoscopic Management. Turk J Gastroenterol. 2024;35(8):599-608（DOI 10.5152/tjg.2024.23507／PMID 39150279／PMCID PMC11363156。OPEN（CC BY 4.0）。PMC 全文のライセンス表示 https://pmc.ncbi.nlm.nih.gov/articles/PMC11363156/）。裏づける部分：GBS の感度の高さと、GBS 0〜1 で外来フォローへの帰宅を考慮できること。数値の照合：一部不一致：感度は一致（候補：5研究で感度 99–100%。カード：99〜100%）。特異度は不一致（候補：GBS >0 で「最大44%」。カード：GBS 0 で 8〜22%）。閾値の定義（>0 と 0）とアウトカム（重症出血の同定）が異なるため単純比較不可。留保：カードの特異度 8〜22% を裏づける自由な全文は見つからなかった（ACG が引く系統的レビューは Wiley 刊で自由でない）"
+  },
+  {
+   "card": "UG-003",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Teutsch B, et al. Potential benefits of restrictive transfusion in upper gastrointestinal bleeding: a systematic review and meta-analysis of randomised controlled trials. Sci Rep. 2023;13（DOI 10.1038/s41598-023-44271-8／PMID 37828128／PMCID PMC10570344。OPEN（CC BY 4.0）。論文 PDF の Open Access ライセンス表示、掲載ページ https://www.nature.com/articles/s41598-023-44271-8）。裏づける部分：制限輸血（試験ごとの閾値 70〜80 g/L 級、Villanueva 試験は 70 g/L）の試験群全体で死亡・再出血が増えなかったこと（閾値7 g/dL 戦略の根拠部分）。数値の照合：数値の直接の記載なし（ガイドラインの「提案」文そのものは候補にない）。候補の統合値：院内死亡 RR 0.94（0.46–1.94）、30日死亡 RR 0.71（0.35–1.45）で悪化なし。留保：ACG の条件付き推奨（低い質）という推奨の強さ自体は自由資料では裏づけられないため B"
+  },
+  {
+   "card": "UG-004",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Teutsch B, et al. Sci Rep. 2023（同上）（DOI 10.1038/s41598-023-44271-8／PMID 37828128／PMCID PMC10570344。対象試験 Villanueva 2013：PMID 23281973／DOI 10.1056/NEJMoa1211801／NCT00414713。OPEN（CC BY 4.0、上記同））。裏づける部分：Villanueva 試験の輸血割合と45日死亡の HR（試験固有の数値が候補の表と本文にある）。数値の照合：一致：輸血を受けた割合 制限群 219例（49%）vs 非制限群 384例（86%）＝カードの 49% vs 86% と一致。45日死亡 HR 0.55（95%CI 0.33–0.92）＝カードと一致。ただし分母は解析対象 444／445例（計889例）で、カード冒頭の無作為化数 921例（461／460）とは別（下記「主張文の修正」参照）。死亡率 5% vs 9% そのものは候補の本文にはなく、原著（NEJM）の記載（23例 vs 41例）で確認。留保：ClinicalTrials.gov の NCT00414713 は結果登録なし（Results posted ではない）ことを API で確認したため、登録レコードは候補にできない。原著 NEJM は RESTRICTED（既存 SRC-027）"
+  },
+  {
+   "card": "UG-005",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Teutsch B, et al. Sci Rep. 2023（同上）（DOI 10.1038/s41598-023-44271-8／PMID 37828128／PMCID PMC10570344。OPEN（CC BY 4.0、上記同））。裏づける部分：制限輸血で輸血量が減り、臨床転帰（死亡・再出血）が悪化しなかったこと。数値の照合：一部未確認：カードの「輸血を受ける患者数が43%減」は、候補では再現できない。候補の指標は輸血単位数で MD −1.35単位（95%CI −2.39〜−0.32）。候補が引用する別 SR（Odutayo）の 42% は再出血の減少率で、43%（輸血患者割合の減少）とは指標が違う。留保：43% の出典は ACG が引く系統的レビューで、自由な全文では確認できなかった"
+  },
+  {
+   "card": "UG-006",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Menichelli D, et al. Acute upper and lower gastrointestinal bleeding management in older people taking or not taking anticoagulants: a literature review. Front Med. 2024;11:1399429／Wasserman RD, et al. Turk J Gastroenterol. 2024（同上）（Menichelli：DOI 10.3389/fmed.2024.1399429／PMID 38765253／PMCID PMC11099229。Wasserman：DOI 10.5152/tjg.2024.23507／PMID 39150279／PMCID PMC11363156。いずれも OPEN（CC BY 4.0）。Crossref 刊行版ライセンス https://creativecommons.org/licenses/by/4.0/ 、PMC 全文 https://pmc.ncbi.nlm.nih.gov/articles/PMC11363156/）。裏づける部分：安定化後に24時間以内に内視鏡を行うこと（Menichelli：来院後24時間以内。Wasserman：初期安定化後24時間以内が理想）。数値の照合：数値なし（時期の一致のみ：24時間以内＝両候補とも一致）。留保：カードの「推奨される」（JGES 強い推奨）に対し候補の表現は「should be performed／ideally」で、推奨の強さは弱めのため B"
+  },
+  {
+   "card": "UG-007",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Wasserman RD, et al. Turk J Gastroenterol. 2024（同上）（DOI 10.5152/tjg.2024.23507／PMID 39150279／PMCID PMC11363156。OPEN（CC BY 4.0）https://pmc.ncbi.nlm.nih.gov/articles/PMC11363156/）。裏づける部分：経鼻胃管は選択的患者に限り使われ、上部出血を確定・否定できないこと（活動性出血でも最大15%で吸引所見が一致しない）＝ルーチン挿入を推奨しない根拠部分。数値の照合：数値：候補の「最大15%で所見が一致しない」はカードにない数値（カードに数値なし）。不一致ではない。留保：JGES の「弱い推奨で推奨されない」という推奨文そのものは候補にないため B"
+  },
+  {
+   "card": "UG-008",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Menichelli D, et al. Front Med. 2024（同上）（DOI 10.3389/fmed.2024.1399429／PMID 38765253／PMCID PMC11099229。OPEN（CC BY 4.0）。Crossref 刊行版ライセンス https://creativecommons.org/licenses/by/4.0/）。裏づける部分：エリスロマイシン 250 mg 静注を内視鏡の約30〜120分前に投与する用量・時期。数値の照合：用量・時期は一致（250 mg、30〜120分前）。対象は一部不一致：候補のフローチャートでは「循環動態が安定した患者」への投与として記載され、カードの「重症または活動性出血が続く」例という条件とは対象がずれる。留保：現行出典 ESGE 2015／2021 は Thieme © で RESTRICTED（UNKNOWN の再確認結果。D ではない）。ESGE の「推奨」の強さは候補では確認できない"
+  },
+  {
+   "card": "UG-009",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Menichelli D, et al. Front Med. 2024（同上）（DOI 10.3389/fmed.2024.1399429／PMID 38765253／PMCID PMC11099229。OPEN（CC BY 4.0）https://creativecommons.org/licenses/by/4.0/）。裏づける部分：内視鏡的止血治療が推奨されるのは活動性の噴出・湧出と露出血管のみであること（＝高リスク所見が止血対象という部分）。数値の照合：数値なし。留保：IIc（平坦な色素斑）・III（清浄潰瘍底）の名称と「止血を要しない」の明示は候補にないため B（「only」の記述から低リスク側は含意されるにとどまる）"
+  },
+  {
+   "card": "UG-016",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Menichelli D, et al. Front Med. 2024（同上）（DOI 10.3389/fmed.2024.1399429／PMID 38765253／PMCID PMC11099229。OPEN（CC BY 4.0）https://creativecommons.org/licenses/by/4.0/）。裏づける部分：二次予防の抗血小板薬は中止すべきでなく、中止した場合も止血が確保されれば再開すること、一次予防では中止すること（カードの differential とも一致）。数値の照合：数値なし。再開時期の具体性は一部不一致：カードは「再出血リスクが低ければ内視鏡直後から」。候補は「止血が確保されれば再開」で、直後／低リスク例という条件の明示はない。留保：現行出典 ESGE 2015（SRC-5229）は Thieme © で RESTRICTED（UNKNOWN の再確認結果。D ではない）。根拠 RCT（Sung 2010、NCT00153725）は ClinicalTrials.gov に結果登録なし"
+  },
+  {
+   "card": "UG-017",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Menichelli D, et al. Front Med. 2024（同上）（DOI 10.3389/fmed.2024.1399429／PMID 38765253／PMCID PMC11099229。OPEN（CC BY 4.0）https://creativecommons.org/licenses/by/4.0/）。裏づける部分：血栓リスクに応じた抗凝固薬の再開（低リスクではワルファリン再開は7日後、高リスク例ではより早期を検討、DOAC は7日以内に再開）。数値の照合：数値：候補は再開時期を「7日」で具体化しており、カードの「臨床的に可能になった時点でできるだけ早く」とは時期の表現が異なる（方向性は一致、時期は候補のほうが遅めの枠）。留保：ESGE 2026 の推奨17 そのものではないため B"
+  },
+  {
+   "card": "ND-049",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Tanaka F, Katsuno M, Banno H, Suzuki K, Adachi H, Sobue G. Current Status of Treatment of Spinal and Bulbar Muscular Atrophy. Neural Plast. 2012;2012:369284（DOI 10.1155/2012/369284／PMID 22720173／PMCID PMC3376774、OPEN（CC BY）https://pmc.ncbi.nlm.nih.gov/articles/PMC3376774/）。裏づける部分：AR 遺伝子第1エクソン（Xq11-12）の CAG リピート伸長、X 連鎖性で男性のみ発症・女性は保因者、下位運動ニューロンの喪失。数値の照合：正常範囲 9–36（上限36は一致）、病原側は over 38 と表記"
+  },
+  {
+   "card": "ES-018",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Farah A, et al. The Dynamic Evolution of Eosinophilic Esophagitis. Diagnostics. 2025;15:240（DOI 10.3390/diagnostics15030240／PMID 39941170／PMCID PMC11816659、OPEN（CC BY 4.0））。裏づける部分：診断の3条件"
+  },
+  {
+   "card": "ES-021",
+   "label": "作り手の調査（未調査の68枚）2026-11-23",
+   "text": "Farah A, et al. Diagnostics. 2025;15:240（同上、OPEN）。裏づける部分：EREFS の構成要素（Edema, Rings, Exudates, Furrows, Stenosis）"
+  }
+ ],
+ "rest_fix": {},
+ "open_fix": []
+}

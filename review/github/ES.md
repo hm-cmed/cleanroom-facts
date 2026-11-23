@@ -198,9 +198,9 @@
 - 鑑別・補足：LGDは1年間6か月ごと、その後は年1回
 - よくある誤解：NDBEを毎年内視鏡で追う必要があると考える
 - 不確実性：low
-- 出典：Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587　[DOI 10.14309/ajg.0000000000001680](https://doi.org/10.14309/ajg.0000000000001680)　[PMID 35354777](https://pubmed.ncbi.nlm.nih.gov/35354777/)（区分 RESTRICTED）
+- 出典：Stawinski PM, Dziadkowiec KN, Kuo LA, Echavarria J, Saligram S. Barrett's Esophagus: An Updated Review. Diagnostics. 2023;13(2):321　[DOI 10.3390/diagnostics13020321](https://doi.org/10.3390/diagnostics13020321)　[PMID 36673131](https://pubmed.ncbi.nlm.nih.gov/36673131/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-1-B-②（逆流性食道炎（備考：Barrett上皮、Barrett食道）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-016&card_id=ES-016&version=c1480ee0ef)　（版 `c1480ee0ef`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-016&card_id=ES-016&version=95f5e7d2c4)　（版 `95f5e7d2c4`）
 
 ### ES-017　出典照合済み・監修待ち
 
@@ -226,7 +226,7 @@
 - 出題基準：医学各論 Ⅵ-1-B-①（胃食道逆流症<GERD>、非びらん性胃食道逆流症<NERD>、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-093&card_id=ES-093&version=b8fd6c4e81)　（版 `b8fd6c4e81`）
 
-**[ここまでの 8 件（ES-011〜ES-093）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-011%E3%80%9CES-093&cards=ES-011%2064e32ef016%0AES-012%2045ee4b913b%0AES-013%2073df396574%0AES-014%20b4c661ff19%0AES-015%20b80b5517d5%0AES-016%20c1480ee0ef%0AES-017%20d96ac087ab%0AES-093%20b8fd6c4e81)**
+**[ここまでの 8 件（ES-011〜ES-093）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-011%E3%80%9CES-093&cards=ES-011%2064e32ef016%0AES-012%2045ee4b913b%0AES-013%2073df396574%0AES-014%20b4c661ff19%0AES-015%20b80b5517d5%0AES-016%2095f5e7d2c4%0AES-017%20d96ac087ab%0AES-093%20b8fd6c4e81)**
 
 ---
 
@@ -240,9 +240,9 @@
 - 鑑別・補足：GERD、好酸球性胃腸炎、薬剤性
 - よくある誤解：PPIで改善した例はEoEではないと考える
 - 不確実性：low
-- 出典：ACG Clinical Guideline: EoE. Am J Gastroenterol 2025　[DOI 10.14309/ajg.0000000000003194](https://doi.org/10.14309/ajg.0000000000003194)　[PMID 39745304](https://pubmed.ncbi.nlm.nih.gov/39745304/)（区分 UNKNOWN）
+- 出典：Abe Y, et al. Endoscopic Diagnosis of Eosinophilic Esophagitis: Basics and Recent Advances. Diagnostics. 2022;12:3202　[DOI 10.3390/diagnostics12123202](https://doi.org/10.3390/diagnostics12123202)　[PMID 36553209](https://pubmed.ncbi.nlm.nih.gov/36553209/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-018&card_id=ES-018&version=53ecca8685)　（版 `53ecca8685`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-018&card_id=ES-018&version=3e726c1a0e)　（版 `3e726c1a0e`）
 
 ### ES-019　出典照合済み・監修待ち
 
@@ -276,9 +276,9 @@
 - 鑑別・補足：カンジダ食道炎の白苔
 - よくある誤解：内視鏡所見が正常ならEoEを否定できると考える
 - 不確実性：low（抄録で照合）
-- 出典：Hirano I, et al. Endoscopic assessment of the oesophageal features of eosinophilic oesophagitis: validation of a novel classification and grading system. Gut 2013;62:489-495　[DOI 10.1136/gutjnl-2011-301817](https://doi.org/10.1136/gutjnl-2011-301817)　[PMID 22619364](https://pubmed.ncbi.nlm.nih.gov/22619364/)（区分 RESTRICTED）
+- 出典：Abe Y, et al. Endoscopic Diagnosis of Eosinophilic Esophagitis: Basics and Recent Advances. Diagnostics. 2022;12:3202　[DOI 10.3390/diagnostics12123202](https://doi.org/10.3390/diagnostics12123202)　[PMID 36553209](https://pubmed.ncbi.nlm.nih.gov/36553209/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-021&card_id=ES-021&version=4e184286a7)　（版 `4e184286a7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-021&card_id=ES-021&version=b987ac0813)　（版 `b987ac0813`）
 
 ### ES-022　下書き（出典の照合前）
 
@@ -324,9 +324,9 @@
 - 鑑別・補足：カンジダ食道炎の白苔（白斑との鑑別）
 - よくある誤解：内視鏡所見が乏しければEoEは否定できると考える
 - 不確実性：low（抄録で照合）
-- 出典：Hirano I, et al. Endoscopic assessment of the oesophageal features of eosinophilic oesophagitis: validation of a novel classification and grading system. Gut 2013;62:489-495　[DOI 10.1136/gutjnl-2011-301817](https://doi.org/10.1136/gutjnl-2011-301817)　[PMID 22619364](https://pubmed.ncbi.nlm.nih.gov/22619364/)（区分 RESTRICTED）
+- 出典：Abe Y, et al. Endoscopic Diagnosis of Eosinophilic Esophagitis: Basics and Recent Advances. Diagnostics. 2022;12:3202　[DOI 10.3390/diagnostics12123202](https://doi.org/10.3390/diagnostics12123202)　[PMID 36553209](https://pubmed.ncbi.nlm.nih.gov/36553209/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-088&card_id=ES-088&version=890016f310)　（版 `890016f310`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-088&card_id=ES-088&version=6484814a01)　（版 `6484814a01`）
 
 ### ES-091　下書き（出典の照合前）
 
@@ -340,7 +340,7 @@
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-091&card_id=ES-091&version=403b6de772)　（版 `403b6de772`）
 
-**[ここまでの 9 件（ES-018〜ES-091）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-018%E3%80%9CES-091&cards=ES-018%2053ecca8685%0AES-019%2063e644243d%0AES-020%203f82d7b35d%0AES-021%204e184286a7%0AES-022%206d7c7ef645%0AES-023%202a831e0bb7%0AES-024%20812cad0c30%0AES-088%20890016f310%0AES-091%20403b6de772)**
+**[ここまでの 9 件（ES-018〜ES-091）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-018%E3%80%9CES-091&cards=ES-018%203e726c1a0e%0AES-019%2063e644243d%0AES-020%203f82d7b35d%0AES-021%20b987ac0813%0AES-022%206d7c7ef645%0AES-023%202a831e0bb7%0AES-024%20812cad0c30%0AES-088%206484814a01%0AES-091%20403b6de772)**
 
 ---
 
@@ -758,9 +758,9 @@
 - 鑑別・補足：HVPG 6〜9 mmHgはCSPHに至らない門脈圧亢進
 - よくある誤解：静脈瘤がなければCSPHではないと考える
 - 不確実性：low
-- 出典：Kaplan DE, et al. AASLD Practice Guidance, portal hypertension and varices. Hepatology 2024;79:1180-1211　[DOI 10.1097/HEP.0000000000000647](https://doi.org/10.1097/HEP.0000000000000647)　[PMID 37870298](https://pubmed.ncbi.nlm.nih.gov/37870298/)（区分 RESTRICTED）
+- 出典：Brown RS Jr, et al. Screening and management of portal hypertension and varices in cirrhosis: Expert perspectives. Hepatol Commun. 2025;9:e0682　[DOI 10.1097/HC9.0000000000000682](https://doi.org/10.1097/HC9.0000000000000682)　[PMID 40178492](https://pubmed.ncbi.nlm.nih.gov/40178492/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-6-D-①（門脈圧亢進症、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-057&card_id=ES-057&version=a33f5a6767)　（版 `a33f5a6767`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-057&card_id=ES-057&version=8f50b6adec)　（版 `8f50b6adec`）
 
 ### ES-058　出典照合済み・監修待ち
 
@@ -870,7 +870,7 @@
 - 出題基準：医学各論 Ⅵ-1-D-①（食道静脈瘤（備考：胃静脈瘤、BRTO）、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)；TBL-02-07-034 (id: JlAKplU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-066&card_id=ES-066&version=b76bd58c47)　（版 `b76bd58c47`）
 
-**[ここまでの 10 件（ES-057〜ES-066）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-057%E3%80%9CES-066&cards=ES-057%20a33f5a6767%0AES-058%20c93094ee02%0AES-059%20860bdad822%0AES-060%20e74f30fcb7%0AES-061%20d4a6c5e1c4%0AES-062%20d4112acf97%0AES-063%2033f006459f%0AES-064%2038cd8206c9%0AES-065%200157e67614%0AES-066%20b76bd58c47)**
+**[ここまでの 10 件（ES-057〜ES-066）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ES-057%E3%80%9CES-066&cards=ES-057%208f50b6adec%0AES-058%20c93094ee02%0AES-059%20860bdad822%0AES-060%20e74f30fcb7%0AES-061%20d4a6c5e1c4%0AES-062%20d4112acf97%0AES-063%2033f006459f%0AES-064%2038cd8206c9%0AES-065%200157e67614%0AES-066%20b76bd58c47)**
 
 ---
 
@@ -980,7 +980,7 @@
 - 鑑別・補足：逆流性食道炎、感染性食道炎
 - よくある誤解：少量の水で服用してすぐ横になっても問題ないと考える
 - 不確実性：low（PMC本文で照合）。ライセンスは Phase 3 の照合で確定
-- 出典：Abdi S, et al. Drug-induced esophagitis and helpful management for healthcare providers. Gastroenterol Hepatol Bed Bench 2022;15:219-224　[DOI 10.22037/ghfbb.v15i3.2591](https://doi.org/10.22037/ghfbb.v15i3.2591)　[PMID 36311965](https://pubmed.ncbi.nlm.nih.gov/36311965/)（区分 UNKNOWN）
+- 出典：Abdi S, et al. Drug-induced esophagitis and helpful management for healthcare providers. Gastroenterol Hepatol Bed Bench 2022;15:219-224　[DOI 10.22037/ghfbb.v15i3.2591](https://doi.org/10.22037/ghfbb.v15i3.2591)　[PMID 36311965](https://pubmed.ncbi.nlm.nih.gov/36311965/)（区分 RESTRICTED）
 - 出題基準：医学総論 Ⅵ-5-B（嚥下障害（嚥下痛・通過障害・誤嚥）、-）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-077&card_id=ES-077&version=9c8fb49e1e)　（版 `9c8fb49e1e`）
 
@@ -992,7 +992,7 @@
 - 鑑別・補足：HIV感染者などの免疫不全者では頻度が高い。EoEの白斑との鑑別
 - よくある誤解：カンジダ食道炎は免疫不全者にしか起こらないと考える
 - 不確実性：low（抄録で照合）。単施設の健診データ
-- 出典：Chen YH, et al. Prevalence and risk factors for Candida esophagitis among human immunodeficiency virus-negative individuals. World J Clin Cases 2022;10:10896-10905　[DOI 10.12998/wjcc.v10.i30.10896](https://doi.org/10.12998/wjcc.v10.i30.10896)　[PMID 36338217](https://pubmed.ncbi.nlm.nih.gov/36338217/)（区分 UNKNOWN）
+- 出典：Chen YH, et al. Prevalence and risk factors for Candida esophagitis among human immunodeficiency virus-negative individuals. World J Clin Cases 2022;10:10896-10905　[DOI 10.12998/wjcc.v10.i30.10896](https://doi.org/10.12998/wjcc.v10.i30.10896)　[PMID 36338217](https://pubmed.ncbi.nlm.nih.gov/36338217/)（区分 RESTRICTED）
 - 出題基準：該当なし　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-078&card_id=ES-078&version=72bba87272)　（版 `72bba87272`）
 
@@ -1068,7 +1068,7 @@
 - 鑑別・補足：Boerhaave症候群（全層性破裂、ES-085〜087）、静脈瘤出血
 - よくある誤解：Mallory-Weiss症候群は全例で内視鏡的止血が必要と考える
 - 不確実性：low（抄録で照合）
-- 出典：Mertens A, et al. A systematic analysis of incidence, therapeutic strategies, and in-hospital mortality of Mallory-Weiss syndrome in Germany. J Clin Gastroenterol 2024;58:640-649　[DOI 10.1097/MCG.0000000000001918](https://doi.org/10.1097/MCG.0000000000001918)　[PMID 37668412](https://pubmed.ncbi.nlm.nih.gov/37668412/)（区分 UNKNOWN）
+- 出典：Mertens A, et al. A systematic analysis of incidence, therapeutic strategies, and in-hospital mortality of Mallory-Weiss syndrome in Germany. J Clin Gastroenterol 2024;58:640-649　[DOI 10.1097/MCG.0000000000001918](https://doi.org/10.1097/MCG.0000000000001918)　[PMID 37668412](https://pubmed.ncbi.nlm.nih.gov/37668412/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-1-E-①（Mallory-Weiss症候群、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-033 (id: JlAKplQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-084&card_id=ES-084&version=ad7876eaba)　（版 `ad7876eaba`）
 

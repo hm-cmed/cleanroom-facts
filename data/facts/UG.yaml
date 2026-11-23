@@ -19,6 +19,7 @@
     source_license: © ACG
     legal_basis: B
     source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Boustany A, et al. Pre-Endoscopic Scores Predicting Low-Risk Patients with Upper Gastrointestinal Bleeding: A Systematic Review and Meta-Analysis. J Clin Med. 2023;12(16):5194（DOI 10.3390/jcm12165194／PMID 37629235／PMCID PMC10456043。OPEN（CC BY 4.0）。PMC 全文のライセンス表示 https://pmc.ncbi.nlm.nih.gov/articles/PMC10456043/ 、Crossref 刊行版ライセンス https://creativecommons.org/licenses/by/4.0/）。裏づける部分：GBS カットオフ ≤1 が低リスク同定に最適で外来管理を安全に広げられること、ガイドラインが偽陰性率 ≤1%（介入または死亡）を低リスクの定義として GBS 0〜1 を例示していること。数値の照合：一部不一致：カードの「見逃し率1%以下」は定義上の基準。候補の統合解析では院内介入を要した割合は GBS 0 で 0.02（95%CI 0.01–0.05）、GBS ≤1 で 0.04（0.02–0.09）、死亡は 0.01–0.04 で、点推定値は1%を超える。留保：主張の「提案」の強さ（ACG の条件付き推奨）自体は候補では確認できないため B'
   uncertainty: null
   curriculum:
     core_curriculum: null
@@ -45,6 +46,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5226 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: UG-002
   domain: UG
   subdomain: null
@@ -63,6 +67,7 @@
     source_license: © ACG
     legal_basis: B
     source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Wasserman RD, et al. Non-variceal Upper Gastrointestinal Bleeding and Its Endoscopic Management. Turk J Gastroenterol. 2024;35(8):599-608（DOI 10.5152/tjg.2024.23507／PMID 39150279／PMCID PMC11363156。OPEN（CC BY 4.0）。PMC 全文のライセンス表示 https://pmc.ncbi.nlm.nih.gov/articles/PMC11363156/）。裏づける部分：GBS の感度の高さと、GBS 0〜1 で外来フォローへの帰宅を考慮できること。数値の照合：一部不一致：感度は一致（候補：5研究で感度 99–100%。カード：99〜100%）。特異度は不一致（候補：GBS >0 で「最大44%」。カード：GBS 0 で 8〜22%）。閾値の定義（>0 と 0）とアウトカム（重症出血の同定）が異なるため単純比較不可。留保：カードの特異度 8〜22% を裏づける自由な全文は見つからなかった（ACG が引く系統的レビューは Wiley 刊で自由でない）
   uncertainty: null
   curriculum:
     core_curriculum: null
@@ -89,6 +94,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5226 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: UG-003
   domain: UG
   subdomain: null
@@ -111,6 +119,7 @@
     source_license: © ACG
     legal_basis: B
     source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Teutsch B, et al. Potential benefits of restrictive transfusion in upper gastrointestinal bleeding: a systematic review and meta-analysis of randomised controlled trials. Sci Rep. 2023;13（DOI 10.1038/s41598-023-44271-8／PMID 37828128／PMCID PMC10570344。OPEN（CC BY 4.0）。論文 PDF の Open Access ライセンス表示、掲載ページ https://www.nature.com/articles/s41598-023-44271-8）。裏づける部分：制限輸血（試験ごとの閾値 70〜80 g/L 級、Villanueva 試験は 70 g/L）の試験群全体で死亡・再出血が増えなかったこと（閾値7 g/dL 戦略の根拠部分）。数値の照合：数値の直接の記載なし（ガイドラインの「提案」文そのものは候補にない）。候補の統合値：院内死亡 RR 0.94（0.46–1.94）、30日死亡 RR 0.71（0.35–1.45）で悪化なし。留保：ACG の条件付き推奨（低い質）という推奨の強さ自体は自由資料では裏づけられないため B'
   uncertainty: 心血管疾患合併例の具体的な閾値（8 g/dL等）は要確認
   curriculum:
     core_curriculum: null
@@ -137,6 +146,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5226 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: UG-004
   domain: UG
   subdomain: null
@@ -154,6 +166,7 @@
     source_license: © ACG（引用元）
     legal_basis: B
     source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Teutsch B, et al. Sci Rep. 2023（同上）（DOI 10.1038/s41598-023-44271-8／PMID 37828128／PMCID PMC10570344。対象試験 Villanueva 2013：PMID 23281973／DOI 10.1056/NEJMoa1211801／NCT00414713。OPEN（CC BY 4.0、上記同））。裏づける部分：Villanueva 試験の輸血割合と45日死亡の HR（試験固有の数値が候補の表と本文にある）。数値の照合：一致：輸血を受けた割合 制限群 219例（49%）vs 非制限群 384例（86%）＝カードの 49% vs 86% と一致。45日死亡 HR 0.55（95%CI 0.33–0.92）＝カードと一致。ただし分母は解析対象 444／445例（計889例）で、カード冒頭の無作為化数 921例（461／460）とは別（下記「主張文の修正」参照）。死亡率 5% vs 9% そのものは候補の本文にはなく、原著（NEJM）の記載（23例 vs 41例）で確認。留保：ClinicalTrials.gov の NCT00414713 は結果登録なし（Results posted ではない）ことを API で確認したため、登録レコードは候補にできない。原著 NEJM は RESTRICTED（既存 SRC-027）
   uncertainty: PMIDはPubMedの検索結果で確認。DOIは要確認｜［取り込み時］DOIは原本で「要確認」のためnull
   curriculum:
     core_curriculum: null
@@ -177,6 +190,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: UG-005
   domain: UG
   subdomain: null
@@ -194,6 +210,7 @@
     source_license: © ACG
     legal_basis: B
     source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Teutsch B, et al. Sci Rep. 2023（同上）（DOI 10.1038/s41598-023-44271-8／PMID 37828128／PMCID PMC10570344。OPEN（CC BY 4.0、上記同））。裏づける部分：制限輸血で輸血量が減り、臨床転帰（死亡・再出血）が悪化しなかったこと。数値の照合：一部未確認：カードの「輸血を受ける患者数が43%減」は、候補では再現できない。候補の指標は輸血単位数で MD −1.35単位（95%CI −2.39〜−0.32）。候補が引用する別 SR（Odutayo）の 42% は再出血の減少率で、43%（輸血患者割合の減少）とは指標が違う。留保：43% の出典は ACG が引く系統的レビューで、自由な全文では確認できなかった
   uncertainty: null
   curriculum:
     core_curriculum: null
@@ -220,6 +237,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5226 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: UG-006
   domain: UG
   subdomain: null
@@ -240,6 +260,7 @@
     source_license: Wiley標準条件／未確認
     legal_basis: B
     source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Menichelli D, et al. Acute upper and lower gastrointestinal bleeding management in older people taking or not taking anticoagulants: a literature review. Front Med. 2024;11:1399429／Wasserman RD, et al. Turk J Gastroenterol. 2024（同上）（Menichelli：DOI 10.3389/fmed.2024.1399429／PMID 38765253／PMCID PMC11099229。Wasserman：DOI 10.5152/tjg.2024.23507／PMID 39150279／PMCID PMC11363156。いずれも OPEN（CC BY 4.0）。Crossref 刊行版ライセンス https://creativecommons.org/licenses/by/4.0/ 、PMC 全文 https://pmc.ncbi.nlm.nih.gov/articles/PMC11363156/）。裏づける部分：安定化後に24時間以内に内視鏡を行うこと（Menichelli：来院後24時間以内。Wasserman：初期安定化後24時間以内が理想）。数値の照合：数値なし（時期の一致のみ：24時間以内＝両候補とも一致）。留保：カードの「推奨される」（JGES 強い推奨）に対し候補の表現は「should be performed／ideally」で、推奨の強さは弱めのため B'
   uncertainty: null
   curriculum:
     core_curriculum: null
@@ -263,6 +284,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: UG-007
   domain: UG
   subdomain: null
@@ -283,6 +307,7 @@
     source_license: Wiley標準条件
     legal_basis: B
     source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Wasserman RD, et al. Turk J Gastroenterol. 2024（同上）（DOI 10.5152/tjg.2024.23507／PMID 39150279／PMCID PMC11363156。OPEN（CC BY 4.0）https://pmc.ncbi.nlm.nih.gov/articles/PMC11363156/）。裏づける部分：経鼻胃管は選択的患者に限り使われ、上部出血を確定・否定できないこと（活動性出血でも最大15%で吸引所見が一致しない）＝ルーチン挿入を推奨しない根拠部分。数値の照合：数値：候補の「最大15%で所見が一致しない」はカードにない数値（カードに数値なし）。不一致ではない。留保：JGES の「弱い推奨で推奨されない」という推奨文そのものは候補にないため B
   uncertainty: null
   curriculum:
     core_curriculum: null
@@ -309,6 +334,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-4966 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: UG-008
   domain: UG
   subdomain: null
@@ -329,6 +357,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
+    corroboration: 自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Menichelli D, et al. Front Med. 2024（同上）（DOI 10.3389/fmed.2024.1399429／PMID 38765253／PMCID PMC11099229。OPEN（CC BY 4.0）。Crossref 刊行版ライセンス https://creativecommons.org/licenses/by/4.0/）。裏づける部分：エリスロマイシン 250 mg 静注を内視鏡の約30〜120分前に投与する用量・時期。数値の照合：用量・時期は一致（250 mg、30〜120分前）。対象は一部不一致：候補のフローチャートでは「循環動態が安定した患者」への投与として記載され、カードの「重症または活動性出血が続く」例という条件とは対象がずれる。留保：現行出典 ESGE 2015／2021 は Thieme © で RESTRICTED（UNKNOWN の再確認結果。D ではない）。ESGE の「推奨」の強さは候補では確認できない
   uncertainty: 日本での保険適用外使用である点を要確認
   curriculum:
     core_curriculum: null
@@ -352,6 +381,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: UG-009
   domain: UG
   subdomain: null
@@ -372,6 +404,7 @@
     source_license: 未確認／© ACG
     legal_basis: B
     source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Menichelli D, et al. Front Med. 2024（同上）（DOI 10.3389/fmed.2024.1399429／PMID 38765253／PMCID PMC11099229。OPEN（CC BY 4.0）https://creativecommons.org/licenses/by/4.0/）。裏づける部分：内視鏡的止血治療が推奨されるのは活動性の噴出・湧出と露出血管のみであること（＝高リスク所見が止血対象という部分）。数値の照合：数値なし。留保：IIc（平坦な色素斑）・III（清浄潰瘍底）の名称と「止血を要しない」の明示は候補にないため B（「only」の記述から低リスク側は含意されるにとどまる）
   uncertainty: null
   curriculum:
     core_curriculum: null
@@ -395,6 +428,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: UG-010
   domain: UG
   subdomain: null
@@ -456,15 +492,16 @@
     condition:
       region: global
   provenance:
-    source_ref: null
-    source: ESGE 2021／ACG 2021
-    doi: null
-    pmid: null
-    pmcid: null
-    url: null
-    source_license: 未確認／© ACG
+    source_ref: SRC-5238
+    source: Wasserman RD, Abel W, Monkemuller K, Yeaton P, Kesar V, Kesar V. Non-variceal Upper Gastrointestinal Bleeding and Its Endoscopic Management. Turk J Gastroenterol. 2024;35(8):599-608
+    doi: 10.5152/tjg.2024.23507
+    pmid: '39150279'
+    pmcid: PMC11363156
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11363156/
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
+    source_class: OPEN
+    corroboration: 元の主出典：None（ESGE 2021／ACG 2021）
   uncertainty: 今回取得した資料では文言を確認できていない。要確認
   curriculum:
     core_curriculum: null
@@ -488,6 +525,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: 主出典を None から自由に使える資料 SRC-5238 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：エピネフリン局注は常にもう1つの止血法と併用すべきで、単独では他の単独療法より効果が劣ること（主張全体）。数値の照合：数値なし（カードに数値なし））。三原の承認（2026-11-11）による
 - id: UG-012
   domain: UG
   subdomain: null
@@ -691,7 +731,8 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Menichelli D, et al. Front Med. 2024（同上）（DOI 10.3389/fmed.2024.1399429／PMID 38765253／PMCID PMC11099229。OPEN（CC BY 4.0）https://creativecommons.org/licenses/by/4.0/）。裏づける部分：二次予防の抗血小板薬は中止すべきでなく、中止した場合も止血が確保されれば再開すること、一次予防では中止すること（カードの differential とも一致）。数値の照合：数値なし。再開時期の具体性は一部不一致：カードは「再出血リスクが低ければ内視鏡直後から」。候補は「止血が確保されれば再開」で、直後／低リスク例という条件の明示はない。留保：現行出典 ESGE 2015（SRC-5229）は Thieme © で RESTRICTED（UNKNOWN の再確認結果。D ではない）。根拠 RCT（Sung 2010、NCT00153725）は ClinicalTrials.gov に結果登録なし
   uncertainty: 最新版での再開時期（即時／3日以内等）は要確認
   curriculum:
     core_curriculum: null
@@ -718,6 +759,12 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5229 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-5229 の確認結果に合わせる）。作り手の調査（proposals/pd_survey_20261111/free_sources_68_result.md、2026-11-23）
 - id: UG-017
   domain: UG
   subdomain: null
@@ -738,6 +785,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: RESTRICTED
+    corroboration: 自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Menichelli D, et al. Front Med. 2024（同上）（DOI 10.3389/fmed.2024.1399429／PMID 38765253／PMCID PMC11099229。OPEN（CC BY 4.0）https://creativecommons.org/licenses/by/4.0/）。裏づける部分：血栓リスクに応じた抗凝固薬の再開（低リスクではワルファリン再開は7日後、高リスク例ではより早期を検討、DOAC は7日以内に再開）。数値の照合：数値：候補は再開時期を「7日」で具体化しており、カードの「臨床的に可能になった時点でできるだけ早く」とは時期の表現が異なる（方向性は一致、時期は候補のほうが遅めの枠）。留保：ESGE 2026 の推奨17 そのものではないため B
   uncertainty: null
   curriculum:
     core_curriculum: null
@@ -770,6 +818,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: PMID を補完（SRC-5227 と同じ）。作り手（Muse）のライセンス照合 第1回（reports/license_check_01_muse.md、2026-11-23）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: UG-018
   domain: UG
   subdomain: null

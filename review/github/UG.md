@@ -121,9 +121,9 @@
 
 - 条件：region: global
 - 不確実性：今回取得した資料では文言を確認できていない。要確認
-- 出典：ESGE 2021／ACG 2021（区分 RESTRICTED）
+- 出典：Wasserman RD, Abel W, Monkemuller K, Yeaton P, Kesar V, Kesar V. Non-variceal Upper Gastrointestinal Bleeding and Its Endoscopic Management. Turk J Gastroenterol. 2024;35(8):599-608　[DOI 10.5152/tjg.2024.23507](https://doi.org/10.5152/tjg.2024.23507)　[PMID 39150279](https://pubmed.ncbi.nlm.nih.gov/39150279/)（区分 OPEN）
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）　コアカリ：－
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-011&card_id=UG-011&version=e7e5fd85fb)　（版 `e7e5fd85fb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-011&card_id=UG-011&version=c3b7be8e01)　（版 `c3b7be8e01`）
 
 ### UG-012　下書き（出典の照合前）
 
@@ -173,7 +173,7 @@
 - 鑑別・補足：一次予防目的のアスピリンは中止を検討
 - よくある誤解：潰瘍出血後は抗血小板薬を数週間中止するのが安全
 - 不確実性：最新版での再開時期（即時／3日以内等）は要確認
-- 出典：ESGE 2015　[DOI 10.1055/s-0034-1393172](https://doi.org/10.1055/s-0034-1393172)（区分 UNKNOWN）
+- 出典：ESGE 2015　[DOI 10.1055/s-0034-1393172](https://doi.org/10.1055/s-0034-1393172)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）　コアカリ：－
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-016&card_id=UG-016&version=3bfe76b5cf)　（版 `3bfe76b5cf`）
 
@@ -196,7 +196,7 @@
 - 出題基準：医学各論 Ⅵ-2-C-③（消化性潰瘍（胃潰瘍、十二指腸潰瘍）、a）　コアカリ：－
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20UG-018&card_id=UG-018&version=fa93706bb7)　（版 `fa93706bb7`）
 
-**[ここまでの 8 件（UG-011〜UG-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UG-011%E3%80%9CUG-018&cards=UG-011%20e7e5fd85fb%0AUG-012%202bbc00ce4a%0AUG-013%20155f5438a8%0AUG-014%2030c4fc049e%0AUG-015%20ca5c7163e4%0AUG-016%203bfe76b5cf%0AUG-017%20e25bcbf255%0AUG-018%20fa93706bb7)**
+**[ここまでの 8 件（UG-011〜UG-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20UG-011%E3%80%9CUG-018&cards=UG-011%20c3b7be8e01%0AUG-012%202bbc00ce4a%0AUG-013%20155f5438a8%0AUG-014%2030c4fc049e%0AUG-015%20ca5c7163e4%0AUG-016%203bfe76b5cf%0AUG-017%20e25bcbf255%0AUG-018%20fa93706bb7)**
 
 ---
 

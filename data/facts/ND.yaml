@@ -1758,16 +1758,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-1694
-    source: 難病情報センター. 球脊髄性筋萎縮症（指定難病 1）概要・診断基準等
+    source_ref: SRC-5236
+    source: MedlinePlus Genetics. Spinal and bulbar muscular atrophy. National Library of Medicine（最終更新 2020-06-01）
     doi: null
     pmid: null
     pmcid: null
-    url: null
-    source_license: 難病情報センター（公的資料。政府標準利用規約の適用は取り込み側で最終確認を要する）
+    url: https://medlineplus.gov/genetics/condition/spinal-and-bulbar-muscular-atrophy/
+    source_license: 米国連邦政府の著作物
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: GOV_US
+    corroboration: 元の主出典：SRC-1694（難病情報センター. 球脊髄性筋萎縮症（指定難病 1）概要・診断基準等）。自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Tanaka F, Katsuno M, Banno H, Suzuki K, Adachi H, Sobue G. Current Status of Treatment of Spinal and Bulbar Muscular Atrophy. Neural Plast. 2012;2012:369284（DOI 10.1155/2012/369284／PMID 22720173／PMCID PMC3376774、OPEN（CC BY）https://pmc.ncbi.nlm.nih.gov/articles/PMC3376774/）。裏づける部分：AR 遺伝子第1エクソン（Xq11-12）の CAG リピート伸長、X 連鎖性で男性のみ発症・女性は保因者、下位運動ニューロンの喪失。数値の照合：正常範囲 9–36（上限36は一致）、病原側は over 38 と表記
   uncertainty: 出典は日本の指定難病診断基準であり、遺伝学的事実は国際的に共通する。女性化乳房などの軽度のアンドロゲン不全症状や耐糖能異常を合併しうることが同基準に記載されている。リュープロレリン酢酸塩が国内で進行抑制の治療として承認されている旨は本カードの出典外の情報であり、命題には含めなかった。
   curriculum:
     kokushi: 医学各論 Ⅸ-4-G-②（球脊髄性筋萎縮症、b）
@@ -1785,6 +1785,12 @@
   - date: '2026-11-13'
     by: claude-code
     change: 出典 SRC-1694 の区分の訂正（難病情報センター・研究班の参照ガイドは著作権で保護される、2026-11-13 三原の決定）にあわせて provenance.source_class を GOV_JP から RESTRICTED にした
+  - date: '2026-11-23'
+    by: claude-code
+    change: 主出典を SRC-1694 から自由に使える資料 SRC-5236 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：主張全体。(1) AR 遺伝子の CAG リピート異常伸長が原因であること、通常は成人男性に発症し女性は通常無症状（保因者）であること、下位運動ニューロン（脊髄・脳幹の運動ニューロン）の障害であること。(2) X 染色体上の AR 遺伝子第1エクソン（Xq11-12）の CAG リピート伸長、X 連。数値の照合：一致（閾値）：異常側はカード「38回以上」に対し MedlinePlus は "at least 38 times"、AR gene ページは "38 to more than 60" で一致。正常側はカード「36以下」に対し MedlinePlus は "up to about 36 times"）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ND-050
   domain: ND
   subdomain: 多発性硬化症

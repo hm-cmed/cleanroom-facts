@@ -279,7 +279,7 @@
     source_license: 未確認（BMJ、非CC推定）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: W01でもC・Dを重症としている
+    corroboration: W01でもC・Dを重症としている。自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Iwakiri K, et al. Evidence-based clinical practice guidelines for gastroesophageal reflux disease 2021. J Gastroenterol 2022;57:267-285（既存 SRC-5201）（DOI 10.1007/s00535-022-01861-z／PMID 35226174／PMCID PMC8938399。OPEN（CC BY 4.0）。PMC 全文に CC BY 4.0 の表示あり：https://pmc.ncbi.nlm.nih.gov/articles/PMC8938399/）。裏づける部分：LA分類が最も検証され再現性の高い分類であること、重症RE＝グレードC/D・軽症RE＝グレードA/Bという重症度区分。数値の照合：候補資料に個別グレードの定義数値（5 mm、75%）の記載なし（照合対象なし）。留保：グレードA〜Dの個別定義（傷害の長さ・全周の割合）は候補資料に含まれないため B。既存マスター登録済み（SRC-5201、OPEN）
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -315,6 +315,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5202 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ES-006
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -763,7 +766,7 @@
     source_license: 非CC（license欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: 定義の節で要確認
+    corroboration: '定義の節で要確認。自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Stawinski PM, et al. Barrett''s Esophagus: An Updated Review. Diagnostics 2023;13:321（DOI 10.3390/diagnostics13020321／PMID 36673131／PMCID PMC9858189。OPEN（CC BY 4.0）。PMC 全文で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC9858189/）。裏づける部分：診断＝胃ひだより口側に1 cm以上の円柱上皮があり生検で確認すること。数値の照合：1 cm：一致。留保：「生検で腸上皮化生を認めること」の必須性まで候補資料の記載が明確でないため B'
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -808,6 +811,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5204 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ES-014
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -941,16 +947,16 @@
     differential: LGDは1年間6か月ごと、その後は年1回
     common_misconception: NDBEを毎年内視鏡で追う必要があると考える
   provenance:
-    source_ref: SRC-5204
-    source: Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587
-    doi: 10.14309/ajg.0000000000001680
-    pmid: '35354777'
-    pmcid: PMC10259184
-    url: null
-    source_license: 非CC（license欄なし）
+    source_ref: SRC-5230
+    source: 'Stawinski PM, Dziadkowiec KN, Kuo LA, Echavarria J, Saligram S. Barrett''s Esophagus: An Updated Review. Diagnostics. 2023;13(2):321'
+    doi: 10.3390/diagnostics13020321
+    pmid: '36673131'
+    pmcid: PMC9858189
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9858189/
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: AGA Clinical Practice Update（CGH 2022）と一致
+    source_class: OPEN
+    corroboration: AGA Clinical Practice Update（CGH 2022）と一致。元の主出典：SRC-5204（Shaheen NJ, et al. ACG Barrett's Esophagus guideline. Am J Gastroenterol 2022;117:559-587）
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -998,6 +1004,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5204 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 主出典を SRC-5204 から自由に使える資料 SRC-5230 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：NDBE のサーベイランス間隔を長さで分ける記載（3 cm未満は5年ごと、3 cm以上は3年ごと）。数値の照合：3 cm未満→5年、3 cm以上→3年：一致）。三原の承認（2026-11-11）による
 - id: ES-017
   domain: ES
   subdomain: GERD・NERD・Barrett食道
@@ -1017,7 +1026,7 @@
     source_license: 非CC（license欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: ACG 2015
+    corroboration: 'ACG 2015。自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Stawinski PM, et al. Barrett''s Esophagus: An Updated Review. Diagnostics 2023;13:321（DOI 10.3390/diagnostics13020321／PMID 36673131／PMCID PMC9858189。OPEN（CC BY 4.0）。PMC 全文で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC9858189/）。裏づける部分：Seattle protocol（4方向の系統的生検を、GERD の炎症を十分に制御した状態で行う）。数値の照合：部分的に不一致：カードは「2 cm間隔」と固定するが、候補資料の記載は「1〜2 cm間隔」と幅がある。留保：間隔の表記が資料間で異なるため B（§3 の指摘欄にも記載）'
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -1068,6 +1077,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5204 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ES-018
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1078,16 +1090,16 @@
     differential: GERD、好酸球性胃腸炎、薬剤性
     common_misconception: PPIで改善した例はEoEではないと考える
   provenance:
-    source_ref: SRC-5206
-    source: 'ACG Clinical Guideline: EoE. Am J Gastroenterol 2025'
-    doi: 10.14309/ajg.0000000000003194
-    pmid: '39745304'
-    pmcid: null
-    url: null
-    source_license: 未確認
+    source_ref: SRC-5231
+    source: 'Abe Y, et al. Endoscopic Diagnosis of Eosinophilic Esophagitis: Basics and Recent Advances. Diagnostics. 2022;12:3202'
+    doi: 10.3390/diagnostics12123202
+    pmid: '36553209'
+    pmcid: PMC9777529
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9777529/
+    source_license: CC BY
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: AGREEも同じ閾値
+    source_class: OPEN
+    corroboration: 'AGREEも同じ閾値。元の主出典：SRC-5206（ACG Clinical Guideline: EoE. Am J Gastroenterol 2025）。自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Farah A, et al. The Dynamic Evolution of Eosinophilic Esophagitis. Diagnostics. 2025;15:240（DOI 10.3390/diagnostics15030240／PMID 39941170／PMCID PMC11816659、OPEN（CC BY 4.0））。裏づける部分：診断の3条件'
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -1132,6 +1144,12 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5206 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 主出典を SRC-5206 から自由に使える資料 SRC-5231 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：診断の3条件（食道機能障害の症状、peak 15個/HPF以上＝約60個/mm²、二次性食道好酸球増多をきたす疾患の除外）。数値の照合：15個/HPF、約60個/mm²：一致）。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ES-019
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1151,7 +1169,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: ACG 2025
+    corroboration: ACG 2025。自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Farah A, et al. The Dynamic Evolution of Eosinophilic Esophagitis. Diagnostics 2025;15:240（DOI 10.3390/diagnostics15030240／PMID 39941170／PMCID PMC11816659。OPEN（CC BY 4.0）。Crossref の刊行版ライセンスと PMC 全文で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC11816659/）。裏づける部分：PPI 反応性食道好酸球増多は EoE と組織学的・分子的特徴を共有すること、PPI が EoE の治療として寛解をもたらすこと（組織学的寛解 <15個/HPF の達成率の記載あり）。数値の照合：数値の主張なし（照合対象なし）。留保：「PPI trial を診断基準から外した」という基準改定そのものの明記は候補資料にないため B
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -1193,6 +1211,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5207 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ES-020
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1271,16 +1292,16 @@
     differential: カンジダ食道炎の白苔
     common_misconception: 内視鏡所見が正常ならEoEを否定できると考える
   provenance:
-    source_ref: SRC-5209
-    source: 'Hirano I, et al. Endoscopic assessment of the oesophageal features of eosinophilic oesophagitis: validation of a novel classification and grading system. Gut 2013;62:489-495'
-    doi: 10.1136/gutjnl-2011-301817
-    pmid: '22619364'
-    pmcid: null
-    url: null
-    source_license: BMJ（CC表示は未確認）
+    source_ref: SRC-5231
+    source: 'Abe Y, et al. Endoscopic Diagnosis of Eosinophilic Esophagitis: Basics and Recent Advances. Diagnostics. 2022;12:3202'
+    doi: 10.3390/diagnostics12123202
+    pmid: '36553209'
+    pmcid: PMC9777529
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9777529/
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: ACG 2025で要確認
+    source_class: OPEN
+    corroboration: 'ACG 2025で要確認。元の主出典：SRC-5209（Hirano I, et al. Endoscopic assessment of the oesophageal features of eosinophilic oesophagitis: validation of a novel classification and grading system. Gut 2013;62:489-495）。自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Farah A, et al. Diagnostics. 2025;15:240（同上、OPEN）。裏づける部分：EREFS の構成要素（Edema, Rings, Exudates, Furrows, Stenosis）'
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -1316,6 +1337,12 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5209 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 主出典を SRC-5209 から自由に使える資料 SRC-5231 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：典型的所見（浮腫、輪状溝、白斑、縦走溝、狭窄）が EREFS として統一され客観的評価に使われること。数値の照合：数値の主張なし（照合対象なし））。三原の承認（2026-11-11）による
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ES-022
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1335,7 +1362,7 @@
     source_license: 未確認
     legal_basis: B
     source_class: UNKNOWN
-    corroboration: 15個/HPF未満を目標とする記載は確認済み
+    corroboration: 15個/HPF未満を目標とする記載は確認済み。自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Farah A, et al. The Dynamic Evolution of Eosinophilic Esophagitis. Diagnostics 2025;15:240（DOI 10.3390/diagnostics15030240／PMID 39941170／PMCID PMC11816659。OPEN（CC BY 4.0）。PMC 全文で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC11816659/）。裏づける部分：管理の選択肢として除去食療法・PPI・嚥下局所ステロイドを挙げ、組織学的寛解を好酸球15個/HPF未満とすること。数値の照合：15個/HPF未満：一致。留保：候補資料は生物学的製剤・拡張術も管理に含めており、「初期治療は3つ」という枠組みそのものの提示ではないため B。現行出典（ACG EoE 2025）は CC BY ではなかった
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -1377,6 +1404,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5206 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ES-023
   domain: ES
   subdomain: 好酸球性食道炎（EoE）
@@ -1477,7 +1507,7 @@
     source_license: 企業資料（非CC）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: 慶應義塾大学病院 KOMPAS（2024年5月）、サノフィプレスリリース（2022-05-20）
+    corroboration: '慶應義塾大学病院 KOMPAS（2024年5月）、サノフィプレスリリース（2022-05-20）。自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：U.S. Food and Drug Administration. Orphan Drug Designations and Approvals: dupilumab (Dupixent), eosinophilic esophagitis（（登録番号なし）。GOV_US（FDA の公的データベース）：https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=599317）。裏づける部分：米国 FDA の承認日と適応（2022年5月20日に12歳以上・体重40 kg以上、2024年1月25日に1歳以上・体重15 kg以上へ拡大）。数値の照合：2022-05-20：一致。拡大は2024-01-25で、カードの「2024年1月」と一致。留保：日本の部分は PMDA の患者向ガイド（デュピクセント、2026年3月更新）で効能・効果に EoE がないことを否定的に確認したにとどまる。PMDA 確認結果：審査報告書には製造販売業者等の著作権物が含まれ無断複製・転載・頒布は禁止され、添付文書等も製造販売業者が著作権を有するため、PMDA 資料は GOV_JP・OPEN の候補にはならない。デュピルマブ EoE 第III相試験（NCT03633617）は ClinicalTrials.gov に結果登録あり'
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: false
@@ -1522,6 +1552,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「日本」を入れた（作り手の候補、確度中。文字列だった condition を 対象 に移した）。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ES-025
   domain: ES
   subdomain: 食道運動障害
@@ -2129,7 +2162,7 @@
     source_license: © ACG（PMC 著者稿、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: ACG・ASGE 2020で要確認
+    corroboration: ACG・ASGE 2020で要確認。自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Tamanna S, et al. Robotic Heller Myotomy. Cureus 2025;17(10):e95637（DOI 10.7759/cureus.95637／PMID 41322928／PMCID PMC12661127。OPEN（CC BY 4.0）。PMC 全文で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC12661127/）。裏づける部分：III型では病変に合わせた長めの筋切開が可能で、現行のガイダンスは III型で POEM を支持すること（POEM の筋切開長 11.6〜16 cm に対し外科的筋切開 8〜8.6 cm）。数値の照合：カードに数値の主張なし。候補資料の筋切開長は参考値として記載。留保：ACG の推奨文そのもの（PD より有効、拡大筋切開を伴う LHM も選択肢）は候補資料に含まれないため B
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -2165,6 +2198,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5210 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ES-035
   domain: ES
   subdomain: 食道癌
@@ -3505,16 +3541,16 @@
     differential: HVPG 6〜9 mmHgはCSPHに至らない門脈圧亢進
     common_misconception: 静脈瘤がなければCSPHではないと考える
   provenance:
-    source_ref: SRC-5211
-    source: Kaplan DE, et al. AASLD Practice Guidance, portal hypertension and varices. Hepatology 2024;79:1180-1211
-    doi: 10.1097/HEP.0000000000000647
-    pmid: '37870298'
-    pmcid: null
-    url: null
-    source_license: 非CC（license欄なし）
+    source_ref: SRC-5232
+    source: 'Brown RS Jr, et al. Screening and management of portal hypertension and varices in cirrhosis: Expert perspectives. Hepatol Commun. 2025;9:e0682'
+    doi: 10.1097/HC9.0000000000000682
+    pmid: '40178492'
+    pmcid: PMC11970884
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11970884/
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: Baveno VII
+    source_class: OPEN
+    corroboration: Baveno VII。元の主出典：SRC-5211（Kaplan DE, et al. AASLD Practice Guidance, portal hypertension and varices. Hepatology 2024;79:1180-1211）
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -3550,6 +3586,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5211 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 主出典を SRC-5211 から自由に使える資料 SRC-5232 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：CSPH の定義（HVPG 10 mmHg以上）。数値の照合：HVPG 10 mmHg以上：一致）。三原の承認（2026-11-11）による
 - id: ES-058
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3569,7 +3608,7 @@
     source_license: 非CC（license欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: Baveno VII 5.14・5.15
+    corroboration: Baveno VII 5.14・5.15。自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Brown RS Jr, et al. Hepatol Commun 2025;9:e0682（DOI 10.1097/HC9.0000000000000682／PMID 40178492／PMCID PMC11970884。OPEN（CC BY 4.0）。PMC 全文で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC11970884/）。裏づける部分：CSPH のある代償性肝硬変で NSBB（カルベジロール 12.5 mg/日を優先）を考慮し、目的を非代償化の予防とすること。数値の照合：カルベジロール 12.5 mg/日：一致。留保：Baveno VII への帰属の明記が候補資料にないため B。なお根拠となる PREDESCI 試験（NCT01059396）は ClinicalTrials.gov に結果登録がなく（Results 未掲載）、登録数値は使えなかった
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -3608,6 +3647,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5211 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ES-059
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3627,7 +3669,7 @@
     source_license: 非CC（license欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: ガイダンスの推奨文
+    corroboration: ガイダンスの推奨文。自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Brown RS Jr, et al. Hepatol Commun 2025;9:e0682（DOI 10.1097/HC9.0000000000000682／PMID 40178492／PMCID PMC11970884。OPEN（CC BY 4.0）。PMC 全文で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC11970884/）。裏づける部分：NSBB としてカルベジロールを優先することと、その用量 12.5 mg/日。数値の照合：部分的に不一致：上限 12.5 mg/日は一致するが、維持量の下限 6.25 mg/日を含む「6.25〜12.5 mg/日」の範囲表記は候補資料にない。留保：範囲の下限を裏づける自由な資料は他に見つからなかった
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -3660,6 +3702,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5211 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ES-060
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -3679,7 +3724,7 @@
     source_license: 非CC（license欄なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: ガイダンス本文
+    corroboration: ガイダンス本文。自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Brown RS Jr, et al. Hepatol Commun 2025;9:e0682（DOI 10.1097/HC9.0000000000000682／PMID 40178492／PMCID PMC11970884。OPEN（CC BY 4.0）。PMC 全文で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC11970884/）。裏づける部分：NSBB が使えない（禁忌・不耐）場合に内視鏡を行い、大きな静脈瘤があれば EVL で予防すること。数値の照合：数値の主張なし（照合対象なし）。留保：「高リスク静脈瘤の一次予防では NSBB を EVL より優先する」という原則の一般形での明記は候補資料では部分的なため B
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -3712,6 +3757,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5211 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ES-061
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -4017,6 +4065,7 @@
       pmid_matched: true
       license_from_crossref: null
       notes: Crossrefに license の記載なし（source_class は現状維持）
+    corroboration: '自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Li S, et al. Early-TIPS Versus Current Standard Therapy for Acute Variceal Bleeding in Cirrhosis Patients: A Systematic Review With Meta-analysis. Front Pharmacol 2020;11:603（DOI 10.3389/fphar.2020.00603／PMID 32581776／PMCID PMC7282546。OPEN（CC BY）。Frontiers 全文で確認：https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2020.00603/full）。裏づける部分：72時間以内の早期 TIPS が標準治療より生存を改善すること（5試験・1,754例のメタ解析。1年死亡 OR 0.64［95%CI 0.46〜0.90］、Child-Pugh C のサブグループ OR 0.35、B OR 0.34）。数値の照合：方向は一致。カードの主張は NEJM 2010 の単一 RCT に基づくもので、候補資料は複数試験の統合値のため数値の直接照合はできない。留保：高リスクの定義（Child-Pugh C 10〜13点、または B で活動性出血）自体は候補資料の組入基準として明記されていないため B。原試験の ClinicalTrials.gov 登録には結果掲載がなかった'
   uncertainty: PMIDは依頼者提示の値で、本セッションでは独立に照合していない
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-019 (id: JlAKpkg)'
@@ -4061,6 +4110,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5212 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ES-066
   domain: ES
   subdomain: 食道静脈瘤・門脈圧亢進症
@@ -4713,6 +4765,7 @@
       pmid_matched: true
       license_from_crossref: https://www.elsevier.com/tdm/userlicense/1.0/
       notes: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Stadnicki A, et al. Identification of Sliding Hiatus Hernia by High-Resolution Manometry and Upper Gastrointestinal Endoscopy in Patients with Gastro-Oesophageal Reflux Disease. J Clin Med 2022;11:6906（DOI 10.3390/jcm11236906／PMID 36498481／PMCID PMC9737594。OPEN（CC BY 4.0）。PMC 全文に CC BY の表示あり：https://pmc.ncbi.nlm.nih.gov/articles/PMC9737594/）。裏づける部分：I型（滑脱型）が最も多く全体の95%を占めること、食道胃接合部が裂孔を通って上方へ滑脱すること、バリウム造影・内視鏡・内圧検査で同定されること、内視鏡では hernial sac が少なくとも2 cmあることが診断の目安になること。数値の照合：2 cm：概ね一致（候補資料は「少なくとも2 cm」、カードは「2 cmを超えれば」で境界の扱いがわずかに異なる）。95%は候補資料の記載値。留保：横隔食道膜の弛緩という機序の記載は候補資料にないため B
   uncertainty: low（抄録で照合）。II〜IV型の定義は未収載
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-004 (id: JlAKpjc)'
@@ -4739,6 +4792,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5213 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ES-077
   domain: ES
   subdomain: その他の食道疾患
@@ -4758,7 +4814,7 @@
     pmid: '36311965'
     source_license: null
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -4788,6 +4844,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5214 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-5214 の確認結果に合わせる）。作り手の調査（proposals/pd_survey_20261111/free_sources_68_result.md、2026-11-23）
 - id: ES-078
   domain: ES
   subdomain: その他の食道疾患
@@ -4807,7 +4866,7 @@
     pmid: '36338217'
     source_license: null
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -4840,6 +4899,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5215 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-5215 の確認結果に合わせる）。作り手の調査（proposals/pd_survey_20261111/free_sources_68_result.md、2026-11-23）
 - id: ES-079
   domain: ES
   subdomain: その他の食道疾患
@@ -5184,7 +5246,7 @@
     pmid: '37668412'
     source_license: null
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
@@ -5217,6 +5279,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5218 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-5218 の確認結果に合わせる）。作り手の調査（proposals/pd_survey_20261111/free_sources_68_result.md、2026-11-23）
 - id: ES-085
   domain: ES
   subdomain: その他の食道疾患
@@ -5431,21 +5496,22 @@
     differential: カンジダ食道炎の白苔（白斑との鑑別）
     common_misconception: 内視鏡所見が乏しければEoEは否定できると考える
   provenance:
-    source_ref: SRC-5209
-    url: null
-    pmcid: null
-    source: 'Hirano I, et al. Endoscopic assessment of the oesophageal features of eosinophilic oesophagitis: validation of a novel classification and grading system. Gut 2013;62:489-495'
-    doi: 10.1136/gutjnl-2011-301817
-    pmid: '22619364'
-    source_license: BMJ（CC表示は未確認）
+    source_ref: SRC-5231
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9777529/
+    pmcid: PMC9777529
+    source: 'Abe Y, et al. Endoscopic Diagnosis of Eosinophilic Esophagitis: Basics and Recent Advances. Diagnostics. 2022;12:3202'
+    doi: 10.3390/diagnostics12123202
+    pmid: '36553209'
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
+    source_class: OPEN
     id_check:
       checked_at: '2026-10-13'
       doi_resolved: true
       pmid_matched: true
       license_from_crossref: null
       notes: Crossrefに license の記載なし（source_class は現状維持）
+    corroboration: '元の主出典：SRC-5209（Hirano I, et al. Endoscopic assessment of the oesophageal features of eosinophilic oesophagitis: validation of a novel classification and grading system. Gut 2013;62:489-495）'
   uncertainty: low（抄録で照合）
   curriculum:
     core_curriculum: 'PS-02-08-05 (id: JkxnuRY)；TBL-02-07-030 (id: JlAKplE)'
@@ -5472,6 +5538,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5209 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 主出典を SRC-5209 から自由に使える資料 SRC-5231 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：EREFS の等級表と、Hirano らの観察者間一致（κ）をまとめた表を収載。数値の照合：κ：カードの「主要4所見で 0.40〜0.54」に対し、候補資料の表では浮腫 0.43・輪状溝 0.40・白斑 0.46・縦走溝 0.54（範囲 0.40〜0.54）で一致。追加所見の狭窄は 0.52）。三原の承認（2026-11-11）による
 - id: ES-089
   domain: ES
   subdomain: その他の食道疾患

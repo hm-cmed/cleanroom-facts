@@ -628,11 +628,11 @@
 
 - 条件：population: 球脊髄性筋萎縮症の患者および保因者／region: 国際
 - 不確実性：出典は日本の指定難病診断基準であり、遺伝学的事実は国際的に共通する。女性化乳房などの軽度のアンドロゲン不全症状や耐糖能異常を合併しうることが同基準に記載されている。リュープロレリン酢酸塩が国内で進行抑制の治療として承認されている旨は本カードの出典外の情報であり、命題には含めなかった。
-- 出典：難病情報センター. 球脊髄性筋萎縮症（指定難病 1）概要・診断基準等（区分 RESTRICTED）
+- 出典：MedlinePlus Genetics. Spinal and bulbar muscular atrophy. National Library of Medicine（最終更新 2020-06-01）　[リンク](https://medlineplus.gov/genetics/condition/spinal-and-bulbar-muscular-atrophy/)（区分 GOV_US）
 - 出題基準：医学各論 Ⅸ-4-G-②（球脊髄性筋萎縮症、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-049&card_id=ND-049&version=c4bd54562d)　（版 `c4bd54562d`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-049&card_id=ND-049&version=6cc483e625)　（版 `6cc483e625`）
 
-**[ここまでの 1 件（ND-049）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-049&cards=ND-049%20c4bd54562d)**
+**[ここまでの 1 件（ND-049）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ND-049&cards=ND-049%206cc483e625)**
 
 ---
 

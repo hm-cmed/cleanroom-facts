@@ -1,0 +1,147 @@
+{
+ "class": [],
+ "A": [
+  [
+   "ES-016",
+   "SRC-5204",
+   "SRC-5230"
+  ],
+  [
+   "ES-018",
+   "SRC-5206",
+   "SRC-5231"
+  ],
+  [
+   "ES-021",
+   "SRC-5209",
+   "SRC-5231"
+  ],
+  [
+   "ES-088",
+   "SRC-5209",
+   "SRC-5231"
+  ],
+  [
+   "ES-057",
+   "SRC-5211",
+   "SRC-5232"
+  ],
+  [
+   "HP-002",
+   "SRC-5220",
+   "SRC-5233"
+  ],
+  [
+   "HP-003",
+   null,
+   "SRC-5233"
+  ],
+  [
+   "HP-020",
+   null,
+   "SRC-5234"
+  ],
+  [
+   "ME-010",
+   "SRC-5113",
+   "SRC-5235"
+  ],
+  [
+   "ND-049",
+   "SRC-1694",
+   "SRC-5236"
+  ],
+  [
+   "NI-006",
+   "SRC-1636",
+   "SRC-5237"
+  ],
+  [
+   "UG-011",
+   null,
+   "SRC-5238"
+  ],
+  [
+   "HP-014",
+   null,
+   "SRC-5223"
+  ]
+ ],
+ "B": [
+  "ES-005",
+  "ES-013",
+  "ES-017",
+  "ES-019",
+  "ES-022",
+  "ES-024",
+  "ES-034",
+  "ES-058",
+  "ES-059",
+  "ES-060",
+  "ES-065",
+  "ES-076",
+  "HP-008",
+  "HP-009",
+  "HP-012",
+  "HP-017",
+  "ME-008",
+  "ME-012",
+  "ME-013",
+  "ME-018",
+  "ME-019",
+  "ME-023",
+  "NI-007",
+  "UG-001",
+  "UG-002",
+  "UG-003",
+  "UG-004",
+  "UG-005",
+  "UG-006",
+  "UG-007",
+  "UG-008",
+  "UG-009",
+  "UG-016",
+  "UG-017",
+  "ND-049",
+  "ES-018",
+  "ES-021"
+ ],
+ "new_src": [
+  [
+   "SRC-5230",
+   "Stawinski PM, Dziadkowiec KN, Kuo LA, Echavarria J, Saligram S. Barrett's Esopha"
+  ],
+  [
+   "SRC-5231",
+   "Abe Y, et al. Endoscopic Diagnosis of Eosinophilic Esophagitis: Basics and Recen"
+  ],
+  [
+   "SRC-5232",
+   "Brown RS Jr, et al. Screening and management of portal hypertension and varices "
+  ],
+  [
+   "SRC-5233",
+   "Sugimoto M, Yamaoka Y. Role of Vonoprazan in Helicobacter pylori Eradication The"
+  ],
+  [
+   "SRC-5234",
+   "Nakamura S, Hojo M. Diagnosis and Treatment for Gastric Mucosa-Associated Lympho"
+  ],
+  [
+   "SRC-5235",
+   "Passi V, Doug M, Peile E, Thistlethwaite J, Johnson N. Developing medical profes"
+  ],
+  [
+   "SRC-5236",
+   "MedlinePlus Genetics. Spinal and bulbar muscular atrophy. National Library of Me"
+  ],
+  [
+   "SRC-5237",
+   "CDC. Clinical Overview of Variant Creutzfeldt-Jakob Disease（2024-11-12 更新）"
+  ],
+  [
+   "SRC-5238",
+   "Wasserman RD, Abel W, Monkemuller K, Yeaton P, Kesar V, Kesar V. Non-variceal Up"
+  ]
+ ]
+}

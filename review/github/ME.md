@@ -204,9 +204,9 @@
 
 - 条件：region: 国際／対象: 医学生および医師
 - 不確実性：3原則と10の責務の構成は憲章の公表内容に基づく。本文は購読誌面のため逐語の確認はしておらず、定義文の翻訳は転載せず、自作の文で記載した。同じ憲章は Lancet 誌にも同時掲載された。本カードは、医学生が学ぶプロフェッショナリズムの内容として、コアカリ第1層の PR（プロフェッショナリズム）に対応づけた。
-- 出典：ABIM Foundation, ACP-ASIM Foundation, European Federation of Internal Medicine. Medical professionalism in the new millennium: a physician charter. Ann Intern Med. 2002;136(3):243-246　[DOI 10.7326/0003-4819-136-3-200202050-00012](https://doi.org/10.7326/0003-4819-136-3-200202050-00012)　[PMID 11827500](https://pubmed.ncbi.nlm.nih.gov/11827500/)（区分 RESTRICTED）
+- 出典：Passi V, Doug M, Peile E, Thistlethwaite J, Johnson N. Developing medical professionalism in future doctors: a systematic review. Int J Med Educ. 2010;1:19-29　[DOI 10.5116/ijme.4bda.ca2a](https://doi.org/10.5116/ijme.4bda.ca2a)（区分 OPEN）
 - 出題基準：必修の基本的事項 1（医師のプロフェッショナリズム、-）　コアカリ：PR (id: JnGV10M)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-010&card_id=ME-010&version=f7c125f1f3)　（版 `f7c125f1f3`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-010&card_id=ME-010&version=f12bf1d56d)　（版 `f12bf1d56d`）
 
 ### ME-017　下書き（出典の照合前）
 
@@ -255,7 +255,7 @@
 - 出題基準：必修の基本的事項 16-A-②（多職種の各専門性の理解、-）　コアカリ：IP (id: JnGV11A)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-025&card_id=ME-025&version=6739c9e838)　（版 `6739c9e838`）
 
-**[ここまでの 6 件（ME-010〜ME-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-010%E3%80%9CME-025&cards=ME-010%20f7c125f1f3%0AME-017%20e730d45305%0AME-018%20d4c03c5388%0AME-019%20487b1792aa%0AME-024%20ed45bc754b%0AME-025%206739c9e838)**
+**[ここまでの 6 件（ME-010〜ME-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-010%E3%80%9CME-025&cards=ME-010%20f12bf1d56d%0AME-017%20e730d45305%0AME-018%20d4c03c5388%0AME-019%20487b1792aa%0AME-024%20ed45bc754b%0AME-025%206739c9e838)**
 
 ---
 

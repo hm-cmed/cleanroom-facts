@@ -38560,14 +38560,17 @@
   doi: 10.22037/ghfbb.v15i3.2591
   pmid: '36311965'
   pmcid: null
-  license_note: null
+  license_note: CC BY-NC 4.0（PMC 全文の表示）。2026-11-23 確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-11-23'
     by: claude-code
     change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-077 の記載をそのまま写した（新たな判定はしていない）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（CC BY-NC 4.0（PMC 全文の表示））。作り手の調査（proposals/pd_survey_20261111/free_sources_68_result.md、2026-11-23）
 - id: SRC-5215
   legacy_id: null
   title: Chen YH, et al. Prevalence and risk factors for Candida esophagitis among human immunodeficiency virus-negative individuals. World J Clin Cases 2022;10:10896-10905
@@ -38575,14 +38578,17 @@
   doi: 10.12998/wjcc.v10.i30.10896
   pmid: '36338217'
   pmcid: null
-  license_note: null
+  license_note: CC BY-NC 4.0（PMC 全文の表示）。2026-11-23 確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-11-23'
     by: claude-code
     change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-078 の記載をそのまま写した（新たな判定はしていない）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（CC BY-NC 4.0（PMC 全文の表示））。作り手の調査（proposals/pd_survey_20261111/free_sources_68_result.md、2026-11-23）
 - id: SRC-5216
   legacy_id: null
   title: Novacek G. Plummer-Vinson syndrome. Orphanet J Rare Dis 2006;1:36
@@ -38620,14 +38626,17 @@
   doi: 10.1097/MCG.0000000000001918
   pmid: '37668412'
   pmcid: null
-  license_note: null
+  license_note: Crossref にライセンス表示なし、PMC 収載なし（CC 表示なし）。2026-11-23 確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-11-23'
     by: claude-code
     change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード ES-084 の記載をそのまま写した（新たな判定はしていない）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（Crossref にライセンス表示なし、PMC 収載なし（CC 表示なし））。作り手の調査（proposals/pd_survey_20261111/free_sources_68_result.md、2026-11-23）
 - id: SRC-5219
   legacy_id: null
   title: Okimoto T et al. Helicobacter 2024;29:e13028
@@ -38650,14 +38659,17 @@
   doi: 10.1136/gutjnl-2015-311304
   pmid: '26935876'
   pmcid: null
-  license_note: 未確認（PMCで無料公開、CC種別は未確認）
+  license_note: CC BY-NC 4.0（PMC 全文の表示）。2026-11-23 確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-11-23'
     by: claude-code
     change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード HP-002 の記載をそのまま写した（新たな判定はしていない）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（CC BY-NC 4.0（PMC 全文の表示））。作り手の調査（proposals/pd_survey_20261111/free_sources_68_result.md、2026-11-23）
 - id: SRC-5221
   legacy_id: null
   title: Malfertheiner P et al. Gut 2022;71:1724-62
@@ -38764,11 +38776,164 @@
   doi: 10.1055/s-0034-1393172
   pmid: null
   pmcid: null
-  license_note: 未確認
+  license_note: © Georg Thieme Verlag（CC 表示なし）。2026-11-23 確認
   legacy_basis_tag: null
   legal_basis: B
-  source_class: UNKNOWN
+  source_class: RESTRICTED
   history:
   - date: '2026-11-23'
     by: claude-code
     change: 登録：source_ref が空の旧形式カード（パイロット・第1回）の出典をマスターに登録した。書誌・識別子・区分はカード UG-016 の記載をそのまま写した（新たな判定はしていない）
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（© Georg Thieme Verlag（CC 表示なし））。作り手の調査（proposals/pd_survey_20261111/free_sources_68_result.md、2026-11-23）
+- citation: 'Stawinski PM, Dziadkowiec KN, Kuo LA, Echavarria J, Saligram S. Barrett''s Esophagus: An Updated Review. Diagnostics. 2023;13(2):321'
+  doi: 10.3390/diagnostics13020321
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（未調査の68枚、作り手、2026-11-23、proposals/pd_survey_20261111/free_sources_68_result.md）から。識別子は作り手の API 確認による。三原の承認（2026-11-11 の調査方針）による
+    date: '2026-11-23'
+  id: SRC-5230
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC9858189/
+  pmcid: PMC9858189
+  pmid: '36673131'
+  source_class: OPEN
+  title: 'Stawinski PM, Dziadkowiec KN, Kuo LA, Echavarria J, Saligram S. Barrett''s Esophagus: An Updated Review. Diagnostics. 2023;13(2):321'
+- citation: 'Abe Y, et al. Endoscopic Diagnosis of Eosinophilic Esophagitis: Basics and Recent Advances. Diagnostics. 2022;12:3202'
+  doi: 10.3390/diagnostics12123202
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（未調査の68枚、作り手、2026-11-23、proposals/pd_survey_20261111/free_sources_68_result.md）から。識別子は作り手の API 確認による。三原の承認（2026-11-11 の調査方針）による
+    date: '2026-11-23'
+  id: SRC-5231
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC9777529/
+  pmcid: PMC9777529
+  pmid: '36553209'
+  source_class: OPEN
+  title: 'Abe Y, et al. Endoscopic Diagnosis of Eosinophilic Esophagitis: Basics and Recent Advances. Diagnostics. 2022;12:3202'
+- citation: 'Brown RS Jr, et al. Screening and management of portal hypertension and varices in cirrhosis: Expert perspectives. Hepatol Commun. 2025;9:e0682'
+  doi: 10.1097/HC9.0000000000000682
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（未調査の68枚、作り手、2026-11-23、proposals/pd_survey_20261111/free_sources_68_result.md）から。識別子は作り手の API 確認による。三原の承認（2026-11-11 の調査方針）による
+    date: '2026-11-23'
+  id: SRC-5232
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC11970884/
+  pmcid: PMC11970884
+  pmid: '40178492'
+  source_class: OPEN
+  title: 'Brown RS Jr, et al. Screening and management of portal hypertension and varices in cirrhosis: Expert perspectives. Hepatol Commun. 2025;9:e0682'
+- citation: Sugimoto M, Yamaoka Y. Role of Vonoprazan in Helicobacter pylori Eradication Therapy in Japan. Front Pharmacol. 2019;9:1560
+  doi: 10.3389/fphar.2018.01560
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（未調査の68枚、作り手、2026-11-23、proposals/pd_survey_20261111/free_sources_68_result.md）から。識別子は作り手の API 確認による。三原の承認（2026-11-11 の調査方針）による
+    date: '2026-11-23'
+  id: SRC-5233
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC6340927/
+  pmcid: PMC6340927
+  pmid: '30697158'
+  source_class: OPEN
+  title: Sugimoto M, Yamaoka Y. Role of Vonoprazan in Helicobacter pylori Eradication Therapy in Japan. Front Pharmacol. 2019;9:1560
+- citation: Nakamura S, Hojo M. Diagnosis and Treatment for Gastric Mucosa-Associated Lymphoid Tissue (MALT) Lymphoma. J Clin Med. 2023;12:120
+  doi: 10.3390/jcm12010120
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（未調査の68枚、作り手、2026-11-23、proposals/pd_survey_20261111/free_sources_68_result.md）から。識別子は作り手の API 確認による。三原の承認（2026-11-11 の調査方針）による
+    date: '2026-11-23'
+  id: SRC-5234
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://doi.org/10.3390/jcm12010120
+  pmcid: null
+  pmid: null
+  source_class: OPEN
+  title: Nakamura S, Hojo M. Diagnosis and Treatment for Gastric Mucosa-Associated Lymphoid Tissue (MALT) Lymphoma. J Clin Med. 2023;12:120
+- citation: 'Passi V, Doug M, Peile E, Thistlethwaite J, Johnson N. Developing medical professionalism in future doctors: a systematic review. Int J Med Educ. 2010;1:19-29'
+  doi: 10.5116/ijme.4bda.ca2a
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（未調査の68枚、作り手、2026-11-23、proposals/pd_survey_20261111/free_sources_68_result.md）から。識別子は作り手の API 確認による。三原の承認（2026-11-11 の調査方針）による
+    date: '2026-11-23'
+  id: SRC-5235
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC4205509/
+  pmcid: PMC4205509
+  pmid: null
+  source_class: OPEN
+  title: 'Passi V, Doug M, Peile E, Thistlethwaite J, Johnson N. Developing medical professionalism in future doctors: a systematic review. Int J Med Educ. 2010;1:19-29'
+- citation: MedlinePlus Genetics. Spinal and bulbar muscular atrophy. National Library of Medicine（最終更新 2020-06-01）
+  doi: null
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（未調査の68枚、作り手、2026-11-23、proposals/pd_survey_20261111/free_sources_68_result.md）から。識別子は作り手の API 確認による。三原の承認（2026-11-11 の調査方針）による
+    date: '2026-11-23'
+  id: SRC-5236
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: 米国連邦政府の著作物。ライセンスの根拠：https://medlineplus.gov/genetics/condition/spinal-and-bulbar-muscular-atrophy/
+  pmcid: null
+  pmid: null
+  source_class: GOV_US
+  title: MedlinePlus Genetics. Spinal and bulbar muscular atrophy. National Library of Medicine（最終更新 2020-06-01）
+- citation: CDC. Clinical Overview of Variant Creutzfeldt-Jakob Disease（2024-11-12 更新）
+  doi: null
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（未調査の68枚、作り手、2026-11-23、proposals/pd_survey_20261111/free_sources_68_result.md）から。識別子は作り手の API 確認による。三原の承認（2026-11-11 の調査方針）による
+    date: '2026-11-23'
+  id: SRC-5237
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: 米国連邦政府の著作物。ライセンスの根拠：https://www.cdc.gov/variant-creutzfeldt-jakob/hcp/clinical-overview/index.html
+  pmcid: null
+  pmid: null
+  source_class: GOV_US
+  title: CDC. Clinical Overview of Variant Creutzfeldt-Jakob Disease（2024-11-12 更新）
+- citation: Wasserman RD, Abel W, Monkemuller K, Yeaton P, Kesar V, Kesar V. Non-variceal Upper Gastrointestinal Bleeding and Its Endoscopic Management. Turk J Gastroenterol. 2024;35(8):599-608
+  doi: 10.5152/tjg.2024.23507
+  history:
+  - by: claude-code
+    change: 登録：自由に使える出典の調査（未調査の68枚、作り手、2026-11-23、proposals/pd_survey_20261111/free_sources_68_result.md）から。識別子は作り手の API 確認による。三原の承認（2026-11-11 の調査方針）による
+    date: '2026-11-23'
+  id: SRC-5238
+  legacy_basis_tag: null
+  legacy_id: null
+  legal_basis: B
+  license_note: CC BY。ライセンスの根拠：https://pmc.ncbi.nlm.nih.gov/articles/PMC11363156/
+  pmcid: PMC11363156
+  pmid: '39150279'
+  source_class: OPEN
+  title: Wasserman RD, Abel W, Monkemuller K, Yeaton P, Kesar V, Kesar V. Non-variceal Upper Gastrointestinal Bleeding and Its Endoscopic Management. Turk J Gastroenterol. 2024;35(8):599-608
+- id: SRC-5239
+  legacy_id: null
+  title: 厚生労働省. 令和5年（2023）患者調査の概況. https://www.mhlw.go.jp/toukei/saikin/hw/kanja/23/index.html
+  citation: 厚生労働省. 令和5年（2023）患者調査の概況. https://www.mhlw.go.jp/toukei/saikin/hw/kanja/23/index.html
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）。政府統計
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-23'
+    by: claude-code
+    change: 登録：HP-018 の出典（旧形式で source_ref が空だった）。作り手の調査（proposals/pd_survey_20261111/free_sources_68_result.md、2026-11-23）の判定 D

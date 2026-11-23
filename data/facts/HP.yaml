@@ -59,16 +59,16 @@
       regimen: VPZ/LPZ + AMPC + CAM, 7日
     common_misconception: P-CABでもPPIでも除菌率は同じ
   provenance:
-    source_ref: SRC-5220
-    source: Murakami K et al. Gut 2016;65:1439-46
-    doi: 10.1136/gutjnl-2015-311304
-    pmid: '26935876'
-    pmcid: PMC5036253
-    url: null
-    source_license: 未確認（PMCで無料公開、CC種別は未確認）
+    source_ref: SRC-5233
+    source: Sugimoto M, Yamaoka Y. Role of Vonoprazan in Helicobacter pylori Eradication Therapy in Japan. Front Pharmacol. 2019;9:1560
+    doi: 10.3389/fphar.2018.01560
+    pmid: '30697158'
+    pmcid: PMC6340927
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6340927/
+    source_license: CC BY
     legal_basis: B
-    source_class: UNKNOWN
-    corroboration: Springer Adv Ther 2021 (10.1007/s12325-021-01784-w) の記載
+    source_class: OPEN
+    corroboration: Springer Adv Ther 2021 (10.1007/s12325-021-01784-w) の記載。元の主出典：SRC-5220（Murakami K et al. Gut 2016;65:1439-46）
   uncertainty: DOI・PMIDはPubMedのコメント記事（PMID 27210791）とClinicalTrials.gov NCT04901663の文献リストで確認。ライセンスは要確認
   curriculum:
     core_curriculum: null
@@ -98,6 +98,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5220 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 主出典を SRC-5220 から自由に使える資料 SRC-5233 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：Murakami 第III相試験の一次除菌率（VPZ群・LPZ群の両値）を本文・表に記載し、主張全体を裏づける。数値の照合：一致。候補資料：VPZ 92.6%（95%CI 89.2–95.2）、LPZ 75.9%（95%CI 70.9–80.5）。カードの値と同一）。三原の承認（2026-11-11）による
 - id: HP-003
   domain: HP
   subdomain: null
@@ -109,15 +112,16 @@
     differential:
     - CAM感受性株ではVPZ三剤97.6%、LPZ三剤97.3%と差がなかった
   provenance:
-    source_ref: null
-    source: Murakami 2016 原著本文（PMC5036253、online supplementary table S1参照）; Frontiers Pharmacol 2018 (10.3389/fphar.2018.01560)
-    doi: null
-    pmid: null
-    pmcid: null
-    url: null
-    source_license: 未確認
+    source_ref: SRC-5233
+    source: Sugimoto M, Yamaoka Y. Role of Vonoprazan in Helicobacter pylori Eradication Therapy in Japan. Front Pharmacol. 2019;9:1560
+    doi: 10.3389/fphar.2018.01560
+    pmid: '30697158'
+    pmcid: PMC6340927
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6340927/
+    source_license: CC BY
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
+    corroboration: 元の主出典：None（Murakami 2016 原著本文（PMC5036253、online supplementary table S1参照）; Frontiers Pharmacol 2018 (10.3389/fphar.2018.01560)）
   uncertainty: 数値は原著本文で確認済み。ライセンスは要確認
   curriculum:
     core_curriculum: null
@@ -141,6 +145,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: 主出典を None から自由に使える資料 SRC-5233 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：CAM 耐性例の除菌率（両群）と症例数（VPZ側 n=100、LPZ側 n=115）を表に記載。p<0.0001 は同試験を統合したメタ解析値（OR 6.83）として本文に記載。数値の照合：一致。候補資料：VPZ 82.0%、LPZ 40.0%（n=100 vs 115）。カードの値・症例数と同一）。三原の承認（2026-11-11）による
 - id: HP-004
   domain: HP
   subdomain: null
@@ -357,6 +364,7 @@
     source_license: No commercial re-use（CC BY-NC系、要確認）
     legal_basis: B
     source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Serena P, Mare R, et al. Resistance to Clarithromycin and Fluoroquinolones in Helicobacter pylori Isolates: A Prospective Molecular Analysis in Western Romania. Antibiotics. 2025;14:1223（DOI: 10.3390/antibiotics14121223。OPEN（CC BY 4.0）。Crossref vor license が CC BY、PDF にも CC BY の表示あり https://creativecommons.org/licenses/by/4.0/）。裏づける部分：Maastricht VI の記載として「CAM 耐性率 >15% の地域では経験的一次治療は14日間ビスマス4剤療法」を明示する部分。数値の照合：数値なし（推奨文のみ）。閾値15%・期間14日はカードと一致。留保：「感受性が不明な場合」への言及は本資料に明示がなく、この部分は未裏づけ（不明時のビスマス4剤優先は ACG 2024 側の記載）。原典 Maastricht VI（Gut 2022、SRC-5221）は「No commercial re-use」表示で RESTRICTED のまま'
   uncertainty: 推奨文の詳細は二次文献（Microbiota journal 2023 review）経由。原著で要確認
   curriculum:
     core_curriculum: null
@@ -386,6 +394,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5221 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: HP-009
   domain: HP
   subdomain: null
@@ -406,6 +417,7 @@
     source_license: © ACG（原典）／解説記事 CC BY 4.0
     legal_basis: B
     source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Veldhuyzen van Zanten S, Krahn T. Do the new ACG Helicobacter pylori treatment guidelines have implications for Canada? J Can Assoc Gastroenterol. 2025;8(3):85-88（DOI: 10.1093/jcag/gwaf008／PMID: 40574829／PMCID: PMC12201999。OPEN（CC BY 4.0）。PMC 全文に CC BY の表示あり https://pmc.ncbi.nlm.nih.gov/articles/PMC12201999/ ／Crossref vor license も CC BY）。裏づける部分：ACG 2024 の一次治療選択肢としての最適化ビスマス4剤療法（14日間）、米国の耐性率（CAM 22.2–31.5%、レボフロキサシン 37.6%＝カードの differential と同一）、レボフロキサシン含有療法は感受性が判明した場合のみ、という部分。数値の照合：数値一致（耐性率 22.2–31.5%／37.6% がカード・候補資料とも同一）。留保：「優先（preferred）」の強さの表現と「CAM 含有レジメンを感受性未確認では避ける」の明示は ACG 原典の要旨レベルの記載で、本 CC BY 解説では CAM 耐性・既治療例での回避までの言及にとどまるため B とした。ACG 原典（SRC-5222）は © ACG で RESTRICTED のまま'
   uncertainty: null
   curriculum:
     core_curriculum: null
@@ -435,6 +447,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5222 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: HP-010
   domain: HP
   subdomain: null
@@ -551,6 +566,7 @@
     source_license: © ACG
     legal_basis: B
     source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Isomoto H, Shimoyama T, et al. Guidelines for the management of Helicobacter pylori infection in Japan: 2024 revised edition. J Gastroenterol. 2026;61:841-862（既存 SRC-5223）（DOI: 10.1007/s00535-026-02379-4（既存マスター登録済み）。OPEN（CC BY 4.0）。Crossref vor license が CC BY、PDF に © The Author(s) 2026・CC BY の表示あり）。裏づける部分：判定検査前の休薬（抗菌薬は4週間、PPI/P-CAB は2週間）と、判定は治療終了後4週間以上あけて行う、という部分（ACG と同一の運用）。数値の照合：期間の数値一致（4週間／2週間／治療後4週間以上）。留保：カードのうち「ビスマス」の休薬は本資料に記載なし（ビスマス製剤は国内未承認のため JSHR ガイドラインに項目がない）。ビスマス部分は ACG 原典（RESTRICTED）にのみ明示があるため B とした'
   uncertainty: 日本のJSHR推奨期間との異同を要確認
   curriculum:
     core_curriculum: null
@@ -580,6 +596,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5222 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: HP-013
   domain: HP
   subdomain: null
@@ -638,15 +657,16 @@
     - びまん性発赤の改善は除菌成功の指標
     common_misconception: RACが観察されれば現感染を疑う（RACはむしろ未感染の所見）
   provenance:
-    source_ref: null
-    source: Yoshii S et al. Dig Endosc 2020;32:74-83（JSHR GL 2024で引用）
-    doi: 10.1007/s00535-026-02379-4（引用元）
+    source_ref: SRC-5223
+    source: JSHR GL 2024 英語版（抄録）
+    doi: 10.1007/s00535-026-02379-4
     pmid: null
     pmcid: null
-    url: null
-    source_license: 引用元 CC BY 4.0／原著は要確認
+    url: https://doi.org/10.1007/s00535-026-02379-4
+    source_license: CC BY 4.0
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: OPEN
+    corroboration: 元の主出典：None（Yoshii S et al. Dig Endosc 2020;32:74-83（JSHR GL 2024で引用））
   uncertainty: RACに関する誤解例は専門医確認を要する
   curriculum:
     core_curriculum: null
@@ -673,6 +693,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: 主出典を None から自由に使える資料 SRC-5223 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：JSHR ガイドライン2024（CC BY）が Yoshii 2020 の診断オッズ比（びまん性発赤26.8・粘膜腫脹13.3・白濁粘液10.2・皺襞腫大8.6）を引用し、主張全体を裏づける）。三原の承認（2026-11-11）による
 - id: HP-015
   domain: HP
   subdomain: null
@@ -788,6 +811,7 @@
     source_license: CC BY-NC 4.0
     legal_basis: B
     source_class: RESTRICTED
+    corroboration: '自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Casey O, Dobric M, Kelly O, O''Morain CA. The importance of Helicobacter pylori eradication: a narrative review. Front Gastroenterol. 2026（DOI: 10.3389/fgstr.2026.1740221。OPEN（CC BY）。Frontiers 全文に CC BY の表示あり https://www.frontiersin.org/journals/gastroenterology/articles/10.3389/fgstr.2026.1740221/pdf）。裏づける部分：京都コンセンサス（2015）について「H. pylori 胃炎は合併症の有無にかかわらず感染症と定義すべき」と合意された旨の記載。数値の照合：数値なし。留保：カードの「症状の有無にかかわらず」に対し、本資料の表現は「合併症（complications）の有無にかかわらず」で、症状への直接の言及ではないため B とした。原典 Sugano 2015（Gut、SRC-5225）は CC BY-NC 4.0 で RESTRICTED のまま'
   uncertainty: 『症状の有無にかかわらず』の表現は原著で要確認
   curriculum:
     core_curriculum: null
@@ -814,6 +838,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: source_ref=SRC-5225 を付与（照合方法：DOI の一致。旧形式で空だった。主張文・出典の記載は変更なし）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: HP-018
   domain: HP
   subdomain: null
@@ -825,15 +852,16 @@
     differential:
     - 減少の背景：除菌の保険適用拡大、VPZの導入、薬剤性潰瘍の予防
   provenance:
-    source_ref: null
+    source_ref: SRC-5239
     source: 厚労省 患者調査2023（JSGE PUD GL 2026の序論で引用）
     doi: null
     pmid: null
     pmcid: null
     url: https://www.mhlw.go.jp/toukei/saikin/hw/kanja/23/index.html
-    source_license: 政府統計（利用規約は要確認）／引用元 CC BY 4.0
+    source_license: 政府標準利用規約（厚生労働省ホームページ）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: GOV_JP
+    corroboration: 裏づけ（OPEN）：SRC-031（Sugimoto M, et al. JSGE 消化性潰瘍診療ガイドライン2026、J Gastroenterol 2026、CC BY）の序論が患者調査を出典として胃潰瘍194,000人・十二指腸潰瘍20,000人、40年前比で約1/10・約1/20を記載し、カードと一致
   uncertainty: null
   curriculum:
     core_curriculum: null
@@ -860,6 +888,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: source_ref=SRC-5239（厚労省 患者調査、GOV_JP）を付与し、source_class を UNKNOWN から GOV_JP に訂正。SRC-031 による裏づけを追記。作り手の調査（proposals/pd_survey_20261111/free_sources_68_result.md、2026-11-23）の判定 D。三原の承認（2026-11-11 の調査方針）による
 - id: HP-019
   domain: HP
   subdomain: null
@@ -917,15 +948,16 @@
     differential:
     - 除菌後も残存・進行する場合は放射線療法などを検討
   provenance:
-    source_ref: null
-    source: JSHR GL 2024（除菌適応疾患の一覧）／Maastricht VI
-    doi: null
+    source_ref: SRC-5234
+    source: Nakamura S, Hojo M. Diagnosis and Treatment for Gastric Mucosa-Associated Lymphoid Tissue (MALT) Lymphoma. J Clin Med. 2023;12:120
+    doi: 10.3390/jcm12010120
     pmid: null
     pmcid: null
-    url: null
-    source_license: CC BY 4.0／NC
+    url: https://doi.org/10.3390/jcm12010120
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
+    source_class: OPEN
+    corroboration: 元の主出典：None（JSHR GL 2024（除菌適応疾患の一覧）／Maastricht VI）
   uncertainty: 該当CQ番号、寛解率の数値、t(11;18)陽性例の扱いは要確認。完全寛解率の一次ソース（メタ解析PMID）は未取得
   curriculum:
     core_curriculum: null
@@ -952,3 +984,6 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅵ-2-C-④ を足した（医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a） → 医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a））。三原の承認による
+  - date: '2026-11-23'
+    by: claude-code
+    change: 主出典を None から自由に使える資料 SRC-5234 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：胃 MALT リンパ腫では H. pylori 除菌が病期にかかわらず一次治療（first-line）である旨を明示。H. pylori 陽性の限局期例はこの範囲に含まれる。除菌不応時の放射線療法等への移行（カードの differential）も記載。数値の照合：数値なし（カードに数値なし））。三原の承認（2026-11-11）による

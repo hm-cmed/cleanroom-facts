@@ -24,9 +24,9 @@
 - 条件：region: JP／regimen: VPZ/LPZ + AMPC + CAM, 7日
 - よくある誤解：P-CABでもPPIでも除菌率は同じ
 - 不確実性：DOI・PMIDはPubMedのコメント記事（PMID 27210791）とClinicalTrials.gov NCT04901663の文献リストで確認。ライセンスは要確認
-- 出典：Murakami K et al. Gut 2016;65:1439-46　[DOI 10.1136/gutjnl-2015-311304](https://doi.org/10.1136/gutjnl-2015-311304)　[PMID 26935876](https://pubmed.ncbi.nlm.nih.gov/26935876/)（区分 UNKNOWN）
+- 出典：Sugimoto M, Yamaoka Y. Role of Vonoprazan in Helicobacter pylori Eradication Therapy in Japan. Front Pharmacol. 2019;9:1560　[DOI 10.3389/fphar.2018.01560](https://doi.org/10.3389/fphar.2018.01560)　[PMID 30697158](https://pubmed.ncbi.nlm.nih.gov/30697158/)（区分 OPEN）
 - 出題基準：医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）　コアカリ：－
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HP-002&card_id=HP-002&version=4bec367ec2)　（版 `4bec367ec2`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HP-002&card_id=HP-002&version=816257ee33)　（版 `816257ee33`）
 
 ### HP-003　下書き（出典の照合前）
 
@@ -35,9 +35,9 @@
 - 条件：region: JP／strain: CAM耐性（n=100 vs 115）
 - 鑑別・補足：CAM感受性株ではVPZ三剤97.6%、LPZ三剤97.3%と差がなかった
 - 不確実性：数値は原著本文で確認済み。ライセンスは要確認
-- 出典：Murakami 2016 原著本文（PMC5036253、online supplementary table S1参照）; Frontiers Pharmacol 2018 (10.3389/fphar.2018.01560)（区分 UNKNOWN）
+- 出典：Sugimoto M, Yamaoka Y. Role of Vonoprazan in Helicobacter pylori Eradication Therapy in Japan. Front Pharmacol. 2019;9:1560　[DOI 10.3389/fphar.2018.01560](https://doi.org/10.3389/fphar.2018.01560)　[PMID 30697158](https://pubmed.ncbi.nlm.nih.gov/30697158/)（区分 OPEN）
 - 出題基準：医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）　コアカリ：－
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HP-003&card_id=HP-003&version=7cc885a2fb)　（版 `7cc885a2fb`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HP-003&card_id=HP-003&version=a4c3ea7cfd)　（版 `a4c3ea7cfd`）
 
 ### HP-004　下書き（出典の照合前）
 
@@ -111,7 +111,7 @@
 - 出題基準：医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）　コアカリ：－
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HP-010&card_id=HP-010&version=e92b2f0398)　（版 `e92b2f0398`）
 
-**[ここまでの 10 件（HP-001〜HP-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HP-001%E3%80%9CHP-010&cards=HP-001%204d07c80ee2%0AHP-002%204bec367ec2%0AHP-003%207cc885a2fb%0AHP-004%208d1a6ad403%0AHP-005%201b547cc309%0AHP-006%205f30aeb079%0AHP-007%2036fb67c25f%0AHP-008%20ba56cf33ee%0AHP-009%200c66d99c59%0AHP-010%20e92b2f0398)**
+**[ここまでの 10 件（HP-001〜HP-010）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HP-001%E3%80%9CHP-010&cards=HP-001%204d07c80ee2%0AHP-002%20816257ee33%0AHP-003%20a4c3ea7cfd%0AHP-004%208d1a6ad403%0AHP-005%201b547cc309%0AHP-006%205f30aeb079%0AHP-007%2036fb67c25f%0AHP-008%20ba56cf33ee%0AHP-009%200c66d99c59%0AHP-010%20e92b2f0398)**
 
 ---
 
@@ -154,9 +154,9 @@
 - 鑑別・補足：びまん性発赤の改善は除菌成功の指標
 - よくある誤解：RACが観察されれば現感染を疑う（RACはむしろ未感染の所見）
 - 不確実性：RACに関する誤解例は専門医確認を要する
-- 出典：Yoshii S et al. Dig Endosc 2020;32:74-83（JSHR GL 2024で引用）　[DOI 10.1007/s00535-026-02379-4（引用元）](https://doi.org/10.1007/s00535-026-02379-4（引用元）)（区分 UNKNOWN）
+- 出典：JSHR GL 2024 英語版（抄録）　[DOI 10.1007/s00535-026-02379-4](https://doi.org/10.1007/s00535-026-02379-4)（区分 OPEN）
 - 出題基準：医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）　コアカリ：－
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HP-014&card_id=HP-014&version=7ba4ffaf6a)　（版 `7ba4ffaf6a`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HP-014&card_id=HP-014&version=883c3999a0)　（版 `883c3999a0`）
 
 ### HP-015　下書き（出典の照合前）
 
@@ -196,7 +196,7 @@
 
 - 条件：region: JP／year: 2023
 - 鑑別・補足：減少の背景：除菌の保険適用拡大、VPZの導入、薬剤性潰瘍の予防
-- 出典：厚労省 患者調査2023（JSGE PUD GL 2026の序論で引用）　[リンク](https://www.mhlw.go.jp/toukei/saikin/hw/kanja/23/index.html)（区分 UNKNOWN）
+- 出典：厚労省 患者調査2023（JSGE PUD GL 2026の序論で引用）　[リンク](https://www.mhlw.go.jp/toukei/saikin/hw/kanja/23/index.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）　コアカリ：－
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HP-018&card_id=HP-018&version=31456bfc29)　（版 `31456bfc29`）
 
@@ -217,11 +217,11 @@
 - 条件：region: JP/EU
 - 鑑別・補足：除菌後も残存・進行する場合は放射線療法などを検討
 - 不確実性：該当CQ番号、寛解率の数値、t(11;18)陽性例の扱いは要確認。完全寛解率の一次ソース（メタ解析PMID）は未取得
-- 出典：JSHR GL 2024（除菌適応疾患の一覧）／Maastricht VI（区分 RESTRICTED）
+- 出典：Nakamura S, Hojo M. Diagnosis and Treatment for Gastric Mucosa-Associated Lymphoid Tissue (MALT) Lymphoma. J Clin Med. 2023;12:120　[DOI 10.3390/jcm12010120](https://doi.org/10.3390/jcm12010120)（区分 OPEN）
 - 出題基準：医学各論 Ⅻ-2-B-⑧（ヘリコバクター・ピロリ感染症、a）；医学各論 Ⅵ-2-C-④（ヘリコバクター・ピロリ感染症、a）　コアカリ：－
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HP-020&card_id=HP-020&version=4c89f3fec9)　（版 `4c89f3fec9`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HP-020&card_id=HP-020&version=78e52fb082)　（版 `78e52fb082`）
 
-**[ここまでの 10 件（HP-011〜HP-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HP-011%E3%80%9CHP-020&cards=HP-011%20d0396416aa%0AHP-012%207be88cccc9%0AHP-013%208de93437c0%0AHP-014%207ba4ffaf6a%0AHP-015%20b1ac1b3346%0AHP-016%20164ffa155d%0AHP-017%20e7f1e2f765%0AHP-018%2031456bfc29%0AHP-019%20dae1223ffc%0AHP-020%204c89f3fec9)**
+**[ここまでの 10 件（HP-011〜HP-020）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20HP-011%E3%80%9CHP-020&cards=HP-011%20d0396416aa%0AHP-012%207be88cccc9%0AHP-013%208de93437c0%0AHP-014%20883c3999a0%0AHP-015%20b1ac1b3346%0AHP-016%20164ffa155d%0AHP-017%20e7f1e2f765%0AHP-018%2031456bfc29%0AHP-019%20dae1223ffc%0AHP-020%2078e52fb082)**
 
 ---
 

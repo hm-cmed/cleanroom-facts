@@ -269,7 +269,7 @@
     source_license: © American Medical Association（JAMA、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Ng IKS, Goh WGW, Lin NHY, Gan MY, Teo DB, Tan LF, Low YL, Aw MM, Kee ACL. Optimising feedback provision and literacy in medical training: linking theory to practice. Front Med. 2026;13:1883679（DOI 10.3389/fmed.2026.1883679／PMID 42774866／PMCID PMC13594803。OPEN（CC BY 4.0）。PMC 全文冒頭のライセンス表示で確認：https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13594803/）。裏づける部分：Ende 1983 の定義（ある活動での遂行を記述し将来の遂行を導く情報）の引用と「臨床技能修得の鍵となる段階」という位置づけ、フィードバックが不十分になりやすいこと（直接観察の欠如等）、観察された具体的な行動を記述すべきこと・本人そのものへの言及は逆効果であること。数値の照合：数値なし（概念カード）。内容の方向は一致。留保：「フィードバックと評価（判定）の区別」は、この候補では形成的／総括的という枠組みでの記述にとどまり、Ende の区別の直接の再掲ではない。その部分は裏づけ対象外として B とした。なお West J Emerg Med の Bernard 2011（Ende を詳しく再掲）は CC BY-NC のため不採用'
   uncertainty: 原著の抄録で確認した範囲（フィードバックの定義、評価との区別、観察可能な行動への焦点）で記載した。具体的な進め方の手順は原著本文のガイドライン部分に基づくため、本カードには含めていない。原著にDOIは付与されていない。第1文は原著の定義文の翻訳ではなく、概念を自作の文で構成し直した（2026-11-23改訂）。
   curriculum:
     kokushi: null
@@ -284,6 +284,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME1_medical_education.md の ME-008 は第1文が Ende 1983 の定義文の和訳にあたる疑いで保留していた。作り手が第1文だけを書き直した raw/ME008_revision_20261123.md から取り込んだ（三原の判断：書き直しで対応、proposals/medical_education/ME-008_hold_20261123.md の案1）。
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ME-009
   domain: ME
   subdomain: 教育手法
@@ -333,16 +336,16 @@
     differential: null
     common_misconception: null
   provenance:
-    source_ref: SRC-5113
-    source: 'ABIM Foundation, ACP-ASIM Foundation, European Federation of Internal Medicine. Medical professionalism in the new millennium: a physician charter. Ann Intern Med. 2002;136(3):243-246'
-    doi: 10.7326/0003-4819-136-3-200202050-00012
-    pmid: '11827500'
-    pmcid: null
-    url: https://doi.org/10.7326/0003-4819-136-3-200202050-00012
-    source_license: © American College of Physicians（Annals of Internal Medicine、CC表示なし）
+    source_ref: SRC-5235
+    source: 'Passi V, Doug M, Peile E, Thistlethwaite J, Johnson N. Developing medical professionalism in future doctors: a systematic review. Int J Med Educ. 2010;1:19-29'
+    doi: 10.5116/ijme.4bda.ca2a
+    pmid: null
+    pmcid: PMC4205509
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4205509/
+    source_license: CC BY
     legal_basis: B
-    source_class: RESTRICTED
-    corroboration: null
+    source_class: OPEN
+    corroboration: '元の主出典：SRC-5113（ABIM Foundation, ACP-ASIM Foundation, European Federation of Internal Medicine. Medical professionalism in the new millennium: a physician charter. Ann Intern Med. 2002;136(3):243-246）'
   uncertainty: 3原則と10の責務の構成は憲章の公表内容に基づく。本文は購読誌面のため逐語の確認はしておらず、定義文の翻訳は転載せず、自作の文で記載した。同じ憲章は Lancet 誌にも同時掲載された。本カードは、医学生が学ぶプロフェッショナリズムの内容として、コアカリ第1層の PR（プロフェッショナリズム）に対応づけた。
   curriculum:
     kokushi: 必修の基本的事項 1（医師のプロフェッショナリズム、-）
@@ -360,6 +363,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 国試の番号を付けた：必修の基本的事項 1（医師のプロフェッショナリズム、-）（令和6年版医師国家試験出題基準「必修の基本的事項」、厚労省 https://www.mhlw.go.jp/content/10803000/001079482.pdf で照合）
+  - date: '2026-11-23'
+    by: claude-code
+    change: 主出典を SRC-5113 から自由に使える資料 SRC-5235 に置き換え、元の主出典を corroboration に記録した（作り手の判定 A：医師憲章について、2002年に北米・欧州の内科学会系プロジェクトが公表したこと、3つの基本原則（患者の福利・患者の自律・社会正義）と10の職業的責務の全項目（能力・誠実さ・秘密保持・適切な関係・医療の質・アクセス・限りある資源の分配・科学的知識・利益相反の管理・専門職としての責任）を列挙しており、主。数値の照合：数値なし（列挙内容は一致））。三原の承認（2026-11-11）による
 - id: ME-011
   domain: ME
   subdomain: 制度
@@ -418,7 +424,7 @@
     source_license: © Taylor & Francis（Medical Teacher、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Bate F, Fyfe S, Griffiths D, Russell K, Skinner C, Tor E. Does an incremental approach to implementing programmatic assessment work? Reflections on the change process. MedEdPublish. 2020;9:55（DOI 10.15694/mep.2020.000055.1。OPEN（CC BY）。本文のライセンス表示で確認：https://doi.org/10.15694/mep.2020.000055.1）。裏づける部分：プログラム的評価の定義（学習・判定・質保証の機能を最適化する統合的設計）、個々の評価はデータポイントであること、フィードバックで情報価値を最大化すること、重大な判定ほど多くのデータポイントの集約を要すること、評価のステークスの連続体という考え方。数値の照合：数値なし（概念カード）。上記の範囲で一致。留保：専門家の判断の主観性への対処（サンプリング拡大・質的研究の基準による偏りの低減）と、訓練・評価・支援の反復に中間・最終評価を組み込むモデル図の細部は、この候補では再掲されていないため B
   uncertainty: 原著はモデルの提案論文であり、効果量等の数値は含まない。概念名（programmatic assessment）と枠組みの骨格を自作の文で記載し、原著の定義文・結論文の翻訳は転載していない。抄録で確認した範囲（データポイントの集約による判定、専門家の判断、サンプリングと偏りの低減）に基づく。
   curriculum:
     kokushi: null
@@ -433,6 +439,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME2_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ME-013
   domain: ME
   subdomain: 教育手法
@@ -453,7 +462,7 @@
     source_license: © Taylor & Francis（Medical Teacher、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Kim S. The future of e-learning in medical education: current trend and future opportunity. J Educ Eval Health Prof. 2006;3（PMID 19223995／PMCID PMC2631188。OPEN（CC BY、当時の Attribution License 表示）。PMC 全文のライセンス表示で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC2631188/）。裏づける部分：付表で Issenberg 2005 を要約し、対象109件と、上位4特徴の割合（フィードバック47%・反復練習39%・カリキュラム統合25%・難易度の幅14%）を再掲。数値の照合：一致：47%・39%・25%・14% はカードの値（51件・43件・27件・15件に対応する割合）と一致。不一致：同表の対象期間は「1966–2003」とあり、カード・原著の「1969–2003」と異なる（候補側の表の表記）。670件→109件の絞り込み過程と、下位6特徴の個別の件数・割合は再掲なし（「10%未満」と一括）。留保：件数（51件等）ではなく割合のみの再掲のため、主張文の全数値の裏づけにはならない。B'
   uncertainty: 数値（対象109件、各特徴の件数と割合）は原著の抄録で確認した。対象文献は2003年までのもので、その後のシミュレーション研究の進展は含まれていない。特徴の名称は概念名として記載し、原著の文章の翻訳は転載していない。意図的練習を組み込んだシミュレーション教育の効果量については ME-009（McGaghie 2011）が扱う。
   curriculum:
     kokushi: null
@@ -468,6 +477,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME2_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ME-014
   domain: ME
   subdomain: 教育手法
@@ -631,7 +643,7 @@
     source_license: © American Medical Association（JAMA、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Gramaglia C, Zeppegno P. Medical students and suicide prevention: training, education, and personal risks. Front Psychol. 2018;9:452（DOI 10.3389/fpsyg.2018.00452。OPEN（CC BY）。Frontiers 全文 XML のライセンス表示で確認：https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00452/xml）。裏づける部分：Rotenstein 2016 の再掲として、抑うつ症状の有病率27.2%、自殺念慮11.1%、スクリーニング陽性者のうち精神科治療を求めた割合15.7%。数値の照合：一致：27.2%・11.1%・15.7% の3点推定値はカードと一致。再掲なし：各信頼区間（24.7〜29.9% 等）、研究数・対象者数（167件・116,628人 等）、43か国、測定法による幅（9.3〜55.9%）。留保：Eur Psychiatry の Frajerman ら（Cambridge）は 27.2%［24.7〜29.9%］・11.1%［9.0〜13.7%］と件数まで再掲するが、CC ライセンスの表示を確認できず不採用。Braz J Psychiatry の Selvaraj 2021 は CC BY-NC のため不採用'
   uncertainty: 数値（有病率の点推定と信頼区間、統合した研究数、対象の国と期間）は原著の抄録で確認した。有病率は自己記入式尺度によるスクリーニング陽性の割合であり、診断が確定した割合ではない。PMCID（PMC5613659）は著者原稿のもので、著者原稿はCCではないためライセンス区分はRESTRICTEDのままである。本カードは自殺念慮という扱いの難しい内容を含むため事実の記述にとどめた。動画等に用いる場合は、相談窓口の案内を添え、方法には触れないこと（依頼文の注意3）。
   curriculum:
     kokushi: null
@@ -646,6 +658,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME2_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ME-019
   domain: ME
   subdomain: 横断
@@ -666,7 +681,7 @@
     source_license: © Elsevier（The Lancet、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: '自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Mullin RA, Hota SS, Bearman G. Leading teams while exhausted: perspectives from healthcare epidemiology and beyond. Antimicrob Steward Healthc Epidemiol. 2023;3(1):e50（DOI 10.1017/ash.2022.25／PMID 36970433／PMCID PMC10031576。OPEN（CC BY 4.0）。PMC 全文のライセンス表示で確認：https://pmc.ncbi.nlm.nih.gov/articles/PMC10031576/）。裏づける部分：West 2016 系のメタ解析（RCT 15件・コホート37件）の再掲として、燃え尽き全体の割合が54%から44%へ下がったこと（差10ポイント）、介入の種類（マインドフルネス、ストレス対処、小グループ、勤務時間・業務量の削減など個人・組織双方）。数値の照合：一致：54%→44%（差10ポイント）、RCT 15件・コホート37件はカードと一致。再掲なし：情緒的消耗スコア −2.65、脱人格化スコア −0.64、情緒的消耗が高い割合 38%→24%。留保：この候補が引用する直接の出典は West ら 2018 の総説（J Intern Med）経由で、数値は West 2016 の値と同一であることを原著抄録と照合済み'
   uncertainty: 数値（研究数、燃え尽き割合の変化、情緒的消耗と脱人格化のスコア変化）は原著の抄録で確認した。対象は医師であり、医学生はこのレビューの対象に含まれていない。検索対象は2016年1月までの文献である。結論の文章の翻訳は転載せず、数値と方向性を自作の文で記載した。
   curriculum:
     kokushi: null
@@ -681,6 +696,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME2_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ME-020
   domain: ME
   subdomain: 制度
@@ -806,7 +824,7 @@
     source_license: © Taylor & Francis（Medical Teacher、CC表示なし）
     legal_basis: B
     source_class: RESTRICTED
-    corroboration: null
+    corroboration: 自由に使える資料による裏づけ（作り手の調査（未調査の68枚）2026-11-23）：Behling KC, et al. Does team-based learning improve performance in an infectious diseases course in a preclinical curriculum? Int J Med Educ. 2017;8:39-44（（DOI・PMID は未確認のため空欄）／PMCID なし。OPEN（CC BY 3.0）。本文のライセンス表示で確認：http://pdfs.semanticscholar.org/7f7d/d411fe30e9ab0898136e36afd38af68c785c.pdf）。裏づける部分：TBL の進め方（事前学習のうえで個人・チームの準備確認テストと応用演習を行う Michaelsen 方式）という、主張文の方法部分。数値の照合：数値の照合対象外（方法部分のみ）。**注意：同論文の Fatmi 2013 への引用は「7 of ten studies」とあり、原著・カードの「14件中7件」と不一致（候補側の誤記）。知識スコアの内訳（7件有意・4件差なし・3件有意性言及なし）の裏づけには使えない**。留保：知識スコアの内訳と学習者の反応の内訳を再掲する CC BY 全文は見つからなかったため、方法部分のみの B
   uncertainty: 数値（330件から14件、知識スコアの内訳）と効果の方向は原著の抄録で確認した。抄録の結果を順番どおりに訳すことはせず、必要な事実を選んで自分の構成で記載した。対象は保健医療職教育全般であり、医学教育のみの数値ではない。TBLの進め方（iRAT・tRAT・応用演習）は方法の概念名として記載した。
   curriculum:
     kokushi: null
@@ -821,6 +839,9 @@
   - date: '2026-11-23'
     by: claude-code
     change: 取り込み：raw/ME3_medical_education.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-23'
+    by: claude-code
+    change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査（未調査の68枚）2026-11-23）。三原の承認（2026-11-11）による
 - id: ME-024
   domain: ME
   subdomain: 横断

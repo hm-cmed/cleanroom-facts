@@ -86,9 +86,9 @@
 
 - 条件：population: 変異型 CJD が疑われる患者／region: 日本
 - 不確実性：変異型 CJD の国内発生はこれまで 1 例のみであり、記載は主に英国症例に基づく WHO 診断基準（2001）・EU 診断基準の紹介である。
-- 出典：厚生労働科学研究費補助金難治性疾患政策研究事業「プリオン病及び遅発性ウイルス感染症に関する調査研究班」、厚生労働行政推進調査事業費補助金「プリオン病のサーベイランスと感染予防に関する調査研究班」. プリオン病診療ガイドライン2026. 2026（区分 RESTRICTED）
+- 出典：CDC. Clinical Overview of Variant Creutzfeldt-Jakob Disease（2024-11-12 更新）　[リンク](https://www.cdc.gov/variant-creutzfeldt-jakob/hcp/clinical-overview/index.html)（区分 GOV_US）
 - 出題基準：医学各論 Ⅸ-3-B-①（Creutzfeldt-Jakob病、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-006&card_id=NI-006&version=b43dd4f723)　（版 `b43dd4f723`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-006&card_id=NI-006&version=9041693fc0)　（版 `9041693fc0`）
 
 ### NI-007　下書き（出典の照合前）
 
@@ -100,7 +100,7 @@
 - 出題基準：医学各論 Ⅸ-3-B-①（Creutzfeldt-Jakob病、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-033 (id: Jlvnlcw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NI-007&card_id=NI-007&version=5a7b6781c7)　（版 `5a7b6781c7`）
 
-**[ここまでの 3 件（NI-005〜NI-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NI-005%E3%80%9CNI-007&cards=NI-005%205f4dafedc8%0ANI-006%20b43dd4f723%0ANI-007%205a7b6781c7)**
+**[ここまでの 3 件（NI-005〜NI-007）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20NI-005%E3%80%9CNI-007&cards=NI-005%205f4dafedc8%0ANI-006%209041693fc0%0ANI-007%205a7b6781c7)**
 
 ---
 
