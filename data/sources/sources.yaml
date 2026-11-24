@@ -41030,3 +41030,471 @@
   - date: '2026-11-24'
     by: claude-code
     change: 取り込み：raw/ME5_other_professions.md の出典表から（表の列名が取り込みスクリプトの想定と違うため、書誌・ライセンス・legal_basis を表から転記）
+- id: SRC-5402
+  legacy_id: null
+  title: 厚生労働省. 歯科医師臨床研修の到達目標（令和3年3月31日 医政発0331第75号通知の別添）
+  citation: 厚生労働省. 歯科医師臨床研修の到達目標（令和3年3月31日 医政発0331第75号通知の別添）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5403
+  legacy_id: null
+  title: 厚生労働省. 歯科医師国家試験出題基準（令和3年度版）
+  citation: 厚生労働省. 歯科医師国家試験出題基準（令和3年度版）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5411
+  legacy_id: null
+  title: 厚生労働省. 新人看護職員研修ガイドライン. 平成26年2月
+  citation: 厚生労働省. 新人看護職員研修ガイドライン. 平成26年2月
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5416
+  legacy_id: null
+  title: 臨床検査技師等に関する法律（昭和33年法律第76号、現行法）
+  citation: 臨床検査技師等に関する法律（昭和33年法律第76号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5417
+  legacy_id: null
+  title: 臨床検査技師学校養成所指定規則（昭和45年文部省・厚生省令第3号、現行法）
+  citation: 臨床検査技師学校養成所指定規則（昭和45年文部省・厚生省令第3号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5418
+  legacy_id: null
+  title: 診療放射線技師法（昭和26年法律第226号、現行法）
+  citation: 診療放射線技師法（昭和26年法律第226号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5419
+  legacy_id: null
+  title: 診療放射線技師学校養成所指定規則（昭和26年文部省・厚生省令第4号、現行法）
+  citation: 診療放射線技師学校養成所指定規則（昭和26年文部省・厚生省令第4号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5420
+  legacy_id: null
+  title: 特定非営利活動法人薬学共用試験センター. 薬学共用試験について. 薬学共用試験センター公式サイト
+  citation: 特定非営利活動法人薬学共用試験センター. 薬学共用試験について. 薬学共用試験センター公式サイト
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 実施機関の公表資料（権利者の表示に従う）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5421
+  legacy_id: null
+  title: 公益社団法人医療系大学間共用試験実施評価機構. 歯学生共用試験要綱（2023年11月14日発行、2023年11月24日理事会承認）
+  citation: 公益社団法人医療系大学間共用試験実施評価機構. 歯学生共用試験要綱（2023年11月14日発行、2023年11月24日理事会承認）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 利用規約の明示を確認できず（機構資料。厚生労働省の部会資料として掲載された版で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5422
+  legacy_id: null
+  title: 厚生労働省 医道審議会歯科医師分科会歯学生共用試験部会. 公的化後の共用試験に関する意見（令和5年6月30日）
+  citation: 厚生労働省 医道審議会歯科医師分科会歯学生共用試験部会. 公的化後の共用試験に関する意見（令和5年6月30日）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5423
+  legacy_id: null
+  title: 栄養士法（昭和22年法律第245号、現行法）
+  citation: 栄養士法（昭和22年法律第245号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5424
+  legacy_id: null
+  title: 歯科衛生士法（昭和23年法律第204号、現行法）
+  citation: 歯科衛生士法（昭和23年法律第204号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5425
+  legacy_id: null
+  title: 歯科衛生士学校養成所指定規則（昭和25年文部省・厚生省令第1号、現行法）
+  citation: 歯科衛生士学校養成所指定規則（昭和25年文部省・厚生省令第1号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5426
+  legacy_id: null
+  title: 救急救命士法（平成3年法律第36号、現行法）
+  citation: 救急救命士法（平成3年法律第36号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5427
+  legacy_id: null
+  title: 看護師等の人材確保の促進に関する法律（平成4年法律第86号、現行法）
+  citation: 看護師等の人材確保の促進に関する法律（平成4年法律第86号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5428
+  legacy_id: null
+  title: 厚生労働省. 資格・試験情報（医療、医薬品、健康、食品衛生関連の国家試験一覧、令和9年実施試験の日程を掲載、2026年11月24日確認）
+  citation: 厚生労働省. 資格・試験情報（医療、医薬品、健康、食品衛生関連の国家試験一覧、令和9年実施試験の日程を掲載、2026年11月24日確認）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5429
+  legacy_id: null
+  title: 一般社団法人日本歯科専門医機構. 日本歯科専門医制度概報（令和6年度版）
+  citation: 一般社団法人日本歯科専門医機構. 日本歯科専門医制度概報（令和6年度版）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 利用規約の明示を確認できず（機構の公式サイトで公表された版で確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5430
+  legacy_id: null
+  title: 厚生労働省. 第21回医療情報の提供内容等のあり方に関する検討会 資料1-1「専門医に関する広告について」（令和5年8月25日）
+  citation: 厚生労働省. 第21回医療情報の提供内容等のあり方に関する検討会 資料1-1「専門医に関する広告について」（令和5年8月25日）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5431
+  legacy_id: null
+  title: 薬学教育協議会. 臨床における実務実習に関するガイドライン. 令和5年12月（令和5年度文部科学省「大学における医療人養成の在り方に関する調査研究」、文部科学省の薬学教育のページに掲載）
+  citation: 薬学教育協議会. 臨床における実務実習に関するガイドライン. 令和5年12月（令和5年度文部科学省「大学における医療人養成の在り方に関する調査研究」、文部科学省の薬学教育のページに掲載）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 文部科学省のサイトに掲載された団体（薬学教育協議会）の作成資料。権利表示の確認は未了
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を GOV_JP から RESTRICTED に変更。作成者は一般社団法人 薬学教育協議会（文部科学省の委託調査研究）で、文部科学省のサイトに掲載されていても団体の著作物にあたる。研究班のガイドラインの扱い（CLAUDE.md §2-2、2026-11-13 の決定）にそろえた。
+- id: SRC-5450
+  legacy_id: null
+  title: 臨床工学技士法（昭和62年法律第60号、現行法）
+  citation: 臨床工学技士法（昭和62年法律第60号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5451
+  legacy_id: null
+  title: 厚生労働省. 臨床工学技士学校養成所カリキュラム等改善検討会報告書. 令和3年3月25日
+  citation: 厚生労働省. 臨床工学技士学校養成所カリキュラム等改善検討会報告書. 令和3年3月25日
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5452
+  legacy_id: null
+  title: 言語聴覚士法（平成9年法律第132号、現行法）
+  citation: 言語聴覚士法（平成9年法律第132号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5453
+  legacy_id: null
+  title: 視能訓練士法（昭和46年法律第64号、現行法）
+  citation: 視能訓練士法（昭和46年法律第64号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5454
+  legacy_id: null
+  title: 歯科技工士法（昭和30年法律第168号、現行法）
+  citation: 歯科技工士法（昭和30年法律第168号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5455
+  legacy_id: null
+  title: 義肢装具士法（昭和62年法律第61号、現行法）
+  citation: 義肢装具士法（昭和62年法律第61号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5456
+  legacy_id: null
+  title: 柔道整復師法（昭和45年法律第19号、現行法）
+  citation: 柔道整復師法（昭和45年法律第19号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5457
+  legacy_id: null
+  title: あん摩マツサージ指圧師、はり師、きゆう師等に関する法律（昭和22年法律第217号、現行法）
+  citation: あん摩マツサージ指圧師、はり師、きゆう師等に関する法律（昭和22年法律第217号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5458
+  legacy_id: null
+  title: 歯科技工士学校養成所指定規則（昭和31年厚生省令第3号、現行法）
+  citation: 歯科技工士学校養成所指定規則（昭和31年厚生省令第3号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5459
+  legacy_id: null
+  title: 柔道整復師学校養成施設指定規則（昭和47年文部省・厚生省令第2号、現行法）
+  citation: 柔道整復師学校養成施設指定規則（昭和47年文部省・厚生省令第2号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5460
+  legacy_id: null
+  title: あん摩マツサージ指圧師、はり師及びきゆう師に係る学校養成施設認定規則（昭和26年文部省・厚生省令第2号、現行法）
+  citation: あん摩マツサージ指圧師、はり師及びきゆう師に係る学校養成施設認定規則（昭和26年文部省・厚生省令第2号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5461
+  legacy_id: null
+  title: 厚生労働省. 第2回歯科技工士の養成・確保に関する検討会 資料2（歯科技工士養成の現況）. 平成30年7月5日
+  citation: 厚生労働省. 第2回歯科技工士の養成・確保に関する検討会 資料2（歯科技工士養成の現況）. 平成30年7月5日
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
