@@ -1,12 +1,12 @@
-# Phase 1：取り込みレポート（ME、2026-11-23）
+# Phase 1：取り込みレポート（ME、2026-11-24）
 
-生成：`scripts/ingest_round.py raw/ME3_medical_education.md ME`。主張文と数値は変更していない。
+生成：`scripts/ingest_round.py raw/ME4_IT.md ME`。主張文と数値は変更していない。
 
 - 結果：書き込み済み
-- カード：6件（ME-020〜ME-025）、欠番：なし
+- カード：10件（ME-062〜ME-071）、欠番：なし
 - スキーマ違反：0件
-- 出典マスター：新規 10件（SRC-5124, SRC-5125, SRC-5126, SRC-5127, SRC-5128, SRC-5129, SRC-5130, SRC-5131, SRC-5132, SRC-5133）、既存の再利用 0件（）
-- uncertainty に記載のあるカード：6件
+- 出典マスター：新規 9件（SRC-5340, SRC-5341, SRC-5342, SRC-5343, SRC-5344, SRC-5345, SRC-5346, SRC-5347, SRC-5348）、既存の再利用 0件（）
+- uncertainty に記載のあるカード：10件
 
 ## 形式の検査
 
@@ -16,25 +16,27 @@
 
 | subdomain | 件数 |
 |---|---|
-| 制度 | 2 |
-| 横断 | 2 |
-| 評価 | 1 |
-| 教育手法 | 1 |
+| ICTを用いた教育 | 10 |
 
 ## source_class 別（原本の値。Phase 3 で Crossref により確定）
 
 | source_class | 件数 |
 |---|---|
-| RESTRICTED | 4 |
+| OPEN | 5 |
 | GOV_JP | 2 |
+| RESTRICTED | 2 |
+| GOV_US | 1 |
 
 ## SRC 別の使用件数
 
 | SRC | 件数 |
 |---|---|
-| SRC-5124 | 1 |
-| SRC-5127 | 1 |
-| SRC-5130 | 1 |
-| SRC-5131 | 1 |
-| SRC-5132 | 1 |
-| SRC-5133 | 1 |
+| SRC-5340 | 2 |
+| SRC-5341 | 1 |
+| SRC-5342 | 1 |
+| SRC-5343 | 1 |
+| SRC-5344 | 1 |
+| SRC-5345 | 1 |
+| SRC-5346 | 1 |
+| SRC-5347 | 1 |
+| SRC-5348 | 1 |

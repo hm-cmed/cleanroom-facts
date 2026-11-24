@@ -40130,3 +40130,723 @@
   - date: '2026-11-23'
     by: claude-code
     change: 登録：作り手の調査（proposals/pd_survey_20261111/free_sources_68_result.md、2026-11-23）から。三原の承認（2026-11-24、proposals/free68_decisions_20261123.md）
+- id: SRC-5300
+  legacy_id: null
+  title: 'Young JQ, Van Merriënboer J, Durning S, Ten Cate O. Cognitive Load Theory: implications for medical education: AMEE Guide No. 86. Med Teach. 2014;36(5):371-384'
+  citation: 'Young JQ, Van Merriënboer J, Durning S, Ten Cate O. Cognitive Load Theory: implications for medical education: AMEE Guide No. 86. Med Teach. 2014;36(5):371-384'
+  doi: 10.3109/0142159X.2014.889290
+  pmid: '24593808'
+  pmcid: null
+  license_note: © Taylor & Francis（Medical Teacher、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_TL.md の出典マスター表から
+- id: SRC-5301
+  legacy_id: null
+  title: 'Maye JA, Hurley F. The Effectiveness of Spaced Repetition in Medical Education: A Systematic Review and Meta-Analysis. Clin Teach. 2026;23(2):e70353'
+  citation: 'Maye JA, Hurley F. The Effectiveness of Spaced Repetition in Medical Education: A Systematic Review and Meta-Analysis. Clin Teach. 2026;23(2):e70353'
+  doi: 10.1111/tct.70353
+  pmid: '41601436'
+  pmcid: null
+  license_note: © Wiley（The Clinical Teacher、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_TL.md の出典マスター表から
+- id: SRC-5302
+  legacy_id: null
+  title: Luu NK, Severance S. A Systematic Review of Spaced Repetition, Retrieval Practice, and Academic Performance in Undergraduate Medical Students. Cureus. 2026;18(9):e116147
+  citation: Luu NK, Severance S. A Systematic Review of Spaced Repetition, Retrieval Practice, and Academic Performance in Undergraduate Medical Students. Cureus. 2026;18(9):e116147
+  doi: 10.7759/cureus.116147
+  pmid: '42866698'
+  pmcid: null
+  license_note: CC BY 4.0（Europe PMC の license 欄）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_TL.md の出典マスター表から
+- id: SRC-5303
+  legacy_id: null
+  title: 'Neher JO, Stevens NG. The one-minute preceptor: shaping the teaching conversation. Fam Med. 2003;35(6):391-393'
+  citation: 'Neher JO, Stevens NG. The one-minute preceptor: shaping the teaching conversation. Fam Med. 2003;35(6):391-393'
+  doi: null
+  pmid: '12817861'
+  pmcid: null
+  license_note: © Society of Teachers of Family Medicine（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_TL.md の出典マスター表から
+- id: SRC-5304
+  legacy_id: null
+  title: 'Wolpaw TM, Wolpaw DR, Papp KK. SNAPPS: a learner-centered model for outpatient education. Acad Med. 2003;78(9):893-898'
+  citation: 'Wolpaw TM, Wolpaw DR, Papp KK. SNAPPS: a learner-centered model for outpatient education. Acad Med. 2003;78(9):893-898'
+  doi: 10.1097/00001888-200309000-00010
+  pmid: '14507619'
+  pmcid: null
+  license_note: © Association of American Medical Colleges（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_TL.md の出典マスター表から
+- id: SRC-5305
+  legacy_id: null
+  title: 'Peters M, Ten Cate O. Bedside teaching in medical education: a literature review. Perspect Med Educ. 2014;3(2):76-88'
+  citation: 'Peters M, Ten Cate O. Bedside teaching in medical education: a literature review. Perspect Med Educ. 2014;3(2):76-88'
+  doi: 10.1007/s40037-013-0083-y
+  pmid: '24049043'
+  pmcid: null
+  license_note: CC BY（Europe PMC の license 欄）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_TL.md の出典マスター表から
+- id: SRC-5306
+  legacy_id: null
+  title: 'Mann K, Gordon J, MacLeod A. Reflection and reflective practice in health professions education: a systematic review. Adv Health Sci Educ. 2009;14(4):595-621'
+  citation: 'Mann K, Gordon J, MacLeod A. Reflection and reflective practice in health professions education: a systematic review. Adv Health Sci Educ. 2009;14(4):595-621'
+  doi: 10.1007/s10459-007-9090-2
+  pmid: '18034364'
+  pmcid: null
+  license_note: © Springer（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_TL.md の出典マスター表から
+- id: SRC-5307
+  legacy_id: null
+  title: 'Murad MH, Coto-Yglesias F, Varkey P, Prokop LJ, Murad AL. The effectiveness of self-directed learning in health professions education: a systematic review. Med Educ. 2010;44(11):1057-1068'
+  citation: 'Murad MH, Coto-Yglesias F, Varkey P, Prokop LJ, Murad AL. The effectiveness of self-directed learning in health professions education: a systematic review. Med Educ. 2010;44(11):1057-1068'
+  doi: 10.1111/j.1365-2923.2010.03750.x
+  pmid: '20946476'
+  pmcid: null
+  license_note: © Wiley（Medical Education、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_TL.md の出典マスター表から
+- id: SRC-5308
+  legacy_id: null
+  title: 'Ten Cate O, Durning S. Peer teaching in medical education: twelve reasons to move from theory to practice. Med Teach. 2007;29(6):591-599'
+  citation: 'Ten Cate O, Durning S. Peer teaching in medical education: twelve reasons to move from theory to practice. Med Teach. 2007;29(6):591-599'
+  doi: 10.1080/01421590701606799
+  pmid: '17922354'
+  pmcid: null
+  license_note: © Taylor & Francis（Medical Teacher、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_TL.md の出典マスター表から
+- id: SRC-5309
+  legacy_id: null
+  title: McGaghie WC, Issenberg SB, Barsuk JH, Wayne DB. A critical review of simulation-based mastery learning with translational outcomes. Med Educ. 2014;48(4):375-385
+  citation: McGaghie WC, Issenberg SB, Barsuk JH, Wayne DB. A critical review of simulation-based mastery learning with translational outcomes. Med Educ. 2014;48(4):375-385
+  doi: 10.1111/medu.12391
+  pmid: '24606621'
+  pmcid: null
+  license_note: © Wiley（Medical Education、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_TL.md の出典マスター表から
+- id: SRC-5310
+  legacy_id: null
+  title: 'Cook DA, Beckman TJ. Current concepts in validity and reliability for psychometric instruments: theory and application. Am J Med. 2006;119(2):166.e7-16'
+  citation: 'Cook DA, Beckman TJ. Current concepts in validity and reliability for psychometric instruments: theory and application. Am J Med. 2006;119(2):166.e7-16'
+  doi: 10.1016/j.amjmed.2005.10.036
+  pmid: '16443422'
+  pmcid: null
+  license_note: © Elsevier（The American Journal of Medicine、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_AS.md の出典マスター表から
+- id: SRC-5311
+  legacy_id: null
+  title: 'Van Der Vleuten CP. The assessment of professional competence: developments, research and practical implications. Adv Health Sci Educ. 1996;1(1):41-67'
+  citation: 'Van Der Vleuten CP. The assessment of professional competence: developments, research and practical implications. Adv Health Sci Educ. 1996;1(1):41-67'
+  doi: 10.1007/BF00596229
+  pmid: '24178994'
+  pmcid: null
+  license_note: © Springer（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_AS.md の出典マスター表から
+- id: SRC-5312
+  legacy_id: null
+  title: Norcini JJ. Setting standards on educational tests. Med Educ. 2003;37(5):464-469
+  citation: Norcini JJ. Setting standards on educational tests. Med Educ. 2003;37(5):464-469
+  doi: 10.1046/j.1365-2923.2003.01495.x
+  pmid: '12709190'
+  pmcid: null
+  license_note: © Wiley（Medical Education、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_AS.md の出典マスター表から
+- id: SRC-5313
+  legacy_id: null
+  title: Kramer A, Muijtjens A, Jansen K, Düsman H, Tan L, van der Vleuten C. Comparison of a rational and an empirical standard setting procedure for an OSCE. Med Educ. 2003;37(2):132-139
+  citation: Kramer A, Muijtjens A, Jansen K, Düsman H, Tan L, van der Vleuten C. Comparison of a rational and an empirical standard setting procedure for an OSCE. Med Educ. 2003;37(2):132-139
+  doi: 10.1046/j.1365-2923.2003.01429.x
+  pmid: '12558884'
+  pmcid: null
+  license_note: © Wiley（Medical Education、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_AS.md の出典マスター表から
+- id: SRC-5314
+  legacy_id: null
+  title: 'Lörwald AC, Lahner FM, Nouns ZM, Berendonk C, Norcini J, Greif R, Huwendiek S. The educational impact of Mini-Clinical Evaluation Exercise (Mini-CEX) and Direct Observation of Procedural Skills (DOPS) and its association with implementation: a systematic review and meta-analysis. PLoS One. 2018;13(6):e0198009'
+  citation: 'Lörwald AC, Lahner FM, Nouns ZM, Berendonk C, Norcini J, Greif R, Huwendiek S. The educational impact of Mini-Clinical Evaluation Exercise (Mini-CEX) and Direct Observation of Procedural Skills (DOPS) and its association with implementation: a systematic review and meta-analysis. PLoS One. 2018;13(6):e0198009'
+  doi: 10.1371/journal.pone.0198009
+  pmid: '29864130'
+  pmcid: null
+  license_note: CC BY 4.0（Europe PMC の license 欄）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_AS.md の出典マスター表から
+- id: SRC-5315
+  legacy_id: null
+  title: 'Norcini J, Burch V. Workplace-based assessment as an educational tool: AMEE Guide No. 31. Med Teach. 2007;29(9):855-871'
+  citation: 'Norcini J, Burch V. Workplace-based assessment as an educational tool: AMEE Guide No. 31. Med Teach. 2007;29(9):855-871'
+  doi: 10.1080/01421590701775453
+  pmid: '18158655'
+  pmcid: null
+  license_note: © Taylor & Francis（Medical Teacher、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_AS.md の出典マスター表から
+- id: SRC-5316
+  legacy_id: null
+  title: Norcini J, Anderson MB, Bollela V, Burch V, Costa MJ, Duvivier R, Hays R, Palacios Mackay MF, Roberts T, Swanson D. 2018 Consensus framework for good assessment. Med Teach. 2018;40(11):1102-1109
+  citation: Norcini J, Anderson MB, Bollela V, Burch V, Costa MJ, Duvivier R, Hays R, Palacios Mackay MF, Roberts T, Swanson D. 2018 Consensus framework for good assessment. Med Teach. 2018;40(11):1102-1109
+  doi: 10.1080/0142159X.2018.1500016
+  pmid: '30299187'
+  pmcid: null
+  license_note: © Taylor & Francis（Medical Teacher、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_AS.md の出典マスター表から
+- id: SRC-5317
+  legacy_id: null
+  title: Tarrant M, Ware J. Impact of item-writing flaws in multiple-choice questions on student achievement in high-stakes nursing assessments. Med Educ. 2008;42(2):198-206
+  citation: Tarrant M, Ware J. Impact of item-writing flaws in multiple-choice questions on student achievement in high-stakes nursing assessments. Med Educ. 2008;42(2):198-206
+  doi: 10.1111/j.1365-2923.2007.02957.x
+  pmid: '18230093'
+  pmcid: null
+  license_note: © Wiley（Medical Education、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_AS.md の出典マスター表から
+- id: SRC-5318
+  legacy_id: null
+  title: Epstein RM. Assessment in medical education. N Engl J Med. 2007;356(4):387-396
+  citation: Epstein RM. Assessment in medical education. N Engl J Med. 2007;356(4):387-396
+  doi: 10.1056/NEJMra054784
+  pmid: '17251535'
+  pmcid: null
+  license_note: © Massachusetts Medical Society（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_AS.md の出典マスター表から
+- id: SRC-5319
+  legacy_id: null
+  title: 'Donnon T, Al Ansari A, Al Alawi S, Violato C. The reliability, validity, and feasibility of multisource feedback physician assessment: a systematic review. Acad Med. 2014;89(3):511-516'
+  citation: 'Donnon T, Al Ansari A, Al Alawi S, Violato C. The reliability, validity, and feasibility of multisource feedback physician assessment: a systematic review. Acad Med. 2014;89(3):511-516'
+  doi: 10.1097/ACM.0000000000000147
+  pmid: '24448051'
+  pmcid: null
+  license_note: © Association of American Medical Colleges（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_AS.md の出典マスター表から
+- id: SRC-5329
+  legacy_id: null
+  title: 'Downing SM. The effects of violating standard item writing principles on tests and students: the consequences of using flawed test items on achievement examinations in medical education. Adv Health Sci Educ. 2005;10(2):133-143'
+  citation: 'Downing SM. The effects of violating standard item writing principles on tests and students: the consequences of using flawed test items on achievement examinations in medical education. Adv Health Sci Educ. 2005;10(2):133-143'
+  doi: 10.1007/s10459-004-4019-5
+  pmid: '16078098'
+  pmcid: null
+  license_note: © Springer（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_AS.md の出典マスター表から
+- id: SRC-5320
+  legacy_id: null
+  title: 'Thomas PA, Kern DE, Hughes MT, Tackett SA, Chen BY (eds). Curriculum Development for Medical Education: A Six-Step Approach. 4th ed. Johns Hopkins University Press; 2022. ISBN 9781421444093（hardcover）'
+  citation: 'Thomas PA, Kern DE, Hughes MT, Tackett SA, Chen BY (eds). Curriculum Development for Medical Education: A Six-Step Approach. 4th ed. Johns Hopkins University Press; 2022. ISBN 9781421444093（hardcover）'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © Johns Hopkins University Press（All rights reserved）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_CD.md の出典マスター表から
+- id: SRC-5321
+  legacy_id: null
+  title: 'Harden RM, Crosby JR, Davis MH. AMEE Guide No. 14: Outcome-based education: Part 1 — An introduction to outcome-based education. Med Teach. 1999;21(1):7-14'
+  citation: 'Harden RM, Crosby JR, Davis MH. AMEE Guide No. 14: Outcome-based education: Part 1 — An introduction to outcome-based education. Med Teach. 1999;21(1):7-14'
+  doi: 10.1080/01421599979969
+  pmid: null
+  pmcid: null
+  license_note: © Taylor & Francis（Medical Teacher、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_CD.md の出典マスター表から
+- id: SRC-5322
+  legacy_id: null
+  title: 'Frank JR, Mungroo R, Ahmad Y, Wang M, De Rossi S, Horsley T. Toward a definition of competency-based education in medicine: a systematic review of published definitions. Med Teach. 2010;32(8):631-637'
+  citation: 'Frank JR, Mungroo R, Ahmad Y, Wang M, De Rossi S, Horsley T. Toward a definition of competency-based education in medicine: a systematic review of published definitions. Med Teach. 2010;32(8):631-637'
+  doi: 10.3109/0142159X.2010.500898
+  pmid: '20662573'
+  pmcid: null
+  license_note: © Taylor & Francis（Medical Teacher、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_CD.md の出典マスター表から
+- id: SRC-5323
+  legacy_id: null
+  title: Biggs J. Enhancing teaching through constructive alignment. High Educ. 1996;32(3):347-364
+  citation: Biggs J. Enhancing teaching through constructive alignment. High Educ. 1996;32(3):347-364
+  doi: 10.1007/BF00138871
+  pmid: null
+  pmcid: null
+  license_note: © Springer（Higher Education、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_CD.md の出典マスター表から
+- id: SRC-5324
+  legacy_id: null
+  title: 'Anderson LW, Krathwohl DR (eds). A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom''s Taxonomy of Educational Objectives. Longman; 2001. ISBN 9780321084057（hardcover, Complete ed.）'
+  citation: 'Anderson LW, Krathwohl DR (eds). A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom''s Taxonomy of Educational Objectives. Longman; 2001. ISBN 9780321084057（hardcover, Complete ed.）'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © Addison Wesley Longman（All rights reserved）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_CD.md の出典マスター表から
+- id: SRC-5325
+  legacy_id: null
+  title: 'Harden RM, Sowden S, Dunn WR. Educational strategies in curriculum development: the SPICES model. Med Educ. 1984;18(4):284-297'
+  citation: 'Harden RM, Sowden S, Dunn WR. Educational strategies in curriculum development: the SPICES model. Med Educ. 1984;18(4):284-297'
+  doi: 10.1111/j.1365-2923.1984.tb01024.x
+  pmid: '6738402'
+  pmcid: null
+  license_note: © Wiley（Medical Education、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_CD.md の出典マスター表から
+- id: SRC-5326
+  legacy_id: null
+  title: Harden RM, Stamper N. What is a spiral curriculum? Med Teach. 1999;21(2):141-143
+  citation: Harden RM, Stamper N. What is a spiral curriculum? Med Teach. 1999;21(2):141-143
+  doi: 10.1080/01421599979752
+  pmid: '21275727'
+  pmcid: null
+  license_note: © Taylor & Francis（Medical Teacher、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_CD.md の出典マスター表から
+- id: SRC-5327
+  legacy_id: null
+  title: 'Hafferty FW. Beyond curriculum reform: confronting medicine''s hidden curriculum. Acad Med. 1998;73(4):403-407'
+  citation: 'Hafferty FW. Beyond curriculum reform: confronting medicine''s hidden curriculum. Acad Med. 1998;73(4):403-407'
+  doi: 10.1097/00001888-199804000-00013
+  pmid: '9580717'
+  pmcid: null
+  license_note: © Association of American Medical Colleges（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_CD.md の出典マスター表から
+- id: SRC-5328
+  legacy_id: null
+  title: 'Harden RM. The integration ladder: a tool for curriculum planning and evaluation. Med Educ. 2000;34(7):551-557'
+  citation: 'Harden RM. The integration ladder: a tool for curriculum planning and evaluation. Med Educ. 2000;34(7):551-557'
+  doi: 10.1046/j.1365-2923.2000.00697.x
+  pmid: '10886638'
+  pmcid: null
+  license_note: © Wiley（Medical Education、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_CD.md の出典マスター表から
+- id: SRC-5330
+  legacy_id: null
+  title: Kirkpatrick DL. Techniques for evaluating training programs（4部作）. Journal of the American Society of Training Directors. 1959-1960
+  citation: Kirkpatrick DL. Techniques for evaluating training programs（4部作）. Journal of the American Society of Training Directors. 1959-1960
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © American Society for Training and Development（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_EM.md の出典マスター表から
+- id: SRC-5331
+  legacy_id: null
+  title: Yardley S, Dornan T. Kirkpatrick's levels and education 'evidence'. Med Educ. 2012;46(1):97-106
+  citation: Yardley S, Dornan T. Kirkpatrick's levels and education 'evidence'. Med Educ. 2012;46(1):97-106
+  doi: 10.1111/j.1365-2923.2011.04076.x
+  pmid: '22150201'
+  pmcid: null
+  license_note: © Wiley（Medical Education、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_EM.md の出典マスター表から
+- id: SRC-5332
+  legacy_id: null
+  title: 'World Federation for Medical Education. Basic Medical Education: WFME Global Standards for Quality Improvement（2020 revision）. WFME; 2020'
+  citation: 'World Federation for Medical Education. Basic Medical Education: WFME Global Standards for Quality Improvement（2020 revision）. WFME; 2020'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © WFME（All rights reserved、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_EM.md の出典マスター表から
+- id: SRC-5333
+  legacy_id: null
+  title: 日本医学教育評価機構. 医学教育分野別評価基準日本版（世界医学教育連盟グローバルスタンダード準拠）
+  citation: 日本医学教育評価機構. 医学教育分野別評価基準日本版（世界医学教育連盟グローバルスタンダード準拠）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © 一般社団法人 日本医学教育評価機構（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_EM.md の出典マスター表から
+- id: SRC-5334
+  legacy_id: null
+  title: 大学設置基準（昭和31年文部省令第28号、現行法）
+  citation: 大学設置基準（昭和31年文部省令第28号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_EM.md の出典マスター表から
+- id: SRC-5335
+  legacy_id: null
+  title: 学校教育法施行規則（昭和22年文部省令第11号、現行法）
+  citation: 学校教育法施行規則（昭和22年文部省令第11号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_EM.md の出典マスター表から
+- id: SRC-5336
+  legacy_id: null
+  title: 中央教育審議会大学分科会. 教学マネジメント指針. 令和2年1月22日
+  citation: 中央教育審議会大学分科会. 教学マネジメント指針. 令和2年1月22日
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（文部科学省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_EM.md の出典マスター表から
+- id: SRC-5337
+  legacy_id: null
+  title: 学校教育法（昭和22年法律第26号、現行法）
+  citation: 学校教育法（昭和22年法律第26号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_EM.md の出典マスター表から
+- id: SRC-5338
+  legacy_id: null
+  title: 'Frye AW, Hemmer PA. Program evaluation models and related theories: AMEE Guide No. 67. Med Teach. 2012;34(5):e288-99'
+  citation: 'Frye AW, Hemmer PA. Program evaluation models and related theories: AMEE Guide No. 67. Med Teach. 2012;34(5):e288-99'
+  doi: 10.3109/0142159X.2012.668637
+  pmid: '22515309'
+  pmcid: null
+  license_note: © Taylor & Francis（Medical Teacher、CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_EM.md の出典マスター表から
+- id: SRC-5340
+  legacy_id: null
+  title: 文部科学省高等教育局. 大学・高専における生成AIの教学面の取扱いについて（周知）. 令和5年7月13日
+  citation: 文部科学省高等教育局. 大学・高専における生成AIの教学面の取扱いについて（周知）. 令和5年7月13日
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（文部科学省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_IT.md の出典マスター表から
+- id: SRC-5341
+  legacy_id: null
+  title: UNESCO. Guidance for generative AI in education and research. UNESCO; 2023. ISBN 978-92-3-100612-8
+  citation: UNESCO. Guidance for generative AI in education and research. UNESCO; 2023. ISBN 978-92-3-100612-8
+  doi: 10.54675/EWZM9535
+  pmid: null
+  pmcid: null
+  license_note: CC BY-SA 3.0 IGO（本プロジェクトの区分では RESTRICTED）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_IT.md の出典マスター表から
+- id: SRC-5342
+  legacy_id: null
+  title: 'World Health Organization. Ethics and governance of artificial intelligence for health: guidance on large multi-modal models. WHO; 2024. ISBN 978-92-4-008475-9（電子版）'
+  citation: 'World Health Organization. Ethics and governance of artificial intelligence for health: guidance on large multi-modal models. WHO; 2024. ISBN 978-92-4-008475-9（電子版）'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: CC BY-NC-SA 3.0 IGO
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_IT.md の出典マスター表から
+- id: SRC-5343
+  legacy_id: null
+  title: 'Kung TH, Cheatham M, Medenilla A, et al. Performance of ChatGPT on USMLE: potential for AI-assisted medical education using large language models. PLOS Digit Health. 2023;2(2):e0000198'
+  citation: 'Kung TH, Cheatham M, Medenilla A, et al. Performance of ChatGPT on USMLE: potential for AI-assisted medical education using large language models. PLOS Digit Health. 2023;2(2):e0000198'
+  doi: 10.1371/journal.pdig.0000198
+  pmid: '36812645'
+  pmcid: null
+  license_note: CC BY 4.0（Europe PMC の license 欄）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_IT.md の出典マスター表から
+- id: SRC-5344
+  legacy_id: null
+  title: Yano Y, Ohashi M, Miyagami T, et al. The advanced reasoning capabilities of large language models for detecting contraindicated options in medical exams. JMIR Med Inform. 2025;13:e68527
+  citation: Yano Y, Ohashi M, Miyagami T, et al. The advanced reasoning capabilities of large language models for detecting contraindicated options in medical exams. JMIR Med Inform. 2025;13:e68527
+  doi: 10.2196/68527
+  pmid: '40354629'
+  pmcid: null
+  license_note: CC BY 4.0（Europe PMC の license 欄）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_IT.md の出典マスター表から
+- id: SRC-5345
+  legacy_id: null
+  title: 'Izquierdo-Condoy JS, Arias-Intriago M, Tello-De-la-Torre A, Busch F, Ortiz-Prado E. Generative Artificial Intelligence in Medical Education: Enhancing Critical Thinking or Undermining Cognitive Autonomy? J Med Internet Res. 2025;27:e76340'
+  citation: 'Izquierdo-Condoy JS, Arias-Intriago M, Tello-De-la-Torre A, Busch F, Ortiz-Prado E. Generative Artificial Intelligence in Medical Education: Enhancing Critical Thinking or Undermining Cognitive Autonomy? J Med Internet Res. 2025;27:e76340'
+  doi: 10.2196/76340
+  pmid: '41183320'
+  pmcid: null
+  license_note: CC BY 4.0（Europe PMC の license 欄）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_IT.md の出典マスター表から
+- id: SRC-5346
+  legacy_id: null
+  title: 'Kononowicz AA, Woodham LA, Edelbring S, et al. Virtual patient simulations in health professions education: systematic review and meta-analysis by the Digital Health Education Collaboration. J Med Internet Res. 2019;21(7):e14676'
+  citation: 'Kononowicz AA, Woodham LA, Edelbring S, et al. Virtual patient simulations in health professions education: systematic review and meta-analysis by the Digital Health Education Collaboration. J Med Internet Res. 2019;21(7):e14676'
+  doi: 10.2196/14676
+  pmid: '31267981'
+  pmcid: null
+  license_note: CC BY 4.0（Europe PMC の license 欄）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_IT.md の出典マスター表から
+- id: SRC-5347
+  legacy_id: null
+  title: 'Kyaw BM, Saxena N, Posadzki P, et al. Virtual reality for health professions education: systematic review and meta-analysis by the Digital Health Education Collaboration. J Med Internet Res. 2019;21(1):e12959'
+  citation: 'Kyaw BM, Saxena N, Posadzki P, et al. Virtual reality for health professions education: systematic review and meta-analysis by the Digital Health Education Collaboration. J Med Internet Res. 2019;21(1):e12959'
+  doi: 10.2196/12959
+  pmid: '30668519'
+  pmcid: null
+  license_note: CC BY 4.0（Europe PMC の license 欄）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_IT.md の出典マスター表から
+- id: SRC-5348
+  legacy_id: null
+  title: 'Means B, Toyama Y, Murphy R, Bakia M, Jones K. Evaluation of Evidence-Based Practices in Online Learning: A Meta-Analysis and Review of Online Learning Studies. U.S. Department of Education; 2010（revised September 2010）'
+  citation: 'Means B, Toyama Y, Murphy R, Bakia M, Jones K. Evaluation of Evidence-Based Practices in Online Learning: A Meta-Analysis and Review of Online Learning Studies. U.S. Department of Education; 2010（revised September 2010）'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 米国連邦政府の報告書（パブリックドメイン）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_US
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME4_IT.md の出典マスター表から

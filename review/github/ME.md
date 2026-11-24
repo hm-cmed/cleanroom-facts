@@ -2,7 +2,7 @@
 
 [← 一覧に戻る](README.md)　更新：2026-11-24
 
-全 25 件のうち、監修済み 0 件。
+全 71 件のうち、監修済み 0 件。
 
 ## コースディベロップメント
 
@@ -34,7 +34,92 @@
 - 出題基準：必修の基本的事項 4-B（医療事故の発生と再発の防止、-）　コアカリ：CS (id: JnGV10w)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-024&card_id=ME-024&version=ed45bc754b)　（版 `ed45bc754b`）
 
-**[ここまでの 3 件（ME-001〜ME-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-001%E3%80%9CME-024&cards=ME-001%2066f2fa43ce%0AME-005%20380f1ad69a%0AME-024%20ed45bc754b)**
+### ME-045　下書き（出典の照合前）
+
+> Kern の6段階は、医学教育のカリキュラム開発を段階的に進めるための枠組みである。第1段階は問題の把握と一般的なニーズ評価、第2段階は対象とする学習者のニーズ評価、第3段階は目標と到達目標の設定、第4段階は教育方略の選択、第5段階は実施、第6段階は評価とフィードバックである。評価は最後に一度行うものではなく、結果をフィードバックしてカリキュラムの維持・改善につなげる循環として位置づけられる。新しいカリキュラムの新設だけでなく、既存のカリキュラムの改訂にも同じ手順が使われる。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：6段階の名称と順序は第4版の目次で確認し、自作の文で記載した。各段階の進め方の細部は本文（書籍）の範囲のため含めていない。出典は現行の第4版（2022年刊行）とした。第4版では編者に Tackett SA が加わっている。ISBN は hardcover 版の 9781421444093 で、版元の情報で確認した。6段階の名称は第3版から変わっていない。6段階を同じ内容で裏づける CC BY の総説は今回の探索では特定できなかった。
+- 出典：Thomas PA, Kern DE, Hughes MT, Tackett SA, Chen BY (eds). Curriculum Development for Medical Education: A Six-Step Approach. 4th ed. Johns Hopkins University Press; 2022　[リンク](https://www.press.jhu.edu/books/title/12470/curriculum-development-medical-education)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-045&card_id=ME-045&version=ad3e527fe0)　（版 `ad3e527fe0`）
+
+### ME-046　下書き（出典の照合前）
+
+> アウトカム基盤型教育（OBE）は、教育の設計を、学習者が修了時にできるようになること（アウトカム）から始める考え方である。まず卒業時点で到達すべき成果を明示し、そこから逆向きに、教育内容、教育方法、評価方法を決めていく。教える内容の網羅を起点に組み立てる従来型の計画と異なり、到達の明確化が設計の起点になるため、評価はアウトカムへの到達を測るものとして位置づけられ、学習者には到達すべき姿があらかじめ示される。医学教育では、専門職に求められる能力をアウトカムとして定める動きと結びついて広がった。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：書誌と DOI は Crossref で確認した。PMID は DOI 検索・題名検索とも PubMed と Europe PMC で照合した。AMEE Guide No. 14 のうち PubMed に収載されているのは Part 5（PMID 21281173）のみで、本カードの Part 1 は未収載であり、後付けの PMID も存在しないことを確認したため、null のままとした。主張は OBE の設計原理の骨格に限定した。AMEE Guide No. 14 は全5部からなり、本カードは第1部（入門）を出典とする。ME-001（コア・カリキュラム）・ME-005（臨床研修の到達目標）は、この考え方で設計された日本の制度側の内容を扱う。
+- 出典：Harden RM, Crosby JR, Davis MH. AMEE Guide No. 14: Outcome-based education: Part 1 — An introduction to outcome-based education. Med Teach. 1999;21(1):7-14　[DOI 10.1080/01421599979969](https://doi.org/10.1080/01421599979969)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-046&card_id=ME-046&version=44ccf42938)　（版 `44ccf42938`）
+
+### ME-047　下書き（出典の照合前）
+
+> コンピテンシー基盤型教育（CBME）は、履修した時間ではなく、学習者が到達した能力（コンピテンシー）を単位として教育を設計・評価する枠組みである。定義を集めた系統的レビュー（173件の資料を分析）では、CBME を特徴づける主題として、能力を組織化する枠組み、その根拠、時間との対比（時間で区切る従来型の養成との違い）、実装の進め方、の4つが整理された。その下位の要素として、アウトカムを先に定めること、能力で編んだカリキュラム、到達が実演可能であること、評価、学習者中心であること、社会のニーズに応えることが挙げられている。これらをもとに、修了時の能力に向けて方向づけられ、社会と患者のニーズの分析から導いたコンピテンシーを中心に組み立てられ、時間を基準とする養成の比重を下げる教育、という作業定義が提案されている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：分析件数（173件）と、4つの主題（organizing framework、rationale、contrast with time、implementing CBE）と6つの下位主題の整理は抄録で確認した。作業定義は翻訳転載せず、構成要素の説明に留めた。分割案にあった著者表記（Snell、ten Cate ら）は国際ワーキンググループの定義論文側のもので、本カードでは定義の系統的レビューである本論文を出典とした。ME-007（EPA）は CBME の中での「任せられる活動」という実装の概念を扱い、本カードは枠組み全体を扱う。
+- 出典：Frank JR, Mungroo R, Ahmad Y, Wang M, De Rossi S, Horsley T. Toward a definition of competency-based education in medicine: a systematic review of published definitions. Med Teach. 2010;32(8):631-637　[DOI 10.3109/0142159X.2010.500898](https://doi.org/10.3109/0142159X.2010.500898)　[PMID 20662573](https://pubmed.ncbi.nlm.nih.gov/20662573/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-047&card_id=ME-047&version=5c0eb74d94)　（版 `5c0eb74d94`）
+
+### ME-048　下書き（出典の照合前）
+
+> 構成的整合性（constructive alignment）は、意図した学習成果、学習活動、評価の3つを互いに整合させることを教育設計の原則とする考え方である。学習は、学習者が活動を通じて意味を構成する過程（構成的）と捉えられ、設計者は、到達してほしい成果の水準に合った活動を用意し、その成果をそのまま測る評価を置く。評価の方式は学習者の実際の学習行動を強く規定するため（評価が学習を駆動する）、成果と評価の対応が整合の出発点になる。成果・活動・評価のいずれかがずれていると、学習者は評価に受かるための学習に流れ、意図した学びが実現しにくくなる。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：書誌と DOI は Crossref で確認した。PMID は確認できず null とした。原著は高等教育一般を対象とした論文で、医学教育に限ったものではない。主張は原則の骨格に限定し、Biggs と Tang の教科書（Teaching for Quality Learning at University）で展開された細部は含めていない。CC BY の総説での裏づけは今回の探索では特定できなかった。
+- 出典：Biggs J. Enhancing teaching through constructive alignment. High Educ. 1996;32(3):347-364　[DOI 10.1007/BF00138871](https://doi.org/10.1007/BF00138871)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-048&card_id=ME-048&version=03edb9c98b)　（版 `03edb9c98b`）
+
+### ME-049　下書き（出典の照合前）
+
+> Bloom の分類の改訂版は、学習目標を2つの軸で整理する枠組みである。一つは認知過程の軸で、記憶する、理解する、応用する、分析する、評価する、創造する、の6つの水準からなる。もう一つは知識の軸で、事実的知識、概念的知識、手続き的知識、メタ認知的知識の4種を区別する。目標をこの2軸の表（タキソノミー・テーブル）に位置づけることで、目標・学習活動・評価の対応を点検でき、目標記述の動詞の選択を通じて、求める理解の深さを揃える共通言語として使われる。原版（1956年）からの改訂で、認知過程の最上位に「創造する」が置かれた。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：書誌と ISBN（9780321084057、hardcover の Complete ed.）は Google Books と大学図書館目録で確認した。略版（abridged ed.）の ISBN は 9780801319037 で、版により異なる。6つの認知過程と4種の知識は分類の概念名として記載した。医学教育での利用を述べた CC BY 論文は多数あるが、分類そのものを裏づける単独の総説は今回特定しなかった。
+- 出典：Anderson LW, Krathwohl DR (eds). A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives. Longman; 2001（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-049&card_id=ME-049&version=1e592192f7)　（版 `1e592192f7`）
+
+### ME-050　下書き（出典の照合前）
+
+> SPICES モデルは、カリキュラムの特徴を6つの連続体（スペクトラム）で表し、カリキュラム開発の方向づけを検討するためのモデルである。6つとは、学生中心か教師中心か（Student-centred/Teacher-centred）、問題基盤か情報収集基盤か（Problem-based/Information-gathering）、統合されているか教科別か（Integrated/Discipline-based）、地域基盤か病院基盤か（Community-based/Hospital-based）、選択制か一律か（Elective/Uniform）、系統的か見習い的か（Systematic/Apprenticeship-based）であり、頭文字をとって SPICES と呼ばれる。各カリキュラムは両極の間のどこかに位置づけられ、どちらか一方が常に優れるのではなく、自校の状況に応じた位置を検討する道具として使われる。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：書誌は Europe PMC で確認した。6つの連続体の名称はモデルの概念名として記載した。原著は抄録が公開されておらず、各連続体の議論の細部は含めていない。
+- 出典：Harden RM, Sowden S, Dunn WR. Educational strategies in curriculum development: the SPICES model. Med Educ. 1984;18(4):284-297　[DOI 10.1111/j.1365-2923.1984.tb01024.x](https://doi.org/10.1111/j.1365-2923.1984.tb01024.x)　[PMID 6738402](https://pubmed.ncbi.nlm.nih.gov/6738402/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-050&card_id=ME-050&version=3f48e45f17)　（版 `3f48e45f17`）
+
+### ME-051　下書き（出典の照合前）
+
+> スパイラル・カリキュラムは、同じ主題を、学年や段階が上がるにつれて深さと複雑さを増しながら繰り返し学ぶカリキュラム設計である。初めは基本的な形で学んだ内容に後の段階で再び出会い、以前の学習と結びつけながら、より難しい課題への適用へ進む。再訪のたびに難易度が上がること、既習内容との関連づけが明示されること、学習の到達度に応じて次の段階へ進むことが、単なる繰り返しと区別する条件になる。基礎と臨床を学年をまたいで繰り返し扱う医学教育のカリキュラム設計で用いられる考え方である。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：著者は Harden RM と Stamper N の共著である（論文 PDF の著者欄で確認した。Europe PMC 等のデータベースでは Harden RM の単著と表示されるが、本文の著者表記に従った）。原著は短い解説で抄録が公開されておらず、主張は設計の骨格に限定した。PMID は後年に付与されたもの。
+- 出典：Harden RM, Stamper N. What is a spiral curriculum? Med Teach. 1999;21(2):141-143　[DOI 10.1080/01421599979752](https://doi.org/10.1080/01421599979752)　[PMID 21275727](https://pubmed.ncbi.nlm.nih.gov/21275727/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-051&card_id=ME-051&version=8ee7eea63f)　（版 `8ee7eea63f`）
+
+**[ここまでの 10 件（ME-001〜ME-051）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-001%E3%80%9CME-051&cards=ME-001%2066f2fa43ce%0AME-005%20380f1ad69a%0AME-024%20ed45bc754b%0AME-045%20ad3e527fe0%0AME-046%2044ccf42938%0AME-047%205c0eb74d94%0AME-048%2003edb9c98b%0AME-049%201e592192f7%0AME-050%203f48e45f17%0AME-051%208ee7eea63f)**
+
+---
+
+### ME-052　下書き（出典の照合前）
+
+> 隠れたカリキュラムとは、公式のカリキュラム（教育課程として明示された内容）とは別に、組織の文化や現場の慣行を通じて学習者が学び取る規範や価値観のことをいう。医学教育の改革が教育課程の改訂だけでは実を結ばなかった背景として、医学校を「何を教えるか」ではなく「学習者が何を学び取るか」の観点から、学習環境として捉え直す必要があると指摘された。学習環境には、公式カリキュラム、非公式カリキュラム（学習者同士や教員との日常的なやり取り）、隠れたカリキュラムの3つが区別される。自校の隠れたカリキュラムを明らかにするには、組織の方針、評価の活動、資源配分の決め方、組織内で使われる言葉遣い、の4つの領域を検討することが提案されている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：主張は抄録で確認した範囲（3つのカリキュラムの区別、学習環境としての捉え直し、検討すべき4領域）に基づく。分割案で裏づけ候補とした Lawrence らのスコーピングレビュー（Acad Med. 2019）は、今回の API 照合で書誌を確定できなかったため出典に含めていない。
+- 出典：Hafferty FW. Beyond curriculum reform: confronting medicine's hidden curriculum. Acad Med. 1998;73(4):403-407　[DOI 10.1097/00001888-199804000-00013](https://doi.org/10.1097/00001888-199804000-00013)　[PMID 9580717](https://pubmed.ncbi.nlm.nih.gov/9580717/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-052&card_id=ME-052&version=9da5cd0696)　（版 `9da5cd0696`）
+
+### ME-053　下書き（出典の照合前）
+
+> 統合のはしご（integration ladder）は、カリキュラムの統合の程度を段階で表す枠組みである。教科ごとに隔絶して教える段階から始まり、教科間で内容を意識し合う段階、時間割をそろえる段階、主題を中心に複数教科が共同で教える段階を経て、複数教科の境界を越えて学際的に統合する段階、最終的には学習者が自ら知識を統合する段階へと、統合が深まっていく様子を11の段で表す。カリキュラムの現状を位置づけ、統合をどこまで進めるかを計画・評価する際の道具として使われる。統合の深さそのものが目的ではなく、段階ごとに必要な準備や教員間の調整の量が異なる点に注意が要る。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：書誌は Europe PMC で確認した。原著は抄録が公開されておらず、11段の個別の名称の全列挙はせず、段階の幅と使い方の骨格に限定して記載した。各段の正確な名称は原著本文で確認されたい。
+- 出典：Harden RM. The integration ladder: a tool for curriculum planning and evaluation. Med Educ. 2000;34(7):551-557　[DOI 10.1046/j.1365-2923.2000.00697.x](https://doi.org/10.1046/j.1365-2923.2000.00697.x)　[PMID 10886638](https://pubmed.ncbi.nlm.nih.gov/10886638/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-053&card_id=ME-053&version=db344fbbe5)　（版 `db344fbbe5`）
+
+**[ここまでの 2 件（ME-052〜ME-053）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-052%E3%80%9CME-053&cards=ME-052%209da5cd0696%0AME-053%20db344fbbe5)**
 
 ---
 
@@ -139,7 +224,101 @@
 - 出典：Driessen E, van Tartwijk J, van der Vleuten C, Wass V. Portfolios in medical education: why do they meet with mixed success? A systematic review. Med Educ. 2007;41(12):1224-1233　[DOI 10.1111/j.1365-2923.2007.02944.x](https://doi.org/10.1111/j.1365-2923.2007.02944.x)　[PMID 18045373](https://pubmed.ncbi.nlm.nih.gov/18045373/)（区分 RESTRICTED）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-022&card_id=ME-022&version=c1868c0ea5)　（版 `c1868c0ea5`）
 
-**[ここまでの 6 件（ME-003〜ME-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-003%E3%80%9CME-022&cards=ME-003%20648a59517f%0AME-006%2055eb75ac85%0AME-007%20bbf4ea4a24%0AME-011%2007e8eefd9c%0AME-012%20f5106c6cb3%0AME-022%20c1868c0ea5)**
+### ME-035　下書き（出典の照合前）
+
+> 評価の妥当性は、テストそのものの性質ではなく、その得点の解釈と使い方が裏づけられるかどうかで判断する、というのが現代の考え方である。顔面妥当性・内容妥当性・基準連関妥当性といった区別は、構成概念妥当性という一つの概念に統合され、根拠は5つの面から集める。すなわち、内容（項目が構成概念を代表しているか）、反応過程（受験者や観察者の思考過程）、内的構造（信頼性や因子構造）、他の変数との関係（同じ構成概念を測る別の指標との相関）、結果（得点が実際に違いを生むか）である。得点の信頼性は妥当な解釈の必要条件ではあるが、十分条件ではない。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：主張は抄録で確認した範囲（妥当性の統合的概念と5つの根拠源、信頼性との関係）に基づく。Messick の枠組みを基礎とし、Kane の論証に基づく考え方も原著の本文で論じられているが、細部は本カードに含めていない。
+- 出典：Cook DA, Beckman TJ. Current concepts in validity and reliability for psychometric instruments: theory and application. Am J Med. 2006;119(2):166.e7-16　[DOI 10.1016/j.amjmed.2005.10.036](https://doi.org/10.1016/j.amjmed.2005.10.036)　[PMID 16443422](https://pubmed.ncbi.nlm.nih.gov/16443422/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-035&card_id=ME-035&version=e9eef2679f)　（版 `e9eef2679f`）
+
+### ME-036　下書き（出典の照合前）
+
+> 評価方法の有用性は、信頼性、妥当性、教育への効果、受け入れやすさ、コストの5つの要素の積として考える枠組みが提案されている（van der Vleuten の有用性の式）。積で考えるため、どれか一つの要素がゼロであれば、他の要素がどれほど優れていても有用性全体は成り立たない。各要素への重みづけは一律ではなく、評価の目的や文脈に応じて変えるもので、たとえば進級判定のような重大な決定では信頼性と妥当性が、学習を促す場面では教育への効果が重くなる。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：原著は抄録が公開されておらず本文は購読制のため、主張は有用性の式の骨格（5要素の積と重みづけ）に限定した。PMID は後年に付与されたもので、Europe PMC で書誌と対応を確認した。
+- 出典：Van Der Vleuten CP. The assessment of professional competence: developments, research and practical implications. Adv Health Sci Educ. 1996;1(1):41-67　[DOI 10.1007/BF00596229](https://doi.org/10.1007/BF00596229)　[PMID 24178994](https://pubmed.ncbi.nlm.nih.gov/24178994/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-036&card_id=ME-036&version=a737267f6c)　（版 `a737267f6c`）
+
+### ME-037　下書き（出典の照合前）
+
+> 試験の合格基準（合否の境目）は、受験者の出来とは別に、標準設定という手続きで決める。標準設定は、基準の種類を決め、方法を選び、判定者を選んで、判定を集めて境目の得点を算出する、という段階を踏む。代表的な Angoff 法では、判定者が「最低限できる受験者」を想定し、その受験者が各問題に正答する確率を推定して積み上げる。方法の選択では、試験の目的に合っていること、専門家の判断に基づくこと、データの裏づけがあること、研究の支持があること、透明であること、手続きを尽くすこと、が基準になるとされる。合格基準は値そのものではなく、専門職としての価値判断を一つの得点に表したものと位置づけられる。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：主張は抄録で確認した範囲（標準設定の手順、方法選択の基準、合格基準の位置づけ）に基づく。Angoff 法以外の方法（対照群法など）の手続きの細部は本カードに含めていない。OSCE での応用法は ME-038 で扱う。
+- 出典：Norcini JJ. Setting standards on educational tests. Med Educ. 2003;37(5):464-469　[DOI 10.1046/j.1365-2923.2003.01495.x](https://doi.org/10.1046/j.1365-2923.2003.01495.x)　[PMID 12709190](https://pubmed.ncbi.nlm.nih.gov/12709190/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-037&card_id=ME-037&version=2d3f1f60fe)　（版 `2d3f1f60fe`）
+
+### ME-038　下書き（出典の照合前）
+
+> OSCE の合格基準の設定では、判定者の全体評価を利用する経験的な方法が使われる。境界回帰法は、各ステーションについて、チェックリスト得点と判定者の全体評価（合格・境界・不合格など）の関係を回帰で表し、全体評価が「境界」にあたる受験者のチェックリスト得点を推定して、それを合格基準とする方法である。16ステーションの OSCE で Angoff 法と比較した研究では、合格基準の得点は境界回帰法で57.6%、修正 Angoff 法で73.4%（現実チェックなし）・66.0%（同あり）と方法により大きく異なり、境界回帰法の方が基準の信頼性（誤差の小ささ）と信憑性で優れていたと報告されている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：数値（合格基準57.6%・73.4%・66.0%、誤差0.6%対2.1%）は原著の抄録で確認した。対象は総合診療の後期研修の OSCE で、学部教育の OSCE にそのまま当てはまる数値ではない。境界群法（境界に位置する受験者群の平均得点を用いる方法）も、判定者の全体評価を用いる同系統の経験的方法である。臨床実習前 OSCE の枠組みは ME-003 で扱うが、同 OSCE でどの標準設定法が用いられているかは本カードの出典の範囲外である。
+- 出典：Kramer A, Muijtjens A, Jansen K, Düsman H, Tan L, van der Vleuten C. Comparison of a rational and an empirical standard setting procedure for an OSCE. Med Educ. 2003;37(2):132-139　[DOI 10.1046/j.1365-2923.2003.01429.x](https://doi.org/10.1046/j.1365-2923.2003.01429.x)　[PMID 12558884](https://pubmed.ncbi.nlm.nih.gov/12558884/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-038&card_id=ME-038&version=57fb04a95c)　（版 `57fb04a95c`）
+
+**[ここまでの 10 件（ME-003〜ME-038）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-003%E3%80%9CME-038&cards=ME-003%20648a59517f%0AME-006%2055eb75ac85%0AME-007%20bbf4ea4a24%0AME-011%2007e8eefd9c%0AME-012%20f5106c6cb3%0AME-022%20c1868c0ea5%0AME-035%20e9eef2679f%0AME-036%20a737267f6c%0AME-037%202d3f1f60fe%0AME-038%2057fb04a95c)**
+
+---
+
+### ME-039　下書き（出典の照合前）
+
+> mini-CEX（短時間の診察観察とフィードバック）と DOPS（手技の直接観察評価）は、職場で行う形成的評価として世界的に使われており、その教育効果が系統的レビューで整理されている。26件の研究を対象としたレビューでは、学習者の反応は研究によりまちまちだった一方、遂行（パフォーマンス）の改善については、mini-CEX で標準化平均差0.26、DOPS で同3.33と、肯定的な効果がメタ解析で示された。これより上の段階（行動変容や組織の成果）を見た研究はなかった。また、評価の実施の質や参加者の応答性といった実施上の特性が、教育効果と関連していた。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：数値（26件、標準化平均差0.26 と 3.33）は原著の抄録で確認した。DOPS の効果量は非常に大きく、対象研究の規模や設計の影響を受けている可能性がある。効果の段階づけは Kirkpatrick の4段階を応用した分類（ME-054 参照）によるもので、遂行は第2段階にあたる。対象は学部・卒後の医療専門職の学習者全般である。
+- 出典：Lörwald AC, Lahner FM, Nouns ZM, Berendonk C, Norcini J, Greif R, Huwendiek S. The educational impact of Mini-Clinical Evaluation Exercise (Mini-CEX) and Direct Observation of Procedural Skills (DOPS) and its association with implementation: a systematic review and meta-analysis. PLoS One. 2018;13(6):e0198009　[DOI 10.1371/journal.pone.0198009](https://doi.org/10.1371/journal.pone.0198009)　[PMID 29864130](https://pubmed.ncbi.nlm.nih.gov/29864130/)（区分 OPEN）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-039&card_id=ME-039&version=2aa03c7ee6)　（版 `2aa03c7ee6`）
+
+### ME-040　下書き（出典の照合前）
+
+> 職場基盤型評価（WBA）は、診療現場で学習者の仕事ぶりを直接観察して行う評価であり、試験場の評価では測れない実際の遂行を扱う。観察にその場のフィードバックを組み合わせた形成的評価は、学習者の行動を変える力を持つことが研究で示されており、mini-CEX や DOPS などの方法が開発されてきた。一方で、評価を担う教員の参加と訓練が実施の成否を左右し、学習者のニーズに合った、遂行の重要な面に焦点を当てたフィードバックであることが効果を高める条件になる。評価者の負担や参加の確保は、導入時の課題として残されている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：主張は抄録で確認した範囲（形成的評価とフィードバックの効果、教員の役割と訓練、残された課題）に基づく。個別の評価手法の信頼性・妥当性の数値は本文の範囲のため含めていない。具体的な手法の教育効果は ME-039（mini-CEX と DOPS）で扱う。
+- 出典：Norcini J, Burch V. Workplace-based assessment as an educational tool: AMEE Guide No. 31. Med Teach. 2007;29(9):855-871　[DOI 10.1080/01421590701775453](https://doi.org/10.1080/01421590701775453)　[PMID 18158655](https://pubmed.ncbi.nlm.nih.gov/18158655/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-040&card_id=ME-040&version=e4203de99c)　（版 `e4203de99c`）
+
+### ME-041　下書き（出典の照合前）
+
+> 評価の専門家会議（オタワ会議）の合意枠組みは、「良い評価」の基準を、個々の評価と、評価プログラム（評価システム）の両方について示している。個々の評価の基準は2010年の合意を引き継ぎ、妥当性、再現性・一貫性、同等性、実施可能性、教育効果、触媒効果（学習と改善を促す効果）、受け入れ可能性の7つである。2018年の枠組みでは、これに加えて評価システム全体に適用する基準が新たに示され、受験者やプログラムの多様化、重大な決定を伴う評価について法的に争われた際の説明可能性、医学教育の国際的な通用性といった、実施上の論点も整理されている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：主張は抄録で確認した範囲（2010年基準の継承と評価システム向け基準の追加、実施上の論点）に基づく。7つの基準の名称は2010年のオタワ合意の公表内容による。評価システム向け基準の項目の細部は本文の範囲のため含めていない。「法的に争われた際の説明可能性」（原語は defensibility）は、高ステークス評価の結果が争われた場合に手続きを説明できることを指す。
+- 出典：Norcini J, Anderson MB, Bollela V, Burch V, Costa MJ, Duvivier R, Hays R, Palacios Mackay MF, Roberts T, Swanson D. 2018 Consensus framework for good assessment. Med Teach. 2018;40(11):1102-1109　[DOI 10.1080/0142159X.2018.1500016](https://doi.org/10.1080/0142159X.2018.1500016)　[PMID 30299187](https://pubmed.ncbi.nlm.nih.gov/30299187/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-041&card_id=ME-041&version=d6bfea166e)　（版 `d6bfea166e`）
+
+### ME-042　下書き（出典の照合前）
+
+> 多肢選択問題の作問上の欠陥（手がかりを与える書き方や曖昧な表現など）は、知識とは無関係に受験者の得点や合否を左右しうる。看護学生を対象とした高ステークス試験の分析では、全問題の47.3%に作問上の欠陥があり、欠陥のない問題だけで判定すると合格率は94.3%から90.6%に下がった。医学部の基礎科学試験を対象とした別の研究でも、欠陥のある問題は36〜65%を占め、欠陥問題は正規の問題より最大で15ポイント難しくなっていた。欠陥は、測りたい構成概念とは無関係なばらつき（構成概念無関係分散）を試験に持ち込み、評価の妥当性を損なう。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：数値はいずれも原著の抄録で確認した。主出典の対象は看護学部の学生（香港の英語プログラム）であり、医学教育への一般化は裏づけ（SRC-5329、医学部の基礎科学試験）で補った。欠陥の分類項目の細部は本文の範囲のため含めていない。
+- 出典：Tarrant M, Ware J. Impact of item-writing flaws in multiple-choice questions on student achievement in high-stakes nursing assessments. Med Educ. 2008;42(2):198-206　[DOI 10.1111/j.1365-2923.2007.02957.x](https://doi.org/10.1111/j.1365-2923.2007.02957.x)　[PMID 18230093](https://pubmed.ncbi.nlm.nih.gov/18230093/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-042&card_id=ME-042&version=1991a14251)　（版 `1991a14251`）
+
+### ME-043　下書き（出典の照合前）
+
+> 評価には、学習の途中で改善のための情報を返す形成的評価と、進級・修了などの決定に用いる総括的評価とがあり、目的によって設計も扱いも異なる。形成的評価は、学習者が自分の現在地と目標との隔たりを知り、次に何をすべきかを決めるためのもので、結果に重大な帰結を伴わないことが、率直な自己開示とフィードバックの受け入れを支える。総括的評価は、能力の到達を社会に対して保証するためのもので、信頼性や手続きの公正さがより強く求められる。一つの評価に両方の役割を担わせると、学習のための情報収集と、判定のための測定とが競合し、緊張関係が生じると指摘されている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：原著は抄録が公開されておらず本文は購読制のため、主張は形成的評価と総括的評価の目的の区別という枠組みの骨格に限定し、自作の文で記載した。分割案では MedEdPublish の総説を裏づけ候補としていたが、今回は NEJM の総説（Epstein 2007）を主出典として登録した。
+- 出典：Epstein RM. Assessment in medical education. N Engl J Med. 2007;356(4):387-396　[DOI 10.1056/NEJMra054784](https://doi.org/10.1056/NEJMra054784)　[PMID 17251535](https://pubmed.ncbi.nlm.nih.gov/17251535/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-043&card_id=ME-043&version=9db2a7e931)　（版 `9db2a7e931`）
+
+### ME-044　下書き（出典の照合前）
+
+> 多面評価（360度評価、多源フィードバック）は、同僚医師・協働するスタッフ・患者など、立場の異なる複数の評価者からの評価を集めて医師の遂行を把握する方法で、診療技術だけでなく、コミュニケーションや専門職としての振る舞いといった非技術的な面の評価に使われる。系統的レビュー（43件の研究）では、十分な信頼性を得るにはおおよそ、同僚医師8人、協働者8人、患者25人の評価が必要とされ、この条件で信頼性係数0.90以上、一般化可能性係数0.80以上が得られることが示されている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：数値（43件、評価者数8人・8人・25人、係数の水準）は原著の抄録で確認した。分割案の仮題名にあった「内科研修プログラムにおける多面評価」という書誌は実在せず、Europe PMC で確認した本書誌（医師評価の系統的レビュー）が正しい。対象は主に診療に従事する医師の評価で、学部教育での使用を直接検証したものではない。
+- 出典：Donnon T, Al Ansari A, Al Alawi S, Violato C. The reliability, validity, and feasibility of multisource feedback physician assessment: a systematic review. Acad Med. 2014;89(3):511-516　[DOI 10.1097/ACM.0000000000000147](https://doi.org/10.1097/ACM.0000000000000147)　[PMID 24448051](https://pubmed.ncbi.nlm.nih.gov/24448051/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-044&card_id=ME-044&version=b2560a16f7)　（版 `b2560a16f7`）
+
+**[ここまでの 6 件（ME-039〜ME-044）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-039%E3%80%9CME-044&cards=ME-039%202aa03c7ee6%0AME-040%20e4203de99c%0AME-041%20d6bfea166e%0AME-042%201991a14251%0AME-043%209db2a7e931%0AME-044%20b2560a16f7)**
 
 ---
 
@@ -209,7 +388,92 @@
 - 出題基準：必修の基本的事項 16-A-②（多職種の各専門性の理解、-）　コアカリ：IP (id: JnGV11A)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-025&card_id=ME-025&version=6739c9e838)　（版 `6739c9e838`）
 
-**[ここまでの 7 件（ME-008〜ME-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-008%E3%80%9CME-025&cards=ME-008%20813131233f%0AME-009%202eaee9084e%0AME-013%206d3abc022a%0AME-014%20cb9d8b9ac1%0AME-015%20b2d53aacb9%0AME-023%20118af08ed9%0AME-025%206739c9e838)**
+### ME-026　下書き（出典の照合前）
+
+> 認知負荷理論は、学習の制約を作業記憶の容量の限界から説明する理論である。学習課題そのものに伴う負荷、教材や指導の提示の仕方によって生じる余分な負荷、学びを深める方向に働く負荷の3種類を区別し、合計の負荷が作業記憶の容量を超えると学習や遂行が妨げられると考える。医学教育では、知識・技能・態度を同時に統合する活動が多いため負荷が高くなりやすく、教材や実習の設計では、余分な負荷を減らす工夫（例：worked example の提示）や、学習者の発達段階に合わせて課題の複雑さを調整することが求められる。また、初学者に有効な指導法が上級者にはかえって妨げになることがある（expertise-reversal effect）ため、学習の進展に応じて設計を変える必要がある。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：主張は抄録で確認した範囲（3種の負荷の区別、worked example 等の設計技法、expertise-reversal effect）に限って自作の文で記載した。本文（購読制）の各論は含めていない。認知負荷理論を医学教育向けに解説した CC BY の総説は、今回の探索では同内容を裏づけるものを特定できなかった。
+- 出典：Young JQ, Van Merriënboer J, Durning S, Ten Cate O. Cognitive Load Theory: implications for medical education: AMEE Guide No. 86. Med Teach. 2014;36(5):371-384　[DOI 10.3109/0142159X.2014.889290](https://doi.org/10.3109/0142159X.2014.889290)　[PMID 24593808](https://pubmed.ncbi.nlm.nih.gov/24593808/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-026&card_id=ME-026&version=d46c294b3e)　（版 `d46c294b3e`）
+
+### ME-027　下書き（出典の照合前）
+
+> 学習した内容を時間間隔をあけて繰り返し想起する学習法（間隔反復と検索練習）は、医学教育の学習者の試験成績を高めることが系統的レビューで示されている。フラッシュカードや多肢選択問題の配信などを用いた間隔反復の研究を統合したメタ解析（13件、学習者21,415人）では、通常の学習法と比べて標準化平均差0.78（95%信頼区間 0.56〜0.99）と、間隔反復の側に有意な有利さが認められた。学部医学教育を対象とした別の系統的レビュー（21件）でも、管理された研究では成績や保持の改善がおおむね支持された一方、学習者が自発的に使うフラッシュカードの観察研究では結果が混在し、選択バイアスの影響を受けやすいことが指摘されている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：数値（メタ解析13件、学習者21,415人、標準化平均差0.78、95%信頼区間0.56〜0.99）は主出典の抄録で確認した。主出典は2026年刊行の新しいレビューであり、対象研究の内訳は本文未確認。テスト効果（検索練習そのもの）の古典的実験研究は本カードの出典に含めていない。
+- 出典：Maye JA, Hurley F. The Effectiveness of Spaced Repetition in Medical Education: A Systematic Review and Meta-Analysis. Clin Teach. 2026;23(2):e70353　[DOI 10.1111/tct.70353](https://doi.org/10.1111/tct.70353)　[PMID 41601436](https://pubmed.ncbi.nlm.nih.gov/41601436/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-027&card_id=ME-027&version=a2ab345be4)　（版 `a2ab345be4`）
+
+### ME-028　下書き（出典の照合前）
+
+> ワンミニッツプリセプターは、外来や病棟の短い指導場面で使われる臨床指導の進め方で、5つのマイクロスキルからなる。すなわち、学習者に考え（見立て）をまず言わせること、その根拠を尋ねること、一般原則を教えること、うまくできた点を認めて強化すること、誤りを正すこと、の5つである。学習者の報告を聞いて指導者が一方的に解説する進め方と違い、学習者の思考過程を引き出してから教える点に特徴があり、限られた時間の指導を組み立てる枠として広く使われている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：5つのマイクロスキルの具体的内容は、原典である Neher JO, Gordon KC, Meyer B, Stevens N. A five-step "microskills" model of clinical teaching. J Am Board Fam Pract. 1992;5(4):419-424（PMID：1496899、DOIなし）の抄録で確認した。原典は出典として登録せず、本カードの主出典は2003年の解説論文とした。2003年論文に DOI は付与されていない。効果の大きさを示す比較研究は本カードに含めていない。
+- 出典：Neher JO, Stevens NG. The one-minute preceptor: shaping the teaching conversation. Fam Med. 2003;35(6):391-393　[PMID 12817861](https://pubmed.ncbi.nlm.nih.gov/12817861/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-028&card_id=ME-028&version=3e513c4197)　（版 `3e513c4197`）
+
+**[ここまでの 10 件（ME-008〜ME-028）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-008%E3%80%9CME-028&cards=ME-008%20813131233f%0AME-009%202eaee9084e%0AME-013%206d3abc022a%0AME-014%20cb9d8b9ac1%0AME-015%20b2d53aacb9%0AME-023%20118af08ed9%0AME-025%206739c9e838%0AME-026%20d46c294b3e%0AME-027%20a2ab345be4%0AME-028%203e513c4197)**
+
+---
+
+### ME-029　下書き（出典の照合前）
+
+> SNAPPSは、外来教育で学習者が主体となって症例提示を進めるための学習者中心の方法で、6つの段階からなる。症例を簡潔に要約し、鑑別診断を2〜3に絞り、それらを比較して分析し、不確かな点や迷う点を指導者に質問し、患者の管理計画を立て、最後に症例に関連した自己学習の課題を自ら選ぶ、という流れである。従来の、学習者が病歴と診察所見を報告し指導者が受け身に聞く提示の仕方と比べ、学習者が自分の思考と疑問を提示の中心に置く点に特徴がある。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：6段階の内容は原著の抄録で確認し、自作の文で記載した。原著のパイロット研究は医学生と指導者の反応をみた小規模なもので、学習成果への効果の検証は本カードの主張に含めていない。ME-028（ワンミニッツプリセプター）が指導者側の進め方であるのに対し、本カードは学習者側の提示の進め方を扱う。
+- 出典：Wolpaw TM, Wolpaw DR, Papp KK. SNAPPS: a learner-centered model for outpatient education. Acad Med. 2003;78(9):893-898　[DOI 10.1097/00001888-200309000-00010](https://doi.org/10.1097/00001888-200309000-00010)　[PMID 14507619](https://pubmed.ncbi.nlm.nih.gov/14507619/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-029&card_id=ME-029&version=1023d1ce93)　（版 `1023d1ce93`）
+
+### ME-030　下書き（出典の照合前）
+
+> ベッドサイド教育（患者のそばで行う教育）は、診察技能の修得に役立つだけでなく、患者・学習者・指導者のいずれからも好意的に受け止められてきた教育方法であるが、その実施は減少傾向にある。文献レビューでは、減少の背景として、入院期間の短縮と患者の回転の速さ、患者のプライバシーへの配慮、診断における技術への依存の高まりが挙げられている。対策としては、研修医やインターンを指導役に活用すること、教員にベッドサイド教育の重要性と進め方の要点を伝えることなどが提案されている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：主張は抄録で確認した範囲（臨床診断技能への効果、患者・学習者・指導者の受け止め、減少の理由と対策の方向性）に基づく。効果の大きさを示す数値は原著の抄録にないため含めていない。
+- 出典：Peters M, Ten Cate O. Bedside teaching in medical education: a literature review. Perspect Med Educ. 2014;3(2):76-88　[DOI 10.1007/s40037-013-0083-y](https://doi.org/10.1007/s40037-013-0083-y)　[PMID 24049043](https://pubmed.ncbi.nlm.nih.gov/24049043/)（区分 OPEN）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-030&card_id=ME-030&version=7f1474e5fa)　（版 `7f1474e5fa`）
+
+### ME-031　下書き（出典の照合前）
+
+> 省察（リフレクション）は、経験を振り返って意味づけ直す過程であり、医療専門職の能力の基盤の一つとされる。学部・卒後・生涯教育の各段階で省察を促す活動が取り入れられているが、医療専門職教育における省察と省察的実践の系統的レビューでは、その効果や影響を裏づける根拠は主に理論的なものにとどまり、研究文献も複数の分野に分散していて、どのような働きかけが有効かはまだ明らかでないとされている。省察を促す方法や、評価との関係づけは、教育設計上の検討課題として残されている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：主張は抄録で確認した範囲（省察の位置づけ、根拠の性質、文献の分散）に基づく。Kolb の経験学習サイクルなどの個別の理論モデルは原著の本文の範囲であり、本カードには含めていない。ME-022（ポートフォリオ）は省察の記録と評価の媒体を扱うもので、本カードは学習過程としての省察そのものを扱う。
+- 出典：Mann K, Gordon J, MacLeod A. Reflection and reflective practice in health professions education: a systematic review. Adv Health Sci Educ. 2009;14(4):595-621　[DOI 10.1007/s10459-007-9090-2](https://doi.org/10.1007/s10459-007-9090-2)　[PMID 18034364](https://pubmed.ncbi.nlm.nih.gov/18034364/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-031&card_id=ME-031&version=bc0f925b55)　（版 `bc0f925b55`）
+
+### ME-032　下書き（出典の照合前）
+
+> 自己主導型学習（学習者が自分の学習ニーズを把握し、目標と資源を選び、成果を振り返る学習法）は、医療専門職教育で従来型の教授法と比べて知識の習得で中程度の改善と結びつくことが系統的レビューで示されている。59件の研究（学習者8,011人）を統合した結果、知識領域では標準化平均差0.45（95%信頼区間 0.23〜0.67）と自己主導型学習が上回った一方、技能領域（標準化平均差0.05）と態度領域（同0.39）では統計学的に有意な差は認められなかった。学習資源の選択に学習者が関わる場合に効果が大きく、上級の学習者で利益が大きい傾向も報告されている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：数値（59件、学習者8,011人、各領域の標準化平均差と信頼区間）は原著の抄録で確認した。統合した研究間の異質性はいずれの解析でも有意であり、研究の方法論の質は中程度と評価されている。対象は医療専門職教育全般で、医師教育に限った結果ではない。
+- 出典：Murad MH, Coto-Yglesias F, Varkey P, Prokop LJ, Murad AL. The effectiveness of self-directed learning in health professions education: a systematic review. Med Educ. 2010;44(11):1057-1068　[DOI 10.1111/j.1365-2923.2010.03750.x](https://doi.org/10.1111/j.1365-2923.2010.03750.x)　[PMID 20946476](https://pubmed.ncbi.nlm.nih.gov/20946476/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-032&card_id=ME-032&version=d203b83af2)　（版 `d203b83af2`）
+
+### ME-033　下書き（出典の照合前）
+
+> ピア学習（学習者同士が教え合う形式）は、医学教育で広く実践されており、その根拠として、教員の指導負担の軽減、下級生にとってのロールモデルの提供、学習の動機づけの高まり、将来教育者となる医師の準備になることなど、12の理由が文献の整理から挙げられている。とりわけ、教える側と学ぶ側の学年の差が小さい近ピア（ニアピア）指導は、教える側・学ぶ側の双方と教育組織のいずれにとっても有益とされる。教える側の学生は、見習いと熟練者の中間に位置する存在として、教えること自体を通じて学ぶ面がある。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：主張は抄録で確認した範囲（2006年の医学教育文献の調査に基づく実践状況と12の理由の整理）に基づく。12の理由の全項目の列挙は本文の範囲のため含めていない。効果量を示すメタ解析ではなく、実践の根拠を整理した論考である。ME-023（TBL）はチームで課題に取り組む学習手順が主題であり、本カードとは扱う形式が異なる。
+- 出典：Ten Cate O, Durning S. Peer teaching in medical education: twelve reasons to move from theory to practice. Med Teach. 2007;29(6):591-599　[DOI 10.1080/01421590701606799](https://doi.org/10.1080/01421590701606799)　[PMID 17922354](https://pubmed.ncbi.nlm.nih.gov/17922354/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-033&card_id=ME-033&version=c233a6eb9b)　（版 `c233a6eb9b`）
+
+### ME-034　下書き（出典の照合前）
+
+> マスタリー学習は、全ての学習者があらかじめ定められた到達基準に達するまで、意図的練習と再評価を繰り返す学習方式である。シミュレーションと組み合わせたマスタリー学習（SBML）の研究を批判的にレビューした検討（23件）では、教育現場内の成果にとどまらず、診療実践の改善、患者アウトカムの改善、さらには波及効果といった下流の転帰まで測定した研究が蓄積されていることが示された。こうした成果は、単発の介入ではなく、テーマを持って継続・蓄積される教育と医療サービスの統合的な研究プログラムから生じているとされる。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：主張は抄録で確認した範囲（23件の批判的レビュー、転帰の段階 T1〜T4）に基づく。効果量を統合したメタ解析ではなく、数値は含めていない。ME-009 の出典 SRC-5112（McGaghie ら 2011、意図的練習つきシミュレーションと従来型臨床教育の比較メタ解析）とは別論文であり、重複登録でないことを DOI で確認した。本カードは「基準到達まで繰り返す」という学習設計の枠組みを主題とする。
+- 出典：McGaghie WC, Issenberg SB, Barsuk JH, Wayne DB. A critical review of simulation-based mastery learning with translational outcomes. Med Educ. 2014;48(4):375-385　[DOI 10.1111/medu.12391](https://doi.org/10.1111/medu.12391)　[PMID 24606621](https://pubmed.ncbi.nlm.nih.gov/24606621/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-034&card_id=ME-034&version=70b5498385)　（版 `70b5498385`）
+
+**[ここまでの 6 件（ME-029〜ME-034）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-029%E3%80%9CME-034&cards=ME-029%201023d1ce93%0AME-030%207f1474e5fa%0AME-031%20bc0f925b55%0AME-032%20d203b83af2%0AME-033%20c233a6eb9b%0AME-034%2070b5498385)**
 
 ---
 
@@ -258,7 +522,101 @@
 - 出典：Cook DA, Levinson AJ, Garside S, Dupras DM, Erwin PJ, Montori VM. Internet-based learning in the health professions: a meta-analysis. JAMA. 2008;300(10):1181-1196　[DOI 10.1001/jama.300.10.1181](https://doi.org/10.1001/jama.300.10.1181)　[PMID 18780847](https://pubmed.ncbi.nlm.nih.gov/18780847/)（区分 RESTRICTED）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-016&card_id=ME-016&version=55f6231a95)　（版 `55f6231a95`）
 
-**[ここまでの 1 件（ME-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-016&cards=ME-016%2055f6231a95)**
+### ME-062　下書き（出典の照合前）
+
+> 文部科学省は2023年7月、大学・高等専門学校における生成AIの教学面の取扱いについて周知を出し、各大学・高専が実態に応じて指針を定め、状況の変化に応じて見直すことを求めた。周知では、学生が生成AIの出力をそのまま用いてレポート等を作成することは一般に不適切であること、成績評価を適切に行うために生成AIを利用したことの明記や、小テスト・口述試験の併用といった工夫が有効であること、生成された内容に虚偽や偏りが含まれうること、機密情報や個人情報の流出、著作権の侵害に留意すべきことが示されている。あわせて、ブレインストーミングや文章校正などの学びの補助としての活用や、生成AIを使いこなすための教育も想定される場面として挙げられている。
+
+- 条件：region: 日本／対象: 大学・高等専門学校の学生と教員
+- 不確実性：内容は周知の別紙（留意すべき観点）で確認した。2026-11-24 時点で、この周知を置き換える大学向けの新しい文書は確認できていない。初等中等教育向けの生成AIガイドライン（文部科学省）は別の文書であり、依頼文の決定により本カードに含めていない。
+- 出典：文部科学省高等教育局. 大学・高専における生成AIの教学面の取扱いについて（周知）. 令和5年7月13日　[リンク](https://www.mext.go.jp/content/20230714-koutou02-000030953-15.pdf)（区分 GOV_JP）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-062&card_id=ME-062&version=5e155fa095)　（版 `5e155fa095`）
+
+### ME-063　下書き（出典の照合前）
+
+> UNESCOは2023年、教育と研究における生成AIについての初の国際ガイダンスを公表した。ガイダンスは人間中心の考え方を原則に置き、データプライバシーの保護、提供者に対する規制の必要性、教育機関が生成AIの倫理的・教育的な適切さを検証したうえで導入することなどを示している。生成AIの急速な普及に対して、各国の政策が追いついていない状況を踏まえ、教育機関と政策立案者の双方に向けた指針として作られたもので、年齢に応じた利用の在り方や、学習者の主体性を損なわない使い方も論点になっている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：DOI と ISBN（978-92-3-100612-8）は UNESCO の出版物ページで確認した。ライセンスは CC BY-SA 3.0 IGO で、自由に使える表示ではあるが、本プロジェクトの区分（第1回・第2回のライセンス照合の基準）では SA 系は RESTRICTED になる。国内向けの文書は ME-062（文部科学省の周知）で扱う。
+- 出典：UNESCO. Guidance for generative AI in education and research. UNESCO; 2023　[DOI 10.54675/EWZM9535](https://doi.org/10.54675/EWZM9535)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-063&card_id=ME-063&version=25380b057e)　（版 `25380b057e`）
+
+### ME-064　下書き（出典の照合前）
+
+> WHOは2024年1月、生成AIの一種である大規模マルチモーダルモデル（LMM）について、医療での倫理とガバナンスの指針を公表した。指針は、LMMの応用分野の一つに医学・看護教育（模擬患者との対話練習など）を挙げる一方で、不正確な出力、自動化バイアス（AIの出力を過度に信頼すること）、データの偏りといったリスクを示し、開発者・提供者・利用する医療機関それぞれへの勧告をまとめている。教育での利用についても、出力の正確さを前提にせず、人間による監督のもとで使うことが前提とされている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：公表日（2024年1月18日）と ISBN（978-92-4-008475-9、電子版）は WHO 公式発表と IRIS の書誌で確認した。指針の勧告の細部は本文（98ページ）の範囲のため、主張は教育への応用とリスクの位置づけに限定した。2021年の WHO の医療 AI 倫理指針を土台とする文書である。
+- 出典：World Health Organization. Ethics and governance of artificial intelligence for health: guidance on large multi-modal models. WHO; 2024　[リンク](https://www.who.int/publications/i/item/9789240084759)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-064&card_id=ME-064&version=02750a1309)　（版 `02750a1309`）
+
+### ME-065　下書き（出典の照合前）
+
+> 2023年に公表された検証では、大規模言語モデル（LLM）が、米国の医師免許試験（USMLE）形式の問題で、Step 1、Step 2CK、Step 3 のいずれでも合格水準（正答率約60%）に近い成績を示した。モデルは医学の専門的な追加訓練を受けておらず、汎用の言語モデルとしての学習のみでこの水準に達した。この結果は、LLM が医学知識の問題にある程度答えられることを示した初期の実証として、AI を医学教育にどう使うかという議論の出発点になった。ただし成績は問題の入力形式によって変わり、同じモデルの評価でも提示の仕方で正答率が変動することに注意が要る。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：研究の時点とモデル：2023年2月公表。対象モデルは GPT-3.5 系の大規模言語モデル（製品名は出典の書誌に記載）。数値は本文で確認した。入力形式により正答率は大きく変動し、自由回答形式では不確定な応答の扱いによって Step 1 で75.0%〜45.4% の幅があった。より新しい研究では、後継モデル（GPT-4）を用いた検証で合格水準を大きく上回る成績が報告されており（Nori ら、2023年）、本カードの数値は2023年時点のモデルの成績として読む必要がある。
+- 出典：Kung TH, Cheatham M, Medenilla A, et al. Performance of ChatGPT on USMLE: potential for AI-assisted medical education using large language models. PLOS Digit Health. 2023;2(2):e0000198　[DOI 10.1371/journal.pdig.0000198](https://doi.org/10.1371/journal.pdig.0000198)　[PMID 36812645](https://pubmed.ncbi.nlm.nih.gov/36812645/)（区分 OPEN）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-065&card_id=ME-065&version=021a30c3a3)　（版 `021a30c3a3`）
+
+### ME-066　下書き（出典の照合前）
+
+> 日本の医師国家試験の問題を用いた2025年の検証では、大規模言語モデル（LLM）が、選ぶと不合格になりうる禁忌肢をどの程度見分けられるかが検討された。禁忌肢を含む15問（2019〜2024年の国家試験問題、画像問題を除く）という小規模な検証で、従来モデルでは正答率80%、禁忌肢の検出率73%だったのに対し、推論を強化した新しいモデルでは正答率100%、禁忌肢の検出率87%と、いずれも新しいモデルが上回った。著者らは、対象が15問にとどまる予備的な検討であり、結果の一般化には限界があるとしている。正答できることと、避けるべき選択肢を避けられることは別の能力であり、後者には推論の質が関わることが示唆された。
+
+- 条件：region: 日本／対象: 教育者
+- 不確実性：モデル名と時点：従来モデルは GPT-4、推論強化モデルは OpenAI o1。試験の実施は2024年10月10日、問題は2019〜2024年の医師国家試験から禁忌肢を含む15問（日本語）。英語に翻訳した問題でも同様の傾向だった。数値は本文で確認した。より新しいモデルでの検証が今後も出続ける分野であり、本カードの数値は2024年時点のモデル同士の比較として読む必要がある。GPT-4 の日本の医師国家試験での初期の検証（2023年）も複数あるが、本カードは禁忌肢の検出に焦点を当てた本研究を出典とした。
+- 出典：Yano Y, Ohashi M, Miyagami T, et al. The advanced reasoning capabilities of large language models for detecting contraindicated options in medical exams. JMIR Med Inform. 2025;13:e68527　[DOI 10.2196/68527](https://doi.org/10.2196/68527)　[PMID 40354629](https://pubmed.ncbi.nlm.nih.gov/40354629/)（区分 OPEN）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-066&card_id=ME-066&version=aeff5b7088)　（版 `aeff5b7088`）
+
+### ME-067　下書き（出典の照合前）
+
+> 生成AIの医学教育への利用については、臨床推論の練習、文献の整理、文章作成、形成的評価の補助など、学習を支える使い方が広がる一方で、批判的思考への影響が論点になっている。2025年の論説では、効率や文章の質の向上が報告される反面、AIへの過度の依存によって学習者が受け身になり、誤情報に弱くなり、考える過程そのものを省いてしまう危険が指摘されている。生成AIを、倫理的な使い方、プロンプトの工夫、出力の批判的な評価を教えるカリキュラムの中に位置づけて使えば認知の助けになるが、そうした組み込みなしでは学習者の認知的な自律を損ないうる、というのが論説の整理である。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：本出典は系統的レビューではなく論説（viewpoint）であり、主張は著者らの整理と主張に基づく。分割案の仮題名（…Undermining It?）は誤りで、実際の副題は Undermining Cognitive Autonomy? である。生成AIの教育利用については2026年に入っても新しい総説が出続けており、取り込み時点での最新状況の確認が望ましい。
+- 出典：Izquierdo-Condoy JS, Arias-Intriago M, Tello-De-la-Torre A, Busch F, Ortiz-Prado E. Generative Artificial Intelligence in Medical Education: Enhancing Critical Thinking or Undermining Cognitive Autonomy? J Med Internet Res. 2025;27:e76340　[DOI 10.2196/76340](https://doi.org/10.2196/76340)　[PMID 41183320](https://pubmed.ncbi.nlm.nih.gov/41183320/)（区分 OPEN）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-067&card_id=ME-067&version=5a4f620849)　（版 `5a4f620849`）
+
+### ME-068　下書き（出典の照合前）
+
+> 生成AIの出力をそのまま提出する行為への対応は、禁止の宣言だけではなく、評価の設計側の工夫として示されている。文部科学省の大学向けの周知では、生成AIを利用したことの明記を求めること、小テストや口述試験を併用して学習者本人の到達を確認すること、といった評価上の工夫が有効とされた。UNESCOのガイダンスでも、教育機関が生成AIの倫理的・教育的な適切さを検証し、利用のルールを定めることが求められている。
+
+- 条件：region: 日本／対象: 教育者
+- 不確実性：本カードは ME-062（周知そのもの）と出典を共有し、評価と学術的誠実性に絞った論点として独立させた。主張は周知とガイダンスに明記された内容に限っている。AI検出ツールの性能や、検出ツールへの依拠の是非は、いずれの出典にも明記がないため含めていない。医学教育に限った裏づけ論文は今回選定しなかった（分割案の仮 SRC-5349 は未使用）。
+- 出典：文部科学省高等教育局. 大学・高専における生成AIの教学面の取扱いについて（周知）. 令和5年7月13日　[リンク](https://www.mext.go.jp/content/20230714-koutou02-000030953-15.pdf)（区分 GOV_JP）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-068&card_id=ME-068&version=2e946d42be)　（版 `2e946d42be`）
+
+### ME-069　下書き（出典の照合前）
+
+> バーチャル患者（コンピュータ上で対話できる仮想の患者症例）を用いた学習は、医療専門職教育で効果が検証されている。系統的レビューとメタ解析（51件の試験、参加者4,696人）では、従来型の教育と比べて、知識では同程度（標準化平均差0.11、95%信頼区間 −0.17〜0.39）だった一方、技能ではバーチャル患者の側が上回った（標準化平均差0.90、95%信頼区間 0.49〜1.32）。ただし、対象研究の方法論の限界と異質性のため、根拠の質は全体として低いと評価されている。画面上の仮想患者との対話で臨床推論や面接の進め方を繰り返し練習できる点が、この方法の特徴である。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：数値（51件、参加者4,696人、知識と技能の効果量）は原著の抄録で確認した。対象は医療専門職教育全般（学部・卒後）で、医師教育に限らない。ME-009・ME-013 のシミュレーション（実物・模擬患者を用いるもの）とは媒体が異なり、本カードは画面上の仮想患者を扱う。
+- 出典：Kononowicz AA, Woodham LA, Edelbring S, et al. Virtual patient simulations in health professions education: systematic review and meta-analysis by the Digital Health Education Collaboration. J Med Internet Res. 2019;21(7):e14676　[DOI 10.2196/14676](https://doi.org/10.2196/14676)　[PMID 31267981](https://pubmed.ncbi.nlm.nih.gov/31267981/)（区分 OPEN）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-069&card_id=ME-069&version=2bd3440b77)　（版 `2bd3440b77`）
+
+### ME-070　下書き（出典の照合前）
+
+> VR（仮想現実）を用いた教育は、医療専門職教育で、知識の習得については従来型の学習よりやや有利とするメタ解析がある。系統的レビュー（31件の研究、参加者2,407人）では、知識の事後スコアは従来型学習との比較で標準化平均差0.44（95%信頼区間 0.18〜0.69、8件の統合、中程度の確実性）、認知技能では同1.12（95%信頼区間 0.81〜1.43、4件の統合）と報告された。一方、態度や満足度については結果が混在し、患者アウトカムや行動変容を見た研究はなかった。アウトカムの種類によって証拠の強さが異なる点に注意が要る。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：数値（31件、参加者2,407人、知識と認知技能の効果量）は原著の抄録で確認した。根拠の確実性は GRADE で低〜中程度と評価されている。対象は医療専門職教育全般である。技能（手技）の習得そのものを測った比較は限られ、認知技能の結果と分けて読む必要がある。
+- 出典：Kyaw BM, Saxena N, Posadzki P, et al. Virtual reality for health professions education: systematic review and meta-analysis by the Digital Health Education Collaboration. J Med Internet Res. 2019;21(1):e12959　[DOI 10.2196/12959](https://doi.org/10.2196/12959)　[PMID 30668519](https://pubmed.ncbi.nlm.nih.gov/30668519/)（区分 OPEN）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-070&card_id=ME-070&version=1095220833)　（版 `1095220833`）
+
+**[ここまでの 10 件（ME-016〜ME-070）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-016%E3%80%9CME-070&cards=ME-016%2055f6231a95%0AME-062%205e155fa095%0AME-063%2025380b057e%0AME-064%2002750a1309%0AME-065%20021a30c3a3%0AME-066%20aeff5b7088%0AME-067%205a4f620849%0AME-068%202e946d42be%0AME-069%202bd3440b77%0AME-070%201095220833)**
+
+---
+
+### ME-071　下書き（出典の照合前）
+
+> 米国教育省が委託したメタ解析（1996〜2008年の研究から、効果量を算出できた50の比較を統合）では、オンライン学習の条件は対面のみの授業と比べて、平均して控えめに良好な学習成果と結びついていた。効果がより大きかったのは、対面とオンラインを組み合わせたブレンデッド学習の条件であり、対面授業との差は純粋なオンライン学習の場合を上回っていた。ただし、ブレンデッドの条件では学習時間や教材の要素が対照より追加されていることが多く、この有利さを媒体そのものの効果とみなすことはできない、と報告書は注意している。対象は教育全般で、大学生・大学院生・専門職の研修が中心であり、医学・医療系の訓練も多く含まれていた。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：報告書は2010年9月の改訂版が現行形。全体の平均効果（+0.20）とブレンデッドの効果（+0.35）は報告書の公表値だが、主張では方向性の記述に留めた。ME-016（医療専門職のインターネット基盤学習のメタ解析）とは対象範囲が異なり、本カードは教育全般の政府報告書を扱う。provenance の URL は実施機関（SRI）の公開ページで、報告書本文への案内を含む。
+- 出典：Means B, Toyama Y, Murphy R, Bakia M, Jones K. Evaluation of Evidence-Based Practices in Online Learning: A Meta-Analysis and Review of Online Learning Studies. U.S. Department of Education; 2010　[リンク](https://www.sri.com/publication/education-learning-pubs/digital-learning-pubs/evaluation-of-evidence-based-practices-in-online-learning-a-meta-analysis-and-review-of-online-learning-studies/)（区分 GOV_US）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-071&card_id=ME-071&version=9a6d7b8df6)　（版 `9a6d7b8df6`）
+
+**[ここまでの 1 件（ME-071）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-071&cards=ME-071%209a6d7b8df6)**
 
 ---
 
@@ -273,7 +631,79 @@
 - 出典：Steinert Y, Mann K, Centeno A, Dolmans D, Spencer J, Gelula M, Prideaux D. A systematic review of faculty development initiatives designed to improve teaching effectiveness in medical education: BEME Guide No. 8. Med Teach. 2006;28(6):497-526　[DOI 10.1080/01421590600902976](https://doi.org/10.1080/01421590600902976)　[PMID 17074699](https://pubmed.ncbi.nlm.nih.gov/17074699/)（区分 RESTRICTED）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-017&card_id=ME-017&version=e730d45305)　（版 `e730d45305`）
 
-**[ここまでの 1 件（ME-017）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-017&cards=ME-017%20e730d45305)**
+### ME-054　下書き（出典の照合前）
+
+> Kirkpatrick の4段階は、教育プログラムの評価を4つの水準で捉える枠組みである。第1段階は参加者の反応（満足度など）、第2段階は学習の到達（知識・技能・態度の変化）、第3段階は行動の変化（現場での実践の変化）、第4段階は組織の成果（患者アウトカムや組織の業績など）であり、段階が上がるほど評価は難しくなる。もともと産業界の訓練評価のために作られた枠組みで、医学教育の研究評価にも広く使われてきた。一方で、この段階には多くの暗黙の前提が含まれ、単純な教育設計・短期間の転帰・学習者以外の受益者という条件がそろう場合に限って評価の道具として適するという批判的検討があり、医学教育のエビデンスレビューの中でこの条件を満たすものは約5分の1にとどまるとされる。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：4段階の名称は概念名として記載した。原典は1959〜1960年の雑誌連載（4部作）で、DOI・PMID はなく、書籍版（Evaluating Training Programs, Berrett-Koehler）の ISBN は今回 API で確認できなかったため記載していない。「約5分の1」は裏づけ論文の抄録で確認した数値。4段階を同じ内容で裏づける CC BY の総説は今回の探索では特定できなかった。
+- 出典：Kirkpatrick DL. Techniques for evaluating training programs. Journal of the American Society of Training Directors. 1959-1960（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-054&card_id=ME-054&version=6f01b4a478)　（版 `6f01b4a478`）
+
+### ME-055　下書き（出典の照合前）
+
+> 世界医学教育連盟（WFME）は、基礎医学教育の質改善のための世界基準を示しており、各国の医学教育の分野別評価はこの基準を参照して行われる。2020年の改訂版（第3版）は、使命と価値、カリキュラム、評価、学生、教員、教育資源、質保証、統轄と管理運営の8つのテーマで構成される。今回の改訂では、各機関や国が自らの文脈に合わせて基準を作ることを認める原則基盤型（principles-based）の考え方に転換し、基準は一律の要求ではなく、各国の基準づくりの雛形と質改善の梃子として位置づけられている。WFME はまた、各国の評価機関を認定する仕組みを持ち、認定された機関による評価が国際的に通用する枠組みになっている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：構成（8つのテーマ）と原則基盤型への転換は WFME 公式サイトと基準書の目次で確認した。初版は2003年、第2版は2012年（2015年に改訂）。基準の各項目の文言は転載していない。日本の分野別評価との関係は ME-056 で扱う。
+- 出典：World Federation for Medical Education. Basic Medical Education: WFME Global Standards for Quality Improvement（2020 revision）. WFME; 2020　[リンク](https://wfme.org/standards/bme/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-055&card_id=ME-055&version=5af1931ed5)　（版 `5af1931ed5`）
+
+### ME-056　下書き（出典の照合前）
+
+> 日本の医学教育の分野別評価は、一般社団法人日本医学教育評価機構（JACME）が実施している。JACME は2015年に設立され、2017年に世界医学教育連盟（WFME）から評価機関として認定を受けた。評価は、WFME の世界基準に準拠して作られた日本の基準（医学教育分野別評価基準日本版）に基づいて、医学部の教育プログラムを対象に行われ、認定の期間は7年である。大学全体を対象とする機関別認証評価（学校教育法に基づく認証評価）とは、対象も目的も異なる仕組みで、分野別評価は医学教育の内容と質を専門の観点から評価するものである。基準は改訂が重ねられており、現在は日本版 Ver.2.36 に基づいて評価が行われている。
+
+- 条件：region: 日本／対象: 大学（医学部）
+- 不確実性：設立年（2015年12月1日）と WFME 認定の日付（2017年3月18日）は JACME の公表資料で確認した。日本版基準 Ver.2.36（WFME 2015年版準拠）が、2024〜2026年度の評価報告書でも用いられていることを確認した。WFME 2020年版を反映した後継基準の公表状況は、2026-11-24 時点で確認できていない。基準の各項目の文言は転載していない。
+- 出典：日本医学教育評価機構. 医学教育分野別評価基準日本版（世界医学教育連盟グローバルスタンダード準拠）　[リンク](https://www.jacme.or.jp/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-056&card_id=ME-056&version=ffa454da37)　（版 `ffa454da37`）
+
+### ME-057　下書き（出典の照合前）
+
+> 大学は、授業の内容及び方法の改善を図るための組織的な研修及び研究（FD）を実施することが、大学設置基準で義務づけられている（第11条第2項）。同じ第11条の第1項では、教員と事務職員等を対象に、知識・技能の習得と能力・資質の向上のための研修（SD）の機会を設けることも定められている。FD の規定は、もとは大学設置基準第25条の3に置かれていたが、令和4年（2022年）の大学設置基準の改正で条文が再編され、現行では第11条（組織的な研修等）に移っている。
+
+- 条件：region: 日本／対象: 大学およびその教員
+- 不確実性：出典内の位置：FD は第11条第2項、SD は同条第1項、指導補助者への研修は同条第3項。条文は e-Gov 法令検索の現行法（2026-11-24 取得）で確認した。旧第25条の3は平成19年の改正で設けられた規定で、令和4年改正（令和4年10月1日施行の再編）で第11条に移った。FD の効果の検証は ME-017（BEME レビュー）で扱い、本カードは制度の根拠を扱う。
+- 出典：大学設置基準（昭和31年文部省令第28号、現行法）　[リンク](https://laws.e-gov.go.jp/law/331M50000080028)（区分 GOV_JP）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-057&card_id=ME-057&version=d10c3b4979)　（版 `d10c3b4979`）
+
+### ME-058　下書き（出典の照合前）
+
+> 大学は、学校教育法施行規則第165条の2により、大学・学部・学科（大学院では研究科・専攻）ごとに、教育上の目的を踏まえて3つの方針を定めるものとされている。すなわち、卒業又は修了の認定に関する方針（ディプロマ・ポリシー）、教育課程の編成及び実施に関する方針（カリキュラム・ポリシー）、入学者の受入れに関する方針（アドミッション・ポリシー）である。教育課程の編成・実施の方針を定めるに当たっては、卒業・修了の認定の方針との一貫性の確保に特に意を用いなければならないとされ、3つの方針が学位プログラムの設計の起点として位置づけられている。
+
+- 条件：region: 日本／対象: 大学
+- 不確実性：出典内の位置：第165条の2第1項（3つの方針）、第2項（教育課程の方針と卒業認定の方針の一貫性）。条文は e-Gov 法令検索の現行法（2026-11-24 取得）で確認した。同条自体は方針の「公表」を定めておらず、方針の公表は同規則第172条の2第1項第1号（大学の教育研究上の目的及び第165条の2第1項の規定により定める方針に関すること）による。3つの方針の運用（教学マネジメント）は ME-059 で扱う。
+- 出典：学校教育法施行規則（昭和22年文部省令第11号、現行法）　[リンク](https://laws.e-gov.go.jp/law/322M40000080011)（区分 GOV_JP）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-058&card_id=ME-058&version=2a671522f2)　（版 `2a671522f2`）
+
+### ME-059　下書き（出典の照合前）
+
+> 教学マネジメント指針は、中央教育審議会大学分科会が2020年に示した、学修者本位の教育への転換のための指針である。教学マネジメントは「大学がその教育目的を達成するために行う管理運営」と定義され、大学の内部質保証の確立と密接に関わる営みとされる。指針は、3つの方針を通じた学修目標の具体化、授業科目・教育課程の編成と実施、学修成果・教育成果の把握と可視化、教学マネジメントを支える基盤（FD・SD の高度化と教学 IR 体制の確立）、情報公表の5つの部分からなり、3つの方針を起点とする教育の PDCA サイクルを各大学が確立することを求めている。
+
+- 条件：region: 日本／対象: 大学
+- 不確実性：公表日（令和2年1月22日）と指針の構成（5部）は文部科学省の公表資料で確認した。なお、指針には「教学マネジメント指針（追補）」（令和5年2月24日、中央教育審議会大学分科会）がある。指針の主たる対象は学士課程で、大学院や専門職大学等でも参考にすることが期待されている。3つの方針の法的根拠は ME-058（学校教育法施行規則第165条の2）で扱う。
+- 出典：中央教育審議会大学分科会. 教学マネジメント指針. 令和2年1月22日　[リンク](https://www.mext.go.jp/content/20200206-mxt_daigakuc03-000004749_002.pdf)（区分 GOV_JP）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-059&card_id=ME-059&version=b253a4dfbd)　（版 `b253a4dfbd`）
+
+### ME-060　下書き（出典の照合前）
+
+> 大学は、学校教育法第109条により、自ら教育研究等の状況について点検・評価を行って結果を公表することに加え、政令で定める期間ごとに、文部科学大臣の認証を受けた評価機関（認証評価機関）による評価（認証評価）を受けることとされている。認証評価では、大学の教育研究等の総合的な状況が、認証評価機関の定める大学評価基準に適合しているかどうかが認定される。適合認定を受けられなかった場合は、文部科学大臣が大学に報告や資料の提出を求めることができる。この機関別認証評価は大学全体を対象とする仕組みであり、医学部など分野ごとの教育を対象とする分野別評価とは別の制度である。
+
+- 条件：region: 日本／対象: 大学
+- 不確実性：出典内の位置：自己点検・評価と公表は第109条第1項、認証評価は同条第2項、専門職大学等への追加の認証評価は同条第3項、適合認定の仕組みは同条第4〜6項。条文は e-Gov 法令検索の現行法（2026-11-24 取得）で確認した。認証評価の周期（7年以内）は政令（学校教育法施行令第40条）で定められるもので、第109条自体は「政令で定める期間ごとに」と定める。分野別評価は ME-056 で扱う。
+- 出典：学校教育法（昭和22年法律第26号、現行法）　[リンク](https://laws.e-gov.go.jp/law/322AC0000000026)（区分 GOV_JP）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-060&card_id=ME-060&version=bf94b0e9c4)　（版 `bf94b0e9c4`）
+
+### ME-061　下書き（出典の照合前）
+
+> 教育プログラムの評価は、成果を測るだけでなく、評価の目的と問いを先に設計して行うものであり、そのためのモデルがいくつか整理されている。実験的・準実験的なデザインで効果を検証するモデル、Kirkpatrick の4段階モデル、活動と成果のつながりを図で表すロジックモデル、文脈・投入・過程・成果の4面から評価する CIPP モデルなどが代表的である。各モデルには理論的な背景（還元主義、システム理論、複雑性理論）があり、プログラムの複雑さと評価のニーズに照らしてモデルの基盤を選ぶことが、適切な評価設計につながるとされる。意図した成果だけでなく、意図しない変化も含めて記述することが求められる。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：主張は抄録で確認した範囲（扱われるモデルと理論的基盤、評価設計の考え方）に基づく。各モデルの手順の細部は本文の範囲のため含めていない。Kirkpatrick の4段階そのものは ME-054 で扱う。
+- 出典：Frye AW, Hemmer PA. Program evaluation models and related theories: AMEE Guide No. 67. Med Teach. 2012;34(5):e288-99　[DOI 10.3109/0142159X.2012.668637](https://doi.org/10.3109/0142159X.2012.668637)　[PMID 22515309](https://pubmed.ncbi.nlm.nih.gov/22515309/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-061&card_id=ME-061&version=4a2a43a2bb)　（版 `4a2a43a2bb`）
+
+**[ここまでの 9 件（ME-017〜ME-061）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-017%E3%80%9CME-061&cards=ME-017%20e730d45305%0AME-054%206f01b4a478%0AME-055%205af1931ed5%0AME-056%20ffa454da37%0AME-057%20d10c3b4979%0AME-058%202a671522f2%0AME-059%20b253a4dfbd%0AME-060%20bf94b0e9c4%0AME-061%204a2a43a2bb)**
 
 ---
 
