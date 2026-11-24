@@ -146,3 +146,4 @@
 - 2026-11-24：ME 第4弾（医師以外の職種の養成制度）の分割案の依頼文 docs/tasks/request_ME_split_other_professions.md（ME-072〜、SRC-5400〜5499）と、自由な出典の分野ごとの再調査 第1回（OS・SD・ST・PG、182枚）の依頼文 docs/tasks/free_sources_area_survey_01.md を作成。三原の指示「監修は動画作成時点で行います。2,3に進みます」による。
 - 2026-11-24：ME 第4弾（他職種）の分割案（モコ、31件）を proposals/medical_education/ に保存し、検討メモ review_other_professions_20261124.md を作成。末尾約1,100字が欠けており再送が必要。
 - 2026-11-24：三原の決定（第1陣12件、他職種を拡大、ME-001・002 に注記）を受け、依頼文 round_ME5_request.md と spec roundME5.yaml を作成。
+- 2026-11-24：ME 第4弾の追加候補10件（O-7〜16）と再送分（補作）を受領し、検討メモ §7 に記録。残り29件の扱いは三原の判断待ち。
