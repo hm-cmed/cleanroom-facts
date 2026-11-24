@@ -1,6 +1,6 @@
 # RO 気道・閉塞性肺疾患（COPD・喘息） の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 44 件のうち、監修済み 0 件。
 
@@ -319,7 +319,7 @@
 - 条件：guideline: ERS Clinical Practice Guideline for the Management of Adult Bronchiectasis 2025／region: 欧州
 - よくある誤解：気管支拡張症には吸入ステロイドを一律に使う
 - 不確実性：紹介ページで確認した推奨で、本文は未確認。DPP-1 阻害薬（ブレンソカチブ）の扱いと日本での承認状況は確認していない
-- 出典：Chalmers JD, Haworth CS, Flume P, et al. European Respiratory Society Clinical Practice Guideline for the Management of Adult Bronchiectasis (2025)　[DOI 10.1183/13993003.01126-2025](https://doi.org/10.1183/13993003.01126-2025)（区分 UNKNOWN）
+- 出典：Chalmers JD, Haworth CS, Flume P, et al. European Respiratory Society Clinical Practice Guideline for the Management of Adult Bronchiectasis (2025)　[DOI 10.1183/13993003.01126-2025](https://doi.org/10.1183/13993003.01126-2025)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-2-A-①（気管支拡張症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-234 (id: Jlvnl0U)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-028&card_id=RO-028&version=bb82c4d2ed)　（版 `bb82c4d2ed`）
 
@@ -329,7 +329,7 @@
 
 - 条件：region: 欧州／対象: 成人
 - 不確実性：定義・原因・診断に絞り、治療の推奨は既存の RO-028 が担う。内容は ERJ のガイドライン本文ページと学会の臨床サマリーで確認した。特発性の症例が占める割合などの数値は二次的な解説で見られたものであるため、主張に含めていない。出典のライセンス表示は既存登録（SRC-378）のとおり未確認である
-- 出典：Chalmers JD, Haworth CS, Flume P, et al. European Respiratory Society Clinical Practice Guideline for the Management of Adult Bronchiectasis (2025)　[DOI 10.1183/13993003.01126-2025](https://doi.org/10.1183/13993003.01126-2025)（区分 UNKNOWN）
+- 出典：Chalmers JD, Haworth CS, Flume P, et al. European Respiratory Society Clinical Practice Guideline for the Management of Adult Bronchiectasis (2025)　[DOI 10.1183/13993003.01126-2025](https://doi.org/10.1183/13993003.01126-2025)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-2-A-①（気管支拡張症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-234 (id: Jlvnl0U)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-042&card_id=RO-042&version=ad2ccb6bc6)　（版 `ad2ccb6bc6`）
 

@@ -1,6 +1,6 @@
 # EP 発作性・機能性・自律神経系疾患、小児のけいれん性疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 45 件のうち、監修済み 0 件。
 
@@ -12,7 +12,7 @@
 
 - 条件：population: てんかん患者（発作型の分類）／region: 国際
 - 不確実性：本分類は操作的（実務的）分類であり、科学的根拠に基づく分類体系が確立していないため 1981 年分類を拡張したものと位置づけられている。
-- 出典：Fisher RS, Cross JH, French JA, et al. Operational classification of seizure types by the International League Against Epilepsy: Position Paper of the ILAE Commission for Classification and Terminology. Epilepsia. 2017;58(4):522-530　[DOI 10.1111/epi.13670](https://doi.org/10.1111/epi.13670)　[PMID 28276060](https://pubmed.ncbi.nlm.nih.gov/28276060/)（区分 UNKNOWN）
+- 出典：Fisher RS, Cross JH, French JA, et al. Operational classification of seizure types by the International League Against Epilepsy: Position Paper of the ILAE Commission for Classification and Terminology. Epilepsia. 2017;58(4):522-530　[DOI 10.1111/epi.13670](https://doi.org/10.1111/epi.13670)　[PMID 28276060](https://pubmed.ncbi.nlm.nih.gov/28276060/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-6-A-①（強直間代発作<全般運動発作>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-053 (id: Jlvnleo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-001&card_id=EP-001&version=7a2e15e019)　（版 `7a2e15e019`）
 
@@ -92,7 +92,7 @@
 
 - 条件：population: 焦点発作のあるてんかん患者／region: 国際
 - 不確実性：同分類では「二次性全般化発作」の用語も廃止され「焦点両側強直間代発作」に置き換えられた。自動症は焦点発作の発作型の一つとして新たに明示されている。
-- 出典：Fisher RS, Cross JH, French JA, et al. Operational classification of seizure types by the International League Against Epilepsy: Position Paper of the ILAE Commission for Classification and Terminology. Epilepsia. 2017;58(4):522-530　[DOI 10.1111/epi.13670](https://doi.org/10.1111/epi.13670)　[PMID 28276060](https://pubmed.ncbi.nlm.nih.gov/28276060/)（区分 UNKNOWN）
+- 出典：Fisher RS, Cross JH, French JA, et al. Operational classification of seizure types by the International League Against Epilepsy: Position Paper of the ILAE Commission for Classification and Terminology. Epilepsia. 2017;58(4):522-530　[DOI 10.1111/epi.13670](https://doi.org/10.1111/epi.13670)　[PMID 28276060](https://pubmed.ncbi.nlm.nih.gov/28276060/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-6-B-①（単純部分発作<焦点意識保持発作>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-054 (id: Jlvnles)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-009&card_id=EP-009&version=db250c13b2)　（版 `db250c13b2`）
 
@@ -306,7 +306,7 @@
 
 - 条件：population: Lennox-Gastaut症候群の患者／region: 国際
 - 不確実性：ILAE の 2022 年症候群分類では Lennox-Gastaut 症候群は発達性・てんかん性脳症に分類される（SRC-1717）。知的発達障害を伴うことが多い点も同分類に記される。
-- 出典：Glauser T, Kluger G, Sachdeo R, Krauss G, Perdomo C, Arroyo S. Rufinamide for generalized seizures associated with Lennox-Gastaut syndrome. Neurology. 2008;70(21):1950-1958　[DOI 10.1212/01.wnl.0000303813.95800.0d](https://doi.org/10.1212/01.wnl.0000303813.95800.0d)　[PMID 18401024](https://pubmed.ncbi.nlm.nih.gov/18401024/)（区分 UNKNOWN）
+- 出典：Glauser T, Kluger G, Sachdeo R, Krauss G, Perdomo C, Arroyo S. Rufinamide for generalized seizures associated with Lennox-Gastaut syndrome. Neurology. 2008;70(21):1950-1958　[DOI 10.1212/01.wnl.0000303813.95800.0d](https://doi.org/10.1212/01.wnl.0000303813.95800.0d)　[PMID 18401024](https://pubmed.ncbi.nlm.nih.gov/18401024/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-11-C-⑥（Lennox-Gastaut症候群、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-053 (id: Jlvnleo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-025&card_id=EP-025&version=aa25b0e4cf)　（版 `aa25b0e4cf`）
 
@@ -316,7 +316,7 @@
 
 - 条件：population: Lennox-Gastaut症候群の患者（4〜30 歳）／region: 国際
 - 不確実性：ルフィナミドは国内で 2013 年に承認されており（イノベロン錠）、他の抗てんかん薬で十分な効果が認められない Lennox-Gastaut 症候群における強直発作・脱力発作に対する併用療法として保険適用の範囲内である。主な有害事象は傾眠と嘔吐であった。
-- 出典：Glauser T, Kluger G, Sachdeo R, Krauss G, Perdomo C, Arroyo S. Rufinamide for generalized seizures associated with Lennox-Gastaut syndrome. Neurology. 2008;70(21):1950-1958　[DOI 10.1212/01.wnl.0000303813.95800.0d](https://doi.org/10.1212/01.wnl.0000303813.95800.0d)　[PMID 18401024](https://pubmed.ncbi.nlm.nih.gov/18401024/)（区分 UNKNOWN）
+- 出典：Glauser T, Kluger G, Sachdeo R, Krauss G, Perdomo C, Arroyo S. Rufinamide for generalized seizures associated with Lennox-Gastaut syndrome. Neurology. 2008;70(21):1950-1958　[DOI 10.1212/01.wnl.0000303813.95800.0d](https://doi.org/10.1212/01.wnl.0000303813.95800.0d)　[PMID 18401024](https://pubmed.ncbi.nlm.nih.gov/18401024/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-11-C-⑥（Lennox-Gastaut症候群、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-053 (id: Jlvnleo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-026&card_id=EP-026&version=4e7e9505b5)　（版 `4e7e9505b5`）
 

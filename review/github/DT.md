@@ -1,6 +1,6 @@
 # DT 腫瘍・母斑性皮膚疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 38 件のうち、監修済み 0 件。
 
@@ -76,7 +76,7 @@
 
 - 条件：region: 米国／study: 総説（画像診断と治療のレビュー）
 - 不確実性：記載は抄録で確認した範囲である。硬化療法などの個別の治療手技の適応・成績は本文に記載があるが、本カードでは確認した範囲を超えるため含めていない。出典のライセンス表示は確認できなかった（PMC・Crossref で CC の表示なし）。
-- 出典：Behravesh S, Yakes W, Gupta N, et al. Venous malformations: clinical diagnosis and treatment. Cardiovasc Diagn Ther. 2016;6(6):557-569.　[DOI 10.21037/cdt.2016.11.10](https://doi.org/10.21037/cdt.2016.11.10)　[PMID 28123976](https://pubmed.ncbi.nlm.nih.gov/28123976/)（区分 UNKNOWN）
+- 出典：Behravesh S, Yakes W, Gupta N, et al. Venous malformations: clinical diagnosis and treatment. Cardiovasc Diagn Ther. 2016;6(6):557-569.　[DOI 10.21037/cdt.2016.11.10](https://doi.org/10.21037/cdt.2016.11.10)　[PMID 28123976](https://pubmed.ncbi.nlm.nih.gov/28123976/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-C-④（静脈奇形<海綿状血管腫>、c）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-008&card_id=DT-008&version=ce43eeff0a)　（版 `ce43eeff0a`）
 

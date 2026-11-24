@@ -1,6 +1,6 @@
 # OR 咽頭・口腔・唾液腺・頸部の疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 44 件のうち、監修済み 0 件。
 
@@ -288,7 +288,7 @@
 
 - 条件：region: 国際／対象: 頭頸部扁平上皮癌の総説（2020年）
 - 不確実性：頭頸部扁平上皮癌全体を対象とする総説に基づいており、中咽頭癌に特化した生存率などの数値は出典の抄録に記載がないため含めていない。薬剤名は含まない。
-- 出典：Johnson DE, Burtness B, Leemans CR, Lui VWY, Bauman JE, Grandis JR. Head and neck squamous cell carcinoma. Nat Rev Dis Primers. 2020;6(1):92.　[DOI 10.1038/s41572-020-00224-3](https://doi.org/10.1038/s41572-020-00224-3)　[PMID 33243986](https://pubmed.ncbi.nlm.nih.gov/33243986/)（区分 UNKNOWN）
+- 出典：Johnson DE, Burtness B, Leemans CR, Lui VWY, Bauman JE, Grandis JR. Head and neck squamous cell carcinoma. Nat Rev Dis Primers. 2020;6(1):92.　[DOI 10.1038/s41572-020-00224-3](https://doi.org/10.1038/s41572-020-00224-3)　[PMID 33243986](https://pubmed.ncbi.nlm.nih.gov/33243986/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-C-⑨（中咽頭癌、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-675 (id: JlvnmfI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-020&card_id=OR-020&version=238a7cd6a5)　（版 `238a7cd6a5`）
 
@@ -298,7 +298,7 @@
 
 - 条件：region: 国際／対象: 頭頸部扁平上皮癌の総説（2020年）
 - 不確実性：下咽頭癌に特化した疫学や予後の数値は出典（頭頸部扁平上皮癌全体の総説）の抄録に記載がないため含めていない。
-- 出典：Johnson DE, Burtness B, Leemans CR, Lui VWY, Bauman JE, Grandis JR. Head and neck squamous cell carcinoma. Nat Rev Dis Primers. 2020;6(1):92.　[DOI 10.1038/s41572-020-00224-3](https://doi.org/10.1038/s41572-020-00224-3)　[PMID 33243986](https://pubmed.ncbi.nlm.nih.gov/33243986/)（区分 UNKNOWN）
+- 出典：Johnson DE, Burtness B, Leemans CR, Lui VWY, Bauman JE, Grandis JR. Head and neck squamous cell carcinoma. Nat Rev Dis Primers. 2020;6(1):92.　[DOI 10.1038/s41572-020-00224-3](https://doi.org/10.1038/s41572-020-00224-3)　[PMID 33243986](https://pubmed.ncbi.nlm.nih.gov/33243986/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-C-⑩（下咽頭癌、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-675 (id: JlvnmfI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-021&card_id=OR-021&version=19ae09a81b)　（版 `19ae09a81b`）
 
@@ -330,7 +330,7 @@
 
 - 条件：region: 米国／study: 迅速エビデンスレビュー（総説）
 - 不確実性：米国の一次診療向け総説に基づく記載で、割合は同総説の記載による。唾液うっ滞に関連する薬剤の国内承認・保険適用は未確認。
-- 出典：Kim MJ, Milliren A, Gerold DJ Jr. Salivary Gland Disorders: Rapid Evidence Review. American Family Physician. 2024;109(6):550-559.　[PMID 38905553](https://pubmed.ncbi.nlm.nih.gov/38905553/)（区分 UNKNOWN）
+- 出典：Kim MJ, Milliren A, Gerold DJ Jr. Salivary Gland Disorders: Rapid Evidence Review. American Family Physician. 2024;109(6):550-559.　[PMID 38905553](https://pubmed.ncbi.nlm.nih.gov/38905553/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-D-①（唾石症、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-526 (id: JlvnmRo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-024&card_id=OR-024&version=bc454763d8)　（版 `bc454763d8`）
 
@@ -340,7 +340,7 @@
 
 - 条件：region: 米国／study: 迅速エビデンスレビュー（総説）
 - 不確実性：米国の一次診療向け総説に基づく。本カードには個別の抗菌薬名を含めておらず、唾液腺炎に用いられる抗菌薬の国内承認・保険適用は未確認。
-- 出典：Kim MJ, Milliren A, Gerold DJ Jr. Salivary Gland Disorders: Rapid Evidence Review. American Family Physician. 2024;109(6):550-559.　[PMID 38905553](https://pubmed.ncbi.nlm.nih.gov/38905553/)（区分 UNKNOWN）
+- 出典：Kim MJ, Milliren A, Gerold DJ Jr. Salivary Gland Disorders: Rapid Evidence Review. American Family Physician. 2024;109(6):550-559.　[PMID 38905553](https://pubmed.ncbi.nlm.nih.gov/38905553/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-D-②（唾液腺炎、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-025&card_id=OR-025&version=34a503a78c)　（版 `34a503a78c`）
 

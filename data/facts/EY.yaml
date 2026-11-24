@@ -1201,7 +1201,7 @@
     url: null
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 活動性スコアの個別項目は抄録で確認できなかったため記載していない。眼症の治療そのものはTH-017を正とし、本カードでは評価と紹介の側面に限った。
   curriculum:
@@ -1217,6 +1217,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-914 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: EY-036
   domain: EY
   subdomain: 眼窩偽腫瘍（特発性眼窩炎症）

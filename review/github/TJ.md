@@ -1,6 +1,6 @@
 # TJ 神経・運動器の外傷 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 79 件のうち、監修済み 0 件。
 
@@ -110,7 +110,7 @@
 
 - 条件：region: 国際／対象: 重症頭部外傷の患者
 - 不確実性：頻度（重症頭部外傷の約半数）と意識障害・植物状態との関係は同論文の抄録で確認した。回転加速度による剪断という機序は同論文を含む総説的記述の一般的な説明であり、数値は扱っていない。（出典内の位置：抄録）
-- 出典：Ravikanth R, Majumdar P. Prognostic Significance of Magnetic Resonance Imaging in Detecting Diffuse Axonal Injuries: Analysis of Outcomes and Review of Literature. Neurol India. 2022;70(6):2371-2377　[DOI 10.4103/0028-3886.364066](https://doi.org/10.4103/0028-3886.364066)　[PMID 36537418](https://pubmed.ncbi.nlm.nih.gov/36537418/)（区分 UNKNOWN）
+- 出典：Ravikanth R, Majumdar P. Prognostic Significance of Magnetic Resonance Imaging in Detecting Diffuse Axonal Injuries: Analysis of Outcomes and Review of Literature. Neurol India. 2022;70(6):2371-2377　[DOI 10.4103/0028-3886.364066](https://doi.org/10.4103/0028-3886.364066)　[PMID 36537418](https://pubmed.ncbi.nlm.nih.gov/36537418/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-10-A-③（びまん性軸索損傷、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-010&card_id=TJ-010&version=688706d0e1)　（版 `688706d0e1`）
 
@@ -120,7 +120,7 @@
 
 - 条件：region: 国際／対象: びまん性軸索損傷の患者
 - 不確実性：インドの単一施設の前向き研究（重症頭部外傷52例）の結果であり、死亡率の数値は同コホート限りのものである。（出典内の位置：抄録）
-- 出典：Ravikanth R, Majumdar P. Prognostic Significance of Magnetic Resonance Imaging in Detecting Diffuse Axonal Injuries: Analysis of Outcomes and Review of Literature. Neurol India. 2022;70(6):2371-2377　[DOI 10.4103/0028-3886.364066](https://doi.org/10.4103/0028-3886.364066)　[PMID 36537418](https://pubmed.ncbi.nlm.nih.gov/36537418/)（区分 UNKNOWN）
+- 出典：Ravikanth R, Majumdar P. Prognostic Significance of Magnetic Resonance Imaging in Detecting Diffuse Axonal Injuries: Analysis of Outcomes and Review of Literature. Neurol India. 2022;70(6):2371-2377　[DOI 10.4103/0028-3886.364066](https://doi.org/10.4103/0028-3886.364066)　[PMID 36537418](https://pubmed.ncbi.nlm.nih.gov/36537418/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-10-A-③（びまん性軸索損傷、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-011&card_id=TJ-011&version=abec7d50e7)　（版 `abec7d50e7`）
 

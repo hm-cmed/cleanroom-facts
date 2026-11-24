@@ -1018,7 +1018,7 @@
     url: https://doi.org/10.1002/14651858.CD007759.pub4
     source_license: Wiley（テキストマイニング用ライセンスのみ、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 収載試験の対象は全例7歳未満で、好発年齢の細かな内訳（1〜4歳に集中すること）は本レビューの抄録では数値として示されていない
   curriculum:
@@ -1034,6 +1034,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1875 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: OS-030
   domain: OS
   subdomain: 肘内障
@@ -1053,7 +1056,7 @@
     url: https://doi.org/10.1002/14651858.CD007759.pub4
     source_license: Wiley（テキストマイニング用ライセンスのみ、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: エビデンスの質は低い（low-quality）と評価されている。整復後の予後（再発率など）は本レビューでは結論が得られていない
   curriculum:
@@ -1069,6 +1072,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1875 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: OS-031
   domain: OS
   subdomain: 変形性股関節症
@@ -1158,7 +1164,7 @@
     url: https://doi.org/10.1007/s00264-023-06077-1
     source_license: Springer（テキストマイニング用ライセンスのみ、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 専門家の Delphi 合意に基づく所見であり、各テストの感度・特異度の数値は示されていない。Allis（Galeazzi）徴候は本抄録の合意事項に含まれていない。Graf 法の型分類の詳細は、IIa の一部と IIb 以上が装具治療の対象となる点のみ本抄録で言及されている
   curriculum:
@@ -1174,6 +1180,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1878 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: OS-034
   domain: OS
   subdomain: 発育性股関節形成不全
@@ -1193,7 +1202,7 @@
     url: https://doi.org/10.1007/s00264-023-06077-1
     source_license: Springer（テキストマイニング用ライセンスのみ、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 専門家の Delphi 合意であり、装具治療の成功率の数値は示されていない。装具治療に関するランダム化比較試験のエビデンスは乏しいことが別途システマティックレビューで指摘されている
   curriculum:
@@ -1209,6 +1218,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1878 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: OS-035
   domain: OS
   subdomain: 大腿骨頭すべり症

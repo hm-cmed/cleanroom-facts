@@ -1,6 +1,6 @@
 # NG 神経消化器病 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 240 件のうち、監修済み 0 件。
 
@@ -1459,7 +1459,7 @@
 - 鑑別・補足：Rome IVの機能性食道疾患（NG-058〜063）、EndoFLIP（NG-109）
 - よくある誤解：機能性食道疾患は症状だけで診断できる
 - 不確実性：総説の抄録による（二次資料経由）。内容は食道の章（NG-186）で確認済み。本カードは corroboration として扱う
-- 出典：Maev IV, et al. Rome V Criteria (2026): Continuity, innovations and major updates. Meditsinskiy sovet 2026;(8):8-21　[DOI 10.21518/ms2026-232](https://doi.org/10.21518/ms2026-232)（区分 UNKNOWN）
+- 出典：Maev IV, et al. Rome V Criteria (2026): Continuity, innovations and major updates. Meditsinskiy sovet 2026;(8):8-21　[DOI 10.21518/ms2026-232](https://doi.org/10.21518/ms2026-232)（区分 OPEN）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-02-07-025 (id: JlAKpkw)；TBL-02-07-004 (id: JlAKpjc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-124&card_id=NG-124&version=f16247b210)　（版 `f16247b210`）
 

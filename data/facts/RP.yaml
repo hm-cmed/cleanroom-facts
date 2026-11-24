@@ -207,7 +207,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/29489290/
     source_license: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 評価開始年齢の基準は米国の教科書的基準であり、日本の診療指針における基準との一致は本調査では未確認である。StatPearlsの章にはDOIの記載がないためDOIはnullとした。
   curriculum:
@@ -226,6 +226,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した RP-065 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-816 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: RP-007
   domain: RP
   subdomain: 続発性無月経
@@ -245,7 +248,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/29489290/
     source_license: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 無月経の期間の定義は出典（米国の教科書）のものであり、日本の定義との細部の一致は未確認である。各原因の頻度の順位は集団によって異なる可能性がある。StatPearlsの章にはDOIの記載がないためDOIはnullとした。
   curriculum:
@@ -264,6 +267,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した RP-066 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-816 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: RP-008
   domain: RP
   subdomain: 月経周期異常（頻発・希発月経）
@@ -686,7 +692,7 @@
     url: https://doi.org/10.1210/jc.2017-00131
     source_license: Endocrine Societyのガイドライン。CC表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は機能性視床下部性無月経に特化したガイドラインであり、初期検査の項目立てはその文脈に基づく。月経異常全般に対する日本の検査指針との対応は未確認である。各ホルモンの基準値や測定のタイミング（周期何日目か）の詳細は主張に含めていない。AMHなどの検査の日本での保険適用の状況は未確認である。
   curriculum:
@@ -705,6 +711,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅷ-8-A-①（視床下部性無月経、a）；医学各論 Ⅷ-8-A-②（下垂体性無月経、b）；医学各論 Ⅷ-8-A-③（卵巣性無月経、b）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-817 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: RP-020
   domain: RP
   subdomain: 卵巣の構造と加齢変化（基礎）
@@ -762,7 +771,7 @@
     url: https://doi.org/10.1093/humupd/dmw025
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本出典は PCOS による無排卵を中心に扱っており、視床下部性や高プロラクチン血症など他の排卵障害の分類の詳細は本文で確認していないため、主張は PCOS 中心の範囲に限った。排卵誘発薬の国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】2022年4月から一般不妊治療・生殖補助医療が保険適用となり、排卵誘発薬（クロミフェンクエン酸塩は公知申請で「生殖補助医療における調節卵巣刺激」を追加、HMG・FSH製剤等）も薬事承認の範囲で保険適用となった（こども家庭庁・厚労省資料、日本生殖医学会の保険適用情報）。
   curriculum:
@@ -781,6 +790,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-838 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: RP-022
   domain: RP
   subdomain: 多嚢胞性卵巣症候群
@@ -990,7 +1002,7 @@
     url: https://doi.org/10.1093/humupd/dmw025
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本出典は PCOS に伴う卵胞発育障害が中心であり、早発卵巣不全や視床下部性の卵胞発育障害は対象外である。排卵誘発薬やゴナドトロピン製剤の国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】排卵誘発薬・ゴナドトロピン製剤は承認・保険適用あり。hCG製剤等の効能に無排卵症・一般不妊治療における排卵誘発が含まれ、不妊治療の保険適用拡大（2022年4月1日）で生殖補助医療の適応も追加された（PMDA審査報告書・厚生労働省通知、2026-10-31確認）
   curriculum:
@@ -1009,6 +1021,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-838 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: RP-028
   domain: RP
   subdomain: 子宮内膜因子
@@ -1519,7 +1534,7 @@
     url: https://doi.org/10.1016/j.contraception.2011.01.021
     source_license: 出版社ページ・Crossref に CC ライセンスの表示なし（PMC 収載は著者原稿）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 方法ごとの個別の妊娠率の数値は抄録に含まれず、本文の表を確認していないため主張文には入れていない。推計は米国のデータに基づき、日本の使用実態とは異なる可能性がある。
   curriculum:
@@ -1535,6 +1550,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-841 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: RP-042
   domain: RP
   subdomain: 経口避妊薬
@@ -1659,7 +1677,7 @@
     url: https://doi.org/10.1016/j.contraception.2011.01.021
     source_license: 出版社ページ・Crossref に CC ライセンスの表示なし（PMC 収載は著者原稿）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ9 2026-11-11）：CDC「About Contraception」（米国疾病予防管理センター）（https://www.cdc.gov/contraception/about/index.html）。裏づける部分：バリア法と妊孕性認識法（自然法）は使用のたびの正しい実践が必要で、方法ごとに典型使用での失敗が大きく異なることがCDCの避妊法別有効性の表示で裏づけられ、卵管手術と精管切除は「永久的（permanent）」な方法として区分されている。数値の照合：CDC表示の典型使用の失敗率（例：男性コンドーム約13/100人、妊孕性認識法2〜23/100人）は、主張の定性的な内容（完全使用と典型使用の差が大きい方法群）と矛盾しない
   uncertainty: 方法ごとの個別の妊娠率の数値は抄録に含まれず本文の表を確認していないため、主張文には定性的な表現にとどめた。外科的避妊の再疎通の可否や日本での実施状況は本出典では確認していない。
   curriculum:
@@ -1678,6 +1696,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ9 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-841 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: RP-046
   domain: RP
   subdomain: 閉経の定義
@@ -1817,7 +1838,7 @@
     url: https://doi.org/10.1097/GME.0000000000002028
     source_license: 学会誌掲載で CC ライセンスの表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 個別の製剤の用量や投与レジメンの詳細は抄録になく、主張文には入れていない。日本で使用できるエストロゲン・黄体ホルモン製剤の種類と、それぞれの国内承認・保険適用の状況は本出典では確認しておらず未確認である。
   curriculum:
@@ -1833,6 +1854,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-847 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: RP-050
   domain: RP
   subdomain: ホルモン補充療法のリスクとベネフィット
@@ -1887,7 +1911,7 @@
     url: https://doi.org/10.1210/jc.2019-00221
     source_license: 学会ガイドラインで CC ライセンスの表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 骨密度の T スコアによる診断閾値などの個別の数値基準は抄録に含まれず本文で確認していないため、主張文には入れていない。日本骨粗鬆症学会の診断基準（脆弱性骨折の有無と骨密度による判定）は本出典とは別体系であり、未確認である。
   curriculum:
@@ -1903,6 +1927,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-849 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: RP-052
   domain: RP
   subdomain: 閉経後骨粗鬆症の治療
@@ -1922,7 +1949,7 @@
     url: https://doi.org/10.1210/jc.2019-00221
     source_license: 学会ガイドラインで CC ライセンスの表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 個別の薬剤（ビスホスホネート、デノスマブ、ロモソズマブなど）の推奨順位や骨折抑制効果の数値は抄録になく、主張文には入れていない。各薬剤の日本における承認・保険適用の状況は本出典では確認しておらず未確認である。
   curriculum:
@@ -1938,6 +1965,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-849 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: RP-054
   domain: RP
   subdomain: 閉経後泌尿生殖器症候群
@@ -1992,7 +2022,7 @@
     url: https://doi.org/10.1097/GME.0000000000002028
     source_license: 学会誌掲載で CC ライセンスの表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 脂質プロファイル（LDL コレステロールや中性脂肪）の個別の変化量は本出典の抄録になく、主張文には入れていない。心血管リスクに関する個別の推奨（スタチン等の使用）は扱っておらず、各薬剤の国内承認・保険適用も未確認である。
   curriculum:
@@ -2008,6 +2038,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/19_ku_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-847 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: RP-056
   domain: RP
   subdomain: 閉経移行期のうつ病
@@ -2313,7 +2346,7 @@
     url: https://www.aafp.org/pubs/afp/issues/2013/0601/p781.html
     source_license: ライセンス表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 評価開始の目安のうち「乳房発育の開始から5年」は、本出典（2013年）の本文の記載による。元のカードの「3年」は本出典では確認できなかったため、出典の記載どおり5年とした。評価時期の基準は、資料の発行年や発行団体により異なる可能性がある。Am Fam Physician はDOIを付与していないためDOIはnullとした。
   curriculum:
@@ -2332,6 +2365,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅷ-8-A-③（卵巣性無月経、b）；医学各論 Ⅷ-8-A-④（子宮性無月経、b）；医学各論 Ⅰ-4-A-②（Turner症候群、b）；医学各論 Ⅰ-4-B-①（腟欠損症、Mayer-Rokitansky-Küster-Hauser<MRKH>症候群、b）。作り手の区分B、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1545 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: RP-066
   domain: RP
   subdomain: 続発性無月経
@@ -2351,7 +2387,7 @@
     url: https://www.aafp.org/pubs/afp/issues/2013/0601/p781.html
     source_license: ライセンス表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 定義と初期検査の内容は本出典（米国の総説）によるものであり、日本の診療での実施状況との細部の一致は未確認である。Am Fam Physician はDOIを付与していないためDOIはnullとした。
   curriculum:
@@ -2367,6 +2403,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1545 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: RP-067
   domain: RP
   subdomain: 排卵痛・排卵期出血
@@ -2421,7 +2460,7 @@
     url: https://doi.org/10.1210/jc.2017-00131
     source_license: Endocrine Societyのガイドライン。CC表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 薬剤（経皮エストラジオール、経口プロゲスチン、経口避妊薬）を含むカードである。エストラジオール製剤は国内で承認されているが、機能性視床下部性無月経を効能・効果とする製剤はなく、本ガイドラインに基づく経皮エストラジオールの使用は適応外となる。無月経の診断・初期検査（ホルモン検査と解釈）の側面は、同じ出典に基づく既存の RP-019 が担っているため、本カードは原因・骨への影響・管理に絞った。出典内の位置：抄録（Conclusions）と、骨密度評価および治療（エネルギー不足の是正、心理的支援、経口避妊薬・骨作用薬・経皮エストラジオール）に関する推奨。治療推奨の細部はガイドラインの推奨要約で確認した範囲である。
   curriculum:
@@ -2437,6 +2476,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/64_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-817 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: RP-069
   domain: RP
   subdomain: 過多月経

@@ -17,7 +17,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/32644429/
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は表皮母斑症候群を主題とする章で、分類と種類はその抄録で確認した範囲である。色素性母斑（メラノサイト性母斑）の詳細は本出典の範囲外であり、本カードでは母斑のうち表皮・付属器系のものを中心に記載した。出典のライセンス表示は確認できなかった。
   curriculum:
@@ -36,6 +36,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した DT-037 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1096 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: DT-002
   domain: DT
   subdomain: 色素性母斑と太田母斑
@@ -55,7 +58,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/32809409/
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は太田母斑・伊東母斑を主題とする章で、記載は太田母斑を中心とした。色素性母斑そのもの（後天性・先天性のメラノサイト母斑）の分類や悪性化の数値は本出典の範囲外であり、本カードには含めていない。ダーモスコピーの所見は本出典で確認できなかったため記載していない。出典のライセンス表示は確認できなかった。
   curriculum:
@@ -74,6 +77,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した DT-038 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1097 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: DT-003
   domain: DT
   subdomain: 神経線維腫症1型
@@ -163,7 +169,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/30085595/
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ20 2026-11-11）：Ji Y, Chen S, Yang K, et al. Kaposiform hemangioendothelioma: current knowledge and future perspectives. Orphanet J Rare Dis. 2020（CC BY、DOI 10.1186/s13023-020-1320-1、PMID 32014025、PMC6998257）：KMP の定義（重度の血小板減少・消費性凝固障害・低フィブリノゲン血症）、関連腫瘍は KHE と房状血管腫で背景病変は乳児血管腫ではないこと、支持療法を要すること。微小血管症性溶血性貧血は対象外'
   uncertainty: 記載は抄録で確認した範囲である。個別の治療薬（シロリムス等）の適応や用量、凝固検査値の具体的な基準は抄録の範囲外であり、本カードには薬剤名を含めていない。出典のライセンス表示は確認できなかった。
   curriculum:
@@ -185,6 +191,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ20 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1100 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: DT-006
   domain: DT
   subdomain: 毛細血管奇形<単純性血管腫>
@@ -277,7 +286,7 @@
     url: https://doi.org/10.21037/cdt.2016.11.10
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 記載は抄録で確認した範囲である。硬化療法などの個別の治療手技の適応・成績は本文に記載があるが、本カードでは確認した範囲を超えるため含めていない。出典のライセンス表示は確認できなかった（PMC・Crossref で CC の表示なし）。
   curriculum:
@@ -293,6 +302,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1103 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: DT-009
   domain: DT
   subdomain: 乳児血管腫の治療

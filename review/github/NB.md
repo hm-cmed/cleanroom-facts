@@ -1,6 +1,6 @@
 # NB 新生児の異常 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 31 件のうち、監修済み 0 件。
 
@@ -186,7 +186,7 @@
 
 - 条件：region: 米国／対象: 在胎35週以上の新生児
 - 不確実性：閾値曲線の個別の数値はガイドラインの図に基づくため、実際の適用値は図または2022年版の計算ツールで照合する必要がある。日本の基準は NB-015（早産児）と国内の各基準が別にあり、本カードは米国の枠組みである
-- 出典：Kemper AR, Newman TB, Slaughter JL, et al. Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation. Pediatrics. 2022;150(3):e2022058859　[DOI 10.1542/peds.2022-058859](https://doi.org/10.1542/peds.2022-058859)　[PMID 35927462](https://pubmed.ncbi.nlm.nih.gov/35927462/)（区分 UNKNOWN）
+- 出典：Kemper AR, Newman TB, Slaughter JL, et al. Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation. Pediatrics. 2022;150(3):e2022058859　[DOI 10.1542/peds.2022-058859](https://doi.org/10.1542/peds.2022-058859)　[PMID 35927462](https://pubmed.ncbi.nlm.nih.gov/35927462/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-3-E-①（高ビリルビン血症、a）　コアカリ：PS-02-12-01 (id: Jli53Ic)；PS-02-12-03 (id: Jli53IQ)；TBL-01-00-444 (id: JlvnmJY)；TBL-02-11-014 (id: Jli6JnA)；PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-013&card_id=NB-013&version=bad8844534)　（版 `bad8844534`）
 
@@ -196,7 +196,7 @@
 
 - 条件：region: 米国／対象: 在胎35週以上の新生児
 - 不確実性：エスカレーションの具体的な運用（測定間隔、交換輸血の実施体制）は施設の体制に依存する。閾値そのものの個別値はガイドラインの図で照合する必要がある
-- 出典：Kemper AR, Newman TB, Slaughter JL, et al. Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation. Pediatrics. 2022;150(3):e2022058859　[DOI 10.1542/peds.2022-058859](https://doi.org/10.1542/peds.2022-058859)　[PMID 35927462](https://pubmed.ncbi.nlm.nih.gov/35927462/)（区分 UNKNOWN）
+- 出典：Kemper AR, Newman TB, Slaughter JL, et al. Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation. Pediatrics. 2022;150(3):e2022058859　[DOI 10.1542/peds.2022-058859](https://doi.org/10.1542/peds.2022-058859)　[PMID 35927462](https://pubmed.ncbi.nlm.nih.gov/35927462/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-3-E-①（高ビリルビン血症、a）　コアカリ：PS-02-12-01 (id: Jli53Ic)；PS-02-12-03 (id: Jli53IQ)；TBL-01-00-444 (id: JlvnmJY)；TBL-02-11-014 (id: Jli6JnA)；PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-014&card_id=NB-014&version=ad8257fb55)　（版 `ad8257fb55`）
 

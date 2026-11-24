@@ -1,6 +1,6 @@
 # MT 脂質・蛋白・その他の代謝異常 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 36 件のうち、監修済み 0 件。
 
@@ -300,7 +300,7 @@
 
 - 条件：region: 国際／study: 総説（2019年）
 - 不確実性：脚気の臨床像（末梢神経障害・心不全）とWernicke脳症の三徴・頻度は、出典表の確認経路に記した2文献で照合した内容であり、本カードの出典そのものの抄録には含まれていない。チアミン製剤の国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
-- 出典：Chandrakumar A, Bhardwaj A, 't Jong GW. Review of thiamine deficiency disorders: Wernicke encephalopathy and Korsakoff psychosis. J Basic Clin Physiol Pharmacol. 2019;30(2):153-162.　[DOI 10.1515/jbcpp-2018-0075](https://doi.org/10.1515/jbcpp-2018-0075)　[PMID 30281514](https://pubmed.ncbi.nlm.nih.gov/30281514/)（区分 UNKNOWN）
+- 出典：Chandrakumar A, Bhardwaj A, 't Jong GW. Review of thiamine deficiency disorders: Wernicke encephalopathy and Korsakoff psychosis. J Basic Clin Physiol Pharmacol. 2019;30(2):153-162.　[DOI 10.1515/jbcpp-2018-0075](https://doi.org/10.1515/jbcpp-2018-0075)　[PMID 30281514](https://pubmed.ncbi.nlm.nih.gov/30281514/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-9-A-①（ビタミン欠乏症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-020&card_id=MT-020&version=25b5fb76b2)　（版 `25b5fb76b2`）
 

@@ -338,7 +338,7 @@
     url: https://doi.org/10.1007/s40618-015-0391-7
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は総説であり、原因の頻度は地域のヨウ素摂取状況に依存するため、日本における頻度は本カードでは扱っていない。
   curriculum:
@@ -354,6 +354,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-910 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: TH-011
   domain: TH
   subdomain: 腺腫様甲状腺腫
@@ -373,7 +376,7 @@
     url: https://doi.org/10.1007/s40618-015-0391-7
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は総説であり、腺腫様甲状腺腫における悪性の頻度などの数値は抄録に記載がなかったため主張に含めていない。
   curriculum:
@@ -392,6 +395,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: curriculum.core_curriculum の不変 id を訂正（TBL-01-00-668：Jlvnmec→Jlvnmeo。隣の行の id を写した誤りで、コアカリの原データとの照合による機械的な訂正。受け入れ検査 reports/accept_20_en_a.md）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-910 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: TH-012
   domain: TH
   subdomain: 甲状腺良性腫瘍
@@ -411,7 +417,7 @@
     url: https://doi.org/10.1634/theoncologist.2010-0405
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ37 2026-11-11）：NCI PDQ「Thyroid Cancer Treatment」専門家版（GOV_US、新規 SRC 候補、https://www.cancer.gov/types/thyroid/hp/thyroid-treatment-pdq）。裏づける部分と留保：濾胞腺腫と濾胞癌は被膜浸潤・血管浸潤の有無で区別されることは一致。境界型の区分と免疫染色の位置づけは範囲外
   uncertainty: 出典は総説であり、主張は濾胞性腫瘍の診断手順に関する抄録の記載に基づく。分子診断による術前判別の可能性は発展途上の事項として抄録に触れられているが、主張には含めていない。
   curriculum:
@@ -430,6 +436,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-911 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: TH-013
   domain: TH
   subdomain: 甲状腺結節
@@ -449,7 +458,7 @@
     url: https://doi.org/10.1089/thy.2015.0020
     source_license: ライセンス表示を確認できず（PMCで無料公開）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ37 2026-11-11）：NCI PDQ「Thyroid Cancer Treatment」専門家版（GOV_US、新規 SRC 候補、https://www.cancer.gov/types/thyroid/hp/thyroid-treatment-pdq）。裏づける部分と留保：診断評価に頸部超音波と穿刺吸引細胞診を用いることは一致。分子マーカーと超音波パターン別の FNA 閾値は範囲外。ATA 2025年版が刊行
   uncertainty: 本カードは米国甲状腺学会2015年版ガイドラインの抄録に基づく。穿刺吸引細胞診の適応となる結節径や超音波所見の細部は抄録の範囲を超えるため主張に含めていない。
   curriculum:
@@ -471,6 +480,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-912 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: TH-014
   domain: TH
   subdomain: 甲状腺悪性腫瘍
@@ -490,7 +502,7 @@
     url: https://doi.org/10.1089/thy.2015.0020
     source_license: ライセンス表示を確認できず（PMCで無料公開）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ37 2026-11-11）：NCI PDQ「Thyroid Cancer Treatment」専門家版（GOV_US、新規 SRC 候補、https://www.cancer.gov/types/thyroid/hp/thyroid-treatment-pdq）。裏づける部分と留保：全摘後のサイロキシンによる TSH 抑制（程度は再発リスクによる）と、サイログロブリン上昇が再発と強く相関することは一致。リスク別の TSH 目標と放射性ヨウ素の適応区分は範囲外。ATA 2025年版が刊行
   uncertainty: 本カードは2015年版ガイドラインに基づく米国の管理方針であり、日本の診療と異なる場合がある。レボチロキシンは国内で承認・保険適用のある薬剤だが、本作業では添付文書等による一次確認は行っていない。放射性ヨウ素治療の国内実施要件も本作業では確認していない。
   curriculum:
@@ -512,6 +524,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-912 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: TH-015
   domain: TH
   subdomain: 甲状腺悪性腫瘍
@@ -531,7 +546,7 @@
     url: https://doi.org/10.1634/theoncologist.2010-0405
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ37 2026-11-11）：NCI PDQ「Thyroid Cancer Treatment」専門家版（GOV_US、新規 SRC 候補、https://www.cancer.gov/types/thyroid/hp/thyroid-treatment-pdq）。裏づける部分と留保：濾胞癌が血管に浸潤しやすく、リンパ行性より血行性に肺・骨へ転移することは一致。遠隔転移率10%未満と組織型別10年生存率（98%・80%）は載らない
   uncertainty: 転移頻度と10年生存率の数値は出典の抄録に記載された値である。放射性ヨウ素治療と甲状腺ホルモン剤の国内承認・実施要件は、本作業では一次確認を行っていない。
   curriculum:
@@ -553,6 +568,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-911 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: TH-016
   domain: TH
   subdomain: 甲状腺悪性腫瘍
@@ -613,7 +631,7 @@
     url: https://doi.org/10.1530/EJE-21-0479
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ37 2026-11-11）：Burch HB, et al. Management of Thyroid Eye Disease: A Consensus Statement by the ATA and the ETA. Thyroid. 2022（CC BY、PMID 36480280、DOI 10.1089/thy.2022.0251、PMC9807259、新規 SRC 候補）。裏づける部分と留保：静注グルココルチコイドが活動性中等症〜重症の優先治療であること、IVMP の累積 4.5 g（0.5 g/週×6週＋0.25 g/週×6週）、EUGOGO 2021 が IVMP＋ミコフェノール酸を第一選択としたことの記録は一致。コンセンサス自体はそれを一律の第一選択とはしていない。ミコフェノール酸の国内承認は未確認'
   uncertainty: 用量（累積4.5 g、12週）は出典の抄録に記載された欧州ガイドラインの推奨である。メチルプレドニゾロンとミコフェノール酸製剤のBasedow病眼症に対する国内承認・保険適用は、本作業では一次確認を行っていない。
   curriculum:
@@ -632,6 +650,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-914 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: TH-018
   domain: TH
   subdomain: 潜在性甲状腺機能異常

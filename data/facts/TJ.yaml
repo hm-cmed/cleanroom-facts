@@ -350,7 +350,7 @@
     url: https://doi.org/10.4103/0028-3886.364066
     source_license: ライセンス未確認（Neurol India、CC表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 頻度（重症頭部外傷の約半数）と意識障害・植物状態との関係は同論文の抄録で確認した。回転加速度による剪断という機序は同論文を含む総説的記述の一般的な説明であり、数値は扱っていない。（出典内の位置：抄録）
   curriculum:
@@ -366,6 +366,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1929 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: TJ-011
   domain: TJ
   subdomain: びまん性軸索損傷
@@ -385,7 +388,7 @@
     url: https://doi.org/10.4103/0028-3886.364066
     source_license: ライセンス未確認（Neurol India、CC表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: インドの単一施設の前向き研究（重症頭部外傷52例）の結果であり、死亡率の数値は同コホート限りのものである。（出典内の位置：抄録）
   curriculum:
@@ -401,6 +404,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1929 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: TJ-012
   domain: TJ
   subdomain: 急性硬膜外血腫

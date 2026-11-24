@@ -1,6 +1,6 @@
 # EN 間脳・下垂体、副腎、その他の内分泌疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 40 件のうち、監修済み 0 件。
 
@@ -76,7 +76,7 @@
 
 - 条件：region: 米国／study: ガイドライン（Endocrine Society、2014年版）
 - 不確実性：診断の進め方の骨格はガイドラインの推奨に沿ったが、GH の抑制基準などの具体的なカットオフ値は抄録では確認しておらず、本文の数値をそのまま転記はしていない。日本の難病指定における診断基準との差異は未確認である。
-- 出典：Katznelson L, Laws ER Jr, Melmed S, et al. Acromegaly: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2014;99(11):3933-3951.　[DOI 10.1210/jc.2014-2700](https://doi.org/10.1210/jc.2014-2700)　[PMID 25356808](https://pubmed.ncbi.nlm.nih.gov/25356808/)（区分 UNKNOWN）
+- 出典：Katznelson L, Laws ER Jr, Melmed S, et al. Acromegaly: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2014;99(11):3933-3951.　[DOI 10.1210/jc.2014-2700](https://doi.org/10.1210/jc.2014-2700)　[PMID 25356808](https://pubmed.ncbi.nlm.nih.gov/25356808/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-B-①（先端巨大症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-455 (id: JlvnmKI)；TBL-02-13-017 (id: JlAKps8)；TBL-02-13-018 (id: JlAKptA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-005&card_id=EN-005&version=907f320649)　（版 `907f320649`）
 
@@ -86,7 +86,7 @@
 
 - 条件：region: 米国／study: ガイドライン（Endocrine Society、2014年版）
 - 不確実性：治療アルゴリズムの骨格はガイドラインに基づく。ソマトスタチンアナログ、ペグビソマント、カベルゴリンなど個別薬剤の国内承認・保険適用（先端巨大症への適応の有無を含む）は未確認である。各薬剤の有効率などの数値は抄録で確認していないため主張文には入れていない。
-- 出典：Katznelson L, Laws ER Jr, Melmed S, et al. Acromegaly: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2014;99(11):3933-3951.　[DOI 10.1210/jc.2014-2700](https://doi.org/10.1210/jc.2014-2700)　[PMID 25356808](https://pubmed.ncbi.nlm.nih.gov/25356808/)（区分 UNKNOWN）
+- 出典：Katznelson L, Laws ER Jr, Melmed S, et al. Acromegaly: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2014;99(11):3933-3951.　[DOI 10.1210/jc.2014-2700](https://doi.org/10.1210/jc.2014-2700)　[PMID 25356808](https://pubmed.ncbi.nlm.nih.gov/25356808/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-B-①（先端巨大症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-455 (id: JlvnmKI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-006&card_id=EN-006&version=7740382115)　（版 `7740382115`）
 
@@ -196,7 +196,7 @@
 
 - 条件：region: 国際／study: 総説（The Lancet、2016年）
 - 不確実性：原因と評価の進め方は出典の抄録で確認した。各刺激試験の具体的な方法と判定基準は抄録の範囲を超えるため主張文には入れていない。なお、下垂体機能低下症のホルモン補充に関する Endocrine Society ガイドライン（2016年版）は第19回 RP-062 の出典（SRC-857）として登録済みのため、本カードでは重複を避けて別の総説を用いた。
-- 出典：Higham CE, Johannsson G, Shalet SM. Hypopituitarism. The Lancet. 2016;388(10058):2403-2415.　[DOI 10.1016/S0140-6736(16)30053-8](https://doi.org/10.1016/S0140-6736(16)30053-8)　[PMID 27041067](https://pubmed.ncbi.nlm.nih.gov/27041067/)（区分 UNKNOWN）
+- 出典：Higham CE, Johannsson G, Shalet SM. Hypopituitarism. The Lancet. 2016;388(10058):2403-2415.　[DOI 10.1016/S0140-6736(16)30053-8](https://doi.org/10.1016/S0140-6736(16)30053-8)　[PMID 27041067](https://pubmed.ncbi.nlm.nih.gov/27041067/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-B-⑥（下垂体前葉機能低下症、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-017 (id: JlAKps8)；TBL-02-13-018 (id: JlAKptA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-014&card_id=EN-014&version=5125e4dd3f)　（版 `5125e4dd3f`）
 
@@ -206,7 +206,7 @@
 
 - 条件：region: 国際／study: 総説（The Lancet、2016年）
 - 不確実性：補充療法の構成は出典の抄録で確認した。各ホルモン製剤の用量や調整方法は抄録の範囲を超えるため入れていない。ヒドロコルチゾン、レボチロキシン、性ホルモン製剤、成長ホルモン製剤、デスモプレシンなど個別薬剤の国内承認・保険適用は未確認である。
-- 出典：Higham CE, Johannsson G, Shalet SM. Hypopituitarism. The Lancet. 2016;388(10058):2403-2415.　[DOI 10.1016/S0140-6736(16)30053-8](https://doi.org/10.1016/S0140-6736(16)30053-8)　[PMID 27041067](https://pubmed.ncbi.nlm.nih.gov/27041067/)（区分 UNKNOWN）
+- 出典：Higham CE, Johannsson G, Shalet SM. Hypopituitarism. The Lancet. 2016;388(10058):2403-2415.　[DOI 10.1016/S0140-6736(16)30053-8](https://doi.org/10.1016/S0140-6736(16)30053-8)　[PMID 27041067](https://pubmed.ncbi.nlm.nih.gov/27041067/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-B-⑥（下垂体前葉機能低下症、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-015&card_id=EN-015&version=475082b47f)　（版 `475082b47f`）
 
@@ -222,7 +222,7 @@
 
 - 条件：region: 国際／study: 総説（Nature Reviews Disease Primers、2019年）
 - 不確実性：鑑別の方法は出典の抄録で確認した。コペプチンのカットオフ値などの数値は抄録に含まれないため主張文に入れていない。近年、バソプレシン欠乏症への名称変更が国際的に提案されており、日本での用語の扱いは取り込み側で確認されたい。腎性尿崩症の詳細は第15回 KT の範囲と重なるため、ここでは中枢性との鑑別に絞った。
-- 出典：Christ-Crain M, Bichet DG, Fenske WK, et al. Diabetes Insipidus. Nature Reviews Disease Primers. 2019;5(1):54.　[DOI 10.1038/s41572-019-0103-2](https://doi.org/10.1038/s41572-019-0103-2)　[PMID 31395885](https://pubmed.ncbi.nlm.nih.gov/31395885/)（区分 UNKNOWN）
+- 出典：Christ-Crain M, Bichet DG, Fenske WK, et al. Diabetes Insipidus. Nature Reviews Disease Primers. 2019;5(1):54.　[DOI 10.1038/s41572-019-0103-2](https://doi.org/10.1038/s41572-019-0103-2)　[PMID 31395885](https://pubmed.ncbi.nlm.nih.gov/31395885/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-B-⑦（中枢性尿崩症、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-459 (id: JlvnmKo)；TBL-02-13-018 (id: JlAKptA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-016&card_id=EN-016&version=5e86fb4852)　（版 `5e86fb4852`）
 
@@ -232,7 +232,7 @@
 
 - 条件：region: 国際／study: 総説（Nature Reviews Disease Primers、2019年）
 - 不確実性：治療が病型で異なることは出典の抄録で確認した。デスモプレシンの剤形ごとの用量換算は抄録の範囲を超えるため入れていない。デスモプレシン製剤の国内承認・保険適用（中枢性尿崩症への適応を含む）は未確認である。
-- 出典：Christ-Crain M, Bichet DG, Fenske WK, et al. Diabetes Insipidus. Nature Reviews Disease Primers. 2019;5(1):54.　[DOI 10.1038/s41572-019-0103-2](https://doi.org/10.1038/s41572-019-0103-2)　[PMID 31395885](https://pubmed.ncbi.nlm.nih.gov/31395885/)（区分 UNKNOWN）
+- 出典：Christ-Crain M, Bichet DG, Fenske WK, et al. Diabetes Insipidus. Nature Reviews Disease Primers. 2019;5(1):54.　[DOI 10.1038/s41572-019-0103-2](https://doi.org/10.1038/s41572-019-0103-2)　[PMID 31395885](https://pubmed.ncbi.nlm.nih.gov/31395885/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-B-⑦（中枢性尿崩症、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-459 (id: JlvnmKo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-017&card_id=EN-017&version=58b5e739cd)　（版 `58b5e739cd`）
 

@@ -1010,7 +1010,7 @@
     url: https://dzl.de/guidelines/european-respiratory-society-clinical-practice-guideline-for-the-management-of-adult-bronchiectasis/
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 紹介ページで確認した推奨で、本文は未確認。DPP-1 阻害薬（ブレンソカチブ）の扱いと日本での承認状況は確認していない
   curriculum:
@@ -1026,6 +1026,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-378 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: RO-029
   domain: RO
   subdomain: びまん性汎細気管支炎
@@ -1535,7 +1538,7 @@
     url: https://dzl.de/guidelines/european-respiratory-society-clinical-practice-guideline-for-the-management-of-adult-bronchiectasis/
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 定義・原因・診断に絞り、治療の推奨は既存の RO-028 が担う。内容は ERJ のガイドライン本文ページと学会の臨床サマリーで確認した。特発性の症例が占める割合などの数値は二次的な解説で見られたものであるため、主張に含めていない。出典のライセンス表示は既存登録（SRC-378）のとおり未確認である
   curriculum:
@@ -1551,6 +1554,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/66_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-378 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: RO-043
   domain: RO
   subdomain: 閉塞性細気管支炎

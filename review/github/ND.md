@@ -1,6 +1,6 @@
 # ND 神経変性・代謝性・脱髄疾患、中毒 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 63 件のうち、監修済み 0 件。
 
@@ -476,7 +476,7 @@
 
 - 条件：population: チアミン欠乏の患者／region: 国際
 - 不確実性：本出典は既存出典（SRC-987）を再利用した。作話などの個別症状の頻度は本カードでは扱わない。 チアミン製剤は国内で承認された薬剤である。
-- 出典：Chandrakumar A, Bhardwaj A, 't Jong GW. Review of thiamine deficiency disorders: Wernicke encephalopathy and Korsakoff psychosis. J Basic Clin Physiol Pharmacol. 2019;30(2):153-162　[DOI 10.1515/jbcpp-2018-0075](https://doi.org/10.1515/jbcpp-2018-0075)　[PMID 30281514](https://pubmed.ncbi.nlm.nih.gov/30281514/)（区分 UNKNOWN）
+- 出典：Chandrakumar A, Bhardwaj A, 't Jong GW. Review of thiamine deficiency disorders: Wernicke encephalopathy and Korsakoff psychosis. J Basic Clin Physiol Pharmacol. 2019;30(2):153-162　[DOI 10.1515/jbcpp-2018-0075](https://doi.org/10.1515/jbcpp-2018-0075)　[PMID 30281514](https://pubmed.ncbi.nlm.nih.gov/30281514/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-4-D-②（Wernicke脳症、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-484 (id: JlvnmNA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-038&card_id=ND-038&version=fc034a8b84)　（版 `fc034a8b84`）
 
@@ -582,7 +582,7 @@
 
 - 条件：population: ALS患者／region: 欧州
 - 不確実性：リルゾールは国内でALS治療薬として承認・保険収載されている。生存期間への効果の大きさは本カードの出典抄録に明示されていないため、命題には含めなかった。
-- 出典：Andersen PM, Abrahams S, Borasio GD, et al.; EFNS Task Force on Diagnosis and Management of Amyotrophic Lateral Sclerosis. EFNS guidelines on the clinical management of amyotrophic lateral sclerosis (MALS)--revised report of an EFNS task force. Eur J Neurol. 2012;19(3):360-375　[DOI 10.1111/j.1468-1331.2011.03501.x](https://doi.org/10.1111/j.1468-1331.2011.03501.x)　[PMID 21914052](https://pubmed.ncbi.nlm.nih.gov/21914052/)（区分 UNKNOWN）
+- 出典：Andersen PM, Abrahams S, Borasio GD, et al.; EFNS Task Force on Diagnosis and Management of Amyotrophic Lateral Sclerosis. EFNS guidelines on the clinical management of amyotrophic lateral sclerosis (MALS)--revised report of an EFNS task force. Eur J Neurol. 2012;19(3):360-375　[DOI 10.1111/j.1468-1331.2011.03501.x](https://doi.org/10.1111/j.1468-1331.2011.03501.x)　[PMID 21914052](https://pubmed.ncbi.nlm.nih.gov/21914052/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-4-G-①（筋萎縮性側索硬化症<ALS>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-041 (id: Jlvnldk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-045&card_id=ND-045&version=58fff6c0ea)　（版 `58fff6c0ea`）
 
@@ -612,7 +612,7 @@
 
 - 条件：population: ALS患者／region: 欧州
 - 不確実性：気管切開下陽圧換気を選択するかどうかは本人の意思決定に基づく。国内の診療ガイドライン（筋萎縮性側索硬化症診療ガイドライン2023）でも呼吸管理と意思決定支援が扱われているが、本カードの命題はEFNSガイドラインに基づく。
-- 出典：Andersen PM, Abrahams S, Borasio GD, et al.; EFNS Task Force on Diagnosis and Management of Amyotrophic Lateral Sclerosis. EFNS guidelines on the clinical management of amyotrophic lateral sclerosis (MALS)--revised report of an EFNS task force. Eur J Neurol. 2012;19(3):360-375　[DOI 10.1111/j.1468-1331.2011.03501.x](https://doi.org/10.1111/j.1468-1331.2011.03501.x)　[PMID 21914052](https://pubmed.ncbi.nlm.nih.gov/21914052/)（区分 UNKNOWN）
+- 出典：Andersen PM, Abrahams S, Borasio GD, et al.; EFNS Task Force on Diagnosis and Management of Amyotrophic Lateral Sclerosis. EFNS guidelines on the clinical management of amyotrophic lateral sclerosis (MALS)--revised report of an EFNS task force. Eur J Neurol. 2012;19(3):360-375　[DOI 10.1111/j.1468-1331.2011.03501.x](https://doi.org/10.1111/j.1468-1331.2011.03501.x)　[PMID 21914052](https://pubmed.ncbi.nlm.nih.gov/21914052/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-4-G-①（筋萎縮性側索硬化症<ALS>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-041 (id: Jlvnldk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-048&card_id=ND-048&version=489f9b0c20)　（版 `489f9b0c20`）
 
@@ -736,7 +736,7 @@
 
 - 条件：population: 一酸化炭素中毒の患者／region: 国際
 - 不確実性：数値は抄録で確認。高気圧酸素療法については、ランダム化比較試験の系統的レビュー（Buckley NA, et al. Cochrane Database Syst Rev. 2011;(4):CD002041、出典表には未収載）で神経学的転帰の改善は確立しておらず、その位置づけは定まっていない。遅発性神経障害の発症時期の幅は本カードでは扱わない。
-- 出典：Rose JJ, Wang L, Xu Q, et al. Carbon Monoxide Poisoning: Pathogenesis, Management, and Future Directions of Therapy. Am J Respir Crit Care Med. 2017　[DOI 10.1164/rccm.201606-1275CI](https://doi.org/10.1164/rccm.201606-1275CI)　[PMID 27753502](https://pubmed.ncbi.nlm.nih.gov/27753502/)（区分 UNKNOWN）
+- 出典：Rose JJ, Wang L, Xu Q, et al. Carbon Monoxide Poisoning: Pathogenesis, Management, and Future Directions of Therapy. Am J Respir Crit Care Med. 2017　[DOI 10.1164/rccm.201606-1275CI](https://doi.org/10.1164/rccm.201606-1275CI)　[PMID 27753502](https://pubmed.ncbi.nlm.nih.gov/27753502/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-4-I-①（一酸化炭素中毒<CO中毒>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-054&card_id=ND-054&version=a0b43b1127)　（版 `a0b43b1127`）
 
@@ -746,7 +746,7 @@
 
 - 条件：region: 国際／対象: 一酸化炭素中毒の患者
 - 不確実性：COHb の目安値と消失半減期の数値は総説（SRC-1698）の本文で確認した。高気圧酸素療法の位置づけについては、無作為化比較試験の系統的レビュー（Buckley NA, et al. Cochrane Database Syst Rev. 2011;(4):CD002041、出典表には未収載）で神経学的転帰の改善は確立しておらず、その適応は定まっていない。SRC-1698 の PMCID は PMC5363978 が候補（マスターでは null のため本カードも null とし、補完は取り込み側の照合に委ねる）。神経認知障害の頻度などの予後は既存カード ND-054 が担い、本カードでは扱わない。
-- 出典：Rose JJ, Wang L, Xu Q, et al. Carbon Monoxide Poisoning: Pathogenesis, Management, and Future Directions of Therapy. Am J Respir Crit Care Med. 2017　[DOI 10.1164/rccm.201606-1275CI](https://doi.org/10.1164/rccm.201606-1275CI)　[PMID 27753502](https://pubmed.ncbi.nlm.nih.gov/27753502/)（区分 UNKNOWN）
+- 出典：Rose JJ, Wang L, Xu Q, et al. Carbon Monoxide Poisoning: Pathogenesis, Management, and Future Directions of Therapy. Am J Respir Crit Care Med. 2017　[DOI 10.1164/rccm.201606-1275CI](https://doi.org/10.1164/rccm.201606-1275CI)　[PMID 27753502](https://pubmed.ncbi.nlm.nih.gov/27753502/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-4-I-①（一酸化炭素中毒<CO中毒>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-063&card_id=ND-063&version=71f65a6e13)　（版 `71f65a6e13`）
 

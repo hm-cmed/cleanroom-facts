@@ -1,6 +1,6 @@
 # IL 間質性・免疫学的機序の肺疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 61 件のうち、監修済み 0 件。
 
@@ -387,7 +387,7 @@
 
 - 条件：population: 日本の非小細胞肺癌患者／region: 日本
 - 不確実性：抄録（藤田医科大学の書誌ページ）で確認。PMID は本チャットで確認できず null（API 照合で確定する）。最初の4週の調整オッズ比は3.8。
-- 出典：Kudoh S, Kato H, Nishiwaki Y, et al. Interstitial lung disease in Japanese patients with lung cancer: a cohort and nested case-control study. Am J Respir Crit Care Med 2008;177(12):1348-1357　[DOI 10.1164/rccm.200710-1501OC](https://doi.org/10.1164/rccm.200710-1501OC)（区分 UNKNOWN）
+- 出典：Kudoh S, Kato H, Nishiwaki Y, et al. Interstitial lung disease in Japanese patients with lung cancer: a cohort and nested case-control study. Am J Respir Crit Care Med 2008;177(12):1348-1357　[DOI 10.1164/rccm.200710-1501OC](https://doi.org/10.1164/rccm.200710-1501OC)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-C-①（薬剤性肺障害、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-230 (id: Jlvnlz0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-030&card_id=IL-030&version=ecd1dee1fa)　（版 `ecd1dee1fa`）
 
@@ -398,7 +398,7 @@
 - 条件：population: 日本の非小細胞肺癌患者／region: 日本
 - よくある誤解：既存の間質性肺炎は抗癌薬による肺障害の危険因子にならない
 - 不確実性：抄録で確認。間質性肺疾患による死亡はゲフィチニブ群31.6%、化学療法群27.9%で、両群に有意差はなかった。
-- 出典：Kudoh S, Kato H, Nishiwaki Y, et al. Interstitial lung disease in Japanese patients with lung cancer: a cohort and nested case-control study. Am J Respir Crit Care Med 2008;177(12):1348-1357　[DOI 10.1164/rccm.200710-1501OC](https://doi.org/10.1164/rccm.200710-1501OC)（区分 UNKNOWN）
+- 出典：Kudoh S, Kato H, Nishiwaki Y, et al. Interstitial lung disease in Japanese patients with lung cancer: a cohort and nested case-control study. Am J Respir Crit Care Med 2008;177(12):1348-1357　[DOI 10.1164/rccm.200710-1501OC](https://doi.org/10.1164/rccm.200710-1501OC)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-C-①（薬剤性肺障害、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-230 (id: Jlvnlz0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-031&card_id=IL-031&version=80998cf0b8)　（版 `80998cf0b8`）
 
@@ -458,7 +458,7 @@
 - 条件：region: 国際／guideline: ベルリン定義 2012
 - よくある誤解：ARDS の重症度は胸部 X 線の陰影の範囲で決める
 - 不確実性：抄録（ミラノ大学のリポジトリ）で確認。定義の他の要件（発症1週間以内、両側陰影、心不全・体液過剰で説明できないこと、PEEP 5 cmH2O 以上での評価）は抄録に記載がなく、本文で確認していない。
-- 出典：Ranieri VM, Rubenfeld GD, Thompson BT, et al（ARDS Definition Task Force）. Acute respiratory distress syndrome: the Berlin Definition. JAMA 2012;307(23):2526-2533　[DOI 10.1001/jama.2012.5669](https://doi.org/10.1001/jama.2012.5669)　[PMID 22797452](https://pubmed.ncbi.nlm.nih.gov/22797452/)（区分 UNKNOWN）
+- 出典：Ranieri VM, Rubenfeld GD, Thompson BT, et al（ARDS Definition Task Force）. Acute respiratory distress syndrome: the Berlin Definition. JAMA 2012;307(23):2526-2533　[DOI 10.1001/jama.2012.5669](https://doi.org/10.1001/jama.2012.5669)　[PMID 22797452](https://pubmed.ncbi.nlm.nih.gov/22797452/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-D-①（急性呼吸窮迫症候群<ARDS>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-236 (id: JlvnlzE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-036&card_id=IL-036&version=2db8820f81)　（版 `2db8820f81`）
 
@@ -468,7 +468,7 @@
 
 - 条件：region: 国際／guideline: ベルリン定義 2012
 - 不確実性：抄録で確認。「改善の幅は小さい」は数値からの評価で、抄録の表現ではない。
-- 出典：Ranieri VM, Rubenfeld GD, Thompson BT, et al（ARDS Definition Task Force）. Acute respiratory distress syndrome: the Berlin Definition. JAMA 2012;307(23):2526-2533　[DOI 10.1001/jama.2012.5669](https://doi.org/10.1001/jama.2012.5669)　[PMID 22797452](https://pubmed.ncbi.nlm.nih.gov/22797452/)（区分 UNKNOWN）
+- 出典：Ranieri VM, Rubenfeld GD, Thompson BT, et al（ARDS Definition Task Force）. Acute respiratory distress syndrome: the Berlin Definition. JAMA 2012;307(23):2526-2533　[DOI 10.1001/jama.2012.5669](https://doi.org/10.1001/jama.2012.5669)　[PMID 22797452](https://pubmed.ncbi.nlm.nih.gov/22797452/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-D-①（急性呼吸窮迫症候群<ARDS>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-236 (id: JlvnlzE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-037&card_id=IL-037&version=d8910b4e4c)　（版 `d8910b4e4c`）
 

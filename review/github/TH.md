@@ -1,6 +1,6 @@
 # TH 甲状腺、副甲状腺とカルシウム・リン代謝 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 37 件のうち、監修済み 0 件。
 
@@ -200,7 +200,7 @@
 
 - 条件：region: 国際／design: 総説
 - 不確実性：出典は総説であり、原因の頻度は地域のヨウ素摂取状況に依存するため、日本における頻度は本カードでは扱っていない。
-- 出典：Knobel M. Etiopathology, clinical features, and treatment of diffuse and multinodular nontoxic goiters. J Endocrinol Invest. 2016;39(4):357-373.　[DOI 10.1007/s40618-015-0391-7](https://doi.org/10.1007/s40618-015-0391-7)　[PMID 26392367](https://pubmed.ncbi.nlm.nih.gov/26392367/)（区分 UNKNOWN）
+- 出典：Knobel M. Etiopathology, clinical features, and treatment of diffuse and multinodular nontoxic goiters. J Endocrinol Invest. 2016;39(4):357-373.　[DOI 10.1007/s40618-015-0391-7](https://doi.org/10.1007/s40618-015-0391-7)　[PMID 26392367](https://pubmed.ncbi.nlm.nih.gov/26392367/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-2-C-①（単純性甲状腺腫、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-014 (id: JlAKpsw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-010&card_id=TH-010&version=a5194092de)　（版 `a5194092de`）
 
@@ -216,7 +216,7 @@
 
 - 条件：region: 国際／design: 総説
 - 不確実性：出典は総説であり、腺腫様甲状腺腫における悪性の頻度などの数値は抄録に記載がなかったため主張に含めていない。
-- 出典：Knobel M. Etiopathology, clinical features, and treatment of diffuse and multinodular nontoxic goiters. J Endocrinol Invest. 2016;39(4):357-373.　[DOI 10.1007/s40618-015-0391-7](https://doi.org/10.1007/s40618-015-0391-7)　[PMID 26392367](https://pubmed.ncbi.nlm.nih.gov/26392367/)（区分 UNKNOWN）
+- 出典：Knobel M. Etiopathology, clinical features, and treatment of diffuse and multinodular nontoxic goiters. J Endocrinol Invest. 2016;39(4):357-373.　[DOI 10.1007/s40618-015-0391-7](https://doi.org/10.1007/s40618-015-0391-7)　[PMID 26392367](https://pubmed.ncbi.nlm.nih.gov/26392367/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-2-C-②（腺腫様甲状腺腫、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-668 (id: Jlvnmeo)；TBL-02-13-014 (id: JlAKpsw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-011&card_id=TH-011&version=aa3dd3c1fb)　（版 `aa3dd3c1fb`）
 
@@ -232,7 +232,7 @@
 
 - 条件：region: 米国／design: 総説
 - 不確実性：出典は総説であり、主張は濾胞性腫瘍の診断手順に関する抄録の記載に基づく。分子診断による術前判別の可能性は発展途上の事項として抄録に触れられているが、主張には含めていない。
-- 出典：McHenry CR, Phitayakorn R. Follicular adenoma and carcinoma of the thyroid gland. Oncologist. 2011;16(5):585-593.　[DOI 10.1634/theoncologist.2010-0405](https://doi.org/10.1634/theoncologist.2010-0405)　[PMID 21482585](https://pubmed.ncbi.nlm.nih.gov/21482585/)（区分 UNKNOWN）
+- 出典：McHenry CR, Phitayakorn R. Follicular adenoma and carcinoma of the thyroid gland. Oncologist. 2011;16(5):585-593.　[DOI 10.1634/theoncologist.2010-0405](https://doi.org/10.1634/theoncologist.2010-0405)　[PMID 21482585](https://pubmed.ncbi.nlm.nih.gov/21482585/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-2-C-③（甲状腺良性腫瘍、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-012&card_id=TH-012&version=71ccedd25d)　（版 `71ccedd25d`）
 
@@ -248,7 +248,7 @@
 
 - 条件：region: 米国／design: 診療ガイドライン（2015年版）
 - 不確実性：本カードは米国甲状腺学会2015年版ガイドラインの抄録に基づく。穿刺吸引細胞診の適応となる結節径や超音波所見の細部は抄録の範囲を超えるため主張に含めていない。
-- 出典：Haugen BR, Alexander EK, Bible KC, Doherty GM, Mandel SJ, Nikiforov YE, Pacini F, Randolph GW, Sawka AM, Schlumberger M, Schuff KG, Sherman SI, Sosa JA, Steward DL, Tuttle RM, Wartofsky L. 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer. Thyroid. 2016;26(1):1-133.　[DOI 10.1089/thy.2015.0020](https://doi.org/10.1089/thy.2015.0020)　[PMID 26462967](https://pubmed.ncbi.nlm.nih.gov/26462967/)（区分 UNKNOWN）
+- 出典：Haugen BR, Alexander EK, Bible KC, Doherty GM, Mandel SJ, Nikiforov YE, Pacini F, Randolph GW, Sawka AM, Schlumberger M, Schuff KG, Sherman SI, Sosa JA, Steward DL, Tuttle RM, Wartofsky L. 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer. Thyroid. 2016;26(1):1-133.　[DOI 10.1089/thy.2015.0020](https://doi.org/10.1089/thy.2015.0020)　[PMID 26462967](https://pubmed.ncbi.nlm.nih.gov/26462967/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-2-C-④（甲状腺悪性腫瘍、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-670 (id: Jlvnmew)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-013&card_id=TH-013&version=705effb739)　（版 `705effb739`）
 
@@ -264,7 +264,7 @@
 
 - 条件：region: 米国／design: 診療ガイドライン（2015年版）
 - 不確実性：本カードは2015年版ガイドラインに基づく米国の管理方針であり、日本の診療と異なる場合がある。レボチロキシンは国内で承認・保険適用のある薬剤だが、本作業では添付文書等による一次確認は行っていない。放射性ヨウ素治療の国内実施要件も本作業では確認していない。
-- 出典：Haugen BR, Alexander EK, Bible KC, Doherty GM, Mandel SJ, Nikiforov YE, Pacini F, Randolph GW, Sawka AM, Schlumberger M, Schuff KG, Sherman SI, Sosa JA, Steward DL, Tuttle RM, Wartofsky L. 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer. Thyroid. 2016;26(1):1-133.　[DOI 10.1089/thy.2015.0020](https://doi.org/10.1089/thy.2015.0020)　[PMID 26462967](https://pubmed.ncbi.nlm.nih.gov/26462967/)（区分 UNKNOWN）
+- 出典：Haugen BR, Alexander EK, Bible KC, Doherty GM, Mandel SJ, Nikiforov YE, Pacini F, Randolph GW, Sawka AM, Schlumberger M, Schuff KG, Sherman SI, Sosa JA, Steward DL, Tuttle RM, Wartofsky L. 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer. Thyroid. 2016;26(1):1-133.　[DOI 10.1089/thy.2015.0020](https://doi.org/10.1089/thy.2015.0020)　[PMID 26462967](https://pubmed.ncbi.nlm.nih.gov/26462967/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-2-C-④（甲状腺悪性腫瘍、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-670 (id: Jlvnmew)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-014&card_id=TH-014&version=943f5a6d3f)　（版 `943f5a6d3f`）
 
@@ -274,7 +274,7 @@
 
 - 条件：region: 米国／design: 総説
 - 不確実性：転移頻度と10年生存率の数値は出典の抄録に記載された値である。放射性ヨウ素治療と甲状腺ホルモン剤の国内承認・実施要件は、本作業では一次確認を行っていない。
-- 出典：McHenry CR, Phitayakorn R. Follicular adenoma and carcinoma of the thyroid gland. Oncologist. 2011;16(5):585-593.　[DOI 10.1634/theoncologist.2010-0405](https://doi.org/10.1634/theoncologist.2010-0405)　[PMID 21482585](https://pubmed.ncbi.nlm.nih.gov/21482585/)（区分 UNKNOWN）
+- 出典：McHenry CR, Phitayakorn R. Follicular adenoma and carcinoma of the thyroid gland. Oncologist. 2011;16(5):585-593.　[DOI 10.1634/theoncologist.2010-0405](https://doi.org/10.1634/theoncologist.2010-0405)　[PMID 21482585](https://pubmed.ncbi.nlm.nih.gov/21482585/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-2-C-④（甲状腺悪性腫瘍、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-670 (id: Jlvnmew)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-015&card_id=TH-015&version=15ce71eeff)　（版 `15ce71eeff`）
 
@@ -300,7 +300,7 @@
 
 - 条件：region: 欧州／design: 診療ガイドライン（2021年版）
 - 不確実性：用量（累積4.5 g、12週）は出典の抄録に記載された欧州ガイドラインの推奨である。メチルプレドニゾロンとミコフェノール酸製剤のBasedow病眼症に対する国内承認・保険適用は、本作業では一次確認を行っていない。
-- 出典：Bartalena L, Kahaly GJ, Baldeschi L, Dayan CM, Eckstein A, Marcocci C, Marinò M, Vaidya B, Wiersinga WM; EUGOGO. The 2021 European Group on Graves' orbitopathy (EUGOGO) clinical practice guidelines for the medical management of Graves' orbitopathy. Eur J Endocrinol. 2021;185(4):G43-G67.　[DOI 10.1530/EJE-21-0479](https://doi.org/10.1530/EJE-21-0479)　[PMID 34297684](https://pubmed.ncbi.nlm.nih.gov/34297684/)（区分 UNKNOWN）
+- 出典：Bartalena L, Kahaly GJ, Baldeschi L, Dayan CM, Eckstein A, Marcocci C, Marinò M, Vaidya B, Wiersinga WM; EUGOGO. The 2021 European Group on Graves' orbitopathy (EUGOGO) clinical practice guidelines for the medical management of Graves' orbitopathy. Eur J Endocrinol. 2021;185(4):G43-G67.　[DOI 10.1530/EJE-21-0479](https://doi.org/10.1530/EJE-21-0479)　[PMID 34297684](https://pubmed.ncbi.nlm.nih.gov/34297684/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-2-A-①（甲状腺機能亢進症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-462 (id: JlvnmK8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-017&card_id=TH-017&version=78271a0252)　（版 `78271a0252`）
 

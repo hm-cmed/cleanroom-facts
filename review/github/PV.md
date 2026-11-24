@@ -1,6 +1,6 @@
 # PV 肺循環異常 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 32 件のうち、監修済み 0 件。
 
@@ -122,7 +122,7 @@
 - 条件：population: 中間リスクの急性肺血栓塞栓症／region: 欧州
 - よくある誤解：中間リスクの肺血栓塞栓症には全例に全身血栓溶解療法を行う
 - 不確実性：リポジトリ（ゲッティンゲン大学）の抄録で確認。PMID は本チャットで確認できず null（API 照合で確定する）。頁は未確認。テネクテプラーゼの国内承認状況は確認していない。
-- 出典：Meyer G, Vicaut E, Danays T, et al（PEITHO Investigators）. Fibrinolysis for patients with intermediate-risk pulmonary embolism. N Engl J Med 2014;370　[DOI 10.1056/NEJMoa1302097](https://doi.org/10.1056/NEJMoa1302097)（区分 UNKNOWN）
+- 出典：Meyer G, Vicaut E, Danays T, et al（PEITHO Investigators）. Fibrinolysis for patients with intermediate-risk pulmonary embolism. N Engl J Med 2014;370　[DOI 10.1056/NEJMoa1302097](https://doi.org/10.1056/NEJMoa1302097)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-B-①（急性肺血栓塞栓症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-011&card_id=PV-011&version=c8576f6b33)　（版 `c8576f6b33`）
 
@@ -136,7 +136,7 @@
 
 - 条件：population: 中間リスクの急性肺血栓塞栓症／region: 欧州
 - 不確実性：リポジトリの抄録で確認。
-- 出典：Meyer G, Vicaut E, Danays T, et al（PEITHO Investigators）. Fibrinolysis for patients with intermediate-risk pulmonary embolism. N Engl J Med 2014;370　[DOI 10.1056/NEJMoa1302097](https://doi.org/10.1056/NEJMoa1302097)（区分 UNKNOWN）
+- 出典：Meyer G, Vicaut E, Danays T, et al（PEITHO Investigators）. Fibrinolysis for patients with intermediate-risk pulmonary embolism. N Engl J Med 2014;370　[DOI 10.1056/NEJMoa1302097](https://doi.org/10.1056/NEJMoa1302097)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-B-①（急性肺血栓塞栓症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-012&card_id=PV-012&version=2530886fec)　（版 `2530886fec`）
 
@@ -152,9 +152,9 @@
 
 - 条件：population: 急性肺血栓塞栓症の既往／region: イタリア
 - 不確実性：パドヴァ大学のリポジトリ掲載の本文 PDF の抄録で確認。DOI・PMID 未確認。
-- 出典：Pengo V, Lensing AWA, Prins MH, et al. Incidence of Chronic Thromboembolic Pulmonary Hypertension after Pulmonary Embolism. N Engl J Med 2004;350(22):2257-2264（区分 UNKNOWN）
+- 出典：Pengo V, Lensing AWA, Prins MH, et al. Incidence of Chronic Thromboembolic Pulmonary Hypertension after Pulmonary Embolism. N Engl J Med 2004;350(22):2257-2264　[DOI 10.1056/NEJMoa032274](https://doi.org/10.1056/NEJMoa032274)　[PMID 15163775](https://pubmed.ncbi.nlm.nih.gov/15163775/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-B-②（慢性肺血栓塞栓症、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)；TBL-01-00-226 (id: JlvnlzQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-013&card_id=PV-013&version=8716c93918)　（版 `8716c93918`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-013&card_id=PV-013&version=5fb387606a)　（版 `5fb387606a`）
 
 ### PV-014　下書き（出典の照合前）
 
@@ -162,9 +162,9 @@
 
 - 条件：population: 急性肺血栓塞栓症の既往／region: イタリア
 - 不確実性：抄録で確認（多変量解析のオッズ比：既往19.0、特発性5.70、血流欠損1十分位あたり2.22、年齢10歳若いごとに1.79）。
-- 出典：Pengo V, Lensing AWA, Prins MH, et al. Incidence of Chronic Thromboembolic Pulmonary Hypertension after Pulmonary Embolism. N Engl J Med 2004;350(22):2257-2264（区分 UNKNOWN）
+- 出典：Pengo V, Lensing AWA, Prins MH, et al. Incidence of Chronic Thromboembolic Pulmonary Hypertension after Pulmonary Embolism. N Engl J Med 2004;350(22):2257-2264　[DOI 10.1056/NEJMoa032274](https://doi.org/10.1056/NEJMoa032274)　[PMID 15163775](https://pubmed.ncbi.nlm.nih.gov/15163775/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-B-②（慢性肺血栓塞栓症、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-225 (id: JlvnlzI)；TBL-01-00-226 (id: JlvnlzQ)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-014&card_id=PV-014&version=bb97509eb8)　（版 `bb97509eb8`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-014&card_id=PV-014&version=e7e8fec7e2)　（版 `e7e8fec7e2`）
 
 ### PV-015　下書き（出典の照合前）
 
@@ -207,7 +207,7 @@
 - 出題基準：医学各論 Ⅳ-5-B-②（慢性肺血栓塞栓症、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-018&card_id=PV-018&version=f786544293)　（版 `f786544293`）
 
-**[ここまでの 6 件（PV-013〜PV-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PV-013%E3%80%9CPV-018&cards=PV-013%208716c93918%0APV-014%20bb97509eb8%0APV-015%2010f80545d7%0APV-016%2098ab9a61d6%0APV-017%20f7f3c7e0cf%0APV-018%20f786544293)**
+**[ここまでの 6 件（PV-013〜PV-018）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20PV-013%E3%80%9CPV-018&cards=PV-013%205fb387606a%0APV-014%20e7e8fec7e2%0APV-015%2010f80545d7%0APV-016%2098ab9a61d6%0APV-017%20f7f3c7e0cf%0APV-018%20f786544293)**
 
 ---
 
@@ -320,7 +320,7 @@
 
 - 条件：population: COPD に伴う慢性の低酸素性肺性心／region: 英国
 - 不確実性：PEDro の書誌ページの抄録で確認。PMID 未確認。酸素は通常、鼻カニュラで2 L/分。男性では効果が現れるまで約500日を要した。
-- 出典：Medical Research Council Working Party. Long term domiciliary oxygen therapy in chronic hypoxic cor pulmonale complicating chronic bronchitis and emphysema. Lancet 1981;317(8222):681-686　[DOI 10.1016/S0140-6736(81)91970-X](https://doi.org/10.1016/S0140-6736(81)91970-X)（区分 UNKNOWN）
+- 出典：Medical Research Council Working Party. Long term domiciliary oxygen therapy in chronic hypoxic cor pulmonale complicating chronic bronchitis and emphysema. Lancet 1981;317(8222):681-686　[DOI 10.1016/S0140-6736(81)91970-X](https://doi.org/10.1016/S0140-6736(81)91970-X)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-D（肺性心、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-224 (id: Jlvnly8)；TBL-02-06-026 (id: JlAKpik)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-027&card_id=PV-027&version=e9d69744a9)　（版 `e9d69744a9`）
 
@@ -331,7 +331,7 @@
 - 条件：population: COPD に伴う慢性の低酸素性肺性心／region: 英国
 - よくある誤解：在宅酸素療法は COPD の増悪による入院を減らすために行う
 - 不確実性：抄録で確認。
-- 出典：Medical Research Council Working Party. Long term domiciliary oxygen therapy in chronic hypoxic cor pulmonale complicating chronic bronchitis and emphysema. Lancet 1981;317(8222):681-686　[DOI 10.1016/S0140-6736(81)91970-X](https://doi.org/10.1016/S0140-6736(81)91970-X)（区分 UNKNOWN）
+- 出典：Medical Research Council Working Party. Long term domiciliary oxygen therapy in chronic hypoxic cor pulmonale complicating chronic bronchitis and emphysema. Lancet 1981;317(8222):681-686　[DOI 10.1016/S0140-6736(81)91970-X](https://doi.org/10.1016/S0140-6736(81)91970-X)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-D（肺性心、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-224 (id: Jlvnly8)；TBL-02-06-026 (id: JlAKpik)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-028&card_id=PV-028&version=cc84a591d5)　（版 `cc84a591d5`）
 

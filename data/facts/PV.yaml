@@ -412,7 +412,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 参考（自由に使える資料による裏づけとしては数えない。作り手の再判定 2026-11-11：登録 NCT00639743 には結果が未掲載で、数値の出所は抄録。作り手の調査 2026-11-08 の記録）：ClinicalTrials.gov 結果登録 NCT00639743（https://clinicaltrials.gov/study/NCT00639743）。数値の照合：一致：抄録 13/506（2.6%）対28/499（5.6%）、30日死亡 12例（2.4%）対16例（3.2%）でカードと一致
   uncertainty: リポジトリ（ゲッティンゲン大学）の抄録で確認。PMID は本チャットで確認できず null（API 照合で確定する）。頁は未確認。テネクテプラーゼの国内承認状況は確認していない。
   curriculum:
@@ -434,6 +434,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration の ClinicalTrials.gov の記録を、自由に使える資料による裏づけとしては数えない参考情報に改めた（作り手の調査バッチ35：登録に結果が未掲載で、数値の出所は抄録）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-441 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: PV-012
   domain: PV
   subdomain: 急性肺血栓塞栓症
@@ -453,7 +456,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 参考（自由に使える資料による裏づけとしては数えない。作り手の再判定 2026-11-11：登録 NCT00639743 には結果が未掲載で、数値の出所は抄録。作り手の調査 2026-11-08 の記録）：ClinicalTrials.gov 結果登録 NCT00639743（https://clinicaltrials.gov/study/NCT00639743）。数値の照合：一致：抄録 頭蓋外出血 32例（6.3%）対6例（1.2%）、脳卒中 12例（2.4%）対1例（0.2%）でカードと一致
   uncertainty: リポジトリの抄録で確認。
   curriculum:
@@ -475,6 +478,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration の ClinicalTrials.gov の記録を、自由に使える資料による裏づけとしては数えない参考情報に改めた（作り手の調査バッチ35：登録に結果が未掲載で、数値の出所は抄録）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-441 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: PV-013
   domain: PV
   subdomain: 慢性肺血栓塞栓症
@@ -488,13 +494,13 @@
   provenance:
     source_ref: SRC-442
     source: Pengo V, Lensing AWA, Prins MH, et al. Incidence of Chronic Thromboembolic Pulmonary Hypertension after Pulmonary Embolism. N Engl J Med 2004;350(22):2257-2264
-    doi: null
-    pmid: null
+    doi: 10.1056/NEJMoa032274
+    pmid: '15163775'
     pmcid: null
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ35 2026-11-11）：Sharma & Levine. Medicina 2021（CC BY、PMC8067524、新規 SRC 候補）。裏づける部分と留保：累積発生率（6か月1.0%・1年3.1%・2年3.8%）は総説の表と一致。「2年以降の発生なし」は未確認
   uncertainty: パドヴァ大学のリポジトリ掲載の本文 PDF の抄録で確認。DOI・PMID 未確認。
   curriculum:
@@ -513,6 +519,12 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ35 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-442 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
+  - date: '2026-11-24'
+    by: claude-code
+    change: DOI・PMID を補完（SRC-442 と同じ）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: PV-014
   domain: PV
   subdomain: 慢性肺血栓塞栓症
@@ -526,13 +538,13 @@
   provenance:
     source_ref: SRC-442
     source: Pengo V, Lensing AWA, Prins MH, et al. Incidence of Chronic Thromboembolic Pulmonary Hypertension after Pulmonary Embolism. N Engl J Med 2004;350(22):2257-2264
-    doi: null
-    pmid: null
+    doi: 10.1056/NEJMoa032274
+    pmid: '15163775'
     pmcid: null
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ35 2026-11-11）：Sharma & Levine. Medicina 2021（同上）。裏づける部分と留保：関連因子のうち PE 既往・若年・大きな血流欠損の3項目は総説の表と一致。特発性 PE とオッズ比は対象外
   uncertainty: 抄録で確認（多変量解析のオッズ比：既往19.0、特発性5.70、血流欠損1十分位あたり2.22、年齢10歳若いごとに1.79）。
   curriculum:
@@ -551,6 +563,12 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ35 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-442 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
+  - date: '2026-11-24'
+    by: claude-code
+    change: DOI・PMID を補完（SRC-442 と同じ）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: PV-015
   domain: PV
   subdomain: 慢性肺血栓塞栓症
@@ -1029,7 +1047,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: PEDro の書誌ページの抄録で確認。PMID 未確認。酸素は通常、鼻カニュラで2 L/分。男性では効果が現れるまで約500日を要した。
   curriculum:
@@ -1045,6 +1063,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-448 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: PV-028
   domain: PV
   subdomain: 肺性心
@@ -1064,7 +1085,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録で確認。
   curriculum:
@@ -1080,6 +1101,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-448 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: PV-029
   domain: PV
   subdomain: 肺動静脈瘻

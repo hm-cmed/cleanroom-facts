@@ -1,6 +1,6 @@
 # OS 上肢・下肢の運動器疾患、非感染性骨・関節・四肢軟部疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 50 件のうち、監修済み 0 件。
 
@@ -394,7 +394,7 @@
 
 - 条件：population: 7歳未満の小児／region: 国際
 - 不確実性：収載試験の対象は全例7歳未満で、好発年齢の細かな内訳（1〜4歳に集中すること）は本レビューの抄録では数値として示されていない
-- 出典：Krul M, van der Wouden JC, Kruithof EJ, et al. Manipulative interventions for reducing pulled elbow in young children. Cochrane Database Syst Rev. 2017;7(7):CD007759　[DOI 10.1002/14651858.CD007759.pub4](https://doi.org/10.1002/14651858.CD007759.pub4)　[PMID 28753234](https://pubmed.ncbi.nlm.nih.gov/28753234/)（区分 UNKNOWN）
+- 出典：Krul M, van der Wouden JC, Kruithof EJ, et al. Manipulative interventions for reducing pulled elbow in young children. Cochrane Database Syst Rev. 2017;7(7):CD007759　[DOI 10.1002/14651858.CD007759.pub4](https://doi.org/10.1002/14651858.CD007759.pub4)　[PMID 28753234](https://pubmed.ncbi.nlm.nih.gov/28753234/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-8-B-①（肘内障、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-150 (id: JlvnlnM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-029&card_id=OS-029&version=e849dbae9f)　（版 `e849dbae9f`）
 
@@ -404,7 +404,7 @@
 
 - 条件：population: 肘内障の小児（8試験、811例）／region: 国際
 - 不確実性：エビデンスの質は低い（low-quality）と評価されている。整復後の予後（再発率など）は本レビューでは結論が得られていない
-- 出典：Krul M, van der Wouden JC, Kruithof EJ, et al. Manipulative interventions for reducing pulled elbow in young children. Cochrane Database Syst Rev. 2017;7(7):CD007759　[DOI 10.1002/14651858.CD007759.pub4](https://doi.org/10.1002/14651858.CD007759.pub4)　[PMID 28753234](https://pubmed.ncbi.nlm.nih.gov/28753234/)（区分 UNKNOWN）
+- 出典：Krul M, van der Wouden JC, Kruithof EJ, et al. Manipulative interventions for reducing pulled elbow in young children. Cochrane Database Syst Rev. 2017;7(7):CD007759　[DOI 10.1002/14651858.CD007759.pub4](https://doi.org/10.1002/14651858.CD007759.pub4)　[PMID 28753234](https://pubmed.ncbi.nlm.nih.gov/28753234/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-8-B-①（肘内障、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-150 (id: JlvnlnM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-030&card_id=OS-030&version=fe24dc1b17)　（版 `fe24dc1b17`）
 
@@ -446,7 +446,7 @@
 
 - 条件：population: 歩行開始前の乳児／region: 国際
 - 不確実性：専門家の Delphi 合意に基づく所見であり、各テストの感度・特異度の数値は示されていない。Allis（Galeazzi）徴候は本抄録の合意事項に含まれていない。Graf 法の型分類の詳細は、IIa の一部と IIb 以上が装具治療の対象となる点のみ本抄録で言及されている
-- 出典：Ömeroğlu H, Yüksel S, Demir P, et al. An Eastern Europe and Middle East multinational expert Delphi consensus study on the prevention, diagnosis, and treatment of developmental dysplasia of the hip before walking age. Int Orthop. 2024;48(6):1373-1380　[DOI 10.1007/s00264-023-06077-1](https://doi.org/10.1007/s00264-023-06077-1)　[PMID 38150007](https://pubmed.ncbi.nlm.nih.gov/38150007/)（区分 UNKNOWN）
+- 出典：Ömeroğlu H, Yüksel S, Demir P, et al. An Eastern Europe and Middle East multinational expert Delphi consensus study on the prevention, diagnosis, and treatment of developmental dysplasia of the hip before walking age. Int Orthop. 2024;48(6):1373-1380　[DOI 10.1007/s00264-023-06077-1](https://doi.org/10.1007/s00264-023-06077-1)　[PMID 38150007](https://pubmed.ncbi.nlm.nih.gov/38150007/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-8-D-②（発育性股関節形成不全<先天性股関節脱臼>、b）　コアカリ：PS-02-05-05 (id: JkxnuQc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-033&card_id=OS-033&version=8a06a8e33b)　（版 `8a06a8e33b`）
 
@@ -456,7 +456,7 @@
 
 - 条件：population: 歩行開始前の発育性股関節形成不全の乳児／region: 国際
 - 不確実性：専門家の Delphi 合意であり、装具治療の成功率の数値は示されていない。装具治療に関するランダム化比較試験のエビデンスは乏しいことが別途システマティックレビューで指摘されている
-- 出典：Ömeroğlu H, Yüksel S, Demir P, et al. An Eastern Europe and Middle East multinational expert Delphi consensus study on the prevention, diagnosis, and treatment of developmental dysplasia of the hip before walking age. Int Orthop. 2024;48(6):1373-1380　[DOI 10.1007/s00264-023-06077-1](https://doi.org/10.1007/s00264-023-06077-1)　[PMID 38150007](https://pubmed.ncbi.nlm.nih.gov/38150007/)（区分 UNKNOWN）
+- 出典：Ömeroğlu H, Yüksel S, Demir P, et al. An Eastern Europe and Middle East multinational expert Delphi consensus study on the prevention, diagnosis, and treatment of developmental dysplasia of the hip before walking age. Int Orthop. 2024;48(6):1373-1380　[DOI 10.1007/s00264-023-06077-1](https://doi.org/10.1007/s00264-023-06077-1)　[PMID 38150007](https://pubmed.ncbi.nlm.nih.gov/38150007/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-8-D-②（発育性股関節形成不全<先天性股関節脱臼>、b）　コアカリ：PS-02-05-05 (id: JkxnuQc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-034&card_id=OS-034&version=2c3387e9a8)　（版 `2c3387e9a8`）
 

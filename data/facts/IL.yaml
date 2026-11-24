@@ -1083,7 +1083,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録（藤田医科大学の書誌ページ）で確認。PMID は本チャットで確認できず null（API 照合で確定する）。最初の4週の調整オッズ比は3.8。
   curriculum:
@@ -1099,6 +1099,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-427 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: IL-031
   domain: IL
   subdomain: 薬剤性肺障害
@@ -1118,7 +1121,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録で確認。間質性肺疾患による死亡はゲフィチニブ群31.6%、化学療法群27.9%で、両群に有意差はなかった。
   curriculum:
@@ -1134,6 +1137,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-427 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: IL-032
   domain: IL
   subdomain: 放射線肺炎
@@ -1296,7 +1302,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録（ミラノ大学のリポジトリ）で確認。定義の他の要件（発症1週間以内、両側陰影、心不全・体液過剰で説明できないこと、PEEP 5 cmH2O 以上での評価）は抄録に記載がなく、本文で確認していない。
   curriculum:
@@ -1312,6 +1318,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-431 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: IL-037
   domain: IL
   subdomain: 急性呼吸窮迫症候群<ARDS>
@@ -1331,7 +1340,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録で確認。「改善の幅は小さい」は数値からの評価で、抄録の表現ではない。
   curriculum:
@@ -1347,6 +1356,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-431 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: IL-038
   domain: IL
   subdomain: 急性呼吸窮迫症候群<ARDS>

@@ -1375,7 +1375,7 @@
     url: https://doi.org/10.1515/jbcpp-2018-0075
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本出典は既存出典（SRC-987）を再利用した。作話などの個別症状の頻度は本カードでは扱わない。 チアミン製剤は国内で承認された薬剤である。
   curriculum:
@@ -1391,6 +1391,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-987 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: ND-039
   domain: ND
   subdomain: ミトコンドリア病
@@ -1629,7 +1632,7 @@
     url: https://doi.org/10.1111/j.1468-1331.2011.03501.x
     source_license: European Journal of Neurology（Wiley、CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: リルゾールは国内でALS治療薬として承認・保険収載されている。生存期間への効果の大きさは本カードの出典抄録に明示されていないため、命題には含めなかった。
   curriculum:
@@ -1645,6 +1648,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1691 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: ND-046
   domain: ND
   subdomain: 筋萎縮性側索硬化症
@@ -1734,7 +1740,7 @@
     url: https://doi.org/10.1111/j.1468-1331.2011.03501.x
     source_license: European Journal of Neurology（Wiley、CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 気管切開下陽圧換気を選択するかどうかは本人の意思決定に基づく。国内の診療ガイドライン（筋萎縮性側索硬化症診療ガイドライン2023）でも呼吸管理と意思決定支援が扱われているが、本カードの命題はEFNSガイドラインに基づく。
   curriculum:
@@ -1750,6 +1756,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1691 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: ND-049
   domain: ND
   subdomain: 球脊髄性筋萎縮症
@@ -1962,7 +1971,7 @@
     url: https://doi.org/10.1164/rccm.201606-1275CI
     source_license: American Journal of Respiratory and Critical Care Medicine（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値は抄録で確認。高気圧酸素療法については、ランダム化比較試験の系統的レビュー（Buckley NA, et al. Cochrane Database Syst Rev. 2011;(4):CD002041、出典表には未収載）で神経学的転帰の改善は確立しておらず、その位置づけは定まっていない。遅発性神経障害の発症時期の幅は本カードでは扱わない。
   curriculum:
@@ -1978,6 +1987,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1698 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: ND-055
   domain: ND
   subdomain: 低酸素脳症
@@ -2286,7 +2298,7 @@
     url: https://doi.org/10.1164/rccm.201606-1275CI
     source_license: American Journal of Respiratory and Critical Care Medicine（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: COHb の目安値と消失半減期の数値は総説（SRC-1698）の本文で確認した。高気圧酸素療法の位置づけについては、無作為化比較試験の系統的レビュー（Buckley NA, et al. Cochrane Database Syst Rev. 2011;(4):CD002041、出典表には未収載）で神経学的転帰の改善は確立しておらず、その適応は定まっていない。SRC-1698 の PMCID は PMC5363978 が候補（マスターでは null のため本カードも null とし、補完は取り込み側の照合に委ねる）。神経認知障害の頻度などの予後は既存カード ND-054 が担い、本カードでは扱わない。
   curriculum:
@@ -2302,6 +2314,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/65_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1698 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: ND-064
   domain: ND
   subdomain: 低酸素脳症

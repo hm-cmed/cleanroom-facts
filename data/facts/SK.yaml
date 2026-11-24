@@ -277,7 +277,7 @@
     url: https://www.ncbi.nlm.nih.gov/books/NBK549807/
     source_license: © StatPearls Publishing LLC（CCライセンス表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は StatPearls の章であり、DOI は付与されていない（PubMed の Bookshelf レコードで確認）。ライセンス表示は確認できなかった。関連する薬剤として出典が挙げる利尿薬、シメチジン、パクリタキセルなどの国内承認・保険適用は未確認。内容は抄録で確認した範囲に限った。
   curriculum:
@@ -296,6 +296,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した SK-031 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1074 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: SK-009
   domain: SK
   subdomain: 貨幣状湿疹
@@ -315,7 +318,7 @@
     url: https://www.ncbi.nlm.nih.gov/books/NBK565878/
     source_license: © StatPearls Publishing LLC（CCライセンス表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は StatPearls の章であり、DOI は付与されていない（PubMed の Bookshelf レコードで確認）。ライセンス表示は確認できなかった。外用コルチコステロイドの国内承認・保険適用は未確認。内容は抄録で確認した範囲に限った。
   curriculum:
@@ -334,6 +337,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した SK-032 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1075 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: SK-010
   domain: SK
   subdomain: 自家感作性皮膚炎
@@ -534,7 +540,7 @@
     url: https://doi.org/10.1007/s40257-015-0154-4
     source_license: Springer（CCライセンス表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ26 2026-11-11）：Prurigo Pigmentosa Following Bariatric Surgery: A Comprehensive Clinicopathological Review. Dermatology Research and Practice. 2026（PMID 41523335、PMCID PMC12789810、CC BY、新規 SRC 候補）。裏づける部分と留保：背部・胸部・頸部に網目状に配列する瘙痒性の紅斑性丘疹・丘疹小水疱、病期により異なる組織像（初期の表層性血管周囲性好中球浸潤、後期の海綿状態や壊死性の角化細胞）、ミノサイクリンを第一選択とするテトラサイクリン系治療とダプソンの位置づけという、臨床像・組織像・治療のパターンは CC BY 全文で裏づけられる。全文の逐語照合は登録時に行うことが望ましい。マクロライド系抗菌薬の位置づけは候補では確認していない'
   uncertainty: 薬剤（ミノサイクリン、ドキシサイクリン、マクロライド系抗菌薬、ダプソン）の国内承認・保険適用は未確認。出典は2015年の総説であり、その後の知見（ケトーシスとの関連など）は反映されていない可能性がある。内容は抄録で確認した範囲に限った。
   curriculum:
@@ -553,6 +559,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ26 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1080 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: SK-016
   domain: SK
   subdomain: 湿疹反応
@@ -686,7 +695,7 @@
     url: https://doi.org/10.1111/j.1365-4632.2011.05348.x
     source_license: Wiley（CCライセンス表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 薬剤（再発予防に用いる抗ウイルス薬など）の国内承認・保険適用は未確認。出典は2012年の総説であり、その後の疾患概念の整理（マイコプラズマ関連の発疹と粘膜炎など、後年提唱された分類）は含まれていない。内容は抄録で確認した範囲に限った。
   curriculum:
@@ -702,6 +711,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1082 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: SK-020
   domain: SK
   subdomain: 結節性紅斑
@@ -759,7 +771,7 @@
     url: https://doi.org/10.1016/j.jid.2016.03.023
     source_license: © The Authors / Elsevier（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 米国の成人の入院データに基づく数値で、日本の発症頻度や死亡割合とは異なる可能性がある。症例の同定は ICD コードによるため、臨床診断とのずれがありうる。
   curriculum:
@@ -775,6 +787,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1084 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: SK-022
   domain: SK
   subdomain: 中毒性表皮壊死症
@@ -794,7 +809,7 @@
     url: https://doi.org/10.1046/j.1523-1747.2000.00061.x
     source_license: Elsevier（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: SCORTEN のスコア別の予測死亡率は本文の表に示されるが、抄録の範囲では確認できなかったため数値を入れていない。スコアは2000年に開発された集団に基づいており、現在の治療成績とは異なる可能性がある。
   curriculum:
@@ -810,6 +825,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1085 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: SK-023
   domain: SK
   subdomain: 薬剤性過敏症症候群
@@ -902,7 +920,7 @@
     url: https://doi.org/10.1001/jamadermatol.2017.5980
     source_license: © American Medical Association（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 対象は潰瘍型の壊疽性膿皮症であり、水疱型や膿疱型などの他の臨床型にそのまま当てはまるかは未検証である。基準は専門家コンセンサスに基づく。
   curriculum:
@@ -918,6 +936,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1088 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: SK-026
   domain: SK
   subdomain: 血栓性静脈炎
@@ -937,7 +958,7 @@
     url: https://doi.org/10.1056/NEJMoa0912072
     source_license: © Massachusetts Medical Society（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ26 2026-11-11）：ClinicalTrials.gov NCT00443053（CALISTO、結果掲載あり）。裏づける部分と留保：対象3,002人と主要評価項目（複合）の実数 13対88 はカードの発生率 0.9% 対 5.9% と一致し、相対リスク減少85%の土台を登録レコードで裏づけられる。肺塞栓症または深部静脈血栓症の内訳（0.2%対1.3%）と大出血（両群1人）は本調査の登録表示の範囲では照合していない。フォンダパリヌクスの国内適応の注記は未確認のまま
   uncertainty: 本カードに名前の出る薬剤（フォンダパリヌクス）の国内の承認・保険適用（表在性静脈血栓症への適応を含む）は未確認。対象は、受診時に深部静脈血栓症や症候性肺塞栓症を合併していない患者である。
   curriculum:
@@ -956,6 +977,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ26 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1089 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: SK-027
   domain: SK
   subdomain: 凍瘡
@@ -975,7 +999,7 @@
     url: https://doi.org/10.1024/0301-1526/a000838
     source_license: Hogrefe（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本カードに名前の出る薬剤（ニフェジピン）の凍瘡に対する国内の承認・保険適用は未確認。総説であり、個々の治療法の効果については研究間で結果が一致していない。
   curriculum:
@@ -991,6 +1015,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1090 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: SK-028
   domain: SK
   subdomain: 網状皮斑
@@ -1010,7 +1037,7 @@
     url: https://doi.org/10.1016/j.jaad.2004.11.051
     source_license: © American Academy of Dermatology / Elsevier（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 原因疾患の一覧は出典の本文の表に示されており、抄録の範囲では確認できなかったため、個別の原因疾患名は主張文に入れていない。2005年の総説である。
   curriculum:
@@ -1026,6 +1053,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1091 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: SK-029
   domain: SK
   subdomain: 重症薬疹の全身管理
@@ -1045,7 +1075,7 @@
     url: https://doi.org/10.4103/0378-6323.191134
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本カードに名前の出る薬剤（プレドニゾロン、シクロスポリン、免疫グロブリン製剤など）の重症薬疹に対する国内の承認・保険適用は未確認。推奨はインドの診療環境に合わせて作られたもので、日本の診療方針と異なる場合がある。用量はガイドラインの推奨文（抄録）から読み取った。
   curriculum:
@@ -1061,6 +1091,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1092 の照合結果に合わせる）。作り手（Muse）のライセンス照合 第2回（reports/license_check_02_muse.md、2026-11-24）
 - id: SK-030
   domain: SK
   subdomain: アトピー性皮膚炎の合併症

@@ -1,6 +1,6 @@
 # ES 食道 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 91 件のうち、監修済み 0 件。
 
@@ -288,7 +288,7 @@
 - 鑑別・補足：日本で使える局所ステロイド製剤と保険適用は要確認
 - よくある誤解：全身ステロイドが第一選択と考える
 - 不確実性：medium
-- 出典：ACG Clinical Guideline: EoE. Am J Gastroenterol 2025　[DOI 10.14309/ajg.0000000000003194](https://doi.org/10.14309/ajg.0000000000003194)　[PMID 39745304](https://pubmed.ncbi.nlm.nih.gov/39745304/)（区分 UNKNOWN）
+- 出典：ACG Clinical Guideline: EoE. Am J Gastroenterol 2025　[DOI 10.14309/ajg.0000000000003194](https://doi.org/10.14309/ajg.0000000000003194)　[PMID 39745304](https://pubmed.ncbi.nlm.nih.gov/39745304/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-5-A-②（消化管アレルギー、好酸球性胃腸炎、好酸球性食道炎、b）　コアカリ：PS-02-08-05 (id: JkxnuRY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ES-022&card_id=ES-022&version=6d7c7ef645)　（版 `6d7c7ef645`）
 

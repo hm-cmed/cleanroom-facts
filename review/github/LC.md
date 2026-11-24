@@ -1,6 +1,6 @@
 # LC 気管支・肺・胸膜・縦隔の腫瘍 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 55 件のうち、監修済み 0 件。
 
@@ -76,7 +76,7 @@
 
 - 条件：region: 米国
 - 不確実性：抄録で確認。対象の年齢と喫煙歴の条件は確認した頁に記載がなく、主張文に含めていない。DOI は未確認
-- 出典：National Lung Screening Trial Research Team, Aberle DR, Adams AM, et al. Reduced lung-cancer mortality with low-dose computed tomographic screening. N Engl J Med 2011;365:395-409　[PMID 21714641](https://pubmed.ncbi.nlm.nih.gov/21714641/)（区分 UNKNOWN）
+- 出典：National Lung Screening Trial Research Team, Aberle DR, Adams AM, et al. Reduced lung-cancer mortality with low-dose computed tomographic screening. N Engl J Med 2011;365:395-409　[PMID 21714641](https://pubmed.ncbi.nlm.nih.gov/21714641/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)；TBL-02-06-023 (id: JlAKpiY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-007&card_id=LC-007&version=64b75c0feb)　（版 `64b75c0feb`）
 
@@ -87,7 +87,7 @@
 - 条件：region: 米国
 - よくある誤解：低線量CTは胸部エックス線より陽性になる割合が低い
 - 不確実性：抄録で確認。陽性のうち肺癌だった割合（偽陽性の割合）は確認した頁に記載がなく未作成
-- 出典：National Lung Screening Trial Research Team, Aberle DR, Adams AM, et al. Reduced lung-cancer mortality with low-dose computed tomographic screening. N Engl J Med 2011;365:395-409　[PMID 21714641](https://pubmed.ncbi.nlm.nih.gov/21714641/)（区分 UNKNOWN）
+- 出典：National Lung Screening Trial Research Team, Aberle DR, Adams AM, et al. Reduced lung-cancer mortality with low-dose computed tomographic screening. N Engl J Med 2011;365:395-409　[PMID 21714641](https://pubmed.ncbi.nlm.nih.gov/21714641/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)；TBL-02-06-023 (id: JlAKpiY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-008&card_id=LC-008&version=841dc4809a)　（版 `841dc4809a`）
 

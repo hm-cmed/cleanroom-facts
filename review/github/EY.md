@@ -1,6 +1,6 @@
 # EY 視機能・視神経、眼窩・外眼部・前眼部・眼球の疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 58 件のうち、監修済み 0 件。
 
@@ -412,7 +412,7 @@
 
 - 条件：region: ヨーロッパ／study: EUGOGO臨床診療ガイドライン2021
 - 不確実性：活動性スコアの個別項目は抄録で確認できなかったため記載していない。眼症の治療そのものはTH-017を正とし、本カードでは評価と紹介の側面に限った。
-- 出典：Bartalena L, et al. The 2021 European Group on Graves' orbitopathy (EUGOGO) clinical practice guidelines for the medical management of Graves' orbitopathy. Eur J Endocrinol. 2021;185(4):G43-G67　[DOI 10.1530/EJE-21-0479](https://doi.org/10.1530/EJE-21-0479)　[PMID 34297684](https://pubmed.ncbi.nlm.nih.gov/34297684/)（区分 UNKNOWN）
+- 出典：Bartalena L, et al. The 2021 European Group on Graves' orbitopathy (EUGOGO) clinical practice guidelines for the medical management of Graves' orbitopathy. Eur J Endocrinol. 2021;185(4):G43-G67　[DOI 10.1530/EJE-21-0479](https://doi.org/10.1530/EJE-21-0479)　[PMID 34297684](https://pubmed.ncbi.nlm.nih.gov/34297684/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-A-②（眼球突出、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-035&card_id=EY-035&version=2743f3468d)　（版 `2743f3468d`）
 

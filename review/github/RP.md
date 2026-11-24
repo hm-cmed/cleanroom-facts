@@ -1,6 +1,6 @@
 # RP 月経異常・不妊・避妊・更年期 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 62 件のうち、監修済み 0 件。
 
@@ -220,7 +220,7 @@
 
 - 条件：region: 米国／study: 内分泌学会診療ガイドライン（2017年、機能性視床下部性無月経）
 - 不確実性：出典は機能性視床下部性無月経に特化したガイドラインであり、初期検査の項目立てはその文脈に基づく。月経異常全般に対する日本の検査指針との対応は未確認である。各ホルモンの基準値や測定のタイミング（周期何日目か）の詳細は主張に含めていない。AMHなどの検査の日本での保険適用の状況は未確認である。
-- 出典：Gordon CM, Ackerman KE, Berga SL, Kaplan JR, Mastorakos G, Misra M, Murad MH, Santoro NF, Warren MP. Functional Hypothalamic Amenorrhea: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2017;102(5):1413-1439.　[DOI 10.1210/jc.2017-00131](https://doi.org/10.1210/jc.2017-00131)　[PMID 28368518](https://pubmed.ncbi.nlm.nih.gov/28368518/)（区分 UNKNOWN）
+- 出典：Gordon CM, Ackerman KE, Berga SL, Kaplan JR, Mastorakos G, Misra M, Murad MH, Santoro NF, Warren MP. Functional Hypothalamic Amenorrhea: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2017;102(5):1413-1439.　[DOI 10.1210/jc.2017-00131](https://doi.org/10.1210/jc.2017-00131)　[PMID 28368518](https://pubmed.ncbi.nlm.nih.gov/28368518/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-A-①（視床下部性無月経、a）；医学各論 Ⅷ-8-A-②（下垂体性無月経、b）；医学各論 Ⅷ-8-A-③（卵巣性無月経、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-019&card_id=RP-019&version=9dbb3aead2)　（版 `9dbb3aead2`）
 
@@ -252,7 +252,7 @@
 
 - 条件：region: 国際／study: WHO ガイダンス策定のためのエビデンス分析（2016年）
 - 不確実性：本出典は PCOS による無排卵を中心に扱っており、視床下部性や高プロラクチン血症など他の排卵障害の分類の詳細は本文で確認していないため、主張は PCOS 中心の範囲に限った。排卵誘発薬の国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】2022年4月から一般不妊治療・生殖補助医療が保険適用となり、排卵誘発薬（クロミフェンクエン酸塩は公知申請で「生殖補助医療における調節卵巣刺激」を追加、HMG・FSH製剤等）も薬事承認の範囲で保険適用となった（こども家庭庁・厚労省資料、日本生殖医学会の保険適用情報）。
-- 出典：Balen AH, Morley LC, Misso M, et al. The management of anovulatory infertility in women with polycystic ovary syndrome: an analysis of the evidence to support the development of global WHO guidance. Human Reproduction Update. 2016;22(6):687-708.　[DOI 10.1093/humupd/dmw025](https://doi.org/10.1093/humupd/dmw025)　[PMID 27511809](https://pubmed.ncbi.nlm.nih.gov/27511809/)（区分 UNKNOWN）
+- 出典：Balen AH, Morley LC, Misso M, et al. The management of anovulatory infertility in women with polycystic ovary syndrome: an analysis of the evidence to support the development of global WHO guidance. Human Reproduction Update. 2016;22(6):687-708.　[DOI 10.1093/humupd/dmw025](https://doi.org/10.1093/humupd/dmw025)　[PMID 27511809](https://pubmed.ncbi.nlm.nih.gov/27511809/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-D-③（無排卵、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-021&card_id=RP-021&version=584097821d)　（版 `584097821d`）
 
@@ -342,7 +342,7 @@
 
 - 条件：region: 国際／study: WHO ガイダンス策定のためのエビデンス分析（2016年）
 - 不確実性：本出典は PCOS に伴う卵胞発育障害が中心であり、早発卵巣不全や視床下部性の卵胞発育障害は対象外である。排卵誘発薬やゴナドトロピン製剤の国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】排卵誘発薬・ゴナドトロピン製剤は承認・保険適用あり。hCG製剤等の効能に無排卵症・一般不妊治療における排卵誘発が含まれ、不妊治療の保険適用拡大（2022年4月1日）で生殖補助医療の適応も追加された（PMDA審査報告書・厚生労働省通知、2026-10-31確認）
-- 出典：Balen AH, Morley LC, Misso M, et al. The management of anovulatory infertility in women with polycystic ovary syndrome: an analysis of the evidence to support the development of global WHO guidance. Human Reproduction Update. 2016;22(6):687-708.　[DOI 10.1093/humupd/dmw025](https://doi.org/10.1093/humupd/dmw025)　[PMID 27511809](https://pubmed.ncbi.nlm.nih.gov/27511809/)（区分 UNKNOWN）
+- 出典：Balen AH, Morley LC, Misso M, et al. The management of anovulatory infertility in women with polycystic ovary syndrome: an analysis of the evidence to support the development of global WHO guidance. Human Reproduction Update. 2016;22(6):687-708.　[DOI 10.1093/humupd/dmw025](https://doi.org/10.1093/humupd/dmw025)　[PMID 27511809](https://pubmed.ncbi.nlm.nih.gov/27511809/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-E-①（女性不妊症、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；骨盤内臓器と腫瘍の画像診断 TBL-02-09-023 (id: JlAKppY)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-027&card_id=RP-027&version=dd1f66d5a3)　（版 `dd1f66d5a3`）
 
@@ -566,7 +566,7 @@
 
 - 条件：region: 米国／study: 米国の避妊失敗率の推計を更新した総説（2011年）
 - 不確実性：方法ごとの個別の妊娠率の数値は抄録に含まれず、本文の表を確認していないため主張文には入れていない。推計は米国のデータに基づき、日本の使用実態とは異なる可能性がある。
-- 出典：Trussell J. Contraceptive failure in the United States. Contraception. 2011;83(5):397-404.　[DOI 10.1016/j.contraception.2011.01.021](https://doi.org/10.1016/j.contraception.2011.01.021)　[PMID 21477680](https://pubmed.ncbi.nlm.nih.gov/21477680/)（区分 UNKNOWN）
+- 出典：Trussell J. Contraceptive failure in the United States. Contraception. 2011;83(5):397-404.　[DOI 10.1016/j.contraception.2011.01.021](https://doi.org/10.1016/j.contraception.2011.01.021)　[PMID 21477680](https://pubmed.ncbi.nlm.nih.gov/21477680/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-F（避妊、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-041&card_id=RP-041&version=df1275b0df)　（版 `df1275b0df`）
 
@@ -630,7 +630,7 @@
 
 - 条件：region: 米国／study: 米国の避妊失敗率の推計を更新した総説（2011年）
 - 不確実性：方法ごとの個別の妊娠率の数値は抄録に含まれず本文の表を確認していないため、主張文には定性的な表現にとどめた。外科的避妊の再疎通の可否や日本での実施状況は本出典では確認していない。
-- 出典：Trussell J. Contraceptive failure in the United States. Contraception. 2011;83(5):397-404.　[DOI 10.1016/j.contraception.2011.01.021](https://doi.org/10.1016/j.contraception.2011.01.021)　[PMID 21477680](https://pubmed.ncbi.nlm.nih.gov/21477680/)（区分 UNKNOWN）
+- 出典：Trussell J. Contraceptive failure in the United States. Contraception. 2011;83(5):397-404.　[DOI 10.1016/j.contraception.2011.01.021](https://doi.org/10.1016/j.contraception.2011.01.021)　[PMID 21477680](https://pubmed.ncbi.nlm.nih.gov/21477680/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-F（避妊、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-045&card_id=RP-045&version=9b4ce72b24)　（版 `9b4ce72b24`）
 
@@ -694,7 +694,7 @@
 
 - 条件：region: 国際／study: 北米閉経学会のホルモン療法に関する声明（2022年）
 - 不確実性：個別の製剤の用量や投与レジメンの詳細は抄録になく、主張文には入れていない。日本で使用できるエストロゲン・黄体ホルモン製剤の種類と、それぞれの国内承認・保険適用の状況は本出典では確認しておらず未確認である。
-- 出典：The North American Menopause Society. The 2022 hormone therapy position statement of The North American Menopause Society. Menopause. 2022;29(7):767-794.　[DOI 10.1097/GME.0000000000002028](https://doi.org/10.1097/GME.0000000000002028)　[PMID 35797481](https://pubmed.ncbi.nlm.nih.gov/35797481/)（区分 UNKNOWN）
+- 出典：The North American Menopause Society. The 2022 hormone therapy position statement of The North American Menopause Society. Menopause. 2022;29(7):767-794.　[DOI 10.1097/GME.0000000000002028](https://doi.org/10.1097/GME.0000000000002028)　[PMID 35797481](https://pubmed.ncbi.nlm.nih.gov/35797481/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-9-A（更年期障害、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-049&card_id=RP-049&version=070e1c85f0)　（版 `070e1c85f0`）
 
@@ -726,7 +726,7 @@
 
 - 条件：region: 国際／study: 米国内分泌学会の閉経後骨粗鬆症の薬物療法ガイドライン（2019年）の管理原則
 - 不確実性：骨密度の T スコアによる診断閾値などの個別の数値基準は抄録に含まれず本文で確認していないため、主張文には入れていない。日本骨粗鬆症学会の診断基準（脆弱性骨折の有無と骨密度による判定）は本出典とは別体系であり、未確認である。
-- 出典：Eastell R, Rosen CJ, Black DM, et al. Pharmacological Management of Osteoporosis in Postmenopausal Women: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2019;104(5):1595-1622.　[DOI 10.1210/jc.2019-00221](https://doi.org/10.1210/jc.2019-00221)　[PMID 30907953](https://pubmed.ncbi.nlm.nih.gov/30907953/)（区分 UNKNOWN）
+- 出典：Eastell R, Rosen CJ, Black DM, et al. Pharmacological Management of Osteoporosis in Postmenopausal Women: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2019;104(5):1595-1622.　[DOI 10.1210/jc.2019-00221](https://doi.org/10.1210/jc.2019-00221)　[PMID 30907953](https://pubmed.ncbi.nlm.nih.gov/30907953/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-9-B-①（骨粗鬆症、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-051&card_id=RP-051&version=9152a04af3)　（版 `9152a04af3`）
 
@@ -742,7 +742,7 @@
 
 - 条件：region: 国際／study: 米国内分泌学会の閉経後骨粗鬆症の薬物療法ガイドライン（2019年）の管理原則
 - 不確実性：個別の薬剤（ビスホスホネート、デノスマブ、ロモソズマブなど）の推奨順位や骨折抑制効果の数値は抄録になく、主張文には入れていない。各薬剤の日本における承認・保険適用の状況は本出典では確認しておらず未確認である。
-- 出典：Eastell R, Rosen CJ, Black DM, et al. Pharmacological Management of Osteoporosis in Postmenopausal Women: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2019;104(5):1595-1622.　[DOI 10.1210/jc.2019-00221](https://doi.org/10.1210/jc.2019-00221)　[PMID 30907953](https://pubmed.ncbi.nlm.nih.gov/30907953/)（区分 UNKNOWN）
+- 出典：Eastell R, Rosen CJ, Black DM, et al. Pharmacological Management of Osteoporosis in Postmenopausal Women: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2019;104(5):1595-1622.　[DOI 10.1210/jc.2019-00221](https://doi.org/10.1210/jc.2019-00221)　[PMID 30907953](https://pubmed.ncbi.nlm.nih.gov/30907953/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-9-B-①（骨粗鬆症、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-052&card_id=RP-052&version=222b139e3a)　（版 `222b139e3a`）
 
@@ -774,7 +774,7 @@
 
 - 条件：region: 国際／study: 北米閉経学会のホルモン療法に関する声明（2022年）
 - 不確実性：脂質プロファイル（LDL コレステロールや中性脂肪）の個別の変化量は本出典の抄録になく、主張文には入れていない。心血管リスクに関する個別の推奨（スタチン等の使用）は扱っておらず、各薬剤の国内承認・保険適用も未確認である。
-- 出典：The North American Menopause Society. The 2022 hormone therapy position statement of The North American Menopause Society. Menopause. 2022;29(7):767-794.　[DOI 10.1097/GME.0000000000002028](https://doi.org/10.1097/GME.0000000000002028)　[PMID 35797481](https://pubmed.ncbi.nlm.nih.gov/35797481/)（区分 UNKNOWN）
+- 出典：The North American Menopause Society. The 2022 hormone therapy position statement of The North American Menopause Society. Menopause. 2022;29(7):767-794.　[DOI 10.1097/GME.0000000000002028](https://doi.org/10.1097/GME.0000000000002028)　[PMID 35797481](https://pubmed.ncbi.nlm.nih.gov/35797481/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-9-B-③（脂質異常症、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-055&card_id=RP-055&version=ba60145ce3)　（版 `ba60145ce3`）
 
@@ -918,7 +918,7 @@
 
 - 条件：region: 米国／study: 総説（無月経の診断・管理アプローチ。本文で定義を確認）
 - 不確実性：評価開始の目安のうち「乳房発育の開始から5年」は、本出典（2013年）の本文の記載による。元のカードの「3年」は本出典では確認できなかったため、出典の記載どおり5年とした。評価時期の基準は、資料の発行年や発行団体により異なる可能性がある。Am Fam Physician はDOIを付与していないためDOIはnullとした。
-- 出典：Klein DA, Poth MA. Amenorrhea: An Approach to Diagnosis and Management. Am Fam Physician. 2013;87(11):781-788.　[PMID 23939500](https://pubmed.ncbi.nlm.nih.gov/23939500/)（区分 UNKNOWN）
+- 出典：Klein DA, Poth MA. Amenorrhea: An Approach to Diagnosis and Management. Am Fam Physician. 2013;87(11):781-788.　[PMID 23939500](https://pubmed.ncbi.nlm.nih.gov/23939500/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-A-③（卵巣性無月経、b）；医学各論 Ⅷ-8-A-④（子宮性無月経、b）；医学各論 Ⅰ-4-A-②（Turner症候群、b）；医学各論 Ⅰ-4-B-①（腟欠損症、Mayer-Rokitansky-Küster-Hauser<MRKH>症候群、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-021 (id: JlAKppQ)；TBL-02-09-022 (id: JlAKppU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-065&card_id=RP-065&version=beacc614c0)　（版 `beacc614c0`）
 
@@ -934,7 +934,7 @@
 
 - 条件：region: 米国／study: 総説（無月経の診断・管理アプローチ）
 - 不確実性：定義と初期検査の内容は本出典（米国の総説）によるものであり、日本の診療での実施状況との細部の一致は未確認である。Am Fam Physician はDOIを付与していないためDOIはnullとした。
-- 出典：Klein DA, Poth MA. Amenorrhea: An Approach to Diagnosis and Management. Am Fam Physician. 2013;87(11):781-788.　[PMID 23939500](https://pubmed.ncbi.nlm.nih.gov/23939500/)（区分 UNKNOWN）
+- 出典：Klein DA, Poth MA. Amenorrhea: An Approach to Diagnosis and Management. Am Fam Physician. 2013;87(11):781-788.　[PMID 23939500](https://pubmed.ncbi.nlm.nih.gov/23939500/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-A-①（視床下部性無月経、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-066&card_id=RP-066&version=ce53cbe2cd)　（版 `ce53cbe2cd`）
 
@@ -966,7 +966,7 @@
 
 - 条件：region: 米国／対象: 思春期・成人女性
 - 不確実性：薬剤（経皮エストラジオール、経口プロゲスチン、経口避妊薬）を含むカードである。エストラジオール製剤は国内で承認されているが、機能性視床下部性無月経を効能・効果とする製剤はなく、本ガイドラインに基づく経皮エストラジオールの使用は適応外となる。無月経の診断・初期検査（ホルモン検査と解釈）の側面は、同じ出典に基づく既存の RP-019 が担っているため、本カードは原因・骨への影響・管理に絞った。出典内の位置：抄録（Conclusions）と、骨密度評価および治療（エネルギー不足の是正、心理的支援、経口避妊薬・骨作用薬・経皮エストラジオール）に関する推奨。治療推奨の細部はガイドラインの推奨要約で確認した範囲である。
-- 出典：Gordon CM, Ackerman KE, Berga SL, Kaplan JR, Mastorakos G, Misra M, Murad MH, Santoro NF, Warren MP. Functional Hypothalamic Amenorrhea: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2017;102(5):1413-1439　[DOI 10.1210/jc.2017-00131](https://doi.org/10.1210/jc.2017-00131)　[PMID 28368518](https://pubmed.ncbi.nlm.nih.gov/28368518/)（区分 UNKNOWN）
+- 出典：Gordon CM, Ackerman KE, Berga SL, Kaplan JR, Mastorakos G, Misra M, Murad MH, Santoro NF, Warren MP. Functional Hypothalamic Amenorrhea: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2017;102(5):1413-1439　[DOI 10.1210/jc.2017-00131](https://doi.org/10.1210/jc.2017-00131)　[PMID 28368518](https://pubmed.ncbi.nlm.nih.gov/28368518/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-A-①（視床下部性無月経、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-068&card_id=RP-068&version=c97a8200aa)　（版 `c97a8200aa`）
 

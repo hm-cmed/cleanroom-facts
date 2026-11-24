@@ -1,6 +1,6 @@
 # SK 炎症性皮膚疾患 の監修
 
-[← 一覧に戻る](README.md)　更新：2026-11-23
+[← 一覧に戻る](README.md)　更新：2026-11-24
 
 全 37 件のうち、監修済み 0 件。
 
@@ -174,7 +174,7 @@
 
 - 条件：region: 国際／study: 総説（文献レビュー）
 - 不確実性：薬剤（ミノサイクリン、ドキシサイクリン、マクロライド系抗菌薬、ダプソン）の国内承認・保険適用は未確認。出典は2015年の総説であり、その後の知見（ケトーシスとの関連など）は反映されていない可能性がある。内容は抄録で確認した範囲に限った。
-- 出典：Beutler BD, Cohen PR, Lee RA. Prurigo Pigmentosa: Literature Review. American Journal of Clinical Dermatology. 2015;16(6):533-543.　[DOI 10.1007/s40257-015-0154-4](https://doi.org/10.1007/s40257-015-0154-4)　[PMID 26334426](https://pubmed.ncbi.nlm.nih.gov/26334426/)（区分 UNKNOWN）
+- 出典：Beutler BD, Cohen PR, Lee RA. Prurigo Pigmentosa: Literature Review. American Journal of Clinical Dermatology. 2015;16(6):533-543.　[DOI 10.1007/s40257-015-0154-4](https://doi.org/10.1007/s40257-015-0154-4)　[PMID 26334426](https://pubmed.ncbi.nlm.nih.gov/26334426/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-C-②（色素性痒疹、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-064 (id: Jlvnlmk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-015&card_id=SK-015&version=f8bb23a960)　（版 `f8bb23a960`）
 
@@ -238,7 +238,7 @@
 
 - 条件：region: 米国／study: 総説（実践的な診断と治療）
 - 不確実性：薬剤（再発予防に用いる抗ウイルス薬など）の国内承認・保険適用は未確認。出典は2012年の総説であり、その後の疾患概念の整理（マイコプラズマ関連の発疹と粘膜炎など、後年提唱された分類）は含まれていない。内容は抄録で確認した範囲に限った。
-- 出典：Sokumbi O, Wetter DA. Clinical features, diagnosis, and treatment of erythema multiforme: a review for the practicing dermatologist. International Journal of Dermatology. 2012;51(8):889-902.　[DOI 10.1111/j.1365-4632.2011.05348.x](https://doi.org/10.1111/j.1365-4632.2011.05348.x)　[PMID 22788803](https://pubmed.ncbi.nlm.nih.gov/22788803/)（区分 UNKNOWN）
+- 出典：Sokumbi O, Wetter DA. Clinical features, diagnosis, and treatment of erythema multiforme: a review for the practicing dermatologist. International Journal of Dermatology. 2012;51(8):889-902.　[DOI 10.1111/j.1365-4632.2011.05348.x](https://doi.org/10.1111/j.1365-4632.2011.05348.x)　[PMID 22788803](https://pubmed.ncbi.nlm.nih.gov/22788803/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-E-①（多形滲出性紅斑、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-072 (id: JlvnlhE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-019&card_id=SK-019&version=8c8a3c5930)　（版 `8c8a3c5930`）
 
@@ -280,7 +280,7 @@
 
 - 条件：region: 米国／study: 全国入院データベース（Nationwide Inpatient Sample 2009〜2012年、成人）の解析
 - 不確実性：米国の成人の入院データに基づく数値で、日本の発症頻度や死亡割合とは異なる可能性がある。症例の同定は ICD コードによるため、臨床診断とのずれがありうる。
-- 出典：Hsu DY, Brieva J, Silverberg NB, Silverberg JI. Morbidity and Mortality of Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis in United States Adults. J Invest Dermatol. 2016;136(7):1387-1397　[DOI 10.1016/j.jid.2016.03.023](https://doi.org/10.1016/j.jid.2016.03.023)　[PMID 27039263](https://pubmed.ncbi.nlm.nih.gov/27039263/)（区分 UNKNOWN）
+- 出典：Hsu DY, Brieva J, Silverberg NB, Silverberg JI. Morbidity and Mortality of Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis in United States Adults. J Invest Dermatol. 2016;136(7):1387-1397　[DOI 10.1016/j.jid.2016.03.023](https://doi.org/10.1016/j.jid.2016.03.023)　[PMID 27039263](https://pubmed.ncbi.nlm.nih.gov/27039263/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-D-①（Stevens-Johnson症候群、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-078 (id: Jlvnlh8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-021&card_id=SK-021&version=a6737bc054)　（版 `a6737bc054`）
 
@@ -316,7 +316,7 @@
 
 - 条件：region: 国際／study: TEN専門施設に入院した患者（開発165人、検証75人）での重症度スコアの開発・検証研究
 - 不確実性：SCORTEN のスコア別の予測死亡率は本文の表に示されるが、抄録の範囲では確認できなかったため数値を入れていない。スコアは2000年に開発された集団に基づいており、現在の治療成績とは異なる可能性がある。
-- 出典：Bastuji-Garin S, Fouchard N, Bertocchi M, Roujeau JC, Revuz J, Wolkenstein P. SCORTEN: A Severity-of-Illness Score for Toxic Epidermal Necrolysis. J Invest Dermatol. 2000;115(2):149-153　[DOI 10.1046/j.1523-1747.2000.00061.x](https://doi.org/10.1046/j.1523-1747.2000.00061.x)　[PMID 10951229](https://pubmed.ncbi.nlm.nih.gov/10951229/)（区分 UNKNOWN）
+- 出典：Bastuji-Garin S, Fouchard N, Bertocchi M, Roujeau JC, Revuz J, Wolkenstein P. SCORTEN: A Severity-of-Illness Score for Toxic Epidermal Necrolysis. J Invest Dermatol. 2000;115(2):149-153　[DOI 10.1046/j.1523-1747.2000.00061.x](https://doi.org/10.1046/j.1523-1747.2000.00061.x)　[PMID 10951229](https://pubmed.ncbi.nlm.nih.gov/10951229/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-D-②（中毒性表皮壊死症<toxic epidermal necrolysis>、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-079 (id: Juyvxe4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-022&card_id=SK-022&version=608588ae25)　（版 `608588ae25`）
 
@@ -374,7 +374,7 @@
 
 - 条件：region: 国際／study: 潰瘍型壊疽性膿皮症の診断基準に関する国際専門家の Delphi コンセンサスと検証
 - 不確実性：対象は潰瘍型の壊疽性膿皮症であり、水疱型や膿疱型などの他の臨床型にそのまま当てはまるかは未検証である。基準は専門家コンセンサスに基づく。
-- 出典：Maverakis E, Ma C, Shinkai K, et al. Diagnostic Criteria of Ulcerative Pyoderma Gangrenosum: A Delphi Consensus of International Experts. JAMA Dermatol. 2018;154(4):461-466　[DOI 10.1001/jamadermatol.2017.5980](https://doi.org/10.1001/jamadermatol.2017.5980)　[PMID 29450466](https://pubmed.ncbi.nlm.nih.gov/29450466/)（区分 UNKNOWN）
+- 出典：Maverakis E, Ma C, Shinkai K, et al. Diagnostic Criteria of Ulcerative Pyoderma Gangrenosum: A Delphi Consensus of International Experts. JAMA Dermatol. 2018;154(4):461-466　[DOI 10.1001/jamadermatol.2017.5980](https://doi.org/10.1001/jamadermatol.2017.5980)　[PMID 29450466](https://pubmed.ncbi.nlm.nih.gov/29450466/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-F-②（壊疽性膿皮症、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-116 (id: Jlvnlmg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-025&card_id=SK-025&version=c90cb314b7)　（版 `c90cb314b7`）
 
@@ -390,7 +390,7 @@
 
 - 条件：region: 国際／study: 下肢の急性症候性表在性静脈血栓症を対象とした二重盲検ランダム化比較試験（CALISTO、3,002人）
 - 不確実性：本カードに名前の出る薬剤（フォンダパリヌクス）の国内の承認・保険適用（表在性静脈血栓症への適応を含む）は未確認。対象は、受診時に深部静脈血栓症や症候性肺塞栓症を合併していない患者である。
-- 出典：Decousus H, Prandoni P, Mismetti P, et al.; CALISTO Study Group. Fondaparinux for the Treatment of Superficial-Vein Thrombosis in the Legs. N Engl J Med. 2010;363(13):1222-1232　[DOI 10.1056/NEJMoa0912072](https://doi.org/10.1056/NEJMoa0912072)　[PMID 20860504](https://pubmed.ncbi.nlm.nih.gov/20860504/)（区分 UNKNOWN）
+- 出典：Decousus H, Prandoni P, Mismetti P, et al.; CALISTO Study Group. Fondaparinux for the Treatment of Superficial-Vein Thrombosis in the Legs. N Engl J Med. 2010;363(13):1222-1232　[DOI 10.1056/NEJMoa0912072](https://doi.org/10.1056/NEJMoa0912072)　[PMID 20860504](https://pubmed.ncbi.nlm.nih.gov/20860504/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-G-①（血栓性静脈炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-026&card_id=SK-026&version=0e08a924ed)　（版 `0e08a924ed`）
 
@@ -416,7 +416,7 @@
 
 - 条件：region: 欧州／study: 特発性凍瘡に関する文献レビュー（2020年）
 - 不確実性：本カードに名前の出る薬剤（ニフェジピン）の凍瘡に対する国内の承認・保険適用は未確認。総説であり、個々の治療法の効果については研究間で結果が一致していない。
-- 出典：Nyssen A, Benhadou F, Magnée M, André J, Koopmansch C, Wautrecht JC. Chilblains. Vasa. 2020;49(2):133-140　[DOI 10.1024/0301-1526/a000838](https://doi.org/10.1024/0301-1526/a000838)　[PMID 31808732](https://pubmed.ncbi.nlm.nih.gov/31808732/)（区分 UNKNOWN）
+- 出典：Nyssen A, Benhadou F, Magnée M, André J, Koopmansch C, Wautrecht JC. Chilblains. Vasa. 2020;49(2):133-140　[DOI 10.1024/0301-1526/a000838](https://doi.org/10.1024/0301-1526/a000838)　[PMID 31808732](https://pubmed.ncbi.nlm.nih.gov/31808732/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-G-②（凍瘡、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-027&card_id=SK-027&version=eca8ffc198)　（版 `eca8ffc198`）
 
@@ -432,7 +432,7 @@
 
 - 条件：region: 米国／study: 網状皮斑に関する総説（2005年）
 - 不確実性：原因疾患の一覧は出典の本文の表に示されており、抄録の範囲では確認できなかったため、個別の原因疾患名は主張文に入れていない。2005年の総説である。
-- 出典：Gibbs MB, English JC 3rd, Zirwas MJ. Livedo reticularis: An update. J Am Acad Dermatol. 2005;52(6):1009-1019　[DOI 10.1016/j.jaad.2004.11.051](https://doi.org/10.1016/j.jaad.2004.11.051)　[PMID 15928620](https://pubmed.ncbi.nlm.nih.gov/15928620/)（区分 UNKNOWN）
+- 出典：Gibbs MB, English JC 3rd, Zirwas MJ. Livedo reticularis: An update. J Am Acad Dermatol. 2005;52(6):1009-1019　[DOI 10.1016/j.jaad.2004.11.051](https://doi.org/10.1016/j.jaad.2004.11.051)　[PMID 15928620](https://pubmed.ncbi.nlm.nih.gov/15928620/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-G-③（網状皮斑、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-028&card_id=SK-028&version=526ff78e32)　（版 `526ff78e32`）
 
@@ -448,7 +448,7 @@
 
 - 条件：region: インド／study: SJS/TEN の管理ガイドライン（インド皮膚科・性病・ハンセン病学会の作業部会による、104論文の評価に基づく）
 - 不確実性：本カードに名前の出る薬剤（プレドニゾロン、シクロスポリン、免疫グロブリン製剤など）の重症薬疹に対する国内の承認・保険適用は未確認。推奨はインドの診療環境に合わせて作られたもので、日本の診療方針と異なる場合がある。用量はガイドラインの推奨文（抄録）から読み取った。
-- 出典：Gupta LK, Martin AM, Agarwal N, et al. Guidelines for the management of Stevens-Johnson syndrome/toxic epidermal necrolysis: An Indian perspective. Indian J Dermatol Venereol Leprol. 2016;82(6):603-625　[DOI 10.4103/0378-6323.191134](https://doi.org/10.4103/0378-6323.191134)　[PMID 27716721](https://pubmed.ncbi.nlm.nih.gov/27716721/)（区分 UNKNOWN）
+- 出典：Gupta LK, Martin AM, Agarwal N, et al. Guidelines for the management of Stevens-Johnson syndrome/toxic epidermal necrolysis: An Indian perspective. Indian J Dermatol Venereol Leprol. 2016;82(6):603-625　[DOI 10.4103/0378-6323.191134](https://doi.org/10.4103/0378-6323.191134)　[PMID 27716721](https://pubmed.ncbi.nlm.nih.gov/27716721/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-D-②（中毒性表皮壊死症<toxic epidermal necrolysis>、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-079 (id: Juyvxe4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-029&card_id=SK-029&version=35b5ae1d46)　（版 `35b5ae1d46`）
 
