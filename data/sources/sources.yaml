@@ -40850,3 +40850,183 @@
   - date: '2026-11-24'
     by: claude-code
     change: 取り込み：raw/ME4_IT.md の出典マスター表から
+- id: SRC-5400
+  legacy_id: null
+  title: 歯科医師法（昭和23年法律第202号、現行法）
+  citation: 歯科医師法（昭和23年法律第202号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME5_other_professions.md の出典表から（表の列名が取り込みスクリプトの想定と違うため、書誌・ライセンス・legal_basis を表から転記）
+- id: SRC-5401
+  legacy_id: null
+  title: 厚生労働省 医道審議会歯科医師分科会. シームレスな歯科医師養成に向けた共用試験の公的化といわゆるStudent Dentistの法的位置づけについて（報告書）. 令和2年5月
+  citation: 厚生労働省 医道審議会歯科医師分科会. シームレスな歯科医師養成に向けた共用試験の公的化といわゆるStudent Dentistの法的位置づけについて（報告書）. 令和2年5月
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME5_other_professions.md の出典表から（表の列名が取り込みスクリプトの想定と違うため、書誌・ライセンス・legal_basis を表から転記）
+- id: SRC-5404
+  legacy_id: null
+  title: 文部科学省. 薬学教育モデル・コア・カリキュラム（令和4年度改訂版）. 令和5年2月
+  citation: 文部科学省. 薬学教育モデル・コア・カリキュラム（令和4年度改訂版）. 令和5年2月
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（文部科学省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME5_other_professions.md の出典表から（表の列名が取り込みスクリプトの想定と違うため、書誌・ライセンス・legal_basis を表から転記）
+- id: SRC-5405
+  legacy_id: null
+  title: 薬剤師法（昭和35年法律第146号、現行法）
+  citation: 薬剤師法（昭和35年法律第146号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME5_other_professions.md の出典表から（表の列名が取り込みスクリプトの想定と違うため、書誌・ライセンス・legal_basis を表から転記）
+- id: SRC-5406
+  legacy_id: null
+  title: 厚生労働省. 薬剤師国家試験出題基準（平成28年11月22日とりまとめ、第106回以降適用）
+  citation: 厚生労働省. 薬剤師国家試験出題基準（平成28年11月22日とりまとめ、第106回以降適用）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME5_other_professions.md の出典表から（表の列名が取り込みスクリプトの想定と違うため、書誌・ライセンス・legal_basis を表から転記）
+- id: SRC-5407
+  legacy_id: null
+  title: 文部科学省 大学における看護系人材養成の在り方に関する検討会. 看護学教育モデル・コア・カリキュラム. 平成29年10月
+  citation: 文部科学省 大学における看護系人材養成の在り方に関する検討会. 看護学教育モデル・コア・カリキュラム. 平成29年10月
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（文部科学省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME5_other_professions.md の出典表から（表の列名が取り込みスクリプトの想定と違うため、書誌・ライセンス・legal_basis を表から転記）
+- id: SRC-5408
+  legacy_id: null
+  title: 保健師助産師看護師学校養成所指定規則（昭和26年文部省・厚生省令第1号、現行法）
+  citation: 保健師助産師看護師学校養成所指定規則（昭和26年文部省・厚生省令第1号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME5_other_professions.md の出典表から（表の列名が取り込みスクリプトの想定と違うため、書誌・ライセンス・legal_basis を表から転記）
+- id: SRC-5409
+  legacy_id: null
+  title: 保健師助産師看護師法（昭和23年法律第203号、現行法）
+  citation: 保健師助産師看護師法（昭和23年法律第203号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME5_other_professions.md の出典表から（表の列名が取り込みスクリプトの想定と違うため、書誌・ライセンス・legal_basis を表から転記）
+- id: SRC-5410
+  legacy_id: null
+  title: 厚生労働省. 保健師助産師看護師国家試験出題基準（令和5年版）. 令和4年3月
+  citation: 厚生労働省. 保健師助産師看護師国家試験出題基準（令和5年版）. 令和4年3月
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME5_other_professions.md の出典表から（表の列名が取り込みスクリプトの想定と違うため、書誌・ライセンス・legal_basis を表から転記）
+- id: SRC-5412
+  legacy_id: null
+  title: 保健師助産師看護師法第三十七条の二第二項第一号に規定する特定行為及び同項第四号に規定する特定行為研修に関する省令（平成27年厚生労働省令第33号、現行法）
+  citation: 保健師助産師看護師法第三十七条の二第二項第一号に規定する特定行為及び同項第四号に規定する特定行為研修に関する省令（平成27年厚生労働省令第33号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME5_other_professions.md の出典表から（表の列名が取り込みスクリプトの想定と違うため、書誌・ライセンス・legal_basis を表から転記）
+- id: SRC-5413
+  legacy_id: null
+  title: 理学療法士作業療法士学校養成施設指定規則（昭和41年文部省・厚生省令第3号、現行法）
+  citation: 理学療法士作業療法士学校養成施設指定規則（昭和41年文部省・厚生省令第3号、現行法）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 法令（著作権法13条により権利の目的とならない）
+  legacy_basis_tag: null
+  legal_basis: C
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME5_other_professions.md の出典表から（表の列名が取り込みスクリプトの想定と違うため、書誌・ライセンス・legal_basis を表から転記）
+- id: SRC-5415
+  legacy_id: null
+  title: 厚生労働省 医道審議会薬剤師分科会. 新薬剤師国家試験について. 平成22年1月（薬食発0120010号に添付）
+  citation: 厚生労働省 医道審議会薬剤師分科会. 新薬剤師国家試験について. 平成22年1月（薬食発0120010号に添付）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ホームページ）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-24'
+    by: claude-code
+    change: 取り込み：raw/ME5_other_professions.md の出典表から（表の列名が取り込みスクリプトの想定と違うため、書誌・ライセンス・legal_basis を表から転記）
