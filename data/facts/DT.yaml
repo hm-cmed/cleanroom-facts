@@ -362,7 +362,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/29261940/
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ20 2026-11-11）：ISSVA 分類2022の総説（Int J Mol Sci、CC BY、DOI 10.3390/ijms23042358、PMID 35216474）：リンパ管病変は脈管性腫瘍と区別される単純型の脈管奇形に位置づけられるという枠組みのみ（カードの深部型・表在型の分類と頻度は対象外。ISSVA 以前の枠組みである点は DT-040 と併存）
   uncertainty: 分類と頻度は出典の抄録と章の本文で確認した。治療（硬化療法・外科切除）の適応の詳細は本カードでは確認した範囲を超えるため含めていない。日本で用いられる硬化剤の国内事情も本出典の範囲外である。出典のライセンス表示は確認できなかった。
   curriculum:
@@ -384,6 +384,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ20 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1104 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DT-011
   domain: DT
   subdomain: 粉瘤
@@ -403,7 +406,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/29763149/
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 記載は章の要旨で確認した範囲である。感染時の対応や摘出術式の詳細は本カードに含めていない。出典のライセンス表示は確認できなかった。
   curriculum:
@@ -422,6 +425,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した DT-041 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1105 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DT-012
   domain: DT
   subdomain: 脂漏性角化症
@@ -441,7 +447,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/31424869/
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ20 2026-11-11）：Lubis SND, Putra IB. An update on the diagnosis and treatment of seborrheic keratosis. Front Med. 2026（CC BY、DOI 10.3389/fmed.2026.1764657、PMID 42761491、PMC13587691）：高齢者に多い良性の表皮腫瘍、境界明瞭、加齢とともに拡大、治療は通常不要、悪性腫瘍との鑑別が重要。「未熟な角化細胞の良性増殖」と形態の一般形、自然消退がまれな点は対象外
   uncertainty: 記載は章の導入部で確認した範囲である。ダーモスコピーの具体的所見や除去手技（凍結療法・掻爬など）の適応の詳細は本カードに含めていない。出典のライセンス表示は確認できなかった。
   curriculum:
@@ -463,6 +469,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ20 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1106 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DT-013
   domain: DT
   subdomain: ケラトアカントーマ
@@ -520,7 +529,7 @@
     url: https://doi.org/10.2119/molmed.2009.00153
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 記載は抄録で確認した範囲である。ケロイドと肥厚性瘢痕の鑑別点（元の創の範囲を超えるかどうか等）や、ステロイド局注をはじめとする個別治療の適応・成績は抄録の範囲外であり、本カードに含めていない（薬剤名も挙げていない）。出典のライセンス表示は確認できなかった（PMC・Crossref で CC の表示なし）。
   curriculum:
@@ -536,6 +545,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1108 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DT-015
   domain: DT
   subdomain: 皮膚線維腫
@@ -666,7 +678,7 @@
     url: https://doi.org/10.1016/j.jaci.2015.08.034
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 記載は抄録で確認した分類の提案の範囲である。Darier徴候などの臨床所見や、抗ヒスタミン薬をはじめとする治療の詳細は抄録の範囲外であり、本カードに含めていない（薬剤名も挙げていない）。出典のライセンス表示は確認できなかった。
   curriculum:
@@ -682,6 +694,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1110 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DT-019
   domain: DT
   subdomain: 有棘細胞癌
@@ -736,7 +751,7 @@
     url: https://doi.org/10.1056/NEJMoa1805131
     source_license: © Massachusetts Medical Society（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_JP（PMDA、公共データ利用規約第1.0版。要約して記載）、作り手の調査 2026-11-11）：PMDA 審議結果報告書（セミプリマブ）：2026-08-24 に根治切除不能な進行・再発の有棘細胞癌と、再発リスクが高い有棘細胞癌の術後補助療法の適応追加
   uncertainty: セミプリマブの国内の承認・保険適用は未確認。数値は抄録に記載された第2相試験の転移性コホートの結果であり、追跡期間の中央値は7.9か月である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】セミプリマブ（リブタヨ）が2026年8月24日に「根治切除不能な進行・再発の有棘細胞癌」および「再発リスクが高い有棘細胞癌における術後補助療法」の適応追加を取得（PMDA最適使用推進ガイドライン、同日付）
   curriculum:
@@ -758,6 +773,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP（PMDA、公共データ利用規約第1.0版。要約して記載）、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1117 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DT-021
   domain: DT
   subdomain: 基底細胞癌
@@ -847,7 +865,7 @@
     url: https://doi.org/10.3322/caac.21409
     source_license: © 2017 American Cancer Society（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 病期分類の定義は出典論文の抄録から読み取り。病期分類表の全体（N分類・M分類の詳細）は本文を確認していない。日本の取扱い規約の病期分類との対応は未確認。
   curriculum:
@@ -863,6 +881,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1114 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DT-024
   domain: DT
   subdomain: 悪性黒色腫
@@ -917,7 +938,7 @@
     url: https://doi.org/10.1007/s10147-007-0751-1
     source_license: Springer TDM license（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 1987〜2001年の登録データに基づく2008年の報告であり、現在の全国がん登録に基づく最新の頻度は未確認。施設登録ベースの集計で、人口ベースの罹患率ではない。
   curriculum:
@@ -933,6 +954,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1111 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DT-026
   domain: DT
   subdomain: 日光角化症
@@ -1162,7 +1186,7 @@
     url: https://doi.org/10.1111/j.1365-2133.2008.08713.x
     source_license: Wiley TDM license（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 2008年のメタ解析であり、外れ値の研究を除くと相対診断オッズ比は9.0（95%信頼区間 1.5〜54.6）であった。デジタルダーモスコピーや人工知能支援診断の精度は含まれていない。
   curriculum:
@@ -1178,6 +1202,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1113 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DT-033
   domain: DT
   subdomain: 粉瘤
@@ -1197,7 +1224,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/30335343/
     source_license: © StatPearls Publishing（CC表示を未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: StatPearls の章には DOI が付与されていない（PubMed レコードで確認）。再発が残存した嚢胞壁によるとの記載は同章の自然経過の項に基づく。切除手技の詳細は確認していない。
   curriculum:
@@ -1216,6 +1243,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した DT-043 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1123 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DT-034
   domain: DT
   subdomain: 悪性黒色腫
@@ -1235,7 +1265,7 @@
     url: https://doi.org/10.1056/NEJMoa1613210
     source_license: © Massachusetts Medical Society（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値は抄録に記載された per-protocol 解析の3年時点の結果とリンパ浮腫の頻度である。センチネルリンパ節生検そのものの適応基準（腫瘍厚の閾値）はこの試験の対象外であり、本カードでは扱っていない。
   curriculum:
@@ -1251,6 +1281,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1124 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DT-035
   domain: DT
   subdomain: 悪性黒色腫
@@ -1270,7 +1303,7 @@
     url: https://doi.org/10.1200/JCO.2010.28.7078
     source_license: © American Society of Clinical Oncology（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 全メラノーマに対するハザード比の95%信頼区間は1.02までを含み、統計学的な境界上の結果である。対象はオーストラリアの成人であり、日本人での効果を直接示すものではない。
   curriculum:
@@ -1286,6 +1319,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1125 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DT-036
   domain: DT
   subdomain: 色素性母斑
@@ -1305,7 +1341,7 @@
     url: https://doi.org/10.1001/jama.292.22.2771
     source_license: © American Medical Association（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 2004年の総説であり、1980〜2004年の文献に基づく。日本の患者で多い末端黒子型など病型ごとの見分け方は扱っていない。
   curriculum:
@@ -1321,6 +1357,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/23_ds_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1126 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DT-037
   domain: DT
   subdomain: 母斑の総論
@@ -1340,7 +1379,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/29983155/
     source_license: Elsevier España（CC 表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 元のカードにあった「脂腺母斑は器官様母斑に含まれる」という位置づけは、同総説の第2部（付属器由来の母斑）の範囲であり、本カードの出典（第1部）の抄録では確認できなかったため含めていない。薬剤名は含まない。
   curriculum:
@@ -1356,6 +1395,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1524 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DT-038
   domain: DT
   subdomain: 色素性母斑と太田母斑
@@ -1410,7 +1452,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/9108863/
     source_license: Elsevier（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 血小板数の最低値が3,000/mm3であったことは抄録から読み取り。元のカードにあった微小血管症性溶血性貧血は、本出典の抄録で明示されなかったため含めていない。治療の各論（個別の治療法の選択）は本出典の範囲外のため含めておらず、薬剤名は記載していない。
   curriculum:
@@ -1426,6 +1468,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1526 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DT-040
   domain: DT
   subdomain: リンパ管腫
@@ -1445,7 +1490,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/26055853/
     source_license: American Academy of Pediatrics（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 大嚢胞型・小嚢胞型・混合型の細分類は、ISSVA 公式分類の表（2025年版フロー図）から読み取り。元のカードにあった深部型・表在型という分け方と、嚢胞性リンパ管腫と染色体異常（トリソミーなど）との関連は、本出典の抄録の範囲では確認できなかったため含めていない。薬剤名は含まない。
   curriculum:
@@ -1461,6 +1506,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1527 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DT-041
   domain: DT
   subdomain: 粉瘤

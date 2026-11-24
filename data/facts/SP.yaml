@@ -55,7 +55,7 @@
     url: https://doi.org/10.1177/0269215514540919
     source_license: SAGE（Clinical Rehabilitation）、CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ47 2026-11-13）：Golubović J, Jelača B, Rodić D, Torbica S, Stošić S, Đilvesi Đ. Spontaneous Resorption of Lumbar Disc Herniation: A Narrative Review of Pathophysiology, Predictive Factors, and Clinical Decision-Making. NeuroSci. 2026;7(2):30（PMID: 41874033、DOI: 10.3390/neurosci7020030、PMCID: PMC13010770、https://europepmc.org/article/MED/41874033）。裏づける部分：候補（CC BY の叙述的総説）の全文に、保存治療下でヘルニアの自然退縮が起こること、脱出型・遊離型はよく退縮し（脱出型で約60〜70%と観察研究の範囲が示される）、膨隆・突出型では退縮が乏しいことが明記され、型による退縮しやすさの順序が裏づけられる。数値の照合：候補は Chiu ら 2015 の統合値そのもの（遊離型96%・脱出型70%・突出型41%・膨隆型13%、完全消失率43%・15%）は再掲しておらず、観察研究の範囲として脱出型約60〜70%等を示すにとどまる。カードの統合値と矛盾する値ではないため主張チェックとはせず、数値部分を留保して B。留保：候補は SP-003 と同一で、出典マスター未登録のため新規 SRC 登録候補。主出典（SRC-1782）は Crossref で TDM ライセンスのみ、Europe PMC でもライセンス表示がなく自由利用ではない'
   uncertainty: 画像で2回以上評価された保存治療例の研究を統合した値。国内ガイドライン（SRC-1781）でも、症候性ヘルニアの60%以上の例で画像上の退縮が認められ、遊離型・脱出型は吸収されやすいとされる。
   curriculum:
@@ -74,6 +74,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ47 2026-11-13）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1782 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SP-003
   domain: SP
   subdomain: 椎間板ヘルニア
@@ -245,7 +248,7 @@
     url: https://doi.org/10.1016/j.spinee.2017.08.241
     source_license: Elsevier（The Spine Journal）、CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ47 2026-11-13）：Thoomes EJ, Arvanitidis M, van Geest S, van der Windt DA, Verhagen AP, de Graaf M, Kuijper B, et al. Diagnostic accuracy of physical examination tests for painful cervical radiculopathy: update of a systematic review and meta-analysis. BMC Musculoskelet Disord. 2026;27(1):338（PMID: 41680685、DOI: 10.1186/s12891-026-09551-0、PMCID: PMC13088722、https://europepmc.org/article/MED/41680685）。裏づける部分：候補（CC BY の系統的レビュー更新版。主出典の筆頭著者と同一グループ）の全文に、Spurling テストは5研究で特異度が高く（0.84〜1.00）、感度は0.38〜0.98とばらつくこと、診断精度のエビデンスは乏しく確実性が非常に低いことが明記され、単独所見で診断を確定できないというカードの結論が裏づけられる。数値の照合：特異度はカード 0.89〜1.00 に対し候補 0.84〜1.00、感度はカード 0.38〜0.97 に対し候補 0.38〜0.98。候補は主出典（2018年版）を更新した系統的レビューで対象研究の組が異なるため範囲がわずかに広がっている。両値を記録する（主張チェック／サーベイランス：主出典の後継版が2026年に出ている）。留保：候補は出典マスター未登録のため新規 SRC 登録候補。主出典（SRC-1785）は Crossref で TDM ライセンスのみ、Europe PMC でもライセンス表示がなく自由利用ではない'
   uncertainty: 系統的レビューに含まれた診断精度研究は5件のみで、信頼区間は広い。頸椎椎間板ヘルニアによる神経根症も本項目の対象に含まれるが、ヘルニア単独のカードは作成していない。
   curriculum:
@@ -264,6 +267,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ47 2026-11-13）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1785 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SP-008
   domain: SP
   subdomain: 脊柱管狭窄症
@@ -508,7 +514,7 @@
     url: https://doi.org/10.1097/PEP.0000000000001114
     source_license: Wolters Kluwer（Pediatric Physical Therapy）、CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ47 2026-11-13）：Feng Y, Ren Q, Feng J, Ji Q, Li J. Endoscopic release of congenital muscular torticollis in children via a sub-platysmal approach: a retrospective study of 44 cases. Front Pediatr. 2026;14:1833236（PMID: 42382651、DOI: 10.3389/fped.2026.1833236、PMCID: PMC13315177、https://europepmc.org/article/MED/42382651）。裏づける部分：候補（CC BY の症例集積）の全文に、先天性筋性斜頸は胸鎖乳突筋の一側の拘縮による小児の筋骨格疾患であること、非手術的治療が乳児の第一選択であり、理学療法は早期に開始すると非常に有効であることが明記される。留保：「早期の発見と専門職への紹介」のうち紹介の文言そのものは候補になく、その部分を留保して B。主出典（SRC-1791）は Europe PMC・Crossref のいずれでもライセンス表示がなく自由利用とは確認できない。なお乳児の頸部側屈ストレッチ角度の研究（Ann Rehabil Med 2026、PMC13732155）は Europe PMC で CC BY-NC と表示され、候補から外した。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 出典は米国理学療法協会小児部門の診療ガイドライン（2024年改訂版）。思春期以降に発症する痙性斜頸（頸部ジストニア）は別の疾患であり、本カードの対象外（第29回 ND で作成済み）。
   curriculum:
@@ -527,6 +533,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ47 2026-11-13）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1791 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SP-015
   domain: SP
   subdomain: 側弯症
@@ -619,7 +628,7 @@
     url: https://doi.org/10.1097/BRS.0b013e3181354501
     source_license: Wolters Kluwer（Spine）、CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ47 2026-11-13）：Kaspiris A, Spyrou I, Panagopoulos F, Marougklianis V, Pelantis P, Vavourakis M, Sakellariou E, et al. Surgical Strategies and Challenges in Scheuermann''s Kyphosis: A Comprehensive Review. J Clin Med. 2025;14(12):4276（PMID: 40566021、DOI: 10.3390/jcm14124276、PMCID: PMC12194637、https://europepmc.org/article/MED/40566021）。裏づける部分：候補（CC BY の総説）の全文に、Scheuermann 病は脊柱の矢状面の成長障害で最も多いもので、12〜16歳の思春期に多く発症すること、骨格成長期に装具を用いることで進行を止めうることが明記される。留保：「装具治療により変形の部分的な矯正が得られる」という矯正の要素は、候補では進行の停止として述べられるにとどまり、その部分を留保して B。主出典（SRC-1794）は Crossref・Europe PMC のいずれでもライセンス表示がなく自由利用とは確認できない。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 診断基準の数値的細目（連続する椎体の楔状変形の程度など）は本出典の抄録では確認できなかったため記載していない。骨粗鬆症性椎体骨折による後弯については、本パートでは出典枠の都合で独立カードを作成していない（骨粗鬆症そのものは第31回 BD で扱う）。
   curriculum:
@@ -638,6 +647,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ47 2026-11-13）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1794 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SP-018
   domain: SP
   subdomain: 脊柱靱帯骨化症
@@ -692,7 +704,7 @@
     url: https://doi.org/10.1177/03635465241264804
     source_license: SAGE（American Journal of Sports Medicine）、CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ47 2026-11-13）：Madden V, Ayoub A, Thomas J, Thomas I. Spondylolysis: A Narrative Review of Etiology, Diagnosis, and Management. Int J Environ Res Public Health. 2026;23(2):153（PMID: 41752236、DOI: 10.3390/ijerph23020153、PMCID: PMC12940356、https://europepmc.org/article/MED/41752236）。裏づける部分：候補（CC BY の叙述的総説）の全文に、分離症は関節突起間部のストレス骨折であること、好発部位は L5（最大で95%）で次いで L4 であること、若年アスリートに多く、早期の診断と治療がすべり症への進行を防ぐうえで重要で、理学療法と装具による保存治療は早期に開始すると有効であることが明記される。留保：「早期に発見することで骨癒合が得られやすい」という骨癒合そのものの言及は候補では保存治療の有効性として述べられるにとどまり、その部分を留保して B。主出典（SRC-1796）は Crossref で TDM ライセンスのみ、Europe PMC でもライセンス表示がなく自由利用ではない。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 出典は MRI で評価された症候性アスリート902例の後ろ向きコホート。好発部位については、同論文が引用する先行研究（CT・単純X線時代の検討）でも L5・L4 が主とされる。
   curriculum:
@@ -711,6 +723,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ47 2026-11-13）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1796 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SP-020
   domain: SP
   subdomain: 脊椎すべり症
@@ -958,7 +973,7 @@
     url: https://doi.org/10.1001/jamaneurol.2018.2734
     source_license: AMA（JAMA Neurology）、CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ47 2026-11-13）：Abd Manap N, Mat Rabi M, Zainon R. Spinal Cord Infarction in a Young Patient After a Simple Stretching Maneuver: A Case Report of Rare Etiology and Diagnostic Challenges. Cureus. 2026;18(7):e112620（PMID: 42598034、DOI: 10.7759/cureus.112620、PMCID: PMC13471149、https://europepmc.org/article/MED/42598034）。裏づける部分：候補（CC BY の症例報告）の全文に、脊髄梗塞は通常は数時間以内に最大の重症度に達する突然の神経障害で発症すること、Zalewski らの診断基準が超急性の発症を重視すること、初期には横断性脊髄炎と誤診されうることが明記される。留保：「12時間以内に最大に達する例が77%」「感覚障害のある例の約4割で解離性所見」という主出典コホート固有の数値は候補に再掲がなく、その部分を留保して B。主出典（SRC-1802）自体は PMC に著者稿（PMC6440254）が収載されるがライセンス表示がなく自由利用ではない。PMCID は補完候補として申し送る。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 数値は Mayo Clinic の単施設シリーズ133例に基づく。痛覚・温度覚の選択的障害は前脊髄動脈領域の梗塞（前脊髄動脈症候群）のパターンに相当する。
   curriculum:
@@ -977,6 +992,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ47 2026-11-13）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1802 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SP-027
   domain: SP
   subdomain: 脊髄血管障害
@@ -996,7 +1014,7 @@
     url: https://doi.org/10.1097/01.wco.0000200547.22292.11
     source_license: Wolters Kluwer（Current Opinion in Neurology）、CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の判定 A を B として反映、作り手の調査バッチ47 2026-11-13）：Jakubowicz-Lachowska D, Wierciński M, Kapica-Topczewska K, Kułakowska A, Tarasow E, Kochaniak A, et al. When Flow Voids Are Missed: Delayed Diagnosis of Foix-Alajouanine Syndrome-A Case Report. Neurol Int. 2026;18(10):188／Vukašinović I, Zivkovic B, Nedeljkovic Z, Micovic M, Petrovic M, Stanic L, Nedeljkovic A, Bascarevic V. Multidisciplinary Management of Spinal Dural Arteriovenous Fistulas Using an Endovascular-First Treatment Strategy: A Nine-Year Single-Center Retrospective Analysis. Neurol Int. 2026;18(7):137（PMID: 42931142、DOI: 10.3390/neurolint18100188、PMCID: PMC13708201、https://europepmc.org/article/MED/42931142）。裏づける部分：主張全体：候補1（CC BY の症例報告）の全文に、脊髄硬膜動静脈瘻は脊髄血管奇形の約70%を占め、中高年男性に多く、静脈うっ血による進行性の虚血性脊髄症を呈することが明記される。治療については候補2（CC BY の症例集積）の全文に、血管内塞栓を第一選択とし、不成功・禁忌の場合に外科的遮断を行う集学的アルゴリズムが明記され、瘻孔の閉塞が治療であることが裏づけられる。カードの全要素が裏づけられる。数値の照合：約70%はカードの値と一致。留保：候補2の識別子は PMID 42506059、DOI 10.3390/neurolint18070137、PMCID PMC13415202（Europe PMC の個別レコードで確認）。候補はいずれも出典マスター未登録のため新規 SRC 登録候補。主出典（SRC-1803）は Crossref・Europe PMC のいずれでもライセンス表示がなく自由利用とは確認できない'
   uncertainty: 出典は2006年の総説であり、頻度・性比は同総説の集計に基づく。確定診断には脊髄血管造影が必要とされる。
   curriculum:
@@ -1015,6 +1033,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の判定 A を B として反映、作り手の調査バッチ47 2026-11-13）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1803 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SP-028
   domain: SP
   subdomain: 横断性脊髄炎
@@ -1034,7 +1055,7 @@
     url: https://doi.org/10.1212/wnl.59.4.499
     source_license: Wolters Kluwer（Neurology）、CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ47 2026-11-13）：Ji Z, Zhang J, Shi Y, Shan S, Du Y, Li G, Jin Y, Zhang Y, Wang C, Lin Y, Guo Y, Tian D, Zhang P, et al. Spinal Cord Infarction Versus Idiopathic Transverse Myelitis: Clinical, Radiological, and Functional Insights From a Retrospective Cohort. Ann Clin Transl Neurol. 2026;13(7):1388-1397（PMID: 41589644、DOI: 10.1002/acn3.70312、PMCID: PMC13358551、https://europepmc.org/article/MED/41589644）。裏づける部分：候補（CC BY のコホート研究）の全文に、特発性横断性脊髄炎の診断は Transverse Myelitis Consortium Working Group の2002年診断基準に従い、4時間から21日で進展する両側性の脊髄機能障害、体幹の感覚レベル、炎症の証拠（造影増強または髄液所見）を含み、圧迫性脊髄症・自己免疫性・感染性などの他の病因を除外することが明記され、圧迫性病変の除外と特発性か二次性かの区別というカードの枠組みが裏づけられる。留保：疾患の定義文そのもの（局所的炎症による運動・感覚・自律神経障害）は候補では診断基準の運用として述べられるにとどまり、その部分を留保して B。主出典（SRC-1804）は Crossref・Europe PMC のいずれでもライセンス表示がなく自由利用とは確認できない。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 出典は2002年の診断基準提案であり、個別の必須項目（髄液所見・増強所見など）の細目は本文に依拠する。多発性硬化症・NMOSD の診断基準そのものは ND 側の領域であり、本カードでは鑑別の枠組みのみを扱った。
   curriculum:
@@ -1053,6 +1074,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ47 2026-11-13）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1804 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SP-029
   domain: SP
   subdomain: 横断性脊髄炎

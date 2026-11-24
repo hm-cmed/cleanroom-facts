@@ -534,7 +534,7 @@
 
 - 条件：region: 国際
 - 不確実性：出典論文のライセンス表示は本セッションで確認できなかったため source_class を UNKNOWN とした（取り込み側でCrossref等による確認を推奨）。
-- 出典：Blaine J, Chonchol M, Levi M. Renal control of calcium, phosphate, and magnesium homeostasis. Clin J Am Soc Nephrol. 2015;10(7):1257–1272　[DOI 10.2215/CJN.09750913](https://doi.org/10.2215/CJN.09750913)　[PMID 25287933](https://pubmed.ncbi.nlm.nih.gov/25287933/)（区分 UNKNOWN）
+- 出典：Blaine J, Chonchol M, Levi M. Renal control of calcium, phosphate, and magnesium homeostasis. Clin J Am Soc Nephrol. 2015;10(7):1257–1272　[DOI 10.2215/CJN.09750913](https://doi.org/10.2215/CJN.09750913)　[PMID 25287933](https://pubmed.ncbi.nlm.nih.gov/25287933/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-3-E-⑤（リン代謝異常、b）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-317 (id: Jlvnl80)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20KF-036&card_id=KF-036&version=bef9af7679)　（版 `bef9af7679`）
 

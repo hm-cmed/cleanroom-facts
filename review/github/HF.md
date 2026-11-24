@@ -34,7 +34,7 @@
 
 - 条件：region: 日本／study: Sado Heart Failure Study と将来推計人口（2006年）
 - 不確実性：一地域の有病率をもとにした推計である。
-- 出典：Okura Y, Ramadan MM, Ohno Y, et al. Impending epidemic: future projection of heart failure in Japan to the year 2055. Circ J 2008;72:489-491　[DOI 10.1253/circj.72.489](https://doi.org/10.1253/circj.72.489)　[PMID 18296852](https://pubmed.ncbi.nlm.nih.gov/18296852/)（区分 UNKNOWN）
+- 出典：Okura Y, Ramadan MM, Ohno Y, et al. Impending epidemic: future projection of heart failure in Japan to the year 2055. Circ J 2008;72:489-491　[DOI 10.1253/circj.72.489](https://doi.org/10.1253/circj.72.489)　[PMID 18296852](https://pubmed.ncbi.nlm.nih.gov/18296852/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-2-A-④（慢性心不全、a）　コアカリ：PS-02-06-05 (id: JkxnuQw)；TBL-01-00-159 (id: Jlvnlr4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20HF-003&card_id=HF-003&version=3e3d255d2d)　（版 `3e3d255d2d`）
 

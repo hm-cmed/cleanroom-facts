@@ -1081,7 +1081,7 @@
 
 - 条件：region: 国際／対象: 成人
 - 不確実性：出典はLohsiriwatの痔核の総説（2012）で、グレード別の治療法の対応は同総説の表から読み取った。血栓性外痔核については、疼痛が血栓形成時に生じるという症状面までは確認したが、切除の適応や時期といった扱いの詳細は本総説の記載が乏しく、主張に含めなかった。国内には日本大腸肛門病学会の肛門疾患（痔核・痔瘻・裂肛）・直腸脱診療ガイドライン2020年版（改訂第2版）があるが、本文を照合していないため出典には用いず、今後の差し替え候補とする。個別の薬剤名は主張に含めていない。
-- 出典：Lohsiriwat V. Hemorrhoids: From basic pathophysiology to clinical management. World J Gastroenterol. 2012;18(17):2009-2017　[DOI 10.3748/wjg.v18.i17.2009](https://doi.org/10.3748/wjg.v18.i17.2009)　[PMID 22563187](https://pubmed.ncbi.nlm.nih.gov/22563187/)（区分 UNKNOWN）
+- 出典：Lohsiriwat V. Hemorrhoids: From basic pathophysiology to clinical management. World J Gastroenterol. 2012;18(17):2009-2017　[DOI 10.3748/wjg.v18.i17.2009](https://doi.org/10.3748/wjg.v18.i17.2009)　[PMID 22563187](https://pubmed.ncbi.nlm.nih.gov/22563187/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-4-D-①（痔核、a）　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-267 (id: Jlvnl30)；TBL-02-07-020 (id: JlAKpkk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IN-114&card_id=IN-114&version=f962477ef2)　（版 `f962477ef2`）
 

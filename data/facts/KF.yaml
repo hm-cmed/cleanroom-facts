@@ -1268,7 +1268,7 @@
     url: https://doi.org/10.2215/CJN.09750913
     source_license: ライセンス表示は未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典論文のライセンス表示は本セッションで確認できなかったため source_class を UNKNOWN とした（取り込み側でCrossref等による確認を推奨）。
   curriculum:
@@ -1284,6 +1284,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/16_ku_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-661 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: KF-037
   domain: KF
   subdomain: マグネシウム代謝異常

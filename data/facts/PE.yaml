@@ -1254,7 +1254,7 @@
     url: https://doi.org/10.1503/cmaj.070923
     source_license: PMC で全文公開（CC 種別は未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: カナダの行政データ（2歳未満1,065例）に基づく数値であり、日本での頻度として読まないこと。嵌頓した際の用手整復の可否や絞扼時の緊急手術の判断は、国内ガイドラインの本文確認が必要なため主張に入れていない。
   curriculum:
@@ -1270,6 +1270,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-4398 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: PE-037
   domain: PE
   subdomain: 鼠径ヘルニア
@@ -1289,7 +1292,7 @@
     url: https://doi.org/10.1007/s10029-025-03561-y
     source_license: 未確認（CC 表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 対象研究は観察研究が中心である。RCT のみを対象とした別のメタ解析（Dreuning ら、2019年）では再発・合併症・対側異時性ヘルニアのいずれにも有意差が示されておらず、無症候の対側開存を全例で閉鎖すべきかは結論が出ていない。LPEC の原著シリーズ（Takehara ら、2006年、日本の3施設・972件）では再発率は0.73%で、水瘤・精巣萎縮はなかった。
   curriculum:
@@ -1305,6 +1308,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-4399 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: PE-038
   domain: PE
   subdomain: 先天性食道閉鎖症

@@ -44,7 +44,7 @@
 
 - 条件：region: 国際／study: 総説（2020年）
 - 不確実性：「4人に1人」は出典の抄録に記載された異常子宮出血の影響範囲の概数であり、定義や調査集団により変動する。内膜の厚さなどの具体的数値は出典の抄録では確認できなかったため主張に含めていない。ライセンス表示は出版社ページで確認できなかった。
-- 出典：Critchley HOD, Maybin JA, Armstrong GM, Williams ARW. Physiology of the Endometrium and Regulation of Menstruation. Physiol Rev. 2020;100(3):1149-1179.　[DOI 10.1152/physrev.00031.2019](https://doi.org/10.1152/physrev.00031.2019)　[PMID 32031903](https://pubmed.ncbi.nlm.nih.gov/32031903/)（区分 UNKNOWN）
+- 出典：Critchley HOD, Maybin JA, Armstrong GM, Williams ARW. Physiology of the Endometrium and Regulation of Menstruation. Physiol Rev. 2020;100(3):1149-1179.　[DOI 10.1152/physrev.00031.2019](https://doi.org/10.1152/physrev.00031.2019)　[PMID 32031903](https://pubmed.ncbi.nlm.nih.gov/32031903/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-003&card_id=RP-003&version=0ae2e0877d)　（版 `0ae2e0877d`）
 
@@ -76,7 +76,7 @@
 
 - 条件：region: 国際／study: FIGO分類の2018年改訂文書
 - 不確実性：過多月経の定義は患者の生活の質への影響に基づくものであり、客観的な出血量（従来の80mL超など）の基準とは異なる。PALM-COEINの各項目の詳細な下位分類は本カードでは扱っていない。出典のライセンス表示は確認できなかった。
-- 出典：Munro MG, Critchley HOD, Fraser IS; FIGO Menstrual Disorders Committee. The two FIGO systems for normal and abnormal uterine bleeding symptoms and classification of causes of abnormal uterine bleeding in the reproductive years: 2018 revisions. Int J Gynaecol Obstet. 2018;143(3):393-408.　[DOI 10.1002/ijgo.12666](https://doi.org/10.1002/ijgo.12666)　[PMID 30198563](https://pubmed.ncbi.nlm.nih.gov/30198563/)（区分 UNKNOWN）
+- 出典：Munro MG, Critchley HOD, Fraser IS; FIGO Menstrual Disorders Committee. The two FIGO systems for normal and abnormal uterine bleeding symptoms and classification of causes of abnormal uterine bleeding in the reproductive years: 2018 revisions. Int J Gynaecol Obstet. 2018;143(3):393-408.　[DOI 10.1002/ijgo.12666](https://doi.org/10.1002/ijgo.12666)　[PMID 30198563](https://pubmed.ncbi.nlm.nih.gov/30198563/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-B-②（過多月経、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-016 (id: JlAKpo4)；TBL-02-09-021 (id: JlAKppQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-009&card_id=RP-009&version=e071a87bc3)　（版 `e071a87bc3`）
 
@@ -172,7 +172,7 @@
 
 - 条件：region: 国際／study: コクラン・システマティックレビュー（2013年版）
 - 不確実性：本レビューには2024年の改訂版（CD001396.pub4）が存在し、結論が更新されている可能性がある。SSRI各製剤について、日本では月経前症候群・月経前不快気分障害への適応承認がない製剤もあり、国内の承認・保険適用の状況は製剤ごとに未確認である（適応外使用となる場合がある点に注意）。
-- 出典：Marjoribanks J, Brown J, O'Brien PMS, Wyatt K. Selective serotonin reuptake inhibitors for premenstrual syndrome. Cochrane Database Syst Rev. 2013;(6):CD001396.　[DOI 10.1002/14651858.CD001396.pub3](https://doi.org/10.1002/14651858.CD001396.pub3)　[PMID 23744611](https://pubmed.ncbi.nlm.nih.gov/23744611/)（区分 UNKNOWN）
+- 出典：Marjoribanks J, Brown J, O'Brien PMS, Wyatt K. Selective serotonin reuptake inhibitors for premenstrual syndrome. Cochrane Database Syst Rev. 2013;(6):CD001396.　[DOI 10.1002/14651858.CD001396.pub3](https://doi.org/10.1002/14651858.CD001396.pub3)　[PMID 23744611](https://pubmed.ncbi.nlm.nih.gov/23744611/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-D-①（月経前症候群、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-015&card_id=RP-015&version=eff4acb41d)　（版 `eff4acb41d`）
 
@@ -236,7 +236,7 @@
 
 - 条件：region: 国際／study: 総説（2009年）
 - 不確実性：卵胞数の具体的な数（出生時・思春期・閉経時の残存数）は出典の抄録では確認できなかったため主張に含めていない。卵巣予備能検査による自然妊娠や閉経年齢の予測精度には限界があることが出典でも指摘されている。出典のライセンス表示は確認できなかった。
-- 出典：Broekmans FJ, Soules MR, Fauser BC. Ovarian aging: mechanisms and clinical consequences. Endocr Rev. 2009;30(5):465-493.　[DOI 10.1210/er.2009-0006](https://doi.org/10.1210/er.2009-0006)　[PMID 19589949](https://pubmed.ncbi.nlm.nih.gov/19589949/)（区分 UNKNOWN）
+- 出典：Broekmans FJ, Soules MR, Fauser BC. Ovarian aging: mechanisms and clinical consequences. Endocr Rev. 2009;30(5):465-493.　[DOI 10.1210/er.2009-0006](https://doi.org/10.1210/er.2009-0006)　[PMID 19589949](https://pubmed.ncbi.nlm.nih.gov/19589949/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-9-A（更年期障害、a）；医学各論 Ⅷ-8-E-①（女性不妊症、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-020&card_id=RP-020&version=95f2dfb35d)　（版 `95f2dfb35d`）
 
@@ -326,7 +326,7 @@
 
 - 条件：region: 米国／study: 学会委員会意見（2021年）
 - 不確実性：個別の診断法（子宮内膜生検やプロゲステロン値の閾値など）の評価は抄録で確認した範囲を超えるため、主張には含めていない。プロゲステロン製剤を用いる場合の国内承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】プロゲステロン製剤は生殖補助医療における黄体補充等の適応で保険適用がある（ウトロゲスタン腟用カプセル200mgは2022-04-01から保険適用、日本生殖医学会の保険適用情報）。
-- 出典：Practice Committee of the American Society for Reproductive Medicine. Diagnosis and treatment of luteal phase deficiency: a committee opinion. Fertility and Sterility. 2021;115(6):1416-1423.　[DOI 10.1016/j.fertnstert.2021.02.010](https://doi.org/10.1016/j.fertnstert.2021.02.010)　[PMID 33827766](https://pubmed.ncbi.nlm.nih.gov/33827766/)（区分 UNKNOWN）
+- 出典：Practice Committee of the American Society for Reproductive Medicine. Diagnosis and treatment of luteal phase deficiency: a committee opinion. Fertility and Sterility. 2021;115(6):1416-1423.　[DOI 10.1016/j.fertnstert.2021.02.010](https://doi.org/10.1016/j.fertnstert.2021.02.010)　[PMID 33827766](https://pubmed.ncbi.nlm.nih.gov/33827766/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-D-④（黄体機能不全、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-026&card_id=RP-026&version=88f3542862)　（版 `88f3542862`）
 
@@ -374,7 +374,7 @@
 
 - 条件：region: 米国／study: 学会委員会意見（2021年）
 - 不確実性：国内での卵管手術の実施体制や保険適用（卵管鏡下卵管形成術など国内で用いられる術式の位置づけ）は本調査では未確認である。妊娠率の具体的な数値は出典の結論部で確認した範囲を超えるため主張には含めていない。
-- 出典：Practice Committee of the American Society for Reproductive Medicine. Role of tubal surgery in the era of assisted reproductive technology: a committee opinion. Fertility and Sterility. 2021;115(5):1143-1150.　[DOI 10.1016/j.fertnstert.2021.01.051](https://doi.org/10.1016/j.fertnstert.2021.01.051)　[PMID 33642065](https://pubmed.ncbi.nlm.nih.gov/33642065/)（区分 UNKNOWN）
+- 出典：Practice Committee of the American Society for Reproductive Medicine. Role of tubal surgery in the era of assisted reproductive technology: a committee opinion. Fertility and Sterility. 2021;115(5):1143-1150.　[DOI 10.1016/j.fertnstert.2021.01.051](https://doi.org/10.1016/j.fertnstert.2021.01.051)　[PMID 33642065](https://pubmed.ncbi.nlm.nih.gov/33642065/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-E-①（女性不妊症、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；骨盤内臓器と腫瘍の画像診断 TBL-02-09-023 (id: JlAKppY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-029&card_id=RP-029&version=131d59d9d3)　（版 `131d59d9d3`）
 
@@ -422,7 +422,7 @@
 
 - 条件：region: 米国／study: 学会倫理委員会意見（2018年）
 - 不確実性：本出典は医学的適応によらない計画的凍結が対象であり、がん治療前などの医学的妊孕性温存の詳細は扱っていない。年齢や凍結卵子数による出生率の具体的数値は抄録で確認できず主張には含めていない。国内での実施体制や費用負担（保険適用の有無を含む）は未確認である。
-- 出典：Ethics Committee of the American Society for Reproductive Medicine. Planned oocyte cryopreservation for women seeking to preserve future reproductive potential: an Ethics Committee opinion. Fertility and Sterility. 2018;110(6):1022-1028.　[DOI 10.1016/j.fertnstert.2018.08.027](https://doi.org/10.1016/j.fertnstert.2018.08.027)　[PMID 30396539](https://pubmed.ncbi.nlm.nih.gov/30396539/)（区分 UNKNOWN）
+- 出典：Ethics Committee of the American Society for Reproductive Medicine. Planned oocyte cryopreservation for women seeking to preserve future reproductive potential: an Ethics Committee opinion. Fertility and Sterility. 2018;110(6):1022-1028.　[DOI 10.1016/j.fertnstert.2018.08.027](https://doi.org/10.1016/j.fertnstert.2018.08.027)　[PMID 30396539](https://pubmed.ncbi.nlm.nih.gov/30396539/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-E-①（女性不妊症、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-032&card_id=RP-032&version=eaca935097)　（版 `eaca935097`）
 
@@ -438,7 +438,7 @@
 
 - 条件：region: 国際／study: 薬理学総説（2005年）
 - 不確実性：個別製剤の国内承認・保険適用と用量は未確認である。2005年の総説であり、その後に開発・発売された製剤（新しいプロゲスチン等）は含まれていない。
-- 出典：Kuhl H. Pharmacology of estrogens and progestogens: influence of different routes of administration. Climacteric. 2005;8(Suppl 1):3-63.　[DOI 10.1080/13697130500148875](https://doi.org/10.1080/13697130500148875)　[PMID 16112947](https://pubmed.ncbi.nlm.nih.gov/16112947/)（区分 UNKNOWN）
+- 出典：Kuhl H. Pharmacology of estrogens and progestogens: influence of different routes of administration. Climacteric. 2005;8(Suppl 1):3-63.　[DOI 10.1080/13697130500148875](https://doi.org/10.1080/13697130500148875)　[PMID 16112947](https://pubmed.ncbi.nlm.nih.gov/16112947/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-033&card_id=RP-033&version=125e9f5c7a)　（版 `125e9f5c7a`）
 
@@ -470,7 +470,7 @@
 
 - 条件：region: 国際／study: 系統的レビュー（2019年、Cochrane）
 - 不確実性：レビューの対象は、腔外の3cm未満の筋腫を除き既知の子宮病変のない過多月経であり、器質的疾患がある場合は適応が異なる。国内での子宮内膜アブレーションの実施状況や保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】子宮内膜アブレーションは2012年4月に保険収載され（K863-3 子宮鏡下子宮内膜焼灼術、マイクロ波子宮内膜アブレーションを含む）、過多月経に対して保険診療で実施されている（マイクロ波手術研究会の実施要項、診療報酬資料）。
-- 出典：Bofill Rodriguez M, Lethaby A, Grigore M, et al. Endometrial resection and ablation techniques for heavy menstrual bleeding. Cochrane Database of Systematic Reviews. 2019;(1):CD001501.　[DOI 10.1002/14651858.CD001501.pub5](https://doi.org/10.1002/14651858.CD001501.pub5)　[PMID 30667064](https://pubmed.ncbi.nlm.nih.gov/30667064/)（区分 UNKNOWN）
+- 出典：Bofill Rodriguez M, Lethaby A, Grigore M, et al. Endometrial resection and ablation techniques for heavy menstrual bleeding. Cochrane Database of Systematic Reviews. 2019;(1):CD001501.　[DOI 10.1002/14651858.CD001501.pub5](https://doi.org/10.1002/14651858.CD001501.pub5)　[PMID 30667064](https://pubmed.ncbi.nlm.nih.gov/30667064/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-B-②（過多月経、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-035&card_id=RP-035&version=7632c7b8bb)　（版 `7632c7b8bb`）
 
@@ -486,7 +486,7 @@
 
 - 条件：region: 国際／study: 総説（2008年、国際コンセンサスに基づく分類）
 - 不確実性：個別の原因疾患（アンドロゲン不応症や先天性副腎過形成など）の頻度や診断手順の詳細は、抄録で確認した範囲を超えるため主張には含めていない。2008年の総説であり、その後の遺伝子診断の進歩は反映されていない。
-- 出典：Hughes IA. Disorders of sex development: a new definition and classification. Best Practice & Research Clinical Endocrinology & Metabolism. 2008;22(1):119-134.　[DOI 10.1016/j.beem.2007.11.001](https://doi.org/10.1016/j.beem.2007.11.001)　[PMID 18279784](https://pubmed.ncbi.nlm.nih.gov/18279784/)（区分 UNKNOWN）
+- 出典：Hughes IA. Disorders of sex development: a new definition and classification. Best Practice & Research Clinical Endocrinology & Metabolism. 2008;22(1):119-134.　[DOI 10.1016/j.beem.2007.11.001](https://doi.org/10.1016/j.beem.2007.11.001)　[PMID 18279784](https://pubmed.ncbi.nlm.nih.gov/18279784/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-A-④（子宮性無月経、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-036&card_id=RP-036&version=f3c2fbebd2)　（版 `f3c2fbebd2`）
 
@@ -502,7 +502,7 @@
 
 - 条件：region: 米国／study: 多施設ランダム化比較試験（2014年、対象は PCOS）
 - 不確実性：レトロゾールの排卵誘発目的での国内承認・保険適用は未確認であり、国内では適応外使用となる可能性がある（取り込み側で添付文書・PMDA の確認が必要）。クロミフェンの国内承認状況も未確認である。対象は PCOS に限られ、他の原因による排卵障害へそのまま一般化はできない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】レトロゾールはRP-023のとおり2022年に承認・保険適用済み。クロミフェンも排卵障害に基づく不妊症の適応で承認済み（厚生労働省公知申請資料・PMDA添付文書、2026-10-31確認）
-- 出典：Legro RS, Brzyski RG, Diamond MP, et al. Letrozole versus clomiphene for infertility in the polycystic ovary syndrome. New England Journal of Medicine. 2014;371(2):119-129.　[DOI 10.1056/NEJMoa1313517](https://doi.org/10.1056/NEJMoa1313517)　[PMID 25006718](https://pubmed.ncbi.nlm.nih.gov/25006718/)（区分 UNKNOWN）
+- 出典：Legro RS, Brzyski RG, Diamond MP, et al. Letrozole versus clomiphene for infertility in the polycystic ovary syndrome. New England Journal of Medicine. 2014;371(2):119-129.　[DOI 10.1056/NEJMoa1313517](https://doi.org/10.1056/NEJMoa1313517)　[PMID 25006718](https://pubmed.ncbi.nlm.nih.gov/25006718/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-D-③（無排卵、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-037&card_id=RP-037&version=6c38c748e2)　（版 `6c38c748e2`）
 
@@ -550,7 +550,7 @@
 
 - 条件：region: 国際／study: 総説（2010年）
 - 不確実性：甲状腺ホルモン製剤や抗甲状腺薬の国内承認・保険適用は未確認である。TSH などの基準値や、自己免疫性甲状腺疾患と不妊治療成績の関係の数値は、確認した範囲を超えるため主張には含めていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】レボチロキシン（チラーヂンS）、チアマゾール（メルカゾール）、プロピルチオウラシル（プロパジール）はいずれも長期に承認されている医薬品。「未確認」は解消できる
-- 出典：Krassas GE, Poppe K, Glinoer D. Thyroid function and human reproductive health. Endocrine Reviews. 2010;31(5):702-755.　[DOI 10.1210/er.2009-0041](https://doi.org/10.1210/er.2009-0041)　[PMID 20573783](https://pubmed.ncbi.nlm.nih.gov/20573783/)（区分 UNKNOWN）
+- 出典：Krassas GE, Poppe K, Glinoer D. Thyroid function and human reproductive health. Endocrine Reviews. 2010;31(5):702-755.　[DOI 10.1210/er.2009-0041](https://doi.org/10.1210/er.2009-0041)　[PMID 20573783](https://pubmed.ncbi.nlm.nih.gov/20573783/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-2-A-①（甲状腺機能亢進症、a）；医学各論 Ⅹ-2-A-②（甲状腺機能低下症、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；ホルモン測定 TBL-02-09-022 (id: JlAKppU)；月経周期の異常 TBL-02-09-021 (id: JlAKppQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-040&card_id=RP-040&version=655e306df0)　（版 `655e306df0`）
 
@@ -582,7 +582,7 @@
 
 - 条件：region: 欧米／study: 混合型ホルモン避妊薬の処方実態と利益・リスクに関する総説（2014年）
 - 不確実性：静脈血栓塞栓症などの個別のリスクの大きさは抄録に数値がなく、主張文には入れていない。日本における低用量ピルの避妊目的での承認状況や、月経困難症に対する LEP 製剤の保険適用の詳細は、本出典では確認しておらず未確認である。
-- 出典：Brynhildsen J. Combined hormonal contraceptives: prescribing patterns, compliance, and benefits versus risks. Therapeutic Advances in Drug Safety. 2014;5(5):201-213.　[DOI 10.1177/2042098614548857](https://doi.org/10.1177/2042098614548857)　[PMID 25360241](https://pubmed.ncbi.nlm.nih.gov/25360241/)（区分 UNKNOWN）
+- 出典：Brynhildsen J. Combined hormonal contraceptives: prescribing patterns, compliance, and benefits versus risks. Therapeutic Advances in Drug Safety. 2014;5(5):201-213.　[DOI 10.1177/2042098614548857](https://doi.org/10.1177/2042098614548857)　[PMID 25360241](https://pubmed.ncbi.nlm.nih.gov/25360241/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-F（避妊、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-042&card_id=RP-042&version=3b33cf363d)　（版 `3b33cf363d`）
 
@@ -598,7 +598,7 @@
 
 - 条件：region: 米国／study: 米国産科婦人科学会の診療指針（2017年）
 - 不確実性：本出典は米国の指針であり、日本で使用できる製剤の範囲（皮下インプラントの国内での扱いを含む）は確認しておらず、国内の承認状況は未確認である。銅付加 IUD とレボノルゲストレル放出子宮内システムの個別の妊娠率の数値は抄録になく、主張文には入れていない。
-- 出典：American College of Obstetricians and Gynecologists. Practice Bulletin No. 186: Long-Acting Reversible Contraception: Implants and Intrauterine Devices. Obstetrics & Gynecology. 2017;130(5):e251-e269.　[DOI 10.1097/AOG.0000000000002400](https://doi.org/10.1097/AOG.0000000000002400)　[PMID 29064972](https://pubmed.ncbi.nlm.nih.gov/29064972/)（区分 UNKNOWN）
+- 出典：American College of Obstetricians and Gynecologists. Practice Bulletin No. 186: Long-Acting Reversible Contraception: Implants and Intrauterine Devices. Obstetrics & Gynecology. 2017;130(5):e251-e269.　[DOI 10.1097/AOG.0000000000002400](https://doi.org/10.1097/AOG.0000000000002400)　[PMID 29064972](https://pubmed.ncbi.nlm.nih.gov/29064972/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-F（避妊、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-043&card_id=RP-043&version=5ca57cf28a)　（版 `5ca57cf28a`）
 
@@ -614,7 +614,7 @@
 
 - 条件：region: 米国／study: 米国産科婦人科学会の診療指針（2015年）
 - 不確実性：各方法の有効性の数値や使用可能時間の詳細は抄録になく、主張文には入れていない。日本におけるレボノルゲストレル緊急避妊薬の承認・入手方法（処方箋の要否など）の現行制度は本出典では確認しておらず未確認である。
-- 出典：American College of Obstetricians and Gynecologists. Practice Bulletin No. 152: Emergency Contraception. Obstetrics & Gynecology. 2015;126(3):e1-e11.　[DOI 10.1097/AOG.0000000000001047](https://doi.org/10.1097/AOG.0000000000001047)　[PMID 26287787](https://pubmed.ncbi.nlm.nih.gov/26287787/)（区分 UNKNOWN）
+- 出典：American College of Obstetricians and Gynecologists. Practice Bulletin No. 152: Emergency Contraception. Obstetrics & Gynecology. 2015;126(3):e1-e11.　[DOI 10.1097/AOG.0000000000001047](https://doi.org/10.1097/AOG.0000000000001047)　[PMID 26287787](https://pubmed.ncbi.nlm.nih.gov/26287787/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-F（避妊、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-044&card_id=RP-044&version=d8266d5f69)　（版 `d8266d5f69`）
 
@@ -678,7 +678,7 @@
 
 - 条件：region: 国際／study: 更年期症状とその管理に関する総説（2015年）
 - 不確実性：各症状の有病率の数値は抄録になく、主張文には入れていない。日本の更年期障害の診断で用いられる評価尺度（簡略更年期指数など）は本出典では扱っておらず未確認である。
-- 出典：Santoro N, Epperson CN, Mathews SB. Menopausal Symptoms and Their Management. Endocrinology and Metabolism Clinics of North America. 2015;44(3):497-515.　[DOI 10.1016/j.ecl.2015.05.001](https://doi.org/10.1016/j.ecl.2015.05.001)　[PMID 26316239](https://pubmed.ncbi.nlm.nih.gov/26316239/)（区分 UNKNOWN）
+- 出典：Santoro N, Epperson CN, Mathews SB. Menopausal Symptoms and Their Management. Endocrinology and Metabolism Clinics of North America. 2015;44(3):497-515.　[DOI 10.1016/j.ecl.2015.05.001](https://doi.org/10.1016/j.ecl.2015.05.001)　[PMID 26316239](https://pubmed.ncbi.nlm.nih.gov/26316239/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-9-A（更年期障害、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-048&card_id=RP-048&version=d7d878115d)　（版 `d7d878115d`）
 
@@ -710,7 +710,7 @@
 
 - 条件：region: 米国／study: 子宮のある閉経後女性16,608人を対象とした無作為化比較試験（2002年報告）
 - 不確実性：数値は抄録で確認した当該併用レジメン（結合型エストロゲン0.625mg/日＋メドロキシプロゲステロン酢酸エステル2.5mg/日）の結果であり、経皮製剤や他の黄体ホルモン製剤、日本で用いられる用量への外挿はできない。これらの製剤の国内承認・保険適用の状況は本出典では確認しておらず未確認である。
-- 出典：Rossouw JE, Anderson GL, Prentice RL, et al. Risks and Benefits of Estrogen Plus Progestin in Healthy Postmenopausal Women: Principal Results From the Women's Health Initiative Randomized Controlled Trial. JAMA. 2002;288(3):321-333.　[DOI 10.1001/jama.288.3.321](https://doi.org/10.1001/jama.288.3.321)　[PMID 12117397](https://pubmed.ncbi.nlm.nih.gov/12117397/)（区分 UNKNOWN）
+- 出典：Rossouw JE, Anderson GL, Prentice RL, et al. Risks and Benefits of Estrogen Plus Progestin in Healthy Postmenopausal Women: Principal Results From the Women's Health Initiative Randomized Controlled Trial. JAMA. 2002;288(3):321-333.　[DOI 10.1001/jama.288.3.321](https://doi.org/10.1001/jama.288.3.321)　[PMID 12117397](https://pubmed.ncbi.nlm.nih.gov/12117397/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-9-A（更年期障害、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-050&card_id=RP-050&version=b430f38c84)　（版 `b430f38c84`）
 
@@ -758,7 +758,7 @@
 
 - 条件：region: 米国・カナダ／study: 北米閉経学会の GSM に関する声明（2020年）
 - 不確実性：有病割合27〜84%は研究により対象や定義が異なり幅が大きい値である。腟内 DHEA やオスペミフェンなど、日本で使用できない製剤が含まれており、各製剤の国内承認・保険適用の状況は本出典では確認しておらず未確認である。腟局所療法の1年を超える子宮内膜への安全性は確立していないと声明に記載がある。
-- 出典：The North American Menopause Society. The 2020 genitourinary syndrome of menopause position statement of The North American Menopause Society. Menopause. 2020;27(9):976-992.　[DOI 10.1097/GME.0000000000001609](https://doi.org/10.1097/GME.0000000000001609)　[PMID 32852449](https://pubmed.ncbi.nlm.nih.gov/32852449/)（区分 UNKNOWN）
+- 出典：The North American Menopause Society. The 2020 genitourinary syndrome of menopause position statement of The North American Menopause Society. Menopause. 2020;27(9):976-992.　[DOI 10.1097/GME.0000000000001609](https://doi.org/10.1097/GME.0000000000001609)　[PMID 32852449](https://pubmed.ncbi.nlm.nih.gov/32852449/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-9-B-②（萎縮性腟炎、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-019 (id: JlAKppE)；TBL-02-09-020 (id: JlAKppI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-054&card_id=RP-054&version=08862df372)　（版 `08862df372`）
 
@@ -790,7 +790,7 @@
 
 - 条件：region: 国際／study: 閉経移行期うつ病の評価と治療に関する専門家ガイドライン（2018年）
 - 不確実性：本カードは出題基準の「心身症」の観点から、更年期に重なる精神症状として閉経移行期うつ病を扱ったもので、心身症そのものの定義や分類は扱っていない。個別の抗うつ薬の選択や用量は抄録になく、日本における各薬剤の承認・保険適用の状況は未確認である。
-- 出典：Maki PM, Kornstein SG, Joffe H, et al. Guidelines for the evaluation and treatment of perimenopausal depression: summary and recommendations. Menopause. 2018;25(10):1069-1085.　[DOI 10.1097/GME.0000000000001174](https://doi.org/10.1097/GME.0000000000001174)　[PMID 30179986](https://pubmed.ncbi.nlm.nih.gov/30179986/)（区分 UNKNOWN）
+- 出典：Maki PM, Kornstein SG, Joffe H, et al. Guidelines for the evaluation and treatment of perimenopausal depression: summary and recommendations. Menopause. 2018;25(10):1069-1085.　[DOI 10.1097/GME.0000000000001174](https://doi.org/10.1097/GME.0000000000001174)　[PMID 30179986](https://pubmed.ncbi.nlm.nih.gov/30179986/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-9-A（更年期障害、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-056&card_id=RP-056&version=facb4e0ab7)　（版 `facb4e0ab7`）
 
@@ -822,7 +822,7 @@
 
 - 条件：region: 国際／study: 北米閉経学会の非ホルモン療法に関する声明（2023年）
 - 不確実性：各治療の効果の大きさの数値は抄録になく、主張文には入れていない。フェゾリネタントを含む各薬剤の日本における承認・保険適用の状況（更年期症状への適応の有無を含む）は本出典では確認しておらず未確認である。漢方薬は本声明の評価対象の整理には含まれておらず、日本での位置づけは未確認である。
-- 出典：The North American Menopause Society. The 2023 nonhormone therapy position statement of The North American Menopause Society. Menopause. 2023;30(6):573-590.　[DOI 10.1097/GME.0000000000002200](https://doi.org/10.1097/GME.0000000000002200)　[PMID 37252752](https://pubmed.ncbi.nlm.nih.gov/37252752/)（区分 UNKNOWN）
+- 出典：The North American Menopause Society. The 2023 nonhormone therapy position statement of The North American Menopause Society. Menopause. 2023;30(6):573-590.　[DOI 10.1097/GME.0000000000002200](https://doi.org/10.1097/GME.0000000000002200)　[PMID 37252752](https://pubmed.ncbi.nlm.nih.gov/37252752/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-9-A（更年期障害、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-059&card_id=RP-059&version=726aafcb26)　（版 `726aafcb26`）
 
@@ -838,7 +838,7 @@
 
 - 条件：region: 日本／study: 日本の全国代表調査（1950〜2014年）に基づく避妊使用の推移の分析
 - 不確実性：数値は2014年時点の調査に基づくもので、その後の変化（緊急避妊薬の入手方法の見直しや子宮内システムの普及など）は反映されていない。カウンセリングの具体的な手順は本出典では扱っていない。
-- 出典：Yoshida H, Sakamoto H, Leslie A, Takahashi O, Tsuboi S, Kitamura K. Contraception in Japan: Current trends. Contraception. 2016;93(6):475-477.　[DOI 10.1016/j.contraception.2016.02.006](https://doi.org/10.1016/j.contraception.2016.02.006)　[PMID 26872717](https://pubmed.ncbi.nlm.nih.gov/26872717/)（区分 UNKNOWN）
+- 出典：Yoshida H, Sakamoto H, Leslie A, Takahashi O, Tsuboi S, Kitamura K. Contraception in Japan: Current trends. Contraception. 2016;93(6):475-477.　[DOI 10.1016/j.contraception.2016.02.006](https://doi.org/10.1016/j.contraception.2016.02.006)　[PMID 26872717](https://pubmed.ncbi.nlm.nih.gov/26872717/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-F（避妊、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-060&card_id=RP-060&version=60d69d5e1f)　（版 `60d69d5e1f`）
 
@@ -870,7 +870,7 @@
 
 - 条件：region: 米国／study: ガイドライン（Endocrine Society、2016年版）
 - 不確実性：高プロラクチン血症そのものは別の項目で扱うため本カードの対象外とし、プロラクチンは他軸の評価項目としてのみ挙げた。無月経では妊娠の除外と、甲状腺疾患など排卵障害の他原因の除外が前提になる（ガイドライン推奨1.14）。病因ごとの頻度や下垂体MRIの所見などは本ガイドラインの推奨文で確認した範囲を超えるため主張文には入れていない。本カードには薬剤名は含まれない。
-- 出典：Fleseriu M, Hashim IA, Karavitaki N, et al. Hormonal Replacement in Hypopituitarism in Adults: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2016;101(11):3888-3921.　[DOI 10.1210/jc.2016-2118](https://doi.org/10.1210/jc.2016-2118)　[PMID 27736313](https://pubmed.ncbi.nlm.nih.gov/27736313/)（区分 UNKNOWN）
+- 出典：Fleseriu M, Hashim IA, Karavitaki N, et al. Hormonal Replacement in Hypopituitarism in Adults: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2016;101(11):3888-3921.　[DOI 10.1210/jc.2016-2118](https://doi.org/10.1210/jc.2016-2118)　[PMID 27736313](https://pubmed.ncbi.nlm.nih.gov/27736313/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-A-②（下垂体性無月経、b）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-022 (id: JlAKppU)；TBL-02-09-021 (id: JlAKppQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-062&card_id=RP-062&version=e437cc2f9b)　（版 `e437cc2f9b`）
 
@@ -950,7 +950,7 @@
 
 - 条件：region: 米国／study: 原著論文（正常女性を対象とした超音波検査による観察研究、1979年）
 - 不確実性：元のカードの「生殖年齢女性の40%以上にみられる」という有病率は、一次資料で確認できなかったため含めていない。本出典の40%は女性の割合ではなく、腹水が認められた周期の割合である。虫垂炎や卵巣嚢胞の破裂・茎捻転、異所性妊娠との鑑別の記述も、本出典の抄録では確認できなかったため含めていない。1979年の研究であり、超音波機器の性能は現在と異なる。
-- 出典：Hann LE, Hall DA, Black EB, Ferrucci JT Jr. Mittelschmerz: Sonographic Demonstration. JAMA. 1979;241(25):2731-2732.　[DOI 10.1001/jama.241.25.2731](https://doi.org/10.1001/jama.241.25.2731)　[PMID 448821](https://pubmed.ncbi.nlm.nih.gov/448821/)（区分 UNKNOWN）
+- 出典：Hann LE, Hall DA, Black EB, Ferrucci JT Jr. Mittelschmerz: Sonographic Demonstration. JAMA. 1979;241(25):2731-2732.　[DOI 10.1001/jama.241.25.2731](https://doi.org/10.1001/jama.241.25.2731)　[PMID 448821](https://pubmed.ncbi.nlm.nih.gov/448821/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-8-D-②（機能性子宮出血、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-02-09-010 (id: JlAKpoU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RP-067&card_id=RP-067&version=9d9f9e7fee)　（版 `9d9f9e7fee`）
 

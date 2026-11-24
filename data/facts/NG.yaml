@@ -1188,7 +1188,7 @@
     url: https://theromefoundation.org/?p=565
     source_license: Rome Foundation ウェブサイト（利用規約は未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: null
   curriculum:
@@ -1203,6 +1203,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-126 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: NG-038
   domain: NG
   subdomain: 腸脳相関病（DGBI）の概念と分類
@@ -1222,7 +1225,7 @@
     url: https://oalib-perpustakaan.upi.edu/Record/doaj_e9fbd8ef8e2342c1b1d89f204986f193/Description
     source_license: 未確認（DOAJ収載のOA誌。抄録のみ参照）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録のみ参照。各次元の評価項目は原典で確認する
   curriculum:
@@ -1237,6 +1240,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中）。三原の承認による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-125 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: NG-039
   domain: NG
   subdomain: DGBIの国内承認薬

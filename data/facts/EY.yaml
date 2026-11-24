@@ -131,7 +131,7 @@
     url: https://doi.org/10.1016/j.survophthal.2016.03.005
     source_license: © Elsevier（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録で確認できた範囲（機序・異物の種類・合併症によって転帰が異なること、画像診断と外科的除去が中心であること）に限定した。発生率や術式別の成績などの数値は含めていない。
   curriculum:
@@ -150,6 +150,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：出題基準の番号を付記した（なし → 医学各論 Ⅲ-11-B-①（異物、a）；医学各論 Ⅲ-11-B-③（鋭的眼外傷、b）。作り手の区分A、名称は項目表に合わせた）。三原の承認による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1253 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: EY-005
   domain: EY
   subdomain: 眼瞼
@@ -643,7 +646,7 @@
     url: https://doi.org/10.1016/j.jtos.2017.05.008
     source_license: © Elsevier（TFOS DEWS II 報告書、CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 定義と分類は TFOS DEWS II（2017）に基づく。2025年に後継の DEWS III が公表され定義が更新されているため、本カードの定義と最新定義との差異は未確認である。
   curriculum:
@@ -659,6 +662,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1259 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: EY-018
   domain: EY
   subdomain: 結膜
@@ -713,7 +719,7 @@
     url: https://doi.org/10.1097/ICO.0000000000000408
     source_license: © Wolters Kluwer（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：MedlinePlus Genetics『Keratoconus』（GOV_US）。裏づける部分：角膜の菲薄化と円錐状突出という病態の骨格。診断に必須の3所見はコンセンサス固有。第2版刊行の申し送りつき
   uncertainty: 出題項目に含まれる角膜上皮びらんと Herbert 小窩については、本カードの出典（円錐角膜の国際コンセンサス）では確認できず含めていない。Herbert 小窩はトラコーマの輪部所見である。上皮びらんを主症状とする疾患群は EY-020 の出典（IC3D 第3版、SRC-1262）が扱っている。コンセンサスには後継の第2版が存在する可能性があり、その公表状況は未確認である。
   curriculum:
@@ -732,6 +738,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1261 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: EY-020
   domain: EY
   subdomain: 角膜
@@ -789,7 +798,7 @@
     url: https://doi.org/10.1016/j.survophthal.2021.02.013
     source_license: © Elsevier（CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 薬剤（免疫抑制薬）について、国内での承認・保険適用の確認状況：未確認。主張は抄録で確認できた定義・病因・対応の枠組みに限定し、原因疾患ごとの頻度や治療成績の数値は含めていない。
   curriculum:
@@ -805,6 +814,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1263 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: EY-022
   domain: EY
   subdomain: 角膜
@@ -1023,7 +1035,7 @@
     url: https://doi.org/10.1001/jama.2020.21899
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は総説の抄録で確認した範囲に限る。日本の分類の細目（発達緑内障等）は日本緑内障学会ガイドライン第5版（SRC-1266）の本文確認が望ましい。
   curriculum:
@@ -1039,6 +1051,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1267 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: EY-028
   domain: EY
   subdomain: 原発開放隅角緑内障
@@ -1058,7 +1073,7 @@
     url: https://doi.org/10.1016/j.ophtha.2004.03.029
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値は抄録で確認した。多治見市という単一地域・2004年報告の値であり、現在の全国の頻度とは限らない。
   curriculum:
@@ -1074,6 +1089,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1268 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: EY-029
   domain: EY
   subdomain: 緑内障の検査
@@ -1093,7 +1111,7 @@
     url: https://doi.org/10.1001/jama.2022.6290
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（作り手の調査バッチ13 2026-11-11）：Chou R, Selph S, Blazina I, et al. Screening for Glaucoma in Adults: A Systematic Review for the U.S. Preventive Services Task Force. Evidence Synthesis No. 214. Rockville (MD): Agency for Healthcare Research and Quality (US); 2022 May. AHRQ Publication No. 21-05286-EF-1.（NCBI Bookshelf: NBK581087）（Bookshelf の public domain 表示は未目視。目視確認後に主出典の置き換えを検討）（https://www.ncbi.nlm.nih.gov/books/NBK581087/）。裏づける部分：現出典（JAMA 版）と同一の AHRQ エビデンスレビュー本体。緑内障の診断精度の統合…'
   uncertainty: 数値は抄録で確認した。対象は原発開放隅角緑内障のスクリーニング文脈であり、臨床診断の場面とは母集団が異なる。
   curriculum:
@@ -1112,6 +1130,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ13 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1280 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: EY-030
   domain: EY
   subdomain: 緑内障の治療
@@ -1274,7 +1295,7 @@
     url: https://doi.org/10.1016/S1474-4422(22)00200-9
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 基準の個別項目は抄録の範囲を超えるため記載していない。個別薬剤名は記載していないため、個別薬剤の国内承認・保険適用の確認は対象外である。
   curriculum:
@@ -1290,6 +1311,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1275 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: EY-038
   domain: EY
   subdomain: うっ血乳頭
@@ -1531,7 +1555,7 @@
     url: https://doi.org/10.1001/jamaophthalmol.2016.4456
     source_license: CC表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 原因別割合と瞳孔障害・眼瞼下垂の頻度は本論文の抄録に基づく数値で、学会誌の抄録要約でも同じ値を確認した。動脈瘤の部位別の内訳は抄録では確認できなかったため、主張文では「動脈瘤による圧迫」とし、特定の部位名は記載していない。本出典の対象は動眼神経麻痺のみであり、滑車神経麻痺・外転神経麻痺それぞれの特徴は扱っていない。本カードには薬剤名を含めていない。
   curriculum:
@@ -1547,6 +1571,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1305 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: EY-047
   domain: EY
   subdomain: 兎眼症の原因と対処
@@ -1791,7 +1818,7 @@
     url: https://doi.org/10.1016/j.ophtha.2011.07.013
     source_license: CC表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値はいずれも出典の抄録で確認した。対象は3次紹介施設の症例集積であり、日本の頻度とは限らない。抄録では合併する全身疾患は結合組織・血管炎性疾患という分類までしか示されておらず、関節リウマチなど個別の疾患名ごとの頻度は確認できなかったため含めていない。強膜炎の疼痛の性状や治療（免疫抑制療法など）は本カードには含めておらず、個別薬剤の国内承認・保険適用の確認は対象外である。
   curriculum:
@@ -1807,6 +1834,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1309 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: EY-054
   domain: EY
   subdomain: 水晶体偏位・脱臼
@@ -1826,7 +1856,7 @@
     url: https://doi.org/10.3109/08820538.2013.825276
     source_license: CC表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本カードは出典の抄録で確認できた関連疾患と遺伝子変異の範囲のみを記載した。境界の方針により、Marfan症候群などの全身像は含めていない。偏位の方向が原因疾患の手がかりになること（方向別の対応）、外傷による脱臼、緑内障や網膜剥離などの眼合併症は、出典の抄録では確認できなかったため本カードには含めておらず、本文または別の一次資料での確認が望ましい。各疾患の原因遺伝子の個別の対応も抄録の範囲外である。
   curriculum:
@@ -1842,6 +1872,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/25_ds_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1310 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: EY-055
   domain: EY
   subdomain: 外転神経麻痺

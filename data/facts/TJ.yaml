@@ -820,7 +820,7 @@
     url: https://doi.org/10.1097/JTN.0000000000000392
     source_license: ライセンス未確認（J Trauma Nurs、CC表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: ブラジルの外傷センターの前向き研究（136例、頭蓋底骨折は20.6%）で、受傷後48時間までの徴候の診断性能が評価された。頻度の数値は扱っていない。（出典内の位置：抄録）
   curriculum:
@@ -836,6 +836,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1939 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: TJ-024
   domain: TJ
   subdomain: 髄液漏
@@ -2154,7 +2157,7 @@
     url: https://doi.org/10.1136/bjsports-2017-098106
     source_license: British Journal of Sports Medicine（CC表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 前距腓靱帯が外側靱帯の中で最も損傷されやすいという点は、本ガイドラインの抄録では確認できなかったため、本票の主張には含めていない。本ガイドラインのライセンスはCrossref・Europe PMCで確認できなかった。（出典内の位置：抄録）
   curriculum:
@@ -2170,6 +2173,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1974 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: TJ-061
   domain: TJ
   subdomain: 足関節捻挫
@@ -2469,7 +2475,7 @@
     url: https://doi.org/10.1016/S1726-4901(10)70088-5
     source_license: Journal of the Chinese Medical Association（Elsevier、CC表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値は単施設の後方視的コホート（脂肪塞栓症候群13例）によるもので、発生率は対象集団により異なる。本出典のライセンスはCrossref・Europe PMCで確認できなかった。（出典内の位置：抄録のMethods・Results）
   curriculum:
@@ -2485,6 +2491,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/32_ns_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1983 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: TJ-070
   domain: TJ
   subdomain: 塞栓症

@@ -122,7 +122,7 @@
     url: https://doi.org/10.1093/eurheartj/ehz455
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値はガイドラインの治療目標の表（Table 7）と推奨文から読み取り。米国の2018年AHA/ACCガイドラインは絶対的な目標値ではなく治療の閾値に基づく方式で枠組みが異なるが、1枚のカードの出典を1文献にそろえるため本カードには含めていない（米国分の数値は未確認）。
   curriculum:
@@ -138,6 +138,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-973 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: MT-005
   domain: MT
   subdomain: 家族性高コレステロール血症の治療
@@ -195,7 +198,7 @@
     url: https://doi.org/10.1056/NEJMoa1615664
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ33 2026-11-11）：ClinicalTrials.gov NCT01764633（FOURIER、GOV_US、新規 SRC 候補）。裏づける部分と留保：登録者数27,564人、主要評価項目 HR 0.85（0.79–0.92）、主要な副次評価項目 HR 0.80（0.73–0.88）が完全一致。LDL 59%低下は登録側で検証できず、発症割合 9.8% 対 11.3% は登録側の時点別 Kaplan-Meier 推定の範囲内（時点の違い）
   uncertainty: 数値は試験の抄録で確認した。心血管死単独の有意な低下は抄録の範囲では示されていない。国内承認については、エボロクマブが家族性高コレステロール血症・高コレステロール血症（心血管イベントの発現リスクが高く、HMG-CoA還元酵素阻害剤で効果不十分な場合に限る）に承認されていることをPMDAの添付文書情報で確認した。スタチン自体の心血管イベント抑制のエビデンス（個別試験の数値）は本カードの出典には含まれない。
   curriculum:
@@ -214,6 +217,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ33 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-974 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: MT-007
   domain: MT
   subdomain: 二次性高脂血症
@@ -268,7 +274,7 @@
     url: https://doi.org/10.1016/j.pan.2020.06.005
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 内容は総説の抄録で確認した。膵炎の発症リスクが高まる具体的なトリグリセリド値の閾値は抄録の範囲では確認できなかったため、主張文には数値を入れていない。アフェレーシスとインスリン療法は治療法の名前にとどめ、適応の詳細は未確認である。
   curriculum:
@@ -284,6 +290,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-981 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: MT-009
   domain: MT
   subdomain: 肥満症
@@ -303,7 +312,7 @@
     url: https://doi.org/10.1253/circj.66.987
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値（BMI 25、内臓脂肪面積100 cm²）は出典論文の抄録で確認した。肥満症の健康障害の全項目（11項目）の一覧は抄録の範囲では確認していないため、主張文では同論文で評価された合併症の例示にとどめた。現行の肥満症診療ガイドライン（2022年版）との定義の差分は未確認である。
   curriculum:
@@ -319,6 +328,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-975 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: MT-010
   domain: MT
   subdomain: 肥満症の治療
@@ -338,7 +350,7 @@
     url: https://doi.org/10.1056/NEJMoa2032183
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ33 2026-11-11）：ClinicalTrials.gov NCT03548935（STEP 1、GOV_US、新規 SRC 候補）。裏づける部分と留保：登録者数1,961人、推定治療差 −12.44 ポイント（カード −12.4）、5%以上の減量達成 86.4%・31.5% が一致。平均体重変化は estimand により表示が異なる（登録側の例 −15.6% 対 −2.8%、論文の治療方針 estimand −14.9% 対 −2.4%、両値記録）
   uncertainty: 数値は試験の抄録で確認した。国内承認については、セマグルチド（ウゴービ）が肥満症に効能・効果のある薬剤として2023年11月に薬価収載されたことを日本肥満学会のステートメントで確認した。ただし保険適用は、高血圧・脂質異常症・2型糖尿病のいずれかを有し食事・運動療法で効果が不十分で、BMI 27以上かつ肥満に関連する健康障害を2つ以上有する場合、またはBMI 35以上の場合に限られ、STEP 1の登録基準とは異なる。外科療法（スリーブ状胃切除術など）の適応基準と治療成績は本カードの出典では確認していないため、主張文には含めていない。
   curriculum:
@@ -357,6 +369,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ33 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-976 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: MT-011
   domain: MT
   subdomain: メタボリックシンドローム
@@ -446,7 +461,7 @@
     url: https://www.ncbi.nlm.nih.gov/books/NBK526080/
     source_license: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値は出典の章の要約で確認した。DOIは、PubMedレコードにDOIの記載がないため null とした。低蛋白血症を総蛋白量で定義する場合の基準値と、原因疾患ごとの診断の進め方は未確認である。
   curriculum:
@@ -465,6 +480,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した MT-037 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-978 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: MT-014
   domain: MT
   subdomain: 全身性アミロイドーシス
@@ -522,7 +540,7 @@
     url: https://doi.org/10.1056/NEJMoa1805689
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ33 2026-11-11）：ClinicalTrials.gov NCT01994889（ATTR-ACT、GOV_US、新規 SRC 候補）。裏づける部分と留保：登録者数441人、全死亡 HR 0.698（0.508–0.958）、死亡割合 29.5% 対 42.9%、心血管関連入院 RR 0.6761 がすべて一致
   uncertainty: 数値は試験の抄録で確認した。国内承認については、タファミジスがトランスサイレチン型心アミロイドーシス（野生型及び変異型）に承認されていることをPMDAの医薬品リスク管理計画書（ビンダケル・ビンマック）で確認した。トランスサイレチン型家族性アミロイドポリニューロパチーへの適応は用量・製剤が別であり、本カードの範囲外である。野生型と変異型で効果に差があるかどうかは抄録の範囲では確認していない。
   curriculum:
@@ -541,6 +559,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ33 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-980 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: MT-016
   domain: MT
   subdomain: 小児肥満
@@ -560,7 +581,7 @@
     url: https://doi.org/10.1210/jc.2016-2573
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 内容はガイドラインの抄録（結論部）で確認したもので、割合（約17%）は米国の数値である。脂質スクリーニングの具体的な対象年齢と頻度は抄録の範囲では確認していない。日本の小児肥満の判定方法（肥満度など）と国内の診療体制は本カードでは扱っていない。薬物療法の位置づけは2017年時点の推奨であり、その後の承認薬の状況は未確認である。
   curriculum:
@@ -576,6 +597,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-982 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: MT-017
   domain: MT
   subdomain: 脂質異常症の生活習慣介入
@@ -779,7 +803,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/29630239/
     source_license: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ33 2026-11-11）：壊血病の系統的レビュー（Nutrients、PMC13415094、CC BY、新規 SRC 候補）。裏づける部分と留保：壊血病の古典的所見（歯肉出血・毛孔性角化・らせん状の体毛・創傷治癒の遅延・点状出血・斑状出血・関節痛）は一致。ペラグラの部分は SRC-1000 の Table 1 が候補だが未確認
   uncertainty: 壊血病の個別症状は Kiani らの総説（SRC-986）の全文、ペラグラの症状は Kennedy らの総説（SRC-1000）の表で照合した内容であり、本カードの出典（ビタミンC欠乏の章）の抜粋にはペラグラの記載はない。章の本文はアクセス制限のため全文を確認できていない。
   curriculum:
@@ -801,6 +825,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ33 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-989 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: MT-023
   domain: MT
   subdomain: ビタミン過剰症
@@ -1013,7 +1040,7 @@
     url: https://doi.org/10.1182/blood-2012-05-423186
     source_license: PMC収載は著者原稿。CC表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 2012年の総説であり、その後の治療の進展（急性肝性ポルフィリン症への新規治療など）は含まれていない。ヘミン製剤の国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
   curriculum:
@@ -1029,6 +1056,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-993 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: MT-029
   domain: MT
   subdomain: 亜鉛欠乏症候群（腸性肢端皮膚炎）
@@ -1048,7 +1078,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/28722865/
     source_license: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 皮膚病変・下痢・脱毛という症状は Kiani らの総説（SRC-986）の全文に挙げられた亜鉛欠乏の症状で照合した。本カードの出典の抜粋は病因と後天性欠乏の位置づけが中心で、章の本文はアクセス制限のため全文を確認できていない。亜鉛製剤の国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
   curriculum:
@@ -1067,6 +1097,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した MT-040 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-994 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: MT-030
   domain: MT
   subdomain: Marfan症候群
@@ -1086,7 +1119,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/30726024/
     source_license: NCBI Bookshelf収載。章ページのライセンス表示はアクセス制限のため確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 頻度（3,000〜5,000人に1人）は出典の抜粋に報告値として記載されたものである。β遮断薬など後負荷軽減薬のMarfan症候群に対する国内の適応・保険適用は、薬剤ごとに異なると考えられるが、本調査では添付文書で確認していない（未確認）。章の本文はアクセス制限のため全文を確認できていない。
   curriculum:
@@ -1105,6 +1138,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 廃止：StatPearls（二次資料）を出典にしていたため、一次資料で出典を取り直した MT-041 に置き換え（docs/tasks/redo_statpearls.md、三原の承認による）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-995 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: MT-031
   domain: MT
   subdomain: Ehlers-Danlos症候群
@@ -1124,7 +1160,7 @@
     url: https://doi.org/10.1002/ajmg.c.31552
     source_license: ライセンス表示を確認できず（© Wiley Periodicals）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 各亜型の個別の臨床基準と原因遺伝子の一覧は、本カードでは抄録で確認できた範囲（13亜型、分子診断の位置づけ）にとどめ、含めていない。
   curriculum:
@@ -1140,6 +1176,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-996 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: MT-032
   domain: MT
   subdomain: 弾性線維性偽性黄色腫
@@ -1229,7 +1268,7 @@
     url: https://doi.org/10.1007/BF00861588
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は1993年の総説であり、家族性若年性高尿酸血症性腎症の原因遺伝子（ウロモジュリンUMODなど）の同定と、現在の常染色体優性尿細管間質性腎疾患（ADTKD）としての分類は、その後の進展であるため本カードには含めていない。Lesch-Nyhan症候群の神経症状と遺伝形式は、出典表の確認経路に記した Torres & Puig（2007年）の抄録で照合した。アロプリノールの国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
   curriculum:
@@ -1245,6 +1284,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-999 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: MT-035
   domain: MT
   subdomain: ビタミンA・K・Eの欠乏
@@ -1378,7 +1420,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/27726828/
     source_license: ライセンス表示を確認できず（© The Cleveland Clinic Foundation）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ33 2026-11-11）：壊血病の系統的レビュー（Nutrients、PMC13415094、CC BY、MT-022 と同じ候補）。裏づける部分と留保：皮膚所見（毛孔性角化・らせん状の毛髪・毛孔周囲の出血・点状出血）と創傷治癒の悪化は一致。「点状出血は遅れて現れる」という時系列とペラグラの要素は対象外
   uncertainty: 主張の内容は出典の本文（出版社ページ）で確認した範囲にとどめた。壊血病の歯肉出血や関節痛などの個別症状の詳細は、本出典の本文で確認した範囲を超えるものは含めていない。ビタミンC製剤とナイアシン製剤の国内の承認・保険適用は、本調査では確認していない（未確認）。
   curriculum:
@@ -1397,6 +1439,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ33 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1534 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: MT-039
   domain: MT
   subdomain: ビタミン過剰症
@@ -1486,7 +1531,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/20591885/
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 元のカードにあった頻度（3,000〜5,000人に1人）、侵される臓器の列挙（眼・心血管・骨格）、β遮断薬による治療と待機的手術という治療の内容は、本出典（診断基準の原著論文）の抄録では確認できないため新カードには含めていない。全身所見のスコアの項目ごとの内訳も抄録の範囲外である。新カードでは薬剤名を扱っていない。
   curriculum:
@@ -1502,6 +1547,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/redo_sp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1537 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: MT-042
   domain: MT
   subdomain: ビタミンA・K・Eの欠乏

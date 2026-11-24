@@ -28,7 +28,7 @@
 
 - 条件：region: 国際／study: コンセンサス声明（北米・欧州の小児内分泌学会、2009年）
 - 不確実性：出典は2009年のコンセンサス声明であり、その後のエビデンス（遺伝子診断の進歩や製剤の長期成績）との差分は未確認である。GnRH アナログ製剤の国内承認・保険適用（中枢性性早熟症への適応を含む）は未確認である。診断基準となる年齢の定義は出典の抄録範囲では確認していない。
-- 出典：Carel JC, Eugster EA, Rogol A, et al. Consensus Statement on the Use of Gonadotropin-Releasing Hormone Analogs in Children. Pediatrics. 2009;123(4):e752-e762.　[DOI 10.1542/peds.2008-1783](https://doi.org/10.1542/peds.2008-1783)　[PMID 19332438](https://pubmed.ncbi.nlm.nih.gov/19332438/)（区分 UNKNOWN）
+- 出典：Carel JC, Eugster EA, Rogol A, et al. Consensus Statement on the Use of Gonadotropin-Releasing Hormone Analogs in Children. Pediatrics. 2009;123(4):e752-e762.　[DOI 10.1542/peds.2008-1783](https://doi.org/10.1542/peds.2008-1783)　[PMID 19332438](https://pubmed.ncbi.nlm.nih.gov/19332438/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-A-②（中枢性性早熟症、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-002&card_id=EN-002&version=6cfc1e4c46)　（版 `6cfc1e4c46`）
 
@@ -154,7 +154,7 @@
 
 - 条件：region: 米国／study: ガイドライン（Endocrine Society、Cushing 症候群の治療、2015年版）
 - 不確実性：治療の位置づけはガイドライン抄録の結論で確認した。薬物療法の個別薬剤（ケトコナゾール、パシレオチド、ミフェプリストンなど）の国内承認・保険適用（Cushing 病への適応の有無を含む）は未確認である。Cushing 病と異所性 ACTH 症候群の鑑別（下垂静脈洞サンプリングを含む）の詳細は EN-009 の範囲と重なるため、ここでは治療の骨格に絞った。
-- 出典：Nieman LK, Biller BMK, Findling JW, et al. Treatment of Cushing's Syndrome: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2015;100(8):2807-2831.　[DOI 10.1210/jc.2015-1818](https://doi.org/10.1210/jc.2015-1818)　[PMID 26222757](https://pubmed.ncbi.nlm.nih.gov/26222757/)（区分 UNKNOWN）
+- 出典：Nieman LK, Biller BMK, Findling JW, et al. Treatment of Cushing's Syndrome: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2015;100(8):2807-2831.　[DOI 10.1210/jc.2015-1818](https://doi.org/10.1210/jc.2015-1818)　[PMID 26222757](https://pubmed.ncbi.nlm.nih.gov/26222757/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-B-④（Cushing病、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-456 (id: JlvnmKQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-011&card_id=EN-011&version=b8401775ff)　（版 `b8401775ff`）
 
@@ -248,7 +248,7 @@
 
 - 条件：region: 欧州／study: 総説（European Journal of Endocrinology、2018年）
 - 不確実性：分類と治療の骨格は出典の抄録で確認した。免疫チェックポイント阻害薬による下垂体炎の頻度などの数値は、この出典の抄録には含まれないため入れていない。グルココルチコイドや免疫抑制薬の国内承認・保険適用（下垂体炎への適応の有無を含む）は未確認である。
-- 出典：Joshi MN, Whitelaw BC, Carroll PV. Mechanisms in Endocrinology: Hypophysitis: Diagnosis and Treatment. European Journal of Endocrinology. 2018;179(3):R151-R163.　[DOI 10.1530/EJE-17-0009](https://doi.org/10.1530/EJE-17-0009)　[PMID 29880706](https://pubmed.ncbi.nlm.nih.gov/29880706/)（区分 UNKNOWN）
+- 出典：Joshi MN, Whitelaw BC, Carroll PV. Mechanisms in Endocrinology: Hypophysitis: Diagnosis and Treatment. European Journal of Endocrinology. 2018;179(3):R151-R163.　[DOI 10.1530/EJE-17-0009](https://doi.org/10.1530/EJE-17-0009)　[PMID 29880706](https://pubmed.ncbi.nlm.nih.gov/29880706/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-B-⑧（視床下部下垂体炎、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-458 (id: JlvnmKk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-018&card_id=EN-018&version=6d9dca9d75)　（版 `6d9dca9d75`）
 
@@ -264,7 +264,7 @@
 
 - 条件：region: 米国／study: ガイドライン（Endocrine Society、成人 GHD、2011年版）
 - 不確実性：診断と治療の骨格はガイドライン抄録の結論で確認した。刺激試験の種類やカットオフ値、GH 製剤の用量設定は抄録の範囲を超えるため入れていない。成長ホルモン製剤の国内承認・保険適用（成人 GHD への適応を含む）は未確認である。小児の低身長としての GHD（Ⅹ-10-A-①）は第22回 IE の範囲であり、ここでは成人に絞った。
-- 出典：Molitch ME, Clemmons DR, Malozowski S, et al. Evaluation and Treatment of Adult Growth Hormone Deficiency: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2011;96(6):1587-1609.　[DOI 10.1210/jc.2011-0179](https://doi.org/10.1210/jc.2011-0179)　[PMID 21602453](https://pubmed.ncbi.nlm.nih.gov/21602453/)（区分 UNKNOWN）
+- 出典：Molitch ME, Clemmons DR, Malozowski S, et al. Evaluation and Treatment of Adult Growth Hormone Deficiency: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2011;96(6):1587-1609.　[DOI 10.1210/jc.2011-0179](https://doi.org/10.1210/jc.2011-0179)　[PMID 21602453](https://pubmed.ncbi.nlm.nih.gov/21602453/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-1-B-⑥（下垂体前葉機能低下症、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-02-13-018 (id: JlAKptA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-019&card_id=EN-019&version=d4e731fe06)　（版 `d4e731fe06`）
 
@@ -472,7 +472,7 @@
 
 - 条件：region: 国際／study: 疾患総説（Nature Reviews Disease Primers、2016年）
 - 不確実性：数値（ALK変異10〜15%、5年全生存率50%）は抄録で確認した。高リスク群の治療の個別薬剤名や日本のリスク分類・治療プロトコルとの対応は未確認で、主張文には含めていない。出典のライセンス表示は Crossref で確認できなかったため UNKNOWN とした。
-- 出典：Matthay KK, Maris JM, Schleiermacher G, et al. Neuroblastoma. Nat Rev Dis Primers. 2016;2:16078.　[DOI 10.1038/nrdp.2016.78](https://doi.org/10.1038/nrdp.2016.78)　[PMID 27830764](https://pubmed.ncbi.nlm.nih.gov/27830764/)（区分 UNKNOWN）
+- 出典：Matthay KK, Maris JM, Schleiermacher G, et al. Neuroblastoma. Nat Rev Dis Primers. 2016;2:16078.　[DOI 10.1038/nrdp.2016.78](https://doi.org/10.1038/nrdp.2016.78)　[PMID 27830764](https://pubmed.ncbi.nlm.nih.gov/27830764/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-4-B-②（神経芽腫、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EN-032&card_id=EN-032&version=ac2c26647e)　（版 `ac2c26647e`）
 

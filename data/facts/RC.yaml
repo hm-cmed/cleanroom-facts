@@ -1113,7 +1113,7 @@
     url: https://doi.org/10.20452/pamw.3985
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録で確認した内容である。自己免疫性甲状腺疾患では悪性貧血・萎縮性胃炎の合併が貧血のリスクになる点も同抄録に記されているが、本カードの主張範囲外である。
   curriculum:
@@ -1129,6 +1129,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/38_hm_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-2474 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: RC-031
   domain: RC
   subdomain: 出血性貧血

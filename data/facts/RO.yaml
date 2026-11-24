@@ -899,7 +899,7 @@
     url: https://doi.org/10.1016/j.resinv.2021.01.007
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 英語ダイジェストの抄録で確認した内容。2025年に改訂版（咳嗽・喀痰の診療ガイドライン2025）が出ているが、内容を確認できなかったため旧版を出典にした。遷延性と慢性の境界（週数）は抄録では確認できなかった
   curriculum:
@@ -918,6 +918,9 @@
   - date: '2026-10-30'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅺ-1-C-① を足した（医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅳ-3-A-②（アトピー咳嗽、a） → 医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅳ-3-A-②（アトピー咳嗽、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a））。三原の承認による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-376 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: RO-026
   domain: RO
   subdomain: アトピー咳嗽
@@ -1083,7 +1086,7 @@
     url: https://www.omim.org/entry/604809
     source_license: 未確認（OMIM 本体ではなく、OMIM を出典と明記した FindZebra の転載ページで内容を確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: OMIM の記載を転載ページで確認した。OMIM 本体と原著論文は未確認。二次資料経由
   curriculum:
@@ -1099,6 +1102,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/11_rs_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-380 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: RO-031
   domain: RO
   subdomain: 閉塞性細気管支炎
@@ -1421,7 +1427,7 @@
     url: null
     source_license: ライセンス表示を確認できず（誌面に CC の表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: DOI は誌面と抄録ページの表示で確認できなかったため null とした。出典のライセンスも未確認。本文中で引用されていた死亡率10〜25%は二次引用のため、主張文には採用していない。
   curriculum:
@@ -1440,6 +1446,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。condition が空だったので新設した）。三原の承認による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-534 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: RO-040
   domain: RO
   subdomain: 気管・気管支の狭窄・閉塞

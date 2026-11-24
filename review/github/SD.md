@@ -114,7 +114,7 @@
 
 - 条件：region: 全世界
 - 不確実性：主張は出典の抄録で確認できた範囲に限定した。悪性転化の頻度は抄録の「10%未満」という記載に基づく。
-- 出典：Kanitakis J. Porokeratoses: an update of clinical, aetiopathogenic and therapeutic features. European Journal of Dermatology. 2014;24(5):533-544.　[DOI 10.1684/ejd.2014.2402](https://doi.org/10.1684/ejd.2014.2402)　[PMID 25115203](https://pubmed.ncbi.nlm.nih.gov/25115203/)（区分 UNKNOWN）
+- 出典：Kanitakis J. Porokeratoses: an update of clinical, aetiopathogenic and therapeutic features. European Journal of Dermatology. 2014;24(5):533-544.　[DOI 10.1684/ejd.2014.2402](https://doi.org/10.1684/ejd.2014.2402)　[PMID 25115203](https://pubmed.ncbi.nlm.nih.gov/25115203/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-C-④（汗孔角化症、c）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-010&card_id=SD-010&version=fa0aa50ddc)　（版 `fa0aa50ddc`）
 
@@ -228,7 +228,7 @@
 
 - 条件：region: 全世界
 - 不確実性：主張は出典の抄録で確認できた範囲に限定し、自然軽快の割合は抄録の「15年で50%」という記載に基づく。プレドニゾン、シクロスポリン等の個別薬剤について、国内の承認・保険適用は本担当では確認しておらず未確認である。
-- 出典：Paek SY, Lim HW. Chronic actinic dermatitis. Dermatologic Clinics. 2014;32(3):355-361.　[DOI 10.1016/j.det.2014.03.007](https://doi.org/10.1016/j.det.2014.03.007)　[PMID 24891057](https://pubmed.ncbi.nlm.nih.gov/24891057/)（区分 UNKNOWN）
+- 出典：Paek SY, Lim HW. Chronic actinic dermatitis. Dermatologic Clinics. 2014;32(3):355-361.　[DOI 10.1016/j.det.2014.03.007](https://doi.org/10.1016/j.det.2014.03.007)　[PMID 24891057](https://pubmed.ncbi.nlm.nih.gov/24891057/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-F-①（慢性光線性皮膚炎、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-019&card_id=SD-019&version=4f551f0868)　（版 `4f551f0868`）
 
@@ -244,7 +244,7 @@
 
 - 条件：region: 全世界
 - 不確実性：主張は出典の抄録で確認できた範囲に限定し、有病率は抄録の「約1%」という推計に基づく。個別の治療法の有効性の比較は抄録では確認できないため記載していない。
-- 出典：Ezzedine K, Eleftheriadou V, Whitton M, van Geel N. Vitiligo. The Lancet. 2015;386(9988):74-84.　[DOI 10.1016/S0140-6736(14)60763-7](https://doi.org/10.1016/S0140-6736(14)60763-7)　[PMID 25596811](https://pubmed.ncbi.nlm.nih.gov/25596811/)（区分 UNKNOWN）
+- 出典：Ezzedine K, Eleftheriadou V, Whitton M, van Geel N. Vitiligo. The Lancet. 2015;386(9988):74-84.　[DOI 10.1016/S0140-6736(14)60763-7](https://doi.org/10.1016/S0140-6736(14)60763-7)　[PMID 25596811](https://pubmed.ncbi.nlm.nih.gov/25596811/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-G-①（尋常性白斑、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-115 (id: JlvnlmY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-020&card_id=SD-020&version=9d4925cb8d)　（版 `9d4925cb8d`）
 
@@ -292,7 +292,7 @@
 
 - 条件：region: 国際
 - 不確実性：皮膚の萎縮・硬化や難治性潰瘍など個別の皮膚所見の頻度は、出典の抄録に明記されていないため本カードには含めていない。治療介入は研究段階であり、確立した治療法として記載していない。
-- 出典：Oshima J, Sidorova JM, Monnat RJ Jr. Werner syndrome: Clinical features, pathogenesis and potential therapeutic interventions. Ageing Res Rev. 2017;33:105-114.　[DOI 10.1016/j.arr.2016.03.002](https://doi.org/10.1016/j.arr.2016.03.002)　[PMID 26993153](https://pubmed.ncbi.nlm.nih.gov/26993153/)（区分 UNKNOWN）
+- 出典：Oshima J, Sidorova JM, Monnat RJ Jr. Werner syndrome: Clinical features, pathogenesis and potential therapeutic interventions. Ageing Res Rev. 2017;33:105-114.　[DOI 10.1016/j.arr.2016.03.002](https://doi.org/10.1016/j.arr.2016.03.002)　[PMID 26993153](https://pubmed.ncbi.nlm.nih.gov/26993153/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-H-③（Werner症候群、c）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-023&card_id=SD-023&version=17ab38feba)　（版 `17ab38feba`）
 
@@ -308,7 +308,7 @@
 
 - 条件：region: 国際
 - 不確実性：個別の治療（外用薬、イオントフォレーシス、ボツリヌス毒素局所療法など）の選択や効果の数値は出典の抄録の範囲を超えるため含めていない。汗腺そのものの疾患による発汗異常の詳細も本カードの範囲外である。
-- 出典：Coon EA, Cheshire WP Jr. Sweating Disorders. Continuum (Minneap Minn). 2020;26(1):116-137.　[DOI 10.1212/CON.0000000000000813](https://doi.org/10.1212/CON.0000000000000813)　[PMID 31996625](https://pubmed.ncbi.nlm.nih.gov/31996625/)（区分 UNKNOWN）
+- 出典：Coon EA, Cheshire WP Jr. Sweating Disorders. Continuum (Minneap Minn). 2020;26(1):116-137.　[DOI 10.1212/CON.0000000000000813](https://doi.org/10.1212/CON.0000000000000813)　[PMID 31996625](https://pubmed.ncbi.nlm.nih.gov/31996625/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-I-①（多汗症、無汗症、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-108 (id: Jlvnlls)；TBL-01-00-109 (id: Jlvnll0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-024&card_id=SD-024&version=bf5fd1118a)　（版 `bf5fd1118a`）
 
@@ -350,7 +350,7 @@
 
 - 条件：region: 国際
 - 不確実性：原因菌が同定できる割合（約15%）と米国の発生件数は出典の抄録に記載された値である。治療の詳細は別カード（SD-027、SD-028）に分け、本カードは診断に絞った。
-- 出典：Raff AB, Kroshinsky D. Cellulitis: A Review. JAMA. 2016;316(3):325-337.　[DOI 10.1001/jama.2016.8825](https://doi.org/10.1001/jama.2016.8825)　[PMID 27434444](https://pubmed.ncbi.nlm.nih.gov/27434444/)（区分 UNKNOWN）
+- 出典：Raff AB, Kroshinsky D. Cellulitis: A Review. JAMA. 2016;316(3):325-337.　[DOI 10.1001/jama.2016.8825](https://doi.org/10.1001/jama.2016.8825)　[PMID 27434444](https://pubmed.ncbi.nlm.nih.gov/27434444/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-J-②（蜂巣炎<蜂窩織炎>、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-090 (id: Jlvnljk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-026&card_id=SD-026&version=ac1ffac2a4)　（版 `ac1ffac2a4`）
 
@@ -386,7 +386,7 @@
 
 - 条件：region: 国際
 - 不確実性：出典は StatPearls の章で、DOI は付与されていない（PubMed レコードで確認）。原因菌の内訳や抗菌薬の個別薬剤・国内の承認状況は出典の抄録の範囲を超えるため含めていない。本カードは二次資料経由（StatPearls）である。
-- 出典：Nardi NM, McDonald EJ, Syed HA, Schaefer TJ. Felon. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024.　[PMID 28613683](https://pubmed.ncbi.nlm.nih.gov/28613683/)（区分 UNKNOWN）
+- 出典：Nardi NM, McDonald EJ, Syed HA, Schaefer TJ. Felon. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024.　[PMID 28613683](https://pubmed.ncbi.nlm.nih.gov/28613683/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-J-③（ひょう疽、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-029&card_id=SD-029&version=e449fb8837)　（版 `e449fb8837`）
 
@@ -418,7 +418,7 @@
 
 - 条件：region: 国際
 - 不確実性：数値は出典の抄録に記載された統合リスク比である。ムピロシンやフシジン酸など個別の外用薬の国内の承認・保険適用は未確認である。広範囲な膿痂疹で外用と経口のどちらが優れるかは出典でも結論が出ていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ムピロシン（バクトロバン）、フシジン酸（フシジンレオ）はいずれも伝染性膿痂疹を含む適応で承認済み。「未確認」は解消できる
-- 出典：Koning S, van der Sande R, Verhagen AP, et al. Interventions for impetigo. Cochrane Database Syst Rev. 2012;(1):CD003261.　[DOI 10.1002/14651858.CD003261.pub3](https://doi.org/10.1002/14651858.CD003261.pub3)　[PMID 22258953](https://pubmed.ncbi.nlm.nih.gov/22258953/)（区分 UNKNOWN）
+- 出典：Koning S, van der Sande R, Verhagen AP, et al. Interventions for impetigo. Cochrane Database Syst Rev. 2012;(1):CD003261.　[DOI 10.1002/14651858.CD003261.pub3](https://doi.org/10.1002/14651858.CD003261.pub3)　[PMID 22258953](https://pubmed.ncbi.nlm.nih.gov/22258953/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-J-⑤（伝染性膿痂疹、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-085 (id: JlvnljA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-031&card_id=SD-031&version=eea8fc9033)　（版 `eea8fc9033`）
 
@@ -670,7 +670,7 @@
 
 - 条件：region: 国際／study: 後方視的症例解析（100例）
 - 不確実性：数値（100例）は出典の抄録で確認した対象数であり、発症頻度などの母集団に対する割合は出典にないため記載していない。治療の詳細は本カードには含めていない。
-- 出典：Wollenberg A, Zoch C, Wetzel S, Plewig G, et al. Predisposing factors and clinical features of eczema herpeticum: a retrospective analysis of 100 cases. J Am Acad Dermatol. 2003;49(2):198-205.　[DOI 10.1067/s0190-9622(03)00896-x](https://doi.org/10.1067/s0190-9622(03)00896-x)　[PMID 12894065](https://pubmed.ncbi.nlm.nih.gov/12894065/)（区分 UNKNOWN）
+- 出典：Wollenberg A, Zoch C, Wetzel S, Plewig G, et al. Predisposing factors and clinical features of eczema herpeticum: a retrospective analysis of 100 cases. J Am Acad Dermatol. 2003;49(2):198-205.　[DOI 10.1067/s0190-9622(03)00896-x](https://doi.org/10.1067/s0190-9622(03)00896-x)　[PMID 12894065](https://pubmed.ncbi.nlm.nih.gov/12894065/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-N-②（カポジ水痘様発疹症、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-096 (id: JlvnlkE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-045&card_id=SD-045&version=8da15d8b52)　（版 `8da15d8b52`）
 
@@ -722,7 +722,7 @@
 
 - 条件：region: 米国
 - 不確実性：本ガイドラインは米国における痤瘡の管理を対象としており、本文に名前の出る薬剤（イソトレチノイン、ドキシサイクリン、過酸化ベンゾイル、外用レチノイド等）の国内の承認・保険適用は未確認である。酒皶様皮膚炎は本ガイドラインの対象外のため、その部分は定義的な記述に限った。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ドキシサイクリン、過酸化ベンゾイル（2015年承認）、外用レチノイド（アダパレンは2008年承認等）は痤瘡等の適応で承認済み。一方、イソトレチノインは国内未承認のままで、注記のこの部分は現行どおり
-- 出典：Reynolds RV, Yeung H, Cheng CE, Cook-Bolden F, et al. Guidelines of care for the management of acne vulgaris. J Am Acad Dermatol. 2024;90(5):1006.e1-1006.e30.　[DOI 10.1016/j.jaad.2023.12.017](https://doi.org/10.1016/j.jaad.2023.12.017)　[PMID 38300170](https://pubmed.ncbi.nlm.nih.gov/38300170/)（区分 UNKNOWN）
+- 出典：Reynolds RV, Yeung H, Cheng CE, Cook-Bolden F, et al. Guidelines of care for the management of acne vulgaris. J Am Acad Dermatol. 2024;90(5):1006.e1-1006.e30.　[DOI 10.1016/j.jaad.2023.12.017](https://doi.org/10.1016/j.jaad.2023.12.017)　[PMID 38300170](https://pubmed.ncbi.nlm.nih.gov/38300170/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-O-①（尋常性痤瘡、酒皶様皮膚炎、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-110 (id: Jlvnll4)；TBL-01-00-111 (id: JlvnlmA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-047&card_id=SD-047&version=c1879fc28f)　（版 `c1879fc28f`）
 
@@ -738,7 +738,7 @@
 
 - 条件：region: 国際
 - 不確実性：本カードは2部構成の総説の第1部（疾患の特徴、臨床評価、病因）の抄録で確認できる範囲に基づく。個別の治療薬の有効性の評価は第2部の範囲であり、本カードには含めていない。
-- 出典：Strazzulla LC, Wang EHC, Avila L, Lo Sicco K, et al. Alopecia areata: Disease characteristics, clinical evaluation, and new perspectives on pathogenesis. J Am Acad Dermatol. 2018;78(1):1-12.　[DOI 10.1016/j.jaad.2017.04.1141](https://doi.org/10.1016/j.jaad.2017.04.1141)　[PMID 29241771](https://pubmed.ncbi.nlm.nih.gov/29241771/)（区分 UNKNOWN）
+- 出典：Strazzulla LC, Wang EHC, Avila L, Lo Sicco K, et al. Alopecia areata: Disease characteristics, clinical evaluation, and new perspectives on pathogenesis. J Am Acad Dermatol. 2018;78(1):1-12.　[DOI 10.1016/j.jaad.2017.04.1141](https://doi.org/10.1016/j.jaad.2017.04.1141)　[PMID 29241771](https://pubmed.ncbi.nlm.nih.gov/29241771/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-P-①（円形脱毛症、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-048&card_id=SD-048&version=c245489633)　（版 `c245489633`）
 
@@ -774,7 +774,7 @@
 
 - 条件：region: 国際
 - 不確実性：自然消退までの期間（2年以内）は出典の抄録の記載に基づく。個別の治療法の有効性の比較は出典でも結論が出ておらず、本カードには含めていない。
-- 出典：Wang J, Khachemoune A. Granuloma Annulare: A Focused Review of Therapeutic Options. Am J Clin Dermatol. 2018;19(3):333-344.　[DOI 10.1007/s40257-017-0334-5](https://doi.org/10.1007/s40257-017-0334-5)　[PMID 29230666](https://pubmed.ncbi.nlm.nih.gov/29230666/)（区分 UNKNOWN）
+- 出典：Wang J, Khachemoune A. Granuloma Annulare: A Focused Review of Therapeutic Options. Am J Clin Dermatol. 2018;19(3):333-344.　[DOI 10.1007/s40257-017-0334-5](https://doi.org/10.1007/s40257-017-0334-5)　[PMID 29230666](https://pubmed.ncbi.nlm.nih.gov/29230666/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-Q-①（環状肉芽腫、c）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-049&card_id=SD-049&version=4fed4555b7)　（版 `4fed4555b7`）
 
@@ -790,7 +790,7 @@
 
 - 条件：region: 国際／study: 系統的レビュー（1970〜2016年の報告）
 - 不確実性：自然寛解の割合（約半数）は出典の抄録の記載に基づく。個別の治療法ごとの成績は出典でも多くが不成功の報告であり、本カードには含めていない。
-- 出典：Miguel D, Schliemann S, Elsner P. Treatment of Scleroedema Adultorum Buschke: A Systematic Review. Acta Derm Venereol. 2018;98(3):305-309.　[DOI 10.2340/00015555-2846](https://doi.org/10.2340/00015555-2846)　[PMID 29136263](https://pubmed.ncbi.nlm.nih.gov/29136263/)（区分 UNKNOWN）
+- 出典：Miguel D, Schliemann S, Elsner P. Treatment of Scleroedema Adultorum Buschke: A Systematic Review. Acta Derm Venereol. 2018;98(3):305-309.　[DOI 10.2340/00015555-2846](https://doi.org/10.2340/00015555-2846)　[PMID 29136263](https://pubmed.ncbi.nlm.nih.gov/29136263/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-R-①（浮腫性硬化症、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-050&card_id=SD-050&version=6b563b92b3)　（版 `6b563b92b3`）
 
@@ -806,7 +806,7 @@
 
 - 条件：region: 国際
 - 不確実性：出典は脛骨前粘液水腫の総説であり、アミロイド苔癬についての記述は出典の範囲外であるため、定義的な内容にとどめ、数値は入れていない。脛骨前粘液水腫の治療選択肢の詳細は本カードには含めていない。
-- 出典：Fatourechi V. Pretibial myxedema: pathophysiology and treatment options. Am J Clin Dermatol. 2005;6(5):295-309.　[DOI 10.2165/00128071-200506050-00003](https://doi.org/10.2165/00128071-200506050-00003)　[PMID 16252929](https://pubmed.ncbi.nlm.nih.gov/16252929/)（区分 UNKNOWN）
+- 出典：Fatourechi V. Pretibial myxedema: pathophysiology and treatment options. Am J Clin Dermatol. 2005;6(5):295-309.　[DOI 10.2165/00128071-200506050-00003](https://doi.org/10.2165/00128071-200506050-00003)　[PMID 16252929](https://pubmed.ncbi.nlm.nih.gov/16252929/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-3-R-②（脛骨前粘液水腫、c）；医学各論 Ⅲ-3-S-①（アミロイド苔癬、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SD-051&card_id=SD-051&version=1838a5a895)　（版 `1838a5a895`）
 

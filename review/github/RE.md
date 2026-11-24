@@ -12,7 +12,7 @@
 
 - 条件：region: 国際
 - 不確実性：各段階を定義する具体的な眼底所見（微小血管瘤のみ、網膜出血の範囲など）は本論文の分類表に示されているが、本カードでは抄録で確認できた段階構成のみを記載した。日本で用いられる分類（新福田分類など）との対応は本カードには含めていない。糖尿病網膜症の全身管理は DM-028（第21回）を正とし、本カードは眼科的な分類に限る。
-- 出典：Wilkinson CP, Ferris FL 3rd, Klein RE, et al. Proposed international clinical diabetic retinopathy and diabetic macular edema disease severity scales. Ophthalmology. 2003;110(9):1677-1682.　[DOI 10.1016/S0161-6420(03)00475-5](https://doi.org/10.1016/S0161-6420(03)00475-5)　[PMID 13129861](https://pubmed.ncbi.nlm.nih.gov/13129861/)（区分 UNKNOWN）
+- 出典：Wilkinson CP, Ferris FL 3rd, Klein RE, et al. Proposed international clinical diabetic retinopathy and diabetic macular edema disease severity scales. Ophthalmology. 2003;110(9):1677-1682.　[DOI 10.1016/S0161-6420(03)00475-5](https://doi.org/10.1016/S0161-6420(03)00475-5)　[PMID 13129861](https://pubmed.ncbi.nlm.nih.gov/13129861/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-C-①（糖尿病網膜症、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-497 (id: JlvnmOQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-001&card_id=RE-001&version=3d749d36ff)　（版 `3d749d36ff`）
 
@@ -28,7 +28,7 @@
 
 - 条件：region: 国際
 - 不確実性：本カードはガイドラインの抄録で確認できた治療の枠組みのみを記載し、病期ごとの具体的な治療適応や投与間隔は含めていない。本文中に抗 VEGF 薬とステロイドの硝子体内投与が挙げられているが、各薬剤の糖尿病網膜症・糖尿病黄斑浮腫に対する国内の承認・保険適用は未確認である。血糖・血圧などの全身管理は本カードの範囲外（DM-028 を正とする）。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ラニビズマブは糖尿病黄斑浮腫の適応で2014年2月21日に承認済みで、アフリベルセプト・トリアムシノロンアセトニドも糖尿病黄斑浮腫の承認薬である（PMDA再審査資料・日本眼科学会ガイドライン、2026-10-31確認）
-- 出典：Wong TY, Sun J, Kawasaki R, et al. Guidelines on Diabetic Eye Care: The International Council of Ophthalmology Recommendations for Screening, Follow-up, Referral, and Treatment Based on Resource Settings. Ophthalmology. 2018;125(10):1608-1622.　[DOI 10.1016/j.ophtha.2018.04.007](https://doi.org/10.1016/j.ophtha.2018.04.007)　[PMID 29776671](https://pubmed.ncbi.nlm.nih.gov/29776671/)（区分 UNKNOWN）
+- 出典：Wong TY, Sun J, Kawasaki R, et al. Guidelines on Diabetic Eye Care: The International Council of Ophthalmology Recommendations for Screening, Follow-up, Referral, and Treatment Based on Resource Settings. Ophthalmology. 2018;125(10):1608-1622.　[DOI 10.1016/j.ophtha.2018.04.007](https://doi.org/10.1016/j.ophtha.2018.04.007)　[PMID 29776671](https://pubmed.ncbi.nlm.nih.gov/29776671/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-C-①（糖尿病網膜症、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-497 (id: JlvnmOQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-002&card_id=RE-002&version=a710f53bde)　（版 `a710f53bde`）
 
@@ -44,7 +44,7 @@
 
 - 条件：region: 国際／study: 無作為化比較試験（DRCR.net Protocol T）
 - 不確実性：数値はいずれも出典の抄録で確認した1年後の結果である。用量はアフリベルセプト2.0 mg、ベバシズマブ1.25 mg、ラニビズマブ0.3 mg（米国の試験用量）であり、国内の承認用量とは限らない。各薬剤の糖尿病黄斑浮腫に対する国内の承認・保険適用は未確認である（ベバシズマブの硝子体内投与は出典の試験でも適応外使用の位置づけ）。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アフリベルセプトは糖尿病黄斑浮腫で2014年11月18日に適応追加され、ラニビズマブ・ファリシマブも同適応で承認済み。一方、ベバシズマブの硝子体内投与は適応外のままで、注記のこの部分は現行どおり
-- 出典：Diabetic Retinopathy Clinical Research Network; Wells JA, Glassman AR, Ayala AR, et al. Aflibercept, bevacizumab, or ranibizumab for diabetic macular edema. N Engl J Med. 2015;372(13):1193-1203.　[DOI 10.1056/NEJMoa1414264](https://doi.org/10.1056/NEJMoa1414264)　[PMID 25692915](https://pubmed.ncbi.nlm.nih.gov/25692915/)（区分 UNKNOWN）
+- 出典：Diabetic Retinopathy Clinical Research Network; Wells JA, Glassman AR, Ayala AR, et al. Aflibercept, bevacizumab, or ranibizumab for diabetic macular edema. N Engl J Med. 2015;372(13):1193-1203.　[DOI 10.1056/NEJMoa1414264](https://doi.org/10.1056/NEJMoa1414264)　[PMID 25692915](https://pubmed.ncbi.nlm.nih.gov/25692915/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-C-①（糖尿病網膜症、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-497 (id: JlvnmOQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-003&card_id=RE-003&version=c618018a6c)　（版 `c618018a6c`）
 
@@ -92,7 +92,7 @@
 
 - 条件：region: 米国
 - 不確実性：本カードは米国心臓協会の科学的声明の抄録に基づく。血栓溶解療法の投与可能時間などの具体的な条件は声明本文の検討事項であり、本カードには含めていない。組織プラスミノーゲンアクチベータの網膜中心動脈閉塞症に対する国内の承認・保険適用は未確認である。眼球マッサージや前房穿刺などの従来処置の評価も声明本文の範囲で、本カードでは扱っていない。
-- 出典：Mac Grory B, Schrag M, Biousse V, et al. Management of Central Retinal Artery Occlusion: A Scientific Statement From the American Heart Association. Stroke. 2021;52(6):e282-e294.　[DOI 10.1161/STR.0000000000000366](https://doi.org/10.1161/STR.0000000000000366)　[PMID 33677974](https://pubmed.ncbi.nlm.nih.gov/33677974/)（区分 UNKNOWN）
+- 出典：Mac Grory B, Schrag M, Biousse V, et al. Management of Central Retinal Artery Occlusion: A Scientific Statement From the American Heart Association. Stroke. 2021;52(6):e282-e294.　[DOI 10.1161/STR.0000000000000366](https://doi.org/10.1161/STR.0000000000000366)　[PMID 33677974](https://pubmed.ncbi.nlm.nih.gov/33677974/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-C-④（網膜動脈閉塞症、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-500 (id: JlvnmOo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-006&card_id=RE-006&version=bfc646a2c0)　（版 `bfc646a2c0`）
 
@@ -108,7 +108,7 @@
 
 - 条件：region: 国際
 - 不確実性：Keith-Wagener-Barker 分類などの段階分類の定義（細動脈狭細化、交叉現象、綿花様白斑、乳頭浮腫の段階づけ）は出典本文の表に示される内容であり、抄録では確認できなかったため本カードには含めていない。分類表を用いる場合は本文の表から読み取りのうえ別途確認が必要である。
-- 出典：Wong TY, Mitchell P. The eye in hypertension. Lancet. 2007;369(9559):425-435.　[DOI 10.1016/S0140-6736(07)60198-6](https://doi.org/10.1016/S0140-6736(07)60198-6)　[PMID 17276782](https://pubmed.ncbi.nlm.nih.gov/17276782/)（区分 UNKNOWN）
+- 出典：Wong TY, Mitchell P. The eye in hypertension. Lancet. 2007;369(9559):425-435.　[DOI 10.1016/S0140-6736(07)60198-6](https://doi.org/10.1016/S0140-6736(07)60198-6)　[PMID 17276782](https://pubmed.ncbi.nlm.nih.gov/17276782/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-007&card_id=RE-007&version=1ad7797731)　（版 `1ad7797731`）
 
@@ -156,7 +156,7 @@
 
 - 条件：region: 国際
 - 不確実性：出典は2013年の総説で、抄録で確認できた範囲のみを記載した。気体網膜復位術（pneumatic retinopexy）の適応や、タンポナーデ物質の選択、黄斑剥離の有無による手術緊急度の具体的な基準は抄録の範囲外であり、本カードには含めていない。
-- 出典：Schwartz SG, Flynn HW Jr, Mieler WF. Update on retinal detachment surgery. Curr Opin Ophthalmol. 2013;24(3):255-261.　[DOI 10.1097/ICU.0b013e32835f8e6b](https://doi.org/10.1097/ICU.0b013e32835f8e6b)　[PMID 23429600](https://pubmed.ncbi.nlm.nih.gov/23429600/)（区分 UNKNOWN）
+- 出典：Schwartz SG, Flynn HW Jr, Mieler WF. Update on retinal detachment surgery. Curr Opin Ophthalmol. 2013;24(3):255-261.　[DOI 10.1097/ICU.0b013e32835f8e6b](https://doi.org/10.1097/ICU.0b013e32835f8e6b)　[PMID 23429600](https://pubmed.ncbi.nlm.nih.gov/23429600/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-C-②（網膜剝離、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-498 (id: JlvnmOE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-010&card_id=RE-010&version=18efef6077)　（版 `18efef6077`）
 
@@ -172,7 +172,7 @@
 
 - 条件：region: 国際
 - 不確実性：出典の抄録には、高齢化する集団では20%を超える人が本症を有する可能性があるとの記載があるが、対象集団の定義が抄録では明確でないため本カードの数値としては採用しなかった。ドルーゼンの分類や国際分類の段階の詳細は本文の範囲であり、本カードには含めていない。
-- 出典：Lim LS, Mitchell P, Seddon JM, Holz FG, Wong TY. Age-related macular degeneration. Lancet. 2012;379(9827):1728-1738.　[DOI 10.1016/S0140-6736(12)60282-7](https://doi.org/10.1016/S0140-6736(12)60282-7)　[PMID 22559899](https://pubmed.ncbi.nlm.nih.gov/22559899/)（区分 UNKNOWN）
+- 出典：Lim LS, Mitchell P, Seddon JM, Holz FG, Wong TY. Age-related macular degeneration. Lancet. 2012;379(9827):1728-1738.　[DOI 10.1016/S0140-6736(12)60282-7](https://doi.org/10.1016/S0140-6736(12)60282-7)　[PMID 22559899](https://pubmed.ncbi.nlm.nih.gov/22559899/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-C-⑥（加齢黄斑変性、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-499 (id: JlvnmOI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-011&card_id=RE-011&version=13e705e588)　（版 `13e705e588`）
 
@@ -188,7 +188,7 @@
 
 - 条件：region: 国際／study: 無作為化比較試験（MARINA）
 - 不確実性：数値はいずれも出典の抄録で確認した。対象は minimally classic 型または occult 型の脈絡膜新生血管であり、classic 型主体の病変への結果は別の試験の範囲である。ラニビズマブ以外の抗 VEGF 薬や現在の投与プロトコル（treat-and-extend 等）は本カードには含めていない。ラニビズマブの加齢黄斑変性に対する国内の承認・保険適用は未確認である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ラニビズマブ（ルセンティス）は中心窩下脈絡膜新生血管を伴う加齢黄斑変性の適応で2009年1月に承認され、保険適用がある（PMDA添付文書）。
-- 出典：Rosenfeld PJ, Brown DM, Heier JS, et al. Ranibizumab for neovascular age-related macular degeneration. N Engl J Med. 2006;355(14):1419-1431.　[DOI 10.1056/NEJMoa054481](https://doi.org/10.1056/NEJMoa054481)　[PMID 17021318](https://pubmed.ncbi.nlm.nih.gov/17021318/)（区分 UNKNOWN）
+- 出典：Rosenfeld PJ, Brown DM, Heier JS, et al. Ranibizumab for neovascular age-related macular degeneration. N Engl J Med. 2006;355(14):1419-1431.　[DOI 10.1056/NEJMoa054481](https://doi.org/10.1056/NEJMoa054481)　[PMID 17021318](https://pubmed.ncbi.nlm.nih.gov/17021318/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-C-⑥（加齢黄斑変性、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-499 (id: JlvnmOI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-012&card_id=RE-012&version=408c18d16c)　（版 `408c18d16c`）
 
@@ -220,7 +220,7 @@
 
 - 条件：region: 国際
 - 不確実性：出典は2014年の総説で、抄録で確認できた病態と臨床経過のみを記載した。有病率の具体的な数値、変視症などの自覚症状の頻度、硝子体手術（膜剥離）の適応基準や手術成績は抄録の範囲外であり、本カードには含めていない。二次性の黄斑前膜（糖尿病網膜症や網膜静脈閉塞症に伴うもの）は本カードの対象外である。
-- 出典：Bu SC, Kuijer R, Li XR, Hooymans JM, Los LI. Idiopathic epiretinal membrane. Retina. 2014;34(12):2317-2335.　[DOI 10.1097/IAE.0000000000000349](https://doi.org/10.1097/IAE.0000000000000349)　[PMID 25360790](https://pubmed.ncbi.nlm.nih.gov/25360790/)（区分 UNKNOWN）
+- 出典：Bu SC, Kuijer R, Li XR, Hooymans JM, Los LI. Idiopathic epiretinal membrane. Retina. 2014;34(12):2317-2335.　[DOI 10.1097/IAE.0000000000000349](https://doi.org/10.1097/IAE.0000000000000349)　[PMID 25360790](https://pubmed.ncbi.nlm.nih.gov/25360790/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-C-⑩（黄斑円孔、網膜上膜<網膜前膜>、c）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-014&card_id=RE-014&version=2af4f42278)　（版 `2af4f42278`）
 
@@ -236,7 +236,7 @@
 
 - 条件：region: 米国／study: 無作為化非劣性試験（SCORE2）
 - 不確実性：数値はいずれも出典の抄録で確認した6か月時点の結果である。出典自体が、ベバシズマブはこの病態に対して適応外で使用されていることを明記している。ベバシズマブの硝子体内投与およびアフリベルセプトの網膜中心静脈閉塞症に伴う黄斑浮腫に対する国内の承認・保険適用は未確認である。糖尿病黄斑浮腫など他の原因による黄斑浮腫の治療は RE-003 など別カードの範囲である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】アフリベルセプトは網膜中心静脈閉塞症に伴う黄斑浮腫で2013年11月22日に適応追加（2015年6月26日に網膜静脈閉塞症に伴う黄斑浮腫として整理）されており「未確認」は失効。一方、ベバシズマブの硝子体内投与は適応外のままで、この部分は現行どおり
-- 出典：Scott IU, VanVeldhuisen PC, Ip MS, et al. Effect of Bevacizumab vs Aflibercept on Visual Acuity Among Patients With Macular Edema Due to Central Retinal Vein Occlusion: The SCORE2 Randomized Clinical Trial. JAMA. 2017;317(20):2072-2087.　[DOI 10.1001/jama.2017.4568](https://doi.org/10.1001/jama.2017.4568)　[PMID 28492910](https://pubmed.ncbi.nlm.nih.gov/28492910/)（区分 UNKNOWN）
+- 出典：Scott IU, VanVeldhuisen PC, Ip MS, et al. Effect of Bevacizumab vs Aflibercept on Visual Acuity Among Patients With Macular Edema Due to Central Retinal Vein Occlusion: The SCORE2 Randomized Clinical Trial. JAMA. 2017;317(20):2072-2087.　[DOI 10.1001/jama.2017.4568](https://doi.org/10.1001/jama.2017.4568)　[PMID 28492910](https://pubmed.ncbi.nlm.nih.gov/28492910/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-C-③（網膜静脈閉塞症、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-015&card_id=RE-015&version=df2644da9f)　（版 `df2644da9f`）
 
@@ -284,7 +284,7 @@
 
 - 条件：region: 国際
 - 不確実性：出典は1997年の総説であり、頻度と原因の割合はいずれも出典の抄録に記載された当時の値である。現在の原因構成や、糖尿病網膜症に伴う硝子体出血への抗 VEGF 薬の位置づけなど、近年の診療は本カードの範囲外である。出題基準の表に硝子体出血の項目がないため kokushi は null とした。
-- 出典：Spraul CW, Grossniklaus HE. Vitreous Hemorrhage. Surv Ophthalmol. 1997;42(1):3-39.　[DOI 10.1016/S0039-6257(97)84041-6](https://doi.org/10.1016/S0039-6257(97)84041-6)　[PMID 9265701](https://pubmed.ncbi.nlm.nih.gov/9265701/)（区分 UNKNOWN）
+- 出典：Spraul CW, Grossniklaus HE. Vitreous Hemorrhage. Surv Ophthalmol. 1997;42(1):3-39.　[DOI 10.1016/S0039-6257(97)84041-6](https://doi.org/10.1016/S0039-6257(97)84041-6)　[PMID 9265701](https://pubmed.ncbi.nlm.nih.gov/9265701/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-D-①（硝子体出血、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-018&card_id=RE-018&version=02924c5eca)　（版 `02924c5eca`）
 
@@ -300,7 +300,7 @@
 
 - 条件：region: 国際
 - 不確実性：7つの眼内臨床所見と8つの全身検査所見の具体的な項目は基準本文の表に示される内容であり、抄録では項目数までしか確認できなかったため、本カードでは項目の内訳を含めていない。項目を転記する場合は本文の表から読み取りのうえ確認が必要である。サルコイドーシスの肺病変などの全身像は本カードの範囲外である。出題基準の表にサルコイドーシスの眼病変の項目がないため kokushi は null とした。
-- 出典：Mochizuki M, Smith JR, Takase H, et al. Revised criteria of International Workshop on Ocular Sarcoidosis (IWOS) for the diagnosis of ocular sarcoidosis. Br J Ophthalmol. 2019;103(10):1418-1422.　[DOI 10.1136/bjophthalmol-2018-313356](https://doi.org/10.1136/bjophthalmol-2018-313356)　[PMID 30798264](https://pubmed.ncbi.nlm.nih.gov/30798264/)（区分 UNKNOWN）
+- 出典：Mochizuki M, Smith JR, Takase H, et al. Revised criteria of International Workshop on Ocular Sarcoidosis (IWOS) for the diagnosis of ocular sarcoidosis. Br J Ophthalmol. 2019;103(10):1418-1422.　[DOI 10.1136/bjophthalmol-2018-313356](https://doi.org/10.1136/bjophthalmol-2018-313356)　[PMID 30798264](https://pubmed.ncbi.nlm.nih.gov/30798264/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-A-⑤（サルコイドーシス、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-496 (id: JlvnmOY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-019&card_id=RE-019&version=5a794d5752)　（版 `5a794d5752`）
 
@@ -332,7 +332,7 @@
 
 - 条件：region: グローバル／study: 細菌性・真菌性眼内炎に関する総説
 - 不確実性：抗菌薬の個別薬剤名は記載していないため、個別薬剤の国内承認・保険適用の確認は対象外である。起炎菌ごとの予後の差は抄録の記載に基づく一般論にとどめた。
-- 出典：Durand ML. Bacterial and Fungal Endophthalmitis. Clin Microbiol Rev. 2017;30(3):597-613.　[DOI 10.1128/CMR.00113-16](https://doi.org/10.1128/CMR.00113-16)　[PMID 28356323](https://pubmed.ncbi.nlm.nih.gov/28356323/)（区分 UNKNOWN）
+- 出典：Durand ML. Bacterial and Fungal Endophthalmitis. Clin Microbiol Rev. 2017;30(3):597-613.　[DOI 10.1128/CMR.00113-16](https://doi.org/10.1128/CMR.00113-16)　[PMID 28356323](https://pubmed.ncbi.nlm.nih.gov/28356323/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-B-①（眼内炎、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-496 (id: JlvnmOY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-021&card_id=RE-021&version=8e5b5eabbb)　（版 `8e5b5eabbb`）
 
@@ -348,7 +348,7 @@
 
 - 条件：region: グローバル／study: 国際的な症例データベースに基づく分類基準の開発研究
 - 不確実性：数値は抄録で確認した。分類基準と臨床診断基準は目的が異なる点に注意が必要である。各疾患ごとの基準の細目は本文確認が望ましい。
-- 出典：Standardization of Uveitis Nomenclature (SUN) Working Group. Development of Classification Criteria for the Uveitides. Am J Ophthalmol. 2021;228:96-105.　[DOI 10.1016/j.ajo.2021.03.061](https://doi.org/10.1016/j.ajo.2021.03.061)　[PMID 33848532](https://pubmed.ncbi.nlm.nih.gov/33848532/)（区分 UNKNOWN）
+- 出典：Standardization of Uveitis Nomenclature (SUN) Working Group. Development of Classification Criteria for the Uveitides. Am J Ophthalmol. 2021;228:96-105.　[DOI 10.1016/j.ajo.2021.03.061](https://doi.org/10.1016/j.ajo.2021.03.061)　[PMID 33848532](https://pubmed.ncbi.nlm.nih.gov/33848532/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-496 (id: JlvnmOY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-022&card_id=RE-022&version=0f25927b6a)　（版 `0f25927b6a`）
 
@@ -380,7 +380,7 @@
 
 - 条件：region: ヨーロッパ・米国／study: ぶどう膜悪性黒色腫に関する疾患プライマー総説
 - 不確実性：数値は抄録で確認した。転移例で報告される個別薬剤名は本カードの主張には含めておらず、それらの国内承認・保険適用は未確認。日本での発症頻度は出典の対象外である。
-- 出典：Jager MJ, Shields CL, Cebulla CM, et al. Uveal melanoma. Nat Rev Dis Primers. 2020;6(1):24.　[DOI 10.1038/s41572-020-0158-0](https://doi.org/10.1038/s41572-020-0158-0)　[PMID 32273508](https://pubmed.ncbi.nlm.nih.gov/32273508/)（区分 UNKNOWN）
+- 出典：Jager MJ, Shields CL, Cebulla CM, et al. Uveal melanoma. Nat Rev Dis Primers. 2020;6(1):24.　[DOI 10.1038/s41572-020-0158-0](https://doi.org/10.1038/s41572-020-0158-0)　[PMID 32273508](https://pubmed.ncbi.nlm.nih.gov/32273508/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-E-①（脈絡膜腫瘍、c）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-024&card_id=RE-024&version=2909d49db7)　（版 `2909d49db7`）
 
@@ -412,7 +412,7 @@
 
 - 条件：region: 国際／study: 国際ワークショップの合意による用語標準化
 - 不確実性：解剖学的分類の内訳は出典の分類表（Table 1）から読み取った内容を含む（表から読み取り）。本出典は用語と部位分類の標準化が目的であり、後部ぶどう膜炎を来す個々の疾患の分類基準や、感染性疾患ごとの検査手順は含めていない。サルコイドーシスには触れていない（RE-019で扱い済みのため）。本カードには薬剤名を含めていない。
-- 出典：Standardization of Uveitis Nomenclature (SUN) Working Group. Standardization of uveitis nomenclature for reporting clinical data. Results of the First International Workshop. Am J Ophthalmol. 2005;140(3):509-516.　[DOI 10.1016/j.ajo.2005.03.057](https://doi.org/10.1016/j.ajo.2005.03.057)　[PMID 16196117](https://pubmed.ncbi.nlm.nih.gov/16196117/)（区分 UNKNOWN）
+- 出典：Standardization of Uveitis Nomenclature (SUN) Working Group. Standardization of uveitis nomenclature for reporting clinical data. Results of the First International Workshop. Am J Ophthalmol. 2005;140(3):509-516.　[DOI 10.1016/j.ajo.2005.03.057](https://doi.org/10.1016/j.ajo.2005.03.057)　[PMID 16196117](https://pubmed.ncbi.nlm.nih.gov/16196117/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-A-③（後部ぶどう膜炎<脈絡膜炎、網脈絡膜炎>、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-496 (id: JlvnmOY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-026&card_id=RE-026&version=12dc10a0ec)　（版 `12dc10a0ec`）
 
@@ -428,7 +428,7 @@
 
 - 条件：region: 国際／study: 汎ぶどう膜炎1,012例（早期156例・晩期103例を含む）での機械学習による分類基準作成
 - 不確実性：早期・晩期の分類基準の具体的な項目は出典の基準表（Table 3およびTable 4）から読み取った内容を含む（表から読み取り）。本出典の基準は研究用の分類基準であり、臨床の診断基準とは目的が異なることが本文で述べられている。本出典では肉芽腫性という表現は確認できなかったため、主張文には含めていない。神経症状と皮膚所見は分類基準の文脈でのみ触れ、全身像と全身治療の詳細は含めていない。本カードには薬剤名を含めていない。
-- 出典：Standardization of Uveitis Nomenclature (SUN) Working Group. Classification criteria for Vogt-Koyanagi-Harada disease. Am J Ophthalmol. 2021;228:205-211.　[DOI 10.1016/j.ajo.2021.03.036](https://doi.org/10.1016/j.ajo.2021.03.036)　[PMID 33845018](https://pubmed.ncbi.nlm.nih.gov/33845018/)（区分 UNKNOWN）
+- 出典：Standardization of Uveitis Nomenclature (SUN) Working Group. Classification criteria for Vogt-Koyanagi-Harada disease. Am J Ophthalmol. 2021;228:205-211.　[DOI 10.1016/j.ajo.2021.03.036](https://doi.org/10.1016/j.ajo.2021.03.036)　[PMID 33845018](https://pubmed.ncbi.nlm.nih.gov/33845018/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-A-④（Vogt-小柳-原田病、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-496 (id: JlvnmOY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-027&card_id=RE-027&version=e88cc94ebc)　（版 `e88cc94ebc`）
 
@@ -444,7 +444,7 @@
 
 - 条件：region: 国際／study: 国際的なメタ解析に基づく写真分類と重症度判定の提案（META-PM）
 - 不確実性：カテゴリーとプラス病変の内訳は、本分類を転載した総説の分類表から読み取った内容を含む（表から読み取り）。本論文自体は写真による黄斑症分類の提案であり、網膜分離症などの牽引性黄斑症はこの写真分類の対象外のため本カードでは扱っていない（別出典での確認が必要）。眼軸長の具体的な閾値は本分類の定義には含まれないため記載していない。本カードには薬剤名を含めていないため、国内の承認・保険適用に関する注記は不要である。
-- 出典：Ohno-Matsui K, Kawasaki R, Jonas JB, et al.; META-analysis for Pathologic Myopia (META-PM) Study Group. International photographic classification and grading system for myopic maculopathy. Am J Ophthalmol. 2015;159(5):877-883.e7.　[DOI 10.1016/j.ajo.2015.01.022](https://doi.org/10.1016/j.ajo.2015.01.022)　[PMID 25634530](https://pubmed.ncbi.nlm.nih.gov/25634530/)（区分 UNKNOWN）
+- 出典：Ohno-Matsui K, Kawasaki R, Jonas JB, et al.; META-analysis for Pathologic Myopia (META-PM) Study Group. International photographic classification and grading system for myopic maculopathy. Am J Ophthalmol. 2015;159(5):877-883.e7.　[DOI 10.1016/j.ajo.2015.01.022](https://doi.org/10.1016/j.ajo.2015.01.022)　[PMID 25634530](https://pubmed.ncbi.nlm.nih.gov/25634530/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-C-⑧（変性近視、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-028&card_id=RE-028&version=1511ef4474)　（版 `1511ef4474`）
 
@@ -470,7 +470,7 @@
 
 - 条件：region: 国際／対象: スマートフォンアプリの調査に回答した603人
 - 不確実性：回答者がスマートフォン利用者に限られる自己選択集団の調査で選択バイアスが強く、これらの割合は一般人口の有病率ではない。ライセンス種別は Crossref 未登録のため確認できていない。
-- 出典：Webb BF, Webb JR, Schroeder MC, North CS. Int J Ophthalmol. 2013;6(3):402-405.　[DOI 10.3980/j.issn.2222-3959.2013.03.27](https://doi.org/10.3980/j.issn.2222-3959.2013.03.27)　[PMID 23826541](https://pubmed.ncbi.nlm.nih.gov/23826541/)（区分 UNKNOWN）
+- 出典：Webb BF, Webb JR, Schroeder MC, North CS. Int J Ophthalmol. 2013;6(3):402-405.　[DOI 10.3980/j.issn.2222-3959.2013.03.27](https://doi.org/10.3980/j.issn.2222-3959.2013.03.27)　[PMID 23826541](https://pubmed.ncbi.nlm.nih.gov/23826541/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-6-D-②（硝子体混濁、c）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RE-030&card_id=RE-030&version=edc2d9a17c)　（版 `edc2d9a17c`）
 

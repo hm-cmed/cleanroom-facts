@@ -60,7 +60,7 @@
 
 - 条件：region: 全般／study: 総説
 - 不確実性：抄録で確認できた範囲（機序・異物の種類・合併症によって転帰が異なること、画像診断と外科的除去が中心であること）に限定した。発生率や術式別の成績などの数値は含めていない。
-- 出典：Loporchio D, Mukkamala L, Gorukanti K, Zarbin MA, Langer P, Bhagat N. Intraocular foreign bodies: A review. Surv Ophthalmol. 2016;61(5):582-596　[DOI 10.1016/j.survophthal.2016.03.005](https://doi.org/10.1016/j.survophthal.2016.03.005)　[PMID 26994871](https://pubmed.ncbi.nlm.nih.gov/26994871/)（区分 UNKNOWN）
+- 出典：Loporchio D, Mukkamala L, Gorukanti K, Zarbin MA, Langer P, Bhagat N. Intraocular foreign bodies: A review. Surv Ophthalmol. 2016;61(5):582-596　[DOI 10.1016/j.survophthal.2016.03.005](https://doi.org/10.1016/j.survophthal.2016.03.005)　[PMID 26994871](https://pubmed.ncbi.nlm.nih.gov/26994871/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-11-B-①（異物、a）；医学各論 Ⅲ-11-B-③（鋭的眼外傷、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-004&card_id=EY-004&version=ef5b471837)　（版 `ef5b471837`）
 
@@ -208,7 +208,7 @@
 
 - 条件：region: 全般／study: 国際コンセンサス（デルファイ法）
 - 不確実性：出題項目に含まれる角膜上皮びらんと Herbert 小窩については、本カードの出典（円錐角膜の国際コンセンサス）では確認できず含めていない。Herbert 小窩はトラコーマの輪部所見である。上皮びらんを主症状とする疾患群は EY-020 の出典（IC3D 第3版、SRC-1262）が扱っている。コンセンサスには後継の第2版が存在する可能性があり、その公表状況は未確認である。
-- 出典：Gomes JAP, Tan D, Rapuano CJ, Belin MW, Ambrósio R Jr, Guell JL, Malecaze F, Nishida K, Sangwan VS; Group of Panelists for the Global Delphi Panel of Keratoconus and Ectatic Diseases. Global consensus on keratoconus and ectatic diseases. Cornea. 2015;34(4):359-369　[DOI 10.1097/ICO.0000000000000408](https://doi.org/10.1097/ICO.0000000000000408)　[PMID 25738235](https://pubmed.ncbi.nlm.nih.gov/25738235/)（区分 UNKNOWN）
+- 出典：Gomes JAP, Tan D, Rapuano CJ, Belin MW, Ambrósio R Jr, Guell JL, Malecaze F, Nishida K, Sangwan VS; Group of Panelists for the Global Delphi Panel of Keratoconus and Ectatic Diseases. Global consensus on keratoconus and ectatic diseases. Cornea. 2015;34(4):359-369　[DOI 10.1097/ICO.0000000000000408](https://doi.org/10.1097/ICO.0000000000000408)　[PMID 25738235](https://pubmed.ncbi.nlm.nih.gov/25738235/)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-019&card_id=EY-019&version=336b01bb0d)　（版 `336b01bb0d`）
 
@@ -228,7 +228,7 @@
 
 - 条件：region: 全般／study: 総説
 - 不確実性：薬剤（免疫抑制薬）について、国内での承認・保険適用の確認状況：未確認。主張は抄録で確認できた定義・病因・対応の枠組みに限定し、原因疾患ごとの頻度や治療成績の数値は含めていない。
-- 出典：Gupta Y, Kishore A, Kumari P, Balakrishnan N, Lomi N, Gupta N, Vanathi M, Tandon R. Peripheral ulcerative keratitis: A comprehensive review. Surv Ophthalmol. 2021;66(6):977-998　[DOI 10.1016/j.survophthal.2021.02.013](https://doi.org/10.1016/j.survophthal.2021.02.013)　[PMID 33657431](https://pubmed.ncbi.nlm.nih.gov/33657431/)（区分 UNKNOWN）
+- 出典：Gupta Y, Kishore A, Kumari P, Balakrishnan N, Lomi N, Gupta N, Vanathi M, Tandon R. Peripheral ulcerative keratitis: A comprehensive review. Surv Ophthalmol. 2021;66(6):977-998　[DOI 10.1016/j.survophthal.2021.02.013](https://doi.org/10.1016/j.survophthal.2021.02.013)　[PMID 33657431](https://pubmed.ncbi.nlm.nih.gov/33657431/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-C-⑨（角膜潰瘍、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-021&card_id=EY-021&version=2955083411)　（版 `2955083411`）
 
@@ -280,7 +280,7 @@
 
 - 条件：region: 全般／study: 国際ワークショップ報告（TFOS DEWS II）
 - 不確実性：定義と分類は TFOS DEWS II（2017）に基づく。2025年に後継の DEWS III が公表され定義が更新されているため、本カードの定義と最新定義との差異は未確認である。
-- 出典：Craig JP, Nichols KK, Akpek EK, Caffery B, Dua HS, Joo CK, Liu Z, Nelson JD, Nichols JJ, Tsubota K, Stapleton F. TFOS DEWS II Definition and Classification Report. Ocul Surf. 2017;15(3):276-283　[DOI 10.1016/j.jtos.2017.05.008](https://doi.org/10.1016/j.jtos.2017.05.008)　[PMID 28736335](https://pubmed.ncbi.nlm.nih.gov/28736335/)（区分 UNKNOWN）
+- 出典：Craig JP, Nichols KK, Akpek EK, Caffery B, Dua HS, Joo CK, Liu Z, Nelson JD, Nichols JJ, Tsubota K, Stapleton F. TFOS DEWS II Definition and Classification Report. Ocul Surf. 2017;15(3):276-283　[DOI 10.1016/j.jtos.2017.05.008](https://doi.org/10.1016/j.jtos.2017.05.008)　[PMID 28736335](https://pubmed.ncbi.nlm.nih.gov/28736335/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-C-⑪（涙液分泌障害、c）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-017&card_id=EY-017&version=0d7698ee4e)　（版 `0d7698ee4e`）
 
@@ -332,7 +332,7 @@
 
 - 条件：region: グローバル／study: 成人の緑内障に関する総説
 - 不確実性：出典は総説の抄録で確認した範囲に限る。日本の分類の細目（発達緑内障等）は日本緑内障学会ガイドライン第5版（SRC-1266）の本文確認が望ましい。
-- 出典：Stein JD, Khawaja AP, Weizer JS. Glaucoma in Adults—Screening, Diagnosis, and Management: A Review. JAMA. 2021;325(2):164-174.　[DOI 10.1001/jama.2020.21899](https://doi.org/10.1001/jama.2020.21899)　[PMID 33433580](https://pubmed.ncbi.nlm.nih.gov/33433580/)（区分 UNKNOWN）
+- 出典：Stein JD, Khawaja AP, Weizer JS. Glaucoma in Adults—Screening, Diagnosis, and Management: A Review. JAMA. 2021;325(2):164-174.　[DOI 10.1001/jama.2020.21899](https://doi.org/10.1001/jama.2020.21899)　[PMID 33433580](https://pubmed.ncbi.nlm.nih.gov/33433580/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-D-②（緑内障、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-494 (id: JlvnmN8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-027&card_id=EY-027&version=31cd9874e8)　（版 `31cd9874e8`）
 
@@ -348,7 +348,7 @@
 
 - 条件：region: 日本／study: 多治見市における住民対象の横断疫学調査（対象3021人）
 - 不確実性：数値は抄録で確認した。多治見市という単一地域・2004年報告の値であり、現在の全国の頻度とは限らない。
-- 出典：Iwase A, Suzuki Y, Araie M, et al. The prevalence of primary open-angle glaucoma in Japanese: the Tajimi Study. Ophthalmology. 2004;111(9):1641-1648.　[DOI 10.1016/j.ophtha.2004.03.029](https://doi.org/10.1016/j.ophtha.2004.03.029)　[PMID 15350316](https://pubmed.ncbi.nlm.nih.gov/15350316/)（区分 UNKNOWN）
+- 出典：Iwase A, Suzuki Y, Araie M, et al. The prevalence of primary open-angle glaucoma in Japanese: the Tajimi Study. Ophthalmology. 2004;111(9):1641-1648.　[DOI 10.1016/j.ophtha.2004.03.029](https://doi.org/10.1016/j.ophtha.2004.03.029)　[PMID 15350316](https://pubmed.ncbi.nlm.nih.gov/15350316/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-D-②（緑内障、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-494 (id: JlvnmN8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-028&card_id=EY-028&version=451f44bc93)　（版 `451f44bc93`）
 
@@ -364,7 +364,7 @@
 
 - 条件：region: 米国／study: USPSTFのための系統的レビュー（診断精度研究を含む83研究）
 - 不確実性：数値は抄録で確認した。対象は原発開放隅角緑内障のスクリーニング文脈であり、臨床診断の場面とは母集団が異なる。
-- 出典：Chou R, Selph S, Blazina I, et al. Screening for Glaucoma in Adults: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2022;327(20):1998-2012.　[DOI 10.1001/jama.2022.6290](https://doi.org/10.1001/jama.2022.6290)　[PMID 35608575](https://pubmed.ncbi.nlm.nih.gov/35608575/)（区分 UNKNOWN）
+- 出典：Chou R, Selph S, Blazina I, et al. Screening for Glaucoma in Adults: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2022;327(20):1998-2012.　[DOI 10.1001/jama.2022.6290](https://doi.org/10.1001/jama.2022.6290)　[PMID 35608575](https://pubmed.ncbi.nlm.nih.gov/35608575/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-D-②（緑内障、a）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-494 (id: JlvnmN8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-029&card_id=EY-029&version=a9ae346016)　（版 `a9ae346016`）
 
@@ -444,7 +444,7 @@
 
 - 条件：region: グローバル／study: 国際専門家パネルによる診断・分類基準の提言
 - 不確実性：基準の個別項目は抄録の範囲を超えるため記載していない。個別薬剤名は記載していないため、個別薬剤の国内承認・保険適用の確認は対象外である。
-- 出典：Petzold A, Fraser CL, Abegg M, et al. Diagnosis and classification of optic neuritis. Lancet Neurol. 2022;21(12):1120-1134.　[DOI 10.1016/S1474-4422(22)00200-9](https://doi.org/10.1016/S1474-4422(22)00200-9)　[PMID 36179757](https://pubmed.ncbi.nlm.nih.gov/36179757/)（区分 UNKNOWN）
+- 出典：Petzold A, Fraser CL, Abegg M, et al. Diagnosis and classification of optic neuritis. Lancet Neurol. 2022;21(12):1120-1134.　[DOI 10.1016/S1474-4422(22)00200-9](https://doi.org/10.1016/S1474-4422(22)00200-9)　[PMID 36179757](https://pubmed.ncbi.nlm.nih.gov/36179757/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-4-B-②（視神経炎・症、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)；TBL-01-00-495 (id: JlvnmOc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-037&card_id=EY-037&version=2b4c990bce)　（版 `2b4c990bce`）
 
@@ -566,7 +566,7 @@
 
 - 条件：region: 米国ミネソタ州オルムステッド郡／study: 地域住民ベースの研究（1978〜2014年に診断された145例）
 - 不確実性：原因別割合と瞳孔障害・眼瞼下垂の頻度は本論文の抄録に基づく数値で、学会誌の抄録要約でも同じ値を確認した。動脈瘤の部位別の内訳は抄録では確認できなかったため、主張文では「動脈瘤による圧迫」とし、特定の部位名は記載していない。本出典の対象は動眼神経麻痺のみであり、滑車神経麻痺・外転神経麻痺それぞれの特徴は扱っていない。本カードには薬剤名を含めていない。
-- 出典：Fang C, Leavitt JA, Hodge DO, Holmes JM, Mohney BG, Chen JJ. Incidence and Etiologies of Acquired Third Nerve Palsy Using a Population-Based Method. JAMA Ophthalmol. 2017;135(1):23-28.　[DOI 10.1001/jamaophthalmol.2016.4456](https://doi.org/10.1001/jamaophthalmol.2016.4456)　[PMID 27893002](https://pubmed.ncbi.nlm.nih.gov/27893002/)（区分 UNKNOWN）
+- 出典：Fang C, Leavitt JA, Hodge DO, Holmes JM, Mohney BG, Chen JJ. Incidence and Etiologies of Acquired Third Nerve Palsy Using a Population-Based Method. JAMA Ophthalmol. 2017;135(1):23-28.　[DOI 10.1001/jamaophthalmol.2016.4456](https://doi.org/10.1001/jamaophthalmol.2016.4456)　[PMID 27893002](https://pubmed.ncbi.nlm.nih.gov/27893002/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-4-C-③（動眼神経麻痺、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-046&card_id=EY-046&version=917c0098fa)　（版 `917c0098fa`）
 
@@ -678,7 +678,7 @@
 
 - 条件：region: 国際／study: 2つの3次紹介施設における後ろ向き症例集積（強膜炎500例、上強膜炎85例）
 - 不確実性：数値はいずれも出典の抄録で確認した。対象は3次紹介施設の症例集積であり、日本の頻度とは限らない。抄録では合併する全身疾患は結合組織・血管炎性疾患という分類までしか示されておらず、関節リウマチなど個別の疾患名ごとの頻度は確認できなかったため含めていない。強膜炎の疼痛の性状や治療（免疫抑制療法など）は本カードには含めておらず、個別薬剤の国内承認・保険適用の確認は対象外である。
-- 出典：Sainz de la Maza M, Molina N, Gonzalez-Gonzalez LA, Doctor PP, Tauber J, Foster CS. Clinical characteristics of a large cohort of patients with scleritis and episcleritis. Ophthalmology. 2012;119(1):43-50.　[DOI 10.1016/j.ophtha.2011.07.013](https://doi.org/10.1016/j.ophtha.2011.07.013)　[PMID 21963265](https://pubmed.ncbi.nlm.nih.gov/21963265/)（区分 UNKNOWN）
+- 出典：Sainz de la Maza M, Molina N, Gonzalez-Gonzalez LA, Doctor PP, Tauber J, Foster CS. Clinical characteristics of a large cohort of patients with scleritis and episcleritis. Ophthalmology. 2012;119(1):43-50.　[DOI 10.1016/j.ophtha.2011.07.013](https://doi.org/10.1016/j.ophtha.2011.07.013)　[PMID 21963265](https://pubmed.ncbi.nlm.nih.gov/21963265/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-C-⑩（強膜炎、b）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-053&card_id=EY-053&version=5b750a9210)　（版 `5b750a9210`）
 
@@ -694,7 +694,7 @@
 
 - 条件：region: 国際／study: 水晶体偏位の遺伝学に関する総説
 - 不確実性：本カードは出典の抄録で確認できた関連疾患と遺伝子変異の範囲のみを記載した。境界の方針により、Marfan症候群などの全身像は含めていない。偏位の方向が原因疾患の手がかりになること（方向別の対応）、外傷による脱臼、緑内障や網膜剥離などの眼合併症は、出典の抄録では確認できなかったため本カードには含めておらず、本文または別の一次資料での確認が望ましい。各疾患の原因遺伝子の個別の対応も抄録の範囲外である。
-- 出典：Sadiq MA, Vanderveen D. Genetics of ectopia lentis. Semin Ophthalmol. 2013;28(5-6):313-320.　[DOI 10.3109/08820538.2013.825276](https://doi.org/10.3109/08820538.2013.825276)　[PMID 24138040](https://pubmed.ncbi.nlm.nih.gov/24138040/)（区分 UNKNOWN）
+- 出典：Sadiq MA, Vanderveen D. Genetics of ectopia lentis. Semin Ophthalmol. 2013;28(5-6):313-320.　[DOI 10.3109/08820538.2013.825276](https://doi.org/10.3109/08820538.2013.825276)　[PMID 24138040](https://pubmed.ncbi.nlm.nih.gov/24138040/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-5-D-③（水晶体偏位・脱臼、c）　コアカリ：PS-02-15-05 (id: JkxnuTU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EY-054&card_id=EY-054&version=47170689eb)　（版 `47170689eb`）
 

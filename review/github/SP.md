@@ -22,7 +22,7 @@
 
 - 条件：population: 保存治療を受けた腰椎椎間板ヘルニア患者／region: 国際
 - 不確実性：画像で2回以上評価された保存治療例の研究を統合した値。国内ガイドライン（SRC-1781）でも、症候性ヘルニアの60%以上の例で画像上の退縮が認められ、遊離型・脱出型は吸収されやすいとされる。
-- 出典：Chiu CC, Chuang TY, Chang KH, et al. The probability of spontaneous regression of lumbar herniated disc: a systematic review. Clin Rehabil. 2015;29(2):184-195　[DOI 10.1177/0269215514540919](https://doi.org/10.1177/0269215514540919)　[PMID 25009200](https://pubmed.ncbi.nlm.nih.gov/25009200/)（区分 UNKNOWN）
+- 出典：Chiu CC, Chuang TY, Chang KH, et al. The probability of spontaneous regression of lumbar herniated disc: a systematic review. Clin Rehabil. 2015;29(2):184-195　[DOI 10.1177/0269215514540919](https://doi.org/10.1177/0269215514540919)　[PMID 25009200](https://pubmed.ncbi.nlm.nih.gov/25009200/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-7-A-①（椎間板ヘルニア、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-139 (id: Jlvnlpg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-002&card_id=SP-002&version=abd4206f1a)　（版 `abd4206f1a`）
 
@@ -100,7 +100,7 @@
 
 - 条件：population: 頸椎神経根症が疑われる患者／region: 国際
 - 不確実性：系統的レビューに含まれた診断精度研究は5件のみで、信頼区間は広い。頸椎椎間板ヘルニアによる神経根症も本項目の対象に含まれるが、ヘルニア単独のカードは作成していない。
-- 出典：Thoomes EJ, van Geest S, van der Windt DA, et al. Value of physical tests in diagnosing cervical radiculopathy: a systematic review. Spine J. 2018;18(1):179-189　[DOI 10.1016/j.spinee.2017.08.241](https://doi.org/10.1016/j.spinee.2017.08.241)　[PMID 28838857](https://pubmed.ncbi.nlm.nih.gov/28838857/)（区分 UNKNOWN）
+- 出典：Thoomes EJ, van Geest S, van der Windt DA, et al. Value of physical tests in diagnosing cervical radiculopathy: a systematic review. Spine J. 2018;18(1):179-189　[DOI 10.1016/j.spinee.2017.08.241](https://doi.org/10.1016/j.spinee.2017.08.241)　[PMID 28838857](https://pubmed.ncbi.nlm.nih.gov/28838857/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-7-A-③（脊髄症、神経根症、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-138 (id: JlvnlpU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-007&card_id=SP-007&version=971c7abe8e)　（版 `971c7abe8e`）
 
@@ -188,7 +188,7 @@
 
 - 条件：population: 先天性筋性斜頸の乳児／region: 米国
 - 不確実性：出典は米国理学療法協会小児部門の診療ガイドライン（2024年改訂版）。思春期以降に発症する痙性斜頸（頸部ジストニア）は別の疾患であり、本カードの対象外（第29回 ND で作成済み）。
-- 出典：Sargent B, Coulter C, Cannoy J, Kaplan SL, et al. Physical Therapy Management of Congenital Muscular Torticollis: A 2024 Evidence-Based Clinical Practice Guideline From the American Physical Therapy Association Academy of Pediatric Physical Therapy. Pediatr Phys Ther. 2024;36(4):370-421　[DOI 10.1097/PEP.0000000000001114](https://doi.org/10.1097/PEP.0000000000001114)　[PMID 39356257](https://pubmed.ncbi.nlm.nih.gov/39356257/)（区分 UNKNOWN）
+- 出典：Sargent B, Coulter C, Cannoy J, Kaplan SL, et al. Physical Therapy Management of Congenital Muscular Torticollis: A 2024 Evidence-Based Clinical Practice Guideline From the American Physical Therapy Association Academy of Pediatric Physical Therapy. Pediatr Phys Ther. 2024;36(4):370-421　[DOI 10.1097/PEP.0000000000001114](https://doi.org/10.1097/PEP.0000000000001114)　[PMID 39356257](https://pubmed.ncbi.nlm.nih.gov/39356257/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-7-A-⑥（斜頸、b）　コアカリ：PS-02-05-05 (id: JkxnuQc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-014&card_id=SP-014&version=5d932716df)　（版 `5d932716df`）
 
@@ -230,7 +230,7 @@
 
 - 条件：population: 思春期の Scheuermann 病患者／region: 国際
 - 不確実性：診断基準の数値的細目（連続する椎体の楔状変形の程度など）は本出典の抄録では確認できなかったため記載していない。骨粗鬆症性椎体骨折による後弯については、本パートでは出典枠の都合で独立カードを作成していない（骨粗鬆症そのものは第31回 BD で扱う）。
-- 出典：Lowe TG, Line BG. Evidence based medicine: analysis of Scheuermann kyphosis. Spine. 2007;32(19 Suppl):S115-S119　[DOI 10.1097/BRS.0b013e3181354501](https://doi.org/10.1097/BRS.0b013e3181354501)　[PMID 17728677](https://pubmed.ncbi.nlm.nih.gov/17728677/)（区分 UNKNOWN）
+- 出典：Lowe TG, Line BG. Evidence based medicine: analysis of Scheuermann kyphosis. Spine. 2007;32(19 Suppl):S115-S119　[DOI 10.1097/BRS.0b013e3181354501](https://doi.org/10.1097/BRS.0b013e3181354501)　[PMID 17728677](https://pubmed.ncbi.nlm.nih.gov/17728677/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-7-A-⑧（後弯症<円背・亀背>、b）　コアカリ：PS-02-05-05 (id: JkxnuQc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-017&card_id=SP-017&version=8737ce239d)　（版 `8737ce239d`）
 
@@ -262,7 +262,7 @@
 
 - 条件：population: 腰痛のある若年（8〜21歳）アスリート／region: 米国
 - 不確実性：出典は MRI で評価された症候性アスリート902例の後ろ向きコホート。好発部位については、同論文が引用する先行研究（CT・単純X線時代の検討）でも L5・L4 が主とされる。
-- 出典：Kriz PK, Kobelski GP, Kriz JP, et al. Pars Interarticularis and Pedicle Stress Injuries in Young Athletes With Low Back Pain: A Retrospective Cohort Study of 902 Patients Evaluated With Magnetic Resonance Imaging. Am J Sports Med. 2024;52(10):2639-2645　[DOI 10.1177/03635465241264804](https://doi.org/10.1177/03635465241264804)　[PMID 39129296](https://pubmed.ncbi.nlm.nih.gov/39129296/)（区分 UNKNOWN）
+- 出典：Kriz PK, Kobelski GP, Kriz JP, et al. Pars Interarticularis and Pedicle Stress Injuries in Young Athletes With Low Back Pain: A Retrospective Cohort Study of 902 Patients Evaluated With Magnetic Resonance Imaging. Am J Sports Med. 2024;52(10):2639-2645　[DOI 10.1177/03635465241264804](https://doi.org/10.1177/03635465241264804)　[PMID 39129296](https://pubmed.ncbi.nlm.nih.gov/39129296/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-7-A-⑩（脊椎分離症、b）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-141 (id: Jlvnlps)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-019&card_id=SP-019&version=7dfa2d14e5)　（版 `7dfa2d14e5`）
 
@@ -356,7 +356,7 @@
 
 - 条件：population: 自然発症の脊髄梗塞患者／region: 米国
 - 不確実性：数値は Mayo Clinic の単施設シリーズ133例に基づく。痛覚・温度覚の選択的障害は前脊髄動脈領域の梗塞（前脊髄動脈症候群）のパターンに相当する。
-- 出典：Zalewski NL, Rabinstein AA, Krecke KN, et al. Characteristics of Spontaneous Spinal Cord Infarction and Proposed Diagnostic Criteria. JAMA Neurol. 2019;76(1):56-63　[DOI 10.1001/jamaneurol.2018.2734](https://doi.org/10.1001/jamaneurol.2018.2734)　[PMID 30264146](https://pubmed.ncbi.nlm.nih.gov/30264146/)（区分 UNKNOWN）
+- 出典：Zalewski NL, Rabinstein AA, Krecke KN, et al. Characteristics of Spontaneous Spinal Cord Infarction and Proposed Diagnostic Criteria. JAMA Neurol. 2019;76(1):56-63　[DOI 10.1001/jamaneurol.2018.2734](https://doi.org/10.1001/jamaneurol.2018.2734)　[PMID 30264146](https://pubmed.ncbi.nlm.nih.gov/30264146/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-7-A-⑭（脊髄血管障害、c）　コアカリ：PS-02-05-05 (id: JkxnuQc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-026&card_id=SP-026&version=fc8a8b8b10)　（版 `fc8a8b8b10`）
 
@@ -366,7 +366,7 @@
 
 - 条件：population: 脊髄硬膜動静脈瘻患者／region: 国際
 - 不確実性：出典は2006年の総説であり、頻度・性比は同総説の集計に基づく。確定診断には脊髄血管造影が必要とされる。
-- 出典：Koch C. Spinal dural arteriovenous fistula. Curr Opin Neurol. 2006;19(1):69-75　[DOI 10.1097/01.wco.0000200547.22292.11](https://doi.org/10.1097/01.wco.0000200547.22292.11)　[PMID 16415680](https://pubmed.ncbi.nlm.nih.gov/16415680/)（区分 UNKNOWN）
+- 出典：Koch C. Spinal dural arteriovenous fistula. Curr Opin Neurol. 2006;19(1):69-75　[DOI 10.1097/01.wco.0000200547.22292.11](https://doi.org/10.1097/01.wco.0000200547.22292.11)　[PMID 16415680](https://pubmed.ncbi.nlm.nih.gov/16415680/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-7-A-⑭（脊髄血管障害、c）　コアカリ：PS-02-05-05 (id: JkxnuQc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-027&card_id=SP-027&version=9f5207b30f)　（版 `9f5207b30f`）
 
@@ -382,7 +382,7 @@
 
 - 条件：population: 急性横断性脊髄症を呈する患者／region: 国際
 - 不確実性：出典は2002年の診断基準提案であり、個別の必須項目（髄液所見・増強所見など）の細目は本文に依拠する。多発性硬化症・NMOSD の診断基準そのものは ND 側の領域であり、本カードでは鑑別の枠組みのみを扱った。
-- 出典：Transverse Myelitis Consortium Working Group. Proposed diagnostic criteria and nosology of acute transverse myelitis. Neurology. 2002;59(4):499-505　[DOI 10.1212/wnl.59.4.499](https://doi.org/10.1212/wnl.59.4.499)　[PMID 12236201](https://pubmed.ncbi.nlm.nih.gov/12236201/)（区分 UNKNOWN）
+- 出典：Transverse Myelitis Consortium Working Group. Proposed diagnostic criteria and nosology of acute transverse myelitis. Neurology. 2002;59(4):499-505　[DOI 10.1212/wnl.59.4.499](https://doi.org/10.1212/wnl.59.4.499)　[PMID 12236201](https://pubmed.ncbi.nlm.nih.gov/12236201/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-7-A-⑮（横断性脊髄炎、c）　コアカリ：PS-02-05-05 (id: JkxnuQc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SP-028&card_id=SP-028&version=5a770bf615)　（版 `5a770bf615`）
 

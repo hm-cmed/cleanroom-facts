@@ -280,7 +280,7 @@
 - 条件：guideline: 咳嗽・喀痰の診療ガイドライン 2019（日本呼吸器学会）／region: 日本
 - よくある誤解：長引く咳はまず抗菌薬で治療する
 - 不確実性：英語ダイジェストの抄録で確認した内容。2025年に改訂版（咳嗽・喀痰の診療ガイドライン2025）が出ているが、内容を確認できなかったため旧版を出典にした。遷延性と慢性の境界（週数）は抄録では確認できなかった
-- 出典：Mukae H, Kaneko T, Obase Y, et al. The Japanese respiratory society guidelines for the management of cough and sputum (digest edition). Respir Investig 2021;59(3):270-290　[DOI 10.1016/j.resinv.2021.01.007](https://doi.org/10.1016/j.resinv.2021.01.007)　[PMID 33642231](https://pubmed.ncbi.nlm.nih.gov/33642231/)（区分 UNKNOWN）
+- 出典：Mukae H, Kaneko T, Obase Y, et al. The Japanese respiratory society guidelines for the management of cough and sputum (digest edition). Respir Investig 2021;59(3):270-290　[DOI 10.1016/j.resinv.2021.01.007](https://doi.org/10.1016/j.resinv.2021.01.007)　[PMID 33642231](https://pubmed.ncbi.nlm.nih.gov/33642231/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-3-A-①（気管支喘息、咳喘息、a）；医学各論 Ⅳ-3-A-②（アトピー咳嗽、a）；医学各論 Ⅺ-1-C-①（気管支喘息、a）　コアカリ：PS-02-07-02 (id: JkxnuQ4)；TBL-02-06-011 (id: JlAKph0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-025&card_id=RO-025&version=866c1c5da5)　（版 `866c1c5da5`）
 
@@ -356,7 +356,7 @@
 
 - 条件：region: 日本
 - 不確実性：OMIM の記載を転載ページで確認した。OMIM 本体と原著論文は未確認。二次資料経由
-- 出典：Online Mendelian Inheritance in Man (OMIM). Panbronchiolitis, diffuse; #604809. Johns Hopkins University　[リンク](https://www.omim.org/entry/604809)（区分 UNKNOWN）
+- 出典：Online Mendelian Inheritance in Man (OMIM). Panbronchiolitis, diffuse; #604809. Johns Hopkins University　[リンク](https://www.omim.org/entry/604809)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-2-A-②（びまん性汎細気管支炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-222 (id: Jlvnlyk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-030&card_id=RO-030&version=7967a249d3)　（版 `7967a249d3`）
 
@@ -530,7 +530,7 @@
 
 - 条件：region: 国際
 - 不確実性：DOI は誌面と抄録ページの表示で確認できなかったため null とした。出典のライセンスも未確認。本文中で引用されていた死亡率10〜25%は二次引用のため、主張文には採用していない。
-- 出典：Ganie FA, Lone H, Lone GN, Wani ML, Singh S, Dar AM, Wani N, Wani SN, Nazeer N. Lung Contusion: A Clinico-Pathological Entity with Unpredictable Clinical Course. Bull Emerg Trauma. 2013;1(1):7-16　[PMID 27162815](https://pubmed.ncbi.nlm.nih.gov/27162815/)（区分 UNKNOWN）
+- 出典：Ganie FA, Lone H, Lone GN, Wani ML, Singh S, Dar AM, Wani N, Wani SN, Nazeer N. Lung Contusion: A Clinico-Pathological Entity with Unpredictable Clinical Course. Bull Emerg Trauma. 2013;1(1):7-16　[PMID 27162815](https://pubmed.ncbi.nlm.nih.gov/27162815/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-2-D-②（肺損傷、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RO-039&card_id=RO-039&version=eaebee45a1)　（版 `eaebee45a1`）
 

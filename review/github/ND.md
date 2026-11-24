@@ -356,7 +356,7 @@
 
 - 条件：population: Huntington病の患者および遺伝子診断の対象者／region: 国際
 - 不確実性：CAGリピート長は発症年齢と相関するが、個人の発症年齢を正確には予測できない。発症前遺伝子診断の手順（遺伝カウンセリングを含む専門的支援体制）は本カードでは扱わず、別途一次資料での確認を要する。確立した疾患修飾療法はない（出典公表時点）。
-- 出典：Bates GP, Dorsey R, Gusella JF, et al. Huntington disease. Nat Rev Dis Primers. 2015;1:15005　[DOI 10.1038/nrdp.2015.5](https://doi.org/10.1038/nrdp.2015.5)　[PMID 27188817](https://pubmed.ncbi.nlm.nih.gov/27188817/)（区分 UNKNOWN）
+- 出典：Bates GP, Dorsey R, Gusella JF, et al. Huntington disease. Nat Rev Dis Primers. 2015;1:15005　[DOI 10.1038/nrdp.2015.5](https://doi.org/10.1038/nrdp.2015.5)　[PMID 27188817](https://pubmed.ncbi.nlm.nih.gov/27188817/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-4-C-①（Huntington病、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-02-02-032 (id: JlAKpZU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-029&card_id=ND-029&version=190d2a9815)　（版 `190d2a9815`）
 
@@ -372,7 +372,7 @@
 
 - 条件：population: ジストニア患者／region: 国際
 - 不確実性：定義と分類の枠組みのみを扱い、個別の病型の診断基準は含まない。
-- 出典：Albanese A, Bhatia K, Bressman SB, et al. Phenomenology and classification of dystonia: a consensus update. Mov Disord. 2013;28(7):863-873　[DOI 10.1002/mds.25475](https://doi.org/10.1002/mds.25475)　[PMID 23649720](https://pubmed.ncbi.nlm.nih.gov/23649720/)（区分 UNKNOWN）
+- 出典：Albanese A, Bhatia K, Bressman SB, et al. Phenomenology and classification of dystonia: a consensus update. Mov Disord. 2013;28(7):863-873　[DOI 10.1002/mds.25475](https://doi.org/10.1002/mds.25475)　[PMID 23649720](https://pubmed.ncbi.nlm.nih.gov/23649720/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-4-C-②（ジストニア、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-02-02-032 (id: JlAKpZU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-030&card_id=ND-030&version=9a630f03c9)　（版 `9a630f03c9`）
 
@@ -382,7 +382,7 @@
 
 - 条件：population: ドパ反応性ジストニア患者／region: 国際
 - 不確実性：レボドパはパーキンソン病治療薬として国内承認・保険収載されている薬剤であり、ドパ反応性ジストニアへの使用の保険適用の詳細は添付文書による。
-- 出典：Wijemanne S, Jankovic J. Dopa-responsive dystonia--clinical and genetic heterogeneity. Nat Rev Neurol. 2015;11(7):414-424　[DOI 10.1038/nrneurol.2015.86](https://doi.org/10.1038/nrneurol.2015.86)　[PMID 26100751](https://pubmed.ncbi.nlm.nih.gov/26100751/)（区分 UNKNOWN）
+- 出典：Wijemanne S, Jankovic J. Dopa-responsive dystonia--clinical and genetic heterogeneity. Nat Rev Neurol. 2015;11(7):414-424　[DOI 10.1038/nrneurol.2015.86](https://doi.org/10.1038/nrneurol.2015.86)　[PMID 26100751](https://pubmed.ncbi.nlm.nih.gov/26100751/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-4-C-②（ジストニア、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-02-02-032 (id: JlAKpZU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-031&card_id=ND-031&version=52eee604a3)　（版 `52eee604a3`）
 
@@ -398,7 +398,7 @@
 
 - 条件：population: 頸部ジストニア（痙性斜頸）の成人患者／region: 国際
 - 不確実性：A型ボツリヌス毒素製剤（ボトックス）は痙性斜頸が国内承認適応に含まれ、保険適用がある（PMDA公表資料で確認）。
-- 出典：Rodrigues FB, Duarte GS, Marques RE, et al. Botulinum toxin type A therapy for cervical dystonia. Cochrane Database Syst Rev. 2020;(11):CD003633　[DOI 10.1002/14651858.CD003633.pub4](https://doi.org/10.1002/14651858.CD003633.pub4)　[PMID 33180963](https://pubmed.ncbi.nlm.nih.gov/33180963/)（区分 UNKNOWN）
+- 出典：Rodrigues FB, Duarte GS, Marques RE, et al. Botulinum toxin type A therapy for cervical dystonia. Cochrane Database Syst Rev. 2020;(11):CD003633　[DOI 10.1002/14651858.CD003633.pub4](https://doi.org/10.1002/14651858.CD003633.pub4)　[PMID 33180963](https://pubmed.ncbi.nlm.nih.gov/33180963/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-4-C-③（痙性斜頸、b）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-02-02-032 (id: JlAKpZU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-032&card_id=ND-032&version=609b90ae2b)　（版 `609b90ae2b`）
 
@@ -450,7 +450,7 @@
 
 - 条件：population: 亜酸化窒素を乱用する者／region: 国際
 - 不確実性：数値は症例報告の集積に基づく系統的レビューの抄録で確認したもので、頻度の母集団推定ではない。 ビタミンB12製剤は国内で承認された薬剤である。
-- 出典：Garakani A, Jaffe RJ, Savla D, et al. Neurologic, psychiatric, and other medical manifestations of nitrous oxide abuse: A systematic review of the case literature. Am J Addict. 2016;25(5):358-369　[DOI 10.1111/ajad.12372](https://doi.org/10.1111/ajad.12372)　[PMID 27037733](https://pubmed.ncbi.nlm.nih.gov/27037733/)（区分 UNKNOWN）
+- 出典：Garakani A, Jaffe RJ, Savla D, et al. Neurologic, psychiatric, and other medical manifestations of nitrous oxide abuse: A systematic review of the case literature. Am J Addict. 2016;25(5):358-369　[DOI 10.1111/ajad.12372](https://doi.org/10.1111/ajad.12372)　[PMID 27037733](https://pubmed.ncbi.nlm.nih.gov/27037733/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-4-D-①（ビタミンB12欠乏症、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-484 (id: JlvnmNA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-036&card_id=ND-036&version=bffeba292f)　（版 `bffeba292f`）
 
@@ -788,7 +788,7 @@
 
 - 条件：population: 抗精神病薬等のドパミン遮断薬を使用中の患者／region: 国際
 - 不確実性：頻度と死亡率は抄録で確認（文献集計に基づく値）。鑑別すべきセロトニン症候群では、クローヌス（誘発性・自発性・眼球）と反射亢進が診断の中核徴候となる（Dunkley EJ, et al. QJM. 2003;96(9):635-642、Hunter Serotonin Toxicity Criteria。出典表には未収載）点が、鉛管様の筋強剛を呈する悪性症候群と異なる。ダントロレン、ブロモクリプチンはいずれも国内承認薬だが、悪性症候群への使用は適応外の場合があり保険適用の詳細は添付文書による。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ダントロレン（ダントリウム静注用・カプセル）は効能・効果に悪性症候群を明記しており、同症への使用は適応内である。一方、ブロモクリプチンには悪性症候群の国内適応はない（厚労省『重篤副作用疾患別対応マニュアル』に「我が国での適応はない」と明記）。「いずれも適応外の場合があり」という注記はダントロレンについては失効しており、2剤を分けて書き直す必要がある。
-- 出典：Pileggi DJ, Cook AM. Neuroleptic Malignant Syndrome. Ann Pharmacother. 2016　[DOI 10.1177/1060028016657553](https://doi.org/10.1177/1060028016657553)　[PMID 27423483](https://pubmed.ncbi.nlm.nih.gov/27423483/)（区分 UNKNOWN）
+- 出典：Pileggi DJ, Cook AM. Neuroleptic Malignant Syndrome. Ann Pharmacother. 2016　[DOI 10.1177/1060028016657553](https://doi.org/10.1177/1060028016657553)　[PMID 27423483](https://pubmed.ncbi.nlm.nih.gov/27423483/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-4-I-③（悪性症候群、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ND-056&card_id=ND-056&version=d8bf635eea)　（版 `d8bf635eea`）
 

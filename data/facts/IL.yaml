@@ -17,7 +17,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録（ERS の配信ページ）で確認。本文は未確認。PMID 未確認。出題基準（令和6年版）と国内の教科書的分類は2013年分類にもとづくため、用語の切り替え時期は国内の動向を見て判断する。
   curriculum:
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-411 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: IL-002
   domain: IL
   subdomain: 特発性間質性肺炎
@@ -52,7 +55,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録（Weill Cornell の書誌ページ）で確認。2025年に ERS/ATS の改訂（SRC-411）が出ており、こちらは旧版。出題基準の病型名（NSIP・COP）との対応のために残す。頁は書誌ページに記載がなく、733-748 は API 照合で確認する。
   curriculum:
@@ -68,6 +71,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-412 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: IL-003
   domain: IL
   subdomain: 特発性肺線維症
@@ -239,7 +245,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録（リポジトリ掲載の書誌ページまたは本文 PDF）で確認。PMID は本チャットで確認できず null（API 照合で確定する）。下痢の割合はニンテダニブ群で61.5%（INPULSIS-1）と63.2%（INPULSIS-2）、プラセボ群で18.6%と18.3%。
   curriculum:
@@ -255,6 +261,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-414 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: IL-008
   domain: IL
   subdomain: 特発性肺線維症
@@ -274,7 +283,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録（リポジトリ掲載の書誌ページまたは本文 PDF）で確認。PMID は本チャットで確認できず null（API 照合で確定する）。国内でのピルフェニドンの承認状況は添付文書で確認していない。
   curriculum:
@@ -290,6 +299,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-415 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: IL-009
   domain: IL
   subdomain: 特発性肺線維症
@@ -309,7 +321,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録（UFG のリポジトリ）で確認。PMID は検索結果の URL（Weill Cornell）で確認。下痢は18 mg 群41.3%、9 mg 群31.1%、プラセボ群16.0%。抗線維化薬の併用の有無による効果の差は抄録では確認していない。
   curriculum:
@@ -325,6 +337,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-416 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: IL-010
   domain: IL
   subdomain: 特発性肺線維症
@@ -414,7 +429,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録（リポジトリ掲載の書誌ページまたは本文 PDF）で確認。PMID は本チャットで確認できず null（API 照合で確定する）。UIP 様の画像所見をもつ群でも差は同様（-82.9 対 -211.1 mL/年）。下痢はニンテダニブ群66.9%、プラセボ群23.9%。出題基準 Ⅳ に PPF の項目はないため kokushi は null。
   curriculum:
@@ -430,6 +445,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-418 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: IL-013
   domain: IL
   subdomain: 膠原病および類縁疾患に伴う肺病変
@@ -449,7 +467,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録（リポジトリ掲載の書誌ページまたは本文 PDF）で確認。PMID は本チャットで確認できず null（API 照合で確定する）。多重代入による感度分析では P=0.06〜0.10 で、主解析ほど頑健ではない。下痢はニンテダニブ群75.7%、プラセボ群31.6%。
   curriculum:
@@ -465,6 +483,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-419 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: IL-014
   domain: IL
   subdomain: 多発血管炎性肉芽腫症
@@ -934,7 +955,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録（QxMD の書誌ページ）で確認。PMID は同ページで確認、DOI・巻・頁は未確認。気管支肺胞洗浄を受けた6人の好酸球の中央値は40.5%、死亡は2人。急性好酸球性肺炎の診断基準（BAL 好酸球の閾値など）はこの出典では確認していない。
   curriculum:
@@ -950,6 +971,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-425 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: IL-027
   domain: IL
   subdomain: アレルギー性気管支肺真菌症
@@ -1159,7 +1183,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 抄録（ワシントン大学の書誌ページ）で確認。V20 や平均肺線量などの具体的な目安は本文で確認していないため書いていない。PMID 未確認。
   curriculum:
@@ -1175,6 +1199,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-428 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: IL-033
   domain: IL
   subdomain: じん肺
@@ -1378,7 +1405,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: ルワンダ大学のリポジトリの要約で確認（本文・抄録の全文は未確認）。DOI・PMID 未確認。資源の限られた地域での適用を想定した変更も含む。日本の ARDS 診療ガイドライン2021はベルリン定義を用いている（SRC-435）。
   curriculum:
@@ -1394,6 +1421,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-432 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: IL-039
   domain: IL
   subdomain: 急性呼吸窮迫症候群<ARDS>
@@ -1413,7 +1443,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本文 PDF（コーネル大学のサイト）の抄録で確認。PMID は検索結果の URL（QxMD）で確認、DOI 未確認。主要評価項目は「補助呼吸なしで退院する前の死亡」。人工呼吸器を使わない日数も低換気量群で多かった。中間解析4回目で有効中止。
   curriculum:
@@ -1429,6 +1459,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-433 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: IL-040
   domain: IL
   subdomain: 急性呼吸窮迫症候群<ARDS>
@@ -1448,7 +1481,7 @@
     url: null
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本文 PDF の抄録で確認。PMID は本チャットで確認できず null（API 照合で確定する）。90日死亡率も23.6% 対 41.0%で低下。
   curriculum:
@@ -1464,6 +1497,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/12_rs_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-434 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: IL-041
   domain: IL
   subdomain: 急性呼吸窮迫症候群<ARDS>
@@ -1835,7 +1871,7 @@
     url: https://doi.org/10.1148/rg.243045005
     source_license: Crossref の license 欄に記載なし（未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: ライセンス表示を Crossref で確認できなかったため、source_class は UNKNOWN とした。
   curriculum:
@@ -1854,6 +1890,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: ブラッシュアップE：condition.region に「国際」を入れた（作り手の候補、確度中。condition が空だったので新設した）。三原の承認による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-539 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: IL-051
   domain: IL
   subdomain: アミロイドーシス
@@ -1945,7 +1984,7 @@
     url: https://doi.org/10.1136/oem.49.12.832
     source_license: Crossref の license 欄に記載なし（未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: ライセンス表示を Crossref で確認できなかったため source_class は UNKNOWN とした。1992年の単一工場での調査であり、現在の曝露環境への一般化には限界がある。
   curriculum:
@@ -1961,6 +2000,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/14_rs_supp.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-542 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: IL-054
   domain: IL
   subdomain: 酸素中毒

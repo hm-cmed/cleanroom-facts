@@ -17,7 +17,7 @@
     url: https://ganjoho.jp/public/qa_links/report/statistics/pdf/cancer_statistics_2025_data_E.pdf
     source_license: 表示なし（掲載頁は (c) 国立研究開発法人国立がん研究センター。元データは人口動態統計）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_JP、作り手の調査バッチ32 2026-11-11）：厚生労働省 人口動態統計月報年計（概数）第6表（GOV_JP、新規 SRC 候補）。裏づける部分と留保：肺癌死亡数の規模は一致。概数は75,762人で、カードの確定数75,725人とは集計段階の違い（両値記録）。性別内訳は開いた総数表では未確認
   uncertainty: 表から読み取り。部位の区分は結腸と直腸を分けた集計で、大腸（結腸と直腸の合計）として集計すると女性の順位は変わりうる。罹患数・5年生存率の表は抽出できず未作成
   curriculum:
@@ -36,6 +36,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-471 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: LC-002
   domain: LC
   subdomain: 肺癌
@@ -528,7 +531,7 @@
     url: https://air.unipr.it/bitstream/11381/2872427/3/Flaura.pdf
     source_license: 未確認（機関リポジトリ掲載の刊行版）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ32 2026-11-11）：ClinicalTrials.gov NCT02296125（FLAURA、GOV_US、新規 SRC 候補）。裏づける部分と留保：OS の HR 0.799 が一致。CI 上限の記載差（抄録 0.997・本文 0.996）は登録値 0.9963 が本文側と整合
   uncertainty: ハザード比は抄録で0.799（95.05% CI 0.641〜0.997）、本文では上限が0.996と記載が異なる。無増悪生存期間の主解析（Soria 2018）は別の文献で未取得。オシメルチニブの国内承認・保険適用は未確認　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】オシメルチニブ（タグリッソ）は2016年3月28日に承認され、2016年5月25日に薬価収載・発売。その後、一次治療・術後補助療法等へ適応拡大済み
   curriculum:
@@ -550,6 +553,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-476 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: LC-016
   domain: LC
   subdomain: 転移性肺腫瘍
@@ -1963,7 +1969,7 @@
     url: https://avesis.akdeniz.edu.tr/yayin/ccd46a6e-ccae-472a-b444-1947385f556f/durvalumab-after-chemoradiotherapy-in-limited-stage-small-cell-lung-cancer
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: PMDA イミフィンジ点滴静注 審査報告書（2025年8月6日）https://www.pmda.go.jp/drugs/2025/P20251007001/670227000_23000AMX00485_A100_1.pdf。自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ32 2026-11-11）：ClinicalTrials.gov NCT03703297（ADRIATIC、GOV_US、新規 SRC 候補）。裏づける部分と留保：OS・PFS が完全一致
   uncertainty: PMID は未照合。国内ではデュルバルマブの効能に「限局型小細胞肺癌における根治的化学放射線療法後の維持療法」が含まれている（PMDA 審査報告書、2025年8月）
   curriculum:
@@ -1985,6 +1991,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ32 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-569 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: LC-055
   domain: LC
   subdomain: 悪性リンパ腫

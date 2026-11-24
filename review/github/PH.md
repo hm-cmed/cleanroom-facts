@@ -140,7 +140,7 @@
 
 - 条件：region: 日本／対象: 睡眠時無呼吸症候群患者
 - 不確実性：出典は循環器疾患における睡眠呼吸障害のガイドラインであり、数値はその本文（診断・保険基準の節）で確認した。本カードは保険基準の事実のみを扱い、循環器疾患に特化した睡眠呼吸障害の管理は扱わない。ピトリサントは CPAP 治療中の閉塞性睡眠時無呼吸症候群に伴う日中の過度の眠気にも適応を持つが、気道閉塞そのものの治療ではない。
-- 出典：Japanese Circulation Society. JCS 2023 Guideline on Diagnosis and Treatment of Sleep Disordered Breathing in Cardiovascular Disease. Circ J. 2024;88(11):1865-1935.　[DOI 10.1253/circj.CJ-23-0489](https://doi.org/10.1253/circj.CJ-23-0489)　[PMID 39183026](https://pubmed.ncbi.nlm.nih.gov/39183026/)（区分 UNKNOWN）
+- 出典：Japanese Circulation Society. JCS 2023 Guideline on Diagnosis and Treatment of Sleep Disordered Breathing in Cardiovascular Disease. Circ J. 2024;88(11):1865-1935.　[DOI 10.1253/circj.CJ-23-0489](https://doi.org/10.1253/circj.CJ-23-0489)　[PMID 39183026](https://pubmed.ncbi.nlm.nih.gov/39183026/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b）；医学各論 Ⅴ-7-B-④（睡眠時無呼吸症候群、a）　コアカリ：PS-02-17-05 (id: JkxnuT8)；TBL-01-00-233 (id: Jlvnl0I)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PH-010&card_id=PH-010&version=934ae579eb)　（版 `934ae579eb`）
 

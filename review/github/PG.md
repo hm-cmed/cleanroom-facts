@@ -122,7 +122,7 @@
 
 - 条件：region: 日本／対象: 妊婦
 - 不確実性：2018年の日本の新定義・分類（日本妊娠高血圧学会の声明）の全文で確認した。子癇は2018年の改定で大分類から外された。国内の診療指針は『妊娠高血圧症候群の診療指針 2021』が現行で、第4版が準備中とされる。ライセンス表示を確認できなかったため source_class は UNKNOWN とした
-- 出典：Watanabe K, Matsubara K, Nakamoto O, et al. Outline of the new definition and classification of "Hypertensive Disorders of Pregnancy (HDP)"; a revised JSSHP statement of 2005. Hypertens Res Pregnancy. 2018;6(2):33-37　[DOI 10.14390/jsshp.HRP2018-014](https://doi.org/10.14390/jsshp.HRP2018-014)（区分 UNKNOWN）
+- 出典：Watanabe K, Matsubara K, Nakamoto O, et al. Outline of the new definition and classification of "Hypertensive Disorders of Pregnancy (HDP)"; a revised JSSHP statement of 2005. Hypertens Res Pregnancy. 2018;6(2):33-37　[DOI 10.14390/jsshp.HRP2018-014](https://doi.org/10.14390/jsshp.HRP2018-014)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-1-B-①（妊娠高血圧症候群、子癇、HELLP症候群、加重型妊娠高血圧腎症、a）　コアカリ：PS-02-11-05 (id: JkxnuSU)；PS-02-11-02 (id: JkxnuSI)；PS-02-11-04 (id: JkxnuSQ)；TBL-01-00-364 (id: JlvnmB4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PG-009&card_id=PG-009&version=f4e5f5d94e)　（版 `f4e5f5d94e`）
 
@@ -158,7 +158,7 @@
 
 - 条件：region: 国際／対象: 早産のリスクがある妊婦
 - 不確実性：コクランレビュー（27試験、女性11,272例・新生児11,925例）の抄録で数値を確認した。出典のライセンス表示を確認できなかったため source_class は UNKNOWN とした。出生前ステロイドの国内承認：ベタメタゾン（リンデロン注）は「早産が予期される場合における、母体投与による胎児肺成熟を介した新生児呼吸窮迫症候群の発症抑制」の効能・効果で2009年11月に国内承認されており、保険適用がある（厚生労働省の適正使用協力依頼通知で確認）
-- 出典：McGoldrick E, Stewart F, Parker R, Dalziel SR. Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth. Cochrane Database Syst Rev. 2020;(12):CD004454　[DOI 10.1002/14651858.CD004454.pub4](https://doi.org/10.1002/14651858.CD004454.pub4)　[PMID 33368142](https://pubmed.ncbi.nlm.nih.gov/33368142/)（区分 UNKNOWN）
+- 出典：McGoldrick E, Stewart F, Parker R, Dalziel SR. Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth. Cochrane Database Syst Rev. 2020;(12):CD004454　[DOI 10.1002/14651858.CD004454.pub4](https://doi.org/10.1002/14651858.CD004454.pub4)　[PMID 33368142](https://pubmed.ncbi.nlm.nih.gov/33368142/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-1-B-②（早産、切迫早産、a）　コアカリ：PS-02-11-05 (id: JkxnuSU)；PS-02-11-04 (id: JkxnuSQ)；TBL-01-00-367 (id: JlvnmCM)；TBL-01-00-369 (id: JlvnmCY)；TBL-02-10-014 (id: JlAKpqs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PG-012&card_id=PG-012&version=5a01d098b9)　（版 `5a01d098b9`）
 
@@ -194,7 +194,7 @@
 
 - 条件：region: 国際／対象: 妊婦
 - 不確実性：常位胎盤早期剝離に特化した診療ガイドラインは国際的にも存在せず、本カードは近正期〜正期を扱った総説に基づく。危険因子の関連の強さや再発率の数値は出典の全文での照合が未了のため主張に入れていない。出典のライセンス表示を確認できなかったため source_class は UNKNOWN とした
-- 出典：Brandt JS, Ananth CV. Placental abruption at near-term and term gestations: pathophysiology, epidemiology, diagnosis, and management. Am J Obstet Gynecol. 2023;228(5S):S1313-S1329　[DOI 10.1016/j.ajog.2022.06.059](https://doi.org/10.1016/j.ajog.2022.06.059)　[PMID 37164498](https://pubmed.ncbi.nlm.nih.gov/37164498/)（区分 UNKNOWN）
+- 出典：Brandt JS, Ananth CV. Placental abruption at near-term and term gestations: pathophysiology, epidemiology, diagnosis, and management. Am J Obstet Gynecol. 2023;228(5S):S1313-S1329　[DOI 10.1016/j.ajog.2022.06.059](https://doi.org/10.1016/j.ajog.2022.06.059)　[PMID 37164498](https://pubmed.ncbi.nlm.nih.gov/37164498/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-1-B-③（常位胎盤早期剝離、a）　コアカリ：PS-02-11-05 (id: JkxnuSU)；PS-02-11-02 (id: JkxnuSI)；TBL-01-00-375 (id: JlvnmC8)；TBL-02-10-007 (id: JlAKpqQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PG-015&card_id=PG-015&version=edbf300fdc)　（版 `edbf300fdc`）
 
@@ -444,7 +444,7 @@
 
 - 条件：region: 国際／対象: 糖代謝異常合併妊娠の妊婦
 - 不確実性：ADA 2026 §15 の抄録で確認した範囲。日本の管理目標は PG-034（産科編2026 の系統）が正で、目標値の細部は地域で異なる。メトホルミンは海外では妊娠中の選択肢とされるが、国内では2022年12月に妊婦禁忌が削除されたものの産科診療ではインスリンが基本である
-- 出典：American Diabetes Association Professional Practice Committee. 15. Management of Diabetes in Pregnancy: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl.1):S321-S338　[DOI 10.2337/dc26-S015](https://doi.org/10.2337/dc26-S015)　[PMID 41358885](https://pubmed.ncbi.nlm.nih.gov/41358885/)（区分 UNKNOWN）
+- 出典：American Diabetes Association Professional Practice Committee. 15. Management of Diabetes in Pregnancy: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl.1):S321-S338　[DOI 10.2337/dc26-S015](https://doi.org/10.2337/dc26-S015)　[PMID 41358885](https://pubmed.ncbi.nlm.nih.gov/41358885/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-1-C-①（耐糖能異常合併妊娠(妊娠糖尿病、糖尿病、妊娠中の明らかな糖尿病)、a）　コアカリ：PS-02-11-05 (id: JkxnuSU)；PS-02-11-03 (id: JkxnuSM)；TBL-01-00-384 (id: JlvnmDs)；TBL-02-10-013 (id: JlAKpqo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PG-035&card_id=PG-035&version=2d40921139)　（版 `2d40921139`）
 
@@ -486,7 +486,7 @@
 
 - 条件：region: 国際／対象: 甲状腺機能異常合併妊娠の妊婦
 - 不確実性：2026年版の変更点は解説論文・ガイドライン要約で確認した範囲で、本文の逐語確認は未了。レボチロキシン・プロピルチオウラシル・チアマゾールはいずれも国内承認薬で、レボチロキシンは国内承認・保険適用がある。日本の産科診療での扱いは PG-039 を参照
-- 出典：Korevaar TIM, Leung AM, Alexander EK, et al. American Thyroid Association 2026 Guidelines for Thyroid Disease in Preconception, Pregnancy, and Postpartum. Thyroid. 2026;36(5):481-544　[DOI 10.1177/10507256261445624](https://doi.org/10.1177/10507256261445624)　[PMID 42219800](https://pubmed.ncbi.nlm.nih.gov/42219800/)（区分 UNKNOWN）
+- 出典：Korevaar TIM, Leung AM, Alexander EK, et al. American Thyroid Association 2026 Guidelines for Thyroid Disease in Preconception, Pregnancy, and Postpartum. Thyroid. 2026;36(5):481-544　[DOI 10.1177/10507256261445624](https://doi.org/10.1177/10507256261445624)　[PMID 42219800](https://pubmed.ncbi.nlm.nih.gov/42219800/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-1-C-③（甲状腺機能異常合併妊娠(亢進症・低下症)、b）　コアカリ：PS-02-11-05 (id: JkxnuSU)；TBL-01-00-385 (id: JlvnmD0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PG-038&card_id=PG-038&version=cdf4556c90)　（版 `cdf4556c90`）
 
@@ -512,7 +512,7 @@
 
 - 条件：region: 国際／対象: ITP 合併妊娠の妊婦
 - 不確実性：国際コンセンサス報告（2019）の妊娠の章の本文で確認した。血小板数の目安は国際値であり、日本の産科診療ガイドライン発行版の記載との照合は未了。副腎皮質ステロイドと免疫グロブリン大量療法はいずれも国内承認・保険適用があり、ITP への免疫グロブリン大量療法は保険適用がある。TPO 受容体作動薬は妊娠中は原則として推奨されない。ITP の疾患本体は第Ⅶ章 HS が正
-- 出典：Provan D, Arnold DM, Bussel JB, et al. Updated international consensus report on the investigation and management of primary immune thrombocytopenia. Blood Adv. 2019;3(22):3780-3817　[DOI 10.1182/bloodadvances.2019000812](https://doi.org/10.1182/bloodadvances.2019000812)　[PMID 31770441](https://pubmed.ncbi.nlm.nih.gov/31770441/)（区分 UNKNOWN）
+- 出典：Provan D, Arnold DM, Bussel JB, et al. Updated international consensus report on the investigation and management of primary immune thrombocytopenia. Blood Adv. 2019;3(22):3780-3817　[DOI 10.1182/bloodadvances.2019000812](https://doi.org/10.1182/bloodadvances.2019000812)　[PMID 31770441](https://pubmed.ncbi.nlm.nih.gov/31770441/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-1-C-④（免疫性血小板減少症<ITP>、c）　コアカリ：PS-02-11-05 (id: JkxnuSU)；TBL-01-00-386 (id: JlvnmD8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PG-040&card_id=PG-040&version=e07e594109)　（版 `e07e594109`）
 
@@ -564,7 +564,7 @@
 
 - 条件：region: 国際／対象: B型肝炎合併妊娠の妊婦
 - 不確実性：SMFM の2024年指針の抄録で確認した（2026年に corrigendum あり）。テノフォビルは国内承認薬だが、母子感染予防目的での保険適用は未確認。日本での新生児への B型肝炎ワクチン・HBIG の実施（保険診療による母子感染予防）は第34回 HV-013・014 で作成済みの範囲であり、本カードは母体管理側に絞った
-- 出典：Society for Maternal-Fetal Medicine. Consult Series #69: Hepatitis B in pregnancy: updated guidelines. Am J Obstet Gynecol. 2024;230(4):B2-B11　[DOI 10.1016/j.ajog.2023.12.023](https://doi.org/10.1016/j.ajog.2023.12.023)　[PMID 38141870](https://pubmed.ncbi.nlm.nih.gov/38141870/)（区分 UNKNOWN）
+- 出典：Society for Maternal-Fetal Medicine. Consult Series #69: Hepatitis B in pregnancy: updated guidelines. Am J Obstet Gynecol. 2024;230(4):B2-B11　[DOI 10.1016/j.ajog.2023.12.023](https://doi.org/10.1016/j.ajog.2023.12.023)　[PMID 38141870](https://pubmed.ncbi.nlm.nih.gov/38141870/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-1-D-①（HBV、HCV、HIV、HTLV-Ⅰ、パルボウイルスB19(伝染性紅斑)、B群連鎖球菌、TORCH症候群、b）　コアカリ：PS-02-11-05 (id: JkxnuSU)；PS-02-11-03 (id: JkxnuSM)；TBL-01-00-388 (id: JlvnmEA)；TBL-02-10-013 (id: JlAKpqo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PG-044&card_id=PG-044&version=d197ebfa1e)　（版 `d197ebfa1e`）
 
@@ -574,7 +574,7 @@
 
 - 条件：region: 国際／対象: C型肝炎合併妊娠の妊婦
 - 不確実性：SMFM の2021年指針の抄録で確認した範囲。DAA は国内承認薬だが妊娠中の投与は確立しておらず、国内添付文書での個別確認は未了。日本の妊婦健診でも HCV抗体は妊娠初期検査に含まれている（PG-043）
-- 出典：Society for Maternal-Fetal Medicine. Consult Series #56: Hepatitis C in pregnancy—updated guidelines. Am J Obstet Gynecol. 2021;225(3):B8-B18　[DOI 10.1016/j.ajog.2021.06.008](https://doi.org/10.1016/j.ajog.2021.06.008)　[PMID 34116035](https://pubmed.ncbi.nlm.nih.gov/34116035/)（区分 UNKNOWN）
+- 出典：Society for Maternal-Fetal Medicine. Consult Series #56: Hepatitis C in pregnancy—updated guidelines. Am J Obstet Gynecol. 2021;225(3):B8-B18　[DOI 10.1016/j.ajog.2021.06.008](https://doi.org/10.1016/j.ajog.2021.06.008)　[PMID 34116035](https://pubmed.ncbi.nlm.nih.gov/34116035/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-1-D-①（HBV、HCV、HIV、HTLV-Ⅰ、パルボウイルスB19(伝染性紅斑)、B群連鎖球菌、TORCH症候群、b）　コアカリ：PS-02-11-05 (id: JkxnuSU)；PS-02-11-03 (id: JkxnuSM)；TBL-01-00-389 (id: JlvnmEI)；TBL-02-10-013 (id: JlAKpqo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PG-045&card_id=PG-045&version=cc58f5f7cc)　（版 `cc58f5f7cc`）
 

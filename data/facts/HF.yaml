@@ -99,7 +99,7 @@
     url: https://doi.org/10.1253/circj.72.489
     source_license: 未確認（Crossref に license 欄なし。掲載ページは未確認）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 一地域の有病率をもとにした推計である。
   curriculum:
@@ -115,6 +115,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-186 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: HF-004
   domain: HF
   subdomain: 慢性心不全

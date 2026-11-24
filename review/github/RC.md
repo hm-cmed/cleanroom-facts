@@ -374,7 +374,7 @@
 
 - 条件：region: 国際／対象: 甲状腺機能低下症の患者
 - 不確実性：抄録で確認した内容である。自己免疫性甲状腺疾患では悪性貧血・萎縮性胃炎の合併が貧血のリスクになる点も同抄録に記されているが、本カードの主張範囲外である。
-- 出典：Szczepanek-Parulska E, Hernik A, Ruchała M. Anemia in thyroid diseases. Pol Arch Intern Med. 2017;127(5):352-360.　[DOI 10.20452/pamw.3985](https://doi.org/10.20452/pamw.3985)　[PMID 28400547](https://pubmed.ncbi.nlm.nih.gov/28400547/)（区分 UNKNOWN）
+- 出典：Szczepanek-Parulska E, Hernik A, Ruchała M. Anemia in thyroid diseases. Pol Arch Intern Med. 2017;127(5):352-360.　[DOI 10.20452/pamw.3985](https://doi.org/10.20452/pamw.3985)　[PMID 28400547](https://pubmed.ncbi.nlm.nih.gov/28400547/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅶ-1-E-②（腎性貧血、内分泌異常による貧血、a）　コアカリ：PS-02-02-05 (id: JkxnuPc)；TBL-01-00-003 (id: JlvnlYE)；TBL-02-01-003 (id: JlAKpVo)；TBL-02-01-013 (id: JlAKpWQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RC-030&card_id=RC-030&version=75ca1365e1)　（版 `75ca1365e1`）
 

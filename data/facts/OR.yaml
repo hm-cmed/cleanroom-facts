@@ -17,7 +17,7 @@
     url: https://doi.org/10.1111/j.1529-8019.2010.01320.x
     source_license: ライセンス未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は口角炎を中心に扱っており、舌炎そのものの病因や分類の詳細は出典の範囲外のため、舌炎については本カードでは扱っていない。
   curriculum:
@@ -33,6 +33,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1431 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OR-002
   domain: OR
   subdomain: 口腔粘膜疾患
@@ -359,7 +362,7 @@
     url: https://doi.org/10.11607/jop.1151
     source_license: ライセンス未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 感度・特異度・κ値は出典が報告する検証研究に基づく代表値であり、対象とする障害の種類によって異なる。
   curriculum:
@@ -375,6 +378,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1437 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OR-011
   domain: OR
   subdomain: 顎骨腫瘍
@@ -394,7 +400,7 @@
     url: https://doi.org/10.1111/odi.12646
     source_license: ライセンス未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 顎骨腫瘍全体ではなく、代表的疾患であるエナメル上皮腫を中心に記載した。その他の顎骨腫瘍の詳細は出典の範囲外である。
   curriculum:
@@ -410,6 +416,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1438 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OR-012
   domain: OR
   subdomain: 咽頭炎
@@ -686,7 +695,7 @@
     url: https://doi.org/10.1016/S0140-6736(19)30956-0
     source_license: ライセンス未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 東・東南アジアの疫学を中心とする総説に基づく。国内では頻度が低く、疫学やスクリーニングの運用は異なる。
   curriculum:
@@ -702,6 +711,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1443 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OR-020
   domain: OR
   subdomain: 咽頭癌
@@ -797,7 +809,7 @@
     url: https://doi.org/10.1002/lary.23843
     source_license: ライセンス未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 2013年の系統的レビューであり、それ以降の術式や塞栓術の進歩は含まれない。数値は出典の抄録で確認した。
   curriculum:
@@ -813,6 +825,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1445 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OR-023
   domain: OR
   subdomain: 口腔癌
@@ -949,7 +964,7 @@
     url: https://doi.org/10.1016/j.otc.2015.10.005
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は耳下腺良性腫瘍の総説で、抄録で確認できた範囲（対象となる組織型、診断ワークアップ、管理原則の総論）にとどまる。各組織型の頻度の数値は抄録の範囲外のため含めていない。顎下腺・舌下腺・小唾液腺の良性腫瘍は出典の主対象外。
   curriculum:
@@ -965,6 +980,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1447 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OR-027
   domain: OR
   subdomain: 唾液腺疾患
@@ -984,7 +1002,7 @@
     url: https://doi.org/10.1200/JCO.21.00449
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ22 2026-11-11）：NCI PDQ「Salivary Gland Cancer Treatment」：治療の中心は外科的切除、術後放射線の適応（高悪性度・断端陽性・神経周囲浸潤）、腺様嚢胞癌の神経周囲浸潤。ASCO 固有の細目は対象外
   uncertainty: 米国のガイドライン本文（推奨文）で確認した範囲の記載。全身療法の個別薬剤名は含めておらず、関連薬剤の国内承認・保険適用は未確認。日本の診療体制や保険制度への適合は出典の範囲外。
   curriculum:
@@ -1003,6 +1021,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ22 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1448 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OR-028
   domain: OR
   subdomain: 頸部疾患
@@ -1022,7 +1043,7 @@
     url: https://doi.org/10.1177/0003489416665194
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 小児・韓国の単施設の検討に基づく。成人や日本の診療への外挿は未確認。使用された抗菌薬の国内承認・保険適用は未確認。
   curriculum:
@@ -1038,6 +1059,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1449 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OR-029
   domain: OR
   subdomain: 頸部疾患
@@ -1092,7 +1116,7 @@
     url: https://doi.org/10.1056/NEJMoa1506007
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: インドの単施設の試験で、対象は側方性の早期口腔扁平上皮癌に限られる。有害事象の発生率は待機的郭清群6.6%、治療的郭清群3.6%であった（出典抄録）。
   curriculum:
@@ -1108,6 +1132,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1451 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OR-031
   domain: OR
   subdomain: 頸部疾患
@@ -1127,7 +1154,7 @@
     url: https://doi.org/10.1016/j.clp.2018.07.012
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 新生児・小児を主対象とした総説に基づく。各病変の頻度の順位は出典抄録の記載によるが、割合の数値は抄録の範囲外のため含めていない。
   curriculum:
@@ -1143,6 +1170,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1452 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OR-032
   domain: OR
   subdomain: 頸部疾患
@@ -1162,7 +1192,7 @@
     url: https://doi.org/10.1016/j.otohns.2010.02.026
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 2010年の総説であり、その後の薬物療法（シロリムス等）の進展は含まない。本カードには薬剤名を含めていない。頸部以外の部位の病変は出典の主対象外。
   curriculum:
@@ -1178,6 +1208,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/27_ds_e.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1453 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OR-033
   domain: OR
   subdomain: 口角炎、舌炎

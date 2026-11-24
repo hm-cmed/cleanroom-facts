@@ -1002,9 +1002,9 @@
     pmid: null
     pmcid: null
     url: https://www.city.sapporo.jp/hokenjo/f1kansen/koureihaienn.html
-    source_license: 未確認（札幌市ホームページ。利用規約の表示は未確認）
+    source_license: 地方自治体の公開資料
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: GOV_JP
     corroboration: 自由に使える資料による裏づけ（GOV_JP、作り手の調査バッチ46 2026-11-11）：厚生労働省. 高齢者の肺炎球菌ワクチン（Q&A は2026年2月20日版）（GOV_JP、https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/vaccine/pneumococcus-senior/index.html、新規 SRC 候補）。裏づける部分：候補（厚生労働省のページ、政府標準利用規約に基づく GOV_JP）に、令和8年度より定期接種で用いるワクチンが23価肺炎球菌莢膜ポリサッカライドワクチン（PPSV23）から沈降20価肺炎球菌結合型ワクチン（PCV20）に変更になったこと、定期接種は対象者に1回接種であることが明記され、カードの uncertainty にあった「変更の根拠となる厚生労働省の通知・告示は未確認」はこの範囲で解消する。数値の照合：—。留保：「すでに定期接種を受けた人は再度定期接種を受けることはできない」という文言そのものは候補のページでは確認できず（1回接種であることは明記される）、その部分を留保して B。候補のページは出典マスター未登録。なお厚生労働省の旧 Q&A ページは SRC-356（GOV_JP）として登録済みで、本ページはその後継にあたるため、SRC-356 の差し替えとして扱うか新規登録かは登録側の判断に委ねる（申し送り参照）
   uncertainty: 札幌市保健所のページで確認した。変更の根拠となる厚生労働省の通知・告示は未確認で、確認が要る
   curriculum:
@@ -1026,6 +1026,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP、作り手の調査バッチ46 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から GOV_JP に変更（出典 SRC-357 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: RI-029
   domain: RI
   subdomain: 市中肺炎
@@ -1938,7 +1941,7 @@
     url: https://doi.org/10.1093/clinids/7.2.200
     source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ46 2026-11-11）：Lane MA, Marcos LA, Onen NF, et al. Paragonimus kellicotti flukes in Missouri, USA. Emerg Infect Dis. 2012;18(8)（CC BY、PMID 22840191、DOI 10.3201/eid1808.120335、PMC3414046、新規 SRC 候補）。裏づける部分：候補（CDC の学術誌 Emerging Infectious Diseases の症例集積、CC BY）の全文に、喀痰中の虫卵の同定による診断が特異的であること、便中の虫卵の検査も行われること、プラジカンテル75 mg/kg（3分割）・2日間が肺吸虫症の治療の選択であることが明記される。CDC の DPDx の肺吸虫症ページ（GOV_US）にも、虫卵が喀痰中に排出され、または嚥下されて便とともに排出されることが記載される。数値の照合：プラジカンテル75 mg/kg/日・2日間はカードの用量と一致。留保：Johnson ら 1985 の症例集積の転帰（投与を完遂した7例中6例で90日までに喀痰と便の虫卵が陰性化し、残る1例も120日までに陰性化）は候補に再掲がなく、その部分を留保して B。プラジカンテルの現在の国内の標準治療・承認状況はカード側で未確認のままで、本調査でも政府の全文文書では確定できなかった（申し送り参照）。候補は出典マスター未登録のため新規 SRC 登録候補
   uncertainty: 1985年の報告であり、現在の国内の標準治療・承認状況は確認していない。出典のライセンスも未確認のため、取り込み時に確認が必要。
   curriculum:
@@ -1960,6 +1963,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ46 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-530 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: RI-055
   domain: RI
   subdomain: 縦隔炎
@@ -1977,7 +1983,7 @@
     url: https://doi.org/10.48095/ccrvch2024502
     source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ46 2026-11-11）：Avgoustou C, Avgoustou C. Recognizing Descending Necrotizing Mediastinitis in Adults: A Narrative Review of Diagnostic Dilemmas and Barriers. Cureus. 2026;18(7):e112582（CC BY、PMID 42592242、DOI 10.7759/cureus.112582、PMC13464360、新規 SRC 候補）。裏づける部分：候補（CC BY の叙述的総説）の全文に、口腔咽頭の感染が深頸部の間隙を下行して縦隔へ広がる重篤な縦隔炎であること、現代の集学的な医科・外科協働の管理で生存が改善すること、外科的ドレナージの不足が転帰を悪くすること、重症例では集中治療下での管理が前提になることが述べられる。数値の照合：死亡率はカードが「約20%」（主出典 SRC-531 の総説の記載）に対し、候補は「最大で40%に達しうる」としており、両値を記録する。カードの値は主出典に基づくもので、誤りとは断定しない（主張チェック）。留保：縦隔の進展範囲に応じたドレナージの使い分けの具体は候補では分類名を伴う形では扱われず、その部分を留保して B。主出典（SRC-531）は Crossref・Europe PMC のいずれでもライセンス表示がなく、UNKNOWN の据え置きが妥当。候補は出典マスター未登録のため新規 SRC 登録候補'
   uncertainty: 単一施設の実践を含む総説であり、死亡率約20%はその総説の記載に基づく。出典のライセンスは未確認のため、取り込み時に確認が必要。
   curriculum:
@@ -1996,6 +2002,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ46 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-531 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: RI-056
   domain: RI
   subdomain: 吸虫症、線虫症

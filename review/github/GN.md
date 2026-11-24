@@ -54,7 +54,7 @@
 
 - 条件：region: 国際／study: 2008年の総説（著者らの小児110例の15〜18年の前向き追跡を含む）
 - 不確実性：長期予後の数値は著者らの単一コホートに基づくもので、成人の発症例や腎機能低下を伴う例では経過が異なる。出典のライセンスは未確認である。
-- 出典：Rodriguez-Iturbe B, Musser JM. The current state of poststreptococcal glomerulonephritis. J Am Soc Nephrol. 2008;19(10):1855-1864　[DOI 10.1681/ASN.2008010092](https://doi.org/10.1681/ASN.2008010092)　[PMID 18667731](https://pubmed.ncbi.nlm.nih.gov/18667731/)（区分 UNKNOWN）
+- 出典：Rodriguez-Iturbe B, Musser JM. The current state of poststreptococcal glomerulonephritis. J Am Soc Nephrol. 2008;19(10):1855-1864　[DOI 10.1681/ASN.2008010092](https://doi.org/10.1681/ASN.2008010092)　[PMID 18667731](https://pubmed.ncbi.nlm.nih.gov/18667731/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-1-A-①（急性糸球体腎炎、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-321 (id: Jlvnl9M)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-003&card_id=GN-003&version=fdee549ca9)　（版 `fdee549ca9`）
 
@@ -172,7 +172,7 @@
 
 - 条件：region: 日本／study: 小児特発性ネフローゼ症候群診療ガイドライン2020の英語版要約（2025年）
 - 不確実性：リツキシマブは、頻回再発型・ステロイド依存性の小児発症ネフローゼ症候群に対して国内で承認され保険適用があることを国内の総説で確認した（承認は2014年）。個別の用法・用量は確認していない。出典のライセンスは未確認である。
-- 出典：Hamada R, Kaku Y, Inaba A, Kaito H, Kimata T, Kondo S, et al. A digest of the clinical practice guideline for pediatric idiopathic nephrotic syndrome 2020 updated: medical therapy. Clin Exp Nephrol. 2025;29(6):691-701　[DOI 10.1007/s10157-025-02636-5](https://doi.org/10.1007/s10157-025-02636-5)　[PMID 40063214](https://pubmed.ncbi.nlm.nih.gov/40063214/)（区分 UNKNOWN）
+- 出典：Hamada R, Kaku Y, Inaba A, Kaito H, Kimata T, Kondo S, et al. A digest of the clinical practice guideline for pediatric idiopathic nephrotic syndrome 2020 updated: medical therapy. Clin Exp Nephrol. 2025;29(6):691-701　[DOI 10.1007/s10157-025-02636-5](https://doi.org/10.1007/s10157-025-02636-5)　[PMID 40063214](https://pubmed.ncbi.nlm.nih.gov/40063214/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-1-B-①（微小変化群、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-427 (id: JlvnmHU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-018&card_id=GN-018&version=3744973e47)　（版 `3744973e47`）
 
@@ -188,7 +188,7 @@
 
 - 条件：region: オランダ／study: 2017年の多施設（10施設）後ろ向き症例集積（1985〜2011年発症例）
 - 不確実性：単一国の後ろ向き集積であり、小児発症例や日本の症例構成にはそのまま当てはまらない。副腎皮質ステロイドは国内承認薬だが、成人発症例に対する用量・期間の国内の標準は未確認である。出典のライセンスは未確認である。
-- 出典：Maas RJ, Deegens JK, Beukhof JR, Reichert LJ, Ten Dam MA, Beutler JJ, et al. The clinical course of minimal change nephrotic syndrome with onset in adulthood or late adolescence: a case series. Am J Kidney Dis. 2017;69(5):637-646　[DOI 10.1053/j.ajkd.2016.10.032](https://doi.org/10.1053/j.ajkd.2016.10.032)　[PMID 28089478](https://pubmed.ncbi.nlm.nih.gov/28089478/)（区分 UNKNOWN）
+- 出典：Maas RJ, Deegens JK, Beukhof JR, Reichert LJ, Ten Dam MA, Beutler JJ, et al. The clinical course of minimal change nephrotic syndrome with onset in adulthood or late adolescence: a case series. Am J Kidney Dis. 2017;69(5):637-646　[DOI 10.1053/j.ajkd.2016.10.032](https://doi.org/10.1053/j.ajkd.2016.10.032)　[PMID 28089478](https://pubmed.ncbi.nlm.nih.gov/28089478/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-1-B-①（微小変化群、a）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-325 (id: Jlvnl9k)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-012&card_id=GN-012&version=5054d5c329)　（版 `5054d5c329`）
 
@@ -402,7 +402,7 @@
 
 - 条件：region: ノルウェー／study: 腎生検を受けた94例の後方視研究（追跡期間の中央値42.5か月）
 - 不確実性：出典のライセンスは未確認のため、取り込み時に出版社ページで確認が必要。2001年の報告で、疾患名は現在の多発血管炎性肉芽腫症に読み替えた。
-- 出典：Aasarød K, Bostad L, Hammerstrøm J, Jørstad S, Iversen BM. Renal histopathology and clinical course in 94 patients with Wegener's granulomatosis. Nephrol Dial Transplant. 2001;16(5):953-960　[DOI 10.1093/ndt/16.5.953](https://doi.org/10.1093/ndt/16.5.953)　[PMID 11328900](https://pubmed.ncbi.nlm.nih.gov/11328900/)（区分 UNKNOWN）
+- 出典：Aasarød K, Bostad L, Hammerstrøm J, Jørstad S, Iversen BM. Renal histopathology and clinical course in 94 patients with Wegener's granulomatosis. Nephrol Dial Transplant. 2001;16(5):953-960　[DOI 10.1093/ndt/16.5.953](https://doi.org/10.1093/ndt/16.5.953)　[PMID 11328900](https://pubmed.ncbi.nlm.nih.gov/11328900/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-1-D-⑤（多発血管炎性肉芽腫症、c）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-337 (id: Jlvnl-s)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-029&card_id=GN-029&version=020bc39759)　（版 `020bc39759`）
 
@@ -434,7 +434,7 @@
 
 - 条件：region: 国際／study: 小児1,133例・12研究の系統的レビュー（追跡期間6週〜36年）
 - 不確実性：出典のライセンスは未確認のため、取り込み時に出版社ページで確認が必要。対象は、診断時に腎炎・ネフローゼ症候群・腎不全を呈していなかった小児であり、成人や発症時に腎病変が強い例にはそのまま当てはまらない。
-- 出典：Narchi H. Risk of long term renal impairment and duration of follow up recommended for Henoch-Schonlein purpura with normal or minimal urinary findings: a systematic review. Arch Dis Child. 2005;90(9):916-920　[DOI 10.1136/adc.2005.074641](https://doi.org/10.1136/adc.2005.074641)　[PMID 15871983](https://pubmed.ncbi.nlm.nih.gov/15871983/)（区分 UNKNOWN）
+- 出典：Narchi H. Risk of long term renal impairment and duration of follow up recommended for Henoch-Schonlein purpura with normal or minimal urinary findings: a systematic review. Arch Dis Child. 2005;90(9):916-920　[DOI 10.1136/adc.2005.074641](https://doi.org/10.1136/adc.2005.074641)　[PMID 15871983](https://pubmed.ncbi.nlm.nih.gov/15871983/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-1-C-②（IgA血管炎、b）　コアカリ：PS-02-09-05 (id: JkxnuRs)；TBL-01-00-333 (id: Jlvnl-Y)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-031&card_id=GN-031&version=21bf315e62)　（版 `21bf315e62`）
 
@@ -540,7 +540,7 @@
 
 - 条件：region: 国際／study: Fabry Registry に登録された未治療成人462例の自然経過データ（eGFR を12か月以上にわたり2回以上測定）
 - 不確実性：出典のライセンスは未確認のため、取り込み時に出版社ページで確認が必要。登録研究の未治療例の解析であり、酵素補充療法が普及した現在の患者集団とは背景が異なる可能性がある。
-- 出典：Wanner C, Oliveira JP, Ortiz A, Mauer M, Germain DP, Linthorst GE, et al. Prognostic indicators of renal disease progression in adults with Fabry disease: natural history data from the Fabry Registry. Clin J Am Soc Nephrol. 2010;5(12):2220-2228　[DOI 10.2215/CJN.04340510](https://doi.org/10.2215/CJN.04340510)　[PMID 20813854](https://pubmed.ncbi.nlm.nih.gov/20813854/)（区分 UNKNOWN）
+- 出典：Wanner C, Oliveira JP, Ortiz A, Mauer M, Germain DP, Linthorst GE, et al. Prognostic indicators of renal disease progression in adults with Fabry disease: natural history data from the Fabry Registry. Clin J Am Soc Nephrol. 2010;5(12):2220-2228　[DOI 10.2215/CJN.04340510](https://doi.org/10.2215/CJN.04340510)　[PMID 20813854](https://pubmed.ncbi.nlm.nih.gov/20813854/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-1-F-③（Fabry病、c）　コアカリ：PS-02-09-05 (id: JkxnuRs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GN-039&card_id=GN-039&version=3812247d5b)　（版 `3812247d5b`）
 

@@ -342,7 +342,7 @@
 
 - 条件：population: 原発性凍結肩の成人／region: 国際
 - 不確実性：経過を炎症期・凍結期・解凍期の3期に分ける呼称は成書の慣用であり、本抄録は「疼痛期から回復期へ移行する1〜2年の経過」と記述している。無治療でも完全回復するとは限らない点も同抄録で指摘されている
-- 出典：Ramirez J. Adhesive Capsulitis: Diagnosis and Management. Am Fam Physician. 2019;99(5):297-300　[PMID 30811157](https://pubmed.ncbi.nlm.nih.gov/30811157/)（区分 UNKNOWN）
+- 出典：Ramirez J. Adhesive Capsulitis: Diagnosis and Management. Am Fam Physician. 2019;99(5):297-300　[PMID 30811157](https://pubmed.ncbi.nlm.nih.gov/30811157/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-8-A-①（肩関節周囲炎、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-152 (id: JlvnlqI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-025&card_id=OS-025&version=eac791cf0a)　（版 `eac791cf0a`）
 
@@ -368,7 +368,7 @@
 
 - 条件：population: 日本の一般住民／region: 日本
 - 不確実性：断裂部位は超音波検査による評価で、棘上筋腱の断裂が中心である。有痛弧やドロップアームなどの個別の身体所見の診断精度は本抄録には含まれていない
-- 出典：Yamamoto A, Takagishi K, Osawa T, et al. Prevalence and risk factors of a rotator cuff tear in the general population. J Shoulder Elbow Surg. 2010;19(1):116-120　[DOI 10.1016/j.jse.2009.04.006](https://doi.org/10.1016/j.jse.2009.04.006)　[PMID 19540777](https://pubmed.ncbi.nlm.nih.gov/19540777/)（区分 UNKNOWN）
+- 出典：Yamamoto A, Takagishi K, Osawa T, et al. Prevalence and risk factors of a rotator cuff tear in the general population. J Shoulder Elbow Surg. 2010;19(1):116-120　[DOI 10.1016/j.jse.2009.04.006](https://doi.org/10.1016/j.jse.2009.04.006)　[PMID 19540777](https://pubmed.ncbi.nlm.nih.gov/19540777/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-8-A-②（腱板断裂、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-027&card_id=OS-027&version=3903814dfa)　（版 `3903814dfa`）
 
@@ -472,7 +472,7 @@
 
 - 条件：population: 思春期の小児／region: 国際
 - 不確実性：骨頭が後方へすべるという方向自体は本抄録に明記されていない。両側例の頻度のパーセンテージは示されておらず、対側の予防的固定は「少なくとも中欧では標準的に行う」とされている（地域により方針が異なる）
-- 出典：Funk JF, Lebek S. Epiphyseolysis capitis femoris: new aspects of diagnostics and therapy. Orthopade. 2014;43(8):742-749　[DOI 10.1007/s00132-013-2226-6](https://doi.org/10.1007/s00132-013-2226-6)　[PMID 25116242](https://pubmed.ncbi.nlm.nih.gov/25116242/)（区分 UNKNOWN）
+- 出典：Funk JF, Lebek S. Epiphyseolysis capitis femoris: new aspects of diagnostics and therapy. Orthopade. 2014;43(8):742-749　[DOI 10.1007/s00132-013-2226-6](https://doi.org/10.1007/s00132-013-2226-6)　[PMID 25116242](https://pubmed.ncbi.nlm.nih.gov/25116242/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-8-D-③（大腿骨頭すべり症、b）　コアカリ：PS-02-05-05 (id: JkxnuQc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-035&card_id=OS-035&version=63583cdc44)　（版 `63583cdc44`）
 
@@ -514,7 +514,7 @@
 
 - 条件：population: 6〜12歳発症の Perthes 病患者（多施設前向き研究、438例）／region: 国際
 - 不確実性：containment の考え方自体は本研究の治療群（装具・骨切り術など）に反映されているが、装具単独の効果は無治療群と差がなかった。lateral pillar C 群では手術・非手術とも転帰は最も不良だった
-- 出典：Herring JA, Kim HT, Browne R. Legg-Calve-Perthes disease. Part II: Prospective multicenter study of the effect of treatment on outcome. J Bone Joint Surg Am. 2004;86(10):2121-2134　[PMID 15466720](https://pubmed.ncbi.nlm.nih.gov/15466720/)（区分 UNKNOWN）
+- 出典：Herring JA, Kim HT, Browne R. Legg-Calve-Perthes disease. Part II: Prospective multicenter study of the effect of treatment on outcome. J Bone Joint Surg Am. 2004;86(10):2121-2134　[PMID 15466720](https://pubmed.ncbi.nlm.nih.gov/15466720/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-8-D-⑤（Perthes病、c）　コアカリ：PS-02-05-05 (id: JkxnuQc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-038&card_id=OS-038&version=1adcb3603b)　（版 `1adcb3603b`）
 
@@ -530,7 +530,7 @@
 
 - 条件：population: 日本の一般住民（40歳以上中心）／region: 日本
 - 不確実性：2005年開始のコホートのベースライン調査に基づく数値。肥満などの個別の危険因子の寄与は本抄録では定量されていない
-- 出典：Yoshimura N, Muraki S, Oka H, et al. Prevalence of knee osteoarthritis, lumbar spondylosis, and osteoporosis in Japanese men and women: the research on osteoarthritis/osteoporosis against disability study. J Bone Miner Metab. 2009;27(5):620-628　[DOI 10.1007/s00774-009-0080-8](https://doi.org/10.1007/s00774-009-0080-8)　[PMID 19568689](https://pubmed.ncbi.nlm.nih.gov/19568689/)（区分 UNKNOWN）
+- 出典：Yoshimura N, Muraki S, Oka H, et al. Prevalence of knee osteoarthritis, lumbar spondylosis, and osteoporosis in Japanese men and women: the research on osteoarthritis/osteoporosis against disability study. J Bone Miner Metab. 2009;27(5):620-628　[DOI 10.1007/s00774-009-0080-8](https://doi.org/10.1007/s00774-009-0080-8)　[PMID 19568689](https://pubmed.ncbi.nlm.nih.gov/19568689/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-8-E-①（変形性膝関節症、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-146 (id: Jlvnloc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-039&card_id=OS-039&version=92369681d5)　（版 `92369681d5`）
 
@@ -576,7 +576,7 @@
 
 - 条件：population: 成長期のスポーツを行う小児・思春期／region: 国際
 - 不確実性：男児で12〜15歳にピークがあるとされてきたが、近年の女子のスポーツ参加の増加により性差はなくなってきていると同総説は述べている
-- 出典：Ladenhauf HN, Seitlinger G, Green DW. Osgood-Schlatter disease: a 2020 update of a common knee condition in children. Curr Opin Pediatr. 2020;32(1):107-112　[DOI 10.1097/MOP.0000000000000842](https://doi.org/10.1097/MOP.0000000000000842)　[PMID 31714260](https://pubmed.ncbi.nlm.nih.gov/31714260/)（区分 UNKNOWN）
+- 出典：Ladenhauf HN, Seitlinger G, Green DW. Osgood-Schlatter disease: a 2020 update of a common knee condition in children. Curr Opin Pediatr. 2020;32(1):107-112　[DOI 10.1097/MOP.0000000000000842](https://doi.org/10.1097/MOP.0000000000000842)　[PMID 31714260](https://pubmed.ncbi.nlm.nih.gov/31714260/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-8-E-②（Osgood-Schlatter病、b）　コアカリ：PS-02-05-05 (id: JkxnuQc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-043&card_id=OS-043&version=da17a68686)　（版 `da17a68686`）
 
@@ -618,7 +618,7 @@
 
 - 条件：population: 外反母趾患者／region: 国際
 - 不確実性：2012年の総説であり、装具治療の個別の効果量は示されていない。手術成績は適切な術式選択で85%が良好とされている
-- 出典：Wülker N, Mittag F. The treatment of hallux valgus. Dtsch Arztebl Int. 2012;109(49):857-867　[DOI 10.3238/arztebl.2012.0857](https://doi.org/10.3238/arztebl.2012.0857)　[PMID 23267411](https://pubmed.ncbi.nlm.nih.gov/23267411/)（区分 UNKNOWN）
+- 出典：Wülker N, Mittag F. The treatment of hallux valgus. Dtsch Arztebl Int. 2012;109(49):857-867　[DOI 10.3238/arztebl.2012.0857](https://doi.org/10.3238/arztebl.2012.0857)　[PMID 23267411](https://pubmed.ncbi.nlm.nih.gov/23267411/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-8-F-①（外反母趾、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-147 (id: Jlvnlok)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-046&card_id=OS-046&version=3c392b311d)　（版 `3c392b311d`）
 
@@ -634,7 +634,7 @@
 
 - 条件：population: 先天性特発性内反足の小児（157例、256足）／region: 国際
 - 不確実性：単施設の連続症例の検討であり、90%の患者で5回以下のギプスで矯正が得られている。アキレス腱皮下切腱の併用率などの手技の細部は本カードに含めていない
-- 出典：Morcuende JA, Dolan LA, Dietz FR, et al. Radical reduction in the rate of extensive corrective surgery for clubfoot using the Ponseti method. Pediatrics. 2004;113(2):376-380　[DOI 10.1542/peds.113.2.376](https://doi.org/10.1542/peds.113.2.376)　[PMID 14754952](https://pubmed.ncbi.nlm.nih.gov/14754952/)（区分 UNKNOWN）
+- 出典：Morcuende JA, Dolan LA, Dietz FR, et al. Radical reduction in the rate of extensive corrective surgery for clubfoot using the Ponseti method. Pediatrics. 2004;113(2):376-380　[DOI 10.1542/peds.113.2.376](https://doi.org/10.1542/peds.113.2.376)　[PMID 14754952](https://pubmed.ncbi.nlm.nih.gov/14754952/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-8-F-②（内反足、b）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-135 (id: Jlvnlqw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-047&card_id=OS-047&version=68601276e8)　（版 `68601276e8`）
 
@@ -650,7 +650,7 @@
 
 - 条件：population: 末期変形性足関節症患者（390例、406関節）／region: 国際
 - 不確実性：単施設を受診した末期症例の内訳であり、一般住民における病因の分布とは異なる可能性がある。治療（人工足関節置換・関節固定の比較など）は本出典の対象外である
-- 出典：Valderrabano V, Horisberger M, Russell I, et al. Etiology of ankle osteoarthritis. Clin Orthop Relat Res. 2009;467(7):1800-1806　[DOI 10.1007/s11999-008-0543-6](https://doi.org/10.1007/s11999-008-0543-6)　[PMID 18830791](https://pubmed.ncbi.nlm.nih.gov/18830791/)（区分 UNKNOWN）
+- 出典：Valderrabano V, Horisberger M, Russell I, et al. Etiology of ankle osteoarthritis. Clin Orthop Relat Res. 2009;467(7):1800-1806　[DOI 10.1007/s11999-008-0543-6](https://doi.org/10.1007/s11999-008-0543-6)　[PMID 18830791](https://pubmed.ncbi.nlm.nih.gov/18830791/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-8-F-③（変形性足関節症、c）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-146 (id: Jlvnloc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OS-048&card_id=OS-048&version=9dd6854743)　（版 `9dd6854743`）
 

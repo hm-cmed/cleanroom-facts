@@ -12,7 +12,7 @@
 
 - 条件：region: 国際／design: 総説
 - 不確実性：出典の抄録はPubMedに収載されておらず本文は未確認のため、主張はBasedow病の診断に関する定義的な範囲に限定し、数値は用いていない。
-- 出典：Smith TJ, Hegedüs L. Graves' Disease. N Engl J Med. 2016;375(16):1552-1565.　[DOI 10.1056/NEJMra1510030](https://doi.org/10.1056/NEJMra1510030)　[PMID 27797318](https://pubmed.ncbi.nlm.nih.gov/27797318/)（区分 UNKNOWN）
+- 出典：Smith TJ, Hegedüs L. Graves' Disease. N Engl J Med. 2016;375(16):1552-1565.　[DOI 10.1056/NEJMra1510030](https://doi.org/10.1056/NEJMra1510030)　[PMID 27797318](https://pubmed.ncbi.nlm.nih.gov/27797318/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-2-A-①（甲状腺機能亢進症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-462 (id: JlvnmK8)；TBL-02-13-014 (id: JlAKpsw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-001&card_id=TH-001&version=989694c744)　（版 `989694c744`）
 
@@ -22,7 +22,7 @@
 
 - 条件：region: 日本／design: 学会会員対象の実態調査（2019年9月〜2020年2月受診症例）
 - 不確実性：数値は出典の抄録に記載された集計値である。チアマゾールは国内で承認・保険適用のある抗甲状腺薬として用いられているが、本作業では添付文書等による一次確認は行っていない。
-- 出典：Watanabe N, Yoshimura Noh J, Akamizu T, Yamada M; study group members of the Japan Thyroid Association. Survey of the actual administration of thiamazole for hyperthyroidism in Japan by the Japan Thyroid Association. Endocr J. 2022;69(1):35-43.　[DOI 10.1507/endocrj.EJ21-0238](https://doi.org/10.1507/endocrj.EJ21-0238)　[PMID 34321366](https://pubmed.ncbi.nlm.nih.gov/34321366/)（区分 UNKNOWN）
+- 出典：Watanabe N, Yoshimura Noh J, Akamizu T, Yamada M; study group members of the Japan Thyroid Association. Survey of the actual administration of thiamazole for hyperthyroidism in Japan by the Japan Thyroid Association. Endocr J. 2022;69(1):35-43.　[DOI 10.1507/endocrj.EJ21-0238](https://doi.org/10.1507/endocrj.EJ21-0238)　[PMID 34321366](https://pubmed.ncbi.nlm.nih.gov/34321366/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-2-A-①（甲状腺機能亢進症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-462 (id: JlvnmK8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-002&card_id=TH-002&version=4010f706d3)　（版 `4010f706d3`）
 
@@ -132,7 +132,7 @@
 
 - 条件：region: 国際／design: 総説
 - 不確実性：出典は総説であり、主張は抄録に記載された範囲に限定した。レボチロキシンは国内で承認・保険適用のある薬剤だが、本作業では添付文書等による一次確認は行っていない。
-- 出典：Ragusa F, Fallahi P, Elia G, Gonnella D, Paparo SR, Giusti C, Churilov LP, Ferrari SM, Antonelli A. Hashimotos' thyroiditis: Epidemiology, pathogenesis, clinic and therapy. Best Pract Res Clin Endocrinol Metab. 2019;33(6):101367.　[DOI 10.1016/j.beem.2019.101367](https://doi.org/10.1016/j.beem.2019.101367)　[PMID 31812326](https://pubmed.ncbi.nlm.nih.gov/31812326/)（区分 UNKNOWN）
+- 出典：Ragusa F, Fallahi P, Elia G, Gonnella D, Paparo SR, Giusti C, Churilov LP, Ferrari SM, Antonelli A. Hashimotos' thyroiditis: Epidemiology, pathogenesis, clinic and therapy. Best Pract Res Clin Endocrinol Metab. 2019;33(6):101367.　[DOI 10.1016/j.beem.2019.101367](https://doi.org/10.1016/j.beem.2019.101367)　[PMID 31812326](https://pubmed.ncbi.nlm.nih.gov/31812326/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-2-B-①（慢性甲状腺炎<橋本病>、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-464 (id: JlvnmLE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-007&card_id=TH-007&version=100bb68341)　（版 `100bb68341`）
 
@@ -158,7 +158,7 @@
 
 - 条件：region: 米国／design: 地域コホート研究（Olmsted County、1960〜1997年）
 - 不確実性：数値（発症率、疼痛の頻度、永続性甲状腺機能低下の割合）は出典の抄録に記載された米国単一地域コホートの値であり、日本の頻度を直接示すものではない。
-- 出典：Fatourechi V, Aniszewski JP, Fatourechi GZ, Atkinson EJ, Jacobsen SJ. Clinical features and outcome of subacute thyroiditis in an incidence cohort: Olmsted County, Minnesota, study. J Clin Endocrinol Metab. 2003;88(5):2100-2105.　[DOI 10.1210/jc.2002-021799](https://doi.org/10.1210/jc.2002-021799)　[PMID 12727961](https://pubmed.ncbi.nlm.nih.gov/12727961/)（区分 UNKNOWN）
+- 出典：Fatourechi V, Aniszewski JP, Fatourechi GZ, Atkinson EJ, Jacobsen SJ. Clinical features and outcome of subacute thyroiditis in an incidence cohort: Olmsted County, Minnesota, study. J Clin Endocrinol Metab. 2003;88(5):2100-2105.　[DOI 10.1210/jc.2002-021799](https://doi.org/10.1210/jc.2002-021799)　[PMID 12727961](https://pubmed.ncbi.nlm.nih.gov/12727961/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-2-B-②（亜急性甲状腺炎、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-464 (id: JlvnmLE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-008&card_id=TH-008&version=78d0b93c81)　（版 `78d0b93c81`）
 
@@ -184,7 +184,7 @@
 
 - 条件：region: 国際／design: 総説
 - 不確実性：出典の抄録はPubMedに収載されておらず本文も未確認のため、主張は無痛性甲状腺炎の定義的な経過の範囲に限定し、数値は用いていない。
-- 出典：Pearce EN, Farwell AP, Braverman LE. Thyroiditis. N Engl J Med. 2003;348(26):2646-2655.　[DOI 10.1056/NEJMra021194](https://doi.org/10.1056/NEJMra021194)　[PMID 12826640](https://pubmed.ncbi.nlm.nih.gov/12826640/)（区分 UNKNOWN）
+- 出典：Pearce EN, Farwell AP, Braverman LE. Thyroiditis. N Engl J Med. 2003;348(26):2646-2655.　[DOI 10.1056/NEJMra021194](https://doi.org/10.1056/NEJMra021194)　[PMID 12826640](https://pubmed.ncbi.nlm.nih.gov/12826640/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-2-B-③（無痛性甲状腺炎、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-464 (id: JlvnmLE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-009&card_id=TH-009&version=19b7c154f4)　（版 `19b7c154f4`）
 
@@ -316,7 +316,7 @@
 
 - 条件：region: 国際／design: 総説
 - 不確実性：出典は総説であり、治療開始の具体的なTSH閾値は抄録に数値の記載がなかったため主張に含めていない。
-- 出典：Cooper DS, Biondi B. Subclinical thyroid disease. Lancet. 2012;379(9821):1142-1154.　[DOI 10.1016/S0140-6736(11)60276-6](https://doi.org/10.1016/S0140-6736(11)60276-6)　[PMID 22273398](https://pubmed.ncbi.nlm.nih.gov/22273398/)（区分 UNKNOWN）
+- 出典：Cooper DS, Biondi B. Subclinical thyroid disease. Lancet. 2012;379(9821):1142-1154.　[DOI 10.1016/S0140-6736(11)60276-6](https://doi.org/10.1016/S0140-6736(11)60276-6)　[PMID 22273398](https://pubmed.ncbi.nlm.nih.gov/22273398/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-2-A-②（甲状腺機能低下症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-462 (id: JlvnmK8)；TBL-01-00-463 (id: JlvnmLA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TH-018&card_id=TH-018&version=b621ee6e02)　（版 `b621ee6e02`）
 

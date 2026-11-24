@@ -480,7 +480,7 @@
 
 - 条件：region: イタリア／study: 原著論文（患者30例を対象とした臨床研究）
 - 不確実性：元のカードの「下腿に最も多い」「冬季に悪化しやすい」「ひび割れた舗装様の外観」という記述は、本出典の抄録では確認できなかったため含めていない。本研究で用いられた外用剤は化粧品に分類される軟膏であり、日本で承認された治療薬ではないため、国内の承認・保険適用の対象となる薬剤ではない。掲載誌（Int J Tissue React）はDOIを付与していないためDOIはnullとした。
-- 出典：Caproni M, Torchia D, Pestelli E, Volpi W, Fabbri P, Schincaglia E. Clinical and immunohistochemical study of the effect of a cosmetic product in patients with asteatotic eczema. Int J Tissue React. 2005;27(1):23-29.　[PMID 15847102](https://pubmed.ncbi.nlm.nih.gov/15847102/)（区分 UNKNOWN）
+- 出典：Caproni M, Torchia D, Pestelli E, Volpi W, Fabbri P, Schincaglia E. Clinical and immunohistochemical study of the effect of a cosmetic product in patients with asteatotic eczema. Int J Tissue React. 2005;27(1):23-29.　[PMID 15847102](https://pubmed.ncbi.nlm.nih.gov/15847102/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-A-④（皮脂欠乏性湿疹、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-069 (id: Jlvnlgk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-031&card_id=SK-031&version=c105629b7f)　（版 `c105629b7f`）
 
@@ -506,7 +506,7 @@
 
 - 条件：region: 海外（系統的レビューに含まれた観察研究10件の集団）／study: 系統的レビュー（観察研究10件、PRISMA 準拠）
 - 不確実性：元のカードの「四肢に多い」「外用コルチコステロイドで治療でき、予後は良好」という記述は、本出典では確認できなかったため含めていない。パッチテスト陽性率などの数値は海外の観察研究を統合したものであり、日本の患者集団での値ではない。ネオマイシンは治療薬としてではなく、パッチテストで報告されたアレルゲンとしての記載である。
-- 出典：Joerg L, Stolyar J, Jagdeo J. Contact Allergens Associated With Nummular Eczema: A Systematic Review. J Drugs Dermatol. 2026;25(10):914-918.　[DOI 10.36849/JDD.10209](https://doi.org/10.36849/JDD.10209)　[PMID 42826143](https://pubmed.ncbi.nlm.nih.gov/42826143/)（区分 UNKNOWN）
+- 出典：Joerg L, Stolyar J, Jagdeo J. Contact Allergens Associated With Nummular Eczema: A Systematic Review. J Drugs Dermatol. 2026;25(10):914-918.　[DOI 10.36849/JDD.10209](https://doi.org/10.36849/JDD.10209)　[PMID 42826143](https://pubmed.ncbi.nlm.nih.gov/42826143/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-1-A-⑤（貨幣状湿疹、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-068 (id: Jlvnlgg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20SK-032&card_id=SK-032&version=917c69a3a9)　（版 `917c69a3a9`）
 

@@ -125,7 +125,7 @@
     url: https://doi.org/10.1111/epi.12550
     source_license: ライセンス未確認（Epilepsia 誌、Wiley、CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 同定義では、年齢依存性症候群の適用年齢を過ぎた場合、または発作が 10 年間なく抗てんかん薬を 5 年以上中止している場合に、てんかんは「解消した（resolved）」とみなされる。
   curriculum:
@@ -141,6 +141,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1701 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: EP-005
   domain: EP
   subdomain: てんかん
@@ -160,7 +163,7 @@
     url: https://doi.org/10.1212/WNL.0000000000001487
     source_license: ライセンス未確認（Neurology 誌、PMC に著者原稿が収載）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 再発リスクを上げる臨床的要因として、脳の既存病変、脳波のてんかん性異常、画像の有意な異常、夜間発作が同ガイドラインで挙げられている。治療開始の判断は個別のリスクと薬剤の有害事象（7〜31% とされる）を比較して行うとされる。
   curriculum:
@@ -176,6 +179,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1706 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: EP-006
   domain: EP
   subdomain: てんかん
@@ -452,7 +458,7 @@
     url: https://doi.org/10.1111/epi.13121
     source_license: ライセンス未確認（Epilepsia 誌、Wiley、CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: t1・t2 の値は動物実験と臨床研究に基づく現時点での最良の推定値とされ、強直間代性以外の重積状態については時点が定まっていない。
   curriculum:
@@ -468,6 +474,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1709 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: EP-014
   domain: EP
   subdomain: てんかん
@@ -487,7 +496,7 @@
     url: https://doi.org/10.5698/1535-7597-16.1.48
     source_license: ライセンス未確認（Epilepsy Currents 誌、PMC に収載）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_JP（PMDA、公共データ利用規約第1.0版。要約して記載）、作り手の調査 2026-11-11）：PMDA 審議結果報告書（2018-09-05）・審査報告書（ロラピタ静注2mg、ロラゼパム）：てんかん重積状態の効能で承認（成人と生後3か月以上の小児）
   uncertainty: 国内ではジアゼパム静注が第一段階治療の中心であり、ミダゾラムは静注・口腔用液が国内承認されている。ロラゼパム静注製剤の国内の承認・供給状況は本確認では未検証である。
   curriculum:
@@ -506,6 +515,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_JP（PMDA、公共データ利用規約第1.0版。要約して記載）、作り手の調査 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1710 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: EP-015
   domain: EP
   subdomain: てんかん
@@ -1579,7 +1591,7 @@
     url: https://doi.org/10.1136/adc.53.3.193
     source_license: ライセンス未確認（Archives of Disease in Childhood 誌、CC 表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 1978年の原著論文の抄録で確認した範囲。同論文が診断法として述べる眼球圧迫による心静止の誘発検査は現在の診療では一般的でないため assertion には含めていない。ライセンスは CC 表示を確認できず UNKNOWN とした。
   curriculum:
@@ -1595,6 +1607,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/29_ns_b_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1733 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: EP-045
   domain: EP
   subdomain: 欠神発作

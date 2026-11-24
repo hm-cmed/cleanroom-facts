@@ -182,7 +182,7 @@
 - 条件：region: 日本／study: PRASFIT-ACS
 - よくある誤解：日本人でも欧米と同じ用量のプラスグレルを使う
 - 不確実性：主要心血管イベントの差は統計学的に有意ではなかった（点推定での比較）。
-- 出典：Saito S, Isshiki T, Kimura T, et al. Efficacy and safety of adjusted-dose prasugrel compared with clopidogrel in Japanese patients with acute coronary syndrome: the PRASFIT-ACS study. Circ J 2014;78:1684-1692　[DOI 10.1253/circj.CJ-13-1482](https://doi.org/10.1253/circj.CJ-13-1482)　[PMID 24759796](https://pubmed.ncbi.nlm.nih.gov/24759796/)（区分 UNKNOWN）
+- 出典：Saito S, Isshiki T, Kimura T, et al. Efficacy and safety of adjusted-dose prasugrel compared with clopidogrel in Japanese patients with acute coronary syndrome: the PRASFIT-ACS study. Circ J 2014;78:1684-1692　[DOI 10.1253/circj.CJ-13-1482](https://doi.org/10.1253/circj.CJ-13-1482)　[PMID 24759796](https://pubmed.ncbi.nlm.nih.gov/24759796/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-5-B-①（急性心筋梗塞（ST上昇型・非ST上昇型心筋梗塞）、不安定狭心症、a）　コアカリ：PS-02-06-04 (id: JkxnuQs)；TBL-01-00-163 (id: JlvnlsQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IH-016&card_id=IH-016&version=542bbac774)　（版 `542bbac774`）
 

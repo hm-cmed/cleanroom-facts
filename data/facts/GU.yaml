@@ -318,7 +318,7 @@
     url: null
     source_license: 確認できず（CC の表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 稀少疾患でありランダム化試験のエビデンスはなく、記述は症例集積と総説に基づく。この出典にはDOIが付与されておらず（2016年の当該誌掲載論文のため）、doiはnullとした。ライセンス表示も確認できていない。
   curriculum:
@@ -334,6 +334,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-728 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: GU-010
   domain: GU
   subdomain: 前立腺肥大症
@@ -1159,7 +1162,7 @@
     url: https://doi.org/10.5489/cuaj.4386
     source_license: 学会誌の著作権表示のみ（CC 条件は確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: カナダの小児泌尿器科総説（2017年）に基づく。手術時期の6〜18か月は米国小児科学会の推奨として本文で紹介されているものである。出典のライセンスは学会の著作権表示のみで CC 条件を確認できず UNKNOWN とした。
   curriculum:
@@ -1175,6 +1178,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/17_ku_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-747 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: GU-033
   domain: GU
   subdomain: 包茎

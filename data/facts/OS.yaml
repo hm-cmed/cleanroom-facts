@@ -878,7 +878,7 @@
     url: null
     source_license: American Family Physician（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 経過を炎症期・凍結期・解凍期の3期に分ける呼称は成書の慣用であり、本抄録は「疼痛期から回復期へ移行する1〜2年の経過」と記述している。無治療でも完全回復するとは限らない点も同抄録で指摘されている
   curriculum:
@@ -894,6 +894,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1871 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OS-026
   domain: OS
   subdomain: 肩関節周囲炎
@@ -948,7 +951,7 @@
     url: https://doi.org/10.1016/j.jse.2009.04.006
     source_license: Elsevier（テキストマイニング用ライセンスのみ、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 断裂部位は超音波検査による評価で、棘上筋腱の断裂が中心である。有痛弧やドロップアームなどの個別の身体所見の診断精度は本抄録には含まれていない
   curriculum:
@@ -964,6 +967,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1873 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OS-028
   domain: OS
   subdomain: 腱板断裂
@@ -1240,7 +1246,7 @@
     url: https://doi.org/10.1007/s00132-013-2226-6
     source_license: Springer（テキストマイニング用ライセンスのみ、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 骨頭が後方へすべるという方向自体は本抄録に明記されていない。両側例の頻度のパーセンテージは示されておらず、対側の予防的固定は「少なくとも中欧では標準的に行う」とされている（地域により方針が異なる）
   curriculum:
@@ -1256,6 +1262,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1879 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OS-036
   domain: OS
   subdomain: 特発性大腿骨頭壊死症
@@ -1348,7 +1357,7 @@
     url: null
     source_license: Journal of Bone and Joint Surgery（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: containment の考え方自体は本研究の治療群（装具・骨切り術など）に反映されているが、装具単独の効果は無治療群と差がなかった。lateral pillar C 群では手術・非手術とも転帰は最も不良だった
   curriculum:
@@ -1364,6 +1373,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1882 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OS-039
   domain: OS
   subdomain: 変形性膝関節症
@@ -1383,7 +1395,7 @@
     url: https://doi.org/10.1007/s00774-009-0080-8
     source_license: Springer（テキストマイニング用ライセンスのみ、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 2005年開始のコホートのベースライン調査に基づく数値。肥満などの個別の危険因子の寄与は本抄録では定量されていない
   curriculum:
@@ -1399,6 +1411,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1883 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OS-040
   domain: OS
   subdomain: 変形性膝関節症
@@ -1523,7 +1538,7 @@
     url: https://doi.org/10.1097/MOP.0000000000000842
     source_license: Wolters Kluwer（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 男児で12〜15歳にピークがあるとされてきたが、近年の女子のスポーツ参加の増加により性差はなくなってきていると同総説は述べている
   curriculum:
@@ -1539,6 +1554,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1887 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OS-044
   domain: OS
   subdomain: 半月板障害
@@ -1628,7 +1646,7 @@
     url: https://doi.org/10.3238/arztebl.2012.0857
     source_license: Deutsches Ärzteblatt International（Crossref にライセンス表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 2012年の総説であり、装具治療の個別の効果量は示されていない。手術成績は適切な術式選択で85%が良好とされている
   curriculum:
@@ -1644,6 +1662,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1890 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OS-047
   domain: OS
   subdomain: 内反足
@@ -1663,7 +1684,7 @@
     url: https://doi.org/10.1542/peds.113.2.376
     source_license: American Academy of Pediatrics（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 単施設の連続症例の検討であり、90%の患者で5回以下のギプスで矯正が得られている。アキレス腱皮下切腱の併用率などの手技の細部は本カードに含めていない
   curriculum:
@@ -1679,6 +1700,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1891 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OS-048
   domain: OS
   subdomain: 変形性足関節症
@@ -1698,7 +1722,7 @@
     url: https://doi.org/10.1007/s11999-008-0543-6
     source_license: Springer（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 単施設を受診した末期症例の内訳であり、一般住民における病因の分布とは異なる可能性がある。治療（人工足関節置換・関節固定の比較など）は本出典の対象外である
   curriculum:
@@ -1714,6 +1738,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/31_ns_d_std.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1892 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OS-049
   domain: OS
   subdomain: 膝蓋軟骨軟化症

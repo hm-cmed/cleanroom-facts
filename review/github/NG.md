@@ -43,7 +43,7 @@
 
 - 条件：criteria: Rome IV（2016）／region: 国際
 - よくある誤解：Rome IVは診断基準の一覧表だけである
-- 出典：Rome Foundation『Special issue of Gastroenterology, May 2016』（Rome IV 特集号の章構成）　[リンク](https://theromefoundation.org/?p=565)（区分 UNKNOWN）
+- 出典：Rome Foundation『Special issue of Gastroenterology, May 2016』（Rome IV 特集号の章構成）　[リンク](https://theromefoundation.org/?p=565)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-037&card_id=NG-037&version=16d09b2311)　（版 `16d09b2311`）
 
@@ -54,7 +54,7 @@
 - 条件：criteria: Rome Foundation MDCP／region: 国際
 - よくある誤解：DGBIの評価はRome基準の診断名だけで十分
 - 不確実性：抄録のみ参照。各次元の評価項目は原典で確認する
-- 出典：Iyengar P, Chang L. The multidimensional clinical profile for disorders of gut-brain interaction. 2024（Permanyer、ISSN 2462-7011）　[DOI 10.24875/NGL.23000008](https://doi.org/10.24875/NGL.23000008)（区分 UNKNOWN）
+- 出典：Iyengar P, Chang L. The multidimensional clinical profile for disorders of gut-brain interaction. 2024（Permanyer、ISSN 2462-7011）　[DOI 10.24875/NGL.23000008](https://doi.org/10.24875/NGL.23000008)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-08-05 (id: JkxnuRY)；TBL-01-00-269 (id: Jlvnl34)；TBL-01-00-257 (id: Jlvnl3Q)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NG-038&card_id=NG-038&version=5710bdda50)　（版 `5710bdda50`）
 

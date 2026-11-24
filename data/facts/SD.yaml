@@ -331,7 +331,7 @@
     url: https://doi.org/10.1684/ejd.2014.2402
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 主張は出典の抄録で確認できた範囲に限定した。悪性転化の頻度は抄録の「10%未満」という記載に基づく。
   curriculum:
@@ -347,6 +347,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1167 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SD-011
   domain: SD
   subdomain: 乾癬
@@ -649,7 +652,7 @@
     url: https://doi.org/10.1016/j.det.2014.03.007
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 主張は出典の抄録で確認できた範囲に限定し、自然軽快の割合は抄録の「15年で50%」という記載に基づく。プレドニゾン、シクロスポリン等の個別薬剤について、国内の承認・保険適用は本担当では確認しておらず未確認である。
   curriculum:
@@ -665,6 +668,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1174 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SD-020
   domain: SD
   subdomain: 色素異常症
@@ -683,7 +689,7 @@
     url: https://doi.org/10.1016/S0140-6736(14)60763-7
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 主張は出典の抄録で確認できた範囲に限定し、有病率は抄録の「約1%」という推計に基づく。個別の治療法の有効性の比較は抄録では確認できないため記載していない。
   curriculum:
@@ -699,6 +705,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1175 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SD-021
   domain: SD
   subdomain: 色素性乾皮症
@@ -785,7 +794,7 @@
     url: https://doi.org/10.1016/j.arr.2016.03.002
     source_license: © 2016 Elsevier B.V.（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 皮膚の萎縮・硬化や難治性潰瘍など個別の皮膚所見の頻度は、出典の抄録に明記されていないため本カードには含めていない。治療介入は研究段階であり、確立した治療法として記載していない。
   curriculum:
@@ -801,6 +810,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1178 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SD-024
   domain: SD
   subdomain: 多汗症、無汗症
@@ -819,7 +831,7 @@
     url: https://doi.org/10.1212/CON.0000000000000813
     source_license: CC表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 個別の治療（外用薬、イオントフォレーシス、ボツリヌス毒素局所療法など）の選択や効果の数値は出典の抄録の範囲を超えるため含めていない。汗腺そのものの疾患による発汗異常の詳細も本カードの範囲外である。
   curriculum:
@@ -835,6 +847,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1179 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SD-025
   domain: SD
   subdomain: せつ、癰
@@ -890,7 +905,7 @@
     url: https://doi.org/10.1001/jama.2016.8825
     source_license: © American Medical Association（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 原因菌が同定できる割合（約15%）と米国の発生件数は出典の抄録に記載された値である。治療の詳細は別カード（SD-027、SD-028）に分け、本カードは診断に絞った。
   curriculum:
@@ -906,6 +921,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1181 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SD-027
   domain: SD
   subdomain: 蜂巣炎<蜂窩織炎>
@@ -995,7 +1013,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/28613683/
     source_license: © 2024 StatPearls Publishing LLC
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は StatPearls の章で、DOI は付与されていない（PubMed レコードで確認）。原因菌の内訳や抗菌薬の個別薬剤・国内の承認状況は出典の抄録の範囲を超えるため含めていない。本カードは二次資料経由（StatPearls）である。
   curriculum:
@@ -1011,6 +1029,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1183 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SD-030
   domain: SD
   subdomain: 丹毒
@@ -1066,7 +1087,7 @@
     url: https://doi.org/10.1002/14651858.CD003261.pub3
     source_license: © The Cochrane Collaboration（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値は出典の抄録に記載された統合リスク比である。ムピロシンやフシジン酸など個別の外用薬の国内の承認・保険適用は未確認である。広範囲な膿痂疹で外用と経口のどちらが優れるかは出典でも結論が出ていない。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ムピロシン（バクトロバン）、フシジン酸（フシジンレオ）はいずれも伝染性膿痂疹を含む適応で承認済み。「未確認」は解消できる
   curriculum:
@@ -1085,6 +1106,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1184 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SD-032
   domain: SD
   subdomain: ブドウ球菌性熱傷様皮膚症候群
@@ -1597,7 +1621,7 @@
     url: https://doi.org/10.1067/s0190-9622(03)00896-x
     source_license: © American Academy of Dermatology（Elsevier、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値（100例）は出典の抄録で確認した対象数であり、発症頻度などの母集団に対する割合は出典にないため記載していない。治療の詳細は本カードには含めていない。
   curriculum:
@@ -1613,6 +1637,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1193 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SD-046
   domain: SD
   subdomain: 尋常性疣贅
@@ -1668,7 +1695,7 @@
     url: https://doi.org/10.1016/j.jaad.2023.12.017
     source_license: © American Academy of Dermatology（Elsevier、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本ガイドラインは米国における痤瘡の管理を対象としており、本文に名前の出る薬剤（イソトレチノイン、ドキシサイクリン、過酸化ベンゾイル、外用レチノイド等）の国内の承認・保険適用は未確認である。酒皶様皮膚炎は本ガイドラインの対象外のため、その部分は定義的な記述に限った。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】ドキシサイクリン、過酸化ベンゾイル（2015年承認）、外用レチノイド（アダパレンは2008年承認等）は痤瘡等の適応で承認済み。一方、イソトレチノインは国内未承認のままで、注記のこの部分は現行どおり
   curriculum:
@@ -1687,6 +1714,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 提案F：uncertainty の末尾に承認状況の再点検の結果を追記（主張文は変えていない。三原の承認）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1195 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SD-048
   domain: SD
   subdomain: 円形脱毛症
@@ -1705,7 +1735,7 @@
     url: https://doi.org/10.1016/j.jaad.2017.04.1141
     source_license: © American Academy of Dermatology（Elsevier、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本カードは2部構成の総説の第1部（疾患の特徴、臨床評価、病因）の抄録で確認できる範囲に基づく。個別の治療薬の有効性の評価は第2部の範囲であり、本カードには含めていない。
   curriculum:
@@ -1721,6 +1751,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1196 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SD-049
   domain: SD
   subdomain: 環状肉芽腫
@@ -1739,7 +1772,7 @@
     url: https://doi.org/10.1007/s40257-017-0334-5
     source_license: © Springer（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 自然消退までの期間（2年以内）は出典の抄録の記載に基づく。個別の治療法の有効性の比較は出典でも結論が出ておらず、本カードには含めていない。
   curriculum:
@@ -1755,6 +1788,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1197 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SD-050
   domain: SD
   subdomain: 浮腫性硬化症
@@ -1774,7 +1810,7 @@
     url: https://doi.org/10.2340/00015555-2846
     source_license: © Society for Publication of Acta Dermato-Venereologica（CC表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 自然寛解の割合（約半数）は出典の抄録の記載に基づく。個別の治療法ごとの成績は出典でも多くが不成功の報告であり、本カードには含めていない。
   curriculum:
@@ -1790,6 +1826,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/24_ds_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1198 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SD-051
   domain: SD
   subdomain: 脛骨前粘液水腫、アミロイド苔癬
@@ -1808,7 +1847,7 @@
     url: https://doi.org/10.2165/00128071-200506050-00003
     source_license: © Adis（Springer、CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は脛骨前粘液水腫の総説であり、アミロイド苔癬についての記述は出典の範囲外であるため、定義的な内容にとどめ、数値は入れていない。脛骨前粘液水腫の治療選択肢の詳細は本カードには含めていない。
   curriculum:
@@ -1827,6 +1866,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅲ-3-S-① を足した（医学各論 Ⅲ-3-R-②（脛骨前粘液水腫、c） → 医学各論 Ⅲ-3-R-②（脛骨前粘液水腫、c）；医学各論 Ⅲ-3-S-①（アミロイド苔癬、b））。三原の承認による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1199 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: SD-052
   domain: SD
   subdomain: 水疱性類天疱瘡

@@ -139,3 +139,4 @@
 - 三原の判断（2026-11-24）を反映：研究班の診療ガイドでも厚労科研データベースの添付資料で権利表記なしは GOV_JP（SRC-2641、HS-001・004）、自治体の公開資料は GOV_JP（SRC-5240・5241、ND-041 の裏づけ）。CLAUDE.md §2-2 に追記。主張文の改訂6枚（UG-001・004・014、ES-014・017、NI-007）（2026-11-24）。
 - ライセンス照合 第2回（50件）を反映：49件 RESTRICTED、SRC-142（Rome V の解説、Meditsinskiy sovet）を OPEN。カード83枚の区分を更新し、識別子を補完。第3回の依頼文 docs/tasks/request_license_check_03.md を作成（2026-11-24）。
 - ライセンス照合の残り約230件は、作り手が最新版から対象を選び、Crossref・PMC で機械的にふるい分ける形に変更（docs/tasks/request_license_screen_all.md。第3回の依頼文は使わない）。ME と臨床カードの重複、出典マスターの重複を点検し、いずれもなし（2026-11-24）。
+- ライセンス一括ふるい分け（作り手、reports/license_screen_all_muse.md）を反映：出典237件の区分を確定（RESTRICTED 235・OPEN 1〔SRC-3365 Turk J Pediatr〕・GOV_JP 1〔SRC-357 札幌市〕）、識別子77件を補完、カード237枚を更新。EN-011 の不整合も解消。未確認（UNKNOWN）のカードは14枚まで減った（添付文書11枚、SRC-3444、ES-091、UG-008）（2026-11-24）。

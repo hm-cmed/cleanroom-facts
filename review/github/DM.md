@@ -252,7 +252,7 @@
 
 - 条件：region: 米国／study: 無作為化比較試験（Diabetes Prevention Program）
 - 不確実性：数値は原著論文の抄録および本文から確認した。メトホルミンによる予防は本試験（米国）の条件での結果であり、糖尿病発症予防を目的とした国内の承認・保険適用は本調査では確認していない。
-- 出典：Knowler WC, et al.; Diabetes Prevention Program Research Group. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. N Engl J Med. 2002;346(6):393–403.　[DOI 10.1056/NEJMoa012512](https://doi.org/10.1056/NEJMoa012512)　[PMID 11832527](https://pubmed.ncbi.nlm.nih.gov/11832527/)（区分 UNKNOWN）
+- 出典：Knowler WC, et al.; Diabetes Prevention Program Research Group. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. N Engl J Med. 2002;346(6):393–403.　[DOI 10.1056/NEJMoa012512](https://doi.org/10.1056/NEJMoa012512)　[PMID 11832527](https://pubmed.ncbi.nlm.nih.gov/11832527/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-6-A-②（2型糖尿病、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-473 (id: JlvnmL8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-016&card_id=DM-016&version=286f2345c7)　（版 `286f2345c7`）
 
@@ -268,7 +268,7 @@
 
 - 条件：region: 米国／study: TODAY研究コホートの長期観察研究
 - 不確実性：数値は原著論文の抄録から確認した。米国の若年発症コホートの結果であり、日本の小児・思春期2型糖尿病の頻度や経過にそのまま当てはまるかは確認していない。糖尿病腎症の病期分類には触れていない。
-- 出典：TODAY Study Group. Long-Term Complications in Youth-Onset Type 2 Diabetes. N Engl J Med. 2021;385(5):416–426.　[DOI 10.1056/NEJMoa2100165](https://doi.org/10.1056/NEJMoa2100165)　[PMID 34320286](https://pubmed.ncbi.nlm.nih.gov/34320286/)（区分 UNKNOWN）
+- 出典：TODAY Study Group. Long-Term Complications in Youth-Onset Type 2 Diabetes. N Engl J Med. 2021;385(5):416–426.　[DOI 10.1056/NEJMoa2100165](https://doi.org/10.1056/NEJMoa2100165)　[PMID 34320286](https://pubmed.ncbi.nlm.nih.gov/34320286/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-6-A-②（2型糖尿病、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-473 (id: JlvnmL8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-017&card_id=DM-017&version=938817b063)　（版 `938817b063`）
 
@@ -580,7 +580,7 @@
 
 - 条件：region: イタリア／study: 総説
 - 不確実性：日本での頻度とHLAの記述はこの総説の記載による。アカルボースと副腎皮質ステロイドの本症候群への使用は国内では適応外使用となる可能性があり、承認・保険適用は未確認である。メチマゾール自体は甲状腺疾患の適応で国内承認されている薬剤だが、本症候群の誘因としての位置づけは総説の記載に基づく。
-- 出典：Censi S, Mian C, Betterle C. Insulin autoimmune syndrome: from diagnosis to clinical management. Annals of Translational Medicine. 2018;6(17):335.　[DOI 10.21037/atm.2018.07.32](https://doi.org/10.21037/atm.2018.07.32)　[PMID 30306074](https://pubmed.ncbi.nlm.nih.gov/30306074/)（区分 UNKNOWN）
+- 出典：Censi S, Mian C, Betterle C. Insulin autoimmune syndrome: from diagnosis to clinical management. Annals of Translational Medicine. 2018;6(17):335.　[DOI 10.21037/atm.2018.07.32](https://doi.org/10.21037/atm.2018.07.32)　[PMID 30306074](https://pubmed.ncbi.nlm.nih.gov/30306074/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-6-D-⑤（インスリン自己免疫症候群、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-474 (id: JlvnmMs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-036&card_id=DM-036&version=cfc55b6776)　（版 `cfc55b6776`）
 
@@ -596,7 +596,7 @@
 
 - 条件：region: 米国／study: 臨床レビュー（症例報告・小規模症例集積の総括）
 - 不確実性：エビデンスは症例報告と小規模な症例集積が中心で、無作為化試験はない（本文の明記による）。副腎皮質ステロイド・成長ホルモン・グルカゴンの本症候群への使用は適応外であり、国内承認・保険適用は未確認である。big IGF-IIそのものの測定は研究機関でのみ可能と本文にある。
-- 出典：Bodnar TW, Acevedo MJ, Pietropaolo M. Management of Non-Islet-Cell Tumor Hypoglycemia: A Clinical Review. The Journal of Clinical Endocrinology & Metabolism. 2014;99(3):713-722.　[DOI 10.1210/jc.2013-3382](https://doi.org/10.1210/jc.2013-3382)　[PMID 24423303](https://pubmed.ncbi.nlm.nih.gov/24423303/)（区分 UNKNOWN）
+- 出典：Bodnar TW, Acevedo MJ, Pietropaolo M. Management of Non-Islet-Cell Tumor Hypoglycemia: A Clinical Review. The Journal of Clinical Endocrinology & Metabolism. 2014;99(3):713-722.　[DOI 10.1210/jc.2013-3382](https://doi.org/10.1210/jc.2013-3382)　[PMID 24423303](https://pubmed.ncbi.nlm.nih.gov/24423303/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-6-D-⑥（膵外腫瘍、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-474 (id: JlvnmMs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DM-037&card_id=DM-037&version=8ff50c526a)　（版 `8ff50c526a`）
 

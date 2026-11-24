@@ -270,7 +270,7 @@
 
 - 条件：region: 国際／対象: 鈍的頭部外傷の患者
 - 不確実性：ブラジルの外傷センターの前向き研究（136例、頭蓋底骨折は20.6%）で、受傷後48時間までの徴候の診断性能が評価された。頻度の数値は扱っていない。（出典内の位置：抄録）
-- 出典：Solai CA, Domingues CA, Nogueira LS, de Sousa RMC. Clinical Signs of Basilar Skull Fracture and Their Predictive Value in Diagnosis of This Injury. J Trauma Nurs. 2018;25(5):301-306　[DOI 10.1097/JTN.0000000000000392](https://doi.org/10.1097/JTN.0000000000000392)　[PMID 30216260](https://pubmed.ncbi.nlm.nih.gov/30216260/)（区分 UNKNOWN）
+- 出典：Solai CA, Domingues CA, Nogueira LS, de Sousa RMC. Clinical Signs of Basilar Skull Fracture and Their Predictive Value in Diagnosis of This Injury. J Trauma Nurs. 2018;25(5):301-306　[DOI 10.1097/JTN.0000000000000392](https://doi.org/10.1097/JTN.0000000000000392)　[PMID 30216260](https://pubmed.ncbi.nlm.nih.gov/30216260/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-10-A-⑦（頭蓋骨骨折、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-061 (id: Jlvnlfg)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-023&card_id=TJ-023&version=8e95f7132c)　（版 `8e95f7132c`）
 
@@ -792,7 +792,7 @@
 
 - 条件：region: 国際／対象: 急性外側足関節捻挫の患者
 - 不確実性：前距腓靱帯が外側靱帯の中で最も損傷されやすいという点は、本ガイドラインの抄録では確認できなかったため、本票の主張には含めていない。本ガイドラインのライセンスはCrossref・Europe PMCで確認できなかった。（出典内の位置：抄録）
-- 出典：Vuurberg G, Hoorntje A, Wink LM, van der Doelen BFW, van den Bekerom MP, Dekker R, et al. Diagnosis, treatment and prevention of ankle sprains: update of an evidence-based clinical guideline. Br J Sports Med. 2018;52(15):956　[DOI 10.1136/bjsports-2017-098106](https://doi.org/10.1136/bjsports-2017-098106)　[PMID 29514819](https://pubmed.ncbi.nlm.nih.gov/29514819/)（区分 UNKNOWN）
+- 出典：Vuurberg G, Hoorntje A, Wink LM, van der Doelen BFW, van den Bekerom MP, Dekker R, et al. Diagnosis, treatment and prevention of ankle sprains: update of an evidence-based clinical guideline. Br J Sports Med. 2018;52(15):956　[DOI 10.1136/bjsports-2017-098106](https://doi.org/10.1136/bjsports-2017-098106)　[PMID 29514819](https://pubmed.ncbi.nlm.nih.gov/29514819/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-10-G-④（足関節捻挫、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-122 (id: JlvnlnQ)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-060&card_id=TJ-060&version=6571730f0c)　（版 `6571730f0c`）
 
@@ -912,7 +912,7 @@
 
 - 条件：region: 国際／対象: 長管骨骨折の患者
 - 不確実性：数値は単施設の後方視的コホート（脂肪塞栓症候群13例）によるもので、発生率は対象集団により異なる。本出典のライセンスはCrossref・Europe PMCで確認できなかった。（出典内の位置：抄録のMethods・Results）
-- 出典：Tsai IT, Hsu CJ, Chen YH, Fong YC, Hsu HC, Tsai CH. Fat embolism syndrome in long bone fracture: clinical experience in a tertiary referral center in Taiwan. J Chin Med Assoc. 2010;73(8):407-410　[DOI 10.1016/S1726-4901(10)70088-5](https://doi.org/10.1016/S1726-4901(10)70088-5)　[PMID 20728851](https://pubmed.ncbi.nlm.nih.gov/20728851/)（区分 UNKNOWN）
+- 出典：Tsai IT, Hsu CJ, Chen YH, Fong YC, Hsu HC, Tsai CH. Fat embolism syndrome in long bone fracture: clinical experience in a tertiary referral center in Taiwan. J Chin Med Assoc. 2010;73(8):407-410　[DOI 10.1016/S1726-4901(10)70088-5](https://doi.org/10.1016/S1726-4901(10)70088-5)　[PMID 20728851](https://pubmed.ncbi.nlm.nih.gov/20728851/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-10-H-①（塞栓症、a）　コアカリ：PS-02-05-05 (id: JkxnuQc)；TBL-01-00-120 (id: Jlvnlnk)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20TJ-069&card_id=TJ-069&version=9ced4a5fa6)　（版 `9ced4a5fa6`）
 

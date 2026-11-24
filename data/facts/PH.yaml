@@ -344,7 +344,7 @@
     url: https://doi.org/10.1253/circj.CJ-23-0489
     source_license: CC 表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は循環器疾患における睡眠呼吸障害のガイドラインであり、数値はその本文（診断・保険基準の節）で確認した。本カードは保険基準の事実のみを扱い、循環器疾患に特化した睡眠呼吸障害の管理は扱わない。ピトリサントは CPAP 治療中の閉塞性睡眠時無呼吸症候群に伴う日中の過度の眠気にも適応を持つが、気道閉塞そのものの治療ではない。
   curriculum:
@@ -363,6 +363,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 分野をまたぐ項目：出題基準の番号 Ⅴ-7-B-④ を足した（医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b） → 医学各論 Ⅱ-4-B-②（睡眠時無呼吸症候群、b）；医学各論 Ⅴ-7-B-④（睡眠時無呼吸症候群、a））。三原の承認による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-3745 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: PH-011
   domain: PH
   subdomain: 睡眠時無呼吸症候群

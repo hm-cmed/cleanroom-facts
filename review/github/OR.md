@@ -12,7 +12,7 @@
 
 - 条件：region: 国際／対象: 総説（口腔カンジダ症と口角炎）
 - 不確実性：出典は口角炎を中心に扱っており、舌炎そのものの病因や分類の詳細は出典の範囲外のため、舌炎については本カードでは扱っていない。
-- 出典：Sharon V, Fazel N. Oral candidiasis and angular cheilitis. Dermatol Ther. 2010;23(3):230-242.　[DOI 10.1111/j.1529-8019.2010.01320.x](https://doi.org/10.1111/j.1529-8019.2010.01320.x)　[PMID 20597942](https://pubmed.ncbi.nlm.nih.gov/20597942/)（区分 UNKNOWN）
+- 出典：Sharon V, Fazel N. Oral candidiasis and angular cheilitis. Dermatol Ther. 2010;23(3):230-242.　[DOI 10.1111/j.1529-8019.2010.01320.x](https://doi.org/10.1111/j.1529-8019.2010.01320.x)　[PMID 20597942](https://pubmed.ncbi.nlm.nih.gov/20597942/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-A-①（口角炎、舌炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-523 (id: JlvnmQ8)；TBL-01-00-525 (id: JlvnmRM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-001&card_id=OR-001&version=66e4c9c95c)　（版 `66e4c9c95c`）
 
@@ -136,7 +136,7 @@
 
 - 条件：region: 国際／対象: 国際コンセンサスによる診断基準（2014年）
 - 不確実性：感度・特異度・κ値は出典が報告する検証研究に基づく代表値であり、対象とする障害の種類によって異なる。
-- 出典：Schiffman E, Ohrbach R, Truelove E, Look J, Anderson G, Goulet JP, et al. Diagnostic Criteria for Temporomandibular Disorders (DC/TMD) for Clinical and Research Applications: recommendations of the International RDC/TMD Consortium Network and Orofacial Pain Special Interest Group. J Oral Facial Pain Headache. 2014;28(1):6-27.　[DOI 10.11607/jop.1151](https://doi.org/10.11607/jop.1151)　[PMID 24482784](https://pubmed.ncbi.nlm.nih.gov/24482784/)（区分 UNKNOWN）
+- 出典：Schiffman E, Ohrbach R, Truelove E, Look J, Anderson G, Goulet JP, et al. Diagnostic Criteria for Temporomandibular Disorders (DC/TMD) for Clinical and Research Applications: recommendations of the International RDC/TMD Consortium Network and Orofacial Pain Special Interest Group. J Oral Facial Pain Headache. 2014;28(1):6-27.　[DOI 10.11607/jop.1151](https://doi.org/10.11607/jop.1151)　[PMID 24482784](https://pubmed.ncbi.nlm.nih.gov/24482784/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-B-①（顎関節症、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-529 (id: JlvnmR8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-010&card_id=OR-010&version=2eaf3a5606)　（版 `2eaf3a5606`）
 
@@ -152,7 +152,7 @@
 
 - 条件：region: 国際／対象: 総説
 - 不確実性：顎骨腫瘍全体ではなく、代表的疾患であるエナメル上皮腫を中心に記載した。その他の顎骨腫瘍の詳細は出典の範囲外である。
-- 出典：Effiom OA, Ogundana OM, Akinshipo AO, Akintoye SO. Ameloblastoma: current etiopathological concepts and management. Oral Dis. 2018;24(3):307-316.　[DOI 10.1111/odi.12646](https://doi.org/10.1111/odi.12646)　[PMID 28142213](https://pubmed.ncbi.nlm.nih.gov/28142213/)（区分 UNKNOWN）
+- 出典：Effiom OA, Ogundana OM, Akinshipo AO, Akintoye SO. Ameloblastoma: current etiopathological concepts and management. Oral Dis. 2018;24(3):307-316.　[DOI 10.1111/odi.12646](https://doi.org/10.1111/odi.12646)　[PMID 28142213](https://pubmed.ncbi.nlm.nih.gov/28142213/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-B-②（顎骨腫瘍、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-011&card_id=OR-011&version=9d9cc33c19)　（版 `9d9cc33c19`）
 
@@ -278,7 +278,7 @@
 
 - 条件：region: 東・東南アジア中心／対象: 総説（2019年）
 - 不確実性：東・東南アジアの疫学を中心とする総説に基づく。国内では頻度が低く、疫学やスクリーニングの運用は異なる。
-- 出典：Chen YP, Chan ATC, Le QT, Blanchard P, Sun Y, Ma J. Nasopharyngeal carcinoma. Lancet. 2019;394(10192):64-80.　[DOI 10.1016/S0140-6736(19)30956-0](https://doi.org/10.1016/S0140-6736(19)30956-0)　[PMID 31178151](https://pubmed.ncbi.nlm.nih.gov/31178151/)（区分 UNKNOWN）
+- 出典：Chen YP, Chan ATC, Le QT, Blanchard P, Sun Y, Ma J. Nasopharyngeal carcinoma. Lancet. 2019;394(10192):64-80.　[DOI 10.1016/S0140-6736(19)30956-0](https://doi.org/10.1016/S0140-6736(19)30956-0)　[PMID 31178151](https://pubmed.ncbi.nlm.nih.gov/31178151/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-C-⑧（上咽頭癌、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-675 (id: JlvnmfI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-019&card_id=OR-019&version=d7e44f3285)　（版 `d7e44f3285`）
 
@@ -314,7 +314,7 @@
 
 - 条件：region: 国際／対象: 系統的レビュー（85論文、1047例）
 - 不確実性：2013年の系統的レビューであり、それ以降の術式や塞栓術の進歩は含まれない。数値は出典の抄録で確認した。
-- 出典：Boghani Z, Husain Q, Kanumuri VV, et al. Juvenile nasopharyngeal angiofibroma: a systematic review and comparison of endoscopic, endoscopic-assisted, and open resection in 1047 cases. Laryngoscope. 2013;123(4):859-869.　[DOI 10.1002/lary.23843](https://doi.org/10.1002/lary.23843)　[PMID 23483486](https://pubmed.ncbi.nlm.nih.gov/23483486/)（区分 UNKNOWN）
+- 出典：Boghani Z, Husain Q, Kanumuri VV, et al. Juvenile nasopharyngeal angiofibroma: a systematic review and comparison of endoscopic, endoscopic-assisted, and open resection in 1047 cases. Laryngoscope. 2013;123(4):859-869.　[DOI 10.1002/lary.23843](https://doi.org/10.1002/lary.23843)　[PMID 23483486](https://pubmed.ncbi.nlm.nih.gov/23483486/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-C-⑪（若年性血管線維腫、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-022&card_id=OR-022&version=9673607735)　（版 `9673607735`）
 
@@ -350,7 +350,7 @@
 
 - 条件：region: 海外／study: 総説
 - 不確実性：出典は耳下腺良性腫瘍の総説で、抄録で確認できた範囲（対象となる組織型、診断ワークアップ、管理原則の総論）にとどまる。各組織型の頻度の数値は抄録の範囲外のため含めていない。顎下腺・舌下腺・小唾液腺の良性腫瘍は出典の主対象外。
-- 出典：Zhan KY, Khaja SF, Flack AB, Day TA. Benign Parotid Tumors. Otolaryngologic Clinics of North America. 2016;49(2):327-342.　[DOI 10.1016/j.otc.2015.10.005](https://doi.org/10.1016/j.otc.2015.10.005)　[PMID 27040584](https://pubmed.ncbi.nlm.nih.gov/27040584/)（区分 UNKNOWN）
+- 出典：Zhan KY, Khaja SF, Flack AB, Day TA. Benign Parotid Tumors. Otolaryngologic Clinics of North America. 2016;49(2):327-342.　[DOI 10.1016/j.otc.2015.10.005](https://doi.org/10.1016/j.otc.2015.10.005)　[PMID 27040584](https://pubmed.ncbi.nlm.nih.gov/27040584/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-D-③（唾液腺良性腫瘍、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-026&card_id=OR-026&version=cf3d06a61a)　（版 `cf3d06a61a`）
 
@@ -360,7 +360,7 @@
 
 - 条件：region: 米国／study: 診療ガイドライン（ASCO）
 - 不確実性：米国のガイドライン本文（推奨文）で確認した範囲の記載。全身療法の個別薬剤名は含めておらず、関連薬剤の国内承認・保険適用は未確認。日本の診療体制や保険制度への適合は出典の範囲外。
-- 出典：Geiger JL, Ismaila N, Beadle B, Caudell JJ, Chau N, Deschler D, et al. Management of Salivary Gland Malignancy: ASCO Guideline. Journal of Clinical Oncology. 2021;39(17):1909-1941.　[DOI 10.1200/JCO.21.00449](https://doi.org/10.1200/JCO.21.00449)　[PMID 33900808](https://pubmed.ncbi.nlm.nih.gov/33900808/)（区分 UNKNOWN）
+- 出典：Geiger JL, Ismaila N, Beadle B, Caudell JJ, Chau N, Deschler D, et al. Management of Salivary Gland Malignancy: ASCO Guideline. Journal of Clinical Oncology. 2021;39(17):1909-1941.　[DOI 10.1200/JCO.21.00449](https://doi.org/10.1200/JCO.21.00449)　[PMID 33900808](https://pubmed.ncbi.nlm.nih.gov/33900808/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-D-④（唾液腺癌、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-027&card_id=OR-027&version=38019cfb0b)　（版 `38019cfb0b`）
 
@@ -376,7 +376,7 @@
 
 - 条件：region: 韓国／study: 後方視的症例対照研究（小児75例）
 - 不確実性：小児・韓国の単施設の検討に基づく。成人や日本の診療への外挿は未確認。使用された抗菌薬の国内承認・保険適用は未確認。
-- 出典：Kwon M, Seo JH, Cho KJ, Won SJ, et al. Suggested Protocol for Managing Acute Suppurative Cervical Lymphadenitis in Children to Reduce Unnecessary Surgical Interventions. Annals of Otology, Rhinology & Laryngology. 2016;125(12):953-958.　[DOI 10.1177/0003489416665194](https://doi.org/10.1177/0003489416665194)　[PMID 27553593](https://pubmed.ncbi.nlm.nih.gov/27553593/)（区分 UNKNOWN）
+- 出典：Kwon M, Seo JH, Cho KJ, Won SJ, et al. Suggested Protocol for Managing Acute Suppurative Cervical Lymphadenitis in Children to Reduce Unnecessary Surgical Interventions. Annals of Otology, Rhinology & Laryngology. 2016;125(12):953-958.　[DOI 10.1177/0003489416665194](https://doi.org/10.1177/0003489416665194)　[PMID 27553593](https://pubmed.ncbi.nlm.nih.gov/27553593/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-E-①（頸部リンパ節炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-530 (id: JlvnmS4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-028&card_id=OR-028&version=98c9c4e08b)　（版 `98c9c4e08b`）
 
@@ -396,7 +396,7 @@
 
 - 条件：region: インド／study: ランダム化比較試験（596例登録、500例解析）
 - 不確実性：インドの単施設の試験で、対象は側方性の早期口腔扁平上皮癌に限られる。有害事象の発生率は待機的郭清群6.6%、治療的郭清群3.6%であった（出典抄録）。
-- 出典：D'Cruz AK, Vaish R, Kapre N, Dandekar M, et al. Elective versus Therapeutic Neck Dissection in Node-Negative Oral Cancer. New England Journal of Medicine. 2015;373(6):521-529.　[DOI 10.1056/NEJMoa1506007](https://doi.org/10.1056/NEJMoa1506007)　[PMID 26027881](https://pubmed.ncbi.nlm.nih.gov/26027881/)（区分 UNKNOWN）
+- 出典：D'Cruz AK, Vaish R, Kapre N, Dandekar M, et al. Elective versus Therapeutic Neck Dissection in Node-Negative Oral Cancer. New England Journal of Medicine. 2015;373(6):521-529.　[DOI 10.1056/NEJMoa1506007](https://doi.org/10.1056/NEJMoa1506007)　[PMID 26027881](https://pubmed.ncbi.nlm.nih.gov/26027881/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-E-③（リンパ節転移、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-527 (id: JlvnmTI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-030&card_id=OR-030&version=c14bd2f615)　（版 `c14bd2f615`）
 
@@ -406,7 +406,7 @@
 
 - 条件：region: 海外／study: 総説
 - 不確実性：新生児・小児を主対象とした総説に基づく。各病変の頻度の順位は出典抄録の記載によるが、割合の数値は抄録の範囲外のため含めていない。
-- 出典：Quintanilla-Dieck L, Penn EB Jr. Congenital Neck Masses. Clinics in Perinatology. 2018;45(4):769-785.　[DOI 10.1016/j.clp.2018.07.012](https://doi.org/10.1016/j.clp.2018.07.012)　[PMID 30396417](https://pubmed.ncbi.nlm.nih.gov/30396417/)（区分 UNKNOWN）
+- 出典：Quintanilla-Dieck L, Penn EB Jr. Congenital Neck Masses. Clinics in Perinatology. 2018;45(4):769-785.　[DOI 10.1016/j.clp.2018.07.012](https://doi.org/10.1016/j.clp.2018.07.012)　[PMID 30396417](https://pubmed.ncbi.nlm.nih.gov/30396417/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-E-④（先天性頸囊胞・瘻、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-031&card_id=OR-031&version=5a03bde78c)　（版 `5a03bde78c`）
 
@@ -416,7 +416,7 @@
 
 - 条件：region: 海外／study: 総説（専門家パネル）
 - 不確実性：2010年の総説であり、その後の薬物療法（シロリムス等）の進展は含まない。本カードには薬剤名を含めていない。頸部以外の部位の病変は出典の主対象外。
-- 出典：Perkins JA, Manning SC, Tempero RM, Cunningham MJ, et al. Lymphatic malformations: review of current treatment. Otolaryngology–Head and Neck Surgery. 2010;142(6):795-803.e1.　[DOI 10.1016/j.otohns.2010.02.026](https://doi.org/10.1016/j.otohns.2010.02.026)　[PMID 20493348](https://pubmed.ncbi.nlm.nih.gov/20493348/)（区分 UNKNOWN）
+- 出典：Perkins JA, Manning SC, Tempero RM, Cunningham MJ, et al. Lymphatic malformations: review of current treatment. Otolaryngology–Head and Neck Surgery. 2010;142(6):795-803.e1.　[DOI 10.1016/j.otohns.2010.02.026](https://doi.org/10.1016/j.otohns.2010.02.026)　[PMID 20493348](https://pubmed.ncbi.nlm.nih.gov/20493348/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-10-E-⑤（リンパ管腫、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OR-032&card_id=OR-032&version=078022c1e4)　（版 `078022c1e4`）
 

@@ -430,7 +430,7 @@
 
 - 条件：region: 日本／対象: 成人
 - 不確実性：「虚血性心筋症」の定義は文献により範囲が異なり、本カードは日本の心筋症診療ガイドライン（2018年改訂版）の定義に寄せた。出典の PMID は確認できなかったため null とした。
-- 出典：日本循環器学会・日本心不全学会. 心筋症診療ガイドライン（2018年改訂版）英語版. Circ J. 2021;85(9):1590-1689　[DOI 10.1253/circj.CJ-20-0910](https://doi.org/10.1253/circj.CJ-20-0910)（区分 UNKNOWN）
+- 出典：日本循環器学会・日本心不全学会. 心筋症診療ガイドライン（2018年改訂版）英語版. Circ J. 2021;85(9):1590-1689　[DOI 10.1253/circj.CJ-20-0910](https://doi.org/10.1253/circj.CJ-20-0910)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅴ-6-C-④（虚血性心筋症、b）　コアカリ：PS-02-06-05 (id: JkxnuQw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MP-033&card_id=MP-033&version=2ff6089f86)　（版 `2ff6089f86`）
 

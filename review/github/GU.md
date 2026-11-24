@@ -126,7 +126,7 @@
 
 - 条件：region: 欧州／study: 総説（オランダの専門施設によるレビュー）
 - 不確実性：稀少疾患でありランダム化試験のエビデンスはなく、記述は症例集積と総説に基づく。この出典にはDOIが付与されておらず（2016年の当該誌掲載論文のため）、doiはnullとした。ライセンス表示も確認できていない。
-- 出典：Behrendt MA, de Jong J, van Rhijn BWG. Urachal cancer: contemporary review of the pathological, surgical, and prognostic aspects of this rare disease. Minerva Urol Nefrol. 2016;68(2):172-184　[PMID 26583595](https://pubmed.ncbi.nlm.nih.gov/26583595/)（区分 UNKNOWN）
+- 出典：Behrendt MA, de Jong J, van Rhijn BWG. Urachal cancer: contemporary review of the pathological, surgical, and prognostic aspects of this rare disease. Minerva Urol Nefrol. 2016;68(2):172-184　[PMID 26583595](https://pubmed.ncbi.nlm.nih.gov/26583595/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-6-B-②（尿膜管癌、c）　コアカリ：PS-02-09-05 (id: JkxnuRs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-009&card_id=GU-009&version=54acba7be3)　（版 `54acba7be3`）
 
@@ -442,7 +442,7 @@
 
 - 条件：region: カナダ／study: 尿道下裂の診断と外科治療に関する総説
 - 不確実性：カナダの小児泌尿器科総説（2017年）に基づく。手術時期の6〜18か月は米国小児科学会の推奨として本文で紹介されているものである。出典のライセンスは学会の著作権表示のみで CC 条件を確認できず UNKNOWN とした。
-- 出典：Keays MA, Dave S. Current hypospadias management: diagnosis, surgical management, and long-term patient-centred outcomes. Can Urol Assoc J. 2017;11(1-2Suppl1):S48-S53　[DOI 10.5489/cuaj.4386](https://doi.org/10.5489/cuaj.4386)　[PMID 28265319](https://pubmed.ncbi.nlm.nih.gov/28265319/)（区分 UNKNOWN）
+- 出典：Keays MA, Dave S. Current hypospadias management: diagnosis, surgical management, and long-term patient-centred outcomes. Can Urol Assoc J. 2017;11(1-2Suppl1):S48-S53　[DOI 10.5489/cuaj.4386](https://doi.org/10.5489/cuaj.4386)　[PMID 28265319](https://pubmed.ncbi.nlm.nih.gov/28265319/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-10-B-①（尿道下裂、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GU-032&card_id=GU-032&version=3c75d089e7)　（版 `3c75d089e7`）
 

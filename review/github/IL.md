@@ -13,7 +13,7 @@
 - 条件：region: 国際／guideline: ERS/ATS 2025 間質性肺炎分類
 - よくある誤解：急性間質性肺炎・剝離性間質性肺炎は2025年の改訂後も同じ名称で分類されている
 - 不確実性：抄録（ERS の配信ページ）で確認。本文は未確認。PMID 未確認。出題基準（令和6年版）と国内の教科書的分類は2013年分類にもとづくため、用語の切り替え時期は国内の動向を見て判断する。
-- 出典：Ryerson CJ, Adegunsoye A, Piciucchi S, et al. Update of the International Multidisciplinary Classification of the Interstitial Pneumonias: An ERS/ATS Statement. Eur Respir J 2025;2500158　[DOI 10.1183/13993003.00158-2025](https://doi.org/10.1183/13993003.00158-2025)（区分 UNKNOWN）
+- 出典：Ryerson CJ, Adegunsoye A, Piciucchi S, et al. Update of the International Multidisciplinary Classification of the Interstitial Pneumonias: An ERS/ATS Statement. Eur Respir J 2025;2500158　[DOI 10.1183/13993003.00158-2025](https://doi.org/10.1183/13993003.00158-2025)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-218 (id: JlvnlyY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-001&card_id=IL-001&version=6dceede2b2)　（版 `6dceede2b2`）
 
@@ -23,7 +23,7 @@
 
 - 条件：region: 国際／guideline: ATS/ERS 2013 IIP 分類
 - 不確実性：抄録（Weill Cornell の書誌ページ）で確認。2025年に ERS/ATS の改訂（SRC-411）が出ており、こちらは旧版。出題基準の病型名（NSIP・COP）との対応のために残す。頁は書誌ページに記載がなく、733-748 は API 照合で確認する。
-- 出典：Travis WD, Costabel U, Hansell DM, et al. An official American Thoracic Society/European Respiratory Society statement: Update of the international multidisciplinary classification of the idiopathic interstitial pneumonias. Am J Respir Crit Care Med 2013;188(6):733-748　[DOI 10.1164/rccm.201308-1483ST](https://doi.org/10.1164/rccm.201308-1483ST)　[PMID 24032382](https://pubmed.ncbi.nlm.nih.gov/24032382/)（区分 UNKNOWN）
+- 出典：Travis WD, Costabel U, Hansell DM, et al. An official American Thoracic Society/European Respiratory Society statement: Update of the international multidisciplinary classification of the idiopathic interstitial pneumonias. Am J Respir Crit Care Med 2013;188(6):733-748　[DOI 10.1164/rccm.201308-1483ST](https://doi.org/10.1164/rccm.201308-1483ST)　[PMID 24032382](https://pubmed.ncbi.nlm.nih.gov/24032382/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-A-②（非特異性間質性肺炎<NSIP>、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-218 (id: JlvnlyY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-002&card_id=IL-002&version=9c3c2f9ec6)　（版 `9c3c2f9ec6`）
 
@@ -61,7 +61,7 @@
 - 条件：population: IPF／region: 国際
 - よくある誤解：抗線維化薬は IPF の肺機能を改善させる（実際は低下の速さを抑える）
 - 不確実性：抄録（リポジトリ掲載の書誌ページまたは本文 PDF）で確認。PMID は本チャットで確認できず null（API 照合で確定する）。下痢の割合はニンテダニブ群で61.5%（INPULSIS-1）と63.2%（INPULSIS-2）、プラセボ群で18.6%と18.3%。
-- 出典：Richeldi L, du Bois RM, Raghu G, et al. Efficacy and safety of nintedanib in idiopathic pulmonary fibrosis. N Engl J Med 2014;370:2071-2082　[DOI 10.1056/NEJMoa1402584](https://doi.org/10.1056/NEJMoa1402584)（区分 UNKNOWN）
+- 出典：Richeldi L, du Bois RM, Raghu G, et al. Efficacy and safety of nintedanib in idiopathic pulmonary fibrosis. N Engl J Med 2014;370:2071-2082　[DOI 10.1056/NEJMoa1402584](https://doi.org/10.1056/NEJMoa1402584)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-A-①（特発性肺線維症<IPF>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-218 (id: JlvnlyY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-007&card_id=IL-007&version=9eaf7ca697)　（版 `9eaf7ca697`）
 
@@ -71,7 +71,7 @@
 
 - 条件：population: IPF／region: 国際
 - 不確実性：抄録（リポジトリ掲載の書誌ページまたは本文 PDF）で確認。PMID は本チャットで確認できず null（API 照合で確定する）。国内でのピルフェニドンの承認状況は添付文書で確認していない。
-- 出典：King TE Jr, Bradford WZ, Castro-Bernardini S, et al. A phase 3 trial of pirfenidone in patients with idiopathic pulmonary fibrosis. N Engl J Med 2014;370(22):2083-2092　[DOI 10.1056/NEJMoa1402582](https://doi.org/10.1056/NEJMoa1402582)（区分 UNKNOWN）
+- 出典：King TE Jr, Bradford WZ, Castro-Bernardini S, et al. A phase 3 trial of pirfenidone in patients with idiopathic pulmonary fibrosis. N Engl J Med 2014;370(22):2083-2092　[DOI 10.1056/NEJMoa1402582](https://doi.org/10.1056/NEJMoa1402582)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-A-①（特発性肺線維症<IPF>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-218 (id: JlvnlyY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-008&card_id=IL-008&version=3cfc05d49b)　（版 `3cfc05d49b`）
 
@@ -81,7 +81,7 @@
 
 - 条件：population: IPF／region: 国際
 - 不確実性：抄録（UFG のリポジトリ）で確認。PMID は検索結果の URL（Weill Cornell）で確認。下痢は18 mg 群41.3%、9 mg 群31.1%、プラセボ群16.0%。抗線維化薬の併用の有無による効果の差は抄録では確認していない。
-- 出典：Richeldi L, et al. Nerandomilast in Patients with Idiopathic Pulmonary Fibrosis. N Engl J Med 2025;392(22):2193-2202　[DOI 10.1056/NEJMoa2414108](https://doi.org/10.1056/NEJMoa2414108)　[PMID 40387033](https://pubmed.ncbi.nlm.nih.gov/40387033/)（区分 UNKNOWN）
+- 出典：Richeldi L, et al. Nerandomilast in Patients with Idiopathic Pulmonary Fibrosis. N Engl J Med 2025;392(22):2193-2202　[DOI 10.1056/NEJMoa2414108](https://doi.org/10.1056/NEJMoa2414108)　[PMID 40387033](https://pubmed.ncbi.nlm.nih.gov/40387033/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-A-①（特発性肺線維症<IPF>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-218 (id: JlvnlyY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-009&card_id=IL-009&version=1d87bffe5d)　（版 `1d87bffe5d`）
 
@@ -137,7 +137,7 @@
 
 - 条件：population: 進行性の線維化を伴う間質性肺疾患（IPF 以外）／region: 国際
 - 不確実性：抄録（リポジトリ掲載の書誌ページまたは本文 PDF）で確認。PMID は本チャットで確認できず null（API 照合で確定する）。UIP 様の画像所見をもつ群でも差は同様（-82.9 対 -211.1 mL/年）。下痢はニンテダニブ群66.9%、プラセボ群23.9%。出題基準 Ⅳ に PPF の項目はないため kokushi は null。
-- 出典：Flaherty KR, Wells AU, Cottin V, et al. Nintedanib in Progressive Fibrosing Interstitial Lung Diseases. N Engl J Med 2019;381:1718-1727　[DOI 10.1056/NEJMoa1908681](https://doi.org/10.1056/NEJMoa1908681)（区分 UNKNOWN）
+- 出典：Flaherty KR, Wells AU, Cottin V, et al. Nintedanib in Progressive Fibrosing Interstitial Lung Diseases. N Engl J Med 2019;381:1718-1727　[DOI 10.1056/NEJMoa1908681](https://doi.org/10.1056/NEJMoa1908681)（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-218 (id: JlvnlyY)；TBL-01-00-219 (id: Jlvnlyc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-012&card_id=IL-012&version=50c33b205f)　（版 `50c33b205f`）
 
@@ -154,7 +154,7 @@
 - 条件：population: 全身性強皮症に伴う間質性肺疾患／region: 国際
 - よくある誤解：ニンテダニブは強皮症の皮膚硬化も改善させる
 - 不確実性：抄録（リポジトリ掲載の書誌ページまたは本文 PDF）で確認。PMID は本チャットで確認できず null（API 照合で確定する）。多重代入による感度分析では P=0.06〜0.10 で、主解析ほど頑健ではない。下痢はニンテダニブ群75.7%、プラセボ群31.6%。
-- 出典：Distler O, Highland KB, Gahlemann M, et al. Nintedanib for Systemic Sclerosis-Associated Interstitial Lung Disease. N Engl J Med 2019;380(26):2518-2528　[DOI 10.1056/NEJMoa1903076](https://doi.org/10.1056/NEJMoa1903076)（区分 UNKNOWN）
+- 出典：Distler O, Highland KB, Gahlemann M, et al. Nintedanib for Systemic Sclerosis-Associated Interstitial Lung Disease. N Engl J Med 2019;380(26):2518-2528　[DOI 10.1056/NEJMoa1903076](https://doi.org/10.1056/NEJMoa1903076)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-3-B-②（膠原病および類縁疾患に伴う肺病変、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-219 (id: Jlvnlyc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-013&card_id=IL-013&version=c302fcb769)　（版 `c302fcb769`）
 
@@ -324,7 +324,7 @@
 - 条件：population: 米軍派遣兵士／region: 米国
 - よくある誤解：急性好酸球性肺炎は長年の重喫煙者に起こる（実際は喫煙開始直後の発症が多い）
 - 不確実性：抄録（QxMD の書誌ページ）で確認。PMID は同ページで確認、DOI・巻・頁は未確認。気管支肺胞洗浄を受けた6人の好酸球の中央値は40.5%、死亡は2人。急性好酸球性肺炎の診断基準（BAL 好酸球の閾値など）はこの出典では確認していない。
-- 出典：Shorr AF, et al. Acute eosinophilic pneumonia among US military personnel deployed in or near Iraq. JAMA 2004（12月号）　[PMID 15613668](https://pubmed.ncbi.nlm.nih.gov/15613668/)（区分 UNKNOWN）
+- 出典：Shorr AF, et al. Acute eosinophilic pneumonia among US military personnel deployed in or near Iraq. JAMA 2004（12月号）　[PMID 15613668](https://pubmed.ncbi.nlm.nih.gov/15613668/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-3-A-③（好酸球性肺炎、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-229 (id: Jlvnlzw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-026&card_id=IL-026&version=5f9fb5fe8b)　（版 `5f9fb5fe8b`）
 
@@ -414,7 +414,7 @@
 
 - 条件：region: 国際／guideline: QUANTEC 2010
 - 不確実性：抄録（ワシントン大学の書誌ページ）で確認。V20 や平均肺線量などの具体的な目安は本文で確認していないため書いていない。PMID 未確認。
-- 出典：Marks LB, Bentzen SM, Deasy JO, et al. Radiation Dose-Volume Effects in the Lung. Int J Radiat Oncol Biol Phys 2010;76(3 Suppl):S70-S76　[DOI 10.1016/j.ijrobp.2009.06.091](https://doi.org/10.1016/j.ijrobp.2009.06.091)（区分 UNKNOWN）
+- 出典：Marks LB, Bentzen SM, Deasy JO, et al. Radiation Dose-Volume Effects in the Lung. Int J Radiat Oncol Biol Phys 2010;76(3 Suppl):S70-S76　[DOI 10.1016/j.ijrobp.2009.06.091](https://doi.org/10.1016/j.ijrobp.2009.06.091)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-C-③（放射線肺炎、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-223 (id: Jlvnlys)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-032&card_id=IL-032&version=29df392462)　（版 `29df392462`）
 
@@ -478,7 +478,7 @@
 
 - 条件：region: 国際／guideline: 新国際定義 2024
 - 不確実性：ルワンダ大学のリポジトリの要約で確認（本文・抄録の全文は未確認）。DOI・PMID 未確認。資源の限られた地域での適用を想定した変更も含む。日本の ARDS 診療ガイドライン2021はベルリン定義を用いている（SRC-435）。
-- 出典：Matthay MA, Arabi Y, Arroliga AC, et al. A New Global Definition of Acute Respiratory Distress Syndrome. Am J Respir Crit Care Med 2024;209(1):37-47（区分 UNKNOWN）
+- 出典：Matthay MA, Arabi Y, Arroliga AC, et al. A New Global Definition of Acute Respiratory Distress Syndrome. Am J Respir Crit Care Med 2024;209(1):37-47（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-D-①（急性呼吸窮迫症候群<ARDS>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-236 (id: JlvnlzE)；TBL-02-06-023 (id: JlAKpiY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-038&card_id=IL-038&version=264a557f17)　（版 `264a557f17`）
 
@@ -489,7 +489,7 @@
 - 条件：population: 急性肺傷害・ARDS／region: 米国
 - よくある誤解：ARDS の一回換気量は実体重あたりで設定する（予測体重で設定する）
 - 不確実性：本文 PDF（コーネル大学のサイト）の抄録で確認。PMID は検索結果の URL（QxMD）で確認、DOI 未確認。主要評価項目は「補助呼吸なしで退院する前の死亡」。人工呼吸器を使わない日数も低換気量群で多かった。中間解析4回目で有効中止。
-- 出典：The Acute Respiratory Distress Syndrome Network. Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome. N Engl J Med 2000;342(18):1301-1308　[PMID 10793162](https://pubmed.ncbi.nlm.nih.gov/10793162/)（区分 UNKNOWN）
+- 出典：The Acute Respiratory Distress Syndrome Network. Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome. N Engl J Med 2000;342(18):1301-1308　[PMID 10793162](https://pubmed.ncbi.nlm.nih.gov/10793162/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-D-①（急性呼吸窮迫症候群<ARDS>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-236 (id: JlvnlzE)；TBL-02-06-027 (id: JlAKpio)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-039&card_id=IL-039&version=5e6559f66c)　（版 `5e6559f66c`）
 
@@ -499,7 +499,7 @@
 
 - 条件：population: 重症 ARDS／region: フランス・スペイン
 - 不確実性：本文 PDF の抄録で確認。PMID は本チャットで確認できず null（API 照合で確定する）。90日死亡率も23.6% 対 41.0%で低下。
-- 出典：Guérin C, Reignier J, Richard JC, et al（PROSEVA Study Group）. Prone positioning in severe acute respiratory distress syndrome. N Engl J Med 2013;368(23):2159-2168　[DOI 10.1056/NEJMoa1214103](https://doi.org/10.1056/NEJMoa1214103)（区分 UNKNOWN）
+- 出典：Guérin C, Reignier J, Richard JC, et al（PROSEVA Study Group）. Prone positioning in severe acute respiratory distress syndrome. N Engl J Med 2013;368(23):2159-2168　[DOI 10.1056/NEJMoa1214103](https://doi.org/10.1056/NEJMoa1214103)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-D-①（急性呼吸窮迫症候群<ARDS>、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-236 (id: JlvnlzE)；TBL-02-06-027 (id: JlAKpio)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-040&card_id=IL-040&version=c4ce5d97bd)　（版 `c4ce5d97bd`）
 
@@ -639,7 +639,7 @@
 
 - 条件：region: 国際
 - 不確実性：ライセンス表示を Crossref で確認できなかったため、source_class は UNKNOWN とした。
-- 出典：Abbott GF, Rosado-de-Christenson ML, Franks TJ, Frazier AA, Galvin JR. From the archives of the AFIP: Pulmonary Langerhans cell histiocytosis. RadioGraphics 2004;24:821-841　[DOI 10.1148/rg.243045005](https://doi.org/10.1148/rg.243045005)　[PMID 15143231](https://pubmed.ncbi.nlm.nih.gov/15143231/)（区分 UNKNOWN）
+- 出典：Abbott GF, Rosado-de-Christenson ML, Franks TJ, Frazier AA, Galvin JR. From the archives of the AFIP: Pulmonary Langerhans cell histiocytosis. RadioGraphics 2004;24:821-841　[DOI 10.1148/rg.243045005](https://doi.org/10.1148/rg.243045005)　[PMID 15143231](https://pubmed.ncbi.nlm.nih.gov/15143231/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-3-B-⑦（Langerhans細胞組織球症、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-050&card_id=IL-050&version=31caa4f342)　（版 `31caa4f342`）
 
@@ -710,7 +710,7 @@
 
 - 条件：region: 米国／study: 超硬金属工場の元労働者の調査（1983〜1985年）
 - 不確実性：ライセンス表示を Crossref で確認できなかったため source_class は UNKNOWN とした。1992年の単一工場での調査であり、現在の曝露環境への一般化には限界がある。
-- 出典：Auchincloss JH, Abraham JL, Gilbert R, Lax M, Henneberger PK, Heitzman ER, Peppi DJ. Health hazard of poorly regulated exposure during manufacture of cemented tungsten carbides and cobalt. Br J Ind Med 1992;49:832-836　[DOI 10.1136/oem.49.12.832](https://doi.org/10.1136/oem.49.12.832)　[PMID 1472440](https://pubmed.ncbi.nlm.nih.gov/1472440/)（区分 UNKNOWN）
+- 出典：Auchincloss JH, Abraham JL, Gilbert R, Lax M, Henneberger PK, Heitzman ER, Peppi DJ. Health hazard of poorly regulated exposure during manufacture of cemented tungsten carbides and cobalt. Br J Ind Med 1992;49:832-836　[DOI 10.1136/oem.49.12.832](https://doi.org/10.1136/oem.49.12.832)　[PMID 1472440](https://pubmed.ncbi.nlm.nih.gov/1472440/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-4-C-②（化学薬品、重金属などによる肺障害、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20IL-053&card_id=IL-053&version=27a5662165)　（版 `27a5662165`）
 

@@ -593,7 +593,7 @@
     url: https://doi.org/10.1253/circj.CJ-13-1482
     source_license: 未確認（Crossref に license 欄なし。J-STAGE 掲載ページにライセンスの表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 主要心血管イベントの差は統計学的に有意ではなかった（点推定での比較）。
   curriculum:
@@ -609,6 +609,9 @@
   - date: '2026-10-25'
     by: claude-code
     change: 取り込み：raw/08_cv_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-208 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: IH-017
   domain: IH
   subdomain: 急性冠症候群

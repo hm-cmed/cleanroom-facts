@@ -294,7 +294,7 @@
 
 - 条件：region: 欧州／対象: 機能性身体症状のある成人患者
 - 不確実性：出題基準の「身体的苦痛症」はICD-11のbodily distress disorderに対応する概念であり、本出典はドイツのS3ガイドラインに基づく「機能性身体症状」の枠組みで書かれており、概念の範囲は完全には一致しない。DSM-5の身体症状症とも区別される。ICD-11では心気症も身体的苦痛症の群に含まれる。身体的苦痛症を効能とする国内承認薬は確認できなかった。国内の診療ガイドラインは確認できなかった。
-- 出典：Roenneberg C, Sattel H, Schaefert R, Henningsen P, Hausteiner-Wiehle C. Functional Somatic Symptoms. Dtsch Arztebl Int. 2019;116(33-34):553-560　[DOI 10.3238/arztebl.2019.0553](https://doi.org/10.3238/arztebl.2019.0553)　[PMID 31554544](https://pubmed.ncbi.nlm.nih.gov/31554544/)（区分 UNKNOWN）
+- 出典：Roenneberg C, Sattel H, Schaefert R, Henningsen P, Hausteiner-Wiehle C. Functional Somatic Symptoms. Dtsch Arztebl Int. 2019;116(33-34):553-560　[DOI 10.3238/arztebl.2019.0553](https://doi.org/10.3238/arztebl.2019.0553)　[PMID 31554544](https://pubmed.ncbi.nlm.nih.gov/31554544/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅱ-3-E-①（身体的苦痛症<身体症状症>、b）　コアカリ：PS-02-17-05 (id: JkxnuT8)；PS-02-17-02 (id: JkxnuTw)；TBL-01-00-544 (id: JlvnmUY)；TBL-02-16-006 (id: JlAKpzI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20AX-019&card_id=AX-019&version=ca1cb16c35)　（版 `ca1cb16c35`）
 

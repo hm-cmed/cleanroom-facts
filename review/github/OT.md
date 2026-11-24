@@ -42,7 +42,7 @@
 
 - 条件：region: 米国／study: 診療ガイドライン
 - 不確実性：出典ガイドラインの推奨はびまん性外耳炎を対象としたもので、耳せつそのものを対象とした推奨ではない。耳せつ特有の治療（切開排膿の適応など）は出典の範囲外。点耳薬・抗菌薬の国内承認・保険適用の個別確認は未実施。
-- 出典：Rosenfeld RM, Schwartz SR, Cannon CR, Roland PS, Simon GR, Kumar KA, et al. Clinical practice guideline: acute otitis externa. Otolaryngology–Head and Neck Surgery. 2014;150(1 Suppl):S1-S24.　[DOI 10.1177/0194599813517083](https://doi.org/10.1177/0194599813517083)　[PMID 24491310](https://pubmed.ncbi.nlm.nih.gov/24491310/)（区分 UNKNOWN）
+- 出典：Rosenfeld RM, Schwartz SR, Cannon CR, Roland PS, Simon GR, Kumar KA, et al. Clinical practice guideline: acute otitis externa. Otolaryngology–Head and Neck Surgery. 2014;150(1 Suppl):S1-S24.　[DOI 10.1177/0194599813517083](https://doi.org/10.1177/0194599813517083)　[PMID 24491310](https://pubmed.ncbi.nlm.nih.gov/24491310/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-7-A-③（急性化膿性限局性外耳炎<耳せつ>、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-502 (id: JlvnmO8)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-004&card_id=OT-004&version=6cbba650e7)　（版 `6cbba650e7`）
 
@@ -52,7 +52,7 @@
 
 - 条件：region: 米国／study: 診療ガイドライン
 - 不確実性：出典は米国の診療ガイドラインで、日本の診療実態との差異は確認していない。
-- 出典：Schwartz SR, Magit AE, Rosenfeld RM, Ballachanda BB, Hackell JM, Krouse HJ, et al. Clinical Practice Guideline (Update): Earwax (Cerumen Impaction). Otolaryngology–Head and Neck Surgery. 2017;156(1 Suppl):S1-S29.　[DOI 10.1177/0194599816671491](https://doi.org/10.1177/0194599816671491)　[PMID 28045591](https://pubmed.ncbi.nlm.nih.gov/28045591/)（区分 UNKNOWN）
+- 出典：Schwartz SR, Magit AE, Rosenfeld RM, Ballachanda BB, Hackell JM, Krouse HJ, et al. Clinical Practice Guideline (Update): Earwax (Cerumen Impaction). Otolaryngology–Head and Neck Surgery. 2017;156(1 Suppl):S1-S29.　[DOI 10.1177/0194599816671491](https://doi.org/10.1177/0194599816671491)　[PMID 28045591](https://pubmed.ncbi.nlm.nih.gov/28045591/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-7-A-④（耳垢栓塞、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-005&card_id=OT-005&version=113d3d3736)　（版 `113d3d3736`）
 
@@ -72,7 +72,7 @@
 
 - 条件：region: 日本／study: 後方視的研究（単施設、73例）
 - 不確実性：数値は日本の単施設の後方視的検討に基づく値。化学療法の個別のレジメンは出典の範囲外で、薬剤の国内承認・保険適用は未確認。
-- 出典：Ooka T, Ariizumi Y, Asakage T, Tsutsumi T. Treatment outcomes of 73 cases of external auditory canal squamous cell carcinoma: A single-center six-year analysis in Japan. Auris Nasus Larynx. 2025;52(2):158-166.　[DOI 10.1016/j.anl.2025.02.001](https://doi.org/10.1016/j.anl.2025.02.001)　[PMID 39938395](https://pubmed.ncbi.nlm.nih.gov/39938395/)（区分 UNKNOWN）
+- 出典：Ooka T, Ariizumi Y, Asakage T, Tsutsumi T. Treatment outcomes of 73 cases of external auditory canal squamous cell carcinoma: A single-center six-year analysis in Japan. Auris Nasus Larynx. 2025;52(2):158-166.　[DOI 10.1016/j.anl.2025.02.001](https://doi.org/10.1016/j.anl.2025.02.001)　[PMID 39938395](https://pubmed.ncbi.nlm.nih.gov/39938395/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-7-A-⑤（聴器癌、外耳道癌、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-007&card_id=OT-007&version=30ec8e09b0)　（版 `30ec8e09b0`）
 
@@ -88,7 +88,7 @@
 
 - 条件：region: 海外／study: 症例集積と系統的レビュー
 - 不確実性：割合は海外の症例集積と文献レビューの統合値。ステロイドの国内承認・保険適用は未確認（鼓膜炎への適応を含む）。
-- 出典：Ungar OJ, Handzel O, Oron Y, Eta RA, Muhanna N, Warshavsky A, et al. The Actual Incidence and Types of Hearing Losses in Bullous Myringitis: Case Series and Systematic Review. Otology & Neurotology. 2021;42(7):1008-1013.　[DOI 10.1097/MAO.0000000000003160](https://doi.org/10.1097/MAO.0000000000003160)　[PMID 33883520](https://pubmed.ncbi.nlm.nih.gov/33883520/)（区分 UNKNOWN）
+- 出典：Ungar OJ, Handzel O, Oron Y, Eta RA, Muhanna N, Warshavsky A, et al. The Actual Incidence and Types of Hearing Losses in Bullous Myringitis: Case Series and Systematic Review. Otology & Neurotology. 2021;42(7):1008-1013.　[DOI 10.1097/MAO.0000000000003160](https://doi.org/10.1097/MAO.0000000000003160)　[PMID 33883520](https://pubmed.ncbi.nlm.nih.gov/33883520/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-7-B-①（鼓膜炎、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-503 (id: JlvnmPI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-008&card_id=OT-008&version=51e96ed3b5)　（版 `51e96ed3b5`）
 
@@ -204,7 +204,7 @@
 
 - 条件：region: 海外／study: 総説
 - 不確実性：有病率の具体的数値や聴力像の特徴（高音域から始まる両側性の低下など）は、本カードで確認した出典抄録の範囲に含まれないため記載していない。
-- 出典：Bowl MR, Dawson SJ. Age-Related Hearing Loss. Cold Spring Harbor Perspectives in Medicine. 2019;9(8):a033217.　[DOI 10.1101/cshperspect.a033217](https://doi.org/10.1101/cshperspect.a033217)　[PMID 30291149](https://pubmed.ncbi.nlm.nih.gov/30291149/)（区分 UNKNOWN）
+- 出典：Bowl MR, Dawson SJ. Age-Related Hearing Loss. Cold Spring Harbor Perspectives in Medicine. 2019;9(8):a033217.　[DOI 10.1101/cshperspect.a033217](https://doi.org/10.1101/cshperspect.a033217)　[PMID 30291149](https://pubmed.ncbi.nlm.nih.gov/30291149/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-8-A-③（老人性難聴、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-503 (id: JlvnmPI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-019&card_id=OT-019&version=58bd327dd4)　（版 `58bd327dd4`）
 
@@ -254,7 +254,7 @@
 
 - 条件：region: 米国／study: 総説
 - 不確実性：出典は米国の総説で、日本の新生児聴覚スクリーニング制度の実施状況や時期目標は出典の範囲外のため記載していない。
-- 出典：Lieu JEC, Kenna M, Anne S, Davidson L. Hearing Loss in Children: A Review. JAMA. 2020;324(21):2195-2205.　[DOI 10.1001/jama.2020.17647](https://doi.org/10.1001/jama.2020.17647)　[PMID 33258894](https://pubmed.ncbi.nlm.nih.gov/33258894/)（区分 UNKNOWN）
+- 出典：Lieu JEC, Kenna M, Anne S, Davidson L. Hearing Loss in Children: A Review. JAMA. 2020;324(21):2195-2205.　[DOI 10.1001/jama.2020.17647](https://doi.org/10.1001/jama.2020.17647)　[PMID 33258894](https://pubmed.ncbi.nlm.nih.gov/33258894/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-8-A-⑦（乳幼児の難聴、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-504 (id: JlvnmPM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-024&card_id=OT-024&version=44792e20fc)　（版 `44792e20fc`）
 
@@ -298,7 +298,7 @@
 
 - 条件：region: 国際／study: 総説
 - 不確実性：頻度や好発年齢などの具体的数値は、本総説の抄録では確認できなかったため含めていない。個別の検査所見の判定基準も抄録の範囲を超えるため含めていない。
-- 出典：Lin J, Staecker H. Nonorganic hearing loss. Semin Neurol. 2006;26(3):321-330.　[DOI 10.1055/s-2006-945518](https://doi.org/10.1055/s-2006-945518)　[PMID 16791778](https://pubmed.ncbi.nlm.nih.gov/16791778/)（区分 UNKNOWN）
+- 出典：Lin J, Staecker H. Nonorganic hearing loss. Semin Neurol. 2006;26(3):321-330.　[DOI 10.1055/s-2006-945518](https://doi.org/10.1055/s-2006-945518)　[PMID 16791778](https://pubmed.ncbi.nlm.nih.gov/16791778/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-8-A-⑪（機能性難聴、c）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-028&card_id=OT-028&version=d29324e899)　（版 `d29324e899`）
 
@@ -344,7 +344,7 @@
 
 - 条件：region: 国際（複数国のランダム化比較試験）／study: 系統的レビュー・メタ解析
 - 不確実性：数値はいずれも抄録に記載されたメタ解析の結果である。ステロイド製剤の国内承認・保険適用（前庭神経炎に対する適応）の状況は、本調査では個別に確認できなかったため未確認である。前庭神経炎の臨床像そのもの（持続性めまい、頭部衝撃試験など）は本資料の対象外であり含めていない。
-- 出典：Goudakos JK, Markou KD, Franco-Vidal V, Vital V, Tsaligopoulos M, Darrouzet V. Corticosteroids in the treatment of vestibular neuritis: a systematic review and meta-analysis. Otol Neurotol. 2010;31(2):183-189.　[DOI 10.1097/MAO.0b013e3181ca843d](https://doi.org/10.1097/MAO.0b013e3181ca843d)　[PMID 20009780](https://pubmed.ncbi.nlm.nih.gov/20009780/)（区分 UNKNOWN）
+- 出典：Goudakos JK, Markou KD, Franco-Vidal V, Vital V, Tsaligopoulos M, Darrouzet V. Corticosteroids in the treatment of vestibular neuritis: a systematic review and meta-analysis. Otol Neurotol. 2010;31(2):183-189.　[DOI 10.1097/MAO.0b013e3181ca843d](https://doi.org/10.1097/MAO.0b013e3181ca843d)　[PMID 20009780](https://pubmed.ncbi.nlm.nih.gov/20009780/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-8-B-③（前庭神経炎、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-508 (id: JlvnmPs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-032&card_id=OT-032&version=0bdf228485)　（版 `0bdf228485`）
 
@@ -354,7 +354,7 @@
 
 - 条件：region: 国際／study: 総説（書籍章）
 - 不確実性：ゲンタマイシンをはじめとする個別薬剤の国内承認・保険適用の状況は、本調査では個別に確認できなかったため未確認である。前庭毒性の発症頻度や、1日1回投与と複数回投与での差などの具体的数値は抄録では確認できなかったため含めていない。シスプラチン等の他の耳毒性薬物は本資料の対象外である。
-- 出典：Rutka J. Aminoglycoside Vestibulotoxicity. Adv Otorhinolaryngol. 2019;82:101-110.　[DOI 10.1159/000490277](https://doi.org/10.1159/000490277)　[PMID 30947191](https://pubmed.ncbi.nlm.nih.gov/30947191/)（区分 UNKNOWN）
+- 出典：Rutka J. Aminoglycoside Vestibulotoxicity. Adv Otorhinolaryngol. 2019;82:101-110.　[DOI 10.1159/000490277](https://doi.org/10.1159/000490277)　[PMID 30947191](https://pubmed.ncbi.nlm.nih.gov/30947191/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-8-B-④（薬剤性平衡障害、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-033&card_id=OT-033&version=d5400e312f)　（版 `d5400e312f`）
 
@@ -450,7 +450,7 @@
 
 - 条件：region: 米国／study: 総説
 - 不確実性：反回神経麻痺そのものは呼吸器側（PL-014）が正であり、本カードは耳鼻科側の評価（病歴・原因検索の進め方）に限る。喉頭内視鏡所見の詳細や喉頭筋電図の適応、原因別の割合の具体的数値は、本総説の抄録では確認できなかったため含めていない。2004年の総説であり、その後の診断技術の変化は反映されていない可能性がある。
-- 出典：Myssiorek D. Recurrent laryngeal nerve paralysis: anatomy and etiology. Otolaryngol Clin North Am. 2004;37(1):25-44.　[DOI 10.1016/S0030-6665(03)00172-5](https://doi.org/10.1016/S0030-6665(03)00172-5)　[PMID 15062685](https://pubmed.ncbi.nlm.nih.gov/15062685/)（区分 UNKNOWN）
+- 出典：Myssiorek D. Recurrent laryngeal nerve paralysis: anatomy and etiology. Otolaryngol Clin North Am. 2004;37(1):25-44.　[DOI 10.1016/S0030-6665(03)00172-5](https://doi.org/10.1016/S0030-6665(03)00172-5)　[PMID 15062685](https://pubmed.ncbi.nlm.nih.gov/15062685/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-8-C-⑦（反回神経麻痺、b）　コアカリ：PS-02-16-05 (id: JkxnuTo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-042&card_id=OT-042&version=dea3979f09)　（版 `dea3979f09`）
 
@@ -518,7 +518,7 @@
 
 - 条件：region: 全般／対象: 聴器毒性のある薬剤の投与を受ける患者
 - 不確実性：本カードに挙げた薬剤（シスプラチン、ゲンタマイシン、アミカシン、ネオマイシン、フロセミド）はいずれも国内で承認されている薬剤であり、本カードは各薬剤の適応や用法を述べたものではなく、承認された治療に伴って生じうる聴器毒性の特徴を、原因薬剤としての観点から列挙したものである。個別薬剤の効能・効果と用法・用量は各製剤の添付文書による。ループ利尿薬については、出典の記載が単独投与時の一過性の影響とアミノグリコシド併用時の障害の増強にとどまるため、その範囲で記載した。聴器毒性の頻度の見積もりは研究間で差が大きいため、本カードには数値を含めていない。
-- 出典：Schacht J, Talaska AE, Rybak LP. Cisplatin and aminoglycoside antibiotics: hearing loss and its prevention. Anat Rec (Hoboken). 2012;295(11):1837-1850　[DOI 10.1002/ar.22578](https://doi.org/10.1002/ar.22578)　[PMID 23045231](https://pubmed.ncbi.nlm.nih.gov/23045231/)（区分 UNKNOWN）
+- 出典：Schacht J, Talaska AE, Rybak LP. Cisplatin and aminoglycoside antibiotics: hearing loss and its prevention. Anat Rec (Hoboken). 2012;295(11):1837-1850　[DOI 10.1002/ar.22578](https://doi.org/10.1002/ar.22578)　[PMID 23045231](https://pubmed.ncbi.nlm.nih.gov/23045231/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-8-A-②（薬剤性難聴、a）　コアカリ：PS-02-16-05 (id: JkxnuTo)；TBL-01-00-503 (id: JlvnmPI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20OT-047&card_id=OT-047&version=685df1c16f)　（版 `685df1c16f`）
 

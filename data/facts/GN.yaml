@@ -90,7 +90,7 @@
     url: https://doi.org/10.1681/ASN.2008010092
     source_license: ライセンス表示を確認できず（CC の表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 長期予後の数値は著者らの単一コホートに基づくもので、成人の発症例や腎機能低下を伴う例では経過が異なる。出典のライセンスは未確認である。
   curriculum:
@@ -106,6 +106,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-574 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: GN-004
   domain: GN
   subdomain: 急性糸球体腎炎
@@ -423,7 +426,7 @@
     url: https://doi.org/10.1053/j.ajkd.2016.10.032
     source_license: ライセンス表示を確認できず（CC の表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 単一国の後ろ向き集積であり、小児発症例や日本の症例構成にはそのまま当てはまらない。副腎皮質ステロイドは国内承認薬だが、成人発症例に対する用量・期間の国内の標準は未確認である。出典のライセンスは未確認である。
   curriculum:
@@ -439,6 +442,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-580 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: GN-013
   domain: GN
   subdomain: 巣状分節性糸球体硬化症
@@ -648,7 +654,7 @@
     url: https://doi.org/10.1007/s10157-025-02636-5
     source_license: ライセンス表示を確認できず（出版社ページで CC の表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: リツキシマブは、頻回再発型・ステロイド依存性の小児発症ネフローゼ症候群に対して国内で承認され保険適用があることを国内の総説で確認した（承認は2014年）。個別の用法・用量は確認していない。出典のライセンスは未確認である。
   curriculum:
@@ -664,6 +670,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-586 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: GN-019
   domain: GN
   subdomain: 急性糸球体腎炎
@@ -1045,7 +1054,7 @@
     url: https://doi.org/10.1093/ndt/16.5.953
     source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典のライセンスは未確認のため、取り込み時に出版社ページで確認が必要。2001年の報告で、疾患名は現在の多発血管炎性肉芽腫症に読み替えた。
   curriculum:
@@ -1061,6 +1070,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-596 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: GN-030
   domain: GN
   subdomain: 抗糸球体基底膜病
@@ -1118,7 +1130,7 @@
     url: https://doi.org/10.1136/adc.2005.074641
     source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典のライセンスは未確認のため、取り込み時に出版社ページで確認が必要。対象は、診断時に腎炎・ネフローゼ症候群・腎不全を呈していなかった小児であり、成人や発症時に腎病変が強い例にはそのまま当てはまらない。
   curriculum:
@@ -1134,6 +1146,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-598 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: GN-032
   domain: GN
   subdomain: アミロイド腎症
@@ -1422,7 +1437,7 @@
     url: https://doi.org/10.2215/CJN.04340510
     source_license: ライセンス表示を確認できず（Crossref のレコードに license 欄なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典のライセンスは未確認のため、取り込み時に出版社ページで確認が必要。登録研究の未治療例の解析であり、酵素補充療法が普及した現在の患者集団とは背景が異なる可能性がある。
   curriculum:
@@ -1438,6 +1453,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/15_ku_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-603 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: GN-040
   domain: GN
   subdomain: Fabry病

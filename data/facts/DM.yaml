@@ -557,7 +557,7 @@
     url: https://doi.org/10.1056/NEJMoa012512
     source_license: © Massachusetts Medical Society. CCライセンス表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ23 2026-11-11）：VA/DoD Clinical Practice Guideline for the Management of Type 2 Diabetes Mellitus（2023）：糖尿病予備群への生活習慣介入とメトホルミンによる発症抑制。DPP 試験の数値は対象外
   uncertainty: 数値は原著論文の抄録および本文から確認した。メトホルミンによる予防は本試験（米国）の条件での結果であり、糖尿病発症予防を目的とした国内の承認・保険適用は本調査では確認していない。
   curriculum:
@@ -576,6 +576,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ23 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-950 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DM-017
   domain: DM
   subdomain: 思春期・小児の2型糖尿病
@@ -595,7 +598,7 @@
     url: https://doi.org/10.1056/NEJMoa2100165
     source_license: © Massachusetts Medical Society. CCライセンス表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値は原著論文の抄録から確認した。米国の若年発症コホートの結果であり、日本の小児・思春期2型糖尿病の頻度や経過にそのまま当てはまるかは確認していない。糖尿病腎症の病期分類には触れていない。
   curriculum:
@@ -611,6 +614,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-951 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DM-018
   domain: DM
   subdomain: 糖尿病と感染症
@@ -1290,7 +1296,7 @@
     url: https://doi.org/10.21037/atm.2018.07.32
     source_license: © 2018 Annals of Translational Medicine. All rights reserved.（CC ライセンス表示は確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 日本での頻度とHLAの記述はこの総説の記載による。アカルボースと副腎皮質ステロイドの本症候群への使用は国内では適応外使用となる可能性があり、承認・保険適用は未確認である。メチマゾール自体は甲状腺疾患の適応で国内承認されている薬剤だが、本症候群の誘因としての位置づけは総説の記載に基づく。
   curriculum:
@@ -1306,6 +1312,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-968 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DM-037
   domain: DM
   subdomain: 膵外腫瘍による低血糖
@@ -1325,7 +1334,7 @@
     url: https://doi.org/10.1210/jc.2013-3382
     source_license: © 2014 by The Endocrine Society（CC ライセンス表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: エビデンスは症例報告と小規模な症例集積が中心で、無作為化試験はない（本文の明記による）。副腎皮質ステロイド・成長ホルモン・グルカゴンの本症候群への使用は適応外であり、国内承認・保険適用は未確認である。big IGF-IIそのものの測定は研究機関でのみ可能と本文にある。
   curriculum:
@@ -1341,6 +1350,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/21_en_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-967 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: DM-038
   domain: DM
   subdomain: 乳糖不耐症

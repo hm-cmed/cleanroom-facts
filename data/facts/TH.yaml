@@ -17,7 +17,7 @@
     url: https://doi.org/10.1056/NEJMra1510030
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（OPEN、作り手の調査バッチ37 2026-11-11）：Hussain YS, et al. Epidemiology, management and outcomes of Graves' disease—real life data. Endocrine. 2017（CC BY、PMID 28478488、DOI 10.1007/s12020-017-1306-5、PMC5435772、新規 SRC 候補）。裏づける部分と留保：TRAb が病態を駆動すること、甲状腺中毒症の所見に TRAb 上昇・眼症・びまん性の取り込み増加が加わればバセドウ病と診断できることは一致。カードの「びまん性甲状腺腫」とは表記が異なる
   uncertainty: 出典の抄録はPubMedに収載されておらず本文は未確認のため、主張はBasedow病の診断に関する定義的な範囲に限定し、数値は用いていない。
   curriculum:
@@ -36,6 +36,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-901 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: TH-002
   domain: TH
   subdomain: Basedow病
@@ -55,7 +58,7 @@
     url: https://doi.org/10.1507/endocrj.EJ21-0238
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値は出典の抄録に記載された集計値である。チアマゾールは国内で承認・保険適用のある抗甲状腺薬として用いられているが、本作業では添付文書等による一次確認は行っていない。
   curriculum:
@@ -71,6 +74,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-904 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: TH-003
   domain: TH
   subdomain: 甲状腺機能亢進症
@@ -230,7 +236,7 @@
     url: https://doi.org/10.1016/j.beem.2019.101367
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は総説であり、主張は抄録に記載された範囲に限定した。レボチロキシンは国内で承認・保険適用のある薬剤だが、本作業では添付文書等による一次確認は行っていない。
   curriculum:
@@ -246,6 +252,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-907 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: TH-008
   domain: TH
   subdomain: 亜急性甲状腺炎
@@ -265,7 +274,7 @@
     url: https://doi.org/10.1210/jc.2002-021799
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値（発症率、疼痛の頻度、永続性甲状腺機能低下の割合）は出典の抄録に記載された米国単一地域コホートの値であり、日本の頻度を直接示すものではない。
   curriculum:
@@ -281,6 +290,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/20_en_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-908 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: TH-009
   domain: TH
   subdomain: 無痛性甲状腺炎
@@ -300,7 +312,7 @@
     url: https://doi.org/10.1056/NEJMra021194
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（OPEN、作り手の調査バッチ37 2026-11-11）：Desailloud R, Hober D. Viruses and thyroiditis: an update. Virol J. 2009（CC BY、PMID 19138419、DOI 10.1186/1743-422X-6-5、PMC2654877、新規 SRC 候補）。裏づける部分と留保：無痛性甲状腺炎が慢性甲状腺炎の亜型として自己免疫性甲状腺疾患に分類されることは一致。三相性の経過は載らない'
   uncertainty: 出典の抄録はPubMedに収載されておらず本文も未確認のため、主張は無痛性甲状腺炎の定義的な経過の範囲に限定し、数値は用いていない。
   curriculum:
@@ -319,6 +331,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（OPEN、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-909 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: TH-010
   domain: TH
   subdomain: 単純性甲状腺腫
@@ -672,7 +687,7 @@
     url: https://doi.org/10.1016/S0140-6736(11)60276-6
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: '自由に使える資料による裏づけ（GOV_US、作り手の調査バッチ37 2026-11-11）：USPSTF Final Recommendation Statement: Thyroid Dysfunction: Screening（2015、GOV_US、新規 SRC 候補）。裏づける部分と留保：定義（TSH が基準下限未満で FT4・FT3 が正常）のみ一致。軽症・重症の層別、年齢別の原因、顕性化のリスク因子は範囲外'
   uncertainty: 出典は総説であり、治療開始の具体的なTSH閾値は抄録に数値の記載がなかったため主張に含めていない。
   curriculum:
@@ -691,6 +706,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（GOV_US、作り手の調査バッチ37 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-915 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: TH-019
   domain: TH
   subdomain: 副甲状腺疾患

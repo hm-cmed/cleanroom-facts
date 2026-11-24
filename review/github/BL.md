@@ -148,7 +148,7 @@
 
 - 条件：region: 日本／対象: 輸血を受ける患者
 - 不確実性：数値は日赤公式報告で確認した。日本赤十字社は特殊法人格の公的機関であり、この年次報告を GOV_JP とするかは登録側の最終判定に委ねる。報告件数は医療機関からの任意報告ベースであり、真の発生率ではない
-- 出典：日本赤十字社. Haemovigilance by JRCS 2024（日本赤十字社公式 PDF）（区分 UNKNOWN）
+- 出典：日本赤十字社. Haemovigilance by JRCS 2024（日本赤十字社公式 PDF）（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-02-04 (id: JkxnuPY)；TBL-02-01-019 (id: JlAKpWs)；TBL-02-01-022 (id: JlAKpW4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BL-011&card_id=BL-011&version=fe1af58b12)　（版 `fe1af58b12`）
 
@@ -180,7 +180,7 @@
 
 - 条件：region: 日本／対象: 造血細胞移植を受ける患者
 - 不確実性：件数と減少の主因は報告書の序文で確認した。発行主体は一般社団法人（データセンターと学会）であり政府資料ではないため source_class は UNKNOWN とし、登録側の判定に委ねる。移植の種類・ドナー源・適応疾患の枠組みは EBMT Handbook（2024年、第8版、CC BY）で確認できる見通しだが章単位の照合は未実施のため主張に入れていない
-- 出典：日本造血細胞移植データセンター／日本造血・免疫細胞療法学会『日本における造血細胞移植/細胞治療．2025年度 全国調査報告書』（区分 UNKNOWN）
+- 出典：日本造血細胞移植データセンター／日本造血・免疫細胞療法学会『日本における造血細胞移植/細胞治療．2025年度 全国調査報告書』（区分 RESTRICTED）
 - 出題基準：－　コアカリ：PS-02-02-04 (id: JkxnuPY)；TBL-02-01-023 (id: JlAKpW8)；TBL-01-00-025 (id: Jlvnlb4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20BL-013&card_id=BL-013&version=b72fa98254)　（版 `b72fa98254`）
 

@@ -478,7 +478,7 @@
 
 - 条件：region: 国際／対象: 2歳未満の乳幼児
 - 不確実性：カナダの行政データ（2歳未満1,065例）に基づく数値であり、日本での頻度として読まないこと。嵌頓した際の用手整復の可否や絞扼時の緊急手術の判断は、国内ガイドラインの本文確認が必要なため主張に入れていない。
-- 出典：Zamakhshary M, To T, Guan J, Langer JC. Risk of incarceration of inguinal hernia among infants and young children awaiting elective surgery. CMAJ. 2008;179(10):1001-1005.　[DOI 10.1503/cmaj.070923](https://doi.org/10.1503/cmaj.070923)　[PMID 18981440](https://pubmed.ncbi.nlm.nih.gov/18981440/)（区分 UNKNOWN）
+- 出典：Zamakhshary M, To T, Guan J, Langer JC. Risk of incarceration of inguinal hernia among infants and young children awaiting elective surgery. CMAJ. 2008;179(10):1001-1005.　[DOI 10.1503/cmaj.070923](https://doi.org/10.1503/cmaj.070923)　[PMID 18981440](https://pubmed.ncbi.nlm.nih.gov/18981440/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-12-G-①（鼠径ヘルニア、a）　コアカリ：PS-02-12-04 (id: Jli53IM)；TBL-01-00-425 (id: JlvnmHI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PE-036&card_id=PE-036&version=4ba1840fde)　（版 `4ba1840fde`）
 
@@ -488,7 +488,7 @@
 
 - 条件：region: 国際／対象: 小児
 - 不確実性：対象研究は観察研究が中心である。RCT のみを対象とした別のメタ解析（Dreuning ら、2019年）では再発・合併症・対側異時性ヘルニアのいずれにも有意差が示されておらず、無症候の対側開存を全例で閉鎖すべきかは結論が出ていない。LPEC の原著シリーズ（Takehara ら、2006年、日本の3施設・972件）では再発率は0.73%で、水瘤・精巣萎縮はなかった。
-- 出典：Yamoto M, Takahashi T, Morotomi Y, Nagae I, Takehara H. Laparoscopic percutaneous extraperitoneal closure versus open repair in pediatric inguinal hernia: a systematic review and meta-analysis of comparative outcomes. Hernia. 2026;30(1):52.　[DOI 10.1007/s10029-025-03561-y](https://doi.org/10.1007/s10029-025-03561-y)　[PMID 41493600](https://pubmed.ncbi.nlm.nih.gov/41493600/)（区分 UNKNOWN）
+- 出典：Yamoto M, Takahashi T, Morotomi Y, Nagae I, Takehara H. Laparoscopic percutaneous extraperitoneal closure versus open repair in pediatric inguinal hernia: a systematic review and meta-analysis of comparative outcomes. Hernia. 2026;30(1):52.　[DOI 10.1007/s10029-025-03561-y](https://doi.org/10.1007/s10029-025-03561-y)　[PMID 41493600](https://pubmed.ncbi.nlm.nih.gov/41493600/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅵ-12-G-①（鼠径ヘルニア、a）　コアカリ：PS-02-12-04 (id: Jli53IM)；TBL-01-00-425 (id: JlvnmHI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PE-037&card_id=PE-037&version=fbfc114a27)　（版 `fbfc114a27`）
 

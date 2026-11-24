@@ -671,7 +671,7 @@
     url: https://doi.org/10.3238/arztebl.2019.0553
     source_license: CC 表示は確認できなかった
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出題基準の「身体的苦痛症」はICD-11のbodily distress disorderに対応する概念であり、本出典はドイツのS3ガイドラインに基づく「機能性身体症状」の枠組みで書かれており、概念の範囲は完全には一致しない。DSM-5の身体症状症とも区別される。ICD-11では心気症も身体的苦痛症の群に含まれる。身体的苦痛症を効能とする国内承認薬は確認できなかった。国内の診療ガイドラインは確認できなかった。
   curriculum:
@@ -687,6 +687,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/52_ps_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-3739 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: AX-020
   domain: AX
   subdomain: 適応障害

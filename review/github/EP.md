@@ -42,7 +42,7 @@
 
 - 条件：population: てんかんが疑われる患者／region: 国際
 - 不確実性：同定義では、年齢依存性症候群の適用年齢を過ぎた場合、または発作が 10 年間なく抗てんかん薬を 5 年以上中止している場合に、てんかんは「解消した（resolved）」とみなされる。
-- 出典：Fisher RS, Acevedo C, Arzimanoglou A, et al. ILAE official report: a practical clinical definition of epilepsy. Epilepsia. 2014;55(4):475-482　[DOI 10.1111/epi.12550](https://doi.org/10.1111/epi.12550)　[PMID 24730690](https://pubmed.ncbi.nlm.nih.gov/24730690/)（区分 UNKNOWN）
+- 出典：Fisher RS, Acevedo C, Arzimanoglou A, et al. ILAE official report: a practical clinical definition of epilepsy. Epilepsia. 2014;55(4):475-482　[DOI 10.1111/epi.12550](https://doi.org/10.1111/epi.12550)　[PMID 24730690](https://pubmed.ncbi.nlm.nih.gov/24730690/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-6-A-①（強直間代発作<全般運動発作>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-053 (id: Jlvnleo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-004&card_id=EP-004&version=9c387d6a8e)　（版 `9c387d6a8e`）
 
@@ -52,7 +52,7 @@
 
 - 条件：population: 初回の非誘発性発作を起こした成人／region: 国際
 - 不確実性：再発リスクを上げる臨床的要因として、脳の既存病変、脳波のてんかん性異常、画像の有意な異常、夜間発作が同ガイドラインで挙げられている。治療開始の判断は個別のリスクと薬剤の有害事象（7〜31% とされる）を比較して行うとされる。
-- 出典：Krumholz A, Wiebe S, Gronseth GS, et al. Evidence-based guideline: Management of an unprovoked first seizure in adults: Report of the Guideline Development Subcommittee of the American Academy of Neurology and the American Epilepsy Society. Neurology. 2015;84(16):1705-1713　[DOI 10.1212/WNL.0000000000001487](https://doi.org/10.1212/WNL.0000000000001487)　[PMID 25901057](https://pubmed.ncbi.nlm.nih.gov/25901057/)（区分 UNKNOWN）
+- 出典：Krumholz A, Wiebe S, Gronseth GS, et al. Evidence-based guideline: Management of an unprovoked first seizure in adults: Report of the Guideline Development Subcommittee of the American Academy of Neurology and the American Epilepsy Society. Neurology. 2015;84(16):1705-1713　[DOI 10.1212/WNL.0000000000001487](https://doi.org/10.1212/WNL.0000000000001487)　[PMID 25901057](https://pubmed.ncbi.nlm.nih.gov/25901057/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-6-A-①（強直間代発作<全般運動発作>、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-053 (id: Jlvnleo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-005&card_id=EP-005&version=86a828face)　（版 `86a828face`）
 
@@ -136,7 +136,7 @@
 
 - 条件：population: けいれん性てんかん重積状態の患者／region: 国際
 - 不確実性：t1・t2 の値は動物実験と臨床研究に基づく現時点での最良の推定値とされ、強直間代性以外の重積状態については時点が定まっていない。
-- 出典：Trinka E, Cock H, Hesdorffer D, et al. A definition and classification of status epilepticus--Report of the ILAE Task Force on Classification of Status Epilepticus. Epilepsia. 2015;56(10):1515-1523　[DOI 10.1111/epi.13121](https://doi.org/10.1111/epi.13121)　[PMID 26336950](https://pubmed.ncbi.nlm.nih.gov/26336950/)（区分 UNKNOWN）
+- 出典：Trinka E, Cock H, Hesdorffer D, et al. A definition and classification of status epilepticus--Report of the ILAE Task Force on Classification of Status Epilepticus. Epilepsia. 2015;56(10):1515-1523　[DOI 10.1111/epi.13121](https://doi.org/10.1111/epi.13121)　[PMID 26336950](https://pubmed.ncbi.nlm.nih.gov/26336950/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-6-D-①（てんかん重積状態、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-053 (id: Jlvnleo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-013&card_id=EP-013&version=e898a6abf9)　（版 `e898a6abf9`）
 
@@ -146,7 +146,7 @@
 
 - 条件：population: けいれん性てんかん重積状態の成人および小児／region: 国際
 - 不確実性：国内ではジアゼパム静注が第一段階治療の中心であり、ミダゾラムは静注・口腔用液が国内承認されている。ロラゼパム静注製剤の国内の承認・供給状況は本確認では未検証である。
-- 出典：Glauser T, Shinnar S, Gloss D, et al. Evidence-based guideline: treatment of convulsive status epilepticus in children and adults: report of the Guideline Committee of the American Epilepsy Society. Epilepsy Curr. 2016;16(1):48-61　[DOI 10.5698/1535-7597-16.1.48](https://doi.org/10.5698/1535-7597-16.1.48)　[PMID 26900382](https://pubmed.ncbi.nlm.nih.gov/26900382/)（区分 UNKNOWN）
+- 出典：Glauser T, Shinnar S, Gloss D, et al. Evidence-based guideline: treatment of convulsive status epilepticus in children and adults: report of the Guideline Committee of the American Epilepsy Society. Epilepsy Curr. 2016;16(1):48-61　[DOI 10.5698/1535-7597-16.1.48](https://doi.org/10.5698/1535-7597-16.1.48)　[PMID 26900382](https://pubmed.ncbi.nlm.nih.gov/26900382/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-6-D-①（てんかん重積状態、a）　コアカリ：PS-02-03-05 (id: JkxnuP0)；TBL-01-00-053 (id: Jlvnleo)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-014&card_id=EP-014&version=ab83eaaf64)　（版 `ab83eaaf64`）
 
@@ -290,7 +290,7 @@
 
 - 条件：population: 蒼白型の憤怒けいれんの乳幼児／region: 国際
 - 不確実性：1978年の原著論文の抄録で確認した範囲。同論文が診断法として述べる眼球圧迫による心静止の誘発検査は現在の診療では一般的でないため assertion には含めていない。ライセンスは CC 表示を確認できず UNKNOWN とした。
-- 出典：Stephenson JBP. Reflex anoxic seizures ('white breath-holding'): nonepileptic vagal attacks. Arch Dis Child. 1978;53(3):193-200　[DOI 10.1136/adc.53.3.193](https://doi.org/10.1136/adc.53.3.193)　[PMID 348123](https://pubmed.ncbi.nlm.nih.gov/348123/)（区分 UNKNOWN）
+- 出典：Stephenson JBP. Reflex anoxic seizures ('white breath-holding'): nonepileptic vagal attacks. Arch Dis Child. 1978;53(3):193-200　[DOI 10.1136/adc.53.3.193](https://doi.org/10.1136/adc.53.3.193)　[PMID 348123](https://pubmed.ncbi.nlm.nih.gov/348123/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅸ-11-C-⑤（憤怒けいれん<泣き入りひきつけ>、c）　コアカリ：PS-02-03-05 (id: JkxnuP0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EP-044&card_id=EP-044&version=1cadf1e296)　（版 `1cadf1e296`）
 

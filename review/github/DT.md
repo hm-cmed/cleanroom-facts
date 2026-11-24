@@ -124,7 +124,7 @@
 
 - 条件：region: 国際／study: 総説（病態と治療戦略のレビュー）
 - 不確実性：記載は抄録で確認した範囲である。ケロイドと肥厚性瘢痕の鑑別点（元の創の範囲を超えるかどうか等）や、ステロイド局注をはじめとする個別治療の適応・成績は抄録の範囲外であり、本カードに含めていない（薬剤名も挙げていない）。出典のライセンス表示は確認できなかった（PMC・Crossref で CC の表示なし）。
-- 出典：Gauglitz GG, Korting HC, Pavicic T, et al. Hypertrophic scarring and keloids: pathomechanisms and current and emerging treatment strategies. Mol Med. 2011;17(1-2):113-125.　[DOI 10.2119/molmed.2009.00153](https://doi.org/10.2119/molmed.2009.00153)　[PMID 20927486](https://pubmed.ncbi.nlm.nih.gov/20927486/)（区分 UNKNOWN）
+- 出典：Gauglitz GG, Korting HC, Pavicic T, et al. Hypertrophic scarring and keloids: pathomechanisms and current and emerging treatment strategies. Mol Med. 2011;17(1-2):113-125.　[DOI 10.2119/molmed.2009.00153](https://doi.org/10.2119/molmed.2009.00153)　[PMID 20927486](https://pubmed.ncbi.nlm.nih.gov/20927486/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-E-④（ケロイド、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-113 (id: JlvnlmM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-014&card_id=DT-014&version=f1af39f031)　（版 `f1af39f031`）
 
@@ -188,7 +188,7 @@
 
 - 条件：region: 国際／study: 国際コンセンサス報告（欧州・米国の専門家組織）
 - 不確実性：記載は抄録で確認した分類の提案の範囲である。Darier徴候などの臨床所見や、抗ヒスタミン薬をはじめとする治療の詳細は抄録の範囲外であり、本カードに含めていない（薬剤名も挙げていない）。出典のライセンス表示は確認できなかった。
-- 出典：Hartmann K, Escribano L, Grattan C, et al. Cutaneous manifestations in patients with mastocytosis: Consensus report of the European Competence Network on Mastocytosis; the American Academy of Allergy, Asthma & Immunology; and the European Academy of Allergology and Clinical Immunology. J Allergy Clin Immunol. 2016;137(1):35-45.　[DOI 10.1016/j.jaci.2015.08.034](https://doi.org/10.1016/j.jaci.2015.08.034)　[PMID 26476479](https://pubmed.ncbi.nlm.nih.gov/26476479/)（区分 UNKNOWN）
+- 出典：Hartmann K, Escribano L, Grattan C, et al. Cutaneous manifestations in patients with mastocytosis: Consensus report of the European Competence Network on Mastocytosis; the American Academy of Allergy, Asthma & Immunology; and the European Academy of Allergology and Clinical Immunology. J Allergy Clin Immunol. 2016;137(1):35-45.　[DOI 10.1016/j.jaci.2015.08.034](https://doi.org/10.1016/j.jaci.2015.08.034)　[PMID 26476479](https://pubmed.ncbi.nlm.nih.gov/26476479/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-E-⑧（色素性蕁麻疹、c）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-018&card_id=DT-018&version=5d2394be6c)　（版 `5d2394be6c`）
 
@@ -214,7 +214,7 @@
 
 - 条件：region: 国際／study: 第1相・第2相試験
 - 不確実性：セミプリマブの国内の承認・保険適用は未確認。数値は抄録に記載された第2相試験の転移性コホートの結果であり、追跡期間の中央値は7.9か月である。　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】セミプリマブ（リブタヨ）が2026年8月24日に「根治切除不能な進行・再発の有棘細胞癌」および「再発リスクが高い有棘細胞癌における術後補助療法」の適応追加を取得（PMDA最適使用推進ガイドライン、同日付）
-- 出典：Migden MR, Rischin D, Schmults CD, et al. PD-1 Blockade with Cemiplimab in Advanced Cutaneous Squamous-Cell Carcinoma. New England Journal of Medicine. 2018;379(4):341-351.　[DOI 10.1056/NEJMoa1805131](https://doi.org/10.1056/NEJMoa1805131)　[PMID 29863979](https://pubmed.ncbi.nlm.nih.gov/29863979/)（区分 UNKNOWN）
+- 出典：Migden MR, Rischin D, Schmults CD, et al. PD-1 Blockade with Cemiplimab in Advanced Cutaneous Squamous-Cell Carcinoma. New England Journal of Medicine. 2018;379(4):341-351.　[DOI 10.1056/NEJMoa1805131](https://doi.org/10.1056/NEJMoa1805131)　[PMID 29863979](https://pubmed.ncbi.nlm.nih.gov/29863979/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-F-①（有棘細胞癌、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-635 (id: JlvnmbU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-020&card_id=DT-020&version=287fea6afa)　（版 `287fea6afa`）
 
@@ -266,7 +266,7 @@
 
 - 条件：region: 米国・国際／study: 病期分類（AJCC第8版）
 - 不確実性：病期分類の定義は出典論文の抄録から読み取り。病期分類表の全体（N分類・M分類の詳細）は本文を確認していない。日本の取扱い規約の病期分類との対応は未確認。
-- 出典：Gershenwald JE, Scolyer RA, Hess KR, et al. Melanoma staging: Evidence-based changes in the American Joint Committee on Cancer eighth edition cancer staging manual. CA: A Cancer Journal for Clinicians. 2017;67(6):472-492.　[DOI 10.3322/caac.21409](https://doi.org/10.3322/caac.21409)　[PMID 29028110](https://pubmed.ncbi.nlm.nih.gov/29028110/)（区分 UNKNOWN）
+- 出典：Gershenwald JE, Scolyer RA, Hess KR, et al. Melanoma staging: Evidence-based changes in the American Joint Committee on Cancer eighth edition cancer staging manual. CA: A Cancer Journal for Clinicians. 2017;67(6):472-492.　[DOI 10.3322/caac.21409](https://doi.org/10.3322/caac.21409)　[PMID 29028110](https://pubmed.ncbi.nlm.nih.gov/29028110/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-F-③（悪性黒色腫、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-636 (id: Jlvnmbc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-023&card_id=DT-023&version=539538f8b0)　（版 `539538f8b0`）
 
@@ -286,7 +286,7 @@
 
 - 条件：region: 国際／study: ランダム化比較試験（MSLT-II）
 - 不確実性：数値は抄録に記載された per-protocol 解析の3年時点の結果とリンパ浮腫の頻度である。センチネルリンパ節生検そのものの適応基準（腫瘍厚の閾値）はこの試験の対象外であり、本カードでは扱っていない。
-- 出典：Faries MB, Thompson JF, Cochran AJ, et al. Completion Dissection or Observation for Sentinel-Node Metastasis in Melanoma. New England Journal of Medicine. 2017;376(23):2211-2222.　[DOI 10.1056/NEJMoa1613210](https://doi.org/10.1056/NEJMoa1613210)　[PMID 28591523](https://pubmed.ncbi.nlm.nih.gov/28591523/)（区分 UNKNOWN）
+- 出典：Faries MB, Thompson JF, Cochran AJ, et al. Completion Dissection or Observation for Sentinel-Node Metastasis in Melanoma. New England Journal of Medicine. 2017;376(23):2211-2222.　[DOI 10.1056/NEJMoa1613210](https://doi.org/10.1056/NEJMoa1613210)　[PMID 28591523](https://pubmed.ncbi.nlm.nih.gov/28591523/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-F-③（悪性黒色腫、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-636 (id: Jlvnmbc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-034&card_id=DT-034&version=3b1e1bd022)　（版 `3b1e1bd022`）
 
@@ -296,7 +296,7 @@
 
 - 条件：region: オーストラリア／study: ランダム化比較試験の追跡調査
 - 不確実性：全メラノーマに対するハザード比の95%信頼区間は1.02までを含み、統計学的な境界上の結果である。対象はオーストラリアの成人であり、日本人での効果を直接示すものではない。
-- 出典：Green AC, Williams GM, Logan V, Strutton GM. Reduced Melanoma after Regular Sunscreen Use: Randomized Trial Follow-up. Journal of Clinical Oncology. 2011;29(3):257-263.　[DOI 10.1200/JCO.2010.28.7078](https://doi.org/10.1200/JCO.2010.28.7078)　[PMID 21135266](https://pubmed.ncbi.nlm.nih.gov/21135266/)（区分 UNKNOWN）
+- 出典：Green AC, Williams GM, Logan V, Strutton GM. Reduced Melanoma after Regular Sunscreen Use: Randomized Trial Follow-up. Journal of Clinical Oncology. 2011;29(3):257-263.　[DOI 10.1200/JCO.2010.28.7078](https://doi.org/10.1200/JCO.2010.28.7078)　[PMID 21135266](https://pubmed.ncbi.nlm.nih.gov/21135266/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-F-③（悪性黒色腫、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-636 (id: Jlvnmbc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-035&card_id=DT-035&version=887f0f1b92)　（版 `887f0f1b92`）
 
@@ -312,7 +312,7 @@
 
 - 条件：region: 日本／study: 全国調査（登録データの集計）
 - 不確実性：1987〜2001年の登録データに基づく2008年の報告であり、現在の全国がん登録に基づく最新の頻度は未確認。施設登録ベースの集計で、人口ベースの罹患率ではない。
-- 出典：Ishihara K, Saida T, Otsuka F, Yamazaki N; Prognosis and Statistical Investigation Committee of the Japanese Skin Cancer Society. Statistical profiles of malignant melanoma and other skin cancers in Japan: 2007 update. International Journal of Clinical Oncology. 2008;13(1):33-41.　[DOI 10.1007/s10147-007-0751-1](https://doi.org/10.1007/s10147-007-0751-1)　[PMID 18307017](https://pubmed.ncbi.nlm.nih.gov/18307017/)（区分 UNKNOWN）
+- 出典：Ishihara K, Saida T, Otsuka F, Yamazaki N; Prognosis and Statistical Investigation Committee of the Japanese Skin Cancer Society. Statistical profiles of malignant melanoma and other skin cancers in Japan: 2007 update. International Journal of Clinical Oncology. 2008;13(1):33-41.　[DOI 10.1007/s10147-007-0751-1](https://doi.org/10.1007/s10147-007-0751-1)　[PMID 18307017](https://pubmed.ncbi.nlm.nih.gov/18307017/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-F-③（悪性黒色腫、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-636 (id: Jlvnmbc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-025&card_id=DT-025&version=665a4a3b5d)　（版 `665a4a3b5d`）
 
@@ -434,7 +434,7 @@
 
 - 条件：region: 国際／study: メタ解析
 - 不確実性：2008年のメタ解析であり、外れ値の研究を除くと相対診断オッズ比は9.0（95%信頼区間 1.5〜54.6）であった。デジタルダーモスコピーや人工知能支援診断の精度は含まれていない。
-- 出典：Vestergaard ME, Macaskill P, Holt PE, Menzies SW. Dermoscopy compared with naked eye examination for the diagnosis of primary melanoma: a meta-analysis of studies performed in a clinical setting. British Journal of Dermatology. 2008;159(3):669-676.　[DOI 10.1111/j.1365-2133.2008.08713.x](https://doi.org/10.1111/j.1365-2133.2008.08713.x)　[PMID 18616769](https://pubmed.ncbi.nlm.nih.gov/18616769/)（区分 UNKNOWN）
+- 出典：Vestergaard ME, Macaskill P, Holt PE, Menzies SW. Dermoscopy compared with naked eye examination for the diagnosis of primary melanoma: a meta-analysis of studies performed in a clinical setting. British Journal of Dermatology. 2008;159(3):669-676.　[DOI 10.1111/j.1365-2133.2008.08713.x](https://doi.org/10.1111/j.1365-2133.2008.08713.x)　[PMID 18616769](https://pubmed.ncbi.nlm.nih.gov/18616769/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-F-①（有棘細胞癌、a）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-02-03-011 (id: JlAKpa0)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-032&card_id=DT-032&version=235c571b5b)　（版 `235c571b5b`）
 
@@ -450,7 +450,7 @@
 
 - 条件：region: 米国／study: 総説
 - 不確実性：2004年の総説であり、1980〜2004年の文献に基づく。日本の患者で多い末端黒子型など病型ごとの見分け方は扱っていない。
-- 出典：Abbasi NR, Shaw HM, Rigel DS, et al. Early Diagnosis of Cutaneous Melanoma: Revisiting the ABCD Criteria. JAMA. 2004;292(22):2771-2776.　[DOI 10.1001/jama.292.22.2771](https://doi.org/10.1001/jama.292.22.2771)　[PMID 15585738](https://pubmed.ncbi.nlm.nih.gov/15585738/)（区分 UNKNOWN）
+- 出典：Abbasi NR, Shaw HM, Rigel DS, et al. Early Diagnosis of Cutaneous Melanoma: Revisiting the ABCD Criteria. JAMA. 2004;292(22):2771-2776.　[DOI 10.1001/jama.292.22.2771](https://doi.org/10.1001/jama.292.22.2771)　[PMID 15585738](https://pubmed.ncbi.nlm.nih.gov/15585738/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-A-①（脂腺母斑、表皮母斑、色素性母斑、太田母斑、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-636 (id: Jlvnmbc)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-036&card_id=DT-036&version=010c4fadd1)　（版 `010c4fadd1`）
 
@@ -466,7 +466,7 @@
 
 - 条件：region: 海外（総説）／study: 表皮母斑と関連症候群の総説（第1部：角化細胞性母斑）
 - 不確実性：元のカードにあった「脂腺母斑は器官様母斑に含まれる」という位置づけは、同総説の第2部（付属器由来の母斑）の範囲であり、本カードの出典（第1部）の抄録では確認できなかったため含めていない。薬剤名は含まない。
-- 出典：Garcias-Ladaria J, Cuadrado Rosón M, Pascual-López M. Epidermal Nevi and Related Syndromes - Part 1: Keratinocytic Nevi. Actas Dermosifiliogr. 2018;109(8):677-686.　[DOI 10.1016/j.ad.2018.05.005](https://doi.org/10.1016/j.ad.2018.05.005)　[PMID 29983155](https://pubmed.ncbi.nlm.nih.gov/29983155/)（区分 UNKNOWN）
+- 出典：Garcias-Ladaria J, Cuadrado Rosón M, Pascual-López M. Epidermal Nevi and Related Syndromes - Part 1: Keratinocytic Nevi. Actas Dermosifiliogr. 2018;109(8):677-686.　[DOI 10.1016/j.ad.2018.05.005](https://doi.org/10.1016/j.ad.2018.05.005)　[PMID 29983155](https://pubmed.ncbi.nlm.nih.gov/29983155/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-A-①（脂腺母斑、表皮母斑、色素性母斑、太田母斑、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)；TBL-01-00-105 (id: JlvnllE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-037&card_id=DT-037&version=9ba87b4800)　（版 `9ba87b4800`）
 
@@ -498,7 +498,7 @@
 
 - 条件：region: 海外（症例集積研究）／study: Kasabach-Merritt症候群22例の臨床・止血データと生検組織（15例）の検討（原著論文）
 - 不確実性：血小板数の最低値が3,000/mm3であったことは抄録から読み取り。元のカードにあった微小血管症性溶血性貧血は、本出典の抄録で明示されなかったため含めていない。治療の各論（個別の治療法の選択）は本出典の範囲外のため含めておらず、薬剤名は記載していない。
-- 出典：Enjolras O, Wassef M, Mazoyer E, Frieden IJ, Rieu PN, Drouet L, Taïeb A, Stalder JF, Escande JP. Infants with Kasabach-Merritt syndrome do not have "true" hemangiomas. J Pediatr. 1997;130(4):631-640.　[DOI 10.1016/S0022-3476(97)70249-X](https://doi.org/10.1016/S0022-3476(97)70249-X)　[PMID 9108863](https://pubmed.ncbi.nlm.nih.gov/9108863/)（区分 UNKNOWN）
+- 出典：Enjolras O, Wassef M, Mazoyer E, Frieden IJ, Rieu PN, Drouet L, Taïeb A, Stalder JF, Escande JP. Infants with Kasabach-Merritt syndrome do not have "true" hemangiomas. J Pediatr. 1997;130(4):631-640.　[DOI 10.1016/S0022-3476(97)70249-X](https://doi.org/10.1016/S0022-3476(97)70249-X)　[PMID 9108863](https://pubmed.ncbi.nlm.nih.gov/9108863/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-C-①（Kasabach-Merritt症候群、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-039&card_id=DT-039&version=2a4000f353)　（版 `2a4000f353`）
 
@@ -514,7 +514,7 @@
 
 - 条件：region: 国際（ISSVA 分類勧告）／study: 脈管異常の分類に関する勧告論文
 - 不確実性：大嚢胞型・小嚢胞型・混合型の細分類は、ISSVA 公式分類の表（2025年版フロー図）から読み取り。元のカードにあった深部型・表在型という分け方と、嚢胞性リンパ管腫と染色体異常（トリソミーなど）との関連は、本出典の抄録の範囲では確認できなかったため含めていない。薬剤名は含まない。
-- 出典：Wassef M, Blei F, Adams D, Alomari A, Baselga E, Berenstein A, Burrows P, Frieden IJ, Garzon MC, et al. Vascular Anomalies Classification: Recommendations From the International Society for the Study of Vascular Anomalies. Pediatrics. 2015;136(1):e203-e214.　[DOI 10.1542/peds.2014-3673](https://doi.org/10.1542/peds.2014-3673)　[PMID 26055853](https://pubmed.ncbi.nlm.nih.gov/26055853/)（区分 UNKNOWN）
+- 出典：Wassef M, Blei F, Adams D, Alomari A, Baselga E, Berenstein A, Burrows P, Frieden IJ, Garzon MC, et al. Vascular Anomalies Classification: Recommendations From the International Society for the Study of Vascular Anomalies. Pediatrics. 2015;136(1):e203-e214.　[DOI 10.1542/peds.2014-3673](https://doi.org/10.1542/peds.2014-3673)　[PMID 26055853](https://pubmed.ncbi.nlm.nih.gov/26055853/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅲ-2-D（リンパ管腫、b）　コアカリ：PS-02-04-05 (id: JkxnuQI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20DT-040&card_id=DT-040&version=f1a583ffa4)　（版 `f1a583ffa4`）
 

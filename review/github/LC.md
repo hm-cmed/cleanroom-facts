@@ -13,7 +13,7 @@
 - 条件：region: 日本
 - よくある誤解：女性のがん死亡で最も多いのは乳癌である
 - 不確実性：表から読み取り。部位の区分は結腸と直腸を分けた集計で、大腸（結腸と直腸の合計）として集計すると女性の順位は変わりうる。罹患数・5年生存率の表は抽出できず未作成
-- 出典：公益財団法人がん研究振興財団. Cancer Statistics in Japan 2025（2025年5月掲載）Table 1 Number of deaths by cancer site (2023)　[リンク](https://ganjoho.jp/public/qa_links/report/statistics/pdf/cancer_statistics_2025_data_E.pdf)（区分 UNKNOWN）
+- 出典：公益財団法人がん研究振興財団. Cancer Statistics in Japan 2025（2025年5月掲載）Table 1 Number of deaths by cancer site (2023)　[リンク](https://ganjoho.jp/public/qa_links/report/statistics/pdf/cancer_statistics_2025_data_E.pdf)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-643 (id: JlvnmcI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-001&card_id=LC-001&version=b7bd889e00)　（版 `b7bd889e00`）
 
@@ -163,7 +163,7 @@
 - 条件：region: 国際（多施設共同試験）
 - よくある誤解：EGFR 変異陽性肺癌の初回治療では、どの EGFR チロシンキナーゼ阻害薬を選んでも全生存期間は変わらない
 - 不確実性：ハザード比は抄録で0.799（95.05% CI 0.641〜0.997）、本文では上限が0.996と記載が異なる。無増悪生存期間の主解析（Soria 2018）は別の文献で未取得。オシメルチニブの国内承認・保険適用は未確認　【承認状況の再点検 2026-10-31（作り手、PMDA・厚生労働省などの公的情報）】オシメルチニブ（タグリッソ）は2016年3月28日に承認され、2016年5月25日に薬価収載・発売。その後、一次治療・術後補助療法等へ適応拡大済み
-- 出典：Ramalingam SS, Vansteenkiste J, Planchard D, et al. Overall Survival with Osimertinib in Untreated, EGFR-Mutated Advanced NSCLC. N Engl J Med 2020;382:41-50　[DOI 10.1056/NEJMoa1913662](https://doi.org/10.1056/NEJMoa1913662)（区分 UNKNOWN）
+- 出典：Ramalingam SS, Vansteenkiste J, Planchard D, et al. Overall Survival with Osimertinib in Untreated, EGFR-Mutated Advanced NSCLC. N Engl J Med 2020;382:41-50　[DOI 10.1056/NEJMoa1913662](https://doi.org/10.1056/NEJMoa1913662)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-04 (id: JkxnuRA)；TBL-01-00-643 (id: JlvnmcI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-015&card_id=LC-015&version=6e862d3205)　（版 `6e862d3205`）
 
@@ -306,7 +306,7 @@
 - 鑑別・補足：デュルバルマブとトレメリムマブの併用群（200人）も設けられていた
 - よくある誤解：限局型小細胞肺癌では、化学放射線療法の後に維持療法を行っても生存は延びない
 - 不確実性：PMID は未照合。国内ではデュルバルマブの効能に「限局型小細胞肺癌における根治的化学放射線療法後の維持療法」が含まれている（PMDA 審査報告書、2025年8月）
-- 出典：Cheng Y, Spigel DR, Cho BC, et al. Durvalumab after Chemoradiotherapy in Limited-Stage Small-Cell Lung Cancer. N Engl J Med 2024（ADRIATIC）　[DOI 10.1056/NEJMoa2404873](https://doi.org/10.1056/NEJMoa2404873)（区分 UNKNOWN）
+- 出典：Cheng Y, Spigel DR, Cho BC, et al. Durvalumab after Chemoradiotherapy in Limited-Stage Small-Cell Lung Cancer. N Engl J Med 2024（ADRIATIC）　[DOI 10.1056/NEJMoa2404873](https://doi.org/10.1056/NEJMoa2404873)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-6-A-①（肺癌、a）　コアカリ：PS-02-07-04 (id: JkxnuRA)；TBL-01-00-643 (id: JlvnmcI)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20LC-054&card_id=LC-054&version=139f338f12)　（版 `139f338f12`）
 

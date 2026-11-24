@@ -170,7 +170,7 @@
 
 - 条件：region: 日本／対象: 極低出生体重児
 - 不確実性：定義と病型分類は1998年の原資料に基づく。厚生労働科学研究班が2023年に新たな病型分類案を作成しており、診断時期は日齢28もしくは修正36週で従来どおりとされるが、本カードの分類は改訂案の本文での再照合が必要である。出典のライセンス表示は未確認のため UNKNOWN とした
-- 出典：Ogawa Y. Chronic lung disease of the very low birth weight infant--is it preventable? Turk J Pediatr. 1998;40(1):35-44　[PMID 9673527](https://pubmed.ncbi.nlm.nih.gov/9673527/)（区分 UNKNOWN）
+- 出典：Ogawa Y. Chronic lung disease of the very low birth weight infant--is it preventable? Turk J Pediatr. 1998;40(1):35-44　[PMID 9673527](https://pubmed.ncbi.nlm.nih.gov/9673527/)（区分 OPEN）
 - 出題基準：医学各論 Ⅰ-3-D-⑤（新生児慢性肺疾患、c）　コアカリ：PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-012&card_id=NB-012&version=b446566102)　（版 `b446566102`）
 
@@ -206,7 +206,7 @@
 
 - 条件：region: 日本／対象: 早産児
 - 不確実性：基準値の数値表そのものは出典の本文で未照合のため主張に入れていない。日本には単一の全国統一基準はなく施設ごとに異なる基準が使われており、正期産児向けの国内基準（村田・井村基準など）の数値表も原典で未照合である
-- 出典：Morioka I. Hyperbilirubinemia in preterm infants in Japan: New treatment criteria. Pediatr Int. 2018;60(8):684-690　[DOI 10.1111/ped.13635](https://doi.org/10.1111/ped.13635)　[PMID 29906300](https://pubmed.ncbi.nlm.nih.gov/29906300/)（区分 UNKNOWN）
+- 出典：Morioka I. Hyperbilirubinemia in preterm infants in Japan: New treatment criteria. Pediatr Int. 2018;60(8):684-690　[DOI 10.1111/ped.13635](https://doi.org/10.1111/ped.13635)　[PMID 29906300](https://pubmed.ncbi.nlm.nih.gov/29906300/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-3-E-①（高ビリルビン血症、a）　コアカリ：PS-02-12-01 (id: Jli53Ic)；PS-02-12-03 (id: Jli53IQ)；TBL-01-00-444 (id: JlvnmJY)；TBL-02-11-014 (id: Jli6JnA)；PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-015&card_id=NB-015&version=2716b2e0d5)　（版 `2716b2e0d5`）
 
@@ -222,7 +222,7 @@
 
 - 条件：region: 国際／対象: 同種免疫性溶血性疾患の新生児
 - 不確実性：AAPの2022年版ガイドラインでも、IVIGの交換輸血回避効果は不明確で壊死性腸炎による有害の可能性が示されたとして、使用を制限する方向に変わっている（同ガイドラインの技術報告書の評価）。IVIGの新生児溶血性疾患への国内承認・保険適用は未確認。新生児側の治療に絞り、胎児側の評価・治療は第48回 FT、母体の感作予防は第46回 PG が正である
-- 出典：Zwiers C, Scheffer-Rath ME, Lopriore E, de Haas M, Liley HG. Immunoglobulin for alloimmune hemolytic disease in neonates. Cochrane Database Syst Rev. 2018;(3):CD003313　[DOI 10.1002/14651858.CD003313.pub2](https://doi.org/10.1002/14651858.CD003313.pub2)　[PMID 29551014](https://pubmed.ncbi.nlm.nih.gov/29551014/)（区分 UNKNOWN）
+- 出典：Zwiers C, Scheffer-Rath ME, Lopriore E, de Haas M, Liley HG. Immunoglobulin for alloimmune hemolytic disease in neonates. Cochrane Database Syst Rev. 2018;(3):CD003313　[DOI 10.1002/14651858.CD003313.pub2](https://doi.org/10.1002/14651858.CD003313.pub2)　[PMID 29551014](https://pubmed.ncbi.nlm.nih.gov/29551014/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-3-E-②（新生児溶血性疾患、b）　コアカリ：PS-02-12-03 (id: Jli53IQ)；TBL-02-11-014 (id: Jli6JnA)；PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-016&card_id=NB-016&version=70927c6c2a)　（版 `70927c6c2a`）
 
@@ -238,7 +238,7 @@
 
 - 条件：region: 米国／対象: 後期早産児、正期産児
 - 不確実性：本カードは一過性の低血糖の初期対応を扱う。低血糖が持続・反復する場合の評価と管理は、Pediatric Endocrine Society の推奨（既存 SRC-1033）の対象範囲であり、分けて扱う。持続性高インスリン血症に使うジアゾキシドの国内承認状況は未確認であり、主張には含めていない
-- 出典：Committee on Fetus and Newborn, Adamkin DH. Postnatal glucose homeostasis in late-preterm and term infants. Pediatrics. 2011;127(3):575-579　[DOI 10.1542/peds.2010-3851](https://doi.org/10.1542/peds.2010-3851)　[PMID 21357346](https://pubmed.ncbi.nlm.nih.gov/21357346/)（区分 UNKNOWN）
+- 出典：Committee on Fetus and Newborn, Adamkin DH. Postnatal glucose homeostasis in late-preterm and term infants. Pediatrics. 2011;127(3):575-579　[DOI 10.1542/peds.2010-3851](https://doi.org/10.1542/peds.2010-3851)　[PMID 21357346](https://pubmed.ncbi.nlm.nih.gov/21357346/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-3-F-①（低血糖、低カルシウム血症、b）　コアカリ：PS-02-12-01 (id: Jli53Ic)；TBL-02-11-003 (id: Jli6Jl8)；PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-017&card_id=NB-017&version=f4650a3744)　（版 `f4650a3744`）
 
@@ -264,7 +264,7 @@
 
 - 条件：region: 米国／対象: 在胎35週以上の新生児
 - 不確実性：分娩時抗菌薬予防とスクリーニングの実施体制は国により異なり、本カードは米国の枠組みである。在胎34週以下の児については別の報告（同じく2018年）で枠組みが分けられている。経験的抗菌薬の個別の国内承認・用量の照合は行っていない（抗菌薬の使い方の総論はⅫが正）
-- 出典：Puopolo KM, Benitz WE, Zaoutis TE; Committee on Fetus and Newborn; Committee on Infectious Diseases. Management of Neonates Born at ≥35 0/7 Weeks' Gestation With Suspected or Proven Early-Onset Bacterial Sepsis. Pediatrics. 2018;142(6):e20182894　[DOI 10.1542/peds.2018-2894](https://doi.org/10.1542/peds.2018-2894)　[PMID 30455342](https://pubmed.ncbi.nlm.nih.gov/30455342/)（区分 UNKNOWN）
+- 出典：Puopolo KM, Benitz WE, Zaoutis TE; Committee on Fetus and Newborn; Committee on Infectious Diseases. Management of Neonates Born at ≥35 0/7 Weeks' Gestation With Suspected or Proven Early-Onset Bacterial Sepsis. Pediatrics. 2018;142(6):e20182894　[DOI 10.1542/peds.2018-2894](https://doi.org/10.1542/peds.2018-2894)　[PMID 30455342](https://pubmed.ncbi.nlm.nih.gov/30455342/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-3-G-①（敗血症、髄膜炎、a）　コアカリ：PS-02-12-01 (id: Jli53Ic)；TBL-01-00-451 (id: Juyv510)；TBL-02-11-001 (id: Jli6Jl0)；PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-019&card_id=NB-019&version=ef5a8905f2)　（版 `ef5a8905f2`）
 
@@ -274,7 +274,7 @@
 
 - 条件：region: 米国／対象: 新生児、若年乳児
 - 不確実性：GBSは生後90日未満の乳児の細菌性髄膜炎の最も多い原因でもあるが、新生児髄膜炎に特化したカードは本回では作っていない（候補は申し送り参照）。母体のスクリーニングと分娩時対応の周産期管理は第47回 PG（Ⅰ-1-D-①）と重複させない。日本のGBSスクリーニングの時期は産科編2026のパブリックコメント原案で36〜37週への変更が示されているが、刊行版では未照合である
-- 出典：Puopolo KM, Lynfield R, Cummings JJ; Committee on Fetus and Newborn; Committee on Infectious Diseases. Management of Infants at Risk for Group B Streptococcal Disease. Pediatrics. 2019;144(2):e20191881　[DOI 10.1542/peds.2019-1881](https://doi.org/10.1542/peds.2019-1881)　[PMID 31285392](https://pubmed.ncbi.nlm.nih.gov/31285392/)（区分 UNKNOWN）
+- 出典：Puopolo KM, Lynfield R, Cummings JJ; Committee on Fetus and Newborn; Committee on Infectious Diseases. Management of Infants at Risk for Group B Streptococcal Disease. Pediatrics. 2019;144(2):e20191881　[DOI 10.1542/peds.2019-1881](https://doi.org/10.1542/peds.2019-1881)　[PMID 31285392](https://pubmed.ncbi.nlm.nih.gov/31285392/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-3-G-①（敗血症、髄膜炎、a）　コアカリ：PS-02-12-01 (id: Jli53Ic)；TBL-01-00-451 (id: Juyv510)；TBL-02-11-001 (id: Jli6Jl0)；PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-020&card_id=NB-020&version=2333f87160)　（版 `2333f87160`）
 
@@ -300,7 +300,7 @@
 
 - 条件：region: 米国／対象: 新生児
 - 不確実性：推奨用量の具体的な文言は出典の本文で未照合のため主張に入れていない。日本の予防は経口投与の3か月法であり、そのカードは第41回 PB-003 が作成済みである（本カードは米国の枠組み）
-- 出典：Hand I, Noble L, Abrams SA; Committee on Fetus and Newborn; Section on Breastfeeding. Vitamin K and the Newborn Infant. Pediatrics. 2022;149(3):e2021056036　[DOI 10.1542/peds.2021-056036](https://doi.org/10.1542/peds.2021-056036)　[PMID 35190810](https://pubmed.ncbi.nlm.nih.gov/35190810/)（区分 UNKNOWN）
+- 出典：Hand I, Noble L, Abrams SA; Committee on Fetus and Newborn; Section on Breastfeeding. Vitamin K and the Newborn Infant. Pediatrics. 2022;149(3):e2021056036　[DOI 10.1542/peds.2021-056036](https://doi.org/10.1542/peds.2021-056036)　[PMID 35190810](https://pubmed.ncbi.nlm.nih.gov/35190810/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-3-H-①（ビタミンK欠乏症、a）　コアカリ：PS-02-12-03 (id: Jli53IQ)；TBL-01-00-396 (id: JlvnmE0)；PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-022&card_id=NB-022&version=e2d3de284c)　（版 `e2d3de284c`）
 
@@ -316,7 +316,7 @@
 
 - 条件：region: 国際／対象: 早産児
 - 不確実性：重症度分類（Papile分類）の各グレードの定義文は原典（Papile 1978）の本文で未照合のため主張に入れていない。正期産児の頭蓋内出血（分娩外傷に伴う硬膜下出血など）は本カードの範囲外であり、分娩外傷の項目（NB-030）と分けた
-- 出典：Ballabh P. Intraventricular hemorrhage in premature infants: mechanism of disease. Pediatr Res. 2010;67(1):1-8　[DOI 10.1203/PDR.0b013e3181c1b176](https://doi.org/10.1203/PDR.0b013e3181c1b176)　[PMID 19816235](https://pubmed.ncbi.nlm.nih.gov/19816235/)（区分 UNKNOWN）
+- 出典：Ballabh P. Intraventricular hemorrhage in premature infants: mechanism of disease. Pediatr Res. 2010;67(1):1-8　[DOI 10.1203/PDR.0b013e3181c1b176](https://doi.org/10.1203/PDR.0b013e3181c1b176)　[PMID 19816235](https://pubmed.ncbi.nlm.nih.gov/19816235/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-3-H-②（頭蓋内出血、b）　コアカリ：PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-023&card_id=NB-023&version=af3f08737b)　（版 `af3f08737b`）
 
@@ -332,7 +332,7 @@
 
 - 条件：region: 国際／対象: 新生児
 - 不確実性：帽状腱膜下腔にたまりうる出血量の具体的な数値や、観察間隔の推奨は、出典の抄録の範囲では確認できていない。骨縫合を超える波動性の頭部腫脹による臨床診断という記載は症例集積（Lee 2018）の抄録に基づくもので、本カードの主張には入れていない
-- 出典：Colditz MJ, Lai MM, Cartwright DW, Colditz PB. Subgaleal haemorrhage in the newborn: A call for early diagnosis and aggressive management. J Paediatr Child Health. 2015;51(2):140-146　[DOI 10.1111/jpc.12698](https://doi.org/10.1111/jpc.12698)　[PMID 25109786](https://pubmed.ncbi.nlm.nih.gov/25109786/)（区分 UNKNOWN）
+- 出典：Colditz MJ, Lai MM, Cartwright DW, Colditz PB. Subgaleal haemorrhage in the newborn: A call for early diagnosis and aggressive management. J Paediatr Child Health. 2015;51(2):140-146　[DOI 10.1111/jpc.12698](https://doi.org/10.1111/jpc.12698)　[PMID 25109786](https://pubmed.ncbi.nlm.nih.gov/25109786/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-3-H-③（帽状腱膜下出血、b）　コアカリ：PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-024&card_id=NB-024&version=7cb812a2b3)　（版 `7cb812a2b3`）
 
@@ -444,7 +444,7 @@
 
 - 条件：region: 国際／対象: 新生児
 - 不確実性：現在使われている修正Bell分類（WalshとKliegmanによる修正を含む）の各病期の定義表そのものは本文で未照合のため、各病期の定義は主張に入れていない。壊死性腸炎の疫学（極低出生体重児における発生率など）の数値は、照合済みの出典では確認できていない
-- 出典：Bell MJ, Ternberg JL, Feigin RD, et al. Neonatal necrotizing enterocolitis. Therapeutic decisions based upon clinical staging. Ann Surg. 1978;187(1):1-7　[DOI 10.1097/00000658-197801000-00001](https://doi.org/10.1097/00000658-197801000-00001)　[PMID 413500](https://pubmed.ncbi.nlm.nih.gov/413500/)（区分 UNKNOWN）
+- 出典：Bell MJ, Ternberg JL, Feigin RD, et al. Neonatal necrotizing enterocolitis. Therapeutic decisions based upon clinical staging. Ann Surg. 1978;187(1):1-7　[DOI 10.1097/00000658-197801000-00001](https://doi.org/10.1097/00000658-197801000-00001)　[PMID 413500](https://pubmed.ncbi.nlm.nih.gov/413500/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅰ-3-H-⑩（壊死性腸炎、c）；医学各論 Ⅵ-12-C-②（新生児壊死性腸炎、b）　コアカリ：PS-02-12-04 (id: Jli53IM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20NB-031&card_id=NB-031&version=441c601a2b)　（版 `441c601a2b`）
 

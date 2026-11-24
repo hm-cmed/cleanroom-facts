@@ -366,7 +366,7 @@
 
 - 条件：region: 国際（42か国・43集団）／study: 人口ベースがん登録データを用いた罹患率の国際比較研究
 - 不確実性：本論文のライセンス表示は確認できなかったため source_class は UNKNOWN とした。肥満などの危険因子に関する定量データは本論文では確認していないため、主張には含めていない。
-- 出典：Lortet-Tieulent J, Ferlay J, Bray F, Jemal A. International patterns and trends in endometrial cancer incidence, 1978–2013. J Natl Cancer Inst. 2018;110(4):354-361.　[DOI 10.1093/jnci/djx214](https://doi.org/10.1093/jnci/djx214)　[PMID 29045681](https://pubmed.ncbi.nlm.nih.gov/29045681/)（区分 UNKNOWN）
+- 出典：Lortet-Tieulent J, Ferlay J, Bray F, Jemal A. International patterns and trends in endometrial cancer incidence, 1978–2013. J Natl Cancer Inst. 2018;110(4):354-361.　[DOI 10.1093/jnci/djx214](https://doi.org/10.1093/jnci/djx214)　[PMID 29045681](https://pubmed.ncbi.nlm.nih.gov/29045681/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-7-C-②（子宮体癌<子宮内膜癌>、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)；TBL-01-00-661 (id: Jlvnmd4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GY-024&card_id=GY-024&version=7116b99a31)　（版 `7116b99a31`）
 
@@ -634,7 +634,7 @@
 
 - 条件：region: カナダ／study: 臨床レビュー（Five things to know about、2018年）
 - 不確実性：頻度2.7%はレビューが引用した文献に基づく数値であり、二次資料経由の値として扱うこと。出典のライセンス表示は未確認（取り込み時に出版社ページで確認が必要）。国内のガイドラインとの整合は未確認。
-- 出典：Papillon-Smith J, Sobel M. Adnexal torsion. CMAJ. 2018;190(25):E769　[DOI 10.1503/cmaj.180020](https://doi.org/10.1503/cmaj.180020)　[PMID 29941434](https://pubmed.ncbi.nlm.nih.gov/29941434/)（区分 UNKNOWN）
+- 出典：Papillon-Smith J, Sobel M. Adnexal torsion. CMAJ. 2018;190(25):E769　[DOI 10.1503/cmaj.180020](https://doi.org/10.1503/cmaj.180020)　[PMID 29941434](https://pubmed.ncbi.nlm.nih.gov/29941434/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅷ-7-D-③（茎捻転、a）　コアカリ：PS-02-10-05 (id: JkxnuSA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20GY-043&card_id=GY-043&version=e6e7a663cc)　（版 `e6e7a663cc`）
 

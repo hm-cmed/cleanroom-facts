@@ -208,7 +208,7 @@
 
 - 条件：guideline: 予防接種法にもとづく定期接種／region: 日本
 - 不確実性：札幌市保健所のページで確認した。変更の根拠となる厚生労働省の通知・告示は未確認で、確認が要る
-- 出典：札幌市保健所. 高齢者肺炎球菌予防接種（定期接種）について（2026年4月1日更新）　[リンク](https://www.city.sapporo.jp/hokenjo/f1kansen/koureihaienn.html)（区分 UNKNOWN）
+- 出典：札幌市保健所. 高齢者肺炎球菌予防接種（定期接種）について（2026年4月1日更新）　[リンク](https://www.city.sapporo.jp/hokenjo/f1kansen/koureihaienn.html)（区分 GOV_JP）
 - 出題基準：医学各論 Ⅳ-1-B-①（市中肺炎、a）；医学各論 Ⅻ-2-B-③（肺炎球菌感染症、a）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-617 (id: JlvnmZs)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-028&card_id=RI-028&version=d0423a8530)　（版 `d0423a8530`）
 
@@ -663,7 +663,7 @@
 
 - 条件：study: 1985年の症例シリーズ（8例）と総説／region: 国際
 - 不確実性：1985年の報告であり、現在の国内の標準治療・承認状況は確認していない。出典のライセンスも未確認のため、取り込み時に確認が必要。
-- 出典：Johnson RJ, Jong EC, Dunning SB, Carberry WL, Minshew BH. Paragonimiasis: diagnosis and the use of praziquantel in treatment. Rev Infect Dis. 1985;7(2):200-206　[DOI 10.1093/clinids/7.2.200](https://doi.org/10.1093/clinids/7.2.200)　[PMID 4001715](https://pubmed.ncbi.nlm.nih.gov/4001715/)（区分 UNKNOWN）
+- 出典：Johnson RJ, Jong EC, Dunning SB, Carberry WL, Minshew BH. Paragonimiasis: diagnosis and the use of praziquantel in treatment. Rev Infect Dis. 1985;7(2):200-206　[DOI 10.1093/clinids/7.2.200](https://doi.org/10.1093/clinids/7.2.200)　[PMID 4001715](https://pubmed.ncbi.nlm.nih.gov/4001715/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-1-F-①（吸虫症、線虫症、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-054&card_id=RI-054&version=a03e8c0bbd)　（版 `a03e8c0bbd`）
 
@@ -678,7 +678,7 @@
 > 下行性壊死性縦隔炎は、口腔咽頭の感染が深頸部の間隙を下行して縦隔へ広がる重篤な縦隔炎で、死亡率は約20%とされる。治療は集中治療下での抗菌薬投与と頸部の感染源の除去が前提で、縦隔の進展範囲に応じた適切な外科的ドレナージが基盤となり、外科・麻酔科・耳鼻咽喉科・歯科口腔外科などによる集学的治療を要する。
 
 - 不確実性：単一施設の実践を含む総説であり、死亡率約20%はその総説の記載に基づく。出典のライセンスは未確認のため、取り込み時に確認が必要。
-- 出典：Šafránek J. Descending necrotizing mediastinitis – a surgical view. Rozhledy v chirurgii. 2024;103(12):502-504　[DOI 10.48095/ccrvch2024502](https://doi.org/10.48095/ccrvch2024502)　[PMID 40221899](https://pubmed.ncbi.nlm.nih.gov/40221899/)（区分 UNKNOWN）
+- 出典：Šafránek J. Descending necrotizing mediastinitis – a surgical view. Rozhledy v chirurgii. 2024;103(12):502-504　[DOI 10.48095/ccrvch2024502](https://doi.org/10.48095/ccrvch2024502)　[PMID 40221899](https://pubmed.ncbi.nlm.nih.gov/40221899/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-1-G-③（縦隔炎、c）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-244 (id: Jlvnl1o)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20RI-055&card_id=RI-055&version=6cb70b68eb)　（版 `6cb70b68eb`）
 

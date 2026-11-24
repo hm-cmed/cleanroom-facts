@@ -1220,7 +1220,7 @@
     url: https://doi.org/10.1253/circj.CJ-20-0910
     source_license: 未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 「虚血性心筋症」の定義は文献により範囲が異なり、本カードは日本の心筋症診療ガイドライン（2018年改訂版）の定義に寄せた。出典の PMID は確認できなかったため null とした。
   curriculum:
@@ -1236,6 +1236,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/60_supp_c.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-4383 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: MP-034
   domain: MP
   subdomain: 虚血性心筋症

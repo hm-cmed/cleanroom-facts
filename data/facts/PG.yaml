@@ -297,7 +297,7 @@
     url: https://doi.org/10.14390/jsshp.HRP2018-014
     source_license: J-STAGE 掲載（CC表示の登録なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 2018年の日本の新定義・分類（日本妊娠高血圧学会の声明）の全文で確認した。子癇は2018年の改定で大分類から外された。国内の診療指針は『妊娠高血圧症候群の診療指針 2021』が現行で、第4版が準備中とされる。ライセンス表示を確認できなかったため source_class は UNKNOWN とした
   curriculum:
@@ -313,6 +313,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/46_pn_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-3165 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: PG-010
   domain: PG
   subdomain: 妊娠高血圧症候群、子癇、HELLP症候群、加重型妊娠高血圧腎症
@@ -402,7 +405,7 @@
     url: https://doi.org/10.1002/14651858.CD004454.pub4
     source_license: Europe PMC に CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: コクランレビュー（27試験、女性11,272例・新生児11,925例）の抄録で数値を確認した。出典のライセンス表示を確認できなかったため source_class は UNKNOWN とした。出生前ステロイドの国内承認：ベタメタゾン（リンデロン注）は「早産が予期される場合における、母体投与による胎児肺成熟を介した新生児呼吸窮迫症候群の発症抑制」の効能・効果で2009年11月に国内承認されており、保険適用がある（厚生労働省の適正使用協力依頼通知で確認）
   curriculum:
@@ -421,6 +424,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 出典の著者名を訂正（Roberts D ら → McGoldrick E ら）。DOI 10.1002/14651858.CD004454.pub4（2020年版）の著者は PMC の書誌（PMC8094626）で McGoldrick ら。Roberts ら は2017年版（pub3）の著者。作り手（第48回）の申し送りによる
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-3168 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: PG-013
   domain: PG
   subdomain: 早産、切迫早産
@@ -510,7 +516,7 @@
     url: https://doi.org/10.1016/j.ajog.2022.06.059
     source_license: Europe PMC に CC 表示なし
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 常位胎盤早期剝離に特化した診療ガイドラインは国際的にも存在せず、本カードは近正期〜正期を扱った総説に基づく。危険因子の関連の強さや再発率の数値は出典の全文での照合が未了のため主張に入れていない。出典のライセンス表示を確認できなかったため source_class は UNKNOWN とした
   curriculum:
@@ -526,6 +532,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/46_pn_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-3171 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: PG-016
   domain: PG
   subdomain: 常位胎盤早期剝離
@@ -1219,7 +1228,7 @@
     url: https://doi.org/10.2337/dc26-S015
     source_license: © American Diabetes Association（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: ADA 2026 §15 の抄録で確認した範囲。日本の管理目標は PG-034（産科編2026 の系統）が正で、目標値の細部は地域で異なる。メトホルミンは海外では妊娠中の選択肢とされるが、国内では2022年12月に妊婦禁忌が削除されたものの産科診療ではインスリンが基本である
   curriculum:
@@ -1235,6 +1244,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-3252 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: PG-036
   domain: PG
   subdomain: 妊娠貧血、鉄欠乏性貧血
@@ -1327,7 +1339,7 @@
     url: https://doi.org/10.1177/10507256261445624
     source_license: CC表示未確認
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: 自由に使える資料による裏づけ（作り手の調査バッチ18 2026-11-11）：ATA 2026／RCOG 2025 解説論文（Case Rep Womens Health 2026、CC BY、新規 SRC 提案）。裏づける部分：三半期別 TSH 目標の不使用、基準範囲が得られない場合の診断閾値4.0、治療目標0.5〜2.5、TSH 10超は治療適応、第1三半期はプロピルチオウラシル第一選択、レボチロキシン20〜30%増量の全変更点。解説論文であり本文の逐語確認の代替にはならない
   uncertainty: 2026年版の変更点は解説論文・ガイドライン要約で確認した範囲で、本文の逐語確認は未了。レボチロキシン・プロピルチオウラシル・チアマゾールはいずれも国内承認薬で、レボチロキシンは国内承認・保険適用がある。日本の産科診療での扱いは PG-039 を参照
   curriculum:
@@ -1346,6 +1358,9 @@
   - date: '2026-11-11'
     by: claude-code
     change: corroboration に自由に使える資料による裏づけを追記した（作り手の調査バッチ18 2026-11-11）。三原の承認（2026-11-11）による
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-3255 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: PG-039
   domain: PG
   subdomain: 甲状腺機能異常合併妊娠(亢進症・低下症)
@@ -1400,7 +1415,7 @@
     url: https://doi.org/10.1182/bloodadvances.2019000812
     source_license: © American Society of Hematology（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 国際コンセンサス報告（2019）の妊娠の章の本文で確認した。血小板数の目安は国際値であり、日本の産科診療ガイドライン発行版の記載との照合は未了。副腎皮質ステロイドと免疫グロブリン大量療法はいずれも国内承認・保険適用があり、ITP への免疫グロブリン大量療法は保険適用がある。TPO 受容体作動薬は妊娠中は原則として推奨されない。ITP の疾患本体は第Ⅶ章 HS が正
   curriculum:
@@ -1416,6 +1431,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-3256 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: PG-041
   domain: PG
   subdomain: 膠原病と類縁疾患
@@ -1546,7 +1564,7 @@
     url: https://doi.org/10.1016/j.ajog.2023.12.023
     source_license: CC表示なし（Elsevier）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: SMFM の2024年指針の抄録で確認した（2026年に corrigendum あり）。テノフォビルは国内承認薬だが、母子感染予防目的での保険適用は未確認。日本での新生児への B型肝炎ワクチン・HBIG の実施（保険診療による母子感染予防）は第34回 HV-013・014 で作成済みの範囲であり、本カードは母体管理側に絞った
   curriculum:
@@ -1562,6 +1580,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-3259 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: PG-045
   domain: PG
   subdomain: HBV、HCV、HIV、HTLV-Ⅰ、パルボウイルスB19(伝染性紅斑)、B群連鎖球菌、TORCH症候群
@@ -1581,7 +1602,7 @@
     url: https://doi.org/10.1016/j.ajog.2021.06.008
     source_license: CC表示なし（Elsevier）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: SMFM の2021年指針の抄録で確認した範囲。DAA は国内承認薬だが妊娠中の投与は確立しておらず、国内添付文書での個別確認は未了。日本の妊婦健診でも HCV抗体は妊娠初期検査に含まれている（PG-043）
   curriculum:
@@ -1597,6 +1618,9 @@
   - date: '2026-10-31'
     by: claude-code
     change: 取り込み：raw/47_pn_b.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-3260 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: PG-046
   domain: PG
   subdomain: HBV、HCV、HIV、HTLV-Ⅰ、パルボウイルスB19(伝染性紅斑)、B群連鎖球菌、TORCH症候群

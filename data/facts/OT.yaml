@@ -125,7 +125,7 @@
     url: https://doi.org/10.1177/0194599813517083
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典ガイドラインの推奨はびまん性外耳炎を対象としたもので、耳せつそのものを対象とした推奨ではない。耳せつ特有の治療（切開排膿の適応など）は出典の範囲外。点耳薬・抗菌薬の国内承認・保険適用の個別確認は未実施。
   curriculum:
@@ -141,6 +141,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1343 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OT-005
   domain: OT
   subdomain: 外耳疾患
@@ -160,7 +163,7 @@
     url: https://doi.org/10.1177/0194599816671491
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は米国の診療ガイドラインで、日本の診療実態との差異は確認していない。
   curriculum:
@@ -176,6 +179,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1344 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OT-006
   domain: OT
   subdomain: 外耳疾患
@@ -230,7 +236,7 @@
     url: https://doi.org/10.1016/j.anl.2025.02.001
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値は日本の単施設の後方視的検討に基づく値。化学療法の個別のレジメンは出典の範囲外で、薬剤の国内承認・保険適用は未確認。
   curriculum:
@@ -246,6 +252,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1346 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OT-008
   domain: OT
   subdomain: 中耳疾患
@@ -265,7 +274,7 @@
     url: https://doi.org/10.1097/MAO.0000000000003160
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 割合は海外の症例集積と文献レビューの統合値。ステロイドの国内承認・保険適用は未確認（鼓膜炎への適応を含む）。
   curriculum:
@@ -281,6 +290,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1347 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OT-009
   domain: OT
   subdomain: 中耳疾患
@@ -665,7 +677,7 @@
     url: https://doi.org/10.1101/cshperspect.a033217
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 有病率の具体的数値や聴力像の特徴（高音域から始まる両側性の低下など）は、本カードで確認した出典抄録の範囲に含まれないため記載していない。
   curriculum:
@@ -681,6 +693,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1387 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OT-020
   domain: OT
   subdomain: 難聴
@@ -852,7 +867,7 @@
     url: https://doi.org/10.1001/jama.2020.17647
     source_license: ライセンス表示を確認できず
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 出典は米国の総説で、日本の新生児聴覚スクリーニング制度の実施状況や時期目標は出典の範囲外のため記載していない。
   curriculum:
@@ -868,6 +883,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1388 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OT-025
   domain: OT
   subdomain: 難聴
@@ -998,7 +1016,7 @@
     url: https://doi.org/10.1055/s-2006-945518
     source_license: © Thieme（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 頻度や好発年齢などの具体的数値は、本総説の抄録では確認できなかったため含めていない。個別の検査所見の判定基準も抄録の範囲を超えるため含めていない。
   curriculum:
@@ -1014,6 +1032,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1358 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OT-029
   domain: OT
   subdomain: めまい・平衡障害
@@ -1138,7 +1159,7 @@
     url: https://doi.org/10.1097/MAO.0b013e3181ca843d
     source_license: © Wolters Kluwer（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 数値はいずれも抄録に記載されたメタ解析の結果である。ステロイド製剤の国内承認・保険適用（前庭神経炎に対する適応）の状況は、本調査では個別に確認できなかったため未確認である。前庭神経炎の臨床像そのもの（持続性めまい、頭部衝撃試験など）は本資料の対象外であり含めていない。
   curriculum:
@@ -1154,6 +1175,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1361 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OT-033
   domain: OT
   subdomain: めまい・平衡障害
@@ -1173,7 +1197,7 @@
     url: https://doi.org/10.1159/000490277
     source_license: © S. Karger AG（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: ゲンタマイシンをはじめとする個別薬剤の国内承認・保険適用の状況は、本調査では個別に確認できなかったため未確認である。前庭毒性の発症頻度や、1日1回投与と複数回投与での差などの具体的数値は抄録では確認できなかったため含めていない。シスプラチン等の他の耳毒性薬物は本資料の対象外である。
   curriculum:
@@ -1189,6 +1213,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1362 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OT-034
   domain: OT
   subdomain: めまい・平衡障害
@@ -1500,7 +1527,7 @@
     url: https://doi.org/10.1016/S0030-6665(03)00172-5
     source_license: © Elsevier（CC表示なし）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 反回神経麻痺そのものは呼吸器側（PL-014）が正であり、本カードは耳鼻科側の評価（病歴・原因検索の進め方）に限る。喉頭内視鏡所見の詳細や喉頭筋電図の適応、原因別の割合の具体的数値は、本総説の抄録では確認できなかったため含めていない。2004年の総説であり、その後の診断技術の変化は反映されていない可能性がある。
   curriculum:
@@ -1516,6 +1543,9 @@
   - date: '2026-10-28'
     by: claude-code
     change: 取り込み：raw/26_ds_d.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-1369 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OT-043
   domain: OT
   subdomain: 脳神経疾患
@@ -1684,7 +1714,7 @@
     url: https://doi.org/10.1002/ar.22578
     source_license: © Wiley（PMC掲載は著者原稿で、CC表示を確認できず）
     legal_basis: B
-    source_class: UNKNOWN
+    source_class: RESTRICTED
     corroboration: null
   uncertainty: 本カードに挙げた薬剤（シスプラチン、ゲンタマイシン、アミカシン、ネオマイシン、フロセミド）はいずれも国内で承認されている薬剤であり、本カードは各薬剤の適応や用法を述べたものではなく、承認された治療に伴って生じうる聴器毒性の特徴を、原因薬剤としての観点から列挙したものである。個別薬剤の効能・効果と用法・用量は各製剤の添付文書による。ループ利尿薬については、出典の記載が単独投与時の一過性の影響とアミノグリコシド併用時の障害の増強にとどまるため、その範囲で記載した。聴器毒性の頻度の見積もりは研究間で差が大きいため、本カードには数値を含めていない。
   curriculum:
@@ -1700,6 +1730,9 @@
   - date: '2026-11-01'
     by: claude-code
     change: 取り込み：raw/63_brushup_a.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-24'
+    by: claude-code
+    change: source_class を UNKNOWN から RESTRICTED に変更（出典 SRC-4624 の照合結果に合わせる）。作り手（Muse）のライセンス一括ふるい分け（reports/license_screen_all_muse.md、2026-11-24）
 - id: OT-048
   domain: OT
   subdomain: 老人性難聴

@@ -60,7 +60,7 @@
 
 - 条件：region: 欧州／study: ガイドライン（欧州心臓病学会・欧州動脈硬化学会、2019年）
 - 不確実性：数値はガイドラインの治療目標の表（Table 7）と推奨文から読み取り。米国の2018年AHA/ACCガイドラインは絶対的な目標値ではなく治療の閾値に基づく方式で枠組みが異なるが、1枚のカードの出典を1文献にそろえるため本カードには含めていない（米国分の数値は未確認）。
-- 出典：Mach F, Baigent C, Catapano AL, et al. 2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk. European Heart Journal. 2020;41(1):111-188.　[DOI 10.1093/eurheartj/ehz455](https://doi.org/10.1093/eurheartj/ehz455)　[PMID 31504418](https://pubmed.ncbi.nlm.nih.gov/31504418/)（区分 UNKNOWN）
+- 出典：Mach F, Baigent C, Catapano AL, et al. 2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk. European Heart Journal. 2020;41(1):111-188.　[DOI 10.1093/eurheartj/ehz455](https://doi.org/10.1093/eurheartj/ehz455)　[PMID 31504418](https://pubmed.ncbi.nlm.nih.gov/31504418/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-7-A-①（原発性高脂血症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-482 (id: JlvnmMw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-004&card_id=MT-004&version=f02435afae)　（版 `f02435afae`）
 
@@ -92,7 +92,7 @@
 
 - 条件：region: 国際／study: 無作為化二重盲検プラセボ対照試験（FOURIER、2017年）
 - 不確実性：数値は試験の抄録で確認した。心血管死単独の有意な低下は抄録の範囲では示されていない。国内承認については、エボロクマブが家族性高コレステロール血症・高コレステロール血症（心血管イベントの発現リスクが高く、HMG-CoA還元酵素阻害剤で効果不十分な場合に限る）に承認されていることをPMDAの添付文書情報で確認した。スタチン自体の心血管イベント抑制のエビデンス（個別試験の数値）は本カードの出典には含まれない。
-- 出典：Sabatine MS, Giugliano RP, Keech AC, et al. Evolocumab and Clinical Outcomes in Patients with Cardiovascular Disease (FOURIER). The New England Journal of Medicine. 2017;376(18):1713-1722.　[DOI 10.1056/NEJMoa1615664](https://doi.org/10.1056/NEJMoa1615664)　[PMID 28304224](https://pubmed.ncbi.nlm.nih.gov/28304224/)（区分 UNKNOWN）
+- 出典：Sabatine MS, Giugliano RP, Keech AC, et al. Evolocumab and Clinical Outcomes in Patients with Cardiovascular Disease (FOURIER). The New England Journal of Medicine. 2017;376(18):1713-1722.　[DOI 10.1056/NEJMoa1615664](https://doi.org/10.1056/NEJMoa1615664)　[PMID 28304224](https://pubmed.ncbi.nlm.nih.gov/28304224/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-7-A-①（原発性高脂血症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-482 (id: JlvnmMw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-006&card_id=MT-006&version=eb1133b892)　（版 `eb1133b892`）
 
@@ -124,7 +124,7 @@
 
 - 条件：region: 国際／study: 総説（高トリグリセリド血症による急性膵炎、2020年）
 - 不確実性：内容は総説の抄録で確認した。膵炎の発症リスクが高まる具体的なトリグリセリド値の閾値は抄録の範囲では確認できなかったため、主張文には数値を入れていない。アフェレーシスとインスリン療法は治療法の名前にとどめ、適応の詳細は未確認である。
-- 出典：Yang AL, McNabb-Baltar J. Hypertriglyceridemia and acute pancreatitis. Pancreatology. 2020;20(5):795-800.　[DOI 10.1016/j.pan.2020.06.005](https://doi.org/10.1016/j.pan.2020.06.005)　[PMID 32571534](https://pubmed.ncbi.nlm.nih.gov/32571534/)（区分 UNKNOWN）
+- 出典：Yang AL, McNabb-Baltar J. Hypertriglyceridemia and acute pancreatitis. Pancreatology. 2020;20(5):795-800.　[DOI 10.1016/j.pan.2020.06.005](https://doi.org/10.1016/j.pan.2020.06.005)　[PMID 32571534](https://pubmed.ncbi.nlm.nih.gov/32571534/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-7-A-①（原発性高脂血症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-482 (id: JlvnmMw)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-008&card_id=MT-008&version=b656169927)　（版 `b656169927`）
 
@@ -140,7 +140,7 @@
 
 - 条件：region: 日本／study: 診断基準の原著（日本肥満学会の肥満症診断基準検討委員会、2002年）
 - 不確実性：数値（BMI 25、内臓脂肪面積100 cm²）は出典論文の抄録で確認した。肥満症の健康障害の全項目（11項目）の一覧は抄録の範囲では確認していないため、主張文では同論文で評価された合併症の例示にとどめた。現行の肥満症診療ガイドライン（2022年版）との定義の差分は未確認である。
-- 出典：Examination Committee of Criteria for 'Obesity Disease' in Japan; Japan Society for the Study of Obesity. New criteria for 'obesity disease' in Japan. Circulation Journal. 2002;66(11):987-992.　[DOI 10.1253/circj.66.987](https://doi.org/10.1253/circj.66.987)　[PMID 12419927](https://pubmed.ncbi.nlm.nih.gov/12419927/)（区分 UNKNOWN）
+- 出典：Examination Committee of Criteria for 'Obesity Disease' in Japan; Japan Society for the Study of Obesity. New criteria for 'obesity disease' in Japan. Circulation Journal. 2002;66(11):987-992.　[DOI 10.1253/circj.66.987](https://doi.org/10.1253/circj.66.987)　[PMID 12419927](https://pubmed.ncbi.nlm.nih.gov/12419927/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-7-B-①（単純性肥満、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-483 (id: JlvnmM4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-009&card_id=MT-009&version=6af0d16fe0)　（版 `6af0d16fe0`）
 
@@ -156,7 +156,7 @@
 
 - 条件：region: 国際／study: 無作為化二重盲検プラセボ対照試験（STEP 1、2021年）
 - 不確実性：数値は試験の抄録で確認した。国内承認については、セマグルチド（ウゴービ）が肥満症に効能・効果のある薬剤として2023年11月に薬価収載されたことを日本肥満学会のステートメントで確認した。ただし保険適用は、高血圧・脂質異常症・2型糖尿病のいずれかを有し食事・運動療法で効果が不十分で、BMI 27以上かつ肥満に関連する健康障害を2つ以上有する場合、またはBMI 35以上の場合に限られ、STEP 1の登録基準とは異なる。外科療法（スリーブ状胃切除術など）の適応基準と治療成績は本カードの出典では確認していないため、主張文には含めていない。
-- 出典：Wilding JPH, Batterham RL, Calanna S, et al. Once-Weekly Semaglutide in Adults with Overweight or Obesity (STEP 1). The New England Journal of Medicine. 2021;384(11):989-1002.　[DOI 10.1056/NEJMoa2032183](https://doi.org/10.1056/NEJMoa2032183)　[PMID 33567185](https://pubmed.ncbi.nlm.nih.gov/33567185/)（区分 UNKNOWN）
+- 出典：Wilding JPH, Batterham RL, Calanna S, et al. Once-Weekly Semaglutide in Adults with Overweight or Obesity (STEP 1). The New England Journal of Medicine. 2021;384(11):989-1002.　[DOI 10.1056/NEJMoa2032183](https://doi.org/10.1056/NEJMoa2032183)　[PMID 33567185](https://pubmed.ncbi.nlm.nih.gov/33567185/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-7-B-①（単純性肥満、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-483 (id: JlvnmM4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-010&card_id=MT-010&version=76c284eb9a)　（版 `76c284eb9a`）
 
@@ -220,7 +220,7 @@
 
 - 条件：region: 国際／study: 無作為化二重盲検プラセボ対照試験（ATTR-ACT、2018年）
 - 不確実性：数値は試験の抄録で確認した。国内承認については、タファミジスがトランスサイレチン型心アミロイドーシス（野生型及び変異型）に承認されていることをPMDAの医薬品リスク管理計画書（ビンダケル・ビンマック）で確認した。トランスサイレチン型家族性アミロイドポリニューロパチーへの適応は用量・製剤が別であり、本カードの範囲外である。野生型と変異型で効果に差があるかどうかは抄録の範囲では確認していない。
-- 出典：Maurer MS, Schwartz JH, Gundapaneni B, et al. Tafamidis Treatment for Patients with Transthyretin Amyloid Cardiomyopathy (ATTR-ACT). The New England Journal of Medicine. 2018;379(11):1007-1016.　[DOI 10.1056/NEJMoa1805689](https://doi.org/10.1056/NEJMoa1805689)　[PMID 30145929](https://pubmed.ncbi.nlm.nih.gov/30145929/)（区分 UNKNOWN）
+- 出典：Maurer MS, Schwartz JH, Gundapaneni B, et al. Tafamidis Treatment for Patients with Transthyretin Amyloid Cardiomyopathy (ATTR-ACT). The New England Journal of Medicine. 2018;379(11):1007-1016.　[DOI 10.1056/NEJMoa1805689](https://doi.org/10.1056/NEJMoa1805689)　[PMID 30145929](https://pubmed.ncbi.nlm.nih.gov/30145929/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-8-B-①（全身性アミロイドーシス、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-486 (id: JlvnmNM)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-015&card_id=MT-015&version=071d424076)　（版 `071d424076`）
 
@@ -236,7 +236,7 @@
 
 - 条件：region: 米国／study: ガイドライン（米国内分泌学会、小児肥満、2017年）
 - 不確実性：内容はガイドラインの抄録（結論部）で確認したもので、割合（約17%）は米国の数値である。脂質スクリーニングの具体的な対象年齢と頻度は抄録の範囲では確認していない。日本の小児肥満の判定方法（肥満度など）と国内の診療体制は本カードでは扱っていない。薬物療法の位置づけは2017年時点の推奨であり、その後の承認薬の状況は未確認である。
-- 出典：Styne DM, Arslanian SA, Connor EL, et al. Pediatric Obesity-Assessment, Treatment, and Prevention: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2017;102(3):709-757.　[DOI 10.1210/jc.2016-2573](https://doi.org/10.1210/jc.2016-2573)　[PMID 28359099](https://pubmed.ncbi.nlm.nih.gov/28359099/)（区分 UNKNOWN）
+- 出典：Styne DM, Arslanian SA, Connor EL, et al. Pediatric Obesity-Assessment, Treatment, and Prevention: An Endocrine Society Clinical Practice Guideline. The Journal of Clinical Endocrinology & Metabolism. 2017;102(3):709-757.　[DOI 10.1210/jc.2016-2573](https://doi.org/10.1210/jc.2016-2573)　[PMID 28359099](https://pubmed.ncbi.nlm.nih.gov/28359099/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-7-B-①（単純性肥満、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-483 (id: JlvnmM4)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-016&card_id=MT-016&version=07675ae8ad)　（版 `07675ae8ad`）
 
@@ -396,7 +396,7 @@
 
 - 条件：region: 国際／study: 総説（2012年）
 - 不確実性：2012年の総説であり、その後の治療の進展（急性肝性ポルフィリン症への新規治療など）は含まれていない。ヘミン製剤の国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
-- 出典：Balwani M, Desnick RJ. The porphyrias: advances in diagnosis and treatment. Blood. 2012;120(23):4496-4504.　[DOI 10.1182/blood-2012-05-423186](https://doi.org/10.1182/blood-2012-05-423186)　[PMID 22791288](https://pubmed.ncbi.nlm.nih.gov/22791288/)（区分 UNKNOWN）
+- 出典：Balwani M, Desnick RJ. The porphyrias: advances in diagnosis and treatment. Blood. 2012;120(23):4496-4504.　[DOI 10.1182/blood-2012-05-423186](https://doi.org/10.1182/blood-2012-05-423186)　[PMID 22791288](https://pubmed.ncbi.nlm.nih.gov/22791288/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-9-C-①（ポルフィリン症、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-028&card_id=MT-028&version=21d6c3074d)　（版 `21d6c3074d`）
 
@@ -412,7 +412,7 @@
 
 - 条件：region: 国際／study: 国際分類（2017年）
 - 不確実性：各亜型の個別の臨床基準と原因遺伝子の一覧は、本カードでは抄録で確認できた範囲（13亜型、分子診断の位置づけ）にとどめ、含めていない。
-- 出典：Malfait F, Francomano C, Byers P, et al. The 2017 international classification of the Ehlers-Danlos syndromes. Am J Med Genet C Semin Med Genet. 2017;175(1):8-26.　[DOI 10.1002/ajmg.c.31552](https://doi.org/10.1002/ajmg.c.31552)　[PMID 28306229](https://pubmed.ncbi.nlm.nih.gov/28306229/)（区分 UNKNOWN）
+- 出典：Malfait F, Francomano C, Byers P, et al. The 2017 international classification of the Ehlers-Danlos syndromes. Am J Med Genet C Semin Med Genet. 2017;175(1):8-26.　[DOI 10.1002/ajmg.c.31552](https://doi.org/10.1002/ajmg.c.31552)　[PMID 28306229](https://pubmed.ncbi.nlm.nih.gov/28306229/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-9-F-②（Ehlers-Danlos症候群、c）　コアカリ：PS-02-14-05 (id: JkxnuTA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-031&card_id=MT-031&version=7a5fccdc3e)　（版 `7a5fccdc3e`）
 
@@ -460,7 +460,7 @@
 
 - 条件：region: 英国／study: 総説（1993年）
 - 不確実性：出典は1993年の総説であり、家族性若年性高尿酸血症性腎症の原因遺伝子（ウロモジュリンUMODなど）の同定と、現在の常染色体優性尿細管間質性腎疾患（ADTKD）としての分類は、その後の進展であるため本カードには含めていない。Lesch-Nyhan症候群の神経症状と遺伝形式は、出典表の確認経路に記した Torres & Puig（2007年）の抄録で照合した。アロプリノールの国内承認・保険適用は、本調査では添付文書で確認していない（未確認）。
-- 出典：Cameron JS, Moro F, Simmonds HA. Gout, uric acid and purine metabolism in paediatric nephrology. Pediatr Nephrol. 1993;7(1):105-118.　[DOI 10.1007/BF00861588](https://doi.org/10.1007/BF00861588)　[PMID 8439471](https://pubmed.ncbi.nlm.nih.gov/8439471/)（区分 UNKNOWN）
+- 出典：Cameron JS, Moro F, Simmonds HA. Gout, uric acid and purine metabolism in paediatric nephrology. Pediatr Nephrol. 1993;7(1):105-118.　[DOI 10.1007/BF00861588](https://doi.org/10.1007/BF00861588)　[PMID 8439471](https://pubmed.ncbi.nlm.nih.gov/8439471/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-9-B-②（高尿酸血症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-485 (id: JlvnmNE)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-034&card_id=MT-034&version=db260edb4b)　（版 `db260edb4b`）
 
@@ -508,7 +508,7 @@
 
 - 条件：region: 国際／study: 症例に基づく総説（栄養欠乏の皮膚所見、2016年）
 - 不確実性：主張の内容は出典の本文（出版社ページ）で確認した範囲にとどめた。壊血病の歯肉出血や関節痛などの個別症状の詳細は、本出典の本文で確認した範囲を超えるものは含めていない。ビタミンC製剤とナイアシン製剤の国内の承認・保険適用は、本調査では確認していない（未確認）。
-- 出典：Galimberti F, Mesinkovska NA. Skin findings associated with nutritional deficiencies. Cleve Clin J Med. 2016;83(10):731-739.　[DOI 10.3949/ccjm.83a.15061](https://doi.org/10.3949/ccjm.83a.15061)　[PMID 27726828](https://pubmed.ncbi.nlm.nih.gov/27726828/)（区分 UNKNOWN）
+- 出典：Galimberti F, Mesinkovska NA. Skin findings associated with nutritional deficiencies. Cleve Clin J Med. 2016;83(10):731-739.　[DOI 10.3949/ccjm.83a.15061](https://doi.org/10.3949/ccjm.83a.15061)　[PMID 27726828](https://pubmed.ncbi.nlm.nih.gov/27726828/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-9-A-①（ビタミン欠乏症、a）　コアカリ：PS-02-14-05 (id: JkxnuTA)；TBL-01-00-484 (id: JlvnmNA)；TBL-02-13-007 (id: JlAKpsU)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-038&card_id=MT-038&version=a227b0f881)　（版 `a227b0f881`）
 
@@ -556,7 +556,7 @@
 
 - 条件：region: 国際／study: 診断基準の原著論文（改正Ghent基準、2010年）
 - 不確実性：元のカードにあった頻度（3,000〜5,000人に1人）、侵される臓器の列挙（眼・心血管・骨格）、β遮断薬による治療と待機的手術という治療の内容は、本出典（診断基準の原著論文）の抄録では確認できないため新カードには含めていない。全身所見のスコアの項目ごとの内訳も抄録の範囲外である。新カードでは薬剤名を扱っていない。
-- 出典：Loeys BL, Dietz HC, Braverman AC, Callewaert BL, De Backer J, Devereux RB, et al. The revised Ghent nosology for the Marfan syndrome. J Med Genet. 2010;47(7):476-485.　[DOI 10.1136/jmg.2009.072785](https://doi.org/10.1136/jmg.2009.072785)　[PMID 20591885](https://pubmed.ncbi.nlm.nih.gov/20591885/)（区分 UNKNOWN）
+- 出典：Loeys BL, Dietz HC, Braverman AC, Callewaert BL, De Backer J, Devereux RB, et al. The revised Ghent nosology for the Marfan syndrome. J Med Genet. 2010;47(7):476-485.　[DOI 10.1136/jmg.2009.072785](https://doi.org/10.1136/jmg.2009.072785)　[PMID 20591885](https://pubmed.ncbi.nlm.nih.gov/20591885/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅹ-9-F-①（Marfan症候群、b）　コアカリ：PS-02-14-05 (id: JkxnuTA)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20MT-041&card_id=MT-041&version=1884ccb5c6)　（版 `1884ccb5c6`）
 

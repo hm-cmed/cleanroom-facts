@@ -294,7 +294,7 @@
 
 - 条件：population: 間質性肺疾患に伴う肺高血圧症／region: 国際
 - 不確実性：ミネソタ大学の書誌ページの抄録で確認。国内でのトレプロスチニル吸入製剤の承認状況は確認していない。
-- 出典：Waxman A, Restrepo-Jaramillo R, Thenappan T, et al. Inhaled Treprostinil in Pulmonary Hypertension Due to Interstitial Lung Disease. N Engl J Med 2021;384(4):325-334　[DOI 10.1056/NEJMoa2008470](https://doi.org/10.1056/NEJMoa2008470)　[PMID 33440084](https://pubmed.ncbi.nlm.nih.gov/33440084/)（区分 UNKNOWN）
+- 出典：Waxman A, Restrepo-Jaramillo R, Thenappan T, et al. Inhaled Treprostinil in Pulmonary Hypertension Due to Interstitial Lung Disease. N Engl J Med 2021;384(4):325-334　[DOI 10.1056/NEJMoa2008470](https://doi.org/10.1056/NEJMoa2008470)　[PMID 33440084](https://pubmed.ncbi.nlm.nih.gov/33440084/)（区分 RESTRICTED）
 - 出題基準：医学各論 Ⅳ-5-C-③（肺疾患あるいは低酸素血症に続発する肺高血圧症、b）　コアカリ：PS-02-07-05 (id: JkxnuRE)；TBL-01-00-226 (id: JlvnlzQ)；TBL-01-00-218 (id: JlvnlyY)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20PV-025&card_id=PV-025&version=be5158c737)　（版 `be5158c737`）
 
