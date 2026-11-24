@@ -4,7 +4,7 @@
 
 全 25 件のうち、監修済み 0 件。
 
-## 制度
+## コースディベロップメント
 
 ### ME-001　下書き（出典の照合前）
 
@@ -14,6 +14,31 @@
 - 不確実性：出典内の位置：資質・能力の10項目は第1章、診療参加型臨床実習の診療科と期間は診療参加型臨床実習実施ガイドラインの記載。内容は文部科学省の改訂説明資料およびモデル・コア・カリキュラム改訂に関する連絡調整委員会の資料で照合した。provenance の URL は確認に用いた改訂説明資料（厚生労働省のサイトに掲載された文部科学省資料）を指す。本文そのものは医学・歯学共通の文書だが、本カードは医学部分のみを扱う。歯学・薬学・看護学の各コア・カリキュラムは対象外（第2弾以降）。
 - 出典：文部科学省. 医学／歯学教育モデル・コア・カリキュラム（令和4年度改訂版）. 2022年11月　[リンク](https://iryou-kinmukankyou.mhlw.go.jp/files/Attachment/452/%EF%BC%92%20%E3%80%90%E6%96%87%E9%83%A8%E7%A7%91%E5%AD%A6%E7%9C%81%E3%80%91%E5%8C%BB%E5%AD%A6%E6%95%99%E8%82%B2%E3%83%A2%E3%83%87%E3%83%AB%E3%83%BB%E3%82%B3%E3%82%A2%E3%83%BB%E3%82%AB%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%A0%E6%94%B9%E8%A8%82%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf_safe.pdf)（区分 GOV_JP）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-001&card_id=ME-001&version=66f2fa43ce)　（版 `66f2fa43ce`）
+
+### ME-005　下書き（出典の照合前）
+
+> 医師臨床研修の到達目標は、2020年度の研修から適用される「臨床研修の到達目標、方略及び評価」に定められ、A. 医師としての基本的価値観（プロフェッショナリズム）4項目、B. 資質・能力9項目、C. 基本的診療業務4項目の3部で構成される。AとBの項目は、卒前の医学教育モデル・コア・カリキュラムの資質・能力とほぼ共通している。Cは臨床研修に固有の部分で、コンサルテーションや医療連携が可能な状況下で、一般外来診療・病棟診療・初期救急対応・地域医療を単独で行えることが2年間の目標とされる。達成度の評価は、各分野・診療科のローテーション終了時に研修医評価票を用いて行う評価と、2年間の研修終了時に行う総括的な判定を組み合わせて行われ、その運用の指針として「医師臨床研修指導ガイドライン」が示されている。
+
+- 条件：region: 日本／対象: 医師（初期臨床研修医）
+- 不確実性：出典内の位置：到達目標の構成と項目名は「I 到達目標」、評価の仕組みは「III 到達目標の達成度評価」の記載。Aの4項目は、社会的使命と公衆衛生への寄与、利他的な態度、人間性の尊重、自らを高める姿勢。Bの9項目は、医学・医療における倫理性、医学知識と問題対応能力、診療技能と患者ケア、コミュニケーション能力、チーム医療の実践、医療の質と安全の管理、社会における医療の実践、科学的探究、生涯にわたって共に学ぶ姿勢。指導ガイドラインは2023年度版（2023年11月一部改訂）が今回確認した最新の版である。
+- 出典：厚生労働省. 臨床研修の到達目標、方略及び評価（令和2年度研修から適用）　[リンク](https://www.mhlw.go.jp/content/10800000/000341137.pdf)（区分 GOV_JP）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-005&card_id=ME-005&version=380f1ad69a)　（版 `380f1ad69a`）
+
+### ME-024　下書き（出典の照合前）
+
+> 世界保健機関（WHO）は2011年、医療専門職の学校教育で患者安全を教えるための「患者安全カリキュラムガイド（多職種版）」を公表した。対象は医学・歯学・助産・看護・薬学の学生であり、すべての医療専門職の継続的な研修にも使える構成とされている。ガイドは2部構成で、Part A は患者安全の教育を導入し広げるための教員向けガイド、Part B は授業にそのまま使える11のトピックからなる。Part B のトピックは、患者安全とは何か、ヒューマンファクターズの適用が重要である理由、システムと複雑性が患者ケアに及ぼす影響、効果的なチームの一員として働くこと、エラーから学んで害を防ぐこと、臨床リスクの理解と管理、質改善の方法を用いたケアの改善、患者と介護者との関わり、感染予防と管理、侵襲的処置における患者安全、薬剤の安全性の改善、である。
+
+- 条件：region: 国際／対象: 医療系の学生（医学・歯学・助産・看護・薬学）
+- 不確実性：出典内の位置：構成（Part A・Part B）と11トピックは本文の目次で確認した。トピック名は概念名の並びとして挙げ、各トピックの説明文は訳していない（依頼文の注意1）。ライセンスは WHO IRIS の登録情報と本文の権利表示で確認し、CC ライセンスの表示がないため RESTRICTED とした。日本語版は東京医科大学から刊行されているが、本カードは英語版に基づく。コアカリ第1層には患者安全の独立した項目がないため、説明文に患者安全を含む CS（患者ケアのための診療技能）を付けた。
+- 出典：World Health Organization. Patient Safety Curriculum Guide: Multi-professional Edition. Geneva: World Health Organization; 2011. ISBN 978 92 4 150195 8　[リンク](https://iris.who.int/handle/10665/44641)（区分 RESTRICTED）
+- 出題基準：必修の基本的事項 4-B（医療事故の発生と再発の防止、-）　コアカリ：CS (id: JnGV10w)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-024&card_id=ME-024&version=ed45bc754b)　（版 `ed45bc754b`）
+
+**[ここまでの 3 件（ME-001〜ME-024）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-001%E3%80%9CME-024&cards=ME-001%2066f2fa43ce%0AME-005%20380f1ad69a%0AME-024%20ed45bc754b)**
+
+---
+
+## 制度
 
 ### ME-002　下書き（出典の照合前）
 
@@ -25,15 +50,6 @@
 - 出題基準：必修の基本的事項 2-A-①（医師法、-）　コアカリ：－
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-002&card_id=ME-002&version=b36eee865c)　（版 `b36eee865c`）
 
-### ME-003　下書き（出典の照合前）
-
-> 臨床実習前OSCE（Pre-CC OSCE）は、医学生が診療参加型臨床実習を始める前に、医療面接や身体各部の診察などの技能・態度が一定水準に達しているかを、模擬患者やシミュレーターを用いたステーション形式で評価する試験で、その結果は臨床実習開始の可否の判定に用いられる。課題は6課題が必須で、医療面接（10分）と、その他の課題（各5分）からなる。2023年度からは、共用試験CBTとともに、医師法に基づく共用試験の一部として公的に位置づけられている。これに対し、臨床実習後OSCE（Post-CC OSCE）は臨床実習を終えた6年生を対象に2020年から全国で実施され、ある症候をもつ患者への医療面接・身体診察・臨床推論と指導医への報告を1つの試験室で行う課題で、実施機関が用意する3課題に各大学の独自課題1〜3課題を加えて実施され、結果は卒業判定の資料となる。
-
-- 条件：region: 日本／対象: 医学生（医学部の学生）
-- 不確実性：出典内の位置：臨床実習前OSCEとCBTの公的化は報告書の検討項目（2）。provenance の URL は厚生労働省が公表した報告書概要を指す。Pre-CC OSCEの開始年度は資料により表記が異なる（報告書案では平成17年、日医寄稿では2006年度）ため主張に含めていない。Post-CC OSCEは医師法に基づく共用試験には含まれず、卒業判定の資料として各大学で用いられる位置づけである。課題数等の細部は日医寄稿に基づくため、実施機関（医療系大学間共用試験実施評価機構）の現行の実施要項での再確認が望ましい。
-- 出典：厚生労働省 医道審議会医師分科会. シームレスな医師養成に向けた共用試験の公的化といわゆるStudent Doctorの法的位置づけについて（報告書）. 令和2年5月　[リンク](https://www.mhlw.go.jp/content/10803000/000672617.pdf)（区分 GOV_JP）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-003&card_id=ME-003&version=648a59517f)　（版 `648a59517f`）
-
 ### ME-004　下書き（出典の照合前）
 
 > 診療に従事しようとする医師は、2年以上、都道府県知事の指定する病院等において臨床研修を受けなければならない（医師法第16条の2第1項）。臨床研修は、1968年の制度創設以来、受けるよう努めるものとする努力義務であったが、2000年の医師法改正により義務化され、2004年度から必修の制度として開始された。その後、制度は概ね5年ごとに到達目標や臨床研修病院の在り方等の見直しが行われてきている。
@@ -43,25 +59,6 @@
 - 出典：医師法（昭和23年法律第201号、令和3年法律第49号による改正を含む現行法）　[リンク](https://laws.e-gov.go.jp/law/323AC0000000201)（区分 GOV_JP）
 - 出題基準：必修の基本的事項 2-A-①（医師法、-）　コアカリ：－
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-004&card_id=ME-004&version=eab3de9525)　（版 `eab3de9525`）
-
-### ME-005　下書き（出典の照合前）
-
-> 医師臨床研修の到達目標は、2020年度の研修から適用される「臨床研修の到達目標、方略及び評価」に定められ、A. 医師としての基本的価値観（プロフェッショナリズム）4項目、B. 資質・能力9項目、C. 基本的診療業務4項目の3部で構成される。AとBの項目は、卒前の医学教育モデル・コア・カリキュラムの資質・能力とほぼ共通している。Cは臨床研修に固有の部分で、コンサルテーションや医療連携が可能な状況下で、一般外来診療・病棟診療・初期救急対応・地域医療を単独で行えることが2年間の目標とされる。達成度の評価は、各分野・診療科のローテーション終了時に研修医評価票を用いて行う評価と、2年間の研修終了時に行う総括的な判定を組み合わせて行われ、その運用の指針として「医師臨床研修指導ガイドライン」が示されている。
-
-- 条件：region: 日本／対象: 医師（初期臨床研修医）
-- 不確実性：出典内の位置：到達目標の構成と項目名は「I 到達目標」、評価の仕組みは「III 到達目標の達成度評価」の記載。Aの4項目は、社会的使命と公衆衛生への寄与、利他的な態度、人間性の尊重、自らを高める姿勢。Bの9項目は、医学・医療における倫理性、医学知識と問題対応能力、診療技能と患者ケア、コミュニケーション能力、チーム医療の実践、医療の質と安全の管理、社会における医療の実践、科学的探究、生涯にわたって共に学ぶ姿勢。指導ガイドラインは2023年度版（2023年11月一部改訂）が今回確認した最新の版である。
-- 出典：厚生労働省. 臨床研修の到達目標、方略及び評価（令和2年度研修から適用）　[リンク](https://www.mhlw.go.jp/content/10800000/000341137.pdf)（区分 GOV_JP）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-005&card_id=ME-005&version=380f1ad69a)　（版 `380f1ad69a`）
-
-### ME-011　下書き（出典の照合前）
-
-> 共用試験CBTは、医学生が診療参加型臨床実習を始める前に、臨床実習に必要な知識の修得度を評価するコンピュータ試験で、臨床実習前OSCEとともに医師法に基づく共用試験（臨床実習前共用試験）を構成する。出題は医学教育モデル・コア・カリキュラムの内容に基づき、各大学が作成し実施機関が校閲した問題を蓄積したプールから行われる。実施機関の2024年の公表資料によれば、設問は5選択肢択一240問・多選択肢択一40問・5選択肢択一の4連問40問の合計320問で、6時間で解答する。この中には、難易度や識別力を測るための採点対象外の試行問題が含まれ、受験者ごとに異なる問題セットが項目反応理論（IRT）によって等質になるよう調整される。合格には、CBTとOSCEの両方で、あらかじめ定められた到達基準に達することが必要である。共用試験は、2002年にトライアルが始まり、2005年12月に正式実施が開始された当初は大学間の任意の共通試験だったが、2023年度からは医師法に基づく公的な試験となり、合格が診療参加型臨床実習で医行為を行うための法的な前提となった。
-
-- 条件：region: 日本／対象: 医学生（医学部の学生）
-- 不確実性：数値（320問・6時間・設問形式の内訳）は、実施機関の関係者による2024年時点の公表解説に基づくもので、年度により変更されうる。2023年度の公的化の前後で、任意の共通試験から医師法に基づく法定の試験へ位置づけが変わり、2025年4月からは医師国家試験の受験資格にも共用試験の合格が位置づけられている（ME-002）。実施機関（CATO）の公式サイトの現行ガイドブックは今回直接取得できなかったため、機構関係者の公表解説と文部科学省の資料で代替確認した。指定試験機関に関する医師法施行規則の条文の逐語確認はしていない。歯学の共用試験CBTも並行して存在するが、本カードは医学の制度を扱う。
-- 出典：医師法（昭和23年法律第201号、令和3年法律第49号による改正を含む現行法）　[リンク](https://laws.e-gov.go.jp/law/323AC0000000201)（区分 GOV_JP）
-- 出題基準：必修の基本的事項 2-A-①（医師法、-）　コアカリ：－
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-011&card_id=ME-011&version=07e8eefd9c)　（版 `07e8eefd9c`）
 
 ### ME-020　下書き（出典の照合前）
 
@@ -81,11 +78,20 @@
 - 出典：厚生労働省. 令和8年度の医師臨床研修マッチング結果をお知らせします（報道発表資料）. 2026年10月22日　[リンク](https://www.mhlw.go.jp/stf/houdou/0000180824_00012.html)（区分 GOV_JP）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-021&card_id=ME-021&version=918f5f9b7d)　（版 `918f5f9b7d`）
 
-**[ここまでの 8 件（ME-001〜ME-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-001%E3%80%9CME-021&cards=ME-001%2066f2fa43ce%0AME-002%20b36eee865c%0AME-003%20648a59517f%0AME-004%20eab3de9525%0AME-005%20380f1ad69a%0AME-011%2007e8eefd9c%0AME-020%20533fb7a54c%0AME-021%20918f5f9b7d)**
+**[ここまでの 4 件（ME-002〜ME-021）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-002%E3%80%9CME-021&cards=ME-002%20b36eee865c%0AME-004%20eab3de9525%0AME-020%20533fb7a54c%0AME-021%20918f5f9b7d)**
 
 ---
 
-## 評価
+## アセスメント
+
+### ME-003　下書き（出典の照合前）
+
+> 臨床実習前OSCE（Pre-CC OSCE）は、医学生が診療参加型臨床実習を始める前に、医療面接や身体各部の診察などの技能・態度が一定水準に達しているかを、模擬患者やシミュレーターを用いたステーション形式で評価する試験で、その結果は臨床実習開始の可否の判定に用いられる。課題は6課題が必須で、医療面接（10分）と、その他の課題（各5分）からなる。2023年度からは、共用試験CBTとともに、医師法に基づく共用試験の一部として公的に位置づけられている。これに対し、臨床実習後OSCE（Post-CC OSCE）は臨床実習を終えた6年生を対象に2020年から全国で実施され、ある症候をもつ患者への医療面接・身体診察・臨床推論と指導医への報告を1つの試験室で行う課題で、実施機関が用意する3課題に各大学の独自課題1〜3課題を加えて実施され、結果は卒業判定の資料となる。
+
+- 条件：region: 日本／対象: 医学生（医学部の学生）
+- 不確実性：出典内の位置：臨床実習前OSCEとCBTの公的化は報告書の検討項目（2）。provenance の URL は厚生労働省が公表した報告書概要を指す。Pre-CC OSCEの開始年度は資料により表記が異なる（報告書案では平成17年、日医寄稿では2006年度）ため主張に含めていない。Post-CC OSCEは医師法に基づく共用試験には含まれず、卒業判定の資料として各大学で用いられる位置づけである。課題数等の細部は日医寄稿に基づくため、実施機関（医療系大学間共用試験実施評価機構）の現行の実施要項での再確認が望ましい。
+- 出典：厚生労働省 医道審議会医師分科会. シームレスな医師養成に向けた共用試験の公的化といわゆるStudent Doctorの法的位置づけについて（報告書）. 令和2年5月　[リンク](https://www.mhlw.go.jp/content/10803000/000672617.pdf)（区分 GOV_JP）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-003&card_id=ME-003&version=648a59517f)　（版 `648a59517f`）
 
 ### ME-006　下書き（出典の照合前）
 
@@ -105,14 +111,15 @@
 - 出典：ten Cate O. Entrustability of professional activities and competency-based training. Med Educ. 2005;39(12):1176-1177　[DOI 10.1111/j.1365-2929.2005.02341.x](https://doi.org/10.1111/j.1365-2929.2005.02341.x)　[PMID 16313574](https://pubmed.ncbi.nlm.nih.gov/16313574/)（区分 RESTRICTED）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-007&card_id=ME-007&version=bbf4ea4a24)　（版 `bbf4ea4a24`）
 
-### ME-008　下書き（出典の照合前）
+### ME-011　下書き（出典の照合前）
 
-> 臨床教育におけるフィードバックとは、教育者が学習者の臨床場面での行動を観察し、その観察に基づいて学習者へ情報を返すことで、学習者がその後の実践で自らの行動を改善していけるよう支える働きをいう。フィードバックは臨床技能の修得に欠かせない過程であるが、臨床現場では省略されたり、不適切に行われたりしやすい。効果を上げるためには、フィードバックと評価（判定）とを区別することと、学習者本人ではなく、観察できる行動に焦点を当てることが重要であるとされる。
+> 共用試験CBTは、医学生が診療参加型臨床実習を始める前に、臨床実習に必要な知識の修得度を評価するコンピュータ試験で、臨床実習前OSCEとともに医師法に基づく共用試験（臨床実習前共用試験）を構成する。出題は医学教育モデル・コア・カリキュラムの内容に基づき、各大学が作成し実施機関が校閲した問題を蓄積したプールから行われる。実施機関の2024年の公表資料によれば、設問は5選択肢択一240問・多選択肢択一40問・5選択肢択一の4連問40問の合計320問で、6時間で解答する。この中には、難易度や識別力を測るための採点対象外の試行問題が含まれ、受験者ごとに異なる問題セットが項目反応理論（IRT）によって等質になるよう調整される。合格には、CBTとOSCEの両方で、あらかじめ定められた到達基準に達することが必要である。共用試験は、2002年にトライアルが始まり、2005年12月に正式実施が開始された当初は大学間の任意の共通試験だったが、2023年度からは医師法に基づく公的な試験となり、合格が診療参加型臨床実習で医行為を行うための法的な前提となった。
 
-- 条件：region: 国際／対象: 教育者
-- 不確実性：原著の抄録で確認した範囲（フィードバックの定義、評価との区別、観察可能な行動への焦点）で記載した。具体的な進め方の手順は原著本文のガイドライン部分に基づくため、本カードには含めていない。原著にDOIは付与されていない。第1文は原著の定義文の翻訳ではなく、概念を自作の文で構成し直した（2026-11-23改訂）。
-- 出典：Ende J. Feedback in clinical medical education. JAMA. 1983;250(6):777-781　[PMID 6876333](https://pubmed.ncbi.nlm.nih.gov/6876333/)（区分 RESTRICTED）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-008&card_id=ME-008&version=813131233f)　（版 `813131233f`）
+- 条件：region: 日本／対象: 医学生（医学部の学生）
+- 不確実性：数値（320問・6時間・設問形式の内訳）は、実施機関の関係者による2024年時点の公表解説に基づくもので、年度により変更されうる。2023年度の公的化の前後で、任意の共通試験から医師法に基づく法定の試験へ位置づけが変わり、2025年4月からは医師国家試験の受験資格にも共用試験の合格が位置づけられている（ME-002）。実施機関（CATO）の公式サイトの現行ガイドブックは今回直接取得できなかったため、機構関係者の公表解説と文部科学省の資料で代替確認した。指定試験機関に関する医師法施行規則の条文の逐語確認はしていない。歯学の共用試験CBTも並行して存在するが、本カードは医学の制度を扱う。
+- 出典：医師法（昭和23年法律第201号、令和3年法律第49号による改正を含む現行法）　[リンク](https://laws.e-gov.go.jp/law/323AC0000000201)（区分 GOV_JP）
+- 出題基準：必修の基本的事項 2-A-①（医師法、-）　コアカリ：－
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-011&card_id=ME-011&version=07e8eefd9c)　（版 `07e8eefd9c`）
 
 ### ME-012　下書き（出典の照合前）
 
@@ -132,11 +139,20 @@
 - 出典：Driessen E, van Tartwijk J, van der Vleuten C, Wass V. Portfolios in medical education: why do they meet with mixed success? A systematic review. Med Educ. 2007;41(12):1224-1233　[DOI 10.1111/j.1365-2923.2007.02944.x](https://doi.org/10.1111/j.1365-2923.2007.02944.x)　[PMID 18045373](https://pubmed.ncbi.nlm.nih.gov/18045373/)（区分 RESTRICTED）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-022&card_id=ME-022&version=c1868c0ea5)　（版 `c1868c0ea5`）
 
-**[ここまでの 5 件（ME-006〜ME-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-006%E3%80%9CME-022&cards=ME-006%2055eb75ac85%0AME-007%20bbf4ea4a24%0AME-008%20813131233f%0AME-012%20f5106c6cb3%0AME-022%20c1868c0ea5)**
+**[ここまでの 6 件（ME-003〜ME-022）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-003%E3%80%9CME-022&cards=ME-003%20648a59517f%0AME-006%2055eb75ac85%0AME-007%20bbf4ea4a24%0AME-011%2007e8eefd9c%0AME-012%20f5106c6cb3%0AME-022%20c1868c0ea5)**
 
 ---
 
-## 教育手法
+## ティーチング＆ラーニング
+
+### ME-008　下書き（出典の照合前）
+
+> 臨床教育におけるフィードバックとは、教育者が学習者の臨床場面での行動を観察し、その観察に基づいて学習者へ情報を返すことで、学習者がその後の実践で自らの行動を改善していけるよう支える働きをいう。フィードバックは臨床技能の修得に欠かせない過程であるが、臨床現場では省略されたり、不適切に行われたりしやすい。効果を上げるためには、フィードバックと評価（判定）とを区別することと、学習者本人ではなく、観察できる行動に焦点を当てることが重要であるとされる。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：原著の抄録で確認した範囲（フィードバックの定義、評価との区別、観察可能な行動への焦点）で記載した。具体的な進め方の手順は原著本文のガイドライン部分に基づくため、本カードには含めていない。原著にDOIは付与されていない。第1文は原著の定義文の翻訳ではなく、概念を自作の文で構成し直した（2026-11-23改訂）。
+- 出典：Ende J. Feedback in clinical medical education. JAMA. 1983;250(6):777-781　[PMID 6876333](https://pubmed.ncbi.nlm.nih.gov/6876333/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-008&card_id=ME-008&version=813131233f)　（版 `813131233f`）
 
 ### ME-009　下書き（出典の照合前）
 
@@ -174,15 +190,6 @@
 - 出典：Hew KF, Lo CK. Flipped classroom improves student learning in health professions education: a meta-analysis. BMC Med Educ. 2018;18:38　[DOI 10.1186/s12909-018-1144-z](https://doi.org/10.1186/s12909-018-1144-z)　[PMID 29544495](https://pubmed.ncbi.nlm.nih.gov/29544495/)（区分 OPEN）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-015&card_id=ME-015&version=b2d53aacb9)　（版 `b2d53aacb9`）
 
-### ME-016　下書き（出典の照合前）
-
-> 医療専門職教育におけるインターネット基盤学習の効果を統合したメタ解析（対象201件の研究）では、比較の相手によって効果の大きさが大きく異なった。教育介入のない場合との比較では効果が大きく、知識で効果量1.00（95%信頼区間 0.90〜1.10、126件）、技能で0.85（0.49〜1.20、16件）、学習者の行動と患者への効果で0.82（0.63〜1.02、32件）だった。一方、インターネットを用いない従来型の教育との比較では効果は小さく、知識で0.12（0.003〜0.24、63件）、技能で0.09（-0.26〜0.44、12件）、満足度で0.10（有意差なし、43件）にとどまり、著者らは、インターネット基盤学習の効果は従来型の方法と同程度だと結論づけた。研究間のばらつき（異質性）は大きく、I²はすべての解析で79%以上だった。
-
-- 条件：region: 国際／対象: 教育者
-- 不確実性：数値（効果量・信頼区間・各解析の研究数）は原著の抄録で確認した。対象文献は1990年から2007年に検索されたもので、その後の技術環境や学習基盤の変化は反映されていない。原著の結論文の翻訳は転載せず、数値と方向性を自作の文で記載した。
-- 出典：Cook DA, Levinson AJ, Garside S, Dupras DM, Erwin PJ, Montori VM. Internet-based learning in the health professions: a meta-analysis. JAMA. 2008;300(10):1181-1196　[DOI 10.1001/jama.300.10.1181](https://doi.org/10.1001/jama.300.10.1181)　[PMID 18780847](https://pubmed.ncbi.nlm.nih.gov/18780847/)（区分 RESTRICTED）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-016&card_id=ME-016&version=55f6231a95)　（版 `55f6231a95`）
-
 ### ME-023　下書き（出典の照合前）
 
 > チーム基盤型学習（TBL）は、学習者が事前に学習したうえで、個人テスト（iRAT）、チームテスト（tRAT）、応用演習の順に進める能動学習法で、他の能動学習法に比べて教員の負担が少ないとされる。保健医療職教育におけるTBLの学習成果への効果を検討したBEME系統的レビュー（BEME Guide No. 30）では、330件の題目から14件の研究が選ばれた。知識のスコアについては、14件のうち7件でTBL群の有意な上昇が報告され、4件では差がなく、3件では上昇は見られたものの統計的な有意性への言及がなかった。学習者の反応は一様ではなく、TBL群で有意な改善を報告した研究は1件、比較対照の側が有意に好意的だった研究も1件あった。著者らは、知識のスコアが改善する一方で学習者の反応が分かれたのは、学習者中心の方法であるTBLが学習者に求める負荷の大きさを反映している可能性があると考察した。
@@ -192,7 +199,17 @@
 - 出典：Fatmi M, Hartling L, Hillier T, Campbell S, Oswald AE. The effectiveness of team-based learning on learning outcomes in health professions education: BEME Guide No. 30. Med Teach. 2013;35(12):e1608-e1624　[DOI 10.3109/0142159X.2013.849802](https://doi.org/10.3109/0142159X.2013.849802)　[PMID 24245519](https://pubmed.ncbi.nlm.nih.gov/24245519/)（区分 RESTRICTED）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-023&card_id=ME-023&version=118af08ed9)　（版 `118af08ed9`）
 
-**[ここまでの 6 件（ME-009〜ME-023）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-009%E3%80%9CME-023&cards=ME-009%202eaee9084e%0AME-013%206d3abc022a%0AME-014%20cb9d8b9ac1%0AME-015%20b2d53aacb9%0AME-016%2055f6231a95%0AME-023%20118af08ed9)**
+### ME-025　下書き（出典の照合前）
+
+> 多職種連携教育（IPE）は、異なる職種の学習者が、互いの職種の役割や専門性を理解し合い、将来チームで協働して働くための準備をする教育の進め方を指す。世界保健機関（WHO）は2010年、「多職種連携教育と協働実践のための行動枠組み」を公表し、IPE を、協働実践に対応できる保健医療人材を育てるための方策として位置づけた。この枠組みでは、IPE の進め方を左右する仕組みとして教育者とカリキュラムに関する仕組みを整理し、現場での協働実践を左右する仕組みとして、制度の運営、業務の進め方、職場の文化や環境などに関する仕組みを整理して、各国や各機関が自国の状況に合わせて検討する際の材料を示している。枠組みが対象とする保健医療人材は、医師や看護師などの専門職に限らず、健康に関わる幅広い働き手を含む。
+
+- 条件：region: 国際／対象: 医療系の学生と医療専門職（全職種）
+- 不確実性：IPE の定義について：WHO の枠組みは、英国の多職種連携教育推進センター（CAIPE）の定義（2つ以上の職種の学習者が互いについて・互いから・互いと共に学ぶ、という趣旨の定義文）を採用している。主張文ではこの定義文を訳して用いず、IPE が何を指すかを自分の言葉で説明した（依頼文の注意1）。枠組み文書には ISBN は付されておらず、文書番号は WHO/HRH/HPN/10.3 である（WHO IRIS の登録情報で確認）。ライセンスは本文の権利表示（All rights reserved）と IRIS の登録情報で確認し、CC ライセンスの表示がないため RESTRICTED とした。
+- 出典：World Health Organization. Framework for Action on Interprofessional Education and Collaborative Practice. Geneva: World Health Organization; 2010 (WHO/HRH/HPN/10.3)　[リンク](https://iris.who.int/handle/10665/70185)（区分 RESTRICTED）
+- 出題基準：必修の基本的事項 16-A-②（多職種の各専門性の理解、-）　コアカリ：IP (id: JnGV11A)
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-025&card_id=ME-025&version=6739c9e838)　（版 `6739c9e838`）
+
+**[ここまでの 7 件（ME-008〜ME-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-008%E3%80%9CME-025&cards=ME-008%20813131233f%0AME-009%202eaee9084e%0AME-013%206d3abc022a%0AME-014%20cb9d8b9ac1%0AME-015%20b2d53aacb9%0AME-023%20118af08ed9%0AME-025%206739c9e838)**
 
 ---
 
@@ -207,15 +224,6 @@
 - 出典：Passi V, Doug M, Peile E, Thistlethwaite J, Johnson N. Developing medical professionalism in future doctors: a systematic review. Int J Med Educ. 2010;1:19-29　[DOI 10.5116/ijme.4bda.ca2a](https://doi.org/10.5116/ijme.4bda.ca2a)（区分 OPEN）
 - 出題基準：必修の基本的事項 1（医師のプロフェッショナリズム、-）　コアカリ：PR (id: JnGV10M)
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-010&card_id=ME-010&version=f12bf1d56d)　（版 `f12bf1d56d`）
-
-### ME-017　下書き（出典の照合前）
-
-> 医学教育における教員育成（FD：ファカルティ・ディベロップメント）の取り組みについて、1980年から2002年までの文献を対象としたBEME系統的レビューでは、初めの2,777件の抄録から53件の研究（無作為化比較試験6件、準実験的研究47件）が選ばれた。報告された効果は、参加者の満足度が高いこと、教育に対する態度の前向きな変化、教育原則の知識の増加と教育スキルの向上（知識を正式なテストで測った研究では有意な向上が示された）、参加者自身の報告と学生による検出の両方で示された教育行動の変化であり、組織の実践の変化や学生の学習への効果はほとんど検討されていなかった。効果と関連する取り組みの特徴として、体験型の学習、フィードバックの提供、同僚との良好な関係の構築、教育原則に沿った設計、1つの取り組みの中での多様な教育方法の併用が挙げられた。対象研究の方法論には限界があると著者らは述べている。
-
-- 条件：region: 国際／対象: 教育者
-- 不確実性：数値（2,777件から53件、研究デザインの内訳）は原著の抄録で確認した。対象文献は2002年までのもので、その後のFD研究は含まれていない。結論の文章の翻訳は転載せず、報告された効果の範囲を自作の文で記載した。
-- 出典：Steinert Y, Mann K, Centeno A, Dolmans D, Spencer J, Gelula M, Prideaux D. A systematic review of faculty development initiatives designed to improve teaching effectiveness in medical education: BEME Guide No. 8. Med Teach. 2006;28(6):497-526　[DOI 10.1080/01421590600902976](https://doi.org/10.1080/01421590600902976)　[PMID 17074699](https://pubmed.ncbi.nlm.nih.gov/17074699/)（区分 RESTRICTED）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-017&card_id=ME-017&version=e730d45305)　（版 `e730d45305`）
 
 ### ME-018　下書き（出典の照合前）
 
@@ -235,27 +243,37 @@
 - 出典：West CP, Dyrbye LN, Erwin PJ, Shanafelt TD. Interventions to prevent and reduce physician burnout: a systematic review and meta-analysis. Lancet. 2016;388(10057):2272-2281　[DOI 10.1016/S0140-6736(16)31279-X](https://doi.org/10.1016/S0140-6736(16)31279-X)　[PMID 27692469](https://pubmed.ncbi.nlm.nih.gov/27692469/)（区分 RESTRICTED）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-019&card_id=ME-019&version=487b1792aa)　（版 `487b1792aa`）
 
-### ME-024　下書き（出典の照合前）
+**[ここまでの 3 件（ME-010〜ME-019）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-010%E3%80%9CME-019&cards=ME-010%20f12bf1d56d%0AME-018%20d4c03c5388%0AME-019%20487b1792aa)**
 
-> 世界保健機関（WHO）は2011年、医療専門職の学校教育で患者安全を教えるための「患者安全カリキュラムガイド（多職種版）」を公表した。対象は医学・歯学・助産・看護・薬学の学生であり、すべての医療専門職の継続的な研修にも使える構成とされている。ガイドは2部構成で、Part A は患者安全の教育を導入し広げるための教員向けガイド、Part B は授業にそのまま使える11のトピックからなる。Part B のトピックは、患者安全とは何か、ヒューマンファクターズの適用が重要である理由、システムと複雑性が患者ケアに及ぼす影響、効果的なチームの一員として働くこと、エラーから学んで害を防ぐこと、臨床リスクの理解と管理、質改善の方法を用いたケアの改善、患者と介護者との関わり、感染予防と管理、侵襲的処置における患者安全、薬剤の安全性の改善、である。
+---
 
-- 条件：region: 国際／対象: 医療系の学生（医学・歯学・助産・看護・薬学）
-- 不確実性：出典内の位置：構成（Part A・Part B）と11トピックは本文の目次で確認した。トピック名は概念名の並びとして挙げ、各トピックの説明文は訳していない（依頼文の注意1）。ライセンスは WHO IRIS の登録情報と本文の権利表示で確認し、CC ライセンスの表示がないため RESTRICTED とした。日本語版は東京医科大学から刊行されているが、本カードは英語版に基づく。コアカリ第1層には患者安全の独立した項目がないため、説明文に患者安全を含む CS（患者ケアのための診療技能）を付けた。
-- 出典：World Health Organization. Patient Safety Curriculum Guide: Multi-professional Edition. Geneva: World Health Organization; 2011. ISBN 978 92 4 150195 8　[リンク](https://iris.who.int/handle/10665/44641)（区分 RESTRICTED）
-- 出題基準：必修の基本的事項 4-B（医療事故の発生と再発の防止、-）　コアカリ：CS (id: JnGV10w)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-024&card_id=ME-024&version=ed45bc754b)　（版 `ed45bc754b`）
+## ICTを用いた教育
 
-### ME-025　下書き（出典の照合前）
+### ME-016　下書き（出典の照合前）
 
-> 多職種連携教育（IPE）は、異なる職種の学習者が、互いの職種の役割や専門性を理解し合い、将来チームで協働して働くための準備をする教育の進め方を指す。世界保健機関（WHO）は2010年、「多職種連携教育と協働実践のための行動枠組み」を公表し、IPE を、協働実践に対応できる保健医療人材を育てるための方策として位置づけた。この枠組みでは、IPE の進め方を左右する仕組みとして教育者とカリキュラムに関する仕組みを整理し、現場での協働実践を左右する仕組みとして、制度の運営、業務の進め方、職場の文化や環境などに関する仕組みを整理して、各国や各機関が自国の状況に合わせて検討する際の材料を示している。枠組みが対象とする保健医療人材は、医師や看護師などの専門職に限らず、健康に関わる幅広い働き手を含む。
+> 医療専門職教育におけるインターネット基盤学習の効果を統合したメタ解析（対象201件の研究）では、比較の相手によって効果の大きさが大きく異なった。教育介入のない場合との比較では効果が大きく、知識で効果量1.00（95%信頼区間 0.90〜1.10、126件）、技能で0.85（0.49〜1.20、16件）、学習者の行動と患者への効果で0.82（0.63〜1.02、32件）だった。一方、インターネットを用いない従来型の教育との比較では効果は小さく、知識で0.12（0.003〜0.24、63件）、技能で0.09（-0.26〜0.44、12件）、満足度で0.10（有意差なし、43件）にとどまり、著者らは、インターネット基盤学習の効果は従来型の方法と同程度だと結論づけた。研究間のばらつき（異質性）は大きく、I²はすべての解析で79%以上だった。
 
-- 条件：region: 国際／対象: 医療系の学生と医療専門職（全職種）
-- 不確実性：IPE の定義について：WHO の枠組みは、英国の多職種連携教育推進センター（CAIPE）の定義（2つ以上の職種の学習者が互いについて・互いから・互いと共に学ぶ、という趣旨の定義文）を採用している。主張文ではこの定義文を訳して用いず、IPE が何を指すかを自分の言葉で説明した（依頼文の注意1）。枠組み文書には ISBN は付されておらず、文書番号は WHO/HRH/HPN/10.3 である（WHO IRIS の登録情報で確認）。ライセンスは本文の権利表示（All rights reserved）と IRIS の登録情報で確認し、CC ライセンスの表示がないため RESTRICTED とした。
-- 出典：World Health Organization. Framework for Action on Interprofessional Education and Collaborative Practice. Geneva: World Health Organization; 2010 (WHO/HRH/HPN/10.3)　[リンク](https://iris.who.int/handle/10665/70185)（区分 RESTRICTED）
-- 出題基準：必修の基本的事項 16-A-②（多職種の各専門性の理解、-）　コアカリ：IP (id: JnGV11A)
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-025&card_id=ME-025&version=6739c9e838)　（版 `6739c9e838`）
+- 条件：region: 国際／対象: 教育者
+- 不確実性：数値（効果量・信頼区間・各解析の研究数）は原著の抄録で確認した。対象文献は1990年から2007年に検索されたもので、その後の技術環境や学習基盤の変化は反映されていない。原著の結論文の翻訳は転載せず、数値と方向性を自作の文で記載した。
+- 出典：Cook DA, Levinson AJ, Garside S, Dupras DM, Erwin PJ, Montori VM. Internet-based learning in the health professions: a meta-analysis. JAMA. 2008;300(10):1181-1196　[DOI 10.1001/jama.300.10.1181](https://doi.org/10.1001/jama.300.10.1181)　[PMID 18780847](https://pubmed.ncbi.nlm.nih.gov/18780847/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-016&card_id=ME-016&version=55f6231a95)　（版 `55f6231a95`）
 
-**[ここまでの 6 件（ME-010〜ME-025）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-010%E3%80%9CME-025&cards=ME-010%20f12bf1d56d%0AME-017%20e730d45305%0AME-018%20d4c03c5388%0AME-019%20487b1792aa%0AME-024%20ed45bc754b%0AME-025%206739c9e838)**
+**[ここまでの 1 件（ME-016）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-016&cards=ME-016%2055f6231a95)**
+
+---
+
+## 教育管理
+
+### ME-017　下書き（出典の照合前）
+
+> 医学教育における教員育成（FD：ファカルティ・ディベロップメント）の取り組みについて、1980年から2002年までの文献を対象としたBEME系統的レビューでは、初めの2,777件の抄録から53件の研究（無作為化比較試験6件、準実験的研究47件）が選ばれた。報告された効果は、参加者の満足度が高いこと、教育に対する態度の前向きな変化、教育原則の知識の増加と教育スキルの向上（知識を正式なテストで測った研究では有意な向上が示された）、参加者自身の報告と学生による検出の両方で示された教育行動の変化であり、組織の実践の変化や学生の学習への効果はほとんど検討されていなかった。効果と関連する取り組みの特徴として、体験型の学習、フィードバックの提供、同僚との良好な関係の構築、教育原則に沿った設計、1つの取り組みの中での多様な教育方法の併用が挙げられた。対象研究の方法論には限界があると著者らは述べている。
+
+- 条件：region: 国際／対象: 教育者
+- 不確実性：数値（2,777件から53件、研究デザインの内訳）は原著の抄録で確認した。対象文献は2002年までのもので、その後のFD研究は含まれていない。結論の文章の翻訳は転載せず、報告された効果の範囲を自作の文で記載した。
+- 出典：Steinert Y, Mann K, Centeno A, Dolmans D, Spencer J, Gelula M, Prideaux D. A systematic review of faculty development initiatives designed to improve teaching effectiveness in medical education: BEME Guide No. 8. Med Teach. 2006;28(6):497-526　[DOI 10.1080/01421590600902976](https://doi.org/10.1080/01421590600902976)　[PMID 17074699](https://pubmed.ncbi.nlm.nih.gov/17074699/)（区分 RESTRICTED）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20ME-017&card_id=ME-017&version=e730d45305)　（版 `e730d45305`）
+
+**[ここまでの 1 件（ME-017）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20ME-017&cards=ME-017%20e730d45305)**
 
 ---
 

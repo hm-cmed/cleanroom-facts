@@ -1,0 +1,12 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round_ME4_request.md
+round: ME4
+name: 医療者教育（ME）第3弾（5領域）
+id_start:
+  ME: 26
+src_range:
+- 5300
+- 5399
+target_cards:
+- 40
+- 50
+targets: []
