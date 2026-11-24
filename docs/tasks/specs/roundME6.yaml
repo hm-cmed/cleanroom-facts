@@ -1,0 +1,12 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round_ME6_request.md
+round: ME6
+name: 医療者教育（ME）第4弾（医師以外の職種の養成制度、残り29件）
+id_start:
+  ME: 84
+src_range:
+- 5400
+- 5499
+target_cards:
+- 29
+- 29
+targets: []

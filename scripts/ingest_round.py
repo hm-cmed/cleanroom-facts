@@ -136,13 +136,16 @@ def main(raw_path: str, prefix: str, append: bool = False) -> None:
         if sid in known:
             reused.append(sid)
             continue
-        doi = null_if_dash(r.get("DOI"))
-        pmid = null_if_dash(r.get("PMID"))
+        doi = null_if_dash(r.get("DOI") or r.get("doi"))
+        pmid = null_if_dash(r.get("PMID") or r.get("pmid"))
+        title = r.get("出典") or r.get("書誌")
+        lic = r.get("ライセンス表示") or r.get("ライセンス") or r.get("license")
+        lb = null_if_dash(r.get("legal_basis")) or "B"
         sources.append({
-            "id": sid, "legacy_id": None, "title": r.get("出典"), "citation": r.get("出典"),
+            "id": sid, "legacy_id": None, "title": title, "citation": title,
             "doi": doi, "pmid": pmid, "pmcid": None,
-            "license_note": r.get("ライセンス表示"), "legacy_basis_tag": None,
-            "legal_basis": "B", "source_class": r.get("source_class"),
+            "license_note": lic, "legacy_basis_tag": None,
+            "legal_basis": lb, "source_class": r.get("source_class"),
             "history": [h(f"取り込み：{origin} の出典マスター表から")],
         })
         added.append(sid)
