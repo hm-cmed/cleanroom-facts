@@ -156,3 +156,4 @@
 - 2026-11-26：三原の決定（EB を別の分野にする、カリキュラム欄はすべて空、12件を1回で依頼）。domains.yaml・schema・CLAUDE.md §4 に EB を追加し、依頼文 round_EB1_request.md（SRC-5500〜5599）を作成。
 - 2026-11-26：EB 第1陣（EB-001〜012、出典 SRC-5500〜5515）を取り込み、data/facts/EB.yaml を新しく作った。報告 reports/EB1_ingest_20261126.md。
 - 2026-11-26：SRC-5514（NIHR）のライセンスを確認。OGL などの表示が確認できず UNKNOWN のまま。
+- 2026-11-27：EB1 の DOI 補完。SRC-5501 に DOI を追加、EB-001 の uncertainty を修正。SRC-5500・5510・5515 は null のまま。

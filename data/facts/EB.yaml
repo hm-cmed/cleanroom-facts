@@ -19,7 +19,7 @@
     legal_basis: B
     source_class: RESTRICTED
     corroboration: 'PICOの起源は Richardson WS et al. The well-built clinical question: a key to evidence-based decisions. ACP J Club. 1995（SRC-5501）で、構造化された疑問の立て方を提示した論文として位置づけられる'
-  uncertainty: 主出典はオンライン版の Handbook（version 6.5、2024年）で、2026-11-26 に参照した。章の内容は版によって更新されるため、版と参照日をここに残す。Richardson 1995 には PMID・DOI が付与されていないため、題名・誌名・年で登録した。
+  uncertainty: 主出典はオンライン版の Handbook（version 6.5、2024年）で、2026-11-26 に参照した。章の内容は版によって更新されるため、版と参照日をここに残す。Richardson 1995 には PMID がないため、DOI（10.7326/acpjc-1995-123-3-a12）と題名・誌名・年で登録した。
   curriculum:
     kokushi: null
     core_curriculum: null
@@ -33,6 +33,9 @@
   - date: '2026-11-26'
     by: claude-code
     change: 取り込み：raw/EB1_evidence_methods.md から（新形式。legal_basis・source_class は原本の値）
+  - date: '2026-11-27'
+    by: claude-code
+    change: uncertainty の Richardson 1995 の識別子の記載を、DOI の確認に合わせて直した（主張文は変更なし）
 - id: EB-002
   domain: EB
   subdomain: EBMの基礎

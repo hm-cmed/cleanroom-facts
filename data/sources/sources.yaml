@@ -41531,11 +41531,14 @@
   - date: '2026-11-26'
     by: claude-code
     change: 書誌を Handbook 全体（version 6.5）に改め、カードごとの章を併記した。出典表では Chapter 8 の書誌だったが、EB-001・EB-006 は別の章を使っているため
+  - date: '2026-11-27'
+    by: claude-code
+    change: DOI は null のまま。章の DOI は2019年の書籍版（10.1002/9781119536604.ch2、ch8 など）にしかなく、カードが使うのはオンライン版 version 6.5（2024）のため、付けると版を取り違える（raw/EB1_doi_supplement_20261126.md）
 - id: SRC-5501
   legacy_id: null
   title: 'Richardson WS, Wilson MC, Nishikawa J, Hayward RSA. The well-built clinical question: a key to evidence-based decisions. ACP J Club. 1995;123(3):A12-A13'
   citation: 'Richardson WS, Wilson MC, Nishikawa J, Hayward RSA. The well-built clinical question: a key to evidence-based decisions. ACP J Club. 1995;123(3):A12-A13'
-  doi: null
+  doi: 10.7326/acpjc-1995-123-3-a12
   pmid: null
   pmcid: null
   license_note: © American College of Physicians（CC表示なし）
@@ -41546,6 +41549,9 @@
   - date: '2026-11-26'
     by: claude-code
     change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+  - date: '2026-11-27'
+    by: claude-code
+    change: DOI を追加（作り手が Crossref で 2026-11-26 に確認：題名・誌名・刊行年が一致。raw/EB1_doi_supplement_20261126.md）。PMID はなし
 - id: SRC-5502
   legacy_id: null
   title: 'Moher D, Hopewell S, Schulz KF, et al. CONSORT 2010 explanation and elaboration: updated guidelines for reporting parallel group randomised trials. BMJ. 2010;340:c869'

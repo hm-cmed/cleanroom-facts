@@ -11,9 +11,9 @@
 > PICOは、臨床上の疑問を、対象（Patient）、介入（Intervention）、比較（Comparison）、アウトカム（Outcome）の4要素に分けて構造化する枠組みである。疑問をこの形に整えることで、文献検索の語の組み立てと、システマティックレビューでどの研究を採用するかを決める適格基準の両方に、そのまま使える形になる。治療の疑問で生まれた枠組みだが、疑問の種類に応じて要素の置き方は変わり、曝露を扱う場合は介入の代わりに曝露を置く（PECO）などの形も使われる。
 
 - 条件：region: 国際／対象: 医療者・研究者
-- 不確実性：主出典はオンライン版の Handbook（version 6.5、2024年）で、2026-11-26 に参照した。章の内容は版によって更新されるため、版と参照日をここに残す。Richardson 1995 には PMID・DOI が付与されていないため、題名・誌名・年で登録した。
+- 不確実性：主出典はオンライン版の Handbook（version 6.5、2024年）で、2026-11-26 に参照した。章の内容は版によって更新されるため、版と参照日をここに残す。Richardson 1995 には PMID がないため、DOI（10.7326/acpjc-1995-123-3-a12）と題名・誌名・年で登録した。
 - 出典：Higgins JPT, Thomas J, Chandler J, et al, eds. Cochrane Handbook for Systematic Reviews of Interventions version 6.5. Cochrane; 2024（オンライン版。疑問の設定と適格基準に関する章）　[リンク](https://training.cochrane.org/handbook/current)（区分 RESTRICTED）
-- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EB-001&card_id=EB-001&version=0ea14cacd7)　（版 `0ea14cacd7`）
+- [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EB-001&card_id=EB-001&version=73af06a0c9)　（版 `73af06a0c9`）
 
 ### EB-002　下書き（出典の照合前）
 
@@ -33,7 +33,7 @@
 - 出典：Wasserstein RL, Lazar NA. The ASA Statement on p-Values: Context, Process, and Purpose. The American Statistician. 2016;70(2):129-133　[DOI 10.1080/00031305.2016.1154108](https://doi.org/10.1080/00031305.2016.1154108)（区分 RESTRICTED）
 - [このカードを監修する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-review.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20EB-003&card_id=EB-003&version=80e21e1da2)　（版 `80e21e1da2`）
 
-**[ここまでの 3 件（EB-001〜EB-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EB-001%E3%80%9CEB-003&cards=EB-001%200ea14cacd7%0AEB-002%208776a93afa%0AEB-003%2080e21e1da2)**
+**[ここまでの 3 件（EB-001〜EB-003）をまとめて承認する](https://github.com/hm-cmed/cleanroom-facts/issues/new?template=fact-batch-approve.yml&title=%5B%E7%9B%A3%E4%BF%AE%5D%20%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E6%89%BF%E8%AA%8D%20EB-001%E3%80%9CEB-003&cards=EB-001%2073af06a0c9%0AEB-002%208776a93afa%0AEB-003%2080e21e1da2)**
 
 ---
 
