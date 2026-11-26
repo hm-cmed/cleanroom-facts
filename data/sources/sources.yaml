@@ -41498,3 +41498,18 @@
   - date: '2026-11-24'
     by: claude-code
     change: 取り込み：raw/ME6_other_professions.md の出典マスター表から
+- id: SRC-5432
+  legacy_id: null
+  title: 公益社団法人医療系大学間共用試験実施評価機構. 令和5年度からの臨床実習前共用試験の合格判定について（お知らせ）. 令和5年6月20日. https://www.cato.or.jp/cms/file.php?kubun=notice&id=3
+  citation: 公益社団法人医療系大学間共用試験実施評価機構. 令和5年度からの臨床実習前共用試験の合格判定について（お知らせ）. 令和5年6月20日. https://www.cato.or.jp/cms/file.php?kubun=notice&id=3
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: Copyright© 2023- 公益社団法人 医療系大学間共用試験実施評価機構, ALL Rights Reserved
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-26'
+    by: claude-code
+    change: 取り込み：raw/ME002_name_fix_20261126.md の出典候補から（ME-002 の合格者の名称の裏づけ）
