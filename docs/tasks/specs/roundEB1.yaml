@@ -1,0 +1,12 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round_EB1_request.md
+round: EB1
+name: 根拠に基づく医療・研究方法（EB）第1陣
+id_start:
+  EB: 1
+src_range:
+- 5500
+- 5599
+target_cards:
+- 12
+- 13
+targets: []
