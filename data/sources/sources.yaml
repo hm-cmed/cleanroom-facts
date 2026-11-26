@@ -41733,7 +41733,7 @@
   doi: null
   pmid: null
   pmcid: null
-  license_note: 文書・ページにライセンス表示なし（確認できていないため UNKNOWN とし、RESTRICTED と同じ扱い）
+  license_note: ライセンス表示なし（2026-11-26 確認：文書の PDF 版〔2021年4月版、NIHR が2021年3月に確認・推奨〕に著作権・ライセンスの記載なし。nihr.ac.uk のページでもサイトの利用条件・OGL の表示を確認できず）。UNKNOWN のまま
   legacy_basis_tag: null
   legal_basis: B
   source_class: UNKNOWN
@@ -41741,6 +41741,9 @@
   - date: '2026-11-26'
     by: claude-code
     change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+  - date: '2026-11-26'
+    by: claude-code
+    change: 三原の指示（自由に使えるライセンスなら使う）を受けてライセンスを確認した。文書の PDF（learningforinvolvement.org.uk に掲載の2021年4月版）に著作権・ライセンスの記載がなく、NIHR のサイトでも Open Government Licence の表示を確認できなかったため、UNKNOWN のままとした。同じ定義を載せる英国 HRA のページは © HRA で、ライセンスの表示がない
 - id: SRC-5515
   legacy_id: null
   title: 国立研究開発法人日本医療研究開発機構（AMED）. 患者・市民参画（PPI）ガイドブック ～患者と研究者の協働を目指す第一歩として～. AMED; 2019年4月
