@@ -41513,3 +41513,246 @@
   - date: '2026-11-26'
     by: claude-code
     change: 取り込み：raw/ME002_name_fix_20261126.md の出典候補から（ME-002 の合格者の名称の裏づけ）
+- id: SRC-5500
+  legacy_id: null
+  title: Higgins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, Welch VA, eds. Cochrane Handbook for Systematic Reviews of Interventions version 6.5. Cochrane; 2024（オンライン版、training.cochrane.org/handbook）。使う章：EB-001 は疑問の設定と適格基準の章、EB-002 は Chapter 8（Higgins JPT, Savović J, Page MJ, Elbers RG, Sterne JAC. Assessing risk of bias in a randomized trial）、EB-006 は研究の選択の章
+  citation: Higgins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, Welch VA, eds. Cochrane Handbook for Systematic Reviews of Interventions version 6.5. Cochrane; 2024（オンライン版、training.cochrane.org/handbook）。使う章：EB-001 は疑問の設定と適格基準の章、EB-002 は Chapter 8（Higgins JPT, Savović J, Page MJ, Elbers RG, Sterne JAC. Assessing risk of bias in a randomized trial）、EB-006 は研究の選択の章
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © The Cochrane Collaboration（章ごとに CC 表示がないことを確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-26'
+    by: claude-code
+    change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+  - date: '2026-11-26'
+    by: claude-code
+    change: 書誌を Handbook 全体（version 6.5）に改め、カードごとの章を併記した。出典表では Chapter 8 の書誌だったが、EB-001・EB-006 は別の章を使っているため
+- id: SRC-5501
+  legacy_id: null
+  title: 'Richardson WS, Wilson MC, Nishikawa J, Hayward RSA. The well-built clinical question: a key to evidence-based decisions. ACP J Club. 1995;123(3):A12-A13'
+  citation: 'Richardson WS, Wilson MC, Nishikawa J, Hayward RSA. The well-built clinical question: a key to evidence-based decisions. ACP J Club. 1995;123(3):A12-A13'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: © American College of Physicians（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-26'
+    by: claude-code
+    change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+- id: SRC-5502
+  legacy_id: null
+  title: 'Moher D, Hopewell S, Schulz KF, et al. CONSORT 2010 explanation and elaboration: updated guidelines for reporting parallel group randomised trials. BMJ. 2010;340:c869'
+  citation: 'Moher D, Hopewell S, Schulz KF, et al. CONSORT 2010 explanation and elaboration: updated guidelines for reporting parallel group randomised trials. BMJ. 2010;340:c869'
+  doi: 10.1136/bmj.c869
+  pmid: '20332511'
+  pmcid: null
+  license_note: CC BY-NC 2.0（PMC2844943 の license 表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-26'
+    by: claude-code
+    change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+- id: SRC-5503
+  legacy_id: null
+  title: 'Wasserstein RL, Lazar NA. The ASA Statement on p-Values: Context, Process, and Purpose. The American Statistician. 2016;70(2):129-133'
+  citation: 'Wasserstein RL, Lazar NA. The ASA Statement on p-Values: Context, Process, and Purpose. The American Statistician. 2016;70(2):129-133'
+  doi: 10.1080/00031305.2016.1154108
+  pmid: null
+  pmcid: null
+  license_note: © American Statistical Association（Crossref に license 登録なし、出版社ページに CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-26'
+    by: claude-code
+    change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+- id: SRC-5504
+  legacy_id: null
+  title: 'Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021;372:n71'
+  citation: 'Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021;372:n71'
+  doi: 10.1136/bmj.n71
+  pmid: '33782057'
+  pmcid: null
+  license_note: CC BY 4.0（PMC8005924 の license 表示、Crossref と一致）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-26'
+    by: claude-code
+    change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+- id: SRC-5505
+  legacy_id: null
+  title: 'Rethlefsen ML, Kirtley S, Waffenschmidt S, et al. PRISMA-S: an extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews. Systematic Reviews. 2021;10:39'
+  citation: 'Rethlefsen ML, Kirtley S, Waffenschmidt S, et al. PRISMA-S: an extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews. Systematic Reviews. 2021;10:39'
+  doi: 10.1186/s13643-020-01542-z
+  pmid: '33499930'
+  pmcid: null
+  license_note: CC BY 4.0（PMC7839230 の license 表示、Crossref と一致）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-26'
+    by: claude-code
+    change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+- id: SRC-5506
+  legacy_id: null
+  title: 'McGowan J, Sampson M, Salzwedel DM, Cogo E, Foerster V, Lefebvre C. PRESS Peer Review of Electronic Search Strategies: 2015 Guideline Statement. Journal of Clinical Epidemiology. 2016;75:40-46'
+  citation: 'McGowan J, Sampson M, Salzwedel DM, Cogo E, Foerster V, Lefebvre C. PRESS Peer Review of Electronic Search Strategies: 2015 Guideline Statement. Journal of Clinical Epidemiology. 2016;75:40-46'
+  doi: 10.1016/j.jclinepi.2016.01.021
+  pmid: '27005575'
+  pmcid: null
+  license_note: © 2016 The Authors. Published by Elsevier Inc.（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-26'
+    by: claude-code
+    change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+- id: SRC-5507
+  legacy_id: null
+  title: 'Waffenschmidt S, Knelangen M, Sieben W, Bühn S, Pieper D. Single screening versus conventional double screening for study selection in systematic reviews: a methodological systematic review. BMC Medical Research Methodology. 2019;19:132'
+  citation: 'Waffenschmidt S, Knelangen M, Sieben W, Bühn S, Pieper D. Single screening versus conventional double screening for study selection in systematic reviews: a methodological systematic review. BMC Medical Research Methodology. 2019;19:132'
+  doi: 10.1186/s12874-019-0782-0
+  pmid: '31253092'
+  pmcid: null
+  license_note: CC BY 4.0（PMC6599339 の license 表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: OPEN
+  history:
+  - date: '2026-11-26'
+    by: claude-code
+    change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+- id: SRC-5508
+  legacy_id: null
+  title: 'Sterne JAC, Savović J, Page MJ, et al. RoB 2: a revised tool for assessing risk of bias in randomised trials. BMJ. 2019;366:l4898'
+  citation: 'Sterne JAC, Savović J, Page MJ, et al. RoB 2: a revised tool for assessing risk of bias in randomised trials. BMJ. 2019;366:l4898'
+  doi: 10.1136/bmj.l4898
+  pmid: '31462531'
+  pmcid: null
+  license_note: CC表示なし（Crossref は BMJ の TDM ライセンスのみ。PMC 未収載、Europe PMC で Open Access でないことを確認）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-26'
+    by: claude-code
+    change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+- id: SRC-5509
+  legacy_id: null
+  title: 'Guyatt GH, Oxman AD, Vist GE, et al. GRADE: an emerging consensus on rating quality of evidence and strength of recommendations. BMJ. 2008;336(7650):924-926'
+  citation: 'Guyatt GH, Oxman AD, Vist GE, et al. GRADE: an emerging consensus on rating quality of evidence and strength of recommendations. BMJ. 2008;336(7650):924-926'
+  doi: 10.1136/bmj.39489.470347.AD
+  pmid: '18436948'
+  pmcid: null
+  license_note: © BMJ Publishing Group Ltd 2008（PMC2335261 に CC の license 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-26'
+    by: claude-code
+    change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+- id: SRC-5510
+  legacy_id: null
+  title: Schünemann H, Brożek J, Guyatt G, Oxman A, eds. GRADE Handbook. GRADE Working Group（オンライン版、gdt.gradepro.org/app/handbook）
+  citation: Schünemann H, Brożek J, Guyatt G, Oxman A, eds. GRADE Handbook. GRADE Working Group（オンライン版、gdt.gradepro.org/app/handbook）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: GRADE Working Group（オンライン版、版は更新年月で特定。CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-26'
+    by: claude-code
+    change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+- id: SRC-5511
+  legacy_id: null
+  title: 'Andrews JC, Schünemann HJ, Oxman AD, et al. GRADE guidelines: 15. Going from evidence to recommendation—determinants of a recommendation''s direction and strength. Journal of Clinical Epidemiology. 2013;66(7):726-735'
+  citation: 'Andrews JC, Schünemann HJ, Oxman AD, et al. GRADE guidelines: 15. Going from evidence to recommendation—determinants of a recommendation''s direction and strength. Journal of Clinical Epidemiology. 2013;66(7):726-735'
+  doi: 10.1016/j.jclinepi.2013.02.003
+  pmid: '23570745'
+  pmcid: null
+  license_note: © 2013 Elsevier Inc.（CC表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-26'
+    by: claude-code
+    change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+- id: SRC-5512
+  legacy_id: null
+  title: 'Alonso-Coello P, Schünemann HJ, Moberg J, et al. GRADE Evidence to Decision (EtD) frameworks: a systematic and transparent approach to making well informed healthcare choices. 2: Clinical practice guidelines. BMJ. 2016;353:i2089'
+  citation: 'Alonso-Coello P, Schünemann HJ, Moberg J, et al. GRADE Evidence to Decision (EtD) frameworks: a systematic and transparent approach to making well informed healthcare choices. 2: Clinical practice guidelines. BMJ. 2016;353:i2089'
+  doi: 10.1136/bmj.i2089
+  pmid: '27365494'
+  pmcid: null
+  license_note: CC表示なし（Crossref は BMJ の TDM ライセンスのみ。PMC 未収載）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-26'
+    by: claude-code
+    change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+- id: SRC-5513
+  legacy_id: null
+  title: 'Staniszewska S, Brett J, Simera I, et al. GRIPP2 reporting checklists: tools to improve reporting of patient and public involvement in research. BMJ. 2017;358:j3453'
+  citation: 'Staniszewska S, Brett J, Simera I, et al. GRIPP2 reporting checklists: tools to improve reporting of patient and public involvement in research. BMJ. 2017;358:j3453'
+  doi: 10.1136/bmj.j3453
+  pmid: '28768629'
+  pmcid: null
+  license_note: CC BY-NC 4.0（PMC5539518 の license 表示）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-26'
+    by: claude-code
+    change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+- id: SRC-5514
+  legacy_id: null
+  title: 'National Institute for Health and Care Research (NIHR). Briefing notes for researchers: public involvement in NHS, health and social care research. NIHR; 2021（文書番号 27371、nihr.ac.uk）'
+  citation: 'National Institute for Health and Care Research (NIHR). Briefing notes for researchers: public involvement in NHS, health and social care research. NIHR; 2021（文書番号 27371、nihr.ac.uk）'
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 文書・ページにライセンス表示なし（確認できていないため UNKNOWN とし、RESTRICTED と同じ扱い）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: UNKNOWN
+  history:
+  - date: '2026-11-26'
+    by: claude-code
+    change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+- id: SRC-5515
+  legacy_id: null
+  title: 国立研究開発法人日本医療研究開発機構（AMED）. 患者・市民参画（PPI）ガイドブック ～患者と研究者の協働を目指す第一歩として～. AMED; 2019年4月
+  citation: 国立研究開発法人日本医療研究開発機構（AMED）. 患者・市民参画（PPI）ガイドブック ～患者と研究者の協働を目指す第一歩として～. AMED; 2019年4月
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: AMED サイトポリシー：著作権は AMED に帰属し、出典明示の上での著作権法の範囲内の引用等を認め、商業利用は事前連絡が必要（オープンライセンスの付与なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-26'
+    by: claude-code
+    change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
