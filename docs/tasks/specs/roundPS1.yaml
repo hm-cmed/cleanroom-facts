@@ -1,0 +1,12 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round_PS1_request.md
+round: PS1
+name: 医療安全（ME の subdomain「医療安全」）第1陣
+id_start:
+  ME: 113
+src_range:
+- 5600
+- 5699
+target_cards:
+- 11
+- 11
+targets: []
