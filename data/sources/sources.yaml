@@ -41513,6 +41513,9 @@
   - date: '2026-11-26'
     by: claude-code
     change: 取り込み：raw/ME002_name_fix_20261126.md の出典候補から（ME-002 の合格者の名称の裏づけ）
+  - date: '2026-11-27'
+    by: claude-code
+    change: ME-003 の裏づけにも使う（課題構成の記載）
 - id: SRC-5500
   legacy_id: null
   title: Higgins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, Welch VA, eds. Cochrane Handbook for Systematic Reviews of Interventions version 6.5. Cochrane; 2024（オンライン版、training.cochrane.org/handbook）。使う章：EB-001 は疑問の設定と適格基準の章、EB-002 は Chapter 8（Higgins JPT, Savović J, Page MJ, Elbers RG, Sterne JAC. Assessing risk of bias in a randomized trial）、EB-006 は研究の選択の章
@@ -41765,3 +41768,48 @@
   - date: '2026-11-26'
     by: claude-code
     change: 取り込み：raw/EB1_evidence_methods.md の出典マスター表から
+- id: SRC-5433
+  legacy_id: null
+  title: 公益社団法人医療系大学間共用試験実施評価機構. 2026年度医学生共用試験臨床実習前OSCE学修・受験ガイド. 2026. https://www.cato.or.jp/pdf/osce_gakusyuu_juken_2026.pdf
+  citation: 公益社団法人医療系大学間共用試験実施評価機構. 2026年度医学生共用試験臨床実習前OSCE学修・受験ガイド. 2026. https://www.cato.or.jp/pdf/osce_gakusyuu_juken_2026.pdf
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: ALL Rights Reserved（公益社団法人医療系大学間共用試験実施評価機構）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-27'
+    by: claude-code
+    change: 取り込み：raw/ME003_task_count_fix_20261127.md の出典候補から（ME-003 の課題数・時間の裏づけ）
+- id: SRC-5434
+  legacy_id: null
+  title: 公益社団法人医療系大学間共用試験実施評価機構. 2026年度医学生共用試験臨床実習後OSCE学修・受験ガイド（機構課題）. 2026. https://www.cato.or.jp/pdf/osce_jissyuugo_gakusyuu_jyuken_2026.pdf
+  citation: 公益社団法人医療系大学間共用試験実施評価機構. 2026年度医学生共用試験臨床実習後OSCE学修・受験ガイド（機構課題）. 2026. https://www.cato.or.jp/pdf/osce_jissyuugo_gakusyuu_jyuken_2026.pdf
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: ALL Rights Reserved（公益社団法人医療系大学間共用試験実施評価機構）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-27'
+    by: claude-code
+    change: 取り込み：raw/ME003_task_count_fix_20261127.md の出典候補から（ME-003 の課題数・時間の裏づけ）
+- id: SRC-5435
+  legacy_id: null
+  title: 厚生労働科学研究費補助金 総合研究報告書. Post-CC OSCEを国家試験化するにあたっての妥当性・信頼性・公平性等の検証に関する研究（21IA2010）. https://mhlw-grants.niph.go.jp/system/files/report_pdf/202321047B-sougou.pdf
+  citation: 厚生労働科学研究費補助金 総合研究報告書. Post-CC OSCEを国家試験化するにあたっての妥当性・信頼性・公平性等の検証に関する研究（21IA2010）. https://mhlw-grants.niph.go.jp/system/files/report_pdf/202321047B-sougou.pdf
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 権利表示なし（厚生労働科学研究成果データベースの研究報告書。CLAUDE.md §2-2、2026-11-15 の決定により GOV_JP）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-27'
+    by: claude-code
+    change: 取り込み：raw/ME003_task_count_fix_20261127.md の出典候補から（ME-003 の課題数・時間の裏づけ）

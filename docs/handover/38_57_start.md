@@ -157,3 +157,4 @@
 - 2026-11-26：EB 第1陣（EB-001〜012、出典 SRC-5500〜5515）を取り込み、data/facts/EB.yaml を新しく作った。報告 reports/EB1_ingest_20261126.md。
 - 2026-11-26：SRC-5514（NIHR）のライセンスを確認。OGL などの表示が確認できず UNKNOWN のまま。
 - 2026-11-27：EB1 の DOI 補完。SRC-5501 に DOI を追加、EB-001 の uncertainty を修正。SRC-5500・5510・5515 は null のまま。
+- 2026-11-27：ME-003 の課題数を訂正（三原の指摘、raw/ME003_task_count_fix_20261127.md）。出典 SRC-5433〜5435 を登録。新シリーズ PS（医療安全）の分割案（12件）を proposals/patient_safety/ に保存し、検討メモを作成。PS-008 は IG-016 と重なる。
