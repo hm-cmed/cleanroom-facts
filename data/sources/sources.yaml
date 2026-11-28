@@ -41813,3 +41813,81 @@
   - date: '2026-11-27'
     by: claude-code
     change: 取り込み：raw/ME003_task_count_fix_20261127.md の出典候補から（ME-003 の課題数・時間の裏づけ）
+- id: SRC-5700
+  legacy_id: null
+  title: Lee HJ, Kim JI, Cheung DY, et al. Eradication of Helicobacter pylori according to 23S ribosomal RNA point mutations associated with clarithromycin resistance. J Infect Dis. 2013;208(7):1123-1130
+  citation: Lee HJ, Kim JI, Cheung DY, et al. Eradication of Helicobacter pylori according to 23S ribosomal RNA point mutations associated with clarithromycin resistance. J Infect Dis. 2013;208(7):1123-1130
+  doi: 10.1093/infdis/jit287
+  pmid: '23801607'
+  pmcid: null
+  license_note: All rights reserved（OUP。Crossref に license 登録なし、論文ページに CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-28'
+    by: claude-code
+    change: 取り込み：raw/HP021_pcr_card.md の出典マスター表から
+- id: SRC-5701
+  legacy_id: null
+  title: Kawai T, Yamagishi T, Yagi K, et al. Tailored eradication therapy based on fecal Helicobacter pylori clarithromycin sensitivities. J Gastroenterol Hepatol. 2008;23 Suppl 2:S171-S174
+  citation: Kawai T, Yamagishi T, Yagi K, et al. Tailored eradication therapy based on fecal Helicobacter pylori clarithromycin sensitivities. J Gastroenterol Hepatol. 2008;23 Suppl 2:S171-S174
+  doi: 10.1111/j.1440-1746.2008.05408.x
+  pmid: '19120893'
+  pmcid: null
+  license_note: All rights reserved（Wiley。Crossref の license は利用条件へのリンクのみで CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-28'
+    by: claude-code
+    change: 取り込み：raw/HP021_pcr_card.md の出典マスター表から
+- id: SRC-5702
+  legacy_id: null
+  title: Osaki T, Mabe K, Zaman C, et al. Usefulness of detection of clarithromycin-resistant Helicobacter pylori from fecal specimens for young adults treated with eradication therapy. Helicobacter. 2017;22(5):e12396
+  citation: Osaki T, Mabe K, Zaman C, et al. Usefulness of detection of clarithromycin-resistant Helicobacter pylori from fecal specimens for young adults treated with eradication therapy. Helicobacter. 2017;22(5):e12396
+  doi: 10.1111/hel.12396
+  pmid: '28544222'
+  pmcid: null
+  license_note: All rights reserved（Wiley。Crossref の license は利用条件へのリンクのみで CC 表示なし）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: RESTRICTED
+  history:
+  - date: '2026-11-28'
+    by: claude-code
+    change: 取り込み：raw/HP021_pcr_card.md の出典マスター表から
+- id: SRC-5703
+  legacy_id: null
+  title: 厚生労働省 中央社会保険医療協議会 総-2-2「臨床検査の保険適用について（令和4年11月収載予定）」（2022-10-05、mhlw.go.jp）
+  citation: 厚生労働省 中央社会保険医療協議会 総-2-2「臨床検査の保険適用について（令和4年11月収載予定）」（2022-10-05、mhlw.go.jp）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: 政府標準利用規約（厚生労働省ウェブサイトの利用条件による。区分は GOV_JP、文言の最終確認は取り込み側）
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-28'
+    by: claude-code
+    change: 取り込み：raw/HP021_pcr_card.md の出典マスター表から
+- id: SRC-5704
+  legacy_id: null
+  title: 医薬品医療機器総合機構（PMDA）体外診断用医薬品の承認情報：一般的名称「ヘリコバクターピロリ核酸キット」、承認番号 30300EZX00099000、令和3年12月承認（info.pmda.go.jp）
+  citation: 医薬品医療機器総合機構（PMDA）体外診断用医薬品の承認情報：一般的名称「ヘリコバクターピロリ核酸キット」、承認番号 30300EZX00099000、令和3年12月承認（info.pmda.go.jp）
+  doi: null
+  pmid: null
+  pmcid: null
+  license_note: PMDA（https://www.pmda.go.jp/）、公共データ利用規約第1.0版（CC BY 4.0 互換）。PMDA の記載（承認番号・一般的名称・承認日）だけを要約して使う
+  legacy_basis_tag: null
+  legal_basis: B
+  source_class: GOV_JP
+  history:
+  - date: '2026-11-28'
+    by: claude-code
+    change: 取り込み：raw/HP021_pcr_card.md の出典マスター表から
+  - date: '2026-11-28'
+    by: claude-code
+    change: ライセンス表示を、CLAUDE.md §2-2（2026-11-11 の決定）の PMDA の書き方に合わせた（作り手の表では「政府標準利用規約」）
