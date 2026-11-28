@@ -1,0 +1,12 @@
+# 受け入れ検査（scripts/accept_round.py）が読む仕様。依頼文は docs/tasks/round_HP021_request.md
+round: HP021
+name: ピロリ菌のクラリスロマイシン耐性の PCR 検査（1枚追加）
+id_start:
+  HP: 21
+src_range:
+- 5700
+- 5709
+target_cards:
+- 1
+- 1
+targets: []
